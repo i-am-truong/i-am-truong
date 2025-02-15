@@ -1,5 +1,7 @@
 <div align="center">
-   <a href="https://app.daily.dev/bernietruong"><img src="https://api.daily.dev/devcards/v2/UIkWhyIYB8UOTCYhUNN7T.png?type=wide&r=vza" width="652" alt="Bernie Truong's Dev Card"/></a>
+   <a href="https://app.daily.dev/bernietruong">
+      <img src="./devcard.png" width="652" alt="Bernie Truong's Dev Card"/>
+   </a>
 </div>
 
 ## 🌐 Socials:
