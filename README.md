@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on FPT University<br>👯 I’m looking to collaborate on my pet project<br>🤝 I’m looking for help with my programming skills<br>🌱 I’m currently learning Software Engineering<br>⚡ I'm open-minded, inquisitive about novel ideas<br>💬 If you require any further information, feel free to contact me
+<a href="https://app.daily.dev/bernietruong"><img src="https://api.daily.dev/devcards/v2/UIkWhyIYB8UOTCYhUNN7T.png?type=wide&r=67p" width="652" alt="Bernie Truong's Dev Card"/></a>
 
 
 ## 🌐 Socials:
