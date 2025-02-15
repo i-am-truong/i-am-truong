@@ -26,3 +26,4 @@
 [![](https://visitcount.itsvg.in/api?id=i-am-truong&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/i-am-truong/i-am-truong/blob/output/github-snake-dark.svg)
