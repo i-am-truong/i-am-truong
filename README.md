@@ -121,11 +121,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Pseudocode Programming Process Leveled Up My Software Engineering Skills](https://dev.to/bikodes/how-pseudocode-programming-process-leveled-up-my-software-engineering-skills-ob3)
-- [The Honest Roadmap to Learning Machine Learning](https://dev.to/fridaycandours/the-honest-roadmap-to-learning-machine-learning-49al)
-- [Building an AI FAQ Assistant with Redis 8 and OpenAI](https://dev.to/dilumdarshana/building-an-ai-faq-assistant-with-redis-8-and-openai-5o9)
-- [PostgreSQL Installation Guide for Linux Servers](https://dev.to/brenda_mutai_8a282e86666a/postgresql-installation-guide-for-linux-servers-21m4)
-- [Cardemic: Beyond the Code - WLH Challenge](https://dev.to/ariondev/cardemic-beyond-the-code-wlh-challenge-lkk)
+- [Halloween Jean Jacket: Your Go-To Costume That’s Cool, Comfy, and Totally Unique](https://dev.to/thefalconjackets/halloween-jean-jacket-your-go-to-costume-thats-cool-comfy-and-totally-unique-1cn4)
+- [Tesla Found Partly Liable in 2019 Autopilot Death](https://dev.to/ndmckay/tesla-found-partly-liable-in-2019-autopilot-death-1jae)
+- [🔥 Real-Time Data Streaming with Server-Sent Events &lpar;SSE&rpar;](https://dev.to/serifcolakel/real-time-data-streaming-with-server-sent-events-sse-1gb2)
+- [How the Tea App Got Hacked: Firebase Pitfalls and Lessons for Engineers](https://dev.to/uzairsaleemkhan/how-the-tea-app-got-hacked-firebase-pitfalls-and-lessons-for-engineers-5aic)
+- [Master Flutter Responsive Design: 😎The Ultimate Screen Utility Class Guide](https://dev.to/hiteshm_devapp/master-flutter-responsive-design-the-ultimate-screen-utility-class-guide-1dmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
