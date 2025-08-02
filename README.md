@@ -18,9 +18,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Developers Can Use Digital Marketing to Launch and Grow Side Projects 🚀](https://dev.to/dash_media_619c37650210c8/how-developers-can-use-digital-marketing-to-launch-and-grow-side-projects-5b0)
+- [How Languages Talk to Each Other: The Science of Cross-Linguistic Influence](https://dev.to/nimihosmith/how-languages-talk-to-each-other-the-science-of-cross-linguistic-influence-58jf)
+- [🚀 ShowDev: I Built a Small Spring Boot–Based Product – Feedback Welcome!](https://dev.to/steffi_das_f310c87c608304/showdev-i-built-a-small-spring-boot-based-product-feedback-welcome-783)
+- [What happens when Indian heritage meets modern innovation?](https://dev.to/konark_13/-3ilo)
 - [⚙️ Scaling to 100K+ Tenants in a Single DB: Isolation, Partitioning, and Indexing Strategies That Actually Work 💡](https://dev.to/scalabrix/scaling-to-100k-tenants-in-a-single-db-isolation-partitioning-and-indexing-strategies-that-535j)
-- [Empowering AI Conversations Using Redis 8 as a Real-Time Brain](https://dev.to/pooja_bhavani/empowering-ai-conversations-using-redis-8-as-a-real-time-brain-4bmi)
-- [I&#39;m a dev who got tired of losing code snippets and AI prompts, so I built a tool for it. What features would you actually use?](https://dev.to/i_am_yaseen/im-a-dev-who-got-tired-of-losing-code-snippets-and-ai-prompts-so-i-built-a-tool-for-it-what-5eg4)
-- [My Journey to becoming a Professional Web developer](https://dev.to/manasseh_todd_53967522c44/my-journey-to-becoming-a-professional-web-developer-39nm)
-- [Agent Mode: The Smarter Way to Handle Procurement &lpar;Free Access Until Aug 31&rpar;](https://dev.to/accioprocurement/agent-mode-the-smarter-way-to-handle-procurement-free-access-until-aug-31-4k3a)
 <!-- BLOG-POST-LIST:END -->
