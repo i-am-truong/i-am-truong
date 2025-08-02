@@ -104,4 +104,4 @@ Java                     4 repos             █████░░░░░░�
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
-- i-am-truong/i-am-truong, [refs/heads/master@9e5b1834fb0472937c99e39a5659a2aa68d425a4](https://github.com/i-am-truong/i-am-truong/commit/9e5b1834fb0472937c99e39a5659a2aa68d425a4)
+- i-am-truong/i-am-truong, [refs/heads/master@17d302aa9822db8510ec46eb45e73ee5bbaf3a05](https://github.com/i-am-truong/i-am-truong/commit/17d302aa9822db8510ec46eb45e73ee5bbaf3a05)
