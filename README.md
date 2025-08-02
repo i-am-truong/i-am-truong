@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blanco](https://dev.to/naim_noori_8a21ecf8ac7c74/blanco-4ilc)
+- [Revolutionary BCI Advances: Lab-Grown Neurons Restore Motor Control in Paralysis](https://dev.to/ndmckay/revolutionary-bci-advances-lab-grown-neurons-restore-motor-control-in-paralysis-h7d)
+- [AWS Cloud Path Week 10: Important Things to Know about Networking in AWS](https://dev.to/aws-builders/aws-cloud-path-week-10-important-things-to-know-about-networking-in-aws-3o9j)
+- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-1he8)
 - [Access and Refresh Tokens in Token-Based Authentication](https://dev.to/khaledsaeed18/access-and-refresh-tokens-in-token-based-authentication-2a9o)
-- [Oh, I have BIG news – Guess what I got yesterday? 🏆✨](https://dev.to/anchildress1/oh-i-have-big-news-guess-what-i-got-yesterday-1jca)
-- [Export AWS Untagged Resources to CSV for Analysis and Reporting](https://dev.to/dm8ry/export-aws-untagged-resources-to-csv-for-analysis-and-reporting-2960)
-- [Deep Dive into Mastering EBS Multi-Attach for Real-Time Applications.](https://dev.to/rollandfrancis1913/deep-dive-into-mastering-ebs-multi-attach-for-real-time-applications-57of)
-- [Protect Your Azure Storage with Enterprise-Grade Access Control Using Azure Active Directory &lpar;Azure AD&rpar;.](https://dev.to/aneneemmanuel_1/use-azure-active-directory-azure-ad-to-secure-your-storage-account-1k3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
