@@ -96,11 +96,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PesudoCLI - your AI man pages.](https://dev.to/abiji-2020/pesudocli-your-ai-man-pages-104a)
-- [Building an Automated Book Price Monitoring Scraper with Python](https://dev.to/sahani_rajapakshe_33559b9/building-an-automated-book-price-monitoring-scraper-with-python-20i5)
-- [💸 List of *Free* AI Chatbots for Coding](https://dev.to/hamidrazadev/list-of-free-ai-chatbots-for-coding-j0i)
-- [react-console-notify | Made a small React package to show console logs in the UI](https://dev.to/wexop/react-console-notify-made-a-small-react-package-to-show-console-logs-in-the-ui-4fnn)
-- [[Boost]](https://dev.to/ben/-48l3)
+- [Simple Java Project: Rock, Paper, Scissors Game &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-rock-paper-scissors-game-with-detailed-explanation-5ccm)
+- [CodeBoarding: Interactive Diagrams of Code](https://dev.to/brovatten/codeboarding-interactive-diagrams-of-code-2bbe)
+- [The Rise of Real-Time Data: Why Batch Might Be Fading](https://dev.to/milcah03/the-rise-of-real-time-data-why-batch-might-be-fading-23j5)
+- [Build a Professional Harvard-Style Academic CV with This Open Source Jekyll Theme](https://dev.to/smirnoffmg/build-a-professional-harvard-style-academic-cv-with-this-open-source-jekyll-theme-1fg8)
+- [Help me find Datasets](https://dev.to/hassanalimali/help-me-find-datasets-59p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
