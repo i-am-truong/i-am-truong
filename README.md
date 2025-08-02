@@ -92,6 +92,9 @@ Java                     4 repos             █████░░░░░░�
 
 ![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31w7jhrcrmnheppvof4za5zggzry&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31w7jhrcrmnheppvof4za5zggzry&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_blue)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Expedition of Async Programming in JavaScript](https://dev.to/zhravan/expedition-of-async-programming-in-javascript-136a)
