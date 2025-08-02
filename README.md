@@ -18,9 +18,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Agentic AI Will Replace 80% of Low-Level Automation Tools](https://dev.to/dhruvjoshi9/why-agentic-ai-will-replace-80-of-low-level-automation-tools-3kd2)
-- [How to Send Emails with Django: A Simple Guide](https://dev.to/kihuni/how-to-send-emails-with-django-a-simple-guide-2a2p)
-- [🚀 10 Free Tools Every Web Developer Should Be Using in 2025](https://dev.to/creativespotdev/10-free-tools-every-web-developer-should-be-using-in-2025-2858)
-- [Discover the Right Tools with SoftwareFloor.com: The Ultimate Marketplace for Software Recommendations](https://dev.to/henry_0ac84e1e09101802cf4/discover-the-right-tools-with-softwarefloorcom-the-ultimate-marketplace-for-software-2k36)
-- [What Is OpenAL and Why It Matters to Your Computer and Games](https://dev.to/anonymous_c13b051b4dded8a/what-is-openal-and-why-it-matters-to-your-computer-and-games-j56)
+- [Empowering AI Conversations Using Redis 8 as a Real-Time Brain](https://dev.to/pooja_bhavani/empowering-ai-conversations-using-redis-8-as-a-real-time-brain-4bmi)
+- [I&#39;m a dev who got tired of losing code snippets and AI prompts, so I built a tool for it. What features would you actually use?](https://dev.to/i_am_yaseen/im-a-dev-who-got-tired-of-losing-code-snippets-and-ai-prompts-so-i-built-a-tool-for-it-what-5eg4)
+- [My Journey to becoming a Professional Web developer](https://dev.to/manasseh_todd_53967522c44/my-journey-to-becoming-a-professional-web-developer-39nm)
+- [Agent Mode: The Smarter Way to Handle Procurement &lpar;Free Access Until Aug 31&rpar;](https://dev.to/accioprocurement/agent-mode-the-smarter-way-to-handle-procurement-free-access-until-aug-31-4k3a)
+- [Just built my portfolio with Django, Bootstrap &amp; some fun animations — would love your feedback!](https://dev.to/rushikesh_hodade_/just-built-my-portfolio-with-django-bootstrap-some-fun-animations-would-love-your-feedback-1378)
 <!-- BLOG-POST-LIST:END -->
