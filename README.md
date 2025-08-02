@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Brincando com Claude e o nascimento do &quot;QuantoFoi&quot;](https://dev.to/murilopf/brincando-com-claude-e-o-nascimento-do-quantofoi-1ng1)
-- [Build Better Containers🐳](https://dev.to/jungledev/build-better-containers-2nk0)
-- [Indicação de leitura: Microsserviços Prontos Para a Produção](https://dev.to/paolabasso/indicacao-de-leitura-microsservicos-prontos-para-a-producao-3n80)
-- [Introducing kuzur.xyz — My Developer Portfolio &amp; Projects Hub](https://dev.to/rahulkuzur/introducing-kuzurxyz-my-developer-portfolio-projects-hub-17dn)
-- [Echte Oreyka Erfahrungen: Tradition trifft Innovation in der Hautpflege](https://dev.to/orekya/echte-oreyka-erfahrungen-tradition-trifft-innovation-in-der-hautpflege-5efp)
+- [Dev Diary #2: Cloud Security plugin for JetBrains IDE](https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo)
+- [Registration Form](https://dev.to/_ruchi_kumari_/registration-form-20pg)
+- [Interesting.](https://dev.to/mgks/interesting-2jmd)
+- [Navigating the AI Revolution: McKinsey&#39;s Existential Challenge in Consulting](https://dev.to/ndmckay/navigating-the-ai-revolution-mckinseys-existential-challenge-in-consulting-1jo7)
+- [Why a Young AI Researcher Rejected a $1 Billion Offer from Meta&#39;s Zuckerberg](https://dev.to/ndmckay/why-a-young-ai-researcher-rejected-a-1-billion-offer-from-metas-zuckerberg-195k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
