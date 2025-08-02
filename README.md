@@ -15,10 +15,14 @@
 ![](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/generated/languages.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
+[![Generate Stats Images](https://github.com/i-am-truong/i-am-truong/actions/workflows/githubstats.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/githubstats.yml)
+[![daily-devcard](https://github.com/i-am-truong/i-am-truong/actions/workflows/main.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/main.yml)
+[![GitHub Snake Game](https://github.com/i-am-truong/i-am-truong/actions/workflows/snake.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/snake.yml)
+[![Waka Readme](https://github.com/i-am-truong/i-am-truong/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/waka-readme.yml)
+[![Latest blog post workflow](https://github.com/i-am-truong/i-am-truong/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/blog-post-workflow.yml)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/i-am-truong/i-am-truong/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/jekyll-gh-pages.yml)
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-566.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
