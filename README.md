@@ -94,9 +94,9 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Get Hands-On with Amazon RDS Using AWS’s Getting Started Resource Center](https://dev.to/ismailg/get-hands-on-with-amazon-rds-using-awss-getting-started-resource-center-4gpa)
-- [Mastering DOM Performance &amp; Security](https://dev.to/saifulire/mastering-dom-performance-security-2c5f)
-- [I Built a Fully Automated Newsletter with OpenAI + n8n](https://dev.to/ujjwal_kumar_406b65d7d498/i-built-a-fully-automated-newsletter-with-openai-n8n-5egh)
-- [Developers Life](https://dev.to/techboss/developers-life-26ph)
-- [The Truth About Pointers and Arrays in C++ That No One Told Me](https://dev.to/shreedh/the-truth-about-pointers-and-arrays-in-c-that-no-one-told-me-3e4k)
+- [Top 10 Python Libraries Every DevOps Engineer Should Master &lpar;With Use Cases &amp; Code&rpar;](https://dev.to/prodevopsguytech/top-10-python-libraries-every-devops-engineer-should-master-with-use-cases-code-kag)
+- [🦙 Introducing PyllamaUI – Python + Ollama + User Interface](https://dev.to/bhuvaneshm_dev/introducing-pyllamaui-python-ollama-user-interface-1p1p)
+- [Day 14 - Create a PlanPicker Parent Component](https://dev.to/railsstudent/day-14-create-a-planpicker-parent-component-236k)
+- [ТОП-5 шагов: Установка Debian с внешнего SSD без флешек на ноутбук 🔧💻](https://dev.to/javasimple86/top-5-shaghov-ustanovka-debian-s-vnieshniegho-ssd-biez-flieshiek-na-noutbuk-2o9p)
+- [How to Use Qwen3-Coder and Qwen Code](https://dev.to/therealmrmumba/how-to-use-qwen3-coder-and-qwen-code-4g4p)
 <!-- BLOG-POST-LIST:END -->
