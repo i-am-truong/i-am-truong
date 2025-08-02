@@ -121,11 +121,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Pseudocode Programming Process Leveled Up My Software Engineering Skills](https://dev.to/bikodes/how-pseudocode-programming-process-leveled-up-my-software-engineering-skills-ob3)
 - [The Honest Roadmap to Learning Machine Learning](https://dev.to/fridaycandours/the-honest-roadmap-to-learning-machine-learning-49al)
 - [Building an AI FAQ Assistant with Redis 8 and OpenAI](https://dev.to/dilumdarshana/building-an-ai-faq-assistant-with-redis-8-and-openai-5o9)
 - [PostgreSQL Installation Guide for Linux Servers](https://dev.to/brenda_mutai_8a282e86666a/postgresql-installation-guide-for-linux-servers-21m4)
 - [Cardemic: Beyond the Code - WLH Challenge](https://dev.to/ariondev/cardemic-beyond-the-code-wlh-challenge-lkk)
-- [How Does OpenAI&#39;s $6.6 Billion Funding Top Most Countries&#39; GDP?](https://dev.to/jovin_george_733dcfc16291/how-does-openais-66-billion-funding-top-most-countries-gdp-5e5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
