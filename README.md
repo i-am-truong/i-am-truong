@@ -121,11 +121,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Qué es SOLID? Principios de diseño para programar código limpio en TypeScript y React](https://dev.to/johnserranodev/que-es-solid-principios-de-diseno-para-programar-codigo-limpio-en-typescript-y-react-118l)
-- [💻 Cómo Solían Ganar Dinero los Desarrolladores Antes de 2021 &lpar;Y Cómo Puedes Reinventarlo Hoy&rpar;](https://dev.to/dev_resources/como-solian-ganar-dinero-los-desarrolladores-antes-de-2021-y-como-puedes-reinventarlo-hoy-1gn7)
-- [Resigil: RedisAI-Powered Quantum-Resistant Encoding, Decoding, and Pub/Sub Execution](https://dev.to/looneyrichie/resigil-redisai-powered-quantum-resistant-encoding-decoding-and-pubsub-execution-2eel)
-- [🔥 Developers Used to Make Lots of Money Before 2021](https://dev.to/dev_resources/developers-used-to-make-lots-of-money-before-2021-1j5l)
-- [Why Browser Games Are Surpassing Premium Platforms — From a Developer&#39;s Perspective](https://dev.to/yu_chang_69fc631a2d7c0fc5/why-browser-games-are-surpassing-premium-platforms-from-a-developers-perspective-4b15)
+- [Cardemic: Building with Bolt - WLH Challenge](https://dev.to/ariondev/cardemic-building-with-bolt-wlh-challenge-267k)
+- [Why I Built Sounds Social with Meteor.js, React, Tailwind &amp; Bytescale](https://dev.to/matteodem/why-i-built-sounds-social-with-meteorjs-react-tailwind-bytescale-4373)
+- [Kanban vs Scrum: qual escolher?](https://dev.to/lucaspereiradesouzat/kanban-vs-scrum-qual-escolher-5c7k)
+- [Akira Ransomware Hits SonicWall VPNs in Zero-Day Attack](https://dev.to/neerajlovecyber/akira-ransomware-hits-sonicwall-vpns-in-zero-day-attack-5f15)
+- [Testing File System Code: Mocking, Stubbing, and Test Patterns 9/9](https://dev.to/rezmoss/testing-file-system-code-mocking-stubbing-and-test-patterns-99-1fkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
