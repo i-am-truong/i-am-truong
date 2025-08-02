@@ -103,3 +103,5 @@ Java                     4 repos             █████░░░░░░�
 - [Day 14 - Create a PlanPicker Parent Component](https://dev.to/railsstudent/day-14-create-a-planpicker-parent-component-236k)
 - [ТОП-5 шагов: Установка Debian с внешнего SSD без флешек на ноутбук 🔧💻](https://dev.to/javasimple86/top-5-shaghov-ustanovka-debian-s-vnieshniegho-ssd-biez-flieshiek-na-noutbuk-2o9p)
 <!-- BLOG-POST-LIST:END -->
+
+<!-- START gadpp -->
