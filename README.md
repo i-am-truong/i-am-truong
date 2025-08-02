@@ -15,3 +15,7 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamtruong&theme=ambient_gradient&layout=compact&custom_title=Bernie%20Truong's%20WakaTime%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31w7jhrcrmnheppvof4za5zggzry&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31w7jhrcrmnheppvof4za5zggzry&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
