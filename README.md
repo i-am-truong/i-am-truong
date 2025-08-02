@@ -14,10 +14,25 @@
 ![](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/generated/languages.svg#gh-light-mode-only)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/i-am-truong/i-am-truong/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/i-am-truong/i-am-truong/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/i-am-truong/i-am-truong/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <!--START_SECTION:waka-->
 [![Generate Stats Images](https://github.com/i-am-truong/i-am-truong/actions/workflows/githubstats.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/githubstats.yml)
 [![daily-devcard](https://github.com/i-am-truong/i-am-truong/actions/workflows/main.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/main.yml)
-[![GitHub Snake Game](https://github.com/i-am-truong/i-am-truong/actions/workflows/snake.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/snake.yml)
+[![generate animation](https://github.com/i-am-truong/i-am-truong/actions/workflows/snake.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/snake.yml)
 [![Waka Readme](https://github.com/i-am-truong/i-am-truong/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/waka-readme.yml)
 [![Latest blog post workflow](https://github.com/i-am-truong/i-am-truong/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/blog-post-workflow.yml)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/i-am-truong/i-am-truong/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/jekyll-gh-pages.yml)
