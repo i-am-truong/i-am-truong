@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cloud Path Week 13: AWS Networking Workshop Part 3 - Security Controls Deep Dive](https://dev.to/aws-builders/aws-cloud-path-week-13-aws-networking-workshop-part-3-security-controls-deep-dive-dkg)
 - [Cómo configurar un entorno profesional para desarrollo en Python con VS Code](https://dev.to/pedroporras/como-configurar-un-entorno-profesional-para-desarrollo-en-python-con-vs-code-2d48)
 - [How to Use YINI Config Files in a Node.js App &lpar;with Real Examples&rpar;](https://dev.to/marko_kseppnen_6250a7f/how-to-use-yini-config-files-in-a-nodejs-app-with-real-examples-4e20)
 - [Wan 2.2 &amp; FLUX Krea Full Tutorial — Automated Install — Ready Perfect Presets — SwarmUI with ComfyUI](https://dev.to/furkangozukara/wan-22-flux-krea-full-tutorial-automated-install-ready-perfect-presets-swarmui-with-comfyui-2a4f)
 - [QWIKTHREADS FOR REDIS WINNING HACKATHON](https://dev.to/ibrahimpima/qwikthreads-for-redis-winning-hackathon-46bk)
-- [Understanding @preconcurrency in Swift](https://dev.to/arshtechpro/understanding-preconcurrency-in-swift-33ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
