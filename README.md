@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Brincando com Claude e o nascimento do &quot;QuantoFoi&quot;](https://dev.to/murilopf/brincando-com-claude-e-o-nascimento-do-quantofoi-1ng1)
+- [Build Better Containers🐳](https://dev.to/jungledev/build-better-containers-2nk0)
 - [Indicação de leitura: Microsserviços Prontos Para a Produção](https://dev.to/paolabasso/indicacao-de-leitura-microsservicos-prontos-para-a-producao-3n80)
 - [Introducing kuzur.xyz — My Developer Portfolio &amp; Projects Hub](https://dev.to/rahulkuzur/introducing-kuzurxyz-my-developer-portfolio-projects-hub-17dn)
 - [Echte Oreyka Erfahrungen: Tradition trifft Innovation in der Hautpflege](https://dev.to/orekya/echte-oreyka-erfahrungen-tradition-trifft-innovation-in-der-hautpflege-5efp)
-- [AI vs Traditional Reporting: What’s Gained and What’s Lost?](https://dev.to/hemashree_samant_ddc8ad30/ai-vs-traditional-reporting-whats-gained-and-whats-lost-4kk7)
-- [Revival Hijacking: How Deleted PyPI Packages Become Threats](https://dev.to/protsenko/revival-hijacking-how-deleted-pypi-packages-become-threats-13jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
