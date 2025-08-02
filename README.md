@@ -96,11 +96,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Get Real-Time Bangladeshi Taka Exchange Rates Without an API Key](https://dev.to/devparvez/get-real-time-bangladeshi-taka-exchange-rates-without-an-api-key-je4)
-- [🤖 What is a Parameterized Job in Jenkins?](https://dev.to/yash1307/what-is-a-parameterized-job-in-jenkins-137e)
-- [EventStream Hub - Real-Time Event Processing with Redis as Primary Database](https://dev.to/ariondev/eventstream-hub-real-time-event-processing-with-redis-as-primary-database-5ba5)
-- [Web Developer Travis McCracken on Using Async Rust Safely](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-async-rust-safely-f3c)
-- [How to Test Your Node.js &amp; Postgres App Using Drizzle &amp; PGlite](https://dev.to/benjamindaniel/how-to-test-your-nodejs-postgres-app-using-drizzle-pglite-4fb3)
+- [A First-Timer’s PridesDate Review: What to Expect and How to Start](https://dev.to/pridesdate/a-first-timers-pridesdate-review-what-to-expect-and-how-to-start-5dcb)
+- [How Does GLM-4.5 Surpass o3, Gemini 2.5 Pro, and Grok 4 with 90% Success in Agentic Benchmarks?](https://dev.to/jovin_george_733dcfc16291/how-does-glm-45-surpass-o3-gemini-25-pro-and-grok-4-with-90-success-in-agentic-benchmarks-40mj)
+- [Rethinking Embedded Web Frameworks: The Smart, Selective Engine Developers Actually Need](https://dev.to/hejhdiss/rethinking-embedded-web-frameworks-the-smart-selective-engine-developers-actually-need-583p)
+- [People in here with pensions, lets talk...](https://dev.to/ndmckay/people-in-here-with-pensions-lets-talk-5a77)
+- [How to Build a Simple To-Do App with HTML, CSS, and JavaScript &lpar;Beginner Friendly&rpar;](https://dev.to/mitup_365_4f35a44e8e0c1c2/how-to-build-a-simple-to-do-app-with-html-css-and-javascript-beginner-friendly-26n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
