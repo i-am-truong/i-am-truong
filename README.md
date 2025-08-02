@@ -97,11 +97,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💭 What&#39;s the Best Tech Stack for a Markdown-Based Programming Blog?](https://dev.to/moibra/whats-the-best-tech-stack-for-a-markdown-based-programming-blog-2no4)
-- [Accessibility Audits &lpar;STQC, Axe, and Beyond&rpar;](https://dev.to/maurya-sachin/accessibility-audits-stqc-axe-and-beyond-5hlg)
-- [KidShield is a powerful, open-source parental control solution designed for Android devices.](https://dev.to/ford_flatley_a001ae223a8a/kidshield-is-a-powerful-open-source-parental-control-solution-designed-for-android-devices-2k7a)
-- [Best E-commerce website Builder for Startups &amp; Businesses](https://dev.to/serveravatar/best-e-commerce-website-builder-for-startups-businesses-4odl)
-- [Visualizing Random Walks in Python](https://dev.to/duncandegwa/visualizing-random-walks-in-python-ck8)
+- [🚀 GistFans Launch Countdown: Building the Future of Democratic Developer Communities](https://dev.to/black_white_aa77457b8e3c2/gistfans-launch-countdown-building-the-future-of-democratic-developer-communities-28al)
+- [Simple Java Project: Basic Contact Book &lpar;Console-Based&rpar; — Detailed Guide](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-basic-contact-book-console-based-detailed-guide-38j3)
+- [My First Dive into Real Payments Integration &lpar;with Paystack and Webhooks&rpar;](https://dev.to/dorcie-dee/my-first-dive-into-real-payments-integration-with-paystack-and-webhooks-3nmg)
+- [AIShoply: The Missing Link Between Automation Builders and Everyday Users](https://dev.to/prajwal_vv/aishoply-the-missing-link-between-automation-builders-and-everyday-users-4jhk)
+- [5 Surprising Facts About LocalStorage You Probably Didn’t Know](https://dev.to/gouranga-das-khulna/5-surprising-facts-about-localstorage-you-probably-didnt-know-33o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
