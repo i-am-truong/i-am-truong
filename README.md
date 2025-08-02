@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s ChatGPT Reverses Course on Google Indexing Amid Privacy Concerns](https://dev.to/ndmckay/openais-chatgpt-reverses-course-on-google-indexing-amid-privacy-concerns-19p3)
+- [🚀 Building the Cultural Feed for RecomendeMe: Where Every Cultural Recommendation Shines](https://dev.to/sampseiol1/building-the-cultural-feed-for-recomendeme-where-every-cultural-recommendation-shines-24gl)
 - [Dev Diary #2: Cloud Security plugin for JetBrains IDE](https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo)
 - [Registration Form](https://dev.to/_ruchi_kumari_/registration-form-20pg)
 - [Interesting.](https://dev.to/mgks/interesting-2jmd)
-- [Navigating the AI Revolution: McKinsey&#39;s Existential Challenge in Consulting](https://dev.to/ndmckay/navigating-the-ai-revolution-mckinseys-existential-challenge-in-consulting-1jo7)
-- [Why a Young AI Researcher Rejected a $1 Billion Offer from Meta&#39;s Zuckerberg](https://dev.to/ndmckay/why-a-young-ai-researcher-rejected-a-1-billion-offer-from-metas-zuckerberg-195k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
