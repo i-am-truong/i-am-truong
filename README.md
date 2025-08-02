@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Find Untagged AWS Resources Across All Regions with Python](https://dev.to/dm8ry/find-untagged-aws-resources-across-all-regions-with-python-12nk)
-- [🚀 Spring Boot + Kafka vs RabbitMQ: A Deep Dive into Event-Driven Microservices](https://dev.to/mosesmmoisebidth/spring-boot-kafka-vs-rabbitmq-a-deep-dive-into-event-driven-microservices-6gd)
-- [OpenAI&#39;s ChatGPT Reverses Course on Google Indexing Amid Privacy Concerns](https://dev.to/ndmckay/openais-chatgpt-reverses-course-on-google-indexing-amid-privacy-concerns-19p3)
-- [🚀 Building the Cultural Feed for RecomendeMe: Where Every Cultural Recommendation Shines](https://dev.to/sampseiol1/building-the-cultural-feed-for-recomendeme-where-every-cultural-recommendation-shines-24gl)
-- [Dev Diary #2: Cloud Security plugin for JetBrains IDE](https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo)
+- [Access and Refresh Tokens in Token-Based Authentication](https://dev.to/khaledsaeed18/access-and-refresh-tokens-in-token-based-authentication-2a9o)
+- [Oh, I have BIG news – Guess what I got yesterday? 🏆✨](https://dev.to/anchildress1/oh-i-have-big-news-guess-what-i-got-yesterday-1jca)
+- [Export AWS Untagged Resources to CSV for Analysis and Reporting](https://dev.to/dm8ry/export-aws-untagged-resources-to-csv-for-analysis-and-reporting-2960)
+- [Deep Dive into Mastering EBS Multi-Attach for Real-Time Applications.](https://dev.to/rollandfrancis1913/deep-dive-into-mastering-ebs-multi-attach-for-real-time-applications-57of)
+- [Protect Your Azure Storage with Enterprise-Grade Access Control Using Azure Active Directory &lpar;Azure AD&rpar;.](https://dev.to/aneneemmanuel_1/use-azure-active-directory-azure-ad-to-secure-your-storage-account-1k3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
