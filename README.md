@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📬 Stay Ahead with Developer-Focused Newsletters — Powered by Cooperpress](https://dev.to/ml318097/stay-ahead-with-developer-focused-newsletters-powered-by-cooperpress-d59)
-- [Day 2 ~ Learning DevOps In Public](https://dev.to/dharun_496b52d76f8f606a96/day-2-learning-devops-in-public-4nco)
-- [The Decorator Pattern in Java](https://dev.to/wkreuch/the-decorator-pattern-in-java-3n4)
-- [Nmap Practical Labs: Network Scanning, Firewall Evasion &amp; Output Analysis](https://dev.to/labex/nmap-practical-labs-network-scanning-firewall-evasion-output-analysis-1di5)
-- [Lo Arreglé y No Sé Cómo](https://dev.to/ivajocfran/lo-arregle-y-no-se-como-58mh)
+- [How to Manage Tags and Locks In Microsoft Azure](https://dev.to/adeyemo/how-to-manage-tags-and-locks-in-microsoft-azure-6eo)
+- [CVE-2016-5195: Linux Kernel Race Condition Vulnerability](https://dev.to/freedom_coder/cve-2016-5195-linux-kernel-race-condition-vulnerability-2n43)
+- [Wan 2.2 is the BEST AI video generator, China&#39;s #1 AI model, ChatGPT Study Mode, and more](https://dev.to/thisweekinaiengineering/wan-22-is-the-best-ai-video-generator-chinas-1-ai-model-chatgpt-study-mode-and-more-2k78)
+- [Weekly #31-2025: Meta’s Comeback, Design Disruption, and How AI is Redefining Tech Skills](https://dev.to/weekly/weekly-31-2025-metas-comeback-design-disruption-and-how-ai-is-redefining-tech-skills-34a3)
+- [How I Set Up Qwen3-Coder with Claude Code &lpar;and Why You Should Too&rpar;](https://dev.to/aifordevelopers/how-i-set-up-qwen3-coder-with-claude-code-and-why-you-should-too-31an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
