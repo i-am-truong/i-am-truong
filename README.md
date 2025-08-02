@@ -78,7 +78,6 @@ Java                     4 repos             █████░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/main/assets/bar_graph.png)
 
 
  Last Updated on 02/08/2025 10:13:24 UTC
@@ -105,3 +104,4 @@ Java                     4 repos             █████░░░░░░�
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
+- i-am-truong/i-am-truong, [refs/heads/master@ccf4593c3e13d7b253dce67bc6a1b276cfa99fe1](https://github.com/i-am-truong/i-am-truong/commit/ccf4593c3e13d7b253dce67bc6a1b276cfa99fe1)
