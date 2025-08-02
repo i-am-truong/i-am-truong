@@ -106,11 +106,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Honest Roadmap to Learning Machine Learning](https://dev.to/fridaycandours/the-honest-roadmap-to-learning-machine-learning-49al)
+- [Building an AI FAQ Assistant with Redis 8 and OpenAI](https://dev.to/dilumdarshana/building-an-ai-faq-assistant-with-redis-8-and-openai-5o9)
+- [PostgreSQL Installation Guide for Linux Servers](https://dev.to/brenda_mutai_8a282e86666a/postgresql-installation-guide-for-linux-servers-21m4)
+- [Cardemic: Beyond the Code - WLH Challenge](https://dev.to/ariondev/cardemic-beyond-the-code-wlh-challenge-lkk)
 - [How Does OpenAI&#39;s $6.6 Billion Funding Top Most Countries&#39; GDP?](https://dev.to/jovin_george_733dcfc16291/how-does-openais-66-billion-funding-top-most-countries-gdp-5e5k)
-- [What if Vanilla JS was enough?](https://dev.to/afrocodeur/what-if-vanilla-js-was-enough-bb8)
-- [Terkuak! Pertarungan Sengit TensorFlow vs PyTorch: Siapa Sebenarnya Raja AI yang Wajib Anda Kuasai?](https://dev.to/lightning_gojo_565d94a01c/terkuak-pertarungan-sengit-tensorflow-vs-pytorch-siapa-sebenarnya-raja-ai-yang-wajib-anda-kuasai-55f0)
-- [How to Show Packages as a Folder Hierarchy in Eclipse &lpar;Instead of Dotted Names&rpar;](https://dev.to/_df6d6a02015bcd1341608/how-to-show-packages-as-a-folder-hierarchy-in-eclipse-instead-of-dotted-names-24kh)
-- [What Is SameAgeDates? A Space to Celebrate Romantic Growth at Any Stage of Life](https://dev.to/sameagedates/what-is-sameagedates-a-space-to-celebrate-romantic-growth-at-any-stage-of-life-14bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
