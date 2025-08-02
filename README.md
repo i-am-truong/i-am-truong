@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Game Theorists: Game Theory: FNAF, How to STOP the Mimic... For Good!](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-how-to-stop-the-mimic-for-good-1g98)
+- [JavaScript на български и с много изрази](https://dev.to/ipelovski/javascript-na-blgharski-i-s-mnogho-izrazi-2mpp)
+- [Designing Viral UX/UI That Spreads Itself](https://dev.to/er-raj-aryan/designing-viral-uxui-that-spreads-itself-4dih)
 - [Navigating the AI Agent Ecosystem: A Comprehensive Framework Analysis](https://dev.to/aakas/navigating-the-ai-agent-ecosystem-a-comprehensive-framework-analysis-5813)
-- [CI/CD Pipeline for Secure Java Alert System with Docker &amp; GitHub Actions](https://dev.to/michael_isijola_31f98c8dc/cicd-pipeline-for-secure-java-alert-system-with-docker-github-actions-pj)
-- [How to Manage Tags and Locks In Microsoft Azure](https://dev.to/adeyemo/how-to-manage-tags-and-locks-in-microsoft-azure-6eo)
-- [CVE-2016-5195: Linux Kernel Race Condition Vulnerability](https://dev.to/freedom_coder/cve-2016-5195-linux-kernel-race-condition-vulnerability-2n43)
-- [Wan 2.2 is the BEST AI video generator, China&#39;s #1 AI model, ChatGPT Study Mode, and more](https://dev.to/thisweekinaiengineering/wan-22-is-the-best-ai-video-generator-chinas-1-ai-model-chatgpt-study-mode-and-more-2k78)
+- [Java Alert System](https://dev.to/michael_isijola_31f98c8dc/java-alert-system-5481)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
