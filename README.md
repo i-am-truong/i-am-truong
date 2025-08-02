@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can everyone post the four best pictures they&#39;ve ever generated](https://dev.to/ndmckay/can-everyone-post-the-four-best-pictures-theyve-ever-generated-58db)
-- [3 Ways To Create Middleware In ASP.NET Core](https://dev.to/shiv_darshanrathore_402a/3-ways-to-create-middleware-in-aspnet-core-2703)
-- [Semantic / AI EAI Proposal](https://dev.to/sebastian_samaruga_5306fb/semantic-ai-eai-proposal-4gph)
-- [Is this guy using Chat GPT to talk to me?!](https://dev.to/ndmckay/is-this-guy-using-chat-gpt-to-talk-to-me-4li1)
-- [I asked Chat to show me what my cat would look like as a person.](https://dev.to/ndmckay/i-asked-chat-to-show-me-what-my-cat-would-look-like-as-a-person-3c5d)
+- [Why I Chose Django + HTMX + React for cThink](https://dev.to/hroman_codes/why-i-chose-django-htmx-react-for-cthink-3p08)
+- [Converting Python Objects to Dict](https://dev.to/kiani0x01/converting-python-objects-to-dict-1jg)
+- [How to Uppercase the First Letter in Python](https://dev.to/kiani0x01/how-to-uppercase-the-first-letter-in-python-374e)
+- [Scoring 100 on Lighthouse &lpar;Performance + SEO focused&rpar;](https://dev.to/manujdixit/scoring-100-on-lighthouse-performance-seo-focused-177)
+- [Python Push to List: append, extend, insert Explained](https://dev.to/kiani0x01/python-push-to-list-append-extend-insert-explained-1bc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
