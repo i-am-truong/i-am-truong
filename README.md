@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Cost Tracker – Stay Alert. Stay Efficient.](https://dev.to/imash24/serverless-cost-tracker-stay-alert-stay-efficient-1e07)
-- [Document Your JavaScript Code Like a Pro with JSDoc](https://dev.to/tenelabs/document-your-javascript-code-like-a-pro-with-jsdoc-3oon)
-- [Repocks: Enable RAG from In-Repo Documentation](https://dev.to/boke0/repocks-enable-rag-from-in-repo-documentation-4h6h)
-- [Top 5 Self-Help Classics Every Tech Professional Should Read](https://dev.to/mainulspace/top-5-self-help-classics-every-tech-professional-should-read-5bl9)
-- [Distributed Spring Batch Coordination, Part 1: The Problem with Traditional Spring Batch Scaling](https://dev.to/jchejarla/distributed-spring-batch-coordination-part-1-the-problem-with-traditional-spring-batch-scaling-3he4)
+- [Can everyone post the four best pictures they&#39;ve ever generated](https://dev.to/ndmckay/can-everyone-post-the-four-best-pictures-theyve-ever-generated-58db)
+- [3 Ways To Create Middleware In ASP.NET Core](https://dev.to/shiv_darshanrathore_402a/3-ways-to-create-middleware-in-aspnet-core-2703)
+- [Semantic / AI EAI Proposal](https://dev.to/sebastian_samaruga_5306fb/semantic-ai-eai-proposal-4gph)
+- [Is this guy using Chat GPT to talk to me?!](https://dev.to/ndmckay/is-this-guy-using-chat-gpt-to-talk-to-me-4li1)
+- [I asked Chat to show me what my cat would look like as a person.](https://dev.to/ndmckay/i-asked-chat-to-show-me-what-my-cat-would-look-like-as-a-person-3c5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
