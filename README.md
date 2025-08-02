@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F37022&center=true&vCenter=true&random=true&width=435&lines=A+Senior+Student+at+FPT+University;A+Member+of+Japanese+Software+Club;A+Passionate+and+Curiosity+Developer)](https://git.io/typing-svg)
+
 <div align="center">
    <a href="https://app.daily.dev/bernietruong">
       <img src="./devcard.png" width="652" alt="Bernie Truong's Dev Card"/>
