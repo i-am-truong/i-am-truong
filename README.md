@@ -30,21 +30,17 @@
 </picture>
 
 <!--START_SECTION:waka-->
-[![Generate Stats Images](https://github.com/i-am-truong/i-am-truong/actions/workflows/githubstats.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/githubstats.yml)
-[![daily-devcard](https://github.com/i-am-truong/i-am-truong/actions/workflows/main.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/main.yml)
-[![generate animation](https://github.com/i-am-truong/i-am-truong/actions/workflows/snake.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/snake.yml)
-[![Waka Readme](https://github.com/i-am-truong/i-am-truong/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/waka-readme.yml)
-[![Latest blog post workflow](https://github.com/i-am-truong/i-am-truong/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/blog-post-workflow.yml)
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/i-am-truong/i-am-truong/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/i-am-truong/i-am-truong/actions/workflows/jekyll-gh-pages.yml)
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-566.6%20thousand%20lines%20of%20code-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-627-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 124.5 kB Used in GitHub's Storage 
+> 📦 116.1 kB Used in GitHub's Storage 
  > 
-> 🏆 842 Contributions in the Year 2025
+> 🏆 865 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -55,21 +51,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                780 commits         ██████████░░░░░░░░░░░░░░░   38.33 % 
-🌆 Daytime                593 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-🌃 Evening                549 commits         ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-🌙 Night                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+🌞 Morning                619 commits         ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌆 Daytime                627 commits         ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌃 Evening                577 commits         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+🌙 Night                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   325 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Tuesday                  304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Wednesday                254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Thursday                 459 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Friday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Sunday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Tuesday                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Thursday                 435 commits         ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Friday                   218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Saturday                 263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Sunday                   209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
 ```
 
 
@@ -94,18 +90,20 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ████████████░░░░░░░░░░░░░   47.62 % 
-TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+JavaScript               10 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
+TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 **Timeline**
 
+![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 10:13:24 UTC
+ Last Updated on 02/08/2025 17:16:11 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-truong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
