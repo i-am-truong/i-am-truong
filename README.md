@@ -96,11 +96,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simple Java Project: Rock, Paper, Scissors Game &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-rock-paper-scissors-game-with-detailed-explanation-5ccm)
-- [CodeBoarding: Interactive Diagrams of Code](https://dev.to/brovatten/codeboarding-interactive-diagrams-of-code-2bbe)
-- [The Rise of Real-Time Data: Why Batch Might Be Fading](https://dev.to/milcah03/the-rise-of-real-time-data-why-batch-might-be-fading-23j5)
-- [Build a Professional Harvard-Style Academic CV with This Open Source Jekyll Theme](https://dev.to/smirnoffmg/build-a-professional-harvard-style-academic-cv-with-this-open-source-jekyll-theme-1fg8)
-- [Help me find Datasets](https://dev.to/hassanalimali/help-me-find-datasets-59p3)
+- [Get Real-Time Bangladeshi Taka Exchange Rates Without an API Key](https://dev.to/devparvez/get-real-time-bangladeshi-taka-exchange-rates-without-an-api-key-je4)
+- [🤖 What is a Parameterized Job in Jenkins?](https://dev.to/yash1307/what-is-a-parameterized-job-in-jenkins-137e)
+- [EventStream Hub - Real-Time Event Processing with Redis as Primary Database](https://dev.to/ariondev/eventstream-hub-real-time-event-processing-with-redis-as-primary-database-5ba5)
+- [Web Developer Travis McCracken on Using Async Rust Safely](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-async-rust-safely-f3c)
+- [How to Test Your Node.js &amp; Postgres App Using Drizzle &amp; PGlite](https://dev.to/benjamindaniel/how-to-test-your-nodejs-postgres-app-using-drizzle-pglite-4fb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
