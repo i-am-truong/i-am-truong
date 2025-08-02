@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI and Staking: Optimizing Validator Performance in 2025](https://dev.to/defidiver21/ai-and-staking-optimizing-validator-performance-in-2025-2gk9)
-- [Scoring 100 on Lighthouse &lpar;Performance focused&rpar;](https://dev.to/manujdixit/scoring-100-on-lighthouse-performance-focused-2ahb)
-- [Symfony Station Communiqué - Stardate: ✦ 25 July 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-25-july-2025-the-latest-symfony-drupal-typo3-and-php-1i0m)
-- [[Boost]](https://dev.to/dipti_m_2e7ba36c478d1a48a/-452l)
-- [Join Softek: Build Bold Projects, Earn Equity](https://dev.to/softek/join-softek-build-bold-projects-earn-equity-9kh)
+- [Indicação de leitura: Microsserviços Prontos Para a Produção](https://dev.to/paolabasso/indicacao-de-leitura-microsservicos-prontos-para-a-producao-3n80)
+- [Introducing kuzur.xyz — My Developer Portfolio &amp; Projects Hub](https://dev.to/rahulkuzur/introducing-kuzurxyz-my-developer-portfolio-projects-hub-17dn)
+- [Echte Oreyka Erfahrungen: Tradition trifft Innovation in der Hautpflege](https://dev.to/orekya/echte-oreyka-erfahrungen-tradition-trifft-innovation-in-der-hautpflege-5efp)
+- [AI vs Traditional Reporting: What’s Gained and What’s Lost?](https://dev.to/hemashree_samant_ddc8ad30/ai-vs-traditional-reporting-whats-gained-and-whats-lost-4kk7)
+- [Revival Hijacking: How Deleted PyPI Packages Become Threats](https://dev.to/protsenko/revival-hijacking-how-deleted-pypi-packages-become-threats-13jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
