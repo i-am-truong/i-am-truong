@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Raw SQL or ORMs? Why ORMs are a preferred choice](https://dev.to/hamzaj/raw-sql-or-orms-why-orms-are-a-preferred-choice-3dcl)
+- [Mainframe Migration in 2025: A Practical Guide](https://dev.to/giladmaayan/mainframe-migration-in-2025-a-practical-guide-nkc)
+- [30 Days of Code- Day 17](https://dev.to/akshitaexe/30-days-of-code-day-17-2127)
 - [Why I Chose Django + HTMX + React for cThink](https://dev.to/hroman_codes/why-i-chose-django-htmx-react-for-cthink-3p08)
 - [Converting Python Objects to Dict](https://dev.to/kiani0x01/converting-python-objects-to-dict-1jg)
-- [How to Uppercase the First Letter in Python](https://dev.to/kiani0x01/how-to-uppercase-the-first-letter-in-python-374e)
-- [Scoring 100 on Lighthouse &lpar;Performance + SEO focused&rpar;](https://dev.to/manujdixit/scoring-100-on-lighthouse-performance-seo-focused-177)
-- [Python Push to List: append, extend, insert Explained](https://dev.to/kiani0x01/python-push-to-list-append-extend-insert-explained-1bc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
