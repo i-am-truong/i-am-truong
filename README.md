@@ -121,11 +121,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Halloween Jean Jacket: Your Go-To Costume That’s Cool, Comfy, and Totally Unique](https://dev.to/thefalconjackets/halloween-jean-jacket-your-go-to-costume-thats-cool-comfy-and-totally-unique-1cn4)
-- [Tesla Found Partly Liable in 2019 Autopilot Death](https://dev.to/ndmckay/tesla-found-partly-liable-in-2019-autopilot-death-1jae)
-- [🔥 Real-Time Data Streaming with Server-Sent Events &lpar;SSE&rpar;](https://dev.to/serifcolakel/real-time-data-streaming-with-server-sent-events-sse-1gb2)
-- [How the Tea App Got Hacked: Firebase Pitfalls and Lessons for Engineers](https://dev.to/uzairsaleemkhan/how-the-tea-app-got-hacked-firebase-pitfalls-and-lessons-for-engineers-5aic)
-- [Master Flutter Responsive Design: 😎The Ultimate Screen Utility Class Guide](https://dev.to/hiteshm_devapp/master-flutter-responsive-design-the-ultimate-screen-utility-class-guide-1dmc)
+- [Understanding Linear Regression Inside-Out: Practical Implementation with scikit-learn and TensorFlow](https://dev.to/jioophoenix/understanding-linear-regression-inside-out-practical-implementation-with-scikit-learn-and-110k)
+- [Create Objective-C Apps with Simple Commands](https://dev.to/atforeveryoung/create-objective-c-apps-with-simple-commands-4la5)
+- [Membuat gim atau game sederhana dengan Earl bahasa pemrograman](https://dev.to/dev_nazwashabrina/membuat-gim-atau-game-sederhana-dengan-earl-bahasa-pemrograman-nm3)
+- [A Real-Time, High-Performance Voting Platform](https://dev.to/saxenaaman628/a-real-time-high-performance-voting-platform-4lm9)
+- [How to Add Dark Mode to a React/Next.js App with Tailwind CSS](https://dev.to/rhythmsaha/how-to-add-dark-mode-to-a-reactnextjs-app-with-tailwind-css-2dgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
