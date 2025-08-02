@@ -106,11 +106,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A First-Timer’s PridesDate Review: What to Expect and How to Start](https://dev.to/pridesdate/a-first-timers-pridesdate-review-what-to-expect-and-how-to-start-5dcb)
-- [How Does GLM-4.5 Surpass o3, Gemini 2.5 Pro, and Grok 4 with 90% Success in Agentic Benchmarks?](https://dev.to/jovin_george_733dcfc16291/how-does-glm-45-surpass-o3-gemini-25-pro-and-grok-4-with-90-success-in-agentic-benchmarks-40mj)
-- [Rethinking Embedded Web Frameworks: The Smart, Selective Engine Developers Actually Need](https://dev.to/hejhdiss/rethinking-embedded-web-frameworks-the-smart-selective-engine-developers-actually-need-583p)
-- [People in here with pensions, lets talk...](https://dev.to/ndmckay/people-in-here-with-pensions-lets-talk-5a77)
-- [How to Build a Simple To-Do App with HTML, CSS, and JavaScript &lpar;Beginner Friendly&rpar;](https://dev.to/mitup_365_4f35a44e8e0c1c2/how-to-build-a-simple-to-do-app-with-html-css-and-javascript-beginner-friendly-26n5)
+- [How Does OpenAI&#39;s $6.6 Billion Funding Top Most Countries&#39; GDP?](https://dev.to/jovin_george_733dcfc16291/how-does-openais-66-billion-funding-top-most-countries-gdp-5e5k)
+- [What if Vanilla JS was enough?](https://dev.to/afrocodeur/what-if-vanilla-js-was-enough-bb8)
+- [Terkuak! Pertarungan Sengit TensorFlow vs PyTorch: Siapa Sebenarnya Raja AI yang Wajib Anda Kuasai?](https://dev.to/lightning_gojo_565d94a01c/terkuak-pertarungan-sengit-tensorflow-vs-pytorch-siapa-sebenarnya-raja-ai-yang-wajib-anda-kuasai-55f0)
+- [How to Show Packages as a Folder Hierarchy in Eclipse &lpar;Instead of Dotted Names&rpar;](https://dev.to/_df6d6a02015bcd1341608/how-to-show-packages-as-a-folder-hierarchy-in-eclipse-instead-of-dotted-names-24kh)
+- [What Is SameAgeDates? A Space to Celebrate Romantic Growth at Any Stage of Life](https://dev.to/sameagedates/what-is-sameagedates-a-space-to-celebrate-romantic-growth-at-any-stage-of-life-14bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
