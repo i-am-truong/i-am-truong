@@ -121,11 +121,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cardemic: Building with Bolt - WLH Challenge](https://dev.to/ariondev/cardemic-building-with-bolt-wlh-challenge-267k)
-- [Why I Built Sounds Social with Meteor.js, React, Tailwind &amp; Bytescale](https://dev.to/matteodem/why-i-built-sounds-social-with-meteorjs-react-tailwind-bytescale-4373)
-- [Kanban vs Scrum: qual escolher?](https://dev.to/lucaspereiradesouzat/kanban-vs-scrum-qual-escolher-5c7k)
-- [Akira Ransomware Hits SonicWall VPNs in Zero-Day Attack](https://dev.to/neerajlovecyber/akira-ransomware-hits-sonicwall-vpns-in-zero-day-attack-5f15)
-- [Testing File System Code: Mocking, Stubbing, and Test Patterns 9/9](https://dev.to/rezmoss/testing-file-system-code-mocking-stubbing-and-test-patterns-99-1fkh)
+- [Verizon is upping its fees again](https://dev.to/ndmckay/verizon-is-upping-its-fees-again-4gh0)
+- [Add AI features to your application with Genkit](https://dev.to/abukavictor/add-ai-features-to-your-application-with-genkit-28gn)
+- [API Security with Access Control: Best Practices for a Safer Backend](https://dev.to/lovestaco/api-security-with-access-control-best-practices-for-a-safer-backend-4fpf)
+- [Fake Hacker Simulation Screen](https://dev.to/ruaa201100svg/fake-hacker-simulation-screen-4261)
+- [Lightning-Fast Address Matching …Now with a Smart Hybrid &lpar;Deterministic + LLM&rpar; Engine: A Fun Experiment](https://dev.to/auyeungdavid_2847435260/lightning-fast-address-matching-now-with-a-smart-hybrid-deterministic-llm-engine-a-fun-3f46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
