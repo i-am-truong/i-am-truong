@@ -97,11 +97,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simple Java Project: To-Do List &lpar;Console-Based&rpar; — Detailed Guide](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-to-do-list-console-based-detailed-guide-4mg)
-- [📡 WebSocket API in AWS API Gateway – Real-time Magic Explained](https://dev.to/aws-builders/websocket-api-in-aws-api-gateway-real-time-magic-explained-645)
-- [Secure Tunneling Explained: Ngrok vs Cloudflared](https://dev.to/aryan_shourie/secure-tunneling-explained-ngrok-vs-cloudflared-mcl)
-- [🔭 OpenTelemetry in Action on Kubernetes: Part 8 - Visualize Everything, Building a Unified Observability Dashboard with Grafana](https://dev.to/kartikdudeja21/opentelemetry-in-action-on-kubernetes-part-8-visualize-everything-building-a-unified-1dpg)
-- [🎉 I’ve Moved from `rs-calculator` to `rsc` — Here’s What’s New!](https://dev.to/rasa8877/ive-moved-from-rs-calculator-to-rsc-heres-whats-new-173d)
+- [💭 What&#39;s the Best Tech Stack for a Markdown-Based Programming Blog?](https://dev.to/moibra/whats-the-best-tech-stack-for-a-markdown-based-programming-blog-2no4)
+- [Accessibility Audits &lpar;STQC, Axe, and Beyond&rpar;](https://dev.to/maurya-sachin/accessibility-audits-stqc-axe-and-beyond-5hlg)
+- [KidShield is a powerful, open-source parental control solution designed for Android devices.](https://dev.to/ford_flatley_a001ae223a8a/kidshield-is-a-powerful-open-source-parental-control-solution-designed-for-android-devices-2k7a)
+- [Best E-commerce website Builder for Startups &amp; Businesses](https://dev.to/serveravatar/best-e-commerce-website-builder-for-startups-businesses-4odl)
+- [Visualizing Random Walks in Python](https://dev.to/duncandegwa/visualizing-random-walks-in-python-ck8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
