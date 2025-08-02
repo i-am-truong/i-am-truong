@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cloud Path Week 11: AWS Networking Workshop Part 1 - Building Secure VPC Infrastructure](https://dev.to/aws-builders/aws-cloud-path-week-11-aws-networking-workshop-part-1-building-secure-vpc-infrastructure-4c5c)
+- [String Methods and Properties](https://dev.to/anthonybanion/string-methods-and-properties-1n1i)
 - [Blanco](https://dev.to/naim_noori_8a21ecf8ac7c74/blanco-4ilc)
 - [Revolutionary BCI Advances: Lab-Grown Neurons Restore Motor Control in Paralysis](https://dev.to/ndmckay/revolutionary-bci-advances-lab-grown-neurons-restore-motor-control-in-paralysis-h7d)
 - [AWS Cloud Path Week 10: Important Things to Know about Networking in AWS](https://dev.to/aws-builders/aws-cloud-path-week-10-important-things-to-know-about-networking-in-aws-3o9j)
-- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-1he8)
-- [Access and Refresh Tokens in Token-Based Authentication](https://dev.to/khaledsaeed18/access-and-refresh-tokens-in-token-based-authentication-2a9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
