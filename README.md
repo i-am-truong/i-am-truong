@@ -94,9 +94,9 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Developers Can Use Digital Marketing to Launch and Grow Side Projects 🚀](https://dev.to/dash_media_619c37650210c8/how-developers-can-use-digital-marketing-to-launch-and-grow-side-projects-5b0)
-- [How Languages Talk to Each Other: The Science of Cross-Linguistic Influence](https://dev.to/nimihosmith/how-languages-talk-to-each-other-the-science-of-cross-linguistic-influence-58jf)
-- [🚀 ShowDev: I Built a Small Spring Boot–Based Product – Feedback Welcome!](https://dev.to/steffi_das_f310c87c608304/showdev-i-built-a-small-spring-boot-based-product-feedback-welcome-783)
-- [What happens when Indian heritage meets modern innovation?](https://dev.to/konark_13/-3ilo)
-- [PyTorch Introductory Experiments](https://dev.to/trevorwslee/pytorch-introductory-experiments-378h)
+- [Get Hands-On with Amazon RDS Using AWS’s Getting Started Resource Center](https://dev.to/ismailg/get-hands-on-with-amazon-rds-using-awss-getting-started-resource-center-4gpa)
+- [Mastering DOM Performance &amp; Security](https://dev.to/saifulire/mastering-dom-performance-security-2c5f)
+- [I Built a Fully Automated Newsletter with OpenAI + n8n](https://dev.to/ujjwal_kumar_406b65d7d498/i-built-a-fully-automated-newsletter-with-openai-n8n-5egh)
+- [Developers Life](https://dev.to/techboss/developers-life-26ph)
+- [The Truth About Pointers and Arrays in C++ That No One Told Me](https://dev.to/shreedh/the-truth-about-pointers-and-arrays-in-c-that-no-one-told-me-3e4k)
 <!-- BLOG-POST-LIST:END -->
