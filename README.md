@@ -94,9 +94,9 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Expedition of Async Programming in JavaScript](https://dev.to/zhravan/expedition-of-async-programming-in-javascript-136a)
 - [Top 10 Python Libraries Every DevOps Engineer Should Master &lpar;With Use Cases &amp; Code&rpar;](https://dev.to/prodevopsguytech/top-10-python-libraries-every-devops-engineer-should-master-with-use-cases-code-kag)
 - [🦙 Introducing PyllamaUI – Python + Ollama + User Interface](https://dev.to/bhuvaneshm_dev/introducing-pyllamaui-python-ollama-user-interface-1p1p)
 - [Day 14 - Create a PlanPicker Parent Component](https://dev.to/railsstudent/day-14-create-a-planpicker-parent-component-236k)
 - [ТОП-5 шагов: Установка Debian с внешнего SSD без флешек на ноутбук 🔧💻](https://dev.to/javasimple86/top-5-shaghov-ustanovka-debian-s-vnieshniegho-ssd-biez-flieshiek-na-noutbuk-2o9p)
-- [How to Use Qwen3-Coder and Qwen Code](https://dev.to/therealmrmumba/how-to-use-qwen3-coder-and-qwen-code-4g4p)
 <!-- BLOG-POST-LIST:END -->
