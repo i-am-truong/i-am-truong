@@ -8,6 +8,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=i-am-truong&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/generated/languages.svg#gh-light-mode-only)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue)
 
