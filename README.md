@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: FNAF, How to STOP the Mimic... For Good!](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-how-to-stop-the-mimic-for-good-1g98)
-- [JavaScript на български и с много изрази](https://dev.to/ipelovski/javascript-na-blgharski-i-s-mnogho-izrazi-2mpp)
-- [Designing Viral UX/UI That Spreads Itself](https://dev.to/er-raj-aryan/designing-viral-uxui-that-spreads-itself-4dih)
-- [Navigating the AI Agent Ecosystem: A Comprehensive Framework Analysis](https://dev.to/aakas/navigating-the-ai-agent-ecosystem-a-comprehensive-framework-analysis-5813)
-- [Java Alert System](https://dev.to/michael_isijola_31f98c8dc/java-alert-system-5481)
+- [Serverless Cost Tracker – Stay Alert. Stay Efficient.](https://dev.to/imash24/serverless-cost-tracker-stay-alert-stay-efficient-1e07)
+- [Document Your JavaScript Code Like a Pro with JSDoc](https://dev.to/tenelabs/document-your-javascript-code-like-a-pro-with-jsdoc-3oon)
+- [Repocks: Enable RAG from In-Repo Documentation](https://dev.to/boke0/repocks-enable-rag-from-in-repo-documentation-4h6h)
+- [Top 5 Self-Help Classics Every Tech Professional Should Read](https://dev.to/mainulspace/top-5-self-help-classics-every-tech-professional-should-read-5bl9)
+- [Distributed Spring Batch Coordination, Part 1: The Problem with Traditional Spring Batch Scaling](https://dev.to/jchejarla/distributed-spring-batch-coordination-part-1-the-problem-with-traditional-spring-batch-scaling-3he4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
