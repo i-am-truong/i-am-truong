@@ -22,5 +22,5 @@
 - [How Languages Talk to Each Other: The Science of Cross-Linguistic Influence](https://dev.to/nimihosmith/how-languages-talk-to-each-other-the-science-of-cross-linguistic-influence-58jf)
 - [🚀 ShowDev: I Built a Small Spring Boot–Based Product – Feedback Welcome!](https://dev.to/steffi_das_f310c87c608304/showdev-i-built-a-small-spring-boot-based-product-feedback-welcome-783)
 - [What happens when Indian heritage meets modern innovation?](https://dev.to/konark_13/-3ilo)
-- [⚙️ Scaling to 100K+ Tenants in a Single DB: Isolation, Partitioning, and Indexing Strategies That Actually Work 💡](https://dev.to/scalabrix/scaling-to-100k-tenants-in-a-single-db-isolation-partitioning-and-indexing-strategies-that-535j)
+- [PyTorch Introductory Experiments](https://dev.to/trevorwslee/pytorch-introductory-experiments-378h)
 <!-- BLOG-POST-LIST:END -->
