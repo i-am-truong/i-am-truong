@@ -97,11 +97,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Java Project: To-Do List &lpar;Console-Based&rpar; — Detailed Guide](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-to-do-list-console-based-detailed-guide-4mg)
+- [📡 WebSocket API in AWS API Gateway – Real-time Magic Explained](https://dev.to/aws-builders/websocket-api-in-aws-api-gateway-real-time-magic-explained-645)
 - [Secure Tunneling Explained: Ngrok vs Cloudflared](https://dev.to/aryan_shourie/secure-tunneling-explained-ngrok-vs-cloudflared-mcl)
 - [🔭 OpenTelemetry in Action on Kubernetes: Part 8 - Visualize Everything, Building a Unified Observability Dashboard with Grafana](https://dev.to/kartikdudeja21/opentelemetry-in-action-on-kubernetes-part-8-visualize-everything-building-a-unified-1dpg)
 - [🎉 I’ve Moved from `rs-calculator` to `rsc` — Here’s What’s New!](https://dev.to/rasa8877/ive-moved-from-rs-calculator-to-rsc-heres-whats-new-173d)
-- [Automating Bridge + TAP Networking with a Go Binary &lpar;No Bash, No Fuss&rpar;](https://dev.to/krjakbrjak/automating-bridge-tap-networking-with-a-go-binary-no-bash-no-fuss-kgm)
-- [Simple Java Project: Guess the Number Game &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-guess-the-number-game-with-detailed-explanation-3if9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
