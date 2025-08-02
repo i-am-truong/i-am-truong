@@ -9,6 +9,79 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=i-am-truong&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-566.6%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 124.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 842 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                780 commits         ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌆 Daytime                593 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌃 Evening                549 commits         ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+🌙 Night                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   325 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Tuesday                  304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Wednesday                254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Thursday                 459 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Friday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Sunday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ████████████░░░░░░░░░░░░░   47.62 % 
+TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/08/2025 10:13:24 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-truong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
