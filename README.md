@@ -97,11 +97,11 @@ Java                     4 repos             █████░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure Tunneling Explained: Ngrok vs Cloudflared](https://dev.to/aryan_shourie/secure-tunneling-explained-ngrok-vs-cloudflared-mcl)
+- [🔭 OpenTelemetry in Action on Kubernetes: Part 8 - Visualize Everything, Building a Unified Observability Dashboard with Grafana](https://dev.to/kartikdudeja21/opentelemetry-in-action-on-kubernetes-part-8-visualize-everything-building-a-unified-1dpg)
+- [🎉 I’ve Moved from `rs-calculator` to `rsc` — Here’s What’s New!](https://dev.to/rasa8877/ive-moved-from-rs-calculator-to-rsc-heres-whats-new-173d)
+- [Automating Bridge + TAP Networking with a Go Binary &lpar;No Bash, No Fuss&rpar;](https://dev.to/krjakbrjak/automating-bridge-tap-networking-with-a-go-binary-no-bash-no-fuss-kgm)
 - [Simple Java Project: Guess the Number Game &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-guess-the-number-game-with-detailed-explanation-3if9)
-- [The Future of Cybersecurity: AI-Powered Threat Detection in 2025](https://dev.to/wininlife_academy_f1f49be/the-future-of-cybersecurity-ai-powered-threat-detection-in-2025-59ha)
-- [How AI-Powered Project Management Tools with Client Portals Made Me Actually Enjoy Client Work](https://dev.to/azhan_j_37b6bb3896622605/how-ai-powered-project-management-tools-with-client-portals-made-me-actually-enjoy-client-work-c91)
-- [Building NeuroNote — An AI-Powered Collaborative Note-Taking Tool](https://dev.to/abhijay_yadav_712e10ab036/building-neuronote-an-ai-powered-collaborative-note-taking-tool-e54)
-- [React Native Performance Optimization From Rendering to Networking](https://dev.to/tianyaschool/react-native-performance-optimization-from-rendering-to-networking-311p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
