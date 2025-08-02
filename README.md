@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Verizon is upping its fees again](https://dev.to/ndmckay/verizon-is-upping-its-fees-again-4gh0)
-- [Add AI features to your application with Genkit](https://dev.to/abukavictor/add-ai-features-to-your-application-with-genkit-28gn)
-- [API Security with Access Control: Best Practices for a Safer Backend](https://dev.to/lovestaco/api-security-with-access-control-best-practices-for-a-safer-backend-4fpf)
-- [Fake Hacker Simulation Screen](https://dev.to/ruaa201100svg/fake-hacker-simulation-screen-4261)
-- [Lightning-Fast Address Matching …Now with a Smart Hybrid &lpar;Deterministic + LLM&rpar; Engine: A Fun Experiment](https://dev.to/auyeungdavid_2847435260/lightning-fast-address-matching-now-with-a-smart-hybrid-deterministic-llm-engine-a-fun-3f46)
+- [📬 Stay Ahead with Developer-Focused Newsletters — Powered by Cooperpress](https://dev.to/ml318097/stay-ahead-with-developer-focused-newsletters-powered-by-cooperpress-d59)
+- [Day 2 ~ Learning DevOps In Public](https://dev.to/dharun_496b52d76f8f606a96/day-2-learning-devops-in-public-4nco)
+- [The Decorator Pattern in Java](https://dev.to/wkreuch/the-decorator-pattern-in-java-3n4)
+- [Nmap Practical Labs: Network Scanning, Firewall Evasion &amp; Output Analysis](https://dev.to/labex/nmap-practical-labs-network-scanning-firewall-evasion-output-analysis-1di5)
+- [Lo Arreglé y No Sé Cómo](https://dev.to/ivajocfran/lo-arregle-y-no-se-como-58mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
