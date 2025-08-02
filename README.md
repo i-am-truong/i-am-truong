@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI and Staking: Optimizing Validator Performance in 2025](https://dev.to/defidiver21/ai-and-staking-optimizing-validator-performance-in-2025-2gk9)
+- [Scoring 100 on Lighthouse &lpar;Performance focused&rpar;](https://dev.to/manujdixit/scoring-100-on-lighthouse-performance-focused-2ahb)
 - [Symfony Station Communiqué - Stardate: ✦ 25 July 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-25-july-2025-the-latest-symfony-drupal-typo3-and-php-1i0m)
 - [[Boost]](https://dev.to/dipti_m_2e7ba36c478d1a48a/-452l)
-- [Raw SQL or ORMs? Why ORMs are a preferred choice](https://dev.to/hamzaj/raw-sql-or-orms-why-orms-are-a-preferred-choice-3dcl)
-- [Mainframe Migration in 2025: A Practical Guide](https://dev.to/giladmaayan/mainframe-migration-in-2025-a-practical-guide-nkc)
-- [30 Days of Code- Day 17](https://dev.to/akshitaexe/30-days-of-code-day-17-2127)
+- [Join Softek: Build Bold Projects, Earn Equity](https://dev.to/softek/join-softek-build-bold-projects-earn-equity-9kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
