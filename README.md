@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First deliverable: Beyond the Code - WLH Challenge](https://dev.to/ariondev/first-deliverable-beyond-the-code-wlh-challenge-56bf)
-- [upper, lower &amp; casefold in Python](https://dev.to/hyperkai/upper-lower-casefold-in-python-a42)
-- [encode &amp; decode in Python](https://dev.to/hyperkai/encode-decode-in-python-18l7)
-- [The First and &lpar;Hopefully&rpar; Last Post About Myself](https://dev.to/simone_riggi_2dd293f5bd0b/the-first-and-hopefully-last-post-about-myself-5cd9)
-- [Virtualbox Installation for Arch Linux](https://dev.to/harry_tanama_51571ebf90b6/virtualbox-installation-for-arch-linux-236a)
+- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-4kd7)
+- [🚀 How I Built a Frontend-Only Telemetry Dashboard with React &amp; EdgeOne Pages](https://dev.to/soumyendu_dey_2b0d1a71bbf/how-i-built-a-frontend-only-telemetry-dashboard-with-react-edgeone-pages-54o5)
+- [swapcase, title &amp; capitalize in Python](https://dev.to/hyperkai/swapcase-title-capitalize-in-python-4e99)
+- [Close the Door Behind You: Why Properly Logging off RDP Matters](https://dev.to/saravana_gautham_g/close-the-door-behind-you-why-properly-logging-off-rdp-matters-1jie)
+- [Sketch &#39;n&#39; Scribble: Scene and Dialogue Generator using Google AI Studio](https://dev.to/pranamyark/sketch-n-scribble-scene-and-dialogue-generator-using-google-ai-studio-3ep9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
