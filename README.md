@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI in Coding](https://dev.to/nandinishinduja/ai-in-coding-18j1)
+- [Snowflake AI_SENTIMENT - Industry-Leading Sentiment Analysis with 0.92 Accuracy and Multi-Aspect Support](https://dev.to/tsubasa_tech/snowflake-aisentiment-industry-leading-sentiment-analysis-with-092-accuracy-and-multi-aspect-49k3)
+- [GLM 4.5 vs. Promptfoo: A Playbook for Systematic LLM Security Audits](https://dev.to/ayush7614/glm-45-vs-promptfoo-a-playbook-for-systematic-llm-security-audits-27ln)
+- [AI Workshop](https://dev.to/nandinishinduja/ai-workshop-3ha3)
 - [How I go about system design while building software systems](https://dev.to/nandinishinduja/how-i-go-about-system-design-while-building-software-systems-4nfc)
-- [How I use AI to build frontend systems](https://dev.to/nandinishinduja/how-i-use-ai-to-build-frontend-systems-4ibf)
-- [[Boost]](https://dev.to/__d89cacba/-2ke9)
-- [Managing Massive Content Sites Without Losing Your Mind: 5 Smart Strategies for Scalable Success](https://dev.to/okoye_ndidiamaka_5e3b7d30/managing-massive-content-sites-without-losing-your-mind-5-smart-strategies-for-scalable-success-6gb)
-- [Typing in Python: How Annotations Save Your Code and Speed Up Development](https://dev.to/__d89cacba/typing-in-python-how-annotations-save-your-code-and-speed-up-development-1o9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
