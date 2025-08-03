@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-446o)
-- [IGN: Invincible VS High-Level Gameplay | EVO 2025](https://dev.to/gg_news/ign-invincible-vs-high-level-gameplay-evo-2025-3f18)
-- [IGN: Mortal Kombat Legacy Kollection - Developer Interview | EVO 2025](https://dev.to/gg_news/ign-mortal-kombat-legacy-kollection-developer-interview-evo-2025-1o80)
-- [Unlocking AI Potential: How Contextualized Evaluations Transform Model Assessments](https://dev.to/jay_all_day/unlocking-ai-potential-how-contextualized-evaluations-transform-model-assessments-5d9i)
-- [Are We Taking &quot;Clean Code&quot; Too Far?](https://dev.to/andyosyndoh/are-we-taking-clean-code-too-far-224j)
+- [LLM Hallucinations: When AI Goes Off the Rails](https://dev.to/rijultp/llm-hallucinations-when-ai-goes-off-the-rails-4ifh)
+- [The Beauty of Git: Writing Code Stories](https://dev.to/rafaeljohn9/the-beauty-of-git-writing-code-stories-3i99)
+- [Gateway-Oriented Architecture &lpar;GOA&rpar;](https://dev.to/cesarpaulomp/gateway-oriented-architecture-goa-1bpc)
+- [Mastering Linear Search: Learn the Essentials of This Core Algorithm](https://dev.to/saptarshisarkar/mastering-linear-search-learn-the-essentials-of-this-core-algorithm-4daj)
+- [How to Install and Set Up PostgreSQL on a Linux Server](https://dev.to/edina_sichangi_b1a8a08278/how-to-install-and-set-up-postgresql-on-a-linux-server-2f5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
