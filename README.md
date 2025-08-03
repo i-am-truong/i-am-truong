@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Read-Only User in PostgreSQL &lpar;With Access to Statistics&rpar;](https://dev.to/ivajofranc/how-to-create-a-read-only-user-in-postgresql-with-access-to-statistics-1394)
-- [New way to bring your tweakcn themes into Figma &lpar;works with shadcn/ui&rpar;](https://dev.to/shadcraft/new-way-to-bring-your-tweakcn-themes-into-figma-works-with-shadcnui-1km0)
-- [Real Case: OneDrive/SharePoint Access Issue Finally Solved](https://dev.to/ivajofranc/real-case-onedrivesharepoint-access-issue-finally-solved-19bd)
-- [Stop Writing For Loops: Interactive Array Methods Playground + Complete Guide](https://dev.to/genildocs/stop-writing-for-loops-interactive-array-methods-playground-complete-guide-4iek)
-- [Recreating Apple’s AirTag Landing Page in React + Tailwind &lpar;8‑min speed‑run&rpar;](https://dev.to/andreu_pifarre_929397e2bb/recreating-apples-airtag-landing-page-in-react-tailwind-8-min-speed-run-3mp5)
+- [rindex in Python](https://dev.to/hyperkai/rindex-in-python-2275)
+- [POSTGRESQL INSTALLATION MADE EASY ON LINUX SERVERS](https://dev.to/njeri_kimaru_07fe792621ff/postgresql-installation-made-easy-on-linux-servers-3lj8)
+- [index in Python](https://dev.to/hyperkai/index-in-python-e4i)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-27jf)
+- [IGN: Marvel Tokon: Fighting Souls - Official PS5 Closed Beta Announcement Trailer](https://dev.to/gg_news/ign-marvel-tokon-fighting-souls-official-ps5-closed-beta-announcement-trailer-532e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
