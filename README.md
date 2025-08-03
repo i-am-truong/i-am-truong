@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My DevOps Portfolio Site Is Live – Built with Real Infrastructure, Real Tools](https://dev.to/fidelisesq/my-devops-portfolio-site-is-live-built-with-real-infrastructure-real-tools-4ip1)
+- [Understanding OAuth2: A Beginner-Friendly Guide](https://dev.to/tunyaporn_sub_a4c79/understanding-oauth2-a-beginner-friendly-guide-3e4o)
+- [AWS Bedrock Magic Summarizes Any Video Fast!](https://dev.to/aws-builders/aws-bedrock-magic-summarizes-any-video-fast-gk3)
 - [The Complete SaaS Business Guide: From Concept to Scale](https://dev.to/devcorner/the-complete-saas-business-guide-from-concept-to-scale-52kb)
 - [🖥️⚙️ Azure VM Provisioning &amp; Web Server Setup: Linux Nginx and Windows IIS Deployment](https://dev.to/boye88/azure-vm-provisioning-web-server-setup-linux-nginx-and-windows-iis-deployment-1k2d)
-- [Cardemic: After the Hack - WLH Challenge](https://dev.to/ariondev/cardemic-after-the-hack-wlh-challenge-1bn0)
-- [[Day 1] Personal Portfolio - Planning](https://dev.to/harushochiho/day-1-personal-portfolio-planning-5dp0)
-- [Angular with Injectable Services](https://dev.to/ankur0904/angular-with-injectable-services-4dnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
