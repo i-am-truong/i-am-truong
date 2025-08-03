@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is API Versioning?](https://dev.to/nandinishinduja/what-is-api-versioning-fkb)
-- [How to Develop Self Awareness: A Practical Guide to Personal Growth](https://dev.to/lifepurposeapp/how-to-develop-self-awareness-a-practical-guide-to-personal-growth-2mkj)
-- [Mastering Angular DevTools](https://dev.to/soumayaerradi/mastering-angular-devtools-92d)
-- [5 Ways AI Is Changing the Way We Watch TV — And Why It’s Only the Beginning](https://dev.to/svenpeter87690/5-ways-ai-is-changing-the-way-we-watch-tv-and-why-its-only-the-beginning-7m2)
-- [Day 54: When React Decides to Be Extra](https://dev.to/casperday11/day-54-when-react-decides-to-be-extra-mi2)
+- [How I go about system design while building software systems](https://dev.to/nandinishinduja/how-i-go-about-system-design-while-building-software-systems-4nfc)
+- [How I use AI to build frontend systems](https://dev.to/nandinishinduja/how-i-use-ai-to-build-frontend-systems-4ibf)
+- [[Boost]](https://dev.to/__d89cacba/-2ke9)
+- [Managing Massive Content Sites Without Losing Your Mind: 5 Smart Strategies for Scalable Success](https://dev.to/okoye_ndidiamaka_5e3b7d30/managing-massive-content-sites-without-losing-your-mind-5-smart-strategies-for-scalable-success-6gb)
+- [Typing in Python: How Annotations Save Your Code and Speed Up Development](https://dev.to/__d89cacba/typing-in-python-how-annotations-save-your-code-and-speed-up-development-1o9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
