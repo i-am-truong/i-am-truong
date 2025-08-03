@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud Path Week 13: AWS Networking Workshop Part 3 - Security Controls Deep Dive](https://dev.to/aws-builders/aws-cloud-path-week-13-aws-networking-workshop-part-3-security-controls-deep-dive-dkg)
-- [Cómo configurar un entorno profesional para desarrollo en Python con VS Code](https://dev.to/pedroporras/como-configurar-un-entorno-profesional-para-desarrollo-en-python-con-vs-code-2d48)
-- [How to Use YINI Config Files in a Node.js App &lpar;with Real Examples&rpar;](https://dev.to/marko_kseppnen_6250a7f/how-to-use-yini-config-files-in-a-nodejs-app-with-real-examples-4e20)
-- [Wan 2.2 &amp; FLUX Krea Full Tutorial — Automated Install — Ready Perfect Presets — SwarmUI with ComfyUI](https://dev.to/furkangozukara/wan-22-flux-krea-full-tutorial-automated-install-ready-perfect-presets-swarmui-with-comfyui-2a4f)
-- [QWIKTHREADS FOR REDIS WINNING HACKATHON](https://dev.to/ibrahimpima/qwikthreads-for-redis-winning-hackathon-46bk)
+- [Run Wan 2.2 in ComfyUI with Just 8GB VRAM — Full Image-to-Video AI Workflow](https://dev.to/aitechtutorials/run-wan-22-in-comfyui-with-just-8gb-vram-full-image-to-video-ai-workflow-2gb6)
+- [Oracle APEX: Transcrevendo audio em texto sem uso de REST direto no navegador em 5 minutos](https://dev.to/valter_filho_24448308265f/oracle-apex-transcrevendo-audio-em-texto-sem-uso-de-rest-direto-no-navegador-em-5-minutos-3eip)
+- [Dart Lesson 4: Collection Types &lpar;Part 2&rpar; — Maps and Enumerations](https://dev.to/ge_ji_d617c198a4ec85231b1/dart-lesson-4-collection-types-part-2-maps-and-enumerations-28j6)
+- [Hash Map Deep Dive](https://dev.to/gkoos/hash-map-deep-dive-2b7p)
+- [VPC for Humans: The Easiest Way to Understand AWS Networking 🌐](https://dev.to/yash_sonawane25/vpc-for-humans-the-easiest-way-to-understand-aws-networking-2mnp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
