@@ -32,40 +32,40 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-627-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-629-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-572.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 116.1 kB Used in GitHub's Storage 
+> 📦 116.3 kB Used in GitHub's Storage 
  > 
-> 🏆 865 Contributions in the Year 2025
+> 🏆 874 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                619 commits         ████████░░░░░░░░░░░░░░░░░   31.97 % 
-🌆 Daytime                627 commits         ████████░░░░░░░░░░░░░░░░░   32.39 % 
-🌃 Evening                577 commits         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-🌙 Night                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+🌞 Morning                619 commits         ████████░░░░░░░░░░░░░░░░░   31.92 % 
+🌆 Daytime                630 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌃 Evening                577 commits         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+🌙 Night                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Tuesday                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Thursday                 435 commits         ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Friday                   218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Saturday                 263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Sunday                   209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Tuesday                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Thursday                 435 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Friday                   218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Saturday                 263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Sunday                   212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 ```
 
 
@@ -90,10 +90,10 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
-TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
-Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JavaScript               10 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
+TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Java                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
@@ -103,7 +103,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 17:16:11 UTC
+ Last Updated on 03/08/2025 17:17:25 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-truong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
