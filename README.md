@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Basic Exception Handling in Java Spring](https://dev.to/pablo_mora_9e40570a97f54e/basic-exception-handling-in-java-spring-56h4)
+- [Veo 3 now available in Gemini Pro](https://dev.to/amrs-tech/veo-3-now-available-in-gemini-pro-1c9m)
+- [AWS Cloud Path Week 16: AWS Networking Workshop Part 6 &lpar;Final&rpar; -Understanding AWS Gateway Load Balancer](https://dev.to/aws-builders/aws-cloud-path-week-16-aws-networking-workshop-part-6-final-understanding-aws-gateway-load-3df8)
 - [Why You Shouldn’t Define a Component Inside Another Component in React](https://dev.to/newtonfdz/why-you-shouldnt-define-a-component-inside-another-component-in-react-30h3)
 - [Kubernetes Ingress Playlist Part 1 - Understanding Ingress Controllers](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-1-understanding-ingress-controllers-1mjj)
-- [Java Inheritance](https://dev.to/a_ramesh/java-inheritance-3lcl)
-- [Turn History PDF Books into AI-Ready Q&amp;A Datasets with This Python Tool!](https://dev.to/ayabongaqwabi/turn-history-pdf-books-into-ai-ready-qa-datasets-with-this-python-tool-5dh6)
-- [LLM Hallucinations: When AI Goes Off the Rails](https://dev.to/rijultp/llm-hallucinations-when-ai-goes-off-the-rails-4ifh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
