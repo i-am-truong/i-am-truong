@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Basic Exception Handling in Java Spring](https://dev.to/pablo_mora_9e40570a97f54e/basic-exception-handling-in-java-spring-56h4)
-- [Veo 3 now available in Gemini Pro](https://dev.to/amrs-tech/veo-3-now-available-in-gemini-pro-1c9m)
-- [AWS Cloud Path Week 16: AWS Networking Workshop Part 6 &lpar;Final&rpar; -Understanding AWS Gateway Load Balancer](https://dev.to/aws-builders/aws-cloud-path-week-16-aws-networking-workshop-part-6-final-understanding-aws-gateway-load-3df8)
-- [Why You Shouldn’t Define a Component Inside Another Component in React](https://dev.to/newtonfdz/why-you-shouldnt-define-a-component-inside-another-component-in-react-30h3)
-- [Kubernetes Ingress Playlist Part 1 - Understanding Ingress Controllers](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-1-understanding-ingress-controllers-1mjj)
+- [Implementing Bidirectional gRPC Streaming : A Practical Guide](https://dev.to/yash_mahakal/implementing-bidirectional-grpc-streaming-a-practical-guide-3afi)
+- [Avoiding Boilerplate with Default and Builder Patterns](https://dev.to/sgchris/avoiding-boilerplate-with-default-and-builder-patterns-45la)
+- [Mock interview experience:](https://dev.to/vigneshwaralingam/mock-interview-experience-5hhl)
+- [Building Your Own RSS Feed Subscription Management &amp; AI Large Model Reading Workflow with n8n](https://dev.to/yeshan333/building-your-own-rss-feed-subscription-management-ai-large-model-reading-workflow-with-n8n-2lia)
+- [AWS Cloud Path Week 17: How to Configure AWS Client VPN](https://dev.to/aws-builders/aws-cloud-path-week-17-how-to-configure-aws-client-vpn-383g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
