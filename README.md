@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cloud WAN: The Future of Networking Centrally Managed](https://dev.to/vivek_jha_cec0a8edf1246b0/aws-cloud-wan-the-future-of-networking-centrally-managed-4ae4)
+- [C malloc size calculate](https://dev.to/wakeup_flower_8591a6cb6a9/c-malloc-size-calculate-37k7)
+- [Network Security Tips For Small Business](https://dev.to/terminaltools/network-security-tips-for-small-business-3331)
+- [Remote Work Comparison 2025: Freelance, Full-Time, Hybrid &amp; More](https://dev.to/kapil_ruhela_9273aa701e03/remote-work-comparison-2025-freelance-full-time-hybrid-more-4pcl)
 - [The Andy Byron Coldplay incident](https://dev.to/nandinishinduja/the-andy-byron-coldplay-incident-4kph)
-- [Nicholas Renotte: How to Build a Stock Screener AGENT with LangGraph in 30 Minutes &lpar;LangGraph Crash Course&rpar;](https://dev.to/vibe_youtube/nicholas-renotte-how-to-build-a-stock-screener-agent-with-langgraph-in-30-minutes-langgraph-crash-5dfe)
-- [Unlocking Nature&#39;s Secrets: How Ant Colonies Inspire Cutting-Edge AI Solutions](https://dev.to/jay_all_day/unlocking-natures-secrets-how-ant-colonies-inspire-cutting-edge-ai-solutions-bn5)
-- [Getting Started with Laravel: A Beginner&#39;s Guide](https://dev.to/mogenaidy/getting-started-with-laravel-a-beginners-guide-3onc)
-- [Weekly Challenge: I sent my date a letter](https://dev.to/simongreennet/weekly-challenge-i-sent-my-date-a-letter-1ppg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
