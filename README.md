@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is API Versioning?](https://dev.to/nandinishinduja/what-is-api-versioning-fkb)
+- [How to Develop Self Awareness: A Practical Guide to Personal Growth](https://dev.to/lifepurposeapp/how-to-develop-self-awareness-a-practical-guide-to-personal-growth-2mkj)
 - [Mastering Angular DevTools](https://dev.to/soumayaerradi/mastering-angular-devtools-92d)
 - [5 Ways AI Is Changing the Way We Watch TV — And Why It’s Only the Beginning](https://dev.to/svenpeter87690/5-ways-ai-is-changing-the-way-we-watch-tv-and-why-its-only-the-beginning-7m2)
 - [Day 54: When React Decides to Be Extra](https://dev.to/casperday11/day-54-when-react-decides-to-be-extra-mi2)
-- [The Most Powerful, Easy To Use And Best State Management Library in React](https://dev.to/myogeshchavan97/the-most-powerful-easy-to-use-and-best-state-management-library-in-react-3o3i)
-- [💡 From Curiosity to Impact: Building with Kiro AI IDE 👻 for South African Job Seekers](https://dev.to/3arln3t/from-curiosity-to-impact-building-with-kiro-ai-ide-for-south-african-job-seekers-41n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
