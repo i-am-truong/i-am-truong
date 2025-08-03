@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi everyone, I&#39;m a beginner in React. I created a component,but its can&#39;t emport,can help enyone](https://dev.to/savinder_kour_3b73c291978/hi-everyone-im-a-beginner-in-react-i-created-a-componentbut-its-cant-emportcan-help-enyone-456a)
 - [5 Security Patterns Go Developers Should Avoid](https://dev.to/voskan89/5-security-patterns-go-developers-should-avoid-6lb)
 - [I Created a BitTorrent Client with Blazor and c#](https://dev.to/aezanpathan/i-created-a-bittorrent-client-with-blazor-and-c-47i6)
+- [Dart Lesson 8: Object-Oriented &lpar;Part 2&rpar; — Inheritance and Polymorphism](https://dev.to/jige2025/dart-lesson-8-object-oriented-part-2-inheritance-and-polymorphism-356i)
 - [Postgress Installation Guide for a Linux Server](https://dev.to/okonji_kevin/postgress-installation-guide-for-a-linux-server-3gma)
-- [Traits in php](https://dev.to/ahmedraza_fyntune/traits-in-php-2l1m)
-- [Building GraphQL APIs with Apollo Server](https://dev.to/godofgeeks/building-graphql-apis-with-apollo-server-26b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
