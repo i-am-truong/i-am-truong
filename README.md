@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✨ Building a Simple AI Prompt Keeper &lpar;with Bootstrap 5 + Alpine.js&rpar;](https://dev.to/adit/building-a-simple-ai-prompt-keeper-with-bootstrap-5-alpinejs-4dbj)
-- [Building a Modern Blog with Claude Code: From Concept to Deployment](https://dev.to/aziar/building-a-modern-blog-with-claude-code-from-concept-to-deployment-11jl)
-- [Dart Lesson 7: Object-oriented &lpar;Part 1&rpar; - Basic concepts of classes and objects](https://dev.to/jige2025/dart-lesson-7-object-oriented-part-1-basic-concepts-of-classes-and-objects-14k7)
-- [Earl Bagaikan Bahasa yang Nabi Sulaiman Berkomunikasi dengan Semut](https://dev.to/dev_nazwashabrina/earl-bagaikan-bahasa-yang-nabi-sulaiman-berkomunikasi-dengan-semut-4a34)
-- [The Logic Behind 0s, 1s, and 2s &lpar;DNF&rpar;](https://dev.to/umair01/the-logic-behind-0s-1s-and-2s-dnf-50ae)
+- [Hooks001: Use State Hook](https://dev.to/bappasahabapi/hooks001-use-state-hook-19pa)
+- [Python Challenge #1 -Expressions Edition](https://dev.to/vanshika_19/python-challenge-1-expressions-edition-4ph2)
+- [5 Organic Ways to Treat Rust on Plants](https://dev.to/hamza_ali_e5a3ccc85652d24/5-organic-ways-to-treat-rust-on-plants-1n97)
+- [Solana’s DeFi Boom: How Raydium and Orca Drive $15 Billion in TVL](https://dev.to/cryptonomad88/solanas-defi-boom-how-raydium-and-orca-drive-15-billion-in-tvl-4883)
+- [How to Write a Great Software Engineering CV &lpar;With Free Template&rpar;](https://dev.to/rornic/how-to-write-a-great-software-engineering-cv-with-free-template-374e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
