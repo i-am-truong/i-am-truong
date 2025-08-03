@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Handy Linux Resource That Might Be New to You](https://dev.to/sosaflow1799/a-handy-linux-resource-that-might-be-new-to-you-1hn1)
-- [Why React Cares About Immutability: A Deep Dive into Reference, Reconciliation, and Rendering](https://dev.to/codebyturkan/why-react-cares-about-immutability-a-deep-dive-into-reference-reconciliation-and-rendering-327)
-- [Java encapsulation:](https://dev.to/sundar_joseph_94059a3e7a6/java-encapsulation-4kl0)
-- [Java vs Python via the lens of an interview problem](https://dev.to/beyonddream/java-vs-python-via-the-lens-of-an-interview-problem-83n)
-- [A Solid Linux Resource I Keep Coming Back To](https://dev.to/ernesto_malave_285068a60e/a-solid-linux-resource-i-keep-coming-back-to-mc5)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-446o)
+- [IGN: Invincible VS High-Level Gameplay | EVO 2025](https://dev.to/gg_news/ign-invincible-vs-high-level-gameplay-evo-2025-3f18)
+- [IGN: Mortal Kombat Legacy Kollection - Developer Interview | EVO 2025](https://dev.to/gg_news/ign-mortal-kombat-legacy-kollection-developer-interview-evo-2025-1o80)
+- [Unlocking AI Potential: How Contextualized Evaluations Transform Model Assessments](https://dev.to/jay_all_day/unlocking-ai-potential-how-contextualized-evaluations-transform-model-assessments-5d9i)
+- [Are We Taking &quot;Clean Code&quot; Too Far?](https://dev.to/andyosyndoh/are-we-taking-clean-code-too-far-224j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
