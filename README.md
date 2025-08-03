@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recreating Apple’s AirTag Landing Page in React + Tailwind &lpar;8‑min speed‑run&rpar;](https://dev.to/andreu_pifarre_929397e2bb/recreating-apples-airtag-landing-page-in-react-tailwind-8-min-speed-run-3mp5)
 - [Lessons Learned @ MLH Fellowship - Production Engineering Track](https://dev.to/mom_bub_28e21a2b57438f770/lessons-learned-mlh-fellowship-production-engineering-track-dea)
 - [Maximize Storage with Smart WMS Tools](https://dev.to/jet_lee_a8e356502187463e3/maximize-storage-with-smart-wms-tools-1i9i)
 - [Mission 9: Navigating Outcomes Part One](https://dev.to/theoriginalbpc/mission-9-navigating-outcomes-part-one-1ocb)
 - [Solana Hold Your Funds, Redeem Them Now?](https://dev.to/blockexperts/solana-hold-your-funds-redeem-them-now-5bm6)
-- [AWS Cloud Path Week 18: Building a Serverless Coffee Shop Backend](https://dev.to/aws-builders/aws-cloud-path-week-18-building-a-serverless-coffee-shop-backend-4mkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
