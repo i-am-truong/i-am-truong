@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-2ami)
-- [IGN: Street Fighter 6 - Official C. Viper Teaser Trailer](https://dev.to/gg_news/ign-street-fighter-6-official-c-viper-teaser-trailer-2a5l)
-- [The Future of Machine Learning: Why CPUs, GPUs, NPUs, and TPUs Are Essential for AI Success](https://dev.to/jay_all_day/the-future-of-machine-learning-why-cpus-gpus-npus-and-tpus-are-essential-for-ai-success-47hk)
-- [Hook Studio](https://dev.to/jxlee007/hook-studio-2m6)
-- [This $1 Course Helped Me Launch a Micro SaaS in 10 Days](https://dev.to/snappy_tuts/this-1-course-helped-me-launch-a-micro-saas-in-10-days-ci6)
+- [Mission 9: Navigating Outcomes Part One](https://dev.to/theoriginalbpc/mission-9-navigating-outcomes-part-one-1ocb)
+- [Solana Hold Your Funds, Redeem Them Now?](https://dev.to/blockexperts/solana-hold-your-funds-redeem-them-now-5bm6)
+- [AWS Cloud Path Week 18: Building a Serverless Coffee Shop Backend](https://dev.to/aws-builders/aws-cloud-path-week-18-building-a-serverless-coffee-shop-backend-4mkp)
+- [C# Excel sortable headers](https://dev.to/karenpayneoregon/c-excel-sortable-headers-pe1)
+- [Convert HTML Tables to CSV Instantly — Free, Fast, and Online](https://dev.to/trixahub/convert-html-tables-to-csv-instantly-free-fast-and-online-3eke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
