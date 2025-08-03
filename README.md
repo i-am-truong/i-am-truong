@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hi everyone, I&#39;m a beginner in React. I created a component,but its can&#39;t emport,can help enyone](https://dev.to/savinder_kour_3b73c291978/hi-everyone-im-a-beginner-in-react-i-created-a-componentbut-its-cant-emportcan-help-enyone-456a)
-- [5 Security Patterns Go Developers Should Avoid](https://dev.to/voskan89/5-security-patterns-go-developers-should-avoid-6lb)
-- [I Created a BitTorrent Client with Blazor and c#](https://dev.to/aezanpathan/i-created-a-bittorrent-client-with-blazor-and-c-47i6)
-- [Dart Lesson 8: Object-Oriented &lpar;Part 2&rpar; — Inheritance and Polymorphism](https://dev.to/jige2025/dart-lesson-8-object-oriented-part-2-inheritance-and-polymorphism-356i)
-- [Postgress Installation Guide for a Linux Server](https://dev.to/okonji_kevin/postgress-installation-guide-for-a-linux-server-3gma)
+- [The Andy Byron Coldplay incident](https://dev.to/nandinishinduja/the-andy-byron-coldplay-incident-4kph)
+- [Nicholas Renotte: How to Build a Stock Screener AGENT with LangGraph in 30 Minutes &lpar;LangGraph Crash Course&rpar;](https://dev.to/vibe_youtube/nicholas-renotte-how-to-build-a-stock-screener-agent-with-langgraph-in-30-minutes-langgraph-crash-5dfe)
+- [Unlocking Nature&#39;s Secrets: How Ant Colonies Inspire Cutting-Edge AI Solutions](https://dev.to/jay_all_day/unlocking-natures-secrets-how-ant-colonies-inspire-cutting-edge-ai-solutions-bn5)
+- [Getting Started with Laravel: A Beginner&#39;s Guide](https://dev.to/mogenaidy/getting-started-with-laravel-a-beginners-guide-3onc)
+- [Weekly Challenge: I sent my date a letter](https://dev.to/simongreennet/weekly-challenge-i-sent-my-date-a-letter-1ppg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
