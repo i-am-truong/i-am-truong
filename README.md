@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Security Patterns Go Developers Should Avoid](https://dev.to/voskan89/5-security-patterns-go-developers-should-avoid-6lb)
+- [I Created a BitTorrent Client with Blazor and c#](https://dev.to/aezanpathan/i-created-a-bittorrent-client-with-blazor-and-c-47i6)
+- [Postgress Installation Guide for a Linux Server](https://dev.to/okonji_kevin/postgress-installation-guide-for-a-linux-server-3gma)
+- [Traits in php](https://dev.to/ahmedraza_fyntune/traits-in-php-2l1m)
 - [Building GraphQL APIs with Apollo Server](https://dev.to/godofgeeks/building-graphql-apis-with-apollo-server-26b6)
-- [JavaScript isn’t the problem. Replacing the browser was.](https://dev.to/peterp/javascript-isnt-the-problem-replacing-the-browser-was-1ma7)
-- [Laravel Octane: 15 Advanced Configuration Techniques for Maximum Performance](https://dev.to/arasosman/laravel-octane-15-advanced-configuration-techniques-for-maximum-performance-5974)
-- [TypeScript Tricks Every Angular Developer Should Know](https://dev.to/karol_modelski/typescript-tricks-every-angular-developer-should-know-16dp)
-- [🚀 August 2025 Developer Update: React 19, AI-Powered Tools, and Big Tech’s $155B AI Playbook](https://dev.to/jasgigli/august-2025-developer-update-react-19-ai-powered-tools-and-big-techs-155b-ai-playbook-4mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
