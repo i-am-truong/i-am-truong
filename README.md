@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pythonista - GIL opcional](https://dev.to/adrianovieira/pythonista-conheca-o-global-interpreter-lock-gil-4pin)
+- [Context Engineering: Building Better AI Agents](https://dev.to/vontajohnson/context-engineering-building-better-ai-agents-4a5k)
+- [LeetCode 1: Two Sum &lpar;C#&rpar;](https://dev.to/grantdotdev/leetcode-1-two-sum-c-3h3k)
 - [rindex in Python](https://dev.to/hyperkai/rindex-in-python-2275)
 - [POSTGRESQL INSTALLATION MADE EASY ON LINUX SERVERS](https://dev.to/njeri_kimaru_07fe792621ff/postgresql-installation-made-easy-on-linux-servers-3lj8)
-- [index in Python](https://dev.to/hyperkai/index-in-python-e4i)
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-27jf)
-- [IGN: Marvel Tokon: Fighting Souls - Official PS5 Closed Beta Announcement Trailer](https://dev.to/gg_news/ign-marvel-tokon-fighting-souls-official-ps5-closed-beta-announcement-trailer-532e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
