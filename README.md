@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud WAN: The Future of Networking Centrally Managed](https://dev.to/vivek_jha_cec0a8edf1246b0/aws-cloud-wan-the-future-of-networking-centrally-managed-4ae4)
-- [C malloc size calculate](https://dev.to/wakeup_flower_8591a6cb6a9/c-malloc-size-calculate-37k7)
-- [Network Security Tips For Small Business](https://dev.to/terminaltools/network-security-tips-for-small-business-3331)
-- [Remote Work Comparison 2025: Freelance, Full-Time, Hybrid &amp; More](https://dev.to/kapil_ruhela_9273aa701e03/remote-work-comparison-2025-freelance-full-time-hybrid-more-4pcl)
-- [The Andy Byron Coldplay incident](https://dev.to/nandinishinduja/the-andy-byron-coldplay-incident-4kph)
+- [Mastering Angular DevTools](https://dev.to/soumayaerradi/mastering-angular-devtools-92d)
+- [5 Ways AI Is Changing the Way We Watch TV — And Why It’s Only the Beginning](https://dev.to/svenpeter87690/5-ways-ai-is-changing-the-way-we-watch-tv-and-why-its-only-the-beginning-7m2)
+- [Day 54: When React Decides to Be Extra](https://dev.to/casperday11/day-54-when-react-decides-to-be-extra-mi2)
+- [The Most Powerful, Easy To Use And Best State Management Library in React](https://dev.to/myogeshchavan97/the-most-powerful-easy-to-use-and-best-state-management-library-in-react-3o3i)
+- [💡 From Curiosity to Impact: Building with Kiro AI IDE 👻 for South African Job Seekers](https://dev.to/3arln3t/from-curiosity-to-impact-building-with-kiro-ai-ide-for-south-african-job-seekers-41n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
