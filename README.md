@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using GORM as an ORM in Go: A Quick Overview](https://dev.to/diogojlq/using-gorm-as-an-orm-in-go-a-quick-overview-1ja2)
-- [Harnessing Ant Behavior: Secrets to Cutting-Edge Tech Solutions](https://dev.to/jay_all_day/harnessing-ant-behavior-secrets-to-cutting-edge-tech-solutions-30ed)
-- [NuPack v17.2 released](https://dev.to/cnsharp/nupack-v172-released-1aep)
-- [BFS Graph Traversal C++: Story](https://dev.to/harshm03/bfs-graph-traversal-c-story-3c5l)
-- [Redis-Powered Prayer Times App: Location-Aware Islamic Schedule](https://dev.to/siswoyo/redis-powered-prayer-times-app-location-aware-islamic-schedule-5al)
+- [Cycle Detection using Union-Find C++: Story](https://dev.to/harshm03/cycle-detection-using-union-find-c-story-127h)
+- [Top 5 Mistakes JavaScript Beginners Make in Interviews &lpar;And How to Avoid Them&rpar;](https://dev.to/sid6398/top-5-mistakes-javascript-beginners-make-in-interviews-and-how-to-avoid-them-2lk8)
+- [The NHS Has a £1B Tech Problem That Developers Could Actually Fix](https://dev.to/shiva_shanker_k/the-nhs-has-a-ps1b-tech-problem-that-developers-could-actually-fix-d2h)
+- [Understanding AsyncStream and AsyncThrowingStream in Swift](https://dev.to/arshtechpro/understanding-asyncstream-and-asyncthrowingstream-in-swift-lgm)
+- [7 Upcoming JavaScript Features to Watch in 2025 🚀](https://dev.to/abhishekkrpand1/7-upcoming-javascript-features-to-watch-in-2025-56fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
