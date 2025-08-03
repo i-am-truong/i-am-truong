@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prims Algorithm C++: Story](https://dev.to/harshm03/prims-algorithm-c-story-e7d)
-- [Shopify Subscription Models for Growing Brands](https://dev.to/airin_glossyit_267c2a1/shopify-subscription-models-for-growing-brands-1g3k)
-- [11 Months as a Self-Taught Developer – What Have I Learned?](https://dev.to/cristea_theodora_6200140b/11-months-as-a-self-taught-developer-what-have-i-learned-g8p)
-- [AWS Security 101](https://dev.to/arishsingh99/aws-security-101-2g1a)
-- [How does the project control process help manage risks?](https://dev.to/writegenic/how-does-the-project-control-process-help-manage-risks-2oo)
+- [Using GORM as an ORM in Go: A Quick Overview](https://dev.to/diogojlq/using-gorm-as-an-orm-in-go-a-quick-overview-1ja2)
+- [Harnessing Ant Behavior: Secrets to Cutting-Edge Tech Solutions](https://dev.to/jay_all_day/harnessing-ant-behavior-secrets-to-cutting-edge-tech-solutions-30ed)
+- [NuPack v17.2 released](https://dev.to/cnsharp/nupack-v172-released-1aep)
+- [BFS Graph Traversal C++: Story](https://dev.to/harshm03/bfs-graph-traversal-c-story-3c5l)
+- [Redis-Powered Prayer Times App: Location-Aware Islamic Schedule](https://dev.to/siswoyo/redis-powered-prayer-times-app-location-aware-islamic-schedule-5al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
