@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 13: Advance Git &amp; GitHub for DevOps Engineers](https://dev.to/udoh_deborah_b1e484c474bf/day-13-advance-git-github-for-devops-engineers-22h1)
+- [Learning CS By Building A Computer #0 - An Intro](https://dev.to/nipunattri/relearning-cs-by-building-a-computer-0-an-intro-18b2)
+- [QEMU QAPI Client for Go — Native Code-Gen Straight from QEMU](https://dev.to/krjakbrjak/qemu-qapi-client-for-go-native-code-gen-straight-from-qemu-4m13)
 - [rpartition in Python](https://dev.to/hyperkai/rpartition-in-python-1me1)
 - [partition in Python](https://dev.to/hyperkai/partition-in-python-4gn3)
-- [splitlines in Python](https://dev.to/hyperkai/splitlines-in-python-1mdi)
-- [How to Setup Bluetooth in Arch Linux](https://dev.to/harry_tanama_51571ebf90b6/how-to-setup-bluetooth-in-arch-linux-4cfa)
-- [Pythonista - GIL opcional](https://dev.to/adrianovieira/pythonista-conheca-o-global-interpreter-lock-gil-4pin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
