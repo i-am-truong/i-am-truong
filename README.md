@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Understanding the Rethrow Statement in Uniface 10.4: Exception Handling Made Simple](https://dev.to/petercode/understanding-the-rethrow-statement-in-uniface-104-exception-handling-made-simple-3mf5)
-- [CloudQuotation by Alibaba Cloud](https://dev.to/subhamray/cloudquotation-by-alibaba-cloud-5cg)
-- [How to Create a Secure Subnet and Network Security Group in Azure](https://dev.to/peter_samuel_052b9056e236/how-to-create-a-secure-subnet-and-network-security-group-in-azure-2g2b)
-- [Music Player - Finally](https://dev.to/tarlue_alphanso_57a6d2915/music-player-finally-214b)
-- [Distributed Spring Batch Coordination, Part 5: Monitoring, Observability, and Health Checks](https://dev.to/jchejarla/distributed-spring-batch-coordination-part-5-monitoring-observability-and-health-checks-590n)
+- [What Stripe Got Right About Dev Experience and What Kinde Is Evolving](https://dev.to/sholajegede/what-stripe-got-right-about-dev-experience-and-what-kinde-is-evolving-20p2)
+- [Alibaba Cloud Control API](https://dev.to/subhamray/alibaba-cloud-control-api-jem)
+- [Managing Object Ownership in PostgreSQL Migrations](https://dev.to/whchi/managing-object-ownership-in-postgresql-migrations-2d0o)
+- [Angular Injectable Services: Hogwarts Sorting Hat](https://dev.to/ankur0904/angular-injectable-services-hogwarts-sorting-hat-2den)
+- [Distributed Spring Batch Coordination, Part 7: Best Practices for Production](https://dev.to/jchejarla/distributed-spring-batch-coordination-part-7-best-practices-for-production-5gi3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
