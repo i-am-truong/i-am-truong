@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hooks001: Use State Hook](https://dev.to/bappasahabapi/hooks001-use-state-hook-19pa)
-- [Python Challenge #1 -Expressions Edition](https://dev.to/vanshika_19/python-challenge-1-expressions-edition-4ph2)
-- [5 Organic Ways to Treat Rust on Plants](https://dev.to/hamza_ali_e5a3ccc85652d24/5-organic-ways-to-treat-rust-on-plants-1n97)
-- [Solana’s DeFi Boom: How Raydium and Orca Drive $15 Billion in TVL](https://dev.to/cryptonomad88/solanas-defi-boom-how-raydium-and-orca-drive-15-billion-in-tvl-4883)
-- [How to Write a Great Software Engineering CV &lpar;With Free Template&rpar;](https://dev.to/rornic/how-to-write-a-great-software-engineering-cv-with-free-template-374e)
+- [Building GraphQL APIs with Apollo Server](https://dev.to/godofgeeks/building-graphql-apis-with-apollo-server-26b6)
+- [JavaScript isn’t the problem. Replacing the browser was.](https://dev.to/peterp/javascript-isnt-the-problem-replacing-the-browser-was-1ma7)
+- [Laravel Octane: 15 Advanced Configuration Techniques for Maximum Performance](https://dev.to/arasosman/laravel-octane-15-advanced-configuration-techniques-for-maximum-performance-5974)
+- [TypeScript Tricks Every Angular Developer Should Know](https://dev.to/karol_modelski/typescript-tricks-every-angular-developer-should-know-16dp)
+- [🚀 August 2025 Developer Update: React 19, AI-Powered Tools, and Big Tech’s $155B AI Playbook](https://dev.to/jasgigli/august-2025-developer-update-react-19-ai-powered-tools-and-big-techs-155b-ai-playbook-4mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
