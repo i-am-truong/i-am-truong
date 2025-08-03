@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My DevOps Portfolio Site Is Live – Built with Real Infrastructure, Real Tools](https://dev.to/fidelisesq/my-devops-portfolio-site-is-live-built-with-real-infrastructure-real-tools-4ip1)
-- [Understanding OAuth2: A Beginner-Friendly Guide](https://dev.to/tunyaporn_sub_a4c79/understanding-oauth2-a-beginner-friendly-guide-3e4o)
-- [AWS Bedrock Magic Summarizes Any Video Fast!](https://dev.to/aws-builders/aws-bedrock-magic-summarizes-any-video-fast-gk3)
-- [The Complete SaaS Business Guide: From Concept to Scale](https://dev.to/devcorner/the-complete-saas-business-guide-from-concept-to-scale-52kb)
-- [🖥️⚙️ Azure VM Provisioning &amp; Web Server Setup: Linux Nginx and Windows IIS Deployment](https://dev.to/boye88/azure-vm-provisioning-web-server-setup-linux-nginx-and-windows-iis-deployment-1k2d)
+- [A Solid Linux Resource I Keep Coming Back To](https://dev.to/ernesto_malave_285068a60e/a-solid-linux-resource-i-keep-coming-back-to-mc5)
+- [Cyclic Dependency in a Microservice Architecture](https://dev.to/dumbestprogrammer/cyclic-dependency-in-a-microservice-architecture-1e6c)
+- [&quot;Why I Start My Tuesdays with These 3-Minute Prayers &lpar;Even as a Developer&rpar;&quot;](https://dev.to/sarmad_asif_49da49ea0dae7/why-i-start-my-tuesdays-with-these-3-minute-prayers-even-as-a-developer-b61)
+- [The Truth About Vibe Coding: AI Won’t Save You From Debugging](https://dev.to/mikaelsantilio/the-truth-about-vibe-coding-ai-wont-save-you-from-debugging-2i14)
+- [Modern-Day Software Engineering: Orchestrating Intelligence with AI, ML, and LLMs](https://dev.to/unglamorous_dev/modern-day-software-engineering-orchestrating-intelligence-with-ai-ml-and-llms-10o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
