@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is anyone experimenting with building cloud platforms? Have you tried building your own cloud‑based product or infrastructure? What technical or business hurdles did you run into early on? If you were starting now, what would you focus on first?](https://dev.to/semmat/is-anyone-experimenting-with-building-cloud-platforms-have-you-tried-building-your-own-543o)
-- [PostgreSQL Installation and Setup on Linux Server: A Complete Guide by Nicholus Gathirwa.](https://dev.to/gg001/postgresql-installation-and-setup-on-linux-server-a-complete-guide-by-nicholus-gathirwa-264k)
-- [When to Use Cow &lpar;Clone on Write&rpar;](https://dev.to/sgchris/when-to-use-cow-clone-on-write-8ld)
-- [Unzip multiple .zip files using PowersShell in Windows](https://dev.to/ganeshperiyasamy/unzip-multiple-zip-files-using-powersshell-in-windows-1l6p)
-- [[Boost]](https://dev.to/yash_mahakal/-33b0)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-2ami)
+- [IGN: Street Fighter 6 - Official C. Viper Teaser Trailer](https://dev.to/gg_news/ign-street-fighter-6-official-c-viper-teaser-trailer-2a5l)
+- [The Future of Machine Learning: Why CPUs, GPUs, NPUs, and TPUs Are Essential for AI Success](https://dev.to/jay_all_day/the-future-of-machine-learning-why-cpus-gpus-npus-and-tpus-are-essential-for-ai-success-47hk)
+- [Hook Studio](https://dev.to/jxlee007/hook-studio-2m6)
+- [This $1 Course Helped Me Launch a Micro SaaS in 10 Days](https://dev.to/snappy_tuts/this-1-course-helped-me-launch-a-micro-saas-in-10-days-ci6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
