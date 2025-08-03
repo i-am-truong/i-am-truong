@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/pankaj_jainani_e2ef8fc5d9/-1cab)
-- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-31d)
-- [swapcase, title &amp; capitalize in Python](https://dev.to/hyperkai/swapcase-title-capitalize-in-python-2c91)
-- [How to efficiently compress image file size while maintaining image quality?](https://dev.to/kelen/how-to-efficiently-compress-image-file-size-while-maintaining-image-quality-3onl)
-- [如何高效压缩图片体积，保持图片质量不变？](https://dev.to/kelen/ru-he-gao-xiao-ya-suo-tu-pian-ti-ji-bao-chi-tu-pian-zhi-liang-bu-bian--3po8)
+- [Building my first Local MCP server using Swagger &amp; OpenAPITools](https://dev.to/siren/building-my-first-mcp-server-using-swagger-openapitools-38kg)
+- [Why Go’s any and interface{} Are the Same… But Not Quite](https://dev.to/leapcell/why-gos-any-and-interface-are-the-same-but-not-quite-3356)
+- [Understanding React&#39;s useContext Hook: A Complete Guide](https://dev.to/muneebkhan4/understanding-reacts-usecontext-hook-a-complete-guide-1540)
+- [Tradie Materials Live NZ: After the Hack - WLH Challenge](https://dev.to/ariondev/tradie-materials-live-nz-after-the-hack-wlh-challenge-2p5g)
+- [The Debate Between Tailwind CSS and Styled Components for React Developers](https://dev.to/hazrat-ali9/the-debate-between-tailwind-css-and-styled-components-for-react-developers-3fl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
