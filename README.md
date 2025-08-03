@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI in DevOps](https://dev.to/maahir19/the-role-of-ai-in-devops-3mi2)
-- [Kanban vs Scrum: qual escolher?](https://dev.to/lucaspereiradesouzat/kanban-vs-scrum-qual-escolher-3iag)
-- [POSTGRESQL INSTALLATION ON LINUX SERVER](https://dev.to/jeffa_jeffa_67f700f712ab7/postgresql-installation-on-linux-server-4mjf)
-- [How I Stopped Fake “OpenAI” &amp; “Googlebot” Crawlers from Flooding My Site](https://dev.to/yeb/how-i-stopped-fake-openai-googlebot-crawlers-from-flooding-my-site-2j1b)
-- [How to Build a Production Flask API CI/CD Pipeline on AWS with GitHub Actions](https://dev.to/aws-builders/how-to-build-a-production-flask-api-cicd-pipeline-on-aws-with-github-actions-1pdo)
+- [The Complete SaaS Business Guide: From Concept to Scale](https://dev.to/devcorner/the-complete-saas-business-guide-from-concept-to-scale-52kb)
+- [🖥️⚙️ Azure VM Provisioning &amp; Web Server Setup: Linux Nginx and Windows IIS Deployment](https://dev.to/boye88/azure-vm-provisioning-web-server-setup-linux-nginx-and-windows-iis-deployment-1k2d)
+- [Cardemic: After the Hack - WLH Challenge](https://dev.to/ariondev/cardemic-after-the-hack-wlh-challenge-1bn0)
+- [[Day 1] Personal Portfolio - Planning](https://dev.to/harushochiho/day-1-personal-portfolio-planning-5dp0)
+- [Angular with Injectable Services](https://dev.to/ankur0904/angular-with-injectable-services-4dnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
