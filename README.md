@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Handy Linux Resource That Might Be New to You](https://dev.to/sosaflow1799/a-handy-linux-resource-that-might-be-new-to-you-1hn1)
+- [Why React Cares About Immutability: A Deep Dive into Reference, Reconciliation, and Rendering](https://dev.to/codebyturkan/why-react-cares-about-immutability-a-deep-dive-into-reference-reconciliation-and-rendering-327)
+- [Java encapsulation:](https://dev.to/sundar_joseph_94059a3e7a6/java-encapsulation-4kl0)
+- [Java vs Python via the lens of an interview problem](https://dev.to/beyonddream/java-vs-python-via-the-lens-of-an-interview-problem-83n)
 - [A Solid Linux Resource I Keep Coming Back To](https://dev.to/ernesto_malave_285068a60e/a-solid-linux-resource-i-keep-coming-back-to-mc5)
-- [Cyclic Dependency in a Microservice Architecture](https://dev.to/dumbestprogrammer/cyclic-dependency-in-a-microservice-architecture-1e6c)
-- [&quot;Why I Start My Tuesdays with These 3-Minute Prayers &lpar;Even as a Developer&rpar;&quot;](https://dev.to/sarmad_asif_49da49ea0dae7/why-i-start-my-tuesdays-with-these-3-minute-prayers-even-as-a-developer-b61)
-- [The Truth About Vibe Coding: AI Won’t Save You From Debugging](https://dev.to/mikaelsantilio/the-truth-about-vibe-coding-ai-wont-save-you-from-debugging-2i14)
-- [Modern-Day Software Engineering: Orchestrating Intelligence with AI, ML, and LLMs](https://dev.to/unglamorous_dev/modern-day-software-engineering-orchestrating-intelligence-with-ai-ml-and-llms-10o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
