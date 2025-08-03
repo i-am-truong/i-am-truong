@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building my first Local MCP server using Swagger &amp; OpenAPITools](https://dev.to/siren/building-my-first-mcp-server-using-swagger-openapitools-38kg)
-- [Why Go’s any and interface{} Are the Same… But Not Quite](https://dev.to/leapcell/why-gos-any-and-interface-are-the-same-but-not-quite-3356)
-- [Understanding React&#39;s useContext Hook: A Complete Guide](https://dev.to/muneebkhan4/understanding-reacts-usecontext-hook-a-complete-guide-1540)
-- [Tradie Materials Live NZ: After the Hack - WLH Challenge](https://dev.to/ariondev/tradie-materials-live-nz-after-the-hack-wlh-challenge-2p5g)
-- [The Debate Between Tailwind CSS and Styled Components for React Developers](https://dev.to/hazrat-ali9/the-debate-between-tailwind-css-and-styled-components-for-react-developers-3fl4)
+- [First deliverable: Beyond the Code - WLH Challenge](https://dev.to/ariondev/first-deliverable-beyond-the-code-wlh-challenge-56bf)
+- [upper, lower &amp; casefold in Python](https://dev.to/hyperkai/upper-lower-casefold-in-python-a42)
+- [encode &amp; decode in Python](https://dev.to/hyperkai/encode-decode-in-python-18l7)
+- [The First and &lpar;Hopefully&rpar; Last Post About Myself](https://dev.to/simone_riggi_2dd293f5bd0b/the-first-and-hopefully-last-post-about-myself-5cd9)
+- [Virtualbox Installation for Arch Linux](https://dev.to/harry_tanama_51571ebf90b6/virtualbox-installation-for-arch-linux-236a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
