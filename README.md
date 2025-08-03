@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kruskal Algorithm C++: Story](https://dev.to/harshm03/kruskal-algorithm-c-story-3g1o)
-- [A basic checklist for smoother WordPress setups](https://dev.to/elliemiguel/a-basic-checklist-for-smoother-wordpress-setups-2acj)
-- [Getting Started with FastAPI + Docker: A Beginner-Friendly Cloud Setup](https://dev.to/stellaacharoiro/getting-started-with-fastapi-docker-a-beginner-friendly-cloud-setup-1437)
-- [Building a SaaS for Freelancers: Proposals, Client Onboarding, Task Management &amp; Time Tracking](https://dev.to/sandeepbhattarai100/building-a-saas-for-freelancers-proposals-client-onboarding-task-management-time-tracking-5cd5)
-- [Union-Find&lpar;With Rank&rpar; C++: Story](https://dev.to/harshm03/union-findwith-rank-c-story-4nhp)
+- [Prims Algorithm C++: Story](https://dev.to/harshm03/prims-algorithm-c-story-e7d)
+- [Shopify Subscription Models for Growing Brands](https://dev.to/airin_glossyit_267c2a1/shopify-subscription-models-for-growing-brands-1g3k)
+- [11 Months as a Self-Taught Developer – What Have I Learned?](https://dev.to/cristea_theodora_6200140b/11-months-as-a-self-taught-developer-what-have-i-learned-g8p)
+- [AWS Security 101](https://dev.to/arishsingh99/aws-security-101-2g1a)
+- [How does the project control process help manage risks?](https://dev.to/writegenic/how-does-the-project-control-process-help-manage-risks-2oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
