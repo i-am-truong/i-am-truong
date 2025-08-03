@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run Wan 2.2 in ComfyUI with Just 8GB VRAM — Full Image-to-Video AI Workflow](https://dev.to/aitechtutorials/run-wan-22-in-comfyui-with-just-8gb-vram-full-image-to-video-ai-workflow-2gb6)
-- [Oracle APEX: Transcrevendo audio em texto sem uso de REST direto no navegador em 5 minutos](https://dev.to/valter_filho_24448308265f/oracle-apex-transcrevendo-audio-em-texto-sem-uso-de-rest-direto-no-navegador-em-5-minutos-3eip)
-- [Dart Lesson 4: Collection Types &lpar;Part 2&rpar; — Maps and Enumerations](https://dev.to/ge_ji_d617c198a4ec85231b1/dart-lesson-4-collection-types-part-2-maps-and-enumerations-28j6)
-- [Hash Map Deep Dive](https://dev.to/gkoos/hash-map-deep-dive-2b7p)
-- [VPC for Humans: The Easiest Way to Understand AWS Networking 🌐](https://dev.to/yash_sonawane25/vpc-for-humans-the-easiest-way-to-understand-aws-networking-2mnp)
+- [Codon sentience](https://dev.to/shuvohoq0/codon-sentience-59p0)
+- [Fixing “Uncontrolled   Controlled” Input Warnings in React 19](https://dev.to/cristiansifuentes/fixing-uncontrolled-controlled-input-warnings-in-react-19-2127)
+- [AI-Powered Code Generation from Ideas for Swift](https://dev.to/atforeveryoung/ai-powered-code-generation-from-ideas-for-swift-1k48)
+- [[Boost]](https://dev.to/thin_ho_e1271bf8f8199a3/-3hi2)
+- [Overcoming Imposter Syndrome: A Guide for New Developers](https://dev.to/rhythmsaha/overcoming-imposter-syndrome-a-guide-for-new-developers-2k1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
