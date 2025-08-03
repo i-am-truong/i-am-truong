@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Install Nagios on Ubuntu 24.04 LTS and also add Remote Host](https://dev.to/chittrmahto/how-to-install-nagios-on-ubuntu-2404-lts-and-also-add-remote-host-4n4h)
+- [Build iOS Apps by Describing What You Want with SwiftUI](https://dev.to/atforeveryoung/build-ios-apps-by-describing-what-you-want-with-swiftui-3fc6)
+- [Cómo crear un usuario de solo lectura en PostgreSQL &lpar;con acceso a estadísticas&rpar;](https://dev.to/ivajofranc/como-crear-un-usuario-de-solo-lectura-en-postgresql-con-acceso-a-estadisticas-3kkf)
+- [How to Run and Debug Groovy code in VSCode](https://dev.to/akop_akopov_e65413fb1fdd5/how-to-run-and-debug-groovy-code-in-vscode-24e)
 - [AI browser is the next killer app: how browsing is being rewritten by AI](https://dev.to/codetestfactory/ai-browser-is-the-next-killer-app-how-browsing-is-being-rewritten-by-ai-43jd)
-- [Hello World: I’m Learning HTML, CSS, and JavaScript](https://dev.to/vaishali_kadam/hello-world-im-learning-html-css-and-javascript-hg9)
-- [🧪 Playwright Test Annotations &amp; Grouping with describe&lpar;&rpar; — Full Tutorial](https://dev.to/wishinfinite/playwright-test-annotations-grouping-with-describe-full-tutorial-2gn3)
-- [🚀 Introducing: Quote Tab – A Chrome Extension for Daily Motivation](https://dev.to/arifuddincoder/introducing-quote-tab-a-chrome-extension-for-daily-motivation-51a0)
-- [index &amp; rindex in Python](https://dev.to/hyperkai/index-rindex-in-python-51j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
