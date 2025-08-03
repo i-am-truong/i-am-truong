@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [rpartition in Python](https://dev.to/hyperkai/rpartition-in-python-1me1)
+- [partition in Python](https://dev.to/hyperkai/partition-in-python-4gn3)
+- [splitlines in Python](https://dev.to/hyperkai/splitlines-in-python-1mdi)
+- [How to Setup Bluetooth in Arch Linux](https://dev.to/harry_tanama_51571ebf90b6/how-to-setup-bluetooth-in-arch-linux-4cfa)
 - [Pythonista - GIL opcional](https://dev.to/adrianovieira/pythonista-conheca-o-global-interpreter-lock-gil-4pin)
-- [Context Engineering: Building Better AI Agents](https://dev.to/vontajohnson/context-engineering-building-better-ai-agents-4a5k)
-- [LeetCode 1: Two Sum &lpar;C#&rpar;](https://dev.to/grantdotdev/leetcode-1-two-sum-c-3h3k)
-- [rindex in Python](https://dev.to/hyperkai/rindex-in-python-2275)
-- [POSTGRESQL INSTALLATION MADE EASY ON LINUX SERVERS](https://dev.to/njeri_kimaru_07fe792621ff/postgresql-installation-made-easy-on-linux-servers-3lj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
