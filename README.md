@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Every New Framework Feels the Same &lpar;And Why That’s a Good Thing&rpar;](https://dev.to/asrainas/why-every-new-framework-feels-the-same-and-why-thats-a-good-thing-5dl4)
-- [Unlocking Git&#39;s Power: Go Beyond git push &amp; git pull](https://dev.to/rohit_kumar_0193e4393f4bb/unlocking-gits-power-go-beyond-git-push-git-pull-1fih)
-- [The Foundations of Web3: Cryptocurrency, Ethereum, and Smart Contracts Concepts Explained](https://dev.to/loading_blocks/the-foundations-of-web3-cryptocurrency-ethereum-and-smart-contracts-concepts-explained-427g)
-- [Three ways on how you can remove sensitive fields from mongodb queries...](https://dev.to/prs-dev/three-ways-on-how-you-can-remove-sensitive-fields-from-mongodb-queries-4cf8)
-- [My AI Pit Crew: Building a Production App in a Single Stop](https://dev.to/aws-builders/my-ai-pit-crew-building-a-production-app-in-a-single-stop-3l66)
+- [✨ Building a Simple AI Prompt Keeper &lpar;with Bootstrap 5 + Alpine.js&rpar;](https://dev.to/adit/building-a-simple-ai-prompt-keeper-with-bootstrap-5-alpinejs-4dbj)
+- [Building a Modern Blog with Claude Code: From Concept to Deployment](https://dev.to/aziar/building-a-modern-blog-with-claude-code-from-concept-to-deployment-11jl)
+- [Dart Lesson 7: Object-oriented &lpar;Part 1&rpar; - Basic concepts of classes and objects](https://dev.to/jige2025/dart-lesson-7-object-oriented-part-1-basic-concepts-of-classes-and-objects-14k7)
+- [Earl Bagaikan Bahasa yang Nabi Sulaiman Berkomunikasi dengan Semut](https://dev.to/dev_nazwashabrina/earl-bagaikan-bahasa-yang-nabi-sulaiman-berkomunikasi-dengan-semut-4a34)
+- [The Logic Behind 0s, 1s, and 2s &lpar;DNF&rpar;](https://dev.to/umair01/the-logic-behind-0s-1s-and-2s-dnf-50ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
