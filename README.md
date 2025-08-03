@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Custom LinkedIn Frame to Stand Out in 2025](https://dev.to/yardenporat/how-to-create-a-custom-linkedin-frame-to-stand-out-in-2025-2l2m)
-- [The Untold Story of My Home Server - A Journey Through Self-Hosted Services](https://dev.to/ashraful/the-untold-story-of-my-home-server-a-journey-through-self-hosted-services-2hj2)
-- [The Tea app data breach: What really happened?](https://dev.to/harishankarr7/the-tea-app-data-breach-what-really-happened-3amh)
-- [Socialite ReCall](https://dev.to/nasrulhazim/socialite-recall-1066)
-- [🧱 Building a Modular ERP System with Laravel 10](https://dev.to/firexcore/building-a-modular-erp-system-with-laravel-10-1joc)
+- [Why Every New Framework Feels the Same &lpar;And Why That’s a Good Thing&rpar;](https://dev.to/asrainas/why-every-new-framework-feels-the-same-and-why-thats-a-good-thing-5dl4)
+- [Unlocking Git&#39;s Power: Go Beyond git push &amp; git pull](https://dev.to/rohit_kumar_0193e4393f4bb/unlocking-gits-power-go-beyond-git-push-git-pull-1fih)
+- [The Foundations of Web3: Cryptocurrency, Ethereum, and Smart Contracts Concepts Explained](https://dev.to/loading_blocks/the-foundations-of-web3-cryptocurrency-ethereum-and-smart-contracts-concepts-explained-427g)
+- [Three ways on how you can remove sensitive fields from mongodb queries...](https://dev.to/prs-dev/three-ways-on-how-you-can-remove-sensitive-fields-from-mongodb-queries-4cf8)
+- [My AI Pit Crew: Building a Production App in a Single Stop](https://dev.to/aws-builders/my-ai-pit-crew-building-a-production-app-in-a-single-stop-3l66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
