@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-4kd7)
-- [🚀 How I Built a Frontend-Only Telemetry Dashboard with React &amp; EdgeOne Pages](https://dev.to/soumyendu_dey_2b0d1a71bbf/how-i-built-a-frontend-only-telemetry-dashboard-with-react-edgeone-pages-54o5)
-- [swapcase, title &amp; capitalize in Python](https://dev.to/hyperkai/swapcase-title-capitalize-in-python-4e99)
-- [Close the Door Behind You: Why Properly Logging off RDP Matters](https://dev.to/saravana_gautham_g/close-the-door-behind-you-why-properly-logging-off-rdp-matters-1jie)
-- [Sketch &#39;n&#39; Scribble: Scene and Dialogue Generator using Google AI Studio](https://dev.to/pranamyark/sketch-n-scribble-scene-and-dialogue-generator-using-google-ai-studio-3ep9)
+- [AI browser is the next killer app: how browsing is being rewritten by AI](https://dev.to/codetestfactory/ai-browser-is-the-next-killer-app-how-browsing-is-being-rewritten-by-ai-43jd)
+- [Hello World: I’m Learning HTML, CSS, and JavaScript](https://dev.to/vaishali_kadam/hello-world-im-learning-html-css-and-javascript-hg9)
+- [🧪 Playwright Test Annotations &amp; Grouping with describe&lpar;&rpar; — Full Tutorial](https://dev.to/wishinfinite/playwright-test-annotations-grouping-with-describe-full-tutorial-2gn3)
+- [🚀 Introducing: Quote Tab – A Chrome Extension for Daily Motivation](https://dev.to/arifuddincoder/introducing-quote-tab-a-chrome-extension-for-daily-motivation-51a0)
+- [index &amp; rindex in Python](https://dev.to/hyperkai/index-rindex-in-python-51j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
