@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Stripe Got Right About Dev Experience and What Kinde Is Evolving](https://dev.to/sholajegede/what-stripe-got-right-about-dev-experience-and-what-kinde-is-evolving-20p2)
-- [Alibaba Cloud Control API](https://dev.to/subhamray/alibaba-cloud-control-api-jem)
-- [Managing Object Ownership in PostgreSQL Migrations](https://dev.to/whchi/managing-object-ownership-in-postgresql-migrations-2d0o)
-- [Angular Injectable Services: Hogwarts Sorting Hat](https://dev.to/ankur0904/angular-injectable-services-hogwarts-sorting-hat-2den)
-- [Distributed Spring Batch Coordination, Part 7: Best Practices for Production](https://dev.to/jchejarla/distributed-spring-batch-coordination-part-7-best-practices-for-production-5gi3)
+- [Mastering Google Apps Script: Free Automation in Google Workspace](https://dev.to/virgoalpha/mastering-google-apps-script-free-automation-in-google-workspace-3g1e)
+- [From Figma to Frontend in Minutes: A Hands-On Review of &quot;Kombai&quot;](https://dev.to/oikon/from-figma-to-frontend-in-minutes-a-hands-on-review-of-kombai-219o)
+- [Let Me Tell You a Story About the Origins of the Humble Breadcrumb and Visual Indicators as We Know It Today](https://dev.to/d2d_weizhi/let-me-tell-you-a-story-about-the-origins-of-the-humble-breadcrumb-and-visual-indicators-as-we-know-3bjf)
+- [Web Developer Travis McCracken on When to Use GraphQL vs REST](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-when-to-use-graphql-vs-rest-ejf)
+- [What is Alibaba Cloud&#39;s CloudSSO](https://dev.to/subhamray/what-is-alibaba-clouds-cloudsso-2bjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
