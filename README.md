@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Codon sentience](https://dev.to/shuvohoq0/codon-sentience-59p0)
-- [Fixing “Uncontrolled   Controlled” Input Warnings in React 19](https://dev.to/cristiansifuentes/fixing-uncontrolled-controlled-input-warnings-in-react-19-2127)
-- [AI-Powered Code Generation from Ideas for Swift](https://dev.to/atforeveryoung/ai-powered-code-generation-from-ideas-for-swift-1k48)
-- [[Boost]](https://dev.to/thin_ho_e1271bf8f8199a3/-3hi2)
-- [Overcoming Imposter Syndrome: A Guide for New Developers](https://dev.to/rhythmsaha/overcoming-imposter-syndrome-a-guide-for-new-developers-2k1f)
+- [Learn Azure Fast: VM, Network &amp; Storage Setup in 60 Minutes](https://dev.to/peter_samuel_052b9056e236/learn-azure-fast-vm-network-storage-setup-in-60-minutes-43gm)
+- [Amazon API Gateway Observability Best Practices with Datadog](https://dev.to/aws-builders/amazon-api-gateway-observability-best-practices-with-datadog-1eod)
+- [AI Is Not Replacing Developers — It’s Just Exposing the Frauds](https://dev.to/mjlynch123/ai-is-not-replacing-developers-its-just-exposing-the-frauds-2hdp)
+- [The Era Of Ai - Introduction To Vibe Coding -Chapter 5](https://dev.to/pjdeveloper896/the-era-of-ai-introduction-to-vibe-coding-chapter-5-49g6)
+- [How to Compile from Source Code in Linux](https://dev.to/harry_tanama_51571ebf90b6/how-to-compile-from-source-code-in-linux-36b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
