@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Google Apps Script: Free Automation in Google Workspace](https://dev.to/virgoalpha/mastering-google-apps-script-free-automation-in-google-workspace-3g1e)
-- [From Figma to Frontend in Minutes: A Hands-On Review of &quot;Kombai&quot;](https://dev.to/oikon/from-figma-to-frontend-in-minutes-a-hands-on-review-of-kombai-219o)
-- [Let Me Tell You a Story About the Origins of the Humble Breadcrumb and Visual Indicators as We Know It Today](https://dev.to/d2d_weizhi/let-me-tell-you-a-story-about-the-origins-of-the-humble-breadcrumb-and-visual-indicators-as-we-know-3bjf)
-- [Web Developer Travis McCracken on When to Use GraphQL vs REST](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-when-to-use-graphql-vs-rest-ejf)
-- [What is Alibaba Cloud&#39;s CloudSSO](https://dev.to/subhamray/what-is-alibaba-clouds-cloudsso-2bjc)
+- [[Boost]](https://dev.to/pankaj_jainani_e2ef8fc5d9/-1cab)
+- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-31d)
+- [swapcase, title &amp; capitalize in Python](https://dev.to/hyperkai/swapcase-title-capitalize-in-python-2c91)
+- [How to efficiently compress image file size while maintaining image quality?](https://dev.to/kelen/how-to-efficiently-compress-image-file-size-while-maintaining-image-quality-3onl)
+- [如何高效压缩图片体积，保持图片质量不变？](https://dev.to/kelen/ru-he-gao-xiao-ya-suo-tu-pian-ti-ji-bao-chi-tu-pian-zhi-liang-bu-bian--3po8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
