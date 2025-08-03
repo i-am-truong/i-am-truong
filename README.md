@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Read-Only User in PostgreSQL &lpar;With Access to Statistics&rpar;](https://dev.to/ivajofranc/how-to-create-a-read-only-user-in-postgresql-with-access-to-statistics-1394)
+- [New way to bring your tweakcn themes into Figma &lpar;works with shadcn/ui&rpar;](https://dev.to/shadcraft/new-way-to-bring-your-tweakcn-themes-into-figma-works-with-shadcnui-1km0)
+- [Real Case: OneDrive/SharePoint Access Issue Finally Solved](https://dev.to/ivajofranc/real-case-onedrivesharepoint-access-issue-finally-solved-19bd)
 - [Stop Writing For Loops: Interactive Array Methods Playground + Complete Guide](https://dev.to/genildocs/stop-writing-for-loops-interactive-array-methods-playground-complete-guide-4iek)
 - [Recreating Apple’s AirTag Landing Page in React + Tailwind &lpar;8‑min speed‑run&rpar;](https://dev.to/andreu_pifarre_929397e2bb/recreating-apples-airtag-landing-page-in-react-tailwind-8-min-speed-run-3mp5)
-- [A Promising Automation Idea? #28](https://dev.to/0xj0n1/a-promising-automation-idea-28-415d)
-- [Why RuneScape Private Servers Are Still Growing in 2025](https://dev.to/stefan_apostol_d6fecb38de/why-runescape-private-servers-are-still-growing-in-2025-1lkd)
-- [A step-by-step guide on how to install PostgreSQL on a Linux server](https://dev.to/arnold_mutugi_cca4d931ecc/a-step-by-step-guide-on-how-to-install-postgresql-on-a-linux-server-46hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
