@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [How To Install Nagios on Ubuntu 24.04 LTS and also add Remote Host](https://dev.to/chittrmahto/how-to-install-nagios-on-ubuntu-2404-lts-and-also-add-remote-host-4n4h)
 - [Build iOS Apps by Describing What You Want with SwiftUI](https://dev.to/atforeveryoung/build-ios-apps-by-describing-what-you-want-with-swiftui-3fc6)
-- [Cómo crear un usuario de solo lectura en PostgreSQL &lpar;con acceso a estadísticas&rpar;](https://dev.to/ivajofranc/como-crear-un-usuario-de-solo-lectura-en-postgresql-con-acceso-a-estadisticas-3kkf)
-- [How to Run and Debug Groovy code in VSCode](https://dev.to/akop_akopov_e65413fb1fdd5/how-to-run-and-debug-groovy-code-in-vscode-24e)
-- [AI browser is the next killer app: how browsing is being rewritten by AI](https://dev.to/codetestfactory/ai-browser-is-the-next-killer-app-how-browsing-is-being-rewritten-by-ai-43jd)
+- [rsplit in Python](https://dev.to/hyperkai/rsplit-in-python-2534)
+- [Wear OS apps with Flutter &lpar;2/4&rpar;: Setting up, designing circular UIs &amp; running on an emulator/device](https://dev.to/shu8/wear-os-apps-with-flutter-24-setting-up-designing-circular-uis-running-on-an-emulatordevice-2ja5)
+- [split in Python](https://dev.to/hyperkai/split-in-python-2lpl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
