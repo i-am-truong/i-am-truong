@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Shouldn’t Define a Component Inside Another Component in React](https://dev.to/newtonfdz/why-you-shouldnt-define-a-component-inside-another-component-in-react-30h3)
+- [Kubernetes Ingress Playlist Part 1 - Understanding Ingress Controllers](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-1-understanding-ingress-controllers-1mjj)
+- [Java Inheritance](https://dev.to/a_ramesh/java-inheritance-3lcl)
+- [Turn History PDF Books into AI-Ready Q&amp;A Datasets with This Python Tool!](https://dev.to/ayabongaqwabi/turn-history-pdf-books-into-ai-ready-qa-datasets-with-this-python-tool-5dh6)
 - [LLM Hallucinations: When AI Goes Off the Rails](https://dev.to/rijultp/llm-hallucinations-when-ai-goes-off-the-rails-4ifh)
-- [The Beauty of Git: Writing Code Stories](https://dev.to/rafaeljohn9/the-beauty-of-git-writing-code-stories-3i99)
-- [Gateway-Oriented Architecture &lpar;GOA&rpar;](https://dev.to/cesarpaulomp/gateway-oriented-architecture-goa-1bpc)
-- [Mastering Linear Search: Learn the Essentials of This Core Algorithm](https://dev.to/saptarshisarkar/mastering-linear-search-learn-the-essentials-of-this-core-algorithm-4daj)
-- [How to Install and Set Up PostgreSQL on a Linux Server](https://dev.to/edina_sichangi_b1a8a08278/how-to-install-and-set-up-postgresql-on-a-linux-server-2f5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
