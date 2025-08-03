@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cycle Detection using Union-Find C++: Story](https://dev.to/harshm03/cycle-detection-using-union-find-c-story-127h)
-- [Top 5 Mistakes JavaScript Beginners Make in Interviews &lpar;And How to Avoid Them&rpar;](https://dev.to/sid6398/top-5-mistakes-javascript-beginners-make-in-interviews-and-how-to-avoid-them-2lk8)
-- [The NHS Has a £1B Tech Problem That Developers Could Actually Fix](https://dev.to/shiva_shanker_k/the-nhs-has-a-ps1b-tech-problem-that-developers-could-actually-fix-d2h)
-- [Understanding AsyncStream and AsyncThrowingStream in Swift](https://dev.to/arshtechpro/understanding-asyncstream-and-asyncthrowingstream-in-swift-lgm)
-- [7 Upcoming JavaScript Features to Watch in 2025 🚀](https://dev.to/abhishekkrpand1/7-upcoming-javascript-features-to-watch-in-2025-56fb)
+- [Trello for AI Coding: When the Autopilot Needs a Manual Gearbox](https://dev.to/roma_armstrong/trello-for-ai-coding-when-the-autopilot-needs-a-manual-gearbox-2alk)
+- [🔗 Mastering Uniface reconnect: Merging Disconnected Data with Live Components](https://dev.to/petercode/mastering-uniface-reconnect-merging-disconnected-data-with-live-components-3dg6)
+- [I&#39;ve built a LLM pre-processing toolbox and would love to hear your feedback](https://dev.to/hanan-weavium/ive-built-a-llm-pre-processing-toolbox-and-would-love-to-hear-your-feedback-23il)
+- [Our Communication No Longer Belongs to Us, Thoughts on How AI Could Create an Alternative to WhatsApp](https://dev.to/roma_armstrong/our-communication-no-longer-belongs-to-us-thoughts-on-how-ai-could-create-an-alternative-to-1lhb)
+- [Building Temperature Conversion APIs? Here&#39;s What Every Developer Should Know](https://dev.to/vacancybee/building-temperature-conversion-apis-heres-what-every-developer-should-know-23a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
