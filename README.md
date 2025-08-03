@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI in Coding](https://dev.to/nandinishinduja/ai-in-coding-18j1)
-- [Snowflake AI_SENTIMENT - Industry-Leading Sentiment Analysis with 0.92 Accuracy and Multi-Aspect Support](https://dev.to/tsubasa_tech/snowflake-aisentiment-industry-leading-sentiment-analysis-with-092-accuracy-and-multi-aspect-49k3)
-- [GLM 4.5 vs. Promptfoo: A Playbook for Systematic LLM Security Audits](https://dev.to/ayush7614/glm-45-vs-promptfoo-a-playbook-for-systematic-llm-security-audits-27ln)
-- [AI Workshop](https://dev.to/nandinishinduja/ai-workshop-3ha3)
-- [How I go about system design while building software systems](https://dev.to/nandinishinduja/how-i-go-about-system-design-while-building-software-systems-4nfc)
+- [Kruskal Algorithm C++: Story](https://dev.to/harshm03/kruskal-algorithm-c-story-3g1o)
+- [A basic checklist for smoother WordPress setups](https://dev.to/elliemiguel/a-basic-checklist-for-smoother-wordpress-setups-2acj)
+- [Getting Started with FastAPI + Docker: A Beginner-Friendly Cloud Setup](https://dev.to/stellaacharoiro/getting-started-with-fastapi-docker-a-beginner-friendly-cloud-setup-1437)
+- [Building a SaaS for Freelancers: Proposals, Client Onboarding, Task Management &amp; Time Tracking](https://dev.to/sandeepbhattarai100/building-a-saas-for-freelancers-proposals-client-onboarding-task-management-time-tracking-5cd5)
+- [Union-Find&lpar;With Rank&rpar; C++: Story](https://dev.to/harshm03/union-findwith-rank-c-story-4nhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
