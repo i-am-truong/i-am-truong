@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Custom LinkedIn Frame to Stand Out in 2025](https://dev.to/yardenporat/how-to-create-a-custom-linkedin-frame-to-stand-out-in-2025-2l2m)
+- [The Untold Story of My Home Server - A Journey Through Self-Hosted Services](https://dev.to/ashraful/the-untold-story-of-my-home-server-a-journey-through-self-hosted-services-2hj2)
 - [The Tea app data breach: What really happened?](https://dev.to/harishankarr7/the-tea-app-data-breach-what-really-happened-3amh)
 - [Socialite ReCall](https://dev.to/nasrulhazim/socialite-recall-1066)
 - [🧱 Building a Modular ERP System with Laravel 10](https://dev.to/firexcore/building-a-modular-erp-system-with-laravel-10-1joc)
-- [Getting your product to the right people](https://dev.to/wdp/getting-your-product-to-the-right-people-5c90)
-- [Created a notion template for Detailed Software Engineering Notes](https://dev.to/mohitms007/created-a-notion-template-for-detailed-software-engineering-notes-1g1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
