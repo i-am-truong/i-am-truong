@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Release AI Agent Code Safely - Production CI/CD &amp; Secrets](https://dev.to/teppana88/release-ai-agent-code-safely-production-cicd-secrets-5ecj)
-- [Dart Lesson 15: Stream — Processing continuous data streams](https://dev.to/jige2025/dart-lesson-15-stream-processing-continuous-data-streams-3c5i)
-- [react](https://dev.to/armaankhan8270/react-39hk)
-- [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-6ip)
-- [app.py](https://dev.to/armaankhan8270/apppy-59ck)
+- [🚀 I Just Launched *IntraVybe* — A Fresh Take on Social Media for Images, Audio, and Video!](https://dev.to/intra_vybe/i-just-launched-intravybe-a-fresh-take-on-social-media-for-images-audio-and-video-bhh)
+- [Learn React.js: A Beginner’s Guide to Building Dynamic Web Apps topic](https://dev.to/rishabhtpt/learn-reactjs-a-beginners-guide-to-building-dynamic-web-apps-topic-2m7j)
+- [What are Back links?](https://dev.to/e77/what-are-back-links-5e5o)
+- [PageMind, Real-Time Collaborative Web Summarization Powered by Redis 8&#39;s Lightning-Fast Cache](https://dev.to/depapp/pagemind-real-time-collaborative-web-summarization-powered-by-redis-8s-lightning-fast-cache-2a6h)
+- [Building Smarter Backends: Practical Guides You Can Read Free or Pay What You Want](https://dev.to/hexshift/building-smarter-backends-practical-guides-you-can-read-free-or-pay-what-you-want-3bdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
