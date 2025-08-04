@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Browser-based performance testing with K6](https://dev.to/m4rri4nne/browser-based-performance-testing-with-k6-1lob)
+- [Automating Prefabricated Gate Systems: Programming TPUs and REST APIs](https://dev.to/emily_johnson_dev/automating-prefabricated-gate-systems-programming-tpus-and-rest-apis-16a8)
+- [Behind the Mic: AI and the Vibe Coding Podcast Retrospective](https://dev.to/georgekobaidze/behind-the-mic-ai-and-the-vibe-coding-podcast-retrospective-3hfe)
+- [Python Code to Generate Digital QR Checklists for Technicians After Final Cleaning](https://dev.to/andres_ortiz_c410e5f78515/python-code-to-generate-digital-qr-checklists-for-technicians-after-final-cleaning-4oo4)
 - [AI-900 Guide: From Prep to Pass](https://dev.to/busycaesar/ai-900-guide-from-prep-to-pass-23kg)
-- [A Cyberpunk 2077 Themed Terminal Game](https://dev.to/allecta/a-cyberpunk-2077-themed-terminal-game-4mdf)
-- [class-validator Cheatsheet: Useful Decorators and NestJS Validation Patterns &lpar;2025&rpar;](https://dev.to/seenu-subhash/class-validator-cheatsheet-useful-decorators-and-nestjs-validation-patterns-2025-1c43)
-- [Angular Deep Signal: Modeling State in Depth](https://dev.to/davidepassafaro/angular-deep-signal-modeling-state-in-depth-bb9)
-- [1 RN Thing a Day – Day 1: Lodash in React Native &lpar;Do You Really Need It?&rpar;](https://dev.to/ola_1313/1-rn-thing-a-day-day-1-lodash-in-react-native-do-you-really-need-it-cld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
