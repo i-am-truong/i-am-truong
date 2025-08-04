@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python LeetCode 70: Climbing Stairs - &lpar;Easy&rpar;](https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb)
+- [C# LeetCode 69: Sqrt&lpar;x&rpar;](https://dev.to/grantdotdev/c-leetcode-69-sqrtx-e8e)
+- [Hardening Básico de Servidor Ubuntu/Debian: Acesso SSH e Firewall](https://dev.to/joaoprd/hardening-basico-de-servidor-ubuntudebian-acesso-ssh-e-firewall-5lm)
 - [Return a response or write to the response?](https://dev.to/livioribeiro/return-a-response-or-write-to-the-response-4n7p)
 - [TokenSpan: Rethinking Prompt Compression with Aliases and Dictionary Encoding](https://dev.to/alexsanderhamir/tokenspan-rethinking-prompt-compression-with-aliases-and-dictionary-encoding-3a27)
-- [🔐 Data Governance: From Chaos to Control](https://dev.to/qvfagundes/data-governance-from-chaos-to-control-59n2)
-- [Duties and Taxes on Pet Accessories When Entering Canada](https://dev.to/muhammad_azam_b8dde188d50/duties-and-taxes-on-pet-accessories-when-entering-canada-1849)
-- [JSON Serialize vs. WebForms Class Performance Comparison](https://dev.to/elanatframework/json-serialize-vs-webforms-class-performance-comparison-15de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
