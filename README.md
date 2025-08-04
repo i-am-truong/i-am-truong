@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Input with Dropdown in Shadcn/ui](https://dev.to/surajondev/building-an-input-with-dropdown-in-shadcnui-32jj)
-- [🇮🇳 React India 2025 — India’s Premier React Conference](https://dev.to/ml318097/react-india-2025-indias-premier-react-conference-62)
-- [Introducing wizinsight - Lightweight API monitoring with Discord alerts](https://dev.to/parth_tyagi_23a56c937be3c/introducing-wizinsight-lightweight-api-monitoring-with-discord-alerts-5ael)
-- [A Clean &amp; Powerful Calculator with Pure JavaScript 🧮_give it a⭐](https://dev.to/yaldakhoshpey/a-clean-powerful-calculator-with-pure-javascript-3d7p)
-- [Building an AI Health Platform That Could Save the NHS £8.5M+ Annually](https://dev.to/shiva_shanker_k/building-an-ai-health-platform-that-could-save-the-nhs-ps85m-annually-218k)
+- [Why I’m Ditching OpenCode and Moving to Gemini CLI](https://dev.to/jxlee007/why-im-ditching-opencode-and-moving-to-gemini-cli-2072)
+- [Stonks or not stonks. Checking Lean trading engine source code](https://dev.to/pvsdev/stonks-or-not-stonks-checking-lean-trading-engine-source-code-3e08)
+- [Getting Started with Kiro – The Agentic IDE That Thinks with You - With Some Great Mind Maps](https://dev.to/andreluizrosa/getting-started-with-kiro-the-agentic-ide-that-thinks-with-you-with-some-great-mind-maps-4734)
+- [Design Patterns Simplified: Part 12 — Memento Pattern &lpar;a.k.a. “Your Object&#39;s Time Machine”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-12-memento-pattern-aka-your-objects-time-machine-3d6g)
+- [What&#39;s Going On](https://dev.to/methodoxdivooka/whats-going-on-5en4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
