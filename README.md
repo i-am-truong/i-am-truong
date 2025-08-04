@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🇮🇳 React India 2025 — India’s Premier React Conference](https://dev.to/ml318097/react-india-2025-indias-premier-react-conference-62)
+- [Introducing wizinsight - Lightweight API monitoring with Discord alerts](https://dev.to/parth_tyagi_23a56c937be3c/introducing-wizinsight-lightweight-api-monitoring-with-discord-alerts-5ael)
+- [A Clean &amp; Powerful Calculator with Pure JavaScript 🧮_give it a⭐](https://dev.to/yaldakhoshpey/a-clean-powerful-calculator-with-pure-javascript-3d7p)
+- [Building an AI Health Platform That Could Save the NHS £8.5M+ Annually](https://dev.to/shiva_shanker_k/building-an-ai-health-platform-that-could-save-the-nhs-ps85m-annually-218k)
 - [Laravel Tutorial:The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/laravel-tutorialthe-ultimate-guide-2023-1hn5)
-- [I Built a Cyberpunk Story About Meta&#39;s AI Future Using AI as My Pair Programmer](https://dev.to/bioinfo/i-built-a-cyberpunk-story-about-metas-ai-future-using-ai-as-my-pair-programmer-5c3m)
-- [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
-- [Why localhost:3000 Became the Home Base of Modern Web Development](https://dev.to/lightningdev123/why-localhost3000-became-the-home-base-of-modern-web-development-3i67)
-- [5 Ways Edge AI is Transforming Mobile App Performance and Privacy](https://dev.to/chrlie/5-ways-edge-ai-is-transforming-mobile-app-performance-and-privacy-1dd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
