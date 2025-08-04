@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What NYT Crosswords Teach Us About Debugging](https://dev.to/abubakersiddique771/what-nyt-crosswords-teach-us-about-debugging-569)
+- [🧠 What “Biased Sports Fan” Taught Me About Pattern Recognition &lpar;Yes, From a NYT Crossword&rpar;](https://dev.to/abubakersiddique771/what-biased-sports-fan-taught-me-about-pattern-recognition-yes-from-a-nyt-crossword-230d)
 - [Cloud SaaS Secrets: Launch Your $99 App in 10 Days](https://dev.to/resource_bunk_1077cab07da/cloud-saas-secrets-launch-your-99-app-in-10-days-22b8)
 - [I&#39;m working on shallowing my swing — it&#39;s always been steep and I accepted and worked with this for a while, but I have too many inconsistencies. So sort of re-working a proper swing.](https://dev.to/ben/im-working-on-shallowing-my-swing-its-always-been-steep-and-i-accepted-and-worked-with-this-for-5bcc)
 - [Cloud SaaS in 2025: Build Apps, Bank $99 Fast](https://dev.to/resource_bunk_1077cab07da/cloud-saas-in-2025-build-apps-bank-99-fast-dpb)
-- [3D Printing Nerd: Birthday Stream!](https://dev.to/maker_youtube/3d-printing-nerd-birthday-stream-54c3)
-- [Adam Savage&#39;s Tested: Adam Savage Examines Darth Vader&#39;s Original Lightsaber Prop!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-examines-darth-vaders-original-lightsaber-prop-2le2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
