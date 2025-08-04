@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-29ml)
-- [Quark’s Outlines: Python Long Integers](https://dev.to/mike-vincent/quarks-outlines-python-long-integers-36nl)
-- [The Tech Career Map You Didn’t Know You Needed &lpar;Until Now&rpar;](https://dev.to/the_ladybella/the-tech-career-map-you-didnt-know-you-needed-until-now-4cj)
-- [How to Set Up a Marketplace Payment Workflow with PayFast Split Payments](https://dev.to/nencywilliams/how-to-set-up-a-marketplace-payment-workflow-with-payfast-split-payments-dij)
-- [One week ago, I finally started learning cybersecurity — after years of avoiding it. This is how it’s going.](https://dev.to/kishor_sutradhar_d2503ac4/one-week-ago-i-finally-started-learning-cybersecurity-after-years-of-avoiding-it-this-is-how-3fdg)
+- [Seamlessly Redirect HTTP to HTTPS with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/seamlessly-redirect-http-to-https-with-safeline-waf-o62)
+- [I Built a Public Archive to Document Institutional Exclusion in Canadian Game Education&quot;](https://dev.to/formantaudio/i-built-a-public-archive-to-document-institutional-exclusion-in-canadian-game-education-7c5)
+- [如何在 web 应用中使用 GDAL （一）](https://dev.to/yangholmes/ru-he-zai-web-ying-yong-zhong-shi-yong-gdal--mad)
+- [OBS Studio in 2025 + My Favorite Free Screen Recording Tools](https://dev.to/bugs_bunny_e1d31fe61d0d32/obs-studio-in-2025-my-favorite-free-screen-recording-tools-5c0)
+- [For Angualr developper that use NgRx SignalStore, you will love it !](https://dev.to/romain_geffrault_10d88369/for-angualr-developper-that-use-ngrx-signalstore-you-will-love-it--le9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
