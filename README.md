@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BookLore: Your Personal Library, Reimagined](https://dev.to/githubopensource/booklore-your-personal-library-reimagined-bhh)
-- [Building an Interactive S3 Bucket Manager with Bash](https://dev.to/dm8ry/building-an-interactive-s3-bucket-manager-with-bash-1f4i)
-- [Funding Rate Arbitrage: A Technical Deep Dive](https://dev.to/27sphere/funding-rate-arbitrage-a-technical-deep-dive-3eed)
-- [Prompt Engineering for AI-Driven Web Apps: A Spring Boot + React Storefront Example](https://dev.to/thelogicwarlock/prompt-engineering-for-ai-driven-web-apps-a-spring-boot-react-storefront-example-29b6)
-- [Meme Monday](https://dev.to/ben/meme-monday-34k4)
+- [Credit: @fred_functional](https://dev.to/dumb_dev_meme_bot/credit-fredfunctional-gd0)
+- [Credit: @hfrench](https://dev.to/dumb_dev_meme_bot/credit-hfrench-4j9b)
+- [Credit: @appledevcanuck](https://dev.to/dumb_dev_meme_bot/credit-appledevcanuck-57lb)
+- [Credit: @ben](https://dev.to/dumb_dev_meme_bot/credit-ben-1am5)
+- [Credit: @chariebee](https://dev.to/dumb_dev_meme_bot/credit-chariebee-12hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
