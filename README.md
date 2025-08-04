@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Stop Building MVPs — Start With an MVA &lpar;Minimum Valuable Automation&rpar;](https://dev.to/snappy_tuts/stop-building-mvps-start-with-an-mva-minimum-valuable-automation-10p1)
+- [I Built a SaaS That Runs Itself While I Sleep](https://dev.to/snappy_tuts/i-built-a-saas-that-runs-itself-while-i-sleep-467d)
+- [Day 55: When NPX Errors and Team Drama Collide](https://dev.to/casperday11/day-55-when-npx-errors-and-team-drama-collide-5d75)
 - [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-2kkd)
 - [Strategy design pattern](https://dev.to/abhishek_ahlawat_2b5d6d6d/strategy-design-pattern-3g1k)
-- [🐍 How I Built a Terminal Knowledge Crawler in Pure Python &lpar;No Frameworks&rpar;](https://dev.to/1fahadshah/how-i-built-a-terminal-knowledge-crawler-in-pure-python-no-frameworks-53hf)
-- [Grey Morality: After the Hack - WLH Challenge](https://dev.to/ariondev/grey-morality-after-the-hack-wlh-challenge-99n)
-- [How to Actually Level Up as a Developer &lpar;No BS, Just 6 Real Tips&rpar;](https://dev.to/nick-wade/how-to-actually-level-up-as-a-developer-no-bs-just-6-real-tips-5c7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
