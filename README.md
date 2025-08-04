@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev-Client Communication that Builds Trust](https://dev.to/duy_cao/dev-client-communication-that-builds-trust-3bbd)
 - [The reality of Open Source](https://dev.to/jacobandrewsky/the-reality-of-open-source-45dg)
 - [Building CoastFireCalc.org: A Simple Tool for Financial Independence Planning](https://dev.to/killer_scofield_d2f41df11/building-coastfirecalcorg-a-simple-tool-for-financial-independence-planning-4e0j)
 - [The Art of Mocking in Backend Tests](https://dev.to/m13ha/the-art-of-mocking-in-backend-tests-ljm)
 - [I Discovered a ‘Secret’ Citation Tag in My AI Answers—Here’s Why It Matters](https://dev.to/yash_man/i-discovered-a-secret-citation-tag-in-my-ai-answers-heres-why-it-matters-j27)
-- [Is anyone interested in vibe coding on your phone?](https://dev.to/nickqiao/is-anyone-interested-in-vibe-coding-on-your-phone-5f3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
