@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-2kkd)
+- [Strategy design pattern](https://dev.to/abhishek_ahlawat_2b5d6d6d/strategy-design-pattern-3g1k)
+- [🐍 How I Built a Terminal Knowledge Crawler in Pure Python &lpar;No Frameworks&rpar;](https://dev.to/1fahadshah/how-i-built-a-terminal-knowledge-crawler-in-pure-python-no-frameworks-53hf)
+- [Grey Morality: After the Hack - WLH Challenge](https://dev.to/ariondev/grey-morality-after-the-hack-wlh-challenge-99n)
 - [How to Actually Level Up as a Developer &lpar;No BS, Just 6 Real Tips&rpar;](https://dev.to/nick-wade/how-to-actually-level-up-as-a-developer-no-bs-just-6-real-tips-5c7a)
-- [Why MongoDB skips indexes when flattening or renaming sub-document fields in $project before $match aggregation pipeline](https://dev.to/franckpachot/why-mongodb-skips-indexes-when-flattening-or-renaming-sub-document-fields-in-project-before-match-1o6d)
-- [Build Your Own AI Agent with MCP: A Developer&#39;s Guide to Model Context Protocol](https://dev.to/rishitamoghna17/build-your-own-ai-agent-with-mcp-a-developers-guide-to-model-context-protocol-2pk1)
-- [[Boost]](https://dev.to/yusee154/-2dda)
-- [Day 2 in JavaScript](https://dev.to/vidya_varshini/day-2-in-javascript-o42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
