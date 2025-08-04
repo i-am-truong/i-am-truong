@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reactive Programming in Java](https://dev.to/iammadhankumar/reactive-programming-in-java-4adn)
-- [how to get fetch/axios error details?](https://dev.to/andrey111555/how-to-get-fetchaxios-error-details-5d39)
-- [Promise JS](https://dev.to/m_ramavel_8d478add09a105c/promise-js-4hjm)
-- [💡 Looking to master core algorithms? Check out my deep-dive on 𝗟𝗶𝗻𝗲𝗮𝗿 𝗦𝗲𝗮𝗿𝗰𝗵—step-by-step logic explained visually, edge-case handling &lpar;1D, ranges &amp; 2D&rpar;, and ready-to-run code snippets. Thoughts?](https://dev.to/saptarshisarkar/looking-to-master-core-algorithms-check-out-my-deep-dive-on-step-by-step-logic-2jgd)
-- [🎨 Blender Basics: Essential Terminology for Beginners](https://dev.to/sabarish312/blender-basics-essential-terminology-for-beginners-5346)
+- [How to Actually Level Up as a Developer &lpar;No BS, Just 6 Real Tips&rpar;](https://dev.to/nick-wade/how-to-actually-level-up-as-a-developer-no-bs-just-6-real-tips-5c7a)
+- [Why MongoDB skips indexes when flattening or renaming sub-document fields in $project before $match aggregation pipeline](https://dev.to/franckpachot/why-mongodb-skips-indexes-when-flattening-or-renaming-sub-document-fields-in-project-before-match-1o6d)
+- [Build Your Own AI Agent with MCP: A Developer&#39;s Guide to Model Context Protocol](https://dev.to/rishitamoghna17/build-your-own-ai-agent-with-mcp-a-developers-guide-to-model-context-protocol-2pk1)
+- [[Boost]](https://dev.to/yusee154/-2dda)
+- [Day 2 in JavaScript](https://dev.to/vidya_varshini/day-2-in-javascript-o42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
