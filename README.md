@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraform or OpenTofu? What You Need to Know About the Split](https://dev.to/mukhilpadmanabhan/terraform-or-opentofu-what-you-need-to-know-about-the-split-3mgo)
 - [Browser-based performance testing with K6](https://dev.to/m4rri4nne/browser-based-performance-testing-with-k6-1lob)
 - [Automating Prefabricated Gate Systems: Programming TPUs and REST APIs](https://dev.to/emily_johnson_dev/automating-prefabricated-gate-systems-programming-tpus-and-rest-apis-16a8)
 - [Behind the Mic: AI and the Vibe Coding Podcast Retrospective](https://dev.to/georgekobaidze/behind-the-mic-ai-and-the-vibe-coding-podcast-retrospective-3hfe)
 - [Python Code to Generate Digital QR Checklists for Technicians After Final Cleaning](https://dev.to/andres_ortiz_c410e5f78515/python-code-to-generate-digital-qr-checklists-for-technicians-after-final-cleaning-4oo4)
-- [AI-900 Guide: From Prep to Pass](https://dev.to/busycaesar/ai-900-guide-from-prep-to-pass-23kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
