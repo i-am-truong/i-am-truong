@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 13: Advance Git &amp; GitHub for DevOps Engineers](https://dev.to/udoh_deborah_b1e484c474bf/day-13-advance-git-github-for-devops-engineers-22h1)
-- [Learning CS By Building A Computer #0 - An Intro](https://dev.to/nipunattri/relearning-cs-by-building-a-computer-0-an-intro-18b2)
-- [QEMU QAPI Client for Go — Native Code-Gen Straight from QEMU](https://dev.to/krjakbrjak/qemu-qapi-client-for-go-native-code-gen-straight-from-qemu-4m13)
-- [rpartition in Python](https://dev.to/hyperkai/rpartition-in-python-1me1)
-- [partition in Python](https://dev.to/hyperkai/partition-in-python-4gn3)
+- [How to Host a Static Website on S3 &lpar;With Custom Domain &amp; SSL&rpar; 🌐🔒](https://dev.to/yash_sonawane25/how-to-host-a-static-website-on-s3-with-custom-domain-ssl-f96)
+- [The Feeling of Posting Article as a beginner](https://dev.to/vilo-time/the-feeling-of-posting-article-as-a-beginner-4po0)
+- [CPU Core Deception: The Genius of Virtual Cores and Performance](https://dev.to/adityabhuyan/cpu-core-deception-the-genius-of-virtual-cores-and-performance-22fg)
+- [join in Python](https://dev.to/hyperkai/join-in-python-4ej5)
+- [Alec Steele: Dogmascus Steel.](https://dev.to/maker_youtube/alec-steele-dogmascus-steel-3l9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
