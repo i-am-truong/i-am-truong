@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Input with Dropdown in Shadcn/ui](https://dev.to/surajondev/building-an-input-with-dropdown-in-shadcnui-32jj)
 - [🇮🇳 React India 2025 — India’s Premier React Conference](https://dev.to/ml318097/react-india-2025-indias-premier-react-conference-62)
 - [Introducing wizinsight - Lightweight API monitoring with Discord alerts](https://dev.to/parth_tyagi_23a56c937be3c/introducing-wizinsight-lightweight-api-monitoring-with-discord-alerts-5ael)
 - [A Clean &amp; Powerful Calculator with Pure JavaScript 🧮_give it a⭐](https://dev.to/yaldakhoshpey/a-clean-powerful-calculator-with-pure-javascript-3d7p)
 - [Building an AI Health Platform That Could Save the NHS £8.5M+ Annually](https://dev.to/shiva_shanker_k/building-an-ai-health-platform-that-could-save-the-nhs-ps85m-annually-218k)
-- [Laravel Tutorial:The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/laravel-tutorialthe-ultimate-guide-2023-1hn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
