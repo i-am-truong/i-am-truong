@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloud‑Init Your Proxmox Homelab VMs &lpar;Save Time &amp; Disk Space&rpar;](https://dev.to/tossthedev/cloud-init-your-proxmox-homelab-vms-save-time-disk-space-4mf2)
-- [A Comprehensive Guide to Mastering Figma](https://dev.to/x_moboer_cc60cf661cbde4b2/a-comprehensive-guide-to-mastering-figma-2ln2)
-- [Don’t Be an Endpoint: What AI Can’t Replace in Software Engineering](https://dev.to/web_dev-usman/dont-be-an-endpoint-what-ai-cant-replace-in-software-engineering-34om)
-- [Stop Looping: Use Dictionary for Fast Entity Access in .NET](https://dev.to/mariemoalla/stop-looping-use-dictionaryguid-t-for-fast-entity-access-in-net-41oi)
-- [Profile Backlinks: The Power of Building Links from a Backlink Website List](https://dev.to/help_gud/profile-backlinks-the-power-of-building-links-from-a-backlink-website-list-54mb)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-29ml)
+- [Quark’s Outlines: Python Long Integers](https://dev.to/mike-vincent/quarks-outlines-python-long-integers-36nl)
+- [The Tech Career Map You Didn’t Know You Needed &lpar;Until Now&rpar;](https://dev.to/the_ladybella/the-tech-career-map-you-didnt-know-you-needed-until-now-4cj)
+- [How to Set Up a Marketplace Payment Workflow with PayFast Split Payments](https://dev.to/nencywilliams/how-to-set-up-a-marketplace-payment-workflow-with-payfast-split-payments-dij)
+- [One week ago, I finally started learning cybersecurity — after years of avoiding it. This is how it’s going.](https://dev.to/kishor_sutradhar_d2503ac4/one-week-ago-i-finally-started-learning-cybersecurity-after-years-of-avoiding-it-this-is-how-3fdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
