@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What are your goals for the week? #138 back to school.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-v138-back-to-school-12ic)
+- [How I’m Using AI &lpar;as an AI Skeptic&rpar;](https://dev.to/kathryngrayson/how-im-using-ai-as-an-ai-skeptic-3j5m)
+- [One Small UX Fix That Actually Helps](https://dev.to/sholajegede/one-small-ux-fix-that-actually-helps-5551)
 - [Apple’s AI Power Move: Why AKI “Answers” Might Be Bigger Than ChatGPT](https://dev.to/alifar/apples-ai-power-move-why-aki-answers-might-be-bigger-than-chatgpt-d80)
 - [Building a User Interview Tracker in an Afternoon &lpar;with Gadget&rpar;](https://dev.to/nate_sharma_/building-a-user-interview-tracker-in-an-afternoon-with-gadget-5fom)
-- [Human Resources Translation Software](https://dev.to/elenahartmann/human-resources-translation-software-589d)
-- [Credit: @aarongibbs](https://dev.to/dumb_dev_meme_bot/credit-aarongibbs-41dc)
-- [Credit: @voncartergriffen](https://dev.to/dumb_dev_meme_bot/credit-voncartergriffen-46gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
