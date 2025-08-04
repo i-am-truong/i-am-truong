@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Paying for ChatGPT Plus: This Free AI Codes Better Than GPT-4](https://dev.to/itshayder/stop-paying-for-chatgpt-plus-this-free-ai-codes-better-than-gpt-4-9oc)
+- [Is AI Really Making Us Dumber?](https://dev.to/kkademorais/is-ai-really-making-us-dumber-4g2a)
+- [Searching eBay with AI and Automation using n8n](https://dev.to/nate_serpapi/searching-ebay-with-ai-and-automation-using-n8n-3fh9)
 - [Será que a IA realmente nos deixa mais burros?](https://dev.to/kkademorais/sera-que-a-ia-realmente-nos-deixa-mais-burros-3fjo)
 - [Is the CCSP Certification Worth It for Cloud Security?](https://dev.to/osaigbovo_emuze_b5e350e65/is-the-ccsp-certification-worth-it-for-cloud-security-27ed)
-- [How My Ad Revenue Dropped Despite Consistent Traffic &lpar;And What I Learned&rpar;](https://dev.to/kainat_zulfiqar_78381f0f6/how-my-ad-revenue-dropped-despite-consistent-traffic-and-what-i-learned-3hh1)
-- [Deploy an Amazon-Clone App on EKS with Kustomize and ArgoCD with GitOps best practices](https://dev.to/ndzenyuy/deploy-an-amazon-clone-app-on-eks-with-kustomize-and-argocd-with-gitops-best-practices-58de)
-- [[Phase 2] Personal Portfolio - Analysis](https://dev.to/harushochiho/phase-2-personal-portfolio-analysis-1b91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
