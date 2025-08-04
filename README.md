@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Just Launched *IntraVybe* — A Fresh Take on Social Media for Images, Audio, and Video!](https://dev.to/intra_vybe/i-just-launched-intravybe-a-fresh-take-on-social-media-for-images-audio-and-video-bhh)
-- [Learn React.js: A Beginner’s Guide to Building Dynamic Web Apps topic](https://dev.to/rishabhtpt/learn-reactjs-a-beginners-guide-to-building-dynamic-web-apps-topic-2m7j)
-- [What are Back links?](https://dev.to/e77/what-are-back-links-5e5o)
-- [PageMind, Real-Time Collaborative Web Summarization Powered by Redis 8&#39;s Lightning-Fast Cache](https://dev.to/depapp/pagemind-real-time-collaborative-web-summarization-powered-by-redis-8s-lightning-fast-cache-2a6h)
-- [Building Smarter Backends: Practical Guides You Can Read Free or Pay What You Want](https://dev.to/hexshift/building-smarter-backends-practical-guides-you-can-read-free-or-pay-what-you-want-3bdh)
+- [Enabling Power Platform in a Pro-Code IT World](https://dev.to/wyattdave/enabling-power-platform-in-a-pro-code-it-world-10lj)
+- [How to find projects that are easy to contribute to?](https://dev.to/szabgab/how-to-find-projects-that-are-easy-to-contribute-to-1659)
+- [New Discovery on Ubuntu 24.04: A Faster, Lighter Package Manager – Linyaps](https://dev.to/jone_doe_9d4974e96747ba80/new-discovery-on-ubuntu-2404-a-faster-lighter-package-manager-linyaps-36mo)
+- [Setup PocketBase For Your Integration Tests with TestContainers and xUnit](https://dev.to/this-is-learning/setup-pocketbase-for-your-integration-tests-with-testcontainers-and-xunit-3nf9)
+- [The Hidden Power of Next.js 15 in Your Hands](https://dev.to/mahdijazini/the-hidden-power-of-nextjs-15-in-your-hands-1fje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
