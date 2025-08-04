@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Areas in ASP.NET Core: The Architectural Feature You&#39;re Probably Missing](https://dev.to/rumendimov/areas-in-aspnet-core-the-architectural-feature-youre-probably-missing-11bi)
+- [Swift Task Local Storage with @TaskLocal](https://dev.to/arshtechpro/swift-task-local-storage-with-tasklocal-3286)
+- [Your Files Just Vanished... And Amazon S3 Could Have Saved You!](https://dev.to/stoicdavi/your-files-just-vanished-and-amazon-s3-could-have-saved-you-1dm6)
 - [Terraform or OpenTofu? What You Need to Know About the Split](https://dev.to/mukhilpadmanabhan/terraform-or-opentofu-what-you-need-to-know-about-the-split-3mgo)
 - [Browser-based performance testing with K6](https://dev.to/m4rri4nne/browser-based-performance-testing-with-k6-1lob)
-- [Automating Prefabricated Gate Systems: Programming TPUs and REST APIs](https://dev.to/emily_johnson_dev/automating-prefabricated-gate-systems-programming-tpus-and-rest-apis-16a8)
-- [Behind the Mic: AI and the Vibe Coding Podcast Retrospective](https://dev.to/georgekobaidze/behind-the-mic-ai-and-the-vibe-coding-podcast-retrospective-3hfe)
-- [Python Code to Generate Digital QR Checklists for Technicians After Final Cleaning](https://dev.to/andres_ortiz_c410e5f78515/python-code-to-generate-digital-qr-checklists-for-technicians-after-final-cleaning-4oo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
