@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Ditching OpenCode and Moving to Gemini CLI](https://dev.to/jxlee007/why-im-ditching-opencode-and-moving-to-gemini-cli-2072)
-- [Stonks or not stonks. Checking Lean trading engine source code](https://dev.to/pvsdev/stonks-or-not-stonks-checking-lean-trading-engine-source-code-3e08)
-- [Getting Started with Kiro – The Agentic IDE That Thinks with You - With Some Great Mind Maps](https://dev.to/andreluizrosa/getting-started-with-kiro-the-agentic-ide-that-thinks-with-you-with-some-great-mind-maps-4734)
-- [Design Patterns Simplified: Part 12 — Memento Pattern &lpar;a.k.a. “Your Object&#39;s Time Machine”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-12-memento-pattern-aka-your-objects-time-machine-3d6g)
-- [What&#39;s Going On](https://dev.to/methodoxdivooka/whats-going-on-5en4)
+- [We&#39;re removing the new sidebar from the compose flow to preserve the minimalism there.](https://dev.to/ben/were-removing-the-new-sidebar-from-the-compose-flow-to-preserve-the-minimalism-there-4ja5)
+- [Build a Signal Clone with React Native and Stream - Part One](https://dev.to/tropicolx/build-a-signal-clone-with-react-native-and-stream-part-one-5a47)
+- [Creating Log-Based Alerts with Grafana, Loki, and Promtail](https://dev.to/mspilari/creating-log-based-alerts-with-grafana-loki-and-promtail-afo)
+- [[Boost]](https://dev.to/ben/-11g9)
+- [🧩 Diseño y Modelado: ¿son lo mismo?](https://dev.to/azunico/diseno-y-modelado-son-lo-mismo-50n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
