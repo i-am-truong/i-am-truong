@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Areas in ASP.NET Core: The Architectural Feature You&#39;re Probably Missing](https://dev.to/rumendimov/areas-in-aspnet-core-the-architectural-feature-youre-probably-missing-11bi)
-- [Swift Task Local Storage with @TaskLocal](https://dev.to/arshtechpro/swift-task-local-storage-with-tasklocal-3286)
-- [Your Files Just Vanished... And Amazon S3 Could Have Saved You!](https://dev.to/stoicdavi/your-files-just-vanished-and-amazon-s3-could-have-saved-you-1dm6)
-- [Terraform or OpenTofu? What You Need to Know About the Split](https://dev.to/mukhilpadmanabhan/terraform-or-opentofu-what-you-need-to-know-about-the-split-3mgo)
-- [Browser-based performance testing with K6](https://dev.to/m4rri4nne/browser-based-performance-testing-with-k6-1lob)
+- [Return a response or write to the response?](https://dev.to/livioribeiro/return-a-response-or-write-to-the-response-4n7p)
+- [TokenSpan: Rethinking Prompt Compression with Aliases and Dictionary Encoding](https://dev.to/alexsanderhamir/tokenspan-rethinking-prompt-compression-with-aliases-and-dictionary-encoding-3a27)
+- [🔐 Data Governance: From Chaos to Control](https://dev.to/qvfagundes/data-governance-from-chaos-to-control-59n2)
+- [Duties and Taxes on Pet Accessories When Entering Canada](https://dev.to/muhammad_azam_b8dde188d50/duties-and-taxes-on-pet-accessories-when-entering-canada-1849)
+- [JSON Serialize vs. WebForms Class Performance Comparison](https://dev.to/elanatframework/json-serialize-vs-webforms-class-performance-comparison-15de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
