@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unboxing the Black Box: Understanding AI with Reverse Mechanistic Localization](https://dev.to/rijultp/unboxing-the-black-box-understanding-ai-with-reverse-mechanistic-localization-ac9)
-- [20 Questions to Ask an LLM About Your Codebase &lpar;That You Probably Won&#39;t Like the Answers To&rpar;](https://dev.to/sebs/20-questions-to-ask-an-llm-about-your-codebase-that-you-probably-wont-like-the-answers-to-2h9k)
-- [🎨 A Arte e Ciência da Arquitetura Front-end](https://dev.to/wanderleycabral-dev/a-arte-e-ciencia-da-arquitetura-front-end-419p)
-- [🍯 Riverpod Sugar: From Verbose to Revolutionary - How I Cut Flutter State Management Code by 80%](https://dev.to/mukhbit/riverpod-sugar-from-verbose-to-revolutionary-how-i-cut-flutter-state-management-code-by-80-41f2)
-- [🧠 Stop Building MVPs — Start With an MVA &lpar;Minimum Valuable Automation&rpar;](https://dev.to/snappy_tuts/stop-building-mvps-start-with-an-mva-minimum-valuable-automation-10p1)
+- [AI-Context Documentation: The Missing Link in AI-Assisted Development](https://dev.to/ederwii/ai-context-documentation-the-missing-link-in-ai-assisted-development-5ha6)
+- [Improving an &quot;Awesome X&quot; List](https://dev.to/alexfinnarn/improving-an-awesome-x-list-2783)
+- [Cómo Desarrollar un Asistente Virtual de Tarot con Python](https://dev.to/stella_battle_d9c6ac66f47/como-desarrollar-un-asistente-virtual-de-tarot-con-python-3naj)
+- [How I found myself in machine learning - My story 🤖](https://dev.to/amira_bekhta_25/how-i-found-myself-in-machine-learning-my-story-4979)
+- [He creado complete-js-utils, una librería moderna de utilidades para JavaScript — 100% documentada, modular …](https://dev.to/nacho_rodriguezsanz_5810/he-creado-complete-js-utils-una-libreria-moderna-de-utilidades-para-javascript-100-documentada-1hcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
