@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-4lck)
-- [&quot;DevOps Journey: Week 8 - Automating Configuration with Ansible&quot;](https://dev.to/azmatahmed/devops-journey-week-8-automating-configuration-with-ansible-4j73)
-- [Streaming Blazor &lpar;ASP.Net Core&rpar; Logs to the Browser with a custom NLog Target and SignalR](https://dev.to/stewartcelani/streaming-blazor-aspnet-core-logs-to-the-browser-with-a-custom-nlog-target-and-signalr-4e2d)
-- [Stepping into JavaScript](https://dev.to/kavya_s/stepping-into-javascript-3j6p)
-- [Get rid of useEffect for Data: Why React Query is a Game Changer](https://dev.to/saijamii/get-rid-of-useeffect-for-data-why-react-query-is-a-game-changer-4bh5)
+- [Custom Middleware in ASP.NET Core](https://dev.to/mahfuznazib/custom-middleware-in-aspnet-core-4hm7)
+- [[Boost]](https://dev.to/shree_kant_2d8db04e1755aa/-lin)
+- [🔥 CascadeX – Smart CSS Optimization for Modern Developers](https://dev.to/firexcore/cascadex-smart-css-optimization-for-modern-developers-4kb6)
+- [How To Understand Data Types, JavaScript &amp; Keywords &lpar;var, let, const, without Keywords&rpar;](https://dev.to/lakshmi_g_74c225d5ca0b272/how-to-understand-data-types-javascript-keywords-var-let-const-without-keywords-5d9a)
+- [[Boost]](https://dev.to/aryan_panwala/-469a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
