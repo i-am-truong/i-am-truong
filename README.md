@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI&#39;s Not Your Savior - It&#39;s a Wild Pantheon, and You&#39;re the High Priest. Here&#39;s How to Win by Mixing Gods and Tools.](https://dev.to/developia/ais-not-your-savior-its-a-wild-pantheon-and-youre-the-high-priest-heres-how-to-win-by-255k)
+- [How I learned to stop worrying and love edge computing](https://dev.to/nabilpatel4012/how-i-learned-to-stop-worrying-and-love-edge-computing-4965)
+- [Write Clean SQL: Tools That Format Your Queries for You](https://dev.to/dbvismarketing/write-clean-sql-tools-that-format-your-queries-for-you-2jl)
+- [The Future of AI: What Anthropic&#39;s Move Against OpenAI Means for the Industry](https://dev.to/jay_all_day/the-future-of-ai-what-anthropics-move-against-openai-means-for-the-industry-2216)
 - [Enabling Power Platform in a Pro-Code IT World](https://dev.to/wyattdave/enabling-power-platform-in-a-pro-code-it-world-10lj)
-- [How to find projects that are easy to contribute to?](https://dev.to/szabgab/how-to-find-projects-that-are-easy-to-contribute-to-1659)
-- [New Discovery on Ubuntu 24.04: A Faster, Lighter Package Manager – Linyaps](https://dev.to/jone_doe_9d4974e96747ba80/new-discovery-on-ubuntu-2404-a-faster-lighter-package-manager-linyaps-36mo)
-- [Setup PocketBase For Your Integration Tests with TestContainers and xUnit](https://dev.to/this-is-learning/setup-pocketbase-for-your-integration-tests-with-testcontainers-and-xunit-3nf9)
-- [The Hidden Power of Next.js 15 in Your Hands](https://dev.to/mahdijazini/the-hidden-power-of-nextjs-15-in-your-hands-1fje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
