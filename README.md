@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Será que a IA realmente nos deixa mais burros?](https://dev.to/kkademorais/sera-que-a-ia-realmente-nos-deixa-mais-burros-3fjo)
+- [Is the CCSP Certification Worth It for Cloud Security?](https://dev.to/osaigbovo_emuze_b5e350e65/is-the-ccsp-certification-worth-it-for-cloud-security-27ed)
+- [How My Ad Revenue Dropped Despite Consistent Traffic &lpar;And What I Learned&rpar;](https://dev.to/kainat_zulfiqar_78381f0f6/how-my-ad-revenue-dropped-despite-consistent-traffic-and-what-i-learned-3hh1)
+- [Deploy an Amazon-Clone App on EKS with Kustomize and ArgoCD with GitOps best practices](https://dev.to/ndzenyuy/deploy-an-amazon-clone-app-on-eks-with-kustomize-and-argocd-with-gitops-best-practices-58de)
 - [[Phase 2] Personal Portfolio - Analysis](https://dev.to/harushochiho/phase-2-personal-portfolio-analysis-1b91)
-- [Flutter vs React Native vs Kivy: Best Framework for Lightweight App Development](https://dev.to/mr_nova/flutter-vs-react-native-vs-kivy-best-framework-for-lightweight-app-development-5dbc)
-- [C# LeetCode 100: Same Tree - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-100-same-tree-easy-3j18)
-- [Basic Server Hardening for Ubuntu/Debian: SSH Access and Firewall](https://dev.to/joaoprd/basic-server-hardening-for-ubuntudebian-ssh-access-and-firewall-g2e)
-- [Python LeetCode 70: Climbing Stairs - &lpar;Easy&rpar;](https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
