@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Seamlessly Redirect HTTP to HTTPS with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/seamlessly-redirect-http-to-https-with-safeline-waf-o62)
-- [I Built a Public Archive to Document Institutional Exclusion in Canadian Game Education&quot;](https://dev.to/formantaudio/i-built-a-public-archive-to-document-institutional-exclusion-in-canadian-game-education-7c5)
-- [如何在 web 应用中使用 GDAL （一）](https://dev.to/yangholmes/ru-he-zai-web-ying-yong-zhong-shi-yong-gdal--mad)
-- [OBS Studio in 2025 + My Favorite Free Screen Recording Tools](https://dev.to/bugs_bunny_e1d31fe61d0d32/obs-studio-in-2025-my-favorite-free-screen-recording-tools-5c0)
-- [For Angualr developper that use NgRx SignalStore, you will love it !](https://dev.to/romain_geffrault_10d88369/for-angualr-developper-that-use-ngrx-signalstore-you-will-love-it--le9)
+- [The Art of Mocking in Backend Tests](https://dev.to/m13ha/the-art-of-mocking-in-backend-tests-ljm)
+- [I Discovered a ‘Secret’ Citation Tag in My AI Answers—Here’s Why It Matters](https://dev.to/yash_man/i-discovered-a-secret-citation-tag-in-my-ai-answers-heres-why-it-matters-j27)
+- [Is anyone interested in vibe coding on your phone?](https://dev.to/nickqiao/is-anyone-interested-in-vibe-coding-on-your-phone-5f3o)
+- [How Data Fetching Works in Next.js: Server vs Client Components](https://dev.to/sudiip__17/how-data-fetching-works-in-nextjs-server-vs-client-components-3779)
+- [How to use GitHub admonitions to make your markdown more readable](https://dev.to/mike_andreuzza/how-to-use-github-admonitions-to-make-your-markdown-more-readable-3oi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
