@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Phase 2] Personal Portfolio - Analysis](https://dev.to/harushochiho/phase-2-personal-portfolio-analysis-1b91)
+- [Basic Server Hardening for Ubuntu/Debian: SSH Access and Firewall](https://dev.to/joaoprd/basic-server-hardening-for-ubuntudebian-ssh-access-and-firewall-g2e)
 - [Python LeetCode 70: Climbing Stairs - &lpar;Easy&rpar;](https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb)
 - [C# LeetCode 69: Sqrt&lpar;x&rpar;](https://dev.to/grantdotdev/c-leetcode-69-sqrtx-e8e)
 - [Hardening Básico de Servidor Ubuntu/Debian: Acesso SSH e Firewall](https://dev.to/joaoprd/hardening-basico-de-servidor-ubuntudebian-acesso-ssh-e-firewall-5lm)
-- [Return a response or write to the response?](https://dev.to/livioribeiro/return-a-response-or-write-to-the-response-4n7p)
-- [TokenSpan: Rethinking Prompt Compression with Aliases and Dictionary Encoding](https://dev.to/alexsanderhamir/tokenspan-rethinking-prompt-compression-with-aliases-and-dictionary-encoding-3a27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
