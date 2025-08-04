@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Verify Git Commits on GitHub Using GPG Keychain Mac OS](https://dev.to/yasindehfuli/how-to-verify-git-commits-on-github-using-gpg-keychain-mac-os-272c)
-- [What NYT Crosswords Teach Us About Debugging](https://dev.to/abubakersiddique771/what-nyt-crosswords-teach-us-about-debugging-569)
-- [🧠 What “Biased Sports Fan” Taught Me About Pattern Recognition &lpar;Yes, From a NYT Crossword&rpar;](https://dev.to/abubakersiddique771/what-biased-sports-fan-taught-me-about-pattern-recognition-yes-from-a-nyt-crossword-230d)
-- [Cloud SaaS Secrets: Launch Your $99 App in 10 Days](https://dev.to/resource_bunk_1077cab07da/cloud-saas-secrets-launch-your-99-app-in-10-days-22b8)
-- [I&#39;m working on shallowing my swing — it&#39;s always been steep and I accepted and worked with this for a while, but I have too many inconsistencies. So sort of re-working a proper swing.](https://dev.to/ben/im-working-on-shallowing-my-swing-its-always-been-steep-and-i-accepted-and-worked-with-this-for-5bcc)
+- [AI-900 Guide: From Prep to Pass](https://dev.to/busycaesar/ai-900-guide-from-prep-to-pass-23kg)
+- [A Cyberpunk 2077 Themed Terminal Game](https://dev.to/allecta/a-cyberpunk-2077-themed-terminal-game-4mdf)
+- [class-validator Cheatsheet: Useful Decorators and NestJS Validation Patterns &lpar;2025&rpar;](https://dev.to/seenu-subhash/class-validator-cheatsheet-useful-decorators-and-nestjs-validation-patterns-2025-1c43)
+- [Angular Deep Signal: Modeling State in Depth](https://dev.to/davidepassafaro/angular-deep-signal-modeling-state-in-depth-bb9)
+- [1 RN Thing a Day – Day 1: Lodash in React Native &lpar;Do You Really Need It?&rpar;](https://dev.to/ola_1313/1-rn-thing-a-day-day-1-lodash-in-react-native-do-you-really-need-it-cld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
