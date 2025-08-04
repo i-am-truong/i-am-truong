@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #138 back to school.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-v138-back-to-school-12ic)
-- [How I’m Using AI &lpar;as an AI Skeptic&rpar;](https://dev.to/kathryngrayson/how-im-using-ai-as-an-ai-skeptic-3j5m)
-- [One Small UX Fix That Actually Helps](https://dev.to/sholajegede/one-small-ux-fix-that-actually-helps-5551)
-- [Apple’s AI Power Move: Why AKI “Answers” Might Be Bigger Than ChatGPT](https://dev.to/alifar/apples-ai-power-move-why-aki-answers-might-be-bigger-than-chatgpt-d80)
-- [Building a User Interview Tracker in an Afternoon &lpar;with Gadget&rpar;](https://dev.to/nate_sharma_/building-a-user-interview-tracker-in-an-afternoon-with-gadget-5fom)
+- [The Art of Legendary Anime: A Thought on Balanced Storytelling](https://dev.to/hejhdiss/the-art-of-legendary-anime-a-thought-on-balanced-storytelling-47e9)
+- [Gemini: Formula E Driver Agent 🏎️](https://dev.to/googleworkspace/gemini-formula-e-driver-agent-50hp)
+- [🚀 Getting Started with Microsoft Azure: A Beginner&#39;s Practical Guide with VM, VNet, Storage &amp; More!](https://dev.to/zube/getting-started-with-microsoft-azure-a-beginners-practical-guide-with-vm-vnet-storage-more-19gf)
+- [How do you vibe code legacy code?](https://dev.to/dev_in_the_house/how-do-you-vibe-code-legacy-code-4phm)
+- [Question and Answer Thinking](https://dev.to/joekain/question-and-answer-thinking-5c23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
