@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re removing the new sidebar from the compose flow to preserve the minimalism there.](https://dev.to/ben/were-removing-the-new-sidebar-from-the-compose-flow-to-preserve-the-minimalism-there-4ja5)
-- [Build a Signal Clone with React Native and Stream - Part One](https://dev.to/tropicolx/build-a-signal-clone-with-react-native-and-stream-part-one-5a47)
-- [Creating Log-Based Alerts with Grafana, Loki, and Promtail](https://dev.to/mspilari/creating-log-based-alerts-with-grafana-loki-and-promtail-afo)
-- [[Boost]](https://dev.to/ben/-11g9)
-- [🧩 Diseño y Modelado: ¿son lo mismo?](https://dev.to/azunico/diseno-y-modelado-son-lo-mismo-50n5)
+- [BookLore: Your Personal Library, Reimagined](https://dev.to/githubopensource/booklore-your-personal-library-reimagined-bhh)
+- [Building an Interactive S3 Bucket Manager with Bash](https://dev.to/dm8ry/building-an-interactive-s3-bucket-manager-with-bash-1f4i)
+- [Funding Rate Arbitrage: A Technical Deep Dive](https://dev.to/27sphere/funding-rate-arbitrage-a-technical-deep-dive-3eed)
+- [Prompt Engineering for AI-Driven Web Apps: A Spring Boot + React Storefront Example](https://dev.to/thelogicwarlock/prompt-engineering-for-ai-driven-web-apps-a-spring-boot-react-storefront-example-29b6)
+- [Meme Monday](https://dev.to/ben/meme-monday-34k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
