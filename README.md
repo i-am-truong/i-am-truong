@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The reality of Open Source](https://dev.to/jacobandrewsky/the-reality-of-open-source-45dg)
+- [Building CoastFireCalc.org: A Simple Tool for Financial Independence Planning](https://dev.to/killer_scofield_d2f41df11/building-coastfirecalcorg-a-simple-tool-for-financial-independence-planning-4e0j)
 - [The Art of Mocking in Backend Tests](https://dev.to/m13ha/the-art-of-mocking-in-backend-tests-ljm)
 - [I Discovered a ‘Secret’ Citation Tag in My AI Answers—Here’s Why It Matters](https://dev.to/yash_man/i-discovered-a-secret-citation-tag-in-my-ai-answers-heres-why-it-matters-j27)
 - [Is anyone interested in vibe coding on your phone?](https://dev.to/nickqiao/is-anyone-interested-in-vibe-coding-on-your-phone-5f3o)
-- [How Data Fetching Works in Next.js: Server vs Client Components](https://dev.to/sudiip__17/how-data-fetching-works-in-nextjs-server-vs-client-components-3779)
-- [How to use GitHub admonitions to make your markdown more readable](https://dev.to/mike_andreuzza/how-to-use-github-admonitions-to-make-your-markdown-more-readable-3oi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
