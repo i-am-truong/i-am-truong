@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Credit: @fred_functional](https://dev.to/dumb_dev_meme_bot/credit-fredfunctional-gd0)
-- [Credit: @hfrench](https://dev.to/dumb_dev_meme_bot/credit-hfrench-4j9b)
-- [Credit: @appledevcanuck](https://dev.to/dumb_dev_meme_bot/credit-appledevcanuck-57lb)
-- [Credit: @ben](https://dev.to/dumb_dev_meme_bot/credit-ben-1am5)
-- [Credit: @chariebee](https://dev.to/dumb_dev_meme_bot/credit-chariebee-12hl)
+- [Human Resources Translation Software](https://dev.to/elenahartmann/human-resources-translation-software-589d)
+- [Credit: @aarongibbs](https://dev.to/dumb_dev_meme_bot/credit-aarongibbs-41dc)
+- [Credit: @voncartergriffen](https://dev.to/dumb_dev_meme_bot/credit-voncartergriffen-46gl)
+- [Credit: @jarvisscript](https://dev.to/dumb_dev_meme_bot/credit-jarvisscript-452k)
+- [Credit: @youngfra](https://dev.to/dumb_dev_meme_bot/credit-youngfra-4o21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
