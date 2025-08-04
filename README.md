@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Middleware in ASP.NET Core](https://dev.to/mahfuznazib/custom-middleware-in-aspnet-core-4hm7)
-- [[Boost]](https://dev.to/shree_kant_2d8db04e1755aa/-lin)
-- [🔥 CascadeX – Smart CSS Optimization for Modern Developers](https://dev.to/firexcore/cascadex-smart-css-optimization-for-modern-developers-4kb6)
-- [How To Understand Data Types, JavaScript &amp; Keywords &lpar;var, let, const, without Keywords&rpar;](https://dev.to/lakshmi_g_74c225d5ca0b272/how-to-understand-data-types-javascript-keywords-var-let-const-without-keywords-5d9a)
-- [[Boost]](https://dev.to/aryan_panwala/-469a)
+- [Release AI Agent Code Safely - Production CI/CD &amp; Secrets](https://dev.to/teppana88/release-ai-agent-code-safely-production-cicd-secrets-5ecj)
+- [Dart Lesson 15: Stream — Processing continuous data streams](https://dev.to/jige2025/dart-lesson-15-stream-processing-continuous-data-streams-3c5i)
+- [react](https://dev.to/armaankhan8270/react-39hk)
+- [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-6ip)
+- [app.py](https://dev.to/armaankhan8270/apppy-59ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
