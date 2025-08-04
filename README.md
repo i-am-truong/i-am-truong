@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Not Your Savior - It&#39;s a Wild Pantheon, and You&#39;re the High Priest. Here&#39;s How to Win by Mixing Gods and Tools.](https://dev.to/developia/ais-not-your-savior-its-a-wild-pantheon-and-youre-the-high-priest-heres-how-to-win-by-255k)
-- [How I learned to stop worrying and love edge computing](https://dev.to/nabilpatel4012/how-i-learned-to-stop-worrying-and-love-edge-computing-4965)
-- [Write Clean SQL: Tools That Format Your Queries for You](https://dev.to/dbvismarketing/write-clean-sql-tools-that-format-your-queries-for-you-2jl)
-- [The Future of AI: What Anthropic&#39;s Move Against OpenAI Means for the Industry](https://dev.to/jay_all_day/the-future-of-ai-what-anthropics-move-against-openai-means-for-the-industry-2216)
-- [Enabling Power Platform in a Pro-Code IT World](https://dev.to/wyattdave/enabling-power-platform-in-a-pro-code-it-world-10lj)
+- [Cloud‑Init Your Proxmox Homelab VMs &lpar;Save Time &amp; Disk Space&rpar;](https://dev.to/tossthedev/cloud-init-your-proxmox-homelab-vms-save-time-disk-space-4mf2)
+- [A Comprehensive Guide to Mastering Figma](https://dev.to/x_moboer_cc60cf661cbde4b2/a-comprehensive-guide-to-mastering-figma-2ln2)
+- [Don’t Be an Endpoint: What AI Can’t Replace in Software Engineering](https://dev.to/web_dev-usman/dont-be-an-endpoint-what-ai-cant-replace-in-software-engineering-34om)
+- [Stop Looping: Use Dictionary for Fast Entity Access in .NET](https://dev.to/mariemoalla/stop-looping-use-dictionaryguid-t-for-fast-entity-access-in-net-41oi)
+- [Profile Backlinks: The Power of Building Links from a Backlink Website List](https://dev.to/help_gud/profile-backlinks-the-power-of-building-links-from-a-backlink-website-list-54mb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
