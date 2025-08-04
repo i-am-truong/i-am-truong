@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Legendary Anime: A Thought on Balanced Storytelling](https://dev.to/hejhdiss/the-art-of-legendary-anime-a-thought-on-balanced-storytelling-47e9)
-- [Gemini: Formula E Driver Agent 🏎️](https://dev.to/googleworkspace/gemini-formula-e-driver-agent-50hp)
-- [🚀 Getting Started with Microsoft Azure: A Beginner&#39;s Practical Guide with VM, VNet, Storage &amp; More!](https://dev.to/zube/getting-started-with-microsoft-azure-a-beginners-practical-guide-with-vm-vnet-storage-more-19gf)
-- [How do you vibe code legacy code?](https://dev.to/dev_in_the_house/how-do-you-vibe-code-legacy-code-4phm)
-- [Question and Answer Thinking](https://dev.to/joekain/question-and-answer-thinking-5c23)
+- [Reactive Programming in Java](https://dev.to/iammadhankumar/reactive-programming-in-java-4adn)
+- [how to get fetch/axios error details?](https://dev.to/andrey111555/how-to-get-fetchaxios-error-details-5d39)
+- [Promise JS](https://dev.to/m_ramavel_8d478add09a105c/promise-js-4hjm)
+- [💡 Looking to master core algorithms? Check out my deep-dive on 𝗟𝗶𝗻𝗲𝗮𝗿 𝗦𝗲𝗮𝗿𝗰𝗵—step-by-step logic explained visually, edge-case handling &lpar;1D, ranges &amp; 2D&rpar;, and ready-to-run code snippets. Thoughts?](https://dev.to/saptarshisarkar/looking-to-master-core-algorithms-check-out-my-deep-dive-on-step-by-step-logic-2jgd)
+- [🎨 Blender Basics: Essential Terminology for Beginners](https://dev.to/sabarish312/blender-basics-essential-terminology-for-beginners-5346)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
