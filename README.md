@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [25 AI Coding Tools That Will Supercharge Your Dev Workflow in 2025](https://dev.to/roobia/25-ai-coding-tools-that-will-supercharge-your-dev-workflow-in-2025-1198)
-- [Teachers Who Changed the Way I Think](https://dev.to/azhan_j_37b6bb3896622605/teachers-who-changed-the-way-i-think-330i)
-- [5 Excel Hidden Features](https://dev.to/innozant/5-excel-hidden-features-4jc4)
-- [Choosing Between Intel and AMD: A Clear CPU Buying Guide](https://dev.to/alex_10840eaff791b9811000/choosing-between-intel-and-amd-a-clear-cpu-buying-guide-2634)
-- [Crypto-as-a-Service: A Strategic Lever for Enterprise Blockchain Integration](https://dev.to/alexnav/crypto-as-a-service-a-strategic-lever-for-enterprise-blockchain-integration-2bih)
+- [Is Cookie-Based Tracking Dying? Shift to Zero-Party Data](https://dev.to/mehwish_malik_4f29ff7fb04/is-cookie-based-tracking-dying-shift-to-zero-party-data-17le)
+- [Ditch the DDNS Providers: How to Build Your Own Dynamic DNS Server](https://dev.to/bikesh_ghimire_104cdc2989/ditch-the-ddns-providers-how-to-build-your-own-dynamic-dns-server-14k6)
+- [Light vs Dark Mode: Which One Truly Enhances User Experience?](https://dev.to/encodedots/light-vs-dark-mode-which-one-truly-enhances-user-experience-269a)
+- [5 Psychology Basics That Reveal Why We Think, Feel, and Act](https://dev.to/jhanvi_shukla/5-psychology-basics-that-reveal-why-we-think-feel-and-act-2586)
+- [Building a Mind-Reading AI: Rock Paper Scissors with Redis 8&#39;s Real-Time Magic](https://dev.to/depapp/building-a-mind-reading-ai-rock-paper-scissors-with-redis-8s-real-time-magic-3d7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
