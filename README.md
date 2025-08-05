@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is Cookie-Based Tracking Dying? Shift to Zero-Party Data](https://dev.to/mehwish_malik_4f29ff7fb04/is-cookie-based-tracking-dying-shift-to-zero-party-data-17le)
-- [Ditch the DDNS Providers: How to Build Your Own Dynamic DNS Server](https://dev.to/bikesh_ghimire_104cdc2989/ditch-the-ddns-providers-how-to-build-your-own-dynamic-dns-server-14k6)
-- [Light vs Dark Mode: Which One Truly Enhances User Experience?](https://dev.to/encodedots/light-vs-dark-mode-which-one-truly-enhances-user-experience-269a)
-- [5 Psychology Basics That Reveal Why We Think, Feel, and Act](https://dev.to/jhanvi_shukla/5-psychology-basics-that-reveal-why-we-think-feel-and-act-2586)
-- [Building a Mind-Reading AI: Rock Paper Scissors with Redis 8&#39;s Real-Time Magic](https://dev.to/depapp/building-a-mind-reading-ai-rock-paper-scissors-with-redis-8s-real-time-magic-3d7h)
+- [Top Node.js Security Risks and How to Mitigate Them](https://dev.to/sanjay_singhania/top-nodejs-security-risks-and-how-to-mitigate-them-25e9)
+- [Building REST APIs That Play Nice with Excel](https://dev.to/saudibytes/building-rest-apis-that-play-nice-with-excel-l3d)
+- [idnex4](https://dev.to/armaankhan8270/idnex4-2443)
+- [UTF-16 to UTF-8 in Javascript](https://dev.to/vincent_corbee/utf-16-to-utf-8-in-javascript-17j7)
+- [The Tradeoffs of Technical Ownership](https://dev.to/remejuan/the-tradeoffs-of-technical-ownership-47dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
