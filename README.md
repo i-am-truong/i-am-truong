@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Challenge: Can You Explain This Bitwise + Recursive Arithmetic Program?](https://dev.to/neelakandan_ravi/java-challenge-can-you-explain-this-bitwise-recursive-arithmetic-program-55n1)
+- [JS](https://dev.to/jeya_lakshmi_c417e8c65649/js-398k)
+- [Pipe Burst At 2 AM? Here&#39;s Why Prevention Beats Panic](https://dev.to/dunn_riteplumbingandga/pipe-burst-at-2-am-heres-why-prevention-beats-panic-58ja)
 - [Why HD Images Look Blurry on Mobile and How to Fix It ?](https://dev.to/swhabitation/why-hd-images-look-blurry-on-mobile-and-how-to-fix-it--1j83)
 - [Building a Distributed Database: Cassandra&#39;s Architecture Deep Dive](https://dev.to/sgchris/building-a-distributed-database-cassandras-architecture-deep-dive-lkp)
-- [How I Found Balance Between Code and Life as a Developer](https://dev.to/alexeybashkirov/how-i-found-balance-between-code-and-life-as-a-developer-17i3)
-- [C# gRPC Services: High-Performance Remote Procedure Calls](https://dev.to/chakewitz/c-grpc-services-high-performance-remote-procedure-calls-3j04)
-- [Building AI-Powered Applications with C# and Semantic Kernel](https://dev.to/chakewitz/building-ai-powered-applications-with-c-and-semantic-kernel-an2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
