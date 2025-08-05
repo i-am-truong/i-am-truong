@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Paying for ChatGPT Plus: This Free AI Codes Better Than GPT-4](https://dev.to/itshayder/stop-paying-for-chatgpt-plus-this-free-ai-codes-better-than-gpt-4-9oc)
-- [Is AI Really Making Us Dumber?](https://dev.to/kkademorais/is-ai-really-making-us-dumber-4g2a)
-- [Searching eBay with AI and Automation using n8n](https://dev.to/nate_serpapi/searching-ebay-with-ai-and-automation-using-n8n-3fh9)
-- [Será que a IA realmente nos deixa mais burros?](https://dev.to/kkademorais/sera-que-a-ia-realmente-nos-deixa-mais-burros-3fjo)
-- [Is the CCSP Certification Worth It for Cloud Security?](https://dev.to/osaigbovo_emuze_b5e350e65/is-the-ccsp-certification-worth-it-for-cloud-security-27ed)
+- [LLMs are the End of Serverless](https://dev.to/code42cate/llms-are-the-end-of-serverless-48ea)
+- [Improve LCP in Elementor: Defer YouTube Background Videos with a Free Plugin](https://dev.to/davidre9/improve-lcp-in-elementor-defer-youtube-background-videos-with-a-free-plugin-4o87)
+- [AI code review panel in Gitlab Merge requests chrome extension](https://dev.to/jay_elsheikh_59b14ad67922/ai-code-review-panel-in-gitlab-merge-requests-chrome-extension-1hke)
+- [Understanding Decision Trees](https://dev.to/dev_patel_35864ca1db6093c/understanding-decision-trees-5l7)
+- [Archive Legacy Github Repos with Subtree](https://dev.to/tonymet/archive-legacy-github-repos-with-subtree-1dj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
