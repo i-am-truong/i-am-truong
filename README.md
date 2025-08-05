@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Generate Database Documentation &lpar;HTML5, PDF, Markdown&rpar;](https://dev.to/roxana_haidiner/how-to-generate-database-documentation-html5-pdf-markdown-1bo6)
+- [1 RN Thing a Day – Day 2: Throttling 🆚 Debouncing](https://dev.to/ola_1313/1-rn-thing-a-day-day-2-throttling-debouncing-4n6f)
+- [How to Easily Create an MCP Server for Sending Emails with DotApp PHP Framework &lpar;Video Tutorial&rpar;](https://dev.to/dotapp/how-to-easily-create-an-mcp-server-for-sending-emails-with-dotapp-php-framework-video-tutorial-571j)
 - [CVE-2022-40799: D-Link DNR-322L Download of Code Without Integrity Check Vulnerability](https://dev.to/freedom_coder/cve-2022-40799-d-link-dnr-322l-download-of-code-without-integrity-check-vulnerability-5bkf)
 - [How AI Models Like Claude Are Changing the Way We Code](https://dev.to/deepakgupta/how-ai-models-like-claude-are-changing-the-way-we-code-3189)
-- [CVE-2020-25079: D-Link DCS-2530L and DCS-2670L Command Injection Vulnerability](https://dev.to/freedom_coder/cve-2020-25079-d-link-dcs-2530l-and-dcs-2670l-command-injection-vulnerability-19pc)
-- [CVE-2020-25078: D-Link DCS-2530L and DCS-2670L Devices Unspecified Vulnerability](https://dev.to/freedom_coder/cve-2020-25078-d-link-dcs-2530l-and-dcs-2670l-devices-unspecified-vulnerability-563g)
-- [Building NeuroStash - V](https://dev.to/devunderdog/building-neurostash-v-ad5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
