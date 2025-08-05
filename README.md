@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🗃️ What Is a Terraform Backend? &lpar;And Why State Locking Saves Your Infrastructure From Chaos&rpar;](https://dev.to/1suleyman/what-is-a-terraform-backend-and-why-state-locking-saves-your-infrastructure-from-chaos-3jj3)
-- [💻 What Is .gitignore in Terraform? &lpar;And Why You Should Care Before You Push to Git&rpar;](https://dev.to/1suleyman/what-is-gitignore-in-terraform-and-why-you-should-care-before-you-push-to-git-4o2h)
-- [Taming Eventual Consistency-Applying Principles of Structured Concurrency to Distributed Systems](https://dev.to/gabrielshanahan/taming-eventual-consistency-applying-principles-of-structured-concurrency-to-distributed-systems-57cj)
-- [Common Flutter Mistakes Beginners Make &lpar;And How to Avoid Them&rpar;](https://dev.to/bestaoui_aymen/common-flutter-mistakes-beginners-make-and-how-to-avoid-them-1djj)
-- [Multithreading in Java: A Detailed Beginner’s Guide](https://dev.to/sharique_siddiqui_8242dad/multithreading-in-java-a-detailed-beginners-guide-67e)
+- [25 AI Coding Tools That Will Supercharge Your Dev Workflow in 2025](https://dev.to/roobia/25-ai-coding-tools-that-will-supercharge-your-dev-workflow-in-2025-1198)
+- [Teachers Who Changed the Way I Think](https://dev.to/azhan_j_37b6bb3896622605/teachers-who-changed-the-way-i-think-330i)
+- [5 Excel Hidden Features](https://dev.to/innozant/5-excel-hidden-features-4jc4)
+- [Choosing Between Intel and AMD: A Clear CPU Buying Guide](https://dev.to/alex_10840eaff791b9811000/choosing-between-intel-and-amd-a-clear-cpu-buying-guide-2634)
+- [Crypto-as-a-Service: A Strategic Lever for Enterprise Blockchain Integration](https://dev.to/alexnav/crypto-as-a-service-a-strategic-lever-for-enterprise-blockchain-integration-2bih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
