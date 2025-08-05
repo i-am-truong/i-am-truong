@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 No-Code Tools to Build a CRM（Open Source &amp; SaaS Compared）](https://dev.to/nocobase/8-no-code-tools-to-build-a-crmopen-source-saas-compared-3eii)
+- [Leetcode - 210. Course Schedule II](https://dev.to/rakeshreddy512/leetcode-210-course-schedule-ii-1mcg)
 - [What’s the Most Underrated DevOps Skill You’ve Learned &lpar;and How Did You Learn It&rpar;?](https://dev.to/devopsdaily/whats-the-most-underrated-devops-skill-youve-learned-and-how-did-you-learn-it-5a7i)
 - [Cloudflare Logs: Not Just for Breakfast Anymore 🥞](https://dev.to/pmdroid/cloudflare-logs-not-just-for-breakfast-anymore-10ne)
 - [Building, Securing, and Deploying a Go App with GitLab CI/CD: README.md](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-readmemd-5e6c)
-- [I Built My Own Cloud Dev Platform to Fix Everything That Annoyed Me About Coding](https://dev.to/exoticonix/i-built-my-own-cloud-dev-platform-to-fix-everything-that-annoyed-me-about-coding-l2b)
-- [The 4 Key Agile Ceremonies Every Team Should Master](https://dev.to/taskford/the-4-key-agile-ceremonies-every-team-should-master-4mj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
