@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly update #3](https://dev.to/abytebybyte/weekly-update-3-5c5d)
+- [Securing a VPS: Essential Hardening Steps for Web Developers &lpar;Part 1&rpar;](https://dev.to/tomas223/securing-a-vps-essential-hardening-steps-for-web-developers-part-1-242j)
+- [How Crypto Drainers Became Criminal SaaS: A Deep Dive into Web3 Theft Infrastructure](https://dev.to/0trust0day/how-crypto-drainers-became-criminal-saas-a-deep-dive-into-web3-theft-infrastructure-15jc)
 - [Framework novo todo mês: evolução ou roda com adesivo novo?](https://dev.to/filipi_firmino_dev/framework-novo-todo-mes-evolucao-ou-roda-com-adesivo-novo-1k6l)
 - [OpenAI Releases GPT-OSS: What It Means for AI Developers and Agent Builders](https://dev.to/ialijr/openai-releases-gpt-oss-what-it-means-for-ai-developers-and-agent-builders-pgm)
-- [Building a Browser-Based Legal Case Management Platform for Small Law Firms &lpar;Asia ↔ US&rpar;](https://dev.to/rimuru__/building-a-browser-based-legal-case-management-platform-for-small-law-firms-asia-us-3h25)
-- [Comparing BFS, DFS, Dijkstra, and A* algorithms on a practical maze solver example](https://dev.to/nemanjam/comparing-bfs-dfs-dijkstra-and-a-algorithms-on-a-practical-maze-solver-example-5ekl)
-- [Reducing Kubernetes costs using AWS EKS Auto Mode](https://dev.to/aws-builders/reducing-kubernetes-costs-using-aws-eks-auto-mode-1jl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
