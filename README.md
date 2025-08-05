@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Bref Lambda Layers Terraform module](https://dev.to/aws-builders/introducing-bref-lambda-layers-terraform-module-1n1f)
+- [How I Finally Cracked the Code on Finding Side Hustle Ideas &lpar;Spoiler: I Was Doing It All Wrong&rpar;](https://dev.to/freeourdays/how-i-finally-cracked-the-code-on-finding-side-hustle-ideas-spoiler-i-was-doing-it-all-wrong-4e62)
+- [Setting Up EMR with Iceberg support and Integration with DBT Core](https://dev.to/ankursri/setting-up-emr-with-iceberg-support-and-integration-with-dbt-core-180i)
+- [Understanding Image APIs: What are They All About?](https://dev.to/giladmaayan/understanding-image-apis-what-are-they-all-about-4fp6)
 - [Legacy code: How bad are comments &lpar;really&rpar;?](https://dev.to/vinicoppi_dev/legacy-code-how-bad-are-comments-really-4kai)
-- [The End of Missed Insurance Claims: How AI Agents Keep You Ahead of Every Deadline](https://dev.to/alam_rcm/the-end-of-missed-insurance-claims-how-ai-agents-keep-you-ahead-of-every-deadline-65l)
-- [Self-Learning MCP Ecosystem - System Specification: Beyond the Code - WLH Challenge](https://dev.to/ariondev/self-learning-mcp-ecosystem-system-specification-beyond-the-code-wlh-challenge-1pcn)
-- [C# LeetCode 94: Binary Tree Inorder Traversal - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-94-binary-tree-inorder-traversal-easy-23cm)
-- [[AWS] Super easy! How to use the MCP tool with AmazonQDeveloper [AmazonQDeveloper]](https://dev.to/aws-builders/aws-super-easy-how-to-use-the-mcp-tool-with-amazonqdeveloper-amazonqdeveloper-441j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
