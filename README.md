@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to program an IoT system to monitor the lifespan of fences](https://dev.to/eliana_coleman_332/how-to-program-an-iot-system-to-monitor-the-lifespan-of-fences-h7b)
-- [Fun C++ project using linked list – Music Player](https://dev.to/wafaakhprog/fun-c-project-using-linked-list-music-player-219h)
-- [Adam Savage&#39;s Tested: Adam Savage Inspects a Mini Fractal Vise!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-inspects-a-mini-fractal-vise-4do5)
-- [How Does Conversational AI Work?](https://dev.to/elinaozo/how-does-conversational-ai-work-3mg3)
-- [KEXP: Suzzallo - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-suzzallo-full-performance-live-on-kexp-1jgh)
+- [🛡️ GDPR Compliance Audit Checklist 2025 — Free PDF + Excel Template](https://dev.to/zestminds_technologies_c1/gdpr-compliance-audit-checklist-2025-free-pdf-excel-template-dcd)
+- [[Boost]](https://dev.to/sundar_joseph_94059a3e7a6/-2h3f)
+- [Static vs Dynamic Binding in Java](https://dev.to/sundar_joseph_94059a3e7a6/static-vs-dynamic-binding-in-java-5d14)
+- [Introducing cliplog: Minimal Logging Utility for Your CLI Tools](https://dev.to/rahulsharma98/introducing-cliplog-minimal-logging-utility-for-your-cli-tools-4i1i)
+- [From Bureaucracy to Brilliance: How DevOps Culture Can Transform Cloud Governance](https://dev.to/mattstratton/from-bureaucracy-to-brilliance-how-devops-culture-can-transform-cloud-governance-3plj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
