@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [8 No-Code Tools to Build a CRM（Open Source &amp; SaaS Compared）](https://dev.to/nocobase/8-no-code-tools-to-build-a-crmopen-source-saas-compared-3eii)
-- [Leetcode - 210. Course Schedule II](https://dev.to/rakeshreddy512/leetcode-210-course-schedule-ii-1mcg)
-- [What’s the Most Underrated DevOps Skill You’ve Learned &lpar;and How Did You Learn It&rpar;?](https://dev.to/devopsdaily/whats-the-most-underrated-devops-skill-youve-learned-and-how-did-you-learn-it-5a7i)
-- [Cloudflare Logs: Not Just for Breakfast Anymore 🥞](https://dev.to/pmdroid/cloudflare-logs-not-just-for-breakfast-anymore-10ne)
-- [Building, Securing, and Deploying a Go App with GitLab CI/CD: README.md](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-readmemd-5e6c)
+- [Visualizing GitHub Contributions with TeeChart VCL: A Technical Walkthrough](https://dev.to/steema/visualizing-github-contributions-with-teechart-vcl-a-technical-walkthrough-9lm)
+- [JavaScript Question](https://dev.to/shubhamkhatik/javascript-question-4n79)
+- [Boosting Communication Skills: The Rising Impact of Online Learning Platforms on Student Growth](https://dev.to/ghummantech/boosting-communication-skills-the-rising-impact-of-online-learning-platforms-on-student-growth-548a)
+- [A Developer’s Guide to Azure Data Protection Services](https://dev.to/oodles-platform/a-developers-guide-to-azure-data-protection-services-7of)
+- [7 Must-Have WordPress Plugins to Grow Your Site in 2025](https://dev.to/anonymous_c13b051b4dded8a/7-must-have-wordpress-plugins-to-grow-your-site-in-2025-1ong)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
