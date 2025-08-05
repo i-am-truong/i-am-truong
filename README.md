@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥Qwen3 Coder vs. Kimi K2 vs. Claude Sonnet 4 Coding Comparison 🚀](https://dev.to/composiodev/qwen3-coder-vs-kimi-k2-vs-claude-sonnet-4-coding-comparison-20np)
-- [[Boost]](https://dev.to/ben/-2n7p)
-- [From Flat Fees to Flexibility: Why HR Tech Platforms Are Engineering Usage-Based Pricing](https://dev.to/johnsaas/from-flat-fees-to-flexibility-why-hr-tech-platforms-are-engineering-usage-based-pricing-4g07)
-- [The Role of Termux in Red Team vs Blue Team Exercises](https://dev.to/terminaltools/the-role-of-termux-in-red-team-vs-blue-team-exercises-4735)
-- [چالش بزرگ تیم‌های اجایل: &quot;PM نمی‌خوایم، ولی پروژه رو باید مدیریت کنیم!&quot;](https://dev.to/parizad/chlsh-bzrg-tymhy-jyl-pm-nmykhwym-wly-prwjh-rw-byd-mdyryt-khnym-2pdo)
+- [‘King of the Hill&#39; Showrunner on Writing Hank Hill for a Different Era](https://dev.to/popcorn_tv/king-of-the-hill-showrunner-on-writing-hank-hill-for-a-different-era-4eb4)
+- [‘South Park&#39; to Exit HBO Max on August 5 as Show Consolidates Library on Paramount+](https://dev.to/popcorn_tv/south-park-to-exit-hbo-max-on-august-5-as-show-consolidates-library-on-paramount-31b3)
+- [The Rings Of Power Season 3 Enters Production As Amazon Teases Sauron&#39;s Return](https://dev.to/popcorn_tv/the-rings-of-power-season-3-enters-production-as-amazon-teases-saurons-return-o76)
+- [Stephen Colbert To Guest Star As a Late-Night Host In An Upcoming Episode of ‘Elsbeth&#39;](https://dev.to/popcorn_tv/stephen-colbert-to-guest-star-as-a-late-night-host-in-an-upcoming-episode-of-elsbeth-4d7p)
+- [Popular 1980s actor Loni Anderson of the hit TV series ‘WKRP in Cincinnati&#39; has died](https://dev.to/popcorn_tv/popular-1980s-actor-loni-anderson-of-the-hit-tv-series-wkrp-in-cincinnati-has-died-2jck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
