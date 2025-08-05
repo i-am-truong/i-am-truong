@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLMs are the End of Serverless](https://dev.to/code42cate/llms-are-the-end-of-serverless-48ea)
-- [Improve LCP in Elementor: Defer YouTube Background Videos with a Free Plugin](https://dev.to/davidre9/improve-lcp-in-elementor-defer-youtube-background-videos-with-a-free-plugin-4o87)
-- [AI code review panel in Gitlab Merge requests chrome extension](https://dev.to/jay_elsheikh_59b14ad67922/ai-code-review-panel-in-gitlab-merge-requests-chrome-extension-1hke)
-- [Understanding Decision Trees](https://dev.to/dev_patel_35864ca1db6093c/understanding-decision-trees-5l7)
-- [Archive Legacy Github Repos with Subtree](https://dev.to/tonymet/archive-legacy-github-repos-with-subtree-1dj3)
+- [Deploy a Full Website on EC2 with Apache/Nginx &lpar;Using AWS Free Tier&rpar; 🚀](https://dev.to/yash_sonawane25/deploy-a-full-website-on-ec2-with-apachenginx-using-aws-free-tier-1nki)
+- [Project Pact: Expedition Deep-Dive](https://dev.to/magipunk/project-pact-expedition-deep-dive-35ke)
+- [How to create a Store Procedure in MySQL](https://dev.to/said_olano/how-to-create-a-store-procedure-in-mysql-4ci6)
+- [Untitled](https://dev.to/jazz_gost_6b472f93ca0a064/untitled-17nl)
+- [The importance of documentation and contracts in back-end development across multiple teams](https://dev.to/raybarbosa/the-importance-of-documentation-and-contracts-in-back-end-development-across-multiple-teams-1gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
