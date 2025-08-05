@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Management Best Practices Every Startup Should Follow](https://dev.to/mehul_budasana/cloud-management-best-practices-every-startup-should-follow-4pn1)
-- [How I Built a Millisecond-Fast Squaredle Solver with Astro and React Islands](https://dev.to/dearest/how-i-built-a-millisecond-fast-squaredle-solver-with-astro-and-react-islands-26d3)
-- [Introducing qcontroller: Declarative VM Management with QEMU and Go](https://dev.to/krjakbrjak/introducing-qcontroller-declarative-vm-management-with-qemu-and-go-1d8m)
-- [How to retry block in Ansible](https://dev.to/amarao/how-to-retry-block-in-ansible-2end)
-- [The Doubtful Architect](https://dev.to/hatem_zidi/the-doubtful-architect-1b51)
+- [🗃️ What Is a Terraform Backend? &lpar;And Why State Locking Saves Your Infrastructure From Chaos&rpar;](https://dev.to/1suleyman/what-is-a-terraform-backend-and-why-state-locking-saves-your-infrastructure-from-chaos-3jj3)
+- [💻 What Is .gitignore in Terraform? &lpar;And Why You Should Care Before You Push to Git&rpar;](https://dev.to/1suleyman/what-is-gitignore-in-terraform-and-why-you-should-care-before-you-push-to-git-4o2h)
+- [Taming Eventual Consistency-Applying Principles of Structured Concurrency to Distributed Systems](https://dev.to/gabrielshanahan/taming-eventual-consistency-applying-principles-of-structured-concurrency-to-distributed-systems-57cj)
+- [Common Flutter Mistakes Beginners Make &lpar;And How to Avoid Them&rpar;](https://dev.to/bestaoui_aymen/common-flutter-mistakes-beginners-make-and-how-to-avoid-them-1djj)
+- [Multithreading in Java: A Detailed Beginner’s Guide](https://dev.to/sharique_siddiqui_8242dad/multithreading-in-java-a-detailed-beginners-guide-67e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
