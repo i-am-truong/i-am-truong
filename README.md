@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Alpine Linux on Raspberry Pi 3 with Syncthing, OpenVPN and Docker](https://dev.to/ivajofranc/tutorial-alpine-linux-on-raspberry-pi-3-with-syncthing-openvpn-and-docker-2932)
+- [Claude Opus 4.1 Is Here And What It Means for AI Development](https://dev.to/alifar/claude-opus-41-is-here-what-it-means-for-ai-development-40da)
+- [Tutorial: Alpine Linux en Raspberry Pi 3 con Syncthing, OpenVPN y Docker](https://dev.to/ivajofranc/tutorial-alpine-linux-en-raspberry-pi-3-con-syncthing-openvpn-y-docker-3h61)
+- [Website Done. Time to Move Forward #30](https://dev.to/0xj0n1/website-done-time-to-move-forward-30-4en8)
 - [Onda de Palavras com C++ e SFML](https://dev.to/marcosplusplus/onda-de-palavras-com-c-e-sfml-34o3)
-- [Weekly update #3](https://dev.to/abytebybyte/weekly-update-3-5c5d)
-- [Securing a VPS: Essential Hardening Steps for Web Developers &lpar;Part 1&rpar;](https://dev.to/tomas223/securing-a-vps-essential-hardening-steps-for-web-developers-part-1-242j)
-- [How Crypto Drainers Became Criminal SaaS: A Deep Dive into Web3 Theft Infrastructure](https://dev.to/0trust0day/how-crypto-drainers-became-criminal-saas-a-deep-dive-into-web3-theft-infrastructure-15jc)
-- [Framework novo todo mês: evolução ou roda com adesivo novo?](https://dev.to/filipi_firmino_dev/framework-novo-todo-mes-evolucao-ou-roda-com-adesivo-novo-1k6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
