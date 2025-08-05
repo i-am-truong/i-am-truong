@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Deploy and Manage Policies Across Multiple Clusters with RHACM – No Code Needed!](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-and-manage-policies-across-multiple-clusters-with-rhacm-no-code-needed-2hpg)
-- [IGN: Alien: Earth | Full Season, Non-Spoiler Review](https://dev.to/gg_news/ign-alien-earth-full-season-non-spoiler-review-51lj)
-- [IGN: The First Descendant - Official Nell Character Reveal Trailer](https://dev.to/gg_news/ign-the-first-descendant-official-nell-character-reveal-trailer-19im)
-- [Kimi K2 vs Grok 4: Which AI Model Codes Better?](https://dev.to/forgecode/kimi-k2-vs-grok-4-which-ai-model-codes-better-31nb)
-- [Hit a great cursor workflow yesterday — most productive vibe coding session to date](https://dev.to/ben/hit-a-great-cursor-workflow-yesterday-most-productive-vibe-coding-session-to-date-3l1o)
+- [Legacy code: How bad are comments &lpar;really&rpar;?](https://dev.to/vinicoppi_dev/legacy-code-how-bad-are-comments-really-4kai)
+- [The End of Missed Insurance Claims: How AI Agents Keep You Ahead of Every Deadline](https://dev.to/alam_rcm/the-end-of-missed-insurance-claims-how-ai-agents-keep-you-ahead-of-every-deadline-65l)
+- [Self-Learning MCP Ecosystem - System Specification: Beyond the Code - WLH Challenge](https://dev.to/ariondev/self-learning-mcp-ecosystem-system-specification-beyond-the-code-wlh-challenge-1pcn)
+- [C# LeetCode 94: Binary Tree Inorder Traversal - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-94-binary-tree-inorder-traversal-easy-23cm)
+- [[AWS] Super easy! How to use the MCP tool with AmazonQDeveloper [AmazonQDeveloper]](https://dev.to/aws-builders/aws-super-easy-how-to-use-the-mcp-tool-with-amazonqdeveloper-amazonqdeveloper-441j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
