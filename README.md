@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Management Best Practices Every Startup Should Follow](https://dev.to/mehul_budasana/cloud-management-best-practices-every-startup-should-follow-4pn1)
 - [How I Built a Millisecond-Fast Squaredle Solver with Astro and React Islands](https://dev.to/dearest/how-i-built-a-millisecond-fast-squaredle-solver-with-astro-and-react-islands-26d3)
 - [Introducing qcontroller: Declarative VM Management with QEMU and Go](https://dev.to/krjakbrjak/introducing-qcontroller-declarative-vm-management-with-qemu-and-go-1d8m)
 - [How to retry block in Ansible](https://dev.to/amarao/how-to-retry-block-in-ansible-2end)
 - [The Doubtful Architect](https://dev.to/hatem_zidi/the-doubtful-architect-1b51)
-- [Running Ads Without Strategy? That’s Just Donating To The Internet](https://dev.to/reach_firstacademy/running-ads-without-strategy-thats-just-donating-to-the-internet-1n5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
