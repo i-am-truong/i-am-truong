@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2022-40799: D-Link DNR-322L Download of Code Without Integrity Check Vulnerability](https://dev.to/freedom_coder/cve-2022-40799-d-link-dnr-322l-download-of-code-without-integrity-check-vulnerability-5bkf)
+- [How AI Models Like Claude Are Changing the Way We Code](https://dev.to/deepakgupta/how-ai-models-like-claude-are-changing-the-way-we-code-3189)
+- [CVE-2020-25079: D-Link DCS-2530L and DCS-2670L Command Injection Vulnerability](https://dev.to/freedom_coder/cve-2020-25079-d-link-dcs-2530l-and-dcs-2670l-command-injection-vulnerability-19pc)
+- [CVE-2020-25078: D-Link DCS-2530L and DCS-2670L Devices Unspecified Vulnerability](https://dev.to/freedom_coder/cve-2020-25078-d-link-dcs-2530l-and-dcs-2670l-devices-unspecified-vulnerability-563g)
 - [Building NeuroStash - V](https://dev.to/devunderdog/building-neurostash-v-ad5)
-- [Coding Agents are here: Is your team ready for AI devs?](https://dev.to/leading-edje/coding-agents-are-here-is-your-team-ready-for-ai-devs-3dk2)
-- [Exception Generation is Pure Evil](https://dev.to/m0n0x41d/exception-generation-is-pure-evil-5bda)
-- [Auto-Dismiss Toast Notification UI &lpar;HTML/CSS/JS&rpar;](https://dev.to/musa379/auto-dismiss-toast-notification-ui-htmlcssjs-453n)
-- [Customer Lifetime Value](https://dev.to/dipti_m_2e7ba36c478d1a48a/customer-lifetime-value-4p95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
