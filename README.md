@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Bref Lambda Layers Terraform module](https://dev.to/aws-builders/introducing-bref-lambda-layers-terraform-module-1n1f)
-- [How I Finally Cracked the Code on Finding Side Hustle Ideas &lpar;Spoiler: I Was Doing It All Wrong&rpar;](https://dev.to/freeourdays/how-i-finally-cracked-the-code-on-finding-side-hustle-ideas-spoiler-i-was-doing-it-all-wrong-4e62)
-- [Setting Up EMR with Iceberg support and Integration with DBT Core](https://dev.to/ankursri/setting-up-emr-with-iceberg-support-and-integration-with-dbt-core-180i)
-- [Understanding Image APIs: What are They All About?](https://dev.to/giladmaayan/understanding-image-apis-what-are-they-all-about-4fp6)
-- [Legacy code: How bad are comments &lpar;really&rpar;?](https://dev.to/vinicoppi_dev/legacy-code-how-bad-are-comments-really-4kai)
+- [🤯 WTFJS — JavaScript&#39;s Quirks, Features, and Headaches](https://dev.to/ml318097/wtfjs-javascripts-quirks-features-and-headaches-5965)
+- [Writing Reactive and Declarative Code in Angular Using Signals](https://dev.to/andersseen/writing-reactive-and-declarative-code-in-angular-using-signals-1gpn)
+- [7 Essential Machine Learning Algorithms for Data Science, Data Analysis, and Predictive Modeling [2025 Guide]](https://dev.to/zerozulu/7-essential-machine-learning-algorithms-for-data-science-data-analysis-and-predictive-modeling-2j5m)
+- [new queries](https://dev.to/armaankhan8270/new-queries-24bc)
+- [🏗️ Qual Arquitetura Escolher para .NET: Monolito, Serviços Distribuídos ou Microsserviços?](https://dev.to/daniloopinheiro/qual-arquitetura-escolher-para-net-monolito-servicos-distribuidos-ou-microsservicos-lif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
