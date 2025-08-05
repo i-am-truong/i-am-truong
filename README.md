@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging a mysterious HTTP streaming issue](https://dev.to/skeptrune/debugging-a-mysterious-http-streaming-issue-3o69)
-- [Check out this article I wrote on sharing code across Python Microservices](https://dev.to/davinci784/check-out-this-article-i-wrote-on-sharing-code-across-python-microservices-2355)
-- [CSS Selectors: Definitions and Examples](https://dev.to/svn1199/css-selectors-definitions-and-examples-do)
-- [How to test Temporal Services using Signadot Sandboxes](https://dev.to/signadot/how-to-test-temporal-services-using-signadot-sandboxes-mfe)
-- [Mastering Generic Types and Traits in Rust: A Complete Guide](https://dev.to/ajtech0001/mastering-generic-types-and-traits-in-rust-a-complete-guide-4e2n)
+- [Turbocharge Your Web App UI with Tailwind CSS: A Beginner&#39;s Guide](https://dev.to/ekwoster/turbocharge-your-web-app-ui-with-tailwind-css-a-beginners-guide-2f49)
+- [Crafting a High-Performance Dashboard with PostgreSQL Caching and Golang Scheduled Routines](https://dev.to/shrsv/crafting-a-high-performance-dashboard-with-postgresql-caching-and-golang-scheduled-routines-1bh6)
+- [vTSafeKernelInvoker: Lightweight .NET extension for Semantic Kernel. Features InvokePromptFunctionUsingCustomizedKernelAsync to cut AI token usage/costs by skipping unnecessary post-processing https://www.nuget.org/packages/vTSafeKernelInvoker/](https://dev.to/venuthomas/vtsafekernelinvoker-lightweight-net-extension-for-semantic-kernel-features-1ame)
+- [Generics Typescript](https://dev.to/matheusgondra/generics-typescript-2m1b)
+- [USER](https://dev.to/armaankhan8270/user-2dbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
