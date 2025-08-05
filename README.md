@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What if Wayne Gretzky wasn’t totally right?](https://dev.to/ethan_jarrell_6619878bddd/what-if-wayne-gretzky-wasnt-totally-right-1dke)
-- [C# LeetCode 101: Symmetric Tree](https://dev.to/grantdotdev/c-leetcode-101-symmetric-tree-1l0d)
-- [AdGuard DNS: বিনামূল্যে বিজ্ঞাপন ও ট্র্যাকার ব্লক করার সহজ সমাধান](https://dev.to/rironib/block-ads-and-trackers-using-adguard-dns-2dea)
-- [Deploy Laravel on AWS EC2 with RDS MySQL and NGINX](https://dev.to/abstractmusa/deploy-laravel-on-aws-ec2-with-rds-mysql-and-nginx-4bpo)
-- [ember-template-lint recommended rules that I disable](https://dev.to/michalbryxi/ember-template-lint-recommended-rules-that-i-disable-3ne5)
+- [Your Flutter Logging Strategy is Embarrassing &lpar;Here&#39;s How to Fix It&rpar;](https://dev.to/marcomit/your-flutter-logging-strategy-is-embarrassing-heres-how-to-fix-it-1f0j)
+- [How to Send Emails in Cursor with Mailtrap MCP Server](https://dev.to/sofiatarhonska/how-to-send-emails-in-cursor-with-mailtrap-mcp-server-2hjj)
+- [Update about my Next.JS Markdown Note Taking Application](https://dev.to/syntaxtiwari11/update-about-my-nextjs-markdown-note-taking-application-g0o)
+- [Top ETL Tools for MongoDB in 2025: Which One Fits Your Use Case?](https://dev.to/mongodb/top-etl-tools-for-mongodb-in-2025-which-one-fits-your-use-case-4bg3)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
