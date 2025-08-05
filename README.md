@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build ACF Blocks in Your WordPress Theme &lpar;No Plugin Needed&rpar;](https://dev.to/alteuslabs/how-to-build-acf-blocks-in-your-wordpress-theme-no-plugin-needed-1170)
-- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-1407)
-- [The Project Ended. What to Keep.](https://dev.to/manuartero/the-project-ended-what-to-keep-16kk)
-- [Algorithmic Bias Mitigation via Adversarial Differential Privacy in Federated Learning](https://dev.to/freederia-research/algorithmic-bias-mitigation-via-adversarial-differential-privacy-in-federated-learning-2l7p)
-- [30 Days of Code- Day 19](https://dev.to/akshitaexe/30-days-of-code-day-19-2f7f)
+- [Debugging a mysterious HTTP streaming issue](https://dev.to/skeptrune/debugging-a-mysterious-http-streaming-issue-3o69)
+- [Check out this article I wrote on sharing code across Python Microservices](https://dev.to/davinci784/check-out-this-article-i-wrote-on-sharing-code-across-python-microservices-2355)
+- [CSS Selectors: Definitions and Examples](https://dev.to/svn1199/css-selectors-definitions-and-examples-do)
+- [How to test Temporal Services using Signadot Sandboxes](https://dev.to/signadot/how-to-test-temporal-services-using-signadot-sandboxes-mfe)
+- [Mastering Generic Types and Traits in Rust: A Complete Guide](https://dev.to/ajtech0001/mastering-generic-types-and-traits-in-rust-a-complete-guide-4e2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
