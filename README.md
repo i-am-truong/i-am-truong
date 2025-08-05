@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Flutter Logging Strategy is Embarrassing &lpar;Here&#39;s How to Fix It&rpar;](https://dev.to/marcomit/your-flutter-logging-strategy-is-embarrassing-heres-how-to-fix-it-1f0j)
-- [How to Send Emails in Cursor with Mailtrap MCP Server](https://dev.to/sofiatarhonska/how-to-send-emails-in-cursor-with-mailtrap-mcp-server-2hjj)
-- [Update about my Next.JS Markdown Note Taking Application](https://dev.to/syntaxtiwari11/update-about-my-nextjs-markdown-note-taking-application-g0o)
-- [Top ETL Tools for MongoDB in 2025: Which One Fits Your Use Case?](https://dev.to/mongodb/top-etl-tools-for-mongodb-in-2025-which-one-fits-your-use-case-4bg3)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pmf)
+- [How to Build ACF Blocks in Your WordPress Theme &lpar;No Plugin Needed&rpar;](https://dev.to/alteuslabs/how-to-build-acf-blocks-in-your-wordpress-theme-no-plugin-needed-1170)
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-1407)
+- [The Project Ended. What to Keep.](https://dev.to/manuartero/the-project-ended-what-to-keep-16kk)
+- [Algorithmic Bias Mitigation via Adversarial Differential Privacy in Federated Learning](https://dev.to/freederia-research/algorithmic-bias-mitigation-via-adversarial-differential-privacy-in-federated-learning-2l7p)
+- [30 Days of Code- Day 19](https://dev.to/akshitaexe/30-days-of-code-day-19-2f7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
