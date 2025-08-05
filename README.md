@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤯 WTFJS — JavaScript&#39;s Quirks, Features, and Headaches](https://dev.to/ml318097/wtfjs-javascripts-quirks-features-and-headaches-5965)
-- [Writing Reactive and Declarative Code in Angular Using Signals](https://dev.to/andersseen/writing-reactive-and-declarative-code-in-angular-using-signals-1gpn)
-- [7 Essential Machine Learning Algorithms for Data Science, Data Analysis, and Predictive Modeling [2025 Guide]](https://dev.to/zerozulu/7-essential-machine-learning-algorithms-for-data-science-data-analysis-and-predictive-modeling-2j5m)
-- [new queries](https://dev.to/armaankhan8270/new-queries-24bc)
-- [🏗️ Qual Arquitetura Escolher para .NET: Monolito, Serviços Distribuídos ou Microsserviços?](https://dev.to/daniloopinheiro/qual-arquitetura-escolher-para-net-monolito-servicos-distribuidos-ou-microsservicos-lif)
+- [CVE-2024-21762: Fortinet FortiOS Out-of-Bound Write Vulnerability](https://dev.to/freedom_coder/cve-2024-21762-fortinet-fortios-out-of-bound-write-vulnerability-2hck)
+- [CVE-2024-55591: Fortinet FortiOS and FortiProxy Authentication Bypass Vulnerability](https://dev.to/freedom_coder/cve-2024-55591-fortinet-fortios-and-fortiproxy-authentication-bypass-vulnerability-4jim)
+- [Python Challenge #1 Explained!](https://dev.to/vanshika_19/python-challenge-1-explained-g36)
+- [print — самая сложная для понимания функция](https://dev.to/lolpopgames/print-samaia-slozhnaia-dlia-ponimaniia-funktsiia-4kd9)
+- [When You’ve Tried Everything and Still Can’t Get a Job — Read This](https://dev.to/niaxusweb/when-youve-tried-everything-and-still-cant-get-a-job-read-this-4co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
