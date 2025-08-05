@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Admin Dashboard With Live Smart Contract Data](https://dev.to/vadym_info_polus/building-an-admin-dashboard-with-live-smart-contract-data-4n39)
-- [State Management in Vue 3 with Pinia: The Successor to Vuex](https://dev.to/djamware_tutorial_eba1a61/state-management-in-vue-3-with-pinia-the-successor-to-vuex-1873)
-- [Best tips to get better at phrasing?](https://dev.to/highcenburg/best-tips-to-get-better-at-phrasing-lco)
-- [The Hidden Behavior of C# Records](https://dev.to/antongrebenkin/the-hidden-behavior-of-c-records-59nc)
-- [Tiny tool, big help: automatically choose the best Ollama model for your setup](https://dev.to/pavelevich/tiny-tool-big-help-automatically-choose-the-best-ollama-model-for-your-setup-4398)
+- [🔥Qwen3 Coder vs. Kimi K2 vs. Claude Sonnet 4 Coding Comparison 🚀](https://dev.to/composiodev/qwen3-coder-vs-kimi-k2-vs-claude-sonnet-4-coding-comparison-20np)
+- [[Boost]](https://dev.to/ben/-2n7p)
+- [From Flat Fees to Flexibility: Why HR Tech Platforms Are Engineering Usage-Based Pricing](https://dev.to/johnsaas/from-flat-fees-to-flexibility-why-hr-tech-platforms-are-engineering-usage-based-pricing-4g07)
+- [The Role of Termux in Red Team vs Blue Team Exercises](https://dev.to/terminaltools/the-role-of-termux-in-red-team-vs-blue-team-exercises-4735)
+- [چالش بزرگ تیم‌های اجایل: &quot;PM نمی‌خوایم، ولی پروژه رو باید مدیریت کنیم!&quot;](https://dev.to/parizad/chlsh-bzrg-tymhy-jyl-pm-nmykhwym-wly-prwjh-rw-byd-mdyryt-khnym-2pdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
