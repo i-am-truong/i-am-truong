@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I deployed my first project for my devops portfolio: Minikube and Deployment](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf)
-- [CitizenssApp: A Platform for Digital Rights and Empowerment Through Table-First Software Design](https://dev.to/bhuvaness/citizenssapp-a-platform-for-digital-rights-and-empowerment-through-table-first-software-design-c88)
-- [Prompts](https://dev.to/ayoubzulfiqar/prompts-pi3)
-- [Optical Bonding for Embedded Displays: Enhanced Visibility and Durability](https://dev.to/kevinzhang109/optical-bonding-for-embedded-displays-enhanced-visibility-and-durability-3571)
-- [🚀 DSA: The 8-Week Grind – Join Me in This Challenge! &lpar;Week 1, Day 1 Recap&rpar;](https://dev.to/gouthique/dsa-the-8-week-grind-join-me-in-this-challenge-week-1-day-1-recap-k1o)
+- [Translation Technology for Remote Teams: Considerations](https://dev.to/liamcorwin/translation-technology-for-remote-teams-considerations-3j3m)
+- [🛡️ Kubernetes Pod Security Best Practices: 13 Key Strategies for Hardening Your Workloads](https://dev.to/shubhamkcloud/kubernetes-pod-security-best-practices-13-key-strategies-for-hardening-your-workloads-f0a)
+- [What is Network Scanning? 5 Best Automated Network Scanning Tools](https://dev.to/emily_assetloom/what-is-network-scanning-5-best-automated-network-scanning-tools-4b3i)
+- [Kubernetes in Depth - Storage, Security, and Advanced Features](https://dev.to/andrey_s/kubernetes-in-depth-storage-security-and-advanced-features-241i)
+- [Web Development with Django](https://dev.to/godofgeeks/web-development-with-django-4fll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
