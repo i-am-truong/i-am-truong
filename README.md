@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/gamespot-ninja-gaiden-ragebound-review-ega)
-- [IGN: Rental Family - Official Trailer &lpar;2025&rpar; Brendan Fraser, Takehiro Hira, Mari Yamamoto](https://dev.to/gg_news/ign-rental-family-official-trailer-2025-brendan-fraser-takehiro-hira-mari-yamamoto-147o)
-- [IGN: Nicktoons &amp; The Dice of Destiny - Official Danny Phantom Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-danny-phantom-reveal-trailer-1h4k)
-- [IGN: Stormgate Review](https://dev.to/gg_news/ign-stormgate-review-53ko)
-- [What Vibe Coding Actually Looks Like for a Senior Engineer](https://dev.to/pmbanugo/-1617)
+- [Framework novo todo mês: evolução ou roda com adesivo novo?](https://dev.to/filipi_firmino_dev/framework-novo-todo-mes-evolucao-ou-roda-com-adesivo-novo-1k6l)
+- [OpenAI Releases GPT-OSS: What It Means for AI Developers and Agent Builders](https://dev.to/ialijr/openai-releases-gpt-oss-what-it-means-for-ai-developers-and-agent-builders-pgm)
+- [Building a Browser-Based Legal Case Management Platform for Small Law Firms &lpar;Asia ↔ US&rpar;](https://dev.to/rimuru__/building-a-browser-based-legal-case-management-platform-for-small-law-firms-asia-us-3h25)
+- [Comparing BFS, DFS, Dijkstra, and A* algorithms on a practical maze solver example](https://dev.to/nemanjam/comparing-bfs-dfs-dijkstra-and-a-algorithms-on-a-practical-maze-solver-example-5ekl)
+- [Reducing Kubernetes costs using AWS EKS Auto Mode](https://dev.to/aws-builders/reducing-kubernetes-costs-using-aws-eks-auto-mode-1jl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
