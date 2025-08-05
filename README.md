@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Tools for Streamlining Processes](https://dev.to/tremblayjustin/best-ai-tools-for-streamlining-processes-5fj3)
-- [Seedance 1.0: Architecture, Usage and Comparison](https://dev.to/_37bbf0c253c0b3edec531e/seedance-10-architecture-usage-and-comparison-24dd)
-- [C# LeetCode 35: Search Insert Position](https://dev.to/grantdotdev/c-leetcode-35-search-insert-position-263b)
-- [CVE-2024-21762: Fortinet FortiOS Out-of-Bound Write Vulnerability](https://dev.to/freedom_coder/cve-2024-21762-fortinet-fortios-out-of-bound-write-vulnerability-2hck)
-- [CVE-2024-55591: Fortinet FortiOS and FortiProxy Authentication Bypass Vulnerability](https://dev.to/freedom_coder/cve-2024-55591-fortinet-fortios-and-fortiproxy-authentication-bypass-vulnerability-4jim)
+- [How to program an IoT system to monitor the lifespan of fences](https://dev.to/eliana_coleman_332/how-to-program-an-iot-system-to-monitor-the-lifespan-of-fences-h7b)
+- [Fun C++ project using linked list – Music Player](https://dev.to/wafaakhprog/fun-c-project-using-linked-list-music-player-219h)
+- [Adam Savage&#39;s Tested: Adam Savage Inspects a Mini Fractal Vise!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-inspects-a-mini-fractal-vise-4do5)
+- [How Does Conversational AI Work?](https://dev.to/elinaozo/how-does-conversational-ai-work-3mg3)
+- [KEXP: Suzzallo - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-suzzallo-full-performance-live-on-kexp-1jgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
