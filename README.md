@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turbocharge Your Web App UI with Tailwind CSS: A Beginner&#39;s Guide](https://dev.to/ekwoster/turbocharge-your-web-app-ui-with-tailwind-css-a-beginners-guide-2f49)
-- [Crafting a High-Performance Dashboard with PostgreSQL Caching and Golang Scheduled Routines](https://dev.to/shrsv/crafting-a-high-performance-dashboard-with-postgresql-caching-and-golang-scheduled-routines-1bh6)
-- [vTSafeKernelInvoker: Lightweight .NET extension for Semantic Kernel. Features InvokePromptFunctionUsingCustomizedKernelAsync to cut AI token usage/costs by skipping unnecessary post-processing https://www.nuget.org/packages/vTSafeKernelInvoker/](https://dev.to/venuthomas/vtsafekernelinvoker-lightweight-net-extension-for-semantic-kernel-features-1ame)
-- [Generics Typescript](https://dev.to/matheusgondra/generics-typescript-2m1b)
-- [USER](https://dev.to/armaankhan8270/user-2dbe)
+- [Building NeuroStash - V](https://dev.to/devunderdog/building-neurostash-v-ad5)
+- [Coding Agents are here: Is your team ready for AI devs?](https://dev.to/leading-edje/coding-agents-are-here-is-your-team-ready-for-ai-devs-3dk2)
+- [Exception Generation is Pure Evil](https://dev.to/m0n0x41d/exception-generation-is-pure-evil-5bda)
+- [Auto-Dismiss Toast Notification UI &lpar;HTML/CSS/JS&rpar;](https://dev.to/musa379/auto-dismiss-toast-notification-ui-htmlcssjs-453n)
+- [Customer Lifetime Value](https://dev.to/dipti_m_2e7ba36c478d1a48a/customer-lifetime-value-4p95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
