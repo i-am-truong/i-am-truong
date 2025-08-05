@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡️Lynxjs Snippets &lpar;.tsx&rpar;](https://dev.to/bastndev/lynxjs-snippets-tsx-4266)
-- [Building a Production-Grade Cloud Resume: From Manual Deployment to Full CI/CD with Azure and DevOps](https://dev.to/tracywhodoesnot/building-a-production-grade-cloud-resume-from-manual-deployment-to-full-cicd-with-azure-and-devops-321e)
-- [George Pólya’s - How to Solve It.](https://dev.to/shlokaguptaa/george-polyas-how-to-solve-it-hh7)
-- [Speed up your local dev workflow with IP-Kit &lpar;macOS&rpar;](https://dev.to/rigter/speed-up-your-local-dev-workflow-with-ip-kit-macos-hoi)
-- [My Java Full Stack learning journey : JavaScript](https://dev.to/dharshinieswaran/my-java-full-stack-learning-journey-javascript-4jfl)
+- [Resources and Roadmap for Mastering Java as a Beginner](https://dev.to/sharique_siddiqui_8242dad/resources-and-roadmap-for-mastering-java-as-a-beginner-2gg6)
+- [qureus](https://dev.to/armaankhan8270/qureus-o2g)
+- [React for Web Development in 2025: Advantages, Use Cases, and Top Examples](https://dev.to/nencywilliams/react-for-web-development-in-2025-advantages-use-cases-and-top-examples-226o)
+- [Adaptive Contact Force Control of Multi-Body Systems via Hybrid Model Predictive Control and Reinforcement Learning](https://dev.to/freederia-research/adaptive-contact-force-control-of-multi-body-systems-via-hybrid-model-predictive-control-and-8kj)
+- [What I Learned from the UX/UI Design Foundations – A Frontend Dev’s Perspective](https://dev.to/maurya-sachin/what-i-learned-from-the-uxui-design-foundations-a-frontend-devs-perspective-1j81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
