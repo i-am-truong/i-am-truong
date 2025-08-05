@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Generate Database Documentation &lpar;HTML5, PDF, Markdown&rpar;](https://dev.to/roxana_haidiner/how-to-generate-database-documentation-html5-pdf-markdown-1bo6)
-- [1 RN Thing a Day – Day 2: Throttling 🆚 Debouncing](https://dev.to/ola_1313/1-rn-thing-a-day-day-2-throttling-debouncing-4n6f)
-- [How to Easily Create an MCP Server for Sending Emails with DotApp PHP Framework &lpar;Video Tutorial&rpar;](https://dev.to/dotapp/how-to-easily-create-an-mcp-server-for-sending-emails-with-dotapp-php-framework-video-tutorial-571j)
-- [CVE-2022-40799: D-Link DNR-322L Download of Code Without Integrity Check Vulnerability](https://dev.to/freedom_coder/cve-2022-40799-d-link-dnr-322l-download-of-code-without-integrity-check-vulnerability-5bkf)
-- [How AI Models Like Claude Are Changing the Way We Code](https://dev.to/deepakgupta/how-ai-models-like-claude-are-changing-the-way-we-code-3189)
+- [GameSpot: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/gamespot-ninja-gaiden-ragebound-review-ega)
+- [IGN: Rental Family - Official Trailer &lpar;2025&rpar; Brendan Fraser, Takehiro Hira, Mari Yamamoto](https://dev.to/gg_news/ign-rental-family-official-trailer-2025-brendan-fraser-takehiro-hira-mari-yamamoto-147o)
+- [IGN: Nicktoons &amp; The Dice of Destiny - Official Danny Phantom Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-danny-phantom-reveal-trailer-1h4k)
+- [IGN: Stormgate Review](https://dev.to/gg_news/ign-stormgate-review-53ko)
+- [What Vibe Coding Actually Looks Like for a Senior Engineer](https://dev.to/pmbanugo/-1617)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
