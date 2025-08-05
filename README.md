@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: World of Warcraft: The War Within - Official Ghosts of K’aresh Launch Trailer](https://dev.to/gg_news/ign-world-of-warcraft-the-war-within-official-ghosts-of-karesh-launch-trailer-2dia)
-- [IGN: Battlefield 6 Gameplay: Breakthrough on Liberation Peak](https://dev.to/gg_news/ign-battlefield-6-gameplay-breakthrough-on-liberation-peak-383k)
-- [IGN: Minecraft x Sonic - Official Sonic Add-On Super Update Trailer](https://dev.to/gg_news/ign-minecraft-x-sonic-official-sonic-add-on-super-update-trailer-1ikm)
-- [What&#39;s New in C# 14: User-Defined Compound Assignments](https://dev.to/ivankahl/whats-new-in-c-14-user-defined-compound-assignments-5eb5)
-- [How I Built an Offline AI-Powered NPC System with Godot and Gemma 3n](https://dev.to/code-forge-temple/how-i-built-an-offline-ai-powered-npc-system-with-godot-and-gemma-3n-3n8g)
+- [Alexander](https://dev.to/rakesh_singh_7f17c0b6eaea/alexander-2o1o)
+- [Architectural Trade-offs: Making the Right Decision for Your Context](https://dev.to/horse_patterns/architectural-trade-offs-making-the-right-decision-for-your-context-3e7i)
+- [Flutter in 2024: 5 Surprising Use Cases Beyond Mobile Apps](https://dev.to/fang_guoming_02274725623/flutter-in-2024-5-surprising-use-cases-beyond-mobile-apps-1bem)
+- [#002: The Art of Transformation – Type Conversion &amp; Operations in JavaScript 🔄➕](https://dev.to/h_savani/level-2-the-art-of-transformation-type-conversion-operations-in-javascript-66l)
+- [No Fancy Setup, No Bootcamp – Just Grit, Code &amp; Faith](https://dev.to/saifiimuhammad/no-fancy-setup-no-bootcamp-just-grit-code-faith-5663)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
