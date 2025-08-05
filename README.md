@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ GDPR Compliance Audit Checklist 2025 — Free PDF + Excel Template](https://dev.to/zestminds_technologies_c1/gdpr-compliance-audit-checklist-2025-free-pdf-excel-template-dcd)
-- [[Boost]](https://dev.to/sundar_joseph_94059a3e7a6/-2h3f)
-- [Static vs Dynamic Binding in Java](https://dev.to/sundar_joseph_94059a3e7a6/static-vs-dynamic-binding-in-java-5d14)
-- [Introducing cliplog: Minimal Logging Utility for Your CLI Tools](https://dev.to/rahulsharma98/introducing-cliplog-minimal-logging-utility-for-your-cli-tools-4i1i)
-- [From Bureaucracy to Brilliance: How DevOps Culture Can Transform Cloud Governance](https://dev.to/mattstratton/from-bureaucracy-to-brilliance-how-devops-culture-can-transform-cloud-governance-3plj)
+- [What if Wayne Gretzky wasn’t totally right?](https://dev.to/ethan_jarrell_6619878bddd/what-if-wayne-gretzky-wasnt-totally-right-1dke)
+- [C# LeetCode 101: Symmetric Tree](https://dev.to/grantdotdev/c-leetcode-101-symmetric-tree-1l0d)
+- [AdGuard DNS: বিনামূল্যে বিজ্ঞাপন ও ট্র্যাকার ব্লক করার সহজ সমাধান](https://dev.to/rironib/block-ads-and-trackers-using-adguard-dns-2dea)
+- [Deploy Laravel on AWS EC2 with RDS MySQL and NGINX](https://dev.to/abstractmusa/deploy-laravel-on-aws-ec2-with-rds-mysql-and-nginx-4bpo)
+- [ember-template-lint recommended rules that I disable](https://dev.to/michalbryxi/ember-template-lint-recommended-rules-that-i-disable-3ne5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
