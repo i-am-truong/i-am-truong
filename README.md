@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Visualizing GitHub Contributions with TeeChart VCL: A Technical Walkthrough](https://dev.to/steema/visualizing-github-contributions-with-teechart-vcl-a-technical-walkthrough-9lm)
-- [JavaScript Question](https://dev.to/shubhamkhatik/javascript-question-4n79)
-- [Boosting Communication Skills: The Rising Impact of Online Learning Platforms on Student Growth](https://dev.to/ghummantech/boosting-communication-skills-the-rising-impact-of-online-learning-platforms-on-student-growth-548a)
-- [A Developer’s Guide to Azure Data Protection Services](https://dev.to/oodles-platform/a-developers-guide-to-azure-data-protection-services-7of)
-- [7 Must-Have WordPress Plugins to Grow Your Site in 2025](https://dev.to/anonymous_c13b051b4dded8a/7-must-have-wordpress-plugins-to-grow-your-site-in-2025-1ong)
+- [Building a Powerful Geocoding Solution with OpenCage and Thunderforest Maps](https://dev.to/tsamaya/building-a-powerful-geocoding-solution-with-opencage-and-thunderforest-maps-2e1n)
+- [Unlocking Performance with AsyncJob: Specific Use Cases for I/O-Bound Operations](https://dev.to/vikas/unlocking-performance-with-asyncjob-specific-use-cases-for-io-bound-operations-368e)
+- [From Non-Coder to Production in 4 Days: My AI-Powered App Journey &lpar;And Why Imperfect is Perfect&rpar;](https://dev.to/dishankg/from-non-coder-to-production-in-4-days-my-ai-powered-app-journey-and-why-imperfect-is-perfect-56n6)
+- [Tom and Jerry Card Apps with Google AI Studio](https://dev.to/bhavasarhemang/tom-and-jerry-card-apps-with-google-ai-studio-30k8)
+- [How to Optimize Location-Specific Pages for Local SEO Success](https://dev.to/sadiqsaleem/how-to-optimize-location-specific-pages-for-local-seo-success-38kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
