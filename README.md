@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Collaboration need](https://dev.to/vidakhoshpey22/collaboration-need-3b1n)
+- [AI Meets Cloud: My Experience Passing Oracle’s AI Foundations Associate Exam](https://dev.to/kamaumbuguadev/ai-meets-cloud-my-experience-passing-oracles-ai-foundations-associate-exam-379)
+- [I Was Tired of Proving I Wasn’t Lying So I Built Devlog!](https://dev.to/ashutoshbhandari5/i-was-tired-of-proving-i-wasnt-lying-so-i-built-devlog-2hg5)
 - [PopOS - How to Update NVIDIA Driver](https://dev.to/harry_tanama_51571ebf90b6/popos-how-to-update-nvidia-driver-453)
 - [UV Mapping in Mini Micro](https://dev.to/joestrout/uv-mapping-in-mini-micro-2eoa)
-- [Genie 3: A New Era in Interactive World Models](https://dev.to/projedefteri/genie-3-a-new-era-in-interactive-world-models-4882)
-- [LLMs Aren’t the Problem. Your Prompts Are.](https://dev.to/copyleftdev/llms-arent-the-problem-your-prompts-are-371n)
-- [Alexander](https://dev.to/rakesh_singh_7f17c0b6eaea/alexander-2o1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
