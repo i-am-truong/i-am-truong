@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Resources and Roadmap for Mastering Java as a Beginner](https://dev.to/sharique_siddiqui_8242dad/resources-and-roadmap-for-mastering-java-as-a-beginner-2gg6)
-- [qureus](https://dev.to/armaankhan8270/qureus-o2g)
-- [React for Web Development in 2025: Advantages, Use Cases, and Top Examples](https://dev.to/nencywilliams/react-for-web-development-in-2025-advantages-use-cases-and-top-examples-226o)
-- [Adaptive Contact Force Control of Multi-Body Systems via Hybrid Model Predictive Control and Reinforcement Learning](https://dev.to/freederia-research/adaptive-contact-force-control-of-multi-body-systems-via-hybrid-model-predictive-control-and-8kj)
-- [What I Learned from the UX/UI Design Foundations – A Frontend Dev’s Perspective](https://dev.to/maurya-sachin/what-i-learned-from-the-uxui-design-foundations-a-frontend-devs-perspective-1j81)
+- [Why HD Images Look Blurry on Mobile and How to Fix It ?](https://dev.to/swhabitation/why-hd-images-look-blurry-on-mobile-and-how-to-fix-it--1j83)
+- [Building a Distributed Database: Cassandra&#39;s Architecture Deep Dive](https://dev.to/sgchris/building-a-distributed-database-cassandras-architecture-deep-dive-lkp)
+- [How I Found Balance Between Code and Life as a Developer](https://dev.to/alexeybashkirov/how-i-found-balance-between-code-and-life-as-a-developer-17i3)
+- [C# gRPC Services: High-Performance Remote Procedure Calls](https://dev.to/chakewitz/c-grpc-services-high-performance-remote-procedure-calls-3j04)
+- [Building AI-Powered Applications with C# and Semantic Kernel](https://dev.to/chakewitz/building-ai-powered-applications-with-c-and-semantic-kernel-an2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
