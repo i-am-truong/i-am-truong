@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Challenge: Can You Explain This Bitwise + Recursive Arithmetic Program?](https://dev.to/neelakandan_ravi/java-challenge-can-you-explain-this-bitwise-recursive-arithmetic-program-55n1)
-- [JS](https://dev.to/jeya_lakshmi_c417e8c65649/js-398k)
-- [Pipe Burst At 2 AM? Here&#39;s Why Prevention Beats Panic](https://dev.to/dunn_riteplumbingandga/pipe-burst-at-2-am-heres-why-prevention-beats-panic-58ja)
-- [Why HD Images Look Blurry on Mobile and How to Fix It ?](https://dev.to/swhabitation/why-hd-images-look-blurry-on-mobile-and-how-to-fix-it--1j83)
-- [Building a Distributed Database: Cassandra&#39;s Architecture Deep Dive](https://dev.to/sgchris/building-a-distributed-database-cassandras-architecture-deep-dive-lkp)
+- [How I deployed my first project for my devops portfolio: Minikube and Deployment](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf)
+- [CitizenssApp: A Platform for Digital Rights and Empowerment Through Table-First Software Design](https://dev.to/bhuvaness/citizenssapp-a-platform-for-digital-rights-and-empowerment-through-table-first-software-design-c88)
+- [Prompts](https://dev.to/ayoubzulfiqar/prompts-pi3)
+- [Optical Bonding for Embedded Displays: Enhanced Visibility and Durability](https://dev.to/kevinzhang109/optical-bonding-for-embedded-displays-enhanced-visibility-and-durability-3571)
+- [🚀 DSA: The 8-Week Grind – Join Me in This Challenge! &lpar;Week 1, Day 1 Recap&rpar;](https://dev.to/gouthique/dsa-the-8-week-grind-join-me-in-this-challenge-week-1-day-1-recap-k1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
