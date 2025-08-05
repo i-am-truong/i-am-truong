@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PopOS - How to Update NVIDIA Driver](https://dev.to/harry_tanama_51571ebf90b6/popos-how-to-update-nvidia-driver-453)
+- [UV Mapping in Mini Micro](https://dev.to/joestrout/uv-mapping-in-mini-micro-2eoa)
+- [Genie 3: A New Era in Interactive World Models](https://dev.to/projedefteri/genie-3-a-new-era-in-interactive-world-models-4882)
+- [LLMs Aren’t the Problem. Your Prompts Are.](https://dev.to/copyleftdev/llms-arent-the-problem-your-prompts-are-371n)
 - [Alexander](https://dev.to/rakesh_singh_7f17c0b6eaea/alexander-2o1o)
-- [Architectural Trade-offs: Making the Right Decision for Your Context](https://dev.to/horse_patterns/architectural-trade-offs-making-the-right-decision-for-your-context-3e7i)
-- [Flutter in 2024: 5 Surprising Use Cases Beyond Mobile Apps](https://dev.to/fang_guoming_02274725623/flutter-in-2024-5-surprising-use-cases-beyond-mobile-apps-1bem)
-- [#002: The Art of Transformation – Type Conversion &amp; Operations in JavaScript 🔄➕](https://dev.to/h_savani/level-2-the-art-of-transformation-type-conversion-operations-in-javascript-66l)
-- [No Fancy Setup, No Bootcamp – Just Grit, Code &amp; Faith](https://dev.to/saifiimuhammad/no-fancy-setup-no-bootcamp-just-grit-code-faith-5663)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
