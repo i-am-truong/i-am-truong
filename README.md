@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [‘King of the Hill&#39; Showrunner on Writing Hank Hill for a Different Era](https://dev.to/popcorn_tv/king-of-the-hill-showrunner-on-writing-hank-hill-for-a-different-era-4eb4)
-- [‘South Park&#39; to Exit HBO Max on August 5 as Show Consolidates Library on Paramount+](https://dev.to/popcorn_tv/south-park-to-exit-hbo-max-on-august-5-as-show-consolidates-library-on-paramount-31b3)
-- [The Rings Of Power Season 3 Enters Production As Amazon Teases Sauron&#39;s Return](https://dev.to/popcorn_tv/the-rings-of-power-season-3-enters-production-as-amazon-teases-saurons-return-o76)
-- [Stephen Colbert To Guest Star As a Late-Night Host In An Upcoming Episode of ‘Elsbeth&#39;](https://dev.to/popcorn_tv/stephen-colbert-to-guest-star-as-a-late-night-host-in-an-upcoming-episode-of-elsbeth-4d7p)
-- [Popular 1980s actor Loni Anderson of the hit TV series ‘WKRP in Cincinnati&#39; has died](https://dev.to/popcorn_tv/popular-1980s-actor-loni-anderson-of-the-hit-tv-series-wkrp-in-cincinnati-has-died-2jck)
+- [🚀 Deploy and Manage Policies Across Multiple Clusters with RHACM – No Code Needed!](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-and-manage-policies-across-multiple-clusters-with-rhacm-no-code-needed-2hpg)
+- [IGN: Alien: Earth | Full Season, Non-Spoiler Review](https://dev.to/gg_news/ign-alien-earth-full-season-non-spoiler-review-51lj)
+- [IGN: The First Descendant - Official Nell Character Reveal Trailer](https://dev.to/gg_news/ign-the-first-descendant-official-nell-character-reveal-trailer-19im)
+- [Kimi K2 vs Grok 4: Which AI Model Codes Better?](https://dev.to/forgecode/kimi-k2-vs-grok-4-which-ai-model-codes-better-31nb)
+- [Hit a great cursor workflow yesterday — most productive vibe coding session to date](https://dev.to/ben/hit-a-great-cursor-workflow-yesterday-most-productive-vibe-coding-session-to-date-3l1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
