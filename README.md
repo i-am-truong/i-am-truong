@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How My Approach to Product Has Changed &lpar;and Why I No Longer Start in Figma&rpar;](https://dev.to/supeergabs/how-my-approach-to-product-has-changed-and-why-i-no-longer-start-in-figma-15f8)
+- [How We’re Building a Social Media Empire with Rails and Sidekiq](https://dev.to/shahershamroukh/how-were-building-a-social-media-empire-with-rails-and-sidekiq-5p0)
+- [Building One Agent to Play All Games](https://dev.to/shehab_yasser_44585179728/building-one-agent-to-play-all-games-4j0d)
 - [Tutorial: Alpine Linux on Raspberry Pi 3 with Syncthing, OpenVPN and Docker](https://dev.to/ivajofranc/tutorial-alpine-linux-on-raspberry-pi-3-with-syncthing-openvpn-and-docker-2932)
 - [Claude Opus 4.1 Is Here And What It Means for AI Development](https://dev.to/alifar/claude-opus-41-is-here-what-it-means-for-ai-development-40da)
-- [Tutorial: Alpine Linux en Raspberry Pi 3 con Syncthing, OpenVPN y Docker](https://dev.to/ivajofranc/tutorial-alpine-linux-en-raspberry-pi-3-con-syncthing-openvpn-y-docker-3h61)
-- [Website Done. Time to Move Forward #30](https://dev.to/0xj0n1/website-done-time-to-move-forward-30-4en8)
-- [Onda de Palavras com C++ e SFML](https://dev.to/marcosplusplus/onda-de-palavras-com-c-e-sfml-34o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
