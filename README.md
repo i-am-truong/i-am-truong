@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Caching: How Redis 8 Became Our Forum&#39;s Primary Database and AI Engine](https://dev.to/prema_ananda/beyond-caching-how-redis-8-became-our-forums-primary-database-and-ai-engine-1m5)
-- [Laravel vs. Symfony vs. Plain PHP: The Right Choice for Your Enterprise Project](https://dev.to/jeandevbr/laravel-vs-symfony-vs-plain-php-the-right-choice-for-your-enterprise-project-ij8)
-- [Huffman coding in Javascript](https://dev.to/vincent_corbee/huffman-coding-in-javascript-245c)
-- [Build an App with HellaJS](https://dev.to/omilli/build-an-app-with-hellajs-4d79)
-- [Top Node.js Security Risks and How to Mitigate Them](https://dev.to/sanjay_singhania/top-nodejs-security-risks-and-how-to-mitigate-them-25e9)
+- [Building an Admin Dashboard With Live Smart Contract Data](https://dev.to/vadym_info_polus/building-an-admin-dashboard-with-live-smart-contract-data-4n39)
+- [State Management in Vue 3 with Pinia: The Successor to Vuex](https://dev.to/djamware_tutorial_eba1a61/state-management-in-vue-3-with-pinia-the-successor-to-vuex-1873)
+- [Best tips to get better at phrasing?](https://dev.to/highcenburg/best-tips-to-get-better-at-phrasing-lco)
+- [The Hidden Behavior of C# Records](https://dev.to/antongrebenkin/the-hidden-behavior-of-c-records-59nc)
+- [Tiny tool, big help: automatically choose the best Ollama model for your setup](https://dev.to/pavelevich/tiny-tool-big-help-automatically-choose-the-best-ollama-model-for-your-setup-4398)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
