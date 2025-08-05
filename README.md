@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Translation Technology for Remote Teams: Considerations](https://dev.to/liamcorwin/translation-technology-for-remote-teams-considerations-3j3m)
-- [🛡️ Kubernetes Pod Security Best Practices: 13 Key Strategies for Hardening Your Workloads](https://dev.to/shubhamkcloud/kubernetes-pod-security-best-practices-13-key-strategies-for-hardening-your-workloads-f0a)
-- [What is Network Scanning? 5 Best Automated Network Scanning Tools](https://dev.to/emily_assetloom/what-is-network-scanning-5-best-automated-network-scanning-tools-4b3i)
-- [Kubernetes in Depth - Storage, Security, and Advanced Features](https://dev.to/andrey_s/kubernetes-in-depth-storage-security-and-advanced-features-241i)
-- [Web Development with Django](https://dev.to/godofgeeks/web-development-with-django-4fll)
+- [What’s the Most Underrated DevOps Skill You’ve Learned &lpar;and How Did You Learn It&rpar;?](https://dev.to/devopsdaily/whats-the-most-underrated-devops-skill-youve-learned-and-how-did-you-learn-it-5a7i)
+- [Cloudflare Logs: Not Just for Breakfast Anymore 🥞](https://dev.to/pmdroid/cloudflare-logs-not-just-for-breakfast-anymore-10ne)
+- [Building, Securing, and Deploying a Go App with GitLab CI/CD: README.md](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-readmemd-5e6c)
+- [I Built My Own Cloud Dev Platform to Fix Everything That Annoyed Me About Coding](https://dev.to/exoticonix/i-built-my-own-cloud-dev-platform-to-fix-everything-that-annoyed-me-about-coding-l2b)
+- [The 4 Key Agile Ceremonies Every Team Should Master](https://dev.to/taskford/the-4-key-agile-ceremonies-every-team-should-master-4mj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
