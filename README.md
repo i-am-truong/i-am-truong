@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Caching: How Redis 8 Became Our Forum&#39;s Primary Database and AI Engine](https://dev.to/prema_ananda/beyond-caching-how-redis-8-became-our-forums-primary-database-and-ai-engine-1m5)
+- [Laravel vs. Symfony vs. Plain PHP: The Right Choice for Your Enterprise Project](https://dev.to/jeandevbr/laravel-vs-symfony-vs-plain-php-the-right-choice-for-your-enterprise-project-ij8)
+- [Huffman coding in Javascript](https://dev.to/vincent_corbee/huffman-coding-in-javascript-245c)
+- [Build an App with HellaJS](https://dev.to/omilli/build-an-app-with-hellajs-4d79)
 - [Top Node.js Security Risks and How to Mitigate Them](https://dev.to/sanjay_singhania/top-nodejs-security-risks-and-how-to-mitigate-them-25e9)
-- [Building REST APIs That Play Nice with Excel](https://dev.to/saudibytes/building-rest-apis-that-play-nice-with-excel-l3d)
-- [idnex4](https://dev.to/armaankhan8270/idnex4-2443)
-- [UTF-16 to UTF-8 in Javascript](https://dev.to/vincent_corbee/utf-16-to-utf-8-in-javascript-17j7)
-- [The Tradeoffs of Technical Ownership](https://dev.to/remejuan/the-tradeoffs-of-technical-ownership-47dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
