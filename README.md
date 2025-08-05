@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Onda de Palavras com C++ e SFML](https://dev.to/marcosplusplus/onda-de-palavras-com-c-e-sfml-34o3)
 - [Weekly update #3](https://dev.to/abytebybyte/weekly-update-3-5c5d)
 - [Securing a VPS: Essential Hardening Steps for Web Developers &lpar;Part 1&rpar;](https://dev.to/tomas223/securing-a-vps-essential-hardening-steps-for-web-developers-part-1-242j)
 - [How Crypto Drainers Became Criminal SaaS: A Deep Dive into Web3 Theft Infrastructure](https://dev.to/0trust0day/how-crypto-drainers-became-criminal-saas-a-deep-dive-into-web3-theft-infrastructure-15jc)
 - [Framework novo todo mês: evolução ou roda com adesivo novo?](https://dev.to/filipi_firmino_dev/framework-novo-todo-mes-evolucao-ou-roda-com-adesivo-novo-1k6l)
-- [OpenAI Releases GPT-OSS: What It Means for AI Developers and Agent Builders](https://dev.to/ialijr/openai-releases-gpt-oss-what-it-means-for-ai-developers-and-agent-builders-pgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
