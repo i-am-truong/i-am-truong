@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The $600 Monitor That Fixed My 10-Hour Coding Days](https://dev.to/shayy/the-600-monitor-that-fixed-my-10-hour-coding-days-13c7)
-- [Open to Collaborate – UI/UX Designer &amp; Frontend Developer &lpar;Volunteer&rpar;](https://dev.to/maaloum_rihem_56809e34901/open-to-collaborate-uiux-designer-frontend-developer-volunteer-354o)
-- [[Boost]](https://dev.to/skylarmb/-45l1)
-- [OpenAI Just Went Open Source &lpar;For Real This Time&rpar;](https://dev.to/miguelparacuellos/openai-just-went-open-source-for-real-this-time-2dao)
-- [Azure DevOps + GitHub + Copilot: O Caminho para a IA Agentiva](https://dev.to/angelo_matias/azure-devops-github-copilot-o-caminho-para-a-ia-agentiva-59cd)
+- [Folks here will like this](https://dev.to/ben/folks-here-will-like-this-1f12)
+- [Amazon Bedrock with JavaScript: Text, Chat, Streaming &amp; Structured Output via SDK and REST](https://dev.to/dushmanta/amazon-bedrock-with-javascript-text-chat-streaming-structured-output-via-sdk-and-rest-38cm)
+- [AI-Generated Code in 2025: The Silent Security Crisis Developers Can’t Ignore](https://dev.to/arkhan/ai-generated-code-in-2025-the-silent-security-crisis-developers-cant-ignore-4de0)
+- [Adobe Creative Cloud: From Studio Mess to Cinematic Magic 🎥 | Adobe Stock Workflow Hack](https://dev.to/design_youtube/adobe-creative-cloud-from-studio-mess-to-cinematic-magic-adobe-stock-workflow-hack-egg)
+- [IGN: Eden - Official Trailer &lpar;2025&rpar; Jude Law, Ana de Armas, Vanessa Kirby](https://dev.to/gg_news/ign-eden-official-trailer-2025-jude-law-ana-de-armas-vanessa-kirby-4bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
