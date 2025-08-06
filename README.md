@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Do You Know The LATERAL JOIN In SQL?](https://dev.to/mayallo/do-you-know-the-lateral-join-in-sql-489l)
-- [What Is a Soft Launch? A Beginner’s Guide to Testing New Ideas](https://dev.to/uisaleh/what-is-a-soft-launch-a-beginners-guide-to-testing-new-ideas-5da2)
-- [📱 Optimizing React Apps for Mobile Performance: A Practical Guide](https://dev.to/aamna_majid/optimizing-react-apps-for-mobile-performance-a-practical-guide-1dco)
-- [Refactoring Complex Conditional Logic with State Machines: Online Survey Form Improvement Case Study](https://dev.to/0rok/refactoring-complex-conditional-logic-with-state-machines-online-survey-form-improvement-case-study-36lp)
-- [Outgassing in PCB Manufacturing](https://dev.to/frank_1871bc3c55f35370df3/outgassing-in-pcb-manufacturing-6fl)
+- [5 Ways Your Translation Processes Pose a Security Risk](https://dev.to/colinreed/5-ways-your-translation-processes-pose-a-security-risk-3ej2)
+- [Nexus Framework: Coordinating Multiple Scrum Teams](https://dev.to/dct_technology/nexus-framework-coordinating-multiple-scrum-teams-1m0a)
+- [It&#39;s Alive! Project KARL is Now Open Source.](https://dev.to/theaniketraj/its-alive-project-karl-is-now-open-source-4mpb)
+- [Self-Awareness Unlocked: Build a Better, Stronger You from Within](https://dev.to/jhanvi_shukla/self-awareness-unlocked-build-a-better-stronger-you-from-within-pfm)
+- [The CAP Theorem: A Guide for Developers Who Build Real-World Systems](https://dev.to/chetansingh63/the-cap-theorem-a-guide-for-developers-who-build-real-world-systems-2d74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
