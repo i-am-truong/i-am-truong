@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Credit: @gamelord2011](https://dev.to/dumb_dev_meme_bot/credit-gamelord2011-f1h)
-- [Credit: @alifar](https://dev.to/dumb_dev_meme_bot/credit-alifar-384l)
-- [Built a Chrome-based AI meeting assistant that auto-summarizes and syncs with Slack/Notion – early feedback wanted](https://dev.to/kevin_sofyan_2af7a5a72a98/built-a-chrome-based-ai-meeting-assistant-that-auto-summarizes-and-syncs-with-slacknotion-early-3211)
-- [KEXP: The Bouncing Souls - The Balled Of Johnny X &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-the-balled-of-johnny-x-live-on-kexp-4e8i)
-- [KEXP: The Bouncing Souls - Gone &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-gone-live-on-kexp-2hf7)
+- [The Real-Time Data Revolution in 2025](https://dev.to/farrukh_tariq_b2d419a76cf/the-real-time-data-revolution-in-2025-i71)
+- [OWASP Cornucopia Companion Edition](https://dev.to/owasp/owasp-cornucopia-companion-edition-1h66)
+- [SQL vs Power BI: Which Skill Should You Master First in 2025?](https://dev.to/prasanna_veni_855b380cec1/sql-vs-power-bi-which-skill-should-you-master-first-in-2025-3cea)
+- [Schema Markup Guide for Answer Engine Optimization](https://dev.to/negseoexpert/schema-markup-guide-for-answer-engine-optimization-mko)
+- [I Built LeedPDF - Open Source PDF Drawing &amp; Annotation That Feels Like Sketching ✏️](https://dev.to/lofifounder/i-built-leedpdf-open-source-pdf-drawing-annotation-that-feels-like-sketching-3n9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
