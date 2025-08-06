@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Networking Crash Course: My Learning Journey](https://dev.to/faithgoodness51/networking-crash-course-my-learning-journey-24pe)
-- [Modern ReactJS Tutorial](https://dev.to/rahucode/modern-reactjs-tutorial-28jm)
-- [How Cloud Storage Works Behind the Scenes &lpar;Object vs Block vs File - A Backend Developer&#39;s Guide&rpar;](https://dev.to/lyushher/how-cloud-storage-works-behind-the-scenes-object-vs-block-vs-file-a-backend-developers-guide-gh6)
-- [Iniciando Meus Estudos no Bootcamp Suzano pela DIO 🚀](https://dev.to/esthevamnascimento/iniciando-meus-estudos-no-bootcamp-suzano-pela-dio-4f6i)
-- [Adaptive VR Scenario Generation for Firefighter Cognitive Load Management via Reinforcement Learning](https://dev.to/freederia-research/adaptive-vr-scenario-generation-for-firefighter-cognitive-load-management-via-reinforcement-learning-2j8h)
+- [Discover the Power of Productivity with The Key Tools](https://dev.to/jesus_camacho_d5e25966c83/discover-the-power-of-productivity-with-the-key-tools-2jop)
+- [How to Build a Telegram Bot That Tracks Token Unlocks Using DropsTab API](https://dev.to/krisvarley/how-to-build-a-telegram-bot-that-tracks-token-unlocks-using-dropstab-api-21al)
+- [Proxies and Reverse Proxies: Your Guide to the Internet’s Middlemen , day 23 of system design basics](https://dev.to/vincenttommi/proxies-and-reverse-proxies-your-guide-to-the-internets-middlemen-day-23-of-system-design-basics-568a)
+- [You’re Not Just a Developer — You’re a Silent Architect of the Future](https://dev.to/i_am_yaseen/youre-not-just-a-developer-youre-a-silent-architect-of-the-future-5dpa)
+- [Understanding IP Addresses: A Beginner&#39;s Guide to How Devices Connect , System basics day 22](https://dev.to/vincenttommi/understanding-ip-addresses-a-beginners-guide-to-how-devices-connect-system-basics-day-22-3n06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
