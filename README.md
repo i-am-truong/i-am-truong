@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to Creating a Beautiful Documentation Site with Mintlify](https://dev.to/therealmrmumba/a-step-by-step-guide-to-creating-a-beautiful-documentation-site-with-mintlify-532m)
-- [Build or Outsource? Making the Right Call for AI/ML Product Development](https://dev.to/arbisoftcompany/build-or-outsource-making-the-right-call-for-aiml-product-development-4b9d)
-- [UK NutriHealth AI: NHS-Style Health Assessment Platform Built with Google AI Studio](https://dev.to/shiva_shanker_k/uk-nutrihealth-ai-nhs-style-health-assessment-platform-built-with-google-ai-studio-410k)
-- [Fixing Docker &quot;Permission Denied&quot; Error After Adding User to Docker Group](https://dev.to/vincenttommi/fixing-docker-permission-denied-error-after-adding-user-to-docker-group-4g82)
-- [Building SignSpeak: Real-time ASL Recognition with React and AI 🤟](https://dev.to/shiva_shanker_k/building-signspeak-real-time-asl-recognition-with-react-and-ai-4a4d)
+- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/teamcamp/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-47ch)
+- [Kubernetes Ingress Playlist – Part 3: Routing in NGINX Ingress Controller](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-3-routing-in-nginx-ingress-controller-1jib)
+- [这个仓库堪称造轮子的鼻祖，建议看看！](https://dev.to/immerse/zhe-ge-cang-ku-kan-cheng-zao-lun-zi-de-bi-zu-jian-yi-kan-kan--aa9)
+- [Building EVI : An AI-Powered Economic Vitality Analysis Platform with Kiro](https://dev.to/kirodotdev/building-evi-an-ai-powered-economic-vitality-analysis-platform-with-kiro-4fch)
+- [How I Built a Platform to Instantly Internationalize React and Next.js Projects](https://dev.to/digitaldev/how-i-built-a-platform-to-instantly-internationalize-react-and-nextjs-projects-3776)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
