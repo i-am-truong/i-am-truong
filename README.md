@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Folks here will like this](https://dev.to/ben/folks-here-will-like-this-1f12)
-- [Amazon Bedrock with JavaScript: Text, Chat, Streaming &amp; Structured Output via SDK and REST](https://dev.to/dushmanta/amazon-bedrock-with-javascript-text-chat-streaming-structured-output-via-sdk-and-rest-38cm)
-- [AI-Generated Code in 2025: The Silent Security Crisis Developers Can’t Ignore](https://dev.to/arkhan/ai-generated-code-in-2025-the-silent-security-crisis-developers-cant-ignore-4de0)
-- [Adobe Creative Cloud: From Studio Mess to Cinematic Magic 🎥 | Adobe Stock Workflow Hack](https://dev.to/design_youtube/adobe-creative-cloud-from-studio-mess-to-cinematic-magic-adobe-stock-workflow-hack-egg)
-- [IGN: Eden - Official Trailer &lpar;2025&rpar; Jude Law, Ana de Armas, Vanessa Kirby](https://dev.to/gg_news/ign-eden-official-trailer-2025-jude-law-ana-de-armas-vanessa-kirby-4bj)
+- [🧠 GenAI as a Backend Engineer: Part 1 - Model Serving](https://dev.to/yuvraj2112/genai-as-a-backend-engineer-part-1-model-serving-17ko)
+- [The Subtle Art of Herding Cats: Show, Don’t Tell: Teaching AI by Example &lpar;Part 2 of 4&rpar;](https://dev.to/paul_coles_633f698b10fd6e/the-subtle-art-of-herding-cats-show-dont-tell-teaching-ai-by-example-part-2-of-4-ing)
+- [🚀 Build. Sell. Repeat. The Fastest Way to Product Profits Using Public APIs](https://dev.to/0x7b-shop/build-sell-repeat-the-fastest-way-to-product-profits-using-public-apis-166m)
+- [AI Engineering in 2025: From RAG 2.0 to Autonomous Agent Stacks](https://dev.to/dmitrybaraishuk/ai-engineering-in-2025-from-rag-20-to-autonomous-agent-stacks-12hi)
+- [How to create a window 10 virtual machine and attach a data disk to it.](https://dev.to/onyemuche/how-to-create-a-window-10-virtual-machine-and-attach-a-data-disk-to-it-36a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
