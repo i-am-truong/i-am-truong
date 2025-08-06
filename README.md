@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Read Phenomena in Databases](https://dev.to/abhivyaktii/understanding-read-phenomena-in-databases-50mk)
-- [3 AI Tools I’m Loving Right Now &lpar;August Edition&rpar;](https://dev.to/jaideepparashar/3-ai-tools-im-loving-right-now-august-edition-4ee5)
-- [SafeLine vs Sucuri WAF: Which One Is Better for Your Website Security?](https://dev.to/sharon_42e16b8da44dabde6d/safeline-vs-sucuri-waf-which-one-is-better-for-your-website-security-1110)
-- [🚀 Secure Your Scripts with AWS SSM Run Command + Parameter Interpolation](https://dev.to/latchudevops/secure-your-scripts-with-aws-ssm-run-command-parameter-interpolation-2pg6)
-- [Arrays Vs Lists](https://dev.to/zrm9901/arrays-vs-lists-4kgo)
+- [5 Early Warning Signs Your Dev Team is Burning Out &lpar;And How to Fix It Before It&#39;s Too Late&rpar;](https://dev.to/teamcamp/5-early-warning-signs-your-dev-team-is-burning-out-and-how-to-fix-it-before-its-too-late-54f2)
+- [Open AI Releases Open Models](https://dev.to/francescoxx/open-ai-releases-open-models-1m19)
+- [Am I Getting Lazy with AI? A Software Engineer’s Honest Reflection](https://dev.to/luke_tong_d4f228249f32d86/am-i-getting-lazy-with-ai-a-software-engineers-honest-reflection-4c4f)
+- [From LPG to Hydrogen: Engineering Safe Transitions for the U.S. Clean Energy Future](https://dev.to/adarchowdhury/from-lpg-to-hydrogen-engineering-safe-transitions-for-the-us-clean-energy-future-2jfn)
+- [Preventing Industrial Accidents Through Data: How Predictive Maintenance is Transforming Energy Terminals](https://dev.to/adarchowdhury/preventing-industrial-accidents-through-data-how-predictive-maintenance-is-transforming-energy-409n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
