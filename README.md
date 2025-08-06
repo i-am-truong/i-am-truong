@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mocks, Stubs, and Contract Testing: Explanation with Examples](https://dev.to/ann55/mocks-stubs-and-contract-testing-explanation-with-examples-51n0)
-- [How I Built an Infinite Scroll Photo Gallery with Vue 3 and the Unsplash API](https://dev.to/bunmioye/how-i-built-an-infinite-scroll-photo-gallery-with-vue-3-and-the-unsplash-api-21np)
-- [Customer Relationship Software for Small Businesses](https://dev.to/kazlauskas/customer-relationship-software-for-small-businesses-3d11)
-- [How I created and published a VS Code theme](https://dev.to/mike_andreuzza/how-i-created-and-published-a-vs-code-theme-3p5i)
-- [The Best React Native Resources Every Developer Should Know](https://dev.to/iredox10/the-best-react-native-resources-every-developer-should-know-lo1)
+- [¿Qué nos enseña el fiasco de repl.it?](https://dev.to/baltasarq/que-nos-ensena-el-fiasco-de-replit-4gbe)
+- [No Safeguards, No Recourse: Why CeFi Still Fails in 2025](https://dev.to/cryptoedu/no-safeguards-no-recourse-why-cefi-still-fails-in-2025-4d1k)
+- [Mastering the Art: Best Practices in Outbound B2B Appointment Setting](https://dev.to/leo_johnson_e34af4a6d9bd9/mastering-the-art-best-practices-in-outbound-b2b-appointment-setting-1f35)
+- [JavaScript in 1 Day – Quick Beginner Guide](https://dev.to/swetha_palani_1547914a082/javascript-in-1-day-quick-beginner-guide-49e5)
+- [Free Online Find and Replace Tool for Text – No Signup, No Ads](https://dev.to/rajkumarlogre/free-online-find-and-replace-tool-for-text-no-signup-no-ads-4a84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
