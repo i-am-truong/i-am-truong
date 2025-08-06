@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automated Mineralogical Classification via Hyperspectral Data Fusion &amp; Bayesian Inference](https://dev.to/freederia-research/automated-mineralogical-classification-via-hyperspectral-data-fusion-bayesian-inference-3kob)
+- [How to Reset Your WSL Password: A Beginner&#39;s Guide to Getting Back Into Your Linux Environment](https://dev.to/analystgatitu/how-to-reset-your-wsl-password-a-beginners-guide-to-getting-back-into-your-linux-environment-269k)
 - [Using MCP with Jupyter Notebooks: Agent‑Driven Workflow in Python](https://dev.to/om_shree_0709/using-mcp-with-jupyter-notebooks-agent-driven-workflow-in-python-1d4f)
+- [LocalStorage vs SessionStorage vs Cookies: A Complete Guide 🗄️](https://dev.to/hmpljs/localstorage-vs-sessionstorage-vs-cookies-a-complete-guide-3m6d)
 - [Structured and Unstructured Tasks in Swift](https://dev.to/arshtechpro/structured-and-unstructured-tasks-in-swift-5cgi)
-- [Implement security through a pipeline using Azure DevOps. Part1](https://dev.to/aneneemmanuel_1/implement-security-through-a-pipeline-using-azure-devops-part1-50ad)
-- [Adam Neely: The Ludacris song that BROKE my brain](https://dev.to/music_youtube/adam-neely-the-ludacris-song-that-broke-my-brain-ogm)
-- [IGN: Wicked: For Good - Official Behind The Scenes Clip &lpar;2025&rpar; Cynthia Erivo, Ariana Grande](https://dev.to/gg_news/ign-wicked-for-good-official-behind-the-scenes-clip-2025-cynthia-erivo-ariana-grande-2ane)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
