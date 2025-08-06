@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP in Data Science: Streamlining AI Workflows](https://dev.to/om_shree_0709/mcp-in-data-science-streamlining-ai-workflows-4223)
-- [Stuff we shipped in July](https://dev.to/kinde/stuff-we-shipped-in-july-39e8)
-- [Collaboration need](https://dev.to/vidakhoshpey22/collaboration-need-3b1n)
-- [AI Meets Cloud: My Experience Passing Oracle’s AI Foundations Associate Exam](https://dev.to/kamaumbuguadev/ai-meets-cloud-my-experience-passing-oracles-ai-foundations-associate-exam-379)
-- [I Was Tired of Proving I Wasn’t Lying So I Built Devlog!](https://dev.to/ashutoshbhandari5/i-was-tired-of-proving-i-wasnt-lying-so-i-built-devlog-2hg5)
+- [My Dev Agency Website in Progress – Would Love Your Feedback!](https://dev.to/akram_bgh_9e8b40f1e96af39/my-dev-agency-website-in-progress-would-love-your-feedback-2icj)
+- [Alec Steele: Turning a Picture into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-into-a-damascus-pattern-1m3o)
+- [BrandSpark AI](https://dev.to/ik_8a78062fd65be769dd835/brandspark-ai-3pb0)
+- [IGN: Marvel Rivals: Blade Gameplay - Full Move Set Breakdown](https://dev.to/gg_news/ign-marvel-rivals-blade-gameplay-full-move-set-breakdown-2bp8)
+- [IGN: Virtua Fighter Interview - Pushing Reality and Innovation | EVO 2025](https://dev.to/gg_news/ign-virtua-fighter-interview-pushing-reality-and-innovation-evo-2025-3858)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
