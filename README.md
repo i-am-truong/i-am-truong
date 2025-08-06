@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring PhantomData: Type Safety Without Runtime Cost](https://dev.to/sgchris/exploring-phantomdata-type-safety-without-runtime-cost-3bhf)
-- [Understanding Object-Oriented Programming in the Context of Automation QA](https://dev.to/idavidov13/understanding-object-oriented-programming-in-the-context-of-automation-qa-41ff)
-- [AI-Driven Content Personalization with Drupal: 2025 Trends &amp; Insights](https://dev.to/addwebsolutionpvtltd/ai-driven-content-personalization-with-drupal-2025-trends-insights-55ka)
-- [Hotel Brendle orchestrator app](https://dev.to/frosty_fucker_7d06058f3d8/hotel-brendle-orchestrator-app-5emk)
-- [TypeScript Frustration TSFR-001 : Yarn 4 / PnP and dependency resolution](https://dev.to/ddewaele/typescript-frustration-tsfr-001-yarn-4-pnp-and-dependency-resolution-1i8)
+- [A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/a-lightweight-solution-to-speed-up-queries-by-dumping-data-to-files-f1a)
+- [Generative AI Leader Preparation 2025](https://dev.to/yoga0022/generative-ai-leader-preparation-2025-344c)
+- [AIoT Explained: Bringing Machine Intelligence to IoT Systems](https://dev.to/zediot/aiot-explained-bringing-machine-intelligence-to-iot-systems-e5e)
+- [Laravel AI Revolution: How LaraCopilot Changing Game](https://dev.to/avinashvagh/laravel-ai-revolution-how-laracopilot-changing-game-54jn)
+- [🤯 Why Your RAG System with FAISS Is Still Failing — and How to Actually Fix It](https://dev.to/onestardao/why-your-rag-system-with-faiss-is-still-failing-and-how-to-actually-fix-it-3114)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
