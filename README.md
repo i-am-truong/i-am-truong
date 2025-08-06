@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a multi-page recipe website with search and filtering](https://dev.to/frontendmentor/build-a-multi-page-recipe-website-with-search-and-filtering-4hpe)
-- [AI Isn&#39;t Writing 90% of Your Code &lpar;But It Should Be Making You Money&rpar;](https://dev.to/egledigital/ai-isnt-writing-90-of-your-code-but-it-should-be-making-you-money-30cf)
-- [AI &amp; the Aziro Vision: A Look Into the Future of Intelligent Enterprises](https://dev.to/azirotechnologies/ai-the-aziro-vision-a-look-into-the-future-of-intelligent-enterprises-2ap8)
-- [AI &amp; the Aziro Vision: A Look Into the Future of Intelligent Enterprises](https://dev.to/azirotechnologies/ai-the-aziro-vision-a-look-into-the-future-of-intelligent-enterprises-24c1)
-- [Puppet Enterprise: New Releases and a New Product Lifecycle](https://dev.to/puppet/puppet-enterprise-new-releases-and-a-new-product-lifecycle-4knn)
+- [Facades in laravel for intermediate developers](https://dev.to/ahmedraza_fyntune/facades-in-laravel-for-intermediate-developers-36j7)
+- [FROM MILITARY TYPIST TO FULL-TIME SOFTWARE ENGINEER: HOW I BECAME A DEVELOPER](https://dev.to/xenxei46/from-military-typist-to-full-time-software-engineer-how-i-became-a-developer-3o12)
+- [A Deep Dive into the John Carmack&#39;s Interview w/ Lex Fridman](https://dev.to/yigit-konur/a-deep-dive-into-the-john-carmacks-interview-w-lex-fridman-4mkn)
+- [Mastering LLM Temperature: A Step-by-Step Guide](https://dev.to/uhasker/mastering-llm-temperature-a-step-by-step-guide-5166)
+- [🧠 React.memo — Boost Performance by Preventing Unnecessary Renders](https://dev.to/aman_kureshi_/reactmemo-boost-performance-by-preventing-unnecessary-renders-2po4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
