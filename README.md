@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mimicking the Human Brain: Neuromorphic Computing](https://dev.to/techieflynn/mimicking-the-human-brain-neuromorphic-computing-28lp)
-- [Scar - A programming language for easy concurrency and parallelism](https://dev.to/navidm/scar-a-programming-language-for-easy-concurrency-and-parallelism-4il8)
-- [KEXP: The Bouncing Souls - United &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-united-live-on-kexp-5e44)
-- [KEXP: The Bouncing Souls - Sing Along Forever &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-sing-along-forever-live-on-kexp-5aka)
-- [KEXP: The Bouncing Souls - Hopeless Romantic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-hopeless-romantic-live-on-kexp-12ce)
+- [Looking for a Kompyte Alternative? Here’s Why We Built Playwise HQ Instead](https://dev.to/paultowers/looking-for-a-kompyte-alternative-heres-why-we-built-playwise-hq-instead-44ce)
+- [Cloud migration: how to competently transfer your IT infrastructure to the cloud](https://dev.to/vilengyltd/cloud-migration-how-to-competently-transfer-your-it-infrastructure-to-the-cloud-3l5a)
+- [Why I Changed the Name from BizTracker to BizKhata — A New Chapter Begins 🚀](https://dev.to/pjdeveloper896/why-i-changed-the-name-from-biztracker-to-bizkhata-a-new-chapter-begins-pdp)
+- [Software Testing](https://dev.to/soubmukh/software-testing-15e6)
+- [Simple Google Maps Scraper Using Playwright](https://dev.to/hasdata_com/simple-google-maps-scraper-using-playwright-e72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
