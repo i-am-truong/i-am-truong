@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Online Exam Portal](https://dev.to/siddharth2k14/online-exam-portal-2njo)
-- [Eatease Build in public](https://dev.to/vedanix/eatease-build-in-public-50a5)
-- [Discover the Power of Productivity with The Key Tools](https://dev.to/jesus_camacho_d5e25966c83/discover-the-power-of-productivity-with-the-key-tools-2jop)
-- [How to Build a Telegram Bot That Tracks Token Unlocks Using DropsTab API](https://dev.to/krisvarley/how-to-build-a-telegram-bot-that-tracks-token-unlocks-using-dropstab-api-21al)
-- [Proxies and Reverse Proxies: Your Guide to the Internet’s Middlemen , day 23 of system design basics](https://dev.to/vincenttommi/proxies-and-reverse-proxies-your-guide-to-the-internets-middlemen-day-23-of-system-design-basics-568a)
+- [Adam Neely: The Ludacris song that BROKE my brain](https://dev.to/music_youtube/adam-neely-the-ludacris-song-that-broke-my-brain-ogm)
+- [IGN: Wicked: For Good - Official Behind The Scenes Clip &lpar;2025&rpar; Cynthia Erivo, Ariana Grande](https://dev.to/gg_news/ign-wicked-for-good-official-behind-the-scenes-clip-2025-cynthia-erivo-ariana-grande-2ane)
+- [IGN: Hamilton - Official Theatrical Release Trailer &lpar;2025&rpar; Lin-Manuel Miranda](https://dev.to/gg_news/ign-hamilton-official-theatrical-release-trailer-2025-lin-manuel-miranda-5foo)
+- [IGN: Battlefield 6 Open Beta Queue is Tens of Thousands of Players Deep - IGN Daily Fix](https://dev.to/gg_news/ign-battlefield-6-open-beta-queue-is-tens-of-thousands-of-players-deep-ign-daily-fix-5196)
+- [IGN: Cold Storage - Official Teaser Trailer &lpar;2026&rpar; Liam Neeson, Joe Keery, Georgina Campbell](https://dev.to/gg_news/ign-cold-storage-official-teaser-trailer-2026-liam-neeson-joe-keery-georgina-campbell-463b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
