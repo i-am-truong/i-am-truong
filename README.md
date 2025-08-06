@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Member](https://dev.to/abdallah_hussine_52c2bad5/new-member-1m0a)
-- [Amazon Elastic VMware Service &lpar;EVS&rpar; is Now GA — Run VMware Cloud Foundation Natively in AWS](https://dev.to/aws-builders/amazon-elastic-vmware-service-evs-is-now-ga-run-vmware-cloud-foundation-natively-in-aws-3c8o)
-- [The Real-Time Data Revolution in 2025](https://dev.to/farrukh_tariq_b2d419a76cf/the-real-time-data-revolution-in-2025-i71)
-- [OWASP Cornucopia Companion Edition](https://dev.to/owasp/owasp-cornucopia-companion-edition-1h66)
-- [Update 1.0 for osxiec](https://dev.to/okerew/update-10-for-osxiec-28i)
+- [7 Genius Pinterest Marketing Hacks to Skyrocket Your Traffic](https://dev.to/misseliza/7-genius-pinterest-marketing-hacks-to-skyrocket-your-traffic-2062)
+- [Test Survey](https://dev.to/ben/test-survey-1nfg)
+- [Top 7 Free MCP Servers in 2025 to Supercharge Your AI Apps — Open Source &amp; Ready to Use](https://dev.to/itshayder/top-7-free-mcp-servers-in-2025-to-supercharge-your-ai-apps-open-source-ready-to-use-5die)
+- [How JSX Turns Into JavaScript? Behind the Scenes!](https://dev.to/subashini_mathig_8c02f35/how-jsx-turns-into-javascript-behind-the-scenes-1pe9)
+- [Getting Started with EVS CLI: Manage Amazon Elastic VMware Service from the Command Line](https://dev.to/aws-builders/getting-started-with-evs-cli-manage-amazon-elastic-vmware-service-from-the-command-line-5cif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
