@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Exploring PhantomData: Type Safety Without Runtime Cost](https://dev.to/sgchris/exploring-phantomdata-type-safety-without-runtime-cost-3bhf)
+- [Understanding Object-Oriented Programming in the Context of Automation QA](https://dev.to/idavidov13/understanding-object-oriented-programming-in-the-context-of-automation-qa-41ff)
 - [AI-Driven Content Personalization with Drupal: 2025 Trends &amp; Insights](https://dev.to/addwebsolutionpvtltd/ai-driven-content-personalization-with-drupal-2025-trends-insights-55ka)
-- [🔍 AI Debugging: Fix Bugs Faster with GPT &amp; Friends](https://dev.to/manukumar07/ai-debugging-fix-bugs-faster-with-gpt-friends-13ik)
-- [HTML Traits](https://dev.to/jon49/html-traits-ea2)
-- [Unpacking Containers: CloudWatch’s Role in Docker Monitoring](https://dev.to/aarush07/unpacking-containers-cloudwatchs-role-in-docker-monitoring-12mi)
+- [Hotel Brendle orchestrator app](https://dev.to/frosty_fucker_7d06058f3d8/hotel-brendle-orchestrator-app-5emk)
+- [TypeScript Frustration TSFR-001 : Yarn 4 / PnP and dependency resolution](https://dev.to/ddewaele/typescript-frustration-tsfr-001-yarn-4-pnp-and-dependency-resolution-1i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
