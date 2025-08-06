@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Use Midjourney API for Text-to-Image Generation](https://dev.to/imaginepro/complete-guide-to-use-midjourney-api-for-text-to-image-generation-3hmc)
-- [Supporting SQL ops - Please Don&#39;t Be a Bottleneck](https://dev.to/alexantartico/supporting-sql-ops-please-dont-be-a-bottleneck-akb)
-- [10 Best WordPress Ecommerce Themes for 2025 &lpar;Free and Paid&rpar;](https://dev.to/serveravatar/10-best-wordpress-ecommerce-themes-for-2025-free-and-paid-4a9o)
-- [I Forgot to Release an AWS EIP — Here’s How It Cost Me &lpar;And How AWS Helped&rpar;](https://dev.to/nishath_jp/i-forgot-to-release-an-aws-eip-heres-how-it-cost-me-and-how-aws-helped-3jdb)
-- [Dart Lesson 23: Getting Started with Unit Testing — Ensuring Code Quality](https://dev.to/jige2025/dart-lesson-23-getting-started-with-unit-testing-ensuring-code-quality-408k)
+- [Mimicking the Human Brain: Neuromorphic Computing](https://dev.to/techieflynn/mimicking-the-human-brain-neuromorphic-computing-28lp)
+- [Scar - A programming language for easy concurrency and parallelism](https://dev.to/navidm/scar-a-programming-language-for-easy-concurrency-and-parallelism-4il8)
+- [KEXP: The Bouncing Souls - United &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-united-live-on-kexp-5e44)
+- [KEXP: The Bouncing Souls - Sing Along Forever &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-sing-along-forever-live-on-kexp-5aka)
+- [KEXP: The Bouncing Souls - Hopeless Romantic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-hopeless-romantic-live-on-kexp-12ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
