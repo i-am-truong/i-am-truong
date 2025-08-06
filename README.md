@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Early Warning Signs Your Dev Team is Burning Out &lpar;And How to Fix It Before It&#39;s Too Late&rpar;](https://dev.to/teamcamp/5-early-warning-signs-your-dev-team-is-burning-out-and-how-to-fix-it-before-its-too-late-54f2)
-- [Open AI Releases Open Models](https://dev.to/francescoxx/open-ai-releases-open-models-1m19)
-- [Am I Getting Lazy with AI? A Software Engineer’s Honest Reflection](https://dev.to/luke_tong_d4f228249f32d86/am-i-getting-lazy-with-ai-a-software-engineers-honest-reflection-4c4f)
-- [From LPG to Hydrogen: Engineering Safe Transitions for the U.S. Clean Energy Future](https://dev.to/adarchowdhury/from-lpg-to-hydrogen-engineering-safe-transitions-for-the-us-clean-energy-future-2jfn)
-- [Preventing Industrial Accidents Through Data: How Predictive Maintenance is Transforming Energy Terminals](https://dev.to/adarchowdhury/preventing-industrial-accidents-through-data-how-predictive-maintenance-is-transforming-energy-409n)
+- [JavaScript - Operators](https://dev.to/dharshinieswaran/javascript-operators-fc1)
+- [Best Practices in Software Development to Elevate Code Quality](https://dev.to/nencywilliams/best-practices-in-software-development-to-elevate-code-quality-1361)
+- [Functional Strategy Pattern: Unlocking Clean Code with Higher-Order Functions and Callbacks](https://dev.to/adityabhuyan/functional-strategy-pattern-unlocking-clean-code-with-higher-order-functions-and-callbacks-46ha)
+- [Top PowerBuilder Alternatives in 2025](https://dev.to/flynnjones/top-powerbuilder-alternatives-in-2025-5ah5)
+- [Top 10 AI Tools for Developers](https://dev.to/muhammadrameez/top-10-ai-tools-for-developers-1kc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
