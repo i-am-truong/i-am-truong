@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is AI Design Thinking? Your Guide to Human-Centered AI](https://dev.to/lollypopdesign/what-is-ai-design-thinking-your-guide-to-human-centered-ai-2895)
-- [The Art of Talking to AI: Prompts That Actually Work for Coding](https://dev.to/extinctsion/the-art-of-talking-to-ai-prompts-that-actually-work-for-coding-4fpe)
-- [Choropleth Maps in R , still hold the importance check them out today!!](https://dev.to/dipti_m_2e7ba36c478d1a48a/choropleth-maps-in-r-still-hold-the-importance-check-them-out-today-28id)
-- [Gmail API developer intro: spotting chatty threads](https://dev.to/googleworkspace/gmail-api-developer-intro-spotting-chatty-threads-jnp)
-- [[ForgeCode x OpenAI&#39;s Open Model]: Our First Impression with OpenAI’s GPT‑OSS Models](https://dev.to/forgecode/forgecode-x-openais-open-model-our-first-impression-with-openais-gpt-oss-models-48d2)
+- [OSPF Stub Area Optimization for External Route Propagation](https://dev.to/blackmanta/ospf-stub-area-optimization-for-external-route-propagation-3ke)
+- [Next.js v15.4.2-canary.20: Faster Builds &amp; Smarter Routing](https://dev.to/sbthemes/nextjs-v1542-canary20-faster-builds-smarter-routing-lm6)
+- [Calculating Life Path Numbers to Find Your Purpose](https://dev.to/lifepurposeapp/calculating-life-path-numbers-to-find-your-purpose-ej9)
+- [AS_PATH Prepending for Inbound Path Manipulation](https://dev.to/blackmanta/aspath-prepending-for-inbound-path-manipulation-2f7c)
+- [Day-74 Understanding Scanner Class and Exception Handling in Java](https://dev.to/tamilselvan1812/day-74-understanding-scanner-class-and-exception-handling-in-java-20bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
