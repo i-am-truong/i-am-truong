@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OSPF Stub Area Optimization for External Route Propagation](https://dev.to/blackmanta/ospf-stub-area-optimization-for-external-route-propagation-3ke)
-- [Next.js v15.4.2-canary.20: Faster Builds &amp; Smarter Routing](https://dev.to/sbthemes/nextjs-v1542-canary20-faster-builds-smarter-routing-lm6)
-- [Calculating Life Path Numbers to Find Your Purpose](https://dev.to/lifepurposeapp/calculating-life-path-numbers-to-find-your-purpose-ej9)
-- [AS_PATH Prepending for Inbound Path Manipulation](https://dev.to/blackmanta/aspath-prepending-for-inbound-path-manipulation-2f7c)
-- [Day-74 Understanding Scanner Class and Exception Handling in Java](https://dev.to/tamilselvan1812/day-74-understanding-scanner-class-and-exception-handling-in-java-20bm)
+- [6 recommendations on how to use GEO for your brand](https://dev.to/matt_iscanner/6-recommendations-on-how-to-use-geo-for-your-brand-6hg)
+- [Is ChatGPT Thinking While You Type? A Glitch, a Feature, or Something More 🧐](https://dev.to/alifar/is-chatgpt-thinking-while-you-type-a-glitch-a-feature-or-something-more-18i)
+- [5 Easy Steps to Deploy Your Node.js + MongoDB App to Vercel](https://dev.to/devshefali/5-easy-steps-to-deploy-your-nodejs-mongodb-app-to-vercel-2d7k)
+- [Modern Python Package Management with UV – A Practical Developer’s Guide Featuring an Airflow Project Demo](https://dev.to/grayhat/modern-python-package-management-with-uv-a-practical-developers-guide-featuring-an-airflow-3i0d)
+- [Environment variable management with Power Automate](https://dev.to/fernandaek/environment-variable-management-with-power-automate-352k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
