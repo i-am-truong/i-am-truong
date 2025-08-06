@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Document Management System &lpar;DMS&rpar;](https://dev.to/continia/how-to-build-a-document-management-system-dms-3aa0)
-- [Kubernetes Cluster Deployment &lpar;Mini DevOps Project&rpar;](https://dev.to/jioke/kubernetes-cluster-deployment-mini-devops-project-1kop)
-- [Proyectos base &lpar;Scaffolding&rpar; para Springboot, FastApi, React y Express](https://dev.to/luismalamoc/proyectos-base-scaffolding-para-springboot-fastapi-react-y-express-301)
-- [The Hacksmith: We Made a Knife that can CUT THROUGH ANYTHING!](https://dev.to/maker_youtube/the-hacksmith-we-made-a-knife-that-can-cut-through-anything-3jnc)
-- [How to Handle Form Data in AWS Lambda APIs with Powertools OpenAPI Support](https://dev.to/aws-builders/how-to-handle-form-data-in-aws-lambda-apis-with-powertools-openapi-support-4l40)
+- [The Psychology of Coding: Why Developers Avoid Planning &lpar;and How AI Planning Tools Like Continue Fix It&rpar;](https://dev.to/bekahhw/the-psychology-of-coding-why-developers-avoid-planning-and-how-ai-planning-tools-like-continue-5083)
+- [SuperOptiX Now Supports OpenAI&#39;s GPT-OSS Models!](https://dev.to/shashikant86/superoptix-now-supports-openais-gpt-oss-models-55i0)
+- [Introducing Fotoria.com – Professional Headshots Without the Studio](https://dev.to/mihai_be8b9db037a344368f6/introducing-fotoriacom-professional-headshots-without-the-studio-52g)
+- [Flask Web + DB on Kubernetes](https://dev.to/jioke/flask-web-db-on-kubernetes-23k2)
+- [Being a software engineering student with a $5K/month side hustle](https://dev.to/marcus_wright__/being-a-software-engineering-student-with-a-5kmonth-side-hustle-321c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
