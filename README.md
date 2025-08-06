@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Online Exam Portal](https://dev.to/siddharth2k14/online-exam-portal-2njo)
+- [Eatease Build in public](https://dev.to/vedanix/eatease-build-in-public-50a5)
 - [Discover the Power of Productivity with The Key Tools](https://dev.to/jesus_camacho_d5e25966c83/discover-the-power-of-productivity-with-the-key-tools-2jop)
 - [How to Build a Telegram Bot That Tracks Token Unlocks Using DropsTab API](https://dev.to/krisvarley/how-to-build-a-telegram-bot-that-tracks-token-unlocks-using-dropstab-api-21al)
 - [Proxies and Reverse Proxies: Your Guide to the Internet’s Middlemen , day 23 of system design basics](https://dev.to/vincenttommi/proxies-and-reverse-proxies-your-guide-to-the-internets-middlemen-day-23-of-system-design-basics-568a)
-- [You’re Not Just a Developer — You’re a Silent Architect of the Future](https://dev.to/i_am_yaseen/youre-not-just-a-developer-youre-a-silent-architect-of-the-future-5dpa)
-- [Understanding IP Addresses: A Beginner&#39;s Guide to How Devices Connect , System basics day 22](https://dev.to/vincenttommi/understanding-ip-addresses-a-beginners-guide-to-how-devices-connect-system-basics-day-22-3n06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
