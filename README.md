@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Almost Went Bananas with Recursion—And Finally Got It](https://dev.to/pranta/how-i-almost-went-bananas-with-recursion-and-finally-got-it-4aa9)
-- [Creating a REST API in Go with Gin: A Pragmatic, Spec-First Guide](https://dev.to/medunes/creating-a-rest-api-in-go-with-gin-a-pragmatic-spec-first-guide-13de)
-- [Your 2025 Roadmap to Becoming an AI Engineer for Free for Vue.js Developers](https://dev.to/eleftheriabatsou/your-2025-roadmap-to-becoming-an-ai-engineer-for-free-for-vuejs-developers-5dpi)
-- [Need Help Integrating Bootstrap Frontend with CodeIgniter Backend](https://dev.to/najma_malik_edab94ba7b4a8/need-help-integrating-bootstrap-frontend-with-codeigniter-backend-1na7)
-- [Supervised Learning: Discriminant Analysis &amp; Pandas Bfill with Scikit-Learn Labs](https://dev.to/labex/supervised-learning-discriminant-analysis-pandas-bfill-with-scikit-learn-labs-3pmd)
+- [.Net EF Core, PostgreSQL and JSON Data Types](https://dev.to/gaatif/net-ef-core-postgresql-and-json-data-types-362o)
+- [🚀 Qwen3-4B-Thinking-2507 just shipped!](https://dev.to/lukehinds/qwen3-4b-thinking-2507-just-shipped-4e0n)
+- [A handful of interviews and experiences](https://dev.to/redbugmilk/a-handful-of-interviews-and-experiences-4d3c)
+- [Solver Tools: The Ultimate Hub for Productivity-Boosting Digital Tools](https://dev.to/solvertoolscom/solver-tools-the-ultimate-hub-for-productivity-boosting-digital-tools-5025)
+- [How to Send Emails in Claude Desktop with Mailtrap MCP](https://dev.to/sofiatarhonska/how-to-send-emails-in-claude-desktop-with-mailtrap-mcp-20k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
