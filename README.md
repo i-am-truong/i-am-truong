@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Facades in laravel for intermediate developers](https://dev.to/ahmedraza_fyntune/facades-in-laravel-for-intermediate-developers-36j7)
-- [FROM MILITARY TYPIST TO FULL-TIME SOFTWARE ENGINEER: HOW I BECAME A DEVELOPER](https://dev.to/xenxei46/from-military-typist-to-full-time-software-engineer-how-i-became-a-developer-3o12)
-- [A Deep Dive into the John Carmack&#39;s Interview w/ Lex Fridman](https://dev.to/yigit-konur/a-deep-dive-into-the-john-carmacks-interview-w-lex-fridman-4mkn)
-- [Mastering LLM Temperature: A Step-by-Step Guide](https://dev.to/uhasker/mastering-llm-temperature-a-step-by-step-guide-5166)
-- [🧠 React.memo — Boost Performance by Preventing Unnecessary Renders](https://dev.to/aman_kureshi_/reactmemo-boost-performance-by-preventing-unnecessary-renders-2po4)
+- [Saki](https://dev.to/renato_pozzi_6b131b627ec4/saki-529g)
+- [My Developer Portfolio — looc.dev](https://dev.to/loctvl842/my-developer-portfolio-loocdev-1fai)
+- [GitHub-Themed Interactive Portfolio Documentation By Omm Prakash Roul](https://dev.to/omm7_7/github-themed-interactive-portfolio-documentationby-omm-prakash-roul-1e41)
+- [🚀 AWS Launches OpenAI-Compatible API for Bedrock &lpar;and I Did Some Tests!&rpar;](https://dev.to/aws-builders/aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd)
+- [From Academic Writing to Front-End Prototyping: Why I Use Tailwind CSS for My Thesis Projects](https://dev.to/zoexuarch/from-academic-writing-to-front-end-prototyping-why-i-use-tailwind-css-for-my-thesis-projects-54l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
