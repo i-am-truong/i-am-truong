@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond &quot;It Works on My Machine&quot;: The Quest for Calm, Predictable Development Environments](https://dev.to/whocode/beyond-it-works-on-my-machine-the-quest-for-calm-predictable-development-environments-1fhl)
+- [What You Should Actually Look for When Hiring a Data Engineer in 2025](https://dev.to/arbisoftcompany/what-you-should-actually-look-for-when-hiring-a-data-engineer-in-2025-3aa2)
+- [Claremont Properties and the Future of Regional Real Estate Hubs: Anthony Lester’s Vision Beyond Big Cities](https://dev.to/anthony_lesterfresno_c85/claremont-properties-and-the-future-of-regional-real-estate-hubs-anthony-lesters-vision-beyond-3lab)
 - [5 Ways Your Translation Processes Pose a Security Risk](https://dev.to/colinreed/5-ways-your-translation-processes-pose-a-security-risk-3ej2)
 - [Nexus Framework: Coordinating Multiple Scrum Teams](https://dev.to/dct_technology/nexus-framework-coordinating-multiple-scrum-teams-1m0a)
-- [It&#39;s Alive! Project KARL is Now Open Source.](https://dev.to/theaniketraj/its-alive-project-karl-is-now-open-source-4mpb)
-- [Self-Awareness Unlocked: Build a Better, Stronger You from Within](https://dev.to/jhanvi_shukla/self-awareness-unlocked-build-a-better-stronger-you-from-within-pfm)
-- [The CAP Theorem: A Guide for Developers Who Build Real-World Systems](https://dev.to/chetansingh63/the-cap-theorem-a-guide-for-developers-who-build-real-world-systems-2d74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
