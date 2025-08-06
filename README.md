@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The $600 Monitor That Fixed My 10-Hour Coding Days](https://dev.to/shayy/the-600-monitor-that-fixed-my-10-hour-coding-days-13c7)
+- [Open to Collaborate – UI/UX Designer &amp; Frontend Developer &lpar;Volunteer&rpar;](https://dev.to/maaloum_rihem_56809e34901/open-to-collaborate-uiux-designer-frontend-developer-volunteer-354o)
 - [[Boost]](https://dev.to/skylarmb/-45l1)
 - [OpenAI Just Went Open Source &lpar;For Real This Time&rpar;](https://dev.to/miguelparacuellos/openai-just-went-open-source-for-real-this-time-2dao)
 - [Azure DevOps + GitHub + Copilot: O Caminho para a IA Agentiva](https://dev.to/angelo_matias/azure-devops-github-copilot-o-caminho-para-a-ia-agentiva-59cd)
-- [Understanding Goroutines, Concurrency, and Scheduling in Go](https://dev.to/ibtekar/understanding-goroutines-concurrency-and-scheduling-in-go-2ooe)
-- [How to Escape from a Container](https://dev.to/gustavosbarreto/how-to-escape-from-a-container-4p3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
