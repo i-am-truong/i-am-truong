@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [6 recommendations on how to use GEO for your brand](https://dev.to/matt_iscanner/6-recommendations-on-how-to-use-geo-for-your-brand-6hg)
-- [Is ChatGPT Thinking While You Type? A Glitch, a Feature, or Something More 🧐](https://dev.to/alifar/is-chatgpt-thinking-while-you-type-a-glitch-a-feature-or-something-more-18i)
-- [5 Easy Steps to Deploy Your Node.js + MongoDB App to Vercel](https://dev.to/devshefali/5-easy-steps-to-deploy-your-nodejs-mongodb-app-to-vercel-2d7k)
-- [Modern Python Package Management with UV – A Practical Developer’s Guide Featuring an Airflow Project Demo](https://dev.to/grayhat/modern-python-package-management-with-uv-a-practical-developers-guide-featuring-an-airflow-3i0d)
-- [Environment variable management with Power Automate](https://dev.to/fernandaek/environment-variable-management-with-power-automate-352k)
+- [A Step-by-Step Guide to Creating a Beautiful Documentation Site with Mintlify](https://dev.to/therealmrmumba/a-step-by-step-guide-to-creating-a-beautiful-documentation-site-with-mintlify-532m)
+- [Build or Outsource? Making the Right Call for AI/ML Product Development](https://dev.to/arbisoftcompany/build-or-outsource-making-the-right-call-for-aiml-product-development-4b9d)
+- [UK NutriHealth AI: NHS-Style Health Assessment Platform Built with Google AI Studio](https://dev.to/shiva_shanker_k/uk-nutrihealth-ai-nhs-style-health-assessment-platform-built-with-google-ai-studio-410k)
+- [Fixing Docker &quot;Permission Denied&quot; Error After Adding User to Docker Group](https://dev.to/vincenttommi/fixing-docker-permission-denied-error-after-adding-user-to-docker-group-4g82)
+- [Building SignSpeak: Real-time ASL Recognition with React and AI 🤟](https://dev.to/shiva_shanker_k/building-signspeak-real-time-asl-recognition-with-react-and-ai-4a4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
