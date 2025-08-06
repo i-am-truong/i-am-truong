@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/skylarmb/-45l1)
+- [OpenAI Just Went Open Source &lpar;For Real This Time&rpar;](https://dev.to/miguelparacuellos/openai-just-went-open-source-for-real-this-time-2dao)
+- [Azure DevOps + GitHub + Copilot: O Caminho para a IA Agentiva](https://dev.to/angelo_matias/azure-devops-github-copilot-o-caminho-para-a-ia-agentiva-59cd)
 - [Understanding Goroutines, Concurrency, and Scheduling in Go](https://dev.to/ibtekar/understanding-goroutines-concurrency-and-scheduling-in-go-2ooe)
 - [How to Escape from a Container](https://dev.to/gustavosbarreto/how-to-escape-from-a-container-4p3i)
-- [OpenAI&#39;s GPT-OSS 120B &amp; 20B: A Dev &amp; Founder’s Guide to the Open-Weight Revolution](https://dev.to/kar_s/openais-gpt-oss-120b-20b-a-dev-founders-guide-to-the-open-weight-revolution-2h3b)
-- [100 Days of DevOps: Day 3](https://dev.to/wycliffealphus/100-days-of-devops-day-3-1j81)
-- [Day 2 - Importing data and practicing queries](https://dev.to/uguremirmustafa/day-2-importing-data-and-practicing-queries-27h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
