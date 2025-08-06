@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Saki](https://dev.to/renato_pozzi_6b131b627ec4/saki-529g)
-- [My Developer Portfolio — looc.dev](https://dev.to/loctvl842/my-developer-portfolio-loocdev-1fai)
-- [GitHub-Themed Interactive Portfolio Documentation By Omm Prakash Roul](https://dev.to/omm7_7/github-themed-interactive-portfolio-documentationby-omm-prakash-roul-1e41)
-- [🚀 AWS Launches OpenAI-Compatible API for Bedrock &lpar;and I Did Some Tests!&rpar;](https://dev.to/aws-builders/aws-launches-openai-compatible-api-for-bedrock-and-i-did-some-tests-49cd)
-- [From Academic Writing to Front-End Prototyping: Why I Use Tailwind CSS for My Thesis Projects](https://dev.to/zoexuarch/from-academic-writing-to-front-end-prototyping-why-i-use-tailwind-css-for-my-thesis-projects-54l6)
+- [How I Almost Went Bananas with Recursion—And Finally Got It](https://dev.to/pranta/how-i-almost-went-bananas-with-recursion-and-finally-got-it-4aa9)
+- [Creating a REST API in Go with Gin: A Pragmatic, Spec-First Guide](https://dev.to/medunes/creating-a-rest-api-in-go-with-gin-a-pragmatic-spec-first-guide-13de)
+- [Your 2025 Roadmap to Becoming an AI Engineer for Free for Vue.js Developers](https://dev.to/eleftheriabatsou/your-2025-roadmap-to-becoming-an-ai-engineer-for-free-for-vuejs-developers-5dpi)
+- [Need Help Integrating Bootstrap Frontend with CodeIgniter Backend](https://dev.to/najma_malik_edab94ba7b4a8/need-help-integrating-bootstrap-frontend-with-codeigniter-backend-1na7)
+- [Supervised Learning: Discriminant Analysis &amp; Pandas Bfill with Scikit-Learn Labs](https://dev.to/labex/supervised-learning-discriminant-analysis-pandas-bfill-with-scikit-learn-labs-3pmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
