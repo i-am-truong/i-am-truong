@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Complete Guide to Use Midjourney API for Text-to-Image Generation](https://dev.to/imaginepro/complete-guide-to-use-midjourney-api-for-text-to-image-generation-3hmc)
 - [Supporting SQL ops - Please Don&#39;t Be a Bottleneck](https://dev.to/alexantartico/supporting-sql-ops-please-dont-be-a-bottleneck-akb)
 - [10 Best WordPress Ecommerce Themes for 2025 &lpar;Free and Paid&rpar;](https://dev.to/serveravatar/10-best-wordpress-ecommerce-themes-for-2025-free-and-paid-4a9o)
-- [🚨 The UX Research Revolution Is Already Here](https://dev.to/adam/the-ux-research-revolution-is-already-here-ib0)
-- [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
+- [I Forgot to Release an AWS EIP — Here’s How It Cost Me &lpar;And How AWS Helped&rpar;](https://dev.to/nishath_jp/i-forgot-to-release-an-aws-eip-heres-how-it-cost-me-and-how-aws-helped-3jdb)
+- [Dart Lesson 23: Getting Started with Unit Testing — Ensuring Code Quality](https://dev.to/jige2025/dart-lesson-23-getting-started-with-unit-testing-ensuring-code-quality-408k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
