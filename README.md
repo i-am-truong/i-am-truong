@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Appsheet Admin Console](https://dev.to/googleworkspace/appsheet-admin-console-41id)
-- [Kimball Star Schema vs Palantir’s Ontology](https://dev.to/tc87/kimball-star-schema-vs-palantirs-ontology-41pe)
-- [Wallaby.js, an AI-ready test runner with instant feedback.](https://dev.to/ramunarasinga-11/wallabyjs-an-ai-ready-test-runner-with-instant-feedback-52kl)
-- [Discover Cutting-Edge AI Tools with Source Dir](https://dev.to/sourcedircom/discover-cutting-edge-ai-tools-with-source-dir-49n2)
-- [Test Survey](https://dev.to/ben/test-survey-1nfg)
+- [Build a multi-page recipe website with search and filtering](https://dev.to/frontendmentor/build-a-multi-page-recipe-website-with-search-and-filtering-4hpe)
+- [AI Isn&#39;t Writing 90% of Your Code &lpar;But It Should Be Making You Money&rpar;](https://dev.to/egledigital/ai-isnt-writing-90-of-your-code-but-it-should-be-making-you-money-30cf)
+- [AI &amp; the Aziro Vision: A Look Into the Future of Intelligent Enterprises](https://dev.to/azirotechnologies/ai-the-aziro-vision-a-look-into-the-future-of-intelligent-enterprises-2ap8)
+- [AI &amp; the Aziro Vision: A Look Into the Future of Intelligent Enterprises](https://dev.to/azirotechnologies/ai-the-aziro-vision-a-look-into-the-future-of-intelligent-enterprises-24c1)
+- [Puppet Enterprise: New Releases and a New Product Lifecycle](https://dev.to/puppet/puppet-enterprise-new-releases-and-a-new-product-lifecycle-4knn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
