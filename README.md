@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for a Kompyte Alternative? Here’s Why We Built Playwise HQ Instead](https://dev.to/paultowers/looking-for-a-kompyte-alternative-heres-why-we-built-playwise-hq-instead-44ce)
-- [Cloud migration: how to competently transfer your IT infrastructure to the cloud](https://dev.to/vilengyltd/cloud-migration-how-to-competently-transfer-your-it-infrastructure-to-the-cloud-3l5a)
-- [Why I Changed the Name from BizTracker to BizKhata — A New Chapter Begins 🚀](https://dev.to/pjdeveloper896/why-i-changed-the-name-from-biztracker-to-bizkhata-a-new-chapter-begins-pdp)
-- [Software Testing](https://dev.to/soubmukh/software-testing-15e6)
-- [Simple Google Maps Scraper Using Playwright](https://dev.to/hasdata_com/simple-google-maps-scraper-using-playwright-e72)
+- [Infrastructure as Code &lpar;AWS Terraform Project&rpar;](https://dev.to/jioke/infrastructure-as-code-aws-terraform-project-3ih9)
+- [Building Scalable Web Applications with Laravel: A Comprehensive Guide](https://dev.to/ekwoster/building-scalable-web-applications-with-laravel-a-comprehensive-guide-1okb)
+- [Bridging Blockchain Technologies: Fetch.ai and ICP Integration](https://dev.to/kshipra_5d377b061342f27f8/bridging-blockchain-technologies-fetchai-and-icp-integration-4d4e)
+- [Building Scalable Web Applications with Node.js: A Fullstack Developer’s Guide](https://dev.to/ekwoster/building-scalable-web-applications-with-nodejs-a-fullstack-developers-guide-4opf)
+- [Kubernetes logs unavailable behind a proxy: Diagnosing API server communication issues](https://dev.to/u11d/kubernetes-logs-unavailable-behind-a-proxy-diagnosing-api-server-communication-issues-2af5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
