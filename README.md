@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Member](https://dev.to/abdallah_hussine_52c2bad5/new-member-1m0a)
+- [Amazon Elastic VMware Service &lpar;EVS&rpar; is Now GA — Run VMware Cloud Foundation Natively in AWS](https://dev.to/aws-builders/amazon-elastic-vmware-service-evs-is-now-ga-run-vmware-cloud-foundation-natively-in-aws-3c8o)
 - [The Real-Time Data Revolution in 2025](https://dev.to/farrukh_tariq_b2d419a76cf/the-real-time-data-revolution-in-2025-i71)
 - [OWASP Cornucopia Companion Edition](https://dev.to/owasp/owasp-cornucopia-companion-edition-1h66)
-- [SQL vs Power BI: Which Skill Should You Master First in 2025?](https://dev.to/prasanna_veni_855b380cec1/sql-vs-power-bi-which-skill-should-you-master-first-in-2025-3cea)
-- [Schema Markup Guide for Answer Engine Optimization](https://dev.to/negseoexpert/schema-markup-guide-for-answer-engine-optimization-mko)
-- [I Built LeedPDF - Open Source PDF Drawing &amp; Annotation That Feels Like Sketching ✏️](https://dev.to/lofifounder/i-built-leedpdf-open-source-pdf-drawing-annotation-that-feels-like-sketching-3n9n)
+- [Update 1.0 for osxiec](https://dev.to/okerew/update-10-for-osxiec-28i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
