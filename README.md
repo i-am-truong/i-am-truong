@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript - Operators](https://dev.to/dharshinieswaran/javascript-operators-fc1)
-- [Best Practices in Software Development to Elevate Code Quality](https://dev.to/nencywilliams/best-practices-in-software-development-to-elevate-code-quality-1361)
-- [Functional Strategy Pattern: Unlocking Clean Code with Higher-Order Functions and Callbacks](https://dev.to/adityabhuyan/functional-strategy-pattern-unlocking-clean-code-with-higher-order-functions-and-callbacks-46ha)
-- [Top PowerBuilder Alternatives in 2025](https://dev.to/flynnjones/top-powerbuilder-alternatives-in-2025-5ah5)
-- [Top 10 AI Tools for Developers](https://dev.to/muhammadrameez/top-10-ai-tools-for-developers-1kc6)
+- [Exploring PhantomData: Type Safety Without Runtime Cost](https://dev.to/sgchris/exploring-phantomdata-type-safety-without-runtime-cost-3bhf)
+- [AI-Driven Content Personalization with Drupal: 2025 Trends &amp; Insights](https://dev.to/addwebsolutionpvtltd/ai-driven-content-personalization-with-drupal-2025-trends-insights-55ka)
+- [🔍 AI Debugging: Fix Bugs Faster with GPT &amp; Friends](https://dev.to/manukumar07/ai-debugging-fix-bugs-faster-with-gpt-friends-13ik)
+- [HTML Traits](https://dev.to/jon49/html-traits-ea2)
+- [Unpacking Containers: CloudWatch’s Role in Docker Monitoring](https://dev.to/aarush07/unpacking-containers-cloudwatchs-role-in-docker-monitoring-12mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
