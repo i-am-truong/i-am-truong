@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [.Net EF Core, PostgreSQL and JSON Data Types](https://dev.to/gaatif/net-ef-core-postgresql-and-json-data-types-362o)
-- [🚀 Qwen3-4B-Thinking-2507 just shipped!](https://dev.to/lukehinds/qwen3-4b-thinking-2507-just-shipped-4e0n)
-- [A handful of interviews and experiences](https://dev.to/redbugmilk/a-handful-of-interviews-and-experiences-4d3c)
-- [Solver Tools: The Ultimate Hub for Productivity-Boosting Digital Tools](https://dev.to/solvertoolscom/solver-tools-the-ultimate-hub-for-productivity-boosting-digital-tools-5025)
-- [How to Send Emails in Claude Desktop with Mailtrap MCP](https://dev.to/sofiatarhonska/how-to-send-emails-in-claude-desktop-with-mailtrap-mcp-20k1)
+- [How to Build a Document Management System &lpar;DMS&rpar;](https://dev.to/continia/how-to-build-a-document-management-system-dms-3aa0)
+- [Kubernetes Cluster Deployment &lpar;Mini DevOps Project&rpar;](https://dev.to/jioke/kubernetes-cluster-deployment-mini-devops-project-1kop)
+- [Proyectos base &lpar;Scaffolding&rpar; para Springboot, FastApi, React y Express](https://dev.to/luismalamoc/proyectos-base-scaffolding-para-springboot-fastapi-react-y-express-301)
+- [The Hacksmith: We Made a Knife that can CUT THROUGH ANYTHING!](https://dev.to/maker_youtube/the-hacksmith-we-made-a-knife-that-can-cut-through-anything-3jnc)
+- [How to Handle Form Data in AWS Lambda APIs with Powertools OpenAPI Support](https://dev.to/aws-builders/how-to-handle-form-data-in-aws-lambda-apis-with-powertools-openapi-support-4l40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
