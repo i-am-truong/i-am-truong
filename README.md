@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond &quot;It Works on My Machine&quot;: The Quest for Calm, Predictable Development Environments](https://dev.to/whocode/beyond-it-works-on-my-machine-the-quest-for-calm-predictable-development-environments-1fhl)
-- [What You Should Actually Look for When Hiring a Data Engineer in 2025](https://dev.to/arbisoftcompany/what-you-should-actually-look-for-when-hiring-a-data-engineer-in-2025-3aa2)
-- [Claremont Properties and the Future of Regional Real Estate Hubs: Anthony Lester’s Vision Beyond Big Cities](https://dev.to/anthony_lesterfresno_c85/claremont-properties-and-the-future-of-regional-real-estate-hubs-anthony-lesters-vision-beyond-3lab)
-- [5 Ways Your Translation Processes Pose a Security Risk](https://dev.to/colinreed/5-ways-your-translation-processes-pose-a-security-risk-3ej2)
-- [Nexus Framework: Coordinating Multiple Scrum Teams](https://dev.to/dct_technology/nexus-framework-coordinating-multiple-scrum-teams-1m0a)
+- [What is AI Design Thinking? Your Guide to Human-Centered AI](https://dev.to/lollypopdesign/what-is-ai-design-thinking-your-guide-to-human-centered-ai-2895)
+- [The Art of Talking to AI: Prompts That Actually Work for Coding](https://dev.to/extinctsion/the-art-of-talking-to-ai-prompts-that-actually-work-for-coding-4fpe)
+- [Choropleth Maps in R , still hold the importance check them out today!!](https://dev.to/dipti_m_2e7ba36c478d1a48a/choropleth-maps-in-r-still-hold-the-importance-check-them-out-today-28id)
+- [Gmail API developer intro: spotting chatty threads](https://dev.to/googleworkspace/gmail-api-developer-intro-spotting-chatty-threads-jnp)
+- [[ForgeCode x OpenAI&#39;s Open Model]: Our First Impression with OpenAI’s GPT‑OSS Models](https://dev.to/forgecode/forgecode-x-openais-open-model-our-first-impression-with-openais-gpt-oss-models-48d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
