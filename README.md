@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Qué nos enseña el fiasco de repl.it?](https://dev.to/baltasarq/que-nos-ensena-el-fiasco-de-replit-4gbe)
-- [No Safeguards, No Recourse: Why CeFi Still Fails in 2025](https://dev.to/cryptoedu/no-safeguards-no-recourse-why-cefi-still-fails-in-2025-4d1k)
-- [Mastering the Art: Best Practices in Outbound B2B Appointment Setting](https://dev.to/leo_johnson_e34af4a6d9bd9/mastering-the-art-best-practices-in-outbound-b2b-appointment-setting-1f35)
-- [JavaScript in 1 Day – Quick Beginner Guide](https://dev.to/swetha_palani_1547914a082/javascript-in-1-day-quick-beginner-guide-49e5)
-- [Free Online Find and Replace Tool for Text – No Signup, No Ads](https://dev.to/rajkumarlogre/free-online-find-and-replace-tool-for-text-no-signup-no-ads-4a84)
+- [Complete Guide to Use Midjourney API for Text-to-Image Generation](https://dev.to/imaginepro/complete-guide-to-use-midjourney-api-for-text-to-image-generation-3hmc)
+- [Supporting SQL ops - Please Don&#39;t Be a Bottleneck](https://dev.to/alexantartico/supporting-sql-ops-please-dont-be-a-bottleneck-akb)
+- [10 Best WordPress Ecommerce Themes for 2025 &lpar;Free and Paid&rpar;](https://dev.to/serveravatar/10-best-wordpress-ecommerce-themes-for-2025-free-and-paid-4a9o)
+- [🚨 The UX Research Revolution Is Already Here](https://dev.to/adam/the-ux-research-revolution-is-already-here-ib0)
+- [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
