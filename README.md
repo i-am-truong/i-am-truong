@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Dev Agency Website in Progress – Would Love Your Feedback!](https://dev.to/akram_bgh_9e8b40f1e96af39/my-dev-agency-website-in-progress-would-love-your-feedback-2icj)
-- [Alec Steele: Turning a Picture into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-into-a-damascus-pattern-1m3o)
-- [BrandSpark AI](https://dev.to/ik_8a78062fd65be769dd835/brandspark-ai-3pb0)
-- [IGN: Marvel Rivals: Blade Gameplay - Full Move Set Breakdown](https://dev.to/gg_news/ign-marvel-rivals-blade-gameplay-full-move-set-breakdown-2bp8)
-- [IGN: Virtua Fighter Interview - Pushing Reality and Innovation | EVO 2025](https://dev.to/gg_news/ign-virtua-fighter-interview-pushing-reality-and-innovation-evo-2025-3858)
+- [Understanding Read Phenomena in Databases](https://dev.to/abhivyaktii/understanding-read-phenomena-in-databases-50mk)
+- [3 AI Tools I’m Loving Right Now &lpar;August Edition&rpar;](https://dev.to/jaideepparashar/3-ai-tools-im-loving-right-now-august-edition-4ee5)
+- [SafeLine vs Sucuri WAF: Which One Is Better for Your Website Security?](https://dev.to/sharon_42e16b8da44dabde6d/safeline-vs-sucuri-waf-which-one-is-better-for-your-website-security-1110)
+- [🚀 Secure Your Scripts with AWS SSM Run Command + Parameter Interpolation](https://dev.to/latchudevops/secure-your-scripts-with-aws-ssm-run-command-parameter-interpolation-2pg6)
+- [Arrays Vs Lists](https://dev.to/zrm9901/arrays-vs-lists-4kgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
