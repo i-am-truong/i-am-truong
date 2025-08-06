@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/a-lightweight-solution-to-speed-up-queries-by-dumping-data-to-files-f1a)
-- [Generative AI Leader Preparation 2025](https://dev.to/yoga0022/generative-ai-leader-preparation-2025-344c)
-- [AIoT Explained: Bringing Machine Intelligence to IoT Systems](https://dev.to/zediot/aiot-explained-bringing-machine-intelligence-to-iot-systems-e5e)
-- [Laravel AI Revolution: How LaraCopilot Changing Game](https://dev.to/avinashvagh/laravel-ai-revolution-how-laracopilot-changing-game-54jn)
-- [🤯 Why Your RAG System with FAISS Is Still Failing — and How to Actually Fix It](https://dev.to/onestardao/why-your-rag-system-with-faiss-is-still-failing-and-how-to-actually-fix-it-3114)
+- [Do You Know The LATERAL JOIN In SQL?](https://dev.to/mayallo/do-you-know-the-lateral-join-in-sql-489l)
+- [What Is a Soft Launch? A Beginner’s Guide to Testing New Ideas](https://dev.to/uisaleh/what-is-a-soft-launch-a-beginners-guide-to-testing-new-ideas-5da2)
+- [📱 Optimizing React Apps for Mobile Performance: A Practical Guide](https://dev.to/aamna_majid/optimizing-react-apps-for-mobile-performance-a-practical-guide-1dco)
+- [Refactoring Complex Conditional Logic with State Machines: Online Survey Form Improvement Case Study](https://dev.to/0rok/refactoring-complex-conditional-logic-with-state-machines-online-survey-form-improvement-case-study-36lp)
+- [Outgassing in PCB Manufacturing](https://dev.to/frank_1871bc3c55f35370df3/outgassing-in-pcb-manufacturing-6fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
