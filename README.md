@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/teamcamp/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-47ch)
-- [Kubernetes Ingress Playlist – Part 3: Routing in NGINX Ingress Controller](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-3-routing-in-nginx-ingress-controller-1jib)
-- [这个仓库堪称造轮子的鼻祖，建议看看！](https://dev.to/immerse/zhe-ge-cang-ku-kan-cheng-zao-lun-zi-de-bi-zu-jian-yi-kan-kan--aa9)
-- [Building EVI : An AI-Powered Economic Vitality Analysis Platform with Kiro](https://dev.to/kirodotdev/building-evi-an-ai-powered-economic-vitality-analysis-platform-with-kiro-4fch)
-- [How I Built a Platform to Instantly Internationalize React and Next.js Projects](https://dev.to/digitaldev/how-i-built-a-platform-to-instantly-internationalize-react-and-nextjs-projects-3776)
+- [Mocks, Stubs, and Contract Testing: Explanation with Examples](https://dev.to/ann55/mocks-stubs-and-contract-testing-explanation-with-examples-51n0)
+- [How I Built an Infinite Scroll Photo Gallery with Vue 3 and the Unsplash API](https://dev.to/bunmioye/how-i-built-an-infinite-scroll-photo-gallery-with-vue-3-and-the-unsplash-api-21np)
+- [Customer Relationship Software for Small Businesses](https://dev.to/kazlauskas/customer-relationship-software-for-small-businesses-3d11)
+- [How I created and published a VS Code theme](https://dev.to/mike_andreuzza/how-i-created-and-published-a-vs-code-theme-3p5i)
+- [The Best React Native Resources Every Developer Should Know](https://dev.to/iredox10/the-best-react-native-resources-every-developer-should-know-lo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
