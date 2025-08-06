@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Discovery Surge of 2025: SEO Rewritten](https://dev.to/kashif-mukhtar/the-ai-discovery-surge-of-2025-seo-rewritten-28ph)
-- [🧠 GenAI as a Backend Engineer: Part 1 - Model Serving](https://dev.to/yuvraj2112/genai-as-a-backend-engineer-part-1-model-serving-17ko)
-- [The Subtle Art of Herding Cats: Show, Don’t Tell: Teaching AI by Example &lpar;Part 2 of 4&rpar;](https://dev.to/paul_coles_633f698b10fd6e/the-subtle-art-of-herding-cats-show-dont-tell-teaching-ai-by-example-part-2-of-4-ing)
-- [🚀 Build. Sell. Repeat. The Fastest Way to Product Profits Using Public APIs](https://dev.to/0x7b-shop/build-sell-repeat-the-fastest-way-to-product-profits-using-public-apis-166m)
-- [AI Engineering in 2025: From RAG 2.0 to Autonomous Agent Stacks](https://dev.to/dmitrybaraishuk/ai-engineering-in-2025-from-rag-20-to-autonomous-agent-stacks-12hi)
+- [Networking Crash Course: My Learning Journey](https://dev.to/faithgoodness51/networking-crash-course-my-learning-journey-24pe)
+- [Modern ReactJS Tutorial](https://dev.to/rahucode/modern-reactjs-tutorial-28jm)
+- [How Cloud Storage Works Behind the Scenes &lpar;Object vs Block vs File - A Backend Developer&#39;s Guide&rpar;](https://dev.to/lyushher/how-cloud-storage-works-behind-the-scenes-object-vs-block-vs-file-a-backend-developers-guide-gh6)
+- [Iniciando Meus Estudos no Bootcamp Suzano pela DIO 🚀](https://dev.to/esthevamnascimento/iniciando-meus-estudos-no-bootcamp-suzano-pela-dio-4f6i)
+- [Adaptive VR Scenario Generation for Firefighter Cognitive Load Management via Reinforcement Learning](https://dev.to/freederia-research/adaptive-vr-scenario-generation-for-firefighter-cognitive-load-management-via-reinforcement-learning-2j8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
