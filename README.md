@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Discovery Surge of 2025: SEO Rewritten](https://dev.to/kashif-mukhtar/the-ai-discovery-surge-of-2025-seo-rewritten-28ph)
 - [🧠 GenAI as a Backend Engineer: Part 1 - Model Serving](https://dev.to/yuvraj2112/genai-as-a-backend-engineer-part-1-model-serving-17ko)
 - [The Subtle Art of Herding Cats: Show, Don’t Tell: Teaching AI by Example &lpar;Part 2 of 4&rpar;](https://dev.to/paul_coles_633f698b10fd6e/the-subtle-art-of-herding-cats-show-dont-tell-teaching-ai-by-example-part-2-of-4-ing)
 - [🚀 Build. Sell. Repeat. The Fastest Way to Product Profits Using Public APIs](https://dev.to/0x7b-shop/build-sell-repeat-the-fastest-way-to-product-profits-using-public-apis-166m)
 - [AI Engineering in 2025: From RAG 2.0 to Autonomous Agent Stacks](https://dev.to/dmitrybaraishuk/ai-engineering-in-2025-from-rag-20-to-autonomous-agent-stacks-12hi)
-- [How to create a window 10 virtual machine and attach a data disk to it.](https://dev.to/onyemuche/how-to-create-a-window-10-virtual-machine-and-attach-a-data-disk-to-it-36a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
