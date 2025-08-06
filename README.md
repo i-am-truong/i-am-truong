@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Genius Pinterest Marketing Hacks to Skyrocket Your Traffic](https://dev.to/misseliza/7-genius-pinterest-marketing-hacks-to-skyrocket-your-traffic-2062)
+- [Appsheet Admin Console](https://dev.to/googleworkspace/appsheet-admin-console-41id)
+- [Kimball Star Schema vs Palantir’s Ontology](https://dev.to/tc87/kimball-star-schema-vs-palantirs-ontology-41pe)
+- [Wallaby.js, an AI-ready test runner with instant feedback.](https://dev.to/ramunarasinga-11/wallabyjs-an-ai-ready-test-runner-with-instant-feedback-52kl)
+- [Discover Cutting-Edge AI Tools with Source Dir](https://dev.to/sourcedircom/discover-cutting-edge-ai-tools-with-source-dir-49n2)
 - [Test Survey](https://dev.to/ben/test-survey-1nfg)
-- [Top 7 Free MCP Servers in 2025 to Supercharge Your AI Apps — Open Source &amp; Ready to Use](https://dev.to/itshayder/top-7-free-mcp-servers-in-2025-to-supercharge-your-ai-apps-open-source-ready-to-use-5die)
-- [How JSX Turns Into JavaScript? Behind the Scenes!](https://dev.to/subashini_mathig_8c02f35/how-jsx-turns-into-javascript-behind-the-scenes-1pe9)
-- [Getting Started with EVS CLI: Manage Amazon Elastic VMware Service from the Command Line](https://dev.to/aws-builders/getting-started-with-evs-cli-manage-amazon-elastic-vmware-service-from-the-command-line-5cif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
