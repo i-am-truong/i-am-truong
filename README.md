@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Day 27 of Learning DSA: Solved One LeetCode Problems &lpar;Valid Anagram - Easy for Beginners&rpar;](https://dev.to/abhishek-nexgen-dev/day-27-of-learning-dsa-solved-one-leetcode-problems-valid-anagram-easy-for-beginners-1al2)
-- [A day in payilagam](https://dev.to/manikandan_a8f99e0153ef77/a-day-in-payilagam-522k)
-- [MindVault: Beyond the Code - WLH Challenge](https://dev.to/ariondev/mindvault-beyond-the-code-wlh-challenge-40d)
-- [✨ Loaf — Free Beautiful SVG Animations for Your Websites](https://dev.to/ml318097/loaf-free-beautiful-svg-animations-for-your-websites-4mfh)
-- [Shaping the Science of Immigrant Family Life: The Legacy of Dr. Su Yeong Kim](https://dev.to/min_seo_10/shaping-the-science-of-immigrant-family-life-the-legacy-of-dr-su-yeong-kim-1ome)
+- [Universal Pictures to Big Tech: We&#39;ll Sue If You Steal Movies For AI](https://dev.to/popcorn_movies/universal-pictures-to-big-tech-well-sue-if-you-steal-movies-for-ai-55lm)
+- [‘Star Wars: Starfighter&#39;: Matt Smith Lands Villain Role In New Lucasfilm Pic Starring Ryan Gosling](https://dev.to/popcorn_movies/star-wars-starfighter-matt-smith-lands-villain-role-in-new-lucasfilm-pic-starring-ryan-gosling-3a66)
+- [‘Star Wars: A New Hope&#39; Will Get 50th Anniversary Theatrical Re-Release on April 30, 2027](https://dev.to/popcorn_movies/star-wars-a-new-hope-will-get-50th-anniversary-theatrical-re-release-on-april-30-2027-2n8h)
+- [AMC Theatres Looks To Shorten Ad Preshow Following Studios&#39; Ire](https://dev.to/popcorn_movies/amc-theatres-looks-to-shorten-ad-preshow-following-studios-ire-8jl)
+- [Practices Kotlin](https://dev.to/phc_phm_f8a22fb95083b09/practices-kotlin-1756)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
