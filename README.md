@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing “Each Child in a List Should Have a Unique `key` Prop” in React 19](https://dev.to/cristiansifuentes/fixing-each-child-in-a-list-should-have-a-unique-key-prop-in-react-19-25jn)
-- [Hooks Under the Hood: How React Hooks Actually Work](https://dev.to/talissoncosta/hooks-under-the-hood-how-react-hooks-actually-work-3002)
-- [Maximize Your Efficiency with The Core Tools – Your Hub for Essential Productivity Software](https://dev.to/jesus_camacho_6c85db6f357/explore-the-future-of-productivity-with-saas-hub-directory-48p0)
-- [Automated Mineralogical Classification via Hyperspectral Data Fusion &amp; Bayesian Inference](https://dev.to/freederia-research/automated-mineralogical-classification-via-hyperspectral-data-fusion-bayesian-inference-3kob)
-- [How to Reset Your WSL Password: A Beginner&#39;s Guide to Getting Back Into Your Linux Environment](https://dev.to/analystgatitu/how-to-reset-your-wsl-password-a-beginners-guide-to-getting-back-into-your-linux-environment-269k)
+- [The Source code of EdiiHealth](https://dev.to/a_r_3c6cde1ef9f1780e8755b/the-source-code-of-ediihealth-1m66)
+- [The Midway software design pattern](https://dev.to/owly/the-midway-software-design-pattern-602)
+- [Top 10 SEO Chrome Extensions for 2025 🚀 &lpar;With AI &amp; Free Tools&rpar;](https://dev.to/hitesh_developer/top-10-seo-chrome-extensions-for-2025-with-ai-free-tools-4hfc)
+- [Top 10 SEO Chrome Extensions for 2025 🚀 &lpar;With AI &amp; Free Tools&rpar;](https://dev.to/hitesh_developer/top-10-seo-chrome-extensions-for-2025-with-ai-free-tools-o28)
+- [Why You&#39;re Not Landing Interviews](https://dev.to/beyond_code_app/why-youre-not-landing-interviews-1h68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
