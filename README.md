@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Source code of EdiiHealth](https://dev.to/a_r_3c6cde1ef9f1780e8755b/the-source-code-of-ediihealth-1m66)
-- [The Midway software design pattern](https://dev.to/owly/the-midway-software-design-pattern-602)
-- [Top 10 SEO Chrome Extensions for 2025 🚀 &lpar;With AI &amp; Free Tools&rpar;](https://dev.to/hitesh_developer/top-10-seo-chrome-extensions-for-2025-with-ai-free-tools-4hfc)
-- [Top 10 SEO Chrome Extensions for 2025 🚀 &lpar;With AI &amp; Free Tools&rpar;](https://dev.to/hitesh_developer/top-10-seo-chrome-extensions-for-2025-with-ai-free-tools-o28)
-- [Why You&#39;re Not Landing Interviews](https://dev.to/beyond_code_app/why-youre-not-landing-interviews-1h68)
+- [Mina Scheduler: Feature-rich React/shadcn/ui Calendar Component](https://dev.to/jqueryscript/mina-scheduler-feature-rich-reactshadcnui-calendar-component-21lb)
+- [SwaggerUI setup ASP.NET Core Web API](https://dev.to/sharadaade/swaggerui-setup-aspnet-core-web-api-2dja)
+- [PseudoCLI – Your AI Man Pages](https://dev.to/abubakr_arif_b67103b8285c/pseudocli-your-ai-man-pages-4fbg)
+- [Chromium XXE Flaw Exposes Local Files &lpar;CVE-2023-4357&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/chromium-xxe-flaw-exposes-local-files-cve-2023-4357-16b9)
+- [Open Letter to Microsoft: Visual Studio Needs to Speak to New Developers Again](https://dev.to/ljvasquezr/open-letter-to-microsoft-visual-studio-needs-to-speak-to-new-developers-again-2bbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
