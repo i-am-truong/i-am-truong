@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Small Language Models: A better way to Agentic AI](https://dev.to/coralprotocol/small-language-models-a-better-way-to-agentic-ai-4o7)
-- [Why We Don’t Need Kubernetes for Services That Only Require a Couple of Servers](https://dev.to/tracywhodoesnot/why-we-dont-need-kubernetes-for-services-that-only-require-a-couple-of-servers-1o7k)
-- [GPT-5 Just Dropped. Here&#39;s Why Your Automation Stack Is Already Outdated](https://dev.to/alifar/gpt-5-just-dropped-heres-why-your-automation-stack-is-already-outdated-2lmj)
-- [Building an Intelligent Task Router for Multi-Model AI Systems with ML.NET](https://dev.to/auyeungdavid_2847435260/building-an-intelligent-task-router-for-multi-model-ai-systems-with-mlnet-hbo)
-- [5 Python Scripts That Taught Me Real-World Parsing and Automation](https://dev.to/1fahadshah/5-python-scripts-that-taught-me-real-world-parsing-and-automation-k9n)
+- [Why I tell Claude Code to &quot;take your time, calm down!&quot;](https://dev.to/charmpic/why-i-tell-claude-code-to-take-your-time-calm-down-3ian)
+- [🧩 Why Dialog Doesn’t Work When Wrapped with Tooltip in Radix / ShadCN UI &lpar;And How to Fix It&rpar;](https://dev.to/harshmangalam/why-dialog-doesnt-work-when-wrapped-with-tooltip-in-radix-shadcn-ui-and-how-to-fix-it-4905)
+- [⚡ Boosting API Performance: 5 Practical Techniques Every Developer Should Know](https://dev.to/farhan_shahriar_/boosting-api-performance-5-practical-techniques-every-developer-should-know-98h)
+- [Shared with me: Using Vega Lite with Ember.js](https://dev.to/les2/shared-with-me-using-vega-lite-with-emberjs-45nj)
+- [বাংলায় Amazon EC2 কী ?](https://dev.to/sajjadrahman56/baanlaay-amazon-ec2-kii--16el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
