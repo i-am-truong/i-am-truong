@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JUST STATIC it: Everthing about Static Keyword](https://dev.to/levii07/just-static-it-everthing-about-static-keyword-1eki)
-- [Choosing the Right Tech Stack for Scalable Product Engineering in 2025](https://dev.to/siliconsignals_ind/choosing-the-right-tech-stack-for-scalable-product-engineering-in-2025-al6)
-- [Azure Database for PostgreSQL](https://dev.to/angelo_matias/azure-database-for-postgresql-p22)
-- [Why I tell Claude Code to &quot;take your time, calm down!&quot;](https://dev.to/charmpic/why-i-tell-claude-code-to-take-your-time-calm-down-3ian)
-- [🧩 Why Dialog Doesn’t Work When Wrapped with Tooltip in Radix / ShadCN UI &lpar;And How to Fix It&rpar;](https://dev.to/harshmangalam/why-dialog-doesnt-work-when-wrapped-with-tooltip-in-radix-shadcn-ui-and-how-to-fix-it-4905)
+- [Go Basics: How to Use Enums, Structs, and Interfaces Effectively](https://dev.to/lovestaco/go-basics-how-to-use-enums-structs-and-interfaces-effectively-2bi0)
+- [IGN: Glaciered - Official Nintendo Switch 2 Release Window Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-glaciered-official-nintendo-switch-2-release-window-trailer-nintendo-indie-world-2025-46ji)
+- [IGN: Content Warning - Official Nintendo Switch Announcement Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-content-warning-official-nintendo-switch-announcement-trailer-nintendo-indie-world-2025-5ap4)
+- [IGN: Winter Burrow - Official Release Window Reveal Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-winter-burrow-official-release-window-reveal-trailer-nintendo-indie-world-2025-15ik)
+- [IGN: THE HORROR SECTION: The Piano Killer - Official Trailer &lpar;2025&rpar; Eli Roth, Hailey Kittle](https://dev.to/gg_news/ign-the-horror-section-the-piano-killer-official-trailer-2025-eli-roth-hailey-kittle-3enp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
