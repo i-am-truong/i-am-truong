@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [AI-Driven Prior Art Search and Patentability Assessment via Semantic Network Analysis](https://dev.to/freederia-research/ai-driven-prior-art-search-and-patentability-assessment-via-semantic-network-analysis-17nm)
 - [State Management in Flutter: Riverpod 2.0 vs. Bloc vs. Provider](https://dev.to/bestaoui_aymen/state-management-in-flutter-riverpod-20-vs-bloc-vs-provider-1ogh)
 - [Day 13 of My Data Analytics Journey !](https://dev.to/ramyacse/day-13-of-my-data-analytics-journey--3p6f)
-- [localhost:5173 -The Quiet Hero Behind Vite’s Blazing Dev Experience](https://dev.to/lightningdev123/localhost5173-the-quiet-hero-behind-vites-blazing-dev-experience-484g)
-- [Day 12 of My Data Analytics Journey](https://dev.to/ramyacse/day-12-of-my-data-analytics-journey-4old)
+- [Predictive Biofilm Dispersal Modeling via Dynamic Stochastic Differential Equations](https://dev.to/freederia-research/predictive-biofilm-dispersal-modeling-via-dynamic-stochastic-differential-equations-5aji)
+- [A Call to Action: The Power of Women&#39;s Rights Foundations and Economic Empowerment](https://dev.to/the_pazfoundation01_4ce1/a-call-to-action-the-power-of-womens-rights-foundations-and-economic-empowerment-2mek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
