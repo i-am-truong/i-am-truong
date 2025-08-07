@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Farlight 84 - Official Relaunch Trailer](https://dev.to/gg_news/ign-farlight-84-official-relaunch-trailer-3ekp)
-- [Access Private ec2 instances without Public IP using Instance Connect Endpoint](https://dev.to/ashraf-minhaj/access-private-ec2-instances-without-public-ip-using-instance-connect-endpoint-274k)
-- [[Boost]](https://dev.to/rajesh_patel/-f7)
-- [Mina Scheduler: Feature-rich React/shadcn/ui Calendar Component](https://dev.to/jqueryscript/mina-scheduler-feature-rich-reactshadcnui-calendar-component-21lb)
-- [SwaggerUI setup ASP.NET Core Web API](https://dev.to/sharadaade/swaggerui-setup-aspnet-core-web-api-2dja)
+- [How&#39;d you learn intervals?](https://dev.to/highcenburg/howd-you-learn-intervals-2l45)
+- [Crystal Methodology: Adapting Agile to Team Size and Project Type](https://dev.to/dct_technology/crystal-methodology-adapting-agile-to-team-size-and-project-type-2o9n)
+- [High-Dimensional Recursive Filtering for Enhanced Signal Amplification in Acoustic Microscopy](https://dev.to/freederia-research/high-dimensional-recursive-filtering-for-enhanced-signal-amplification-in-acoustic-microscopy-33in)
+- [[Boost]](https://dev.to/rajesh_patel/-4aca)
+- [[Boost]](https://dev.to/aryan_panwala/-ej5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
