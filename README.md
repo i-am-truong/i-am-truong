@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Tanstack Query: A Brief Guide](https://dev.to/muchai_joseph/understanding-tanstack-query-a-brief-guide-4dj5)
-- [Bridging Sim-to-Real Discrepancies via Adaptive Domain Generalization with Meta-Reinforcement Learning](https://dev.to/freederia-research/bridging-sim-to-real-discrepancies-via-adaptive-domain-generalization-with-meta-reinforcement-45dc)
-- [Seamless static analysis integration and overcoming false positives](https://dev.to/pvsdev/seamless-static-analysis-integration-and-overcoming-false-positives-45kd)
-- [The TypeScript Tax: A Performance Time Bomb in Your Tech Stack 💣](https://dev.to/copyleftdev/the-typescript-tax-a-performance-time-bomb-in-your-tech-stack-4mll)
-- [How to build anything on Ethereum -The ultimate guide to EIPs](https://dev.to/utkarshiniarora/how-to-build-anything-on-ethereum-the-ultimate-guide-to-eips-389e)
+- [I’m all about Kebarung Printed this year—they’re fun, colorful, and comfy! I’ll wear one for day two of Baju Raya 2025, and keep a Baju Kurung Pahang from https://carlanisa.com/](https://dev.to/milo_aiden_44e52f4a7dc8c4/im-all-about-kebarung-printed-this-year-theyre-fun-colorful-and-comfy-ill-wear-one-for-day-3864)
+- [Automated Root Cause Analysis via Dynamic Bayesian Network Calibration &amp; Predictive Maintenance Scoring](https://dev.to/freederia-research/automated-root-cause-analysis-via-dynamic-bayesian-network-calibration-predictive-maintenance-2do5)
+- [Leetcode - 127. Word Ladder](https://dev.to/rakeshreddy512/leetcode-127-word-ladder-10l1)
+- [Dynamic Material Property Prediction via Multi-Modal Graph Neural Networks and HyperScore Evaluation](https://dev.to/freederia-research/dynamic-material-property-prediction-via-multi-modal-graph-neural-networks-and-hyperscore-evaluation-a6g)
+- [How I Built a Responsive Dark Mode Toggle Using Vibe Coding?](https://dev.to/nithya_iyer/how-i-built-a-responsive-dark-mode-toggle-using-vibe-coding-58g5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
