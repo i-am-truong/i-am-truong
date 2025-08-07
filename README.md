@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Virtual Machine on Azure: A Beginner’s Hands-On Guide](https://dev.to/sudaisib/deploying-a-virtual-machine-on-azure-a-beginners-hands-on-guide-5gb)
-- [Feedback Please!!!](https://dev.to/member_afa0fb52/feedback-please-2882)
-- [GPT-5 Is Here: OpenAI&#39;s Biggest Leap Toward AGI Yet](https://dev.to/djleamen/gpt-5-is-here-openais-biggest-leap-toward-agi-yet-462b)
-- [Implementing Secure Authentication: Practical Tactics for Digital Identity Defense](https://dev.to/deepakgupta/implementing-secure-authentication-practical-tactics-for-digital-identity-defense-27ii)
-- [Pick and Place Machines](https://dev.to/frank_1871bc3c55f35370df3/pick-and-place-machines-3pkh)
+- [Adobe Creative Cloud: Editing the Same Scenario 3 Different Ways Using Adobe Stock](https://dev.to/design_youtube/adobe-creative-cloud-editing-the-same-scenario-3-different-ways-using-adobe-stock-3gg0)
+- [IGN: Pokemon Unite - Official Latias Overview Trailer](https://dev.to/gg_news/ign-pokemon-unite-official-latias-overview-trailer-38o1)
+- [IGN: Fortnite - Official OG Season 5 &#39;Worlds Collide Again&#39; Launch Trailer](https://dev.to/gg_news/ign-fortnite-official-og-season-5-worlds-collide-again-launch-trailer-4bik)
+- [IGN: Composer Akira Yamaoka Reflects on Returning to Silent Hill 2 23 Years Later](https://dev.to/gg_news/ign-composer-akira-yamaoka-reflects-on-returning-to-silent-hill-2-23-years-later-17nl)
+- [The Complete Nginx Mastery Series: From Zero to Production Hero](https://dev.to/unkletayo/the-complete-nginx-mastery-series-from-zero-to-production-hero-5cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
