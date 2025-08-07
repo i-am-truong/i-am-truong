@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Small Language Models: A better way to Agentic AI](https://dev.to/coralprotocol/small-language-models-a-better-way-to-agentic-ai-4o7)
+- [Why We Don’t Need Kubernetes for Services That Only Require a Couple of Servers](https://dev.to/tracywhodoesnot/why-we-dont-need-kubernetes-for-services-that-only-require-a-couple-of-servers-1o7k)
+- [GPT-5 Just Dropped. Here&#39;s Why Your Automation Stack Is Already Outdated](https://dev.to/alifar/gpt-5-just-dropped-heres-why-your-automation-stack-is-already-outdated-2lmj)
 - [Building an Intelligent Task Router for Multi-Model AI Systems with ML.NET](https://dev.to/auyeungdavid_2847435260/building-an-intelligent-task-router-for-multi-model-ai-systems-with-mlnet-hbo)
 - [5 Python Scripts That Taught Me Real-World Parsing and Automation](https://dev.to/1fahadshah/5-python-scripts-that-taught-me-real-world-parsing-and-automation-k9n)
-- [Angular AOT vs JIT: The Complete Guide with Practical Example &lpar;v20&rpar;](https://dev.to/abanoubkerols/angular-aot-vs-jit-the-complete-guide-with-practical-example-v20-g9p)
-- [Как установить купленный WarCraft III: The Frozen Throne в 2025 году?](https://dev.to/grawl/kak-ustanovit-kupliennyi-warcraft-iii-the-frozen-throne-v-2025-ghodu-128h)
-- [What Are the Best Practices for Building an Internal Network Management System with Django?](https://dev.to/alanhasn/what-are-the-best-practices-for-building-an-internal-network-management-system-with-django-12jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
