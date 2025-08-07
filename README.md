@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Redis vs RAG Speed Test: Sub-5ms Vector Search vs 500ms+ LLM Q&amp;A](https://dev.to/axrisi/redis-vs-rag-speed-test-sub-5ms-vector-search-vs-500ms-llm-qa-2hag)
-- [The Reality of Academic Publishing: Why the System Is Rigged](https://dev.to/owly/the-reality-of-academic-publishing-why-the-system-is-rigged-2e6)
-- [The Power of Accessibility Testing: Empowering Inclusivity in Digital Experiences](https://dev.to/devassure/the-power-of-accessibility-testing-empowering-inclusivity-in-digital-experiences-360g)
-- [A Simple Explanation: What Do 7B, 70B, and 175B Parameters in AI Models Mean?](https://dev.to/tube_you_16497efa22401797/a-simple-explanation-what-do-7b-70b-and-175b-parameters-in-ai-models-mean-17f)
-- [10 Signs You Need a Custom Software Development Company](https://dev.to/vrindasharma/10-signs-you-need-a-custom-software-development-company-1d0a)
+- [Don&#39;t Use &quot;any&quot; for Type-Safe TypeScript](https://dev.to/grenishrai/dont-use-any-for-type-safe-typescript-3cnd)
+- [Why Most Devs Waste APIs &lpar;Do This Instead&rpar;](https://dev.to/0x7b-shop/why-most-devs-waste-apis-do-this-instead-24ae)
+- [🧱 Build a Paywall System in 30 Minutes](https://dev.to/snappy_tuts/build-a-paywall-system-in-30-minutes-51a7)
+- [JavaScript Array Methods: Mutating vs Non-Mutating](https://dev.to/mohinsheikh/javascript-array-methods-mutating-vs-non-mutating-51d9)
+- [LeetCode #36. Valid Sudoku](https://dev.to/desiato/leetcode-36-valid-sudoku-3jmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
