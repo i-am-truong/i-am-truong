@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Universal Pictures to Big Tech: We&#39;ll Sue If You Steal Movies For AI](https://dev.to/popcorn_movies/universal-pictures-to-big-tech-well-sue-if-you-steal-movies-for-ai-55lm)
-- [‘Star Wars: Starfighter&#39;: Matt Smith Lands Villain Role In New Lucasfilm Pic Starring Ryan Gosling](https://dev.to/popcorn_movies/star-wars-starfighter-matt-smith-lands-villain-role-in-new-lucasfilm-pic-starring-ryan-gosling-3a66)
-- [‘Star Wars: A New Hope&#39; Will Get 50th Anniversary Theatrical Re-Release on April 30, 2027](https://dev.to/popcorn_movies/star-wars-a-new-hope-will-get-50th-anniversary-theatrical-re-release-on-april-30-2027-2n8h)
-- [AMC Theatres Looks To Shorten Ad Preshow Following Studios&#39; Ire](https://dev.to/popcorn_movies/amc-theatres-looks-to-shorten-ad-preshow-following-studios-ire-8jl)
-- [Practices Kotlin](https://dev.to/phc_phm_f8a22fb95083b09/practices-kotlin-1756)
+- [Test post](https://dev.to/ben/test-post-53ee)
+- [EA Shutting Down Four Games Forever in October](https://dev.to/gg_news/ea-shutting-down-four-games-forever-in-october-gfm)
+- [Deus Ex Lead Does Not Want You To Steal His Voice For A Cyberpunk 2077 Mod](https://dev.to/gg_news/deus-ex-lead-does-not-want-you-to-steal-his-voice-for-a-cyberpunk-2077-mod-5hhh)
+- [Valve point to Mastercard restrictions as the payment firm deny influencing adult game removals](https://dev.to/gg_news/valve-point-to-mastercard-restrictions-as-the-payment-firm-deny-influencing-adult-game-removals-5am7)
+- [Baldur&#39;s Gate 3 Actor Thinks Video Game Performers Are Being &quot;Slept On&quot; In Film And TV Adaptations](https://dev.to/gg_news/baldurs-gate-3-actor-thinks-video-game-performers-are-being-slept-on-in-film-and-tv-adaptations-n1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
