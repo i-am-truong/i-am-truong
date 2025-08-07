@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go Beyond Globals: A Practical Guide to Dependency Injection](https://dev.to/cliffdoyle/go-beyond-globals-a-practical-guide-to-dependency-injection-3i67)
-- [Enhanced Autonomous Underwater Vehicle &lpar;AUV&rpar; Self-Repair via Predictive Damage Modeling &amp; Dynamic Task Re-allocation](https://dev.to/freederia-research/enhanced-autonomous-underwater-vehicle-auv-self-repair-via-predictive-damage-modeling-dynamic-2j4f)
-- [Decibel Meter with ArkTS](https://dev.to/harmonyos/decibel-meter-with-arkts-2b9l)
-- [Benign - TryHackMe](https://dev.to/forrestcaffray/benign-tryhackme-299h)
-- [Why FinTech Companies Should Embrace Talent from Non-Banking &amp; Diverse IT Backgrounds](https://dev.to/tracywhodoesnot/why-fintech-companies-should-embrace-talent-from-non-banking-diverse-it-backgrounds-1oe0)
+- [Redis vs RAG Speed Test: Sub-5ms Vector Search vs 500ms+ LLM Q&amp;A](https://dev.to/axrisi/redis-vs-rag-speed-test-sub-5ms-vector-search-vs-500ms-llm-qa-2hag)
+- [The Reality of Academic Publishing: Why the System Is Rigged](https://dev.to/owly/the-reality-of-academic-publishing-why-the-system-is-rigged-2e6)
+- [The Power of Accessibility Testing: Empowering Inclusivity in Digital Experiences](https://dev.to/devassure/the-power-of-accessibility-testing-empowering-inclusivity-in-digital-experiences-360g)
+- [A Simple Explanation: What Do 7B, 70B, and 175B Parameters in AI Models Mean?](https://dev.to/tube_you_16497efa22401797/a-simple-explanation-what-do-7b-70b-and-175b-parameters-in-ai-models-mean-17f)
+- [10 Signs You Need a Custom Software Development Company](https://dev.to/vrindasharma/10-signs-you-need-a-custom-software-development-company-1d0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
