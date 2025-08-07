@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Creative Cloud: Editing the Same Scenario 3 Different Ways Using Adobe Stock](https://dev.to/design_youtube/adobe-creative-cloud-editing-the-same-scenario-3-different-ways-using-adobe-stock-3gg0)
-- [IGN: Pokemon Unite - Official Latias Overview Trailer](https://dev.to/gg_news/ign-pokemon-unite-official-latias-overview-trailer-38o1)
-- [IGN: Fortnite - Official OG Season 5 &#39;Worlds Collide Again&#39; Launch Trailer](https://dev.to/gg_news/ign-fortnite-official-og-season-5-worlds-collide-again-launch-trailer-4bik)
-- [IGN: Composer Akira Yamaoka Reflects on Returning to Silent Hill 2 23 Years Later](https://dev.to/gg_news/ign-composer-akira-yamaoka-reflects-on-returning-to-silent-hill-2-23-years-later-17nl)
-- [The Complete Nginx Mastery Series: From Zero to Production Hero](https://dev.to/unkletayo/the-complete-nginx-mastery-series-from-zero-to-production-hero-5cg)
+- [.NET Developer Skillset Matrix: Architecture to CI/CD for 2025](https://dev.to/dmitrybaraishuk/net-developer-skillset-matrix-architecture-to-cicd-for-2025-5646)
+- [Como defer me ajudou a equilibrar performance e acessibilidade](https://dev.to/carol8fml/como-defer-me-ajudou-a-equilibrar-performance-e-acessibilidade-1k9e)
+- [Architectural Principles for Startups &amp; Scale-Ups](https://dev.to/matthewbill/architectural-principles-for-startups-scale-ups-g31)
+- [What Does It Take to Leave a Digital Mark with E-books in a Rapidly Changing World?](https://dev.to/matthewpeterson/what-does-it-take-to-leave-a-digital-mark-with-e-books-in-a-rapidly-changing-world-o30)
+- [How Local Storage Wallets on Ethereum Work](https://dev.to/filosofiacodigoen/how-local-storage-wallets-on-ethereum-work-4c0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
