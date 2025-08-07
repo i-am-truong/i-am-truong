@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How&#39;d you learn intervals?](https://dev.to/highcenburg/howd-you-learn-intervals-2l45)
-- [Crystal Methodology: Adapting Agile to Team Size and Project Type](https://dev.to/dct_technology/crystal-methodology-adapting-agile-to-team-size-and-project-type-2o9n)
-- [High-Dimensional Recursive Filtering for Enhanced Signal Amplification in Acoustic Microscopy](https://dev.to/freederia-research/high-dimensional-recursive-filtering-for-enhanced-signal-amplification-in-acoustic-microscopy-33in)
-- [[Boost]](https://dev.to/rajesh_patel/-4aca)
-- [[Boost]](https://dev.to/aryan_panwala/-ej5)
+- [Mastering Swift 6 and SwiftUI in 2025: A Hands-On Tutorial](https://dev.to/nandamochammad/mastering-swift-6-and-swiftui-in-2025-a-hands-on-tutorial-4ceh)
+- [Enhanced Time-Series Analysis via Adaptive Resonance Graph Networks in Peripheral Clock Systems](https://dev.to/freederia-research/enhanced-time-series-analysis-via-adaptive-resonance-graph-networks-in-peripheral-clock-systems-34m3)
+- [Top Reasons to Choose Selenium for Your Test Automation Journey](https://dev.to/misterankit/top-reasons-to-choose-selenium-for-your-test-automation-journey-43p3)
+- [🚀 Automate Media Uploads to Cloudinary with Node.js: A Complete Guide](https://dev.to/manthanank/automate-media-uploads-to-cloudinary-with-nodejs-a-complete-guide-1eah)
+- [Multithreading in Java Explained: A Washing Machine Analogy](https://dev.to/sharique_siddiqui_8242dad/multithreading-in-java-explained-a-washing-machine-analogy-3g0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
