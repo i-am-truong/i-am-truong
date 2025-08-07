@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Virtual Machine on Azure: A Beginner’s Hands-On Guide](https://dev.to/sudaisib/deploying-a-virtual-machine-on-azure-a-beginners-hands-on-guide-5gb)
 - [Feedback Please!!!](https://dev.to/member_afa0fb52/feedback-please-2882)
 - [GPT-5 Is Here: OpenAI&#39;s Biggest Leap Toward AGI Yet](https://dev.to/djleamen/gpt-5-is-here-openais-biggest-leap-toward-agi-yet-462b)
 - [Implementing Secure Authentication: Practical Tactics for Digital Identity Defense](https://dev.to/deepakgupta/implementing-secure-authentication-practical-tactics-for-digital-identity-defense-27ii)
 - [Pick and Place Machines](https://dev.to/frank_1871bc3c55f35370df3/pick-and-place-machines-3pkh)
-- [🚀 My Developer Portfolio is Live!](https://dev.to/adufe775/my-developer-portfolio-is-live-2ain)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
