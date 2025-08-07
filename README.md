@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Balance Translation Quality &amp; Speed During a Crisis](https://dev.to/jennamitchell/how-to-balance-translation-quality-speed-during-a-crisis-l25)
+- [5 Essential React Practices for Building Robust Applications](https://dev.to/surajondev/5-essential-react-practices-for-building-robust-applications-669)
+- [Automation at Scale: Why ‘One Item at a Time’ Is Breaking Down](https://dev.to/piotrdiuk/automation-at-scale-why-one-item-at-a-time-is-breaking-down-1j2n)
 - [I Launched DjangoFixer — Here’s Why](https://dev.to/stokry/i-launched-djangofixer-heres-why-39p0)
 - [Few things to know](https://dev.to/shreyvijayvargiya/few-things-to-know-3dl8)
-- [DummyDatabase.com: DATA GENERATION MADE SIMPLE](https://dev.to/__db2165b93/dummydatabasecom-data-generation-made-simple-32i7)
-- [How I got my first job as a Snr. Front-end Developer - Exactly what I did and how i did them 💎❤️](https://dev.to/adewebdeveloper/how-i-got-my-first-job-as-a-snr-front-end-developer-exactly-what-i-did-and-how-i-did-them-5gk0)
-- [AWS IP Range Lookup Tool for Quick Security Checks](https://dev.to/aws-builders/aws-ip-range-lookup-tool-for-quick-security-checks-2cih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
