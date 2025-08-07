@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zrozumiec hooki](https://dev.to/itachiszep/zrozumiec-hooki-15j6)
-- [Como criei um protocolo descentralizado que transforma APIs em tokens reais com Proof-of-Work](https://dev.to/gustavodeoli/como-criei-um-protocolo-descentralizado-que-transforma-apis-em-tokens-reais-com-proof-of-work-2i4f)
-- [Building My First Production-Ready ELT Pipeline: A Student&#39;s Journey with Docker, PostgreSQL, dbt, and Airflow](https://dev.to/ashraf_elhoufi_7d4f413bf/building-my-first-production-ready-elt-pipeline-a-students-journey-with-docker-postgresql-dbt-1580)
-- [Construindo uma Aplicação com Comunicação em Tempo Real Usando Fastify, RabbitMQ e Arquitetura Distribuída](https://dev.to/layssadev/construindo-uma-aplicacao-com-comunicacao-em-tempo-real-usando-fastify-rabbitmq-e-arquitetura-29gi)
-- [A Task You MUST Do If You&#39;re Using Claude Code with Git](https://dev.to/charmpic/a-task-you-must-do-if-youre-using-claude-code-with-git-19g0)
+- [Discover the Future of Content Creation with AIGC 160: A Hub for Cutting-Edge AI Tools](https://dev.to/aigc160com/discover-the-future-of-content-creation-with-aigc-160-a-hub-for-cutting-edge-ai-tools-2pp0)
+- [Recovering Firestore Data Fast with PITR and Fuego](https://dev.to/sanbiv/recovering-firestore-data-fast-with-pitr-and-fuego-4kea)
+- [Python Essentials 1 – Completed! 🐍✨](https://dev.to/seifeldienahmad/python-essentials-1-completed-1n25)
+- [Building Strands Agents with a few lines of code: Agent-to-Agent &lpar;A2A&rpar; Communication](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-agent-to-agent-a2a-communication-18h1)
+- [Blazing Toukon HTML! A Game Born from GPT-5&#39;s Magic and Deployed Worldwide via Firebase](https://dev.to/torifukukaiou/blazing-toukon-html-a-game-born-from-gpt-5s-magic-and-deployed-worldwide-via-firebase-3fdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
