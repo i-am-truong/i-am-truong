@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Use &quot;any&quot; for Type-Safe TypeScript](https://dev.to/grenishrai/dont-use-any-for-type-safe-typescript-3cnd)
-- [Why Most Devs Waste APIs &lpar;Do This Instead&rpar;](https://dev.to/0x7b-shop/why-most-devs-waste-apis-do-this-instead-24ae)
-- [🧱 Build a Paywall System in 30 Minutes](https://dev.to/snappy_tuts/build-a-paywall-system-in-30-minutes-51a7)
-- [JavaScript Array Methods: Mutating vs Non-Mutating](https://dev.to/mohinsheikh/javascript-array-methods-mutating-vs-non-mutating-51d9)
-- [LeetCode #36. Valid Sudoku](https://dev.to/desiato/leetcode-36-valid-sudoku-3jmb)
+- [# 👥 How I Built a Secure and Clean User Impersonation Feature &lpar;ReactJS + NodeJS&rpar;](https://dev.to/akash_shukla/-how-i-built-a-secure-and-clean-user-impersonation-feature-reactjs-nodejs-40kn)
+- [Semantic HTML is how machines understand meaning](https://dev.to/adewebdeveloper/semantic-html-is-how-machines-understand-meaning-52a3)
+- [Monolith vs. Microservices: Choosing a Software Architecture](https://dev.to/alifa_ara_heya/monolith-vs-microservices-choosing-a-software-architecture-401n)
+- [Alec Steele: Turning a Picture of My Dog into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-of-my-dog-into-a-damascus-pattern-10o7)
+- [DocWire SDK 2025.08.05 Released – Local AI Embeddings, SentencePiece, Cosine Similarity](https://dev.to/novitzmann/docwire-sdk-20250805-released-local-ai-embeddings-sentencepiece-cosine-similarity-5ed3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
