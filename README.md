@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IGN: Farlight 84 - Official Relaunch Trailer](https://dev.to/gg_news/ign-farlight-84-official-relaunch-trailer-3ekp)
+- [Access Private ec2 instances without Public IP using Instance Connect Endpoint](https://dev.to/ashraf-minhaj/access-private-ec2-instances-without-public-ip-using-instance-connect-endpoint-274k)
+- [[Boost]](https://dev.to/rajesh_patel/-f7)
 - [Mina Scheduler: Feature-rich React/shadcn/ui Calendar Component](https://dev.to/jqueryscript/mina-scheduler-feature-rich-reactshadcnui-calendar-component-21lb)
 - [SwaggerUI setup ASP.NET Core Web API](https://dev.to/sharadaade/swaggerui-setup-aspnet-core-web-api-2dja)
-- [PseudoCLI – Your AI Man Pages](https://dev.to/abubakr_arif_b67103b8285c/pseudocli-your-ai-man-pages-4fbg)
-- [Chromium XXE Flaw Exposes Local Files &lpar;CVE-2023-4357&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/chromium-xxe-flaw-exposes-local-files-cve-2023-4357-16b9)
-- [Open Letter to Microsoft: Visual Studio Needs to Speak to New Developers Again](https://dev.to/ljvasquezr/open-letter-to-microsoft-visual-studio-needs-to-speak-to-new-developers-again-2bbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
