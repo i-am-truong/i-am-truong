@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Disaster Recovery and AI Vectors in MariaDB Kubernetes Operator 25.08.0](https://dev.to/alejandro_du/disaster-recovery-and-ai-vectors-in-mariadb-kubernetes-operator-25080-3k03)
-- [How to Extract Text from PDFs using Foxit’s REST APIs](https://dev.to/foxitdevelopers/how-to-extract-text-from-pdfs-using-foxits-rest-apis-578)
-- [How to Become a Better React Developer: The Basics and Beyond](https://dev.to/olga_tash/top-tips-to-become-better-react-developer-4cb0)
-- [Automated Anomaly Detection in Europa Clipper Radar Data Using Spectral Deconvolution and Bayesian Inference](https://dev.to/freederia-research/automated-anomaly-detection-in-europa-clipper-radar-data-using-spectral-deconvolution-and-bayesian-3bi5)
-- [&quot;Would combining Swagger and Postman make a better tool?&quot;](https://dev.to/dage212_62c1f5ac2eef6ab26/would-combining-swagger-and-postman-make-a-better-tool-5gf1)
+- [Mastering Interface Testing: Types, Tools, and Best Practices Explained](https://dev.to/jamescantor38/mastering-interface-testing-types-tools-and-best-practices-explained-5djc)
+- [There are new things about our game. Red i](https://dev.to/ahmed_omarzaed_08a43e734/there-are-new-things-about-our-game-red-i-50fk)
+- [Yuk, Ngoding AI: Gampang Kok, Nggak Pake Pusing!](https://dev.to/mahardika_rizki_357e36c67/yuk-ngoding-ai-gampang-kok-nggak-pake-pusing-3hmc)
+- [Mastering LINQ in C#: A Comprehensive Guide to Methods and When to Use Them](https://dev.to/iamcymentho/mastering-linq-in-c-a-comprehensive-guide-to-methods-and-when-to-use-them-267o)
+- [Nge-Code Santai: Menemukan &#39;Vibe&#39;-mu dalam Dunia Pemrograman](https://dev.to/mahardika_rizki_357e36c67/nge-code-santai-menemukan-vibe-mu-dalam-dunia-pemrograman-2a35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
