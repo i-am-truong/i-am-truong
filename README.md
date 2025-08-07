@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Test post](https://dev.to/ben/test-post-53ee)
-- [telemetry.ts file in Flyde codebase.](https://dev.to/ramunarasinga-11/telemetryts-file-in-flyde-codebase-251k)
-- [ID Selector in CSS: Why That # Symbol Isn’t Just a Trendy Hashtag](https://dev.to/codewithmishu/id-selector-in-css-why-that-symbol-isnt-just-a-trendy-hashtag-424b)
-- [EA Shutting Down Four Games Forever in October](https://dev.to/gg_news/ea-shutting-down-four-games-forever-in-october-gfm)
-- [Deus Ex Lead Does Not Want You To Steal His Voice For A Cyberpunk 2077 Mod](https://dev.to/gg_news/deus-ex-lead-does-not-want-you-to-steal-his-voice-for-a-cyberpunk-2077-mod-5hhh)
+- [Disaster Recovery and AI Vectors in MariaDB Kubernetes Operator 25.08.0](https://dev.to/alejandro_du/disaster-recovery-and-ai-vectors-in-mariadb-kubernetes-operator-25080-3k03)
+- [How to Extract Text from PDFs using Foxit’s REST APIs](https://dev.to/foxitdevelopers/how-to-extract-text-from-pdfs-using-foxits-rest-apis-578)
+- [How to Become a Better React Developer: The Basics and Beyond](https://dev.to/olga_tash/top-tips-to-become-better-react-developer-4cb0)
+- [Automated Anomaly Detection in Europa Clipper Radar Data Using Spectral Deconvolution and Bayesian Inference](https://dev.to/freederia-research/automated-anomaly-detection-in-europa-clipper-radar-data-using-spectral-deconvolution-and-bayesian-3bi5)
+- [&quot;Would combining Swagger and Postman make a better tool?&quot;](https://dev.to/dage212_62c1f5ac2eef6ab26/would-combining-swagger-and-postman-make-a-better-tool-5gf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
