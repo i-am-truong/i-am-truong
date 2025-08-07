@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Taming Goroutines - Efficient Concurrency with a Worker Pool in Go](https://dev.to/gkoos/taming-goroutines-efficient-concurrency-with-a-worker-pool-in-go-jag)
-- [AI Agent Promised Me a Website in One Prompt. It Forgot to Mention the PTSD of Working on a Legacy Codebas](https://dev.to/biswa_rizal_10c60a4ef3c5b/ai-agent-promised-me-a-website-in-one-prompt-it-forgot-to-mention-the-ptsd-of-working-on-a-legacy-21g6)
-- [This is a great article on design systems.](https://dev.to/mustyy/this-is-a-great-article-on-design-systems-4343)
-- [How to Switch Between Node Versions Using NVM](https://dev.to/lucy1/how-to-switch-between-node-versions-using-nvm-5ac5)
-- [Draw your custom polylines for directions on react-native-maps with Google Maps&#39; Routes API and handle rerouting.](https://dev.to/victor_olufade_241a02b9b0/draw-your-custom-polylines-for-directions-on-react-native-maps-with-google-maps-routes-api-and-1fj4)
+- [I Launched DjangoFixer — Here’s Why](https://dev.to/stokry/i-launched-djangofixer-heres-why-39p0)
+- [Few things to know](https://dev.to/shreyvijayvargiya/few-things-to-know-3dl8)
+- [DummyDatabase.com: DATA GENERATION MADE SIMPLE](https://dev.to/__db2165b93/dummydatabasecom-data-generation-made-simple-32i7)
+- [How I got my first job as a Snr. Front-end Developer - Exactly what I did and how i did them 💎❤️](https://dev.to/adewebdeveloper/how-i-got-my-first-job-as-a-snr-front-end-developer-exactly-what-i-did-and-how-i-did-them-5gk0)
+- [AWS IP Range Lookup Tool for Quick Security Checks](https://dev.to/aws-builders/aws-ip-range-lookup-tool-for-quick-security-checks-2cih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
