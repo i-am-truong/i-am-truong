@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simone Giertz: What I’ve learned from 10 years on YouTube](https://dev.to/maker_youtube/simone-giertz-what-ive-learned-from-10-years-on-youtube-3i9o)
-- [GameSpot: Ninja Gaiden 4 Is Exactly The Ninja Gaiden Game You&#39;re Hoping It Will Be | Hands-On Impressions](https://dev.to/gg_news/gamespot-ninja-gaiden-4-is-exactly-the-ninja-gaiden-game-youre-hoping-it-will-be-hands-on-37h3)
-- [IGN: Dying Light: The Beast - Official Inside Bober&#39;s Safe Zone Live-Action Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-inside-bobers-safe-zone-live-action-trailer-305)
-- [IGN: Jurassic World Evolution 3 - Official &#39;Shaping Your Parks&#39; Feature Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-shaping-your-parks-feature-trailer-o8c)
-- [IGN: Doom: The Dark Ages - Official Update 2 Launch Trailer](https://dev.to/gg_news/ign-doom-the-dark-ages-official-update-2-launch-trailer-2gpo)
+- [Oracle 23ai&lpar;23.9&rpar; — GROUP BY ALL](https://dev.to/vahidusefzadeh/oracle-23ai239-group-by-all-30of)
+- [Zrozumieć hooki](https://dev.to/itachiszep/zrozumiec-hooki-3n05)
+- [.NET: La Plataforma Ideal para Microservicios en 2025](https://dev.to/hopsersmerk/net-la-plataforma-ideal-para-microservicios-en-2025-115n)
+- [Adaptive Bio-Mimetic Control for Exoskeleton Shoulder Stability via Reinforcement Learning](https://dev.to/freederia-research/adaptive-bio-mimetic-control-for-exoskeleton-shoulder-stability-via-reinforcement-learning-1ldb)
+- [🎮 Turn Your GitHub Into a Game &lpar;Pacman, Snake &amp; Trophies!](https://dev.to/vidakhoshpey22/turn-your-github-into-a-game-pacman-snake-trophies-1hmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
