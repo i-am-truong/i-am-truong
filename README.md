@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Trust with Engineers &lpar;A Guide for Execs&rpar;](https://dev.to/linkbenjamin/how-to-build-trust-with-engineers-a-guide-for-execs-1j86)
-- [The Product Tension Between Automations and Workflows in Monday.com](https://dev.to/piotrdiuk/the-product-tension-between-automations-and-workflows-in-mondaycom-3if5)
-- [How do you track where your extension installs are coming from?](https://dev.to/kishlay_kishore_3fc3eaa9c/how-do-you-track-where-your-extension-installs-are-coming-from-28dn)
-- [Meet Amanat Mann – My Journey as an App Developer](https://dev.to/amanatmann/meet-amanat-mann-my-journey-as-an-app-developer-591c)
-- [How to Balance Translation Quality &amp; Speed During a Crisis](https://dev.to/jennamitchell/how-to-balance-translation-quality-speed-during-a-crisis-l25)
+- [Go Beyond Globals: A Practical Guide to Dependency Injection](https://dev.to/cliffdoyle/go-beyond-globals-a-practical-guide-to-dependency-injection-3i67)
+- [Enhanced Autonomous Underwater Vehicle &lpar;AUV&rpar; Self-Repair via Predictive Damage Modeling &amp; Dynamic Task Re-allocation](https://dev.to/freederia-research/enhanced-autonomous-underwater-vehicle-auv-self-repair-via-predictive-damage-modeling-dynamic-2j4f)
+- [Decibel Meter with ArkTS](https://dev.to/harmonyos/decibel-meter-with-arkts-2b9l)
+- [Benign - TryHackMe](https://dev.to/forrestcaffray/benign-tryhackme-299h)
+- [Why FinTech Companies Should Embrace Talent from Non-Banking &amp; Diverse IT Backgrounds](https://dev.to/tracywhodoesnot/why-fintech-companies-should-embrace-talent-from-non-banking-diverse-it-backgrounds-1oe0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
