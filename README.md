@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Driven Prior Art Search and Patentability Assessment via Semantic Network Analysis](https://dev.to/freederia-research/ai-driven-prior-art-search-and-patentability-assessment-via-semantic-network-analysis-17nm)
-- [State Management in Flutter: Riverpod 2.0 vs. Bloc vs. Provider](https://dev.to/bestaoui_aymen/state-management-in-flutter-riverpod-20-vs-bloc-vs-provider-1ogh)
-- [Day 13 of My Data Analytics Journey !](https://dev.to/ramyacse/day-13-of-my-data-analytics-journey--3p6f)
-- [Predictive Biofilm Dispersal Modeling via Dynamic Stochastic Differential Equations](https://dev.to/freederia-research/predictive-biofilm-dispersal-modeling-via-dynamic-stochastic-differential-equations-5aji)
-- [A Call to Action: The Power of Women&#39;s Rights Foundations and Economic Empowerment](https://dev.to/the_pazfoundation01_4ce1/a-call-to-action-the-power-of-womens-rights-foundations-and-economic-empowerment-2mek)
+- [How to ACTUALLY learn JavaScript... A roadmap for beginners](https://dev.to/fabianfrankwerner/how-to-actually-learn-javascript-a-roadmap-for-beginners-a2n)
+- [Dynamic Traffic Flow Prediction and Congestion Mitigation via Hyperdimensional Ensemble Learning](https://dev.to/freederia-research/dynamic-traffic-flow-prediction-and-congestion-mitigation-via-hyperdimensional-ensemble-learning-478h)
+- [How to Make Money with AI‑Generated Digital Products](https://dev.to/marcocabrerahdez/how-to-make-money-with-ai-generated-digital-products-261g)
+- [Automated Knowledge Synthesis &amp; Validation for Scientific Literature Review](https://dev.to/freederia-research/automated-knowledge-synthesis-validation-for-scientific-literature-review-3jbd)
+- [The Best Cloud Architecture Tools for Startups, Picks That Have Helped Me Build Faster](https://dev.to/rasmuskask/the-best-cloud-architecture-tools-for-startups-picks-that-have-helped-me-build-faster-3fen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
