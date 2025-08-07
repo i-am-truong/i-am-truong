@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Content Security in the Digital Age: How to Protect Your Work from Theft and Misuse](https://dev.to/okoye_ndidiamaka_5e3b7d30/content-security-in-the-digital-age-how-to-protect-your-work-from-theft-and-misuse-2h4o)
-- [Deciphering Conformational Dynamics: A Predictive Model for Cyclohexane Ring](https://dev.to/freederia-research/deciphering-conformational-dynamics-a-predictive-model-for-cyclohexane-ring-2jlh)
-- [Boosting Problem-Solving Skills: The Unseen Advantage of Online Learning for Students](https://dev.to/ghummantech/boosting-problem-solving-skills-the-unseen-advantage-of-online-learning-for-students-hih)
-- [Enhanced Microbial Community Dynamics Prediction via Spatio-Temporal Graph Neural Networks](https://dev.to/freederia-research/enhanced-microbial-community-dynamics-prediction-via-spatio-temporal-graph-neural-networks-4262)
-- [What Comes After “Senior Developer”? &lpar;The Ceiling No One Talks About&rpar;](https://dev.to/thecynicaldeveloper/what-comes-after-senior-developer-the-ceiling-no-one-talks-about-4koe)
+- [Understanding Tanstack Query: A Brief Guide](https://dev.to/muchai_joseph/understanding-tanstack-query-a-brief-guide-4dj5)
+- [Bridging Sim-to-Real Discrepancies via Adaptive Domain Generalization with Meta-Reinforcement Learning](https://dev.to/freederia-research/bridging-sim-to-real-discrepancies-via-adaptive-domain-generalization-with-meta-reinforcement-45dc)
+- [Seamless static analysis integration and overcoming false positives](https://dev.to/pvsdev/seamless-static-analysis-integration-and-overcoming-false-positives-45kd)
+- [The TypeScript Tax: A Performance Time Bomb in Your Tech Stack 💣](https://dev.to/copyleftdev/the-typescript-tax-a-performance-time-bomb-in-your-tech-stack-4mll)
+- [How to build anything on Ethereum -The ultimate guide to EIPs](https://dev.to/utkarshiniarora/how-to-build-anything-on-ethereum-the-ultimate-guide-to-eips-389e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
