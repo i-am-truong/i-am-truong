@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Zano: A Node.js-like Runtime in Rust](https://dev.to/rareniches/building-zano-a-nodejs-like-runtime-in-rust-12fi)
+- [GPT-5 Release: Features, Pricing, Benchmarks &amp; Why It’s a Game-Changer](https://dev.to/icornea/gpt-5-release-features-pricing-benchmarks-why-its-a-game-changer-1l3l)
+- [Solomon Protocol: Real-Time Job Analysis with Redis AI](https://dev.to/looneyrichie/solomon-protocol-real-time-job-analysis-with-redis-ai-53og)
 - [Discover the Future of Content Creation with AIGC 160: A Hub for Cutting-Edge AI Tools](https://dev.to/aigc160com/discover-the-future-of-content-creation-with-aigc-160-a-hub-for-cutting-edge-ai-tools-2pp0)
 - [Recovering Firestore Data Fast with PITR and Fuego](https://dev.to/sanbiv/recovering-firestore-data-fast-with-pitr-and-fuego-4kea)
-- [Python Essentials 1 – Completed! 🐍✨](https://dev.to/seifeldienahmad/python-essentials-1-completed-1n25)
-- [Building Strands Agents with a few lines of code: Agent-to-Agent &lpar;A2A&rpar; Communication](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-agent-to-agent-a2a-communication-18h1)
-- [Estou estudando isso aqui, recursão e otimização de função de cauda](https://dev.to/jeffque/estou-estudando-isso-aqui-recursao-e-otimizacao-de-funcao-de-cauda-3b2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
