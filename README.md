@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Observable Macro in SwiftUI: A Tutorial for Developers](https://dev.to/nandamochammad/mastering-observable-macro-in-swiftui-a-tutorial-for-developers-4ml7)
-- [armaan](https://dev.to/armaan_khan_efca707a58975/armaan-24ga)
-- [Landbase Emerges from Stealth with $12.5M Seed Round to Intelligently Automate Your Go-to-Market](https://dev.to/land_base_gtm/landbase-emerges-from-stealth-with-125m-seed-round-to-intelligently-automate-your-go-to-market-2hgg)
-- [Understanding Inheritance in Object-Oriented Programming: A Family Tree Analogy](https://dev.to/sharique_siddiqui_8242dad/understanding-inheritance-in-object-oriented-programming-a-family-tree-analogy-46ab)
-- [Mastering Swift 6 and SwiftUI in 2025: A Hands-On Tutorial](https://dev.to/nandamochammad/mastering-swift-6-and-swiftui-in-2025-a-hands-on-tutorial-4ceh)
+- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting](https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-bpe)
+- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-4clg)
+- [Developer-First Documentation: Why 73% of Teams Fail and How to Build Docs That Get Used](https://dev.to/teamcamp/developer-first-documentation-why-73-of-teams-fail-and-how-to-build-docs-that-get-used-47am)
+- [Aurora DSQL: How to Control Time](https://dev.to/aws-builders/aurora-dsql-how-to-control-time-1kh5)
+- [test1](https://dev.to/armaankhan8270/test1-3ep8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
