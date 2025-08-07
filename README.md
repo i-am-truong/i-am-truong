@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [# 👥 How I Built a Secure and Clean User Impersonation Feature &lpar;ReactJS + NodeJS&rpar;](https://dev.to/akash_shukla/-how-i-built-a-secure-and-clean-user-impersonation-feature-reactjs-nodejs-40kn)
-- [Semantic HTML is how machines understand meaning](https://dev.to/adewebdeveloper/semantic-html-is-how-machines-understand-meaning-52a3)
-- [Monolith vs. Microservices: Choosing a Software Architecture](https://dev.to/alifa_ara_heya/monolith-vs-microservices-choosing-a-software-architecture-401n)
-- [Alec Steele: Turning a Picture of My Dog into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-of-my-dog-into-a-damascus-pattern-10o7)
-- [DocWire SDK 2025.08.05 Released – Local AI Embeddings, SentencePiece, Cosine Similarity](https://dev.to/novitzmann/docwire-sdk-20250805-released-local-ai-embeddings-sentencepiece-cosine-similarity-5ed3)
+- [🧠 Day 27 of Learning DSA: Solved One LeetCode Problems &lpar;Valid Anagram - Easy for Beginners&rpar;](https://dev.to/abhishek-nexgen-dev/day-27-of-learning-dsa-solved-one-leetcode-problems-valid-anagram-easy-for-beginners-1al2)
+- [A day in payilagam](https://dev.to/manikandan_a8f99e0153ef77/a-day-in-payilagam-522k)
+- [MindVault: Beyond the Code - WLH Challenge](https://dev.to/ariondev/mindvault-beyond-the-code-wlh-challenge-40d)
+- [✨ Loaf — Free Beautiful SVG Animations for Your Websites](https://dev.to/ml318097/loaf-free-beautiful-svg-animations-for-your-websites-4mfh)
+- [Shaping the Science of Immigrant Family Life: The Legacy of Dr. Su Yeong Kim](https://dev.to/min_seo_10/shaping-the-science-of-immigrant-family-life-the-legacy-of-dr-su-yeong-kim-1ome)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
