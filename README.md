@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Trust with Engineers &lpar;A Guide for Execs&rpar;](https://dev.to/linkbenjamin/how-to-build-trust-with-engineers-a-guide-for-execs-1j86)
+- [The Product Tension Between Automations and Workflows in Monday.com](https://dev.to/piotrdiuk/the-product-tension-between-automations-and-workflows-in-mondaycom-3if5)
+- [How do you track where your extension installs are coming from?](https://dev.to/kishlay_kishore_3fc3eaa9c/how-do-you-track-where-your-extension-installs-are-coming-from-28dn)
+- [Meet Amanat Mann – My Journey as an App Developer](https://dev.to/amanatmann/meet-amanat-mann-my-journey-as-an-app-developer-591c)
 - [How to Balance Translation Quality &amp; Speed During a Crisis](https://dev.to/jennamitchell/how-to-balance-translation-quality-speed-during-a-crisis-l25)
-- [5 Essential React Practices for Building Robust Applications](https://dev.to/surajondev/5-essential-react-practices-for-building-robust-applications-669)
-- [Automation at Scale: Why ‘One Item at a Time’ Is Breaking Down](https://dev.to/piotrdiuk/automation-at-scale-why-one-item-at-a-time-is-breaking-down-1j2n)
-- [I Launched DjangoFixer — Here’s Why](https://dev.to/stokry/i-launched-djangofixer-heres-why-39p0)
-- [Few things to know](https://dev.to/shreyvijayvargiya/few-things-to-know-3dl8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
