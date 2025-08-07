@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Deep Dive: Why and How Projects Use Multiple Programming Languages](https://dev.to/aadarsh-nagrath/the-deep-dive-why-and-how-projects-use-multiple-programming-languages-ej8)
-- [GPT 5](https://dev.to/avanichols_dev/gpt-5-513f)
-- [How to build a self-improving agent that updates your UI in real time](https://dev.to/oliver_s_516239543d897f1d/how-to-build-a-self-improving-agent-that-updates-your-ui-in-real-time-1588)
-- [Empacotando programas com Nix](https://dev.to/jjoaoll/empacotando-programas-com-nix-4g3g)
-- [How to Perform Reinforcement Learning with R](https://dev.to/dipti_m_2e7ba36c478d1a48a/how-to-perform-reinforcement-learning-with-r-3nn6)
+- [Implementing Secure Authentication: Practical Tactics for Digital Identity Defense](https://dev.to/deepakgupta/implementing-secure-authentication-practical-tactics-for-digital-identity-defense-27ii)
+- [Pick and Place Machines](https://dev.to/frank_1871bc3c55f35370df3/pick-and-place-machines-3pkh)
+- [🚀 My Developer Portfolio is Live!](https://dev.to/adufe775/my-developer-portfolio-is-live-2ain)
+- [The top_k and top_p Parameters Explained](https://dev.to/uhasker/the-topk-and-topp-parameters-explained-42ao)
+- [Quantifying Spin-Lattice Coupling Anomaly Detection via Bayesian Neural Field Analysis](https://dev.to/freederia-research/quantifying-spin-lattice-coupling-anomaly-detection-via-bayesian-neural-field-analysis-354m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
