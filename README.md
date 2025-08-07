@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to ACTUALLY learn JavaScript... A roadmap for beginners](https://dev.to/fabianfrankwerner/how-to-actually-learn-javascript-a-roadmap-for-beginners-a2n)
-- [Dynamic Traffic Flow Prediction and Congestion Mitigation via Hyperdimensional Ensemble Learning](https://dev.to/freederia-research/dynamic-traffic-flow-prediction-and-congestion-mitigation-via-hyperdimensional-ensemble-learning-478h)
-- [How to Make Money with AI‑Generated Digital Products](https://dev.to/marcocabrerahdez/how-to-make-money-with-ai-generated-digital-products-261g)
-- [Automated Knowledge Synthesis &amp; Validation for Scientific Literature Review](https://dev.to/freederia-research/automated-knowledge-synthesis-validation-for-scientific-literature-review-3jbd)
-- [The Best Cloud Architecture Tools for Startups, Picks That Have Helped Me Build Faster](https://dev.to/rasmuskask/the-best-cloud-architecture-tools-for-startups-picks-that-have-helped-me-build-faster-3fen)
+- [This is a great article on design systems.](https://dev.to/mustyy/this-is-a-great-article-on-design-systems-4343)
+- [How to Switch Between Node Versions Using NVM](https://dev.to/lucy1/how-to-switch-between-node-versions-using-nvm-5ac5)
+- [Draw your custom polylines for directions on react-native-maps with Google Maps&#39; Routes API and handle rerouting.](https://dev.to/victor_olufade_241a02b9b0/draw-your-custom-polylines-for-directions-on-react-native-maps-with-google-maps-routes-api-and-1fj4)
+- [Sera UI - Modern React Component Library](https://dev.to/seraui/sera-ui-modern-react-component-library-1ak4)
+- [📊AWS Load Balancers-Part 1](https://dev.to/akashabish/aws-load-balancers-our-traffic-police-in-the-cloud-3ck5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
