@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Test post](https://dev.to/ben/test-post-53ee)
+- [telemetry.ts file in Flyde codebase.](https://dev.to/ramunarasinga-11/telemetryts-file-in-flyde-codebase-251k)
+- [ID Selector in CSS: Why That # Symbol Isn’t Just a Trendy Hashtag](https://dev.to/codewithmishu/id-selector-in-css-why-that-symbol-isnt-just-a-trendy-hashtag-424b)
 - [EA Shutting Down Four Games Forever in October](https://dev.to/gg_news/ea-shutting-down-four-games-forever-in-october-gfm)
 - [Deus Ex Lead Does Not Want You To Steal His Voice For A Cyberpunk 2077 Mod](https://dev.to/gg_news/deus-ex-lead-does-not-want-you-to-steal-his-voice-for-a-cyberpunk-2077-mod-5hhh)
-- [Valve point to Mastercard restrictions as the payment firm deny influencing adult game removals](https://dev.to/gg_news/valve-point-to-mastercard-restrictions-as-the-payment-firm-deny-influencing-adult-game-removals-5am7)
-- [Baldur&#39;s Gate 3 Actor Thinks Video Game Performers Are Being &quot;Slept On&quot; In Film And TV Adaptations](https://dev.to/gg_news/baldurs-gate-3-actor-thinks-video-game-performers-are-being-slept-on-in-film-and-tv-adaptations-n1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
