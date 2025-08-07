@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-2amg)
-- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-381j)
-- [React Server Components: What Problems Do They Actually Solve?](https://dev.to/abhishekkrpand1/react-server-components-what-problems-do-they-actually-solve-48m6)
-- [I Built an API, Left It for Years, Then Someone Subscribed — Here&#39;s What I Learned](https://dev.to/thosedev/i-built-an-api-left-it-for-years-then-someone-subscribed-heres-what-i-learned-4ab6)
-- [Testando com Monkey Patching](https://dev.to/_richardson_/testando-com-monkey-patching-10c8)
+- [Congrats to the Algolia MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-mcp-challenge-winners-2ccd)
+- [1 RN Thing a Day – Day 3: What Is Babel](https://dev.to/ola_1313/1-rn-thing-a-day-day-3-what-is-babel-k0n)
+- [Building an Application with Real-Time Communication Using Fastify, RabbitMQ, and a Distributed Architecture](https://dev.to/layssadev/building-a-real-time-application-with-fastify-rabbitmq-and-a-distributed-architecture-1h4h)
+- [Actionable Cloud Cost Forecasting - Powered by Retool | Widle](https://dev.to/widlestudio/actionable-cloud-cost-forecasting-powered-by-retool-widle-e1m)
+- [Helping a Friend, Shifting Focus #32](https://dev.to/0xj0n1/helping-a-friend-shifting-focus-32-km9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
