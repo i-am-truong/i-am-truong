@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Oracle 23ai&lpar;23.9&rpar; — GROUP BY ALL](https://dev.to/vahidusefzadeh/oracle-23ai239-group-by-all-30of)
-- [Zrozumieć hooki](https://dev.to/itachiszep/zrozumiec-hooki-3n05)
-- [.NET: La Plataforma Ideal para Microservicios en 2025](https://dev.to/hopsersmerk/net-la-plataforma-ideal-para-microservicios-en-2025-115n)
-- [Adaptive Bio-Mimetic Control for Exoskeleton Shoulder Stability via Reinforcement Learning](https://dev.to/freederia-research/adaptive-bio-mimetic-control-for-exoskeleton-shoulder-stability-via-reinforcement-learning-1ldb)
-- [🎮 Turn Your GitHub Into a Game &lpar;Pacman, Snake &amp; Trophies!](https://dev.to/vidakhoshpey22/turn-your-github-into-a-game-pacman-snake-trophies-1hmf)
+- [Zrozumiec hooki](https://dev.to/itachiszep/zrozumiec-hooki-15j6)
+- [Como criei um protocolo descentralizado que transforma APIs em tokens reais com Proof-of-Work](https://dev.to/gustavodeoli/como-criei-um-protocolo-descentralizado-que-transforma-apis-em-tokens-reais-com-proof-of-work-2i4f)
+- [Building My First Production-Ready ELT Pipeline: A Student&#39;s Journey with Docker, PostgreSQL, dbt, and Airflow](https://dev.to/ashraf_elhoufi_7d4f413bf/building-my-first-production-ready-elt-pipeline-a-students-journey-with-docker-postgresql-dbt-1580)
+- [Construindo uma Aplicação com Comunicação em Tempo Real Usando Fastify, RabbitMQ e Arquitetura Distribuída](https://dev.to/layssadev/construindo-uma-aplicacao-com-comunicacao-em-tempo-real-usando-fastify-rabbitmq-e-arquitetura-29gi)
+- [A Task You MUST Do If You&#39;re Using Claude Code with Git](https://dev.to/charmpic/a-task-you-must-do-if-youre-using-claude-code-with-git-19g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
