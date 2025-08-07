@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Recovering Firestore Data Fast with PITR and Fuego](https://dev.to/sanbiv/recovering-firestore-data-fast-with-pitr-and-fuego-4kea)
 - [Python Essentials 1 – Completed! 🐍✨](https://dev.to/seifeldienahmad/python-essentials-1-completed-1n25)
 - [Building Strands Agents with a few lines of code: Agent-to-Agent &lpar;A2A&rpar; Communication](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-agent-to-agent-a2a-communication-18h1)
-- [Blazing Toukon HTML! A Game Born from GPT-5&#39;s Magic and Deployed Worldwide via Firebase](https://dev.to/torifukukaiou/blazing-toukon-html-a-game-born-from-gpt-5s-magic-and-deployed-worldwide-via-firebase-3fdc)
+- [Estou estudando isso aqui, recursão e otimização de função de cauda](https://dev.to/jeffque/estou-estudando-isso-aqui-recursao-e-otimizacao-de-funcao-de-cauda-3b2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
