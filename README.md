@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📨 Mocking Emails in a Spring Boot App Using MailHog – How I Integrated Email Testing into N1netails](https://dev.to/shahidfoy/mocking-emails-in-a-spring-boot-app-using-mailhog-how-i-integrated-email-testing-into-n1netails-1p5)
-- [Congrats to the Algolia MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-mcp-challenge-winners-2ccd)
-- [🚀 Lessons learnt: What Being an SDET Taught Me About Test Automation](https://dev.to/suseelak/lessons-learnt-what-being-an-sdet-taught-me-about-test-automation-4fcd)
-- [1 RN Thing a Day – Day 3: What Is Babel](https://dev.to/ola_1313/1-rn-thing-a-day-day-3-what-is-babel-k0n)
-- [Building an Application with Real-Time Communication Using Fastify, RabbitMQ, and a Distributed Architecture](https://dev.to/layssadev/building-a-real-time-application-with-fastify-rabbitmq-and-a-distributed-architecture-1h4h)
+- [Simone Giertz: What I’ve learned from 10 years on YouTube](https://dev.to/maker_youtube/simone-giertz-what-ive-learned-from-10-years-on-youtube-3i9o)
+- [GameSpot: Ninja Gaiden 4 Is Exactly The Ninja Gaiden Game You&#39;re Hoping It Will Be | Hands-On Impressions](https://dev.to/gg_news/gamespot-ninja-gaiden-4-is-exactly-the-ninja-gaiden-game-youre-hoping-it-will-be-hands-on-37h3)
+- [IGN: Dying Light: The Beast - Official Inside Bober&#39;s Safe Zone Live-Action Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-inside-bobers-safe-zone-live-action-trailer-305)
+- [IGN: Jurassic World Evolution 3 - Official &#39;Shaping Your Parks&#39; Feature Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-shaping-your-parks-feature-trailer-o8c)
+- [IGN: Doom: The Dark Ages - Official Update 2 Launch Trailer](https://dev.to/gg_news/ign-doom-the-dark-ages-official-update-2-launch-trailer-2gpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
