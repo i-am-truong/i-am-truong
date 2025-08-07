@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Interface Testing: Types, Tools, and Best Practices Explained](https://dev.to/jamescantor38/mastering-interface-testing-types-tools-and-best-practices-explained-5djc)
-- [There are new things about our game. Red i](https://dev.to/ahmed_omarzaed_08a43e734/there-are-new-things-about-our-game-red-i-50fk)
-- [Yuk, Ngoding AI: Gampang Kok, Nggak Pake Pusing!](https://dev.to/mahardika_rizki_357e36c67/yuk-ngoding-ai-gampang-kok-nggak-pake-pusing-3hmc)
-- [Mastering LINQ in C#: A Comprehensive Guide to Methods and When to Use Them](https://dev.to/iamcymentho/mastering-linq-in-c-a-comprehensive-guide-to-methods-and-when-to-use-them-267o)
-- [Nge-Code Santai: Menemukan &#39;Vibe&#39;-mu dalam Dunia Pemrograman](https://dev.to/mahardika_rizki_357e36c67/nge-code-santai-menemukan-vibe-mu-dalam-dunia-pemrograman-2a35)
+- [Building an Intelligent Task Router for Multi-Model AI Systems with ML.NET](https://dev.to/auyeungdavid_2847435260/building-an-intelligent-task-router-for-multi-model-ai-systems-with-mlnet-hbo)
+- [5 Python Scripts That Taught Me Real-World Parsing and Automation](https://dev.to/1fahadshah/5-python-scripts-that-taught-me-real-world-parsing-and-automation-k9n)
+- [Angular AOT vs JIT: The Complete Guide with Practical Example &lpar;v20&rpar;](https://dev.to/abanoubkerols/angular-aot-vs-jit-the-complete-guide-with-practical-example-v20-g9p)
+- [Как установить купленный WarCraft III: The Frozen Throne в 2025 году?](https://dev.to/grawl/kak-ustanovit-kupliennyi-warcraft-iii-the-frozen-throne-v-2025-ghodu-128h)
+- [What Are the Best Practices for Building an Internal Network Management System with Django?](https://dev.to/alanhasn/what-are-the-best-practices-for-building-an-internal-network-management-system-with-django-12jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
