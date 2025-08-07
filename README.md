@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [📨 Mocking Emails in a Spring Boot App Using MailHog – How I Integrated Email Testing into N1netails](https://dev.to/shahidfoy/mocking-emails-in-a-spring-boot-app-using-mailhog-how-i-integrated-email-testing-into-n1netails-1p5)
 - [Congrats to the Algolia MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-mcp-challenge-winners-2ccd)
+- [🚀 Lessons learnt: What Being an SDET Taught Me About Test Automation](https://dev.to/suseelak/lessons-learnt-what-being-an-sdet-taught-me-about-test-automation-4fcd)
 - [1 RN Thing a Day – Day 3: What Is Babel](https://dev.to/ola_1313/1-rn-thing-a-day-day-3-what-is-babel-k0n)
 - [Building an Application with Real-Time Communication Using Fastify, RabbitMQ, and a Distributed Architecture](https://dev.to/layssadev/building-a-real-time-application-with-fastify-rabbitmq-and-a-distributed-architecture-1h4h)
-- [Actionable Cloud Cost Forecasting - Powered by Retool | Widle](https://dev.to/widlestudio/actionable-cloud-cost-forecasting-powered-by-retool-widle-e1m)
-- [Helping a Friend, Shifting Focus #32](https://dev.to/0xj0n1/helping-a-friend-shifting-focus-32-km9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
