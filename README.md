@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I’m all about Kebarung Printed this year—they’re fun, colorful, and comfy! I’ll wear one for day two of Baju Raya 2025, and keep a Baju Kurung Pahang from https://carlanisa.com/](https://dev.to/milo_aiden_44e52f4a7dc8c4/im-all-about-kebarung-printed-this-year-theyre-fun-colorful-and-comfy-ill-wear-one-for-day-3864)
-- [Automated Root Cause Analysis via Dynamic Bayesian Network Calibration &amp; Predictive Maintenance Scoring](https://dev.to/freederia-research/automated-root-cause-analysis-via-dynamic-bayesian-network-calibration-predictive-maintenance-2do5)
-- [Leetcode - 127. Word Ladder](https://dev.to/rakeshreddy512/leetcode-127-word-ladder-10l1)
-- [Dynamic Material Property Prediction via Multi-Modal Graph Neural Networks and HyperScore Evaluation](https://dev.to/freederia-research/dynamic-material-property-prediction-via-multi-modal-graph-neural-networks-and-hyperscore-evaluation-a6g)
-- [How I Built a Responsive Dark Mode Toggle Using Vibe Coding?](https://dev.to/nithya_iyer/how-i-built-a-responsive-dark-mode-toggle-using-vibe-coding-58g5)
+- [AI-Driven Prior Art Search and Patentability Assessment via Semantic Network Analysis](https://dev.to/freederia-research/ai-driven-prior-art-search-and-patentability-assessment-via-semantic-network-analysis-17nm)
+- [State Management in Flutter: Riverpod 2.0 vs. Bloc vs. Provider](https://dev.to/bestaoui_aymen/state-management-in-flutter-riverpod-20-vs-bloc-vs-provider-1ogh)
+- [Day 13 of My Data Analytics Journey !](https://dev.to/ramyacse/day-13-of-my-data-analytics-journey--3p6f)
+- [localhost:5173 -The Quiet Hero Behind Vite’s Blazing Dev Experience](https://dev.to/lightningdev123/localhost5173-the-quiet-hero-behind-vites-blazing-dev-experience-484g)
+- [Day 12 of My Data Analytics Journey](https://dev.to/ramyacse/day-12-of-my-data-analytics-journey-4old)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
