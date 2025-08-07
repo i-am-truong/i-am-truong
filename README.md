@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting](https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-bpe)
-- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-4clg)
-- [Developer-First Documentation: Why 73% of Teams Fail and How to Build Docs That Get Used](https://dev.to/teamcamp/developer-first-documentation-why-73-of-teams-fail-and-how-to-build-docs-that-get-used-47am)
-- [Aurora DSQL: How to Control Time](https://dev.to/aws-builders/aurora-dsql-how-to-control-time-1kh5)
-- [test1](https://dev.to/armaankhan8270/test1-3ep8)
+- [At OWASP Cornucopia we have long stated that we will create more decks, and now we will!](https://dev.to/sydseter/at-owasp-cornucopia-we-have-long-stated-that-we-will-create-more-decks-and-now-we-will-4488)
+- [Learning intervals on the guitar](https://dev.to/highcenburg/learning-intervals-on-the-guitar-59k5)
+- [Automated Refractive Index Matching in Gels via Deep Learning Optimization](https://dev.to/freederia-research/automated-refractive-index-matching-in-gels-via-deep-learning-optimization-5ce0)
+- [AI-Driven Precision Agriculture Optimization via Dynamic Multi-Modal Data Fusion and Reinforcement Learning](https://dev.to/freederia-research/ai-driven-precision-agriculture-optimization-via-dynamic-multi-modal-data-fusion-and-reinforcement-59ek)
+- [What Are IT Components in IT Asset Management &lpar;ITAM&rpar;?](https://dev.to/teresa_tran/what-are-it-components-in-it-asset-management-itam-5e87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
