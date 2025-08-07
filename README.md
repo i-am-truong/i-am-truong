@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go Basics: How to Use Enums, Structs, and Interfaces Effectively](https://dev.to/lovestaco/go-basics-how-to-use-enums-structs-and-interfaces-effectively-2bi0)
-- [IGN: Glaciered - Official Nintendo Switch 2 Release Window Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-glaciered-official-nintendo-switch-2-release-window-trailer-nintendo-indie-world-2025-46ji)
-- [IGN: Content Warning - Official Nintendo Switch Announcement Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-content-warning-official-nintendo-switch-announcement-trailer-nintendo-indie-world-2025-5ap4)
-- [IGN: Winter Burrow - Official Release Window Reveal Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-winter-burrow-official-release-window-reveal-trailer-nintendo-indie-world-2025-15ik)
-- [IGN: THE HORROR SECTION: The Piano Killer - Official Trailer &lpar;2025&rpar; Eli Roth, Hailey Kittle](https://dev.to/gg_news/ign-the-horror-section-the-piano-killer-official-trailer-2025-eli-roth-hailey-kittle-3enp)
+- [The Deep Dive: Why and How Projects Use Multiple Programming Languages](https://dev.to/aadarsh-nagrath/the-deep-dive-why-and-how-projects-use-multiple-programming-languages-ej8)
+- [GPT 5](https://dev.to/avanichols_dev/gpt-5-513f)
+- [How to build a self-improving agent that updates your UI in real time](https://dev.to/oliver_s_516239543d897f1d/how-to-build-a-self-improving-agent-that-updates-your-ui-in-real-time-1588)
+- [Empacotando programas com Nix](https://dev.to/jjoaoll/empacotando-programas-com-nix-4g3g)
+- [How to Perform Reinforcement Learning with R](https://dev.to/dipti_m_2e7ba36c478d1a48a/how-to-perform-reinforcement-learning-with-r-3nn6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
