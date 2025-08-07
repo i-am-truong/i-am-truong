@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JUST STATIC it: Everthing about Static Keyword](https://dev.to/levii07/just-static-it-everthing-about-static-keyword-1eki)
+- [Choosing the Right Tech Stack for Scalable Product Engineering in 2025](https://dev.to/siliconsignals_ind/choosing-the-right-tech-stack-for-scalable-product-engineering-in-2025-al6)
+- [Azure Database for PostgreSQL](https://dev.to/angelo_matias/azure-database-for-postgresql-p22)
 - [Why I tell Claude Code to &quot;take your time, calm down!&quot;](https://dev.to/charmpic/why-i-tell-claude-code-to-take-your-time-calm-down-3ian)
 - [🧩 Why Dialog Doesn’t Work When Wrapped with Tooltip in Radix / ShadCN UI &lpar;And How to Fix It&rpar;](https://dev.to/harshmangalam/why-dialog-doesnt-work-when-wrapped-with-tooltip-in-radix-shadcn-ui-and-how-to-fix-it-4905)
-- [⚡ Boosting API Performance: 5 Practical Techniques Every Developer Should Know](https://dev.to/farhan_shahriar_/boosting-api-performance-5-practical-techniques-every-developer-should-know-98h)
-- [Shared with me: Using Vega Lite with Ember.js](https://dev.to/les2/shared-with-me-using-vega-lite-with-emberjs-45nj)
-- [বাংলায় Amazon EC2 কী ?](https://dev.to/sajjadrahman56/baanlaay-amazon-ec2-kii--16el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
