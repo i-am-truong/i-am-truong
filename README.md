@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [.NET Developer Skillset Matrix: Architecture to CI/CD for 2025](https://dev.to/dmitrybaraishuk/net-developer-skillset-matrix-architecture-to-cicd-for-2025-5646)
-- [Como defer me ajudou a equilibrar performance e acessibilidade](https://dev.to/carol8fml/como-defer-me-ajudou-a-equilibrar-performance-e-acessibilidade-1k9e)
-- [Architectural Principles for Startups &amp; Scale-Ups](https://dev.to/matthewbill/architectural-principles-for-startups-scale-ups-g31)
-- [What Does It Take to Leave a Digital Mark with E-books in a Rapidly Changing World?](https://dev.to/matthewpeterson/what-does-it-take-to-leave-a-digital-mark-with-e-books-in-a-rapidly-changing-world-o30)
-- [How Local Storage Wallets on Ethereum Work](https://dev.to/filosofiacodigoen/how-local-storage-wallets-on-ethereum-work-4c0p)
+- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-2amg)
+- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-381j)
+- [React Server Components: What Problems Do They Actually Solve?](https://dev.to/abhishekkrpand1/react-server-components-what-problems-do-they-actually-solve-48m6)
+- [I Built an API, Left It for Years, Then Someone Subscribed — Here&#39;s What I Learned](https://dev.to/thosedev/i-built-an-api-left-it-for-years-then-someone-subscribed-heres-what-i-learned-4ab6)
+- [Testando com Monkey Patching](https://dev.to/_richardson_/testando-com-monkey-patching-10c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
