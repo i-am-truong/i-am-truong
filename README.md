@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taming Goroutines - Efficient Concurrency with a Worker Pool in Go](https://dev.to/gkoos/taming-goroutines-efficient-concurrency-with-a-worker-pool-in-go-jag)
+- [AI Agent Promised Me a Website in One Prompt. It Forgot to Mention the PTSD of Working on a Legacy Codebas](https://dev.to/biswa_rizal_10c60a4ef3c5b/ai-agent-promised-me-a-website-in-one-prompt-it-forgot-to-mention-the-ptsd-of-working-on-a-legacy-21g6)
 - [This is a great article on design systems.](https://dev.to/mustyy/this-is-a-great-article-on-design-systems-4343)
 - [How to Switch Between Node Versions Using NVM](https://dev.to/lucy1/how-to-switch-between-node-versions-using-nvm-5ac5)
 - [Draw your custom polylines for directions on react-native-maps with Google Maps&#39; Routes API and handle rerouting.](https://dev.to/victor_olufade_241a02b9b0/draw-your-custom-polylines-for-directions-on-react-native-maps-with-google-maps-routes-api-and-1fj4)
-- [Sera UI - Modern React Component Library](https://dev.to/seraui/sera-ui-modern-react-component-library-1ak4)
-- [📊AWS Load Balancers-Part 1](https://dev.to/akashabish/aws-load-balancers-our-traffic-police-in-the-cloud-3ck5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
