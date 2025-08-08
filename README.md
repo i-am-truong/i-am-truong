@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What the heck is an Ontology?](https://dev.to/tc87/what-the-heck-is-an-ontology-40kc)
+- [Capture Slowly Changing Attributes in SQL - SCD Type 2](https://dev.to/ahmadmuhammad/capture-slowly-changing-attributes-in-sql-scd-type-2-1gmp)
 - [From Dev.to Posts to Running a Startup](https://dev.to/saminarp/from-devto-posts-to-running-a-startup-2np0)
-- [40% of top devs distrust AI coding tools in 2025.](https://dev.to/vaishakhvipin/40-of-top-devs-distrust-ai-coding-tools-in-2025-18jk)
-- [🚀 Master GraphQL from Zero to Production](https://dev.to/ml318097/master-graphql-from-zero-to-production-7in)
-- [Managing Supabase projects with Claude Code](https://dev.to/composiodev/managing-supabase-projects-with-claude-code-111h)
-- [Here&#39;s how you can serialize/deserialize an error into a plain object.](https://dev.to/ramunarasinga-11/heres-how-you-can-serializedeserialize-an-error-into-a-plain-object-7ea)
+- [Code Doesn’t Build a Business… Clients Do](https://dev.to/adewebdeveloper/code-doesnt-build-a-business-clients-do-1eg3)
+- [First post on creating my game](https://dev.to/feliza_bd3029de8f43126a44/first-post-on-creating-my-game-4na0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
