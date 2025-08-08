@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring UWB Positioning &amp; TinyML Edge AI for Smart Asset Tracking](https://dev.to/applekoiot/exploring-uwb-positioning-tinyml-edge-ai-for-smart-asset-tracking-498o)
-- [IGN: The House of The Dead 2: Remake - Official Launch Trailer](https://dev.to/gg_news/ign-the-house-of-the-dead-2-remake-official-launch-trailer-4jcb)
-- [IGN: Battlefield 6 | 4K RTX 5090 Conquest Gameplay](https://dev.to/gg_news/ign-battlefield-6-4k-rtx-5090-conquest-gameplay-3lo8)
-- [IGN: 2XKO Lead Champion Designer Talks Vi and Changes From Alpha Lab 2 | Evo 2025 Video Interview](https://dev.to/gg_news/ign-2xko-lead-champion-designer-talks-vi-and-changes-from-alpha-lab-2-evo-2025-video-interview-2nf3)
-- [IGN: Mafia: The Old Country Review](https://dev.to/gg_news/ign-mafia-the-old-country-review-4gk6)
+- [How to Build a Free Web OCR App for Images and PDF Files](https://dev.to/yushulx/how-to-build-a-free-web-ocr-app-for-images-and-pdf-files-3cp0)
+- [Exploratory Data Analysis &lpar;EDA&rpar; in Iris dataset](https://dev.to/ashwani_kumar_a70ee558a2c/exploratory-data-analysis-eda-in-iris-dataset-3f73)
+- [Introducing GPT-5: The Next Evolution in AI for Developers](https://dev.to/redoy49/introducing-gpt-5-the-next-evolution-in-ai-for-developers-k33)
+- [Queries](https://dev.to/armaan_khan_efca707a58975/queries-35kg)
+- [Create landing page](https://dev.to/mfrann/create-landing-page-56np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
