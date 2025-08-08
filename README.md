@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥 How to Build a Website with Webflow &lpar;2025 Guide&rpar;](https://dev.to/arhamshah55/how-to-build-a-website-with-webflow-2025-guide-85i)
-- [Code. SQLite. Time tables with recursive CTE](https://dev.to/axkira/code-sqlite-time-tables-with-recursive-cte-11md)
-- [From Failed Football Dreams to Tech: My Journey](https://dev.to/vincenttommi/from-failed-football-dreams-to-tech-my-journey-39j3)
-- [1 RN Thing a Day – Day 4: Usage of omitBy](https://dev.to/ola_1313/1-rn-thing-a-day-day-4-usage-of-omitby-4lif)
-- [Understanding the React Component Lifecycle: Class Components vs Function Components](https://dev.to/lourdessuello/understanding-the-react-component-lifecycle-class-components-vs-function-components-2n17)
+- [From Dev.to Posts to Running a Startup](https://dev.to/saminarp/from-devto-posts-to-running-a-startup-2np0)
+- [40% of top devs distrust AI coding tools in 2025.](https://dev.to/vaishakhvipin/40-of-top-devs-distrust-ai-coding-tools-in-2025-18jk)
+- [🚀 Master GraphQL from Zero to Production](https://dev.to/ml318097/master-graphql-from-zero-to-production-7in)
+- [Managing Supabase projects with Claude Code](https://dev.to/composiodev/managing-supabase-projects-with-claude-code-111h)
+- [Here&#39;s how you can serialize/deserialize an error into a plain object.](https://dev.to/ramunarasinga-11/heres-how-you-can-serializedeserialize-an-error-into-a-plain-object-7ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
