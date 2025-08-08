@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What the heck is an Ontology?](https://dev.to/tc87/what-the-heck-is-an-ontology-40kc)
-- [Capture Slowly Changing Attributes in SQL - SCD Type 2](https://dev.to/ahmadmuhammad/capture-slowly-changing-attributes-in-sql-scd-type-2-1gmp)
-- [From Dev.to Posts to Running a Startup](https://dev.to/saminarp/from-devto-posts-to-running-a-startup-2np0)
-- [Code Doesn’t Build a Business… Clients Do](https://dev.to/adewebdeveloper/code-doesnt-build-a-business-clients-do-1eg3)
-- [First post on creating my game](https://dev.to/feliza_bd3029de8f43126a44/first-post-on-creating-my-game-4na0)
+- [Getting Started with React.js: What, Why, and How](https://dev.to/megha_m/getting-started-with-reactjs-what-why-and-how-39if)
+- [How Smartwatches and Smartphones Count Your Steps: The Technology Behind Pedometers](https://dev.to/grenishrai/how-smartwatches-and-smartphones-count-your-steps-the-technology-behind-pedometers-514p)
+- [Adam Savage&#39;s Tested: Why There&#39;s a Saree at Smithsonian&#39;s @airandspace Museum](https://dev.to/maker_youtube/adam-savages-tested-why-theres-a-saree-at-smithsonians-airandspace-museum-1l6j)
+- [KEXP: Black Country, New Road - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-full-performance-live-on-kexp-5epn)
+- [Rick Shiels Golf: This was the WEIRDEST Round of Golf ever!](https://dev.to/youtube_golf/rick-shiels-golf-this-was-the-weirdest-round-of-golf-ever-3a6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
