@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Backbone of IT: Understanding the Role of a System Administrator](https://dev.to/christiana_orji/the-backbone-of-it-understanding-the-role-of-a-system-administrator-4mg7)
-- [The Complete Guide to ElevenLabs Plans Overages and Usage Based Pricing](https://dev.to/flexprice_8116ed925/the-complete-guide-to-elevenlabs-plans-overages-and-usage-based-pricing-3jam)
-- [VibeTDD Experiment 4.1: Project Setup and the Automation Reality Check](https://dev.to/maksim_matlakhov/vibetdd-experiment-41-project-setup-and-the-automation-reality-check-5f)
-- [Resources for Project Managers: Essential Tools, Websites, and Communities](https://dev.to/isabella_harry_e56dfaa53c/resources-for-project-managers-essential-tools-websites-and-communities-2jab)
-- [Zero to Docs Hero: Create a Python Documentation Generator with GPT-5](https://dev.to/ayush7614/zero-to-docs-hero-create-a-python-documentation-generator-with-gpt-5-1jaj)
+- [PIDM v1.2.0 – A Powerful Open-Source Download Manager Just Got Better!](https://dev.to/ericluckson1999/pidm-v120-a-powerful-open-source-download-manager-just-got-better-20ci)
+- [GPT-5: The Dawn of a New Era in Artificial Intelligence](https://dev.to/srijan-xi/gpt-5-the-dawn-of-a-new-era-in-artificial-intelligence-m44)
+- [Originality, Creativity, Visibility: The Three Multipliers of Modern Success](https://dev.to/blackscripts/originality-creativity-visibility-the-three-multipliers-of-modern-success-1j8c)
+- [Best Practices for Creating Error Code Patterns](https://dev.to/siswoyo/best-practices-for-creating-error-code-patterns-25nk)
+- [📘 LAMP Stack Implementation on AWS &lpar;EC2&rpar; &gt; Linux | Apache | MySQL | PHP](https://dev.to/heritageolaleye/lamp-stack-implementation-on-aws-ec2-linux-apache-mysql-php-2k6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
