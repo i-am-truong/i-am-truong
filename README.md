@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [9 Best Practices for Remote Work Success in 2025](https://dev.to/fluidwave/9-best-practices-for-remote-work-success-in-2025-2fml)
-- [I Built a Fast, Privacy-Friendly Base64 Tool for Developers — No Ads, Just Pure Utility](https://dev.to/nattee_kotsomnuan_cf7db0a/i-built-a-fast-privacy-friendly-base64-tool-for-developers-no-ads-just-pure-utility-3fbe)
-- [Build a Fast NLP Pipeline with Modern Text Tokenizer in C++](https://dev.to/mecanik/build-a-fast-nlp-pipeline-with-modern-text-tokenizer-in-c-17b6)
-- [Tired of Being Blocked? How to Get on the Digital &quot;ISP Whitelist&quot;](https://dev.to/ipshiftdaily_e7d728ba133d/tired-of-being-blocked-how-to-get-on-the-digital-isp-whitelist-2d89)
-- [Understanding Static vs. Non-Static Methods in Java: The Office Analogy](https://dev.to/sharique_siddiqui_8242dad/understanding-static-vs-non-static-methods-in-java-the-office-analogy-3pee)
+- [How to translate PDF files in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-translate-pdf-files-in-java-tutorial-2gfe)
+- [💼🚀 Top AI Tools Small Businesses Should Use in 2025 &lpar;With Real Use Cases!&rpar;](https://dev.to/tahamjp/top-ai-tools-small-businesses-should-use-in-2025-with-real-use-cases-318f)
+- [Embedding Similarity Explained: How to Measure Text Semantics](https://dev.to/uhasker/embedding-similarity-explained-how-to-measure-text-semantics-3hk2)
+- [Complex Query Handling in CQRS: Minimizing Roundtrips and Latency with Projection Materialization](https://dev.to/xuan_56087d315ff4f52254e6/complex-query-handling-in-cqrs-minimizing-roundtrips-and-latency-with-projection-materialization-494n)
+- [No More Backend Setup: Launch Your App with Skapi in Minutes](https://dev.to/skapi_api/no-more-backend-setup-launch-your-app-with-skapi-in-minutes-b85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
