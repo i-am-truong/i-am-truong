@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Astro 5, Storybook 9, Vite 7, and Tailwind 3 🐇🕳️](https://dev.to/ingosteinke/integrating-astro-5-storybook-9-vite-7-and-tailwind-3-54ja)
-- [Comprehensive Guide to Building and Using a Custom WordPress REST API for Matterport 3D Home Model Integration](https://dev.to/shahibur_rahman_6670cd024/comprehensive-guide-to-building-and-using-a-custom-wordpress-rest-api-for-matterport-3d-home-model-26l3)
-- [You&#39;ve Built a GenServer. Now Make It Fast, Observable and Bulletproof](https://dev.to/artfreshcode/youve-built-a-genserver-now-make-it-fast-observable-and-bulletproof-3dnm)
-- [How We Cut Our Client&#39;s AWS Bill by 90% by Going Serverless](https://dev.to/mehul_budasana/how-we-cut-our-clients-aws-bill-by-90-by-going-serverless-29fk)
-- [Running Salesforce CLI &lpar;sfdx&rpar; on Buildkite pipeline](https://dev.to/poponuts/running-salesforce-cli-sfdx-on-buildkite-pipeline-46ac)
+- [The Backbone of IT: Understanding the Role of a System Administrator](https://dev.to/christiana_orji/the-backbone-of-it-understanding-the-role-of-a-system-administrator-4mg7)
+- [The Complete Guide to ElevenLabs Plans Overages and Usage Based Pricing](https://dev.to/flexprice_8116ed925/the-complete-guide-to-elevenlabs-plans-overages-and-usage-based-pricing-3jam)
+- [VibeTDD Experiment 4.1: Project Setup and the Automation Reality Check](https://dev.to/maksim_matlakhov/vibetdd-experiment-41-project-setup-and-the-automation-reality-check-5f)
+- [Resources for Project Managers: Essential Tools, Websites, and Communities](https://dev.to/isabella_harry_e56dfaa53c/resources-for-project-managers-essential-tools-websites-and-communities-2jab)
+- [Zero to Docs Hero: Create a Python Documentation Generator with GPT-5](https://dev.to/ayush7614/zero-to-docs-hero-create-a-python-documentation-generator-with-gpt-5-1jaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
