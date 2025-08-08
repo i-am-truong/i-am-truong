@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From nginx to ngrok: Dogfooding our own website with Traffic Policy](https://dev.to/ngrok/from-nginx-to-ngrok-dogfooding-our-own-website-with-traffic-policy-417i)
-- [GPT-5 Is Here: What It Really Means for Junior Developers &lpar;Like Me&rpar;](https://dev.to/talaamm/gpt-5-is-here-what-it-really-means-for-junior-developers-like-me-591k)
-- [Joining and grouping on array fields in MongoDB may require using $unwind before applying $group or $lookup](https://dev.to/franckpachot/joining-and-grouping-on-array-fields-in-mongodb-may-require-using-unwind-before-applying-group-or-41nj)
-- [Why Every Developer Should Fear NOT Using ChatGPT](https://dev.to/dev_resources/why-every-developer-should-fear-not-using-chatgpt-423g)
-- [Git &amp; GitHub basics in one post](https://dev.to/essijunior/git-github-basics-in-one-post-4me7)
+- [IGN: Mafia: The Old Country - Official Accolades Trailer](https://dev.to/gg_news/ign-mafia-the-old-country-official-accolades-trailer-12jf)
+- [IGN: Peak - Official &#39;The Mesa Update&#39; Release Date Teaser Trailer](https://dev.to/gg_news/ign-peak-official-the-mesa-update-release-date-teaser-trailer-46ng)
+- [IGN: Noah Hawley Reveals His Process in Creating FX’s Alien: Earth | SDCC 2025](https://dev.to/gg_news/ign-noah-hawley-reveals-his-process-in-creating-fxs-alien-earth-sdcc-2025-3dmn)
+- [Create API with NestJS using TDD approach, part 3!!](https://dev.to/joedev090/create-api-with-nestjs-using-tdd-approach-part-3-4j2a)
+- [Best Web Development Frameworks for 2026](https://dev.to/abubakersiddique761/best-web-development-frameworks-for-2026-3h0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
