@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s prototype headsets show off the future of mixed reality](https://dev.to/future_arvr/metas-prototype-headsets-show-off-the-future-of-mixed-reality-3ek5)
-- [ChatGPT will ‘better detect&#39; mental distress after reports of it feeding people&#39;s delusions](https://dev.to/future_ai/chatgpt-will-better-detect-mental-distress-after-reports-of-it-feeding-peoples-delusions-4eo1)
-- [Truth Social&#39;s new AI search engine basically just pushes Fox News](https://dev.to/future_ai/truth-socials-new-ai-search-engine-basically-just-pushes-fox-news-4i19)
-- [OpenAI&#39;s GPT-5 Is Here](https://dev.to/future_ai/openais-gpt-5-is-here-3idj)
-- [Big tech has spent $155bn on AI this year. It&#39;s about to spend hundreds of billions more](https://dev.to/future_ai/big-tech-has-spent-155bn-on-ai-this-year-its-about-to-spend-hundreds-of-billions-more-ee3)
+- [[Boost]](https://dev.to/ben/-1m7m)
+- [Hi7o: Redefining Real-Time Communication with AI](https://dev.to/mrqwenty/hi7o-redefining-real-time-communication-with-ai-63h)
+- [🧠 5 AI Skills Every Developer Needs in 2025](https://dev.to/manukumar07/5-ai-skills-every-developer-needs-in-2025-hi1)
+- [Down the Rabbit Hole with Claude Code: My Journey to Window Key Switcher](https://dev.to/hsablonniere/down-the-rabbit-hole-with-claude-code-my-journey-to-window-key-switcher-482l)
+- [Following Concord&#39;s historic failure, Sony admits its live-service push is &quot;not entirely going smoothly”](https://dev.to/gg_news/following-concords-historic-failure-sony-admits-its-live-service-push-is-not-entirely-going-1ede)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
