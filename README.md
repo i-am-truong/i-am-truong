@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Packet Sniffing 101: How to Focus on a Specific Wi-Fi Network](https://dev.to/rijultp/packet-sniffing-101-how-to-focus-on-a-specific-wi-fi-network-2154)
-- [2025 macOS Development Environment Setup Guide](https://dev.to/binbingoloo/2025-macos-development-environment-setup-guide-4jj0)
-- [Day 9 of #30DaysOfCode](https://dev.to/justacoder_0x/day-9-of-30daysofcode-fb0)
-- [CSS: the language with no syntax](https://dev.to/matthewdean/css-the-language-with-no-syntax-oom)
-- [Apaixonado por desenvolvimento web e raciocínio lógico. Explorando HTML, CSS e JavaScript para criar experiências interativas. Curioso por ciência, som cinematográfico e nomes com significado. Sempre em busca de aprender e construir com propósito.](https://dev.to/almirante_orlandomoiane_/apaixonado-por-desenvolvimento-web-e-raciocinio-logico-explorando-html-css-e-javascript-para-1mpd)
+- [Guía de activación de Windows 11](https://dev.to/pcsupport/guia-de-activacion-de-windows-11-592p)
+- [🎭 A CGAN Story: Three Attempts and an Incomplete Ending](https://dev.to/ertugrulmutlu/a-cgan-story-three-attempts-and-an-incomplete-ending-2a1b)
+- [👋 Hi, I’m Tarun — A Full Stack Developer Exploring React, Node &amp; Python](https://dev.to/tarun_patidar_db2866e2273/hi-im-tarun-a-full-stack-developer-exploring-react-node-python-1d1b)
+- [The Future is Serverless: Transformative Strategies for Developers and Businesses](https://dev.to/adrea_berry_96ce0f56c31eb/the-future-is-serverless-transformative-strategies-for-developers-and-businesses-46gm)
+- [I Built a Free AI YouTube Toolkit with 14+ Powerful Tools — No Login, No Limits](https://dev.to/avijit_patra_18/i-built-a-free-ai-youtube-toolkit-with-14-powerful-tools-no-login-no-limits-2g9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
