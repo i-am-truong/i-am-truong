@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-1m7m)
-- [Hi7o: Redefining Real-Time Communication with AI](https://dev.to/mrqwenty/hi7o-redefining-real-time-communication-with-ai-63h)
-- [🧠 5 AI Skills Every Developer Needs in 2025](https://dev.to/manukumar07/5-ai-skills-every-developer-needs-in-2025-hi1)
-- [Down the Rabbit Hole with Claude Code: My Journey to Window Key Switcher](https://dev.to/hsablonniere/down-the-rabbit-hole-with-claude-code-my-journey-to-window-key-switcher-482l)
-- [Following Concord&#39;s historic failure, Sony admits its live-service push is &quot;not entirely going smoothly”](https://dev.to/gg_news/following-concords-historic-failure-sony-admits-its-live-service-push-is-not-entirely-going-1ede)
+- [Free SQL Tool to Understand Your Database Visually](https://dev.to/roxana_haidiner/free-sql-tool-to-understand-your-database-visually-4485)
+- [MilonAI - Collaborative AI Chat Application: Building with Bolt - WLH Challenge](https://dev.to/ariondev/milonai-collaborative-ai-chat-application-building-with-bolt-wlh-challenge-mnc)
+- [🧠 CNN from Scratch](https://dev.to/7axel/cnn-from-scratch-49ji)
+- [Getting CrewAI to run local, the prep work of the infra always exceeds the actual learning work](https://dev.to/hanswillem/getting-crewai-to-run-local-the-prep-work-of-the-infra-always-exceeds-the-actual-learning-work-2hh0)
+- [Cuando la tecnología no agrega valor](https://dev.to/jfsan/cuando-la-tecnologia-no-agrega-valor-5gd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
