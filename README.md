@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Zano: A Node.js-like Runtime in Rust](https://dev.to/rareniches/building-zano-a-nodejs-like-runtime-in-rust-12fi)
-- [GPT-5 Release: Features, Pricing, Benchmarks &amp; Why It’s a Game-Changer](https://dev.to/icornea/gpt-5-release-features-pricing-benchmarks-why-its-a-game-changer-1l3l)
-- [Solomon Protocol: Real-Time Job Analysis with Redis AI](https://dev.to/looneyrichie/solomon-protocol-real-time-job-analysis-with-redis-ai-53og)
-- [Discover the Future of Content Creation with AIGC 160: A Hub for Cutting-Edge AI Tools](https://dev.to/aigc160com/discover-the-future-of-content-creation-with-aigc-160-a-hub-for-cutting-edge-ai-tools-2pp0)
-- [Recovering Firestore Data Fast with PITR and Fuego](https://dev.to/sanbiv/recovering-firestore-data-fast-with-pitr-and-fuego-4kea)
+- [Exploring UWB Positioning &amp; TinyML Edge AI for Smart Asset Tracking](https://dev.to/applekoiot/exploring-uwb-positioning-tinyml-edge-ai-for-smart-asset-tracking-498o)
+- [IGN: The House of The Dead 2: Remake - Official Launch Trailer](https://dev.to/gg_news/ign-the-house-of-the-dead-2-remake-official-launch-trailer-4jcb)
+- [IGN: Battlefield 6 | 4K RTX 5090 Conquest Gameplay](https://dev.to/gg_news/ign-battlefield-6-4k-rtx-5090-conquest-gameplay-3lo8)
+- [IGN: 2XKO Lead Champion Designer Talks Vi and Changes From Alpha Lab 2 | Evo 2025 Video Interview](https://dev.to/gg_news/ign-2xko-lead-champion-designer-talks-vi-and-changes-from-alpha-lab-2-evo-2025-video-interview-2nf3)
+- [IGN: Mafia: The Old Country Review](https://dev.to/gg_news/ign-mafia-the-old-country-review-4gk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
