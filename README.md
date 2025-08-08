@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WTF is Micro Frontends?](https://dev.to/dailybugle33/wtf-is-micro-frontends-3lnn)
-- [Building an AI-Powered Cloud Engineer Agent](https://dev.to/dinindu_suriyamudali_e604/building-an-ai-powered-cloud-engineer-agent-11me)
-- [Reclaim the Web: Introducing Shogun, a Toolkit for True Decentralization](https://dev.to/francesco_bruno_8ab1546a2/reclaim-the-web-introducing-shogun-a-toolkit-for-true-decentralization-4e3)
-- [Building a Reactive Undo/Redo Feature in Svelte 5](https://dev.to/temesgen_adane_6812383a87/building-a-reactive-undoredo-feature-in-svelte-5-1bmi)
-- [Building Collaborative Interfaces: Operational Transforms vs. CRDTs](https://dev.to/puritanic/building-collaborative-interfaces-operational-transforms-vs-crdts-2obo)
+- [9 Best Practices for Remote Work Success in 2025](https://dev.to/fluidwave/9-best-practices-for-remote-work-success-in-2025-2fml)
+- [I Built a Fast, Privacy-Friendly Base64 Tool for Developers — No Ads, Just Pure Utility](https://dev.to/nattee_kotsomnuan_cf7db0a/i-built-a-fast-privacy-friendly-base64-tool-for-developers-no-ads-just-pure-utility-3fbe)
+- [Build a Fast NLP Pipeline with Modern Text Tokenizer in C++](https://dev.to/mecanik/build-a-fast-nlp-pipeline-with-modern-text-tokenizer-in-c-17b6)
+- [Tired of Being Blocked? How to Get on the Digital &quot;ISP Whitelist&quot;](https://dev.to/ipshiftdaily_e7d728ba133d/tired-of-being-blocked-how-to-get-on-the-digital-isp-whitelist-2d89)
+- [Understanding Static vs. Non-Static Methods in Java: The Office Analogy](https://dev.to/sharique_siddiqui_8242dad/understanding-static-vs-non-static-methods-in-java-the-office-analogy-3pee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
