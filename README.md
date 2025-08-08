@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing WordPress Object Cache with Memcached: Per-Site Flush, Monitoring &amp; Optimization](https://dev.to/mainulspace/managing-wordpress-object-cache-with-memcached-per-site-flush-monitoring-optimization-l9j)
-- [Rate limiting is not a backend feature. It’s a business function.](https://dev.to/levleontiev/rate-limiting-is-not-a-backend-feature-its-a-business-function-14l3)
-- [Kaminari: Next.js 15 Starter with Tailwind CSS &amp; shadcn-ui](https://dev.to/jqueryscript/kaminari-nextjs-15-starter-with-tailwind-css-shadcn-ui-50pp)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-5a94)
-- [Effortless Laravel Localization: Auto-Generate JSON Locale Files and Translate with Google or DeepL](https://dev.to/amiteiitech/effortless-laravel-localization-auto-generate-json-locale-files-and-translate-with-google-or-deepl-2dcb)
+- [The Strategy Behind Vennar Builds capes&#39; Bold New Identity by Creador Designs From a Name to a Brand: The Challenge](https://dev.to/creadoedesign_dc8b68907e86/the-strategy-behind-vennar-builds-capes-bold-new-identity-by-creador-designs-from-a-name-to-a-3mh5)
+- [String, StringBuilder and StringBuffer: An Analogy](https://dev.to/sharique_siddiqui_8242dad/string-stringbuilder-and-stringbuffer-an-analogy-ogh)
+- [Harnessing Dynamic Graph Neural Networks for Real-Time Anomaly Detection in O-연결 당사슬 Logistics](https://dev.to/freederia-research/harnessing-dynamic-graph-neural-networks-for-real-time-anomaly-detection-in-o-yeongyeol-dangsaseul-logistics-1ic)
+- [7 Ready-Made Layouts &amp; UI for SaaS Dashboards and Data Viz](https://dev.to/jqueryscript/7-ready-made-layouts-ui-for-saas-dashboards-and-data-viz-lj5)
+- [[Boost]](https://dev.to/nikhil_sachapara/-3722)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
