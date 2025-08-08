@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automated Formulation Optimization for Targeted Immunoadjuvant Peptide Delivery in Injectable Immunotherapy](https://dev.to/freederia-research/automated-formulation-optimization-for-targeted-immunoadjuvant-peptide-delivery-in-injectable-48bg)
 - [&lpar;Low&rpar;Code Maturity Model](https://dev.to/ggondim/lowcode-maturity-model-105e)
 - [NautilusTrader: The Open-Source Trading Platform](https://dev.to/kpcofgs/nautilustrader-the-open-source-trading-platform-5dji)
 - [A Beginner-Friendly Guide to Docs as Code &amp; CI/CD Pipelines](https://dev.to/uzukwu_michael_91a95b823b/a-beginner-friendly-guide-to-docs-as-code-cicd-pipelines-470l)
 - [Qyra AI - AI Customer Support Chatbot](https://dev.to/codertacina/ai-customer-support-chatbot-1pda)
-- [Day 41/180 of Frontend Dev: Styling Forms and Tables](https://dev.to/code_2/day-41180-of-frontend-dev-styling-forms-and-tables-56he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
