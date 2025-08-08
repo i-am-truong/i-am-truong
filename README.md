@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tracking GPT-5 Bugs Together: Introducing the Scalevise GPT-5 Bug &amp; Issue Tracker](https://dev.to/alifar/tracking-gpt-5-bugs-together-introducing-the-scalevise-gpt-5-bug-issue-tracker-1l0j)
+- [Migrating Tenant Management System From Mongodb To Redis Backend](https://dev.to/greeny/migrating-tenant-management-system-from-mongodb-to-redis-backend-29il)
 - [ETL &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/etl-bite-size-article-42mf)
 - [Fundamentos e Sintaxe Moderna](https://dev.to/maahbatistaa/fundamentos-e-sintaxe-moderna-1com)
 - [PR Reviews: The Silent Team Killer? Let&#39;s Talk About It 🔍](https://dev.to/pinkynrg/pr-reviews-the-silent-team-killer-lets-talk-about-it-kon)
-- [I Tried GPT-5 for Coding — My Review](https://dev.to/nikolayadvolodkin/i-tried-gpt-5-for-coding-my-review-346n)
-- [Make Money Fast with gpt-oss AI](https://dev.to/abubakersiddique761/make-money-fast-with-gpt-oss-ai-p71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
