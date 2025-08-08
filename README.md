@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DoH: como funciona a consulta DNS no Clear Address?](https://dev.to/rdeavila/doh-como-funciona-a-consulta-dns-no-clear-address-4e7c)
-- [Ethical Hacking and Bug Bounty Programs: Building a Safer Digital Future](https://dev.to/bongani_khoza_17e85fafd02/ethical-hacking-and-bug-bounty-programs-building-a-safer-digital-future-49k0)
-- [Learning Go as a .NET Developer](https://dev.to/purejoymind/learning-go-as-a-net-developer-38mp)
-- [How to make Cursor an Agent that Never Forgets and 10x your productivity](https://dev.to/heysolhq/how-to-make-cursor-an-agent-that-never-forgets-and-10x-your-productivity-108a)
-- [🛑 Error Boundaries in React — Catch JavaScript Errors Without Crashing the Whole App](https://dev.to/aman_kureshi_/error-boundaries-in-react-catch-javascript-errors-without-crashing-the-whole-app-1acb)
+- [GPT-5 Just Landed… and I Think I Need a Seatbelt🏃](https://dev.to/naresh_82de734ade4c1c66d9/gpt-5-just-landed-and-i-think-i-need-a-seatbelt-5c1i)
+- [Layer 4 Load Balancing Using NGINX and Docker](https://dev.to/olymahmud/layer-4-load-balancing-using-nginx-and-docker-21c0)
+- [Keep API Work Local: Why Offline-First Beats Cloud-Based Tools?](https://dev.to/kiselitza/keep-api-work-local-why-offline-first-beats-cloud-based-tools-50l6)
+- [Cómo Instalar Factorio de Steam en Debian, Ubuntu y Otras Distribuciones de Linux](https://dev.to/juniormendoza3044/como-instalar-factorio-de-steam-en-debian-ubuntu-y-otras-distribuciones-de-linux-2p4d)
+- [Understanding Linux Mint: A User-Friendly Operating System](https://dev.to/kemerlamigra/understanding-linux-mint-a-user-friendly-operating-system-2409)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
