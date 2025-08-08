@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [setup arch + hyprland yesterday. gonna rice it up &amp; setup docker &amp; stuff on it~](https://dev.to/999satya/setup-arch-hyprland-yesterday-gonna-rice-it-up-setup-docker-stuff-on-it-52pe)
-- [Generating Dynamic Avatars in Angular Using DiceBear.](https://dev.to/davidongora/generating-dynamic-avatars-in-angular-using-dicebear-3npp)
-- [INSTALLING NODE.JS](https://dev.to/asran_2025/installing-nodejs-4ba0)
-- [Agile Unified Process &lpar;AUP&rpar;: Combining Agile with Unified Modeling](https://dev.to/dct_technology/agile-unified-process-aup-combining-agile-with-unified-modeling-27kk)
-- [Practice#1: Regular Filtering and Grouping &amp; Aggregation](https://dev.to/esproc_spl/practice1-regular-filtering-and-grouping-aggregation-5e9n)
+- [The 4-Day Work Week for Developers: 12 Companies Sharing Real Data](https://dev.to/teamcamp/the-4-day-work-week-for-developers-12-companies-sharing-real-data-ocl)
+- [Monitoring Your App with Prometheus and Grafana](https://dev.to/addwebsolutionpvtltd/monitoring-your-app-with-prometheus-and-grafana-3p97)
+- [Angular Signals + RxJS: объединяем два реактивных мира в одном стейт-менеджере](https://dev.to/del4k1/angular-signals-rxjs-obiediniaiem-dva-rieaktivnykh-mira-v-odnom-stieit-mieniedzhierie-4o3n)
+- [[Boost]](https://dev.to/davidongora/-16b6)
+- [switch case in java Script](https://dev.to/selvakumar_r_4bac08f5eaa6/switch-case-in-java-script-4hid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
