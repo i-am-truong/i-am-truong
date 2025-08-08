@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Free Web OCR App for Images and PDF Files](https://dev.to/yushulx/how-to-build-a-free-web-ocr-app-for-images-and-pdf-files-3cp0)
-- [Exploratory Data Analysis &lpar;EDA&rpar; in Iris dataset](https://dev.to/ashwani_kumar_a70ee558a2c/exploratory-data-analysis-eda-in-iris-dataset-3f73)
-- [Introducing GPT-5: The Next Evolution in AI for Developers](https://dev.to/redoy49/introducing-gpt-5-the-next-evolution-in-ai-for-developers-k33)
-- [Queries](https://dev.to/armaan_khan_efca707a58975/queries-35kg)
-- [Create landing page](https://dev.to/mfrann/create-landing-page-56np)
+- [Program on while loop](https://dev.to/preethi_nandhagopal_6d075/program-on-while-loop-4bk0)
+- [What&#39;s New in GPT 5 That Benefits Developers?](https://dev.to/dhruvjoshi9/whats-new-in-gpt-5-that-benefits-developers-4kdn)
+- [Practical lessons from building production agentic systems](https://dev.to/urbanisierung/practical-lessons-from-building-production-agentic-systems-5ea6)
+- [AI-Powered Data Engineering Pipelines: Smarter, Faster, Scalable](https://dev.to/santosh_ronanki_9438d5944/ai-powered-data-engineering-pipelines-smarter-faster-scalable-l5e)
+- [𝗦𝗺𝗮𝗿𝘁 𝗔𝗹𝗲𝗿𝘁𝘀: 𝗘𝗺𝗮𝗶𝗹 𝗡𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗖𝗜/𝗖𝗗 𝗙𝗮𝗶𝗹𝘂𝗿𝗲𝘀](https://dev.to/supraja_tangella_b7f0738e/--6dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
