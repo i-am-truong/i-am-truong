@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Primary Key in SQL? Learn with Examples](https://dev.to/roxana_haidiner/what-is-a-primary-key-in-sql-learn-with-examples-4bbl)
-- [🚀 Base64Kit: A Lightning-Fast, Privacy-First Web Tool with Perfect Lighthouse Score!](https://dev.to/nattee_kotsomnuan_cf7db0a/base64kit-a-lightning-fast-privacy-first-web-tool-with-perfect-lighthouse-score-489n)
-- [Fewer bugs—more FPS: how static analysis benefits Unreal Engine projects](https://dev.to/pvsdev/seamless-static-analysis-integration-and-overcoming-false-positives-3b1e)
-- [How Type Branding Solved an &#39;Impossible&#39; TypeScript Problem](https://dev.to/cordlesswool/how-type-branding-solved-an-impossible-typescript-problem-4k21)
-- [My &quot;Finished&quot; Project Exploded on Linux. An AI and I Put Out the Fires.](https://dev.to/henk_van_hoek/my-finished-project-exploded-on-linux-an-ai-and-i-put-out-the-fires-30pj)
+- [🔥 How to Build a Website with Webflow &lpar;2025 Guide&rpar;](https://dev.to/arhamshah55/how-to-build-a-website-with-webflow-2025-guide-85i)
+- [Code. SQLite. Time tables with recursive CTE](https://dev.to/axkira/code-sqlite-time-tables-with-recursive-cte-11md)
+- [From Failed Football Dreams to Tech: My Journey](https://dev.to/vincenttommi/from-failed-football-dreams-to-tech-my-journey-39j3)
+- [1 RN Thing a Day – Day 4: Usage of omitBy](https://dev.to/ola_1313/1-rn-thing-a-day-day-4-usage-of-omitby-4lif)
+- [Understanding the React Component Lifecycle: Class Components vs Function Components](https://dev.to/lourdessuello/understanding-the-react-component-lifecycle-class-components-vs-function-components-2n17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
