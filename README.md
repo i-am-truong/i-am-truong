@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build AI-Powered Automated Workflows with n8n: Step-by-Step Guide for 2025](https://dev.to/mohit_c7489383b2c7a3fca30/how-to-build-ai-powered-automated-workflows-with-n8n-step-by-step-guide-for-2025-cl9)
+- [**Automated Microvascular Network Reconstruction via Multi-Modal Data Fusion &amp; Graph-Based Analytics**](https://dev.to/freederia-research/automated-microvascular-network-reconstruction-via-multi-modal-data-fusion-graph-based-1a2c)
+- [The 25 Best AI n8n Integrations: How to Automate Your Business in 2025](https://dev.to/mohit_c7489383b2c7a3fca30/the-25-best-ai-n8n-integrations-how-to-automate-your-business-in-2025-1om1)
+- [Top 10 Termux Scripts That Save Time and Effort](https://dev.to/terminaltools/top-10-termux-scripts-that-save-time-and-effort-3e26)
 - [How to program a control system for a Python Press therapy machine](https://dev.to/mary_lucamargo_a9fb16a88/how-to-program-a-control-system-for-a-python-press-therapy-machine-2gf7)
-- [React Hooks Are Dead?](https://dev.to/gnrlbzik/react-hooks-are-dead-54o1)
-- [What tool do you use to automate code review?](https://dev.to/kielson_zinndasilva_488/what-tool-do-you-use-to-automate-code-review-14cg)
-- [Design Patterns Simplified: Part 14 — State Pattern &lpar;a.k.a. “The Mood Manager”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-14-state-pattern-aka-the-mood-manager-390l)
-- [Enhanced Lifecycle Assessment via Quantum-Inspired Feature Aggregation &amp; Bayesian Inference](https://dev.to/freederia-research/enhanced-lifecycle-assessment-via-quantum-inspired-feature-aggregation-bayesian-inference-1f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
