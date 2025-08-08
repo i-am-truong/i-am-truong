@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning: Unlocking Precision and Performance in AI Models](https://dev.to/cyfutureai/fine-tuning-unlocking-precision-and-performance-in-ai-models-1l6d)
-- [Optimizing JVM Memory Footprint for High-Throughput Stream Processing Pipelines](https://dev.to/xuan_56087d315ff4f52254e6/optimizing-jvm-memory-footprint-for-high-throughput-stream-processing-pipelines-43f4)
-- [🕵️‍♂️ The Silent Bug That Wastes Hours — and How to Kill It](https://dev.to/rajguru_yadav_56d13a7b8fc/the-silent-bug-that-wastes-hours-and-how-to-kill-it-23kf)
-- [Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC](https://dev.to/askerakbar/laminas-lens-a-sleek-simple-sql-query-logger-for-laminas-mvc-3n00)
-- [Numerology Based on Birthdate Your Personal Code](https://dev.to/lifepurposeapp/numerology-based-on-birthdate-your-personal-code-10j)
+- [How to Audit a Web3 Project Before You Join](https://dev.to/vadym_info_polus/how-to-audit-a-web3-project-before-you-join-22e0)
+- [Think Alexa Isn’t Listening? Think Again](https://dev.to/nightmare-lynx/think-alexa-isnt-listening-think-again-1mp8)
+- [Circular Dependencies: The Hidden Killer Of Your Microservices! Fix It NOW.](https://dev.to/xuan_56087d315ff4f52254e6/circular-dependencies-the-hidden-killer-of-your-microservices-fix-it-now-3goi)
+- [How I Used Amazon Kiro to Build a Dynamic Lesson Generator in Hours](https://dev.to/mikehibbert/how-i-used-amazon-kiro-to-build-a-dynamic-lesson-generator-in-hours-536d)
+- [🎯Getting Started with DevEco Studio: A Complete Installation &amp; Setup Guide](https://dev.to/harmonyos/getting-started-with-deveco-studio-a-complete-installation-setup-guide-3l98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
