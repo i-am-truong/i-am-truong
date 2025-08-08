@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PIDM v1.2.0 – A Powerful Open-Source Download Manager Just Got Better!](https://dev.to/ericluckson1999/pidm-v120-a-powerful-open-source-download-manager-just-got-better-20ci)
-- [GPT-5: The Dawn of a New Era in Artificial Intelligence](https://dev.to/srijan-xi/gpt-5-the-dawn-of-a-new-era-in-artificial-intelligence-m44)
-- [Originality, Creativity, Visibility: The Three Multipliers of Modern Success](https://dev.to/blackscripts/originality-creativity-visibility-the-three-multipliers-of-modern-success-1j8c)
-- [Best Practices for Creating Error Code Patterns](https://dev.to/siswoyo/best-practices-for-creating-error-code-patterns-25nk)
-- [📘 LAMP Stack Implementation on AWS &lpar;EC2&rpar; &gt; Linux | Apache | MySQL | PHP](https://dev.to/heritageolaleye/lamp-stack-implementation-on-aws-ec2-linux-apache-mysql-php-2k6d)
+- [Meta&#39;s prototype headsets show off the future of mixed reality](https://dev.to/future_arvr/metas-prototype-headsets-show-off-the-future-of-mixed-reality-3ek5)
+- [ChatGPT will ‘better detect&#39; mental distress after reports of it feeding people&#39;s delusions](https://dev.to/future_ai/chatgpt-will-better-detect-mental-distress-after-reports-of-it-feeding-peoples-delusions-4eo1)
+- [Truth Social&#39;s new AI search engine basically just pushes Fox News](https://dev.to/future_ai/truth-socials-new-ai-search-engine-basically-just-pushes-fox-news-4i19)
+- [OpenAI&#39;s GPT-5 Is Here](https://dev.to/future_ai/openais-gpt-5-is-here-3idj)
+- [Big tech has spent $155bn on AI this year. It&#39;s about to spend hundreds of billions more](https://dev.to/future_ai/big-tech-has-spent-155bn-on-ai-this-year-its-about-to-spend-hundreds-of-billions-more-ee3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
