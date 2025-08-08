@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Docker Swarm in Docker-in-Docker &lpar;DinD&rpar;](https://dev.to/jungledev/running-docker-swarm-in-docker-in-docker-dind-3809)
+- [You will love this](https://dev.to/guzmanojero/you-will-love-this-1eca)
+- [AI n8n Integrations: The Ultimate Guide to Transforming Your Workflow in 2025](https://dev.to/mohit_c7489383b2c7a3fca30/ai-n8n-integrations-the-ultimate-guide-to-transforming-your-workflow-in-2025-53g8)
+- [The Five Underplayed Premises Of TDD](https://dev.to/janvanryswyck/the-five-underplayed-premises-of-tdd-4i80)
 - [How to Build AI-Powered Automated Workflows with n8n: Step-by-Step Guide for 2025](https://dev.to/mohit_c7489383b2c7a3fca30/how-to-build-ai-powered-automated-workflows-with-n8n-step-by-step-guide-for-2025-cl9)
-- [**Automated Microvascular Network Reconstruction via Multi-Modal Data Fusion &amp; Graph-Based Analytics**](https://dev.to/freederia-research/automated-microvascular-network-reconstruction-via-multi-modal-data-fusion-graph-based-1a2c)
-- [The 25 Best AI n8n Integrations: How to Automate Your Business in 2025](https://dev.to/mohit_c7489383b2c7a3fca30/the-25-best-ai-n8n-integrations-how-to-automate-your-business-in-2025-1om1)
-- [Top 10 Termux Scripts That Save Time and Effort](https://dev.to/terminaltools/top-10-termux-scripts-that-save-time-and-effort-3e26)
-- [How to program a control system for a Python Press therapy machine](https://dev.to/mary_lucamargo_a9fb16a88/how-to-program-a-control-system-for-a-python-press-therapy-machine-2gf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
