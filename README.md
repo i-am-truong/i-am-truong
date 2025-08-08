@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Port Forwarding Behind CGNAT](https://dev.to/lightningdev123/port-forwarding-behind-cgnat-gb8)
-- [Building AI Low-Code Platform in Angular — Part 4: Styling and Handling Connections](https://dev.to/shuzarevich/building-ai-low-code-platform-in-angular-part-4-styling-and-handling-connections-keo)
-- [Monitor your Kubernetes clusters effectively with Prometheus and Grafana. Gain real-time visibility into system metrics, resource usage, and application performance. visit-link: https://puffersoft.com/kubernetes-service/](https://dev.to/puffer_soft_270eededb1416/monitor-your-kubernetes-clusters-effectively-with-prometheus-and-grafana-gain-real-time-visibility-1b7c)
-- [Enhancing Analytical Skills: The Powerful Impact of Online Learning Platforms on Students](https://dev.to/ghummantech/enhancing-analytical-skills-the-powerful-impact-of-online-learning-platforms-on-students-646)
-- [[Boost]](https://dev.to/lisa_kim_817ebccea4c89666/-2pfa)
+- [WTF is Micro Frontends?](https://dev.to/dailybugle33/wtf-is-micro-frontends-3lnn)
+- [Building an AI-Powered Cloud Engineer Agent](https://dev.to/dinindu_suriyamudali_e604/building-an-ai-powered-cloud-engineer-agent-11me)
+- [Reclaim the Web: Introducing Shogun, a Toolkit for True Decentralization](https://dev.to/francesco_bruno_8ab1546a2/reclaim-the-web-introducing-shogun-a-toolkit-for-true-decentralization-4e3)
+- [Building a Reactive Undo/Redo Feature in Svelte 5](https://dev.to/temesgen_adane_6812383a87/building-a-reactive-undoredo-feature-in-svelte-5-1bmi)
+- [Building Collaborative Interfaces: Operational Transforms vs. CRDTs](https://dev.to/puritanic/building-collaborative-interfaces-operational-transforms-vs-crdts-2obo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
