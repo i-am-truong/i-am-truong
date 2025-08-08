@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Program on while loop](https://dev.to/preethi_nandhagopal_6d075/program-on-while-loop-4bk0)
-- [What&#39;s New in GPT 5 That Benefits Developers?](https://dev.to/dhruvjoshi9/whats-new-in-gpt-5-that-benefits-developers-4kdn)
-- [Practical lessons from building production agentic systems](https://dev.to/urbanisierung/practical-lessons-from-building-production-agentic-systems-5ea6)
-- [AI-Powered Data Engineering Pipelines: Smarter, Faster, Scalable](https://dev.to/santosh_ronanki_9438d5944/ai-powered-data-engineering-pipelines-smarter-faster-scalable-l5e)
-- [𝗦𝗺𝗮𝗿𝘁 𝗔𝗹𝗲𝗿𝘁𝘀: 𝗘𝗺𝗮𝗶𝗹 𝗡𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗖𝗜/𝗖𝗗 𝗙𝗮𝗶𝗹𝘂𝗿𝗲𝘀](https://dev.to/supraja_tangella_b7f0738e/--6dc)
+- [Managing WordPress Object Cache with Memcached: Per-Site Flush, Monitoring &amp; Optimization](https://dev.to/mainulspace/managing-wordpress-object-cache-with-memcached-per-site-flush-monitoring-optimization-l9j)
+- [Rate limiting is not a backend feature. It’s a business function.](https://dev.to/levleontiev/rate-limiting-is-not-a-backend-feature-its-a-business-function-14l3)
+- [Kaminari: Next.js 15 Starter with Tailwind CSS &amp; shadcn-ui](https://dev.to/jqueryscript/kaminari-nextjs-15-starter-with-tailwind-css-shadcn-ui-50pp)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-5a94)
+- [Effortless Laravel Localization: Auto-Generate JSON Locale Files and Translate with Google or DeepL](https://dev.to/amiteiitech/effortless-laravel-localization-auto-generate-json-locale-files-and-translate-with-google-or-deepl-2dcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
