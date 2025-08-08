@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to translate PDF files in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-translate-pdf-files-in-java-tutorial-2gfe)
-- [💼🚀 Top AI Tools Small Businesses Should Use in 2025 &lpar;With Real Use Cases!&rpar;](https://dev.to/tahamjp/top-ai-tools-small-businesses-should-use-in-2025-with-real-use-cases-318f)
-- [Embedding Similarity Explained: How to Measure Text Semantics](https://dev.to/uhasker/embedding-similarity-explained-how-to-measure-text-semantics-3hk2)
-- [Complex Query Handling in CQRS: Minimizing Roundtrips and Latency with Projection Materialization](https://dev.to/xuan_56087d315ff4f52254e6/complex-query-handling-in-cqrs-minimizing-roundtrips-and-latency-with-projection-materialization-494n)
-- [No More Backend Setup: Launch Your App with Skapi in Minutes](https://dev.to/skapi_api/no-more-backend-setup-launch-your-app-with-skapi-in-minutes-b85)
+- [Fine-Tuning: Unlocking Precision and Performance in AI Models](https://dev.to/cyfutureai/fine-tuning-unlocking-precision-and-performance-in-ai-models-1l6d)
+- [Optimizing JVM Memory Footprint for High-Throughput Stream Processing Pipelines](https://dev.to/xuan_56087d315ff4f52254e6/optimizing-jvm-memory-footprint-for-high-throughput-stream-processing-pipelines-43f4)
+- [🕵️‍♂️ The Silent Bug That Wastes Hours — and How to Kill It](https://dev.to/rajguru_yadav_56d13a7b8fc/the-silent-bug-that-wastes-hours-and-how-to-kill-it-23kf)
+- [Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC](https://dev.to/askerakbar/laminas-lens-a-sleek-simple-sql-query-logger-for-laminas-mvc-3n00)
+- [Numerology Based on Birthdate Your Personal Code](https://dev.to/lifepurposeapp/numerology-based-on-birthdate-your-personal-code-10j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
