@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [sampel data](https://dev.to/armaankhan8270/sampel-data-3g82)
-- [Pull-based AI agents wait for you to ask. Push-based AI agents act before you even think to.](https://dev.to/jainsanil18/pull-based-ai-agents-wait-for-you-to-ask-push-based-ai-agents-act-before-you-even-think-to-50p5)
-- [A/R: Calculation of Interest on Arrears | SAP OBV1 Configuration Guide](https://dev.to/aditya_d_4d2cccdadb8613ec/ar-calculation-of-interest-on-arrears-sap-obv1-configuration-guide-456h)
-- [Deploying a Node.js App to AWS Elastic Beanstalk with GitHub Actions: A Beginner&#39;s Guide](https://dev.to/samowolabi/deploying-a-nodejs-app-to-aws-elastic-beanstalk-with-github-actions-a-beginners-guide-2oml)
-- [I built a YouTube downloader after my old favorite site became unusable](https://dev.to/vukan322/i-built-a-youtube-downloader-after-my-old-favorite-site-became-unusable-g0e)
+- [Integrating Astro 5, Storybook 9, Vite 7, and Tailwind 3 🐇🕳️](https://dev.to/ingosteinke/integrating-astro-5-storybook-9-vite-7-and-tailwind-3-54ja)
+- [Comprehensive Guide to Building and Using a Custom WordPress REST API for Matterport 3D Home Model Integration](https://dev.to/shahibur_rahman_6670cd024/comprehensive-guide-to-building-and-using-a-custom-wordpress-rest-api-for-matterport-3d-home-model-26l3)
+- [You&#39;ve Built a GenServer. Now Make It Fast, Observable and Bulletproof](https://dev.to/artfreshcode/youve-built-a-genserver-now-make-it-fast-observable-and-bulletproof-3dnm)
+- [How We Cut Our Client&#39;s AWS Bill by 90% by Going Serverless](https://dev.to/mehul_budasana/how-we-cut-our-clients-aws-bill-by-90-by-going-serverless-29fk)
+- [Running Salesforce CLI &lpar;sfdx&rpar; on Buildkite pipeline](https://dev.to/poponuts/running-salesforce-cli-sfdx-on-buildkite-pipeline-46ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
