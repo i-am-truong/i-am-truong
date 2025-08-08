@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why the Economy Loves and Hates Lazy People](https://dev.to/rono0365/why-the-economy-loves-and-hates-lazy-people-18fj)
-- [Stop Practicing, Start Showcasing: Portfolio Projects That Land Data Analyst Jobs](https://dev.to/zerozulu/stop-practicing-start-showcasing-portfolio-projects-that-land-data-analyst-jobs-46n0)
-- [Accelerating AI Development Workflows: The Kiro Best Practices Boilerplate](https://dev.to/kirodotdev/accelerating-ai-development-workflows-the-kiro-best-practices-boilerplate-4h6o)
-- [As a 15 year old, I built an AI Bot to Beat Four Pattern-Based Rock-Paper-Scissors Bots!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-an-ai-bot-to-beat-four-pattern-based-rock-paper-scissors-bots-1fdn)
-- [As a 15 year old, I built a Simple Amazon-Style Webpage Project replica!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-a-simple-amazon-style-webpage-project-replica-1m26)
+- [From nginx to ngrok: Dogfooding our own website with Traffic Policy](https://dev.to/ngrok/from-nginx-to-ngrok-dogfooding-our-own-website-with-traffic-policy-417i)
+- [GPT-5 Is Here: What It Really Means for Junior Developers &lpar;Like Me&rpar;](https://dev.to/talaamm/gpt-5-is-here-what-it-really-means-for-junior-developers-like-me-591k)
+- [Joining and grouping on array fields in MongoDB may require using $unwind before applying $group or $lookup](https://dev.to/franckpachot/joining-and-grouping-on-array-fields-in-mongodb-may-require-using-unwind-before-applying-group-or-41nj)
+- [Why Every Developer Should Fear NOT Using ChatGPT](https://dev.to/dev_resources/why-every-developer-should-fear-not-using-chatgpt-423g)
+- [Git &amp; GitHub basics in one post](https://dev.to/essijunior/git-github-basics-in-one-post-4me7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
