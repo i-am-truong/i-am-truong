@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
+- [Claude 3.7 vs 3.5 Sonnet: Key Differences You Should Know](https://dev.to/wisdomplexus_70a379ff4482/claude-37-vs-35-sonnet-key-differences-you-should-know-591n)
 - [How Machine Learning Helps Marketers Predict ABM Success](https://dev.to/leo_johnson_e34af4a6d9bd9/how-machine-learning-helps-marketers-predict-abm-success-2gpe)
 - [What is on-demand app development?](https://dev.to/maxtratechnology/-need-to-launch-an-app-like-zomato-uber-or-urbanclap-g0b)
 - [FTSOv2: The Sub-2-Second Oracle That’s Killing DeFi’s Latency Problem](https://dev.to/kaushtubh_agrawal_ecb4f34/ftsov2-the-sub-2-second-oracle-thats-killing-defis-latency-problem-2097)
-- [What Is CPQ and How Does It Streamline Sales Automation for Your Business?](https://dev.to/cincomsystems/what-is-cpq-and-how-does-it-streamline-sales-automation-for-your-business-3e4g)
-- [How to Audit a Web3 Project Before You Join](https://dev.to/vadym_info_polus/how-to-audit-a-web3-project-before-you-join-22e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
