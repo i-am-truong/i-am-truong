@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to program a control system for a Python Press therapy machine](https://dev.to/mary_lucamargo_a9fb16a88/how-to-program-a-control-system-for-a-python-press-therapy-machine-2gf7)
+- [React Hooks Are Dead?](https://dev.to/gnrlbzik/react-hooks-are-dead-54o1)
 - [What tool do you use to automate code review?](https://dev.to/kielson_zinndasilva_488/what-tool-do-you-use-to-automate-code-review-14cg)
 - [Design Patterns Simplified: Part 14 — State Pattern &lpar;a.k.a. “The Mood Manager”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-14-state-pattern-aka-the-mood-manager-390l)
 - [Enhanced Lifecycle Assessment via Quantum-Inspired Feature Aggregation &amp; Bayesian Inference](https://dev.to/freederia-research/enhanced-lifecycle-assessment-via-quantum-inspired-feature-aggregation-bayesian-inference-1f9)
-- [Building a Live Transcript](https://dev.to/deep_sharma/building-a-live-transcript-bi1)
-- [No more PEM files in Spring Boot – Load SSL certs straight from Vault](https://dev.to/gridou/no-more-pem-files-in-spring-boot-load-ssl-certs-straight-from-vault-4l9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
