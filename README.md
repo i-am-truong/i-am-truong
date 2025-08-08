@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
-- [Claude 3.7 vs 3.5 Sonnet: Key Differences You Should Know](https://dev.to/wisdomplexus_70a379ff4482/claude-37-vs-35-sonnet-key-differences-you-should-know-591n)
-- [How Machine Learning Helps Marketers Predict ABM Success](https://dev.to/leo_johnson_e34af4a6d9bd9/how-machine-learning-helps-marketers-predict-abm-success-2gpe)
-- [What is on-demand app development?](https://dev.to/maxtratechnology/-need-to-launch-an-app-like-zomato-uber-or-urbanclap-g0b)
-- [FTSOv2: The Sub-2-Second Oracle That’s Killing DeFi’s Latency Problem](https://dev.to/kaushtubh_agrawal_ecb4f34/ftsov2-the-sub-2-second-oracle-thats-killing-defis-latency-problem-2097)
+- [sampel data](https://dev.to/armaankhan8270/sampel-data-3g82)
+- [Pull-based AI agents wait for you to ask. Push-based AI agents act before you even think to.](https://dev.to/jainsanil18/pull-based-ai-agents-wait-for-you-to-ask-push-based-ai-agents-act-before-you-even-think-to-50p5)
+- [A/R: Calculation of Interest on Arrears | SAP OBV1 Configuration Guide](https://dev.to/aditya_d_4d2cccdadb8613ec/ar-calculation-of-interest-on-arrears-sap-obv1-configuration-guide-456h)
+- [Deploying a Node.js App to AWS Elastic Beanstalk with GitHub Actions: A Beginner&#39;s Guide](https://dev.to/samowolabi/deploying-a-nodejs-app-to-aws-elastic-beanstalk-with-github-actions-a-beginners-guide-2oml)
+- [I built a YouTube downloader after my old favorite site became unusable](https://dev.to/vukan322/i-built-a-youtube-downloader-after-my-old-favorite-site-became-unusable-g0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
