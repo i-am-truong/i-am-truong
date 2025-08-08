@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Safe and Version-Agnostic Deployment to Consistent Addresses Across EVM Networks](https://dev.to/andriian_chestnykh_5cd2de/safe-and-version-agnostic-deployment-to-consistent-addresses-across-evm-networks-2dhi)
-- [I Built a Website for Mission BBQ Lovers – Here&#39;s Why and How](https://dev.to/shehla_shah_1f25af4301b31/i-built-a-website-for-mission-bbq-lovers-heres-why-and-how-ko5)
-- [Top 10 Public APIs Every Developer Should Know in 2025](https://dev.to/therealmrmumba/top-10-public-apis-every-developer-should-know-in-2025-3hk1)
-- [What Are IT Accessories and Their Role in IT Asset Management &lpar;ITAM&rpar;?](https://dev.to/teresa_tran/what-are-it-accessories-and-their-role-in-it-asset-management-itam-287k)
-- [How to Flash Raspberry Pi OS to an SD Card? &lpar;Step-by-Step Guide&rpar;](https://dev.to/carolineee/how-to-flash-raspberry-pi-os-to-an-sd-card-step-by-step-guide-loi)
+- [Port Forwarding Behind CGNAT](https://dev.to/lightningdev123/port-forwarding-behind-cgnat-gb8)
+- [Building AI Low-Code Platform in Angular — Part 4: Styling and Handling Connections](https://dev.to/shuzarevich/building-ai-low-code-platform-in-angular-part-4-styling-and-handling-connections-keo)
+- [Monitor your Kubernetes clusters effectively with Prometheus and Grafana. Gain real-time visibility into system metrics, resource usage, and application performance. visit-link: https://puffersoft.com/kubernetes-service/](https://dev.to/puffer_soft_270eededb1416/monitor-your-kubernetes-clusters-effectively-with-prometheus-and-grafana-gain-real-time-visibility-1b7c)
+- [Enhancing Analytical Skills: The Powerful Impact of Online Learning Platforms on Students](https://dev.to/ghummantech/enhancing-analytical-skills-the-powerful-impact-of-online-learning-platforms-on-students-646)
+- [[Boost]](https://dev.to/lisa_kim_817ebccea4c89666/-2pfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
