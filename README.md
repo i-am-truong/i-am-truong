@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security news weekly round-up - 8th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-8th-august-2025-ll0)
+- [Social Media Moderation Guide: Tools, Examples, &amp; Best Practices](https://dev.to/sarahlindauer/social-media-moderation-guide-tools-examples-best-practices-71h)
+- [Mastering Python’s Magical Data Structures: A Spellbinding Journey](https://dev.to/suseelak/mastering-pythons-magical-data-structures-a-spellbinding-journey-3mdh)
 - [Tracking GPT-5 Bugs Together: Introducing the Scalevise GPT-5 Bug &amp; Issue Tracker](https://dev.to/alifar/tracking-gpt-5-bugs-together-introducing-the-scalevise-gpt-5-bug-issue-tracker-1l0j)
 - [Migrating Tenant Management System From Mongodb To Redis Backend](https://dev.to/greeny/migrating-tenant-management-system-from-mongodb-to-redis-backend-29il)
-- [ETL &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/etl-bite-size-article-42mf)
-- [Fundamentos e Sintaxe Moderna](https://dev.to/maahbatistaa/fundamentos-e-sintaxe-moderna-1com)
-- [PR Reviews: The Silent Team Killer? Let&#39;s Talk About It 🔍](https://dev.to/pinkynrg/pr-reviews-the-silent-team-killer-lets-talk-about-it-kon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
