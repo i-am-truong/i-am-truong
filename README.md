@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 8th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-8th-august-2025-ll0)
-- [Social Media Moderation Guide: Tools, Examples, &amp; Best Practices](https://dev.to/sarahlindauer/social-media-moderation-guide-tools-examples-best-practices-71h)
-- [Mastering Python’s Magical Data Structures: A Spellbinding Journey](https://dev.to/suseelak/mastering-pythons-magical-data-structures-a-spellbinding-journey-3mdh)
-- [Tracking GPT-5 Bugs Together: Introducing the Scalevise GPT-5 Bug &amp; Issue Tracker](https://dev.to/alifar/tracking-gpt-5-bugs-together-introducing-the-scalevise-gpt-5-bug-issue-tracker-1l0j)
-- [Migrating Tenant Management System From Mongodb To Redis Backend](https://dev.to/greeny/migrating-tenant-management-system-from-mongodb-to-redis-backend-29il)
+- [Golf.com: We Found The Most Accurate Launch Monitor In Golf](https://dev.to/youtube_golf/golfcom-we-found-the-most-accurate-launch-monitor-in-golf-531d)
+- [GameSpot: Grounded 2: Early Access First Impressions &lpar;Everything I Think&rpar;](https://dev.to/gg_news/gamespot-grounded-2-early-access-first-impressions-everything-i-think-2e17)
+- [GameSpot: Why I Can&#39;t Stop Playing Elden Ring: Nightreign](https://dev.to/gg_news/gamespot-why-i-cant-stop-playing-elden-ring-nightreign-3mi)
+- [IGN: Sky: The Two Embers - Part 1 Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-sky-the-two-embers-part-1-official-trailer-2025-26em)
+- [IGN: Light of Motiram&#39;s Steam Page Quietly Altered by Tencent After Sony Lawsuit - IGN Daily Fix](https://dev.to/gg_news/ign-light-of-motirams-steam-page-quietly-altered-by-tencent-after-sony-lawsuit-ign-daily-fix-56bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
