@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ETL &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/etl-bite-size-article-42mf)
+- [Fundamentos e Sintaxe Moderna](https://dev.to/maahbatistaa/fundamentos-e-sintaxe-moderna-1com)
+- [PR Reviews: The Silent Team Killer? Let&#39;s Talk About It 🔍](https://dev.to/pinkynrg/pr-reviews-the-silent-team-killer-lets-talk-about-it-kon)
+- [I Tried GPT-5 for Coding — My Review](https://dev.to/nikolayadvolodkin/i-tried-gpt-5-for-coding-my-review-346n)
 - [Make Money Fast with gpt-oss AI](https://dev.to/abubakersiddique761/make-money-fast-with-gpt-oss-ai-p71)
-- [IGN: Mafia: The Old Country - Official Accolades Trailer](https://dev.to/gg_news/ign-mafia-the-old-country-official-accolades-trailer-12jf)
-- [IGN: Peak - Official &#39;The Mesa Update&#39; Release Date Teaser Trailer](https://dev.to/gg_news/ign-peak-official-the-mesa-update-release-date-teaser-trailer-46ng)
-- [IGN: Noah Hawley Reveals His Process in Creating FX’s Alien: Earth | SDCC 2025](https://dev.to/gg_news/ign-noah-hawley-reveals-his-process-in-creating-fxs-alien-earth-sdcc-2025-3dmn)
-- [Create API with NestJS using TDD approach, part 3!!](https://dev.to/joedev090/create-api-with-nestjs-using-tdd-approach-part-3-4j2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
