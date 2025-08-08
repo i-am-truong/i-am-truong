@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 4-Day Work Week for Developers: 12 Companies Sharing Real Data](https://dev.to/teamcamp/the-4-day-work-week-for-developers-12-companies-sharing-real-data-ocl)
-- [Monitoring Your App with Prometheus and Grafana](https://dev.to/addwebsolutionpvtltd/monitoring-your-app-with-prometheus-and-grafana-3p97)
-- [Angular Signals + RxJS: объединяем два реактивных мира в одном стейт-менеджере](https://dev.to/del4k1/angular-signals-rxjs-obiediniaiem-dva-rieaktivnykh-mira-v-odnom-stieit-mieniedzhierie-4o3n)
-- [[Boost]](https://dev.to/davidongora/-16b6)
-- [switch case in java Script](https://dev.to/selvakumar_r_4bac08f5eaa6/switch-case-in-java-script-4hid)
+- [2. Celery](https://dev.to/gimntut/2-celery-3d6g)
+- [1. Тесты](https://dev.to/gimntut/1-tiesty-1679)
+- [Designing Search Systems &lpar;Elasticsearch, Solr&rpar;](https://dev.to/godofgeeks/designing-search-systems-elasticsearch-solr-5h7j)
+- [How to use Obsidian to write your Astro content &lpar;zero scripts&rpar;](https://dev.to/mike_andreuzza/how-to-use-obsidian-to-write-your-astro-content-zero-scripts-23gp)
+- [The Hidden Cost of Staging Environment Conflicts &lpar;And How to Calculate It&rpar;](https://dev.to/stagingapp/the-hidden-cost-of-staging-environment-conflicts-and-how-to-calculate-it-1d10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
