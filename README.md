@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [As a 15 year old, I built an AI Bot to Beat Four Pattern-Based Rock-Paper-Scissors Bots!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-an-ai-bot-to-beat-four-pattern-based-rock-paper-scissors-bots-1fdn)
+- [As a 15 year old, I built a Simple Amazon-Style Webpage Project replica!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-a-simple-amazon-style-webpage-project-replica-1m26)
+- [Adaptive Lens Profile Generation via Multi-Modal Data Fusion &amp; Bayesian Optimization](https://dev.to/freederia-research/adaptive-lens-profile-generation-via-multi-modal-data-fusion-bayesian-optimization-39d3)
 - [Guía de activación de Windows 11](https://dev.to/pcsupport/guia-de-activacion-de-windows-11-592p)
 - [🎭 A CGAN Story: Three Attempts and an Incomplete Ending](https://dev.to/ertugrulmutlu/a-cgan-story-three-attempts-and-an-incomplete-ending-2a1b)
-- [👋 Hi, I’m Tarun — A Full Stack Developer Exploring React, Node &amp; Python](https://dev.to/tarun_patidar_db2866e2273/hi-im-tarun-a-full-stack-developer-exploring-react-node-python-1d1b)
-- [The Future is Serverless: Transformative Strategies for Developers and Businesses](https://dev.to/adrea_berry_96ce0f56c31eb/the-future-is-serverless-transformative-strategies-for-developers-and-businesses-46gm)
-- [I Built a Free AI YouTube Toolkit with 14+ Powerful Tools — No Login, No Limits](https://dev.to/avijit_patra_18/i-built-a-free-ai-youtube-toolkit-with-14-powerful-tools-no-login-no-limits-2g9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
