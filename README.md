@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2. Celery](https://dev.to/gimntut/2-celery-3d6g)
-- [1. Тесты](https://dev.to/gimntut/1-tiesty-1679)
-- [Designing Search Systems &lpar;Elasticsearch, Solr&rpar;](https://dev.to/godofgeeks/designing-search-systems-elasticsearch-solr-5h7j)
-- [How to use Obsidian to write your Astro content &lpar;zero scripts&rpar;](https://dev.to/mike_andreuzza/how-to-use-obsidian-to-write-your-astro-content-zero-scripts-23gp)
-- [The Hidden Cost of Staging Environment Conflicts &lpar;And How to Calculate It&rpar;](https://dev.to/stagingapp/the-hidden-cost-of-staging-environment-conflicts-and-how-to-calculate-it-1d10)
+- [Top 10 Public APIs Every Developer Should Know in 2025](https://dev.to/therealmrmumba/top-10-public-apis-every-developer-should-know-in-2025-3hk1)
+- [What Are IT Accessories and Their Role in IT Asset Management &lpar;ITAM&rpar;?](https://dev.to/teresa_tran/what-are-it-accessories-and-their-role-in-it-asset-management-itam-287k)
+- [How to Flash Raspberry Pi OS to an SD Card? &lpar;Step-by-Step Guide&rpar;](https://dev.to/carolineee/how-to-flash-raspberry-pi-os-to-an-sd-card-step-by-step-guide-loi)
+- [How the Pool Pattern Works in Multi-tenant RAG](https://dev.to/aws-builders/how-the-pool-pattern-works-in-multi-tenant-rag-g23)
+- [A Beginner’s Guide to MEV Bot Creation for Founders](https://dev.to/karl_peterson_e9ff3c8f64e/a-beginners-guide-to-mev-bot-creation-for-founders-103n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
