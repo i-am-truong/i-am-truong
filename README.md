@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Docker: A Beginner&#39;s Guide to Containerization](https://dev.to/oseni03/mastering-docker-a-beginners-guide-to-containerization-4go0)
+- [PHP Path](https://dev.to/indianmodassir/php-path-gm2)
+- [Tutorial Completo: De Cero a SpeedRun Ethereum](https://dev.to/ar3lisa/tutorial-completo-de-cero-a-speedrun-ethereum-56cg)
+- [Build and Deploy a Fullstack AI App with Flask, React and OpenAI GPT-OSS - Milo AI](https://dev.to/osiris8/build-and-deploy-a-fullstack-ai-app-with-flask-react-and-openai-gpt-oss-milo-ai-5bl)
 - [Construyendo Strands Agents con Pocas Líneas de Código: Tools Personalizadas e Integración MCP](https://dev.to/aws-espanol/construyendo-strands-agents-con-pocas-lineas-de-codigo-tools-personalizadas-e-integracion-mcp-18mi)
-- [Case Study – Automating an ETL Pipeline with MCP](https://dev.to/om_shree_0709/case-study-automating-an-etl-pipeline-with-mcp-55cp)
-- [Automated Formulation Optimization for Targeted Immunoadjuvant Peptide Delivery in Injectable Immunotherapy](https://dev.to/freederia-research/automated-formulation-optimization-for-targeted-immunoadjuvant-peptide-delivery-in-injectable-48bg)
-- [&lpar;Low&rpar;Code Maturity Model](https://dev.to/ggondim/lowcode-maturity-model-105e)
-- [NautilusTrader: The Open-Source Trading Platform](https://dev.to/kpcofgs/nautilustrader-the-open-source-trading-platform-5dji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
