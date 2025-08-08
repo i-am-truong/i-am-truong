@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running Docker Swarm in Docker-in-Docker &lpar;DinD&rpar;](https://dev.to/jungledev/running-docker-swarm-in-docker-in-docker-dind-3809)
-- [You will love this](https://dev.to/guzmanojero/you-will-love-this-1eca)
-- [AI n8n Integrations: The Ultimate Guide to Transforming Your Workflow in 2025](https://dev.to/mohit_c7489383b2c7a3fca30/ai-n8n-integrations-the-ultimate-guide-to-transforming-your-workflow-in-2025-53g8)
-- [The Five Underplayed Premises Of TDD](https://dev.to/janvanryswyck/the-five-underplayed-premises-of-tdd-4i80)
-- [How to Build AI-Powered Automated Workflows with n8n: Step-by-Step Guide for 2025](https://dev.to/mohit_c7489383b2c7a3fca30/how-to-build-ai-powered-automated-workflows-with-n8n-step-by-step-guide-for-2025-cl9)
+- [Packet Sniffing 101: How to Focus on a Specific Wi-Fi Network](https://dev.to/rijultp/packet-sniffing-101-how-to-focus-on-a-specific-wi-fi-network-2154)
+- [2025 macOS Development Environment Setup Guide](https://dev.to/binbingoloo/2025-macos-development-environment-setup-guide-4jj0)
+- [Day 9 of #30DaysOfCode](https://dev.to/justacoder_0x/day-9-of-30daysofcode-fb0)
+- [CSS: the language with no syntax](https://dev.to/matthewdean/css-the-language-with-no-syntax-oom)
+- [Apaixonado por desenvolvimento web e raciocínio lógico. Explorando HTML, CSS e JavaScript para criar experiências interativas. Curioso por ciência, som cinematográfico e nomes com significado. Sempre em busca de aprender e construir com propósito.](https://dev.to/almirante_orlandomoiane_/apaixonado-por-desenvolvimento-web-e-raciocinio-logico-explorando-html-css-e-javascript-para-1mpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
