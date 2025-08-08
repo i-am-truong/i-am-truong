@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Strategy Behind Vennar Builds capes&#39; Bold New Identity by Creador Designs From a Name to a Brand: The Challenge](https://dev.to/creadoedesign_dc8b68907e86/the-strategy-behind-vennar-builds-capes-bold-new-identity-by-creador-designs-from-a-name-to-a-3mh5)
-- [String, StringBuilder and StringBuffer: An Analogy](https://dev.to/sharique_siddiqui_8242dad/string-stringbuilder-and-stringbuffer-an-analogy-ogh)
-- [Harnessing Dynamic Graph Neural Networks for Real-Time Anomaly Detection in O-연결 당사슬 Logistics](https://dev.to/freederia-research/harnessing-dynamic-graph-neural-networks-for-real-time-anomaly-detection-in-o-yeongyeol-dangsaseul-logistics-1ic)
-- [7 Ready-Made Layouts &amp; UI for SaaS Dashboards and Data Viz](https://dev.to/jqueryscript/7-ready-made-layouts-ui-for-saas-dashboards-and-data-viz-lj5)
-- [[Boost]](https://dev.to/nikhil_sachapara/-3722)
+- [Practice#1: Regular Filtering and Grouping &amp; Aggregation](https://dev.to/esproc_spl/practice1-regular-filtering-and-grouping-aggregation-5e9n)
+- [Dapr support with Postgres](https://dev.to/sirivarma/dapr-support-with-postgres-1e3b)
+- [Tiranga Game: A Celebration of Patriotism and Unity](https://dev.to/lacy_marquez_dd4932035f06/tiranga-game-a-celebration-of-patriotism-and-unity-3275)
+- [Mistakes, Slow Progress, and Why That’s Okay](https://dev.to/adewebdeveloper/mistakes-slow-progress-and-why-thats-okay-35ld)
+- [SAFe &lpar;Scaled Agile Framework&rpar;: Scaling Agile Across Enterprises](https://dev.to/dct_technology/safe-scaled-agile-framework-scaling-agile-across-enterprises-1gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
