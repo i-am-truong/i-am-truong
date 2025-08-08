@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Practicing, Start Showcasing: Portfolio Projects That Land Data Analyst Jobs](https://dev.to/zerozulu/stop-practicing-start-showcasing-portfolio-projects-that-land-data-analyst-jobs-46n0)
+- [Accelerating AI Development Workflows: The Kiro Best Practices Boilerplate](https://dev.to/kirodotdev/accelerating-ai-development-workflows-the-kiro-best-practices-boilerplate-4h6o)
 - [As a 15 year old, I built an AI Bot to Beat Four Pattern-Based Rock-Paper-Scissors Bots!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-an-ai-bot-to-beat-four-pattern-based-rock-paper-scissors-bots-1fdn)
 - [As a 15 year old, I built a Simple Amazon-Style Webpage Project replica!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-a-simple-amazon-style-webpage-project-replica-1m26)
 - [Adaptive Lens Profile Generation via Multi-Modal Data Fusion &amp; Bayesian Optimization](https://dev.to/freederia-research/adaptive-lens-profile-generation-via-multi-modal-data-fusion-bayesian-optimization-39d3)
-- [Guía de activación de Windows 11](https://dev.to/pcsupport/guia-de-activacion-de-windows-11-592p)
-- [🎭 A CGAN Story: Three Attempts and an Incomplete Ending](https://dev.to/ertugrulmutlu/a-cgan-story-three-attempts-and-an-incomplete-ending-2a1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
