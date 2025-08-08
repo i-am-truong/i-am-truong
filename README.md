@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Safe and Version-Agnostic Deployment to Consistent Addresses Across EVM Networks](https://dev.to/andriian_chestnykh_5cd2de/safe-and-version-agnostic-deployment-to-consistent-addresses-across-evm-networks-2dhi)
+- [I Built a Website for Mission BBQ Lovers – Here&#39;s Why and How](https://dev.to/shehla_shah_1f25af4301b31/i-built-a-website-for-mission-bbq-lovers-heres-why-and-how-ko5)
 - [Top 10 Public APIs Every Developer Should Know in 2025](https://dev.to/therealmrmumba/top-10-public-apis-every-developer-should-know-in-2025-3hk1)
 - [What Are IT Accessories and Their Role in IT Asset Management &lpar;ITAM&rpar;?](https://dev.to/teresa_tran/what-are-it-accessories-and-their-role-in-it-asset-management-itam-287k)
 - [How to Flash Raspberry Pi OS to an SD Card? &lpar;Step-by-Step Guide&rpar;](https://dev.to/carolineee/how-to-flash-raspberry-pi-os-to-an-sd-card-step-by-step-guide-loi)
-- [How the Pool Pattern Works in Multi-tenant RAG](https://dev.to/aws-builders/how-the-pool-pattern-works-in-multi-tenant-rag-g23)
-- [A Beginner’s Guide to MEV Bot Creation for Founders](https://dev.to/karl_peterson_e9ff3c8f64e/a-beginners-guide-to-mev-bot-creation-for-founders-103n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
