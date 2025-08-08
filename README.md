@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Free SQL Tool to Understand Your Database Visually](https://dev.to/roxana_haidiner/free-sql-tool-to-understand-your-database-visually-4485)
-- [MilonAI - Collaborative AI Chat Application: Building with Bolt - WLH Challenge](https://dev.to/ariondev/milonai-collaborative-ai-chat-application-building-with-bolt-wlh-challenge-mnc)
-- [🧠 CNN from Scratch](https://dev.to/7axel/cnn-from-scratch-49ji)
-- [Getting CrewAI to run local, the prep work of the infra always exceeds the actual learning work](https://dev.to/hanswillem/getting-crewai-to-run-local-the-prep-work-of-the-infra-always-exceeds-the-actual-learning-work-2hh0)
-- [Cuando la tecnología no agrega valor](https://dev.to/jfsan/cuando-la-tecnologia-no-agrega-valor-5gd4)
+- [What Is a Primary Key in SQL? Learn with Examples](https://dev.to/roxana_haidiner/what-is-a-primary-key-in-sql-learn-with-examples-4bbl)
+- [🚀 Base64Kit: A Lightning-Fast, Privacy-First Web Tool with Perfect Lighthouse Score!](https://dev.to/nattee_kotsomnuan_cf7db0a/base64kit-a-lightning-fast-privacy-first-web-tool-with-perfect-lighthouse-score-489n)
+- [Fewer bugs—more FPS: how static analysis benefits Unreal Engine projects](https://dev.to/pvsdev/seamless-static-analysis-integration-and-overcoming-false-positives-3b1e)
+- [How Type Branding Solved an &#39;Impossible&#39; TypeScript Problem](https://dev.to/cordlesswool/how-type-branding-solved-an-impossible-typescript-problem-4k21)
+- [My &quot;Finished&quot; Project Exploded on Linux. An AI and I Put Out the Fires.](https://dev.to/henk_van_hoek/my-finished-project-exploded-on-linux-an-ai-and-i-put-out-the-fires-30pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
