@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Local MongoDB Replica Set Cluster for Real-Time Container Apps &lpar;with Mongo Express&rpar;](https://dev.to/user_10d6776b9ce140/local-mongodb-replica-set-cluster-for-real-time-container-apps-with-mongo-express-16bi)
+- [Compiling Docker in RISC-V](https://dev.to/danielmx/compiling-docker-in-risc-v-5100)
 - [Understanding Programming Paradigms: Structured, Functional, and Object-Oriented Programming](https://dev.to/lovestaco/understanding-programming-paradigms-structured-functional-and-object-oriented-programming-11j5)
+- [100 Days of DevOps: Day 6](https://dev.to/wycliffealphus/100-days-of-devops-day-6-53hb)
 - [Understanding useState in React](https://dev.to/mitchel_gitau_47346390a98/understanding-usestate-in-react-4ech)
-- [Which Language Handles DOM-Like Models Best?](https://dev.to/karol11/which-language-handles-dom-like-models-best-4e8l)
-- [For Analysts: Why Proactivity Beyond Your Role Accelerates Both Business and Career Growth](https://dev.to/sergome/for-analysts-why-proactivity-beyond-your-role-accelerates-both-business-and-career-growth-4lj6)
-- [Article Automation - renamed readme](https://dev.to/gokulnathan66/article-automation-renamed-readme-4jc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
