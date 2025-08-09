@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Refining Ideas &amp; Structuring the Plan #34](https://dev.to/0xj0n1/refining-ideas-structuring-the-plan-34-295n)
 - [Linear Regression with Gradient Descent](https://dev.to/alvbarros/linear-regression-with-gradient-descent-39p1)
 - [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-522a)
 - [CDKTF: Empowering Developers with Infrastructure through CDKTF](https://dev.to/dilldall/cdktf-empowering-developers-with-infrastructure-through-cdktf-53j7)
 - [System Design: Horizontal vs Vertical Scaling](https://dev.to/zeyame/system-design-horizontal-vs-vertical-scaling-2col)
-- [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-3ang)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
