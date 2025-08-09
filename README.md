@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Concerned About localStorage? Here&#39;s How to Secure It](https://dev.to/gouranga-das-khulna/concerned-about-localstorage-heres-how-to-secure-it-2plm)
-- [Celebrating 1000 Views: A Journey Through Open-Source Technology](https://dev.to/kpcofgs/celebrating-1000-views-a-journey-through-open-source-technology-ja5)
-- [kheAI: Chat-based AI Accounting for Smarter Liquidity &amp; Bitcoin Treasury with Redis 8](https://dev.to/kafechew/kheai-chat-based-ai-accounting-for-smarter-liquidity-bitcoin-treasury-with-redis-8-538l)
-- [Inside Docker: Linux Namespaces, cgroups](https://dev.to/jungledev/inside-docker-linux-namespaces-cgroups-3h27)
-- [Building a Lightning-Fast i18n Alternative: Why I Ditched i18next for Native JavaScript](https://dev.to/artalar/building-a-lightning-fast-i18n-alternative-why-i-ditched-i18next-for-native-javascript-2o06)
+- [Weekly Challenge #2 - StackDAG](https://dev.to/javredstone/weekly-challenge-2-stackdag-2cn0)
+- [🚀 Why We Built ATZ CRM — and How It’s Changing Recruiting](https://dev.to/armaan_sharma_836f873b929/why-we-built-atz-crm-and-how-its-changing-recruiting-336l)
+- [Our microsite might shut down..](https://dev.to/aspxone-official/our-microsite-might-shut-down-2ic1)
+- [C# Language Trick – Pattern Matching](https://dev.to/hamza_zeryouh/c-language-trick-pattern-matching-54jb)
+- [💎SUID SGID AND STICKYBIT: BASICS](https://dev.to/sahillearninglinux/suid-sgid-and-stickybit-basics-4a98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
