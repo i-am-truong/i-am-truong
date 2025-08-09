@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a deployment in Kubernetes](https://dev.to/said_olano/how-to-create-a-deployment-in-kubernetes-mn5)
+- [Fastest MVP with Amplify Kiro Amazon Q Developer —Practical playbook for startups and enterprise innovation teams—](https://dev.to/aws-builders/fastest-mvp-with-amplify-x-kiro-x-amazon-q-developer-practical-playbook-for-startups-and-aki)
+- [How to add secrets in Kubernetes deployments](https://dev.to/said_olano/how-to-add-secrets-in-kubernatesdeployments-gd2)
+- [2D Soft Body Collision via Bisector Rays Approach — QuarkPhysics](https://dev.to/erayzesen/2d-soft-body-collision-via-bisector-rays-approach-quarkphysics-1ka7)
 - [GPT 5](https://dev.to/srijan-xi/gpt-5-2ojc)
-- [How to push a containerized Spring Boot app to Docker Hub](https://dev.to/said_olano/how-to-deploy-a-spring-boot-app-to-k8s-3o4j)
-- [Handling Nested and Root Attributes Gracefully](https://dev.to/nasrulhazim/handling-nested-and-root-attributes-gracefully-4agh)
-- [How to setup Airtable MCP for effective work manahement 💻📊](https://dev.to/composiodev/how-to-setup-airtable-mcp-for-effective-work-manahement-1akm)
-- [Starting The Cloud Resume Challenge](https://dev.to/vishal_ghoshroy/starting-the-cloud-resume-challenge-31cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
