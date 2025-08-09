@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT 5](https://dev.to/srijan-xi/gpt-5-2ojc)
+- [How to push a containerized Spring Boot app to Docker Hub](https://dev.to/said_olano/how-to-deploy-a-spring-boot-app-to-k8s-3o4j)
 - [Handling Nested and Root Attributes Gracefully](https://dev.to/nasrulhazim/handling-nested-and-root-attributes-gracefully-4agh)
 - [How to setup Airtable MCP for effective work manahement 💻📊](https://dev.to/composiodev/how-to-setup-airtable-mcp-for-effective-work-manahement-1akm)
 - [Starting The Cloud Resume Challenge](https://dev.to/vishal_ghoshroy/starting-the-cloud-resume-challenge-31cl)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `54`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-54-42b6)
-- [DevOps Skills Alone Aren’t Enough - Here’s Why](https://dev.to/yoshik_karnawat/devops-skills-alone-arent-enough-heres-why-4kb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
