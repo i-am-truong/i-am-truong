@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding @MainActor in Swift: When and How to Use It](https://dev.to/arshtechpro/understanding-mainactor-in-swift-when-and-how-to-use-it-4ii4)
+- [FastMap: Real-Time IoT Anomaly Detection with Redis&#39;s Multi-Model Database](https://dev.to/jonathan_atomarkin_a4dea/fastmap-real-time-iot-anomaly-detection-with-rediss-multi-model-database-2ma2)
+- [Quark’s Outlines: Python Floating Point Numbers](https://dev.to/mike-vincent/quarks-outlines-python-floating-point-numbers-3jpb)
+- [Soon this is going to be real full native app and able on the Appstore and Playstore... This will be a gamechanger](https://dev.to/getappsai/soon-this-is-going-to-be-real-full-native-app-and-able-on-the-appstore-and-playstore-this-will-5124)
 - [Soon on AppStore :&rpar;](https://dev.to/getappsai/soon-on-appstore--16dl)
-- [Implementing Resource Versioning in Conveyor CI](https://dev.to/jimjunior/implementing-resource-versioning-in-conveyor-ci-1pn2)
-- [How LLMs Transform Language into Vectors: The Power of Embeddings](https://dev.to/cristiansifuentes/how-llms-transform-language-into-vectors-the-power-of-embeddings-programming-ai-llms-1p5d)
-- [Unlocking the Future: How AI-Powered Multi-Agent Research Pipelines Are Revolutionizing Insights](https://dev.to/jay_all_day/unlocking-the-future-how-ai-powered-multi-agent-research-pipelines-are-revolutionizing-insights-5cn2)
-- [Why Thailand Is the Go-To Source for Premium Frozen Chicken Exports](https://dev.to/thaipoultrygroup/why-thailand-is-the-go-to-source-for-premium-frozen-chicken-exports-kfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
