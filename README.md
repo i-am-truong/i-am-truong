@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Path Aliases in TypeScript &lpar;with Vite or Webpack bundlers&rpar;](https://dev.to/shane/path-aliases-in-typescript-with-vite-or-webpack-bundlers-3nmb)
+- [React Vibe Coding Tools 🥸🔧](https://dev.to/martygo/react-vibe-coding-tools-143g)
 - [Chatbot para ajudar a melhorar a conversão em inglês&lpar;gratuito&rpar;](https://dev.to/tiago123456789/chatbot-para-ajudar-a-melhorar-a-conversao-em-inglesgratuito-55dm)
 - [Day 10 0f #30DaysOfCode](https://dev.to/justacoder_0x/day-10-0f-30daysofcode-go9)
 - [Docker Persistence: When and How to Keep Your Container Data](https://dev.to/farben95/docker-persistence-when-and-how-to-keep-your-container-data-1b2l)
-- [AWS Lambda Deployment Made Easy with GitHub Actions](https://dev.to/hoangquochung1110/aws-lambda-deployment-made-easy-with-github-actions-57e)
-- [Everything is an Object in Python: From Beginner to “Wait, What?!” Level](https://dev.to/anik_sikder_313/everything-is-an-object-in-python-from-beginner-to-wait-what-level-582m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
