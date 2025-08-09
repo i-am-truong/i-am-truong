@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge #2 - StackDAG](https://dev.to/javredstone/weekly-challenge-2-stackdag-2cn0)
-- [🚀 Why We Built ATZ CRM — and How It’s Changing Recruiting](https://dev.to/armaan_sharma_836f873b929/why-we-built-atz-crm-and-how-its-changing-recruiting-336l)
-- [Our microsite might shut down..](https://dev.to/aspxone-official/our-microsite-might-shut-down-2ic1)
-- [C# Language Trick – Pattern Matching](https://dev.to/hamza_zeryouh/c-language-trick-pattern-matching-54jb)
-- [💎SUID SGID AND STICKYBIT: BASICS](https://dev.to/sahillearninglinux/suid-sgid-and-stickybit-basics-4a98)
+- [Beyond the Build: How Hackathons Fuel Soft Skills and Personal Growth](https://dev.to/tamyrah/beyond-the-build-how-hackathons-fuel-soft-skills-and-personal-growth-3565)
+- [Part 2: Web Server Mastery - Serving Static Content Like a Pro](https://dev.to/unkletayo/part-2-web-server-mastery-serving-static-content-like-a-pro-1m0i)
+- [The Latest in AI: What&#39;s New in 2025?](https://dev.to/akash_b_c199ad2152bbac3f0/the-latest-in-ai-whats-new-in-2025-3dca)
+- [How to Copy a View Only Google Doc?](https://dev.to/theoriginalcopywriter/how-to-copy-a-view-only-google-doc-2593)
+- [Getting pure output from Ansible](https://dev.to/amarao/getting-pure-output-from-ansible-4g5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
