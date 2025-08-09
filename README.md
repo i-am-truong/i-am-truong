@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Take me with you &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/take-me-with-you-my-ai-song-55ep)
-- [راهنمای جامع و کامل تنظیم پروژه در جیرا &lpar;Jira&rpar; از صفر تا صد](https://dev.to/parizad/rhnmy-jm-w-khml-tnzym-prwjh-dr-jyr-jira-z-sfr-t-sd-1hp8)
-- [Why Vibe Coding Isn&#39;t the AI Utopia You Think It Is](https://dev.to/hiruthicsha/why-vibe-coding-isnt-the-ai-utopia-you-think-it-is-1kf9)
-- [Optimize Next.js Performance with Smart Code Splitting: What to Load, When, and Why](https://dev.to/boopykiki/optimize-nextjs-performance-with-smart-code-splitting-what-to-load-when-and-why-9l1)
-- [[Boost]](https://dev.to/osiris8/-4n63)
+- [&quot;Level Up Your JavaScript: Array Methods &lpar;Part 2&rpar;&quot;](https://dev.to/crosston_jack/level-up-your-javascript-array-methods-part-2-3lap)
+- [Everything you need to understand about TCP/IP - summary](https://dev.to/walcalonee/everything-you-need-to-understand-about-tcpip-summary-2nk3)
+- [การติดตั้ง Docker บน Windows แบบ Step by Step](https://dev.to/iconnext/kaartidtang-docker-bn-windows-aebb-step-by-step-112o)
+- [LVM &lpar;Logical Volume Management&rpar;](https://dev.to/godofgeeks/lvm-logical-volume-management-1b7l)
+- [Coding Challenge: Time Tracker](https://dev.to/kaoria/coding-challenge-time-tracker-2ima)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
