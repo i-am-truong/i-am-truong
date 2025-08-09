@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Save yourself some hours!!!](https://dev.to/asmadi/save-yourself-some-hours-51cf)
+- [🚀 New: EasyTool Downloadable Kits for Shopify Devs](https://dev.to/major19/new-easytool-downloadable-kits-for-shopify-devs-2epo)
 - [Quick Overview of Popular CAD Tools for 2025](https://dev.to/hr21don/quick-overview-of-popular-cad-tools-for-2025-5eep)
 - [What are DITA and S1000D Content Standards? A Quick Overview](https://dev.to/hr21don/what-are-dita-and-s1000d-content-standards-a-quick-overview-40lg)
 - [DevLog #1 - ValidateLite: Building a Zero-Config Data Validation Tool](https://dev.to/datapebble_46de8b8e2ca5bd/devlog-1-validatelite-building-a-zero-config-data-validation-tool-22j2)
-- [DevLog #1 - ValidateLite: Building a Zero-Config Data Validation Tool](https://dev.to/datapebble_46de8b8e2ca5bd/devlog-1-validatelite-building-a-zero-config-data-validation-tool-38an)
-- [Built with Redis, AI, and lots of coffee ☕ — check out my collaborative IDE challenge submission!](https://dev.to/mouhamed_mbengue_16e44c2f/built-with-redis-ai-and-lots-of-coffee-check-out-my-collaborative-ide-challenge-submission-1ffp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
