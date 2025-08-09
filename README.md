@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About AI&#39;s Impact on New Developers](https://dev.to/beyond-code/the-truth-about-ais-impact-on-new-developers-2b99)
-- [Solomon Protocol: Job/Recruiter Game Changer with Redis AI](https://dev.to/looneyrichie/solomon-protocol-jobrecruiter-game-changer-with-redis-ai-3eon)
-- [Brazil Hit by AI Phishing and Efimer Crypto Trojan](https://dev.to/neerajlovecyber/brazil-hit-by-ai-phishing-and-efimer-crypto-trojan-1oc2)
-- [Day 15 - Add a Coffee Plan Form](https://dev.to/railsstudent/day-15-add-a-coffee-plan-form-5aa2)
-- [Microsoft lança cursos Gratuitos sobre IA Generativa Para iniciantes e para desenvolvedores JavaScript](https://dev.to/sertaoseracloud/microsoft-lanca-cursos-gratuitos-sobre-ia-generativa-para-iniciantes-e-para-desenvolvedores-25ae)
+- [SuperClaude_Framework快捷键命令的使用技巧](https://dev.to/dragon72463399/superclaudeframeworkkuai-jie-jian-ming-ling-de-shi-yong-ji-qiao-3n58)
+- [Rust Tools That Made Our Dev Team Productive Again](https://dev.to/programmerraja/rust-tools-that-made-our-dev-team-productive-again-479)
+- [Create fast integration tests](https://dev.to/alexferreiradev/create-fast-integration-tests-52pa)
+- [Scroll Trigger Portfolio Template](https://dev.to/patrick_dunn_d0fcc74272b4/scroll-trigger-portfolio-template-32kb)
+- [tftargets: Extracting Terraform Plan/Apply Target Root Modules from Git Branch Diffs](https://dev.to/r_takaishi/tftargets-extracting-terraform-planapply-target-root-modules-from-git-branch-diffs-100)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
