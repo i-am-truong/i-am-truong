@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Build: How Hackathons Fuel Soft Skills and Personal Growth](https://dev.to/tamyrah/beyond-the-build-how-hackathons-fuel-soft-skills-and-personal-growth-3565)
-- [Part 2: Web Server Mastery - Serving Static Content Like a Pro](https://dev.to/unkletayo/part-2-web-server-mastery-serving-static-content-like-a-pro-1m0i)
-- [The Latest in AI: What&#39;s New in 2025?](https://dev.to/akash_b_c199ad2152bbac3f0/the-latest-in-ai-whats-new-in-2025-3dca)
-- [How to Copy a View Only Google Doc?](https://dev.to/theoriginalcopywriter/how-to-copy-a-view-only-google-doc-2593)
-- [Getting pure output from Ansible](https://dev.to/amarao/getting-pure-output-from-ansible-4g5a)
+- [The Millennial&#39;s Bug: Healing through html](https://dev.to/davesommerville/the-millennials-bug-healing-through-html-2bod)
+- [Are we overcomplicating web development?](https://dev.to/gods_wyll/are-we-overcomplicating-web-development-1bi7)
+- [🗼Beginners guide to &quot;Leetcode 231: Power of Two&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-231-power-of-twoc-javascript-python-1c3g)
+- [Unitree unveils A2 quadruped robot with front and rear lidar for enhanced terrain navigation](https://dev.to/ytosko/unitree-unveils-a2-quadruped-robot-with-front-and-rear-lidar-for-enhanced-terrain-navigation-1iko)
+- [NEAR vs. Solana: The Developer Reality Check Nobody Gave Me](https://dev.to/hopi4fx/near-vs-solana-the-developer-reality-check-nobody-gave-me-316b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
