@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [software showcase web](https://dev.to/hilton_abwavo_5b2e104ccd4/software-showcase-web-1idh)
-- [OUTLINE: TIPS MEMASAK NASI GORENG KAMPUNG](https://dev.to/gunadarma/outline-tips-memasak-nasi-goreng-kampung-52e0)
-- [Nyrion 2.0 Finally Released!](https://dev.to/castyanimations_e066778ac/nyrion-20-finally-released-2fma)
-- [Stick this in your AGI pipe and smoke it!](https://dev.to/corporate_stereotype/stick-this-in-your-agi-pipe-and-smoke-it-3nd0)
-- [An Open Letter: The AI-Web Infrastructure Gap Nobody&#39;s Talking About.](https://dev.to/lee_manley_1f3040d70e4caf/an-open-letter-the-ai-web-infrastructure-gap-nobodys-talking-about-162f)
+- [Will GPT-5 Replace Junior Developers? Or Just Redefine Them?](https://dev.to/talaamm/will-gpt-5-replace-junior-developers-or-just-redefine-them-588e)
+- [OUTLINE: TIPS BELAJAR MENGHAFAL DENGAN CEPAT](https://dev.to/gunadarma/outline-tips-belajar-menghafal-dengan-cepat-4hik)
+- [🫆SUDO AND ACL: Basics](https://dev.to/sahillearninglinux/sudo-and-acl-basics-5cm9)
+- [The Day My Flutter IDE Went Silent](https://dev.to/bestaoui_aymen/the-day-my-flutter-ide-went-silent-3f4l)
+- [Aprendendo TI de Graça](https://dev.to/vitormours/aprendendo-ti-de-graca-34a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
