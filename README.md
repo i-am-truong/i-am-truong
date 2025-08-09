@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Scalable .NET 8 Web API: Clean Architecture + CQRS + JWT + PostgreSQL + Redis - A Complete Guide](https://dev.to/iamcymentho/building-a-scalable-net-8-web-api-clean-architecture-cqrs-jwt-postgresql-redis-a-5bpj)
+- [Coding a $1K Landing Page: Designing to Development 📈](https://dev.to/akemnoorsingh/coding-a-1k-landing-page-designing-to-development-18c4)
+- [How to Write Location Pages That Dominate Local SEO in 2025](https://dev.to/sadiqsaleem/how-to-write-location-pages-that-dominate-local-seo-in-2025-3m2p)
 - [I&#39;m building a new approach to frontend web development. It&#39;s meant to be a React killer, as well as a killer of other frameworks.](https://dev.to/isumix/im-building-a-new-approach-to-frontend-web-development-its-meant-to-be-a-react-killer-as-well-152k)
 - [Oracle: The Bridge Between the Real World and the Blockchain](https://dev.to/loading_blocks/oracle-the-bridge-between-the-real-world-and-the-blockchain-4kea)
-- [📄 How to Write a PRD &lpar;Product Requirement Document&rpar; — and Why It’s Your Project’s Best Friend](https://dev.to/dhirajarya01/how-to-write-a-prd-product-requirement-document-and-why-its-your-projects-best-friend-3fl2)
-- [Celebrating 1 Year of QAlogy: From Idea to Reality](https://dev.to/qalogy/celebrating-1-year-of-qalogy-from-idea-to-reality-2kp3)
-- [🚀 Understanding the Docker Lifecycle with a Simple App](https://dev.to/latchudevops/understanding-the-docker-lifecycle-with-a-simple-app-3a5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
