@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CLIP-Powered Multi-Modal Search with Redis Vector Index and Graph](https://dev.to/leoantony72/clip-powered-multi-modal-search-with-redis-vector-index-and-graph-4ple)
-- [Part 3: Why You Should Care About Data!!](https://dev.to/sanaipei001/part-3-why-you-should-care-about-data-5c6j)
-- [Part 2:The Different Types of Data](https://dev.to/sanaipei001/the-different-types-of-data-15l6)
-- [How to Build a Fully Responsive Website with Bubble](https://dev.to/ebereplenty/how-to-build-a-fully-responsive-website-with-bubble-4ffj)
-- [Understanding useRef in React: What It Is and Why It’s Useful](https://dev.to/safal_bhandari/understanding-useref-in-react-what-it-is-and-why-its-useful-d3g)
+- [My first day in Payilagam](https://dev.to/abishek_44a09d1e1af19b4ca/my-first-day-in-payilagam-36am)
+- [Part 4:The Data Workflow-From Raw to Ready](https://dev.to/sanaipei001/part-4-the-data-workflow-from-raw-to-ready-bbm)
+- [ssh-connect — tiny CLI to manage SSH profiles with encrypted passwords](https://dev.to/borys_pidperyhora_4a26303/ssh-connect-tiny-cli-to-manage-ssh-profiles-with-encrypted-passwords-1j20)
+- [wo man einen windows 11 produktschlüssel kaufen kann](https://dev.to/jack_41c37fb8540495826979/wo-man-einen-windows-11-produktschlussel-kaufen-kann-36l1)
+- [🚀 10 Node.js Tips You Wish You Knew Earlier &lpar;Boost Your Backend Skills Fast!&rpar;](https://dev.to/yusuf_ab/10-nodejs-tips-you-wish-you-knew-earlier-boost-your-backend-skills-fast-28h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
