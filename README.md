@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Take me with you &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/take-me-with-you-my-ai-song-55ep)
+- [راهنمای جامع و کامل تنظیم پروژه در جیرا &lpar;Jira&rpar; از صفر تا صد](https://dev.to/parizad/rhnmy-jm-w-khml-tnzym-prwjh-dr-jyr-jira-z-sfr-t-sd-1hp8)
+- [Why Vibe Coding Isn&#39;t the AI Utopia You Think It Is](https://dev.to/hiruthicsha/why-vibe-coding-isnt-the-ai-utopia-you-think-it-is-1kf9)
+- [Optimize Next.js Performance with Smart Code Splitting: What to Load, When, and Why](https://dev.to/boopykiki/optimize-nextjs-performance-with-smart-code-splitting-what-to-load-when-and-why-9l1)
 - [[Boost]](https://dev.to/osiris8/-4n63)
-- [A Complete Next.js Streaming Guide: loading.tsx, Suspense, and Performance](https://dev.to/boopykiki/a-complete-nextjs-streaming-guide-loadingtsx-suspense-and-performance-9g9)
-- [Why Base64 Encoding is More Useful Than You Think](https://dev.to/nattee_kotsomnuan/why-base64-encoding-is-more-useful-than-you-think-4h8j)
-- [Building PhAlS - A Phishing Alert System using Google AI Studio.](https://dev.to/binam_b62d98c8c922442c8a5/building-phals-a-phishing-alert-system-using-google-ai-studio-4pa6)
-- [🐱 Introducing Nyash: A Browser-Native Programming Language](https://dev.to/charmpic/introducing-nyash-a-browser-native-programming-language-13mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
