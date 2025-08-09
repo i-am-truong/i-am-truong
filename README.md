@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [software showcase web](https://dev.to/hilton_abwavo_5b2e104ccd4/software-showcase-web-1idh)
+- [OUTLINE: TIPS MEMASAK NASI GORENG KAMPUNG](https://dev.to/gunadarma/outline-tips-memasak-nasi-goreng-kampung-52e0)
+- [Nyrion 2.0 Finally Released!](https://dev.to/castyanimations_e066778ac/nyrion-20-finally-released-2fma)
+- [Stick this in your AGI pipe and smoke it!](https://dev.to/corporate_stereotype/stick-this-in-your-agi-pipe-and-smoke-it-3nd0)
 - [An Open Letter: The AI-Web Infrastructure Gap Nobody&#39;s Talking About.](https://dev.to/lee_manley_1f3040d70e4caf/an-open-letter-the-ai-web-infrastructure-gap-nobodys-talking-about-162f)
-- [Building NeuroStash - VI](https://dev.to/devunderdog/building-neurostash-vi-3eje)
-- [Next js](https://dev.to/kadeo/next-js-l2e)
-- [🔑 Figuring Out Authentication in Next.js &lpar;While Trying Not to Lose My Sanity 😅&rpar;](https://dev.to/rashidpbi/figuring-out-authentication-in-nextjs-while-trying-not-to-lose-my-sanity--29bo)
-- [Revolutionizing Git Workflows: The MCP Git Commit Generator](https://dev.to/theoklitosbam7/revolutionizing-git-workflows-the-mcp-git-commit-generator-530m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
