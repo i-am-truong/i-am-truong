@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Agile: Best Practices for Success](https://dev.to/vjnvisakh/mastering-agile-best-practices-for-success-2he2)
-- [Wear OS apps with Flutter &lpar;3/4&rpar;: Using Platform Channels to implement custom functionality &lpar;location &amp; user text input&rpar;](https://dev.to/shu8/wear-os-apps-with-flutter-34-using-platform-channels-to-implement-custom-functionality-2c4g)
-- [Implementing Offline-First Architecture in Flutter: Part 1 - Local Storage with Conflict Resolution](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-1-local-storage-with-conflict-resolution-4mdl)
-- [AI Agentic Kiro- Empowering Intelligent Agents](https://dev.to/adelinemakokha/ai-agentic-kiro-empowering-intelligent-agents-426h)
-- [Installation of Linux OS](https://dev.to/ajay_sundar_c3eb3bcf9f98d/installation-of-linux-os-5fgm)
+- [Revolutionizing Git Workflows: The MCP Git Commit Generator](https://dev.to/theoklitosbam7/revolutionizing-git-workflows-the-mcp-git-commit-generator-530m)
+- [👨🏽‍🏫✨ How I Explained the JSON Replacer Function to My 8-Year-Old Student](https://dev.to/agunechemba/how-i-explained-the-json-replacer-function-to-my-8-year-old-student-4hla)
+- [Understanding useMemo in React: Why It’s Important &lpar;With Example&rpar;](https://dev.to/safal_bhandari/understanding-usememo-in-react-why-its-important-with-example-3be0)
+- [Understanding useCallback in React: Why It’s Important &lpar;With Example&rpar;](https://dev.to/safal_bhandari/understanding-usecallback-in-react-why-its-important-with-example-5ap0)
+- [Ever used any of Low-Code/No-Code Platforms, What’s Your Take?](https://dev.to/rayan_karki_2c3b4150ad1b9/ever-used-any-of-low-codeno-code-platforms-whats-your-take-3m2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
