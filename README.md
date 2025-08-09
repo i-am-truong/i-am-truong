@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LTMC: Redis-Powered Multi-Agent Memory &amp; Orchestration Platform](https://dev.to/oldnordic/ltmc-redis-powered-multi-agent-memory-orchestration-platform-4n6o)
-- [A complete guide to Prototypes, Constructors and Inheritance in JavaScript](https://dev.to/dehemi_fabio/a-complete-guide-to-prototypes-constructors-and-inheritance-in-javascript-1j26)
-- [Why PR Is the Developer’s Secret Weapon for Product Growth](https://dev.to/sonia_bobrik_1939cdddd79d/why-pr-is-the-developers-secret-weapon-for-product-growth-3ncb)
-- [Developing Scalable Multi-Page Web Apps with ASP.NET and Vite.js](https://dev.to/fussionlabs/developing-scalable-multi-page-web-apps-with-aspnet-and-vitejs-32g3)
-- [Why Developers and Tech Founders Should Treat PR as a Core Part of Product Development](https://dev.to/sonia_bobrik_1939cdddd79d/why-developers-and-tech-founders-should-treat-pr-as-a-core-part-of-product-development-1hl4)
+- [Fast and efficient tool to reduce node_modules size by up to 60%. Ideal for serverless, Docker, and deployment optimization.](https://dev.to/alimaster/fast-and-efficient-tool-to-reduce-nodemodules-size-by-up-to-60-ideal-for-serverless-docker-and-1opc)
+- [Plain Guide to Einops](https://dev.to/lewis_won/plain-guide-to-einops-3gpd)
+- [Embedding the Crystal Compiler in Your Program](https://dev.to/kojix2/embedding-the-crystal-compiler-in-your-program-2ief)
+- [TIPS BELAJAR PEMROGRAMAN DENGAN MUDAH](https://dev.to/kerend__2dc02a_dc3170cf62/tips-belajar-pemrograman-dengan-mudah-hcd)
+- [I Was Tired of Building Invoices, So I Built a Full-Stack React Document Designer](https://dev.to/jafranjemal/i-was-tired-of-building-invoices-so-i-built-a-full-stack-react-document-designer-5c84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
