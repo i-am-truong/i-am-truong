@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AidBridge: Real-Time Disaster Assistance System &lpar;Redis Challenge Submission&rpar;](https://dev.to/tenzin_lama_da57fe1fc4ad7/aidbridge-real-time-disaster-assistance-system-redis-challenge-submission-52lo)
-- [Mastering LINQ Performance: Advanced Techniques for Senior Engineers](https://dev.to/shiv_darshanrathore_402a/mastering-linq-performance-advanced-techniques-for-senior-engineers-i98)
-- [Why Service Account Impersonation is Essential for Secure and Efficient Cloud Development](https://dev.to/hikikomorineko/why-service-account-impersonation-is-essential-for-secure-and-efficient-cloud-development-jea)
-- [The Game Theorists: Game Theory: Can ANYONE Save Amanda the Adventurer?](https://dev.to/gg_news/the-game-theorists-game-theory-can-anyone-save-amanda-the-adventurer-39mi)
-- [Higher order functions in React &lpar;deep dive&rpar;](https://dev.to/matthew_ricci_0680a2a22c6/higher-order-functions-in-react-deep-dive-17p8)
+- [Understanding Programming Paradigms: Structured, Functional, and Object-Oriented Programming](https://dev.to/lovestaco/understanding-programming-paradigms-structured-functional-and-object-oriented-programming-11j5)
+- [Understanding useState in React](https://dev.to/mitchel_gitau_47346390a98/understanding-usestate-in-react-4ech)
+- [Which Language Handles DOM-Like Models Best?](https://dev.to/karol11/which-language-handles-dom-like-models-best-4e8l)
+- [For Analysts: Why Proactivity Beyond Your Role Accelerates Both Business and Career Growth](https://dev.to/sergome/for-analysts-why-proactivity-beyond-your-role-accelerates-both-business-and-career-growth-4lj6)
+- [Article Automation - renamed readme](https://dev.to/gokulnathan66/article-automation-renamed-readme-4jc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
