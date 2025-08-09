@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [kheAI: Chat-based AI Accounting for Smarter Liquidity &amp; Bitcoin Treasury with Redis 8](https://dev.to/kafechew/kheai-chat-based-ai-accounting-for-smarter-liquidity-bitcoin-treasury-with-redis-8-538l)
+- [Inside Docker: Linux Namespaces, cgroups](https://dev.to/jungledev/inside-docker-linux-namespaces-cgroups-3h27)
 - [Building a Lightning-Fast i18n Alternative: Why I Ditched i18next for Native JavaScript](https://dev.to/artalar/building-a-lightning-fast-i18n-alternative-why-i-ditched-i18next-for-native-javascript-2o06)
 - [The Silent Symphony of Artificial Neurons](https://dev.to/satyam_rana_f7aaadc8dcd5c/the-silent-symphony-of-artificial-neurons-1d1n)
 - [Switch statement , for and while loop](https://dev.to/preethi_nandhagopal_6d075/switch-statement-for-and-while-loop-13cm)
-- [2 New Djamware Tutorials — Real-Time Chat App with NestJS + WebSocket &amp; Ionic 8 Base64 Image Upload](https://dev.to/djamware_tutorial_eba1a61/2-new-djamware-tutorials-real-time-chat-app-with-nestjs-websocket-ionic-8-base64-image-upload-587m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
