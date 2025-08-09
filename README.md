@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TravelMate AI: Real-Time AI Travel Planner Powered by Redis Stack](https://dev.to/sumeetweb/travelmate-ai-real-time-ai-travel-planner-powered-by-redis-stack-4cn2)
 - [Save yourself some hours!!!](https://dev.to/asmadi/save-yourself-some-hours-51cf)
 - [🚀 New: EasyTool Downloadable Kits for Shopify Devs](https://dev.to/major19/new-easytool-downloadable-kits-for-shopify-devs-2epo)
 - [Quick Overview of Popular CAD Tools for 2025](https://dev.to/hr21don/quick-overview-of-popular-cad-tools-for-2025-5eep)
 - [What are DITA and S1000D Content Standards? A Quick Overview](https://dev.to/hr21don/what-are-dita-and-s1000d-content-standards-a-quick-overview-40lg)
-- [DevLog #1 - ValidateLite: Building a Zero-Config Data Validation Tool](https://dev.to/datapebble_46de8b8e2ca5bd/devlog-1-validatelite-building-a-zero-config-data-validation-tool-22j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
