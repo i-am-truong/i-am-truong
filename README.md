@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 AI Tools to Watch in 2025](https://dev.to/mani_kandan876_8119606564/top-5-ai-tools-to-watch-in-2025-1n9e)
-- [debug-logger.ts in Flyde codebase.](https://dev.to/ramunarasinga-11/debug-loggerts-in-flyde-codebase-43f0)
-- [Understanding Laravel Eloquent Relationships: From Basics to Polymorphic](https://dev.to/kengitahi/understanding-laravel-eloquent-relationships-from-basics-to-polymorphic-4e1k)
-- [5 ways to 10x your &quot;Vibe&quot; coding](https://dev.to/kwnaidoo/5-ways-to-10x-your-vibe-coding-35el)
-- [🚀 Day 0 of my Cloud Journey - Cutting through the Noise](https://dev.to/asimmakes/day-0-of-my-cloud-journey-cutting-through-the-noise-5abl)
+- [Introducing JWTauditor: Your Ultimate Burp Suite Extension for Passive JWT Security Analysis](https://dev.to/mohamed_essam_27afebce427/introducing-jwtauditor-your-ultimate-burp-suite-extension-for-passive-jwt-security-analysis-1cba)
+- [How We Simplified Weekly Client Reports &lpar;and Daily Standups&rpar;, What Do You Use?](https://dev.to/emre_demirel_987cefd67454/how-we-simplified-weekly-client-reports-and-daily-standups-what-do-you-use-2l95)
+- [ER Diagrams &lpar;Entity-Relationship Diagrams&rpar;](https://dev.to/mushfiqurrahman/er-diagrams-entity-relationship-diagrams-369o)
+- [Cuando el cliente dice: “solo es cambiar un color”](https://dev.to/yosmarhinestroza/cuando-el-cliente-dice-solo-es-cambiar-un-color-b57)
+- [Conjuring Cards from Code: Building an AI Magic: The Gathering Generator with Gemini](https://dev.to/daniel_githinji_6e1e402c3/conjuring-cards-from-code-building-an-ai-magic-the-gathering-generator-with-gemini-3jd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
