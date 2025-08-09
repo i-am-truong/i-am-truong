@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable .NET 8 Web API: Clean Architecture + CQRS + JWT + PostgreSQL + Redis - A Complete Guide](https://dev.to/iamcymentho/building-a-scalable-net-8-web-api-clean-architecture-cqrs-jwt-postgresql-redis-a-5bpj)
-- [Coding a $1K Landing Page: Designing to Development 📈](https://dev.to/akemnoorsingh/coding-a-1k-landing-page-designing-to-development-18c4)
-- [How to Write Location Pages That Dominate Local SEO in 2025](https://dev.to/sadiqsaleem/how-to-write-location-pages-that-dominate-local-seo-in-2025-3m2p)
-- [I&#39;m building a new approach to frontend web development. It&#39;s meant to be a React killer, as well as a killer of other frameworks.](https://dev.to/isumix/im-building-a-new-approach-to-frontend-web-development-its-meant-to-be-a-react-killer-as-well-152k)
-- [Oracle: The Bridge Between the Real World and the Blockchain](https://dev.to/loading_blocks/oracle-the-bridge-between-the-real-world-and-the-blockchain-4kea)
+- [LTMC: Redis-Powered Multi-Agent Memory &amp; Orchestration Platform](https://dev.to/oldnordic/ltmc-redis-powered-multi-agent-memory-orchestration-platform-4n6o)
+- [A complete guide to Prototypes, Constructors and Inheritance in JavaScript](https://dev.to/dehemi_fabio/a-complete-guide-to-prototypes-constructors-and-inheritance-in-javascript-1j26)
+- [Why PR Is the Developer’s Secret Weapon for Product Growth](https://dev.to/sonia_bobrik_1939cdddd79d/why-pr-is-the-developers-secret-weapon-for-product-growth-3ncb)
+- [Developing Scalable Multi-Page Web Apps with ASP.NET and Vite.js](https://dev.to/fussionlabs/developing-scalable-multi-page-web-apps-with-aspnet-and-vitejs-32g3)
+- [Why Developers and Tech Founders Should Treat PR as a Core Part of Product Development](https://dev.to/sonia_bobrik_1939cdddd79d/why-developers-and-tech-founders-should-treat-pr-as-a-core-part-of-product-development-1hl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
