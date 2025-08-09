@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [231. Power of Two](https://dev.to/mdarifulhaque/231-power-of-two-5ef6)
-- [Spring Boot `application.properties` – Complete Guide to Configuring Databases, Messaging, and Security](https://dev.to/devcorner/spring-boot-applicationproperties-complete-guide-to-configuring-databases-messaging-and-j47)
-- [AI model for good governance](https://dev.to/hansik/ai-model-for-good-governance-508o)
-- [Token Bucket - Rate Limiter](https://dev.to/krishna-nayak/token-bucket-rate-limiter-3fb1)
-- [Top 10 AWS Security Mistakes Newbies Make &lpar;and How to Fix Them&rpar; 🔒😱](https://dev.to/yash_sonawane25/top-10-aws-security-mistakes-newbies-make-and-how-to-fix-them-l9e)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `54`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-54-42b6)
+- [DevOps Skills Alone Aren’t Enough - Here’s Why](https://dev.to/yoshik_karnawat/devops-skills-alone-arent-enough-heres-why-4kb5)
+- [Prompt Templates for Every Department in a Business &lpar;Copy-Paste Collection&rpar;](https://dev.to/jaideepparashar/prompt-templates-for-every-department-in-a-business-copy-paste-collection-21kb)
+- [🔍 I recently attended a DevOps interview – here are the questions they asked me:](https://dev.to/iragani_vamsisai_5a349cc/i-recently-attended-a-devops-interview-here-are-the-questions-they-asked-me-3k25)
+- [Cloning a website taught me more than tutorials did.](https://dev.to/dshree/cloning-a-website-taught-me-more-than-tutorials-did-3bgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
