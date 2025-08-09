@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fast and efficient tool to reduce node_modules size by up to 60%. Ideal for serverless, Docker, and deployment optimization.](https://dev.to/alimaster/fast-and-efficient-tool-to-reduce-nodemodules-size-by-up-to-60-ideal-for-serverless-docker-and-1opc)
-- [Plain Guide to Einops](https://dev.to/lewis_won/plain-guide-to-einops-3gpd)
-- [Embedding the Crystal Compiler in Your Program](https://dev.to/kojix2/embedding-the-crystal-compiler-in-your-program-2ief)
-- [TIPS BELAJAR PEMROGRAMAN DENGAN MUDAH](https://dev.to/kerend__2dc02a_dc3170cf62/tips-belajar-pemrograman-dengan-mudah-hcd)
-- [I Was Tired of Building Invoices, So I Built a Full-Stack React Document Designer](https://dev.to/jafranjemal/i-was-tired-of-building-invoices-so-i-built-a-full-stack-react-document-designer-5c84)
+- [Mastering Agile: Best Practices for Success](https://dev.to/vjnvisakh/mastering-agile-best-practices-for-success-2he2)
+- [Wear OS apps with Flutter &lpar;3/4&rpar;: Using Platform Channels to implement custom functionality &lpar;location &amp; user text input&rpar;](https://dev.to/shu8/wear-os-apps-with-flutter-34-using-platform-channels-to-implement-custom-functionality-2c4g)
+- [Implementing Offline-First Architecture in Flutter: Part 1 - Local Storage with Conflict Resolution](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-1-local-storage-with-conflict-resolution-4mdl)
+- [AI Agentic Kiro- Empowering Intelligent Agents](https://dev.to/adelinemakokha/ai-agentic-kiro-empowering-intelligent-agents-426h)
+- [Installation of Linux OS](https://dev.to/ajay_sundar_c3eb3bcf9f98d/installation-of-linux-os-5fgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
