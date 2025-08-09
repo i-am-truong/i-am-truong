@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Complex Workflows in n8n — and How to Avoid the Hidden Pitfalls](https://dev.to/onestardao/automating-complex-workflows-in-n8n-and-how-to-avoid-the-hidden-pitfalls-491d)
-- [Week 8: Jenkins CI/CD Mastery - From Docker Containers to Automated Pipelines 🚀](https://dev.to/dev_dave_26/week-8-jenkins-cicd-mastery-from-docker-containers-to-automated-pipelines-34j7)
-- [The Millennial&#39;s Bug: Healing through html](https://dev.to/davesommerville/the-millennials-bug-healing-through-html-2bod)
-- [Are we overcomplicating web development?](https://dev.to/gods_wyll/are-we-overcomplicating-web-development-1bi7)
-- [🗼Beginners guide to &quot;Leetcode 231: Power of Two&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-231-power-of-twoc-javascript-python-1c3g)
+- [การติดตั้งWindows Subsystem for Linux&lpar;WSL2&rpar; บน Windows10 แบบ Step by Step](https://dev.to/iconnext/kaartidtangwindows-subsystem-for-linuxwsl2-bn-windows10-aebb-step-by-step-1ej)
+- [💻 LeetCode — Master Coding Interviews and Problem-Solving](https://dev.to/ml318097/leetcode-master-coding-interviews-and-problem-solving-dnd)
+- [Celebrate!: After the Hack - WLH Challenge](https://dev.to/ariondev/celebrate-after-the-hack-wlh-challenge-13nc)
+- [Building a High-Performance AI Image Gallery with JurisJS](https://dev.to/artyprog/building-a-high-performance-ai-image-gallery-with-jurisjs-43e5)
+- [Self-Learning MCP Ecosystem - System Specification: Building with Bolt - WLH Challenge](https://dev.to/ariondev/self-learning-mcp-ecosystem-system-specification-building-with-bolt-wlh-challenge-1hhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
