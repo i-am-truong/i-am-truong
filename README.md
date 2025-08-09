@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [More Thoughts on My Mental Model for Understanding Data Structures and Algorithms](https://dev.to/lusayo_ny/more-thoughts-on-my-mental-model-for-understanding-data-structures-and-algorithms-2e90)
-- [Bankrupt Clock: After the Hack - WLH Challenge](https://dev.to/ariondev/bankrupt-clock-after-the-hack-wlh-challenge-4bhb)
-- [Trixie has arrived!](https://dev.to/tracywhodoesnot/trixie-has-arrived-2299)
-- [The Shell Safety Net I Wanted GPT-5 to Be - So I Built It](https://dev.to/gitswhy/the-shell-safety-net-i-wanted-gpt-5-to-be-so-i-built-it-4h8)
-- [การติดตั้งWindows Subsystem for Linux&lpar;WSL2&rpar; บน Windows10 แบบ Step by Step](https://dev.to/iconnext/kaartidtangwindows-subsystem-for-linuxwsl2-bn-windows10-aebb-step-by-step-1ej)
+- [Why I Switched from Windows to macOS: A Technical and Practical Evaluation](https://dev.to/tracywhodoesnot/why-i-switched-from-windows-to-macos-a-technical-and-practical-evaluation-10dg)
+- [I Built a Leadership Simulator for Aspiring Tech Leads &lpar;And Why The Soft Skills Matter Most&rpar;](https://dev.to/dalenguyen/i-built-a-leadership-simulator-for-aspiring-tech-leads-and-why-the-soft-skills-matter-most-4ngo)
+- [Day 15 – Data Analytics Journey !](https://dev.to/ramyacse/day-15-data-analytics-journey--4bij)
+- [Get from Zero To Hero in Foundry - Part 1: Getting Started](https://dev.to/abhiramelf/get-from-zero-to-hero-in-foundry-part-1-getting-started-57h8)
+- [Software Success: Balancing Architecture and Behavior](https://dev.to/deepak_negi_f1d64e7393000/software-success-balancing-architecture-and-behavior-3p6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
