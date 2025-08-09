@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Soon on AppStore :&rpar;](https://dev.to/getappsai/soon-on-appstore--16dl)
 - [Implementing Resource Versioning in Conveyor CI](https://dev.to/jimjunior/implementing-resource-versioning-in-conveyor-ci-1pn2)
+- [How LLMs Transform Language into Vectors: The Power of Embeddings](https://dev.to/cristiansifuentes/how-llms-transform-language-into-vectors-the-power-of-embeddings-programming-ai-llms-1p5d)
 - [Unlocking the Future: How AI-Powered Multi-Agent Research Pipelines Are Revolutionizing Insights](https://dev.to/jay_all_day/unlocking-the-future-how-ai-powered-multi-agent-research-pipelines-are-revolutionizing-insights-5cn2)
 - [Why Thailand Is the Go-To Source for Premium Frozen Chicken Exports](https://dev.to/thaipoultrygroup/why-thailand-is-the-go-to-source-for-premium-frozen-chicken-exports-kfc)
-- [🧠 MindMirror: Real-time Mental Health Analysis with RedisAI](https://dev.to/looneyrichie/mindmirror-real-time-mental-health-analysis-with-redisai-2c9p)
-- [How .aggregate&lpar;&rpar; Powered Our Learner &amp; Income Analytics in MongoDB](https://dev.to/dorcie-dee/how-aggregate-powered-our-learner-income-analytics-in-mongodb-jdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
