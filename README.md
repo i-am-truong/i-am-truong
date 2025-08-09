@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering State Management with Zustand in Modern React Applications](https://dev.to/ekwoster/mastering-state-management-with-zustand-in-modern-react-applications-1n56)
-- [How I Built an AI Tool to Fix Low-Res Images &lpar;And You Can Try It Too&rpar;](https://dev.to/na_diao_60cac081dda769dab/how-i-built-an-ai-tool-to-fix-low-res-images-and-you-can-try-it-too-32gi)
-- [VibeTDD Experiment 4.2: From Specs to Stories to Tasks - AI as Business Analyst](https://dev.to/maksim_matlakhov/vibetdd-experiment-42-from-specs-to-stories-to-tasks-ai-as-business-analyst-5fk8)
-- [💡 Pro-Level Next.js + Strapi Tips &lpar;Beginner-Friendly but Boss-Level&rpar;](https://dev.to/arunacha_dinesh/pro-level-nextjs-strapi-tips-beginner-friendly-but-boss-level-3p54)
-- [Mastering Digital Learning: The Crucial Role of Feedback in Online Education](https://dev.to/ghummantech/mastering-digital-learning-the-crucial-role-of-feedback-in-online-education-1553)
+- [Go Channels Explained Like You’re Five](https://dev.to/beryldev/go-channels-explained-like-youre-five-3nga)
+- [Continuity: Moving RubyGems to Org](https://dev.to/galtzo/continuity-moving-rubygems-to-org-390g)
+- [RestoApp: Why We Built an Open-Source Food Delivery Platform](https://dev.to/restoapp/restoapp-why-we-built-an-open-source-food-delivery-platform-2nb8)
+- [Rock-Paper-Scissors with Neural-Networks!](https://dev.to/kiamehr_eskandari/rock-paper-scissors-with-neural-networks-2p78)
+- [How to Use PHP&#39;s Never Return Type](https://dev.to/arasosman/how-to-use-phps-never-return-type-56e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
