@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 5:Beginner-Friendly Data Tools](https://dev.to/sanaipei001/part-5beginner-friendly-data-tools-2idb)
 - [My first day in Payilagam](https://dev.to/abishek_44a09d1e1af19b4ca/my-first-day-in-payilagam-36am)
 - [Part 4:The Data Workflow-From Raw to Ready](https://dev.to/sanaipei001/part-4-the-data-workflow-from-raw-to-ready-bbm)
 - [ssh-connect — tiny CLI to manage SSH profiles with encrypted passwords](https://dev.to/borys_pidperyhora_4a26303/ssh-connect-tiny-cli-to-manage-ssh-profiles-with-encrypted-passwords-1j20)
 - [wo man einen windows 11 produktschlüssel kaufen kann](https://dev.to/jack_41c37fb8540495826979/wo-man-einen-windows-11-produktschlussel-kaufen-kann-36l1)
-- [🚀 10 Node.js Tips You Wish You Knew Earlier &lpar;Boost Your Backend Skills Fast!&rpar;](https://dev.to/yusuf_ab/10-nodejs-tips-you-wish-you-knew-earlier-boost-your-backend-skills-fast-28h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
