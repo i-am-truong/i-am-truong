@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [More Thoughts on My Mental Model for Understanding Data Structures and Algorithms](https://dev.to/lusayo_ny/more-thoughts-on-my-mental-model-for-understanding-data-structures-and-algorithms-2e90)
+- [Bankrupt Clock: After the Hack - WLH Challenge](https://dev.to/ariondev/bankrupt-clock-after-the-hack-wlh-challenge-4bhb)
+- [Trixie has arrived!](https://dev.to/tracywhodoesnot/trixie-has-arrived-2299)
+- [The Shell Safety Net I Wanted GPT-5 to Be - So I Built It](https://dev.to/gitswhy/the-shell-safety-net-i-wanted-gpt-5-to-be-so-i-built-it-4h8)
 - [การติดตั้งWindows Subsystem for Linux&lpar;WSL2&rpar; บน Windows10 แบบ Step by Step](https://dev.to/iconnext/kaartidtangwindows-subsystem-for-linuxwsl2-bn-windows10-aebb-step-by-step-1ej)
-- [💻 LeetCode — Master Coding Interviews and Problem-Solving](https://dev.to/ml318097/leetcode-master-coding-interviews-and-problem-solving-dnd)
-- [Celebrate!: After the Hack - WLH Challenge](https://dev.to/ariondev/celebrate-after-the-hack-wlh-challenge-13nc)
-- [Building a High-Performance AI Image Gallery with JurisJS](https://dev.to/artyprog/building-a-high-performance-ai-image-gallery-with-jurisjs-43e5)
-- [Self-Learning MCP Ecosystem - System Specification: Building with Bolt - WLH Challenge](https://dev.to/ariondev/self-learning-mcp-ecosystem-system-specification-building-with-bolt-wlh-challenge-1hhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
