@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Local MongoDB Replica Set Cluster for Real-Time Container Apps &lpar;with Mongo Express&rpar;](https://dev.to/user_10d6776b9ce140/local-mongodb-replica-set-cluster-for-real-time-container-apps-with-mongo-express-16bi)
-- [Compiling Docker in RISC-V](https://dev.to/danielmx/compiling-docker-in-risc-v-5100)
-- [Understanding Programming Paradigms: Structured, Functional, and Object-Oriented Programming](https://dev.to/lovestaco/understanding-programming-paradigms-structured-functional-and-object-oriented-programming-11j5)
-- [100 Days of DevOps: Day 6](https://dev.to/wycliffealphus/100-days-of-devops-day-6-53hb)
-- [Understanding useState in React](https://dev.to/mitchel_gitau_47346390a98/understanding-usestate-in-react-4ech)
+- [Грузим списки с Firestore REST API: как будто свой сервер](https://dev.to/dekabrsky/gruzim-spiski-s-firestore-rest-api-kak-budto-svoi-siervier-2nif)
+- [Google sign-in with Next.js](https://dev.to/justincalleja/google-sign-in-with-nextjs-4lnn)
+- [I put a real-time 3D Engine in my PHP app.](https://dev.to/umaarov/i-put-a-real-time-3d-engine-in-my-php-app-35jo)
+- [Stripe Professional Developer Certification Made Simple: A Practical Prep Guide](https://dev.to/rebeccakoniahgari/stripe-professional-developer-certification-made-simple-a-practical-prep-guide-2f4g)
+- [Semantic Caching Layer for High-Throughput](https://dev.to/souvik_misra_b527ec5acdd3/semantic-caching-layer-for-high-throughput-8j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
