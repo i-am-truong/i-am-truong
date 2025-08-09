@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Switched from Windows to macOS: A Technical and Practical Evaluation](https://dev.to/tracywhodoesnot/why-i-switched-from-windows-to-macos-a-technical-and-practical-evaluation-10dg)
-- [I Built a Leadership Simulator for Aspiring Tech Leads &lpar;And Why The Soft Skills Matter Most&rpar;](https://dev.to/dalenguyen/i-built-a-leadership-simulator-for-aspiring-tech-leads-and-why-the-soft-skills-matter-most-4ngo)
-- [Day 15 – Data Analytics Journey !](https://dev.to/ramyacse/day-15-data-analytics-journey--4bij)
-- [Get from Zero To Hero in Foundry - Part 1: Getting Started](https://dev.to/abhiramelf/get-from-zero-to-hero-in-foundry-part-1-getting-started-57h8)
-- [Software Success: Balancing Architecture and Behavior](https://dev.to/deepak_negi_f1d64e7393000/software-success-balancing-architecture-and-behavior-3p6a)
+- [Top 5 AI Tools to Watch in 2025](https://dev.to/mani_kandan876_8119606564/top-5-ai-tools-to-watch-in-2025-1n9e)
+- [debug-logger.ts in Flyde codebase.](https://dev.to/ramunarasinga-11/debug-loggerts-in-flyde-codebase-43f0)
+- [Understanding Laravel Eloquent Relationships: From Basics to Polymorphic](https://dev.to/kengitahi/understanding-laravel-eloquent-relationships-from-basics-to-polymorphic-4e1k)
+- [5 ways to 10x your &quot;Vibe&quot; coding](https://dev.to/kwnaidoo/5-ways-to-10x-your-vibe-coding-35el)
+- [🚀 Day 0 of my Cloud Journey - Cutting through the Noise](https://dev.to/asimmakes/day-0-of-my-cloud-journey-cutting-through-the-noise-5abl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
