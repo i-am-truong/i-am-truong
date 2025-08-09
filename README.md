@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQL vs NoSQL: Choosing the Right Database Before It Chooses Your Fate](https://dev.to/vignesh-j/sql-vs-nosql-choosing-the-right-database-before-it-chooses-your-fate-4j1e)
-- [App Router vs Pages Router in Next.js — a deep, practical guide](https://dev.to/shyam0118/app-router-vs-pages-router-in-nextjs-a-deep-practical-guide-341g)
-- [Spring Boot Banking Application Deployment using DevSecOps on AWS EKS](https://dev.to/deepanshub09/spring-boot-banking-application-deployment-using-devsecops-on-aws-eks-27ff)
-- [Will GPT-5 Replace Junior Developers? Or Just Redefine Them?](https://dev.to/talaamm/will-gpt-5-replace-junior-developers-or-just-redefine-them-588e)
-- [OUTLINE: TIPS BELAJAR MENGHAFAL DENGAN CEPAT](https://dev.to/aliyah_salsabila_dfdfbac8/outline-tips-belajar-menghafal-dengan-cepat-4m21)
+- [kheAI: Chat-based AI Accounting for Smarter Liquidity &amp; Bitcoin Treasury with Redis 8](https://dev.to/kafechew/kheai-chat-based-ai-accounting-for-smarter-liquidity-bitcoin-treasury-with-redis-8-538l)
+- [Building a Lightning-Fast i18n Alternative: Why I Ditched i18next for Native JavaScript](https://dev.to/artalar/building-a-lightning-fast-i18n-alternative-why-i-ditched-i18next-for-native-javascript-2o06)
+- [The Silent Symphony of Artificial Neurons](https://dev.to/satyam_rana_f7aaadc8dcd5c/the-silent-symphony-of-artificial-neurons-1d1n)
+- [Switch statement , for and while loop](https://dev.to/preethi_nandhagopal_6d075/switch-statement-for-and-while-loop-13cm)
+- [2 New Djamware Tutorials — Real-Time Chat App with NestJS + WebSocket &amp; Ionic 8 Base64 Image Upload](https://dev.to/djamware_tutorial_eba1a61/2-new-djamware-tutorials-real-time-chat-app-with-nestjs-websocket-ionic-8-base64-image-upload-587m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
