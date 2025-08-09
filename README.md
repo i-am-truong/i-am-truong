@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Path Aliases in TypeScript &lpar;with Vite or Webpack bundlers&rpar;](https://dev.to/shane/path-aliases-in-typescript-with-vite-or-webpack-bundlers-3nmb)
-- [React Vibe Coding Tools 🥸🔧](https://dev.to/martygo/react-vibe-coding-tools-143g)
-- [Chatbot para ajudar a melhorar a conversão em inglês&lpar;gratuito&rpar;](https://dev.to/tiago123456789/chatbot-para-ajudar-a-melhorar-a-conversao-em-inglesgratuito-55dm)
-- [Day 10 0f #30DaysOfCode](https://dev.to/justacoder_0x/day-10-0f-30daysofcode-go9)
-- [Docker Persistence: When and How to Keep Your Container Data](https://dev.to/farben95/docker-persistence-when-and-how-to-keep-your-container-data-1b2l)
+- [How to Build a Fully Responsive Website with Bubble](https://dev.to/ebereplenty/how-to-build-a-fully-responsive-website-with-bubble-4ffj)
+- [Understanding useRef in React: What It Is and Why It’s Useful](https://dev.to/safal_bhandari/understanding-useref-in-react-what-it-is-and-why-its-useful-d3g)
+- [What Exactly Is Data?](https://dev.to/sanaipei001/what-exactly-is-data-1le)
+- [How to Use GDAL in Web Applications &lpar;Part 1&rpar;](https://dev.to/yangholmes/how-to-use-gdal-in-web-applications-part-1-44og)
+- [The Future of Keyword Research: Strategies for 2025 and Beyond](https://dev.to/mdkawsharul_islamroyal_/the-future-of-keyword-research-strategies-for-2025-and-beyond-24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
