@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting The Cloud Resume Challenge](https://dev.to/vishal_ghoshroy/starting-the-cloud-resume-challenge-31cl)
 - [🧠 Solving LeetCode Until I Become Top 1% — Day `54`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-54-42b6)
 - [DevOps Skills Alone Aren’t Enough - Here’s Why](https://dev.to/yoshik_karnawat/devops-skills-alone-arent-enough-heres-why-4kb5)
-- [Prompt Templates for Every Department in a Business &lpar;Copy-Paste Collection&rpar;](https://dev.to/jaideepparashar/prompt-templates-for-every-department-in-a-business-copy-paste-collection-21kb)
-- [🔍 I recently attended a DevOps interview – here are the questions they asked me:](https://dev.to/iragani_vamsisai_5a349cc/i-recently-attended-a-devops-interview-here-are-the-questions-they-asked-me-3k25)
-- [Cloning a website taught me more than tutorials did.](https://dev.to/dshree/cloning-a-website-taught-me-more-than-tutorials-did-3bgg)
+- [in java throw,what,why?](https://dev.to/rajeshwari_rajeshwari_0e5/in-java-throwwhatwhy-imd)
+- [Excited to share the launch of RisingWave v2.5! Highlights include advanced Apache Iceberg integration, fine-grained control over materialized view backfill, smart optimizations like unaligned joins, and even SQL-native AI embeddings via openai_embedding.](https://dev.to/__354f265b41dafa0d901b/excited-to-share-the-launch-of-risingwave-v25-highlights-include-advanced-apache-iceberg-56om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
