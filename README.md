@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Reduced ELB Access Log Analysis Time by 80% Using AWS Data Processing MCP Server](https://dev.to/aws-builders/how-i-reduced-elb-access-log-analysis-time-by-80-using-aws-data-processing-mcp-server-43co)
-- [Rick Beato: A Simple Twist Of Fate](https://dev.to/music_youtube/rick-beato-a-simple-twist-of-fate-42go)
-- [AWS SES with a NestJS Backend to Send Email Verifications](https://dev.to/aws-builders/aws-ses-with-a-nestjs-backend-to-send-email-verifications-2l9h)
-- [Building Cursor Powered App: A Devlog Series, Powered by Cursor &lpar;Part 4&rpar; – Authentication Logic](https://dev.to/hrnlrsyd/building-cursor-powered-app-a-devlog-series-powered-by-cursor-part-4-authentication-logic-39ag)
-- [Understanding SQL Commands in a Customer-Sales Database](https://dev.to/lagat_josiah_f024a2c855bc/understanding-sql-commands-in-a-customer-sales-database-iec)
+- [[Boost]](https://dev.to/osiris8/-4n63)
+- [A Complete Next.js Streaming Guide: loading.tsx, Suspense, and Performance](https://dev.to/boopykiki/a-complete-nextjs-streaming-guide-loadingtsx-suspense-and-performance-9g9)
+- [Why Base64 Encoding is More Useful Than You Think](https://dev.to/nattee_kotsomnuan/why-base64-encoding-is-more-useful-than-you-think-4h8j)
+- [Building PhAlS - A Phishing Alert System using Google AI Studio.](https://dev.to/binam_b62d98c8c922442c8a5/building-phals-a-phishing-alert-system-using-google-ai-studio-4pa6)
+- [🐱 Introducing Nyash: A Browser-Native Programming Language](https://dev.to/charmpic/introducing-nyash-a-browser-native-programming-language-13mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
