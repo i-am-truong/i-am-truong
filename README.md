@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SuperClaude_Framework快捷键命令的使用技巧](https://dev.to/dragon72463399/superclaudeframeworkkuai-jie-jian-ming-ling-de-shi-yong-ji-qiao-3n58)
-- [Rust Tools That Made Our Dev Team Productive Again](https://dev.to/programmerraja/rust-tools-that-made-our-dev-team-productive-again-479)
-- [Create fast integration tests](https://dev.to/alexferreiradev/create-fast-integration-tests-52pa)
-- [Scroll Trigger Portfolio Template](https://dev.to/patrick_dunn_d0fcc74272b4/scroll-trigger-portfolio-template-32kb)
-- [tftargets: Extracting Terraform Plan/Apply Target Root Modules from Git Branch Diffs](https://dev.to/r_takaishi/tftargets-extracting-terraform-planapply-target-root-modules-from-git-branch-diffs-100)
+- [231. Power of Two](https://dev.to/mdarifulhaque/231-power-of-two-5ef6)
+- [Spring Boot `application.properties` – Complete Guide to Configuring Databases, Messaging, and Security](https://dev.to/devcorner/spring-boot-applicationproperties-complete-guide-to-configuring-databases-messaging-and-j47)
+- [AI model for good governance](https://dev.to/hansik/ai-model-for-good-governance-508o)
+- [Token Bucket - Rate Limiter](https://dev.to/krishna-nayak/token-bucket-rate-limiter-3fb1)
+- [Top 10 AWS Security Mistakes Newbies Make &lpar;and How to Fix Them&rpar; 🔒😱](https://dev.to/yash_sonawane25/top-10-aws-security-mistakes-newbies-make-and-how-to-fix-them-l9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
