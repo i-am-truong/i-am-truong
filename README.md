@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Cursor Powered App: A Devlog Series, Powered by Cursor &lpar;Part 4&rpar; – Authentication Logic](https://dev.to/hrnlrsyd/building-cursor-powered-app-a-devlog-series-powered-by-cursor-part-4-authentication-logic-39ag)
+- [Understanding SQL Commands in a Customer-Sales Database](https://dev.to/lagat_josiah_f024a2c855bc/understanding-sql-commands-in-a-customer-sales-database-iec)
 - [How to create a deployment in Kubernetes](https://dev.to/said_olano/how-to-create-a-deployment-in-kubernetes-mn5)
 - [Fastest MVP with Amplify Kiro Amazon Q Developer —Practical playbook for startups and enterprise innovation teams—](https://dev.to/aws-builders/fastest-mvp-with-amplify-x-kiro-x-amazon-q-developer-practical-playbook-for-startups-and-aki)
 - [How to add secrets in Kubernetes deployments](https://dev.to/said_olano/how-to-add-secrets-in-kubernatesdeployments-gd2)
-- [2D Soft Body Collision via Bisector Rays Approach — QuarkPhysics](https://dev.to/erayzesen/2d-soft-body-collision-via-bisector-rays-approach-quarkphysics-1ka7)
-- [GPT 5](https://dev.to/srijan-xi/gpt-5-2ojc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
