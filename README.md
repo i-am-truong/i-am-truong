@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An Open Letter: The AI-Web Infrastructure Gap Nobody&#39;s Talking About.](https://dev.to/lee_manley_1f3040d70e4caf/an-open-letter-the-ai-web-infrastructure-gap-nobodys-talking-about-162f)
+- [Building NeuroStash - VI](https://dev.to/devunderdog/building-neurostash-vi-3eje)
+- [Next js](https://dev.to/kadeo/next-js-l2e)
+- [🔑 Figuring Out Authentication in Next.js &lpar;While Trying Not to Lose My Sanity 😅&rpar;](https://dev.to/rashidpbi/figuring-out-authentication-in-nextjs-while-trying-not-to-lose-my-sanity--29bo)
 - [Revolutionizing Git Workflows: The MCP Git Commit Generator](https://dev.to/theoklitosbam7/revolutionizing-git-workflows-the-mcp-git-commit-generator-530m)
-- [👨🏽‍🏫✨ How I Explained the JSON Replacer Function to My 8-Year-Old Student](https://dev.to/agunechemba/how-i-explained-the-json-replacer-function-to-my-8-year-old-student-4hla)
-- [Understanding useMemo in React: Why It’s Important &lpar;With Example&rpar;](https://dev.to/safal_bhandari/understanding-usememo-in-react-why-its-important-with-example-3be0)
-- [Understanding useCallback in React: Why It’s Important &lpar;With Example&rpar;](https://dev.to/safal_bhandari/understanding-usecallback-in-react-why-its-important-with-example-5ap0)
-- [Ever used any of Low-Code/No-Code Platforms, What’s Your Take?](https://dev.to/rayan_karki_2c3b4150ad1b9/ever-used-any-of-low-codeno-code-platforms-whats-your-take-3m2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
