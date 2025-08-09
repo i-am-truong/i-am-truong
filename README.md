@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Dev Log](https://dev.to/asx/my-first-dev-log-4cfg)
-- [Mastering Docker: A Beginner&#39;s Guide to Containerization](https://dev.to/oseni03/mastering-docker-a-beginners-guide-to-containerization-4go0)
-- [PHP Path](https://dev.to/indianmodassir/php-path-gm2)
-- [Tutorial Completo: De Cero a SpeedRun Ethereum](https://dev.to/ar3lisa/tutorial-completo-de-cero-a-speedrun-ethereum-56cg)
-- [Build and Deploy a Fullstack AI App with Flask, React and OpenAI GPT-OSS - Milo AI](https://dev.to/osiris8/build-and-deploy-a-fullstack-ai-app-with-flask-react-and-openai-gpt-oss-milo-ai-5bl)
+- [The Truth About AI&#39;s Impact on New Developers](https://dev.to/beyond-code/the-truth-about-ais-impact-on-new-developers-2b99)
+- [Solomon Protocol: Job/Recruiter Game Changer with Redis AI](https://dev.to/looneyrichie/solomon-protocol-jobrecruiter-game-changer-with-redis-ai-3eon)
+- [Brazil Hit by AI Phishing and Efimer Crypto Trojan](https://dev.to/neerajlovecyber/brazil-hit-by-ai-phishing-and-efimer-crypto-trojan-1oc2)
+- [Day 15 - Add a Coffee Plan Form](https://dev.to/railsstudent/day-15-add-a-coffee-plan-form-5aa2)
+- [Microsoft lança cursos Gratuitos sobre IA Generativa Para iniciantes e para desenvolvedores JavaScript](https://dev.to/sertaoseracloud/microsoft-lanca-cursos-gratuitos-sobre-ia-generativa-para-iniciantes-e-para-desenvolvedores-25ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
