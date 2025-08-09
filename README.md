@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Complex Workflows in n8n — and How to Avoid the Hidden Pitfalls](https://dev.to/onestardao/automating-complex-workflows-in-n8n-and-how-to-avoid-the-hidden-pitfalls-491d)
+- [Week 8: Jenkins CI/CD Mastery - From Docker Containers to Automated Pipelines 🚀](https://dev.to/dev_dave_26/week-8-jenkins-cicd-mastery-from-docker-containers-to-automated-pipelines-34j7)
 - [The Millennial&#39;s Bug: Healing through html](https://dev.to/davesommerville/the-millennials-bug-healing-through-html-2bod)
 - [Are we overcomplicating web development?](https://dev.to/gods_wyll/are-we-overcomplicating-web-development-1bi7)
 - [🗼Beginners guide to &quot;Leetcode 231: Power of Two&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-231-power-of-twoc-javascript-python-1c3g)
-- [Unitree unveils A2 quadruped robot with front and rear lidar for enhanced terrain navigation](https://dev.to/ytosko/unitree-unveils-a2-quadruped-robot-with-front-and-rear-lidar-for-enhanced-terrain-navigation-1iko)
-- [NEAR vs. Solana: The Developer Reality Check Nobody Gave Me](https://dev.to/hopi4fx/near-vs-solana-the-developer-reality-check-nobody-gave-me-316b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
