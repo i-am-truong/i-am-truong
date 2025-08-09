@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [I tested OpenAI GPT-5. The results were not what I expected!](https://dev.to/quintonwall/i-tested-openai-gpt-5-the-results-were-not-what-i-expected-426p)
 - [You Can Build Whatever You Want With AI These Days, But… It’s Not Fun Anymore](https://dev.to/pranta/you-can-build-whatever-you-want-with-ai-these-days-but-its-not-fun-anymore-1b2o)
+- [Real-Time AI Dungeon Master: Multiplayer Storytelling with Redis 8 &lpar;Streams, Pub/Sub, RedisJSON&rpar;](https://dev.to/ntanwir10/real-time-ai-dungeon-master-multiplayer-storytelling-with-redis-8-streams-pubsub-redisjson-j32)
 - [Article Automation for success test post](https://dev.to/gokulnathan66/article-automation-for-gokul-3532)
 - [Aura – Like robots.txt, but for AI actions](https://dev.to/osmandkitay/aura-like-robotstxt-but-for-ai-actions-2bm3)
-- [Mastering Prompting for AI Agents: Insights and Best Practices](https://dev.to/echo9k/mastering-prompting-for-ai-agents-insights-and-best-practices-3iod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
