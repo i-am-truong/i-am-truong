@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Грузим списки с Firestore REST API: как будто свой сервер](https://dev.to/dekabrsky/gruzim-spiski-s-firestore-rest-api-kak-budto-svoi-siervier-2nif)
-- [Google sign-in with Next.js](https://dev.to/justincalleja/google-sign-in-with-nextjs-4lnn)
-- [I put a real-time 3D Engine in my PHP app.](https://dev.to/umaarov/i-put-a-real-time-3d-engine-in-my-php-app-35jo)
-- [Stripe Professional Developer Certification Made Simple: A Practical Prep Guide](https://dev.to/rebeccakoniahgari/stripe-professional-developer-certification-made-simple-a-practical-prep-guide-2f4g)
-- [Semantic Caching Layer for High-Throughput](https://dev.to/souvik_misra_b527ec5acdd3/semantic-caching-layer-for-high-throughput-8j8)
+- [I tested OpenAI GPT-5. The results were not what I expected!](https://dev.to/quintonwall/i-tested-openai-gpt-5-the-results-were-not-what-i-expected-426p)
+- [You Can Build Whatever You Want With AI These Days, But… It’s Not Fun Anymore](https://dev.to/pranta/you-can-build-whatever-you-want-with-ai-these-days-but-its-not-fun-anymore-1b2o)
+- [Article Automation for success test post](https://dev.to/gokulnathan66/article-automation-for-gokul-3532)
+- [Aura – Like robots.txt, but for AI actions](https://dev.to/osmandkitay/aura-like-robotstxt-but-for-ai-actions-2bm3)
+- [Mastering Prompting for AI Agents: Insights and Best Practices](https://dev.to/echo9k/mastering-prompting-for-ai-agents-insights-and-best-practices-3iod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
