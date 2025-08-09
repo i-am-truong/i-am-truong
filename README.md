@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Monopolies to Innovation: The Promising Future of AI-Driven Startups](https://dev.to/jay_all_day/from-monopolies-to-innovation-the-promising-future-of-ai-driven-startups-daj)
-- [Ruby Data Class vs Struct](https://dev.to/kelpopko/ruby-data-class-vs-struct-44o8)
-- [Kiro – Comparison with Other Competitors for Better Understanding &lpar;Part 3&rpar;](https://dev.to/aws-builders/kiro-comparisson-with-other-similar-competitor-for-better-understaing-3dg5)
-- [I tested OpenAI GPT-5. The results were not what I expected!](https://dev.to/quintonwall/i-tested-openai-gpt-5-the-results-were-not-what-i-expected-426p)
-- [You Can Build Whatever You Want With AI These Days, But… It’s Not Fun Anymore](https://dev.to/pranta/you-can-build-whatever-you-want-with-ai-these-days-but-its-not-fun-anymore-1b2o)
+- [Linear Regression with Gradient Descent](https://dev.to/alvbarros/linear-regression-with-gradient-descent-39p1)
+- [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-522a)
+- [CDKTF: Empowering Developers with Infrastructure through CDKTF](https://dev.to/dilldall/cdktf-empowering-developers-with-infrastructure-through-cdktf-53j7)
+- [System Design: Horizontal vs Vertical Scaling](https://dev.to/zeyame/system-design-horizontal-vs-vertical-scaling-2col)
+- [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-3ang)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
