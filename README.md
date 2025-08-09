@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go Channels Explained Like You’re Five](https://dev.to/beryldev/go-channels-explained-like-youre-five-3nga)
-- [Continuity: Moving RubyGems to Org](https://dev.to/galtzo/continuity-moving-rubygems-to-org-390g)
-- [RestoApp: Why We Built an Open-Source Food Delivery Platform](https://dev.to/restoapp/restoapp-why-we-built-an-open-source-food-delivery-platform-2nb8)
-- [Rock-Paper-Scissors with Neural-Networks!](https://dev.to/kiamehr_eskandari/rock-paper-scissors-with-neural-networks-2p78)
-- [How to Use PHP&#39;s Never Return Type](https://dev.to/arasosman/how-to-use-phps-never-return-type-56e6)
+- [I&#39;m building a new approach to frontend web development. It&#39;s meant to be a React killer, as well as a killer of other frameworks.](https://dev.to/isumix/im-building-a-new-approach-to-frontend-web-development-its-meant-to-be-a-react-killer-as-well-152k)
+- [Oracle: The Bridge Between the Real World and the Blockchain](https://dev.to/loading_blocks/oracle-the-bridge-between-the-real-world-and-the-blockchain-4kea)
+- [📄 How to Write a PRD &lpar;Product Requirement Document&rpar; — and Why It’s Your Project’s Best Friend](https://dev.to/dhirajarya01/how-to-write-a-prd-product-requirement-document-and-why-its-your-projects-best-friend-3fl2)
+- [Celebrating 1 Year of QAlogy: From Idea to Reality](https://dev.to/qalogy/celebrating-1-year-of-qalogy-from-idea-to-reality-2kp3)
+- [🚀 Understanding the Docker Lifecycle with a Simple App](https://dev.to/latchudevops/understanding-the-docker-lifecycle-with-a-simple-app-3a5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
