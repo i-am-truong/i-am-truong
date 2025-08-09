@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 From Developer to AI Authority: How to Position Yourself as an Expert in AI-Driven Development](https://dev.to/okoye_ndidiamaka_5e3b7d30/from-developer-to-ai-authority-how-to-position-yourself-as-an-expert-in-ai-driven-development-13hi)
+- [Redis 8 beyond caching to uniquely powerful traffic management system.](https://dev.to/dirsebastian/redis-8-beyond-caching-to-uniquely-powerful-traffic-management-system-2c1h)
 - [&quot;Level Up Your JavaScript: Array Methods &lpar;Part 2&rpar;&quot;](https://dev.to/crosston_jack/level-up-your-javascript-array-methods-part-2-3lap)
-- [Everything you need to understand about TCP/IP - summary](https://dev.to/walcalonee/everything-you-need-to-understand-about-tcpip-summary-2nk3)
+- [📘 Everything you need to understand about TCP/IP - summary](https://dev.to/walcalonee/everything-you-need-to-understand-about-tcpip-summary-2nk3)
 - [การติดตั้ง Docker บน Windows แบบ Step by Step](https://dev.to/iconnext/kaartidtang-docker-bn-windows-aebb-step-by-step-112o)
-- [LVM &lpar;Logical Volume Management&rpar;](https://dev.to/godofgeeks/lvm-logical-volume-management-1b7l)
-- [Coding Challenge: Time Tracker](https://dev.to/kaoria/coding-challenge-time-tracker-2ima)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
