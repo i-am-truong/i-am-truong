@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CLIP-Powered Multi-Modal Search with Redis Vector Index and Graph](https://dev.to/leoantony72/clip-powered-multi-modal-search-with-redis-vector-index-and-graph-4ple)
+- [Part 3: Why You Should Care About Data!!](https://dev.to/sanaipei001/part-3-why-you-should-care-about-data-5c6j)
+- [Part 2:The Different Types of Data](https://dev.to/sanaipei001/the-different-types-of-data-15l6)
 - [How to Build a Fully Responsive Website with Bubble](https://dev.to/ebereplenty/how-to-build-a-fully-responsive-website-with-bubble-4ffj)
 - [Understanding useRef in React: What It Is and Why It’s Useful](https://dev.to/safal_bhandari/understanding-useref-in-react-what-it-is-and-why-its-useful-d3g)
-- [What Exactly Is Data?](https://dev.to/sanaipei001/what-exactly-is-data-1le)
-- [How to Use GDAL in Web Applications &lpar;Part 1&rpar;](https://dev.to/yangholmes/how-to-use-gdal-in-web-applications-part-1-44og)
-- [The Future of Keyword Research: Strategies for 2025 and Beyond](https://dev.to/mdkawsharul_islamroyal_/the-future-of-keyword-research-strategies-for-2025-and-beyond-24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
