@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 6:Collecting Data Without Overcomplication](https://dev.to/sanaipei001/part-6collecting-data-without-overcomplication-2g67)
-- [Part 5:Beginner-Friendly Data Tools](https://dev.to/sanaipei001/part-5beginner-friendly-data-tools-2idb)
-- [My first day in Payilagam](https://dev.to/abishek_44a09d1e1af19b4ca/my-first-day-in-payilagam-36am)
-- [Part 4:The Data Workflow-From Raw to Ready](https://dev.to/sanaipei001/part-4-the-data-workflow-from-raw-to-ready-bbm)
-- [ssh-connect — tiny CLI to manage SSH profiles with encrypted passwords](https://dev.to/borys_pidperyhora_4a26303/ssh-connect-tiny-cli-to-manage-ssh-profiles-with-encrypted-passwords-1j20)
+- [AidBridge: Real-Time Disaster Assistance System &lpar;Redis Challenge Submission&rpar;](https://dev.to/tenzin_lama_da57fe1fc4ad7/aidbridge-real-time-disaster-assistance-system-redis-challenge-submission-52lo)
+- [Mastering LINQ Performance: Advanced Techniques for Senior Engineers](https://dev.to/shiv_darshanrathore_402a/mastering-linq-performance-advanced-techniques-for-senior-engineers-i98)
+- [Why Service Account Impersonation is Essential for Secure and Efficient Cloud Development](https://dev.to/hikikomorineko/why-service-account-impersonation-is-essential-for-secure-and-efficient-cloud-development-jea)
+- [The Game Theorists: Game Theory: Can ANYONE Save Amanda the Adventurer?](https://dev.to/gg_news/the-game-theorists-game-theory-can-anyone-save-amanda-the-adventurer-39mi)
+- [Higher order functions in React &lpar;deep dive&rpar;](https://dev.to/matthew_ricci_0680a2a22c6/higher-order-functions-in-react-deep-dive-17p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
