@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NEAR vs. Polkadot: The Parachain Paradox](https://dev.to/kerofitton/near-vs-polkadot-the-parachain-paradox-2pd9)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;9145&rpar;](https://dev.to/socket-use/resource-management-and-memory-efficiency-in-web-servers9145-26j4)
-- [Create a Date &amp; Time Picker in React Native](https://dev.to/djamware_tutorial_eba1a61/create-a-date-time-picker-in-react-native-j55)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;6195&rpar;](https://dev.to/socket-use/error-handling-strategies-in-high-performance-web-servers6195-30ih)
-- [Tech You Database🤞](https://dev.to/farhad_rahimi_klie/tech-you-database-37e6)
+- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-2n8d)
+- [Does the edge need a new database?](https://dev.to/surrealdb/does-the-edge-need-a-new-database-2aic)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;9471&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance9471-j4o)
+- [Programming Fundamentals: What Every Beginner Must Know Before Coding](https://dev.to/arokoola_mayowa_4b95d61ed/programming-fundamentals-what-every-beginner-must-know-before-coding-m4n)
+- [FastMap: Real-Time IoT Anomaly Detection with Redis&#39;s Multi-Model Database](https://dev.to/jonamarkin/fastmap-real-time-iot-anomaly-detection-with-rediss-multi-model-database-3bg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
