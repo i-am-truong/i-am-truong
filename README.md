@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Backend Development in Next.js 15: A Beginner&#39;s Guide to REST APIs](https://dev.to/fonyuygita/getting-started-with-backend-development-in-nextjs-15-a-beginners-guide-to-rest-apis-4hk2)
-- [Redis Pixel War](https://dev.to/alfredosalzillo/redis-pixel-war-3i7a)
-- [Efficient WebSocket Server-Side Processing&lpar;0749&rpar;](https://dev.to/socket-use/efficient-websocket-server-side-processing0749-2f07)
-- [Revolutionizing Crypto Wallet Management: The Python HD Wallet Library](https://dev.to/githubopensource/revolutionizing-crypto-wallet-management-the-python-hd-wallet-library-30pb)
-- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-1-4ah4)
+- [Na Era da IA, o Maior Erro de um Programador é Não Aprender a Programar](https://dev.to/fumagallilaura/na-era-da-ia-o-maior-erro-de-um-programador-e-nao-aprender-a-programar-5b8l)
+- [Build a Social Media Automation Tool Using SMM Panel API](https://dev.to/techdude/build-a-social-media-automation-tool-using-smm-panel-api-2m8c)
+- [Skills Over Papers: Embracing Practical Knowledge and AI in Modern Software Development](https://dev.to/master_ngunezi_c689b59032/skills-over-papers-embracing-practical-knowledge-and-ai-in-modern-software-development-1ekg)
+- [Middleware Architecture Patterns for Request Processing&lpar;1333&rpar;](https://dev.to/socket-use/middleware-architecture-patterns-for-request-processing1333-26b4)
+- [Laravel Spy: Easily Log Your Application HTTP requests](https://dev.to/rezakhademix/laravel-spy-easily-log-your-application-http-requests-2chc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
