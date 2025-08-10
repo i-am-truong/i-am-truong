@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Dice in TailwindCSS and ReactJs](https://dev.to/dakshim/creating-a-dice-in-tailwindcss-and-reactjs-2fgg)
-- [What’s New in GPT-5: Features, Updates &amp; Why It’s a Game-Changer](https://dev.to/codewithsimon/whats-new-in-gpt-5-features-updates-why-its-a-game-changer-2m50)
-- [HTML Structure: Elements, Tags, and Attributes](https://dev.to/sharique_siddiqui_8242dad/html-structure-elements-tags-and-attributes-a13)
-- [As a New Hire, I&#39;m Leading the Company Platform&#39;s Facial Authentication System Development](https://dev.to/wintrover/as-a-new-hire-im-leading-the-company-platforms-facial-authentication-system-development-1nfo)
-- [The 10-Second Morning Habit That Helps Me Code With More Focus](https://dev.to/jackrosso85/the-10-second-morning-habit-that-helps-me-code-with-more-focus-3f8f)
+- [The Future of Personal Branding in an AI-Dominated Industry: How to Stay Irreplaceable](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-personal-branding-in-an-ai-dominated-industry-how-to-stay-irreplaceable-2fgj)
+- [RefPerSys inference engine project](https://dev.to/bstarynk/refpersys-inference-engine-project-4gan)
+- [🚀 My Enterprise React Boilerplate – Built from Lessons Learned in Real Projects](https://dev.to/hoang21099/my-enterprise-react-boilerplate-built-from-lessons-learned-in-real-projects-34p)
+- [CamSecure V2 – Advanced Web-Based Surveillance for Modern Security Needs](https://dev.to/mayankchawdhari/camsecure-v2-advanced-web-based-surveillance-for-modern-security-needs-o70)
+- [Serverless and Microservices Architecture](https://dev.to/shivam_malik_9dc6cb90e9e2/serverless-and-microservices-architecture-9fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
