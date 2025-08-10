@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 10-Second Morning Habit That Helps Me Code With More Focus](https://dev.to/jackrosso85/the-10-second-morning-habit-that-helps-me-code-with-more-focus-3f8f)
 - [HTML Editors: Choosing and Using Them](https://dev.to/sharique_siddiqui_8242dad/html-editors-choosing-and-using-them-51fh)
 - [Day 42: Creating a Responsive Layout - lesson for the 180 Frontend Challenge](https://dev.to/code_2/day-42-creating-a-responsive-layout-lesson-for-the-180-frontend-challenge-3jnj)
 - [Secure, Login-Free File Transfers with File_Storage](https://dev.to/naman_2004/secure-login-free-file-transfers-with-filestorage-1j99)
 - [AWS VPC to ECS – Day 2: Internet Gateway, Public Route Table &amp; ECR Repository](https://dev.to/aws-builders/aws-vpc-to-ecs-day-2-internet-gateway-public-route-table-ecr-repository-3i7i)
-- [Vibe coded &amp; launched the world&#39;s first AI Product Manager: https://www.producthunt.com/products/aclarity/launches](https://dev.to/alan_hassan_aa5397502e32b/vibe-coded-launched-the-worlds-first-ai-product-manager-7l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
