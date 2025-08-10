@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;9120&rpar;](https://dev.to/socket-use/bidirectional-communication-patterns-in-modern-web-apps9120-h8g)
-- [Beauty Content Pipeline – Automated Social Media Content Collector](https://dev.to/wandering_animation_84a57/beauty-content-pipeline-automated-social-media-content-collector-1na7)
-- [🏭 Part 3: Professional - Enterprise Patterns &amp; Production Deployment](https://dev.to/abdelrahman_adnan/part-3-professional-enterprise-patterns-production-deployment-23bi)
-- [🔧 Part 2: Advanced - OpenAI Function Calling &amp; Iterative Search](https://dev.to/abdelrahman_adnan/part-2-advanced-openai-function-calling-iterative-search-dm6)
-- [🏗️ Part 1: Foundation - Basic RAG and Agentic Concepts](https://dev.to/abdelrahman_adnan/part-1-foundation-basic-rag-and-agentic-concepts-1gik)
+- [Creating a Plants Vs Zombies with Redis](https://dev.to/robot254/creating-a-plants-vs-zombies-with-redis-2803)
+- [[Boost]](https://dev.to/cpazro/-3ai1)
+- [Rust Implementation for High Concurrency Processing&lpar;8466&rpar;](https://dev.to/socket-use/rust-implementation-for-high-concurrency-processing8466-3al0)
+- [Cron but with AI insights, telemetry data in one command directly from your codebase...](https://dev.to/desmondsanctity/cron-but-with-ai-insights-telemetry-data-in-one-command-directly-from-your-codebase-4dbl)
+- [Diseño e Implementación de Arquitectura CTF LLaitun: de la Primera Experiencia al Liderazgo Técnico](https://dev.to/fernandosilvot/diseno-e-implementacion-de-arquitectura-ctf-llaitun-de-la-primera-experiencia-al-liderazgo-tecnico-2bbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
