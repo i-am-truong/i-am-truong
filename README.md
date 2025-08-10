@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;9088&rpar;](https://dev.to/socket-use/dynamic-routing-systems-for-scalable-web-applications9088-3j5j)
-- [Automatic Backup and Synchronization of All Repositories from a Git Account or Organization](https://dev.to/ivajofranc/automatic-backup-and-synchronization-of-all-repositories-from-a-git-account-or-organization-2ehi)
-- [Copia de seguridad y sincronización automática de todos los repositorios de una cuenta u organización Git](https://dev.to/ivajofranc/copia-de-seguridad-y-sincronizacion-automatica-de-todos-los-repositorios-de-una-cuenta-u-cj)
-- [Stumbling Into Lesser-Known PC Software &lpar;And Why I Keep Looking Beyond Page One&rpar;](https://dev.to/mazterize/stumbling-into-lesser-known-pc-software-and-why-i-keep-looking-beyond-page-one-8n1)
-- [From Dots and Dashes to Modern Web: Building a Morse Code Translator That Developers Actually Want to Use](https://dev.to/junhao_li_9ee6f0c5f90fb8e/from-dots-and-dashes-to-modern-web-building-a-morse-code-translator-that-developers-actually-want-42g6)
+- [Cutting AWS Auto Scaling Costs by 70% While Maintaining 99.99% Availability](https://dev.to/garrett_yan_d4f2213af3329/cutting-aws-auto-scaling-costs-by-70-while-maintaining-9999-availability-53ae)
+- [Cutting AWS Auto Scaling Costs by 70% While Maintaining 99.99% Availability](https://dev.to/garrett_yan_d4f2213af3329/cutting-aws-auto-scaling-costs-by-70-while-maintaining-9999-availability-23f6)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;2129&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization2129-3c5h)
+- [Problem Solving Misunderstood](https://dev.to/oliver_butler_a52c1be144d/problem-solving-misunderstood-5hm4)
+- [A Complete Guide to Smarter Website Analytics](https://dev.to/buildandcodewithraman/a-complete-guide-to-smarter-website-analytics-51oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
