@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Proxy Playbook: Building Fast, Secure Middle Layers in Go](https://dev.to/lovestaco/the-proxy-playbook-building-fast-secure-middle-layers-in-go-1jc5)
-- [Is GPT-5 Better than Claude 4.1, Grok 4, and Gemini 2.5 Pro in 2025?](https://dev.to/jovin_george_733dcfc16291/is-gpt-5-better-than-claude-41-grok-4-and-gemini-25-pro-in-2025-2gd1)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;0117&rpar;](https://dev.to/socket-use/production-deployment-strategies-for-high-performance-web-services0117-hf7)
-- [Confessions of a DevOps Noob Who Tried to pick a K8S Service CIDR from an Azure Subnet 🤦‍♂️](https://dev.to/victorthegreat7/confessions-of-a-devops-noob-who-tried-to-pick-a-k8s-service-cidr-from-an-azure-subnet-43i0)
-- [The Ultimate 2025 Coding Interview Handbook &lpar;with Resources&rpar;](https://dev.to/somadevtoo/the-ultimate-2025-coding-interview-handbook-with-resources-cp7)
+- [Cross-Platform Web Development Without Compromise&lpar;3383&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise3383-4c31)
+- [Joaquin Fagundo on the Hidden ROI of Digital Transformation Most Leaders Overlook](https://dev.to/joaquin_fagundo_9ab7cbc61/joaquin-fagundo-on-the-hidden-roi-of-digital-transformation-most-leaders-overlook-5gj)
+- [I asked two AIs to talk to each other. They decided to co-write a short story about AI.](https://dev.to/debadeepsen/i-asked-two-ais-to-talk-to-each-other-they-decided-to-co-write-a-short-story-about-ai-4ppn)
+- [Get from Zero to Hero in Foundry - Part 2: Deploy &amp; Interact](https://dev.to/abhiramelf/get-from-zero-to-hero-in-foundry-part-2-deploy-interact-2ea4)
+- [No ArcGIS, No QGIS—Just Python and a Problem Worth Solving](https://dev.to/rahmah_abubakar_d1754f0b3/no-arcgis-no-qgis-just-python-and-a-problem-worth-solving-30n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
