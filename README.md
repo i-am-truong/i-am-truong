@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [o4-mini vs. o4-mini-high: when to choose each &lpar;and why it matters&rpar;](https://dev.to/hernandezmario2314/o4-mini-vs-o4-mini-high-when-to-choose-each-and-why-it-matters-32hh)
+- [Remote Access: A Complete Beginner-to-Advanced Guide](https://dev.to/zedai00/remote-access-a-complete-beginner-to-advanced-guide-18ca)
+- [Self-hosting a Mastodon Instance on a Hetzner Server](https://dev.to/andi1984/self-hosting-a-mastodon-instance-on-a-hetzner-server-1fhl)
 - [Mastering Data Engineering: 15 Essential Concepts for Building Reliable and Scalable Data Systems](https://dev.to/fredmunjogu/mastering-data-engineering-15-essential-concepts-for-building-reliable-and-scalable-data-systems-24bd)
+- [10 Productive Tips Every Developer Should Follow](https://dev.to/muhammadrameez/10-productive-tips-every-developer-should-follow-3ofo)
 - [15 Data Engineering Core Concepts Simplified](https://dev.to/walnold/15-data-engineering-core-concepts-simplified-5fo3)
-- [Cross-Platform Web Development Without Compromise&lpar;1462&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise1462-3oi0)
-- [My Experience &lpar;and Struggles&rpar; with the Beelink ME Mini as a NAS](https://dev.to/sivachaitanya_sala_cb5aa/my-experience-and-struggles-with-the-beelink-me-mini-as-a-nas-26g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
