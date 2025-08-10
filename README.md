@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Social Engineering Attacks: Human Factor Security Analysis](https://dev.to/rafalw3bcraft/social-engineering-attacks-human-factor-security-analysis-4jmk)
-- [Ransomware Attack Vectors: Analysis and Recovery Strategies](https://dev.to/rafalw3bcraft/ransomware-attack-vectors-analysis-and-recovery-strategies-48b9)
-- [Zero-Day Exploits: Vulnerability Research and Defense Strategies](https://dev.to/rafalw3bcraft/zero-day-exploits-vulnerability-research-and-defense-strategies-15kh)
-- [Advanced Persistent Threats &lpar;APT&rpar;: Threat Hunting Methodologies](https://dev.to/rafalw3bcraft/advanced-persistent-threats-apt-threat-hunting-methodologies-1fg8)
-- [Day 61: When 5:30 AM Becomes Your New Reality](https://dev.to/casperday11/day-61-when-530-am-becomes-your-new-reality-542d)
+- [Revolutionizing DevOps with Ansible: The Future of Automated Infrastructure](https://dev.to/vjnvisakh/revolutionizing-devops-with-ansible-the-future-of-automated-infrastructure-de2)
+- [The Certificate Trap That&#39;s Killing Developer Careers in India 💀](https://dev.to/shiva_shanker_k/the-certificate-trap-thats-killing-developer-careers-in-india-ghd)
+- [High-Performance Routing System Design and Implementation&lpar;9173&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation9173-3h7j)
+- [Blockchain and Cryptocurrency Security: DeFi Protocol Analysis](https://dev.to/rafalw3bcraft/blockchain-and-cryptocurrency-security-defi-protocol-analysis-50f9)
+- [Supply Chain Security: Third-Party Risk Assessment Framework](https://dev.to/rafalw3bcraft/supply-chain-security-third-party-risk-assessment-framework-3jkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
