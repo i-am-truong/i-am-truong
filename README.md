@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Towards more accountability of Raku programs](https://dev.to/lizmat/towards-more-accountability-of-raku-programs-3g2)
 - [Lexis Link](https://dev.to/nadinev/lexis-link-185l)
+- [Amazon S3 – Pre-Signed URLs: My Experience Making File Sharing Easier](https://dev.to/aws-builders/amazon-s3-pre-signed-urls-my-experience-making-file-sharing-easier-3i4p)
 - [Designing for Sustainability: The Rise of Green Software](https://dev.to/arjun_mullick_e734b4da656/designing-for-sustainability-the-rise-of-green-software-41op)
 - [Amazon and Audible Advertising Evolution: A Comprehensive Analysis &lpar;2016-2024&rpar;](https://dev.to/arjun_mullick_e734b4da656/amazon-and-audible-advertising-evolution-a-comprehensive-analysis-2016-2024-5f30)
-- [Building a DOM in JavaScript: Ownership, X-Refs, and Copy Semantics](https://dev.to/karol11/building-a-dom-in-javascript-ownership-x-refs-and-copy-semantics-ojb)
-- [Best Advice For A New Mac](https://dev.to/mileswk/best-advice-for-a-new-mac-4cnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
