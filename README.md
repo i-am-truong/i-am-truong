@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NEAR vs. Polkadot: The Parachain Paradox](https://dev.to/kerofitton/near-vs-polkadot-the-parachain-paradox-2pd9)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;9145&rpar;](https://dev.to/socket-use/resource-management-and-memory-efficiency-in-web-servers9145-26j4)
+- [Create a Date &amp; Time Picker in React Native](https://dev.to/djamware_tutorial_eba1a61/create-a-date-time-picker-in-react-native-j55)
 - [Error Handling Strategies in High-Performance Web Servers&lpar;6195&rpar;](https://dev.to/socket-use/error-handling-strategies-in-high-performance-web-servers6195-30ih)
-- [Deeply Integrating Google Tag Manager: A Complete Guide to Smarter Website Analytics 🚀](https://dev.to/buildandcodewithraman/deeply-integrating-google-tag-manager-a-complete-guide-to-smarter-website-analytics-52b4)
-- [Rust Async Web Framework Performance Breakthrough&lpar;3858&rpar;](https://dev.to/socket-use/rust-async-web-framework-performance-breakthrough3858-3m9f)
-- [GSoC Week 10 – The Week of… Well, Distractions](https://dev.to/jatsuakayashvant/gsoc-week-10-the-week-of-well-distractions-1pg7)
-- [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
+- [Tech You Database🤞](https://dev.to/farhad_rahimi_klie/tech-you-database-37e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
