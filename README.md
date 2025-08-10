@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitPod For Developer Workspace](https://dev.to/giridharan_devops/gitpod-for-developer-workspace-5do1)
-- [# The Hidden Failure Modes in **n8n / Make / Zapier** &lpar;with AI &amp; RAG&rpar; — A Field Guide + MIT Problem Map](https://dev.to/onestardao/-the-hidden-failure-modes-in-n8n-make-zapier-with-ai-rag-a-field-guide-mit-problem-42kj)
-- [I got tired of Grafana on my phone, so I built a new mobile-friendly dashboard for Teslamate](https://dev.to/yekk/i-got-tired-of-grafana-on-my-phone-so-i-built-a-new-mobile-friendly-dashboard-for-teslamate-kjk)
-- [I need feedback for my new project; FLEXQL](https://dev.to/heja/i-need-feedback-for-my-new-project-flexql-gd8)
-- [Python Type Annotations&lpar;part 1&rpar;](https://dev.to/cardamomcode/python-type-annotationspart-1-18b5)
+- [🧠Kubestronaut Cloud Native Golden Way 😎](https://dev.to/giridharan_devops/kubestronaut-cloud-native-golden-way-2ae9)
+- [📢 Calling All Developers — We Need Your Insights](https://dev.to/adithya-balan/calling-all-developers-we-need-your-insights-1dje)
+- [Challenge the world](https://dev.to/yunusrabiu411/challenge-the-world-k7k)
+- [Part 12:Your First Data Project &lpar;A Step-by-Step Guide&rpar;](https://dev.to/sanaipei001/part-12your-first-data-project-a-step-by-step-guide-3knj)
+- [🚶Mentorship For Any Specific Domain #The Progressive Pathway🏃🏼](https://dev.to/giridharan_devops/mentorship-for-any-specific-domain-the-progressive-pathway-2bip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
