@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Excel&#39;s strengths and weaknesses in predictive analysis and the role 0fin making data-driven business decisions:](https://dev.to/anaya_manwa_cdff7d1921385/excels-strengths-and-weaknesses-in-predictive-analysis-and-the-role-0fin-making-data-driven-1630)
+- [Elegant Middleware Architecture Implementation&lpar;0619&rpar;](https://dev.to/socket-use/elegant-middleware-architecture-implementation0619-35oi)
 - [WebSocket Revolution in Real-Time Communication&lpar;9730&rpar;](https://dev.to/socket-use/websocket-revolution-in-real-time-communication9730-45n8)
 - [Your First Step into the World of Code with Dart](https://dev.to/mohammed_abdelmoniemkame/your-first-step-into-the-world-of-code-with-dart-463b)
 - [AI Agents + Judge + Cron Job + Self-Learning Loop = The Pathway to AGI ?](https://dev.to/adil_maqsood_2ac3c8ead50c/ai-agents-judge-cron-job-self-learning-loop-the-pathway-to-agi--3doc)
-- [Beyond the Numbers: How to Succeed as an Analyst, Grow in Your Career, and Avoid Burnout. Part 2](https://dev.to/sergome/beyond-the-numbers-how-to-succeed-as-an-analyst-grow-in-your-career-and-avoid-burnout-part-2-34af)
-- [How to Build AI-Powered .NET Apps with ML.NET and C#: A Step-by-Step Guide](https://dev.to/sana_rana_024d71d6c02c291/how-to-build-ai-powered-net-apps-with-mlnet-and-c-a-step-by-step-guide-3cdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
