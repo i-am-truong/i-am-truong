@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: The Time Adam Savage &quot;Got Into It&quot; With an ILM Supervisor](https://dev.to/maker_youtube/adam-savages-tested-the-time-adam-savage-got-into-it-with-an-ilm-supervisor-dkg)
-- [productivity app](https://dev.to/akshay_mohan_3be14a36564c/productivity-app-48p8)
-- [Everyone is planning to build an AI based business, but rarely do people tell us what we need to build an AI business. Here are my top 5 learnings when I was building the ReThynk AI company from scratch.](https://dev.to/jaideepparashar/everyone-is-planning-to-build-an-ai-based-business-but-rarely-do-people-tell-us-what-we-need-to-4pid)
-- [Part 9:Visualizing Data That Speaks](https://dev.to/sanaipei001/part-9visualizing-data-that-speaks-436d)
-- [Git for grad students &lpar;part 2&rpar;](https://dev.to/tuannq/git-for-grad-students-part-2-5f4p)
+- [INSTALL QEMU KVM On Linux &lpar;i.e. Debian/Ubuntu Like Distro&rpar;](https://dev.to/harry_tanama_51571ebf90b6/install-qemu-kvm-on-linux-ie-debianubuntu-like-distro-2816)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4dj0)
+- [BEST BLOGPOST ABOUT INTIALIZATION AND NORAMLIZATION I COULD FIND!!](https://dev.to/brokttv/best-blogpost-about-intialization-and-noramlization-i-could-find-2e27)
+- [iOS 26 Liquid Glass in React Native](https://dev.to/candiesocean/ios-26-liquid-glass-in-react-native-28k1)
+- [https://youtu.be/hL2iLFu1gcI?si=obfgors9eDt2dkwB iOS 26 Liquid Glass in React Native](https://dev.to/candiesocean/httpsyoutubehl2ilfu1gcisiobfgors9edt2dkwbios-26-liquid-glass-in-react-native-5d8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
