@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Git Commands You Probably Don’t Know &lpar;But Should&rpar;](https://dev.to/devshefali/7-git-commands-you-probably-dont-know-but-should-3bnl)
-- [MY FAST PROGRAMMING , html,css,nextjs . and before python](https://dev.to/vivek_kumar_7590376/my-fast-programming-htmlcssnextjs-and-before-python-3lpk)
-- [INSTALL QEMU KVM On Linux &lpar;i.e. Debian/Ubuntu Like Distro&rpar;](https://dev.to/harry_tanama_51571ebf90b6/install-qemu-kvm-on-linux-ie-debianubuntu-like-distro-2816)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4dj0)
-- [BEST BLOGPOST ABOUT INTIALIZATION AND NORAMLIZATION I COULD FIND!!](https://dev.to/brokttv/best-blogpost-about-intialization-and-noramlization-i-could-find-2e27)
+- [From Station to Server: Learning APIs Through a Train Ride](https://dev.to/debasis_panda_31e768f5e44/from-station-to-server-learning-apis-through-a-train-ride-5pp)
+- [Present State of MERN Developers from X.com Perspectives](https://dev.to/adarsh_mishra/present-state-of-mern-developers-from-xcom-perspectives-1035)
+- [Create a Minimalist &amp; Responsive Landing Page with CSS — Quick and Easy Tutorial](https://dev.to/nganggurdev/create-a-minimalist-responsive-landing-page-with-css-quick-and-easy-tutorial-36lk)
+- [Fixing WebSocket Connection Issues with Nginx Reverse Proxy](https://dev.to/pragnesh_patel/fixing-websocket-connection-issues-with-nginx-reverse-proxy-1i6o)
+- [Lazy Loading in React: Boosting Performance by Loading Code on Demand](https://dev.to/safal_bhandari/lazy-loading-in-react-boosting-performance-by-loading-code-on-demand-2mid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
