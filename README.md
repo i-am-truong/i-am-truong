@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [High-Performance Routing System Design and Implementation&lpar;6195&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation6195-4g8k)
+- [InsightStream: AI-Powered Real-Time Content Intelligence Platform](https://dev.to/malvinjay/insightstream-ai-powered-real-time-content-intelligence-platform-493a)
 - [Middleware Architecture Patterns for Request Processing&lpar;6752&rpar;](https://dev.to/socket-use/middleware-architecture-patterns-for-request-processing6752-5bj3)
 - [SAS Token - Secure way](https://dev.to/uttamchaturvedi9/sas-token-secure-way-1kic)
 - [How I Built a Web Photo Booth with JavaScript, Canvas, and Filters](https://dev.to/bhavya_shukla_6e5b3b7741f/how-i-built-a-web-photo-booth-with-javascript-canvas-and-filters-387a)
-- [Understanding Go&#39;s CSP Model: Goroutines and Channels](https://dev.to/leapcell/understanding-gos-csp-model-goroutines-and-channels-4i87)
-- [What concepts should I master to be a Data Engineer?](https://dev.to/kihoro_codes_c959f8c68a9c/what-concepts-should-i-master-to-be-a-data-engineer-1chp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
