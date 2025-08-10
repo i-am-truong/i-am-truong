@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Na Era da IA, o Maior Erro de um Programador é Não Aprender a Programar](https://dev.to/fumagallilaura/na-era-da-ia-o-maior-erro-de-um-programador-e-nao-aprender-a-programar-5b8l)
-- [Build a Social Media Automation Tool Using SMM Panel API](https://dev.to/techdude/build-a-social-media-automation-tool-using-smm-panel-api-2m8c)
-- [Skills Over Papers: Embracing Practical Knowledge and AI in Modern Software Development](https://dev.to/master_ngunezi_c689b59032/skills-over-papers-embracing-practical-knowledge-and-ai-in-modern-software-development-1ekg)
-- [Middleware Architecture Patterns for Request Processing&lpar;1333&rpar;](https://dev.to/socket-use/middleware-architecture-patterns-for-request-processing1333-26b4)
-- [Laravel Spy: Easily Log Your Application HTTP requests](https://dev.to/rezakhademix/laravel-spy-easily-log-your-application-http-requests-2chc)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;7559&rpar;](https://dev.to/socket-use/latency-optimization-secrets-for-millisecond-response-times7559-3ccn)
+- [Laravel Security Guide: How to Fix These 6 Common Mistakes](https://dev.to/burtds/laravel-security-guide-how-to-fix-these-6-common-mistakes-bpp)
+- [Anonymous Structures in C](https://dev.to/pauljlucas/anonymous-structures-in-c-2ebk)
+- [Typing Challenge - realtime typing leaderboard, analytics, and active typers powered by Redis](https://dev.to/masud_ali_cc66779de0c2b2/typing-challenge-realtime-typing-leaderboard-analytics-and-active-typers-powered-by-redis-4ieb)
+- [AI Content Moderation System | Redis AI Challenge Submission](https://dev.to/gangatharan_gurusamy_22fb/ai-content-moderation-system-redis-ai-challenge-submission-2f93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
