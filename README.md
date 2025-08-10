@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing DevOps with Ansible: The Future of Automated Infrastructure](https://dev.to/vjnvisakh/revolutionizing-devops-with-ansible-the-future-of-automated-infrastructure-de2)
-- [The Certificate Trap That&#39;s Killing Developer Careers in India 💀](https://dev.to/shiva_shanker_k/the-certificate-trap-thats-killing-developer-careers-in-india-ghd)
-- [High-Performance Routing System Design and Implementation&lpar;9173&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation9173-3h7j)
-- [Blockchain and Cryptocurrency Security: DeFi Protocol Analysis](https://dev.to/rafalw3bcraft/blockchain-and-cryptocurrency-security-defi-protocol-analysis-50f9)
-- [Supply Chain Security: Third-Party Risk Assessment Framework](https://dev.to/rafalw3bcraft/supply-chain-security-third-party-risk-assessment-framework-3jkm)
+- [Tired of Juggling WSL Terminals? I Built a Simple GUI Manager with Python.](https://dev.to/ishikori/tired-of-juggling-wsl-terminals-i-built-a-simple-gui-manager-with-python-22gp)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;2439&rpar;](https://dev.to/socket-use/revolutionary-performance-breakthrough-in-modern-web-development2439-1d3d)
+- [Hi, I am a beginner Net Dot programmer. I worked on a project with myself and I need more experience and tasks such as training in a company. How do I get this?](https://dev.to/ezz_aldin_25453c5c58a4f55/hi-i-am-a-beginner-net-dot-programmer-i-worked-on-a-project-with-myself-and-i-need-more-3gdp)
+- [🚀 Master Frontend, Backend, UI/UX, and SEO — The Skills You Need for 2025](https://dev.to/sfa_shah_368309803ae22878/master-frontend-backend-uiux-and-seo-the-skills-you-need-for-2025-1i0l)
+- [Introduce C++ Pointers 👉](https://dev.to/farhad_rahimi_klie/introduce-c-pointers-24dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
