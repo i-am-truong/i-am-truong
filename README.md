@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;7583&rpar;](https://dev.to/socket-use/revolutionary-performance-breakthrough-in-modern-web-development7583-1240)
-- [🧠OrKa onboarding: example suite, guided tour, and trace replay](https://dev.to/marcosomma/orka-onboarding-example-suite-guided-tour-and-trace-replay-2egf)
-- [From Punch Cards to AI Coders: The Unseen Journey of Software Creation](https://dev.to/arkhan/from-punch-cards-to-ai-coders-the-unseen-journey-of-software-creation-48g8)
-- [Essential Cybersecurity Practices for Small Businesses Without a Tech Team](https://dev.to/terminaltools/essential-cybersecurity-practices-for-small-businesses-without-a-tech-team-2blm)
-- [Rust Async Web Framework Performance Breakthrough&lpar;7140&rpar;](https://dev.to/socket-use/rust-async-web-framework-performance-breakthrough7140-2063)
+- [Building a DOM in JavaScript: Ownership, X-Refs, and Copy Semantics](https://dev.to/karol11/building-a-dom-in-javascript-ownership-x-refs-and-copy-semantics-ojb)
+- [Best Advice For A New Mac](https://dev.to/mileswk/best-advice-for-a-new-mac-4cnf)
+- [Microservices Architecture with Lightweight Framework Design&lpar;6097&rpar;](https://dev.to/socket-use/microservices-architecture-with-lightweight-framework-design6097-3ke9)
+- [Postgress installation and set up using a Linux server](https://dev.to/emanuel88/postgress-installation-and-set-up-using-a-linux-server-120g)
+- [How I Made LunarCrush API Beginner-Friendly in 30 Minutes](https://dev.to/dbatson/how-i-made-lunarcrush-api-beginner-friendly-in-30-minutes-1mnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
