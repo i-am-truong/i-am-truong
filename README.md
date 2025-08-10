@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Like To Make Stuff: I’ve Finally Figured Out Aluminum Welding](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-figured-out-aluminum-welding-38kp)
-- [The Hidden Risks of AI in Gaming Age Checks: What Parents Must Know](https://dev.to/jay_all_day/the-hidden-risks-of-ai-in-gaming-age-checks-what-parents-must-know-4d2f)
-- [Go Interfaces - Composition Over Inheritance &lpar;And Common Sense&rpar;](https://dev.to/gkoos/go-interfaces-composition-over-inheritance-and-common-sense-12i4)
-- [Cara Mempelajari Earl Bahasa Pemrograman](https://dev.to/dev_nazwashabrina/cara-mempelajari-earl-bahasa-pemrograman-15mj)
-- [I Built a GraphQL Playground for Crypto Data - Now Copy Any Query in 10 Seconds](https://dev.to/dbatson/i-built-a-graphql-playground-for-crypto-data-now-copy-any-query-in-10-seconds-3deh)
+- [Adam Savage&#39;s Tested: The Time Adam Savage &quot;Got Into It&quot; With an ILM Supervisor](https://dev.to/maker_youtube/adam-savages-tested-the-time-adam-savage-got-into-it-with-an-ilm-supervisor-dkg)
+- [productivity app](https://dev.to/akshay_mohan_3be14a36564c/productivity-app-48p8)
+- [Everyone is planning to build an AI based business, but rarely do people tell us what we need to build an AI business. Here are my top 5 learnings when I was building the ReThynk AI company from scratch.](https://dev.to/jaideepparashar/everyone-is-planning-to-build-an-ai-based-business-but-rarely-do-people-tell-us-what-we-need-to-4pid)
+- [Part 9:Visualizing Data That Speaks](https://dev.to/sanaipei001/part-9visualizing-data-that-speaks-436d)
+- [Git for grad students &lpar;part 2&rpar;](https://dev.to/tuannq/git-for-grad-students-part-2-5f4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
