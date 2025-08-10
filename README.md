@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;9088&rpar;](https://dev.to/socket-use/dynamic-routing-systems-for-scalable-web-applications9088-3j5j)
+- [Automatic Backup and Synchronization of All Repositories from a Git Account or Organization](https://dev.to/ivajofranc/automatic-backup-and-synchronization-of-all-repositories-from-a-git-account-or-organization-2ehi)
+- [Copia de seguridad y sincronización automática de todos los repositorios de una cuenta u organización Git](https://dev.to/ivajofranc/copia-de-seguridad-y-sincronizacion-automatica-de-todos-los-repositorios-de-una-cuenta-u-cj)
+- [Stumbling Into Lesser-Known PC Software &lpar;And Why I Keep Looking Beyond Page One&rpar;](https://dev.to/mazterize/stumbling-into-lesser-known-pc-software-and-why-i-keep-looking-beyond-page-one-8n1)
 - [From Dots and Dashes to Modern Web: Building a Morse Code Translator That Developers Actually Want to Use](https://dev.to/junhao_li_9ee6f0c5f90fb8e/from-dots-and-dashes-to-modern-web-building-a-morse-code-translator-that-developers-actually-want-42g6)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;7559&rpar;](https://dev.to/socket-use/latency-optimization-secrets-for-millisecond-response-times7559-3ccn)
-- [Laravel Security Guide: How to Fix These 6 Common Mistakes](https://dev.to/burtds/laravel-security-guide-how-to-fix-these-6-common-mistakes-bpp)
-- [Anonymous Structures in C](https://dev.to/pauljlucas/anonymous-structures-in-c-2ebk)
-- [Typing Challenge - realtime typing leaderboard, analytics, and active typers powered by Redis](https://dev.to/masud_ali_cc66779de0c2b2/typing-challenge-realtime-typing-leaderboard-analytics-and-active-typers-powered-by-redis-4ieb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
