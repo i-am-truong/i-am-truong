@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Excel’s Strengths and Weaknesses in Predictive Analysis and Its Role in Data-Driven Business Decisions](https://dev.to/sharon_ndubai_a6603703f2f/excels-strengths-and-weaknesses-in-predictive-analysis-and-its-role-in-data-driven-business-29n3)
+- [SEO guide for Software Developers](https://dev.to/kouta222/seo-guide-for-software-developers-1ld6)
 - [Coding in the AI Apocalypse: Why Programmers Are the Real Superheroes Now](https://dev.to/nsoro_allan/coding-in-the-ai-apocalypse-why-programmers-are-the-real-superheroes-now-ao4)
 - [Weak API Authentication in Symfony: How to Fix It](https://dev.to/pentest_testing_corp/weak-api-authentication-in-symfony-how-to-fix-it-2600)
 - [an article on Excel’s Strengths, Weaknesses and the Role of Excel in Predictive Analysis](https://dev.to/gregory42266270/an-article-on-excels-strengths-weaknesses-and-the-role-of-excel-in-predictive-analysis-180k)
-- [Kubernetes Architecture Tour Clusters Purposes](https://dev.to/giridharan_devops/kubernetes-architecture-tour-clusters-purposes-51d)
-- [The Future of Personal Branding in an AI-Dominated Industry: How to Stay Irreplaceable](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-personal-branding-in-an-ai-dominated-industry-how-to-stay-irreplaceable-2fgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
