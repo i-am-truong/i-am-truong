@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💬 From Rejection to Revolution: The Engineering Brilliance Behind WhatsApp](https://dev.to/alifa_ara_heya/from-rejection-to-revolution-the-engineering-brilliance-behind-whatsapp-1ij)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;1887&rpar;](https://dev.to/socket-use/resource-management-and-memory-efficiency-in-web-servers1887-3dhp)
-- [To-do App with React Native: What I Built &amp; What I Learned](https://dev.to/akcumeh/to-do-app-with-react-native-what-i-built-what-i-learned-4hej)
-- [15 Must-Know Data Engineering Tricks](https://dev.to/hilary_wambwa_dd49d0404fa/15-must-know-data-engineering-tricks-18ec)
-- [Application of Async Programming in Web Development&lpar;2719&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development2719-3j39)
+- [🔧 Part 2: Advanced - OpenAI Function Calling &amp; Iterative Search](https://dev.to/abdelrahman_adnan/part-2-advanced-openai-function-calling-iterative-search-dm6)
+- [🏗️ Part 1: Foundation - Basic RAG and Agentic Concepts](https://dev.to/abdelrahman_adnan/part-1-foundation-basic-rag-and-agentic-concepts-1gik)
+- [Reinforcement Learning: Multi-Armed Bandits](https://dev.to/zachary62/reinforcement-learning-multi-armed-bandits-4c5l)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;0048&rpar;](https://dev.to/socket-use/design-philosophy-of-zero-dependency-web-framework0048-ge6)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;1133&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance1133-5a1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
