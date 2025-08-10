@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bidirectional Communication Patterns in Modern Web Apps&lpar;9120&rpar;](https://dev.to/socket-use/bidirectional-communication-patterns-in-modern-web-apps9120-h8g)
+- [Beauty Content Pipeline – Automated Social Media Content Collector](https://dev.to/wandering_animation_84a57/beauty-content-pipeline-automated-social-media-content-collector-1na7)
+- [🏭 Part 3: Professional - Enterprise Patterns &amp; Production Deployment](https://dev.to/abdelrahman_adnan/part-3-professional-enterprise-patterns-production-deployment-23bi)
 - [🔧 Part 2: Advanced - OpenAI Function Calling &amp; Iterative Search](https://dev.to/abdelrahman_adnan/part-2-advanced-openai-function-calling-iterative-search-dm6)
 - [🏗️ Part 1: Foundation - Basic RAG and Agentic Concepts](https://dev.to/abdelrahman_adnan/part-1-foundation-basic-rag-and-agentic-concepts-1gik)
-- [Reinforcement Learning: Multi-Armed Bandits](https://dev.to/zachary62/reinforcement-learning-multi-armed-bandits-4c5l)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;0048&rpar;](https://dev.to/socket-use/design-philosophy-of-zero-dependency-web-framework0048-ge6)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;1133&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance1133-5a1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
