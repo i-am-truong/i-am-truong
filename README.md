@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Juggling WSL Terminals? I Built a Simple GUI Manager with Python.](https://dev.to/ishikori/tired-of-juggling-wsl-terminals-i-built-a-simple-gui-manager-with-python-22gp)
-- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;2439&rpar;](https://dev.to/socket-use/revolutionary-performance-breakthrough-in-modern-web-development2439-1d3d)
-- [Hi, I am a beginner Net Dot programmer. I worked on a project with myself and I need more experience and tasks such as training in a company. How do I get this?](https://dev.to/ezz_aldin_25453c5c58a4f55/hi-i-am-a-beginner-net-dot-programmer-i-worked-on-a-project-with-myself-and-i-need-more-3gdp)
-- [🚀 Master Frontend, Backend, UI/UX, and SEO — The Skills You Need for 2025](https://dev.to/sfa_shah_368309803ae22878/master-frontend-backend-uiux-and-seo-the-skills-you-need-for-2025-1i0l)
-- [Introduce C++ Pointers 👉](https://dev.to/farhad_rahimi_klie/introduce-c-pointers-24dn)
+- [Serverless Computing in Kubernetes: A Developer’s Guide](https://dev.to/aws-builders/serverless-computing-in-kubernetes-a-developers-guide-2c2n)
+- [How Milliseconds Become Hours at Scale](https://dev.to/lucirie/how-milliseconds-become-hours-at-scale-1ei5)
+- [Refactoring 031 - Removing OOPs](https://dev.to/mcsee/refactoring-031-removing-oops-5g9f)
+- [New Choice for Cross-Platform Web Service Development&lpar;7780&rpar;](https://dev.to/socket-use/new-choice-for-cross-platform-web-service-development7780-ih8)
+- [Snowflake AI_TRANSCRIBE - Transform Audio to Insights with SQL in Seconds](https://dev.to/tsubasa_tech/snowflake-aitranscribe-transform-audio-to-insights-with-sql-in-seconds-21j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
