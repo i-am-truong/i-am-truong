@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding in the AI Apocalypse: Why Programmers Are the Real Superheroes Now](https://dev.to/nsoro_allan/coding-in-the-ai-apocalypse-why-programmers-are-the-real-superheroes-now-ao4)
+- [Weak API Authentication in Symfony: How to Fix It](https://dev.to/pentest_testing_corp/weak-api-authentication-in-symfony-how-to-fix-it-2600)
+- [an article on Excel’s Strengths, Weaknesses and the Role of Excel in Predictive Analysis](https://dev.to/gregory42266270/an-article-on-excels-strengths-weaknesses-and-the-role-of-excel-in-predictive-analysis-180k)
+- [Kubernetes Architecture Tour Clusters Purposes](https://dev.to/giridharan_devops/kubernetes-architecture-tour-clusters-purposes-51d)
 - [The Future of Personal Branding in an AI-Dominated Industry: How to Stay Irreplaceable](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-personal-branding-in-an-ai-dominated-industry-how-to-stay-irreplaceable-2fgj)
-- [RefPerSys inference engine project](https://dev.to/bstarynk/refpersys-inference-engine-project-4gan)
-- [🚀 My Enterprise React Boilerplate – Built from Lessons Learned in Real Projects](https://dev.to/hoang21099/my-enterprise-react-boilerplate-built-from-lessons-learned-in-real-projects-34p)
-- [CamSecure V2 – Advanced Web-Based Surveillance for Modern Security Needs](https://dev.to/mayankchawdhari/camsecure-v2-advanced-web-based-surveillance-for-modern-security-needs-o70)
-- [Serverless and Microservices Architecture](https://dev.to/shivam_malik_9dc6cb90e9e2/serverless-and-microservices-architecture-9fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
