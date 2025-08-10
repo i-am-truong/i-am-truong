@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 29 Of Dsa Problem Solving](https://dev.to/abhishek-nexgen-dev/day-29-of-dsa-problem-solving-3m11)
+- [Ngrok - Your Localhost’s Passport to the Internet](https://dev.to/azad_e0b5646e18c4b167685a/ngrok-your-localhosts-passport-to-the-internet-40i1)
 - [Cross-Platform Web Development Without Compromise&lpar;3383&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise3383-4c31)
 - [Joaquin Fagundo on the Hidden ROI of Digital Transformation Most Leaders Overlook](https://dev.to/joaquin_fagundo_9ab7cbc61/joaquin-fagundo-on-the-hidden-roi-of-digital-transformation-most-leaders-overlook-5gj)
 - [I asked two AIs to talk to each other. They decided to co-write a short story about AI.](https://dev.to/debadeepsen/i-asked-two-ais-to-talk-to-each-other-they-decided-to-co-write-a-short-story-about-ai-4ppn)
-- [Get from Zero to Hero in Foundry - Part 2: Deploy &amp; Interact](https://dev.to/abhiramelf/get-from-zero-to-hero-in-foundry-part-2-deploy-interact-2ea4)
-- [No ArcGIS, No QGIS—Just Python and a Problem Worth Solving](https://dev.to/rahmah_abubakar_d1754f0b3/no-arcgis-no-qgis-just-python-and-a-problem-worth-solving-30n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
