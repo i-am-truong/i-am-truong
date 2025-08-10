@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [To-do App with React Native: What I Built &amp; What I Learned](https://dev.to/akcumeh/to-do-app-with-react-native-what-i-built-what-i-learned-4hej)
+- [15 Must-Know Data Engineering Tricks](https://dev.to/hilary_wambwa_dd49d0404fa/15-must-know-data-engineering-tricks-18ec)
+- [Application of Async Programming in Web Development&lpar;2719&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development2719-3j39)
 - [Error Handling Strategies in High-Performance Web Servers&lpar;2618&rpar;](https://dev.to/socket-use/error-handling-strategies-in-high-performance-web-servers2618-1fi6)
 - [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-1j21)
-- [CoreDriven: Un Template de Arquitectura Limpia en .NET para Acelerar tu Desarrollo](https://dev.to/betoramiz/coredriven-un-template-de-arquitectura-limpia-en-net-para-acelerar-tu-desarrollo-3691)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;3164&rpar;](https://dev.to/socket-use/production-deployment-strategies-for-high-performance-web-services3164-35e)
-- [Funciones en JavaScript para Principiantes: Entiende el Porqué y el Para Qué](https://dev.to/elbernv/funciones-en-javascript-para-principiantes-entiende-el-porque-y-el-para-que-257d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
