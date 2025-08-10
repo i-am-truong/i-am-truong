@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 8 — map&lpar;&rpar; vs flatMap&lpar;&rpar;](https://dev.to/realnamehidden1_61/java-8-map-vs-flatmap-4l4a)
 - [MPLS Fundamentals](https://dev.to/godofgeeks/mpls-fundamentals-d72)
 - [Building a Layered Security System to Prevent Cyber Attacks in Corporate Environments](https://dev.to/hejhdiss/building-a-layered-security-system-to-prevent-cyber-attacks-in-corporate-environments-2l3c)
 - [INSTEAD OF Triggers in Oracle](https://dev.to/mrcaption49/instead-of-triggers-in-oracle-1p96)
 - [Global Temporary Table &lpar;GTT&rpar; named session_transactions using the ON COMMIT PRESERVE ROWS](https://dev.to/mrcaption49/global-temporary-table-gtt-named-sessiontransactions-using-the-on-commit-preserve-rows-102e)
-- [Zero-Bundle Angular: Exploring Standalone Components and Tree-Shaking Techniques](https://dev.to/karol_modelski/zero-bundle-angular-exploring-standalone-components-and-tree-shaking-techniques-2gfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
