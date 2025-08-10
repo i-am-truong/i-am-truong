@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Station to Server: Learning APIs Through a Train Ride](https://dev.to/debasis_panda_31e768f5e44/from-station-to-server-learning-apis-through-a-train-ride-5pp)
-- [Present State of MERN Developers from X.com Perspectives](https://dev.to/adarsh_mishra/present-state-of-mern-developers-from-xcom-perspectives-1035)
-- [Create a Minimalist &amp; Responsive Landing Page with CSS — Quick and Easy Tutorial](https://dev.to/nganggurdev/create-a-minimalist-responsive-landing-page-with-css-quick-and-easy-tutorial-36lk)
-- [Fixing WebSocket Connection Issues with Nginx Reverse Proxy](https://dev.to/pragnesh_patel/fixing-websocket-connection-issues-with-nginx-reverse-proxy-1i6o)
-- [Lazy Loading in React: Boosting Performance by Loading Code on Demand](https://dev.to/safal_bhandari/lazy-loading-in-react-boosting-performance-by-loading-code-on-demand-2mid)
+- [GitPod For Developer Workspace](https://dev.to/giridharan_devops/gitpod-for-developer-workspace-5do1)
+- [# The Hidden Failure Modes in **n8n / Make / Zapier** &lpar;with AI &amp; RAG&rpar; — A Field Guide + MIT Problem Map](https://dev.to/onestardao/-the-hidden-failure-modes-in-n8n-make-zapier-with-ai-rag-a-field-guide-mit-problem-42kj)
+- [I got tired of Grafana on my phone, so I built a new mobile-friendly dashboard for Teslamate](https://dev.to/yekk/i-got-tired-of-grafana-on-my-phone-so-i-built-a-new-mobile-friendly-dashboard-for-teslamate-kjk)
+- [I need feedback for my new project; FLEXQL](https://dev.to/heja/i-need-feedback-for-my-new-project-flexql-gd8)
+- [Python Type Annotations&lpar;part 1&rpar;](https://dev.to/cardamomcode/python-type-annotationspart-1-18b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
