@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: Reverse Routing: Playing The Old Course Backwards](https://dev.to/youtube_golf/golfcom-reverse-routing-playing-the-old-course-backwards-25pc)
-- [IGN: Captain Wayne: Vacation Desperation - Official Endless Demo Trailer](https://dev.to/gg_news/ign-captain-wayne-vacation-desperation-official-endless-demo-trailer-26ko)
-- [IGN: Fellowship - Official &#39;Meet Mara&#39; Trailer](https://dev.to/gg_news/ign-fellowship-official-meet-mara-trailer-3poi)
-- [🎯 LiveCaption AI: Real-Time Accessibility Platform with Redis-Powered Intelligence](https://dev.to/arya_koste_5845807df94776/livecaption-ai-real-time-accessibility-platform-with-redis-powered-intelligence-lbp)
-- [An Encryption Algorithm](https://dev.to/steammake3/an-encryption-algorithm-3bd6)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;2618&rpar;](https://dev.to/socket-use/error-handling-strategies-in-high-performance-web-servers2618-1fi6)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-1j21)
+- [CoreDriven: Un Template de Arquitectura Limpia en .NET para Acelerar tu Desarrollo](https://dev.to/betoramiz/coredriven-un-template-de-arquitectura-limpia-en-net-para-acelerar-tu-desarrollo-3691)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;3164&rpar;](https://dev.to/socket-use/production-deployment-strategies-for-high-performance-web-services3164-35e)
+- [Funciones en JavaScript para Principiantes: Entiende el Porqué y el Para Qué](https://dev.to/elbernv/funciones-en-javascript-para-principiantes-entiende-el-porque-y-el-para-que-257d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
