@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Response Optimization and Streaming Techniques&lpar;9014&rpar;](https://dev.to/socket-use/http-response-optimization-and-streaming-techniques9014-pmo)
 - [Remote Access: A Complete Beginner-to-Advanced Guide](https://dev.to/zedai00/remote-access-a-complete-beginner-to-advanced-guide-18ca)
 - [Self-hosting a Mastodon Instance on a Hetzner Server](https://dev.to/andi1984/self-hosting-a-mastodon-instance-on-a-hetzner-server-1fhl)
 - [Mastering Data Engineering: 15 Essential Concepts for Building Reliable and Scalable Data Systems](https://dev.to/fredmunjogu/mastering-data-engineering-15-essential-concepts-for-building-reliable-and-scalable-data-systems-24bd)
 - [10 Productive Tips Every Developer Should Follow](https://dev.to/muhammadrameez/10-productive-tips-every-developer-should-follow-3ofo)
-- [15 Data Engineering Core Concepts Simplified](https://dev.to/walnold/15-data-engineering-core-concepts-simplified-5fo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
