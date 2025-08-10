@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 29 Of Dsa Problem Solving](https://dev.to/abhishek-nexgen-dev/day-29-of-dsa-problem-solving-3m11)
-- [Ngrok - Your Localhost’s Passport to the Internet](https://dev.to/azad_e0b5646e18c4b167685a/ngrok-your-localhosts-passport-to-the-internet-40i1)
-- [Cross-Platform Web Development Without Compromise&lpar;3383&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise3383-4c31)
-- [Joaquin Fagundo on the Hidden ROI of Digital Transformation Most Leaders Overlook](https://dev.to/joaquin_fagundo_9ab7cbc61/joaquin-fagundo-on-the-hidden-roi-of-digital-transformation-most-leaders-overlook-5gj)
-- [I asked two AIs to talk to each other. They decided to co-write a short story about AI.](https://dev.to/debadeepsen/i-asked-two-ais-to-talk-to-each-other-they-decided-to-co-write-a-short-story-about-ai-4ppn)
+- [Beyond the Numbers: How to Succeed as an Analyst, Grow in Your Career, and Avoid Burnout. Part 1](https://dev.to/sergome/beyond-the-numbers-how-to-succeed-as-an-analyst-grow-in-your-career-and-avoid-burnout-part-1-n5f)
+- [Construindo DApps com Web3.js](https://dev.to/lucaspereiradesouzat/construindo-dapps-com-web3js-5e35)
+- [Node.js](https://dev.to/lourdessuello/nodejs-5cc0)
+- [🌍 De Moçambique para toda a Lusofonia Tech — Minha experiência no GDG Maputo 2025](https://dev.to/arnaldo/de-mocambique-para-toda-a-lusofonia-tech-minha-experiencia-no-gdg-maputo-2025-3938)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;7210&rpar;](https://dev.to/socket-use/error-handling-strategies-in-high-performance-web-servers7210-440g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
