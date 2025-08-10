@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Git Commands You Probably Don’t Know &lpar;But Should&rpar;](https://dev.to/devshefali/7-git-commands-you-probably-dont-know-but-should-3bnl)
+- [MY FAST PROGRAMMING , html,css,nextjs . and before python](https://dev.to/vivek_kumar_7590376/my-fast-programming-htmlcssnextjs-and-before-python-3lpk)
 - [INSTALL QEMU KVM On Linux &lpar;i.e. Debian/Ubuntu Like Distro&rpar;](https://dev.to/harry_tanama_51571ebf90b6/install-qemu-kvm-on-linux-ie-debianubuntu-like-distro-2816)
 - [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4dj0)
 - [BEST BLOGPOST ABOUT INTIALIZATION AND NORAMLIZATION I COULD FIND!!](https://dev.to/brokttv/best-blogpost-about-intialization-and-noramlization-i-could-find-2e27)
-- [iOS 26 Liquid Glass in React Native](https://dev.to/candiesocean/ios-26-liquid-glass-in-react-native-28k1)
-- [https://youtu.be/hL2iLFu1gcI?si=obfgors9eDt2dkwB iOS 26 Liquid Glass in React Native](https://dev.to/candiesocean/httpsyoutubehl2ilfu1gcisiobfgors9edt2dkwbios-26-liquid-glass-in-react-native-5d8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
