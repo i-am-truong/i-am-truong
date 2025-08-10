@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Excel&#39;s strengths and weaknesses in predictive analysis and the role 0fin making data-driven business decisions:](https://dev.to/anaya_manwa_cdff7d1921385/excels-strengths-and-weaknesses-in-predictive-analysis-and-the-role-0fin-making-data-driven-1630)
-- [Elegant Middleware Architecture Implementation&lpar;0619&rpar;](https://dev.to/socket-use/elegant-middleware-architecture-implementation0619-35oi)
-- [WebSocket Revolution in Real-Time Communication&lpar;9730&rpar;](https://dev.to/socket-use/websocket-revolution-in-real-time-communication9730-45n8)
-- [Your First Step into the World of Code with Dart](https://dev.to/mohammed_abdelmoniemkame/your-first-step-into-the-world-of-code-with-dart-463b)
-- [AI Agents + Judge + Cron Job + Self-Learning Loop = The Pathway to AGI ?](https://dev.to/adil_maqsood_2ac3c8ead50c/ai-agents-judge-cron-job-self-learning-loop-the-pathway-to-agi--3doc)
+- [[Boost]](https://dev.to/muhamd_gemmi/-3fb)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;3791&rpar;](https://dev.to/socket-use/ultimate-optimization-of-lightweight-server-architecture3791-57ln)
+- [How to Turn Figma Feedback into Action Without Losing Your Mind](https://dev.to/usamakashif/how-to-turn-figma-feedback-into-action-without-losing-your-mind-1fj4)
+- [My Raw First Year in Engineering](https://dev.to/pro_lay04/my-raw-first-year-in-engineering-43k1)
+- [BetterReviews : Discover smarter product insights through combined AI and human reviews](https://dev.to/drishtipeshwani/betterreviews-discover-smarter-product-insights-through-combined-ai-and-human-reviews-3lb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
