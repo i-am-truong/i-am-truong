@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📬 Automate Email Attachments to Telegram with Python + Render.com](https://dev.to/pavithranp12/automate-email-attachments-to-telegram-with-python-rendercom-3p7j)
-- [Part 1 - High Volume Ticket Booking System using C#, EF Core, Redis Cache and SQL Server](https://dev.to/bigboybamo/part-1-high-volume-ticket-booking-system-using-c-ef-core-redis-cache-and-sql-server-3oc)
-- [I Built a Flutter Theme Generator to Automate Material 3 Theming. Here’s How.](https://dev.to/mukhbit/i-built-a-flutter-theme-generator-to-automate-material-3-theming-heres-how-2fbj)
-- [Making Time](https://dev.to/adamghill/making-time-4ij0)
-- [GPT-5 vs GPT-4: A very detailed coding comparison 🤖](https://dev.to/sweet_benzoic_acid/gpt-5-vs-gpt-4-a-very-detailed-coding-comparison-5dni)
+- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-1-4ah4)
+- [Building DiskiPred: A Fullstack Football Match Prediction Platform](https://dev.to/master_ngunezi_c689b59032/building-diskipred-a-fullstack-football-match-prediction-platform-i7p)
+- [ChatGPT 5: Revolution or Threat for Web Developers ?](https://dev.to/capjud95/chatgpt-5-revolution-or-threat-for-web-developers--p3)
+- [Portfolio website using Tanstack start](https://dev.to/sref/-4dnf)
+- [Rust Implementation for High Concurrency Processing&lpar;9533&rpar;](https://dev.to/socket-use/rust-implementation-for-high-concurrency-processing9533-4n1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
