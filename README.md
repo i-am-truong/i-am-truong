@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Dots and Dashes to Modern Web: Building a Morse Code Translator That Developers Actually Want to Use](https://dev.to/junhao_li_9ee6f0c5f90fb8e/from-dots-and-dashes-to-modern-web-building-a-morse-code-translator-that-developers-actually-want-42g6)
 - [Latency Optimization Secrets for Millisecond Response Times&lpar;7559&rpar;](https://dev.to/socket-use/latency-optimization-secrets-for-millisecond-response-times7559-3ccn)
 - [Laravel Security Guide: How to Fix These 6 Common Mistakes](https://dev.to/burtds/laravel-security-guide-how-to-fix-these-6-common-mistakes-bpp)
 - [Anonymous Structures in C](https://dev.to/pauljlucas/anonymous-structures-in-c-2ebk)
 - [Typing Challenge - realtime typing leaderboard, analytics, and active typers powered by Redis](https://dev.to/masud_ali_cc66779de0c2b2/typing-challenge-realtime-typing-leaderboard-analytics-and-active-typers-powered-by-redis-4ieb)
-- [AI Content Moderation System | Redis AI Challenge Submission](https://dev.to/gangatharan_gurusamy_22fb/ai-content-moderation-system-redis-ai-challenge-submission-2f93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
