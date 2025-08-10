@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cutting AWS Auto Scaling Costs by 70% While Maintaining 99.99% Availability](https://dev.to/garrett_yan_d4f2213af3329/cutting-aws-auto-scaling-costs-by-70-while-maintaining-9999-availability-53ae)
-- [Cutting AWS Auto Scaling Costs by 70% While Maintaining 99.99% Availability](https://dev.to/garrett_yan_d4f2213af3329/cutting-aws-auto-scaling-costs-by-70-while-maintaining-9999-availability-23f6)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;2129&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization2129-3c5h)
-- [Problem Solving Misunderstood](https://dev.to/oliver_butler_a52c1be144d/problem-solving-misunderstood-5hm4)
-- [A Complete Guide to Smarter Website Analytics](https://dev.to/buildandcodewithraman/a-complete-guide-to-smarter-website-analytics-51oh)
+- [The Proxy Playbook: Building Fast, Secure Middle Layers in Go](https://dev.to/lovestaco/the-proxy-playbook-building-fast-secure-middle-layers-in-go-1jc5)
+- [Is GPT-5 Better than Claude 4.1, Grok 4, and Gemini 2.5 Pro in 2025?](https://dev.to/jovin_george_733dcfc16291/is-gpt-5-better-than-claude-41-grok-4-and-gemini-25-pro-in-2025-2gd1)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;0117&rpar;](https://dev.to/socket-use/production-deployment-strategies-for-high-performance-web-services0117-hf7)
+- [Confessions of a DevOps Noob Who Tried to pick a K8S Service CIDR from an Azure Subnet 🤦‍♂️](https://dev.to/victorthegreat7/confessions-of-a-devops-noob-who-tried-to-pick-a-k8s-service-cidr-from-an-azure-subnet-43i0)
+- [The Ultimate 2025 Coding Interview Handbook &lpar;with Resources&rpar;](https://dev.to/somadevtoo/the-ultimate-2025-coding-interview-handbook-with-resources-cp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
