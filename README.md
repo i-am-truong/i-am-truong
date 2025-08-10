@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-2n8d)
-- [Does the edge need a new database?](https://dev.to/surrealdb/does-the-edge-need-a-new-database-2aic)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;9471&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance9471-j4o)
-- [Programming Fundamentals: What Every Beginner Must Know Before Coding](https://dev.to/arokoola_mayowa_4b95d61ed/programming-fundamentals-what-every-beginner-must-know-before-coding-m4n)
-- [FastMap: Real-Time IoT Anomaly Detection with Redis&#39;s Multi-Model Database](https://dev.to/jonamarkin/fastmap-real-time-iot-anomaly-detection-with-rediss-multi-model-database-3bg5)
+- [📬 Automate Email Attachments to Telegram with Python + Render.com](https://dev.to/pavithranp12/automate-email-attachments-to-telegram-with-python-rendercom-3p7j)
+- [Part 1 - High Volume Ticket Booking System using C#, EF Core, Redis Cache and SQL Server](https://dev.to/bigboybamo/part-1-high-volume-ticket-booking-system-using-c-ef-core-redis-cache-and-sql-server-3oc)
+- [I Built a Flutter Theme Generator to Automate Material 3 Theming. Here’s How.](https://dev.to/mukhbit/i-built-a-flutter-theme-generator-to-automate-material-3-theming-heres-how-2fbj)
+- [Making Time](https://dev.to/adamghill/making-time-4ij0)
+- [GPT-5 vs GPT-4: A very detailed coding comparison 🤖](https://dev.to/sweet_benzoic_acid/gpt-5-vs-gpt-4-a-very-detailed-coding-comparison-5dni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
