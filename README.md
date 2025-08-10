@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Computing in Kubernetes: A Developer’s Guide](https://dev.to/aws-builders/serverless-computing-in-kubernetes-a-developers-guide-2c2n)
-- [How Milliseconds Become Hours at Scale](https://dev.to/lucirie/how-milliseconds-become-hours-at-scale-1ei5)
-- [Refactoring 031 - Removing OOPs](https://dev.to/mcsee/refactoring-031-removing-oops-5g9f)
-- [New Choice for Cross-Platform Web Service Development&lpar;7780&rpar;](https://dev.to/socket-use/new-choice-for-cross-platform-web-service-development7780-ih8)
-- [Snowflake AI_TRANSCRIBE - Transform Audio to Insights with SQL in Seconds](https://dev.to/tsubasa_tech/snowflake-aitranscribe-transform-audio-to-insights-with-sql-in-seconds-21j6)
+- [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
+- [_$t$ out of $n$_ with `dcipher` and without](https://dev.to/skaunov/t-out-of-n-with-dcipher-and-without-19he)
+- [🌟 Evolution in Tech: Moving from Monolith to Microservices 🚀](https://dev.to/varun_gor_d8556a6135dfcf5/evolution-in-tech-moving-from-monolith-to-microservices-37gm)
+- [claude code](https://dev.to/peak_tom_7fe2ed1d11aefd01/claude-code-o05)
+- [Excel’s Strengths and Weaknesses in Predictive Analysis and Its Role in Data-Driven Business Decisions](https://dev.to/dilan_bosire_c52bea0549cb/excels-strengths-and-weaknesses-in-predictive-analysis-and-its-role-in-data-driven-business-2189)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
