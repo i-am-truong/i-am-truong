@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Defining 15 Common Data Engineering Concepts](https://dev.to/elvis_mwangi_/defining-15-common-data-engineering-concepts-1d34)
-- [New Choice for Cross-Platform Web Service Development&lpar;8343&rpar;](https://dev.to/socket-use/new-choice-for-cross-platform-web-service-development8343-317i)
-- [Game Developer](https://dev.to/komeil_talebpour/game-developer-2n61)
-- [HTTP Response Optimization and Streaming Techniques&lpar;9014&rpar;](https://dev.to/socket-use/http-response-optimization-and-streaming-techniques9014-pmo)
-- [Remote Access: A Complete Beginner-to-Advanced Guide](https://dev.to/zedai00/remote-access-a-complete-beginner-to-advanced-guide-18ca)
+- [Middleware Architecture Patterns for Request Processing&lpar;6752&rpar;](https://dev.to/socket-use/middleware-architecture-patterns-for-request-processing6752-5bj3)
+- [SAS Token - Secure way](https://dev.to/uttamchaturvedi9/sas-token-secure-way-1kic)
+- [How I Built a Web Photo Booth with JavaScript, Canvas, and Filters](https://dev.to/bhavya_shukla_6e5b3b7741f/how-i-built-a-web-photo-booth-with-javascript-canvas-and-filters-387a)
+- [Understanding Go&#39;s CSP Model: Goroutines and Channels](https://dev.to/leapcell/understanding-gos-csp-model-goroutines-and-channels-4i87)
+- [What concepts should I master to be a Data Engineer?](https://dev.to/kihoro_codes_c959f8c68a9c/what-concepts-should-i-master-to-be-a-data-engineer-1chp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
