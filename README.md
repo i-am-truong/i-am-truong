@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deeply Integrating Google Tag Manager: A Complete Guide to Smarter Website Analytics 🚀](https://dev.to/buildandcodewithraman/deeply-integrating-google-tag-manager-a-complete-guide-to-smarter-website-analytics-52b4)
+- [Rust Async Web Framework Performance Breakthrough&lpar;3858&rpar;](https://dev.to/socket-use/rust-async-web-framework-performance-breakthrough3858-3m9f)
+- [GSoC Week 10 – The Week of… Well, Distractions](https://dev.to/jatsuakayashvant/gsoc-week-10-the-week-of-well-distractions-1pg7)
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
 - [_$t$ out of $n$_ with `dcipher` and without](https://dev.to/skaunov/t-out-of-n-with-dcipher-and-without-19he)
-- [🌟 Evolution in Tech: Moving from Monolith to Microservices 🚀](https://dev.to/varun_gor_d8556a6135dfcf5/evolution-in-tech-moving-from-monolith-to-microservices-37gm)
-- [claude code](https://dev.to/peak_tom_7fe2ed1d11aefd01/claude-code-o05)
-- [Excel’s Strengths and Weaknesses in Predictive Analysis and Its Role in Data-Driven Business Decisions](https://dev.to/dilan_bosire_c52bea0549cb/excels-strengths-and-weaknesses-in-predictive-analysis-and-its-role-in-data-driven-business-2189)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
