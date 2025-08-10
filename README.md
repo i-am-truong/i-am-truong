@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java 8 — map&lpar;&rpar; vs flatMap&lpar;&rpar;](https://dev.to/realnamehidden1_61/java-8-map-vs-flatmap-4l4a)
-- [MPLS Fundamentals](https://dev.to/godofgeeks/mpls-fundamentals-d72)
-- [Building a Layered Security System to Prevent Cyber Attacks in Corporate Environments](https://dev.to/hejhdiss/building-a-layered-security-system-to-prevent-cyber-attacks-in-corporate-environments-2l3c)
-- [INSTEAD OF Triggers in Oracle](https://dev.to/mrcaption49/instead-of-triggers-in-oracle-1p96)
-- [Global Temporary Table &lpar;GTT&rpar; named session_transactions using the ON COMMIT PRESERVE ROWS](https://dev.to/mrcaption49/global-temporary-table-gtt-named-sessiontransactions-using-the-on-commit-preserve-rows-102e)
+- [HTML Editors: Choosing and Using Them](https://dev.to/sharique_siddiqui_8242dad/html-editors-choosing-and-using-them-51fh)
+- [Day 42: Creating a Responsive Layout - lesson for the 180 Frontend Challenge](https://dev.to/code_2/day-42-creating-a-responsive-layout-lesson-for-the-180-frontend-challenge-3jnj)
+- [Secure, Login-Free File Transfers with File_Storage](https://dev.to/naman_2004/secure-login-free-file-transfers-with-filestorage-1j99)
+- [AWS VPC to ECS – Day 2: Internet Gateway, Public Route Table &amp; ECR Repository](https://dev.to/aws-builders/aws-vpc-to-ecs-day-2-internet-gateway-public-route-table-ecr-repository-3i7i)
+- [Vibe coded &amp; launched the world&#39;s first AI Product Manager: https://www.producthunt.com/products/aclarity/launches](https://dev.to/alan_hassan_aa5397502e32b/vibe-coded-launched-the-worlds-first-ai-product-manager-7l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
