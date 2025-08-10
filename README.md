@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/muhamd_gemmi/-3fb)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;3791&rpar;](https://dev.to/socket-use/ultimate-optimization-of-lightweight-server-architecture3791-57ln)
-- [How to Turn Figma Feedback into Action Without Losing Your Mind](https://dev.to/usamakashif/how-to-turn-figma-feedback-into-action-without-losing-your-mind-1fj4)
-- [My Raw First Year in Engineering](https://dev.to/pro_lay04/my-raw-first-year-in-engineering-43k1)
-- [BetterReviews : Discover smarter product insights through combined AI and human reviews](https://dev.to/drishtipeshwani/betterreviews-discover-smarter-product-insights-through-combined-ai-and-human-reviews-3lb8)
+- [What Are the Biggest Challenges in Unit Testing and How to Solve Them?](https://dev.to/alok_e75d0463248211c2ca56/what-are-the-biggest-challenges-in-unit-testing-and-how-to-solve-them-2i0k)
+- [Offline File Sharing for Developers — Why It Still Matters in 2025](https://dev.to/sheila_wkeith_822b28732/offline-file-sharing-for-developers-why-it-still-matters-in-2025-2n0k)
+- [Tuple Deconstruction in C#: A Complete Guide](https://dev.to/morteza-jangjoo/tuple-deconstruction-in-c-a-complete-guide-3l17)
+- [Exploring git cherry and git cherry-pick](https://dev.to/bdhamithkumara/exploring-git-cherry-and-git-cherry-pick-59gn)
+- [KeyPilot – Semantic API Gateway with Real-Time AI Routing &amp; Caching](https://dev.to/joeljaison394/keypilot-semantic-api-gateway-with-real-time-ai-routing-caching-2b94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
