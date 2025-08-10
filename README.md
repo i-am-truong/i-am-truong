@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WebSocket Revolution in Real-Time Communication&lpar;9730&rpar;](https://dev.to/socket-use/websocket-revolution-in-real-time-communication9730-45n8)
+- [Your First Step into the World of Code with Dart](https://dev.to/mohammed_abdelmoniemkame/your-first-step-into-the-world-of-code-with-dart-463b)
+- [AI Agents + Judge + Cron Job + Self-Learning Loop = The Pathway to AGI ?](https://dev.to/adil_maqsood_2ac3c8ead50c/ai-agents-judge-cron-job-self-learning-loop-the-pathway-to-agi--3doc)
+- [Beyond the Numbers: How to Succeed as an Analyst, Grow in Your Career, and Avoid Burnout. Part 2](https://dev.to/sergome/beyond-the-numbers-how-to-succeed-as-an-analyst-grow-in-your-career-and-avoid-burnout-part-2-34af)
 - [How to Build AI-Powered .NET Apps with ML.NET and C#: A Step-by-Step Guide](https://dev.to/sana_rana_024d71d6c02c291/how-to-build-ai-powered-net-apps-with-mlnet-and-c-a-step-by-step-guide-3cdf)
-- [Concurrency Mastery Through Advanced Async Programming&lpar;9425&rpar;](https://dev.to/socket-use/concurrency-mastery-through-advanced-async-programming9425-o31)
-- [Node.js: Practical Coding Challenges](https://dev.to/lourdessuello/nodejs-practical-coding-challenges-10om)
-- [RediGuard: AI-Powered Real-Time Security Monitoring with Redis 8](https://dev.to/ajitdevops/rediguard-ai-powered-real-time-security-monitoring-with-redis-8-j46)
-- [Containerizing and Deploying a Simple FastAPI Application to AWS EC2.](https://dev.to/goodluck_ekeoma_2c98866d0/containerizing-and-deploying-a-simple-fastapi-application-to-aws-ec2-pa2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
