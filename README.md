@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ASP .NET Core startup validation part 3](https://dev.to/karenpayneoregon/asp-net-core-startup-validation-part-3-jh9)
 - [Creating a Plants Vs Zombies with Redis](https://dev.to/robot254/creating-a-plants-vs-zombies-with-redis-2803)
 - [[Boost]](https://dev.to/cpazro/-3ai1)
 - [Rust Implementation for High Concurrency Processing&lpar;8466&rpar;](https://dev.to/socket-use/rust-implementation-for-high-concurrency-processing8466-3al0)
 - [Cron but with AI insights, telemetry data in one command directly from your codebase...](https://dev.to/desmondsanctity/cron-but-with-ai-insights-telemetry-data-in-one-command-directly-from-your-codebase-4dbl)
-- [Diseño e Implementación de Arquitectura CTF LLaitun: de la Primera Experiencia al Liderazgo Técnico](https://dev.to/fernandosilvot/diseno-e-implementacion-de-arquitectura-ctf-llaitun-de-la-primera-experiencia-al-liderazgo-tecnico-2bbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
