@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;5074&rpar;](https://dev.to/socket-use/latency-optimization-secrets-for-millisecond-response-times5074-3olh)
+- [The 3 React Concepts You Must Master &lpar;The Definitive Guide&rpar;](https://dev.to/abdul_fadiga_1f402d165920/the-3-react-concepts-you-must-master-the-definitive-guide-3ng5)
+- [A Scalable Route Optimization System for School &amp; Staff Transportation](https://dev.to/emrahg/a-scalable-route-optimization-system-for-school-staff-transportation-2pb2)
+- [Building an AI-Powered Anomaly Detection System with Redis 8: Beyond Traditional Caching](https://dev.to/ntanwir10/building-an-ai-powered-anomaly-detection-system-with-redis-8-beyond-traditional-caching-1j7i)
 - [High-Performance Routing System Design and Implementation&lpar;6195&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation6195-4g8k)
-- [InsightStream: AI-Powered Real-Time Content Intelligence Platform](https://dev.to/malvinjay/insightstream-ai-powered-real-time-content-intelligence-platform-493a)
-- [Middleware Architecture Patterns for Request Processing&lpar;6752&rpar;](https://dev.to/socket-use/middleware-architecture-patterns-for-request-processing6752-5bj3)
-- [SAS Token - Secure way](https://dev.to/uttamchaturvedi9/sas-token-secure-way-1kic)
-- [How I Built a Web Photo Booth with JavaScript, Canvas, and Filters](https://dev.to/bhavya_shukla_6e5b3b7741f/how-i-built-a-web-photo-booth-with-javascript-canvas-and-filters-387a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
