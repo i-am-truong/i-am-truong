@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding @MainActor in Swift: When and How to Use It](https://dev.to/arshtechpro/understanding-mainactor-in-swift-when-and-how-to-use-it-4ii4)
-- [FastMap: Real-Time IoT Anomaly Detection with Redis&#39;s Multi-Model Database](https://dev.to/jonathan_atomarkin_a4dea/fastmap-real-time-iot-anomaly-detection-with-rediss-multi-model-database-2ma2)
-- [Quark’s Outlines: Python Floating Point Numbers](https://dev.to/mike-vincent/quarks-outlines-python-floating-point-numbers-3jpb)
-- [Soon this is going to be real full native app and able on the Appstore and Playstore... This will be a gamechanger](https://dev.to/getappsai/soon-this-is-going-to-be-real-full-native-app-and-able-on-the-appstore-and-playstore-this-will-5124)
-- [Soon on AppStore :&rpar;](https://dev.to/getappsai/soon-on-appstore--16dl)
+- [How Technology Is Transforming Hospitality Careers: The Role of Online Platforms and AI in Job Matching](https://dev.to/israt_jahan_brisy/how-technology-is-transforming-hospitality-careers-the-role-of-online-platforms-and-ai-in-job-3m3h)
+- [Destroy Builds Device - UEFN verse](https://dev.to/kingcalc/destroy-builds-device-uefn-verse-51nk)
+- [PLEASE CHECKOUT MY NEW PROJECT &#39;GITMENTOR&#39;😭](https://dev.to/devvobiero/please-checkout-my-new-project-gitmentor-20m)
+- [Building Sustainable Hospitality: How Eco-Friendly Practices Are Shaping the Future of Hotels and Restaurants](https://dev.to/israt_jahan_brisy/building-sustainable-hospitality-how-eco-friendly-practices-are-shaping-the-future-of-hotels-and-2o27)
+- [7 Beginner Coding Projects That Instantly Level Up Your Skills 🔥](https://dev.to/beyond-code/7-beginner-coding-projects-that-instantly-level-up-your-skills-15jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
