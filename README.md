@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;7583&rpar;](https://dev.to/socket-use/revolutionary-performance-breakthrough-in-modern-web-development7583-1240)
+- [🧠OrKa onboarding: example suite, guided tour, and trace replay](https://dev.to/marcosomma/orka-onboarding-example-suite-guided-tour-and-trace-replay-2egf)
 - [From Punch Cards to AI Coders: The Unseen Journey of Software Creation](https://dev.to/arkhan/from-punch-cards-to-ai-coders-the-unseen-journey-of-software-creation-48g8)
 - [Essential Cybersecurity Practices for Small Businesses Without a Tech Team](https://dev.to/terminaltools/essential-cybersecurity-practices-for-small-businesses-without-a-tech-team-2blm)
 - [Rust Async Web Framework Performance Breakthrough&lpar;7140&rpar;](https://dev.to/socket-use/rust-async-web-framework-performance-breakthrough7140-2063)
-- [Gpt 5 personal experience?](https://dev.to/tinkermakar/gpt-5-personal-experience-46k8)
-- [Building a Tech Zeitgeist Machine: News Harvesting, Dirty Data, and the Audacity of Mr. Spruce](https://dev.to/billtehwizard/building-a-tech-zeitgeist-machine-news-harvesting-dirty-data-and-the-audacity-of-mr-spruce-4i9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
