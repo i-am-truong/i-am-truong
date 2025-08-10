@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Excel’s Strengths and Weaknesses in Predictive Analysis and Its Role in Data-Driven Business Decisions](https://dev.to/sharon_ndubai_a6603703f2f/excels-strengths-and-weaknesses-in-predictive-analysis-and-its-role-in-data-driven-business-29n3)
-- [SEO guide for Software Developers](https://dev.to/kouta222/seo-guide-for-software-developers-1ld6)
-- [Coding in the AI Apocalypse: Why Programmers Are the Real Superheroes Now](https://dev.to/nsoro_allan/coding-in-the-ai-apocalypse-why-programmers-are-the-real-superheroes-now-ao4)
-- [Weak API Authentication in Symfony: How to Fix It](https://dev.to/pentest_testing_corp/weak-api-authentication-in-symfony-how-to-fix-it-2600)
-- [an article on Excel’s Strengths, Weaknesses and the Role of Excel in Predictive Analysis](https://dev.to/gregory42266270/an-article-on-excels-strengths-weaknesses-and-the-role-of-excel-in-predictive-analysis-180k)
+- [Social Engineering Attacks: Human Factor Security Analysis](https://dev.to/rafalw3bcraft/social-engineering-attacks-human-factor-security-analysis-4jmk)
+- [Ransomware Attack Vectors: Analysis and Recovery Strategies](https://dev.to/rafalw3bcraft/ransomware-attack-vectors-analysis-and-recovery-strategies-48b9)
+- [Zero-Day Exploits: Vulnerability Research and Defense Strategies](https://dev.to/rafalw3bcraft/zero-day-exploits-vulnerability-research-and-defense-strategies-15kh)
+- [Advanced Persistent Threats &lpar;APT&rpar;: Threat Hunting Methodologies](https://dev.to/rafalw3bcraft/advanced-persistent-threats-apt-threat-hunting-methodologies-1fg8)
+- [Day 61: When 5:30 AM Becomes Your New Reality](https://dev.to/casperday11/day-61-when-530-am-becomes-your-new-reality-542d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
