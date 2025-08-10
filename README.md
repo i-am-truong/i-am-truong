@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lexis Link](https://dev.to/nadinev/lexis-link-185l)
+- [Designing for Sustainability: The Rise of Green Software](https://dev.to/arjun_mullick_e734b4da656/designing-for-sustainability-the-rise-of-green-software-41op)
+- [Amazon and Audible Advertising Evolution: A Comprehensive Analysis &lpar;2016-2024&rpar;](https://dev.to/arjun_mullick_e734b4da656/amazon-and-audible-advertising-evolution-a-comprehensive-analysis-2016-2024-5f30)
 - [Building a DOM in JavaScript: Ownership, X-Refs, and Copy Semantics](https://dev.to/karol11/building-a-dom-in-javascript-ownership-x-refs-and-copy-semantics-ojb)
 - [Best Advice For A New Mac](https://dev.to/mileswk/best-advice-for-a-new-mac-4cnf)
-- [Microservices Architecture with Lightweight Framework Design&lpar;6097&rpar;](https://dev.to/socket-use/microservices-architecture-with-lightweight-framework-design6097-3ke9)
-- [Postgress installation and set up using a Linux server](https://dev.to/emanuel88/postgress-installation-and-set-up-using-a-linux-server-120g)
-- [How I Made LunarCrush API Beginner-Friendly in 30 Minutes](https://dev.to/dbatson/how-i-made-lunarcrush-api-beginner-friendly-in-30-minutes-1mnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
