@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Towards more accountability of Raku programs](https://dev.to/lizmat/towards-more-accountability-of-raku-programs-3g2)
-- [Lexis Link](https://dev.to/nadinev/lexis-link-185l)
-- [Amazon S3 – Pre-Signed URLs: My Experience Making File Sharing Easier](https://dev.to/aws-builders/amazon-s3-pre-signed-urls-my-experience-making-file-sharing-easier-3i4p)
-- [Designing for Sustainability: The Rise of Green Software](https://dev.to/arjun_mullick_e734b4da656/designing-for-sustainability-the-rise-of-green-software-41op)
-- [Amazon and Audible Advertising Evolution: A Comprehensive Analysis &lpar;2016-2024&rpar;](https://dev.to/arjun_mullick_e734b4da656/amazon-and-audible-advertising-evolution-a-comprehensive-analysis-2016-2024-5f30)
+- [o4-mini vs. o4-mini-high: when to choose each &lpar;and why it matters&rpar;](https://dev.to/hernandezmario2314/o4-mini-vs-o4-mini-high-when-to-choose-each-and-why-it-matters-32hh)
+- [Mastering Data Engineering: 15 Essential Concepts for Building Reliable and Scalable Data Systems](https://dev.to/fredmunjogu/mastering-data-engineering-15-essential-concepts-for-building-reliable-and-scalable-data-systems-24bd)
+- [15 Data Engineering Core Concepts Simplified](https://dev.to/walnold/15-data-engineering-core-concepts-simplified-5fo3)
+- [Cross-Platform Web Development Without Compromise&lpar;1462&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise1462-3oi0)
+- [My Experience &lpar;and Struggles&rpar; with the Beelink ME Mini as a NAS](https://dev.to/sivachaitanya_sala_cb5aa/my-experience-and-struggles-with-the-beelink-me-mini-as-a-nas-26g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
