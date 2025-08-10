@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Backend Development in Next.js 15: A Beginner&#39;s Guide to REST APIs](https://dev.to/fonyuygita/getting-started-with-backend-development-in-nextjs-15-a-beginners-guide-to-rest-apis-4hk2)
+- [Redis Pixel War](https://dev.to/alfredosalzillo/redis-pixel-war-3i7a)
+- [Efficient WebSocket Server-Side Processing&lpar;0749&rpar;](https://dev.to/socket-use/efficient-websocket-server-side-processing0749-2f07)
+- [Revolutionizing Crypto Wallet Management: The Python HD Wallet Library](https://dev.to/githubopensource/revolutionizing-crypto-wallet-management-the-python-hd-wallet-library-30pb)
 - [AltSchool Of Engineering Tinyuka’24 Month 6 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-1-4ah4)
-- [Building DiskiPred: A Fullstack Football Match Prediction Platform](https://dev.to/master_ngunezi_c689b59032/building-diskipred-a-fullstack-football-match-prediction-platform-i7p)
-- [ChatGPT 5: Revolution or Threat for Web Developers ?](https://dev.to/capjud95/chatgpt-5-revolution-or-threat-for-web-developers--p3)
-- [Portfolio website using Tanstack start](https://dev.to/sref/-4dnf)
-- [Rust Implementation for High Concurrency Processing&lpar;9533&rpar;](https://dev.to/socket-use/rust-implementation-for-high-concurrency-processing9533-4n1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
