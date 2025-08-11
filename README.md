@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Pretty Print JSON in Python?](https://dev.to/kiani0x01/how-to-pretty-print-json-in-python-574)
-- [What Are Python Decorators?](https://dev.to/kiani0x01/what-are-python-decorators-38h)
-- [Claude Sonnet 4 vs Kimi K2 vs Gemini 2.5 Pro: Which AI actually ships production code?](https://dev.to/forgecode/claude-sonnet-4-vs-kimi-k2-vs-gemini-25-pro-which-ai-actually-ships-production-code-4hjm)
-- [What are the differences between Python Modules and Packages?](https://dev.to/kiani0x01/what-are-the-differences-between-python-modules-and-packages-bbh)
-- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-5gg6)
+- [Missing Data in R? Complete 2025 Guide to Imputation Techniques](https://dev.to/dipti_m_2e7ba36c478d1a48a/missing-data-in-r-complete-2025-guide-to-imputation-techniques-53g8)
+- [WebGPU Engine from Scratch Part 4: Updating the Pipeline](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-4-updating-the-pipeline-374m)
+- [Test](https://dev.to/ben/test-322n)
+- [Adding Elements to Python Sets](https://dev.to/kiani0x01/adding-elements-to-python-sets-51ej)
+- [Mastering Python Context Managers](https://dev.to/kiani0x01/mastering-python-context-managers-5016)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
