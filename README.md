@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Component Design Patterns for Real-World Projects](https://dev.to/maurya-sachin/react-component-design-patterns-for-real-world-projects-5b04)
-- [A Year Late to My Own Introduction](https://dev.to/donalda/a-year-late-to-my-own-introduction-463f)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;9359&rpar;](https://dev.to/socket-use/server-side-events-implementation-for-real-time-applications9359-5gme)
-- [I made my own SourceMod](https://dev.to/cheese_king_e815378335419/i-made-my-own-sourcemod-1jje)
-- [Catch and Fix Memory Leaks in Go Like a Pro](https://dev.to/jones_charles_ad50858dbc0/catch-and-fix-memory-leaks-in-go-like-a-pro-55km)
+- [Cloud-Native AI: Leveraging MCP for Scalable Integrations](https://dev.to/om_shree_0709/cloud-native-ai-leveraging-mcp-for-scalable-integrations-1p9p)
+- [Basics of Investment](https://dev.to/madgan95/basics-of-investment-287d)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;1496&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance1496-1j9l)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;3569&rpar;](https://dev.to/socket-use/resource-management-and-memory-efficiency-in-web-servers3569-2e0n)
+- [AniGuess: Real-Time Multiplayer Anime Guessing Game](https://dev.to/ykimura/aniguess-real-time-multiplayer-anime-guessing-game-17n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
