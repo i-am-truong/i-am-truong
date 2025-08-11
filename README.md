@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a CI/CD Pipeline with GitLab CI](https://dev.to/addwebsolutionpvtltd/creating-a-cicd-pipeline-with-gitlab-ci-eo)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;3685&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance3685-5ehg)
-- [Bundle Optimization](https://dev.to/juun_roh/bundle-optimization-i4a)
-- [Practice#2: COUNT DISTINCT ：A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice2-count-distinct-a-lightweight-solution-to-speed-up-queries-by-dumping-data-to-files-pja)
-- [Laravel Redis Cache Guide – Speed Up Your App in Minutes](https://dev.to/serveravatar/laravel-redis-cache-guide-speed-up-your-app-in-minutes-2k1o)
+- [Best practices for Accessibility in Vue / Nuxt](https://dev.to/jacobandrewsky/best-practices-for-accessibility-in-vue-nuxt-1cga)
+- [Perl 🐪 Weekly #733 - Perl using AI](https://dev.to/szabgab/perl-weekly-733-perl-using-ai-4kp0)
+- [SQL HAVING Explained: Filter Grouped Data With Ease](https://dev.to/dbvismarketing/sql-having-explained-filter-grouped-data-with-ease-5fjd)
+- [Passing Body Data in Strapi Webhooks: Triggering GitHub Workflows Example](https://dev.to/u11d/passing-body-data-in-strapi-webhooks-triggering-github-workflows-example-43nh)
+- [Why http://10.0.2.2 Works Instead of localhost in Android Emulator &lpar;React Native + Spring Boot&rpar;](https://dev.to/sathya7032/why-http10022-works-instead-of-localhost-in-android-emulator-react-native-spring-boot-519o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
