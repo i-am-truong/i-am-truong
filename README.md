@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everyone&#39;s Sleeping on GPT-5 Mini &lpar;And It&#39;s the Only Model That Actually Matters&rpar;](https://dev.to/shayy/everyones-sleeping-on-gpt-5-mini-and-its-the-only-model-that-actually-matters-535d)
+- [10 Modern Commands for Your Terminal](https://dev.to/marcosplusplus/10-modern-commands-for-your-terminal-1dg6)
+- [10 Comandos Modernos para seu Terminal](https://dev.to/marcosplusplus/10-comandos-modernos-para-seu-terminal-5bgp)
 - [Peter Finch Golf: Scratch Golfer Vs LONGEST DIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-divers-in-the-world-peter-finch-vs-martin-borgmeier--4lgp)
 - [IGN: Woochi the Wayfarer - Official Reveal Trailer &lpar;Korean Dub&rpar;](https://dev.to/gg_news/ign-woochi-the-wayfarer-official-reveal-trailer-korean-dub-27g)
-- [IGN: Digimon Story Time Stranger - Official DigiRide Trailer](https://dev.to/gg_news/ign-digimon-story-time-stranger-official-digiride-trailer-l9h)
-- [IGN: How Invincible VS Puts Its Own Unique Mark on the Tag Fighter Genre | Evo 2025](https://dev.to/gg_news/ign-how-invincible-vs-puts-its-own-unique-mark-on-the-tag-fighter-genre-evo-2025-4mjf)
-- [My colleague did overtime for two weeks straight, here is what I told him](https://dev.to/topjer/my-colleague-did-overtime-for-two-weeks-straight-here-is-what-i-told-him-2n3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
