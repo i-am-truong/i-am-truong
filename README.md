@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-5bjb)
-- [PowerShell on Windows 11 Home: How to cap Display/Sleep/Hibernate at 5 minutes &lpar;300 s&rpar; regardless of user changes?](https://dev.to/teoman_egeselcuk_d962da6/title-powershell-on-windows-11-home-how-to-cap-displaysleephibernate-at-5-minutes-300-s-7ag)
-- [PostgreSQL Performance: Essential Indexing Guidelines](https://dev.to/shrsv/postgresql-performance-essential-indexing-guidelines-1i90)
-- [Hzha](https://dev.to/gchar/hzha-ccm)
-- [Switch Smarter in Java 21 -](https://dev.to/levii07/switch-smarter-in-java-21--kae)
+- [Computer Science was never about programming.](https://dev.to/fm/computer-science-was-never-about-programming-17pk)
+- [Where MCP falls short: data integration in the AI world](https://dev.to/tc87/where-mcp-falls-short-data-integration-in-the-ai-world-9aa)
+- [I Like To Make Stuff: I’ve Finally Had Success Aluminum Welding!](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-had-success-aluminum-welding-8ek)
+- [COLORS: Theo Croker - Wrapped in the Weight | A COLORS SHOW](https://dev.to/music_youtube/colors-theo-croker-wrapped-in-the-weight-a-colors-show-4mi5)
+- [Grant Horvat: The Major Cut @ Pebble Beach](https://dev.to/youtube_golf/grant-horvat-the-major-cut-pebble-beach-4nb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
