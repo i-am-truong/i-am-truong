@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/hadil/-26c3)
+- [Mastering the Digital Frontier: Best Practices for Harnessing Version Control Effectively](https://dev.to/vjnvisakh/mastering-the-digital-frontier-best-practices-for-harnessing-version-control-effectively-5an8)
+- [Injecting Toukon &lpar;Self-Mastery Spirit&rpar; into Amazon Q CLI!?](https://dev.to/torifukukaiou/injecting-toukon-self-mastery-spirit-into-amazon-q-cli-3ddb)
 - [Electrical Measurements: Common Types, Tools, and Calculations](https://dev.to/candice88771483/electrical-measurements-common-types-tools-and-calculations-2l8d)
-- [localhost:5432 - Your Gateway to PostgreSQL](https://dev.to/lightningdev123/localhost5432-your-gateway-to-postgresql-ehb)
-- [The Art of Preventing useEffect Double Execution in Strict Mode](https://dev.to/childrentime/the-art-of-preventing-useeffect-double-execution-in-strict-mode-5gce)
-- [🌐 DNS for Programmers: Everything You Need to Know &lpar;Summary&rpar;](https://dev.to/walcalonee/dns-for-programmers-everything-you-need-to-know-summary-3ed4)
-- [🚀 From Vanilla JS to Vite: Shipping Two 4IR Sites](https://dev.to/creator_x/from-vanilla-js-to-vite-shipping-two-4ir-sites-42hm)
+- [Create 3D Game Worlds with AI](https://dev.to/chiragx309/create-3d-game-worlds-with-ai-5c5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
