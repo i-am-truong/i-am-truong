@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Private Red Hat OpenShift on AWS &lpar;ROSA&rpar; Clusters](https://dev.to/sindhuja_ns_1e491ce1088d/private-red-hat-openshift-on-aws-rosa-clusters-2g8h)
-- [JavaScript is fun to learn, if you do it properly](https://dev.to/adrianjiga/javascript-is-fun-to-learn-if-you-do-it-properly-3ano)
-- [LaIALaia: Evaluation of Internal Consciousness in AI Systems](https://dev.to/gcjordi/laialaia-evaluation-of-internal-consciousness-in-ai-systems-2pga)
-- [Building a Wearable Reminder App with HarmonyOS NEXT](https://dev.to/harmonyos/building-a-wearable-reminder-app-with-harmonyos-next-14mb)
-- [Cross-Platform Web Development Without Compromise&lpar;1817&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise1817-h95)
+- [How to Convert Your API Login Helper to a Reusable Fixture in Playwright &lpar;JS Version&rpar;](https://dev.to/_codemify_b9533112d373/how-to-convert-your-api-login-helper-to-a-reusable-fixture-in-playwright-js-version-4oe)
+- [Built my own LangChain alternative for routing, analytics &amp; RAG](https://dev.to/darshan_harihar_1424b7787/built-my-own-langchain-alternative-for-routing-analytics-rag-2380)
+- [CFC: Context Flow Control – The Next Step Beyond MCP](https://dev.to/grenishrai/cfc-context-flow-control-the-next-step-beyond-mcp-1917)
+- [Rick Shiels Golf: One of the BEST USA public courses I’ve ever played!](https://dev.to/youtube_golf/rick-shiels-golf-one-of-the-best-usa-public-courses-ive-ever-played-5d0f)
+- [IGN: Henry Halfhead - Official Release Date Trailer](https://dev.to/gg_news/ign-henry-halfhead-official-release-date-trailer-1npa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
