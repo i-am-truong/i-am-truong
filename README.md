@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI at the Helm: How 2025’s Smartest Models Are Redesigning the Web and Beyond](https://dev.to/masila_paul_0746184050793/ai-at-the-helm-how-2025s-smartest-models-are-redesigning-the-web-and-beyond-5ad2)
-- [The Cost of AI’s Speed Addiction: Why Generative AI Risks Collapsing Software Engineering](https://dev.to/anas_jadoon_31/the-cost-of-ais-speed-addiction-why-generative-ai-risks-collapsing-software-engineering-199e)
-- [IoT Sensor Implementation for Candle and Offering Control in Altars](https://dev.to/jaime_smith_cfd7d9641239c/iot-sensor-implementation-for-candle-and-offering-control-in-altars-1lfj)
-- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-39j3)
-- [C# y ASP.NET Core en Linux – Solución recomendada](https://dev.to/nxhuel/c-y-aspnet-core-en-linux-solucion-recomendada-3ano)
+- [Peter Finch Golf: Scratch Golfer Vs LONGEST DIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-divers-in-the-world-peter-finch-vs-martin-borgmeier--4lgp)
+- [IGN: Woochi the Wayfarer - Official Reveal Trailer &lpar;Korean Dub&rpar;](https://dev.to/gg_news/ign-woochi-the-wayfarer-official-reveal-trailer-korean-dub-27g)
+- [IGN: Digimon Story Time Stranger - Official DigiRide Trailer](https://dev.to/gg_news/ign-digimon-story-time-stranger-official-digiride-trailer-l9h)
+- [IGN: How Invincible VS Puts Its Own Unique Mark on the Tag Fighter Genre | Evo 2025](https://dev.to/gg_news/ign-how-invincible-vs-puts-its-own-unique-mark-on-the-tag-fighter-genre-evo-2025-4mjf)
+- [My colleague did overtime for two weeks straight, here is what I told him](https://dev.to/topjer/my-colleague-did-overtime-for-two-weeks-straight-here-is-what-i-told-him-2n3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
