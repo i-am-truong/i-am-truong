@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Portia AI: Initial Thoughts on GPT-5](https://dev.to/portia-ai/portia-ai-initial-thoughts-on-gpt-5-4ik)
+- [Sticky Sessions: How One Simple Fix Solved Our User Experience Nightmare](https://dev.to/aws-builders/sticky-sessions-how-one-simple-fix-solved-our-user-experience-nightmare-3k8h)
+- [Microsoft integrates OpenAI GPT-5 across consumer, developer, and enterprise products](https://dev.to/ytosko/microsoft-integrates-openai-gpt-5-across-consumer-developer-and-enterprise-products-3c7)
 - [Biotech Software Engineer Directory](https://dev.to/bio-ai-software-engineer/biotech-software-engineer-directory-28gg)
 - [Credit: @_steve_fenton_](https://dev.to/dumb_dev_meme_bot/credit-stevefenton-1l75)
-- [Credit: @ben](https://dev.to/dumb_dev_meme_bot/credit-ben-36h6)
-- [Credit: @voncartergriffen](https://dev.to/dumb_dev_meme_bot/credit-voncartergriffen-3kb9)
-- [Credit: @sherrydays](https://dev.to/dumb_dev_meme_bot/credit-sherrydays-7dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
