@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose the Right Tech Stack for Your SaaS MVP](https://dev.to/colorwhistle_dev/how-to-choose-the-right-tech-stack-for-your-saas-mvp-42a9)
-- [Build Google Chat apps as Workspace add ons, update to Drive API, and more!](https://dev.to/googleworkspace/build-google-chat-apps-as-workspace-add-ons-update-to-drive-api-and-more-cf8)
-- [How to check your Ubuntu version &lpar;with command line and GUI&rpar;](https://dev.to/serveravatar/how-to-check-your-ubuntu-version-with-command-line-and-gui-3h53)
-- [Will Trump Tariffs Derail India’s Software Export Success?](https://dev.to/smartterss/will-trump-tariffs-derail-indias-software-export-success-3j8)
-- [React Native Web with Vite](https://dev.to/dannyhw/react-native-web-with-vite-1jg5)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;9075&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization9075-og1)
+- [[Boost]](https://dev.to/anishamalde/-3bj0)
+- [Traces at Scale: Head or Tail? Sampling Strategies &amp; Scaling the Collector](https://dev.to/taman9333/traces-at-scale-head-or-tail-sampling-strategies-scaling-the-collector-nk)
+- [How server location affects latency?](https://dev.to/serveravatar/how-server-location-affects-latency-4bg)
+- [Will Elon Musk&#39;s xAI Open Sourcing Grok 2 Chatbot Reshape AI Transparency?](https://dev.to/jovin_george_733dcfc16291/will-elon-musks-xai-open-sourcing-grok-2-chatbot-reshape-ai-transparency-3lnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
