@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EduForge: Turning Cultural Trends into Knowledge](https://dev.to/spandanm110/eduforge-turning-cultural-trends-into-knowledge-5ajm)
-- [How to setup nginx proxy?](https://dev.to/arbab529/how-to-setup-nginx-proxy-1keg)
-- [From Demos to Business Value: Taking Agents to Production with Amazon Bedrock AgentCore](https://dev.to/aws-builders/from-demos-to-business-value-taking-agents-to-production-with-amazon-bedrock-agentcore-2pdj)
-- [33ResearchLabs — Engineering the Future of Crypto, AI, and Web3](https://dev.to/33researchlabs/33researchlabs-engineering-the-future-of-crypto-ai-and-web3-3e7)
-- [Vibe Coding Is Taking Over: Here’s Why Developers Can’t Stop Talking About It](https://dev.to/richard_miller_e3d571a186/vibe-coding-is-taking-over-heres-why-developers-cant-stop-talking-about-it-29d7)
+- [Essential Programming Languages and Skills for Developers in the Future](https://dev.to/muhammadrameez/essential-programming-languages-and-skills-for-developers-in-the-future-22p9)
+- [Why Programming Fundamentals Are Crucial Before Diving Into AI](https://dev.to/bansikah/why-programming-fundamentals-are-crucial-before-diving-into-ai-3lml)
+- [How to Run Effective Meetings That Get Results](https://dev.to/fluidwave/how-to-run-effective-meetings-that-get-results-570e)
+- [Modern Server-Side Event Implementation&lpar;1088&rpar;](https://dev.to/socket-use/modern-server-side-event-implementation1088-gek)
+- [My Test Article](https://dev.to/naz_babu_d0809e4073a165fd/my-test-article-359l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
