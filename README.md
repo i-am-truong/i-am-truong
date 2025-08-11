@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;9075&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization9075-og1)
-- [[Boost]](https://dev.to/anishamalde/-3bj0)
-- [Traces at Scale: Head or Tail? Sampling Strategies &amp; Scaling the Collector](https://dev.to/taman9333/traces-at-scale-head-or-tail-sampling-strategies-scaling-the-collector-nk)
-- [How server location affects latency?](https://dev.to/serveravatar/how-server-location-affects-latency-4bg)
-- [Will Elon Musk&#39;s xAI Open Sourcing Grok 2 Chatbot Reshape AI Transparency?](https://dev.to/jovin_george_733dcfc16291/will-elon-musks-xai-open-sourcing-grok-2-chatbot-reshape-ai-transparency-3lnk)
+- [This is bad](https://dev.to/hermergray/this-is-bad-4cm1)
+- [Meme Monday](https://dev.to/ben/meme-monday-4oa5)
+- [Next.js &quot;Getting Started&quot; Stack](https://dev.to/jtakahashi0604/nextjs-getting-started-stack-4ihm)
+- [Application of Async Programming in Web Development&lpar;1222&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development1222-5gcn)
+- [Side Projects: React Digital Display - The End](https://dev.to/kamil7x/side-projects-react-digital-display-the-end-50o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
