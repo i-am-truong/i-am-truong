@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Computer Science was never about programming.](https://dev.to/fm/computer-science-was-never-about-programming-17pk)
-- [Where MCP falls short: data integration in the AI world](https://dev.to/tc87/where-mcp-falls-short-data-integration-in-the-ai-world-9aa)
-- [I Like To Make Stuff: I’ve Finally Had Success Aluminum Welding!](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-had-success-aluminum-welding-8ek)
-- [COLORS: Theo Croker - Wrapped in the Weight | A COLORS SHOW](https://dev.to/music_youtube/colors-theo-croker-wrapped-in-the-weight-a-colors-show-4mi5)
-- [Grant Horvat: The Major Cut @ Pebble Beach](https://dev.to/youtube_golf/grant-horvat-the-major-cut-pebble-beach-4nb7)
+- [How to Pretty Print JSON in Python?](https://dev.to/kiani0x01/how-to-pretty-print-json-in-python-574)
+- [What Are Python Decorators?](https://dev.to/kiani0x01/what-are-python-decorators-38h)
+- [Claude Sonnet 4 vs Kimi K2 vs Gemini 2.5 Pro: Which AI actually ships production code?](https://dev.to/forgecode/claude-sonnet-4-vs-kimi-k2-vs-gemini-25-pro-which-ai-actually-ships-production-code-4hjm)
+- [What are the differences between Python Modules and Packages?](https://dev.to/kiani0x01/what-are-the-differences-between-python-modules-and-packages-bbh)
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-5gg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
