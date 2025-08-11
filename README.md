@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Native Application and MSA](https://dev.to/juun_roh_3e5f7b7215c59f8b/cloud-native-application-and-msa-31kc)
-- [VitalSense: Real-Time Patient Triage on Redis &lpar;Streams • Search • JSON • TimeSeries&rpar;](https://dev.to/devinnicholson/vitalsense-real-time-patient-triage-on-redis-streams-search-json-timeseries-3eem)
-- [Stay ahead in web development: latest news, tools, and insights #97](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-97-42l2)
-- [&quot;Build AI Agents FAST!&quot; Zero-Shot + OpenAI](https://dev.to/moni121189/build-ai-agents-fastzero-shot-openai-102i)
-- [What Is Server Management? Key Practices and Benefits](https://dev.to/serveravatar/what-is-server-management-key-practices-and-benefits-6kh)
+- [Zero-Code Revenue Experiments with Razorpay Payment Buttons](https://dev.to/siddharth_building/zero-code-revenue-experiments-with-razorpay-payment-buttons-18j6)
+- [How to Optimize Next.js robots.txt for Better SEO](https://dev.to/serveravatar/how-to-optimize-nextjs-robotstxt-for-better-seo-2o6b)
+- [Bug Whisperer – AI-Powered Debugging with Redis](https://dev.to/aibythabasvini/bug-whisperer-ai-powered-debugging-with-redis-1f6f)
+- [Why My Best Code Started With a Conversation, Not a Commit](https://dev.to/leena_malhotra_355340d89c/why-my-best-code-started-with-a-conversation-not-a-commit-1g4j)
+- [Agent Experience &lpar;AX&rpar;: The Concept of AI Agent Designing](https://dev.to/ciphernutz/agent-experience-ax-the-concept-of-ai-agent-designing-57em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
