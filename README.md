@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;0912&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization0912-k90)
+- [The Subtle Art of Herding Cats: How I Turned Chaos Into a Repeatable Test Process &lpar;Part 3 of 4&rpar;](https://dev.to/paul_coles_633f698b10fd6e/the-subtle-art-of-herding-cats-how-i-turned-chaos-into-a-repeatable-test-process-part-3-of-4-5c2b)
+- [Building with Generative AI: Lessons from 5 Projects Part 2: Embedding](https://dev.to/index_of_zack/building-with-generative-ai-lessons-from-5-projects-part-2-embedding-4bjj)
+- [Reducing Software Testing Costs: Pareto Principle + Murphy’s Law in QA](https://dev.to/dmitrybaraishuk/reducing-software-testing-costs-pareto-principle-murphys-law-in-qa-54ag)
 - [Copilot in Azure explained](https://dev.to/techielass/copilot-in-azure-explained-2co7)
-- [GPT-5 Jailbroken in 24 Hours? Here’s Why Devs Should Care](https://dev.to/alifar/gpt-5-jailbroken-in-24-hours-heres-why-devs-should-care-408f)
-- [Is Grok 4 Really Better Than GPT-5? Elon Musk&#39;s Claim Explained](https://dev.to/jovin_george_733dcfc16291/is-grok-4-really-better-than-gpt-5-elon-musks-claim-explained-2l8j)
-- [100 Days of DevOps: Day 8](https://dev.to/wycliffealphus/100-days-of-devops-day-8-3ph3)
-- [Supply Chain Attacks](https://dev.to/godofgeeks/supply-chain-attacks-d8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
