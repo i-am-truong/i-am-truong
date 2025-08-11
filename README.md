@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Brighter V10 Release Candidate 2 - What is new?](https://dev.to/actor-dev/brighter-v10-release-candidate-v2-what-is-new-21n2)
-- [Brighter V10 RC2: Novos Recursos, Aperfeiçoamentos e Correções de Bugs](https://dev.to/actor-dev/brighter-v10-rc2-novos-recursos-aperfeicoamentos-e-correcoes-de-bugs-5cm6)
-- [TCP Optimization Techniques for Web Server Performance&lpar;8044&rpar;](https://dev.to/socket-use/tcp-optimization-techniques-for-web-server-performance8044-1pb2)
-- [HTML to PDF API Tutorial – Generate Fillable PDFs from HTML in Minutes](https://dev.to/demetrat/html-to-pdf-api-tutorial-generate-fillable-pdfs-from-html-in-minutes-129n)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;0912&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization0912-k90)
+- [How I Built an AI App Without Writing a Single Line of Code](https://dev.to/moh_bright_e478f690f4a59f/how-i-built-an-ai-app-without-writing-a-single-line-of-code-cnd)
+- [🚦Enhance Release Control with AWS CodePipeline Stage-Level Conditions](https://dev.to/latchudevops/enhance-release-control-with-aws-codepipeline-stage-level-conditions-fmj)
+- [How to use Systick to achieve microsecond &lpar;us&rpar; level delay in STM32？](https://dev.to/carolineee/how-to-use-systick-to-achieve-microsecond-us-level-delay-in-stm32-3kaj)
+- [Flutter Lesson 10: Forms and Inputs](https://dev.to/jige2025/flutter-lesson-10-forms-and-inputs-2l8a)
+- [Decorator Patterns in Go](https://dev.to/fatihimani/decorator-patterns-in-go-110b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
