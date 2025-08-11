@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvendo um Tetris em Python com PyGame: Desafios e Soluções](https://dev.to/esthevamnascimento/desenvolvendo-um-tetris-em-python-com-pygame-desafios-e-solucoes-3ini)
 - [Build Your First AI Agent in TypeScript, Mastra, and Gemini](https://dev.to/pmbanugo/build-your-first-ai-agent-in-typescript-mastra-and-gemini-64b)
 - [From CSS Modules to a Tiny Design System: Themeable Buttons in React](https://dev.to/elram_gavrieli_887f3d6046/from-css-modules-to-a-tiny-design-system-themeable-buttons-in-react-1324)
 - [Background Fixed Slider with Pure JavaScript IE9+](https://dev.to/istockmarket/background-fixed-slider-with-pure-javascript-ie9-29o)
 - [Reverse-Engineering a Solar Power Station During War: Our Survival Tech Story](https://dev.to/dmytro_novoselskiy_f6de67/reverse-engineering-a-solar-power-station-during-war-our-survival-tech-story-151i)
-- [Adam Savage&#39;s Tested: Sauron&#39;s Helmet from Lord of the Rings Has a Magical Paint Finish](https://dev.to/maker_youtube/adam-savages-tested-saurons-helmet-from-lord-of-the-rings-has-a-magical-paint-finish-2k27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
