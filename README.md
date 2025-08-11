@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best practices for Accessibility in Vue / Nuxt](https://dev.to/jacobandrewsky/best-practices-for-accessibility-in-vue-nuxt-1cga)
-- [Perl 🐪 Weekly #733 - Perl using AI](https://dev.to/szabgab/perl-weekly-733-perl-using-ai-4kp0)
-- [SQL HAVING Explained: Filter Grouped Data With Ease](https://dev.to/dbvismarketing/sql-having-explained-filter-grouped-data-with-ease-5fjd)
-- [Passing Body Data in Strapi Webhooks: Triggering GitHub Workflows Example](https://dev.to/u11d/passing-body-data-in-strapi-webhooks-triggering-github-workflows-example-43nh)
-- [Why http://10.0.2.2 Works Instead of localhost in Android Emulator &lpar;React Native + Spring Boot&rpar;](https://dev.to/sathya7032/why-http10022-works-instead-of-localhost-in-android-emulator-react-native-spring-boot-519o)
+- [Copilot in Azure explained](https://dev.to/techielass/copilot-in-azure-explained-2co7)
+- [GPT-5 Jailbroken in 24 Hours? Here’s Why Devs Should Care](https://dev.to/alifar/gpt-5-jailbroken-in-24-hours-heres-why-devs-should-care-408f)
+- [Is Grok 4 Really Better Than GPT-5? Elon Musk&#39;s Claim Explained](https://dev.to/jovin_george_733dcfc16291/is-grok-4-really-better-than-gpt-5-elon-musks-claim-explained-2l8j)
+- [100 Days of DevOps: Day 8](https://dev.to/wycliffealphus/100-days-of-devops-day-8-3ph3)
+- [Supply Chain Attacks](https://dev.to/godofgeeks/supply-chain-attacks-d8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
