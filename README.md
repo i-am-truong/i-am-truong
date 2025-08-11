@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are your favorite Anime?](https://dev.to/surajondev/what-are-your-favorite-anime-iin)
-- [Secure Web Development Practices for Business Service Companies](https://dev.to/wpweb/secure-web-development-practices-for-business-service-companies-290c)
-- [Essential Programming Languages and Skills for Developers in the Future](https://dev.to/muhammadrameez/essential-programming-languages-and-skills-for-developers-in-the-future-22p9)
-- [Why Programming Fundamentals Are Crucial Before Diving Into AI](https://dev.to/bansikah/why-programming-fundamentals-are-crucial-before-diving-into-ai-3lml)
-- [How to Run Effective Meetings That Get Results](https://dev.to/fluidwave/how-to-run-effective-meetings-that-get-results-570e)
+- [How to Choose the Right Tech Stack for Your SaaS MVP](https://dev.to/colorwhistle_dev/how-to-choose-the-right-tech-stack-for-your-saas-mvp-42a9)
+- [Build Google Chat apps as Workspace add ons, update to Drive API, and more!](https://dev.to/googleworkspace/build-google-chat-apps-as-workspace-add-ons-update-to-drive-api-and-more-cf8)
+- [How to check your Ubuntu version &lpar;with command line and GUI&rpar;](https://dev.to/serveravatar/how-to-check-your-ubuntu-version-with-command-line-and-gui-3h53)
+- [Will Trump Tariffs Derail India’s Software Export Success?](https://dev.to/smartterss/will-trump-tariffs-derail-indias-software-export-success-3j8)
+- [React Native Web with Vite](https://dev.to/dannyhw/react-native-web-with-vite-1jg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
