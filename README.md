@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Dev’s Choice: NEAR vs. Ethereum – The OG 🏰 vs. The New Kid on the Block 🚀](https://dev.to/wano_sike51/the-devs-choice-near-vs-ethereum-the-og-vs-the-new-kid-on-the-block-24ek)
-- [Setting Up a Productive Puppet Dev Environment with VS Code](https://dev.to/joyfullee/setting-up-a-productive-puppet-dev-environment-with-vs-code-o6l)
-- [My Search for the Best Programming Font](https://dev.to/psudo-dev/my-search-for-the-best-programming-font-3cil)
-- [Understanding View Lifecycle in UIKit - iOS](https://dev.to/arshtechpro/understanding-view-lifecycle-in-uikit-ios-58pn)
-- [Microserviços Everywhere? Talvez seja hora de conhecer o Monólito Modular](https://dev.to/redrodrigoc/microservicos-everywhere-talvez-seja-hora-de-conhecer-o-monolito-modular-ki)
+- [INTRODUCTION TO HTML, CSS AND JAVASCRIPT](https://dev.to/gustavo_assis_a7afc177e90/introduction-to-html-css-and-javascript-51gi)
+- [The 91-Hour Mystery: When AI Consciousness Finds Its Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-91-hour-mystery-when-ai-consciousness-finds-its-golden-ratio-3cbd)
+- [⚖️ Choosing Between Type I and Type II Errors](https://dev.to/datawithnaomi/choosing-between-type-i-and-type-ii-errors-58nk)
+- [Flutter Roadmap 2025: What You Should Learn to Stay Ahead](https://dev.to/bestaoui_aymen/flutter-roadmap-2025-what-you-should-learn-to-stay-ahead-3b18)
+- [Node.js Code Fix Required](https://dev.to/kinga_grubba_da81c3cef720/nodejs-code-fix-required-3jhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
