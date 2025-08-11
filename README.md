@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Controller Registry: adding behaviour to any HTML elements](https://dev.to/darkwiiplayer/controller-registry-adding-behaviour-to-any-html-elements-3co8)
+- [How to Develop an App for Android and iOS: Step-by-Step Guide for 2025](https://dev.to/thealgorithm/how-to-develop-an-app-for-android-and-ios-step-by-step-guide-for-2025-19ed)
 - [Missing Data in R? Complete 2025 Guide to Imputation Techniques](https://dev.to/dipti_m_2e7ba36c478d1a48a/missing-data-in-r-complete-2025-guide-to-imputation-techniques-53g8)
 - [WebGPU Engine from Scratch Part 4: Updating the Pipeline](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-4-updating-the-pipeline-374m)
 - [Test](https://dev.to/ben/test-322n)
-- [Adding Elements to Python Sets](https://dev.to/kiani0x01/adding-elements-to-python-sets-51ej)
-- [Mastering Python Context Managers](https://dev.to/kiani0x01/mastering-python-context-managers-5016)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
