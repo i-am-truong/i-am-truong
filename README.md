@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lesson 11: Advanced State Management: Provider](https://dev.to/jige2025/lesson-11-advanced-state-management-provider-528l)
+- [TIL Deferred Unique Constraint VS Unique Index](https://dev.to/epigene/til-deferred-unique-constraint-vs-unique-index-2ga5)
+- [How to Install &amp; Run GPT-OSS 20b and 120b GGUF Locally?](https://dev.to/nodeshiftcloud/how-to-install-run-gpt-oss-20b-and-120b-gguf-locally-3833)
+- [APIs, MCPs, or Both? Choosing the Right AI Integration Stack](https://dev.to/apideck/apis-mcps-or-both-choosing-the-right-ai-integration-stack-b7d)
 - [[Boost]](https://dev.to/hadil/-26c3)
-- [Mastering the Digital Frontier: Best Practices for Harnessing Version Control Effectively](https://dev.to/vjnvisakh/mastering-the-digital-frontier-best-practices-for-harnessing-version-control-effectively-5an8)
-- [Injecting Toukon &lpar;Self-Mastery Spirit&rpar; into Amazon Q CLI!?](https://dev.to/torifukukaiou/injecting-toukon-self-mastery-spirit-into-amazon-q-cli-3ddb)
-- [Electrical Measurements: Common Types, Tools, and Calculations](https://dev.to/candice88771483/electrical-measurements-common-types-tools-and-calculations-2l8d)
-- [Create 3D Game Worlds with AI](https://dev.to/chiragx309/create-3d-game-worlds-with-ai-5c5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
