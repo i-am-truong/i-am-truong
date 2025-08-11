@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Controller Registry: adding behaviour to any HTML elements](https://dev.to/darkwiiplayer/controller-registry-adding-behaviour-to-any-html-elements-3co8)
-- [How to Develop an App for Android and iOS: Step-by-Step Guide for 2025](https://dev.to/thealgorithm/how-to-develop-an-app-for-android-and-ios-step-by-step-guide-for-2025-19ed)
-- [Missing Data in R? Complete 2025 Guide to Imputation Techniques](https://dev.to/dipti_m_2e7ba36c478d1a48a/missing-data-in-r-complete-2025-guide-to-imputation-techniques-53g8)
-- [WebGPU Engine from Scratch Part 4: Updating the Pipeline](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-4-updating-the-pipeline-374m)
-- [Test](https://dev.to/ben/test-322n)
+- [AI at the Helm: How 2025’s Smartest Models Are Redesigning the Web and Beyond](https://dev.to/masila_paul_0746184050793/ai-at-the-helm-how-2025s-smartest-models-are-redesigning-the-web-and-beyond-5ad2)
+- [The Cost of AI’s Speed Addiction: Why Generative AI Risks Collapsing Software Engineering](https://dev.to/anas_jadoon_31/the-cost-of-ais-speed-addiction-why-generative-ai-risks-collapsing-software-engineering-199e)
+- [IoT Sensor Implementation for Candle and Offering Control in Altars](https://dev.to/jaime_smith_cfd7d9641239c/iot-sensor-implementation-for-candle-and-offering-control-in-altars-1lfj)
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-39j3)
+- [C# y ASP.NET Core en Linux – Solución recomendada](https://dev.to/nxhuel/c-y-aspnet-core-en-linux-solucion-recomendada-3ano)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
