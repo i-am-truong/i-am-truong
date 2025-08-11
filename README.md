@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Code Revenue Experiments with Razorpay Payment Buttons](https://dev.to/siddharth_building/zero-code-revenue-experiments-with-razorpay-payment-buttons-18j6)
-- [How to Optimize Next.js robots.txt for Better SEO](https://dev.to/serveravatar/how-to-optimize-nextjs-robotstxt-for-better-seo-2o6b)
-- [Bug Whisperer – AI-Powered Debugging with Redis](https://dev.to/aibythabasvini/bug-whisperer-ai-powered-debugging-with-redis-1f6f)
-- [Why My Best Code Started With a Conversation, Not a Commit](https://dev.to/leena_malhotra_355340d89c/why-my-best-code-started-with-a-conversation-not-a-commit-1g4j)
-- [Agent Experience &lpar;AX&rpar;: The Concept of AI Agent Designing](https://dev.to/ciphernutz/agent-experience-ax-the-concept-of-ai-agent-designing-57em)
+- [## 🧠 Solving LeetCode Until I Become Top 1% — Day `57`](https://dev.to/therealrishat/-solving-leetcode-until-i-become-top-1-day-57-2io6)
+- [High-Performance Routing System Design and Implementation&lpar;1534&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation1534-3m4k)
+- [Building an AI Wellness Coach with Redis 8: How Vector Search &amp; Semantic Caching Revolutionized My LLM App](https://dev.to/sanket80/building-an-ai-wellness-coach-with-redis-8-how-vector-search-semantic-caching-revolutionized-my-39an)
+- [Asguard – Blockchain-Powered Security &amp; Intelligence with Redis 8 AI 🛡️🤖](https://dev.to/asamaes/asguard-blockchain-powered-security-intelligence-with-redis-8-ai-48aa)
+- [Network Router Vs Layer 3 Switch, is layer 3 switch is eliminating the requirement of Network Router ?](https://dev.to/dhirendra_c8b2a40ed8cbeeb/network-router-vs-layer-3-switch-is-layer-3-switch-is-eliminating-the-requirement-of-network-ao0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
