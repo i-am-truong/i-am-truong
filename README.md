@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Brighter V10 Release Candidate 2 - What is new?](https://dev.to/actor-dev/brighter-v10-release-candidate-v2-what-is-new-21n2)
+- [Brighter V10 RC2: Novos Recursos, Aperfeiçoamentos e Correções de Bugs](https://dev.to/actor-dev/brighter-v10-rc2-novos-recursos-aperfeicoamentos-e-correcoes-de-bugs-5cm6)
+- [TCP Optimization Techniques for Web Server Performance&lpar;8044&rpar;](https://dev.to/socket-use/tcp-optimization-techniques-for-web-server-performance8044-1pb2)
+- [HTML to PDF API Tutorial – Generate Fillable PDFs from HTML in Minutes](https://dev.to/demetrat/html-to-pdf-api-tutorial-generate-fillable-pdfs-from-html-in-minutes-129n)
 - [HTTP Request Processing with Zero-Copy Optimization&lpar;0912&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization0912-k90)
-- [The Subtle Art of Herding Cats: How I Turned Chaos Into a Repeatable Test Process &lpar;Part 3 of 4&rpar;](https://dev.to/paul_coles_633f698b10fd6e/the-subtle-art-of-herding-cats-how-i-turned-chaos-into-a-repeatable-test-process-part-3-of-4-5c2b)
-- [Building with Generative AI: Lessons from 5 Projects Part 2: Embedding](https://dev.to/index_of_zack/building-with-generative-ai-lessons-from-5-projects-part-2-embedding-4bjj)
-- [Reducing Software Testing Costs: Pareto Principle + Murphy’s Law in QA](https://dev.to/dmitrybaraishuk/reducing-software-testing-costs-pareto-principle-murphys-law-in-qa-54ag)
-- [Copilot in Azure explained](https://dev.to/techielass/copilot-in-azure-explained-2co7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
