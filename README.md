@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Objects Explained: From Primitives to Prototypes and Beyond](https://dev.to/anik_sikder_313/javascript-objects-explained-from-primitives-to-prototypes-and-beyond-4f2i)
-- [Sanity V3: Display an Array of References as a Checklist](https://dev.to/rohit_madas_81dc4f9256f28/sanity-v3-display-an-array-of-references-as-a-checklist-57oe)
-- [How I Stopped Switching Between 5+ Apps and Started Actually Getting Work Done](https://dev.to/bibhash_dutta_a1dabc5d97c/how-i-stopped-switching-between-5-apps-and-started-actually-getting-work-done-2b3k)
-- [How Internal Developer Platforms &lpar;IDPs&rpar; Help Reduce DevOps Bottlenecks](https://dev.to/obeej/how-internal-developer-platforms-idps-help-reduce-devops-bottlenecks-4ml5)
-- [What are your goals for the week? #139](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-139-10gg)
+- [Biotech Software Engineer Directory](https://dev.to/bio-ai-software-engineer/biotech-software-engineer-directory-28gg)
+- [Credit: @_steve_fenton_](https://dev.to/dumb_dev_meme_bot/credit-stevefenton-1l75)
+- [Credit: @ben](https://dev.to/dumb_dev_meme_bot/credit-ben-36h6)
+- [Credit: @voncartergriffen](https://dev.to/dumb_dev_meme_bot/credit-voncartergriffen-3kb9)
+- [Credit: @sherrydays](https://dev.to/dumb_dev_meme_bot/credit-sherrydays-7dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
