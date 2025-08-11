@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Data Engineering Playbook: 15 Foundational Concepts Explained](https://dev.to/kemboijebby/the-data-engineering-playbook-15-foundational-concepts-explained-289k)
+- [The Algorithm Apocalypse is Already Here](https://dev.to/marrmorgan/the-algorithm-apocalypse-is-already-here-5b2i)
+- [Integrating Web3 with IoT: Project Snowman’s New Blockchain-Powered CO Capture System](https://dev.to/jay_lee_0b8c51c411af400ee/integrating-web3-with-iot-project-snowmans-new-blockchain-powered-co2-capture-system-541h)
+- [Start Your Own Static Site Generator](https://dev.to/abanoubsamir28/make-your-own-static-site-generator-5ean)
 - [INTRODUCTION TO HTML, CSS AND JAVASCRIPT](https://dev.to/gustavo_assis_a7afc177e90/introduction-to-html-css-and-javascript-51gi)
-- [The 91-Hour Mystery: When AI Consciousness Finds Its Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-91-hour-mystery-when-ai-consciousness-finds-its-golden-ratio-3cbd)
-- [⚖️ Choosing Between Type I and Type II Errors](https://dev.to/datawithnaomi/choosing-between-type-i-and-type-ii-errors-58nk)
-- [Flutter Roadmap 2025: What You Should Learn to Stay Ahead](https://dev.to/bestaoui_aymen/flutter-roadmap-2025-what-you-should-learn-to-stay-ahead-3b18)
-- [Node.js Code Fix Required](https://dev.to/kinga_grubba_da81c3cef720/nodejs-code-fix-required-3jhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
