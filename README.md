@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What are your favorite Anime?](https://dev.to/surajondev/what-are-your-favorite-anime-iin)
+- [Secure Web Development Practices for Business Service Companies](https://dev.to/wpweb/secure-web-development-practices-for-business-service-companies-290c)
 - [Essential Programming Languages and Skills for Developers in the Future](https://dev.to/muhammadrameez/essential-programming-languages-and-skills-for-developers-in-the-future-22p9)
 - [Why Programming Fundamentals Are Crucial Before Diving Into AI](https://dev.to/bansikah/why-programming-fundamentals-are-crucial-before-diving-into-ai-3lml)
 - [How to Run Effective Meetings That Get Results](https://dev.to/fluidwave/how-to-run-effective-meetings-that-get-results-570e)
-- [Modern Server-Side Event Implementation&lpar;1088&rpar;](https://dev.to/socket-use/modern-server-side-event-implementation1088-gek)
-- [My Test Article](https://dev.to/naz_babu_d0809e4073a165fd/my-test-article-359l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
