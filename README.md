@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [## 🧠 Solving LeetCode Until I Become Top 1% — Day `57`](https://dev.to/therealrishat/-solving-leetcode-until-i-become-top-1-day-57-2io6)
-- [High-Performance Routing System Design and Implementation&lpar;1534&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation1534-3m4k)
-- [Building an AI Wellness Coach with Redis 8: How Vector Search &amp; Semantic Caching Revolutionized My LLM App](https://dev.to/sanket80/building-an-ai-wellness-coach-with-redis-8-how-vector-search-semantic-caching-revolutionized-my-39an)
-- [Asguard – Blockchain-Powered Security &amp; Intelligence with Redis 8 AI 🛡️🤖](https://dev.to/asamaes/asguard-blockchain-powered-security-intelligence-with-redis-8-ai-48aa)
-- [Network Router Vs Layer 3 Switch, is layer 3 switch is eliminating the requirement of Network Router ?](https://dev.to/dhirendra_c8b2a40ed8cbeeb/network-router-vs-layer-3-switch-is-layer-3-switch-is-eliminating-the-requirement-of-network-ao0)
+- [Creating a CI/CD Pipeline with GitLab CI](https://dev.to/addwebsolutionpvtltd/creating-a-cicd-pipeline-with-gitlab-ci-eo)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;3685&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance3685-5ehg)
+- [Bundle Optimization](https://dev.to/juun_roh/bundle-optimization-i4a)
+- [Practice#2: COUNT DISTINCT ：A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice2-count-distinct-a-lightweight-solution-to-speed-up-queries-by-dumping-data-to-files-pja)
+- [Laravel Redis Cache Guide – Speed Up Your App in Minutes](https://dev.to/serveravatar/laravel-redis-cache-guide-speed-up-your-app-in-minutes-2k1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
