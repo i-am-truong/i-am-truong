@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Portia AI: Initial Thoughts on GPT-5](https://dev.to/portia-ai/portia-ai-initial-thoughts-on-gpt-5-4ik)
-- [Sticky Sessions: How One Simple Fix Solved Our User Experience Nightmare](https://dev.to/aws-builders/sticky-sessions-how-one-simple-fix-solved-our-user-experience-nightmare-3k8h)
-- [Microsoft integrates OpenAI GPT-5 across consumer, developer, and enterprise products](https://dev.to/ytosko/microsoft-integrates-openai-gpt-5-across-consumer-developer-and-enterprise-products-3c7)
-- [Biotech Software Engineer Directory](https://dev.to/bio-ai-software-engineer/biotech-software-engineer-directory-28gg)
-- [Credit: @_steve_fenton_](https://dev.to/dumb_dev_meme_bot/credit-stevefenton-1l75)
+- [Build Your First AI Agent in TypeScript](https://dev.to/pmbanugo/build-your-first-ai-agent-in-typescript-hbo)
+- [Validate Records in OpenSearch from a CSV &lpar;with Logging and Health Checks&rpar;](https://dev.to/vb_nair/validate-records-in-opensearch-from-a-csv-with-logging-and-health-checks-3345)
+- [Lessons from 50 Devs on Docker Hosting](https://dev.to/pavel-hostim/lessons-from-50-devs-on-docker-hosting-7jf)
+- [The Case for Apache Airflow and Kafka in Data Engineering](https://dev.to/milcah03/the-case-for-apache-airflow-and-kafka-in-data-engineering-1oj0)
+- [Snowflake RBAC 101](https://dev.to/qvfagundes/snowflake-rbac-101-lna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
