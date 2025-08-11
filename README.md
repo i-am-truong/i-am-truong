@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ASP .NET Core startup validation part 3](https://dev.to/karenpayneoregon/asp-net-core-startup-validation-part-3-jh9)
-- [Creating a Plants Vs Zombies with Redis](https://dev.to/robot254/creating-a-plants-vs-zombies-with-redis-2803)
-- [[Boost]](https://dev.to/cpazro/-3ai1)
-- [Rust Implementation for High Concurrency Processing&lpar;8466&rpar;](https://dev.to/socket-use/rust-implementation-for-high-concurrency-processing8466-3al0)
-- [Cron but with AI insights, telemetry data in one command directly from your codebase...](https://dev.to/desmondsanctity/cron-but-with-ai-insights-telemetry-data-in-one-command-directly-from-your-codebase-4dbl)
+- [React Component Design Patterns for Real-World Projects](https://dev.to/maurya-sachin/react-component-design-patterns-for-real-world-projects-5b04)
+- [A Year Late to My Own Introduction](https://dev.to/donalda/a-year-late-to-my-own-introduction-463f)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;9359&rpar;](https://dev.to/socket-use/server-side-events-implementation-for-real-time-applications9359-5gme)
+- [I made my own SourceMod](https://dev.to/cheese_king_e815378335419/i-made-my-own-sourcemod-1jje)
+- [Catch and Fix Memory Leaks in Go Like a Pro](https://dev.to/jones_charles_ad50858dbc0/catch-and-fix-memory-leaks-in-go-like-a-pro-55km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
