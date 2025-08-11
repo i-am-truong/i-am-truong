@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everyone&#39;s Sleeping on GPT-5 Mini &lpar;And It&#39;s the Only Model That Actually Matters&rpar;](https://dev.to/shayy/everyones-sleeping-on-gpt-5-mini-and-its-the-only-model-that-actually-matters-535d)
-- [10 Modern Commands for Your Terminal](https://dev.to/marcosplusplus/10-modern-commands-for-your-terminal-1dg6)
-- [10 Comandos Modernos para seu Terminal](https://dev.to/marcosplusplus/10-comandos-modernos-para-seu-terminal-5bgp)
-- [Peter Finch Golf: Scratch Golfer Vs LONGEST DIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-divers-in-the-world-peter-finch-vs-martin-borgmeier--4lgp)
-- [IGN: Woochi the Wayfarer - Official Reveal Trailer &lpar;Korean Dub&rpar;](https://dev.to/gg_news/ign-woochi-the-wayfarer-official-reveal-trailer-korean-dub-27g)
+- [Understanding View Lifecycle in UIKit - iOS](https://dev.to/arshtechpro/understanding-view-lifecycle-in-uikit-ios-58pn)
+- [Microserviços Everywhere? Talvez seja hora de conhecer o Monólito Modular](https://dev.to/redrodrigoc/microservicos-everywhere-talvez-seja-hora-de-conhecer-o-monolito-modular-ki)
+- [Deploy &amp; Secure FastAPI with Docker on DigitalOcean &lpar;Step-by-Step&rpar;](https://dev.to/lyushher/deploy-secure-fastapi-with-docker-on-digitalocean-step-by-step-10oh)
+- [The State of Frontend Development in 2025: Trends to Watch](https://dev.to/achourmeguenni/the-state-of-frontend-development-in-2025-trends-to-watch-2p)
+- [Operadores de comparação [iniciante]](https://dev.to/ricardodantasdev/operadores-de-comparacao-iniciante-3b1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
