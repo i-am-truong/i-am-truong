@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Data Engineering Playbook: 15 Foundational Concepts Explained](https://dev.to/kemboijebby/the-data-engineering-playbook-15-foundational-concepts-explained-289k)
-- [The Algorithm Apocalypse is Already Here](https://dev.to/marrmorgan/the-algorithm-apocalypse-is-already-here-5b2i)
-- [Integrating Web3 with IoT: Project Snowman’s New Blockchain-Powered CO Capture System](https://dev.to/jay_lee_0b8c51c411af400ee/integrating-web3-with-iot-project-snowmans-new-blockchain-powered-co2-capture-system-541h)
-- [Start Your Own Static Site Generator](https://dev.to/abanoubsamir28/make-your-own-static-site-generator-5ean)
-- [INTRODUCTION TO HTML, CSS AND JAVASCRIPT](https://dev.to/gustavo_assis_a7afc177e90/introduction-to-html-css-and-javascript-51gi)
+- [Adam Savage&#39;s Tested: Sauron&#39;s Helmet from Lord of the Rings Has a Magical Paint Finish](https://dev.to/maker_youtube/adam-savages-tested-saurons-helmet-from-lord-of-the-rings-has-a-magical-paint-finish-2k27)
+- [Peter Finch Golf: Scratch Golfer Vs LONGEST DRIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-drivers-in-the-world-peter-finch-vs-martin-borgmeier-4kjh)
+- [IGN: Dungeon Stalkers - Official Launch Story Trailer](https://dev.to/gg_news/ign-dungeon-stalkers-official-launch-story-trailer-1749)
+- [IGN: Don&#39;t Miss These Awesome Indie Fighting Games From Evo 2025 - Indie Game Roundup](https://dev.to/gg_news/ign-dont-miss-these-awesome-indie-fighting-games-from-evo-2025-indie-game-roundup-403i)
+- [IGN: NVIDIA RTX Remix Contest Adds Ray Tracing, DLSS, &amp; Overhauled Assets to These PC Classics](https://dev.to/gg_news/ign-nvidia-rtx-remix-contest-adds-ray-tracing-dlss-overhauled-assets-to-these-pc-classics-8l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
