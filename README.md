@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Stack for Solo Developers: Build an Entire Startup with These Tools](https://dev.to/mr_nova/ai-stack-for-solo-developers-build-an-entire-startup-with-these-tools-3en0)
-- [Application of Async Programming in Web Development&lpar;2861&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development2861-li2)
-- [Kickstarting Your Week as a Developer: 5 Micro-Habits That Actually Work](https://dev.to/vadym_info_polus/kickstarting-your-week-as-a-developer-5-micro-habits-that-actually-work-3opa)
-- [Thinking Clearly in Code: What Works for Me](https://dev.to/puritanic/thinking-clearly-in-code-what-works-for-me-44ao)
-- [WTF is Omnichannel Development?](https://dev.to/dailybugle33/wtf-is-omnichannel-development-2ei4)
+- [localhost:5432 - Your Gateway to PostgreSQL](https://dev.to/lightningdev123/localhost5432-your-gateway-to-postgresql-ehb)
+- [The Art of Preventing useEffect Double Execution in Strict Mode](https://dev.to/childrentime/the-art-of-preventing-useeffect-double-execution-in-strict-mode-5gce)
+- [🌐 DNS for Programmers: Everything You Need to Know &lpar;Summary&rpar;](https://dev.to/walcalonee/dns-for-programmers-everything-you-need-to-know-summary-3ed4)
+- [🚀 From Vanilla JS to Vite: Shipping Two 4IR Sites](https://dev.to/creator_x/from-vanilla-js-to-vite-shipping-two-4ir-sites-42hm)
+- [How to Create Action Items from Feedback Without Wasting Time](https://dev.to/usamakashif/how-to-create-action-items-from-feedback-without-wasting-time-1k9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
