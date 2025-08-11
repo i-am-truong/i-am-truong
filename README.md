@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Object-Oriented Programming Features in JavaScript](https://dev.to/lovestaco/understanding-object-oriented-programming-features-in-javascript-1472)
+- [MY FIRST EC2 PROJECT:Hosting a website on Aws as a beginner](https://dev.to/goldenboy58/my-first-ec2-projecthosting-a-website-on-aws-as-a-beginner-5h5o)
+- [The AI Code Generation Security Crisis &lpar;And How We&#39;re Failing to Address It&rpar;](https://dev.to/metaclosure/the-ai-code-generation-security-crisis-and-how-were-failing-to-address-it-3a0g)
 - [Errors V/s Exceptions In Java:](https://dev.to/sundar_joseph_94059a3e7a6/errors-vs-exceptions-in-java-2mdf)
 - [The Secret Behind __proto__ and prototype in JavaScript &lpar;That Nobody Told You Clearly Before&rpar;](https://dev.to/codemind/the-secret-behind-proto-and-prototype-in-javascript-that-nobody-told-you-clearly-before-24h9)
-- [Building an AI Therapy App with Next.js, Better Auth, and Railway](https://dev.to/vtdeveloper/building-an-ai-therapy-app-with-nextjs-better-auth-and-railway-a-complete-template-a43)
-- [I Challenged Myself To Use The Hardest Editor](https://dev.to/branden-hernandez/i-challenged-myself-to-use-the-hardest-editor-239h)
-- [How to Implement a REST Catalog for Apache Iceberg](https://dev.to/datastrato/how-to-implement-a-rest-catalog-for-apache-iceberg-1end)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
