@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This is bad](https://dev.to/hermergray/this-is-bad-4cm1)
-- [Meme Monday](https://dev.to/ben/meme-monday-4oa5)
-- [Next.js &quot;Getting Started&quot; Stack](https://dev.to/jtakahashi0604/nextjs-getting-started-stack-4ihm)
-- [Application of Async Programming in Web Development&lpar;1222&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development1222-5gcn)
-- [Side Projects: React Digital Display - The End](https://dev.to/kamil7x/side-projects-react-digital-display-the-end-50o0)
+- [Private Red Hat OpenShift on AWS &lpar;ROSA&rpar; Clusters](https://dev.to/sindhuja_ns_1e491ce1088d/private-red-hat-openshift-on-aws-rosa-clusters-2g8h)
+- [JavaScript is fun to learn, if you do it properly](https://dev.to/adrianjiga/javascript-is-fun-to-learn-if-you-do-it-properly-3ano)
+- [LaIALaia: Evaluation of Internal Consciousness in AI Systems](https://dev.to/gcjordi/laialaia-evaluation-of-internal-consciousness-in-ai-systems-2pga)
+- [Building a Wearable Reminder App with HarmonyOS NEXT](https://dev.to/harmonyos/building-a-wearable-reminder-app-with-harmonyos-next-14mb)
+- [Cross-Platform Web Development Without Compromise&lpar;1817&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise1817-h95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
