@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Home Assistant: Integrating Raspberry Pico Boards](https://dev.to/admantium/home-assistant-integrating-raspberry-pico-boards-29n1)
-- [Vertalk — Real-Time AI Call Agent Powered by Redis 8](https://dev.to/voprp/vertalk-real-time-ai-call-agent-powered-by-redis-8-59b3)
-- [5 Translation Management Tips for Better Efficiency](https://dev.to/colinreed/5-translation-management-tips-for-better-efficiency-462g)
-- [PickPerfect - An AI powered recommendation engine](https://dev.to/better-boy/pickperfect-an-ai-powered-recommendation-engine-1o43)
-- [Breaking the QA Sound Barrier: How Continuous Testing Is Redefining Speed and Quality](https://dev.to/vaibhavkuls/breaking-the-qa-sound-barrier-how-continuous-testing-is-redefining-speed-and-quality-4hf5)
+- [Cloud Native Application and MSA](https://dev.to/juun_roh_3e5f7b7215c59f8b/cloud-native-application-and-msa-31kc)
+- [VitalSense: Real-Time Patient Triage on Redis &lpar;Streams • Search • JSON • TimeSeries&rpar;](https://dev.to/devinnicholson/vitalsense-real-time-patient-triage-on-redis-streams-search-json-timeseries-3eem)
+- [Stay ahead in web development: latest news, tools, and insights #97](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-97-42l2)
+- [&quot;Build AI Agents FAST!&quot; Zero-Shot + OpenAI](https://dev.to/moni121189/build-ai-agents-fastzero-shot-openai-102i)
+- [What Is Server Management? Key Practices and Benefits](https://dev.to/serveravatar/what-is-server-management-key-practices-and-benefits-6kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
