@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Productivity Boost Your Productivity with an Online Text Case Converter](https://dev.to/zulnourain_muhammad_4026c/boost-your-productivity-boost-your-productivity-with-an-online-text-case-converter-2c45)
-- [Why I Keep Choosing Next.js — and What It’s Taught Me](https://dev.to/idioseph/why-i-keep-choosing-nextjs-and-what-its-taught-me-24dj)
-- [How to Increase upload_max_filesize in PHP](https://dev.to/serveravatar/how-to-increase-uploadmaxfilesize-in-php-43aj)
-- [Unlocking the Future of Cloud Efficiency: Quantum Machine Learning for Data Center Optimization](https://dev.to/ummaryasir/unlocking-the-future-of-cloud-efficiency-quantum-machine-learning-for-data-center-optimization-5cef)
-- [Asynchronous Programming Patterns for Web Development&lpar;3089&rpar;](https://dev.to/socket-use/asynchronous-programming-patterns-for-web-development3089-77n)
+- [EduForge: Turning Cultural Trends into Knowledge](https://dev.to/spandanm110/eduforge-turning-cultural-trends-into-knowledge-5ajm)
+- [How to setup nginx proxy?](https://dev.to/arbab529/how-to-setup-nginx-proxy-1keg)
+- [From Demos to Business Value: Taking Agents to Production with Amazon Bedrock AgentCore](https://dev.to/aws-builders/from-demos-to-business-value-taking-agents-to-production-with-amazon-bedrock-agentcore-2pdj)
+- [33ResearchLabs — Engineering the Future of Crypto, AI, and Web3](https://dev.to/33researchlabs/33researchlabs-engineering-the-future-of-crypto-ai-and-web3-3e7)
+- [Vibe Coding Is Taking Over: Here’s Why Developers Can’t Stop Talking About It](https://dev.to/richard_miller_e3d571a186/vibe-coding-is-taking-over-heres-why-developers-cant-stop-talking-about-it-29d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
