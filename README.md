@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lesson 11: Advanced State Management: Provider](https://dev.to/jige2025/lesson-11-advanced-state-management-provider-528l)
-- [TIL Deferred Unique Constraint VS Unique Index](https://dev.to/epigene/til-deferred-unique-constraint-vs-unique-index-2ga5)
-- [How to Install &amp; Run GPT-OSS 20b and 120b GGUF Locally?](https://dev.to/nodeshiftcloud/how-to-install-run-gpt-oss-20b-and-120b-gguf-locally-3833)
-- [APIs, MCPs, or Both? Choosing the Right AI Integration Stack](https://dev.to/apideck/apis-mcps-or-both-choosing-the-right-ai-integration-stack-b7d)
-- [[Boost]](https://dev.to/hadil/-26c3)
+- [Boost Your Productivity Boost Your Productivity with an Online Text Case Converter](https://dev.to/zulnourain_muhammad_4026c/boost-your-productivity-boost-your-productivity-with-an-online-text-case-converter-2c45)
+- [Why I Keep Choosing Next.js — and What It’s Taught Me](https://dev.to/idioseph/why-i-keep-choosing-nextjs-and-what-its-taught-me-24dj)
+- [How to Increase upload_max_filesize in PHP](https://dev.to/serveravatar/how-to-increase-uploadmaxfilesize-in-php-43aj)
+- [Unlocking the Future of Cloud Efficiency: Quantum Machine Learning for Data Center Optimization](https://dev.to/ummaryasir/unlocking-the-future-of-cloud-efficiency-quantum-machine-learning-for-data-center-optimization-5cef)
+- [Asynchronous Programming Patterns for Web Development&lpar;3089&rpar;](https://dev.to/socket-use/asynchronous-programming-patterns-for-web-development3089-77n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
