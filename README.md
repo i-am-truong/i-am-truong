@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ACPI, and why I hate intel for making it](https://dev.to/thatosdeveloper/acpi-and-why-i-hate-intel-for-making-it-33j0)
-- [🚪 React Portals — Render Components Outside the Main DOM Hierarchy](https://dev.to/aman_kureshi_/react-portals-render-components-outside-the-main-dom-hierarchy-15n4)
-- [AI emails digest](https://dev.to/vendkura/ai-emails-digest-29al)
-- [Creating an Amazon Bedrock Nova Canvas MCP Server and Claude Desktop Integration](https://dev.to/aws-builders/creating-an-amazon-bedrock-nova-canvas-mcp-server-and-claude-desktop-integration-2ina)
-- [2. Spread Operator](https://dev.to/devrajsawant/2-spread-operator-4bp1)
+- [[Boost]](https://dev.to/ben/-5bjb)
+- [PowerShell on Windows 11 Home: How to cap Display/Sleep/Hibernate at 5 minutes &lpar;300 s&rpar; regardless of user changes?](https://dev.to/teoman_egeselcuk_d962da6/title-powershell-on-windows-11-home-how-to-cap-displaysleephibernate-at-5-minutes-300-s-7ag)
+- [PostgreSQL Performance: Essential Indexing Guidelines](https://dev.to/shrsv/postgresql-performance-essential-indexing-guidelines-1i90)
+- [Hzha](https://dev.to/gchar/hzha-ccm)
+- [Switch Smarter in Java 21 -](https://dev.to/levii07/switch-smarter-in-java-21--kae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
