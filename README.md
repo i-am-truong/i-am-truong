@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Dev’s Choice: NEAR vs. Ethereum – The OG 🏰 vs. The New Kid on the Block 🚀](https://dev.to/wano_sike51/the-devs-choice-near-vs-ethereum-the-og-vs-the-new-kid-on-the-block-24ek)
+- [Setting Up a Productive Puppet Dev Environment with VS Code](https://dev.to/joyfullee/setting-up-a-productive-puppet-dev-environment-with-vs-code-o6l)
+- [My Search for the Best Programming Font](https://dev.to/psudo-dev/my-search-for-the-best-programming-font-3cil)
 - [Understanding View Lifecycle in UIKit - iOS](https://dev.to/arshtechpro/understanding-view-lifecycle-in-uikit-ios-58pn)
 - [Microserviços Everywhere? Talvez seja hora de conhecer o Monólito Modular](https://dev.to/redrodrigoc/microservicos-everywhere-talvez-seja-hora-de-conhecer-o-monolito-modular-ki)
-- [Deploy &amp; Secure FastAPI with Docker on DigitalOcean &lpar;Step-by-Step&rpar;](https://dev.to/lyushher/deploy-secure-fastapi-with-docker-on-digitalocean-step-by-step-10oh)
-- [The State of Frontend Development in 2025: Trends to Watch](https://dev.to/achourmeguenni/the-state-of-frontend-development-in-2025-trends-to-watch-2p)
-- [Operadores de comparação [iniciante]](https://dev.to/ricardodantasdev/operadores-de-comparacao-iniciante-3b1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
