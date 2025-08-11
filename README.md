@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI](https://dev.to/1075213/generative-ai-11i)
-- [Checkout my latest blog! I explained how to design better hero sections and transform your boring hero section into a HeroMaxxed one.](https://dev.to/developeratul/checkout-my-latest-blog-i-explained-how-to-design-better-hero-sections-and-transform-your-boring-4e8)
-- [HTB - Bastion &lpar;Windows&rpar;](https://dev.to/sonyahack1/htb-bastion-windows-34ie)
-- [How to Handle Different Measurement Systems in Your Applications](https://dev.to/srawlins/how-to-handle-different-measurement-systems-in-your-applications-2bgm)
-- [🧬 Predicting Cancer Cells with Machine Learning: My Internship Project](https://dev.to/manognya_l_4c9cee046e761/predicting-cancer-cells-with-machine-learning-my-internship-project-1ll8)
+- [Errors V/s Exceptions In Java:](https://dev.to/sundar_joseph_94059a3e7a6/errors-vs-exceptions-in-java-2mdf)
+- [The Secret Behind __proto__ and prototype in JavaScript &lpar;That Nobody Told You Clearly Before&rpar;](https://dev.to/codemind/the-secret-behind-proto-and-prototype-in-javascript-that-nobody-told-you-clearly-before-24h9)
+- [Building an AI Therapy App with Next.js, Better Auth, and Railway](https://dev.to/vtdeveloper/building-an-ai-therapy-app-with-nextjs-better-auth-and-railway-a-complete-template-a43)
+- [I Challenged Myself To Use The Hardest Editor](https://dev.to/branden-hernandez/i-challenged-myself-to-use-the-hardest-editor-239h)
+- [How to Implement a REST Catalog for Apache Iceberg](https://dev.to/datastrato/how-to-implement-a-rest-catalog-for-apache-iceberg-1end)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
