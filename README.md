@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Your API Login Helper to a Reusable Fixture in Playwright &lpar;JS Version&rpar;](https://dev.to/_codemify_b9533112d373/how-to-convert-your-api-login-helper-to-a-reusable-fixture-in-playwright-js-version-4oe)
-- [Built my own LangChain alternative for routing, analytics &amp; RAG](https://dev.to/darshan_harihar_1424b7787/built-my-own-langchain-alternative-for-routing-analytics-rag-2380)
-- [CFC: Context Flow Control – The Next Step Beyond MCP](https://dev.to/grenishrai/cfc-context-flow-control-the-next-step-beyond-mcp-1917)
-- [Rick Shiels Golf: One of the BEST USA public courses I’ve ever played!](https://dev.to/youtube_golf/rick-shiels-golf-one-of-the-best-usa-public-courses-ive-ever-played-5d0f)
-- [IGN: Henry Halfhead - Official Release Date Trailer](https://dev.to/gg_news/ign-henry-halfhead-official-release-date-trailer-1npa)
+- [JavaScript Objects Explained: From Primitives to Prototypes and Beyond](https://dev.to/anik_sikder_313/javascript-objects-explained-from-primitives-to-prototypes-and-beyond-4f2i)
+- [Sanity V3: Display an Array of References as a Checklist](https://dev.to/rohit_madas_81dc4f9256f28/sanity-v3-display-an-array-of-references-as-a-checklist-57oe)
+- [How I Stopped Switching Between 5+ Apps and Started Actually Getting Work Done](https://dev.to/bibhash_dutta_a1dabc5d97c/how-i-stopped-switching-between-5-apps-and-started-actually-getting-work-done-2b3k)
+- [How Internal Developer Platforms &lpar;IDPs&rpar; Help Reduce DevOps Bottlenecks](https://dev.to/obeej/how-internal-developer-platforms-idps-help-reduce-devops-bottlenecks-4ml5)
+- [What are your goals for the week? #139](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-139-10gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
