@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI App Without Writing a Single Line of Code](https://dev.to/moh_bright_e478f690f4a59f/how-i-built-an-ai-app-without-writing-a-single-line-of-code-cnd)
-- [🚦Enhance Release Control with AWS CodePipeline Stage-Level Conditions](https://dev.to/latchudevops/enhance-release-control-with-aws-codepipeline-stage-level-conditions-fmj)
-- [How to use Systick to achieve microsecond &lpar;us&rpar; level delay in STM32？](https://dev.to/carolineee/how-to-use-systick-to-achieve-microsecond-us-level-delay-in-stm32-3kaj)
-- [Flutter Lesson 10: Forms and Inputs](https://dev.to/jige2025/flutter-lesson-10-forms-and-inputs-2l8a)
-- [Decorator Patterns in Go](https://dev.to/fatihimani/decorator-patterns-in-go-110b)
+- [AI Stack for Solo Developers: Build an Entire Startup with These Tools](https://dev.to/mr_nova/ai-stack-for-solo-developers-build-an-entire-startup-with-these-tools-3en0)
+- [Application of Async Programming in Web Development&lpar;2861&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development2861-li2)
+- [Kickstarting Your Week as a Developer: 5 Micro-Habits That Actually Work](https://dev.to/vadym_info_polus/kickstarting-your-week-as-a-developer-5-micro-habits-that-actually-work-3opa)
+- [Thinking Clearly in Code: What Works for Me](https://dev.to/puritanic/thinking-clearly-in-code-what-works-for-me-44ao)
+- [WTF is Omnichannel Development?](https://dev.to/dailybugle33/wtf-is-omnichannel-development-2ei4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
