@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/thestudentship/-2c6e)
-- [Build Your First AI Agent in TypeScript](https://dev.to/pmbanugo/build-your-first-ai-agent-in-typescript-hbo)
-- [Validate Records in OpenSearch from a CSV &lpar;with Logging and Health Checks&rpar;](https://dev.to/vb_nair/validate-records-in-opensearch-from-a-csv-with-logging-and-health-checks-3345)
-- [Lessons from 50 Devs on Docker Hosting](https://dev.to/pavel-hostim/lessons-from-50-devs-on-docker-hosting-7jf)
-- [The Case for Apache Airflow and Kafka in Data Engineering](https://dev.to/milcah03/the-case-for-apache-airflow-and-kafka-in-data-engineering-1oj0)
+- [Generative AI](https://dev.to/1075213/generative-ai-11i)
+- [Checkout my latest blog! I explained how to design better hero sections and transform your boring hero section into a HeroMaxxed one.](https://dev.to/developeratul/checkout-my-latest-blog-i-explained-how-to-design-better-hero-sections-and-transform-your-boring-4e8)
+- [HTB - Bastion &lpar;Windows&rpar;](https://dev.to/sonyahack1/htb-bastion-windows-34ie)
+- [How to Handle Different Measurement Systems in Your Applications](https://dev.to/srawlins/how-to-handle-different-measurement-systems-in-your-applications-2bgm)
+- [🧬 Predicting Cancer Cells with Machine Learning: My Internship Project](https://dev.to/manognya_l_4c9cee046e761/predicting-cancer-cells-with-machine-learning-my-internship-project-1ll8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
