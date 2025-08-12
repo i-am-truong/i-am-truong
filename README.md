@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying an HTML‑to‑PDF API on Vercel with Puppeteer](https://dev.to/ivanalemunioz/deploying-an-html-to-pdf-api-on-vercel-with-puppeteer-2jp9)
-- [Spring Boot Logging to File with Pattern Layout, Package-specific Levels, and Rolling Policies](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-logging-to-file-with-pattern-layout-package-specific-levels-and-rolling-policies-e4a)
-- [The Dark Side of Vibe-Coding: Debugging, Technical Debt &amp; Security Risks](https://dev.to/arbisoftcompany/the-dark-side-of-vibe-coding-debugging-technical-debt-security-risks-9ef)
-- [AI Business Landing Page | GSAP &amp; Tailwind](https://dev.to/devmastermind/ai-business-landing-page-gsap-tailwind-44og)
-- [🚀 Vonage Developer Newsletter, July 2025: RCS, AI, and Network APIs!](https://dev.to/vonagedev/vonage-developer-newsletter-july-2025-rcs-ai-and-network-apis-ed0)
+- [From Zero to Dev Hero: A Beginner’s Guide to Modern Programming Languages](https://dev.to/mariecolvinn/from-zero-to-dev-hero-a-beginners-guide-to-modern-programming-languages-24j6)
+- [Advanced Contract Patterns and Testing Strategies for AI-Safe Development](https://dev.to/metaclosure/advanced-contract-patterns-and-testing-strategies-for-ai-safe-development-14p7)
+- [The World of Auto Scaling: What Really Happens Behind the Scenes](https://dev.to/stefanie-a/the-world-of-auto-scaling-what-really-happens-behind-the-scenes-4k78)
+- [Building a Bulletproof Next.js User Management System with Contract Programming](https://dev.to/metaclosure/building-a-bulletproof-nextjs-user-management-system-with-contract-programming-36cd)
+- [How to avoid ghost lines and render artifacts in Flame](https://dev.to/blue-fire/how-to-avoid-ghost-lines-and-render-artifacts-in-flame-4hfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
