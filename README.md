@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Web Server Security on Linux with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/mastering-web-server-security-on-linux-with-safeline-waf-24em)
-- [Ever wondered how Amazon or Flipkart handles millions of orders in a single day? Here’s the system design magic behind Black Friday &amp; Big Billion Day.](https://dev.to/ravikantshukla/ever-wondered-how-amazon-or-flipkart-handles-millions-of-orders-in-a-single-day-heres-the-system-5d6g)
-- [🦀 Rust for Beginners: Going Beyond &quot;Hello, World!&quot; &lpar;Formatting &amp; Debugging Basics&rpar;](https://dev.to/vinecksie_50/rust-for-beginners-going-beyond-hello-world-formatting-debugging-basics-58e0)
-- [MongoDB Replica Set Compose OS independent](https://dev.to/user_10d6776b9ce140/mongodb-replica-set-compose-os-independent-1p8h)
-- [Scaling for Surges: How E-Commerce Giants Handle Black Friday &amp; Big Billion Day Traffic](https://dev.to/ravikantshukla/scaling-for-surges-how-e-commerce-giants-handle-black-friday-big-billion-day-traffic-32o4)
+- [Amanat Man – Simplifying Small Payments](https://dev.to/amanatmann/amanat-man-simplifying-small-payments-5ek0)
+- [Best 5 DeepAI Alternatives: New Options for AI Image Generation](https://dev.to/amber_030/best-5-deepai-alternatives-new-options-for-ai-image-generation-4h0m)
+- [Svelte + Flexmonster Pivot Pivot: Building an Interactive Dashboard of World Happiness](https://dev.to/daria_filozop_bfe6aa68940/svelte-flexmonster-pivot-pivot-building-an-interactive-dashboard-of-world-happiness-5344)
+- [mimic 👓 &lpar;Api gateway + Lambda + Dynamo&rpar; en golang](https://dev.to/aws-espanol/mimic-api-gateway-lambda-dynamo-en-golang-3m9g)
+- [How I Organize My Microsoft Teams Chats &lpar;Without Losing My Mind&rpar;](https://dev.to/this-is-learning/how-i-organize-my-microsoft-teams-chats-without-losing-my-mind-2hbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
