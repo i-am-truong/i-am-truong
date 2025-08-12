@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Storage Devices; Trends and Innovations for 2025 and Beyond](https://dev.to/michael_withrow_7a6966755/the-future-of-storage-devices-trends-and-innovations-for-2025-and-beyond-118k)
+- [The hidden cost of evaluation loops](https://dev.to/vrinda_damani/the-hidden-cost-of-evaluation-loops-34ha)
 - [Adam Savage&#39;s Tested: How to Prepare a Space Shuttle Engine for Display at Smithsonian! &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-how-to-prepare-a-space-shuttle-engine-for-display-at-smithsonian-at-2aap)
 - [KEXP: Cumulus - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-full-performance-live-on-kexp-12ni)
 - [No Laying Up Podcast: Ryder Cup Roundtable | NLU Pod, Ep 1055](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-roundtable-nlu-pod-ep-1055-bln)
-- [Rick Shiels Golf: This works 74.3% of the time!](https://dev.to/youtube_golf/rick-shiels-golf-this-works-743-of-the-time-1ckg)
-- [IGN: Hell is Us - Official Console and PC Demo Trailer](https://dev.to/gg_news/ign-hell-is-us-official-console-and-pc-demo-trailer-3gj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
