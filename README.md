@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SuperOptiX Memory: A Practical Guide for Building Agents That Remember](https://dev.to/shashikant86/superoptix-memory-a-practical-guide-for-building-agents-that-remember-40a7)
-- [Building an AI Health Data Marketplace: Revolutionizing Healthcare with Data-Driven Insights](https://dev.to/mitchell_idusher/building-an-ai-health-data-marketplace-revolutionizing-healthcare-with-data-driven-insights-49nd)
-- [How to Deploy a Frontend App to Vercel Using Jenkins](https://dev.to/ephraimx/how-to-deploy-a-frontend-app-to-vercel-using-jenkins-40aa)
-- [🚀 Why Slow Websites Are Silent Business Killers &lpar;and How to Fix Yours&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/why-slow-websites-are-silent-business-killers-and-how-to-fix-yours-4dm)
-- [How to Deploy a Python Backend to Fly.io Using Jenkins](https://dev.to/ephraimx/how-to-deploy-a-python-backend-to-flyio-using-jenkins-1lh7)
+- [Mastering Web Server Security on Linux with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/mastering-web-server-security-on-linux-with-safeline-waf-24em)
+- [Ever wondered how Amazon or Flipkart handles millions of orders in a single day? Here’s the system design magic behind Black Friday &amp; Big Billion Day.](https://dev.to/ravikantshukla/ever-wondered-how-amazon-or-flipkart-handles-millions-of-orders-in-a-single-day-heres-the-system-5d6g)
+- [🦀 Rust for Beginners: Going Beyond &quot;Hello, World!&quot; &lpar;Formatting &amp; Debugging Basics&rpar;](https://dev.to/vinecksie_50/rust-for-beginners-going-beyond-hello-world-formatting-debugging-basics-58e0)
+- [MongoDB Replica Set Compose OS independent](https://dev.to/user_10d6776b9ce140/mongodb-replica-set-compose-os-independent-1p8h)
+- [Scaling for Surges: How E-Commerce Giants Handle Black Friday &amp; Big Billion Day Traffic](https://dev.to/ravikantshukla/scaling-for-surges-how-e-commerce-giants-handle-black-friday-big-billion-day-traffic-32o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
