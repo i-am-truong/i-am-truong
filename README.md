@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [All work and no play makes Cursor a dull boy](https://dev.to/ben/all-work-and-no-play-makes-cursor-a-dull-boy-536f)
-- [The Solo Developer&#39;s Goldmine: How to Build a $10K/Month Business in 2025](https://dev.to/raksbisht/the-solo-developers-goldmine-how-to-build-a-10kmonth-business-in-2025-4j89)
-- [Mastering LAG and LEAD in SQL Server](https://dev.to/morteza-jangjoo/mastering-lag-and-lead-in-sql-server-1ng9)
-- [Copilot 365 no Outlook: e-mails prontos com contexto real](https://dev.to/angelo_matias/copilot-365-no-outlook-e-mails-prontos-com-contexto-real-5hjp)
-- [Dev Log 03](https://dev.to/asx/dev-log-03-5gpc)
+- [Bryan Bros Golf: Can We Make Major Cut @ Pebble Beach?!](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-major-cut-pebble-beach-79n)
+- [Rick Shiels Golf: Can’t believe this is a public golf course](https://dev.to/youtube_golf/rick-shiels-golf-cant-believe-this-is-a-public-golf-course-2528)
+- [IGN: Echoes of the End - Official Launch Trailer](https://dev.to/gg_news/ign-echoes-of-the-end-official-launch-trailer-44bi)
+- [IGN: Sausage Party: Foodtopia, Season 2 - Exclusive Clip &lpar;2025&rpar; Michael Cera, Marion Cotillard](https://dev.to/gg_news/ign-sausage-party-foodtopia-season-2-exclusive-clip-2025-michael-cera-marion-cotillard-dc9)
+- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-2046)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
