@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HarmonyOS Next: Building Persistent Tabs Using the Navigation Component](https://dev.to/harmonyos/harmonyos-next-building-persistent-tabs-using-the-navigation-component-aa6)
+- [Opportunity for Japanese Builders: Join Protocol Camp 2025 Web3 Bootcamp](https://dev.to/kpcho/opportunity-for-japanese-builders-join-protocol-camp-2025-web3-bootcamp-1jkk)
+- [How We Approach Building a Modern Hotel Management System &lpar;HMS&rpar;](https://dev.to/inna_lebedeva_36049c4f899/how-we-approach-building-a-modern-hotel-management-system-hms-29jm)
 - [How to Automatically Email Daily Quotes Using GitHub Actions](https://dev.to/ijay/how-to-automatically-email-daily-quotes-using-github-actions-2lin)
-- [[Boost]](https://dev.to/amritapadhy/-4nli)
-- [My Personal Experience with the “Changing from Uncontrolled input to Controlled” Error](https://dev.to/amritapadhy/my-personal-experience-with-the-changing-from-uncontrolled-input-to-controlled-error-1cp0)
-- [The Future Isn&#39;t Model Agnostic](https://dev.to/flyio/the-future-isnt-model-agnostic-447k)
-- [Understanding the security landscape of MCP](https://dev.to/apideck/understanding-the-security-landscape-of-mcp-216e)
+- [🌐 learn.next-intl.dev is live!](https://dev.to/amannn/learnnext-intldev-is-live-eep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
