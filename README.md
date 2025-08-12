@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Robust Form Validation in Angular with Custom Validators](https://dev.to/ussdlover/building-robust-form-validation-in-angular-with-custom-validators-2605)
+- [Bash commands for AWS Cloud engineers](https://dev.to/zach_beecher_21697f48de3c/bash-commands-for-aws-cloud-engineers-351k)
+- [Beginner](https://dev.to/savannah_rice_9dbc5d3e496/beginner-3fce)
 - [Why I built Typist - lightning-fast AI audio transcription app](https://dev.to/alexanderzuev/why-i-built-typist-lightning-fast-ai-audio-transcription-app-1gh4)
-- [The AI Plateau: Why the Next Big Leap Isn’t in the Models](https://dev.to/doozieakshay/the-ai-plateau-why-the-next-big-leap-isnt-in-the-models-2p4f)
-- [Day 1 - The Start of My ML + MLOps/LLM Journey](https://dev.to/satyam_mistari1405/day-1-the-start-of-my-ml-mlopsllm-journey-231o)
-- [Lambda functions!](https://dev.to/tangerinetrain/lambda-functions-3387)
-- [Smooth UI Updates in React 19 with `useTransition`: A Simple Example](https://dev.to/arafatruetbd/smooth-ui-updates-in-react-19-with-usetransition-a-simple-example-4ild)
+- [Day 13 of #30DaysOfCode](https://dev.to/justacoder_0x/day-13-of-30daysofcode-1n0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
