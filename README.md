@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ever notice your AWS CDK stacks start to look… the same?](https://dev.to/pixeltoprod/ever-notice-your-aws-cdk-stacks-start-to-look-the-same-1bfe)
-- [💡 The Ultimate 2025 AI Cheat Sheet: Top LLMs &amp; Generative AI Tools You Can’t Ignore 🚀](https://dev.to/wahidanon/the-ultimate-2025-ai-cheat-sheet-top-llms-generative-ai-tools-you-cant-ignore-5aeo)
-- [My Story of Working Two Full-Time Developer Jobs at Once](https://dev.to/thetechpreneur/my-story-of-working-two-full-time-developer-jobs-at-once-2fai)
-- [MY FIRST EC2 PROJECT:Hosting a website on Aws as a beginner](https://dev.to/ekireghwo/my-first-ec2-projecthosting-a-website-on-aws-as-a-beginner-2aj8)
-- [How I Used Claude to Create and Assign Issues in Linear](https://dev.to/composiodev/how-i-used-claude-to-create-and-assign-issues-in-linear-4lgd)
+- [All work and no play makes Cursor a dull boy](https://dev.to/ben/all-work-and-no-play-makes-cursor-a-dull-boy-536f)
+- [The Solo Developer&#39;s Goldmine: How to Build a $10K/Month Business in 2025](https://dev.to/raksbisht/the-solo-developers-goldmine-how-to-build-a-10kmonth-business-in-2025-4j89)
+- [Mastering LAG and LEAD in SQL Server](https://dev.to/morteza-jangjoo/mastering-lag-and-lead-in-sql-server-1ng9)
+- [Copilot 365 no Outlook: e-mails prontos com contexto real](https://dev.to/angelo_matias/copilot-365-no-outlook-e-mails-prontos-com-contexto-real-5hjp)
+- [Dev Log 03](https://dev.to/asx/dev-log-03-5gpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
