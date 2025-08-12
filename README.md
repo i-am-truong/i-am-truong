@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Not Mandatory in MVC](https://dev.to/elanatframework/not-mandatory-in-mvc-1n7o)
 - [API calls and Testing](https://dev.to/tangerinetrain/api-calls-and-testing-2def)
 - [Rethinking the Test Pyramid: A Balanced View from Code to Customer](https://dev.to/mhossen/rethinking-the-test-pyramid-a-balanced-view-from-code-to-customer-5bhl)
 - [The Anatomy of a Good Azure Pipeline](https://dev.to/muhammad_mustafa_813cb4fb/the-anatomy-of-a-good-azure-pipeline-3m8k)
 - [Testing post](https://dev.to/openaicookbook/testing-post-59ml)
-- [To Summarize: AI is still A WORK IN PROGRESS!! With that understanding, lets see how far it takes us. MJ DeYoung](https://dev.to/newb21/to-summarize-ai-is-still-a-work-in-progress-with-that-understanding-lets-see-how-far-it-takes-3l09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
