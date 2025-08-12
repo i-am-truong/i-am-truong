@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [A behind-the-scenes look at intent data collection and validation in B2B marketing](https://dev.to/leo_johnson_e34af4a6d9bd9/a-behind-the-scenes-look-at-intent-data-collection-and-validation-in-b2b-marketing-45e2)
-- [Core Concepts of Data Engineering: A Practical Guide for Modern Data Teams](https://dev.to/dgaro/core-concepts-of-data-engineering-a-practical-guide-for-modern-data-teams-1ilb)
 - [Which is Best for Real Time Dashboards: Airbyte, Fivetran, or Estuary Flow](https://dev.to/techsourabh/which-is-best-for-real-time-dashboards-airbyte-fivetran-or-estuary-flow-he9)
-- [Python Flask: Hello World](https://dev.to/szabgab/python-flask-hello-world-jbn)
-- [VinotesApp: A Simple and Practical Online Sticky Notes](https://dev.to/ketutdana/vinotesapp-a-simple-and-practical-online-sticky-notes-14ec)
+- [Catch Security Bugs Before They Catch You: A Developer&#39;s Guide](https://dev.to/dvjosefr/catch-security-bugs-before-they-catch-you-a-developers-guide-507d)
+- [Designing an Air Quality Index DLD Project at NUTECH University – By Amna Khurram](https://dev.to/amnakhurram/designing-an-air-quality-index-dld-project-at-nutech-university-by-amna-khurram-5ga9)
+- [How to Build a Custom Android App Using Jetpack Libraries](https://dev.to/lucy1/how-to-build-a-custom-android-app-using-jetpack-libraries-d3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
