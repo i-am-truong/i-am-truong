@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Python,APIs and Pandas](https://dev.to/austin_oketch/a-beginners-guide-to-pythonapis-and-pandas-3j8d)
-- [3. Lexical Scope &amp; Closure](https://dev.to/devrajsawant/3-lexical-scope-closure-4j92)
-- [Adding Images in HTML: Sources, Alt Text, and Title Attributes](https://dev.to/sharique_siddiqui_8242dad/adding-images-in-html-sources-alt-text-and-title-attributes-5h06)
-- [Day 2: Docker Basics: Installing and Running Your First Container](https://dev.to/pragnesh_patel/day-2-docker-basics-installing-and-running-your-first-container-431l)
-- [Setting Up Your React 19 Development Environment with Vite](https://dev.to/a1guy/setting-up-your-react-19-development-environment-with-vite-4b7k)
+- [Building Bitcoin’s secp256k1 Curve and ECDSA from Scratch in Python](https://dev.to/mouiz/building-bitcoins-secp256k1-curve-and-ecdsa-from-scratch-in-python-5ho3)
+- [Why UI and UX Design Matter for Developers?](https://dev.to/danishmk1286/why-ui-and-ux-design-matter-for-developers-34on)
+- [The intel Management Engine:~The Ghost in your machine](https://dev.to/saintst/the-intel-management-enginethe-ghost-in-your-machine-216l)
+- [Understanding Zero Trust: The Future of Cyber security](https://dev.to/vidushhi/understanding-zero-trust-the-future-of-cyber-security-1510)
+- [Creating Artificial Personality: Why One AI Model Isn’t Enough](https://dev.to/it_junior_theory/creating-artificial-personality-why-one-ai-model-isnt-enough-3kkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
