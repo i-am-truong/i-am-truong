@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Programming in Rockchip Linux-Based Devices](https://dev.to/dongpei_liao_8092a14d7c50/programming-in-rockchip-linux-based-devices-cdn)
-- [Designing for Ultra‑Low Power: TinyML, Ambient IoT &amp; Tracker Tech](https://dev.to/applekoiot/designing-for-ultra-low-power-tinyml-ambient-iot-tracker-tech-1p29)
-- [Evaluating Excel for Predictive Analytics and Data-Driven Business Decision Making](https://dev.to/mugambi_gladwell_ec0181e5/evaluating-excel-for-predictive-analytics-and-data-driven-decision-making-139)
-- [📄🤖 Tesseract - submission for Google AI Studio](https://dev.to/fonteeboa/tesseract-submission-for-google-ai-studio-22od)
-- [From Image to Text in Seconds — Tesseract OCR in a Docker Container](https://dev.to/moni121189/from-image-to-text-in-seconds-tesseract-ocr-in-a-docker-container-1ohi)
+- [AI Wisdom: The #1 Belief That Built My Business](https://dev.to/jaideepparashar/ai-wisdom-the-1-belief-that-built-my-business-e40)
+- [[Boost]](https://dev.to/torresroberto05/-3gok)
+- [Custom BMS for Energy Storage Batteries: Firmware, Hardware, and Real-World Insights](https://dev.to/isabella_yee_2711f063e447/custom-bms-for-energy-storage-batteries-firmware-hardware-and-real-world-insights-1349)
+- [Common Environment Variables in SafeLine WAF](https://dev.to/carrie_luo1/common-environment-variables-in-safeline-waf-8bl)
+- [A Minimal TanStack Start Template with Better Auth &amp; Drizzle ORM](https://dev.to/jqueryscript/a-minimal-tanstack-start-template-with-better-auth-drizzle-orm-4mei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
