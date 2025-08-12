@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting My Backend Journey:](https://dev.to/shifa_2/starting-my-backend-journey-dhl)
+- [CSP Packaging: The Future of Compact Electronics](https://dev.to/frank_1871bc3c55f35370df3/csp-packaging-the-future-of-compact-electronics-48ef)
 - [Cursor in Database Management System &lpar;DBMS&rpar;: Types, Properties, and Examples](https://dev.to/jhk_info/cursor-in-database-management-system-dbms-types-properties-and-examples-486b)
-- [[Boost]](https://dev.to/alex_iscanderov_60b4ea965/-74h)
-- [Shipping Faster Without Breaking Smart Contracts](https://dev.to/vadym_info_polus/shipping-faster-without-breaking-smart-contracts-1jkj)
-- [Type i and Type ii errors](https://dev.to/makenakinyua/type-i-and-type-ii-errors-5bl5)
-- [Why MVP Mindset Saves Projects &lpar;And How I Apply It&rpar;](https://dev.to/divyanshulohani/why-mvp-mindset-saves-projects-and-how-i-apply-it-5ei4)
+- [How to Use cURL Basic Auth in Laravel: Simple Guide for Developers](https://dev.to/serveravatar/how-to-use-curl-basic-auth-in-laravel-simple-guide-for-developers-308a)
+- [Build a Semantic Search Plugin with Strapi and OpenAI](https://dev.to/strapi/build-a-semantic-search-plugin-with-strapi-and-openai-3d0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
