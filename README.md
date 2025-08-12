@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI GPT-5 vs. Claude Opus 4.1: A coding comparison](https://dev.to/composiodev/openai-gpt-5-vs-claude-opus-41-a-coding-comparison-2mll)
-- [How AI is Changing the Future of Web Development: Practical Tips and Tools for Developers in 2025](https://dev.to/harbor_sourcing_feb429754/how-ai-is-changing-the-future-of-web-development-practical-tips-and-tools-for-developers-in-2025-3f6m)
-- [Adding Links in HTML: Internal and External Anchors](https://dev.to/sharique_siddiqui_8242dad/adding-links-in-html-internal-and-external-anchors-588h)
-- [🤖 GPT‑5 in 2025 — Not Just an Upgrade, a Game‑Changer ⚡](https://dev.to/aleksei_aleinikov/gpt-5-in-2025-not-just-an-upgrade-a-game-changer-4pi2)
-- [🎯 Front-End Pain Points 2025 — Surviving Between Mockups &amp; Deadlines 🎯](https://dev.to/aleksei_aleinikov/front-end-pain-points-2025-surviving-between-mockups-deadlines-6gb)
+- [Adding Images in HTML: Sources, Alt Text, and Title Attributes](https://dev.to/sharique_siddiqui_8242dad/adding-images-in-html-sources-alt-text-and-title-attributes-5h06)
+- [Day 2: Docker Basics: Installing and Running Your First Container](https://dev.to/pragnesh_patel/day-2-docker-basics-installing-and-running-your-first-container-431l)
+- [🚀 CPS in Go: Unlock Go’s Superpowers in 2025 ⚙️](https://dev.to/aleksei_aleinikov/cps-in-go-unlock-gos-superpowers-in-2025-eef)
+- [Frações](https://dev.to/bussularf/fracoes-1pfn)
+- [🔍 Go Reflection: Less Code, More Power ⚡](https://dev.to/aleksei_aleinikov/go-reflection-less-code-more-power-2hi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
