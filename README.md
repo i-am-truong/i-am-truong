@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of Free, Private Image and PDF Conversions with ImageConvertXpress](https://dev.to/imageconvertxpress/unlock-the-power-of-free-private-image-and-pdf-conversions-with-imageconvertxpress-1b41)
-- [How I Built a Facial-Expression Recognition Model with PyTorch &lpar;FER-2013, 72% Val Acc&rpar;](https://dev.to/sameershahh/how-i-built-a-facial-expression-recognition-model-with-pytorch-fer-2013-72-val-acc-2oc3)
-- [Build a Beautiful Markdown Website in Minutes with hosted.md](https://dev.to/mikebarlow/build-a-beautiful-markdown-website-in-minutes-with-hostedmd-32h4)
-- [Go Concurrency: Goroutines, Channels and WaitGroups](https://dev.to/yash007_95/go-concurrency-goroutines-channels-and-waitgroups-165d)
-- [Why I Built an HTTP Client That Doesn&#39;t Try to Be Smart](https://dev.to/marcomit/why-i-built-an-http-client-that-doesnt-try-to-be-smart-14a7)
+- [GameSpot: Marvel Tokon Looks Set To Become The Next Big Fighting Game | Hands-On Impressions](https://dev.to/gg_news/gamespot-marvel-tokon-looks-set-to-become-the-next-big-fighting-game-hands-on-impressions-2n31)
+- [IGN: One Piece Pirate Warriors 4 - Official Character Pass 3 Launch Trailer](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-character-pass-3-launch-trailer-5blp)
+- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-3elf)
+- [IGN: VR Games Showcase - August 2025](https://dev.to/gg_news/ign-vr-games-showcase-august-2025-4gl9)
+- [IGN: Baki Hanma: Blood Arena - Official Release Date Trailer](https://dev.to/gg_news/ign-baki-hanma-blood-arena-official-release-date-trailer-5cg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
