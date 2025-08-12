@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Robust Form Validation in Angular with Custom Validators](https://dev.to/ussdlover/building-robust-form-validation-in-angular-with-custom-validators-2605)
-- [Bash commands for AWS Cloud engineers](https://dev.to/zach_beecher_21697f48de3c/bash-commands-for-aws-cloud-engineers-351k)
-- [Beginner](https://dev.to/savannah_rice_9dbc5d3e496/beginner-3fce)
-- [Why I built Typist - lightning-fast AI audio transcription app](https://dev.to/alexanderzuev/why-i-built-typist-lightning-fast-ai-audio-transcription-app-1gh4)
-- [Day 13 of #30DaysOfCode](https://dev.to/justacoder_0x/day-13-of-30daysofcode-1n0d)
+- [I Like To Make Stuff: I Can FINALLY WELD ALUMINUM!!](https://dev.to/maker_youtube/i-like-to-make-stuff-i-can-finally-weld-aluminum-1d1j)
+- [Golf.com: Travis Kelce’s Lost Putter, NFL Bombshells &amp; Fantasy Sleepers | Ian Rapoport](https://dev.to/youtube_golf/golfcom-travis-kelces-lost-putter-nfl-bombshells-fantasy-sleepers-ian-rapoport-576p)
+- [Rick Shiels Golf: How to hit MORE fairways……It’s Easier Than You Think](https://dev.to/youtube_golf/rick-shiels-golf-how-to-hit-more-fairwaysits-easier-than-you-think-4mf4)
+- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-5261)
+- [IGN: Magic: The Gathering x Avatar: The Last Airbender - Official Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-avatar-the-last-airbender-official-trailer-5a20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
