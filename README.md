@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to check if the browser is Safari programmatically?](https://dev.to/ramunarasinga-11/how-to-check-if-the-browser-is-safari-programmatically-1ga5)
-- [Capture HTML elements to images using snapDOM.](https://dev.to/ramunarasinga-11/capture-html-elements-to-images-using-snapdom-2gln)
-- [Understanding State in React: Managing State Between Components](https://dev.to/ayako_yk/understanding-state-in-react-managing-state-between-components-4iae)
-- [Etherspot Receives Ethereum Foundation Grant to Build EIP-7702 Censorship-resistant Infrastructure](https://dev.to/etherspot/etherspot-receives-ethereum-foundation-grant-to-build-eip-7702-censorship-resistant-infrastructure-1ao5)
-- [JavaScript’s handleEvent: The Memory-Efficient Alternative to .bind&lpar;this&rpar;](https://dev.to/eypsilon/javascripts-handleevent-the-memory-efficient-alternative-to-bindthis-34fm)
+- [🔐 Mastering chattr and lsattr in Linux – File Attribute Control Like a Pro](https://dev.to/sahillearninglinux/mastering-chattr-and-lsattr-in-linux-file-attribute-control-like-a-pro-14fa)
+- [Mastering tsconfig.json in TypeScript](https://dev.to/introvert_developer_d9434/mastering-tsconfigjson-in-typescript-3oeb)
+- [🚀 Pulumi AWS Provider 7.0: Multi-Region AWS IaC &amp; IAM Role Chaining](https://dev.to/pulumi/pulumi-aws-provider-70-multi-region-aws-iac-iam-role-chaining-52be)
+- [Implementing Passkeys in Large‑Scale Web Applications](https://dev.to/jdavissoftware/implementing-passkeys-in-large-scale-web-applications-1dok)
+- [Enterprise React Performance Techniques in 2025 — And the Patterns That Will Shape the Future](https://dev.to/jdavissoftware/enterprise-react-performance-techniques-in-2025-and-the-patterns-that-will-shape-the-future-48nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
