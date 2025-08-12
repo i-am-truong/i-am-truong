@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wait a minute, where&#39;s this week&#39;s Meme Monday post?! 😱](https://dev.to/fyodorio/wait-a-minute-wheres-this-weeks-meme-monday-post-2cmh)
+- [Virtualization for Large Lists](https://dev.to/maurya-sachin/virtualization-for-large-lists-in8)
+- [Top 12 Companies Using Vite JS](https://dev.to/nube_colectiva_nc/top-12-companies-using-vite-js-4mh1)
+- [Necessary Tech for XR Environment](https://dev.to/mark_lee_7ae4941a0726788e/necessary-tech-for-xr-environment-e85)
 - [Building MUN-C – An All in One Business Management Suite](https://dev.to/vinay_kumar_3b3a2f9714f10/building-mun-c-an-all-in-one-business-management-suite-4h80)
-- [What is Cloud Cost Management?](https://dev.to/jennifer_devsamurai/what-is-cloud-cost-management-4flg)
-- [Why I Stopped Teaching Leadership and Started Teaching People How to Actually Lead](https://dev.to/williamsbayer/why-i-stopped-teaching-leadership-and-started-teaching-people-how-to-actually-lead-mmf)
-- [It&#39;s easy to access resources with the help of AI, but getting the right guidance is equally difficult now. Before starting a business journey, be clear with the intention and outcome. Only resources will not be able to save your business.](https://dev.to/jaideepparashar/its-easy-to-access-resources-with-the-help-of-ai-but-getting-the-right-guidance-is-equally-3dnk)
-- [AI Wisdom: The #1 Belief That Built My Business](https://dev.to/jaideepparashar/ai-wisdom-the-1-belief-that-built-my-business-e40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
