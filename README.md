@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building MUN-C – An All in One Business Management Suite](https://dev.to/vinay_kumar_3b3a2f9714f10/building-mun-c-an-all-in-one-business-management-suite-4h80)
+- [What is Cloud Cost Management?](https://dev.to/jennifer_devsamurai/what-is-cloud-cost-management-4flg)
+- [Why I Stopped Teaching Leadership and Started Teaching People How to Actually Lead](https://dev.to/williamsbayer/why-i-stopped-teaching-leadership-and-started-teaching-people-how-to-actually-lead-mmf)
+- [It&#39;s easy to access resources with the help of AI, but getting the right guidance is equally difficult now. Before starting a business journey, be clear with the intention and outcome. Only resources will not be able to save your business.](https://dev.to/jaideepparashar/its-easy-to-access-resources-with-the-help-of-ai-but-getting-the-right-guidance-is-equally-3dnk)
 - [AI Wisdom: The #1 Belief That Built My Business](https://dev.to/jaideepparashar/ai-wisdom-the-1-belief-that-built-my-business-e40)
-- [[Boost]](https://dev.to/torresroberto05/-3gok)
-- [Custom BMS for Energy Storage Batteries: Firmware, Hardware, and Real-World Insights](https://dev.to/isabella_yee_2711f063e447/custom-bms-for-energy-storage-batteries-firmware-hardware-and-real-world-insights-1349)
-- [Common Environment Variables in SafeLine WAF](https://dev.to/carrie_luo1/common-environment-variables-in-safeline-waf-8bl)
-- [A Minimal TanStack Start Template with Better Auth &amp; Drizzle ORM](https://dev.to/jqueryscript/a-minimal-tanstack-start-template-with-better-auth-drizzle-orm-4mei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
