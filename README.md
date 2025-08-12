@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amanat Man – Simplifying Small Payments](https://dev.to/amanatmann/amanat-man-simplifying-small-payments-5ek0)
-- [Best 5 DeepAI Alternatives: New Options for AI Image Generation](https://dev.to/amber_030/best-5-deepai-alternatives-new-options-for-ai-image-generation-4h0m)
-- [Svelte + Flexmonster Pivot Pivot: Building an Interactive Dashboard of World Happiness](https://dev.to/daria_filozop_bfe6aa68940/svelte-flexmonster-pivot-pivot-building-an-interactive-dashboard-of-world-happiness-5344)
-- [mimic 👓 &lpar;Api gateway + Lambda + Dynamo&rpar; en golang](https://dev.to/aws-espanol/mimic-api-gateway-lambda-dynamo-en-golang-3m9g)
-- [How I Organize My Microsoft Teams Chats &lpar;Without Losing My Mind&rpar;](https://dev.to/this-is-learning/how-i-organize-my-microsoft-teams-chats-without-losing-my-mind-2hbm)
+- [How to Automatically Email Daily Quotes Using GitHub Actions](https://dev.to/ijay/how-to-automatically-email-daily-quotes-using-github-actions-2lin)
+- [[Boost]](https://dev.to/amritapadhy/-4nli)
+- [My Personal Experience with the “Changing from Uncontrolled input to Controlled” Error](https://dev.to/amritapadhy/my-personal-experience-with-the-changing-from-uncontrolled-input-to-controlled-error-1cp0)
+- [The Future Isn&#39;t Model Agnostic](https://dev.to/flyio/the-future-isnt-model-agnostic-447k)
+- [Understanding the security landscape of MCP](https://dev.to/apideck/understanding-the-security-landscape-of-mcp-216e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
