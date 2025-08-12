@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Mission: Impossible - The Final Reckoning: Exclusive Deleted Scene &lpar;2025&rpar; Christopher McQuarrie](https://dev.to/gg_news/ign-mission-impossible-the-final-reckoning-exclusive-deleted-scene-2025-christopher-mcquarrie-8pp)
-- [IGN: Story of Seasons: Grand Bazaar - Official Jules Trailer](https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-jules-trailer-k5j)
-- [IGN: Story of Seasons: Grand Bazaar - Official Freya Trailer](https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-freya-trailer-3656)
-- [IGN: Story of Seasons: Grand Bazaar - Official Arata Trailer](https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-arata-trailer-56km)
-- [IGN: One Piece Pirate Warriors 4 - Official Character Pass 3 Launch Trailer](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-character-pass-3-launch-trailer-3389)
+- [Adam Savage&#39;s Tested: How to Prepare a Space Shuttle Engine for Display at Smithsonian! &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-how-to-prepare-a-space-shuttle-engine-for-display-at-smithsonian-at-2aap)
+- [KEXP: Cumulus - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-full-performance-live-on-kexp-12ni)
+- [No Laying Up Podcast: Ryder Cup Roundtable | NLU Pod, Ep 1055](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-roundtable-nlu-pod-ep-1055-bln)
+- [Rick Shiels Golf: This works 74.3% of the time!](https://dev.to/youtube_golf/rick-shiels-golf-this-works-743-of-the-time-1ckg)
+- [IGN: Hell is Us - Official Console and PC Demo Trailer](https://dev.to/gg_news/ign-hell-is-us-official-console-and-pc-demo-trailer-3gj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
