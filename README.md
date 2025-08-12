@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ForgeMT: GitHub Actions at Scale with Security and Multi-Tenancy on AWS](https://dev.to/edersonbrilhante/forgemt-github-actions-at-scale-with-security-and-multi-tenancy-on-aws-3no9)
 - [From 0 to 500 GitHub Stars in 60 Days: Fixing RAG Hallucination with a Symbolic Layer](https://dev.to/onestardao/from-0-to-500-github-stars-in-60-days-fixing-rag-hallucination-with-a-symbolic-layer-2h3e)
 - [Day 63: When Constraints Force Clarity](https://dev.to/casperday11/day-63-when-constraints-force-clarity-4h9m)
 - [📘 Cracking the Coding Interview — Master Technical Interviews](https://dev.to/ml318097/cracking-the-coding-interview-master-technical-interviews-2439)
 - [&quot;exceptions are for exceptional behavior&quot; makes no sense. People realize that &quot;exceptional&quot; means &quot;uncommon&quot;, right? If you find out people rarely use a particular feature, you go in and change the code path to an exception, and vice versa? I hope not.](https://dev.to/thescottyjam/exceptions-are-for-exceptional-behavior-makes-no-sense-people-realize-that-exceptional-means-5d0h)
-- [Diets low in carbs and fibre alters gut microbes and drives the growth of colon polyps causing colorectal cancer.](https://dev.to/future_science/diets-low-in-carbs-and-fibre-alters-gut-microbes-and-drives-the-growth-of-colon-polyps-causing-3pcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
