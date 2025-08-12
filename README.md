@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine learning](https://dev.to/lalithaditya_4c9e5eb76c53/machine-learning-12a6)
+- [From Doubts to Done - How I hosted my first fullstack webapp](https://dev.to/bolaji-writes/from-doubts-to-done-how-i-hosted-my-first-fullstack-webapp-44b4)
 - [How Junior and Senior Developers Use Git: A Story of Two Mindsets](https://dev.to/er-raj-aryan/how-junior-and-senior-developers-use-git-a-story-of-two-mindsets-2g4j)
 - [This &quot;Clean&quot; Java Code Hides a Bug! 🐛](https://dev.to/code_crafter_14/this-clean-java-code-hides-a-bug-24if)
 - [🐳 Docker Explained with a Food Truck 🍔](https://dev.to/code_crafter_14/docker-explained-with-a-food-truck-4jck)
-- [Microservices: Beyond the Word](https://dev.to/horse_patterns/microservices-beyond-the-word-4lhn)
-- [Embed Secure eSignatures into Your App with Foxit API](https://dev.to/foxitdevelopers/embed-secure-esignatures-into-your-app-with-foxit-api-ch5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
