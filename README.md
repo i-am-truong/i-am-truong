@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cursor in Database Management System &lpar;DBMS&rpar;: Types, Properties, and Examples](https://dev.to/jhk_info/cursor-in-database-management-system-dbms-types-properties-and-examples-486b)
+- [[Boost]](https://dev.to/alex_iscanderov_60b4ea965/-74h)
 - [Shipping Faster Without Breaking Smart Contracts](https://dev.to/vadym_info_polus/shipping-faster-without-breaking-smart-contracts-1jkj)
 - [Type i and Type ii errors](https://dev.to/makenakinyua/type-i-and-type-ii-errors-5bl5)
 - [Why MVP Mindset Saves Projects &lpar;And How I Apply It&rpar;](https://dev.to/divyanshulohani/why-mvp-mindset-saves-projects-and-how-i-apply-it-5ei4)
-- [7 AI Skills That Can Make You Rich in 2025](https://dev.to/chiragx309/7-ai-skills-that-can-make-you-rich-in-2025-3d8a)
-- [Circuit Breaker: Your Essential Guide to Electrical Safety](https://dev.to/frank_1871bc3c55f35370df3/circuit-breaker-your-essential-guide-to-electrical-safety-c80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
