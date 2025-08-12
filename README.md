@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy and Configure a Windows Server 2022 Virtual Machine in Microsoft Azure.](https://dev.to/arctaiwo/how-to-deploy-and-configure-a-windows-server-2022-virtual-machine-in-microsoft-azure-2lfn)
-- [I’m Building a “Drop-In Voice” App for Talking to Strangers Here’s Why](https://dev.to/u_patente_88bf309f693a6af/im-building-a-drop-in-voice-app-for-talking-to-strangers-heres-why-5hfg)
-- [Desenvolvendo um Tetris em Python com PyGame: Desafios e Soluções](https://dev.to/esthevamnascimento/desenvolvendo-um-tetris-em-python-com-pygame-desafios-e-solucoes-3ini)
-- [Build Your First AI Agent in TypeScript, Mastra, and Gemini](https://dev.to/pmbanugo/build-your-first-ai-agent-in-typescript-mastra-and-gemini-64b)
-- [Sahin AI Rules - The Ultimate AI Assistant Development Framework](https://dev.to/sahinboydas/sahin-ai-rules-the-ultimate-ai-assistant-development-framework-1f52)
+- [Company Overview: Hubstry &amp; GuruDev®](https://dev.to/guilhermemachadoceo/company-overview-hubstry-gurudevr-4ep2)
+- [De Kotlin e Go para Clojure: uma jornada de 8 meses no Nubank.](https://dev.to/fernandosvrosa/de-kotlin-e-go-para-clojure-uma-jornada-de-8-meses-no-nubank-e-o-prazer-de-codificar-de-um-jeito-1m34)
+- [Title: Bitcoin Mining Profitability Surges to Record Highs in July, JPMorgan Report](https://dev.to/yagyaraj_sharma_6cd410179/title-bitcoin-mining-profitability-surges-to-record-highs-in-july-jpmorgan-report-2703)
+- [Building a Zoom Meeting Bot in 2025 on AWS](https://dev.to/atsimabistov/building-a-zoom-meeting-bot-in-2025-on-aws-2k4h)
+- [Title: New SMS Text Message Fraud Operation Emerges in the Wake of a Prolific Scammer](https://dev.to/yagyaraj_sharma_6cd410179/title-new-sms-text-message-fraud-operation-emerges-in-the-wake-of-a-prolific-scammer-5d6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
