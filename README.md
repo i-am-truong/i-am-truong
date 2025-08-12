@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Serverless Distance Calculator on AWS &lpar;Amplify, Lambda, API Gateway &amp; DynamoDB&rpar;](https://dev.to/aws-builders/build-a-serverless-distance-calculator-on-aws-amplify-lambda-api-gateway-dynamodb-2jdn)
+- [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
+- [Build tools:- Vite ~ Webpack &amp; Deploy the Dist Folder](https://dev.to/ashutoshsarangi/build-tools-vite-webpack-deploy-the-dist-folder-50kb)
 - [Stop Wasting Money on the Wrong Robot Parts: The Essential Starter Kit](https://dev.to/robotisim_76f72fc9b6cb/stop-wasting-money-on-the-wrong-robot-parts-the-essential-starter-kit-1mbj)
 - [The Importance of Technical Writing Services in the Digital Age](https://dev.to/essentialdata/the-importance-of-technical-writing-services-in-the-digital-age-2g3p)
-- [Distributed Systems Series: Your One-Stop Guide](https://dev.to/ujjwall-r/distributed-systems-series-your-one-stop-guide-499b)
-- [What AI Can&#39;t Replace in Software Development](https://dev.to/bestpeers/what-ai-cant-replace-in-software-development-558b)
-- [Stop Building Invoices. Give Your Users a React Design Studio Instead.](https://dev.to/aavanamkit/stop-building-invoices-give-your-users-a-react-design-studio-instead-260h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
