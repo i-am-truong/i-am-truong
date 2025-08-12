@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose the Perfect Embedded SBC for Your Next Project: 5 Essential Factors](https://dev.to/lauraaa/how-to-choose-the-perfect-embedded-sbc-for-your-next-project-5-essential-factors-5fbb)
-- [AI in Everyday Objects: The Coming Wave of Ambient Intelligence](https://dev.to/koolkamalkishor/ai-in-everyday-objects-the-coming-wave-of-ambient-intelligence-d9)
-- [MOD-CSS v4 — Now Fully Compatible with React &lpar;and Most Modern JS/TS Frameworks&rpar; 🚀](https://dev.to/dev_geos/mod-css-v4-now-fully-compatible-with-react-and-most-modern-jsts-frameworks-2o7a)
-- [The Rise of AI Micro-Agents: Tiny Models Automating Big Tasks](https://dev.to/koolkamalkishor/the-rise-of-ai-micro-agents-tiny-models-automating-big-tasks-386m)
-- [Optimizing AWS Costs for AI Development in 2025](https://dev.to/tarunsinghofficial/optimizing-aws-costs-for-ai-development-in-2025-8ee)
+- [Building an AI Health Data Marketplace: Revolutionizing Healthcare with Data-Driven Insights](https://dev.to/mitchell_idusher/building-an-ai-health-data-marketplace-revolutionizing-healthcare-with-data-driven-insights-49nd)
+- [How to Deploy a Frontend App to Vercel Using Jenkins](https://dev.to/ephraimx/how-to-deploy-a-frontend-app-to-vercel-using-jenkins-40aa)
+- [🚀 Why Slow Websites Are Silent Business Killers &lpar;and How to Fix Yours&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/why-slow-websites-are-silent-business-killers-and-how-to-fix-yours-4dm)
+- [How to Deploy a Python Backend to Fly.io Using Jenkins](https://dev.to/ephraimx/how-to-deploy-a-python-backend-to-flyio-using-jenkins-1lh7)
+- [From TypeScript to SQL: Automatically Granting DB Permissions Without Losing Your Mind](https://dev.to/ivao/from-typescript-to-sql-automatically-granting-db-permissions-without-losing-your-mind-2am3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
