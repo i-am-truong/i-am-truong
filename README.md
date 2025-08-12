@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I built Typist - lightning-fast AI audio transcription app](https://dev.to/alexanderzuev/why-i-built-typist-lightning-fast-ai-audio-transcription-app-1gh4)
 - [The AI Plateau: Why the Next Big Leap Isn’t in the Models](https://dev.to/doozieakshay/the-ai-plateau-why-the-next-big-leap-isnt-in-the-models-2p4f)
 - [Day 1 - The Start of My ML + MLOps/LLM Journey](https://dev.to/satyam_mistari1405/day-1-the-start-of-my-ml-mlopsllm-journey-231o)
 - [Lambda functions!](https://dev.to/tangerinetrain/lambda-functions-3387)
 - [Smooth UI Updates in React 19 with `useTransition`: A Simple Example](https://dev.to/arafatruetbd/smooth-ui-updates-in-react-19-with-usetransition-a-simple-example-4ild)
-- [Stop MIME Sniffing with nosniff; Why SEO Pros Should Care](https://dev.to/nimajafari/stop-mime-sniffing-with-nosniff-why-seo-pros-should-care-42ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
