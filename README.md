@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Journey from Code to CPU: What Really Happens When You Hit Run? 🚀](https://dev.to/andresjcorrea/the-journey-from-code-to-cpu-what-really-happens-when-you-hit-run-fe4)
-- [Motorcycle Battery: The Little Prince’s Tiny Power Star](https://dev.to/ersajay/motorcycle-battery-the-little-princes-tiny-power-star-cpo)
-- [The Best Full Stack Development Courses You Can Take in 2025](https://dev.to/ankita_singh_hob/the-best-full-stack-development-courses-you-can-take-in-2025-2p9n)
-- [🚀 The Latest Free AI Models &lpar;August 2025&rpar; — What They Can Do and How You Can Use Thema](https://dev.to/dthiwanka/the-latest-free-ai-models-august-2025-what-they-can-do-and-how-you-can-use-thema-4219)
-- [Lead Generation Tools Comparison 2025: Finding the Right Fit for Modern Sales Teams](https://dev.to/acmer_realestate_3cb9b84c/lead-generation-tools-comparison-2025-finding-the-right-fit-for-modern-sales-teams-41l6)
+- [Hiring &gt;&gt; Data Scientist](https://dev.to/sashaklimova/hiring-data-scientist-57i1)
+- [Ollama Docker Deployment Guide,Seamless Remote Management with OllaMan](https://dev.to/baboon/ollama-docker-deployment-guideseamless-remote-management-with-ollaman-5b0n)
+- [SwiftUI Explicit vs Implicit Stacking](https://dev.to/arshtechpro/swiftui-explicit-vs-implicit-stacking-3ae4)
+- [Making New Languages Click with LLMs](https://dev.to/puritanic/making-new-languages-click-with-llms-20e5)
+- [Deploy Azure Communication Services &lpar;ACS&rpar; with Terraform](https://dev.to/techielass/deploy-azure-communication-services-acs-with-terraform-3jdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
