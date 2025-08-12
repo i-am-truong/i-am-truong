@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Mastering chattr and lsattr in Linux – File Attribute Control Like a Pro](https://dev.to/sahillearninglinux/mastering-chattr-and-lsattr-in-linux-file-attribute-control-like-a-pro-14fa)
-- [Mastering tsconfig.json in TypeScript](https://dev.to/introvert_developer_d9434/mastering-tsconfigjson-in-typescript-3oeb)
-- [🚀 Pulumi AWS Provider 7.0: Multi-Region AWS IaC &amp; IAM Role Chaining](https://dev.to/pulumi/pulumi-aws-provider-70-multi-region-aws-iac-iam-role-chaining-52be)
-- [Implementing Passkeys in Large‑Scale Web Applications](https://dev.to/jdavissoftware/implementing-passkeys-in-large-scale-web-applications-1dok)
-- [Enterprise React Performance Techniques in 2025 — And the Patterns That Will Shape the Future](https://dev.to/jdavissoftware/enterprise-react-performance-techniques-in-2025-and-the-patterns-that-will-shape-the-future-48nc)
+- [IGN: Mission: Impossible - The Final Reckoning: Exclusive Deleted Scene &lpar;2025&rpar; Christopher McQuarrie](https://dev.to/gg_news/ign-mission-impossible-the-final-reckoning-exclusive-deleted-scene-2025-christopher-mcquarrie-8pp)
+- [IGN: Story of Seasons: Grand Bazaar - Official Jules Trailer](https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-jules-trailer-k5j)
+- [IGN: Story of Seasons: Grand Bazaar - Official Freya Trailer](https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-freya-trailer-3656)
+- [IGN: Story of Seasons: Grand Bazaar - Official Arata Trailer](https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-arata-trailer-56km)
+- [IGN: One Piece Pirate Warriors 4 - Official Character Pass 3 Launch Trailer](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-character-pass-3-launch-trailer-3389)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
