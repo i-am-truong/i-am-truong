@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Diferencias Clave: display: block vs. inline](https://dev.to/tu_codigocotidiano_f173d/diferencias-clave-display-block-vs-inline-3gjk)
 - [Diferencias Clave: display: block vs. inline &lpar;Adelanto de Guía&rpar;](https://dev.to/tu_codigocotidiano_f173d/diferencias-clave-display-block-vs-inline-adelanto-de-guia-3542)
 - [Your Tests Are Slow — You Need to Migrate to Bun](https://dev.to/kcsujeet/your-tests-are-slow-you-need-to-migrate-to-bun-9hh)
+- [How to Tame Your AI Agents: From $900 in 18 Days to Coding Smarter](https://dev.to/kenahrens/how-to-tame-your-ai-agents-from-900-in-18-days-to-coding-smarter-75n)
 - [15 foundational concepts on Data Engineering](https://dev.to/kilemba/15-foundational-concepts-on-data-engineering-4557)
-- [Not Mandatory in MVC](https://dev.to/elanatframework/not-mandatory-in-mvc-1n7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
