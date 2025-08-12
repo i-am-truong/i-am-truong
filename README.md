@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Company Overview: Hubstry &amp; GuruDev®](https://dev.to/guilhermemachadoceo/company-overview-hubstry-gurudevr-4ep2)
-- [De Kotlin e Go para Clojure: uma jornada de 8 meses no Nubank.](https://dev.to/fernandosvrosa/de-kotlin-e-go-para-clojure-uma-jornada-de-8-meses-no-nubank-e-o-prazer-de-codificar-de-um-jeito-1m34)
-- [Title: Bitcoin Mining Profitability Surges to Record Highs in July, JPMorgan Report](https://dev.to/yagyaraj_sharma_6cd410179/title-bitcoin-mining-profitability-surges-to-record-highs-in-july-jpmorgan-report-2703)
-- [Building a Zoom Meeting Bot in 2025 on AWS](https://dev.to/atsimabistov/building-a-zoom-meeting-bot-in-2025-on-aws-2k4h)
-- [Title: New SMS Text Message Fraud Operation Emerges in the Wake of a Prolific Scammer](https://dev.to/yagyaraj_sharma_6cd410179/title-new-sms-text-message-fraud-operation-emerges-in-the-wake-of-a-prolific-scammer-5d6b)
+- [Coding Has No Shortcuts: The Relentless Grind of Building Reliable Software](https://dev.to/accioprocurement/coding-has-no-shortcuts-the-relentless-grind-of-building-reliable-software-4jd6)
+- [AI-Powered Video Summarization and Multilingual Narration Using Google Cloud Platform APIs and Camunda Workflow Automation](https://dev.to/anil_lalam_2cee9c52a20a39/ai-powered-video-summarization-and-multilingual-narration-using-google-cloud-platform-apis-and-468h)
+- [Tambah Fitur di Aplikasi Malah Bikin Bagian Lain Error?](https://dev.to/ferryops/tambah-fitur-di-aplikasi-malah-bikin-bagian-lain-error-50hn)
+- [A Weather Comparison App Built with React and AWS SAM](https://dev.to/a-k-0047/a-weather-comparison-app-built-with-react-and-aws-sam-1iin)
+- [Old aesthetics in modern web dev](https://dev.to/lucas_guilherme_9880b42f0/old-aesthetics-in-modern-web-dev-jkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
