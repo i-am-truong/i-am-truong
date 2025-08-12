@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing AWS Costs for AI Development in 2025](https://dev.to/tarunsinghofficial/optimizing-aws-costs-for-ai-development-in-2025-8ee)
 - [How to Integrate AI into Your Laravel Projects: Practical Use Cases and Implementation Guide](https://dev.to/martintonev/how-to-integrate-ai-into-your-laravel-projects-practical-use-cases-and-implementation-guide-415l)
 - [GPT-5 - Hype or Legit Amazing?](https://dev.to/shrutikapoor08/gpt-5-hype-or-legit-amazing-nfl)
 - [v0.dev is now v0.app](https://dev.to/fmerian/v0dev-is-now-v0app-4b8m)
 - [Hiring &gt;&gt; Data Scientist](https://dev.to/sashaklimova/hiring-data-scientist-57i1)
-- [Ollama Docker Deployment Guide,Seamless Remote Management with OllaMan](https://dev.to/baboon/ollama-docker-deployment-guideseamless-remote-management-with-ollaman-5b0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
