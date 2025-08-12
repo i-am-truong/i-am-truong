@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Automation: The Role of AI and Gen AI in Modern Software Testing](https://dev.to/testree/beyond-automation-the-role-of-ai-and-gen-ai-in-modern-software-testing-13f1)
-- [AWS VPC and EC2 basic setup &lpar;manual&rpar;](https://dev.to/zach_beecher/aws-vpc-and-ec2-basic-setup-manual-59f4)
-- [Login e Logout no Rails 8 para apressadinhos](https://dev.to/dominiquemorem/login-e-logout-no-rails-8-para-apressadinhos-46do)
-- [Debug Vue3 Faster with Logging Directives](https://dev.to/o_psnyder_f2633626039281a/debug-vue3-faster-with-logging-directives-p1c)
-- [Quanter A pure JavaScript CSS Selector Engine](https://dev.to/indianmodassir/quanter-a-pure-javascript-css-selector-engine-361b)
+- [Why I Built an HTTP Client That Doesn&#39;t Try to Be Smart](https://dev.to/marcomit/why-i-built-an-http-client-that-doesnt-try-to-be-smart-14a7)
+- [Procedural Map Generation: From ASCII to Prefabs](https://dev.to/darfang/procedural-map-generation-from-ascii-to-prefabs-5fnn)
+- [Why Brands Join &lpar;and Leave&rpar; Shopify?](https://dev.to/rafaelcg/why-brands-join-and-leave-shopify-31gn)
+- [The Sneaky JavaScript Bug That Hides in Plain Sight — A 0 That Broke My Code](https://dev.to/hijazi313/the-sneaky-javascript-bug-that-hides-in-plain-sight-a-0-that-broke-my-code-461c)
+- [🚀 How I Built an AI Agent That Generates Structured Test Cases in Minutes](https://dev.to/dasha_tsion_31379cfb51dd7/how-i-built-an-ai-agent-that-generates-structured-test-cases-in-minutes-1h0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
