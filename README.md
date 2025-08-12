@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A behind-the-scenes look at intent data collection and validation in B2B marketing](https://dev.to/leo_johnson_e34af4a6d9bd9/a-behind-the-scenes-look-at-intent-data-collection-and-validation-in-b2b-marketing-45e2)
-- [Which is Best for Real Time Dashboards: Airbyte, Fivetran, or Estuary Flow](https://dev.to/techsourabh/which-is-best-for-real-time-dashboards-airbyte-fivetran-or-estuary-flow-he9)
-- [Catch Security Bugs Before They Catch You: A Developer&#39;s Guide](https://dev.to/dvjosefr/catch-security-bugs-before-they-catch-you-a-developers-guide-507d)
-- [Designing an Air Quality Index DLD Project at NUTECH University – By Amna Khurram](https://dev.to/amnakhurram/designing-an-air-quality-index-dld-project-at-nutech-university-by-amna-khurram-5ga9)
-- [How to Build a Custom Android App Using Jetpack Libraries](https://dev.to/lucy1/how-to-build-a-custom-android-app-using-jetpack-libraries-d3a)
+- [Stop Wasting Money on the Wrong Robot Parts: The Essential Starter Kit](https://dev.to/robotisim_76f72fc9b6cb/stop-wasting-money-on-the-wrong-robot-parts-the-essential-starter-kit-1mbj)
+- [The Importance of Technical Writing Services in the Digital Age](https://dev.to/essentialdata/the-importance-of-technical-writing-services-in-the-digital-age-2g3p)
+- [Distributed Systems Series: Your One-Stop Guide](https://dev.to/ujjwall-r/distributed-systems-series-your-one-stop-guide-499b)
+- [What AI Can&#39;t Replace in Software Development](https://dev.to/bestpeers/what-ai-cant-replace-in-software-development-558b)
+- [Stop Building Invoices. Give Your Users a React Design Studio Instead.](https://dev.to/aavanamkit/stop-building-invoices-give-your-users-a-react-design-studio-instead-260h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
