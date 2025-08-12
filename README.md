@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Next: Building Persistent Tabs Using the Navigation Component](https://dev.to/harmonyos/harmonyos-next-building-persistent-tabs-using-the-navigation-component-aa6)
-- [Opportunity for Japanese Builders: Join Protocol Camp 2025 Web3 Bootcamp](https://dev.to/kpcho/opportunity-for-japanese-builders-join-protocol-camp-2025-web3-bootcamp-1jkk)
-- [How We Approach Building a Modern Hotel Management System &lpar;HMS&rpar;](https://dev.to/inna_lebedeva_36049c4f899/how-we-approach-building-a-modern-hotel-management-system-hms-29jm)
-- [How to Automatically Email Daily Quotes Using GitHub Actions](https://dev.to/ijay/how-to-automatically-email-daily-quotes-using-github-actions-2lin)
-- [🌐 learn.next-intl.dev is live!](https://dev.to/amannn/learnnext-intldev-is-live-eep)
+- [A behind-the-scenes look at intent data collection and validation in B2B marketing](https://dev.to/leo_johnson_e34af4a6d9bd9/a-behind-the-scenes-look-at-intent-data-collection-and-validation-in-b2b-marketing-45e2)
+- [Core Concepts of Data Engineering: A Practical Guide for Modern Data Teams](https://dev.to/dgaro/core-concepts-of-data-engineering-a-practical-guide-for-modern-data-teams-1ilb)
+- [Which is Best for Real Time Dashboards: Airbyte, Fivetran, or Estuary Flow](https://dev.to/techsourabh/which-is-best-for-real-time-dashboards-airbyte-fivetran-or-estuary-flow-he9)
+- [Python Flask: Hello World](https://dev.to/szabgab/python-flask-hello-world-jbn)
+- [VinotesApp: A Simple and Practical Online Sticky Notes](https://dev.to/ketutdana/vinotesapp-a-simple-and-practical-online-sticky-notes-14ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
