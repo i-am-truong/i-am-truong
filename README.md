@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [150 lines of AI Web Search Agent](https://dev.to/shreyvijayvargiya/150-lines-of-ai-web-search-agent-5e42)
-- [Building branchyard: How I Learned to Stop Worrying and Love Git Worktrees](https://dev.to/sivarampg/building-branchyard-how-i-learned-to-stop-worrying-and-love-git-worktrees-3baf)
-- [How to Convert Images to WebP in Laravel Easily](https://dev.to/serveravatar/how-to-convert-images-to-webp-in-laravel-easily-1ik1)
-- [Quick Stripe Integration Guide for Laravel Users](https://dev.to/serveravatar/quick-stripe-integration-guide-for-laravel-users-2meg)
-- [Handling Device Orientation Changes in HarmonyOS Applications](https://dev.to/harmonyos/handling-device-orientation-changes-in-harmonyos-applications-l99)
+- [Deploying an HTML‑to‑PDF API on Vercel with Puppeteer](https://dev.to/ivanalemunioz/deploying-an-html-to-pdf-api-on-vercel-with-puppeteer-2jp9)
+- [Spring Boot Logging to File with Pattern Layout, Package-specific Levels, and Rolling Policies](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-logging-to-file-with-pattern-layout-package-specific-levels-and-rolling-policies-e4a)
+- [The Dark Side of Vibe-Coding: Debugging, Technical Debt &amp; Security Risks](https://dev.to/arbisoftcompany/the-dark-side-of-vibe-coding-debugging-technical-debt-security-risks-9ef)
+- [AI Business Landing Page | GSAP &amp; Tailwind](https://dev.to/devmastermind/ai-business-landing-page-gsap-tailwind-44og)
+- [🚀 Vonage Developer Newsletter, July 2025: RCS, AI, and Network APIs!](https://dev.to/vonagedev/vonage-developer-newsletter-july-2025-rcs-ai-and-network-apis-ed0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
