@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to Python,APIs and Pandas](https://dev.to/austin_oketch/a-beginners-guide-to-pythonapis-and-pandas-3j8d)
+- [3. Lexical Scope &amp; Closure](https://dev.to/devrajsawant/3-lexical-scope-closure-4j92)
 - [Adding Images in HTML: Sources, Alt Text, and Title Attributes](https://dev.to/sharique_siddiqui_8242dad/adding-images-in-html-sources-alt-text-and-title-attributes-5h06)
 - [Day 2: Docker Basics: Installing and Running Your First Container](https://dev.to/pragnesh_patel/day-2-docker-basics-installing-and-running-your-first-container-431l)
-- [🚀 CPS in Go: Unlock Go’s Superpowers in 2025 ⚙️](https://dev.to/aleksei_aleinikov/cps-in-go-unlock-gos-superpowers-in-2025-eef)
-- [Frações](https://dev.to/bussularf/fracoes-1pfn)
-- [🔍 Go Reflection: Less Code, More Power ⚡](https://dev.to/aleksei_aleinikov/go-reflection-less-code-more-power-2hi6)
+- [Setting Up Your React 19 Development Environment with Vite](https://dev.to/a1guy/setting-up-your-react-19-development-environment-with-vite-4b7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
