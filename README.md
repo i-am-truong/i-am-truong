@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Starting My Backend Journey:](https://dev.to/shifa_2/starting-my-backend-journey-dhl)
-- [CSP Packaging: The Future of Compact Electronics](https://dev.to/frank_1871bc3c55f35370df3/csp-packaging-the-future-of-compact-electronics-48ef)
-- [Cursor in Database Management System &lpar;DBMS&rpar;: Types, Properties, and Examples](https://dev.to/jhk_info/cursor-in-database-management-system-dbms-types-properties-and-examples-486b)
-- [How to Use cURL Basic Auth in Laravel: Simple Guide for Developers](https://dev.to/serveravatar/how-to-use-curl-basic-auth-in-laravel-simple-guide-for-developers-308a)
-- [Build a Semantic Search Plugin with Strapi and OpenAI](https://dev.to/strapi/build-a-semantic-search-plugin-with-strapi-and-openai-3d0i)
+- [150 lines of AI Web Search Agent](https://dev.to/shreyvijayvargiya/150-lines-of-ai-web-search-agent-5e42)
+- [Building branchyard: How I Learned to Stop Worrying and Love Git Worktrees](https://dev.to/sivarampg/building-branchyard-how-i-learned-to-stop-worrying-and-love-git-worktrees-3baf)
+- [How to Convert Images to WebP in Laravel Easily](https://dev.to/serveravatar/how-to-convert-images-to-webp-in-laravel-easily-1ik1)
+- [Quick Stripe Integration Guide for Laravel Users](https://dev.to/serveravatar/quick-stripe-integration-guide-for-laravel-users-2meg)
+- [Handling Device Orientation Changes in HarmonyOS Applications](https://dev.to/harmonyos/handling-device-orientation-changes-in-harmonyos-applications-l99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
