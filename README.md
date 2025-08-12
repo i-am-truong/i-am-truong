@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Marvel Tokon Looks Set To Become The Next Big Fighting Game | Hands-On Impressions](https://dev.to/gg_news/gamespot-marvel-tokon-looks-set-to-become-the-next-big-fighting-game-hands-on-impressions-2n31)
-- [IGN: One Piece Pirate Warriors 4 - Official Character Pass 3 Launch Trailer](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-character-pass-3-launch-trailer-5blp)
-- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-3elf)
-- [IGN: VR Games Showcase - August 2025](https://dev.to/gg_news/ign-vr-games-showcase-august-2025-4gl9)
-- [IGN: Baki Hanma: Blood Arena - Official Release Date Trailer](https://dev.to/gg_news/ign-baki-hanma-blood-arena-official-release-date-trailer-5cg9)
+- [To Summarize: AI is still A WORK IN PROGRESS!! With that understanding, lets see how far it takes us. MJ DeYoung](https://dev.to/newb21/to-summarize-ai-is-still-a-work-in-progress-with-that-understanding-lets-see-how-far-it-takes-3l09)
+- [CVE-2013-3893: Microsoft Internet Explorer Resource Management Errors Vulnerability](https://dev.to/freedom_coder/cve-2013-3893-microsoft-internet-explorer-resource-management-errors-vulnerability-3jag)
+- [CVE-2007-0671: Microsoft Office Excel Remote Code Execution Vulnerability](https://dev.to/freedom_coder/cve-2007-0671-microsoft-office-excel-remote-code-execution-vulnerability-20eh)
+- [Building Enterprise-Grade Angular Apps: Performance Techniques and Patterns Shaping the Future](https://dev.to/jdavissoftware/building-enterprise-grade-angular-apps-performance-techniques-and-patterns-shaping-the-future-4hhi)
+- [CVE-2025-8088: RARLAB WinRAR Path Traversal Vulnerability](https://dev.to/freedom_coder/cve-2025-8088-rarlab-winrar-path-traversal-vulnerability-fkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
