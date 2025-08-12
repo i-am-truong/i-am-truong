@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Christopher Nolan&#39;s &#39;The Odyssey&#39; Wraps Filming](https://dev.to/popcorn_movies/christopher-nolans-the-odyssey-wraps-filming-47g2)
-- [Alan Tudyk Says He Got Dropped From ‘I, Robot&#39; Publicity After Testing Higher Than Will Smith With Test Screening Audiences](https://dev.to/popcorn_movies/alan-tudyk-says-he-got-dropped-from-i-robot-publicity-after-testing-higher-than-will-smith-with-2ie5)
-- [Ramy Youssef Exits Will Ferrell&#39;s Netflix Golf Comedy Over Creative Differences; Molly Shannon Joins Cast](https://dev.to/popcorn_tv/ramy-youssef-exits-will-ferrells-netflix-golf-comedy-over-creative-differences-molly-shannon-5ak8)
-- [The TVLine Performer of the Week: Alan Tudyk &lpar;&quot;Resident Alien&quot;&rpar;](https://dev.to/popcorn_tv/the-tvline-performer-of-the-week-alan-tudyk-resident-alien-30m6)
-- [Miranda Cosgrove shares &#39;exciting&#39; update on iCarly movie: &#39;It looks like it&#39;s happening&#39;](https://dev.to/popcorn_tv/miranda-cosgrove-shares-exciting-update-on-icarly-movie-it-looks-like-its-happening-202g)
+- [📘 Cracking the Coding Interview — Master Technical Interviews](https://dev.to/ml318097/cracking-the-coding-interview-master-technical-interviews-2439)
+- [&quot;exceptions are for exceptional behavior&quot; makes no sense. People realize that &quot;exceptional&quot; means &quot;uncommon&quot;, right? If you find out people rarely use a particular feature, you go in and change the code path to an exception, and vice versa? I hope not.](https://dev.to/thescottyjam/exceptions-are-for-exceptional-behavior-makes-no-sense-people-realize-that-exceptional-means-5d0h)
+- [Diets low in carbs and fibre alters gut microbes and drives the growth of colon polyps causing colorectal cancer.](https://dev.to/future_science/diets-low-in-carbs-and-fibre-alters-gut-microbes-and-drives-the-growth-of-colon-polyps-causing-3pcm)
+- [Bright children from low-income homes lose cognitive edge in early secondary school](https://dev.to/future_science/bright-children-from-low-income-homes-lose-cognitive-edge-in-early-secondary-school-3i03)
+- [Forza Studio Turn 10 Breaks Month-Long Silence On Its Future Following Recent Layoffs](https://dev.to/gg_news/forza-studio-turn-10-breaks-month-long-silence-on-its-future-following-recent-layoffs-4elh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
