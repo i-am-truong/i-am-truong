@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wait a minute, where&#39;s this week&#39;s Meme Monday post?! 😱](https://dev.to/fyodorio/wait-a-minute-wheres-this-weeks-meme-monday-post-2cmh)
-- [Virtualization for Large Lists](https://dev.to/maurya-sachin/virtualization-for-large-lists-in8)
-- [Top 12 Companies Using Vite JS](https://dev.to/nube_colectiva_nc/top-12-companies-using-vite-js-4mh1)
-- [Necessary Tech for XR Environment](https://dev.to/mark_lee_7ae4941a0726788e/necessary-tech-for-xr-environment-e85)
-- [Building MUN-C – An All in One Business Management Suite](https://dev.to/vinay_kumar_3b3a2f9714f10/building-mun-c-an-all-in-one-business-management-suite-4h80)
+- [OpenAI GPT-5 vs. Claude Opus 4.1: A coding comparison](https://dev.to/composiodev/openai-gpt-5-vs-claude-opus-41-a-coding-comparison-2mll)
+- [How AI is Changing the Future of Web Development: Practical Tips and Tools for Developers in 2025](https://dev.to/harbor_sourcing_feb429754/how-ai-is-changing-the-future-of-web-development-practical-tips-and-tools-for-developers-in-2025-3f6m)
+- [Adding Links in HTML: Internal and External Anchors](https://dev.to/sharique_siddiqui_8242dad/adding-links-in-html-internal-and-external-anchors-588h)
+- [🤖 GPT‑5 in 2025 — Not Just an Upgrade, a Game‑Changer ⚡](https://dev.to/aleksei_aleinikov/gpt-5-in-2025-not-just-an-upgrade-a-game-changer-4pi2)
+- [🎯 Front-End Pain Points 2025 — Surviving Between Mockups &amp; Deadlines 🎯](https://dev.to/aleksei_aleinikov/front-end-pain-points-2025-surviving-between-mockups-deadlines-6gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
