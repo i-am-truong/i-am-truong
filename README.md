@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Serverless Distance Calculator on AWS &lpar;Amplify, Lambda, API Gateway &amp; DynamoDB&rpar;](https://dev.to/aws-builders/build-a-serverless-distance-calculator-on-aws-amplify-lambda-api-gateway-dynamodb-2jdn)
-- [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
-- [Build tools:- Vite ~ Webpack &amp; Deploy the Dist Folder](https://dev.to/ashutoshsarangi/build-tools-vite-webpack-deploy-the-dist-folder-50kb)
-- [Stop Wasting Money on the Wrong Robot Parts: The Essential Starter Kit](https://dev.to/robotisim_76f72fc9b6cb/stop-wasting-money-on-the-wrong-robot-parts-the-essential-starter-kit-1mbj)
-- [The Importance of Technical Writing Services in the Digital Age](https://dev.to/essentialdata/the-importance-of-technical-writing-services-in-the-digital-age-2g3p)
+- [Shipping Faster Without Breaking Smart Contracts](https://dev.to/vadym_info_polus/shipping-faster-without-breaking-smart-contracts-1jkj)
+- [Type i and Type ii errors](https://dev.to/makenakinyua/type-i-and-type-ii-errors-5bl5)
+- [Why MVP Mindset Saves Projects &lpar;And How I Apply It&rpar;](https://dev.to/divyanshulohani/why-mvp-mindset-saves-projects-and-how-i-apply-it-5ei4)
+- [7 AI Skills That Can Make You Rich in 2025](https://dev.to/chiragx309/7-ai-skills-that-can-make-you-rich-in-2025-3d8a)
+- [Circuit Breaker: Your Essential Guide to Electrical Safety](https://dev.to/frank_1871bc3c55f35370df3/circuit-breaker-your-essential-guide-to-electrical-safety-c80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
