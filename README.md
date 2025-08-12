@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Like To Make Stuff: I Can FINALLY WELD ALUMINUM!!](https://dev.to/maker_youtube/i-like-to-make-stuff-i-can-finally-weld-aluminum-1d1j)
-- [Golf.com: Travis Kelce’s Lost Putter, NFL Bombshells &amp; Fantasy Sleepers | Ian Rapoport](https://dev.to/youtube_golf/golfcom-travis-kelces-lost-putter-nfl-bombshells-fantasy-sleepers-ian-rapoport-576p)
-- [Rick Shiels Golf: How to hit MORE fairways……It’s Easier Than You Think](https://dev.to/youtube_golf/rick-shiels-golf-how-to-hit-more-fairwaysits-easier-than-you-think-4mf4)
-- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-5261)
-- [IGN: Magic: The Gathering x Avatar: The Last Airbender - Official Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-avatar-the-last-airbender-official-trailer-5a20)
+- [Beyond Automation: The Role of AI and Gen AI in Modern Software Testing](https://dev.to/testree/beyond-automation-the-role-of-ai-and-gen-ai-in-modern-software-testing-13f1)
+- [AWS VPC and EC2 basic setup &lpar;manual&rpar;](https://dev.to/zach_beecher/aws-vpc-and-ec2-basic-setup-manual-59f4)
+- [Login e Logout no Rails 8 para apressadinhos](https://dev.to/dominiquemorem/login-e-logout-no-rails-8-para-apressadinhos-46do)
+- [Debug Vue3 Faster with Logging Directives](https://dev.to/o_psnyder_f2633626039281a/debug-vue3-faster-with-logging-directives-p1c)
+- [Quanter A pure JavaScript CSS Selector Engine](https://dev.to/indianmodassir/quanter-a-pure-javascript-css-selector-engine-361b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
