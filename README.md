@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LEAKED: Senior Developer&#39;s $200K Code Review Template - Used by FAANG Companies](https://dev.to/itshayder/leaked-senior-developers-200k-code-review-template-used-by-faang-companies-2nlf)
+- [AMD vs Nvidia in AI Chips: The Open Ecosystem That&#39;s Reshaping Cloud AI](https://dev.to/jay_all_day/amd-vs-nvidia-in-ai-chips-the-open-ecosystem-thats-reshaping-cloud-ai-1fa7)
 - [The Future of Storage Devices; Trends and Innovations for 2025 and Beyond](https://dev.to/michael_withrow_7a6966755/the-future-of-storage-devices-trends-and-innovations-for-2025-and-beyond-118k)
 - [The hidden cost of evaluation loops](https://dev.to/vrinda_damani/the-hidden-cost-of-evaluation-loops-34ha)
 - [Adam Savage&#39;s Tested: How to Prepare a Space Shuttle Engine for Display at Smithsonian! &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-how-to-prepare-a-space-shuttle-engine-for-display-at-smithsonian-at-2aap)
-- [KEXP: Cumulus - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-full-performance-live-on-kexp-12ni)
-- [No Laying Up Podcast: Ryder Cup Roundtable | NLU Pod, Ep 1055](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-roundtable-nlu-pod-ep-1055-bln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
