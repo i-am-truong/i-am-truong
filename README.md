@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Has No Shortcuts: The Relentless Grind of Building Reliable Software](https://dev.to/accioprocurement/coding-has-no-shortcuts-the-relentless-grind-of-building-reliable-software-4jd6)
-- [AI-Powered Video Summarization and Multilingual Narration Using Google Cloud Platform APIs and Camunda Workflow Automation](https://dev.to/anil_lalam_2cee9c52a20a39/ai-powered-video-summarization-and-multilingual-narration-using-google-cloud-platform-apis-and-468h)
-- [Tambah Fitur di Aplikasi Malah Bikin Bagian Lain Error?](https://dev.to/ferryops/tambah-fitur-di-aplikasi-malah-bikin-bagian-lain-error-50hn)
-- [A Weather Comparison App Built with React and AWS SAM](https://dev.to/a-k-0047/a-weather-comparison-app-built-with-react-and-aws-sam-1iin)
-- [Old aesthetics in modern web dev](https://dev.to/lucas_guilherme_9880b42f0/old-aesthetics-in-modern-web-dev-jkf)
+- [Programming in Rockchip Linux-Based Devices](https://dev.to/dongpei_liao_8092a14d7c50/programming-in-rockchip-linux-based-devices-cdn)
+- [Designing for Ultra‑Low Power: TinyML, Ambient IoT &amp; Tracker Tech](https://dev.to/applekoiot/designing-for-ultra-low-power-tinyml-ambient-iot-tracker-tech-1p29)
+- [Evaluating Excel for Predictive Analytics and Data-Driven Business Decision Making](https://dev.to/mugambi_gladwell_ec0181e5/evaluating-excel-for-predictive-analytics-and-data-driven-decision-making-139)
+- [📄🤖 Tesseract - submission for Google AI Studio](https://dev.to/fonteeboa/tesseract-submission-for-google-ai-studio-22od)
+- [From Image to Text in Seconds — Tesseract OCR in a Docker Container](https://dev.to/moni121189/from-image-to-text-in-seconds-tesseract-ocr-in-a-docker-container-1ohi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
