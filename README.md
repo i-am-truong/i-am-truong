@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 in payilagam](https://dev.to/kirubagaran_k_438a86c991/day-2-in-payilagam-4oi0)
-- [Developing a Medication Reminder App in 2025: Key Features and Guide](https://dev.to/nencywilliams/developing-a-medication-reminder-app-in-2025-key-features-and-guide-5cjc)
-- [Automated Infrastructure Provisioning with Pulumi](https://dev.to/itsmekalyani/automated-infrastructure-provisioning-with-pulumi-16jf)
-- [From Prototype to Production: Estimating the Cost of AI Scaling](https://dev.to/sanjay_serviots_08ee56986/from-prototype-to-production-estimating-the-cost-of-ai-scaling-7fo)
-- [Nested if and syntax , Debug Point and Constructor](https://dev.to/preethi_nandhagopal_6d075/nested-if-and-syntax-debug-point-and-constructor-3e1e)
+- [The Journey from Code to CPU: What Really Happens When You Hit Run? 🚀](https://dev.to/andresjcorrea/the-journey-from-code-to-cpu-what-really-happens-when-you-hit-run-fe4)
+- [Motorcycle Battery: The Little Prince’s Tiny Power Star](https://dev.to/ersajay/motorcycle-battery-the-little-princes-tiny-power-star-cpo)
+- [The Best Full Stack Development Courses You Can Take in 2025](https://dev.to/ankita_singh_hob/the-best-full-stack-development-courses-you-can-take-in-2025-2p9n)
+- [🚀 The Latest Free AI Models &lpar;August 2025&rpar; — What They Can Do and How You Can Use Thema](https://dev.to/dthiwanka/the-latest-free-ai-models-august-2025-what-they-can-do-and-how-you-can-use-thema-4219)
+- [Lead Generation Tools Comparison 2025: Finding the Right Fit for Modern Sales Teams](https://dev.to/acmer_realestate_3cb9b84c/lead-generation-tools-comparison-2025-finding-the-right-fit-for-modern-sales-teams-41l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
