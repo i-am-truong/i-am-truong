@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From 0 to 500 GitHub Stars in 60 Days: Fixing RAG Hallucination with a Symbolic Layer](https://dev.to/onestardao/from-0-to-500-github-stars-in-60-days-fixing-rag-hallucination-with-a-symbolic-layer-2h3e)
+- [Day 63: When Constraints Force Clarity](https://dev.to/casperday11/day-63-when-constraints-force-clarity-4h9m)
 - [📘 Cracking the Coding Interview — Master Technical Interviews](https://dev.to/ml318097/cracking-the-coding-interview-master-technical-interviews-2439)
 - [&quot;exceptions are for exceptional behavior&quot; makes no sense. People realize that &quot;exceptional&quot; means &quot;uncommon&quot;, right? If you find out people rarely use a particular feature, you go in and change the code path to an exception, and vice versa? I hope not.](https://dev.to/thescottyjam/exceptions-are-for-exceptional-behavior-makes-no-sense-people-realize-that-exceptional-means-5d0h)
 - [Diets low in carbs and fibre alters gut microbes and drives the growth of colon polyps causing colorectal cancer.](https://dev.to/future_science/diets-low-in-carbs-and-fibre-alters-gut-microbes-and-drives-the-growth-of-colon-polyps-causing-3pcm)
-- [Bright children from low-income homes lose cognitive edge in early secondary school](https://dev.to/future_science/bright-children-from-low-income-homes-lose-cognitive-edge-in-early-secondary-school-3i03)
-- [Forza Studio Turn 10 Breaks Month-Long Silence On Its Future Following Recent Layoffs](https://dev.to/gg_news/forza-studio-turn-10-breaks-month-long-silence-on-its-future-following-recent-layoffs-4elh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
