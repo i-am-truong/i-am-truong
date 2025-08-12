@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Basics of MCP](https://dev.to/sushan/basics-of-mcp-1npn)
+- [Locate and Interpret System Logs for Troubleshooting and Keep Timestamps Accurate](https://dev.to/sindhuja_ns_1e491ce1088d/locate-and-interpret-system-logs-for-troubleshooting-and-keep-timestamps-accurate-20pl)
 - [From Zero to Dev Hero: A Beginner’s Guide to Modern Programming Languages](https://dev.to/mariecolvinn/from-zero-to-dev-hero-a-beginners-guide-to-modern-programming-languages-24j6)
 - [Advanced Contract Patterns and Testing Strategies for AI-Safe Development](https://dev.to/metaclosure/advanced-contract-patterns-and-testing-strategies-for-ai-safe-development-14p7)
 - [The World of Auto Scaling: What Really Happens Behind the Scenes](https://dev.to/stefanie-a/the-world-of-auto-scaling-what-really-happens-behind-the-scenes-4k78)
-- [Building a Bulletproof Next.js User Management System with Contract Programming](https://dev.to/metaclosure/building-a-bulletproof-nextjs-user-management-system-with-contract-programming-36cd)
-- [How to avoid ghost lines and render artifacts in Flame](https://dev.to/blue-fire/how-to-avoid-ghost-lines-and-render-artifacts-in-flame-4hfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
