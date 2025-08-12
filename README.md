@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Bitcoin’s secp256k1 Curve and ECDSA from Scratch in Python](https://dev.to/mouiz/building-bitcoins-secp256k1-curve-and-ecdsa-from-scratch-in-python-5ho3)
-- [Why UI and UX Design Matter for Developers?](https://dev.to/danishmk1286/why-ui-and-ux-design-matter-for-developers-34on)
-- [The intel Management Engine:~The Ghost in your machine](https://dev.to/saintst/the-intel-management-enginethe-ghost-in-your-machine-216l)
-- [Understanding Zero Trust: The Future of Cyber security](https://dev.to/vidushhi/understanding-zero-trust-the-future-of-cyber-security-1510)
-- [Creating Artificial Personality: Why One AI Model Isn’t Enough](https://dev.to/it_junior_theory/creating-artificial-personality-why-one-ai-model-isnt-enough-3kkh)
+- [Day 2 in payilagam](https://dev.to/kirubagaran_k_438a86c991/day-2-in-payilagam-4oi0)
+- [Developing a Medication Reminder App in 2025: Key Features and Guide](https://dev.to/nencywilliams/developing-a-medication-reminder-app-in-2025-key-features-and-guide-5cjc)
+- [Automated Infrastructure Provisioning with Pulumi](https://dev.to/itsmekalyani/automated-infrastructure-provisioning-with-pulumi-16jf)
+- [From Prototype to Production: Estimating the Cost of AI Scaling](https://dev.to/sanjay_serviots_08ee56986/from-prototype-to-production-estimating-the-cost-of-ai-scaling-7fo)
+- [Nested if and syntax , Debug Point and Constructor](https://dev.to/preethi_nandhagopal_6d075/nested-if-and-syntax-debug-point-and-constructor-3e1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
