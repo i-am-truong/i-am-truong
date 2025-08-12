@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diferencias Clave: display: block vs. inline](https://dev.to/tu_codigocotidiano_f173d/diferencias-clave-display-block-vs-inline-3gjk)
+- [Diferencias Clave: display: block vs. inline &lpar;Adelanto de Guía&rpar;](https://dev.to/tu_codigocotidiano_f173d/diferencias-clave-display-block-vs-inline-adelanto-de-guia-3542)
+- [Your Tests Are Slow — You Need to Migrate to Bun](https://dev.to/kcsujeet/your-tests-are-slow-you-need-to-migrate-to-bun-9hh)
 - [15 foundational concepts on Data Engineering](https://dev.to/kilemba/15-foundational-concepts-on-data-engineering-4557)
 - [Not Mandatory in MVC](https://dev.to/elanatframework/not-mandatory-in-mvc-1n7o)
-- [API calls and Testing](https://dev.to/tangerinetrain/api-calls-and-testing-2def)
-- [Rethinking the Test Pyramid: A Balanced View from Code to Customer](https://dev.to/mhossen/rethinking-the-test-pyramid-a-balanced-view-from-code-to-customer-5bhl)
-- [The Anatomy of a Good Azure Pipeline](https://dev.to/muhammad_mustafa_813cb4fb/the-anatomy-of-a-good-azure-pipeline-3m8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
