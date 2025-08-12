@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Basics of MCP](https://dev.to/sushan/basics-of-mcp-1npn)
-- [Locate and Interpret System Logs for Troubleshooting and Keep Timestamps Accurate](https://dev.to/sindhuja_ns_1e491ce1088d/locate-and-interpret-system-logs-for-troubleshooting-and-keep-timestamps-accurate-20pl)
-- [From Zero to Dev Hero: A Beginner’s Guide to Modern Programming Languages](https://dev.to/mariecolvinn/from-zero-to-dev-hero-a-beginners-guide-to-modern-programming-languages-24j6)
-- [Advanced Contract Patterns and Testing Strategies for AI-Safe Development](https://dev.to/metaclosure/advanced-contract-patterns-and-testing-strategies-for-ai-safe-development-14p7)
-- [The World of Auto Scaling: What Really Happens Behind the Scenes](https://dev.to/stefanie-a/the-world-of-auto-scaling-what-really-happens-behind-the-scenes-4k78)
+- [Christopher Nolan&#39;s &#39;The Odyssey&#39; Wraps Filming](https://dev.to/popcorn_movies/christopher-nolans-the-odyssey-wraps-filming-47g2)
+- [Alan Tudyk Says He Got Dropped From ‘I, Robot&#39; Publicity After Testing Higher Than Will Smith With Test Screening Audiences](https://dev.to/popcorn_movies/alan-tudyk-says-he-got-dropped-from-i-robot-publicity-after-testing-higher-than-will-smith-with-2ie5)
+- [Ramy Youssef Exits Will Ferrell&#39;s Netflix Golf Comedy Over Creative Differences; Molly Shannon Joins Cast](https://dev.to/popcorn_tv/ramy-youssef-exits-will-ferrells-netflix-golf-comedy-over-creative-differences-molly-shannon-5ak8)
+- [The TVLine Performer of the Week: Alan Tudyk &lpar;&quot;Resident Alien&quot;&rpar;](https://dev.to/popcorn_tv/the-tvline-performer-of-the-week-alan-tudyk-resident-alien-30m6)
+- [Miranda Cosgrove shares &#39;exciting&#39; update on iCarly movie: &#39;It looks like it&#39;s happening&#39;](https://dev.to/popcorn_tv/miranda-cosgrove-shares-exciting-update-on-icarly-movie-it-looks-like-its-happening-202g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
