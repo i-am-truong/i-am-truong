@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Choose the Perfect Embedded SBC for Your Next Project: 5 Essential Factors](https://dev.to/lauraaa/how-to-choose-the-perfect-embedded-sbc-for-your-next-project-5-essential-factors-5fbb)
+- [AI in Everyday Objects: The Coming Wave of Ambient Intelligence](https://dev.to/koolkamalkishor/ai-in-everyday-objects-the-coming-wave-of-ambient-intelligence-d9)
+- [MOD-CSS v4 — Now Fully Compatible with React &lpar;and Most Modern JS/TS Frameworks&rpar; 🚀](https://dev.to/dev_geos/mod-css-v4-now-fully-compatible-with-react-and-most-modern-jsts-frameworks-2o7a)
+- [The Rise of AI Micro-Agents: Tiny Models Automating Big Tasks](https://dev.to/koolkamalkishor/the-rise-of-ai-micro-agents-tiny-models-automating-big-tasks-386m)
 - [Optimizing AWS Costs for AI Development in 2025](https://dev.to/tarunsinghofficial/optimizing-aws-costs-for-ai-development-in-2025-8ee)
-- [How to Integrate AI into Your Laravel Projects: Practical Use Cases and Implementation Guide](https://dev.to/martintonev/how-to-integrate-ai-into-your-laravel-projects-practical-use-cases-and-implementation-guide-415l)
-- [GPT-5 - Hype or Legit Amazing?](https://dev.to/shrutikapoor08/gpt-5-hype-or-legit-amazing-nfl)
-- [v0.dev is now v0.app](https://dev.to/fmerian/v0dev-is-now-v0app-4b8m)
-- [Hiring &gt;&gt; Data Scientist](https://dev.to/sashaklimova/hiring-data-scientist-57i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
