@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [15 foundational concepts on Data Engineering](https://dev.to/kilemba/15-foundational-concepts-on-data-engineering-4557)
 - [Not Mandatory in MVC](https://dev.to/elanatframework/not-mandatory-in-mvc-1n7o)
 - [API calls and Testing](https://dev.to/tangerinetrain/api-calls-and-testing-2def)
 - [Rethinking the Test Pyramid: A Balanced View from Code to Customer](https://dev.to/mhossen/rethinking-the-test-pyramid-a-balanced-view-from-code-to-customer-5bhl)
 - [The Anatomy of a Good Azure Pipeline](https://dev.to/muhammad_mustafa_813cb4fb/the-anatomy-of-a-good-azure-pipeline-3m8k)
-- [Testing post](https://dev.to/openaicookbook/testing-post-59ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
