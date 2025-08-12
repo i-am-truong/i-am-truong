@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the Power of Free, Private Image and PDF Conversions with ImageConvertXpress](https://dev.to/imageconvertxpress/unlock-the-power-of-free-private-image-and-pdf-conversions-with-imageconvertxpress-1b41)
+- [How I Built a Facial-Expression Recognition Model with PyTorch &lpar;FER-2013, 72% Val Acc&rpar;](https://dev.to/sameershahh/how-i-built-a-facial-expression-recognition-model-with-pytorch-fer-2013-72-val-acc-2oc3)
+- [Build a Beautiful Markdown Website in Minutes with hosted.md](https://dev.to/mikebarlow/build-a-beautiful-markdown-website-in-minutes-with-hostedmd-32h4)
+- [Go Concurrency: Goroutines, Channels and WaitGroups](https://dev.to/yash007_95/go-concurrency-goroutines-channels-and-waitgroups-165d)
 - [Why I Built an HTTP Client That Doesn&#39;t Try to Be Smart](https://dev.to/marcomit/why-i-built-an-http-client-that-doesnt-try-to-be-smart-14a7)
-- [Procedural Map Generation: From ASCII to Prefabs](https://dev.to/darfang/procedural-map-generation-from-ascii-to-prefabs-5fnn)
-- [Why Brands Join &lpar;and Leave&rpar; Shopify?](https://dev.to/rafaelcg/why-brands-join-and-leave-shopify-31gn)
-- [The Sneaky JavaScript Bug That Hides in Plain Sight — A 0 That Broke My Code](https://dev.to/hijazi313/the-sneaky-javascript-bug-that-hides-in-plain-sight-a-0-that-broke-my-code-461c)
-- [🚀 How I Built an AI Agent That Generates Structured Test Cases in Minutes](https://dev.to/dasha_tsion_31379cfb51dd7/how-i-built-an-ai-agent-that-generates-structured-test-cases-in-minutes-1h0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
