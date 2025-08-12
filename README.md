@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SuperOptiX Memory: A Practical Guide for Building Agents That Remember](https://dev.to/shashikant86/superoptix-memory-a-practical-guide-for-building-agents-that-remember-40a7)
 - [Building an AI Health Data Marketplace: Revolutionizing Healthcare with Data-Driven Insights](https://dev.to/mitchell_idusher/building-an-ai-health-data-marketplace-revolutionizing-healthcare-with-data-driven-insights-49nd)
 - [How to Deploy a Frontend App to Vercel Using Jenkins](https://dev.to/ephraimx/how-to-deploy-a-frontend-app-to-vercel-using-jenkins-40aa)
 - [🚀 Why Slow Websites Are Silent Business Killers &lpar;and How to Fix Yours&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/why-slow-websites-are-silent-business-killers-and-how-to-fix-yours-4dm)
 - [How to Deploy a Python Backend to Fly.io Using Jenkins](https://dev.to/ephraimx/how-to-deploy-a-python-backend-to-flyio-using-jenkins-1lh7)
-- [From TypeScript to SQL: Automatically Granting DB Permissions Without Losing Your Mind](https://dev.to/ivao/from-typescript-to-sql-automatically-granting-db-permissions-without-losing-your-mind-2am3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
