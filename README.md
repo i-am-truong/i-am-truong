@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building &quot;Memory Lane&quot; - Turning Memories into Art with Google AI Studio](https://dev.to/varshithvhegde/building-memory-lane-turning-memories-into-art-with-google-ai-studio-3ba9)
-- [Quick research on challenges Android developers face](https://dev.to/raza_taiab_477b5707b53a16/quick-research-on-challenges-android-developers-face-3j6f)
-- [I Built the Markdown Editor I Always Wanted with Next.js and AI](https://dev.to/abubakr_alsheikh/i-built-the-markdown-editor-i-always-wanted-with-nextjs-and-ai-20bd)
-- [🚀How to Set Up a RHEL 9 VM in AWS EC2 and Connect with PuTTY &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/ldwit/how-to-set-up-a-rhel-9-vm-in-aws-ec2-and-connect-with-putty-beginner-friendly-guide-17b0)
-- [After the pricing debates: open-core vs zero-meter, and why I shipped a one-file reasoning layer](https://dev.to/onestardao/after-the-pricing-debates-open-core-vs-zero-meter-and-why-i-shipped-a-one-file-reasoning-layer-28j6)
+- [The Facade Pattern](https://dev.to/tkouleris/the-facade-pattern-cem)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;9539&rpar;](https://dev.to/member_fa85c472/latency-optimization-secrets-for-millisecond-response-times9539-lam)
+- [Variable Naming in Algorithms for Coding Interviews](https://dev.to/heatherp/variable-naming-in-algorithms-for-coding-interviews-g47)
+- [Day 4: Introduction to AWS: Account Setup and IAM Basics](https://dev.to/pragnesh_patel/day-4-introduction-to-aws-account-setup-and-iam-basics-590d)
+- [Modern Server-Side Event Implementation&lpar;6178&rpar;](https://dev.to/member_fa85c472/modern-server-side-event-implementation6178-3nnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
