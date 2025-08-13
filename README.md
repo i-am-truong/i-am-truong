@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Hit $1k MRR With Redesignr.ai &lpar;After Paying $400 for a Design I Didn’t Like&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/how-i-hit-1k-mrr-with-redesignrai-after-paying-400-for-a-design-i-didnt-like-2ag2)
-- [Claude Sonnet 4 vs Kimi K2 vs Gemini 2.5 Pro: Which AI actually ships production code?⛵](https://dev.to/forgecode/claude-sonnet-4-vs-kimi-k2-vs-gemini-25-pro-which-ai-actually-ships-production-code-30j7)
-- [Managing Multiple Environments in AWS SAM &lpar;dev/prod&rpar;](https://dev.to/a-k-0047/managing-multiple-environments-in-aws-sam-devprod-4o6k)
-- [Flutter Lesson 14: Animations and Transitions](https://dev.to/jige2025/flutter-lesson-14-animations-and-transitions-2mil)
-- [Writing a Domain Model in Ruby Without Using class](https://dev.to/lef237/writing-a-domain-model-in-ruby-without-using-class-5h06)
+- [Implementing Task Cancellation in Spring Boot: A Practical Guide](https://dev.to/devaaai/implementing-task-cancellation-in-spring-boot-a-practical-guide-a6l)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;8805&rpar;](https://dev.to/member_fa85c472/memory-safety-meets-extreme-performance-in-web-servers8805-1ann)
+- [Mastering the UI/Logic &lpar;Container/Presentation&rpar; Pattern in React With Hooks, Headless Components, and My Beloved Zustand](https://dev.to/allename_dev/mastering-the-uilogic-containerpresentation-pattern-in-react-with-hooks-headless-components-3ic6)
+- [Leveraging AI in Business Analytics: A Game-Changer for Smarter Decisions 🚀](https://dev.to/business_pulse_777d1c0c45/leveraging-ai-in-business-analytics-a-game-changer-for-smarter-decisions-1545)
+- [How to setup Tailwind css to your Expo project](https://dev.to/agent_69/how-to-setup-tailwind-css-to-your-expo-project-2l4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
