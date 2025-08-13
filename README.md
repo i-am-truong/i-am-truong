@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraform.tfvars wasn’t made to be secure it was made to make Dev/Test life easier](https://dev.to/nuntin/terraformtfvars-wasnt-made-to-be-secure-it-was-made-to-make-devtest-life-easier-3poa)
+- [Learn How to Use SelfCAD’s Move Tool](https://dev.to/julia970/learn-how-to-use-selfcads-move-tool-5e4k)
+- [Some of my code](https://dev.to/stickybon/some-of-my-code-448d)
+- [Scaling Images in Java with JDeli](https://dev.to/idrsolutions/scaling-images-in-java-with-jdeli-39ca)
 - [Rust Implementation for High Concurrency Processing&lpar;9240&rpar;](https://dev.to/member_fa85c472/rust-implementation-for-high-concurrency-processing9240-2h2p)
-- [From Frustration to Contribution: My Journey Into the Heart of Open Source HTTP](https://dev.to/guespo/from-frustration-to-contribution-my-journey-into-the-heart-of-open-source-http-bg7)
-- [Translation Word Count: Factors To Consider](https://dev.to/colinreed/translation-word-count-factors-to-consider-8b)
-- [Creating Push Button Trading: A Journey in Algorithmic Trading with Python and C++](https://dev.to/alfie_john_a024c49002ff26/creating-push-button-trading-a-journey-in-algorithmic-trading-with-python-and-c-4ipf)
-- [Rust Async Web Framework Performance Breakthrough&lpar;6664&rpar;](https://dev.to/member_fa85c472/rust-async-web-framework-performance-breakthrough6664-57cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
