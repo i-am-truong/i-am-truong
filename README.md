@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP Traceroute](https://dev.to/andrew_markhai_27ffd3a6b8/php-traceroute-216i)
+- [📢 Neuro-Symbolic AI Summer School 2025 | Online Event | Aug 14 - 15](https://dev.to/canmingir/neuro-symbolic-ai-summer-school-2025-online-event-2fh8)
 - [A Technical Deep-Dive for the Security-Conscious](https://dev.to/jahboukie/a-technical-deep-dive-for-the-security-conscious-4mn6)
 - [Alias Alchemy - Instant Bash Setup!](https://dev.to/ra101/-4h2n)
 - [How to handle Large File/Files Streams in Next.js 13+ using busboy/multer](https://dev.to/grimshinigami/how-to-handle-large-filefiles-streams-in-nextjs-13-using-busboymulter-25gb)
-- [Alias Alchemy - Instant Bash Setup!](https://dev.to/ra101/alias-alchemy-instant-bash-setup-hcp)
-- [Building Your First AI Agent: A Beginner&#39;s Guide to Autonomous Chatbots](https://dev.to/ekwoster/building-your-first-ai-agent-a-beginners-guide-to-autonomous-chatbots-55i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
