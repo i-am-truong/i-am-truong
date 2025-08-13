@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turning Your &quot;Braindumps&quot; Into Trackable Tasks](https://dev.to/aronsonben/turning-your-braindumps-into-trackable-tasks-4bf5)
-- [How to Master the art of prompting?](https://dev.to/paradox_07/how-to-master-the-art-of-prompting-2p2e)
-- [Golf.com: Warming Up with Dustin Johnson](https://dev.to/youtube_golf/golfcom-warming-up-with-dustin-johnson-2hgi)
-- [Zero-Downtime Blue-Green Deployments with 90% Less Infrastructure Cost](https://dev.to/garrett_yan_d4f2213af3329/zero-downtime-blue-green-deployments-with-90-less-infrastructure-cost-5aa4)
-- [Zero-Downtime Blue-Green Deployments with 90% Less Infrastructure Cost](https://dev.to/garrett_yan_d4f2213af3329/zero-downtime-blue-green-deployments-with-90-less-infrastructure-cost-46li)
+- [Dev Log 04](https://dev.to/asx/dev-log-04-49dg)
+- [This Open Source Python Tool Replaces Your $2,000/Month Portfolio Tracker](https://dev.to/fintechwarrior/how-i-created-a-24000-bloomberg-terminal-for-free-open-source-381l)
+- [Building the Next Generation of AI-Enabled Recruitment and a Talent Relationship Platform](https://dev.to/delaine_grace/building-the-next-generation-of-ai-enabled-recruitment-and-a-talent-relationship-platform-10bn)
+- [The brink of new AI standard](https://dev.to/aloisseckar/the-brink-of-new-ai-standard-1a1i)
+- [The brink of new AI standard](https://dev.to/aloisseckar/the-brink-of-new-ai-standard-2gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
