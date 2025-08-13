@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How we saved $300 using GraphQL, Apollo and Nginx](https://dev.to/rodrigoeloyc/how-i-saved-300-using-graphql-apollo-and-nginx-215f)
 - [Dev Log 04](https://dev.to/asx/dev-log-04-49dg)
 - [This Open Source Python Tool Replaces Your $2,000/Month Portfolio Tracker](https://dev.to/fintechwarrior/how-i-created-a-24000-bloomberg-terminal-for-free-open-source-381l)
 - [Building the Next Generation of AI-Enabled Recruitment and a Talent Relationship Platform](https://dev.to/delaine_grace/building-the-next-generation-of-ai-enabled-recruitment-and-a-talent-relationship-platform-10bn)
 - [The brink of new AI standard](https://dev.to/aloisseckar/the-brink-of-new-ai-standard-1a1i)
-- [The brink of new AI standard](https://dev.to/aloisseckar/the-brink-of-new-ai-standard-2gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
