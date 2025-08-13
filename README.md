@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Chunking Approaches: Fixed-Size and Recursive Methods](https://dev.to/uhasker/simple-chunking-approaches-fixed-size-and-recursive-methods-i0p)
+- [Build a Simple Chat Character Gallery like Character AI Tutorial](https://dev.to/jte0711/build-a-simple-chat-character-gallery-like-character-ai-tutorial-4da6)
 - [Why VPS Rocks for Quick Deployments: My Story + Build an LLM-over-DNS agent in Under 30 Mins!](https://dev.to/skeptrune/why-vps-rocks-for-quick-deployments-my-story-build-an-llm-over-dns-in-under-30-mins-3oek)
 - [How AI Will Change the Job Market in the Next 5 Years](https://dev.to/osmanbey_918/how-ai-will-change-the-job-market-in-the-next-5-years-4mhc)
 - [How to Design AI Systems That Adapt Seamlessly to Model Updates](https://dev.to/talweezy/how-to-design-ai-systems-that-adapt-seamlessly-to-model-updates-5h5o)
-- [Videojs Theme Kit — Effortless Player Control Customization](https://dev.to/damandeep_singh_7c4698e97/videojs-theme-kit-effortless-player-control-customization-1e7j)
-- [Format, Validate &amp; Beautify JSON Instantly – Free Online Tool](https://dev.to/praveenptl71/format-validate-beautify-json-instantly-free-online-tool-1eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
