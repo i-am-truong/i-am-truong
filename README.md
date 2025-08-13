@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Outil de Cybersécurité du Jour - Aug 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-13-2025-21k7)
-- [AI Apps with memory or without](https://dev.to/bobur/ai-apps-with-memory-or-without-46k4)
-- [CouchDB Data Modelling: Prefer Smaller Attachments](https://dev.to/neighbourhoodie/couchdb-data-modelling-prefer-smaller-attachments-51hi)
-- [Python vs JavaScript Keywords Comparison](https://dev.to/mcheremnov/python-vs-javascript-keywords-comparison-2966)
-- [[Talk::Overflow #14] – Highlights from Better Software Conference 2025](https://dev.to/valpetaltechlabs/talkoverflow-14-highlights-from-better-software-conference-2025-eld)
+- [Translation Word Count: Factors To Consider](https://dev.to/colinreed/translation-word-count-factors-to-consider-8b)
+- [Creating Push Button Trading: A Journey in Algorithmic Trading with Python and C++](https://dev.to/alfie_john_a024c49002ff26/creating-push-button-trading-a-journey-in-algorithmic-trading-with-python-and-c-4ipf)
+- [Rust Async Web Framework Performance Breakthrough&lpar;6664&rpar;](https://dev.to/member_fa85c472/rust-async-web-framework-performance-breakthrough6664-57cf)
+- [🚀 Git Rebase vs Merge: When and How to Use Them Like a Pro](https://dev.to/manukumar07/git-rebase-vs-merge-when-and-how-to-use-them-like-a-pro-4hjb)
+- [How to Design a Chess Pawn Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-chess-pawn-using-3d-cad-software-4inn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
