@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 4-Way Handshake Explained: How Wi-Fi Keeps Your Data Safe](https://dev.to/rijultp/the-4-way-handshake-explained-how-wi-fi-keeps-your-data-safe-262p)
-- [4. Let, Const and Var](https://dev.to/devrajsawant/4-let-const-and-var-29l6)
-- [Ultimate Guide to Containerizing Node.js + MongoDB](https://dev.to/ankit_kumar_5e2e417bf7e3d/ultimate-guide-to-containerizing-nodejs-mongodb-3ip6)
-- [Semana 1 — Node + TypeScript con mentalidad Rails](https://dev.to/pwalvarado/semana-1-node-typescript-con-mentalidad-rails-version-extendida-1645)
-- [Stack Overflow Developer Survey 2025](https://dev.to/mikehtmlallthethings/stack-overflow-developer-survey-2025-2249)
+- [COLORS: Lila Iké - Scatter | A COLORS MOMENT](https://dev.to/music_youtube/colors-lila-ike-scatter-a-colors-moment-2mab)
+- [Linus Tech Tips &lpar;LTT&rpar;: Linus REALLY Should have Been Here… AMD $5000 Ultimate Tech Upgrade](https://dev.to/future_youtube/linus-tech-tips-ltt-linus-really-should-have-been-here-amd-5000-ultimate-tech-upgrade-ne8)
+- [IGN: Marty Supreme - Official Trailer &lpar;2025&rpar; Timothée Chalamet, Gwyneth Paltrow, Odessa A&#39;zion](https://dev.to/gg_news/ign-marty-supreme-official-trailer-2025-timothee-chalamet-gwyneth-paltrow-odessa-azion-1e1o)
+- [IGN: Marvel Rivals - Official Cloak and Dagger Polarity Bond Costume Reveal Trailer](https://dev.to/gg_news/ign-marvel-rivals-official-cloak-and-dagger-polarity-bond-costume-reveal-trailer-59h4)
+- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-5ebe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
