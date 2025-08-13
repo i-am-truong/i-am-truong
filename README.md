@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Lila Iké - Scatter | A COLORS MOMENT](https://dev.to/music_youtube/colors-lila-ike-scatter-a-colors-moment-2mab)
-- [Linus Tech Tips &lpar;LTT&rpar;: Linus REALLY Should have Been Here… AMD $5000 Ultimate Tech Upgrade](https://dev.to/future_youtube/linus-tech-tips-ltt-linus-really-should-have-been-here-amd-5000-ultimate-tech-upgrade-ne8)
-- [IGN: Marty Supreme - Official Trailer &lpar;2025&rpar; Timothée Chalamet, Gwyneth Paltrow, Odessa A&#39;zion](https://dev.to/gg_news/ign-marty-supreme-official-trailer-2025-timothee-chalamet-gwyneth-paltrow-odessa-azion-1e1o)
-- [IGN: Marvel Rivals - Official Cloak and Dagger Polarity Bond Costume Reveal Trailer](https://dev.to/gg_news/ign-marvel-rivals-official-cloak-and-dagger-polarity-bond-costume-reveal-trailer-59h4)
-- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-5ebe)
+- [A Technical Deep-Dive for the Security-Conscious](https://dev.to/jahboukie/a-technical-deep-dive-for-the-security-conscious-4mn6)
+- [Alias Alchemy - Instant Bash Setup!](https://dev.to/ra101/-4h2n)
+- [How to handle Large File/Files Streams in Next.js 13+ using busboy/multer](https://dev.to/grimshinigami/how-to-handle-large-filefiles-streams-in-nextjs-13-using-busboymulter-25gb)
+- [Alias Alchemy - Instant Bash Setup!](https://dev.to/ra101/alias-alchemy-instant-bash-setup-hcp)
+- [Building Your First AI Agent: A Beginner&#39;s Guide to Autonomous Chatbots](https://dev.to/ekwoster/building-your-first-ai-agent-a-beginners-guide-to-autonomous-chatbots-55i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
