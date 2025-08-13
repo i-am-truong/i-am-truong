@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Accidental Birth of NodeJS!](https://dev.to/sushan/the-accidental-birth-of-nodejs-5eoj)
-- [You Should Move Beyond the ! Operator in Flutter &lpar;2025&rpar;](https://dev.to/bestaoui_aymen/you-should-move-beyond-the-operator-in-flutter-2025-1h5c)
-- [What to Do After a Layoff: Your Recovery Roadmap](https://dev.to/applyre/what-to-do-after-a-layoff-your-recovery-roadmap-2i31)
-- [Day 4 [August 11, 2025] Python Extensibility - More research/reading to follow in day 5. I barely scratched the surface.](https://dev.to/onaolapo11/day-4-august-11-2025-python-extensibility-more-researchreading-to-follow-in-day-5-i-barely-3k2e)
-- [Join the Real-Time AI Agents Challenge powered by n8n and Bright Data: $5,000 in prizes across FIVE winners!](https://dev.to/devteam/join-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-5000-in-prizes-across-five-3nmb)
+- [Boring Cybersecurity Theory: Hats &lpar;Understand Attackers&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-hats-nderstand-attackers-ek)
+- [# Terminal Mastery for Backend Developers: Essential Commands You Actually Need](https://dev.to/sudiip__17/-terminal-mastery-for-backend-developers-essential-commands-you-actually-need-5bl6)
+- [Boring Cybersecurity Theory: CIA Triad &lpar;The Core Principles of Security&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-cia-triad-the-core-principles-of-security-3m3k)
+- [Boring Cybersecurity Theory: Where it all began](https://dev.to/dharbachou/boring-cybersecurity-theory-where-it-all-began-4m6b)
+- [Why Meteor.js Is Still Awesome in 2025 — A Deep-Dive Case Study Building Sounds Social](https://dev.to/matteodem/why-meteorjs-is-still-awesome-in-2025-a-deep-dive-case-study-building-sounds-social-2854)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
