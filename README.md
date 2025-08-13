@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe-Guard is Now a VS Code Extension! And It Just Found 8,000+ Security Issues in a Major Enterprise Project](https://dev.to/dvjosefr/vibe-guard-is-now-a-vs-code-extension-and-it-just-found-8000-security-issues-in-a-major-4c92)
-- [Present with Hand-Drawn Style Animations Using Excalidraw Animate + HTML](https://dev.to/pirothat/present-with-hand-drawn-style-animations-using-excalidraw-animate-html-4f5o)
-- [Feature-Driven Development &lpar;FDD&rpar;: Agile with a Focus on Features](https://dev.to/dct_technology/feature-driven-development-fdd-agile-with-a-focus-on-features-3hbo)
-- [What is RTMP and How to setup a Free RTMP server in 7 Steps? [2025 Update]](https://dev.to/mohammad_owaisk_e95f45c/what-is-rtmp-and-how-to-setup-a-free-rtmp-server-in-7-steps-2025-update-ea8)
-- [The Power of Deep-Level Multi-Tenancy: and How I Nailed It in My Latest Project](https://dev.to/idioseph/the-power-of-deep-level-multi-tenancy-and-how-i-nailed-it-in-my-latest-project-46eg)
+- [The Ever-Evolving World of Web Development](https://dev.to/mayank_aneja_6f9df76e15d6/the-ever-evolving-world-of-web-development-p03)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;0371&rpar;](https://dev.to/member_fa85c472/dynamic-routing-systems-for-scalable-web-applications0371-lgi)
+- [Ultimate Guide to grep, awk, sed, and jq for Text Processing in Linux](https://dev.to/tenelabs/ultimate-guide-to-grep-awk-sed-and-jq-for-text-processing-in-linux-589m)
+- [From Local Scripts to Global-Ready Backend: CI/CD, Testing &amp; Coverage in SparkTrace](https://dev.to/nicolasandrescl/from-local-scripts-to-global-ready-backend-cicd-testing-coverage-in-sparktrace-3p32)
+- [Running the &quot;Quickstart for dbt and Snowflake&quot; Tutorial with dbt Projects on Snowflake](https://dev.to/sagara/running-the-quickstart-for-dbt-and-snowflake-tutorial-with-dbt-projects-on-snowflake-5amm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
