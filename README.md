@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simple Chunking Approaches: Fixed-Size and Recursive Methods](https://dev.to/uhasker/simple-chunking-approaches-fixed-size-and-recursive-methods-i0p)
-- [Build a Simple Chat Character Gallery like Character AI Tutorial](https://dev.to/jte0711/build-a-simple-chat-character-gallery-like-character-ai-tutorial-4da6)
-- [Why VPS Rocks for Quick Deployments: My Story + Build an LLM-over-DNS agent in Under 30 Mins!](https://dev.to/skeptrune/why-vps-rocks-for-quick-deployments-my-story-build-an-llm-over-dns-in-under-30-mins-3oek)
-- [How AI Will Change the Job Market in the Next 5 Years](https://dev.to/osmanbey_918/how-ai-will-change-the-job-market-in-the-next-5-years-4mhc)
-- [How to Design AI Systems That Adapt Seamlessly to Model Updates](https://dev.to/talweezy/how-to-design-ai-systems-that-adapt-seamlessly-to-model-updates-5h5o)
+- [Simplifying Workplace Safety Tracking in Business Central](https://dev.to/marc_c_670e79ccffca807a2c_57/simplifying-workplace-safety-tracking-in-business-central-23od)
+- [How We&#39;re Building a Decentralized App Store for AI Agents on Web3](https://dev.to/jneums/how-were-building-a-decentralized-app-store-for-ai-agents-on-web3-2dh2)
+- [Automatic Lights ON/OFF in Spas with IoT: Creating the Perfect Wellness Atmosphere](https://dev.to/elite_chicagospad_1c5b47/automatic-lights-onoff-in-spas-with-iot-creating-the-perfect-wellness-atmosphere-3e0c)
+- [🔐 What if the key to a secret was held by many, not one?](https://dev.to/amorino/what-if-the-key-to-a-secret-was-held-by-many-not-one-27en)
+- [Pandas Skills: From DataFrame Accessors to Sales Data Business Insights](https://dev.to/labex/pandas-skills-from-dataframe-accessors-to-sales-data-business-insights-58n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
