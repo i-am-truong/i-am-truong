@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-1ied)
+- [🌟 Laravel Lusophone: Moçambique no mapa da comunidade Laravel 🚀](https://dev.to/arnaldo/laravel-lusophone-mocambique-no-mapa-da-comunidade-laravel-4ckp)
+- [🚀 Laravel Lusophone: o pacote que colocou Moçambique no mapa da comunidade Laravel 🌍](https://dev.to/arnaldo/laravel-lusophone-o-pacote-que-colocou-mocambique-no-mapa-da-comunidade-laravel-1bgi)
 - [CVE-2025-8875: N-able N-Central Insecure Deserialization Vulnerability](https://dev.to/freedom_coder/cve-2025-8875-n-able-n-central-insecure-deserialization-vulnerability-3p1d)
 - [Rick Beato: The Voice of Rock: Matt Pinfield Returns](https://dev.to/music_youtube/rick-beato-the-voice-of-rock-matt-pinfield-returns-496d)
-- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2d2o)
-- [CVE-2025-8876: N-able N-Central Command Injection Vulnerability](https://dev.to/freedom_coder/cve-2025-8876-n-able-n-central-command-injection-vulnerability-3do3)
-- [You&#39;re Using Optional Wrong! This Java Flaw Leaks Memory &amp; Crashes Apps](https://dev.to/xuan_56087d315ff4f52254e6/youre-using-optional-wrong-this-java-flaw-leaks-memory-crashes-apps-ln8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
