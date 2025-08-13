@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Semana 1 — Node + TypeScript con mentalidad Rails &lpar;versión extendida&rpar;](https://dev.to/pwalvarado/semana-1-node-typescript-con-mentalidad-rails-version-extendida-1645)
+- [4. Let, Const and Var](https://dev.to/devrajsawant/4-let-const-and-var-29l6)
+- [Semana 1 — Node + TypeScript con mentalidad Rails](https://dev.to/pwalvarado/semana-1-node-typescript-con-mentalidad-rails-version-extendida-1645)
 - [Stack Overflow Developer Survey 2025](https://dev.to/mikehtmlallthethings/stack-overflow-developer-survey-2025-2249)
 - [Hackathon &quot;Web Thiruvizha&quot;](https://dev.to/abishek_44a09d1e1af19b4ca/hackathon-web-thiruvizha-245a)
 - [🎮 Gaming Innovations: The Future is Now](https://dev.to/achref_rhouma_b019c220e57/gaming-innovations-the-future-is-now-2kol)
-- [The Power of AI: How Artificial Intelligence is Reshaping Our World in 2025 🤖⚡](https://dev.to/achref_rhouma_b019c220e57/the-power-of-ai-how-artificial-intelligence-is-reshaping-our-world-in-2025-32dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
