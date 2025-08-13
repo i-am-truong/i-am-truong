@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Terraform.tfvars wasn’t made to be secure it was made to make Dev/Test life easier](https://dev.to/nuntin/terraformtfvars-wasnt-made-to-be-secure-it-was-made-to-make-devtest-life-easier-3poa)
-- [Learn How to Use SelfCAD’s Move Tool](https://dev.to/julia970/learn-how-to-use-selfcads-move-tool-5e4k)
-- [Some of my code](https://dev.to/stickybon/some-of-my-code-448d)
-- [Scaling Images in Java with JDeli](https://dev.to/idrsolutions/scaling-images-in-java-with-jdeli-39ca)
-- [Rust Implementation for High Concurrency Processing&lpar;9240&rpar;](https://dev.to/member_fa85c472/rust-implementation-for-high-concurrency-processing9240-2h2p)
+- [Vibe Coding: How To Code With Flow, Focus, And Fun](https://dev.to/keploy/vibe-coding-how-to-code-with-flow-focus-and-fun-3hpo)
+- [Things I have to remind myself as a developer](https://dev.to/mike_andreuzza/things-i-have-to-remind-myself-as-a-developer-2ajn)
+- [Preventing Costly Water Damage: The Business Value of Professional Plumbing Services](https://dev.to/amelia44/preventing-costly-water-damage-the-business-value-of-professional-plumbing-services-57eh)
+- [Generative AI in Healthcare: Transforming Diagnostics and Patient Experience](https://dev.to/pooja_jhaveri_c45a639c74a/generative-ai-in-healthcare-transforming-diagnostics-and-patient-experience-50k7)
+- [TCP Optimization Techniques for Web Server Performance&lpar;6826&rpar;](https://dev.to/member_fa85c472/tcp-optimization-techniques-for-web-server-performance6826-4e92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
