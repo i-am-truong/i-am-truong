@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Programming Patterns for Web Development&lpar;1841&rpar;](https://dev.to/member_fa85c472/asynchronous-programming-patterns-for-web-development1841-1fgb)
-- [Why Some Packages Like Google Sign-In or Razorpay Don’t Work in Expo — And How to Fix It](https://dev.to/sathya7032/why-some-packages-like-google-sign-in-or-razorpay-dont-work-in-expo-and-how-to-fix-it-45bm)
-- [Fire and Safety Courses in kerala: Building Skills for a Safer Tomorrow](https://dev.to/techshore_seo_/fire-and-safety-courses-in-kerala-building-skills-for-a-safer-tomorrow-2eb3)
-- [Memory Matters: Boost Performance with Cache-Friendly Access 🏎️](https://dev.to/andresjcorrea/memory-mysteries-where-your-variables-actually-live-fim)
-- [Structured Logging in .NET: Why You Should Avoid String Interpolation](https://dev.to/mariemoalla/structured-logging-in-net-why-you-should-avoid-string-interpolation-4ddn)
+- [NEAR vs. TRON: A Dev&#39;s Coffee-Fueled Web3 Comparison ☕](https://dev.to/binicezy/near-vs-tron-a-devs-coffee-fueled-web3-comparison-3pi9)
+- [How to Use a Keycap Puller: A Simple Guide](https://dev.to/mysticcoder/how-to-use-a-keycap-puller-a-simple-guide-24g)
+- [cursor rules for java ddd infrastructure project](https://dev.to/shavene_lee_bd400c1435569/cursor-rules-for-java-ddd-infrastructure-project-38ae)
+- [WebSocket Revolution in Real-Time Communication&lpar;2808&rpar;](https://dev.to/member_fa85c472/websocket-revolution-in-real-time-communication2808-4gad)
+- [Choosing the Right Apple Graphics Framework for Your Game: SpriteKit, SceneKit, or Metal](https://dev.to/krishanvijay/choosing-the-right-apple-graphics-framework-for-your-game-spritekit-scenekit-or-metal-1ji6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
