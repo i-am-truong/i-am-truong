@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 14 of #30DaysOfCode](https://dev.to/justacoder_0x/day-14-of-30daysofcode-2dgm)
+- [PyLadies SF Meetup on 8/28: Python + Pizza](https://dev.to/alla_barbalat_5a8a0752be0/pyladies-sf-meetup-on-828-python-pizza-5dk7)
 - [Start Open Source Contributions Now!](https://dev.to/arunkrish11/start-open-source-contributions-now-25pe)
 - [A Detailed Overview of Basic Electrical Circuit Components](https://dev.to/frank_1871bc3c55f35370df3/a-detailed-overview-of-basic-electrical-circuit-components-1n2k)
 - [A Developer’s Journey to the Cloud 3: Building a CI/CD Pipeline](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-3-building-a-cicd-pipeline-3c3f)
-- [A Developer’s Journey to the Cloud 2: My Database Lived in a Shoebox, and I Didn’t Even Know It](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-2-my-database-lived-in-a-shoebox-and-i-didnt-even-know-it-3ei6)
-- [A Developer’s Journey to the Cloud 1: From Localhost to Dockerized Deployment](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-1-from-localhost-to-dockerized-deployment-25d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
