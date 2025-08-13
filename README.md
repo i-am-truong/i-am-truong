@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;8059&rpar;](https://dev.to/member_fa85c472/ultimate-optimization-of-lightweight-server-architecture8059-3bp4)
-- [How to build a Full Web Application](https://dev.to/kader1680/how-to-build-a-full-web-application-5c6n)
-- [0402 Resistor: The Tiny Wizard of Tech’s Hidden Circuits](https://dev.to/ersajay/0402-resistor-the-tiny-wizard-of-techs-hidden-circuits-3g6n)
-- [The Development Planning Fantasy](https://dev.to/charlesclinton/the-development-planning-fantasy-4con)
-- [Why Developers Are Excited About Claude Sonnet 4’s 1 Million Token Context](https://dev.to/therealmrmumba/why-developers-are-excited-about-claude-sonnet-4s-1-million-token-context-3mo9)
+- [LeetCode #88. Merge Sorted Array](https://dev.to/desiato/leetcode-88-merge-sorted-array-2p47)
+- [GitHub Profilimi Görsel Bir Manifestoya Dönüştürdüm / I Turned My GitHub Profile into a Visual Manifesto](https://dev.to/ahmet_salih_8292ac732eaf9/github-profilimi-gorsel-bir-manifestoya-donusturdum-i-turned-my-github-profile-into-a-visual-2dke)
+- [Hiring &gt;&gt; Senior Software Engineer &lpar;Go&rpar;](https://dev.to/sashaklimova/hiring-senior-software-engineer-go-4kkm)
+- [Mastering Modern CSS: Unlock the Power of Grid, Flexbox, and More for Stunning Web Layouts](https://dev.to/okoye_ndidiamaka_5e3b7d30/mastering-modern-css-unlock-the-power-of-grid-flexbox-and-more-for-stunning-web-layouts-4cg0)
+- [My Python Internship Journey with Oasis Infobyte 🚀](https://dev.to/nayan_sharma_d79a23c89594/my-python-internship-journey-with-oasis-infobyte-2aom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
