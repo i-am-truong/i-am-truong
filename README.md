@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 4-Way Handshake Explained: How Wi-Fi Keeps Your Data Safe](https://dev.to/rijultp/the-4-way-handshake-explained-how-wi-fi-keeps-your-data-safe-262p)
 - [4. Let, Const and Var](https://dev.to/devrajsawant/4-let-const-and-var-29l6)
+- [Ultimate Guide to Containerizing Node.js + MongoDB](https://dev.to/ankit_kumar_5e2e417bf7e3d/ultimate-guide-to-containerizing-nodejs-mongodb-3ip6)
 - [Semana 1 — Node + TypeScript con mentalidad Rails](https://dev.to/pwalvarado/semana-1-node-typescript-con-mentalidad-rails-version-extendida-1645)
 - [Stack Overflow Developer Survey 2025](https://dev.to/mikehtmlallthethings/stack-overflow-developer-survey-2025-2249)
-- [Hackathon &quot;Web Thiruvizha&quot;](https://dev.to/abishek_44a09d1e1af19b4ca/hackathon-web-thiruvizha-245a)
-- [🎮 Gaming Innovations: The Future is Now](https://dev.to/achref_rhouma_b019c220e57/gaming-innovations-the-future-is-now-2kol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
