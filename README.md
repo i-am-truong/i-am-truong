@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ever-Evolving World of Web Development](https://dev.to/mayank_aneja_6f9df76e15d6/the-ever-evolving-world-of-web-development-p03)
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;0371&rpar;](https://dev.to/member_fa85c472/dynamic-routing-systems-for-scalable-web-applications0371-lgi)
-- [Ultimate Guide to grep, awk, sed, and jq for Text Processing in Linux](https://dev.to/tenelabs/ultimate-guide-to-grep-awk-sed-and-jq-for-text-processing-in-linux-589m)
-- [From Local Scripts to Global-Ready Backend: CI/CD, Testing &amp; Coverage in SparkTrace](https://dev.to/nicolasandrescl/from-local-scripts-to-global-ready-backend-cicd-testing-coverage-in-sparktrace-3p32)
-- [Running the &quot;Quickstart for dbt and Snowflake&quot; Tutorial with dbt Projects on Snowflake](https://dev.to/sagara/running-the-quickstart-for-dbt-and-snowflake-tutorial-with-dbt-projects-on-snowflake-5amm)
+- [Asynchronous Programming Patterns for Web Development&lpar;1841&rpar;](https://dev.to/member_fa85c472/asynchronous-programming-patterns-for-web-development1841-1fgb)
+- [Why Some Packages Like Google Sign-In or Razorpay Don’t Work in Expo — And How to Fix It](https://dev.to/sathya7032/why-some-packages-like-google-sign-in-or-razorpay-dont-work-in-expo-and-how-to-fix-it-45bm)
+- [Fire and Safety Courses in kerala: Building Skills for a Safer Tomorrow](https://dev.to/techshore_seo_/fire-and-safety-courses-in-kerala-building-skills-for-a-safer-tomorrow-2eb3)
+- [Memory Matters: Boost Performance with Cache-Friendly Access 🏎️](https://dev.to/andresjcorrea/memory-mysteries-where-your-variables-actually-live-fim)
+- [Structured Logging in .NET: Why You Should Avoid String Interpolation](https://dev.to/mariemoalla/structured-logging-in-net-why-you-should-avoid-string-interpolation-4ddn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
