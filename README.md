@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Ways to Fix Misrepresentation Google Merchant Center Suspended](https://dev.to/me_bhavesh/7-ways-to-fix-misrepresentation-google-merchant-center-suspended-4fc2)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;7060&rpar;](https://dev.to/member_fa85c472/error-handling-strategies-in-high-performance-web-servers7060-1dao)
-- [Top 10 Features in Chrome DevTools Every Web Developer Should Know](https://dev.to/misterankit/top-10-features-in-chrome-devtools-every-web-developer-should-know-2p51)
-- [Role of Excel in Making Data-Driven Business Decisions.](https://dev.to/emanuel88/role-of-excel-in-making-data-driven-business-decisions-i5n)
-- [High-Performance Routing System Design and Implementation&lpar;5488&rpar;](https://dev.to/member_fa85c472/high-performance-routing-system-design-and-implementation5488-noi)
+- [Vibe-Guard is Now a VS Code Extension! And It Just Found 8,000+ Security Issues in a Major Enterprise Project](https://dev.to/dvjosefr/vibe-guard-is-now-a-vs-code-extension-and-it-just-found-8000-security-issues-in-a-major-4c92)
+- [Present with Hand-Drawn Style Animations Using Excalidraw Animate + HTML](https://dev.to/pirothat/present-with-hand-drawn-style-animations-using-excalidraw-animate-html-4f5o)
+- [Feature-Driven Development &lpar;FDD&rpar;: Agile with a Focus on Features](https://dev.to/dct_technology/feature-driven-development-fdd-agile-with-a-focus-on-features-3hbo)
+- [What is RTMP and How to setup a Free RTMP server in 7 Steps? [2025 Update]](https://dev.to/mohammad_owaisk_e95f45c/what-is-rtmp-and-how-to-setup-a-free-rtmp-server-in-7-steps-2025-update-ea8)
+- [The Power of Deep-Level Multi-Tenancy: and How I Nailed It in My Latest Project](https://dev.to/idioseph/the-power-of-deep-level-multi-tenancy-and-how-i-nailed-it-in-my-latest-project-46eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
