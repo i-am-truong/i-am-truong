@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Elon Musk–Sam Altman Rivalry and Its Impact on the Future of AI](https://dev.to/grenishrai/inside-the-elon-musk-sam-altman-rivalry-and-its-impact-on-the-future-of-ai-2lm8)
-- [IoT &amp; Cloud - Intro](https://dev.to/ebenezer_tosan/iot-cloud-intro-3n2o)
-- [My-Portfolio](https://dev.to/pratipal_kumarsingh_9126/my-portfolio-5fd4)
-- [Introdução à computação quântica](https://dev.to/lucaspereiradesouzat/introducao-a-computacao-quantica-575i)
-- [Mastering PCB Prototyping and Assembly for Innovation](https://dev.to/frank_1871bc3c55f35370df3/mastering-pcb-prototyping-and-assembly-for-innovation-2o1l)
+- [Why VPS Rocks for Quick Deployments: My Story + Build an LLM-over-DNS agent in Under 30 Mins!](https://dev.to/skeptrune/why-vps-rocks-for-quick-deployments-my-story-build-an-llm-over-dns-in-under-30-mins-3oek)
+- [How AI Will Change the Job Market in the Next 5 Years](https://dev.to/osmanbey_918/how-ai-will-change-the-job-market-in-the-next-5-years-4mhc)
+- [How to Design AI Systems That Adapt Seamlessly to Model Updates](https://dev.to/talweezy/how-to-design-ai-systems-that-adapt-seamlessly-to-model-updates-5h5o)
+- [Videojs Theme Kit — Effortless Player Control Customization](https://dev.to/damandeep_singh_7c4698e97/videojs-theme-kit-effortless-player-control-customization-1e7j)
+- [Format, Validate &amp; Beautify JSON Instantly – Free Online Tool](https://dev.to/praveenptl71/format-validate-beautify-json-instantly-free-online-tool-1eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
