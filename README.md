@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: How To Code With Flow, Focus, And Fun](https://dev.to/keploy/vibe-coding-how-to-code-with-flow-focus-and-fun-3hpo)
-- [Things I have to remind myself as a developer](https://dev.to/mike_andreuzza/things-i-have-to-remind-myself-as-a-developer-2ajn)
-- [Preventing Costly Water Damage: The Business Value of Professional Plumbing Services](https://dev.to/amelia44/preventing-costly-water-damage-the-business-value-of-professional-plumbing-services-57eh)
-- [Generative AI in Healthcare: Transforming Diagnostics and Patient Experience](https://dev.to/pooja_jhaveri_c45a639c74a/generative-ai-in-healthcare-transforming-diagnostics-and-patient-experience-50k7)
-- [TCP Optimization Techniques for Web Server Performance&lpar;6826&rpar;](https://dev.to/member_fa85c472/tcp-optimization-techniques-for-web-server-performance6826-4e92)
+- [*⚙️ Essential Tools &amp; Platforms for Developers* 🛠️💻](https://dev.to/ssekabirarobertsims/-essential-tools-platforms-for-developers-gag)
+- [The Secret Life of @State in SwiftUI: Where Does My Data Actually Live?](https://dev.to/vnayak_hejib/the-secret-life-of-state-in-swiftui-where-does-my-data-actually-live-3be9)
+- [Modern Server-Side Event Implementation&lpar;1318&rpar;](https://dev.to/member_fa85c472/modern-server-side-event-implementation1318-4eeb)
+- [LeetCode #80. Remove Duplicates from Sorted Array II](https://dev.to/desiato/leetcode-80-remove-duplicates-from-sorted-array-ii-3i6c)
+- [𝐖𝐞’𝐫𝐞 𝐞𝐱𝐜𝐢𝐭𝐞𝐝 𝐭𝐨 𝐬𝐡𝐚𝐫𝐞 𝐭𝐡𝐚𝐭 𝐕𝐚𝐚𝐧𝐢 𝐀𝐠𝐞𝐧𝐭 𝐢𝐬 𝐥𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐨𝐧 𝟏𝟓 𝐀𝐮𝐠𝐮𝐬𝐭 𝟐𝟎𝟐𝟓.](https://dev.to/kashyap/--28k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
