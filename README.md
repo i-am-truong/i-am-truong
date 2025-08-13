@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating my University&#39;s STS Course &amp; Lecturer Evaluation Process with Python + Selenium](https://dev.to/aduuuna/automating-my-universitys-sts-course-lecturer-evaluation-process-with-python-selenium-18gh)
-- [AI as a Force Multiplier for Engineering Leadership](https://dev.to/cdownard/ai-as-a-force-multiplier-for-engineering-leadership-2c2n)
-- [Becoming a Polyglot Programmer: Diversifying Your Coding Skills in 2025](https://dev.to/arkhan/becoming-a-polyglot-programmer-diversifying-your-coding-skills-in-2025-342e)
-- [What Are Game Servers and How Do They Work?](https://dev.to/mehmet_demir_ff8c18052d2f/what-are-game-servers-and-how-do-they-work-20gj)
-- [Day 14 of #30DaysOfCode](https://dev.to/justacoder_0x/day-14-of-30daysofcode-2dgm)
+- [Top Al Tools Driving the Future of Work‼️ 🔥](https://dev.to/pushpendratips/top-al-tools-driving-the-future-of-work-24i7)
+- [# I Built 16 Developer Tools in One App - Here&#39;s What I Learned](https://dev.to/abhisekmallik/-i-built-16-developer-tools-in-one-app-heres-what-i-learned-1a6d)
+- [Building Production-Ready AI Agents with Semantic Kernel](https://dev.to/sebastiandevelops/building-production-ready-ai-agents-with-semantic-kernel-and-clean-net-architecture-4oeg)
+- [Scout AI: Transforming Supply Chains with Predictive Analytics and Anomaly Detection](https://dev.to/gpx_intelligence_096db842/scout-ai-transforming-supply-chains-with-predictive-analytics-and-anomaly-detection-3j47)
+- [PHP Dotenv Loads environment variables](https://dev.to/indianmodassir/php-dotenv-loads-environment-variables-23d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
