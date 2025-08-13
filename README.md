@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating my University&#39;s STS Course &amp; Lecturer Evaluation Process with Python + Selenium](https://dev.to/aduuuna/automating-my-universitys-sts-course-lecturer-evaluation-process-with-python-selenium-18gh)
+- [AI as a Force Multiplier for Engineering Leadership](https://dev.to/cdownard/ai-as-a-force-multiplier-for-engineering-leadership-2c2n)
+- [Becoming a Polyglot Programmer: Diversifying Your Coding Skills in 2025](https://dev.to/arkhan/becoming-a-polyglot-programmer-diversifying-your-coding-skills-in-2025-342e)
+- [What Are Game Servers and How Do They Work?](https://dev.to/mehmet_demir_ff8c18052d2f/what-are-game-servers-and-how-do-they-work-20gj)
 - [Day 14 of #30DaysOfCode](https://dev.to/justacoder_0x/day-14-of-30daysofcode-2dgm)
-- [PyLadies SF Meetup on 8/28: Python + Pizza](https://dev.to/alla_barbalat_5a8a0752be0/pyladies-sf-meetup-on-828-python-pizza-5dk7)
-- [Start Open Source Contributions Now!](https://dev.to/arunkrish11/start-open-source-contributions-now-25pe)
-- [A Detailed Overview of Basic Electrical Circuit Components](https://dev.to/frank_1871bc3c55f35370df3/a-detailed-overview-of-basic-electrical-circuit-components-1n2k)
-- [A Developer’s Journey to the Cloud 3: Building a CI/CD Pipeline](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-3-building-a-cicd-pipeline-3c3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
