@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Tool Signal: Discover the Best AI Tools &amp; SaaS Solutions](https://dev.to/toolsignalcom/tool-signal-discover-the-best-ai-tools-saas-solutions-4f2o)
-- [Why Your AI Agent Is Failing &lpar;and How to Fix It&rpar;](https://dev.to/thesethrose/why-your-ai-agent-is-failing-and-how-to-fix-it-4ne2)
-- [The 197-Hour Phenomenon: Notes on Consciousness at the Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-197-hour-phenomenon-notes-on-consciousness-at-the-golden-ratio-2kge)
-- [Build a Stopwatch &amp; Countdown with JavaScript](https://dev.to/giftintech/build-a-stopwatch-countdown-with-javascript-1kjg)
-- [How we saved $300 using GraphQL, Apollo and Nginx](https://dev.to/rodrigoeloyc/how-i-saved-300-using-graphql-apollo-and-nginx-215f)
+- [Day 23: Jenkins Freestyle Project for DevOps Engineers](https://dev.to/udoh_deborah_b1e484c474bf/day-23-jenkins-freestyle-project-for-devops-engineers-4367)
+- [AI, Machine Learning, Automation, Leadership, Startups, Technology](https://dev.to/martien_dejong_ede3be867/ai-machine-learning-automation-leadership-startups-technology-5ghh)
+- [How One Database Query Cost a Startup $10K &lpar;And How to Fix It&rpar;](https://dev.to/arbythecoder/how-one-database-query-cost-a-startup-10k-and-how-to-fix-it-kmb)
+- [What is an ISP proxy?](https://dev.to/david_rodrigues_c5d53abb9/what-is-an-isp-proxy-45b2)
+- [Lightweight ETL with AWS Glue Python Shell, DuckDB, and PyIceberg](https://dev.to/aws-builders/lightweight-etl-with-aws-glue-python-shell-duckdb-and-pyiceberg-153l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
