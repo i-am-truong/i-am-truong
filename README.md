@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [*⚙️ Essential Tools &amp; Platforms for Developers* 🛠️💻](https://dev.to/ssekabirarobertsims/-essential-tools-platforms-for-developers-gag)
-- [The Secret Life of @State in SwiftUI: Where Does My Data Actually Live?](https://dev.to/vnayak_hejib/the-secret-life-of-state-in-swiftui-where-does-my-data-actually-live-3be9)
-- [Modern Server-Side Event Implementation&lpar;1318&rpar;](https://dev.to/member_fa85c472/modern-server-side-event-implementation1318-4eeb)
-- [LeetCode #80. Remove Duplicates from Sorted Array II](https://dev.to/desiato/leetcode-80-remove-duplicates-from-sorted-array-ii-3i6c)
-- [𝐖𝐞’𝐫𝐞 𝐞𝐱𝐜𝐢𝐭𝐞𝐝 𝐭𝐨 𝐬𝐡𝐚𝐫𝐞 𝐭𝐡𝐚𝐭 𝐕𝐚𝐚𝐧𝐢 𝐀𝐠𝐞𝐧𝐭 𝐢𝐬 𝐥𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐨𝐧 𝟏𝟓 𝐀𝐮𝐠𝐮𝐬𝐭 𝟐𝟎𝟐𝟓.](https://dev.to/kashyap/--28k9)
+- [How I Hit $1k MRR With Redesignr.ai &lpar;After Paying $400 for a Design I Didn’t Like&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/how-i-hit-1k-mrr-with-redesignrai-after-paying-400-for-a-design-i-didnt-like-2ag2)
+- [Claude Sonnet 4 vs Kimi K2 vs Gemini 2.5 Pro: Which AI actually ships production code?⛵](https://dev.to/forgecode/claude-sonnet-4-vs-kimi-k2-vs-gemini-25-pro-which-ai-actually-ships-production-code-30j7)
+- [Managing Multiple Environments in AWS SAM &lpar;dev/prod&rpar;](https://dev.to/a-k-0047/managing-multiple-environments-in-aws-sam-devprod-4o6k)
+- [Flutter Lesson 14: Animations and Transitions](https://dev.to/jige2025/flutter-lesson-14-animations-and-transitions-2mil)
+- [Writing a Domain Model in Ruby Without Using class](https://dev.to/lef237/writing-a-domain-model-in-ruby-without-using-class-5h06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
