@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Builds a Giant Book with @Nerdforge!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-a-giant-book-with-nerdforge-3pn4)
-- [COLORS: Lila Iké - Scatter | A COLORS SHOW](https://dev.to/music_youtube/colors-lila-ike-scatter-a-colors-show-4okb)
-- [KEXP: The Wedding Present - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-full-performance-live-on-kexp-ojh)
-- [Tech With Tim: Advanced Vibe Coding Tutorial w/ Warp &lpar;Build &amp; Deploy Apps&rpar;](https://dev.to/vibe_youtube/tech-with-tim-advanced-vibe-coding-tutorial-w-warp-build-deploy-apps-178j)
-- [IGN: Red Sonja: Exclusive Clip &lpar;2025&rpar; Matilda Lutz, Robert Sheehan](https://dev.to/gg_news/ign-red-sonja-exclusive-clip-2025-matilda-lutz-robert-sheehan-2ja7)
+- [Inside the Elon Musk–Sam Altman Rivalry and Its Impact on the Future of AI](https://dev.to/grenishrai/inside-the-elon-musk-sam-altman-rivalry-and-its-impact-on-the-future-of-ai-2lm8)
+- [IoT &amp; Cloud - Intro](https://dev.to/ebenezer_tosan/iot-cloud-intro-3n2o)
+- [My-Portfolio](https://dev.to/pratipal_kumarsingh_9126/my-portfolio-5fd4)
+- [Introdução à computação quântica](https://dev.to/lucaspereiradesouzat/introducao-a-computacao-quantica-575i)
+- [Mastering PCB Prototyping and Assembly for Innovation](https://dev.to/frank_1871bc3c55f35370df3/mastering-pcb-prototyping-and-assembly-for-innovation-2o1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
