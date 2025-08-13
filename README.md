@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;8059&rpar;](https://dev.to/member_fa85c472/ultimate-optimization-of-lightweight-server-architecture8059-3bp4)
+- [How to build a Full Web Application](https://dev.to/kader1680/how-to-build-a-full-web-application-5c6n)
+- [0402 Resistor: The Tiny Wizard of Tech’s Hidden Circuits](https://dev.to/ersajay/0402-resistor-the-tiny-wizard-of-techs-hidden-circuits-3g6n)
+- [The Development Planning Fantasy](https://dev.to/charlesclinton/the-development-planning-fantasy-4con)
 - [Why Developers Are Excited About Claude Sonnet 4’s 1 Million Token Context](https://dev.to/therealmrmumba/why-developers-are-excited-about-claude-sonnet-4s-1-million-token-context-3mo9)
-- [Engineering with SOLID, DRY, KISS, YAGNI and GRASP](https://dev.to/andrey_s/engineering-with-solid-dry-kiss-yagni-and-grasp-136a)
-- [Why Microsoft Graph Permissions Keep Tripping You Up &lpar;And How to Outsmart the Consent Maze&rpar;](https://dev.to/howdataworks/why-microsoft-graph-permissions-keep-tripping-you-up-and-how-to-outsmart-the-consent-maze-44ae)
-- [AI Recruiting Software 2025: AI-Powered Automation for Smarter Hiring](https://dev.to/lyndsay_donhoff_f9c93589a/ai-recruiting-software-2025-ai-powered-automation-for-smarter-hiring-457o)
-- [FlyClock：Automatic PowerPoint &amp; PDF Countdown Timer](https://dev.to/x_eastsun_998de460ccaca7a/flyclockautomatic-powerpoint-pdf-countdown-timer-4037)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
