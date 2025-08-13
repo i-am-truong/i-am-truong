@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Start Open Source Contributions Now!](https://dev.to/arunkrish11/start-open-source-contributions-now-25pe)
 - [A Detailed Overview of Basic Electrical Circuit Components](https://dev.to/frank_1871bc3c55f35370df3/a-detailed-overview-of-basic-electrical-circuit-components-1n2k)
 - [A Developer’s Journey to the Cloud 3: Building a CI/CD Pipeline](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-3-building-a-cicd-pipeline-3c3f)
 - [A Developer’s Journey to the Cloud 2: My Database Lived in a Shoebox, and I Didn’t Even Know It](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-2-my-database-lived-in-a-shoebox-and-i-didnt-even-know-it-3ei6)
 - [A Developer’s Journey to the Cloud 1: From Localhost to Dockerized Deployment](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-1-from-localhost-to-dockerized-deployment-25d3)
-- [Blockchain Beyond Cryptocurrency](https://dev.to/pratheep_raj_d22ff9512a88/blockchain-beyond-cryptocurrency-4k4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
