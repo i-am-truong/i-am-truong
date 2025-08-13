@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [StartUps-Forum](https://dev.to/vernard_sharbney_4c39f22b/startups-forum-3ghl)
-- [NEAR vs. TON: A Dev’s Raw Take on Web3 Builds 😅](https://dev.to/ryiboms/near-vs-ton-a-devs-raw-take-on-web3-builds-24am)
-- [Brat Generator](https://dev.to/duanhjlt/brat-generator-4fh9)
-- [Scraping Olympedia for Data Analysis with Python](https://dev.to/wydoinn/scraping-olympedia-for-data-analysis-with-python-4fjo)
-- [HarmonyOS UI Design: How to Use Stack in ArkTS?](https://dev.to/harmonyos/harmonyos-ui-design-how-to-use-stack-in-arkts-68g)
+- [Outil de Cybersécurité du Jour - Aug 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-13-2025-21k7)
+- [AI Apps with memory or without](https://dev.to/bobur/ai-apps-with-memory-or-without-46k4)
+- [CouchDB Data Modelling: Prefer Smaller Attachments](https://dev.to/neighbourhoodie/couchdb-data-modelling-prefer-smaller-attachments-51hi)
+- [Python vs JavaScript Keywords Comparison](https://dev.to/mcheremnov/python-vs-javascript-keywords-comparison-2966)
+- [[Talk::Overflow #14] – Highlights from Better Software Conference 2025](https://dev.to/valpetaltechlabs/talkoverflow-14-highlights-from-better-software-conference-2025-eld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
