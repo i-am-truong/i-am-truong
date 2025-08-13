@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Authentication vs. Authorization](https://dev.to/munzir_azmi_bce5d60ed0ccc/authentication-vs-authorization-f43)
-- [The Facade Pattern](https://dev.to/tkouleris/the-facade-pattern-cem)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;9539&rpar;](https://dev.to/member_fa85c472/latency-optimization-secrets-for-millisecond-response-times9539-lam)
-- [Variable Naming in Algorithms for Coding Interviews](https://dev.to/heatherp/variable-naming-in-algorithms-for-coding-interviews-g47)
-- [Day 4: Introduction to AWS: Account Setup and IAM Basics](https://dev.to/pragnesh_patel/day-4-introduction-to-aws-account-setup-and-iam-basics-590d)
+- [Python Variables &amp; Memory: The Deep-Dive Every Beginner Needs](https://dev.to/anik_sikder_313/python-variables-memory-the-deep-dive-every-beginner-needs-425h)
+- [Docker is exactly the same everywhere... wait, not quite!](https://dev.to/boutell/docker-is-exactly-the-same-everywhere-wait-not-quite-21c7)
+- [How to set up Trello MCP server with Claude and Cursor for efficient task tracking🚀](https://dev.to/composiodev/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-1ggm)
+- [How to setup Trello MCP server with Claude and Cursor for efficient task tracking](https://dev.to/aakash67/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-4c60)
+- [Assurance voyage pour digital nomades : le guide complet 2025](https://dev.to/maroc_assistance_international/assurance-voyage-pour-digital-nomades-le-guide-complet-2025-31k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
