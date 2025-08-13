@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why 2025 Is the Year Where Quantum Computing Finally Becomes Your Business Problem](https://dev.to/imkrunalkanojiya/why-2025-is-the-year-where-quantum-computing-finally-becomes-your-business-problem-1m34)
-- [IGN: Collegiate Game Challenge 2025](https://dev.to/gg_news/ign-collegiate-game-challenge-2025-3g56)
-- [Welcome Thread - v339](https://dev.to/devteam/welcome-thread-v339-2fao)
-- [Practice #3: Foreign-key-based Dimension Table Join--A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice-3-foreign-key-based-dimension-table-join-a-lightweight-solution-to-speed-up-queries-by-404l)
-- [Day 45/100 – Reading/Writing JSON in Python](https://dev.to/therahul_gupta/day-45100-readingwriting-json-in-python-2ep1)
+- [Top 10 Features in Chrome DevTools Every Web Developer Should Know](https://dev.to/misterankit/top-10-features-in-chrome-devtools-every-web-developer-should-know-2p51)
+- [Role of Excel in Making Data-Driven Business Decisions.](https://dev.to/emanuel88/role-of-excel-in-making-data-driven-business-decisions-i5n)
+- [High-Performance Routing System Design and Implementation&lpar;5488&rpar;](https://dev.to/member_fa85c472/high-performance-routing-system-design-and-implementation5488-noi)
+- [React Performance Profiling: Finding and Fixing Bottlenecks](https://dev.to/maurya-sachin/react-performance-profiling-finding-and-fixing-bottlenecks-ja5)
+- [Astro Erudite: Opinionated Static Blogging Template for Modern Web Development](https://dev.to/jqueryscript/astro-erudite-opinionated-static-blogging-template-for-modern-web-development-447m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
