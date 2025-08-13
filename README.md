@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Variables &amp; Memory: The Deep-Dive Every Beginner Needs](https://dev.to/anik_sikder_313/python-variables-memory-the-deep-dive-every-beginner-needs-425h)
-- [Docker is exactly the same everywhere... wait, not quite!](https://dev.to/boutell/docker-is-exactly-the-same-everywhere-wait-not-quite-21c7)
-- [How to set up Trello MCP server with Claude and Cursor for efficient task tracking🚀](https://dev.to/composiodev/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-1ggm)
-- [How to setup Trello MCP server with Claude and Cursor for efficient task tracking](https://dev.to/aakash67/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-4c60)
-- [Assurance voyage pour digital nomades : le guide complet 2025](https://dev.to/maroc_assistance_international/assurance-voyage-pour-digital-nomades-le-guide-complet-2025-31k2)
+- [The Accidental Birth of NodeJS!](https://dev.to/sushan/the-accidental-birth-of-nodejs-5eoj)
+- [You Should Move Beyond the ! Operator in Flutter &lpar;2025&rpar;](https://dev.to/bestaoui_aymen/you-should-move-beyond-the-operator-in-flutter-2025-1h5c)
+- [What to Do After a Layoff: Your Recovery Roadmap](https://dev.to/applyre/what-to-do-after-a-layoff-your-recovery-roadmap-2i31)
+- [Day 4 [August 11, 2025] Python Extensibility - More research/reading to follow in day 5. I barely scratched the surface.](https://dev.to/onaolapo11/day-4-august-11-2025-python-extensibility-more-researchreading-to-follow-in-day-5-i-barely-3k2e)
+- [Join the Real-Time AI Agents Challenge powered by n8n and Bright Data: $5,000 in prizes across FIVE winners!](https://dev.to/devteam/join-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-5000-in-prizes-across-five-3nmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
