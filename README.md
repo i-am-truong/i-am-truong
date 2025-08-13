@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use Terraform refresh-only to prevent state drift and ensure accurate resource management](https://dev.to/techielass/how-to-use-terraform-refresh-only-to-prevent-state-drift-and-ensure-accurate-resource-management-23n7)
-- [Unicode-Gen: TypeScript Library for Random Emoji Generation](https://dev.to/jqueryscript/unicode-gen-typescript-library-for-random-emoji-generation-30kc)
-- [7 Tech Pain Points Every Startup Faces While Working With A Software Development Agency](https://dev.to/betterhq/7-tech-pain-points-every-startup-faces-while-working-with-a-software-development-agency-2g0o)
-- [Building a Ragnarok Online Server in Elixir - Part 2](https://dev.to/ygorcastor/building-a-ragnarok-online-server-in-elixir-part-2-4pn5)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;3086&rpar;](https://dev.to/member_fa85c472/server-side-events-implementation-for-real-time-applications3086-5fj4)
+- [Why Developers Are Excited About Claude Sonnet 4’s 1 Million Token Context](https://dev.to/therealmrmumba/why-developers-are-excited-about-claude-sonnet-4s-1-million-token-context-3mo9)
+- [Engineering with SOLID, DRY, KISS, YAGNI and GRASP](https://dev.to/andrey_s/engineering-with-solid-dry-kiss-yagni-and-grasp-136a)
+- [Why Microsoft Graph Permissions Keep Tripping You Up &lpar;And How to Outsmart the Consent Maze&rpar;](https://dev.to/howdataworks/why-microsoft-graph-permissions-keep-tripping-you-up-and-how-to-outsmart-the-consent-maze-44ae)
+- [AI Recruiting Software 2025: AI-Powered Automation for Smarter Hiring](https://dev.to/lyndsay_donhoff_f9c93589a/ai-recruiting-software-2025-ai-powered-automation-for-smarter-hiring-457o)
+- [FlyClock：Automatic PowerPoint &amp; PDF Countdown Timer](https://dev.to/x_eastsun_998de460ccaca7a/flyclockautomatic-powerpoint-pdf-countdown-timer-4037)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
