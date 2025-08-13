@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NEAR vs. TRON: A Dev&#39;s Coffee-Fueled Web3 Comparison ☕](https://dev.to/binicezy/near-vs-tron-a-devs-coffee-fueled-web3-comparison-3pi9)
-- [How to Use a Keycap Puller: A Simple Guide](https://dev.to/mysticcoder/how-to-use-a-keycap-puller-a-simple-guide-24g)
-- [cursor rules for java ddd infrastructure project](https://dev.to/shavene_lee_bd400c1435569/cursor-rules-for-java-ddd-infrastructure-project-38ae)
-- [WebSocket Revolution in Real-Time Communication&lpar;2808&rpar;](https://dev.to/member_fa85c472/websocket-revolution-in-real-time-communication2808-4gad)
-- [Choosing the Right Apple Graphics Framework for Your Game: SpriteKit, SceneKit, or Metal](https://dev.to/krishanvijay/choosing-the-right-apple-graphics-framework-for-your-game-spritekit-scenekit-or-metal-1ji6)
+- [How to use Terraform refresh-only to prevent state drift and ensure accurate resource management](https://dev.to/techielass/how-to-use-terraform-refresh-only-to-prevent-state-drift-and-ensure-accurate-resource-management-23n7)
+- [Unicode-Gen: TypeScript Library for Random Emoji Generation](https://dev.to/jqueryscript/unicode-gen-typescript-library-for-random-emoji-generation-30kc)
+- [7 Tech Pain Points Every Startup Faces While Working With A Software Development Agency](https://dev.to/betterhq/7-tech-pain-points-every-startup-faces-while-working-with-a-software-development-agency-2g0o)
+- [Building a Ragnarok Online Server in Elixir - Part 2](https://dev.to/ygorcastor/building-a-ragnarok-online-server-in-elixir-part-2-4pn5)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;3086&rpar;](https://dev.to/member_fa85c472/server-side-events-implementation-for-real-time-applications3086-5fj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
