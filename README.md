@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Diferencias Clave: display: block vs. inline](https://dev.to/tu_codigocotidiano_f173d/diferencias-clave-display-block-vs-inline-3gjk)
-- [Diferencias Clave: display: block vs. inline &lpar;Adelanto de Guía&rpar;](https://dev.to/tu_codigocotidiano_f173d/diferencias-clave-display-block-vs-inline-adelanto-de-guia-3542)
-- [Your Tests Are Slow — You Need to Migrate to Bun](https://dev.to/kcsujeet/your-tests-are-slow-you-need-to-migrate-to-bun-9hh)
-- [How to Tame Your AI Agents: From $900 in 18 Days to Coding Smarter](https://dev.to/kenahrens/how-to-tame-your-ai-agents-from-900-in-18-days-to-coding-smarter-75n)
-- [15 foundational concepts on Data Engineering](https://dev.to/kilemba/15-foundational-concepts-on-data-engineering-4557)
+- [Dipping Your Toes into AI? Here&#39;s What You Should Read.](https://dev.to/happycoding753/dipping-your-toes-into-ai-heres-what-you-should-read-c65)
+- [Elegant Middleware Architecture Implementation&lpar;2545&rpar;](https://dev.to/member_fa85c472/elegant-middleware-architecture-implementation2545-5124)
+- [5 Signs You’re Ready to Apply for Coding Jobs &lpar;Even if You Don’t Feel Ready&rpar;](https://dev.to/beyond-code/5-signs-youre-ready-to-apply-for-coding-jobs-even-if-you-dont-feel-ready-4ngp)
+- [OOP - Abstract Classes](https://dev.to/carlbeattie2000/oop-abstract-classes-bf)
+- [Using Redis with Nuxt on Windows](https://dev.to/ibz786/using-redis-with-nuxt-on-windows-56d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
