@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 23: Jenkins Freestyle Project for DevOps Engineers](https://dev.to/udoh_deborah_b1e484c474bf/day-23-jenkins-freestyle-project-for-devops-engineers-4367)
-- [AI, Machine Learning, Automation, Leadership, Startups, Technology](https://dev.to/martien_dejong_ede3be867/ai-machine-learning-automation-leadership-startups-technology-5ghh)
-- [How One Database Query Cost a Startup $10K &lpar;And How to Fix It&rpar;](https://dev.to/arbythecoder/how-one-database-query-cost-a-startup-10k-and-how-to-fix-it-kmb)
-- [What is an ISP proxy?](https://dev.to/david_rodrigues_c5d53abb9/what-is-an-isp-proxy-45b2)
-- [Lightweight ETL with AWS Glue Python Shell, DuckDB, and PyIceberg](https://dev.to/aws-builders/lightweight-etl-with-aws-glue-python-shell-duckdb-and-pyiceberg-153l)
+- [Rick Beato: The Voice of Rock: Matt Pinfield Returns](https://dev.to/music_youtube/rick-beato-the-voice-of-rock-matt-pinfield-returns-496d)
+- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2d2o)
+- [IGN: Krypto Saves the Day! - Official Clip &lpar;2025&rpar;](https://dev.to/gg_news/ign-krypto-saves-the-day-official-clip-2025-4cdc)
+- [IGN: Car Park Capital - Official Announcement Trailer](https://dev.to/gg_news/ign-car-park-capital-official-announcement-trailer-3hem)
+- [IGN: Another Major Game Is Ending PS4, Xbox One Support - IGN Daily Fix](https://dev.to/gg_news/ign-another-major-game-is-ending-ps4-xbox-one-support-ign-daily-fix-2h5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
