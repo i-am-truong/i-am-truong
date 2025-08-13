@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Workplace Safety Tracking in Business Central](https://dev.to/marc_c_670e79ccffca807a2c_57/simplifying-workplace-safety-tracking-in-business-central-23od)
-- [How We&#39;re Building a Decentralized App Store for AI Agents on Web3](https://dev.to/jneums/how-were-building-a-decentralized-app-store-for-ai-agents-on-web3-2dh2)
-- [Automatic Lights ON/OFF in Spas with IoT: Creating the Perfect Wellness Atmosphere](https://dev.to/elite_chicagospad_1c5b47/automatic-lights-onoff-in-spas-with-iot-creating-the-perfect-wellness-atmosphere-3e0c)
-- [🔐 What if the key to a secret was held by many, not one?](https://dev.to/amorino/what-if-the-key-to-a-secret-was-held-by-many-not-one-27en)
-- [Pandas Skills: From DataFrame Accessors to Sales Data Business Insights](https://dev.to/labex/pandas-skills-from-dataframe-accessors-to-sales-data-business-insights-58n0)
+- [Semana 1 — Node + TypeScript con mentalidad Rails &lpar;versión extendida&rpar;](https://dev.to/pwalvarado/semana-1-node-typescript-con-mentalidad-rails-version-extendida-1645)
+- [Stack Overflow Developer Survey 2025](https://dev.to/mikehtmlallthethings/stack-overflow-developer-survey-2025-2249)
+- [Hackathon &quot;Web Thiruvizha&quot;](https://dev.to/abishek_44a09d1e1af19b4ca/hackathon-web-thiruvizha-245a)
+- [🎮 Gaming Innovations: The Future is Now](https://dev.to/achref_rhouma_b019c220e57/gaming-innovations-the-future-is-now-2kol)
+- [The Power of AI: How Artificial Intelligence is Reshaping Our World in 2025 🤖⚡](https://dev.to/achref_rhouma_b019c220e57/the-power-of-ai-how-artificial-intelligence-is-reshaping-our-world-in-2025-32dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
