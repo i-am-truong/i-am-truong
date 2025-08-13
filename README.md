@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2025-8875: N-able N-Central Insecure Deserialization Vulnerability](https://dev.to/freedom_coder/cve-2025-8875-n-able-n-central-insecure-deserialization-vulnerability-3p1d)
 - [Rick Beato: The Voice of Rock: Matt Pinfield Returns](https://dev.to/music_youtube/rick-beato-the-voice-of-rock-matt-pinfield-returns-496d)
 - [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2d2o)
-- [IGN: Krypto Saves the Day! - Official Clip &lpar;2025&rpar;](https://dev.to/gg_news/ign-krypto-saves-the-day-official-clip-2025-4cdc)
-- [IGN: Car Park Capital - Official Announcement Trailer](https://dev.to/gg_news/ign-car-park-capital-official-announcement-trailer-3hem)
-- [IGN: Another Major Game Is Ending PS4, Xbox One Support - IGN Daily Fix](https://dev.to/gg_news/ign-another-major-game-is-ending-ps4-xbox-one-support-ign-daily-fix-2h5f)
+- [CVE-2025-8876: N-able N-Central Command Injection Vulnerability](https://dev.to/freedom_coder/cve-2025-8876-n-able-n-central-command-injection-vulnerability-3do3)
+- [You&#39;re Using Optional Wrong! This Java Flaw Leaks Memory &amp; Crashes Apps](https://dev.to/xuan_56087d315ff4f52254e6/youre-using-optional-wrong-this-java-flaw-leaks-memory-crashes-apps-ln8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
