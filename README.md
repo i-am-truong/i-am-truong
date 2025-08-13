@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why 2025 Is the Year Where Quantum Computing Finally Becomes Your Business Problem](https://dev.to/imkrunalkanojiya/why-2025-is-the-year-where-quantum-computing-finally-becomes-your-business-problem-1m34)
 - [IGN: Collegiate Game Challenge 2025](https://dev.to/gg_news/ign-collegiate-game-challenge-2025-3g56)
 - [Welcome Thread - v339](https://dev.to/devteam/welcome-thread-v339-2fao)
 - [Practice #3: Foreign-key-based Dimension Table Join--A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice-3-foreign-key-based-dimension-table-join-a-lightweight-solution-to-speed-up-queries-by-404l)
 - [Day 45/100 – Reading/Writing JSON in Python](https://dev.to/therahul_gupta/day-45100-readingwriting-json-in-python-2ep1)
-- [Smart engineers are no longer needed](https://dev.to/yoozzeek/smart-engineers-are-no-longer-needed-3a08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
