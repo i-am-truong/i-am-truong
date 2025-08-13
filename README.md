@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask: testing hello world](https://dev.to/szabgab/flask-testing-hello-world-ej)
 - [Error Handling Strategies in High-Performance Web Servers&lpar;7837&rpar;](https://dev.to/member_fa85c472/error-handling-strategies-in-high-performance-web-servers7837-529j)
 - [Best Frameworks for RAG Observability](https://dev.to/debmckinney/best-frameworks-for-rag-observability-42e3)
 - [接手 AI 项目 5 步流程](https://dev.to/tuo_cheng_68980dbefbe1e75/jie-shou-ai-xiang-mu-5-bu-liu-cheng-2p4a)
 - [Parasite SEO vs. Traditional SEO: Which Is Better for Fast Results in 2025?](https://dev.to/bloggrai/parasite-seo-vs-traditional-seo-which-is-better-for-fast-results-in-2025-1388)
-- [Mixed auth set up with Kinde for B2B and B2C](https://dev.to/kinde/mixed-auth-set-up-with-kinde-for-b2b-and-b2c-19na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
