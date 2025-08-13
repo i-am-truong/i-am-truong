@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode #88. Merge Sorted Array](https://dev.to/desiato/leetcode-88-merge-sorted-array-2p47)
-- [GitHub Profilimi Görsel Bir Manifestoya Dönüştürdüm / I Turned My GitHub Profile into a Visual Manifesto](https://dev.to/ahmet_salih_8292ac732eaf9/github-profilimi-gorsel-bir-manifestoya-donusturdum-i-turned-my-github-profile-into-a-visual-2dke)
-- [Hiring &gt;&gt; Senior Software Engineer &lpar;Go&rpar;](https://dev.to/sashaklimova/hiring-senior-software-engineer-go-4kkm)
-- [Mastering Modern CSS: Unlock the Power of Grid, Flexbox, and More for Stunning Web Layouts](https://dev.to/okoye_ndidiamaka_5e3b7d30/mastering-modern-css-unlock-the-power-of-grid-flexbox-and-more-for-stunning-web-layouts-4cg0)
-- [My Python Internship Journey with Oasis Infobyte 🚀](https://dev.to/nayan_sharma_d79a23c89594/my-python-internship-journey-with-oasis-infobyte-2aom)
+- [Title: How I Cracked My Coding Interviews with a Simple Pattern-Based DSA Approach](https://dev.to/arpitmalik832/title-how-i-cracked-my-coding-interviews-with-a-simple-pattern-based-dsa-approach-mn1)
+- [IoT platform — Total.js](https://dev.to/palo/iot-platform-totaljs-41p4)
+- [Angular Addicts #40: Angular 20.1, NgRx 20, Zoneless testing, Native Federation &amp; more](https://dev.to/this-is-angular/angular-addicts-40-angular-201-ngrx-20-zoneless-testing-native-federation-more-3cob)
+- [Fostering a Growth Mindset: The Unexpected Benefits of Online Learning for Students](https://dev.to/ghummantech/fostering-a-growth-mindset-the-unexpected-benefits-of-online-learning-for-students-56n6)
+- [Stop using React hooks for every things](https://dev.to/david_poulain/stop-using-react-hooks-for-every-things-p73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
