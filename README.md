@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How did the world reach microservices?](https://dev.to/atharva_sharma_8b4cb9669d/how-did-the-world-reach-microservices-57pm)
+- [How to build an AI That Turns Scripts Into Short Films:](https://dev.to/rareniches/how-to-build-an-ai-that-turns-scripts-into-short-films-38fp)
 - [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-1ied)
 - [The Nyash programming language introduced in this article is a newborn language with 0 GitHub Stars](https://dev.to/charmpic/the-nyash-programming-language-introduced-in-this-article-is-a-newborn-language-with-0-github-stars-5gjb)
 - [Arnaldo Tomo – Engenheiro de Software, Criador do Laravel Lusophone](https://dev.to/arnaldo/arnaldo-tomo-engenheiro-de-software-criador-do-laravel-lusophone-48j8)
-- [🌟 Laravel Lusophone: Moçambique no mapa da comunidade Laravel 🚀](https://dev.to/arnaldo/laravel-lusophone-mocambique-no-mapa-da-comunidade-laravel-4ckp)
-- [🚀 Laravel Lusophone: o pacote que colocou Moçambique no mapa da comunidade Laravel 🌍](https://dev.to/arnaldo/laravel-lusophone-o-pacote-que-colocou-mocambique-no-mapa-da-comunidade-laravel-1bgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
