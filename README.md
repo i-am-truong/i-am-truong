@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Ways to Fix Misrepresentation Google Merchant Center Suspended](https://dev.to/me_bhavesh/7-ways-to-fix-misrepresentation-google-merchant-center-suspended-4fc2)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;7060&rpar;](https://dev.to/member_fa85c472/error-handling-strategies-in-high-performance-web-servers7060-1dao)
 - [Top 10 Features in Chrome DevTools Every Web Developer Should Know](https://dev.to/misterankit/top-10-features-in-chrome-devtools-every-web-developer-should-know-2p51)
 - [Role of Excel in Making Data-Driven Business Decisions.](https://dev.to/emanuel88/role-of-excel-in-making-data-driven-business-decisions-i5n)
 - [High-Performance Routing System Design and Implementation&lpar;5488&rpar;](https://dev.to/member_fa85c472/high-performance-routing-system-design-and-implementation5488-noi)
-- [React Performance Profiling: Finding and Fixing Bottlenecks](https://dev.to/maurya-sachin/react-performance-profiling-finding-and-fixing-bottlenecks-ja5)
-- [Astro Erudite: Opinionated Static Blogging Template for Modern Web Development](https://dev.to/jqueryscript/astro-erudite-opinionated-static-blogging-template-for-modern-web-development-447m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
