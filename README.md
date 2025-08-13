@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top Al Tools Driving the Future of Work‼️ 🔥](https://dev.to/pushpendratips/top-al-tools-driving-the-future-of-work-24i7)
-- [# I Built 16 Developer Tools in One App - Here&#39;s What I Learned](https://dev.to/abhisekmallik/-i-built-16-developer-tools-in-one-app-heres-what-i-learned-1a6d)
-- [Building Production-Ready AI Agents with Semantic Kernel](https://dev.to/sebastiandevelops/building-production-ready-ai-agents-with-semantic-kernel-and-clean-net-architecture-4oeg)
-- [Scout AI: Transforming Supply Chains with Predictive Analytics and Anomaly Detection](https://dev.to/gpx_intelligence_096db842/scout-ai-transforming-supply-chains-with-predictive-analytics-and-anomaly-detection-3j47)
-- [PHP Dotenv Loads environment variables](https://dev.to/indianmodassir/php-dotenv-loads-environment-variables-23d0)
+- [Turning Your &quot;Braindumps&quot; Into Trackable Tasks](https://dev.to/aronsonben/turning-your-braindumps-into-trackable-tasks-4bf5)
+- [How to Master the art of prompting?](https://dev.to/paradox_07/how-to-master-the-art-of-prompting-2p2e)
+- [Golf.com: Warming Up with Dustin Johnson](https://dev.to/youtube_golf/golfcom-warming-up-with-dustin-johnson-2hgi)
+- [Zero-Downtime Blue-Green Deployments with 90% Less Infrastructure Cost](https://dev.to/garrett_yan_d4f2213af3329/zero-downtime-blue-green-deployments-with-90-less-infrastructure-cost-5aa4)
+- [Zero-Downtime Blue-Green Deployments with 90% Less Infrastructure Cost](https://dev.to/garrett_yan_d4f2213af3329/zero-downtime-blue-green-deployments-with-90-less-infrastructure-cost-46li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
