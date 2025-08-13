@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Implementation for High Concurrency Processing&lpar;9240&rpar;](https://dev.to/member_fa85c472/rust-implementation-for-high-concurrency-processing9240-2h2p)
+- [From Frustration to Contribution: My Journey Into the Heart of Open Source HTTP](https://dev.to/guespo/from-frustration-to-contribution-my-journey-into-the-heart-of-open-source-http-bg7)
 - [Translation Word Count: Factors To Consider](https://dev.to/colinreed/translation-word-count-factors-to-consider-8b)
 - [Creating Push Button Trading: A Journey in Algorithmic Trading with Python and C++](https://dev.to/alfie_john_a024c49002ff26/creating-push-button-trading-a-journey-in-algorithmic-trading-with-python-and-c-4ipf)
 - [Rust Async Web Framework Performance Breakthrough&lpar;6664&rpar;](https://dev.to/member_fa85c472/rust-async-web-framework-performance-breakthrough6664-57cf)
-- [🚀 Git Rebase vs Merge: When and How to Use Them Like a Pro](https://dev.to/manukumar07/git-rebase-vs-merge-when-and-how-to-use-them-like-a-pro-4hjb)
-- [How to Design a Chess Pawn Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-chess-pawn-using-3d-cad-software-4inn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
