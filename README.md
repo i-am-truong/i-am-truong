@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Boring Cybersecurity Theory: Hats &lpar;Understand Attackers&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-hats-nderstand-attackers-ek)
-- [# Terminal Mastery for Backend Developers: Essential Commands You Actually Need](https://dev.to/sudiip__17/-terminal-mastery-for-backend-developers-essential-commands-you-actually-need-5bl6)
-- [Boring Cybersecurity Theory: CIA Triad &lpar;The Core Principles of Security&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-cia-triad-the-core-principles-of-security-3m3k)
-- [Boring Cybersecurity Theory: Where it all began](https://dev.to/dharbachou/boring-cybersecurity-theory-where-it-all-began-4m6b)
-- [Why Meteor.js Is Still Awesome in 2025 — A Deep-Dive Case Study Building Sounds Social](https://dev.to/matteodem/why-meteorjs-is-still-awesome-in-2025-a-deep-dive-case-study-building-sounds-social-2854)
+- [Adam Savage&#39;s Tested: Adam Savage Builds a Giant Book with @Nerdforge!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-a-giant-book-with-nerdforge-3pn4)
+- [COLORS: Lila Iké - Scatter | A COLORS SHOW](https://dev.to/music_youtube/colors-lila-ike-scatter-a-colors-show-4okb)
+- [KEXP: The Wedding Present - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-full-performance-live-on-kexp-ojh)
+- [Tech With Tim: Advanced Vibe Coding Tutorial w/ Warp &lpar;Build &amp; Deploy Apps&rpar;](https://dev.to/vibe_youtube/tech-with-tim-advanced-vibe-coding-tutorial-w-warp-build-deploy-apps-178j)
+- [IGN: Red Sonja: Exclusive Clip &lpar;2025&rpar; Matilda Lutz, Robert Sheehan](https://dev.to/gg_news/ign-red-sonja-exclusive-clip-2025-matilda-lutz-robert-sheehan-2ja7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
