@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-1ied)
+- [The Nyash programming language introduced in this article is a newborn language with 0 GitHub Stars](https://dev.to/charmpic/the-nyash-programming-language-introduced-in-this-article-is-a-newborn-language-with-0-github-stars-5gjb)
+- [Arnaldo Tomo – Engenheiro de Software, Criador do Laravel Lusophone](https://dev.to/arnaldo/arnaldo-tomo-engenheiro-de-software-criador-do-laravel-lusophone-48j8)
 - [🌟 Laravel Lusophone: Moçambique no mapa da comunidade Laravel 🚀](https://dev.to/arnaldo/laravel-lusophone-mocambique-no-mapa-da-comunidade-laravel-4ckp)
 - [🚀 Laravel Lusophone: o pacote que colocou Moçambique no mapa da comunidade Laravel 🌍](https://dev.to/arnaldo/laravel-lusophone-o-pacote-que-colocou-mocambique-no-mapa-da-comunidade-laravel-1bgi)
-- [CVE-2025-8875: N-able N-Central Insecure Deserialization Vulnerability](https://dev.to/freedom_coder/cve-2025-8875-n-able-n-central-insecure-deserialization-vulnerability-3p1d)
-- [Rick Beato: The Voice of Rock: Matt Pinfield Returns](https://dev.to/music_youtube/rick-beato-the-voice-of-rock-matt-pinfield-returns-496d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
