@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Task Cancellation in Spring Boot: A Practical Guide](https://dev.to/devaaai/implementing-task-cancellation-in-spring-boot-a-practical-guide-a6l)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;8805&rpar;](https://dev.to/member_fa85c472/memory-safety-meets-extreme-performance-in-web-servers8805-1ann)
-- [Mastering the UI/Logic &lpar;Container/Presentation&rpar; Pattern in React With Hooks, Headless Components, and My Beloved Zustand](https://dev.to/allename_dev/mastering-the-uilogic-containerpresentation-pattern-in-react-with-hooks-headless-components-3ic6)
-- [Leveraging AI in Business Analytics: A Game-Changer for Smarter Decisions 🚀](https://dev.to/business_pulse_777d1c0c45/leveraging-ai-in-business-analytics-a-game-changer-for-smarter-decisions-1545)
-- [How to setup Tailwind css to your Expo project](https://dev.to/agent_69/how-to-setup-tailwind-css-to-your-expo-project-2l4i)
+- [Laravel Filament Backend Starter – Build your admin panel fast](https://dev.to/filamentmastery/laravel-filament-backend-starter-build-your-admin-panel-fast-2447)
+- [Building an AI-Powered Terraform Assistant](https://dev.to/selvapal/building-an-ai-powered-terraform-assistant-5cfd)
+- [What is Help Desk Software? A Complete Guide for 2025](https://dev.to/mdsheikh524/what-is-help-desk-software-a-complete-guide-for-2025-2a96)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;0979&rpar;](https://dev.to/member_fa85c472/http-request-processing-with-zero-copy-optimization0979-59m2)
+- [AngularDart: The Forgotten Sibling of Flutter](https://dev.to/shamnad_sherief/angulardart-the-forgotten-sibling-of-flutter-1eem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
