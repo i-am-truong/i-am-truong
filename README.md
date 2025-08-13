@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TCP vs UDP in 2025: Choosing the Right Protocol for Your Application](https://dev.to/lightningdev123/tcp-vs-udp-in-2025-choosing-the-right-protocol-for-your-application-c02)
-- [Siber Güvenlik Refleksi: Apache ve CUPS Üzerinde Sızma Testi Süreci / Cybersecurity Reflex: Penetration Testing on Apache &amp; CUPS](https://dev.to/ahmet_salih/siber-guvenlik-refleksi-apache-ve-cups-uzerinde-sizma-testi-sureci-cybersecurity-reflex-16fn)
-- [Learning the Basic programming concepts of java](https://dev.to/ajay_sundar_c3eb3bcf9f98d/mastering-the-basic-programming-concepts-of-java-3kd6)
-- [From Idea to Prototype in 7 Days . How We Built a Scalable Web App with Next.js and AWS](https://dev.to/millipixels1/from-idea-to-prototype-in-7-days-how-we-built-a-40ji)
-- [The Evolving Backbone of Electronics &lpar;Top PCB companies&rpar;](https://dev.to/frank_1871bc3c55f35370df3/the-evolving-backbone-of-electronics-top-pcb-companies-307e)
+- [New Choice for Cross-Platform Web Service Development&lpar;4215&rpar;](https://dev.to/member_fa85c472/new-choice-for-cross-platform-web-service-development4215-20cd)
+- [OWOX Data Marts - Free Open-Source Self-Service Analytics Platform](https://dev.to/owoxbi/owox-data-marts-free-open-source-self-service-analytics-platform-3bea)
+- [Evolutionary Algorithm Framework in Java](https://dev.to/koolkiyo/evolutionary-algorithm-framework-in-java-17h2)
+- [Django Has Never Let Me Down](https://dev.to/stokry/django-has-never-let-me-down-19b8)
+- [KEXP: The Wedding Present - Take Me! &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-take-me-live-on-kexp-4b92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
