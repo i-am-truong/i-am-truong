@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Siber Güvenlik Refleksi: Apache ve CUPS Üzerinde Sızma Testi Süreci / Cybersecurity Reflex: Penetration Testing on Apache &amp; CUPS](https://dev.to/ahmet_salih_8292ac732eaf9/siber-guvenlik-refleksi-apache-ve-cups-uzerinde-sizma-testi-sureci-cybersecurity-reflex-16fn)
+- [TCP vs UDP in 2025: Choosing the Right Protocol for Your Application](https://dev.to/lightningdev123/tcp-vs-udp-in-2025-choosing-the-right-protocol-for-your-application-c02)
+- [Siber Güvenlik Refleksi: Apache ve CUPS Üzerinde Sızma Testi Süreci / Cybersecurity Reflex: Penetration Testing on Apache &amp; CUPS](https://dev.to/ahmet_salih/siber-guvenlik-refleksi-apache-ve-cups-uzerinde-sizma-testi-sureci-cybersecurity-reflex-16fn)
 - [Learning the Basic programming concepts of java](https://dev.to/ajay_sundar_c3eb3bcf9f98d/mastering-the-basic-programming-concepts-of-java-3kd6)
 - [From Idea to Prototype in 7 Days . How We Built a Scalable Web App with Next.js and AWS](https://dev.to/millipixels1/from-idea-to-prototype-in-7-days-how-we-built-a-40ji)
 - [The Evolving Backbone of Electronics &lpar;Top PCB companies&rpar;](https://dev.to/frank_1871bc3c55f35370df3/the-evolving-backbone-of-electronics-top-pcb-companies-307e)
-- [Basic TypeScript for JavaScript Programmers](https://dev.to/ashutoshsarangi/basic-typescript-for-javascript-programmers-1n7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
