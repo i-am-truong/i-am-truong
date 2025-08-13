@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Title: How I Cracked My Coding Interviews with a Simple Pattern-Based DSA Approach](https://dev.to/arpitmalik832/title-how-i-cracked-my-coding-interviews-with-a-simple-pattern-based-dsa-approach-mn1)
-- [IoT platform — Total.js](https://dev.to/palo/iot-platform-totaljs-41p4)
-- [Angular Addicts #40: Angular 20.1, NgRx 20, Zoneless testing, Native Federation &amp; more](https://dev.to/this-is-angular/angular-addicts-40-angular-201-ngrx-20-zoneless-testing-native-federation-more-3cob)
-- [Fostering a Growth Mindset: The Unexpected Benefits of Online Learning for Students](https://dev.to/ghummantech/fostering-a-growth-mindset-the-unexpected-benefits-of-online-learning-for-students-56n6)
-- [Stop using React hooks for every things](https://dev.to/david_poulain/stop-using-react-hooks-for-every-things-p73)
+- [StartUps-Forum](https://dev.to/vernard_sharbney_4c39f22b/startups-forum-3ghl)
+- [NEAR vs. TON: A Dev’s Raw Take on Web3 Builds 😅](https://dev.to/ryiboms/near-vs-ton-a-devs-raw-take-on-web3-builds-24am)
+- [Brat Generator](https://dev.to/duanhjlt/brat-generator-4fh9)
+- [Scraping Olympedia for Data Analysis with Python](https://dev.to/wydoinn/scraping-olympedia-for-data-analysis-with-python-4fjo)
+- [HarmonyOS UI Design: How to Use Stack in ArkTS?](https://dev.to/harmonyos/harmonyos-ui-design-how-to-use-stack-in-arkts-68g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
