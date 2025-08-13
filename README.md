@@ -32,40 +32,40 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-629-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-630-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-623.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-667.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 116.5 kB Used in GitHub's Storage 
+> 📦 126.1 kB Used in GitHub's Storage 
  > 
-> 🏆 947 Contributions in the Year 2025
+> 🏆 959 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                630 commits         ████████░░░░░░░░░░░░░░░░░   30.97 % 
-🌆 Daytime                713 commits         █████████░░░░░░░░░░░░░░░░   35.05 % 
-🌃 Evening                578 commits         ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-🌙 Night                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+🌞 Morning                637 commits         ████████░░░░░░░░░░░░░░░░░   30.85 % 
+🌆 Daytime                736 commits         █████████░░░░░░░░░░░░░░░░   35.64 % 
+🌃 Evening                579 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌙 Night                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   320 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Tuesday                  300 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Wednesday                251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Thursday                 443 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Friday                   245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Saturday                 263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Sunday                   212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Monday                   320 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Tuesday                  296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Wednesday                274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Thursday                 447 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Friday                   253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Saturday                 263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Sunday                   212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 ```
 
 
@@ -90,10 +90,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
-TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Java                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               11 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
+TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Java                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -103,7 +104,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2025 17:18:35 UTC
+ Last Updated on 13/08/2025 17:15:43 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-truong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
