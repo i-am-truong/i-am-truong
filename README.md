@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agents, Subagents, and Multi Agents: What They Are and When to Use Them](https://dev.to/blockopensource/agents-subagents-and-multi-agents-what-they-are-and-when-to-use-them-39na)
+- [A Practical Guide to Effective Claude Code: Less Impressed, More Involved](https://dev.to/robertmoore/a-practical-guide-to-effective-claude-code-less-impressed-more-involved-56ao)
 - [How to Set Up a Cross-Platform Dev Environment in Termux &lpar;2025 Edition&rpar;](https://dev.to/terminaltools/how-to-set-up-a-cross-platform-dev-environment-in-termux-2025-edition-19lp)
 - [What is Automated Functional Testing: Types, Benefits &amp; Tools](https://dev.to/morrismoses149/what-is-automated-functional-testing-types-benefits-tools-1ga0)
 - [Data Engineering Concepts](https://dev.to/susan_waweru_a4fd6b337288/concepts-of-data-engineering-54l6)
-- [Introducing SteelThread: Evals &amp; Observability for Reliable Agents](https://dev.to/vincenzo_bianco_2a3b1e91d/introducing-steelthread-evals-observability-for-reliable-agents-5ebe)
-- [🚀 Supercharge Your Kubernetes Workflow with These AI Co-pilots! 🤖](https://dev.to/insertlines/supercharge-your-kubernetes-workflow-with-these-ai-co-pilots-1cj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
