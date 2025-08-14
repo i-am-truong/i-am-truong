@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Reasonably Simple, Secure Password Scheme](https://dev.to/f1lt3r/a-reasonably-simple-secure-password-scheme-4890)
-- [SIEM &lpar;Security Information and Event Management system&rpar; - overview](https://dev.to/moh4med404/siem-security-information-and-event-management-system-overview-3la4)
-- [From JavaScript to Python: A Smooth Transition for Web Developers](https://dev.to/labreu00/from-javascript-to-python-a-smooth-transition-for-web-developers-1o4g)
-- [VPS Deployment Guide &lpar;NEXT JS/REACT JS + GITHUB ACTIONS&rpar;](https://dev.to/heyitsuzair/vps-deployment-guide-next-jsreact-js-github-actions-ff5)
-- [IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips](https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf)
+- [How to Send POST Data with fetch&lpar;&rpar;](https://dev.to/arasosman/how-to-send-post-data-with-fetch-36i9)
+- [Laravel Eloquent: Advanced Query Optimization and Profiling Techniques](https://dev.to/arasosman/laravel-eloquent-advanced-query-optimization-and-profiling-techniques-25nn)
+- [Laravel Memory Optimization: 12 Advanced Techniques for Resource Efficiency](https://dev.to/arasosman/laravel-memory-optimization-12-advanced-techniques-for-resource-efficiency-a7a)
+- [Firewalls 101](https://dev.to/moh4med404/firewalls-101-3cjm)
+- [Running Claude Code inside your dev containers](https://dev.to/sbotto/running-claude-code-inside-your-dev-containers-36e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
