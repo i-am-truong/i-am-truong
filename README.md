@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 5: AWS ECR: Creating and Managing Container Registries](https://dev.to/pragnesh_patel/day-5-aws-ecr-creating-and-managing-container-registries-1a9g)
-- [Ambient Intelligence from a Bird? You Won’t Believe What This Code Does](https://dev.to/owly/ambient-intelligence-from-a-bird-you-wont-believe-what-this-code-does-1n8a)
-- [Jules 2.0: Google&#39;s Asynchronous AI Coding Agent That Works While You Code](https://dev.to/daleymottley/jules-20-googles-asynchronous-ai-coding-agent-that-works-while-you-code-2ogj)
-- [IGN: Jurassic Park: Survival - Official Behind the Scenes Featurette](https://dev.to/gg_news/ign-jurassic-park-survival-official-behind-the-scenes-featurette-824)
-- [Will There Be A Snow Day Tomorrow?](https://dev.to/sncalculator_068c3e28afeb/will-there-be-a-snow-day-tomorrow-23do)
+- [Data Engineering Concepts](https://dev.to/susan_waweru_a4fd6b337288/concepts-of-data-engineering-54l6)
+- [Introducing SteelThread: Evals &amp; Observability for Reliable Agents](https://dev.to/vincenzo_bianco_2a3b1e91d/introducing-steelthread-evals-observability-for-reliable-agents-5ebe)
+- [🚀 Supercharge Your Kubernetes Workflow with These AI Co-pilots! 🤖](https://dev.to/insertlines/supercharge-your-kubernetes-workflow-with-these-ai-co-pilots-1cj9)
+- [Backup your DNS in 30 sec](https://dev.to/kedster/backup-your-dns-in-30-sec-55lh)
+- [PVS-Studio 7.38: new C++ analyzer core, user annotations in Java, enhanced taint analysis, and more](https://dev.to/pvsdev/pvs-studio-738-new-c-analyzer-core-user-annotations-in-java-enhanced-taint-analysis-and-more-3oll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
