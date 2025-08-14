@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Secret Recipe - TryHackMe Write-up](https://dev.to/forrestcaffray/secret-recipe-tryhackme-write-up-64a)
+- [Supercharging Your React State Management with Zustand](https://dev.to/ekwoster/supercharging-your-react-state-management-with-zustand-b7l)
+- [Integrating ChatGPT AI Agents into Business Workflows: A Step-by-Step Approach](https://dev.to/gyan_consulting/integrating-chatgpt-ai-agents-into-business-workflows-a-step-by-step-approach-1e4k)
+- [MCP Vulnerabilities Every Developer Should Know](https://dev.to/composiodev/mcp-vulnerabilities-every-developer-should-know-6f9)
 - [How to Expose Localhost to the Internet: A Developer&#39;s Guide](https://dev.to/robbiecahill/how-to-expose-localhost-to-the-internet-a-developers-guide-48mm)
-- [Stop Fighting URL State in React: Introducing react-zod-url-state](https://dev.to/zeeshanhshaheen/stop-fighting-url-state-in-react-introducing-react-zod-url-state-4ca9)
-- [Beyond Human Touch: How AI Enhances Talent Strategy](https://dev.to/megha_sharma/beyond-human-touch-how-ai-enhances-talent-strategy-4i2l)
-- [Make Your Filestack Uploader Look Good with Tailwind](https://dev.to/ideradevtools/make-your-filestack-uploader-look-good-with-tailwind-185p)
-- [My Journey to AWS Certified AI Practitioner](https://dev.to/aws-builders/my-journey-to-aws-certified-ai-practitioner-16hi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
