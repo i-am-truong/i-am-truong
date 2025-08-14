@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is HTML and HTML semantic elements](https://dev.to/abdurrahman_adewusi_c3d0f/what-is-html-and-html-semantic-elements-2k6i)
-- [How AI Agents Are Writing &amp; Testing Smart Contracts in 2025](https://dev.to/velvosoft/how-ai-agents-are-writing-testing-smart-contracts-in-2025-2pao)
-- [GitHub&#39;s August 2025 AI Updates: What Every Developer Needs to Know](https://dev.to/shiva_shanker_k/githubs-august-2025-ai-updates-what-every-developer-needs-to-know-4aam)
-- [AI Agents: What Are They, Your Key to Smarter Coding](https://dev.to/eleftheriabatsou/ai-agents-what-are-they-your-key-to-smarter-coding-3b71)
-- [How Marketers Quest Is Changing the Way Creators and Brands Win on Social Media](https://dev.to/tushar_mq/how-marketers-quest-is-changing-the-way-creators-and-brands-win-on-social-media-21mf)
+- [KDE Gear 25.08 Released with Key Improvements](https://dev.to/neerajlovecyber/kde-gear-2508-released-with-key-improvements-5hln)
+- [AI Agent Pricing Models for Developers: Subscription vs Usage-Based vs Outcome-Based &lpar;With Implementation Tips&rpar;](https://dev.to/johnsaas/ai-agent-pricing-models-for-developers-subscription-vs-usage-based-vs-outcome-based-with-4a9f)
+- [The Ultimate Guide to Custom Software Development for Businesses](https://dev.to/prashant_ba8e01191938c7fc/the-ultimate-guide-to-custom-software-development-for-businesses-1ld8)
+- [Ansible Dynamic Inventory: Types, How to Use &amp; Examples](https://dev.to/spacelift/ansible-dynamic-inventory-types-how-to-use-examples-4ff1)
+- [How Backlinks Are Added and How They Work](https://dev.to/adil_maqsood_2ac3c8ead50c/how-backlinks-are-added-and-how-they-work-1nm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
