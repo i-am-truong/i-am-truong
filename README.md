@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Major Challenges of Performance Testing and Solutions](https://dev.to/harishrajora12/major-challenges-of-performance-testing-and-solutions-35oo)
-- [NPR Music: Omar: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-omar-tiny-desk-concert-57hk)
-- [GameSpot: Visit McDonaldLand, A New Map Created in Fortnite &lpar;Featuring Khleo Thomas&rpar;](https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-nk7)
-- [JavaScript’s Most Misunderstood Feature: The Event Loop Isn’t What You Think](https://dev.to/idioseph/javascripts-most-misunderstood-feature-the-event-loop-isnt-what-you-think-4n15)
-- [Hilirisasi Fiber di PHP dapat Membuka 19 juta Lapangan Lambo](https://dev.to/hibiscusht/hilirisasi-fiber-di-php-dapat-membuka-19-juta-lapangan-lambo-44p7)
+- [What is HTML and HTML semantic elements](https://dev.to/abdurrahman_adewusi_c3d0f/what-is-html-and-html-semantic-elements-2k6i)
+- [How AI Agents Are Writing &amp; Testing Smart Contracts in 2025](https://dev.to/velvosoft/how-ai-agents-are-writing-testing-smart-contracts-in-2025-2pao)
+- [GitHub&#39;s August 2025 AI Updates: What Every Developer Needs to Know](https://dev.to/shiva_shanker_k/githubs-august-2025-ai-updates-what-every-developer-needs-to-know-4aam)
+- [AI Agents: What Are They, Your Key to Smarter Coding](https://dev.to/eleftheriabatsou/ai-agents-what-are-they-your-key-to-smarter-coding-3b71)
+- [How Marketers Quest Is Changing the Way Creators and Brands Win on Social Media](https://dev.to/tushar_mq/how-marketers-quest-is-changing-the-way-creators-and-brands-win-on-social-media-21mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
