@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Coding Everything by Hand: Supercharge Your Go Development with These 6 Libraries](https://dev.to/tomastomas/stop-coding-everything-by-hand-supercharge-your-go-development-with-these-6-libraries-4l3o)
-- [How to Improve Logging in ArkTS: A Better Alternative to hilog with LogManager?](https://dev.to/harmonyos/how-to-improve-logging-in-arkts-a-better-alternative-to-hilog-with-logmanager-4ke5)
-- [CLASSIFIED: INTELLIGENCE BRIEFING](https://dev.to/kfc/classified-intelligence-briefing-2pc7)
-- [View design with Razor syntax](https://dev.to/elanatframework/view-design-with-razor-syntax-3pp8)
-- [Microservices Infrastructure vs Monoliths: Pros and Cons](https://dev.to/serveravatar/microservices-infrastructure-vs-monoliths-pros-and-cons-2g7n)
+- [🧪 JSFiddle — The Playground for Frontend Developers](https://dev.to/ml318097/jsfiddle-the-playground-for-frontend-developers-1g21)
+- [Leetcode 53: Maximum Subarray in JavaScript](https://dev.to/tochi_/leetcode-53-maximum-subarray-in-javascript-2ln6)
+- [🚀 Introducing AetherCode: Your Offline AI Coding Assistant!](https://dev.to/prit_patel_3847364eb3f973/introducing-aethercode-your-offline-ai-coding-assistant-39ig)
+- [Playwright Reporting in 10 Minutes](https://dev.to/testdino/playwright-reporting-in-10-minutes-267o)
+- [Why Flexprice Picked Go From Day One And Never Looked Back](https://dev.to/flexprice_8116ed925/why-flexprice-picked-go-from-day-one-and-never-looked-back-4438)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
