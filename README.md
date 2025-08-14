@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Workflow base en Next.js + TypeScript: de la historia de usuario al listado funcional](https://dev.to/buildlogmmd/workflow-base-en-nextjs-typescript-de-la-historia-de-usuario-al-listado-funcional-46l9)
-- [pyaction: Python and the GitHub CLI in a Docker Container](https://dev.to/cicirello/pyaction-python-and-the-github-cli-in-a-docker-container-3682)
-- [KavinAI Technologies — Shaping the AI Future of India](https://dev.to/imintointernet_org/kavinai-technologies-shaping-the-ai-future-of-india-2bci)
-- [How to establish a personal brand on LinkedIn](https://dev.to/jha_preeti_2e3cee0f05d5fa/how-to-establish-a-personal-brand-on-linkedin-ioe)
-- [Mastering DevOps: Build a Bulletproof CI/CD Pipeline for Java Web App from Scratch using AWS Native Solutions! 🚀](https://dev.to/suvrajeet/mastering-devops-build-a-bulletproof-cicd-pipeline-for-java-web-app-from-scratch-using-aws-1ke2)
+- [Vectors in AI: A Bridge Between Code and Business](https://dev.to/instancian/vectors-in-ai-a-bridge-between-code-and-business-11h2)
+- [🚀 From Zero to Secure: Deploying a Hardened Azure Environment with Terraform &amp; Azure CLI](https://dev.to/achref_rhouma_b019c220e57/from-zero-to-secure-deploying-a-hardened-azure-environment-with-terraform-azure-cli-33pf)
+- [Introduction to Fetching Data with JavaScript and APIs — For Programmers](https://dev.to/youngjoshua248/introduction-to-fetching-data-with-javascript-and-apis-for-programmers-10nh)
+- [I Gave ChatGPT a Face — And Everything Changed](https://dev.to/epic_programmer_55489f708/i-gave-chatgpt-a-face-and-everything-changed-16ie)
+- [🚀 Advanced Implementation and Production Excellence](https://dev.to/abdelrahman_adnan/advanced-implementation-and-production-excellence-4619)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
