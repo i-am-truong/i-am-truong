@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up a Cross-Platform Dev Environment in Termux &lpar;2025 Edition&rpar;](https://dev.to/terminaltools/how-to-set-up-a-cross-platform-dev-environment-in-termux-2025-edition-19lp)
+- [What is Automated Functional Testing: Types, Benefits &amp; Tools](https://dev.to/morrismoses149/what-is-automated-functional-testing-types-benefits-tools-1ga0)
 - [Data Engineering Concepts](https://dev.to/susan_waweru_a4fd6b337288/concepts-of-data-engineering-54l6)
 - [Introducing SteelThread: Evals &amp; Observability for Reliable Agents](https://dev.to/vincenzo_bianco_2a3b1e91d/introducing-steelthread-evals-observability-for-reliable-agents-5ebe)
 - [🚀 Supercharge Your Kubernetes Workflow with These AI Co-pilots! 🤖](https://dev.to/insertlines/supercharge-your-kubernetes-workflow-with-these-ai-co-pilots-1cj9)
-- [Backup your DNS in 30 sec](https://dev.to/kedster/backup-your-dns-in-30-sec-55lh)
-- [PVS-Studio 7.38: new C++ analyzer core, user annotations in Java, enhanced taint analysis, and more](https://dev.to/pvsdev/pvs-studio-738-new-c-analyzer-core-user-annotations-in-java-enhanced-taint-analysis-and-more-3oll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
