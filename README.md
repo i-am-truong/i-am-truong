@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [generate-sitemap 1.10.3 Released](https://dev.to/cicirello/generate-sitemap-1103-released-4b4b)
-- [Programação quântica com JavaScript e Qiskit](https://dev.to/lucaspereiradesouzat/programacao-quantica-com-javascript-e-qiskit-2b1a)
-- [Are Modern Development Tools Making Us Better or Different Programmers?](https://dev.to/pullflow/are-modern-development-tools-making-us-better-or-different-programmers-4kg4)
-- [TAB:- The Assistant Bot](https://dev.to/aakashredy/tab-the-assistant-bot-4pak)
-- [Adam Savage&#39;s Tested: Adam Savage Inside a Gaming Laptop Design Lab!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-inside-a-gaming-laptop-design-lab-5g9h)
+- [Congrats to the Frontend Challenge: Office Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-office-edition-winners-30p9)
+- [Unlocking the Power of Zustand: A Simple and Scalable State Management for React](https://dev.to/ekwoster/unlocking-the-power-of-zustand-a-simple-and-scalable-state-management-for-react-id3)
+- [I&#39;m Building an AI Agent to Write My Unit Tests](https://dev.to/herchila/im-building-an-ai-agent-to-write-my-unit-tests-2493)
+- [MCP Elicitation: Human-in-the-Loop for MCP Servers](https://dev.to/kachurun/mcp-elicitation-human-in-the-loop-for-mcp-servers-m6a)
+- [gnu-on-alpine 3.22.1 and alpine-plus-plus 3.22.1 Released](https://dev.to/cicirello/gnu-on-alpine-3221-and-alpine-plus-plus-3221-released-4cib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
