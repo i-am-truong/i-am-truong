@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Cuál es tu estilo de crianza?](https://dev.to/el_amordetvida_c4e199/cual-es-tu-estilo-de-crianza-1d4m)
-- [The 90/20 Rule for Devs: Why It Works](https://dev.to/vadym_info_polus/the-9020-rule-for-devs-why-it-works-5epl)
-- [Tunnelmole: An Open Source Tunneling Tool for Secure and Easy Access](https://dev.to/robbiecahill/tunnelmole-an-open-source-tunneling-tool-for-secure-and-easy-access-2ogi)
-- [KEXP: The Tubs - Wretched Lie &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-wretched-lie-live-on-kexp-51oh)
-- [KEXP: The Tubs - Freak Mode &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-freak-mode-live-on-kexp-j70)
+- [Stop Coding Everything by Hand: Supercharge Your Go Development with These 6 Libraries](https://dev.to/tomastomas/stop-coding-everything-by-hand-supercharge-your-go-development-with-these-6-libraries-4l3o)
+- [How to Improve Logging in ArkTS: A Better Alternative to hilog with LogManager?](https://dev.to/harmonyos/how-to-improve-logging-in-arkts-a-better-alternative-to-hilog-with-logmanager-4ke5)
+- [CLASSIFIED: INTELLIGENCE BRIEFING](https://dev.to/kfc/classified-intelligence-briefing-2pc7)
+- [View design with Razor syntax](https://dev.to/elanatframework/view-design-with-razor-syntax-3pp8)
+- [Microservices Infrastructure vs Monoliths: Pros and Cons](https://dev.to/serveravatar/microservices-infrastructure-vs-monoliths-pros-and-cons-2g7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
