@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your RAG is Basic. Here&#39;s the KG-RAG Pattern We Used to Build a Real AI Agent.](https://dev.to/nikhil_agrawal_dc58a32b09/your-rag-is-basic-heres-the-kg-rag-pattern-we-used-to-build-a-real-ai-agent-3hej)
-- [[typescript]how to build a ts project](https://dev.to/cgithub123/typescripthow-to-build-a-ts-project-2i27)
-- [WTF is Digital Twin?](https://dev.to/dailybugle33/wtf-is-digital-twin-o9)
-- [After Wasting $10K on Manual Ads, I Switched to AI—Here’s What Actually Happened](https://dev.to/_45c30a0d677716416f5cd/after-wasting-10k-on-manual-ads-i-switched-to-ai-heres-what-actually-happened-1pfo)
-- [Internal Details About S3](https://dev.to/aws-builders/internal-details-about-s3-26nn)
+- [I Designed My Tokenomics with GPT-5 and This Is What Happened](https://dev.to/deploytokens/i-designed-my-tokenomics-with-gpt-5-and-this-is-what-happened-5268)
+- [Apache DolphinScheduler July Community Newsletter | Key Fixes and Performance Optimizations in Full Swing](https://dev.to/chen_debra_3060b21d12b1b0/apache-dolphinscheduler-july-community-newsletter-key-fixes-and-performance-optimizations-in-full-250i)
+- [Why Cilium Outperforms AWS VPC CNI: A Deep Dive into Kubernetes Networking](https://dev.to/parimal5/why-cilium-outperforms-aws-vpc-cni-a-deep-dive-into-kubernetes-networking-nef)
+- [FreeSWITCH vs. Asterisk – Developer’s Perspective in 2025](https://dev.to/jackmorris10/freeswitch-vs-asterisk-developers-perspective-in-2025-20bg)
+- [How To Build Full Stack App With Vercel: Express, Supabase and ejs](https://dev.to/sfundomhlungu/how-to-build-full-stack-app-with-vercel-express-supabase-and-ejs-c99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
