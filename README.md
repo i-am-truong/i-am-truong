@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Attention made the AI leap possible!](https://dev.to/warmac4964/how-attention-made-the-ai-leap-possible-2866)
+- [[Boost]](https://dev.to/arshdeep_palial_c966081e6/-4e2j)
+- [Configure pgstattuple](https://dev.to/hujan/configure-pgstattuple-3pnf)
 - [🧪 JSFiddle — The Playground for Frontend Developers](https://dev.to/ml318097/jsfiddle-the-playground-for-frontend-developers-1g21)
 - [Leetcode 53: Maximum Subarray in JavaScript](https://dev.to/tochi_/leetcode-53-maximum-subarray-in-javascript-2ln6)
-- [🚀 Introducing AetherCode: Your Offline AI Coding Assistant!](https://dev.to/prit_patel_3847364eb3f973/introducing-aethercode-your-offline-ai-coding-assistant-39ig)
-- [Playwright Reporting in 10 Minutes](https://dev.to/testdino/playwright-reporting-in-10-minutes-267o)
-- [Why Flexprice Picked Go From Day One And Never Looked Back](https://dev.to/flexprice_8116ed925/why-flexprice-picked-go-from-day-one-and-never-looked-back-4438)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
