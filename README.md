@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable AI Workflows with n8n, Dify, and Custom Agent Integration](https://dev.to/zediot/building-scalable-ai-workflows-with-n8n-dify-and-custom-agent-integration-3epp)
-- [Design Patterns for the Modern Java Engineer](https://dev.to/jungledev/design-patterns-for-the-modern-java-engineer-4l69)
-- [Build Google Chat apps as Google Workspace Add-ons](https://dev.to/googleworkspace/build-google-chat-apps-as-google-workspace-add-ons-3lc1)
-- [Spring Boot Python Executor: Integrating Java and Python](https://dev.to/w4t3rcs/spring-boot-python-executor-integrating-java-and-python-oma)
-- [Beginner’s Guide to Freelancing: Project Management Edition](https://dev.to/blog-9/beginners-guide-to-freelancing-project-management-edition-23pm)
+- [Major Challenges of Performance Testing and Solutions](https://dev.to/harishrajora12/major-challenges-of-performance-testing-and-solutions-35oo)
+- [NPR Music: Omar: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-omar-tiny-desk-concert-57hk)
+- [GameSpot: Visit McDonaldLand, A New Map Created in Fortnite &lpar;Featuring Khleo Thomas&rpar;](https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-nk7)
+- [JavaScript’s Most Misunderstood Feature: The Event Loop Isn’t What You Think](https://dev.to/idioseph/javascripts-most-misunderstood-feature-the-event-loop-isnt-what-you-think-4n15)
+- [Hilirisasi Fiber di PHP dapat Membuka 19 juta Lapangan Lambo](https://dev.to/hibiscusht/hilirisasi-fiber-di-php-dapat-membuka-19-juta-lapangan-lambo-44p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
