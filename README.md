@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built the Ultimate Free Markdown to PDF Converter](https://dev.to/samik-dev/i-built-the-ultimate-free-markdown-to-pdf-converter-3874)
-- [Responsive Design Tips: Making Your Website Look Great on Every Device](https://dev.to/eva_clari_289d85ecc68da48/responsive-design-tips-making-your-website-look-great-on-every-device-1oib)
-- [GraphQL Crash Course: The New Legacy System.](https://dev.to/sfundomhlungu/graphql-crash-course-the-new-legacy-system-30lo)
-- [Unlocking Market Insights: How Dubizzle API Can Revolutionize Classified Ad Analysis](https://dev.to/mcatee/unlocking-market-insights-how-dubizzle-api-can-revolutionize-classified-ad-analysis-1k0a)
-- [Day-79 Understanding Regular Expressions in Java](https://dev.to/tamilselvan1812/day-79-understanding-regular-expressions-in-java-5hma)
+- [Building Scalable AI Workflows with n8n, Dify, and Custom Agent Integration](https://dev.to/zediot/building-scalable-ai-workflows-with-n8n-dify-and-custom-agent-integration-3epp)
+- [Design Patterns for the Modern Java Engineer](https://dev.to/jungledev/design-patterns-for-the-modern-java-engineer-4l69)
+- [Build Google Chat apps as Google Workspace Add-ons](https://dev.to/googleworkspace/build-google-chat-apps-as-google-workspace-add-ons-3lc1)
+- [Spring Boot Python Executor: Integrating Java and Python](https://dev.to/w4t3rcs/spring-boot-python-executor-integrating-java-and-python-oma)
+- [Beginner’s Guide to Freelancing: Project Management Edition](https://dev.to/blog-9/beginners-guide-to-freelancing-project-management-edition-23pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
