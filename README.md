@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Factories e Seeders com Laravel](https://dev.to/pilsaraujo/factories-e-seeders-com-laravel-l8)
-- [Convert Office Docs to PDFs Automatically with Foxit PDF Services API](https://dev.to/foxitdevelopers/convert-office-docs-to-pdfs-automatically-with-foxit-pdf-services-api-3876)
-- [Secure Login with Google Auth: A Developer&#39;s Introduction](https://dev.to/marioacrespo/secure-login-with-google-auth-a-developers-introduction-5g7a)
-- [Define a Self-Referential Many-to-Many Model in GORM](https://dev.to/adityaokke/create-self-referential-many2many-on-gorm-1g72)
-- [Monitoring Java APIs on EC2 with Amazon CloudWatch and AWS X-Ray](https://dev.to/aws-builders/monitoring-java-apis-on-ec2-with-amazon-cloudwatch-and-aws-x-ray-110a)
+- [Killing cold starts with Lambda SnapStart](https://dev.to/aws-builders/killing-cold-starts-with-lambda-snapstart-1h77)
+- [Automatización de alertas y recordatorios para limpiezas energéticas usando Python y APIs](https://dev.to/carmen_lopezlopeza_31258/automatizacion-de-alertas-y-recordatorios-para-limpiezas-energeticas-usando-python-y-apis-hhj)
+- [Dev Log 05](https://dev.to/asx/dev-log-05-2g7o)
+- [MCP + VS Code: Assisted pentest on an HTB box — from install to first flag](https://dev.to/mr_trive/mcp-vs-code-assisted-pentest-on-an-htb-box-from-install-to-first-flag-4hb)
+- [The Jobs AI Can’t Touch &lpar;Yet&rpar;: Why Some Roles Are Safe from Automation](https://dev.to/thesethrose/the-jobs-ai-cant-touch-yet-why-some-roles-are-safe-from-automation-192f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
