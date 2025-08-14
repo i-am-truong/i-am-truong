@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use v0 by Vercel for Beginners](https://dev.to/nikolayadvolodkin/how-to-use-v0-by-vercel-for-beginners-1fdn)
+- [Day 65: Debugging Life While Building Dreams](https://dev.to/casperday11/day-65-debugging-life-while-building-dreams-4dg7)
 - [Congrats to the Frontend Challenge: Office Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-office-edition-winners-30p9)
-- [Unlocking the Power of Zustand: A Simple and Scalable State Management for React](https://dev.to/ekwoster/unlocking-the-power-of-zustand-a-simple-and-scalable-state-management-for-react-id3)
-- [I&#39;m Building an AI Agent to Write My Unit Tests](https://dev.to/herchila/im-building-an-ai-agent-to-write-my-unit-tests-2493)
-- [MCP Elicitation: Human-in-the-Loop for MCP Servers](https://dev.to/kachurun/mcp-elicitation-human-in-the-loop-for-mcp-servers-m6a)
-- [gnu-on-alpine 3.22.1 and alpine-plus-plus 3.22.1 Released](https://dev.to/cicirello/gnu-on-alpine-3221-and-alpine-plus-plus-3221-released-4cib)
+- [Why Python developers should switch to uv](https://dev.to/upsun/why-python-developers-should-switch-to-uv-1i4f)
+- [My First JavaScript Project – Car Counter App 🚗](https://dev.to/argha_tech2025/my-first-javascript-project-car-counter-app-209b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
