@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Mini Framework Using Java Reflection](https://dev.to/iammadhankumar/build-mini-framework-using-java-reflection-21lm)
+- [Por que deixei a “empresa dos sonhos” para voltar ao ritmo de startup](https://dev.to/gcamargosilva/por-que-deixei-a-empresa-dos-sonhos-para-voltar-ao-ritmo-de-startup-1l3j)
 - [How to Use v0 by Vercel for Beginners](https://dev.to/nikolayadvolodkin/how-to-use-v0-by-vercel-for-beginners-1fdn)
 - [Day 65: Debugging Life While Building Dreams](https://dev.to/casperday11/day-65-debugging-life-while-building-dreams-4dg7)
 - [Congrats to the Frontend Challenge: Office Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-office-edition-winners-30p9)
-- [Why Python developers should switch to uv](https://dev.to/upsun/why-python-developers-should-switch-to-uv-1i4f)
-- [My First JavaScript Project – Car Counter App 🚗](https://dev.to/argha_tech2025/my-first-javascript-project-car-counter-app-209b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
