@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Google AdMob Guide – How to Monetize Your Mobile App Like a Pro](https://dev.to/dev-arafat-alim/google-admob-guide-how-to-monetize-your-mobile-app-like-a-pro-14hb)
+- [React Native 0.81 out!!!🚀 - Android 16 support, faster iOS builds, and many more...](https://dev.to/sumeet45/react-native-081-out-android-16-support-faster-ios-builds-and-many-more-2g7m)
 - [Automating Tests with Playwright and PageObject: A Practical Approach](https://dev.to/rodrigoobc/automating-tests-with-playwright-and-pageobject-a-practical-approach-5c12)
 - [Advanced SQL Part 1: Window Functions Explained with Precision](https://dev.to/gervaisamoah/advanced-sql-part-1-window-functions-explained-with-precision-146o)
 - [Introduction to Data-Driven Testing with Java and MongoDB](https://dev.to/mongodb_guests/introduction-to-data-driven-testing-with-java-and-mongodb-h9a)
-- [How to use the Aspire Dashboard with a legacy WinForms application](https://dev.to/volkmarr/how-to-use-the-aspire-dashboard-with-a-legacy-winforms-application-igf)
-- [GPT-Native Referencing : GNR Is The New Frontier of Visibility in the Age of AI](https://dev.to/stephane_hamlin_19e7cc71/gpt-native-referencing-gnr-is-the-new-frontier-of-visibility-in-the-age-of-ai-3bgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
