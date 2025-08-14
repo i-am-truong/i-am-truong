@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Workflow base en Next.js + TypeScript: de la historia de usuario al listado funcional](https://dev.to/buildlogmmd/workflow-base-en-nextjs-typescript-de-la-historia-de-usuario-al-listado-funcional-46l9)
+- [pyaction: Python and the GitHub CLI in a Docker Container](https://dev.to/cicirello/pyaction-python-and-the-github-cli-in-a-docker-container-3682)
 - [KavinAI Technologies — Shaping the AI Future of India](https://dev.to/imintointernet_org/kavinai-technologies-shaping-the-ai-future-of-india-2bci)
 - [How to establish a personal brand on LinkedIn](https://dev.to/jha_preeti_2e3cee0f05d5fa/how-to-establish-a-personal-brand-on-linkedin-ioe)
 - [Mastering DevOps: Build a Bulletproof CI/CD Pipeline for Java Web App from Scratch using AWS Native Solutions! 🚀](https://dev.to/suvrajeet/mastering-devops-build-a-bulletproof-cicd-pipeline-for-java-web-app-from-scratch-using-aws-1ke2)
-- [Verified Ordered Set in Dafny](https://dev.to/hath995/verified-ordered-set-in-dafny-2aak)
-- [Peter Finch Golf: I take on the LONGEST golf course in the world &lpar;insane challenge&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-take-on-the-longest-golf-course-in-the-world-insane-challenge-344o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
