@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Messy Code: High Cohesion and Low Coupling](https://dev.to/abhinawkr/refactoring-messy-code-high-cohesion-and-low-coupling-3p7e)
-- [🚀 Hibernate Like a Boss on Arch/EndeavourOS with Dracut + Swapfile](https://dev.to/memlenz/hibernate-like-a-boss-on-archendeavouros-with-dracut-swapfile-2anh)
-- [Six Common Mistakes in Log Collection Failures: Practices From Local Management Anti-patterns to LoongCollector Standard](https://dev.to/observabilityguy/six-common-mistakes-in-log-collection-failures-practices-from-local-management-anti-patterns-to-5f1m)
-- [8 Scalable Dashboard Design Tactics for Big Data](https://dev.to/priyansh_shah_786ec03624e/8-scalable-dashboard-design-tactics-for-big-data-4124)
-- [India: The Suicide Capital of the World — Why We Must Mandate Mental Health Education in Schools](https://dev.to/emotionalbutok/india-the-suicide-capital-of-the-world-why-we-must-mandate-mental-health-education-in-schools-18nc)
+- [Terraform Data Sources: What They Are &amp; How to Use Them Effectively](https://dev.to/techielass/terraform-data-sources-what-they-are-how-to-use-them-effectively-33o6)
+- [Simplifying SQL Date Data Types with Practical Tips](https://dev.to/dbvismarketing/simplifying-sql-date-data-types-with-practical-tips-528p)
+- [Building Four Dog Paws: the story, the code, the challenges, and the roadmap](https://dev.to/urbanpawspecialist/building-four-dog-paws-the-story-the-code-the-challenges-and-the-roadmap-43gn)
+- [Schedule Override: The Safety Valve Your Cloud Automation Has Been Missing](https://dev.to/zopdev/schedule-override-the-safety-valve-your-cloud-automation-has-been-missing-4njl)
+- [Spring AI with Amazon Bedrock - Part 1 Introduction and the sample application](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-1-introduction-and-the-sample-application-4hof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
