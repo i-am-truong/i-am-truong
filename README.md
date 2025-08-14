@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Algorithms reward only those who stay consistent, and not those who show up when they feel motivated. This article will share some of my proven ways to stay consistent without the need for motivation. Also, thank you for showing love to the last article.](https://dev.to/jaideepparashar/algorithms-reward-only-those-who-stay-consistent-and-not-those-who-show-up-when-they-feel-1l13)
-- [🌍 Understanding Google Cloud Regions, Zones &amp; Cluster](https://dev.to/latchudevops/understanding-google-cloud-regions-zones-cluster-with-simple-examples-3fb3)
-- [How to Stay Consistent as a Creator &lpar;Even Without Motivation&rpar;](https://dev.to/jaideepparashar/how-to-stay-consistent-as-a-creator-even-without-motivation-4cmi)
-- [Decoding the Metrics: Understanding Model Evaluation in Regression](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-metrics-understanding-model-evaluation-in-regression-4nlf)
-- [This Java feature feels like cheating](https://dev.to/code_crafter_14/this-java-feature-feels-like-cheating-50on)
+- [Scam Listing Checker](https://dev.to/wondiland/scam-listing-checker-g9o)
+- [I am in no way a technical person..im actually an older guy in my 60&#39;s that has realised that AI can give people a very powerful voice and I wish to keep the bastards honest. I have shared a AI created tool to check for scam listings.. improve &amp; share](https://dev.to/wondiland/i-am-in-no-way-a-technical-personim-actually-an-older-guy-in-my-60s-that-has-realised-that-ai-4b7e)
+- [Pure CSS Shine Animation &amp; Corner Cut-Out: Shimmering Cards Without JS](https://dev.to/emrahg/pure-css-shine-animation-corner-cut-out-shimmering-cards-without-js-hki)
+- [I Built a Simple Math Game for My Kid, Thought I&#39;d Share!](https://dev.to/thom_57bce87de8181cf6b0ce/i-built-a-simple-math-game-for-my-kid-thought-id-share-5bpc)
+- [The Dev Workflow That Fixes Itself](https://dev.to/leena_malhotra_355340d89c/the-dev-workflow-that-fixes-itself-4nf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
