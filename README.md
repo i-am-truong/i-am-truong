@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adding a new View without changing the Controller and Model](https://dev.to/elanatframework/adding-a-new-view-without-changing-the-controller-and-model-pbe)
-- [Monolithic class in PHP](https://dev.to/ahmedraza_fyntune/monolithic-class-in-php-47p8)
-- [Integrating Monte Carlo Tree Search in Chess Game Engines](https://dev.to/krishanvijay/integrating-monte-carlo-tree-search-in-chess-game-engines-52k2)
-- [Cross-Domain State Sharing: From Hacks to Real-Time Sync](https://dev.to/adrai/cross-domain-state-sharing-from-hacks-to-real-time-sync-1k5g)
-- [The Rise of Specialized AI Agents: How to Architect, Deploy, and Manage Them on AWS](https://dev.to/tarunsinghofficial/the-rise-of-specialized-ai-agents-how-to-architect-deploy-and-manage-them-on-aws-2hm7)
+- [Your RAG is Basic. Here&#39;s the KG-RAG Pattern We Used to Build a Real AI Agent.](https://dev.to/nikhil_agrawal_dc58a32b09/your-rag-is-basic-heres-the-kg-rag-pattern-we-used-to-build-a-real-ai-agent-3hej)
+- [[typescript]how to build a ts project](https://dev.to/cgithub123/typescripthow-to-build-a-ts-project-2i27)
+- [WTF is Digital Twin?](https://dev.to/dailybugle33/wtf-is-digital-twin-o9)
+- [After Wasting $10K on Manual Ads, I Switched to AI—Here’s What Actually Happened](https://dev.to/_45c30a0d677716416f5cd/after-wasting-10k-on-manual-ads-i-switched-to-ai-heres-what-actually-happened-1pfo)
+- [Internal Details About S3](https://dev.to/aws-builders/internal-details-about-s3-26nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
