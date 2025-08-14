@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debug Smarter: Multimodal Error Analysis for Next.js with Daft.ai](https://dev.to/akritikeswani/debug-smarter-multimodal-error-analysis-for-nextjs-with-daftai-34mj)
-- [How did the world reach microservices?](https://dev.to/atharva_sharma_8b4cb9669d/how-did-the-world-reach-microservices-57pm)
-- [How to build an AI That Turns Scripts Into Short Films:](https://dev.to/rareniches/how-to-build-an-ai-that-turns-scripts-into-short-films-38fp)
-- [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-1ied)
-- [The Nyash programming language introduced in this article is a newborn language with 0 GitHub Stars](https://dev.to/charmpic/the-nyash-programming-language-introduced-in-this-article-is-a-newborn-language-with-0-github-stars-5gjb)
+- [Build a Real-World IROPS Re-accommodation Workflow with KaibanJS](https://dev.to/kaibanjs/build-a-real-world-irops-re-accommodation-workflow-with-kaibanjs-i3n)
+- [Demi: Building a Language From the Metal Up](https://dev.to/bobrossrtx/demi-building-a-language-from-the-metal-up-5ahc)
+- [Beyond skeleton pipelines: who owns your software pipeline?](https://dev.to/mattallford/beyond-skeleton-pipelines-who-owns-your-software-pipeline-3dn9)
+- [Title: Unveiling North Korea&#39;s Spy Operations: A Rare Insight from Hackers](https://dev.to/yagyaraj_sharma_6cd410179/title-unveiling-north-koreas-spy-operations-a-rare-insight-from-hackers-280p)
+- [Title: Identifying Gaps in Exoplanet Science: A Decadal Survey by NASA](https://dev.to/yagyaraj_sharma_6cd410179/title-identifying-gaps-in-exoplanet-science-a-decadal-survey-by-nasa-5e8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
