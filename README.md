@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agents, Subagents, and Multi Agents: What They Are and When to Use Them](https://dev.to/blockopensource/agents-subagents-and-multi-agents-what-they-are-and-when-to-use-them-39na)
-- [A Practical Guide to Effective Claude Code: Less Impressed, More Involved](https://dev.to/robertmoore/a-practical-guide-to-effective-claude-code-less-impressed-more-involved-56ao)
-- [How to Set Up a Cross-Platform Dev Environment in Termux &lpar;2025 Edition&rpar;](https://dev.to/terminaltools/how-to-set-up-a-cross-platform-dev-environment-in-termux-2025-edition-19lp)
-- [What is Automated Functional Testing: Types, Benefits &amp; Tools](https://dev.to/morrismoses149/what-is-automated-functional-testing-types-benefits-tools-1ga0)
-- [Data Engineering Concepts](https://dev.to/susan_waweru_a4fd6b337288/concepts-of-data-engineering-54l6)
+- [Introducing SteelThread: Evals &amp; Observability for Reliable Agents](https://dev.to/portia-ai/introducing-steelthread-evals-observability-for-reliable-agents-1bc7)
+- [How to Automate Daily Backups with Termux and Rclone](https://dev.to/terminaltools/how-to-automate-daily-backups-with-termux-and-rclone-5feb)
+- [A Guide to Analyzing Risk Factor Length in 10-K Filings with FinFeedAPI](https://dev.to/finfeedapi/a-guide-to-analyzing-risk-factor-length-in-10-k-filings-with-finfeedapi-4aph)
+- [A Simple Referral Request Email That Works – My Job Hunting Trick](https://dev.to/vincenttommi/a-simple-referral-request-email-that-works-my-job-hunting-trick-1jh4)
+- [Spending Hours on Lesson Plans? MindMap AI Gets It Done in Minutes](https://dev.to/knowledge_curator/spending-hours-on-lesson-plans-mindmap-ai-gets-it-done-in-minutes-2hof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
