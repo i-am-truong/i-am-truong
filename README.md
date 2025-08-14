@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Boosting Network Monitoring with Guardius Ping Task](https://dev.to/guardius/boosting-network-monitoring-with-guardius-ping-task-2042)
-- [Finagle’s Fourth Law and BDD](https://dev.to/supejuice/finagles-fourth-law-and-bdd-ji1)
-- [UI Automation &amp; Instrumentation Testing for Desktop Apps](https://dev.to/jtputh/ui-automation-instrumentation-testing-for-windows-applications-3g71)
-- [vscode](https://dev.to/itboy2012/vscode-4fjc)
-- [How to Run gpt-oss Locally in NativeMind &lpar;Setup Guide&rpar;](https://dev.to/nativemind/how-to-run-gpt-oss-locally-in-nativemind-setup-guide-2d08)
+- [Well Played, Perplexity: The $34.5B Bet to Buy Google Chrome](https://dev.to/nikhilwagh/well-played-perplexity-the-345b-bet-to-buy-google-chrome-3l6d)
+- [JavaScript Interview Question: Compute the Sum of a List of Numbers, Recursively](https://dev.to/codeguage/javascript-interview-question-compute-the-sum-of-a-list-of-numbers-recursively-1fml)
+- [Snowflake RBAC 101 – Episode 2: Role Hierarchies &amp; Least Privilege](https://dev.to/qvfagundes/snowflake-rbac-101-episode-2-role-hierarchies-least-privilege-4fge)
+- [Bridging the Gap Between LLMs and Enterprise APIs using FastMCP: How to Auto-Generate AI Tools from OpenAPI Specs](https://dev.to/sreeni5018/bridging-the-gap-between-llms-and-enterprise-apis-using-fastmcp-how-to-auto-generate-ai-tools-from-4cf9)
+- [Creating &amp; Visualizing Neural Network in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/creating-visualizing-neural-network-in-r-39h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
