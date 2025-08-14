@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When AI Fights Back: The Next Decade of Digital Security](https://dev.to/arkhan/when-ai-fights-back-the-next-decade-of-digital-security-4hpn)
-- [Terraform + GitHub Actions for automation](https://dev.to/achref_rhouma_b019c220e57/terraform-github-actions-for-automation-3gga)
-- [Setting Up the Infrastructure #39](https://dev.to/0xj0n1/setting-up-the-infrastructure-39-1ppl)
-- [My First Post](https://dev.to/lelemaxwell/my-first-post-3f3)
-- [Vectors in AI: A Bridge Between Code and Business](https://dev.to/instancian/vectors-in-ai-a-bridge-between-code-and-business-11h2)
+- [Convert Office Docs to PDFs Automatically with Foxit PDF Services API](https://dev.to/foxitdevelopers/convert-office-docs-to-pdfs-automatically-with-foxit-pdf-services-api-3876)
+- [Secure Login with Google Auth: A Developer&#39;s Introduction](https://dev.to/marioacrespo/secure-login-with-google-auth-a-developers-introduction-5g7a)
+- [Define a Self-Referential Many-to-Many Model in GORM](https://dev.to/adityaokke/create-self-referential-many2many-on-gorm-1g72)
+- [Monitoring Java APIs on EC2 with Amazon CloudWatch and AWS X-Ray](https://dev.to/aws-builders/monitoring-java-apis-on-ec2-with-amazon-cloudwatch-and-aws-x-ray-110a)
+- [IGN: Sherman Commander - Official Announcement Trailer](https://dev.to/gg_news/ign-sherman-commander-official-announcement-trailer-43o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
