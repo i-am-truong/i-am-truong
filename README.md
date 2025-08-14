@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Best Content Writing Internship Out There: My Journey with WeDidIt](https://dev.to/emotionalbutok/the-best-content-writing-internship-out-there-my-journey-with-wedidit-49n)
-- [The 12 Best AI Tools for Project Management in 2025](https://dev.to/therealmrmumba/the-12-best-ai-tools-for-project-management-in-2025-20p9)
-- [Integrated Circuits: How Tiny Chips Power Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/integrated-circuits-how-tiny-chips-power-modern-electronics-2ea8)
-- [What is a hearing aid, and how does it work? A hearing aid is a small electronic device designed to help people with hearing loss by amplifying sounds. It consists of a microphone, amplifier, and speaker that work together to make sounds louder and clearer](https://dev.to/vinay_kumar_a8b33d69593f4/what-is-a-hearing-aid-and-how-does-it-work-a-hearing-aid-is-a-small-electronic-device-designed-2fhl)
-- [Reflection on Indian Law for a Common Man by Sree Krishna Seelam](https://dev.to/emotionalbutok/reflection-on-indian-law-for-a-common-man-by-sree-krishna-seelam-546)
+- [Refactoring Messy Code: High Cohesion and Low Coupling](https://dev.to/abhinawkr/refactoring-messy-code-high-cohesion-and-low-coupling-3p7e)
+- [🚀 Hibernate Like a Boss on Arch/EndeavourOS with Dracut + Swapfile](https://dev.to/memlenz/hibernate-like-a-boss-on-archendeavouros-with-dracut-swapfile-2anh)
+- [Six Common Mistakes in Log Collection Failures: Practices From Local Management Anti-patterns to LoongCollector Standard](https://dev.to/observabilityguy/six-common-mistakes-in-log-collection-failures-practices-from-local-management-anti-patterns-to-5f1m)
+- [8 Scalable Dashboard Design Tactics for Big Data](https://dev.to/priyansh_shah_786ec03624e/8-scalable-dashboard-design-tactics-for-big-data-4124)
+- [India: The Suicide Capital of the World — Why We Must Mandate Mental Health Education in Schools](https://dev.to/emotionalbutok/india-the-suicide-capital-of-the-world-why-we-must-mandate-mental-health-education-in-schools-18nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
