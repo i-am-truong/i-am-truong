@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Real-World IROPS Re-accommodation Workflow with KaibanJS](https://dev.to/kaibanjs/build-a-real-world-irops-re-accommodation-workflow-with-kaibanjs-i3n)
-- [Demi: Building a Language From the Metal Up](https://dev.to/bobrossrtx/demi-building-a-language-from-the-metal-up-5ahc)
-- [Beyond skeleton pipelines: who owns your software pipeline?](https://dev.to/mattallford/beyond-skeleton-pipelines-who-owns-your-software-pipeline-3dn9)
-- [Title: Unveiling North Korea&#39;s Spy Operations: A Rare Insight from Hackers](https://dev.to/yagyaraj_sharma_6cd410179/title-unveiling-north-koreas-spy-operations-a-rare-insight-from-hackers-280p)
-- [Title: Identifying Gaps in Exoplanet Science: A Decadal Survey by NASA](https://dev.to/yagyaraj_sharma_6cd410179/title-identifying-gaps-in-exoplanet-science-a-decadal-survey-by-nasa-5e8m)
+- [Boosting Network Monitoring with Guardius Ping Task](https://dev.to/guardius/boosting-network-monitoring-with-guardius-ping-task-2042)
+- [Finagle’s Fourth Law and BDD](https://dev.to/supejuice/finagles-fourth-law-and-bdd-ji1)
+- [UI Automation &amp; Instrumentation Testing for Desktop Apps](https://dev.to/jtputh/ui-automation-instrumentation-testing-for-windows-applications-3g71)
+- [vscode](https://dev.to/itboy2012/vscode-4fjc)
+- [How to Run gpt-oss Locally in NativeMind &lpar;Setup Guide&rpar;](https://dev.to/nativemind/how-to-run-gpt-oss-locally-in-nativemind-setup-guide-2d08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
