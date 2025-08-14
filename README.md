@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top Free Websites to Deploy Your Web Applications](https://dev.to/surajondev/top-free-websites-to-deploy-your-web-applications-5gah)
-- [Secret Recipe - TryHackMe Write-up](https://dev.to/forrestcaffray/secret-recipe-tryhackme-write-up-64a)
-- [Supercharging Your React State Management with Zustand](https://dev.to/ekwoster/supercharging-your-react-state-management-with-zustand-b7l)
-- [Integrating ChatGPT AI Agents into Business Workflows: A Step-by-Step Approach](https://dev.to/gyan_consulting/integrating-chatgpt-ai-agents-into-business-workflows-a-step-by-step-approach-1e4k)
-- [MCP Vulnerabilities Every Developer Should Know](https://dev.to/composiodev/mcp-vulnerabilities-every-developer-should-know-6f9)
+- [¿Cuál es tu estilo de crianza?](https://dev.to/el_amordetvida_c4e199/cual-es-tu-estilo-de-crianza-1d4m)
+- [The 90/20 Rule for Devs: Why It Works](https://dev.to/vadym_info_polus/the-9020-rule-for-devs-why-it-works-5epl)
+- [Tunnelmole: An Open Source Tunneling Tool for Secure and Easy Access](https://dev.to/robbiecahill/tunnelmole-an-open-source-tunneling-tool-for-secure-and-easy-access-2ogi)
+- [KEXP: The Tubs - Wretched Lie &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-wretched-lie-live-on-kexp-51oh)
+- [KEXP: The Tubs - Freak Mode &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-freak-mode-live-on-kexp-j70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
