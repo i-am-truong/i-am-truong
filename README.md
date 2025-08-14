@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Mini Framework Using Java Reflection](https://dev.to/iammadhankumar/build-mini-framework-using-java-reflection-21lm)
-- [Por que deixei a “empresa dos sonhos” para voltar ao ritmo de startup](https://dev.to/gcamargosilva/por-que-deixei-a-empresa-dos-sonhos-para-voltar-ao-ritmo-de-startup-1l3j)
-- [How to Use v0 by Vercel for Beginners](https://dev.to/nikolayadvolodkin/how-to-use-v0-by-vercel-for-beginners-1fdn)
-- [Day 65: Debugging Life While Building Dreams](https://dev.to/casperday11/day-65-debugging-life-while-building-dreams-4dg7)
-- [Congrats to the Frontend Challenge: Office Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-office-edition-winners-30p9)
+- [KavinAI Technologies — Shaping the AI Future of India](https://dev.to/imintointernet_org/kavinai-technologies-shaping-the-ai-future-of-india-2bci)
+- [How to establish a personal brand on LinkedIn](https://dev.to/jha_preeti_2e3cee0f05d5fa/how-to-establish-a-personal-brand-on-linkedin-ioe)
+- [Mastering DevOps: Build a Bulletproof CI/CD Pipeline for Java Web App from Scratch using AWS Native Solutions! 🚀](https://dev.to/suvrajeet/mastering-devops-build-a-bulletproof-cicd-pipeline-for-java-web-app-from-scratch-using-aws-1ke2)
+- [Verified Ordered Set in Dafny](https://dev.to/hath995/verified-ordered-set-in-dafny-2aak)
+- [Peter Finch Golf: I take on the LONGEST golf course in the world &lpar;insane challenge&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-take-on-the-longest-golf-course-in-the-world-insane-challenge-344o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
