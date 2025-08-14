@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KDE Gear 25.08 Released with Key Improvements](https://dev.to/neerajlovecyber/kde-gear-2508-released-with-key-improvements-5hln)
-- [AI Agent Pricing Models for Developers: Subscription vs Usage-Based vs Outcome-Based &lpar;With Implementation Tips&rpar;](https://dev.to/johnsaas/ai-agent-pricing-models-for-developers-subscription-vs-usage-based-vs-outcome-based-with-4a9f)
-- [The Ultimate Guide to Custom Software Development for Businesses](https://dev.to/prashant_ba8e01191938c7fc/the-ultimate-guide-to-custom-software-development-for-businesses-1ld8)
-- [Ansible Dynamic Inventory: Types, How to Use &amp; Examples](https://dev.to/spacelift/ansible-dynamic-inventory-types-how-to-use-examples-4ff1)
-- [How Backlinks Are Added and How They Work](https://dev.to/adil_maqsood_2ac3c8ead50c/how-backlinks-are-added-and-how-they-work-1nm6)
+- [How to Expose Localhost to the Internet: A Developer&#39;s Guide](https://dev.to/robbiecahill/how-to-expose-localhost-to-the-internet-a-developers-guide-48mm)
+- [Stop Fighting URL State in React: Introducing react-zod-url-state](https://dev.to/zeeshanhshaheen/stop-fighting-url-state-in-react-introducing-react-zod-url-state-4ca9)
+- [Beyond Human Touch: How AI Enhances Talent Strategy](https://dev.to/megha_sharma/beyond-human-touch-how-ai-enhances-talent-strategy-4i2l)
+- [Make Your Filestack Uploader Look Good with Tailwind](https://dev.to/ideradevtools/make-your-filestack-uploader-look-good-with-tailwind-185p)
+- [My Journey to AWS Certified AI Practitioner](https://dev.to/aws-builders/my-journey-to-aws-certified-ai-practitioner-16hi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
