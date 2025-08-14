@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Designed My Tokenomics with GPT-5 and This Is What Happened](https://dev.to/deploytokens/i-designed-my-tokenomics-with-gpt-5-and-this-is-what-happened-5268)
-- [Apache DolphinScheduler July Community Newsletter | Key Fixes and Performance Optimizations in Full Swing](https://dev.to/chen_debra_3060b21d12b1b0/apache-dolphinscheduler-july-community-newsletter-key-fixes-and-performance-optimizations-in-full-250i)
-- [Why Cilium Outperforms AWS VPC CNI: A Deep Dive into Kubernetes Networking](https://dev.to/parimal5/why-cilium-outperforms-aws-vpc-cni-a-deep-dive-into-kubernetes-networking-nef)
-- [FreeSWITCH vs. Asterisk – Developer’s Perspective in 2025](https://dev.to/jackmorris10/freeswitch-vs-asterisk-developers-perspective-in-2025-20bg)
-- [How To Build Full Stack App With Vercel: Express, Supabase and ejs](https://dev.to/sfundomhlungu/how-to-build-full-stack-app-with-vercel-express-supabase-and-ejs-c99)
+- [I Built the Ultimate Free Markdown to PDF Converter](https://dev.to/samik-dev/i-built-the-ultimate-free-markdown-to-pdf-converter-3874)
+- [Responsive Design Tips: Making Your Website Look Great on Every Device](https://dev.to/eva_clari_289d85ecc68da48/responsive-design-tips-making-your-website-look-great-on-every-device-1oib)
+- [GraphQL Crash Course: The New Legacy System.](https://dev.to/sfundomhlungu/graphql-crash-course-the-new-legacy-system-30lo)
+- [Unlocking Market Insights: How Dubizzle API Can Revolutionize Classified Ad Analysis](https://dev.to/mcatee/unlocking-market-insights-how-dubizzle-api-can-revolutionize-classified-ad-analysis-1k0a)
+- [Day-79 Understanding Regular Expressions in Java](https://dev.to/tamilselvan1812/day-79-understanding-regular-expressions-in-java-5hma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
