@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When AI Fights Back: The Next Decade of Digital Security](https://dev.to/arkhan/when-ai-fights-back-the-next-decade-of-digital-security-4hpn)
+- [Terraform + GitHub Actions for automation](https://dev.to/achref_rhouma_b019c220e57/terraform-github-actions-for-automation-3gga)
+- [Setting Up the Infrastructure #39](https://dev.to/0xj0n1/setting-up-the-infrastructure-39-1ppl)
+- [My First Post](https://dev.to/lelemaxwell/my-first-post-3f3)
 - [Vectors in AI: A Bridge Between Code and Business](https://dev.to/instancian/vectors-in-ai-a-bridge-between-code-and-business-11h2)
-- [🚀 From Zero to Secure: Deploying a Hardened Azure Environment with Terraform &amp; Azure CLI](https://dev.to/achref_rhouma_b019c220e57/from-zero-to-secure-deploying-a-hardened-azure-environment-with-terraform-azure-cli-33pf)
-- [Introduction to Fetching Data with JavaScript and APIs — For Programmers](https://dev.to/youngjoshua248/introduction-to-fetching-data-with-javascript-and-apis-for-programmers-10nh)
-- [I Gave ChatGPT a Face — And Everything Changed](https://dev.to/epic_programmer_55489f708/i-gave-chatgpt-a-face-and-everything-changed-16ie)
-- [🚀 Advanced Implementation and Production Excellence](https://dev.to/abdelrahman_adnan/advanced-implementation-and-production-excellence-4619)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
