@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From the Internet Era to the AI Age: 3 Essential Skills to Stand Out in the New Entrepreneurial Landscape](https://dev.to/uspeedoai_5b0d9d161ab7565/from-the-internet-era-to-the-ai-age-3-essential-skills-to-stand-out-in-the-new-entrepreneurial-4kj4)
+- [The Secret Language of AI — Prompt Engineering, and How to Speak It](https://dev.to/betterhq/the-secret-language-of-ai-prompt-engineering-and-how-to-speak-it-2gjb)
+- [C# from the Inside Out](https://dev.to/nouribram/c-from-the-inside-out-4ei8)
+- [Website and Landing Page Development with Figma Design and Debian Web Server Setup](https://dev.to/amir_shikarnonavrutdin/website-and-landing-page-development-with-figma-design-and-debian-web-server-setup-5b6c)
 - [Scam Listing Checker](https://dev.to/wondiland/scam-listing-checker-g9o)
-- [I am in no way a technical person..im actually an older guy in my 60&#39;s that has realised that AI can give people a very powerful voice and I wish to keep the bastards honest. I have shared a AI created tool to check for scam listings.. improve &amp; share](https://dev.to/wondiland/i-am-in-no-way-a-technical-personim-actually-an-older-guy-in-my-60s-that-has-realised-that-ai-4b7e)
-- [Pure CSS Shine Animation &amp; Corner Cut-Out: Shimmering Cards Without JS](https://dev.to/emrahg/pure-css-shine-animation-corner-cut-out-shimmering-cards-without-js-hki)
-- [I Built a Simple Math Game for My Kid, Thought I&#39;d Share!](https://dev.to/thom_57bce87de8181cf6b0ce/i-built-a-simple-math-game-for-my-kid-thought-id-share-5bpc)
-- [The Dev Workflow That Fixes Itself](https://dev.to/leena_malhotra_355340d89c/the-dev-workflow-that-fixes-itself-4nf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
