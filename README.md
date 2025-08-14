@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Reasonably Simple, Secure Password Scheme](https://dev.to/f1lt3r/a-reasonably-simple-secure-password-scheme-4890)
+- [SIEM &lpar;Security Information and Event Management system&rpar; - overview](https://dev.to/moh4med404/siem-security-information-and-event-management-system-overview-3la4)
 - [From JavaScript to Python: A Smooth Transition for Web Developers](https://dev.to/labreu00/from-javascript-to-python-a-smooth-transition-for-web-developers-1o4g)
 - [VPS Deployment Guide &lpar;NEXT JS/REACT JS + GITHUB ACTIONS&rpar;](https://dev.to/heyitsuzair/vps-deployment-guide-next-jsreact-js-github-actions-ff5)
 - [IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips](https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf)
-- [IGN: Neo Berlin 2087 - Official Gamescom 2025 Gameplay Trailer](https://dev.to/gg_news/ign-neo-berlin-2087-official-gamescom-2025-gameplay-trailer-4bmc)
-- [¿Qué es el Sistema Operativo Ubuntu?](https://dev.to/juniormendoza3044/que-es-el-sistema-operativo-ubuntu-352n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
