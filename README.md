@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding a new View without changing the Controller and Model](https://dev.to/elanatframework/adding-a-new-view-without-changing-the-controller-and-model-pbe)
+- [Monolithic class in PHP](https://dev.to/ahmedraza_fyntune/monolithic-class-in-php-47p8)
+- [Integrating Monte Carlo Tree Search in Chess Game Engines](https://dev.to/krishanvijay/integrating-monte-carlo-tree-search-in-chess-game-engines-52k2)
 - [Cross-Domain State Sharing: From Hacks to Real-Time Sync](https://dev.to/adrai/cross-domain-state-sharing-from-hacks-to-real-time-sync-1k5g)
 - [The Rise of Specialized AI Agents: How to Architect, Deploy, and Manage Them on AWS](https://dev.to/tarunsinghofficial/the-rise-of-specialized-ai-agents-how-to-architect-deploy-and-manage-them-on-aws-2hm7)
-- [ADA Title II Adopting The WCAG 2.1 AA Standard](https://dev.to/thetanweerali/ada-title-ii-adopting-the-wcag-21-aa-standard-pjj)
-- [Unlocking SEO Success: 5 Essential Tools for Better Rankings](https://dev.to/mdkawsharul_islamroyal_/unlocking-seo-success-5-essential-tools-for-better-rankings-11bn)
-- [Terraform Data Sources: What They Are &amp; How to Use Them Effectively](https://dev.to/techielass/terraform-data-sources-what-they-are-how-to-use-them-effectively-33o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
