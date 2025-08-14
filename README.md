@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Factories e Seeders com Laravel](https://dev.to/pilsaraujo/factories-e-seeders-com-laravel-l8)
 - [Convert Office Docs to PDFs Automatically with Foxit PDF Services API](https://dev.to/foxitdevelopers/convert-office-docs-to-pdfs-automatically-with-foxit-pdf-services-api-3876)
 - [Secure Login with Google Auth: A Developer&#39;s Introduction](https://dev.to/marioacrespo/secure-login-with-google-auth-a-developers-introduction-5g7a)
 - [Define a Self-Referential Many-to-Many Model in GORM](https://dev.to/adityaokke/create-self-referential-many2many-on-gorm-1g72)
 - [Monitoring Java APIs on EC2 with Amazon CloudWatch and AWS X-Ray](https://dev.to/aws-builders/monitoring-java-apis-on-ec2-with-amazon-cloudwatch-and-aws-x-ray-110a)
-- [IGN: Sherman Commander - Official Announcement Trailer](https://dev.to/gg_news/ign-sherman-commander-official-announcement-trailer-43o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
