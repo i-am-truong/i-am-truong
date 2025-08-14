@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How AI Can Make You a 10x Software Engineer](https://dev.to/janvinsha/how-ai-can-make-you-a-10x-software-engineer-1bje)
 - [Killing cold starts with Lambda SnapStart](https://dev.to/aws-builders/killing-cold-starts-with-lambda-snapstart-1h77)
 - [Automatización de alertas y recordatorios para limpiezas energéticas usando Python y APIs](https://dev.to/carmen_lopezlopeza_31258/automatizacion-de-alertas-y-recordatorios-para-limpiezas-energeticas-usando-python-y-apis-hhj)
 - [Dev Log 05](https://dev.to/asx/dev-log-05-2g7o)
 - [MCP + VS Code: Assisted pentest on an HTB box — from install to first flag](https://dev.to/mr_trive/mcp-vs-code-assisted-pentest-on-an-htb-box-from-install-to-first-flag-4hb)
-- [The Jobs AI Can’t Touch &lpar;Yet&rpar;: Why Some Roles Are Safe from Automation](https://dev.to/thesethrose/the-jobs-ai-cant-touch-yet-why-some-roles-are-safe-from-automation-192f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
