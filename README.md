@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [generate-sitemap 1.10.3 Released](https://dev.to/cicirello/generate-sitemap-1103-released-4b4b)
 - [Programação quântica com JavaScript e Qiskit](https://dev.to/lucaspereiradesouzat/programacao-quantica-com-javascript-e-qiskit-2b1a)
 - [Are Modern Development Tools Making Us Better or Different Programmers?](https://dev.to/pullflow/are-modern-development-tools-making-us-better-or-different-programmers-4kg4)
 - [TAB:- The Assistant Bot](https://dev.to/aakashredy/tab-the-assistant-bot-4pak)
 - [Adam Savage&#39;s Tested: Adam Savage Inside a Gaming Laptop Design Lab!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-inside-a-gaming-laptop-design-lab-5g9h)
-- [KEXP: The Tubs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-full-performance-live-on-kexp-33pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
