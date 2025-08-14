@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Attention made the AI leap possible!](https://dev.to/warmac4964/how-attention-made-the-ai-leap-possible-2866)
-- [[Boost]](https://dev.to/arshdeep_palial_c966081e6/-4e2j)
-- [Configure pgstattuple](https://dev.to/hujan/configure-pgstattuple-3pnf)
-- [🧪 JSFiddle — The Playground for Frontend Developers](https://dev.to/ml318097/jsfiddle-the-playground-for-frontend-developers-1g21)
-- [Leetcode 53: Maximum Subarray in JavaScript](https://dev.to/tochi_/leetcode-53-maximum-subarray-in-javascript-2ln6)
+- [Day 5: AWS ECR: Creating and Managing Container Registries](https://dev.to/pragnesh_patel/day-5-aws-ecr-creating-and-managing-container-registries-1a9g)
+- [Ambient Intelligence from a Bird? You Won’t Believe What This Code Does](https://dev.to/owly/ambient-intelligence-from-a-bird-you-wont-believe-what-this-code-does-1n8a)
+- [Jules 2.0: Google&#39;s Asynchronous AI Coding Agent That Works While You Code](https://dev.to/daleymottley/jules-20-googles-asynchronous-ai-coding-agent-that-works-while-you-code-2ogj)
+- [IGN: Jurassic Park: Survival - Official Behind the Scenes Featurette](https://dev.to/gg_news/ign-jurassic-park-survival-official-behind-the-scenes-featurette-824)
+- [Will There Be A Snow Day Tomorrow?](https://dev.to/sncalculator_068c3e28afeb/will-there-be-a-snow-day-tomorrow-23do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
