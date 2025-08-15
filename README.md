@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Learn In-Demand Skills with Udacity &lpar;Now Part of Accenture&rpar;](https://dev.to/ml318097/learn-in-demand-skills-with-udacity-now-part-of-accenture-1496)
-- [Protect Your Python Secrets Like a Pro with PyShield-Secure](https://dev.to/mohamed_essam_27afebce427/protect-your-python-secrets-like-a-pro-with-pyshield-secure-4571)
-- [The Perfect Programming Environment](https://dev.to/nmiller15/the-perfect-programming-environment-17co)
-- [Build Smarter Crypto Signals with VWAP Radar &lpar;Using DropsTab API&rpar;](https://dev.to/krisvarley/build-smarter-crypto-signals-with-vwap-radar-using-dropstab-api-264i)
-- [A Single-File Zig Client for llama.cpp&#39;s OpenAI-Compatible API Server](https://dev.to/bkataru/a-single-file-zig-client-for-llamacpps-openai-compatible-api-server-59ie)
+- [CinePlex - ReactJS + Django Rest Framework project](https://dev.to/madhubankhatri/cineplex-reactjs-django-rest-framework-project-bgi)
+- [Maker&#39;s Muse: Best seam settings - hide them completely! 3DP101](https://dev.to/maker_youtube/makers-muse-best-seam-settings-hide-them-completely-3dp101-2hgg)
+- [3D Printing Nerd: From Broken to Better Than New – 3D Printing a Tent Part!](https://dev.to/maker_youtube/3d-printing-nerd-from-broken-to-better-than-new-3d-printing-a-tent-part-a3o)
+- [Windsurf Wave 12 update adds Devin, DeepWiki, Dev Containers, Vibe, and more new features](https://dev.to/ytosko/windsurf-wave-12-update-adds-devin-deepwiki-dev-containers-vibe-and-more-new-features-3jm0)
+- [Most AI Fails Quietly. Graph Thinking Doesn’t.](https://dev.to/talweezy/most-ai-fails-quietly-graph-thinking-doesnt-cnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
