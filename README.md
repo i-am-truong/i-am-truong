@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First App Journey &lpar;Learned the Hard Way About WatchConnectivity&rpar;](https://dev.to/cloutboi/first-app-journey-learned-the-hard-way-about-watchconnectivity-2d4b)
-- [Adam Savage&#39;s Tested: Adam Savage&#39;s Top 5 Objects at Smithsonian&#39;s @airandspace](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-top-5-objects-at-smithsonians-airandspace-57b1)
-- [COLORS: Isabella Lovestory - Telenovela | A COLORS SHOW](https://dev.to/music_youtube/colors-isabella-lovestory-telenovela-a-colors-show-h9g)
-- [KEXP: Sunflower Bean - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-full-performance-live-on-kexp-1366)
-- [Tech With Tim: Python programming roadmap - what skills should you learn first](https://dev.to/vibe_youtube/tech-with-tim-python-programming-roadmap-what-skills-should-you-learn-first-2j2e)
+- [&quot;Supercharge Your Web Apps with Svelte + Flexmonster Pivot for Seamless Data Visualization&quot;](https://dev.to/jozaf_dyny_0c54a10d745c6e/supercharge-your-web-apps-with-svelte-flexmonster-pivot-for-seamless-data-visualization-4p4l)
+- [Death of High-Level Design in 2025](https://dev.to/ginylil/death-of-high-level-design-in-2025-1k6k)
+- [Microelectronics Made Simple: How Tiny Tech Powers Your Everyday Devices](https://dev.to/frank_1871bc3c55f35370df3/microelectronics-made-simple-how-tiny-tech-powers-your-everyday-devices-5bph)
+- [Day 2: Enterprise Testing Infrastructure with TestContainers - 30-Day AI Observability Challenge](https://dev.to/clayroach/day-2-enterprise-testing-infrastructure-with-testcontainers-30-day-ai-observability-challenge-4d9n)
+- [Communication Confusion: Is It Better to Be Soft or Straight to the Point?](https://dev.to/datatechbridge/communication-confusion-is-it-better-to-be-soft-or-straight-to-the-point-4pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
