@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Log001 - 008/ From Ubuntu to Debian journey.](https://dev.to/aka_artem_dd17be93c/log001-008-from-ubuntu-to-debian-journey-3m4m)
-- [Solving Balanced Binary Tree - Leetcode problem](https://dev.to/ajithmanmu/solving-balanced-binary-tree-leetcode-problem-d0b)
-- [🔒 The Future of Authentication Is Coming](https://dev.to/thesilentknight/the-future-of-authentication-is-coming-7k0)
-- [Solving the JavaScript Execution Order Challenge](https://dev.to/ajithmanmu/solving-the-javascript-execution-order-challenge-4adp)
-- [How to think like a product designer](https://dev.to/egledigital/how-to-think-like-a-product-designer-2001)
+- [captureDOM function in snapDOM codebase - part 2](https://dev.to/ramunarasinga-11/capturedom-function-in-snapdom-codebase-part-2-51j7)
+- [10 Steps to Secure your AWS Infrastructure 🔒☁️](https://dev.to/nishath_jp/10-steps-to-secure-your-aws-infrastructure-399h)
+- [Creating a Dashboard Sample with Google Apps Script📊](https://dev.to/yo-shi/how-our-google-drive-practices-were-walking-a-dangerous-line-2d92)
+- [What Fuels the Internet &amp; Prerequisites for DevOps Cohort [Week-0]](https://dev.to/suvrajeet/what-fuels-the-internet-prerequisites-week-0-49lj)
+- [[Boost]](https://dev.to/arlan85/-1n7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
