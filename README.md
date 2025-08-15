@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a extremely secure hacker-proof system. Advanced cybersecurity principles.](https://dev.to/jeandevbr/creating-a-extremely-secure-hacker-proof-system-advanced-cybersecurity-principles-3gno)
-- [The AI Stack That Keeps Developers in Flow, Not in Tabs](https://dev.to/leena_malhotra_355340d89c/the-ai-stack-that-keeps-developers-in-flow-not-in-tabs-3n09)
-- [How to Track and Manage Depreciating Assets?](https://dev.to/teresa_tran/how-to-track-and-manage-depreciating-assets-5gnm)
-- [Design Patterns Simplified: Part 17 — Flyweight Pattern &lpar;a.k.a. “The Shared Furniture”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-17-flyweight-pattern-aka-the-shared-furniture-4c3l)
-- [Angular Signals vs. BehaviorSubject: Which Should You Use?](https://dev.to/mridudixit15/angular-signals-vs-behaviorsubject-which-should-you-use-3pfb)
+- [Migration from Pocket and Hatena Bookmark to Raindrop.io &lpar;and Creating helm-raindrop.el&rpar;](https://dev.to/masutaka/migration-from-pocket-and-hatena-bookmark-to-raindropio-and-creating-helm-raindropel-5f76)
+- [The Case for AI Provenance: Why We Need to Trust the Source](https://dev.to/mc2259/the-case-for-ai-provenance-why-we-need-to-trust-the-source-16k0)
+- [Toán Tử trong Java - Hướng dẫn chi tiết với ví dụ](https://dev.to/javahighlight/toan-tu-trong-java-huong-dan-chi-tiet-voi-vi-du-5bbl)
+- [How to Convert ML Models to ONNX Format: A Complete Guide](https://dev.to/onnxconverter/how-to-convert-ml-models-to-onnx-format-a-complete-guide-2ck8)
+- [Publish your packages to NPM automatically with GitHub Actions](https://dev.to/octolab/publish-your-packages-to-npm-automatically-with-github-actions-3ghj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
