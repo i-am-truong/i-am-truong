@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to system design](https://dev.to/codewitgabi/introduction-to-system-design-j4n)
-- [SVG IN HTML.](https://dev.to/gustavo_ax/svg-in-html-5h6i)
-- [How to Safely Use `dangerouslySetInnerHTML` in React Applications](https://dev.to/maximlogunov/how-to-safely-use-dangerouslysetinnerhtml-in-react-applications-205f)
-- [Breaking Out of Tutorial Hell](https://dev.to/daoistrose/breaking-out-of-tutorial-hell-33em)
-- [🎨 Real-time Image Color Palette Extractor — A Deep Dive into K-means, LAB, and ΔE2000](https://dev.to/ertugrulmutlu/real-time-image-color-palette-extractor-a-deep-dive-into-k-means-lab-and-de2000-4eoi)
+- [ComunicaOps: Criando Alicerces para Construção de Plataformas](https://dev.to/rafaelbonilha/comunicaops-criando-alicerces-para-construcao-de-plataformas-ed)
+- [How Creativity Helps Get Customer Interviews for a B2B2C Startup](https://dev.to/maddox05/how-creativity-helps-get-customer-interviews-for-a-b2b2c-startup-10be)
+- [A voz interior que sustenta a ação nos dias difíceis](https://dev.to/evandro_terceirocrebro_/a-voz-interior-que-sustenta-a-acao-nos-dias-dificeis-oa9)
+- [Unveiling the Magic of Hash Tables: Your Ultimate Guide to Efficient Data Lookup PT. 1](https://dev.to/rubenoalvarado/unveiling-the-magic-of-hash-tables-your-ultimate-guide-to-efficient-data-lookup-pt-1-2k91)
+- [Automating Procure-to-Pay with Precision: How I Engineered an End-to-End Invoice Processing System in n8n](https://dev.to/eeman_asghar_ad5be19be8b7/automating-procure-to-pay-with-precision-how-i-engineered-an-end-to-end-invoice-processing-system-399f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
