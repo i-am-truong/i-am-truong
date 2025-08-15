@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ComunicaOps: Criando Alicerces para Construção de Plataformas](https://dev.to/rafaelbonilha/comunicaops-criando-alicerces-para-construcao-de-plataformas-ed)
-- [How Creativity Helps Get Customer Interviews for a B2B2C Startup](https://dev.to/maddox05/how-creativity-helps-get-customer-interviews-for-a-b2b2c-startup-10be)
-- [A voz interior que sustenta a ação nos dias difíceis](https://dev.to/evandro_terceirocrebro_/a-voz-interior-que-sustenta-a-acao-nos-dias-dificeis-oa9)
-- [Unveiling the Magic of Hash Tables: Your Ultimate Guide to Efficient Data Lookup PT. 1](https://dev.to/rubenoalvarado/unveiling-the-magic-of-hash-tables-your-ultimate-guide-to-efficient-data-lookup-pt-1-2k91)
-- [Automating Procure-to-Pay with Precision: How I Engineered an End-to-End Invoice Processing System in n8n](https://dev.to/eeman_asghar_ad5be19be8b7/automating-procure-to-pay-with-precision-how-i-engineered-an-end-to-end-invoice-processing-system-399f)
+- [Alec Steele: Making a Mini Knob](https://dev.to/maker_youtube/alec-steele-making-a-mini-knob-58e5)
+- [3D Printing Nerd: Fix ANYTHING with 3D Printing – How To Design](https://dev.to/maker_youtube/3d-printing-nerd-fix-anything-with-3d-printing-how-to-design-41gc)
+- [Veritasium: The Perfect Battery Material Is DANGEROUS](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-23dc)
+- [GameSpot: Pokemon Legends Z-A Hands On - The Biggest Pokemon Shake Up In Decades!](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-hands-on-the-biggest-pokemon-shake-up-in-decades-3l12)
+- [IGN: Better Than Dead - Official Announcement Trailer](https://dev.to/gg_news/ign-better-than-dead-official-announcement-trailer-4fid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
