@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hype and the Hangover: Unpacking the Underwhelming Debut of GPT-5](https://dev.to/grenishrai/the-hype-and-the-hangover-unpacking-the-underwhelming-debut-of-gpt-5-1cc6)
-- [Rotary Encoders Explained](https://dev.to/frank_1871bc3c55f35370df3/rotary-encoders-explained-1h8e)
-- [Supercharging AI Development with code-contextify](https://dev.to/elvinega/supercharging-ai-development-with-code-contextify-53ih)
-- [How to Use GPG to Encrypt Files in Termux](https://dev.to/terminaltools/how-to-use-gpg-to-encrypt-files-in-termux-172k)
-- [How To Train Predictable AI Agents using XML+JSON](https://dev.to/christopherclemmons/how-to-train-predictable-ai-agents-using-xmljson-cn9)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `60`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-60-3ccg)
+- [Can Cookies Track Sensitive Personal Info?](https://dev.to/mehwish_malik_4f29ff7fb04/can-cookies-track-sensitive-personal-info-183m)
+- [JavaScript Execution Model: From Source Code to Running Program](https://dev.to/kouta222/javascript-execution-model-from-source-code-to-running-program-1jn9)
+- [Crafting Aspedan: Our Vision, Development Journey, and Ambitions](https://dev.to/freddie_samuel_8f01d8c13f/crafting-aspedan-our-vision-development-journey-and-ambitions-2n6i)
+- [DuckDB: The Analytics Database Revolution - A Comprehensive Guide](https://dev.to/emiroberti/duckdb-the-analytics-database-revolution-a-comprehensive-guide-442b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
