@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Learn In-Demand Skills with Udacity &lpar;Now Part of Accenture&rpar;](https://dev.to/ml318097/learn-in-demand-skills-with-udacity-now-part-of-accenture-1496)
+- [Protect Your Python Secrets Like a Pro with PyShield-Secure](https://dev.to/mohamed_essam_27afebce427/protect-your-python-secrets-like-a-pro-with-pyshield-secure-4571)
+- [The Perfect Programming Environment](https://dev.to/nmiller15/the-perfect-programming-environment-17co)
 - [Build Smarter Crypto Signals with VWAP Radar &lpar;Using DropsTab API&rpar;](https://dev.to/krisvarley/build-smarter-crypto-signals-with-vwap-radar-using-dropstab-api-264i)
-- [Behind the Scenes of RAG](https://dev.to/sakshi_srivastava/behind-the-scenes-of-rag-3p0h)
-- [Nanobrowser: Your Free AI-Powered Web Automation Assistant](https://dev.to/githubopensource/nanobrowser-your-free-ai-powered-web-automation-assistant-45j0)
-- [Founding full stack engineer](https://dev.to/timalb/founding-full-stack-engineer-43da)
-- [From 0 to SaaS in 48 Hours: Building WhatsExtract API with FastAPI and AI](https://dev.to/whatsextract/from-0-to-saas-in-48-hours-building-whatsextract-api-with-fastapi-and-ai-2obj)
+- [A Single-File Zig Client for llama.cpp&#39;s OpenAI-Compatible API Server](https://dev.to/bkataru/a-single-file-zig-client-for-llamacpps-openai-compatible-api-server-59ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
