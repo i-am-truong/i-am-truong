@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cypress — How to Create Automatic Weekly Flake Alerting](https://dev.to/cydavid/cypress-how-to-create-automatic-weekly-flake-alerting-90i)
-- [CinePlex - ReactJS + Django Rest Framework project](https://dev.to/madhubankhatri/cineplex-reactjs-django-rest-framework-project-bgi)
-- [Maker&#39;s Muse: Best seam settings - hide them completely! 3DP101](https://dev.to/maker_youtube/makers-muse-best-seam-settings-hide-them-completely-3dp101-2hgg)
-- [3D Printing Nerd: From Broken to Better Than New – 3D Printing a Tent Part!](https://dev.to/maker_youtube/3d-printing-nerd-from-broken-to-better-than-new-3d-printing-a-tent-part-a3o)
-- [Windsurf Wave 12 update adds Devin, DeepWiki, Dev Containers, Vibe, and more new features](https://dev.to/ytosko/windsurf-wave-12-update-adds-devin-deepwiki-dev-containers-vibe-and-more-new-features-3jm0)
+- [Day 1 Data Analytics Progress📈](https://dev.to/vengat2505/day-1-data-analytics-progress-4k25)
+- [Putting AWS Skills to Work: Building an AB Testing Tracker](https://dev.to/ajithmanmu/putting-aws-skills-to-work-building-an-ab-testing-tracker-34c)
+- [Google Sheets JSON API in 3 minutes &lpar;no Apps Script&rpar;](https://dev.to/nishfreelanceacnt/google-sheets-json-api-in-3-minutes-no-apps-script-4b8e)
+- [marchat v0.3.0-beta.4 — Terminal Chat With Plugins, Encryption, and Docker Support](https://dev.to/cod-e-codes/marchat-v030-beta4-terminal-chat-with-plugins-encryption-and-docker-support-1d33)
+- [🧭 Start Here: Linux Server Logbook](https://dev.to/aka_artem_dd17be93c/start-here-linux-server-logbook-4i94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
