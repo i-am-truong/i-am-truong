@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git Commit Message Best Practices: A Tech Lead&#39;s Guide](https://dev.to/levente_szabomidori_c0/git-commit-message-best-practices-a-tech-leads-guide-4d07)
-- [AI Cheerleaders: Why Your Assistant Says &quot;Great Idea!&quot; to Terrible Ideas](https://dev.to/ryo_suwito/ai-cheerleaders-why-your-assistant-says-great-idea-to-terrible-ideas-1jne)
-- [Why I Decided to Replace Outsourced Teams with AI Advertising Tools](https://dev.to/_45c30a0d677716416f5cd/why-i-decided-to-replace-outsourced-teams-with-ai-advertising-tools-1eog)
-- [Gatling parameterize](https://dev.to/ozkanpakdil/gatling-parameterize-1dnp)
-- [How Is a Project Roadmap Different from a Detailed Project Plan?](https://dev.to/writegenic/how-is-a-project-roadmap-different-from-a-detailed-project-plan-1cj7)
+- [How to Automate SMS Notifications via Termux-API &amp; Telegram](https://dev.to/terminaltools/how-to-automate-sms-notifications-via-termux-api-telegram-1l45)
+- [Adapting to the Future: How Online Learning Platforms are Catering to Gen Z&#39;s Needs](https://dev.to/ghummantech/adapting-to-the-future-how-online-learning-platforms-are-catering-to-gen-zs-needs-cpb)
+- [VPS For Frontend Engineer - Part 1](https://dev.to/joseph42a/vps-for-frontend-engineer-part-1-2lja)
+- [Accessibility in React and Angular: How to Build Apps That Everyone Can Use](https://dev.to/okoye_ndidiamaka_5e3b7d30/accessibility-in-react-and-angular-how-to-build-apps-that-everyone-can-use-mia)
+- [Don’t Choose the Wrong Development Team — How to Find the Right Experts for Your Project](https://dev.to/haseebmirza/dont-choose-the-wrong-development-team-how-to-find-the-right-experts-for-your-project-1284)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
