@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SOCKS Proxy Basics: How They Work and Why Cybersecurity Pros Use Them](https://dev.to/saravana_gautham_g/socks-proxy-basics-how-they-work-and-why-cybersecurity-pros-use-them-mhh)
+- [Modern Admin Dashboard Template Built with Next.js and shadcn/ui](https://dev.to/jqueryscript/modern-admin-dashboard-template-built-with-nextjs-and-shadcnui-2ne9)
 - [Translation vs. Localization: What&#39;s the Difference?](https://dev.to/jennamitchell/translation-vs-localization-whats-the-difference-o8)
 - [Create Golang private package](https://dev.to/adityaokke/create-golang-private-package-15bn)
 - [Iframes: Embedding Other Webpages](https://dev.to/sharique_siddiqui_8242dad/iframes-embedding-other-webpages-5eai)
-- [Canvas and SVG: Graphics and Animation](https://dev.to/sharique_siddiqui_8242dad/canvas-and-svg-graphics-and-animation-1p16)
-- [Advanced Forms: Validation, Input Types, and Attributes](https://dev.to/sharique_siddiqui_8242dad/advanced-forms-validation-input-types-and-attributes-2cbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
