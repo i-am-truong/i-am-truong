@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 66: When Your Coding Session Gets Hijacked by Real Life](https://dev.to/casperday11/day-66-when-your-coding-session-gets-hijacked-by-real-life-1oo4)
-- [🚀 React 19 &lpar;2025&rpar;: All New Features Explained + 20 Must-Know Interview Questions](https://dev.to/fullstackprepdev_sda_d43a/react-19-2025-all-new-features-explained-20-must-know-interview-questions-1l33)
-- [The Memory Architects - Chapter 1: The Persistence Anomaly](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-memory-architects-chapter-1-the-persistence-anomaly-1jpl)
-- [Good luck to everyone participating!](https://dev.to/jess/good-luck-to-everyone-participating-1ao0)
-- [Understanding Domain, Anemic Models, Domain Language, Class Invariants, and Layered Architectures](https://dev.to/lovestaco/understanding-domain-anemic-models-domain-language-class-invariants-and-layered-architectures-2gkg)
+- [Coin Bureau: Prices Up, Jobs Gone: The New Wave of Tariff Is HERE!](https://dev.to/crypto_youtube/coin-bureau-prices-up-jobs-gone-the-new-wave-of-tariff-is-here-2nj7)
+- [Altcoin Daily: &quot;Our research shows Ethereum hits $16,000 this cycle!&quot; Crypto Expert Shares Top 3 Altcoins!!](https://dev.to/crypto_youtube/altcoin-daily-our-research-shows-ethereum-hits-16000-this-cycle-crypto-expert-shares-top-3-2n7e)
+- [Altcoin Daily: The Actual Reason Ethereum will Explode in 2026 | Crypto Veteran](https://dev.to/crypto_youtube/altcoin-daily-the-actual-reason-ethereum-will-explode-in-2026-crypto-veteran-4md0)
+- [Goroutine Patterns: Building Efficient Concurrent Code in Go](https://dev.to/shrsv/goroutine-patterns-building-efficient-concurrent-code-in-go-26i3)
+- [Altcoin Daily: How To Trade Crypto: EASY/SIMPLE Trading Tips/Tricks to MAKE BIG MONEY! [COMPLETE Beginner GUIDE]](https://dev.to/crypto_youtube/altcoin-daily-how-to-trade-crypto-easysimple-trading-tipstricks-to-make-big-money-complete-1ia5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
