@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [【August Meetup】 Qihoo 360 Data Expert Shares: Production-Grade Deployment Guide for DolphinScheduler on K8s!](https://dev.to/chen_debra_3060b21d12b1b0/august-meetup-qihoo-360-data-expert-shares-production-grade-deployment-guide-for-36l2)
+- [Micro Frontend Using Vite &lpar;React, Angular, Vue&rpar;](https://dev.to/ashutoshsarangi/micro-frontend-using-vite-react-angular-vue-39lb)
 - [[Boost]](https://dev.to/marabesi/-5dg2)
 - [Business Rules Conversion Prompt](https://dev.to/lucpattyn/business-rules-conversion-prompt-2pp5)
 - [Enable +C / +V in XFCE Terminal on Debian 11 &lpar;UTM&rpar;](https://dev.to/tamilvanan/enable-c-v-in-xfce-terminal-on-debian-11-utm-43a3)
-- [Mastering Azure Resource Graph: Query &amp; Analyse Tags with KQL](https://dev.to/techielass/mastering-azure-resource-graph-query-analyse-tags-with-kql-39pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
