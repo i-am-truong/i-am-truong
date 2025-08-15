@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I am just starting these Functional Programming Lectures. What are your guys’ thought about it? https://github.com/seandinwiddie/lectures/blob/main/index.md](https://dev.to/seandinwiddie/i-am-just-starting-these-functional-programming-lectures-what-are-your-guys-thought-about-it-39in)
 - [I Gave My LLM a Promotion: Now It Delegates Its Own Work](https://dev.to/xzdes/i-gave-my-llm-a-promotion-now-it-delegates-its-own-work-2loe)
 - [Security news weekly round-up - 15th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-15th-august-2025-446i)
 - [fsMate A modular collection of file system utilities for Node.js](https://dev.to/indianmodassir/fsmate-a-modular-collection-of-file-system-utilities-for-nodejs-172g)
 - [Install and Setup Oh My Zsh](https://dev.to/harry_tanama_51571ebf90b6/install-and-setup-oh-my-zsh-2079)
-- [Securing the Perimeter: What Iron Bollards Teach About Safe Coding Practices](https://dev.to/juan_carlospea_cd99d347/securing-the-perimeter-what-iron-bollards-teach-about-safe-coding-practices-12on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
