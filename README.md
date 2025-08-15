@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Learn Faster Than Everyone You Know](https://dev.to/leena_malhotra_355340d89c/how-to-learn-faster-than-everyone-you-know-3649)
-- [When everyone has access to the same DevOps tool and coding options, then our personal brand will help us stand out. AI has made personal branding mandatory instead of optional.](https://dev.to/jaideepparashar/when-everyone-has-access-to-the-same-devops-tool-and-coding-options-then-our-personal-brand-will-404a)
-- [Happy Independence Day, India! 🇮🇳 | Exciting BizKhata Apps Coming Soon](https://dev.to/pjdeveloper896/happy-independence-day-india-exciting-bizkhata-apps-coming-soon-55c)
-- [Building an AI-Powered Personal Brand in 2025](https://dev.to/jaideepparashar/building-an-ai-powered-personal-brand-in-2025-2bd9)
-- [Create a Smart Spotify Bot with Node.js &amp; Web API](https://dev.to/leonardokaprio/create-a-smart-spotify-bot-with-nodejs-web-api-9oo)
+- [Iframes: Embedding Other Webpages](https://dev.to/sharique_siddiqui_8242dad/iframes-embedding-other-webpages-5eai)
+- [Canvas and SVG: Graphics and Animation](https://dev.to/sharique_siddiqui_8242dad/canvas-and-svg-graphics-and-animation-1p16)
+- [Advanced Forms: Validation, Input Types, and Attributes](https://dev.to/sharique_siddiqui_8242dad/advanced-forms-validation-input-types-and-attributes-2cbp)
+- [Get familiar with Rust, Python, and TypeScript!](https://dev.to/urbanisierung/get-familiar-with-rust-python-and-typescript-7e8)
+- [Responsive Layouts: Meta Tags, Viewport, and Basic Responsiveness](https://dev.to/sharique_siddiqui_8242dad/responsive-layouts-meta-tags-viewport-and-basic-responsiveness-k0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
