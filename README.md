@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to implement multitasking scheduling mechanism on a microcontroller?](https://dev.to/carolineee/how-to-implement-multitasking-scheduling-mechanism-on-a-microcontroller-2n9k)
-- [Goravel v1.17 Preview: Sending emails supports rendering with view templates](https://dev.to/bowenhan/goravel-v117-preview-sending-emails-supports-rendering-with-view-templates-19ge)
-- [SQL vs. NoSQL: Will the Wrong Data Store Destroy your Transaction Records?](https://dev.to/flutterwaveeng/sql-vs-nosql-will-the-wrong-data-store-destroy-your-transaction-records-46lj)
-- [How to Install and Use Emacs or Micro Editor in Termux](https://dev.to/terminaltools/how-to-install-and-use-emacs-or-micro-editor-in-termux-32ga)
-- [Amazon SDE 1 Interview Experience: I received the acceptance letter!](https://dev.to/_1c38abf3f8630eeac6180/amazon-sde-1-interview-experience-i-received-the-acceptance-letter-42i8)
+- [CycloneDX Support](https://dev.to/lizmat/cyclonedx-support-3adh)
+- [How to Sync Files Wirelessly Between Android and PC via Termux](https://dev.to/terminaltools/how-to-sync-files-wirelessly-between-android-and-pc-via-termux-4h7i)
+- [APIs for Translation: What to Know Before You Integrate](https://dev.to/colinreed/apis-for-translation-what-to-know-before-you-integrate-56bf)
+- [Stop Killing Your Database with Multiple Calls](https://dev.to/stevsharp/stop-killing-your-database-with-multiple-calls-23am)
+- [Lean UX: A Smarter Approach to Product Design for Businesses](https://dev.to/lollypopdesign/lean-ux-a-smarter-approach-to-product-design-for-businesses-mk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
