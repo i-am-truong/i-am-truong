@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CIEM vs PAM: Key Differences, Benefits, and Use Cases in Modern Security](https://dev.to/clouddefenseai/ciem-vs-pam-key-differences-benefits-and-use-cases-in-modern-security-4ac7)
-- [KEXP: Sunflower Bean - Sunshine &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-sunshine-live-on-kexp-2df9)
-- [KEXP: Sunflower Bean - I Knew Love &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-i-knew-love-live-on-kexp-16me)
-- [KEXP: Sunflower Bean - Nothing Romantic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-nothing-romantic-live-on-kexp-21i1)
-- [KEXP: Sunflower Bean - Champagne Taste &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-champagne-taste-live-on-kexp-lg2)
+- [Why Developers Still Choose Python, Even If It’s “Slow”](https://dev.to/grenishrai/why-developers-still-choose-python-even-if-its-slow-2hlc)
+- [From Code Reviews to Culture Reviews: Leadership Lessons for Dev Teams](https://dev.to/joe_anthony_c718780b8bf32/from-code-reviews-to-culture-reviews-leadership-lessons-for-dev-teams-5h76)
+- [Understanding JavaScript Rest and Spread Operators](https://dev.to/wisdomudo/understanding-javascript-rest-and-spread-operators-583l)
+- [YOOO](https://dev.to/xpertforextradex/yooo-2e7a)
+- [Laravel CRUD Like a Pro: Clean, Reusable, and Ultra-Minimal Code](https://dev.to/raheelshan/laravel-crud-like-a-pro-clean-reusable-and-ultra-minimal-code-57a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
