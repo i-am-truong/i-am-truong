@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SOCKS Proxy Basics: How They Work and Why Cybersecurity Pros Use Them](https://dev.to/saravana_gautham_g/socks-proxy-basics-how-they-work-and-why-cybersecurity-pros-use-them-mhh)
-- [Modern Admin Dashboard Template Built with Next.js and shadcn/ui](https://dev.to/jqueryscript/modern-admin-dashboard-template-built-with-nextjs-and-shadcnui-2ne9)
-- [Translation vs. Localization: What&#39;s the Difference?](https://dev.to/jennamitchell/translation-vs-localization-whats-the-difference-o8)
-- [Create Golang private package](https://dev.to/adityaokke/create-golang-private-package-15bn)
-- [Iframes: Embedding Other Webpages](https://dev.to/sharique_siddiqui_8242dad/iframes-embedding-other-webpages-5eai)
+- [Nardwuar the Human Serviette: Nardwuar vs. Kaytranada](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-kaytranada-3opg)
+- [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-86m)
+- [[Boost]](https://dev.to/furudo_erika_7633eee4afa5/-2d3c)
+- [Introducing Dashy Simple: Your Private, Modern, and Browser-Based Start Page](https://dev.to/kingyou/introducing-dashy-simple-your-private-modern-and-browser-based-start-page-c62)
+- [My Internship Experience at Oasis Infobyte 🚀](https://dev.to/rinkukumar79/my-internship-experience-at-oasis-infobyte-2ama)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
