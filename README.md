@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Founded Cognix: Creating Reliable AI Tools](https://dev.to/cognix-dev/why-i-founded-cognix-creating-reliable-ai-tools-1be5)
-- [Deploy SafeLine WAF with Docker — A Step-by-Step Guide](https://dev.to/sharon_42e16b8da44dabde6d/deploy-safeline-waf-with-docker-a-step-by-step-guide-dgj)
-- [NEAR vs Solana: A Developer&#39;s Real-World Comparison - What I Wish I&#39;d Known Before Building My First DApp](https://dev.to/losnero6/near-vs-solana-a-developers-real-world-comparison-what-i-wish-id-known-before-building-my-2poc)
-- [Мои приложения из Microsoft Store](https://dev.to/linuxgik/moi-prilozhieniia-iz-microsoft-store-275b)
-- [Image Upload Process Using React, .NET, and GraphQL](https://dev.to/sac1080/image-upload-process-using-react-net-and-graphql-251j)
+- [【August Meetup】 Qihoo 360 Data Expert Shares: Production-Grade Deployment Guide for DolphinScheduler on K8s!](https://dev.to/chen_debra_3060b21d12b1b0/august-meetup-qihoo-360-data-expert-shares-production-grade-deployment-guide-for-36l2)
+- [[Boost]](https://dev.to/marabesi/-5dg2)
+- [Business Rules Conversion Prompt](https://dev.to/lucpattyn/business-rules-conversion-prompt-2pp5)
+- [Enable +C / +V in XFCE Terminal on Debian 11 &lpar;UTM&rpar;](https://dev.to/tamilvanan/enable-c-v-in-xfce-terminal-on-debian-11-utm-43a3)
+- [Mastering Azure Resource Graph: Query &amp; Analyse Tags with KQL](https://dev.to/techielass/mastering-azure-resource-graph-query-analyse-tags-with-kql-39pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
