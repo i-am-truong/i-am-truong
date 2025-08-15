@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 How I Replaced Pub/Sub, Cache, and Database with a Single Tool: HydrAIDE](https://dev.to/hydraide/how-i-replaced-my-pubsub-cache-and-mongodb-with-one-tool-hydraide-2om1)
+- [Building Love Studios NYC — the story, the stack &lpar;Python + C++&rpar;, the problems, and our roadmap](https://dev.to/urbanbackdropscurator/building-love-studios-nyc-the-story-the-stack-python-c-the-problems-and-our-roadmap-4249)
+- [Part-3: Understand VM Management Tasks - Stop, Start, Suspend, Resume, Delete and Reset in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-3-understand-vm-management-tasks-stop-start-suspend-resume-delete-and-reset-in-google-2l54)
+- [Vibe Coding vs. Traditional Coding — What You Need to Know](https://dev.to/vidushhi/vibe-coding-vs-traditional-coding-what-you-need-to-know-2cnn)
 - [【August Meetup】 Qihoo 360 Data Expert Shares: Production-Grade Deployment Guide for DolphinScheduler on K8s!](https://dev.to/chen_debra_3060b21d12b1b0/august-meetup-qihoo-360-data-expert-shares-production-grade-deployment-guide-for-36l2)
-- [Micro Frontend Using Vite &lpar;React, Angular, Vue&rpar;](https://dev.to/ashutoshsarangi/micro-frontend-using-vite-react-angular-vue-39lb)
-- [[Boost]](https://dev.to/marabesi/-5dg2)
-- [Business Rules Conversion Prompt](https://dev.to/lucpattyn/business-rules-conversion-prompt-2pp5)
-- [Enable +C / +V in XFCE Terminal on Debian 11 &lpar;UTM&rpar;](https://dev.to/tamilvanan/enable-c-v-in-xfce-terminal-on-debian-11-utm-43a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
