@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [node](https://dev.to/jameedaprogrammer/node-2595)
-- [10x Your Coding Speed: The VS Code Setup Every Developer Needs in 2025](https://dev.to/sid6398/10x-your-coding-speed-the-vs-code-setup-every-developer-needs-in-2025-14gd)
-- [FreeDom_Day&lpar;15th&rpar;](https://dev.to/ajayr18/freedomday15th-57pm)
-- [How to Create a VM Image, Store it in Azure Compute Gallery, and Deploy a Virtual Machine Scale Set &lpar;VMSS&rpar;.](https://dev.to/subair09/how-to-create-a-vm-image-store-it-in-azure-compute-gallery-and-deploy-a-virtual-machine-scale-set-48h0)
-- [Always Up-to-Date API Docs Are Real &lpar;And No, It’s Not AI&rpar;](https://dev.to/tsv1/always-up-to-date-api-docs-are-real-and-no-its-not-ai-256g)
+- [Boost Your Azure VM: A Step-by-Step Guide to Adding a Data Disk in Microsoft Azure](https://dev.to/arctaiwo/boost-your-azure-vm-a-step-by-step-guide-to-adding-a-data-disk-in-microsoft-azure-2a6o)
+- [Exception Hierarchy in Java: Checked, Unchecked, and Errors](https://dev.to/noel_kamphoa_e688aece0725/exception-hierarchy-in-java-checked-unchecked-and-errors-1f45)
+- [So You Want to Build Your Own Data Center](https://dev.to/sarah-railway/so-you-want-to-build-your-own-data-center-1fo8)
+- [Day 1/100 of styling](https://dev.to/ffff0000h/day-1100-of-styling-31gd)
+- [Untitled](https://dev.to/cell_a20s_46f1ed22136ae01/untitled-4ck0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
