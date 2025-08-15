@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 Data Analytics Progress📈](https://dev.to/vengat2505/day-1-data-analytics-progress-4k25)
-- [Putting AWS Skills to Work: Building an AB Testing Tracker](https://dev.to/ajithmanmu/putting-aws-skills-to-work-building-an-ab-testing-tracker-34c)
-- [Google Sheets JSON API in 3 minutes &lpar;no Apps Script&rpar;](https://dev.to/nishfreelanceacnt/google-sheets-json-api-in-3-minutes-no-apps-script-4b8e)
-- [marchat v0.3.0-beta.4 — Terminal Chat With Plugins, Encryption, and Docker Support](https://dev.to/cod-e-codes/marchat-v030-beta4-terminal-chat-with-plugins-encryption-and-docker-support-1d33)
-- [🧭 Start Here: Linux Server Logbook](https://dev.to/aka_artem_dd17be93c/start-here-linux-server-logbook-4i94)
+- [Log001 - 008/ From Ubuntu to Debian journey.](https://dev.to/aka_artem_dd17be93c/log001-008-from-ubuntu-to-debian-journey-3m4m)
+- [Solving Balanced Binary Tree - Leetcode problem](https://dev.to/ajithmanmu/solving-balanced-binary-tree-leetcode-problem-d0b)
+- [🔒 The Future of Authentication Is Coming](https://dev.to/thesilentknight/the-future-of-authentication-is-coming-7k0)
+- [Solving the JavaScript Execution Order Challenge](https://dev.to/ajithmanmu/solving-the-javascript-execution-order-challenge-4adp)
+- [How to think like a product designer](https://dev.to/egledigital/how-to-think-like-a-product-designer-2001)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
