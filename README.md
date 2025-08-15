@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Creative Cloud: Make a Basic Product Shot Look Like a Movie Trailer](https://dev.to/design_youtube/adobe-creative-cloud-make-a-basic-product-shot-look-like-a-movie-trailer-i56)
+- [IGN: Steel Ark - Official Gameplay Debut Trailer](https://dev.to/gg_news/ign-steel-ark-official-gameplay-debut-trailer-4g9)
+- [IGN: REANIMAL – The First 13 Minutes of the Mystery Horror Adventure &lpar;Exclusive Gameplay&rpar;](https://dev.to/gg_news/ign-reanimal-the-first-13-minutes-of-the-mystery-horror-adventure-exclusive-gameplay-1kn2)
+- [IGN: Peacemaker Season 2 &lpar;Episodes 1-5&rpar; Review | NO SPOILERS](https://dev.to/gg_news/ign-peacemaker-season-2-episodes-1-5-review-no-spoilers-2733)
 - [&quot;Supercharge Your Web Apps with Svelte + Flexmonster Pivot for Seamless Data Visualization&quot;](https://dev.to/jozaf_dyny_0c54a10d745c6e/supercharge-your-web-apps-with-svelte-flexmonster-pivot-for-seamless-data-visualization-4p4l)
-- [Death of High-Level Design in 2025](https://dev.to/ginylil/death-of-high-level-design-in-2025-1k6k)
-- [Microelectronics Made Simple: How Tiny Tech Powers Your Everyday Devices](https://dev.to/frank_1871bc3c55f35370df3/microelectronics-made-simple-how-tiny-tech-powers-your-everyday-devices-5bph)
-- [Day 2: Enterprise Testing Infrastructure with TestContainers - 30-Day AI Observability Challenge](https://dev.to/clayroach/day-2-enterprise-testing-infrastructure-with-testcontainers-30-day-ai-observability-challenge-4d9n)
-- [Communication Confusion: Is It Better to Be Soft or Straight to the Point?](https://dev.to/datatechbridge/communication-confusion-is-it-better-to-be-soft-or-straight-to-the-point-4pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
