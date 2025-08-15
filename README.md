@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JWE vs JWT — Side-by-Side for Developers](https://dev.to/fung-authgear/jwe-vs-jwt-side-by-side-for-developers-4lm)
+- [Answering Some Common Questions In Deep Learning Foundations](https://dev.to/lucirie/answering-some-common-questions-in-deep-learning-foundations-3c24)
+- [How to Build Voice-Activated Tools Using Termux Voice APIs](https://dev.to/terminaltools/how-to-build-voice-activated-tools-using-termux-voice-apis-gp0)
 - [How to Automate SMS Notifications via Termux-API &amp; Telegram](https://dev.to/terminaltools/how-to-automate-sms-notifications-via-termux-api-telegram-1l45)
 - [Adapting to the Future: How Online Learning Platforms are Catering to Gen Z&#39;s Needs](https://dev.to/ghummantech/adapting-to-the-future-how-online-learning-platforms-are-catering-to-gen-zs-needs-cpb)
-- [VPS For Frontend Engineer - Part 1](https://dev.to/joseph42a/vps-for-frontend-engineer-part-1-2lja)
-- [Accessibility in React and Angular: How to Build Apps That Everyone Can Use](https://dev.to/okoye_ndidiamaka_5e3b7d30/accessibility-in-react-and-angular-how-to-build-apps-that-everyone-can-use-mia)
-- [Don’t Choose the Wrong Development Team — How to Find the Right Experts for Your Project](https://dev.to/haseebmirza/dont-choose-the-wrong-development-team-how-to-find-the-right-experts-for-your-project-1284)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
