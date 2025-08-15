@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Azure VM: A Step-by-Step Guide to Adding a Data Disk in Microsoft Azure](https://dev.to/arctaiwo/boost-your-azure-vm-a-step-by-step-guide-to-adding-a-data-disk-in-microsoft-azure-2a6o)
-- [Exception Hierarchy in Java: Checked, Unchecked, and Errors](https://dev.to/noel_kamphoa_e688aece0725/exception-hierarchy-in-java-checked-unchecked-and-errors-1f45)
-- [So You Want to Build Your Own Data Center](https://dev.to/sarah-railway/so-you-want-to-build-your-own-data-center-1fo8)
-- [Day 1/100 of styling](https://dev.to/ffff0000h/day-1100-of-styling-31gd)
-- [Untitled](https://dev.to/cell_a20s_46f1ed22136ae01/untitled-4ck0)
+- [Introduction to system design](https://dev.to/codewitgabi/introduction-to-system-design-j4n)
+- [SVG IN HTML.](https://dev.to/gustavo_ax/svg-in-html-5h6i)
+- [How to Safely Use `dangerouslySetInnerHTML` in React Applications](https://dev.to/maximlogunov/how-to-safely-use-dangerouslysetinnerhtml-in-react-applications-205f)
+- [Breaking Out of Tutorial Hell](https://dev.to/daoistrose/breaking-out-of-tutorial-hell-33em)
+- [🎨 Real-time Image Color Palette Extractor — A Deep Dive into K-means, LAB, and ΔE2000](https://dev.to/ertugrulmutlu/real-time-image-color-palette-extractor-a-deep-dive-into-k-means-lab-and-de2000-4eoi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
