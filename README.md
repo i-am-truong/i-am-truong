@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Assistant ChatBot — Full Control: My WordPress Plugin](https://dev.to/amarire-dev/ai-assistant-chatbot-full-control-my-wordpress-plugin-2fa5)
+- [Connecting AI to the Real World: Understanding Model Context Protocol &lpar;MCP&rpar; by Anthropic](https://dev.to/iamfaham/connecting-ai-to-the-real-world-understanding-model-context-protocol-mcp-by-anthropic-39hd)
 - [Vibe Coding: Why AI-Powered Development Is Reshaping Software Creation](https://dev.to/zerozulu/vibe-coding-why-ai-powered-development-is-reshaping-software-creation-pom)
 - [How to Configure Container App jobs as GitHub Action runners](https://dev.to/tuan_saad_bd99b8fecac2e88/how-to-configure-container-app-jobs-as-github-runners-2m29)
 - [Your Java App Is DYING! This One Thread Pool Mistake KILLS Performance.](https://dev.to/xuan_56087d315ff4f52254e6/your-java-app-is-dying-this-one-thread-pool-mistake-kills-performance-2i34)
-- [GameSpot: VR Games Showcase | August 2025 &lpar;Full Presentation&rpar;](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-full-presentation-4670)
-- [IGN: Delta Force: 9 Minutes of PS5 Gameplay](https://dev.to/gg_news/ign-delta-force-9-minutes-of-ps5-gameplay-24b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
