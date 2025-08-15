@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Trying to finish my AI-powered cubing app—just need one dev to help me change cubing, forever!](https://dev.to/sevindu_damsara_fb3958cbc/trying-to-finish-my-ai-powered-cubing-app-just-need-one-dev-to-help-me-change-cubing-forever-46eb)
-- [Building SVGenius: From Side Project to Community Library](https://dev.to/yevhen_pm/building-svgenius-from-side-project-to-community-library-41ko)
-- [New challenge](https://dev.to/ejaz_4802e79b1529ea727bed/new-challenge-3386)
-- [Agentic AI and the Next Era of Intelligent Automation](https://dev.to/gauripandey/agentic-ai-and-the-next-era-of-intelligent-automation-400o)
-- [How to Run Nmap and Network Diagnostics from Termux](https://dev.to/terminaltools/how-to-run-nmap-and-network-diagnostics-from-termux-3an1)
+- [The Hype and the Hangover: Unpacking the Underwhelming Debut of GPT-5](https://dev.to/grenishrai/the-hype-and-the-hangover-unpacking-the-underwhelming-debut-of-gpt-5-1cc6)
+- [Rotary Encoders Explained](https://dev.to/frank_1871bc3c55f35370df3/rotary-encoders-explained-1h8e)
+- [Supercharging AI Development with code-contextify](https://dev.to/elvinega/supercharging-ai-development-with-code-contextify-53ih)
+- [How to Use GPG to Encrypt Files in Termux](https://dev.to/terminaltools/how-to-use-gpg-to-encrypt-files-in-termux-172k)
+- [How To Train Predictable AI Agents using XML+JSON](https://dev.to/christopherclemmons/how-to-train-predictable-ai-agents-using-xmljson-cn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
