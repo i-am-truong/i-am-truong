@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Creative Cloud: Make a Basic Product Shot Look Like a Movie Trailer](https://dev.to/design_youtube/adobe-creative-cloud-make-a-basic-product-shot-look-like-a-movie-trailer-i56)
-- [IGN: Steel Ark - Official Gameplay Debut Trailer](https://dev.to/gg_news/ign-steel-ark-official-gameplay-debut-trailer-4g9)
-- [IGN: REANIMAL – The First 13 Minutes of the Mystery Horror Adventure &lpar;Exclusive Gameplay&rpar;](https://dev.to/gg_news/ign-reanimal-the-first-13-minutes-of-the-mystery-horror-adventure-exclusive-gameplay-1kn2)
-- [IGN: Peacemaker Season 2 &lpar;Episodes 1-5&rpar; Review | NO SPOILERS](https://dev.to/gg_news/ign-peacemaker-season-2-episodes-1-5-review-no-spoilers-2733)
-- [&quot;Supercharge Your Web Apps with Svelte + Flexmonster Pivot for Seamless Data Visualization&quot;](https://dev.to/jozaf_dyny_0c54a10d745c6e/supercharge-your-web-apps-with-svelte-flexmonster-pivot-for-seamless-data-visualization-4p4l)
+- [Day 66: When Your Coding Session Gets Hijacked by Real Life](https://dev.to/casperday11/day-66-when-your-coding-session-gets-hijacked-by-real-life-1oo4)
+- [🚀 React 19 &lpar;2025&rpar;: All New Features Explained + 20 Must-Know Interview Questions](https://dev.to/fullstackprepdev_sda_d43a/react-19-2025-all-new-features-explained-20-must-know-interview-questions-1l33)
+- [The Memory Architects - Chapter 1: The Persistence Anomaly](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-memory-architects-chapter-1-the-persistence-anomaly-1jpl)
+- [Good luck to everyone participating!](https://dev.to/jess/good-luck-to-everyone-participating-1ao0)
+- [Understanding Domain, Anemic Models, Domain Language, Class Invariants, and Layered Architectures](https://dev.to/lovestaco/understanding-domain-anemic-models-domain-language-class-invariants-and-layered-architectures-2gkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
