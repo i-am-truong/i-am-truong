@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `60`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-60-3ccg)
-- [Can Cookies Track Sensitive Personal Info?](https://dev.to/mehwish_malik_4f29ff7fb04/can-cookies-track-sensitive-personal-info-183m)
-- [JavaScript Execution Model: From Source Code to Running Program](https://dev.to/kouta222/javascript-execution-model-from-source-code-to-running-program-1jn9)
-- [Crafting Aspedan: Our Vision, Development Journey, and Ambitions](https://dev.to/freddie_samuel_8f01d8c13f/crafting-aspedan-our-vision-development-journey-and-ambitions-2n6i)
-- [DuckDB: The Analytics Database Revolution - A Comprehensive Guide](https://dev.to/emiroberti/duckdb-the-analytics-database-revolution-a-comprehensive-guide-442b)
+- [CIEM vs PAM: Key Differences, Benefits, and Use Cases in Modern Security](https://dev.to/clouddefenseai/ciem-vs-pam-key-differences-benefits-and-use-cases-in-modern-security-4ac7)
+- [KEXP: Sunflower Bean - Sunshine &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-sunshine-live-on-kexp-2df9)
+- [KEXP: Sunflower Bean - I Knew Love &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-i-knew-love-live-on-kexp-16me)
+- [KEXP: Sunflower Bean - Nothing Romantic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-nothing-romantic-live-on-kexp-21i1)
+- [KEXP: Sunflower Bean - Champagne Taste &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-champagne-taste-live-on-kexp-lg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
