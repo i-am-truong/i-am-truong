@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Neovim As An Editor](https://dev.to/justpurv/neovim-as-an-editor-2c0f)
+- [⏳ React Suspense — Handle Lazy Loading with Grace](https://dev.to/aman_kureshi_/react-suspense-handle-lazy-loading-with-grace-152a)
 - [🚀 Deploying a Highly Scalable &amp; Available Django Application on AWS with Terraform](https://dev.to/aws-builders/deploying-a-highly-scalable-available-django-application-on-aws-with-terraform-286p)
+- [🗓 Daily LeetCode Progress – Day 1](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-1-3d0a)
 - [AWS resume challenge &lpar;cloud&rpar; 2025 indepth explanation](https://dev.to/zach_beecher/aws-resume-challenge-cloud-2025-indepth-explanation-3ijk)
-- [Getting Started with Qwen Lightning v1.1 in ComfyUI for 8GB VRAM](https://dev.to/aitechtutorials/getting-started-with-qwen-lightning-v11-in-comfyui-for-8gb-vram-2m5)
-- [Advanced Guide to Signals and Closures in Angular](https://dev.to/abanoubkerols/advanced-guide-to-signals-and-closures-in-angular-3k3k)
-- [🚀 Laravel Server Auto-Installer – Deploy Laravel on a Fresh VPS in Minutes!](https://dev.to/mehrdad_dadashi_d4020898e/laravel-server-auto-installer-deploy-laravel-on-a-fresh-vps-in-minutes-322l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
