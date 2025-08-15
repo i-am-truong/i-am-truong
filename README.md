@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microservices or Micro-progress? The Perils of Pre-Scaling Too Soon](https://dev.to/mtsammy40/microservices-or-micro-progress-the-perils-of-pre-scaling-too-soon-1049)
 - [How to Improve Product Quality Using Business Central &lpar;Let Power BI and Excel Show You&rpar;](https://dev.to/insight_works/how-to-improve-product-quality-using-business-central-let-power-bi-and-excel-show-you-59md)
 - [Diving Deeper into Automations #40](https://dev.to/0xj0n1/diving-deeper-into-automations-40-3574)
 - [Real-Time Notifications in a MERN App — explained like texting your nerd bestie](https://dev.to/v0nser/real-time-notifications-in-a-mern-app-explained-like-im-texting-my-nerd-bestie-3h7d)
 - [ওয়েব ফর্মের জাদু – HTML Input Types বাংলায়](https://dev.to/tamima_akterlima_06/oyeb-phrmer-jaadu-html-input-types-baanlaay-pfk)
-- [I am just starting these Functional Programming Lectures. What are your guys’ thought about it? https://github.com/seandinwiddie/lectures/blob/main/index.md](https://dev.to/seandinwiddie/i-am-just-starting-these-functional-programming-lectures-what-are-your-guys-thought-about-it-39in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
