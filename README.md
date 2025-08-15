@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linus Tech Tips &lpar;LTT&rpar;: Building a Gamer Living Room on a Budget - Scrapyard Wars X Home Theater Edition - Part 1](https://dev.to/future_youtube/linus-tech-tips-ltt-building-a-gamer-living-room-on-a-budget-scrapyard-wars-x-home-theater-4j7c)
+- [IGN: Ghost of Yōtei - Official Yari Gameplay Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-yari-gameplay-trailer-5f93)
+- [🏁🍭Lollypop Designathon 2025 - The Ultimate 24-hour UI/UX Design Competition is BACK!](https://dev.to/lollypopdesign/lollypop-designathon-2025-the-ultimate-24-hour-uiux-design-competition-is-back-ng7)
+- [The Role of ICT Testers in PCB Manufacturing](https://dev.to/frank_1871bc3c55f35370df3/the-role-of-ict-testers-in-pcb-manufacturing-4pe8)
 - [An Introduction to Agentic Workflows You Need To Know](https://dev.to/lollypopdesign/an-introduction-to-agentic-workflows-you-need-to-know-25ef)
-- [What to Wear to a Country Show in Wilmington](https://dev.to/harbor_entertainment/what-to-wear-to-a-country-show-in-wilmington-10p)
-- [How to Get &quot;Total Data Scanned&quot; for a Redshift Query via the Data API](https://dev.to/aaron_rose_0787cc8b4775a0/how-to-get-total-data-scanned-for-a-redshift-query-via-the-data-api-3c90)
-- [Software Development Life Cycle: Backbone of successful software projects](https://dev.to/th33k/software-development-life-cycle-3m0g)
-- [Affiliate opportunity for dev creators &lpar;B2B&rpar;: Help teams ship i18n, earn 25% lifetime](https://dev.to/danielsc/affiliate-opportunity-for-dev-creators-b2b-help-teams-ship-i18n-earn-25-lifetime-4h44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
