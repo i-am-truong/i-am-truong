@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [captureDOM function in snapDOM codebase - part 2](https://dev.to/ramunarasinga-11/capturedom-function-in-snapdom-codebase-part-2-51j7)
-- [10 Steps to Secure your AWS Infrastructure 🔒☁️](https://dev.to/nishath_jp/10-steps-to-secure-your-aws-infrastructure-399h)
-- [Creating a Dashboard Sample with Google Apps Script📊](https://dev.to/yo-shi/how-our-google-drive-practices-were-walking-a-dangerous-line-2d92)
-- [What Fuels the Internet &amp; Prerequisites for DevOps Cohort [Week-0]](https://dev.to/suvrajeet/what-fuels-the-internet-prerequisites-week-0-49lj)
-- [[Boost]](https://dev.to/arlan85/-1n7c)
+- [👉 “SQL Joins Explained Like You’re 5 &lpar;Interview-Friendly Guide&rpar;”](https://dev.to/fullstackprepdev/sql-joins-explained-like-youre-5-interview-friendly-guide-3d05)
+- [The Ultimate 2025 Developer Salary Guide: What AI-Ready Skills Actually Pay &lpar;With Real Job Data&rpar;](https://dev.to/jobbers_io_8a6f201f0be4fb/the-ultimate-2025-developer-salary-guide-what-ai-ready-skills-actually-pay-with-real-job-data-3md7)
+- [[Boost]](https://dev.to/ryszardo303/-39o)
+- [Cloud eng/ dev Daily job search guide from a recruiter](https://dev.to/zach_beecher/cloud-eng-dev-daily-job-search-guide-from-a-recruiter-3476)
+- [Bash script to generate 25 files, a resource, a guide, challenge yourself](https://dev.to/zach_beecher/bash-script-to-generate-25-files-a-resource-a-guide-challenge-yourself-1b1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
