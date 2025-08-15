@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Practice #4: Large Primary-Subtable Join：A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice-4-large-primary-subtable-joina-lightweight-solution-to-speed-up-queries-by-dumping-data-4g0i)
-- [A Simple Guide to Creating, Pushing &amp; Pulling Your First Repository&quot;](https://dev.to/manikandan_a8f99e0153ef77/a-simple-guide-to-creating-pushing-pulling-your-first-repository-pbh)
-- [STM8S105S6T6C – High-Performance 8-bit Microcontroller for Embedded Applications](https://dev.to/xecor_company/stm8s105s6t6c-high-performance-8-bit-microcontroller-for-embedded-applications-40c)
-- [🔭 OpenTelemetry in Action on Kubernetes: Part 9 - Cluster-Level Observability with OpenTelemetry Agent + Gateway](https://dev.to/kartikdudeja21/opentelemetry-in-action-on-kubernetes-part-9-cluster-level-observability-with-opentelemetry-3d5p)
-- [Nardwuar the Human Serviette: Nardwuar vs. Kaytranada](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-kaytranada-3opg)
+- [Why I Founded Cognix: Creating Reliable AI Tools](https://dev.to/cognix-dev/why-i-founded-cognix-creating-reliable-ai-tools-1be5)
+- [Deploy SafeLine WAF with Docker — A Step-by-Step Guide](https://dev.to/sharon_42e16b8da44dabde6d/deploy-safeline-waf-with-docker-a-step-by-step-guide-dgj)
+- [NEAR vs Solana: A Developer&#39;s Real-World Comparison - What I Wish I&#39;d Known Before Building My First DApp](https://dev.to/losnero6/near-vs-solana-a-developers-real-world-comparison-what-i-wish-id-known-before-building-my-2poc)
+- [Мои приложения из Microsoft Store](https://dev.to/linuxgik/moi-prilozhieniia-iz-microsoft-store-275b)
+- [Image Upload Process Using React, .NET, and GraphQL](https://dev.to/sac1080/image-upload-process-using-react-net-and-graphql-251j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
