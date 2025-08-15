@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cypress — How to Create Automatic Weekly Flake Alerting](https://dev.to/cydavid/cypress-how-to-create-automatic-weekly-flake-alerting-90i)
 - [CinePlex - ReactJS + Django Rest Framework project](https://dev.to/madhubankhatri/cineplex-reactjs-django-rest-framework-project-bgi)
 - [Maker&#39;s Muse: Best seam settings - hide them completely! 3DP101](https://dev.to/maker_youtube/makers-muse-best-seam-settings-hide-them-completely-3dp101-2hgg)
 - [3D Printing Nerd: From Broken to Better Than New – 3D Printing a Tent Part!](https://dev.to/maker_youtube/3d-printing-nerd-from-broken-to-better-than-new-3d-printing-a-tent-part-a3o)
 - [Windsurf Wave 12 update adds Devin, DeepWiki, Dev Containers, Vibe, and more new features](https://dev.to/ytosko/windsurf-wave-12-update-adds-devin-deepwiki-dev-containers-vibe-and-more-new-features-3jm0)
-- [Most AI Fails Quietly. Graph Thinking Doesn’t.](https://dev.to/talweezy/most-ai-fails-quietly-graph-thinking-doesnt-cnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
