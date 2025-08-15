@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How I Replaced Pub/Sub, Cache, and Database with a Single Tool: HydrAIDE](https://dev.to/hydraide/how-i-replaced-my-pubsub-cache-and-mongodb-with-one-tool-hydraide-2om1)
-- [Building Love Studios NYC — the story, the stack &lpar;Python + C++&rpar;, the problems, and our roadmap](https://dev.to/urbanbackdropscurator/building-love-studios-nyc-the-story-the-stack-python-c-the-problems-and-our-roadmap-4249)
-- [Part-3: Understand VM Management Tasks - Stop, Start, Suspend, Resume, Delete and Reset in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-3-understand-vm-management-tasks-stop-start-suspend-resume-delete-and-reset-in-google-2l54)
-- [Vibe Coding vs. Traditional Coding — What You Need to Know](https://dev.to/vidushhi/vibe-coding-vs-traditional-coding-what-you-need-to-know-2cnn)
-- [【August Meetup】 Qihoo 360 Data Expert Shares: Production-Grade Deployment Guide for DolphinScheduler on K8s!](https://dev.to/chen_debra_3060b21d12b1b0/august-meetup-qihoo-360-data-expert-shares-production-grade-deployment-guide-for-36l2)
+- [Git Commit Message Best Practices: A Tech Lead&#39;s Guide](https://dev.to/levente_szabomidori_c0/git-commit-message-best-practices-a-tech-leads-guide-4d07)
+- [AI Cheerleaders: Why Your Assistant Says &quot;Great Idea!&quot; to Terrible Ideas](https://dev.to/ryo_suwito/ai-cheerleaders-why-your-assistant-says-great-idea-to-terrible-ideas-1jne)
+- [Why I Decided to Replace Outsourced Teams with AI Advertising Tools](https://dev.to/_45c30a0d677716416f5cd/why-i-decided-to-replace-outsourced-teams-with-ai-advertising-tools-1eog)
+- [Gatling parameterize](https://dev.to/ozkanpakdil/gatling-parameterize-1dnp)
+- [How Is a Project Roadmap Different from a Detailed Project Plan?](https://dev.to/writegenic/how-is-a-project-roadmap-different-from-a-detailed-project-plan-1cj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
