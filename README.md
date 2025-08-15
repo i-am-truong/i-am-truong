@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Send POST Data with fetch&lpar;&rpar;](https://dev.to/arasosman/how-to-send-post-data-with-fetch-36i9)
-- [Laravel Eloquent: Advanced Query Optimization and Profiling Techniques](https://dev.to/arasosman/laravel-eloquent-advanced-query-optimization-and-profiling-techniques-25nn)
-- [Laravel Memory Optimization: 12 Advanced Techniques for Resource Efficiency](https://dev.to/arasosman/laravel-memory-optimization-12-advanced-techniques-for-resource-efficiency-a7a)
-- [Firewalls 101](https://dev.to/moh4med404/firewalls-101-3cjm)
-- [Running Claude Code inside your dev containers](https://dev.to/sbotto/running-claude-code-inside-your-dev-containers-36e7)
+- [Terraform vs CloudFormation: Which AWS IaC Tool Should You Use? 🤔](https://dev.to/yash_sonawane25/terraform-vs-cloudformation-which-aws-iac-tool-should-you-use-2h3i)
+- [Langkah Baru Belajar Koding: Membuat Skrip Pertama dengan Earl](https://dev.to/dev_nazwashabrina/langkah-baru-belajar-koding-membuat-skrip-pertama-dengan-earl-4ol7)
+- [WahResume: AI-Powered Resume Builder for Job Seekers](https://dev.to/johnu_marattil_cd4336d0f4/wahresume-ai-powered-resume-builder-for-job-seekers-40ho)
+- [Wisp – A Modern, Secure One-Time Secret Sharing App Built with Laravel 12, Vue 3 and Inertia.js](https://dev.to/thavarshan/wisp-a-modern-secure-one-time-secret-sharing-app-built-with-laravel-12-vue-3-and-inertiajs-39e4)
+- [🎨 Making Long Coding Sessions More Pleasant — The Story Behind Harmonia Theme](https://dev.to/agusrdz/making-long-coding-sessions-more-pleasant-the-story-behind-harmonia-theme-2390)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
