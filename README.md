@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Improve Product Quality Using Business Central &lpar;Let Power BI and Excel Show You&rpar;](https://dev.to/insight_works/how-to-improve-product-quality-using-business-central-let-power-bi-and-excel-show-you-59md)
+- [Diving Deeper into Automations #40](https://dev.to/0xj0n1/diving-deeper-into-automations-40-3574)
+- [Real-Time Notifications in a MERN App — explained like texting your nerd bestie](https://dev.to/v0nser/real-time-notifications-in-a-mern-app-explained-like-im-texting-my-nerd-bestie-3h7d)
+- [ওয়েব ফর্মের জাদু – HTML Input Types বাংলায়](https://dev.to/tamima_akterlima_06/oyeb-phrmer-jaadu-html-input-types-baanlaay-pfk)
 - [I am just starting these Functional Programming Lectures. What are your guys’ thought about it? https://github.com/seandinwiddie/lectures/blob/main/index.md](https://dev.to/seandinwiddie/i-am-just-starting-these-functional-programming-lectures-what-are-your-guys-thought-about-it-39in)
-- [I Gave My LLM a Promotion: Now It Delegates Its Own Work](https://dev.to/xzdes/i-gave-my-llm-a-promotion-now-it-delegates-its-own-work-2loe)
-- [Security news weekly round-up - 15th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-15th-august-2025-446i)
-- [fsMate A modular collection of file system utilities for Node.js](https://dev.to/indianmodassir/fsmate-a-modular-collection-of-file-system-utilities-for-nodejs-172g)
-- [Install and Setup Oh My Zsh](https://dev.to/harry_tanama_51571ebf90b6/install-and-setup-oh-my-zsh-2079)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
