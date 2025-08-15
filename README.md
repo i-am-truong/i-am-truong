@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Ai Studio to create Crypto News &amp; Blog websites](https://dev.to/kunlexcity42/using-ai-studio-to-create-crypto-news-blog-websites-38kj)
-- [🔔How to send notifications to user while app is running on background?🔔](https://dev.to/harmonyos/how-to-send-notifications-to-user-while-app-is-running-on-background-1a8i)
-- [Copy &amp; Paste PostgreSQL Query Results into Google Sheets &lpar;No CSV Needed&rpar;](https://dev.to/montells/copy-paste-postgresql-query-results-into-google-sheets-no-csv-needed-3omb)
-- [SASE vs. SSE: What Is the Difference?](https://dev.to/clouddefenseai/sase-vs-sse-what-is-the-difference-2h8o)
-- [Migration from Pocket and Hatena Bookmark to Raindrop.io &lpar;and Creating helm-raindrop.el&rpar;](https://dev.to/masutaka/migration-from-pocket-and-hatena-bookmark-to-raindropio-and-creating-helm-raindropel-5f76)
+- [Trying to finish my AI-powered cubing app—just need one dev to help me change cubing, forever!](https://dev.to/sevindu_damsara_fb3958cbc/trying-to-finish-my-ai-powered-cubing-app-just-need-one-dev-to-help-me-change-cubing-forever-46eb)
+- [Building SVGenius: From Side Project to Community Library](https://dev.to/yevhen_pm/building-svgenius-from-side-project-to-community-library-41ko)
+- [New challenge](https://dev.to/ejaz_4802e79b1529ea727bed/new-challenge-3386)
+- [Agentic AI and the Next Era of Intelligent Automation](https://dev.to/gauripandey/agentic-ai-and-the-next-era-of-intelligent-automation-400o)
+- [How to Run Nmap and Network Diagnostics from Termux](https://dev.to/terminaltools/how-to-run-nmap-and-network-diagnostics-from-termux-3an1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
