@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Terraform vs CloudFormation: Which AWS IaC Tool Should You Use? 🤔](https://dev.to/yash_sonawane25/terraform-vs-cloudformation-which-aws-iac-tool-should-you-use-2h3i)
-- [Langkah Baru Belajar Koding: Membuat Skrip Pertama dengan Earl](https://dev.to/dev_nazwashabrina/langkah-baru-belajar-koding-membuat-skrip-pertama-dengan-earl-4ol7)
-- [WahResume: AI-Powered Resume Builder for Job Seekers](https://dev.to/johnu_marattil_cd4336d0f4/wahresume-ai-powered-resume-builder-for-job-seekers-40ho)
-- [Wisp – A Modern, Secure One-Time Secret Sharing App Built with Laravel 12, Vue 3 and Inertia.js](https://dev.to/thavarshan/wisp-a-modern-secure-one-time-secret-sharing-app-built-with-laravel-12-vue-3-and-inertiajs-39e4)
-- [🎨 Making Long Coding Sessions More Pleasant — The Story Behind Harmonia Theme](https://dev.to/agusrdz/making-long-coding-sessions-more-pleasant-the-story-behind-harmonia-theme-2390)
+- [Steering KIRO to Completion Less Effort, Less Stress](https://dev.to/truger/steering-kiro-to-completion-less-effort-less-stress-o27)
+- [Embedded Displays: The Core of Modern Industrial and Commercial Devices](https://dev.to/dora_001/embedded-displays-the-core-of-modern-industrial-and-commercial-devices-1723)
+- [Node.js Installation Guide](https://dev.to/mrchiraggarg/nodejs-installation-guide-55b0)
+- [VirtualBox 7.2 Adds Linux Kernel 6.17 Support](https://dev.to/neerajlovecyber/virtualbox-72-adds-linux-kernel-617-support-33e3)
+- [AI Takes Center Stage: From Generative Tools to Agentic Systems](https://dev.to/zakkhassan97/ai-takes-center-stage-from-generative-tools-to-agentic-systems-1bd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
