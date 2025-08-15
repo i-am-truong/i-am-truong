@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Steering KIRO to Completion Less Effort, Less Stress](https://dev.to/truger/steering-kiro-to-completion-less-effort-less-stress-o27)
-- [Embedded Displays: The Core of Modern Industrial and Commercial Devices](https://dev.to/dora_001/embedded-displays-the-core-of-modern-industrial-and-commercial-devices-1723)
-- [Node.js Installation Guide](https://dev.to/mrchiraggarg/nodejs-installation-guide-55b0)
-- [VirtualBox 7.2 Adds Linux Kernel 6.17 Support](https://dev.to/neerajlovecyber/virtualbox-72-adds-linux-kernel-617-support-33e3)
-- [AI Takes Center Stage: From Generative Tools to Agentic Systems](https://dev.to/zakkhassan97/ai-takes-center-stage-from-generative-tools-to-agentic-systems-1bd5)
+- [From Data Lineage to AI Agent: A New Chapter of Cloud Scheduling by Tianyi Cloud DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/from-data-lineage-to-ai-agent-a-new-chapter-of-cloud-scheduling-by-tianyi-cloud-x-dolphinscheduler-41no)
+- [For startup founders, this partnership means more AI choice, better integration options, and a smoother path from idea to impact—whether you’re streamlining operations or creating entirely new products.](https://dev.to/dexxtorrrr/for-startup-founders-this-partnership-means-more-ai-choice-better-integration-options-and-a-2605)
+- [What Startups Can Gain from the Oracle–Google Gemini AI Partnership](https://dev.to/dexxtorrrr/what-startups-can-gain-from-the-oracle-google-gemini-ai-partnership-2a6e)
+- [SmarTube: A Feature-Rich YouTube Clone Built with ReactJS](https://dev.to/hemang_b_ba8d35ae4a66339/smartube-a-feature-rich-youtube-clone-built-with-reactjs-3jc5)
+- [The Rise of AI Patent Search: A Look at IPRally and Traindex](https://dev.to/patentscanai/the-rise-of-ai-patent-search-a-look-at-iprally-and-traindex-bmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
