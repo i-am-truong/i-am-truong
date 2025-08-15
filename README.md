@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Ai Studio to create Crypto News &amp; Blog websites](https://dev.to/kunlexcity42/using-ai-studio-to-create-crypto-news-blog-websites-38kj)
+- [🔔How to send notifications to user while app is running on background?🔔](https://dev.to/harmonyos/how-to-send-notifications-to-user-while-app-is-running-on-background-1a8i)
+- [Copy &amp; Paste PostgreSQL Query Results into Google Sheets &lpar;No CSV Needed&rpar;](https://dev.to/montells/copy-paste-postgresql-query-results-into-google-sheets-no-csv-needed-3omb)
+- [SASE vs. SSE: What Is the Difference?](https://dev.to/clouddefenseai/sase-vs-sse-what-is-the-difference-2h8o)
 - [Migration from Pocket and Hatena Bookmark to Raindrop.io &lpar;and Creating helm-raindrop.el&rpar;](https://dev.to/masutaka/migration-from-pocket-and-hatena-bookmark-to-raindropio-and-creating-helm-raindropel-5f76)
-- [The Case for AI Provenance: Why We Need to Trust the Source](https://dev.to/mc2259/the-case-for-ai-provenance-why-we-need-to-trust-the-source-16k0)
-- [Toán Tử trong Java - Hướng dẫn chi tiết với ví dụ](https://dev.to/javahighlight/toan-tu-trong-java-huong-dan-chi-tiet-voi-vi-du-5bbl)
-- [How to Convert ML Models to ONNX Format: A Complete Guide](https://dev.to/onnxconverter/how-to-convert-ml-models-to-onnx-format-a-complete-guide-2ck8)
-- [Publish your packages to NPM automatically with GitHub Actions](https://dev.to/octolab/publish-your-packages-to-npm-automatically-with-github-actions-3ghj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
