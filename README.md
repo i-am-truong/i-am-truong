@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coin Bureau: Prices Up, Jobs Gone: The New Wave of Tariff Is HERE!](https://dev.to/crypto_youtube/coin-bureau-prices-up-jobs-gone-the-new-wave-of-tariff-is-here-2nj7)
-- [Altcoin Daily: &quot;Our research shows Ethereum hits $16,000 this cycle!&quot; Crypto Expert Shares Top 3 Altcoins!!](https://dev.to/crypto_youtube/altcoin-daily-our-research-shows-ethereum-hits-16000-this-cycle-crypto-expert-shares-top-3-2n7e)
-- [Altcoin Daily: The Actual Reason Ethereum will Explode in 2026 | Crypto Veteran](https://dev.to/crypto_youtube/altcoin-daily-the-actual-reason-ethereum-will-explode-in-2026-crypto-veteran-4md0)
-- [Goroutine Patterns: Building Efficient Concurrent Code in Go](https://dev.to/shrsv/goroutine-patterns-building-efficient-concurrent-code-in-go-26i3)
-- [Altcoin Daily: How To Trade Crypto: EASY/SIMPLE Trading Tips/Tricks to MAKE BIG MONEY! [COMPLETE Beginner GUIDE]](https://dev.to/crypto_youtube/altcoin-daily-how-to-trade-crypto-easysimple-trading-tipstricks-to-make-big-money-complete-1ia5)
+- [🚀 Deploying a Highly Scalable &amp; Available Django Application on AWS with Terraform](https://dev.to/aws-builders/deploying-a-highly-scalable-available-django-application-on-aws-with-terraform-286p)
+- [AWS resume challenge &lpar;cloud&rpar; 2025 indepth explanation](https://dev.to/zach_beecher/aws-resume-challenge-cloud-2025-indepth-explanation-3ijk)
+- [Getting Started with Qwen Lightning v1.1 in ComfyUI for 8GB VRAM](https://dev.to/aitechtutorials/getting-started-with-qwen-lightning-v11-in-comfyui-for-8gb-vram-2m5)
+- [Advanced Guide to Signals and Closures in Angular](https://dev.to/abanoubkerols/advanced-guide-to-signals-and-closures-in-angular-3k3k)
+- [🚀 Laravel Server Auto-Installer – Deploy Laravel on a Fresh VPS in Minutes!](https://dev.to/mehrdad_dadashi_d4020898e/laravel-server-auto-installer-deploy-laravel-on-a-fresh-vps-in-minutes-322l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
