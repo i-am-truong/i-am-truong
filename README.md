@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Data Lineage to AI Agent: A New Chapter of Cloud Scheduling by Tianyi Cloud DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/from-data-lineage-to-ai-agent-a-new-chapter-of-cloud-scheduling-by-tianyi-cloud-x-dolphinscheduler-41no)
-- [For startup founders, this partnership means more AI choice, better integration options, and a smoother path from idea to impact—whether you’re streamlining operations or creating entirely new products.](https://dev.to/dexxtorrrr/for-startup-founders-this-partnership-means-more-ai-choice-better-integration-options-and-a-2605)
-- [What Startups Can Gain from the Oracle–Google Gemini AI Partnership](https://dev.to/dexxtorrrr/what-startups-can-gain-from-the-oracle-google-gemini-ai-partnership-2a6e)
-- [SmarTube: A Feature-Rich YouTube Clone Built with ReactJS](https://dev.to/hemang_b_ba8d35ae4a66339/smartube-a-feature-rich-youtube-clone-built-with-reactjs-3jc5)
-- [The Rise of AI Patent Search: A Look at IPRally and Traindex](https://dev.to/patentscanai/the-rise-of-ai-patent-search-a-look-at-iprally-and-traindex-bmh)
+- [When everyone has access to the same DevOps tool and coding options, then our personal brand will help us stand out. AI has made personal branding mandatory instead of optional.](https://dev.to/jaideepparashar/when-everyone-has-access-to-the-same-devops-tool-and-coding-options-then-our-personal-brand-will-404a)
+- [Building an AI-Powered Personal Brand in 2025](https://dev.to/jaideepparashar/building-an-ai-powered-personal-brand-in-2025-2bd9)
+- [Como criar uma VPS no Brasil?](https://dev.to/letscloud_team/como-criar-uma-vps-no-brasil-3lib)
+- [Automatically Generate .env.example from Your Code—No More Guesswork!](https://dev.to/silentwatcher_95/automatically-generate-envexample-from-your-code-no-more-guesswork-8i5)
+- [How to Create a VPS in Brazil?](https://dev.to/letscloud_team/how-to-create-a-vps-in-brazil-6b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
