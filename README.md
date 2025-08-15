@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linus Tech Tips &lpar;LTT&rpar;: Building a Gamer Living Room on a Budget - Scrapyard Wars X Home Theater Edition - Part 1](https://dev.to/future_youtube/linus-tech-tips-ltt-building-a-gamer-living-room-on-a-budget-scrapyard-wars-x-home-theater-4j7c)
-- [IGN: Ghost of Yōtei - Official Yari Gameplay Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-yari-gameplay-trailer-5f93)
-- [🏁🍭Lollypop Designathon 2025 - The Ultimate 24-hour UI/UX Design Competition is BACK!](https://dev.to/lollypopdesign/lollypop-designathon-2025-the-ultimate-24-hour-uiux-design-competition-is-back-ng7)
-- [The Role of ICT Testers in PCB Manufacturing](https://dev.to/frank_1871bc3c55f35370df3/the-role-of-ict-testers-in-pcb-manufacturing-4pe8)
-- [An Introduction to Agentic Workflows You Need To Know](https://dev.to/lollypopdesign/an-introduction-to-agentic-workflows-you-need-to-know-25ef)
+- [Creating a extremely secure hacker-proof system. Advanced cybersecurity principles.](https://dev.to/jeandevbr/creating-a-extremely-secure-hacker-proof-system-advanced-cybersecurity-principles-3gno)
+- [The AI Stack That Keeps Developers in Flow, Not in Tabs](https://dev.to/leena_malhotra_355340d89c/the-ai-stack-that-keeps-developers-in-flow-not-in-tabs-3n09)
+- [How to Track and Manage Depreciating Assets?](https://dev.to/teresa_tran/how-to-track-and-manage-depreciating-assets-5gnm)
+- [Design Patterns Simplified: Part 17 — Flyweight Pattern &lpar;a.k.a. “The Shared Furniture”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-17-flyweight-pattern-aka-the-shared-furniture-4c3l)
+- [Angular Signals vs. BehaviorSubject: Which Should You Use?](https://dev.to/mridudixit15/angular-signals-vs-behaviorsubject-which-should-you-use-3pfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
