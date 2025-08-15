@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Agentic Workflows You Need To Know](https://dev.to/lollypopdesign/an-introduction-to-agentic-workflows-you-need-to-know-25ef)
 - [What to Wear to a Country Show in Wilmington](https://dev.to/harbor_entertainment/what-to-wear-to-a-country-show-in-wilmington-10p)
+- [How to Get &quot;Total Data Scanned&quot; for a Redshift Query via the Data API](https://dev.to/aaron_rose_0787cc8b4775a0/how-to-get-total-data-scanned-for-a-redshift-query-via-the-data-api-3c90)
 - [Software Development Life Cycle: Backbone of successful software projects](https://dev.to/th33k/software-development-life-cycle-3m0g)
 - [Affiliate opportunity for dev creators &lpar;B2B&rpar;: Help teams ship i18n, earn 25% lifetime](https://dev.to/danielsc/affiliate-opportunity-for-dev-creators-b2b-help-teams-ship-i18n-earn-25-lifetime-4h44)
-- [Working with GitHub API in Python](https://dev.to/duncandegwa/working-with-github-api-in-python-d2c)
-- [CycloneDX Support](https://dev.to/lizmat/cyclonedx-support-3adh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
