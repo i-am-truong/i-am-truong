@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Practice #4: Large Primary-Subtable Join：A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice-4-large-primary-subtable-joina-lightweight-solution-to-speed-up-queries-by-dumping-data-4g0i)
+- [A Simple Guide to Creating, Pushing &amp; Pulling Your First Repository&quot;](https://dev.to/manikandan_a8f99e0153ef77/a-simple-guide-to-creating-pushing-pulling-your-first-repository-pbh)
+- [STM8S105S6T6C – High-Performance 8-bit Microcontroller for Embedded Applications](https://dev.to/xecor_company/stm8s105s6t6c-high-performance-8-bit-microcontroller-for-embedded-applications-40c)
+- [🔭 OpenTelemetry in Action on Kubernetes: Part 9 - Cluster-Level Observability with OpenTelemetry Agent + Gateway](https://dev.to/kartikdudeja21/opentelemetry-in-action-on-kubernetes-part-9-cluster-level-observability-with-opentelemetry-3d5p)
 - [Nardwuar the Human Serviette: Nardwuar vs. Kaytranada](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-kaytranada-3opg)
-- [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-86m)
-- [[Boost]](https://dev.to/furudo_erika_7633eee4afa5/-2d3c)
-- [Introducing Dashy Simple: Your Private, Modern, and Browser-Based Start Page](https://dev.to/kingyou/introducing-dashy-simple-your-private-modern-and-browser-based-start-page-c62)
-- [My Internship Experience at Oasis Infobyte 🚀](https://dev.to/rinkukumar79/my-internship-experience-at-oasis-infobyte-2ama)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
