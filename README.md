@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microservices or Micro-progress? The Perils of Pre-Scaling Too Soon](https://dev.to/mtsammy40/microservices-or-micro-progress-the-perils-of-pre-scaling-too-soon-1049)
-- [Top 10 Open-Source AI Projects You Can Clone Today](https://dev.to/robort_gabriel_b93dd3d140/top-10-open-source-ai-projects-you-can-clone-today-1i4c)
-- [How to Improve Product Quality Using Business Central &lpar;Let Power BI and Excel Show You&rpar;](https://dev.to/insight_works/how-to-improve-product-quality-using-business-central-let-power-bi-and-excel-show-you-59md)
-- [Diving Deeper into Automations #40](https://dev.to/0xj0n1/diving-deeper-into-automations-40-3574)
-- [Real-Time Notifications in a MERN App — explained like texting your nerd bestie](https://dev.to/v0nser/real-time-notifications-in-a-mern-app-explained-like-im-texting-my-nerd-bestie-3h7d)
+- [Vibe Coding: Why AI-Powered Development Is Reshaping Software Creation](https://dev.to/zerozulu/vibe-coding-why-ai-powered-development-is-reshaping-software-creation-pom)
+- [How to Configure Container App jobs as GitHub Action runners](https://dev.to/tuan_saad_bd99b8fecac2e88/how-to-configure-container-app-jobs-as-github-runners-2m29)
+- [Your Java App Is DYING! This One Thread Pool Mistake KILLS Performance.](https://dev.to/xuan_56087d315ff4f52254e6/your-java-app-is-dying-this-one-thread-pool-mistake-kills-performance-2i34)
+- [GameSpot: VR Games Showcase | August 2025 &lpar;Full Presentation&rpar;](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-full-presentation-4670)
+- [IGN: Delta Force: 9 Minutes of PS5 Gameplay](https://dev.to/gg_news/ign-delta-force-9-minutes-of-ps5-gameplay-24b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
