@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What to Wear to a Country Show in Wilmington](https://dev.to/harbor_entertainment/what-to-wear-to-a-country-show-in-wilmington-10p)
+- [Software Development Life Cycle: Backbone of successful software projects](https://dev.to/th33k/software-development-life-cycle-3m0g)
+- [Affiliate opportunity for dev creators &lpar;B2B&rpar;: Help teams ship i18n, earn 25% lifetime](https://dev.to/danielsc/affiliate-opportunity-for-dev-creators-b2b-help-teams-ship-i18n-earn-25-lifetime-4h44)
+- [Working with GitHub API in Python](https://dev.to/duncandegwa/working-with-github-api-in-python-d2c)
 - [CycloneDX Support](https://dev.to/lizmat/cyclonedx-support-3adh)
-- [How to Sync Files Wirelessly Between Android and PC via Termux](https://dev.to/terminaltools/how-to-sync-files-wirelessly-between-android-and-pc-via-termux-4h7i)
-- [APIs for Translation: What to Know Before You Integrate](https://dev.to/colinreed/apis-for-translation-what-to-know-before-you-integrate-56bf)
-- [Stop Killing Your Database with Multiple Calls](https://dev.to/stevsharp/stop-killing-your-database-with-multiple-calls-23am)
-- [Lean UX: A Smarter Approach to Product Design for Businesses](https://dev.to/lollypopdesign/lean-ux-a-smarter-approach-to-product-design-for-businesses-mk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
