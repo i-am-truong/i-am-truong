@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [node](https://dev.to/jameedaprogrammer/node-2595)
+- [10x Your Coding Speed: The VS Code Setup Every Developer Needs in 2025](https://dev.to/sid6398/10x-your-coding-speed-the-vs-code-setup-every-developer-needs-in-2025-14gd)
+- [FreeDom_Day&lpar;15th&rpar;](https://dev.to/ajayr18/freedomday15th-57pm)
+- [How to Create a VM Image, Store it in Azure Compute Gallery, and Deploy a Virtual Machine Scale Set &lpar;VMSS&rpar;.](https://dev.to/subair09/how-to-create-a-vm-image-store-it-in-azure-compute-gallery-and-deploy-a-virtual-machine-scale-set-48h0)
 - [Always Up-to-Date API Docs Are Real &lpar;And No, It’s Not AI&rpar;](https://dev.to/tsv1/always-up-to-date-api-docs-are-real-and-no-its-not-ai-256g)
-- [Introducing Threat Intelligence Enrichment – A Powerful Web-Based Threat Intelligence Tool](https://dev.to/shresth_paul_40a5d9458a32/introducing-threat-intelligence-enrichment-a-powerful-web-based-threat-intelligence-tool-12pe)
-- [Laravel CRUD Like a Pro—Part 2: The End of Redundant Forms with findOrNew&lpar;&rpar; + old&lpar;&rpar;](https://dev.to/raheelshan/laravel-crud-like-a-pro-part-2-the-end-of-redundant-forms-with-findornew-old-4do)
-- [My Hackathon Experience: Learning Java CSV and Database Connectivity....](https://dev.to/a_ramesh/my-hackathon-experience-learning-java-csv-and-database-connectivity-17jj)
-- [30 Days of Code- Day 22](https://dev.to/akshitaexe/30-days-of-code-day-21-1i5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
