@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using SBOMs to detect possible Dependency Confusion](https://dev.to/protsenko/using-sboms-to-detect-possible-dependency-confusion-5846)
 - [Alec Steele: Making a Mini Knob](https://dev.to/maker_youtube/alec-steele-making-a-mini-knob-58e5)
+- [LiteSpeed ওয়েব সার্ভার কী এবং কিভাবে এটি ওয়েবসাইটকে ফাস্ট করে?](https://dev.to/bytes_vibe/litespeed-oyeb-saarbhaar-kii-ebn-kibhaabe-etti-oyebsaaittke-phaastt-kre-37mf)
 - [3D Printing Nerd: Fix ANYTHING with 3D Printing – How To Design](https://dev.to/maker_youtube/3d-printing-nerd-fix-anything-with-3d-printing-how-to-design-41gc)
 - [Veritasium: The Perfect Battery Material Is DANGEROUS](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-23dc)
-- [GameSpot: Pokemon Legends Z-A Hands On - The Biggest Pokemon Shake Up In Decades!](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-hands-on-the-biggest-pokemon-shake-up-in-decades-3l12)
-- [IGN: Better Than Dead - Official Announcement Trailer](https://dev.to/gg_news/ign-better-than-dead-official-announcement-trailer-4fid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
