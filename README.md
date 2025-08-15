@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JWE vs JWT — Side-by-Side for Developers](https://dev.to/fung-authgear/jwe-vs-jwt-side-by-side-for-developers-4lm)
-- [Answering Some Common Questions In Deep Learning Foundations](https://dev.to/lucirie/answering-some-common-questions-in-deep-learning-foundations-3c24)
-- [How to Build Voice-Activated Tools Using Termux Voice APIs](https://dev.to/terminaltools/how-to-build-voice-activated-tools-using-termux-voice-apis-gp0)
-- [How to Automate SMS Notifications via Termux-API &amp; Telegram](https://dev.to/terminaltools/how-to-automate-sms-notifications-via-termux-api-telegram-1l45)
-- [Adapting to the Future: How Online Learning Platforms are Catering to Gen Z&#39;s Needs](https://dev.to/ghummantech/adapting-to-the-future-how-online-learning-platforms-are-catering-to-gen-zs-needs-cpb)
+- [How to implement multitasking scheduling mechanism on a microcontroller?](https://dev.to/carolineee/how-to-implement-multitasking-scheduling-mechanism-on-a-microcontroller-2n9k)
+- [Goravel v1.17 Preview: Sending emails supports rendering with view templates](https://dev.to/bowenhan/goravel-v117-preview-sending-emails-supports-rendering-with-view-templates-19ge)
+- [SQL vs. NoSQL: Will the Wrong Data Store Destroy your Transaction Records?](https://dev.to/flutterwaveeng/sql-vs-nosql-will-the-wrong-data-store-destroy-your-transaction-records-46lj)
+- [How to Install and Use Emacs or Micro Editor in Termux](https://dev.to/terminaltools/how-to-install-and-use-emacs-or-micro-editor-in-termux-32ga)
+- [Amazon SDE 1 Interview Experience: I received the acceptance letter!](https://dev.to/_1c38abf3f8630eeac6180/amazon-sde-1-interview-experience-i-received-the-acceptance-letter-42i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
