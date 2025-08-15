@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Founding full stack engineer](https://dev.to/timalb/founding-full-stack-engineer-43da)
+- [From 0 to SaaS in 48 Hours: Building WhatsExtract API with FastAPI and AI](https://dev.to/whatsextract/from-0-to-saas-in-48-hours-building-whatsextract-api-with-fastapi-and-ai-2obj)
 - [Why Developers Still Choose Python, Even If It’s “Slow”](https://dev.to/grenishrai/why-developers-still-choose-python-even-if-its-slow-2hlc)
 - [From Code Reviews to Culture Reviews: Leadership Lessons for Dev Teams](https://dev.to/joe_anthony_c718780b8bf32/from-code-reviews-to-culture-reviews-leadership-lessons-for-dev-teams-5h76)
 - [Understanding JavaScript Rest and Spread Operators](https://dev.to/wisdomudo/understanding-javascript-rest-and-spread-operators-583l)
-- [YOOO](https://dev.to/xpertforextradex/yooo-2e7a)
-- [Laravel CRUD Like a Pro: Clean, Reusable, and Ultra-Minimal Code](https://dev.to/raheelshan/laravel-crud-like-a-pro-clean-reusable-and-ultra-minimal-code-57a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
