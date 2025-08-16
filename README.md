@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Phishing campaign for tricking Booking.com&#39;s users and sharing malware.](https://dev.to/alexlead/phishing-campaign-for-tricking-bookingcoms-users-and-sharing-malware-ko6)
+- [why loop rendering](https://dev.to/hg_zhou_c88c5010b5a59f745/why-loop-rendering-5d3n)
 - [Lets master sliding window pattern: an essential DSA technique](https://dev.to/lalitkhu/lets-master-sliding-window-pattern-an-essential-dsa-technique-12e4)
 - [API Testing 101: How to Use Postman Like a Pro](https://dev.to/manukumar07/api-testing-101-how-to-use-postman-like-a-pro-4aej)
 - [First Smart Contract](https://dev.to/loading_blocks/first-smart-contract-3bbb)
-- [Routing and balancing losses with Mixture of Experts](https://dev.to/lewis_won/routing-and-balancing-losses-with-mixture-of-experts-19be)
-- [Building an MCP Server in Javascript](https://dev.to/anandrmedia/building-an-mcp-server-in-javascript-5133)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
