@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Pen on CodePen](https://dev.to/ali_bc7a41dd771e0b9dacd7f/my-pen-on-codepen-4j06)
-- [How to Make Your Localhost Server Available Online](https://dev.to/robbiecahill/how-to-make-your-localhost-server-available-online-4fcp)
-- [Birthday wish from, TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/birthday-wish-from-tushar-3j91)
-- [🔍⭐What is Stateless Architecture?](https://dev.to/rencberakman/what-is-stateless-architecture-2hb2)
-- [🔍⭐What is the difference between POST and PUT?](https://dev.to/rencberakman/what-is-the-difference-between-post-and-put-35ol)
+- [Localhost HTTPS: 3 Easy Ways to Secure Your Local Development Server](https://dev.to/robbiecahill/localhost-https-3-easy-ways-to-secure-your-local-development-server-35i7)
+- [No More “How to Create Pytest HTML Reports” 🛑](https://dev.to/michle/no-more-how-to-create-pytest-html-reports-om1)
+- [🌟 Today I Learned: Basics of Generative AI &lpar;Gen AI&rpar; with Groq Cloud and Prompting](https://dev.to/abhishek-nexgen-dev/today-i-learned-basics-of-generative-ai-gen-ai-with-groq-cloud-and-prompting-4a10)
+- [Understanding atomFamily in Recoil with a Todo Example](https://dev.to/safal_bhandari/understanding-atomfamily-in-recoil-with-a-todo-example-18d2)
+- [The Hidden Cost of Over-Engineering in Software Development 🤔](https://dev.to/alisamir/the-hidden-cost-of-over-engineering-in-software-development-4dnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
