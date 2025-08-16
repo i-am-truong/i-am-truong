@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Workload Identity Federation Explained in 2 Minutes &lpar;with a School Trip Analogy&rpar;](https://dev.to/mmk4mmk/workload-identity-federation-explained-in-2-minutes-with-a-school-trip-analogy-hdf)
-- [React 19 useReducer Deep Dive — From Basics to Complex State Patterns](https://dev.to/a1guy/react-19-usereducer-deep-dive-from-basics-to-complex-state-patterns-3fpi)
-- [Python Behind the Scenes - Understanding Code Execution Flow](https://dev.to/prakash_vinukonda_363ed4b/python-behind-the-scenes-understanding-code-execution-flow-1o07)
-- [Building a smart, agentic email assistant](https://dev.to/dsense/building-a-smart-agentic-email-assistant-4m70)
-- [Make In A Day: Hovertank One](https://dev.to/chigbeef_77/make-in-a-day-hovertank-one-4edn)
+- [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-6gc)
+- [5 Free Developer Tools for Testing and Development &lpar;No Signup Required&rpar;](https://dev.to/imtinanfakhar/5-free-developer-tools-for-testing-and-development-no-signup-required-14m7)
+- [10 Common HTML Mistakes People Make &lpar;and How to Fix Them&rpar;](https://dev.to/ofodile/10-common-html-mistakes-people-make-and-how-to-fix-them-1bni)
+- [Reigniting My fire for Coding...](https://dev.to/rumbidzai/reigniting-my-fire-for-coding-36gd)
+- [End-to-End LLM Project Natural Language to SQL Application](https://dev.to/pawandeore/end-to-end-llm-project-natural-language-to-sql-application-1bgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
