@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chai, Code and Chaos: The Indian IT Bug Comedy That Nobody Saw Coming](https://dev.to/codetestfactory/chai-code-and-chaos-the-indian-it-bug-comedy-that-nobody-saw-coming-28bm)
-- [Double Ended Queue: More Than Just a Queue](https://dev.to/lalitkhu/double-ended-queue-more-than-just-a-queue-4pi9)
-- [Threat Modelling with Threat Dragon](https://dev.to/markblandford/threat-modelling-with-threat-dragon-3nda)
-- [🐧Week 1 of my Cloud Journey - Building a Strong Linux Foundation](https://dev.to/asimmakes/week-1-of-my-cloud-journey-building-a-strong-linux-foundation-55dh)
-- [AWS VPC to ECS – Day 3: IAM Roles, SSM &amp; ECS Cluster](https://dev.to/aws-builders/aws-vpc-to-ecs-day-3-iam-roles-ssm-ecs-cluster-26ka)
+- [Make In A Day: Hovertank One](https://dev.to/chigbeef_77/make-in-a-day-hovertank-one-4edn)
+- [Weekend Hack: Making My Blog AI-Searchable &lpar;No Flames Required&rpar; 🔥🚫](https://dev.to/anchildress1/weekend-hack-making-my-blog-ai-searchable-no-flames-required-16h5)
+- [🚀 Introducing react-kanban-kit A Lightweight &amp; Customizable Kanban Component for React](https://dev.to/hazembraiek/introducing-react-kanban-kit-a-lightweight-customizable-kanban-component-for-react-3lc8)
+- [Remix IDE Introduction](https://dev.to/loading_blocks/remix-ide-introduction-4jne)
+- [Code Smell 308 - Not Polymorphic Return](https://dev.to/mcsee/code-smell-308-not-polymorphic-return-5f9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
