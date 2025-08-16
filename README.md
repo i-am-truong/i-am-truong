@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD With GitHub Actions — A Practical, End‑to‑End Tutorial](https://dev.to/goodluck_ekeoma_2c98866d0/cicd-with-github-actions-a-practical-end-to-end-tutorial-3p26)
-- [Smart Contract Core Theory](https://dev.to/loading_blocks/smart-contract-core-theory-ea9)
-- [Custom Sudoku generator app &lpar;Python&rpar;.](https://dev.to/radu985/custom-sudoku-generator-app-python-107l)
-- [Tutorial Presentation on CI/CD with GitHub Actions](https://dev.to/goodluck_ekeoma_2c98866d0/tutorial-presentation-on-cicd-with-github-actions-5820)
-- [What It Really Means to Be a Full-Stack Developer](https://dev.to/mumbere_darius_ed30fc85dc/what-it-really-means-to-be-a-full-stack-developer-48fg)
+- [A LeetCode Discussion: Coin Change Problems](https://dev.to/fatihimani/a-leetcode-discussion-coin-change-problems-2i16)
+- [🚀 Smart Stays – A Modern Hotel Booking System!](https://dev.to/hemang_b_ba8d35ae4a66339/smart-stays-a-modern-hotel-booking-system-2a5m)
+- [Agentes de IA e automação](https://dev.to/lucaspereiradesouzat/agentes-de-ia-e-automacao-12mn)
+- [How IoT-Based Solutions Will Revolutionize the Plastic Manufacturing Sector](https://dev.to/tim_ferriss_ce5fc283850e6/how-iot-based-solutions-will-revolutionize-the-plastic-manufacturing-sector-2m02)
+- [Building Production RAG in 2024: Lessons from 50+ Deployments](https://dev.to/hamidomarov/building-production-rag-in-2024-lessons-from-50-deployments-5fh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
