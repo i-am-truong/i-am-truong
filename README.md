@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Map in JavaScript &lpar;The Underestimated Data Structure&rpar;](https://dev.to/oyewadkar/understanding-map-in-javascript-the-underestimated-data-structure-3k5)
+- [Deploy Dragonfly Replication](https://dev.to/arman-shafiei/deploy-dragonfly-replication-i6i)
 - [Building an Azure VM Sizer for LLMs — with Codex Doing 90% of the Work](https://dev.to/frankiey/building-an-azure-vm-sizer-for-llms-with-codex-doing-90-of-the-work-7kn)
+- [Fluppy bird 🐦 game 🎮🎯,by TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/fluppy-bird-game-by-tushar-29g8)
 - [Breaking: The Payment API Revolution is Here &lpar;and it&#39;s passwordless&rpar; 🔐](https://dev.to/shiva_shanker_k/breaking-the-payment-api-revolution-is-here-and-its-passwordless-2phc)
-- [POST API for pushing content on Devto](https://dev.to/shreyvijayvargiya/post-api-for-pushing-content-on-devto-23d5)
-- [Only for you bestu ❣️✨, by TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/only-for-you-bestu-by-tushar-1io7)
-- [# 🗓 Daily LeetCode Progress – Day 2](https://dev.to/ertugrulmutlu/-daily-leetcode-progress-day-2-2i0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
