@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Gang of Four &lpar;GoF&rpar; Design Patterns](https://dev.to/lovestaco/introduction-to-gang-of-four-gof-design-patterns-57m0)
+- [Building AI CI/CD Pipelines with MCP](https://dev.to/om_shree_0709/building-ai-cicd-pipelines-with-mcp-42cg)
 - [Log011 - UFW, nginx and a dream.](https://dev.to/aka_artem_dd17be93c/log011-ufw-nginx-and-a-dream-4j5l)
 - [Translate JSON Files in Over 100 Languages — Effortless, Accurate, Privacy-Centered](https://dev.to/anilpeter75/translate-json-files-in-over-100-languages-effortless-accurate-privacy-centered-3ijo)
 - [Arquitectura Hexagonal con React y TypeScript: guía paso a paso &lpar;enfoque pragmático&rpar;](https://dev.to/johnserranodev/arquitectura-hexagonal-con-react-y-typescript-guia-paso-a-paso-enfoque-pragmatico-500o)
-- [A LeetCode Discussion: Coin Change Problems](https://dev.to/fatihimani/a-leetcode-discussion-coin-change-problems-2i16)
-- [🚀 Smart Stays – A Modern Hotel Booking System!](https://dev.to/hemang_b_ba8d35ae4a66339/smart-stays-a-modern-hotel-booking-system-2a5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
