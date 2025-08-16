@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Overview of MetaMask Wallet](https://dev.to/loading_blocks/overview-of-metamask-wallet-2ji9)
+- [Overview of MetaMask Wallet](https://dev.to/loading_blocks/overview-of-metamask-wallet-1bn2)
 - [Filtering and Retrieving in SQL](https://dev.to/koustav/filtering-and-retrieving-in-sql-kgb)
 - [How SSD Demand Is Shaping India’s Digital Infrastructure](https://dev.to/blogger_shree_844e6eb4b36/how-ssd-demand-is-shaping-indias-digital-infrastructure-6e4)
 - [Convert API JSON to TypeScript Interfaces in 1 Click ⚡](https://dev.to/sourav_halder_5da9b618537/convert-api-json-to-typescript-interfaces-in-1-click-395n)
-- [Redux ka startup Year: 2015 Creators: Dan Abramov &amp; Andrew Clark Inspiration: Facebook ka Flux architecture + Functional Programming ka concept called Elm architecture &lpar;Elm ek functional language hai&rpar;.](https://dev.to/nimra_kosar_9885e391ac9a2/redux-ka-startup-year-2015-creators-dan-abramov-andrew-clark-inspiration-facebook-ka-flux-5g4j)
-- [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
