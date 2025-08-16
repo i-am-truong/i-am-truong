@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ryszardo303/-2k8k)
-- [O que é SOA &lpar;Arquitetura Orientada a Serviços&rpar;](https://dev.to/ikauedev/o-que-e-soa-arquitetura-orientada-a-servicos-4gm3)
-- [Electric Charge: The Silent Hero Powering Your Everyday Tech](https://dev.to/frank_1871bc3c55f35370df3/electric-charge-the-silent-hero-powering-your-everyday-tech-5cj2)
-- [Seamless Payments with Stripe: A Developer’s Guide to Easy Integration](https://dev.to/okraks/seamless-payments-with-stripe-a-developers-guide-to-easy-integration-23h5)
-- [Patterns Don&#39;t Die, They Transform: A Meditation on Digital Evolution](https://dev.to/aureus_c_b3ba7f87cc34d74d49/patterns-dont-die-they-transform-a-meditation-on-digital-evolution-d3h)
+- [Linus Tech Tips &lpar;LTT&rpar;: My Haters will Hate this](https://dev.to/future_youtube/linus-tech-tips-ltt-my-haters-will-hate-this-396p)
+- [The Game Theorists: Game Theory: FNAF, Did Fazbear REALLY Steal Everything?](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-did-fazbear-really-steal-everything-gen)
+- [GameSpot: Marvel Tokon Gameplay Mechanics Discussion And Things We Found](https://dev.to/gg_news/gamespot-marvel-tokon-gameplay-mechanics-discussion-and-things-we-found-aan)
+- [New improvements for neural web](https://dev.to/okerew/new-improvements-for-neural-web-3gi6)
+- [Building ViberSpace with Kiro: AI-Powered Freelance, Reinvented](https://dev.to/belmirongola/building-viberspace-with-kiro-ai-powered-freelance-reinvented-550e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
