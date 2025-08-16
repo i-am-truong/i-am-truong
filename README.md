@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Prompt Engineering: Envision a Framework for Interactive AI-Assisted Development](https://dev.to/ziv_kfir_aa0a372cec2e1e4b/beyond-prompt-engineering-envision-a-framework-for-interactive-ai-assisted-development-34oj)
+- [Day 26: Jenkins Declarative Pipeline](https://dev.to/udoh_deborah_b1e484c474bf/day-26-jenkins-declarative-pipeline-25kl)
 - [Day 16 of #30DaysOfCode](https://dev.to/justacoder_0x/day-16-of-30daysofcode-2m78)
 - [Fear of AI: Why College Students Are Dropping Out](https://dev.to/nsoro_allan/fear-of-ai-why-college-students-are-dropping-out-2akp)
 - [Strategy Design Pattern in Laravel: Complete Guide 2025](https://dev.to/arasosman/strategy-design-pattern-in-laravel-complete-guide-2025-3ccg)
-- [&quot;Why I Built an AI Terminal with Mermaid Themes &lpar;And Why Developer Tools Should Spark Joy&rpar; 🧜‍♀️&quot;](https://dev.to/karina_gilley_cf93a8b93bc/why-i-built-an-ai-terminal-with-mermaid-themes-and-why-developer-tools-should-spark-joy--245k)
-- [100 Days of DevOps — KodeKloud Challenges &lpar;Solutions&rpar;](https://dev.to/melki_mariem_d199fbadd06f/100-days-of-devops-kodekloud-challenges-solutions-26f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
