@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-6gc)
-- [5 Free Developer Tools for Testing and Development &lpar;No Signup Required&rpar;](https://dev.to/imtinanfakhar/5-free-developer-tools-for-testing-and-development-no-signup-required-14m7)
-- [10 Common HTML Mistakes People Make &lpar;and How to Fix Them&rpar;](https://dev.to/ofodile/10-common-html-mistakes-people-make-and-how-to-fix-them-1bni)
-- [Reigniting My fire for Coding...](https://dev.to/rumbidzai/reigniting-my-fire-for-coding-36gd)
-- [End-to-End LLM Project Natural Language to SQL Application](https://dev.to/pawandeore/end-to-end-llm-project-natural-language-to-sql-application-1bgi)
+- [Adam Savage&#39;s Tested: This Myth Generated the Most Personal Backlash Against Adam Savage and Jamie](https://dev.to/maker_youtube/adam-savages-tested-this-myth-generated-the-most-personal-backlash-against-adam-savage-and-jamie-292a)
+- [Burke Holland: GPT-5 Mini is a good model....if you like orbs](https://dev.to/vibe_youtube/burke-holland-gpt-5-mini-is-a-good-modelif-you-like-orbs-32do)
+- [Veritasium: The Perfect Battery Material Is Dangerous](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-48ap)
+- [Deploy Kubernetes On-Premises From Zero](https://dev.to/locnguyenpv/deploy-kubernetes-on-premises-from-zero-4c2i)
+- [Secure Node.js File Uploads in Minutes with Pompelmi](https://dev.to/sonotommy/secure-nodejs-file-uploads-in-minutes-with-pompelmi-3jfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
