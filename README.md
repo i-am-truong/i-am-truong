@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using an External Authorization Lambda with API Gateway in AWS SAM](https://dev.to/marciojc/using-an-external-authorization-lambda-with-api-gateway-in-aws-sam-4pdf)
+- [Automatic Appliance Repair Hacks to Save Time and Money](https://dev.to/umair_astura_c65e7e1dc62c/automatic-appliance-repair-hacks-to-save-time-and-money-2dg5)
 - [Practice Makes Perfect: How AI Interview Simulation Changed My Go Game](https://dev.to/rezasi/practice-makes-perfect-how-ai-interview-simulation-changed-my-go-game-40d2)
-- [Atomic Query Construction &lpar;AQC&rpar; Design Pattern — Explained](https://dev.to/raheelshan/atomic-query-construction-aqc-design-pattern-explained-1cla)
-- [Master Your Raspberry Pi: Set a Static IP for Rock-Solid Networking](https://dev.to/messin_tom/master-your-raspberry-pi-set-a-static-ip-for-rock-solid-networking-58kk)
-- [StatPecker](https://dev.to/gopal_ojha_f3ad36ddbf6de8/statpecker-3mfg)
-- [Understanding CAP Theorem in System Design Interviews](https://dev.to/codewithved/understanding-cap-theorem-in-system-design-interviews-d6c)
+- [The Silent Power of Solo Devs: Why You Don’t Need a Team to Build Something Great](https://dev.to/tamyrah/the-silent-power-of-solo-devs-why-you-dont-need-a-team-to-build-something-great-3ba6)
+- [WHTTW &lpar;What Happened in Tech This Week&rpar;](https://dev.to/adedejiosvaldo/whttw-what-happened-in-tech-this-week-3ld6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
