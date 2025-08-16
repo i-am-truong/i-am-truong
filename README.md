@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Secure, Self-Hosted AI Code Review Powered by Ollama](https://dev.to/shrsv/secure-self-hosted-ai-code-review-powered-by-ollama-2p55)
+- [Discovering pikalainat.eu: What I Found](https://dev.to/peruspuurtaja_46b7053dff1/discovering-pikalainateu-what-i-found-47d3)
 - [Discovering yle.fi: What I Found](https://dev.to/peruspuurtaja_46b7053dff1/discovering-ylefi-what-i-found-4ndh)
 - [Vanilla JavaScript and JavaScript Frameworks](https://dev.to/hazrat-ali9/vanilla-javascript-and-javascript-frameworks-33pa)
 - [🌍 Google Maps Platform Awards 2025](https://dev.to/kavyatrivedi/google-maps-platform-awards-2025-261o)
-- [Building True Micro-Frontends: Beyond iFrames with Module Federation](https://dev.to/abdebek/building-true-micro-frontends-beyond-iframes-with-module-federation-3jen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
