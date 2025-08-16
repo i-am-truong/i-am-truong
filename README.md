@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Properly Clean Up Docker &lpar;and Save Your Sanity&rpar;](https://dev.to/agasta/how-to-properly-clean-up-docker-and-save-your-sanity-4662)
-- [Rive vs Lottie: Which Animation Tool Should You Use in 2025?](https://dev.to/uianimation/rive-vs-lottie-which-animation-tool-should-you-use-in-2025-p4m)
-- [Danny Maude: This One Move Takes You from Amateur to Pro Ball Striking in 5 minutes](https://dev.to/youtube_golf/danny-maude-this-one-move-takes-you-from-amateur-to-pro-ball-striking-in-5-minutes-3ae3)
-- [ARC AGI 3 Preview Competition — My Journey](https://dev.to/dhana_abhiraj_a1374a071a5/arc-agi-3-preview-competition-my-journey-3nmb)
-- [Understanding React’s Component Lifecycle &lpar;Hooks Way&rpar;](https://dev.to/a1guy/understanding-reacts-component-lifecycle-hooks-way-4bja)
+- [My Pen on CodePen](https://dev.to/ali_bc7a41dd771e0b9dacd7f/my-pen-on-codepen-4j06)
+- [How to Make Your Localhost Server Available Online](https://dev.to/robbiecahill/how-to-make-your-localhost-server-available-online-4fcp)
+- [Birthday wish from, TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/birthday-wish-from-tushar-3j91)
+- [🔍⭐What is Stateless Architecture?](https://dev.to/rencberakman/what-is-stateless-architecture-2hb2)
+- [🔍⭐What is the difference between POST and PUT?](https://dev.to/rencberakman/what-is-the-difference-between-post-and-put-35ol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
