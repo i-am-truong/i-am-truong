@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GNOME 49 Beta Arrives with Major Security Upgrades](https://dev.to/neerajlovecyber/gnome-49-beta-arrives-with-major-security-upgrades-gco)
-- [CSS Blossoming Flowers at Magical Night](https://dev.to/just_try_10463b5bd1557894/css-blossoming-flowers-at-magical-night-2d0g)
-- [Why Developers Should Learn PR Thinking: A Hidden Edge in Tech Careers](https://dev.to/sonia_bobrik_1939cdddd79d/why-developers-should-learn-pr-thinking-a-hidden-edge-in-tech-careers-4ph9)
-- [typescript node](https://dev.to/bozrsy/typescript-node-1bgc)
-- [🚀 The Professional Way to Install &amp; Run Jupyter in 2025](https://dev.to/scary_crimson/the-professional-way-to-install-run-jupyter-in-2025-4fp)
+- [CI/CD With GitHub Actions — A Practical, End‑to‑End Tutorial](https://dev.to/goodluck_ekeoma_2c98866d0/cicd-with-github-actions-a-practical-end-to-end-tutorial-3p26)
+- [Smart Contract Core Theory](https://dev.to/loading_blocks/smart-contract-core-theory-ea9)
+- [Custom Sudoku generator app &lpar;Python&rpar;.](https://dev.to/radu985/custom-sudoku-generator-app-python-107l)
+- [Tutorial Presentation on CI/CD with GitHub Actions](https://dev.to/goodluck_ekeoma_2c98866d0/tutorial-presentation-on-cicd-with-github-actions-5820)
+- [What It Really Means to Be a Full-Stack Developer](https://dev.to/mumbere_darius_ed30fc85dc/what-it-really-means-to-be-a-full-stack-developer-48fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
