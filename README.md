@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Looming Threat of AI-Powered Malware: Could Machines Out-Hack Us?](https://dev.to/devtechinsights/the-looming-threat-of-ai-powered-malware-could-machines-out-hack-us-2pec)
-- [Cilium CIDR overlap issue](https://dev.to/dhyanioo/cilium-cidr-overlap-issue-54d)
-- [🎯 Cracking Cyfrin&#39;s NFT Challenge: Guessing Pseudo-Randomness Like a Pro](https://dev.to/kode-n-rolla/cracking-cyfrins-nft-challenge-guessing-pseudo-randomness-like-a-pro-1mp5)
-- [Hands-On Azure: Deploying VMs, SQL, and Web Apps with BYOS](https://dev.to/adeyemo/hands-on-azure-deploying-vms-sql-and-web-apps-with-byos-3h24)
-- [O Impacto do 5W2H no Desenvolvimento de Software: Uma Ferramenta para Eficiência e Inovação](https://dev.to/ikauedev/o-impacto-do-5w2h-no-desenvolvimento-de-software-uma-ferramenta-para-eficiencia-e-inovacao-43g3)
+- [Fear of AI: Why College Students Are Dropping Out](https://dev.to/nsoro_allan/fear-of-ai-why-college-students-are-dropping-out-2akp)
+- [Strategy Design Pattern in Laravel: Complete Guide 2025](https://dev.to/arasosman/strategy-design-pattern-in-laravel-complete-guide-2025-3ccg)
+- [&quot;Why I Built an AI Terminal with Mermaid Themes &lpar;And Why Developer Tools Should Spark Joy&rpar; 🧜‍♀️&quot;](https://dev.to/karina_gilley_cf93a8b93bc/why-i-built-an-ai-terminal-with-mermaid-themes-and-why-developer-tools-should-spark-joy--245k)
+- [100 Days of DevOps — KodeKloud Challenges &lpar;Solutions&rpar;](https://dev.to/melki_mariem_d199fbadd06f/100-days-of-devops-kodekloud-challenges-solutions-26f2)
+- [Vibe Coding: Building the Brooke &amp; Maisy E-Commerce Store with Rails and Kilo Code](https://dev.to/mason_roberts_652a7f2795b/vibe-coding-building-the-brooke-maisy-e-commerce-store-with-rails-and-kilo-code-5a69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
