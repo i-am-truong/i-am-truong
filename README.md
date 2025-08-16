@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como construir um computador do zero &lpar;usando Logisim&rpar; - controler](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-controler-4lb)
-- [Integration of LLM and Traditional Parsing Technologies: Evolution and Best Practices in Web Data Extraction](https://dev.to/zhangzib123/integration-of-llm-and-traditional-parsing-technologies-evolution-and-best-practices-in-web-data-4mm0)
-- [Como construir um computador do zero &lpar;usando Logisim&rpar; - output](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-output-3o85)
-- [Day 17 of My Data Analytics Journey !](https://dev.to/ramyacse/day-17-of-my-data-analytics-journey--pm8)
-- [Como construir um computador do zero &lpar;usando Logisim&rpar; - unidade lógico aritmética](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-unidade-logico-aritmetica-6en)
+- [The BEST Code Editor for Everything — Honest Comparison for 2025](https://dev.to/tahamjp/the-best-code-editor-for-everything-honest-comparison-for-2025-3co7)
+- [🎯 Event Delegation in JavaScript: A Complete Beginner-to-Advanced Guide](https://dev.to/rohit_singh_ee84e64941db7/event-delegation-in-javascript-a-complete-beginner-to-advanced-guide-2aj1)
+- [Using PgBouncer to improve performance and reduce the load on PostgreSQL](https://dev.to/chittrmahto/using-pgbouncer-to-improve-performance-and-reduce-the-load-on-postgresql-216j)
+- [1323. Maximum 69 Number](https://dev.to/mdarifulhaque/1323-maximum-69-number-a96)
+- [💎 .NET 9 Hidden Gems: 7 Power Features Most Developers Are Missing](https://dev.to/iamprincejkc/net-9-hidden-gems-7-power-features-most-developers-are-missing-26hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
