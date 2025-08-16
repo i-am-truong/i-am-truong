@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How to Seamlessly Switch Between Browsers in Your Web App with browser-switcher](https://dev.to/jakkimcfly/how-to-seamlessly-switch-between-browsers-in-your-web-app-with-browser-switcher-54lo)
-- [Writing Once, Publishing Everywhere](https://dev.to/alexcloudstar/writing-once-publishing-everywhere-261g)
-- [Front-End Testing: Essential Tools &amp; Techniques to Keep Your UI Bug-Free](https://dev.to/okoye_ndidiamaka_5e3b7d30/front-end-testing-essential-tools-techniques-to-keep-your-ui-bug-free-58b5)
-- [I Created a JSON Viewer with Graphs, Tables, and 3D Visuals](https://dev.to/bugblitz98/i-created-a-json-viewer-with-graphs-tables-and-3d-visuals-c9i)
-- [PostgreSQL AI: The Everything Database &lpar;+ Hidden 10x Performance Tricks&rpar;](https://dev.to/zblack/postgresql-ai-the-everything-database-hidden-10x-performance-tricks-2hgj)
+- [How to Properly Clean Up Docker &lpar;and Save Your Sanity&rpar;](https://dev.to/agasta/how-to-properly-clean-up-docker-and-save-your-sanity-4662)
+- [Rive vs Lottie: Which Animation Tool Should You Use in 2025?](https://dev.to/uianimation/rive-vs-lottie-which-animation-tool-should-you-use-in-2025-p4m)
+- [Danny Maude: This One Move Takes You from Amateur to Pro Ball Striking in 5 minutes](https://dev.to/youtube_golf/danny-maude-this-one-move-takes-you-from-amateur-to-pro-ball-striking-in-5-minutes-3ae3)
+- [ARC AGI 3 Preview Competition — My Journey](https://dev.to/dhana_abhiraj_a1374a071a5/arc-agi-3-preview-competition-my-journey-3nmb)
+- [Understanding React’s Component Lifecycle &lpar;Hooks Way&rpar;](https://dev.to/a1guy/understanding-reacts-component-lifecycle-hooks-way-4bja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
