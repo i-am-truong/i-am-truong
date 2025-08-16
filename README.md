@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: This Myth Generated the Most Personal Backlash Against Adam Savage and Jamie](https://dev.to/maker_youtube/adam-savages-tested-this-myth-generated-the-most-personal-backlash-against-adam-savage-and-jamie-292a)
-- [Burke Holland: GPT-5 Mini is a good model....if you like orbs](https://dev.to/vibe_youtube/burke-holland-gpt-5-mini-is-a-good-modelif-you-like-orbs-32do)
-- [Veritasium: The Perfect Battery Material Is Dangerous](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-48ap)
-- [Deploy Kubernetes On-Premises From Zero](https://dev.to/locnguyenpv/deploy-kubernetes-on-premises-from-zero-4c2i)
-- [Secure Node.js File Uploads in Minutes with Pompelmi](https://dev.to/sonotommy/secure-nodejs-file-uploads-in-minutes-with-pompelmi-3jfe)
+- [Lets master sliding window pattern: an essential DSA technique](https://dev.to/lalitkhu/lets-master-sliding-window-pattern-an-essential-dsa-technique-12e4)
+- [API Testing 101: How to Use Postman Like a Pro](https://dev.to/manukumar07/api-testing-101-how-to-use-postman-like-a-pro-4aej)
+- [First Smart Contract](https://dev.to/loading_blocks/first-smart-contract-3bbb)
+- [Routing and balancing losses with Mixture of Experts](https://dev.to/lewis_won/routing-and-balancing-losses-with-mixture-of-experts-19be)
+- [Building an MCP Server in Javascript](https://dev.to/anandrmedia/building-an-mcp-server-in-javascript-5133)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
