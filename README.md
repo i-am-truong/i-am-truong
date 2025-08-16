@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day-80 JDBC in Java](https://dev.to/tamilselvan1812/day-80-jdbc-in-java-3afc)
-- [NEAR vs Polygon zkEVM: A Developer&#39;s Battle-Tested Comparison](https://dev.to/bakariki053/near-vs-polygon-zkevm-a-developers-battle-tested-comparison-239)
-- [# 🧠 Windows &lpar;12&rpar; Albuquerque.Where it all began. Where control returns to your hands.](https://dev.to/ljvasquezr/-windows-12-albuquerquewhere-it-all-began-where-control-returns-to-your-hands-42g)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `61`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-61-51gj)
-- [Asynchronous Data Queries in Recoil with Selectors](https://dev.to/safal_bhandari/asynchronous-data-queries-in-recoil-with-selectors-1g75)
+- [Discovering yle.fi: What I Found](https://dev.to/peruspuurtaja_46b7053dff1/discovering-ylefi-what-i-found-4ndh)
+- [Vanilla JavaScript and JavaScript Frameworks](https://dev.to/hazrat-ali9/vanilla-javascript-and-javascript-frameworks-33pa)
+- [🌍 Google Maps Platform Awards 2025](https://dev.to/kavyatrivedi/google-maps-platform-awards-2025-261o)
+- [Building True Micro-Frontends: Beyond iFrames with Module Federation](https://dev.to/abdebek/building-true-micro-frontends-beyond-iframes-with-module-federation-3jen)
+- [Adam Optimizer in Deep Learning – A Beginner’s Guide](https://dev.to/bharathprasad/adam-optimizer-in-deep-learning-a-beginners-guide-26i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
