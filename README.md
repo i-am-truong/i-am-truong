@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Twitter is an ultimate platform for DevOps to show their work and get the attention of big companies, including MAANG+AI. Don&#39;t leave your code to chance; showcase directly to Executives and CXOs.](https://dev.to/jaideepparashar/twitter-is-an-ultimate-platform-for-devops-to-show-their-work-and-get-the-attention-of-big-4kma)
-- [IA en las aulas y mundo laboral](https://dev.to/erickvasm/ia-en-las-aulas-y-mundo-laboral-3l0l)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4lah)
-- [7 Twitter Prompts That Grew My AI Audience](https://dev.to/jaideepparashar/7-twitter-prompts-that-grew-my-ai-audience-5g01)
-- [The Testing Paradox: Why 90% of IT Projects Are Late and How to Break the Cycle](https://dev.to/esha_suchana_3514f571649c/the-testing-paradox-why-90-of-it-projects-are-late-and-how-to-break-the-cycle-4ah4)
+- [From Hackathon to Nokia Interview: My Unexpected Journey](https://dev.to/dishika/from-hackathon-to-nokia-interview-my-unexpected-journey-cg2)
+- [From Web Apps to AI Wonders: Your JavaScript Guide to Large Language Models!](https://dev.to/asimkhan0/from-web-apps-to-ai-wonders-your-javascript-guide-to-large-language-models-28lf)
+- [Deploy Pixtral at Scale: vLLM + Docker Made Simple](https://dev.to/moni121189/deploy-pixtral-at-scale-vllm-docker-made-simple-3mi6)
+- [Getting started with Computer Science - A beginner&#39;s journey.](https://dev.to/ayaz_parvez_a32e154349c83/getting-started-with-computer-science-a-beginners-journey-2fl4)
+- [Part-4: 🚀 Google Cloud Platform VM Startup Scripts Explained](https://dev.to/latchudevops/part-4-google-cloud-platform-vm-startup-scripts-explained-17g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
