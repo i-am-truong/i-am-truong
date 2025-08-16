@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 67: When Your Bed Becomes Your Enemy and Other Developer Chronicles](https://dev.to/casperday11/day-67-when-your-bed-becomes-your-enemy-and-other-developer-chronicles-4p3a)
 - [Why Top Engineers Are Moving to Serverless &lpar;and How You Can Build One with AWS&rpar;](https://dev.to/lyushher/why-top-engineers-are-moving-to-serverless-and-how-you-can-build-one-with-aws-650)
 - [Rogers PCB: The PTFE Advantage for High-Speed, Reliable Electronics](https://dev.to/frank_1871bc3c55f35370df3/rogers-pcb-the-ptfe-advantage-for-high-speed-reliable-electronics-8bm)
 - [Database Setup for Smart Village Project: A Complete Windows Guide](https://dev.to/royson_menezes_479ed50941/database-setup-for-smart-village-project-a-complete-windows-guide-45m0)
 - [Overcoming Self-Doubt: Lessons from My First Year as a Self-Taught Developer](https://dev.to/emmanuelolusegun/overcoming-self-doubt-lessons-from-my-first-year-as-a-self-taught-developer-8cl)
-- [SQL vs NoSQL: 7 Key Differences You Must Know day 30 f system design basics](https://dev.to/vincenttommi/sql-vs-nosql-7-key-differences-you-must-know-133i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
