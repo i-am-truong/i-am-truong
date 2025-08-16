@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Users using StackDAG for app planning!](https://dev.to/javredstone/users-using-stackdag-for-app-planning-1757)
-- [Build a Local AI Agent with MCP Tools Using GPT-OSS, LangChain &amp; Streamlit](https://dev.to/nariman/build-a-local-ai-agent-with-mcp-tools-using-gpt-oss-langchain-streamlit-2mdb)
-- [PHPUNIT Course - Module 1: Introduction to PHPUnit and the World of Testing](https://dev.to/xxzeroxx/phpunit-course-module-1-introduction-to-phpunit-and-the-world-of-testing-n4h)
-- [OpenAI&#39;s GPT-OSS: The Dawn of a New Open-Weight AI Era](https://dev.to/vishva_murthy_4480fcb3d83/openais-gpt-oss-the-dawn-of-a-new-open-weight-ai-era-3bch)
-- [Using an External Authorization Lambda with API Gateway in AWS SAM](https://dev.to/marciojc/using-an-external-authorization-lambda-with-api-gateway-in-aws-sam-4pdf)
+- [The Looming Threat of AI-Powered Malware: Could Machines Out-Hack Us?](https://dev.to/devtechinsights/the-looming-threat-of-ai-powered-malware-could-machines-out-hack-us-2pec)
+- [Cilium CIDR overlap issue](https://dev.to/dhyanioo/cilium-cidr-overlap-issue-54d)
+- [🎯 Cracking Cyfrin&#39;s NFT Challenge: Guessing Pseudo-Randomness Like a Pro](https://dev.to/kode-n-rolla/cracking-cyfrins-nft-challenge-guessing-pseudo-randomness-like-a-pro-1mp5)
+- [Hands-On Azure: Deploying VMs, SQL, and Web Apps with BYOS](https://dev.to/adeyemo/hands-on-azure-deploying-vms-sql-and-web-apps-with-byos-3h24)
+- [O Impacto do 5W2H no Desenvolvimento de Software: Uma Ferramenta para Eficiência e Inovação](https://dev.to/ikauedev/o-impacto-do-5w2h-no-desenvolvimento-de-software-uma-ferramenta-para-eficiencia-e-inovacao-43g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
