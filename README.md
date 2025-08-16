@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Phishing campaign for tricking Booking.com&#39;s users and sharing malware.](https://dev.to/alexlead/phishing-campaign-for-tricking-bookingcoms-users-and-sharing-malware-ko6)
-- [why loop rendering](https://dev.to/hg_zhou_c88c5010b5a59f745/why-loop-rendering-5d3n)
-- [Lets master sliding window pattern: an essential DSA technique](https://dev.to/lalitkhu/lets-master-sliding-window-pattern-an-essential-dsa-technique-12e4)
-- [API Testing 101: How to Use Postman Like a Pro](https://dev.to/manukumar07/api-testing-101-how-to-use-postman-like-a-pro-4aej)
-- [First Smart Contract](https://dev.to/loading_blocks/first-smart-contract-3bbb)
+- [Why Top Engineers Are Moving to Serverless &lpar;and How You Can Build One with AWS&rpar;](https://dev.to/lyushher/why-top-engineers-are-moving-to-serverless-and-how-you-can-build-one-with-aws-650)
+- [Rogers PCB: The PTFE Advantage for High-Speed, Reliable Electronics](https://dev.to/frank_1871bc3c55f35370df3/rogers-pcb-the-ptfe-advantage-for-high-speed-reliable-electronics-8bm)
+- [Database Setup for Smart Village Project: A Complete Windows Guide](https://dev.to/royson_menezes_479ed50941/database-setup-for-smart-village-project-a-complete-windows-guide-45m0)
+- [Overcoming Self-Doubt: Lessons from My First Year as a Self-Taught Developer](https://dev.to/emmanuelolusegun/overcoming-self-doubt-lessons-from-my-first-year-as-a-self-taught-developer-8cl)
+- [SQL vs NoSQL: 7 Key Differences You Must Know day 30 f system design basics](https://dev.to/vincenttommi/sql-vs-nosql-7-key-differences-you-must-know-133i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
