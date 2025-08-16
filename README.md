@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Scalable Communication Between Microservices Using REST and gRPC via API Gateway](https://dev.to/arkad23/building-scalable-communication-between-microservices-using-rest-and-grpc-via-api-gateway-115k)
 - [Infrastructure Testing &lpar;Test Kitchen, etc.&rpar;](https://dev.to/godofgeeks/infrastructure-testing-test-kitchen-etc-3m04)
 - [Proposal web✨💝💖💞 , by TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/untitled-19oe)
 - [NEAR vs Avalanche: The Developer&#39;s Truth &lpar;From Someone Who&#39;s Been There&rpar; 🔥](https://dev.to/majizzy/near-vs-avalanche-the-developers-truth-from-someone-whos-been-there-4553)
 - [Burn down the town &lpar;My AI song&rpar;](https://dev.to/jacklehamster/burn-down-the-town-my-ai-song-1b76)
-- [How Reflow Ovens Keep Your Electronics Reliable](https://dev.to/frank_1871bc3c55f35370df3/how-reflow-ovens-keep-your-electronics-reliable-2f05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
