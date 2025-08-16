@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing C++ Compilation and Run Button Issues in VS Code on Windows](https://dev.to/devjubr/fixing-c-compilation-and-run-button-issues-in-vs-code-on-windows-1koc)
-- [No More “How to Create Pytest HTML Reports or how to email test reports&quot;](https://dev.to/kevi019/no-more-how-to-create-pytest-html-reports-or-how-to-send-email-55j2)
-- [I Built My Developer Portfolio with Next.js 15 + Tailwind — Here’s How](https://dev.to/nishuldhakar/i-built-my-developer-portfolio-with-nextjs-15-tailwind-heres-how-35j7)
-- [Harnessing `atomFamily` and `selectorFamily` in Recoil for Dynamic Async State](https://dev.to/safal_bhandari/harnessing-atomfamily-and-selectorfamily-in-recoil-for-dynamic-async-state-2cob)
-- [Next.js HTTPS on Localhost: The Easy Way for Secure Development](https://dev.to/robbiecahill/nextjs-https-on-localhost-the-easy-way-for-secure-development-2id5)
+- [Building an Azure VM Sizer for LLMs — with Codex Doing 90% of the Work](https://dev.to/frankiey/building-an-azure-vm-sizer-for-llms-with-codex-doing-90-of-the-work-7kn)
+- [Breaking: The Payment API Revolution is Here &lpar;and it&#39;s passwordless&rpar; 🔐](https://dev.to/shiva_shanker_k/breaking-the-payment-api-revolution-is-here-and-its-passwordless-2phc)
+- [POST API for pushing content on Devto](https://dev.to/shreyvijayvargiya/post-api-for-pushing-content-on-devto-23d5)
+- [Only for you bestu ❣️✨, by TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/only-for-you-bestu-by-tushar-1io7)
+- [# 🗓 Daily LeetCode Progress – Day 2](https://dev.to/ertugrulmutlu/-daily-leetcode-progress-day-2-2i0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
