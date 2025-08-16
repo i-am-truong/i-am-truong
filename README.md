@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Hackathon to Nokia Interview: My Unexpected Journey](https://dev.to/dishika/from-hackathon-to-nokia-interview-my-unexpected-journey-cg2)
-- [From Web Apps to AI Wonders: Your JavaScript Guide to Large Language Models!](https://dev.to/asimkhan0/from-web-apps-to-ai-wonders-your-javascript-guide-to-large-language-models-28lf)
-- [Deploy Pixtral at Scale: vLLM + Docker Made Simple](https://dev.to/moni121189/deploy-pixtral-at-scale-vllm-docker-made-simple-3mi6)
-- [Getting started with Computer Science - A beginner&#39;s journey.](https://dev.to/ayaz_parvez_a32e154349c83/getting-started-with-computer-science-a-beginners-journey-2fl4)
-- [Part-4: 🚀 Google Cloud Platform VM Startup Scripts Explained](https://dev.to/latchudevops/part-4-google-cloud-platform-vm-startup-scripts-explained-17g9)
+- [Day-80 JDBC in Java](https://dev.to/tamilselvan1812/day-80-jdbc-in-java-3afc)
+- [NEAR vs Polygon zkEVM: A Developer&#39;s Battle-Tested Comparison](https://dev.to/bakariki053/near-vs-polygon-zkevm-a-developers-battle-tested-comparison-239)
+- [# 🧠 Windows &lpar;12&rpar; Albuquerque.Where it all began. Where control returns to your hands.](https://dev.to/ljvasquezr/-windows-12-albuquerquewhere-it-all-began-where-control-returns-to-your-hands-42g)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `61`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-61-51gj)
+- [Asynchronous Data Queries in Recoil with Selectors](https://dev.to/safal_bhandari/asynchronous-data-queries-in-recoil-with-selectors-1g75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
