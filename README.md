@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The BEST Code Editor for Everything — Honest Comparison for 2025](https://dev.to/tahamjp/the-best-code-editor-for-everything-honest-comparison-for-2025-3co7)
-- [🎯 Event Delegation in JavaScript: A Complete Beginner-to-Advanced Guide](https://dev.to/rohit_singh_ee84e64941db7/event-delegation-in-javascript-a-complete-beginner-to-advanced-guide-2aj1)
-- [Using PgBouncer to improve performance and reduce the load on PostgreSQL](https://dev.to/chittrmahto/using-pgbouncer-to-improve-performance-and-reduce-the-load-on-postgresql-216j)
-- [1323. Maximum 69 Number](https://dev.to/mdarifulhaque/1323-maximum-69-number-a96)
-- [💎 .NET 9 Hidden Gems: 7 Power Features Most Developers Are Missing](https://dev.to/iamprincejkc/net-9-hidden-gems-7-power-features-most-developers-are-missing-26hk)
+- [Twitter is an ultimate platform for DevOps to show their work and get the attention of big companies, including MAANG+AI. Don&#39;t leave your code to chance; showcase directly to Executives and CXOs.](https://dev.to/jaideepparashar/twitter-is-an-ultimate-platform-for-devops-to-show-their-work-and-get-the-attention-of-big-4kma)
+- [IA en las aulas y mundo laboral](https://dev.to/erickvasm/ia-en-las-aulas-y-mundo-laboral-3l0l)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4lah)
+- [7 Twitter Prompts That Grew My AI Audience](https://dev.to/jaideepparashar/7-twitter-prompts-that-grew-my-ai-audience-5g01)
+- [The Testing Paradox: Why 90% of IT Projects Are Late and How to Break the Cycle](https://dev.to/esha_suchana_3514f571649c/the-testing-paradox-why-90-of-it-projects-are-late-and-how-to-break-the-cycle-4ah4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
