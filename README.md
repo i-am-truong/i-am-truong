@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Workload Identity Federation Explained in 2 Minutes &lpar;with a School Trip Analogy&rpar;](https://dev.to/mmk4mmk/workload-identity-federation-explained-in-2-minutes-with-a-school-trip-analogy-hdf)
+- [React 19 useReducer Deep Dive — From Basics to Complex State Patterns](https://dev.to/a1guy/react-19-usereducer-deep-dive-from-basics-to-complex-state-patterns-3fpi)
+- [Python Behind the Scenes - Understanding Code Execution Flow](https://dev.to/prakash_vinukonda_363ed4b/python-behind-the-scenes-understanding-code-execution-flow-1o07)
+- [Building a smart, agentic email assistant](https://dev.to/dsense/building-a-smart-agentic-email-assistant-4m70)
 - [Make In A Day: Hovertank One](https://dev.to/chigbeef_77/make-in-a-day-hovertank-one-4edn)
-- [Weekend Hack: Making My Blog AI-Searchable &lpar;No Flames Required&rpar; 🔥🚫](https://dev.to/anchildress1/weekend-hack-making-my-blog-ai-searchable-no-flames-required-16h5)
-- [🚀 Introducing react-kanban-kit A Lightweight &amp; Customizable Kanban Component for React](https://dev.to/hazembraiek/introducing-react-kanban-kit-a-lightweight-customizable-kanban-component-for-react-3lc8)
-- [Remix IDE Introduction](https://dev.to/loading_blocks/remix-ide-introduction-4jne)
-- [Code Smell 308 - Not Polymorphic Return](https://dev.to/mcsee/code-smell-308-not-polymorphic-return-5f9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
