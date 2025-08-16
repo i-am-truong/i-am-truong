@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Practice Makes Perfect: How AI Interview Simulation Changed My Go Game](https://dev.to/rezasi/practice-makes-perfect-how-ai-interview-simulation-changed-my-go-game-40d2)
 - [Atomic Query Construction &lpar;AQC&rpar; Design Pattern — Explained](https://dev.to/raheelshan/atomic-query-construction-aqc-design-pattern-explained-1cla)
 - [Master Your Raspberry Pi: Set a Static IP for Rock-Solid Networking](https://dev.to/messin_tom/master-your-raspberry-pi-set-a-static-ip-for-rock-solid-networking-58kk)
 - [StatPecker](https://dev.to/gopal_ojha_f3ad36ddbf6de8/statpecker-3mfg)
 - [Understanding CAP Theorem in System Design Interviews](https://dev.to/codewithved/understanding-cap-theorem-in-system-design-interviews-d6c)
-- [Laravel Architecture Evolved: AQC Took Over Everything](https://dev.to/raheelshan/laravel-architecture-evolved-aqc-took-over-everything-35o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
