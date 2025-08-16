@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Native : comment une simple mise à jour fait tout s&#39;écrouler](https://dev.to/noodle/react-native-comment-une-simple-mise-a-jour-fait-tout-secrouler-405k)
-- [Week 9: DevOps Meets Cloud – AWS Skills for Modern Engineering](https://dev.to/dev_dave_26/week-9-devops-meets-cloud-aws-skills-for-modern-engineering-1b7h)
-- [Introduction to Gang of Four &lpar;GoF&rpar; Design Patterns](https://dev.to/lovestaco/introduction-to-gang-of-four-gof-design-patterns-57m0)
-- [Building AI CI/CD Pipelines with MCP](https://dev.to/om_shree_0709/building-ai-cicd-pipelines-with-mcp-42cg)
-- [Log011 - UFW, nginx and a dream.](https://dev.to/aka_artem_dd17be93c/log011-ufw-nginx-and-a-dream-4j5l)
+- [Day n community meetup](https://dev.to/hayesvincent14/day-n-community-meetup-34m4)
+- [🗝️ React Keys — Why They Matter in Lists](https://dev.to/aman_kureshi_/react-keys-why-they-matter-in-lists-5f7j)
+- [Creating Gold Image from existing installed software&lpar;GI HOME and Oracle HOME&rpar;](https://dev.to/vahidusefzadeh/creating-gold-image-from-existing-installed-softwaregi-home-and-oracle-home-p72)
+- [5 Brutal Lessons from Building a Multi-Agent AI System &lpar;And How to Avoid My Epic Fails&rpar;](https://dev.to/dpelleri/5-brutal-lessons-from-building-a-multi-agent-ai-system-and-how-to-avoid-my-epic-fails-35aa)
+- [JavaScript vs Python: which is better?](https://dev.to/rujoybarai/javascript-vs-python-which-is-better-i8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
