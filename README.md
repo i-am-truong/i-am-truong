@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linus Tech Tips &lpar;LTT&rpar;: My Haters will Hate this](https://dev.to/future_youtube/linus-tech-tips-ltt-my-haters-will-hate-this-396p)
-- [The Game Theorists: Game Theory: FNAF, Did Fazbear REALLY Steal Everything?](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-did-fazbear-really-steal-everything-gen)
-- [GameSpot: Marvel Tokon Gameplay Mechanics Discussion And Things We Found](https://dev.to/gg_news/gamespot-marvel-tokon-gameplay-mechanics-discussion-and-things-we-found-aan)
-- [New improvements for neural web](https://dev.to/okerew/new-improvements-for-neural-web-3gi6)
-- [Building ViberSpace with Kiro: AI-Powered Freelance, Reinvented](https://dev.to/belmirongola/building-viberspace-with-kiro-ai-powered-freelance-reinvented-550e)
+- [Master Your Raspberry Pi: Set a Static IP for Rock-Solid Networking](https://dev.to/messin_tom/master-your-raspberry-pi-set-a-static-ip-for-rock-solid-networking-58kk)
+- [StatPecker](https://dev.to/gopal_ojha_f3ad36ddbf6de8/statpecker-3mfg)
+- [Understanding CAP Theorem in System Design Interviews](https://dev.to/codewithved/understanding-cap-theorem-in-system-design-interviews-d6c)
+- [Laravel Architecture Evolved: AQC Took Over Everything](https://dev.to/raheelshan/laravel-architecture-evolved-aqc-took-over-everything-35o5)
+- [THE FIRST STEP](https://dev.to/maitreyee_aggarwal_ed16f7/the-first-step-5ek1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
