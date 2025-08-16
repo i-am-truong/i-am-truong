@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Cimple: A Minimal Chrome Extension that you should try at least once](https://dev.to/nikhilshukla/building-cimple-a-minimal-chrome-new-tab-experience-p9c)
-- [Building Scalable Communication Between Microservices Using REST and gRPC via API Gateway](https://dev.to/arkad23/building-scalable-communication-between-microservices-using-rest-and-grpc-via-api-gateway-115k)
-- [Infrastructure Testing &lpar;Test Kitchen, etc.&rpar;](https://dev.to/godofgeeks/infrastructure-testing-test-kitchen-etc-3m04)
-- [Proposal web✨💝💖💞 , by TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/untitled-19oe)
-- [NEAR vs Avalanche: The Developer&#39;s Truth &lpar;From Someone Who&#39;s Been There&rpar; 🔥](https://dev.to/majizzy/near-vs-avalanche-the-developers-truth-from-someone-whos-been-there-4553)
+- [🚀 How to Seamlessly Switch Between Browsers in Your Web App with browser-switcher](https://dev.to/jakkimcfly/how-to-seamlessly-switch-between-browsers-in-your-web-app-with-browser-switcher-54lo)
+- [Writing Once, Publishing Everywhere](https://dev.to/alexcloudstar/writing-once-publishing-everywhere-261g)
+- [Front-End Testing: Essential Tools &amp; Techniques to Keep Your UI Bug-Free](https://dev.to/okoye_ndidiamaka_5e3b7d30/front-end-testing-essential-tools-techniques-to-keep-your-ui-bug-free-58b5)
+- [I Created a JSON Viewer with Graphs, Tables, and 3D Visuals](https://dev.to/bugblitz98/i-created-a-json-viewer-with-graphs-tables-and-3d-visuals-c9i)
+- [PostgreSQL AI: The Everything Database &lpar;+ Hidden 10x Performance Tricks&rpar;](https://dev.to/zblack/postgresql-ai-the-everything-database-hidden-10x-performance-tricks-2hgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
