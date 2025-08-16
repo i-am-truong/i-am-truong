@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Just published two fresh tutorials on Djamware.com](https://dev.to/djamware_tutorial_eba1a61/just-published-two-fresh-tutorials-on-djamwarecom-3ccn)
-- [AWS Community Day Australia - Behind the scenes as a speaker and participant](https://dev.to/aws-builders/aws-community-day-australia-behind-the-scenes-as-a-speaker-and-participant-246l)
-- [Overview of MetaMask Wallet](https://dev.to/loading_blocks/overview-of-metamask-wallet-2ji9)
-- [Overview of MetaMask Wallet](https://dev.to/loading_blocks/overview-of-metamask-wallet-1bn2)
-- [Step-by-Step Guide: Setting Up VS Code Debugging for Django Projects](https://dev.to/prodigius/step-by-step-guide-setting-up-vs-code-debugging-for-django-projects-2gef)
+- [Chai, Code and Chaos: The Indian IT Bug Comedy That Nobody Saw Coming](https://dev.to/codetestfactory/chai-code-and-chaos-the-indian-it-bug-comedy-that-nobody-saw-coming-28bm)
+- [Double Ended Queue: More Than Just a Queue](https://dev.to/lalitkhu/double-ended-queue-more-than-just-a-queue-4pi9)
+- [Threat Modelling with Threat Dragon](https://dev.to/markblandford/threat-modelling-with-threat-dragon-3nda)
+- [🐧Week 1 of my Cloud Journey - Building a Strong Linux Foundation](https://dev.to/asimmakes/week-1-of-my-cloud-journey-building-a-strong-linux-foundation-55dh)
+- [AWS VPC to ECS – Day 3: IAM Roles, SSM &amp; ECS Cluster](https://dev.to/aws-builders/aws-vpc-to-ecs-day-3-iam-roles-ssm-ecs-cluster-26ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
