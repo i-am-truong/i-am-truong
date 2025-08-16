@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Blossoming Flowers at Magical Night](https://dev.to/just_try_10463b5bd1557894/css-blossoming-flowers-at-magical-night-2d0g)
+- [Why Developers Should Learn PR Thinking: A Hidden Edge in Tech Careers](https://dev.to/sonia_bobrik_1939cdddd79d/why-developers-should-learn-pr-thinking-a-hidden-edge-in-tech-careers-4ph9)
 - [🚀 The Professional Way to Install &amp; Run Jupyter in 2025](https://dev.to/scary_crimson/the-professional-way-to-install-run-jupyter-in-2025-4fp)
 - [React Native : comment une simple mise à jour fait tout s&#39;écrouler](https://dev.to/ml3556/react-native-comment-une-simple-mise-a-jour-fait-tout-secrouler-3oj)
 - [When to Use Generic vs Non-Generic Collections in C#](https://dev.to/mariemoalla/when-to-use-generic-vs-non-generic-collections-in-c-ocb)
-- [Implementing Offline-First Architecture in Flutter: Part 2 - Building Sync Mechanisms and Handling Connectivity Changes](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-2-building-sync-mechanisms-and-handling-4mb1)
-- [JavaScript Variables &amp; Memory: The Secret Life Behind the Scenes](https://dev.to/anik_sikder_313/javascript-variables-memory-the-secret-life-behind-the-scenes-4j21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
