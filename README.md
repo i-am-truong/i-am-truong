@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Map in JavaScript &lpar;The Underestimated Data Structure&rpar;](https://dev.to/oyewadkar/understanding-map-in-javascript-the-underestimated-data-structure-3k5)
-- [Deploy Dragonfly Replication](https://dev.to/arman-shafiei/deploy-dragonfly-replication-i6i)
-- [Building an Azure VM Sizer for LLMs — with Codex Doing 90% of the Work](https://dev.to/frankiey/building-an-azure-vm-sizer-for-llms-with-codex-doing-90-of-the-work-7kn)
-- [Fluppy bird 🐦 game 🎮🎯,by TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/fluppy-bird-game-by-tushar-29g8)
-- [Breaking: The Payment API Revolution is Here &lpar;and it&#39;s passwordless&rpar; 🔐](https://dev.to/shiva_shanker_k/breaking-the-payment-api-revolution-is-here-and-its-passwordless-2phc)
+- [Redux ka startup Year: 2015 Creators: Dan Abramov &amp; Andrew Clark Inspiration: Facebook ka Flux architecture + Functional Programming ka concept called Elm architecture &lpar;Elm ek functional language hai&rpar;.](https://dev.to/nimra_kosar_9885e391ac9a2/redux-ka-startup-year-2015-creators-dan-abramov-andrew-clark-inspiration-facebook-ka-flux-5g4j)
+- [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
+- [[Boost]](https://dev.to/alfredosalzillo/-19a8)
+- [🚀 Supercharge Your GitHub Pull Requests with AI &lpar;GPT + Gemini Powered Extension&rpar;](https://dev.to/aiyush_kumar_1b202037c371/supercharge-your-github-pull-requests-with-ai-gpt-gemini-powered-extension-2i24)
+- [Redux in react](https://dev.to/nimra_kosar_9885e391ac9a2/redux-in-react-2jhm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
