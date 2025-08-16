@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 67: When Your Bed Becomes Your Enemy and Other Developer Chronicles](https://dev.to/casperday11/day-67-when-your-bed-becomes-your-enemy-and-other-developer-chronicles-4p3a)
-- [Why Top Engineers Are Moving to Serverless &lpar;and How You Can Build One with AWS&rpar;](https://dev.to/lyushher/why-top-engineers-are-moving-to-serverless-and-how-you-can-build-one-with-aws-650)
-- [Rogers PCB: The PTFE Advantage for High-Speed, Reliable Electronics](https://dev.to/frank_1871bc3c55f35370df3/rogers-pcb-the-ptfe-advantage-for-high-speed-reliable-electronics-8bm)
-- [Database Setup for Smart Village Project: A Complete Windows Guide](https://dev.to/royson_menezes_479ed50941/database-setup-for-smart-village-project-a-complete-windows-guide-45m0)
-- [Overcoming Self-Doubt: Lessons from My First Year as a Self-Taught Developer](https://dev.to/emmanuelolusegun/overcoming-self-doubt-lessons-from-my-first-year-as-a-self-taught-developer-8cl)
+- [🚀 The Professional Way to Install &amp; Run Jupyter in 2025](https://dev.to/scary_crimson/the-professional-way-to-install-run-jupyter-in-2025-4fp)
+- [React Native : comment une simple mise à jour fait tout s&#39;écrouler](https://dev.to/ml3556/react-native-comment-une-simple-mise-a-jour-fait-tout-secrouler-3oj)
+- [When to Use Generic vs Non-Generic Collections in C#](https://dev.to/mariemoalla/when-to-use-generic-vs-non-generic-collections-in-c-ocb)
+- [Implementing Offline-First Architecture in Flutter: Part 2 - Building Sync Mechanisms and Handling Connectivity Changes](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-2-building-sync-mechanisms-and-handling-4mb1)
+- [JavaScript Variables &amp; Memory: The Secret Life Behind the Scenes](https://dev.to/anik_sikder_313/javascript-variables-memory-the-secret-life-behind-the-scenes-4j21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
