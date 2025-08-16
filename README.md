@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Simple AI Text Summarizer in Python](https://dev.to/alexis_35fa86d891b3effe0c/how-i-built-a-simple-ai-text-summarizer-in-python-md6)
 - [Day n community meetup](https://dev.to/hayesvincent14/day-n-community-meetup-34m4)
 - [🗝️ React Keys — Why They Matter in Lists](https://dev.to/aman_kureshi_/react-keys-why-they-matter-in-lists-5f7j)
 - [Creating Gold Image from existing installed software&lpar;GI HOME and Oracle HOME&rpar;](https://dev.to/vahidusefzadeh/creating-gold-image-from-existing-installed-softwaregi-home-and-oracle-home-p72)
 - [5 Brutal Lessons from Building a Multi-Agent AI System &lpar;And How to Avoid My Epic Fails&rpar;](https://dev.to/dpelleri/5-brutal-lessons-from-building-a-multi-agent-ai-system-and-how-to-avoid-my-epic-fails-35aa)
-- [JavaScript vs Python: which is better?](https://dev.to/rujoybarai/javascript-vs-python-which-is-better-i8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
