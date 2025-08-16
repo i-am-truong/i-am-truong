@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Prompt Engineering: Envision a Framework for Interactive AI-Assisted Development](https://dev.to/ziv_kfir_aa0a372cec2e1e4b/beyond-prompt-engineering-envision-a-framework-for-interactive-ai-assisted-development-34oj)
-- [Day 26: Jenkins Declarative Pipeline](https://dev.to/udoh_deborah_b1e484c474bf/day-26-jenkins-declarative-pipeline-25kl)
-- [Day 16 of #30DaysOfCode](https://dev.to/justacoder_0x/day-16-of-30daysofcode-2m78)
-- [Fear of AI: Why College Students Are Dropping Out](https://dev.to/nsoro_allan/fear-of-ai-why-college-students-are-dropping-out-2akp)
-- [Strategy Design Pattern in Laravel: Complete Guide 2025](https://dev.to/arasosman/strategy-design-pattern-in-laravel-complete-guide-2025-3ccg)
+- [Understanding APIs: The Beginner’s Complete Guide](https://dev.to/maurice_ombewa_21d073ef7a/understanding-apis-the-beginners-complete-guide-54gl)
+- [Dijkstra&#39;s Algorithm C++: Story](https://dev.to/harshm03/dijkstras-algorithm-c-story-1h40)
+- [Bellman-Ford Algorithm C++: Story](https://dev.to/harshm03/bellman-ford-algorithm-c-story-53hj)
+- [Floyd-Warshall&#39;s Algorithm C++: Story](https://dev.to/harshm03/floyd-warshalls-algorithm-c-story-28ho)
+- [Email Automation &amp; Long Days #41](https://dev.to/0xj0n1/email-automation-long-days-41-3n6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
