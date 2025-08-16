@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Users using StackDAG for app planning!](https://dev.to/javredstone/users-using-stackdag-for-app-planning-1757)
+- [Build a Local AI Agent with MCP Tools Using GPT-OSS, LangChain &amp; Streamlit](https://dev.to/nariman/build-a-local-ai-agent-with-mcp-tools-using-gpt-oss-langchain-streamlit-2mdb)
+- [PHPUNIT Course - Module 1: Introduction to PHPUnit and the World of Testing](https://dev.to/xxzeroxx/phpunit-course-module-1-introduction-to-phpunit-and-the-world-of-testing-n4h)
+- [OpenAI&#39;s GPT-OSS: The Dawn of a New Open-Weight AI Era](https://dev.to/vishva_murthy_4480fcb3d83/openais-gpt-oss-the-dawn-of-a-new-open-weight-ai-era-3bch)
 - [Using an External Authorization Lambda with API Gateway in AWS SAM](https://dev.to/marciojc/using-an-external-authorization-lambda-with-api-gateway-in-aws-sam-4pdf)
-- [Automatic Appliance Repair Hacks to Save Time and Money](https://dev.to/umair_astura_c65e7e1dc62c/automatic-appliance-repair-hacks-to-save-time-and-money-2dg5)
-- [Practice Makes Perfect: How AI Interview Simulation Changed My Go Game](https://dev.to/rezasi/practice-makes-perfect-how-ai-interview-simulation-changed-my-go-game-40d2)
-- [The Silent Power of Solo Devs: Why You Don’t Need a Team to Build Something Great](https://dev.to/tamyrah/the-silent-power-of-solo-devs-why-you-dont-need-a-team-to-build-something-great-3ba6)
-- [WHTTW &lpar;What Happened in Tech This Week&rpar;](https://dev.to/adedejiosvaldo/whttw-what-happened-in-tech-this-week-3ld6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
