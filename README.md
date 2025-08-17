@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Application of Async Programming in Web Development&lpar;7505&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development7505-p1b)
+- [A Guide to the World of Version Control Systems &lpar;VCS&rpar;](https://dev.to/abo7hkmat_2076/a-guide-to-the-world-of-version-control-systems-vcs-3e23)
+- [Hey Recruiters 👋, I Broke the Resume. Then I Rebuilt It with AI.](https://dev.to/frosty_fucker_7d06058f3d8/hey-recruiters-i-broke-the-resume-then-i-rebuilt-it-with-ai-1cd3)
+- [QR Codes: Static vs Dynamic — Which do you actually use?](https://dev.to/valentin_mirchev_4eab18ee/qr-codes-static-vs-dynamic-which-do-you-actually-use-c7p)
 - [How to See Console.WriteLine Output in Visual Studio 2022](https://dev.to/pexlkeys/how-to-see-consolewriteline-output-in-visual-studio-2022-o4n)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;3357&rpar;](https://dev.to/ltpp_universe/latency-optimization-secrets-for-millisecond-response-times3357-50hd)
-- [Choosing the Right Stack in 2025. When AI Feels Like It&#39;s Taking Over](https://dev.to/wardaowais/choosing-the-right-stack-in-2025-when-ai-feels-like-its-taking-over-2h7a)
-- [The Brutal Reality of the Current Data Engineering Job Market](https://dev.to/grayhat/the-brutal-reality-of-the-current-data-engineering-job-market-156d)
-- [Middleware Architecture Patterns for Request Processing&lpar;8706&rpar;](https://dev.to/ltpp_universe/middleware-architecture-patterns-for-request-processing8706-1jaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
