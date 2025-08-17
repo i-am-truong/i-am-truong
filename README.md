@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Using Go for Cloud Functions](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-go-for-cloud-functions-3j1m)
-- [Microservices Architecture with Lightweight Framework Design&lpar;2178&rpar;](https://dev.to/ltpp_universe/microservices-architecture-with-lightweight-framework-design2178-1cg7)
-- [AI-Powered Note Taker &amp; Summarizer I Built From Scratch](https://dev.to/prs-dev/ai-powered-note-taker-summarizer-i-built-from-scratch-1ap2)
-- [RunPod Cloud Computing: The Ultimate Guide for AI/ML Developers](https://dev.to/vishva_murthy_4480fcb3d83/runpod-cloud-computing-the-ultimate-guide-for-aiml-developers-40j)
-- [Function Visibility AND a changeable state modifier](https://dev.to/loading_blocks/function-visibility-and-a-changeable-state-modifier-4l9b)
+- [PURL Support](https://dev.to/lizmat/purl-support-4m8h)
+- [AWS VPC to ECS - Day 4: Security Groups, Load Balancer &amp; CodeBuild Setup](https://dev.to/aws-builders/aws-vpc-to-ecs-day-4-security-groups-load-balancer-codebuild-setup-2h4d)
+- [Asynchronous Programming Patterns for Web Development&lpar;9735&rpar;](https://dev.to/ltpp_universe/asynchronous-programming-patterns-for-web-development9735-ogf)
+- [Vnoder – Instantly Visualize Your Codebase &lpar;Graph, Unused, Cyclic, Empty&rpar;](https://dev.to/ryszardo303/vnoder-instantly-visualize-your-codebase-graph-unused-cyclic-empty-2gjm)
+- [Stop Shipping Boring AI-Generated UIs](https://dev.to/junlow/stop-shipping-boring-ai-generated-uis-4ck3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
