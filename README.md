@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [𝗔𝘇𝘂𝗿𝗲 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗥𝗲𝗽𝗹𝗮𝗰𝗲𝘀 𝗩𝗶𝗱𝗲𝗼 𝗖𝗮𝗹𝗹 𝗖𝗵𝗮𝗼𝘀](https://dev.to/supraja_tangella_b7f0738e/-5ie)
-- [Project Management for Software Engineers: From Chaos to Clarity](https://dev.to/parizad/project-management-for-software-engineers-from-chaos-to-clarity-4b7f)
-- [Why I Built a Community That Destroys Bad Ideas in such a way they grow](https://dev.to/casperday11/why-i-built-a-community-that-destroys-bad-ideas-in-such-a-way-they-grow-1e80)
-- [🐧 My First Day with Linux: A Story About Talking to the Terminal](https://dev.to/sriram_bharath/my-first-day-with-linux-a-story-about-talking-to-the-terminal-440b)
-- [The Amazing Story of Kubernetes: How Google Changed the World of Cloud Computing](https://dev.to/visy_ani/the-amazing-story-of-kubernetes-how-google-changed-the-world-of-cloud-computing-2g3k)
+- [10 Latest GitHub Repos for AI Engineers in 2025](https://dev.to/forgecode/10-latest-github-repos-for-ai-engineers-in-2025-54b1)
+- [Decoding the Detective Work: Understanding Model Evaluation Metrics for Classification](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-detective-work-understanding-model-evaluation-metrics-for-classification-39je)
+- [Part-7: 🚀 Getting Started with Google Cloud Shell &lpar;GCP&rpar;](https://dev.to/latchudevops/part-7-getting-started-with-google-cloud-shell-gcp-2bc4)
+- [The Ultimate Beginner’s Guide to React useContext &lpar;With Real-World Patterns &amp; Pitfalls&rpar;](https://dev.to/a1guy/the-ultimate-beginners-guide-to-react-usecontext-with-real-world-patterns-pitfalls-4d2h)
+- [The Modular AI Hack That Lets Indie Devs Launch Businesses Overnight](https://dev.to/owly/the-modular-ai-hack-that-lets-indie-devs-launch-businesses-overnight-4mkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
