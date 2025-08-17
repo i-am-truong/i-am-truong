@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Error Handling Strategies in High-Performance Web Servers&lpar;5396&rpar;](https://dev.to/ltpp_universe/error-handling-strategies-in-high-performance-web-servers5396-5b69)
+- [My Project: Seattle Now – Explore Seattle’s Weather, Events &amp; Attractions](https://dev.to/taran_ubbi_61c583301fdf39/my-project-seattle-now-explore-seattles-weather-events-attractions-lb3)
 - [Web Accessibility: A business imperative, not just a technical detail](https://dev.to/capjud95/web-accessibility-a-business-imperative-not-just-a-technical-detail-23d)
+- [Microservices Architecture with Lightweight Framework Design&lpar;5860&rpar;](https://dev.to/ltpp_universe/microservices-architecture-with-lightweight-framework-design5860-581h)
 - [Cross-Platform Web Development Without Compromise&lpar;6110&rpar;](https://dev.to/ltpp_universe/cross-platform-web-development-without-compromise6110-3b3n)
-- [Human–AI Copilots for Executives: Building Trustworthy Decision Support](https://dev.to/arifurrahmansite/human-ai-copilots-for-executives-building-trustworthy-decision-support-58ch)
-- [where can I learn prompting for coding ai models](https://dev.to/vinmwenda/where-can-i-learn-prompting-for-coding-ai-models-1e91)
-- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 3](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-3-de7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
