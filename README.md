@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic User Task Assignment with REST API: Querying Users by Role and Attributes for Candidate Groups](https://dev.to/devaaai/dynamic-user-task-assignment-with-rest-api-querying-users-by-role-and-attributes-for-candidate-1fmh)
+- [Cross-Platform Web Development Without Compromise&lpar;3052&rpar;](https://dev.to/ltpp_universe/cross-platform-web-development-without-compromise3052-48i)
+- [Web Design &amp; Development for Bristol SMEs – Affordable, Professional &amp; Results-Driven Websites](https://dev.to/luke_jones_16739d8f6ca57d/web-design-development-for-bristol-smes-affordable-professional-results-driven-websites-4bn8)
 - [iOS PWAのスコープ](https://dev.to/suzulabo/ios-pwanosukopu-41oh)
 - [Modern Server-Side Event Implementation&lpar;0822&rpar;](https://dev.to/ltpp_universe/modern-server-side-event-implementation0822-5377)
-- [New Choice for Cross-Platform Web Service Development&lpar;8839&rpar;](https://dev.to/ltpp_universe/new-choice-for-cross-platform-web-service-development8839-4c7j)
-- [global vs nonlocal in Python](https://dev.to/hyperkai/global-vs-nonlocal-in-python-1kbe)
-- [Azure Cognitive Services](https://dev.to/godofgeeks/azure-cognitive-services-pfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
