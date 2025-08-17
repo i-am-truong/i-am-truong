@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Events Implementation for Real-Time Applications&lpar;8279&rpar;](https://dev.to/ltpp_universe/server-side-events-implementation-for-real-time-applications8279-1dhe)
-- [Is Business Intelligence not enough anymore?](https://dev.to/talin/is-business-intelligence-not-enough-anymore-1im4)
-- [I&#39;m trying to start learning webdev but I don&#39;t know if it&#39;s too late.](https://dev.to/eric_flores_eba19048116e5/im-trying-to-start-learning-webdev-but-i-dont-know-if-its-too-late-2713)
-- [Context Management and Request Lifecycle Optimization&lpar;5804&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5804-5g73)
-- [🚀 Turning Cybersecurity Into a Career Opportunity 🚀](https://dev.to/retro788/turning-cybersecurity-into-a-career-opportunity-1ha9)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;8182&rpar;](https://dev.to/ltpp_universe/ultimate-optimization-of-lightweight-server-architecture8182-149p)
+- [GetContent - Enviando resumo de notícias por e-mail](https://dev.to/cassunde/getcontent-enviando-resumo-de-noticias-por-e-mail-1mic)
+- [GetContent - Enviando resumo de notícias por e-mail](https://dev.to/cassunde/getcontent-enviando-resumo-de-noticias-por-e-mail-50k3)
+- [BST - the end in sight?](https://dev.to/codecara/bst-the-end-in-sight-4ebm)
+- [Starfield Coming Soon Page | Cinematic Canvas &amp; Countdown](https://dev.to/musa379/starfield-coming-soon-page-cinematic-canvas-countdown-4488)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
