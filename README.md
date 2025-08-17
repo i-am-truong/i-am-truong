@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;2089&rpar;](https://dev.to/ltpp_universe/dynamic-routing-systems-for-scalable-web-applications2089-3b7j)
+- [Efficiently Migrating Data Between PostgreSQL Databases: A Practical Guide](https://dev.to/osalumense/efficiently-migrating-data-between-postgresql-databases-a-practical-guide-1np5)
+- [Your ThreadLocal Is SECRETLY Leaking Memory! FIX IT Before It Crashes!](https://dev.to/xuan_56087d315ff4f52254e6/your-threadlocal-is-secretly-leaking-memory-fix-it-before-it-crashes-4acb)
 - [Application of Async Programming in Web Development&lpar;7505&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development7505-p1b)
 - [A Guide to the World of Version Control Systems &lpar;VCS&rpar;](https://dev.to/abo7hkmat_2076/a-guide-to-the-world-of-version-control-systems-vcs-3e23)
-- [Hey Recruiters 👋, I Broke the Resume. Then I Rebuilt It with AI.](https://dev.to/frosty_fucker_7d06058f3d8/hey-recruiters-i-broke-the-resume-then-i-rebuilt-it-with-ai-1cd3)
-- [QR Codes: Static vs Dynamic — Which do you actually use?](https://dev.to/valentin_mirchev_4eab18ee/qr-codes-static-vs-dynamic-which-do-you-actually-use-c7p)
-- [How to See Console.WriteLine Output in Visual Studio 2022](https://dev.to/pexlkeys/how-to-see-consolewriteline-output-in-visual-studio-2022-o4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
