@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [High-Performance Routing System Design and Implementation&lpar;7541&rpar;](https://dev.to/ltpp_universe/high-performance-routing-system-design-and-implementation7541-4215)
 - [What is Unit Testing?](https://dev.to/angelocodes/what-is-unit-testing-4h62)
 - [One-Click Video Watermark Removal: AI-Powered Tool Now Available Locally](https://dev.to/localfaceswap/one-click-video-watermark-removal-ai-powered-tool-now-available-locally-58ed)
 - [Phương Thức trong Java - Hướng dẫn chi tiết](https://dev.to/javahighlight/phuong-thuc-trong-java-huong-dan-chi-tiet-1ehm)
 - [State only true or false for these statements in Python then rewrite the incorrect statements after correction them: Dictionary Iteration with sorted&lpar;&rpar;: • sorted&lpar;dictionary&rpar; automatically works with keys • reverse=True parameter reverses the sorting order](https://dev.to/ahmad_abdelkareem_ed8a7e/state-only-true-or-false-for-these-statements-in-python-then-rewrite-the-incorrect-statements-after-50l2)
-- [React Forms: Controlled vs Uncontrolled Components — A Complete Guide](https://dev.to/laiba-abbas-123/react-forms-controlled-vs-uncontrolled-components-a-complete-guide-35mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
