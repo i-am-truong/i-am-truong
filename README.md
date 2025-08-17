@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;8758&rpar;](https://dev.to/ltpp_universe/memory-safety-meets-extreme-performance-in-web-servers8758-lh)
+- [Stop using CSS Class Selectors in Jasmine Tests: Here&#39;s a Better Way](https://dev.to/andreas_nicolaou_b3b60f17/stop-using-css-class-selectors-in-jasmine-tests-heres-a-better-way-37jd)
 - [How I Built VolunteerManiac with Kiro](https://dev.to/hongtran/how-i-built-volunteermaniac-with-kiro-186o)
 - [Transform DevOps with AI: Practical MLOps and Generative AI Pipeline Strategies](https://dev.to/srinivasamcjf/transform-devops-with-ai-practical-mlops-and-generative-ai-pipeline-strategies-gb1)
 - [AI-First Development Workflow: From Issue Creation to Pull Request with GitHub Copilot](https://dev.to/victorsaly/ai-first-development-workflow-from-issue-creation-to-pull-request-with-github-copilot-1cb8)
-- [Dynamics 365 Business Central: Role Center Hooks Using Codeunit 1430 “Role Center Notification Mgt”](https://dev.to/jeffreybulanadi/dynamics-365-business-central-role-center-hooks-using-codeunit-1430-role-center-notification-mgt-1lnf)
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;8274&rpar;](https://dev.to/ltpp_universe/bidirectional-communication-patterns-in-modern-web-apps8274-1695)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
