@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IGN: Wuthering Waves - Version 2.6 Official Release Date Trailer](https://dev.to/gg_news/ign-wuthering-waves-version-26-official-release-date-trailer-4m93)
+- [I&#39;m a php developer. Someone who wants to get a website made by me should contact me.](https://dev.to/abdulsaboor_e/im-a-php-developer-someone-who-wants-to-get-a-website-made-by-me-should-contact-me-52c1)
 - [Error Handling Strategies in High-Performance Web Servers&lpar;5396&rpar;](https://dev.to/ltpp_universe/error-handling-strategies-in-high-performance-web-servers5396-5b69)
 - [My Project: Seattle Now – Explore Seattle’s Weather, Events &amp; Attractions](https://dev.to/taran_ubbi_61c583301fdf39/my-project-seattle-now-explore-seattles-weather-events-attractions-lb3)
 - [Web Accessibility: A business imperative, not just a technical detail](https://dev.to/capjud95/web-accessibility-a-business-imperative-not-just-a-technical-detail-23d)
-- [Microservices Architecture with Lightweight Framework Design&lpar;5860&rpar;](https://dev.to/ltpp_universe/microservices-architecture-with-lightweight-framework-design5860-581h)
-- [Cross-Platform Web Development Without Compromise&lpar;6110&rpar;](https://dev.to/ltpp_universe/cross-platform-web-development-without-compromise6110-3b3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
