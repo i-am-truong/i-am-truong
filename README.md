@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [End-To-End Docker flow architecture](https://dev.to/srinivasamcjf/end-to-end-docker-flow-architecture-1cnf)
+- [React Foam: The 1KB State Management Library You Can Master in 5 Minutes](https://dev.to/malekidev/react-foam-the-1kb-state-management-library-you-can-master-in-5-minutes-5b3p)
+- [Efficient WebSocket Server-Side Processing&lpar;8187&rpar;](https://dev.to/ltpp_universe/efficient-websocket-server-side-processing8187-2ea8)
 - [How to Set Up Laravel with PostgreSQL &lpar;Step-by-Step Guide&rpar;](https://dev.to/emmanuel_sofs/how-to-set-up-laravel-with-postgresql-step-by-step-guide-2gn0)
 - [WebSocket Revolution in Real-Time Communication&lpar;8269&rpar;](https://dev.to/ltpp_universe/websocket-revolution-in-real-time-communication8269-55of)
-- [IGN: Guilty Gear Strive - Official Lucy Starter Guide Overview Trailer](https://dev.to/gg_news/ign-guilty-gear-strive-official-lucy-starter-guide-overview-trailer-50o)
-- [IGN: Delta Force - Official Console Launch Overview Trailer](https://dev.to/gg_news/ign-delta-force-official-console-launch-overview-trailer-447d)
-- [IGN: Destiny: Rising - Official Gwynn Character Trailer](https://dev.to/gg_news/ign-destiny-rising-official-gwynn-character-trailer-569)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
