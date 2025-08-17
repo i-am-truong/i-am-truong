@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Context Management and Request Lifecycle Optimization&lpar;5804&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5804-5g73)
+- [🚀 Turning Cybersecurity Into a Career Opportunity 🚀](https://dev.to/retro788/turning-cybersecurity-into-a-career-opportunity-1ha9)
 - [Building a Virtual Cloud Lab with Ansible, KVM, and Libvirt](https://dev.to/ahmed_marzougui_4f08a0e78/building-a-virtual-cloud-lab-with-ansible-kvm-and-libvirt-48k8)
 - [RAG with LLMs: The Complete Guide to Retrieval-Augmented Generation](https://dev.to/vishva_murthy_4480fcb3d83/rag-with-llms-the-complete-guide-to-retrieval-augmented-generation-21k0)
 - [Rust Implementation for High Concurrency Processing&lpar;5989&rpar;](https://dev.to/ltpp_universe/rust-implementation-for-high-concurrency-processing5989-2ml1)
-- [Understanding SQL Commands in a Customer-Sales Database](https://dev.to/lagat_josiah_f024a2c855bc/understanding-sql-commands-in-a-customer-sales-database-40n)
-- [Beyond Chatbots: How Multi-Agent AI Systems Are Revolutionizing Software Engineering](https://dev.to/atharva_ralegankar_810842/beyond-chatbots-how-multi-agent-ai-systems-are-revolutionizing-software-engineering-26ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
