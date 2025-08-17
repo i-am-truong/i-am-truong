@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Script automation explained – what it is, tools, benefits, and real examples](https://dev.to/cloudray/script-automation-explained-what-it-is-tools-benefits-and-real-examples-1mg4)
-- [Application of Async Programming in Web Development&lpar;6619&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development6619-22k9)
-- [📸 SnipMaster: Instantly Turn Screenshots into Editable Code](https://dev.to/sebastiandevelops/snipmaster-instantly-turn-screenshots-into-editable-code-4li3)
-- [JavaScript Arrays](https://dev.to/anthonybanion/javascript-arrays-4h94)
-- [Tasklin, a Python CLI to run multiple AI models](https://dev.to/jetroni/tasklin-a-python-cli-to-run-multiple-ai-models-2ik2)
+- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 1](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-1-30g6)
+- [Understanding Server-Sent Events &lpar;SSE&rpar; and Why HTTP/2 Matters](https://dev.to/abhivyaktii/understanding-server-sent-events-sse-and-why-http2-matters-1cj7)
+- [How to Run a Very Large SQL Script Without Opening It in SSMS](https://dev.to/morteza-jangjoo/how-to-run-a-very-large-sql-script-without-opening-it-in-ssms-150b)
+- [Component-Based Design in Software Architecture](https://dev.to/lovestaco/component-based-design-in-software-architecture-pbf)
+- [Building AI Agents with smolagents and a Gaia Node](https://dev.to/gaiaai/building-ai-agents-with-smolagents-and-a-gaia-node-5ak5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
