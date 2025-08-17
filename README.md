@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HELP ME - An Error bothers me](https://dev.to/lucasbrdt268/help-me-errors-bothers-me-37a8)
+- [CI/CD on Jenkins of Java web App and deployment to ECS with DevSecOps best Practices](https://dev.to/kluivert_anyang_fdba58d96/cicd-on-jenkins-of-java-web-app-and-deployment-to-ecs-with-devsecops-best-practices-2082)
 - [Dynamic Routing Systems for Scalable Web Applications&lpar;2089&rpar;](https://dev.to/ltpp_universe/dynamic-routing-systems-for-scalable-web-applications2089-3b7j)
 - [Efficiently Migrating Data Between PostgreSQL Databases: A Practical Guide](https://dev.to/osalumense/efficiently-migrating-data-between-postgresql-databases-a-practical-guide-1np5)
 - [Your ThreadLocal Is SECRETLY Leaking Memory! FIX IT Before It Crashes!](https://dev.to/xuan_56087d315ff4f52254e6/your-threadlocal-is-secretly-leaking-memory-fix-it-before-it-crashes-4acb)
-- [Application of Async Programming in Web Development&lpar;7505&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development7505-p1b)
-- [A Guide to the World of Version Control Systems &lpar;VCS&rpar;](https://dev.to/abo7hkmat_2076/a-guide-to-the-world-of-version-control-systems-vcs-3e23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
