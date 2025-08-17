@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP/Tools Are Not REST API: Here&#39;s a Better Design](https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-364n)
-- [MCP/Tools Are Not REST API: Here&#39;s a Better Design](https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-46b3)
-- [Note API: Authentication, Authorization &amp; CRUD](https://dev.to/imrancodes/note-api-authentication-authorization-crud-2gki)
-- [Projetos de impacto: o trabalho de Arnaldo Tomo na comunidade Laravel e mobile](https://dev.to/arnaldo/projetos-de-impacto-o-trabalho-de-arnaldo-tomo-na-comunidade-laravel-e-mobile-3h4k)
-- [Control Flow in Swift: Using if, guard, and switch the Right Way](https://dev.to/jacop_dev/control-flow-in-swift-using-if-guard-and-switch-the-right-way-3gcm)
+- [LEANN: The World&#39;s Most Lightweight Semantic Search Backend for RAG Everything 🎉](https://dev.to/yichuan_wang_fcf06c22a529/leann-the-worlds-most-lightweight-semantic-search-backend-for-rag-everything-57l9)
+- [Title: Meta&#39;s Approach to Superintelligence: Keeping Control with AI Models](https://dev.to/yagyaraj_sharma_6cd410179/title-metas-approach-to-superintelligence-keeping-control-with-ai-models-a6e)
+- [Title: The Fusion of Human and Machine: US Nuclear Weapons and Materials Research](https://dev.to/yagyaraj_sharma_6cd410179/title-the-fusion-of-human-and-machine-us-nuclear-weapons-and-materials-research-2g01)
+- [Title: Unleashing the Power of Open-Weight Language Models: A Look at OpenAI&#39;s Latest Release and the Future of Internet Search](https://dev.to/yagyaraj_sharma_6cd410179/title-unleashing-the-power-of-open-weight-language-models-a-look-at-openais-latest-release-and-4n81)
+- [AI in Social Media: Transform Engagement Now!](https://dev.to/sebastian_reid999/ai-in-social-media-transform-engagement-now-33pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
