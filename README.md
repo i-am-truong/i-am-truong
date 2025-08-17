@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 1](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-1-30g6)
-- [Understanding Server-Sent Events &lpar;SSE&rpar; and Why HTTP/2 Matters](https://dev.to/abhivyaktii/understanding-server-sent-events-sse-and-why-http2-matters-1cj7)
-- [How to Run a Very Large SQL Script Without Opening It in SSMS](https://dev.to/morteza-jangjoo/how-to-run-a-very-large-sql-script-without-opening-it-in-ssms-150b)
-- [Component-Based Design in Software Architecture](https://dev.to/lovestaco/component-based-design-in-software-architecture-pbf)
-- [Building AI Agents with smolagents and a Gaia Node](https://dev.to/gaiaai/building-ai-agents-with-smolagents-and-a-gaia-node-5ak5)
+- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 2](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-2-4cpg)
+- [Making Python Act Like Bash](https://dev.to/aayambhatt/making-python-act-like-bash-4m6n)
+- [SQL with Real Life Example Explained - 2025](https://dev.to/fullstackprepdev_sda_d43a/sql-with-real-life-example-explained-2025-4b25)
+- [🔒 SIP GAMES: VoIP Security 101](https://dev.to/sip_games/sip-games-voip-security-101-138b)
+- [Nmap Lab Series: Build Metasploit Scanners, Gather Info, &amp; Exploit Vulnerabilities](https://dev.to/labex/nmap-lab-series-build-metasploit-scanners-gather-info-exploit-vulnerabilities-5eo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
