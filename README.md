@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solidity Mappings type](https://dev.to/loading_blocks/solidity-mappings-type-3jie)
+- [New Choice for Cross-Platform Web Service Development&lpar;0027&rpar;](https://dev.to/ltpp_universe/new-choice-for-cross-platform-web-service-development0027-1fb0)
+- [Edge AI: 7 Incredible Reasons the Jetson Orin Nano is a Game-Changer](https://dev.to/zulnourain_muhammad_4026c/edge-ai-7-incredible-reasons-the-jetson-orin-nano-is-a-game-changer-46lm)
+- [The Precision Revolution - Unlocking Structured Output from LLMs](https://dev.to/vishva_murthy_4480fcb3d83/the-precision-revolution-unlocking-structured-output-from-llms-1nmn)
 - [High-Performance Routing System Design and Implementation&lpar;7541&rpar;](https://dev.to/ltpp_universe/high-performance-routing-system-design-and-implementation7541-4215)
-- [What is Unit Testing?](https://dev.to/angelocodes/what-is-unit-testing-4h62)
-- [One-Click Video Watermark Removal: AI-Powered Tool Now Available Locally](https://dev.to/localfaceswap/one-click-video-watermark-removal-ai-powered-tool-now-available-locally-58ed)
-- [Phương Thức trong Java - Hướng dẫn chi tiết](https://dev.to/javahighlight/phuong-thuc-trong-java-huong-dan-chi-tiet-1ehm)
-- [State only true or false for these statements in Python then rewrite the incorrect statements after correction them: Dictionary Iteration with sorted&lpar;&rpar;: • sorted&lpar;dictionary&rpar; automatically works with keys • reverse=True parameter reverses the sorting order](https://dev.to/ahmad_abdelkareem_ed8a7e/state-only-true-or-false-for-these-statements-in-python-then-rewrite-the-incorrect-statements-after-50l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
