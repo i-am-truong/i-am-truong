@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 2](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-2-4cpg)
-- [Making Python Act Like Bash](https://dev.to/aayambhatt/making-python-act-like-bash-4m6n)
-- [SQL with Real Life Example Explained - 2025](https://dev.to/fullstackprepdev_sda_d43a/sql-with-real-life-example-explained-2025-4b25)
-- [🔒 SIP GAMES: VoIP Security 101](https://dev.to/sip_games/sip-games-voip-security-101-138b)
-- [Nmap Lab Series: Build Metasploit Scanners, Gather Info, &amp; Exploit Vulnerabilities](https://dev.to/labex/nmap-lab-series-build-metasploit-scanners-gather-info-exploit-vulnerabilities-5eo1)
+- [Web Accessibility: A business imperative, not just a technical detail](https://dev.to/capjud95/web-accessibility-a-business-imperative-not-just-a-technical-detail-23d)
+- [Cross-Platform Web Development Without Compromise&lpar;6110&rpar;](https://dev.to/ltpp_universe/cross-platform-web-development-without-compromise6110-3b3n)
+- [Human–AI Copilots for Executives: Building Trustworthy Decision Support](https://dev.to/arifurrahmansite/human-ai-copilots-for-executives-building-trustworthy-decision-support-58ch)
+- [where can I learn prompting for coding ai models](https://dev.to/vinmwenda/where-can-i-learn-prompting-for-coding-ai-models-1e91)
+- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 3](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-3-de7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
