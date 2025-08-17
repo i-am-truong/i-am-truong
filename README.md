@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: The ONE Thing AI Will Never Understand About Music](https://dev.to/music_youtube/rick-beato-the-one-thing-ai-will-never-understand-about-music-1aej)
-- [Tim Cook Highlights Apple’s Vision for Groundbreaking Technology Advancements](https://dev.to/max_mayer/tim-cook-highlights-apples-vision-for-groundbreaking-technology-advancements-16fh)
-- [Weekly #33-2025:Patch Tuesday, AI &amp; Careers, Core Fundamentals, Cloud Era](https://dev.to/weekly/weekly-33-2025patch-tuesday-ai-careers-core-fundamentals-cloud-era-443e)
-- [It&#39;s the ideal time to start building your AI business, even if you don&#39;t come from a tech background. Your vision and idea will override all educational qualifications.](https://dev.to/jaideepparashar/its-the-ideal-time-to-start-building-your-ai-business-even-if-you-dont-come-from-a-tech-3g5k)
-- [Why 2 Lines of Code Can Be Worse Than 100](https://dev.to/mehta0007/why-2-lines-of-code-can-be-worse-than-100-33k6)
+- [Why I Built a Community That Destroys Bad Ideas in such a way they grow](https://dev.to/casperday11/why-i-built-a-community-that-destroys-bad-ideas-in-such-a-way-they-grow-1e80)
+- [🐧 My First Day with Linux: A Story About Talking to the Terminal](https://dev.to/sriram_bharath/my-first-day-with-linux-a-story-about-talking-to-the-terminal-440b)
+- [The Amazing Story of Kubernetes: How Google Changed the World of Cloud Computing](https://dev.to/visy_ani/the-amazing-story-of-kubernetes-how-google-changed-the-world-of-cloud-computing-2g3k)
+- [Application of Async Programming in Web Development&lpar;0344&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development0344-56nd)
+- [Best Practices &amp; HTML Style Guide: Writing Clean, Maintainable, and Effective HTML](https://dev.to/sharique_siddiqui_8242dad/best-practices-html-style-guide-writing-clean-maintainable-and-effective-html-3c8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
