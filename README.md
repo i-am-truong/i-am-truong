@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RisingWave: Simplify Your Stream Processing with this Game-Changing Platform](https://dev.to/githubopensource/risingwave-simplify-your-stream-processing-with-this-game-changing-platform-141l)
 - [Amphibian SEO – A Next.js App Router-first SEO Toolkit](https://dev.to/horroramphibian/amphibian-seo-a-nextjs-app-router-first-seo-toolkit-4jbo)
 - [Why I Built YooAI — An AI Platform Without Subscriptions](https://dev.to/_af1eb8cb8faab148e10b3c/why-i-built-yooai-an-ai-platform-without-subscriptions-3dk6)
 - [I made a language where the only command is “i use arch btw” 🤯](https://dev.to/tikrack_0b5ca7f793d07d3db/i-made-a-language-where-the-only-command-is-i-use-arch-btw-1ho4)
 - [Revolutionary Performance Breakthrough in Modern Web Development&lpar;0035&rpar;](https://dev.to/ltpp_universe/revolutionary-performance-breakthrough-in-modern-web-development0035-kfc)
-- [Untitled](https://dev.to/_nnnot_931f4db4f2e/untitled-4nbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
