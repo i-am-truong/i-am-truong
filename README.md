@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic User Task Assignment with REST API: Querying Users by Role and Attributes for Candidate Groups](https://dev.to/devaaai/dynamic-user-task-assignment-with-rest-api-querying-users-by-role-and-attributes-for-candidate-1fmh)
-- [Cross-Platform Web Development Without Compromise&lpar;3052&rpar;](https://dev.to/ltpp_universe/cross-platform-web-development-without-compromise3052-48i)
-- [Web Design &amp; Development for Bristol SMEs – Affordable, Professional &amp; Results-Driven Websites](https://dev.to/luke_jones_16739d8f6ca57d/web-design-development-for-bristol-smes-affordable-professional-results-driven-websites-4bn8)
-- [iOS PWAのスコープ](https://dev.to/suzulabo/ios-pwanosukopu-41oh)
-- [Modern Server-Side Event Implementation&lpar;0822&rpar;](https://dev.to/ltpp_universe/modern-server-side-event-implementation0822-5377)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;7776&rpar;](https://dev.to/ltpp_universe/server-side-events-implementation-for-real-time-applications7776-3483)
+- [Complete Guide: Installing and Configuring Neovim on macOS](https://dev.to/ajtech0001/complete-guide-installing-and-configuring-neovim-on-macos-4a9e)
+- [AWS ALB vs NLB vs CLB – Load Balancers Explained with Use Cases ⚖️☁️](https://dev.to/yash_sonawane25/aws-alb-vs-nlb-vs-clb-load-balancers-explained-with-use-cases-1fln)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;6277&rpar;](https://dev.to/ltpp_universe/revolutionary-performance-breakthrough-in-modern-web-development6277-550d)
+- [逆向Shell实战——红队技巧 vs 蓝队防御全攻略](https://dev.to/ctkqiang/ni-xiang-shellshi-zhan-hong-dui-ji-qiao-vs-lan-dui-fang-yu-quan-gong-lue-79h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
