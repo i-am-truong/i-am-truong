@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laura Kampf: I invited 400 people to my shop and sold EVERYTHING](https://dev.to/maker_youtube/laura-kampf-i-invited-400-people-to-my-shop-and-sold-everything-1o7k)
+- [HTTP Response Optimization and Streaming Techniques&lpar;1023&rpar;](https://dev.to/ltpp_universe/http-response-optimization-and-streaming-techniques1023-26ae)
+- [Enhancing Domain-Specific Knowledge Graph Reasoning via Metapath-Based Large Model Prompt Learning](https://dev.to/tutti/enhancing-domain-specific-knowledge-graph-reasoning-via-metapath-based-large-model-prompt-learning-4cog)
+- [WebSocket Revolution in Real-Time Communication&lpar;9388&rpar;](https://dev.to/ltpp_universe/websocket-revolution-in-real-time-communication9388-d95)
 - [OpenAI SDK vs Direct API Calls: What 6 Months of Building AI Agents Taught Me](https://dev.to/dpelleri/openai-sdk-vs-direct-api-calls-what-6-months-of-building-ai-agents-taught-me-15bd)
-- [Automate Your Work with n8n](https://dev.to/abdlrhman_abdlrahim/automate-your-work-with-n8n-3fop)
-- [Rust Implementation for High Concurrency Processing&lpar;8897&rpar;](https://dev.to/ltpp_universe/rust-implementation-for-high-concurrency-processing8897-3foh)
-- [My DevOps Journey - Understanding the Why and Linux Fundamentals](https://dev.to/guptem/my-devops-journey-understanding-the-why-and-linux-fundamentals-140i)
-- [Symfony Station Communiqué - Stardate: ✦ 15 August 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-15-august-2025-the-latest-symfony-drupal-typo3-and-132h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
