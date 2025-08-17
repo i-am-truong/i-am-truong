@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Events Implementation for Real-Time Applications&lpar;7776&rpar;](https://dev.to/ltpp_universe/server-side-events-implementation-for-real-time-applications7776-3483)
-- [Complete Guide: Installing and Configuring Neovim on macOS](https://dev.to/ajtech0001/complete-guide-installing-and-configuring-neovim-on-macos-4a9e)
-- [AWS ALB vs NLB vs CLB – Load Balancers Explained with Use Cases ⚖️☁️](https://dev.to/yash_sonawane25/aws-alb-vs-nlb-vs-clb-load-balancers-explained-with-use-cases-1fln)
-- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;6277&rpar;](https://dev.to/ltpp_universe/revolutionary-performance-breakthrough-in-modern-web-development6277-550d)
-- [逆向Shell实战——红队技巧 vs 蓝队防御全攻略](https://dev.to/ctkqiang/ni-xiang-shellshi-zhan-hong-dui-ji-qiao-vs-lan-dui-fang-yu-quan-gong-lue-79h)
+- [Rust Async Web Framework Performance Breakthrough&lpar;6240&rpar;](https://dev.to/ltpp_universe/rust-async-web-framework-performance-breakthrough6240-2bob)
+- [API Development Best Practices: Building Secure and Scalable APIs](https://dev.to/okoye_ndidiamaka_5e3b7d30/api-development-best-practices-building-secure-and-scalable-apis-4oa3)
+- [no-deprecatedのすり抜け](https://dev.to/suzulabo/no-deprecatednosuriba-ke-k06)
+- [state_referenced_locally](https://dev.to/suzulabo/statereferencedlocally-18pn)
+- [🔧 Why Most Refactors Fail — And How to Fix Them](https://dev.to/amirsaeed_skomjani/why-most-refactors-fail-and-how-to-fix-them-3adj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
