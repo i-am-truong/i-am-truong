@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [sveltekit check error](https://dev.to/suzulabo/check-error-549p)
+- [Hands-On with Azure: Creating and Managing Resource Groups](https://dev.to/adeyemo/hands-on-with-azure-creating-and-managing-resource-groups-30b6)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;1106&rpar;](https://dev.to/ltpp_universe/design-philosophy-of-zero-dependency-web-framework1106-33pm)
+- [From Go-To to Outgrown: Why Bootstrap Isn’t the First Choice for Devs in 2025](https://dev.to/themewagon/from-go-to-to-outgrown-why-bootstrap-isnt-the-first-choice-for-devs-in-2025-3lh2)
 - [Newbie Coder &amp; Anime Enthusiast Reporting for Duty! 🚀👾](https://dev.to/hvitoo/newbie-coder-anime-enthusiast-reporting-for-duty-1pkd)
-- [🍝 Spaghetti Code: Why Your App Breaks When You Touch One Line](https://dev.to/idioseph/spaghetti-code-why-your-app-breaks-when-you-touch-one-line-4n9g)
-- [Middleware Architecture Patterns for Request Processing&lpar;8872&rpar;](https://dev.to/ltpp_universe/middleware-architecture-patterns-for-request-processing8872-1da5)
-- [Recovering Locked S3 Buckets in AWS Organizations using AssumeRoot](https://dev.to/aws-builders/recovering-locked-s3-buckets-in-aws-organizations-using-assumeroot-50o)
-- [From Side Projects to Sustainable Products: My Next Step 🚀](https://dev.to/ghostface-cyber-security/from-side-projects-to-sustainable-products-my-next-step-3en1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
