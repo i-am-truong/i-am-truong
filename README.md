@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock LLM Precision: Master Structured Output with Pydantic and Instructor](https://dev.to/vishva_murthy_4480fcb3d83/unlock-llm-precision-master-structured-output-with-pydantic-and-instructor-2jpp)
+- [Modern Server-Side Event Implementation&lpar;8451&rpar;](https://dev.to/ltpp_universe/modern-server-side-event-implementation8451-4nle)
+- [Why I Built a Community That Destroys Bad Ideas and makes those ideas better](https://dev.to/casperday11/why-i-built-a-community-that-destroys-bad-ideas-and-makes-those-ideas-better-2ee5)
 - [Weekly Challenge: Perl has classes now 👍](https://dev.to/simongreennet/weekly-challenge-perl-has-classes-now-4n8e)
 - [Day 68: When One Conversation Changes Everything](https://dev.to/casperday11/day-68-when-one-conversation-changes-everything-2j37)
-- [🚀 Day 18 of My Data Analytics Journey !](https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1)
-- [The Hidden Engineering Behind Building Massive Software Images](https://dev.to/priyanshuverma/the-hidden-engineering-behind-building-massive-software-images-6j6)
-- [Fixing Bluetooth Issues in Kali Linux](https://dev.to/sivolko/fixing-bluetooth-issues-in-kali-linux-3enn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
