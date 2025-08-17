@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Wish I Knew Earlier When Self-Studying Programming &lpar;Especially #5&rpar;](https://dev.to/stackovermaw/5-things-i-wish-i-knew-earlier-when-self-studying-programming-especially-5-3e3n)
-- [The Definitive React 19 useCallback Guide — Patterns, Pitfalls, and Performance Wins](https://dev.to/a1guy/the-definitive-react-19-usecallback-guide-patterns-pitfalls-and-performance-wins-ce4)
-- [Context Management and Request Lifecycle Optimization&lpar;5664&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5664-3gi9)
-- [&quot;Container&quot; with OCI runtime](https://dev.to/kination/container-with-oci-runtime-1m3g)
-- [Primum nil nocere in PHP: First, Do No Harm](https://dev.to/dobrenteiistvan/primum-nil-nocere-in-php-first-do-no-harm-46pg)
+- [What is Unit Testing?](https://dev.to/angelocodes/what-is-unit-testing-4h62)
+- [One-Click Video Watermark Removal: AI-Powered Tool Now Available Locally](https://dev.to/localfaceswap/one-click-video-watermark-removal-ai-powered-tool-now-available-locally-58ed)
+- [Phương Thức trong Java - Hướng dẫn chi tiết](https://dev.to/javahighlight/phuong-thuc-trong-java-huong-dan-chi-tiet-1ehm)
+- [State only true or false for these statements in Python then rewrite the incorrect statements after correction them: Dictionary Iteration with sorted&lpar;&rpar;: • sorted&lpar;dictionary&rpar; automatically works with keys • reverse=True parameter reverses the sorting order](https://dev.to/ahmad_abdelkareem_ed8a7e/state-only-true-or-false-for-these-statements-in-python-then-rewrite-the-incorrect-statements-after-50l2)
+- [React Forms: Controlled vs Uncontrolled Components — A Complete Guide](https://dev.to/laiba-abbas-123/react-forms-controlled-vs-uncontrolled-components-a-complete-guide-35mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
