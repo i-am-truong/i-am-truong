@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use AWS Bedrock Guardrails to Minimize Input Token Count](https://dev.to/shaistaaman/how-to-use-aws-bedrock-guardrails-to-minimize-input-token-count-2nhg)
+- [TCP Optimization Techniques for Web Server Performance&lpar;8052&rpar;](https://dev.to/ltpp_universe/tcp-optimization-techniques-for-web-server-performance8052-2l3e)
 - [Ultimate Optimization of Lightweight Server Architecture&lpar;8182&rpar;](https://dev.to/ltpp_universe/ultimate-optimization-of-lightweight-server-architecture8182-149p)
 - [GetContent - Enviando resumo de notícias por e-mail](https://dev.to/cassunde/getcontent-enviando-resumo-de-noticias-por-e-mail-1mic)
 - [GetContent - Enviando resumo de notícias por e-mail](https://dev.to/cassunde/getcontent-enviando-resumo-de-noticias-por-e-mail-50k3)
-- [BST - the end in sight?](https://dev.to/codecara/bst-the-end-in-sight-4ebm)
-- [Starfield Coming Soon Page | Cinematic Canvas &amp; Countdown](https://dev.to/musa379/starfield-coming-soon-page-cinematic-canvas-countdown-4488)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
