@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use AWS Bedrock Guardrails to Minimize Input Token Count](https://dev.to/shaistaaman/how-to-use-aws-bedrock-guardrails-to-minimize-input-token-count-2nhg)
-- [TCP Optimization Techniques for Web Server Performance&lpar;8052&rpar;](https://dev.to/ltpp_universe/tcp-optimization-techniques-for-web-server-performance8052-2l3e)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;8182&rpar;](https://dev.to/ltpp_universe/ultimate-optimization-of-lightweight-server-architecture8182-149p)
-- [GetContent - Enviando resumo de notícias por e-mail](https://dev.to/cassunde/getcontent-enviando-resumo-de-noticias-por-e-mail-1mic)
-- [GetContent - Enviando resumo de notícias por e-mail](https://dev.to/cassunde/getcontent-enviando-resumo-de-noticias-por-e-mail-50k3)
+- [Cozy Up with the Command Line on a PC](https://dev.to/theoriginalbpc/cozy-up-with-the-command-line-on-a-pc-9j8)
+- [Concurrency Mastery Through Advanced Async Programming&lpar;8530&rpar;](https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming8530-m5i)
+- [Proxy DataFast with Firebase Hosting](https://dev.to/eugene_gusarov/proxy-datafast-with-firebase-hosting-4552)
+- [Hulo is here](https://dev.to/hul0/hulo-is-here-1off)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;8586&rpar;](https://dev.to/ltpp_universe/http-request-processing-with-zero-copy-optimization8586-1om9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
