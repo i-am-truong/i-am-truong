@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Is Bad at Random](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-is-bad-at-random-2cn4)
-- [COLORS: Rodney Chrome | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-a-colors-show-4knn)
-- [Translating Business Needs into Technical Solutions](https://dev.to/igorfragadev/translating-business-needs-into-technical-solutions-3gld)
-- [GPT-5 Finally Arrives](https://dev.to/sathish/gpt-5-finally-arrives-4m11)
-- [Understanding Why LLMs Respond the Way They Do with Reverse Mechanistic Localization](https://dev.to/rijultp/understanding-why-llms-respond-the-way-they-do-with-reverse-mechanistic-localization-3381)
+- [Tasklin, a Python CLI to run multiple AI models](https://dev.to/jetroni/tasklin-a-python-cli-to-run-multiple-ai-models-2ik2)
+- [Dipping into Dapr Agentic Workflows](https://dev.to/kaiwalter/dipping-into-dapr-agentic-workflows-fbi)
+- [Collateral-Free Growth: How Credit Guarantee Schemes Empower Women Entrepreneurs](https://dev.to/gov01/collateral-free-growth-how-credit-guarantee-schemes-empower-women-entrepreneurs-p7g)
+- [How Intlayer helps to speed up i18n](https://dev.to/pratap360/how-intlayer-helps-to-speed-up-i18n-4mh2)
+- [Criando chatbots avançados](https://dev.to/lucaspereiradesouzat/criando-chatbots-avancados-53ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
