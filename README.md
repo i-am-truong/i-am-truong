@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solidity Mappings type](https://dev.to/loading_blocks/solidity-mappings-type-3jie)
-- [New Choice for Cross-Platform Web Service Development&lpar;0027&rpar;](https://dev.to/ltpp_universe/new-choice-for-cross-platform-web-service-development0027-1fb0)
-- [Edge AI: 7 Incredible Reasons the Jetson Orin Nano is a Game-Changer](https://dev.to/zulnourain_muhammad_4026c/edge-ai-7-incredible-reasons-the-jetson-orin-nano-is-a-game-changer-46lm)
-- [The Precision Revolution - Unlocking Structured Output from LLMs](https://dev.to/vishva_murthy_4480fcb3d83/the-precision-revolution-unlocking-structured-output-from-llms-1nmn)
-- [High-Performance Routing System Design and Implementation&lpar;7541&rpar;](https://dev.to/ltpp_universe/high-performance-routing-system-design-and-implementation7541-4215)
+- [Weekly Challenge: Perl has classes now 👍](https://dev.to/simongreennet/weekly-challenge-perl-has-classes-now-4n8e)
+- [Day 68: When One Conversation Changes Everything](https://dev.to/casperday11/day-68-when-one-conversation-changes-everything-2j37)
+- [🚀 Day 18 of My Data Analytics Journey !](https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1)
+- [The Hidden Engineering Behind Building Massive Software Images](https://dev.to/priyanshuverma/the-hidden-engineering-behind-building-massive-software-images-6j6)
+- [Fixing Bluetooth Issues in Kali Linux](https://dev.to/sivolko/fixing-bluetooth-issues-in-kali-linux-3enn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
