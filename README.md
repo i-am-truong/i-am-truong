@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [sveltekit check error](https://dev.to/suzulabo/check-error-549p)
-- [Hands-On with Azure: Creating and Managing Resource Groups](https://dev.to/adeyemo/hands-on-with-azure-creating-and-managing-resource-groups-30b6)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;1106&rpar;](https://dev.to/ltpp_universe/design-philosophy-of-zero-dependency-web-framework1106-33pm)
-- [From Go-To to Outgrown: Why Bootstrap Isn’t the First Choice for Devs in 2025](https://dev.to/themewagon/from-go-to-to-outgrown-why-bootstrap-isnt-the-first-choice-for-devs-in-2025-3lh2)
-- [Newbie Coder &amp; Anime Enthusiast Reporting for Duty! 🚀👾](https://dev.to/hvitoo/newbie-coder-anime-enthusiast-reporting-for-duty-1pkd)
+- [5 Things I Wish I Knew Earlier When Self-Studying Programming &lpar;Especially #5&rpar;](https://dev.to/stackovermaw/5-things-i-wish-i-knew-earlier-when-self-studying-programming-especially-5-3e3n)
+- [The Definitive React 19 useCallback Guide — Patterns, Pitfalls, and Performance Wins](https://dev.to/a1guy/the-definitive-react-19-usecallback-guide-patterns-pitfalls-and-performance-wins-ce4)
+- [Context Management and Request Lifecycle Optimization&lpar;5664&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5664-3gi9)
+- [&quot;Container&quot; with OCI runtime](https://dev.to/kination/container-with-oci-runtime-1m3g)
+- [Primum nil nocere in PHP: First, Do No Harm](https://dev.to/dobrenteiistvan/primum-nil-nocere-in-php-first-do-no-harm-46pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
