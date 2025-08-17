@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between .NET Core and .NET Framework?](https://dev.to/fullstackprepdev_sda_d43a/what-is-the-difference-between-net-core-and-net-framework-49g)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;9891&rpar;](https://dev.to/ltpp_universe/design-philosophy-of-zero-dependency-web-framework9891-3ig7)
-- [Programming is becoming prompting](https://dev.to/wfdin/-4hoc)
-- [`Object` Methods](https://dev.to/anthonybanion/object-methods-5b4b)
-- [Automating Browser-Based Performance Testing](https://dev.to/leading-edje/automating-browser-based-performance-testing-1n6)
+- [Understanding Why LLMs Respond the Way They Do with Reverse Mechanistic Localization](https://dev.to/rijultp/understanding-why-llms-respond-the-way-they-do-with-reverse-mechanistic-localization-3381)
+- [Join the challenge](https://dev.to/appyspaces/-g9n)
+- [AI Database Schema Generator: From Common Headaches to Effortless Design](https://dev.to/elisabeth_green_22e58f3db/ai-database-schema-generator-from-common-headaches-to-effortless-design-2kec)
+- [Are SQL vs NoSQL Databases different? : Key Differences Every Developer Should Know](https://dev.to/fullstackprepdev_sda_d43a/are-sql-vs-nosql-databases-different-key-differences-every-developer-should-know-1pf4)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;9479&rpar;](https://dev.to/ltpp_universe/dynamic-routing-systems-for-scalable-web-applications9479-m27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
