@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Comet Review: The First True AI-Native Browser?](https://dev.to/myopicoracle/comet-review-the-first-true-ai-native-browser-3e26)
-- [☁️ Part-8: Google Cloud SDK: The gcloud Command-line Tool in GCP](https://dev.to/latchudevops/part-8-google-cloud-sdk-the-gcloud-command-line-tool-in-gcp-532a)
-- [Rust Implementation for High Concurrency Processing&lpar;8840&rpar;](https://dev.to/ltpp_universe/rust-implementation-for-high-concurrency-processing8840-57ll)
-- [10 Latest GitHub Repos for AI Engineers in 2025](https://dev.to/forgecode/10-latest-github-repos-for-ai-engineers-in-2025-54b1)
-- [High-Performance Routing System Design and Implementation&lpar;6225&rpar;](https://dev.to/ltpp_universe/high-performance-routing-system-design-and-implementation6225-56g7)
+- [Your API is Cute, But Where&#39;s the Reliability Layer?](https://dev.to/dhaval_agrvat_6e65394a83/your-api-is-cute-but-wheres-the-reliability-layer-54go)
+- [Why Join Exponent for Coding Interview Prep?](https://dev.to/somadevtoo/why-join-exponent-for-coding-interview-prep-31li)
+- [Elegant Middleware Architecture Implementation&lpar;5785&rpar;](https://dev.to/ltpp_universe/elegant-middleware-architecture-implementation5785-h7k)
+- [Vibe Coding and the New Era of Software: From “How” to “What”](https://dev.to/yadellopez/vibe-coding-and-the-new-era-of-software-from-how-to-what-2fa5)
+- [Asynchronous Programming Patterns for Web Development&lpar;2721&rpar;](https://dev.to/ltpp_universe/asynchronous-programming-patterns-for-web-development2721-390n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
