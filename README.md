@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [bindableとno-unnecessary-condition](https://dev.to/suzulabo/bindabletono-unnecessary-condition-36kb)
 - [Rust Async Web Framework Performance Breakthrough&lpar;6240&rpar;](https://dev.to/ltpp_universe/rust-async-web-framework-performance-breakthrough6240-2bob)
 - [API Development Best Practices: Building Secure and Scalable APIs](https://dev.to/okoye_ndidiamaka_5e3b7d30/api-development-best-practices-building-secure-and-scalable-apis-4oa3)
 - [no-deprecatedのすり抜け](https://dev.to/suzulabo/no-deprecatednosuriba-ke-k06)
 - [state_referenced_locally](https://dev.to/suzulabo/statereferencedlocally-18pn)
-- [🔧 Why Most Refactors Fail — And How to Fix Them](https://dev.to/amirsaeed_skomjani/why-most-refactors-fail-and-how-to-fix-them-3adj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
