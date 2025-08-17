@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Pain Points to Productivity: Overcoming Angular Team Challenges](https://dev.to/karol_modelski/from-pain-points-to-productivity-overcoming-angular-team-challenges-3gk0)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;4151&rpar;](https://dev.to/ltpp_universe/memory-safety-meets-extreme-performance-in-web-servers4151-54mj)
 - [Concurrency Mastery Through Advanced Async Programming&lpar;0026&rpar;](https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming0026-3cbj)
 - [Vibe Coding and the MVP Revolution: Buy Back Your Time, Impress Investors](https://dev.to/yadellopez/vibe-coding-and-the-mvp-revolution-buy-back-your-time-impress-investors-1749)
 - [Zero-Dependency Architecture for Maximum Performance&lpar;7981&rpar;](https://dev.to/ltpp_universe/zero-dependency-architecture-for-maximum-performance7981-1ac3)
-- [Your API is Cute, But Where&#39;s the Reliability Layer?](https://dev.to/dhaval_agrvat_6e65394a83/your-api-is-cute-but-wheres-the-reliability-layer-2d2h)
-- [Why Join Exponent for Coding Interview Prep?](https://dev.to/somadevtoo/why-join-exponent-for-coding-interview-prep-31li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
