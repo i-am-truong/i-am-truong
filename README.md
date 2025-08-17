@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RisingWave: Simplify Your Stream Processing with this Game-Changing Platform](https://dev.to/githubopensource/risingwave-simplify-your-stream-processing-with-this-game-changing-platform-141l)
-- [Amphibian SEO – A Next.js App Router-first SEO Toolkit](https://dev.to/horroramphibian/amphibian-seo-a-nextjs-app-router-first-seo-toolkit-4jbo)
-- [Why I Built YooAI — An AI Platform Without Subscriptions](https://dev.to/_af1eb8cb8faab148e10b3c/why-i-built-yooai-an-ai-platform-without-subscriptions-3dk6)
-- [I made a language where the only command is “i use arch btw” 🤯](https://dev.to/tikrack_0b5ca7f793d07d3db/i-made-a-language-where-the-only-command-is-i-use-arch-btw-1ho4)
-- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;0035&rpar;](https://dev.to/ltpp_universe/revolutionary-performance-breakthrough-in-modern-web-development0035-kfc)
+- [OpenAI SDK vs Direct API Calls: What 6 Months of Building AI Agents Taught Me](https://dev.to/dpelleri/openai-sdk-vs-direct-api-calls-what-6-months-of-building-ai-agents-taught-me-15bd)
+- [Automate Your Work with n8n](https://dev.to/abdlrhman_abdlrahim/automate-your-work-with-n8n-3fop)
+- [Rust Implementation for High Concurrency Processing&lpar;8897&rpar;](https://dev.to/ltpp_universe/rust-implementation-for-high-concurrency-processing8897-3foh)
+- [My DevOps Journey - Understanding the Why and Linux Fundamentals](https://dev.to/guptem/my-devops-journey-understanding-the-why-and-linux-fundamentals-140i)
+- [Symfony Station Communiqué - Stardate: ✦ 15 August 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-15-august-2025-the-latest-symfony-drupal-typo3-and-132h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
