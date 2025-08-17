@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Efficient WebSocket Server-Side Processing&lpar;1297&rpar;](https://dev.to/ltpp_universe/efficient-websocket-server-side-processing1297-1k6i)
-- [The One Skill Every Engineer Needs That Isn’t Taught in Bootcamps](https://dev.to/akum_acha_2519d3ec8cd1514/the-one-skill-every-engineer-needs-that-isnt-taught-in-bootcamps-3cb5)
-- [Why Does Google Gemini&#39;s New Memory Feature Matter for Your Daily Workflow?](https://dev.to/jovin_george_733dcfc16291/why-does-google-geminis-new-memory-feature-matter-for-your-daily-workflow-18hg)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;0860&rpar;](https://dev.to/ltpp_universe/latency-optimization-secrets-for-millisecond-response-times0860-18k8)
-- [[$19/month] I Love Amazon Q Developer CLI &lpar;Price Increase After September?&rpar;](https://dev.to/torifukukaiou/19month-i-love-amazon-q-developer-cli-price-increase-after-september-jha)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;9891&rpar;](https://dev.to/ltpp_universe/design-philosophy-of-zero-dependency-web-framework9891-3ig7)
+- [Programming is becoming prompting](https://dev.to/wfdin/-4hoc)
+- [`Object` Methods](https://dev.to/anthonybanion/object-methods-5b4b)
+- [Automating Browser-Based Performance Testing](https://dev.to/leading-edje/automating-browser-based-performance-testing-1n6)
+- [7 Essential AI-Powered WordPress Plugins for Building a Professional Website](https://dev.to/regallery_plugin/7-essential-ai-powered-wordpress-plugins-for-building-a-professional-website-2gbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
