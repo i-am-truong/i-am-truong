@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the difference between .NET Core and .NET Framework?](https://dev.to/fullstackprepdev_sda_d43a/what-is-the-difference-between-net-core-and-net-framework-49g)
 - [Design Philosophy of Zero-Dependency Web Framework&lpar;9891&rpar;](https://dev.to/ltpp_universe/design-philosophy-of-zero-dependency-web-framework9891-3ig7)
 - [Programming is becoming prompting](https://dev.to/wfdin/-4hoc)
 - [`Object` Methods](https://dev.to/anthonybanion/object-methods-5b4b)
 - [Automating Browser-Based Performance Testing](https://dev.to/leading-edje/automating-browser-based-performance-testing-1n6)
-- [7 Essential AI-Powered WordPress Plugins for Building a Professional Website](https://dev.to/regallery_plugin/7-essential-ai-powered-wordpress-plugins-for-building-a-professional-website-2gbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
