@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [𝗔𝘇𝘂𝗿𝗲 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗥𝗲𝗽𝗹𝗮𝗰𝗲𝘀 𝗩𝗶𝗱𝗲𝗼 𝗖𝗮𝗹𝗹 𝗖𝗵𝗮𝗼𝘀](https://dev.to/supraja_tangella_b7f0738e/-5ie)
+- [Project Management for Software Engineers: From Chaos to Clarity](https://dev.to/parizad/project-management-for-software-engineers-from-chaos-to-clarity-4b7f)
 - [Why I Built a Community That Destroys Bad Ideas in such a way they grow](https://dev.to/casperday11/why-i-built-a-community-that-destroys-bad-ideas-in-such-a-way-they-grow-1e80)
 - [🐧 My First Day with Linux: A Story About Talking to the Terminal](https://dev.to/sriram_bharath/my-first-day-with-linux-a-story-about-talking-to-the-terminal-440b)
 - [The Amazing Story of Kubernetes: How Google Changed the World of Cloud Computing](https://dev.to/visy_ani/the-amazing-story-of-kubernetes-how-google-changed-the-world-of-cloud-computing-2g3k)
-- [Application of Async Programming in Web Development&lpar;0344&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development0344-56nd)
-- [Best Practices &amp; HTML Style Guide: Writing Clean, Maintainable, and Effective HTML](https://dev.to/sharique_siddiqui_8242dad/best-practices-html-style-guide-writing-clean-maintainable-and-effective-html-3c8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
