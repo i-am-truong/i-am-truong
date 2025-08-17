@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Comet Review: The First True AI-Native Browser?](https://dev.to/myopicoracle/comet-review-the-first-true-ai-native-browser-3e26)
+- [☁️ Part-8: Google Cloud SDK: The gcloud Command-line Tool in GCP](https://dev.to/latchudevops/part-8-google-cloud-sdk-the-gcloud-command-line-tool-in-gcp-532a)
+- [Rust Implementation for High Concurrency Processing&lpar;8840&rpar;](https://dev.to/ltpp_universe/rust-implementation-for-high-concurrency-processing8840-57ll)
 - [10 Latest GitHub Repos for AI Engineers in 2025](https://dev.to/forgecode/10-latest-github-repos-for-ai-engineers-in-2025-54b1)
-- [Decoding the Detective Work: Understanding Model Evaluation Metrics for Classification](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-detective-work-understanding-model-evaluation-metrics-for-classification-39je)
-- [Part-7: 🚀 Getting Started with Google Cloud Shell &lpar;GCP&rpar;](https://dev.to/latchudevops/part-7-getting-started-with-google-cloud-shell-gcp-2bc4)
-- [The Ultimate Beginner’s Guide to React useContext &lpar;With Real-World Patterns &amp; Pitfalls&rpar;](https://dev.to/a1guy/the-ultimate-beginners-guide-to-react-usecontext-with-real-world-patterns-pitfalls-4d2h)
-- [The Modular AI Hack That Lets Indie Devs Launch Businesses Overnight](https://dev.to/owly/the-modular-ai-hack-that-lets-indie-devs-launch-businesses-overnight-4mkh)
+- [High-Performance Routing System Design and Implementation&lpar;6225&rpar;](https://dev.to/ltpp_universe/high-performance-routing-system-design-and-implementation6225-56g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
