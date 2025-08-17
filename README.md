@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Script automation explained – what it is, tools, benefits, and real examples](https://dev.to/cloudray/script-automation-explained-what-it-is-tools-benefits-and-real-examples-1mg4)
+- [Application of Async Programming in Web Development&lpar;6619&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development6619-22k9)
+- [📸 SnipMaster: Instantly Turn Screenshots into Editable Code](https://dev.to/sebastiandevelops/snipmaster-instantly-turn-screenshots-into-editable-code-4li3)
+- [JavaScript Arrays](https://dev.to/anthonybanion/javascript-arrays-4h94)
 - [Tasklin, a Python CLI to run multiple AI models](https://dev.to/jetroni/tasklin-a-python-cli-to-run-multiple-ai-models-2ik2)
-- [Dipping into Dapr Agentic Workflows](https://dev.to/kaiwalter/dipping-into-dapr-agentic-workflows-fbi)
-- [Collateral-Free Growth: How Credit Guarantee Schemes Empower Women Entrepreneurs](https://dev.to/gov01/collateral-free-growth-how-credit-guarantee-schemes-empower-women-entrepreneurs-p7g)
-- [How Intlayer helps to speed up i18n](https://dev.to/pratap360/how-intlayer-helps-to-speed-up-i18n-4mh2)
-- [Criando chatbots avançados](https://dev.to/lucaspereiradesouzat/criando-chatbots-avancados-53ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
