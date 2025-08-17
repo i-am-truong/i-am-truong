@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 27: Jenkins Declarative Pipeline with Docker](https://dev.to/udoh_deborah_b1e484c474bf/day-27-jenkins-declarative-pipeline-with-docker-1e77)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;8554&rpar;](https://dev.to/ltpp_universe/resource-management-and-memory-efficiency-in-web-servers8554-27a)
-- [UCP: AI Reasoning Enhancement Through Bias Elimination - Open Source Release](https://dev.to/oscarlawrence/ucp-ai-reasoning-enhancement-through-bias-elimination-open-source-release-4719)
-- [Day 8-9 of My React Journey — React Router Basics](https://dev.to/usman_butt_dev/day-8-9-of-my-react-journey-react-router-basics-3cbe)
-- [Say Goodbye to Try-Catch Blocks Forever!](https://dev.to/andreas_nicolaou_b3b60f17/say-goodbye-to-try-catch-blocks-forever-1em4)
+- [How to See Console.WriteLine Output in Visual Studio 2022](https://dev.to/pexlkeys/how-to-see-consolewriteline-output-in-visual-studio-2022-o4n)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;3357&rpar;](https://dev.to/ltpp_universe/latency-optimization-secrets-for-millisecond-response-times3357-50hd)
+- [Choosing the Right Stack in 2025. When AI Feels Like It&#39;s Taking Over](https://dev.to/wardaowais/choosing-the-right-stack-in-2025-when-ai-feels-like-its-taking-over-2h7a)
+- [The Brutal Reality of the Current Data Engineering Job Market](https://dev.to/grayhat/the-brutal-reality-of-the-current-data-engineering-job-market-156d)
+- [Middleware Architecture Patterns for Request Processing&lpar;8706&rpar;](https://dev.to/ltpp_universe/middleware-architecture-patterns-for-request-processing8706-1jaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
