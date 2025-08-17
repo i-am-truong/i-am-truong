@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlock LLM Precision: Master Structured Output with Pydantic and Instructor](https://dev.to/vishva_murthy_4480fcb3d83/unlock-llm-precision-master-structured-output-with-pydantic-and-instructor-2jpp)
-- [Modern Server-Side Event Implementation&lpar;8451&rpar;](https://dev.to/ltpp_universe/modern-server-side-event-implementation8451-4nle)
-- [Why I Built a Community That Destroys Bad Ideas and makes those ideas better](https://dev.to/casperday11/why-i-built-a-community-that-destroys-bad-ideas-and-makes-those-ideas-better-2ee5)
-- [Weekly Challenge: Perl has classes now 👍](https://dev.to/simongreennet/weekly-challenge-perl-has-classes-now-4n8e)
-- [Day 68: When One Conversation Changes Everything](https://dev.to/casperday11/day-68-when-one-conversation-changes-everything-2j37)
+- [Gemma 3 270M: The Ultimate Guide to Compact AI Power](https://dev.to/vishva_murthy_4480fcb3d83/gemma-3-270m-the-ultimate-guide-to-compact-ai-power-fmm)
+- [Elegant Middleware Architecture Implementation&lpar;3190&rpar;](https://dev.to/ltpp_universe/elegant-middleware-architecture-implementation3190-m0e)
+- [Mastering Asynchronous Programming in Python: A Beginner-Friendly Guide](https://dev.to/fludapp/mastering-asynchronous-programming-in-python-a-beginner-friendly-guide-lm)
+- [MemU: Memory that works everywhere](https://dev.to/pratikmahalle/memu-the-game-changer-for-digital-companions-27kh)
+- [Generative AI: Under the hood](https://dev.to/yash_softeng/generative-ai-under-the-hood-208)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
