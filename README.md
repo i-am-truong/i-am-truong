@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laura Kampf: I invited 400 people to my shop and sold EVERYTHING](https://dev.to/maker_youtube/laura-kampf-i-invited-400-people-to-my-shop-and-sold-everything-1o7k)
-- [HTTP Response Optimization and Streaming Techniques&lpar;1023&rpar;](https://dev.to/ltpp_universe/http-response-optimization-and-streaming-techniques1023-26ae)
-- [Enhancing Domain-Specific Knowledge Graph Reasoning via Metapath-Based Large Model Prompt Learning](https://dev.to/tutti/enhancing-domain-specific-knowledge-graph-reasoning-via-metapath-based-large-model-prompt-learning-4cog)
-- [WebSocket Revolution in Real-Time Communication&lpar;9388&rpar;](https://dev.to/ltpp_universe/websocket-revolution-in-real-time-communication9388-d95)
-- [OpenAI SDK vs Direct API Calls: What 6 Months of Building AI Agents Taught Me](https://dev.to/dpelleri/openai-sdk-vs-direct-api-calls-what-6-months-of-building-ai-agents-taught-me-15bd)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;0860&rpar;](https://dev.to/ltpp_universe/latency-optimization-secrets-for-millisecond-response-times0860-18k8)
+- [[$19/month] I Love Amazon Q Developer CLI &lpar;Price Increase After September?&rpar;](https://dev.to/torifukukaiou/19month-i-love-amazon-q-developer-cli-price-increase-after-september-jha)
+- [The Invisible Optimization That Sped Up the Web: How V8 Supercharged JSON.stringify](https://dev.to/figsify/the-invisible-optimization-that-sped-up-the-web-how-v8-supercharged-jsonstringify-ke9)
+- [LLMOps in 2025: The Latest Trends and Best Practices for Production-Ready AI](https://dev.to/gangatharan_gurusamy_22fb/llmops-in-2025-the-latest-trends-and-best-practices-for-production-ready-ai-20lo)
+- [📦 Storage Management in Linux: Partitioning Schemes and Commands](https://dev.to/sahillearninglinux/storage-management-in-linux-partitioning-schemes-and-commands-2fdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
