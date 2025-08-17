@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Pain Points to Productivity: Overcoming Angular Team Challenges](https://dev.to/karol_modelski/from-pain-points-to-productivity-overcoming-angular-team-challenges-3gk0)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;4151&rpar;](https://dev.to/ltpp_universe/memory-safety-meets-extreme-performance-in-web-servers4151-54mj)
-- [Concurrency Mastery Through Advanced Async Programming&lpar;0026&rpar;](https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming0026-3cbj)
-- [Vibe Coding and the MVP Revolution: Buy Back Your Time, Impress Investors](https://dev.to/yadellopez/vibe-coding-and-the-mvp-revolution-buy-back-your-time-impress-investors-1749)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;7981&rpar;](https://dev.to/ltpp_universe/zero-dependency-architecture-for-maximum-performance7981-1ac3)
+- [iOS PWAのスコープ](https://dev.to/suzulabo/ios-pwanosukopu-41oh)
+- [Modern Server-Side Event Implementation&lpar;0822&rpar;](https://dev.to/ltpp_universe/modern-server-side-event-implementation0822-5377)
+- [New Choice for Cross-Platform Web Service Development&lpar;8839&rpar;](https://dev.to/ltpp_universe/new-choice-for-cross-platform-web-service-development8839-4c7j)
+- [global vs nonlocal in Python](https://dev.to/hyperkai/global-vs-nonlocal-in-python-1kbe)
+- [Azure Cognitive Services](https://dev.to/godofgeeks/azure-cognitive-services-pfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
