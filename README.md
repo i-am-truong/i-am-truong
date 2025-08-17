@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Efficient WebSocket Server-Side Processing&lpar;1297&rpar;](https://dev.to/ltpp_universe/efficient-websocket-server-side-processing1297-1k6i)
+- [The One Skill Every Engineer Needs That Isn’t Taught in Bootcamps](https://dev.to/akum_acha_2519d3ec8cd1514/the-one-skill-every-engineer-needs-that-isnt-taught-in-bootcamps-3cb5)
+- [Why Does Google Gemini&#39;s New Memory Feature Matter for Your Daily Workflow?](https://dev.to/jovin_george_733dcfc16291/why-does-google-geminis-new-memory-feature-matter-for-your-daily-workflow-18hg)
 - [Latency Optimization Secrets for Millisecond Response Times&lpar;0860&rpar;](https://dev.to/ltpp_universe/latency-optimization-secrets-for-millisecond-response-times0860-18k8)
 - [[$19/month] I Love Amazon Q Developer CLI &lpar;Price Increase After September?&rpar;](https://dev.to/torifukukaiou/19month-i-love-amazon-q-developer-cli-price-increase-after-september-jha)
-- [The Invisible Optimization That Sped Up the Web: How V8 Supercharged JSON.stringify](https://dev.to/figsify/the-invisible-optimization-that-sped-up-the-web-how-v8-supercharged-jsonstringify-ke9)
-- [LLMOps in 2025: The Latest Trends and Best Practices for Production-Ready AI](https://dev.to/gangatharan_gurusamy_22fb/llmops-in-2025-the-latest-trends-and-best-practices-for-production-ready-ai-20lo)
-- [📦 Storage Management in Linux: Partitioning Schemes and Commands](https://dev.to/sahillearninglinux/storage-management-in-linux-partitioning-schemes-and-commands-2fdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
