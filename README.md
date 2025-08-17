@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Project Outline Format for Success](https://dev.to/fluidwave/mastering-the-project-outline-format-for-success-56b8)
-- [What have you been listening to lately?](https://dev.to/highcenburg/what-have-you-been-listening-to-lately-2d37)
-- [Solidity arithmetic and type conversion](https://dev.to/loading_blocks/solidity-arithmetic-and-type-conversion-5bc3)
-- [[Boost]](https://dev.to/ryszardo303/-5d7l)
-- [Baby AI Videos: The New Craze in Digital Creativity](https://dev.to/aaronyu/baby-ai-videos-the-new-craze-in-digital-creativity-2852)
+- [Newbie Coder &amp; Anime Enthusiast Reporting for Duty! 🚀👾](https://dev.to/hvitoo/newbie-coder-anime-enthusiast-reporting-for-duty-1pkd)
+- [🍝 Spaghetti Code: Why Your App Breaks When You Touch One Line](https://dev.to/idioseph/spaghetti-code-why-your-app-breaks-when-you-touch-one-line-4n9g)
+- [Middleware Architecture Patterns for Request Processing&lpar;8872&rpar;](https://dev.to/ltpp_universe/middleware-architecture-patterns-for-request-processing8872-1da5)
+- [Recovering Locked S3 Buckets in AWS Organizations using AssumeRoot](https://dev.to/aws-builders/recovering-locked-s3-buckets-in-aws-organizations-using-assumeroot-50o)
+- [From Side Projects to Sustainable Products: My Next Step 🚀](https://dev.to/ghostface-cyber-security/from-side-projects-to-sustainable-products-my-next-step-3en1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
