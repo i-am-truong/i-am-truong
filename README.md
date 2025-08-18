@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Functional Components in React](https://dev.to/nouribram/functional-components-in-react-33g)
-- [How Beginners Can Use AI Without Becoming Dependent On It](https://dev.to/anibalcoding/how-beginners-can-use-ai-without-becoming-dependent-on-it-i4a)
-- [ShadCN, Sanity and Clerk](https://dev.to/satya_venna_1994/shadcn-sanity-and-clerk-1cdc)
-- [GoogleSignIn Macos - Flutter](https://dev.to/infms/googlesignin-macos-flutter-24fo)
-- [Build your own Posthog - PART 1](https://dev.to/infms/build-your-own-posthog-part-1-1dof)
+- [1 RN Thing a Day – Day 9: Animated API](https://dev.to/ola_1313/1-rn-thing-a-day-day-9-animated-api-2i72)
+- [How to Automate Installing Windows Apps](https://dev.to/ahmedaidev/how-to-automate-installing-windows-apps-4kp8)
+- [GeometryReader in SwiftUI: From UIKit Frames to Declarative Layouts](https://dev.to/arshtechpro/geometryreader-in-swiftui-from-uikit-frames-to-declarative-layouts-2kip)
+- [The Python Learning Journey: From Beginner Confusion to Advanced Mastery](https://dev.to/jason_dev/the-python-learning-journey-from-beginner-confusion-to-advanced-mastery-1hj3)
+- [Stop Misusing Eloquent: get&lpar;&rpar; vs all&lpar;&rpar; - When to Use Which &lpar;and Why&rpar;](https://dev.to/tahsin000/stop-misusing-eloquent-get-vs-all-when-to-use-which-and-why-10cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
