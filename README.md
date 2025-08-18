@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode 283: Move Zeroes](https://dev.to/tochi_/leetcode-283-move-zeroes-3g9d)
-- [Introducing Gaia Toolkit: How to use it and why](https://dev.to/gaiaai/introducing-gaia-toolkit-how-to-use-it-and-why-26ko)
-- [A Developer’s Journey to the Cloud 4: Caching with Redis](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-4-caching-with-redis-3h8k)
-- [HEY!! Don&#39;t Burnout 🤗](https://dev.to/iamdavidjames/hey-dont-burnout-2p61)
-- [AI was supposed to save us time. Instead, we&#39;re typing more than ever](https://dev.to/moinulmoin/ai-was-supposed-to-save-us-time-instead-were-typing-more-than-ever-ch2)
+- [Static Site Generation &lpar;SSG&rpar; in Web Development](https://dev.to/hillaryprosper_wahua_604/static-site-generation-ssg-in-web-development-47ld)
+- [Building DevGuard AI Copilot with Kiro — Our Hackathon Journey #kiro #flutter #supabase #hackathon](https://dev.to/narisetti_chaitanyanaidu/building-devguard-ai-copilot-with-kiro-our-hackathon-journeykiro-flutter-supabase-hackathon-2aml)
+- [DOM Manipulation](https://dev.to/code_2/dom-manipulation-6e1)
+- [How to Speed Up Pull Requests: 5 Tactics for Faster Reviews](https://dev.to/pantoai/how-to-reduce-pull-request-cycle-time-5-proven-strategies-for-faster-code-reviews-fic)
+- [Building Secure Real-Time Chat with RSA + AES Hybrid Encryption](https://dev.to/artem_turlenko/building-secure-real-time-chat-with-rsa-aes-hybrid-encryption-41di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
