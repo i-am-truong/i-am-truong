@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [1 RN Thing a Day – Day 9: Animated API](https://dev.to/ola_1313/1-rn-thing-a-day-day-9-animated-api-2i72)
-- [How to Automate Installing Windows Apps](https://dev.to/ahmedaidev/how-to-automate-installing-windows-apps-4kp8)
-- [GeometryReader in SwiftUI: From UIKit Frames to Declarative Layouts](https://dev.to/arshtechpro/geometryreader-in-swiftui-from-uikit-frames-to-declarative-layouts-2kip)
-- [The Python Learning Journey: From Beginner Confusion to Advanced Mastery](https://dev.to/jason_dev/the-python-learning-journey-from-beginner-confusion-to-advanced-mastery-1hj3)
-- [Stop Misusing Eloquent: get&lpar;&rpar; vs all&lpar;&rpar; - When to Use Which &lpar;and Why&rpar;](https://dev.to/tahsin000/stop-misusing-eloquent-get-vs-all-when-to-use-which-and-why-10cn)
+- [Day 002 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-002-of-my-journey-to-becoming-a-css-pro-with-keith-grant-33bh)
+- [Building Strands Agents with a few lines of code: Observability and with Langfuse](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-observability-and-with-langfuse-4bc4)
+- [Descobrindo a fonte utilizada em um site e aplicando ela ao seu projeto Tailwind 4.0/Rails](https://dev.to/dominiquemorem/descobrindo-a-fonte-utilizada-em-um-site-e-aplicando-ela-ao-seu-projeto-tailwind-40rails-3m5d)
+- [Day 29: Jenkins Interview Questions](https://dev.to/udoh_deborah_b1e484c474bf/day-29-jenkins-interview-questions-3i1i)
+- [Laravel SQL Injection Prevention: Best Practices to Secure Your PHP Applications](https://dev.to/devtalk94/laravel-sql-injection-prevention-best-practices-to-secure-your-php-applications-2o7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
