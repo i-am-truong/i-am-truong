@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Would You Use a &quot;Smart Boilerplate Generator&quot; for Frameworks?](https://dev.to/asar109/would-you-use-a-smart-boilerplate-generator-for-frameworks-176m)
-- [3-How to install TypeScript](https://dev.to/cgithub123/3-how-to-install-typescript-33ko)
-- [Learning regex is hard, so I made a drag-and-drop regex builder](https://dev.to/nestforge/learning-regex-is-hard-so-i-made-a-drag-and-drop-regex-builder-5hll)
-- [Koffee - Beautiful Transient Toasts for Jetpack Compose](https://dev.to/donaldokara/koffee-beautiful-transient-toasts-for-jetpack-compose-297i)
-- [Your Own Email Verification SaaS Server](https://dev.to/saad4software/your-own-email-verification-saas-server-4aeh)
+- [NPR Music: Nduduzo Makhathini: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nduduzo-makhathini-tiny-desk-concert-h7p)
+- [Unveiling the Power of Node.js Process Object: Your Gateway to Runtime Control](https://dev.to/vjnvisakh/unveiling-the-power-of-nodejs-process-object-your-gateway-to-runtime-control-59kp)
+- [🚀 How to Set Up a Virtual Host in XAMPP &lpar;C:&rpar; to Run WordPress from Another Drive &lpar;G:&rpar;](https://dev.to/prantomollick/how-to-set-up-a-virtual-host-in-xampp-c-to-run-wordpress-from-another-drive-g-150m)
+- [Expert Guide to Healthy Lifestyle: Tips, Insights,and Steps](https://dev.to/harlan_5ab353c41e0d38ba0f/expert-guide-to-healthy-lifestyle-tips-insightsand-steps-43i8)
+- [Why I Stopped Using React &lpar;And You Should Too&rpar; 🔥](https://dev.to/shiva_shanker_k/why-i-stopped-using-react-and-you-should-too-6lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
