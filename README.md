@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Qwen3-235b-A22b-Instruct-2507 model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen3-235b-a22b-instruct-2507-model-by-qwen-on-replicate-47jc)
-- [Apache Polaris Dev Mailing List — Weekly Digest &lpar;Aug 11–17, 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-mailing-list-weekly-digest-aug-11-17-2025-2adj)
-- [Java Basics: Writing your first program](https://dev.to/cal_afun_2475adb4b562023b/java-basics-writing-your-first-program-fb5)
-- [Netlify Site + HCP Terraform Remote State](https://dev.to/benn1440/netlify-site-hcp-terraform-remote-state-19i0)
-- [COLORS: Rodney Chrome - BBL | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-bbl-a-colors-show-5df6)
+- [NEAR vs Ethereum: Why I Almost Gave Up on Blockchain Development &lpar;But Didn&#39;t&rpar; 😤](https://dev.to/herra_k/near-vs-ethereum-why-i-almost-gave-up-on-blockchain-development-but-didnt-4iad)
+- [🚧 OpenCut:Delta 1.0.0 is Live – Help Us Shape the Final Cut-update-2♥](https://dev.to/opencut/opencutdelta-100-is-live-help-us-shape-the-final-cut-update-2-33ae)
+- [3DR-LLM: Uma Metodologia Quantitativa para a Avaliação Holística de Grandes Modelos de Linguagem](https://dev.to/lucash_ribeiro_dev/3dr-llm-uma-metodologia-quantitativa-para-a-avaliacao-holistica-de-grandes-modelos-de-linguagem-257l)
+- [Rust in 2025: Why Developers Can’t Afford to Ignore It](https://dev.to/arkhan/rust-in-2025-why-developers-cant-afford-to-ignore-it-5cam)
+- [🚀 Epic Adventure: Deploy Your App Across AWS Accounts with Docker &amp; ECR! ✌️](https://dev.to/suvrajeet/epic-adventure-deploy-your-app-across-aws-accounts-with-docker-ecr-m4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
