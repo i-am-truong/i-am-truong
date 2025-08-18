@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS re/Start – My Week 1 Experience](https://dev.to/ijay/aws-restart-my-week-1-experience-182h)
-- [Boring Cybersecurity Theory: Frameworks &lpar;NIST&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-frameworks-nist-5cl5)
-- [EKS Auto Mode: Simplify Kubernetes Operations](https://dev.to/spacelift/eks-auto-mode-simplify-kubernetes-operations-i6g)
-- [WTF is API Gateway Pattern?](https://dev.to/dailybugle33/wtf-is-api-gateway-pattern-55ph)
-- [How to Integrate Jira and Asana &lpar;DEV-Friendly Guide&rpar;](https://dev.to/renata_getint/how-to-integrate-jira-and-asana-dev-friendly-guide-4j94)
+- [Turning a Web App Idea into Reality: My Development Workflow](https://dev.to/junaid18dev/turning-a-web-app-idea-into-reality-my-development-workflow-15n3)
+- [How Many Hours Did That Cost You? A Chrome Extension That Shows the True Price of Online Shopping](https://dev.to/daniele_dapuzzo_935b71312/how-many-hours-did-that-cost-you-a-chrome-extension-that-shows-the-true-price-of-online-shopping-1kfn)
+- [Supercharge Your CDN with Cloudflare Workers](https://dev.to/vitaly_bykov_dd10957baace/supercharge-your-cdn-with-cloudflare-workers-3h43)
+- [Json + gzip vs messagePack - storage benchmark](https://dev.to/nrbnlulu/json-gzip-vs-messagepack-storage-benchmark-2lgj)
+- [Tomcat set Windows cmd title](https://dev.to/fish-404/tomcat-set-windows-cmd-title-1f4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
