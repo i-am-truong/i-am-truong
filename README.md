@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/carlosdamota/-1n18)
+- [E-mails de verificação com AWS SES + Lambda &lpar;Node.js&rpar; e Terraform — do zero ao envio](https://dev.to/sertaoseracloud/e-mails-de-verificacao-com-aws-ses-lambda-nodejs-e-terraform-do-zero-ao-envio-20fo)
 - [DaaS &lpar;Desktop as a Service&rpar;](https://dev.to/programadriano/daas-desktop-as-a-service-5bj9)
 - [Analisis de bloques de codigo en programacion](https://dev.to/devtesseract1/analisis-de-bloques-de-codigo-en-programacion-339k)
 - [X11.Social – Turn Conversations into Posts that Sound Like You](https://dev.to/x11socialmkt/x11social-turn-conversations-into-posts-that-sound-like-you-2151)
-- [Writing Comments in Java: A Beginner&#39;s Guide](https://dev.to/cal_afun_2475adb4b562023b/writing-comments-in-java-a-beginners-guide-2m92)
-- [The Complete Guide to Discriminative vs Generative AI: Evolution, Creativity, and Applications](https://dev.to/usama_ali_a6a59f380053582/the-complete-guide-to-discriminative-vs-generative-ai-evolution-creativity-and-applications-36cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
