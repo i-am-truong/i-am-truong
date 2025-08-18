@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RK3588S2: A High-Performance ARM SoC](https://dev.to/dongpei_liao_8092a14d7c50/rk3588s2-a-high-performance-arm-soc-406l)
-- [Ringer Movies: ‘Sinners’ = An Instant ‘Rewatchable’ | The Rewatchables w/ Bill Simmons, Van Lathan &amp; Wesley Morris](https://dev.to/popcorn_movies/ringer-movies-sinners-an-instant-rewatchable-the-rewatchables-w-bill-simmons-van-lathan-57e4)
-- [Building Command-Line Tools with C# and System.CommandLine](https://dev.to/chakewitz/building-command-line-tools-with-c-and-systemcommandline-gb7)
-- [Using LangGraph.js SDK to create Agents](https://dev.to/buildandcodewithraman/using-langgraphjs-sdk-to-create-agents-494n)
-- [Building Your Own AI Companion: Combining Gaia Node with Jina Embeddings v4 with Late Chunking](https://dev.to/gaiaai/building-your-own-ai-companion-combining-gaia-node-with-jina-embeddings-v4-with-late-chunking-1fm)
+- [7 Underrated Open Source Tools That Will Actually Make You a Better Developer](https://dev.to/dumboprogrammer/7-underrated-open-source-tools-that-will-actually-make-you-a-better-developer-8lm)
+- [Building Mercer Wealth Management — the story of creating a modern advisory website &lpar;a behind-the-scenes narrative&rpar;](https://dev.to/visionfinanceobserver/building-mercer-wealth-management-the-story-of-creating-a-modern-advisory-website-a-3id8)
+- [JuggleBee’s Great Leap – Data Migration, ActiveStorage, and Production Readiness &lpar;Part 2&rpar;](https://dev.to/brazenbraden/jugglebees-great-leap-data-migration-activestorage-and-production-readiness-part-2-5110)
+- [Dynamic Interfaces with Vue Directives](https://dev.to/jacobandrewsky/dynamic-interfaces-with-vue-directives-22gm)
+- [🚀 Day 20 of My Data Analytics Journey !](https://dev.to/ramyacse/day-20-of-my-data-analytics-journey--381j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
