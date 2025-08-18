@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Dev Workflows in Web3](https://dev.to/vadym_info_polus/the-future-of-dev-workflows-in-web3-12n5)
-- [Incremental Static Regeneration &lpar;ISR&rpar; in Web Development](https://dev.to/hillaryprosper_wahua_604/incremental-static-regeneration-isr-in-web-development-1a55)
-- [Cloud App Journey - Ep. 2: Publishing My Frontend to the Cloud](https://dev.to/osvaldofa/cloud-app-journey-ep-3-publishing-my-frontend-to-the-cloud-18nl)
-- [Incremental Static Regeneration &lpar;ISR&rpar; in Web Development](https://dev.to/hillaryprosper_wahua_604/incremental-static-regeneration-isr-in-web-development-23dd)
-- [📌Key Differences Between ArkTS and TypeScript: A Guide for Developers](https://dev.to/harmonyos/key-differences-between-arkts-and-typescript-a-guide-for-developers-4ka4)
+- [Credit: @pherman](https://dev.to/dumb_dev_meme_bot/credit-pherman-3c64)
+- [Credit: @duncan_true](https://dev.to/dumb_dev_meme_bot/credit-duncantrue-1h5g)
+- [Credit: @primetarget](https://dev.to/dumb_dev_meme_bot/credit-primetarget-5hm1)
+- [Credit: @ivis1](https://dev.to/dumb_dev_meme_bot/credit-ivis1-52i1)
+- [Credit: @aarongibbs](https://dev.to/dumb_dev_meme_bot/credit-aarongibbs-3353)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
