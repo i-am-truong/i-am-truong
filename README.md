@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dev Setup on Autopilot](https://dev.to/deadlock/dev-setup-on-autopilot-3ok0)
-- [Why did I build a transparent, account-free, open-source URL shortener?](https://dev.to/anwitars/why-did-i-build-a-transparent-account-free-open-source-url-shortener-45cm)
-- [NEAR vs Ethereum: Why I Almost Gave Up on Blockchain Development &lpar;But Didn&#39;t&rpar; 😤](https://dev.to/herra_k/near-vs-ethereum-why-i-almost-gave-up-on-blockchain-development-but-didnt-4iad)
-- [🚧 OpenCut:Delta 1.0.0 is Live – Help Us Shape the Final Cut-update-2♥](https://dev.to/opencut/opencutdelta-100-is-live-help-us-shape-the-final-cut-update-2-33ae)
-- [3DR-LLM: Uma Metodologia Quantitativa para a Avaliação Holística de Grandes Modelos de Linguagem](https://dev.to/lucash_ribeiro_dev/3dr-llm-uma-metodologia-quantitativa-para-a-avaliacao-holistica-de-grandes-modelos-de-linguagem-257l)
+- [Criando um bot para o Discord e hospedando em uma máquina virtual na Magalu Cloud](https://dev.to/magalucloud/criando-um-bot-para-o-discord-e-hospedando-em-uma-maquina-virtual-na-magalu-cloud-18cb)
+- [Building an Event-Driven Microservices Architecture with AWS Lambda and DynamoDB Streams](https://dev.to/joshua_8092f7c53f8c79aa41/building-an-event-driven-microservices-architecture-with-aws-lambda-and-dynamodb-streams-bd6)
+- [Volumes no Docker: Como Persistir e Compartilhar Dados](https://dev.to/deividferraz/volumes-no-docker-como-persistir-e-compartilhar-dados-nm)
+- [The Developer&#39;s Complete Home Office Audio Setup Guide](https://dev.to/tiberius1023/the-developers-complete-home-office-audio-setup-guide-2b06)
+- [XPath &amp; CSS Selectors](https://dev.to/walltech/xpath-css-selectors-p2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
