@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Response Generator vs Chatbots: Key Differences](https://dev.to/techverdi/ai-response-generator-vs-chatbots-key-differences-2i3g)
 - [🚀 10 AI-Powered VSCode Extensions That Changed My Workflow](https://dev.to/ilsa_shaikh_089e2bfab0bf4/10-ai-powered-vscode-extensions-that-changed-my-workflow-4959)
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
 - [Using Custom Metadata in Apex to Replace Hardcoded Configuration Values](https://dev.to/this8/using-custom-metadata-in-apex-to-replace-hardcoded-configuration-values-506f)
 - [🌗 Dark Mode is Dead? The Shift to Adaptive Theme Design](https://dev.to/ilsa_shaikh_089e2bfab0bf4/dark-mode-is-dead-the-shift-to-adaptive-theme-design-56la)
-- [Should Education Be Free in the Age of AI?](https://dev.to/kalinijabo/should-education-be-free-in-the-age-of-ai-1g8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
