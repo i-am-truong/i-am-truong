@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazing post!](https://dev.to/davejs136/amazing-post-3g1a)
-- [&lpar;Part 3&rpar; Build a Simple Chat Character Gallery: Creating Card Component](https://dev.to/jte0711/part-3-build-a-simple-chat-character-gallery-creating-card-component-10bh)
-- [What Are the First Steps to Integrating Predictive Data Analytics into Your Infrastructure?](https://dev.to/arbisoftcompany/what-are-the-first-steps-to-integrating-predictive-data-analytics-into-your-infrastructure-e8h)
-- [Architecture in Single Page Applications — The meal you are always ready to consume](https://dev.to/zmar/architecture-in-single-page-applications-the-meal-you-are-always-ready-to-consume-4ldh)
-- [How to Create an AI Chatbot with the Latest LLM](https://dev.to/sanil_surve_b792338607f0b/how-to-create-an-ai-chatbot-with-the-latest-llm-3kep)
+- [The Silent Doubt: Why I Built My First VS Code Extension 🤔](https://dev.to/vijay431/the-silent-doubt-why-i-built-my-first-vs-code-extension-143i)
+- [C# Constructor va Overloading — Oddiy va Tushunarli](https://dev.to/elshoddev/c-constructor-va-overloading-oddiy-va-tushunarli-c6o)
+- [Story: How I installed the &quot;IntelliJ&quot; in Linux mint](https://dev.to/abishek_44a09d1e1af19b4ca/story-how-i-installed-the-intellij-in-linux-mint-5155)
+- [⚡ Building a Real‑Time Collaborative Form Editing System with Django Channels, WebSockets &amp; Redis](https://dev.to/bharat_solanke_8e45411fa6/building-a-real-time-collaborative-form-editing-system-with-django-channels-websockets-redis-2egl)
+- [How I stay immersed with Data science every day?🔎](https://dev.to/amira_bekhta_25/how-i-stay-immersed-with-data-science-every-day-1348)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
