@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Privacy and Vibe Coding](https://dev.to/az19eth/data-privacy-and-vibe-coding-150c)
-- [5 Marketing Strategies That Actually Work in B2B Tech Sales](https://dev.to/blogger_shree_844e6eb4b36/5-marketing-strategies-that-actually-work-in-b2b-tech-sales-3cmh)
-- [Trying Out Short AI: My Experience with an AI-Powered Clip Maker](https://dev.to/sophie_bella_5f438de0c1c3/trying-out-short-ai-my-experience-with-an-ai-powered-clip-maker-1ang)
-- [How process.nextTick&lpar;&rpar; Starves the Event Loop &lpar;A Node.js Pitfall&rpar;](https://dev.to/hluf/how-processnexttick-starves-the-event-loop-a-nodejs-pitfall-1ab1)
-- [How Do You Identify and Classify Project Stakeholders?](https://dev.to/writegenic/how-do-you-identify-and-classify-project-stakeholders-29nm)
+- [12-Factor App Principle #12: Admin Processes](https://dev.to/naval_kishorupadhyay_3e9/12-factor-app-principle-12-admin-processes-ppg)
+- [12-Factor App Principle #11: Logs](https://dev.to/naval_kishorupadhyay_3e9/12-factor-app-principle-11-logs-4e1h)
+- [12-Factor App Principle #10: Dev/Prod Parity](https://dev.to/naval_kishorupadhyay_3e9/12-factor-app-principle-10-devprod-parity-5ah5)
+- [NestJS vs. Express: Why Structure Beats Speed in the Long Run 🚀](https://dev.to/hamzakhan/nestjs-vs-express-why-structure-beats-speed-in-the-long-run-4g5o)
+- [C# da ref, out va in tushunchalari](https://dev.to/elshoddev/c-da-ref-out-va-in-tushunchalari-5abb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
