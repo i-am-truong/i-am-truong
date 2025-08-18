@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning vs Building](https://dev.to/evan_dickinson_7437ea81b9/learning-vs-building-3og7)
+- [How I Snagged `patron.com` and Why You Should Just Ship It 🚀](https://dev.to/skeptrune/how-i-snagged-patroncom-and-why-you-should-just-ship-it-2im6)
 - [React 19 `useDeferredValue` Deep Dive — How to Keep Your UI Smooth When Things Get Heavy](https://dev.to/a1guy/react-19-usedeferredvalue-deep-dive-how-to-keep-your-ui-smooth-when-things-get-heavy-1gdl)
 - [E-commerce Feeds Caching Strategy: Temu vs PDD&#39;s Technical Choices](https://dev.to/childrentime/e-commerce-feeds-caching-strategy-temu-vs-pdds-technical-choices-1j4g)
-- [See the Full Picture. Deliver Better Care.](https://dev.to/dipti_moryani_08e62702314/see-the-full-picture-deliver-better-care-1faf)
-- [What is Azure File Sync? Features, use cases and costs explained](https://dev.to/techielass/what-is-azure-file-sync-features-use-cases-and-costs-explained-5e24)
-- [Not Just Drones, Systems: Why Better Software Focuses on Full-Stack AI Integration](https://dev.to/betterhq/not-just-drones-systems-why-better-software-focuses-on-full-stack-ai-integration-nb9)
+- [Embeddable Open Source Unity-like Editor for ThreeJS](https://dev.to/framemuse/embeddable-open-source-unity-like-editor-for-threejs-2mm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
