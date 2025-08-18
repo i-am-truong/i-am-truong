@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 002 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-002-of-my-journey-to-becoming-a-css-pro-with-keith-grant-33bh)
-- [Building Strands Agents with a few lines of code: Observability and with Langfuse](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-observability-and-with-langfuse-4bc4)
-- [Descobrindo a fonte utilizada em um site e aplicando ela ao seu projeto Tailwind 4.0/Rails](https://dev.to/dominiquemorem/descobrindo-a-fonte-utilizada-em-um-site-e-aplicando-ela-ao-seu-projeto-tailwind-40rails-3m5d)
-- [Day 29: Jenkins Interview Questions](https://dev.to/udoh_deborah_b1e484c474bf/day-29-jenkins-interview-questions-3i1i)
-- [Laravel SQL Injection Prevention: Best Practices to Secure Your PHP Applications](https://dev.to/devtalk94/laravel-sql-injection-prevention-best-practices-to-secure-your-php-applications-2o7k)
+- [What is Apache Kafka, Why and When to use Kafka. Lesson 1](https://dev.to/itamartati/what-is-apache-kafka-why-and-when-to-use-kafka-lesson-1-1gkd)
+- [SaaS Had a Good Run. AI Is About to Rewrite the Playbook.](https://dev.to/paultowers/saas-had-a-good-run-ai-is-about-to-rewrite-the-playbook-nn0)
+- [LangGraph With MongoDB: Building Conversational Long-Term Memory for Intelligent AI Agents](https://dev.to/mongodb/langgraph-with-mongodb-building-conversational-long-term-memory-for-intelligent-ai-agents-2pcn)
+- [Introducing r/OpenAIML](https://dev.to/ayanabha_chatterjee_b1378/introducing-ropenaiml-5g2n)
+- [Building an Open Source Content Developer Platform for Developers.](https://dev.to/zdunecki/building-an-open-source-content-developer-platform-for-developers-11b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
