@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GEO: Boost Your Code for AI in 2025](https://dev.to/eleftheriabatsou/geo-boost-your-code-for-ai-in-2025-2d2o)
-- [Ready to Scale with AI? 5 Signs Your Business Can Handle It](https://dev.to/talweezy/ready-to-scale-with-ai-5-signs-your-business-can-handle-it-3oad)
-- [Apache Iceberg Dev Mailing List – Weekly Digest &lpar;Aug 9 – 15, 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-mailing-list-weekly-digest-aug-9-15-2025-44o2)
-- [Smarter Project Management for Developers and Teams](https://dev.to/junaid16_75/smarter-project-management-for-developers-and-teams-3c4)
-- [Understanding leftPad Function in DataWeave](https://dev.to/kapusto/understanding-leftpad-function-in-dataweave-3e3n)
+- [Termos Fundamentais de IA](https://dev.to/pachicodes/termos-fundamentais-de-ia-569n)
+- [🚀 Building My First SQL Project: Employee Attendance &amp; Leave Management System](https://dev.to/yogaraj/building-my-first-sql-project-employee-attendance-leave-management-system-30m4)
+- [JavaScript Crash Course Series](https://dev.to/aberthecreator/javascript-crash-course-series-92d)
+- [What I Learned While Turning an Automation Platform into a True AI Agent](https://dev.to/onlineproxy/what-i-learned-while-turning-an-automation-platform-into-a-true-ai-agent-26e)
+- [Adam Savage&#39;s Tested: Restoring the Iconic Space Shuttle Countdown Clock &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-restoring-the-iconic-space-shuttle-countdown-clock-at-airandspace-22eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
