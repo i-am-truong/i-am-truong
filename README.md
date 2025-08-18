@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [15+ Tailwind CSS one liners that replace CSS rules](https://dev.to/mike_andreuzza/15-tailwind-css-one-liners-that-replace-css-rules-fdk)
-- [🔡 Mastering the Trie &lpar;Prefix Tree&rpar; in Java](https://dev.to/rock_win_c053fa5fb2399067/mastering-the-trie-prefix-tree-in-java-4f07)
-- [Understanding Big O Notation: A Simple Guide for Beginners](https://dev.to/homayunmmdy/understanding-big-o-notation-a-simple-guide-for-beginners-4h41)
-- [Local SEO vs. International SEO: Choosing the Right Strategy](https://dev.to/amina_702c2c5ad8a4eeed286/local-seo-vs-international-seo-choosing-the-right-strategy-32f0)
-- [Design Debt Is the New Tech Debt and This Is Why UX Ops Matters](https://dev.to/millipixels1/design-debt-is-the-new-tech-debt-and-this-is-why-ux-ops-matters-1mid)
+- [🚀 10 AI-Powered VSCode Extensions That Changed My Workflow](https://dev.to/ilsa_shaikh_089e2bfab0bf4/10-ai-powered-vscode-extensions-that-changed-my-workflow-4959)
+- [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
+- [Using Custom Metadata in Apex to Replace Hardcoded Configuration Values](https://dev.to/this8/using-custom-metadata-in-apex-to-replace-hardcoded-configuration-values-506f)
+- [🌗 Dark Mode is Dead? The Shift to Adaptive Theme Design](https://dev.to/ilsa_shaikh_089e2bfab0bf4/dark-mode-is-dead-the-shift-to-adaptive-theme-design-56la)
+- [Should Education Be Free in the Age of AI?](https://dev.to/kalinijabo/should-education-be-free-in-the-age-of-ai-1g8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
