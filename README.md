@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Data Analytics Tools: A Practical Guide](https://dev.to/bharathprasad/getting-started-with-data-analytics-tools-a-practical-guide-3ogm)
-- [Variables and Data Types in Python: A Beginner&#39;s Guide](https://dev.to/zakkhassan97/variables-and-data-types-in-python-a-beginners-guide-4fnn)
-- [The Definitive React 19 useId Guide — Patterns, Pitfalls, and Pro Tips](https://dev.to/a1guy/the-definitive-react-19-useid-guide-patterns-pitfalls-and-pro-tips-40ia)
-- [Is this scale Phrygian or did AI give me a delusion?](https://dev.to/highcenburg/is-this-scale-phrygian-or-did-ai-give-me-a-delusion-2bk6)
-- [REACT-HOOKS](https://dev.to/asran_2025/react-hooks-2430)
+- [RK3588S2: A High-Performance ARM SoC](https://dev.to/dongpei_liao_8092a14d7c50/rk3588s2-a-high-performance-arm-soc-406l)
+- [Ringer Movies: ‘Sinners’ = An Instant ‘Rewatchable’ | The Rewatchables w/ Bill Simmons, Van Lathan &amp; Wesley Morris](https://dev.to/popcorn_movies/ringer-movies-sinners-an-instant-rewatchable-the-rewatchables-w-bill-simmons-van-lathan-57e4)
+- [Building Command-Line Tools with C# and System.CommandLine](https://dev.to/chakewitz/building-command-line-tools-with-c-and-systemcommandline-gb7)
+- [Using LangGraph.js SDK to create Agents](https://dev.to/buildandcodewithraman/using-langgraphjs-sdk-to-create-agents-494n)
+- [Building Your Own AI Companion: Combining Gaia Node with Jina Embeddings v4 with Late Chunking](https://dev.to/gaiaai/building-your-own-ai-companion-combining-gaia-node-with-jina-embeddings-v4-with-late-chunking-1fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
