@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Static Site Generation &lpar;SSG&rpar; in Web Development](https://dev.to/hillaryprosper_wahua_604/static-site-generation-ssg-in-web-development-47ld)
-- [Building DevGuard AI Copilot with Kiro — Our Hackathon Journey #kiro #flutter #supabase #hackathon](https://dev.to/narisetti_chaitanyanaidu/building-devguard-ai-copilot-with-kiro-our-hackathon-journeykiro-flutter-supabase-hackathon-2aml)
-- [DOM Manipulation](https://dev.to/code_2/dom-manipulation-6e1)
-- [How to Speed Up Pull Requests: 5 Tactics for Faster Reviews](https://dev.to/pantoai/how-to-reduce-pull-request-cycle-time-5-proven-strategies-for-faster-code-reviews-fic)
-- [Building Secure Real-Time Chat with RSA + AES Hybrid Encryption](https://dev.to/artem_turlenko/building-secure-real-time-chat-with-rsa-aes-hybrid-encryption-41di)
+- [The Future of Dev Workflows in Web3](https://dev.to/vadym_info_polus/the-future-of-dev-workflows-in-web3-12n5)
+- [Incremental Static Regeneration &lpar;ISR&rpar; in Web Development](https://dev.to/hillaryprosper_wahua_604/incremental-static-regeneration-isr-in-web-development-1a55)
+- [Cloud App Journey - Ep. 2: Publishing My Frontend to the Cloud](https://dev.to/osvaldofa/cloud-app-journey-ep-3-publishing-my-frontend-to-the-cloud-18nl)
+- [Incremental Static Regeneration &lpar;ISR&rpar; in Web Development](https://dev.to/hillaryprosper_wahua_604/incremental-static-regeneration-isr-in-web-development-23dd)
+- [📌Key Differences Between ArkTS and TypeScript: A Guide for Developers](https://dev.to/harmonyos/key-differences-between-arkts-and-typescript-a-guide-for-developers-4ka4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
