@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Netflix-Style Website with S3, CloudFront &amp; Lambda\@Edge 🎬⚡](https://dev.to/yash_sonawane25/build-a-netflix-style-website-with-s3-cloudfront-lambdaedge-2lil)
-- [Dockerizing Go API and Caddy](https://dev.to/danielcristho/dockerizing-go-api-and-caddy-ge4)
-- [🚀 Building Real-World AI: From Colab Pipelines to Desktop Apps](https://dev.to/ryanboscobanze/building-real-world-ai-from-colab-pipelines-to-desktop-apps-47ia)
-- [Understanding Fiber Optic Transceivers](https://dev.to/lsolink/understanding-fiber-optic-transceivers-4cpm)
-- [AI/ML OPS-Learning Road Map](https://dev.to/srinivasamcjf/aimlops-learning-road-map-2app)
+- [Stop Hardcoding Business Logic: Meet Rule Engine JS](https://dev.to/crafts69guy/stop-hardcoding-business-logic-meet-rule-engine-js-52kh)
+- [ChatGPT is not just a productivity tool; it&#39;s a powerful business model with the possibility to assist all your business ideas. I’ve seen founders, solopreneurs, and even students build profitable businesses around it, often with very little upfront cost.](https://dev.to/jaideepparashar/chatgpt-is-not-just-a-productivity-tool-its-a-powerful-business-model-with-the-possibility-to-4pha)
+- [3 Powerful Business Models Using ChatGPT](https://dev.to/jaideepparashar/3-powerful-business-models-using-chatgpt-2g03)
+- [How to Save Google Drive &quot;View Only&quot; PDFs &lpar;After Trying Every Tool and Failing&rpar;](https://dev.to/arezdev/how-to-save-google-drive-view-only-pdfs-after-trying-every-tool-and-failing-1477)
+- [Building a Document QA System with Supavec and Gaia](https://dev.to/gaiaai/building-a-document-qa-system-with-supavec-and-gaia-35bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
