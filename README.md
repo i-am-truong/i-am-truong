@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GEO: Boost Your Code for AI in 2025](https://dev.to/eleftheriabatsou/geo-boost-your-code-for-ai-in-2025-2d2o)
+- [Ready to Scale with AI? 5 Signs Your Business Can Handle It](https://dev.to/talweezy/ready-to-scale-with-ai-5-signs-your-business-can-handle-it-3oad)
 - [Apache Iceberg Dev Mailing List – Weekly Digest &lpar;Aug 9 – 15, 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-mailing-list-weekly-digest-aug-9-15-2025-44o2)
 - [Smarter Project Management for Developers and Teams](https://dev.to/junaid16_75/smarter-project-management-for-developers-and-teams-3c4)
 - [Understanding leftPad Function in DataWeave](https://dev.to/kapusto/understanding-leftpad-function-in-dataweave-3e3n)
-- [Nullable Types &lpar;int?&rpar; C# da](https://dev.to/elshoddev/nullable-types-int-c-da-4c61)
-- [Why the Grateful Dead’s Business Model Still Wins](https://dev.to/remotebranch/why-the-grateful-deads-business-model-still-wins-48e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
