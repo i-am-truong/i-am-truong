@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing Comments in Java: A Beginner&#39;s Guide](https://dev.to/cal_afun_2475adb4b562023b/writing-comments-in-java-a-beginners-guide-2m92)
+- [The Complete Guide to Discriminative vs Generative AI: Evolution, Creativity, and Applications](https://dev.to/usama_ali_a6a59f380053582/the-complete-guide-to-discriminative-vs-generative-ai-evolution-creativity-and-applications-36cp)
+- [AI Agent Platform and the Rise of Autonomous Computing](https://dev.to/kapusto/ai-agent-platform-and-the-rise-of-autonomous-computing-38ao)
+- [🔄 Real-Time Cache Refresh Using Azure Queue &lpar;Without Redis, Service Bus, or Pub/Sub&rpar;](https://dev.to/imnitinsingh/real-time-cache-refresh-using-azure-queue-without-redis-service-bus-or-pubsub-4g5b)
 - [Probably Secure: A Look At The Security Concerns Of Deterministic Vs Probabilistic Systems](https://dev.to/gitguardian/probably-secure-a-look-at-the-security-concerns-of-deterministic-vs-probabilistic-systems-9od)
-- [Recovery of Microsoft Dynamics NAV 2002 R2 and SQL Server](https://dev.to/ivajofranc/recovery-of-microsoft-dynamics-nav-2002-r2-and-sql-server-1n07)
-- [What is Apache Kafka, Why and When to use Kafka. Lesson 1](https://dev.to/itamartati/what-is-apache-kafka-why-and-when-to-use-kafka-lesson-1-1gkd)
-- [SaaS Had a Good Run. AI Is About to Rewrite the Playbook.](https://dev.to/paultowers/saas-had-a-good-run-ai-is-about-to-rewrite-the-playbook-nn0)
-- [LangGraph With MongoDB: Building Conversational Long-Term Memory for Intelligent AI Agents](https://dev.to/mongodb/langgraph-with-mongodb-building-conversational-long-term-memory-for-intelligent-ai-agents-2pcn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
