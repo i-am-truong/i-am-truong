@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/carlosdamota/-1n18)
-- [E-mails de verificação com AWS SES + Lambda &lpar;Node.js&rpar; e Terraform — do zero ao envio](https://dev.to/sertaoseracloud/e-mails-de-verificacao-com-aws-ses-lambda-nodejs-e-terraform-do-zero-ao-envio-20fo)
-- [DaaS &lpar;Desktop as a Service&rpar;](https://dev.to/programadriano/daas-desktop-as-a-service-5bj9)
-- [Analisis de bloques de codigo en programacion](https://dev.to/devtesseract1/analisis-de-bloques-de-codigo-en-programacion-339k)
-- [X11.Social – Turn Conversations into Posts that Sound Like You](https://dev.to/x11socialmkt/x11social-turn-conversations-into-posts-that-sound-like-you-2151)
+- [Writing Maintainable AI Prompts in Rails with Promptly](https://dev.to/travelingwilbur/writing-maintainable-ai-prompts-in-rails-with-promptly-1dnf)
+- [IGN: Primitive War - Official Spot | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-spot-in-theaters-august-21-4h51)
+- [The Silent Killer in Your Java Code: Is Your List Exploding?](https://dev.to/xuan_56087d315ff4f52254e6/the-silent-killer-in-your-java-code-is-your-list-exploding-13mo)
+- [IGN: Arctic Awakening - Official Release Date Trailer](https://dev.to/gg_news/ign-arctic-awakening-official-release-date-trailer-1l0o)
+- [IGN: Bleach Rebirth of Souls - Official Retsu Unohana Reveal Trailer](https://dev.to/gg_news/ign-bleach-rebirth-of-souls-official-retsu-unohana-reveal-trailer-52h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
