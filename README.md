@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazing post!](https://dev.to/davejs136/amazing-post-3g1a)
+- [&lpar;Part 3&rpar; Build a Simple Chat Character Gallery: Creating Card Component](https://dev.to/jte0711/part-3-build-a-simple-chat-character-gallery-creating-card-component-10bh)
+- [What Are the First Steps to Integrating Predictive Data Analytics into Your Infrastructure?](https://dev.to/arbisoftcompany/what-are-the-first-steps-to-integrating-predictive-data-analytics-into-your-infrastructure-e8h)
+- [Architecture in Single Page Applications — The meal you are always ready to consume](https://dev.to/zmar/architecture-in-single-page-applications-the-meal-you-are-always-ready-to-consume-4ldh)
 - [How to Create an AI Chatbot with the Latest LLM](https://dev.to/sanil_surve_b792338607f0b/how-to-create-an-ai-chatbot-with-the-latest-llm-3kep)
-- [What to Choose for Creating a PHP Admin Panel?](https://dev.to/giuliopanda/what-to-choose-for-creating-a-php-admin-panel-2lje)
-- [Image placeholders in pure CSS — or: Defying gods with math and color](https://dev.to/frzi/image-placeholders-in-pure-css-or-defying-gods-with-math-and-color-3a5d)
-- [The Boimler Principles for AI Development: A Manifesto for Learning Systems with Character](https://dev.to/michael_hanning_a9ad43f0f/the-boimler-principles-for-ai-development-a-manifesto-for-learning-systems-with-character-4kn5)
-- [Analyzing JVM Memory Usage Inside a Docker Container](https://dev.to/amit_ranjan_4b5cdcf88dc9b/analyzing-jvm-memory-usage-inside-a-docker-container-1jna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
