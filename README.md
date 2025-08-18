@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turning a Web App Idea into Reality: My Development Workflow](https://dev.to/junaid18dev/turning-a-web-app-idea-into-reality-my-development-workflow-15n3)
-- [How Many Hours Did That Cost You? A Chrome Extension That Shows the True Price of Online Shopping](https://dev.to/daniele_dapuzzo_935b71312/how-many-hours-did-that-cost-you-a-chrome-extension-that-shows-the-true-price-of-online-shopping-1kfn)
-- [Supercharge Your CDN with Cloudflare Workers](https://dev.to/vitaly_bykov_dd10957baace/supercharge-your-cdn-with-cloudflare-workers-3h43)
-- [Json + gzip vs messagePack - storage benchmark](https://dev.to/nrbnlulu/json-gzip-vs-messagepack-storage-benchmark-2lgj)
-- [Tomcat set Windows cmd title](https://dev.to/fish-404/tomcat-set-windows-cmd-title-1f4h)
+- [Would You Use a &quot;Smart Boilerplate Generator&quot; for Frameworks?](https://dev.to/asar109/would-you-use-a-smart-boilerplate-generator-for-frameworks-176m)
+- [3-How to install TypeScript](https://dev.to/cgithub123/3-how-to-install-typescript-33ko)
+- [Learning regex is hard, so I made a drag-and-drop regex builder](https://dev.to/nestforge/learning-regex-is-hard-so-i-made-a-drag-and-drop-regex-builder-5hll)
+- [Koffee - Beautiful Transient Toasts for Jetpack Compose](https://dev.to/donaldokara/koffee-beautiful-transient-toasts-for-jetpack-compose-297i)
+- [Your Own Email Verification SaaS Server](https://dev.to/saad4software/your-own-email-verification-saas-server-4aeh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
