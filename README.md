@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Analisis de bloques de codigo en programacion](https://dev.to/devtesseract1/analisis-de-bloques-de-codigo-en-programacion-339k)
+- [X11.Social – Turn Conversations into Posts that Sound Like You](https://dev.to/x11socialmkt/x11social-turn-conversations-into-posts-that-sound-like-you-2151)
 - [Writing Comments in Java: A Beginner&#39;s Guide](https://dev.to/cal_afun_2475adb4b562023b/writing-comments-in-java-a-beginners-guide-2m92)
 - [The Complete Guide to Discriminative vs Generative AI: Evolution, Creativity, and Applications](https://dev.to/usama_ali_a6a59f380053582/the-complete-guide-to-discriminative-vs-generative-ai-evolution-creativity-and-applications-36cp)
 - [AI Agent Platform and the Rise of Autonomous Computing](https://dev.to/kapusto/ai-agent-platform-and-the-rise-of-autonomous-computing-38ao)
-- [🔄 Real-Time Cache Refresh Using Azure Queue &lpar;Without Redis, Service Bus, or Pub/Sub&rpar;](https://dev.to/imnitinsingh/real-time-cache-refresh-using-azure-queue-without-redis-service-bus-or-pubsub-4g5b)
-- [Probably Secure: A Look At The Security Concerns Of Deterministic Vs Probabilistic Systems](https://dev.to/gitguardian/probably-secure-a-look-at-the-security-concerns-of-deterministic-vs-probabilistic-systems-9od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
