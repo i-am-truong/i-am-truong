@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev Setup on Autopilot](https://dev.to/deadlock/dev-setup-on-autopilot-3ok0)
+- [Why did I build a transparent, account-free, open-source URL shortener?](https://dev.to/anwitars/why-did-i-build-a-transparent-account-free-open-source-url-shortener-45cm)
 - [NEAR vs Ethereum: Why I Almost Gave Up on Blockchain Development &lpar;But Didn&#39;t&rpar; 😤](https://dev.to/herra_k/near-vs-ethereum-why-i-almost-gave-up-on-blockchain-development-but-didnt-4iad)
 - [🚧 OpenCut:Delta 1.0.0 is Live – Help Us Shape the Final Cut-update-2♥](https://dev.to/opencut/opencutdelta-100-is-live-help-us-shape-the-final-cut-update-2-33ae)
 - [3DR-LLM: Uma Metodologia Quantitativa para a Avaliação Holística de Grandes Modelos de Linguagem](https://dev.to/lucash_ribeiro_dev/3dr-llm-uma-metodologia-quantitativa-para-a-avaliacao-holistica-de-grandes-modelos-de-linguagem-257l)
-- [Rust in 2025: Why Developers Can’t Afford to Ignore It](https://dev.to/arkhan/rust-in-2025-why-developers-cant-afford-to-ignore-it-5cam)
-- [🚀 Epic Adventure: Deploy Your App Across AWS Accounts with Docker &amp; ECR! ✌️](https://dev.to/suvrajeet/epic-adventure-deploy-your-app-across-aws-accounts-with-docker-ecr-m4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
