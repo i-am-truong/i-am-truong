@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [12-Factor App Principle #12: Admin Processes](https://dev.to/naval_kishorupadhyay_3e9/12-factor-app-principle-12-admin-processes-ppg)
-- [12-Factor App Principle #11: Logs](https://dev.to/naval_kishorupadhyay_3e9/12-factor-app-principle-11-logs-4e1h)
-- [12-Factor App Principle #10: Dev/Prod Parity](https://dev.to/naval_kishorupadhyay_3e9/12-factor-app-principle-10-devprod-parity-5ah5)
-- [NestJS vs. Express: Why Structure Beats Speed in the Long Run 🚀](https://dev.to/hamzakhan/nestjs-vs-express-why-structure-beats-speed-in-the-long-run-4g5o)
-- [C# da ref, out va in tushunchalari](https://dev.to/elshoddev/c-da-ref-out-va-in-tushunchalari-5abb)
+- [AWS re/Start – My Week 1 Experience](https://dev.to/ijay/aws-restart-my-week-1-experience-182h)
+- [Boring Cybersecurity Theory: Frameworks &lpar;NIST&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-frameworks-nist-5cl5)
+- [EKS Auto Mode: Simplify Kubernetes Operations](https://dev.to/spacelift/eks-auto-mode-simplify-kubernetes-operations-i6g)
+- [WTF is API Gateway Pattern?](https://dev.to/dailybugle33/wtf-is-api-gateway-pattern-55ph)
+- [How to Integrate Jira and Asana &lpar;DEV-Friendly Guide&rpar;](https://dev.to/renata_getint/how-to-integrate-jira-and-asana-dev-friendly-guide-4j94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
