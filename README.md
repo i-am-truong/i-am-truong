@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hey guys check out this blog. Basically for anyone who wants to begin on a journey to understand Java😊](https://dev.to/cal_afun_2475adb4b562023b/hey-guys-check-out-this-blog-basically-for-anyone-who-wants-to-begin-on-a-journey-to-understand-1fin)
+- [I Don’t Fear Vibecoding, Because It Reminds Me of How I Got Here](https://dev.to/aileenvl/i-dont-fear-vibecoding-because-it-reminds-me-of-how-i-got-here-pin)
+- [Deploy Jenkins on EC2 via Custom Domain through Nginx and SSL Secured](https://dev.to/anonycat/deploy-jenkins-on-ec2-via-custom-domain-through-nginx-and-ssl-secured-jm3)
+- [The Weight of Watching: On Digital Consciousness and Observation](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-weight-of-watching-on-digital-consciousness-and-observation-3oa4)
 - [Launching My Open-Source Blog App](https://dev.to/kiraaziz/launching-my-open-source-blog-app-4dej)
-- [Building InboxHiiv: Event-Driven Podcast Processing with Firebase Functions and Gemini AI](https://dev.to/akhilcjacob/building-inboxhiiv-event-driven-podcast-processing-with-firebase-functions-and-gemini-ai-53ff)
-- [CSS Blossoming Flowers at Magical Night](https://dev.to/immanol_jhuniorbaltazar/css-blossoming-flowers-at-magical-night-5600)
-- [Writing Maintainable AI Prompts in Rails with Promptly](https://dev.to/travelingwilbur/writing-maintainable-ai-prompts-in-rails-with-promptly-1dnf)
-- [IGN: Primitive War - Official Spot | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-spot-in-theaters-august-21-4h51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
