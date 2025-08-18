@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hardcoding Business Logic: Meet Rule Engine JS](https://dev.to/crafts69guy/stop-hardcoding-business-logic-meet-rule-engine-js-52kh)
-- [ChatGPT is not just a productivity tool; it&#39;s a powerful business model with the possibility to assist all your business ideas. I’ve seen founders, solopreneurs, and even students build profitable businesses around it, often with very little upfront cost.](https://dev.to/jaideepparashar/chatgpt-is-not-just-a-productivity-tool-its-a-powerful-business-model-with-the-possibility-to-4pha)
-- [3 Powerful Business Models Using ChatGPT](https://dev.to/jaideepparashar/3-powerful-business-models-using-chatgpt-2g03)
-- [How to Save Google Drive &quot;View Only&quot; PDFs &lpar;After Trying Every Tool and Failing&rpar;](https://dev.to/arezdev/how-to-save-google-drive-view-only-pdfs-after-trying-every-tool-and-failing-1477)
-- [Building a Document QA System with Supavec and Gaia](https://dev.to/gaiaai/building-a-document-qa-system-with-supavec-and-gaia-35bl)
+- [[Boost]](https://dev.to/nikhil_sachapara/-4dff)
+- [Run your own Local AI on your windows machine](https://dev.to/harishkotra/run-your-own-local-ai-on-your-windows-machine-ja4)
+- [Why I Switched from LLMs to Tiny, Instant Voice NLU for Kai Lite — Week 2](https://dev.to/emily_lin_usa/why-i-switched-from-llms-to-tiny-instant-voice-nlu-for-kai-lite-week-2-3bgg)
+- [679. 24 Game](https://dev.to/mdarifulhaque/679-24-game-4nb3)
+- [Agency developers Dilemma](https://dev.to/pratham_naik_project_manager/agency-developers-dilemma-5df1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
