@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning vs Building](https://dev.to/evan_dickinson_7437ea81b9/learning-vs-building-3og7)
-- [How I Snagged `patron.com` and Why You Should Just Ship It 🚀](https://dev.to/skeptrune/how-i-snagged-patroncom-and-why-you-should-just-ship-it-2im6)
-- [React 19 `useDeferredValue` Deep Dive — How to Keep Your UI Smooth When Things Get Heavy](https://dev.to/a1guy/react-19-usedeferredvalue-deep-dive-how-to-keep-your-ui-smooth-when-things-get-heavy-1gdl)
-- [E-commerce Feeds Caching Strategy: Temu vs PDD&#39;s Technical Choices](https://dev.to/childrentime/e-commerce-feeds-caching-strategy-temu-vs-pdds-technical-choices-1j4g)
-- [Embeddable Open Source Unity-like Editor for ThreeJS](https://dev.to/framemuse/embeddable-open-source-unity-like-editor-for-threejs-2mm9)
+- [Data Privacy and Vibe Coding](https://dev.to/az19eth/data-privacy-and-vibe-coding-150c)
+- [5 Marketing Strategies That Actually Work in B2B Tech Sales](https://dev.to/blogger_shree_844e6eb4b36/5-marketing-strategies-that-actually-work-in-b2b-tech-sales-3cmh)
+- [Trying Out Short AI: My Experience with an AI-Powered Clip Maker](https://dev.to/sophie_bella_5f438de0c1c3/trying-out-short-ai-my-experience-with-an-ai-powered-clip-maker-1ang)
+- [How process.nextTick&lpar;&rpar; Starves the Event Loop &lpar;A Node.js Pitfall&rpar;](https://dev.to/hluf/how-processnexttick-starves-the-event-loop-a-nodejs-pitfall-1ab1)
+- [How Do You Identify and Classify Project Stakeholders?](https://dev.to/writegenic/how-do-you-identify-and-classify-project-stakeholders-29nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
