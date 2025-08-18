@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Data Analytics Tools: A Practical Guide](https://dev.to/bharathprasad/getting-started-with-data-analytics-tools-a-practical-guide-3ogm)
+- [Variables and Data Types in Python: A Beginner&#39;s Guide](https://dev.to/zakkhassan97/variables-and-data-types-in-python-a-beginners-guide-4fnn)
+- [The Definitive React 19 useId Guide — Patterns, Pitfalls, and Pro Tips](https://dev.to/a1guy/the-definitive-react-19-useid-guide-patterns-pitfalls-and-pro-tips-40ia)
 - [Is this scale Phrygian or did AI give me a delusion?](https://dev.to/highcenburg/is-this-scale-phrygian-or-did-ai-give-me-a-delusion-2bk6)
-- [Running Gaia AI Nodes on Phala&#39;s Trusted Execution Environment](https://dev.to/gaiaai/running-gaia-ai-nodes-on-phalas-trusted-execution-environment-3cf2)
-- [Building Production-Ready RAG Systems with Gaia and Weaviate](https://dev.to/gaiaai/building-production-ready-rag-systems-with-gaia-and-weaviate-1c28)
-- [Open Source Delivery Management Software: Your Complete Guide](https://dev.to/hafsa_ashraf_82ea0f221850/open-source-delivery-management-software-your-complete-guide-4gkb)
-- [Lynxjs Extension Pack](https://dev.to/bastndev/lynxjs-extension-pack-19hi)
+- [REACT-HOOKS](https://dev.to/asran_2025/react-hooks-2430)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
