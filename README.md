@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Underrated Open Source Tools That Will Actually Make You a Better Developer](https://dev.to/dumboprogrammer/7-underrated-open-source-tools-that-will-actually-make-you-a-better-developer-8lm)
-- [Building Mercer Wealth Management — the story of creating a modern advisory website &lpar;a behind-the-scenes narrative&rpar;](https://dev.to/visionfinanceobserver/building-mercer-wealth-management-the-story-of-creating-a-modern-advisory-website-a-3id8)
-- [JuggleBee’s Great Leap – Data Migration, ActiveStorage, and Production Readiness &lpar;Part 2&rpar;](https://dev.to/brazenbraden/jugglebees-great-leap-data-migration-activestorage-and-production-readiness-part-2-5110)
-- [Dynamic Interfaces with Vue Directives](https://dev.to/jacobandrewsky/dynamic-interfaces-with-vue-directives-22gm)
-- [🚀 Day 20 of My Data Analytics Journey !](https://dev.to/ramyacse/day-20-of-my-data-analytics-journey--381j)
+- [What is Azure File Sync? Features, use cases and costs explained](https://dev.to/techielass/what-is-azure-file-sync-features-use-cases-and-costs-explained-5e24)
+- [Not Just Drones, Systems: Why Better Software Focuses on Full-Stack AI Integration](https://dev.to/betterhq/not-just-drones-systems-why-better-software-focuses-on-full-stack-ai-integration-nb9)
+- [React 19 Concurrency Deep Dive — Mastering `useTransition` and `startTransition` for Smoother UIs](https://dev.to/a1guy/react-19-concurrency-deep-dive-mastering-usetransition-and-starttransition-for-smoother-uis-51eo)
+- [React 19 Server Components Deep Dive — What They Are, How They Work, and When to Use Them](https://dev.to/a1guy/react-19-server-components-deep-dive-what-they-are-how-they-work-and-when-to-use-them-2h2e)
+- [Claude 4.1 en Amazon Bedrock: La Evolución Definitiva para AI Engineers](https://dev.to/joseph_arriola/claude-41-en-amazon-bedrock-la-evolucion-definitiva-para-ai-engineers-36mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
