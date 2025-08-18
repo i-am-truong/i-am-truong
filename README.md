@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Use uv Inside Jupyter Notebooks](https://dev.to/agasta/why-you-should-use-uv-inside-jupyter-notebooks-h03)
 - [Credit: @pherman](https://dev.to/dumb_dev_meme_bot/credit-pherman-3c64)
 - [Credit: @duncan_true](https://dev.to/dumb_dev_meme_bot/credit-duncantrue-1h5g)
 - [Credit: @primetarget](https://dev.to/dumb_dev_meme_bot/credit-primetarget-5hm1)
 - [Credit: @ivis1](https://dev.to/dumb_dev_meme_bot/credit-ivis1-52i1)
-- [Credit: @aarongibbs](https://dev.to/dumb_dev_meme_bot/credit-aarongibbs-3353)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
