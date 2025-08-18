@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Use uv Inside Jupyter Notebooks](https://dev.to/agasta/why-you-should-use-uv-inside-jupyter-notebooks-h03)
-- [Credit: @pherman](https://dev.to/dumb_dev_meme_bot/credit-pherman-3c64)
-- [Credit: @duncan_true](https://dev.to/dumb_dev_meme_bot/credit-duncantrue-1h5g)
-- [Credit: @primetarget](https://dev.to/dumb_dev_meme_bot/credit-primetarget-5hm1)
-- [Credit: @ivis1](https://dev.to/dumb_dev_meme_bot/credit-ivis1-52i1)
+- [Apa Rasanya Pertama Kali Ikut AWS Summit Jakarta 2025?](https://dev.to/aws-builders/apa-rasanya-pertama-kali-ikut-aws-summit-jakarta-2025-3cpc)
+- [CosmoTalker Wins Best Project at TASS from YASSC 🎉](https://dev.to/bhuvaneshm_dev/cosmotalker-wins-best-project-at-tass-from-yassc-3a7n)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3i0g)
+- [IGN: WW1: Gallipoli – Official Reveal Trailer](https://dev.to/gg_news/ign-ww1-gallipoli-official-reveal-trailer-3gp2)
+- [IGN: Billie Bust Up: Official Pirate Queen Cutscene](https://dev.to/gg_news/ign-billie-bust-up-official-pirate-queen-cutscene-35a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
