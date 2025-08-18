@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building InboxHiiv: Event-Driven Podcast Processing with Firebase Functions and Gemini AI](https://dev.to/akhilcjacob/building-inboxhiiv-event-driven-podcast-processing-with-firebase-functions-and-gemini-ai-53ff)
 - [CSS Blossoming Flowers at Magical Night](https://dev.to/immanol_jhuniorbaltazar/css-blossoming-flowers-at-magical-night-5600)
 - [Writing Maintainable AI Prompts in Rails with Promptly](https://dev.to/travelingwilbur/writing-maintainable-ai-prompts-in-rails-with-promptly-1dnf)
 - [IGN: Primitive War - Official Spot | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-spot-in-theaters-august-21-4h51)
 - [The Silent Killer in Your Java Code: Is Your List Exploding?](https://dev.to/xuan_56087d315ff4f52254e6/the-silent-killer-in-your-java-code-is-your-list-exploding-13mo)
-- [IGN: Arctic Awakening - Official Release Date Trailer](https://dev.to/gg_news/ign-arctic-awakening-official-release-date-trailer-1l0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
