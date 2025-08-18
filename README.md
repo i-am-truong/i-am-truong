@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/nikhil_sachapara/-4dff)
-- [Run your own Local AI on your windows machine](https://dev.to/harishkotra/run-your-own-local-ai-on-your-windows-machine-ja4)
-- [Why I Switched from LLMs to Tiny, Instant Voice NLU for Kai Lite — Week 2](https://dev.to/emily_lin_usa/why-i-switched-from-llms-to-tiny-instant-voice-nlu-for-kai-lite-week-2-3bgg)
-- [679. 24 Game](https://dev.to/mdarifulhaque/679-24-game-4nb3)
-- [Agency developers Dilemma](https://dev.to/pratham_naik_project_manager/agency-developers-dilemma-5df1)
+- [Lynxjs Extension Pack](https://dev.to/bastndev/lynxjs-extension-pack-19hi)
+- [A Blog Has Been Better for My Career Than a Portfolio](https://dev.to/canro91/a-blog-has-been-better-for-my-career-than-a-portfolio-41gd)
+- [Perl 🐪 Weekly #734 - CPAN Day](https://dev.to/szabgab/perl-weekly-734-cpan-day-op6)
+- [GPU Costs Melting Your Budget](https://dev.to/sathish/gpu-costs-melting-your-budget-3n03)
+- [Token Trading Agent with Recall](https://dev.to/gaiaai/token-trading-agent-with-recall-1ane)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
