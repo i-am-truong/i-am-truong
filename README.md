@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is this scale Phrygian or did AI give me a delusion?](https://dev.to/highcenburg/is-this-scale-phrygian-or-did-ai-give-me-a-delusion-2bk6)
+- [Running Gaia AI Nodes on Phala&#39;s Trusted Execution Environment](https://dev.to/gaiaai/running-gaia-ai-nodes-on-phalas-trusted-execution-environment-3cf2)
+- [Building Production-Ready RAG Systems with Gaia and Weaviate](https://dev.to/gaiaai/building-production-ready-rag-systems-with-gaia-and-weaviate-1c28)
+- [Open Source Delivery Management Software: Your Complete Guide](https://dev.to/hafsa_ashraf_82ea0f221850/open-source-delivery-management-software-your-complete-guide-4gkb)
 - [Lynxjs Extension Pack](https://dev.to/bastndev/lynxjs-extension-pack-19hi)
-- [A Blog Has Been Better for My Career Than a Portfolio](https://dev.to/canro91/a-blog-has-been-better-for-my-career-than-a-portfolio-41gd)
-- [Perl 🐪 Weekly #734 - CPAN Day](https://dev.to/szabgab/perl-weekly-734-cpan-day-op6)
-- [GPU Costs Melting Your Budget](https://dev.to/sathish/gpu-costs-melting-your-budget-3n03)
-- [Token Trading Agent with Recall](https://dev.to/gaiaai/token-trading-agent-with-recall-1ane)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
