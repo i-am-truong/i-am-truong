@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating your content with Sanity&#39;s Agent Actions, Functions &amp; Blueprints](https://dev.to/focusreactive/automating-your-content-with-sanitys-agent-actions-functions-blueprints-59fg)
-- [Learning Platform &amp; Extra Tasks #43](https://dev.to/0xj0n1/learning-platform-extra-tasks-43-2a8l)
-- [Boosting JSON Performance in .NET 10 with PipeReader Support](https://dev.to/morteza-jangjoo/boosting-json-performance-in-net-10-with-pipereader-support-2hd8)
-- [Inspiring for me as a tiny framework maintainer](https://dev.to/mmayboy_/inspiring-for-me-as-a-tiny-framework-maintainer-1jl9)
-- [CVE-2017-0144: Microsoft SMBv1 Remote Code Execution Vulnerability](https://dev.to/freedom-coder/cve-2017-0144-microsoft-smbv1-remote-code-execution-vulnerability-1oh3)
+- [A beginner&#39;s guide to the Qwen3-235b-A22b-Instruct-2507 model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen3-235b-a22b-instruct-2507-model-by-qwen-on-replicate-47jc)
+- [Apache Polaris Dev Mailing List — Weekly Digest &lpar;Aug 11–17, 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-mailing-list-weekly-digest-aug-11-17-2025-2adj)
+- [Java Basics: Writing your first program](https://dev.to/cal_afun_2475adb4b562023b/java-basics-writing-your-first-program-fb5)
+- [Netlify Site + HCP Terraform Remote State](https://dev.to/benn1440/netlify-site-hcp-terraform-remote-state-19i0)
+- [COLORS: Rodney Chrome - BBL | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-bbl-a-colors-show-5df6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
