@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥Master RxJS: switchMap vs mergeMap vs concatMap vs exhaustMap](https://dev.to/rohit_singh_ee84e64941db7/master-rxjs-switchmap-vs-mergemap-vs-concatmap-vs-exhaustmap-1hk7)
-- [🚀 Introducing OTel Sandbox: Your Zero-Config OpenTelemetry Playground](https://dev.to/akshitzatakia/introducing-otel-sandbox-your-zero-config-opentelemetry-playground-53d7)
-- [Effective Log Aggregation: Strategies for Threat Detection &amp; Incident Response](https://dev.to/kapusto/effective-log-aggregation-strategies-for-threat-detection-incident-response-46en)
-- [🎭 SIP Requests Unmasked: The Moves Behind the Game](https://dev.to/sip_games/sip-requests-unmasked-the-moves-behind-the-game-7nm)
-- [GSoC Week 11: Nearing the Finish Line with CircuitVerse](https://dev.to/jatsuakayashvant/gsoc-week-11-nearing-the-finish-line-with-circuitverse-kgb)
+- [Apache Iceberg Dev Mailing List – Weekly Digest &lpar;Aug 9 – 15, 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-mailing-list-weekly-digest-aug-9-15-2025-44o2)
+- [Smarter Project Management for Developers and Teams](https://dev.to/junaid16_75/smarter-project-management-for-developers-and-teams-3c4)
+- [Understanding leftPad Function in DataWeave](https://dev.to/kapusto/understanding-leftpad-function-in-dataweave-3e3n)
+- [Nullable Types &lpar;int?&rpar; C# da](https://dev.to/elshoddev/nullable-types-int-c-da-4c61)
+- [Why the Grateful Dead’s Business Model Still Wins](https://dev.to/remotebranch/why-the-grateful-deads-business-model-still-wins-48e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
