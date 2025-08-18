@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode 283: Move Zeroes](https://dev.to/tochi_/leetcode-283-move-zeroes-3g9d)
+- [Introducing Gaia Toolkit: How to use it and why](https://dev.to/gaiaai/introducing-gaia-toolkit-how-to-use-it-and-why-26ko)
 - [A Developer’s Journey to the Cloud 4: Caching with Redis](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-4-caching-with-redis-3h8k)
 - [HEY!! Don&#39;t Burnout 🤗](https://dev.to/iamdavidjames/hey-dont-burnout-2p61)
 - [AI was supposed to save us time. Instead, we&#39;re typing more than ever](https://dev.to/moinulmoin/ai-was-supposed-to-save-us-time-instead-were-typing-more-than-ever-ch2)
-- [Implementing SSL with acme.sh on Ubuntu](https://dev.to/siswoyo/implementing-ssl-with-acmesh-on-ubuntu-391e)
-- [AI Response Generator vs Chatbots: Key Differences](https://dev.to/techverdi/ai-response-generator-vs-chatbots-key-differences-2i3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
