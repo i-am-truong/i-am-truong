@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [1 RN Thing a Day – Day 8: Trivyignore](https://dev.to/ola_1313/1-rn-thing-a-day-day-8-trivyignore-343d)
-- [[Boost]](https://dev.to/mehulimukherjee/-5hel)
-- [Question-based web performance analysis using rsdoctor/mcp-server.](https://dev.to/husdev/question-based-web-performance-analysis-using-rsdoctormcp-server-325a)
-- [Why You Should Choose Next.js Over React.js for Your Next Project](https://dev.to/ofodile/why-you-should-choose-nextjs-over-reactjs-for-your-next-project-2a6m)
-- [Advanced AI-Powered Trading &amp; Insights- Portfolio Intelligence Pro](https://dev.to/anandsingh01/advanced-ai-powered-trading-insights-portfolio-intelligence-pro-35l4)
+- [HTML Debugging &amp; Validation Tools: Ensuring Clean, Error-Free Web Development](https://dev.to/sharique_siddiqui_8242dad/html-debugging-validation-tools-ensuring-clean-error-free-web-development-1bcc)
+- [The weekly roundup is live! We&#39;ve got the latest in dev &amp; design, including some cool new AI tools, free design assets, and fresh articles. Find all the resources at https://www.jqueryscript.net/blog/Weekly-Web-Design-Development-News-Collective-618.html](https://dev.to/jqueryscript/the-weekly-roundup-is-live-weve-got-the-latest-in-dev-design-including-some-cool-new-ai-tools-4pa9)
+- [How I Deployed an Apache Web Server on Ubuntu and Built an Eatery Website](https://dev.to/goldenboy58/how-i-deployed-an-apache-web-server-on-ubuntu-and-built-an-eatery-website-4ce8)
+- [Mastering Go Concurrency: Taming Race Conditions Like a Pro](https://dev.to/jones_charles_ad50858dbc0/mastering-go-concurrency-taming-race-conditions-like-a-pro-1kn2)
+- [[Boost]](https://dev.to/triplemcoder/-26d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
