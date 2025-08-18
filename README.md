@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Doubt: Why I Built My First VS Code Extension 🤔](https://dev.to/vijay431/the-silent-doubt-why-i-built-my-first-vs-code-extension-143i)
-- [C# Constructor va Overloading — Oddiy va Tushunarli](https://dev.to/elshoddev/c-constructor-va-overloading-oddiy-va-tushunarli-c6o)
-- [Story: How I installed the &quot;IntelliJ&quot; in Linux mint](https://dev.to/abishek_44a09d1e1af19b4ca/story-how-i-installed-the-intellij-in-linux-mint-5155)
-- [⚡ Building a Real‑Time Collaborative Form Editing System with Django Channels, WebSockets &amp; Redis](https://dev.to/bharat_solanke_8e45411fa6/building-a-real-time-collaborative-form-editing-system-with-django-channels-websockets-redis-2egl)
-- [How I stay immersed with Data science every day?🔎](https://dev.to/amira_bekhta_25/how-i-stay-immersed-with-data-science-every-day-1348)
+- [Automating your content with Sanity&#39;s Agent Actions, Functions &amp; Blueprints](https://dev.to/focusreactive/automating-your-content-with-sanitys-agent-actions-functions-blueprints-59fg)
+- [Learning Platform &amp; Extra Tasks #43](https://dev.to/0xj0n1/learning-platform-extra-tasks-43-2a8l)
+- [Boosting JSON Performance in .NET 10 with PipeReader Support](https://dev.to/morteza-jangjoo/boosting-json-performance-in-net-10-with-pipereader-support-2hd8)
+- [Inspiring for me as a tiny framework maintainer](https://dev.to/mmayboy_/inspiring-for-me-as-a-tiny-framework-maintainer-1jl9)
+- [CVE-2017-0144: Microsoft SMBv1 Remote Code Execution Vulnerability](https://dev.to/freedom-coder/cve-2017-0144-microsoft-smbv1-remote-code-execution-vulnerability-1oh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
