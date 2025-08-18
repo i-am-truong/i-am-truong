@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [15+ Tailwind CSS one liners that replace CSS rules](https://dev.to/mike_andreuzza/15-tailwind-css-one-liners-that-replace-css-rules-fdk)
+- [🔡 Mastering the Trie &lpar;Prefix Tree&rpar; in Java](https://dev.to/rock_win_c053fa5fb2399067/mastering-the-trie-prefix-tree-in-java-4f07)
+- [Understanding Big O Notation: A Simple Guide for Beginners](https://dev.to/homayunmmdy/understanding-big-o-notation-a-simple-guide-for-beginners-4h41)
+- [Local SEO vs. International SEO: Choosing the Right Strategy](https://dev.to/amina_702c2c5ad8a4eeed286/local-seo-vs-international-seo-choosing-the-right-strategy-32f0)
 - [Design Debt Is the New Tech Debt and This Is Why UX Ops Matters](https://dev.to/millipixels1/design-debt-is-the-new-tech-debt-and-this-is-why-ux-ops-matters-1mid)
-- [The Perfect Blend: Server-Side Rendering with Client-Side Infinite Scrolling](https://dev.to/shubhamtiwari909/the-perfect-blend-server-side-rendering-with-client-side-infinite-scrolling-4j4i)
-- [🚀 Boost Your Coding Speed with AI Assistants &lpar;Copilot, Codeium &amp; Tabnine Compared&rpar;](https://dev.to/ftg_ygh_1be91d3913a93d70c/boost-your-coding-speed-with-ai-assistants-copilot-codeium-tabnine-compared-31p0)
-- [Predicting Customer Churn with TensorFlow – A Beginner-Friendly Guide](https://dev.to/zorous/predicting-customer-churn-with-tensorflow-a-beginner-friendly-guide-3l3a)
-- [Putting Design-To-Code AI Tools to the Test](https://dev.to/erezcohen/putting-design-to-code-ai-tools-to-the-test-38gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
