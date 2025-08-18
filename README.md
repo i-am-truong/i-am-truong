@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GoogleSignIn Macos - Flutter](https://dev.to/infms/googlesignin-macos-flutter-24fo)
 - [Build your own Posthog - PART 1](https://dev.to/infms/build-your-own-posthog-part-1-1dof)
+- [VibeTDD Experiment 4.4: Storage Layer Testing and the Never Give Up Problem](https://dev.to/maksim_matlakhov/vibetdd-experiment-44-storage-layer-testing-and-the-never-give-up-problem-5f1g)
+- [Move all the zeros to the right of the array.](https://dev.to/jayesh_adwani_de96b24de62/move-all-the-zeros-to-the-right-of-the-array-5h0l)
 - [Criando um bot para o Discord e hospedando em uma máquina virtual na Magalu Cloud](https://dev.to/magalucloud/criando-um-bot-para-o-discord-e-hospedando-em-uma-maquina-virtual-na-magalu-cloud-18cb)
-- [Building an Event-Driven Microservices Architecture with AWS Lambda and DynamoDB Streams](https://dev.to/joshua_8092f7c53f8c79aa41/building-an-event-driven-microservices-architecture-with-aws-lambda-and-dynamodb-streams-bd6)
-- [Volumes no Docker: Como Persistir e Compartilhar Dados](https://dev.to/deividferraz/volumes-no-docker-como-persistir-e-compartilhar-dados-nm)
-- [The Developer&#39;s Complete Home Office Audio Setup Guide](https://dev.to/tiberius1023/the-developers-complete-home-office-audio-setup-guide-2b06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
