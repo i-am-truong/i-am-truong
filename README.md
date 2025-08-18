@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Nduduzo Makhathini: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nduduzo-makhathini-tiny-desk-concert-h7p)
-- [Unveiling the Power of Node.js Process Object: Your Gateway to Runtime Control](https://dev.to/vjnvisakh/unveiling-the-power-of-nodejs-process-object-your-gateway-to-runtime-control-59kp)
-- [🚀 How to Set Up a Virtual Host in XAMPP &lpar;C:&rpar; to Run WordPress from Another Drive &lpar;G:&rpar;](https://dev.to/prantomollick/how-to-set-up-a-virtual-host-in-xampp-c-to-run-wordpress-from-another-drive-g-150m)
-- [Expert Guide to Healthy Lifestyle: Tips, Insights,and Steps](https://dev.to/harlan_5ab353c41e0d38ba0f/expert-guide-to-healthy-lifestyle-tips-insightsand-steps-43i8)
-- [Why I Stopped Using React &lpar;And You Should Too&rpar; 🔥](https://dev.to/shiva_shanker_k/why-i-stopped-using-react-and-you-should-too-6lf)
+- [Design Debt Is the New Tech Debt and This Is Why UX Ops Matters](https://dev.to/millipixels1/design-debt-is-the-new-tech-debt-and-this-is-why-ux-ops-matters-1mid)
+- [The Perfect Blend: Server-Side Rendering with Client-Side Infinite Scrolling](https://dev.to/shubhamtiwari909/the-perfect-blend-server-side-rendering-with-client-side-infinite-scrolling-4j4i)
+- [🚀 Boost Your Coding Speed with AI Assistants &lpar;Copilot, Codeium &amp; Tabnine Compared&rpar;](https://dev.to/ftg_ygh_1be91d3913a93d70c/boost-your-coding-speed-with-ai-assistants-copilot-codeium-tabnine-compared-31p0)
+- [Predicting Customer Churn with TensorFlow – A Beginner-Friendly Guide](https://dev.to/zorous/predicting-customer-churn-with-tensorflow-a-beginner-friendly-guide-3l3a)
+- [Putting Design-To-Code AI Tools to the Test](https://dev.to/erezcohen/putting-design-to-code-ai-tools-to-the-test-38gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
