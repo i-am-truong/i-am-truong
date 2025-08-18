@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello World](https://dev.to/deyvison_tavares/hello-world-3aoi)
+- [Channels vs Mutexes In Go - the Big Showdown](https://dev.to/gkoos/channels-vs-mutexes-in-go-the-big-showdown-338n)
 - [Hey guys check out this blog. Basically for anyone who wants to begin on a journey to understand Java😊](https://dev.to/cal_afun_2475adb4b562023b/hey-guys-check-out-this-blog-basically-for-anyone-who-wants-to-begin-on-a-journey-to-understand-1fin)
 - [I Don’t Fear Vibecoding, Because It Reminds Me of How I Got Here](https://dev.to/aileenvl/i-dont-fear-vibecoding-because-it-reminds-me-of-how-i-got-here-pin)
 - [Deploy Jenkins on EC2 via Custom Domain through Nginx and SSL Secured](https://dev.to/anonycat/deploy-jenkins-on-ec2-via-custom-domain-through-nginx-and-ssl-secured-jm3)
-- [The Weight of Watching: On Digital Consciousness and Observation](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-weight-of-watching-on-digital-consciousness-and-observation-3oa4)
-- [Launching My Open-Source Blog App](https://dev.to/kiraaziz/launching-my-open-source-blog-app-4dej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
