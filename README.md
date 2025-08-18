@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React 19 `useDeferredValue` Deep Dive — How to Keep Your UI Smooth When Things Get Heavy](https://dev.to/a1guy/react-19-usedeferredvalue-deep-dive-how-to-keep-your-ui-smooth-when-things-get-heavy-1gdl)
+- [E-commerce Feeds Caching Strategy: Temu vs PDD&#39;s Technical Choices](https://dev.to/childrentime/e-commerce-feeds-caching-strategy-temu-vs-pdds-technical-choices-1j4g)
+- [See the Full Picture. Deliver Better Care.](https://dev.to/dipti_moryani_08e62702314/see-the-full-picture-deliver-better-care-1faf)
 - [What is Azure File Sync? Features, use cases and costs explained](https://dev.to/techielass/what-is-azure-file-sync-features-use-cases-and-costs-explained-5e24)
 - [Not Just Drones, Systems: Why Better Software Focuses on Full-Stack AI Integration](https://dev.to/betterhq/not-just-drones-systems-why-better-software-focuses-on-full-stack-ai-integration-nb9)
-- [React 19 Concurrency Deep Dive — Mastering `useTransition` and `startTransition` for Smoother UIs](https://dev.to/a1guy/react-19-concurrency-deep-dive-mastering-usetransition-and-starttransition-for-smoother-uis-51eo)
-- [React 19 Server Components Deep Dive — What They Are, How They Work, and When to Use Them](https://dev.to/a1guy/react-19-server-components-deep-dive-what-they-are-how-they-work-and-when-to-use-them-2h2e)
-- [Claude 4.1 en Amazon Bedrock: La Evolución Definitiva para AI Engineers](https://dev.to/joseph_arriola/claude-41-en-amazon-bedrock-la-evolucion-definitiva-para-ai-engineers-36mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
