@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Designing Scalable SQLite Schemas for Python Apps](https://dev.to/1fahadshah/designing-scalable-sqlite-schemas-for-python-apps-27gd)
+- [Let&#39;s build a Free Chatbot with Streamlit and Gemini AI &lpar;Step-by-Step for Beginners&rpar;](https://dev.to/timmydee/lets-build-a-free-chatbot-with-streamlit-and-gemini-ai-step-by-step-for-beginners-n14)
+- [I Built an AI System that Automates Entire News Agency. Here is How You Can Build Your Own](https://dev.to/codingmoney/i-built-an-ai-system-that-automates-entire-news-agency-here-is-how-you-can-build-your-own-517e)
 - [Controlled vs Uncontrolled Components in React🔄](https://dev.to/aman_kureshi_/controlled-vs-uncontrolled-components-in-react-3o84)
 - [Three Ways to Perform Queries in Spring Boot](https://dev.to/wkreuch/three-ways-to-perform-queries-in-spring-boot-4iij)
-- [Java_D4&amp;&amp;How to push the code in GIT using Linux Mint....](https://dev.to/ajayr18/javad4how-to-push-the-code-in-git-in-linux-mint-3bai)
-- [🤌 My First Months as the Lone QA Engineer in a Startup &lpar;Step-by-Step Roadmap&rpar;](https://dev.to/_codemify_b9533112d373/my-first-months-as-the-lone-qa-engineer-in-a-startup-step-by-step-roadmap-2bel)
-- [The Blackboard Pattern: A Framework for Complex Problem Solving](https://dev.to/lovestaco/the-blackboard-pattern-a-framework-for-complex-problem-solving-4o1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
