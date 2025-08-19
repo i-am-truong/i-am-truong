@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Writing Emails: Tips &amp; Tricks &lpar;Especially for Developers&rpar;](https://dev.to/this-is-learning/writing-emails-tips-tricks-especially-for-developers-1e7i)
-- [Comparing CAPTCHA-Solving Services: Beyond Pricing, Inside the Tech](https://dev.to/markus009/comparing-captcha-solving-services-beyond-pricing-inside-the-tech-2nk0)
-- [Types of Restaurants](https://dev.to/dilu_fathima_8153d5775702/types-of-restaurants-5g3o)
-- [Asset Management vs. Configuration Management: Key Differences Explained](https://dev.to/jennifer_devsamurai/asset-management-vs-configuration-management-key-differences-explained-2pog)
-- [A Case Against Abstraction](https://dev.to/puritanic/a-case-against-abstraction-118o)
+- [Go Coding with Asparagos: Sunflowers and the Speaking Challenge](https://dev.to/asparagos/go-coding-with-asparagos-sunflowers-and-the-speaking-challenge-2gd6)
+- [Remember to set the frequency for replication to Litestream!](https://dev.to/lucianghinda/remember-to-set-the-frequency-for-replication-to-litestream-3foj)
+- [Ethernet Adapters for Nintendo Switch and Switch 2](https://dev.to/arthurleo01/ethernet-adapters-for-nintendo-switch-and-switch-2-1b95)
+- [Günlük Yemek Bedeli İyileştirmesi: Çalışan Memnuniyetine ve İş Verimliliğine Katkı](https://dev.to/berfin_uygas_ac34e03fe7f8/gunluk-yemek-bedeli-iyilestirmesi-calisan-memnuniyetine-ve-is-verimliligine-katki-2a2d)
+- [Day 2 of experimenting with Open Source AI: Learned a Lot about Code indexing &lpar;Progress 2%&rpar;](https://dev.to/sky98/day-2-of-experimenting-with-open-source-ai-learned-a-lot-about-code-indexing-progress-2-1cjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
