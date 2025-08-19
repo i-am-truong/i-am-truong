@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Concrete to Cloud: A Developer&#39;s Guide to the Physical Hardware Behind OCI](https://dev.to/smyekh/from-concrete-to-cloud-a-developers-guide-to-the-physical-hardware-behind-oci-4eh3)
-- [Games as Model Eval: 1-Click Deploy AI Town on Fly.io](https://dev.to/flyio/games-as-model-eval-1-click-deploy-ai-town-on-flyio-13n)
-- [Trust Calibration for AI Software Builders](https://dev.to/flyio/trust-calibration-for-ai-software-builders-1ifj)
-- [Smollm3 + Ollama: Running a Local LLM That Feels Like Magic 🚀](https://dev.to/koolkamalkishor/smollm3-ollama-running-a-local-llm-that-feels-like-magic-j36)
-- [[Boost]](https://dev.to/aryan_panwala/-1ed1)
+- [5 Lines of Code That Will Make Your Business Logic Beautiful](https://dev.to/crafts69guy/5-lines-of-code-that-replace-100-lines-of-business-logic-365j)
+- [Database Management Systems for SaaS: A Comprehensive Guide](https://dev.to/guepardrun/database-management-systems-for-saas-a-comprehensive-guide-b13)
+- [Speed Up Your Visual Content with PhotoCollageMaker.io 🎨](https://dev.to/juddiy/speed-up-your-visual-content-with-photocollagemakerio-164p)
+- [Introducing Pomora: a minimal, focused Pomodoro timer &lpar;Next.js + Tailwind + shadcn/ui&rpar;](https://dev.to/shravzzv/introducing-pomora-a-minimal-focused-pomodoro-timer-nextjs-tailwind-shadcnui-255d)
+- [Outil de Cybersécurité du Jour - Aug 19, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-19-2025-n9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
