@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Mastering MCP Servers with LangChain and LangGraph: A Beginner&#39;s Guide](https://dev.to/jamesbmour/build-an-interactive-webpage-chatbot-app-using-streamlit-langchain-and-ollama-2fc6)
-- [🦀 Battle of the Bytes: Can TinyGo Make Rust Nervous in Embedded WebAssembly?](https://dev.to/ekwoster/battle-of-the-bytes-can-tinygo-make-rust-nervous-in-embedded-webassembly-17m4)
-- [If you understand how languages and compilers actually work, you’ll write better code and learn new languages more easily.](https://dev.to/adewebdeveloper/if-you-understand-how-languages-and-compilers-actually-work-youll-write-better-code-and-learn-new-4bmh)
-- [The 48 Hours That Changed Tech Forever: AI&#39;s Biggest Breakthroughs Yet](https://dev.to/shiva_shanker_k/the-48-hours-that-changed-tech-forever-ais-biggest-breakthroughs-yet-47o7)
-- [🚀 Building AI Agents in the Browser with WebAssembly &lpar;WASM&rpar; + Web Workers + LLM APIs — A Game-Changer for Web Apps](https://dev.to/ekwoster/building-ai-agents-in-the-browser-with-webassembly-wasm-web-workers-llm-apis-a-ack)
+- [Kotlin Multiplatform vs Native Android for Mobile App Development](https://dev.to/lucy1/kotlin-multiplatform-vs-native-android-for-mobile-app-development-3472)
+- [GPT-4 vs GPT-5: From a Developer’s Perspective](https://dev.to/dev-rashedin/gpt-4-vs-gpt-5-from-a-developers-perspective-lmd)
+- [Top 10 Challenges in Mobile App Test Automation &lpar;and Solutions&rpar;](https://dev.to/maria_bueno/top-10-challenges-in-mobile-app-test-automation-and-solutions-4k05)
+- [LeetCode #387. Find Unique Character in a String](https://dev.to/desiato/leetcode-387-find-unique-character-in-a-string-4c3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
