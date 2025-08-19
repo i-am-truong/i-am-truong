@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built an AI Photo Enhancer That Makes Your Selfies Less Tragic &lpar;Using Google Gemini &amp; Python&rpar;](https://dev.to/abdellahhallou/how-i-built-an-ai-photo-enhancer-that-makes-your-selfies-less-tragic-using-google-gemini-python-1c40)
 - [OpenJDK, Temurin, GraalVM... Which Java JDK Should You Actually Install in 2025?](https://dev.to/lamri_abdellahramdane_15/openjdk-temurin-graalvm-which-java-jdk-should-you-actually-install-in-2025-16jk)
 - [GameSpot: Black Myth: Zhong Kui - Cinematic Teaser Trailer &lpar;English Dub&rpar;](https://dev.to/gg_news/gamespot-black-myth-zhong-kui-cinematic-teaser-trailer-english-dub-173p)
 - [GameSpot: Best Gamescom Opening Night Live Trailers 2025](https://dev.to/gg_news/gamespot-best-gamescom-opening-night-live-trailers-2025-11hl)
 - [GameSpot: Resident Evil Requiem &lpar;RE9&rpar; - Official Gamescom Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-resident-evil-requiem-re9-official-gamescom-gameplay-reveal-trailer-2b64)
-- [GameSpot: Opening Night Live 2025 in 52 Minutes | Gamescom 2025](https://dev.to/gg_news/gamespot-opening-night-live-2025-in-52-minutes-gamescom-2025-302h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
