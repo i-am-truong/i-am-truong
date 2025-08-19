@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Launch Your First Serverless API: Hands-On with AWS Chalice on AWS Lambda](https://dev.to/shrsv/launch-your-first-serverless-api-hands-on-with-aws-chalice-on-aws-lambda-3712)
+- [Creativity Isn’t a Gift—It’s a Bank Account. Here’s How to Make Withdrawals](https://dev.to/praisejamesx/creativity-isnt-a-gift-its-a-bank-account-heres-how-to-make-withdrawals-d0k)
 - [Chrome Extension](https://dev.to/rohan2596/-4lo7)
 - [Beginner’s Guide to Wordlists and Crunch for Password Testing](https://dev.to/rijultp/beginners-guide-to-wordlists-and-crunch-for-password-testing-4j14)
 - [The Best Minimal Chrome To-Do List Extension You’ll Ever Need](https://dev.to/rohan2596/the-best-minimal-chrome-to-do-list-extension-youll-ever-need-2cgk)
-- [🚀 5 Ways AI is Transforming QA Leadership](https://dev.to/dasha_tsion_31379cfb51dd7/5-ways-ai-is-transforming-qa-leadership-1nk0)
-- [MongoDb: connecting with small apps.](https://dev.to/srushti_kulkarni_ff24f6a2/mongodb-connecting-with-small-apps-1kbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
