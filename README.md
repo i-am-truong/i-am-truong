@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Mercor AI: A Smarter Way for Developers to Find Opportunities](https://dev.to/devcorner/why-i-joined-mercor-ai-a-game-changer-for-software-engineers-1e3k)
+- [Clean Up Your React Code: How the Object Lookup Pattern Replaces Endless Ifs](https://dev.to/werliton/clean-up-your-react-code-how-the-object-lookup-pattern-replaces-endless-ifs-5gon)
+- [🔥 Building a Simple PDF AI Chat app with Next.js, React PDF and OpenAI 💬](https://dev.to/fangtanbamrung/building-a-simple-pdf-ai-chat-app-with-nextjs-react-pdf-and-openai-j7j)
+- [[Boost]](https://dev.to/computocell/-3idn)
 - [Top 9 Platform Engineering Tools Every Team Should Know About](https://dev.to/harman_diaz/top-9-platform-engineering-tools-every-team-should-know-about-5cdn)
-- [Untitled](https://dev.to/my_piksel_9d7fd09d21bf104/untitled-p14)
-- [Making progress on subforem editing, just added subforem moderator role.](https://dev.to/ben/making-progress-on-subforem-editing-just-added-subforem-moderator-role-3h1l)
-- [Building an Advanced AI Agent: A Step-by-Step Guide to Integrating MCP Servers with LangGraph](https://dev.to/amol_kavitkar/building-an-advanced-ai-agent-a-step-by-step-guide-to-integrating-mcp-servers-with-langgraph-4ocf)
-- [Unlocking Hidden Cloud Superpowers: GKE Topology Manager GA &amp; Node Swap — DevOps Game Changers You Haven’t Tried](https://dev.to/lakshmikanth_reddy/unlocking-hidden-cloud-superpowers-gke-topology-manager-ga-node-swap-devops-game-changers-you-3d1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
