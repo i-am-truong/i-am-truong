@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling Incomplete GitHub Issues in Your Open Source Project](https://dev.to/alexiszamanidis/handling-incomplete-github-issues-in-your-open-source-project-13)
+- [Why Lightweight Language Models Might Be More Important Than Ever](https://dev.to/pmobit/why-lightweight-language-models-might-be-more-important-than-ever-37nb)
 - [I Gave My AI a Conscience in 3 Lines of Code: The Sacred Pause Pattern](https://dev.to/lev_goukassian_5fe7ea654a/i-gave-my-ai-a-conscience-in-3-lines-of-code-the-sacred-pause-pattern-dj0)
 - [Beyond the Hype: Why We Chose Redis Streams Over Kafka for Our Microservices](https://dev.to/mtk3d/beyond-the-hype-why-we-chose-redis-streams-over-kafka-for-our-microservices-dmc)
 - [Building Security First Software: From Data Breaches to Open Source](https://dev.to/harroldjr/building-security-first-software-my-journey-from-data-breaches-to-open-source-27ej)
-- [Into the Future: What is Agentic AI &lpar;and How You Can Try It Today?&rpar;](https://dev.to/nitz22199/into-the-future-what-is-agentic-ai-and-how-you-can-try-it-today-4jm9)
-- [Constants and Enumerated Types in Java](https://dev.to/cal_afun_2475adb4b562023b/constants-and-enumerated-types-in-java-44i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
