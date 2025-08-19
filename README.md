@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your AI Agents Reliable: A Comprehensive Guide for Developers](https://dev.to/kuldeep_paul/how-to-make-your-ai-agents-reliable-a-comprehensive-guide-for-developers-i5p)
-- [Tableau Sales Dashboard Performance &lpar;Updated for 2025&rpar;](https://dev.to/vamshi_e_eebe5a6287a27142/tableau-sales-dashboard-performance-updated-for-2025-2099)
-- [LeetCode #242. Valid Anagram](https://dev.to/desiato/leetcode-242-valid-anagram-2868)
-- [Scraping JavaScript-Rendered Web Pages with Python](https://dev.to/bdilip48/scraping-javascript-rendered-web-pages-with-python-1e95)
-- [Brochure Translation Software Features to Look for [2025]](https://dev.to/colinreed/brochure-translation-software-features-to-look-for-2025-1bg7)
+- [Introducing SCAN - A Must Have Plugin](https://dev.to/theaniketraj/introducing-scan-a-must-have-plugin-47jh)
+- [Terraform Module Example – Resource Group Creation on Azure](https://dev.to/techmademi/terraform-module-example-resource-group-creation-on-azure-281)
+- [The Smart Way Pandas Handles Overlapping Column Names](https://dev.to/drorata/the-smart-way-pandas-handles-overlapping-column-names-4jko)
+- [Cloudflare WAF Best Practices: Features, Challenges, and Alternatives](https://dev.to/carrie_luo1/cloudflare-waf-best-practices-features-challenges-and-alternatives-g17)
+- [From Ink.js to Phaser.js: Rebuilding Black Market Protocol&#39;s Core Systems](https://dev.to/creator_x/from-inkjs-to-phaserjs-rebuilding-black-market-protocols-core-systems-39d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
