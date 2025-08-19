@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JDK vs JRE vs JVM &lpar;JAVA&rpar;](https://dev.to/ligouri_stittus_416c7cee/jdk-vs-jre-vs-jvm-java-2lh4)
-- [ARM vs x86: Choosing the Right Processor Architecture for Industrial SBCs](https://dev.to/tonyhe8688/arm-vs-x86-choosing-the-right-processor-architecture-for-industrial-sbcs-53gd)
-- [Why do programmers prefer dark mode? Because light attracts bugs](https://dev.to/taji/what-is-computers-favourite-snacks-microchips-1070)
-- [SafeLine WAF Setup Guide — Protecting Your Homelab Apps Like a Pro](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-setup-guide-protecting-your-homelab-apps-like-a-pro-41b0)
-- [Remove console statements from other developers and keep only your own!](https://dev.to/ctjj_e0ca65f340e2d82720d4/remove-console-statements-from-other-developers-and-keep-only-your-own-i96)
+- [Understanding Azure Hybrid Benefit](https://dev.to/techielass/understanding-azure-hybrid-benefit-31ji)
+- [How to Register a Service Worker With Vite and Rollup Without Plugins](https://dev.to/fedtti/how-to-register-a-service-worker-with-vite-and-rollup-without-plugins-3i71)
+- [Master Dynamic Theming in Angular: Build Scalable Theme Architecture with SCSS](https://dev.to/codewithrajat/master-dynamic-theming-in-angular-build-scalable-theme-architecture-with-scss-3k6m)
+- [Why Slack Messages Are Killing Your Staging Environment Workflow](https://dev.to/stagingapp/why-slack-messages-are-killing-your-staging-environment-workflow-3kej)
+- [Agentic AI: How Autonomous Agents Are Transforming Enterprise Workflows](https://dev.to/koolkamalkishor/agentic-ai-how-autonomous-agents-are-transforming-enterprise-workflows-4oi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
