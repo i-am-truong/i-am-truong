@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [shadcn-portfolio: Next.js Developer Portfolio Template with shadcn/ui](https://dev.to/jqueryscript/shadcn-portfolio-nextjs-developer-portfolio-template-with-shadcnui-8ge)
 - [Smartbi RCE Vulnerability — Patch Now Before Attackers Do](https://dev.to/sharon_42e16b8da44dabde6d/smartbi-rce-vulnerability-patch-now-before-attackers-do-10bk)
 - [Why ChatGPT Prioritizes Engagement Over Truth](https://dev.to/agustin_v_startari/why-chatgpt-prioritizes-engagement-over-truth-13p4)
 - [Push and Pull Supply Chain: Everything You Need to Know](https://dev.to/shruthi_nagaraj_e00b8e3c6/push-and-pull-supply-chain-everything-you-need-to-know-7ic)
 - [Linux vs Android SBCs: Pros and Cons for Developers and System Integrators](https://dev.to/lauraaa/linux-vs-android-sbcs-pros-and-cons-for-developers-and-system-integrators-4fi0)
-- [Crack the Code: Building a Real-Time Multiplayer Game with AI](https://dev.to/soukhya_0e36963c45b1ba212/crack-the-code-building-a-real-time-multiplayer-game-with-ai-347i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
