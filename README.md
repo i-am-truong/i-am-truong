@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Concrete to Cloud: A Developer&#39;s Guide to the Physical Hardware Behind OCI](https://dev.to/smyekh/from-concrete-to-cloud-a-developers-guide-to-the-physical-hardware-behind-oci-4eh3)
+- [Games as Model Eval: 1-Click Deploy AI Town on Fly.io](https://dev.to/flyio/games-as-model-eval-1-click-deploy-ai-town-on-flyio-13n)
+- [Trust Calibration for AI Software Builders](https://dev.to/flyio/trust-calibration-for-ai-software-builders-1ifj)
 - [Smollm3 + Ollama: Running a Local LLM That Feels Like Magic 🚀](https://dev.to/koolkamalkishor/smollm3-ollama-running-a-local-llm-that-feels-like-magic-j36)
 - [[Boost]](https://dev.to/aryan_panwala/-1ed1)
-- [[Boost]](https://dev.to/misakadev/-ekm)
-- [Top 10 Free Tools Every Web Developer Should Know](https://dev.to/therealmrmumba/top-10-free-tools-every-web-developer-should-know-2ho4)
-- [# Drunk Transformer: five regulators that keep your model sober enough to hit the target](https://dev.to/onestardao/-drunk-transformer-five-regulators-that-keep-your-model-sober-enough-to-hit-the-target-1en0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
