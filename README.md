@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Lines of Code That Will Make Your Business Logic Beautiful](https://dev.to/crafts69guy/5-lines-of-code-that-replace-100-lines-of-business-logic-365j)
-- [Database Management Systems for SaaS: A Comprehensive Guide](https://dev.to/guepardrun/database-management-systems-for-saas-a-comprehensive-guide-b13)
-- [Speed Up Your Visual Content with PhotoCollageMaker.io 🎨](https://dev.to/juddiy/speed-up-your-visual-content-with-photocollagemakerio-164p)
-- [Introducing Pomora: a minimal, focused Pomodoro timer &lpar;Next.js + Tailwind + shadcn/ui&rpar;](https://dev.to/shravzzv/introducing-pomora-a-minimal-focused-pomodoro-timer-nextjs-tailwind-shadcnui-255d)
-- [Outil de Cybersécurité du Jour - Aug 19, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-19-2025-n9m)
+- [Common Challenges for developers and learners](https://dev.to/davinceleecode/common-challenges-for-developers-and-learners-hm2)
+- [Get started with deploying web apps on AWS](https://dev.to/rnay/get-started-with-deploying-web-apps-on-aws-pm9)
+- [Hello World! &lpar;I Think I&#39;m Ready for This&rpar;](https://dev.to/yumnayasirr/hello-world-i-think-im-ready-for-this-3j5g)
+- [Coursera vs Udemy: Which Platform Should You Actually Learn From?](https://dev.to/stack_overflowed/coursera-vs-udemy-which-platform-should-you-actually-learn-from-4jld)
+- [Why I Write My README Before I Touch the Keyboard](https://dev.to/leena_malhotra_355340d89c/why-i-write-my-readme-before-i-touch-the-keyboard-1c11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
