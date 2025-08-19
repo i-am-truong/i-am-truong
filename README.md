@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CLI for the Clueless, Learning AWS CLI Through Interactive Gaming](https://dev.to/aws-builders/cli-for-the-clueless-learning-aws-cli-through-interactive-gaming-2b5l)
-- [Introducing wasp-lib: A TypeScript Library for Simplified WebAssembly Memory Management](https://dev.to/ptprashanttripathi/introducing-wasp-lib-a-typescript-library-for-simplified-webassembly-memory-management-171l)
-- [ん, and?](https://dev.to/yowise/n-and-3mn1)
-- [Embedding Emotion: Emoji Integration with Froala Editor](https://dev.to/ideradevtools/embedding-emotion-emoji-integration-with-froala-editor-4i09)
-- [How I Built an AI Photo Enhancer That Makes Your Selfies Less Tragic &lpar;Using Google Gemini &amp; Python&rpar;](https://dev.to/abdellahhallou/how-i-built-an-ai-photo-enhancer-that-makes-your-selfies-less-tragic-using-google-gemini-python-1c40)
+- [I Gave My AI a Conscience in 3 Lines of Code: The Sacred Pause Pattern](https://dev.to/lev_goukassian_5fe7ea654a/i-gave-my-ai-a-conscience-in-3-lines-of-code-the-sacred-pause-pattern-dj0)
+- [Beyond the Hype: Why We Chose Redis Streams Over Kafka for Our Microservices](https://dev.to/mtk3d/beyond-the-hype-why-we-chose-redis-streams-over-kafka-for-our-microservices-dmc)
+- [Building Security First Software: From Data Breaches to Open Source](https://dev.to/harroldjr/building-security-first-software-my-journey-from-data-breaches-to-open-source-27ej)
+- [Into the Future: What is Agentic AI &lpar;and How You Can Try It Today?&rpar;](https://dev.to/nitz22199/into-the-future-what-is-agentic-ai-and-how-you-can-try-it-today-4jm9)
+- [Constants and Enumerated Types in Java](https://dev.to/cal_afun_2475adb4b562023b/constants-and-enumerated-types-in-java-44i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
