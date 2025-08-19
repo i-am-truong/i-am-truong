@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [flow-run: LLM Orchestration, Prompt Testing &amp; Cost Monitoring](https://dev.to/vitaliihonchar/flow-run-llm-orchestration-prompt-testing-cost-monitoring-5836)
-- [BigQuery AI - Building the Future of Data:Day1](https://dev.to/nk_maker/bigquery-ai-building-the-future-of-dataday1-54k)
-- [Day1: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day1-sql-54g5)
-- [How to Craft Effective Prompts Using PARTS](https://dev.to/mariohhd/how-to-craft-effective-prompts-using-parts-2587)
-- [Object-Oriented Programming in Python: Complete Crash Course](https://dev.to/arslanyousaf12/object-oriented-programming-in-python-complete-crash-course-210o)
+- [Today I took my skills to the next level at Payilagam Institute](https://dev.to/kiran_raj_d6a648e3da320c1/today-i-took-my-skills-to-the-next-level-at-payilagam-institute-20f0)
+- [💸 AWS Bill Shock: Why It Happens and How to Prevent It](https://dev.to/maajidh_sabeel/aws-bill-shock-why-it-happens-and-how-to-prevent-it-cdg)
+- [What’s the biggest hidden cost you’ve faced after migrating to the cloud?](https://dev.to/kevinasutton/whats-the-biggest-hidden-cost-youve-faced-after-migrating-to-the-cloud-4oop)
+- [Jack Dorsey&#39;s Vibe Coding Tips](https://dev.to/blockopensource/jack-dorseys-vibe-coding-tips-48ok)
+- [An unusual interview task that turned out to be very common](https://dev.to/nik_maslov_956d027d8fe0c0/an-unusual-interview-task-that-turned-out-to-be-very-common-21dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
