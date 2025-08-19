@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Socket.io for Real-Time Apps](https://dev.to/godofgeeks/using-socketio-for-real-time-apps-1bea)
-- [Understanding Azure Hybrid Benefit](https://dev.to/techielass/understanding-azure-hybrid-benefit-31ji)
-- [How to Register a Service Worker With Vite and Rollup Without Plugins](https://dev.to/fedtti/how-to-register-a-service-worker-with-vite-and-rollup-without-plugins-3i71)
-- [Master Dynamic Theming in Angular: Build Scalable Theme Architecture with SCSS](https://dev.to/codewithrajat/master-dynamic-theming-in-angular-build-scalable-theme-architecture-with-scss-3k6m)
-- [Why Slack Messages Are Killing Your Staging Environment Workflow](https://dev.to/stagingapp/why-slack-messages-are-killing-your-staging-environment-workflow-3kej)
+- [Writing Emails: Tips &amp; Tricks &lpar;Especially for Developers&rpar;](https://dev.to/this-is-learning/writing-emails-tips-tricks-especially-for-developers-1e7i)
+- [Comparing CAPTCHA-Solving Services: Beyond Pricing, Inside the Tech](https://dev.to/markus009/comparing-captcha-solving-services-beyond-pricing-inside-the-tech-2nk0)
+- [Types of Restaurants](https://dev.to/dilu_fathima_8153d5775702/types-of-restaurants-5g3o)
+- [Asset Management vs. Configuration Management: Key Differences Explained](https://dev.to/jennifer_devsamurai/asset-management-vs-configuration-management-key-differences-explained-2pog)
+- [A Case Against Abstraction](https://dev.to/puritanic/a-case-against-abstraction-118o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
