@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Grant Horvat: Can We Break a Public Course Record? &lpar;Frustrating&rpar;](https://dev.to/youtube_golf/grant-horvat-can-we-break-a-public-course-record-frustrating-nl6)
-- [Rick Shiels Golf: Can I beat Ian Poulter if i start -10 Par &lpar;The Rematch&rpar;](https://dev.to/youtube_golf/rick-shiels-golf-can-i-beat-ian-poulter-if-i-start-10-par-the-rematch-49g6)
-- [GameSpot: Call of Duty: Black Ops 7 | Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-official-gameplay-reveal-trailer-53il)
-- [GameSpot: Warhammer 40k: Dawn of War 4 - Official Cinematic Announcement Trailer](https://dev.to/gg_news/gamespot-warhammer-40k-dawn-of-war-4-official-cinematic-announcement-trailer-4efc)
-- [GameSpot: Onimusha: Way of the Sword - The Genma Experiments Gameplay Trailer](https://dev.to/gg_news/gamespot-onimusha-way-of-the-sword-the-genma-experiments-gameplay-trailer-1oc)
+- [Good starting point for deeper reflection on this subject.](https://dev.to/juanperez/good-starting-point-for-deeper-reflection-on-this-subject-16k3)
+- [How to Manage Maintenance Work Orders Inside Business Central](https://dev.to/insight_works/how-to-manage-maintenance-work-orders-inside-business-central-1mdn)
+- [10 DEV.to Features Every Member Should Know](https://dev.to/siswoyo/10-devto-features-every-member-should-know-l48)
+- [Family First #44](https://dev.to/0xj0n1/family-first-44-50ka)
+- [Excellent contribution, especially useful for those looking to dive deeper into the topic](https://dev.to/juanperez/excellent-contribution-especially-useful-for-those-looking-to-dive-deeper-into-the-topic-2n35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
