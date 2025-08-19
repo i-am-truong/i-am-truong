@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Storytelling Service With RCS Rich Cards and Gemini](https://dev.to/vonagedev/build-a-storytelling-service-with-rcs-rich-cards-and-gemini-1h6j)
 - [Projek Jawi Converter: Belajar Golang Sambil Mendigitalkan Warisan Bahasa](https://dev.to/hardyweb/projek-jawi-converter-belajar-golang-sambil-mendigitalkan-warisan-bahasa-1p1a)
 - [Charges levied by banks](https://dev.to/madgan95/charges-levied-by-banks-4he)
 - [Building an AI-Powered Video Ad Creator with AWS Nova and Strands Agents](https://dev.to/debadattap/building-an-ai-powered-video-ad-creator-with-aws-nova-and-strands-agents-2ogn)
 - [College vs Skills — Student POV](https://dev.to/waqar_akhtar_f4a1df2340f1/college-vs-skills-student-pov-13pi)
-- [How to Read a Circuit Diagram: Insights from a Senior Engineer](https://dev.to/frank_1871bc3c55f35370df3/how-to-read-a-circuit-diagram-insights-from-a-senior-engineer-5756)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
