@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Playwright E2E testing cheatsheet](https://dev.to/olhapi/playwright-e2e-testing-cheatsheet-15gl)
-- [Machine Coding - Vending Machine](https://dev.to/anjalijha22/machine-coding-vending-machine-1e1d)
-- [The Story of GraphQL: How Facebook’s Crisis Changed APIs Forever](https://dev.to/visy_ani/the-story-of-graphql-how-facebooks-crisis-changed-apis-forever-2d92)
-- [PHP Developer Needed to Debug and Fix Website Code](https://dev.to/demian_e1406ace3f8ce6e87d/php-developer-needed-to-debug-and-fix-website-code-5968)
-- [We&#39;re the Google DeepMind Team building Gemini, Google AI Studio, and more! Ask Us Anything.](https://dev.to/googleai/were-the-google-deepmind-team-building-gemini-google-ai-studio-and-more-ask-us-anything-4k4)
+- [Grant Horvat: Can We Break a Public Course Record? &lpar;Frustrating&rpar;](https://dev.to/youtube_golf/grant-horvat-can-we-break-a-public-course-record-frustrating-nl6)
+- [Rick Shiels Golf: Can I beat Ian Poulter if i start -10 Par &lpar;The Rematch&rpar;](https://dev.to/youtube_golf/rick-shiels-golf-can-i-beat-ian-poulter-if-i-start-10-par-the-rematch-49g6)
+- [GameSpot: Call of Duty: Black Ops 7 | Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-official-gameplay-reveal-trailer-53il)
+- [GameSpot: Warhammer 40k: Dawn of War 4 - Official Cinematic Announcement Trailer](https://dev.to/gg_news/gamespot-warhammer-40k-dawn-of-war-4-official-cinematic-announcement-trailer-4efc)
+- [GameSpot: Onimusha: Way of the Sword - The Genma Experiments Gameplay Trailer](https://dev.to/gg_news/gamespot-onimusha-way-of-the-sword-the-genma-experiments-gameplay-trailer-1oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
