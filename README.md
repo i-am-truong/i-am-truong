@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing SCAN - A Must Have Plugin](https://dev.to/theaniketraj/introducing-scan-a-must-have-plugin-47jh)
-- [Terraform Module Example – Resource Group Creation on Azure](https://dev.to/techmademi/terraform-module-example-resource-group-creation-on-azure-281)
-- [The Smart Way Pandas Handles Overlapping Column Names](https://dev.to/drorata/the-smart-way-pandas-handles-overlapping-column-names-4jko)
-- [Cloudflare WAF Best Practices: Features, Challenges, and Alternatives](https://dev.to/carrie_luo1/cloudflare-waf-best-practices-features-challenges-and-alternatives-g17)
-- [From Ink.js to Phaser.js: Rebuilding Black Market Protocol&#39;s Core Systems](https://dev.to/creator_x/from-inkjs-to-phaserjs-rebuilding-black-market-protocols-core-systems-39d1)
+- [I Tested 30+ Free AI Resume Builders — These 8 Are the Absolute Best](https://dev.to/nitinfab/i-tested-30-free-ai-resume-builders-these-8-are-the-absolute-best-5fl6)
+- [✨ Bridging Technical Skills and Soft Skills ✨](https://dev.to/khulyso/bridging-technical-skills-and-soft-skills-3j0f)
+- [The New Frontier of Ad Operations Excellence](https://dev.to/aditi_db_c8baedd59ab8824d/the-new-frontier-of-ad-operations-excellence-5a86)
+- [Shane Windmeyer to Tech Leaders: DEI in Software Development Can’t Be Optional](https://dev.to/shane_windmeyer/shane-windmeyer-to-tech-leaders-dei-in-software-development-cant-be-optional-798)
+- [Day 1 of 100.](https://dev.to/lyop_achayi/day-1-of-100-1119)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
