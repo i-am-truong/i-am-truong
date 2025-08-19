@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 30+ Free AI Resume Builders — These 8 Are the Absolute Best](https://dev.to/nitinfab/i-tested-30-free-ai-resume-builders-these-8-are-the-absolute-best-5fl6)
-- [✨ Bridging Technical Skills and Soft Skills ✨](https://dev.to/khulyso/bridging-technical-skills-and-soft-skills-3j0f)
-- [The New Frontier of Ad Operations Excellence](https://dev.to/aditi_db_c8baedd59ab8824d/the-new-frontier-of-ad-operations-excellence-5a86)
-- [Shane Windmeyer to Tech Leaders: DEI in Software Development Can’t Be Optional](https://dev.to/shane_windmeyer/shane-windmeyer-to-tech-leaders-dei-in-software-development-cant-be-optional-798)
-- [Day 1 of 100.](https://dev.to/lyop_achayi/day-1-of-100-1119)
+- [From Idea to Laravel App in Minutes &lpar;No Coding Required&rpar;](https://dev.to/avinashvagh/from-idea-to-laravel-app-in-minutes-no-coding-required-5b0h)
+- [How to Write a Soulbound Token Smart Contract in Go with KALP SDK](https://dev.to/kalpstudio/how-to-write-a-soulbound-token-smart-contract-in-go-with-kalp-sdk-2m0l)
+- [KEXP: Blondshell - Event Of A Fire &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-event-of-a-fire-live-on-kexp-5a21)
+- [KEXP: Blondshell - Toy &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-toy-live-on-kexp-1enm)
+- [KEXP: Blondshell - T&amp;A &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-ta-live-on-kexp-286h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
