@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Your Discord Server Active and Engaged](https://dev.to/apis/how-to-make-your-discord-server-active-and-engaged-1d34)
+- [MST Blockchain: India’s First Layer-1 Platform for Web3 Developers — Quick Start Guide &amp; Ecosystem Overview](https://dev.to/mst-chain/mst-blockchain-indias-first-layer-1-platform-for-web3-developers-quick-start-guide-ecosystem-5bck)
+- [Live Examples - Modern Angular Patterns &lpar;2025&rpar;: Signals, NgRx, RxJS, Web Components, A11y &amp; Performance Testing](https://dev.to/jdavissoftware/live-examples-modern-angular-patterns-2025-signals-ngrx-rxjs-web-components-a11y--53em)
 - [Running AI Models with Docker Compose](https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng)
 - [Day 70: When Your First Hater Becomes Your Best Motivator](https://dev.to/casperday11/day-70-when-your-first-hater-becomes-your-best-motivator-38kj)
-- [Docker 4.44 is here](https://dev.to/sirivarma/docker-444-is-here-25gb)
-- [Creating Multilingual WordPress Sites with AI-Based Translation Plugins](https://dev.to/addwebsolutionpvtltd/creating-multilingual-wordpress-sites-with-ai-based-translation-plugins-1j0f)
-- [Sleep Your Way to Brilliant Ideas: The Science of How Rest Supercharges Creativity](https://dev.to/latest_movies_45cbc6a2ecc/sleep-your-way-to-brilliant-ideas-the-science-of-how-rest-supercharges-creativity-52m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
