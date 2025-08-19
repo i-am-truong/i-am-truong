@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Common Challenges for developers and learners](https://dev.to/davinceleecode/common-challenges-for-developers-and-learners-hm2)
-- [Get started with deploying web apps on AWS](https://dev.to/rnay/get-started-with-deploying-web-apps-on-aws-pm9)
-- [Hello World! &lpar;I Think I&#39;m Ready for This&rpar;](https://dev.to/yumnayasirr/hello-world-i-think-im-ready-for-this-3j5g)
-- [Coursera vs Udemy: Which Platform Should You Actually Learn From?](https://dev.to/stack_overflowed/coursera-vs-udemy-which-platform-should-you-actually-learn-from-4jld)
-- [Why I Write My README Before I Touch the Keyboard](https://dev.to/leena_malhotra_355340d89c/why-i-write-my-readme-before-i-touch-the-keyboard-1c11)
+- [𝗗𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀 𝗠𝗮𝘁𝘁𝗲𝗿: 𝗟𝗲𝘃𝗲𝗹 𝗨𝗽 𝗬𝗼𝘂𝗿 𝗗𝗲𝘃 𝗚𝗿𝗼𝘄𝘁𝗵](https://dev.to/supraja_tangella_b7f0738e/-1id8)
+- [Building a Robust Backend with Effect, GraphQL, and Drizzle](https://dev.to/martinpersson/building-a-robust-backend-with-effect-graphql-and-drizzle-k4j)
+- [How Much Does It Cost to Build a Flight Booking Engine?](https://dev.to/anshikaila/how-much-does-it-cost-to-build-a-flight-booking-engine-551c)
+- [I just deployed my portfolio site!](https://dev.to/miojoester/i-just-deployed-my-portfolio-site-1c83)
+- [How Painting Class Date Nights Strengthen Communication and Connection](https://dev.to/artschool99/how-painting-class-date-nights-strengthen-communication-and-connection-181e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
