@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Good starting point for deeper reflection on this subject.](https://dev.to/juanperez/good-starting-point-for-deeper-reflection-on-this-subject-16k3)
-- [How to Manage Maintenance Work Orders Inside Business Central](https://dev.to/insight_works/how-to-manage-maintenance-work-orders-inside-business-central-1mdn)
-- [10 DEV.to Features Every Member Should Know](https://dev.to/siswoyo/10-devto-features-every-member-should-know-l48)
-- [Family First #44](https://dev.to/0xj0n1/family-first-44-50ka)
-- [Excellent contribution, especially useful for those looking to dive deeper into the topic](https://dev.to/juanperez/excellent-contribution-especially-useful-for-those-looking-to-dive-deeper-into-the-topic-2n35)
+- [Server-Side Rendering in 2025: Nuxt vs. Next – Which One Should You Choose?](https://dev.to/marxon/server-side-rendering-in-2025-nuxt-vs-next-which-one-should-you-choose-555n)
+- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-1edh)
+- [BootstrapVueNext: strengths, limitations, and adoption](https://dev.to/marxon/bootstrapvuenext-strengths-limitations-and-adoption-2p27)
+- [There&#39;s something off in the &quot;dev with AI or die&quot; narrative](https://dev.to/etienneburdet/theres-something-off-in-the-dev-with-ai-or-die-narrative-1975)
+- [Day 19 of #30DaysOfCode](https://dev.to/justacoder_0x/day-19-of-30daysofcode-3h90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
