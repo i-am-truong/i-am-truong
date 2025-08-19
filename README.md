@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage&#39;s Live Streams: Tuesday, Aug. 19, at 3 pm PT](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-live-streams-tuesday-aug-19-at-3-pm-pt-5g7a)
-- [COLORS: Venna | A COLORS ENCORE](https://dev.to/music_youtube/colors-venna-a-colors-encore-11e3)
-- [IGN: The Long Walk - Exclusive Red Band Clip &lpar;2025&rpar; Cooper Hoffman, David Jonsson](https://dev.to/gg_news/ign-the-long-walk-exclusive-red-band-clip-2025-cooper-hoffman-david-jonsson-2eln)
-- [IGN: Cinder City - Official Trailer | gamescom 2025](https://dev.to/gg_news/ign-cinder-city-official-trailer-gamescom-2025-1437)
-- [IGN: Grindworm - Official Announcement Trailer](https://dev.to/gg_news/ign-grindworm-official-announcement-trailer-48c1)
+- [The Technical Rabbit Hole: Intercepting VS Code Commands Like a Pro 🕳️](https://dev.to/vijay431/the-technical-rabbit-hole-intercepting-vs-code-commands-like-a-pro-1dgk)
+- [Basic Statistics in Tableau: Correlation](https://dev.to/dipti_m_2e7ba36c478d1a48a/basic-statistics-in-tableau-correlation-451)
+- [Getting Started with API Automation: Simple Integration with Code](https://dev.to/otieno_keith/getting-started-with-api-automation-simple-integration-with-code-48i7)
+- [Using Webhooks for Instant Automation Workflows &lpar;with Code Example&rpar;](https://dev.to/otieno_keith/using-webhooks-for-instant-automation-workflows-with-code-example-38pj)
+- [Automated Testing for Web Apps with Cypress](https://dev.to/otieno_keith/automated-testing-for-web-apps-with-cypress-2omb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
