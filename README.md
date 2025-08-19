@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Craft Effective Prompts Using PARTS](https://dev.to/mariohhd/how-to-craft-effective-prompts-using-parts-2587)
+- [Object-Oriented Programming in Python: Complete Crash Course](https://dev.to/arslanyousaf12/object-oriented-programming-in-python-complete-crash-course-210o)
+- [# How to Create a Simple CRUD API Using Node.js, Express, and MongoDB Atlas](https://dev.to/sudiip__17/-how-to-create-a-simple-crud-api-using-nodejs-express-and-mongodb-atlas-4p3f)
+- [What Are the Tax Responsibilities for Limited Companies?](https://dev.to/confirmation_stateme/what-are-the-tax-responsibilities-for-limited-companies-4d10)
 - [Build a Storytelling Service With RCS Rich Cards and Gemini](https://dev.to/vonagedev/build-a-storytelling-service-with-rcs-rich-cards-and-gemini-1h6j)
-- [Projek Jawi Converter: Belajar Golang Sambil Mendigitalkan Warisan Bahasa](https://dev.to/hardyweb/projek-jawi-converter-belajar-golang-sambil-mendigitalkan-warisan-bahasa-1p1a)
-- [Charges levied by banks](https://dev.to/madgan95/charges-levied-by-banks-4he)
-- [Building an AI-Powered Video Ad Creator with AWS Nova and Strands Agents](https://dev.to/debadattap/building-an-ai-powered-video-ad-creator-with-aws-nova-and-strands-agents-2ogn)
-- [College vs Skills — Student POV](https://dev.to/waqar_akhtar_f4a1df2340f1/college-vs-skills-student-pov-13pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
