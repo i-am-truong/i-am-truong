@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mistakes Are Your First Teacher in Coding](https://dev.to/sonmusui/mistakes-are-your-first-teacher-in-coding-48ac)
-- [🚀 10 Android Studio Plugins That Turn You Into a 10 Developer &lpar;No Coffee Required ☕&rpar;](https://dev.to/vaibhav_shakya_e6b352bfc4/10-android-studio-plugins-that-turn-you-into-a-10x-developer-no-coffee-required--56om)
-- [How to Make Your Discord Server Active and Engaged](https://dev.to/apis/how-to-make-your-discord-server-active-and-engaged-1d34)
-- [zohobooksのデータ保護](https://dev.to/suzulabo/zohobooksnodetabao-hu-3mph)
-- [MST Blockchain: India’s First Layer-1 Platform for Web3 Developers — Quick Start Guide &amp; Ecosystem Overview](https://dev.to/mst-chain/mst-blockchain-indias-first-layer-1-platform-for-web3-developers-quick-start-guide-ecosystem-5bck)
+- [The Next Evolution:From Agile to Continuous Everything](https://dev.to/dct_technology/the-next-evolutionfrom-agile-to-continuous-everything-1a0e)
+- [Using IF nodes for conditional logic](https://dev.to/brook_051cd08713006b/using-if-nodes-for-conditional-logic-4m96)
+- [Deploying Express.js App on Vercel](https://dev.to/buildandcodewithraman/deploying-expressjs-app-on-vercel-1e4n)
+- [Effective Sprint Planning: Avoiding the Overcommitment Trap](https://dev.to/dct_technology/effective-sprint-planning-avoiding-the-overcommitment-trap-1fc5)
+- [AI’s Billion-Dollar Showdown: Tech Titans Clash in a Race for Supremacy](https://dev.to/nithya_iyer/ais-billion-dollar-showdown-tech-titans-clash-in-a-race-for-supremacy-54e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
