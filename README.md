@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://dev.to/deyvison_tavares/hello-world-3aoi)
-- [Channels vs Mutexes In Go - the Big Showdown](https://dev.to/gkoos/channels-vs-mutexes-in-go-the-big-showdown-338n)
-- [Hey guys check out this blog. Basically for anyone who wants to begin on a journey to understand Java😊](https://dev.to/cal_afun_2475adb4b562023b/hey-guys-check-out-this-blog-basically-for-anyone-who-wants-to-begin-on-a-journey-to-understand-1fin)
-- [I Don’t Fear Vibecoding, Because It Reminds Me of How I Got Here](https://dev.to/aileenvl/i-dont-fear-vibecoding-because-it-reminds-me-of-how-i-got-here-pin)
-- [Deploy Jenkins on EC2 via Custom Domain through Nginx and SSL Secured](https://dev.to/anonycat/deploy-jenkins-on-ec2-via-custom-domain-through-nginx-and-ssl-secured-jm3)
+- [Unveiling the Magic of Hash Tables: Your Ultimate Guide to Efficient Data Lookup PT. 2](https://dev.to/rubenoalvarado/unveiling-the-magic-of-hash-tables-your-ultimate-guide-to-efficient-data-lookup-pt-2-1c7i)
+- [Build a Lightweight Serverless ETL Pipeline to Iceberg Tables with AWS Lambda Athena](https://dev.to/datapenguin/build-a-lightweight-serverless-etl-pipeline-to-iceberg-tables-with-aws-lambda-athena-661)
+- [Title: Selenium Syntax: The Correct Way to Send Login Information](https://dev.to/yagyaraj_sharma_6cd410179/title-selenium-syntax-the-correct-way-to-send-login-information-396j)
+- [Pyker: A Modern PM2 Alternative for Python Developers](https://dev.to/mrvi0/pyker-a-modern-pm2-alternative-for-python-developers-e8m)
+- [IGN: Inferius - Official Announcement Trailer](https://dev.to/gg_news/ign-inferius-official-announcement-trailer-1lec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
