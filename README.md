@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Object Calisthenics: um treino para programadores, não para máquinas](https://dev.to/elenndev/object-calisthenics-um-treino-para-programadores-nao-para-maquinas-3hfn)
+- [Vertical clamp lines](https://dev.to/avcat/vertical-clamp-lines-14bk)
 - [Designing Scalable SQLite Schemas for Python Apps](https://dev.to/1fahadshah/designing-scalable-sqlite-schemas-for-python-apps-27gd)
 - [Let&#39;s build a Free Chatbot with Streamlit and Gemini AI &lpar;Step-by-Step for Beginners&rpar;](https://dev.to/timmydee/lets-build-a-free-chatbot-with-streamlit-and-gemini-ai-step-by-step-for-beginners-n14)
-- [I Built an AI System that Automates Entire News Agency. Here is How You Can Build Your Own](https://dev.to/codingmoney/i-built-an-ai-system-that-automates-entire-news-agency-here-is-how-you-can-build-your-own-517e)
-- [Controlled vs Uncontrolled Components in React🔄](https://dev.to/aman_kureshi_/controlled-vs-uncontrolled-components-in-react-3o84)
-- [Three Ways to Perform Queries in Spring Boot](https://dev.to/wkreuch/three-ways-to-perform-queries-in-spring-boot-4iij)
+- [Creating and Calling APIs in Node-RED](https://dev.to/hediyeh_kianmehr_45f78137/creating-and-calling-apis-in-node-red-4c7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
