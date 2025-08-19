@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Today I took my skills to the next level at Payilagam Institute](https://dev.to/kiran_raj_d6a648e3da320c1/today-i-took-my-skills-to-the-next-level-at-payilagam-institute-20f0)
-- [💸 AWS Bill Shock: Why It Happens and How to Prevent It](https://dev.to/maajidh_sabeel/aws-bill-shock-why-it-happens-and-how-to-prevent-it-cdg)
-- [What’s the biggest hidden cost you’ve faced after migrating to the cloud?](https://dev.to/kevinasutton/whats-the-biggest-hidden-cost-youve-faced-after-migrating-to-the-cloud-4oop)
-- [Jack Dorsey&#39;s Vibe Coding Tips](https://dev.to/blockopensource/jack-dorseys-vibe-coding-tips-48ok)
-- [An unusual interview task that turned out to be very common](https://dev.to/nik_maslov_956d027d8fe0c0/an-unusual-interview-task-that-turned-out-to-be-very-common-21dl)
+- [Why Every Tech Problem Feels Like Fighting a Final Boss](https://dev.to/pranta/why-every-tech-problem-feels-like-fighting-a-final-boss-25dj)
+- [Version Control](https://dev.to/aryantkumar/version-control-136i)
+- [Adam Savage&#39;s Tested: How Star Wars Control Panels Were Made for Filming!](https://dev.to/maker_youtube/adam-savages-tested-how-star-wars-control-panels-were-made-for-filming-1865)
+- [KEXP: Blondshell - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-full-performance-live-on-kexp-2e6o)
+- [Rick Beato: This Record Label Is Trying To SILENCE Me](https://dev.to/music_youtube/rick-beato-this-record-label-is-trying-to-silence-me-84a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
