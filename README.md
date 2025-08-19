@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Object Calisthenics: um treino para programadores, não para máquinas](https://dev.to/elenndev/object-calisthenics-um-treino-para-programadores-nao-para-maquinas-3hfn)
-- [Vertical clamp lines](https://dev.to/avcat/vertical-clamp-lines-14bk)
-- [Designing Scalable SQLite Schemas for Python Apps](https://dev.to/1fahadshah/designing-scalable-sqlite-schemas-for-python-apps-27gd)
-- [Let&#39;s build a Free Chatbot with Streamlit and Gemini AI &lpar;Step-by-Step for Beginners&rpar;](https://dev.to/timmydee/lets-build-a-free-chatbot-with-streamlit-and-gemini-ai-step-by-step-for-beginners-n14)
-- [Creating and Calling APIs in Node-RED](https://dev.to/hediyeh_kianmehr_45f78137/creating-and-calling-apis-in-node-red-4c7b)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Live Streams: Tuesday, Aug. 19, at 3 pm PT](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-live-streams-tuesday-aug-19-at-3-pm-pt-5g7a)
+- [COLORS: Venna | A COLORS ENCORE](https://dev.to/music_youtube/colors-venna-a-colors-encore-11e3)
+- [IGN: The Long Walk - Exclusive Red Band Clip &lpar;2025&rpar; Cooper Hoffman, David Jonsson](https://dev.to/gg_news/ign-the-long-walk-exclusive-red-band-clip-2025-cooper-hoffman-david-jonsson-2eln)
+- [IGN: Cinder City - Official Trailer | gamescom 2025](https://dev.to/gg_news/ign-cinder-city-official-trailer-gamescom-2025-1437)
+- [IGN: Grindworm - Official Announcement Trailer](https://dev.to/gg_news/ign-grindworm-official-announcement-trailer-48c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
