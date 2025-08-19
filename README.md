@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [𝗗𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀 𝗠𝗮𝘁𝘁𝗲𝗿: 𝗟𝗲𝘃𝗲𝗹 𝗨𝗽 𝗬𝗼𝘂𝗿 𝗗𝗲𝘃 𝗚𝗿𝗼𝘄𝘁𝗵](https://dev.to/supraja_tangella_b7f0738e/-1id8)
-- [Building a Robust Backend with Effect, GraphQL, and Drizzle](https://dev.to/martinpersson/building-a-robust-backend-with-effect-graphql-and-drizzle-k4j)
-- [How Much Does It Cost to Build a Flight Booking Engine?](https://dev.to/anshikaila/how-much-does-it-cost-to-build-a-flight-booking-engine-551c)
-- [I just deployed my portfolio site!](https://dev.to/miojoester/i-just-deployed-my-portfolio-site-1c83)
-- [How Painting Class Date Nights Strengthen Communication and Connection](https://dev.to/artschool99/how-painting-class-date-nights-strengthen-communication-and-connection-181e)
+- [If you understand how languages and compilers actually work, you’ll write better code and learn new languages more easily.](https://dev.to/adewebdeveloper/if-you-understand-how-languages-and-compilers-actually-work-youll-write-better-code-and-learn-new-4bmh)
+- [The 48 Hours That Changed Tech Forever: AI&#39;s Biggest Breakthroughs Yet](https://dev.to/shiva_shanker_k/the-48-hours-that-changed-tech-forever-ais-biggest-breakthroughs-yet-47o7)
+- [I would never recommend going straight into freelancing.](https://dev.to/adewebdeveloper/i-would-never-recommend-going-straight-into-freelancing-4apk)
+- [How to Choose the Right Tech Stack for Fintech App Development](https://dev.to/simran_k/how-to-choose-the-right-tech-stack-for-fintech-app-development-4fco)
+- [🛢RDS Powers a Secure Three-Tier Application on AWS](https://dev.to/akashabish/rds-powers-a-secure-three-tier-application-on-aws-25h6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
