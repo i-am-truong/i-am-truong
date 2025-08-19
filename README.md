@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Launch Your First Serverless API: Hands-On with AWS Chalice on AWS Lambda](https://dev.to/shrsv/launch-your-first-serverless-api-hands-on-with-aws-chalice-on-aws-lambda-3712)
-- [Creativity Isn’t a Gift—It’s a Bank Account. Here’s How to Make Withdrawals](https://dev.to/praisejamesx/creativity-isnt-a-gift-its-a-bank-account-heres-how-to-make-withdrawals-d0k)
-- [Chrome Extension](https://dev.to/rohan2596/-4lo7)
-- [Beginner’s Guide to Wordlists and Crunch for Password Testing](https://dev.to/rijultp/beginners-guide-to-wordlists-and-crunch-for-password-testing-4j14)
-- [The Best Minimal Chrome To-Do List Extension You’ll Ever Need](https://dev.to/rohan2596/the-best-minimal-chrome-to-do-list-extension-youll-ever-need-2cgk)
+- [Playwright E2E testing cheatsheet](https://dev.to/olhapi/playwright-e2e-testing-cheatsheet-15gl)
+- [Machine Coding - Vending Machine](https://dev.to/anjalijha22/machine-coding-vending-machine-1e1d)
+- [The Story of GraphQL: How Facebook’s Crisis Changed APIs Forever](https://dev.to/visy_ani/the-story-of-graphql-how-facebooks-crisis-changed-apis-forever-2d92)
+- [PHP Developer Needed to Debug and Fix Website Code](https://dev.to/demian_e1406ace3f8ce6e87d/php-developer-needed-to-debug-and-fix-website-code-5968)
+- [We&#39;re the Google DeepMind Team building Gemini, Google AI Studio, and more! Ask Us Anything.](https://dev.to/googleai/were-the-google-deepmind-team-building-gemini-google-ai-studio-and-more-ask-us-anything-4k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
