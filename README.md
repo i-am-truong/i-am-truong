@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why ChatGPT’s Current State Honestly Freaks Me Out..](https://dev.to/phantom0121/why-chatgpts-current-state-honestly-freaks-me-out-1f5j)
 - [Kotlin:&#39;Generics&#39; Questions](https://dev.to/raji_ac_547dee39c0395e6bf/kotlingenerics-questions-228c)
 - [Stop wasting hours on i18n – I built a CLI that does it in seconds](https://dev.to/asad_rafi1221/stop-wasting-hours-on-i18n-i-built-a-cli-that-does-it-in-seconds-1ffk)
 - [How MNC React Developer](https://dev.to/tahir_rafique/how-mnc-react-developer-127l)
 - [HuntingPad: The Chrome Extension for Ambitious Job Seekers](https://dev.to/galih_huntingpad_267414f1/huntingpad-the-chrome-extension-for-ambitious-job-seekers-5d4j)
-- [build Hotel Management System web app using Django and bootstrap](https://dev.to/pio_samueloliha/build-hotel-management-system-web-app-using-django-and-bootstrap-5812)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
