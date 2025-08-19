@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Technical Rabbit Hole: Intercepting VS Code Commands Like a Pro 🕳️](https://dev.to/vijay431/the-technical-rabbit-hole-intercepting-vs-code-commands-like-a-pro-1dgk)
-- [Basic Statistics in Tableau: Correlation](https://dev.to/dipti_m_2e7ba36c478d1a48a/basic-statistics-in-tableau-correlation-451)
-- [Getting Started with API Automation: Simple Integration with Code](https://dev.to/otieno_keith/getting-started-with-api-automation-simple-integration-with-code-48i7)
-- [Using Webhooks for Instant Automation Workflows &lpar;with Code Example&rpar;](https://dev.to/otieno_keith/using-webhooks-for-instant-automation-workflows-with-code-example-38pj)
-- [Automated Testing for Web Apps with Cypress](https://dev.to/otieno_keith/automated-testing-for-web-apps-with-cypress-2omb)
+- [Chrome Extension](https://dev.to/rohan2596/-4lo7)
+- [Beginner’s Guide to Wordlists and Crunch for Password Testing](https://dev.to/rijultp/beginners-guide-to-wordlists-and-crunch-for-password-testing-4j14)
+- [The Best Minimal Chrome To-Do List Extension You’ll Ever Need](https://dev.to/rohan2596/the-best-minimal-chrome-to-do-list-extension-youll-ever-need-2cgk)
+- [🚀 5 Ways AI is Transforming QA Leadership](https://dev.to/dasha_tsion_31379cfb51dd7/5-ways-ai-is-transforming-qa-leadership-1nk0)
+- [MongoDb: connecting with small apps.](https://dev.to/srushti_kulkarni_ff24f6a2/mongodb-connecting-with-small-apps-1kbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
