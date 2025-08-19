@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Tech Problem Feels Like Fighting a Final Boss](https://dev.to/pranta/why-every-tech-problem-feels-like-fighting-a-final-boss-25dj)
-- [Version Control](https://dev.to/aryantkumar/version-control-136i)
-- [Adam Savage&#39;s Tested: How Star Wars Control Panels Were Made for Filming!](https://dev.to/maker_youtube/adam-savages-tested-how-star-wars-control-panels-were-made-for-filming-1865)
-- [KEXP: Blondshell - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-full-performance-live-on-kexp-2e6o)
-- [Rick Beato: This Record Label Is Trying To SILENCE Me](https://dev.to/music_youtube/rick-beato-this-record-label-is-trying-to-silence-me-84a)
+- [[Boost]](https://dev.to/behradbahrami/-5e3o)
+- [SPF, DKIM, and DMARC Explained Simply &lpar;with Infographics&rpar;](https://dev.to/pelle_penttinen_3e932ddf0/spf-dkim-and-dmarc-explained-simply-with-infographics-660)
+- [🚀 Throttle vs Debounce in JavaScript – The Ultimate Guide with Examples](https://dev.to/rohit_singh_ee84e64941db7/throttle-vs-debounce-in-javascript-the-ultimate-guide-with-examples-l1b)
+- [Can You Build AI Agents in Rust? Yep, and Here’s How I Did it](https://dev.to/composiodev/can-you-build-ai-agents-in-rust-yep-and-heres-how-i-did-it-2b5i)
+- [[Boost]](https://dev.to/bdussault/-3l16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
