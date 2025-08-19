@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering in 2025: Nuxt vs. Next – Which One Should You Choose?](https://dev.to/marxon/server-side-rendering-in-2025-nuxt-vs-next-which-one-should-you-choose-555n)
-- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-1edh)
-- [BootstrapVueNext: strengths, limitations, and adoption](https://dev.to/marxon/bootstrapvuenext-strengths-limitations-and-adoption-2p27)
-- [There&#39;s something off in the &quot;dev with AI or die&quot; narrative](https://dev.to/etienneburdet/theres-something-off-in-the-dev-with-ai-or-die-narrative-1975)
-- [Day 19 of #30DaysOfCode](https://dev.to/justacoder_0x/day-19-of-30daysofcode-3h90)
+- [Kotlin:&#39;Generics&#39; Questions](https://dev.to/raji_ac_547dee39c0395e6bf/kotlingenerics-questions-228c)
+- [Stop wasting hours on i18n – I built a CLI that does it in seconds](https://dev.to/asad_rafi1221/stop-wasting-hours-on-i18n-i-built-a-cli-that-does-it-in-seconds-1ffk)
+- [How MNC React Developer](https://dev.to/tahir_rafique/how-mnc-react-developer-127l)
+- [HuntingPad: The Chrome Extension for Ambitious Job Seekers](https://dev.to/galih_huntingpad_267414f1/huntingpad-the-chrome-extension-for-ambitious-job-seekers-5d4j)
+- [build Hotel Management System web app using Django and bootstrap](https://dev.to/pio_samueloliha/build-hotel-management-system-web-app-using-django-and-bootstrap-5812)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
