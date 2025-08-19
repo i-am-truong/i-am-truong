@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [flow-run: LLM Orchestration, Prompt Testing &amp; Cost Monitoring](https://dev.to/vitaliihonchar/flow-run-llm-orchestration-prompt-testing-cost-monitoring-5836)
+- [BigQuery AI - Building the Future of Data:Day1](https://dev.to/nk_maker/bigquery-ai-building-the-future-of-dataday1-54k)
+- [Day1: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day1-sql-54g5)
 - [How to Craft Effective Prompts Using PARTS](https://dev.to/mariohhd/how-to-craft-effective-prompts-using-parts-2587)
 - [Object-Oriented Programming in Python: Complete Crash Course](https://dev.to/arslanyousaf12/object-oriented-programming-in-python-complete-crash-course-210o)
-- [# How to Create a Simple CRUD API Using Node.js, Express, and MongoDB Atlas](https://dev.to/sudiip__17/-how-to-create-a-simple-crud-api-using-nodejs-express-and-mongodb-atlas-4p3f)
-- [What Are the Tax Responsibilities for Limited Companies?](https://dev.to/confirmation_stateme/what-are-the-tax-responsibilities-for-limited-companies-4d10)
-- [Build a Storytelling Service With RCS Rich Cards and Gemini](https://dev.to/vonagedev/build-a-storytelling-service-with-rcs-rich-cards-and-gemini-1h6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
