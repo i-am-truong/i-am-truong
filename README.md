@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Code Retrieval for Claude Code from Scratch](https://dev.to/chen_zhang_bac430bc7f6b95/building-code-retrieval-for-claude-code-from-scratch-3n8c)
-- [2025 Latest: Complete Guide to Qwen-Image-Edit Image Editing Model](https://dev.to/czmilo/2025-latest-complete-guide-to-qwen-image-edit-image-editing-model-2kd5)
-- [How I Built a Performant Logic Puzzle Game with Next.js and a Web Worker](https://dev.to/airobus/how-i-built-a-performant-logic-puzzle-game-with-nextjs-and-a-web-worker-4381)
-- [Understanding Lambda Functions in Python: Definition, Usage, and Applications](https://dev.to/p-rf/understanding-lambda-functions-in-python-definition-usage-and-applications-1l0b)
-- [IGN: Permafrost - Official Trailer | gamescom 2025](https://dev.to/gg_news/ign-permafrost-official-trailer-gamescom-2025-nh9)
+- [Smartbi RCE Vulnerability — Patch Now Before Attackers Do](https://dev.to/sharon_42e16b8da44dabde6d/smartbi-rce-vulnerability-patch-now-before-attackers-do-10bk)
+- [Why ChatGPT Prioritizes Engagement Over Truth](https://dev.to/agustin_v_startari/why-chatgpt-prioritizes-engagement-over-truth-13p4)
+- [Push and Pull Supply Chain: Everything You Need to Know](https://dev.to/shruthi_nagaraj_e00b8e3c6/push-and-pull-supply-chain-everything-you-need-to-know-7ic)
+- [Linux vs Android SBCs: Pros and Cons for Developers and System Integrators](https://dev.to/lauraaa/linux-vs-android-sbcs-pros-and-cons-for-developers-and-system-integrators-4fi0)
+- [Crack the Code: Building a Real-Time Multiplayer Game with AI](https://dev.to/soukhya_0e36963c45b1ba212/crack-the-code-building-a-real-time-multiplayer-game-with-ai-347i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
