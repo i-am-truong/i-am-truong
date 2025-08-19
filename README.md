@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A journey into Java](https://dev.to/manikandan_a8f99e0153ef77/a-journey-into-java-1o9i)
-- [Mengupas PostgreSQL: Si Arsiparis Digital yang Layak Kamu Kenal](https://dev.to/mumtaz_75761535ec9c7fdd1d/mengupas-postgresql-si-arsiparis-digital-yang-layak-kamu-kenal-21n6)
-- [Hey Fellas !!](https://dev.to/pratik00531/hey-fellas--10o8)
-- [Top 10 Linux Commands I Use Daily as a Developer](https://dev.to/prime_1/top-10-linux-commands-i-use-daily-as-a-developer-437)
-- [&#39;Doglabbing&#39; ngrok: Standardized AuthN and routing for everything](https://dev.to/ngrok/doglabbing-ngrok-standardized-authn-and-routing-for-everything-8ok)
+- [The Blackboard Pattern: A Framework for Complex Problem Solving](https://dev.to/lovestaco/the-blackboard-pattern-a-framework-for-complex-problem-solving-4o1p)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-54fg)
+- [Zero-Touch Bare Metal at Scale](https://dev.to/sarah-railway/zero-touch-bare-metal-at-scale-56e4)
+- [New Add-on for -Form Choice Limiter](https://dev.to/bahodir_amerbekov_97d36e8/new-add-on-for-form-choice-limiter-134b)
+- [A Better Way to Test Database Schema Changes during Local Development and Pull Requests](https://dev.to/signadot/how-to-test-database-schema-changes-in-sandboxes-dh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
