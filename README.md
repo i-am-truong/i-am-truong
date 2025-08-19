@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mistakes Are Your First Teacher in Coding](https://dev.to/sonmusui/mistakes-are-your-first-teacher-in-coding-48ac)
+- [🚀 10 Android Studio Plugins That Turn You Into a 10 Developer &lpar;No Coffee Required ☕&rpar;](https://dev.to/vaibhav_shakya_e6b352bfc4/10-android-studio-plugins-that-turn-you-into-a-10x-developer-no-coffee-required--56om)
 - [How to Make Your Discord Server Active and Engaged](https://dev.to/apis/how-to-make-your-discord-server-active-and-engaged-1d34)
+- [zohobooksのデータ保護](https://dev.to/suzulabo/zohobooksnodetabao-hu-3mph)
 - [MST Blockchain: India’s First Layer-1 Platform for Web3 Developers — Quick Start Guide &amp; Ecosystem Overview](https://dev.to/mst-chain/mst-blockchain-indias-first-layer-1-platform-for-web3-developers-quick-start-guide-ecosystem-5bck)
-- [Live Examples - Modern Angular Patterns &lpar;2025&rpar;: Signals, NgRx, RxJS, Web Components, A11y &amp; Performance Testing](https://dev.to/jdavissoftware/live-examples-modern-angular-patterns-2025-signals-ngrx-rxjs-web-components-a11y--53em)
-- [Running AI Models with Docker Compose](https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng)
-- [Day 70: When Your First Hater Becomes Your Best Motivator](https://dev.to/casperday11/day-70-when-your-first-hater-becomes-your-best-motivator-38kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
