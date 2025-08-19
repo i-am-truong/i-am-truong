@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Laravel App in Minutes &lpar;No Coding Required&rpar;](https://dev.to/avinashvagh/from-idea-to-laravel-app-in-minutes-no-coding-required-5b0h)
-- [How to Write a Soulbound Token Smart Contract in Go with KALP SDK](https://dev.to/kalpstudio/how-to-write-a-soulbound-token-smart-contract-in-go-with-kalp-sdk-2m0l)
-- [KEXP: Blondshell - Event Of A Fire &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-event-of-a-fire-live-on-kexp-5a21)
-- [KEXP: Blondshell - Toy &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-toy-live-on-kexp-1enm)
-- [KEXP: Blondshell - T&amp;A &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-ta-live-on-kexp-286h)
+- [Making progress on subforem editing, just added subforem moderator role.](https://dev.to/ben/making-progress-on-subforem-editing-just-added-subforem-moderator-role-3h1l)
+- [Building an Advanced AI Agent: A Step-by-Step Guide to Integrating MCP Servers with LangGraph](https://dev.to/amol_kavitkar/building-an-advanced-ai-agent-a-step-by-step-guide-to-integrating-mcp-servers-with-langgraph-4ocf)
+- [Unlocking Hidden Cloud Superpowers: GKE Topology Manager GA &amp; Node Swap — DevOps Game Changers You Haven’t Tried](https://dev.to/lakshmikanth_reddy/unlocking-hidden-cloud-superpowers-gke-topology-manager-ga-node-swap-devops-game-changers-you-3d1g)
+- [React 19 `use` Hook Deep Dive — Using Promises Directly in Your Components](https://dev.to/a1guy/react-19-use-hook-deep-dive-using-promises-directly-in-your-components-1plp)
+- [Bringing AI to the Edge: MCP for IoT](https://dev.to/om_shree_0709/bringing-ai-to-the-edge-mcp-for-iot-4494)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
