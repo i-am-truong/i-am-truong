@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why ChatGPT’s Current State Honestly Freaks Me Out..](https://dev.to/phantom0121/why-chatgpts-current-state-honestly-freaks-me-out-1f5j)
-- [Kotlin:&#39;Generics&#39; Questions](https://dev.to/raji_ac_547dee39c0395e6bf/kotlingenerics-questions-228c)
-- [Stop wasting hours on i18n – I built a CLI that does it in seconds](https://dev.to/asad_rafi1221/stop-wasting-hours-on-i18n-i-built-a-cli-that-does-it-in-seconds-1ffk)
-- [How MNC React Developer](https://dev.to/tahir_rafique/how-mnc-react-developer-127l)
-- [HuntingPad: The Chrome Extension for Ambitious Job Seekers](https://dev.to/galih_huntingpad_267414f1/huntingpad-the-chrome-extension-for-ambitious-job-seekers-5d4j)
+- [GameSpot: Black Myth: Zhong Kui - Cinematic Teaser Trailer &lpar;English Dub&rpar;](https://dev.to/gg_news/gamespot-black-myth-zhong-kui-cinematic-teaser-trailer-english-dub-173p)
+- [GameSpot: Best Gamescom Opening Night Live Trailers 2025](https://dev.to/gg_news/gamespot-best-gamescom-opening-night-live-trailers-2025-11hl)
+- [GameSpot: Resident Evil Requiem &lpar;RE9&rpar; - Official Gamescom Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-resident-evil-requiem-re9-official-gamescom-gameplay-reveal-trailer-2b64)
+- [GameSpot: Opening Night Live 2025 in 52 Minutes | Gamescom 2025](https://dev.to/gg_news/gamespot-opening-night-live-2025-in-52-minutes-gamescom-2025-302h)
+- [IGN: World of Warcraft: Midnight - Official Opening Cinematic Trailer | gamescom 2025](https://dev.to/gg_news/ign-world-of-warcraft-midnight-official-opening-cinematic-trailer-gamescom-2025-2kk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
