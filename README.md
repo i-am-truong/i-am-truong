@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/behradbahrami/-5e3o)
-- [SPF, DKIM, and DMARC Explained Simply &lpar;with Infographics&rpar;](https://dev.to/pelle_penttinen_3e932ddf0/spf-dkim-and-dmarc-explained-simply-with-infographics-660)
-- [🚀 Throttle vs Debounce in JavaScript – The Ultimate Guide with Examples](https://dev.to/rohit_singh_ee84e64941db7/throttle-vs-debounce-in-javascript-the-ultimate-guide-with-examples-l1b)
-- [Can You Build AI Agents in Rust? Yep, and Here’s How I Did it](https://dev.to/composiodev/can-you-build-ai-agents-in-rust-yep-and-heres-how-i-did-it-2b5i)
-- [[Boost]](https://dev.to/bdussault/-3l16)
+- [A journey into Java](https://dev.to/manikandan_a8f99e0153ef77/a-journey-into-java-1o9i)
+- [Mengupas PostgreSQL: Si Arsiparis Digital yang Layak Kamu Kenal](https://dev.to/mumtaz_75761535ec9c7fdd1d/mengupas-postgresql-si-arsiparis-digital-yang-layak-kamu-kenal-21n6)
+- [Hey Fellas !!](https://dev.to/pratik00531/hey-fellas--10o8)
+- [Top 10 Linux Commands I Use Daily as a Developer](https://dev.to/prime_1/top-10-linux-commands-i-use-daily-as-a-developer-437)
+- [&#39;Doglabbing&#39; ngrok: Standardized AuthN and routing for everything](https://dev.to/ngrok/doglabbing-ngrok-standardized-authn-and-routing-for-everything-8ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
