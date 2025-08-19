@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Socket.io for Real-Time Apps](https://dev.to/godofgeeks/using-socketio-for-real-time-apps-1bea)
 - [Understanding Azure Hybrid Benefit](https://dev.to/techielass/understanding-azure-hybrid-benefit-31ji)
 - [How to Register a Service Worker With Vite and Rollup Without Plugins](https://dev.to/fedtti/how-to-register-a-service-worker-with-vite-and-rollup-without-plugins-3i71)
 - [Master Dynamic Theming in Angular: Build Scalable Theme Architecture with SCSS](https://dev.to/codewithrajat/master-dynamic-theming-in-angular-build-scalable-theme-architecture-with-scss-3k6m)
 - [Why Slack Messages Are Killing Your Staging Environment Workflow](https://dev.to/stagingapp/why-slack-messages-are-killing-your-staging-environment-workflow-3kej)
-- [Agentic AI: How Autonomous Agents Are Transforming Enterprise Workflows](https://dev.to/koolkamalkishor/agentic-ai-how-autonomous-agents-are-transforming-enterprise-workflows-4oi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
