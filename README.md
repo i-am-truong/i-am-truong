@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Controlled vs Uncontrolled Components in React🔄](https://dev.to/aman_kureshi_/controlled-vs-uncontrolled-components-in-react-3o84)
+- [Three Ways to Perform Queries in Spring Boot](https://dev.to/wkreuch/three-ways-to-perform-queries-in-spring-boot-4iij)
+- [Java_D4&amp;&amp;How to push the code in GIT using Linux Mint....](https://dev.to/ajayr18/javad4how-to-push-the-code-in-git-in-linux-mint-3bai)
+- [🤌 My First Months as the Lone QA Engineer in a Startup &lpar;Step-by-Step Roadmap&rpar;](https://dev.to/_codemify_b9533112d373/my-first-months-as-the-lone-qa-engineer-in-a-startup-step-by-step-roadmap-2bel)
 - [The Blackboard Pattern: A Framework for Complex Problem Solving](https://dev.to/lovestaco/the-blackboard-pattern-a-framework-for-complex-problem-solving-4o1p)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-54fg)
-- [Zero-Touch Bare Metal at Scale](https://dev.to/sarah-railway/zero-touch-bare-metal-at-scale-56e4)
-- [New Add-on for -Form Choice Limiter](https://dev.to/bahodir_amerbekov_97d36e8/new-add-on-for-form-choice-limiter-134b)
-- [A Better Way to Test Database Schema Changes during Local Development and Pull Requests](https://dev.to/signadot/how-to-test-database-schema-changes-in-sandboxes-dh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
