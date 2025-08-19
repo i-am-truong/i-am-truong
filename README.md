@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering MCP Servers with LangChain and LangGraph: A Beginner&#39;s Guide](https://dev.to/jamesbmour/build-an-interactive-webpage-chatbot-app-using-streamlit-langchain-and-ollama-2fc6)
-- [Kotlin Multiplatform vs Native Android for Mobile App Development](https://dev.to/lucy1/kotlin-multiplatform-vs-native-android-for-mobile-app-development-3472)
-- [GPT-4 vs GPT-5: From a Developer’s Perspective](https://dev.to/dev-rashedin/gpt-4-vs-gpt-5-from-a-developers-perspective-lmd)
-- [Top 10 Challenges in Mobile App Test Automation &lpar;and Solutions&rpar;](https://dev.to/maria_bueno/top-10-challenges-in-mobile-app-test-automation-and-solutions-4k05)
-- [LeetCode #387. Find Unique Character in a String](https://dev.to/desiato/leetcode-387-find-unique-character-in-a-string-4c3n)
+- [How to Make Your AI Agents Reliable: A Comprehensive Guide for Developers](https://dev.to/kuldeep_paul/how-to-make-your-ai-agents-reliable-a-comprehensive-guide-for-developers-i5p)
+- [Tableau Sales Dashboard Performance &lpar;Updated for 2025&rpar;](https://dev.to/vamshi_e_eebe5a6287a27142/tableau-sales-dashboard-performance-updated-for-2025-2099)
+- [LeetCode #242. Valid Anagram](https://dev.to/desiato/leetcode-242-valid-anagram-2868)
+- [Scraping JavaScript-Rendered Web Pages with Python](https://dev.to/bdilip48/scraping-javascript-rendered-web-pages-with-python-1e95)
+- [Brochure Translation Software Features to Look for [2025]](https://dev.to/colinreed/brochure-translation-software-features-to-look-for-2025-1bg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
