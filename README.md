@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 9 Platform Engineering Tools Every Team Should Know About](https://dev.to/harman_diaz/top-9-platform-engineering-tools-every-team-should-know-about-5cdn)
+- [Untitled](https://dev.to/my_piksel_9d7fd09d21bf104/untitled-p14)
 - [Making progress on subforem editing, just added subforem moderator role.](https://dev.to/ben/making-progress-on-subforem-editing-just-added-subforem-moderator-role-3h1l)
 - [Building an Advanced AI Agent: A Step-by-Step Guide to Integrating MCP Servers with LangGraph](https://dev.to/amol_kavitkar/building-an-advanced-ai-agent-a-step-by-step-guide-to-integrating-mcp-servers-with-langgraph-4ocf)
 - [Unlocking Hidden Cloud Superpowers: GKE Topology Manager GA &amp; Node Swap — DevOps Game Changers You Haven’t Tried](https://dev.to/lakshmikanth_reddy/unlocking-hidden-cloud-superpowers-gke-topology-manager-ga-node-swap-devops-game-changers-you-3d1g)
-- [React 19 `use` Hook Deep Dive — Using Promises Directly in Your Components](https://dev.to/a1guy/react-19-use-hook-deep-dive-using-promises-directly-in-your-components-1plp)
-- [Vibecoders Aren’t Engineers — They’re Walking Data Breaches](https://dev.to/mjlynch123/vibecoders-arent-engineers-theyre-walking-data-breaches-2e4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
