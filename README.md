@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go Coding with Asparagos: Sunflowers and the Speaking Challenge](https://dev.to/asparagos/go-coding-with-asparagos-sunflowers-and-the-speaking-challenge-2gd6)
-- [Remember to set the frequency for replication to Litestream!](https://dev.to/lucianghinda/remember-to-set-the-frequency-for-replication-to-litestream-3foj)
-- [Ethernet Adapters for Nintendo Switch and Switch 2](https://dev.to/arthurleo01/ethernet-adapters-for-nintendo-switch-and-switch-2-1b95)
-- [Günlük Yemek Bedeli İyileştirmesi: Çalışan Memnuniyetine ve İş Verimliliğine Katkı](https://dev.to/berfin_uygas_ac34e03fe7f8/gunluk-yemek-bedeli-iyilestirmesi-calisan-memnuniyetine-ve-is-verimliligine-katki-2a2d)
-- [Day 2 of experimenting with Open Source AI: Learned a Lot about Code indexing &lpar;Progress 2%&rpar;](https://dev.to/sky98/day-2-of-experimenting-with-open-source-ai-learned-a-lot-about-code-indexing-progress-2-1cjn)
+- [Smollm3 + Ollama: Running a Local LLM That Feels Like Magic 🚀](https://dev.to/koolkamalkishor/smollm3-ollama-running-a-local-llm-that-feels-like-magic-j36)
+- [[Boost]](https://dev.to/aryan_panwala/-1ed1)
+- [[Boost]](https://dev.to/misakadev/-ekm)
+- [Top 10 Free Tools Every Web Developer Should Know](https://dev.to/therealmrmumba/top-10-free-tools-every-web-developer-should-know-2ho4)
+- [# Drunk Transformer: five regulators that keep your model sober enough to hit the target](https://dev.to/onestardao/-drunk-transformer-five-regulators-that-keep-your-model-sober-enough-to-hit-the-target-1en0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
