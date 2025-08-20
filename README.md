@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Wasapia: AI Call Agents That Answer, Book &amp; Support Customers 24/7](https://dev.to/aledb/introducing-wasapia-ai-call-agents-that-answer-book-support-customers-247-3fkh)
+- [Top Capital Budgeting Best Practices for 2025](https://dev.to/microestimates/top-capital-budgeting-best-practices-for-2025-439i)
+- [Beyond the Linux GUI: Part 2 —Taming the File System](https://dev.to/generalkas/beyond-the-linux-gui-part-2-taming-the-file-system-581h)
+- [A Complete Guide To Api Functional Testing](https://dev.to/keploy/a-complete-guide-to-api-functional-testing-2n1o)
 - [Why Your Prompts Need Version Control &lpar;And How ModelKits Make It Simple&rpar;](https://dev.to/jozu/why-your-prompts-need-version-control-and-how-modelkits-make-it-simple-5a23)
-- [5 Essential JavaScript Patterns Every Developer Should Know](https://dev.to/shubhamtiwari909/javascript-patterns-7fo)
-- [AI Tools vs Custom AI Systems: Breaking Out of the SaaS Plateau](https://dev.to/alifar/ai-tools-vs-custom-ai-systems-breaking-out-of-the-saas-plateau-19jj)
-- [From Docker Daemon Errors to ACI Success: A Cloud Deployment Story](https://dev.to/betty_babs_f40c2ed0166cb7/from-docker-daemon-errors-to-aci-success-a-cloud-deployment-story-32da)
-- [The Developers Protocol: No Gatekeepers, Just Proofs. Let’s Build the Bounty System We Were Promised.](https://dev.to/angel_09dd6cd6525e1d13d2d/the-developers-protocol-no-gatekeepers-just-proofs-lets-build-the-bounty-system-we-were-211h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
