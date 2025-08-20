@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete Guide to Building an AI FAQ Platform: Part 1 - Architecture &amp; Domain Design](https://dev.to/bachgi4/complete-guide-to-building-an-ai-faq-platform-part-1-architecture-domain-design-4139)
+- [Browser Auto-Open: Seamless OAuth UX for CLI Tools](https://dev.to/kriasoft/browser-auto-open-seamless-oauth-ux-for-cli-tools-3nh4)
+- [Modal html JavaScript](https://dev.to/lavreh/modal-html-javascript-1ccj)
+- [College Student &amp; Course Management System](https://dev.to/haresh_511/college-student-course-management-system-1on3)
 - [Optimizing React The Right Way For Blazing Fast Apps](https://dev.to/fenigma/optimizing-react-the-right-way-for-blazing-fast-apps-22np)
-- [Context is King: How Contextual Prompting Transforms AI Outputs](https://dev.to/abhishek_gautam-01/context-is-king-how-contextual-prompting-transforms-ai-outputs-19ma)
-- [SQL,PostgreSQL, Database RDBMS, Sql NoSql farqi](https://dev.to/elshoddev/sqlpostgresql-database-rdbms-sql-nosql-farqi-5gi)
-- [Notes I Have Learning](https://dev.to/abishek_44a09d1e1af19b4ca/notes-i-have-learning-11ki)
-- [Design Patterns Simplified: Part 19 — Composite Pattern &lpar;a.k.a. “The File Tree Organizer”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-19-composite-pattern-aka-the-file-tree-organizer-1j1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
