@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Doglabbing&#39; ngrok: Many services, one standard AuthN path](https://dev.to/ngrok/doglabbing-ngrok-many-services-one-standard-authn-path-4mjn)
+- [Sending SMS Messages with PHP](https://dev.to/vonagedev/sending-sms-messages-with-php-4db5)
 - [Build Your Own AI Stock Portfolio Agent with Agno + AG-UI](https://dev.to/copilotkit/build-your-own-ai-stock-portfolio-agent-with-agno-ag-ui-3ldp)
 - [Blinko: Your AI-Powered, Self-Hosted Note-Taking Revolution](https://dev.to/githubopensource/blinko-your-ai-powered-self-hosted-note-taking-revolution-3b7n)
 - [Introducing ArkTS, Huawei’s Next-Generation Development Language](https://dev.to/harmonyos/introducing-arkts-huaweis-next-generation-development-language-jg7)
-- [Running GPT-OSS Locally with JavaScript and Ollama](https://dev.to/koolkamalkishor/running-gpt-oss-locally-with-javascript-and-ollama-3e4o)
-- [VPS Performance Reality Check 2025: Who’s Actually Fast &lpar;and Worth the Money&rpar;?](https://dev.to/sst21/vps-performance-reality-check-2025-whos-actually-fast-and-worth-the-money-1g6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
