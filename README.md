@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Qt Barcode Scanner with MSVC and Dynamsoft C++ Barcode SDK on Windows](https://dev.to/yushulx/how-to-build-a-qt-barcode-scanner-with-msvc-and-dynamsoft-c-barcode-sdk-on-windows-333c)
-- [WeDidIt.in – A Step Towards Change](https://dev.to/ananaya_narula_fb3766d6c2/wediditin-a-step-towards-change-b94)
-- [RIP SEO. Welcome to AIO: The Rise of Generative Engine Optimization &lpar;GEO&rpar;](https://dev.to/abiruzzamanmolla/rip-seo-welcome-to-aio-the-rise-of-generative-engine-optimization-geo-3dkn)
-- [Petition for PIL – The First Step Toward Change](https://dev.to/ananaya_narula_fb3766d6c2/petition-for-pil-the-first-step-toward-change-3mck)
-- [Insurance Cost Prediction](https://dev.to/mhdsharuk/insurance-cost-prediction-ai3)
+- [The Role of General Graphics Interface &lpar;GGI&rpar; in Enabling Portable and Secure Graphics Applications](https://dev.to/abhijith_rs_04018cf67d112/the-role-of-general-graphics-interface-ggi-in-enabling-portable-and-secure-graphics-applications-3c9p)
+- [Time Complexity &lpar;Big-O Notation&rpar; in Algorithms](https://dev.to/davinceleecode/time-complexity-big-o-notation-in-algorithms-22lf)
+- [How to secure your Azure Storage with Microsoft Defender for Storage](https://dev.to/techielass/how-to-secure-your-azure-storage-with-microsoft-defender-for-storage-2h4h)
+- [Latest Trends in Mobile App Test Automation for 2025](https://dev.to/maria_bueno/latest-trends-in-mobile-app-test-automation-for-2025-2o6d)
+- [Understanding Database Indexes: A Comprehensive Guide day 33 of sytem design basics](https://dev.to/vincenttommi/understanding-database-indexes-a-comprehensive-guide-day-33-of-sytem-design-basics-5dea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
