@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/naik_sejal/-2am9)
 - [The Netflix Approach for Agency Client Portals: How Transparency Increased Our Retention 47%](https://dev.to/teamcamp/the-netflix-approach-for-agency-client-portals-how-transparency-increased-our-retention-47-3koj)
 - [You Know JavaScript but Can’t Solve Problems in It?](https://dev.to/codeguage/you-know-javascript-but-cant-solve-problems-in-it-253a)
 - [Mastering Validation in Laravel - A Beginner’s Guide](https://dev.to/rohitdhiman/mastering-validation-in-laravel-a-beginners-guide-3j2j)
 - [The Small Coding Habit That Made Me a Better Developer](https://dev.to/leena_malhotra_355340d89c/the-small-coding-habit-that-made-me-a-better-developer-3df8)
-- [Looking to scale AI in your business? Here’s how to pick the right partner 👉](https://dev.to/dhruvjoshi9/looking-to-scale-ai-in-your-business-heres-how-to-pick-the-right-partner-3na8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
