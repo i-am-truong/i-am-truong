@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Wasapia: AI Call Agents That Answer, Book &amp; Support Customers 24/7](https://dev.to/aledb/introducing-wasapia-ai-call-agents-that-answer-book-support-customers-247-3fkh)
-- [Top Capital Budgeting Best Practices for 2025](https://dev.to/microestimates/top-capital-budgeting-best-practices-for-2025-439i)
-- [Beyond the Linux GUI: Part 2 —Taming the File System](https://dev.to/generalkas/beyond-the-linux-gui-part-2-taming-the-file-system-581h)
-- [A Complete Guide To Api Functional Testing](https://dev.to/keploy/a-complete-guide-to-api-functional-testing-2n1o)
-- [Why Your Prompts Need Version Control &lpar;And How ModelKits Make It Simple&rpar;](https://dev.to/jozu/why-your-prompts-need-version-control-and-how-modelkits-make-it-simple-5a23)
+- [How to Design a PostgreSQL Schema Visually &lpar;Step-by-Step&rpar;](https://dev.to/roxana_haidiner/how-to-design-a-postgresql-schema-visually-step-by-step-2d6a)
+- [Design and Implement Role-Based Access with AWS IAM](https://dev.to/immah/design-and-implement-role-based-access-with-aws-iam-3bbf)
+- [My Journey Learning SQL with PostgreSQL: Leveling Up My Backend Skills](https://dev.to/vincent_f48e4268cf6b259fc/my-journey-learning-sql-with-postgresql-leveling-up-my-backend-skills-407l)
+- [How AI and Machine Learning Are Transforming Android App Features](https://dev.to/william16077582/how-ai-and-machine-learning-are-transforming-android-app-features-3cg4)
+- [Managing Multiple SSH Servers Across Windows &amp; macOS with SSH Config &amp; Tmux](https://dev.to/yousufbasir/managing-multiple-ssh-servers-across-windows-macos-with-ssh-config-tmux-21ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
