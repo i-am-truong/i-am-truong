@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Imperative versus Declarative in Flutter](https://dev.to/intelgreatnez/imperative-versus-declarative-in-flutter-3f5n)
-- [IAM Lifecycle Playbook &lpar;Overview&rpar;](https://dev.to/hediyeh_kianmehr_45f78137/iam-lifecycle-playbook-overview-57h6)
-- [CGFEL: Understanding Collateral-Free Education Loans for Students](https://dev.to/gov01/cgfel-understanding-collateral-free-education-loans-for-students-5bp5)
-- [Mac Setup](https://dev.to/scue/mac-setup-4fo7)
-- [Reactivation Technical Guide](https://dev.to/hediyeh_kianmehr_45f78137/reactivation-technical-guide-3al4)
+- [Copy Design Docs to Avoid Waiting For Indexes to be Built](https://dev.to/moremaddy/copy-design-docs-to-avoid-waiting-for-indexes-to-be-built-3a8i)
+- [Expose your localhost with 1 command line!](https://dev.to/gustavoisensee/expose-your-localhost-with-1-command-line-7d3)
+- [The Ultimate Software Engineering Roles Guide](https://dev.to/bibimbop123/the-ultimate-software-engineering-roles-guide-4mbf)
+- [IT Asset Management Certifications That Employers Look For](https://dev.to/jennifer_devsamurai/it-asset-management-certifications-that-employers-look-for-5024)
+- [Great for beginner!!! 🚀](https://dev.to/brokylabs/great-for-beginner-1dp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
