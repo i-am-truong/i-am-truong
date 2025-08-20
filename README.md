@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Role of General Graphics Interface &lpar;GGI&rpar; in Enabling Portable and Secure Graphics Applications](https://dev.to/abhijith_rs_04018cf67d112/the-role-of-general-graphics-interface-ggi-in-enabling-portable-and-secure-graphics-applications-3c9p)
-- [Time Complexity &lpar;Big-O Notation&rpar; in Algorithms](https://dev.to/davinceleecode/time-complexity-big-o-notation-in-algorithms-22lf)
-- [How to secure your Azure Storage with Microsoft Defender for Storage](https://dev.to/techielass/how-to-secure-your-azure-storage-with-microsoft-defender-for-storage-2h4h)
-- [Latest Trends in Mobile App Test Automation for 2025](https://dev.to/maria_bueno/latest-trends-in-mobile-app-test-automation-for-2025-2o6d)
-- [Understanding Database Indexes: A Comprehensive Guide day 33 of sytem design basics](https://dev.to/vincenttommi/understanding-database-indexes-a-comprehensive-guide-day-33-of-sytem-design-basics-5dea)
+- [Build a Rocket with LEGOs](https://dev.to/cadienvan/build-a-rocket-with-legos-5ck1)
+- [MCP vs. APIs: Which Is Better for Advanced AI Development?](https://dev.to/fallon_jimmy/mcp-vs-apis-which-is-better-for-advanced-ai-development-i18)
+- [Day 3 of Experimenting with Open Source AI](https://dev.to/sky98/day-3-of-experimenting-with-open-source-ai-1444)
+- [Web Components &amp; Custom Elements](https://dev.to/godofgeeks/web-components-custom-elements-3jg0)
+- [How to Use GDAL in Web Applications &lpar;Part 3&rpar;](https://dev.to/yangholmes/how-to-use-gdal-in-web-applications-part-3-1bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
