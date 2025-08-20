@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Prompts Need Version Control &lpar;And How ModelKits Make It Simple&rpar;](https://dev.to/jozu/why-your-prompts-need-version-control-and-how-modelkits-make-it-simple-5a23)
 - [5 Essential JavaScript Patterns Every Developer Should Know](https://dev.to/shubhamtiwari909/javascript-patterns-7fo)
 - [AI Tools vs Custom AI Systems: Breaking Out of the SaaS Plateau](https://dev.to/alifar/ai-tools-vs-custom-ai-systems-breaking-out-of-the-saas-plateau-19jj)
 - [From Docker Daemon Errors to ACI Success: A Cloud Deployment Story](https://dev.to/betty_babs_f40c2ed0166cb7/from-docker-daemon-errors-to-aci-success-a-cloud-deployment-story-32da)
 - [The Developers Protocol: No Gatekeepers, Just Proofs. Let’s Build the Bounty System We Were Promised.](https://dev.to/angel_09dd6cd6525e1d13d2d/the-developers-protocol-no-gatekeepers-just-proofs-lets-build-the-bounty-system-we-were-211h)
-- [Building a Car Classified Script: Dev Notes, Trade-offs &amp; Questions](https://dev.to/viktoriaholikova/building-a-car-classified-script-dev-notes-trade-offs-questions-47n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
