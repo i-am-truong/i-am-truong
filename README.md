@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Angular App to Cloudflare Pages](https://dev.to/gridou/deploy-angular-app-to-cloudflare-pages-37k9)
-- [Why don&#39;t police have a universal key to all the locks?](https://dev.to/alembiq/why-dont-police-have-a-universal-key-to-all-the-locks-3aef)
-- [From Virtual Assistant to Frontend Developer:](https://dev.to/thecodepath/from-virtual-assistant-to-frontend-developer-20ea)
-- [Road to self-driving development](https://dev.to/tracygjg/road-to-self-driving-development-5hl3)
-- [🚀 The Fun Journey of JavaScript 🎉](https://dev.to/usama_azeem_0f4baef7a72ee/the-fun-journey-of-javascript-1hf2)
+- [Demystifying Consensus Algorithms for System Design Interviews](https://dev.to/codewithved/demystifying-consensus-algorithms-for-system-design-interviews-55n2)
+- [Day 22 of My Data Analytics Journey !](https://dev.to/ramyacse/day-22-of-my-data-analytics-journey--4ki7)
+- [Sweating the Small Stuff: UX Decisions That Matter ✨](https://dev.to/vijay431/sweating-the-small-stuff-ux-decisions-that-matter-56g4)
+- [[Boost]](https://dev.to/marabesi/-10dd)
+- [Mastering Load Balancing for System Design Interviews](https://dev.to/codewithved/mastering-load-balancing-for-system-design-interviews-4b1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
