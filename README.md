@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Building an AI FAQ Platform: Part 1 - Architecture &amp; Domain Design](https://dev.to/bachgi4/complete-guide-to-building-an-ai-faq-platform-part-1-architecture-domain-design-4139)
-- [Browser Auto-Open: Seamless OAuth UX for CLI Tools](https://dev.to/kriasoft/browser-auto-open-seamless-oauth-ux-for-cli-tools-3nh4)
-- [Modal html JavaScript](https://dev.to/lavreh/modal-html-javascript-1ccj)
-- [College Student &amp; Course Management System](https://dev.to/haresh_511/college-student-course-management-system-1on3)
-- [Optimizing React The Right Way For Blazing Fast Apps](https://dev.to/fenigma/optimizing-react-the-right-way-for-blazing-fast-apps-22np)
+- [Adam Savage&#39;s Tested: National Treasures: Where America’s Historical Artifacts Are Being Preserved &lpar;Well ... For Now&rpar;](https://dev.to/maker_youtube/adam-savages-tested-national-treasures-where-americas-historical-artifacts-are-being-preserved-1o62)
+- [Linus Tech Tips &lpar;LTT&rpar;: The Most Important GPU Review of the Year &lpar;serious&rpar;](https://dev.to/future_youtube/linus-tech-tips-ltt-the-most-important-gpu-review-of-the-year-serious-42ei)
+- [Marques Brownlee &lpar;MKBHD&rpar;: Google Pixel 10/Pro/Fold Impressions: Magnets!](https://dev.to/future_youtube/marques-brownlee-mkbhd-google-pixel-10profold-impressions-magnets-3m9m)
+- [GameSpot: Come visit McDonaldland with me!!”#mcdonalds #ad](https://dev.to/gg_news/gamespot-come-visit-mcdonaldland-with-memcdonalds-ad-2h5p)
+- [IGN: Freestyle Football 2 - World Premiere Trailer | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-freestyle-football-2-world-premiere-trailer-xbox-gamescom-2025-51o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
