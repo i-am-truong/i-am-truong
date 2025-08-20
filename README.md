@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Working Shifts? Tips to Overcome Shift Work Sleep Disorder](https://dev.to/maya_elison_1edb8e9a29181/working-shifts-tips-to-overcome-shift-work-sleep-disorder-4o9h)
+- [Agile Terminology in 2025 and 2026: New Words Teams Are Using](https://dev.to/taskford/agile-terminology-in-2025-and-2026-new-words-teams-are-using-491)
+- [How I Use AI to Refactor Without Losing Control](https://dev.to/leena_malhotra_355340d89c/how-i-use-ai-to-refactor-without-losing-control-437c)
+- [IT Project Life Cycle Phases: Detailed Breakdown &lpar;With Examples&rpar;](https://dev.to/taskford/it-project-life-cycle-phases-detailed-breakdown-with-examples-2no9)
 - [Copy Design Docs to Avoid Waiting For Indexes to be Built](https://dev.to/moremaddy/copy-design-docs-to-avoid-waiting-for-indexes-to-be-built-3a8i)
-- [Expose your localhost with 1 command line!](https://dev.to/gustavoisensee/expose-your-localhost-with-1-command-line-7d3)
-- [The Ultimate Software Engineering Roles Guide](https://dev.to/bibimbop123/the-ultimate-software-engineering-roles-guide-4mbf)
-- [IT Asset Management Certifications That Employers Look For](https://dev.to/jennifer_devsamurai/it-asset-management-certifications-that-employers-look-for-5024)
-- [Great for beginner!!! 🚀](https://dev.to/brokylabs/great-for-beginner-1dp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
