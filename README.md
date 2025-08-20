@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Por qué cambiar a Zen](https://dev.to/killoconq/por-que-cambiar-a-zen-43i8)
+- [Devtool DB Perf - Looking for beta users](https://dev.to/maxdaless/devtool-db-perf-looking-for-beta-users-4bph)
+- [Email List Cleaner: A Privacy-First, Free and Open Source Solution](https://dev.to/jouni_flemming_0bcbcad7b3/email-list-cleaner-a-privacy-first-free-and-open-source-solution-gag)
+- [Psychosonic Synthizer](https://dev.to/shepherd_1ec15ed8e8d85ced/psychosonic-synthizer-3e9c)
 - [Epoxy Flooring Austin](https://dev.to/epoxyinaustin/epoxy-flooring-austin-8f3)
-- [Dev Log 08](https://dev.to/asx/dev-log-08-321f)
-- [Will AI Replace Data Analysts?](https://dev.to/kapusto/will-ai-replace-data-analysts-48ic)
-- [Anypoint MQ: Enabling Robust Messaging for Modern Integration](https://dev.to/kapusto/anypoint-mq-enabling-robust-messaging-for-modern-integration-360)
-- [Why Pure Functions Are the Secret Weapon of Scalable Code in 2025](https://dev.to/arkhan/why-pure-functions-are-the-secret-weapon-of-scalable-code-in-2025-4h41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
