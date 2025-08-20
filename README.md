@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Smart Caching Strategies for High-Performance Enterprise Applications](https://dev.to/kapusto/smart-caching-strategies-for-high-performance-enterprise-applications-4d6g)
+- [:has&lpar;&lt;n number of elements&gt;&rpar;](https://dev.to/avcat/has-1984)
+- [Still using Postman and Backstage with Multiple Gateways? You’re Already Behind!](https://dev.to/reshab_agarwal/still-using-postman-and-backstage-with-multiple-gateways-youre-already-behind-4fn8)
 - [Pluralsight vs Udemy: Which Platform Actually Helps You Code Better &lpar;and Not Just Collect Certificates&rpar;?](https://dev.to/stack_overflowed/pluralsight-vs-udemy-which-platform-actually-helps-you-code-better-and-not-just-collect-3d4o)
 - [How to Design a PostgreSQL Schema Visually &lpar;Step-by-Step&rpar;](https://dev.to/roxana_haidiner/how-to-design-a-postgresql-schema-visually-step-by-step-2d6a)
-- [Design and Implement Role-Based Access with AWS IAM](https://dev.to/immah/design-and-implement-role-based-access-with-aws-iam-3bbf)
-- [My Journey Learning SQL with PostgreSQL: Leveling Up My Backend Skills](https://dev.to/vincent_f48e4268cf6b259fc/my-journey-learning-sql-with-postgresql-leveling-up-my-backend-skills-407l)
-- [How AI and Machine Learning Are Transforming Android App Features](https://dev.to/william16077582/how-ai-and-machine-learning-are-transforming-android-app-features-3cg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
