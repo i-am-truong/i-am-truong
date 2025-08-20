@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-2hcm)
-- [Bug fix release 2.06 for the Perl Distribution Workflow](https://dev.to/jonasbn/bug-fix-release-206-for-the-perl-distribution-workflow-53l6)
-- [7 Essential Design Patterns for Building Better AI Products](https://dev.to/alonsarias/7-essential-design-patterns-for-building-better-ai-products-pdk)
-- [Why Most Sprint Plannings Run Over Time &lpar;and How I Fixed It in 100+ Sprints&rpar;](https://dev.to/gsauzande/why-most-sprint-plannings-run-over-time-and-how-i-fixed-it-in-100-sprints-nal)
-- [Pepperoni: A Flavorful Classic with a Modern Twist](https://dev.to/hamza_ali_e5a3ccc85652d24/pepperoni-a-flavorful-classic-with-a-modern-twist-4bdb)
+- [Understanding Callback Functions in JavaScript: A Beginner&#39;s Guide](https://dev.to/wisdomudo/understanding-callback-functions-in-javascript-a-beginners-guide-76c)
+- [The pioneering microservice](https://dev.to/mbarcia/the-pioneering-microservice-41cd)
+- [Creating IAM Access Keys for AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY](https://dev.to/adityaokke/creating-iam-access-keys-for-awsaccesskeyid-and-awssecretaccesskey-34i3)
+- [3 TanStack Query Features That Transform Production React Apps](https://dev.to/martinrojas/3-tanstack-query-features-that-transform-production-react-apps-196b)
+- [ChatGPT Go Subscription India Features, Pricing, and Alternatives](https://dev.to/sweet_benzoic_acid/chatgpt-go-subscription-india-features-pricing-and-alternatives-ae1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
