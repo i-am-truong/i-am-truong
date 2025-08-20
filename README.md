@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: National Treasures: Where America’s Historical Artifacts Are Being Preserved &lpar;Well ... For Now&rpar;](https://dev.to/maker_youtube/adam-savages-tested-national-treasures-where-americas-historical-artifacts-are-being-preserved-1o62)
-- [Linus Tech Tips &lpar;LTT&rpar;: The Most Important GPU Review of the Year &lpar;serious&rpar;](https://dev.to/future_youtube/linus-tech-tips-ltt-the-most-important-gpu-review-of-the-year-serious-42ei)
-- [Marques Brownlee &lpar;MKBHD&rpar;: Google Pixel 10/Pro/Fold Impressions: Magnets!](https://dev.to/future_youtube/marques-brownlee-mkbhd-google-pixel-10profold-impressions-magnets-3m9m)
-- [GameSpot: Come visit McDonaldland with me!!”#mcdonalds #ad](https://dev.to/gg_news/gamespot-come-visit-mcdonaldland-with-memcdonalds-ad-2h5p)
-- [IGN: Freestyle Football 2 - World Premiere Trailer | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-freestyle-football-2-world-premiere-trailer-xbox-gamescom-2025-51o1)
+- [Deploy Angular App to Cloudflare Pages](https://dev.to/gridou/deploy-angular-app-to-cloudflare-pages-37k9)
+- [Why don&#39;t police have a universal key to all the locks?](https://dev.to/alembiq/why-dont-police-have-a-universal-key-to-all-the-locks-3aef)
+- [From Virtual Assistant to Frontend Developer:](https://dev.to/thecodepath/from-virtual-assistant-to-frontend-developer-20ea)
+- [Road to self-driving development](https://dev.to/tracygjg/road-to-self-driving-development-5hl3)
+- [🚀 The Fun Journey of JavaScript 🎉](https://dev.to/usama_azeem_0f4baef7a72ee/the-fun-journey-of-javascript-1hf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
