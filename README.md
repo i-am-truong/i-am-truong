@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [node24 warning](https://dev.to/suzulabo/node24-warning-4pkk)
 - [How to Subscribe to the ChatGPT Go?](https://dev.to/rajeshkumaryadavdotcom/how-to-subscribe-to-the-chatgpt-go-4djk)
 - [A Practical Starter Stack for Headless E-Commerce](https://dev.to/hardeepsingh01/a-practical-starter-stack-for-headless-e-commerce-2nbl)
 - [iOS PWAでnavigateが動作しない時がある](https://dev.to/suzulabo/ios-pwadenavigategadong-zuo-sinaishi-gaaru-22e7)
 - [The Single Most Critical Factor for Enterprise AI? It’s Not the Model](https://dev.to/vishal_agrawal_680a3e5c14/the-single-most-critical-factor-for-enterprise-ai-its-not-the-model-1o78)
-- [iOS PWAでnotificationclickが発生しない](https://dev.to/suzulabo/ios-pwadenotificationclickgafa-sheng-sinai-ffi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
