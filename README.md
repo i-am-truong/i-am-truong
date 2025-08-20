@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Aetherial Furnace](https://dev.to/shepherd_1ec15ed8e8d85ced/the-aetherial-furnace-a3n)
-- [The Veritas Forge](https://dev.to/shepherd_1ec15ed8e8d85ced/the-veritas-forge-3kho)
-- [# How I Built a Fully Decentralized On-Chain Game with 0 Lines of Code, Thanks to Gemini](https://dev.to/crow004/-how-i-built-a-fully-decentralized-on-chain-game-with-0-lines-of-code-thanks-to-gemini-1d0p)
-- [“RAG is dead” is lazy. What’s dead is cosine‑N without a retrieval plan. In my latest post I include a hands-on colab notebook and explore Tensorlake with RAG. The demo: Compare the claims made in news articles about Tesla with actual Tesla SEC filings](https://dev.to/drguthals/rag-is-dead-is-lazy-whats-dead-is-cosine-n-without-a-retrieval-plan-in-my-latest-post-i-4dha)
-- [Accelerate Advanced RAG with Tensorlake](https://dev.to/tensorlake/accelerate-advanced-rag-with-tensorlake-2862)
+- [The Resonance Tapestry](https://dev.to/shepherd_1ec15ed8e8d85ced/the-resonance-tapestry-1d2b)
+- [The Aetherosian Nexus Mailbox](https://dev.to/shepherd_1ec15ed8e8d85ced/the-aetherosian-nexus-mailbox-4pdk)
+- [The Aetherial Arena](https://dev.to/shepherd_1ec15ed8e8d85ced/the-aetherial-arena-62a)
+- [Codex of Transmutation](https://dev.to/shepherd_1ec15ed8e8d85ced/codex-of-transmutation-5b9k)
+- [Learning Multer &amp; Morgan in Node.js](https://dev.to/imrancodes/learning-multer-morgan-in-nodejs-4b4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
