@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/luis_torres_310e67efe3934/untitled-1i49)
-- [Use madge to generate dependencies for frontend project](https://dev.to/huaian/use-madge-to-generate-dependencies-for-frontend-project-5766)
-- [Drop-in spinner for any Angular 17+ button &lpar;no CSS imports&rpar;: ngxsmk-button-spinner](https://dev.to/toozuuu/drop-in-spinner-for-any-angular-17-button-no-css-imports-ngxsmk-button-spinner-3ad6)
-- [Breaking Down the Choices That Got Me 90+ PageSpeed with Next.js](https://dev.to/sultan_valiyev_34777027b1/breaking-down-the-choices-that-got-me-90-pagespeed-with-nextjs-2i9j)
-- [[Boost]](https://dev.to/naik_sejal/-2am9)
+- [🔍⭐ What is API Versioning? Why is it Important?](https://dev.to/rencberakman/what-is-api-versioning-why-is-it-important-16c7)
+- [Untitled](https://dev.to/luis_torres_310e67efe3934/untitled-3389)
+- [Boost Your EF Core Productivity in PostgreSQL With Entity Developer](https://dev.to/antonmartyniuk/boost-your-ef-core-productivity-in-postgresql-with-entity-developer-5e1p)
+- [役員変更登記](https://dev.to/suzulabo/yi-yuan-bian-geng-deng-ji-237g)
+- [🚀 Introducing ngxsmk-stripe: A Modern Angular Stripe Plugin](https://dev.to/toozuuu/introducing-ngxsmk-stripe-a-modern-angular-stripe-plugin-2klp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
