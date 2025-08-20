@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek V3.1 Complete Evaluation Analysis: The New AI Programming Benchmark for 2025](https://dev.to/czmilo/deepseek-v31-complete-evaluation-analysis-the-new-ai-programming-benchmark-for-2025-58jc)
-- [Building Treazurex — Weeks 3–5](https://dev.to/raimi_dikamona/building-treazurex-weeks-3-5-3mla)
-- [KEXP: Barrington Levy - A FI YUH &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-a-fi-yuh-live-on-kexp-22ac)
-- [In Và Xuất Dữ Liệu Trong Java - Hướng Dẫn Chi Tiết](https://dev.to/javahighlight/in-va-xuat-du-lieu-trong-java-huong-dan-chi-tiet-24gm)
-- [KEXP: Barrington Levy - Black Roses / Here I Come &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-black-roses-here-i-come-live-on-kexp-2od2)
+- [🕵️‍♂️ Nmap &amp; Vulnerability Analysis – A Beginner’s Guide by Gh0stSh3ll 👻](https://dev.to/sriram_bharath/nmap-vulnerability-analysis-a-beginners-guide-by-gh0stsh3ll-355c)
+- [Three AIs and a Funeral: My Take on GPT-5 ⚰️](https://dev.to/anchildress1/three-ais-and-a-funeral-my-take-on-gpt-5-3f3e)
+- [Day 71: When Your LAN Dies and Forces Better Code Habits](https://dev.to/casperday11/day-71-when-your-lan-dies-and-forces-better-code-habits-27n7)
+- [How to Import SVG Files to React + Vite Project &lpar;2025&rpar;](https://dev.to/marina_eremina/how-to-import-svg-files-to-react-vite-project-2025-59mo)
+- [Accessing Windows Directories from Linux: A Guide to Mounting](https://dev.to/raphael_coelho_bc4f5514a4/accessing-windows-directories-from-linux-a-guide-to-mounting-24lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
