@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Webapp - AI written](https://dev.to/pravin_niceguy/my-first-webapp-ai-written-1409)
-- [Making AI Prompts Customizable with Smart Guardrails](https://dev.to/shrsv/making-ai-prompts-customizable-with-smart-guardrails-2o59)
-- [Composition Over Inheritance: A Flexible Design Principle](https://dev.to/lovestaco/composition-over-inheritance-a-flexible-design-principle-4ehh)
-- [Tableau for Marketing: Become a Segmentation Sniper](https://dev.to/dipti_m_2e7ba36c478d1a48a/tableau-for-marketing-become-a-segmentation-sniper-2o67)
-- [CPU Stress Test on Arch Linux](https://dev.to/ktauchathuranga/cpu-stress-test-on-arch-linux-5e80)
+- [DevLog 20250820: Towards Unified Chat Gateway](https://dev.to/methodox/devlog-20250820-towards-unified-chat-gateway-3d8e)
+- [Operators in Java: Master the operators, and you control over the logic](https://dev.to/cal_afun_2475adb4b562023b/operators-in-java-master-the-operators-and-you-control-over-the-logic-1an8)
+- [Untitled](https://dev.to/taky_hfd_c3180816debbcf0a/untitled-1o6f)
+- [Aplicaciones en Python para gestionar consultas espirituales de Santería con APIs](https://dev.to/hector_cruz_68ebfda340685/aplicaciones-en-python-para-gestionar-consultas-espirituales-de-santeria-con-apis-4ehj)
+- [Making My First Ever Portfolio Website](https://dev.to/brute/making-my-first-ever-portfolio-website-jfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
