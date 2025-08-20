@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEDA to build Event-Driven Applications on EKS](https://dev.to/aws-builders/keda-to-build-event-driven-applications-on-eks-4gci)
-- [Debugging JavaScript in Dynamics 365 CE: Forms, Ribbons, and PCFs](https://dev.to/nikhildynamicsce/debugging-javascript-in-dynamics-365-ce-forms-ribbons-and-pcfs-10g9)
-- [Title: The Unseen Impact of Nighttime Artificial Light on Brain Function, Mood, and Metabolism](https://dev.to/yagyaraj_sharma_6cd410179/title-the-unseen-impact-of-nighttime-artificial-light-on-brain-function-mood-and-metabolism-4253)
-- [Cracking Open the Magic of React Native + C++ for JSI Bindings](https://dev.to/samuel_onireti_0e7ea18c79/cracking-open-the-magic-of-react-native-c-for-jsi-bindings-17i4)
-- [📝 Mapeando Logs do .NET com Zabbix](https://dev.to/daniloopinheiro/mapeando-logs-do-net-com-zabbix-1bi9)
+- [SP3232EEN: Reliable RS-232 Transceiver for Embedded Communication | Censtry](https://dev.to/censtry/sp3232een-reliable-rs-232-transceiver-for-embedded-communication-censtry-4mp7)
+- [CI/CD Pipeline for React App on S3 + CloudFront using GitHub Actions 🚀](https://dev.to/yash_sonawane25/cicd-pipeline-for-react-app-on-s3-cloudfront-using-github-actions-2973)
+- [Mastering curl: The Swiss Army Knife of the Command Line](https://dev.to/kmsaifullah/mastering-curl-the-swiss-army-knife-of-the-command-line-4077)
+- [Build an self-improving AI agent that turns documents into structured data &lpar;with LangGraph&rpar;](https://dev.to/oliver_s_516239543d897f1d/build-an-self-improving-ai-agent-that-turns-documents-into-structured-data-with-langgraph-3gcb)
+- [Personal Picks: Data Product News &lpar;August 20, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-august-20-2025-85j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
