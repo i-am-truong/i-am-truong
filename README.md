@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SP3232EEN: Reliable RS-232 Transceiver for Embedded Communication | Censtry](https://dev.to/censtry/sp3232een-reliable-rs-232-transceiver-for-embedded-communication-censtry-4mp7)
-- [CI/CD Pipeline for React App on S3 + CloudFront using GitHub Actions 🚀](https://dev.to/yash_sonawane25/cicd-pipeline-for-react-app-on-s3-cloudfront-using-github-actions-2973)
-- [Mastering curl: The Swiss Army Knife of the Command Line](https://dev.to/kmsaifullah/mastering-curl-the-swiss-army-knife-of-the-command-line-4077)
-- [Build an self-improving AI agent that turns documents into structured data &lpar;with LangGraph&rpar;](https://dev.to/oliver_s_516239543d897f1d/build-an-self-improving-ai-agent-that-turns-documents-into-structured-data-with-langgraph-3gcb)
-- [Personal Picks: Data Product News &lpar;August 20, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-august-20-2025-85j)
+- [n8n](https://dev.to/lexycodestudio/n8n-5aoc)
+- [第3章：Qlib监督学习模型](https://dev.to/henry_lin_3ac6363747f45b4/di-3zhang-qlibjian-du-xue-xi-mo-xing-38cg)
+- [Don’t Panic Yet: Breaking Down the Latest Apache Solr RCE Vulnerability](https://dev.to/sharon_42e16b8da44dabde6d/dont-panic-yet-breaking-down-the-latest-apache-solr-rce-vulnerability-51k4)
+- [Why does IoT Pose Challenges for User Data Privacy?](https://dev.to/shriyansh_iot_98734929139/why-does-iot-pose-challenges-for-user-data-privacy-3cj3)
+- [I was losing my mind switching branches with Claude Code, so I built this](https://dev.to/davidcreador/i-was-losing-my-mind-switching-branches-with-claude-code-so-i-built-this-5e5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
