@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL,PostgreSQL, Database RDBMS, Sql NoSql farqi](https://dev.to/elshoddev/sqlpostgresql-database-rdbms-sql-nosql-farqi-5gi)
+- [Notes I Have Learning](https://dev.to/abishek_44a09d1e1af19b4ca/notes-i-have-learning-11ki)
 - [Build an AR React App](https://dev.to/murcoder/build-an-ar-react-app-17i5)
 - [A series that is hype free, optimistic and cautious, but most of all written accessibly no matter your current level. All things dev&#39;s should understand about #ai fast. Thanks Dev. This should be a book &amp; course next. @dev_patel_35864ca1db6093c](https://dev.to/leogopal/a-series-that-is-hype-free-optimistic-and-cautious-but-most-of-all-written-accessibly-no-matter-1mi5)
-- [Dos and Don’ts of Building a Tracking Script in Vanilla JS](https://dev.to/juggernautmain/dos-and-donts-of-building-a-tracking-script-in-vanilla-js-5cn2)
-- [From Code to Container: Building a Python Flask CI/CD Pipeline on Windows with Jenkins](https://dev.to/hritikraj8804/from-code-to-container-building-a-python-flask-cicd-pipeline-on-windows-with-jenkins-3k23)
-- [🖊️ Digitally Sign PDFs Securely with eMark – Cross-Platform &amp; Free 🚀](https://dev.to/codemuni/digitally-sign-pdfs-securely-with-emark-cross-platform-free-4am1)
+- [Deploy your application on Vercel with GitHub Actions](https://dev.to/octolab/deploy-your-application-on-vercel-with-github-actions-1lh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
