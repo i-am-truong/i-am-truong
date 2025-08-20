@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Untitled](https://dev.to/luis_torres_310e67efe3934/untitled-1i49)
+- [Use madge to generate dependencies for frontend project](https://dev.to/huaian/use-madge-to-generate-dependencies-for-frontend-project-5766)
+- [Drop-in spinner for any Angular 17+ button &lpar;no CSS imports&rpar;: ngxsmk-button-spinner](https://dev.to/toozuuu/drop-in-spinner-for-any-angular-17-button-no-css-imports-ngxsmk-button-spinner-3ad6)
+- [Breaking Down the Choices That Got Me 90+ PageSpeed with Next.js](https://dev.to/sultan_valiyev_34777027b1/breaking-down-the-choices-that-got-me-90-pagespeed-with-nextjs-2i9j)
 - [[Boost]](https://dev.to/naik_sejal/-2am9)
-- [The Netflix Approach for Agency Client Portals: How Transparency Increased Our Retention 47%](https://dev.to/teamcamp/the-netflix-approach-for-agency-client-portals-how-transparency-increased-our-retention-47-3koj)
-- [You Know JavaScript but Can’t Solve Problems in It?](https://dev.to/codeguage/you-know-javascript-but-cant-solve-problems-in-it-253a)
-- [Mastering Validation in Laravel - A Beginner’s Guide](https://dev.to/rohitdhiman/mastering-validation-in-laravel-a-beginners-guide-3j2j)
-- [The Small Coding Habit That Made Me a Better Developer](https://dev.to/leena_malhotra_355340d89c/the-small-coding-habit-that-made-me-a-better-developer-3df8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
