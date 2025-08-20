@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [I built distributed systems at Meta. I still recommend starting with web dev.](https://dev.to/fahimulhaq/i-built-distributed-systems-at-meta-i-still-recommend-starting-with-web-dev-5aa9)
+- [Why I’d Never Let AI Rewrite It](https://dev.to/pratapkute/why-id-never-let-ai-rewrite-it-4f9p)
+- [Launch Your React Website on Netlify for Free: The Lazy Dev’s Guide 😪](https://dev.to/naiqor/launch-your-react-website-on-netlify-for-free-the-lazy-devs-guide-2f5k)
+- [A Minimalist Changelog Template for Next.js 15](https://dev.to/jqueryscript/a-minimalist-changelog-template-for-nextjs-15-53b9)
 - [Why Your n8n HTTP Request Fails—and How to Debug Like a Pro](https://dev.to/brains_behind_bots/why-your-n8n-http-request-fails-and-how-to-debug-like-a-pro-4pk1)
-- [Practice #6: Conditional Filtering by Enumerated Field--A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice-6-conditional-filtering-by-enumerated-field-a-lightweight-solution-to-speed-up-queries-349f)
-- [How to remove your commits from submitted PR](https://dev.to/fish-404/how-to-remove-your-commits-from-submitted-pr-28a9)
-- [Building Multi-Tenant SaaS with Row-Level Security in Laravel](https://dev.to/addwebsolutionpvtltd/building-multi-tenant-saas-with-row-level-security-in-laravel-3kd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
