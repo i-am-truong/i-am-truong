@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Shitty First Draft&quot;](https://dev.to/ekachitreddy/the-shitty-first-draft-1b5b)
-- [Constant Refactoring: Refactoring my refactored Website](https://dev.to/ingosteinke/constant-refactoring-refactoring-my-refactored-website-4pf)
-- [Online category with WebSocket relay in js13kGames 2025](https://dev.to/js13kgames/online-category-with-websocket-relay-in-js13kgames-2025-24dh)
-- [Surveys can now have multiple choice and scale polls — freeform input going in soon.](https://dev.to/ben/surveys-can-now-have-multiple-choice-and-scale-polls-freeform-input-going-in-soon-4ol2)
-- [Implementing MCP on Edge Devices](https://dev.to/om_shree_0709/implementing-mcp-on-edge-devices-22hp)
+- [Pivoting from Auth0 to PHP Symfony](https://dev.to/browsely_a899a03e6654ba38/pivoting-from-auth0-to-php-symfony-39h)
+- [How to Secure Your TanStack React Start App with Light-Auth](https://dev.to/mimetis/how-to-secure-your-tanstack-react-start-app-with-light-auth-12o0)
+- [Optimizing Multi-Zone Restaurant Service with Computer Vision for Hospitality](https://dev.to/sciforce/optimizing-multi-zone-restaurant-service-with-computer-vision-for-hospitality-1ha8)
+- [Join the Midnight Network &quot;Privacy First&quot; Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-the-midnight-network-privacy-first-challenge-5000-in-prizes-3l45)
+- [Chain of Thought](https://dev.to/abhishek_gautam-01/chain-of-thought-1pj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
