@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20250820: Towards Unified Chat Gateway](https://dev.to/methodox/devlog-20250820-towards-unified-chat-gateway-3d8e)
-- [Operators in Java: Master the operators, and you control over the logic](https://dev.to/cal_afun_2475adb4b562023b/operators-in-java-master-the-operators-and-you-control-over-the-logic-1an8)
-- [Untitled](https://dev.to/taky_hfd_c3180816debbcf0a/untitled-1o6f)
-- [Aplicaciones en Python para gestionar consultas espirituales de Santería con APIs](https://dev.to/hector_cruz_68ebfda340685/aplicaciones-en-python-para-gestionar-consultas-espirituales-de-santeria-con-apis-4ehj)
-- [Making My First Ever Portfolio Website](https://dev.to/brute/making-my-first-ever-portfolio-website-jfo)
+- [Customer Support Outsourcing: Why Businesses Choose It](https://dev.to/outsourcedigest/customer-support-outsourcing-why-businesses-choose-it-3np7)
+- [From enterprise backend to shipping a full‑stack app: the parts I had to learn the hard way](https://dev.to/wl0182/from-enterprise-backend-to-shipping-a-full-stack-app-the-parts-i-had-to-learn-the-hard-way-5ch4)
+- [🔑 Build a Simple Password Generator with HTML, CSS &amp; JavaScript](https://dev.to/giftintech/build-a-simple-password-generator-with-html-css-javascript-4429)
+- [Kadag Security](https://dev.to/garry_mulholland_78885d11/kadag-security-15od)
+- [Day 20 of #30DaysOfCode20](https://dev.to/justacoder_0x/day-20-of-30daysofcode20-1jlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
