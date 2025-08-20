@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Building a Smart Fence Cost Estimator Using Node.js](https://dev.to/emily_johnson_dev/step-by-step-guide-building-a-smart-fence-cost-estimator-using-nodejs-507)
-- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-530b)
-- [RustMailer: A Self-Hosted IMAP/SMTP Middleware for Developers](https://dev.to/rustmailer_39a575ac86abbf/rustmailer-a-self-hosted-imapsmtp-middleware-for-developers-27o)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-5ff6)
-- [Hacking Hidden Paths with ffuf - Web Fuzzing Made Simple](https://dev.to/jadijadi/hacking-hidden-paths-with-ffuf-web-fuzzing-made-simple-4ne)
+- [“RAG is dead” is lazy. What’s dead is cosine‑N without a retrieval plan. In my latest post I include a hands-on colab notebook and explore Tensorlake with RAG. The demo: Compare the claims made in news articles about Tesla with actual Tesla SEC filings](https://dev.to/drguthals/rag-is-dead-is-lazy-whats-dead-is-cosine-n-without-a-retrieval-plan-in-my-latest-post-i-4dha)
+- [Accelerate Advanced RAG with Tensorlake](https://dev.to/tensorlake/accelerate-advanced-rag-with-tensorlake-2862)
+- [Just launched my first thing ever 😅](https://dev.to/jeffrey_39f861255ebf7c628/just-launched-my-first-thing-ever-1k11)
+- [Modular Programming Applied to Steel Fence Maintenance](https://dev.to/chicago_comercialfencing/modular-programming-applied-to-steel-fence-maintenance-5hcg)
+- [Hey Guys, try this quiz to see how well you are good at Java😊](https://dev.to/cal_afun_2475adb4b562023b/hey-guys-try-this-quiz-to-see-how-well-you-are-good-at-java-3fah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
