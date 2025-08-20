@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Doglabbing&#39; ngrok: Many services, one standard AuthN path](https://dev.to/ngrok/doglabbing-ngrok-many-services-one-standard-authn-path-4mjn)
-- [Sending SMS Messages with PHP](https://dev.to/vonagedev/sending-sms-messages-with-php-4db5)
-- [Build Your Own AI Stock Portfolio Agent with Agno + AG-UI](https://dev.to/copilotkit/build-your-own-ai-stock-portfolio-agent-with-agno-ag-ui-3ldp)
-- [Blinko: Your AI-Powered, Self-Hosted Note-Taking Revolution](https://dev.to/githubopensource/blinko-your-ai-powered-self-hosted-note-taking-revolution-3b7n)
-- [Introducing ArkTS, Huawei’s Next-Generation Development Language](https://dev.to/harmonyos/introducing-arkts-huaweis-next-generation-development-language-jg7)
+- [Callback 📞 vs Promise 🤞 based functions](https://dev.to/randhavevaibhav/callback-vs-promise-based-functions-4l9m)
+- [Mastering Self-Consistency Prompting](https://dev.to/abhishek_gautam-01/mastering-self-consistency-prompting-h7c)
+- [What Most Consultants Miss About AI &lpar;And What Still Actually Works&rpar;](https://dev.to/remotebranch/what-most-consultants-miss-about-ai-and-what-still-actually-works-1be7)
+- [DocWire SDK 2025.08.xx Released – GPT-5 Now Fully Integrated, New Default Model](https://dev.to/novitzmann/docwire-sdk-202508xx-released-gpt-5-now-fully-integrated-new-default-model-3l3b)
+- [🎯 SIP Responses: Talking Back](https://dev.to/sip_games/sip-responses-talking-back-5ca8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
