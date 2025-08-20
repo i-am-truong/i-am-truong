@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-14: Google Compute Engine &lpar;GCE&rpar; – Live Migration &amp; Availability Policy Explained 🚀](https://dev.to/latchudevops/part-14-google-compute-engine-gce-live-migration-availability-policy-explained-a6m)
-- [30 Days of Code- Day 25 &amp; 26](https://dev.to/akshitaexe/30-days-of-code-day-25-26-e7g)
-- [How SBCs and Display Technologies Are Shaping the Future of Embedded Systems](https://dev.to/kevinzhang109/how-sbcs-and-display-technologies-are-shaping-the-future-of-embedded-systems-36mn)
-- [DevOps Explained: The Art of Not Fighting in Prod Anymore 🔥](https://dev.to/tavernetech/devops-explained-the-art-of-not-fighting-in-prod-anymore-13pj)
-- [n8n](https://dev.to/lexycodestudio/n8n-5aoc)
+- [No Laying Up Podcast: The Scottish Highlands Golf Trip | NLU Pod, Ep 1058](https://dev.to/youtube_golf/no-laying-up-podcast-the-scottish-highlands-golf-trip-nlu-pod-ep-1058-553p)
+- [Welcome Thread - v340](https://dev.to/devteam/welcome-thread-v340-3j0c)
+- [Detects Hardware Specs: What to Track and How Discovery Tools Work](https://dev.to/emily_assetloom/detects-hardware-specs-what-to-track-and-how-discovery-tools-work-29fi)
+- [Supabase WordPress Integration - Sync WordPress Posts and Pages to Supabase](https://dev.to/dalenguyen/supabase-wordpress-integration-sync-wordpress-posts-and-pages-to-supabase-28f7)
+- [Understanding Network Discovery Scan: Top Features to Look For](https://dev.to/emily_assetloom/understanding-network-discovery-scan-top-features-to-look-for-230)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
