@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your n8n HTTP Request Fails—and How to Debug Like a Pro](https://dev.to/brains_behind_bots/why-your-n8n-http-request-fails-and-how-to-debug-like-a-pro-4pk1)
 - [Practice #6: Conditional Filtering by Enumerated Field--A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice-6-conditional-filtering-by-enumerated-field-a-lightweight-solution-to-speed-up-queries-349f)
 - [How to remove your commits from submitted PR](https://dev.to/fish-404/how-to-remove-your-commits-from-submitted-pr-28a9)
 - [Building Multi-Tenant SaaS with Row-Level Security in Laravel](https://dev.to/addwebsolutionpvtltd/building-multi-tenant-saas-with-row-level-security-in-laravel-3kd3)
 - [14 Game-Changing Software Development Trends in 2025 Every Founder Should Know](https://dev.to/betterhq/14-game-changing-software-development-trends-in-2025-every-founder-should-know-1cn2)
-- [Stop Struggling with CSS: Master Inheritance, Specificity &amp; Cascade Now](https://dev.to/devshefali/stop-struggling-with-css-master-inheritance-specificity-cascade-now-3p38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
