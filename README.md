@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mapeando API .NET com Prometheus](https://dev.to/daniloopinheiro/mapeando-api-net-com-prometheus-32fh)
-- [E-Lo-Meter: What the heck does Elon Musk do?](https://dev.to/william_carlson_1f2a7d2d3/e-lo-meter-what-the-heck-does-elon-musk-do-469c)
-- [Slideshowy: Viral AI Content That Drives Results](https://dev.to/slideshowyio/slideshowy-viral-ai-content-that-drives-results-3b78)
-- [Cheap PCB Board: An Engineer’s Educational Guide to Affordable Prototyping](https://dev.to/frank_1871bc3c55f35370df3/cheap-pcb-board-an-engineers-educational-guide-to-affordable-prototyping-7op)
-- [HealthMate - Doctor Appointment Booking System](https://dev.to/ashwin_dumane/healthmate-doctor-appointment-booking-system-3kn5)
+- [Exploring the Advantages and Applications of Flexible PCBs in Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/exploring-the-advantages-and-applications-of-flexible-pcbs-in-modern-electronics-14k1)
+- [Adam Savage&#39;s Tested: Adam Savage Visits the @NationalParkService Museum Conservation Lab!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-visits-the-nationalparkservice-museum-conservation-lab-4jlo)
+- [Build a College Database in Oracle LiveSQL – Step-by-Step Guide](https://dev.to/pranav_aadithya_36edf63cb/build-a-college-database-in-oracle-livesql-step-by-step-guide-281l)
+- [COLORS: Venna - Wind Walker Freestyle | A COLORS ENCORE](https://dev.to/music_youtube/colors-venna-wind-walker-freestyle-a-colors-encore-l07)
+- [KEXP: Barrington Levy - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-full-performance-live-on-kexp-mfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
