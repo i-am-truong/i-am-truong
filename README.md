@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Smart Caching Strategies for High-Performance Enterprise Applications](https://dev.to/kapusto/smart-caching-strategies-for-high-performance-enterprise-applications-4d6g)
-- [:has&lpar;&lt;n number of elements&gt;&rpar;](https://dev.to/avcat/has-1984)
-- [Still using Postman and Backstage with Multiple Gateways? You’re Already Behind!](https://dev.to/reshab_agarwal/still-using-postman-and-backstage-with-multiple-gateways-youre-already-behind-4fn8)
-- [Pluralsight vs Udemy: Which Platform Actually Helps You Code Better &lpar;and Not Just Collect Certificates&rpar;?](https://dev.to/stack_overflowed/pluralsight-vs-udemy-which-platform-actually-helps-you-code-better-and-not-just-collect-3d4o)
-- [How to Design a PostgreSQL Schema Visually &lpar;Step-by-Step&rpar;](https://dev.to/roxana_haidiner/how-to-design-a-postgresql-schema-visually-step-by-step-2d6a)
+- [DeepSeek V3.1 Complete Evaluation Analysis: The New AI Programming Benchmark for 2025](https://dev.to/czmilo/deepseek-v31-complete-evaluation-analysis-the-new-ai-programming-benchmark-for-2025-58jc)
+- [Building Treazurex — Weeks 3–5](https://dev.to/raimi_dikamona/building-treazurex-weeks-3-5-3mla)
+- [KEXP: Barrington Levy - A FI YUH &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-a-fi-yuh-live-on-kexp-22ac)
+- [In Và Xuất Dữ Liệu Trong Java - Hướng Dẫn Chi Tiết](https://dev.to/javahighlight/in-va-xuat-du-lieu-trong-java-huong-dan-chi-tiet-24gm)
+- [KEXP: Barrington Levy - Black Roses / Here I Come &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-black-roses-here-i-come-live-on-kexp-2od2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
