@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-530b)
 - [RustMailer: A Self-Hosted IMAP/SMTP Middleware for Developers](https://dev.to/rustmailer_39a575ac86abbf/rustmailer-a-self-hosted-imapsmtp-middleware-for-developers-27o)
 - [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-5ff6)
+- [Hacking Hidden Paths with ffuf - Web Fuzzing Made Simple](https://dev.to/jadijadi/hacking-hidden-paths-with-ffuf-web-fuzzing-made-simple-4ne)
 - [GameSpot: Call of Duty Black Ops 7 Preview](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-preview-140j)
-- [GameSpot: Halloween The Game - Official Announcement Trailer](https://dev.to/gg_news/gamespot-halloween-the-game-official-announcement-trailer-4n0k)
-- [IGN: Frostpunk 2 - Official Console Gameplay Trailer](https://dev.to/gg_news/ign-frostpunk-2-official-console-gameplay-trailer-1ain)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
