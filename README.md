@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Neanderthal in the Machine](https://dev.to/ai_deckard/the-neanderthal-in-the-machine-4pc1)
+- [The Divide Between AI-Fluent and AI-Resistant Developers](https://dev.to/cdownard/the-divide-between-ai-fluent-and-ai-resistant-developers-58l5)
+- [Solving the N+1 Query Bottleneck: A Practical Guide with Go &amp; SQL](https://dev.to/isthisrishi/solving-the-n1-query-bottleneck-a-practical-guide-with-go-sql-4kfg)
+- [Why I Love Coding &amp; Storytelling Together](https://dev.to/brute/why-i-love-coding-storytelling-together-340j)
 - [Demystifying Consensus Algorithms for System Design Interviews](https://dev.to/codewithved/demystifying-consensus-algorithms-for-system-design-interviews-55n2)
-- [Day 22 of My Data Analytics Journey !](https://dev.to/ramyacse/day-22-of-my-data-analytics-journey--4ki7)
-- [Sweating the Small Stuff: UX Decisions That Matter ✨](https://dev.to/vijay431/sweating-the-small-stuff-ux-decisions-that-matter-56g4)
-- [[Boost]](https://dev.to/marabesi/-10dd)
-- [Mastering Load Balancing for System Design Interviews](https://dev.to/codewithved/mastering-load-balancing-for-system-design-interviews-4b1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
