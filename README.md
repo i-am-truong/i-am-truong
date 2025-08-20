@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: The Scottish Highlands Golf Trip | NLU Pod, Ep 1058](https://dev.to/youtube_golf/no-laying-up-podcast-the-scottish-highlands-golf-trip-nlu-pod-ep-1058-553p)
-- [Welcome Thread - v340](https://dev.to/devteam/welcome-thread-v340-3j0c)
-- [Detects Hardware Specs: What to Track and How Discovery Tools Work](https://dev.to/emily_assetloom/detects-hardware-specs-what-to-track-and-how-discovery-tools-work-29fi)
-- [Supabase WordPress Integration - Sync WordPress Posts and Pages to Supabase](https://dev.to/dalenguyen/supabase-wordpress-integration-sync-wordpress-posts-and-pages-to-supabase-28f7)
-- [Understanding Network Discovery Scan: Top Features to Look For](https://dev.to/emily_assetloom/understanding-network-discovery-scan-top-features-to-look-for-230)
+- [The Netflix Approach for Agency Client Portals: How Transparency Increased Our Retention 47%](https://dev.to/teamcamp/the-netflix-approach-for-agency-client-portals-how-transparency-increased-our-retention-47-3koj)
+- [You Know JavaScript but Can’t Solve Problems in It?](https://dev.to/codeguage/you-know-javascript-but-cant-solve-problems-in-it-253a)
+- [Mastering Validation in Laravel - A Beginner’s Guide](https://dev.to/rohitdhiman/mastering-validation-in-laravel-a-beginners-guide-3j2j)
+- [The Small Coding Habit That Made Me a Better Developer](https://dev.to/leena_malhotra_355340d89c/the-small-coding-habit-that-made-me-a-better-developer-3df8)
+- [Looking to scale AI in your business? Here’s how to pick the right partner 👉](https://dev.to/dhruvjoshi9/looking-to-scale-ai-in-your-business-heres-how-to-pick-the-right-partner-3na8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
