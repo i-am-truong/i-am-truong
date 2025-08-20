@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Neanderthal in the Machine](https://dev.to/ai_deckard/the-neanderthal-in-the-machine-4pc1)
-- [The Divide Between AI-Fluent and AI-Resistant Developers](https://dev.to/cdownard/the-divide-between-ai-fluent-and-ai-resistant-developers-58l5)
-- [Solving the N+1 Query Bottleneck: A Practical Guide with Go &amp; SQL](https://dev.to/isthisrishi/solving-the-n1-query-bottleneck-a-practical-guide-with-go-sql-4kfg)
-- [Why I Love Coding &amp; Storytelling Together](https://dev.to/brute/why-i-love-coding-storytelling-together-340j)
-- [Demystifying Consensus Algorithms for System Design Interviews](https://dev.to/codewithved/demystifying-consensus-algorithms-for-system-design-interviews-55n2)
+- [My First Webapp - AI written](https://dev.to/pravin_niceguy/my-first-webapp-ai-written-1409)
+- [Making AI Prompts Customizable with Smart Guardrails](https://dev.to/shrsv/making-ai-prompts-customizable-with-smart-guardrails-2o59)
+- [Composition Over Inheritance: A Flexible Design Principle](https://dev.to/lovestaco/composition-over-inheritance-a-flexible-design-principle-4ehh)
+- [Tableau for Marketing: Become a Segmentation Sniper](https://dev.to/dipti_m_2e7ba36c478d1a48a/tableau-for-marketing-become-a-segmentation-sniper-2o67)
+- [CPU Stress Test on Arch Linux](https://dev.to/ktauchathuranga/cpu-stress-test-on-arch-linux-5e80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
