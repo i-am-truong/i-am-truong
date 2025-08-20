@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Server-Side Tagging with GTM: A Developer&#39;s Guide](https://dev.to/mehwish_malik_4f29ff7fb04/implementing-server-side-tagging-with-gtm-a-developers-guide-1ipg)
+- [What’s New in Angular 20: Key Features You Should Know](https://dev.to/mridudixit15/whats-new-in-angular-20-key-features-you-should-know-l7a)
+- [Offboarding Technical Guide](https://dev.to/hediyeh_kianmehr_45f78137/offboarding-technical-guide-iae)
+- [Building Microservices: Designing Scalable and Maintainable Back-End Architectures](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-microservices-designing-scalable-and-maintainable-back-end-architectures-43o9)
 - [10 Clean Code Principles Every Developer Should Follow ✨](https://dev.to/fludapp/10-clean-code-principles-every-developer-should-follow-51k3)
-- [Why Testing?](https://dev.to/szabgab/why-testing-578n)
-- [Real-Time Email Notifications in .NET Using Microsoft Graph API](https://dev.to/madusanka_bandara/real-time-email-notifications-in-net-using-microsoft-graph-api-3f71)
-- [How I automated typing for coding tutorials with C# &lpar;introducing ChoreoTyper&rpar;](https://dev.to/sarmis/how-i-automated-typing-for-coding-tutorials-with-c-introducing-choreotyper-2f6f)
-- [Learn about 11 hidden HTML tags that can make your web development easier, improve your website&#39;s functionality, and boost SEO. Great for beginners and experts!](https://dev.to/web_dev-usman/learn-about-11-hidden-html-tags-that-can-make-your-web-development-easier-improve-your-websites-1459)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
