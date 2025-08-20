@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Forecasting Cloud Spend with Retool - Build Intelligent, Action-Driven Cost Visibility | Widle](https://dev.to/widlestudio/forecasting-cloud-spend-with-retool-build-intelligent-action-driven-cost-visibility-widle-57cg)
+- [Interesting perspective. Im not sure I fully agree, but it definitely makes you think.](https://dev.to/juanperez/interesting-perspective-im-not-sure-i-fully-agree-but-it-definitely-makes-you-think-3e8b)
 - [Por qué cambiar a Zen](https://dev.to/killoconq/por-que-cambiar-a-zen-43i8)
 - [Devtool DB Perf - Looking for beta users](https://dev.to/maxdaless/devtool-db-perf-looking-for-beta-users-4bph)
 - [Email List Cleaner: A Privacy-First, Free and Open Source Solution](https://dev.to/jouni_flemming_0bcbcad7b3/email-list-cleaner-a-privacy-first-free-and-open-source-solution-gag)
-- [Psychosonic Synthizer](https://dev.to/shepherd_1ec15ed8e8d85ced/psychosonic-synthizer-3e9c)
-- [Epoxy Flooring Austin](https://dev.to/epoxyinaustin/epoxy-flooring-austin-8f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
