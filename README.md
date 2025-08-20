@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with SQL: My First Hands-On Experience](https://dev.to/saifulhaq/getting-started-with-sql-my-first-hands-on-experience-348g)
-- [&lpar;Part 4&rpar; Build a Simple Chat Character Gallery: Adding Searchbar &amp; Filter](https://dev.to/jte0711/part-4-build-a-simple-chat-character-gallery-adding-searchbar-filter-59k6)
-- [Build a Serverless Workflow: AWS Lambda + Textract &lpar;Sync &amp; Async with SNS + SQS&rpar; — Step‑by‑Step Guide](https://dev.to/brayanarrieta/build-a-serverless-workflow-aws-lambda-textract-sync-async-with-sns-sqs-step-by-step-137c)
-- [Java class](https://dev.to/bharath_kumar_11c253b89e5/java-class-8l8)
-- [Developing on Oracle Autonomous Database - Using Spatial](https://dev.to/derrickryangiggs/developing-on-oracle-autonomous-database-using-spatial-2dd5)
+- [Build an AR React App](https://dev.to/murcoder/build-an-ar-react-app-17i5)
+- [A series that is hype free, optimistic and cautious, but most of all written accessibly no matter your current level. All things dev&#39;s should understand about #ai fast. Thanks Dev. This should be a book &amp; course next. @dev_patel_35864ca1db6093c](https://dev.to/leogopal/a-series-that-is-hype-free-optimistic-and-cautious-but-most-of-all-written-accessibly-no-matter-1mi5)
+- [Dos and Don’ts of Building a Tracking Script in Vanilla JS](https://dev.to/juggernautmain/dos-and-donts-of-building-a-tracking-script-in-vanilla-js-5cn2)
+- [From Code to Container: Building a Python Flask CI/CD Pipeline on Windows with Jenkins](https://dev.to/hritikraj8804/from-code-to-container-building-a-python-flask-cicd-pipeline-on-windows-with-jenkins-3k23)
+- [🖊️ Digitally Sign PDFs Securely with eMark – Cross-Platform &amp; Free 🚀](https://dev.to/codemuni/digitally-sign-pdfs-securely-with-emark-cross-platform-free-4am1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
