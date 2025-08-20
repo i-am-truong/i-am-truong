@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Survey with text input example](https://dev.to/ben/survey-with-text-input-example-142p)
-- [How do I separate myself from most entry level devs?](https://dev.to/ej_salga_af7c7ffbf288c3d7/how-do-i-separate-myself-from-most-entry-level-devs-20m0)
-- [KotlinLesson 2: Kotlin Basic Syntax: Mastering Variables, Data Types, and Operators](https://dev.to/jige2025/kotlinlesson-2-kotlin-basic-syntax-mastering-variables-data-types-and-operators-4hej)
-- [Pivoting from Auth0 to PHP Symfony](https://dev.to/browsely_a899a03e6654ba38/pivoting-from-auth0-to-php-symfony-39h)
-- [How to Secure Your TanStack React Start App with Light-Auth](https://dev.to/mimetis/how-to-secure-your-tanstack-react-start-app-with-light-auth-12o0)
+- [[Boost]](https://dev.to/ben/-2hcm)
+- [Bug fix release 2.06 for the Perl Distribution Workflow](https://dev.to/jonasbn/bug-fix-release-206-for-the-perl-distribution-workflow-53l6)
+- [7 Essential Design Patterns for Building Better AI Products](https://dev.to/alonsarias/7-essential-design-patterns-for-building-better-ai-products-pdk)
+- [Why Most Sprint Plannings Run Over Time &lpar;and How I Fixed It in 100+ Sprints&rpar;](https://dev.to/gsauzande/why-most-sprint-plannings-run-over-time-and-how-i-fixed-it-in-100-sprints-nal)
+- [Pepperoni: A Flavorful Classic with a Modern Twist](https://dev.to/hamza_ali_e5a3ccc85652d24/pepperoni-a-flavorful-classic-with-a-modern-twist-4bdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
