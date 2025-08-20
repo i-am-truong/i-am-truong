@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Working Shifts? Tips to Overcome Shift Work Sleep Disorder](https://dev.to/maya_elison_1edb8e9a29181/working-shifts-tips-to-overcome-shift-work-sleep-disorder-4o9h)
-- [Agile Terminology in 2025 and 2026: New Words Teams Are Using](https://dev.to/taskford/agile-terminology-in-2025-and-2026-new-words-teams-are-using-491)
-- [How I Use AI to Refactor Without Losing Control](https://dev.to/leena_malhotra_355340d89c/how-i-use-ai-to-refactor-without-losing-control-437c)
-- [IT Project Life Cycle Phases: Detailed Breakdown &lpar;With Examples&rpar;](https://dev.to/taskford/it-project-life-cycle-phases-detailed-breakdown-with-examples-2no9)
-- [Copy Design Docs to Avoid Waiting For Indexes to be Built](https://dev.to/moremaddy/copy-design-docs-to-avoid-waiting-for-indexes-to-be-built-3a8i)
+- [The four pillars of Object-Oriented Programming with real life examples](https://dev.to/manasi_patil_/the-four-pillars-of-object-oriented-programming-with-real-life-examples-2d4e)
+- [global vs nonlocal in Python &lpar;2&rpar;](https://dev.to/hyperkai/global-vs-nonlocal-in-python-2-2gj9)
+- [100 Days of DevOps: Day 17](https://dev.to/wycliffealphus/100-days-of-devops-day-17-56l4)
+- [Best G-Rated Movies on Amazon Prime Video 2025](https://dev.to/audury_puuu_69b54b896c8a8/best-g-rated-movies-on-amazon-prime-video-2025-e65)
+- [Great article!](https://dev.to/stanimiravlaeva/-85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
