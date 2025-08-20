@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🕵️‍♂️ Nmap &amp; Vulnerability Analysis – A Beginner’s Guide by Gh0stSh3ll 👻](https://dev.to/sriram_bharath/nmap-vulnerability-analysis-a-beginners-guide-by-gh0stsh3ll-355c)
-- [Three AIs and a Funeral: My Take on GPT-5 ⚰️](https://dev.to/anchildress1/three-ais-and-a-funeral-my-take-on-gpt-5-3f3e)
-- [Day 71: When Your LAN Dies and Forces Better Code Habits](https://dev.to/casperday11/day-71-when-your-lan-dies-and-forces-better-code-habits-27n7)
-- [How to Import SVG Files to React + Vite Project &lpar;2025&rpar;](https://dev.to/marina_eremina/how-to-import-svg-files-to-react-vite-project-2025-59mo)
-- [Accessing Windows Directories from Linux: A Guide to Mounting](https://dev.to/raphael_coelho_bc4f5514a4/accessing-windows-directories-from-linux-a-guide-to-mounting-24lm)
+- [Blinko: Your AI-Powered, Self-Hosted Note-Taking Revolution](https://dev.to/githubopensource/blinko-your-ai-powered-self-hosted-note-taking-revolution-3b7n)
+- [Introducing ArkTS, Huawei’s Next-Generation Development Language](https://dev.to/harmonyos/introducing-arkts-huaweis-next-generation-development-language-jg7)
+- [Running GPT-OSS Locally with JavaScript and Ollama](https://dev.to/koolkamalkishor/running-gpt-oss-locally-with-javascript-and-ollama-3e4o)
+- [VPS Performance Reality Check 2025: Who’s Actually Fast &lpar;and Worth the Money&rpar;?](https://dev.to/sst21/vps-performance-reality-check-2025-whos-actually-fast-and-worth-the-money-1g6g)
+- [Python tips and tricks](https://dev.to/mcheremnov/python-tips-and-tricks-13bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
