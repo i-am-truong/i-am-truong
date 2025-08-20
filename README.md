@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Server-Side Tagging with GTM: A Developer&#39;s Guide](https://dev.to/mehwish_malik_4f29ff7fb04/implementing-server-side-tagging-with-gtm-a-developers-guide-1ipg)
-- [What’s New in Angular 20: Key Features You Should Know](https://dev.to/mridudixit15/whats-new-in-angular-20-key-features-you-should-know-l7a)
-- [Offboarding Technical Guide](https://dev.to/hediyeh_kianmehr_45f78137/offboarding-technical-guide-iae)
-- [Building Microservices: Designing Scalable and Maintainable Back-End Architectures](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-microservices-designing-scalable-and-maintainable-back-end-architectures-43o9)
-- [10 Clean Code Principles Every Developer Should Follow ✨](https://dev.to/fludapp/10-clean-code-principles-every-developer-should-follow-51k3)
+- [Imperative versus Declarative in Flutter](https://dev.to/intelgreatnez/imperative-versus-declarative-in-flutter-3f5n)
+- [IAM Lifecycle Playbook &lpar;Overview&rpar;](https://dev.to/hediyeh_kianmehr_45f78137/iam-lifecycle-playbook-overview-57h6)
+- [CGFEL: Understanding Collateral-Free Education Loans for Students](https://dev.to/gov01/cgfel-understanding-collateral-free-education-loans-for-students-5bp5)
+- [Mac Setup](https://dev.to/scue/mac-setup-4fo7)
+- [Reactivation Technical Guide](https://dev.to/hediyeh_kianmehr_45f78137/reactivation-technical-guide-3al4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
