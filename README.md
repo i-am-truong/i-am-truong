@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Customer Support Outsourcing: Why Businesses Choose It](https://dev.to/outsourcedigest/customer-support-outsourcing-why-businesses-choose-it-3np7)
-- [From enterprise backend to shipping a full‑stack app: the parts I had to learn the hard way](https://dev.to/wl0182/from-enterprise-backend-to-shipping-a-full-stack-app-the-parts-i-had-to-learn-the-hard-way-5ch4)
-- [🔑 Build a Simple Password Generator with HTML, CSS &amp; JavaScript](https://dev.to/giftintech/build-a-simple-password-generator-with-html-css-javascript-4429)
-- [Kadag Security](https://dev.to/garry_mulholland_78885d11/kadag-security-15od)
-- [Day 20 of #30DaysOfCode20](https://dev.to/justacoder_0x/day-20-of-30daysofcode20-1jlh)
+- [GameSpot: Call of Duty Black Ops 7: First Impressions](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-first-impressions-d80)
+- [IGN: Dune: Awakening - Official Chapter 2 Update Overview Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-dune-awakening-official-chapter-2-update-overview-trailer-into-the-infinite-2025-2c7l)
+- [IGN: Den of Wolves - Official Pre-Alpha Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-den-of-wolves-official-pre-alpha-trailer-into-the-infinite-2025-206o)
+- [IGN: The Expanse: Osiris Reborn - Official Environment Showcase Trailer](https://dev.to/gg_news/ign-the-expanse-osiris-reborn-official-environment-showcase-trailer-4h6c)
+- [IGN: Exoborne - Official Playtest 2 Announcement Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-exoborne-official-playtest-2-announcement-trailer-into-the-infinite-2025-m9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
