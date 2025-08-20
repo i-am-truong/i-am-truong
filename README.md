@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pluralsight vs Udemy: Which Platform Actually Helps You Code Better &lpar;and Not Just Collect Certificates&rpar;?](https://dev.to/stack_overflowed/pluralsight-vs-udemy-which-platform-actually-helps-you-code-better-and-not-just-collect-3d4o)
 - [How to Design a PostgreSQL Schema Visually &lpar;Step-by-Step&rpar;](https://dev.to/roxana_haidiner/how-to-design-a-postgresql-schema-visually-step-by-step-2d6a)
 - [Design and Implement Role-Based Access with AWS IAM](https://dev.to/immah/design-and-implement-role-based-access-with-aws-iam-3bbf)
 - [My Journey Learning SQL with PostgreSQL: Leveling Up My Backend Skills](https://dev.to/vincent_f48e4268cf6b259fc/my-journey-learning-sql-with-postgresql-leveling-up-my-backend-skills-407l)
 - [How AI and Machine Learning Are Transforming Android App Features](https://dev.to/william16077582/how-ai-and-machine-learning-are-transforming-android-app-features-3cg4)
-- [Managing Multiple SSH Servers Across Windows &amp; macOS with SSH Config &amp; Tmux](https://dev.to/yousufbasir/managing-multiple-ssh-servers-across-windows-macos-with-ssh-config-tmux-21ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
