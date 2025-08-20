@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Callback Functions in JavaScript: A Beginner&#39;s Guide](https://dev.to/wisdomudo/understanding-callback-functions-in-javascript-a-beginners-guide-76c)
-- [The pioneering microservice](https://dev.to/mbarcia/the-pioneering-microservice-41cd)
-- [Creating IAM Access Keys for AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY](https://dev.to/adityaokke/creating-iam-access-keys-for-awsaccesskeyid-and-awssecretaccesskey-34i3)
-- [3 TanStack Query Features That Transform Production React Apps](https://dev.to/martinrojas/3-tanstack-query-features-that-transform-production-react-apps-196b)
-- [ChatGPT Go Subscription India Features, Pricing, and Alternatives](https://dev.to/sweet_benzoic_acid/chatgpt-go-subscription-india-features-pricing-and-alternatives-ae1)
+- [Mapeando API .NET com Prometheus](https://dev.to/daniloopinheiro/mapeando-api-net-com-prometheus-32fh)
+- [E-Lo-Meter: What the heck does Elon Musk do?](https://dev.to/william_carlson_1f2a7d2d3/e-lo-meter-what-the-heck-does-elon-musk-do-469c)
+- [Slideshowy: Viral AI Content That Drives Results](https://dev.to/slideshowyio/slideshowy-viral-ai-content-that-drives-results-3b78)
+- [Cheap PCB Board: An Engineer’s Educational Guide to Affordable Prototyping](https://dev.to/frank_1871bc3c55f35370df3/cheap-pcb-board-an-engineers-educational-guide-to-affordable-prototyping-7op)
+- [HealthMate - Doctor Appointment Booking System](https://dev.to/ashwin_dumane/healthmate-doctor-appointment-booking-system-3kn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
