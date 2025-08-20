@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Rocket with LEGOs](https://dev.to/cadienvan/build-a-rocket-with-legos-5ck1)
-- [MCP vs. APIs: Which Is Better for Advanced AI Development?](https://dev.to/fallon_jimmy/mcp-vs-apis-which-is-better-for-advanced-ai-development-i18)
-- [Day 3 of Experimenting with Open Source AI](https://dev.to/sky98/day-3-of-experimenting-with-open-source-ai-1444)
-- [Web Components &amp; Custom Elements](https://dev.to/godofgeeks/web-components-custom-elements-3jg0)
-- [How to Use GDAL in Web Applications &lpar;Part 3&rpar;](https://dev.to/yangholmes/how-to-use-gdal-in-web-applications-part-3-1bc)
+- [How to Subscribe to the ChatGPT Go?](https://dev.to/rajeshkumaryadavdotcom/how-to-subscribe-to-the-chatgpt-go-4djk)
+- [A Practical Starter Stack for Headless E-Commerce](https://dev.to/hardeepsingh01/a-practical-starter-stack-for-headless-e-commerce-2nbl)
+- [iOS PWAでnavigateが動作しない時がある](https://dev.to/suzulabo/ios-pwadenavigategadong-zuo-sinaishi-gaaru-22e7)
+- [The Single Most Critical Factor for Enterprise AI? It’s Not the Model](https://dev.to/vishal_agrawal_680a3e5c14/the-single-most-critical-factor-for-enterprise-ai-its-not-the-model-1o78)
+- [iOS PWAでnotificationclickが発生しない](https://dev.to/suzulabo/ios-pwadenotificationclickgafa-sheng-sinai-ffi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
