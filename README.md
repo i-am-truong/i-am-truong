@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Handling Incomplete GitHub Issues in Your Open Source Project](https://dev.to/alexiszamanidis/handling-incomplete-github-issues-in-your-open-source-project-13)
-- [Why Lightweight Language Models Might Be More Important Than Ever](https://dev.to/pmobit/why-lightweight-language-models-might-be-more-important-than-ever-37nb)
-- [I Gave My AI a Conscience in 3 Lines of Code: The Sacred Pause Pattern](https://dev.to/lev_goukassian_5fe7ea654a/i-gave-my-ai-a-conscience-in-3-lines-of-code-the-sacred-pause-pattern-dj0)
-- [Beyond the Hype: Why We Chose Redis Streams Over Kafka for Our Microservices](https://dev.to/mtk3d/beyond-the-hype-why-we-chose-redis-streams-over-kafka-for-our-microservices-dmc)
-- [Building Security First Software: From Data Breaches to Open Source](https://dev.to/harroldjr/building-security-first-software-my-journey-from-data-breaches-to-open-source-27ej)
+- [KEDA to build Event-Driven Applications on EKS](https://dev.to/aws-builders/keda-to-build-event-driven-applications-on-eks-4gci)
+- [Debugging JavaScript in Dynamics 365 CE: Forms, Ribbons, and PCFs](https://dev.to/nikhildynamicsce/debugging-javascript-in-dynamics-365-ce-forms-ribbons-and-pcfs-10g9)
+- [Title: The Unseen Impact of Nighttime Artificial Light on Brain Function, Mood, and Metabolism](https://dev.to/yagyaraj_sharma_6cd410179/title-the-unseen-impact-of-nighttime-artificial-light-on-brain-function-mood-and-metabolism-4253)
+- [Cracking Open the Magic of React Native + C++ for JSI Bindings](https://dev.to/samuel_onireti_0e7ea18c79/cracking-open-the-magic-of-react-native-c-for-jsi-bindings-17i4)
+- [📝 Mapeando Logs do .NET com Zabbix](https://dev.to/daniloopinheiro/mapeando-logs-do-net-com-zabbix-1bi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
