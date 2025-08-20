@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Little Nightmares 3 - Official &#39;The Carnevale&#39; Commented Gameplay Trailer | gamescom 2025](https://dev.to/gg_news/ign-little-nightmares-3-official-the-carnevale-commented-gameplay-trailer-gamescom-2025-1kla)
-- [IGN: Band of Crusaders - Official Gameplay Trailer](https://dev.to/gg_news/ign-band-of-crusaders-official-gameplay-trailer-1ggp)
-- [IGN: Path of Exile 2: The Third Edict - Official Trailer | gamescom 2025](https://dev.to/gg_news/ign-path-of-exile-2-the-third-edict-official-trailer-gamescom-2025-2d2k)
-- [IGN: 1348 Ex Voto - Official Reveal Trailer | gamescom 2025](https://dev.to/gg_news/ign-1348-ex-voto-official-reveal-trailer-gamescom-2025-1pji)
-- [IGN: Lost Hellden - Official Gameplay Trailer | gamescom 2025](https://dev.to/gg_news/ign-lost-hellden-official-gameplay-trailer-gamescom-2025-4a8m)
+- [RustMailer: A Self-Hosted IMAP/SMTP Middleware for Developers](https://dev.to/rustmailer_39a575ac86abbf/rustmailer-a-self-hosted-imapsmtp-middleware-for-developers-27o)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-5ff6)
+- [GameSpot: Call of Duty Black Ops 7 Preview](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-preview-140j)
+- [GameSpot: Halloween The Game - Official Announcement Trailer](https://dev.to/gg_news/gamespot-halloween-the-game-official-announcement-trailer-4n0k)
+- [IGN: Frostpunk 2 - Official Console Gameplay Trailer](https://dev.to/gg_news/ign-frostpunk-2-official-console-gameplay-trailer-1ain)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
