@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Advantages and Applications of Flexible PCBs in Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/exploring-the-advantages-and-applications-of-flexible-pcbs-in-modern-electronics-14k1)
-- [Adam Savage&#39;s Tested: Adam Savage Visits the @NationalParkService Museum Conservation Lab!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-visits-the-nationalparkservice-museum-conservation-lab-4jlo)
-- [Build a College Database in Oracle LiveSQL – Step-by-Step Guide](https://dev.to/pranav_aadithya_36edf63cb/build-a-college-database-in-oracle-livesql-step-by-step-guide-281l)
-- [COLORS: Venna - Wind Walker Freestyle | A COLORS ENCORE](https://dev.to/music_youtube/colors-venna-wind-walker-freestyle-a-colors-encore-l07)
-- [KEXP: Barrington Levy - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-full-performance-live-on-kexp-mfm)
+- [Getting Started with SQL: My First Hands-On Experience](https://dev.to/saifulhaq/getting-started-with-sql-my-first-hands-on-experience-348g)
+- [&lpar;Part 4&rpar; Build a Simple Chat Character Gallery: Adding Searchbar &amp; Filter](https://dev.to/jte0711/part-4-build-a-simple-chat-character-gallery-adding-searchbar-filter-59k6)
+- [Build a Serverless Workflow: AWS Lambda + Textract &lpar;Sync &amp; Async with SNS + SQS&rpar; — Step‑by‑Step Guide](https://dev.to/brayanarrieta/build-a-serverless-workflow-aws-lambda-textract-sync-async-with-sns-sqs-step-by-step-137c)
+- [Java class](https://dev.to/bharath_kumar_11c253b89e5/java-class-8l8)
+- [Developing on Oracle Autonomous Database - Using Spatial](https://dev.to/derrickryangiggs/developing-on-oracle-autonomous-database-using-spatial-2dd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
