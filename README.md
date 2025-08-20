@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [node24 warning](https://dev.to/suzulabo/node24-warning-4pkk)
-- [How to Subscribe to the ChatGPT Go?](https://dev.to/rajeshkumaryadavdotcom/how-to-subscribe-to-the-chatgpt-go-4djk)
-- [A Practical Starter Stack for Headless E-Commerce](https://dev.to/hardeepsingh01/a-practical-starter-stack-for-headless-e-commerce-2nbl)
-- [iOS PWAでnavigateが動作しない時がある](https://dev.to/suzulabo/ios-pwadenavigategadong-zuo-sinaishi-gaaru-22e7)
-- [The Single Most Critical Factor for Enterprise AI? It’s Not the Model](https://dev.to/vishal_agrawal_680a3e5c14/the-single-most-critical-factor-for-enterprise-ai-its-not-the-model-1o78)
+- [10 Clean Code Principles Every Developer Should Follow ✨](https://dev.to/fludapp/10-clean-code-principles-every-developer-should-follow-51k3)
+- [Why Testing?](https://dev.to/szabgab/why-testing-578n)
+- [Real-Time Email Notifications in .NET Using Microsoft Graph API](https://dev.to/madusanka_bandara/real-time-email-notifications-in-net-using-microsoft-graph-api-3f71)
+- [How I automated typing for coding tutorials with C# &lpar;introducing ChoreoTyper&rpar;](https://dev.to/sarmis/how-i-automated-typing-for-coding-tutorials-with-c-introducing-choreotyper-2f6f)
+- [Learn about 11 hidden HTML tags that can make your web development easier, improve your website&#39;s functionality, and boost SEO. Great for beginners and experts!](https://dev.to/web_dev-usman/learn-about-11-hidden-html-tags-that-can-make-your-web-development-easier-improve-your-websites-1459)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
