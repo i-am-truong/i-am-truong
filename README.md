@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BarSync](https://dev.to/louis_tatchida_87c910cd79/barsync-51jg)
+- [global vs nonlocal in Python &lpar;4&rpar;](https://dev.to/hyperkai/global-vs-nonlocal-in-python-4-495j)
+- [How to Make a Pull Request to Another Pull Request &lpar;Without Write Access&rpar;](https://dev.to/sydney205/how-to-make-a-pull-request-to-another-pull-request-without-write-access-4l0l)
+- [global vs nonlocal in Python &lpar;3&rpar;](https://dev.to/hyperkai/global-vs-nonlocal-in-python-3-3fmc)
 - [The four pillars of Object-Oriented Programming with real life examples](https://dev.to/manasi_patil_/the-four-pillars-of-object-oriented-programming-with-real-life-examples-2d4e)
-- [global vs nonlocal in Python &lpar;2&rpar;](https://dev.to/hyperkai/global-vs-nonlocal-in-python-2-2gj9)
-- [100 Days of DevOps: Day 17](https://dev.to/wycliffealphus/100-days-of-devops-day-17-56l4)
-- [Best G-Rated Movies on Amazon Prime Video 2025](https://dev.to/audury_puuu_69b54b896c8a8/best-g-rated-movies-on-amazon-prime-video-2025-e65)
-- [Great article!](https://dev.to/stanimiravlaeva/-85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
