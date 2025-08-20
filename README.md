@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built distributed systems at Meta. I still recommend starting with web dev.](https://dev.to/fahimulhaq/i-built-distributed-systems-at-meta-i-still-recommend-starting-with-web-dev-5aa9)
-- [Why I’d Never Let AI Rewrite It](https://dev.to/pratapkute/why-id-never-let-ai-rewrite-it-4f9p)
-- [Launch Your React Website on Netlify for Free: The Lazy Dev’s Guide 😪](https://dev.to/naiqor/launch-your-react-website-on-netlify-for-free-the-lazy-devs-guide-2f5k)
-- [A Minimalist Changelog Template for Next.js 15](https://dev.to/jqueryscript/a-minimalist-changelog-template-for-nextjs-15-53b9)
-- [Why Your n8n HTTP Request Fails—and How to Debug Like a Pro](https://dev.to/brains_behind_bots/why-your-n8n-http-request-fails-and-how-to-debug-like-a-pro-4pk1)
+- [How to Build a Qt Barcode Scanner with MSVC and Dynamsoft C++ Barcode SDK on Windows](https://dev.to/yushulx/how-to-build-a-qt-barcode-scanner-with-msvc-and-dynamsoft-c-barcode-sdk-on-windows-333c)
+- [WeDidIt.in – A Step Towards Change](https://dev.to/ananaya_narula_fb3766d6c2/wediditin-a-step-towards-change-b94)
+- [RIP SEO. Welcome to AIO: The Rise of Generative Engine Optimization &lpar;GEO&rpar;](https://dev.to/abiruzzamanmolla/rip-seo-welcome-to-aio-the-rise-of-generative-engine-optimization-geo-3dkn)
+- [Petition for PIL – The First Step Toward Change](https://dev.to/ananaya_narula_fb3766d6c2/petition-for-pil-the-first-step-toward-change-3mck)
+- [Insurance Cost Prediction](https://dev.to/mhdsharuk/insurance-cost-prediction-ai3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
