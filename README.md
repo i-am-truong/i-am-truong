@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Call of Duty Black Ops 7: First Impressions](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-first-impressions-d80)
-- [IGN: Dune: Awakening - Official Chapter 2 Update Overview Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-dune-awakening-official-chapter-2-update-overview-trailer-into-the-infinite-2025-2c7l)
-- [IGN: Den of Wolves - Official Pre-Alpha Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-den-of-wolves-official-pre-alpha-trailer-into-the-infinite-2025-206o)
-- [IGN: The Expanse: Osiris Reborn - Official Environment Showcase Trailer](https://dev.to/gg_news/ign-the-expanse-osiris-reborn-official-environment-showcase-trailer-4h6c)
-- [IGN: Exoborne - Official Playtest 2 Announcement Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-exoborne-official-playtest-2-announcement-trailer-into-the-infinite-2025-m9k)
+- [Will AI Replace Data Analysts?](https://dev.to/kapusto/will-ai-replace-data-analysts-48ic)
+- [Anypoint MQ: Enabling Robust Messaging for Modern Integration](https://dev.to/kapusto/anypoint-mq-enabling-robust-messaging-for-modern-integration-360)
+- [Why Pure Functions Are the Secret Weapon of Scalable Code in 2025](https://dev.to/arkhan/why-pure-functions-are-the-secret-weapon-of-scalable-code-in-2025-4h41)
+- [Running Managed Apache Flink with Java 17: Why Your Job Fails &lpar;and How to Fix It&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/running-managed-apache-flink-with-java-17-why-your-job-fails-and-how-to-fix-it-2j0a)
+- [Testing Kafka Workflows Without Kafka — With Playwright &amp; Mokapi](https://dev.to/marcel_lehmann_31109127df/testing-kafka-workflows-without-kafka-with-playwright-mokapi-29l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
