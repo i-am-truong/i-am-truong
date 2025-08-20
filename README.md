@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Forecasting Cloud Spend with Retool - Build Intelligent, Action-Driven Cost Visibility | Widle](https://dev.to/widlestudio/forecasting-cloud-spend-with-retool-build-intelligent-action-driven-cost-visibility-widle-57cg)
-- [Interesting perspective. Im not sure I fully agree, but it definitely makes you think.](https://dev.to/juanperez/interesting-perspective-im-not-sure-i-fully-agree-but-it-definitely-makes-you-think-3e8b)
-- [Por qué cambiar a Zen](https://dev.to/killoconq/por-que-cambiar-a-zen-43i8)
-- [Devtool DB Perf - Looking for beta users](https://dev.to/maxdaless/devtool-db-perf-looking-for-beta-users-4bph)
-- [Email List Cleaner: A Privacy-First, Free and Open Source Solution](https://dev.to/jouni_flemming_0bcbcad7b3/email-list-cleaner-a-privacy-first-free-and-open-source-solution-gag)
+- [IGN: Little Nightmares 3 - Official &#39;The Carnevale&#39; Commented Gameplay Trailer | gamescom 2025](https://dev.to/gg_news/ign-little-nightmares-3-official-the-carnevale-commented-gameplay-trailer-gamescom-2025-1kla)
+- [IGN: Band of Crusaders - Official Gameplay Trailer](https://dev.to/gg_news/ign-band-of-crusaders-official-gameplay-trailer-1ggp)
+- [IGN: Path of Exile 2: The Third Edict - Official Trailer | gamescom 2025](https://dev.to/gg_news/ign-path-of-exile-2-the-third-edict-official-trailer-gamescom-2025-2d2k)
+- [IGN: 1348 Ex Voto - Official Reveal Trailer | gamescom 2025](https://dev.to/gg_news/ign-1348-ex-voto-official-reveal-trailer-gamescom-2025-1pji)
+- [IGN: Lost Hellden - Official Gameplay Trailer | gamescom 2025](https://dev.to/gg_news/ign-lost-hellden-official-gameplay-trailer-gamescom-2025-4a8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
