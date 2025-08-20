@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-14: Google Compute Engine &lpar;GCE&rpar; – Live Migration &amp; Availability Policy Explained 🚀](https://dev.to/latchudevops/part-14-google-compute-engine-gce-live-migration-availability-policy-explained-a6m)
+- [30 Days of Code- Day 25 &amp; 26](https://dev.to/akshitaexe/30-days-of-code-day-25-26-e7g)
+- [How SBCs and Display Technologies Are Shaping the Future of Embedded Systems](https://dev.to/kevinzhang109/how-sbcs-and-display-technologies-are-shaping-the-future-of-embedded-systems-36mn)
+- [DevOps Explained: The Art of Not Fighting in Prod Anymore 🔥](https://dev.to/tavernetech/devops-explained-the-art-of-not-fighting-in-prod-anymore-13pj)
 - [n8n](https://dev.to/lexycodestudio/n8n-5aoc)
-- [第3章：Qlib监督学习模型](https://dev.to/henry_lin_3ac6363747f45b4/di-3zhang-qlibjian-du-xue-xi-mo-xing-38cg)
-- [Don’t Panic Yet: Breaking Down the Latest Apache Solr RCE Vulnerability](https://dev.to/sharon_42e16b8da44dabde6d/dont-panic-yet-breaking-down-the-latest-apache-solr-rce-vulnerability-51k4)
-- [Why does IoT Pose Challenges for User Data Privacy?](https://dev.to/shriyansh_iot_98734929139/why-does-iot-pose-challenges-for-user-data-privacy-3cj3)
-- [I was losing my mind switching branches with Claude Code, so I built this](https://dev.to/davidcreador/i-was-losing-my-mind-switching-branches-with-claude-code-so-i-built-this-5e5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
