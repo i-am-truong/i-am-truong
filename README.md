@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Callback 📞 vs Promise 🤞 based functions](https://dev.to/randhavevaibhav/callback-vs-promise-based-functions-4l9m)
-- [Mastering Self-Consistency Prompting](https://dev.to/abhishek_gautam-01/mastering-self-consistency-prompting-h7c)
-- [What Most Consultants Miss About AI &lpar;And What Still Actually Works&rpar;](https://dev.to/remotebranch/what-most-consultants-miss-about-ai-and-what-still-actually-works-1be7)
-- [DocWire SDK 2025.08.xx Released – GPT-5 Now Fully Integrated, New Default Model](https://dev.to/novitzmann/docwire-sdk-202508xx-released-gpt-5-now-fully-integrated-new-default-model-3l3b)
-- [🎯 SIP Responses: Talking Back](https://dev.to/sip_games/sip-responses-talking-back-5ca8)
+- [The &quot;Shitty First Draft&quot;](https://dev.to/ekachitreddy/the-shitty-first-draft-1b5b)
+- [Constant Refactoring: Refactoring my refactored Website](https://dev.to/ingosteinke/constant-refactoring-refactoring-my-refactored-website-4pf)
+- [Online category with WebSocket relay in js13kGames 2025](https://dev.to/js13kgames/online-category-with-websocket-relay-in-js13kgames-2025-24dh)
+- [Surveys can now have multiple choice and scale polls — freeform input going in soon.](https://dev.to/ben/surveys-can-now-have-multiple-choice-and-scale-polls-freeform-input-going-in-soon-4ol2)
+- [Implementing MCP on Edge Devices](https://dev.to/om_shree_0709/implementing-mcp-on-edge-devices-22hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
