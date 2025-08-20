@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BarSync](https://dev.to/louis_tatchida_87c910cd79/barsync-51jg)
-- [global vs nonlocal in Python &lpar;4&rpar;](https://dev.to/hyperkai/global-vs-nonlocal-in-python-4-495j)
-- [How to Make a Pull Request to Another Pull Request &lpar;Without Write Access&rpar;](https://dev.to/sydney205/how-to-make-a-pull-request-to-another-pull-request-without-write-access-4l0l)
-- [global vs nonlocal in Python &lpar;3&rpar;](https://dev.to/hyperkai/global-vs-nonlocal-in-python-3-3fmc)
-- [The four pillars of Object-Oriented Programming with real life examples](https://dev.to/manasi_patil_/the-four-pillars-of-object-oriented-programming-with-real-life-examples-2d4e)
+- [What Port Does Ping Use?](https://dev.to/lightningdev123/what-port-does-ping-use-2n78)
+- [Paradigm Shifters – The Geniuses of the Information Revolution Who Rewrote the World](https://dev.to/toviszsolt/paradigm-shifters-the-geniuses-of-the-information-revolution-who-rewrote-the-world-4g57)
+- [Discover the Exciting Stories of the IT Industry - 1990s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-in-the-1990s-3fbg)
+- [Discover the Exciting Stories of the IT Industry - 1980s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1980s-50g4)
+- [Discover the Exciting Stories of the IT Industry - 1970s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1970s-5hd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
