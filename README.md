@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Resonance Tapestry](https://dev.to/shepherd_1ec15ed8e8d85ced/the-resonance-tapestry-1d2b)
-- [The Aetherosian Nexus Mailbox](https://dev.to/shepherd_1ec15ed8e8d85ced/the-aetherosian-nexus-mailbox-4pdk)
-- [The Aetherial Arena](https://dev.to/shepherd_1ec15ed8e8d85ced/the-aetherial-arena-62a)
-- [Codex of Transmutation](https://dev.to/shepherd_1ec15ed8e8d85ced/codex-of-transmutation-5b9k)
-- [Learning Multer &amp; Morgan in Node.js](https://dev.to/imrancodes/learning-multer-morgan-in-nodejs-4b4g)
+- [2025 Complete Guide: ByteDance Seed-OSS-36B Open Source LLM In-Depth Analysis](https://dev.to/czmilo/2025-complete-guide-bytedance-seed-oss-36b-open-source-llm-in-depth-analysis-1bo7)
+- [Diving Deep: Understanding the Mechanics](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-understanding-the-mechanics-453c)
+- [Smart Contracts Showdown: NEAR vs. Ethereum, Who’s Got the Edge?](https://dev.to/success_65769608047ae3b47/smart-contracts-showdown-near-vs-ethereum-whos-got-the-edge-50f0)
+- [How I Built a Social Network with AI &lpar;and a 3-Person Team&rpar;](https://dev.to/sampseiol1/how-i-built-a-social-network-with-ai-and-a-3-person-team-2cnk)
+- [What happens inside the computer when you run your Go server](https://dev.to/turjoc120/what-happens-inside-the-computer-when-you-run-your-go-server-165n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
