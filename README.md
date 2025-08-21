@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Think You Know the DOM? Prove It With These 10 Exercises!](https://dev.to/codeguage/think-you-know-the-dom-prove-it-with-these-10-exercises-19gh)
-- [🎨 Code Meets Design — The Portfolio of Amelia Wattenberger](https://dev.to/ml318097/code-meets-design-the-portfolio-of-amelia-wattenberger-5843)
-- [Building an Autonomous Token Deployment Agent on Celo](https://dev.to/gaiaai/building-an-autonomous-token-deployment-agent-on-celo-30c1)
-- [What cookie consent libraries do you use? 🍪 Looking for something easy to integrate, multi-language, customizable, and GDPR-friendly. Do you prefer big tools like Cookiebot/OneTrust or lightweight open-source solutions?](https://dev.to/kunytskyi/what-cookie-consent-libraries-do-you-use-looking-for-something-easy-to-integrate-gnb)
-- [The 2025 Guide to Building Scalable React Apps](https://dev.to/bhavendra/the-2025-guide-to-building-scalable-react-apps-b5l)
+- [The 90-Minute Shopping Trip That Sparked an Innovation](https://dev.to/soomoja/the-90-minute-shopping-trip-that-sparked-an-innovation-5dc5)
+- [Why I started this BLOG](https://dev.to/prathamngundikere/why-i-started-this-blog-1eg0)
+- [HOW TO CREATE AZURE APP SERVICE BY PUBLISHING A GAME WEB APP](https://dev.to/ajayid10/how-to-create-azure-app-service-by-publishing-a-web-app-2mki)
+- [SQL Q. series 1 - Last Person to Fit in the Bus 🚌🚌](https://dev.to/randhavevaibhav/sql-q-series-1-last-person-to-fit-in-the-bus-1bcp)
+- [&#39;Doglabbing&#39; ngrok: Eyes-only photo sharing with immich and OIDC](https://dev.to/ngrok/doglabbing-ngrok-eyes-only-photo-sharing-with-immich-and-oidc-4oal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
