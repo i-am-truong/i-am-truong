@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We now allow links in quickies. Any link included will show up in the post. This is the merged PR: https://github.com/forem/forem/pull/22229](https://dev.to/ben/we-now-allow-links-in-quickies-any-link-included-will-show-up-in-the-post-this-is-the-merged-pr-50kk)
+- [Let&#39;s see if this works https://dev.to](https://dev.to/ben/lets-see-if-this-works-httpsdevto-42d9)
 - [Congrats to the World&#39;s Largest Hackathon Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-worlds-largest-hackathon-writing-challenge-winners-4fa3)
 - [How to Build a Self-Correcting AI Agent for Product Search in E-Commerce](https://dev.to/chrisywz/how-to-build-a-self-correcting-ai-agent-for-product-search-in-e-commerce-43di)
 - [My Solo GameDev Toolkit](https://dev.to/trentpolack/my-solo-gamedev-toolkit-50k3)
-- [Linus Tech Tips &lpar;LTT&rpar;: It&#39;s Finally Complete! And it only took 45 days...](https://dev.to/future_youtube/linus-tech-tips-ltt-its-finally-complete-and-it-only-took-45-days-h5n)
-- [IGN: Battlestar Galactica: Scattered Hopes Aims to Deliver an FTL-Like Roguelike](https://dev.to/gg_news/ign-battlestar-galactica-scattered-hopes-aims-to-deliver-an-ftl-like-roguelike-3dm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
