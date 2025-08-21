@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Great read!](https://dev.to/linkin/great-read-551d)
-- [COLLEGE STUDENT &amp; COURSE MANAGEMENT SYSTEM WITH ORACLE LIVE SQL](https://dev.to/nidheesh_/college-student-course-management-system-with-oracle-live-sql-237a)
-- [Serverless Deployment of a Simple Item Manager](https://dev.to/antai/serverless-deployment-of-a-simple-item-manager-bic)
-- [Mastering React: A Complete Guide for Developers](https://dev.to/suraj_kumar_fb57ae0928df2/mastering-react-a-complete-guide-for-developers-11j9)
-- [🚀Top 15 API Marketplaces Revealed—Find Out Where Developers Are Monetizing Big](https://dev.to/fallon_jimmy/top-15-api-marketplaces-revealed-find-out-where-developers-are-monetizing-big-502g)
+- [Is Hello Interview Worth It? An Honest Take for Developers Preparing for Tech Interviews](https://dev.to/stack_overflowed/is-hello-interview-worth-it-an-honest-take-for-developers-preparing-for-tech-interviews-2k4b)
+- [Example Code for CH9143](https://dev.to/danielmx/example-code-for-ch9143-13e5)
+- [edX vs Coursera: Which Platform Actually Teaches You Something &lpar;Before Your Coffee Runs Out&rpar;?](https://dev.to/stack_overflowed/edx-vs-coursera-which-platform-actually-teaches-you-something-before-your-coffee-runs-out-1hfi)
+- [Why Startups and Developers Should Consider Headless CMS](https://dev.to/hardeepsingh01/why-startups-and-developers-should-consider-headless-cms-35c3)
+- [Untitled](https://dev.to/ruben_mp_579850b325aa1222/untitled-59c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
