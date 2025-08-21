@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Should we use LLMs?](https://dev.to/adolfont/should-we-use-llms-3l4p)
+- [Relacionamentos Bidirecionais vs Unidirecionais no Spring JPA](https://dev.to/alexreis/relacionamentos-bidirecionais-vs-unidirecionais-no-spring-jpa-48b4)
+- [When Is Monitoring Enough? A Practical Guide to Database Observability](https://dev.to/critskiy/when-is-monitoring-enough-a-practical-guide-to-database-observability-3edm)
+- [I got fed up with overpriced, limited AI wrapper, so I built a free, open-source one.](https://dev.to/yash_man/i-got-fed-up-with-overpriced-limited-ai-wrapper-so-i-built-a-free-open-source-one-3llj)
 - [Testing in a Logged-In State with the Playwright MCP Browser Extension](https://dev.to/debs_obrien/testing-in-a-logged-in-state-with-the-playwright-mcp-browser-extension-4cmg)
-- [The Best React Library for Data-driven Applications - Your fave might not be on that list](https://dev.to/pmbanugo/the-best-react-library-for-data-driven-applications-your-fave-might-not-be-on-that-list-2g19)
-- [AI Comic Studio app using Google AI Studio](https://dev.to/raulster24/ai-comic-studio-35ep)
-- [Waterfall Model](https://dev.to/outsourcedigest/waterfall-model-2ip4)
-- [The Journey of a 2.0 Newbie](https://dev.to/irene_githundi_fc0fcb5d1c/the-journey-of-a-20-newbie-5263)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
