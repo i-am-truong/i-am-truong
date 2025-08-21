@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Critical SQL Injection in Kingsoft Endpoint Security V9 — Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/critical-sql-injection-in-kingsoft-endpoint-security-v9-patch-now-14do)
-- [Setting up local Supabase when migration scripts error out](https://dev.to/tomokat/setting-up-local-supabase-when-migration-scripts-error-out-4k60)
-- [The Rise of Open AI Models: Privacy, Control, and a New Era](https://dev.to/semiautomatix/the-rise-of-open-ai-models-privacy-control-and-a-new-era-26j1)
-- [WebAssembly 基础（一）](https://dev.to/yangholmes/webassembly-ji-chu--32kb)
-- [Build a Serverless Contact Form with Lambda + API Gateway + SES 📩](https://dev.to/yash_sonawane25/build-a-serverless-contact-form-with-lambda-api-gateway-ses-22on)
+- [Part-17: 🚀Google Cloud Compute Engine - Graphic Process Unit and Machine Families](https://dev.to/latchudevops/part-17-google-cloud-compute-engine-graphic-process-unit-and-machine-families-2k27)
+- [Career growth depends on the result you create and not the time you spend learning. Learn fast, take action fast. This is my go to step up to learn anything fast, and implement.](https://dev.to/jaideepparashar/career-growth-depends-on-the-result-you-create-and-not-the-time-you-spend-learning-learn-fast-2e1d)
+- [🚀 From Java to Go in 2025: 6 Steps for a Smooth Start](https://dev.to/aleksei_aleinikov/from-java-to-go-in-2025-6-steps-for-a-smooth-start-23ji)
+- [How I Use AI to Learn Faster Than Ever Before](https://dev.to/jaideepparashar/how-i-use-ai-to-learn-faster-than-ever-before-4e80)
+- [HTTPS at 80 Gbps? Yes, in Go &lpar;2025&rpar;](https://dev.to/aleksei_aleinikov/https-at-80-gbps-yes-in-go-2025-hk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
