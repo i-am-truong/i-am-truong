@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Should we use LLMs?](https://dev.to/adolfont/should-we-use-llms-3l4p)
-- [Relacionamentos Bidirecionais vs Unidirecionais no Spring JPA](https://dev.to/alexreis/relacionamentos-bidirecionais-vs-unidirecionais-no-spring-jpa-48b4)
-- [When Is Monitoring Enough? A Practical Guide to Database Observability](https://dev.to/critskiy/when-is-monitoring-enough-a-practical-guide-to-database-observability-3edm)
-- [I got fed up with overpriced, limited AI wrapper, so I built a free, open-source one.](https://dev.to/yash_man/i-got-fed-up-with-overpriced-limited-ai-wrapper-so-i-built-a-free-open-source-one-3llj)
-- [Testing in a Logged-In State with the Playwright MCP Browser Extension](https://dev.to/debs_obrien/testing-in-a-logged-in-state-with-the-playwright-mcp-browser-extension-4cmg)
+- [My ALX Vision Board: Visualizing the Next 4 Months](https://dev.to/thecodepath/my-alx-vision-board-visualizing-the-next-4-months-1ga0)
+- [Web Developer Travis McCracken on Learning to Love Simple Code](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-learning-to-love-simple-code-3fhc)
+- [How I manage my Google Chrome tabs and you should too](https://dev.to/zdunecki/how-i-manage-my-google-chrome-tabs-and-you-should-too-1cg0)
+- [AI for everyone: Who’s Leading the AI race — ChatGPT, Gemini, Claude, Copilot and More?](https://dev.to/josepico/ai-for-everyone-whos-leading-the-ai-race-chatgpt-gemini-claude-copilot-and-more-3lif)
+- [Conference Chatter: What, You Too?](https://dev.to/linkbenjamin/conference-chatter-what-you-too-523a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
