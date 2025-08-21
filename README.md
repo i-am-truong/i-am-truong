@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Website Using HTML and CSS Only – Step by Step Tutorial &lpar;With Code&rpar;](https://dev.to/alizehcodes/simple-website-using-html-and-css-only-step-by-step-tutorial-with-code-1645)
 - [Bryan Bros Golf: Youtube Golf ALT Shot Championship](https://dev.to/youtube_golf/bryan-bros-golf-youtube-golf-alt-shot-championship-4o5l)
 - [Peter Finch Golf: Can I BREAK 60 with Iona Stephen?!](https://dev.to/youtube_golf/peter-finch-golf-can-i-break-60-with-iona-stephen-1fd0)
 - [Linus Tech Tips &lpar;LTT&rpar;: The Final Form of this Case Looks AMAZING](https://dev.to/future_youtube/linus-tech-tips-ltt-the-final-form-of-this-case-looks-amazing-5gle)
 - [GameSpot: Dead As Disco Is Probably The Most Fun Game At Gamescom 2025](https://dev.to/gg_news/gamespot-dead-as-disco-is-probably-the-most-fun-game-at-gamescom-2025-40hd)
-- [GameSpot: 44 Minutes of High On Life 2 Gameplay from gamescom 2025](https://dev.to/gg_news/gamespot-44-minutes-of-high-on-life-2-gameplay-from-gamescom-2025-5e93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
