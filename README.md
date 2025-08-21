@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the Redis AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-redis-ai-challenge-winners-2f2j)
-- [🔥 Simulating Course Schedules 600x Faster with Web Workers in CourseCast](https://dev.to/somedood/simulating-course-schedules-600x-faster-with-web-workers-in-coursecast-41ma)
-- [The 90-Minute Shopping Trip That Sparked an Innovation](https://dev.to/soomoja/the-90-minute-shopping-trip-that-sparked-an-innovation-5dc5)
-- [Why I started this BLOG](https://dev.to/prathamngundikere/why-i-started-this-blog-1eg0)
-- [HOW TO CREATE AZURE APP SERVICE BY PUBLISHING A GAME WEB APP](https://dev.to/ajayid10/how-to-create-azure-app-service-by-publishing-a-web-app-2mki)
+- [Real-World Use Cases: Smart Home &amp; Industrial IoT with MCP](https://dev.to/om_shree_0709/real-world-use-cases-smart-home-industrial-iot-with-mcp-2ahm)
+- [Adam Savage&#39;s Tested: Adam Savage Finds a Hidden Leak With a Sound Beacon!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-finds-a-hidden-leak-with-a-sound-beacon-17bk)
+- [KEXP: Khu éex&#39; - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-full-performance-live-on-kexp-h6e)
+- [Noisey: Where British Music Begins: Inside the Community That Shaped Ezra Collective’s Femi Koleoso](https://dev.to/music_youtube/noisey-where-british-music-begins-inside-the-community-that-shaped-ezra-collectives-femi-koleoso-1i4h)
+- [Adobe Creative Cloud: How to Turn Green Screen Footage into a Professional Product Ad](https://dev.to/design_youtube/adobe-creative-cloud-how-to-turn-green-screen-footage-into-a-professional-product-ad-2950)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
