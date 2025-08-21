@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best AI Tools for Coding in 2025: A Developer’s Perspective](https://dev.to/lightningdev123/best-ai-tools-for-coding-in-2025-a-developers-perspective-3h6d)
+- [💻What is HarmonyOS Next? How is it Different from Android?](https://dev.to/harmonyos/what-is-harmonyos-next-how-is-it-different-from-android-12g)
+- [The Hidden Costs of AI APIs &lpar;and How to Avoid Them&rpar;](https://dev.to/anyapi/the-hidden-costs-of-ai-apis-and-how-to-avoid-them-2e2k)
+- [WTF is GPT-4 Coding Assistants?](https://dev.to/dailybugle33/wtf-is-gpt-4-coding-assistants-2jal)
 - [Executive Leadership Assessment – Building Stronger Leaders for the Future](https://dev.to/kognozconsulting/executive-leadership-assessment-building-stronger-leaders-for-the-future-1g4h)
-- [How to connect multiple sensors to one Arduino Uno serial port?](https://dev.to/carolineee/how-to-connect-multiple-sensors-to-one-arduino-uno-serial-port-51k8)
-- [Java program](https://dev.to/udayamanivannan/java-program-9kb)
-- [Complete Guide: Fish Shell Adding Custom Functions](https://dev.to/mcheremnov/complete-guide-fish-shell-adding-custom-functions-5bob)
-- [What Gen Z Expects from Tech Companies in 2025](https://dev.to/blogger_shree_844e6eb4b36/what-gen-z-expects-from-tech-companies-in-2025-2f9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
