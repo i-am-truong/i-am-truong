@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing in a Logged-In State with the Playwright MCP Browser Extension](https://dev.to/debs_obrien/testing-in-a-logged-in-state-with-the-playwright-mcp-browser-extension-4cmg)
 - [The Best React Library for Data-driven Applications - Your fave might not be on that list](https://dev.to/pmbanugo/the-best-react-library-for-data-driven-applications-your-fave-might-not-be-on-that-list-2g19)
 - [AI Comic Studio app using Google AI Studio](https://dev.to/raulster24/ai-comic-studio-35ep)
 - [Waterfall Model](https://dev.to/outsourcedigest/waterfall-model-2ip4)
 - [The Journey of a 2.0 Newbie](https://dev.to/irene_githundi_fc0fcb5d1c/the-journey-of-a-20-newbie-5263)
-- [&quot;Data Analytics as the Catalyst for Business Evolution&quot;](https://dev.to/ashwin_pps_365864ef843ec2/data-analytics-as-the-catalyst-for-business-evolution-825)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
