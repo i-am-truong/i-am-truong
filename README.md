@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing HTML for Performance and Security](https://dev.to/sharique_siddiqui_8242dad/optimizing-html-for-performance-and-security-i3d)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-1c77)
 - [GameSpot: Zero Parades: First Impressions &lpar;The Disco Elysium Sequel&rpar;](https://dev.to/gg_news/gamespot-zero-parades-first-impressions-the-disco-elysium-sequel-4p32)
 - [Part-17: 🚀Google Cloud Compute Engine - Graphic Process Unit and Machine Families](https://dev.to/latchudevops/part-17-google-cloud-compute-engine-graphic-process-unit-and-machine-families-2k27)
 - [Career growth depends on the result you create and not the time you spend learning. Learn fast, take action fast. This is my go to step up to learn anything fast, and implement.](https://dev.to/jaideepparashar/career-growth-depends-on-the-result-you-create-and-not-the-time-you-spend-learning-learn-fast-2e1d)
-- [🚀 From Java to Go in 2025: 6 Steps for a Smooth Start](https://dev.to/aleksei_aleinikov/from-java-to-go-in-2025-6-steps-for-a-smooth-start-23ji)
-- [How I Use AI to Learn Faster Than Ever Before](https://dev.to/jaideepparashar/how-i-use-ai-to-learn-faster-than-ever-before-4e80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
