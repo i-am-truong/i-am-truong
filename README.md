@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Mobile App Test Automation? A Complete Beginner’s Guide](https://dev.to/maria_bueno/what-is-mobile-app-test-automation-a-complete-beginners-guide-4ei2)
+- [🛡️ Anti Regression Agent &lpar;Replit-Ready&rpar;](https://dev.to/with_attitude/anti-regression-agent-replit-ready-4jln)
 - [🕹️ My First Steps in OverTheWire Bandit &lpar;Levels 0–5&rpar; 🎮](https://dev.to/sriram_bharath/my-first-steps-in-overthewire-bandit-levels-0-5-44gn)
 - [several ways to implement download a file use js](https://dev.to/huaian/several-ways-to-implement-download-a-file-use-js-3nmn)
 - [🚀 My npm package just hit 400 downloads in 3 days!](https://dev.to/asad_rafi1221/my-npm-package-just-hit-400-downloads-in-3-days-47pj)
-- [Automatic Service Failback to Preferred Instance in Oracle RAC 19c](https://dev.to/vahidusefzadeh/automatic-service-failback-to-preferred-instance-in-oracle-rac-19c-42nl)
-- [How to Create a Living Room using Basic Shapes in 3D CAD Software &lpar;Part 2&rpar;](https://dev.to/julia970/how-to-create-a-living-room-using-basic-shapes-in-3d-cad-software-part-2-31h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
