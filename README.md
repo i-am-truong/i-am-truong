@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Nano Banana Unpeeled in Google&#39;s Next-Gen AI Image Editor?](https://dev.to/jovin_george_733dcfc16291/what-is-nano-banana-unpeeled-in-googles-next-gen-ai-image-editor-2cga)
 - [A Practical Caching Playbook](https://dev.to/puritanic/a-practical-caching-playbook-56jd)
+- [My First Blog: Coding, Chaos &amp; Coffee](https://dev.to/nakuldevmv/my-first-blog-coding-chaos-coffee-3cmg)
 - [Fixing Spatie&#39;s Laravel ResponseCache to Respect Accept-Language](https://dev.to/makowskid/fixing-spaties-laravel-responsecache-to-respect-accept-language-17i6)
 - [How to use Lottie JSON Animations in HarmonyOS with ArkTS?](https://dev.to/harmonyos/how-to-use-lottie-json-animations-in-harmonyos-with-arkts-8c4)
-- [Don’t Just Build AI. Own It. 🚀](https://dev.to/umang_suthar_9bad6f345a8a/dont-just-build-ai-own-it-15nc)
-- [13 Most Common HTTP Status Codes You Should Know As A Developer](https://dev.to/devshefali/13-most-common-http-status-codes-you-should-know-as-a-developer-3def)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
