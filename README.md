@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Data Analytics as the Catalyst for Business Evolution&quot;](https://dev.to/ashwin_pps_365864ef843ec2/data-analytics-as-the-catalyst-for-business-evolution-825)
 - [LeetCode #28. Find the Index of the First Occurrence in a String](https://dev.to/desiato/leetcode-28-find-the-index-of-the-first-occurrence-in-a-string-2iji)
 - [Enhancing Laravel Code Quality with Larastan](https://dev.to/addwebsolutionpvtltd/enhancing-laravel-code-quality-with-larastan-110a)
-- [Gating entrances with Stripe and NFC passes](https://dev.to/joshnuss/gating-entrances-with-stripe-and-nfc-passes-43na)
-- [JavaScript Execution Context Made Simple](https://dev.to/im-shafiqurehman/javascript-execution-context-made-simple-5gk0)
-- [Invisible work separates friction from flow.](https://dev.to/lucianghinda/invisible-work-separates-friction-from-flow-1g9g)
+- [# Why Data Cleaning is 80% of Data Science](https://dev.to/bocha/-why-data-cleaning-is-80-of-data-science-3ma)
+- [Customer Relationship Management &lpar;CRM&rpar; Software and Examples for Startup Growth](https://dev.to/betterhq/customer-relationship-management-crm-software-and-examples-for-startup-growth-12c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
