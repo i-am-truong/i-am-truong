@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jump start your Apps Script project with a starter template](https://dev.to/googleworkspace/jump-start-your-apps-script-project-with-a-starter-template-35mb)
-- [What is Nano Banana Unpeeled in Google&#39;s Next-Gen AI Image Editor?](https://dev.to/jovin_george_733dcfc16291/what-is-nano-banana-unpeeled-in-googles-next-gen-ai-image-editor-2cga)
-- [A Practical Caching Playbook](https://dev.to/puritanic/a-practical-caching-playbook-56jd)
-- [My First Blog: Coding, Chaos &amp; Coffee](https://dev.to/nakuldevmv/my-first-blog-coding-chaos-coffee-3cmg)
-- [Fixing Spatie&#39;s Laravel ResponseCache to Respect Accept-Language](https://dev.to/makowskid/fixing-spaties-laravel-responsecache-to-respect-accept-language-17i6)
+- [✨️ DAY 3 OF 100 ✨️](https://dev.to/lyop_achayi/day-3-of-100-2pe6)
+- [Meta E4 Software Engineer Interview Experience: I was rejected!](https://dev.to/_1c38abf3f8630eeac6180/meta-e4-software-engineer-interview-experience-i-was-rejected-45bm)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3p92)
+- [GameSpot: Zero Parades &lpar;Project C4&rpar; Preview: ZA/UM’s Latest Is A Spy Fantasy](https://dev.to/gg_news/gamespot-zero-parades-project-c4-preview-zaums-latest-is-a-spy-fantasy-36ia)
+- [GameSpot: Kirby Air Riders City Trial Meta Knight Gameplay &lpar;Off Screen Filmed Footage&rpar;](https://dev.to/gg_news/gamespot-kirby-air-riders-city-trial-meta-knight-gameplay-off-screen-filmed-footage-218f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
