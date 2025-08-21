@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My ALX Vision Board: Visualizing the Next 4 Months](https://dev.to/thecodepath/my-alx-vision-board-visualizing-the-next-4-months-1ga0)
-- [Web Developer Travis McCracken on Learning to Love Simple Code](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-learning-to-love-simple-code-3fhc)
-- [How I manage my Google Chrome tabs and you should too](https://dev.to/zdunecki/how-i-manage-my-google-chrome-tabs-and-you-should-too-1cg0)
-- [AI for everyone: Who’s Leading the AI race — ChatGPT, Gemini, Claude, Copilot and More?](https://dev.to/josepico/ai-for-everyone-whos-leading-the-ai-race-chatgpt-gemini-claude-copilot-and-more-3lif)
-- [Conference Chatter: What, You Too?](https://dev.to/linkbenjamin/conference-chatter-what-you-too-523a)
+- [AI or Obsolete: Why Developers Need AI in Their Workflow](https://dev.to/devbyrayray/ai-or-obsolete-why-developers-need-ai-in-their-workflow-4gh4)
+- [Git](https://dev.to/mukesh_singh/git-462h)
+- [Is Qwen-Image-Edit the 2025 Breakthrough Image-Editing AI](https://dev.to/_37bbf0c253c0b3edec531e/is-qwen-image-edit-the-2025-breakthrough-image-editing-ai-2fcn)
+- [React MVVM Architecture with TanStack Router: Data Layer](https://dev.to/techwood/react-mvvm-architecture-with-tanstack-router-data-layer-3o0i)
+- [Why LLM predictions are dangerous for Finance?](https://dev.to/pvgomes/why-llm-predictions-are-dangerous-for-finance-j2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
