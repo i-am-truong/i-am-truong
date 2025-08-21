@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode - 212. Word Search II](https://dev.to/rakeshreddy512/leetcode-212-word-search-ii-155i)
+- [Smart Rate Documentation](https://dev.to/rafael2022prog/smart-rate-documentation-k9o)
 - [Optimize Your Database with Vertical Partitioning and Caching day 34 of system design](https://dev.to/vincenttommi/optimize-your-database-with-vertical-partitioning-and-caching-day-35-of-system-design-3dih)
 - [Defensive Programming: The Hidden Dangers of Spread Operators in Request Payloads](https://dev.to/marco_cheung_/defensive-programming-the-hidden-dangers-of-spread-operators-in-request-payloads-2mda)
 - [Linutil: Your New Best Friend for Effortless Linux System Management](https://dev.to/githubopensource/linutil-your-new-best-friend-for-effortless-linux-system-management-b6o)
-- [Composable Architecture in Mobile Apps: A Complete Guide for iOS and Android Teams](https://dev.to/iprogrammer_solutionspvt/composable-architecture-in-mobile-apps-a-complete-guide-for-ios-and-android-teams-2g8j)
-- [4 Easiest Ways to Set Up Email for Your App &lpar;With Real Examples&rpar;](https://dev.to/kedster/4-easiest-ways-to-set-up-email-for-your-app-with-real-examples-3fne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
