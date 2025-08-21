@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is Mobile App Test Automation? A Complete Beginner’s Guide](https://dev.to/maria_bueno/what-is-mobile-app-test-automation-a-complete-beginners-guide-4ei2)
-- [🛡️ Anti Regression Agent &lpar;Replit-Ready&rpar;](https://dev.to/with_attitude/anti-regression-agent-replit-ready-4jln)
-- [🕹️ My First Steps in OverTheWire Bandit &lpar;Levels 0–5&rpar; 🎮](https://dev.to/sriram_bharath/my-first-steps-in-overthewire-bandit-levels-0-5-44gn)
-- [several ways to implement download a file use js](https://dev.to/huaian/several-ways-to-implement-download-a-file-use-js-3nmn)
-- [🚀 My npm package just hit 400 downloads in 3 days!](https://dev.to/asad_rafi1221/my-npm-package-just-hit-400-downloads-in-3-days-47pj)
+- [SQL Queries : College Student &amp; Course Management System](https://dev.to/rohivarshini_saravanan_29/sql-queries-college-student-course-management-system-9f)
+- [Why Shipping Vibe-Coded Prototypes to Production Breaks Products](https://dev.to/arbisoftcompany/why-shipping-vibe-coded-prototypes-to-production-breaks-products-6hk)
+- [GameSpot: Keeper is Double Fine Getting Weird with Microsoft&#39;s Money | First Impressions](https://dev.to/gg_news/gamespot-keeper-is-double-fine-getting-weird-with-microsofts-money-first-impressions-26lp)
+- [Building Fun with Data: A Technical Look at RicePurityTest.life](https://dev.to/rickalbertnohan/building-fun-with-data-a-technical-look-at-ricepuritytestlife-4ihf)
+- [IGN: Borderlands 4 Gameplay &lpar;RTX 5090, 4K 60FPS&rpar;](https://dev.to/gg_news/ign-borderlands-4-gameplay-rtx-5090-4k-60fps-2m7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
