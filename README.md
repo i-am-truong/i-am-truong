@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jump start your Apps Script project with a starter template](https://dev.to/googleworkspace/jump-start-your-apps-script-project-with-a-starter-template-35mb)
 - [What is Nano Banana Unpeeled in Google&#39;s Next-Gen AI Image Editor?](https://dev.to/jovin_george_733dcfc16291/what-is-nano-banana-unpeeled-in-googles-next-gen-ai-image-editor-2cga)
 - [A Practical Caching Playbook](https://dev.to/puritanic/a-practical-caching-playbook-56jd)
 - [My First Blog: Coding, Chaos &amp; Coffee](https://dev.to/nakuldevmv/my-first-blog-coding-chaos-coffee-3cmg)
 - [Fixing Spatie&#39;s Laravel ResponseCache to Respect Accept-Language](https://dev.to/makowskid/fixing-spaties-laravel-responsecache-to-respect-accept-language-17i6)
-- [How to use Lottie JSON Animations in HarmonyOS with ArkTS?](https://dev.to/harmonyos/how-to-use-lottie-json-animations-in-harmonyos-with-arkts-8c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
