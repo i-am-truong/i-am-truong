@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Think You Know the DOM? Prove It With These 10 Exercises!](https://dev.to/codeguage/think-you-know-the-dom-prove-it-with-these-10-exercises-19gh)
+- [🎨 Code Meets Design — The Portfolio of Amelia Wattenberger](https://dev.to/ml318097/code-meets-design-the-portfolio-of-amelia-wattenberger-5843)
+- [Building an Autonomous Token Deployment Agent on Celo](https://dev.to/gaiaai/building-an-autonomous-token-deployment-agent-on-celo-30c1)
 - [What cookie consent libraries do you use? 🍪 Looking for something easy to integrate, multi-language, customizable, and GDPR-friendly. Do you prefer big tools like Cookiebot/OneTrust or lightweight open-source solutions?](https://dev.to/kunytskyi/what-cookie-consent-libraries-do-you-use-looking-for-something-easy-to-integrate-gnb)
 - [The 2025 Guide to Building Scalable React Apps](https://dev.to/bhavendra/the-2025-guide-to-building-scalable-react-apps-b5l)
-- [[Boost]](https://dev.to/ticoraph/-12f1)
-- [Gas Cost &amp; Estimation](https://dev.to/loading_blocks/gas-cost-estimation-4km1)
-- [Este artículo explica las diferentes opciones de integración de Active Directory con AWS y el uso de Federation mediante una analogía clara: el acceso a edificios y guardias de seguridad. Con este enfoque narrativo, el contenido resulta más accesible para](https://dev.to/dcastrocordero22/este-articulo-explica-las-diferentes-opciones-de-integracion-de-active-directory-con-aws-y-el-uso-228)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
