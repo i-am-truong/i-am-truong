@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Solo GameDev Toolkit](https://dev.to/trentpolack/my-solo-gamedev-toolkit-50k3)
 - [Linus Tech Tips &lpar;LTT&rpar;: It&#39;s Finally Complete! And it only took 45 days...](https://dev.to/future_youtube/linus-tech-tips-ltt-its-finally-complete-and-it-only-took-45-days-h5n)
 - [IGN: Battlestar Galactica: Scattered Hopes Aims to Deliver an FTL-Like Roguelike](https://dev.to/gg_news/ign-battlestar-galactica-scattered-hopes-aims-to-deliver-an-ftl-like-roguelike-3dm1)
 - [IGN: World of Warcraft is Finally Getting Player Housing, Here&#39;s How it Works | gamescom 2025](https://dev.to/gg_news/ign-world-of-warcraft-is-finally-getting-player-housing-heres-how-it-works-gamescom-2025-26g3)
 - [IGN: Warhammer 40,000 Mechanicus 2 - Official Gameplay Overview Trailer](https://dev.to/gg_news/ign-warhammer-40000-mechanicus-2-official-gameplay-overview-trailer-2e0l)
-- [IGN: Directive 8020 - Official 13 Minutes of Prologue Gameplay | gamescom 2025](https://dev.to/gg_news/ign-directive-8020-official-13-minutes-of-prologue-gameplay-gamescom-2025-hoj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
