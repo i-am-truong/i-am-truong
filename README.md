@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode - 212. Word Search II](https://dev.to/rakeshreddy512/leetcode-212-word-search-ii-155i)
-- [Smart Rate Documentation](https://dev.to/rafael2022prog/smart-rate-documentation-k9o)
-- [Optimize Your Database with Vertical Partitioning and Caching day 34 of system design](https://dev.to/vincenttommi/optimize-your-database-with-vertical-partitioning-and-caching-day-35-of-system-design-3dih)
-- [Defensive Programming: The Hidden Dangers of Spread Operators in Request Payloads](https://dev.to/marco_cheung_/defensive-programming-the-hidden-dangers-of-spread-operators-in-request-payloads-2mda)
-- [Linutil: Your New Best Friend for Effortless Linux System Management](https://dev.to/githubopensource/linutil-your-new-best-friend-for-effortless-linux-system-management-b6o)
+- [IGN: Carimara - Official Release Date Trailer | gamescom 2025](https://dev.to/gg_news/ign-carimara-official-release-date-trailer-gamescom-2025-2fda)
+- [IGN: gamescom studio Day 2 Livestream 2025: The Outer Worlds 2, Replaced, and More](https://dev.to/gg_news/ign-gamescom-studio-day-2-livestream-2025-the-outer-worlds-2-replaced-and-more-1g21)
+- [IGN: Xbox at gamescom Day 2](https://dev.to/gg_news/ign-xbox-at-gamescom-day-2-26k9)
+- [React MVVM Architecture with TanStack Router: Model Layer](https://dev.to/techwood/react-mvvm-architecture-with-tanstack-router-model-layer-2f1d)
+- [Make ASCII Art Anywhere_ Use Python’s `pyfiglet` in Ruby, .NET Core, and Node.js with Javonet](https://dev.to/javonet/make-ascii-art-anywhere-use-pythons-pyfiglet-in-ruby-net-core-and-nodejs-with-javonet-3e3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
