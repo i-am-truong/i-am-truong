@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌌 Building A Realistic 3D Solar System Simulator with Three.js](https://dev.to/miojoester/building-a-realistic-3d-solar-system-simulator-with-threejs-1d9h)
-- [The Debugging Trick That Saves Me Every Sprint](https://dev.to/leena_malhotra_355340d89c/the-debugging-trick-that-saves-me-every-sprint-341h)
-- [Low-Level Design: Polling System : Basic](https://dev.to/zeeshanali0704/low-level-design-polling-system-basic-2kl5)
-- [College Student &amp; Course Management System](https://dev.to/srivishal_b2975898351fa2b/college-student-course-management-system-3alo)
-- [Agile Beyond Rituals: Why Facilitation Ownership Defines Outcomes](https://dev.to/sandeep_sharma_2c6860616f/agile-beyond-rituals-why-facilitation-ownership-defines-outcomes-1m8m)
+- [Great read!](https://dev.to/linkin/great-read-551d)
+- [COLLEGE STUDENT &amp; COURSE MANAGEMENT SYSTEM WITH ORACLE LIVE SQL](https://dev.to/nidheesh_/college-student-course-management-system-with-oracle-live-sql-237a)
+- [Serverless Deployment of a Simple Item Manager](https://dev.to/antai/serverless-deployment-of-a-simple-item-manager-bic)
+- [Mastering React: A Complete Guide for Developers](https://dev.to/suraj_kumar_fb57ae0928df2/mastering-react-a-complete-guide-for-developers-11j9)
+- [🚀Top 15 API Marketplaces Revealed—Find Out Where Developers Are Monetizing Big](https://dev.to/fallon_jimmy/top-15-api-marketplaces-revealed-find-out-where-developers-are-monetizing-big-502g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
