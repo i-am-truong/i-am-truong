@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ghost 6 IS Really Something Else!](https://dev.to/alifar/ghost-6-is-really-something-else-46jj)
+- [Using LaunchDarkly&#39;s AI Configs to review database changes](https://dev.to/launchdarkly/using-launchdarklys-ai-configs-to-review-database-changes-1cfj)
 - [Passwords, Resilience, And Being Human: Working Together For A Brighter Future At BSides Las Vegas 2025](https://dev.to/gitguardian/passwords-resilience-and-being-human-working-together-for-a-brighter-future-at-bsides-las-vegas-2lii)
 - [Implement AES-256 Encryption and Decryption in C#: A Beginner-Friendly Guide](https://dev.to/auyeungdavid_2847435260/implement-aes-256-encryption-and-decryption-in-c-a-beginner-friendly-guide-4a6h)
 - [Technical Sales &amp; Presales 101: The very basics](https://dev.to/lukasniessen/technical-sales-presales-101-the-very-basics-49nh)
-- [Simple Website Using HTML and CSS Only – Step by Step Tutorial &lpar;With Code&rpar;](https://dev.to/alizehcodes/simple-website-using-html-and-css-only-step-by-step-tutorial-with-code-1645)
-- [Bryan Bros Golf: Youtube Golf ALT Shot Championship](https://dev.to/youtube_golf/bryan-bros-golf-youtube-golf-alt-shot-championship-4o5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
