@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Carimara - Official Release Date Trailer | gamescom 2025](https://dev.to/gg_news/ign-carimara-official-release-date-trailer-gamescom-2025-2fda)
-- [IGN: gamescom studio Day 2 Livestream 2025: The Outer Worlds 2, Replaced, and More](https://dev.to/gg_news/ign-gamescom-studio-day-2-livestream-2025-the-outer-worlds-2-replaced-and-more-1g21)
-- [IGN: Xbox at gamescom Day 2](https://dev.to/gg_news/ign-xbox-at-gamescom-day-2-26k9)
-- [React MVVM Architecture with TanStack Router: Model Layer](https://dev.to/techwood/react-mvvm-architecture-with-tanstack-router-model-layer-2f1d)
-- [Make ASCII Art Anywhere_ Use Python’s `pyfiglet` in Ruby, .NET Core, and Node.js with Javonet](https://dev.to/javonet/make-ascii-art-anywhere-use-pythons-pyfiglet-in-ruby-net-core-and-nodejs-with-javonet-3e3f)
+- [Day 72: The Daily Struggle: Consistency, Class, and Code](https://dev.to/casperday11/day-72-the-daily-struggle-consistency-class-and-code-1b8)
+- [Build a Future-Proof Career with SkillSprintTech’s Generative AI Courses](https://dev.to/skillsprinttech/build-a-future-proof-career-with-skillsprinttechs-generative-ai-courses-5eg6)
+- [Paracetamol.ts💊| #41: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-41-explica-este-codigo-typescript-32do)
+- [Solidity Constructor](https://dev.to/loading_blocks/solidity-constructor-1kk5)
+- [Remote Desktop Monitoring: Securing Remote Access in the Digital Workplace](https://dev.to/kapusto/remote-desktop-monitoring-securing-remote-access-in-the-digital-workplace-1d5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
