@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What cookie consent libraries do you use? 🍪 Looking for something easy to integrate, multi-language, customizable, and GDPR-friendly. Do you prefer big tools like Cookiebot/OneTrust or lightweight open-source solutions?](https://dev.to/kunytskyi/what-cookie-consent-libraries-do-you-use-looking-for-something-easy-to-integrate-gnb)
+- [The 2025 Guide to Building Scalable React Apps](https://dev.to/bhavendra/the-2025-guide-to-building-scalable-react-apps-b5l)
+- [[Boost]](https://dev.to/ticoraph/-12f1)
+- [Gas Cost &amp; Estimation](https://dev.to/loading_blocks/gas-cost-estimation-4km1)
 - [Este artículo explica las diferentes opciones de integración de Active Directory con AWS y el uso de Federation mediante una analogía clara: el acceso a edificios y guardias de seguridad. Con este enfoque narrativo, el contenido resulta más accesible para](https://dev.to/dcastrocordero22/este-articulo-explica-las-diferentes-opciones-de-integracion-de-active-directory-con-aws-y-el-uso-228)
-- [College Student &amp; Course Management System](https://dev.to/natpuenean_va_27a0f631f48/college-student-course-management-system-4jg8)
-- [Day 72: The Daily Struggle: Consistency, Class, and Code](https://dev.to/casperday11/day-72-the-daily-struggle-consistency-class-and-code-1b8)
-- [Build a Future-Proof Career with SkillSprintTech’s Generative AI Courses](https://dev.to/skillsprinttech/build-a-future-proof-career-with-skillsprinttechs-generative-ai-courses-5eg6)
-- [Paracetamol.ts💊| #41: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-41-explica-este-codigo-typescript-32do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
