@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Tools for Coding in 2025: A Developer’s Perspective](https://dev.to/lightningdev123/best-ai-tools-for-coding-in-2025-a-developers-perspective-3h6d)
-- [💻What is HarmonyOS Next? How is it Different from Android?](https://dev.to/harmonyos/what-is-harmonyos-next-how-is-it-different-from-android-12g)
-- [The Hidden Costs of AI APIs &lpar;and How to Avoid Them&rpar;](https://dev.to/anyapi/the-hidden-costs-of-ai-apis-and-how-to-avoid-them-2e2k)
-- [WTF is GPT-4 Coding Assistants?](https://dev.to/dailybugle33/wtf-is-gpt-4-coding-assistants-2jal)
-- [Executive Leadership Assessment – Building Stronger Leaders for the Future](https://dev.to/kognozconsulting/executive-leadership-assessment-building-stronger-leaders-for-the-future-1g4h)
+- [A Practical Caching Playbook](https://dev.to/puritanic/a-practical-caching-playbook-56jd)
+- [Fixing Spatie&#39;s Laravel ResponseCache to Respect Accept-Language](https://dev.to/makowskid/fixing-spaties-laravel-responsecache-to-respect-accept-language-17i6)
+- [How to use Lottie JSON Animations in HarmonyOS with ArkTS?](https://dev.to/harmonyos/how-to-use-lottie-json-animations-in-harmonyos-with-arkts-8c4)
+- [Don’t Just Build AI. Own It. 🚀](https://dev.to/umang_suthar_9bad6f345a8a/dont-just-build-ai-own-it-15nc)
+- [13 Most Common HTTP Status Codes You Should Know As A Developer](https://dev.to/devshefali/13-most-common-http-status-codes-you-should-know-as-a-developer-3def)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
