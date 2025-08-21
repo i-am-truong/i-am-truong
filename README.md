@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQL Queries : College Student &amp; Course Management System](https://dev.to/rohivarshini_saravanan_29/sql-queries-college-student-course-management-system-9f)
-- [Why Shipping Vibe-Coded Prototypes to Production Breaks Products](https://dev.to/arbisoftcompany/why-shipping-vibe-coded-prototypes-to-production-breaks-products-6hk)
-- [GameSpot: Keeper is Double Fine Getting Weird with Microsoft&#39;s Money | First Impressions](https://dev.to/gg_news/gamespot-keeper-is-double-fine-getting-weird-with-microsofts-money-first-impressions-26lp)
-- [Building Fun with Data: A Technical Look at RicePurityTest.life](https://dev.to/rickalbertnohan/building-fun-with-data-a-technical-look-at-ricepuritytestlife-4ihf)
-- [IGN: Borderlands 4 Gameplay &lpar;RTX 5090, 4K 60FPS&rpar;](https://dev.to/gg_news/ign-borderlands-4-gameplay-rtx-5090-4k-60fps-2m7b)
+- [Executive Leadership Assessment – Building Stronger Leaders for the Future](https://dev.to/kognozconsulting/executive-leadership-assessment-building-stronger-leaders-for-the-future-1g4h)
+- [How to connect multiple sensors to one Arduino Uno serial port?](https://dev.to/carolineee/how-to-connect-multiple-sensors-to-one-arduino-uno-serial-port-51k8)
+- [Java program](https://dev.to/udayamanivannan/java-program-9kb)
+- [Complete Guide: Fish Shell Adding Custom Functions](https://dev.to/mcheremnov/complete-guide-fish-shell-adding-custom-functions-5bob)
+- [What Gen Z Expects from Tech Companies in 2025](https://dev.to/blogger_shree_844e6eb4b36/what-gen-z-expects-from-tech-companies-in-2025-2f9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
