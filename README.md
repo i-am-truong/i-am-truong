@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Waterfall Model](https://dev.to/outsourcedigest/waterfall-model-2ip4)
+- [The Journey of a 2.0 Newbie](https://dev.to/irene_githundi_fc0fcb5d1c/the-journey-of-a-20-newbie-5263)
 - [&quot;Data Analytics as the Catalyst for Business Evolution&quot;](https://dev.to/ashwin_pps_365864ef843ec2/data-analytics-as-the-catalyst-for-business-evolution-825)
 - [LeetCode #28. Find the Index of the First Occurrence in a String](https://dev.to/desiato/leetcode-28-find-the-index-of-the-first-occurrence-in-a-string-2iji)
-- [Enhancing Laravel Code Quality with Larastan](https://dev.to/addwebsolutionpvtltd/enhancing-laravel-code-quality-with-larastan-110a)
-- [# Why Data Cleaning is 80% of Data Science](https://dev.to/bocha/-why-data-cleaning-is-80-of-data-science-3ma)
-- [Customer Relationship Management &lpar;CRM&rpar; Software and Examples for Startup Growth](https://dev.to/betterhq/customer-relationship-management-crm-software-and-examples-for-startup-growth-12c)
+- [El punto de partida de DDD: Hablar el idioma del negocio](https://dev.to/boceto1/el-punto-de-partida-de-ddd-hablar-el-idioma-del-negocio-36m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
