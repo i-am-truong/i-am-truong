@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✨️ DAY 3 OF 100 ✨️](https://dev.to/lyop_achayi/day-3-of-100-2pe6)
-- [Meta E4 Software Engineer Interview Experience: I was rejected!](https://dev.to/_1c38abf3f8630eeac6180/meta-e4-software-engineer-interview-experience-i-was-rejected-45bm)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3p92)
-- [GameSpot: Zero Parades &lpar;Project C4&rpar; Preview: ZA/UM’s Latest Is A Spy Fantasy](https://dev.to/gg_news/gamespot-zero-parades-project-c4-preview-zaums-latest-is-a-spy-fantasy-36ia)
-- [GameSpot: Kirby Air Riders City Trial Meta Knight Gameplay &lpar;Off Screen Filmed Footage&rpar;](https://dev.to/gg_news/gamespot-kirby-air-riders-city-trial-meta-knight-gameplay-off-screen-filmed-footage-218f)
+- [LeetCode #28. Find the Index of the First Occurrence in a String](https://dev.to/desiato/leetcode-28-find-the-index-of-the-first-occurrence-in-a-string-2iji)
+- [Enhancing Laravel Code Quality with Larastan](https://dev.to/addwebsolutionpvtltd/enhancing-laravel-code-quality-with-larastan-110a)
+- [Gating entrances with Stripe and NFC passes](https://dev.to/joshnuss/gating-entrances-with-stripe-and-nfc-passes-43na)
+- [JavaScript Execution Context Made Simple](https://dev.to/im-shafiqurehman/javascript-execution-context-made-simple-5gk0)
+- [Invisible work separates friction from flow.](https://dev.to/lucianghinda/invisible-work-separates-friction-from-flow-1g9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
