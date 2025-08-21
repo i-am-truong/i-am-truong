@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Este artículo explica las diferentes opciones de integración de Active Directory con AWS y el uso de Federation mediante una analogía clara: el acceso a edificios y guardias de seguridad. Con este enfoque narrativo, el contenido resulta más accesible para](https://dev.to/dcastrocordero22/este-articulo-explica-las-diferentes-opciones-de-integracion-de-active-directory-con-aws-y-el-uso-228)
+- [College Student &amp; Course Management System](https://dev.to/natpuenean_va_27a0f631f48/college-student-course-management-system-4jg8)
 - [Day 72: The Daily Struggle: Consistency, Class, and Code](https://dev.to/casperday11/day-72-the-daily-struggle-consistency-class-and-code-1b8)
 - [Build a Future-Proof Career with SkillSprintTech’s Generative AI Courses](https://dev.to/skillsprinttech/build-a-future-proof-career-with-skillsprinttechs-generative-ai-courses-5eg6)
 - [Paracetamol.ts💊| #41: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-41-explica-este-codigo-typescript-32do)
-- [Solidity Constructor](https://dev.to/loading_blocks/solidity-constructor-1kk5)
-- [Remote Desktop Monitoring: Securing Remote Access in the Digital Workplace](https://dev.to/kapusto/remote-desktop-monitoring-securing-remote-access-in-the-digital-workplace-1d5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
