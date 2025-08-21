@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [4 Best Open Source No-Code/Low-Code Platforms to Build Ticketing System](https://dev.to/nocobase/4-best-open-source-no-codelow-code-platforms-to-build-ticketing-system-g3o)
-- [I&#39;ve been dancing around this idea for a long time now. Regardless of my title, how the industry is shaping, how tech evolves, the core of why I love this industry is because it&#39;s really all about learning...and I&#39;m a learning nerd 🤓](https://dev.to/drguthals/ive-been-dancing-around-this-idea-for-a-long-time-now-regardless-of-my-title-how-the-industry-is-36h6)
-- [Best Alternative for v0, Lovable, Cursor — Fully Local &lpar;Dyad.sh&rpar;](https://dev.to/jayasurya_mailsamy/best-alternative-for-v0-lovable-cursor-fully-local-dyadsh-39f1)
-- [The Mythical Vibe-Month: Vibe Coding, Context Engineering, and the Future of AI Dev Tools](https://dev.to/drguthals/the-mythical-vibe-month-vibe-coding-context-engineering-and-the-future-of-ai-dev-tools-m5i)
-- [How I Built Memescan with AI Agents &lpar;and Won My First Hackathon&rpar;](https://dev.to/rubenmarcus/how-i-built-memescan-with-ai-agents-and-won-my-first-hackathon-3imf)
+- [Critical SQL Injection in Kingsoft Endpoint Security V9 — Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/critical-sql-injection-in-kingsoft-endpoint-security-v9-patch-now-14do)
+- [Setting up local Supabase when migration scripts error out](https://dev.to/tomokat/setting-up-local-supabase-when-migration-scripts-error-out-4k60)
+- [The Rise of Open AI Models: Privacy, Control, and a New Era](https://dev.to/semiautomatix/the-rise-of-open-ai-models-privacy-control-and-a-new-era-26j1)
+- [WebAssembly 基础（一）](https://dev.to/yangholmes/webassembly-ji-chu--32kb)
+- [Build a Serverless Contact Form with Lambda + API Gateway + SES 📩](https://dev.to/yash_sonawane25/build-a-serverless-contact-form-with-lambda-api-gateway-ses-22on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
