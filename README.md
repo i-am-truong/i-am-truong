@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Redis AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-redis-ai-challenge-winners-2f2j)
+- [🔥 Simulating Course Schedules 600x Faster with Web Workers in CourseCast](https://dev.to/somedood/simulating-course-schedules-600x-faster-with-web-workers-in-coursecast-41ma)
 - [The 90-Minute Shopping Trip That Sparked an Innovation](https://dev.to/soomoja/the-90-minute-shopping-trip-that-sparked-an-innovation-5dc5)
 - [Why I started this BLOG](https://dev.to/prathamngundikere/why-i-started-this-blog-1eg0)
 - [HOW TO CREATE AZURE APP SERVICE BY PUBLISHING A GAME WEB APP](https://dev.to/ajayid10/how-to-create-azure-app-service-by-publishing-a-web-app-2mki)
-- [SQL Q. series 1 - Last Person to Fit in the Bus 🚌🚌](https://dev.to/randhavevaibhav/sql-q-series-1-last-person-to-fit-in-the-bus-1bcp)
-- [&#39;Doglabbing&#39; ngrok: Eyes-only photo sharing with immich and OIDC](https://dev.to/ngrok/doglabbing-ngrok-eyes-only-photo-sharing-with-immich-and-oidc-4oal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
