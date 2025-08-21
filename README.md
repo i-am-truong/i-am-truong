@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a CI/CD Pipeline Using GitHub Actions](https://dev.to/therealmrmumba/how-to-set-up-a-cicd-pipeline-using-github-actions-16gb)
-- [Microsoft 365 vs. Azure: Choosing the Right Service for High-Volume Emails](https://dev.to/techielass/microsoft-365-vs-azure-choosing-the-right-service-for-high-volume-emails-1c3)
-- [How to Back Up and Restore MySQL Using mysqldump](https://dev.to/dbvismarketing/how-to-back-up-and-restore-mysql-using-mysqldump-n1g)
-- [The Rust Journey of a JavaScript Developer • Day 1](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-1-2e1l)
-- [Getting Started with Mobile App Development Using Flutter — Step by Step Guide](https://dev.to/jayesh_prajapati/getting-started-with-mobile-app-development-using-flutter-step-by-step-guide-1l22)
+- [🕹️ My First Steps in OverTheWire Bandit &lpar;Levels 0–5&rpar; 🎮](https://dev.to/sriram_bharath/my-first-steps-in-overthewire-bandit-levels-0-5-44gn)
+- [several ways to implement download a file use js](https://dev.to/huaian/several-ways-to-implement-download-a-file-use-js-3nmn)
+- [🚀 My npm package just hit 400 downloads in 3 days!](https://dev.to/asad_rafi1221/my-npm-package-just-hit-400-downloads-in-3-days-47pj)
+- [Automatic Service Failback to Preferred Instance in Oracle RAC 19c](https://dev.to/vahidusefzadeh/automatic-service-failback-to-preferred-instance-in-oracle-rac-19c-42nl)
+- [How to Create a Living Room using Basic Shapes in 3D CAD Software &lpar;Part 2&rpar;](https://dev.to/julia970/how-to-create-a-living-room-using-basic-shapes-in-3d-cad-software-part-2-31h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
