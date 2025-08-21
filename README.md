@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365 vs. Azure: Choosing the Right Service for High-Volume Emails](https://dev.to/techielass/microsoft-365-vs-azure-choosing-the-right-service-for-high-volume-emails-1c3)
+- [How to Back Up and Restore MySQL Using mysqldump](https://dev.to/dbvismarketing/how-to-back-up-and-restore-mysql-using-mysqldump-n1g)
+- [The Rust Journey of a JavaScript Developer • Day 1](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-1-2e1l)
+- [Getting Started with Mobile App Development Using Flutter — Step by Step Guide](https://dev.to/jayesh_prajapati/getting-started-with-mobile-app-development-using-flutter-step-by-step-guide-1l22)
 - [Is Hello Interview Worth It? An Honest Take for Developers Preparing for Tech Interviews](https://dev.to/stack_overflowed/is-hello-interview-worth-it-an-honest-take-for-developers-preparing-for-tech-interviews-2k4b)
-- [Example Code for CH9143](https://dev.to/danielmx/example-code-for-ch9143-13e5)
-- [edX vs Coursera: Which Platform Actually Teaches You Something &lpar;Before Your Coffee Runs Out&rpar;?](https://dev.to/stack_overflowed/edx-vs-coursera-which-platform-actually-teaches-you-something-before-your-coffee-runs-out-1hfi)
-- [Why Startups and Developers Should Consider Headless CMS](https://dev.to/hardeepsingh01/why-startups-and-developers-should-consider-headless-cms-35c3)
-- [Untitled](https://dev.to/ruben_mp_579850b325aa1222/untitled-59c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
