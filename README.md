@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Users Ignore Consent Banners—Here&#39;s How to Build Better Ones](https://dev.to/mehwish_malik_4f29ff7fb04/users-ignore-consent-banners-heres-how-to-build-better-ones-di9)
-- [Building a News Sentiment Analysis Pipeline with Apache Airflow and Snowflake](https://dev.to/milcah03/building-a-news-sentiment-analysis-pipeline-with-apache-airflow-and-snowflake-1pap)
-- [🌟🔥 The Ultimate DEV Community on WhatsApp](https://dev.to/hanzla-baig/the-ultimate-dev-community-on-whatsapp-4lpf)
-- [🌍✨ Welcome to the DEV Community – WhatsApp Edition](https://dev.to/hanzla-baig/welcome-to-the-dev-community-whatsapp-edition-2gf8)
-- [🚀✨ Welcome to DEV Community on WhatsApp!](https://dev.to/hanzla-baig/welcome-to-dev-community-on-whatsapp-2f6o)
+- [Build a RAG application with LangChain and Local LLMs powered by Ollama](https://dev.to/abhirockzz/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama-3el5)
+- [Part-21: Compute Engine Storage - Key Management Service &lpar;Cloud KMS&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-21-compute-engine-storage-key-management-service-cloud-kms-in-google-cloud-platform-gcp-39a5)
+- [3D Printing Nerd: 3D Printing the WORLDS LARGEST LTT Transparent Screwdriver!](https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-ltt-transparent-screwdriver-3b3g)
+- [KEXP: They Might Be Giants - The Darlings Of Lumberland &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-the-darlings-of-lumberland-live-on-kexp-16pj)
+- [KEXP: They Might Be Giants - Particle Man &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-particle-man-live-on-kexp-1ia3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
