@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!](https://dev.to/devteam/new-demo-videos-from-the-n8n-and-bright-data-teams-for-the-real-time-ai-agents-challenge-3of3)
 - [Explicit transparent bot accounts will soon be a thing — which will be a small part of moderating out AI slop. Transparently automated content has a place, but it should be clear when it occurs. https://github.com/forem/forem/pull/22232](https://dev.to/ben/explicit-transparent-bot-accounts-will-soon-be-a-thing-which-will-be-a-small-part-of-moderating-2nfc)
 - [NDC Conferences: Navigating through the Azure Messaging &lpar;over&rpar;choice -](https://dev.to/scale_youtube/ndc-conferences-navigating-through-the-azure-messaging-overchoice--5die)
 - [NDC Conferences: IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi - Mike Benkovich - NDC Oslo 2025](https://dev.to/scale_youtube/ndc-conferences-iac-forged-in-code-armbicep-vs-terraform-vs-pulumi-mike-benkovich-ndc-oslo-1k13)
 - [NDC Conferences: Autonomy – From Buzzword to Business Value - John Inge Hervik - NDC Oslo 2025](https://dev.to/scale_youtube/ndc-conferences-autonomy-from-buzzword-to-business-value-john-inge-hervik-ndc-oslo-2025-2d14)
-- [NDC Conferences: Accessibility feedback loop: Continuous a11y improvement in your development life cycle - Tim Damen](https://dev.to/scale_youtube/ndc-conferences-accessibility-feedback-loop-continuous-a11y-improvement-in-your-development-life-10oa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
