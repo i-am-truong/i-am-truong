@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabethfuentes12/-mhh)
-- [Bryan Bros Golf: The Greatest Youtube Golf ALT Shot!](https://dev.to/youtube_golf/bryan-bros-golf-the-greatest-youtube-golf-alt-shot-1kc)
-- [IGN: Metal Eden - New Gameplay Trailer](https://dev.to/gg_news/ign-metal-eden-new-gameplay-trailer-1dea)
-- [IGN: Anno 117: Pax Romana - Albion Preview](https://dev.to/gg_news/ign-anno-117-pax-romana-albion-preview-1587)
-- [IGN: Son of Thanjai - Official Announcement Teaser Trailer &lpar;English Subtitles&rpar; | gamescom 2025](https://dev.to/gg_news/ign-son-of-thanjai-official-announcement-teaser-trailer-english-subtitles-gamescom-2025-303e)
+- [No Laying Up Podcast: LPGA Check-In + Megha Ganne | NLU Pod, Ep 1060](https://dev.to/youtube_golf/no-laying-up-podcast-lpga-check-in-megha-ganne-nlu-pod-ep-1060-4697)
+- [GameSpot: Dawn of War 4 Wants To Revitalize The RTS Genre and I think it can](https://dev.to/gg_news/gamespot-dawn-of-war-4-wants-to-revitalize-the-rts-genre-and-i-think-it-can-2egn)
+- [GameSpot: The Order of Giants DLC is More Indiana Jones And That’s A Very Good Thing](https://dev.to/gg_news/gamespot-the-order-of-giants-dlc-is-more-indiana-jones-and-thats-a-very-good-thing-1184)
+- [GameSpot: Kirby Air Riders Is Faster, Deeper, and Cleaner Than The Original](https://dev.to/gg_news/gamespot-kirby-air-riders-is-faster-deeper-and-cleaner-than-the-original-223n)
+- [IGN: Black State: 12 Minutes of Metal Gear-Inspired Gameplay | gamescom 2025](https://dev.to/gg_news/ign-black-state-12-minutes-of-metal-gear-inspired-gameplay-gamescom-2025-k5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
