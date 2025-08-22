@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security news weekly round-up - 22nd August 2025](https://dev.to/ziizium/security-news-weekly-round-up-22nd-august-2025-3a7h)
 - [Day 73: When &quot;Break Days&quot; Become Build Days](https://dev.to/casperday11/day-73-when-break-days-become-build-days-57nh)
 - [3D Printing Nerd: 3D Printing the WORLDS LARGEST Transparent LTT Screwdriver!](https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-transparent-ltt-screwdriver-243m)
 - [IGN: Replaced Is a Beautiful, Brilliant 2.5D Cyberpunk Thriller | gamescom 2025](https://dev.to/gg_news/ign-replaced-is-a-beautiful-brilliant-25d-cyberpunk-thriller-gamescom-2025-2b3h)
 - [IGN: Mount &amp; Blade 2: Bannerlord - War Sails - Official Introducing the Nords Trailer | gamescom 2025](https://dev.to/gg_news/ign-mount-blade-2-bannerlord-war-sails-official-introducing-the-nords-trailer-gamescom-1oc7)
-- [SQL Joins Explained - INNER, LEFT, RIGHT, FULL](https://dev.to/roxana_haidiner/sql-joins-explained-inner-left-right-full-1ofc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
