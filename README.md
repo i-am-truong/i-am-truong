@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Users Ignore Consent Banners—Here&#39;s How to Build Better Ones](https://dev.to/mehwish_malik_4f29ff7fb04/users-ignore-consent-banners-heres-how-to-build-better-ones-di9)
+- [Building a News Sentiment Analysis Pipeline with Apache Airflow and Snowflake](https://dev.to/milcah03/building-a-news-sentiment-analysis-pipeline-with-apache-airflow-and-snowflake-1pap)
 - [🌟🔥 The Ultimate DEV Community on WhatsApp](https://dev.to/hanzla-baig/the-ultimate-dev-community-on-whatsapp-4lpf)
 - [🌍✨ Welcome to the DEV Community – WhatsApp Edition](https://dev.to/hanzla-baig/welcome-to-the-dev-community-whatsapp-edition-2gf8)
 - [🚀✨ Welcome to DEV Community on WhatsApp!](https://dev.to/hanzla-baig/welcome-to-dev-community-on-whatsapp-2f6o)
-- [Does Claude Generate Accessible Apps](https://dev.to/eevajonnapanula/does-claude-generate-accessible-apps-5759)
-- [KEXP: The Might Be Giants - Doctor Worm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-might-be-giants-doctor-worm-live-on-kexp-2g4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
