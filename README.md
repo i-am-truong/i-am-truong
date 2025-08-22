@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[Boost]](https://dev.to/fabiothiroki/-52il)
+- [How to Deploy SafeLine WAF on a Hestia Control Panel VPS](https://dev.to/maxim_cravtov/how-to-deploy-safeline-waf-on-a-hestia-control-panel-vps-5f5o)
 - [Open Source Software Foundations](https://dev.to/szabgab/open-source-software-foundations-4ka9)
 - [The OCR Model That Outranks GPT-4o](https://dev.to/nodeshiftcloud/the-ocr-model-that-outranks-gpt-4o-586b)
 - [Inspect and edit any website 3x faster and export changes effortlessly](https://dev.to/mdanassaif/inspect-and-edit-any-website-3x-faster-and-export-changes-effortlessly-4cal)
-- [My 2025 Roundup of Must-Know MCP Servers](https://dev.to/therealmrmumba/my-2025-roundup-of-must-know-mcp-services-3146)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
