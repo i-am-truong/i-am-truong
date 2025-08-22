@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-3poc)
 - [Build a RAG application with LangChain and Local LLMs powered by Ollama](https://dev.to/abhirockzz/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama-3el5)
 - [Part-21: Compute Engine Storage - Key Management Service &lpar;Cloud KMS&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-21-compute-engine-storage-key-management-service-cloud-kms-in-google-cloud-platform-gcp-39a5)
 - [3D Printing Nerd: 3D Printing the WORLDS LARGEST LTT Transparent Screwdriver!](https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-ltt-transparent-screwdriver-3b3g)
 - [KEXP: They Might Be Giants - The Darlings Of Lumberland &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-the-darlings-of-lumberland-live-on-kexp-16pj)
-- [KEXP: They Might Be Giants - Particle Man &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-particle-man-live-on-kexp-1ia3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
