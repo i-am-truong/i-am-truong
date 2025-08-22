@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;ll try to zero out the open pull requests inbox soon to make things more organized and get a fresh start.](https://dev.to/ben/well-try-to-zero-out-the-open-pull-requests-inbox-soon-to-make-things-more-organized-and-get-a-4ieh)
 - [Right-Sizing Kubernetes Resources with VPA and Karpenter](https://dev.to/devopsdaily/right-sizing-kubernetes-resources-with-vpa-and-karpenter-22ah)
 - [New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!](https://dev.to/devteam/new-demo-videos-from-the-n8n-and-bright-data-teams-for-the-real-time-ai-agents-challenge-3of3)
 - [Explicit transparent bot accounts will soon be a thing — which will be a small part of moderating out AI slop. Transparently automated content has a place, but it should be clear when it occurs. https://github.com/forem/forem/pull/22232](https://dev.to/ben/explicit-transparent-bot-accounts-will-soon-be-a-thing-which-will-be-a-small-part-of-moderating-2nfc)
 - [NDC Conferences: Navigating through the Azure Messaging &lpar;over&rpar;choice -](https://dev.to/scale_youtube/ndc-conferences-navigating-through-the-azure-messaging-overchoice--5die)
-- [NDC Conferences: IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi - Mike Benkovich - NDC Oslo 2025](https://dev.to/scale_youtube/ndc-conferences-iac-forged-in-code-armbicep-vs-terraform-vs-pulumi-mike-benkovich-ndc-oslo-1k13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
