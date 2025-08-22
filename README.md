@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NPR Music: Questlove is charting the history of America through its music | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-questlove-is-charting-the-history-of-america-through-its-music-amplify-with-lara-downes-1hpm)
+- [IGN: Metal Gear Solid Delta: Snake Eater - All New Secret Theater 8mm Films](https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-all-new-secret-theater-8mm-films-3a77)
+- [IGN: gamescom studio Tag 3 Livestream 2025: Vampire: The Masquerade - Bloodlines 2 &amp; mehr!](https://dev.to/gg_news/ign-gamescom-studio-tag-3-livestream-2025-vampire-the-masquerade-bloodlines-2-mehr-2a1e)
 - [What is a Webhook API? A Deep Dive for Developers](https://dev.to/robbiecahill/what-is-a-webhook-api-a-deep-dive-for-developers-580a)
 - [How to Use Slack Webhooks: A Developer&#39;s Guide](https://dev.to/robbiecahill/how-to-use-slack-webhooks-a-developers-guide-3dcj)
-- [Mastering HubSpot Webhooks: A Developer&#39;s Guide to Local Development](https://dev.to/robbiecahill/mastering-hubspot-webhooks-a-developers-guide-to-local-development-216p)
-- [What Are Webhooks? A Comprehensive Guide for Developers](https://dev.to/robbiecahill/what-are-webhooks-a-comprehensive-guide-for-developers-4l72)
-- [What is a Webhook? A Simple Explanation of Webhook Meaning](https://dev.to/robbiecahill/what-is-a-webhook-a-simple-explanation-of-webhook-meaning-3a2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
