@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project of the Week: n8n](https://dev.to/pullflow/project-of-the-week-n8n-12g6)
 - [[Boost]](https://dev.to/ben/-3poc)
 - [Nest.js deep dive series: The simplest Nest application with JavaScript](https://dev.to/ivadyhabimana/nestjs-deep-dive-series-the-simplest-nest-application-with-javascript-27ed)
 - [Build a RAG application with LangChain and Local LLMs powered by Ollama](https://dev.to/abhirockzz/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama-3el5)
 - [Part-21: Compute Engine Storage - Key Management Service &lpar;Cloud KMS&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-21-compute-engine-storage-key-management-service-cloud-kms-in-google-cloud-platform-gcp-39a5)
-- [3D Printing Nerd: 3D Printing the WORLDS LARGEST LTT Transparent Screwdriver!](https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-ltt-transparent-screwdriver-3b3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
