@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3D Printing Nerd: 3D Printing the WORLDS LARGEST Transparent LTT Screwdriver!](https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-transparent-ltt-screwdriver-243m)
+- [IGN: Replaced Is a Beautiful, Brilliant 2.5D Cyberpunk Thriller | gamescom 2025](https://dev.to/gg_news/ign-replaced-is-a-beautiful-brilliant-25d-cyberpunk-thriller-gamescom-2025-2b3h)
+- [IGN: Mount &amp; Blade 2: Bannerlord - War Sails - Official Introducing the Nords Trailer | gamescom 2025](https://dev.to/gg_news/ign-mount-blade-2-bannerlord-war-sails-official-introducing-the-nords-trailer-gamescom-1oc7)
 - [SQL Joins Explained - INNER, LEFT, RIGHT, FULL](https://dev.to/roxana_haidiner/sql-joins-explained-inner-left-right-full-1ofc)
-- [What’s Your Flex Level? 🐸💪](https://dev.to/lovestaco/whats-your-flex-level-5459)
-- [&#39;Doglabbing&#39; ngrok: A serverless URL shortener](https://dev.to/ngrok/doglabbing-ngrok-a-serverless-url-shortener-lgc)
-- [🚀 Linux for DevOps [Week 1]: Mastering the Essentials](https://dev.to/suvrajeet/linux-for-devops-week-1-mastering-the-essentials-198m)
-- [COLORS: Alice Duport-Percier x Lorien Testard - Alicia | A COLORS SHOW](https://dev.to/music_youtube/colors-alice-duport-percier-x-lorien-testard-alicia-a-colors-show-576n)
+- [Creating an AI Agent in Claude Code to Control my Smartphone](https://dev.to/tiagodanin/creating-an-ai-agent-in-claude-code-to-control-my-smartphone-1e3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
