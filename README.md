@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: n8n](https://dev.to/pullflow/project-of-the-week-n8n-12g6)
-- [[Boost]](https://dev.to/ben/-3poc)
-- [Nest.js deep dive series: The simplest Nest application with JavaScript](https://dev.to/ivadyhabimana/nestjs-deep-dive-series-the-simplest-nest-application-with-javascript-27ed)
-- [Build a RAG application with LangChain and Local LLMs powered by Ollama](https://dev.to/abhirockzz/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama-3el5)
-- [Part-21: Compute Engine Storage - Key Management Service &lpar;Cloud KMS&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-21-compute-engine-storage-key-management-service-cloud-kms-in-google-cloud-platform-gcp-39a5)
+- [NDC Conferences: Navigating through the Azure Messaging &lpar;over&rpar;choice -](https://dev.to/scale_youtube/ndc-conferences-navigating-through-the-azure-messaging-overchoice--5die)
+- [NDC Conferences: IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi - Mike Benkovich - NDC Oslo 2025](https://dev.to/scale_youtube/ndc-conferences-iac-forged-in-code-armbicep-vs-terraform-vs-pulumi-mike-benkovich-ndc-oslo-1k13)
+- [NDC Conferences: Autonomy – From Buzzword to Business Value - John Inge Hervik - NDC Oslo 2025](https://dev.to/scale_youtube/ndc-conferences-autonomy-from-buzzword-to-business-value-john-inge-hervik-ndc-oslo-2025-2d14)
+- [NDC Conferences: Accessibility feedback loop: Continuous a11y improvement in your development life cycle - Tim Damen](https://dev.to/scale_youtube/ndc-conferences-accessibility-feedback-loop-continuous-a11y-improvement-in-your-development-life-10oa)
+- [NDC Conferences: Maintaining a Library and a Community - Mark Erikson - NDC Oslo 2025](https://dev.to/scale_youtube/ndc-conferences-maintaining-a-library-and-a-community-mark-erikson-ndc-oslo-2025-2k3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
