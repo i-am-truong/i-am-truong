@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Capitalization is not a scoreboard: lessons from WhiteBIT’s CEO](https://dev.to/martin_call/capitalization-is-not-a-scoreboard-lessons-from-whitebits-ceo-197a)
 - [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-2flb)
 - [GameSpot: Metal Gear Solid Delta Gameplay: Snake Eater Guy Savage Snake&#39;s Nightmare](https://dev.to/gg_news/gamespot-metal-gear-solid-delta-gameplay-snake-eater-guy-savage-snakes-nightmare-4kd5)
 - [GameSpot: Metal Gear Solid Delta: Snake Eater Review](https://dev.to/gg_news/gamespot-metal-gear-solid-delta-snake-eater-review-19kh)
 - [IGN: Metal Gear Solid Delta: Snake Eater - The First 50 Minutes &lpar; RTX 5090 4K 60FPS Ultra Settings&rpar;](https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-the-first-50-minutes-rtx-5090-4k-60fps-ultra-settings-45hm)
-- [IGN: Metal Gear Solid Delta: Snake Eater Review](https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-review-32h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
