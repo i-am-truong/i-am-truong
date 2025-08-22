@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌟🔥 The Ultimate DEV Community on WhatsApp](https://dev.to/hanzla-baig/the-ultimate-dev-community-on-whatsapp-4lpf)
+- [🌍✨ Welcome to the DEV Community – WhatsApp Edition](https://dev.to/hanzla-baig/welcome-to-the-dev-community-whatsapp-edition-2gf8)
+- [🚀✨ Welcome to DEV Community on WhatsApp!](https://dev.to/hanzla-baig/welcome-to-dev-community-on-whatsapp-2f6o)
 - [Does Claude Generate Accessible Apps](https://dev.to/eevajonnapanula/does-claude-generate-accessible-apps-5759)
 - [KEXP: The Might Be Giants - Doctor Worm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-might-be-giants-doctor-worm-live-on-kexp-2g4l)
-- [KEXP: The Might Be Giants - Let Me Tell You About My Operation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-might-be-giants-let-me-tell-you-about-my-operation-live-on-kexp-58k5)
-- [KEXP: The Might Be Giants - Moonbeam Rays / Ana Ng &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-might-be-giants-moonbeam-rays-ana-ng-live-on-kexp-4klo)
-- [KEXP: The Might Be Giants - Synopsis For Latecomers &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-might-be-giants-synopsis-for-latecomers-live-on-kexp-m9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
