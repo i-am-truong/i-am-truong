@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [90% people make vague prompts and are not using the full capacity of ChatGPT. ChatGPT has the capabilities to help the entire devops community, whether you are looking new idea, a creative approach, or a sustainable solution.](https://dev.to/jaideepparashar/90-people-make-vague-prompts-and-are-not-using-the-full-capacity-of-chatgpt-chatgpt-has-the-252h)
 - [5 Mistakes People Make with ChatGPT Prompts](https://dev.to/jaideepparashar/5-mistakes-people-make-with-chatgpt-prompts-1627)
 - [Managing Tailwind CSS in Turborepo Packages](https://dev.to/ippatev/managing-tailwind-css-in-turborepo-packages-4j34)
 - [AWS Interview Series: Top Questions with Simple Answers ✅](https://dev.to/yash_sonawane25/aws-interview-series-top-questions-with-simple-answers-3l39)
 - [Building Strands Agents with a few lines of code: Evaluating Performance with RAGAs](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-evaluating-performance-with-ragas-gme)
-- [How to display different images for GitHub light mode and dark mode](https://dev.to/srbhr/how-to-display-different-images-for-github-light-mode-and-dark-mode-edg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
