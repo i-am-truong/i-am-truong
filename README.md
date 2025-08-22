@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Anaconda on Ubuntu Server in the Cloud &lpar;Azure VM for Team Collaboration&rpar;](https://dev.to/grayhat/deploying-anaconda-on-ubuntu-server-in-the-cloud-azure-vm-for-team-collaboration-52k)
-- [Capitalization is not a scoreboard: lessons from WhiteBIT’s CEO](https://dev.to/martin_call/capitalization-is-not-a-scoreboard-lessons-from-whitebits-ceo-197a)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-2flb)
-- [GameSpot: Metal Gear Solid Delta Gameplay: Snake Eater Guy Savage Snake&#39;s Nightmare](https://dev.to/gg_news/gamespot-metal-gear-solid-delta-gameplay-snake-eater-guy-savage-snakes-nightmare-4kd5)
-- [GameSpot: Metal Gear Solid Delta: Snake Eater Review](https://dev.to/gg_news/gamespot-metal-gear-solid-delta-snake-eater-review-19kh)
+- [What is a Webhook API? A Deep Dive for Developers](https://dev.to/robbiecahill/what-is-a-webhook-api-a-deep-dive-for-developers-580a)
+- [How to Use Slack Webhooks: A Developer&#39;s Guide](https://dev.to/robbiecahill/how-to-use-slack-webhooks-a-developers-guide-3dcj)
+- [Mastering HubSpot Webhooks: A Developer&#39;s Guide to Local Development](https://dev.to/robbiecahill/mastering-hubspot-webhooks-a-developers-guide-to-local-development-216p)
+- [What Are Webhooks? A Comprehensive Guide for Developers](https://dev.to/robbiecahill/what-are-webhooks-a-comprehensive-guide-for-developers-4l72)
+- [What is a Webhook? A Simple Explanation of Webhook Meaning](https://dev.to/robbiecahill/what-is-a-webhook-a-simple-explanation-of-webhook-meaning-3a2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
