@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lightweight ETL with AWS Lambda, DuckDB, and delta-rs](https://dev.to/datapenguin/lightweight-etl-with-aws-lambda-duckdb-and-delta-rs-1cmm)
+- [Lightweight ETL with AWS Lambda, DuckDB, and delta-rs](https://dev.to/aws-builders/lightweight-etl-with-aws-lambda-duckdb-and-delta-rs-1cmm)
 - [Create C# nested files in Visual Studio](https://dev.to/karenpayneoregon/create-c-nested-files-in-visual-studio-3j20)
 - [3D Printing Nerd: WORLDS LARGEST Transparent LTT Screwdriver is 3D PRINTED!](https://dev.to/maker_youtube/3d-printing-nerd-worlds-largest-transparent-ltt-screwdriver-is-3d-printed-4gji)
 - [IGN: Borderlands 4 - Official Harlowe Gameplay Overview Trailer](https://dev.to/gg_news/ign-borderlands-4-official-harlowe-gameplay-overview-trailer-22k2)
