@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [test test test](https://dev.to/ben/test-test-test-3dag)
-- [We&#39;ll try to zero out the open pull requests inbox soon to make things more organized and get a fresh start.](https://dev.to/ben/well-try-to-zero-out-the-open-pull-requests-inbox-soon-to-make-things-more-organized-and-get-a-4ieh)
-- [Right-Sizing Kubernetes Resources with VPA and Karpenter](https://dev.to/devopsdaily/right-sizing-kubernetes-resources-with-vpa-and-karpenter-22ah)
-- [New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!](https://dev.to/devteam/new-demo-videos-from-the-n8n-and-bright-data-teams-for-the-real-time-ai-agents-challenge-3of3)
-- [Explicit transparent bot accounts will soon be a thing — which will be a small part of moderating out AI slop. Transparently automated content has a place, but it should be clear when it occurs. https://github.com/forem/forem/pull/22232](https://dev.to/ben/explicit-transparent-bot-accounts-will-soon-be-a-thing-which-will-be-a-small-part-of-moderating-2nfc)
+- [COLORS: Alice Duport-Percier x Lorien Testard - Alicia | A COLORS SHOW](https://dev.to/music_youtube/colors-alice-duport-percier-x-lorien-testard-alicia-a-colors-show-576n)
+- [Trash Theory: Phil Collins, In The Air Tonight &amp; That Drum Fill | New British Canon](https://dev.to/music_youtube/trash-theory-phil-collins-in-the-air-tonight-that-drum-fill-new-british-canon-18jj)
+- [Rick Beato: Glyn Johns: Recording The Beatles, The Stones, Led Zeppelin, The Who, Eagles...](https://dev.to/music_youtube/rick-beato-glyn-johns-recording-the-beatles-the-stones-led-zeppelin-the-who-eagles-1bkh)
+- [Veritasium: This material gets tougher as you break it](https://dev.to/future_youtube/veritasium-this-material-gets-tougher-as-you-break-it-30be)
+- [GameSpot: High on Life 2 - Hands-On Impressions](https://dev.to/gg_news/gamespot-high-on-life-2-hands-on-impressions-1pf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
