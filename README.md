@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/budigunawan99/-2fb7)
 - [How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%](https://dev.to/teamcamp/how-we-crushed-traditional-dev-teams-the-spotify-model-that-boosted-our-velocity-89-4ojb)
 - [Part-19: GCE Ops Agent: Logging &amp; Monitoring in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-19-gce-ops-agent-logging-monitoring-in-google-cloud-platform-gcp-59ml)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1ack)
 - [90% people make vague prompts and are not using the full capacity of ChatGPT. ChatGPT has the capabilities to help the entire devops community, whether you are looking new idea, a creative approach, or a sustainable solution.](https://dev.to/jaideepparashar/90-people-make-vague-prompts-and-are-not-using-the-full-capacity-of-chatgpt-chatgpt-has-the-252h)
-- [5 Mistakes People Make with ChatGPT Prompts](https://dev.to/jaideepparashar/5-mistakes-people-make-with-chatgpt-prompts-1627)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
