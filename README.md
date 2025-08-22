@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Darwin Machine Dilemma](https://dev.to/rawveg/the-darwin-machine-dilemma-115o)
-- [AI Fluency: Build Smarter Code](https://dev.to/eleftheriabatsou/ai-fluency-build-smarter-code-1oa2)
-- [DevOps Compliance Challenges and How to Solve Them](https://dev.to/mehul_budasana/devops-compliance-challenges-and-how-to-solve-them-3fe8)
-- [NPR Music: Questlove is charting the history of America through its music | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-questlove-is-charting-the-history-of-america-through-its-music-amplify-with-lara-downes-1hpm)
-- [IGN: Metal Gear Solid Delta: Snake Eater - All New Secret Theater 8mm Films](https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-all-new-secret-theater-8mm-films-3a77)
+- [Does Claude Generate Accessible Apps](https://dev.to/eevajonnapanula/does-claude-generate-accessible-apps-5759)
+- [KEXP: The Might Be Giants - Doctor Worm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-might-be-giants-doctor-worm-live-on-kexp-2g4l)
+- [KEXP: The Might Be Giants - Let Me Tell You About My Operation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-might-be-giants-let-me-tell-you-about-my-operation-live-on-kexp-58k5)
+- [KEXP: The Might Be Giants - Moonbeam Rays / Ana Ng &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-might-be-giants-moonbeam-rays-ana-ng-live-on-kexp-4klo)
+- [KEXP: The Might Be Giants - Synopsis For Latecomers &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-might-be-giants-synopsis-for-latecomers-live-on-kexp-m9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
