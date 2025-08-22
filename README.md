@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Darwin Machine Dilemma](https://dev.to/rawveg/the-darwin-machine-dilemma-115o)
 - [AI Fluency: Build Smarter Code](https://dev.to/eleftheriabatsou/ai-fluency-build-smarter-code-1oa2)
 - [DevOps Compliance Challenges and How to Solve Them](https://dev.to/mehul_budasana/devops-compliance-challenges-and-how-to-solve-them-3fe8)
 - [NPR Music: Questlove is charting the history of America through its music | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-questlove-is-charting-the-history-of-america-through-its-music-amplify-with-lara-downes-1hpm)
 - [IGN: Metal Gear Solid Delta: Snake Eater - All New Secret Theater 8mm Films](https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-all-new-secret-theater-8mm-films-3a77)
-- [IGN: gamescom studio Tag 3 Livestream 2025: Vampire: The Masquerade - Bloodlines 2 &amp; mehr!](https://dev.to/gg_news/ign-gamescom-studio-tag-3-livestream-2025-vampire-the-masquerade-bloodlines-2-mehr-2a1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
