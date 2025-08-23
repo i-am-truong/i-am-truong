@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✨7 React.js Hacks Every Beginner Dev Needs to Know &lpar;No Fluff, Just Gold&rpar;](https://dev.to/ilsa_shaikh_089e2bfab0bf4/7-reactjs-hacks-every-beginner-dev-needs-to-know-no-fluff-just-gold-3fmc)
-- [The $200 Billion AI Agent Disaster: Why 95% of Corporate AI Projects Are Crashing and Burning](https://dev.to/shiva_shanker_k/the-200-billion-ai-agent-disaster-why-95-of-corporate-ai-projects-are-crashing-and-burning-27hl)
-- [New Blocks Alert: A Huge Collection of Tables!](https://dev.to/ngmaterialdev/new-blocks-alert-a-huge-collection-of-tables-1n34)
-- [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-24a7)
-- [IGN: Metroid Prime 4: Beyond Gameplay &lpar;Off-Screen&rpar; | gamescom 2025](https://dev.to/gg_news/ign-metroid-prime-4-beyond-gameplay-off-screen-gamescom-2025-3fc9)
+- [5 Best GitHub AI Repos to Master AI Like a Pro](https://dev.to/kumarmanish/5-best-github-ai-repos-to-master-ai-like-a-pro-4o82)
+- [Building a Serverless Todo API with AWS and Terraform: A Complete Learning Guide](https://dev.to/bansikah/building-a-serverless-todo-api-with-aws-and-terraform-a-complete-learning-guide-11jh)
+- [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-1g3e)
+- [IGN: Crimson Desert - 30 minutes of 4K Gameplay | gamescom 2025](https://dev.to/gg_news/ign-crimson-desert-30-minutes-of-4k-gameplay-gamescom-2025-591h)
+- [IGN: Playing Hollow Knight Before Silksong? Use These 12 Helpful Tips](https://dev.to/gg_news/ign-playing-hollow-knight-before-silksong-use-these-12-helpful-tips-mj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
