@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Can Do More Than You Think — The Most Practical Ways to Use AI Every Day](https://dev.to/nitinfab/ai-can-do-more-than-you-think-the-most-practical-ways-to-use-ai-every-day-4g62)
+- [Real-Time Tracking Without the Drama](https://dev.to/sathish/real-time-tracking-without-the-drama-4j56)
 - [🌟📱 Introducing the Official DEV Community WhatsApp Channel](https://dev.to/hanzla-baig/introducing-the-official-dev-community-whatsapp-channel-4lgo)
 - [🌟💻 Welcome to DEV Community – WhatsApp Channel Revolution](https://dev.to/hanzla-baig/welcome-to-dev-community-whatsapp-channel-revolution-14h4)
 - [🛳️ Docker Series: Episode 1 — Why Docker? &lpar;And Why It’s About to Be Your Best Friend&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-1-why-docker-and-why-its-about-to-be-your-best-friend-389f)
-- [Joining doubt](https://dev.to/syed_syed_93aef8f4e501cba/joining-doubt-1f7n)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3i9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
