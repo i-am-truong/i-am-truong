@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Taught My JavaScript AI to Rewrite Its Own Code](https://dev.to/xzdes/i-taught-my-javascript-ai-to-rewrite-its-own-code-l0a)
 - [[Boost]](https://dev.to/nayetwolf/-80a)
 - [The Evening I Chose Code Over a Match😂](https://dev.to/fonyuygita/the-evening-i-chose-code-over-a-match-3h9e)
 - [Adam Savage&#39;s Tested: Adam Savage&#39;s Hands-On With Star Trek Klingon Battlecruiser Model!](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-hands-on-with-star-trek-klingon-battlecruiser-model-56b)
 - [No Laying Up Podcast: Seamsters Union: Brew Crew On Top | Trap Draw, Ep 355](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-brew-crew-on-top-trap-draw-ep-355-4002)
-- [Golf.com: Behind Closed Doors: The Olympic Club&#39;s Two Homes](https://dev.to/youtube_golf/golfcom-behind-closed-doors-the-olympic-clubs-two-homes-2bo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
