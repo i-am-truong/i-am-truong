@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot vs ChatGPT: Which One Should Developers Use?](https://dev.to/codewithsimon/github-copilot-vs-chatgpt-which-one-should-developers-use-39e9)
+- [Top 10 GitHub Copilot Features Every Developer Should Know](https://dev.to/codewithsimon/top-10-github-copilot-features-every-developer-should-know-54a4)
+- [AWS VPC to ECS - Day 5: ECS Service with Smart Auto-Scaling](https://dev.to/aws-builders/aws-vpc-to-ecs-day-5-ecs-service-with-smart-auto-scaling-3ed2)
+- [5 ways to destroy your Linux](https://dev.to/kurealnum/5-ways-to-destroy-your-linux-4bih)
 - [SEO Starter Guide: How to Get Your Website Found on Google](https://dev.to/lovestaco/seo-starter-guide-how-to-get-your-website-found-on-google-14ia)
-- [5 Best GitHub AI Repos to Master AI Like a Pro](https://dev.to/kumarmanish/5-best-github-ai-repos-to-master-ai-like-a-pro-4o82)
-- [Building a Serverless Todo API with AWS and Terraform: A Complete Learning Guide](https://dev.to/bansikah/building-a-serverless-todo-api-with-aws-and-terraform-a-complete-learning-guide-11jh)
-- [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-1g3e)
-- [IGN: Crimson Desert - 30 minutes of 4K Gameplay | gamescom 2025](https://dev.to/gg_news/ign-crimson-desert-30-minutes-of-4k-gameplay-gamescom-2025-591h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
