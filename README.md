@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [✨7 React.js Hacks Every Beginner Dev Needs to Know &lpar;No Fluff, Just Gold&rpar;](https://dev.to/ilsa_shaikh_089e2bfab0bf4/7-reactjs-hacks-every-beginner-dev-needs-to-know-no-fluff-just-gold-3fmc)
 - [The $200 Billion AI Agent Disaster: Why 95% of Corporate AI Projects Are Crashing and Burning](https://dev.to/shiva_shanker_k/the-200-billion-ai-agent-disaster-why-95-of-corporate-ai-projects-are-crashing-and-burning-27hl)
 - [New Blocks Alert: A Huge Collection of Tables!](https://dev.to/ngmaterialdev/new-blocks-alert-a-huge-collection-of-tables-1n34)
 - [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-24a7)
 - [IGN: Metroid Prime 4: Beyond Gameplay &lpar;Off-Screen&rpar; | gamescom 2025](https://dev.to/gg_news/ign-metroid-prime-4-beyond-gameplay-off-screen-gamescom-2025-3fc9)
-- [IGN: An Inside look at gamescom 2025 with gamescom Director, Stefan Heikhaus](https://dev.to/gg_news/ign-an-inside-look-at-gamescom-2025-with-gamescom-director-stefan-heikhaus-39o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
