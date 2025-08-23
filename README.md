@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-24a7)
+- [IGN: Metroid Prime 4: Beyond Gameplay &lpar;Off-Screen&rpar; | gamescom 2025](https://dev.to/gg_news/ign-metroid-prime-4-beyond-gameplay-off-screen-gamescom-2025-3fc9)
+- [IGN: An Inside look at gamescom 2025 with gamescom Director, Stefan Heikhaus](https://dev.to/gg_news/ign-an-inside-look-at-gamescom-2025-with-gamescom-director-stefan-heikhaus-39o5)
+- [IGN: gamescom studio Tag 4 Livestream 2025](https://dev.to/gg_news/ign-gamescom-studio-tag-4-livestream-2025-570c)
 - [Git Hooks: Automating Workflows in Git](https://dev.to/aryan_shourie/git-hooks-automating-workflows-in-git-3bpo)
-- [My One-Month Journey with the Cursor Editor: An Honest Review](https://dev.to/sagar/my-one-month-journey-with-the-cursor-editor-an-honest-review-idk)
-- [Danny Maude: 90% of Golfers Miss This One Move That Adds Effortless Distance](https://dev.to/youtube_golf/danny-maude-90-of-golfers-miss-this-one-move-that-adds-effortless-distance-nek)
-- [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-5bjm)
-- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-3-44cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
