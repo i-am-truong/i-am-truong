@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot vs ChatGPT: Which One Should Developers Use?](https://dev.to/codewithsimon/github-copilot-vs-chatgpt-which-one-should-developers-use-39e9)
-- [Top 10 GitHub Copilot Features Every Developer Should Know](https://dev.to/codewithsimon/top-10-github-copilot-features-every-developer-should-know-54a4)
-- [AWS VPC to ECS - Day 5: ECS Service with Smart Auto-Scaling](https://dev.to/aws-builders/aws-vpc-to-ecs-day-5-ecs-service-with-smart-auto-scaling-3ed2)
-- [5 ways to destroy your Linux](https://dev.to/kurealnum/5-ways-to-destroy-your-linux-4bih)
-- [SEO Starter Guide: How to Get Your Website Found on Google](https://dev.to/lovestaco/seo-starter-guide-how-to-get-your-website-found-on-google-14ia)
+- [IGN: Metal Gear Solid Delta - 12 Biggest Changes From the Original](https://dev.to/gg_news/ign-metal-gear-solid-delta-12-biggest-changes-from-the-original-5d02)
+- [IGN: How Dying Light: The Beast Cranks The Brutality Up to 11 | gamescom 2025](https://dev.to/gg_news/ign-how-dying-light-the-beast-cranks-the-brutality-up-to-11-gamescom-2025-3bk2)
+- [IGN: Here&#39;s Why You Shouldn&#39;t Be Scared Of Silent Hill f&#39;s Combat | gamescom 2025](https://dev.to/gg_news/ign-heres-why-you-shouldnt-be-scared-of-silent-hill-fs-combat-gamescom-2025-1hol)
+- [IGN: Routine: We Finally Played After 13 Years of Waiting! | gamescom 2025](https://dev.to/gg_news/ign-routine-we-finally-played-after-13-years-of-waiting-gamescom-2025-2bk9)
+- [IGN: gamescom studio Day 3 Livestream 2025: Silent Hill f, ReAnimal, High on Life 2, and More](https://dev.to/gg_news/ign-gamescom-studio-day-3-livestream-2025-silent-hill-f-reanimal-high-on-life-2-and-more-2345)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
