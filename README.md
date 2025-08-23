@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/leee_rodgers1/-if4)
+- [Global Actors in Swift iOS](https://dev.to/arshtechpro/global-actors-in-swift-ios-1j1b)
 - [My experiences while writing the first part of ARLIZ](https://dev.to/m__mdy__m/my-experiences-while-writing-the-first-part-of-arliz-khb)
+- [I built a bundle-saving UI tool and open-sourced it 🔥](https://dev.to/anthonymax/i-built-a-bundle-saving-ui-tool-and-open-sourced-it-3e2e)
 - [Oracle Database 23ai: AI Vector Search, JSON Duality e o Futuro dos Bancos](https://dev.to/dellamas/oracle-database-23ai-ai-vector-search-json-duality-e-o-futuro-dos-bancos-3mh0)
-- [Grant Horvat: Can I Break a Course Record with Garrett Clark?](https://dev.to/youtube_golf/grant-horvat-can-i-break-a-course-record-with-garrett-clark-5c23)
-- [GameSpot: Valor Mortis Hands-On Impressions](https://dev.to/gg_news/gamespot-valor-mortis-hands-on-impressions-5a65)
-- [IGN: Hollow Knight Reaches New Franchise Record on Steam - IGN Daily Fix](https://dev.to/gg_news/ign-hollow-knight-reaches-new-franchise-record-on-steam-ign-daily-fix-45ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
