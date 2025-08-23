@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Metal Gear Solid Delta - 12 Biggest Changes From the Original](https://dev.to/gg_news/ign-metal-gear-solid-delta-12-biggest-changes-from-the-original-5d02)
-- [IGN: How Dying Light: The Beast Cranks The Brutality Up to 11 | gamescom 2025](https://dev.to/gg_news/ign-how-dying-light-the-beast-cranks-the-brutality-up-to-11-gamescom-2025-3bk2)
-- [IGN: Here&#39;s Why You Shouldn&#39;t Be Scared Of Silent Hill f&#39;s Combat | gamescom 2025](https://dev.to/gg_news/ign-heres-why-you-shouldnt-be-scared-of-silent-hill-fs-combat-gamescom-2025-1hol)
-- [IGN: Routine: We Finally Played After 13 Years of Waiting! | gamescom 2025](https://dev.to/gg_news/ign-routine-we-finally-played-after-13-years-of-waiting-gamescom-2025-2bk9)
-- [IGN: gamescom studio Day 3 Livestream 2025: Silent Hill f, ReAnimal, High on Life 2, and More](https://dev.to/gg_news/ign-gamescom-studio-day-3-livestream-2025-silent-hill-f-reanimal-high-on-life-2-and-more-2345)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Hands-On With Star Trek Klingon Battlecruiser Model!](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-hands-on-with-star-trek-klingon-battlecruiser-model-56b)
+- [No Laying Up Podcast: Seamsters Union: Brew Crew On Top | Trap Draw, Ep 355](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-brew-crew-on-top-trap-draw-ep-355-4002)
+- [Golf.com: Behind Closed Doors: The Olympic Club&#39;s Two Homes](https://dev.to/youtube_golf/golfcom-behind-closed-doors-the-olympic-clubs-two-homes-2bo3)
+- [Veritasium: This is the natural disaster to worry about](https://dev.to/future_youtube/veritasium-this-is-the-natural-disaster-to-worry-about-49gc)
+- [IGN: Vampire: The Masquerade - Bloodlines 2&#39;s Romance is Not What You Expect | gamescom 2025](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2s-romance-is-not-what-you-expect-gamescom-2025-ak9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
