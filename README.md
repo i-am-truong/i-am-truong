@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CNCF [Cloud Native Computing Foundation]: ChatLoopBackOff: Episode 68 &lpar;KANISTER&rpar;](https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-chatloopbackoff-episode-68-kanister-3p3h)
+- [GameSpot: Borderlands 4: I Haven&#39;t Been This Excited Since Borderlands 2](https://dev.to/gg_news/gamespot-borderlands-4-i-havent-been-this-excited-since-borderlands-2-3ed)
+- [Criando um compilador em csharp: Parte 7](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-7-4nc4)
 - [Lightweight ETL with AWS Lambda, DuckDB, and delta-rs](https://dev.to/aws-builders/lightweight-etl-with-aws-lambda-duckdb-and-delta-rs-1cmm)
 - [Create C# nested files in Visual Studio](https://dev.to/karenpayneoregon/create-c-nested-files-in-visual-studio-3j20)
-- [3D Printing Nerd: WORLDS LARGEST Transparent LTT Screwdriver is 3D PRINTED!](https://dev.to/maker_youtube/3d-printing-nerd-worlds-largest-transparent-ltt-screwdriver-is-3d-printed-4gji)
-- [IGN: Borderlands 4 - Official Harlowe Gameplay Overview Trailer](https://dev.to/gg_news/ign-borderlands-4-official-harlowe-gameplay-overview-trailer-22k2)
-- [IGN: Gods, Death &amp; Reapers - Official Reveal Trailer | gamescom 2025](https://dev.to/gg_news/ign-gods-death-reapers-official-reveal-trailer-gamescom-2025-4lpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
