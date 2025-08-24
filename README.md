@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 98% AI Deepfake Detector That&#39;s Dividing the Dev Community](https://dev.to/shiva_shanker_k/the-98-ai-deepfake-detector-thats-dividing-the-dev-community-2doa)
+- [SkiperJS: The Ultimate Guide for Modern Web Developers](https://dev.to/bhavy_patel_f971b2124da89/skiperjs-the-ultimate-guide-for-modern-web-developers-52bl)
 - [10 Tips for Efficient Test Case Management in Agile Projects](https://dev.to/ronika_kashyap/10-tips-for-efficient-test-case-management-in-agile-projects-427j)
 - [IGN: gamescom studio Tag 5 Livestream 2025: Indie-Special mit Cralon, Hela, Star Birds und mehr!](https://dev.to/gg_news/ign-gamescom-studio-tag-5-livestream-2025-indie-special-mit-cralon-hela-star-birds-und-mehr-36kn)
 - [Medium and the Blanket AI Ban 😶](https://dev.to/anchildress1/medium-and-the-blanket-ai-ban-2cni)
-- [Linux From Zero Part - 1🐧 What is Linux? A Simple Guide for Beginners](https://dev.to/trixsec/linux-from-zero-part-1-what-is-linux-a-simple-guide-for-beginners-3afd)
-- [How to Hide API Endpoints in Next.js](https://dev.to/bdhamithkumara/how-to-hide-api-endpoints-in-nextjs-4iij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
