@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 75: When Work Becomes Mental Survival &lpar;Not Motivation&rpar;](https://dev.to/casperday11/day-75-when-work-becomes-mental-survival-not-motivation-15lp)
 - [Submission deadline](https://dev.to/julsr_mx/submission-deadline-j1h)
 - [AWS IAM Roles Anywhere Demo](https://dev.to/johnmccuk/aws-iam-roles-anywhere-demo-3gl4)
 - [🧑‍🏫 Tutorial: How to Build a Searchable Dropdown Component in React](https://dev.to/shahjalalbu/tutorial-how-to-build-a-searchable-dropdown-component-in-react-3fi4)
 - [A Beginner’s Guide to Channels in WiFi Scanning](https://dev.to/rijultp/a-beginners-guide-to-channels-in-wifi-scanning-1648)
-- [GitNarrative Update: Added GitLab, Azure DevOps, and Bitbucket OAuth Integration](https://dev.to/grudged/gitnarrative-update-added-gitlab-azure-devops-and-bitbucket-oauth-integration-282l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
