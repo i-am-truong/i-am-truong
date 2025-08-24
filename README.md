@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [21 Fantastic React Design Patterns and When to Use Them](https://dev.to/perssondennis/21-fantastic-react-design-patterns-and-when-to-use-them-7bb)
 - [Building Your First CLI Tool](https://dev.to/anuradha9712/building-your-first-cli-tool-98h)
 - [Refactoring 032 - Apply Consistent Style Rules](https://dev.to/mcsee/refactoring-032-apply-consistent-style-rules-4fhf)
 - [Tech With Tim: How to Build an Advanced AI Agent with Search &lpar;LangGraph, Python, Bright Data &amp; More&rpar;](https://dev.to/vibe_youtube/tech-with-tim-how-to-build-an-advanced-ai-agent-with-search-langgraph-python-bright-data-more-9g5)
 - [IGN: The Biggest Game Releases of September 2025](https://dev.to/gg_news/ign-the-biggest-game-releases-of-september-2025-6f5)
-- [IGN: gamescom studio Day 4 Livestream 2025](https://dev.to/gg_news/ign-gamescom-studio-day-4-livestream-2025-4oo2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
