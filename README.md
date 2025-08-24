@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rick Beato: Unpacking The Beatles&#39; 1965 Songwriting Blueprint](https://dev.to/music_youtube/rick-beato-unpacking-the-beatles-1965-songwriting-blueprint-2mp)
 - [Day 75: When Work Becomes Mental Survival &lpar;Not Motivation&rpar;](https://dev.to/casperday11/day-75-when-work-becomes-mental-survival-not-motivation-1160)
 - [10 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/10-open-source-gems-to-become-the-ultimate-developer-dkk)
 - [Making Digital Worlds Feel Alive: My Research into Realistic Ambient Characters](https://dev.to/ericbl3/making-digital-worlds-feel-alive-my-research-into-realistic-ambient-characters-57dg)
 - [Build social features fast with mongoose-reactions — a tiny, production-ready Mongoose plugin for reactions](https://dev.to/silentwatcher_95/build-social-features-fast-with-mongoose-reactions-a-tiny-production-ready-mongoose-plugin-for-41i5)
-- [Submission deadline](https://dev.to/julsr_mx/submission-deadline-j1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
