@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1: LangChain Basics - My First Chat with Claude and Titan](https://dev.to/aws-builders/day-1-langchain-basics-my-first-chat-with-claude-and-titan-3h1f)
 - [Sync Obsidian Across Your Devices For Free, With GitHub And A Bit Of Nerve.](https://dev.to/elliot_brenya/sync-obsidian-across-your-devices-for-free-with-github-and-a-bit-of-nerve-4hdm)
 - [Running n8n Locally Without Regrets.](https://dev.to/elliot_brenya/running-n8n-locally-without-regrets-3l55)
 - [Most people start their AI journey by asking the wrong question. Which tool should I use? And that’s exactly why they burn out. Because tools change. Systems don’t. The faster you learn it, the better it will be for your growth.](https://dev.to/jaideepparashar/most-people-start-their-ai-journey-by-asking-the-wrong-question-which-tool-should-i-use-and-1m9d)
 - [Why Your AI Journey Needs a System, Not Just Tools](https://dev.to/jaideepparashar/why-your-ai-journey-needs-a-system-not-just-tools-3m85)
-- [Weekly #34-2025: AI Coding Reality, Performance ROI, and Faster Shortest Paths](https://dev.to/weekly/weekly-34-2025-ai-coding-reality-performance-roi-and-faster-shortest-paths-4gi0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
