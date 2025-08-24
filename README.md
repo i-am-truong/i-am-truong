@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Node, Python and the Daily Dev Apocalypse: Why I Escaped to Go](https://dev.to/volker_schukai/node-python-and-the-daily-dev-apocalypse-why-i-escaped-to-go-am7)
+- [Deploy a React App on Ubuntu Web Server in AWS CLoud [week-1]](https://dev.to/suvrajeet/deploy-a-react-app-on-ubuntu-web-server-in-aws-cloud-week-1-1me1)
 - [[Boost]](https://dev.to/ben/-1bp4)
 - [Frontend Performance Optimization: Best Practices for Faster Websites](https://dev.to/lovestaco/frontend-performance-optimization-best-practices-for-faster-websites-3aji)
-- [When Code Starts Talking Back: A Love-Hate Story](https://dev.to/trojanmocx/when-code-starts-talking-back-a-love-hate-story-3ml)
-- [I’m 16 and starting a 2-year challenge to make £100k before uni](https://dev.to/vulcanwm/im-16-and-starting-a-2-year-challenge-to-make-ps100k-before-uni-2i6h)
-- [GitHub Copilot&#39;s Latest Game-Changers: What Developers Need to Know Right Now](https://dev.to/gangatharan_gurusamy_22fb/github-copilots-latest-game-changers-what-developers-need-to-know-right-now-1i42)
+- [Loading One-to-Many relationships efficiently with Spring Data JPA and Postgres](https://dev.to/mcadariu/loading-one-to-many-relationships-efficiently-with-spring-data-jpa-and-postgres-1ik9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
