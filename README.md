@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [flowerrr](https://dev.to/omochan_9dfc5afa47b4f63ed/flowerrr-m90)
 - [Open source tool to get some SOL for FREE.](https://dev.to/blockexperts/open-source-tool-to-get-some-sol-for-free-2j19)
 - [Importação de Dados em Rails: Do Jeito Menos Indicado ao Otimizado 🚀🇧🇷](https://dev.to/videosdeti/importacao-de-dados-em-rails-do-jeito-menos-indicado-ao-otimizado-11pf)
 - [Why Do AI Crawlers Keep Hitting robots.txt Instead of My Content?](https://dev.to/sip/why-do-ai-crawlers-keep-hitting-robotstxt-instead-of-my-content-aif)
 - [[Boost]](https://dev.to/leee_rodgers1/-if4)
-- [Global Actors in Swift iOS](https://dev.to/arshtechpro/global-actors-in-swift-ios-1j1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
