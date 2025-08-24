@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Node, Python and the Daily Dev Apocalypse: Why I Escaped to Go](https://dev.to/volker_schukai/node-python-and-the-daily-dev-apocalypse-why-i-escaped-to-go-am7)
-- [Deploy a React App on Ubuntu Web Server in AWS CLoud [week-1]](https://dev.to/suvrajeet/deploy-a-react-app-on-ubuntu-web-server-in-aws-cloud-week-1-1me1)
-- [[Boost]](https://dev.to/ben/-1bp4)
-- [Frontend Performance Optimization: Best Practices for Faster Websites](https://dev.to/lovestaco/frontend-performance-optimization-best-practices-for-faster-websites-3aji)
-- [Loading One-to-Many relationships efficiently with Spring Data JPA and Postgres](https://dev.to/mcadariu/loading-one-to-many-relationships-efficiently-with-spring-data-jpa-and-postgres-1ik9)
+- [A Beginner’s Guide to Channels in WiFi Scanning](https://dev.to/rijultp/a-beginners-guide-to-channels-in-wifi-scanning-1648)
+- [GitNarrative Update: Added GitLab, Azure DevOps, and Bitbucket OAuth Integration](https://dev.to/grudged/gitnarrative-update-added-gitlab-azure-devops-and-bitbucket-oauth-integration-282l)
+- [GameSpot: Romeo Is A Dead Man Is Grasshopper Manufacture Firing On All Cylinders](https://dev.to/gg_news/gamespot-romeo-is-a-dead-man-is-grasshopper-manufacture-firing-on-all-cylinders-4dcf)
+- [IGN: Metal Gear Solid 3: The Complicated History of All 5 Versions Explained](https://dev.to/gg_news/ign-metal-gear-solid-3-the-complicated-history-of-all-5-versions-explained-lc)
+- [IGN: Did Sony Just Nerf Its PS5 Lifetime Sales? - Next-Gen Console Watch | gamescom 2025](https://dev.to/gg_news/ign-did-sony-just-nerf-its-ps5-lifetime-sales-next-gen-console-watch-gamescom-2025-253p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
