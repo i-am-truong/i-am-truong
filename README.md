@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Physical to Digital: The Shift in PLM Technologies](https://dev.to/hr21don/from-physical-to-digital-the-shift-in-plm-technologies-54bm)
-- [21 Fantastic React Design Patterns and When to Use Them](https://dev.to/perssondennis/21-fantastic-react-design-patterns-and-when-to-use-them-7bb)
-- [Building Your First CLI Tool](https://dev.to/anuradha9712/building-your-first-cli-tool-98h)
-- [Refactoring 032 - Apply Consistent Style Rules](https://dev.to/mcsee/refactoring-032-apply-consistent-style-rules-4fhf)
-- [Tech With Tim: How to Build an Advanced AI Agent with Search &lpar;LangGraph, Python, Bright Data &amp; More&rpar;](https://dev.to/vibe_youtube/tech-with-tim-how-to-build-an-advanced-ai-agent-with-search-langgraph-python-bright-data-more-9g5)
+- [I’m 16 and starting a 2-year challenge to make £100k before uni](https://dev.to/vulcanwm/im-16-and-starting-a-2-year-challenge-to-make-ps100k-before-uni-2i6h)
+- [GitHub Copilot&#39;s Latest Game-Changers: What Developers Need to Know Right Now](https://dev.to/gangatharan_gurusamy_22fb/github-copilots-latest-game-changers-what-developers-need-to-know-right-now-1i42)
+- [Adam Savage&#39;s Tested: The Fabrication Process Adam Savage Is Terrified to Do in His Shop &lpar;with @Nerdforge&rpar;](https://dev.to/maker_youtube/adam-savages-tested-the-fabrication-process-adam-savage-is-terrified-to-do-in-his-shop-with-29di)
+- [GameSpot: Vampire: The Masquerade Bloodlines 2 Has A Boomer Vampire In It](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-has-a-boomer-vampire-in-it-19d6)
+- [IGN: The IGN UK Podcast Back in Video For One Week Only! | gamescom 2025](https://dev.to/gg_news/ign-the-ign-uk-podcast-back-in-video-for-one-week-only-gamescom-2025-2bac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
