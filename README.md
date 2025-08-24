@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running n8n Locally Without Regrets.](https://dev.to/elliot_brenya/running-n8n-locally-without-regrets-3l55)
 - [Most people start their AI journey by asking the wrong question. Which tool should I use? And that’s exactly why they burn out. Because tools change. Systems don’t. The faster you learn it, the better it will be for your growth.](https://dev.to/jaideepparashar/most-people-start-their-ai-journey-by-asking-the-wrong-question-which-tool-should-i-use-and-1m9d)
 - [Why Your AI Journey Needs a System, Not Just Tools](https://dev.to/jaideepparashar/why-your-ai-journey-needs-a-system-not-just-tools-3m85)
 - [Weekly #34-2025: AI Coding Reality, Performance ROI, and Faster Shortest Paths](https://dev.to/weekly/weekly-34-2025-ai-coding-reality-performance-roi-and-faster-shortest-paths-4gi0)
 - [Why JSON-Serializable Rules Changed Everything: From Code Chaos to Configuration Clarity](https://dev.to/crafts69guy/why-json-serializable-rules-changed-everything-from-code-chaos-to-configuration-clarity-2c9)
-- [🛳️ Docker Series: Episode 2 — Installing Docker Without Crying &lpar;Cross-Platform Setup Guide&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-2-installing-docker-without-crying-cross-platform-setup-guide-45ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
