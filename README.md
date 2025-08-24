@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [SkiperJS: The Ultimate Guide for Modern Web Developers](https://dev.to/bhavy_patel_f971b2124da89/skiperjs-the-ultimate-guide-for-modern-web-developers-52bl)
 - [10 Tips for Efficient Test Case Management in Agile Projects](https://dev.to/ronika_kashyap/10-tips-for-efficient-test-case-management-in-agile-projects-427j)
 - [IGN: gamescom studio Tag 5 Livestream 2025: Indie-Special mit Cralon, Hela, Star Birds und mehr!](https://dev.to/gg_news/ign-gamescom-studio-tag-5-livestream-2025-indie-special-mit-cralon-hela-star-birds-und-mehr-36kn)
-- [Medium and the Blanket AI Ban 😶](https://dev.to/anchildress1/medium-and-the-blanket-ai-ban-2cni)
+- [One Command to Check How Ready Your System Is for Local AI](https://dev.to/dchif/one-command-to-check-how-ready-your-system-is-for-local-ai-16e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
