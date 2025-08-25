@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Time Tracking for Agency Owners Who Hate Time Tracking: The Stripe Approach](https://dev.to/teamcamp/time-tracking-for-agency-owners-who-hate-time-tracking-the-stripe-approach-4a3i)
+- [Is Burnout Inevitable in the World of Tech? Let&#39;s Talk About It](https://dev.to/canro91/is-burnout-inevitable-in-the-world-of-tech-lets-talk-about-it-30f5)
 - [Part-23: Compute Engine Storage Options in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-23-compute-engine-storage-options-in-google-cloud-platform-gcp-3bl4)
 - [Adaptability: The Superpower Developers Need in 2025](https://dev.to/preeti_yadav/adaptability-the-superpower-developers-need-in-2025-4p84)
 - [Here is the list of AI tools I wish every IT employee, coder, and developer should know.](https://dev.to/jaideepparashar/here-is-the-list-of-ai-tools-i-wish-every-it-employee-coder-and-developer-should-know-19db)
-- [Build AI Agents with Flutter: Developer Guide](https://dev.to/sushan_dristi_ab98c07ea8f/build-ai-agents-with-flutter-developer-guide-149i)
-- [My AI Stack for 2025 &lpar;Full Breakdown&rpar;](https://dev.to/jaideepparashar/my-ai-stack-for-2025-full-breakdown-4ej5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
