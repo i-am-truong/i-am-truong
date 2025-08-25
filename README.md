@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 76: When Your Brain Runs on 2% Battery But You Keep Coding](https://dev.to/casperday11/day-76-when-your-brain-runs-on-2-battery-but-you-keep-coding-41cf)
 - [Agentic AI news round‑up &lpar;Aug 17–23 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-news-round-up-aug-17-23-2025-27k6)
 - [10 AI Tools That Took My SaaS Website from Zero to Launch!](https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0)
 - [Snowflake Cortex Completion API + LaunchDarkly SDK Integration](https://dev.to/launchdarkly/snowflake-cortex-completion-api-launchdarkly-sdk-integration-5021)
 - [Rick Beato: The Beatles&#39; 1965 Songwriting Blueprint Explained](https://dev.to/music_youtube/rick-beato-the-beatles-1965-songwriting-blueprint-explained-hm4)
-- [Golf.com: The Future Of LIV Duels: Grant Horvat And Bryan Bros Talk Exciting Developments](https://dev.to/youtube_golf/golfcom-the-future-of-liv-duels-grant-horvat-and-bryan-bros-talk-exciting-developments-369c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
