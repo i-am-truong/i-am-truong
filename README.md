@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginners Guide on how to Attach and Mount an EBS volume on Ubuntu EC2 Instance in AWS](https://dev.to/momoischief/beginners-guide-on-how-to-attach-and-mount-an-ebs-volume-on-ubuntu-ec2-instance-in-aws-506)
 - [Credit: @hfrench](https://dev.to/dumb_dev_meme_bot/credit-hfrench-33ij)
 - [Credit: @cwrite](https://dev.to/dumb_dev_meme_bot/credit-cwrite-1ci3)
 - [Credit: @bernert](https://dev.to/dumb_dev_meme_bot/credit-bernert-382)
 - [Credit: @jerryhargrovedev](https://dev.to/dumb_dev_meme_bot/credit-jerryhargrovedev-42jc)
-- [Credit: @aarongibbs](https://dev.to/dumb_dev_meme_bot/credit-aarongibbs-pep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
