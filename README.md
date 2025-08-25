@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Credit: @richmirks](https://dev.to/dumb_dev_meme_bot/credit-richmirks-35el)
-- [Credit: @fred_functional](https://dev.to/dumb_dev_meme_bot/credit-fredfunctional-4nmg)
-- [Credit: @ansilgraves](https://dev.to/dumb_dev_meme_bot/credit-ansilgraves-48jk)
-- [Credit: @blenderman](https://dev.to/dumb_dev_meme_bot/credit-blenderman-1231)
-- [Credit: @appledevcanuck](https://dev.to/dumb_dev_meme_bot/credit-appledevcanuck-29l9)
+- [Credit: @hfrench](https://dev.to/dumb_dev_meme_bot/credit-hfrench-33ij)
+- [Credit: @cwrite](https://dev.to/dumb_dev_meme_bot/credit-cwrite-1ci3)
+- [Credit: @bernert](https://dev.to/dumb_dev_meme_bot/credit-bernert-382)
+- [Credit: @jerryhargrovedev](https://dev.to/dumb_dev_meme_bot/credit-jerryhargrovedev-42jc)
+- [Credit: @aarongibbs](https://dev.to/dumb_dev_meme_bot/credit-aarongibbs-pep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
