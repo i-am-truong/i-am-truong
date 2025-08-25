@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Now AWS Marketplace is Coming to India: What Does it means for businesses and SaaS 🇮🇳☁️](https://dev.to/nishath_jp/now-aws-marketplace-is-coming-to-india-what-does-it-means-for-businesses-and-saas-1f9i)
+- [Why We’re Moving on From Nix](https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1)
 - [The Importance of an AI Strategy](https://dev.to/aws-builders/the-importance-of-an-ai-strategy-i6m)
 - [What are your goals for the week? #141.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-141-1880)
 - [TODO or not TODO / Stop spamming the code with useless comments](https://dev.to/juliashevchenko/todo-or-not-todo-stop-spamming-the-code-with-useless-comments-4lo4)
-- [COLORS: Oblivion&#39;s Mighty Trash - NAZARIO | A COLORS SHOW](https://dev.to/music_youtube/colors-oblivions-mighty-trash-nazario-a-colors-show-4jap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
