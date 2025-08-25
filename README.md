@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on using AI for software development](https://dev.to/sapegin/thoughts-on-using-ai-for-software-development-539b)
+- [Optimizing Nuxt Apps for Core Web Vitals](https://dev.to/jacobandrewsky/optimizing-nuxt-apps-for-core-web-vitals-106j)
 - [Why Developers Should Care About Access Control](https://dev.to/alex_deg/why-developers-should-care-about-access-control-31b2)
 - [Code Automation vs No-Code Automation: A Developer’s Perspective](https://dev.to/alifar/code-automation-vs-no-code-automation-a-developers-perspective-2hhe)
 - [🌟 Automating Cover Letters with Portia AI: My AgentHack 2025 Journey](https://dev.to/pravesh_sudha_3c2b0c2b5e0/automating-cover-letters-with-portia-ai-my-agenthack-2025-journey-mnf)
-- [Behind the Magic: How AI Actually Thinks When You Ask It Something](https://dev.to/shiva_shanker_k/behind-the-magic-how-ai-actually-thinks-when-you-ask-it-something-4f46)
-- [19 JavaScript One-Liners That’ll Blow Your Mind](https://dev.to/devshefali/19-javascript-one-liners-thatll-blow-your-mind-15cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
