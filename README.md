@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Now AWS Marketplace is Coming to India: What Does it means for businesses and SaaS 🇮🇳☁️](https://dev.to/nishath_jp/now-aws-marketplace-is-coming-to-india-what-does-it-means-for-businesses-and-saas-1f9i)
-- [Why We’re Moving on From Nix](https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1)
-- [The Importance of an AI Strategy](https://dev.to/aws-builders/the-importance-of-an-ai-strategy-i6m)
-- [What are your goals for the week? #141.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-141-1880)
-- [TODO or not TODO / Stop spamming the code with useless comments](https://dev.to/juliashevchenko/todo-or-not-todo-stop-spamming-the-code-with-useless-comments-4lo4)
+- [Rick Beato: The Beatles&#39; 1965 Songwriting Blueprint Explained](https://dev.to/music_youtube/rick-beato-the-beatles-1965-songwriting-blueprint-explained-hm4)
+- [Golf.com: The Future Of LIV Duels: Grant Horvat And Bryan Bros Talk Exciting Developments](https://dev.to/youtube_golf/golfcom-the-future-of-liv-duels-grant-horvat-and-bryan-bros-talk-exciting-developments-369c)
+- [Peter Finch Golf: Peter Finch 🇬🇧 vs 🇺🇸 Garrett Clark &lpar;GM GOLF&rpar; | Stroke Play](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-garrett-clark-gm-golf-stroke-play-1hie)
+- [IGN: Borderlands 4&#39;s Kairos Booth &amp; Game Story Overview | gamescom 2025](https://dev.to/gg_news/ign-borderlands-4s-kairos-booth-game-story-overview-gamescom-2025-2adf)
+- [IGN: Zoochosis - Exclusive PlayStation Launch Trailer](https://dev.to/gg_news/ign-zoochosis-exclusive-playstation-launch-trailer-ej4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
