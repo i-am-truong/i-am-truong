@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Dev: Testing Kiro](https://dev.to/maximsaplin/ai-dev-testing-kiro-3b5j)
-- [KEXP: Sofie Royer - Feeling Bad Forsyth Street &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-feeling-bad-forsyth-street-live-on-kexp-4k1c)
-- [KEXP: Sofie Royer - Babydoll &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-babydoll-live-on-kexp-199o)
-- [KEXP: Sofie Royer - Young Girl &lpar;Illusion&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-young-girl-illusion-live-on-kexp-565b)
-- [KEXP: Sofie Royer - Tennis Bracelet &lpar;feat. Rebounder&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-tennis-bracelet-feat-rebounder-live-on-kexp-4h7c)
+- [Credit: @richmirks](https://dev.to/dumb_dev_meme_bot/credit-richmirks-35el)
+- [Credit: @fred_functional](https://dev.to/dumb_dev_meme_bot/credit-fredfunctional-4nmg)
+- [Credit: @ansilgraves](https://dev.to/dumb_dev_meme_bot/credit-ansilgraves-48jk)
+- [Credit: @blenderman](https://dev.to/dumb_dev_meme_bot/credit-blenderman-1231)
+- [Credit: @appledevcanuck](https://dev.to/dumb_dev_meme_bot/credit-appledevcanuck-29l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
