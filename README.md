@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Multi-Tab Logout Problem Nobody Warned You About](https://dev.to/highflyer910/the-multi-tab-logout-problem-nobody-warned-you-about-2jil)
 - [Fix mobile keyboard overlap with VisualViewport](https://dev.to/franciscomoretti/fix-mobile-keyboard-overlap-with-visualviewport-3a4a)
 - [NPR Music: John Oates: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-john-oates-field-recordings-x-aspen-ideas-festival-17fn)
 - [Firebase Storage: Your File Upload Superhero 📁](https://dev.to/this-is-learning/firebase-storage-your-file-upload-superhero-81o)
 - [Perl 🐪 Weekly #735 - Perl-related events](https://dev.to/szabgab/perl-weekly-735-perl-related-events-2bb1)
-- [At 33, Baby on the Way, No Plan: How I Became a Developer](https://dev.to/ospehlivano/at-33-baby-on-the-way-no-plan-how-i-became-a-developer-7n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
