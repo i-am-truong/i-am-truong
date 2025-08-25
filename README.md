@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Midnight Network Challenge Update: Technical Walkthrough &amp; Discord Support](https://dev.to/devteam/midnight-network-challenge-update-technical-walkthrough-discord-support-ke9)
-- [Apache Iceberg Dev Mailing List — Weekly Digest &lpar;Aug 17–23 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-mailing-list-weekly-digest-aug-17-23-2025-4ipe)
-- [Apache Polaris Dev Mailing List — Weekly Digest &lpar;Aug 17–23 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-mailing-list-weekly-digest-aug-17-23-2025-933)
-- [🛠️ Stop Fighting CSS : 7 Clever Hacks for Smoother Styling](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-fighting-css-7-clever-hacks-for-smoother-styling-1bo3)
-- [Beginners Guide on how to Attach and Mount an EBS volume on Ubuntu EC2 Instance in AWS](https://dev.to/momoischief/beginners-guide-on-how-to-attach-and-mount-an-ebs-volume-on-ubuntu-ec2-instance-in-aws-506)
+- [What are your goals for the week? #141.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-141-1880)
+- [TODO or not TODO / Stop spamming the code with useless comments](https://dev.to/juliashevchenko/todo-or-not-todo-stop-spamming-the-code-with-useless-comments-4lo4)
+- [COLORS: Oblivion&#39;s Mighty Trash - NAZARIO | A COLORS SHOW](https://dev.to/music_youtube/colors-oblivions-mighty-trash-nazario-a-colors-show-4jap)
+- [KEXP: Sofie Royer - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-full-performance-live-on-kexp-575)
+- [Go’s unsafe: Unlocking Performance Hacks with a Risk](https://dev.to/leapcell/gos-unsafe-unlocking-performance-hacks-with-a-risk-4dgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
