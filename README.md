@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mutiny is Live: Where Ideas Find Their People and Capital Finds Its Purpose](https://dev.to/casperday11/mutiny-is-live-where-ideas-find-their-people-and-capital-finds-its-purpose-5e05)
 - [The Hidden UIKit: SwiftUI Components Under the Hood in iOS 16+](https://dev.to/arshtechpro/the-hidden-uikit-swiftui-components-under-the-hood-in-ios-16-2oj6)
 - [Creating Your First Repo](https://dev.to/theoriginalbpc/creating-your-first-repo-5bd)
 - [AI for Requirements: PRD, ERD, Swimlanes, and Flows from a Simple Prompt](https://dev.to/aaronksaunders/ai-for-requirements-prd-erd-swimlanes-and-flows-from-a-simple-prompt-13al)
 - [Hidden in Plain Sight - Steganography](https://dev.to/michi/hidden-in-plain-sight-5hc3)
-- [Getting Started with Network Probing using Bettercap](https://dev.to/rijultp/getting-started-with-network-probing-using-bettercap-2gd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
