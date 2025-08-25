@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix mobile keyboard overlap with VisualViewport](https://dev.to/franciscomoretti/fix-mobile-keyboard-overlap-with-visualviewport-3a4a)
+- [NPR Music: John Oates: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-john-oates-field-recordings-x-aspen-ideas-festival-17fn)
+- [Firebase Storage: Your File Upload Superhero 📁](https://dev.to/this-is-learning/firebase-storage-your-file-upload-superhero-81o)
 - [Perl 🐪 Weekly #735 - Perl-related events](https://dev.to/szabgab/perl-weekly-735-perl-related-events-2bb1)
 - [At 33, Baby on the Way, No Plan: How I Became a Developer](https://dev.to/ospehlivano/at-33-baby-on-the-way-no-plan-how-i-became-a-developer-7n3)
-- [The Psychology of Code Reviews - How to Give and Receive Feedback That Actually Helps](https://dev.to/vadym_info_polus/the-psychology-of-code-reviews-how-to-give-and-receive-feedback-that-actually-helps-51d9)
-- [Google’s Breakthrough: More Private Data, Less Risk with Adaptive AI](https://dev.to/aiwithapex/googles-breakthrough-more-private-data-less-risk-with-adaptive-ai-145c)
-- [Adding Comments In Your Django Project](https://dev.to/sumanayak/adding-comments-in-your-django-project-4oan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
