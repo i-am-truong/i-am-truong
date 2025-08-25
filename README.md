@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [19 JavaScript One-Liners That’ll Blow Your Mind](https://dev.to/devshefali/19-javascript-one-liners-thatll-blow-your-mind-15cn)
 - [Free Burndown chart Generator tool with agile developer guide](https://dev.to/pratham_naik_project_manager/free-burndown-chart-generator-tool-with-agile-developer-guide-2j93)
 - [Free Burndown Chart Generator: The Developer’s Guide to Agile Sprint Tracking in 2025](https://dev.to/naik_sejal/free-burndown-chart-generator-the-developers-guide-to-agile-sprint-tracking-in-2025-2hbm)
 - [Azure immutable backups: Protecting your data from ransomware and insider threats](https://dev.to/techielass/azure-immutable-backups-protecting-your-data-from-ransomware-and-insider-threats-3i8)
 - [🚀 From DSA to Deployment: What a Real Full-Stack Job Interview Looks Like in 2025](https://dev.to/finalroundai/from-dsa-to-deployment-what-a-real-full-stack-job-interview-looks-like-in-2025-3ibo)
-- [Perpetual Calendar--Programming Practice](https://dev.to/esproc_spl/perpetual-calendar-programming-practice-1n57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
