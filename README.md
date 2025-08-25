@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenMQTT Gateway for Radio Frequency Signals](https://dev.to/admantium/openmqtt-gateway-for-radio-frequency-signals-5gdm)
+- [What Meta can teach us about designing storage systems that scale to billions of users](https://dev.to/fahimulhaq/what-meta-can-teach-us-about-designing-storage-systems-that-scale-to-billions-of-users-3g8m)
 - [Time Tracking for Agency Owners Who Hate Time Tracking: The Stripe Approach](https://dev.to/teamcamp/time-tracking-for-agency-owners-who-hate-time-tracking-the-stripe-approach-4a3i)
 - [Is Burnout Inevitable in the World of Tech? Let&#39;s Talk About It](https://dev.to/canro91/is-burnout-inevitable-in-the-world-of-tech-lets-talk-about-it-30f5)
 - [Part-23: Compute Engine Storage Options in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-23-compute-engine-storage-options-in-google-cloud-platform-gcp-3bl4)
-- [Adaptability: The Superpower Developers Need in 2025](https://dev.to/preeti_yadav/adaptability-the-superpower-developers-need-in-2025-4p84)
-- [Here is the list of AI tools I wish every IT employee, coder, and developer should know.](https://dev.to/jaideepparashar/here-is-the-list-of-ai-tools-i-wish-every-it-employee-coder-and-developer-should-know-19db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
