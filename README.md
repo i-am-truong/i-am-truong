@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 From DSA to Deployment: What a Real Full-Stack Job Interview Looks Like in 2025](https://dev.to/finalroundai/from-dsa-to-deployment-what-a-real-full-stack-job-interview-looks-like-in-2025-3ibo)
+- [Perpetual Calendar--Programming Practice](https://dev.to/esproc_spl/perpetual-calendar-programming-practice-1n57)
 - [OpenMQTT Gateway for Radio Frequency Signals](https://dev.to/admantium/openmqtt-gateway-for-radio-frequency-signals-5gdm)
 - [What Meta can teach us about designing storage systems that scale to billions of users](https://dev.to/fahimulhaq/what-meta-can-teach-us-about-designing-storage-systems-that-scale-to-billions-of-users-3g8m)
 - [Time Tracking for Agency Owners Who Hate Time Tracking: The Stripe Approach](https://dev.to/teamcamp/time-tracking-for-agency-owners-who-hate-time-tracking-the-stripe-approach-4a3i)
-- [Is Burnout Inevitable in the World of Tech? Let&#39;s Talk About It](https://dev.to/canro91/is-burnout-inevitable-in-the-world-of-tech-lets-talk-about-it-30f5)
-- [Part-23: Compute Engine Storage Options in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-23-compute-engine-storage-options-in-google-cloud-platform-gcp-3bl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
