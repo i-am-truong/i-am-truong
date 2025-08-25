@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Your First Repo](https://dev.to/theoriginalbpc/creating-your-first-repo-5bd)
+- [AI for Requirements: PRD, ERD, Swimlanes, and Flows from a Simple Prompt](https://dev.to/aaronksaunders/ai-for-requirements-prd-erd-swimlanes-and-flows-from-a-simple-prompt-13al)
 - [Hidden in Plain Sight - Steganography](https://dev.to/michi/hidden-in-plain-sight-5hc3)
 - [Getting Started with Network Probing using Bettercap](https://dev.to/rijultp/getting-started-with-network-probing-using-bettercap-2gd3)
 - [I built Kostudy - An AI-first, fully-featured, open source, universal education web app](https://dev.to/youssefimlyhen/i-built-kostudy-an-ai-first-fully-featured-open-source-universal-education-web-app-lc5)
-- [Day 76: When Your Brain Runs on 2% Battery But You Keep Coding](https://dev.to/casperday11/day-76-when-your-brain-runs-on-2-battery-but-you-keep-coding-41cf)
-- [Agentic AI news round‑up &lpar;Aug 17–23 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-news-round-up-aug-17-23-2025-27k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
