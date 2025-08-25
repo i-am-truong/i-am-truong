@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering TypeScript from Scratch – Part 2: Intermediate Concepts](https://dev.to/usman_awan/mastering-typescript-from-scratch-part-2-intermediate-concepts-pi5)
-- [Thoughts on using AI for software development](https://dev.to/sapegin/thoughts-on-using-ai-for-software-development-539b)
-- [Optimizing Nuxt Apps for Core Web Vitals](https://dev.to/jacobandrewsky/optimizing-nuxt-apps-for-core-web-vitals-106j)
-- [Why Developers Should Care About Access Control](https://dev.to/alex_deg/why-developers-should-care-about-access-control-31b2)
-- [Code Automation vs No-Code Automation: A Developer’s Perspective](https://dev.to/alifar/code-automation-vs-no-code-automation-a-developers-perspective-2hhe)
+- [Perl 🐪 Weekly #735 - Perl-related events](https://dev.to/szabgab/perl-weekly-735-perl-related-events-2bb1)
+- [At 33, Baby on the Way, No Plan: How I Became a Developer](https://dev.to/ospehlivano/at-33-baby-on-the-way-no-plan-how-i-became-a-developer-7n3)
+- [The Psychology of Code Reviews - How to Give and Receive Feedback That Actually Helps](https://dev.to/vadym_info_polus/the-psychology-of-code-reviews-how-to-give-and-receive-feedback-that-actually-helps-51d9)
+- [Google’s Breakthrough: More Private Data, Less Risk with Adaptive AI](https://dev.to/aiwithapex/googles-breakthrough-more-private-data-less-risk-with-adaptive-ai-145c)
+- [Adding Comments In Your Django Project](https://dev.to/sumanayak/adding-comments-in-your-django-project-4oan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
