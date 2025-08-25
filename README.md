@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of an AI Strategy](https://dev.to/aws-builders/the-importance-of-an-ai-strategy-i6m)
 - [What are your goals for the week? #141.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-141-1880)
 - [TODO or not TODO / Stop spamming the code with useless comments](https://dev.to/juliashevchenko/todo-or-not-todo-stop-spamming-the-code-with-useless-comments-4lo4)
 - [COLORS: Oblivion&#39;s Mighty Trash - NAZARIO | A COLORS SHOW](https://dev.to/music_youtube/colors-oblivions-mighty-trash-nazario-a-colors-show-4jap)
 - [KEXP: Sofie Royer - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-full-performance-live-on-kexp-575)
-- [Go’s unsafe: Unlocking Performance Hacks with a Risk](https://dev.to/leapcell/gos-unsafe-unlocking-performance-hacks-with-a-risk-4dgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
