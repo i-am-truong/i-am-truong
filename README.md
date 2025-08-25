@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Live Demo] Automate a Viral Newsletter Using n8n + Real-Time Web Data](https://dev.to/n8n/live-demo-automate-a-viral-newsletter-using-n8n-real-time-web-data-34jc)
 - [Laravel Project Backup to Azure Blob with Bash Script](https://dev.to/edgaras/laravel-project-backup-to-azure-blob-with-bash-script-3ke)
 - [How to Use Weak Pointers in Go 1.24](https://dev.to/leapcell/how-to-use-weak-pointers-in-go-124-2i6j)
 - [Mutiny is Live: Where Ideas Find Their People and Capital Finds Its Purpose](https://dev.to/casperday11/mutiny-is-live-where-ideas-find-their-people-and-capital-finds-its-purpose-5e05)
 - [The Hidden UIKit: SwiftUI Components Under the Hood in iOS 16+](https://dev.to/arshtechpro/the-hidden-uikit-swiftui-components-under-the-hood-in-ios-16-2oj6)
-- [Creating Your First Repo](https://dev.to/theoriginalbpc/creating-your-first-repo-5bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
