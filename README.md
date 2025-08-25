@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Expose localhost to the network using Cloudflare Tunnel](https://dev.to/arbab529/expose-localhost-to-the-network-using-cloudflare-tunnel-33ge)
 - [olá mundo](https://dev.to/ben/ola-mundo-4191)
 - [🌟 My Experience at ETH New York 2025](https://dev.to/julsr_mx/my-experience-at-eth-new-york-2025-3j83)
 - [[Live Demo] Automate a Viral Newsletter Using n8n + Real-Time Web Data](https://dev.to/n8n/live-demo-automate-a-viral-newsletter-using-n8n-real-time-web-data-34jc)
-- [Laravel Project Backup to Azure Blob with Bash Script](https://dev.to/edgaras/laravel-project-backup-to-azure-blob-with-bash-script-3ke)
-- [How to Use Weak Pointers in Go 1.24](https://dev.to/leapcell/how-to-use-weak-pointers-in-go-124-2i6j)
+- [What is Robotic Process Automation &lpar;RPA&rpar;? And How Does It Differ from AI?](https://dev.to/manolakeris/what-is-robotic-process-automation-rpa-and-how-does-it-differ-from-ai-3n4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
