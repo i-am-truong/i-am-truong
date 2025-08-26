@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Small Business Buyer’s Guide to QR Code Generators &lpar;2025&rpar;](https://dev.to/joywinter90/the-small-business-buyers-guide-to-qr-code-generators-2025-4d7f)
-- [Rolling Forward: The Future of Seamless Deployments with DevOps and Rolling Updates](https://dev.to/vjnvisakh/rolling-forward-the-future-of-seamless-deployments-with-devops-and-rolling-updates-1bej)
-- [Best Free Digital Business Cards in 2025: Top Platforms Compared](https://dev.to/joywinter90/best-free-digital-business-cards-in-2025-top-platforms-compared-l3a)
-- [Array Methods Every Programmer Should Know](https://dev.to/lourdesyang1023/array-methods-every-programmer-should-know-3b5o)
-- [How Much Code Do You Actually Own? 🤔](https://dev.to/umang_suthar_9bad6f345a8a/how-much-code-do-you-actually-own-30il)
+- [Introduction to GraphQL: Basics and Examples](https://dev.to/lourdesyang1023/introduction-to-graphql-basics-and-examples-5868)
+- [From Indexes to GPUs: The Evolution of Database Optimization](https://dev.to/xinjie_zou_d67d2805538130/from-indexes-to-gpus-the-evolution-of-database-optimization-5d5j)
+- [Mejores VPN para Parrot OS: Privacidad y Seguridad en tu Sistema Linux](https://dev.to/toufiq_b4073908fdc8953fd2/mejores-vpn-para-parrot-os-privacidad-y-seguridad-en-tu-sistema-linux-5ela)
+- [How to Access Custom HTTP Headers in Your C# MCP Server](https://dev.to/_neronotte/how-to-access-custom-http-headers-in-your-c-mcp-server-heb)
+- [The Deployment Error That Nearly Took Down My App](https://dev.to/leena_malhotra_355340d89c/the-deployment-error-that-nearly-took-down-my-app-4fed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
