@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Mock Interview：Real-time AI mock interviews enhance interview skills](https://dev.to/jackm_345442a09fb53b/ai-mock-interviewreal-time-ai-mock-interviews-enhance-interview-skills-43b7)
 - [Your First Day, Powered by AI: How to Welcome New Hires with a Personalized, Engaging Experience](https://dev.to/sonu_kumar_0b99b256a515bb/your-first-day-powered-by-ai-how-to-welcome-new-hires-with-a-personalized-engaging-experience-5a73)
 - [Business Case: E-Commerce Platform for a Niche Market](https://dev.to/oscarrobertstar/business-case-e-commerce-platform-for-a-niche-market-2kj9)
 - [k-NN Classification and Model Evaluation](https://dev.to/mortylen/k-nn-classification-and-model-evaluation-2of7)
 - [Thirdparty dependencies with FetchContent](https://dev.to/pikotutorial/thirdparty-dependencies-with-fetchcontent-2k4o)
-- [Data Modeling: From Basics to Advanced Techniques for Business Impact](https://dev.to/andrey_s/data-modeling-from-basics-to-advanced-techniques-for-business-impact-16fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
