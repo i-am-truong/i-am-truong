@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Test Zapier Webhooks Locally with Tunnelmole](https://dev.to/robbiecahill/how-to-test-zapier-webhooks-locally-with-tunnelmole-1g0)
-- [Telegram Webhook: A Developer&#39;s Guide to Local Testing](https://dev.to/robbiecahill/telegram-webhook-a-developers-guide-to-local-testing-372i)
-- [Ask why every time.....](https://dev.to/manikandan_a8f99e0153ef77/ask-why-every-time-32j8)
-- [How to Test Twilio Webhooks Locally: A Step-by-Step Guide](https://dev.to/robbiecahill/how-to-test-twilio-webhooks-locally-a-step-by-step-guide-49n9)
-- [Gateway API: The Future of Kubernetes Networking &amp; Successor to the Ingress API](https://dev.to/kelvinmanavar/gateway-api-the-future-of-kubernetes-networking-successor-to-the-ingress-api-5hjn)
+- [Part-25: 🚀Google Cloud – Create, Attach Persistent Disk to VM and Resize Boot and Data Disks in GCP](https://dev.to/latchudevops/part-25-google-cloud-create-attach-persistent-disk-to-vm-and-resize-boot-and-data-disks-in-gcp-4b35)
+- [The Agent Paradox: Why AI Agents Shine in Demos But Stumble in Production](https://dev.to/lukehinds/the-agent-paradox-why-ai-agents-shine-in-demos-but-stumble-in-production-1he1)
+- [Guepard File System: Rethinking Database-Per-Tenant Architecture](https://dev.to/guepardrun/guepard-file-system-rethinking-database-per-tenant-architecture-4hbo)
+- [Getting Started with Python — Part 2](https://dev.to/chinyereunamba/getting-started-with-python-part-2-3km5)
+- [Supercharge Your i18next Workflow with a Real-Time, Persistent Cache](https://dev.to/adrai/supercharge-your-i18next-workflow-with-a-real-time-persistent-cache-32eb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
