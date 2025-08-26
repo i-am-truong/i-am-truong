@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Breakthrough: More Private Data, Less Risk with Adaptive AI](https://dev.to/aiwithapex/googles-breakthrough-more-private-data-less-risk-with-adaptive-ai-3li0)
-- [useMergedRefs: The Essential Custom Hook for Component Composition](https://dev.to/childrentime/usemergedrefs-the-essential-custom-hook-for-component-composition-5fp5)
-- [Quantitative Market Research: Unveiling Data-Driven Insights for Business Growth](https://dev.to/mitchell_idusher/quantitative-market-research-unveiling-data-driven-insights-for-business-growth-pfh)
-- [[Boost]](https://dev.to/hadil/-4a8e)
-- [I Supercharged My Browser GPT with Rust and WebAssembly: The Journey to a Dual-Engine AI](https://dev.to/xzdes/i-supercharged-my-browser-gpt-with-rust-and-webassembly-the-journey-to-a-dual-engine-ai-3ili)
+- [How Much Code Do You Actually Own? 🤔](https://dev.to/umang_suthar_9bad6f345a8a/how-much-code-do-you-actually-own-30il)
+- [I Rebuilt the Ergast F1 Database with Live Data &lpar;and Here&#39;s What I Learned&rpar;](https://dev.to/raceoptidata/i-rebuilt-the-ergast-f1-database-with-live-data-and-heres-what-i-learned-4bnj)
+- [How To Configure Microsoft Defender for Cloud Enhanced Security Features for Servers](https://dev.to/ajayid10/how-to-configure-microsoft-defender-for-cloud-enhanced-security-features-for-servers-4j58)
+- [🚀 30+ AWS Lab Challenge – Part 1: Hosting with Elastic Beanstalk](https://dev.to/centdxv/30-aws-lab-challenge-part-1-hosting-with-elastic-beanstalk-2mio)
+- [Shib RSI Bollinger Bands Support Resistance: Surprising Market Secrets Traders Are Discovering Now](https://dev.to/johndoe798_4dd7ce5b77e1a/shib-rsi-bollinger-bands-support-resistance-surprising-market-secrets-traders-are-discovering-now-56i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
