@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This week&#39;s ship: Expensely 🪙](https://dev.to/shravzzv/this-weeks-ship-expensely-5d7f)
+- [My honest take a year into building AI copilots for top YC startups](https://dev.to/jesseliii/my-honest-take-a-year-into-building-ai-copilots-for-top-yc-startups-1o7l)
+- [is RAG dead? nope—it learned to drive](https://dev.to/prkskrs/is-rag-dead-nope-it-learned-to-drive-1kih)
 - [Track Your Developer Advocate Impact Like a Pro with DevRel MCP](https://dev.to/labeveryday/track-your-developer-advocate-impact-like-a-pro-with-devrel-mcp-32k6)
 - [Mobile Application Security Testing](https://dev.to/radia2025/mobile-application-security-testing-2ben)
-- [Learning the Single Responsibility Principle with Snapshot Tests](https://dev.to/it-wibrc/learning-the-single-responsibility-principle-with-snapshot-tests-48om)
-- [Still time to get your questions in!](https://dev.to/ben/still-time-to-get-your-questions-in-5706)
-- [How to Get Your App on the App Store &amp; Google Play: Step-by-Step Guide](https://dev.to/getstreamhq/how-to-get-your-app-on-the-app-store-google-play-step-by-step-guide-32of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
