@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Docker and Docker Compose: Beginners Guide](https://dev.to/walnold/introduction-to-docker-and-docker-compose-beginners-guide-3k2h)
 - [Open Source RN Animated Glows, highly performant, with 20+ free presets](https://dev.to/steven_baltay_fe45cb6047b/open-source-rn-animated-glows-highly-performant-with-20-free-presets-48bl)
 - [I’m glad to share that I have successfully completed the main technical track of the Cybersecurity Academy scholarship](https://dev.to/seifeldienahmad/im-glad-to-share-that-i-have-successfully-completed-the-main-technical-track-of-the-cybersecurity-3d2)
 - [The Struggle Between AI Automation and Developer Creativity](https://dev.to/kevinasutton/the-struggle-between-ai-automation-and-developer-creativity-4c9j)
 - [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_74898956/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-4i1)
-- [🚀 Infrastructure as Code without Cloud? Yes, it’s possible!](https://dev.to/naji_i/infrastructure-as-code-without-cloud-yes-its-possible-eje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
