@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Small Business Buyer’s Guide to QR Code Generators &lpar;2025&rpar;](https://dev.to/joywinter90/the-small-business-buyers-guide-to-qr-code-generators-2025-4d7f)
+- [Rolling Forward: The Future of Seamless Deployments with DevOps and Rolling Updates](https://dev.to/vjnvisakh/rolling-forward-the-future-of-seamless-deployments-with-devops-and-rolling-updates-1bej)
+- [Best Free Digital Business Cards in 2025: Top Platforms Compared](https://dev.to/joywinter90/best-free-digital-business-cards-in-2025-top-platforms-compared-l3a)
+- [Array Methods Every Programmer Should Know](https://dev.to/lourdesyang1023/array-methods-every-programmer-should-know-3b5o)
 - [How Much Code Do You Actually Own? 🤔](https://dev.to/umang_suthar_9bad6f345a8a/how-much-code-do-you-actually-own-30il)
-- [I Rebuilt the Ergast F1 Database with Live Data &lpar;and Here&#39;s What I Learned&rpar;](https://dev.to/raceoptidata/i-rebuilt-the-ergast-f1-database-with-live-data-and-heres-what-i-learned-4bnj)
-- [How To Configure Microsoft Defender for Cloud Enhanced Security Features for Servers](https://dev.to/ajayid10/how-to-configure-microsoft-defender-for-cloud-enhanced-security-features-for-servers-4j58)
-- [🚀 30+ AWS Lab Challenge – Part 1: Hosting with Elastic Beanstalk](https://dev.to/centdxv/30-aws-lab-challenge-part-1-hosting-with-elastic-beanstalk-2mio)
-- [Shib RSI Bollinger Bands Support Resistance: Surprising Market Secrets Traders Are Discovering Now](https://dev.to/johndoe798_4dd7ce5b77e1a/shib-rsi-bollinger-bands-support-resistance-surprising-market-secrets-traders-are-discovering-now-56i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
