@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Code an Agentic App in Under 7 Minutes](https://dev.to/copilotkit/vibe-code-an-agentic-app-in-under-7-minutes-1dce)
+- [How to Create a Random Color Generator in JavaScript](https://dev.to/sevaki_rajasekar_700822f9/how-to-create-a-random-color-generator-in-javascript-1k5f)
+- [Build a Random Background Color Changer with JavaScript](https://dev.to/megha_m/build-a-random-background-color-changer-with-javascript-380k)
 - [JavaScript Project: Random Hex Color Generator](https://dev.to/s_mathavi_2fa1e3ea8514f34/javascript-project-random-hex-color-generator-53gl)
 - [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
-- [Meet Surveilr: The SQL-First Platform That Turns Any Resource Into Compliance Gold](https://dev.to/mukhtar_onif/meet-surveilr-the-sql-first-platform-that-turns-any-resource-into-compliance-gold-2cn3)
-- [The Complete Guide to AI-SEO in 2026](https://dev.to/shubhamkhatik/the-complete-guide-to-ai-seo-in-2026-1j54)
-- [Cómo optimicé mi portfolio con Astro](https://dev.to/raidrdev/como-optimice-mi-portfolio-con-astro-lnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
