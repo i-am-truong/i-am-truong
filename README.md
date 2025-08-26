@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On with MongoDB Atlas: Storing, Querying, and Analyzing Data](https://dev.to/rakesh_pranavks23cb037/hands-on-with-mongodb-atlas-storing-querying-and-analyzing-data-2i7p)
-- [Claude Code: From Zero to Hero](https://dev.to/dani_avila7/claude-code-from-zero-to-hero-4kcm)
-- [Observability Part 2 – Metrics &amp; Dashboards with Prometheus and Grafana](https://dev.to/jungledev/observability-part-2-metrics-dashboards-with-prometheus-and-grafana-fib)
-- [Google Gemini 2.5 Flash-Image: How Google Is Pushing AI Boundaries](https://dev.to/alifar/google-gemini-25-flash-image-how-google-is-pushing-ai-boundaries-2dkh)
-- [Grant Horvat: Grant Horvat Vs Dude Perfect &lpar;Stroke Play&rpar;](https://dev.to/youtube_golf/grant-horvat-grant-horvat-vs-dude-perfect-stroke-play-m6g)
+- [Show HN: A framework for building custom linters in Python &lpar;supports YAML, TOML, JSON too&rpar;](https://dev.to/mrpunkdasilva/show-hn-a-framework-for-building-custom-linters-in-python-supports-yaml-toml-json-too-30ac)
+- [Real Developers, Real Results: How Additional Context Menus Transformed Daily Workflows 🌟](https://dev.to/vijay431/real-developers-real-results-how-additional-context-menus-transformed-daily-workflows-13m1)
+- [The Lazy Genius Inside Your Chatbot: Meet MoD, the Art of Thinking Less but Smarter](https://dev.to/naresh_82de734ade4c1c66d9/the-lazy-genius-inside-your-chatbot-meet-mod-the-art-of-thinking-less-but-smarter-4g70)
+- [From X &lpar;Twitter&rpar; Free API to Basic/Pro: How Postly Retired BYO Keys and Shipped a Managed “X-Pro” Integration &lpar;No Fallback&rpar;](https://dev.to/paul_onu_a2fb9ffcca2d9ede/from-x-twitter-free-api-to-basicpro-how-postly-retired-byo-keys-and-shipped-a-managed-x-pro-1k7)
+- [Show HN: Explore the history of any GitHub repository like a code archaeologist](https://dev.to/mrpunkdasilva/show-hn-diggitdev-explore-the-history-of-any-github-repository-like-a-code-archaeologist-4681)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
