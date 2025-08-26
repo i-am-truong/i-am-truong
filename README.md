@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitOps and DevOps: Are they the same thing?](https://dev.to/techielass/gitops-and-devops-are-they-the-same-thing-2kcn)
-- [The Awareness Paradox — How Attention Makes Us Brilliant and Blind🧠🔦🤹](https://dev.to/abhishek_gautam-01/the-awareness-paradox-how-attention-makes-us-brilliant-and-blind-4icc)
-- [JustSimple.tools – A Curated Directory of Simple Tools for Indie Hackers](https://dev.to/killer_scofield_d2f41df11/justsimpletools-a-curated-directory-of-simple-tools-for-indie-hackers-4o35)
-- [Building EUDR Compliance Made Simple: A Complete Guide to www.eudr-api.eu](https://dev.to/marko_frnti_4a64e26156fc/building-eudr-compliance-made-simple-a-complete-guide-to-wwweudr-apieu-8ml)
-- [Go Coding with Asparagos: The Smartest Peanut in the Neighborhood](https://dev.to/asparagos/go-coding-with-asparagos-the-smartest-peanut-in-the-neighborhood-3o92)
+- [Your First Day, Powered by AI: How to Welcome New Hires with a Personalized, Engaging Experience](https://dev.to/sonu_kumar_0b99b256a515bb/your-first-day-powered-by-ai-how-to-welcome-new-hires-with-a-personalized-engaging-experience-5a73)
+- [Business Case: E-Commerce Platform for a Niche Market](https://dev.to/oscarrobertstar/business-case-e-commerce-platform-for-a-niche-market-2kj9)
+- [k-NN Classification and Model Evaluation](https://dev.to/mortylen/k-nn-classification-and-model-evaluation-2of7)
+- [Thirdparty dependencies with FetchContent](https://dev.to/pikotutorial/thirdparty-dependencies-with-fetchcontent-2k4o)
+- [Data Modeling: From Basics to Advanced Techniques for Business Impact](https://dev.to/andrey_s/data-modeling-from-basics-to-advanced-techniques-for-business-impact-16fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
