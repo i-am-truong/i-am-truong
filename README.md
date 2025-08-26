@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blog Syndication Platform Plan](https://dev.to/farukh/blog-syndication-platform-plan-4814)
-- [Parkinson’s Law in Software Engineering](https://dev.to/puritanic/parkinsons-law-in-software-engineering-n8m)
-- [Exploring Heap Memory and Garbage Collector Algorithm in Go Language](https://dev.to/seyedahmaddv/exploring-heap-memory-and-garbage-collector-algorithm-in-go-language-145f)
-- [IGN: Play Dirty - Official Trailer &lpar;2025&rpar; Mark Wahlberg, LaKeith Stanfield, Rosa Salazar](https://dev.to/gg_news/ign-play-dirty-official-trailer-2025-mark-wahlberg-lakeith-stanfield-rosa-salazar-5af0)
-- [Day 25 of #30DaysOfCode](https://dev.to/justacoder_0x/day-25-of-30daysofcode-5a8i)
+- [Open Source RN Animated Glows, highly performant, with 20+ free presets](https://dev.to/steven_baltay_fe45cb6047b/open-source-rn-animated-glows-highly-performant-with-20-free-presets-48bl)
+- [I’m glad to share that I have successfully completed the main technical track of the Cybersecurity Academy scholarship](https://dev.to/seifeldienahmad/im-glad-to-share-that-i-have-successfully-completed-the-main-technical-track-of-the-cybersecurity-3d2)
+- [The Struggle Between AI Automation and Developer Creativity](https://dev.to/kevinasutton/the-struggle-between-ai-automation-and-developer-creativity-4c9j)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_74898956/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-4i1)
+- [🚀 Infrastructure as Code without Cloud? Yes, it’s possible!](https://dev.to/naji_i/infrastructure-as-code-without-cloud-yes-its-possible-eje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
