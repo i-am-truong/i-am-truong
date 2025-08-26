@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Walter Writes AI Review](https://dev.to/cblitz/walter-writes-ai-review-3i1l)
-- [8 Lucide Icons Alternatives That Offer Better Icons](https://dev.to/masumparvej/8-best-lucide-icons-alternatives-for-modern-ui-projects-52j8)
-- [Discord Fonts Generator](https://dev.to/rajesh_mondal_cded2f82459/discord-fonts-generator-3i4f)
-- [High-Brightness IPS Displays: Solving the Outdoor and Industrial Visibility Problem](https://dev.to/lauraaa/high-brightness-ips-displays-solving-the-outdoor-and-industrial-visibility-problem-apm)
-- [Why I Gave Up on Functional Programming — Twice — and Still Grateful for It](https://dev.to/xinjie_zou_d67d2805538130/why-i-gave-up-on-functional-programming-twice-and-still-grateful-for-it-4opk)
+- [Building a Custom Server-Side DataTable in Laravel Without Packages](https://dev.to/cammanhhoang/building-a-custom-server-side-datatable-in-laravel-without-packages-e3)
+- [The support and engagement from this community have been incredible — so today, I want to turn the spotlight on you. I’m opening this thread as an Ask Me Anything &lpar;AMA&rpar;. You can drop any question: AI, Business, Career, etc.](https://dev.to/jaideepparashar/the-support-and-engagement-from-this-community-have-been-incredible-so-today-i-want-to-turn-the-4i00)
+- [Ask Me Anything: AI, Prompting &amp; Writing](https://dev.to/jaideepparashar/ask-me-anything-ai-prompting-writing-3ab7)
+- [On my elm-knobs Elm package](https://dev.to/agj/on-my-elm-knobs-elm-package-162g)
+- [College Student &amp; Course Management System](https://dev.to/krithikraja_fcc802ca9bb16/college-student-course-management-system-2am0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
