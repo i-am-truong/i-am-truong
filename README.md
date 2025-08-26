@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Software maintenance automation](https://dev.to/paulo_pereira_1b5c5b129fa/software-maintenance-automation-4dl5)
 - [Part-26: Create a Regional Persistent Disk and associate to multiple VM in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-26-create-a-regional-persistent-disk-and-associate-to-multiple-vm-in-google-cloud-platform-5f9j)
 - [Build self-hosted local AI workflows with Docker, n8n, Ollama, and ngrok](https://dev.to/ngrok/build-self-hosted-local-ai-workflows-with-docker-n8n-ollama-and-ngrok-40jh)
+- [Best Office Chairs for Programmers](https://dev.to/saifa/best-office-chairs-for-programmers-14il)
 - [Why Building AI Agents with UiPath is More Robust Than Using Low-Code Tools by David Malick Dieng](https://dev.to/davidmalickdieng/why-building-ai-agents-with-uipath-is-more-robust-than-using-low-code-toolsby-david-malick-dieng-4pk3)
-- [I Turned My Portfolio Into a Newspaper 📰 &lpar;With Mini-Games!&rpar;](https://dev.to/talha_rizwan_a1a797dab610/i-turned-my-portfolio-into-a-newspaper-with-mini-games-1mk4)
-- [Being a Developer in the Vibe Coding Era](https://dev.to/andychiare/being-a-developer-in-the-vibe-coding-era-3me8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
