@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Innovative Case Studies of Generative AI Transforming Healthcare Services](https://dev.to/ravi_teja_4/innovative-case-studies-of-generative-ai-transforming-healthcare-services-1n39)
-- [AI Mock Interview：Real-time AI mock interviews enhance interview skills](https://dev.to/jackm_345442a09fb53b/ai-mock-interviewreal-time-ai-mock-interviews-enhance-interview-skills-43b7)
-- [Your First Day, Powered by AI: How to Welcome New Hires with a Personalized, Engaging Experience](https://dev.to/sonu_kumar_0b99b256a515bb/your-first-day-powered-by-ai-how-to-welcome-new-hires-with-a-personalized-engaging-experience-5a73)
-- [Business Case: E-Commerce Platform for a Niche Market](https://dev.to/oscarrobertstar/business-case-e-commerce-platform-for-a-niche-market-2kj9)
-- [k-NN Classification and Model Evaluation](https://dev.to/mortylen/k-nn-classification-and-model-evaluation-2of7)
+- [From Prompt to AI-Powered Finance App in Minutes](https://dev.to/sajjadrahman56/from-prompt-to-ai-powered-finance-app-in-minutes-4og5)
+- [Class_Till_Now&lpar;PART-1&rpar;](https://dev.to/ajayr18/classtillnowpart-1-392j)
+- [Waterschade aan uw MacBook? Laat het snel controleren om erger te voorkomen](https://dev.to/blueapple1/waterschade-aan-uw-macbook-laat-het-snel-controleren-om-erger-te-voorkomen-5ch7)
+- [Headless CMS Guide 2025, Part 1: What it is and why it matters](https://dev.to/flotiq/headless-cms-guide-2025-part-1-what-it-is-and-why-it-matters-210h)
+- [Parlant - Renovation AI Open-Source framework](https://dev.to/nghidanh2005/parlant-renovation-ai-open-source-framework-34ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
