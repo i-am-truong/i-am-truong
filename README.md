@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Rise of &quot;Vibe Coding&quot;: Why Your Programming Intuition Still Matters in the AI Era](https://dev.to/emmanuelbinen/the-rise-of-vibe-coding-why-your-programming-intuition-still-matters-in-the-ai-era-59li)
-- [Auto interieur reinigen op locatie: Dit zijn de grootste voordelen voor gezinnen](https://dev.to/steamydetailss/auto-interieur-reinigen-op-locatie-dit-zijn-de-grootste-voordelen-voor-gezinnen-2k1)
-- [Materialized View with FAST REFRESH | Part 1 &amp; Part 2](https://dev.to/mrcaption49/materialized-view-with-fast-refresh-part-1-part-2-51jd)
-- [ASH | AWR | ADDM in Oracle Database](https://dev.to/mrcaption49/ash-awr-addm-in-oracle-database-2323)
-- [PRAGMA SERIALLY_REUSABLE in PL/SQL](https://dev.to/mrcaption49/pragma-seriallyreusable-in-plsql-1666)
+- [Show HN: Zoom Through 100K Pages of BYTE Magazine in One Searchable Archive](https://dev.to/mrpunkdasilva/show-hn-zoom-through-100k-pages-of-byte-magazine-in-one-searchable-archive-447b)
+- [Publicando sites estáticos com Object Storage na Magalu Cloud](https://dev.to/magalucloud/publicando-sites-estaticos-com-object-storage-na-magalu-cloud-2fib)
+- [How to Send OTPs, Notifications &amp; DLT SMS in Laravel Using Fast2SMS](https://dev.to/itxshakil/how-to-send-otps-notifications-dlt-sms-in-laravel-using-fast2sms-3nec)
+- [Untitled](https://dev.to/awes_k_ab10cce73704e061c4/untitled-4a87)
+- [AWS IAM Tutorial for Beginners: Easy Steps to Manage Access](https://dev.to/heyjoshlee/aws-iam-tutorial-for-beginners-easy-steps-to-manage-access-57gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
