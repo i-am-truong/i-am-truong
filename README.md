@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Intermediate JavaScript Tips to Level Up](https://dev.to/metana/intermediate-javascript-tips-to-level-up-586b)
+- [Top GitHub Copilot Shortcuts and Commands for Faster Coding](https://dev.to/codewithsimon/top-github-copilot-shortcuts-and-commands-for-faster-coding-2h9f)
+- [Top Python Concepts Every Developer Must Know](https://dev.to/suraj_kumar_fb57ae0928df2/top-python-concepts-every-developer-must-know-3hpm)
 - [ScrollX UI: Animated UI Components for Modern Next.js Apps](https://dev.to/jqueryscript/scrollx-ui-animated-ui-components-for-modern-nextjs-apps-lim)
 - [Day 3: Modern Chaining with LangChain Expression Language](https://dev.to/aws-builders/day-3-modern-chaining-with-langchain-expression-language-3m76)
-- [I Audited 100 Agency Workflows: The 3 Collaboration Mistakes Costing $50k+ Annually](https://dev.to/teamcamp/i-audited-100-agency-workflows-the-3-collaboration-mistakes-costing-50k-annually-2c9c)
-- [Why Endpoint Management is Essential for ITAM Success?](https://dev.to/teresa_tran/why-endpoint-management-is-essential-for-itam-success-jbn)
-- [AI-Powered Code Review Action – Automated PR Reviews Using AI &lpar;OpenAI, Gemini, ...&rpar;](https://dev.to/quanlegia/ai-powered-code-review-action-automated-pr-reviews-using-ai-openai-gemini--3a35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
