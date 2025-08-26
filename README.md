@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentos modernos y primera interacción con IA. Parte 1](https://dev.to/aperezl/fundamentos-modernos-y-primera-interaccion-con-ia-parte-1-3603)
+- [Host Setup for Qemu KVM GPU Passthrough with VFIO on Linux](https://dev.to/novibecoding/host-setup-for-qemu-kvm-gpu-passthrough-with-vfio-on-linux-46lc)
+- [Reproducible LLM Benchmarking: GPT-5 vs Grok-4 with Promptfoo](https://dev.to/ayush7614/reproducible-llm-benchmarking-gpt-5-vs-grok-4-with-promptfoo-4i3c)
 - [Why Cloud Education is Broken &lpar;and How We Can Fix It&rpar;](https://dev.to/canvascloudai/why-cloud-education-is-broken-and-how-we-can-fix-it-4pad)
 - [Pyramid Generator With Javascript! 100%!](https://dev.to/shurwood_840b883d3a1ae4a2/pyramid-generator-with-javascript-100-50em)
-- [How to Use PydanticAI for Multimodal LLMs](https://dev.to/stephenc222/how-to-use-pydanticai-for-multimodal-llms-2l9p)
-- [Introduction to Docker and Docker Compose: Beginners Guide](https://dev.to/walnold/introduction-to-docker-and-docker-compose-beginners-guide-3k2h)
-- [Open Source RN Animated Glows, highly performant, with 20+ free presets](https://dev.to/steven_baltay_fe45cb6047b/open-source-rn-animated-glows-highly-performant-with-20-free-presets-48bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
