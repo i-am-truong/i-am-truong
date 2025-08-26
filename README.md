@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Signals in Angular 17! Wow](https://dev.to/ahmad_alhafi/signals-in-angular-17-wow-n1p)
+- [Why I&#39;m Focusing on Indie Dev While Navigating a Tough Job Market](https://dev.to/nyananu/why-im-focusing-on-indie-dev-while-navigating-a-tough-job-market-4me0)
 - [DApp Development in Action: Writing, Testing, and Deploying a Smart Contract](https://dev.to/nitishbeejawat/dapp-development-in-action-writing-testing-and-deploying-a-smart-contract-p5h)
 - [Padrões de Arquitetura: A Ferramenta, Não a Resposta](https://dev.to/carmonalariosnf/padroes-de-arquitetura-a-ferramenta-nao-a-resposta-4l98)
 - [⏰ If You Haven’t Shifted to Data Engineering Yet… Wake Up!](https://dev.to/shagun_khandelwal/if-you-havent-shifted-to-data-engineering-yet-wake-up-3ao4)
-- [8 Tool Tech Stack to Build an Enterprise-Grade RAG System &lpar;Without the Headaches&rpar;](https://dev.to/forgecode/8-tool-tech-stack-to-build-an-enterprise-grade-rag-system-without-the-headaches-i8)
-- [Using Redis in .NET Core &lpar;Step-by-Step Guide&rpar;](https://dev.to/morteza-jangjoo/using-redis-in-net-core-step-by-step-guide-3he2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
