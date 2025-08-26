@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The App of many opinions.](https://dev.to/dirsebastian/the-app-of-many-opinions-53ae)
-- [From Assistants to Autonomous Agents: How Agentic AI Is Accelerating Enterprise Automation and Intelligent Decision-Making](https://dev.to/qentelli/from-assistants-to-autonomous-agents-how-agentic-ai-is-accelerating-enterprise-automation-and-4a22)
-- [Step-by-Step Guide to Translating Documents Online Without Breaking Formatting](https://dev.to/marry_jonas_71b02f2823a04/step-by-step-guide-to-translating-documents-online-without-breaking-formatting-48ej)
-- [i made a searchable table of 200+ startup ideas with monetisation and difficulty scores + analysis](https://dev.to/vulcanwm/i-made-a-searchable-table-of-200-startup-ideas-with-monetisation-and-difficulty-scores-analysis-5hnf)
-- [Step 1: Basic Theme Structure – FSE Theme Development](https://dev.to/adovgun/step-1-basic-theme-structure-fse-theme-development-3bpb)
+- [JavaScript Project: Random Hex Color Generator](https://dev.to/s_mathavi_2fa1e3ea8514f34/javascript-project-random-hex-color-generator-53gl)
+- [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
+- [Meet Surveilr: The SQL-First Platform That Turns Any Resource Into Compliance Gold](https://dev.to/mukhtar_onif/meet-surveilr-the-sql-first-platform-that-turns-any-resource-into-compliance-gold-2cn3)
+- [The Complete Guide to AI-SEO in 2026](https://dev.to/shubhamkhatik/the-complete-guide-to-ai-seo-in-2026-1j54)
+- [Cómo optimicé mi portfolio con Astro](https://dev.to/raidrdev/como-optimice-mi-portfolio-con-astro-lnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
