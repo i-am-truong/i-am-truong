@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Expose localhost to the network using Cloudflare Tunnel](https://dev.to/arbab529/expose-localhost-to-the-network-using-cloudflare-tunnel-33ge)
-- [olá mundo](https://dev.to/ben/ola-mundo-4191)
-- [🌟 My Experience at ETH New York 2025](https://dev.to/julsr_mx/my-experience-at-eth-new-york-2025-3j83)
-- [[Live Demo] Automate a Viral Newsletter Using n8n + Real-Time Web Data](https://dev.to/n8n/live-demo-automate-a-viral-newsletter-using-n8n-real-time-web-data-34jc)
-- [What is Robotic Process Automation &lpar;RPA&rpar;? And How Does It Differ from AI?](https://dev.to/manolakeris/what-is-robotic-process-automation-rpa-and-how-does-it-differ-from-ai-3n4o)
+- [Configurando ESLint + Prettier + Husky no Angular&lpar;20&rpar;](https://dev.to/devgustavus/configurando-eslint-prettier-husky-no-angular20-2j35)
+- [🛳️ Docker Series: Episode 4 — Dockerfile for Beginners: Build Your Own Container Image](https://dev.to/yash_sonawane25/docker-series-episode-4-dockerfile-for-beginners-build-your-own-container-image-4kik)
+- [Running PostgreSQL in Docker and Accessing It from Your OS](https://dev.to/coder7475/running-postgresql-in-docker-and-accessing-it-from-your-os-2ck2)
+- [String Dalam Bahasa Earl](https://dev.to/dev_nazwashabrina/string-dalam-bahasa-earl-5go2)
+- [Understanding the Sequential Nature of Data](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-sequential-nature-of-data-1fh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
