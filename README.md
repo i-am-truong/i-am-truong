@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blog Syndication Platform Plan](https://dev.to/farukh/blog-syndication-platform-plan-4814)
+- [Parkinson’s Law in Software Engineering](https://dev.to/puritanic/parkinsons-law-in-software-engineering-n8m)
+- [Exploring Heap Memory and Garbage Collector Algorithm in Go Language](https://dev.to/seyedahmaddv/exploring-heap-memory-and-garbage-collector-algorithm-in-go-language-145f)
 - [IGN: Play Dirty - Official Trailer &lpar;2025&rpar; Mark Wahlberg, LaKeith Stanfield, Rosa Salazar](https://dev.to/gg_news/ign-play-dirty-official-trailer-2025-mark-wahlberg-lakeith-stanfield-rosa-salazar-5af0)
-- [Profiling in Go: A Practical Guide to Finding Performance Bottlenecks](https://dev.to/seyedahmaddv/profiling-in-go-a-practical-guide-to-finding-performance-bottlenecks-32e7)
-- [Angular 19 — What’s up with Signals?](https://dev.to/ahmad_alhafi/angular-19-whats-up-with-signals-2h80)
-- [Deploy Your Web Application on Vercel Quickly](https://dev.to/md_shahzebalam/deploy-your-web-application-on-vercel-quickly--1if0)
-- [Signals in Angular 17! Wow](https://dev.to/ahmad_alhafi/signals-in-angular-17-wow-n1p)
+- [Day 25 of #30DaysOfCode](https://dev.to/justacoder_0x/day-25-of-30daysofcode-5a8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
