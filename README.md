@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Walter Writes AI Review](https://dev.to/cblitz/walter-writes-ai-review-3i1l)
+- [8 Lucide Icons Alternatives That Offer Better Icons](https://dev.to/masumparvej/8-best-lucide-icons-alternatives-for-modern-ui-projects-52j8)
 - [Discord Fonts Generator](https://dev.to/rajesh_mondal_cded2f82459/discord-fonts-generator-3i4f)
 - [High-Brightness IPS Displays: Solving the Outdoor and Industrial Visibility Problem](https://dev.to/lauraaa/high-brightness-ips-displays-solving-the-outdoor-and-industrial-visibility-problem-apm)
 - [Why I Gave Up on Functional Programming — Twice — and Still Grateful for It](https://dev.to/xinjie_zou_d67d2805538130/why-i-gave-up-on-functional-programming-twice-and-still-grateful-for-it-4opk)
-- [Visualize XML Files with JSON Viewer Tool](https://dev.to/bugblitz98/visualize-xml-files-with-json-viewer-tool-24nl)
-- [From Zero to Secure: EC2 + Nginx with the Right Subnet, AZ &amp; Security Groups](https://dev.to/peter_samuel_052b9056e236/from-zero-to-secure-ec2-nginx-with-the-right-subnet-az-security-groups-33a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
