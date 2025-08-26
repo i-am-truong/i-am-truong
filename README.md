@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Kubernetes is the Safety Net for Your AI Circus ?](https://dev.to/ranga-devops/why-kubernetes-is-the-safety-net-for-your-ai-circus--2l12)
-- [Blocking Suspected DDoS IPs with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/blocking-suspected-ddos-ips-with-safeline-waf-3jae)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-5a38)
-- [Mastering Binary Tree Views and Traversals in Java](https://dev.to/rock_win_c053fa5fb2399067/mastering-binary-tree-views-and-traversals-in-java-3jbl)
-- [How AI Agents Are Revolutionizing Workflow Automation](https://dev.to/onlineproxy/how-ai-agents-are-revolutionizing-workflow-automation-alb)
+- [Color Contrast and Visual Accessibility: Why Inclusive Design Starts with the Right Shades](https://dev.to/okoye_ndidiamaka_5e3b7d30/color-contrast-and-visual-accessibility-why-inclusive-design-starts-with-the-right-shades-bp0)
+- [Why Developers Are Moving Towards Headless CMS in 2025](https://dev.to/hardeepsingh01/why-developers-are-moving-towards-headless-cms-in-2025-1j4k)
+- [🔥 Blog 3: Segment Tree &amp; Fenwick Tree &lpar;BIT&rpar; — Range Queries Made Easy](https://dev.to/rock_win_c053fa5fb2399067/blog-3-segment-tree-fenwick-tree-bit-range-queries-made-easy-3m62)
+- [🔥 Blog 2: Topological Sort &amp; Kahn’s Algorithm in DSA](https://dev.to/rock_win_c053fa5fb2399067/blog-2-topological-sort-kahns-algorithm-in-dsa-3om8)
+- [🔥 Blog 1: String Matching Algorithms in DSA &lpar;KMP, Rabin-Karp, Z-Algorithm&rpar;](https://dev.to/rock_win_c053fa5fb2399067/blog-1-string-matching-algorithms-in-dsa-kmp-rabin-karp-z-algorithm-1ojb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
