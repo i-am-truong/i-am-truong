@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Breakthrough: More Private Data, Less Risk with Adaptive AI](https://dev.to/aiwithapex/googles-breakthrough-more-private-data-less-risk-with-adaptive-ai-3li0)
+- [useMergedRefs: The Essential Custom Hook for Component Composition](https://dev.to/childrentime/usemergedrefs-the-essential-custom-hook-for-component-composition-5fp5)
+- [Quantitative Market Research: Unveiling Data-Driven Insights for Business Growth](https://dev.to/mitchell_idusher/quantitative-market-research-unveiling-data-driven-insights-for-business-growth-pfh)
 - [[Boost]](https://dev.to/hadil/-4a8e)
 - [I Supercharged My Browser GPT with Rust and WebAssembly: The Journey to a Dual-Engine AI](https://dev.to/xzdes/i-supercharged-my-browser-gpt-with-rust-and-webassembly-the-journey-to-a-dual-engine-ai-3ili)
-- [Angular 20 Is Here: Signals, Zoneless, and the Future of Web Development ⚡](https://dev.to/koolkamalkishor/angular-20-is-here-signals-zoneless-and-the-future-of-web-development-1eoe)
-- [What Can You Create with Particle Animation in HarmonyOS?](https://dev.to/harmonyos/what-can-you-create-with-particle-animation-in-harmonyos-4j82)
-- [Phase 4.5: Spec as Source of Truth - Rethinking Development Workflow](https://dev.to/maksim_matlakhov/phase-45-spec-as-source-of-truth-rethinking-development-workflow-40om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
