@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 The Rise of &quot;Vibe Coding&quot;: Why Your Programming Intuition Still Matters in the AI Era](https://dev.to/emmanuelbinen/the-rise-of-vibe-coding-why-your-programming-intuition-still-matters-in-the-ai-era-59li)
+- [Auto interieur reinigen op locatie: Dit zijn de grootste voordelen voor gezinnen](https://dev.to/steamydetailss/auto-interieur-reinigen-op-locatie-dit-zijn-de-grootste-voordelen-voor-gezinnen-2k1)
 - [Materialized View with FAST REFRESH | Part 1 &amp; Part 2](https://dev.to/mrcaption49/materialized-view-with-fast-refresh-part-1-part-2-51jd)
 - [ASH | AWR | ADDM in Oracle Database](https://dev.to/mrcaption49/ash-awr-addm-in-oracle-database-2323)
 - [PRAGMA SERIALLY_REUSABLE in PL/SQL](https://dev.to/mrcaption49/pragma-seriallyreusable-in-plsql-1666)
-- [Needcode Turns your LeetCode Grinding into MAANG Success](https://dev.to/extinctsion/needcode-turns-your-leetcode-grinding-into-maang-success-5h1a)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_74898956/your-error-handling-is-a-mess-and-its-costing-you--3p1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
