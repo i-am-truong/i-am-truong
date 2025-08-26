@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Autonomy Without Losing Accountability](https://dev.to/dct_technology/building-autonomy-without-losing-accountability-3c3g)
+- [How to Book Flights Using the Galileo API: A Developer’s Guide for OTAs](https://dev.to/anshikaila/how-to-book-flights-using-the-galileo-api-a-developers-guide-for-otas-187o)
 - [Intermediate JavaScript Tips to Level Up](https://dev.to/metana/intermediate-javascript-tips-to-level-up-586b)
 - [Top GitHub Copilot Shortcuts and Commands for Faster Coding](https://dev.to/codewithsimon/top-github-copilot-shortcuts-and-commands-for-faster-coding-2h9f)
 - [Top Python Concepts Every Developer Must Know](https://dev.to/suraj_kumar_fb57ae0928df2/top-python-concepts-every-developer-must-know-3hpm)
-- [ScrollX UI: Animated UI Components for Modern Next.js Apps](https://dev.to/jqueryscript/scrollx-ui-animated-ui-components-for-modern-nextjs-apps-lim)
-- [Day 3: Modern Chaining with LangChain Expression Language](https://dev.to/aws-builders/day-3-modern-chaining-with-langchain-expression-language-3m76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
