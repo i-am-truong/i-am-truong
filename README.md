@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#FullstackEasy : Ta feuille de route sans prise de tête pour maîtriser JS, TS, Node et React](https://dev.to/oclcode/fullstackeasy-ta-feuille-de-route-sans-prise-de-tete-pour-maitriser-js-ts-node-et-react-25la)
-- [🧪 Tester une locale en 2 secondes de manière élégante &lpar;sans se prendre la tête&rpar;](https://dev.to/oclcode/tester-une-locale-en-2-secondes-de-maniere-elegante-sans-se-prendre-la-tete-2i31)
-- [Hello world 👋](https://dev.to/samir-kahvedzic/hello-world-1d37)
-- [Fundamentos modernos y primera interacción con IA. Parte 1](https://dev.to/aperezl/fundamentos-modernos-y-primera-interaccion-con-ia-parte-1-3603)
-- [Host Setup for Qemu KVM GPU Passthrough with VFIO on Linux](https://dev.to/novibecoding/host-setup-for-qemu-kvm-gpu-passthrough-with-vfio-on-linux-46lc)
+- [Setting Up Minecraft Server in AWS](https://dev.to/carmoruda/setting-up-minecraft-server-in-aws-4kci)
+- [IGN: Captured - Official Console Release Date Trailer](https://dev.to/gg_news/ign-captured-official-console-release-date-trailer-56mb)
+- [IGN: Onimusha: Way of the Sword - Official Event Demo Gameplay](https://dev.to/gg_news/ign-onimusha-way-of-the-sword-official-event-demo-gameplay-3c3m)
+- [Wie ich meine Webseite zur KI-Antwortmaschine umgebaut habe &lpar;und warum du das auch tun solltest&rpar;](https://dev.to/ivo_sa/wie-ich-meine-webseite-zur-ki-antwortmaschine-umgebaut-habe-und-warum-du-das-auch-tun-solltest-n4h)
+- [AI, AÏ, aïe, la tragédie des youtubeurs...](https://dev.to/oclcode/ai-ai-aie-la-tragedie-des-youtubeurs-6di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
