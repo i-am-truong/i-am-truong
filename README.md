@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simple Auto Login Bot](https://dev.to/masterdevsabith/simple-auto-login-bot-3031)
-- [Mitos e Realidades no Desenvolvimento de Software com IA, Paulo Borba &lpar;Cin UFPE&rpar; - Esquenta SE4FP](https://dev.to/fronteirases/mitos-e-realidades-no-desenvolvimento-de-software-com-ia-paulo-borba-cin-ufpe-esquenta-se4fp-2lbj)
-- [Student Builders Push XRPL Innovation Forward at Residency 2.0](https://dev.to/ripplexdev/student-builders-push-xrpl-innovation-forward-at-residency-20-441p)
-- [Astro Actions and Vanilla JavaScript for Forms](https://dev.to/n4n1t0/astro-actions-and-vanilla-javascript-for-forms-4lfl)
-- [2ª Escola de Estudos Empíricos em Engenharia de Software &lpar;Edição ICSE 2026&rpar;](https://dev.to/fronteirases/2a-escola-de-estudos-empiricos-em-engenharia-de-software-edicao-icse-2026-a72)
+- [Secure ArgoCD Multi-Cluster Deployment in AWS EKS with IRSA](https://dev.to/dedicatted/secure-argocd-multi-cluster-deployment-in-aws-eks-with-irsa-36mj)
+- [The Ultimate Guideto AI Tools for Bloggers in](https://dev.to/mohamed_akbib_43046944505/the-ultimate-guideto-ai-tools-for-bloggers-in-18mg)
+- [Go 1.25 Highlights: How Generics and Performance Define the Future of Go](https://dev.to/leapcell/go-125-highlights-how-generics-and-performance-define-the-future-of-go-4pdh)
+- [Dr. David Lo será Keynote Speaker na TechDebt 2026, no Rio de Janeiro](https://dev.to/fronteirases/dr-david-lo-sera-keynote-speaker-na-techdebt-2026-no-rio-de-janeiro-42fo)
+- [Platform Engineering at CNS Munich](https://dev.to/camptocamp-ops/platform-engineering-at-cns-munich-20f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
