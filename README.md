@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Target SDK Updates Are Breaking Apps in 2025 — Here’s the Fix Google Won’t Tell You](https://dev.to/vaibhav_shakya_e6b352bfc4/target-sdk-updates-are-breaking-apps-in-2025-heres-the-fix-google-wont-tell-you-2mi6)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_74898956/you-might-not-need-websockets-the-simple-power-of-server-sent-events-4o1g)
-- [What can i do about my consistency? one day i studied about 8 hrs, next day i feel down any suggeastions?](https://dev.to/sagardevx/what-can-i-do-about-my-consistency-one-day-i-studied-about-8-hrs-next-day-i-feel-down-any-3mee)
-- [MongoDB Hands-on: Working with a Zomato Restaurants Dataset](https://dev.to/prasanna_kumart_/mongodb-hands-on-working-with-a-zomato-restaurants-dataset-5ad4)
-- [Building a Custom Server-Side DataTable in Laravel Without Packages](https://dev.to/cammanhhoang/building-a-custom-server-side-datatable-in-laravel-without-packages-e3)
+- [I Audited 100 Agency Workflows: The 3 Collaboration Mistakes Costing $50k+ Annually](https://dev.to/teamcamp/i-audited-100-agency-workflows-the-3-collaboration-mistakes-costing-50k-annually-2c9c)
+- [Why Endpoint Management is Essential for ITAM Success?](https://dev.to/teresa_tran/why-endpoint-management-is-essential-for-itam-success-jbn)
+- [AI-Powered Code Review Action – Automated PR Reviews Using AI &lpar;OpenAI, Gemini, ...&rpar;](https://dev.to/quanlegia/ai-powered-code-review-action-automated-pr-reviews-using-ai-openai-gemini--3a35)
+- [What Is Medication Software? A Complete Guide for 2025](https://dev.to/nencywilliams/what-is-medication-software-a-complete-guide-for-2025-59gc)
+- [Types of Dimensions in a Data Warehouse &lpar;Beginner’s Guide&rpar;](https://dev.to/bharathprasad/types-of-dimensions-in-a-data-warehouse-beginners-guide-3eoo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
