@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TalkJS Alternatives – Comparing the Top 7 Competitors](https://dev.to/getstreamhq/talkjs-alternatives-comparing-the-top-7-competitors-3gde)
-- [Getting Started with Docker and Docker Compose: A Beginner’s Guide](https://dev.to/sam_mabuka/getting-started-with-docker-and-docker-compose-a-beginners-guide-48m7)
-- [Introducing ZentoraOS](https://dev.to/bhuvaneshm_dev/introducing-zentoraos-3ad4)
-- [How Codex Storage Could Redefine Healthcare Data Security and Privacy](https://dev.to/devdotun/how-codex-storage-could-redefine-healthcare-data-security-and-privacy-5g8d)
-- [HackTeam.RED: From API Keys to Full Infrastructure Compromise](https://dev.to/toxy4ny/hackteamred-from-api-keys-to-full-infrastructure-compromise-48ic)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_74898956/you-might-not-need-websockets-the-simple-power-of-server-sent-events-5fjd)
+- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: $1250?!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-1250-46f1)
+- [KEXP: Coral Grief - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-coral-grief-full-performance-live-on-kexp-3jhf)
+- [What Makes a Good Website? Lessons From the Edge](https://dev.to/lewiskori/what-makes-a-good-website-lessons-from-the-edge-3aoa)
+- [No Laying Up Podcast: BallKnowers: 2025 NFL Season Preview | Trap Draw, Ep 356](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-2025-nfl-season-preview-trap-draw-ep-356-22mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
