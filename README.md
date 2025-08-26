@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Track Your Developer Advocate Impact Like a Pro with DevRel MCP](https://dev.to/labeveryday/track-your-developer-advocate-impact-like-a-pro-with-devrel-mcp-32k6)
 - [Mobile Application Security Testing](https://dev.to/radia2025/mobile-application-security-testing-2ben)
+- [Learning the Single Responsibility Principle with Snapshot Tests](https://dev.to/it-wibrc/learning-the-single-responsibility-principle-with-snapshot-tests-48om)
 - [Still time to get your questions in!](https://dev.to/ben/still-time-to-get-your-questions-in-5706)
-- [AI MVP Development Made Simple: Delivered in Weeks](https://dev.to/kethan_dosapati_da34eda79/ai-mvp-development-made-simple-delivered-in-weeks-1cp5)
-- [Next‑Gen Chatbots: Extending Chat with MCP](https://dev.to/om_shree_0709/next-gen-chatbots-extending-chat-with-mcp-om7)
+- [How to Get Your App on the App Store &amp; Google Play: Step-by-Step Guide](https://dev.to/getstreamhq/how-to-get-your-app-on-the-app-store-google-play-step-by-step-guide-32of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
