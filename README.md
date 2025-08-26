@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Meu primeiro projeto com IA e NLP em Português no Hugging Face Spaces!](https://dev.to/gpsxpc/meu-primeiro-projeto-com-ia-e-nlp-em-portugues-no-hugging-face-spaces-4i1g)
+- [Day 77: When Apple Service Breaks More Than Your Laptop](https://dev.to/casperday11/day-77-when-apple-service-breaks-more-than-your-laptop-2956)
+- [Networking Basics: Clients, Servers, Switches, Routers, and Firewalls](https://dev.to/naval_kishorupadhyay_3e9/networking-basics-clients-servers-switches-routers-and-firewalls-1e97)
 - [Show HN: A framework for building custom linters in Python &lpar;supports YAML, TOML, JSON too&rpar;](https://dev.to/mrpunkdasilva/show-hn-a-framework-for-building-custom-linters-in-python-supports-yaml-toml-json-too-30ac)
-- [Real Developers, Real Results: How Additional Context Menus Transformed Daily Workflows 🌟](https://dev.to/vijay431/real-developers-real-results-how-additional-context-menus-transformed-daily-workflows-13m1)
-- [The Lazy Genius Inside Your Chatbot: Meet MoD, the Art of Thinking Less but Smarter](https://dev.to/naresh_82de734ade4c1c66d9/the-lazy-genius-inside-your-chatbot-meet-mod-the-art-of-thinking-less-but-smarter-4g70)
-- [From X &lpar;Twitter&rpar; Free API to Basic/Pro: How Postly Retired BYO Keys and Shipped a Managed “X-Pro” Integration &lpar;No Fallback&rpar;](https://dev.to/paul_onu_a2fb9ffcca2d9ede/from-x-twitter-free-api-to-basicpro-how-postly-retired-byo-keys-and-shipped-a-managed-x-pro-1k7)
-- [Show HN: Explore the history of any GitHub repository like a code archaeologist](https://dev.to/mrpunkdasilva/show-hn-diggitdev-explore-the-history-of-any-github-repository-like-a-code-archaeologist-4681)
+- [Web component Q&amp;A with.. well. me.](https://dev.to/btopro/web-component-qa-with-well-me-10e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
