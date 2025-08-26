@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to GraphQL: Basics and Examples](https://dev.to/lourdesyang1023/introduction-to-graphql-basics-and-examples-5868)
-- [From Indexes to GPUs: The Evolution of Database Optimization](https://dev.to/xinjie_zou_d67d2805538130/from-indexes-to-gpus-the-evolution-of-database-optimization-5d5j)
-- [Mejores VPN para Parrot OS: Privacidad y Seguridad en tu Sistema Linux](https://dev.to/toufiq_b4073908fdc8953fd2/mejores-vpn-para-parrot-os-privacidad-y-seguridad-en-tu-sistema-linux-5ela)
-- [How to Access Custom HTTP Headers in Your C# MCP Server](https://dev.to/_neronotte/how-to-access-custom-http-headers-in-your-c-mcp-server-heb)
-- [The Deployment Error That Nearly Took Down My App](https://dev.to/leena_malhotra_355340d89c/the-deployment-error-that-nearly-took-down-my-app-4fed)
+- [The App of many opinions.](https://dev.to/dirsebastian/the-app-of-many-opinions-53ae)
+- [From Assistants to Autonomous Agents: How Agentic AI Is Accelerating Enterprise Automation and Intelligent Decision-Making](https://dev.to/qentelli/from-assistants-to-autonomous-agents-how-agentic-ai-is-accelerating-enterprise-automation-and-4a22)
+- [Step-by-Step Guide to Translating Documents Online Without Breaking Formatting](https://dev.to/marry_jonas_71b02f2823a04/step-by-step-guide-to-translating-documents-online-without-breaking-formatting-48ej)
+- [i made a searchable table of 200+ startup ideas with monetisation and difficulty scores + analysis](https://dev.to/vulcanwm/i-made-a-searchable-table-of-200-startup-ideas-with-monetisation-and-difficulty-scores-analysis-5hnf)
+- [Step 1: Basic Theme Structure – FSE Theme Development](https://dev.to/adovgun/step-1-basic-theme-structure-fse-theme-development-3bpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
