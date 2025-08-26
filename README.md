@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I Let AI Work While I Drink Coffee? A Hard-Learned Lesson](https://dev.to/luke_tong_d4f228249f32d86/can-i-let-ai-work-while-i-drink-coffee-a-hard-learned-lesson-57ej)
+- [Me ajudou bastante](https://dev.to/dev_king/me-ajudou-bastante-1nn0)
+- [Don’t Marry an LLM, Date Many](https://dev.to/aimichael/dont-marry-an-llm-date-many-44oe)
 - [There&#39;s something off in the &quot;dev with AI or die&quot; narrative](https://dev.to/farukh/theres-something-off-in-the-dev-with-ai-or-die-narrative-4j77)
 - [[Boost]](https://dev.to/bdougieyo/-3eda)
-- [How to Set Up an AWS Application Load Balancer for Your EC2 Instances](https://dev.to/peter_samuel_052b9056e236/how-to-set-up-an-aws-application-load-balancer-for-your-ec2-instances-8fo)
-- [Bedrock Knowledge Bases with S3 Vectors: A [Preview] CDK Quickstart](https://dev.to/michael_flanagan_red/bedrock-knowledge-bases-with-s3-vectors-a-preview-cdk-quickstart-1d8p)
-- [Table-Driven Method: How Tchaca Stopped Suffering from if and switch in React](https://dev.to/werliton/table-driven-method-how-tchaca-stopped-suffering-from-if-and-switch-in-react-535c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
