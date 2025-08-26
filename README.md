@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#FullstackEasy : Ta feuille de route sans prise de tête pour maîtriser JS, TS, Node et React](https://dev.to/oclcode/fullstackeasy-ta-feuille-de-route-sans-prise-de-tete-pour-maitriser-js-ts-node-et-react-25la)
+- [🧪 Tester une locale en 2 secondes de manière élégante &lpar;sans se prendre la tête&rpar;](https://dev.to/oclcode/tester-une-locale-en-2-secondes-de-maniere-elegante-sans-se-prendre-la-tete-2i31)
+- [Hello world 👋](https://dev.to/samir-kahvedzic/hello-world-1d37)
 - [Fundamentos modernos y primera interacción con IA. Parte 1](https://dev.to/aperezl/fundamentos-modernos-y-primera-interaccion-con-ia-parte-1-3603)
 - [Host Setup for Qemu KVM GPU Passthrough with VFIO on Linux](https://dev.to/novibecoding/host-setup-for-qemu-kvm-gpu-passthrough-with-vfio-on-linux-46lc)
-- [Reproducible LLM Benchmarking: GPT-5 vs Grok-4 with Promptfoo](https://dev.to/ayush7614/reproducible-llm-benchmarking-gpt-5-vs-grok-4-with-promptfoo-4i3c)
-- [Why Cloud Education is Broken &lpar;and How We Can Fix It&rpar;](https://dev.to/canvascloudai/why-cloud-education-is-broken-and-how-we-can-fix-it-4pad)
-- [Pyramid Generator With Javascript! 100%!](https://dev.to/shurwood_840b883d3a1ae4a2/pyramid-generator-with-javascript-100-50em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
