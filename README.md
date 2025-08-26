@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taming the Beast: The Outbox Pattern for Reliable Event Publishing](https://dev.to/alex_aslam/taming-the-beast-the-outbox-pattern-for-reliable-event-publishing-299g)
+- [Why I Rolled My Own Blog &lpar;and Shipped It in a Weekend&rpar;](https://dev.to/coder_b/why-i-rolled-my-own-blog-and-shipped-it-in-a-weekend-1g29)
+- [🚀 Struggling with long response times in your app?](https://dev.to/olcayhan/struggling-with-long-response-times-in-your-app-4i08)
+- [Student-Teacher Distillation: A Complete Guide for Model Compression](https://dev.to/angu10/student-teacher-distillation-a-complete-guide-for-model-compression-37ed)
 - [🚀 Meu primeiro projeto com IA e NLP em Português no Hugging Face Spaces!](https://dev.to/gpsxpc/meu-primeiro-projeto-com-ia-e-nlp-em-portugues-no-hugging-face-spaces-4i1g)
-- [Day 77: When Apple Service Breaks More Than Your Laptop](https://dev.to/casperday11/day-77-when-apple-service-breaks-more-than-your-laptop-2956)
-- [Networking Basics: Clients, Servers, Switches, Routers, and Firewalls](https://dev.to/naval_kishorupadhyay_3e9/networking-basics-clients-servers-switches-routers-and-firewalls-1e97)
-- [Show HN: A framework for building custom linters in Python &lpar;supports YAML, TOML, JSON too&rpar;](https://dev.to/mrpunkdasilva/show-hn-a-framework-for-building-custom-linters-in-python-supports-yaml-toml-json-too-30ac)
-- [Web component Q&amp;A with.. well. me.](https://dev.to/btopro/web-component-qa-with-well-me-10e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
