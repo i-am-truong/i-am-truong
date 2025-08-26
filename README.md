@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IGN: Play Dirty - Official Trailer &lpar;2025&rpar; Mark Wahlberg, LaKeith Stanfield, Rosa Salazar](https://dev.to/gg_news/ign-play-dirty-official-trailer-2025-mark-wahlberg-lakeith-stanfield-rosa-salazar-5af0)
+- [Profiling in Go: A Practical Guide to Finding Performance Bottlenecks](https://dev.to/seyedahmaddv/profiling-in-go-a-practical-guide-to-finding-performance-bottlenecks-32e7)
+- [Angular 19 — What’s up with Signals?](https://dev.to/ahmad_alhafi/angular-19-whats-up-with-signals-2h80)
+- [Deploy Your Web Application on Vercel Quickly](https://dev.to/md_shahzebalam/deploy-your-web-application-on-vercel-quickly--1if0)
 - [Signals in Angular 17! Wow](https://dev.to/ahmad_alhafi/signals-in-angular-17-wow-n1p)
-- [Why I&#39;m Focusing on Indie Dev While Navigating a Tough Job Market](https://dev.to/nyananu/why-im-focusing-on-indie-dev-while-navigating-a-tough-job-market-4me0)
-- [DApp Development in Action: Writing, Testing, and Deploying a Smart Contract](https://dev.to/nitishbeejawat/dapp-development-in-action-writing-testing-and-deploying-a-smart-contract-p5h)
-- [Padrões de Arquitetura: A Ferramenta, Não a Resposta](https://dev.to/carmonalariosnf/padroes-de-arquitetura-a-ferramenta-nao-a-resposta-4l98)
-- [⏰ If You Haven’t Shifted to Data Engineering Yet… Wake Up!](https://dev.to/shagun_khandelwal/if-you-havent-shifted-to-data-engineering-yet-wake-up-3ao4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
