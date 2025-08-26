@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Zoom Through 100K Pages of BYTE Magazine in One Searchable Archive](https://dev.to/mrpunkdasilva/show-hn-zoom-through-100k-pages-of-byte-magazine-in-one-searchable-archive-447b)
-- [Publicando sites estáticos com Object Storage na Magalu Cloud](https://dev.to/magalucloud/publicando-sites-estaticos-com-object-storage-na-magalu-cloud-2fib)
-- [How to Send OTPs, Notifications &amp; DLT SMS in Laravel Using Fast2SMS](https://dev.to/itxshakil/how-to-send-otps-notifications-dlt-sms-in-laravel-using-fast2sms-3nec)
-- [Untitled](https://dev.to/awes_k_ab10cce73704e061c4/untitled-4a87)
-- [AWS IAM Tutorial for Beginners: Easy Steps to Manage Access](https://dev.to/heyjoshlee/aws-iam-tutorial-for-beginners-easy-steps-to-manage-access-57gm)
+- [Hands-On with MongoDB Atlas: Storing, Querying, and Analyzing Data](https://dev.to/rakesh_pranavks23cb037/hands-on-with-mongodb-atlas-storing-querying-and-analyzing-data-2i7p)
+- [Claude Code: From Zero to Hero](https://dev.to/dani_avila7/claude-code-from-zero-to-hero-4kcm)
+- [Observability Part 2 – Metrics &amp; Dashboards with Prometheus and Grafana](https://dev.to/jungledev/observability-part-2-metrics-dashboards-with-prometheus-and-grafana-fib)
+- [Google Gemini 2.5 Flash-Image: How Google Is Pushing AI Boundaries](https://dev.to/alifar/google-gemini-25-flash-image-how-google-is-pushing-ai-boundaries-2dkh)
+- [Grant Horvat: Grant Horvat Vs Dude Perfect &lpar;Stroke Play&rpar;](https://dev.to/youtube_golf/grant-horvat-grant-horvat-vs-dude-perfect-stroke-play-m6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
