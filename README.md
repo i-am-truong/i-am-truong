@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DApp Development in Action: Writing, Testing, and Deploying a Smart Contract](https://dev.to/nitishbeejawat/dapp-development-in-action-writing-testing-and-deploying-a-smart-contract-p5h)
+- [Padrões de Arquitetura: A Ferramenta, Não a Resposta](https://dev.to/carmonalariosnf/padroes-de-arquitetura-a-ferramenta-nao-a-resposta-4l98)
+- [⏰ If You Haven’t Shifted to Data Engineering Yet… Wake Up!](https://dev.to/shagun_khandelwal/if-you-havent-shifted-to-data-engineering-yet-wake-up-3ao4)
 - [8 Tool Tech Stack to Build an Enterprise-Grade RAG System &lpar;Without the Headaches&rpar;](https://dev.to/forgecode/8-tool-tech-stack-to-build-an-enterprise-grade-rag-system-without-the-headaches-i8)
 - [Using Redis in .NET Core &lpar;Step-by-Step Guide&rpar;](https://dev.to/morteza-jangjoo/using-redis-in-net-core-step-by-step-guide-3he2)
-- [N+1 Hydra: A Senior Engineer&#39;s Guide to strict_loading](https://dev.to/alex_aslam/n1-hydra-a-senior-engineers-guide-to-strictloading-1j0i)
-- [A Beginner’s Guide to Satellite Data and Vegetation Indices &lpar;NDVI, EVI &amp; Beyond&rpar;](https://dev.to/yousufbasir/a-beginners-guide-to-satellite-data-and-vegetation-indices-ndvi-evi-beyond-14nn)
-- [Mapstronaut: A Flexible Object-Mapping Library for JS/TS](https://dev.to/jprevo/introducing-mapstronaut-a-flexible-object-mapping-library-for-jsts-3470)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
