@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Customize Any WordPress Theme with AI](https://dev.to/tishonator/how-to-customize-any-wordpress-theme-with-ai-12h9)
-- [&quot;From Beginner to Pro: How Payilagam Training Institute Can Help&quot;](https://dev.to/kiran_raj_d6a648e3da320c1/from-beginner-to-pro-how-payilagam-training-institute-can-help-1f2l)
-- [Becoming a TypeScript Pro – Part 3: Advanced &amp; Enterprise-Level Features](https://dev.to/usman_awan/becoming-a-typescript-pro-part-3-advanced-enterprise-level-features-59d8)
-- [Format and fix code with the Apps Script command palette](https://dev.to/googleworkspace/format-and-fix-code-with-the-apps-script-command-palette-2ogl)
-- [Why I’m Not Ready to Trust BiomeJS &lpar;Yet&rpar;](https://dev.to/mvahedii/why-im-not-ready-to-trust-biomejs-yet-j9o)
+- [From Seed to Blossom — A Journey Through Email Campaigns](https://dev.to/mdkawsharul_islamroyal_/from-seed-to-blossom-a-journey-through-email-campaigns-4meh)
+- [AI as the Ultimate Teacher- Learn Any Subject from A Master](https://dev.to/gamepill/ai-as-the-ultimate-teacher-learn-any-subject-from-a-master-1jed)
+- [Type casting](https://dev.to/rajan_s_494d2a0d7bb0860ef/type-casting-2nli)
+- [Maker&#39;s Muse: What 3D printed gear is best? I built a machine to find out! EP1](https://dev.to/maker_youtube/makers-muse-what-3d-printed-gear-is-best-i-built-a-machine-to-find-out-ep1-3jc3)
+- [Scale your ML deployments with open source](https://dev.to/jwilliamsr/-2040)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
