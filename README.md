@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Prompt to AI-Powered Finance App in Minutes](https://dev.to/sajjadrahman56/from-prompt-to-ai-powered-finance-app-in-minutes-4og5)
-- [Class_Till_Now&lpar;PART-1&rpar;](https://dev.to/ajayr18/classtillnowpart-1-392j)
-- [Waterschade aan uw MacBook? Laat het snel controleren om erger te voorkomen](https://dev.to/blueapple1/waterschade-aan-uw-macbook-laat-het-snel-controleren-om-erger-te-voorkomen-5ch7)
-- [Headless CMS Guide 2025, Part 1: What it is and why it matters](https://dev.to/flotiq/headless-cms-guide-2025-part-1-what-it-is-and-why-it-matters-210h)
-- [Parlant - Renovation AI Open-Source framework](https://dev.to/nghidanh2005/parlant-renovation-ai-open-source-framework-34ah)
+- [[Boost]](https://dev.to/hadil/-4a8e)
+- [I Supercharged My Browser GPT with Rust and WebAssembly: The Journey to a Dual-Engine AI](https://dev.to/xzdes/i-supercharged-my-browser-gpt-with-rust-and-webassembly-the-journey-to-a-dual-engine-ai-3ili)
+- [Angular 20 Is Here: Signals, Zoneless, and the Future of Web Development ⚡](https://dev.to/koolkamalkishor/angular-20-is-here-signals-zoneless-and-the-future-of-web-development-1eoe)
+- [What Can You Create with Particle Animation in HarmonyOS?](https://dev.to/harmonyos/what-can-you-create-with-particle-animation-in-harmonyos-4j82)
+- [Phase 4.5: Spec as Source of Truth - Rethinking Development Workflow](https://dev.to/maksim_matlakhov/phase-45-spec-as-source-of-truth-rethinking-development-workflow-40om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
