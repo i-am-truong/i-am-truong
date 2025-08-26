@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-25: 🚀Google Cloud – Create, Attach Persistent Disk to VM and Resize Boot and Data Disks in GCP](https://dev.to/latchudevops/part-25-google-cloud-create-attach-persistent-disk-to-vm-and-resize-boot-and-data-disks-in-gcp-4b35)
-- [The Agent Paradox: Why AI Agents Shine in Demos But Stumble in Production](https://dev.to/lukehinds/the-agent-paradox-why-ai-agents-shine-in-demos-but-stumble-in-production-1he1)
-- [Guepard File System: Rethinking Database-Per-Tenant Architecture](https://dev.to/guepardrun/guepard-file-system-rethinking-database-per-tenant-architecture-4hbo)
-- [Getting Started with Python — Part 2](https://dev.to/chinyereunamba/getting-started-with-python-part-2-3km5)
-- [Supercharge Your i18next Workflow with a Real-Time, Persistent Cache](https://dev.to/adrai/supercharge-your-i18next-workflow-with-a-real-time-persistent-cache-32eb)
+- [Learn the Different Options to Deploy Microsoft Azure Red Hat OpenShift Clusters and Prepare Your Environment](https://dev.to/sindhuja_ns_1e491ce1088d/learn-the-different-options-to-deploy-microsoft-azure-red-hat-openshift-clusters-and-prepare-your-16ip)
+- [From Old-School to AI-Driven: Creating Professional React Code from Figma](https://dev.to/bitloops/from-old-school-to-ai-driven-creating-professional-react-code-from-figma-2139)
+- [How We Built a PaaS with Go, Kubernetes, and React](https://dev.to/pavel-hostim/how-we-built-a-paas-with-go-kubernetes-and-react-2edl)
+- [[Boost]](https://dev.to/sammyokun/-3c4j)
+- [great insights](https://dev.to/tanvir_azad/-3og9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
