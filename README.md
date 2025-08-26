@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Secure ArgoCD Multi-Cluster Deployment in AWS EKS with IRSA](https://dev.to/dedicatted/secure-argocd-multi-cluster-deployment-in-aws-eks-with-irsa-36mj)
-- [The Ultimate Guideto AI Tools for Bloggers in](https://dev.to/mohamed_akbib_43046944505/the-ultimate-guideto-ai-tools-for-bloggers-in-18mg)
-- [Go 1.25 Highlights: How Generics and Performance Define the Future of Go](https://dev.to/leapcell/go-125-highlights-how-generics-and-performance-define-the-future-of-go-4pdh)
-- [Dr. David Lo será Keynote Speaker na TechDebt 2026, no Rio de Janeiro](https://dev.to/fronteirases/dr-david-lo-sera-keynote-speaker-na-techdebt-2026-no-rio-de-janeiro-42fo)
-- [Platform Engineering at CNS Munich](https://dev.to/camptocamp-ops/platform-engineering-at-cns-munich-20f6)
+- [Part-26: Create a Regional Persistent Disk and associate to multiple VM in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-26-create-a-regional-persistent-disk-and-associate-to-multiple-vm-in-google-cloud-platform-5f9j)
+- [Build self-hosted local AI workflows with Docker, n8n, Ollama, and ngrok](https://dev.to/ngrok/build-self-hosted-local-ai-workflows-with-docker-n8n-ollama-and-ngrok-40jh)
+- [Why Building AI Agents with UiPath is More Robust Than Using Low-Code Tools by David Malick Dieng](https://dev.to/davidmalickdieng/why-building-ai-agents-with-uipath-is-more-robust-than-using-low-code-toolsby-david-malick-dieng-4pk3)
+- [I Turned My Portfolio Into a Newspaper 📰 &lpar;With Mini-Games!&rpar;](https://dev.to/talha_rizwan_a1a797dab610/i-turned-my-portfolio-into-a-newspaper-with-mini-games-1mk4)
+- [Being a Developer in the Vibe Coding Era](https://dev.to/andychiare/being-a-developer-in-the-vibe-coding-era-3me8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
