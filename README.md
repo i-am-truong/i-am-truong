@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Pub/Sub System in .NET: MassTransit, Reactive Extensions, and BlockingCollection](https://dev.to/stevsharp/building-a-pubsub-system-in-net-masstransit-reactive-extensions-and-blockingcollection-2i6a)
-- [🎯 Master Backtracking in Interviews: The 20% Patterns That Solve 90% of Problems](https://dev.to/karunya_devi_e6b65ee09c8d/master-backtracking-in-interviews-the-20-patterns-that-solve-90-of-problems-26gb)
-- [My first page](https://dev.to/learningashort/my-first-page-3aga)
-- [🚀 GitHub Copilot: A Persona-Based Approach to Real-World Development](https://dev.to/this-is-learning/github-copilot-a-persona-based-approach-to-real-world-development-56ee)
-- [Vibe Code an Agentic App in Under 7 Minutes](https://dev.to/copilotkit/vibe-code-an-agentic-app-in-under-7-minutes-1dce)
+- [How to Test Zapier Webhooks Locally with Tunnelmole](https://dev.to/robbiecahill/how-to-test-zapier-webhooks-locally-with-tunnelmole-1g0)
+- [Telegram Webhook: A Developer&#39;s Guide to Local Testing](https://dev.to/robbiecahill/telegram-webhook-a-developers-guide-to-local-testing-372i)
+- [Ask why every time.....](https://dev.to/manikandan_a8f99e0153ef77/ask-why-every-time-32j8)
+- [How to Test Twilio Webhooks Locally: A Step-by-Step Guide](https://dev.to/robbiecahill/how-to-test-twilio-webhooks-locally-a-step-by-step-guide-49n9)
+- [Gateway API: The Future of Kubernetes Networking &amp; Successor to the Ingress API](https://dev.to/kelvinmanavar/gateway-api-the-future-of-kubernetes-networking-successor-to-the-ingress-api-5hjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
