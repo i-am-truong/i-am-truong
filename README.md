@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/bdougieyo/-3eda)
+- [How to Set Up an AWS Application Load Balancer for Your EC2 Instances](https://dev.to/peter_samuel_052b9056e236/how-to-set-up-an-aws-application-load-balancer-for-your-ec2-instances-8fo)
+- [Bedrock Knowledge Bases with S3 Vectors: A [Preview] CDK Quickstart](https://dev.to/michael_flanagan_red/bedrock-knowledge-bases-with-s3-vectors-a-preview-cdk-quickstart-1d8p)
+- [Table-Driven Method: How Tchaca Stopped Suffering from if and switch in React](https://dev.to/werliton/table-driven-method-how-tchaca-stopped-suffering-from-if-and-switch-in-react-535c)
 - [Setting Up Minecraft Server in AWS](https://dev.to/carmoruda/setting-up-minecraft-server-in-aws-4kci)
-- [IGN: Captured - Official Console Release Date Trailer](https://dev.to/gg_news/ign-captured-official-console-release-date-trailer-56mb)
-- [IGN: Onimusha: Way of the Sword - Official Event Demo Gameplay](https://dev.to/gg_news/ign-onimusha-way-of-the-sword-official-event-demo-gameplay-3c3m)
-- [Wie ich meine Webseite zur KI-Antwortmaschine umgebaut habe &lpar;und warum du das auch tun solltest&rpar;](https://dev.to/ivo_sa/wie-ich-meine-webseite-zur-ki-antwortmaschine-umgebaut-habe-und-warum-du-das-auch-tun-solltest-n4h)
-- [AI, AÏ, aïe, la tragédie des youtubeurs...](https://dev.to/oclcode/ai-ai-aie-la-tragedie-des-youtubeurs-6di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
