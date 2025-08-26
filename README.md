@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Autonomy Without Losing Accountability](https://dev.to/dct_technology/building-autonomy-without-losing-accountability-3c3g)
-- [How to Book Flights Using the Galileo API: A Developer’s Guide for OTAs](https://dev.to/anshikaila/how-to-book-flights-using-the-galileo-api-a-developers-guide-for-otas-187o)
-- [Intermediate JavaScript Tips to Level Up](https://dev.to/metana/intermediate-javascript-tips-to-level-up-586b)
-- [Top GitHub Copilot Shortcuts and Commands for Faster Coding](https://dev.to/codewithsimon/top-github-copilot-shortcuts-and-commands-for-faster-coding-2h9f)
-- [Top Python Concepts Every Developer Must Know](https://dev.to/suraj_kumar_fb57ae0928df2/top-python-concepts-every-developer-must-know-3hpm)
+- [Why Kubernetes is the Safety Net for Your AI Circus ?](https://dev.to/ranga-devops/why-kubernetes-is-the-safety-net-for-your-ai-circus--2l12)
+- [Blocking Suspected DDoS IPs with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/blocking-suspected-ddos-ips-with-safeline-waf-3jae)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-5a38)
+- [Mastering Binary Tree Views and Traversals in Java](https://dev.to/rock_win_c053fa5fb2399067/mastering-binary-tree-views-and-traversals-in-java-3jbl)
+- [How AI Agents Are Revolutionizing Workflow Automation](https://dev.to/onlineproxy/how-ai-agents-are-revolutionizing-workflow-automation-alb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
