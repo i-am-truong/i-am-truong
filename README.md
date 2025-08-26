@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Seed to Blossom — A Journey Through Email Campaigns](https://dev.to/mdkawsharul_islamroyal_/from-seed-to-blossom-a-journey-through-email-campaigns-4meh)
-- [AI as the Ultimate Teacher- Learn Any Subject from A Master](https://dev.to/gamepill/ai-as-the-ultimate-teacher-learn-any-subject-from-a-master-1jed)
-- [Type casting](https://dev.to/rajan_s_494d2a0d7bb0860ef/type-casting-2nli)
-- [Maker&#39;s Muse: What 3D printed gear is best? I built a machine to find out! EP1](https://dev.to/maker_youtube/makers-muse-what-3d-printed-gear-is-best-i-built-a-machine-to-find-out-ep1-3jc3)
-- [Scale your ML deployments with open source](https://dev.to/jwilliamsr/-2040)
+- [Simple Auto Login Bot](https://dev.to/masterdevsabith/simple-auto-login-bot-3031)
+- [Mitos e Realidades no Desenvolvimento de Software com IA, Paulo Borba &lpar;Cin UFPE&rpar; - Esquenta SE4FP](https://dev.to/fronteirases/mitos-e-realidades-no-desenvolvimento-de-software-com-ia-paulo-borba-cin-ufpe-esquenta-se4fp-2lbj)
+- [Student Builders Push XRPL Innovation Forward at Residency 2.0](https://dev.to/ripplexdev/student-builders-push-xrpl-innovation-forward-at-residency-20-441p)
+- [Astro Actions and Vanilla JavaScript for Forms](https://dev.to/n4n1t0/astro-actions-and-vanilla-javascript-for-forms-4lfl)
+- [2ª Escola de Estudos Empíricos em Engenharia de Software &lpar;Edição ICSE 2026&rpar;](https://dev.to/fronteirases/2a-escola-de-estudos-empiricos-em-engenharia-de-software-edicao-icse-2026-a72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
