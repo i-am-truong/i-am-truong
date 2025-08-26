@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Beast: The Outbox Pattern for Reliable Event Publishing](https://dev.to/alex_aslam/taming-the-beast-the-outbox-pattern-for-reliable-event-publishing-299g)
-- [Why I Rolled My Own Blog &lpar;and Shipped It in a Weekend&rpar;](https://dev.to/coder_b/why-i-rolled-my-own-blog-and-shipped-it-in-a-weekend-1g29)
-- [🚀 Struggling with long response times in your app?](https://dev.to/olcayhan/struggling-with-long-response-times-in-your-app-4i08)
-- [Student-Teacher Distillation: A Complete Guide for Model Compression](https://dev.to/angu10/student-teacher-distillation-a-complete-guide-for-model-compression-37ed)
-- [🚀 Meu primeiro projeto com IA e NLP em Português no Hugging Face Spaces!](https://dev.to/gpsxpc/meu-primeiro-projeto-com-ia-e-nlp-em-portugues-no-hugging-face-spaces-4i1g)
+- [8 Tool Tech Stack to Build an Enterprise-Grade RAG System &lpar;Without the Headaches&rpar;](https://dev.to/forgecode/8-tool-tech-stack-to-build-an-enterprise-grade-rag-system-without-the-headaches-i8)
+- [Using Redis in .NET Core &lpar;Step-by-Step Guide&rpar;](https://dev.to/morteza-jangjoo/using-redis-in-net-core-step-by-step-guide-3he2)
+- [N+1 Hydra: A Senior Engineer&#39;s Guide to strict_loading](https://dev.to/alex_aslam/n1-hydra-a-senior-engineers-guide-to-strictloading-1j0i)
+- [A Beginner’s Guide to Satellite Data and Vegetation Indices &lpar;NDVI, EVI &amp; Beyond&rpar;](https://dev.to/yousufbasir/a-beginners-guide-to-satellite-data-and-vegetation-indices-ndvi-evi-beyond-14nn)
+- [Mapstronaut: A Flexible Object-Mapping Library for JS/TS](https://dev.to/jprevo/introducing-mapstronaut-a-flexible-object-mapping-library-for-jsts-3470)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
