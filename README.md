@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn the Different Options to Deploy Microsoft Azure Red Hat OpenShift Clusters and Prepare Your Environment](https://dev.to/sindhuja_ns_1e491ce1088d/learn-the-different-options-to-deploy-microsoft-azure-red-hat-openshift-clusters-and-prepare-your-16ip)
-- [From Old-School to AI-Driven: Creating Professional React Code from Figma](https://dev.to/bitloops/from-old-school-to-ai-driven-creating-professional-react-code-from-figma-2139)
-- [How We Built a PaaS with Go, Kubernetes, and React](https://dev.to/pavel-hostim/how-we-built-a-paas-with-go-kubernetes-and-react-2edl)
-- [[Boost]](https://dev.to/sammyokun/-3c4j)
-- [great insights](https://dev.to/tanvir_azad/-3og9)
+- [Managing the Context Window of GPT-4o-mini in JavaScript](https://dev.to/grzegorz_dubiel_db99203fe/managing-the-context-window-of-gpt-4o-mini-in-javascript-1o1e)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_74898956/files-are-not-just-data-a-guide-to-robust-file-handling-o99)
+- [How AI Reflects Your Thinking](https://dev.to/cloudx/how-ai-reflects-your-thinking-5714)
+- [Discover Flyy.js: The Lightweight Hero for Effortless Data Management in JavaScript](https://dev.to/amazou/discover-flyyjs-the-lightweight-hero-for-effortless-data-management-in-javascript-lbp)
+- [Stop Laravel Race Conditions Before They Break Your App!](https://dev.to/devtalk94/stop-laravel-race-conditions-before-they-break-your-app-4a7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
