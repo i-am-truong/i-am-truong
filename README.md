@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Pub/Sub System in .NET: MassTransit, Reactive Extensions, and BlockingCollection](https://dev.to/stevsharp/building-a-pubsub-system-in-net-masstransit-reactive-extensions-and-blockingcollection-2i6a)
+- [🎯 Master Backtracking in Interviews: The 20% Patterns That Solve 90% of Problems](https://dev.to/karunya_devi_e6b65ee09c8d/master-backtracking-in-interviews-the-20-patterns-that-solve-90-of-problems-26gb)
+- [My first page](https://dev.to/learningashort/my-first-page-3aga)
 - [🚀 GitHub Copilot: A Persona-Based Approach to Real-World Development](https://dev.to/this-is-learning/github-copilot-a-persona-based-approach-to-real-world-development-56ee)
 - [Vibe Code an Agentic App in Under 7 Minutes](https://dev.to/copilotkit/vibe-code-an-agentic-app-in-under-7-minutes-1dce)
-- [How to Create a Random Color Generator in JavaScript](https://dev.to/sevaki_rajasekar_700822f9/how-to-create-a-random-color-generator-in-javascript-1k5f)
-- [Build a Random Background Color Changer with JavaScript](https://dev.to/megha_m/build-a-random-background-color-changer-with-javascript-380k)
-- [JavaScript Project: Random Hex Color Generator](https://dev.to/s_mathavi_2fa1e3ea8514f34/javascript-project-random-hex-color-generator-53gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
