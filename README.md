@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Color Contrast and Visual Accessibility: Why Inclusive Design Starts with the Right Shades](https://dev.to/okoye_ndidiamaka_5e3b7d30/color-contrast-and-visual-accessibility-why-inclusive-design-starts-with-the-right-shades-bp0)
-- [Why Developers Are Moving Towards Headless CMS in 2025](https://dev.to/hardeepsingh01/why-developers-are-moving-towards-headless-cms-in-2025-1j4k)
-- [🔥 Blog 3: Segment Tree &amp; Fenwick Tree &lpar;BIT&rpar; — Range Queries Made Easy](https://dev.to/rock_win_c053fa5fb2399067/blog-3-segment-tree-fenwick-tree-bit-range-queries-made-easy-3m62)
-- [🔥 Blog 2: Topological Sort &amp; Kahn’s Algorithm in DSA](https://dev.to/rock_win_c053fa5fb2399067/blog-2-topological-sort-kahns-algorithm-in-dsa-3om8)
-- [🔥 Blog 1: String Matching Algorithms in DSA &lpar;KMP, Rabin-Karp, Z-Algorithm&rpar;](https://dev.to/rock_win_c053fa5fb2399067/blog-1-string-matching-algorithms-in-dsa-kmp-rabin-karp-z-algorithm-1ojb)
+- [GitOps and DevOps: Are they the same thing?](https://dev.to/techielass/gitops-and-devops-are-they-the-same-thing-2kcn)
+- [The Awareness Paradox — How Attention Makes Us Brilliant and Blind🧠🔦🤹](https://dev.to/abhishek_gautam-01/the-awareness-paradox-how-attention-makes-us-brilliant-and-blind-4icc)
+- [JustSimple.tools – A Curated Directory of Simple Tools for Indie Hackers](https://dev.to/killer_scofield_d2f41df11/justsimpletools-a-curated-directory-of-simple-tools-for-indie-hackers-4o35)
+- [Building EUDR Compliance Made Simple: A Complete Guide to www.eudr-api.eu](https://dev.to/marko_frnti_4a64e26156fc/building-eudr-compliance-made-simple-a-complete-guide-to-wwweudr-apieu-8ml)
+- [Go Coding with Asparagos: The Smartest Peanut in the Neighborhood](https://dev.to/asparagos/go-coding-with-asparagos-the-smartest-peanut-in-the-neighborhood-3o92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
