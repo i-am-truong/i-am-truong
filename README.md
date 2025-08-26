@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing the Context Window of GPT-4o-mini in JavaScript](https://dev.to/grzegorz_dubiel_db99203fe/managing-the-context-window-of-gpt-4o-mini-in-javascript-1o1e)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_74898956/files-are-not-just-data-a-guide-to-robust-file-handling-o99)
-- [How AI Reflects Your Thinking](https://dev.to/cloudx/how-ai-reflects-your-thinking-5714)
-- [Discover Flyy.js: The Lightweight Hero for Effortless Data Management in JavaScript](https://dev.to/amazou/discover-flyyjs-the-lightweight-hero-for-effortless-data-management-in-javascript-lbp)
-- [Stop Laravel Race Conditions Before They Break Your App!](https://dev.to/devtalk94/stop-laravel-race-conditions-before-they-break-your-app-4a7c)
+- [How to Customize Any WordPress Theme with AI](https://dev.to/tishonator/how-to-customize-any-wordpress-theme-with-ai-12h9)
+- [&quot;From Beginner to Pro: How Payilagam Training Institute Can Help&quot;](https://dev.to/kiran_raj_d6a648e3da320c1/from-beginner-to-pro-how-payilagam-training-institute-can-help-1f2l)
+- [Becoming a TypeScript Pro – Part 3: Advanced &amp; Enterprise-Level Features](https://dev.to/usman_awan/becoming-a-typescript-pro-part-3-advanced-enterprise-level-features-59d8)
+- [Format and fix code with the Apps Script command palette](https://dev.to/googleworkspace/format-and-fix-code-with-the-apps-script-command-palette-2ogl)
+- [Why I’m Not Ready to Trust BiomeJS &lpar;Yet&rpar;](https://dev.to/mvahedii/why-im-not-ready-to-trust-biomejs-yet-j9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
