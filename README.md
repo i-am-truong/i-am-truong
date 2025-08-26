@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Software maintenance automation](https://dev.to/paulo_pereira_1b5c5b129fa/software-maintenance-automation-4dl5)
-- [Part-26: Create a Regional Persistent Disk and associate to multiple VM in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-26-create-a-regional-persistent-disk-and-associate-to-multiple-vm-in-google-cloud-platform-5f9j)
-- [Build self-hosted local AI workflows with Docker, n8n, Ollama, and ngrok](https://dev.to/ngrok/build-self-hosted-local-ai-workflows-with-docker-n8n-ollama-and-ngrok-40jh)
-- [Best Office Chairs for Programmers](https://dev.to/saifa/best-office-chairs-for-programmers-14il)
-- [Why Building AI Agents with UiPath is More Robust Than Using Low-Code Tools by David Malick Dieng](https://dev.to/davidmalickdieng/why-building-ai-agents-with-uipath-is-more-robust-than-using-low-code-toolsby-david-malick-dieng-4pk3)
+- [TalkJS Alternatives – Comparing the Top 7 Competitors](https://dev.to/getstreamhq/talkjs-alternatives-comparing-the-top-7-competitors-3gde)
+- [Getting Started with Docker and Docker Compose: A Beginner’s Guide](https://dev.to/sam_mabuka/getting-started-with-docker-and-docker-compose-a-beginners-guide-48m7)
+- [Introducing ZentoraOS](https://dev.to/bhuvaneshm_dev/introducing-zentoraos-3ad4)
+- [How Codex Storage Could Redefine Healthcare Data Security and Privacy](https://dev.to/devdotun/how-codex-storage-could-redefine-healthcare-data-security-and-privacy-5g8d)
+- [HackTeam.RED: From API Keys to Full Infrastructure Compromise](https://dev.to/toxy4ny/hackteamred-from-api-keys-to-full-infrastructure-compromise-48ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
