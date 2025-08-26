@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_74898956/you-might-not-need-websockets-the-simple-power-of-server-sent-events-5fjd)
-- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: $1250?!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-1250-46f1)
-- [KEXP: Coral Grief - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-coral-grief-full-performance-live-on-kexp-3jhf)
-- [What Makes a Good Website? Lessons From the Edge](https://dev.to/lewiskori/what-makes-a-good-website-lessons-from-the-edge-3aoa)
-- [No Laying Up Podcast: BallKnowers: 2025 NFL Season Preview | Trap Draw, Ep 356](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-2025-nfl-season-preview-trap-draw-ep-356-22mc)
+- [Track Your Developer Advocate Impact Like a Pro with DevRel MCP](https://dev.to/labeveryday/track-your-developer-advocate-impact-like-a-pro-with-devrel-mcp-32k6)
+- [Mobile Application Security Testing](https://dev.to/radia2025/mobile-application-security-testing-2ben)
+- [Still time to get your questions in!](https://dev.to/ben/still-time-to-get-your-questions-in-5706)
+- [AI MVP Development Made Simple: Delivered in Weeks](https://dev.to/kethan_dosapati_da34eda79/ai-mvp-development-made-simple-delivered-in-weeks-1cp5)
+- [Next‑Gen Chatbots: Extending Chat with MCP](https://dev.to/om_shree_0709/next-gen-chatbots-extending-chat-with-mcp-om7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
