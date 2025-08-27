@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solving Distributed ID Challenges with Snowflake IDs in TypeScript](https://dev.to/shahrad/solving-distributed-id-challenges-with-snowflake-ids-in-typescript-3910)
-- [Smooth, Jank-Free Animations with CSS and JavaScript: Performance Best Practices](https://dev.to/anisubhra_sarkar/smooth-jank-free-animations-with-css-and-javascript-performance-best-practices-46ff)
-- [How Time Series Reveal the Future: An Introduction to the ARIMA Model](https://dev.to/moubarakmohame4/how-time-series-reveal-the-future-an-introduction-to-the-arima-model-2k81)
-- [You Don’t Know the Depth of Your Passion Until You Step Away](https://dev.to/officialepicquotes/you-dont-know-the-depth-of-your-passion-until-you-step-away-351p)
-- [Bitwise Operation](https://dev.to/safal_bhandari/bitwise-operation-211b)
+- [What in the World Is GitHub Coding Agent?](https://dev.to/anchildress1/what-in-the-world-is-github-coding-agent-2m8p)
+- [SOC-CERT: Automated Threat Intelligence System with n8n &amp; AI](https://dev.to/joupify/soc-cert-automated-threat-intelligence-system-with-n8n-ai-5722)
+- [What Happens When You Type a URL in the Browser?](https://dev.to/arnavsharma2711/what-happens-when-you-type-a-url-in-the-browser-5dno)
+- [Do Caos à Orquestração: Como o DataOps Está Transformando Dados em Valor](https://dev.to/guigasque/do-caos-a-orquestracao-como-o-dataops-esta-transformando-dados-em-valor-5f1)
+- [Code 101: Swap Nodes in Pairs](https://dev.to/garvit_khamesra/code-101-swap-nodes-in-pairs-4jjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
