@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Designing Food Festival 3: Building a Cozy Cooking Game Without Timers, Ads, or Stress](https://dev.to/tatomamo_games/designing-food-festival-3-building-a-cozy-cooking-game-without-timers-ads-or-stress-1ecf)
+- [K-Means clustering a very interesting article on R programming](https://dev.to/dipti_m_2e7ba36c478d1a48a/k-means-clustering-a-very-interesting-article-on-r-programming-1mgb)
+- [Exploring Assumptions of K-means Clustering using R](https://dev.to/dipti_m_2e7ba36c478d1a48a/exploring-assumptions-of-k-means-clustering-using-r-5e94)
 - [Centralized MTurk HIT Catcher with PHP &amp; Userscripts](https://dev.to/da_faq/centralized-mturk-hit-catcher-with-php-userscripts-1a0a)
-- [Evolution of Honda Acty HA8 &amp; HA9 &lpar;2009–2022&rpar;: What’s Changed Under the Hood](https://dev.to/evan_cheng_8287682f4d5df9/evolution-of-honda-acty-ha8-ha9-2009-2022-whats-changed-under-the-hood-1plf)
-- [Part-28: Google Compute Engine Disk Images](https://dev.to/latchudevops/part-28-google-compute-engine-disk-images-4271)
-- [Visualise your Certifications with the Exam Timeline Project](https://dev.to/techielass/visualise-your-certifications-with-the-exam-timeline-project-2o3e)
-- [The cost of serverless application development on AWS: A Collector&#39;s Platform case study](https://dev.to/u11d/the-cost-of-serverless-application-development-on-aws-a-collectors-platform-case-study-27m9)
+- [MITRE ATT&amp;CK Framework](https://dev.to/godofgeeks/mitre-attck-framework-34jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
