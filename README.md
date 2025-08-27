@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chaque bug est une opportunité. Chaque app, une solution](https://dev.to/prince_b_one/chaque-bug-est-une-opportunite-chaque-app-une-solution-190l)
+- [Multi-Environment GCP Web Application Infrastructure with Auto-Scaling](https://dev.to/benn1440/multi-environment-gcp-web-application-infrastructure-with-auto-scaling-2gf9)
 - [My Next Certification Journey Starts Not with Code, but with Logic](https://dev.to/mzunairtariq/my-next-certification-journey-starts-not-with-code-but-with-logic-1bb9)
 - [MAP ZAYRA JIMENEZ](https://dev.to/jimenz2/map-zayra-jimenez-486b)
 - [PostgreSQL JSONB Size Limits to Prevent TOAST Slicing](https://dev.to/franckpachot/postgresql-jsonb-size-limits-to-prevent-toast-slicing-9e8)
-- [Bryan Bros Golf: Golf Match @ #1 Public Course In The World!](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-1-public-course-in-the-world-b7f)
-- [IGN: Infinity Nikki Stardew Valley - Official Collaboration Trailer](https://dev.to/gg_news/ign-infinity-nikki-x-stardew-valley-official-collaboration-trailer-2041)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
