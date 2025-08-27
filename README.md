@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Year in Review: What 2024 Taught Me as a Developer](https://dev.to/as1100k/year-in-review-what-2024-taught-me-as-a-developer-58hd)
-- [Renting GPT vs. Building Your Own AI: The True Cost of Chatbots](https://dev.to/ksr007/renting-gpt-vs-building-your-own-ai-the-true-cost-of-chatbots-f3b)
-- [Building and Deploying a Simple Banking Application Using Containerization and Cloud Automation](https://dev.to/goodluck_ekeoma_2c98866d0/building-and-deploying-a-simple-banking-application-using-containerization-and-cloud-automation-4162)
-- [Laptop Keycap Buying Guide: A Complete Comparison from Feel to Durability](https://dev.to/mysticcoder/laptop-keycap-buying-guide-a-complete-comparison-from-feel-to-durability-3d0k)
-- [Implement the useStateWithReset custom hook in React](https://dev.to/debajit13/implement-the-usestatewithreset-custom-hook-in-react-3fh3)
+- [Centralized MTurk HIT Catcher with PHP &amp; Userscripts](https://dev.to/da_faq/centralized-mturk-hit-catcher-with-php-userscripts-1a0a)
+- [Evolution of Honda Acty HA8 &amp; HA9 &lpar;2009–2022&rpar;: What’s Changed Under the Hood](https://dev.to/evan_cheng_8287682f4d5df9/evolution-of-honda-acty-ha8-ha9-2009-2022-whats-changed-under-the-hood-1plf)
+- [Part-28: Google Compute Engine Disk Images](https://dev.to/latchudevops/part-28-google-compute-engine-disk-images-4271)
+- [Visualise your Certifications with the Exam Timeline Project](https://dev.to/techielass/visualise-your-certifications-with-the-exam-timeline-project-2o3e)
+- [The cost of serverless application development on AWS: A Collector&#39;s Platform case study](https://dev.to/u11d/the-cost-of-serverless-application-development-on-aws-a-collectors-platform-case-study-27m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
