@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Postman vs Bruno: What Are the Key Differences?](https://dev.to/fallon_jimmy/postman-vs-bruno-what-are-the-key-differences-5ba7)
 - [ANN: stone_checksums v1.0.2](https://dev.to/galtzo/ann-stonechecksums-v102-1cl7)
 - [NumPy on Ubuntu: From Zero to First Arrays](https://dev.to/anashussain284/numpy-on-ubuntu-from-zero-to-first-arrays-506i)
 - [Code 101: Rat in a Maze](https://dev.to/garvit_khamesra/code-101-rat-in-a-maze-9j)
 - [Gold as Investment](https://dev.to/madgan95/gold-as-investment-17ba)
-- [Code 101: Sort a Stack using Recursion](https://dev.to/garvit_khamesra/code-101-sort-a-stack-using-recursion-157p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
