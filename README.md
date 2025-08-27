@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I quit my job to build my own startup](https://dev.to/geojacobm6/i-quit-my-job-to-build-my-own-startup-1aef)
-- [Getting Started with the Emscripten File System](https://dev.to/yangholmes/getting-started-with-the-emscripten-file-system-57h7)
-- [🚀 Laravel Request Lifecycle Explained &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/rohitdhiman/laravel-request-lifecycle-explained-beginner-friendly-guide-3b4)
-- [Six bets on web development in the era of AI](https://dev.to/valeriavg/six-bets-on-web-development-in-the-era-of-ai-2ppa)
-- [🔥 LeetCode 3459 — Length of Longest V-Shaped Diagonal Segment &lpar;C++, Python, Java, JavaScript, Go &amp; C#&rpar;](https://dev.to/om_shree_0709/leetcode-3459-length-of-longest-v-shaped-diagonal-segment-c-python-java-javascript-go--20c0)
+- [Google’s Secret Sauce: Privacy-Safe AI That Amplifies Rare Signals](https://dev.to/aiwithapex/googles-secret-sauce-privacy-safe-ai-that-amplifies-rare-signals-2mce)
+- [Hands-On with MongoDB: Storing, Querying, and Analyzing Data](https://dev.to/sugithaa_k/hands-on-with-mongodb-storing-querying-and-analyzing-data-d01)
+- [Building Chrome Dinosaur Game in Pygame &lpar;Part 0: Intro &amp; Setup&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-0-intro-setup-1gnj)
+- [Building AI Agents with Haystack and Gaia Node: A Practical Guide](https://dev.to/gaiaai/building-ai-agents-with-haystack-and-gaia-node-a-practical-guide-5993)
+- [Vibe Coding Is Going Mainstream—But Token Costs Still Gate Who Gets to Join](https://dev.to/xkevin_le/vibe-coding-is-going-mainstream-but-token-costs-still-gate-who-gets-to-join-cp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
