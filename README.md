@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Soft Skills Matter More Than You Think for Developers](https://dev.to/umairarshad-dev/why-soft-skills-matter-more-than-you-think-for-developers-198c)
-- [Do you think AI coding assistants &lpar;like Copilot or ChatGPT&rpar; will eventually set new coding standards, or just become personal helpers for each developer?](https://dev.to/kevinasutton/do-you-think-ai-coding-assistants-like-copilot-or-chatgpt-will-eventually-set-new-coding-3j3e)
-- [🚀 Secure Your Flutter Apps Like a Pro! 🔐](https://dev.to/coderaray5/secure-your-flutter-apps-like-a-pro-4jo2)
-- [Two Days Away from Launch: A Fellow Crafter&#39;s Journey to Solving Our Biggest Challenge](https://dev.to/hiromis_rosamartinezmar/two-days-away-from-launch-a-fellow-crafters-journey-to-solving-our-biggest-challenge-3gh9)
-- [Vibe Coding a Simple Feature Took 3 Hours. Here&#39;s Why.](https://dev.to/js402/vibe-coding-a-simple-feature-took-3-hours-heres-why-4f7m)
+- [Laravel-Module-Create: Streamline Your Development with Modularity](https://dev.to/wr2net/laravel-module-create-streamline-your-development-with-modularity-18p5)
+- [How to Use ChatGPT to help build AI Voice Agents](https://dev.to/wiljansantiago/how-to-use-chatgpt-to-help-build-ai-voice-agents-2j11)
+- [A change in vision | Building Stocksimpy &lpar;Devlog 4&rpar;](https://dev.to/suleyman_sade/a-change-in-vision-building-stocksimpy-devlog-4-hb5)
+- [Release &amp; Deprecation Sentinel — Autonomous SRE Copilot with Bright Data + n8n](https://dev.to/mohankrishnaalavala/release-deprecation-sentinel-autonomous-sre-copilot-with-bright-data-n8n-3f50)
+- [Product pricing in a saturated market - the Postly use case](https://dev.to/iampaulonu/product-pricing-in-a-saturated-market-the-postly-use-case-2gf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
