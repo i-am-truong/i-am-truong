@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code 101: K-th Symbol in Grammar](https://dev.to/garvit_khamesra/code-101-k-th-symbol-in-grammar-5d35)
-- [AI Coding Agents Meet Production Environment with the Inspector MCP Server](https://dev.to/inspector/ai-coding-agents-meet-production-environment-with-the-inspector-mcp-server-1cka)
-- [My thoughts on the business case by AI &lpar;ChatGPT&rpar;](https://dev.to/oscarrobertstar/my-thoughts-on-the-business-case-by-ai-chatgpt-4pg7)
-- [I Built an AI Event Butler So I&#39;d Never Miss Another Tech Meetup &lpar;And You Can Too&rpar;](https://dev.to/varshithvhegde/i-built-an-ai-event-butler-so-id-never-miss-another-tech-meetup-and-you-can-too-37io)
-- [Integrate jte with Spring Boot](https://dev.to/tleipzig/integrate-jte-with-spring-boot-e7i)
+- [Turning Claude Code Into My Best Design Partner](https://dev.to/scastiel/turning-claude-code-into-my-best-design-partner-59a3)
+- [Digging into open-source Unity VR Games. Part 2: NorthStar](https://dev.to/pvsdev/digging-into-open-source-unity-vr-games-part-2-northstar-4en)
+- [Micronaut 4 application on AWS Lambda- Part 2 Reducing Lambda cold starts with Lambda SnapStart](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-2-reducing-lambda-cold-starts-with-lambda-snapstart-9l6)
+- [[Boost]](https://dev.to/ben/-3d2p)
+- [NX Compromised to Steal Wallets and Credentials https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/](https://dev.to/ben/nx-compromised-to-steal-wallets-and-credentials-5goh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
