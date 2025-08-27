@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Bots Killed My WooCommerce Site Until I Automated WP Rocket Filter Caching](https://dev.to/trueqap/how-bots-killed-my-woocommerce-site-until-i-automated-wp-rocket-filter-caching-1ba0)
-- [DOCKER](https://dev.to/datawithsarah/docker-3pk0)
-- [Preparing for your upcoming System Design interview? This guide will get you hired.](https://dev.to/fahimulhaq/preparing-for-your-upcoming-system-design-interview-this-guide-will-get-you-hired-18ha)
-- [Automating Complex Workflows with N8n: A Practical Guide for Regular Users](https://dev.to/onlineproxy/automating-complex-workflows-with-n8n-a-practical-guide-for-regular-users-479f)
-- [Google’s Secret Sauce: Privacy-Safe AI That Amplifies Rare Signals](https://dev.to/aiwithapex/googles-secret-sauce-privacy-safe-ai-that-amplifies-rare-signals-2mce)
+- [Why Clean Code Feels Invisible &lpar;And That&#39;s the Point&rpar;](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-clean-code-feels-invisible-and-thats-the-point-m4)
+- [aria - Event Driven websocket framework](https://dev.to/n9te9/aria-event-driven-websocket-framework-46jl)
+- [Using ProtonVPN with OpenVPN on Arch Linux &lpar;for Japan servers 🇯🇵&rpar;](https://dev.to/musagy/using-protonvpn-with-openvpn-on-arch-linux-for-japan-servers--1049)
+- [Absolutely an Excited Newbie](https://dev.to/iblookn4u2/absolutely-an-excited-newbie-5g0n)
+- [The Debugging Mindset That Turned Me Into a Better Coder](https://dev.to/leena_malhotra_355340d89c/the-debugging-mindset-that-turned-me-into-a-better-coder-3g8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
