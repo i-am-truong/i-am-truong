@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Universal database MCP server for MySQL, PostgreSQL, SQL Server, MariaDB,Oracle](https://dev.to/wenb1ndev/universal-database-mcp-server-for-mysql-postgresql-sql-server-mariadboracle-2cpa)
-- [Why Industrial TFT LCD Displays Are the Backbone of Modern Manufacturing](https://dev.to/dora_001/why-industrial-tft-lcd-displays-are-the-backbone-of-modern-manufacturing-3mea)
-- [8 Best Practices for Adding an Image Uploader to Your Website](https://dev.to/ideradevtools/8-best-practices-for-adding-an-image-uploader-to-your-website-4l8f)
-- [Alec Steele: How Fine Leather Bags Are Handmade In Great Britain](https://dev.to/maker_youtube/alec-steele-how-fine-leather-bags-are-handmade-in-great-britain-1oc3)
-- [Rick Beato: Am I The Only One Who Gives A Sh*t?](https://dev.to/music_youtube/rick-beato-am-i-the-only-one-who-gives-a-sht-4b5n)
+- [Year in Review: What 2024 Taught Me as a Developer](https://dev.to/as1100k/year-in-review-what-2024-taught-me-as-a-developer-58hd)
+- [Renting GPT vs. Building Your Own AI: The True Cost of Chatbots](https://dev.to/ksr007/renting-gpt-vs-building-your-own-ai-the-true-cost-of-chatbots-f3b)
+- [Building and Deploying a Simple Banking Application Using Containerization and Cloud Automation](https://dev.to/goodluck_ekeoma_2c98866d0/building-and-deploying-a-simple-banking-application-using-containerization-and-cloud-automation-4162)
+- [Laptop Keycap Buying Guide: A Complete Comparison from Feel to Durability](https://dev.to/mysticcoder/laptop-keycap-buying-guide-a-complete-comparison-from-feel-to-durability-3d0k)
+- [Implement the useStateWithReset custom hook in React](https://dev.to/debajit13/implement-the-usestatewithreset-custom-hook-in-react-3fh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
