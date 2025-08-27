@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IA e Segurança de Software: Automação ou Novo Vetor de Ataques?](https://dev.to/targanski/ia-e-seguranca-de-software-automacao-ou-novo-vetor-de-ataques-1l99)
-- [Event-Driven Architecture &lpar;EDA&rpar;](https://dev.to/programadriano/event-driven-architecture-eda-arquitetura-orientada-a-eventos-5ckb)
-- [O que é Clean Architecture?](https://dev.to/nathanndos/o-que-e-clean-architecture-36h4)
-- [Vibe coding agents- good or bad?](https://dev.to/peteteaa/vibe-coding-agents-good-or-bad-5cf0)
-- [Galene - a Simple Videoconferencing Server. Installation on VPS](https://dev.to/sledov/galene-a-simple-videoconferencing-server-installation-on-vps-g4n)
+- [🚀 কিভাবে আমি ৩টি সফটওয়্যার প্রোজেক্ট দিয়ে বাস্তব সমস্যার সমাধান করেছি](https://dev.to/noor_shahbaj/kibhaabe-aami-3tti-sphttoyyyaar-projektt-diyye-baastb-smsyaar-smaadhaan-krechi-4gia)
+- [🔒 Angular Security Best Practices Every Developer Should Know &lpar;With Examples&rpar;](https://dev.to/rohit_singh_ee84e64941db7/angular-security-best-practices-every-developer-should-know-with-examples-5hdd)
+- [# Day 6 · Vector anisotropy and collapse &lpar;No.5, No.6&rpar;](https://dev.to/onestardao/-day-6-vector-anisotropy-and-collapse-no5-no6-49bb)
+- [AI-Powered Company Intelligence Bot: Real-Time Business Analysis with n8n and Bright Data](https://dev.to/depapp/ai-powered-company-intelligence-bot-real-time-business-analysis-with-n8n-and-bright-data-4787)
+- [IGN: Destiny: Rising - Official Global Launch Developer Preview Video](https://dev.to/gg_news/ign-destiny-rising-official-global-launch-developer-preview-video-b4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
