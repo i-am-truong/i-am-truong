@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Journey of a Microsoft Learn Student Ambassador](https://dev.to/applexity_ox/my-journey-of-a-microsoft-learn-student-ambassador-1ho3)
-- [“Step-by-Step Guide: Attaching and Mounting an EBS Volume on Ubuntu EC2”](https://dev.to/olamide2758/step-by-step-guide-attaching-and-mounting-an-ebs-volume-on-ubuntu-ec2-1cc6)
-- [Can I Let AI Work While I Drink Coffee? A Hard-Learned Lesson](https://dev.to/luke_tong_d4f228249f32d86/can-i-let-ai-work-while-i-drink-coffee-a-hard-learned-lesson-57ej)
-- [Me ajudou bastante](https://dev.to/dev_king/me-ajudou-bastante-1nn0)
-- [Don’t Marry an LLM, Date Many](https://dev.to/aimichael/dont-marry-an-llm-date-many-44oe)
+- [IA e Segurança de Software: Automação ou Novo Vetor de Ataques?](https://dev.to/targanski/ia-e-seguranca-de-software-automacao-ou-novo-vetor-de-ataques-1l99)
+- [Event-Driven Architecture &lpar;EDA&rpar;](https://dev.to/programadriano/event-driven-architecture-eda-arquitetura-orientada-a-eventos-5ckb)
+- [O que é Clean Architecture?](https://dev.to/nathanndos/o-que-e-clean-architecture-36h4)
+- [Vibe coding agents- good or bad?](https://dev.to/peteteaa/vibe-coding-agents-good-or-bad-5cf0)
+- [Galene - a Simple Videoconferencing Server. Installation on VPS](https://dev.to/sledov/galene-a-simple-videoconferencing-server-installation-on-vps-g4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
