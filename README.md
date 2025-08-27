@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing semantic Html.](https://dev.to/pinchez_coder/implementing-semantic-html-29oe)
-- [PDF SDK Library Licensing and Pricing Guide for Java Developers](https://dev.to/idrsolutions/pdf-sdk-library-licensing-and-pricing-guide-for-java-developers-32m1)
-- [Webship-js: When I attach the file &quot;file name&quot; to &quot;element&quot;](https://dev.to/webshipco/webship-js-when-i-attach-the-file-file-name-to-element-p63)
-- [Tired of Postman? 7 Lightweight API Testing Tools Developers Actually Use in 2025 🚀](https://dev.to/ilsa_shaikh_089e2bfab0bf4/tired-of-postman-7-lightweight-api-testing-tools-developers-actually-use-in-2025-33fe)
-- [Natural Language Processing in Artificial Intelligence Explained – Applify](https://dev.to/manpreet27/natural-language-processing-in-artificial-intelligence-explained-applify-7n3)
+- [Computer Fundamentals - 1](https://dev.to/learneveryday_cs/computer-fundamentals-238c)
+- [Introducing AICreate.video — Unified AI Video &amp; Image Studio](https://dev.to/paulmorefield/introducing-aicreatevideo-unified-ai-video-image-studio-2afp)
+- [My First Webapp - AI written](https://dev.to/pravin_niceguy/my-first-webapp-ai-written-25cj)
+- [Learning TypeScript by Building a Markdown Editor](https://dev.to/rajkundalia/learning-typescript-by-building-a-markdown-editor-3601)
+- [Build AI Agents with n8n on Linux Ubuntu](https://dev.to/chiragx309/build-ai-agents-with-n8n-on-linux-ubuntu-5bdl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
