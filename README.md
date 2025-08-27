@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SEMENTIC HTML](https://dev.to/72iamvinnie/sementic-html-e7b)
-- [Building a Simple Server Monitoring Script in My Homelab](https://dev.to/trenation/building-a-simple-server-monitoring-script-in-my-homelab-4d97)
-- [&lpar;Part 7&rpar; Build a Simple Chat Character Gallery: Implementing the Chat Page UI](https://dev.to/jte0711/part-7-build-a-simple-chat-character-gallery-implementing-the-chat-page-ui-hb8)
-- [How to Create a Bootable USB Windows 10 Using Rufus](https://dev.to/siswoyo/how-to-create-a-bootable-usb-windows-10-using-rufus-1876)
-- [🌱My Day-to-Day Learning Journey &lpar;Ganesh Chaturthi Special&rpar; Day-1](https://dev.to/dev_bhuva_07/my-day-to-day-learning-journey-ganesh-chaturthi-special-day-1-2312)
+- [Genesis DB 1.0.0: Production-Ready and Battle-Tested](https://dev.to/patriceckhart/genesis-db-100-production-ready-and-battle-tested-295)
+- [Ownership and Borrowing: My Journey Into Rust’s Unique Memory System](https://dev.to/agecoder/ownership-and-borrowing-my-journey-into-rusts-unique-memory-system-3nbm)
+- [Solving cold start in AWS Lambda with intelligent distributed Cache](https://dev.to/aws-builders/solving-cold-start-in-aws-lambda-with-intelligent-distributed-cache-3g6n)
+- [Day 78: When Your Brain Refuses to Rest](https://dev.to/casperday11/day-78-when-your-brain-refuses-to-rest-2lf0)
+- [How to apply Terraform to deploy your Spring Boot apps to K8s](https://dev.to/said_olano/how-to-apply-terraform-to-deploy-your-spring-boot-apps-to-k8s-2fh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
