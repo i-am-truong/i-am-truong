@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-27: 🚀 Google Cloud Hyperdisk and Storage Pools – A Hands-On Guide](https://dev.to/latchudevops/part-27-google-cloud-hyperdisk-and-storage-pools-a-hands-on-guide-3ig8)
-- [WUSH Light Theme for VS Code](https://dev.to/wujerry/wush-light-theme-for-vs-code-1jk)
-- [Calculate the first N terms of the Fibonacci sequence--Programming Practice](https://dev.to/esproc_spl/calculate-the-first-n-terms-of-the-fibonacci-sequence-programming-practice-1agb)
-- [Using ProtonVPN with OpenVPN on Arch Linux &lpar;for Japan servers 🇯🇵&rpar;](https://dev.to/musagy/using-protonvpn-with-openvpn-on-arch-linux-for-japan-servers--267p)
-- [Designing for Scale: Why Small Decisions Break Big Systems](https://dev.to/dct_technology/designing-for-scale-why-small-decisions-break-big-systems-4039)
+- [Universal database MCP server for MySQL, PostgreSQL, SQL Server, MariaDB,Oracle](https://dev.to/wenb1ndev/universal-database-mcp-server-for-mysql-postgresql-sql-server-mariadboracle-2cpa)
+- [Why Industrial TFT LCD Displays Are the Backbone of Modern Manufacturing](https://dev.to/dora_001/why-industrial-tft-lcd-displays-are-the-backbone-of-modern-manufacturing-3mea)
+- [8 Best Practices for Adding an Image Uploader to Your Website](https://dev.to/ideradevtools/8-best-practices-for-adding-an-image-uploader-to-your-website-4l8f)
+- [Alec Steele: How Fine Leather Bags Are Handmade In Great Britain](https://dev.to/maker_youtube/alec-steele-how-fine-leather-bags-are-handmade-in-great-britain-1oc3)
+- [Rick Beato: Am I The Only One Who Gives A Sh*t?](https://dev.to/music_youtube/rick-beato-am-i-the-only-one-who-gives-a-sht-4b5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
