@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Made some upgrades to my little “newbie project” … while at work! 🤫💻](https://dev.to/leocoding0326/made-some-upgrades-to-my-little-newbie-project-while-at-work-1fen)
+- [Hack the Box — Meow &lpar;telnet&rpar;](https://dev.to/er/hack-the-box-meow-telnet-301g)
+- [UUIDv7 Benefits Over UUIDv4: Why and When to Use It](https://dev.to/takiuddinahmed/uuidv7-benefits-over-uuidv4-why-and-when-to-use-it-1cmb)
 - [We Built It, Then We Freed It: Telemetry Harbor Goes Open Source](https://dev.to/telemetryharbor/we-built-it-then-we-freed-it-telemetry-harbor-goes-open-source-1j31)
 - [🔎 Introduction to Linear Search &lpar;Beginner-Friendly DSA&rpar;](https://dev.to/giftintech/introduction-to-linear-search-beginner-friendly-dsa-4jle)
-- [Tihn](https://dev.to/githogora_wilson_47df4080/tihn-320l)
-- [KENYA CROPS ANALYSIS](https://dev.to/njeri_kimaru/kenya-crops-analysis-2nif)
-- [Ship It Without Drama: 12 Hard-Won Lessons from Building Production Next.js Apps](https://dev.to/philldevcoder/ship-it-without-drama-12-hard-won-lessons-from-building-production-nextjs-apps-3939)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
