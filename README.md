@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns Simplified: Part 22 — Interpreter Pattern &lpar;a.k.a. “The Rule Engine”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-22-interpreter-pattern-aka-the-rule-engine-45bc)
-- [The Cloud Isn&#39;t Magic, It&#39;s a Metaphor: From VMs to Kubernetes on OCI](https://dev.to/smyekh/the-cloud-isnt-magic-its-a-metaphor-from-vms-to-kubernetes-on-oci-8ee)
-- [Weekly Update #6](https://dev.to/abytebybyte/weekly-update-6-3oj9)
-- [EEPROM Read and Write Operations with Arduino](https://dev.to/inngoose/eeprom-read-and-write-operations-with-arduino-2ll4)
-- [Working with Yelp Data in MongoDB: CRUD Operations and Queries](https://dev.to/vignesh_k_165855f8c465905/working-with-yelp-data-in-mongodb-crud-operations-and-queries-5d0o)
+- [Tired of Postman? 7 Lightweight API Testing Tools Developers Actually Use in 2025 🚀](https://dev.to/ilsa_shaikh_089e2bfab0bf4/tired-of-postman-7-lightweight-api-testing-tools-developers-actually-use-in-2025-33fe)
+- [Natural Language Processing in Artificial Intelligence Explained – Applify](https://dev.to/manpreet27/natural-language-processing-in-artificial-intelligence-explained-applify-7n3)
+- [How i made Qt + VTK based 3d-dicom-viewer - open-source instrument for creating 3d models from raw DICOM series](https://dev.to/ft290008buchok/how-i-made-qt-vtk-based-3d-dicom-viewer-open-source-instrument-for-creating-3d-models-from-raw-2kj7)
+- [The C# Feature That Saves You Thousands… But No One Talks About](https://dev.to/mohammad_shoeb_8cf8645287/the-c-feature-that-saves-you-thousands-but-no-one-talks-about-10d4)
+- [WinRAR 0-Day Exploit](https://dev.to/intelligence_x/winrar-0-day-exploit-148c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
