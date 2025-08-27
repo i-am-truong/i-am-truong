@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I just launched my first affiliate program &lpar;50% commission!&rpar; - here&#39;s why and what I learned](https://dev.to/vivien_mahe/i-just-launched-my-first-affiliate-program-50-commission-heres-why-and-what-i-learned-5a1f)
+- [De rails a node.js enterprise](https://dev.to/pwalvarado/de-rails-a-nodejs-enterprise-4g3p)
 - [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-4m84)
 - [Oasis Infobyte Internship](https://dev.to/kunal_giri_e1fda1d0965d2b/oasis-infobyte-internship-2544)
 - [Genesis DB 1.0.0: Production-Ready and Battle-Tested](https://dev.to/patriceckhart/genesis-db-100-production-ready-and-battle-tested-295)
-- [Ownership and Borrowing: My Journey Into Rust’s Unique Memory System](https://dev.to/agecoder/ownership-and-borrowing-my-journey-into-rusts-unique-memory-system-3nbm)
-- [Solving cold start in AWS Lambda with intelligent distributed Cache](https://dev.to/aws-builders/solving-cold-start-in-aws-lambda-with-intelligent-distributed-cache-3g6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
