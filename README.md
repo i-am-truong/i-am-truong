@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/kate-nm/-113l)
-- [[Boost]](https://dev.to/kate-nm/-2cp4)
-- [How I Got the Idea for TestDino](https://dev.to/testdino/how-i-got-the-idea-for-testdino-176c)
-- [How to print &quot;Hello World&quot; in COBOL &lpar;Common Business-Oriented Language&rpar;](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-print-hello-world-in-cobol-common-business-oriented-language-115p)
-- [Fast clone of large git repo to read code in IDE](https://dev.to/gerrytan/fast-clone-of-large-git-repo-to-read-code-in-ide-4la2)
+- [Oracle SQL Plan Management - 23ai features backported to 19.22](https://dev.to/nabhaas/oracle-sql-plan-management-23ai-features-backported-to-1922-2p51)
+- [🚀 Introducing flexi-cache-node: A Modern, Zero-Dependency Replacement for node-cache](https://dev.to/subhadip_pahari_1cd6ddc60/introducing-flexi-cache-node-a-modern-zero-dependency-replacement-for-node-cache-35g2)
+- [How to Choose an ML Course in India That Guarantees a Career, Not Just a Certificate &lpar;2025 Guide&rpar;](https://dev.to/digi_softnet_4bba1687fdfa/how-to-choose-an-ml-course-in-india-that-guarantees-a-career-not-just-a-certificate-2025-guide-434g)
+- [Which is the best platform to learn software development? Here’s what worked for me](https://dev.to/stack_overflowed/which-is-the-best-platform-to-learn-software-development-heres-what-worked-for-me-1n3b)
+- [17-how to set up typescirpt for real projects.](https://dev.to/cgithub123/17-how-to-set-up-typescirpt-for-real-projects-5g2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
