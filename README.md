@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Estamos incorporando la IA de forma correcta a nuestras organizaciones, el rumbo lo dirige la necesidad del negocio o implementamos por subirnos a la ola tecnológica. Qué criterios considerar para que la IA generativa tenga el impacto que deseamos?](https://dev.to/dcastrocordero22/estamos-incorporando-la-ia-de-forma-correcta-a-nuestras-organizaciones-el-rumbo-lo-dirige-la-2eje)
 - [Migration Strategies: Moving Applications and Databases Without Breaking Things](https://dev.to/lovestaco/migration-strategies-moving-applications-and-databases-without-breaking-things-57ld)
 - [Reimagining Team Structure in the AI Era](https://dev.to/cdownard/reimagining-team-structure-in-the-ai-era-47nc)
 - [What can make AI companies pay for data instead of scraping?](https://dev.to/imajus/what-can-make-ai-companies-pay-for-data-instead-of-scraping-g9p)
 - [Puertas bajo control: cómo reducir excursiones térmicas y consumo eléctrico](https://dev.to/central_detelemetra_027/puertas-bajo-control-como-reducir-excursiones-termicas-y-consumo-electrico-oe2)
-- [Cómo incorporar IA generativa de manera estratégica: metodología para transformar ideas en resultados reales](https://dev.to/aws-builders/como-incorporar-ia-generativa-de-manera-estrategica-metodologia-para-transformar-ideas-en-1od0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
