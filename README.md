@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Parameter__in__java](https://dev.to/ajayr18/parameterinjava-2ea1)
+- [The Software Is Always Broken &lpar;And AI Is Just Broken Faster&rpar;](https://dev.to/copyleftdev/the-software-is-always-broken-and-ai-is-just-broken-faster-4ia)
+- [Set Up Cloudflare Tunnel on Linux for Secure Remote Access to Your Apps](https://dev.to/marin84719/set-up-cloudflare-tunnel-on-linux-for-secure-remote-access-to-your-apps-54fc)
 - [SkyAccess](https://dev.to/skyaccess/skyaccess-4ccp)
 - [Design Document:LLM Service](https://dev.to/yc_lee_53e583a776a9c56e3/design-documentllm-service-52mc)
-- [How I Cured My Game Addiction With Python](https://dev.to/haztechycontent/how-i-cured-my-game-addiction-with-python-446c)
-- [I just launched TL;Dev, a curated collection of notes for developers and indie builders.](https://dev.to/linwangg/i-just-launched-tldev-a-curated-collection-of-notes-for-developers-and-indie-builders-4ghc)
-- [Understanding Bitcoin Lending: A Comprehensive Guide](https://dev.to/silson_sapkota_d12fe3cf0f/understanding-bitcoin-lending-a-comprehensive-guide-1amm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
