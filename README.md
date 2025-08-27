@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Parameter__in__java](https://dev.to/ajayr18/parameterinjava-2ea1)
-- [The Software Is Always Broken &lpar;And AI Is Just Broken Faster&rpar;](https://dev.to/copyleftdev/the-software-is-always-broken-and-ai-is-just-broken-faster-4ia)
-- [Set Up Cloudflare Tunnel on Linux for Secure Remote Access to Your Apps](https://dev.to/marin84719/set-up-cloudflare-tunnel-on-linux-for-secure-remote-access-to-your-apps-54fc)
-- [SkyAccess](https://dev.to/skyaccess/skyaccess-4ccp)
-- [Design Document:LLM Service](https://dev.to/yc_lee_53e583a776a9c56e3/design-documentllm-service-52mc)
+- [Building a Simple SQL Parser in Python: From Basics to Hands-On](https://dev.to/leapcell/building-a-simple-sql-parser-in-python-from-basics-to-hands-on-2a0o)
+- [How do you make FullStack Demo App for Interviews using Laravel + React with Dockerize Part 3](https://dev.to/pirvanm/how-do-you-make-fullstack-demo-app-for-interviews-using-laravel-react-with-dockerize-part-3-mci)
+- [Tutorial: Dual Boot Arch Linux + Windows 11 on UEFI Systems](https://dev.to/ivajofranc/tutorial-dual-boot-arch-linux-windows-11-on-uefi-systems-gag)
+- [Full-Stack Interview Prep #1: SQL Injection Explained Simply &lpar;with Go &amp; Node.js Examples&rpar;](https://dev.to/davjesse/full-stack-interview-prep-1-sql-injection-explained-simply-with-go-nodejs-examples-lg6)
+- [How I Turned My YouTube Frustrations into MyTubes/sideproject](https://dev.to/shaulbendavid/how-i-turned-my-youtube-frustrations-into-mytubessideproject-3cbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
