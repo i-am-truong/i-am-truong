@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Sprint Velocity Means Nothing](https://dev.to/dct_technology/why-your-sprint-velocity-means-nothing-3ljh)
+- [3 Signs Your Code Needs Middleware - ASP.NET Core](https://dev.to/abhinawkr/3-signs-your-code-needs-middleware-aspnet-core-1hk4)
 - [Why Clean Code Feels Invisible &lpar;And That&#39;s the Point&rpar;](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-clean-code-feels-invisible-and-thats-the-point-m4)
 - [aria - Event Driven websocket framework](https://dev.to/n9te9/aria-event-driven-websocket-framework-46jl)
-- [Using ProtonVPN with OpenVPN on Arch Linux &lpar;for Japan servers 🇯🇵&rpar;](https://dev.to/musagy/using-protonvpn-with-openvpn-on-arch-linux-for-japan-servers--1049)
-- [Absolutely an Excited Newbie](https://dev.to/iblookn4u2/absolutely-an-excited-newbie-5g0n)
-- [The Debugging Mindset That Turned Me Into a Better Coder](https://dev.to/leena_malhotra_355340d89c/the-debugging-mindset-that-turned-me-into-a-better-coder-3g8a)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `68`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-68-2mog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
