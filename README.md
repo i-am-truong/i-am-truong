@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Sprint Velocity Means Nothing](https://dev.to/dct_technology/why-your-sprint-velocity-means-nothing-3ljh)
-- [3 Signs Your Code Needs Middleware - ASP.NET Core](https://dev.to/abhinawkr/3-signs-your-code-needs-middleware-aspnet-core-1hk4)
-- [Why Clean Code Feels Invisible &lpar;And That&#39;s the Point&rpar;](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-clean-code-feels-invisible-and-thats-the-point-m4)
-- [aria - Event Driven websocket framework](https://dev.to/n9te9/aria-event-driven-websocket-framework-46jl)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `68`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-68-2mog)
+- [Part-27: 🚀 Google Cloud Hyperdisk and Storage Pools – A Hands-On Guide](https://dev.to/latchudevops/part-27-google-cloud-hyperdisk-and-storage-pools-a-hands-on-guide-3ig8)
+- [WUSH Light Theme for VS Code](https://dev.to/wujerry/wush-light-theme-for-vs-code-1jk)
+- [Calculate the first N terms of the Fibonacci sequence--Programming Practice](https://dev.to/esproc_spl/calculate-the-first-n-terms-of-the-fibonacci-sequence-programming-practice-1agb)
+- [Using ProtonVPN with OpenVPN on Arch Linux &lpar;for Japan servers 🇯🇵&rpar;](https://dev.to/musagy/using-protonvpn-with-openvpn-on-arch-linux-for-japan-servers--267p)
+- [Designing for Scale: Why Small Decisions Break Big Systems](https://dev.to/dct_technology/designing-for-scale-why-small-decisions-break-big-systems-4039)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
