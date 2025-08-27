@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Oracle SQL Plan Management - 23ai features backported to 19.22](https://dev.to/nabhaas/oracle-sql-plan-management-23ai-features-backported-to-1922-2p51)
-- [🚀 Introducing flexi-cache-node: A Modern, Zero-Dependency Replacement for node-cache](https://dev.to/subhadip_pahari_1cd6ddc60/introducing-flexi-cache-node-a-modern-zero-dependency-replacement-for-node-cache-35g2)
-- [How to Choose an ML Course in India That Guarantees a Career, Not Just a Certificate &lpar;2025 Guide&rpar;](https://dev.to/digi_softnet_4bba1687fdfa/how-to-choose-an-ml-course-in-india-that-guarantees-a-career-not-just-a-certificate-2025-guide-434g)
-- [Which is the best platform to learn software development? Here’s what worked for me](https://dev.to/stack_overflowed/which-is-the-best-platform-to-learn-software-development-heres-what-worked-for-me-1n3b)
-- [17-how to set up typescirpt for real projects.](https://dev.to/cgithub123/17-how-to-set-up-typescirpt-for-real-projects-5g2j)
+- [How Grad-CAM Helped Me Explain Alzheimer’s Predictions](https://dev.to/dlzcods/how-grad-cam-helped-me-explain-alzheimers-predictions-14n3)
+- [Building PoC Agents in Minutes](https://dev.to/nghidanh2005/building-poc-agents-in-minutes-23cl)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-1l7g)
+- [What is Agile Project Management?](https://dev.to/stan8086/what-is-agile-project-management-7mk)
+- [The best platform to learn programming for beginners, builders, and career changers](https://dev.to/stack_overflowed/the-best-platform-to-learn-programming-for-beginners-builders-and-career-changers-1a1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
