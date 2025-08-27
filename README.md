@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Skills That Will Actually Get You Hired in 2025](https://dev.to/philipjohnbasile/ai-skills-that-will-actually-get-you-hired-in-2025-350j)
-- [Analyse and Optimise your container image size](https://dev.to/satyamkr1729/optimising-your-container-image-size-24f7)
-- [CAD vs BIM: Why 5D BIM Cost Estimating Is a Game Changer](https://dev.to/javeria/cad-vs-bim-why-5d-bim-cost-estimating-is-a-game-changer-2lf0)
-- [How good is the coding ability of GPT-5?A deep, professional guide](https://dev.to/_37bbf0c253c0b3edec531e/how-good-is-the-coding-ability-of-gpt-5a-deep-professional-guide-46ck)
-- [Create secure tunnels between Upsun projects with Chisel](https://dev.to/upsun/create-secure-tunnels-between-upsun-projects-with-chisel-21o9)
+- [Build an awesome GitHub developer portfolio.](https://dev.to/barrujamisrg/build-an-awesome-github-developer-portfolio-2895)
+- [Navigating the AI Marketing Landscape](https://dev.to/mdkawsharul_islamroyal_/navigating-the-ai-marketing-landscape-51nl)
+- [.vscode/settings.json](https://dev.to/xpertforextradex/vscodesettingsjson-g08)
+- [Tutorial: Dual Boot Arch Linux + Windows 11 on UEFI Systems](https://dev.to/ivajofranc/tutorial-dual-boot-arch-linux-windows-11-on-uefi-systems-5dpd)
+- [Tutorial: Instalar Arch Linux en dual boot con Windows 11](https://dev.to/ivajofranc/tutorial-instalar-arch-linux-en-dual-boot-con-windows-11-35d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
