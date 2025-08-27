@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns Simplified: Part 22 — Interpreter Pattern &lpar;a.k.a. “The Rule Engine”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-22-interpreter-pattern-aka-the-rule-engine-45bc)
+- [The Cloud Isn&#39;t Magic, It&#39;s a Metaphor: From VMs to Kubernetes on OCI](https://dev.to/smyekh/the-cloud-isnt-magic-its-a-metaphor-from-vms-to-kubernetes-on-oci-8ee)
+- [Weekly Update #6](https://dev.to/abytebybyte/weekly-update-6-3oj9)
+- [EEPROM Read and Write Operations with Arduino](https://dev.to/inngoose/eeprom-read-and-write-operations-with-arduino-2ll4)
 - [Working with Yelp Data in MongoDB: CRUD Operations and Queries](https://dev.to/vignesh_k_165855f8c465905/working-with-yelp-data-in-mongodb-crud-operations-and-queries-5d0o)
-- [How to build an OpenAI Agent with persistent memory](https://dev.to/bobur/how-to-build-an-openai-agent-with-persistent-memory-51kj)
-- [LLMs fail at debugging forms. Here’s how capturing runtime DOM as JSON helps.](https://dev.to/alexey_sokolov_10deecd763/llms-fail-at-debugging-forms-heres-how-capturing-runtime-dom-as-json-helps-1neh)
-- [BRIEF INTRODUCTION TO DOCKER AND DOCKER COMPOSE](https://dev.to/hilary_wambwa_dd49d0404fa/brief-introduction-to-docker-and-docker-compose-2hc2)
-- [Microsoft is Open Sourcing Windows 11&#39;s UI Framework &lpar;WinUI 3&rpar; - Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/microsoft-is-open-sourcing-windows-11s-ui-framework-winui-3-heres-what-developers-need-to-i3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
