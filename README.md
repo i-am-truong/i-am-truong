@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Bots Killed My WooCommerce Site Until I Automated WP Rocket Filter Caching](https://dev.to/trueqap/how-bots-killed-my-woocommerce-site-until-i-automated-wp-rocket-filter-caching-1ba0)
+- [DOCKER](https://dev.to/datawithsarah/docker-3pk0)
+- [Preparing for your upcoming System Design interview? This guide will get you hired.](https://dev.to/fahimulhaq/preparing-for-your-upcoming-system-design-interview-this-guide-will-get-you-hired-18ha)
+- [Automating Complex Workflows with N8n: A Practical Guide for Regular Users](https://dev.to/onlineproxy/automating-complex-workflows-with-n8n-a-practical-guide-for-regular-users-479f)
 - [Google’s Secret Sauce: Privacy-Safe AI That Amplifies Rare Signals](https://dev.to/aiwithapex/googles-secret-sauce-privacy-safe-ai-that-amplifies-rare-signals-2mce)
-- [Hands-On with MongoDB: Storing, Querying, and Analyzing Data](https://dev.to/sugithaa_k/hands-on-with-mongodb-storing-querying-and-analyzing-data-d01)
-- [Building Chrome Dinosaur Game in Pygame &lpar;Part 0: Intro &amp; Setup&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-0-intro-setup-1gnj)
-- [Building AI Agents with Haystack and Gaia Node: A Practical Guide](https://dev.to/gaiaai/building-ai-agents-with-haystack-and-gaia-node-a-practical-guide-5993)
-- [Vibe Coding Is Going Mainstream—But Token Costs Still Gate Who Gets to Join](https://dev.to/xkevin_le/vibe-coding-is-going-mainstream-but-token-costs-still-gate-who-gets-to-join-cp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
