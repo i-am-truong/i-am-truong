@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/kate-nm/-113l)
+- [[Boost]](https://dev.to/kate-nm/-2cp4)
 - [How I Got the Idea for TestDino](https://dev.to/testdino/how-i-got-the-idea-for-testdino-176c)
 - [How to print &quot;Hello World&quot; in COBOL &lpar;Common Business-Oriented Language&rpar;](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-print-hello-world-in-cobol-common-business-oriented-language-115p)
 - [Fast clone of large git repo to read code in IDE](https://dev.to/gerrytan/fast-clone-of-large-git-repo-to-read-code-in-ide-4la2)
-- [What is the best platform to learn backend development?](https://dev.to/stack_overflowed/what-is-the-best-platform-to-learn-backend-development-6gh)
-- [Building Your Own Custom Evaluator for GenAI Apps, Agents, and Models Using Azure AI Foundry SDK](https://dev.to/icebeam7/building-your-own-custom-evaluator-for-genai-apps-agents-and-models-using-azure-ai-foundry-sdk-1okg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
