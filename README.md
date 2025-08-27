@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Semantic HTML in Action: A Practical Guide to Better SEO and Accessibility](https://dev.to/githogora_wilson_47df4080/semantic-html-in-action-a-practical-guide-to-better-seo-and-accessibility-2e0d)
-- [Distributed Transactions in Microservices: Why 2PC Doesn’t Fit and How Sagas Help](https://dev.to/hassan314159/distributed-transactions-in-microservices-why-2pc-doesnt-fit-and-how-sagas-help-1lb)
-- [Sidebar now properly scrolls &lpar;important when there are more total forems&rpar;, and there is a `+` now. Next step will be adding a survey to accept ideas about the next subforems. Eventually members will be able to spin these up themselves.](https://dev.to/ben/sidebar-now-properly-scrolls-important-when-there-are-more-total-forems-and-there-is-a--4ien)
-- [Survey functionality mostly finalized, will announce soon to the broader community.](https://dev.to/ben/survey-functionality-mostly-finalized-will-announce-soon-to-the-broader-community-3kd7)
-- [Semantic HTML for SEO and Accessibility](https://dev.to/esthersunday/semantic-html-for-seo-and-accessibility-27p0)
+- [DevOps Made Simple: A Step-by-Step Guide to Starting in 2025](https://dev.to/mrigankwastaken/devops-made-simple-a-step-by-step-guide-to-starting-in-2025-594m)
+- [Unlock Your Audience: The Ultimate Guide to SEO-Driven Content Creation 🚀](https://dev.to/rohith200589/unlock-your-audience-the-ultimate-guide-to-seo-driven-content-creation-2eif)
+- [3 Things I Learned Building a Database from Scratch &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/pauletart/3-things-i-learned-building-a-database-from-scratch-and-what-id-do-differently-339m)
+- [Generate Mock JSON APIs Instantly with JSONToAll.Tools – Free Online Tool](https://dev.to/sourav_halder_5da9b618537/generate-mock-json-apis-instantly-with-jsontoalltools-free-online-tool-4b55)
+- [🌟 Join Our Developer Community on DEV!](https://dev.to/msbala007/join-our-developer-community-on-dev-2g1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
