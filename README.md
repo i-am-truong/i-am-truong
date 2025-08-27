@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPU Container Checkpoint/Restore with CRIUgpu: Zero-Downtime Live Migration for ML Workloads](https://dev.to/shohams/gpu-container-checkpointrestore-with-criugpu-zero-downtime-live-migration-for-ml-workloads-342a)
+- [How to Add Real-Time Comments to Your Tiptap Editor with Velt and v0🔥](https://dev.to/astrodevil/how-to-add-real-time-comments-to-your-tiptap-editor-with-velt-and-v0-329e)
 - [Why S3-Intelligent-Tiering Should Be Your Default Storage Class for Large-Scale Buckets?](https://dev.to/aws-builders/why-s3-intelligent-tiering-should-be-your-default-storage-class-for-large-scale-buckets-417m)
 - [[Boost]](https://dev.to/alexey_sokolov_10deecd763/-33h5)
 - [A Developer’s Guide to the Top LLMs in 2025](https://dev.to/anyapi/a-developers-guide-to-the-top-llms-in-2025-51hi)
-- [Getting Started with Docker for Beginners](https://dev.to/kemboijebby/getting-started-with-docker-for-beginners-4mn1)
-- [Hack the box - Dancing](https://dev.to/er/hack-the-box-dancing-2jpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
