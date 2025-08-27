@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [KENYA CROPS ANALYSIS](https://dev.to/njeri_kimaru/kenya-crops-analysis-2nif)
 - [Laravel-Module-Create: Streamline Your Development with Modularity](https://dev.to/wr2net/laravel-module-create-streamline-your-development-with-modularity-18p5)
 - [How to Use ChatGPT to help build AI Voice Agents](https://dev.to/wiljansantiago/how-to-use-chatgpt-to-help-build-ai-voice-agents-2j11)
 - [A change in vision | Building Stocksimpy &lpar;Devlog 4&rpar;](https://dev.to/suleyman_sade/a-change-in-vision-building-stocksimpy-devlog-4-hb5)
 - [Release &amp; Deprecation Sentinel — Autonomous SRE Copilot with Bright Data + n8n](https://dev.to/mohankrishnaalavala/release-deprecation-sentinel-autonomous-sre-copilot-with-bright-data-n8n-3f50)
-- [Product pricing in a saturated market - the Postly use case](https://dev.to/iampaulonu/product-pricing-in-a-saturated-market-the-postly-use-case-2gf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
