@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Chrome Dinosaur Game in Pygame &lpar;Part 1: Code init &amp; startup&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-1-code-init-startup-4f4j)
+- [HTML isn’t just code. Done right, it’s your strongest SEO weapon.](https://dev.to/web_dev-usman/html-isnt-just-code-done-right-its-your-strongest-seo-weapon-14og)
+- [Understanding WebSockets: A Beginner’s Guide to Real-Time Web Communication day 38 of system design basics](https://dev.to/vincenttommi/understanding-websockets-a-beginners-guide-to-real-time-web-communication-day-38-of-system-design-2m5m)
+- [Yggdrasil Network — Join the Global Mesh](https://dev.to/byteknight/yggdrasil-network-join-the-global-mesh-1kcc)
 - [SQL Interviews Suck. So I Built a Free Platform to Help You Crush Them. 🚀 👉 https://www.sql-practice.online/](https://dev.to/satish_reddy_372b4c9145ac/sql-interviews-suck-so-i-built-a-free-platform-to-help-you-crush-them-gg5)
-- [Driving AI Visibility in Search with Smart LLM Optimization](https://dev.to/lollypopdesign/driving-ai-visibility-in-search-with-smart-llm-optimization-573d)
-- [8 Tool Tech Stack to Build an Enterprise-Grade RAG System &lpar;Without the Headaches&rpar;](https://dev.to/forgecode/8-tool-tech-stack-to-build-an-enterprise-grade-rag-system-without-the-headaches-42h)
-- [How Grad-CAM Helped Me Explain Alzheimer’s Predictions](https://dev.to/dlzcods/how-grad-cam-helped-me-explain-alzheimers-predictions-14n3)
-- [Building PoC Agents in Minutes](https://dev.to/nghidanh2005/building-poc-agents-in-minutes-23cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
