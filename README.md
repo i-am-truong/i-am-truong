@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building “Squares” with ChatGPT: From Prompts to a Commercial-Ready App &lpar;Day 10&rpar;](https://dev.to/nando_rama_67753ecb8e0e6d/building-squares-with-chatgpt-from-prompts-to-a-commercial-ready-app-day-10-567p)
-- [I just launched my first affiliate program &lpar;50% commission!&rpar; - here&#39;s why and what I learned](https://dev.to/vivien_mahe/i-just-launched-my-first-affiliate-program-50-commission-heres-why-and-what-i-learned-5a1f)
-- [De rails a node.js enterprise](https://dev.to/pwalvarado/de-rails-a-nodejs-enterprise-4g3p)
-- [Day 26 of #30DaysOfCode](https://dev.to/justacoder_0x/day-26-of-30daysofcode-47p8)
-- [Install and Configure CockroachDB in Ubuntu 24.04 LTS #CockroachDB #Database](https://dev.to/chittrmahto/install-and-configure-cockroachdb-in-ubuntu-2404-lts-cockroachdb-database-3kj6)
+- [Bryan Bros Golf: We Played Golf At #1 Course In World!](https://dev.to/youtube_golf/bryan-bros-golf-we-played-golf-at-1-course-in-world-1g0n)
+- [Noclip: The Origins of MachineGames &lpar;Riddick, The Darkness&rpar; - Noclip Documentary](https://dev.to/gg_news/noclip-the-origins-of-machinegames-riddick-the-darkness-noclip-documentary-2bm9)
+- [GameSpot: Kingdom Come: Deliverance 2&#39;s DLC Lets You Be A Dentist By Punching A Guy&#39;s Tooth Out | Hands-On](https://dev.to/gg_news/gamespot-kingdom-come-deliverance-2s-dlc-lets-you-be-a-dentist-by-punching-a-guys-tooth-out--4hng)
+- [GameSpot: Outer Worlds 2 Lets You Roleplay A Space Moron | Hands-On Impressions](https://dev.to/gg_news/gamespot-outer-worlds-2-lets-you-roleplay-a-space-moron-hands-on-impressions-20l0)
+- [IGN: Infinity Nikki Stardew Valley - Official Collaboration Trailer](https://dev.to/gg_news/ign-infinity-nikki-x-stardew-valley-official-collaboration-trailer-2226)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
