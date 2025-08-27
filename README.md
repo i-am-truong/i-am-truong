@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SEMENTIC HTML](https://dev.to/72iamvinnie/sementic-html-e7b)
+- [Building a Simple Server Monitoring Script in My Homelab](https://dev.to/trenation/building-a-simple-server-monitoring-script-in-my-homelab-4d97)
+- [&lpar;Part 7&rpar; Build a Simple Chat Character Gallery: Implementing the Chat Page UI](https://dev.to/jte0711/part-7-build-a-simple-chat-character-gallery-implementing-the-chat-page-ui-hb8)
 - [How to Create a Bootable USB Windows 10 Using Rufus](https://dev.to/siswoyo/how-to-create-a-bootable-usb-windows-10-using-rufus-1876)
-- [How Chat UIs Communicate with MCP Servers](https://dev.to/om_shree_0709/how-chat-uis-communicate-with-mcp-servers-4ejb)
-- [The Art of Simplicity: A Home for Complexity](https://dev.to/glacius/the-art-of-simplicity-a-home-for-complexity-26na)
-- [Best Crypto APIs for Developers in 2025](https://dev.to/supratipb/best-crypto-apis-for-developers-in-2025-4o03)
-- [🚀 Building Viral Hunts: AI Scavenger App with Expo &amp; NFTs – Dev Feedback Needed! 💻🎮](https://dev.to/jcloud/building-viral-hunts-ai-scavenger-app-with-expo-nfts-dev-feedback-needed-ode)
+- [🌱My Day-to-Day Learning Journey &lpar;Ganesh Chaturthi Special&rpar; Day-1](https://dev.to/dev_bhuva_07/my-day-to-day-learning-journey-ganesh-chaturthi-special-day-1-2312)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
