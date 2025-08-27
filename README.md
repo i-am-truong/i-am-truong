@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Estamos incorporando la IA de forma correcta a nuestras organizaciones, el rumbo lo dirige la necesidad del negocio o implementamos por subirnos a la ola tecnológica. Qué criterios considerar para que la IA generativa tenga el impacto que deseamos?](https://dev.to/dcastrocordero22/estamos-incorporando-la-ia-de-forma-correcta-a-nuestras-organizaciones-el-rumbo-lo-dirige-la-2eje)
-- [Migration Strategies: Moving Applications and Databases Without Breaking Things](https://dev.to/lovestaco/migration-strategies-moving-applications-and-databases-without-breaking-things-57ld)
-- [Reimagining Team Structure in the AI Era](https://dev.to/cdownard/reimagining-team-structure-in-the-ai-era-47nc)
-- [What can make AI companies pay for data instead of scraping?](https://dev.to/imajus/what-can-make-ai-companies-pay-for-data-instead-of-scraping-g9p)
-- [Puertas bajo control: cómo reducir excursiones térmicas y consumo eléctrico](https://dev.to/central_detelemetra_027/puertas-bajo-control-como-reducir-excursiones-termicas-y-consumo-electrico-oe2)
+- [Why S3-Intelligent-Tiering Should Be Your Default Storage Class for Large-Scale Buckets?](https://dev.to/aws-builders/why-s3-intelligent-tiering-should-be-your-default-storage-class-for-large-scale-buckets-417m)
+- [[Boost]](https://dev.to/alexey_sokolov_10deecd763/-33h5)
+- [A Developer’s Guide to the Top LLMs in 2025](https://dev.to/anyapi/a-developers-guide-to-the-top-llms-in-2025-51hi)
+- [Getting Started with Docker for Beginners](https://dev.to/kemboijebby/getting-started-with-docker-for-beginners-4mn1)
+- [Hack the box - Dancing](https://dev.to/er/hack-the-box-dancing-2jpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
