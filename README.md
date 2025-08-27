@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [`handlebars` package in Puck codebase.](https://dev.to/ramunarasinga-11/handlebars-package-in-puck-codebase-1gbl)
-- [5 AWS Security Mistakes Your Business Is Making — And How To Fix Them for Safer Cloud Operations](https://dev.to/heyjoshlee/5-aws-security-mistakes-your-business-is-making-and-how-to-fix-them-for-safer-cloud-operations-125h)
-- [Why Task-Level AI Beats Job-Level Automation](https://dev.to/talweezy/why-task-level-ai-beats-job-level-automation-2345)
-- [The smart way of centralizing VPC endpoints with Route 53 Profiles](https://dev.to/aws-builders/the-smart-way-of-centralizing-vpc-endpoints-with-route-53-profiles-38bc)
-- [Building a Simple SQL Parser in Python: From Basics to Hands-On](https://dev.to/leapcell/building-a-simple-sql-parser-in-python-from-basics-to-hands-on-2a0o)
+- [AI Skills That Will Actually Get You Hired in 2025](https://dev.to/philipjohnbasile/ai-skills-that-will-actually-get-you-hired-in-2025-350j)
+- [Analyse and Optimise your container image size](https://dev.to/satyamkr1729/optimising-your-container-image-size-24f7)
+- [CAD vs BIM: Why 5D BIM Cost Estimating Is a Game Changer](https://dev.to/javeria/cad-vs-bim-why-5d-bim-cost-estimating-is-a-game-changer-2lf0)
+- [How good is the coding ability of GPT-5?A deep, professional guide](https://dev.to/_37bbf0c253c0b3edec531e/how-good-is-the-coding-ability-of-gpt-5a-deep-professional-guide-46ck)
+- [Create secure tunnels between Upsun projects with Chisel](https://dev.to/upsun/create-secure-tunnels-between-upsun-projects-with-chisel-21o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
