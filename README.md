@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Interviews Suck. So I Built a Free Platform to Help You Crush Them. 🚀 👉 https://www.sql-practice.online/](https://dev.to/satish_reddy_372b4c9145ac/sql-interviews-suck-so-i-built-a-free-platform-to-help-you-crush-them-gg5)
+- [Driving AI Visibility in Search with Smart LLM Optimization](https://dev.to/lollypopdesign/driving-ai-visibility-in-search-with-smart-llm-optimization-573d)
+- [8 Tool Tech Stack to Build an Enterprise-Grade RAG System &lpar;Without the Headaches&rpar;](https://dev.to/forgecode/8-tool-tech-stack-to-build-an-enterprise-grade-rag-system-without-the-headaches-42h)
 - [How Grad-CAM Helped Me Explain Alzheimer’s Predictions](https://dev.to/dlzcods/how-grad-cam-helped-me-explain-alzheimers-predictions-14n3)
 - [Building PoC Agents in Minutes](https://dev.to/nghidanh2005/building-poc-agents-in-minutes-23cl)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-1l7g)
-- [What is Agile Project Management?](https://dev.to/stan8086/what-is-agile-project-management-7mk)
-- [The best platform to learn programming for beginners, builders, and career changers](https://dev.to/stack_overflowed/the-best-platform-to-learn-programming-for-beginners-builders-and-career-changers-1a1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
