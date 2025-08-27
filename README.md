@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [SkyAccess](https://dev.to/skyaccess/skyaccess-4ccp)
 - [Design Document:LLM Service](https://dev.to/yc_lee_53e583a776a9c56e3/design-documentllm-service-52mc)
+- [How I Cured My Game Addiction With Python](https://dev.to/haztechycontent/how-i-cured-my-game-addiction-with-python-446c)
 - [I just launched TL;Dev, a curated collection of notes for developers and indie builders.](https://dev.to/linwangg/i-just-launched-tldev-a-curated-collection-of-notes-for-developers-and-indie-builders-4ghc)
-- [Peck is a utility for your PHP projects](https://dev.to/deniskorbakov/peck-is-a-utility-for-your-php-projects-557c)
-- [Write your CI/CD in TypeScript](https://dev.to/louis_dussarps_e656bc7b01/write-your-cicd-in-typescript-41e3)
+- [Understanding Bitcoin Lending: A Comprehensive Guide](https://dev.to/silson_sapkota_d12fe3cf0f/understanding-bitcoin-lending-a-comprehensive-guide-1amm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
