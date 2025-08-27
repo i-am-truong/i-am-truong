@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
-- [GPU Container Checkpoint/Restore with CRIUgpu: Zero-Downtime Live Migration for ML Workloads](https://dev.to/shohams/gpu-container-checkpointrestore-with-criugpu-zero-downtime-live-migration-for-ml-workloads-342a)
-- [How to Add Real-Time Comments to Your Tiptap Editor with Velt and v0🔥](https://dev.to/astrodevil/how-to-add-real-time-comments-to-your-tiptap-editor-with-velt-and-v0-329e)
-- [Why S3 Intelligent-Tiering Should Be Your Default Storage Class for Large-Scale Buckets?](https://dev.to/aws-builders/why-s3-intelligent-tiering-should-be-your-default-storage-class-for-large-scale-buckets-417m)
-- [[Boost]](https://dev.to/alexey_sokolov_10deecd763/-33h5)
+- [AI fluff generation](https://dev.to/sarabadu/ai-fluff-generation-34gb)
+- [Docker Compose: Speed Up Your Workflow with Profiles, Extends and Depends_on](https://dev.to/altairlage/docker-compose-speed-up-your-workflow-with-profiles-extends-and-dependson-4df8)
+- [[Boost]](https://dev.to/er/-4h53)
+- [What is AGI? A Simple Guide to Artificial General Intelligence](https://dev.to/pratyushnirwan/what-is-agi-a-simple-guide-to-artificial-general-intelligence-29ib)
+- [Mapping Tags, Labels, and Cost Centers Across Clouds with Retool | Widle](https://dev.to/widlestudio/mapping-tags-labels-and-cost-centers-across-clouds-with-retool-widle-39g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
