@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What in the World Is GitHub Coding Agent?](https://dev.to/anchildress1/what-in-the-world-is-github-coding-agent-2m8p)
-- [SOC-CERT: Automated Threat Intelligence System with n8n &amp; AI](https://dev.to/joupify/soc-cert-automated-threat-intelligence-system-with-n8n-ai-5722)
-- [What Happens When You Type a URL in the Browser?](https://dev.to/arnavsharma2711/what-happens-when-you-type-a-url-in-the-browser-5dno)
-- [Do Caos à Orquestração: Como o DataOps Está Transformando Dados em Valor](https://dev.to/guigasque/do-caos-a-orquestracao-como-o-dataops-esta-transformando-dados-em-valor-5f1)
-- [Code 101: Swap Nodes in Pairs](https://dev.to/garvit_khamesra/code-101-swap-nodes-in-pairs-4jjh)
+- [Code 101: K-th Symbol in Grammar](https://dev.to/garvit_khamesra/code-101-k-th-symbol-in-grammar-5d35)
+- [AI Coding Agents Meet Production Environment with the Inspector MCP Server](https://dev.to/inspector/ai-coding-agents-meet-production-environment-with-the-inspector-mcp-server-1cka)
+- [My thoughts on the business case by AI &lpar;ChatGPT&rpar;](https://dev.to/oscarrobertstar/my-thoughts-on-the-business-case-by-ai-chatgpt-4pg7)
+- [I Built an AI Event Butler So I&#39;d Never Miss Another Tech Meetup &lpar;And You Can Too&rpar;](https://dev.to/varshithvhegde/i-built-an-ai-event-butler-so-id-never-miss-another-tech-meetup-and-you-can-too-37io)
+- [Integrate jte with Spring Boot](https://dev.to/tleipzig/integrate-jte-with-spring-boot-e7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
