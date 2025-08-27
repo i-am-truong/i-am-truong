@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Postman vs Bruno: What Are the Key Differences?](https://dev.to/fallon_jimmy/postman-vs-bruno-what-are-the-key-differences-5ba7)
-- [ANN: stone_checksums v1.0.2](https://dev.to/galtzo/ann-stonechecksums-v102-1cl7)
-- [NumPy on Ubuntu: From Zero to First Arrays](https://dev.to/anashussain284/numpy-on-ubuntu-from-zero-to-first-arrays-506i)
-- [Code 101: Rat in a Maze](https://dev.to/garvit_khamesra/code-101-rat-in-a-maze-9j)
-- [Gold as Investment](https://dev.to/madgan95/gold-as-investment-17ba)
+- [Utilizando o módulo Motor Fan L9110 com Arduino](https://dev.to/yuricosta/utilizando-o-modulo-motor-fan-l9110-com-arduino-498p)
+- [When I talk to small business owners, I often hear the same thing: “AI sounds great, but isn’t it only for big companies with tech teams?” Here are 7 Ways Small Businesses Can Use AI Today, and a giveaway for DEV Community!](https://dev.to/jaideepparashar/when-i-talk-to-small-business-owners-i-often-hear-the-same-thing-ai-sounds-great-but-isnt-453d)
+- [Optique: Type-Safe CLI Parser Combinators](https://dev.to/hongminhee/optique-type-safe-cli-parser-combinators-39md)
+- [Decoding MongoDB Metrics: A Practical Guide for DBAs, Developers and DevOps Engineers](https://dev.to/herjean7/decoding-mongodb-metrics-a-practical-guide-for-dbas-developers-and-devops-engineers-e3n)
+- [Constructors in thread and Thread priority](https://dev.to/chhavi_joshi_ede276cfcc06/constructors-in-thread-and-thread-priority-30a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
