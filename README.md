@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build an awesome GitHub developer portfolio.](https://dev.to/barrujamisrg/build-an-awesome-github-developer-portfolio-2895)
-- [Navigating the AI Marketing Landscape](https://dev.to/mdkawsharul_islamroyal_/navigating-the-ai-marketing-landscape-51nl)
-- [.vscode/settings.json](https://dev.to/xpertforextradex/vscodesettingsjson-g08)
-- [Tutorial: Dual Boot Arch Linux + Windows 11 on UEFI Systems](https://dev.to/ivajofranc/tutorial-dual-boot-arch-linux-windows-11-on-uefi-systems-5dpd)
-- [Tutorial: Instalar Arch Linux en dual boot con Windows 11](https://dev.to/ivajofranc/tutorial-instalar-arch-linux-en-dual-boot-con-windows-11-35d5)
+- [Have you ever built one ?](https://dev.to/masterdevsabith/have-you-ever-built-one--4bon)
+- [Refactor Smart Today, Move Faster Tomorrow - Part 1: Before You Touch a Line of Code](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-1-before-you-touch-a-line-of-code-3557)
+- [Agente de IA para Resumir Textos Acadêmicos: Inovação na Compreensão Científica](https://dev.to/no_codestartup/agente-de-ia-para-resumir-textos-academicos-inovacao-na-compreensao-cientifica-3ikg)
+- [Why NGINX Still Powers the Modern Web in 2025: Part 1](https://dev.to/surajkumar00/why-nginx-still-powers-the-modern-web-in-2025-part-1-8g8)
+- [Make an Image drag and drop with CSS in React](https://dev.to/barrujamisrg/make-an-image-drag-and-drop-with-css-in-react-322d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
