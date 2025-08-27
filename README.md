@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI fluff generation](https://dev.to/sarabadu/ai-fluff-generation-34gb)
-- [Docker Compose: Speed Up Your Workflow with Profiles, Extends and Depends_on](https://dev.to/altairlage/docker-compose-speed-up-your-workflow-with-profiles-extends-and-dependson-4df8)
-- [[Boost]](https://dev.to/er/-4h53)
-- [What is AGI? A Simple Guide to Artificial General Intelligence](https://dev.to/pratyushnirwan/what-is-agi-a-simple-guide-to-artificial-general-intelligence-29ib)
-- [Mapping Tags, Labels, and Cost Centers Across Clouds with Retool | Widle](https://dev.to/widlestudio/mapping-tags-labels-and-cost-centers-across-clouds-with-retool-widle-39g0)
+- [My Next Certification Journey Starts Not with Code, but with Logic](https://dev.to/mzunairtariq/my-next-certification-journey-starts-not-with-code-but-with-logic-1bb9)
+- [MAP ZAYRA JIMENEZ](https://dev.to/jimenz2/map-zayra-jimenez-486b)
+- [PostgreSQL JSONB Size Limits to Prevent TOAST Slicing](https://dev.to/franckpachot/postgresql-jsonb-size-limits-to-prevent-toast-slicing-9e8)
+- [Bryan Bros Golf: Golf Match @ #1 Public Course In The World!](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-1-public-course-in-the-world-b7f)
+- [IGN: Infinity Nikki Stardew Valley - Official Collaboration Trailer](https://dev.to/gg_news/ign-infinity-nikki-x-stardew-valley-official-collaboration-trailer-2041)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
