@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing MCP Servers: Exploring Prompt Injection and Security Risks](https://dev.to/tudor_caloian_dafcef3175b/testing-mcp-servers-exploring-prompt-injection-and-security-risks-90l)
+- [localized Neuro Sama setup with only 3 lines of code using the livingrimoire](https://dev.to/owly/localized-neuro-sama-setup-with-only-3-lines-of-code-using-the-livingrimoire-4e93)
+- [15 Low-Cost B2B Lead Generation Strategies for Developer Services and Tech Startups](https://dev.to/michaelwhitner/15-low-cost-b2b-lead-generation-strategies-for-developer-services-and-tech-startups-230g)
+- [Game dev interview](https://dev.to/gingyham/game-dev-interview-2kjn)
 - [Progressive web app](https://dev.to/kant/progressive-web-app-3hol)
-- [CPF3: Why Your Security Stack is Missing the Human Brain &lpar;and How to Fix It&rpar;](https://dev.to/kaolay/cpf3-why-your-security-stack-is-missing-the-human-brain-and-how-to-fix-it-4igp)
-- [My First Automated Post](https://dev.to/bezal_benny_68a567103f98c/my-first-automated-post-cc)
-- [Dev Log 12](https://dev.to/asx/dev-log-12-4c0f)
-- [Chaque bug est une opportunité. Chaque app, une solution](https://dev.to/prince_b_one/chaque-bug-est-une-opportunite-chaque-app-une-solution-190l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
