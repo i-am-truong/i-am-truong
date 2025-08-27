@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [`handlebars` package in Puck codebase.](https://dev.to/ramunarasinga-11/handlebars-package-in-puck-codebase-1gbl)
+- [5 AWS Security Mistakes Your Business Is Making — And How To Fix Them for Safer Cloud Operations](https://dev.to/heyjoshlee/5-aws-security-mistakes-your-business-is-making-and-how-to-fix-them-for-safer-cloud-operations-125h)
+- [Why Task-Level AI Beats Job-Level Automation](https://dev.to/talweezy/why-task-level-ai-beats-job-level-automation-2345)
+- [The smart way of centralizing VPC endpoints with Route 53 Profiles](https://dev.to/aws-builders/the-smart-way-of-centralizing-vpc-endpoints-with-route-53-profiles-38bc)
 - [Building a Simple SQL Parser in Python: From Basics to Hands-On](https://dev.to/leapcell/building-a-simple-sql-parser-in-python-from-basics-to-hands-on-2a0o)
-- [How do you make FullStack Demo App for Interviews using Laravel + React with Dockerize Part 3](https://dev.to/pirvanm/how-do-you-make-fullstack-demo-app-for-interviews-using-laravel-react-with-dockerize-part-3-mci)
-- [Tutorial: Dual Boot Arch Linux + Windows 11 on UEFI Systems](https://dev.to/ivajofranc/tutorial-dual-boot-arch-linux-windows-11-on-uefi-systems-gag)
-- [Full-Stack Interview Prep #1: SQL Injection Explained Simply &lpar;with Go &amp; Node.js Examples&rpar;](https://dev.to/davjesse/full-stack-interview-prep-1-sql-injection-explained-simply-with-go-nodejs-examples-lg6)
-- [How I Turned My YouTube Frustrations into MyTubes/sideproject](https://dev.to/shaulbendavid/how-i-turned-my-youtube-frustrations-into-mytubessideproject-3cbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
