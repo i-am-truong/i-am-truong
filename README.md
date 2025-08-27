@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Cli automates your i18n localization &lpar;REACT&rpar;!](https://dev.to/asad_rafi1221/auto-translation-the-cli-that-makes-i18n-as-easy-as-npm-start-reactnextjs-5gde)
+- [How to Build a Professional Online Presence for Embedded Hardware Projects](https://dev.to/tonyhe8688/how-to-build-a-professional-online-presence-for-embedded-hardware-projects-1np9)
 - [Good work Joy](https://dev.to/grayhat/good-work-joy-70h)
-- [Sometimes the best thing to do is an explicit nothing](https://dev.to/naugtur/sometimes-the-best-thing-to-do-is-an-explicit-nothing-2i71)
-- [MLflow The Series: รู้จัก MLflow ทำไม Data Scientist ต้องรู้จัก](https://dev.to/watchara-sukka/mlflow-the-seriesmlflow-khuueaair-thamaim-data-scientist-tngruucchak-69n)
-- [Step 2: Essential Theme Files – Core WordPress Theme Structure](https://dev.to/adovgun/step-2-essential-theme-files-core-wordpress-theme-structure-36ig)
-- [Outil de Cybersécurité du Jour - Aug 27, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-27-2025-4ej3)
+- [Why I’m Using ViaSocket to Automate My Stack &lpar;And Actually Enjoy It&rpar;](https://dev.to/anes_boudaoudi_d0ca30e0d9/why-im-using-viasocket-to-automate-my-stack-and-actually-enjoy-it-3f38)
+- [Evolution of Python Functions: From 2.7 to 3.12 &lpar;with Code Examples&rpar;](https://dev.to/sergey_kovalchuk_3dc214cd/evolution-of-python-functions-from-27-to-312-with-code-examples-29fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
