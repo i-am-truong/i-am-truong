@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bryan Bros Golf: We Played Golf At #1 Course In World!](https://dev.to/youtube_golf/bryan-bros-golf-we-played-golf-at-1-course-in-world-1g0n)
-- [Noclip: The Origins of MachineGames &lpar;Riddick, The Darkness&rpar; - Noclip Documentary](https://dev.to/gg_news/noclip-the-origins-of-machinegames-riddick-the-darkness-noclip-documentary-2bm9)
-- [GameSpot: Kingdom Come: Deliverance 2&#39;s DLC Lets You Be A Dentist By Punching A Guy&#39;s Tooth Out | Hands-On](https://dev.to/gg_news/gamespot-kingdom-come-deliverance-2s-dlc-lets-you-be-a-dentist-by-punching-a-guys-tooth-out--4hng)
-- [GameSpot: Outer Worlds 2 Lets You Roleplay A Space Moron | Hands-On Impressions](https://dev.to/gg_news/gamespot-outer-worlds-2-lets-you-roleplay-a-space-moron-hands-on-impressions-20l0)
-- [IGN: Infinity Nikki Stardew Valley - Official Collaboration Trailer](https://dev.to/gg_news/ign-infinity-nikki-x-stardew-valley-official-collaboration-trailer-2226)
+- [Semantic HTML for SEO and Accessibility](https://dev.to/esthersunday/semantic-html-for-seo-and-accessibility-27p0)
+- [Debounce vs Throttling: Optimizing React Web Apps](https://dev.to/dakshim/debounce-vs-throttling-optimizing-react-web-apps-24cl)
+- [Real-time WebSocket Chat for Uzbek Users – xasanov.uz](https://dev.to/izzatbek/real-time-websocket-chat-for-uzbek-users-xasanovuz-4p6b)
+- [Free android lint perf](https://dev.to/charlietap/free-android-lint-perf-103p)
+- [Building Child-Safe AI Agents: 6 Educational Mentors with 92% AI Autonomy](https://dev.to/victorsaly/building-child-safe-ai-agents-6-educational-mentors-with-92-ai-autonomy-39hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
