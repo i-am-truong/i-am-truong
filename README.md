@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My portfolio](https://dev.to/4mkbs/my-portfolio-4pj0)
-- [How to learn physics easily: discover PhysicsHub.](https://dev.to/mattqdev/how-to-learn-physics-easily-discover-physicshub-1aj)
-- [Show Dev: TestDino – Stop Wasting Hours Debugging Flaky Playwright Tests](https://dev.to/pratik-patel/show-dev-testdino-stop-wasting-hours-debugging-flaky-playwright-tests-gok)
-- [[Boost]](https://dev.to/ben/-2ob7)
-- [Alec Steele: How the Finest Leather Bags Are Handmade in England](https://dev.to/maker_youtube/alec-steele-how-the-finest-leather-bags-are-handmade-in-england-4jek)
+- [SkyAccess](https://dev.to/skyaccess/skyaccess-4ccp)
+- [Design Document:LLM Service](https://dev.to/yc_lee_53e583a776a9c56e3/design-documentllm-service-52mc)
+- [I just launched TL;Dev, a curated collection of notes for developers and indie builders.](https://dev.to/linwangg/i-just-launched-tldev-a-curated-collection-of-notes-for-developers-and-indie-builders-4ghc)
+- [Peck is a utility for your PHP projects](https://dev.to/deniskorbakov/peck-is-a-utility-for-your-php-projects-557c)
+- [Write your CI/CD in TypeScript](https://dev.to/louis_dussarps_e656bc7b01/write-your-cicd-in-typescript-41e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
