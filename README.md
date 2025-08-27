@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Semantic HTML in Action: A Practical Guide to Better SEO and Accessibility](https://dev.to/githogora_wilson_47df4080/semantic-html-in-action-a-practical-guide-to-better-seo-and-accessibility-2e0d)
+- [Distributed Transactions in Microservices: Why 2PC Doesn’t Fit and How Sagas Help](https://dev.to/hassan314159/distributed-transactions-in-microservices-why-2pc-doesnt-fit-and-how-sagas-help-1lb)
+- [Sidebar now properly scrolls &lpar;important when there are more total forems&rpar;, and there is a `+` now. Next step will be adding a survey to accept ideas about the next subforems. Eventually members will be able to spin these up themselves.](https://dev.to/ben/sidebar-now-properly-scrolls-important-when-there-are-more-total-forems-and-there-is-a--4ien)
+- [Survey functionality mostly finalized, will announce soon to the broader community.](https://dev.to/ben/survey-functionality-mostly-finalized-will-announce-soon-to-the-broader-community-3kd7)
 - [Semantic HTML for SEO and Accessibility](https://dev.to/esthersunday/semantic-html-for-seo-and-accessibility-27p0)
-- [Debounce vs Throttling: Optimizing React Web Apps](https://dev.to/dakshim/debounce-vs-throttling-optimizing-react-web-apps-24cl)
-- [Real-time WebSocket Chat for Uzbek Users – xasanov.uz](https://dev.to/izzatbek/real-time-websocket-chat-for-uzbek-users-xasanovuz-4p6b)
-- [Free android lint perf](https://dev.to/charlietap/free-android-lint-perf-103p)
-- [Building Child-Safe AI Agents: 6 Educational Mentors with 92% AI Autonomy](https://dev.to/victorsaly/building-child-safe-ai-agents-6-educational-mentors-with-92-ai-autonomy-39hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
