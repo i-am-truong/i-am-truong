@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We Built It, Then We Freed It: Telemetry Harbor Goes Open Source](https://dev.to/telemetryharbor/we-built-it-then-we-freed-it-telemetry-harbor-goes-open-source-1j31)
+- [🔎 Introduction to Linear Search &lpar;Beginner-Friendly DSA&rpar;](https://dev.to/giftintech/introduction-to-linear-search-beginner-friendly-dsa-4jle)
+- [Tihn](https://dev.to/githogora_wilson_47df4080/tihn-320l)
 - [KENYA CROPS ANALYSIS](https://dev.to/njeri_kimaru/kenya-crops-analysis-2nif)
-- [Laravel-Module-Create: Streamline Your Development with Modularity](https://dev.to/wr2net/laravel-module-create-streamline-your-development-with-modularity-18p5)
-- [How to Use ChatGPT to help build AI Voice Agents](https://dev.to/wiljansantiago/how-to-use-chatgpt-to-help-build-ai-voice-agents-2j11)
-- [A change in vision | Building Stocksimpy &lpar;Devlog 4&rpar;](https://dev.to/suleyman_sade/a-change-in-vision-building-stocksimpy-devlog-4-hb5)
-- [Release &amp; Deprecation Sentinel — Autonomous SRE Copilot with Bright Data + n8n](https://dev.to/mohankrishnaalavala/release-deprecation-sentinel-autonomous-sre-copilot-with-bright-data-n8n-3f50)
+- [Ship It Without Drama: 12 Hard-Won Lessons from Building Production Next.js Apps](https://dev.to/philldevcoder/ship-it-without-drama-12-hard-won-lessons-from-building-production-nextjs-apps-3939)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
