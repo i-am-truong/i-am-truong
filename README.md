@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decision Matrix To Navigate Technology Choices](https://dev.to/meet08/decision-matrix-to-navigate-technology-choices-4ojn)
-- [[Boost]](https://dev.to/jeffdev03/-28l)
-- [Cache buster chrome extension](https://dev.to/pixeline/cache-buster-chrome-extension-2dei)
-- [8 Offline Postman Alternatives That Make API Testing Fast, Private, and &lpar;Dare I Say&rpar; Fun](https://dev.to/stephen_proy_96618ed29a/8-offline-postman-alternatives-that-make-api-testing-fast-private-and-dare-i-say-fun-4g44)
-- [5 Practical Dify Workflow Examples for Smart Homes](https://dev.to/zediot/5-practical-dify-workflow-examples-for-smart-homes-37pi)
+- [How to build an OpenAI Agent with persistent memory](https://dev.to/bobur/how-to-build-an-openai-agent-with-persistent-memory-51kj)
+- [LLMs fail at debugging forms. Here’s how capturing runtime DOM as JSON helps.](https://dev.to/alexey_sokolov_10deecd763/llms-fail-at-debugging-forms-heres-how-capturing-runtime-dom-as-json-helps-1neh)
+- [Microsoft is Open Sourcing Windows 11&#39;s UI Framework &lpar;WinUI 3&rpar; - Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/microsoft-is-open-sourcing-windows-11s-ui-framework-winui-3-heres-what-developers-need-to-i3m)
+- [The 5 Rules for using ARIA](https://dev.to/laura-wissiak/the-5-rules-for-using-aria-2f0)
+- [Outsource Kotlin Development: A Smarter Way to Build Android Apps](https://dev.to/michael_keller_9d83ef0ce5/outsource-kotlin-development-a-smarter-way-to-build-android-apps-hbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
