@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Computer Fundamentals - 1](https://dev.to/learneveryday_cs/computer-fundamentals-238c)
-- [Introducing AICreate.video — Unified AI Video &amp; Image Studio](https://dev.to/paulmorefield/introducing-aicreatevideo-unified-ai-video-image-studio-2afp)
-- [My First Webapp - AI written](https://dev.to/pravin_niceguy/my-first-webapp-ai-written-25cj)
-- [Learning TypeScript by Building a Markdown Editor](https://dev.to/rajkundalia/learning-typescript-by-building-a-markdown-editor-3601)
-- [Build AI Agents with n8n on Linux Ubuntu](https://dev.to/chiragx309/build-ai-agents-with-n8n-on-linux-ubuntu-5bdl)
+- [Solving Distributed ID Challenges with Snowflake IDs in TypeScript](https://dev.to/shahrad/solving-distributed-id-challenges-with-snowflake-ids-in-typescript-3910)
+- [Smooth, Jank-Free Animations with CSS and JavaScript: Performance Best Practices](https://dev.to/anisubhra_sarkar/smooth-jank-free-animations-with-css-and-javascript-performance-best-practices-46ff)
+- [How Time Series Reveal the Future: An Introduction to the ARIMA Model](https://dev.to/moubarakmohame4/how-time-series-reveal-the-future-an-introduction-to-the-arima-model-2k81)
+- [You Don’t Know the Depth of Your Passion Until You Step Away](https://dev.to/officialepicquotes/you-dont-know-the-depth-of-your-passion-until-you-step-away-351p)
+- [Bitwise Operation](https://dev.to/safal_bhandari/bitwise-operation-211b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
