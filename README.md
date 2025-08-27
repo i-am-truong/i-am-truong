@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Made Simple: A Step-by-Step Guide to Starting in 2025](https://dev.to/mrigankwastaken/devops-made-simple-a-step-by-step-guide-to-starting-in-2025-594m)
-- [Unlock Your Audience: The Ultimate Guide to SEO-Driven Content Creation 🚀](https://dev.to/rohith200589/unlock-your-audience-the-ultimate-guide-to-seo-driven-content-creation-2eif)
-- [3 Things I Learned Building a Database from Scratch &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/pauletart/3-things-i-learned-building-a-database-from-scratch-and-what-id-do-differently-339m)
-- [Generate Mock JSON APIs Instantly with JSONToAll.Tools – Free Online Tool](https://dev.to/sourav_halder_5da9b618537/generate-mock-json-apis-instantly-with-jsontoalltools-free-online-tool-4b55)
-- [🌟 Join Our Developer Community on DEV!](https://dev.to/msbala007/join-our-developer-community-on-dev-2g1f)
+- [Why Soft Skills Matter More Than You Think for Developers](https://dev.to/umairarshad-dev/why-soft-skills-matter-more-than-you-think-for-developers-198c)
+- [Do you think AI coding assistants &lpar;like Copilot or ChatGPT&rpar; will eventually set new coding standards, or just become personal helpers for each developer?](https://dev.to/kevinasutton/do-you-think-ai-coding-assistants-like-copilot-or-chatgpt-will-eventually-set-new-coding-3j3e)
+- [🚀 Secure Your Flutter Apps Like a Pro! 🔐](https://dev.to/coderaray5/secure-your-flutter-apps-like-a-pro-4jo2)
+- [Two Days Away from Launch: A Fellow Crafter&#39;s Journey to Solving Our Biggest Challenge](https://dev.to/hiromis_rosamartinezmar/two-days-away-from-launch-a-fellow-crafters-journey-to-solving-our-biggest-challenge-3gh9)
+- [Vibe Coding a Simple Feature Took 3 Hours. Here&#39;s Why.](https://dev.to/js402/vibe-coding-a-simple-feature-took-3-hours-heres-why-4f7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
