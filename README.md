@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Have you ever built one ?](https://dev.to/masterdevsabith/have-you-ever-built-one--4bon)
-- [Refactor Smart Today, Move Faster Tomorrow - Part 1: Before You Touch a Line of Code](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-1-before-you-touch-a-line-of-code-3557)
-- [Agente de IA para Resumir Textos Acadêmicos: Inovação na Compreensão Científica](https://dev.to/no_codestartup/agente-de-ia-para-resumir-textos-academicos-inovacao-na-compreensao-cientifica-3ikg)
-- [Why NGINX Still Powers the Modern Web in 2025: Part 1](https://dev.to/surajkumar00/why-nginx-still-powers-the-modern-web-in-2025-part-1-8g8)
-- [Make an Image drag and drop with CSS in React](https://dev.to/barrujamisrg/make-an-image-drag-and-drop-with-css-in-react-322d)
+- [How to Create a Bootable USB Windows 10 Using Rufus](https://dev.to/siswoyo/how-to-create-a-bootable-usb-windows-10-using-rufus-1876)
+- [How Chat UIs Communicate with MCP Servers](https://dev.to/om_shree_0709/how-chat-uis-communicate-with-mcp-servers-4ejb)
+- [The Art of Simplicity: A Home for Complexity](https://dev.to/glacius/the-art-of-simplicity-a-home-for-complexity-26na)
+- [Best Crypto APIs for Developers in 2025](https://dev.to/supratipb/best-crypto-apis-for-developers-in-2025-4o03)
+- [🚀 Building Viral Hunts: AI Scavenger App with Expo &amp; NFTs – Dev Feedback Needed! 💻🎮](https://dev.to/jcloud/building-viral-hunts-ai-scavenger-app-with-expo-nfts-dev-feedback-needed-ode)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
