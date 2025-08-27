@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Turning Claude Code Into My Best Design Partner](https://dev.to/scastiel/turning-claude-code-into-my-best-design-partner-59a3)
-- [Digging into open-source Unity VR Games. Part 2: NorthStar](https://dev.to/pvsdev/digging-into-open-source-unity-vr-games-part-2-northstar-4en)
-- [Micronaut 4 application on AWS Lambda- Part 2 Reducing Lambda cold starts with Lambda SnapStart](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-2-reducing-lambda-cold-starts-with-lambda-snapstart-9l6)
-- [[Boost]](https://dev.to/ben/-3d2p)
-- [NX Compromised to Steal Wallets and Credentials https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/](https://dev.to/ben/nx-compromised-to-steal-wallets-and-credentials-5goh)
+- [My portfolio](https://dev.to/4mkbs/my-portfolio-4pj0)
+- [How to learn physics easily: discover PhysicsHub.](https://dev.to/mattqdev/how-to-learn-physics-easily-discover-physicshub-1aj)
+- [Show Dev: TestDino – Stop Wasting Hours Debugging Flaky Playwright Tests](https://dev.to/pratik-patel/show-dev-testdino-stop-wasting-hours-debugging-flaky-playwright-tests-gok)
+- [[Boost]](https://dev.to/ben/-2ob7)
+- [Alec Steele: How the Finest Leather Bags Are Handmade in England](https://dev.to/maker_youtube/alec-steele-how-the-finest-leather-bags-are-handmade-in-england-4jek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
