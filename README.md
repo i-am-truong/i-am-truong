@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building “Squares” with ChatGPT: From Prompts to a Commercial-Ready App &lpar;Day 10&rpar;](https://dev.to/nando_rama_67753ecb8e0e6d/building-squares-with-chatgpt-from-prompts-to-a-commercial-ready-app-day-10-567p)
 - [I just launched my first affiliate program &lpar;50% commission!&rpar; - here&#39;s why and what I learned](https://dev.to/vivien_mahe/i-just-launched-my-first-affiliate-program-50-commission-heres-why-and-what-i-learned-5a1f)
 - [De rails a node.js enterprise](https://dev.to/pwalvarado/de-rails-a-nodejs-enterprise-4g3p)
-- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-4m84)
-- [Oasis Infobyte Internship](https://dev.to/kunal_giri_e1fda1d0965d2b/oasis-infobyte-internship-2544)
-- [Genesis DB 1.0.0: Production-Ready and Battle-Tested](https://dev.to/patriceckhart/genesis-db-100-production-ready-and-battle-tested-295)
+- [Day 26 of #30DaysOfCode](https://dev.to/justacoder_0x/day-26-of-30daysofcode-47p8)
+- [Install and Configure CockroachDB in Ubuntu 24.04 LTS #CockroachDB #Database](https://dev.to/chittrmahto/install-and-configure-cockroachdb-in-ubuntu-2404-lts-cockroachdb-database-3kj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
