@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Chrome Dinosaur Game in Pygame &lpar;Part 1: Code init &amp; startup&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-1-code-init-startup-4f4j)
-- [HTML isn’t just code. Done right, it’s your strongest SEO weapon.](https://dev.to/web_dev-usman/html-isnt-just-code-done-right-its-your-strongest-seo-weapon-14og)
-- [Understanding WebSockets: A Beginner’s Guide to Real-Time Web Communication day 38 of system design basics](https://dev.to/vincenttommi/understanding-websockets-a-beginners-guide-to-real-time-web-communication-day-38-of-system-design-2m5m)
-- [Yggdrasil Network — Join the Global Mesh](https://dev.to/byteknight/yggdrasil-network-join-the-global-mesh-1kcc)
-- [SQL Interviews Suck. So I Built a Free Platform to Help You Crush Them. 🚀 👉 https://www.sql-practice.online/](https://dev.to/satish_reddy_372b4c9145ac/sql-interviews-suck-so-i-built-a-free-platform-to-help-you-crush-them-gg5)
+- [Good work Joy](https://dev.to/grayhat/good-work-joy-70h)
+- [Sometimes the best thing to do is an explicit nothing](https://dev.to/naugtur/sometimes-the-best-thing-to-do-is-an-explicit-nothing-2i71)
+- [MLflow The Series: รู้จัก MLflow ทำไม Data Scientist ต้องรู้จัก](https://dev.to/watchara-sukka/mlflow-the-seriesmlflow-khuueaair-thamaim-data-scientist-tngruucchak-69n)
+- [Step 2: Essential Theme Files – Core WordPress Theme Structure](https://dev.to/adovgun/step-2-essential-theme-files-core-wordpress-theme-structure-36ig)
+- [Outil de Cybersécurité du Jour - Aug 27, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-27-2025-4ej3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
