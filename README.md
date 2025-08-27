@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cli automates your i18n localization &lpar;REACT&rpar;!](https://dev.to/asad_rafi1221/auto-translation-the-cli-that-makes-i18n-as-easy-as-npm-start-reactnextjs-5gde)
-- [How to Build a Professional Online Presence for Embedded Hardware Projects](https://dev.to/tonyhe8688/how-to-build-a-professional-online-presence-for-embedded-hardware-projects-1np9)
-- [Good work Joy](https://dev.to/grayhat/good-work-joy-70h)
-- [Why I’m Using ViaSocket to Automate My Stack &lpar;And Actually Enjoy It&rpar;](https://dev.to/anes_boudaoudi_d0ca30e0d9/why-im-using-viasocket-to-automate-my-stack-and-actually-enjoy-it-3f38)
-- [Evolution of Python Functions: From 2.7 to 3.12 &lpar;with Code Examples&rpar;](https://dev.to/sergey_kovalchuk_3dc214cd/evolution-of-python-functions-from-27-to-312-with-code-examples-29fo)
+- [Cache buster chrome extension](https://dev.to/pixeline/cache-buster-chrome-extension-2dei)
+- [8 Offline Postman Alternatives That Make API Testing Fast, Private, and &lpar;Dare I Say&rpar; Fun](https://dev.to/stephen_proy_96618ed29a/8-offline-postman-alternatives-that-make-api-testing-fast-private-and-dare-i-say-fun-4g44)
+- [5 Practical Dify Workflow Examples for Smart Homes](https://dev.to/zediot/5-practical-dify-workflow-examples-for-smart-homes-37pi)
+- [XyPriss or ExpressJs ?🤔](https://dev.to/idevo/xypriss-or-expressjs--5cdb)
+- [Why Is Ontrak Stock Down? Key Reasons Behind the Decline](https://dev.to/mr_hammad_093c787cf373b1f/why-is-ontrak-stock-down-key-reasons-behind-the-decline-367n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
