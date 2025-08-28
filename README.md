@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Composability in Component Architecture: Lessons from React, Radix UI, and Beyond](https://dev.to/graemegeorge/composability-in-component-architecture-lessons-from-react-radix-ui-and-beyond-4g8b)
+- [Unleash the Neovim Beast: Master Your LazyVim Setup with Real Developer Workflows &lpar;Part 3&rpar;](https://dev.to/crafts69guy/unleash-the-neovim-beast-master-your-lazyvim-setup-with-real-developer-workflows-part-3-1cmc)
+- [CompTIA A+ — Build a Lab and Master Troubleshooting](https://dev.to/cameron_adams_6a168a99f37/comptia-a-build-a-lab-and-master-troubleshooting-4apk)
+- [Analyzing SEC Filing Patterns with SEC API](https://dev.to/finfeedapi/analyzing-sec-filing-patterns-with-sec-api-e7g)
 - [Paracetamol.ts💊| #43: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-43-explica-este-codigo-typescript-47ni)
-- [How to Build a Python MCP Server to Consult a Knowledge Base](https://dev.to/auth0/how-to-build-a-python-mcp-server-to-consult-a-knowledge-base-17og)
-- [Internet Trust Chains](https://dev.to/rodit-org/internet-trust-chains-1b4)
-- [This embedded database runs SQL on dataframes meet DuckDB](https://dev.to/dev_tips/this-embedded-database-runs-sql-on-dataframes-meet-duckdb-3ae2)
-- [Onlook: The Visual-First Code Editor That Will Change How You Build Websites](https://dev.to/githubopensource/onlook-the-visual-first-code-editor-that-will-change-how-you-build-websites-43di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
