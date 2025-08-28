@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude AI Chrome Extension: The Browser-Based Development Tool You Didn&#39;t Know You Needed](https://dev.to/shiva_shanker_k/claude-ai-chrome-extension-the-browser-based-development-tool-you-didnt-know-you-needed-34g1)
-- [I Upgraded to Vite 7: What Got 10x Better and Why It Might be the Future of Frontend Dev.](https://dev.to/dev_tips/i-upgraded-to-vite-7-what-got-10x-better-and-why-it-might-be-the-future-of-frontend-dev-2oh8)
-- [Tutorial: Dynamic Class Discovery and Loading in Python](https://dev.to/konstantinos_andreou_4dc1/tutorial-dynamic-class-discovery-and-loading-in-python-5dh8)
-- [6 Best Free AI Image 6 Best Free AI Image Generators: Tested &amp; Reviewed](https://dev.to/fan_f_5b7a559e3eb6fda2394/6-best-free-ai-image-6-best-free-ai-image-generators-tested-reviewed-12fn)
-- [Day-85 Understanding Wrapper Classes and Collections in Java](https://dev.to/tamilselvan1812/day-85-understanding-wrapper-classes-and-collections-in-java-2anp)
+- [NPR Music: Lucius: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-lucius-field-recordings-x-aspen-ideas-festival-4p8e)
+- [The Backend Finally Makes Sense, Why I&#39;m Loving Motia](https://dev.to/jealousgx/the-backend-finally-makes-sense-why-im-loving-motia-59kb)
+- [Engineering Tomorrow, Today](https://dev.to/titto-stackobea/engineering-tomorrow-today-4cli)
+- [Good work George](https://dev.to/grayhat/good-work-george-4a2k)
+- [Will AI Take Developer Jobs?](https://dev.to/donadams50/will-ai-take-developer-jobs-cg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
