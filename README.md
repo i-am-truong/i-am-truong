@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A single word, tone shift, or framing in the prompt can completely change the quality of your output. That’s the psychology of prompts, and mastering it is what separates casual users from experts.](https://dev.to/jaideepparashar/a-single-word-tone-shift-or-framing-in-the-prompt-can-completely-change-the-quality-of-your-26kk)
-- [Securing AWS EC2: Change SSH Port 22 to a Custom Port](https://dev.to/ashraf-minhaj/securing-aws-ec2-change-ssh-port-22-to-a-custom-port-3b8c)
-- [Task:Implement LLM integration and RAG system](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-llm-integration-and-rag-system-k67)
-- [The Psychology of Prompts: Why Wording Changes Everything](https://dev.to/jaideepparashar/the-psychology-of-prompts-why-wording-changes-everything-hpg)
-- [AquaKit: Complete AI SaaS Starter Kit for Next.js](https://dev.to/jqueryscript/aquakit-complete-ai-saas-starter-kit-for-nextjs-2b4i)
+- [The Data Governance Gap: Securing Your ServiceNow Ecosystem in a Hybrid World 🔒](https://dev.to/sip_mjb/the-data-governance-gap-securing-your-servicenow-ecosystem-in-a-hybrid-world-3i9f)
+- [I Built GitNarrative: Turn Your Git Commits Into Stories](https://dev.to/grudged/i-built-gitnarrative-turn-your-git-commits-into-stories-ka0)
+- [[Boost]](https://dev.to/tcodecyber/-2oke)
+- [Accidentally Built an AI Agent That Turned Cold Outreach Into a Cheat Code](https://dev.to/onlineproxy-io/accidentally-built-an-ai-agent-that-turned-cold-outreach-into-a-cheat-code-1k2d)
+- [GameSpot: The Outer Worlds 2 Hands-on Impressions](https://dev.to/gg_news/gamespot-the-outer-worlds-2-hands-on-impressions-2c18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
