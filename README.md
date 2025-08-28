@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Unexpected Ways to Use an Image Hosting API in Your App](https://dev.to/ideradevtools/7-unexpected-ways-to-use-an-image-hosting-api-in-your-app-1j8)
-- [Backend downtime during a demo](https://dev.to/arranstrange/backend-downtime-during-a-demo-5ff9)
-- [Guido van Rossum Revisits Python&#39;s Life in a New Documentary](https://dev.to/davidcassel/guido-van-rossum-revisits-pythons-life-in-a-new-documentary-33b2)
-- [The Mini PC For Me](https://dev.to/leeca/the-mini-pc-for-me-kob)
-- [Building a Universal Job Board Scraper with n8n + BrightData](https://dev.to/heapnotizer/i-automated-my-job-search-with-n8n-brightdata-g6c)
+- [How I Built an AI Tool to Read Invoices and Predict GST — Without Losing My Mind](https://dev.to/trojanmocx/how-i-built-an-ai-tool-to-read-invoices-and-predict-gst-without-losing-my-mind-14i3)
+- [Code Generation with ‘Graph RAG’, AstraDB and gpt-oss](https://dev.to/aairom/code-generation-with-graph-rag-astradb-and-gpt-oss-o01)
+- [Install n8n on Windows with Docker &lpar;Step-by-Step&rpar;](https://dev.to/swapnil-ahmmed-shishir/install-n8n-on-windows-with-docker-step-by-step-3dc3)
+- [🖥 Install n8n Locally on Windows – Step by Step](https://dev.to/swapnil-ahmmed-shishir/install-n8n-locally-on-windows-step-by-step-5aj2)
+- [How do you see AI tools like GitHub Copilot changing the role of developers over the next 5 years?](https://dev.to/kevinasutton/how-do-you-see-ai-tools-like-github-copilot-changing-the-role-of-developers-over-the-next-5-years-4a86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
