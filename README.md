@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an MCP Server That Solves Every Developer&#39;s Rules Management Problem](https://dev.to/4regab/building-an-mcp-server-that-solves-every-developers-rules-management-problem-o86)
 - [Day 11 — Vibe the hard thing while you’re excited](https://dev.to/nando_rama_67753ecb8e0e6d/day-11-vibe-the-hard-thing-while-youre-excited-1plg)
 - [Scaling Bedrock&#39;s Nova Pro Model for High-Traffic Workloads](https://dev.to/aaron_rose_0787cc8b4775a0/scaling-bedrocks-nova-pro-model-for-high-traffic-workloads-2l6k)
 - [Strengthening Libre: Security and Optimization Updates](https://dev.to/libre_anti_social/strengthening-libre-security-and-optimization-updates-5hb2)
 - [LangGraph: Core Concepts](https://dev.to/farhan_khan_41ec7ff11ac1d/langgraph-core-concepts-45e8)
+- [You don’t need 20 tools. Just use Postgres &lpar;seriously!&rpar;](https://dev.to/dev_tips/you-dont-need-20-tools-just-use-postgres-seriously-4be7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
