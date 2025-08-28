@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💡 What&#39;s new in txtai 9.0](https://dev.to/neuml/whats-new-in-txtai-90-1471)
-- [Bitcoin Backend Loan Platforms: AAVE vs Morpho Comprehensive Guide](https://dev.to/testlolrandomsilson/bitcoin-backend-loan-platforms-aave-vs-morpho-comprehensive-guide-49om)
-- [ArrayList in the Java Collection Framework.](https://dev.to/paviarunachalam/arraylist-in-the-java-collection-framework-if)
-- [A Beginner’s Guide to HTML SVG &lpar;Scalable Vector Graphics&rpar;](https://dev.to/er-raj-aryan/a-beginners-guide-to-html-svg-scalable-vector-graphics-102e)
-- [The Ultimate Guide to Cookie Properties in the Browser](https://dev.to/zeeshanali0704/the-ultimate-guide-to-cookie-properties-in-the-browser-30e4)
+- [Puppet Continuous Delivery: New Releases!](https://dev.to/puppet/puppet-continuous-delivery-new-releases-14na)
+- [Why Human APIs fail as MCP tools &lpar;and how to fix them&rpar;](https://dev.to/arman08/why-human-apis-fail-as-mcp-tools-and-how-to-fix-them-10hm)
+- [Distributed Business Logic with Laravel Observers: Let Models Mind Their Own Business](https://dev.to/raheelshan/distributed-business-logic-with-laravel-observers-let-models-mind-their-own-business-2837)
+- [Building High-Performance Time Series on SQLite with Go: UUIDv7, sqlc, and libSQL](https://dev.to/zanzythebar/building-high-performance-time-series-on-sqlite-with-go-uuidv7-sqlc-and-libsql-3ejb)
+- [Django Signals: The Hidden Superpower Nobody Talks About](https://dev.to/jawadulhadicc/django-signals-the-hidden-superpower-nobody-talks-about-d6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
