@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What lens has the least distortion?](https://dev.to/towin/what-lens-has-the-least-distortion-185b)
-- [Recruter un développeur en 2025 : guide complet pour les entreprises tech et non-tech](https://dev.to/beranto_rafalinjanahary_a/recruter-un-developpeur-en-2025-guide-complet-pour-les-entreprises-tech-et-non-tech-27lm)
-- [Why We Built Confidence Scoring Into Our Date Parser &lpar;And Why Every API Should&rpar;](https://dev.to/tomjstone/why-we-built-confidence-scoring-into-our-date-parser-and-why-every-api-should-4k3o)
-- [Embroidery Digitizing Made Easy / Learn the Basics and Beyond](https://dev.to/nasir_e2b7117700a5a655151/embroidery-digitizing-made-easy-learn-the-basics-and-beyond-4cof)
-- [MAX1659ESA: Low-Dropout Linear Regulator for Efficient Power Management](https://dev.to/etei/max1659esa-low-dropout-linear-regulator-for-efficient-power-management-1705)
+- [Fundamentos modernos y primera interacción con IA. Parte 3](https://dev.to/aperezl/fundamentos-modernos-y-primera-interaccion-con-ia-parte-3-9en)
+- [What is Micro SaaS? Your Guide to Niche Software Success](https://dev.to/lollypopdesign/what-is-micro-saas-your-guide-to-niche-software-success-6b9)
+- [How Tariffs and Digital Services Taxes Are Reshaping the Global Fintech Industry](https://dev.to/krunalbhimani/how-tariffs-and-digital-services-taxes-are-reshaping-the-global-fintech-industry-1k11)
+- [100 Days of DevOps: Day 25](https://dev.to/wycliffealphus/100-days-of-devops-day-25-55d3)
+- [AI Models Demystified: What Really Happens Inside an AI Model?](https://dev.to/ksr007/ai-models-demystified-what-really-happens-inside-an-ai-model-2nf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
