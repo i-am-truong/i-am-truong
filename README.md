@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The complete guide to Docker Offload. Beta mode was just launched.](https://dev.to/dev_tips/the-complete-guide-to-docker-offload-beta-mode-was-just-launched-1ik8)
+- [Market Exchange: 1. Intro](https://dev.to/arturaronov/market-exchange-intro-1am3)
 - [📚 My Python Roadmap Journey #1 - Basics](https://dev.to/polakk0/my-python-roadmap-journey-1-basics-i9c)
 - [Next.js on Cloudflare vs. Vercel: Why Pretty Deploys Don’t Scale](https://dev.to/dev_tips/nextjs-on-cloudflare-vs-vercel-why-pretty-deploys-dont-scale-2m9a)
 - [Preparing Your Data for the ARIMA Model: The Secret Step to Reliable Forecasts](https://dev.to/moubarakmohame4/preparing-your-data-for-the-arima-model-the-secret-step-to-reliable-forecasts-2h9)
-- [express-error-toolkit — the One NPM Package to Handle All Express Errors](https://dev.to/dev-rashedin/express-error-toolkit-the-one-npm-package-to-handle-all-express-errors-869)
-- [VVIX Current Value: What It Means for Investors](https://dev.to/mr_hammad_093c787cf373b1f/vvix-current-value-what-it-means-for-investors-3bne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
