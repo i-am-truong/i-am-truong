@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Agents Are Revolutionizing Webflow Development in 2025](https://dev.to/224industries/how-ai-agents-are-revolutionizing-webflow-development-in-2025-kp8)
-- [Happy accident with diamond shaped borders](https://dev.to/berilbbj/happy-accident-with-diamond-shaped-borders-18mm)
-- [Did Nano Banana Just Kill Flux Kontext for Quick Edits?](https://dev.to/kevin_garcia_a0fda39cd91e/did-nano-banana-just-kill-flux-kontext-for-quick-edits-126d)
-- [Quantas cartas tem em uma torre de cartas com N andares?](https://dev.to/renan_marquetti_9d8acb2b1/quantas-cartas-tem-em-uma-torre-de-cartas-com-n-andares-3l1n)
-- [Task:Set up data warehouse schema and connections using the Greenplum](https://dev.to/yc_lee_53e583a776a9c56e3/taskset-up-data-warehouse-schema-and-connections-using-the-greenplum-515d)
+- [Task:Create vector database integration for RAG system](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-vector-database-integration-for-rag-system-jdf)
+- [Task:Implement data lake storage with Apache Iceberg](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-data-lake-storage-with-apache-iceberg-2ii5)
+- [Zero-Downtime Deployments on Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/kazeem_mohammed/zero-downtime-deployments-on-kubernetes-step-by-step-10c)
+- [Transform Your Content Game with AI-Powered Video](https://dev.to/ethan_parkx_09fc0c31cddf/transform-your-content-game-with-ai-powered-video-2em7)
+- [🛳️ Docker Series: Episode 6 — Docker Volumes: The Secret to Saving Your Data](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-5467)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
