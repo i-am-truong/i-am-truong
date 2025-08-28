@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Design That Doesn&#39;t Crumble at Scale](https://dev.to/sibasishm/data-design-that-doesnt-crumble-at-scale-334j)
-- [Database Sharding: When, Why, and How to Do It Right](https://dev.to/dct_technology/database-sharding-when-why-and-how-to-do-it-right-1dg1)
-- [Task:Create yield prediction models](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-yield-prediction-models-c8e)
-- [How I Built a &quot;Now Playing&quot; Spotify Widget for My React Portfolio](https://dev.to/jefino9488/how-i-built-a-now-playing-spotify-widget-for-my-react-portfolio-kbd)
-- [Transforming Digital Reliability Through Quality Engineering Services](https://dev.to/testree/transforming-digital-reliability-through-quality-engineering-services-1l8k)
+- [TypeFX.js: Modern Typewriter Effects in Plain JavaScript](https://dev.to/jqueryscript/typefxjs-modern-typewriter-effects-in-plain-javascript-5gpb)
+- [Understanding useRef in React](https://dev.to/toufiq_choudhari_b7a5ab70/tsting-2oi0)
+- [When Transparency Becomes Over-Sharing in Teams](https://dev.to/dct_technology/when-transparency-becomes-over-sharing-in-teams-4obh)
+- [When Transparency Becomes Over-Sharing in Teams](https://dev.to/dct_technology/when-transparency-becomes-over-sharing-in-teams-28jg)
+- [🚀 Built My Developer Portfolio with Next.js + TypeScript + Tailwind CSS](https://dev.to/mr_spiky__/built-my-developer-portfolio-with-nextjs-typescript-tailwind-css-58ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
