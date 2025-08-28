@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is my llms.txt not working in ChatGPT or Gemini?](https://dev.to/sip/why-is-my-llmstxt-not-working-in-chatgpt-or-gemini-41dp)
+- [AI in Healthcare - A Startup’s Guide to Safe and Scalable Implementation 🏥🤖](https://dev.to/quokka_labs_c3691ddf70b8a/ai-in-healthcare-a-startups-guide-to-safe-and-scalable-implementation-16pg)
+- [Building Purchase Tracker: The MVP That Eats Your Receipts &lpar;So You Don’t Have To&rpar;](https://dev.to/klasniyparen/building-purchase-tracker-the-mvp-that-eats-your-receipts-so-you-dont-have-to-ld9)
+- [Zig, Rust, Go?! I tried 3 low-level languages and here’s what I’m sticking with](https://dev.to/dev_tips/zig-rust-go-i-tried-3-low-level-languages-and-heres-what-im-sticking-with-4gpp)
 - [Django ORM vs SQLAlchemy](https://dev.to/atifwattoo/django-orm-vs-sqlalchemy-4o1i)
-- [DevXPro Tools: 30+ Fast, Privacy-Focused Developer Utilities](https://dev.to/guhanro/devxpro-tools-30-fast-privacy-focused-developer-utilities-190a)
-- [Obsidian, Notion, Logseq?! The note-taking stack that doesn’t suck for devs](https://dev.to/dev_tips/obsidian-notion-logseq-the-note-taking-stack-that-doesnt-suck-for-devs-2cf7)
-- [Part 3 — Real-Time Inference on Pico &lpar;Firmware Integration&rpar;](https://dev.to/ertugrulmutlu/part-3-real-time-inference-on-pico-firmware-integration-3ga6)
-- [Send Emails with Windsurf and Mailtrap](https://dev.to/denyskontorskyy/send-emails-with-windsurf-and-mailtrap-3h4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
