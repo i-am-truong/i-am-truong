@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an Event Gallery in React With Cloudinary, AWS Rekognition, and Firebase](https://dev.to/cloudinary/how-to-build-an-event-gallery-in-react-with-cloudinary-aws-rekognition-and-firebase-h9p)
-- [Why OOP Finally Clicked for Me And How you Can Learn It Too.](https://dev.to/fa-code2/why-oop-finally-clicked-for-me-and-how-you-can-learn-it-too-1pp0)
-- [Monitoring OpenShift Data Foundation &lpar;ODF&rpar; Storage](https://dev.to/sindhuja_ns_1e491ce1088d/monitoring-openshift-data-foundation-odf-storage-3fjf)
-- [First DEV Education Track: &quot;Build Apps with Google AI Studio&quot;](https://dev.to/arun_kumar_98/first-dev-education-track-build-apps-with-google-ai-studio-agi)
-- [🧠 Boolean Logic, Conditional Statements &amp; Loops in Programming](https://dev.to/mzunairtariq/boolean-logic-conditional-statements-loops-in-programming-32b1)
+- [Building Queryable Chatbots Using MCP Tools](https://dev.to/om_shree_0709/building-queryable-chatbots-using-mcp-tools-l54)
+- [🕵️‍♂️ IoT Nightmare – How Smart Devices Spy on You](https://dev.to/sybersecure/iot-nightmare-how-smart-devices-spy-on-you-3g9b)
+- [🧠 Designing Logical Flow in Programming: Flowcharts &amp; Pseudocode](https://dev.to/mzunairtariq/designing-logical-flow-in-programming-flowcharts-pseudocode-676)
+- [🌌 High-Performance 3D Spatial Data Sorting with Morton Codes in Clojure](https://dev.to/p_pumulo/high-performance-3d-spatial-data-sorting-with-morton-codes-in-clojure-1n6f)
+- [Task:Implement automated model training pipelines leveraging MLFlow](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-automated-model-training-pipelines-leveraging-mlflow-364h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
