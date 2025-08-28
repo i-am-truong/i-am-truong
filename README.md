@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Task:Implement document processing pipeline](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-document-processing-pipeline-1bjf)
-- [How to Set Up TLS on Cloudflare: A Step-by-Step Guide](https://dev.to/freedom-coder/how-to-set-up-tls-on-cloudflare-a-step-by-step-guide-2p1g)
-- [How To Connect AWS AppRunner Service To RDS And EC2](https://dev.to/aws-builders/how-to-connect-aws-apprunner-service-to-rds-and-ec2-5fkk)
-- [NumPy Basics for Data Handling in Python](https://dev.to/abhishek422/numpy-basics-for-data-handling-in-python-2cj0)
-- [Glyph.Flow Devlog #3 – Splitting Logs &amp; UI Glow](https://dev.to/daemonic01/glyphflow-devlog-3-splitting-logs-ui-glow-3lk7)
+- [🚀 Building a Multi-Environment Web Application Infrastructure with Auto-Scaling on AWS Using Terraform](https://dev.to/samuel_udeh/building-a-multi-environment-web-application-infrastructure-with-auto-scaling-on-aws-using-43m9)
+- [Mi experiencia en Mercado Libre como Senior Developer: lo bueno, lo malo y lo que aprendí](https://dev.to/aletorres1102/mi-experiencia-en-mercado-libre-como-senior-developer-lo-bueno-lo-malo-y-lo-que-aprendi-3of7)
+- [🌍 The Journey of Data: From Raw Logs to Insights](https://dev.to/shagun_khandelwal/the-journey-of-data-from-raw-logs-to-insights-1bgi)
+- [EDA license utilization dashboard](https://dev.to/misha_zaslavskiy/eda-license-utilization-dashboard-2d5c)
+- [Why We Choose Rust for Modern Systems](https://dev.to/7sigma/why-we-choose-rust-for-modern-systems-2o2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
