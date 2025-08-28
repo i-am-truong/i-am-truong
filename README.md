@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Be Prepared for the “AI Tool I Tried Once” Moment](https://dev.to/dev_tips/be-prepared-for-the-ai-tool-i-tried-once-moment-2ifb)
-- [Building Libra: the story of creating a modern label-manufacturing website &lpar;and everything under the hood&rpar;](https://dev.to/aiden_murphy_286819858414/building-libra-the-story-of-creating-a-modern-label-manufacturing-website-and-everything-under-5ahb)
-- [What is a Single Page Application? Pros and Cons of the SPA Technology](https://dev.to/mitchelljhonson/what-is-a-single-page-application-pros-and-cons-of-the-spa-technology-2nbp)
-- [Application Tracing With Golang, OpenTelemetry, and Grafana Tempo](https://dev.to/sykrabadi/application-tracing-with-golang-opentelemetry-and-grafana-tempo-lfg)
-- [🚀 𝐈𝐎𝐩𝐭𝐢𝐨𝐧𝐬 𝐯𝐬 𝐈𝐎𝐩𝐭𝐢𝐨𝐧𝐬𝐒𝐧𝐚𝐩𝐬𝐡𝐨𝐭 𝐯𝐬 𝐈𝐎𝐩𝐭𝐢𝐨𝐧𝐬𝐌𝐨𝐧𝐢𝐭𝐨𝐫 𝐢𝐧 .𝐍𝐄𝐓 — 𝐖𝐡𝐚𝐭’𝐬 𝐭𝐡𝐞 𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞?](https://dev.to/shirin_monzavi_f3d63ff99d/--2mnj)
+- [Claude AI Chrome Extension: The Browser-Based Development Tool You Didn&#39;t Know You Needed](https://dev.to/shiva_shanker_k/claude-ai-chrome-extension-the-browser-based-development-tool-you-didnt-know-you-needed-34g1)
+- [I Upgraded to Vite 7: What Got 10x Better and Why It Might be the Future of Frontend Dev.](https://dev.to/dev_tips/i-upgraded-to-vite-7-what-got-10x-better-and-why-it-might-be-the-future-of-frontend-dev-2oh8)
+- [Tutorial: Dynamic Class Discovery and Loading in Python](https://dev.to/konstantinos_andreou_4dc1/tutorial-dynamic-class-discovery-and-loading-in-python-5dh8)
+- [6 Best Free AI Image 6 Best Free AI Image Generators: Tested &amp; Reviewed](https://dev.to/fan_f_5b7a559e3eb6fda2394/6-best-free-ai-image-6-best-free-ai-image-generators-tested-reviewed-12fn)
+- [Day-85 Understanding Wrapper Classes and Collections in Java](https://dev.to/tamilselvan1812/day-85-understanding-wrapper-classes-and-collections-in-java-2anp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
