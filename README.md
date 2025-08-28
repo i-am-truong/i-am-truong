@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Automating Subdomains &amp; Databases with AWS Route 53, FastAPI, and NGINX](https://dev.to/zedai00/automating-subdomains-databases-with-aws-route-53-fastapi-and-nginx-56df)
+- [I made a professional-grade Brainfuck IDE. And used it to come closer than ever to running Doom in Brainfuck.](https://dev.to/ahineya/i-made-a-professional-grade-brainfuck-ide-and-used-it-to-come-closer-than-ever-to-running-doom-in-4k7i)
 - [A Comprehensive Guide to Linked Lists: The Flexible Data Structure](https://dev.to/homayunmmdy/a-comprehensive-guide-to-linked-lists-the-flexible-data-structure-4941)
 - [How HTML Powers the Frontend of Point of Sale &lpar;POS&rpar; Systems](https://dev.to/kararimartin/how-html-powers-the-frontend-of-point-of-sale-pos-systems-f59)
-- [[Boost]](https://dev.to/nawab_kumar_sarraf/-3a4o)
-- [Practical Steps for Artists: How to Get Gallery-Ready with Blockchain](https://dev.to/sammiller/practical-steps-for-artists-how-to-get-gallery-ready-with-blockchain-31e3)
-- [Next Stop, Nuxt: A React Engineer’s Journey into Vue](https://dev.to/graemegeorge/react-vue-a-senior-devs-self-study-bootcamp-2k38)
+- [LangChain vs LangGraph: Which LLM Framework Should You Use?](https://dev.to/clickit_devops/langchain-vs-langgraph-which-llm-framework-should-you-use-2k1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
