@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Common XAML UI Problems &lpar;and How Hot Design Fixes Them&rpar;](https://dev.to/uno-platform/10-common-xaml-ui-problems-and-how-hot-design-fixes-them-5a0f)
 - [IBM Blog: What If Your AI Assistant Couldn’t Stop Oversharing? Here&#39;s How We Taught It to Think Like a Minimalist.](https://dev.to/pallavi_aggarwal_1/what-if-your-ai-assistant-couldnt-stop-oversharing-heres-how-we-taught-it-to-think-like-a-fdb)
 - [Cloud Misconfigurations: The Hidden Door Hackers Love](https://dev.to/devtechinsights/cloud-misconfigurations-the-hidden-door-hackers-love-1dhk)
 - [My game dev journey begins: Flappy Bee 🐝](https://dev.to/martingrignard/my-game-dev-journey-begins-flappy-bee-53c1)
-- [Building My First AI-Powered App: From Whisper to Vercel Limits](https://dev.to/sidharth_sangelia_1da71c4/building-my-first-ai-powered-app-from-whisper-to-vercel-limits-1cf)
-- [Updates to the Same Value: MongoDB Optimization](https://dev.to/franckpachot/mongodb-optimizes-updates-to-the-same-value-1f2k)
+- [Mastering Semantic HTML: A Technical Guide for Web Developers🚀](https://dev.to/loki_c4c93d08b9ae67c17c17/mastering-semantic-html-a-technical-guide-for-web-developers-aie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
