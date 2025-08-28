@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Common XAML UI Problems &lpar;and How Hot Design Fixes Them&rpar;](https://dev.to/uno-platform/10-common-xaml-ui-problems-and-how-hot-design-fixes-them-5a0f)
-- [IBM Blog: What If Your AI Assistant Couldn’t Stop Oversharing? Here&#39;s How We Taught It to Think Like a Minimalist.](https://dev.to/pallavi_aggarwal_1/what-if-your-ai-assistant-couldnt-stop-oversharing-heres-how-we-taught-it-to-think-like-a-fdb)
-- [Cloud Misconfigurations: The Hidden Door Hackers Love](https://dev.to/devtechinsights/cloud-misconfigurations-the-hidden-door-hackers-love-1dhk)
-- [My game dev journey begins: Flappy Bee 🐝](https://dev.to/martingrignard/my-game-dev-journey-begins-flappy-bee-53c1)
-- [Mastering Semantic HTML: A Technical Guide for Web Developers🚀](https://dev.to/loki_c4c93d08b9ae67c17c17/mastering-semantic-html-a-technical-guide-for-web-developers-aie)
+- [7 open-source MCP servers that make AI agents actually learn stuff](https://dev.to/dev_tips/7-open-source-mcp-servers-that-make-ai-agents-actually-learn-stuff-4bch)
+- [Complete Walkthrough Guide: File Integrity Monitoring &lpar;FIM&rpar; on Windows](https://dev.to/samueladeduntan/complete-walkthrough-guide-file-integrity-monitoring-fim-on-windows-1mnl)
+- [DeFAI is Coming: How AI Agents Will Reshape DeFi &lpar;And Why They Need Privacy&rpar;](https://dev.to/savvysid/defai-is-coming-how-ai-agents-will-reshape-defi-and-why-they-need-privacy-3gki)
+- [SOLID Principles In 2025 In Practice With Python And UML Examples](https://dev.to/alinsky/solid-principles-in-2025-in-practice-with-python-and-uml-examples-34l6)
+- [SEMANTIC HTML](https://dev.to/zakayo_mepetu_ded34b09bb1/semantic-html-2cig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
