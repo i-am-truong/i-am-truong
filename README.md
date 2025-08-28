@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [📌 FAANG Coding Patterns Series – Day 2](https://dev.to/devcorner/faang-coding-patterns-series-day-2-47f1)
+- [📌 FAANG Coding Patterns Series – Day 1](https://dev.to/devcorner/faang-coding-patterns-series-day-1-c0)
 - [Integrating MCP Tools into Express with Minimal Changes](https://dev.to/udarabibile/integrating-mcp-tools-into-express-with-minimal-changes-28e6)
 - [SQL Diagnostic Report&lpar;23ai, 19.28&rpar;](https://dev.to/vahidusefzadeh/sql-diagnostic-report23ai-1928-2h27)
 - [What Is IT Asset Discovery? The First Step in Preventing IT Asset Loss](https://dev.to/teresa_tran/what-is-it-asset-discovery-the-first-step-in-preventing-it-asset-loss-1ae8)
-- [📌 Day 18: The **Greedy Pattern** &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-18-the-greedy-pattern-amazon-interview-series-357b)
-- [🚀 Day 17: Trie &amp; String Matching Pattern &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-17-trie-string-matching-pattern-amazon-interview-series-2kkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
