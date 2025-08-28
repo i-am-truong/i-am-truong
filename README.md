@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LangGraph: Core Concepts](https://dev.to/farhan_khan_41ec7ff11ac1d/langgraph-core-concepts-45e8)
+- [You don’t need 20 tools. Just use Postgres &lpar;seriously!&rpar;](https://dev.to/dev_tips/you-dont-need-20-tools-just-use-postgres-seriously-4be7)
+- [AI AI Sales Agent with Real-Time Data IntegrationSales Agent with Real-Time Data Integration](https://dev.to/paulo_abbcba03b4df70572fc/ai-ai-sales-agent-with-real-time-data-integrationsales-agent-with-real-time-data-integration-154a)
 - [Introduction](https://dev.to/myranna/introduction-9b0)
 - [Automate like a boss: how I used n8n, Docker, and AI to build my lazy dev stack](https://dev.to/dev_tips/automate-like-a-boss-how-i-used-n8n-docker-and-ai-to-build-my-lazy-dev-stack-4e1m)
-- [Don&#39;t Let Bitnami Changes Break Your Kafka Pipelines: Migrate to KRaft Mode Now](https://dev.to/gilson_oliveira/dont-let-bitnami-changes-break-your-kafka-pipelines-migrate-to-kraft-mode-now-4ol4)
-- [📚 My Python Roadmap Journey #2 - Basics](https://dev.to/polakk0/my-python-roadmap-journey-1-basics-3ccj)
-- [The SharePoint exploit that breached U.S. Nuke Systems &lpar;and why devs should care&rpar;](https://dev.to/dev_tips/the-sharepoint-exploit-that-breached-us-nuke-systems-and-why-devs-should-care-10dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
