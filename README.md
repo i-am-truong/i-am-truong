@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building My First AI-Powered App: From Whisper to Vercel Limits](https://dev.to/sidharth_sangelia_1da71c4/building-my-first-ai-powered-app-from-whisper-to-vercel-limits-1cf)
+- [Updates to the Same Value: MongoDB Optimization](https://dev.to/franckpachot/mongodb-optimizes-updates-to-the-same-value-1f2k)
+- [I Made My Django App 10x Faster Without Changing a Single Database Query](https://dev.to/jawadulhadicc/i-made-my-django-app-10x-faster-without-changing-a-single-database-query-4i3i)
 - [Why the Kupa Nail Drill Sale Is a Must-Shop for Every Nail Artist](https://dev.to/premiernail/why-the-kupa-nail-drill-sale-is-a-must-shop-for-every-nail-artist-23jd)
 - [How I Built an AI Tool to Read Invoices and Predict GST — Without Losing My Mind](https://dev.to/trojanmocx/how-i-built-an-ai-tool-to-read-invoices-and-predict-gst-without-losing-my-mind-14i3)
-- [Code Generation with ‘Graph RAG’, AstraDB and gpt-oss](https://dev.to/aairom/code-generation-with-graph-rag-astradb-and-gpt-oss-o01)
-- [Install n8n on Windows with Docker &lpar;Step-by-Step&rpar;](https://dev.to/swapnil-ahmmed-shishir/install-n8n-on-windows-with-docker-step-by-step-3dc3)
-- [🖥 Install n8n Locally on Windows – Step by Step](https://dev.to/swapnil-ahmmed-shishir/install-n8n-locally-on-windows-step-by-step-5aj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
