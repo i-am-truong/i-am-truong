@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Composability in Component Architecture: Lessons from React, Radix UI, and Beyond](https://dev.to/graemegeorge/composability-in-component-architecture-lessons-from-react-radix-ui-and-beyond-4g8b)
-- [Unleash the Neovim Beast: Master Your LazyVim Setup with Real Developer Workflows &lpar;Part 3&rpar;](https://dev.to/crafts69guy/unleash-the-neovim-beast-master-your-lazyvim-setup-with-real-developer-workflows-part-3-1cmc)
-- [CompTIA A+ — Build a Lab and Master Troubleshooting](https://dev.to/cameron_adams_6a168a99f37/comptia-a-build-a-lab-and-master-troubleshooting-4apk)
-- [Analyzing SEC Filing Patterns with SEC API](https://dev.to/finfeedapi/analyzing-sec-filing-patterns-with-sec-api-e7g)
-- [Paracetamol.ts💊| #43: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-43-explica-este-codigo-typescript-47ni)
+- [How to Build an Event Gallery in React With Cloudinary, AWS Rekognition, and Firebase](https://dev.to/cloudinary/how-to-build-an-event-gallery-in-react-with-cloudinary-aws-rekognition-and-firebase-h9p)
+- [Why OOP Finally Clicked for Me And How you Can Learn It Too.](https://dev.to/fa-code2/why-oop-finally-clicked-for-me-and-how-you-can-learn-it-too-1pp0)
+- [Monitoring OpenShift Data Foundation &lpar;ODF&rpar; Storage](https://dev.to/sindhuja_ns_1e491ce1088d/monitoring-openshift-data-foundation-odf-storage-3fjf)
+- [First DEV Education Track: &quot;Build Apps with Google AI Studio&quot;](https://dev.to/arun_kumar_98/first-dev-education-track-build-apps-with-google-ai-studio-agi)
+- [🧠 Boolean Logic, Conditional Statements &amp; Loops in Programming](https://dev.to/mzunairtariq/boolean-logic-conditional-statements-loops-in-programming-32b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
