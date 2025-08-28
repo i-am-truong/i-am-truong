@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why the Kupa Nail Drill Sale Is a Must-Shop for Every Nail Artist](https://dev.to/premiernail/why-the-kupa-nail-drill-sale-is-a-must-shop-for-every-nail-artist-23jd)
 - [How I Built an AI Tool to Read Invoices and Predict GST — Without Losing My Mind](https://dev.to/trojanmocx/how-i-built-an-ai-tool-to-read-invoices-and-predict-gst-without-losing-my-mind-14i3)
 - [Code Generation with ‘Graph RAG’, AstraDB and gpt-oss](https://dev.to/aairom/code-generation-with-graph-rag-astradb-and-gpt-oss-o01)
 - [Install n8n on Windows with Docker &lpar;Step-by-Step&rpar;](https://dev.to/swapnil-ahmmed-shishir/install-n8n-on-windows-with-docker-step-by-step-3dc3)
 - [🖥 Install n8n Locally on Windows – Step by Step](https://dev.to/swapnil-ahmmed-shishir/install-n8n-locally-on-windows-step-by-step-5aj2)
-- [How do you see AI tools like GitHub Copilot changing the role of developers over the next 5 years?](https://dev.to/kevinasutton/how-do-you-see-ai-tools-like-github-copilot-changing-the-role-of-developers-over-the-next-5-years-4a86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
