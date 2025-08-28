@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TypeFX.js: Modern Typewriter Effects in Plain JavaScript](https://dev.to/jqueryscript/typefxjs-modern-typewriter-effects-in-plain-javascript-5gpb)
-- [Understanding useRef in React](https://dev.to/toufiq_choudhari_b7a5ab70/tsting-2oi0)
-- [When Transparency Becomes Over-Sharing in Teams](https://dev.to/dct_technology/when-transparency-becomes-over-sharing-in-teams-4obh)
-- [When Transparency Becomes Over-Sharing in Teams](https://dev.to/dct_technology/when-transparency-becomes-over-sharing-in-teams-28jg)
-- [🚀 Built My Developer Portfolio with Next.js + TypeScript + Tailwind CSS](https://dev.to/mr_spiky__/built-my-developer-portfolio-with-nextjs-typescript-tailwind-css-58ec)
+- [The Ultimate Guide to mHealth Applications Development](https://dev.to/jeni860/the-ultimate-guide-to-mhealth-applications-development-5741)
+- [Why “All-in-One” Productivity Tools Fail &lpar;and What Actually Works&rpar;](https://dev.to/bibhash_dutta_099/why-all-in-one-productivity-tools-fail-and-what-actually-works-3gf7)
+- [Top 7 WordPress Icon Plugins You Should Try](https://dev.to/masumparvej/top-7-wordpress-icon-plugins-you-should-try-49ed)
+- [Understanding Classification in Supervised Learning](https://dev.to/datawithnaomi/understanding-classification-in-supervised-learning-1h7e)
+- [Docker Explained: How It Really Works Under the Hood](https://dev.to/itsabhiyan/docker-explained-how-it-really-works-under-the-hood-56np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
