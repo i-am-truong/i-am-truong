@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Never Lose Coding Progress Again: How I Built a Hybrid Auto-Logger for VS Code](https://dev.to/tracywhodoesnot/never-lose-coding-progress-again-how-i-built-a-hybrid-auto-logger-for-vs-code-4i7i)
-- [Code:Implement RAG engine with semantic search_Manager](https://dev.to/yc_lee_53e583a776a9c56e3/codeimplement-rag-engine-with-semantic-search-2lcg)
-- [Task:Integrate semiconductor domain knowledge](https://dev.to/yc_lee_53e583a776a9c56e3/taskintegrate-semiconductor-domain-knowledge-3941)
-- [Part-31: 💾 Google Cloud Platform – Working with VM Disk Snapshots &lpar;GCP&rpar;](https://dev.to/latchudevops/part-31-google-cloud-platform-working-with-vm-disk-snapshots-gcp-4fln)
-- [Web Design Mistakes: Common Mistakes You Should Avoid in 2025](https://dev.to/ronika_kashyap/web-design-mistakes-common-mistakes-you-should-avoid-in-2025-2lad)
+- [Task:Create yield prediction models](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-yield-prediction-models-c8e)
+- [How I Built a &quot;Now Playing&quot; Spotify Widget for My React Portfolio](https://dev.to/jefino9488/how-i-built-a-now-playing-spotify-widget-for-my-react-portfolio-kbd)
+- [With Use of Client Portal, Eliminte 67% of Quick question Emails](https://dev.to/pratham_naik_project_manager/with-use-of-client-portal-eliminte-67-of-quick-question-emails-250e)
+- [The Client Portal Revolution: How We Eliminated 67% of &quot;Quick Question&quot; Emails](https://dev.to/teamcamp/the-client-portal-revolution-how-we-eliminated-67-of-quick-question-emails-5cl9)
+- [What is n8n? A Complete Beginner’s Guide to Workflow Automation](https://dev.to/snehalkadwe/what-is-n8n-a-complete-beginners-guide-to-workflow-automation-1jg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
