@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Design That Doesn&#39;t Crumble at Scale](https://dev.to/sibasishm/data-design-that-doesnt-crumble-at-scale-334j)
+- [Database Sharding: When, Why, and How to Do It Right](https://dev.to/dct_technology/database-sharding-when-why-and-how-to-do-it-right-1dg1)
 - [Task:Create yield prediction models](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-yield-prediction-models-c8e)
 - [How I Built a &quot;Now Playing&quot; Spotify Widget for My React Portfolio](https://dev.to/jefino9488/how-i-built-a-now-playing-spotify-widget-for-my-react-portfolio-kbd)
-- [With Use of Client Portal, Eliminte 67% of Quick question Emails](https://dev.to/pratham_naik_project_manager/with-use-of-client-portal-eliminte-67-of-quick-question-emails-250e)
-- [The Client Portal Revolution: How We Eliminated 67% of &quot;Quick Question&quot; Emails](https://dev.to/teamcamp/the-client-portal-revolution-how-we-eliminated-67-of-quick-question-emails-5cl9)
-- [What is n8n? A Complete Beginner’s Guide to Workflow Automation](https://dev.to/snehalkadwe/what-is-n8n-a-complete-beginners-guide-to-workflow-automation-1jg8)
+- [Transforming Digital Reliability Through Quality Engineering Services](https://dev.to/testree/transforming-digital-reliability-through-quality-engineering-services-1l8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
