@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SEMANTIC HTML](https://dev.to/jackie-yins/semantic-html-3i0i)
+- [How to Stop Getting Lost in Endless Resources and Stay Focused as a Developer](https://dev.to/kerkox/how-to-stop-getting-lost-in-endless-resources-and-stay-focused-as-a-developer-201m)
+- [Securing Flutter Apps: Best Practices for Protecting User Data](https://dev.to/bestaoui_aymen/securing-flutter-apps-best-practices-for-protecting-user-data-5ghn)
+- [Simplificando Testes no NestJS com Injeção de Valores](https://dev.to/tadeubdev/simplificando-testes-no-nestjs-com-injecao-de-valores-3io4)
 - [Better Sidekiq Classes](https://dev.to/brazenbraden/better-sidekiq-classes-430b)
-- [Semantic HTML for SEO and accessibility.](https://dev.to/jeff_kaberagithara_0e17f/semantic-html-for-seo-and-accessibility-3237)
-- [This Async Microservice Design Flaw IS Destroying Your Data Integrity!](https://dev.to/xuan_56087d315ff4f52254e6/this-async-microservice-design-flaw-is-destroying-your-data-integrity-jf9)
-- [What is google&#39;s nano banana and how it solved the biggest problem in ai image editing](https://dev.to/syedharis/what-is-googles-nano-banana-and-how-it-solved-the-biggest-problem-in-ai-image-editing-28ih)
-- [Day 37: Kubernetes Interview Questions](https://dev.to/udoh_deborah_b1e484c474bf/day-37-kubernetes-interview-questions-7ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
