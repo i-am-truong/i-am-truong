@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IBM Blog: What If Your AI Assistant Couldn’t Stop Oversharing? Here&#39;s How We Taught It to Think Like a Minimalist.](https://dev.to/pallavi_aggarwal_1/what-if-your-ai-assistant-couldnt-stop-oversharing-heres-how-we-taught-it-to-think-like-a-fdb)
+- [Cloud Misconfigurations: The Hidden Door Hackers Love](https://dev.to/devtechinsights/cloud-misconfigurations-the-hidden-door-hackers-love-1dhk)
+- [My game dev journey begins: Flappy Bee 🐝](https://dev.to/martingrignard/my-game-dev-journey-begins-flappy-bee-53c1)
 - [Building My First AI-Powered App: From Whisper to Vercel Limits](https://dev.to/sidharth_sangelia_1da71c4/building-my-first-ai-powered-app-from-whisper-to-vercel-limits-1cf)
 - [Updates to the Same Value: MongoDB Optimization](https://dev.to/franckpachot/mongodb-optimizes-updates-to-the-same-value-1f2k)
-- [I Made My Django App 10x Faster Without Changing a Single Database Query](https://dev.to/jawadulhadicc/i-made-my-django-app-10x-faster-without-changing-a-single-database-query-4i3i)
-- [Why the Kupa Nail Drill Sale Is a Must-Shop for Every Nail Artist](https://dev.to/premiernail/why-the-kupa-nail-drill-sale-is-a-must-shop-for-every-nail-artist-23jd)
-- [How I Built an AI Tool to Read Invoices and Predict GST — Without Losing My Mind](https://dev.to/trojanmocx/how-i-built-an-ai-tool-to-read-invoices-and-predict-gst-without-losing-my-mind-14i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
