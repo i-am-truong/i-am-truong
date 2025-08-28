@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Puppet Continuous Delivery: New Releases!](https://dev.to/puppet/puppet-continuous-delivery-new-releases-14na)
-- [Why Human APIs fail as MCP tools &lpar;and how to fix them&rpar;](https://dev.to/arman08/why-human-apis-fail-as-mcp-tools-and-how-to-fix-them-10hm)
-- [Distributed Business Logic with Laravel Observers: Let Models Mind Their Own Business](https://dev.to/raheelshan/distributed-business-logic-with-laravel-observers-let-models-mind-their-own-business-2837)
-- [Building High-Performance Time Series on SQLite with Go: UUIDv7, sqlc, and libSQL](https://dev.to/zanzythebar/building-high-performance-time-series-on-sqlite-with-go-uuidv7-sqlc-and-libsql-3ejb)
-- [Django Signals: The Hidden Superpower Nobody Talks About](https://dev.to/jawadulhadicc/django-signals-the-hidden-superpower-nobody-talks-about-d6m)
+- [[Boost]](https://dev.to/nawab_kumar_sarraf/-3a4o)
+- [Practical Steps for Artists: How to Get Gallery-Ready with Blockchain](https://dev.to/sammiller/practical-steps-for-artists-how-to-get-gallery-ready-with-blockchain-31e3)
+- [Next Stop, Nuxt: A React Engineer’s Journey into Vue](https://dev.to/graemegeorge/react-vue-a-senior-devs-self-study-bootcamp-2k38)
+- [Why I Don’t Like Path Aliases in TypeScript](https://dev.to/bennycode/why-i-dont-like-path-aliases-in-typescript-2b2a)
+- [X](https://dev.to/benny_neugebauer_4aebabb4/why-i-dont-like-path-aliases-in-typescript-3p50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
