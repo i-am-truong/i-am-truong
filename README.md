@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fundamentos modernos y primera interacción con IA. Parte 3](https://dev.to/aperezl/fundamentos-modernos-y-primera-interaccion-con-ia-parte-3-9en)
-- [What is Micro SaaS? Your Guide to Niche Software Success](https://dev.to/lollypopdesign/what-is-micro-saas-your-guide-to-niche-software-success-6b9)
-- [How Tariffs and Digital Services Taxes Are Reshaping the Global Fintech Industry](https://dev.to/krunalbhimani/how-tariffs-and-digital-services-taxes-are-reshaping-the-global-fintech-industry-1k11)
-- [100 Days of DevOps: Day 25](https://dev.to/wycliffealphus/100-days-of-devops-day-25-55d3)
-- [AI Models Demystified: What Really Happens Inside an AI Model?](https://dev.to/ksr007/ai-models-demystified-what-really-happens-inside-an-ai-model-2nf6)
+- [How to use Cargo to cross compile Rust programs for Raspberry Pi?](https://dev.to/carolineee/how-to-use-cargo-to-cross-compile-rust-programs-for-raspberry-pi-26l)
+- [🍽️ Building ReservaFlow: A Django + Celery + Redis Reservation System](https://dev.to/cristianzarellano/building-reservaflow-a-django-celery-redis-reservation-system-2im7)
+- [Infer Astro Zod Content Schema in TSX React Components avoiding Code Duplication](https://dev.to/ingosteinke/infer-astro-zod-content-schema-in-tsx-react-components-avoiding-code-duplication-4nl)
+- [International SaaS Nightmare: Timezone Edge Cases &lpar;And How to Solve Them Once and For All&rpar;](https://dev.to/tomjstone/international-saas-nightmare-timezone-edge-cases-and-how-to-solve-them-once-and-for-all-57hn)
+- [Thinking a Tech Career Change? Why AI Won&#39;t Replace Your Coding Brain &lpar;Yet!&rpar; 🧠💻](https://dev.to/rohith200589/thinking-a-tech-career-change-why-ai-wont-replace-your-coding-brain-yet-bnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
