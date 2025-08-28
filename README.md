@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building a Multi-Environment Web Application Infrastructure with Auto-Scaling on AWS Using Terraform](https://dev.to/samuel_udeh/building-a-multi-environment-web-application-infrastructure-with-auto-scaling-on-aws-using-43m9)
-- [Mi experiencia en Mercado Libre como Senior Developer: lo bueno, lo malo y lo que aprendí](https://dev.to/aletorres1102/mi-experiencia-en-mercado-libre-como-senior-developer-lo-bueno-lo-malo-y-lo-que-aprendi-3of7)
-- [🌍 The Journey of Data: From Raw Logs to Insights](https://dev.to/shagun_khandelwal/the-journey-of-data-from-raw-logs-to-insights-1bgi)
-- [EDA license utilization dashboard](https://dev.to/misha_zaslavskiy/eda-license-utilization-dashboard-2d5c)
-- [Why We Choose Rust for Modern Systems](https://dev.to/7sigma/why-we-choose-rust-for-modern-systems-2o2j)
+- [Interesting Thing That I Learned !!](https://dev.to/abishek_44a09d1e1af19b4ca/interesting-thing-that-i-learned--42ej)
+- [Smart_Store: A C++ Library for Dynamic Data Management and Automatic Type Registration](https://dev.to/gem_vic_5c08c5a528c1513e7/smartstore-a-c-library-for-dynamic-data-management-and-automatic-type-registration-22jk)
+- [Rethinking Responsibility: Empowering Engineers](https://dev.to/graemegeorge/rethinking-responsibility-empowering-engineers-d9h)
+- [Making Compiler Magic Visible: My Interactive Compiler Visualization Tool](https://dev.to/sudharsan01/making-compiler-magic-visible-my-interactive-compiler-visualization-tool-5dj0)
+- [🚀 Deploy to AWS Lambda in Minutes with GitHub Actions](https://dev.to/aws-builders/deploy-to-aws-lambda-in-minutes-with-github-actions-45fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
