@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use Cargo to cross compile Rust programs for Raspberry Pi?](https://dev.to/carolineee/how-to-use-cargo-to-cross-compile-rust-programs-for-raspberry-pi-26l)
-- [🍽️ Building ReservaFlow: A Django + Celery + Redis Reservation System](https://dev.to/cristianzarellano/building-reservaflow-a-django-celery-redis-reservation-system-2im7)
-- [Infer Astro Zod Content Schema in TSX React Components avoiding Code Duplication](https://dev.to/ingosteinke/infer-astro-zod-content-schema-in-tsx-react-components-avoiding-code-duplication-4nl)
-- [International SaaS Nightmare: Timezone Edge Cases &lpar;And How to Solve Them Once and For All&rpar;](https://dev.to/tomjstone/international-saas-nightmare-timezone-edge-cases-and-how-to-solve-them-once-and-for-all-57hn)
-- [Thinking a Tech Career Change? Why AI Won&#39;t Replace Your Coding Brain &lpar;Yet!&rpar; 🧠💻](https://dev.to/rohith200589/thinking-a-tech-career-change-why-ai-wont-replace-your-coding-brain-yet-bnj)
+- [Integrating MCP Tools into Express with Minimal Changes](https://dev.to/udarabibile/integrating-mcp-tools-into-express-with-minimal-changes-28e6)
+- [SQL Diagnostic Report&lpar;23ai, 19.28&rpar;](https://dev.to/vahidusefzadeh/sql-diagnostic-report23ai-1928-2h27)
+- [What Is IT Asset Discovery? The First Step in Preventing IT Asset Loss](https://dev.to/teresa_tran/what-is-it-asset-discovery-the-first-step-in-preventing-it-asset-loss-1ae8)
+- [📌 Day 18: The **Greedy Pattern** &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-18-the-greedy-pattern-amazon-interview-series-357b)
+- [🚀 Day 17: Trie &amp; String Matching Pattern &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-17-trie-string-matching-pattern-amazon-interview-series-2kkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
