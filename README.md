@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Lucius: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-lucius-field-recordings-x-aspen-ideas-festival-4p8e)
-- [The Backend Finally Makes Sense, Why I&#39;m Loving Motia](https://dev.to/jealousgx/the-backend-finally-makes-sense-why-im-loving-motia-59kb)
-- [Engineering Tomorrow, Today](https://dev.to/titto-stackobea/engineering-tomorrow-today-4cli)
-- [Good work George](https://dev.to/grayhat/good-work-george-4a2k)
-- [Will AI Take Developer Jobs?](https://dev.to/donadams50/will-ai-take-developer-jobs-cg3)
+- [📚 My Python Roadmap Journey #1 - Basics](https://dev.to/polakk0/my-python-roadmap-journey-1-basics-i9c)
+- [Next.js on Cloudflare vs. Vercel: Why Pretty Deploys Don’t Scale](https://dev.to/dev_tips/nextjs-on-cloudflare-vs-vercel-why-pretty-deploys-dont-scale-2m9a)
+- [Preparing Your Data for the ARIMA Model: The Secret Step to Reliable Forecasts](https://dev.to/moubarakmohame4/preparing-your-data-for-the-arima-model-the-secret-step-to-reliable-forecasts-2h9)
+- [express-error-toolkit — the One NPM Package to Handle All Express Errors](https://dev.to/dev-rashedin/express-error-toolkit-the-one-npm-package-to-handle-all-express-errors-869)
+- [VVIX Current Value: What It Means for Investors](https://dev.to/mr_hammad_093c787cf373b1f/vvix-current-value-what-it-means-for-investors-3bne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
