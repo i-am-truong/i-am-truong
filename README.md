@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Task:Create vector database integration for RAG system](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-vector-database-integration-for-rag-system-jdf)
-- [Task:Implement data lake storage with Apache Iceberg](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-data-lake-storage-with-apache-iceberg-2ii5)
-- [Zero-Downtime Deployments on Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/kazeem_mohammed/zero-downtime-deployments-on-kubernetes-step-by-step-10c)
-- [Transform Your Content Game with AI-Powered Video](https://dev.to/ethan_parkx_09fc0c31cddf/transform-your-content-game-with-ai-powered-video-2em7)
-- [🛳️ Docker Series: Episode 6 — Docker Volumes: The Secret to Saving Your Data](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-5467)
+- [[Boost]](https://dev.to/hadil/-5e6d)
+- [CVE Alert: SQL Injection in Yonyou GRP-U8 – Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/cve-alert-sql-injection-in-yonyou-grp-u8-patch-now-1kcc)
+- [Part-30: Google Compute Engine Persistent Disk Snapshots in GCP](https://dev.to/latchudevops/google-compute-enginepersistent-disk-snapshots-in-gcp-1g0p)
+- [End-to-End Automation with Terraform: A DevOps Engineer’s Guide to Infrastructure as Code](https://dev.to/kazeem_mohammed/end-to-end-automation-with-terraform-a-devops-engineers-guide-to-infrastructure-as-code-2n32)
+- [Introducing jsonvx: The Most Customisable JSON Parser, Querier &amp; Formatter for Go](https://dev.to/gbubemi_attah_8220489db16/introducing-jsonvx-the-most-customisable-json-parser-querier-formatter-for-go-52ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
