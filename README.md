@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [SEMANTIC HTML](https://dev.to/jackie-yins/semantic-html-3i0i)
 - [How to Stop Getting Lost in Endless Resources and Stay Focused as a Developer](https://dev.to/kerkox/how-to-stop-getting-lost-in-endless-resources-and-stay-focused-as-a-developer-201m)
+- [Hello gays, I am Patrick. I am looking for a beginner frontend developer to study with. I am a beginner backend developer, welcome anytime](https://dev.to/patrick_sisyph/hello-gays-i-am-patrick-i-am-looking-for-a-beginner-frontend-developer-to-study-with-i-am-a-3495)
 - [Securing Flutter Apps: Best Practices for Protecting User Data](https://dev.to/bestaoui_aymen/securing-flutter-apps-best-practices-for-protecting-user-data-5ghn)
 - [Simplificando Testes no NestJS com Injeção de Valores](https://dev.to/tadeubdev/simplificando-testes-no-nestjs-com-injecao-de-valores-3io4)
-- [Better Sidekiq Classes](https://dev.to/brazenbraden/better-sidekiq-classes-430b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
