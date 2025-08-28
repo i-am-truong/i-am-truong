@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Task:Implement spatial pattern recognition](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-spatial-pattern-recognition-2bkn)
+- [A Letter to My Younger Self: Stop Spreading Thin, Start Going Deep](https://dev.to/abhijeet_f0666fa3a3483e67/a-letter-to-my-younger-self-stop-spreading-thin-start-going-deep-31cd)
 - [Building High-Load API Services in Go: From Design to Production](https://dev.to/andrey_s/building-high-load-api-services-in-go-from-design-to-production-2626)
 - [How does Manish Chauhan stay updated with fast-changing tech trends?](https://dev.to/charimark/how-does-manish-chauhan-stay-updated-with-fast-changing-tech-trends-29h6)
 - [From zero to API hero: My pick for the best platform to learn C#](https://dev.to/stack_overflowed/from-zero-to-api-hero-my-pick-for-the-best-platform-to-learn-c-41im)
-- [Data Science Unlocked: Driving Growth in the Digital Era](https://dev.to/rajesh_rajesh_fd79016002e/data-science-unlocked-driving-growth-in-the-digital-era-2f3m)
-- [Getting Started with OpenAI APIs: A Complete Developer&#39;s Guide](https://dev.to/jayeshpadhiar/getting-started-with-openai-apis-a-complete-developers-guide-39ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
