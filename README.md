@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The complete guide to Docker Offload. Beta mode was just launched.](https://dev.to/dev_tips/the-complete-guide-to-docker-offload-beta-mode-was-just-launched-1ik8)
-- [Market Exchange: 1. Intro](https://dev.to/arturaronov/market-exchange-intro-1am3)
-- [📚 My Python Roadmap Journey #1 - Basics](https://dev.to/polakk0/my-python-roadmap-journey-1-basics-i9c)
-- [Next.js on Cloudflare vs. Vercel: Why Pretty Deploys Don’t Scale](https://dev.to/dev_tips/nextjs-on-cloudflare-vs-vercel-why-pretty-deploys-dont-scale-2m9a)
-- [Preparing Your Data for the ARIMA Model: The Secret Step to Reliable Forecasts](https://dev.to/moubarakmohame4/preparing-your-data-for-the-arima-model-the-secret-step-to-reliable-forecasts-2h9)
+- [From Markdown to Meaning: Turn Your Obsidian Notes into a Conversational Database Using LangChain, Python, and ChromaDB](https://dev.to/bohowhizz/from-markdown-to-meaning-turn-your-obsidian-notes-into-a-conversational-database-using-langchain-4pi7)
+- [Announcing No-Dev.to-Sidebar Extension!](https://dev.to/aspxone-official/announcing-no-devto-sidebar-extension-cf0)
+- [Information on Accessing Producer and Consumer Details](https://dev.to/vineeth_kumar_dcd30464fff/information-on-accessing-producer-and-consumer-details-pc6)
+- [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
+- [Part 2 — Training model on Raspberry Pi Pico for Edge AI Trend Alarm](https://dev.to/ertugrulmutlu/part-2-training-model-on-raspberry-pi-pico-for-edge-ai-trend-alarm-9gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
