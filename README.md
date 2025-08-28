@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Chrome Dinosaur Game in Pygame &lpar;Part 2: Infinite Horizons&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-2-infinite-horizons-41ie)
-- [Best Tools for Debugging Modern Web Apps &lpar;Next.js, Logs, and Beyond&rpar;](https://dev.to/alyatwa/best-tools-for-debugging-modern-web-apps-nextjs-logs-and-beyond-13j6)
-- [Try to test deno 2.2+ WebTransport&lpar;unstable&rpar;](https://dev.to/yamayuski/try-to-test-deno-22-webtransportunstable-dnc)
-- [Task:Create model monitoring and observability](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-model-monitoring-and-observability-722)
-- [🪄 Scopes, Closures, and Decorators in Python: A Deep Dive Adventure](https://dev.to/anik_sikder_313/scopes-closures-and-decorators-in-python-a-deep-dive-adventure-14ob)
+- [Task:Implement document processing pipeline](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-document-processing-pipeline-1bjf)
+- [How to Set Up TLS on Cloudflare: A Step-by-Step Guide](https://dev.to/freedom-coder/how-to-set-up-tls-on-cloudflare-a-step-by-step-guide-2p1g)
+- [How To Connect AWS AppRunner Service To RDS And EC2](https://dev.to/aws-builders/how-to-connect-aws-apprunner-service-to-rds-and-ec2-5fkk)
+- [NumPy Basics for Data Handling in Python](https://dev.to/abhishek422/numpy-basics-for-data-handling-in-python-2cj0)
+- [Glyph.Flow Devlog #3 – Splitting Logs &amp; UI Glow](https://dev.to/daemonic01/glyphflow-devlog-3-splitting-logs-ui-glow-3lk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
