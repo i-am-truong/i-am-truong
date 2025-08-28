@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive: Browser Rendering and HTML Parsing](https://dev.to/sharique_siddiqui_8242dad/deep-dive-browser-rendering-and-html-parsing-34k8)
-- [How to Assemble Knee Parts in 3D CAD Software](https://dev.to/julia970/how-to-assemble-knee-parts-in-3d-cad-software-m20)
-- [🗓 Daily LeetCode Progress – Day 12](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-12-51mj)
-- [Node-API Part-2: Safe Native-to-ArkTS Communication in HarmonyOS Next Using napi_create_threadsafe_function](https://dev.to/harmonyos/node-api-part-2-safe-native-to-arkts-communication-in-harmonyos-next-using-50b6)
-- [I&#39;ve Seen the Future of UI Development. It&#39;s Insane, Written in Rust, and Rendered by an AI.](https://dev.to/xzdes/ive-seen-the-future-of-ui-development-its-insane-written-in-rust-and-rendered-by-an-ai-39dg)
+- [What lens has the least distortion?](https://dev.to/towin/what-lens-has-the-least-distortion-185b)
+- [Recruter un développeur en 2025 : guide complet pour les entreprises tech et non-tech](https://dev.to/beranto_rafalinjanahary_a/recruter-un-developpeur-en-2025-guide-complet-pour-les-entreprises-tech-et-non-tech-27lm)
+- [Why We Built Confidence Scoring Into Our Date Parser &lpar;And Why Every API Should&rpar;](https://dev.to/tomjstone/why-we-built-confidence-scoring-into-our-date-parser-and-why-every-api-should-4k3o)
+- [Embroidery Digitizing Made Easy / Learn the Basics and Beyond](https://dev.to/nasir_e2b7117700a5a655151/embroidery-digitizing-made-easy-learn-the-basics-and-beyond-4cof)
+- [MAX1659ESA: Low-Dropout Linear Regulator for Efficient Power Management](https://dev.to/etei/max1659esa-low-dropout-linear-regulator-for-efficient-power-management-1705)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
