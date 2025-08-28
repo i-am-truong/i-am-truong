@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Next.js App Router Navigation Lag: Dynamic Routes and Prefetching](https://dev.to/kcsujeet/debugging-nextjs-app-router-navigation-lag-dynamic-routes-and-prefetching-akk)
-- [🚀 Building Scalable Background Jobs in Node.js with BullMQ: A Complete Guide](https://dev.to/asad_ahmed_5592ac0a7d0258/building-scalable-background-jobs-in-nodejs-with-bullmq-a-complete-guide-509p)
-- [When your settings page becomes the product](https://dev.to/alisa-kak-vsegda/when-your-settings-page-becomes-the-product-1824)
-- [The Importance of UX/UI Design for Developers](https://dev.to/shaurya_sahani_b294b8e3b6/the-importance-of-uxui-design-for-developers-4157)
-- [[Boost]](https://dev.to/ben/-5enc)
+- [Paracetamol.ts💊| #43: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-43-explica-este-codigo-typescript-47ni)
+- [How to Build a Python MCP Server to Consult a Knowledge Base](https://dev.to/auth0/how-to-build-a-python-mcp-server-to-consult-a-knowledge-base-17og)
+- [Internet Trust Chains](https://dev.to/rodit-org/internet-trust-chains-1b4)
+- [This embedded database runs SQL on dataframes meet DuckDB](https://dev.to/dev_tips/this-embedded-database-runs-sql-on-dataframes-meet-duckdb-3ae2)
+- [Onlook: The Visual-First Code Editor That Will Change How You Build Websites](https://dev.to/githubopensource/onlook-the-visual-first-code-editor-that-will-change-how-you-build-websites-43di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
