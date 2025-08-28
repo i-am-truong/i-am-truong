@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Interesting Thing That I Learned !!](https://dev.to/abishek_44a09d1e1af19b4ca/interesting-thing-that-i-learned--42ej)
-- [Smart_Store: A C++ Library for Dynamic Data Management and Automatic Type Registration](https://dev.to/gem_vic_5c08c5a528c1513e7/smartstore-a-c-library-for-dynamic-data-management-and-automatic-type-registration-22jk)
-- [Rethinking Responsibility: Empowering Engineers](https://dev.to/graemegeorge/rethinking-responsibility-empowering-engineers-d9h)
-- [Making Compiler Magic Visible: My Interactive Compiler Visualization Tool](https://dev.to/sudharsan01/making-compiler-magic-visible-my-interactive-compiler-visualization-tool-5dj0)
-- [🚀 Deploy to AWS Lambda in Minutes with GitHub Actions](https://dev.to/aws-builders/deploy-to-aws-lambda-in-minutes-with-github-actions-45fl)
+- [Colin Furze: Secret Garage Part 7 The Most Amazing Door!](https://dev.to/maker_youtube/colin-furze-secret-garage-part-7-the-most-amazing-door-59i6)
+- [File Integrity Monitoring with Wazuh SIEM Tool](https://dev.to/samueladeduntan/file-integrity-monitoring-with-wazuh-siem-tool-5c98)
+- [Adam Savage&#39;s Tested: How Adam Savage&#39;s R2D2 Was Prepared for Display at Smithsonian](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savages-r2d2-was-prepared-for-display-at-smithsonian-3a1b)
+- [Part 1: Why Your Million-Dollar GPU Cluster is 80% Idle and how to fix it](https://dev.to/shohams/part-1-why-your-million-dollar-gpu-cluster-is-80-idle-and-how-to-fix-it-ij0)
+- [GameSpot: Silent Hill f - 10 Minutes of NEW Gameplay](https://dev.to/gg_news/gamespot-silent-hill-f-10-minutes-of-new-gameplay-1f9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
