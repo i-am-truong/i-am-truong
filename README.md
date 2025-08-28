@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Task:Implement spatial pattern recognition](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-spatial-pattern-recognition-2bkn)
-- [A Letter to My Younger Self: Stop Spreading Thin, Start Going Deep](https://dev.to/abhijeet_f0666fa3a3483e67/a-letter-to-my-younger-self-stop-spreading-thin-start-going-deep-31cd)
-- [Building High-Load API Services in Go: From Design to Production](https://dev.to/andrey_s/building-high-load-api-services-in-go-from-design-to-production-2626)
-- [How does Manish Chauhan stay updated with fast-changing tech trends?](https://dev.to/charimark/how-does-manish-chauhan-stay-updated-with-fast-changing-tech-trends-29h6)
-- [From zero to API hero: My pick for the best platform to learn C#](https://dev.to/stack_overflowed/from-zero-to-api-hero-my-pick-for-the-best-platform-to-learn-c-41im)
+- [Deep Dive: Browser Rendering and HTML Parsing](https://dev.to/sharique_siddiqui_8242dad/deep-dive-browser-rendering-and-html-parsing-34k8)
+- [How to Assemble Knee Parts in 3D CAD Software](https://dev.to/julia970/how-to-assemble-knee-parts-in-3d-cad-software-m20)
+- [🗓 Daily LeetCode Progress – Day 12](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-12-51mj)
+- [Node-API Part-2: Safe Native-to-ArkTS Communication in HarmonyOS Next Using napi_create_threadsafe_function](https://dev.to/harmonyos/node-api-part-2-safe-native-to-arkts-communication-in-harmonyos-next-using-50b6)
+- [I&#39;ve Seen the Future of UI Development. It&#39;s Insane, Written in Rust, and Rendered by an AI.](https://dev.to/xzdes/ive-seen-the-future-of-ui-development-its-insane-written-in-rust-and-rendered-by-an-ai-39dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
