@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Linked Lists: The Flexible Data Structure](https://dev.to/homayunmmdy/a-comprehensive-guide-to-linked-lists-the-flexible-data-structure-4941)
+- [How HTML Powers the Frontend of Point of Sale &lpar;POS&rpar; Systems](https://dev.to/kararimartin/how-html-powers-the-frontend-of-point-of-sale-pos-systems-f59)
 - [[Boost]](https://dev.to/nawab_kumar_sarraf/-3a4o)
 - [Practical Steps for Artists: How to Get Gallery-Ready with Blockchain](https://dev.to/sammiller/practical-steps-for-artists-how-to-get-gallery-ready-with-blockchain-31e3)
 - [Next Stop, Nuxt: A React Engineer’s Journey into Vue](https://dev.to/graemegeorge/react-vue-a-senior-devs-self-study-bootcamp-2k38)
-- [Why I Don’t Like Path Aliases in TypeScript](https://dev.to/bennycode/why-i-dont-like-path-aliases-in-typescript-2b2a)
-- [X](https://dev.to/benny_neugebauer_4aebabb4/why-i-dont-like-path-aliases-in-typescript-3p50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
