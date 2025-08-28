@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Task:Create ETL pipeline service skeleton](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-etl-pipeline-service-skeleton-2mpd)
-- [What is Transfer Learning?](https://dev.to/dev_patel_35864ca1db6093c/what-is-transfer-learning-47a1)
-- [Action.hpp — Lightweight, memory-efficient C++ callback library](https://dev.to/shigami_yune/actionhpp-lightweight-memory-efficient-c-callback-library-1f84)
-- [check out this tutorial on building your own full-stack AI web app to analyze travel images!](https://dev.to/taiwocodes/check-out-this-tutorial-on-building-your-own-full-stack-ai-web-app-to-analyze-travel-images-300p)
-- [Task:Set up project structure and core infrastructure](https://dev.to/yc_lee_53e583a776a9c56e3/taskset-up-project-structure-and-core-infrastructure-1l71)
+- [How AI Agents Are Revolutionizing Webflow Development in 2025](https://dev.to/224industries/how-ai-agents-are-revolutionizing-webflow-development-in-2025-kp8)
+- [Happy accident with diamond shaped borders](https://dev.to/berilbbj/happy-accident-with-diamond-shaped-borders-18mm)
+- [Did Nano Banana Just Kill Flux Kontext for Quick Edits?](https://dev.to/kevin_garcia_a0fda39cd91e/did-nano-banana-just-kill-flux-kontext-for-quick-edits-126d)
+- [Quantas cartas tem em uma torre de cartas com N andares?](https://dev.to/renan_marquetti_9d8acb2b1/quantas-cartas-tem-em-uma-torre-de-cartas-com-n-andares-3l1n)
+- [Task:Set up data warehouse schema and connections using the Greenplum](https://dev.to/yc_lee_53e583a776a9c56e3/taskset-up-data-warehouse-schema-and-connections-using-the-greenplum-515d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
