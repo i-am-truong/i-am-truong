@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Wide Worlds: An Open Technology Stack for Digital Worlds](https://dev.to/dyfi/web-wide-worlds-an-open-technology-stack-for-digital-worlds-e3p)
+- [A Technical Deep Dive: Exploiting SQL Injection Vulnerabilities](https://dev.to/samueladeduntan/a-technical-deep-dive-exploiting-sql-injection-vulnerabilities-3da8)
+- [1 - Setting Up A Client Website](https://dev.to/cecilionavarro/1-setting-up-a-client-website-p7l)
 - [SEMANTIC HTML](https://dev.to/jackie-yins/semantic-html-3i0i)
 - [How to Stop Getting Lost in Endless Resources and Stay Focused as a Developer](https://dev.to/kerkox/how-to-stop-getting-lost-in-endless-resources-and-stay-focused-as-a-developer-201m)
-- [Hello gays, I am Patrick. I am looking for a beginner frontend developer to study with. I am a beginner backend developer, welcome anytime](https://dev.to/patrick_sisyph/hello-gays-i-am-patrick-i-am-looking-for-a-beginner-frontend-developer-to-study-with-i-am-a-3495)
-- [Securing Flutter Apps: Best Practices for Protecting User Data](https://dev.to/bestaoui_aymen/securing-flutter-apps-best-practices-for-protecting-user-data-5ghn)
-- [Simplificando Testes no NestJS com Injeção de Valores](https://dev.to/tadeubdev/simplificando-testes-no-nestjs-com-injecao-de-valores-3io4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
