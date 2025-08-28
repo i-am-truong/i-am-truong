@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to mHealth Applications Development](https://dev.to/jeni860/the-ultimate-guide-to-mhealth-applications-development-5741)
-- [Why “All-in-One” Productivity Tools Fail &lpar;and What Actually Works&rpar;](https://dev.to/bibhash_dutta_099/why-all-in-one-productivity-tools-fail-and-what-actually-works-3gf7)
-- [Top 7 WordPress Icon Plugins You Should Try](https://dev.to/masumparvej/top-7-wordpress-icon-plugins-you-should-try-49ed)
-- [Understanding Classification in Supervised Learning](https://dev.to/datawithnaomi/understanding-classification-in-supervised-learning-1h7e)
-- [Docker Explained: How It Really Works Under the Hood](https://dev.to/itsabhiyan/docker-explained-how-it-really-works-under-the-hood-56np)
+- [Solving Plus Minus Problem in Python &lpar;HackerRank &rpar; .](https://dev.to/sachin_nayak_5db3184afd7f/solving-plus-minus-problem-in-python-hackerrank-style--45hi)
+- [Task:Create defect classification models](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-defect-classification-models-35do)
+- [Python learning : Using Context Managers in Python](https://dev.to/vivekyadav200988/python-learning-using-context-managers-in-python-3b76)
+- [Gen Z and сrypto: more than a trend - a product mindset](https://dev.to/martin_call/gen-z-and-srypto-more-than-a-trend-a-product-mindset-bph)
+- [How to Swap Faces Online for Free: Exploring FreePixel’s AI Face Changer](https://dev.to/hassan_3bbb2ffd268a7bcf0b/how-to-swap-faces-online-for-free-exploring-freepixels-ai-face-changer-166a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
