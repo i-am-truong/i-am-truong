@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use LLM for EDA licenses analysis](https://dev.to/misha_zaslavskiy/use-llm-for-eda-licenses-analysis-48k7)
 - [Day 36: Managing Persistent volume in your deployments](https://dev.to/udoh_deborah_b1e484c474bf/day-36-managing-persistent-volume-in-your-deployments-2id8)
 - [Talks and travels: FrOSCon, Germany](https://dev.to/andypiper/talks-and-travels-froscon-germany-2fmd)
 - [The first open AI coder that rivals Claude is here](https://dev.to/dev_tips/the-first-open-ai-coder-that-rivals-claude-is-here-15bn)
 - [Grok Imagine: Elon Musk’s Free AI Image Generator Inside Grok App](https://dev.to/koolkamalkishor/grok-imagine-elon-musks-free-ai-image-generator-inside-grok-app-51l7)
-- [Introduction to Commitlint and Semantic Commits for Beginner Devs](https://dev.to/werliton/introduction-to-commitlint-and-semantic-commits-for-beginner-devs-1ima)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
