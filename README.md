@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📌 FAANG Coding Patterns Series – Day 2](https://dev.to/devcorner/faang-coding-patterns-series-day-2-47f1)
-- [📌 FAANG Coding Patterns Series – Day 1](https://dev.to/devcorner/faang-coding-patterns-series-day-1-c0)
-- [Integrating MCP Tools into Express with Minimal Changes](https://dev.to/udarabibile/integrating-mcp-tools-into-express-with-minimal-changes-28e6)
-- [SQL Diagnostic Report&lpar;23ai, 19.28&rpar;](https://dev.to/vahidusefzadeh/sql-diagnostic-report23ai-1928-2h27)
-- [What Is IT Asset Discovery? The First Step in Preventing IT Asset Loss](https://dev.to/teresa_tran/what-is-it-asset-discovery-the-first-step-in-preventing-it-asset-loss-1ae8)
+- [Be Prepared for the “AI Tool I Tried Once” Moment](https://dev.to/dev_tips/be-prepared-for-the-ai-tool-i-tried-once-moment-2ifb)
+- [Building Libra: the story of creating a modern label-manufacturing website &lpar;and everything under the hood&rpar;](https://dev.to/aiden_murphy_286819858414/building-libra-the-story-of-creating-a-modern-label-manufacturing-website-and-everything-under-5ahb)
+- [What is a Single Page Application? Pros and Cons of the SPA Technology](https://dev.to/mitchelljhonson/what-is-a-single-page-application-pros-and-cons-of-the-spa-technology-2nbp)
+- [Application Tracing With Golang, OpenTelemetry, and Grafana Tempo](https://dev.to/sykrabadi/application-tracing-with-golang-opentelemetry-and-grafana-tempo-lfg)
+- [🚀 𝐈𝐎𝐩𝐭𝐢𝐨𝐧𝐬 𝐯𝐬 𝐈𝐎𝐩𝐭𝐢𝐨𝐧𝐬𝐒𝐧𝐚𝐩𝐬𝐡𝐨𝐭 𝐯𝐬 𝐈𝐎𝐩𝐭𝐢𝐨𝐧𝐬𝐌𝐨𝐧𝐢𝐭𝐨𝐫 𝐢𝐧 .𝐍𝐄𝐓 — 𝐖𝐡𝐚𝐭’𝐬 𝐭𝐡𝐞 𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞?](https://dev.to/shirin_monzavi_f3d63ff99d/--2mnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
