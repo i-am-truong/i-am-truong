@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 36: Managing Persistent volume in your deployments](https://dev.to/udoh_deborah_b1e484c474bf/day-36-managing-persistent-volume-in-your-deployments-2id8)
+- [Talks and travels: FrOSCon, Germany](https://dev.to/andypiper/talks-and-travels-froscon-germany-2fmd)
+- [The first open AI coder that rivals Claude is here](https://dev.to/dev_tips/the-first-open-ai-coder-that-rivals-claude-is-here-15bn)
+- [Grok Imagine: Elon Musk’s Free AI Image Generator Inside Grok App](https://dev.to/koolkamalkishor/grok-imagine-elon-musks-free-ai-image-generator-inside-grok-app-51l7)
 - [Introduction to Commitlint and Semantic Commits for Beginner Devs](https://dev.to/werliton/introduction-to-commitlint-and-semantic-commits-for-beginner-devs-1ima)
-- [How I’d scale a side project to 1 million users &lpar;without melting my server&rpar;](https://dev.to/dev_tips/how-id-scale-a-side-project-to-1-million-users-without-melting-my-server-gno)
-- [Debugging Login Forms: E2LLM &lpar;JSON Snapshots&rpar; Show the Hidden State](https://dev.to/alexey_sokolov_10deecd763/debugging-login-forms-e2llm-json-snapshots-show-the-hidden-state-5361)
-- [Next.js 16: The real dirt behind the hype](https://dev.to/dev_tips/nextjs-16-the-real-dirt-behind-the-hype-33on)
-- [It Kinde of works: Part 2 of many](https://dev.to/kinde/it-kinde-of-works-part-2-of-many-2mc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
