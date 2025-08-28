@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering Malware for Pen Testers](https://dev.to/godofgeeks/reverse-engineering-malware-for-pen-testers-1npo)
-- [Use alasql to use sql feature in web](https://dev.to/huaian/use-alasql-to-use-sql-feature-in-web-3plj)
-- [LK21: The Colloportus of Factory Doors 🛡️](https://dev.to/ersajay/lk21-the-colloportus-of-factory-doors-29l8)
-- [Python Learning : Serialization and De-serialization](https://dev.to/vivekyadav200988/python-learning-serialization-and-de-serialization-78n)
-- [How to Discover and Protect Sensitive Data Using CLI and SQL Tools](https://dev.to/dbvismarketing/how-to-discover-and-protect-sensitive-data-using-cli-and-sql-tools-518e)
+- [Building High-Load API Services in Go: From Design to Production](https://dev.to/andrey_s/building-high-load-api-services-in-go-from-design-to-production-2626)
+- [How does Manish Chauhan stay updated with fast-changing tech trends?](https://dev.to/charimark/how-does-manish-chauhan-stay-updated-with-fast-changing-tech-trends-29h6)
+- [From zero to API hero: My pick for the best platform to learn C#](https://dev.to/stack_overflowed/from-zero-to-api-hero-my-pick-for-the-best-platform-to-learn-c-41im)
+- [Data Science Unlocked: Driving Growth in the Digital Era](https://dev.to/rajesh_rajesh_fd79016002e/data-science-unlocked-driving-growth-in-the-digital-era-2f3m)
+- [Getting Started with OpenAI APIs: A Complete Developer&#39;s Guide](https://dev.to/jayeshpadhiar/getting-started-with-openai-apis-a-complete-developers-guide-39ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
