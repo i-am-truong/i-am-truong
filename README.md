@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most Affordable Website Design Companies in Edmonton &lpar;2025 Pricing Comparison&rpar;](https://dev.to/bezal_benny_68a567103f98c/most-affordable-website-design-companies-in-edmonton-2025-pricing-comparison-h6o)
-- [🚀 Automating Subdomains &amp; Databases with AWS Route 53, FastAPI, and NGINX](https://dev.to/zedai00/automating-subdomains-databases-with-aws-route-53-fastapi-and-nginx-56df)
-- [I made a professional-grade Brainfuck IDE. And used it to come closer than ever to running Doom in Brainfuck.](https://dev.to/ahineya/i-made-a-professional-grade-brainfuck-ide-and-used-it-to-come-closer-than-ever-to-running-doom-in-4k7i)
-- [A Comprehensive Guide to Linked Lists: The Flexible Data Structure](https://dev.to/homayunmmdy/a-comprehensive-guide-to-linked-lists-the-flexible-data-structure-4941)
-- [How HTML Powers the Frontend of Point of Sale &lpar;POS&rpar; Systems](https://dev.to/kararimartin/how-html-powers-the-frontend-of-point-of-sale-pos-systems-f59)
+- [Link Pull Requests to JIRA Issues with Ease](https://dev.to/codenamegrant/link-pull-requests-to-jira-issues-with-ease-22ae)
+- [♟️ Building a Chess App with React, Node.js, Kafka, and AWS &lpar;Part 1&rpar;](https://dev.to/raviv_gilady/building-a-chess-app-with-react-nodejs-kafka-and-aws-part-1-4bph)
+- [Colin Furze: Have I built the most amazing door Ever?](https://dev.to/maker_youtube/colin-furze-have-i-built-the-most-amazing-door-ever-1jlm)
+- [KEXP: Annahstasia - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-annahstasia-full-performance-live-on-kexp-13gn)
+- [Golf.com: We Tested The Launch Monitor Trusted By TGL—Here’s What We Found](https://dev.to/youtube_golf/golfcom-we-tested-the-launch-monitor-trusted-by-tgl-heres-what-we-found-4i72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
