@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hadil/-5e6d)
-- [CVE Alert: SQL Injection in Yonyou GRP-U8 – Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/cve-alert-sql-injection-in-yonyou-grp-u8-patch-now-1kcc)
-- [Part-30: Google Compute Engine Persistent Disk Snapshots in GCP](https://dev.to/latchudevops/google-compute-enginepersistent-disk-snapshots-in-gcp-1g0p)
-- [End-to-End Automation with Terraform: A DevOps Engineer’s Guide to Infrastructure as Code](https://dev.to/kazeem_mohammed/end-to-end-automation-with-terraform-a-devops-engineers-guide-to-infrastructure-as-code-2n32)
-- [Introducing jsonvx: The Most Customisable JSON Parser, Querier &amp; Formatter for Go](https://dev.to/gbubemi_attah_8220489db16/introducing-jsonvx-the-most-customisable-json-parser-querier-formatter-for-go-52ja)
+- [A single word, tone shift, or framing in the prompt can completely change the quality of your output. That’s the psychology of prompts, and mastering it is what separates casual users from experts.](https://dev.to/jaideepparashar/a-single-word-tone-shift-or-framing-in-the-prompt-can-completely-change-the-quality-of-your-26kk)
+- [Securing AWS EC2: Change SSH Port 22 to a Custom Port](https://dev.to/ashraf-minhaj/securing-aws-ec2-change-ssh-port-22-to-a-custom-port-3b8c)
+- [Task:Implement LLM integration and RAG system](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-llm-integration-and-rag-system-k67)
+- [The Psychology of Prompts: Why Wording Changes Everything](https://dev.to/jaideepparashar/the-psychology-of-prompts-why-wording-changes-everything-hpg)
+- [AquaKit: Complete AI SaaS Starter Kit for Next.js](https://dev.to/jqueryscript/aquakit-complete-ai-saas-starter-kit-for-nextjs-2b4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
