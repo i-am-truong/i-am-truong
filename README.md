@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Use LLM for EDA licenses analysis](https://dev.to/misha_zaslavskiy/use-llm-for-eda-licenses-analysis-48k7)
-- [Day 36: Managing Persistent volume in your deployments](https://dev.to/udoh_deborah_b1e484c474bf/day-36-managing-persistent-volume-in-your-deployments-2id8)
-- [Talks and travels: FrOSCon, Germany](https://dev.to/andypiper/talks-and-travels-froscon-germany-2fmd)
-- [The first open AI coder that rivals Claude is here](https://dev.to/dev_tips/the-first-open-ai-coder-that-rivals-claude-is-here-15bn)
-- [Grok Imagine: Elon Musk’s Free AI Image Generator Inside Grok App](https://dev.to/koolkamalkishor/grok-imagine-elon-musks-free-ai-image-generator-inside-grok-app-51l7)
+- [Better Sidekiq Classes](https://dev.to/brazenbraden/better-sidekiq-classes-430b)
+- [Semantic HTML for SEO and accessibility.](https://dev.to/jeff_kaberagithara_0e17f/semantic-html-for-seo-and-accessibility-3237)
+- [This Async Microservice Design Flaw IS Destroying Your Data Integrity!](https://dev.to/xuan_56087d315ff4f52254e6/this-async-microservice-design-flaw-is-destroying-your-data-integrity-jf9)
+- [What is google&#39;s nano banana and how it solved the biggest problem in ai image editing](https://dev.to/syedharis/what-is-googles-nano-banana-and-how-it-solved-the-biggest-problem-in-ai-image-editing-28ih)
+- [Day 37: Kubernetes Interview Questions](https://dev.to/udoh_deborah_b1e484c474bf/day-37-kubernetes-interview-questions-7ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
