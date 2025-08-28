@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Link Pull Requests to JIRA Issues with Ease](https://dev.to/codenamegrant/link-pull-requests-to-jira-issues-with-ease-22ae)
-- [♟️ Building a Chess App with React, Node.js, Kafka, and AWS &lpar;Part 1&rpar;](https://dev.to/raviv_gilady/building-a-chess-app-with-react-nodejs-kafka-and-aws-part-1-4bph)
-- [Colin Furze: Have I built the most amazing door Ever?](https://dev.to/maker_youtube/colin-furze-have-i-built-the-most-amazing-door-ever-1jlm)
-- [KEXP: Annahstasia - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-annahstasia-full-performance-live-on-kexp-13gn)
-- [Golf.com: We Tested The Launch Monitor Trusted By TGL—Here’s What We Found](https://dev.to/youtube_golf/golfcom-we-tested-the-launch-monitor-trusted-by-tgl-heres-what-we-found-4i72)
+- [7 Unexpected Ways to Use an Image Hosting API in Your App](https://dev.to/ideradevtools/7-unexpected-ways-to-use-an-image-hosting-api-in-your-app-1j8)
+- [Backend downtime during a demo](https://dev.to/arranstrange/backend-downtime-during-a-demo-5ff9)
+- [Guido van Rossum Revisits Python&#39;s Life in a New Documentary](https://dev.to/davidcassel/guido-van-rossum-revisits-pythons-life-in-a-new-documentary-33b2)
+- [The Mini PC For Me](https://dev.to/leeca/the-mini-pc-for-me-kob)
+- [Building a Universal Job Board Scraper with n8n + BrightData](https://dev.to/heapnotizer/i-automated-my-job-search-with-n8n-brightdata-g6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
