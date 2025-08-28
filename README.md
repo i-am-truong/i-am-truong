@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Coding Calendar](https://dev.to/tatjana_kleshnina/the-coding-calendar-5c7k)
-- [How to Allow All Cloudflare IPs in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-allow-all-cloudflare-ips-in-safeline-waf-3e2a)
-- [Solving Plus Minus Problem in Python &lpar;HackerRank &rpar; .](https://dev.to/sachin_nayak_5db3184afd7f/solving-plus-minus-problem-in-python-hackerrank-style--45hi)
-- [Task:Create defect classification models](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-defect-classification-models-35do)
-- [Python learning : Using Context Managers in Python](https://dev.to/vivekyadav200988/python-learning-using-context-managers-in-python-3b76)
+- [Reverse Engineering Malware for Pen Testers](https://dev.to/godofgeeks/reverse-engineering-malware-for-pen-testers-1npo)
+- [Use alasql to use sql feature in web](https://dev.to/huaian/use-alasql-to-use-sql-feature-in-web-3plj)
+- [LK21: The Colloportus of Factory Doors 🛡️](https://dev.to/ersajay/lk21-the-colloportus-of-factory-doors-29l8)
+- [Python Learning : Serialization and De-serialization](https://dev.to/vivekyadav200988/python-learning-serialization-and-de-serialization-78n)
+- [How to Discover and Protect Sensitive Data Using CLI and SQL Tools](https://dev.to/dbvismarketing/how-to-discover-and-protect-sensitive-data-using-cli-and-sql-tools-518e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
