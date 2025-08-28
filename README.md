@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Markdown to Meaning: Turn Your Obsidian Notes into a Conversational Database Using LangChain, Python, and ChromaDB](https://dev.to/bohowhizz/from-markdown-to-meaning-turn-your-obsidian-notes-into-a-conversational-database-using-langchain-4pi7)
-- [Announcing No-Dev.to-Sidebar Extension!](https://dev.to/aspxone-official/announcing-no-devto-sidebar-extension-cf0)
-- [Information on Accessing Producer and Consumer Details](https://dev.to/vineeth_kumar_dcd30464fff/information-on-accessing-producer-and-consumer-details-pc6)
-- [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
-- [Part 2 — Training model on Raspberry Pi Pico for Edge AI Trend Alarm](https://dev.to/ertugrulmutlu/part-2-training-model-on-raspberry-pi-pico-for-edge-ai-trend-alarm-9gf)
+- [Django ORM vs SQLAlchemy](https://dev.to/atifwattoo/django-orm-vs-sqlalchemy-4o1i)
+- [DevXPro Tools: 30+ Fast, Privacy-Focused Developer Utilities](https://dev.to/guhanro/devxpro-tools-30-fast-privacy-focused-developer-utilities-190a)
+- [Obsidian, Notion, Logseq?! The note-taking stack that doesn’t suck for devs](https://dev.to/dev_tips/obsidian-notion-logseq-the-note-taking-stack-that-doesnt-suck-for-devs-2cf7)
+- [Part 3 — Real-Time Inference on Pico &lpar;Firmware Integration&rpar;](https://dev.to/ertugrulmutlu/part-3-real-time-inference-on-pico-firmware-integration-3ga6)
+- [Send Emails with Windsurf and Mailtrap](https://dev.to/denyskontorskyy/send-emails-with-windsurf-and-mailtrap-3h4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
