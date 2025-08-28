@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing MCP Servers: Exploring Prompt Injection and Security Risks](https://dev.to/tudor_caloian_dafcef3175b/testing-mcp-servers-exploring-prompt-injection-and-security-risks-90l)
-- [localized Neuro Sama setup with only 3 lines of code using the livingrimoire](https://dev.to/owly/localized-neuro-sama-setup-with-only-3-lines-of-code-using-the-livingrimoire-4e93)
-- [15 Low-Cost B2B Lead Generation Strategies for Developer Services and Tech Startups](https://dev.to/michaelwhitner/15-low-cost-b2b-lead-generation-strategies-for-developer-services-and-tech-startups-230g)
-- [Game dev interview](https://dev.to/gingyham/game-dev-interview-2kjn)
-- [Progressive web app](https://dev.to/kant/progressive-web-app-3hol)
+- [Task:Create ETL pipeline service skeleton](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-etl-pipeline-service-skeleton-2mpd)
+- [What is Transfer Learning?](https://dev.to/dev_patel_35864ca1db6093c/what-is-transfer-learning-47a1)
+- [Action.hpp — Lightweight, memory-efficient C++ callback library](https://dev.to/shigami_yune/actionhpp-lightweight-memory-efficient-c-callback-library-1f84)
+- [check out this tutorial on building your own full-stack AI web app to analyze travel images!](https://dev.to/taiwocodes/check-out-this-tutorial-on-building-your-own-full-stack-ai-web-app-to-analyze-travel-images-300p)
+- [Task:Set up project structure and core infrastructure](https://dev.to/yc_lee_53e583a776a9c56e3/taskset-up-project-structure-and-core-infrastructure-1l71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
