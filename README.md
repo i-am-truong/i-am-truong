@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is my llms.txt not working in ChatGPT or Gemini?](https://dev.to/sip/why-is-my-llmstxt-not-working-in-chatgpt-or-gemini-41dp)
-- [AI in Healthcare - A Startup’s Guide to Safe and Scalable Implementation 🏥🤖](https://dev.to/quokka_labs_c3691ddf70b8a/ai-in-healthcare-a-startups-guide-to-safe-and-scalable-implementation-16pg)
-- [Building Purchase Tracker: The MVP That Eats Your Receipts &lpar;So You Don’t Have To&rpar;](https://dev.to/klasniyparen/building-purchase-tracker-the-mvp-that-eats-your-receipts-so-you-dont-have-to-ld9)
-- [Zig, Rust, Go?! I tried 3 low-level languages and here’s what I’m sticking with](https://dev.to/dev_tips/zig-rust-go-i-tried-3-low-level-languages-and-heres-what-im-sticking-with-4gpp)
-- [Django ORM vs SQLAlchemy](https://dev.to/atifwattoo/django-orm-vs-sqlalchemy-4o1i)
+- [The Future of E-commerce: Integrating AI into WooCommerce for Personalized Shopping Experiences](https://dev.to/addwebsolutionpvtltd/the-future-of-e-commerce-integrating-ai-into-woocommerce-for-personalized-shopping-experiences-59j8)
+- [🌱 My Idea Tracker Journey with Appwrite &lpar;from “Hello World” to Hoodie!&rpar;](https://dev.to/abhivarde/my-idea-tracker-journey-with-appwrite-from-hello-world-to-hoodie-4p6e)
+- [What is difference between Django and DRF &lpar; Django REST Framework &rpar;](https://dev.to/atifwattoo/what-is-difference-between-django-and-drf-django-rest-framework--25o4)
+- [Serverless Semantic Search: A Hands-On Guide to AWS S3 Vector Buckets with Rust](https://dev.to/aws-builders/serverless-semantic-search-a-hands-on-guide-to-aws-s3-vector-buckets-with-rust-138g)
+- [Create a Blog Application Using Spring Boot and Thymeleaf](https://dev.to/djamware_tutorial_eba1a61/create-a-blog-application-using-spring-boot-and-thymeleaf-9nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
