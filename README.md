@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From HTML to 3D: Why I Rebuild My Portfolio with React, Vite, Tailwind &amp; FrontQL](https://dev.to/rtnjt_bot/from-html-to-3d-why-i-rebuild-my-portfolio-with-react-vite-tailwind-frontql-a4m)
-- [The death of cloud centralization: Last decade’s internet had a gravity problem](https://dev.to/dev_tips/the-death-of-cloud-centralization-last-decades-internet-had-a-gravity-problem-28pf)
-- [Keep your system healthy with 20 cron jobs every DevOps engineer needs.](https://dev.to/dev_tips/keep-your-system-healthy-with-20-cron-jobs-every-devops-engineer-needs-5ec)
-- [[Boost]](https://dev.to/developia/-3hbl)
-- [Dynamically Switch Between Values and Functions — Without if Statements](https://dev.to/tsuruko12/dynamically-switch-between-values-and-functions-without-if-statements-7m9)
+- [Debugging Next.js App Router Navigation Lag: Dynamic Routes and Prefetching](https://dev.to/kcsujeet/debugging-nextjs-app-router-navigation-lag-dynamic-routes-and-prefetching-akk)
+- [🚀 Building Scalable Background Jobs in Node.js with BullMQ: A Complete Guide](https://dev.to/asad_ahmed_5592ac0a7d0258/building-scalable-background-jobs-in-nodejs-with-bullmq-a-complete-guide-509p)
+- [When your settings page becomes the product](https://dev.to/alisa-kak-vsegda/when-your-settings-page-becomes-the-product-1824)
+- [The Importance of UX/UI Design for Developers](https://dev.to/shaurya_sahani_b294b8e3b6/the-importance-of-uxui-design-for-developers-4157)
+- [[Boost]](https://dev.to/ben/-5enc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
