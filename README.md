@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [💡 What&#39;s new in txtai 9.0](https://dev.to/neuml/whats-new-in-txtai-90-1471)
+- [Bitcoin Backend Loan Platforms: AAVE vs Morpho Comprehensive Guide](https://dev.to/testlolrandomsilson/bitcoin-backend-loan-platforms-aave-vs-morpho-comprehensive-guide-49om)
+- [ArrayList in the Java Collection Framework.](https://dev.to/paviarunachalam/arraylist-in-the-java-collection-framework-if)
+- [A Beginner’s Guide to HTML SVG &lpar;Scalable Vector Graphics&rpar;](https://dev.to/er-raj-aryan/a-beginners-guide-to-html-svg-scalable-vector-graphics-102e)
 - [The Ultimate Guide to Cookie Properties in the Browser](https://dev.to/zeeshanali0704/the-ultimate-guide-to-cookie-properties-in-the-browser-30e4)
-- [Task:Implement virtual metrology system](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-virtual-metrology-system-4eid)
-- [Why So Many Design Systems Live in Monorepo](https://dev.to/vineethpawar/why-so-many-design-systems-live-in-monorepo-3e3d)
-- [Python Auto Function Parenthesis hack](https://dev.to/codewithmishu/python-auto-function-parenthesis-hack-1kpf)
-- [Green IT e computação consciente](https://dev.to/lucaspereiradesouzat/green-it-e-computacao-consciente-4612)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
