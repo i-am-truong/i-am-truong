@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Queryable Chatbots Using MCP Tools](https://dev.to/om_shree_0709/building-queryable-chatbots-using-mcp-tools-l54)
-- [🕵️‍♂️ IoT Nightmare – How Smart Devices Spy on You](https://dev.to/sybersecure/iot-nightmare-how-smart-devices-spy-on-you-3g9b)
-- [🧠 Designing Logical Flow in Programming: Flowcharts &amp; Pseudocode](https://dev.to/mzunairtariq/designing-logical-flow-in-programming-flowcharts-pseudocode-676)
-- [🌌 High-Performance 3D Spatial Data Sorting with Morton Codes in Clojure](https://dev.to/p_pumulo/high-performance-3d-spatial-data-sorting-with-morton-codes-in-clojure-1n6f)
-- [Task:Implement automated model training pipelines leveraging MLFlow](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-automated-model-training-pipelines-leveraging-mlflow-364h)
+- [Building Chrome Dinosaur Game in Pygame &lpar;Part 2: Infinite Horizons&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-2-infinite-horizons-41ie)
+- [Best Tools for Debugging Modern Web Apps &lpar;Next.js, Logs, and Beyond&rpar;](https://dev.to/alyatwa/best-tools-for-debugging-modern-web-apps-nextjs-logs-and-beyond-13j6)
+- [Try to test deno 2.2+ WebTransport&lpar;unstable&rpar;](https://dev.to/yamayuski/try-to-test-deno-22-webtransportunstable-dnc)
+- [Task:Create model monitoring and observability](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-model-monitoring-and-observability-722)
+- [🪄 Scopes, Closures, and Decorators in Python: A Deep Dive Adventure](https://dev.to/anik_sikder_313/scopes-closures-and-decorators-in-python-a-deep-dive-adventure-14ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
