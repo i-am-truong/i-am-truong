@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code:Implement RAG engine with semantic search](https://dev.to/yc_lee_53e583a776a9c56e3/codeimplement-rag-engine-with-semantic-search-2lcg)
+- [Task:Integrate semiconductor domain knowledge](https://dev.to/yc_lee_53e583a776a9c56e3/taskintegrate-semiconductor-domain-knowledge-3941)
+- [Part-31: 💾 Google Cloud Platform – Working with VM Disk Snapshots &lpar;GCP&rpar;](https://dev.to/latchudevops/part-31-google-cloud-platform-working-with-vm-disk-snapshots-gcp-4fln)
+- [Web Design Mistakes: Common Mistakes You Should Avoid in 2025](https://dev.to/ronika_kashyap/web-design-mistakes-common-mistakes-you-should-avoid-in-2025-2lad)
 - [The Data Governance Gap: Securing Your ServiceNow Ecosystem in a Hybrid World 🔒](https://dev.to/sip_mjb/the-data-governance-gap-securing-your-servicenow-ecosystem-in-a-hybrid-world-3i9f)
-- [I Built GitNarrative: Turn Your Git Commits Into Stories](https://dev.to/grudged/i-built-gitnarrative-turn-your-git-commits-into-stories-ka0)
-- [[Boost]](https://dev.to/tcodecyber/-2oke)
-- [Accidentally Built an AI Agent That Turned Cold Outreach Into a Cheat Code](https://dev.to/onlineproxy-io/accidentally-built-an-ai-agent-that-turned-cold-outreach-into-a-cheat-code-1k2d)
-- [GameSpot: The Outer Worlds 2 Hands-on Impressions](https://dev.to/gg_news/gamespot-the-outer-worlds-2-hands-on-impressions-2c18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
