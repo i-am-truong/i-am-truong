@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The SharePoint exploit that breached U.S. Nuke Systems &lpar;and why devs should care&rpar;](https://dev.to/dev_tips/the-sharepoint-exploit-that-breached-us-nuke-systems-and-why-devs-should-care-10dc)
 - [7 open-source MCP servers that make AI agents actually learn stuff](https://dev.to/dev_tips/7-open-source-mcp-servers-that-make-ai-agents-actually-learn-stuff-4bch)
 - [Complete Walkthrough Guide: File Integrity Monitoring &lpar;FIM&rpar; on Windows](https://dev.to/samueladeduntan/complete-walkthrough-guide-file-integrity-monitoring-fim-on-windows-1mnl)
 - [DeFAI is Coming: How AI Agents Will Reshape DeFi &lpar;And Why They Need Privacy&rpar;](https://dev.to/savvysid/defai-is-coming-how-ai-agents-will-reshape-defi-and-why-they-need-privacy-3gki)
 - [SOLID Principles In 2025 In Practice With Python And UML Examples](https://dev.to/alinsky/solid-principles-in-2025-in-practice-with-python-and-uml-examples-34l6)
-- [SEMANTIC HTML](https://dev.to/zakayo_mepetu_ded34b09bb1/semantic-html-2cig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
