@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure DevOps Tutorial for Beginners](https://dev.to/goodluck_ekeoma_2c98866d0/azure-devops-tutorial-for-beginners-493n)
-- [Building Chrome Dinosaur Game in Pygame &lpar;Part 3: Running Dino&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-3-running-dino-2ekn)
-- [A new tool to manage your i18n locale files](https://dev.to/alexis_clarembeau_8c3c0e2/a-new-tool-to-manage-your-i18n-locale-files-2cam)
-- [Think You’re Secure? Penetration Testing Will Tell You the Truth](https://dev.to/addwebsolutionpvtltd/think-youre-secure-penetration-testing-will-tell-you-the-truth-105n)
-- [Cold Starts in Serverless: The Silent Performance Killer](https://dev.to/dct_technology/cold-starts-in-serverless-the-silent-performance-killer-56fk)
+- [Crafting the Future of Interior Design: The Development Journey of Art Decor&#39;s Digital Presence](https://dev.to/emory_farris/crafting-the-future-of-interior-design-the-development-journey-of-art-decors-digital-presence-2m59)
+- [How I Ship SaaS Ideas in 8 Hours Instead of 8 Months](https://dev.to/ritesh_hiremath_eb6abb681/how-i-ship-saas-ideas-in-8-hours-instead-of-8-months-2095)
+- [GISBox: An open source tool that breaks the boundaries of geographic information processing](https://dev.to/gisbox_en/gisbox-an-open-source-tool-that-breaks-the-boundaries-of-geographic-information-processing-5d7f)
+- [একজন ডেভেলপারের চোখে কিছু সমস্যা আর সমাধান](https://dev.to/noor_shahbaj/ekjn-ddebhelpaarer-cokhe-kichu-smsyaa-aar-smaadhaan-5041)
+- [How I Ship SaaS Ideas in 8 Hours Instead of 8 Months &lpar;And Why Speed Is The Only Edge Left&rpar;](https://dev.to/ritesh_hiremath_eb6abb681/how-i-ship-saas-ideas-in-8-hours-instead-of-8-months-and-why-speed-is-the-only-edge-left-a4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
