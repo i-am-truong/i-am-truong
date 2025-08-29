@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Data Stack](https://dev.to/24mwangi/modern-data-stack-3p6l)
+- [Building an Edge AI Sound Classifier &lpar;Part 3&rpar;: Pico Firmware &amp; Live Demo](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-3-pico-firmware-live-demo-571g)
 - [Building an Edge AI Sound Classifier &lpar;Part 2&rpar;: Feature Extraction &amp; Training](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-2-feature-extraction-training-4bli)
 - [Hey I&#39;m a student from btech cse branch I have a doubt about devops should I just learn all about devops or should learn first html css js then backend and then project -&gt; after that devops concepts for off campus jobs](https://dev.to/shamir_khan_ef05f8645178d/hey-im-a-student-from-btech-cse-branch-i-have-a-doubt-about-devops-should-i-just-learn-all-about-e3o)
 - [🚀 Introducing RESTerX: An Open-Source, Lightweight, and Powerful API Testing Tool for Developers](https://dev.to/pr0biex/introducing-resterx-an-open-source-lightweight-and-powerful-api-testing-tool-for-developers-15hg)
-- [Gonzo - The Go based TUI for log analysis](https://dev.to/jon_reeve_56e1ecb6781146d/gonzo-the-go-based-tui-for-log-analysis-38cb)
-- [Building an Edge AI Sound Classifier &lpar;Part 1&rpar;: Collecting and Preparing the Dataset](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-1-collecting-and-preparing-the-dataset-moo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
