@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [EPS | SVG | AI](https://dev.to/koshirok096/eps-svg-ai-24pp)
+- [Microsoft Bookings vs Calendly: Which One Should You Train Your Team On?](https://dev.to/muhammad_sharifulhoque_0/microsoft-bookings-vs-calendly-which-one-should-you-train-your-team-on-285b)
 - [The Architect&#39;s Symphony: Composing a Data Layer Beyond React Query and SWR](https://dev.to/alex_aslam/the-architects-symphony-composing-a-data-layer-beyond-react-query-and-swr-5cgf)
 - [Cross-Chain Account Abstraction Gets a Privacy Upgrade](https://dev.to/savvysid/cross-chain-account-abstraction-gets-a-privacy-upgrade-2od1)
 - [Security news weekly round-up - 29th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-29th-august-2025-1f3m)
-- [Focus Engine in iOS: Non-Touch Navigation](https://dev.to/arshtechpro/focus-engine-in-ios-non-touch-navigation-3gcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
