@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia’s nvl72 is insane but who can actually use it?](https://dev.to/dev_tips/nvidias-nvl72-is-insane-but-who-can-actually-use-it-4fl5)
-- [🌍 Understanding JavaScript Scopes &amp; Closures — Made Simple](https://dev.to/usama_dev/understanding-javascript-scopes-closures-made-simple-38dh)
-- [Building Ahead: a multi-tool AI Travel Agent with OpenAI + SerpApi](https://dev.to/james_collins/building-ahead-a-multi-tool-ai-travel-agent-with-openai-serpapi-1ce4)
-- [How Advanced File Delivery with Webpack Optimizes Web App Performance](https://dev.to/ideradevtools/how-advanced-file-delivery-with-webpack-optimizes-web-app-performance-1ka)
-- [How Jotai Atoms Are Transforming Our Front-End Architecture.](https://dev.to/giovanni786/how-jotai-atoms-are-transforming-our-front-end-architecture-42fd)
+- [Spring Boot Fundamentals &lpar;Deep dive for beginners&rpar;](https://dev.to/jps27cse/spring-boot-fundamentals-deep-dive-for-beginners-641)
+- [FlowiseAI - The Open Source Visual Builder for AI Agents](https://dev.to/ajay_patidar_33430369efeb/flowiseai-the-open-source-visual-builder-for-ai-agents-64m)
+- [JSONB vs JSON: the Postgres/MySQL showdown that actually matters](https://dev.to/dev_tips/jsonb-vs-json-the-postgresmysql-showdown-that-actually-matters-id1)
+- [I AM OFFICIALLY BEGINNING MY DEV/HACKER JOURNEY!!](https://dev.to/brightoflight/i-am-officially-beginning-my-devhacker-journey-2emh)
+- [Keeping your Streamlit app awake using Selenium and Github Actions](https://dev.to/virgoalpha/keeping-your-streamlit-app-awake-using-selenium-and-github-actions-4ajd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
