@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Edge AI Sound Classifier &lpar;Part 2&rpar;: Feature Extraction &amp; Training](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-2-feature-extraction-training-4bli)
+- [Hey I&#39;m a student from btech cse branch I have a doubt about devops should I just learn all about devops or should learn first html css js then backend and then project -&gt; after that devops concepts for off campus jobs](https://dev.to/shamir_khan_ef05f8645178d/hey-im-a-student-from-btech-cse-branch-i-have-a-doubt-about-devops-should-i-just-learn-all-about-e3o)
+- [🚀 Introducing RESTerX: An Open-Source, Lightweight, and Powerful API Testing Tool for Developers](https://dev.to/pr0biex/introducing-resterx-an-open-source-lightweight-and-powerful-api-testing-tool-for-developers-15hg)
+- [Gonzo - The Go based TUI for log analysis](https://dev.to/jon_reeve_56e1ecb6781146d/gonzo-the-go-based-tui-for-log-analysis-38cb)
 - [Building an Edge AI Sound Classifier &lpar;Part 1&rpar;: Collecting and Preparing the Dataset](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-1-collecting-and-preparing-the-dataset-moo)
-- [Getting Started with AWS Developer Tools for Modern DevOps &amp; CI/CD](https://dev.to/aws-builders/getting-started-with-aws-developer-tools-for-modern-devops-cicd-29ch)
-- [Day 28 of #30DaysOf Code](https://dev.to/justacoder_0x/day-28-of-30daysof-code-36pa)
-- [My Google Summer of Code &lpar;GSoC&rpar; 2025 in View](https://dev.to/chiemezuo/my-google-summer-of-code-gsoc-2025-in-view-23j1)
-- [Root Cause Analysis: OutOfMemoryError in Forked JVM Due to TestNG SuiteRunner Memory Retention](https://dev.to/gaurbprajapati/root-cause-analysis-outofmemoryerror-in-forked-jvm-due-to-testng-suiterunner-memory-retention-1gid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
