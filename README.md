@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your Shaders: Shader Academy Adds WebGPU Compute Challenges, Raymarching &amp; More - 100+ Free Challenges!](https://dev.to/martini002/level-up-your-shaders-shader-academy-adds-webgpu-compute-challenges-raymarching-more-100-l66)
 - [Learn FastAPI the Interactive Way — A Hands-On Tutorial Platform](https://dev.to/stamigos/learn-fastapi-the-interactive-way-a-hands-on-tutorial-platform-lnn)
 - [Create robust CLI apps with Bashly](https://dev.to/meleu/create-robust-cli-apps-with-bashly-5gb0)
 - [Turn Any Bluetooth Speaker into an AirPlay Speaker with Shairport Sync](https://dev.to/henrylim96/turn-any-bluetooth-speaker-into-an-airplay-speaker-with-shairport-sync-177j)
 - [How I Attached and Mounted an EBS Volume to My Ubuntu EC2 Instance: A Step-by-Step Guide](https://dev.to/oluwwatunmise/how-i-attached-and-mounted-an-ebs-volume-to-my-ubuntu-ec2-instance-a-step-by-step-guide-1b87)
-- [The true cost of Fargate vs 10,000 managed CI minutes](https://dev.to/solo474/the-true-cost-of-fargate-vs-10000-managed-ci-minutes-2fnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
