@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek V3.1 vs GPT-5: 685B Parameters, 128K Context, 68 Cheaper](https://dev.to/dev_tips/deepseek-v31-vs-gpt-5-685b-parameters-128k-context-68x-cheaper-13di)
-- [Frontend Performance Metrics FP, FMP, LCP, and CLS Explained](https://dev.to/tianyaschool/frontend-performance-metrics-fp-fmp-lcp-and-cls-explained-414b)
-- [Configuring CSP: A Test For Django 6.0](https://dev.to/chiemezuo/configuring-csp-a-test-for-django-60-3a67)
-- [🚀Vonage Developer Newsletter, August 2025: RCS, Vibe Coding, Golang tutorials + events](https://dev.to/vonagedev/vonage-developer-newsletter-aug-2025-rcs-vibe-coding-golang-tutorials-events-4n5a)
-- [A Comprehensive Technical Guide for Developers on Implementing Semantic HTML Effectively](https://dev.to/akina_matayo_dd389ad2ee25/a-comprehensive-technical-guide-for-developers-on-implementing-semantic-html-effectively-1ofa)
+- [Interact with Neon APIs using Claude Code through natural language](https://dev.to/neon-postgres/interact-with-neon-apis-using-claude-code-through-natural-language-267e)
+- [🔄 Syncthing: The Open‑Source Way to Keep Your Files in Sync](https://dev.to/byteknight/syncthing-the-open-source-way-to-keep-your-files-in-sync-1hfa)
+- [Publishing Real-Time Video via WHIP to Amazon IVS](https://dev.to/aws/publishing-real-time-video-via-whip-to-amazon-ivs-p7f)
+- [Why Most Startup Advice Sucks Test](https://dev.to/alexcloudstar/why-most-startup-advice-sucks-test-1em4)
+- [Why Most Startup Advice Sucks](https://dev.to/alexcloudstar/why-most-startup-advice-sucks-1bpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
