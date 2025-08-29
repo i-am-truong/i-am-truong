@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to RDS Backup and Restore on AWS](https://dev.to/prince_dumuhere_1f9367af5/a-beginners-guide-to-rds-backup-and-restore-on-aws-4cgd)
-- [Understanding Message Queues: A Guide for Developers day 40 of system design basics](https://dev.to/vincenttommi/understanding-message-queues-a-guide-for-developers-day-40-of-system-design-basics-3b09)
-- [Kotlin Variables: Understanding var vs val - A Beginner&#39;s Guide to Android Development](https://dev.to/daniel_ibisagba_a7f613909/kotlin-variables-understanding-var-vs-val-a-beginners-guide-to-android-development-3mo6)
-- [Using MCP Server to Supercharge Playwright Automation](https://dev.to/anirseven/using-mcp-server-to-supercharge-playwright-automation-5hk3)
-- [How to Set Up SSH for GitHub on Linux: A Step-by-Step Guide](https://dev.to/taujor/how-to-set-up-ssh-for-github-on-linux-a-step-by-step-guide-1jmh)
+- [🗓 Daily LeetCode Progress – Day 13](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-13-a6o)
+- [How do small teams catch bugs in CI/CD?](https://dev.to/maxify_55555/how-do-small-teams-catch-bugs-in-cicd-fh5)
+- [Production Ready VPS in Minutes](https://dev.to/infms/production-ready-vps-in-minutes-34mn)
+- [How I Built an Image Generation MCP Server with Gemini 2.5 Flash Image &lpar;aka nano-banana&rpar;](https://dev.to/shinpr/how-i-built-an-image-generation-mcp-server-with-gemini-25-flash-image-aka-nano-banana-17aa)
+- [Your Job Finder Companion](https://dev.to/depapp/your-job-finder-companion-fpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
