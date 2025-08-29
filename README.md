@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Destrua a complexidade: Tetris do zero em C++ com SFML](https://dev.to/mrpunkdasilva/destrua-a-complexidade-tetris-do-zero-em-c-com-sfml-2p52)
-- [I Spent 22 Years Programming Just to Fail at Making a Skeleton Swing a Sword](https://dev.to/patrity/i-spent-22-years-programming-just-to-fail-at-making-a-skeleton-swing-a-sword-455o)
-- [Google AI Studio: A Free Playground to Experiment with Gemini AI](https://dev.to/moubarakmohame4/google-ai-studio-a-free-playground-to-experiment-with-gemini-ai-19ki)
-- [🏗️ The Role of a Data Engineer: Beyond Pipelines](https://dev.to/parth_maniar_3012/the-role-of-a-data-engineer-beyond-pipelines-hga)
-- [Complete Guide to Passwordless Authentication](https://dev.to/crit3cal/complete-guide-to-passwordless-authentication-3ahm)
+- [Coolify is the best thing for Homelabs since Fiber](https://dev.to/lukehagar/coolify-is-the-best-thing-for-homelabs-since-fiber-1kb5)
+- [Linkedin Growth Radar AI Agents](https://dev.to/mathieu_vie_3a2e72c4ab276/linkedin-growth-radar-ai-agents-3hfk)
+- [Internet of Bodies &lpar;IoB&rpar;](https://dev.to/lucaspereiradesouzat/internet-of-bodies-iob-399c)
+- [Unlocking Intelligent Data Access with Microsoft Fabric Data Agent](https://dev.to/milan_parikh_f9c399697690/unlocking-intelligent-data-access-with-microsoft-fabric-data-agent-3ke3)
+- [Programming in 2030: will devs still code, or just babysit AI?](https://dev.to/dev_tips/programming-in-2030-will-devs-still-code-or-just-babysit-ai-51ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
