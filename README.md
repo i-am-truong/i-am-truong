@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modern Data Stack](https://dev.to/24mwangi/modern-data-stack-3p6l)
-- [Building an Edge AI Sound Classifier &lpar;Part 3&rpar;: Pico Firmware &amp; Live Demo](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-3-pico-firmware-live-demo-571g)
-- [Building an Edge AI Sound Classifier &lpar;Part 2&rpar;: Feature Extraction &amp; Training](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-2-feature-extraction-training-4bli)
-- [Hey I&#39;m a student from btech cse branch I have a doubt about devops should I just learn all about devops or should learn first html css js then backend and then project -&gt; after that devops concepts for off campus jobs](https://dev.to/shamir_khan_ef05f8645178d/hey-im-a-student-from-btech-cse-branch-i-have-a-doubt-about-devops-should-i-just-learn-all-about-e3o)
-- [🚀 Introducing RESTerX: An Open-Source, Lightweight, and Powerful API Testing Tool for Developers](https://dev.to/pr0biex/introducing-resterx-an-open-source-lightweight-and-powerful-api-testing-tool-for-developers-15hg)
+- [COLORS: Mei Semones - Tora Moyo | A COLORS SHOW](https://dev.to/music_youtube/colors-mei-semones-tora-moyo-a-colors-show-pmf)
+- [IGN: Metal Gear Solid Delta - Where to Find the Thermal Goggles &lpar;All Locations&rpar;](https://dev.to/gg_news/ign-metal-gear-solid-delta-where-to-find-the-thermal-goggles-all-locations-1l1f)
+- [Shared States in React Have Never Been Easier ;&rpar;](https://dev.to/hichemtab-tech/shared-states-in-react-have-never-been-easier--2m6p)
+- [Build a Context-Retaining Chatbot with Langchain-Python](https://dev.to/tapobanray/build-a-context-retaining-chatbot-with-langchain-python-6k7)
+- [Why Signal to Noise Ratio Matters When Building Audio Features on the Web](https://dev.to/rijultp/why-signal-to-noise-ratio-matters-when-building-audio-features-on-the-web-3oi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
