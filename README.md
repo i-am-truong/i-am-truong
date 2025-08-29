@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MY SUMMER INTERNSHIP](https://dev.to/aditya_patel_b7274d71f7c6/my-summer-internship-12h2)
-- [My First Webapp - AI written](https://dev.to/pravin_niceguy/my-first-webapp-ai-written-5ln)
-- [Beyond the Chatbot: How We Scaled an AI Agent to Handle 5X Traffic on AWS](https://dev.to/binyam/beyond-the-chatbot-how-we-scaled-an-ai-agent-to-handle-5x-traffic-on-aws-1eme)
-- [How to Provide Light and Dark Theme Color Variants in PWA](https://dev.to/fedtti/how-to-provide-light-and-dark-theme-color-variants-in-pwa-1mml)
-- [Code is Dead. Long Live Context! Introducing AOKL — The Lingua Franca for the Human+AI Development Era](https://dev.to/evpolov/code-is-dead-long-live-context-introducing-aokl-the-lingua-franca-for-the-humanai-development-2g46)
+- [How to Set Up SSH for GitHub on Linux: A Step-by-Step Guide](https://dev.to/taujor/how-to-set-up-ssh-for-github-on-linux-a-step-by-step-guide-1jmh)
+- [Pepsi Bezel Watches: Complete Guide to Rolex, Seiko &amp; More](https://dev.to/xue_cai/pepsi-bezel-watches-complete-guide-to-rolex-seiko-more-1occ)
+- [A Technical Deep Dive: Investigating Exchange Exploits and Lateral Movement in Splunk](https://dev.to/samueladeduntan/a-technical-deep-dive-investigating-exchange-exploits-and-lateral-movement-in-splunk-1gh1)
+- [12 Chrome Extensions You’ll Actually Use](https://dev.to/sharmamanish/12-chrome-extensions-youll-actually-use-3hon)
+- [Wispr Flow + Claude Transforms Content Creation](https://dev.to/robmarshall/wispr-flow-claude-transforms-content-creation-787)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
