@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Things I Wish I Knew Before Writing My First 10,000 Lines of Code](https://dev.to/zainulabdeenofficial/the-things-i-wish-i-knew-before-writing-my-first-10000-lines-of-code-53pf)
-- [A simplified definition of an ORM](https://dev.to/codefilarete/a-simplified-definition-of-an-orm-4pl)
-- [Starting over again...](https://dev.to/pratim994/starting-over-again-42kg)
-- [What is GitHub Actions? A Beginner-Friendly Guide with Examples](https://dev.to/a-k-0047/what-is-github-actions-a-beginner-friendly-guide-with-examples-me)
-- [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-4kd1)
+- [Day 1](https://dev.to/_adii3107/day-1-1fig)
+- [Reviewing FinalRoundAI: My First Experience with the AI Interview Copilot](https://dev.to/highcenburg/reviewing-finalroundai-my-first-experience-with-the-ai-interview-copilot-2j8g)
+- [LogIn Form](https://dev.to/prashant_ji_3c7da70b425a9/login-form-4flj)
+- [### Today’s Focus: Functions Functions in Python feel like tiny machines: - You give them an input. - They process it. - They return an output.](https://dev.to/_adii3107/-todays-focus-functions-functions-in-python-feel-like-tiny-machines-you-give-them-an-3hdh)
+- [Using Agents for Business Development](https://dev.to/andremoreira73/using-agents-for-business-development-51i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
