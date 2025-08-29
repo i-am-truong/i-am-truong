@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Shaders: Shader Academy Adds WebGPU Compute Challenges, Raymarching &amp; More - 100+ Free Challenges!](https://dev.to/martini002/level-up-your-shaders-shader-academy-adds-webgpu-compute-challenges-raymarching-more-100-l66)
-- [Learn FastAPI the Interactive Way — A Hands-On Tutorial Platform](https://dev.to/stamigos/learn-fastapi-the-interactive-way-a-hands-on-tutorial-platform-lnn)
-- [Create robust CLI apps with Bashly](https://dev.to/meleu/create-robust-cli-apps-with-bashly-5gb0)
-- [Turn Any Bluetooth Speaker into an AirPlay Speaker with Shairport Sync](https://dev.to/henrylim96/turn-any-bluetooth-speaker-into-an-airplay-speaker-with-shairport-sync-177j)
-- [How I Attached and Mounted an EBS Volume to My Ubuntu EC2 Instance: A Step-by-Step Guide](https://dev.to/oluwwatunmise/how-i-attached-and-mounted-an-ebs-volume-to-my-ubuntu-ec2-instance-a-step-by-step-guide-1b87)
+- [Security news weekly round-up - 29th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-29th-august-2025-1f3m)
+- [Focus Engine in iOS: Non-Touch Navigation](https://dev.to/arshtechpro/focus-engine-in-ios-non-touch-navigation-3gcp)
+- [Securing AI Agents: Why Traditional Identity Systems Fail and How to Build for AI](https://dev.to/deepakgupta/securing-ai-agents-why-traditional-identity-systems-fail-and-how-to-build-for-ai-44e7)
+- [🚀 Building a GitOps Infrastructure Pipeline with Crossplane and Argo CD](https://dev.to/justasflash/building-a-gitops-infrastructure-pipeline-with-crossplane-and-argo-cd-431)
+- [The Art of Resonance: Mastering Memoization in React as a Symphony, Not a Chore](https://dev.to/alex_aslam/the-art-of-resonance-mastering-memoization-in-react-as-a-symphony-not-a-chore-48b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
