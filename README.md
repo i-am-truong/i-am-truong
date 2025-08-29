@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SOP:Grafana Dashboard Demo - Windows 11 SOP &amp; Scripts](https://dev.to/yc_lee_53e583a776a9c56e3/sopgrafana-dashboard-demo-windows-11-sop-scripts-5dd3)
-- [Custom WordPress Plugin Development for Ultra High Purity Gas Delivery System Website &lpar;Jewellok&rpar;](https://dev.to/emmaharper20/custom-wordpress-plugin-development-for-ultra-high-purity-gas-delivery-system-website-jewellok-4e9i)
-- [Template Literals Just Landed in Angular 19 — Here’s How to Use Them](https://dev.to/vetriselvan_11/-5h2i)
-- [ActivityResultContract 안전하게 사용하기](https://dev.to/kingori/activityresultcontract-anjeonhage-sayonghagi-34ga)
-- [PRINT&lpar; &quot;Hello Devs!&quot;&rpar;](https://dev.to/aconway339/print-hello-devs-412)
+- [DIY Local AI Stack: Who’s Interested?](https://dev.to/ghotet/diy-local-ai-stack-whos-interested-48bc)
+- [🛳️ Docker Series: Episode 7 — Docker Networking: How Containers Talk Behind the Scenes](https://dev.to/yash_sonawane25/docker-series-episode-7-docker-networking-how-containers-talk-behind-the-scenes-5aak)
+- [🎨 Prompt Engineering for Beginners: How to Get Better AI Images](https://dev.to/raksbisht/prompt-engineering-for-beginners-how-to-get-better-ai-images-35c9)
+- [How to Manage Message History in a Chat with React](https://dev.to/werliton/how-to-manage-message-history-in-a-chat-with-react-pl1)
+- [How to Build an Accordion Component in React](https://dev.to/pradnya_hegde_060984c4c23/how-to-build-an-accordion-component-in-react-1ia9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
