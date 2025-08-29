@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Guardrailed-AMIE: Human-Guarded AI That Clinicians Trust](https://dev.to/aiwithapex/googles-guardrailed-amie-human-guarded-ai-that-clinicians-trust-mbp)
-- [Beyond CAP: Understanding the PACELC Theorem in Distributed Systems](https://dev.to/manas_tole_039/beyond-cap-understanding-the-pacelc-theorem-in-distributed-systems-kn3)
-- [What is the Solidity Console Log?](https://dev.to/metana/what-is-the-solidity-console-log-2d7o)
-- [When people hear I’ve written 40+ books on AI in just over a year, the first question is always: “How do you write so much without burning out?” The answer isn’t coffee or late nights. It’s systems + AI. Here’s my exact behind-the-scenes workflow:](https://dev.to/jaideepparashar/when-people-hear-ive-written-40-books-on-ai-in-just-over-a-year-the-first-question-is-always-11m3)
-- [No Laying Up Podcast: 1063: Mic&#39;d up with Matt Ryan at the Creator Classic](https://dev.to/youtube_golf/no-laying-up-podcast-1063-micd-up-with-matt-ryan-at-the-creator-classic-49b9)
+- [A new tool to manage your i18n locale files](https://dev.to/alexis_clarembeau_8c3c0e2/a-new-tool-to-manage-your-i18n-locale-files-2cam)
+- [Think You’re Secure? Penetration Testing Will Tell You the Truth](https://dev.to/addwebsolutionpvtltd/think-youre-secure-penetration-testing-will-tell-you-the-truth-105n)
+- [Cold Starts in Serverless: The Silent Performance Killer](https://dev.to/dct_technology/cold-starts-in-serverless-the-silent-performance-killer-56fk)
+- [🔥History Made: The First Blockchain by Someone Under 18](https://dev.to/arya_empire_2555fe746ce2a/history-made-the-first-blockchain-by-someone-under-18-gnc)
+- [Tackling the API Integration Maze](https://dev.to/noor_shahbaj/tackling-the-api-integration-maze-jfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
