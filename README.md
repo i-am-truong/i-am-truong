@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing QRGuard - Open Source QR code Security App](https://dev.to/altafpasha/introducing-qrguard-open-source-qr-code-security-app-25p4)
-- [12 habits that secretly turn average devs into 10x engineers &lpar;no, not ChatGPT&rpar;](https://dev.to/dev_tips/12-habits-that-secretly-turn-average-devs-into-10x-engineers-no-not-chatgpt-2hip)
-- [Check Out 3 Awesome Open Source Tabular Data Wrangling Apps](https://dev.to/david_kershaw_b6916404da6/check-out-3-awesome-open-source-tabular-data-wrangling-apps-3ono)
-- [Cookies in Web Development: Client &amp; Server Perspective](https://dev.to/zeeshanali0704/cookies-in-web-development-client-server-perspective-1f80)
-- [Implementando o Clássico Xonix em C++: Um Tutorial Passo a Passo](https://dev.to/mrpunkdasilva/implementando-o-classico-xonix-em-c-um-tutorial-passo-a-passo-6g0)
+- [Destrua a complexidade: Tetris do zero em C++ com SFML](https://dev.to/mrpunkdasilva/destrua-a-complexidade-tetris-do-zero-em-c-com-sfml-2p52)
+- [I Spent 22 Years Programming Just to Fail at Making a Skeleton Swing a Sword](https://dev.to/patrity/i-spent-22-years-programming-just-to-fail-at-making-a-skeleton-swing-a-sword-455o)
+- [Google AI Studio: A Free Playground to Experiment with Gemini AI](https://dev.to/moubarakmohame4/google-ai-studio-a-free-playground-to-experiment-with-gemini-ai-19ki)
+- [🏗️ The Role of a Data Engineer: Beyond Pipelines](https://dev.to/parth_maniar_3012/the-role-of-a-data-engineer-beyond-pipelines-hga)
+- [Complete Guide to Passwordless Authentication](https://dev.to/crit3cal/complete-guide-to-passwordless-authentication-3ahm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
