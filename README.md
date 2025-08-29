@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-touch Firebase SDKs with one command and CI magic](https://dev.to/dev_tips/zero-touch-firebase-sdks-with-one-command-and-ci-magic-3hd8)
-- [Log013 - AWS, Debian 13, Fail2ban, Logrotate, Docker, AlmaLinux, Apache, AWS S3, CloudFront, AWS CLI.](https://dev.to/aka_artem_dd17be93c/log013-aws-debian-13-fail2ban-logrotate-docker-almalinux-apache-aws-s3-cloudfront-aws-34j)
-- [The System Didn’t Ask, It Just Made You Comply](https://dev.to/agustin_v_startari/the-system-didnt-ask-it-just-made-you-comply-2h69)
-- [IGN: Metal Gear Solid Delta Plays It Safer Than RE4 Remake, Here’s Why That Makes Sense - Beyond Clips](https://dev.to/gg_news/ign-metal-gear-solid-delta-plays-it-safer-than-re4-remake-heres-why-that-makes-sense-beyond-ige)
-- [IGN: Street Fighter 6 x Monster Hunter Wilds - Official Collab Event Announcement Trailer](https://dev.to/gg_news/ign-street-fighter-6-x-monster-hunter-wilds-official-collab-event-announcement-trailer-49gk)
+- [The Cult of Shipping Fast Is Killing Your Code](https://dev.to/caeus/the-cult-of-shipping-fast-is-killing-your-code-oc)
+- [Automatically picking the best ASTC textures quality](https://dev.to/keaukraine/automatically-picking-the-best-astc-textures-quality-2ke8)
+- [Why the Lean Startup Method Is Too Slow for an AI-Driven World](https://dev.to/remotebranch/why-the-lean-startup-method-is-too-slow-for-an-ai-driven-world-42i5)
+- [The Great Developer Split: How Juniors, Mid-Levels, and Seniors All Got Screwed.](https://dev.to/dev_tips/the-great-developer-split-how-juniors-mid-levels-and-seniors-all-got-screwed-5fpl)
+- [Hello Everyone](https://dev.to/rohith_25/hello-everyone-3c10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
