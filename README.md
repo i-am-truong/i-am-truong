@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s Guardrailed-AMIE: Human-Guarded AI That Clinicians Trust](https://dev.to/aiwithapex/googles-guardrailed-amie-human-guarded-ai-that-clinicians-trust-mbp)
+- [Beyond CAP: Understanding the PACELC Theorem in Distributed Systems](https://dev.to/manas_tole_039/beyond-cap-understanding-the-pacelc-theorem-in-distributed-systems-kn3)
 - [What is the Solidity Console Log?](https://dev.to/metana/what-is-the-solidity-console-log-2d7o)
 - [When people hear I’ve written 40+ books on AI in just over a year, the first question is always: “How do you write so much without burning out?” The answer isn’t coffee or late nights. It’s systems + AI. Here’s my exact behind-the-scenes workflow:](https://dev.to/jaideepparashar/when-people-hear-ive-written-40-books-on-ai-in-just-over-a-year-the-first-question-is-always-11m3)
 - [No Laying Up Podcast: 1063: Mic&#39;d up with Matt Ryan at the Creator Classic](https://dev.to/youtube_golf/no-laying-up-podcast-1063-micd-up-with-matt-ryan-at-the-creator-classic-49b9)
-- [How I Write 2,000+ Words a Day with AI](https://dev.to/jaideepparashar/how-i-write-2000-words-a-day-with-ai-2l30)
-- [A2A &lpar;Agent to Agent&rpar;: Core Concepts](https://dev.to/farhan_khan_41ec7ff11ac1d/a2a-agent-to-agent-core-concepts-2gp2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
