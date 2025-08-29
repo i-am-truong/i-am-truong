@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DIY Local AI Stack: Who’s Interested?](https://dev.to/ghotet/diy-local-ai-stack-whos-interested-48bc)
-- [🛳️ Docker Series: Episode 7 — Docker Networking: How Containers Talk Behind the Scenes](https://dev.to/yash_sonawane25/docker-series-episode-7-docker-networking-how-containers-talk-behind-the-scenes-5aak)
-- [🎨 Prompt Engineering for Beginners: How to Get Better AI Images](https://dev.to/raksbisht/prompt-engineering-for-beginners-how-to-get-better-ai-images-35c9)
-- [How to Manage Message History in a Chat with React](https://dev.to/werliton/how-to-manage-message-history-in-a-chat-with-react-pl1)
-- [How to Build an Accordion Component in React](https://dev.to/pradnya_hegde_060984c4c23/how-to-build-an-accordion-component-in-react-1ia9)
+- [How I Solved AI&#39;s Inconsistent Code Problem](https://dev.to/utabadevmonkey/how-i-solved-ais-inconsistent-code-problem-37he)
+- [Filling the Memory Gap: Building MCPMem to Fix AI Assistant Forgetfulness](https://dev.to/designly/filling-the-memory-gap-building-mcpmem-to-fix-ai-assistant-forgetfulness-1h18)
+- [How a Bottleneck, YouTube Video and C# Channels Led to a 3x Faster .NET Backup Tool](https://dev.to/stewartcelani/how-a-bottleneck-youtube-video-and-c-channels-led-to-a-3x-faster-net-backup-tool-3713)
+- [Unblocking Halo Uploads with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/unblocking-halo-uploads-with-safeline-waf-4mam)
+- [Escaping Your Java Habits in Python: Writing Clean, Pythonic Code](https://dev.to/aaronsteers/escaping-your-java-habits-in-python-writing-clean-pythonic-code-2en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
