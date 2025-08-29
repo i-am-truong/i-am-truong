@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Storybook 101: How to Supercharge Your Front-End with Component Previews 📖](https://dev.to/tahamjp/storybook-101-how-to-supercharge-your-front-end-with-component-previews-mho)
 - [Building a Scalable Telco CDR Processing Pipeline with Databricks Delta Live Tables - Part 1 [Databricks Free Edition]](https://dev.to/sienkiewicz_pat/building-a-scalable-telco-cdr-processing-pipeline-with-databricks-delta-live-tables-part-1-1gmf)
 - [⚙️ From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-18ca)
 - [How to Securely Connect to Medusa.js Production Database on AWS?](https://dev.to/u11d/how-to-securely-connect-to-medusajs-production-database-on-aws-5efh)
 - [Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler](https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `70`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-70-3o1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
