@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Leaking Your Secrets! Secure Your Node.js Environment Variables.](https://dev.to/shahrad/stop-leaking-your-secrets-secure-your-nodejs-environment-variables-jim)
+- [Great rundown on using streams properly to let backpressure do its thing. I encountered the same issue as Kieran, but luckily, as my use case was smaller, I was able to use a simpler workaround by leveraging synchronous stream internals.](https://dev.to/forivall/great-rundown-on-using-streams-properly-to-let-backpressure-do-its-thing-i-encountered-the-same-4e6l)
 - [Image Description Generator](https://dev.to/florin_muresan_932fed5eaf/image-description-generator-32de)
 - [Improve LLM Debugging](https://dev.to/byme8/improve-llm-debugging-4p91)
 - [Supercharging Your Workflows with Local GitHub Actions](https://dev.to/codenamegrant/supercharging-your-workflows-with-local-github-actions-2o23)
-- [🔄 ETL vs ELT: The Backbone of Data Engineering](https://dev.to/parth_maniar_3012/etl-vs-elt-the-backbone-of-data-engineering-58il)
-- [I Built a 6-Headed AI Intelligence System &lpar;No Subscriptions Required!&rpar;](https://dev.to/jcloud/i-built-a-6-headed-ai-intelligence-system-no-subscriptions-required-a89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
