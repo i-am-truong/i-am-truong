@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Scalable Telco CDR Processing Pipeline with Databricks Delta Live Tables - Part 1 [Databricks Free Edition]](https://dev.to/sienkiewicz_pat/building-a-scalable-telco-cdr-processing-pipeline-with-databricks-delta-live-tables-part-1-1gmf)
+- [⚙️ From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-18ca)
+- [How to Securely Connect to Medusa.js Production Database on AWS?](https://dev.to/u11d/how-to-securely-connect-to-medusajs-production-database-on-aws-5efh)
+- [Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler](https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh)
 - [🧠 Solving LeetCode Until I Become Top 1% — Day `70`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-70-3o1m)
-- [How To Use LLMs: Retrieval-Augmented Generation &lpar;RAG Systems&rpar;](https://dev.to/dinakajoy/how-to-use-llms-retrieval-augmented-generation-rag-systems-2dmm)
-- [This is How I Automate the Tech Discovery Using LLMs](https://dev.to/hibuno/this-is-how-i-automate-the-tech-discovery-using-llms-4jfh)
-- [Classification in Machine Learning](https://dev.to/purityngugi/classification-in-machine-learning-206k)
-- [Don&#39;t Skip DSA: A Real-World Optimisation Win](https://dev.to/sidharthd/dont-skip-dsa-a-real-world-optimisation-win-46fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
