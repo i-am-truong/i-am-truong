@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Platform Engineering for the uninitiated](https://dev.to/chiranjib_b/platform-engineering-for-the-uninitiated-1ifo)
-- [The Unspoken Rules of Being a Developer &lpar;A Survival Guide&rpar;](https://dev.to/trojanmocx/the-unspoken-rules-of-being-a-developer-a-survival-guide-1aj2)
-- [Comprehensive Guide to Dua e Istikhara: Method, Benefits, and Modern Applications](https://dev.to/chipra_chipra_baf59390ad2/comprehensive-guide-to-dua-e-istikhara-method-benefits-and-modern-applications-fne)
-- [How to Build Your First SaaS with Next.js, TypeScript, and Stripe](https://dev.to/code_2/how-to-build-your-first-saas-with-nextjs-typescript-and-stripe-2d2j)
-- [Master System Design for Scalable Apps](https://dev.to/nakum_dipak_8b477be370892/master-system-design-for-scalable-apps-58c2)
+- [Task:Implement end-to-end system integration](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-end-to-end-system-integration-1559)
+- [Snipper – A Lightweight Snipping Tool Alternative for Windows](https://dev.to/hackernewbie/snipper-a-lightweight-snipping-tool-alternative-for-windows-2hcb)
+- [Subnet Masks Made Simple: How Networks Identify Who’s “Local”](https://dev.to/naval_kishorupadhyay_3e9/subnet-masks-made-simple-how-networks-identify-whos-local-41e8)
+- [Why is DDR4 RAM Increasing in Price?](https://dev.to/blogger_shree_844e6eb4b36/why-is-ddr4-ram-increasing-in-price-41id)
+- [IPSec VPN, WireGuard and other methods of secure connection to the data center](https://dev.to/vilengyltd/ipsec-vpn-wireguard-and-other-methods-of-secure-connection-to-the-data-center-ap5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
