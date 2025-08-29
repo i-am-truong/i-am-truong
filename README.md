@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Leaking Your Secrets! Secure Your Node.js Environment Variables.](https://dev.to/shahrad/stop-leaking-your-secrets-secure-your-nodejs-environment-variables-jim)
-- [Great rundown on using streams properly to let backpressure do its thing. I encountered the same issue as Kieran, but luckily, as my use case was smaller, I was able to use a simpler workaround by leveraging synchronous stream internals.](https://dev.to/forivall/great-rundown-on-using-streams-properly-to-let-backpressure-do-its-thing-i-encountered-the-same-4e6l)
-- [Image Description Generator](https://dev.to/florin_muresan_932fed5eaf/image-description-generator-32de)
-- [Improve LLM Debugging](https://dev.to/byme8/improve-llm-debugging-4p91)
-- [Supercharging Your Workflows with Local GitHub Actions](https://dev.to/codenamegrant/supercharging-your-workflows-with-local-github-actions-2o23)
+- [Building an Edge AI Sound Classifier &lpar;Part 1&rpar;: Collecting and Preparing the Dataset](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-1-collecting-and-preparing-the-dataset-moo)
+- [Getting Started with AWS Developer Tools for Modern DevOps &amp; CI/CD](https://dev.to/aws-builders/getting-started-with-aws-developer-tools-for-modern-devops-cicd-29ch)
+- [Day 28 of #30DaysOf Code](https://dev.to/justacoder_0x/day-28-of-30daysof-code-36pa)
+- [My Google Summer of Code &lpar;GSoC&rpar; 2025 in View](https://dev.to/chiemezuo/my-google-summer-of-code-gsoc-2025-in-view-23j1)
+- [Root Cause Analysis: OutOfMemoryError in Forked JVM Due to TestNG SuiteRunner Memory Retention](https://dev.to/gaurbprajapati/root-cause-analysis-outofmemoryerror-in-forked-jvm-due-to-testng-suiterunner-memory-retention-1gid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
