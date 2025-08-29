@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Igniting a React App with Parcel and npm](https://dev.to/abhishek-nexgen-dev/igniting-a-react-app-with-parcel-and-npm-1b85)
-- [From prompt to physics: Google’s Genie 3 just changed AI gaming forever](https://dev.to/dev_tips/from-prompt-to-physics-googles-genie-3-just-changed-ai-gaming-forever-19f0)
-- [EIS: A Tiny, Framework-Agnostic State Store for the Web](https://dev.to/taujor/eis-a-tiny-framework-agnostic-state-store-for-the-web-13oh)
-- [Storybook 101: How to Supercharge Your Front-End with Component Previews 📖](https://dev.to/tahamjp/storybook-101-how-to-supercharge-your-front-end-with-component-previews-mho)
-- [Building a Scalable Telco CDR Processing Pipeline with Databricks Delta Live Tables - Part 1 [Databricks Free Edition]](https://dev.to/sienkiewicz_pat/building-a-scalable-telco-cdr-processing-pipeline-with-databricks-delta-live-tables-part-1-1gmf)
+- [🏁 From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-5ehd)
+- [Postgres for everything? not really..and here are some of the problems.](https://dev.to/dev_tips/postgres-for-everything-not-reallyand-here-are-some-of-the-problems-1ia0)
+- [Introducing Apollo, Setting a New Record in Voice Deepfake Detection Accuracy](https://dev.to/aurigin/introducing-apollo-setting-a-new-record-in-voice-deepfake-detection-accuracy-3cfe)
+- [How Enterprises Migrate to Next.js and Vercel](https://dev.to/sip/how-enterprises-migrate-to-nextjs-and-vercel-1lfd)
+- [Project - Microservices](https://dev.to/rafaelfgx/project-microservices-4hc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
