@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pk vs Fk 🔑](https://dev.to/cyberwizd/pk-vs-fk-458o)
-- [⚡ 30 Seconds of Code — Learn Faster, Code Smarter](https://dev.to/ml318097/30-seconds-of-code-learn-faster-code-smarter-2ab7)
-- [`inspect.stack&lpar;&rpar;` in Python with Examples](https://dev.to/atifwattoo/inspectstack-in-python-with-examples-l4m)
-- [Docker Basics: A Beginner’s Guide to Containers 🐳](https://dev.to/fludapp/docker-basics-a-beginners-guide-to-containers-56nc)
-- [🧠 Why Every Developer Should Build a &quot;Second Brain&quot;](https://dev.to/rajguru_yadav_56d13a7b8fc/why-every-developer-should-build-a-second-brain-1jaf)
+- [Don&#39;t Skip DSA: A Real-World Optimisation Win](https://dev.to/sidharthd/dont-skip-dsa-a-real-world-optimisation-win-46fl)
+- [Day-86 ArrayList vs LinkedList in java](https://dev.to/tamilselvan1812/day-86-arraylist-vs-linkedlist-in-java-43p7)
+- [Part-34: 🖥️ Google Compute Engine Instance Groups in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-34-google-compute-engine-instance-groups-in-google-cloud-platform-gcp-5fn)
+- [What’s your go-to stack for building quick prototypes?](https://dev.to/valentina_bruen_bf3a9d968/whats-your-go-to-stack-for-building-quick-prototypes-2638)
+- [From Code to Cloud: My DevOps + DevSecOps Journey &lpar;Part 1 – The Vision&rpar;](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-part-1-the-vision-3hoe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
