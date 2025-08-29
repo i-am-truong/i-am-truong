@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cult of Shipping Fast Is Killing Your Code](https://dev.to/caeus/the-cult-of-shipping-fast-is-killing-your-code-oc)
-- [Automatically picking the best ASTC textures quality](https://dev.to/keaukraine/automatically-picking-the-best-astc-textures-quality-2ke8)
-- [Why the Lean Startup Method Is Too Slow for an AI-Driven World](https://dev.to/remotebranch/why-the-lean-startup-method-is-too-slow-for-an-ai-driven-world-42i5)
-- [The Great Developer Split: How Juniors, Mid-Levels, and Seniors All Got Screwed.](https://dev.to/dev_tips/the-great-developer-split-how-juniors-mid-levels-and-seniors-all-got-screwed-5fpl)
-- [Hello Everyone](https://dev.to/rohith_25/hello-everyone-3c10)
+- [The Definitive Guide to _safe_ Docker-in-Docker with Gitea Actions](https://dev.to/tmlr/the-definitive-guide-to-safe-docker-in-docker-with-gitea-actions-331l)
+- [Config git user.name để kiểm soát code](https://dev.to/longtth/config-git-username-useremail-35cj)
+- [The ChatGPT Router and the End of Choice Fatigue](https://dev.to/remotebranch/the-chatgpt-router-and-the-end-of-choice-fatigue-a1m)
+- [Implementing semantic html](https://dev.to/nyagzz_programmer/implementing-semantic-html-99n)
+- [Mastering Semantic HTML](https://dev.to/jeremiah-dev341/mastering-semantic-html-243k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
