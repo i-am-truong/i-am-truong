@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Definitive Guide to _safe_ Docker-in-Docker with Gitea Actions](https://dev.to/tmlr/the-definitive-guide-to-safe-docker-in-docker-with-gitea-actions-331l)
-- [Config git user.name để kiểm soát code](https://dev.to/longtth/config-git-username-useremail-35cj)
-- [The ChatGPT Router and the End of Choice Fatigue](https://dev.to/remotebranch/the-chatgpt-router-and-the-end-of-choice-fatigue-a1m)
-- [Implementing semantic html](https://dev.to/nyagzz_programmer/implementing-semantic-html-99n)
-- [Mastering Semantic HTML](https://dev.to/jeremiah-dev341/mastering-semantic-html-243k)
+- [CoinScore – Lightweight Crypto Scoring Tool &lpar;MVP&rpar;](https://dev.to/badjoke-lab/coinscore-lightweight-crypto-scoring-tool-mvp-hn8)
+- [Understanding Costs and Billing in AWS: A Simple Guide to Saving Money and Managing Your Cloud Budget](https://dev.to/heyjoshlee/understanding-costs-and-billing-in-aws-a-simple-guide-to-saving-money-and-managing-your-cloud-333f)
+- [Node.js v24.7.0 Released – Post-Quantum Cryptography, Modern WebCrypto, and More](https://dev.to/zaheetdev/nodejs-v2470-released-post-quantum-cryptography-modern-webcrypto-and-more-1df9)
+- [RODiT Metadata Guide](https://dev.to/rodit-org/rodit-metadata-guide-841)
+- [walkthrough 1](https://dev.to/leejasaispace/walkthrough-1-3de8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
