@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CoinScore – Lightweight Crypto Scoring Tool &lpar;MVP&rpar;](https://dev.to/badjoke-lab/coinscore-lightweight-crypto-scoring-tool-mvp-hn8)
-- [Understanding Costs and Billing in AWS: A Simple Guide to Saving Money and Managing Your Cloud Budget](https://dev.to/heyjoshlee/understanding-costs-and-billing-in-aws-a-simple-guide-to-saving-money-and-managing-your-cloud-333f)
-- [Node.js v24.7.0 Released – Post-Quantum Cryptography, Modern WebCrypto, and More](https://dev.to/zaheetdev/nodejs-v2470-released-post-quantum-cryptography-modern-webcrypto-and-more-1df9)
-- [RODiT Metadata Guide](https://dev.to/rodit-org/rodit-metadata-guide-841)
-- [walkthrough 1](https://dev.to/leejasaispace/walkthrough-1-3de8)
+- [DeepSeek V3.1 vs GPT-5: 685B Parameters, 128K Context, 68 Cheaper](https://dev.to/dev_tips/deepseek-v31-vs-gpt-5-685b-parameters-128k-context-68x-cheaper-13di)
+- [Frontend Performance Metrics FP, FMP, LCP, and CLS Explained](https://dev.to/tianyaschool/frontend-performance-metrics-fp-fmp-lcp-and-cls-explained-414b)
+- [Configuring CSP: A Test For Django 6.0](https://dev.to/chiemezuo/configuring-csp-a-test-for-django-60-3a67)
+- [🚀Vonage Developer Newsletter, August 2025: RCS, Vibe Coding, Golang tutorials + events](https://dev.to/vonagedev/vonage-developer-newsletter-aug-2025-rcs-vibe-coding-golang-tutorials-events-4n5a)
+- [A Comprehensive Technical Guide for Developers on Implementing Semantic HTML Effectively](https://dev.to/akina_matayo_dd389ad2ee25/a-comprehensive-technical-guide-for-developers-on-implementing-semantic-html-effectively-1ofa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
