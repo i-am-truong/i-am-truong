@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What’s Your Funniest &lpar;or Worst&rpar; Debugging War Story?](https://dev.to/cal_afun_2475adb4b562023b/whats-your-funniest-or-worst-debugging-war-story-3kik)
-- [What I&#39;d Tell My Past Self About Building Extensions That Actually Help Developers 🎯 &lpar;Part 5/5&rpar;](https://dev.to/vijay431/what-id-tell-my-past-self-about-building-extensions-that-actually-help-developers-part-55-hfk)
-- [The 3 AM Debugging Sessions That Almost Broke Me 😅 &lpar;Part 4/5&rpar;](https://dev.to/vijay431/the-3-am-debugging-sessions-that-almost-broke-me-part-45-1727)
-- [Mastering Prompt Design for Smarter AI Assistants in 2025](https://dev.to/arkhan/mastering-prompt-design-for-smarter-ai-assistants-in-2025-4ho9)
-- [Building Verifiable &amp; Confidential AI Agents with Oasis ROFL](https://dev.to/caerlower/building-verifiable-confidential-ai-agents-with-oasis-rofl-5246)
+- [STEP-BY-STEP GUIDE TO IMPLEMENT SIGNALR WITH WEBSOCKETS IN ASP.NET CORE](https://dev.to/sapanapal6/step-by-step-guide-to-implement-signalr-with-websockets-in-aspnet-core-pe5)
+- [Unlocking Real-Time Web Apps: Mastering SignalR &amp; WebSockets](https://dev.to/sapanapal6/unlocking-real-time-web-apps-mastering-signalr-websockets-5579)
+- [Making an Alexa chatbot with Tamb+Deezer 🎶](https://dev.to/jamesmurdza/making-an-alexa-chatbot-with-tambdeezer-2o01)
+- [Privacy in DePIN: Building Secure Infrastructure for the Real World](https://dev.to/caerlower/privacy-in-depin-building-secure-infrastructure-for-the-real-world-aa)
+- [La IA lo bueno, lo malo y lo que sigo aprendiendo &lpar; Parte 1&rpar;](https://dev.to/aletorres1102/la-ia-lo-bueno-lo-malo-y-lo-que-sigo-aprendiendo-parte-1-8ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
