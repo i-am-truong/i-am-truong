@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot Fundamentals &lpar;Deep dive for beginners&rpar;](https://dev.to/jps27cse/spring-boot-fundamentals-deep-dive-for-beginners-641)
-- [FlowiseAI - The Open Source Visual Builder for AI Agents](https://dev.to/ajay_patidar_33430369efeb/flowiseai-the-open-source-visual-builder-for-ai-agents-64m)
-- [JSONB vs JSON: the Postgres/MySQL showdown that actually matters](https://dev.to/dev_tips/jsonb-vs-json-the-postgresmysql-showdown-that-actually-matters-id1)
-- [I AM OFFICIALLY BEGINNING MY DEV/HACKER JOURNEY!!](https://dev.to/brightoflight/i-am-officially-beginning-my-devhacker-journey-2emh)
-- [Keeping your Streamlit app awake using Selenium and Github Actions](https://dev.to/virgoalpha/keeping-your-streamlit-app-awake-using-selenium-and-github-actions-4ajd)
+- [any plans for #hacktoberfest?](https://dev.to/fmerian/any-plans-for-hacktoberfest-gia)
+- [The 24/7 AI Teammate – How an Agent Can Continuously Improve Your Codebase Overnight](https://dev.to/vadym_info_polus/the-247-ai-teammate-how-an-agent-can-continuously-improve-your-codebase-overnight-2ikg)
+- [A live catalog of Logseq plugins, by @rudifa](https://dev.to/rudifa/a-live-catalog-of-logseq-plugins-by-rudifa-iaj)
+- [Balancing Type I and Type II Errors in Medical Decisions: A Kenyan Perspective](https://dev.to/loryne_joy/balancing-type-i-and-type-ii-errors-in-medical-decisions-a-kenyan-perspective-2adn)
+- [Your app isn’t IPv6-ready: a 30-minute checklist](https://dev.to/dev_tips/your-app-isnt-ipv6-ready-a-30-minute-checklist-1n2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
