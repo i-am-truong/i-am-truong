@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript One-Liners That Actually Slap 🚀 &lpar;And One That Doesn&#39;t 👀&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/javascript-one-liners-that-actually-slap-and-one-that-doesnt--20g6)
+- [A &#39;feature&#39; of AI can become a &#39;nightmare&#39; for an organisation - Here&#39;s how.](https://dev.to/tilakupadhyay/a-feature-of-ai-can-become-a-nightmare-for-an-organisation-heres-how-h4a)
+- [Week 2 -Git &amp; GitHub](https://dev.to/okeke_chima_4d4acd8f61e67/week-2-git-github-5and)
 - [STEP-BY-STEP GUIDE TO IMPLEMENT SIGNALR WITH WEBSOCKETS IN ASP.NET CORE](https://dev.to/sapanapal6/step-by-step-guide-to-implement-signalr-with-websockets-in-aspnet-core-pe5)
 - [Unlocking Real-Time Web Apps: Mastering SignalR &amp; WebSockets](https://dev.to/sapanapal6/unlocking-real-time-web-apps-mastering-signalr-websockets-5579)
-- [Making an Alexa chatbot with Tamb+Deezer 🎶](https://dev.to/jamesmurdza/making-an-alexa-chatbot-with-tambdeezer-2o01)
-- [Privacy in DePIN: Building Secure Infrastructure for the Real World](https://dev.to/caerlower/privacy-in-depin-building-secure-infrastructure-for-the-real-world-aa)
-- [La IA lo bueno, lo malo y lo que sigo aprendiendo &lpar; Parte 1&rpar;](https://dev.to/aletorres1102/la-ia-lo-bueno-lo-malo-y-lo-que-sigo-aprendiendo-parte-1-8ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
