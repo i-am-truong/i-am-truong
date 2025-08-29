@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [any plans for #hacktoberfest?](https://dev.to/fmerian/any-plans-for-hacktoberfest-gia)
-- [The 24/7 AI Teammate – How an Agent Can Continuously Improve Your Codebase Overnight](https://dev.to/vadym_info_polus/the-247-ai-teammate-how-an-agent-can-continuously-improve-your-codebase-overnight-2ikg)
-- [A live catalog of Logseq plugins, by @rudifa](https://dev.to/rudifa/a-live-catalog-of-logseq-plugins-by-rudifa-iaj)
-- [Balancing Type I and Type II Errors in Medical Decisions: A Kenyan Perspective](https://dev.to/loryne_joy/balancing-type-i-and-type-ii-errors-in-medical-decisions-a-kenyan-perspective-2adn)
-- [Your app isn’t IPv6-ready: a 30-minute checklist](https://dev.to/dev_tips/your-app-isnt-ipv6-ready-a-30-minute-checklist-1n2d)
+- [Stop Overthinking Authentication: A 3-Question Guide to Choosing JWT vs. Sessions](https://dev.to/kripanshu_singh/stop-overthinking-authentication-a-3-question-guide-to-choosing-jwt-vs-sessions-c44)
+- [Making scientific python blazingly fast with PyTorch](https://dev.to/matteospanio/making-scientific-python-blazingly-fast-with-pytorch-2h46)
+- [Inheritance@](https://dev.to/ajayr18/inheritance-11m6)
+- [Microservices](https://dev.to/rencberakman/microservices-4bg2)
+- [GSOC 2025 Kotlin Foundation Final Report](https://dev.to/victoria_chuks_7e772e1688/gsoc-2025-kotlin-foundation-final-report-3p4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
