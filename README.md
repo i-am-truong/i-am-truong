@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Interact with Neon APIs using Claude Code through natural language](https://dev.to/neon-postgres/interact-with-neon-apis-using-claude-code-through-natural-language-267e)
-- [🔄 Syncthing: The Open‑Source Way to Keep Your Files in Sync](https://dev.to/byteknight/syncthing-the-open-source-way-to-keep-your-files-in-sync-1hfa)
-- [Publishing Real-Time Video via WHIP to Amazon IVS](https://dev.to/aws/publishing-real-time-video-via-whip-to-amazon-ivs-p7f)
-- [Why Most Startup Advice Sucks Test](https://dev.to/alexcloudstar/why-most-startup-advice-sucks-test-1em4)
-- [Why Most Startup Advice Sucks](https://dev.to/alexcloudstar/why-most-startup-advice-sucks-1bpc)
+- [Introducing QRGuard - Open Source QR code Security App](https://dev.to/altafpasha/introducing-qrguard-open-source-qr-code-security-app-25p4)
+- [12 habits that secretly turn average devs into 10x engineers &lpar;no, not ChatGPT&rpar;](https://dev.to/dev_tips/12-habits-that-secretly-turn-average-devs-into-10x-engineers-no-not-chatgpt-2hip)
+- [Check Out 3 Awesome Open Source Tabular Data Wrangling Apps](https://dev.to/david_kershaw_b6916404da6/check-out-3-awesome-open-source-tabular-data-wrangling-apps-3ono)
+- [Cookies in Web Development: Client &amp; Server Perspective](https://dev.to/zeeshanali0704/cookies-in-web-development-client-server-perspective-1f80)
+- [Implementando o Clássico Xonix em C++: Um Tutorial Passo a Passo](https://dev.to/mrpunkdasilva/implementando-o-classico-xonix-em-c-um-tutorial-passo-a-passo-6g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
