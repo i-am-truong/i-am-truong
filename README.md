@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Write, Commit, Bookmark, Push - A version control guide for beginners with jj](https://dev.to/altariarite/write-commit-bookmark-push-a-jj-guide-for-beginners-2d59)
-- [OpenAI GPT-realtime Complete Guide: Revolutionary Breakthrough in Voice AI 2025](https://dev.to/czmilo/openai-gpt-realtime-complete-guide-revolutionary-breakthrough-in-voice-ai-2025-20m4)
-- [Web Wide Worlds: An Open Technology Stack for Digital Worlds](https://dev.to/dyfi/web-wide-worlds-an-open-technology-stack-for-digital-worlds-e3p)
-- [A Technical Deep Dive: Exploiting SQL Injection Vulnerabilities](https://dev.to/samueladeduntan/a-technical-deep-dive-exploiting-sql-injection-vulnerabilities-3da8)
-- [1 - Setting Up A Client Website](https://dev.to/cecilionavarro/1-setting-up-a-client-website-p7l)
+- [Understanding Polymorphism in JavaScript](https://dev.to/henry_messiahtmt_099ca84/understanding-polymorphism-in-javascript-i7n)
+- [Integrating Still.js into Next.js: A Hands-On Guide to Remote Microfrontend Components - Architecture Series](https://dev.to/nakassony_bernardo_1d8896/integrating-stilljs-into-nextjs-a-hands-on-guide-to-remote-microfrontend-components--agj)
+- [Day 8 · Retriever looks fine, answers still collapse 〔No.6 Logic Collapse〕](https://dev.to/onestardao/day-8-retriever-looks-fine-answers-still-collapse-no6-logic-collapse-1ecf)
+- [Conectar via ssh con Metasploitable 2](https://dev.to/mister_keto/conectar-via-ssh-con-metasploitable-2-3i80)
+- [Pen Testing Your Mobile Application &lpar;and Its API&rpar;](https://dev.to/jrap/pen-testing-your-mobile-application-and-its-api-4hf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
