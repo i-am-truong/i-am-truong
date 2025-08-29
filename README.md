@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como me certifique como Vue.js Senior Developer y recomendaciones](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-4ijj)
+- [Como me certifique como Vue.js Senior Developer, recomendaciones y consejos](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-4ijj)
 - [Como me certifique como Vue.js Senior Developer y recomendaciones](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-45d7)
 - [Hands-On with AWS: Building and Securing a 3-Tier Web App](https://dev.to/ajithmanmu/hands-on-with-aws-building-and-securing-a-3-tier-web-app-1fjb)
 - [Deconstructing gin.Context: More Than Just a Context](https://dev.to/leapcell/deconstructing-gincontext-more-than-just-a-context-4nd0)
