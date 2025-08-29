@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🏁 From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-5ehd)
-- [Postgres for everything? not really..and here are some of the problems.](https://dev.to/dev_tips/postgres-for-everything-not-reallyand-here-are-some-of-the-problems-1ia0)
-- [Introducing Apollo, Setting a New Record in Voice Deepfake Detection Accuracy](https://dev.to/aurigin/introducing-apollo-setting-a-new-record-in-voice-deepfake-detection-accuracy-3cfe)
-- [How Enterprises Migrate to Next.js and Vercel](https://dev.to/sip/how-enterprises-migrate-to-nextjs-and-vercel-1lfd)
-- [Project - Microservices](https://dev.to/rafaelfgx/project-microservices-4hc0)
+- [Tu LLM es tu nuevo Dev Junior. Escríbele Tickets Perfectos con esta Estructura](https://dev.to/zenx5/tu-llm-es-tu-nuevo-dev-junior-escribele-tickets-perfectos-con-esta-estructura-2fcn)
+- [Checking Netflix genre codes 2.0](https://dev.to/xwero/checking-netflix-genre-codes-20-1a56)
+- [Exam Guide : GitHub Foundation Part 1](https://dev.to/luffy7258/exam-guide-github-foundation-part-1-3hgp)
+- [SQL was fine… until it wasn’t. Why we went NoSQL and never looked back](https://dev.to/dev_tips/sql-was-fine-until-it-wasnt-why-we-went-nosql-and-never-looked-back-46le)
+- [🏁 From Code to Cloud: My DevOps + DevSecOps Journey &lpar;Part 4/4 - The Reflection and Possible Routes&rpar;](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-5ehd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
