@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Things I Wish I Knew Before Writing My First 10,000 Lines of Code](https://dev.to/zainulabdeenofficial/the-things-i-wish-i-knew-before-writing-my-first-10000-lines-of-code-53pf)
+- [A simplified definition of an ORM](https://dev.to/codefilarete/a-simplified-definition-of-an-orm-4pl)
+- [Starting over again...](https://dev.to/pratim994/starting-over-again-42kg)
 - [What is GitHub Actions? A Beginner-Friendly Guide with Examples](https://dev.to/a-k-0047/what-is-github-actions-a-beginner-friendly-guide-with-examples-me)
 - [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-4kd1)
-- [IGN: Honkai: Nexus Anima - Official &#39;Side by Side&#39; Teaser Trailer](https://dev.to/gg_news/ign-honkai-nexus-anima-official-side-by-side-teaser-trailer-1o22)
-- [Saving Plans e Instancias Reservadas en AWS](https://dev.to/barbara_gaspar/saving-plans-e-instancias-reservadas-en-aws-4jef)
-- [Introducing ConnectOnion: The Simplest Way to Build AI Agents with Python Functions](https://dev.to/dongi/introducing-connectonion-the-simplest-way-to-build-ai-agents-with-python-functions-39f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
