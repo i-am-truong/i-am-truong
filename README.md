@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python Modules](https://dev.to/intersystems/introduction-to-python-modules-402h)
-- [Top 3 Web Security Vulnerabilities Every Developer Should Understand](https://dev.to/michael-gokey/top-3-web-security-vulnerabilities-every-developer-should-understand-46hf)
-- [Introduction to Python Dunder Methods](https://dev.to/intersystems/introduction-to-python-dunder-methods-57jm)
-- [I Built a Vanilla JS PWA: My Age &amp; Duration Calculator Project](https://dev.to/mamedul_islam/i-built-a-vanilla-js-pwa-my-age-duration-calculator-project-mf4)
-- [Why do we need coding rules or conventions, anyway?](https://dev.to/intersystems/why-do-we-need-coding-rules-or-conventions-anyway-2h18)
+- [What’s Your Funniest &lpar;or Worst&rpar; Debugging War Story?](https://dev.to/cal_afun_2475adb4b562023b/whats-your-funniest-or-worst-debugging-war-story-3kik)
+- [What I&#39;d Tell My Past Self About Building Extensions That Actually Help Developers 🎯 &lpar;Part 5/5&rpar;](https://dev.to/vijay431/what-id-tell-my-past-self-about-building-extensions-that-actually-help-developers-part-55-hfk)
+- [The 3 AM Debugging Sessions That Almost Broke Me 😅 &lpar;Part 4/5&rpar;](https://dev.to/vijay431/the-3-am-debugging-sessions-that-almost-broke-me-part-45-1727)
+- [Mastering Prompt Design for Smarter AI Assistants in 2025](https://dev.to/arkhan/mastering-prompt-design-for-smarter-ai-assistants-in-2025-4ho9)
+- [Building Verifiable &amp; Confidential AI Agents with Oasis ROFL](https://dev.to/caerlower/building-verifiable-confidential-ai-agents-with-oasis-rofl-5246)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
