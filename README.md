@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Third Year as a Developer Advocate: Talks, Tech, and Teaching](https://dev.to/c_yatteau/my-third-year-as-a-developer-advocate-talks-tech-and-teaching-39oa)
+- [Health is Wealth – Even for Developers](https://dev.to/dr_royocheremie_86b47d6/health-is-wealth-even-for-developers-712)
+- [My Journey with AI Voice Chatbot and Internship Experience](https://dev.to/jash_kapadia_86dd0990b168/my-journey-with-ai-voice-chatbot-and-internship-experience-djg)
+- [How I created sttrace in 1 week](https://dev.to/gaurang_pawar_e9c0710cbe5/how-i-created-sttrace-in-1-week-821)
 - [write once publish anywhere](https://dev.to/pravin_niceguy/write-once-publish-anywhere-b5e)
-- [Just launched a free tennis video analysis tool – would love feedback!](https://dev.to/arun_mariappan_4d7dbc6792/just-launched-a-free-tennis-video-analysis-tool-would-love-feedback-4oga)
-- [Does anyone want to form a hobby opensource project group for beginners in C# with me?](https://dev.to/ripetide1229/does-anyone-want-to-form-a-hobby-opensource-project-group-for-beginners-in-c-with-me-2jmp)
-- [Angular Migrate To New Control Flow Syntax](https://dev.to/nagarlalit/angular-migrate-to-new-control-flow-syntax-421n)
-- [From Side Project to Full-Fledged Platform: Lessons from Building Modeldraw](https://dev.to/martin-staufcik/from-side-project-to-full-fledged-platform-lessons-from-building-modeldraw-1ep1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
