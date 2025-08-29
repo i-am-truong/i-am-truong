@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EPS | SVG | AI](https://dev.to/koshirok096/eps-svg-ai-24pp)
-- [Microsoft Bookings vs Calendly: Which One Should You Train Your Team On?](https://dev.to/muhammad_sharifulhoque_0/microsoft-bookings-vs-calendly-which-one-should-you-train-your-team-on-285b)
-- [The Architect&#39;s Symphony: Composing a Data Layer Beyond React Query and SWR](https://dev.to/alex_aslam/the-architects-symphony-composing-a-data-layer-beyond-react-query-and-swr-5cgf)
-- [Cross-Chain Account Abstraction Gets a Privacy Upgrade](https://dev.to/savvysid/cross-chain-account-abstraction-gets-a-privacy-upgrade-2od1)
-- [Security news weekly round-up - 29th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-29th-august-2025-1f3m)
+- [&quot;A Beginner’s Guide to Python Functions with Real Examples&quot;](https://dev.to/menocode/a-beginners-guide-to-python-functions-with-real-examples-45ef)
+- [GameSpot: 28 Minutes of Phantom Blade 0 Gameplay &lpar;Gamescom 2025 Demo&rpar;](https://dev.to/gg_news/gamespot-28-minutes-of-phantom-blade-0-gameplay-gamescom-2025-demo-1jfd)
+- [GameSpot: Honkai: Nexus Anima - Nexus Bond Teaser Trailer | Side by Side](https://dev.to/gg_news/gamespot-honkai-nexus-anima-nexus-bond-teaser-trailer-side-by-side-3di4)
+- [IGN: Lost Soul Aside: First 26 Minutes of PS5 Pro Gameplay | 4K 60fps](https://dev.to/gg_news/ign-lost-soul-aside-first-26-minutes-of-ps5-pro-gameplay-4k-60fps-3e71)
+- [IGN: Yooka-Replaylee - Official Release Date Trailer | The MIX Fall Game Showcase 2025](https://dev.to/gg_news/ign-yooka-replaylee-official-release-date-trailer-the-mix-fall-game-showcase-2025-4laf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
