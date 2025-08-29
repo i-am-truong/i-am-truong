@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tu LLM es tu nuevo Dev Junior. Escríbele Tickets Perfectos con esta Estructura](https://dev.to/zenx5/tu-llm-es-tu-nuevo-dev-junior-escribele-tickets-perfectos-con-esta-estructura-2fcn)
-- [Checking Netflix genre codes 2.0](https://dev.to/xwero/checking-netflix-genre-codes-20-1a56)
-- [Exam Guide : GitHub Foundation Part 1](https://dev.to/luffy7258/exam-guide-github-foundation-part-1-3hgp)
-- [SQL was fine… until it wasn’t. Why we went NoSQL and never looked back](https://dev.to/dev_tips/sql-was-fine-until-it-wasnt-why-we-went-nosql-and-never-looked-back-46le)
-- [🏁 From Code to Cloud: My DevOps + DevSecOps Journey &lpar;Part 4/4 - The Reflection and Possible Routes&rpar;](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-5ehd)
+- [Nvidia’s nvl72 is insane but who can actually use it?](https://dev.to/dev_tips/nvidias-nvl72-is-insane-but-who-can-actually-use-it-4fl5)
+- [🌍 Understanding JavaScript Scopes &amp; Closures — Made Simple](https://dev.to/usama_dev/understanding-javascript-scopes-closures-made-simple-38dh)
+- [Building Ahead: a multi-tool AI Travel Agent with OpenAI + SerpApi](https://dev.to/james_collins/building-ahead-a-multi-tool-ai-travel-agent-with-openai-serpapi-1ce4)
+- [How Advanced File Delivery with Webpack Optimizes Web App Performance](https://dev.to/ideradevtools/how-advanced-file-delivery-with-webpack-optimizes-web-app-performance-1ka)
+- [How Jotai Atoms Are Transforming Our Front-End Architecture.](https://dev.to/giovanni786/how-jotai-atoms-are-transforming-our-front-end-architecture-42fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
