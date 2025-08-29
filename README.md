@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spec-Driven Development: Stop &quot;Vibe Coding&quot; and Start Building Software That Actually Makes Sense](https://dev.to/yijohnhuang/spec-driven-development-stop-vibe-coding-and-start-building-software-that-actually-makes-sense-3h1d)
-- [BlackRock just became the world&#39;s biggest known Bitcoin holder](https://dev.to/the_ledger/blackrock-just-became-the-worlds-biggest-known-bitcoin-holder-3f5h)
-- [Bitcoin Whale Abruptly Wakes Up After Lying Low for Seven Years, Gobbles Up Ethereum After Dumping $337,000,000 in BTC](https://dev.to/the_ledger/bitcoin-whale-abruptly-wakes-up-after-lying-low-for-seven-years-gobbles-up-ethereum-after-dumping-4839)
-- [&lpar;Part 8&rpar; Build a Simple Chat Character Gallery: Integrating Chat API](https://dev.to/jte0711/part-8-build-a-simple-chat-character-gallery-integrating-chat-api-1bk3)
-- [5 Bahasa Pemrograman Terbaik Untuk Pemula di 2024 &lpar;Wajib Coba!&rpar;](https://dev.to/muhamad_dodifahrirozani/5-bahasa-pemrograman-terbaik-untuk-pemula-di-2024-wajib-coba-3mgm)
+- [write once publish anywhere](https://dev.to/pravin_niceguy/write-once-publish-anywhere-b5e)
+- [Just launched a free tennis video analysis tool – would love feedback!](https://dev.to/arun_mariappan_4d7dbc6792/just-launched-a-free-tennis-video-analysis-tool-would-love-feedback-4oga)
+- [Does anyone want to form a hobby opensource project group for beginners in C# with me?](https://dev.to/ripetide1229/does-anyone-want-to-form-a-hobby-opensource-project-group-for-beginners-in-c-with-me-2jmp)
+- [Angular Migrate To New Control Flow Syntax](https://dev.to/nagarlalit/angular-migrate-to-new-control-flow-syntax-421n)
+- [From Side Project to Full-Fledged Platform: Lessons from Building Modeldraw](https://dev.to/martin-staufcik/from-side-project-to-full-fledged-platform-lessons-from-building-modeldraw-1ep1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
