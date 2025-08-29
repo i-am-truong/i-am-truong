@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 1](https://dev.to/_adii3107/day-1-1fig)
-- [Reviewing FinalRoundAI: My First Experience with the AI Interview Copilot](https://dev.to/highcenburg/reviewing-finalroundai-my-first-experience-with-the-ai-interview-copilot-2j8g)
-- [LogIn Form](https://dev.to/prashant_ji_3c7da70b425a9/login-form-4flj)
-- [### Today’s Focus: Functions Functions in Python feel like tiny machines: - You give them an input. - They process it. - They return an output.](https://dev.to/_adii3107/-todays-focus-functions-functions-in-python-feel-like-tiny-machines-you-give-them-an-3hdh)
-- [Using Agents for Business Development](https://dev.to/andremoreira73/using-agents-for-business-development-51i6)
+- [🚀 How to Build, Tag, and Push Docker Images to a Private Repository](https://dev.to/rock_win_c053fa5fb2399067/how-to-build-tag-and-push-docker-images-to-a-private-repository-5a22)
+- [JWT Best Practices &amp; Pitfalls](https://dev.to/godofgeeks/jwt-best-practices-pitfalls-15a3)
+- [🚀 Containerizing Java Applications with Google Jib &lpar;No Dockerfile Needed&rpar;](https://dev.to/rock_win_c053fa5fb2399067/containerizing-java-applications-with-google-jib-no-dockerfile-needed-211j)
+- [From Postman to EchoAPI: The New API Debugging Skills Interviewers Value](https://dev.to/eleanor_fairfax_5ce95399d/from-postman-to-echoapi-the-new-api-debugging-skills-interviewers-value-58lb)
+- [I Built a Frameless YouTube Alternative That Actually Doesn&#39;t Suck 🎬](https://dev.to/liu-purnomo/i-built-a-frameless-youtube-alternative-that-actually-doesnt-suck-2018)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
