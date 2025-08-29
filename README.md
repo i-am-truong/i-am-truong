@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🗓 Daily LeetCode Progress – Day 13](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-13-a6o)
-- [How do small teams catch bugs in CI/CD?](https://dev.to/maxify_55555/how-do-small-teams-catch-bugs-in-cicd-fh5)
-- [Production Ready VPS in Minutes](https://dev.to/infms/production-ready-vps-in-minutes-34mn)
-- [How I Built an Image Generation MCP Server with Gemini 2.5 Flash Image &lpar;aka nano-banana&rpar;](https://dev.to/shinpr/how-i-built-an-image-generation-mcp-server-with-gemini-25-flash-image-aka-nano-banana-17aa)
-- [Your Job Finder Companion](https://dev.to/depapp/your-job-finder-companion-fpi)
+- [Why Serverless is the Secret Weapon Every SaaS Founder Wishes They Knew About Sooner](https://dev.to/saifiimuhammad/why-serverless-is-the-secret-weapon-every-saas-founder-wishes-they-knew-about-sooner-578c)
+- [Super Apps Under Scrutiny: Regulatory and Risk Challenges](https://dev.to/foxdata/super-apps-under-scrutiny-regulatory-and-risk-challenges-4m8n)
+- [Solving the Classic Two Sum Problem &lpar;FAANG-Style&rpar;](https://dev.to/khouloudzaiter/solving-the-classic-two-sum-problem-faang-style-4kd5)
+- [How I Built a Free Shopify Products Scraper Using ElectronJS](https://dev.to/startupnoon/how-i-built-a-free-shopify-products-scraper-using-electronjs-p3m)
+- [Demystifying Promises, Async, and Await in JavaScript/TypeScript with Playwright and Cypress](https://dev.to/anirseven/demystifying-promises-async-and-await-in-javascripttypescript-with-playwright-and-cypress-2g3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
