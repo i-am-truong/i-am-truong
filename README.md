@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Centralized Error Handling in Go &lpar;Like Laravel&rpar;](https://dev.to/hrrydgls/centralized-error-handling-in-go-like-laravel-8je)
-- [Emerging Trends in Personal Branding for Developers: How to Stand Out in Tech Today](https://dev.to/okoye_ndidiamaka_5e3b7d30/emerging-trends-in-personal-branding-for-developers-how-to-stand-out-in-tech-today-8g3)
-- [The Code That Remembers: A Manifesto for Architectural-Oriented Commenting &lpar;AOK&rpar;](https://dev.to/evpolov/the-code-that-remembers-a-manifesto-for-architectural-oriented-commenting-aok-m0)
-- [Breaking &amp; Securing the Web: An HTTP Credential Sniffer and Analyzer Project](https://dev.to/samueladeduntan/breaking-securing-the-web-an-http-credential-sniffer-and-analyzer-project-1n97)
-- [My 2025 Milestone #2: Achieved Microsoft Certified Azure Solutions Architect Expert!](https://dev.to/auyeungdavid_2847435260/my-2025-milestone-2-achieved-microsoft-certified-azure-solutions-architect-expert-4531)
+- [MY SUMMER INTERNSHIP](https://dev.to/aditya_patel_b7274d71f7c6/my-summer-internship-12h2)
+- [My First Webapp - AI written](https://dev.to/pravin_niceguy/my-first-webapp-ai-written-5ln)
+- [Beyond the Chatbot: How We Scaled an AI Agent to Handle 5X Traffic on AWS](https://dev.to/binyam/beyond-the-chatbot-how-we-scaled-an-ai-agent-to-handle-5x-traffic-on-aws-1eme)
+- [How to Provide Light and Dark Theme Color Variants in PWA](https://dev.to/fedtti/how-to-provide-light-and-dark-theme-color-variants-in-pwa-1mml)
+- [Code is Dead. Long Live Context! Introducing AOKL — The Lingua Franca for the Human+AI Development Era](https://dev.to/evpolov/code-is-dead-long-live-context-introducing-aokl-the-lingua-franca-for-the-humanai-development-2g46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
