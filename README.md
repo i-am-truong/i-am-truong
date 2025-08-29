@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [The Day I Flooded the Blackboard](https://dev.to/thestudentstories/the-day-i-flooded-the-blackboard-1mm5)
 - [AI Models: Small vs. Large - Choosing the Right Scale for ROI](https://dev.to/ksr007/ai-models-small-vs-large-choosing-the-right-scale-for-roi-2kdo)
 - [Build Your Own Low-Cost Cloud Backup with Hetzner Storage Boxes](https://dev.to/devasservice/build-your-own-low-cost-cloud-backup-with-hetzner-storage-boxes-486h)
-- [Bluesky Beats X Every Time: Why the Decentralized Underdog Is Taking Over](https://dev.to/alifar/bluesky-beats-x-every-time-why-the-decentralized-underdog-is-taking-over-494a)
+- [Catturd Twitter Explained: Anonymity, Influence, and the Politics of Virality](https://dev.to/david_wenham/catturd-twitter-explained-anonymity-influence-and-the-politics-of-virality-5ck4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
