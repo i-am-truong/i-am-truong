@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Accessing &amp; Modifying Object Properties in JavaScript: A Complete Guide](https://dev.to/wisdomudo/accessing-modifying-object-properties-in-javascript-a-complete-guide-43ig)
-- [Optimizing technical documentations for LLMs](https://dev.to/joshtom/optimizing-technical-documentations-for-llms-4bcd)
-- [Easily Deploy Datadog AWS Integration with Terraform and CloudFormation](https://dev.to/durrello/easily-deploy-datadog-aws-integration-with-terraform-and-cloudformation-41jk)
-- [&quot;A Beginner’s Guide to Python Functions with Real Examples&quot;](https://dev.to/menocode/a-beginners-guide-to-python-functions-with-real-examples-45ef)
-- [GameSpot: 28 Minutes of Phantom Blade 0 Gameplay &lpar;Gamescom 2025 Demo&rpar;](https://dev.to/gg_news/gamespot-28-minutes-of-phantom-blade-0-gameplay-gamescom-2025-demo-1jfd)
+- [Como me certifique como Vue.js Senior Developer y recomendaciones](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-4ijj)
+- [Como me certifique como Vue.js Senior Developer y recomendaciones](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-45d7)
+- [Hands-On with AWS: Building and Securing a 3-Tier Web App](https://dev.to/ajithmanmu/hands-on-with-aws-building-and-securing-a-3-tier-web-app-1fjb)
+- [Deconstructing gin.Context: More Than Just a Context](https://dev.to/leapcell/deconstructing-gincontext-more-than-just-a-context-4nd0)
+- [Daily DSA and System Design Journal - 2](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-2-52c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
