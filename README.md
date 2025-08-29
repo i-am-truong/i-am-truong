@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Python Modules](https://dev.to/intersystems/introduction-to-python-modules-402h)
+- [Top 3 Web Security Vulnerabilities Every Developer Should Understand](https://dev.to/michael-gokey/top-3-web-security-vulnerabilities-every-developer-should-understand-46hf)
+- [Introduction to Python Dunder Methods](https://dev.to/intersystems/introduction-to-python-dunder-methods-57jm)
 - [I Built a Vanilla JS PWA: My Age &amp; Duration Calculator Project](https://dev.to/mamedul_islam/i-built-a-vanilla-js-pwa-my-age-duration-calculator-project-mf4)
 - [Why do we need coding rules or conventions, anyway?](https://dev.to/intersystems/why-do-we-need-coding-rules-or-conventions-anyway-2h18)
-- [Inspiring amateurism, or a couple of success lessons from random podcast episodes](https://dev.to/fyodorio/inspiring-amateurism-or-a-couple-of-success-lessons-from-random-podcast-episodes-1p6k)
-- [Testing!!](https://dev.to/ben/testing-1kd1)
-- [This is another test](https://dev.to/ben/this-is-another-test-3l0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
