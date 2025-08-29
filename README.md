@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Task:Implement end-to-end system integration](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-end-to-end-system-integration-1559)
-- [Snipper – A Lightweight Snipping Tool Alternative for Windows](https://dev.to/hackernewbie/snipper-a-lightweight-snipping-tool-alternative-for-windows-2hcb)
-- [Subnet Masks Made Simple: How Networks Identify Who’s “Local”](https://dev.to/naval_kishorupadhyay_3e9/subnet-masks-made-simple-how-networks-identify-whos-local-41e8)
-- [Why is DDR4 RAM Increasing in Price?](https://dev.to/blogger_shree_844e6eb4b36/why-is-ddr4-ram-increasing-in-price-41id)
-- [IPSec VPN, WireGuard and other methods of secure connection to the data center](https://dev.to/vilengyltd/ipsec-vpn-wireguard-and-other-methods-of-secure-connection-to-the-data-center-ap5)
+- [Breaking &amp; Securing the Web: An HTTP Credential Sniffer and Analyzer Project](https://dev.to/samueladeduntan/breaking-securing-the-web-an-http-credential-sniffer-and-analyzer-project-1n97)
+- [My 2025 Milestone #2: Achieved Microsoft Certified Azure Solutions Architect Expert!](https://dev.to/auyeungdavid_2847435260/my-2025-milestone-2-achieved-microsoft-certified-azure-solutions-architect-expert-4531)
+- [Scaling Your Project: A Developer’s Blueprint](https://dev.to/zak_evron0ec578a1/scaling-your-project-a-developers-blueprint-17b7)
+- [SEMANTIC HTML:THE TECHNICAL KEY TO BETTER SEO AND ACCESSIBILITY](https://dev.to/vincent_ngatia_325fa6f9f8/semantic-htmlthe-technical-key-to-better-seo-and-accessibility-5cpi)
+- [Sarpoh.app – A Privacy-First PWA for Virtual Gifting &amp; Anonymous Messaging](https://dev.to/waiphyo285/sarpohapp-a-privacy-first-pwa-for-virtual-gifting-anonymous-messaging-2h9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
