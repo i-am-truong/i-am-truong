@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Solved AI&#39;s Inconsistent Code Problem](https://dev.to/utabadevmonkey/how-i-solved-ais-inconsistent-code-problem-37he)
-- [Filling the Memory Gap: Building MCPMem to Fix AI Assistant Forgetfulness](https://dev.to/designly/filling-the-memory-gap-building-mcpmem-to-fix-ai-assistant-forgetfulness-1h18)
-- [How a Bottleneck, YouTube Video and C# Channels Led to a 3x Faster .NET Backup Tool](https://dev.to/stewartcelani/how-a-bottleneck-youtube-video-and-c-channels-led-to-a-3x-faster-net-backup-tool-3713)
-- [Unblocking Halo Uploads with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/unblocking-halo-uploads-with-safeline-waf-4mam)
-- [Escaping Your Java Habits in Python: Writing Clean, Pythonic Code](https://dev.to/aaronsteers/escaping-your-java-habits-in-python-writing-clean-pythonic-code-2en)
+- [Tech Heroes #10: Eric S. Raymond](https://dev.to/tkouleris/tech-heroes-10-eric-s-raymond-59di)
+- [Part-33: ⚡Configuring VM with Local SSD in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-33-configuring-vm-with-local-ssd-in-google-cloud-platform-gcp-4lj)
+- [How to Create Histograms in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/how-to-create-histograms-in-r-3hbk)
+- [Creating a Review Analyser Using the Vercel AI SDK and React 19](https://dev.to/carlrippon/creating-a-review-analyser-using-the-vercel-ai-sdk-and-react-19-cg8)
+- [Installation and Configuration of PostgreSQL 16 Barman on Ubuntu 24.04 LTS #postgresql #barman #backup #pitr #opensource](https://dev.to/chittrmahto/installation-and-configuration-of-postgresql-16-barman-on-ubuntu-2404-lts-postgresql-barman-19oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
