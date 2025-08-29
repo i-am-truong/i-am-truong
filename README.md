@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Centralized Error Handling in Go &lpar;Like Laravel&rpar;](https://dev.to/hrrydgls/centralized-error-handling-in-go-like-laravel-8je)
+- [Emerging Trends in Personal Branding for Developers: How to Stand Out in Tech Today](https://dev.to/okoye_ndidiamaka_5e3b7d30/emerging-trends-in-personal-branding-for-developers-how-to-stand-out-in-tech-today-8g3)
+- [The Code That Remembers: A Manifesto for Architectural-Oriented Commenting &lpar;AOK&rpar;](https://dev.to/evpolov/the-code-that-remembers-a-manifesto-for-architectural-oriented-commenting-aok-m0)
 - [Breaking &amp; Securing the Web: An HTTP Credential Sniffer and Analyzer Project](https://dev.to/samueladeduntan/breaking-securing-the-web-an-http-credential-sniffer-and-analyzer-project-1n97)
 - [My 2025 Milestone #2: Achieved Microsoft Certified Azure Solutions Architect Expert!](https://dev.to/auyeungdavid_2847435260/my-2025-milestone-2-achieved-microsoft-certified-azure-solutions-architect-expert-4531)
-- [Scaling Your Project: A Developer’s Blueprint](https://dev.to/zak_evron0ec578a1/scaling-your-project-a-developers-blueprint-17b7)
-- [SEMANTIC HTML:THE TECHNICAL KEY TO BETTER SEO AND ACCESSIBILITY](https://dev.to/vincent_ngatia_325fa6f9f8/semantic-htmlthe-technical-key-to-better-seo-and-accessibility-5cpi)
-- [Sarpoh.app – A Privacy-First PWA for Virtual Gifting &amp; Anonymous Messaging](https://dev.to/waiphyo285/sarpohapp-a-privacy-first-pwa-for-virtual-gifting-anonymous-messaging-2h9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
