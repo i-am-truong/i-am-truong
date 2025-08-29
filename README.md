@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setup Simple VPS &lpar;RedHat Base&rpar; + Docker + Cloudflare SSL/Domain: Production Ready](https://dev.to/naandan/setup-simple-vps-redhat-base-docker-cloudflare-ssldomain-production-ready-3gmf)
-- [The Day I Flooded the Blackboard](https://dev.to/thestudentstories/the-day-i-flooded-the-blackboard-1mm5)
-- [AI Models: Small vs. Large - Choosing the Right Scale for ROI](https://dev.to/ksr007/ai-models-small-vs-large-choosing-the-right-scale-for-roi-2kdo)
-- [Build Your Own Low-Cost Cloud Backup with Hetzner Storage Boxes](https://dev.to/devasservice/build-your-own-low-cost-cloud-backup-with-hetzner-storage-boxes-486h)
-- [Catturd Twitter Explained: Anonymity, Influence, and the Politics of Virality](https://dev.to/david_wenham/catturd-twitter-explained-anonymity-influence-and-the-politics-of-virality-5ck4)
+- [Platform Engineering for the uninitiated](https://dev.to/chiranjib_b/platform-engineering-for-the-uninitiated-1ifo)
+- [The Unspoken Rules of Being a Developer &lpar;A Survival Guide&rpar;](https://dev.to/trojanmocx/the-unspoken-rules-of-being-a-developer-a-survival-guide-1aj2)
+- [Comprehensive Guide to Dua e Istikhara: Method, Benefits, and Modern Applications](https://dev.to/chipra_chipra_baf59390ad2/comprehensive-guide-to-dua-e-istikhara-method-benefits-and-modern-applications-fne)
+- [How to Build Your First SaaS with Next.js, TypeScript, and Stripe](https://dev.to/code_2/how-to-build-your-first-saas-with-nextjs-typescript-and-stripe-2d2j)
+- [Master System Design for Scalable Apps](https://dev.to/nakum_dipak_8b477be370892/master-system-design-for-scalable-apps-58c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
