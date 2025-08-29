@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Igniting a React App with Parcel and npm](https://dev.to/abhishek-nexgen-dev/igniting-a-react-app-with-parcel-and-npm-1b85)
+- [From prompt to physics: Google’s Genie 3 just changed AI gaming forever](https://dev.to/dev_tips/from-prompt-to-physics-googles-genie-3-just-changed-ai-gaming-forever-19f0)
+- [EIS: A Tiny, Framework-Agnostic State Store for the Web](https://dev.to/taujor/eis-a-tiny-framework-agnostic-state-store-for-the-web-13oh)
 - [Storybook 101: How to Supercharge Your Front-End with Component Previews 📖](https://dev.to/tahamjp/storybook-101-how-to-supercharge-your-front-end-with-component-previews-mho)
 - [Building a Scalable Telco CDR Processing Pipeline with Databricks Delta Live Tables - Part 1 [Databricks Free Edition]](https://dev.to/sienkiewicz_pat/building-a-scalable-telco-cdr-processing-pipeline-with-databricks-delta-live-tables-part-1-1gmf)
-- [⚙️ From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-18ca)
-- [How to Securely Connect to Medusa.js Production Database on AWS?](https://dev.to/u11d/how-to-securely-connect-to-medusajs-production-database-on-aws-5efh)
-- [Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler](https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
