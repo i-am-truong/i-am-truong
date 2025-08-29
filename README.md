@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Story-Coding: Metaphor as Cognition](https://dev.to/ant_smith_e85a60e94fded6b/story-coding-metaphor-as-cognition-5ed9)
+- [Beyond Token Limits: Persistent AI Memory with the Model Context Protocol](https://dev.to/om_shree_0709/beyond-token-limits-persistent-ai-memory-with-the-model-context-protocol-49jm)
+- [Hi everyone. I have a Markdown draft which has a link to an image. I can see the image when I view it, but when I click &quot;Edit&quot; I don&#39;t see any markdown for the image or the text surrounding it. Is this a glitch or am I missing something?](https://dev.to/codebykeoma/hi-everyone-i-have-a-markdown-draft-which-has-a-link-to-an-image-i-can-see-the-image-when-i-view-1c9p)
 - [Coolify is the best thing for Homelabs since Fiber](https://dev.to/lukehagar/coolify-is-the-best-thing-for-homelabs-since-fiber-1kb5)
 - [Linkedin Growth Radar AI Agents](https://dev.to/mathieu_vie_3a2e72c4ab276/linkedin-growth-radar-ai-agents-3hfk)
-- [Internet of Bodies &lpar;IoB&rpar;](https://dev.to/lucaspereiradesouzat/internet-of-bodies-iob-399c)
-- [Unlocking Intelligent Data Access with Microsoft Fabric Data Agent](https://dev.to/milan_parikh_f9c399697690/unlocking-intelligent-data-access-with-microsoft-fabric-data-agent-3ke3)
-- [Programming in 2030: will devs still code, or just babysit AI?](https://dev.to/dev_tips/programming-in-2030-will-devs-still-code-or-just-babysit-ai-51ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
