@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Crafting the Future of Interior Design: The Development Journey of Art Decor&#39;s Digital Presence](https://dev.to/emory_farris/crafting-the-future-of-interior-design-the-development-journey-of-art-decors-digital-presence-2m59)
-- [How I Ship SaaS Ideas in 8 Hours Instead of 8 Months](https://dev.to/ritesh_hiremath_eb6abb681/how-i-ship-saas-ideas-in-8-hours-instead-of-8-months-2095)
-- [GISBox: An open source tool that breaks the boundaries of geographic information processing](https://dev.to/gisbox_en/gisbox-an-open-source-tool-that-breaks-the-boundaries-of-geographic-information-processing-5d7f)
-- [একজন ডেভেলপারের চোখে কিছু সমস্যা আর সমাধান](https://dev.to/noor_shahbaj/ekjn-ddebhelpaarer-cokhe-kichu-smsyaa-aar-smaadhaan-5041)
-- [How I Ship SaaS Ideas in 8 Hours Instead of 8 Months &lpar;And Why Speed Is The Only Edge Left&rpar;](https://dev.to/ritesh_hiremath_eb6abb681/how-i-ship-saas-ideas-in-8-hours-instead-of-8-months-and-why-speed-is-the-only-edge-left-a4e)
+- [What is GitHub Actions? A Beginner-Friendly Guide with Examples](https://dev.to/a-k-0047/what-is-github-actions-a-beginner-friendly-guide-with-examples-me)
+- [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-4kd1)
+- [IGN: Honkai: Nexus Anima - Official &#39;Side by Side&#39; Teaser Trailer](https://dev.to/gg_news/ign-honkai-nexus-anima-official-side-by-side-teaser-trailer-1o22)
+- [Saving Plans e Instancias Reservadas en AWS](https://dev.to/barbara_gaspar/saving-plans-e-instancias-reservadas-en-aws-4jef)
+- [Introducing ConnectOnion: The Simplest Way to Build AI Agents with Python Functions](https://dev.to/dongi/introducing-connectonion-the-simplest-way-to-build-ai-agents-with-python-functions-39f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
