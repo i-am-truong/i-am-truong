@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps Tutorial for Beginners](https://dev.to/goodluck_ekeoma_2c98866d0/azure-devops-tutorial-for-beginners-493n)
+- [Building Chrome Dinosaur Game in Pygame &lpar;Part 3: Running Dino&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-3-running-dino-2ekn)
 - [A new tool to manage your i18n locale files](https://dev.to/alexis_clarembeau_8c3c0e2/a-new-tool-to-manage-your-i18n-locale-files-2cam)
 - [Think You’re Secure? Penetration Testing Will Tell You the Truth](https://dev.to/addwebsolutionpvtltd/think-youre-secure-penetration-testing-will-tell-you-the-truth-105n)
 - [Cold Starts in Serverless: The Silent Performance Killer](https://dev.to/dct_technology/cold-starts-in-serverless-the-silent-performance-killer-56fk)
-- [🔥History Made: The First Blockchain by Someone Under 18](https://dev.to/arya_empire_2555fe746ce2a/history-made-the-first-blockchain-by-someone-under-18-gnc)
-- [Tackling the API Integration Maze](https://dev.to/noor_shahbaj/tackling-the-api-integration-maze-jfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
