@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Accessing &amp; Modifying Object Properties in JavaScript: A Complete Guide](https://dev.to/wisdomudo/accessing-modifying-object-properties-in-javascript-a-complete-guide-43ig)
+- [Optimizing technical documentations for LLMs](https://dev.to/joshtom/optimizing-technical-documentations-for-llms-4bcd)
+- [Easily Deploy Datadog AWS Integration with Terraform and CloudFormation](https://dev.to/durrello/easily-deploy-datadog-aws-integration-with-terraform-and-cloudformation-41jk)
 - [&quot;A Beginner’s Guide to Python Functions with Real Examples&quot;](https://dev.to/menocode/a-beginners-guide-to-python-functions-with-real-examples-45ef)
 - [GameSpot: 28 Minutes of Phantom Blade 0 Gameplay &lpar;Gamescom 2025 Demo&rpar;](https://dev.to/gg_news/gamespot-28-minutes-of-phantom-blade-0-gameplay-gamescom-2025-demo-1jfd)
-- [GameSpot: Honkai: Nexus Anima - Nexus Bond Teaser Trailer | Side by Side](https://dev.to/gg_news/gamespot-honkai-nexus-anima-nexus-bond-teaser-trailer-side-by-side-3di4)
-- [IGN: Lost Soul Aside: First 26 Minutes of PS5 Pro Gameplay | 4K 60fps](https://dev.to/gg_news/ign-lost-soul-aside-first-26-minutes-of-ps5-pro-gameplay-4k-60fps-3e71)
-- [IGN: Yooka-Replaylee - Official Release Date Trailer | The MIX Fall Game Showcase 2025](https://dev.to/gg_news/ign-yooka-replaylee-official-release-date-trailer-the-mix-fall-game-showcase-2025-4laf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
