@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Source is one person](https://dev.to/byteknight/open-source-is-one-person-22d6)
-- [Building a High-Performance Lock-Free Ring Buffer in C++ for Ultra-Low Latency Messaging](https://dev.to/lakshya_bankey_27825e4908/building-a-high-performance-lock-free-ring-buffer-in-c-for-ultra-low-latency-messaging-19h6)
-- [Build and Deploy a Free CMS-Powered Website &lpar;Next.js, Sanity, Netlify&rpar;](https://dev.to/arnaudrenaud/build-and-deploy-a-free-cms-powered-website-nextjs-sanity-netlify-43c0)
-- [My Third Year as a Developer Advocate: Talks, Tech, and Teaching](https://dev.to/c_yatteau/my-third-year-as-a-developer-advocate-talks-tech-and-teaching-39oa)
-- [Health is Wealth – Even for Developers](https://dev.to/dr_royocheremie_86b47d6/health-is-wealth-even-for-developers-712)
+- [I Built a Vanilla JS PWA: My Age &amp; Duration Calculator Project](https://dev.to/mamedul_islam/i-built-a-vanilla-js-pwa-my-age-duration-calculator-project-mf4)
+- [Why do we need coding rules or conventions, anyway?](https://dev.to/intersystems/why-do-we-need-coding-rules-or-conventions-anyway-2h18)
+- [Inspiring amateurism, or a couple of success lessons from random podcast episodes](https://dev.to/fyodorio/inspiring-amateurism-or-a-couple-of-success-lessons-from-random-podcast-episodes-1p6k)
+- [Testing!!](https://dev.to/ben/testing-1kd1)
+- [This is another test](https://dev.to/ben/this-is-another-test-3l0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
