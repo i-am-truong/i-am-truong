@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How to Build, Tag, and Push Docker Images to a Private Repository](https://dev.to/rock_win_c053fa5fb2399067/how-to-build-tag-and-push-docker-images-to-a-private-repository-5a22)
-- [JWT Best Practices &amp; Pitfalls](https://dev.to/godofgeeks/jwt-best-practices-pitfalls-15a3)
-- [🚀 Containerizing Java Applications with Google Jib &lpar;No Dockerfile Needed&rpar;](https://dev.to/rock_win_c053fa5fb2399067/containerizing-java-applications-with-google-jib-no-dockerfile-needed-211j)
-- [From Postman to EchoAPI: The New API Debugging Skills Interviewers Value](https://dev.to/eleanor_fairfax_5ce95399d/from-postman-to-echoapi-the-new-api-debugging-skills-interviewers-value-58lb)
-- [I Built a Frameless YouTube Alternative That Actually Doesn&#39;t Suck 🎬](https://dev.to/liu-purnomo/i-built-a-frameless-youtube-alternative-that-actually-doesnt-suck-2018)
+- [Why JavaScript Is the Best Programming Language in the World](https://dev.to/martinszeltins/why-javascript-is-the-best-programming-language-in-the-world-4062)
+- [JSON Prompting: Why Structured Communication with AI Gets Better Results](https://dev.to/furqanahmadrao/json-prompting-why-structured-communication-with-ai-gets-better-results-3dgn)
+- [How AI is Learning the Language of Your Data.](https://dev.to/dbinsights_7d6d82129280e4/how-ai-is-learning-the-language-of-your-data-38ld)
+- [Basic mistakes to avoid when setting up WordPress](https://dev.to/elliemiguel/basic-mistakes-to-avoid-when-setting-up-wordpress-4oca)
+- [🚀 Building Container Images with Spring Boot Buildpacks &lpar;No Dockerfile, No Jib&rpar;](https://dev.to/rock_win_c053fa5fb2399067/building-container-images-with-spring-boot-buildpacks-no-dockerfile-no-jib-2c6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
