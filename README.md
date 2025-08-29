@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to RDS Backup and Restore on AWS](https://dev.to/prince_dumuhere_1f9367af5/a-beginners-guide-to-rds-backup-and-restore-on-aws-4cgd)
+- [Understanding Message Queues: A Guide for Developers day 40 of system design basics](https://dev.to/vincenttommi/understanding-message-queues-a-guide-for-developers-day-40-of-system-design-basics-3b09)
+- [Kotlin Variables: Understanding var vs val - A Beginner&#39;s Guide to Android Development](https://dev.to/daniel_ibisagba_a7f613909/kotlin-variables-understanding-var-vs-val-a-beginners-guide-to-android-development-3mo6)
+- [Using MCP Server to Supercharge Playwright Automation](https://dev.to/anirseven/using-mcp-server-to-supercharge-playwright-automation-5hk3)
 - [How to Set Up SSH for GitHub on Linux: A Step-by-Step Guide](https://dev.to/taujor/how-to-set-up-ssh-for-github-on-linux-a-step-by-step-guide-1jmh)
-- [Pepsi Bezel Watches: Complete Guide to Rolex, Seiko &amp; More](https://dev.to/xue_cai/pepsi-bezel-watches-complete-guide-to-rolex-seiko-more-1occ)
-- [A Technical Deep Dive: Investigating Exchange Exploits and Lateral Movement in Splunk](https://dev.to/samueladeduntan/a-technical-deep-dive-investigating-exchange-exploits-and-lateral-movement-in-splunk-1gh1)
-- [12 Chrome Extensions You’ll Actually Use](https://dev.to/sharmamanish/12-chrome-extensions-youll-actually-use-3hon)
-- [Wispr Flow + Claude Transforms Content Creation](https://dev.to/robmarshall/wispr-flow-claude-transforms-content-creation-787)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
