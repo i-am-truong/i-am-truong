@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why JavaScript Is the Best Programming Language in the World](https://dev.to/martinszeltins/why-javascript-is-the-best-programming-language-in-the-world-4062)
-- [JSON Prompting: Why Structured Communication with AI Gets Better Results](https://dev.to/furqanahmadrao/json-prompting-why-structured-communication-with-ai-gets-better-results-3dgn)
-- [How AI is Learning the Language of Your Data.](https://dev.to/dbinsights_7d6d82129280e4/how-ai-is-learning-the-language-of-your-data-38ld)
-- [Basic mistakes to avoid when setting up WordPress](https://dev.to/elliemiguel/basic-mistakes-to-avoid-when-setting-up-wordpress-4oca)
-- [🚀 Building Container Images with Spring Boot Buildpacks &lpar;No Dockerfile, No Jib&rpar;](https://dev.to/rock_win_c053fa5fb2399067/building-container-images-with-spring-boot-buildpacks-no-dockerfile-no-jib-2c6o)
+- [Setup Simple VPS &lpar;RedHat Base&rpar; + Docker + Cloudflare SSL/Domain: Production Ready](https://dev.to/naandan/setup-simple-vps-redhat-base-docker-cloudflare-ssldomain-production-ready-3gmf)
+- [The Day I Flooded the Blackboard](https://dev.to/thestudentstories/the-day-i-flooded-the-blackboard-1mm5)
+- [AI Models: Small vs. Large - Choosing the Right Scale for ROI](https://dev.to/ksr007/ai-models-small-vs-large-choosing-the-right-scale-for-roi-2kdo)
+- [Build Your Own Low-Cost Cloud Backup with Hetzner Storage Boxes](https://dev.to/devasservice/build-your-own-low-cost-cloud-backup-with-hetzner-storage-boxes-486h)
+- [Bluesky Beats X Every Time: Why the Decentralized Underdog Is Taking Over](https://dev.to/alifar/bluesky-beats-x-every-time-why-the-decentralized-underdog-is-taking-over-494a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
