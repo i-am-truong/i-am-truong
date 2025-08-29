@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Mei Semones - Tora Moyo | A COLORS SHOW](https://dev.to/music_youtube/colors-mei-semones-tora-moyo-a-colors-show-pmf)
-- [IGN: Metal Gear Solid Delta - Where to Find the Thermal Goggles &lpar;All Locations&rpar;](https://dev.to/gg_news/ign-metal-gear-solid-delta-where-to-find-the-thermal-goggles-all-locations-1l1f)
-- [Shared States in React Have Never Been Easier ;&rpar;](https://dev.to/hichemtab-tech/shared-states-in-react-have-never-been-easier--2m6p)
-- [Build a Context-Retaining Chatbot with Langchain-Python](https://dev.to/tapobanray/build-a-context-retaining-chatbot-with-langchain-python-6k7)
-- [Why Signal to Noise Ratio Matters When Building Audio Features on the Web](https://dev.to/rijultp/why-signal-to-noise-ratio-matters-when-building-audio-features-on-the-web-3oi7)
+- [Learn FastAPI the Interactive Way — A Hands-On Tutorial Platform](https://dev.to/stamigos/learn-fastapi-the-interactive-way-a-hands-on-tutorial-platform-lnn)
+- [Create robust CLI apps with Bashly](https://dev.to/meleu/create-robust-cli-apps-with-bashly-5gb0)
+- [Turn Any Bluetooth Speaker into an AirPlay Speaker with Shairport Sync](https://dev.to/henrylim96/turn-any-bluetooth-speaker-into-an-airplay-speaker-with-shairport-sync-177j)
+- [How I Attached and Mounted an EBS Volume to My Ubuntu EC2 Instance: A Step-by-Step Guide](https://dev.to/oluwwatunmise/how-i-attached-and-mounted-an-ebs-volume-to-my-ubuntu-ec2-instance-a-step-by-step-guide-1b87)
+- [The true cost of Fargate vs 10,000 managed CI minutes](https://dev.to/solo474/the-true-cost-of-fargate-vs-10000-managed-ci-minutes-2fnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
