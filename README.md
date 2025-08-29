@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `70`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-70-3o1m)
+- [How To Use LLMs: Retrieval-Augmented Generation &lpar;RAG Systems&rpar;](https://dev.to/dinakajoy/how-to-use-llms-retrieval-augmented-generation-rag-systems-2dmm)
+- [This is How I Automate the Tech Discovery Using LLMs](https://dev.to/hibuno/this-is-how-i-automate-the-tech-discovery-using-llms-4jfh)
+- [Classification in Machine Learning](https://dev.to/purityngugi/classification-in-machine-learning-206k)
 - [Don&#39;t Skip DSA: A Real-World Optimisation Win](https://dev.to/sidharthd/dont-skip-dsa-a-real-world-optimisation-win-46fl)
-- [Day-86 ArrayList vs LinkedList in java](https://dev.to/tamilselvan1812/day-86-arraylist-vs-linkedlist-in-java-43p7)
-- [Part-34: 🖥️ Google Compute Engine Instance Groups in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-34-google-compute-engine-instance-groups-in-google-cloud-platform-gcp-5fn)
-- [What’s your go-to stack for building quick prototypes?](https://dev.to/valentina_bruen_bf3a9d968/whats-your-go-to-stack-for-building-quick-prototypes-2638)
-- [From Code to Cloud: My DevOps + DevSecOps Journey &lpar;Part 1 – The Vision&rpar;](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-part-1-the-vision-3hoe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
