@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Electrical Impedance — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/electrical-impedance-an-engineers-practical-guide-2m68)
+- [This AI-Powered Sorting Algorithm Dynamically Picks the Best Strategy, Boosting Speed by 40%](https://dev.to/shrinivassab/this-ai-powered-sorting-algorithm-dynamically-picks-the-best-strategy-boosting-speed-by-40-3062)
 - [Why I Ditched Redis for Cloudflare Durable Objects in My Rate Limiter？](https://dev.to/horushe/why-i-ditched-redis-for-cloudflare-durable-objects-in-my-rate-limiter-jof)
 - [Are We Heading Toward the “AI-Native” Programming Era?](https://dev.to/sachin_chitre_644dd569bd8/are-we-heading-toward-the-ai-native-programming-era-28am)
 - [Why Did I Start Programming? &lpar;Personal Story&rpar;](https://dev.to/ibrohimbek-dev/why-did-i-start-programming-personal-story-4c2n)
-- [🔐 Hands-On with AWS IAM: Users, Groups, and Policies in Action](https://dev.to/chioma_nwosu_99d57862fb18/hands-on-with-aws-iam-users-groups-and-policies-in-action-ged)
-- [RAJAI](https://dev.to/raj_shah_2e9732e4c790df9a/rajai-50de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
