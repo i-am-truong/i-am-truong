@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PHP Session Security](https://dev.to/ahmedraza_fyntune/php-session-security-4c60)
-- [[Boost]](https://dev.to/sammyokun/-3hea)
-- [What If React Had NO useEffect?](https://dev.to/mohamad_msalme_38f2508ea2/what-if-react-had-no-useeffect-29p6)
-- [FlutterFlow: My Experience Launching an iOS App with FlutterFlow](https://dev.to/friendship_e3d5e249468fc3/flutterflow-my-experience-launching-an-ios-app-with-flutterflow-3e4k)
-- [🚀 Week 11 of My DevOps Journey: GitHub Actions CI/CD on AWS EC2](https://dev.to/azmatahmed/-week-11-of-my-devops-journey-github-actions-cicd-on-aws-ec2-4pj3)
+- [🛡️ Content Security Policy &lpar;CSP&rpar;: A Complete Guide for Developers](https://dev.to/fazal_mansuri_/content-security-policy-csp-a-complete-guide-for-developers-56lp)
+- [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
+- [AnyProxy: Redirect Network Requests Without Server Modifications](https://dev.to/youngluo/anyproxy-redirect-network-requests-without-server-modifications-8np)
+- [Retries, Dead Letter Queues &amp; Parking Lot: API Integration Essentials](https://dev.to/dakshim/retries-dead-letter-queues-parking-lot-api-integration-essentials-2g8d)
+- [Are We Reaching The Limit Of AI Reliability?](https://dev.to/stephanie_ozor_1e7b693226/are-we-reaching-the-limit-of-ai-reliability-58g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
