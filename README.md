@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Ditched Redis for Cloudflare Durable Objects in My Rate Limiter？](https://dev.to/horushe/why-i-ditched-redis-for-cloudflare-durable-objects-in-my-rate-limiter-jof)
+- [Are We Heading Toward the “AI-Native” Programming Era?](https://dev.to/sachin_chitre_644dd569bd8/are-we-heading-toward-the-ai-native-programming-era-28am)
+- [Why Did I Start Programming? &lpar;Personal Story&rpar;](https://dev.to/ibrohimbek-dev/why-did-i-start-programming-personal-story-4c2n)
 - [🔐 Hands-On with AWS IAM: Users, Groups, and Policies in Action](https://dev.to/chioma_nwosu_99d57862fb18/hands-on-with-aws-iam-users-groups-and-policies-in-action-ged)
 - [RAJAI](https://dev.to/raj_shah_2e9732e4c790df9a/rajai-50de)
-- [Day 17: Building Topology Visualization with AI-Assisted Health Monitoring](https://dev.to/clayroach/day-17-building-topology-visualization-with-ai-assisted-health-monitoring-55id)
-- [🧭 Master Roadmap to Problem Identification](https://dev.to/devcorner/master-roadmap-to-problem-identification-5c1)
-- [How to Identify Recursion Problems in Coding Interviews](https://dev.to/devcorner/how-to-identify-recursion-problems-in-coding-interviews-5d03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
