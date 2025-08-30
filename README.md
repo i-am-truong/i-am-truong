@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean MVC Architecture in Node.js Without Express - A Laravel Inspired Approach](https://dev.to/alamin_php/clean-mvc-architecture-in-nodejs-without-express-a-laravel-inspired-approach-2oig)
+- [🛠️ 7 Mistakes I Made Writing My First Spring Boot APIs &lpar;And What I Do Differently Now&rpar;](https://dev.to/ashishsaranshakya/7-mistakes-i-made-writing-my-first-spring-boot-apis-and-what-i-do-differently-now-287)
 - [I built a Backend web Framework from Scratch in C++](https://dev.to/hamzahassanain0/i-built-a-backend-web-framework-from-scratch-in-c-41n8)
 - [Day 19 - Github Card project Part 2 - Component Composition](https://dev.to/railsstudent/day-19-github-card-project-part-2-component-composition-o40)
 - [Semantic html for Search Engine Optimization&lpar;SEO&rpar; and Accessibility.](https://dev.to/rolystone_mocha_316478f2b/semantic-html-for-search-engine-optimizationseo-and-accessibility-1pgm)
-- [🔥Major Update !](https://dev.to/asad_rafi1221/major-update--25dc)
-- [A version control tutorial with jj: Submit and Perfect Your PR](https://dev.to/altariarite/a-version-control-workflow-with-jj-submit-and-perfect-your-pr-3l63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
