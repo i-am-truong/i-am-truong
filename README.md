@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding `@State` in SwiftUI: How It Works Under the Hood](https://dev.to/karthikpala/understanding-state-in-swiftui-how-it-works-under-the-hood-3l5o)
+- [From C# to Rust: Porting MathFlow to Create MathCore - A Symbolic Math Library Journey](https://dev.to/nonanti/from-c-to-rust-porting-mathflow-to-create-mathcore-a-symbolic-math-library-journey-23gi)
+- [vibe coders welcome](https://dev.to/lukehinds/vibe-coders-welcome-4cfp)
+- [Houses for Rent Auckland – A Guide for Tenants and Landlords](https://dev.to/hamza_ali_e5a3ccc85652d24/houses-for-rent-auckland-a-guide-for-tenants-and-landlords-25n8)
 - [🤖 Build Your First Fully Autonomous AI Agent - Free Workshop! 🚀](https://dev.to/lukehinds/build-any-agent-you-like-at-the-free-agentup-workshop-come-try-out-the-hottest-open-source-agent-3alg)
-- [Setting Up the ELK Stack on AWS EC2 for Log Monitoring](https://dev.to/vatul16/setting-up-the-elk-stack-on-aws-ec2-for-log-monitoring-1eme)
-- [Prisma Backup](https://dev.to/daxsoft/prisma-backup-24e3)
-- [How to Find a Job in Tech: Practical Advice for Navigating a Tough Market](https://dev.to/miasalazar/how-to-find-a-job-in-tech-practical-advice-for-navigating-a-tough-market-219h)
-- [Symfony as JWT provider](https://dev.to/browsely_a899a03e6654ba38/symfony-as-jwt-provider-28a4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
