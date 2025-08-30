@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Signs It&#39;s Time to Replace Your PC Instead of Upgrading to Windows 11](https://dev.to/theitserviceblog/5-signs-its-time-to-replace-your-pc-instead-of-upgrading-to-windows-11-3k53)
 - [why do developers leave coding today altogether ?](https://dev.to/bekbrace/why-do-developers-leave-coding-today-altogether--2f56)
 - [[Boost]](https://dev.to/bekbrace/-51m9)
-- [Agile Is Broken in Fintech—But Here’s How We Fixed It](https://dev.to/kizilcakartugce/agile-is-broken-in-fintech-but-heres-how-we-fixed-it-fc0)
-- [Building PNG28’s Mobile-First Affiliate Agent Onboarding &amp; Tracking Pipeline](https://dev.to/png_updates/building-png28s-mobile-first-affiliate-agent-onboarding-tracking-pipeline-1dm3)
-- [HTML](https://dev.to/jmwaniki003/html-4j1b)
+- [Compliance in the Cloud Isn’t a Checkbox](https://dev.to/myram/compliance-in-the-cloud-isnt-a-checkbox-29f2)
+- [just thinking, about a 64million color based, AI governed, assisted Operating System, in concept](https://dev.to/iblookn4u2/just-thinking-about-a-64million-color-based-ai-governed-assisted-operating-system-in-concept-24h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
