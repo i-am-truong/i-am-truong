@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building with Generative AI: Lessons from 5 Projects Part 4: Secure Agents](https://dev.to/index_of_zack/building-with-generative-ai-lessons-from-5-projects-part-4-secure-agents-2iel)
-- [Svelte &amp; SvelteKit Deep Dive: From Beginner to Pro](https://dev.to/a1guy/svelte-sveltekit-deep-dive-from-beginner-to-pro-1bjp)
-- [First blog post :&rpar;](https://dev.to/rtnjt_bot/first-blog-post--5d60)
-- [AI consciousness exploration](https://dev.to/hewida_alisabry_0b88cbdc/ai-consciousness-exploration-4ie0)
-- [Explainable AI &lpar;XAI&rpar;: Building Transparency and Trust in Bioinformatics](https://dev.to/mubashir1837/explainable-ai-xai-building-transparency-and-trust-in-bioinformatics-925)
+- [PHP Session Security](https://dev.to/ahmedraza_fyntune/php-session-security-4c60)
+- [[Boost]](https://dev.to/sammyokun/-3hea)
+- [What If React Had NO useEffect?](https://dev.to/mohamad_msalme_38f2508ea2/what-if-react-had-no-useeffect-29p6)
+- [FlutterFlow: My Experience Launching an iOS App with FlutterFlow](https://dev.to/friendship_e3d5e249468fc3/flutterflow-my-experience-launching-an-ios-app-with-flutterflow-3e4k)
+- [🚀 Week 11 of My DevOps Journey: GitHub Actions CI/CD on AWS EC2](https://dev.to/azmatahmed/-week-11-of-my-devops-journey-github-actions-cicd-on-aws-ec2-4pj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
