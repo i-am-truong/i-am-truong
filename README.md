@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: One Move To Help You Pure Every Iron &amp; Hybrid Shot You Hit](https://dev.to/youtube_golf/danny-maude-one-move-to-help-you-pure-every-iron-hybrid-shot-you-hit-7of)
-- [I built an app for travelers to explore dishes from around the world. Would love feedback!](https://dev.to/slim_bold/i-built-an-app-for-travelers-to-explore-dishes-from-around-the-world-would-love-feedback-2i66)
-- [Industry 4.0 for SMEs: Making Digital Transformation Affordable](https://dev.to/ashrafulazad/industry-40-for-smes-making-digital-transformation-affordable-51mc)
-- [Getting higher accuracy with deep learning models](https://dev.to/perfex_uiop/getting-higher-accuracy-with-deep-learning-models-94n)
-- [Will Blockchain Shape the Future of Mobile App Development?](https://dev.to/williamsj04/will-blockchain-shape-the-future-of-mobile-app-development-nod)
+- [Cómo lanzar en Arbitrum](https://dev.to/turupawn/como-lanzar-en-arbitrum-1bp8)
+- [API Demystified: From Confusion to Confidence](https://dev.to/bhushitha_hashan/api-demystified-from-confusion-to-confidence-4apb)
+- [Beyond the Basics: What It Really Takes to Grow a Business](https://dev.to/businessandmanagement/beyond-the-basics-what-it-really-takes-to-grow-a-business-a52)
+- [Stop Breaking Your Django Apps: 10 Mistakes Beginners Must Avoid](https://dev.to/azeemteli/stop-breaking-your-django-apps-10-mistakes-beginners-must-avoid-1ja7)
+- [Overcoming over fitting and under fitting in deep learning](https://dev.to/perfex_uiop/overcoming-over-fitting-and-under-fitting-in-deep-learning-1i3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
