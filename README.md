@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Creating Subtitled and Dubbed Videos for Global Audiences](https://dev.to/lily_wilson_1374db3726315/best-practices-for-creating-subtitled-and-dubbed-videos-for-global-audiences-56ki)
 - [why do they quit coding ?](https://dev.to/bekbrace/why-do-they-quit-coding--56eo)
 - [Understanding the why is very important.](https://dev.to/vjessiez/-47e1)
 - [I Built an AI That Questions Its Own Existence](https://dev.to/hewida_alisabry_0b88cbdc/i-built-an-ai-that-questions-its-own-existence-fhb)
 - [Outil de Cybersécurité du Jour - Aug 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-30-2025-gb0)
-- [Does Instagram Identify Abnormal Environments by Detecting Browser Plugins, Extensions, or Debugging Tools](https://dev.to/kagome/does-instagram-identify-abnormal-environments-by-detecting-browser-plugins-extensions-or-4gbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
