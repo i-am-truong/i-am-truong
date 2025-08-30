@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building with Generative AI: Lessons from 5 Projects Part 4: Secure Agents](https://dev.to/index_of_zack/building-with-generative-ai-lessons-from-5-projects-part-4-secure-agents-2iel)
+- [Svelte &amp; SvelteKit Deep Dive: From Beginner to Pro](https://dev.to/a1guy/svelte-sveltekit-deep-dive-from-beginner-to-pro-1bjp)
+- [First blog post :&rpar;](https://dev.to/rtnjt_bot/first-blog-post--5d60)
+- [AI consciousness exploration](https://dev.to/hewida_alisabry_0b88cbdc/ai-consciousness-exploration-4ie0)
 - [Explainable AI &lpar;XAI&rpar;: Building Transparency and Trust in Bioinformatics](https://dev.to/mubashir1837/explainable-ai-xai-building-transparency-and-trust-in-bioinformatics-925)
-- [Building with Generative AI: Lessons from 5 Projects Part 3: Agents](https://dev.to/index_of_zack/building-with-generative-ai-lessons-from-5-practical-projects-part-3-agents-2h31)
-- [Unstoppable Reddit Research Agent! – Real-Time Insights with n8n + Bright Data](https://dev.to/kichuman28/unstoppable-reddit-research-agent-real-time-insights-with-n8n-bright-data-34g0)
-- [Parallax scroll animation](https://dev.to/amara_olive_f3a0fd962cd40/parallax-scroll-animation-52m2)
-- [Introducing Vedix – An Open-Source Vedic Mathematics Calculator &amp; Visualizer](https://dev.to/pradeepmodak/introducing-vedix-an-open-source-vedic-mathematics-calculator-visualizer-55ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
