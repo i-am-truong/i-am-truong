@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: The MythBusters Episode Adam Savage Regrets Making](https://dev.to/maker_youtube/adam-savages-tested-the-mythbusters-episode-adam-savage-regrets-making-adn)
-- [🔥 Why Most React Apps are DOOMED To Lag — And How To Fix It With useDeferredValue](https://dev.to/ekwoster/why-most-react-apps-are-doomed-to-lag-and-how-to-fix-it-with-usedeferredvalue-43ko)
-- [IGN: eFootball x Yu-Gi-Oh! - Official Series Collaboration Teaser Trailer](https://dev.to/gg_news/ign-efootball-x-yu-gi-oh-official-series-collaboration-teaser-trailer-4k99)
-- [A Complete Guide to RxJS: From Beginner to Advanced](https://dev.to/serifcolakel/a-complete-guide-to-rxjs-from-beginner-to-advanced-448m)
-- [Milieu vriendelijke matrassen: Hoe ze passen binnen een duurzaam inkoopbeleid](https://dev.to/bremafa/milieu-vriendelijke-matrassen-hoe-ze-passen-binnen-een-duurzaam-inkoopbeleid-3d0e)
+- [iOS Development: using CAMetalLayer when legacy uses CAEAGLLayer](https://dev.to/maxnxi/ios-development-using-cametallayer-when-legacy-uses-caeagllayer-41ln)
+- [Securing Chatbots in Production with MCP](https://dev.to/om_shree_0709/securing-chatbots-in-production-with-mcp-59d8)
+- [3 Tier Application Deployment](https://dev.to/dev_saini_ce708cfac6b9562/3-tier-application-deployment-3d88)
+- [This is my first VS Code extension, have you guys ever created one ?](https://dev.to/masterdevsabith/this-is-my-first-vs-code-extension-have-you-guys-ever-created-one--3808)
+- [My first VS Code Extension](https://dev.to/masterdevsabith/my-first-vs-code-extension-3gf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
