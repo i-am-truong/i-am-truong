@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Responsive Tiled Mosaic Image Gallery](https://dev.to/jhvanderschee/responsive-tiled-mosaic-image-gallery-k76)
 - [EEPROM 28C64 API Performance with Arduino](https://dev.to/inngoose/eeprom-28c64-api-performance-with-arduino-2g20)
 - [The Critical Gap in Next.js SEO: Implementing Sitemap Index for Enterprise Applications](https://dev.to/ziaulhoque24/the-critical-gap-in-nextjs-seo-implementing-sitemap-index-for-enterprise-applications-2k87)
 - [How I put my homelab to use](https://dev.to/gaurang_pawar_e9c0710cbe5/how-i-put-my-homelab-to-use-3loo)
 - [I Like To Make Stuff: Solving a Storage Problem with Junk!](https://dev.to/maker_youtube/i-like-to-make-stuff-solving-a-storage-problem-with-junk-8ok)
-- [Rick Beato: This Changes How You See the Entire Guitar Neck](https://dev.to/music_youtube/rick-beato-this-changes-how-you-see-the-entire-guitar-neck-9ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
