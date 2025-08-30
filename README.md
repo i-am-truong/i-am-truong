@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Defining Backend, Database, and Frontend Requirements](https://dev.to/th33k/defining-backend-database-and-frontend-requirements-2413)
+- [Can R6 Tracker help me improve my gameplay?](https://dev.to/hasnain_altaf_95ce6751e68/can-r6-tracker-help-me-improve-my-gameplay-1mol)
+- [Building My First Python CLI Tool: A Simple Day Counter to Track Time](https://dev.to/adam_dev/building-my-first-python-cli-tool-a-simple-day-counter-to-track-time-11ga)
 - [Best Practices for Creating Subtitled and Dubbed Videos for Global Audiences](https://dev.to/lily_wilson_1374db3726315/best-practices-for-creating-subtitled-and-dubbed-videos-for-global-audiences-56ki)
 - [why do they quit coding ?](https://dev.to/bekbrace/why-do-they-quit-coding--56eo)
-- [Understanding the why is very important.](https://dev.to/vjessiez/-47e1)
-- [I Built an AI That Questions Its Own Existence](https://dev.to/hewida_alisabry_0b88cbdc/i-built-an-ai-that-questions-its-own-existence-fhb)
-- [Outil de Cybersécurité du Jour - Aug 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-30-2025-gb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
