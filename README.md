@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best CSS Tutorial: Roadmap, Tips, and Common Mistakes to Avoid](https://dev.to/tpointtechblog/best-css-tutorial-roadmap-tips-and-common-mistakes-to-avoid-1982)
+- [SECURITY ALERT: Hacker Used AI to Automate $500K Cybercrime Spree - Every Developer Needs to Read This](https://dev.to/shiva_shanker_k/security-alert-hacker-used-ai-to-automate-500k-cybercrime-spree-every-developer-needs-to-read-34ea)
+- [Microsoft Teams Just Dropped 26 Game-Changing Features - Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/microsoft-teams-just-dropped-26-game-changing-features-heres-what-developers-need-to-know-8c4)
 - [Defining Backend, Database, and Frontend Requirements](https://dev.to/th33k/defining-backend-database-and-frontend-requirements-2413)
 - [Can R6 Tracker help me improve my gameplay?](https://dev.to/hasnain_altaf_95ce6751e68/can-r6-tracker-help-me-improve-my-gameplay-1mol)
-- [Building My First Python CLI Tool: A Simple Day Counter to Track Time](https://dev.to/adam_dev/building-my-first-python-cli-tool-a-simple-day-counter-to-track-time-11ga)
-- [Best Practices for Creating Subtitled and Dubbed Videos for Global Audiences](https://dev.to/lily_wilson_1374db3726315/best-practices-for-creating-subtitled-and-dubbed-videos-for-global-audiences-56ki)
-- [why do they quit coding ?](https://dev.to/bekbrace/why-do-they-quit-coding--56eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
