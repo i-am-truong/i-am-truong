@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Releases with Semantic Release and GitHub Actions &lpar;Step-by-Step&rpar;](https://dev.to/octolab/automate-releases-with-semantic-release-and-github-actions-step-by-step-1a65)
+- [Day 2](https://dev.to/_adii3107/day-2-3ppa)
 - [Streamline Your Flutter Development: Complete CI/CD Pipeline with GitHub Actions and Google Play Store Deployment](https://dev.to/vachhanirishi/streamline-your-flutter-development-complete-cicd-pipeline-with-github-actions-and-google-play-21fc)
 - [Explore and Create of Maps and Places Application Using Amazon Location Service](https://dev.to/aws-builders/explore-and-create-of-maps-and-places-application-using-amazon-location-service-378)
 - [Handling 404 and 500 Errors Gracefully in Django with Custom JSON Responses](https://dev.to/engrmark/handling-404-and-500-errors-gracefully-in-django-with-custom-json-responses-32oh)
-- [React&#39;s Key Prop Isn&#39;t About Lists - It&#39;s About Component Identity &lpar;And That Changes Everything&rpar;](https://dev.to/mohamad_msalme_38f2508ea2/reacts-key-prop-isnt-about-lists-its-about-component-identity-and-that-changes-everything-1p7)
-- [Azure Functions host did not return isolated worker process id. Macos](https://dev.to/chuongmep/azure-functions-host-did-not-return-isolated-worker-process-id-macos-4fab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
