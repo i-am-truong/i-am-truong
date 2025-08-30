@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-726.6%20thousand%20lines%20of%20code-blue)
 
@@ -48,45 +48,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                662 commits         ████████░░░░░░░░░░░░░░░░░   31.14 % 
-🌆 Daytime                777 commits         █████████░░░░░░░░░░░░░░░░   36.55 % 
-🌃 Evening                574 commits         ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-🌙 Night                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   334 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Wednesday                295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Thursday                 451 commits         █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Friday                   281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Saturday                 269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Sunday                   205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -104,7 +65,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 17:15:26 UTC
+ Last Updated on 30/08/2025 17:13:52 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-truong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
