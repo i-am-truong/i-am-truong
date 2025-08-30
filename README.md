@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Construyendo Interfaces Conversacionales. Parte 3](https://dev.to/aperezl/construyendo-interfaces-conversacionales-parte-3-2omj)
+- [Bug Bounty Dex223](https://dev.to/toto_bugelman_aece7be7171/bug-bounty-dex223-590)
+- [How to Fine-Tune Your Data and Build Smarter RAG Apps with LangGraph](https://dev.to/youvandraf/how-to-fine-tune-your-data-and-build-smarter-rag-apps-with-langgraph-5a9m)
 - [Construyendo Interfaces Conversacionales. Parte 2](https://dev.to/aperezl/construyendo-interfaces-conversacionales-parte-2-2ag9)
 - [Construyendo Interfaces Conversacionales. Parte 1](https://dev.to/aperezl/construyendo-interfaces-conversacionales-parte-1-32d7)
-- [Test &lpar;Mock Interview&rpar;](https://dev.to/hayesvincent14/test-mock-interview-247f)
-- [about Greedy 贪心算法](https://dev.to/woodyxin/about-greedy-tan-xin-suan-fa-3i0l)
-- [Getting started with n8n](https://dev.to/youvandraf/getting-started-with-n8n-m01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
