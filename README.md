@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Those who have a heart for coding should learn AI by heart. AI mastery isn’t about knowing prompting; it&#39;s about learning why to write a prompt. Only those who have a heart for coding and AI will lead the developers.](https://dev.to/jaideepparashar/those-who-have-a-heart-for-coding-should-learn-ai-by-heart-ai-mastery-isnt-about-knowing-2ga8)
+- [When the Graph Snaps: A Hard Look at GraphQL&#39;s Pain Points](https://dev.to/amaster507_59/when-the-graph-snaps-a-hard-look-at-graphqls-pain-points-4ko1)
 - [The 1% Rule of AI Mastery](https://dev.to/jaideepparashar/the-1-rule-of-ai-mastery-k59)
 - [evi-run Quick Start on Ubuntu: installation, character setup, and adding a custom agent](https://dev.to/cody_maza/evi-run-quick-start-on-ubuntu-installation-character-setup-and-adding-a-custom-agent-155l)
 - [Pengalaman Pertama menghadiri AWS Summit Jakarta 2025 sebagai Speaker](https://dev.to/aws-builders/pengalaman-pertama-menghadiri-aws-summit-jakarta-2025-sebagai-speaker-4i8a)
-- [🛳️ Docker Series: Episode 8 — Docker Compose: Build Multi-Container Apps Like a Boss](https://dev.to/yash_sonawane25/docker-series-episode-8-docker-compose-build-multi-container-apps-like-a-boss-3f3h)
-- [Adam Savage&#39;s Tested: Adam Savage Operates Hacksmith&#39;s Fallout Power Armor Hand!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-operates-hacksmiths-fallout-power-armor-hand-25ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
