@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code &amp; Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj)
-- [Agile Is Broken—But Here’s How We Fixed It](https://dev.to/kizilcakartugce/agile-is-broken-but-heres-how-we-fixed-it-41h5)
-- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud and DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-and-devops-workflows-16gm)
-- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud &amp; DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-devops-workflows-29l6)
-- [Social Presence Research Agent](https://dev.to/rakinjakaria/social-presence-research-agent-4kjg)
+- [思考：建立信任的几种方式 &lpar;How to gain trust?&rpar;](https://dev.to/jimw/si-kao-jian-li-xin-ren-de-ji-chong-fang-shi-how-to-gain-trust-7o0)
+- [System Performance of Edge AI Applications is Beyond Models](https://dev.to/jimw/system-performance-of-edge-ai-applications-is-beyond-models-ji5)
+- [GitHub MCP Server Deep Dive and Context Engineering](https://dev.to/pwd9000/github-mcp-server-deep-dive-and-context-engineering-49lo)
+- [Software is King, Especially in AI](https://dev.to/jimw/software-is-king-especially-in-ai-1agi)
+- [Project Planning Process](https://dev.to/jimw/project-planning-process-48em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
