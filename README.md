@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MetalEAGLLayer](https://dev.to/maxnxi/metaleagllayer-5d0l)
+- [From Arrays to Collections: A Developer’s Guide to Smarter Data Handling in Java](https://dev.to/palak_singla/from-arrays-to-collections-a-developers-guide-to-smarter-data-handling-in-java-3fih)
+- [Building Robust Error Handling in FastAPI – and avoiding rookie mistakes](https://dev.to/buffolander/building-robust-error-handling-in-fastapi-and-avoiding-rookie-mistakes-ifg)
+- [need help with chatgpt](https://dev.to/bg3ananas/need-help-with-chatgpt-344p)
 - [iOS Development: using CAMetalLayer when legacy uses CAEAGLLayer](https://dev.to/maxnxi/ios-development-using-cametallayer-when-legacy-uses-caeagllayer-41ln)
-- [Securing Chatbots in Production with MCP](https://dev.to/om_shree_0709/securing-chatbots-in-production-with-mcp-59d8)
-- [3 Tier Application Deployment](https://dev.to/dev_saini_ce708cfac6b9562/3-tier-application-deployment-3d88)
-- [This is my first VS Code extension, have you guys ever created one ?](https://dev.to/masterdevsabith/this-is-my-first-vs-code-extension-have-you-guys-ever-created-one--3808)
-- [My first VS Code Extension](https://dev.to/masterdevsabith/my-first-vs-code-extension-3gf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
