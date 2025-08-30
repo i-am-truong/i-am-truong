@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Best CSS Tutorial: Roadmap, Tips, and Common Mistakes to Avoid](https://dev.to/tpointtechblog/best-css-tutorial-roadmap-tips-and-common-mistakes-to-avoid-1982)
 - [SECURITY ALERT: Hacker Used AI to Automate $500K Cybercrime Spree - Every Developer Needs to Read This](https://dev.to/shiva_shanker_k/security-alert-hacker-used-ai-to-automate-500k-cybercrime-spree-every-developer-needs-to-read-34ea)
 - [Microsoft Teams Just Dropped 26 Game-Changing Features - Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/microsoft-teams-just-dropped-26-game-changing-features-heres-what-developers-need-to-know-8c4)
-- [Defining Backend, Database, and Frontend Requirements](https://dev.to/th33k/defining-backend-database-and-frontend-requirements-2413)
-- [Can R6 Tracker help me improve my gameplay?](https://dev.to/hasnain_altaf_95ce6751e68/can-r6-tracker-help-me-improve-my-gameplay-1mol)
+- [Leetcode - 39. Combination Sum](https://dev.to/rakeshreddy512/leetcode-39-combination-sum-598j)
+- [Day 38: Getting Started with AWS Basics](https://dev.to/udoh_deborah_b1e484c474bf/day-38-getting-started-with-aws-basics-5e2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
