@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Way to Add Schema Markup for Real Estate in Laravel?](https://dev.to/nipe_rich_c693a63904ce877/best-way-to-add-schema-markup-for-real-estate-in-laravel-4e44)
+- [JAVA FULL STACK DEVELOPMENT:](https://dev.to/susan_mary2004/java-full-stack-development-3f94)
+- [思考：研究与工程&lpar;Thoughts about Research and Engineering&rpar;](https://dev.to/jimw/si-kao-yan-jiu-yu-gong-cheng-thoughts-about-research-and-engineering-3apn)
 - [思考：建立信任的几种方式 &lpar;How to gain trust?&rpar;](https://dev.to/jimw/si-kao-jian-li-xin-ren-de-ji-chong-fang-shi-how-to-gain-trust-7o0)
 - [System Performance of Edge AI Applications is Beyond Models](https://dev.to/jimw/system-performance-of-edge-ai-applications-is-beyond-models-ji5)
-- [GitHub MCP Server Deep Dive and Context Engineering](https://dev.to/pwd9000/github-mcp-server-deep-dive-and-context-engineering-49lo)
-- [Software is King, Especially in AI](https://dev.to/jimw/software-is-king-especially-in-ai-1agi)
-- [Project Planning Process](https://dev.to/jimw/project-planning-process-48em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
