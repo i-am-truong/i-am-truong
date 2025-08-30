@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Co-Researcher – Accelerating Healthcare Research with Multi-Agent AI](https://dev.to/ashiqsultan/co-researcher-accelerating-healthcare-research-with-multi-agent-ai-hjo)
-- [Mastering HTML Images and Hyperlinks: A Complete Developer&#39;s Guide](https://dev.to/codewithmishu/mastering-html-images-and-hyperlinks-a-complete-developers-guide-2eog)
-- [[Boost]](https://dev.to/extinctsion/-3d16)
-- [Get your profile reviewed by AI and ace your coding interview.](https://dev.to/extinctsion/get-your-profile-reviewed-by-ai-and-ace-your-coding-interview-5h2k)
-- [Memoji Magic AI - A Memoji Generating App Created by a Single Prompt to Google AI Studio&#39;s New Build Feature](https://dev.to/notavailable4u/memoji-magic-ai-a-memoji-generating-app-created-by-a-single-prompt-to-google-ai-studios-new-1adp)
+- [The Day Transformers Stared Back at Me😂](https://dev.to/fonyuygita/the-day-transformers-stared-back-at-me-2c1p)
+- [Axios vs Fetch: Understanding the Differences in JavaScript HTTP Requests](https://dev.to/safal_bhandari/axios-vs-fetch-understanding-the-differences-in-javascript-http-requests-97d)
+- [Finite States Machines &lpar;in C&rpar;](https://dev.to/rdentato/finite-states-machines-in-c-129n)
+- [Why Caching Is Both a Savior and a Trouble-Maker](https://dev.to/dct_technology/why-caching-is-both-a-savior-and-a-trouble-maker-52aj)
+- [IGN: Helldivers 2 Review Update - Now on Xbox](https://dev.to/gg_news/ign-helldivers-2-review-update-now-on-xbox-5fid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
