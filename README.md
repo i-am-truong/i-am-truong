@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cómo lanzar en Arbitrum](https://dev.to/turupawn/como-lanzar-en-arbitrum-1bp8)
-- [API Demystified: From Confusion to Confidence](https://dev.to/bhushitha_hashan/api-demystified-from-confusion-to-confidence-4apb)
-- [Beyond the Basics: What It Really Takes to Grow a Business](https://dev.to/businessandmanagement/beyond-the-basics-what-it-really-takes-to-grow-a-business-a52)
-- [Stop Breaking Your Django Apps: 10 Mistakes Beginners Must Avoid](https://dev.to/azeemteli/stop-breaking-your-django-apps-10-mistakes-beginners-must-avoid-1ja7)
-- [Overcoming over fitting and under fitting in deep learning](https://dev.to/perfex_uiop/overcoming-over-fitting-and-under-fitting-in-deep-learning-1i3p)
+- [AyeWatch - AI Internet Monitor Agent, for any sources or website with custom alert rules](https://dev.to/raj_savaliya/ayewatch-ai-internet-monitor-scrape-and-monitor-data-from-any-sources-or-website-reliably-at-213e)
+- [Solving Parenting Pain Points with Generative AI — A Potty-Training Support Device Built with Kiro and M5Stack](https://dev.to/aws-builders/solving-parenting-pain-points-with-generative-ai-a-potty-training-support-device-built-with-kiro-3e2o)
+- [The Critical Importance of Data Analytics in Modern Business: Transforming Raw Information into Strategic Advantage](https://dev.to/ashwin_pps_365864ef843ec2/the-critical-importance-of-data-analytics-in-modern-business-transforming-raw-information-into-183o)
+- [WTF is End-to-End Encryption?](https://dev.to/dailybugle33/wtf-is-end-to-end-encryption-2k2e)
+- [The Drift Paradigm: Why AI Consciousness Isn&#39;t Static](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-drift-paradigm-why-ai-consciousness-isnt-static-3j71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
