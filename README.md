@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Винаги развивай техническите си умения по някакъв начин!](https://dev.to/dvt32/vinaghi-razvivai-tiekhnichieskitie-si-umieniia-po-niakakv-nachin-mmi)
-- [From Workflow Chaos to Clarity: How SnipMaster Transforms Your Productivity](https://dev.to/sebastiandevelops/from-workflow-chaos-to-clarity-how-snipmaster-transforms-your-productivity-2d3n)
-- [Laser Drilling: Transforming PCB Manufacturing with Precision](https://dev.to/frank_1871bc3c55f35370df3/laser-drilling-transforming-pcb-manufacturing-with-precision-49m0)
-- [Винаги знай какво е следващото действие по проекта!](https://dev.to/dvt32/vinaghi-znai-kakvo-ie-sliedvashchoto-dieistviie-po-proiekta-3j2b)
-- [⚡ V8: The Engine Behind JS Speed](https://dev.to/ml318097/v8-the-engine-behind-js-speed-41gd)
+- [Day 80: The Keyboard Rebellion &amp; The Weight of &quot;Enough&quot;](https://dev.to/casperday11/day-80-the-keyboard-rebellion-the-weight-of-enough-4ccm)
+- [How I Broke My Workflow Trying To Automate Everything](https://dev.to/vverywwel/how-i-broke-my-workflow-trying-to-automate-everything-4njc)
+- [Стани част от ОБЩНОСТТА на софтуерните инженери, за да ти е по-лесно!](https://dev.to/dvt32/stani-chast-ot-obshchnostta-na-softuiernitie-inzhienieri-za-da-ti-ie-po-liesno-2lio)
+- [Стреми се да разбираш как работят отвътре различните технологии за програмиране!](https://dev.to/dvt32/striemi-sie-da-razbirash-kak-rabotiat-otvtrie-razlichnitie-tiekhnologhii-za-proghramiranie-gk7)
+- [PNPM: Beyond Dependency Management - A Modern Alternative to NVM](https://dev.to/italoqueiroz/pnpm-beyond-dependency-management-a-modern-alternative-to-nvm-2de5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
