@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮𝗻 𝗻𝟴𝗻 𝗖𝗹𝗼𝗻𝗲 𝗶𝗻 𝗩𝘂𝗲](https://dev.to/sem1colons/-45nm)
-- [1 RN Thing a Day – Day 10: Memoization in React Native](https://dev.to/ola_1313/1-rn-thing-a-day-day-10-memoization-in-react-native-45lp)
-- [AWS open source newsletter, #213](https://dev.to/aws/aws-open-source-newsletter-213-33g5)
-- [Leetcode - 52. N-Queens II](https://dev.to/rakeshreddy512/leetcode-52-n-queens-ii-2m7k)
-- [Master n8n: The Developer&#39;s Automation Superpower 🚀](https://dev.to/devsj17/master-n8n-the-developers-automation-superpower-2hfe)
+- [Винаги развивай техническите си умения по някакъв начин!](https://dev.to/dvt32/vinaghi-razvivai-tiekhnichieskitie-si-umieniia-po-niakakv-nachin-mmi)
+- [From Workflow Chaos to Clarity: How SnipMaster Transforms Your Productivity](https://dev.to/sebastiandevelops/from-workflow-chaos-to-clarity-how-snipmaster-transforms-your-productivity-2d3n)
+- [Laser Drilling: Transforming PCB Manufacturing with Precision](https://dev.to/frank_1871bc3c55f35370df3/laser-drilling-transforming-pcb-manufacturing-with-precision-49m0)
+- [Винаги знай какво е следващото действие по проекта!](https://dev.to/dvt32/vinaghi-znai-kakvo-ie-sliedvashchoto-dieistviie-po-proiekta-3j2b)
+- [⚡ V8: The Engine Behind JS Speed](https://dev.to/ml318097/v8-the-engine-behind-js-speed-41gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
