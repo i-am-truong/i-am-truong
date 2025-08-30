@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best CSS Tutorial: Roadmap, Tips, and Common Mistakes to Avoid](https://dev.to/tpointtechblog/best-css-tutorial-roadmap-tips-and-common-mistakes-to-avoid-1982)
-- [SECURITY ALERT: Hacker Used AI to Automate $500K Cybercrime Spree - Every Developer Needs to Read This](https://dev.to/shiva_shanker_k/security-alert-hacker-used-ai-to-automate-500k-cybercrime-spree-every-developer-needs-to-read-34ea)
-- [Microsoft Teams Just Dropped 26 Game-Changing Features - Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/microsoft-teams-just-dropped-26-game-changing-features-heres-what-developers-need-to-know-8c4)
-- [Leetcode - 39. Combination Sum](https://dev.to/rakeshreddy512/leetcode-39-combination-sum-598j)
-- [Day 38: Getting Started with AWS Basics](https://dev.to/udoh_deborah_b1e484c474bf/day-38-getting-started-with-aws-basics-5e2h)
+- [Explainable AI &lpar;XAI&rpar;: Building Transparency and Trust in Bioinformatics](https://dev.to/mubashir1837/explainable-ai-xai-building-transparency-and-trust-in-bioinformatics-925)
+- [Building with Generative AI: Lessons from 5 Projects Part 3: Agents](https://dev.to/index_of_zack/building-with-generative-ai-lessons-from-5-practical-projects-part-3-agents-2h31)
+- [Unstoppable Reddit Research Agent! – Real-Time Insights with n8n + Bright Data](https://dev.to/kichuman28/unstoppable-reddit-research-agent-real-time-insights-with-n8n-bright-data-34g0)
+- [Parallax scroll animation](https://dev.to/amara_olive_f3a0fd962cd40/parallax-scroll-animation-52m2)
+- [Introducing Vedix – An Open-Source Vedic Mathematics Calculator &amp; Visualizer](https://dev.to/pradeepmodak/introducing-vedix-an-open-source-vedic-mathematics-calculator-visualizer-55ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
