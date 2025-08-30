@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [useMemo, useCallback, React.memo — What Optimizations Actually Work](https://dev.to/crit3cal/usememo-usecallback-reactmemo-what-optimizations-actually-work-gkp)
-- [More is Better: An LLM &amp; Multi-Agent System Perspective](https://dev.to/jauhar/more-is-better-an-llm-multi-agent-system-perspective-500h)
-- [Building My Own DIY AI Stack](https://dev.to/keya_khatun_b0884129bc101/building-my-own-diy-ai-stack-57d8)
-- [Four Multipliers for Using AI Well: My Working Model](https://dev.to/comnori/four-multipliers-for-using-ai-well-my-working-model-2mjn)
-- [IGN: The Conjuring Universe Timeline in Chronological Order &lpar;2025 Edition&rpar;](https://dev.to/gg_news/ign-the-conjuring-universe-timeline-in-chronological-order-2025-edition-1adn)
+- [why do developers leave coding today altogether ?](https://dev.to/bekbrace/why-do-developers-leave-coding-today-altogether--2f56)
+- [[Boost]](https://dev.to/bekbrace/-51m9)
+- [Agile Is Broken in Fintech—But Here’s How We Fixed It](https://dev.to/kizilcakartugce/agile-is-broken-in-fintech-but-heres-how-we-fixed-it-fc0)
+- [Building PNG28’s Mobile-First Affiliate Agent Onboarding &amp; Tracking Pipeline](https://dev.to/png_updates/building-png28s-mobile-first-affiliate-agent-onboarding-tracking-pipeline-1dm3)
+- [HTML](https://dev.to/jmwaniki003/html-4j1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
