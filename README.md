@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como me certifique como Vue.js Senior Developer, recomendaciones y consejos](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-4ijj)
-- [Como me certifique como Vue.js Senior Developer y recomendaciones](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-45d7)
-- [Hands-On with AWS: Building and Securing a 3-Tier Web App](https://dev.to/ajithmanmu/hands-on-with-aws-building-and-securing-a-3-tier-web-app-1fjb)
-- [Deconstructing gin.Context: More Than Just a Context](https://dev.to/leapcell/deconstructing-gincontext-more-than-just-a-context-4nd0)
-- [Daily DSA and System Design Journal - 2](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-2-52c7)
+- [Assinando arquivos PDF com certificado digital em Go](https://dev.to/alexsetta/assinando-arquivos-pdf-com-certificado-digital-em-go-haf)
+- [222](https://dev.to/alikolahdoozan/222-17df)
+- [Create your own personal website for free — A guide to using GitHub Pages](https://dev.to/cat_dogrunning_in_the_s/create-your-own-personal-website-for-free-a-guide-to-using-github-pages-1f7a)
+- [揭秘 Nano Banana新玩法：Google 的 AI 图像编辑新王炸](https://dev.to/yang_ella_f2a3e16ccb54550/jie-mi-nano-bananaxin-wan-fa-google-de-ai-tu-xiang-bian-ji-xin-wang-zha-42ml)
+- [Can Minimal APIs use trusted connections?](https://dev.to/rodf/can-minimal-apis-use-trusted-connections-lia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
