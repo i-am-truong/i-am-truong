@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My frist post on dev.to, I want to share my journey so far and also describe what I want to present to my readers in my blog](https://dev.to/asmittt_11/my-frist-post-on-devto-i-want-to-share-my-journey-so-far-and-also-describe-what-i-want-to-present-2mj7)
-- [The Subtle Art of State Management Without Redux or Zustand](https://dev.to/mrrookie/the-subtle-art-of-state-management-without-redux-or-zustand-1fjo)
-- [🛡️ Content Security Policy &lpar;CSP&rpar;: A Complete Guide for Developers](https://dev.to/fazal_mansuri_/content-security-policy-csp-a-complete-guide-for-developers-56lp)
-- [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
-- [AnyProxy: Redirect Network Requests Without Server Modifications](https://dev.to/youngluo/anyproxy-redirect-network-requests-without-server-modifications-8np)
+- [Streamline Your Flutter Development: Complete CI/CD Pipeline with GitHub Actions and Google Play Store Deployment](https://dev.to/vachhanirishi/streamline-your-flutter-development-complete-cicd-pipeline-with-github-actions-and-google-play-21fc)
+- [Explore and Create of Maps and Places Application Using Amazon Location Service](https://dev.to/aws-builders/explore-and-create-of-maps-and-places-application-using-amazon-location-service-378)
+- [Handling 404 and 500 Errors Gracefully in Django with Custom JSON Responses](https://dev.to/engrmark/handling-404-and-500-errors-gracefully-in-django-with-custom-json-responses-32oh)
+- [React&#39;s Key Prop Isn&#39;t About Lists - It&#39;s About Component Identity &lpar;And That Changes Everything&rpar;](https://dev.to/mohamad_msalme_38f2508ea2/reacts-key-prop-isnt-about-lists-its-about-component-identity-and-that-changes-everything-1p7)
+- [Azure Functions host did not return isolated worker process id. Macos](https://dev.to/chuongmep/azure-functions-host-did-not-return-isolated-worker-process-id-macos-4fab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
