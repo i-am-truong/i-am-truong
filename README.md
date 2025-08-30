@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp Patches Zero-Click Exploit on iOS and macOS](https://dev.to/neerajlovecyber/whatsapp-patches-zero-click-exploit-on-ios-and-macos-ac7)
+- [Isn’t OSINT Just Glorified Googling?](https://dev.to/intelligence_x/isnt-osint-just-glorified-googling-183i)
+- [Building a Ragnarok Online Server in Elixir - Part 3](https://dev.to/ygorcastor/building-a-ragnarok-online-server-in-elixir-part-3-4npd)
 - [Automating GitHub Actions Updates Across Your Entire Organization](https://dev.to/anderson_leite/automating-github-actions-updates-across-your-entire-organization-17mj)
 - [Building a Multi-Agent AI Brand Monitoring System with n8n and BrightData](https://dev.to/prema_ananda/building-a-multi-agent-ai-brand-monitoring-system-with-n8n-and-brightdata-oe0)
-- [Why Docker is Actually a Game-Changer &lpar;And Why You Should Care&rpar; 🐳?](https://dev.to/aditya_srivastava_01/why-docker-is-actually-a-game-changer-and-why-you-should-care--io2)
-- [Docker Logging &amp; Log Drivers](https://dev.to/godofgeeks/docker-logging-log-drivers-41i4)
-- [Lessons I Learned Jumping Between JS, C#, GDScript, and Flutter](https://dev.to/wasi_ahbab/lessons-i-learned-jumping-between-js-c-gdscript-and-flutter-59dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
