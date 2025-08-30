@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline](https://dev.to/hnrq/building-veloren-sa-an-astro-blog-fed-by-google-cloud-translation-pipeline-150)
+- [Dojo Models Fundamentals](https://dev.to/sandeep_chauhan_f5476f312/dojo-models-fundamentals-4nkd)
+- [Auto Trend Lines Indicator for MetaTrader 4 &amp; 5](https://dev.to/tradingfindercom/auto-trend-lines-indicator-for-metatrader-4-5-2hi6)
+- [Hello DEV Community – I Build AI Tools &amp; Automations at PixelM Studio](https://dev.to/pixlem_studio_5ba2a926614/hello-dev-community-i-build-ai-tools-automations-at-pixelm-studio-1de4)
 - [Accessibility Cheat Sheet 2025: Free Courses, Certification Paths, and Testing Tools](https://dev.to/laura-wissiak/accessibility-cheat-sheet-2025-free-courses-certification-paths-and-testing-tools-511b)
-- [Building Real Time Systems That Actually Scale](https://dev.to/mhmd_zbib/building-real-time-systems-that-actually-scale-om6)
-- [ZK Identity Attestation Zero-Knowledge Proofs &lpar;ZKPs&rpar;](https://dev.to/craftygreenguru/zk-identity-attestation-zero-knowledge-proofs-zkps-j0n)
-- [From implementation to closing: communication skills that independent developers must learn](https://dev.to/junyu_fang_a216509a97501d/from-implementation-to-closing-communication-skills-that-independent-developers-must-learn-27fc)
-- [AI Silhouette Generator](https://dev.to/peng_li_61507f5f744c1b66e/ai-silhouette-generator-105j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
