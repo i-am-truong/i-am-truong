@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI for Business: Beyond ChatGPT - Innovation, Compliance &amp; Use Cases](https://dev.to/zestminds_technologies_c1/generative-ai-for-business-beyond-chatgpt-innovation-compliance-use-cases-34od)
-- [Spring Boot Scheduling Best Practices](https://dev.to/dixitgurv/spring-boot-scheduling-best-practices-503h)
-- [Best Way to Add Schema Markup for Real Estate in Laravel?](https://dev.to/nipe_rich_c693a63904ce877/best-way-to-add-schema-markup-for-real-estate-in-laravel-4e44)
-- [JAVA FULL STACK DEVELOPMENT:](https://dev.to/susan_mary2004/java-full-stack-development-3f94)
-- [思考：研究与工程&lpar;Thoughts about Research and Engineering&rpar;](https://dev.to/jimw/si-kao-yan-jiu-yu-gong-cheng-thoughts-about-research-and-engineering-3apn)
+- [EEPROM 28C64 API Performance with Arduino](https://dev.to/inngoose/eeprom-28c64-api-performance-with-arduino-2g20)
+- [The Critical Gap in Next.js SEO: Implementing Sitemap Index for Enterprise Applications](https://dev.to/ziaulhoque24/the-critical-gap-in-nextjs-seo-implementing-sitemap-index-for-enterprise-applications-2k87)
+- [How I put my homelab to use](https://dev.to/gaurang_pawar_e9c0710cbe5/how-i-put-my-homelab-to-use-3loo)
+- [I Like To Make Stuff: Solving a Storage Problem with Junk!](https://dev.to/maker_youtube/i-like-to-make-stuff-solving-a-storage-problem-with-junk-8ok)
+- [Rick Beato: This Changes How You See the Entire Guitar Neck](https://dev.to/music_youtube/rick-beato-this-changes-how-you-see-the-entire-guitar-neck-9ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
