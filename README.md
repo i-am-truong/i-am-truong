@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌲 Blog 3: Level Order Traversal &lpar;BFS&rpar; Pattern in Binary Trees](https://dev.to/devcorner/blog-3-level-order-traversal-bfs-pattern-in-binary-trees-10i7)
-- [🌲 Blog 2: Traversal Based &lpar;DFS&rpar; Pattern in Binary Trees](https://dev.to/devcorner/blog-2-traversal-based-dfs-pattern-in-binary-trees-2j07)
-- [🌳 Blog 1 — Height &amp; Depth Pattern &lpar;Deep dive + Java code for classic problems&rpar;](https://dev.to/devcorner/blog-1-height-depth-pattern-deep-dive-java-code-for-classic-problems-3ng0)
-- [🔥 One Loop Traversal &lpar;Preorder, Inorder, Postorder Together&rpar;](https://dev.to/devcorner/one-loop-traversal-preorder-inorder-postorder-together-169h)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `71`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-71-2d29)
+- [Memoji Magic AI - A Memoji Generating App Created by a Single Prompt to Google AI Studio&#39;s New Build Feature](https://dev.to/notavailable4u/memoji-magic-ai-a-memoji-generating-app-created-by-a-single-prompt-to-google-ai-studios-new-1adp)
+- [Understanding Django Relationships: OneToOneField vs ForeignKey vs ManyToManyField](https://dev.to/highcenburg/understanding-django-relationships-onetoonefield-vs-foreignkey-vs-manytomanyfield-4ifh)
+- [Equity Fundamental Octo Researcher: Next-Gen Stock Research](https://dev.to/bikash119/equity-fundamental-octo-researcher-next-gen-stock-research-3a4n)
+- [🌲 Blog 10: Advanced Tree Traversals &amp; Encoding](https://dev.to/devcorner/blog-10-advanced-tree-traversals-encoding-1igi)
+- [[Boost]](https://dev.to/nikhil_sachapara/-ab9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
