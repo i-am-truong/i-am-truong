@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline](https://dev.to/hnrq/building-veloren-sa-an-astro-blog-fed-by-google-cloud-translation-pipeline-150)
-- [Dojo Models Fundamentals](https://dev.to/sandeep_chauhan_f5476f312/dojo-models-fundamentals-4nkd)
-- [Auto Trend Lines Indicator for MetaTrader 4 &amp; 5](https://dev.to/tradingfindercom/auto-trend-lines-indicator-for-metatrader-4-5-2hi6)
-- [Hello DEV Community – I Build AI Tools &amp; Automations at PixelM Studio](https://dev.to/pixlem_studio_5ba2a926614/hello-dev-community-i-build-ai-tools-automations-at-pixelm-studio-1de4)
-- [Accessibility Cheat Sheet 2025: Free Courses, Certification Paths, and Testing Tools](https://dev.to/laura-wissiak/accessibility-cheat-sheet-2025-free-courses-certification-paths-and-testing-tools-511b)
+- [Adam Savage&#39;s Tested: The MythBusters Episode Adam Savage Regrets Making](https://dev.to/maker_youtube/adam-savages-tested-the-mythbusters-episode-adam-savage-regrets-making-adn)
+- [🔥 Why Most React Apps are DOOMED To Lag — And How To Fix It With useDeferredValue](https://dev.to/ekwoster/why-most-react-apps-are-doomed-to-lag-and-how-to-fix-it-with-usedeferredvalue-43ko)
+- [IGN: eFootball x Yu-Gi-Oh! - Official Series Collaboration Teaser Trailer](https://dev.to/gg_news/ign-efootball-x-yu-gi-oh-official-series-collaboration-teaser-trailer-4k99)
+- [A Complete Guide to RxJS: From Beginner to Advanced](https://dev.to/serifcolakel/a-complete-guide-to-rxjs-from-beginner-to-advanced-448m)
+- [Milieu vriendelijke matrassen: Hoe ze passen binnen een duurzaam inkoopbeleid](https://dev.to/bremafa/milieu-vriendelijke-matrassen-hoe-ze-passen-binnen-een-duurzaam-inkoopbeleid-3d0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
