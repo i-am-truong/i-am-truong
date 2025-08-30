@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [No-Code &amp; Low-Code Frontend Builders: The Best SaaS Platforms](https://dev.to/tenelabs/no-code-low-code-frontend-builders-the-best-saas-platforms-c55)
+- [Project: Building an AI Astronomy Cluster](https://dev.to/vintagedon/project-building-an-ai-astronomy-cluster-6em)
+- [Why Writing for AI Assistants Matters More Than Ever in 2025](https://dev.to/arkhan/why-writing-for-ai-assistants-matters-more-than-ever-in-2025-1cfi)
 - [How to publish odoo apps on app store[updated]](https://dev.to/itgiggs/how-to-publish-odoo-apps-on-app-storeupdated-3b3f)
 - [My First Experience with Nexthink Tool &amp; Key Learnings](https://dev.to/karthikkorrayi/my-first-experience-with-nexthink-tool-key-learnings-59g6)
-- [Advanced Git Commands: Tools for Smarter Version Control](https://dev.to/shrsv/advanced-git-commands-tools-for-smarter-version-control-1c07)
-- [Your First React Component: JSX, Components, and the &quot;Hello, World&quot; Program&lpar;5/Sept&rpar;](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program5sept-3oj1)
-- [⚛️ React Native Changed the Way I Build — It Can Change Yours Too in 2025](https://dev.to/adeoti_israel_78eb9cfa5ac/react-native-changed-the-way-i-build-it-can-change-yours-too-in-2025-2aja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
