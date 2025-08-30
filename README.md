@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Stop Messing Up GA4 Events: A Type-Safe Analytics Library for React &amp; Next.js](https://dev.to/connectaryal/stop-messing-up-ga4-events-a-type-safe-analytics-library-for-react-nextjs-5em8)
+- [ChatGPT Just Got a Game-Changing New Feature — Here’s How Developers Can Leverage It](https://dev.to/smartaidrop/chatgpt-just-got-a-game-changing-new-feature-heres-how-developers-can-leverage-it-2g0l)
 - [Market Exchange: 2. The Architecture](https://dev.to/arturaronov/market-exchange-2-the-architecture-4nhj)
-- [LinkLens – A Lightweight React Package for Link Detection &amp; Previews](https://dev.to/developeraromal/linklens-a-lightweight-react-package-for-link-detection-previews-3mh1)
-- [Those who have a heart for coding should learn AI by heart. AI mastery isn’t about knowing prompting; it&#39;s about learning why to write a prompt. Only those who have a heart for coding and AI will lead the developers.](https://dev.to/jaideepparashar/those-who-have-a-heart-for-coding-should-learn-ai-by-heart-ai-mastery-isnt-about-knowing-2ga8)
-- [When the Graph Snaps: A Hard Look at GraphQL&#39;s Pain Points](https://dev.to/amaster507_59/when-the-graph-snaps-a-hard-look-at-graphqls-pain-points-4ko1)
+- [🚨 This isn’t a hit piece. It’s a reality check for anyone building serious systems with GraphQL.](https://dev.to/amaster507_59/this-isnt-a-hit-piece-its-a-reality-check-for-anyone-building-serious-systems-with-graphql-395i)
+- [Kubernetes YAMLs Demystified: What’s the Difference?](https://dev.to/anuchito/kubernetes-yamls-demystified-whats-the-difference-hdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
