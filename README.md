@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Micro Frontends: A Senior Frontend Engineer&#39;s Perspective](https://dev.to/kumar111222rohit/micro-frontends-a-senior-frontend-engineers-perspective-k7l)
-- [🌱 I Just Launched My Own Blogging Site – StackDevFlow.com](https://dev.to/sanjays442/i-just-launched-my-own-blogging-site-stackdevflowcom-1fle)
-- [Rust Project Structure and Best Practices for Clean, Scalable Code](https://dev.to/djamware_tutorial_eba1a61/rust-project-structure-and-best-practices-for-clean-scalable-code-3a4p)
-- [Automate Releases with Semantic Release and GitHub Actions &lpar;Step-by-Step&rpar;](https://dev.to/octolab/automate-releases-with-semantic-release-and-github-actions-step-by-step-1a65)
-- [Top 10 Software Development Trends in 2025](https://dev.to/ign_softwares_4d136c8abbc/top-10-software-development-trends-in-2025-gi3)
+- [🤖 Build Your First Fully Autonomous AI Agent - Free Workshop! 🚀](https://dev.to/lukehinds/build-any-agent-you-like-at-the-free-agentup-workshop-come-try-out-the-hottest-open-source-agent-3alg)
+- [Setting Up the ELK Stack on AWS EC2 for Log Monitoring](https://dev.to/vatul16/setting-up-the-elk-stack-on-aws-ec2-for-log-monitoring-1eme)
+- [Prisma Backup](https://dev.to/daxsoft/prisma-backup-24e3)
+- [How to Find a Job in Tech: Practical Advice for Navigating a Tough Market](https://dev.to/miasalazar/how-to-find-a-job-in-tech-practical-advice-for-navigating-a-tough-market-219h)
+- [Symfony as JWT provider](https://dev.to/browsely_a899a03e6654ba38/symfony-as-jwt-provider-28a4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
