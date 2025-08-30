@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Üzerinde RBAC ile Kullanıcı Olusturma ve Yetkilendirme](https://dev.to/suleymanakturk/kubernetes-uzerinde-rbac-ile-kullanici-olusturma-ve-yetkilendirme-4jep)
+- [🔐 Understanding Checksums in Data Transmission with a Real-World API Example](https://dev.to/janmejayswain/understanding-checksums-in-data-transmission-with-a-real-world-api-example-1ff8)
+- [GPT-OSS 20B: The Game-Changing Open AI Model That Runs on Your Laptop](https://dev.to/anandsingh01/gpt-oss-20b-the-game-changing-open-ai-model-that-runs-on-your-laptop-18ha)
+- [Python Journey Log #1](https://dev.to/ramoyald/python-journey-log-1-1f77)
 - [Construyendo Interfaces Conversacionales. Parte 3](https://dev.to/aperezl/construyendo-interfaces-conversacionales-parte-3-2omj)
-- [Bug Bounty Dex223](https://dev.to/toto_bugelman_aece7be7171/bug-bounty-dex223-590)
-- [How to Fine-Tune Your Data and Build Smarter RAG Apps with LangGraph](https://dev.to/youvandraf/how-to-fine-tune-your-data-and-build-smarter-rag-apps-with-langgraph-5a9m)
-- [Construyendo Interfaces Conversacionales. Parte 2](https://dev.to/aperezl/construyendo-interfaces-conversacionales-parte-2-2ag9)
-- [Construyendo Interfaces Conversacionales. Parte 1](https://dev.to/aperezl/construyendo-interfaces-conversacionales-parte-1-32d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
