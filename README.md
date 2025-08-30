@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Design System Data Driven: como coletar métricas e transformar código em decisões](https://dev.to/victor-assis/design-system-data-driven-como-coletar-metricas-e-transformar-codigo-em-decisoes-22n5)
-- [Clicks to Efficiency: Automate Your Daily Browser Tasks](https://dev.to/thedevankit/clicks-to-efficiency-automate-your-daily-browser-tasks-5g55)
-- [Introducing Flexi-Cache : The Redis-Like In-Memory Cache for Node.js](https://dev.to/subhadip_pahari_1cd6ddc60/introducing-flexi-cache-node-the-redis-lite-in-memory-cache-for-nodejs-3do3)
-- [Easily Create an XLSX Output by Using Only HTML Table Component](https://dev.to/rizqyep/easily-create-an-xlsx-output-by-using-only-html-table-component-2iak)
-- [MySQL Views &amp; Window Functions: Advanced Data Analysis Techniques](https://dev.to/labex/mysql-views-window-functions-advanced-data-analysis-techniques-3dkj)
+- [Construyendo Interfaces Conversacionales. Parte 2](https://dev.to/aperezl/construyendo-interfaces-conversacionales-parte-2-2ag9)
+- [Construyendo Interfaces Conversacionales. Parte 1](https://dev.to/aperezl/construyendo-interfaces-conversacionales-parte-1-32d7)
+- [Test &lpar;Mock Interview&rpar;](https://dev.to/hayesvincent14/test-mock-interview-247f)
+- [about Greedy 贪心算法](https://dev.to/woodyxin/about-greedy-tan-xin-suan-fa-3i0l)
+- [Getting started with n8n](https://dev.to/youvandraf/getting-started-with-n8n-m01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
