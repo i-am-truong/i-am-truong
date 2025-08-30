@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Backend web Framework from Scratch in C++](https://dev.to/hamzahassanain0/i-built-a-backend-web-framework-from-scratch-in-c-41n8)
+- [Day 19 - Github Card project Part 2 - Component Composition](https://dev.to/railsstudent/day-19-github-card-project-part-2-component-composition-o40)
 - [Semantic html for Search Engine Optimization&lpar;SEO&rpar; and Accessibility.](https://dev.to/rolystone_mocha_316478f2b/semantic-html-for-search-engine-optimizationseo-and-accessibility-1pgm)
 - [🔥Major Update !](https://dev.to/asad_rafi1221/major-update--25dc)
 - [A version control tutorial with jj: Submit and Perfect Your PR](https://dev.to/altariarite/a-version-control-workflow-with-jj-submit-and-perfect-your-pr-3l63)
-- [&quot;Rust and TypeScript&quot;](https://dev.to/gautammanak1/rust-and-typescript-4h3d)
-- [Taco Bell and McDonald&amp;#x27;s Bring AI Back to Drive-Thrus to Improve Service After Early Challenges](https://dev.to/ytosko/taco-bell-and-mcdonaldx27s-bring-ai-back-to-drive-thrus-to-improve-service-after-early-challenges-3i9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
