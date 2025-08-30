@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Online Python Compilers to Practice and Learn Python](https://dev.to/suraj_kumar_fb57ae0928df2/top-online-python-compilers-to-practice-and-learn-python-6d6)
+- [What is the GIL in Python and Why Should You Care?](https://dev.to/imsushant12/what-is-the-gil-in-python-and-why-should-you-care-1cai)
+- [Global Interpreter Lock &lpar;GIL&rpar; in Python – Everything You Need to Know for Interviews](https://dev.to/imsushant12/global-interpreter-lock-gil-in-python-everything-you-need-to-know-for-interviews-5e4g)
+- [Unstoppable AI Workflow with n8n &amp; Bright Data](https://dev.to/aniruddhaadak/unstoppable-ai-workflow-with-n8n-bright-data-1p5a)
 - [Trait-Driven Rust Architecture](https://dev.to/raminfp/trait-driven-rust-architecture-1ife)
-- [Deploying an n8n AI Chatbot Agent on AWS ECS with Amazon Bedrock](https://dev.to/aws-builders/deploying-an-n8n-ai-chatbot-agent-on-aws-ecs-with-amazon-bedrock-ock)
-- [Critical Vulneribilty on Docker Desktop](https://dev.to/ardhrubo/critical-vulneribilty-on-docker-desktop-4ki9)
-- [The Day Transformers Stared Back at Me😂](https://dev.to/fonyuygita/the-day-transformers-stared-back-at-me-2c1p)
-- [Axios vs Fetch: Understanding the Differences in JavaScript HTTP Requests](https://dev.to/safal_bhandari/axios-vs-fetch-understanding-the-differences-in-javascript-http-requests-97d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
