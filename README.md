@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Electrical Impedance — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/electrical-impedance-an-engineers-practical-guide-2m68)
-- [This AI-Powered Sorting Algorithm Dynamically Picks the Best Strategy, Boosting Speed by 40%](https://dev.to/shrinivassab/this-ai-powered-sorting-algorithm-dynamically-picks-the-best-strategy-boosting-speed-by-40-3062)
-- [Why I Ditched Redis for Cloudflare Durable Objects in My Rate Limiter？](https://dev.to/horushe/why-i-ditched-redis-for-cloudflare-durable-objects-in-my-rate-limiter-jof)
-- [Are We Heading Toward the “AI-Native” Programming Era?](https://dev.to/sachin_chitre_644dd569bd8/are-we-heading-toward-the-ai-native-programming-era-28am)
-- [Why Did I Start Programming? &lpar;Personal Story&rpar;](https://dev.to/ibrohimbek-dev/why-did-i-start-programming-personal-story-4c2n)
+- [The 1% Rule of AI Mastery](https://dev.to/jaideepparashar/the-1-rule-of-ai-mastery-k59)
+- [evi-run Quick Start on Ubuntu: installation, character setup, and adding a custom agent](https://dev.to/cody_maza/evi-run-quick-start-on-ubuntu-installation-character-setup-and-adding-a-custom-agent-155l)
+- [Pengalaman Pertama menghadiri AWS Summit Jakarta 2025 sebagai Speaker](https://dev.to/aws-builders/pengalaman-pertama-menghadiri-aws-summit-jakarta-2025-sebagai-speaker-4i8a)
+- [🛳️ Docker Series: Episode 8 — Docker Compose: Build Multi-Container Apps Like a Boss](https://dev.to/yash_sonawane25/docker-series-episode-8-docker-compose-build-multi-container-apps-like-a-boss-3f3h)
+- [Adam Savage&#39;s Tested: Adam Savage Operates Hacksmith&#39;s Fallout Power Armor Hand!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-operates-hacksmiths-fallout-power-armor-hand-25ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
