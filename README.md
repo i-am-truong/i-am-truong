@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [💎 ANN: oauth2 v2.0.13](https://dev.to/galtzo/ann-oauth2-v2013-271k)
+- [Why Eckert Seamans Is Recognized for Excellence in Law and Workplace Culture](https://dev.to/adeolamhi_7ffe7fdf72330dd/why-eckert-seamans-is-recognized-for-excellence-in-law-and-workplace-culture-1d68)
 - [Daily DSA and System Design Journal - 3](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-3-2ech)
 - [Find the Next Instagram Stars Before They Explode: AI-Powered Growth Predictor](https://dev.to/vec21/find-the-next-instagram-stars-before-they-explode-ai-powered-growth-predictor-4f7c)
 - [Horizon World Tutorial - Maze Runner - Part 2 - Game and Player Controller](https://dev.to/lnationorg/horizon-world-tutorial-maze-runner-part-2-game-and-player-controller-fo7)
-- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-4-5057)
-- [Animating Pixel Art Fabric with Unity Shader](https://dev.to/sarasol/animating-pixel-art-fabric-with-unity-shader-6f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
