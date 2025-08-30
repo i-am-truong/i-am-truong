@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Micro Frontends: A Senior Frontend Engineer&#39;s Perspective](https://dev.to/kumar111222rohit/micro-frontends-a-senior-frontend-engineers-perspective-k7l)
+- [🌱 I Just Launched My Own Blogging Site – StackDevFlow.com](https://dev.to/sanjays442/i-just-launched-my-own-blogging-site-stackdevflowcom-1fle)
+- [Rust Project Structure and Best Practices for Clean, Scalable Code](https://dev.to/djamware_tutorial_eba1a61/rust-project-structure-and-best-practices-for-clean-scalable-code-3a4p)
 - [Automate Releases with Semantic Release and GitHub Actions &lpar;Step-by-Step&rpar;](https://dev.to/octolab/automate-releases-with-semantic-release-and-github-actions-step-by-step-1a65)
 - [Top 10 Software Development Trends in 2025](https://dev.to/ign_softwares_4d136c8abbc/top-10-software-development-trends-in-2025-gi3)
-- [Day 2](https://dev.to/_adii3107/day-2-3ppa)
-- [Streamline Your Flutter Development: Complete CI/CD Pipeline with GitHub Actions and Google Play Store Deployment](https://dev.to/vachhanirishi/streamline-your-flutter-development-complete-cicd-pipeline-with-github-actions-and-google-play-21fc)
-- [Explore and Create of Maps and Places Application Using Amazon Location Service](https://dev.to/aws-builders/explore-and-create-of-maps-and-places-application-using-amazon-location-service-378)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
