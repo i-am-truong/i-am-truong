@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Danny Maude: One Move To Help You Pure Every Iron &amp; Hybrid Shot You Hit](https://dev.to/youtube_golf/danny-maude-one-move-to-help-you-pure-every-iron-hybrid-shot-you-hit-7of)
+- [I built an app for travelers to explore dishes from around the world. Would love feedback!](https://dev.to/slim_bold/i-built-an-app-for-travelers-to-explore-dishes-from-around-the-world-would-love-feedback-2i66)
 - [Industry 4.0 for SMEs: Making Digital Transformation Affordable](https://dev.to/ashrafulazad/industry-40-for-smes-making-digital-transformation-affordable-51mc)
 - [Getting higher accuracy with deep learning models](https://dev.to/perfex_uiop/getting-higher-accuracy-with-deep-learning-models-94n)
 - [Will Blockchain Shape the Future of Mobile App Development?](https://dev.to/williamsj04/will-blockchain-shape-the-future-of-mobile-app-development-nod)
-- [WhatsApp Patches Zero-Click Exploit on iOS and macOS](https://dev.to/neerajlovecyber/whatsapp-patches-zero-click-exploit-on-ios-and-macos-ac7)
-- [Isn’t OSINT Just Glorified Googling?](https://dev.to/intelligence_x/isnt-osint-just-glorified-googling-183i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
