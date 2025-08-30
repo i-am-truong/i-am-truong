@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 80: The Keyboard Rebellion &amp; The Weight of &quot;Enough&quot;](https://dev.to/casperday11/day-80-the-keyboard-rebellion-the-weight-of-enough-4ccm)
-- [How I Broke My Workflow Trying To Automate Everything](https://dev.to/vverywwel/how-i-broke-my-workflow-trying-to-automate-everything-4njc)
-- [Стани част от ОБЩНОСТТА на софтуерните инженери, за да ти е по-лесно!](https://dev.to/dvt32/stani-chast-ot-obshchnostta-na-softuiernitie-inzhienieri-za-da-ti-ie-po-liesno-2lio)
-- [Стреми се да разбираш как работят отвътре различните технологии за програмиране!](https://dev.to/dvt32/striemi-sie-da-razbirash-kak-rabotiat-otvtrie-razlichnitie-tiekhnologhii-za-proghramiranie-gk7)
-- [PNPM: Beyond Dependency Management - A Modern Alternative to NVM](https://dev.to/italoqueiroz/pnpm-beyond-dependency-management-a-modern-alternative-to-nvm-2de5)
+- [useMemo, useCallback, React.memo — What Optimizations Actually Work](https://dev.to/crit3cal/usememo-usecallback-reactmemo-what-optimizations-actually-work-gkp)
+- [More is Better: An LLM &amp; Multi-Agent System Perspective](https://dev.to/jauhar/more-is-better-an-llm-multi-agent-system-perspective-500h)
+- [Building My Own DIY AI Stack](https://dev.to/keya_khatun_b0884129bc101/building-my-own-diy-ai-stack-57d8)
+- [Four Multipliers for Using AI Well: My Working Model](https://dev.to/comnori/four-multipliers-for-using-ai-well-my-working-model-2mjn)
+- [IGN: The Conjuring Universe Timeline in Chronological Order &lpar;2025 Edition&rpar;](https://dev.to/gg_news/ign-the-conjuring-universe-timeline-in-chronological-order-2025-edition-1adn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
