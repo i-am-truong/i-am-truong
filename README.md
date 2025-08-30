@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trait-Driven Rust Architecture](https://dev.to/raminfp/trait-driven-rust-architecture-1ife)
+- [Deploying an n8n AI Chatbot Agent on AWS ECS with Amazon Bedrock](https://dev.to/aws-builders/deploying-an-n8n-ai-chatbot-agent-on-aws-ecs-with-amazon-bedrock-ock)
+- [Critical Vulneribilty on Docker Desktop](https://dev.to/ardhrubo/critical-vulneribilty-on-docker-desktop-4ki9)
 - [The Day Transformers Stared Back at Me😂](https://dev.to/fonyuygita/the-day-transformers-stared-back-at-me-2c1p)
 - [Axios vs Fetch: Understanding the Differences in JavaScript HTTP Requests](https://dev.to/safal_bhandari/axios-vs-fetch-understanding-the-differences-in-javascript-http-requests-97d)
-- [Finite States Machines &lpar;in C&rpar;](https://dev.to/rdentato/finite-states-machines-in-c-129n)
-- [Why Caching Is Both a Savior and a Trouble-Maker](https://dev.to/dct_technology/why-caching-is-both-a-savior-and-a-trouble-maker-52aj)
-- [IGN: Helldivers 2 Review Update - Now on Xbox](https://dev.to/gg_news/ign-helldivers-2-review-update-now-on-xbox-5fid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
