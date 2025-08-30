@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MetalEAGLLayer](https://dev.to/maxnxi/metaleagllayer-5d0l)
-- [From Arrays to Collections: A Developer’s Guide to Smarter Data Handling in Java](https://dev.to/palak_singla/from-arrays-to-collections-a-developers-guide-to-smarter-data-handling-in-java-3fih)
-- [Building Robust Error Handling in FastAPI – and avoiding rookie mistakes](https://dev.to/buffolander/building-robust-error-handling-in-fastapi-and-avoiding-rookie-mistakes-ifg)
-- [need help with chatgpt](https://dev.to/bg3ananas/need-help-with-chatgpt-344p)
-- [iOS Development: using CAMetalLayer when legacy uses CAEAGLLayer](https://dev.to/maxnxi/ios-development-using-cametallayer-when-legacy-uses-caeagllayer-41ln)
+- [Design System Data Driven: como coletar métricas e transformar código em decisões](https://dev.to/victor-assis/design-system-data-driven-como-coletar-metricas-e-transformar-codigo-em-decisoes-22n5)
+- [Clicks to Efficiency: Automate Your Daily Browser Tasks](https://dev.to/thedevankit/clicks-to-efficiency-automate-your-daily-browser-tasks-5g55)
+- [Introducing Flexi-Cache : The Redis-Like In-Memory Cache for Node.js](https://dev.to/subhadip_pahari_1cd6ddc60/introducing-flexi-cache-node-the-redis-lite-in-memory-cache-for-nodejs-3do3)
+- [Easily Create an XLSX Output by Using Only HTML Table Component](https://dev.to/rizqyep/easily-create-an-xlsx-output-by-using-only-html-table-component-2iak)
+- [MySQL Views &amp; Window Functions: Advanced Data Analysis Techniques](https://dev.to/labex/mysql-views-window-functions-advanced-data-analysis-techniques-3dkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
