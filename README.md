@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Üzerinde RBAC ile Kullanıcı Olusturma ve Yetkilendirme](https://dev.to/suleymanakturk/kubernetes-uzerinde-rbac-ile-kullanici-olusturma-ve-yetkilendirme-4jep)
-- [🔐 Understanding Checksums in Data Transmission with a Real-World API Example](https://dev.to/janmejayswain/understanding-checksums-in-data-transmission-with-a-real-world-api-example-1ff8)
-- [GPT-OSS 20B: The Game-Changing Open AI Model That Runs on Your Laptop](https://dev.to/anandsingh01/gpt-oss-20b-the-game-changing-open-ai-model-that-runs-on-your-laptop-18ha)
-- [Python Journey Log #1](https://dev.to/ramoyald/python-journey-log-1-1f77)
-- [Construyendo Interfaces Conversacionales. Parte 3](https://dev.to/aperezl/construyendo-interfaces-conversacionales-parte-3-2omj)
+- [How to publish odoo apps on app store[updated]](https://dev.to/itgiggs/how-to-publish-odoo-apps-on-app-storeupdated-3b3f)
+- [My First Experience with Nexthink Tool &amp; Key Learnings](https://dev.to/karthikkorrayi/my-first-experience-with-nexthink-tool-key-learnings-59g6)
+- [Advanced Git Commands: Tools for Smarter Version Control](https://dev.to/shrsv/advanced-git-commands-tools-for-smarter-version-control-1c07)
+- [Your First React Component: JSX, Components, and the &quot;Hello, World&quot; Program&lpar;5/Sept&rpar;](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program5sept-3oj1)
+- [⚛️ React Native Changed the Way I Build — It Can Change Yours Too in 2025](https://dev.to/adeoti_israel_78eb9cfa5ac/react-native-changed-the-way-i-build-it-can-change-yours-too-in-2025-2aja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
