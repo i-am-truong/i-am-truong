@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding `@State` in SwiftUI: How It Works Under the Hood](https://dev.to/karthikpala/understanding-state-in-swiftui-how-it-works-under-the-hood-3l5o)
-- [From C# to Rust: Porting MathFlow to Create MathCore - A Symbolic Math Library Journey](https://dev.to/nonanti/from-c-to-rust-porting-mathflow-to-create-mathcore-a-symbolic-math-library-journey-23gi)
-- [vibe coders welcome](https://dev.to/lukehinds/vibe-coders-welcome-4cfp)
-- [Houses for Rent Auckland – A Guide for Tenants and Landlords](https://dev.to/hamza_ali_e5a3ccc85652d24/houses-for-rent-auckland-a-guide-for-tenants-and-landlords-25n8)
-- [🤖 Build Your First Fully Autonomous AI Agent - Free Workshop! 🚀](https://dev.to/lukehinds/build-any-agent-you-like-at-the-free-agentup-workshop-come-try-out-the-hottest-open-source-agent-3alg)
+- [🔥𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮𝗻 𝗻𝟴𝗻 𝗖𝗹𝗼𝗻𝗲 𝗶𝗻 𝗩𝘂𝗲](https://dev.to/sem1colons/-45nm)
+- [1 RN Thing a Day – Day 10: Memoization in React Native](https://dev.to/ola_1313/1-rn-thing-a-day-day-10-memoization-in-react-native-45lp)
+- [AWS open source newsletter, #213](https://dev.to/aws/aws-open-source-newsletter-213-33g5)
+- [Leetcode - 52. N-Queens II](https://dev.to/rakeshreddy512/leetcode-52-n-queens-ii-2m7k)
+- [Master n8n: The Developer&#39;s Automation Superpower 🚀](https://dev.to/devsj17/master-n8n-the-developers-automation-superpower-2hfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
