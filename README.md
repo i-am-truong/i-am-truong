@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code &amp; Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj)
 - [Agile Is Broken—But Here’s How We Fixed It](https://dev.to/kizilcakartugce/agile-is-broken-but-heres-how-we-fixed-it-41h5)
-- [Building a Smart Commute Assistant with Bright Data, n8n, and Weather &amp; Google Maps APIs](https://dev.to/nishikantaray/building-a-smart-commute-assistant-with-bright-data-n8n-and-weather-google-maps-apis-143o)
-- [Docker Tutorial for Absolute Beginners](https://dev.to/anusha_kuppili/docker-tutorial-for-absolute-beginners-4ap9)
-- [Docker Tutorial for Absolute Beginners: Step-by-Step Guide to Containerization in 2025](https://dev.to/anusha_kuppili/docker-tutorial-for-absolute-beginners-step-by-step-guide-to-containerization-in-2025-2c53)
-- [Module 3: Deepening Your Testing Knowledge](https://dev.to/xxzeroxx/module-3-deepening-your-testing-knowledge-375b)
+- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud and DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-and-devops-workflows-16gm)
+- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud &amp; DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-devops-workflows-29l6)
+- [Social Presence Research Agent](https://dev.to/rakinjakaria/social-presence-research-agent-4kjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
