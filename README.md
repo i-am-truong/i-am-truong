@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating GitHub Actions Updates Across Your Entire Organization](https://dev.to/anderson_leite/automating-github-actions-updates-across-your-entire-organization-17mj)
 - [Building a Multi-Agent AI Brand Monitoring System with n8n and BrightData](https://dev.to/prema_ananda/building-a-multi-agent-ai-brand-monitoring-system-with-n8n-and-brightdata-oe0)
 - [Why Docker is Actually a Game-Changer &lpar;And Why You Should Care&rpar; 🐳?](https://dev.to/aditya_srivastava_01/why-docker-is-actually-a-game-changer-and-why-you-should-care--io2)
 - [Docker Logging &amp; Log Drivers](https://dev.to/godofgeeks/docker-logging-log-drivers-41i4)
 - [Lessons I Learned Jumping Between JS, C#, GDScript, and Flutter](https://dev.to/wasi_ahbab/lessons-i-learned-jumping-between-js-c-gdscript-and-flutter-59dg)
-- [When we&#39;re together &lpar;Original&rpar;](https://dev.to/jacklehamster/when-were-together-original-22gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
