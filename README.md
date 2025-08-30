@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Assinando arquivos PDF com certificado digital em Go](https://dev.to/alexsetta/assinando-arquivos-pdf-com-certificado-digital-em-go-haf)
-- [222](https://dev.to/alikolahdoozan/222-17df)
-- [Create your own personal website for free — A guide to using GitHub Pages](https://dev.to/cat_dogrunning_in_the_s/create-your-own-personal-website-for-free-a-guide-to-using-github-pages-1f7a)
-- [揭秘 Nano Banana新玩法：Google 的 AI 图像编辑新王炸](https://dev.to/yang_ella_f2a3e16ccb54550/jie-mi-nano-bananaxin-wan-fa-google-de-ai-tu-xiang-bian-ji-xin-wang-zha-42ml)
-- [Can Minimal APIs use trusted connections?](https://dev.to/rodf/can-minimal-apis-use-trusted-connections-lia)
+- [Recursion vs Dynamic Programming: How to Identify the Right Approach](https://dev.to/devcorner/recursion-vs-dynamic-programming-how-to-identify-the-right-approach-3f60)
+- [GameSpot: Phantom Blade 0 - Hard Mode, Combat, And More Explained](https://dev.to/gg_news/gamespot-phantom-blade-0-hard-mode-combat-and-more-explained-36mo)
+- [IGN: Walker - Official Announcement Trailer](https://dev.to/gg_news/ign-walker-official-announcement-trailer-28pj)
+- [Why I Back Up to Three Cloud Providers &lpar;And Monitor Them All&rpar;](https://dev.to/tomcao2012/why-i-back-up-to-three-cloud-providers-and-monitor-them-all-1ogb)
+- [What is Computer Vision?](https://dev.to/dev_patel_35864ca1db6093c/what-is-computer-vision-44ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
