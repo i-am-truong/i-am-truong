@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Signs It&#39;s Time to Replace Your PC Instead of Upgrading to Windows 11](https://dev.to/theitserviceblog/5-signs-its-time-to-replace-your-pc-instead-of-upgrading-to-windows-11-3k53)
-- [why do developers leave coding today altogether ?](https://dev.to/bekbrace/why-do-developers-leave-coding-today-altogether--2f56)
-- [[Boost]](https://dev.to/bekbrace/-51m9)
-- [Compliance in the Cloud Isn’t a Checkbox](https://dev.to/myram/compliance-in-the-cloud-isnt-a-checkbox-29f2)
-- [just thinking, about a 64million color based, AI governed, assisted Operating System, in concept](https://dev.to/iblookn4u2/just-thinking-about-a-64million-color-based-ai-governed-assisted-operating-system-in-concept-24h1)
+- [ZK Identity Attestation Zero-Knowledge Proofs &lpar;ZKPs&rpar;](https://dev.to/craftygreenguru/zk-identity-attestation-zero-knowledge-proofs-zkps-j0n)
+- [From implementation to closing: communication skills that independent developers must learn](https://dev.to/junyu_fang_a216509a97501d/from-implementation-to-closing-communication-skills-that-independent-developers-must-learn-27fc)
+- [AI Silhouette Generator](https://dev.to/peng_li_61507f5f744c1b66e/ai-silhouette-generator-105j)
+- [AI vs ML vs MLOps: A Developer’s Roadmap to Getting Started](https://dev.to/hellonehha/ai-vs-ml-vs-mlops-a-developers-roadmap-to-getting-started-14pi)
+- [Horizon World Tutorial - Maze Runner - Part 1 - Creating the World](https://dev.to/lnationorg/horizon-world-tutorial-maze-runner-part-1-creating-the-world-48kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
