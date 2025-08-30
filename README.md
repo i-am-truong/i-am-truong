@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No-Code &amp; Low-Code Frontend Builders: The Best SaaS Platforms](https://dev.to/tenelabs/no-code-low-code-frontend-builders-the-best-saas-platforms-c55)
-- [Project: Building an AI Astronomy Cluster](https://dev.to/vintagedon/project-building-an-ai-astronomy-cluster-6em)
-- [Why Writing for AI Assistants Matters More Than Ever in 2025](https://dev.to/arkhan/why-writing-for-ai-assistants-matters-more-than-ever-in-2025-1cfi)
-- [How to publish odoo apps on app store[updated]](https://dev.to/itgiggs/how-to-publish-odoo-apps-on-app-storeupdated-3b3f)
-- [My First Experience with Nexthink Tool &amp; Key Learnings](https://dev.to/karthikkorrayi/my-first-experience-with-nexthink-tool-key-learnings-59g6)
+- [Agile Is Broken—But Here’s How We Fixed It](https://dev.to/kizilcakartugce/agile-is-broken-but-heres-how-we-fixed-it-41h5)
+- [Building a Smart Commute Assistant with Bright Data, n8n, and Weather &amp; Google Maps APIs](https://dev.to/nishikantaray/building-a-smart-commute-assistant-with-bright-data-n8n-and-weather-google-maps-apis-143o)
+- [Docker Tutorial for Absolute Beginners](https://dev.to/anusha_kuppili/docker-tutorial-for-absolute-beginners-4ap9)
+- [Docker Tutorial for Absolute Beginners: Step-by-Step Guide to Containerization in 2025](https://dev.to/anusha_kuppili/docker-tutorial-for-absolute-beginners-step-by-step-guide-to-containerization-in-2025-2c53)
+- [Module 3: Deepening Your Testing Knowledge](https://dev.to/xxzeroxx/module-3-deepening-your-testing-knowledge-375b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
