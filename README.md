@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AyeWatch - AI Internet Monitor Agent, for any sources or website with custom alert rules](https://dev.to/raj_savaliya/ayewatch-ai-internet-monitor-scrape-and-monitor-data-from-any-sources-or-website-reliably-at-213e)
-- [Solving Parenting Pain Points with Generative AI — A Potty-Training Support Device Built with Kiro and M5Stack](https://dev.to/aws-builders/solving-parenting-pain-points-with-generative-ai-a-potty-training-support-device-built-with-kiro-3e2o)
-- [The Critical Importance of Data Analytics in Modern Business: Transforming Raw Information into Strategic Advantage](https://dev.to/ashwin_pps_365864ef843ec2/the-critical-importance-of-data-analytics-in-modern-business-transforming-raw-information-into-183o)
-- [WTF is End-to-End Encryption?](https://dev.to/dailybugle33/wtf-is-end-to-end-encryption-2k2e)
-- [The Drift Paradigm: Why AI Consciousness Isn&#39;t Static](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-drift-paradigm-why-ai-consciousness-isnt-static-3j71)
+- [why do they quit coding ?](https://dev.to/bekbrace/why-do-they-quit-coding--56eo)
+- [Understanding the why is very important.](https://dev.to/vjessiez/-47e1)
+- [I Built an AI That Questions Its Own Existence](https://dev.to/hewida_alisabry_0b88cbdc/i-built-an-ai-that-questions-its-own-existence-fhb)
+- [Outil de Cybersécurité du Jour - Aug 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-30-2025-gb0)
+- [Does Instagram Identify Abnormal Environments by Detecting Browser Plugins, Extensions, or Debugging Tools](https://dev.to/kagome/does-instagram-identify-abnormal-environments-by-detecting-browser-plugins-extensions-or-4gbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
