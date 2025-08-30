@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Semantic html for Search Engine Optimization&lpar;SEO&rpar; and Accessibility.](https://dev.to/rolystone_mocha_316478f2b/semantic-html-for-search-engine-optimizationseo-and-accessibility-1pgm)
+- [🔥Major Update !](https://dev.to/asad_rafi1221/major-update--25dc)
 - [A version control tutorial with jj: Submit and Perfect Your PR](https://dev.to/altariarite/a-version-control-workflow-with-jj-submit-and-perfect-your-pr-3l63)
 - [&quot;Rust and TypeScript&quot;](https://dev.to/gautammanak1/rust-and-typescript-4h3d)
 - [Taco Bell and McDonald&amp;#x27;s Bring AI Back to Drive-Thrus to Improve Service After Early Challenges](https://dev.to/ytosko/taco-bell-and-mcdonaldx27s-bring-ai-back-to-drive-thrus-to-improve-service-after-early-challenges-3i9p)
-- [Responsive Tiled Mosaic Image Gallery](https://dev.to/jhvanderschee/responsive-tiled-mosaic-image-gallery-k76)
-- [EEPROM 28C64 API Performance with Arduino](https://dev.to/inngoose/eeprom-28c64-api-performance-with-arduino-2g20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
