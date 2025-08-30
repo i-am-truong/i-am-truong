@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Automate Releases with Semantic Release and GitHub Actions &lpar;Step-by-Step&rpar;](https://dev.to/octolab/automate-releases-with-semantic-release-and-github-actions-step-by-step-1a65)
+- [Top 10 Software Development Trends in 2025](https://dev.to/ign_softwares_4d136c8abbc/top-10-software-development-trends-in-2025-gi3)
 - [Day 2](https://dev.to/_adii3107/day-2-3ppa)
 - [Streamline Your Flutter Development: Complete CI/CD Pipeline with GitHub Actions and Google Play Store Deployment](https://dev.to/vachhanirishi/streamline-your-flutter-development-complete-cicd-pipeline-with-github-actions-and-google-play-21fc)
 - [Explore and Create of Maps and Places Application Using Amazon Location Service](https://dev.to/aws-builders/explore-and-create-of-maps-and-places-application-using-amazon-location-service-378)
-- [Handling 404 and 500 Errors Gracefully in Django with Custom JSON Responses](https://dev.to/engrmark/handling-404-and-500-errors-gracefully-in-django-with-custom-json-responses-32oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
