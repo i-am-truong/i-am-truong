@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting higher accuracy with deep learning models](https://dev.to/perfex_uiop/getting-higher-accuracy-with-deep-learning-models-94n)
+- [Will Blockchain Shape the Future of Mobile App Development?](https://dev.to/williamsj04/will-blockchain-shape-the-future-of-mobile-app-development-nod)
 - [WhatsApp Patches Zero-Click Exploit on iOS and macOS](https://dev.to/neerajlovecyber/whatsapp-patches-zero-click-exploit-on-ios-and-macos-ac7)
 - [Isn’t OSINT Just Glorified Googling?](https://dev.to/intelligence_x/isnt-osint-just-glorified-googling-183i)
-- [Building a Ragnarok Online Server in Elixir - Part 3](https://dev.to/ygorcastor/building-a-ragnarok-online-server-in-elixir-part-3-4npd)
-- [Automating GitHub Actions Updates Across Your Entire Organization](https://dev.to/anderson_leite/automating-github-actions-updates-across-your-entire-organization-17mj)
-- [Building a Multi-Agent AI Brand Monitoring System with n8n and BrightData](https://dev.to/prema_ananda/building-a-multi-agent-ai-brand-monitoring-system-with-n8n-and-brightdata-oe0)
+- [The Benefits of Cloud-Based CMS for Businesses](https://dev.to/alenajames/the-benefits-of-cloud-based-cms-for-businesses-1m0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
