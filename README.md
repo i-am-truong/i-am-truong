@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My frist post on dev.to, I want to share my journey so far and also describe what I want to present to my readers in my blog](https://dev.to/asmittt_11/my-frist-post-on-devto-i-want-to-share-my-journey-so-far-and-also-describe-what-i-want-to-present-2mj7)
+- [The Subtle Art of State Management Without Redux or Zustand](https://dev.to/mrrookie/the-subtle-art-of-state-management-without-redux-or-zustand-1fjo)
 - [🛡️ Content Security Policy &lpar;CSP&rpar;: A Complete Guide for Developers](https://dev.to/fazal_mansuri_/content-security-policy-csp-a-complete-guide-for-developers-56lp)
 - [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
 - [AnyProxy: Redirect Network Requests Without Server Modifications](https://dev.to/youngluo/anyproxy-redirect-network-requests-without-server-modifications-8np)
-- [Retries, Dead Letter Queues &amp; Parking Lot: API Integration Essentials](https://dev.to/dakshim/retries-dead-letter-queues-parking-lot-api-integration-essentials-2g8d)
-- [Are We Reaching The Limit Of AI Reliability?](https://dev.to/stephanie_ozor_1e7b693226/are-we-reaching-the-limit-of-ai-reliability-58g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
