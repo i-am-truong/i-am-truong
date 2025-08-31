@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How do Transformer Models work? &lpar;a sneak-peek&rpar;](https://dev.to/anuroopvj/how-do-transformer-models-work-a-sneak-peek-3g3d)
-- [The Subscription Revolution: Why a Cloud Queue Management System is the Future of Service Delivery](https://dev.to/qwaiton_d13a3cf52ee31e800/the-subscription-revolution-why-a-cloud-queue-management-system-is-the-future-of-service-delivery-5boa)
-- [Test Context Pattern: Extracting Orchestration from Hexagonal Unit Tests](https://dev.to/israelstz/test-context-pattern-extracting-orchestration-from-hexagonal-unit-tests-5gem)
-- [Right Chip, Right Place](https://dev.to/merajsafari/right-chip-right-place-goa)
-- [What is Solana? A Simple Guide to the High-Speed Blockchain](https://dev.to/abdeldjalilchougui/what-is-solana-a-simple-guide-to-the-high-speed-blockchain-4h54)
+- [Adam Savage&#39;s Tested: Adam Savage Wishes the News Would Cover This Subject](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-wishes-the-news-would-cover-this-subject-1d8h)
+- [🔥 DOM is Dead? How React&#39;s New Compiler Will Change Everything &lpar;And What You Should Do Now&rpar;](https://dev.to/ekwoster/dom-is-dead-how-reacts-new-compiler-will-change-everything-and-what-you-should-do-now-ph)
+- [IGN: Donkey Kong Bananza - All Style Options and Outfits &lpar;4K&rpar;](https://dev.to/gg_news/ign-donkey-kong-bananza-all-style-options-and-outfits-4k-4a52)
+- [Attack of the Messy Queries: Rise of the Query Builder](https://dev.to/killallskywalker/attack-of-the-messy-queries-rise-of-the-query-builder-4ljf)
+- [Building Interactive SDK Walkthroughs with WebGL](https://dev.to/buildvr/building-interactive-sdk-walkthroughs-with-webgl-42fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
