@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLMOps vs MLOps: What Every Developer Needs to Know in 2025](https://dev.to/gangatharan_gurusamy_22fb/llmops-vs-mlops-what-every-developer-needs-to-know-in-2025-24k4)
+- [My new post in DEV I hope its nice❤️❤️❤️](https://dev.to/mwaibindiete/my-new-post-in-dev-i-hope-its-nice-b84)
 - [Choosing the Right HTTP Method for Your REST API](https://dev.to/gianfcop98/choosing-the-right-http-method-for-your-rest-api-2lp3)
 - [5 File Insights Performance Secrets That Will Blow Your Mind 🚀](https://dev.to/vijay431/5-file-insights-performance-secrets-that-will-blow-your-mind-5a2p)
-- [Get File Insights Running in 5 Minutes ⚡](https://dev.to/vijay431/get-file-insights-running-in-5-minutes-51gc)
 - [Real Developers, Real File Insights Results 👥](https://dev.to/vijay431/real-developers-real-file-insights-results-4144)
-- [Backend Interview Prep Beyond LeetCode &lpar;For 3 Years Experience&rpar;](https://dev.to/rakeshreddy512/backend-interview-prep-beyond-leetcode-for-3-years-experience-7gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
