@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Python Developer to SaaS Founder: My Next Move](https://dev.to/code_2/from-python-developer-to-saas-founder-my-next-move-n90)
-- [Life as a Software Engineer Today: Balancing Work, Learning, and Life](https://dev.to/janmejayswain/life-as-a-software-engineer-today-balancing-work-learning-and-life-1nc4)
-- [🚀 Angular 20 Features &amp; What’s New in 2025 &lpar;With Examples&rpar;](https://dev.to/rohit_singh_ee84e64941db7/angular-20-features-whats-new-in-2025-with-examples-1fc1)
-- [How I Process things?](https://dev.to/aadswebdesign/how-i-process-things-b9m)
-- [Distributed Concurrency Control](https://dev.to/alamfatima1999/distributed-concurrency-control-4h1i)
+- [Fixing “Invalid Credentials” in AWS SSM Fleet Manager RDP](https://dev.to/damola12345/fixing-invalid-credentials-in-aws-ssm-fleet-manager-rdp-bld)
+- [Supercharge Your React Apps with Signals: The Future of Reactive State Management in 2025🚀🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/supercharge-your-react-apps-with-signals-the-future-of-reactive-state-management-in-2025-47a3)
+- [Ética e IA: diretrizes e regulamentações](https://dev.to/lucaspereiradesouzat/etica-e-ia-diretrizes-e-regulamentacoes-54oe)
+- [Mono in Spring Boot Explained with Simple Examples](https://dev.to/realnamehidden1_61/mono-in-spring-boot-explained-with-simple-examples-45o5)
+- [Building My First React Portfolio: Challenges, Learning, and Growth](https://dev.to/minoosh/building-my-first-react-portfolio-challenges-learning-and-growth-59l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
