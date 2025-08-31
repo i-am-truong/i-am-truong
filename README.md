@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎙️ Building Your Own Live Audio Waveform in React Native](https://dev.to/toshiya_matsumoto_ac94abe/building-your-own-live-audio-waveform-in-react-native-4e49)
-- [Introducing Fluid: Explicit and Robust Reactivity for Modern JavaScript](https://dev.to/pungy/introducing-fluid-explicit-and-robust-reactivity-for-modern-javascript-1073)
-- [37. Sudoku Solver](https://dev.to/mdarifulhaque/37-sudoku-solver-56b9)
-- [React Native Skeleton: From Zero to &#39;Hello World&#39; Without Losing Your Sanity](https://dev.to/klasniyparen/react-native-skeleton-from-zero-to-hello-world-without-losing-your-sanity-3c02)
-- [My React Journey: Day 2- Create a component and use expression in template](https://dev.to/michelemalagnini/my-react-journey-day-2-create-a-component-and-use-expression-in-template-55oo)
+- [Untitled](https://dev.to/johann_ml_a2922ec00c4be46/untitled-2gl1)
+- [Traditional AI vs. Generative AI and Types of AI](https://dev.to/ashwani_kumar_a70ee558a2c/traditional-ai-vs-generative-ai-and-types-of-ai-5h0i)
+- [Mastering Child Processes in Node.js: Unleashing Parallel Power](https://dev.to/vjnvisakh/mastering-child-processes-in-nodejs-unleashing-parallel-power-5089)
+- [How to Test Github Actions Locally Without Third-Party Tools](https://dev.to/fedtti/how-to-test-github-actions-locally-without-third-party-tools-4mka)
+- [Learning n8n by Doing: First Case Study - Slack to Dev.to](https://dev.to/youvandraf/learning-n8n-by-doing-first-case-study-slack-to-devto-5cc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
