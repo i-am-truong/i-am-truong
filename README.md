@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Who is a senior developer?](https://dev.to/dobrenteiistvan/who-is-a-senior-developer-5di8)
-- [Solving “No Space Left on Device” with a Little Bit of AWS Trick](https://dev.to/lovestaco/solving-no-space-left-on-device-with-a-little-bit-of-aws-trick-ced)
-- [🚀 Build a Stunning Glassmorphic E-commerce Product Card with HTML &amp; CSS](https://dev.to/safdarali25/build-a-stunning-glassmorphic-e-commerce-product-card-with-html-css-3e9b)
-- [AI-Assisted Code Review: Opportunities and Pitfalls](https://dev.to/dixitgurv/ai-assisted-code-review-opportunities-and-pitfalls-llp)
-- [Mastering the Art of Project Management 🚀 From Idea to Delivery](https://dev.to/swapnil-ahmmed-shishir/mastering-the-art-of-project-management-from-idea-to-delivery-525n)
+- [Event-driven cookie manager for the modern web.](https://dev.to/indianmodassir/event-driven-cookie-manager-for-the-modern-web-2pab)
+- [The Future of Decision-Making: AI Agent That Predicts Trends &amp; Profits](https://dev.to/revis047/stop-scrolling-this-ai-agent-delivers-the-news-whats-next-2ea6)
+- [Your Android Phone Is Secretly Tracking You: A Developer&#39;s Guide to Real Privacy](https://dev.to/martijn_assie_12a2d3b1833/your-android-phone-is-secretly-tracking-you-a-developers-guide-to-real-privacy-480a)
+- [Secure Your .NET 8 APIs in Minutes with OpenIddict: A Minimalist&#39;s Guide](https://dev.to/abdecoder/secure-your-net-8-apis-in-minutes-with-openiddict-a-minimalists-guide-2bog)
+- [Bun](https://dev.to/giane_vezzoni/bun-2d5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
