@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding AMI,&lpar;Amazon Machine Image&rpar; , EBS Multi-Attach, Snapshots in AWS – A Beginner’s Guide&lpar;Simplified&rpar;](https://dev.to/momoischief/understanding-amiamazon-machine-image-ebs-multi-attach-snapshots-in-aws-a-beginners-28b8)
+- [MongoDB - Aggregations with Java + Spring](https://dev.to/arturobatistute/mongodb-aggregations-with-java-spring-12pc)
+- [100% Test coverage, the Holy Grail of QA. &lpar;Satirical&rpar;](https://dev.to/anthonypdawson/100-test-coverage-the-holy-grail-of-qa-satirical-241b)
+- [[Boost]](https://dev.to/iscander01/-m46)
 - [React: How to Test useState &lpar;with Examples&rpar;](https://dev.to/lico/react-testing-usestate-with-examples-34mm)
-- [I built an AI Agent That reveals Wall Street Sentiment in seconds](https://dev.to/indika_wimalasuriya/i-built-an-ai-agent-that-reveals-wall-street-sentiment-in-seconds-4ma2)
-- [Can LLMs Power Randomizers?](https://dev.to/butter/can-llms-power-randomizers-3omp)
-- [TechPulse AI - Automated LinkedIn Tech News Agent - Powered by n8n &amp; Bright Data](https://dev.to/abhinandan-r/techpulse-ai-automated-linkedin-tech-news-agent-powered-by-n8n-bright-data-37p0)
-- [August 2025 At Releem - Recommendations Impact &amp; Redundant Index Detection](https://dev.to/drupaladmin/august-2025-at-releem-recommendations-impact-redundant-index-detection-2cp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
