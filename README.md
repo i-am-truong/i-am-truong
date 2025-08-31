@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Life as a Software Engineer Today: Balancing Work, Learning, and Life](https://dev.to/janmejayswain/life-as-a-software-engineer-today-balancing-work-learning-and-life-1nc4)
+- [🚀 Angular 20 Features &amp; What’s New in 2025 &lpar;With Examples&rpar;](https://dev.to/rohit_singh_ee84e64941db7/angular-20-features-whats-new-in-2025-with-examples-1fc1)
+- [How I Process things?](https://dev.to/aadswebdesign/how-i-process-things-b9m)
 - [Distributed Concurrency Control](https://dev.to/alamfatima1999/distributed-concurrency-control-4h1i)
-- [100 Days of DevOps: Day 26](https://dev.to/wycliffealphus/100-days-of-devops-day-26-5ghi)
-- [What is Git?](https://dev.to/thekarlesi/what-is-git-2gl7)
-- [Sync Obsidian via S3 with Remotely Save Plugin](https://dev.to/zhizhiarv/sync-obsidian-via-s3-with-remotely-save-plugin-19m9)
-- [At 16, I’m Launching Vyoma — A Universal Toolkit &amp; Ecosystem](https://dev.to/pjdeveloper896/at-16-im-launching-vyoma-a-universal-toolkit-ecosystem-3fc)
+- [Beyond Moore’s Law: AI’s Role in Accelerating Quantum Computing Research](https://dev.to/kushvanth_chowdarynagabh/beyond-moores-law-ais-role-in-accelerating-quantum-computing-research-19c0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
