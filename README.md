@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Travel Planning with n8n and Real-time scrape using Bright Data](https://dev.to/masud_ali_cc66779de0c2b2/automating-travel-planning-with-n8n-and-real-time-scrape-using-bright-data-2ao4)
-- [Core JavaScript - Expert Level Revision](https://dev.to/anmshpndy/core-javascript-expert-level-revision-42a2)
-- [Build a .NET Core Web API in minutes with AKSCodeNavAI &lpar;Visual Studio Extension&rpar;](https://dev.to/anup_kumar_51d4c4360384d4/build-a-net-core-web-api-in-minutes-with-akscodenavai-visual-studio-extension-3gok)
-- [LLMOps vs MLOps: What Every Developer Needs to Know in 2025](https://dev.to/gangatharan_gurusamy_22fb/llmops-vs-mlops-what-every-developer-needs-to-know-in-2025-24k4)
-- [My new post in DEV I hope its nice❤️❤️❤️](https://dev.to/mwaibindiete/my-new-post-in-dev-i-hope-its-nice-b84)
+- [Testing Services on .NET8 with NUnit and Moq](https://dev.to/vinicius_estevam/testing-services-on-net8-with-nunit-and-moq-1em)
+- [React Expert Revision Handbook](https://dev.to/anmshpndy/react-expert-revision-handbook-og1)
+- [My React Journey: Day 3 – Rendering Lists with Angular @for and React .map&lpar;&rpar;](https://dev.to/michelemalagnini/my-react-journey-day-3-rendering-lists-with-angular-for-and-react-map-p1n)
+- [The SEO Alchemist: How I Built an AI Agent to Turn Raw Web Data into Content Gold](https://dev.to/inforeole/the-seo-alchemist-how-i-built-an-ai-agent-to-turn-raw-web-data-into-content-gold-5ej6)
+- [The Unstoppable Lead Generation Engine: A Multi-Agent AI Workflow with n8n &amp; Bright Data](https://dev.to/inforeole/the-unstoppable-lead-generation-engine-a-multi-agent-ai-workflow-with-n8n-bright-data-4k3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
