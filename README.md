@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Concurrency Control](https://dev.to/alamfatima1999/distributed-concurrency-control-4h1i)
+- [100 Days of DevOps: Day 26](https://dev.to/wycliffealphus/100-days-of-devops-day-26-5ghi)
 - [What is Git?](https://dev.to/thekarlesi/what-is-git-2gl7)
 - [Sync Obsidian via S3 with Remotely Save Plugin](https://dev.to/zhizhiarv/sync-obsidian-via-s3-with-remotely-save-plugin-19m9)
 - [At 16, I’m Launching Vyoma — A Universal Toolkit &amp; Ecosystem](https://dev.to/pjdeveloper896/at-16-im-launching-vyoma-a-universal-toolkit-ecosystem-3fc)
-- [How I created a research agent with langflow](https://dev.to/anuroopvj/how-i-created-a-research-agent-with-langflow-4e1g)
-- [🧐How to AI code review for free &lpar;PR-Agent&rpar;🧠](https://dev.to/webdeveloperhyper/how-to-ai-code-review-for-free-pr-agent-1i8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
