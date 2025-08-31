@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Git?](https://dev.to/thekarlesi/what-is-git-2gl7)
+- [Sync Obsidian via S3 with Remotely Save Plugin](https://dev.to/zhizhiarv/sync-obsidian-via-s3-with-remotely-save-plugin-19m9)
+- [At 16, I’m Launching Vyoma — A Universal Toolkit &amp; Ecosystem](https://dev.to/pjdeveloper896/at-16-im-launching-vyoma-a-universal-toolkit-ecosystem-3fc)
 - [How I created a research agent with langflow](https://dev.to/anuroopvj/how-i-created-a-research-agent-with-langflow-4e1g)
 - [🧐How to AI code review for free &lpar;PR-Agent&rpar;🧠](https://dev.to/webdeveloperhyper/how-to-ai-code-review-for-free-pr-agent-1i8n)
-- [How to Persist Tool Permissions in Amazon Q Developer CLI](https://dev.to/zhizhiarv/how-to-persist-tool-permissions-in-amazon-q-developer-cli-18fl)
-- [✨ From Groceries to Game Arcs ✨](https://dev.to/cutieyunnytech/from-groceries-to-game-arcs-41fp)
-- [How I Built My SaaS MVP in 20 Days &lpar;Lessons Learned&rpar;](https://dev.to/asim786521/how-i-built-my-saas-mvp-in-20-days-lessons-learned-4gic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
