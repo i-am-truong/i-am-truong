@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent for Google Play Review Monitoring](https://dev.to/bridget_amana/ai-agent-for-google-play-review-monitoring-2p9b)
+- [Google&#39;s &quot;Nano Banana&quot; Just Broke the Internet - And It&#39;s Actually Real 🍌](https://dev.to/shiva_shanker_k/googles-nano-banana-just-broke-the-internet-and-its-actually-real-26d1)
+- [**Processing Mode**](https://dev.to/sabarinextgen_81595a6c7c4/processing-mode-4n8p)
 - [The Great AI Battle of 2025: OpenAI vs DeepSeek vs Qwen - Who&#39;s Actually Winning?](https://dev.to/shiva_shanker_k/the-great-ai-battle-of-2025-openai-vs-deepseek-vs-qwen-whos-actually-winning-55j3)
-- [SEMENTIC HTML](https://dev.to/alex001crypto/sementic-html-beb)
-- [Digital Sovereignty and Attorney-Client Confidentiality:](https://dev.to/thomasdelfing_de/digital-sovereignty-and-attorney-client-confidentiality-bd)
-- [Android 15 and Safe Areas: Why Apps Feel Different Now](https://dev.to/abhivyaktii/android-15-and-safe-areas-why-apps-feel-different-now-4fkd)
-- [Test in java](https://dev.to/arun_c6a0bb194d6c21e7d4c3/test-in-java-5cf)
+- [The Math Behind Bounding Box Collision Detection - AABB vs OBB&lpar;Separate Axis Theorem&rpar;](https://dev.to/pratyush_mohanty_6b8f2749/the-math-behind-bounding-box-collision-detection-aabb-vs-obbseparate-axis-theorem-1gdn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
