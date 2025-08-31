@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Teach AI to Remember and Share Knowledge?](https://dev.to/kagvi13/how-to-teach-ai-to-remember-and-share-knowledge-3hd9)
-- [Why Building Scalable and Resilient Systems Matters! day 42 of system design basics](https://dev.to/vincenttommi/why-building-scalable-and-resilient-systems-matters-gp5)
-- [A Decade Journey Of A Senior Software Engineer](https://dev.to/holpa/a-decade-journey-of-a-senior-software-engineer-49l7)
-- [Ton IA, c&#39;est comme une pote sortie du congélo !](https://dev.to/oclka/ton-ia-cest-comme-une-pote-sortie-du-congelo--e99)
-- [Collecting Feedback Early Saves Time, Money &amp; Headaches – Building a Lightweight Tool for It](https://dev.to/joel_d52847aa7d32e39d8f65/collecting-feedback-early-saves-time-money-headaches-building-a-lightweight-tool-for-it-23gi)
+- [ASP.NET Core show/hide password](https://dev.to/karenpayneoregon/aspnet-core-showhide-password-i4f)
+- [Introducing the ForemCards Ideia](https://dev.to/wantu/introducing-the-foremcards-ideia-280i)
+- [Dependency Injection in Flutter: Simplifying App Architecture](https://dev.to/bestaoui_aymen/dependency-injection-in-flutter-simplifying-app-architecture-1j97)
+- [YouTube Privacy Guide: How to Stop Hidden Tracking Across Samsung, Xiaomi, and Pixel Devices](https://dev.to/martijn_assie_12a2d3b1833/youtube-privacy-warning-critical-settings-you-should-turn-off-today-10pm)
+- [The Boom, the Bust, and the Quiet Survivors](https://dev.to/iampaulonu/the-boom-the-bust-and-the-quiet-survivors-1kf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
