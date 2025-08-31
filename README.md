@@ -82,10 +82,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Purelymail – The Most Cost-Effective Email Provider for Custom Domains](https://dev.to/r-quazi/purelymail-the-most-cost-effective-email-provider-for-custom-domains-2j56)
+- [DePIN: The Web3 Movement Bringing Blockchain Into the Real World](https://dev.to/digitaldime/depin-the-web3-movement-bringing-blockchain-into-the-real-world-1h0c)
+- [Semantic HTML for Developers: Boosting SEO, Accessibility, and Web Standards](https://dev.to/sibwoga_alfred_ad85caafd6/semantic-html-for-developers-boosting-seo-accessibility-and-web-standards-33fe)
 - [Why Our &quot;Perfect&quot; MongoDB Setup Failed in Production &lpar;And How We Fixed It&rpar;](https://dev.to/ziaulhoque24/why-our-perfect-mongodb-setup-failed-in-production-and-how-we-fixed-it-27fc)
 - [[D] NeurIPS is pushing to SACs to reject already accepted papers due to venue constraints](https://dev.to/technoblogger14o3/d-neurips-is-pushing-to-sacs-to-reject-already-accepted-papers-due-to-venue-constraints-3778)
-- [Guiding Without Owning](https://dev.to/remejuan/guiding-without-owning-5lc)
-- [We built a Slop Index: fingerprints for templated AI writing](https://dev.to/viablemedia/we-built-a-slop-index-fingerprints-for-templated-ai-writing-2c52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
