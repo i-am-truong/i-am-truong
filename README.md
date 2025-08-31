@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 AWS Services Every Developer Should Know in 2025](https://dev.to/mariehposa/top-10-aws-services-every-developer-should-know-in-2025-f1h)
-- [💎 ANN: oauth2 v2.0.13](https://dev.to/galtzo/ann-oauth2-v2013-271k)
-- [Why Eckert Seamans Is Recognized for Excellence in Law and Workplace Culture](https://dev.to/adeolamhi_7ffe7fdf72330dd/why-eckert-seamans-is-recognized-for-excellence-in-law-and-workplace-culture-1d68)
-- [Daily DSA and System Design Journal - 3](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-3-2ech)
-- [Find the Next Instagram Stars Before They Explode: AI-Powered Growth Predictor](https://dev.to/vec21/find-the-next-instagram-stars-before-they-explode-ai-powered-growth-predictor-4f7c)
+- [The Ultimate Ranking of Animal-Inspired .com Brand Names](https://dev.to/flippp/the-ultimate-ranking-of-animal-inspired-com-brand-names-2gi2)
+- [Surprise Breakthrough](https://dev.to/ramoyald/surprise-breakthrough-47g7)
+- [Robust Context in Go Microservices](https://dev.to/leapcell/robust-context-in-go-microservices-ihp)
+- [Hello everybody out there using React](https://dev.to/jonmatum/hello-everybody-out-there-using-react-7p0)
+- [Mengenal Perintah jika dan tanya di Earl](https://dev.to/dev_nazwashabrina/mengenal-perintah-jika-dan-tanya-di-earl-4c74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
