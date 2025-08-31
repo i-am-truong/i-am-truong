@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How GPUs Organize Work: Or What are GPU Warps](https://dev.to/shrsv/how-gpus-organize-work-or-what-are-gpu-warps-2k4p)
+- [Topological Sort](https://dev.to/khushi2488/topological-sort-1hm3)
 - [Unity vs Unreal vs Godot: Finding Your Perfect Game Engine in 2025](https://dev.to/philipjohnbasile/unity-vs-unreal-vs-godot-finding-your-perfect-game-engine-in-2025-1ck9)
-- [Hands On Large Language Model](https://dev.to/aditya_gupta_22e13c9f63a1/hands-on-large-language-model-2nam)
-- [Config Notebook Jupyter on Pycharm...](https://dev.to/catundanatalia/config-notebook-jupyter-on-pycharm-3fli)
-- [hey i made a few programming stickers and want some feedback. thx :D](https://dev.to/beigestack/hey-i-made-a-few-programming-stickers-and-want-some-feedback-thx-d-2ppd)
-- [🚀 Installing Windows 11 on MSI with Click BIOS 5: Quick &amp; Full Guide](https://dev.to/shahibur_rahman_6670cd024/installing-windows-11-on-msi-with-click-bios-5-quick-full-guide-1217)
+- [30 Days Of Code- Day 30](https://dev.to/akshitaexe/30-days-of-code-day-30-3kdd)
+- [Instant AI Text Enhancements in React with prompt-my-client-react](https://dev.to/rajanlagah/instant-ai-text-enhancements-in-react-with-prompt-my-client-react-4gpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
