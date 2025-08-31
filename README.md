@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI-Powered Content Generation Platform](https://dev.to/code_2/build-an-ai-powered-content-generation-platform-24gg)
-- [Java: Primitive `int` vs Wrapper `Integer` - Complete Guide](https://dev.to/gaurbprajapati/java-primitive-int-vs-wrapper-integer-complete-guide-13o1)
-- [Dev Log 14 - Zero to Impostor](https://dev.to/asx/dev-log-14-zero-to-impostor-1nj2)
-- [Semantic HTML for SEO and Accessibility](https://dev.to/ck_blessed_7fd6b47af8e5bb/semantic-html-for-seo-and-accessibility-221p)
-- [PMKVY, CGFSD &amp; You: Skilling Loans Made Simple](https://dev.to/gov01/pmkvy-cgfsd-you-skilling-loans-made-simple-4ob3)
+- [Alec Steele: I finally did it!](https://dev.to/maker_youtube/alec-steele-i-finally-did-it-446d)
+- [How I Turned My RxJS Headaches Into Rimmel.js](https://dev.to/dariomannu/how-i-turned-my-rxjs-headaches-into-rimmeljs-1kjo)
+- [WYKRA: Web You Know, Real-time Analysis](https://dev.to/olgabraginskaya/wykra-web-you-know-real-time-analysis-20i3)
+- [Why existing React color pickers frustrated me &lpar;and what I built instead&rpar;](https://dev.to/ddoemonn/why-existing-react-color-pickers-frustrated-me-and-what-i-built-instead-5ghg)
+- [What Building My Own ISP Simulation Taught Me About CGNAT and the Internet&#39;s Hidden Backbone](https://dev.to/hassamdev/what-building-my-own-isp-simulation-taught-me-about-cgnat-and-the-internets-hidden-backbone-46d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
