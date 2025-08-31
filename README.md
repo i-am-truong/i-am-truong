@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Auditing Sensitive Data Changes in Laravel: Securing High-Risk Operations](https://dev.to/azmy/auditing-sensitive-data-changes-in-laravel-securing-high-risk-operations-9n3)
+- [RankGap: Multi-Agent Amazon SEO &amp; Product Visibility Analyzer](https://dev.to/better-boy/rankgap-multi-agent-amazon-seo-product-visibility-analyzer-2h81)
+- [Furniture Image Classification Using TypeScript + BilberryDB SDK vs. No-Code Approach](https://dev.to/ravinthiran_partheepan_4e/furniture-image-classification-using-typescript-bilberrydb-sdk-vs-no-code-approach-2a4g)
 - [SQL 注入、权限提升与 WebShell实战](https://dev.to/ctkqiang/sql-zhu-ru-quan-xian-ti-sheng-yu-webshellshi-zhan-5d0m)
-- [The Good Devs, The Bad Stress and The Ugly Truth](https://dev.to/m3yevn/the-good-devs-the-bad-stress-and-the-ugly-truth-35n1)
-- [100 Days of DevOps: Day 28](https://dev.to/wycliffealphus/100-days-of-devops-day-28-57l0)
-- [Fixing “Invalid Credentials” in AWS SSM Fleet Manager RDP](https://dev.to/damola12345/fixing-invalid-credentials-in-aws-ssm-fleet-manager-rdp-bld)
-- [Ethics and AI: guidelines and regulations](https://dev.to/lucaspereiradesouzat/ethics-and-ai-guidelines-and-regulations-65e)
+- [latest AI features](https://dev.to/alaa_alaiwah_c13ac08dcfed/latest-ai-features-3d7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
