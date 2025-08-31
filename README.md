@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Най-добрата техника за продуктивност за програмисти! &lpar;“pomodoro” техниката&rpar;](https://dev.to/dvt32/nai-dobrata-tiekhnika-za-produktivnost-za-proghramisti-pomodoro-tiekhnikata-4bi2)
+- [Как да се справиш с омагьосания кръг и високите изисквания на фирмите при намирането на първата ти работа като програмист](https://dev.to/dvt32/kak-da-sie-spravish-s-omaghosaniia-krgh-i-visokitie-iziskvaniia-na-firmitie-pri-namiranieto-na-prvata-ti-588n)
+- [What Unix Co-Creator Brian Kernighan Thinks of Rust](https://dev.to/davidcassel/what-unix-co-creator-brian-kernighan-thinks-of-rust-40ko)
 - [Как използвам елементи от Scrum / Kanban / GTD за управляване на задачи в личния ми живот](https://dev.to/dvt32/kak-izpolzvam-ieliemienti-ot-scrum-kanban-gtd-za-upravliavanie-na-zadachi-v-lichniia-mi-zhivot-2pnd)
 - [SEMANTIC HTML](https://dev.to/agnes_wanini_e90e10e7debd/semantic-html-2cdp)
-- [Изучавай теорията и тънкостите, за да измисляш по-добри решения в практиката!](https://dev.to/dvt32/izuchavai-tieoriiata-i-tnkostitie-za-da-izmisliash-po-dobri-rieshieniia-v-praktikata-61)
-- [Data Structures and Algorithms in C and Assembly Language: KatoKode](https://dev.to/katokode/data-structures-and-algorithms-in-c-and-assembly-language-katokode-2d1j)
-- [Тълкувай кандидатстването за работа като трупане на опит!](https://dev.to/dvt32/tlkuvai-kandidatstvanieto-za-rabota-kato-trupanie-na-opit-1eph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
