@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can You Recognize a Deepfake? Here’s What You Need to Know!](https://dev.to/hr21don/can-you-recognize-a-deepfake-heres-what-you-need-to-know-3jp4)
-- [Kubernetes to RDS: secure connections via IAM roles without passwords](https://dev.to/aws-builders/kubernetes-to-rds-secure-connections-via-iam-roles-without-passwords-44hd)
-- [My &lpar;Dark&rpar; Prediction for Android](https://dev.to/svprdga/my-dark-prediction-for-android-5emc)
-- [Make.com Credits Explained: Why Your Automations Suddenly Cost More](https://dev.to/alifar/makecom-credits-explained-why-your-automations-suddenly-cost-more-4dho)
-- [Fun Fact about AI Data](https://dev.to/ashwani_kumar_a70ee558a2c/fun-fact-about-ai-data-1deo)
+- [IA e Cultura de Engenharia: Cooperação Humano–Máquina na Prática de Desenvolvimento](https://dev.to/targanski/ia-e-cultura-de-engenharia-cooperacao-humano-maquina-na-pratica-de-desenvolvimento-2lk2)
+- [My Summer 2025 Dev Journey: AI Challenges, Robot Adventures, and Community Growth 🌞](https://dev.to/prema_ananda/my-summer-2025-dev-journey-ai-challenges-robot-adventures-and-community-growth-2jka)
+- [🔄 ETL vs ELT: What’s the Difference and Why It Matters?](https://dev.to/shagun_khandelwal/etl-vs-elt-whats-the-difference-and-why-it-matters-ced)
+- [Throughput vs. Latency: The Optimization Dilemma](https://dev.to/meeth_gangwar_f56b17f5aff/throughput-vs-latency-the-optimization-dilemma-385h)
+- [GZip in Rest APi](https://dev.to/sadiul_hakim/gzip-in-rest-api-4k0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
