@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How GPUs Organize Work: Or What are GPU Warps](https://dev.to/shrsv/how-gpus-organize-work-or-what-are-gpu-warps-2k4p)
-- [Topological Sort](https://dev.to/khushi2488/topological-sort-1hm3)
-- [Unity vs Unreal vs Godot: Finding Your Perfect Game Engine in 2025](https://dev.to/philipjohnbasile/unity-vs-unreal-vs-godot-finding-your-perfect-game-engine-in-2025-1ck9)
-- [30 Days Of Code- Day 30](https://dev.to/akshitaexe/30-days-of-code-day-30-3kdd)
-- [Instant AI Text Enhancements in React with prompt-my-client-react](https://dev.to/rajanlagah/instant-ai-text-enhancements-in-react-with-prompt-my-client-react-4gpp)
+- [Building our own RAG](https://dev.to/arsh_the_coder/building-our-own-rag-4lj2)
+- [Escalabilidade desmistificada](https://dev.to/emanoellopes/escalabilidade-desmistificada-3b1n)
+- [Cycle Detection in the Directed Graph using the DFS](https://dev.to/khushi2488/cycle-detection-in-the-directed-graph-using-the-dfs-3lkm)
+- [Ms Excel and Predictive Data analysis](https://dev.to/loi2008/ms-excel-and-predictive-data-analysis-4g3b)
+- [Unsupervised Machine Learning](https://dev.to/makenakinyua/unsupervised-machine-learning-kjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
