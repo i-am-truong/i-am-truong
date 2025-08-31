@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Horizontal and Vertical Pod Autoscaling](https://dev.to/godofgeeks/horizontal-and-vertical-pod-autoscaling-3jeh)
+- [[Boost]](https://dev.to/ravinthiran_partheepan_4e/-3lim)
+- [Embracing Signal-Based Forms in Angular: The Future of Reactive Form Management](https://dev.to/karol_modelski/embracing-signal-based-forms-in-angular-the-future-of-reactive-form-management-1lh0)
+- [MonoGuard: Making Monorepo Management Less Painful](https://dev.to/yu_chihwei_0481c8e2b679d/monoguard-making-monorepo-management-less-painful-2739)
 - [Auditing Sensitive Data Changes in Laravel: Securing High-Risk Operations](https://dev.to/azmy/auditing-sensitive-data-changes-in-laravel-securing-high-risk-operations-9n3)
-- [RankGap: Multi-Agent Amazon SEO &amp; Product Visibility Analyzer](https://dev.to/better-boy/rankgap-multi-agent-amazon-seo-product-visibility-analyzer-2h81)
-- [Furniture Image Classification Using TypeScript + BilberryDB SDK vs. No-Code Approach](https://dev.to/ravinthiran_partheepan_4e/furniture-image-classification-using-typescript-bilberrydb-sdk-vs-no-code-approach-2a4g)
-- [SQL 注入、权限提升与 WebShell实战](https://dev.to/ctkqiang/sql-zhu-ru-quan-xian-ti-sheng-yu-webshellshi-zhan-5d0m)
-- [latest AI features](https://dev.to/alaa_alaiwah_c13ac08dcfed/latest-ai-features-3d7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
