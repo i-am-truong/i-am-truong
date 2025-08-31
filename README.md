@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust Architecture: The Future of Cybersecurity](https://dev.to/aasik_20409e3305686b324ec/zero-trust-architecture-the-future-of-cybersecurity-560b)
-- [JavaScript Nested Objects Made Simple 🧩](https://dev.to/usama_dev/javascript-nested-objects-made-simple-2hma)
-- [Selling Data 101: A Beginner’s Guide](https://dev.to/maryna_maryna_24c9127a722/selling-data-101-a-beginners-guide-10pd)
-- [nvim-hurl and Some Intuitions on UX](https://dev.to/ethancarlsson/nvim-hurl-and-some-intuitions-on-ux-1hfe)
-- [Prometheus ve Grafana İle NGINX Ingress Monitoring](https://dev.to/suleymanakturk/prometheus-ve-grafana-ile-nginx-ingress-monitoring-10mn)
+- [Python Quiz — Closures &amp; Loop Variables](https://dev.to/mahmoudessam/python-quiz-closures-loop-variables-n9d)
+- [AWS Solutions Architect Associate Cheat Sheet](https://dev.to/venkatesh111/aws-solutions-architect-associate-cheat-sheet-4pfj)
+- [Building a Competitive &#39;Deal Hunter&#39; Agent Using n8n + BrightData Real-Time Web Data](https://dev.to/bennykillua/building-a-competitive-deal-hunter-agent-using-n8n-brightdata-real-time-web-data-42b6)
+- [How to Build an Autocomplete Component from scratch in Vanilla JS](https://dev.to/alexpechkarev/how-to-build-an-autocomplete-component-from-scratch-in-vanilla-js-45g0)
+- [🔥 New in FSCSS: Conditional @event + Debug exec&lpar;&rpar;](https://dev.to/fscss-ttr/new-in-fscss-conditional-event-debug-exec-2h3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
