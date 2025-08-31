@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎙️ Building Your Own Live Audio Waveform in React Native](https://dev.to/toshiya_matsumoto_ac94abe/building-your-own-live-audio-waveform-in-react-native-4e49)
+- [Introducing Fluid: Explicit and Robust Reactivity for Modern JavaScript](https://dev.to/pungy/introducing-fluid-explicit-and-robust-reactivity-for-modern-javascript-1073)
+- [37. Sudoku Solver](https://dev.to/mdarifulhaque/37-sudoku-solver-56b9)
 - [React Native Skeleton: From Zero to &#39;Hello World&#39; Without Losing Your Sanity](https://dev.to/klasniyparen/react-native-skeleton-from-zero-to-hello-world-without-losing-your-sanity-3c02)
 - [My React Journey: Day 2- Create a component and use expression in template](https://dev.to/michelemalagnini/my-react-journey-day-2-create-a-component-and-use-expression-in-template-55oo)
-- [Unlocking Angular&#39;s Data Binding: A Deep Dive into Interpolation, Property, Event, and Two-Way Binding](https://dev.to/olayeancarh/unlocking-angulars-data-binding-a-deep-dive-into-interpolation-property-event-and-two-way-4j8h)
-- [When Your AI Forgets Yesterday: Fixing Memory Breaks Across Sessions &lpar;Problem Map No.7&rpar;](https://dev.to/onestardao/when-your-ai-forgets-yesterday-fixing-memory-breaks-across-sessions-problem-map-no7-1gec)
-- [Using SSH Keys on Windows: Fixing “Unprotected Private Key File” Errors](https://dev.to/theodora_e6f61d02577a5f06/using-ssh-keys-on-windows-fixing-unprotected-private-key-file-errors-1d07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
