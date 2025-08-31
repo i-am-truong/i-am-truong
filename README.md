@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Event-driven cookie manager for the modern web.](https://dev.to/indianmodassir/event-driven-cookie-manager-for-the-modern-web-2pab)
-- [The Future of Decision-Making: AI Agent That Predicts Trends &amp; Profits](https://dev.to/revis047/stop-scrolling-this-ai-agent-delivers-the-news-whats-next-2ea6)
-- [Your Android Phone Is Secretly Tracking You: A Developer&#39;s Guide to Real Privacy](https://dev.to/martijn_assie_12a2d3b1833/your-android-phone-is-secretly-tracking-you-a-developers-guide-to-real-privacy-480a)
-- [Secure Your .NET 8 APIs in Minutes with OpenIddict: A Minimalist&#39;s Guide](https://dev.to/abdecoder/secure-your-net-8-apis-in-minutes-with-openiddict-a-minimalists-guide-2bog)
-- [Bun](https://dev.to/giane_vezzoni/bun-2d5n)
+- [Choosing the Right HTTP Method for Your REST API](https://dev.to/gianfcop98/choosing-the-right-http-method-for-your-rest-api-2lp3)
+- [5 File Insights Performance Secrets That Will Blow Your Mind 🚀](https://dev.to/vijay431/5-file-insights-performance-secrets-that-will-blow-your-mind-5a2p)
+- [Get File Insights Running in 5 Minutes ⚡](https://dev.to/vijay431/get-file-insights-running-in-5-minutes-51gc)
+- [Real Developers, Real File Insights Results 👥](https://dev.to/vijay431/real-developers-real-file-insights-results-4144)
+- [Backend Interview Prep Beyond LeetCode &lpar;For 3 Years Experience&rpar;](https://dev.to/rakeshreddy512/backend-interview-prep-beyond-leetcode-for-3-years-experience-7gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
