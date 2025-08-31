@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents are Doomsday for SaaS](https://dev.to/kuldeep_paul/ai-agents-are-doomsday-for-saas-2478)
-- [🗓 Daily LeetCode Progress – Day 15](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-15-4hp5)
-- [First Post on Dev.to!](https://dev.to/taiseidev26/first-post-on-devto-3j36)
-- [Top 5 Tools to Simulate and Observe AI Agents at Scale](https://dev.to/kuldeep_paul/top-5-tools-to-simulate-and-observe-ai-agents-at-scale-5b0m)
-- [Beyond the Prompt: How Gemini 2.5 Flash Image is Refactoring AI-Powered Creativity](https://dev.to/stellan/beyond-text-to-image-how-googles-gemini-25-flash-is-redefining-ai-powered-creation-4chd)
+- [Zero Trust Architecture: The Future of Cybersecurity](https://dev.to/aasik_20409e3305686b324ec/zero-trust-architecture-the-future-of-cybersecurity-560b)
+- [JavaScript Nested Objects Made Simple 🧩](https://dev.to/usama_dev/javascript-nested-objects-made-simple-2hma)
+- [Selling Data 101: A Beginner’s Guide](https://dev.to/maryna_maryna_24c9127a722/selling-data-101-a-beginners-guide-10pd)
+- [nvim-hurl and Some Intuitions on UX](https://dev.to/ethancarlsson/nvim-hurl-and-some-intuitions-on-ux-1hfe)
+- [Prometheus ve Grafana İle NGINX Ingress Monitoring](https://dev.to/suleymanakturk/prometheus-ve-grafana-ile-nginx-ingress-monitoring-10mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
