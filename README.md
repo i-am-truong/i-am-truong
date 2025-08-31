@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SvelteKit 2: How to make code-based router instead of file-based router](https://dev.to/maxcore/sveltekit-2-code-based-router-instead-of-file-based-router-1e66)
+- [Building a Local Memory MCP for Claude Desktop - A Journey of AI Memory](https://dev.to/zhizhiarv/building-a-local-memory-mcp-for-claude-desktop-a-journey-of-ai-memory-5bmo)
+- [🌍 The Dark Side of Connectivity in a Digital Age](https://dev.to/boye88/the-dark-side-of-connectivity-in-a-digital-age-gje)
+- [🎨 Controlled vs Uncontrolled Components in React: What’s the Difference?](https://dev.to/aman_kureshi_/controlled-vs-uncontrolled-components-in-react-whats-the-difference-410d)
 - [Compare design to website in one click](https://dev.to/dren0r/compare-design-to-website-in-one-click-3kg)
-- [How to Fix FastAPI Debug Not Working in PyCharm on Windows](https://dev.to/chuongmep/how-to-fix-fastapi-debug-not-working-in-pycharm-on-windows-5568)
-- [Python Quiz — Closures &amp; Loop Variables](https://dev.to/mahmoudessam/python-quiz-closures-loop-variables-n9d)
-- [AWS Solutions Architect Associate Cheat Sheet](https://dev.to/venkatesh111/aws-solutions-architect-associate-cheat-sheet-4pfj)
-- [Building a Competitive &#39;Deal Hunter&#39; Agent Using n8n + BrightData Real-Time Web Data](https://dev.to/bennykillua/building-a-competitive-deal-hunter-agent-using-n8n-brightdata-real-time-web-data-42b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
