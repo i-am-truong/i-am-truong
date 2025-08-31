@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.25 JSON v2: Benchmarks, Raptor Escapes, and a 1.8 Speedup](https://dev.to/ryansgi/go-125-json-v2-benchmarks-raptor-escapes-and-a-18-speedup-5cf3)
+- [Terminally Curious: Diving Into Bash](https://dev.to/middledev/terminally-curious-diving-into-bash-3pda)
+- [Unlocking The Power Of Semantic HTML:Boosting SEO And Accessibility In Web Development](https://dev.to/ezra_nzioki_bf0e14e745929/unlocking-the-power-of-semantic-htmlboosting-seo-and-accessibility-in-web-development-56mp)
 - [I Built and Deployed a Micro-SaaS in 3 Hours — Here’s What I Learned](https://dev.to/willcheung/i-built-and-deployed-a-micro-saas-in-3-hours-heres-what-i-learned-cd6)
 - [The Cult of Hype: The Unseen Architecture of Framework Popularity](https://dev.to/alex_aslam/the-cult-of-hype-the-unseen-architecture-of-framework-popularity-54gj)
-- [Най-добрата техника за продуктивност за програмисти! &lpar;“pomodoro” техниката&rpar;](https://dev.to/dvt32/nai-dobrata-tiekhnika-za-produktivnost-za-proghramisti-pomodoro-tiekhnikata-4bi2)
-- [Как да се справиш с омагьосания кръг и високите изисквания на фирмите при намирането на първата ти работа като програмист](https://dev.to/dvt32/kak-da-sie-spravish-s-omaghosaniia-krgh-i-visokitie-iziskvaniia-na-firmitie-pri-namiranieto-na-prvata-ti-588n)
-- [What Unix Co-Creator Brian Kernighan Thinks of Rust](https://dev.to/davidcassel/what-unix-co-creator-brian-kernighan-thinks-of-rust-40ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
