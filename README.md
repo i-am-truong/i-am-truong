@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make.com Credits Explained: Why Your Automations Suddenly Cost More](https://dev.to/alifar/makecom-credits-explained-why-your-automations-suddenly-cost-more-4dho)
+- [Odoo 18 ERP Installation with PostgreSQL 16 on Ubuntu 24.04 LTS #odoo #odoo18 #erp #odooerp](https://dev.to/chittrmahto/odoo-18-erp-installation-with-postgresql-16-on-ubuntu-2404-lts-odoo-odoo18-erp-odooerp-bn)
+- [Few use cases of AI](https://dev.to/ashwani_kumar_a70ee558a2c/few-use-cases-of-ai-51ad)
+- [Building a Real-time Guitar Tuner Web App with Kiro](https://dev.to/moritalous/building-a-real-time-guitar-tuner-web-app-with-kiro-4ak0)
 - [Untitled](https://dev.to/johann_ml_a2922ec00c4be46/untitled-2gl1)
-- [Traditional AI vs. Generative AI and Types of AI](https://dev.to/ashwani_kumar_a70ee558a2c/traditional-ai-vs-generative-ai-and-types-of-ai-5h0i)
-- [Mastering Child Processes in Node.js: Unleashing Parallel Power](https://dev.to/vjnvisakh/mastering-child-processes-in-nodejs-unleashing-parallel-power-5089)
-- [How to Test Github Actions Locally Without Third-Party Tools](https://dev.to/fedtti/how-to-test-github-actions-locally-without-third-party-tools-4mka)
-- [Learning n8n by Doing: First Case Study - Slack to Dev.to](https://dev.to/youvandraf/learning-n8n-by-doing-first-case-study-slack-to-devto-5cc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
