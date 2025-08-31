@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hands On Large Language Model](https://dev.to/aditya_gupta_22e13c9f63a1/hands-on-large-language-model-2nam)
+- [Config Notebook Jupyter on Pycharm...](https://dev.to/catundanatalia/config-notebook-jupyter-on-pycharm-3fli)
 - [BrightData Company Deep Research Report with AI Agent, Google Search, Glassdoor and CrunchBase + Google Gemini](https://dev.to/ranjancse/brightdata-company-deep-research-report-with-ai-agent-google-search-glassdoor-and-crunchbase--1cjb)
 - [Untitled](https://dev.to/10sy_defdif_eb3a66b52ab8/untitled-59j2)
-- [Day 81: The Productivity Paradox and Backend Dreams](https://dev.to/casperday11/day-81-the-productivity-paradox-and-backend-dreams-5dl7)
-- [How Dev Tools Benefit From a “Learn by Breaking” Approach](https://dev.to/buildvr/how-dev-tools-benefit-from-a-learn-by-breaking-approach-2i15)
-- [Interactive CLI Tutorials: Teaching Developers Without Docs](https://dev.to/buildvr/interactive-cli-tutorials-teaching-developers-without-docs-p5a)
+- [Why Feedback Loops Matter in Data Annotation Platforms](https://dev.to/labelyourdata/why-feedback-loops-matter-in-data-annotation-platforms-5b3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
