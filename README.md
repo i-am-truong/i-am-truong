@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: I finally did it!](https://dev.to/maker_youtube/alec-steele-i-finally-did-it-446d)
-- [How I Turned My RxJS Headaches Into Rimmel.js](https://dev.to/dariomannu/how-i-turned-my-rxjs-headaches-into-rimmeljs-1kjo)
-- [WYKRA: Web You Know, Real-time Analysis](https://dev.to/olgabraginskaya/wykra-web-you-know-real-time-analysis-20i3)
-- [Why existing React color pickers frustrated me &lpar;and what I built instead&rpar;](https://dev.to/ddoemonn/why-existing-react-color-pickers-frustrated-me-and-what-i-built-instead-5ghg)
-- [What Building My Own ISP Simulation Taught Me About CGNAT and the Internet&#39;s Hidden Backbone](https://dev.to/hassamdev/what-building-my-own-isp-simulation-taught-me-about-cgnat-and-the-internets-hidden-backbone-46d6)
+- [Как използвам елементи от Scrum / Kanban / GTD за управляване на задачи в личния ми живот](https://dev.to/dvt32/kak-izpolzvam-ieliemienti-ot-scrum-kanban-gtd-za-upravliavanie-na-zadachi-v-lichniia-mi-zhivot-2pnd)
+- [SEMANTIC HTML](https://dev.to/agnes_wanini_e90e10e7debd/semantic-html-2cdp)
+- [Изучавай теорията и тънкостите, за да измисляш по-добри решения в практиката!](https://dev.to/dvt32/izuchavai-tieoriiata-i-tnkostitie-za-da-izmisliash-po-dobri-rieshieniia-v-praktikata-61)
+- [Data Structures and Algorithms in C and Assembly Language: KatoKode](https://dev.to/katokode/data-structures-and-algorithms-in-c-and-assembly-language-katokode-2d1j)
+- [Тълкувай кандидатстването за работа като трупане на опит!](https://dev.to/dvt32/tlkuvai-kandidatstvanieto-za-rabota-kato-trupanie-na-opit-1eph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
