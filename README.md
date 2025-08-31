@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Travel Planning with n8n and Real-time scrape using Bright Data](https://dev.to/masud_ali_cc66779de0c2b2/automating-travel-planning-with-n8n-and-real-time-scrape-using-bright-data-2ao4)
+- [Core JavaScript - Expert Level Revision](https://dev.to/anmshpndy/core-javascript-expert-level-revision-42a2)
+- [Build a .NET Core Web API in minutes with AKSCodeNavAI &lpar;Visual Studio Extension&rpar;](https://dev.to/anup_kumar_51d4c4360384d4/build-a-net-core-web-api-in-minutes-with-akscodenavai-visual-studio-extension-3gok)
 - [LLMOps vs MLOps: What Every Developer Needs to Know in 2025](https://dev.to/gangatharan_gurusamy_22fb/llmops-vs-mlops-what-every-developer-needs-to-know-in-2025-24k4)
 - [My new post in DEV I hope its nice❤️❤️❤️](https://dev.to/mwaibindiete/my-new-post-in-dev-i-hope-its-nice-b84)
-- [Choosing the Right HTTP Method for Your REST API](https://dev.to/gianfcop98/choosing-the-right-http-method-for-your-rest-api-2lp3)
-- [5 File Insights Performance Secrets That Will Blow Your Mind 🚀](https://dev.to/vijay431/5-file-insights-performance-secrets-that-will-blow-your-mind-5a2p)
-- [Real Developers, Real File Insights Results 👥](https://dev.to/vijay431/real-developers-real-file-insights-results-4144)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
