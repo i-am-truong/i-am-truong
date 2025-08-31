@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IA e Cultura de Engenharia: Cooperação Humano–Máquina na Prática de Desenvolvimento](https://dev.to/targanski/ia-e-cultura-de-engenharia-cooperacao-humano-maquina-na-pratica-de-desenvolvimento-2lk2)
-- [My Summer 2025 Dev Journey: AI Challenges, Robot Adventures, and Community Growth 🌞](https://dev.to/prema_ananda/my-summer-2025-dev-journey-ai-challenges-robot-adventures-and-community-growth-2jka)
-- [🔄 ETL vs ELT: What’s the Difference and Why It Matters?](https://dev.to/shagun_khandelwal/etl-vs-elt-whats-the-difference-and-why-it-matters-ced)
-- [Throughput vs. Latency: The Optimization Dilemma](https://dev.to/meeth_gangwar_f56b17f5aff/throughput-vs-latency-the-optimization-dilemma-385h)
-- [GZip in Rest APi](https://dev.to/sadiul_hakim/gzip-in-rest-api-4k0e)
+- [Node.js Just Got Cooler: Imports and Package JSON Are Here to Save Your Day](https://dev.to/ichintansoni/nodejs-just-got-cooler-imports-and-package-json-are-here-to-save-your-day-3ggo)
+- [Yet Another Article to Dockerizing An App — But with a twist](https://dev.to/okraks/yet-another-article-to-dockerizing-an-app-but-with-a-twist-ii9)
+- [When Emails Stopped Sending After Migrating to DigitalOcean](https://dev.to/codarbind/when-emails-stopped-sending-after-migrating-to-digitalocean-2kii)
+- [Super WhatsApp Agent 🤖📱](https://dev.to/amira_adel_e032821d5c75c5/super-whatsapp-agent-4mo4)
+- [Building a Simple Scientific Calculator with JavaScript](https://dev.to/mariensophie9/building-a-simple-scientific-calculator-with-javascript-345)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
