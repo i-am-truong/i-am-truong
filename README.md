@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I used AI to restore my grandma&#39;s old family photos &lpar;&amp; made a tool available to everyone&rpar;](https://dev.to/umitech/how-i-used-ai-to-restore-my-grandmas-old-family-photos-made-a-tool-available-to-everyone-2anh)
 - [TypeScript Expert Revision Handbook](https://dev.to/anmshpndy/typescript-expert-revision-handbook-466f)
-- [Testing Services on .NET8 with NUnit and Moq](https://dev.to/vinicius_estevam/testing-services-on-net8-with-nunit-and-moq-1em)
-- [React Expert Revision Handbook](https://dev.to/anmshpndy/react-expert-revision-handbook-og1)
-- [My React Journey: Day 3 – Rendering Lists with Angular @for and React .map&lpar;&rpar;](https://dev.to/michelemalagnini/my-react-journey-day-3-rendering-lists-with-angular-for-and-react-map-p1n)
-- [The SEO Alchemist: How I Built an AI Agent to Turn Raw Web Data into Content Gold](https://dev.to/inforeole/the-seo-alchemist-how-i-built-an-ai-agent-to-turn-raw-web-data-into-content-gold-5ej6)
+- [Building an AI-Powered Resume Builder with Kiro](https://dev.to/hadiqagohar/building-an-ai-powered-resume-builder-with-kiro-44c)
+- [SEMANTIC HTML for Technical SEO &amp; Accessibility.](https://dev.to/hilda_munyiva_27eaaf867e7/semantic-html-for-technical-seo-accessibility-57j4)
+- [MASTERING SEMANTIC HTML.](https://dev.to/sammy7643/mastering-semantic-html-40am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
