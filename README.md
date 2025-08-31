@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why My Developer Portfolio Looks Like a 1940s Newspaper &lpar;And Why Clients Love It&rpar;](https://dev.to/salaarkhan-dev/why-my-developer-portfolio-looks-like-a-1940s-newspaper-and-why-clients-love-it-4477)
 - [Node.js Just Got Cooler: Imports and Package JSON Are Here to Save Your Day](https://dev.to/ichintansoni/nodejs-just-got-cooler-imports-and-package-json-are-here-to-save-your-day-3ggo)
 - [A Beginner’s Guide to Building a REST API with Node.js and Express](https://dev.to/mariensophie9/a-beginners-guide-to-building-a-rest-api-with-nodejs-and-express-51gm)
 - [BENEFICTS OF SEMATIC HTML IN WEB DEVELOPMENTAND ITS IMPACT ON SE](https://dev.to/kimani_caroline_d3999c3db/beneficts-of-sematic-html-in-web-developmentand-its-impact-on-se-52pm)
 - [Yet Another Article to Dockerizing An App — But with a twist](https://dev.to/okraks/yet-another-article-to-dockerizing-an-app-but-with-a-twist-ii9)
-- [When Emails Stopped Sending After Migrating to DigitalOcean](https://dev.to/codarbind/when-emails-stopped-sending-after-migrating-to-digitalocean-2kii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
