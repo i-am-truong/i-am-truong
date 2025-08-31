@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built and Deployed a Micro-SaaS in 3 Hours — Here’s What I Learned](https://dev.to/willcheung/i-built-and-deployed-a-micro-saas-in-3-hours-heres-what-i-learned-cd6)
+- [The Cult of Hype: The Unseen Architecture of Framework Popularity](https://dev.to/alex_aslam/the-cult-of-hype-the-unseen-architecture-of-framework-popularity-54gj)
 - [Най-добрата техника за продуктивност за програмисти! &lpar;“pomodoro” техниката&rpar;](https://dev.to/dvt32/nai-dobrata-tiekhnika-za-produktivnost-za-proghramisti-pomodoro-tiekhnikata-4bi2)
 - [Как да се справиш с омагьосания кръг и високите изисквания на фирмите при намирането на първата ти работа като програмист](https://dev.to/dvt32/kak-da-sie-spravish-s-omaghosaniia-krgh-i-visokitie-iziskvaniia-na-firmitie-pri-namiranieto-na-prvata-ti-588n)
 - [What Unix Co-Creator Brian Kernighan Thinks of Rust](https://dev.to/davidcassel/what-unix-co-creator-brian-kernighan-thinks-of-rust-40ko)
-- [Как използвам елементи от Scrum / Kanban / GTD за управляване на задачи в личния ми живот](https://dev.to/dvt32/kak-izpolzvam-ieliemienti-ot-scrum-kanban-gtd-za-upravliavanie-na-zadachi-v-lichniia-mi-zhivot-2pnd)
-- [SEMANTIC HTML](https://dev.to/agnes_wanini_e90e10e7debd/semantic-html-2cdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
