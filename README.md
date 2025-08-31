@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Synchronize](https://dev.to/alamfatima1999/synchronize-1dhm)
-- [Starter pack - Fishing World - Devlog #1](https://dev.to/doormatt_/starter-pack-fishing-world-devlog-1-38nf)
-- [Measuring Chat Count After Hitting the Amazon Q Developer &lpar;Claude Sonnet 4&rpar; Pro Limit](https://dev.to/torifukukaiou/measuring-chat-count-after-hitting-the-amazon-q-developer-claude-sonnet-4-pro-limit-48e7)
-- [Don&#39;t put off until tomorrow what you can do today](https://dev.to/elliot_brenya/dont-put-off-until-tomorrow-what-you-can-do-today-a25)
-- [Just Launched My Portfolio – Looking for Feedback from Dev Community](https://dev.to/mdhassanpatwary/just-launched-my-portfolio-looking-for-feedback-from-dev-community-28bc)
+- [7 Python Built-ins That Seem Useless—But Are Secretly Powerful](https://dev.to/aiwithapex/7-python-built-ins-that-seem-useless-but-are-secretly-powerful-afo)
+- [Database Isolation Levels](https://dev.to/alamfatima1999/isolation-levels-28le)
+- [How to Persist Tool Permissions in Amazon Q Developer CLI](https://dev.to/zhizhiarv/how-to-persist-tool-permissions-in-amazon-q-developer-cli-45bb)
+- [2025&#39;s Top 5 AI Coding Tools: Balancing Efficiency and Stability](https://dev.to/aitools_852b8f1c2f1c20/2025s-top-5-ai-coding-tools-balancing-efficiency-and-stability-5boo)
+- [Where to Trade off Type 1 and Type 2 Errors](https://dev.to/faith_cheptoo_799c7f28353/where-to-trade-off-type-1-and-type-2-errors-f6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
