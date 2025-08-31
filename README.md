@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Backbone of Global Scam: How NameSilo, Webnic, and NiceNic](https://dev.to/destroyphish/the-backbone-of-global-scam-how-namesilo-webnic-and-nicenic-1if1)
+- [Myself Intro….](https://dev.to/cutieyunnytech/myself-intro-21fe)
 - [Connect to Multiple Linux Servers via SSH Without Entering Password: Step-by-Step Guide](https://dev.to/elliot_brenya/connect-to-multiple-linux-servers-via-ssh-without-entering-password-step-by-step-guide-232d)
 - [The Complete Beginner&#39;s Guide to LangChain: Why Every Developer Needs This Framework in 2025&lpar;PART 1&rpar;](https://dev.to/fonyuygita/the-complete-beginners-guide-to-langchain-why-every-developer-needs-this-framework-in-2025part-1-2d55)
 - [Experimentando con Elm en mi trabajo](https://dev.to/agj/experimentando-con-elm-en-mi-trabajo-2c78)
-- [Simplify OTP Generation with one-time-pass 🔑](https://dev.to/haikelfazzani/simplify-otp-generation-with-one-time-pass-1dbj)
-- [ChatGPT vs. My System Cleanup Script: Who&#39;s Winning?](https://dev.to/elliot_brenya/chatgpt-vs-my-system-cleanup-script-whos-winning-fek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
