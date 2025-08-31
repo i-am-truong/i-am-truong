@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Learn Svelte in 2025? The Value Proposition &amp; Svelte vs React &amp; Vue](https://dev.to/a1guy/why-learn-svelte-in-2025-the-value-proposition-svelte-vs-react-vue-1bhc)
+- [Stop leaking .env files - try Secretsnap &lpar;free CLI&rpar;](https://dev.to/neil_okikiolu/stop-leaking-env-files-try-secretsnap-free-cli-4cko)
+- [Discover free online courses with certificates! 🎓✨](https://dev.to/raimonvibe/discover-free-online-courses-with-certificates-1n55)
 - [Turning Your Documentation into Smart Responses](https://dev.to/hamid_zangiabadi/turning-your-documentation-into-smart-responses-1m0m)
 - [Reduce AWS Cloud Cost](https://dev.to/aws-builders/reduce-aws-cloud-cost-1bnd)
-- [🚨 Real-time Traffic &amp; Crime Safety Alerts Agent &lpar;n8n + Bright Data + OpenAI + Google Maps&rpar;](https://dev.to/shahin_quliyev_f043j9t667/real-time-traffic-crime-safety-alerts-agent-n8n-bright-data-openai-google-maps-1l6p)
-- [OOP Didn’t Invent Anything New — It Just Gave Us Discipline](https://dev.to/deepak_negi_f1d64e7393000/oop-didnt-invent-anything-new-it-just-gave-us-discipline-4a5i)
-- [Week 1: Picking a Stack, Breaking Things, Learning Fast](https://dev.to/shaq_attack/week-1-picking-a-stack-breaking-things-learning-fast-a7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
