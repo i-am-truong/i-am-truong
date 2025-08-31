@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Python Built-ins That Seem Useless—But Are Secretly Powerful](https://dev.to/aiwithapex/7-python-built-ins-that-seem-useless-but-are-secretly-powerful-afo)
-- [Database Isolation Levels](https://dev.to/alamfatima1999/isolation-levels-28le)
-- [How to Persist Tool Permissions in Amazon Q Developer CLI](https://dev.to/zhizhiarv/how-to-persist-tool-permissions-in-amazon-q-developer-cli-45bb)
-- [2025&#39;s Top 5 AI Coding Tools: Balancing Efficiency and Stability](https://dev.to/aitools_852b8f1c2f1c20/2025s-top-5-ai-coding-tools-balancing-efficiency-and-stability-5boo)
-- [Where to Trade off Type 1 and Type 2 Errors](https://dev.to/faith_cheptoo_799c7f28353/where-to-trade-off-type-1-and-type-2-errors-f6j)
+- [How I created a research agent with langflow](https://dev.to/anuroopvj/how-i-created-a-research-agent-with-langflow-4e1g)
+- [🧐How to AI code review for free &lpar;PR-Agent&rpar;🧠](https://dev.to/webdeveloperhyper/how-to-ai-code-review-for-free-pr-agent-1i8n)
+- [How to Persist Tool Permissions in Amazon Q Developer CLI](https://dev.to/zhizhiarv/how-to-persist-tool-permissions-in-amazon-q-developer-cli-18fl)
+- [✨ From Groceries to Game Arcs ✨](https://dev.to/cutieyunnytech/from-groceries-to-game-arcs-41fp)
+- [How I Built My SaaS MVP in 20 Days &lpar;Lessons Learned&rpar;](https://dev.to/asim786521/how-i-built-my-saas-mvp-in-20-days-lessons-learned-4gic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
