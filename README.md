@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly #34-2025: Lockfiles Debate, Docker’s New Cadence, AI Agent Playbooks, and Security Wake‑Ups](https://dev.to/weekly/weekly-34-2025-lockfiles-debate-dockers-new-cadence-ai-agent-playbooks-and-security-wake-ups-2nea)
+- [A Step-by-Step Guide to Publishing a Python Package for Secure Microservice Database Migration with Alembic](https://dev.to/hassan_shahzad_086a39f774/a-step-by-step-guide-to-publishing-a-python-package-for-secure-microservice-database-migration-with-4hoe)
+- [Parking Lot System Design &lpar;LLD in Action&rpar; - Part-1](https://dev.to/jungledev/parking-lot-system-design-lld-in-action-part-1-6f0)
+- [MY FIRST TRY WITH ER DIAGRAM....](https://dev.to/sourav_mahato_3900/my-first-try-with-er-diagram-1edp)
 - [Mastering Hangfire in .NET 9: A Complete Guide to Background Jobs](https://dev.to/madusanka_bandara/mastering-hangfire-in-net-9-a-complete-guide-to-background-jobs-2bje)
-- [Intranet-Only Projects Pitfall &lpar;Maven and SVN&rpar;](https://dev.to/thellu/my-first-encounter-with-intranet-only-projects-and-the-pitfalls-i-hit-5998)
-- [Human–Computer Interaction: A Developer’s Perspective](https://dev.to/smmaruph/human-computer-interaction-a-developers-perspective-27m)
-- [⚡️ Angular 20 : Vitest natif &lpar;zoneless&rpar; - remplacez Jasmine/Karma](https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3)
-- [🚀 Laravel 12 Error Handling: Bad Practices You Must Avoid + Best Practices](https://dev.to/devtalk94/laravel-12-error-handling-bad-practices-you-must-avoid-best-practices-5630)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
