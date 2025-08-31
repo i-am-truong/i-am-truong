@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡️ Angular 20 : Vitest natif &lpar;zoneless&rpar; - remplacez Jasmine/Karma](https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3)
+- [Trading Guide: Crypto, Forex, &amp; Saham untuk Pemula](https://dev.to/andinugroho/trading-guide-crypto-forex-saham-untuk-pemula-2lnh)
 - [AI in Software Development: Boosting or Slowing Your Productivity](https://dev.to/empiree/ai-in-software-development-boosting-or-slowing-your-productivity-fkl)
 - [Exciting Project Launch: Swagger MCP Adapter!](https://dev.to/serifcolakel/exciting-project-launch-swagger-mcp-adapter-2peb)
 - [Linkerd Service Mesh on AWS EKS](https://dev.to/aws-builders/linkerd-service-mesh-on-aws-eks-3oe9)
-- [Dev in the Making: My Current Struggle](https://dev.to/cutieyunnytech/dev-in-the-making-my-current-struggle-47ch)
-- [SEMANTIC HTML](https://dev.to/moses352/semantic-html-d2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
