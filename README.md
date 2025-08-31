@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Purelymail – The Most Cost-Effective Email Provider for Custom Domains](https://dev.to/r-quazi/purelymail-the-most-cost-effective-email-provider-for-custom-domains-2j56)
-- [DePIN: The Web3 Movement Bringing Blockchain Into the Real World](https://dev.to/digitaldime/depin-the-web3-movement-bringing-blockchain-into-the-real-world-1h0c)
-- [Semantic HTML for Developers: Boosting SEO, Accessibility, and Web Standards](https://dev.to/sibwoga_alfred_ad85caafd6/semantic-html-for-developers-boosting-seo-accessibility-and-web-standards-33fe)
-- [Why Our &quot;Perfect&quot; MongoDB Setup Failed in Production &lpar;And How We Fixed It&rpar;](https://dev.to/ziaulhoque24/why-our-perfect-mongodb-setup-failed-in-production-and-how-we-fixed-it-27fc)
-- [[D] NeurIPS is pushing to SACs to reject already accepted papers due to venue constraints](https://dev.to/technoblogger14o3/d-neurips-is-pushing-to-sacs-to-reject-already-accepted-papers-due-to-venue-constraints-3778)
+- [BrightData Recruit Intelligence &lpar;Company Data Analysis + Candidate Search&rpar;](https://dev.to/ranjancse/brightdata-recruit-intelligence-company-data-analysis-candidate-search-2k04)
+- [15 Proven Guidelines for Scalable React Component Architecture](https://dev.to/ananysagar/15-proven-guidelines-for-scalable-react-component-architecture-3l6g)
+- [Android&#39;s Secret File System: A Developer&#39;s Guide to What&#39;s Really Stored on Your Device](https://dev.to/martijn_assie_12a2d3b1833/androids-secret-file-system-a-developers-guide-to-whats-really-stored-on-your-device-585e)
+- [My 2-Year Journey to Becoming a DevOps Engineer - The Roadmap](https://dev.to/chikarainohara/my-2-year-journey-to-becoming-a-devops-engineer-the-roadmap-5k0)
+- [The Figma-to-n8n “Ninja Move”: Zero-Touch Asset Sync &lpar;with Chat Commands + AI Quality Checks&rpar;](https://dev.to/benbenjamin/the-figma-to-n8n-ninja-move-zero-touch-asset-sync-with-chat-commands-ai-quality-checks-50m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
