@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Hangfire in .NET 9: A Complete Guide to Background Jobs](https://dev.to/madusanka_bandara/mastering-hangfire-in-net-9-a-complete-guide-to-background-jobs-2bje)
+- [Intranet-Only Projects Pitfall &lpar;Maven and SVN&rpar;](https://dev.to/thellu/my-first-encounter-with-intranet-only-projects-and-the-pitfalls-i-hit-5998)
+- [Human–Computer Interaction: A Developer’s Perspective](https://dev.to/smmaruph/human-computer-interaction-a-developers-perspective-27m)
 - [⚡️ Angular 20 : Vitest natif &lpar;zoneless&rpar; - remplacez Jasmine/Karma](https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3)
-- [Trading Guide: Crypto, Forex, &amp; Saham untuk Pemula](https://dev.to/andinugroho/trading-guide-crypto-forex-saham-untuk-pemula-2lnh)
-- [AI in Software Development: Boosting or Slowing Your Productivity](https://dev.to/empiree/ai-in-software-development-boosting-or-slowing-your-productivity-fkl)
-- [Exciting Project Launch: Swagger MCP Adapter!](https://dev.to/serifcolakel/exciting-project-launch-swagger-mcp-adapter-2peb)
-- [Linkerd Service Mesh on AWS EKS](https://dev.to/aws-builders/linkerd-service-mesh-on-aws-eks-3oe9)
+- [🚀 Laravel 12 Error Handling: Bad Practices You Must Avoid + Best Practices](https://dev.to/devtalk94/laravel-12-error-handling-bad-practices-you-must-avoid-best-practices-5630)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
