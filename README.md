@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Ranking of Animal-Inspired .com Brand Names](https://dev.to/flippp/the-ultimate-ranking-of-animal-inspired-com-brand-names-2gi2)
-- [Surprise Breakthrough](https://dev.to/ramoyald/surprise-breakthrough-47g7)
-- [Robust Context in Go Microservices](https://dev.to/leapcell/robust-context-in-go-microservices-ihp)
-- [Hello everybody out there using React](https://dev.to/jonmatum/hello-everybody-out-there-using-react-7p0)
-- [Mengenal Perintah jika dan tanya di Earl](https://dev.to/dev_nazwashabrina/mengenal-perintah-jika-dan-tanya-di-earl-4c74)
+- [Connect to Multiple Linux Servers via SSH Without Entering Password: Step-by-Step Guide](https://dev.to/elliot_brenya/connect-to-multiple-linux-servers-via-ssh-without-entering-password-step-by-step-guide-232d)
+- [The Complete Beginner&#39;s Guide to LangChain: Why Every Developer Needs This Framework in 2025&lpar;PART 1&rpar;](https://dev.to/fonyuygita/the-complete-beginners-guide-to-langchain-why-every-developer-needs-this-framework-in-2025part-1-2d55)
+- [Experimentando con Elm en mi trabajo](https://dev.to/agj/experimentando-con-elm-en-mi-trabajo-2c78)
+- [Simplify OTP Generation with one-time-pass 🔑](https://dev.to/haikelfazzani/simplify-otp-generation-with-one-time-pass-1dbj)
+- [ChatGPT vs. My System Cleanup Script: Who&#39;s Winning?](https://dev.to/elliot_brenya/chatgpt-vs-my-system-cleanup-script-whos-winning-fek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
