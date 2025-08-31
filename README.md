@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Synchronize](https://dev.to/alamfatima1999/synchronize-1dhm)
+- [Starter pack - Fishing World - Devlog #1](https://dev.to/doormatt_/starter-pack-fishing-world-devlog-1-38nf)
 - [Measuring Chat Count After Hitting the Amazon Q Developer &lpar;Claude Sonnet 4&rpar; Pro Limit](https://dev.to/torifukukaiou/measuring-chat-count-after-hitting-the-amazon-q-developer-claude-sonnet-4-pro-limit-48e7)
 - [Don&#39;t put off until tomorrow what you can do today](https://dev.to/elliot_brenya/dont-put-off-until-tomorrow-what-you-can-do-today-a25)
 - [Just Launched My Portfolio – Looking for Feedback from Dev Community](https://dev.to/mdhassanpatwary/just-launched-my-portfolio-looking-for-feedback-from-dev-community-28bc)
-- [Maker&#39;s Muse: 12 years of 3D printing advice in 30 minutes.](https://dev.to/maker_youtube/makers-muse-12-years-of-3d-printing-advice-in-30-minutes-jf5)
-- [Unearth Your Code’s Hidden TODOs &amp; Supercharge Your Workflow with comment-todo!](https://dev.to/silentwatcher_95/unearth-your-codes-hidden-todos-supercharge-your-workflow-with-comment-todo-24j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
