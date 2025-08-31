@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NgRx Tutorial: State Management in Angular with Real-World Examples](https://dev.to/djamware_tutorial_eba1a61/ngrx-tutorial-state-management-in-angular-with-real-world-examples-29bc)
-- [Bring Google Sheets and Pydantic together with pydantic-gsheets](https://dev.to/youssefbenhammouda/bring-google-sheets-and-pydantic-together-with-pydantic-gsheets-3e95)
-- [Node.js Just Got Cooler: Imports and Package JSON Are Here to Save Your Day](https://dev.to/ichintansoni/nodejs-just-got-cooler-imports-and-package-json-are-here-to-save-your-day-3ggo)
-- [A Beginner’s Guide to Building a REST API with Node.js and Express](https://dev.to/mariensophie9/a-beginners-guide-to-building-a-rest-api-with-nodejs-and-express-51gm)
-- [BENEFICTS OF SEMATIC HTML IN WEB DEVELOPMENTAND ITS IMPACT ON SE](https://dev.to/kimani_caroline_d3999c3db/beneficts-of-sematic-html-in-web-developmentand-its-impact-on-se-52pm)
+- [AI Agents are Doomsday for SaaS](https://dev.to/kuldeep_paul/ai-agents-are-doomsday-for-saas-2478)
+- [🗓 Daily LeetCode Progress – Day 15](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-15-4hp5)
+- [First Post on Dev.to!](https://dev.to/taiseidev26/first-post-on-devto-3j36)
+- [Top 5 Tools to Simulate and Observe AI Agents at Scale](https://dev.to/kuldeep_paul/top-5-tools-to-simulate-and-observe-ai-agents-at-scale-5b0m)
+- [Beyond the Prompt: How Gemini 2.5 Flash Image is Refactoring AI-Powered Creativity](https://dev.to/stellan/beyond-text-to-image-how-googles-gemini-25-flash-is-redefining-ai-powered-creation-4chd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
