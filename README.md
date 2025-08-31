@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I used AI to restore my grandma&#39;s old family photos &lpar;&amp; made a tool available to everyone&rpar;](https://dev.to/umitech/how-i-used-ai-to-restore-my-grandmas-old-family-photos-made-a-tool-available-to-everyone-2anh)
-- [TypeScript Expert Revision Handbook](https://dev.to/anmshpndy/typescript-expert-revision-handbook-466f)
-- [Building an AI-Powered Resume Builder with Kiro](https://dev.to/hadiqagohar/building-an-ai-powered-resume-builder-with-kiro-44c)
-- [SEMANTIC HTML for Technical SEO &amp; Accessibility.](https://dev.to/hilda_munyiva_27eaaf867e7/semantic-html-for-technical-seo-accessibility-57j4)
-- [MASTERING SEMANTIC HTML.](https://dev.to/sammy7643/mastering-semantic-html-40am)
+- [Build an AI-Powered Content Generation Platform](https://dev.to/code_2/build-an-ai-powered-content-generation-platform-24gg)
+- [Java: Primitive `int` vs Wrapper `Integer` - Complete Guide](https://dev.to/gaurbprajapati/java-primitive-int-vs-wrapper-integer-complete-guide-13o1)
+- [Dev Log 14 - Zero to Impostor](https://dev.to/asx/dev-log-14-zero-to-impostor-1nj2)
+- [Semantic HTML for SEO and Accessibility](https://dev.to/ck_blessed_7fd6b47af8e5bb/semantic-html-for-seo-and-accessibility-221p)
+- [PMKVY, CGFSD &amp; You: Skilling Loans Made Simple](https://dev.to/gov01/pmkvy-cgfsd-you-skilling-loans-made-simple-4ob3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
