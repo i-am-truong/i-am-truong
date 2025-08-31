@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Teach AI to Remember and Share Knowledge?](https://dev.to/kagvi13/how-to-teach-ai-to-remember-and-share-knowledge-3hd9)
+- [Why Building Scalable and Resilient Systems Matters! day 42 of system design basics](https://dev.to/vincenttommi/why-building-scalable-and-resilient-systems-matters-gp5)
+- [A Decade Journey Of A Senior Software Engineer](https://dev.to/holpa/a-decade-journey-of-a-senior-software-engineer-49l7)
 - [Ton IA, c&#39;est comme une pote sortie du congélo !](https://dev.to/oclka/ton-ia-cest-comme-une-pote-sortie-du-congelo--e99)
 - [Collecting Feedback Early Saves Time, Money &amp; Headaches – Building a Lightweight Tool for It](https://dev.to/joel_d52847aa7d32e39d8f65/collecting-feedback-early-saves-time-money-headaches-building-a-lightweight-tool-for-it-23gi)
-- [Secure SSH Shell Applications](https://dev.to/sebos/secure-ssh-shell-applications-4414)
-- [Breaking Language Barriers in Healthcare: Multilingual Medical Support System with n8n &amp; Bright Data published](https://dev.to/choineta/breaking-language-barriers-in-healthcare-multilingual-medical-support-system-with-n8n-bright-4eb1)
-- [Social media drama analizer / monitor](https://dev.to/simonhryszko/social-media-drama-analizer-monitor-5cfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
