@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL 注入、权限提升与 WebShell实战](https://dev.to/ctkqiang/sql-zhu-ru-quan-xian-ti-sheng-yu-webshellshi-zhan-5d0m)
+- [The Good Devs, The Bad Stress and The Ugly Truth](https://dev.to/m3yevn/the-good-devs-the-bad-stress-and-the-ugly-truth-35n1)
+- [100 Days of DevOps: Day 28](https://dev.to/wycliffealphus/100-days-of-devops-day-28-57l0)
 - [Fixing “Invalid Credentials” in AWS SSM Fleet Manager RDP](https://dev.to/damola12345/fixing-invalid-credentials-in-aws-ssm-fleet-manager-rdp-bld)
-- [Supercharge Your React Apps with Signals: The Future of Reactive State Management in 2025🚀🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/supercharge-your-react-apps-with-signals-the-future-of-reactive-state-management-in-2025-47a3)
-- [Ética e IA: diretrizes e regulamentações](https://dev.to/lucaspereiradesouzat/etica-e-ia-diretrizes-e-regulamentacoes-54oe)
-- [Mono in Spring Boot Explained with Simple Examples](https://dev.to/realnamehidden1_61/mono-in-spring-boot-explained-with-simple-examples-45o5)
-- [Building My First React Portfolio: Challenges, Learning, and Growth](https://dev.to/minoosh/building-my-first-react-portfolio-challenges-learning-and-growth-59l)
+- [Ethics and AI: guidelines and regulations](https://dev.to/lucaspereiradesouzat/ethics-and-ai-guidelines-and-regulations-65e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
