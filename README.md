@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Who is a senior developer?](https://dev.to/dobrenteiistvan/who-is-a-senior-developer-5di8)
+- [Solving “No Space Left on Device” with a Little Bit of AWS Trick](https://dev.to/lovestaco/solving-no-space-left-on-device-with-a-little-bit-of-aws-trick-ced)
 - [🚀 Build a Stunning Glassmorphic E-commerce Product Card with HTML &amp; CSS](https://dev.to/safdarali25/build-a-stunning-glassmorphic-e-commerce-product-card-with-html-css-3e9b)
 - [AI-Assisted Code Review: Opportunities and Pitfalls](https://dev.to/dixitgurv/ai-assisted-code-review-opportunities-and-pitfalls-llp)
-- [Building our own RAG](https://dev.to/arsh_the_coder/building-our-own-rag-4lj2)
-- [Escalabilidade desmistificada](https://dev.to/emanoellopes/escalabilidade-desmistificada-3b1n)
-- [Cycle Detection in the Directed Graph using the DFS](https://dev.to/khushi2488/cycle-detection-in-the-directed-graph-using-the-dfs-3lkm)
+- [Mastering the Art of Project Management 🚀 From Idea to Delivery](https://dev.to/swapnil-ahmmed-shishir/mastering-the-art-of-project-management-from-idea-to-delivery-525n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
