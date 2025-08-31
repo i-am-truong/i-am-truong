@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Viral-O-Meter for YouTube &lpar;Built with n8n + Bright Data&rpar;](https://dev.to/mohit_agnihotri_5/viral-o-meter-for-youtube-built-with-n8n-bright-data-4kho)
+- [¿Cómo conseguí la certificación de Git SC-102?](https://dev.to/softx0/como-consegui-la-certificacion-de-git-sc-102-4632)
+- [DeepSeek V3.1 Meets Promptfoo: Jailbreaks, Biases &amp; Beyond](https://dev.to/ayush7614/deepseek-v31-meets-promptfoo-jailbreaks-biases-beyond-4270)
 - [Phishing: The Complete Guide to Cyber Deception and Protection](https://dev.to/pragyasapkota/phishing-the-complete-guide-to-cyber-deception-and-protection-ag5)
 - [One Copy to Rule Them All: Sharing Third-Party Libraries in Nx Micro Frontends](https://dev.to/impranavkale/one-copy-to-rule-them-all-sharing-third-party-libraries-in-nx-micro-frontends-26a4)
-- [Laura Kampf: Can One Clever Hack Save A $1000 Coffee Machine?](https://dev.to/maker_youtube/laura-kampf-can-one-clever-hack-save-a-1000-coffee-machine-38h0)
-- [Raspberry Pi USB Boot: Complete Step-by-Step Guide for Developers](https://dev.to/messin_tom/raspberry-pi-usb-boot-complete-step-by-step-guide-for-developers-5hl9)
-- [marchat v0.5.0-beta.2 Release Announcement](https://dev.to/cod-e-codes/marchat-v050-beta2-release-announcement-27dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
