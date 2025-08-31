@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SvelteKit 2: How to make code-based router instead of file-based router](https://dev.to/maxcore/sveltekit-2-code-based-router-instead-of-file-based-router-1e66)
-- [Building a Local Memory MCP for Claude Desktop - A Journey of AI Memory](https://dev.to/zhizhiarv/building-a-local-memory-mcp-for-claude-desktop-a-journey-of-ai-memory-5bmo)
-- [🌍 The Dark Side of Connectivity in a Digital Age](https://dev.to/boye88/the-dark-side-of-connectivity-in-a-digital-age-gje)
-- [🎨 Controlled vs Uncontrolled Components in React: What’s the Difference?](https://dev.to/aman_kureshi_/controlled-vs-uncontrolled-components-in-react-whats-the-difference-410d)
-- [Compare design to website in one click](https://dev.to/dren0r/compare-design-to-website-in-one-click-3kg)
+- [One Copy to Rule Them All: Sharing Third-Party Libraries in Nx Micro Frontends](https://dev.to/impranavkale/one-copy-to-rule-them-all-sharing-third-party-libraries-in-nx-micro-frontends-26a4)
+- [Laura Kampf: Can One Clever Hack Save A $1000 Coffee Machine?](https://dev.to/maker_youtube/laura-kampf-can-one-clever-hack-save-a-1000-coffee-machine-38h0)
+- [Raspberry Pi USB Boot: Complete Step-by-Step Guide for Developers](https://dev.to/messin_tom/raspberry-pi-usb-boot-complete-step-by-step-guide-for-developers-5hl9)
+- [marchat v0.5.0-beta.2 Release Announcement](https://dev.to/cod-e-codes/marchat-v050-beta2-release-announcement-27dg)
+- [Reddit Scraper AI Agent: ThreadLens](https://dev.to/agastya_khati_f72c89077c8/reddit-scraper-ai-agent-threadlens-34mp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
