@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Learn Svelte in 2025? The Value Proposition &amp; Svelte vs React &amp; Vue](https://dev.to/a1guy/why-learn-svelte-in-2025-the-value-proposition-svelte-vs-react-vue-1bhc)
-- [Stop leaking .env files - try Secretsnap &lpar;free CLI&rpar;](https://dev.to/neil_okikiolu/stop-leaking-env-files-try-secretsnap-free-cli-4cko)
-- [Discover free online courses with certificates! 🎓✨](https://dev.to/raimonvibe/discover-free-online-courses-with-certificates-1n55)
-- [Turning Your Documentation into Smart Responses](https://dev.to/hamid_zangiabadi/turning-your-documentation-into-smart-responses-1m0m)
-- [Reduce AWS Cloud Cost](https://dev.to/aws-builders/reduce-aws-cloud-cost-1bnd)
+- [The Great AI Battle of 2025: OpenAI vs DeepSeek vs Qwen - Who&#39;s Actually Winning?](https://dev.to/shiva_shanker_k/the-great-ai-battle-of-2025-openai-vs-deepseek-vs-qwen-whos-actually-winning-55j3)
+- [SEMENTIC HTML](https://dev.to/alex001crypto/sementic-html-beb)
+- [Digital Sovereignty and Attorney-Client Confidentiality:](https://dev.to/thomasdelfing_de/digital-sovereignty-and-attorney-client-confidentiality-bd)
+- [Android 15 and Safe Areas: Why Apps Feel Different Now](https://dev.to/abhivyaktii/android-15-and-safe-areas-why-apps-feel-different-now-4fkd)
+- [Test in java](https://dev.to/arun_c6a0bb194d6c21e7d4c3/test-in-java-5cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
