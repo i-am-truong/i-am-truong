@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Coding Official Standards and Best Practices](https://dev.to/leapcell/go-coding-official-standards-and-best-practices-284k)
 - [ASP.NET Core show/hide password](https://dev.to/karenpayneoregon/aspnet-core-showhide-password-i4f)
 - [Introducing the ForemCards Ideia](https://dev.to/wantu/introducing-the-foremcards-ideia-280i)
 - [Dependency Injection in Flutter: Simplifying App Architecture](https://dev.to/bestaoui_aymen/dependency-injection-in-flutter-simplifying-app-architecture-1j97)
 - [YouTube Privacy Guide: How to Stop Hidden Tracking Across Samsung, Xiaomi, and Pixel Devices](https://dev.to/martijn_assie_12a2d3b1833/youtube-privacy-warning-critical-settings-you-should-turn-off-today-10pm)
-- [The Boom, the Bust, and the Quiet Survivors](https://dev.to/iampaulonu/the-boom-the-bust-and-the-quiet-survivors-1kf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
