@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent for Google Play Review Monitoring](https://dev.to/bridget_amana/ai-agent-for-google-play-review-monitoring-2p9b)
-- [Google&#39;s &quot;Nano Banana&quot; Just Broke the Internet - And It&#39;s Actually Real 🍌](https://dev.to/shiva_shanker_k/googles-nano-banana-just-broke-the-internet-and-its-actually-real-26d1)
-- [**Processing Mode**](https://dev.to/sabarinextgen_81595a6c7c4/processing-mode-4n8p)
-- [The Great AI Battle of 2025: OpenAI vs DeepSeek vs Qwen - Who&#39;s Actually Winning?](https://dev.to/shiva_shanker_k/the-great-ai-battle-of-2025-openai-vs-deepseek-vs-qwen-whos-actually-winning-55j3)
-- [The Math Behind Bounding Box Collision Detection - AABB vs OBB&lpar;Separate Axis Theorem&rpar;](https://dev.to/pratyush_mohanty_6b8f2749/the-math-behind-bounding-box-collision-detection-aabb-vs-obbseparate-axis-theorem-1gdn)
+- [Purelymail – The Most Cost-Effective Email Provider for Custom Domains](https://dev.to/r-quazi/purelymail-the-most-cost-effective-email-provider-for-custom-domains-2j56)
+- [Why Our &quot;Perfect&quot; MongoDB Setup Failed in Production &lpar;And How We Fixed It&rpar;](https://dev.to/ziaulhoque24/why-our-perfect-mongodb-setup-failed-in-production-and-how-we-fixed-it-27fc)
+- [[D] NeurIPS is pushing to SACs to reject already accepted papers due to venue constraints](https://dev.to/technoblogger14o3/d-neurips-is-pushing-to-sacs-to-reject-already-accepted-papers-due-to-venue-constraints-3778)
+- [Guiding Without Owning](https://dev.to/remejuan/guiding-without-owning-5lc)
+- [We built a Slop Index: fingerprints for templated AI writing](https://dev.to/viablemedia/we-built-a-slop-index-fingerprints-for-templated-ai-writing-2c52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
