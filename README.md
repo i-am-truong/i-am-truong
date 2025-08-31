@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Native Skeleton: From Zero to &#39;Hello World&#39; Without Losing Your Sanity](https://dev.to/klasniyparen/react-native-skeleton-from-zero-to-hello-world-without-losing-your-sanity-3c02)
+- [My React Journey: Day 2- Create a component and use expression in template](https://dev.to/michelemalagnini/my-react-journey-day-2-create-a-component-and-use-expression-in-template-55oo)
+- [Unlocking Angular&#39;s Data Binding: A Deep Dive into Interpolation, Property, Event, and Two-Way Binding](https://dev.to/olayeancarh/unlocking-angulars-data-binding-a-deep-dive-into-interpolation-property-event-and-two-way-4j8h)
+- [When Your AI Forgets Yesterday: Fixing Memory Breaks Across Sessions &lpar;Problem Map No.7&rpar;](https://dev.to/onestardao/when-your-ai-forgets-yesterday-fixing-memory-breaks-across-sessions-problem-map-no7-1gec)
 - [Using SSH Keys on Windows: Fixing “Unprotected Private Key File” Errors](https://dev.to/theodora_e6f61d02577a5f06/using-ssh-keys-on-windows-fixing-unprotected-private-key-file-errors-1d07)
-- [🚀 jQuery.scrollPaging v1.1.0 – Infinite Scroll Made Easy](https://dev.to/mamedul_islam/jqueryscrollpaging-v110-infinite-scroll-made-easy-13l5)
-- [Latest in Tech: People thinking Al will end all jobs are hallucinating- Yann LeCun reposted](https://dev.to/technoblogger14o3/latest-in-tech-people-thinking-al-will-end-all-jobs-are-hallucinating-yann-lecun-reposted-2ha7)
-- [Is sleep-sort actually bad?](https://dev.to/mostypc123/is-sleep-sort-actually-bad-3bgd)
-- [BrightData Recruit Intelligence &lpar;Company Data Analysis + Candidate Search&rpar;](https://dev.to/ranjancse/brightdata-recruit-intelligence-company-data-analysis-candidate-search-2k04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
