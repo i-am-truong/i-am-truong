@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Can You Recognize a Deepfake? Here’s What You Need to Know!](https://dev.to/hr21don/can-you-recognize-a-deepfake-heres-what-you-need-to-know-3jp4)
+- [Kubernetes to RDS: secure connections via IAM roles without passwords](https://dev.to/aws-builders/kubernetes-to-rds-secure-connections-via-iam-roles-without-passwords-44hd)
+- [My &lpar;Dark&rpar; Prediction for Android](https://dev.to/svprdga/my-dark-prediction-for-android-5emc)
 - [Make.com Credits Explained: Why Your Automations Suddenly Cost More](https://dev.to/alifar/makecom-credits-explained-why-your-automations-suddenly-cost-more-4dho)
-- [Odoo 18 ERP Installation with PostgreSQL 16 on Ubuntu 24.04 LTS #odoo #odoo18 #erp #odooerp](https://dev.to/chittrmahto/odoo-18-erp-installation-with-postgresql-16-on-ubuntu-2404-lts-odoo-odoo18-erp-odooerp-bn)
-- [Few use cases of AI](https://dev.to/ashwani_kumar_a70ee558a2c/few-use-cases-of-ai-51ad)
-- [Building a Real-time Guitar Tuner Web App with Kiro](https://dev.to/moritalous/building-a-real-time-guitar-tuner-web-app-with-kiro-4ak0)
-- [Untitled](https://dev.to/johann_ml_a2922ec00c4be46/untitled-2gl1)
+- [Fun Fact about AI Data](https://dev.to/ashwani_kumar_a70ee558a2c/fun-fact-about-ai-data-1deo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
