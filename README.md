@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RealEstate Intelligence Agent - Property Market Monitor Powered by n8n &amp; Bright Data](https://dev.to/abhinandan-r/realestate-intelligence-agent-property-market-monitor-powered-by-n8n-bright-data-4240)
 - [Dealing With Dependency Vulnerabilities](https://dev.to/buffolander/dealing-with-dependency-vulnerabilities-3pl4)
 - [Códigos de Status HTTP: Uma Lista Completa com Explicações](https://dev.to/ikauedev/codigos-de-status-http-uma-lista-completa-com-explicacoes-emh)
 - [The Prompt Architect&#39;s Playbook: 12 Patterns Defining 2025](https://dev.to/naresh_82de734ade4c1c66d9/the-prompt-architects-playbook-12-patterns-defining-2025-dfg)
 - [🎨 Laravel &amp; Blade: crea viste eleganti e riutilizzabili | 🎨 Laravel &amp; Blade: Create Elegant and Reusable Views](https://dev.to/roberto_celano/laravel-blade-crea-viste-eleganti-e-riutilizzabili-laravel-blade-create-elegant-and-15p3)
-- [Understanding AMI,&lpar;Amazon Machine Image&rpar; , EBS Multi-Attach, Snapshots in AWS – A Beginner’s Guide&lpar;Simplified&rpar;](https://dev.to/momoischief/understanding-amiamazon-machine-image-ebs-multi-attach-snapshots-in-aws-a-beginners-28b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
