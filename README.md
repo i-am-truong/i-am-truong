@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unity vs Unreal vs Godot: Finding Your Perfect Game Engine in 2025](https://dev.to/philipjohnbasile/unity-vs-unreal-vs-godot-finding-your-perfect-game-engine-in-2025-1ck9)
 - [Hands On Large Language Model](https://dev.to/aditya_gupta_22e13c9f63a1/hands-on-large-language-model-2nam)
 - [Config Notebook Jupyter on Pycharm...](https://dev.to/catundanatalia/config-notebook-jupyter-on-pycharm-3fli)
-- [BrightData Company Deep Research Report with AI Agent, Google Search, Glassdoor and CrunchBase + Google Gemini](https://dev.to/ranjancse/brightdata-company-deep-research-report-with-ai-agent-google-search-glassdoor-and-crunchbase--1cjb)
-- [Untitled](https://dev.to/10sy_defdif_eb3a66b52ab8/untitled-59j2)
-- [Why Feedback Loops Matter in Data Annotation Platforms](https://dev.to/labelyourdata/why-feedback-loops-matter-in-data-annotation-platforms-5b3b)
+- [hey i made a few programming stickers and want some feedback. thx :D](https://dev.to/beigestack/hey-i-made-a-few-programming-stickers-and-want-some-feedback-thx-d-2ppd)
+- [🚀 Installing Windows 11 on MSI with Click BIOS 5: Quick &amp; Full Guide](https://dev.to/shahibur_rahman_6670cd024/installing-windows-11-on-msi-with-click-bios-5-quick-full-guide-1217)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
