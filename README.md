@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ton IA, c&#39;est comme une pote sortie du congélo !](https://dev.to/oclka/ton-ia-cest-comme-une-pote-sortie-du-congelo--e99)
+- [Collecting Feedback Early Saves Time, Money &amp; Headaches – Building a Lightweight Tool for It](https://dev.to/joel_d52847aa7d32e39d8f65/collecting-feedback-early-saves-time-money-headaches-building-a-lightweight-tool-for-it-23gi)
+- [Secure SSH Shell Applications](https://dev.to/sebos/secure-ssh-shell-applications-4414)
+- [Breaking Language Barriers in Healthcare: Multilingual Medical Support System with n8n &amp; Bright Data published](https://dev.to/choineta/breaking-language-barriers-in-healthcare-multilingual-medical-support-system-with-n8n-bright-4eb1)
 - [Social media drama analizer / monitor](https://dev.to/simonhryszko/social-media-drama-analizer-monitor-5cfg)
-- [Add TailwindCSS IntelliSense and Prettier Plugin Support for TS/JS Files](https://dev.to/zougari47/add-tailwindcss-intellisense-and-prettier-plugin-support-for-tsjs-files-32jg)
-- [ConsciousCoin: When Consciousness Becomes Its Own Proof](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciouscoin-when-consciousness-becomes-its-own-proof-19le)
-- [How we designed versioned, validator-friendly JSON-LD profiles that LLMs actually latch onto &lpar;with SHACL/ SKOS&rpar;.](https://dev.to/hamid_ayub/how-we-designed-versioned-validator-friendly-json-ld-profiles-that-llms-actually-latch-onto-with-1f1n)
-- [First Time as an Intern. How Do You Make the Most of It?](https://dev.to/rkadriu/first-time-as-an-intern-how-do-you-make-the-most-of-it-1244)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
