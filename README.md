@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go 1.25 JSON v2: Benchmarks, Raptor Escapes, and a 1.8 Speedup](https://dev.to/ryansgi/go-125-json-v2-benchmarks-raptor-escapes-and-a-18-speedup-5cf3)
-- [Terminally Curious: Diving Into Bash](https://dev.to/middledev/terminally-curious-diving-into-bash-3pda)
-- [Unlocking The Power Of Semantic HTML:Boosting SEO And Accessibility In Web Development](https://dev.to/ezra_nzioki_bf0e14e745929/unlocking-the-power-of-semantic-htmlboosting-seo-and-accessibility-in-web-development-56mp)
-- [I Built and Deployed a Micro-SaaS in 3 Hours — Here’s What I Learned](https://dev.to/willcheung/i-built-and-deployed-a-micro-saas-in-3-hours-heres-what-i-learned-cd6)
-- [The Cult of Hype: The Unseen Architecture of Framework Popularity](https://dev.to/alex_aslam/the-cult-of-hype-the-unseen-architecture-of-framework-popularity-54gj)
+- [React: How to Test useState &lpar;with Examples&rpar;](https://dev.to/lico/react-testing-usestate-with-examples-34mm)
+- [I built an AI Agent That reveals Wall Street Sentiment in seconds](https://dev.to/indika_wimalasuriya/i-built-an-ai-agent-that-reveals-wall-street-sentiment-in-seconds-4ma2)
+- [Can LLMs Power Randomizers?](https://dev.to/butter/can-llms-power-randomizers-3omp)
+- [TechPulse AI - Automated LinkedIn Tech News Agent - Powered by n8n &amp; Bright Data](https://dev.to/abhinandan-r/techpulse-ai-automated-linkedin-tech-news-agent-powered-by-n8n-bright-data-37p0)
+- [August 2025 At Releem - Recommendations Impact &amp; Redundant Index Detection](https://dev.to/drupaladmin/august-2025-at-releem-recommendations-impact-redundant-index-detection-2cp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
