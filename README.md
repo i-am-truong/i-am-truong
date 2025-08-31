@@ -34,13 +34,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-726.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-726.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 144.7 kB Used in GitHub's Storage 
+> 📦 144.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,017 Contributions in the Year 2025
+> 🏆 1,021 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,6 +48,45 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                662 commits         ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌆 Daytime                777 commits         █████████░░░░░░░░░░░░░░░░   36.48 % 
+🌃 Evening                578 commits         ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+🌙 Night                  113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   334 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Tuesday                  291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Wednesday                295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Thursday                 451 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Friday                   281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Saturday                 269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Sunday                   209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -65,7 +104,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 17:13:52 UTC
+ Last Updated on 31/08/2025 17:14:27 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-truong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
