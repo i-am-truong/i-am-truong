@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Wishes the News Would Cover This Subject](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-wishes-the-news-would-cover-this-subject-1d8h)
-- [🔥 DOM is Dead? How React&#39;s New Compiler Will Change Everything &lpar;And What You Should Do Now&rpar;](https://dev.to/ekwoster/dom-is-dead-how-reacts-new-compiler-will-change-everything-and-what-you-should-do-now-ph)
-- [IGN: Donkey Kong Bananza - All Style Options and Outfits &lpar;4K&rpar;](https://dev.to/gg_news/ign-donkey-kong-bananza-all-style-options-and-outfits-4k-4a52)
-- [Attack of the Messy Queries: Rise of the Query Builder](https://dev.to/killallskywalker/attack-of-the-messy-queries-rise-of-the-query-builder-4ljf)
-- [Building Interactive SDK Walkthroughs with WebGL](https://dev.to/buildvr/building-interactive-sdk-walkthroughs-with-webgl-42fp)
+- [BrightData Company Deep Research Report with AI Agent, Google Search, Glassdoor and CrunchBase + Google Gemini](https://dev.to/ranjancse/brightdata-company-deep-research-report-with-ai-agent-google-search-glassdoor-and-crunchbase--1cjb)
+- [Untitled](https://dev.to/10sy_defdif_eb3a66b52ab8/untitled-59j2)
+- [Day 81: The Productivity Paradox and Backend Dreams](https://dev.to/casperday11/day-81-the-productivity-paradox-and-backend-dreams-5dl7)
+- [How Dev Tools Benefit From a “Learn by Breaking” Approach](https://dev.to/buildvr/how-dev-tools-benefit-from-a-learn-by-breaking-approach-2i15)
+- [Interactive CLI Tutorials: Teaching Developers Without Docs](https://dev.to/buildvr/interactive-cli-tutorials-teaching-developers-without-docs-p5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
