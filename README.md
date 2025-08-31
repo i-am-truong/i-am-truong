@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Build a Stunning Glassmorphic E-commerce Product Card with HTML &amp; CSS](https://dev.to/safdarali25/build-a-stunning-glassmorphic-e-commerce-product-card-with-html-css-3e9b)
+- [AI-Assisted Code Review: Opportunities and Pitfalls](https://dev.to/dixitgurv/ai-assisted-code-review-opportunities-and-pitfalls-llp)
 - [Building our own RAG](https://dev.to/arsh_the_coder/building-our-own-rag-4lj2)
 - [Escalabilidade desmistificada](https://dev.to/emanoellopes/escalabilidade-desmistificada-3b1n)
 - [Cycle Detection in the Directed Graph using the DFS](https://dev.to/khushi2488/cycle-detection-in-the-directed-graph-using-the-dfs-3lkm)
-- [Ms Excel and Predictive Data analysis](https://dev.to/loi2008/ms-excel-and-predictive-data-analysis-4g3b)
-- [Unsupervised Machine Learning](https://dev.to/makenakinyua/unsupervised-machine-learning-kjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
