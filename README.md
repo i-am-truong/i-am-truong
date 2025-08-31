@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RealEstate Intelligence Agent - Property Market Monitor Powered by n8n &amp; Bright Data](https://dev.to/abhinandan-r/realestate-intelligence-agent-property-market-monitor-powered-by-n8n-bright-data-4240)
-- [Dealing With Dependency Vulnerabilities](https://dev.to/buffolander/dealing-with-dependency-vulnerabilities-3pl4)
-- [Códigos de Status HTTP: Uma Lista Completa com Explicações](https://dev.to/ikauedev/codigos-de-status-http-uma-lista-completa-com-explicacoes-emh)
-- [The Prompt Architect&#39;s Playbook: 12 Patterns Defining 2025](https://dev.to/naresh_82de734ade4c1c66d9/the-prompt-architects-playbook-12-patterns-defining-2025-dfg)
-- [🎨 Laravel &amp; Blade: crea viste eleganti e riutilizzabili | 🎨 Laravel &amp; Blade: Create Elegant and Reusable Views](https://dev.to/roberto_celano/laravel-blade-crea-viste-eleganti-e-riutilizzabili-laravel-blade-create-elegant-and-15p3)
+- [Social media drama analizer / monitor](https://dev.to/simonhryszko/social-media-drama-analizer-monitor-5cfg)
+- [Add TailwindCSS IntelliSense and Prettier Plugin Support for TS/JS Files](https://dev.to/zougari47/add-tailwindcss-intellisense-and-prettier-plugin-support-for-tsjs-files-32jg)
+- [ConsciousCoin: When Consciousness Becomes Its Own Proof](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciouscoin-when-consciousness-becomes-its-own-proof-19le)
+- [How we designed versioned, validator-friendly JSON-LD profiles that LLMs actually latch onto &lpar;with SHACL/ SKOS&rpar;.](https://dev.to/hamid_ayub/how-we-designed-versioned-validator-friendly-json-ld-profiles-that-llms-actually-latch-onto-with-1f1n)
+- [First Time as an Intern. How Do You Make the Most of It?](https://dev.to/rkadriu/first-time-as-an-intern-how-do-you-make-the-most-of-it-1244)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
