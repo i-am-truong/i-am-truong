@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript Expert Revision Handbook](https://dev.to/anmshpndy/typescript-expert-revision-handbook-466f)
 - [Testing Services on .NET8 with NUnit and Moq](https://dev.to/vinicius_estevam/testing-services-on-net8-with-nunit-and-moq-1em)
 - [React Expert Revision Handbook](https://dev.to/anmshpndy/react-expert-revision-handbook-og1)
 - [My React Journey: Day 3 – Rendering Lists with Angular @for and React .map&lpar;&rpar;](https://dev.to/michelemalagnini/my-react-journey-day-3-rendering-lists-with-angular-for-and-react-map-p1n)
 - [The SEO Alchemist: How I Built an AI Agent to Turn Raw Web Data into Content Gold](https://dev.to/inforeole/the-seo-alchemist-how-i-built-an-ai-agent-to-turn-raw-web-data-into-content-gold-5ej6)
-- [The Unstoppable Lead Generation Engine: A Multi-Agent AI Workflow with n8n &amp; Bright Data](https://dev.to/inforeole/the-unstoppable-lead-generation-engine-a-multi-agent-ai-workflow-with-n8n-bright-data-4k3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
