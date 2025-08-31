@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Backbone of Global Scam: How NameSilo, Webnic, and NiceNic](https://dev.to/destroyphish/the-backbone-of-global-scam-how-namesilo-webnic-and-nicenic-1if1)
-- [Myself Intro….](https://dev.to/cutieyunnytech/myself-intro-21fe)
-- [Connect to Multiple Linux Servers via SSH Without Entering Password: Step-by-Step Guide](https://dev.to/elliot_brenya/connect-to-multiple-linux-servers-via-ssh-without-entering-password-step-by-step-guide-232d)
-- [The Complete Beginner&#39;s Guide to LangChain: Why Every Developer Needs This Framework in 2025&lpar;PART 1&rpar;](https://dev.to/fonyuygita/the-complete-beginners-guide-to-langchain-why-every-developer-needs-this-framework-in-2025part-1-2d55)
-- [Experimentando con Elm en mi trabajo](https://dev.to/agj/experimentando-con-elm-en-mi-trabajo-2c78)
+- [Don&#39;t put off until tomorrow what you can do today](https://dev.to/elliot_brenya/dont-put-off-until-tomorrow-what-you-can-do-today-a25)
+- [Just Launched My Portfolio – Looking for Feedback from Dev Community](https://dev.to/mdhassanpatwary/just-launched-my-portfolio-looking-for-feedback-from-dev-community-28bc)
+- [Maker&#39;s Muse: 12 years of 3D printing advice in 30 minutes.](https://dev.to/maker_youtube/makers-muse-12-years-of-3d-printing-advice-in-30-minutes-jf5)
+- [Unearth Your Code’s Hidden TODOs &amp; Supercharge Your Workflow with comment-todo!](https://dev.to/silentwatcher_95/unearth-your-codes-hidden-todos-supercharge-your-workflow-with-comment-todo-24j8)
+- [Android’s Hidden Spy: Why You Should Stop “System Intelligence” Today](https://dev.to/martijn_assie_12a2d3b1833/androids-hidden-spy-why-you-should-stop-system-intelligence-today-2fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
