@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How do Transformer Models work? &lpar;a sneak-peek&rpar;](https://dev.to/anuroopvj/how-do-transformer-models-work-a-sneak-peek-3g3d)
+- [The Subscription Revolution: Why a Cloud Queue Management System is the Future of Service Delivery](https://dev.to/qwaiton_d13a3cf52ee31e800/the-subscription-revolution-why-a-cloud-queue-management-system-is-the-future-of-service-delivery-5boa)
 - [Test Context Pattern: Extracting Orchestration from Hexagonal Unit Tests](https://dev.to/israelstz/test-context-pattern-extracting-orchestration-from-hexagonal-unit-tests-5gem)
+- [Right Chip, Right Place](https://dev.to/merajsafari/right-chip-right-place-goa)
 - [What is Solana? A Simple Guide to the High-Speed Blockchain](https://dev.to/abdeldjalilchougui/what-is-solana-a-simple-guide-to-the-high-speed-blockchain-4h54)
-- [React Google Analytics 4 Tutorial: Type-Safe GA4 Implementation with Ecommerce Tracking](https://dev.to/connectaryal/react-google-analytics-4-tutorial-type-safe-ga4-implementation-with-ecommerce-tracking-1g1d)
-- [Weekly #34-2025: Lockfiles Debate, Docker’s New Cadence, AI Agent Playbooks, and Security Wake‑Ups](https://dev.to/weekly/weekly-34-2025-lockfiles-debate-dockers-new-cadence-ai-agent-playbooks-and-security-wake-ups-2nea)
-- [A Step-by-Step Guide to Publishing a Python Package for Secure Microservice Database Migration with Alembic](https://dev.to/hassan_shahzad_086a39f774/a-step-by-step-guide-to-publishing-a-python-package-for-secure-microservice-database-migration-with-4hoe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
