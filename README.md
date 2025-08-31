@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Compare design to website in one click](https://dev.to/dren0r/compare-design-to-website-in-one-click-3kg)
+- [How to Fix FastAPI Debug Not Working in PyCharm on Windows](https://dev.to/chuongmep/how-to-fix-fastapi-debug-not-working-in-pycharm-on-windows-5568)
 - [Python Quiz — Closures &amp; Loop Variables](https://dev.to/mahmoudessam/python-quiz-closures-loop-variables-n9d)
 - [AWS Solutions Architect Associate Cheat Sheet](https://dev.to/venkatesh111/aws-solutions-architect-associate-cheat-sheet-4pfj)
 - [Building a Competitive &#39;Deal Hunter&#39; Agent Using n8n + BrightData Real-Time Web Data](https://dev.to/bennykillua/building-a-competitive-deal-hunter-agent-using-n8n-brightdata-real-time-web-data-42b6)
-- [How to Build an Autocomplete Component from scratch in Vanilla JS](https://dev.to/alexpechkarev/how-to-build-an-autocomplete-component-from-scratch-in-vanilla-js-45g0)
-- [🔥 New in FSCSS: Conditional @event + Debug exec&lpar;&rpar;](https://dev.to/fscss-ttr/new-in-fscss-conditional-event-debug-exec-2h3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
