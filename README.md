@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using SSH Keys on Windows: Fixing “Unprotected Private Key File” Errors](https://dev.to/theodora_e6f61d02577a5f06/using-ssh-keys-on-windows-fixing-unprotected-private-key-file-errors-1d07)
+- [🚀 jQuery.scrollPaging v1.1.0 – Infinite Scroll Made Easy](https://dev.to/mamedul_islam/jqueryscrollpaging-v110-infinite-scroll-made-easy-13l5)
+- [Latest in Tech: People thinking Al will end all jobs are hallucinating- Yann LeCun reposted](https://dev.to/technoblogger14o3/latest-in-tech-people-thinking-al-will-end-all-jobs-are-hallucinating-yann-lecun-reposted-2ha7)
+- [Is sleep-sort actually bad?](https://dev.to/mostypc123/is-sleep-sort-actually-bad-3bgd)
 - [BrightData Recruit Intelligence &lpar;Company Data Analysis + Candidate Search&rpar;](https://dev.to/ranjancse/brightdata-recruit-intelligence-company-data-analysis-candidate-search-2k04)
-- [15 Proven Guidelines for Scalable React Component Architecture](https://dev.to/ananysagar/15-proven-guidelines-for-scalable-react-component-architecture-3l6g)
-- [Android&#39;s Secret File System: A Developer&#39;s Guide to What&#39;s Really Stored on Your Device](https://dev.to/martijn_assie_12a2d3b1833/androids-secret-file-system-a-developers-guide-to-whats-really-stored-on-your-device-585e)
-- [My 2-Year Journey to Becoming a DevOps Engineer - The Roadmap](https://dev.to/chikarainohara/my-2-year-journey-to-becoming-a-devops-engineer-the-roadmap-5k0)
-- [The Figma-to-n8n “Ninja Move”: Zero-Touch Asset Sync &lpar;with Chat Commands + AI Quality Checks&rpar;](https://dev.to/benbenjamin/the-figma-to-n8n-ninja-move-zero-touch-asset-sync-with-chat-commands-ai-quality-checks-50m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
