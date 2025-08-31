@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 1: Picking a Stack, Breaking Things, Learning Fast](https://dev.to/shaq_attack/week-1-picking-a-stack-breaking-things-learning-fast-a7c)
+- [Shipping With Confidence: Pre-Deploy Status Checks In CI Pipelines](https://dev.to/all_d4acf3d199106e109f4ff/shipping-with-confidence-pre-deploy-status-checks-in-ci-pipelines-226f)
+- [Running Python unit tests with CMake](https://dev.to/pikotutorial/running-python-unit-tests-with-cmake-25e1)
+- [What If There Was a GitHub + Udemy + Fiverr Combined?](https://dev.to/kumar_ayush/what-if-there-was-a-github-udemy-fiverr-combined-46ma)
 - [Horizontal and Vertical Pod Autoscaling](https://dev.to/godofgeeks/horizontal-and-vertical-pod-autoscaling-3jeh)
-- [[Boost]](https://dev.to/ravinthiran_partheepan_4e/-3lim)
-- [Embracing Signal-Based Forms in Angular: The Future of Reactive Form Management](https://dev.to/karol_modelski/embracing-signal-based-forms-in-angular-the-future-of-reactive-form-management-1lh0)
-- [MonoGuard: Making Monorepo Management Less Painful](https://dev.to/yu_chihwei_0481c8e2b679d/monoguard-making-monorepo-management-less-painful-2739)
-- [Auditing Sensitive Data Changes in Laravel: Securing High-Risk Operations](https://dev.to/azmy/auditing-sensitive-data-changes-in-laravel-securing-high-risk-operations-9n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
