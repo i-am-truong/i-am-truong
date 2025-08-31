@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Viral-O-Meter for YouTube &lpar;Built with n8n + Bright Data&rpar;](https://dev.to/mohit_agnihotri_5/viral-o-meter-for-youtube-built-with-n8n-bright-data-4kho)
-- [¿Cómo conseguí la certificación de Git SC-102?](https://dev.to/softx0/como-consegui-la-certificacion-de-git-sc-102-4632)
-- [DeepSeek V3.1 Meets Promptfoo: Jailbreaks, Biases &amp; Beyond](https://dev.to/ayush7614/deepseek-v31-meets-promptfoo-jailbreaks-biases-beyond-4270)
-- [Phishing: The Complete Guide to Cyber Deception and Protection](https://dev.to/pragyasapkota/phishing-the-complete-guide-to-cyber-deception-and-protection-ag5)
-- [One Copy to Rule Them All: Sharing Third-Party Libraries in Nx Micro Frontends](https://dev.to/impranavkale/one-copy-to-rule-them-all-sharing-third-party-libraries-in-nx-micro-frontends-26a4)
+- [AI in Software Development: Boosting or Slowing Your Productivity](https://dev.to/empiree/ai-in-software-development-boosting-or-slowing-your-productivity-fkl)
+- [Exciting Project Launch: Swagger MCP Adapter!](https://dev.to/serifcolakel/exciting-project-launch-swagger-mcp-adapter-2peb)
+- [Linkerd Service Mesh on AWS EKS](https://dev.to/aws-builders/linkerd-service-mesh-on-aws-eks-3oe9)
+- [Dev in the Making: My Current Struggle](https://dev.to/cutieyunnytech/dev-in-the-making-my-current-struggle-47ch)
+- [SEMANTIC HTML](https://dev.to/moses352/semantic-html-d2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
