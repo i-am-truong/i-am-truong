@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Complex Tech Stacks to Simple Solutions: My Journey Back to Basics](https://dev.to/shipitsoon/from-complex-tech-stacks-to-simple-solutions-my-journey-back-to-basics-3opa)
-- [Secure Your FHIR APIs: Token Introspection Explained](https://dev.to/health_samurai/secure-your-fhir-apis-token-introspection-explained-3172)
-- [O Impacto das Ferramentas de IA no Desenvolvimento: Insights de uma Pesquisa da Microsoft](https://dev.to/asouza/o-impacto-das-ferramentas-de-ia-no-desenvolvimento-insights-de-uma-pesquisa-da-microsoft-2p38)
-- [Qoder Quest Mode: Task Delegation to Agents](https://dev.to/qoder_ai/qoder-quest-mode-task-delegation-to-agents-27gh)
-- [DDD in Symfony 7: Clean Architecture and Deptrac-enforced boundaries](https://dev.to/mykola_vantukh/ddd-in-symfony-7-clean-architecture-and-deptrac-enforced-boundaries-120a)
+- [Datadog, Reframed: A Simple Way to Think About Dashboards, Monitors, Log Explorer, and Beyond](https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-dashboards-monitors-log-explorer-and-beyond-1nj7)
+- [From Lag to Live: Architecting a Real-Time Inventory System](https://dev.to/thebigwealth89/bringing-the-backend-to-life-with-real-time-updates-328p)
+- [Using AIFunctions with OpenAI Realtime API in .NET](https://dev.to/mehrandvd/using-aifunctions-with-openai-realtime-api-in-net-261k)
+- [Qoder&#39;s Codebase‑Aware Code Retrieval: A Hybrid Approach for AI Coding](https://dev.to/qoder/qoders-codebase-aware-code-retrieval-a-hybrid-approach-for-ai-coding-gpm)
+- [Paracetamol.ts💊| #44: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-44-explica-este-codigo-typescript-209d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
