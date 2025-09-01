@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are Docker Hardened Images and what problem does it solve?](https://dev.to/ajeetraina/what-are-docker-hardened-images-and-what-problem-does-it-solve-2ipb)
-- [I build an AI Career Navigator: Real-Time Internships/job , Hackathons &amp; Research data Powered by n8n + Bright Data](https://dev.to/harish_05/i-build-an-ai-career-navigator-real-time-internshipsjob-hackathons-research-data-powered-by-1mp2)
-- [FlutterFlow: Handling App Lifecycle to Run Actions on Foreground Transition](https://dev.to/friendship_e3d5e249468fc3/flutterflow-handling-app-lifecycle-to-run-actions-on-foreground-transition-23e3)
-- [Building an Unstoppable AI Interview Coach: How Real-Time Bright Data + n8n Workflows Changed Everything](https://dev.to/arjunhg/building-an-unstoppable-ai-interview-coach-how-real-time-job-data-n8n-workflows-changed-2ikf)
-- [LLM-Sentinel: Shield your AI calls from leaking secrets](https://dev.to/raaihank/llm-sentinel-shield-your-ai-calls-from-leaking-secrets-39k4)
+- [Deploy PostgreSQL on a VPS using Docker](https://dev.to/dmdboi/deploy-postgresql-on-a-vps-using-docker-22ej)
+- [Underfoot: The ChatPot for Hidden Places &lpar;and Why I Don’t Do Hackathons&rpar;](https://dev.to/anchildress1/underfoot-the-chatpot-for-hidden-places-and-why-i-dont-do-hackathons-2684)
+- [White Label Telemedicine App: Build Care Faster, Safer, and Under Your Brand](https://dev.to/silvio_dante/white-label-telemedicine-app-build-care-faster-safer-and-under-your-brand-38b)
+- [Brand Perception Monitoring &amp; Sentiment Analysisℹ️](https://dev.to/sarahokolo/brand-perception-monitoring-sentiment-analysis-1f1)
+- [BrightMentions: Building a 24/7 Brand Monitoring AI Agent with n8n and Bright Data](https://dev.to/mehdi/brightmentions-building-a-247-brand-monitoring-ai-agent-with-n8n-and-bright-data-3gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
