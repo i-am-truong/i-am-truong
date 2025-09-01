@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Docker: The Essential Guide for Developers](https://dev.to/vickdapro/understanding-docker-the-essential-guide-for-developers-28ah)
+- [Building Space Education App](https://dev.to/hadeed_ahmad_b24bd1370d6f/building-space-education-app-2jac)
 - [Hello, DEV World! Building My Corner of the Web](https://dev.to/godfrey_omoregie_e227db1b/hello-dev-world-building-my-corner-of-the-web-1poi)
 - [How to Build and Deploy an SSE MCP Server with OAuth in Rust](https://dev.to/shuttle/how-to-build-and-deploy-an-sse-mcp-server-with-oauth-in-rust-3h5k)
 - [Why Clean Architecture Still Matters in 2025](https://dev.to/joe_anthony_c718780b8bf32/why-clean-architecture-still-matters-in-2025-550g)
-- [Multidimensional Embedding Comparison with “diemsim”](https://dev.to/boddu_sripavan_5b6c8d66d4/multidimensional-embedding-comparison-with-diemsim-3ohc)
-- [Privacy by Design in applications](https://dev.to/lucaspereiradesouzat/privacy-by-design-in-applications-701)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
