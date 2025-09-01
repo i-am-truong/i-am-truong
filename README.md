@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I ❤️ Offline](https://dev.to/javiersalcedopuyo/i-offline-2i0i)
+- [The Overpainted Canvas: Is Web Development Getting Too Complex?](https://dev.to/alex_aslam/the-overpainted-canvas-is-web-development-getting-too-complex-5639)
+- [Terraform stacks: A revisit](https://dev.to/quixoticmonk/terraform-stacks-a-revisit-462l)
 - [Days 18-19: Weekend Reflection - Our Responsibility to Recent CS Graduates](https://dev.to/clayroach/days-18-19-weekend-reflection-our-responsibility-to-recent-cs-graduates-13hf)
-- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-6ka)
-- [Unsupervised learning: Clustering](https://dev.to/sumeya/unsupervised-learning-clustering-3k61)
-- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-5hda)
-- [Series: From Zero to Hero – DevOps Workflow on Termux](https://dev.to/terminaltools/series-from-zero-to-hero-devops-workflow-on-termux-mcg)
+- [Jarni AI – Real-time Voice AI Platform](https://dev.to/jarni_ai/jarni-ai-real-time-voice-ai-platform-5djk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
