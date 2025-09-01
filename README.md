@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You have to upgrade to SOCI V2 🤯](https://dev.to/aws-builders/you-have-to-upgrade-to-soci-v2-2p2f)
-- [Faster Kubernetes Dev Loop with Tilt and Telepresence](https://dev.to/buun-ch/faster-kubernetes-dev-loop-with-tilt-and-telepresence-303p)
-- [AI Watermarks: The Secret Weapon Protecting Industrial Machines from Cyberattacks?](https://dev.to/arvind_rajan/ai-watermarks-the-secret-weapon-protecting-industrial-machines-from-cyberattacks-4ec3)
-- [MockGenServer – Instant Mock Responses from API Specs](https://dev.to/code_bodhi_39468a1347cb4f/mockgenserver-instant-mock-responses-from-api-specs-3goo)
-- [Scaling Prompt Engineering QA with AI Builder](https://dev.to/balagmadhu/scaling-prompt-engineering-qa-with-ai-builder-5hhk)
+- [Managing Power Automate Flows like a Genius](https://dev.to/wyattdave/managing-power-automate-flows-like-a-genius-5965)
+- [AI Job Matching Agent That Reads Your Resume &lpar;n8n + Bright Data Challenge&rpar;](https://dev.to/vika2210/ai-job-matching-agent-that-reads-your-resume-n8n-bright-data-challenge-12hf)
+- [Generate a Barcode with Text in Java Using ZXing](https://dev.to/yarivanovsky/generate-a-barcode-with-text-in-java-using-zxing-39g8)
+- [We built Meku to help devs go from idea to production-ready React + Tailwind apps in minutes. Excited to be part of the future of AI web app builders - your feedback means a lot 🚀](https://dev.to/meku/we-built-meku-to-help-devs-go-from-idea-to-production-ready-react-tailwind-apps-in-minutes-3kih)
+- [Catch up on your favorite Youtube&amp;Tiktok videos](https://dev.to/waptik/catch-up-on-your-favorite-youtubetiktok-videos-lng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
