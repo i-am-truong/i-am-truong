@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [50 Machine Learning MCQs with Answers](https://dev.to/arunnachalam_rs_52036873/50-machine-learning-mcqs-with-answers-2953)
-- [Binary Search Patterns Series — Blog 4: 2D Matrix &amp; Advanced Variants](https://dev.to/devcorner/binary-search-patterns-series-blog-4-2d-matrix-advanced-variants-2gi)
-- [REST API Versioning Best Practices: Complete Guide with Examples](https://dev.to/jobayer6735/rest-api-versioning-best-practices-complete-guide-with-examples-4h3)
-- [Test Post - Fixed](https://dev.to/ahmed_richdale_33038aaed4/test-post-fixed-4oml)
-- [Developer&#39;s Guide to Semantic HTML: Writing Code That Search Engines and Screen Readers Love.](https://dev.to/jaymoh21/developers-guide-to-semantic-html-writing-code-that-search-engines-and-screen-readers-love-28kd)
+- [IGN: Hell is Us - Official &quot;This is Hell Is Us&quot; Overview Trailer](https://dev.to/gg_news/ign-hell-is-us-official-this-is-hell-is-us-overview-trailer-8hp)
+- [IGN: Aegis Force: The Scorian War – Official Demo Announcement Trailer](https://dev.to/gg_news/ign-aegis-force-the-scorian-war-official-demo-announcement-trailer-4dk3)
+- [The Null Awakens: Making Missing Data Harmless](https://dev.to/killallskywalker/the-null-awakens-making-missing-data-harmless-4fo6)
+- [🚀 Level Up Your Laravel Requests with DTOs &lpar;Data Transfer Objects&rpar;](https://dev.to/naveen_dev/level-up-your-laravel-requests-with-dtos-data-transfer-objects-8en)
+- [Microservices Design Patterns in Java](https://dev.to/dixitgurv/microservices-design-patterns-in-java-3pfk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
