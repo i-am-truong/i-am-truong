@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Days 18-19: Weekend Reflection - Our Responsibility to Recent CS Graduates](https://dev.to/clayroach/days-18-19-weekend-reflection-our-responsibility-to-recent-cs-graduates-13hf)
 - [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-6ka)
 - [Unsupervised learning: Clustering](https://dev.to/sumeya/unsupervised-learning-clustering-3k61)
 - [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-5hda)
 - [Series: From Zero to Hero – DevOps Workflow on Termux](https://dev.to/terminaltools/series-from-zero-to-hero-devops-workflow-on-termux-mcg)
-- [Langmem: A Lightweight In-Memory Key-Value Store for Natural Language Processing](https://dev.to/aun_aideveloper/langmem-a-lightweight-in-memory-key-value-store-for-natural-language-processing-45db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
