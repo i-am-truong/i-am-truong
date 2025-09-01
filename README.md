@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📘 Blog 6: Minimum Spanning Tree &lpar;MST&rpar; 🌉](https://dev.to/devcorner/blog-6-minimum-spanning-tree-mst-2hfd)
-- [🏗️ Topological Sort &amp; DAG Problems](https://dev.to/devcorner/topological-sort-dag-problems-1al7)
-- [📘 Blog 3: DFS Pattern &lpar;Path Exploration, Connectivity, Components&rpar; 🌐](https://dev.to/devcorner/blog-3-dfs-pattern-path-exploration-connectivity-components-47af)
-- [📘 Blog 2: BFS Pattern &lpar;Level Order, Shortest Path in Unweighted Graphs&rpar; 🌐](https://dev.to/devcorner/blog-2-bfs-pattern-level-order-shortest-path-in-unweighted-graphs-581m)
-- [📖 Blog 1: Graph Fundamentals &amp; Representations 🕸️](https://dev.to/devcorner/blog-1-graph-fundamentals-representations-2fnm)
+- [Secure Your FHIR APIs: Token Introspection Explained](https://dev.to/health_samurai/secure-your-fhir-apis-token-introspection-explained-3172)
+- [O Impacto das Ferramentas de IA no Desenvolvimento: Insights de uma Pesquisa da Microsoft](https://dev.to/asouza/o-impacto-das-ferramentas-de-ia-no-desenvolvimento-insights-de-uma-pesquisa-da-microsoft-2p38)
+- [DDD in Symfony 7: Clean Architecture and Deptrac-enforced boundaries](https://dev.to/mykola_vantukh/ddd-in-symfony-7-clean-architecture-and-deptrac-enforced-boundaries-120a)
+- [filesql: SQL Driver for CSV, TSV, LTSV, Parquet, and Excel Files in Go](https://dev.to/nchika/filesql-sql-driver-for-csv-tsv-ltsv-parquet-and-excel-files-in-go-l5j)
+- [Cara Mudah Mengetahui Chat ID Telegram dari Bot](https://dev.to/naandan/cara-mudah-mengetahui-chat-id-telegram-dari-bot-3ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
