@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [💊 How I Built an RCPA Prescription Performance Dashboard in Power BI](https://dev.to/mwangide/how-i-built-an-rcpa-prescription-performance-dashboard-in-power-bi-3hkf)
+- [Browser Storage Explained: LocalStorage vs SessionStorage vs IndexedDB vs Cookies](https://dev.to/arnavsharma2711/browser-storage-explained-localstorage-vs-sessionstorage-vs-indexeddb-vs-cookies-283k)
+- [Hi everyone! I’m new to the DEV community and excited to start contributing to open source. 🎯](https://dev.to/brightly_virya/hi-everyone-im-new-to-the-dev-community-and-still-a-beginner-when-it-comes-to-joining-developer-579p)
+- [Which AI tool performs better for article generation with lower detection probability?](https://dev.to/angrygiraffe/which-ai-tool-performs-better-for-article-generation-with-lower-detection-probability-2fea)
 - [Supervised Learning, Explained Through Classification](https://dev.to/mwangide/supervised-learning-explained-through-classification-5201)
-- [Gen Z and сrypto: a daily ritual](https://dev.to/kubo_sk/gen-z-and-srypto-a-daily-ritual-1jad)
-- [🧠 Understanding Large Language Models &lpar;LLMs&rpar;](https://dev.to/techstuff/understanding-large-language-models-llms-20c0)
-- [&quot;Why Data Analytics is Essential for Modern Business Success&quot;](https://dev.to/ashwin_pps_365864ef843ec2/why-data-analytics-is-essential-for-modern-business-success-g9k)
-- [How to Manage Virtual Teams: A Modern Expert Guide](https://dev.to/fluidwave/how-to-manage-virtual-teams-a-modern-expert-guide-3990)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
