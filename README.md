@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GSOC 2025 Report: AprilTag, FAST, and ORB Detectors](https://dev.to/as1100k/gsoc-2025-report-apriltag-fast-and-orb-detectors-45bn)
-- [ChinaBanana - Real-Time Ad-Driven UGC Engine](https://dev.to/zubeidhendricks/chinabanana-real-time-ad-driven-ugc-engine-5170)
-- [Go for Bash Programmers - Part I: The Language](https://dev.to/go_monk_71232aa93bb1881dd/go-for-bash-programmers-part-i-the-language-3e71)
-- [Did you know &lpar;2&rpar;: Run SSH or SFTP on your browser!](https://dev.to/aspxone-official/did-you-know-2-run-ssh-or-sftp-on-your-browser-da0)
-- [Avec Git : Accroche-toi aux branches 🌳](https://dev.to/oclka/avec-git-accroche-toi-aux-branches-11c3)
+- [Supercharge Your Terminal: ShellGPT + ChromaDB + LangChain for Context-Aware Automation](https://dev.to/bohowhizz/supercharge-your-terminal-shellgpt-chromadb-langchain-for-context-aware-automation-49o7)
+- [How to Survive AI as a Programmer](https://dev.to/chrismbah/how-to-survive-ai-as-a-programmer-5hp)
+- [SQL for Data Professionals: From Basics to Advanced Analytics](https://dev.to/datalens/sql-for-data-professionals-from-basics-to-advanced-analytics-2nd1)
+- [Master Your Command Line: A Developer&#39;s Guide to Essential Commands](https://dev.to/vickdapro/master-your-command-line-a-developers-guide-to-essential-commands-443f)
+- [From CLI to AI: Why the Command Line Needs Its Own Smart Layer](https://dev.to/olivia_perell_/from-cli-to-ai-why-the-command-line-needs-its-own-smart-layer-46k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
