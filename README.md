@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chrome DevTools: The Complete Use Case Guide for Developers](https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la)
-- [Tracking outbound API calls from your application: why, what worked &lpar;and what didn’t&rpar;](https://dev.to/gaw/tracking-outbound-api-calls-from-your-application-why-what-worked-and-what-didnt-13ii)
-- [Mastering the Model Context Protocol &lpar;MCP&rpar;: A Comprehensive Guide](https://dev.to/gaw/mastering-the-model-context-protocol-mcp-a-comprehensive-guide-4m20)
-- [What does the future of coding interviews look like in the age of LLMs?](https://dev.to/gaw/what-does-the-future-of-coding-interviews-look-like-in-the-age-of-llms-4aji)
-- [Semantic HTML for SEO and Accessibility](https://dev.to/kimuyubohblip/semantic-html-for-seo-and-accessibility-4ecm)
+- [Começando com React: Desafios e Conquistas](https://dev.to/flavianna_saldanha/comecando-com-react-desafios-e-conquistas-240i)
+- [Customizing Claude Code: What I Learned from Losing Everything](https://dev.to/paulduvall/customizing-claude-code-what-i-learned-from-losing-everything-1d95)
+- [The One-Hour Rule for Developers - How Short, Focused Sprints Can Unblock Stalled Projects](https://dev.to/vadym_info_polus/the-one-hour-rule-for-developers-how-short-focused-sprints-can-unblock-stalled-projects-517o)
+- [These spaces reduce the burden of long-term office rentals.](https://dev.to/elevator_spaces_8f53879c8/these-spaces-reduce-the-burden-of-long-term-office-rentals-1iig)
+- [Template Your Own Precise Boilerplate Code: No AI, No Wallet Drain. Part 1 – Microsoft’s Implementation](https://dev.to/georgekobaidze/template-your-own-precise-boilerplate-code-no-ai-no-wallet-drain-part-1-microsofts-lkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
