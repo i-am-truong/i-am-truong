@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unsupervised learning: Clustering](https://dev.to/sumeya/unsupervised-learning-clustering-3k61)
 - [Langmem: A Lightweight In-Memory Key-Value Store for Natural Language Processing](https://dev.to/aun_aideveloper/langmem-a-lightweight-in-memory-key-value-store-for-natural-language-processing-45db)
 - [Using Ollama and Tailscale to power an Android app with Gemini 3 27B](https://dev.to/lethargicpanda/using-ollama-and-tailscale-to-power-an-android-app-with-gemini-3-27b-1gim)
 - [Rust Ownership Explained: Why Some Values Move and Others Copy](https://dev.to/lovegupta/rust-ownership-explained-why-some-values-move-and-others-copy-4ol2)
 - [Começando com React: Desafios e Conquistas](https://dev.to/flavianna_saldanha/comecando-com-react-desafios-e-conquistas-240i)
-- [Customizing Claude Code: What I Learned from Losing Everything](https://dev.to/paulduvall/customizing-claude-code-what-i-learned-from-losing-everything-1d95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
