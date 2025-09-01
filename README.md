@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Fun Python Tricks That’ll Make You Look Like a Pro 🐍✨](https://dev.to/nishakarithikeyan_2003/12-fun-python-tricks-thatll-make-you-look-like-a-pro-53ap)
+- [Comprehensive Docker Guide](https://dev.to/mcheremnov/comprehensive-docker-guide-2cff)
+- [🚀 Web Workers in Angular: Boost App Performance by Offloading Heavy Tasks](https://dev.to/rohit_singh_ee84e64941db7/web-workers-in-angular-boost-app-performance-by-offloading-heavy-tasks-202p)
 - [JavaScript in 2025: Your Roadmap to Modern Features](https://dev.to/hreuven/javascript-in-2025-your-roadmap-to-modern-features-31ff)
 - [Javascript&#39;te map ve reduce metodlarının kullanımı](https://dev.to/alimetin/javascriptte-map-ve-reduce-metodlarinin-kullanimi-1j20)
-- [Understanding Node.js Design Patterns: The Building Blocks](https://dev.to/priya_sharma/understanding-nodejs-design-patterns-the-building-blocks-1i8j)
-- [How I Built a Bulletproof MongoDB Backup System That Saved My Startup](https://dev.to/ziaulhoque24/how-i-built-a-bulletproof-mongodb-backup-system-that-saved-my-startup-3ode)
-- [Unpacking KYC: A Scalable Authentication Backend for Startups](https://dev.to/sevenwings26/unpacking-kyc-a-scalable-authentication-backend-for-startups-10lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
