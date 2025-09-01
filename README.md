@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Taxes in Italy: A Developer’s Guide to Creating Salary Calculation Tools](https://dev.to/mariensophie9/understanding-taxes-in-italy-a-developers-guide-to-creating-salary-calculation-tools-4gci)
-- [Go Coding Official Standards and Best Practices](https://dev.to/leapcell/go-coding-official-standards-and-best-practices-284k)
-- [ASP.NET Core show/hide password](https://dev.to/karenpayneoregon/aspnet-core-showhide-password-i4f)
-- [Introducing the ForemCards Ideia](https://dev.to/wantu/introducing-the-foremcards-ideia-280i)
-- [Dependency Injection in Flutter: Simplifying App Architecture](https://dev.to/bestaoui_aymen/dependency-injection-in-flutter-simplifying-app-architecture-1j97)
+- [The Deepfake Apocalypse Is Here...But It&#39;s Sneakier Than You Think!](https://dev.to/arvind_rajan/the-deepfake-apocalypse-is-herebut-its-sneakier-than-you-think-4pg3)
+- [WICK-A11Y v2.2.0 x CYPRESS v15: Parabellum for Axe-ssibility Barriers](https://dev.to/sebastianclavijo/wick-a11y-v220-x-cypress-v15-parabellum-for-axe-essibility-barriers-2fam)
+- [AI Solves Taxes? How Neuro-Symbolic Systems Are Revolutionizing Financial Reasoning](https://dev.to/arvind_rajan/ai-solves-taxes-how-neuro-symbolic-systems-are-revolutionizing-financial-reasoning-1aa)
+- [learning from this great article so I can improve my infra layer :D](https://dev.to/idanielmatt/learning-from-this-great-article-so-i-can-improve-my-infra-layer-d-1bb2)
+- [Diário Dev #5 - Minha jornada no design da interface](https://dev.to/andersonvnieves/diario-dev-5-minha-jornada-no-design-da-interface-5g8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
