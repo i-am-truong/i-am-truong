@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding DOM Selection Methods in JavaScript](https://dev.to/lakshmi_g_74c225d5ca0b272/understanding-dom-selection-methods-in-javascript-3kj0)
+- [14Forge: League of Legends Analytics Platform Built with n8n AI Agents and BrightData Web Scraping](https://dev.to/ryoto_miyake/14forge-league-of-legends-analytics-platform-built-with-n8n-ai-agents-and-brightdata-web-scraping-573o)
 - [Sales-Ready Company Research Automation using n8n &amp; Bright Data](https://dev.to/himanshi_tolani_4d8c47c84/sales-ready-company-research-automation-using-n8n-bright-data-fbn)
 - [Challenges to adapt AI-based Video Codecs](https://dev.to/rameshanaparti/challenges-to-adapt-ai-based-video-codecs-45dp)
 - [What Is Test Automation: Strategies, Tools, and Best Practices](https://dev.to/sophielane/what-is-test-automation-strategies-tools-and-best-practices-3cmh)
-- [💥 Day 2 of My Pygame Journey](https://dev.to/cutieyunnytech/day-2-of-my-pygame-journey-1hg)
-- [Stop Repeating CSS! Learn CSS Nesting](https://dev.to/devshefali/stop-repeating-css-learn-css-nesting-2cb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
