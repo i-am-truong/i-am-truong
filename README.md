@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qwen Code v0.0.8 Major Release: Deep Integration with VS Code](https://dev.to/lamri_abdellahramdane_15/qwen-code-v008-major-release-deep-integration-with-vs-code-if4)
-- [Restic vs Rclone vs Rsync: Choosing the Right Tool for Backups](https://dev.to/lovestaco/restic-vs-rclone-vs-rsync-choosing-the-right-tool-for-backups-gn9)
-- [Which Language Should You Choose for DSA in 2025 ?](https://dev.to/avinash201199/which-language-should-you-choose-for-dsa-in-2025--2742)
-- [From Kashmir to the World: Launching the Universal DID-Native Addressing &lpar;UDNA&rpar; Community Group at W3C](https://dev.to/aamir_hameed_b3d23f8d4e90/from-kashmir-to-the-world-launching-the-universal-did-native-addressing-udna-community-group-at-1327)
-- [Building an End-to-End Data Engineering Pipeline with DuckDB and Python](https://dev.to/satyam_gupta/building-an-end-to-end-data-engineering-pipeline-with-duckdb-and-python-53g2)
+- [Why IPv4 Ran Out of Addresses and How NAT Saved the Internet](https://dev.to/naval_kishorupadhyay_3e9/why-ipv4-ran-out-of-addresses-and-how-nat-saved-the-internet-n30)
+- [No Cloud, No Limits: Top Free AI Image Generators for Self-Hosting](https://dev.to/lightningdev123/no-cloud-no-limits-top-free-ai-image-generators-for-self-hosting-3je0)
+- [Hack The Box - Explosion &lpar;RDP&rpar;](https://dev.to/er/hack-the-box-explosion-rdp-512a)
+- [How to Deploy a Django App to Production in 2025](https://dev.to/piko/how-to-deploy-a-django-app-to-production-in-2025-5df6)
+- [Vibe coding: Because who doesn’t love surprise technical debt!?](https://dev.to/coderabbitai/vibe-coding-because-who-doesnt-love-surprise-technical-debt-3c3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
