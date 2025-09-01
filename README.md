@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript - String](https://dev.to/dharshinieswaran/javascript-string-bma)
-- [JavaScript - Array &amp; Methods](https://dev.to/dharshinieswaran/javascript-array-methods-4lff)
-- [IdeaBot — a YouTube-driven Viral Topic Generator.](https://dev.to/shah_pourazadi_5da55a8db5/ideabot-a-youtube-driven-viral-topic-generator-14bn)
-- [n8n daily email insight generator](https://dev.to/matheusdsantossi/n8n-daily-email-insight-generator-4986)
-- [JavaScript - Control Flow Statements](https://dev.to/dharshinieswaran/javascript-control-flow-statements-mp8)
+- [CGSS vs Startup India vs MUDRA: A Framework for Startup Funding in India](https://dev.to/gov01/cgss-vs-startup-india-vs-mudra-a-framework-for-startup-funding-in-india-3fh1)
+- [n8n: The noob is on the loose](https://dev.to/annavi11arrea1/n8n-the-noob-is-on-the-loose-2d43)
+- [Improve customer service data with this case study](https://dev.to/dipti_moryani_08e62702314/improve-customer-service-data-with-this-case-study-3gl1)
+- [ainda vale a pena ser DEV em 2025?](https://dev.to/lukasdesouza/ainda-vale-a-pena-ser-dev-em-2025-1bjd)
+- [Improve customer service data](https://dev.to/dipti_moryani_08e62702314/improve-customer-service-data-13jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
