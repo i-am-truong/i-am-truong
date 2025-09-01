@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [# The TCP 3-Way Handshake: How Connections Begin Their Life](https://dev.to/naval_kishorupadhyay_3e9/-the-tcp-3-way-handshake-how-connections-begin-their-life-4mf1)
+- [TCP vs UDP: Why Some Apps Want Reliability and Others Want Speed](https://dev.to/naval_kishorupadhyay_3e9/tcp-vs-udp-why-some-apps-want-reliability-and-others-want-speed-17dn)
 - [🗓 Daily LeetCode Progress – Day 16](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-16-5gg3)
 - [🎤🤖 Microsoft Unveils First In-House AI Models: MAI-Voice-1 and MAI-1-Preview](https://dev.to/techstuff/microsoft-unveils-first-in-house-ai-models-mai-voice-1-and-mai-1-preview-2pnm)
 - [Supercharge Your Terminal: ShellGPT + ChromaDB + LangChain for Context-Aware Automation](https://dev.to/bohowhizz/supercharge-your-terminal-shellgpt-chromadb-langchain-for-context-aware-automation-49o7)
-- [Demystifying LangChain: Building Your First LLM-Powered Application](https://dev.to/anshc022/demystifying-langchain-building-your-first-llm-powered-application-4gm1)
-- [How can I integrate a credential platform with my LMS](https://dev.to/everycred/how-can-i-integrate-a-credential-platform-with-my-lms-28je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
