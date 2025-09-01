@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is the LLMs.txt a waste of TIME?](https://dev.to/everyday_dev/is-the-llmstxt-a-waste-of-time-59ja)
+- [List the management structure tree--SPL Programming Practice](https://dev.to/esproc_spl/list-the-management-structure-tree-spl-programming-practice-40ja)
+- [React Fundamentals: What It Is, Why We Use It, and How to Get Started](https://dev.to/mendoncamaria/react-fundamentals-what-it-is-why-we-use-it-and-how-to-get-started-p8a)
 - [Optimized Videos in Vue with Cloudinary](https://dev.to/jacobandrewsky/optimized-videos-in-vue-with-cloudinary-1g5j)
 - [Automating HTTPS with Docker, Nginx &amp; Certbot](https://dev.to/kingyou/automating-https-with-docker-nginx-certbot-2ein)
-- [MDM Software Functionalities That Improve IT Security](https://dev.to/vantage-mdm/mdm-software-functionalities-that-improve-it-security-28ob)
-- [Automated Provisioning with Packer](https://dev.to/godofgeeks/automated-provisioning-with-packer-2olb)
-- [From Baby Steps to Midnight Brochures](https://dev.to/ospehlivano/from-baby-steps-to-midnight-brochures-2pn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
