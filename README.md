@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built faynoSync: A Self-Hosted API for Automatic App Updates](https://dev.to/faynosync/i-built-faynosync-a-self-hosted-api-for-automatic-app-updates-4ocg)
 - [# The TCP 3-Way Handshake: How Connections Begin Their Life](https://dev.to/naval_kishorupadhyay_3e9/-the-tcp-3-way-handshake-how-connections-begin-their-life-4mf1)
+- [Developer experience metrics](https://dev.to/_steve_fenton_/developer-experience-metrics-39a5)
+- [Vidnoz: How to Use Free AI Tools for Videos](https://dev.to/lep/vidnoz-how-to-use-free-ai-tools-for-videos-6kn)
 - [TCP vs UDP: Why Some Apps Want Reliability and Others Want Speed](https://dev.to/naval_kishorupadhyay_3e9/tcp-vs-udp-why-some-apps-want-reliability-and-others-want-speed-17dn)
-- [🗓 Daily LeetCode Progress – Day 16](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-16-5gg3)
-- [🎤🤖 Microsoft Unveils First In-House AI Models: MAI-Voice-1 and MAI-1-Preview](https://dev.to/techstuff/microsoft-unveils-first-in-house-ai-models-mai-voice-1-and-mai-1-preview-2pnm)
-- [Supercharge Your Terminal: ShellGPT + ChromaDB + LangChain for Context-Aware Automation](https://dev.to/bohowhizz/supercharge-your-terminal-shellgpt-chromadb-langchain-for-context-aware-automation-49o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
