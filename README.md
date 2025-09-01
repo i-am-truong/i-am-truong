@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chrome DevTools: The Complete Use Case Guide for Developers](https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la)
+- [Tracking outbound API calls from your application: why, what worked &lpar;and what didn’t&rpar;](https://dev.to/gaw/tracking-outbound-api-calls-from-your-application-why-what-worked-and-what-didnt-13ii)
+- [Mastering the Model Context Protocol &lpar;MCP&rpar;: A Comprehensive Guide](https://dev.to/gaw/mastering-the-model-context-protocol-mcp-a-comprehensive-guide-4m20)
 - [What does the future of coding interviews look like in the age of LLMs?](https://dev.to/gaw/what-does-the-future-of-coding-interviews-look-like-in-the-age-of-llms-4aji)
 - [Semantic HTML for SEO and Accessibility](https://dev.to/kimuyubohblip/semantic-html-for-seo-and-accessibility-4ecm)
-- [🚀 Vaga para Desenvolvedor na ProFUSION!](https://dev.to/aelnonym/vaga-para-desenvolvedor-na-profusion-3i07)
-- [Building a PHP-based ERP with Hubleto in few minutes](https://dev.to/shoki_ztk/building-a-php-based-epr-in-few-minutes-4ape)
-- [Tame Your Filesystem: Python&#39;s pathlib is a Game-Changer](https://dev.to/aaron_rose_0787cc8b4775a0/tame-your-filesystem-pythons-pathlib-is-a-game-changer-9g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
