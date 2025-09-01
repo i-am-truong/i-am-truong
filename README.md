@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blog 2: Subset &amp; Power Set Pattern](https://dev.to/devcorner/blog-2-subset-power-set-pattern-4k1m)
-- [Hash Indices](https://dev.to/lordsnow/hash-indices-3f75)
-- [Building BlazeDiff: How I Made The Fastest Image Diff up-to 60% Faster with Block-Level Optimization](https://dev.to/teimurjan/building-blazediff-how-i-made-the-fastest-image-diff-up-to-60-faster-with-block-level-optimization-ok7)
-- [Rust changed my &lpar;superficial&rpar; way of thinking](https://dev.to/mateitudose/rust-changed-my-superficial-way-of-thinking-495i)
-- [Why Resorts Are the New Work-from-Home Spots](https://dev.to/go_stayresorts_/why-resorts-are-the-new-work-from-home-spots-3i6c)
+- [📘 Blog 6: Minimum Spanning Tree &lpar;MST&rpar; 🌉](https://dev.to/devcorner/blog-6-minimum-spanning-tree-mst-2hfd)
+- [🏗️ Topological Sort &amp; DAG Problems](https://dev.to/devcorner/topological-sort-dag-problems-1al7)
+- [📘 Blog 3: DFS Pattern &lpar;Path Exploration, Connectivity, Components&rpar; 🌐](https://dev.to/devcorner/blog-3-dfs-pattern-path-exploration-connectivity-components-47af)
+- [📘 Blog 2: BFS Pattern &lpar;Level Order, Shortest Path in Unweighted Graphs&rpar; 🌐](https://dev.to/devcorner/blog-2-bfs-pattern-level-order-shortest-path-in-unweighted-graphs-581m)
+- [📖 Blog 1: Graph Fundamentals &amp; Representations 🕸️](https://dev.to/devcorner/blog-1-graph-fundamentals-representations-2fnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
