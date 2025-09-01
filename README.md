@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Think You Know Java 21? This Quiz Will Prove It &lpar;Free + Open Source&rpar;](https://dev.to/anasrach/free-java-21-ocp-study-resources-4j5a)
-- [History of NoSQL: The Data Management Revolution](https://dev.to/quannotes/history-of-nosql-the-data-management-revolution-199e)
-- [🚀 Azure Pipeline for Terraform Deployment &lpar;Dev &amp; Prod Environments&rpar;](https://dev.to/techmademi/azure-pipeline-4mhi)
-- [implementation and benefits of semantic HTML in web development](https://dev.to/clintlee93/implementation-and-benefits-of-semantic-html-in-web-development-2c7l)
-- [How to calculate the best days for planetary observation](https://dev.to/rhannequin/how-to-calculate-the-best-days-for-planetary-observation-28k)
+- [The only Web3 analytics features that actually matter in 2025](https://dev.to/martin_call/the-only-web3-analytics-features-that-actually-matter-in-2025-hoe)
+- [How do you keep remote team culture alive without daily calls?](https://dev.to/clariti_backlink_f55a1922/how-do-you-keep-remote-team-culture-alive-without-daily-calls-55ac)
+- [Structured purpose flow method&lpar;SPF&rpar;](https://dev.to/1karuku/structured-purpose-flow-methodspf-kb4)
+- [DocumentDB: Comparing Emulation Internals with MongoDB](https://dev.to/aws-heroes/documentdb-comparing-emulations-with-mongodb-4cec)
+- [What’s the hardest part of developing a product?](https://dev.to/vino123/whats-the-hardest-part-of-developing-a-product-1g53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
