@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [One month after my game release, Android Edition](https://dev.to/erickzanardo/one-month-after-my-game-release-android-edition-3ncn)
-- [Maker&#39;s Muse: Building a machine to test 3D printed gears to destruction](https://dev.to/maker_youtube/makers-muse-building-a-machine-to-test-3d-printed-gears-to-destruction-435i)
-- [Maker&#39;s Muse: 3D printing tips I wish I knew when I started](https://dev.to/maker_youtube/makers-muse-3d-printing-tips-i-wish-i-knew-when-i-started-215l)
-- [KEXP: Optometry - Surrender &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-surrender-live-on-kexp-2fed)
-- [KEXP: Optometry - Star Crossed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-star-crossed-live-on-kexp-1m80)
+- [Learn MongoDB with MongoDB University — Free, Hands-On, Career-Ready](https://dev.to/ml318097/learn-mongodb-with-mongodb-university-free-hands-on-career-ready-524n)
+- [Track your GitHub Aura ✨](https://dev.to/narsagna/track-your-github-aura-51kp)
+- [Day 82: When Professors Attack and OCaml Puts You to Sleep](https://dev.to/casperday11/day-82-when-professors-attack-and-ocaml-puts-you-to-sleep-2g44)
+- [Day 40: AWS EC2 Automation](https://dev.to/udoh_deborah_b1e484c474bf/day-40-aws-ec2-automation-4m9c)
+- [Credit: @avanichols_dev](https://dev.to/dumb_dev_meme_bot/credit-avanicholsdev-6m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
