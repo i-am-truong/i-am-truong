@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Repos Hub](https://dev.to/fahadabid545/ai-repos-hub-258)
-- [Mix with the Masters: Mixing Night with Ken Lewis - HARDWARE NIGHT - 9/3/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-hardware-night-932025-37m1)
-- [🚀 Exploring Key Trends in Tech: AI, Cloud, and Best Practices](https://dev.to/vivian_gichure_ec51d453bf/exploring-key-trends-in-tech-ai-cloud-and-best-practices-4nib)
-- [UNLOCKING THE WEB:HOW SEMANTIC HTML SUPERCHARGES SEO AND ACCESSIBILITY](https://dev.to/ica/unlocking-the-webhow-semantic-html-supercharges-seo-and-accessibility-2j8i)
-- [Why to use Medallion Architecture ?](https://dev.to/anshul_02/why-to-use-medallion-architecture--21d3)
+- [Semantic HTML for Developers: A Practical Guide to SEO and Accessibility](https://dev.to/its_anita/semantic-html-for-developers-a-practical-guide-to-seo-and-accessibility-5144)
+- [Kubernetes 101: Understanding the Basics, Features, and Architecture](https://dev.to/alikhere/kubernetes-101-understanding-the-basics-features-and-architecture-3d56)
+- [Firefox&#39;s On-Device AI Just Got 10x Faster - Here&#39;s How Mozilla Did It](https://dev.to/shiva_shanker_k/firefoxs-on-device-ai-just-got-10x-faster-heres-how-mozilla-did-it-29om)
+- [Blockchain e o Futuro do Sistema Financeiro Brasileiro: entre o Drex, Smart Contracts e a Nuvem da AWS](https://dev.to/thiagosagara/blockchain-e-o-futuro-do-sistema-financeiro-brasileiro-entre-o-drex-smart-contracts-e-a-nuvem-da-1eng)
+- [Semantic HTML](https://dev.to/estherngaire/semantic-html-4108)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
