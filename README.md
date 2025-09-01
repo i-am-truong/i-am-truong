@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IMPLEMENTING SEMANTIC HTML](https://dev.to/iamimani/implementing-semantic-html-1m8o)
-- [Avoiding Port Conflicts in Testcontainers with Random Port Binding](https://dev.to/saulodias/avoiding-port-conflicts-in-testcontainers-with-random-port-binding-168e)
-- [Understanding Docker: The Essential Guide for Developers](https://dev.to/vickdapro/understanding-docker-the-essential-guide-for-developers-28ah)
-- [Building Space Education App](https://dev.to/hadeed_ahmad_b24bd1370d6f/building-space-education-app-2jac)
-- [Test Post - Working Platforms](https://dev.to/ahmed_richdale_33038aaed4/test-post-working-platforms-346m)
+- [Beginner’s Guide to Building a Portfolio Website with Next.js](https://dev.to/dubai_propertyteam_6cc4a/beginners-guide-to-building-a-portfolio-website-with-nextjs-24j0)
+- [React Query - why does it matter?](https://dev.to/ocodista/react-query-why-does-it-matter-43j4)
+- [Building a Proactive AI Travel Agent on AWS: My Journey with Bedrock AgentCore &lpar;Part 1&rpar;](https://dev.to/aws-builders/building-a-proactive-ai-travel-agent-on-aws-my-journey-with-bedrock-agentcore-part-1-36c7)
+- [Vue.js + Convex Backend with Clerk Authentication 🔑 Full-Stack Tutorial](https://dev.to/aaronksaunders/vuejs-convex-backend-with-clerk-authentication-full-stack-tutorial-2f66)
+- [Git Essentials: Create Repo, Delete Branches &amp; Master Fixup Commits](https://dev.to/labex/git-essentials-create-repo-delete-branches-master-fixup-commits-38ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
