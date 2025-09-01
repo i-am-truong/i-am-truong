@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dica Java: Variáveis de Ambiente #010](https://dev.to/oigorrudel/dica-java-variaveis-de-ambiente-010-5ckk)
 - [Daily DSA and System Design Journal - 4](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-4-2dn4)
 - [The &quot;Ordinariness&quot; of Tech](https://dev.to/marvinoka4/the-ordinariness-of-tech-33jp)
 - [BDD: Make the Business Write Your Tests](https://dev.to/jerrettdavis/bdd-make-the-business-write-your-tests-27c9)
 - [Standardizing API Responses in Django REST Framework with a Custom Response Wrapper](https://dev.to/vincenttommi/standardizing-api-responses-in-django-rest-framework-with-a-custom-response-wrapper-8ii)
-- [What is &quot;Code&quot;?](https://dev.to/jerrettdavis/what-is-code-1o4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
