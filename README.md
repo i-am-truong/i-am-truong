@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [I ❤️ Offline](https://dev.to/javiersalcedopuyo/i-offline-2i0i)
+- [AI is Your Copilot, Not Your Architect: A Senior Developer&#39;s Guide to Prompt Engineering for Code](https://dev.to/alex_aslam/ai-is-your-copilot-not-your-architect-a-senior-developers-guide-to-prompt-engineering-for-code-2e75)
 - [The Overpainted Canvas: Is Web Development Getting Too Complex?](https://dev.to/alex_aslam/the-overpainted-canvas-is-web-development-getting-too-complex-5639)
 - [Terraform stacks: A revisit](https://dev.to/quixoticmonk/terraform-stacks-a-revisit-462l)
 - [Days 18-19: Weekend Reflection - Our Responsibility to Recent CS Graduates](https://dev.to/clayroach/days-18-19-weekend-reflection-our-responsibility-to-recent-cs-graduates-13hf)
-- [Jarni AI – Real-time Voice AI Platform](https://dev.to/jarni_ai/jarni-ai-real-time-voice-ai-platform-5djk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
