@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Complete User Authentication System Using Django REST framework and ReactJS](https://dev.to/deveshpandey/a-complete-user-authentication-system-using-django-rest-framework-and-reactjs-9ml)
+- [Cómo desplegar tu primera aplicación Docker en Railway &lpar;y evitar problemas con variables de entorno&rpar;](https://dev.to/yorchwebs/como-desplegar-tu-primera-aplicacion-docker-en-railway-y-evitar-problemas-con-variables-de-entorno-2hg2)
 - [Beginner’s Guide to Building a Portfolio Website with Next.js](https://dev.to/dubai_propertyteam_6cc4a/beginners-guide-to-building-a-portfolio-website-with-nextjs-24j0)
 - [React Query - why does it matter?](https://dev.to/ocodista/react-query-why-does-it-matter-43j4)
-- [Building a Proactive AI Travel Agent on AWS: My Journey with Bedrock AgentCore &lpar;Part 1&rpar;](https://dev.to/aws-builders/building-a-proactive-ai-travel-agent-on-aws-my-journey-with-bedrock-agentcore-part-1-36c7)
-- [Vue.js + Convex Backend with Clerk Authentication 🔑 Full-Stack Tutorial](https://dev.to/aaronksaunders/vuejs-convex-backend-with-clerk-authentication-full-stack-tutorial-2f66)
-- [Git Essentials: Create Repo, Delete Branches &amp; Master Fixup Commits](https://dev.to/labex/git-essentials-create-repo-delete-branches-master-fixup-commits-38ba)
+- [Evaluation Methodology of AI Systems through Agglutinative Languages on AWS Bedrock](https://dev.to/aws-builders/evaluation-methodology-of-ai-systems-through-agglutinative-languages-on-aws-bedrock-301a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
