@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Complete User Authentication System Using Django REST framework and ReactJS](https://dev.to/deveshpandey/a-complete-user-authentication-system-using-django-rest-framework-and-reactjs-9ml)
-- [Cómo desplegar tu primera aplicación Docker en Railway &lpar;y evitar problemas con variables de entorno&rpar;](https://dev.to/yorchwebs/como-desplegar-tu-primera-aplicacion-docker-en-railway-y-evitar-problemas-con-variables-de-entorno-2hg2)
-- [Beginner’s Guide to Building a Portfolio Website with Next.js](https://dev.to/dubai_propertyteam_6cc4a/beginners-guide-to-building-a-portfolio-website-with-nextjs-24j0)
-- [React Query - why does it matter?](https://dev.to/ocodista/react-query-why-does-it-matter-43j4)
-- [Evaluation Methodology of AI Systems through Agglutinative Languages on AWS Bedrock](https://dev.to/aws-builders/evaluation-methodology-of-ai-systems-through-agglutinative-languages-on-aws-bedrock-301a)
+- [Real-Time AWS Cost Estimation Using the Pricing MCP Server and Amazon Q CLI](https://dev.to/aws-builders/real-time-aws-cost-estimation-using-the-pricing-mcp-server-and-amazon-q-cli-1nc6)
+- [SEMANTIC HTML](https://dev.to/meshack_muthwii_90b8a100f/semantic-html-2ad2)
+- [One niche dev newsletter: lessons learned](https://dev.to/fyodorio/one-niche-dev-newsletter-lessons-learned-4ij2)
+- [ANN 2: Key Terms BatchSize - Iterations - Epochs - LearningRate - LossFunction-Optimizer](https://dev.to/ashwani_kumar_a70ee558a2c/ann-key-terms-batchsize-iterations-epochs-learningrate-lossfunction-optimizer-17gc)
+- [How to implement Semantic HTML](https://dev.to/mrdavis25/how-to-implement-semantic-html-53fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
