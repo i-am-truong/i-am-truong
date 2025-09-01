@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [12 Fun Python Tricks That’ll Make You Look Like a Pro 🐍✨](https://dev.to/nishakarithikeyan_2003/12-fun-python-tricks-thatll-make-you-look-like-a-pro-53ap)
-- [Comprehensive Docker Guide](https://dev.to/mcheremnov/comprehensive-docker-guide-2cff)
-- [🚀 Web Workers in Angular: Boost App Performance by Offloading Heavy Tasks](https://dev.to/rohit_singh_ee84e64941db7/web-workers-in-angular-boost-app-performance-by-offloading-heavy-tasks-202p)
-- [JavaScript in 2025: Your Roadmap to Modern Features](https://dev.to/hreuven/javascript-in-2025-your-roadmap-to-modern-features-31ff)
-- [Javascript&#39;te map ve reduce metodlarının kullanımı](https://dev.to/alimetin/javascriptte-map-ve-reduce-metodlarinin-kullanimi-1j20)
+- [Working with Github](https://dev.to/theoriginalbpc/working-with-github-34mm)
+- [Spring AI with Amazon Bedrock - Part 3 Exploring Model Context Protocol SSE transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-3-exploring-model-context-protocol-sse-transport-48ah)
+- [Django vs Flask vs FastAPI](https://dev.to/atifwattoo/django-vs-flask-vs-fastapi-37n4)
+- [Turn Your Photos into String Art with Code and Creativity 🎨🧵](https://dev.to/_a4789b89e909d6bcb171e/turn-your-photos-into-string-art-with-code-and-creativity-acb)
+- [Creating bouncing animations using Sine waves &lpar;Kotlin + Jetpack Compose&rpar;: Part 2](https://dev.to/agusioma/creating-bouncing-animations-using-sine-waves-kotlin-jetpack-compose-part-2-2371)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
