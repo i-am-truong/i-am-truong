@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GSOC 2025 Report: AprilTag, FAST, and ORB Detectors](https://dev.to/as1100k/gsoc-2025-report-apriltag-fast-and-orb-detectors-45bn)
+- [ChinaBanana - Real-Time Ad-Driven UGC Engine](https://dev.to/zubeidhendricks/chinabanana-real-time-ad-driven-ugc-engine-5170)
+- [Go for Bash Programmers - Part I: The Language](https://dev.to/go_monk_71232aa93bb1881dd/go-for-bash-programmers-part-i-the-language-3e71)
+- [Did you know &lpar;2&rpar;: Run SSH or SFTP on your browser!](https://dev.to/aspxone-official/did-you-know-2-run-ssh-or-sftp-on-your-browser-da0)
 - [Avec Git : Accroche-toi aux branches 🌳](https://dev.to/oclka/avec-git-accroche-toi-aux-branches-11c3)
-- [Bridging the Gap: Integrating ITGC Audit, DevSecOps approach and AppSec practices for a Unified Security Front &lpar;Auditor view&rpar;](https://dev.to/d3one/bridging-the-gap-integrating-itgc-audit-devsecops-approach-and-appsec-practices-for-a-unified-56m6)
-- [💊 How I Built an RCPA Prescription Performance Dashboard in Power BI](https://dev.to/mwangide/how-i-built-an-rcpa-prescription-performance-dashboard-in-power-bi-3hkf)
-- [Browser Storage Explained: LocalStorage vs SessionStorage vs IndexedDB vs Cookies](https://dev.to/arnavsharma2711/browser-storage-explained-localstorage-vs-sessionstorage-vs-indexeddb-vs-cookies-283k)
-- [Hi everyone! I’m new to the DEV community and excited to start contributing to open source. 🎯](https://dev.to/brightly_virya/hi-everyone-im-new-to-the-dev-community-and-still-a-beginner-when-it-comes-to-joining-developer-579p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
