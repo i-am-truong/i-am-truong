@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Repos Hub](https://dev.to/fahadabid545/ai-repos-hub-258)
+- [Mix with the Masters: Mixing Night with Ken Lewis - HARDWARE NIGHT - 9/3/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-hardware-night-932025-37m1)
+- [🚀 Exploring Key Trends in Tech: AI, Cloud, and Best Practices](https://dev.to/vivian_gichure_ec51d453bf/exploring-key-trends-in-tech-ai-cloud-and-best-practices-4nib)
 - [UNLOCKING THE WEB:HOW SEMANTIC HTML SUPERCHARGES SEO AND ACCESSIBILITY](https://dev.to/ica/unlocking-the-webhow-semantic-html-supercharges-seo-and-accessibility-2j8i)
 - [Why to use Medallion Architecture ?](https://dev.to/anshul_02/why-to-use-medallion-architecture--21d3)
-- [Semantic HTML: Why It Matters for SEO and Accessibility](https://dev.to/frosty_/semantic-html-why-it-matters-for-seo-and-accessibility-670)
-- [Burnout in Tech: How to recognize it and build a sustainable career](https://dev.to/gonza_terzano/burnout-in-tech-how-to-recognize-it-and-build-a-sustainable-career-lal)
-- [Integration Tests for OpenCost Enterprise Readiness Part - 1](https://dev.to/manas23601/integration-tests-for-opencost-enterprise-readiness-part-1-34le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
