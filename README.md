@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a PHP-based ERP with Hubleto in few minutes](https://dev.to/shoki_ztk/building-a-php-based-epr-in-few-minutes-4ape)
+- [Tame Your Filesystem: Python&#39;s pathlib is a Game-Changer](https://dev.to/aaron_rose_0787cc8b4775a0/tame-your-filesystem-pythons-pathlib-is-a-game-changer-9g7)
 - [Semantic HTML for Developers: A Practical Guide to SEO and Accessibility](https://dev.to/its_anita/semantic-html-for-developers-a-practical-guide-to-seo-and-accessibility-5144)
 - [Kubernetes 101: Understanding the Basics, Features, and Architecture](https://dev.to/alikhere/kubernetes-101-understanding-the-basics-features-and-architecture-3d56)
 - [Firefox&#39;s On-Device AI Just Got 10x Faster - Here&#39;s How Mozilla Did It](https://dev.to/shiva_shanker_k/firefoxs-on-device-ai-just-got-10x-faster-heres-how-mozilla-did-it-29om)
-- [Blockchain e o Futuro do Sistema Financeiro Brasileiro: entre o Drex, Smart Contracts e a Nuvem da AWS](https://dev.to/thiagosagara/blockchain-e-o-futuro-do-sistema-financeiro-brasileiro-entre-o-drex-smart-contracts-e-a-nuvem-da-1eng)
-- [Semantic HTML](https://dev.to/estherngaire/semantic-html-4108)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
