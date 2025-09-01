@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploy PostgreSQL on a VPS using Docker](https://dev.to/dmdboi/deploy-postgresql-on-a-vps-using-docker-22ej)
-- [Underfoot: The ChatPot for Hidden Places &lpar;and Why I Don’t Do Hackathons&rpar;](https://dev.to/anchildress1/underfoot-the-chatpot-for-hidden-places-and-why-i-dont-do-hackathons-2684)
-- [White Label Telemedicine App: Build Care Faster, Safer, and Under Your Brand](https://dev.to/silvio_dante/white-label-telemedicine-app-build-care-faster-safer-and-under-your-brand-38b)
-- [Brand Perception Monitoring &amp; Sentiment Analysisℹ️](https://dev.to/sarahokolo/brand-perception-monitoring-sentiment-analysis-1f1)
-- [BrightMentions: Building a 24/7 Brand Monitoring AI Agent with n8n and Bright Data](https://dev.to/mehdi/brightmentions-building-a-247-brand-monitoring-ai-agent-with-n8n-and-bright-data-3gg)
+- [Optimized Videos in Vue with Cloudinary](https://dev.to/jacobandrewsky/optimized-videos-in-vue-with-cloudinary-1g5j)
+- [Automating HTTPS with Docker, Nginx &amp; Certbot](https://dev.to/kingyou/automating-https-with-docker-nginx-certbot-2ein)
+- [MDM Software Functionalities That Improve IT Security](https://dev.to/vantage-mdm/mdm-software-functionalities-that-improve-it-security-28ob)
+- [Automated Provisioning with Packer](https://dev.to/godofgeeks/automated-provisioning-with-packer-2olb)
+- [From Baby Steps to Midnight Brochures](https://dev.to/ospehlivano/from-baby-steps-to-midnight-brochures-2pn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
