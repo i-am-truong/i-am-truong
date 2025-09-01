@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built faynoSync: A Self-Hosted API for Automatic App Updates](https://dev.to/faynosync/i-built-faynosync-a-self-hosted-api-for-automatic-app-updates-4ocg)
-- [# The TCP 3-Way Handshake: How Connections Begin Their Life](https://dev.to/naval_kishorupadhyay_3e9/-the-tcp-3-way-handshake-how-connections-begin-their-life-4mf1)
-- [Developer experience metrics](https://dev.to/_steve_fenton_/developer-experience-metrics-39a5)
-- [Vidnoz: How to Use Free AI Tools for Videos](https://dev.to/lep/vidnoz-how-to-use-free-ai-tools-for-videos-6kn)
-- [TCP vs UDP: Why Some Apps Want Reliability and Others Want Speed](https://dev.to/naval_kishorupadhyay_3e9/tcp-vs-udp-why-some-apps-want-reliability-and-others-want-speed-17dn)
+- [How to Sign and Upload Your Android App to Google Play using App Signing by Google Play](https://dev.to/sachinsenapati/how-to-sign-and-upload-your-android-app-to-google-play-using-app-signing-by-google-play-1bp8)
+- [ASTROLOGY APP DEVELOPMENT COMPANY](https://dev.to/digital_marketingavtech/astrology-appdevelopment-company-ba0)
+- [Introducing ClassAssists&lpar;formerly PrepIQ&rpar;](https://dev.to/opeyemidjavu/introducing-classassistsformerly-prepiq-2c0)
+- [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
+- [Enhancing Git Security and Workflow: A Comprehensive Guide to Signed Commits and a Linear History](https://dev.to/it-wibrc/enhancing-git-security-and-workflow-a-comprehensive-guide-to-signed-commits-and-a-linear-history-4ih0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
