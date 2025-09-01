@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Working with Github](https://dev.to/theoriginalbpc/working-with-github-34mm)
-- [Spring AI with Amazon Bedrock - Part 3 Exploring Model Context Protocol SSE transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-3-exploring-model-context-protocol-sse-transport-48ah)
-- [Django vs Flask vs FastAPI](https://dev.to/atifwattoo/django-vs-flask-vs-fastapi-37n4)
-- [Turn Your Photos into String Art with Code and Creativity 🎨🧵](https://dev.to/_a4789b89e909d6bcb171e/turn-your-photos-into-string-art-with-code-and-creativity-acb)
-- [Creating bouncing animations using Sine waves &lpar;Kotlin + Jetpack Compose&rpar;: Part 2](https://dev.to/agusioma/creating-bouncing-animations-using-sine-waves-kotlin-jetpack-compose-part-2-2371)
+- [REST API Versioning Best Practices: Complete Guide with Examples](https://dev.to/jobayer6735/rest-api-versioning-best-practices-complete-guide-with-examples-4h3)
+- [Forget Manual Fixes—GitOps Is the Future of Software Management](https://dev.to/aniket_more_5798/forget-manual-fixes-gitops-is-the-future-of-software-management-2kg4)
+- [Test Post - Fixed](https://dev.to/ahmed_richdale_33038aaed4/test-post-fixed-4oml)
+- [Developer&#39;s Guide to Semantic HTML: Writing Code That Search Engines and Screen Readers Love.](https://dev.to/jaymoh21/developers-guide-to-semantic-html-writing-code-that-search-engines-and-screen-readers-love-28kd)
+- [Configuring Secure Access to Workloads with Azure Virtual Networking Services](https://dev.to/peter_samuel_052b9056e236/configuring-secure-access-to-workloads-with-azure-virtual-networking-services-1bcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
