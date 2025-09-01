@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sales-Ready Company Research Automation using n8n &amp; Bright Data](https://dev.to/himanshi_tolani_4d8c47c84/sales-ready-company-research-automation-using-n8n-bright-data-fbn)
+- [Challenges to adapt AI-based Video Codecs](https://dev.to/rameshanaparti/challenges-to-adapt-ai-based-video-codecs-45dp)
 - [What Is Test Automation: Strategies, Tools, and Best Practices](https://dev.to/sophielane/what-is-test-automation-strategies-tools-and-best-practices-3cmh)
 - [💥 Day 2 of My Pygame Journey](https://dev.to/cutieyunnytech/day-2-of-my-pygame-journey-1hg)
 - [Stop Repeating CSS! Learn CSS Nesting](https://dev.to/devshefali/stop-repeating-css-learn-css-nesting-2cb2)
-- [Array In JavaScript](https://dev.to/bhuvanasri/array-in-javascript-387c)
-- [Mark Cuban: AI Implementation Challenges Create Opportunities for Gen Z Innovators](https://dev.to/max_mayer/mark-cuban-ai-implementation-challenges-create-opportunities-for-gen-z-innovators-281g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
