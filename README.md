@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Web App Builders](https://dev.to/pimjo/best-ai-web-app-builders-5a83)
-- [AI-Powered Social Media Engagement Manager](https://dev.to/sheeba_mulungi_ae8c80af0d/ai-powered-social-media-engagement-manager-2fo0)
-- [Now Is the Best Time to Learn Programming &lpar;It&#39;s Not Too Late&rpar;](https://dev.to/canro91/now-is-the-best-time-to-learn-programming-its-not-too-late-1i72)
-- [Apple App Store Optimization &lpar;ASO&rpar;](https://dev.to/junyu_fang_a216509a97501d/apple-app-store-optimization-aso-3kjp)
-- [Understanding DOM Selection Methods in JavaScript](https://dev.to/lakshmi_g_74c225d5ca0b272/understanding-dom-selection-methods-in-javascript-3kj0)
+- [Scaling Prompt Engineering QA with AI Builder](https://dev.to/balagmadhu/scaling-prompt-engineering-qa-with-ai-builder-5hhk)
+- [Check it out](https://dev.to/masterdevsabith/check-it-out-163f)
+- [The Daily Gist: Never miss the best of Reddit again. Powered by Bright Data.](https://dev.to/dhanushreddy29/the-daily-gist-never-miss-the-best-of-reddit-again-powered-by-bright-data-5238)
+- [Automated AI Agent for Real-Time Gold Price Monitoring &amp; Trading Signals Using n8n and Bright Data](https://dev.to/abhinandan-r/automated-ai-agent-for-real-time-gold-price-monitoring-trading-signals-using-n8n-and-bright-data-8pj)
+- [Why I Ditched Agile and Now My Team&#39;s Productivity Jumped 40% and how i impliment this explore here](https://dev.to/pratham_naik_project_manager/why-i-ditched-agile-and-now-my-teams-productivity-jumped-40-and-how-i-impliment-this-explore-here-2dhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
