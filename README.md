@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing Power Automate Flows like a Genius](https://dev.to/wyattdave/managing-power-automate-flows-like-a-genius-5965)
-- [AI Job Matching Agent That Reads Your Resume &lpar;n8n + Bright Data Challenge&rpar;](https://dev.to/vika2210/ai-job-matching-agent-that-reads-your-resume-n8n-bright-data-challenge-12hf)
-- [Generate a Barcode with Text in Java Using ZXing](https://dev.to/yarivanovsky/generate-a-barcode-with-text-in-java-using-zxing-39g8)
-- [We built Meku to help devs go from idea to production-ready React + Tailwind apps in minutes. Excited to be part of the future of AI web app builders - your feedback means a lot 🚀](https://dev.to/meku/we-built-meku-to-help-devs-go-from-idea-to-production-ready-react-tailwind-apps-in-minutes-3kih)
-- [Catch up on your favorite Youtube&amp;Tiktok videos](https://dev.to/waptik/catch-up-on-your-favorite-youtubetiktok-videos-lng)
+- [What are Docker Hardened Images and what problem does it solve?](https://dev.to/ajeetraina/what-are-docker-hardened-images-and-what-problem-does-it-solve-2ipb)
+- [I build an AI Career Navigator: Real-Time Internships/job , Hackathons &amp; Research data Powered by n8n + Bright Data](https://dev.to/harish_05/i-build-an-ai-career-navigator-real-time-internshipsjob-hackathons-research-data-powered-by-1mp2)
+- [FlutterFlow: Handling App Lifecycle to Run Actions on Foreground Transition](https://dev.to/friendship_e3d5e249468fc3/flutterflow-handling-app-lifecycle-to-run-actions-on-foreground-transition-23e3)
+- [Building an Unstoppable AI Interview Coach: How Real-Time Bright Data + n8n Workflows Changed Everything](https://dev.to/arjunhg/building-an-unstoppable-ai-interview-coach-how-real-time-job-data-n8n-workflows-changed-2ikf)
+- [LLM-Sentinel: Shield your AI calls from leaking secrets](https://dev.to/raaihank/llm-sentinel-shield-your-ai-calls-from-leaking-secrets-39k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
