@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Datadog, Reframed: A Simple Way to Think About Dashboards, Monitors, Log Explorer, and Beyond](https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-dashboards-monitors-log-explorer-and-beyond-1nj7)
-- [From Lag to Live: Architecting a Real-Time Inventory System](https://dev.to/thebigwealth89/bringing-the-backend-to-life-with-real-time-updates-328p)
-- [Using AIFunctions with OpenAI Realtime API in .NET](https://dev.to/mehrandvd/using-aifunctions-with-openai-realtime-api-in-net-261k)
-- [Qoder&#39;s Codebase‑Aware Code Retrieval: A Hybrid Approach for AI Coding](https://dev.to/qoder/qoders-codebase-aware-code-retrieval-a-hybrid-approach-for-ai-coding-gpm)
-- [Paracetamol.ts💊| #44: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-44-explica-este-codigo-typescript-209d)
+- [One month after my game release, Android Edition](https://dev.to/erickzanardo/one-month-after-my-game-release-android-edition-3ncn)
+- [Maker&#39;s Muse: Building a machine to test 3D printed gears to destruction](https://dev.to/maker_youtube/makers-muse-building-a-machine-to-test-3d-printed-gears-to-destruction-435i)
+- [Maker&#39;s Muse: 3D printing tips I wish I knew when I started](https://dev.to/maker_youtube/makers-muse-3d-printing-tips-i-wish-i-knew-when-i-started-215l)
+- [KEXP: Optometry - Surrender &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-surrender-live-on-kexp-2fed)
+- [KEXP: Optometry - Star Crossed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-star-crossed-live-on-kexp-1m80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
