@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The only Web3 analytics features that actually matter in 2025](https://dev.to/martin_call/the-only-web3-analytics-features-that-actually-matter-in-2025-hoe)
-- [How do you keep remote team culture alive without daily calls?](https://dev.to/clariti_backlink_f55a1922/how-do-you-keep-remote-team-culture-alive-without-daily-calls-55ac)
-- [Structured purpose flow method&lpar;SPF&rpar;](https://dev.to/1karuku/structured-purpose-flow-methodspf-kb4)
-- [DocumentDB: Comparing Emulation Internals with MongoDB](https://dev.to/aws-heroes/documentdb-comparing-emulations-with-mongodb-4cec)
-- [What’s the hardest part of developing a product?](https://dev.to/vino123/whats-the-hardest-part-of-developing-a-product-1g53)
+- [Supervised Learning, Explained Through Classification](https://dev.to/mwangide/supervised-learning-explained-through-classification-5201)
+- [Gen Z and сrypto: a daily ritual](https://dev.to/kubo_sk/gen-z-and-srypto-a-daily-ritual-1jad)
+- [🧠 Understanding Large Language Models &lpar;LLMs&rpar;](https://dev.to/techstuff/understanding-large-language-models-llms-20c0)
+- [&quot;Why Data Analytics is Essential for Modern Business Success&quot;](https://dev.to/ashwin_pps_365864ef843ec2/why-data-analytics-is-essential-for-modern-business-success-g9k)
+- [How to Manage Virtual Teams: A Modern Expert Guide](https://dev.to/fluidwave/how-to-manage-virtual-teams-a-modern-expert-guide-3990)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
