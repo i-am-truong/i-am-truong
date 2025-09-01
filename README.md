@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔍⭐What is a Primary Key and a Foreign Key in a Database?](https://dev.to/rencberakman/what-is-a-primary-key-and-a-foreign-key-in-a-database-1mmk)
-- [Integration Digest for August 2025](https://dev.to/stn1slv/integration-digest-for-august-2025-l1f)
-- [Encrypt secrets stored in etcd with a Key Vault key](https://dev.to/goodluck_ekeoma_2c98866d0/encrypt-secrets-stored-in-etcd-with-a-key-vault-key-j9)
-- [Airtable Webhook Integration: A Developer&#39;s Guide](https://dev.to/robbiecahill/airtable-webhook-integration-a-developers-guide-4222)
-- [How to Use Google Chat Webhooks: A Complete Guide](https://dev.to/robbiecahill/how-to-use-google-chat-webhooks-a-complete-guide-1g7i)
+- [Think You Know Java 21? This Quiz Will Prove It &lpar;Free + Open Source&rpar;](https://dev.to/anasrach/free-java-21-ocp-study-resources-4j5a)
+- [History of NoSQL: The Data Management Revolution](https://dev.to/quannotes/history-of-nosql-the-data-management-revolution-199e)
+- [🚀 Azure Pipeline for Terraform Deployment &lpar;Dev &amp; Prod Environments&rpar;](https://dev.to/techmademi/azure-pipeline-4mhi)
+- [implementation and benefits of semantic HTML in web development](https://dev.to/clintlee93/implementation-and-benefits-of-semantic-html-in-web-development-2c7l)
+- [How to calculate the best days for planetary observation](https://dev.to/rhannequin/how-to-calculate-the-best-days-for-planetary-observation-28k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
