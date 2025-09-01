@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time AWS Cost Estimation Using the Pricing MCP Server and Amazon Q CLI](https://dev.to/aws-builders/real-time-aws-cost-estimation-using-the-pricing-mcp-server-and-amazon-q-cli-1nc6)
-- [SEMANTIC HTML](https://dev.to/meshack_muthwii_90b8a100f/semantic-html-2ad2)
-- [One niche dev newsletter: lessons learned](https://dev.to/fyodorio/one-niche-dev-newsletter-lessons-learned-4ij2)
-- [ANN 2: Key Terms BatchSize - Iterations - Epochs - LearningRate - LossFunction-Optimizer](https://dev.to/ashwani_kumar_a70ee558a2c/ann-key-terms-batchsize-iterations-epochs-learningrate-lossfunction-optimizer-17gc)
-- [How to implement Semantic HTML](https://dev.to/mrdavis25/how-to-implement-semantic-html-53fh)
+- [Restic vs Rclone vs Rsync: Choosing the Right Tool for Backups](https://dev.to/lovestaco/restic-vs-rclone-vs-rsync-choosing-the-right-tool-for-backups-gn9)
+- [Which Language Should You Choose for DSA in 2025 ?](https://dev.to/avinash201199/which-language-should-you-choose-for-dsa-in-2025--2742)
+- [From Kashmir to the World: Launching the Universal DID-Native Addressing &lpar;UDNA&rpar; Community Group at W3C](https://dev.to/aamir_hameed_b3d23f8d4e90/from-kashmir-to-the-world-launching-the-universal-did-native-addressing-udna-community-group-at-1327)
+- [Building an End-to-End Data Engineering Pipeline with DuckDB and Python](https://dev.to/satyam_gupta/building-an-end-to-end-data-engineering-pipeline-with-duckdb-and-python-53g2)
+- [What are your goals for the week? #142 Labor Day](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-142-labor-day-484)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
