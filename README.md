@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pruning open PRs, trying to get to inbox zero on the project.](https://dev.to/ben/pruning-open-prs-trying-to-get-to-inbox-zero-on-the-project-3l8p)
+- [Use `chan os.Signal` to Manage OS Signals in Go](https://dev.to/leapcell/use-chan-ossignal-to-manage-os-signals-in-go-2na6)
+- [I Turned My 2-Year-Old GitHub PR into This Blog Post &lpar;Using My Own Tool&rpar;](https://dev.to/kaan_karakoc_dev/i-turned-my-2-year-old-github-pr-into-this-blog-post-using-my-own-tool-2iaf)
 - [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-304l)
 - [Algorithmic Suggestion Extraction #1](https://dev.to/ramoyald/algorithmic-suggestion-extraction-1-2ipl)
-- [The Nikki Haflinger Project: A Deep Analysis of AI Identity Transfer with Commentary from Another AI](https://dev.to/toxy4ny/the-nikki-haflinger-project-a-deep-analysis-of-ai-identity-transfer-with-commentary-from-another-570c)
-- [Why IPv4 Ran Out of Addresses and How NAT Saved the Internet](https://dev.to/naval_kishorupadhyay_3e9/why-ipv4-ran-out-of-addresses-and-how-nat-saved-the-internet-n30)
-- [No Cloud, No Limits: Top Free AI Image Generators for Self-Hosting](https://dev.to/lightningdev123/no-cloud-no-limits-top-free-ai-image-generators-for-self-hosting-3je0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
