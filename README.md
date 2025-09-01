@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is the LLMs.txt a waste of TIME?](https://dev.to/everyday_dev/is-the-llmstxt-a-waste-of-time-59ja)
-- [List the management structure tree--SPL Programming Practice](https://dev.to/esproc_spl/list-the-management-structure-tree-spl-programming-practice-40ja)
-- [React Fundamentals: What It Is, Why We Use It, and How to Get Started](https://dev.to/mendoncamaria/react-fundamentals-what-it-is-why-we-use-it-and-how-to-get-started-p8a)
-- [Optimized Videos in Vue with Cloudinary](https://dev.to/jacobandrewsky/optimized-videos-in-vue-with-cloudinary-1g5j)
-- [Automating HTTPS with Docker, Nginx &amp; Certbot](https://dev.to/kingyou/automating-https-with-docker-nginx-certbot-2ein)
+- [🔍⭐What is a Primary Key and a Foreign Key in a Database?](https://dev.to/rencberakman/what-is-a-primary-key-and-a-foreign-key-in-a-database-1mmk)
+- [Integration Digest for August 2025](https://dev.to/stn1slv/integration-digest-for-august-2025-l1f)
+- [Encrypt secrets stored in etcd with a Key Vault key](https://dev.to/goodluck_ekeoma_2c98866d0/encrypt-secrets-stored-in-etcd-with-a-key-vault-key-j9)
+- [Airtable Webhook Integration: A Developer&#39;s Guide](https://dev.to/robbiecahill/airtable-webhook-integration-a-developers-guide-4222)
+- [How to Use Google Chat Webhooks: A Complete Guide](https://dev.to/robbiecahill/how-to-use-google-chat-webhooks-a-complete-guide-1g7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
