@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I ❤️ Offline](https://dev.to/javiersalcedopuyo/i-offline-2i0i)
-- [AI is Your Copilot, Not Your Architect: A Senior Developer&#39;s Guide to Prompt Engineering for Code](https://dev.to/alex_aslam/ai-is-your-copilot-not-your-architect-a-senior-developers-guide-to-prompt-engineering-for-code-2e75)
-- [The Overpainted Canvas: Is Web Development Getting Too Complex?](https://dev.to/alex_aslam/the-overpainted-canvas-is-web-development-getting-too-complex-5639)
-- [Terraform stacks: A revisit](https://dev.to/quixoticmonk/terraform-stacks-a-revisit-462l)
-- [Days 18-19: Weekend Reflection - Our Responsibility to Recent CS Graduates](https://dev.to/clayroach/days-18-19-weekend-reflection-our-responsibility-to-recent-cs-graduates-13hf)
+- [Daily DSA and System Design Journal - 4](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-4-2dn4)
+- [The &quot;Ordinariness&quot; of Tech](https://dev.to/marvinoka4/the-ordinariness-of-tech-33jp)
+- [BDD: Make the Business Write Your Tests](https://dev.to/jerrettdavis/bdd-make-the-business-write-your-tests-27c9)
+- [Standardizing API Responses in Django REST Framework with a Custom Response Wrapper](https://dev.to/vincenttommi/standardizing-api-responses-in-django-rest-framework-with-a-custom-response-wrapper-8ii)
+- [What is &quot;Code&quot;?](https://dev.to/jerrettdavis/what-is-code-1o4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
