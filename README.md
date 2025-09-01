@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Deepfake Apocalypse Is Here...But It&#39;s Sneakier Than You Think!](https://dev.to/arvind_rajan/the-deepfake-apocalypse-is-herebut-its-sneakier-than-you-think-4pg3)
-- [WICK-A11Y v2.2.0 x CYPRESS v15: Parabellum for Axe-ssibility Barriers](https://dev.to/sebastianclavijo/wick-a11y-v220-x-cypress-v15-parabellum-for-axe-essibility-barriers-2fam)
-- [AI Solves Taxes? How Neuro-Symbolic Systems Are Revolutionizing Financial Reasoning](https://dev.to/arvind_rajan/ai-solves-taxes-how-neuro-symbolic-systems-are-revolutionizing-financial-reasoning-1aa)
-- [learning from this great article so I can improve my infra layer :D](https://dev.to/idanielmatt/learning-from-this-great-article-so-i-can-improve-my-infra-layer-d-1bb2)
-- [Diário Dev #5 - Minha jornada no design da interface](https://dev.to/andersonvnieves/diario-dev-5-minha-jornada-no-design-da-interface-5g8f)
+- [JavaScript - String](https://dev.to/dharshinieswaran/javascript-string-bma)
+- [JavaScript - Array &amp; Methods](https://dev.to/dharshinieswaran/javascript-array-methods-4lff)
+- [IdeaBot — a YouTube-driven Viral Topic Generator.](https://dev.to/shah_pourazadi_5da55a8db5/ideabot-a-youtube-driven-viral-topic-generator-14bn)
+- [n8n daily email insight generator](https://dev.to/matheusdsantossi/n8n-daily-email-insight-generator-4986)
+- [JavaScript - Control Flow Statements](https://dev.to/dharshinieswaran/javascript-control-flow-statements-mp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
