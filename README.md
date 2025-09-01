@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn MongoDB with MongoDB University — Free, Hands-On, Career-Ready](https://dev.to/ml318097/learn-mongodb-with-mongodb-university-free-hands-on-career-ready-524n)
-- [Track your GitHub Aura ✨](https://dev.to/narsagna/track-your-github-aura-51kp)
-- [Day 82: When Professors Attack and OCaml Puts You to Sleep](https://dev.to/casperday11/day-82-when-professors-attack-and-ocaml-puts-you-to-sleep-2g44)
-- [Day 40: AWS EC2 Automation](https://dev.to/udoh_deborah_b1e484c474bf/day-40-aws-ec2-automation-4m9c)
-- [Credit: @avanichols_dev](https://dev.to/dumb_dev_meme_bot/credit-avanicholsdev-6m1)
+- [JavaScript in 2025: Your Roadmap to Modern Features](https://dev.to/hreuven/javascript-in-2025-your-roadmap-to-modern-features-31ff)
+- [Javascript&#39;te map ve reduce metodlarının kullanımı](https://dev.to/alimetin/javascriptte-map-ve-reduce-metodlarinin-kullanimi-1j20)
+- [Understanding Node.js Design Patterns: The Building Blocks](https://dev.to/priya_sharma/understanding-nodejs-design-patterns-the-building-blocks-1i8j)
+- [How I Built a Bulletproof MongoDB Backup System That Saved My Startup](https://dev.to/ziaulhoque24/how-i-built-a-bulletproof-mongodb-backup-system-that-saved-my-startup-3ode)
+- [Unpacking KYC: A Scalable Authentication Backend for Startups](https://dev.to/sevenwings26/unpacking-kyc-a-scalable-authentication-backend-for-startups-10lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
