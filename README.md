@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hell is Us - Official &quot;This is Hell Is Us&quot; Overview Trailer](https://dev.to/gg_news/ign-hell-is-us-official-this-is-hell-is-us-overview-trailer-8hp)
-- [IGN: Aegis Force: The Scorian War – Official Demo Announcement Trailer](https://dev.to/gg_news/ign-aegis-force-the-scorian-war-official-demo-announcement-trailer-4dk3)
-- [The Null Awakens: Making Missing Data Harmless](https://dev.to/killallskywalker/the-null-awakens-making-missing-data-harmless-4fo6)
-- [🚀 Level Up Your Laravel Requests with DTOs &lpar;Data Transfer Objects&rpar;](https://dev.to/naveen_dev/level-up-your-laravel-requests-with-dtos-data-transfer-objects-8en)
-- [Microservices Design Patterns in Java](https://dev.to/dixitgurv/microservices-design-patterns-in-java-3pfk)
+- [Hello, DEV World! Building My Corner of the Web](https://dev.to/godfrey_omoregie_e227db1b/hello-dev-world-building-my-corner-of-the-web-1poi)
+- [How to Build and Deploy an SSE MCP Server with OAuth in Rust](https://dev.to/shuttle/how-to-build-and-deploy-an-sse-mcp-server-with-oauth-in-rust-3h5k)
+- [Why Clean Architecture Still Matters in 2025](https://dev.to/joe_anthony_c718780b8bf32/why-clean-architecture-still-matters-in-2025-550g)
+- [Multidimensional Embedding Comparison with “diemsim”](https://dev.to/boddu_sripavan_5b6c8d66d4/multidimensional-embedding-comparison-with-diemsim-3ohc)
+- [Privacy by Design in applications](https://dev.to/lucaspereiradesouzat/privacy-by-design-in-applications-701)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
