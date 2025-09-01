@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup Django in Debian](https://dev.to/romulo_code/setup-django-in-debian-4aa2)
 - [The Forge and the Flame: Why AI Won&#39;t Replace Us, But Will Force Us to Become Artisans Again](https://dev.to/alex_aslam/the-forge-and-the-flame-why-ai-wont-replace-us-but-will-force-us-to-become-artisans-again-oem)
 - [Dica Java: Variáveis de Ambiente #010](https://dev.to/oigorrudel/dica-java-variaveis-de-ambiente-010-5ckk)
 - [Daily DSA and System Design Journal - 4](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-4-2dn4)
 - [The &quot;Ordinariness&quot; of Tech](https://dev.to/marvinoka4/the-ordinariness-of-tech-33jp)
-- [BDD: Make the Business Write Your Tests](https://dev.to/jerrettdavis/bdd-make-the-business-write-your-tests-27c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
