@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scriptura - What is that?](https://dev.to/sulimanbenhalim/scriptura-what-is-that-114k)
-- [Who&#39;s hiring — September 2025](https://dev.to/fmerian/whos-hiring-september-2025-log)
-- [🚀 Serialization and Deserialization in Java: Objects vs JSON](https://dev.to/rock_win_c053fa5fb2399067/serialization-and-deserialization-in-java-objects-vs-json-34l1)
-- [Why I Don’t Want a Startup — I Want a Product.](https://dev.to/alexey_sokolov_10deecd763/why-i-dont-want-a-startup-i-want-a-product-50nj)
-- [What is the purpose of the com.sec.unifiedwfc app on Samsung devices?](https://dev.to/brad_deep_3cf654b600c5ee1/what-is-the-purpose-of-the-comsecunifiedwfc-app-on-samsung-devices-163f)
+- [Blog 2: Subset &amp; Power Set Pattern](https://dev.to/devcorner/blog-2-subset-power-set-pattern-4k1m)
+- [Hash Indices](https://dev.to/lordsnow/hash-indices-3f75)
+- [Building BlazeDiff: How I Made The Fastest Image Diff up-to 60% Faster with Block-Level Optimization](https://dev.to/teimurjan/building-blazediff-how-i-made-the-fastest-image-diff-up-to-60-faster-with-block-level-optimization-ok7)
+- [Rust changed my &lpar;superficial&rpar; way of thinking](https://dev.to/mateitudose/rust-changed-my-superficial-way-of-thinking-495i)
+- [Why Resorts Are the New Work-from-Home Spots](https://dev.to/go_stayresorts_/why-resorts-are-the-new-work-from-home-spots-3i6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
