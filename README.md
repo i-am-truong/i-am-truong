@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pruning open PRs, trying to get to inbox zero on the project.](https://dev.to/ben/pruning-open-prs-trying-to-get-to-inbox-zero-on-the-project-3l8p)
-- [Use `chan os.Signal` to Manage OS Signals in Go](https://dev.to/leapcell/use-chan-ossignal-to-manage-os-signals-in-go-2na6)
-- [I Turned My 2-Year-Old GitHub PR into This Blog Post &lpar;Using My Own Tool&rpar;](https://dev.to/kaan_karakoc_dev/i-turned-my-2-year-old-github-pr-into-this-blog-post-using-my-own-tool-2iaf)
-- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-304l)
-- [Algorithmic Suggestion Extraction #1](https://dev.to/ramoyald/algorithmic-suggestion-extraction-1-2ipl)
+- [The Secret Weapon: AI as a &quot;Meta-Tool&quot; and Firebase Studio](https://dev.to/progressiveprogrammer/the-secret-weapon-ai-as-a-meta-tool-and-firebase-studio-2phb)
+- [Fixing ARC/eARC Handshakes &amp; Lip-Sync &lpar;Without Losing Your Mind&rpar;](https://dev.to/tiberius1023/fixing-arcearc-handshakes-lip-sync-without-losing-your-mind-5gl5)
+- [Got some code in on the holiday — which I kind of love. No disruptions, etc. Not everybody has to love to code when everyone is offline, but it can be cathartic!](https://dev.to/ben/got-some-code-in-on-the-holiday-which-i-kind-of-love-no-disruptions-etc-not-everybody-has-to-1bo7)
+- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;1/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-15-4goh)
+- [WebGPU Engine from Scratch Part 7: Specular Lighting](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-7-specular-lighting-4i8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
