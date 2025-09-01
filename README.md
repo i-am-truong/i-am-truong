@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You have to upgrade to SOCI V2 🤯](https://dev.to/aws-builders/you-have-to-upgrade-to-soci-v2-2p2f)
+- [Faster Kubernetes Dev Loop with Tilt and Telepresence](https://dev.to/buun-ch/faster-kubernetes-dev-loop-with-tilt-and-telepresence-303p)
+- [AI Watermarks: The Secret Weapon Protecting Industrial Machines from Cyberattacks?](https://dev.to/arvind_rajan/ai-watermarks-the-secret-weapon-protecting-industrial-machines-from-cyberattacks-4ec3)
+- [MockGenServer – Instant Mock Responses from API Specs](https://dev.to/code_bodhi_39468a1347cb4f/mockgenserver-instant-mock-responses-from-api-specs-3goo)
 - [Scaling Prompt Engineering QA with AI Builder](https://dev.to/balagmadhu/scaling-prompt-engineering-qa-with-ai-builder-5hhk)
-- [Check it out](https://dev.to/masterdevsabith/check-it-out-163f)
-- [The Daily Gist: Never miss the best of Reddit again. Powered by Bright Data.](https://dev.to/dhanushreddy29/the-daily-gist-never-miss-the-best-of-reddit-again-powered-by-bright-data-5238)
-- [[Boost]](https://dev.to/naik_sejal/-42m9)
-- [Automated AI Agent for Real-Time Gold Price Monitoring &amp; Trading Signals Using n8n and Bright Data](https://dev.to/abhinandan-r/automated-ai-agent-for-real-time-gold-price-monitoring-trading-signals-using-n8n-and-bright-data-8pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
