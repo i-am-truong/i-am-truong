@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t judge this version of the submission, but it was driving me insane that I didn&#39;t have time to actually finish the post that I had already spent so much time organizing and writing this past week. This is that version, check out how it really went!](https://dev.to/anchildress1/dont-judge-this-version-of-the-submission-but-it-was-driving-me-insane-that-i-didnt-have-time-to-56o6)
+- [Strands Agents in Action: Making AI Practical and Tool-Aware](https://dev.to/girishmukim/strands-agents-in-action-making-ai-practical-and-tool-aware-1fmi)
 - [I&#39;m not even sorry for this](https://dev.to/ramoyald/im-not-even-sorry-for-this-h1f)
 - [Deploy Static HTML/CSS Website to AWS S3 with CI/CD &lpar;GitHub Actions&rpar;](https://dev.to/techeazy_consulting/deploy-static-htmlcss-website-to-aws-s3-with-cicd-github-actions-2iec)
 - [Setup Django in Debian](https://dev.to/romulo_code/setup-django-in-debian-4aa2)
-- [The Forge and the Flame: Why AI Won&#39;t Replace Us, But Will Force Us to Become Artisans Again](https://dev.to/alex_aslam/the-forge-and-the-flame-why-ai-wont-replace-us-but-will-force-us-to-become-artisans-again-oem)
-- [Dica Java: Variáveis de Ambiente #010](https://dev.to/oigorrudel/dica-java-variaveis-de-ambiente-010-5ckk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
