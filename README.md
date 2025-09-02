@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Enhanced Network Monitoring with Python: Detecting Anomalies Before They Become Threats](https://dev.to/jessica_taylor_57f692d5f6/ai-enhanced-network-monitoring-with-python-detecting-anomalies-before-they-become-threats-1686)
-- [Advanced Network Monitoring with Python: Detection, Scoring, and Visualization](https://dev.to/jessica_taylor_57f692d5f6/advanced-network-monitoring-with-python-detection-scoring-and-visualization-h40)
-- [Dynamic Routing Lightweight ETL with AWS Lambda, DuckDB, and PyIceberg](https://dev.to/aws-builders/dynamic-routing-lightweight-etl-with-aws-lambda-duckdb-and-pyiceberg-414)
-- [Automating Network Monitoring with Python: A Hands-On Example](https://dev.to/jessica_taylor_57f692d5f6/automating-network-monitoring-with-python-a-hands-on-example-53ba)
-- [テトリス Untitled](https://dev.to/_7848d33420a38c40d/tetorisu-untitled-449)
+- [Node-API Part-11 : Passing Prioritised Work from Native C++ to ArkTS — a Step‑by‑Step Guide](https://dev.to/harmonyos/node-api-part-11-passing-prioritised-work-from-native-c-to-arkts-a-step-by-step-guide-3an1)
+- [Creating Custom Elements and Web Components: A Guide for Modern Web Development](https://dev.to/sharique_siddiqui_8242dad/creating-custom-elements-and-web-components-a-guide-for-modern-web-development-4f0l)
+- [Storymaker em São Luís - Maranhão](https://dev.to/insidebranding/storymaker-em-sao-luis-maranhao-56fh)
+- [Open Ethics Tech Pledges](https://dev.to/operarioribeiro/open-ethics-tech-pledges-1dnc)
+- [A Type-Safe Mermaid Component for Svelte 5](https://dev.to/jqueryscript/a-type-safe-mermaid-component-for-svelte-5-4oig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
