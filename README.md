@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MY new game i just made for school so i and you can play and have some fun and you can play at home](https://dev.to/redgamer4133/my-new-game-i-just-made-for-school-so-i-can-ply-and-have-some-fun-and-you-can-play-at-home-2nmd)
-- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-1dnm)
-- [Pixels, Tokens, and Grids: Speaking the Same Language in Design and Code](https://dev.to/message/pixels-tokens-and-grids-speaking-the-same-language-in-design-and-code-fc7)
-- [Which Should You Focus on for Placements: DSA or Development?](https://dev.to/avinash201199/which-should-you-focus-on-for-placements-dsa-or-development-4a7o)
-- [🚀 Building Stock Sage: Kiro + MCP = Smarter Stock Analysis](https://dev.to/aman_wadgaonkar_ce0b16ffc/building-stock-sage-kiro-mcp-smarter-stock-analysis-4ppb)
+- [🔥Embeddings: The Hidden Power Behind AI &amp; Search](https://dev.to/dev_kiran/embeddings-the-hidden-power-behind-ai-search-21eb)
+- [🚀 From Console.log Chaos to Production-Ready Logging: A Frontend Developer&#39;s Journey](https://dev.to/rio14/from-consolelog-chaos-to-production-ready-logging-a-frontend-developers-journey-1c0k)
+- [Portfolio Relaunch — React, Vite, and MDX](https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog)
+- [COLORS: rusowsky - &lpar;ecco&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-rusowsky-ecco-a-colors-show-2jde)
+- [Rust Data Structures - Red-Black Tree](https://dev.to/arichy/rust-data-structures-red-black-tree-pf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
