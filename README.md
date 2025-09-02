@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Fully Functional JavaScript Calculator with Dark/Light Mode &amp; Scientific Function](https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en)
+- [IP Addressing and Subnetting Simplified](https://dev.to/naval_kishorupadhyay_3e9/ip-addressing-and-subnetting-simplified-4hke)
+- [Gemini 2.5 Image Preview 🍟](https://dev.to/dongnt/gemini-25-image-preview-3a0l)
 - [Why DeFi Holds Untapped Potential in Emerging European Markets](https://dev.to/natasha_sturrock_07dac06b/why-defi-holds-untapped-potential-in-emerging-european-markets-12a5)
 - [Generating a version and history of code changes with automation on Azure DevOps](https://dev.to/iamrzr/generating-a-version-and-history-of-code-changes-with-automation-on-azure-devops-ecn)
-- [The Blueprint of a Data Team: Roles, Responsibilities, and Specializations](https://dev.to/andrey_s/the-blueprint-of-a-data-team-roles-responsibilities-and-specializations-5gk2)
-- [🛡️ September: Building Ransomware Resilience 🛡️](https://dev.to/amit_ambekar_c022e6732f8d/september-building-ransomware-resilience-463l)
-- [🚀 Introducing CodeMeet – Place for Developers 👨‍💻](https://dev.to/chandravir_singh_d1721058/introducing-codemeet-place-for-developers-10ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
