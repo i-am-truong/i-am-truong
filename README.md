@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 3: How to Fix Your GPU Utilization](https://dev.to/shohams/part-3-how-to-fix-your-gpu-utilization-52d4)
-- [How AWS DevOps Can 10x Your Shipping Speed and Turbocharge Team Growth](https://dev.to/heyjoshlee/how-aws-devops-can-10x-your-shipping-speed-and-turbocharge-team-growth-5f8g)
-- [a complete CI/CD learning project for DevOps beginners!](https://dev.to/mohamedelaassal/a-complete-cicd-learning-project-for-devops-beginners-52g7)
-- [Top 6 MySQL Database Management Struggles for Laravel Developers &lpar;And Smart Fixes&rpar;](https://dev.to/drupaladmin/top-6-mysql-database-management-struggles-for-laravel-developers-and-smart-fixes-37cg)
-- [Introduction to Server in Backend Development](https://dev.to/shifa_2/introduction-to-server-in-backend-development-3hkm)
+- [Mastering Database Interceptors in .NET Core Web API &lpar;Beginner to Hero&rpar;](https://dev.to/madusanka_bandara/mastering-database-interceptors-in-net-core-web-api-beginner-to-hero-18g8)
+- [Portfolio Madness](https://dev.to/masterdevsabith/portfolio-madness-2ke2)
+- [Polymorphism in java](https://dev.to/manoj_k_317ff8ceabf7e7524/polymorphism-in-java-no5)
+- [[Free + Open Source] Say Goodbye to Admin Apps: Make Your Django REST API Available to Claude/ChatGPT with a few lines of code](https://dev.to/zacharypodbela/free-open-source-say-goodbye-to-admin-apps-make-your-django-rest-api-available-to-1b9n)
+- [How to create a Flexible and Extensible Frontend Logging Solution](https://dev.to/ivonzhang/how-to-create-a-flexible-and-extensible-frontend-logging-solution-43i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
