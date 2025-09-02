@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize SQL Queries in High-Traffic Applications](https://dev.to/dixitgurv/how-to-optimize-sql-queries-in-high-traffic-applications-52d9)
-- [🔒 Configuring Secure Access to Workloads with Azure Firewall](https://dev.to/peter_samuel_052b9056e236/configuring-secure-access-to-workloads-with-azure-firewall-4elg)
-- [Agentic AI News Digest for August 25-29](https://dev.to/alexmercedcoder/agentic-ai-news-digest-for-august-25-29-2agj)
-- [Adam Savage&#39;s Tested: Adam Savage Bathes a 157-Year-Old Newspaper! &lpar;at @NationalParkService Museum Conservation Lab&rpar;](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-bathes-a-157-year-old-newspaper-at-nationalparkservice-museum-54p5)
-- [KEXP: Samantha Crain - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-full-performance-live-on-kexp-fdg)
+- [🔐 Broken Access Control &lpar;BAC&rpar; – A Key OWASP Top 10 Vulnerability &lpar;2025 Edition 😎&rpar;](https://dev.to/keerthika_kadhiresan/broken-access-control-bac-a-key-owasp-top-10-vulnerability-2025-edition--4h17)
+- [Stop Wrestling with Docker Compose - This CLI Spins Up Your Entire Dev Stack in Seconds](https://dev.to/aref/stop-wrestling-with-docker-compose-this-cli-spins-up-your-entire-dev-stack-in-seconds-3pjm)
+- [Homelab: A Complete Overview](https://dev.to/siswoyo/homelab-a-complete-overview-4098)
+- [Full-Stack Interview Prep #2: XSS &lpar;Cross-Site Scripting&rpar; Explained Simply &lpar;with Go &amp; Node.js Examples&rpar;](https://dev.to/davjesse/full-stack-interview-prep-2-xss-cross-site-scripting-explained-simply-with-go-nodejs-8ee)
+- [🔥 Stop Writing Boilerplate in React: Unlock the Hidden Power of Formik with Yup &amp; Custom Hooks!](https://dev.to/ekwoster/stop-writing-boilerplate-in-react-unlock-the-hidden-power-of-formik-with-yup-custom-hooks-5b34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
