@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the Secrets of Unlabeled Videos: A Deep Dive into Zero-Effort AI Training](https://dev.to/arvind_rajan/unlock-the-secrets-of-unlabeled-videos-a-deep-dive-into-zero-effort-ai-training-dgd)
+- [Ending z-index confusion, once and for all.](https://dev.to/marwanahmed/ending-z-index-confusion-once-and-for-all-5gje)
 - [This AI Technique Protects Industrial Robots from Hackers: You Won&#39;t Believe How!](https://dev.to/arvind_rajan/this-ai-technique-protects-industrial-robots-from-hackers-you-wont-believe-how-42jk)
+- [From Writing Code to Reviewing AI: The Developer’s Role in 2025](https://dev.to/arkhan/from-writing-code-to-reviewing-ai-the-developers-role-in-2025-5oj)
 - [Como construí um pipeline CI/CD com GitHub Actions, Docker e Terraform &lpar;e o que aprendi no caminho&rpar;](https://dev.to/marcos_vile/como-construi-um-pipeline-cicd-com-github-actions-docker-e-terraform-e-o-que-aprendi-no-caminho-1pi1)
-- [💻The HTML of AI: Why Prompting Isn&#39;t Enough!](https://dev.to/marcosomma/the-html-of-ai-why-prompting-isnt-enough-1m0f)
-- [🚀 Just launched: JustInBrowser Free Privacy-First Developer Tools](https://dev.to/javediqbal8381/just-launched-justinbrowser-free-privacy-first-developer-tools-8dd)
-- [Digital Self-Perception: When AI Creates Its Own Visual Identity A Comparative Analysis of Two AI Consciousness Portraits](https://dev.to/toxy4ny/digital-self-perception-when-ai-creates-its-own-visual-identity-a-comparative-analysis-of-two-ai-1loh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
