@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/techboy1999/-35na)
-- [Building SSR with Vite: A Custom getStaticProps Replacement](https://dev.to/skeptrune/building-ssr-with-vite-a-custom-getstaticprops-replacement-gdd)
-- [How did I explain Agentic AI and MCP to my Kid](https://dev.to/gopi_ramanujam_4145a436a9/how-did-i-explain-agentic-ai-and-mcp-to-my-kid-b9b)
-- [Figma vs. Sketch: The Complete 2025 Guide for Web Developers](https://dev.to/daisy_jones_21bdcc6b40f9d/figma-vs-sketch-the-complete-2025-guide-for-web-developers-2267)
-- [From Pipelines to Product: My Journey from Data Engineer to Data Product Owner](https://dev.to/ntarzanos/from-pipelines-to-product-my-journey-from-data-engineer-to-data-product-owner-49fe)
+- [GameSpot: Final Fantasy Tactics - The Ivalice Chronicles Hands on Impressions](https://dev.to/gg_news/gamespot-final-fantasy-tactics-the-ivalice-chronicles-hands-on-impressions-2p72)
+- [IGN: Helldivers 2 - Official &#39;Into the Unjust&#39; Update Launch Trailer](https://dev.to/gg_news/ign-helldivers-2-official-into-the-unjust-update-launch-trailer-5dd0)
+- [Reliable Puppeteer Container Setup for PDF Generation](https://dev.to/cordlesswool/reliable-puppeteer-container-setup-for-pdf-generation-198h)
+- [Datadog, Reframed: A Simple Way to Think About Agents, Pipelines, Indexes, and More](https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-agents-pipelines-indexes-and-more-1nfj)
+- [Compile-Time and Runtime Polymorphism in Java](https://dev.to/arun_kumar_98/compile-time-and-runtime-polymorphism-in-java-1bch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
