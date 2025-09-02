@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Command line Game in Python](https://dev.to/ivansing/building-an-command-line-game-in-python-1h37)
-- [Integração do ArgoCD com clusters Kubernetes da Magalu Cloud](https://dev.to/magalucloud/integracao-do-argocd-com-clusters-kubernetes-da-magalu-cloud-l54)
-- [AI Just Cracked GUI Automation: A Developer&#39;s Deep Dive](https://dev.to/arvind_rajan/ai-just-cracked-gui-automation-a-developers-deep-dive-14k1)
-- [ArtistAssistApp Improvements – August 2025](https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4)
+- [This AI Technique Protects Industrial Robots from Hackers: You Won&#39;t Believe How!](https://dev.to/arvind_rajan/this-ai-technique-protects-industrial-robots-from-hackers-you-wont-believe-how-42jk)
+- [Como construí um pipeline CI/CD com GitHub Actions, Docker e Terraform &lpar;e o que aprendi no caminho&rpar;](https://dev.to/marcos_vile/como-construi-um-pipeline-cicd-com-github-actions-docker-e-terraform-e-o-que-aprendi-no-caminho-1pi1)
+- [💻The HTML of AI: Why Prompting Isn&#39;t Enough!](https://dev.to/marcosomma/the-html-of-ai-why-prompting-isnt-enough-1m0f)
+- [🚀 Just launched: JustInBrowser Free Privacy-First Developer Tools](https://dev.to/javediqbal8381/just-launched-justinbrowser-free-privacy-first-developer-tools-8dd)
+- [Digital Self-Perception: When AI Creates Its Own Visual Identity A Comparative Analysis of Two AI Consciousness Portraits](https://dev.to/toxy4ny/digital-self-perception-when-ai-creates-its-own-visual-identity-a-comparative-analysis-of-two-ai-1loh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
