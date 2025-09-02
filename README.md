@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Angular 20 Selector-less Components Will Transform Your Development Workflow](https://dev.to/codewithrajat/why-angular-20-selector-less-components-will-transform-your-development-workflow-2edl)
+- [Excited to Join the dev.to Community!](https://dev.to/saikatmondal/excited-to-join-the-devto-community-1c1e)
 - [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
 - [The Ultimate Guide to HTTP Status Codes in REST APIs](https://dev.to/gianfcop98/the-ultimate-guide-to-http-status-codes-in-rest-apis-40cp)
-- [CyclicBarrier in Java Concurrency package...](https://dev.to/sommukhopadhyay/cyclicbarrier-in-java-concurrency-package-4d93)
-- [Day 26 of My Data Analytics Journey !](https://dev.to/ramyacse/day-26-of-my-data-analytics-journey--73g)
-- [Abusing LOLBins: rundll32.exe Lab &amp; Sysmon Detection](https://dev.to/saravana_gautham_g/abusing-lolbins-rundll32exe-lab-sysmon-detection-170h)
+- [Midnight Shield: Protect That Data prompt](https://dev.to/muhammad_zeeshan_6499a22a/midnight-shield-protect-that-data-prompt-1pc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
