@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Command line Game in Python](https://dev.to/ivansing/building-an-command-line-game-in-python-1h37)
+- [Integração do ArgoCD com clusters Kubernetes da Magalu Cloud](https://dev.to/magalucloud/integracao-do-argocd-com-clusters-kubernetes-da-magalu-cloud-l54)
+- [AI Just Cracked GUI Automation: A Developer&#39;s Deep Dive](https://dev.to/arvind_rajan/ai-just-cracked-gui-automation-a-developers-deep-dive-14k1)
 - [ArtistAssistApp Improvements – August 2025](https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4)
-- [ChatGPT Safety: Parental Controls, GPT-5 Routing, and Crisis Handling](https://dev.to/alifar/chatgpt-safety-parental-controls-gpt-5-routing-and-crisis-handling-57n4)
-- [🧪 Test Automation Meetup – September 2025 Karate Beyond API Testing &amp; RPA in Test Automation](https://dev.to/testomatio/test-automation-meetup-september-2025karate-beyond-api-testing-rpa-in-test-automation-136h)
-- [Cómo Aprobar el Examen de AWS Solutions Architect Professional Como un Verdadero Pro](https://dev.to/aws-espanol/como-aprobar-el-examen-de-aws-solutions-architect-professional-como-un-verdadero-pro-lf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
