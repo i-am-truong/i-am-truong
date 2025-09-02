@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a rich text editor using react and react-quill](https://dev.to/majid_ali_d798f5cf41b6a56/creating-a-rich-text-editor-using-react-and-react-quill-2kbk)
-- [Câu Lệnh switch-case trong Java | Hướng dẫn chi tiết](https://dev.to/javahighlight/cau-lenh-switch-case-trong-java-huong-dan-chi-tiet-j75)
-- [7 Powerful Open Source Alternatives to Zapier](https://dev.to/nocobase/7-powerful-open-source-alternatives-to-zapier-92g)
-- [AI-Assisted Development](https://dev.to/pascal_cescato_692b7a8a20/ai-assisted-development-3cd1)
-- [Tips I Learned While Working on React Native](https://dev.to/mutalibb/tips-i-learned-while-working-on-react-native-29kb)
+- [KEXP: Samantha Crain - Gumshoe &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-gumshoe-live-on-kexp-aag)
+- [KEXP: Samantha Crain - Dragonfly &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-dragonfly-live-on-kexp-p2l)
+- [KEXP: Samantha Crain - Dart &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-dart-live-on-kexp-1f32)
+- [KEXP: Samantha Crain - B-Attitudes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-b-attitudes-live-on-kexp-50dl)
+- [No Laying Up Podcast: Future of the PGA Tour + Team Europe Finalized | NLU Pod, Ep 1064](https://dev.to/youtube_golf/no-laying-up-podcast-future-of-the-pga-tour-team-europe-finalized-nlu-pod-ep-1064-1fpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
