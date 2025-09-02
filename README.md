@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IT Vendor Spend Analysis](https://dev.to/dipti_moryani_08e62702314/it-vendor-spend-analysis-43a2)
-- [EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ](https://dev.to/waterlily_0f365e5fadded0f/echoapimotukuji-neng-dekai-fa-xiao-lu-atupubing-xing-kai-fa-noshi-jian-nouhau-21nf)
-- [Inside the Hacker’s Playbook: How Your Passwords Are Cracked in 2025](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-how-your-passwords-are-cracked-in-2025-5egk)
-- [Glances vs Top: Which Is the Best Monitoring Tool for Linux Servers?](https://dev.to/letscloud/glances-vs-top-which-is-the-best-monitoring-tool-for-linux-servers-1m4g)
-- [BFF no NestJS: só DTOs, sem entities por favor](https://dev.to/3jacksonsmith/bff-no-nestjs-so-dtos-sem-entities-por-favor-1f62)
+- [How AI Thinks It Thinks: ChatGPT, Copilot and Gemini Explain Themselves](https://dev.to/sansbuilds/how-ai-thinks-it-thinks-chatgpt-copilot-and-gemini-explain-themselves-1f3k)
+- [How to use gopls MCP with VS Code](https://dev.to/calvinmclean/how-to-use-gopls-mcp-with-vs-code-11ha)
+- [The future doesn’t belong to the developer who writes the most lines of code. It belongs to the developer who can code with AI as a partner, build systems, and communicate value beyond syntax.](https://dev.to/jaideepparashar/the-future-doesnt-belong-to-the-developer-who-writes-the-most-lines-of-code-it-belongs-to-the-1np6)
+- [AI for Developers Career Growth: How Developers Would Upskill in 2025](https://dev.to/jaideepparashar/ai-for-developers-career-growth-how-developers-would-upskill-in-2025-5ac1)
+- [Why I&#39;m Starting this Unity Development Blog &lpar;and What We&#39;ll Learn Here&rpar;](https://dev.to/chris_majcher_de2b3fa94ff/why-im-starting-this-unity-development-blog-and-what-well-learn-here-51fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
