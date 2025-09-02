@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Atomic Design and Component-Driven Development Are the Perfect Match 🧬](https://dev.to/tahamjp/why-atomic-design-and-component-driven-development-are-the-perfect-match-3ki3)
+- [Frontend 2025: Make It Fast, Keep It Simple](https://dev.to/vishdevwork/frontend-2025-make-it-fast-keep-it-simple-272f)
+- [Benefits of Having Paid Code Support](https://dev.to/githelpstories/benefits-of-having-paid-code-support-11g3)
+- [The Developer’s Guide to LLM Gateways: Building Scalable, Reliable AI Infrastructure with Maxim AI](https://dev.to/kuldeep_paul/the-developers-guide-to-llm-gateways-building-scalable-reliable-ai-infrastructure-with-maxim-ai-c8m)
 - [How to avoid &quot;Too many open files&quot; error in NodeJS](https://dev.to/zenulabidin/how-to-avoid-too-many-open-files-error-in-nodejs-2586)
-- [From Zero to WordPress: Build Your Site Locally with LocalWP – Part 1](https://dev.to/pawic/build-your-first-website-part-1-wordpress-setup-with-localwp-2noa)
-- [The Hidden Backbone of the Internet: How DNS Actually Works](https://dev.to/naval_kishorupadhyay_3e9/the-hidden-backbone-of-the-internet-how-dns-actually-works-27k9)
-- [WebAssembly 基础（二）](https://dev.to/yangholmes/webassembly-ji-chu-er--5chd)
-- [TAssist](https://dev.to/sohail2721/tassist-3ec4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
