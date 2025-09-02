@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Node-API Part-11 : Passing Prioritised Work from Native C++ to ArkTS — a Step‑by‑Step Guide](https://dev.to/harmonyos/node-api-part-11-passing-prioritised-work-from-native-c-to-arkts-a-step-by-step-guide-3an1)
-- [Creating Custom Elements and Web Components: A Guide for Modern Web Development](https://dev.to/sharique_siddiqui_8242dad/creating-custom-elements-and-web-components-a-guide-for-modern-web-development-4f0l)
-- [Storymaker em São Luís - Maranhão](https://dev.to/insidebranding/storymaker-em-sao-luis-maranhao-56fh)
-- [Open Ethics Tech Pledges](https://dev.to/operarioribeiro/open-ethics-tech-pledges-1dnc)
-- [A Type-Safe Mermaid Component for Svelte 5](https://dev.to/jqueryscript/a-type-safe-mermaid-component-for-svelte-5-4oig)
+- [The 10-Line Architecture That Scaled to 50+ Pages](https://dev.to/maurya-sachin/the-10-line-architecture-that-scaled-to-50-pages-4na0)
+- [PostgreSQL vs MySQL: Which One Handles High-Concurrency Continuous Authentication Systems Better?](https://dev.to/xinjie_zou_d67d2805538130/postgresql-vs-mysql-which-one-handles-high-concurrency-continuous-authentication-systems-better-1nab)
+- [Python Lesson 8: From Portal Architect to Soul Forger - Mastering Persistent State with SQLAlchemy](https://dev.to/mysterious_xuanwu_5a00815/python-lesson-8-from-portal-architect-to-soul-forger-mastering-persistent-state-with-sqlalchemy-4669)
+- [🛳️ Docker Series: Episode 11 — Hosting Dockerized Apps: Cloud Deployment for Beginners](https://dev.to/yash_sonawane25/docker-series-episode-11-hosting-dockerized-apps-cloud-deployment-for-beginners-2b20)
+- [テトリス ver.4](https://dev.to/_7848d33420a38c40d/tetorisu-ver4-2ean)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
