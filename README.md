@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Workforce: Building Event-Driven AI Agents That Work While You Sleep](https://dev.to/binyam/the-silent-workforce-building-event-driven-ai-agents-that-work-while-you-sleep-4d37)
-- [How to implement Dark and Light mode in Next.js, No need of frustration. Here&#39;s a detailed simple tutorial](https://dev.to/masterdevsabith/how-to-implement-dark-and-light-mode-in-nextjs-no-need-of-frustration-heres-a-detailed-simple-2823)
-- [Dark-Light Mode in Next Js](https://dev.to/masterdevsabith/dark-light-mode-in-next-js-1112)
-- [Smarter Summaries with Agentic AI: The Future of Summary Evaluation](https://dev.to/capestart/smarter-summaries-with-agentic-ai-the-future-of-summary-evaluation-lj6)
-- [Saga Pattern: When Theory Collides with Reality](https://dev.to/lowkey_dev_591/saga-pattern-when-theory-collides-with-reality-4enj)
+- [Walking the DNS Tree: From Root Zone to Your Website](https://dev.to/naval_kishorupadhyay_3e9/walking-the-dns-tree-from-root-zone-to-your-website-5ce7)
+- [🚀 Build a ☸️ Kubernetes ☸️ SRE Agent in Just Ten Minutes! ⏱️⚡](https://dev.to/lukehinds/build-a-kubernetes-sre-agent-in-just-ten-minutes-ke4)
+- [Web Performance Is Revenue: Join Me for the Vercel Community AMA](https://dev.to/sip/web-performance-is-revenue-join-me-for-the-vercel-community-ama-3enc)
+- [@media &lpar;768px &lt; width &lt;= 1024px&rpar; - 92% support &lpar;Media Queries Range Syntax&rpar;](https://dev.to/avcat/media-queries-range-syntax-92-support-768px-width-1024px-o5k)
+- [How I Built Tab Panels to Solve My 100+ Browser Tab Problem](https://dev.to/lu_xiao_bfa77a98b4b2ad851/how-i-built-tab-panels-to-solve-my-100-browser-tab-problem-1p97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
