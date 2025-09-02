@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes: part 59 – Kubernetes 1.34 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-59-kubernetes-134-changelog-4inc)
-- [Sorting an array](https://dev.to/shafiqbd/sorting-an-array-4286)
-- [Implementing A Minimal SSH Server in Go](https://dev.to/jodaut/implementing-a-minimal-ssh-server-in-go-3b2k)
-- [MCP for Customer Service: Integrating CRM with Chat](https://dev.to/om_shree_0709/mcp-for-customer-service-integrating-crm-with-chat-2l83)
-- [The Pull Request That Changed How I Think About Code](https://dev.to/leena_malhotra_355340d89c/the-pull-request-that-changed-how-i-think-about-code-54fg)
+- [How to run services locally with no fuss using spring-boot-docker-compose](https://dev.to/migrosonline/how-to-run-services-locally-with-no-fuss-using-spring-boot-docker-compose-4nhb)
+- [cheating code for post authentication](https://dev.to/junoh_lee_c30c3d7b6800e0/cheating-code-for-post-authentication-1f3b)
+- [👋 Hi everyone, I’m Jubril. A Bubble.io full-stack developer with experience building apps. I’m also an AWS Certified Cloud Practitioner and currently on the track to becoming a Solutions Architect. Excited to connect, learn, and collaborate with you all!](https://dev.to/jubril_toheeb_61be96fe443/hi-everyone-im-jubril-a-bubbleio-full-stack-developer-with-experience-building-apps-im-also-5bld)
+- [Is AI Marketing Replacing Classic SEO? A Real Comparison](https://dev.to/andrei_saioc_b41f2371c22b/is-ai-marketing-replacing-classic-seo-a-real-comparison-2lj)
+- [[agents.md] product/feedback-synthesizer](https://dev.to/joo0/agentsmd-productfeedback-synthesizer-149)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
