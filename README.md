@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IT Vendor Spend Analysis](https://dev.to/dipti_moryani_08e62702314/it-vendor-spend-analysis-43a2)
+- [EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ](https://dev.to/waterlily_0f365e5fadded0f/echoapimotukuji-neng-dekai-fa-xiao-lu-atupubing-xing-kai-fa-noshi-jian-nouhau-21nf)
+- [Inside the Hacker’s Playbook: How Your Passwords Are Cracked in 2025](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-how-your-passwords-are-cracked-in-2025-5egk)
 - [Glances vs Top: Which Is the Best Monitoring Tool for Linux Servers?](https://dev.to/letscloud/glances-vs-top-which-is-the-best-monitoring-tool-for-linux-servers-1m4g)
 - [BFF no NestJS: só DTOs, sem entities por favor](https://dev.to/3jacksonsmith/bff-no-nestjs-so-dtos-sem-entities-por-favor-1f62)
-- [[Selesai] Projek Vertical Slice Pertama &lpar;dan Banyak Ralat!&rpar;](https://dev.to/cutieyunnytech/selesai-projek-vertical-slice-pertama-dan-banyak-ralat-28am)
-- [A Step-by-Step Guide to Reinforcement Learning in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/a-step-by-step-guide-to-reinforcement-learning-in-r-3oc5)
-- [Stablecoins and Tokenized Assets: What Developers Should Know About the Next Wave of Crypto in 2025](https://dev.to/shalom_guillermo_ecc62079/stablecoins-and-tokenized-assets-what-developers-should-know-about-the-next-wave-of-crypto-in-2025-4l82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
