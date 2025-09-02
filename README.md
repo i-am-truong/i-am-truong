@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing Secrets in Ansible with Vault](https://dev.to/lovestaco/managing-secrets-in-ansible-with-vault-3481)
+- [How to Pass the AWS Solutions Architect Professional Certification Like a Real Pro](https://dev.to/aws-builders/how-to-pass-the-aws-solutions-architect-professional-certification-like-a-real-pro-3j0j)
 - [What is the Microsoft MVP Award and its benefits?](https://dev.to/sunny7899/what-is-the-microsoft-mvp-award-and-its-benefits-1i3d)
 - [Spring Boot Testing: A Comprehensive Best Practices Guide](https://dev.to/jungledev/spring-boot-testing-a-comprehensive-best-practices-guide-1do6)
 - [The Future of GRC: AI, Automation, and the Engineering Mindset](https://dev.to/doneal-grc/the-future-of-grc-ai-automation-and-the-engineering-mindset-22fn)
-- [GitHub Stars program](https://dev.to/sunny7899/github-stars-program-2bg2)
-- [Passwordless logins with magic links using Next.js 15 &amp; Scalekit](https://dev.to/saif_shines/passwordless-logins-with-magic-links-using-nextjs-15-scalekit-1i0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
