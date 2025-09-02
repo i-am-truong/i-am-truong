@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Basic Form Order in Juris](https://dev.to/artyprog/a-basic-form-order-in-juris-47he)
-- [Concurrent Programming in Android - Part II](https://dev.to/sommukhopadhyay/concurrent-programming-in-android-part-ii-7io)
-- [Why You Shouldn’t Ignore Early-Stage Projects](https://dev.to/mkzaman58/why-you-shouldnt-ignore-early-stage-projects-5bgp)
-- [How Solana Token Development Bridges Blockchain and Real-World Assets](https://dev.to/glenn_phillips_fe2122fd39/how-solana-token-development-bridges-blockchain-and-real-world-assets-3h6c)
-- [How to Choose the Right Open-Source Headless CMS for Your Project](https://dev.to/hardeepsingh01/how-to-choose-the-right-open-source-headless-cms-for-your-project-2in1)
+- [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
+- [The Ultimate Guide to HTTP Status Codes in REST APIs](https://dev.to/gianfcop98/the-ultimate-guide-to-http-status-codes-in-rest-apis-40cp)
+- [CyclicBarrier in Java Concurrency package...](https://dev.to/sommukhopadhyay/cyclicbarrier-in-java-concurrency-package-4d93)
+- [Day 26 of My Data Analytics Journey !](https://dev.to/ramyacse/day-26-of-my-data-analytics-journey--73g)
+- [Abusing LOLBins: rundll32.exe Lab &amp; Sysmon Detection](https://dev.to/saravana_gautham_g/abusing-lolbins-rundll32exe-lab-sysmon-detection-170h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
