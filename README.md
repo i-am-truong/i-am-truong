@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing THOAD, High Order Derivatives for PyTorch Graphs](https://dev.to/mntsx/introducing-thoad-high-order-derivatives-for-pytorch-graphs-5a1j)
 - [PromptOp – Your AI Lab in One Platform](https://dev.to/mourad_baazi_99a44ccf44e5/promptop-your-ai-lab-in-one-platform-2ani)
 - [Making Historical Context Easily Discoverable from Slack with AI - Building slack-explorer-mcp](https://dev.to/shibayu36/making-historical-context-easily-discoverable-from-slack-with-ai-building-slack-explorer-mcp-54jj)
 - [How AI Is Changing the Way I Prototype](https://dev.to/osmangunescizmeci/how-ai-is-changing-the-way-i-prototype-4c11)
-- [Week 1: Exploring Cloud Computing ☁️ — Getting Started with CloudWatch](https://dev.to/arishsingh99/week-1-exploring-cloud-computing-getting-started-with-cloudwatch-13np)
-- [How to Learn Faster Than 90% of Other New Developers](https://dev.to/beyond-code/how-to-learn-faster-than-90-of-other-new-developers-3bpe)
+- [Monitoring the Cloud: Learning CloudWatch](https://dev.to/arishsingh99/week-1-exploring-cloud-computing-getting-started-with-cloudwatch-13np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
