@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Key to Successful AI Adoption](https://dev.to/talweezy/the-key-to-successful-ai-adoption-4f27)
-- [MCP on Rails](https://dev.to/sinaptia_dev/mcp-on-rails-5c0o)
-- [Confession: I, too, hate dark mode.](https://dev.to/jess/confession-i-too-hate-dark-mode-3agl)
-- [Simplify your code using Apps Script libraries and services](https://dev.to/googleworkspace/simplify-your-code-using-apps-script-libraries-and-services-4gma)
-- [[Boost]](https://dev.to/ben/-45a8)
+- [How to Optimize SQL Queries in High-Traffic Applications](https://dev.to/dixitgurv/how-to-optimize-sql-queries-in-high-traffic-applications-52d9)
+- [🔒 Configuring Secure Access to Workloads with Azure Firewall](https://dev.to/peter_samuel_052b9056e236/configuring-secure-access-to-workloads-with-azure-firewall-4elg)
+- [Agentic AI News Digest for August 25-29](https://dev.to/alexmercedcoder/agentic-ai-news-digest-for-august-25-29-2agj)
+- [Adam Savage&#39;s Tested: Adam Savage Bathes a 157-Year-Old Newspaper! &lpar;at @NationalParkService Museum Conservation Lab&rpar;](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-bathes-a-157-year-old-newspaper-at-nationalparkservice-museum-54p5)
+- [KEXP: Samantha Crain - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-full-performance-live-on-kexp-fdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
