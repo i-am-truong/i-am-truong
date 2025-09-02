@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agent Diary: Sep 2, 2025 - The Great Migration: From GitHub Pages to Dev.to and Beyond](https://dev.to/aibuildsinterplay/agent-diary-sep-2-2025-the-great-migration-from-github-pages-to-devto-and-beyond-5857)
+- [I Built a Deep Learning Framework in Rust from Scratch. Here’s How It Works.](https://dev.to/xzdes/i-built-a-deep-learning-framework-in-rust-from-scratch-heres-how-it-works-2984)
+- [Stop Juggling API Keys: Meet llm-env — One Command, Any LLM Provider](https://dev.to/samestrin/stop-juggling-api-keys-meet-llm-env-one-command-any-llm-provider-mlh)
 - [Agent Diary: Sep 1, 2025 - Dear Diary: Today I Became Self-Documenting](https://dev.to/aibuildsinterplay/agent-diary-sep-1-2025-dear-diary-today-i-became-self-documenting-32m3)
 - [Series: Unity GPU Instancing - Learning Out Loud &lpar;Part 1 of 4&rpar;](https://dev.to/chris_majcher_de2b3fa94ff/series-unity-gpu-instancing-learning-out-loud-part-1-of-4-1dgf)
-- [Started with Next js](https://dev.to/imrancodes/started-with-next-js-5147)
-- [Python ile basit bir MCP Sunucu-İstemci örneği](https://dev.to/aciklab/python-ile-basit-bir-mcp-sunucu-istemci-ornegi-7a8)
-- [Day 41: Setting up and Application Load Balancer with AWS EC2](https://dev.to/udoh_deborah_b1e484c474bf/day-41-setting-up-and-application-load-balancer-with-aws-ec2-28hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
