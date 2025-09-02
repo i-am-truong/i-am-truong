@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create a Fully Functional JavaScript Calculator with Dark/Light Mode &amp; Scientific Function](https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en)
-- [IP Addressing and Subnetting Simplified](https://dev.to/naval_kishorupadhyay_3e9/ip-addressing-and-subnetting-simplified-4hke)
-- [Gemini 2.5 Image Preview 🍟](https://dev.to/dongnt/gemini-25-image-preview-3a0l)
-- [Why DeFi Holds Untapped Potential in Emerging European Markets](https://dev.to/natasha_sturrock_07dac06b/why-defi-holds-untapped-potential-in-emerging-european-markets-12a5)
-- [Generating a version and history of code changes with automation on Azure DevOps](https://dev.to/iamrzr/generating-a-version-and-history-of-code-changes-with-automation-on-azure-devops-ecn)
+- [How to avoid &quot;Too many open files&quot; error in NodeJS](https://dev.to/zenulabidin/how-to-avoid-too-many-open-files-error-in-nodejs-2586)
+- [From Zero to WordPress: Build Your Site Locally with LocalWP – Part 1](https://dev.to/pawic/build-your-first-website-part-1-wordpress-setup-with-localwp-2noa)
+- [The Hidden Backbone of the Internet: How DNS Actually Works](https://dev.to/naval_kishorupadhyay_3e9/the-hidden-backbone-of-the-internet-how-dns-actually-works-27k9)
+- [WebAssembly 基础（二）](https://dev.to/yangholmes/webassembly-ji-chu-er--5chd)
+- [TAssist](https://dev.to/sohail2721/tassist-3ec4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
