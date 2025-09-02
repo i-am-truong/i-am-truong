@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding API Gateways in Modern Microservices Architecture day 42 of system design basics](https://dev.to/vincenttommi/understanding-api-gateways-in-modern-microservices-architecture-1f1e)
+- [From CLI to AI: How I Used AI to Automate My Pull Request Reviews](https://dev.to/olivia_perell_/from-cli-to-ai-how-i-used-ai-to-automate-my-pull-request-reviews-4f0c)
+- [Exploring the Technology Behind a Lightsaber: A Digital Simulation Approach](https://dev.to/daniel_anthony_3eb7c3f067/exploring-the-technology-behind-a-lightsaber-a-digital-simulation-approach-5aig)
 - [System Design &lpar;Part-1&rpar;](https://dev.to/ishathub/system-design-part-1-3cng)
 - [7 AI trends in mobile app development](https://dev.to/dmitry_chaton/7-ai-trends-in-mobile-app-development-3a8p)
-- [L&#39;Arsenal du Data Analyst en 2025 : Maîtriser les Outils, les Données et les Tendances pour se démarquer](https://dev.to/moubarakmohame4/larsenal-du-data-analyst-en-2025-maitriser-les-outils-les-donnees-et-les-tendances-pour-se-4lb0)
-- [Best platform to learn Rust: My top 3 picks &lpar;and what actually worked&rpar;](https://dev.to/stack_overflowed/best-platform-to-learn-rust-my-top-3-picks-and-what-actually-worked-30fj)
-- [🌀 Circular Array Problems — The Ultimate Interview Guide](https://dev.to/rock_win_c053fa5fb2399067/circular-array-problems-the-ultimate-interview-guide-21b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
