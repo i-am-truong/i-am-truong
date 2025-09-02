@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-1j5d)
-- [Building Smarter AI Applications: A Journey Through the LangChain Ecosystem](https://dev.to/suraj_kushwaha_009beb0a4a/building-smarter-ai-applications-a-journey-through-the-langchain-ecosystem-5edo)
-- [The Invisible Guardian: Securing Industrial Machine Tools with AI-Powered Adaptive Watermarks](https://dev.to/arvindsundararajan/the-invisible-guardian-securing-industrial-machine-tools-with-ai-powered-adaptive-watermarks-53gj)
-- [Forget Labels: AI Learns Continuously From Raw Video &lpar;and It&#39;s a Game Changer&rpar;](https://dev.to/arvindsundararajan/forget-labels-ai-learns-continuously-from-raw-video-and-its-a-game-changer-17mf)
-- [A Tiny KMP Connectivity Monitor &lpar;Android + iOS&rpar; — No Pods Required](https://dev.to/qandil_tariq_0e73fd980d58/a-tiny-kmp-connectivity-monitor-android-ios-no-pods-required-1hof)
+- [Real-Time AI at the Edge: Dynamically Updating Neural Networks on FPGAs by Arvind Sundararajan](https://dev.to/arvindsundararajan/real-time-ai-at-the-edge-dynamically-updating-neural-networks-on-fpgas-by-arvind-sundararajan-16ng)
+- [Real-Time AI: Dynamic Neural Nets on Edge Devices by Arvind Sundararajan](https://dev.to/arvindsundararajan/real-time-ai-dynamic-neural-nets-on-edge-devices-by-arvind-sundararajan-1fc1)
+- [Adam Savage&#39;s Tested: Adam Savage Washes a 157-Year-Old Newspaper at ⁨@NationalParkService⁩ Museum Conservation Lab](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-washes-a-157-year-old-newspaper-at-nationalparkservice-museum-2a36)
+- [Golf.com: GOLF Made in Florida: 48 Hours at Cabot Citrus Farms](https://dev.to/youtube_golf/golfcom-golf-made-in-florida-48-hours-at-cabot-citrus-farms-1075)
+- [IGN: Republic of Pirates - Official Console Gameplay Overview Trailer](https://dev.to/gg_news/ign-republic-of-pirates-official-console-gameplay-overview-trailer-21pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
