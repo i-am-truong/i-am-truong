@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥Embeddings: The Hidden Power Behind AI &amp; Search](https://dev.to/dev_kiran/embeddings-the-hidden-power-behind-ai-search-21eb)
-- [🚀 From Console.log Chaos to Production-Ready Logging: A Frontend Developer&#39;s Journey](https://dev.to/rio14/from-consolelog-chaos-to-production-ready-logging-a-frontend-developers-journey-1c0k)
-- [Portfolio Relaunch — React, Vite, and MDX](https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog)
-- [COLORS: rusowsky - &lpar;ecco&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-rusowsky-ecco-a-colors-show-2jde)
-- [Rust Data Structures - Red-Black Tree](https://dev.to/arichy/rust-data-structures-red-black-tree-pf4)
+- [AI Agents Are About to *Revolutionize* UI Automation: Prepare to Be Amazed!](https://dev.to/arvind_rajan/ai-agents-are-about-to-revolutionize-ui-automation-prepare-to-be-amazed-ig1)
+- [OracleBootCamp : 6-September-2025 &lpar; Oracle Linux 9, ADW &amp; APEX &rpar;](https://dev.to/nabhaas/oraclebootcamp-6-september-2025-oracle-linux-9-adw-apex--4g3e)
+- [SuperMemory MCP: Universal AI Memory with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/mihir_bhadak/supermemory-mcp-universal-ai-memory-with-model-context-protocol-mcp-1dkg)
+- [Building for the Long Term: The Architecture Behind File Insights 🏗️](https://dev.to/vijay431/building-for-the-long-term-the-architecture-behind-file-insights-47pn)
+- [Fully functional REST Controller with one line in .Net](https://dev.to/wissance/fully-functional-rest-controller-with-one-line-in-net-2d1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
