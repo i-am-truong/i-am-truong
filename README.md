@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 10-Line Architecture That Scaled to 50+ Pages](https://dev.to/maurya-sachin/the-10-line-architecture-that-scaled-to-50-pages-4na0)
-- [PostgreSQL vs MySQL: Which One Handles High-Concurrency Continuous Authentication Systems Better?](https://dev.to/xinjie_zou_d67d2805538130/postgresql-vs-mysql-which-one-handles-high-concurrency-continuous-authentication-systems-better-1nab)
-- [Python Lesson 8: From Portal Architect to Soul Forger - Mastering Persistent State with SQLAlchemy](https://dev.to/mysterious_xuanwu_5a00815/python-lesson-8-from-portal-architect-to-soul-forger-mastering-persistent-state-with-sqlalchemy-4669)
-- [🛳️ Docker Series: Episode 11 — Hosting Dockerized Apps: Cloud Deployment for Beginners](https://dev.to/yash_sonawane25/docker-series-episode-11-hosting-dockerized-apps-cloud-deployment-for-beginners-2b20)
-- [テトリス ver.4](https://dev.to/_7848d33420a38c40d/tetorisu-ver4-2ean)
+- [Glances vs Top: Which Is the Best Monitoring Tool for Linux Servers?](https://dev.to/letscloud/glances-vs-top-which-is-the-best-monitoring-tool-for-linux-servers-1m4g)
+- [BFF no NestJS: só DTOs, sem entities por favor](https://dev.to/3jacksonsmith/bff-no-nestjs-so-dtos-sem-entities-por-favor-1f62)
+- [[Selesai] Projek Vertical Slice Pertama &lpar;dan Banyak Ralat!&rpar;](https://dev.to/cutieyunnytech/selesai-projek-vertical-slice-pertama-dan-banyak-ralat-28am)
+- [A Step-by-Step Guide to Reinforcement Learning in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/a-step-by-step-guide-to-reinforcement-learning-in-r-3oc5)
+- [Stablecoins and Tokenized Assets: What Developers Should Know About the Next Wave of Crypto in 2025](https://dev.to/shalom_guillermo_ecc62079/stablecoins-and-tokenized-assets-what-developers-should-know-about-the-next-wave-of-crypto-in-2025-4l82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
