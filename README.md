@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [System Design &lpar;Part-1&rpar;](https://dev.to/ishathub/system-design-part-1-3cng)
 - [7 AI trends in mobile app development](https://dev.to/dmitry_chaton/7-ai-trends-in-mobile-app-development-3a8p)
 - [L&#39;Arsenal du Data Analyst en 2025 : Maîtriser les Outils, les Données et les Tendances pour se démarquer](https://dev.to/moubarakmohame4/larsenal-du-data-analyst-en-2025-maitriser-les-outils-les-donnees-et-les-tendances-pour-se-4lb0)
-- [The State Pattern in Python...](https://dev.to/sommukhopadhyay/the-state-pattern-in-python-205)
-- [How to Recover SQL Server Database After Backup Corruption](https://dev.to/nisargupadhyay87/how-to-recover-sql-server-database-after-backup-corruption-46i6)
-- [My Android AsyncTask implementation vis-a-vis Command Pattern...](https://dev.to/sommukhopadhyay/my-android-asynctask-implementation-vis-a-vis-command-pattern-3g0a)
+- [Best platform to learn Rust: My top 3 picks &lpar;and what actually worked&rpar;](https://dev.to/stack_overflowed/best-platform-to-learn-rust-my-top-3-picks-and-what-actually-worked-30fj)
+- [🌀 Circular Array Problems — The Ultimate Interview Guide](https://dev.to/rock_win_c053fa5fb2399067/circular-array-problems-the-ultimate-interview-guide-21b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
