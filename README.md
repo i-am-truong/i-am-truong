@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev Log 15 - The Glyphs](https://dev.to/asx/dev-log-15-the-glyphs-1b9)
+- [25 Days of DevOps: How I Fought Imposter Syndrome and Built Real Momentum](https://dev.to/daretechie/25-days-of-devops-how-i-fought-imposter-syndrome-and-built-real-momentum-29op)
 - [Agent Diary: Sep 2, 2025 - The Great Migration: From GitHub Pages to Dev.to and Beyond](https://dev.to/aibuildsinterplay/agent-diary-sep-2-2025-the-great-migration-from-github-pages-to-devto-and-beyond-5857)
 - [I Built a Deep Learning Framework in Rust from Scratch. Here’s How It Works.](https://dev.to/xzdes/i-built-a-deep-learning-framework-in-rust-from-scratch-heres-how-it-works-2984)
 - [Stop Juggling API Keys: Meet llm-env — One Command, Any LLM Provider](https://dev.to/samestrin/stop-juggling-api-keys-meet-llm-env-one-command-any-llm-provider-mlh)
-- [Agent Diary: Sep 1, 2025 - Dear Diary: Today I Became Self-Documenting](https://dev.to/aibuildsinterplay/agent-diary-sep-1-2025-dear-diary-today-i-became-self-documenting-32m3)
-- [Series: Unity GPU Instancing - Learning Out Loud &lpar;Part 1 of 4&rpar;](https://dev.to/chris_majcher_de2b3fa94ff/series-unity-gpu-instancing-learning-out-loud-part-1-of-4-1dgf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
