@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why DeFi Holds Untapped Potential in Emerging European Markets](https://dev.to/natasha_sturrock_07dac06b/why-defi-holds-untapped-potential-in-emerging-european-markets-12a5)
 - [Generating a version and history of code changes with automation on Azure DevOps](https://dev.to/iamrzr/generating-a-version-and-history-of-code-changes-with-automation-on-azure-devops-ecn)
 - [The Blueprint of a Data Team: Roles, Responsibilities, and Specializations](https://dev.to/andrey_s/the-blueprint-of-a-data-team-roles-responsibilities-and-specializations-5gk2)
 - [🛡️ September: Building Ransomware Resilience 🛡️](https://dev.to/amit_ambekar_c022e6732f8d/september-building-ransomware-resilience-463l)
 - [🚀 Introducing CodeMeet – Place for Developers 👨‍💻](https://dev.to/chandravir_singh_d1721058/introducing-codemeet-place-for-developers-10ia)
-- [Building My First Vertical Slice](https://dev.to/cutieyunnytech/building-my-first-vertical-slice-1di7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
