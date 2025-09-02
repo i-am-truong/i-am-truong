@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a rich text editor using react and react-quill](https://dev.to/majid_ali_d798f5cf41b6a56/creating-a-rich-text-editor-using-react-and-react-quill-2kbk)
+- [Câu Lệnh switch-case trong Java | Hướng dẫn chi tiết](https://dev.to/javahighlight/cau-lenh-switch-case-trong-java-huong-dan-chi-tiet-j75)
+- [7 Powerful Open Source Alternatives to Zapier](https://dev.to/nocobase/7-powerful-open-source-alternatives-to-zapier-92g)
 - [AI-Assisted Development](https://dev.to/pascal_cescato_692b7a8a20/ai-assisted-development-3cd1)
-- [Angular Best Practices Every Developer Needs to Know](https://dev.to/bytebantz/angular-best-practices-every-developer-needs-to-know-39k0)
-- [Mobile Game Development and Sustainability: How the Industry is Going Green](https://dev.to/red_apple_technologies/mobile-game-development-and-sustainability-how-the-industry-is-going-green-3do3)
-- [🚨 The #1 Reason Most AI Projects Fail &lpar;and How to Fix It&rpar;](https://dev.to/utsavs26/the-1-reason-most-ai-projects-fail-and-how-to-fix-it-52c8)
-- [Optimizing Manufacturing Processes for Peak Performance](https://dev.to/sheba-kumari/optimizing-manufacturing-processes-for-peak-performance-2223)
+- [Tips I Learned While Working on React Native](https://dev.to/mutalibb/tips-i-learned-while-working-on-react-native-29kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
