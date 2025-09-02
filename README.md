@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Oxford’s New AI Optimizer Cuts Training Costs by 80% and Speeds Up 7x](https://dev.to/aiwithapex/oxfords-new-ai-optimizer-cuts-training-costs-by-80-and-speeds-up-7x-5cna)
+- [The Role of Infrastructure Automation in Cloud and Multi-Cloud Environments](https://dev.to/dhruvseo16/the-role-of-infrastructure-automation-in-cloud-and-multi-cloud-environments-19in)
 - [Mastering Access Tokens &amp; Refresh Tokens: From Origins to Modern Authentication](https://dev.to/yuktisays/mastering-access-tokens-refresh-tokens-from-origins-to-modern-authentication-5e3i)
 - [Flexbox Centering](https://dev.to/jyotiux/flexbox-centering-1a7a)
 - [How I Tuned Python to Analyze 1 Million Tweets in Real-Time with Apache Kafka and GPU NLP](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
-- [Why Every Developer &lpar;and Student&rpar; Should Master Git &amp; GitHub](https://dev.to/ivocreates/why-every-developer-and-student-should-master-git-github-23bh)
-- [After Audit 100 Dev agencies we find this 3 Mistakes which killing Dev agencies and also mention solutions](https://dev.to/pratham_naik_project_manager/after-audit-100-dev-agencies-we-find-this-3-mistakes-which-killing-dev-agencies-and-also-mention-4e21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
