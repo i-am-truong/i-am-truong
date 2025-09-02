@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t judge this version of the submission, but it was driving me insane that I didn&#39;t have time to actually finish the post that I had already spent so much time organizing and writing this past week. This is that version, check out how it really went!](https://dev.to/anchildress1/dont-judge-this-version-of-the-submission-but-it-was-driving-me-insane-that-i-didnt-have-time-to-56o6)
-- [Strands Agents in Action: Making AI Practical and Tool-Aware](https://dev.to/girishmukim/strands-agents-in-action-making-ai-practical-and-tool-aware-1fmi)
-- [I&#39;m not even sorry for this](https://dev.to/ramoyald/im-not-even-sorry-for-this-h1f)
-- [Deploy Static HTML/CSS Website to AWS S3 with CI/CD &lpar;GitHub Actions&rpar;](https://dev.to/techeazy_consulting/deploy-static-htmlcss-website-to-aws-s3-with-cicd-github-actions-2iec)
-- [Setup Django in Debian](https://dev.to/romulo_code/setup-django-in-debian-4aa2)
+- [AI-Enhanced Network Monitoring with Python: Detecting Anomalies Before They Become Threats](https://dev.to/jessica_taylor_57f692d5f6/ai-enhanced-network-monitoring-with-python-detecting-anomalies-before-they-become-threats-1686)
+- [Advanced Network Monitoring with Python: Detection, Scoring, and Visualization](https://dev.to/jessica_taylor_57f692d5f6/advanced-network-monitoring-with-python-detection-scoring-and-visualization-h40)
+- [Dynamic Routing Lightweight ETL with AWS Lambda, DuckDB, and PyIceberg](https://dev.to/aws-builders/dynamic-routing-lightweight-etl-with-aws-lambda-duckdb-and-pyiceberg-414)
+- [Automating Network Monitoring with Python: A Hands-On Example](https://dev.to/jessica_taylor_57f692d5f6/automating-network-monitoring-with-python-a-hands-on-example-53ba)
+- [テトリス Untitled](https://dev.to/_7848d33420a38c40d/tetorisu-untitled-449)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
