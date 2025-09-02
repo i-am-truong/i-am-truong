@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[agents.md] product/sprint-prioritizer](https://dev.to/joo0/agentsmd-productsprint-prioritizer-58m8)
-- [Check out this insane new photo editing model by Google. Just like its name, people are going bananas 🍌 https://youtube.com/shorts/K9f8VlzYIQw?si=6o4mR8oDd_mczs_Z](https://dev.to/codewithsimon/check-out-this-insane-new-photo-editing-model-by-google-just-like-its-name-people-are-going-51c4)
-- [Adding Dynamics 365 Users through Security Roles as Members](https://dev.to/nikhildynamicsce/adding-dynamics-365-users-through-security-roles-as-members-5hgi)
-- [Understanding select_related vs prefetch_related in Django](https://dev.to/highcenburg/understanding-selectrelated-vs-prefetchrelated-in-django-1d8e)
-- [Java String Contains Method Explained with Examples](https://dev.to/rishabhtpt/java-string-contains-method-explained-with-examples-2957)
+- [Understanding Kubernetes: part 59 – Kubernetes 1.34 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-59-kubernetes-134-changelog-4inc)
+- [Sorting an array](https://dev.to/shafiqbd/sorting-an-array-4286)
+- [Implementing A Minimal SSH Server in Go](https://dev.to/jodaut/implementing-a-minimal-ssh-server-in-go-3b2k)
+- [MCP for Customer Service: Integrating CRM with Chat](https://dev.to/om_shree_0709/mcp-for-customer-service-integrating-crm-with-chat-2l83)
+- [The Pull Request That Changed How I Think About Code](https://dev.to/leena_malhotra_355340d89c/the-pull-request-that-changed-how-i-think-about-code-54fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
