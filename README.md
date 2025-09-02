@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How AI Is Changing the Way I Prototype](https://dev.to/osmangunescizmeci/how-ai-is-changing-the-way-i-prototype-4c11)
 - [🚀 Week 1: Exploring Cloud Computing ☁️ — Getting Started with CloudWatch](https://dev.to/arishsingh99/week-1-exploring-cloud-computing-getting-started-with-cloudwatch-13np)
 - [How to Learn Faster Than 90% of Other New Developers](https://dev.to/beyond-code/how-to-learn-faster-than-90-of-other-new-developers-3bpe)
 - [Python vs PHP vs Go vs Node.js: Which Backend Should You Pick in 2025?](https://dev.to/samfrmd/python-vs-php-vs-go-vs-nodejs-which-backend-should-you-pick-in-2025-j2f)
 - [Eventual Consistency: The CRITICAL Data Loss Trap NO ONE Talks About!](https://dev.to/xuan_56087d315ff4f52254e6/eventual-consistency-the-critical-data-loss-trap-no-one-talks-about-2hon)
-- [IGN: Astro Bot - Official Joyful Limited Edition DualSense Controller Reveal Trailer](https://dev.to/gg_news/ign-astro-bot-official-joyful-limited-edition-dualsense-controller-reveal-trailer-3fhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
