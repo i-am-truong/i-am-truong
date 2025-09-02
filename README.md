@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Minecraft Agent with Gaia](https://dev.to/gaiaai/building-an-ai-powered-minecraft-agent-with-gaia-4afe)
-- [Сrypto chat or a payment system?](https://dev.to/martin_call/srypto-chat-or-a-payment-system-263k)
-- [Mastering Nx: The Complete Guide to Modern Monorepo Development](https://dev.to/mcheremnov/mastering-nx-the-complete-guide-to-modern-monorepo-development-5573)
-- [Beancount is Personal Finance for Developers](https://dev.to/paulsc/beancount-is-personal-finance-for-developers-5fad)
-- [What Is a Project Training Plan and Why It Matters](https://dev.to/writegenic/what-is-a-project-training-plan-and-why-it-matters-1fpm)
+- [The Silent Workforce: Building Event-Driven AI Agents That Work While You Sleep](https://dev.to/binyam/the-silent-workforce-building-event-driven-ai-agents-that-work-while-you-sleep-4d37)
+- [How to implement Dark and Light mode in Next.js, No need of frustration. Here&#39;s a detailed simple tutorial](https://dev.to/masterdevsabith/how-to-implement-dark-and-light-mode-in-nextjs-no-need-of-frustration-heres-a-detailed-simple-2823)
+- [Dark-Light Mode in Next Js](https://dev.to/masterdevsabith/dark-light-mode-in-next-js-1112)
+- [Smarter Summaries with Agentic AI: The Future of Summary Evaluation](https://dev.to/capestart/smarter-summaries-with-agentic-ai-the-future-of-summary-evaluation-lj6)
+- [Saga Pattern: When Theory Collides with Reality](https://dev.to/lowkey_dev_591/saga-pattern-when-theory-collides-with-reality-4enj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
