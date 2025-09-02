@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-1j5d)
+- [Building Smarter AI Applications: A Journey Through the LangChain Ecosystem](https://dev.to/suraj_kushwaha_009beb0a4a/building-smarter-ai-applications-a-journey-through-the-langchain-ecosystem-5edo)
+- [The Invisible Guardian: Securing Industrial Machine Tools with AI-Powered Adaptive Watermarks](https://dev.to/arvindsundararajan/the-invisible-guardian-securing-industrial-machine-tools-with-ai-powered-adaptive-watermarks-53gj)
 - [Forget Labels: AI Learns Continuously From Raw Video &lpar;and It&#39;s a Game Changer&rpar;](https://dev.to/arvindsundararajan/forget-labels-ai-learns-continuously-from-raw-video-and-its-a-game-changer-17mf)
 - [A Tiny KMP Connectivity Monitor &lpar;Android + iOS&rpar; — No Pods Required](https://dev.to/qandil_tariq_0e73fd980d58/a-tiny-kmp-connectivity-monitor-android-ios-no-pods-required-1hof)
-- [Unlock the Secrets of Unlabeled Videos: A Deep Dive into Zero-Effort AI Training](https://dev.to/arvindsundararajan/unlock-the-secrets-of-unlabeled-videos-a-deep-dive-into-zero-effort-ai-training-dgd)
-- [Ending z-index confusion, once and for all.](https://dev.to/marwanahmed/ending-z-index-confusion-once-and-for-all-5gje)
-- [This AI Technique Protects Industrial Robots from Hackers: You Won&#39;t Believe How!](https://dev.to/arvindsundararajan/this-ai-technique-protects-industrial-robots-from-hackers-you-wont-believe-how-42jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
