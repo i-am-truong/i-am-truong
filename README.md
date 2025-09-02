@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Oxford’s New AI Optimizer Cuts Training Costs by 80% and Speeds Up 7x](https://dev.to/aiwithapex/oxfords-new-ai-optimizer-cuts-training-costs-by-80-and-speeds-up-7x-5cna)
-- [The Role of Infrastructure Automation in Cloud and Multi-Cloud Environments](https://dev.to/dhruvseo16/the-role-of-infrastructure-automation-in-cloud-and-multi-cloud-environments-19in)
-- [Mastering Access Tokens &amp; Refresh Tokens: From Origins to Modern Authentication](https://dev.to/yuktisays/mastering-access-tokens-refresh-tokens-from-origins-to-modern-authentication-5e3i)
-- [Flexbox Centering](https://dev.to/jyotiux/flexbox-centering-1a7a)
-- [How I Tuned Python to Analyze 1 Million Tweets in Real-Time with Apache Kafka and GPU NLP](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
+- [[agents.md] product/sprint-prioritizer](https://dev.to/joo0/agentsmd-productsprint-prioritizer-58m8)
+- [Check out this insane new photo editing model by Google. Just like its name, people are going bananas 🍌 https://youtube.com/shorts/K9f8VlzYIQw?si=6o4mR8oDd_mczs_Z](https://dev.to/codewithsimon/check-out-this-insane-new-photo-editing-model-by-google-just-like-its-name-people-are-going-51c4)
+- [Adding Dynamics 365 Users through Security Roles as Members](https://dev.to/nikhildynamicsce/adding-dynamics-365-users-through-security-roles-as-members-5hgi)
+- [Understanding select_related vs prefetch_related in Django](https://dev.to/highcenburg/understanding-selectrelated-vs-prefetchrelated-in-django-1d8e)
+- [Java String Contains Method Explained with Examples](https://dev.to/rishabhtpt/java-string-contains-method-explained-with-examples-2957)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
