@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CMinesweeperD: A Classic Game Reimagined in Python](https://dev.to/touff97/cminesweeperd-a-classic-game-reimagined-in-python-1ngb)
-- [New here, trying to put myself out there more](https://dev.to/eduardoreyes007351208/new-here-trying-to-put-myself-out-there-more-aj9)
-- [Best Browsers for Android in 2025 | Speed, Privacy &amp; Features Compared](https://dev.to/morrismoses149/best-browsers-for-android-in-2025-speed-privacy-features-compared-5d0a)
-- [Mastering Database Interceptors in .NET Core Web API &lpar;Beginner to Hero&rpar;](https://dev.to/madusanka_bandara/mastering-database-interceptors-in-net-core-web-api-beginner-to-hero-18g8)
-- [Portfolio Madness](https://dev.to/masterdevsabith/portfolio-madness-2ke2)
+- [The Key to Successful AI Adoption](https://dev.to/talweezy/the-key-to-successful-ai-adoption-4f27)
+- [MCP on Rails](https://dev.to/sinaptia_dev/mcp-on-rails-5c0o)
+- [Confession: I, too, hate dark mode.](https://dev.to/jess/confession-i-too-hate-dark-mode-3agl)
+- [Simplify your code using Apps Script libraries and services](https://dev.to/googleworkspace/simplify-your-code-using-apps-script-libraries-and-services-4gma)
+- [[Boost]](https://dev.to/ben/-45a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
