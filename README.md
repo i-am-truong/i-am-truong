@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing Secrets in Ansible with Vault](https://dev.to/lovestaco/managing-secrets-in-ansible-with-vault-3481)
-- [How to Pass the AWS Solutions Architect Professional Certification Like a Real Pro](https://dev.to/aws-builders/how-to-pass-the-aws-solutions-architect-professional-certification-like-a-real-pro-3j0j)
-- [What is the Microsoft MVP Award and its benefits?](https://dev.to/sunny7899/what-is-the-microsoft-mvp-award-and-its-benefits-1i3d)
-- [Spring Boot Testing: A Comprehensive Best Practices Guide](https://dev.to/jungledev/spring-boot-testing-a-comprehensive-best-practices-guide-1do6)
-- [The Future of GRC: AI, Automation, and the Engineering Mindset](https://dev.to/doneal-grc/the-future-of-grc-ai-automation-and-the-engineering-mindset-22fn)
+- [MY new game i just made for school so i and you can play and have some fun and you can play at home](https://dev.to/redgamer4133/my-new-game-i-just-made-for-school-so-i-can-ply-and-have-some-fun-and-you-can-play-at-home-2nmd)
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-1dnm)
+- [Pixels, Tokens, and Grids: Speaking the Same Language in Design and Code](https://dev.to/message/pixels-tokens-and-grids-speaking-the-same-language-in-design-and-code-fc7)
+- [Which Should You Focus on for Placements: DSA or Development?](https://dev.to/avinash201199/which-should-you-focus-on-for-placements-dsa-or-development-4a7o)
+- [🚀 Building Stock Sage: Kiro + MCP = Smarter Stock Analysis](https://dev.to/aman_wadgaonkar_ce0b16ffc/building-stock-sage-kiro-mcp-smarter-stock-analysis-4ppb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
