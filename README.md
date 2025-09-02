@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhanced Detection System Configuration Guide](https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e)
+- [TensorRT Engine Model Fixes Implementation](https://dev.to/cag000/tensorrt-engine-model-fixes-implementation-296e)
+- [This is why your GitHub account could be reducing your chances of getting a job](https://dev.to/codenaveen/this-is-why-your-github-account-could-be-reducing-your-chances-of-getting-a-job-2hnk)
 - [Why Atomic Design and Component-Driven Development Are the Perfect Match 🧬](https://dev.to/tahamjp/why-atomic-design-and-component-driven-development-are-the-perfect-match-3ki3)
-- [Frontend 2025: Make It Fast, Keep It Simple](https://dev.to/vishdevwork/frontend-2025-make-it-fast-keep-it-simple-272f)
-- [Benefits of Having Paid Code Support](https://dev.to/githelpstories/benefits-of-having-paid-code-support-11g3)
-- [The Developer’s Guide to LLM Gateways: Building Scalable, Reliable AI Infrastructure with Maxim AI](https://dev.to/kuldeep_paul/the-developers-guide-to-llm-gateways-building-scalable-reliable-ai-infrastructure-with-maxim-ai-c8m)
-- [How to avoid &quot;Too many open files&quot; error in NodeJS](https://dev.to/zenulabidin/how-to-avoid-too-many-open-files-error-in-nodejs-2586)
+- [BeeAI Framework A2A Service Implementation Guide](https://dev.to/czmilo/beeai-framework-a2a-service-implementation-guide-45ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
