@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Are About to *Revolutionize* UI Automation: Prepare to Be Amazed!](https://dev.to/arvind_rajan/ai-agents-are-about-to-revolutionize-ui-automation-prepare-to-be-amazed-ig1)
+- [Cómo Aprobar el Examen de AWS Solutions Architect Professional Como un Verdadero Pro](https://dev.to/aws-espanol/como-aprobar-el-examen-de-aws-solutions-architect-professional-como-un-verdadero-pro-lf5)
+- [Marketing pour développeurs : La compétence que vous n&#39;apprenez pas en codant](https://dev.to/jmegnidro/marketing-pour-developpeurs-la-competence-que-vous-napprenez-pas-en-codant-k3g)
 - [OracleBootCamp : 6-September-2025 &lpar; Oracle Linux 9, ADW &amp; APEX &rpar;](https://dev.to/nabhaas/oraclebootcamp-6-september-2025-oracle-linux-9-adw-apex--4g3e)
 - [SuperMemory MCP: Universal AI Memory with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/mihir_bhadak/supermemory-mcp-universal-ai-memory-with-model-context-protocol-mcp-1dkg)
-- [Building for the Long Term: The Architecture Behind File Insights 🏗️](https://dev.to/vijay431/building-for-the-long-term-the-architecture-behind-file-insights-47pn)
-- [Fully functional REST Controller with one line in .Net](https://dev.to/wissance/fully-functional-rest-controller-with-one-line-in-net-2d1o)
+- [Promise in JavaScript](https://dev.to/dev_anantharul_1746a25af/promise-in-javascript-4a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
