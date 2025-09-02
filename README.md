@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Blueprint of a Data Team: Roles, Responsibilities, and Specializations](https://dev.to/andrey_s/the-blueprint-of-a-data-team-roles-responsibilities-and-specializations-5gk2)
+- [🛡️ September: Building Ransomware Resilience 🛡️](https://dev.to/amit_ambekar_c022e6732f8d/september-building-ransomware-resilience-463l)
+- [Building My First Vertical Slice](https://dev.to/cutieyunnytech/building-my-first-vertical-slice-1di7)
+- [Can CSPM Monitor Serverless And Container Environments?](https://dev.to/public_cloud/can-cspm-monitor-serverless-and-container-environments-197b)
 - [Why Angular 20 Selector-less Components Will Transform Your Development Workflow](https://dev.to/codewithrajat/why-angular-20-selector-less-components-will-transform-your-development-workflow-2edl)
-- [Excited to Join the dev.to Community!](https://dev.to/saikatmondal/excited-to-join-the-devto-community-1c1e)
-- [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
-- [The Ultimate Guide to HTTP Status Codes in REST APIs](https://dev.to/gianfcop98/the-ultimate-guide-to-http-status-codes-in-rest-apis-40cp)
-- [Midnight Shield: Protect That Data prompt](https://dev.to/muhammad_zeeshan_6499a22a/midnight-shield-protect-that-data-prompt-1pc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
