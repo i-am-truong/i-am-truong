@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev Experience: `doctrine:schema:update` still outputs sql, despite changes applied upon db](https://dev.to/pcmagas/dev-experience-doctrineschemaupdate-still-outputs-sql-despite-changes-applied-upon-db-3log)
+- [OCR and summarizer app](https://dev.to/crimsonkn1ght/ocr-and-summarizer-app-56o4)
 - [Hack The Box -Preignition Write-up &lpar;dir busting&rpar;](https://dev.to/er/hack-the-box-preignition-write-up-dir-busting-3eip)
+- [Eulerian Paths Explained: From Königsberg to Hierholzer’s Algorithm](https://dev.to/muhammad_taaha_90438c47f1/eulerian-paths-explained-from-konigsberg-to-hierholzers-algorithm-3p53)
 - [It&#39;s 2025. Is Anyone Still Using Python 2?](https://dev.to/lamri_abdellahramdane_15/its-2025-is-anyone-still-using-python-2-5d9f)
-- [🔐 Broken Access Control &lpar;BAC&rpar; – A Key OWASP Top 10 Vulnerability &lpar;2025 Edition 😎&rpar;](https://dev.to/keerthika_kadhiresan/broken-access-control-bac-a-key-owasp-top-10-vulnerability-2025-edition--4h17)
-- [Unlocking the Future of Development: Embracing the Power of AI Tools](https://dev.to/mikeover/unlocking-the-future-of-development-embracing-the-power-of-ai-tools-41jh)
-- [Stop Wrestling with Docker Compose - This CLI Spins Up Your Entire Dev Stack in Seconds](https://dev.to/aref/stop-wrestling-with-docker-compose-this-cli-spins-up-your-entire-dev-stack-in-seconds-3pjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
