@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Replace Your CMS with a Static Site Using Amazon Q CLI Chat](https://dev.to/psantus/how-to-replace-your-cms-with-a-static-site-using-amazon-q-cli-chat-nnd)
 - [I open-sourced sttrace.com&#39;s problemset](https://dev.to/gaurang_pawar_e9c0710cbe5/i-open-sourced-sttracecoms-problemset-4kj5)
 - [Real-Time AI at the Edge: Dynamically Updating Neural Networks on FPGAs by Arvind Sundararajan](https://dev.to/arvindsundararajan/real-time-ai-at-the-edge-dynamically-updating-neural-networks-on-fpgas-by-arvind-sundararajan-16ng)
 - [Real-Time AI: Dynamic Neural Nets on Edge Devices by Arvind Sundararajan](https://dev.to/arvindsundararajan/real-time-ai-dynamic-neural-nets-on-edge-devices-by-arvind-sundararajan-1fc1)
 - [Adam Savage&#39;s Tested: Adam Savage Washes a 157-Year-Old Newspaper at ⁨@NationalParkService⁩ Museum Conservation Lab](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-washes-a-157-year-old-newspaper-at-nationalparkservice-museum-2a36)
-- [Golf.com: GOLF Made in Florida: 48 Hours at Cabot Citrus Farms](https://dev.to/youtube_golf/golfcom-golf-made-in-florida-48-hours-at-cabot-citrus-farms-1075)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
