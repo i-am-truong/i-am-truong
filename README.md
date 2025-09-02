@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CMinesweeperD: A Classic Game Reimagined in Python](https://dev.to/touff97/cminesweeperd-a-classic-game-reimagined-in-python-1ngb)
+- [New here, trying to put myself out there more](https://dev.to/eduardoreyes007351208/new-here-trying-to-put-myself-out-there-more-aj9)
+- [Best Browsers for Android in 2025 | Speed, Privacy &amp; Features Compared](https://dev.to/morrismoses149/best-browsers-for-android-in-2025-speed-privacy-features-compared-5d0a)
 - [Mastering Database Interceptors in .NET Core Web API &lpar;Beginner to Hero&rpar;](https://dev.to/madusanka_bandara/mastering-database-interceptors-in-net-core-web-api-beginner-to-hero-18g8)
 - [Portfolio Madness](https://dev.to/masterdevsabith/portfolio-madness-2ke2)
-- [Polymorphism in java](https://dev.to/manoj_k_317ff8ceabf7e7524/polymorphism-in-java-no5)
-- [[Free + Open Source] Say Goodbye to Admin Apps: Make Your Django REST API Available to Claude/ChatGPT with a few lines of code](https://dev.to/zacharypodbela/free-open-source-say-goodbye-to-admin-apps-make-your-django-rest-api-available-to-1b9n)
-- [How to create a Flexible and Extensible Frontend Logging Solution](https://dev.to/ivonzhang/how-to-create-a-flexible-and-extensible-frontend-logging-solution-43i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
