@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Samantha Crain - Gumshoe &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-gumshoe-live-on-kexp-aag)
-- [KEXP: Samantha Crain - Dragonfly &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-dragonfly-live-on-kexp-p2l)
-- [KEXP: Samantha Crain - Dart &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-dart-live-on-kexp-1f32)
-- [KEXP: Samantha Crain - B-Attitudes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-b-attitudes-live-on-kexp-50dl)
-- [No Laying Up Podcast: Future of the PGA Tour + Team Europe Finalized | NLU Pod, Ep 1064](https://dev.to/youtube_golf/no-laying-up-podcast-future-of-the-pga-tour-team-europe-finalized-nlu-pod-ep-1064-1fpp)
+- [How to enable automatic upgrades for Azure Arc Agent &lpar;Public Preview&rpar;](https://dev.to/techielass/how-to-enable-automatic-upgrades-for-azure-arc-agent-public-preview-13pm)
+- [Difference Between Two Live Clock Codes in JavaScript](https://dev.to/megha_m/difference-between-two-live-clock-codes-in-javascript-1hen)
+- [Part-36: Mastering GCP Managed Instance Groups &lpar;Stateless&rpar;: Load Balancing, Autoscaling &amp; Canary Deployments](https://dev.to/latchudevops/part-36-mastering-gcp-managed-instance-groups-stateless-load-balancing-autoscaling-canary-3l68)
+- [🤖 RAG on AWS: Building an AI-powered Knowledge Base, with Amazon Bedrock and S3 Vectors](https://dev.to/aws-builders/rag-on-aws-building-an-ai-powered-knowledge-base-with-amazon-bedrock-and-s3-vectors-11kc)
+- [My VSCode-Inspired Portfolio, Feedback &amp; Inspiration Welcome!](https://dev.to/suhrobkholmurodov/my-vscode-inspired-portfolio-feedback-inspiration-welcome-2hpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
