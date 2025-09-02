@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/techboy1999/-35na)
 - [Building SSR with Vite: A Custom getStaticProps Replacement](https://dev.to/skeptrune/building-ssr-with-vite-a-custom-getstaticprops-replacement-gdd)
+- [How did I explain Agentic AI and MCP to my Kid](https://dev.to/gopi_ramanujam_4145a436a9/how-did-i-explain-agentic-ai-and-mcp-to-my-kid-b9b)
 - [Figma vs. Sketch: The Complete 2025 Guide for Web Developers](https://dev.to/daisy_jones_21bdcc6b40f9d/figma-vs-sketch-the-complete-2025-guide-for-web-developers-2267)
 - [From Pipelines to Product: My Journey from Data Engineer to Data Product Owner](https://dev.to/ntarzanos/from-pipelines-to-product-my-journey-from-data-engineer-to-data-product-owner-49fe)
-- [I built a simple todo app that actually gets out of your way](https://dev.to/saksham_solanki_d48fd8e39/i-built-a-simple-todo-app-that-actually-gets-out-of-your-way-665)
-- [We Audited 157 Dev Agencies: The 3 Traps That Wreck 89% of Them](https://dev.to/moeed_ul_hassan/we-audited-157-dev-agencies-the-3-traps-that-wreck-89-of-them-573)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
