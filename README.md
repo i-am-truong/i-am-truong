@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to enable automatic upgrades for Azure Arc Agent &lpar;Public Preview&rpar;](https://dev.to/techielass/how-to-enable-automatic-upgrades-for-azure-arc-agent-public-preview-13pm)
-- [Difference Between Two Live Clock Codes in JavaScript](https://dev.to/megha_m/difference-between-two-live-clock-codes-in-javascript-1hen)
-- [Part-36: Mastering GCP Managed Instance Groups &lpar;Stateless&rpar;: Load Balancing, Autoscaling &amp; Canary Deployments](https://dev.to/latchudevops/part-36-mastering-gcp-managed-instance-groups-stateless-load-balancing-autoscaling-canary-3l68)
-- [🤖 RAG on AWS: Building an AI-powered Knowledge Base, with Amazon Bedrock and S3 Vectors](https://dev.to/aws-builders/rag-on-aws-building-an-ai-powered-knowledge-base-with-amazon-bedrock-and-s3-vectors-11kc)
-- [My VSCode-Inspired Portfolio, Feedback &amp; Inspiration Welcome!](https://dev.to/suhrobkholmurodov/my-vscode-inspired-portfolio-feedback-inspiration-welcome-2hpd)
+- [Building SSR with Vite: A Custom getStaticProps Replacement](https://dev.to/skeptrune/building-ssr-with-vite-a-custom-getstaticprops-replacement-gdd)
+- [Figma vs. Sketch: The Complete 2025 Guide for Web Developers](https://dev.to/daisy_jones_21bdcc6b40f9d/figma-vs-sketch-the-complete-2025-guide-for-web-developers-2267)
+- [From Pipelines to Product: My Journey from Data Engineer to Data Product Owner](https://dev.to/ntarzanos/from-pipelines-to-product-my-journey-from-data-engineer-to-data-product-owner-49fe)
+- [I built a simple todo app that actually gets out of your way](https://dev.to/saksham_solanki_d48fd8e39/i-built-a-simple-todo-app-that-actually-gets-out-of-your-way-665)
+- [We Audited 157 Dev Agencies: The 3 Traps That Wreck 89% of Them](https://dev.to/moeed_ul_hassan/we-audited-157-dev-agencies-the-3-traps-that-wreck-89-of-them-573)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
