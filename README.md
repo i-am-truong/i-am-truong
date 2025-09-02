@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mobile Game Development and Sustainability: How the Industry is Going Green](https://dev.to/red_apple_technologies/mobile-game-development-and-sustainability-how-the-industry-is-going-green-3do3)
 - [🚨 The #1 Reason Most AI Projects Fail &lpar;and How to Fix It&rpar;](https://dev.to/utsavs26/the-1-reason-most-ai-projects-fail-and-how-to-fix-it-52c8)
+- [Optimizing Manufacturing Processes for Peak Performance](https://dev.to/sheba-kumari/optimizing-manufacturing-processes-for-peak-performance-2223)
 - [Building React Apps with Bun: A Modern Development Experience](https://dev.to/pmbanugo/building-react-apps-with-bun-a-modern-development-experience-3gn2)
 - [Data Extraction in Automated Workflows: The Competitive Edge](https://dev.to/alifar/data-extraction-in-automated-workflows-the-competitive-edge-5c5i)
-- [GPT-5 vs GPT-4: Why Awareness Beats Accuracy](https://dev.to/dev-rashedin/gpt-5-vs-gpt-4-why-awareness-beats-accuracy-348m)
-- [AI-Powered SEO Strategies for WordPress: Staying Ahead in Search Rankings](https://dev.to/addwebsolutionpvtltd/ai-powered-seo-strategies-for-wordpress-staying-ahead-in-search-rankings-55gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
