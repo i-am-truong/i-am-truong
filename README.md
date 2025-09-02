@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Walking the DNS Tree: From Root Zone to Your Website](https://dev.to/naval_kishorupadhyay_3e9/walking-the-dns-tree-from-root-zone-to-your-website-5ce7)
-- [🚀 Build a ☸️ Kubernetes ☸️ SRE Agent in Just Ten Minutes! ⏱️⚡](https://dev.to/lukehinds/build-a-kubernetes-sre-agent-in-just-ten-minutes-ke4)
-- [Web Performance Is Revenue: Join Me for the Vercel Community AMA](https://dev.to/sip/web-performance-is-revenue-join-me-for-the-vercel-community-ama-3enc)
-- [@media &lpar;768px &lt; width &lt;= 1024px&rpar; - 92% support &lpar;Media Queries Range Syntax&rpar;](https://dev.to/avcat/media-queries-range-syntax-92-support-768px-width-1024px-o5k)
-- [How I Built Tab Panels to Solve My 100+ Browser Tab Problem](https://dev.to/lu_xiao_bfa77a98b4b2ad851/how-i-built-tab-panels-to-solve-my-100-browser-tab-problem-1p97)
+- [7 AI trends in mobile app development](https://dev.to/dmitry_chaton/7-ai-trends-in-mobile-app-development-3a8p)
+- [L&#39;Arsenal du Data Analyst en 2025 : Maîtriser les Outils, les Données et les Tendances pour se démarquer](https://dev.to/moubarakmohame4/larsenal-du-data-analyst-en-2025-maitriser-les-outils-les-donnees-et-les-tendances-pour-se-4lb0)
+- [The State Pattern in Python...](https://dev.to/sommukhopadhyay/the-state-pattern-in-python-205)
+- [How to Recover SQL Server Database After Backup Corruption](https://dev.to/nisargupadhyay87/how-to-recover-sql-server-database-after-backup-corruption-46i6)
+- [My Android AsyncTask implementation vis-a-vis Command Pattern...](https://dev.to/sommukhopadhyay/my-android-asynctask-implementation-vis-a-vis-command-pattern-3g0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
