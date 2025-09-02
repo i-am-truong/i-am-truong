@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to run services locally with no fuss using spring-boot-docker-compose](https://dev.to/migrosonline/how-to-run-services-locally-with-no-fuss-using-spring-boot-docker-compose-4nhb)
-- [cheating code for post authentication](https://dev.to/junoh_lee_c30c3d7b6800e0/cheating-code-for-post-authentication-1f3b)
-- [👋 Hi everyone, I’m Jubril. A Bubble.io full-stack developer with experience building apps. I’m also an AWS Certified Cloud Practitioner and currently on the track to becoming a Solutions Architect. Excited to connect, learn, and collaborate with you all!](https://dev.to/jubril_toheeb_61be96fe443/hi-everyone-im-jubril-a-bubbleio-full-stack-developer-with-experience-building-apps-im-also-5bld)
-- [Is AI Marketing Replacing Classic SEO? A Real Comparison](https://dev.to/andrei_saioc_b41f2371c22b/is-ai-marketing-replacing-classic-seo-a-real-comparison-2lj)
-- [[agents.md] product/feedback-synthesizer](https://dev.to/joo0/agentsmd-productfeedback-synthesizer-149)
+- [A Basic Form Order in Juris](https://dev.to/artyprog/a-basic-form-order-in-juris-47he)
+- [Concurrent Programming in Android - Part II](https://dev.to/sommukhopadhyay/concurrent-programming-in-android-part-ii-7io)
+- [Why You Shouldn’t Ignore Early-Stage Projects](https://dev.to/mkzaman58/why-you-shouldnt-ignore-early-stage-projects-5bgp)
+- [How Solana Token Development Bridges Blockchain and Real-World Assets](https://dev.to/glenn_phillips_fe2122fd39/how-solana-token-development-bridges-blockchain-and-real-world-assets-3h6c)
+- [How to Choose the Right Open-Source Headless CMS for Your Project](https://dev.to/hardeepsingh01/how-to-choose-the-right-open-source-headless-cms-for-your-project-2in1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
