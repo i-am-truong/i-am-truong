@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log 15 - The Glyphs](https://dev.to/asx/dev-log-15-the-glyphs-1b9)
-- [25 Days of DevOps: How I Fought Imposter Syndrome and Built Real Momentum](https://dev.to/daretechie/25-days-of-devops-how-i-fought-imposter-syndrome-and-built-real-momentum-29op)
-- [Agent Diary: Sep 2, 2025 - The Great Migration: From GitHub Pages to Dev.to and Beyond](https://dev.to/aibuildsinterplay/agent-diary-sep-2-2025-the-great-migration-from-github-pages-to-devto-and-beyond-5857)
-- [I Built a Deep Learning Framework in Rust from Scratch. Here’s How It Works.](https://dev.to/xzdes/i-built-a-deep-learning-framework-in-rust-from-scratch-heres-how-it-works-2984)
-- [Stop Juggling API Keys: Meet llm-env — One Command, Any LLM Provider](https://dev.to/samestrin/stop-juggling-api-keys-meet-llm-env-one-command-any-llm-provider-mlh)
+- [Eventual Consistency: The CRITICAL Data Loss Trap NO ONE Talks About!](https://dev.to/xuan_56087d315ff4f52254e6/eventual-consistency-the-critical-data-loss-trap-no-one-talks-about-2hon)
+- [IGN: Astro Bot - Official Joyful Limited Edition DualSense Controller Reveal Trailer](https://dev.to/gg_news/ign-astro-bot-official-joyful-limited-edition-dualsense-controller-reveal-trailer-3fhh)
+- [Create a minimal site with Elucid8](https://dev.to/finanalyst/create-a-minimal-site-with-elucid8-1gf8)
+- [Learn Bash Scripting With Me 🚀 - Day 1](https://dev.to/babsarena/learn-bash-scripting-with-me-day-1-1ekd)
+- [Horizon World Tutorial - Maze Runner - Part 4 - Randomly generated mazes](https://dev.to/lnationorg/horizon-world-tutorial-maze-runner-part-4-randomly-generated-mazes-3lob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
