@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Started with Next js](https://dev.to/imrancodes/started-with-next-js-5147)
 - [Python ile basit bir MCP Sunucu-İstemci örneği](https://dev.to/aciklab/python-ile-basit-bir-mcp-sunucu-istemci-ornegi-7a8)
+- [Day 41: Setting up and Application Load Balancer with AWS EC2](https://dev.to/udoh_deborah_b1e484c474bf/day-41-setting-up-and-application-load-balancer-with-aws-ec2-28hm)
 - [Why AI Giants Are Chasing Cursor’s Developer Data in the $47B Agentic AI Race](https://dev.to/alifar/why-ai-giants-are-chasing-cursors-developer-data-in-the-47b-agentic-ai-race-im5)
 - [The Art of Hacky Code: From Clean to Compressed Through AI Prompting](https://dev.to/mdabir1203/the-art-of-hacky-code-from-clean-to-compressed-through-ai-prompting-48i5)
-- [Hello world!](https://dev.to/jimmybillz/hello-world-5gcn)
-- [cursor + openai codex: quick wins, quick fails &lpar;this week&rpar;](https://dev.to/prkskrs/cursor-openai-codex-quick-wins-quick-fails-this-week-1e5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
