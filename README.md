@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dev Experience: `doctrine:schema:update` still outputs sql, despite changes applied upon db](https://dev.to/pcmagas/dev-experience-doctrineschemaupdate-still-outputs-sql-despite-changes-applied-upon-db-3log)
-- [OCR and summarizer app](https://dev.to/crimsonkn1ght/ocr-and-summarizer-app-56o4)
-- [Hack The Box -Preignition Write-up &lpar;dir busting&rpar;](https://dev.to/er/hack-the-box-preignition-write-up-dir-busting-3eip)
-- [Eulerian Paths Explained: From Königsberg to Hierholzer’s Algorithm](https://dev.to/muhammad_taaha_90438c47f1/eulerian-paths-explained-from-konigsberg-to-hierholzers-algorithm-3p53)
-- [It&#39;s 2025. Is Anyone Still Using Python 2?](https://dev.to/lamri_abdellahramdane_15/its-2025-is-anyone-still-using-python-2-5d9f)
+- [What is the Microsoft MVP Award and its benefits?](https://dev.to/sunny7899/what-is-the-microsoft-mvp-award-and-its-benefits-1i3d)
+- [Spring Boot Testing: A Comprehensive Best Practices Guide](https://dev.to/jungledev/spring-boot-testing-a-comprehensive-best-practices-guide-1do6)
+- [The Future of GRC: AI, Automation, and the Engineering Mindset](https://dev.to/doneal-grc/the-future-of-grc-ai-automation-and-the-engineering-mindset-22fn)
+- [GitHub Stars program](https://dev.to/sunny7899/github-stars-program-2bg2)
+- [Passwordless logins with magic links using Next.js 15 &amp; Scalekit](https://dev.to/saif_shines/passwordless-logins-with-magic-links-using-nextjs-15-scalekit-1i0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
