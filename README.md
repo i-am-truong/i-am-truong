@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Final Fantasy Tactics - The Ivalice Chronicles Hands on Impressions](https://dev.to/gg_news/gamespot-final-fantasy-tactics-the-ivalice-chronicles-hands-on-impressions-2p72)
-- [IGN: Helldivers 2 - Official &#39;Into the Unjust&#39; Update Launch Trailer](https://dev.to/gg_news/ign-helldivers-2-official-into-the-unjust-update-launch-trailer-5dd0)
-- [Reliable Puppeteer Container Setup for PDF Generation](https://dev.to/cordlesswool/reliable-puppeteer-container-setup-for-pdf-generation-198h)
-- [Datadog, Reframed: A Simple Way to Think About Agents, Pipelines, Indexes, and More](https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-agents-pipelines-indexes-and-more-1nfj)
-- [Compile-Time and Runtime Polymorphism in Java](https://dev.to/arun_kumar_98/compile-time-and-runtime-polymorphism-in-java-1bch)
+- [🚀 Web Workers in Angular: Boost App Performance by Offloading Heavy Tasks](https://dev.to/rohit_singh_ee84e64941db7/web-workers-in-angular-boost-app-performance-by-offloading-heavy-tasks-3dk0)
+- [Orbot for Android: Secure Your Traffic with Tor](https://dev.to/byteknight/orbot-for-android-secure-your-traffic-with-tor-mfa)
+- [All Data and AI Weekly #205: 01 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-205-01-sept-2025-5002)
+- [Collaborative Pre-Merge Testing for Multi-PR Features](https://dev.to/signadot/collaborative-pre-merge-testing-for-multi-pr-features-2l3p)
+- [🖌️ Contrastly — Instantly Check Tailwind Colors Against WCAG AA/AAA](https://dev.to/yokoworks/contrastly-instantly-check-tailwind-colors-against-wcag-aaaaa-1ko7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
