@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Secrets of Unlabeled Videos: A Deep Dive into Zero-Effort AI Training](https://dev.to/arvind_rajan/unlock-the-secrets-of-unlabeled-videos-a-deep-dive-into-zero-effort-ai-training-dgd)
+- [Forget Labels: AI Learns Continuously From Raw Video &lpar;and It&#39;s a Game Changer&rpar;](https://dev.to/arvindsundararajan/forget-labels-ai-learns-continuously-from-raw-video-and-its-a-game-changer-17mf)
+- [A Tiny KMP Connectivity Monitor &lpar;Android + iOS&rpar; — No Pods Required](https://dev.to/qandil_tariq_0e73fd980d58/a-tiny-kmp-connectivity-monitor-android-ios-no-pods-required-1hof)
+- [Unlock the Secrets of Unlabeled Videos: A Deep Dive into Zero-Effort AI Training](https://dev.to/arvindsundararajan/unlock-the-secrets-of-unlabeled-videos-a-deep-dive-into-zero-effort-ai-training-dgd)
 - [Ending z-index confusion, once and for all.](https://dev.to/marwanahmed/ending-z-index-confusion-once-and-for-all-5gje)
-- [This AI Technique Protects Industrial Robots from Hackers: You Won&#39;t Believe How!](https://dev.to/arvind_rajan/this-ai-technique-protects-industrial-robots-from-hackers-you-wont-believe-how-42jk)
-- [From Writing Code to Reviewing AI: The Developer’s Role in 2025](https://dev.to/arkhan/from-writing-code-to-reviewing-ai-the-developers-role-in-2025-5oj)
-- [Como construí um pipeline CI/CD com GitHub Actions, Docker e Terraform &lpar;e o que aprendi no caminho&rpar;](https://dev.to/marcos_vile/como-construi-um-pipeline-cicd-com-github-actions-docker-e-terraform-e-o-que-aprendi-no-caminho-1pi1)
+- [This AI Technique Protects Industrial Robots from Hackers: You Won&#39;t Believe How!](https://dev.to/arvindsundararajan/this-ai-technique-protects-industrial-robots-from-hackers-you-wont-believe-how-42jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
