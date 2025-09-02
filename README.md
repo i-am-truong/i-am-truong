@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Technical Deep Dive: The Internals of Database Storage 🔬](https://dev.to/abhivyaktii/a-technical-deep-dive-the-science-of-database-storage-2bbp)
-- [🚀 Streaming in Node.js: A Complete Guide with Examples](https://dev.to/rohit_singh_ee84e64941db7/streaming-in-nodejs-a-complete-guide-with-examples-2k2b)
-- [🚀 Web Workers in Angular: Boost App Performance by Offloading Heavy Tasks](https://dev.to/rohit_singh_ee84e64941db7/web-workers-in-angular-boost-app-performance-by-offloading-heavy-tasks-3dk0)
-- [Orbot for Android: Secure Your Traffic with Tor](https://dev.to/byteknight/orbot-for-android-secure-your-traffic-with-tor-mfa)
-- [All Data and AI Weekly #205: 01 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-205-01-sept-2025-5002)
+- [Part 3: How to Fix Your GPU Utilization](https://dev.to/shohams/part-3-how-to-fix-your-gpu-utilization-52d4)
+- [How AWS DevOps Can 10x Your Shipping Speed and Turbocharge Team Growth](https://dev.to/heyjoshlee/how-aws-devops-can-10x-your-shipping-speed-and-turbocharge-team-growth-5f8g)
+- [a complete CI/CD learning project for DevOps beginners!](https://dev.to/mohamedelaassal/a-complete-cicd-learning-project-for-devops-beginners-52g7)
+- [Top 6 MySQL Database Management Struggles for Laravel Developers &lpar;And Smart Fixes&rpar;](https://dev.to/drupaladmin/top-6-mysql-database-management-struggles-for-laravel-developers-and-smart-fixes-37cg)
+- [Introduction to Server in Backend Development](https://dev.to/shifa_2/introduction-to-server-in-backend-development-3hkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
