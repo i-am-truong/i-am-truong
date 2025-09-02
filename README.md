@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Enhanced Detection System Configuration Guide](https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e)
-- [TensorRT Engine Model Fixes Implementation](https://dev.to/cag000/tensorrt-engine-model-fixes-implementation-296e)
-- [This is why your GitHub account could be reducing your chances of getting a job](https://dev.to/codenaveen/this-is-why-your-github-account-could-be-reducing-your-chances-of-getting-a-job-2hnk)
-- [Why Atomic Design and Component-Driven Development Are the Perfect Match 🧬](https://dev.to/tahamjp/why-atomic-design-and-component-driven-development-are-the-perfect-match-3ki3)
-- [BeeAI Framework A2A Service Implementation Guide](https://dev.to/czmilo/beeai-framework-a2a-service-implementation-guide-45ag)
+- [Building an AI-Powered Minecraft Agent with Gaia](https://dev.to/gaiaai/building-an-ai-powered-minecraft-agent-with-gaia-4afe)
+- [Сrypto chat or a payment system?](https://dev.to/martin_call/srypto-chat-or-a-payment-system-263k)
+- [Mastering Nx: The Complete Guide to Modern Monorepo Development](https://dev.to/mcheremnov/mastering-nx-the-complete-guide-to-modern-monorepo-development-5573)
+- [Beancount is Personal Finance for Developers](https://dev.to/paulsc/beancount-is-personal-finance-for-developers-5fad)
+- [What Is a Project Training Plan and Why It Matters](https://dev.to/writegenic/what-is-a-project-training-plan-and-why-it-matters-1fpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
