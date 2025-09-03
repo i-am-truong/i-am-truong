@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Workload Communication with Azure Private DNS Zones](https://dev.to/peter_samuel_052b9056e236/simplifying-workload-communication-with-azure-private-dns-zones-5fo2)
-- [Full screen POC](https://dev.to/ben/full-screen-poc-4he7)
-- [Refactor Smart Today, Move Faster Tomorrow — Part 2: Plan Your Refactor Step by Step](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-2-plan-your-refactor-step-by-step-1021)
-- [The Magic Behind the User Experience: File Insights Features Deep-Dive 🪄](https://dev.to/vijay431/the-magic-behind-the-user-experience-file-insights-features-deep-dive-109k)
-- [Unlocking Android Bootloader and Flashing GSI: A Complete Guide for Motorola Edge 40 Neo](https://dev.to/gamedev90/unlocking-android-bootloader-and-flashing-gsi-a-complete-guide-for-motorola-edge-40-neo-595m)
+- [Small Resource Server &amp; Symfony Client Bundle](https://dev.to/sebk69/small-resource-server-symfony-client-bundle-1481)
+- [Amazon Bedrock AgentCore Runtime - Part 3 AgentCore Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-3-agentcore-observability-f08)
+- [How I Built a Free Google News Sitemap Generator Plugin for WordPress &lpar;with Full Code&rpar;](https://dev.to/harshitkumar/how-i-built-a-free-google-news-sitemap-generator-plugin-for-wordpress-with-full-code-41ip)
+- [Simple Cloud Security Tips for Startups](https://dev.to/heyjoshlee/simple-cloud-security-tips-for-startups-3nlm)
+- [Enriching Learning Session ✨](https://dev.to/aruna_arun_0cda4eb425bb0f/enriching-learning-session-16od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
