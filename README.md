@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Open-Sourced My Multi-Agent Orchestration Framework &lpar;94% Lower API Costs&rpar;](https://dev.to/dpelleri/i-open-sourced-my-multi-agent-orchestration-framework-94-lower-api-costs-9ld)
+- [Why We Built Raff Technologies: The Idea and Vision Behind It The Starting Point](https://dev.to/batuhan_esirger/why-we-built-raff-technologies-the-idea-and-vision-behind-itthe-starting-point-hg6)
+- [Python&#39;s Walrus Operator &lpar;:=&rpar;: Write Cleaner, But Always Readable, Code](https://dev.to/aaron_rose_0787cc8b4775a0/pythons-walrus-operator-write-cleaner-but-always-readable-code-4jcp)
+- [From Raw Data to HR Insights: My Journey Through Python-Powered Analytics](https://dev.to/kamaumbuguadev/from-raw-data-to-hr-insights-my-journey-through-python-powered-analytics-n8k)
 - [Small Resource Server &amp; Symfony Client Bundle](https://dev.to/sebk69/small-resource-server-symfony-client-bundle-1481)
-- [Amazon Bedrock AgentCore Runtime - Part 3 AgentCore Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-3-agentcore-observability-f08)
-- [How I Built a Free Google News Sitemap Generator Plugin for WordPress &lpar;with Full Code&rpar;](https://dev.to/harshitkumar/how-i-built-a-free-google-news-sitemap-generator-plugin-for-wordpress-with-full-code-41ip)
-- [Simple Cloud Security Tips for Startups](https://dev.to/heyjoshlee/simple-cloud-security-tips-for-startups-3nlm)
-- [Enriching Learning Session ✨](https://dev.to/aruna_arun_0cda4eb425bb0f/enriching-learning-session-16od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
