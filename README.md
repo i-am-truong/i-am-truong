@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Tropical Fuck Storm - You Let My Tyres Down &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-you-let-my-tyres-down-live-on-kexp-1k2m)
-- [KEXP: Tropical Fuck Storm - Braindrops &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-braindrops-live-on-kexp-232b)
-- [KEXP: Tropical Fuck Storm - Irukandji Syndrome &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-irukandji-syndrome-live-on-kexp-2ecm)
-- [KEXP: Tropical Fuck Storm - Bloodsport &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-bloodsport-live-on-kexp-2k6n)
-- [The 67-Second OpenTelemetry Problem](https://dev.to/itay_from_lawrence/the-67-second-opentelemetry-problem-e0b)
+- [Git Cheat Sheat - Definitivo!](https://dev.to/jacksonemmerich/git-cheat-sheat-definitivo-3bjl)
+- [Running an AGV Order Manager on Serverless — A Dream I Once Had](https://dev.to/mohammedismaeel/running-an-agv-order-manager-on-serverless-a-dream-i-once-had-1ecc)
+- [I Put Claude AI in Jail](https://dev.to/guypowell/i-put-claude-ai-in-jail-h0f)
+- [How Netflix Streams Millions of Videos Instantly](https://dev.to/hprakash1999/how-netflix-streams-millions-of-videos-instantly-341f)
+- [Beyond Certainty: Building Wiser AI with Fuzzy Confidence Logic by Arvind Sundararajan](https://dev.to/arvindsundararajan/beyond-certainty-building-wiser-ai-with-fuzzy-confidence-logic-by-arvind-sundararajan-41d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
