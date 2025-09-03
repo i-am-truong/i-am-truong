@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi-NIC in Linux: What They Are, Why They Exist, and How Traffic Flows](https://dev.to/naval_kishorupadhyay_2493/multi-nic-in-linux-what-they-are-why-they-exist-and-how-traffic-flows-2dpk)
+- [The One-Letter Rails Bug That Slipped Past Rubocop, CI, and Code Reviews](https://dev.to/madhuhari188/the-one-letter-rails-bug-that-slipped-past-rubocop-ci-and-code-reviews-12im)
+- [HAVING Condition Pushdown: Optimizing Query Performance](https://dev.to/sqlflash1024/having-condition-pushdown-optimizing-query-performance-4lhk)
 - [Create Stunning AI Animations in 2025 with Textideo](https://dev.to/ethan_parkx_09fc0c31cddf/create-stunning-ai-animations-in-2025-with-textideo-pca)
 - [The Complete Quality Engineering Roadmap](https://dev.to/idavidov13/the-complete-quality-engineering-roadmap-5ec5)
-- [[Boost]](https://dev.to/hadil/-577n)
-- [Setting up husky and lint-staged for Next.js](https://dev.to/ali-raza-fa22/setting-up-husky-and-lint-staged-for-nextjs-38ji)
-- [Translation vs. Localization: What&#39;s the Difference?](https://dev.to/elenahartmann/translation-vs-localization-whats-the-difference-5e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
