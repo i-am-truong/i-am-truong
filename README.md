@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Perplexity AI and Its Rivals Are Redefining Marketing Workflows](https://dev.to/onlineproxy/how-perplexity-ai-and-its-rivals-are-redefining-marketing-workflows-224)
+- [How to Build a Powerful WordPress Directory with Custom Fields and Advanced Search](https://dev.to/n9ka/how-to-build-a-powerful-wordpress-directory-with-custom-fields-and-advanced-search-5712)
+- [🧠 Mastering Power FX Data Functions: FILTER vs SEARCH vs LOOKUP](https://dev.to/milan_parikh_f9c399697690/mastering-power-fx-data-functions-filter-vs-search-vs-lookup-271g)
 - [Linux Automated User Creation - Bash Script](https://dev.to/jic/linux-automated-user-creation-bash-script-12l3)
 - [Slash Your Firebase Costs: A Real-World Guide to Caching in Next.js](https://dev.to/n9ka/slash-your-firebase-costs-a-real-world-guide-to-caching-in-nextjs-ee4)
-- [Unlock Network Insights: AI-Powered Observability on a Shoestring by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlock-network-insights-ai-powered-observability-on-a-shoestring-by-arvind-sundararajan-5a3i)
-- [Servidor de Factorio 100% declarativo com NixOS e Terraform no Magalu Cloud](https://dev.to/magalucloud/servidor-de-factorio-100-declarativo-com-nixos-e-terraform-no-magalu-cloud-3f37)
-- [Learning Javascript](https://dev.to/chirag_sharma2005/learning-javascript-47m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
