@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Oracle Database 23ai: Key Features and MCP Integration](https://dev.to/dinesh_marimuthu_659d25d6/oracle-database-23ai-key-features-and-mcp-integration-3bk6)
-- [🚀 Introducing AI-DBUG](https://dev.to/workwithnk/introducing-ai-dbug-21p0)
-- [Menjalankan Laravel Queue di cPanel Menggunakan Cronjob](https://dev.to/app_zain_444423744db73517/menjalankan-laravel-queue-di-cpanel-menggunakan-cronjob-39cl)
-- [File Upload in Laravel – Step by Step Guide for Beginners](https://dev.to/rohitdhiman/file-upload-in-laravel-step-by-step-guide-for-beginners-1h04)
-- [Svelte Reactivity Explained: How Your UI Updates Automatically](https://dev.to/a1guy/svelte-reactivity-explained-how-your-ui-updates-automatically-4l2m)
+- [How I Learned to Stop Worrying and Love Raw Events, Event Sourcing &amp; CQRS with FastAPI and Celery](https://dev.to/markoulis/how-i-learned-to-stop-worrying-and-love-raw-events-event-sourcing-cqrs-with-fastapi-and-celery-477e)
+- [OCI-MCP Integration: Connecting Oracle Cloud with AI](https://dev.to/dinesh_marimuthu_659d25d6/oci-mcp-integration-connecting-oracle-cloud-with-ai-35jl)
+- [Arduino Project 05](https://dev.to/cecilionavarro/arduino-project-05-5ebg)
+- [Clean &amp; Minimal User Registration](https://dev.to/s1tara/clean-minimal-user-registration-342i)
+- [Study: 89% of Dev Agencies Use the Wrong Pricing Model &lpar;Data from 500+ Agencies&rpar;](https://dev.to/teamcamp/study-89-of-dev-agencies-use-the-wrong-pricing-model-data-from-500-agencies-5112)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
