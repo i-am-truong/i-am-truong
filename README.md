@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous Rust 🦀 - RustConf 2025 | Day 1](https://dev.to/darkosubotica/asynchronous-rust-rustconf-2025-day-1-141n)
+- [Python vs JavaScript: Speed, Sorting, and Performance Compared](https://dev.to/mcheremnov/python-vs-javascript-speed-sorting-and-performance-compared-405)
+- [day1 low level question](https://dev.to/swetha_palani_1547914a082/day1-low-level-question-3a2b)
 - [Setting Up Your Full-Stack Environment with Next.js, Prisma &amp; PostgreSQL](https://dev.to/nandini_pahuja/setting-up-your-full-stack-environment-with-nextjs-prisma-postgresql-lie)
 - [TypeScript Best Practices in Large Codebases](https://dev.to/srini_k/typescript-best-practices-in-large-codebases-58kc)
-- [How to Create Awesome Documentation in n8n](https://dev.to/youvandraf/how-to-create-well-documentation-in-n8n-2c3o)
-- [Day 83: When Your Team Becomes Your Biggest Bug](https://dev.to/casperday11/day-83-when-your-team-becomes-your-biggest-bug-1d5e)
-- [How I Learned to Stop Worrying and Love Raw Events, Event Sourcing &amp; CQRS with FastAPI and Celery](https://dev.to/markoulis/how-i-learned-to-stop-worrying-and-love-raw-events-event-sourcing-cqrs-with-fastapi-and-celery-477e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
