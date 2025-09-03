@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Aula Informática compartida, eficiente y centralizada con Linux](https://dev.to/arcadio_ortega/aula-informatica-compartida-eficiente-y-centralizada-con-linux-425e)
-- [Node-RED Kubernetes Deployment &amp; Password Management Guide](https://dev.to/durrello/node-red-kubernetes-deployment-password-management-guide-1doj)
-- [Secure Coding guidelines](https://dev.to/hectorw_tt/secure-coding-guidelines-9kb)
-- [In-Depth Java Stack Exploration: From Legacy to Modern Implementation](https://dev.to/numan/in-depth-java-stack-exploration-from-legacy-to-modern-implementation-5b5b)
-- [Apostrophe 4.21.0: Effortless Image Uploads and Strategic Platform Enhancements](https://dev.to/apostrophetechnologies/apostrophe-4210-effortless-image-uploads-and-strategic-platform-enhancements-33m5)
+- [Patch Management vs Vulnerability Management: Why the Difference Matters](https://dev.to/spektion/patch-management-vs-vulnerability-management-why-the-difference-matters-14nb)
+- [Enclave Games Monthly Report: August 2025](https://dev.to/end3r/enclave-games-monthly-report-august-2025-348l)
+- [Lessons Learned from Shipping My Third Startup: [bistroai.cc]](https://dev.to/araldhafeeri/lessons-learned-from-shipping-my-third-startup-bistroaicc-bah)
+- [Subdirectory &lpar;Relative URL&rpar;](https://dev.to/agussudarmanto/subdirectory-relative-url-3fl5)
+- [Do you really need a landing zone?](https://dev.to/tidjani/do-you-really-need-a-landing-zone-1p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
