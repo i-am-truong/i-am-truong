@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Semantic HTML: Boosting SEO and Accessibility in Modern Web Development](https://dev.to/catherine_njunu_ce4166fd7/semantic-html-boosting-seo-and-accessibility-in-modern-web-development-1lkp)
 - [Hello Cybersecurity World! My Journey into Ethical Hacking👋](https://dev.to/tanya_bhardwaj20/hello-cybersecurity-world-my-journey-into-ethical-hacking-1261)
 - [Best platform to learn React: What helped me move beyond tutorials](https://dev.to/stack_overflowed/best-platform-to-learn-react-what-helped-me-move-beyond-tutorials-aik)
 - [Enhancing FHIR EpisodeOfCare Resources: Improving Interoperability and Performance](https://dev.to/budiwidhiyanto/enhancing-fhir-episodeofcare-resources-improving-interoperability-and-performance-4cnd)
 - [Building Interactive CLI Applications with Node.js: A Beginner&#39;s Guide](https://dev.to/blamsa0mine/building-interactive-cli-applications-with-nodejs-a-beginners-guide-22kb)
-- [Rethinking LLM-Powered Apps: Ditching Tool Overload for Smarter Query Abstraction](https://dev.to/saravanan_ramupillai/rethinking-llm-powered-apps-ditching-tool-overload-for-smarter-query-abstraction-1aan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
