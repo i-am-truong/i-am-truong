@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Carolina Codes 2025: My First-Time Speaker Experience](https://dev.to/nerajno/carolina-codes-2025-my-first-time-speaker-experience-89a)
-- [What is GoHighLevel?](https://dev.to/youvandraf/what-is-gohighlevel-4e4)
-- [Why I wanted to learn coding as a UX designer](https://dev.to/laura-wissiak/why-i-wanted-to-learn-coding-as-a-ux-designer-3g3g)
-- [From Syntax to Systems: Rethinking How Developers Use AI](https://dev.to/rohit_gavali_0c2ad84fe4e0/from-syntax-to-systems-rethinking-how-developers-use-ai-3def)
-- [Unlocking Trustworthy AI: Verifiable Fine-Tuning with Zero-Knowledge Proofs](https://dev.to/arvindsundararajan/unlocking-trustworthy-ai-verifiable-fine-tuning-with-zero-knowledge-proofs-1gpj)
+- [100 Days of DevOps: Day 31](https://dev.to/wycliffealphus/100-days-of-devops-day-31-2c4f)
+- [Oops... I Locked Myself Out with UFW — Here&#39;s How I Fixed It](https://dev.to/mosesmorris/oops-i-locked-myself-out-with-ufw-heres-how-i-fixed-it-5bk2)
+- [Building My First AI Project: Tic Tac Toe with Minimax &lpar;No ML Libraries&rpar;](https://dev.to/sreehari_sj_1d3d883c0f6b/building-my-first-ai-project-tic-tac-toe-with-minimax-no-ml-libraries-2mbc)
+- [Amazon Lens Live: The Code Behind AI-Powered Visual Shopping](https://dev.to/alifar/amazon-lens-live-the-code-behind-ai-powered-visual-shopping-493a)
+- [The Silent Skill That Makes Data Scientists Irreplaceable in the AI Age](https://dev.to/browsejobs/the-silent-skill-that-makes-data-scientists-irreplaceable-in-the-ai-age-1mh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
