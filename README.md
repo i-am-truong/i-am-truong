@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source &quot;Deep Researcher&quot; Web App](https://dev.to/maxim-fin/open-source-deep-researcher-web-app-569e)
-- [Why You Should Introduce Theming at the Start of Your Project](https://dev.to/vincesanity/why-you-should-introduce-theming-at-the-start-of-your-project-2fmc)
-- [Part 4: GPU Security and Isolation](https://dev.to/shohams/part-4-gpu-security-and-isolation-4bmd)
-- [Controlling and Securing Azure Storage Access: A Step-by-Step Guide](https://dev.to/sudaisib/controlling-and-securing-azure-storage-access-a-step-by-step-guide-2l3f)
-- [Not Just Scraping: OSINTGraph Turns Your Target’s Instagram Network into an Investigable Graph with an Integrated AI Agent](https://dev.to/justin_lol_a756619fd64361/not-just-scraping-osintgraph-turns-your-targets-instagram-network-into-an-investigable-graph-with-241l)
+- [[Boost]](https://dev.to/scastiel/-1jd8)
+- [PrimeNG + NestJS + STT API = Speech Analytics](https://dev.to/sanatel_net/primeng-nestjs-stt-api-speech-analytics-4d6k)
+- [Seven Hours, Zero Internet, and Local AI Coding at 40,000 Feet](https://dev.to/scastiel/seven-hours-zero-internet-and-local-ai-coding-at-40000-feet-4ab0)
+- [Deploy and configure Azure Monitor](https://dev.to/isaiah_izibili_7a39b7d627/deploy-and-configure-azure-monitor-22do)
+- [Building a Dynamic Pricing Page Inspired by Resend: A Deep Dive](https://dev.to/alaaio/building-a-dynamic-pricing-page-inspired-by-resend-a-deep-dive-12d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
