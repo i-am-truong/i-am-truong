@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Starbucks Calorie Tracker with JavaScript + Custom Logic](https://dev.to/debra_williams_b7bdb03f63/building-a-starbucks-calorie-tracker-with-javascript-custom-logic-39n4)
-- [From DevOps to Cloud Engineering: Why Careers Are Shifting in 2025](https://dev.to/mahadi_uptech/from-devops-to-cloud-engineering-why-careers-are-shifting-in-2025-kig)
-- [Building Your IT Foundation: Understanding Internet Protocol Basics](https://dev.to/andrew_despres/building-your-it-foundation-understanding-internet-protocol-basics-4i4h)
-- [Created my first bot today](https://dev.to/ramoyald/created-my-first-bot-today-341e)
-- [I Open-Sourced My Multi-Agent Orchestration Framework &lpar;94% Lower API Costs&rpar;](https://dev.to/dpelleri/i-open-sourced-my-multi-agent-orchestration-framework-94-lower-api-costs-9ld)
+- [A Smarter Illustration Hub for Developers and Designers](https://dev.to/devmastermind/icons8-ouch-a-smarter-illustration-hubfor-developers-and-designers-2oma)
+- [WordPress vs Next.js: A Developer&#39;s Technical Decision Framework for 2025](https://dev.to/n9ka/wordpress-vs-nextjs-a-developers-technical-decision-framework-for-2025-16i6)
+- [Daily DSA and System Design Journal - 6](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-6-2h8c)
+- [Turning Entire Blogs into Short Summaries: Map-Reduce for LLMs](https://dev.to/grzegorz_dubiel_db99203fe/turning-entire-blogs-into-short-summaries-map-reduce-for-llms-66j)
+- [Ever asked a model “where did you get that?” Citations for document parsing solve that exact trust gap. Fewer hallucinations. More trust. Reliable workflows. Read the article, watch the video, try the notebook 👇](https://dev.to/drguthals/ever-asked-a-model-where-did-you-get-that-citations-for-document-parsing-solve-that-exact-27i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
