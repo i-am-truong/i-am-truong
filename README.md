@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source &quot;Deep Researcher&quot; Web App](https://dev.to/maxim-fin/open-source-deep-researcher-web-app-569e)
+- [Why You Should Introduce Theming at the Start of Your Project](https://dev.to/vincesanity/why-you-should-introduce-theming-at-the-start-of-your-project-2fmc)
 - [Part 4: GPU Security and Isolation](https://dev.to/shohams/part-4-gpu-security-and-isolation-4bmd)
+- [Controlling and Securing Azure Storage Access: A Step-by-Step Guide](https://dev.to/sudaisib/controlling-and-securing-azure-storage-access-a-step-by-step-guide-2l3f)
 - [Not Just Scraping: OSINTGraph Turns Your Target’s Instagram Network into an Investigable Graph with an Integrated AI Agent](https://dev.to/justin_lol_a756619fd64361/not-just-scraping-osintgraph-turns-your-targets-instagram-network-into-an-investigable-graph-with-241l)
-- [HTTP Status Codes: A Developer&#39;s Real-World Guide🚦](https://dev.to/sidharth_sangelia/http-status-codes-a-developers-real-world-guide-3gd4)
-- [Make RAG Provable: Page + BBox Citations for All Extracted Data](https://dev.to/tensorlake/make-rag-provable-page-bbox-citations-for-all-extracted-data-4ipc)
-- [React Context APIs, State sharing and Zustand](https://dev.to/rajusarkar/react-context-apis-state-sharing-and-zustand-13e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
