@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy Karpenter on Google Cloud](https://dev.to/cloudpilot-ai/how-to-deploy-karpenter-on-google-cloud-44fd)
-- [Docker Series: Episode 12 — Docker Security — Protect Your Images, Containers &amp; Secrets 🔒](https://dev.to/yash_sonawane25/docker-series-episode-12-docker-security-protect-your-images-containers-secrets-5gfo)
-- [How To Implement HttpClient in C# &lpar;4 Ways&rpar;](https://dev.to/shreyans_padmani/how-to-implement-httpclient-in-c-4-ways-2ngl)
-- [S3 Buckets: The Invisible Backbone of Modern Data](https://dev.to/aishwarygathe/s3-buckets-the-invisible-backbone-of-modern-data-4c5d)
-- [Deploy a React SPA using AWS S3 and CloudFront](https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp)
+- [Two Pointer coding pattern](https://dev.to/nozibul_islam_113b1d5334f/two-pointer-coding-pattern-12a)
+- [The Art of Binary Search: The Ultimate Choice Between `left &lt;= right` and `left &lt; right`](https://dev.to/childrentime/the-art-of-binary-search-the-ultimate-choice-between-left-right-and-left-right-2f02)
+- [Building Your First RAG System with Amazon Bedrock Agents and FAISS: A Developer&#39;s Journey](https://dev.to/aws-heroes/building-your-first-rag-system-with-amazon-bedrock-agents-and-faiss-a-developers-journey-11ad)
+- [What is ACP ?](https://dev.to/sreeni5018/what-is-acp--3hh1)
+- [Angular in 2025- Still Relevant?](https://dev.to/metana/angular-in-2025-still-relevant-2kg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
