@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Carolina Codes 2025: My First-Time Speaker Experience](https://dev.to/nerajno/carolina-codes-2025-my-first-time-speaker-experience-89a)
+- [What is GoHighLevel?](https://dev.to/youvandraf/what-is-gohighlevel-4e4)
+- [Why I wanted to learn coding as a UX designer](https://dev.to/laura-wissiak/why-i-wanted-to-learn-coding-as-a-ux-designer-3g3g)
 - [From Syntax to Systems: Rethinking How Developers Use AI](https://dev.to/rohit_gavali_0c2ad84fe4e0/from-syntax-to-systems-rethinking-how-developers-use-ai-3def)
 - [Unlocking Trustworthy AI: Verifiable Fine-Tuning with Zero-Knowledge Proofs](https://dev.to/arvindsundararajan/unlocking-trustworthy-ai-verifiable-fine-tuning-with-zero-knowledge-proofs-1gpj)
-- [No “resume” in Codex CLI, so I built one: quickly “continue” with `codex-history-list`](https://dev.to/shinshin86/no-resume-in-codex-cli-so-i-built-one-quickly-continue-with-codex-history-list-50be)
-- [NPR Music: Mustafa: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mustafa-tiny-desk-concert-1hfb)
-- [The `dd&lpar;&rpar;` Trap: Why Your Laravel App Needs Real Logging.](https://dev.to/usmanzahidcode/the-dd-trap-why-your-laravel-app-needs-real-logging-1jf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
