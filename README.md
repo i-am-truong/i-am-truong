@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The MCP Future: When AI Agents Run Your Entire Business](https://dev.to/leomarsh/the-mcp-future-when-ai-agents-run-your-entire-business-285g)
+- [TeCambio is a personal project that I would like to grow](https://dev.to/martin_adolfobravomonta/tecambio-is-a-personal-project-that-i-would-like-to-grow-l4g)
+- [Docker cagent: Como orquestrar agentes IA com YAML &lpar;e por que isso muda tudo&rpar;](https://dev.to/rflpazini/docker-cagent-como-orquestrar-agentes-ia-com-yaml-e-por-que-isso-muda-tudo-2fjh)
 - [How Perplexity AI and Its Rivals Are Redefining Marketing Workflows](https://dev.to/onlineproxy/how-perplexity-ai-and-its-rivals-are-redefining-marketing-workflows-224)
 - [How to Build a Powerful WordPress Directory with Custom Fields and Advanced Search](https://dev.to/n9ka/how-to-build-a-powerful-wordpress-directory-with-custom-fields-and-advanced-search-5712)
-- [🧠 Mastering Power FX Data Functions: FILTER vs SEARCH vs LOOKUP](https://dev.to/milan_parikh_f9c399697690/mastering-power-fx-data-functions-filter-vs-search-vs-lookup-271g)
-- [Linux Automated User Creation - Bash Script](https://dev.to/jic/linux-automated-user-creation-bash-script-12l3)
-- [Slash Your Firebase Costs: A Real-World Guide to Caching in Next.js](https://dev.to/n9ka/slash-your-firebase-costs-a-real-world-guide-to-caching-in-nextjs-ee4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
