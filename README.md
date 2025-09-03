@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aula Informática compartida, eficiente y centralizada con Linux](https://dev.to/arcadio_ortega/aula-informatica-compartida-eficiente-y-centralizada-con-linux-425e)
+- [Node-RED Kubernetes Deployment &amp; Password Management Guide](https://dev.to/durrello/node-red-kubernetes-deployment-password-management-guide-1doj)
+- [Secure Coding guidelines](https://dev.to/hectorw_tt/secure-coding-guidelines-9kb)
+- [In-Depth Java Stack Exploration: From Legacy to Modern Implementation](https://dev.to/numan/in-depth-java-stack-exploration-from-legacy-to-modern-implementation-5b5b)
 - [Apostrophe 4.21.0: Effortless Image Uploads and Strategic Platform Enhancements](https://dev.to/apostrophetechnologies/apostrophe-4210-effortless-image-uploads-and-strategic-platform-enhancements-33m5)
-- [React Recap, years later, thanks to Astro](https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a)
-- [A small checklist for Elementor users](https://dev.to/elliemiguel/a-small-checklist-for-elementor-users-28c8)
-- [Deploy Your Own AI Video Ad Generator on AWS &lpar;Using Nova / Poly / ECS / Streamlit&rpar;](https://dev.to/debadattap/deploy-your-own-ai-video-ad-generator-on-aws-using-nova-poly-ecs-streamlit-1833)
-- [[Boost]](https://dev.to/davinceleecode/-1096)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
