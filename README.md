@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Building a Fully Local AI Workforce for FREE](https://dev.to/thenomadevel/a-guide-to-building-a-fully-local-ai-workforce-for-free-50g8)
+- [AI workflow automation is getting a UX upgrade](https://dev.to/erikfiala/ai-workflow-automation-is-getting-a-ux-upgrade-2617)
+- [Vibe coding is getting a UX upgrade 🚀](https://dev.to/erikfiala/vibe-coding-is-getting-a-ux-upgrade-1o4b)
+- [Automate any workflow with a single prompt](https://dev.to/erikfiala/automate-any-workflow-with-a-single-prompt-mli)
 - [Elon Just Broke the Internet: Tesla Robots Worth More Than Cars](https://dev.to/shiva_shanker_k/elon-just-broke-the-internet-tesla-robots-worth-more-than-cars-46ll)
-- [🚨 Tech Chaos: August 2025&#39;s Most INSANE Stories](https://dev.to/shiva_shanker_k/tech-chaos-august-2025s-most-insane-stories-1ii5)
-- [NPM v/s NPX](https://dev.to/anuradha9712/npm-vs-npx-1lj0)
-- [Building Your First Full-Stack CRUD App with FastAPI and React.js](https://dev.to/gilly7/building-your-first-full-stack-crud-app-with-fastapi-and-reactjs-3i1n)
-- [When Wi-Fi Becomes the Weakest Link in Zero Trust](https://dev.to/leonardkachi/when-wi-fi-becomes-the-weakest-link-in-zero-trust-2cib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
