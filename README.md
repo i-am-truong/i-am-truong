@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript Best Practices in Large Codebases](https://dev.to/srini_k/typescript-best-practices-in-large-codebases-58kc)
+- [How to Create Awesome Documentation in n8n](https://dev.to/youvandraf/how-to-create-well-documentation-in-n8n-2c3o)
+- [Day 83: When Your Team Becomes Your Biggest Bug](https://dev.to/casperday11/day-83-when-your-team-becomes-your-biggest-bug-1d5e)
 - [How I Learned to Stop Worrying and Love Raw Events, Event Sourcing &amp; CQRS with FastAPI and Celery](https://dev.to/markoulis/how-i-learned-to-stop-worrying-and-love-raw-events-event-sourcing-cqrs-with-fastapi-and-celery-477e)
 - [OCI-MCP Integration: Connecting Oracle Cloud with AI](https://dev.to/dinesh_marimuthu_659d25d6/oci-mcp-integration-connecting-oracle-cloud-with-ai-35jl)
-- [Arduino Project 05](https://dev.to/cecilionavarro/arduino-project-05-5ebg)
-- [Clean &amp; Minimal User Registration](https://dev.to/s1tara/clean-minimal-user-registration-342i)
-- [Study: 89% of Dev Agencies Use the Wrong Pricing Model &lpar;Data from 500+ Agencies&rpar;](https://dev.to/teamcamp/study-89-of-dev-agencies-use-the-wrong-pricing-model-data-from-500-agencies-5112)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
