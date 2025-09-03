@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Semantic HTML: Boosting SEO and Accessibility in Modern Web Development](https://dev.to/catherine_njunu_ce4166fd7/semantic-html-boosting-seo-and-accessibility-in-modern-web-development-1lkp)
-- [Hello Cybersecurity World! My Journey into Ethical Hacking👋](https://dev.to/tanya_bhardwaj20/hello-cybersecurity-world-my-journey-into-ethical-hacking-1261)
-- [Best platform to learn React: What helped me move beyond tutorials](https://dev.to/stack_overflowed/best-platform-to-learn-react-what-helped-me-move-beyond-tutorials-aik)
-- [Enhancing FHIR EpisodeOfCare Resources: Improving Interoperability and Performance](https://dev.to/budiwidhiyanto/enhancing-fhir-episodeofcare-resources-improving-interoperability-and-performance-4cnd)
-- [Building Interactive CLI Applications with Node.js: A Beginner&#39;s Guide](https://dev.to/blamsa0mine/building-interactive-cli-applications-with-nodejs-a-beginners-guide-22kb)
+- [Spiking Neural Nets: Can Nonlinear Synapses Unlock a New Era of AI?](https://dev.to/arvindsundararajan/spiking-neural-nets-can-nonlinear-synapses-unlock-a-new-era-of-ai-1o2p)
+- [Quantum Sensors: AI&#39;s Secret Weapon for Unveiling the Unseen by Arvind Sundararajan](https://dev.to/arvindsundararajan/quantum-sensors-ais-secret-weapon-for-unveiling-the-unseen-by-arvind-sundararajan-4a84)
+- [Understanding the Similarities Between SQL Stored Procedures and Python Functions](https://dev.to/gladwell_mugambi/understanding-the-similarities-between-sql-stored-procedures-and-python-functions-11c2)
+- [Docker for Data Engineers: The Complete Beginner’s Guide](https://dev.to/dkkinyua/docker-for-data-engineers-the-complete-beginners-guide-4ik0)
+- [We reinvented comparison page](https://dev.to/aravink/we-reinvented-comparison-page-o1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
