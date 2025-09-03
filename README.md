@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Authorization in Laravel](https://dev.to/ashrakt_amin/authorization-in-laravel-4j94)
+- [5 Ways to Improve Your UGC Live Streaming App with AI](https://dev.to/aws/5-ways-to-improve-your-ugc-live-streaming-app-with-ai-1ib9)
 - [Automate Your Screenshot Documentation with Playwright MCP](https://dev.to/debs_obrien/automate-your-screenshot-documentation-with-playwright-mcp-3gk4)
 - [Fix ReferenceError: __dirname is Not Defined in ES Module Scope in Node.js](https://dev.to/a9kit_kumar/fix-referenceerror-dirname-is-not-defined-in-es-module-scope-in-nodejs-503p)
-- [Git Cheat Sheat - Definitivo!](https://dev.to/jacksonemmerich/git-cheat-sheat-definitivo-3bjl)
-- [Running an AGV Order Manager on Serverless — A Dream I Once Had](https://dev.to/mohammedismaeel/running-an-agv-order-manager-on-serverless-a-dream-i-once-had-1ecc)
-- [I Put Claude AI in Jail](https://dev.to/guypowell/i-put-claude-ai-in-jail-h0f)
+- [Why GitHub Releases Suck for Binary Distribution](https://dev.to/gaborboros/why-github-releases-suck-for-binary-distribution-289i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
