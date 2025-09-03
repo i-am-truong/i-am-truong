@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Build an NPM Package that lets you Scaffold React Apps](https://dev.to/mrcssdev/how-i-build-an-npm-package-that-lets-you-scaffold-react-apps-5a5h)
-- [Installed Arch Linux — Next Stop: Contributing Back 🚀](https://dev.to/secbyshresth/installed-arch-linux-next-stop-contributing-back-1ced)
-- [[Boost]](https://dev.to/scastiel/-1jd8)
-- [PrimeNG + NestJS + STT API = Speech Analytics](https://dev.to/sanatel_net/primeng-nestjs-stt-api-speech-analytics-4d6k)
-- [Seven Hours, Zero Internet, and Local AI Coding at 40,000 Feet](https://dev.to/scastiel/seven-hours-zero-internet-and-local-ai-coding-at-40000-feet-4ab0)
+- [How to Add CDN in Cloudflare: A Beginner’s Guide](https://dev.to/lovestaco/how-to-add-cdn-in-cloudflare-a-beginners-guide-56l7)
+- [Why Most Companies Waste Money on the Cloud - And How to Fix It](https://dev.to/heyjoshlee/why-most-companies-waste-money-on-the-cloud-and-how-to-fix-it-2117)
+- [Clean Starts Only: Next.js + Vercel starter with Airbnb ESLint &amp; Prettier](https://dev.to/xxbricksquadxx/clean-starts-only-nextjs-vercel-starter-with-airbnb-eslint-prettier-1d61)
+- [Free Hosting for Your Nuxt App](https://dev.to/moulibheemaneti/free-hosting-for-your-nuxt-app-p29)
+- [Day 1: Dig at Berghain Coding Challenge](https://dev.to/sardanios/day-1-dig-at-berghain-coding-challenge-2pc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
