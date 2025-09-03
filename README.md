@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Add CDN in Cloudflare: A Beginner’s Guide](https://dev.to/lovestaco/how-to-add-cdn-in-cloudflare-a-beginners-guide-56l7)
-- [Why Most Companies Waste Money on the Cloud - And How to Fix It](https://dev.to/heyjoshlee/why-most-companies-waste-money-on-the-cloud-and-how-to-fix-it-2117)
-- [Clean Starts Only: Next.js + Vercel starter with Airbnb ESLint &amp; Prettier](https://dev.to/xxbricksquadxx/clean-starts-only-nextjs-vercel-starter-with-airbnb-eslint-prettier-1d61)
-- [Free Hosting for Your Nuxt App](https://dev.to/moulibheemaneti/free-hosting-for-your-nuxt-app-p29)
-- [Day 1: Dig at Berghain Coding Challenge](https://dev.to/sardanios/day-1-dig-at-berghain-coding-challenge-2pc9)
+- [From Terminal to Code: Automatically Convert Shell Commands to Node.js Scripts with shell2node 🍃](https://dev.to/silentwatcher_95/from-terminal-to-code-automatically-convert-shell-commands-to-nodejs-scripts-with-shell2node-4853)
+- [New Here...](https://dev.to/7chats/new-here-4abg)
+- [Day 27 of My Data Analytics Journey !](https://dev.to/ramyacse/day-27-of-my-data-analytics-journey--5aog)
+- [🚫 When Should You Use finalize&lpar;&rpar; in Java?](https://dev.to/rahulkhattri0/when-should-you-use-finalize-in-java-369p)
+- [I Replaced Redis Locks with Database Atomicity and You Should Too](https://dev.to/gaw/i-replaced-redis-locks-with-database-atomicity-and-you-should-too-3i0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
