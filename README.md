@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Localhost:1313 - The Heart of Hugo Development](https://dev.to/lightningdev123/understanding-localhost1313-the-heart-of-hugo-development-30g6)
-- [100 Days of DevOps: Day 31](https://dev.to/wycliffealphus/100-days-of-devops-day-31-2c4f)
-- [Oops... I Locked Myself Out with UFW — Here&#39;s How I Fixed It](https://dev.to/mosesmorris/oops-i-locked-myself-out-with-ufw-heres-how-i-fixed-it-5bk2)
-- [Building My First AI Project: Tic Tac Toe with Minimax &lpar;No ML Libraries&rpar;](https://dev.to/sreehari_sj_1d3d883c0f6b/building-my-first-ai-project-tic-tac-toe-with-minimax-no-ml-libraries-2mbc)
-- [Amazon Lens Live: The Code Behind AI-Powered Visual Shopping](https://dev.to/alifar/amazon-lens-live-the-code-behind-ai-powered-visual-shopping-493a)
+- [Building Interactive CLI Applications with Node.js: A Beginner&#39;s Guide](https://dev.to/blamsa0mine/building-interactive-cli-applications-with-nodejs-a-beginners-guide-22kb)
+- [Rethinking LLM-Powered Apps: Ditching Tool Overload for Smarter Query Abstraction](https://dev.to/saravanan_ramupillai/rethinking-llm-powered-apps-ditching-tool-overload-for-smarter-query-abstraction-1aan)
+- [From Code-First to Visual Excellence: My Cyberpunk RPG&#39;s Complete UI Transformation](https://dev.to/creator_x/from-code-first-to-visual-excellence-my-cyberpunk-rpgs-complete-ui-transformation-2k25)
+- [Bun vs Node.js – Why Developers Are Switching](https://dev.to/rigalpatel001/bun-vs-nodejs-why-developers-are-switching-1125)
+- [Fixing GitHub Authentication Error: &quot;erase operation not supported&quot; and &quot;Invalid username or token&quot;](https://dev.to/nutan_mishra_95d0a3808a4d/fixing-github-authentication-error-erase-operation-not-supported-and-invalid-username-or-token-47jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
