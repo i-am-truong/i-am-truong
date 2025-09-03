@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [REST API in RUST with ntex](https://dev.to/0xle0ne/rest-api-in-rust-with-ntex-6a8)
-- [Memora — Adaptive AI Agents with Memory &lpar;No Fine-Tuning Required&rpar;](https://dev.to/21bq1a4232/memora-adaptive-ai-agents-with-memory-no-fine-tuning-required-2g44)
-- [Multicloud for Disaster Recovery: A Strategic Guide to AWS, Azure &amp; GCP](https://dev.to/muhammad_zeeshan_6499a22a/multicloud-for-disaster-recovery-a-strategic-guide-to-aws-azure-gcp-4h9m)
-- [DataGuard DML Redirection&lpar;Oracle 19c and 18c&rpar;](https://dev.to/vahidusefzadeh/dataguard-dml-redirectionoracle-19c-and-18c-1h26)
-- [Configuring Secure Access to Workloads with Azure Virtual Networking Services](https://dev.to/peter_samuel_052b9056e236/configuring-secure-access-to-workloads-with-azure-virtual-networking-services-1p2h)
+- [Create Stunning AI Animations in 2025 with Textideo](https://dev.to/ethan_parkx_09fc0c31cddf/create-stunning-ai-animations-in-2025-with-textideo-pca)
+- [The Complete Quality Engineering Roadmap](https://dev.to/idavidov13/the-complete-quality-engineering-roadmap-5ec5)
+- [[Boost]](https://dev.to/hadil/-577n)
+- [Setting up husky and lint-staged for Next.js](https://dev.to/ali-raza-fa22/setting-up-husky-and-lint-staged-for-nextjs-38ji)
+- [Translation vs. Localization: What&#39;s the Difference?](https://dev.to/elenahartmann/translation-vs-localization-whats-the-difference-5e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
