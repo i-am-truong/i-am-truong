@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ambient-Adaptive CO2 Bar with BleuIO &amp; HibouAir](https://dev.to/bleuiot/ambient-adaptive-co2-bar-with-bleuio-hibouair-hg)
+- [12 AI Tools People Are Using to Make Money &lpar;2025 Edition&rpar;](https://dev.to/itshayder/12-ai-tools-people-are-using-to-make-money-2025-edition-3b91)
 - [A Guide to Building a Fully Local AI Workforce for FREE](https://dev.to/thenomadevel/a-guide-to-building-a-fully-local-ai-workforce-for-free-50g8)
 - [AI workflow automation is getting a UX upgrade](https://dev.to/erikfiala/ai-workflow-automation-is-getting-a-ux-upgrade-2617)
 - [Vibe coding is getting a UX upgrade 🚀](https://dev.to/erikfiala/vibe-coding-is-getting-a-ux-upgrade-1o4b)
-- [Automate any workflow with a single prompt](https://dev.to/erikfiala/automate-any-workflow-with-a-single-prompt-mli)
-- [Elon Just Broke the Internet: Tesla Robots Worth More Than Cars](https://dev.to/shiva_shanker_k/elon-just-broke-the-internet-tesla-robots-worth-more-than-cars-46ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
