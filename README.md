@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Patch Management vs Vulnerability Management: Why the Difference Matters](https://dev.to/spektion/patch-management-vs-vulnerability-management-why-the-difference-matters-14nb)
-- [Enclave Games Monthly Report: August 2025](https://dev.to/end3r/enclave-games-monthly-report-august-2025-348l)
-- [Lessons Learned from Shipping My Third Startup: [bistroai.cc]](https://dev.to/araldhafeeri/lessons-learned-from-shipping-my-third-startup-bistroaicc-bah)
-- [Subdirectory &lpar;Relative URL&rpar;](https://dev.to/agussudarmanto/subdirectory-relative-url-3fl5)
-- [Do you really need a landing zone?](https://dev.to/tidjani/do-you-really-need-a-landing-zone-1p5)
+- [KEXP: Tropical Fuck Storm - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-full-performance-live-on-kexp-1lbi)
+- [No more wasting time...](https://dev.to/masterdevsabith/no-more-wasting-time-3nj6)
+- [GameSpot: Cronos: The New Dawn Review](https://dev.to/gg_news/gamespot-cronos-the-new-dawn-review-9if)
+- [IGN: 28 Years Later: The Bone Temple - Official Trailer &lpar;2026&rpar; Ralph Fiennes, Jack O&#39;Connell,](https://dev.to/gg_news/ign-28-years-later-the-bone-temple-official-trailer-2026-ralph-fiennes-jack-oconnell-4nki)
+- [IGN: Cronos: The New Dawn Survival Guide – 12 Tips You NEED to Know](https://dev.to/gg_news/ign-cronos-the-new-dawn-survival-guide-12-tips-you-need-to-know-nii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
