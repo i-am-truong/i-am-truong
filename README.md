@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Context APIs, State sharing and Zustand](https://dev.to/rajusarkar/react-context-apis-state-sharing-and-zustand-13e6)
+- [Sharding in CouchDB: Choosing the Right q Value](https://dev.to/neighbourhoodie/sharding-in-couchdb-choosing-the-right-q-value-4jah)
+- [Cursor telling me &quot;That&#39;s a brilliant idea&quot; seems like a bit much](https://dev.to/ben/cursor-telling-me-thats-a-brilliant-idea-seems-like-a-bit-much-2bkh)
 - [The Hidden Costs of &#39;Optimized&#39; VPS: What DigitalOcean Doesn&#39;t Tell You](https://dev.to/sst21/the-hidden-costs-of-optimized-vps-what-digitalocean-doesnt-tell-you-223c)
 - [Elicitation in MCP: Bridging the Human-AI Gap](https://dev.to/om_shree_0709/elicitation-in-mcp-bridging-the-human-ai-gap-oo1)
-- [Reverse proxy and service mesh built on top of Cloudflare&#39;s Pingora](https://dev.to/sadoyan/reverse-proxy-and-service-mesh-built-on-top-of-cloudflares-pingora-2o13)
-- [GitHub Education Student Pack: A Complete Guide for Students](https://dev.to/avinash201199/github-education-student-pack-a-complete-guide-for-students-5h7g)
-- [Convert PDFs to JPEGs in C#: A Simple Helper for LLM Integration](https://dev.to/auyeungdavid_2847435260/convert-pdfs-to-jpegs-in-c-a-simple-helper-for-llm-integration-2o9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
