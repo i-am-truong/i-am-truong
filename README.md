@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stealth Mode for Smart Factories: Protecting Machine Code with Adaptive AI](https://dev.to/arvindsundararajan/stealth-mode-for-smart-factories-protecting-machine-code-with-adaptive-ai-4dod)
-- [Helpful Settings When Running RSpec with parallel_tests](https://dev.to/hamajyotan/helpful-settings-when-running-rspec-with-paralleltests-25mh)
-- [Erdus](https://dev.to/tobiager/erdus-jia)
-- [Install NVM for Windows Without Administrator](https://dev.to/chuongmep/install-nvm-for-windows-without-administrator-3c1e)
-- [Virtual Knobs: Making human-machine interaction more intuitive and efficient](https://dev.to/ben_wu_3ff99644999594b3e8/virtual-knobs-making-human-machine-interaction-more-intuitive-and-efficient-247j)
+- [How to Deploy Karpenter on Google Cloud](https://dev.to/cloudpilot-ai/how-to-deploy-karpenter-on-google-cloud-44fd)
+- [Docker Series: Episode 12 — Docker Security — Protect Your Images, Containers &amp; Secrets 🔒](https://dev.to/yash_sonawane25/docker-series-episode-12-docker-security-protect-your-images-containers-secrets-5gfo)
+- [How To Implement HttpClient in C# &lpar;4 Ways&rpar;](https://dev.to/shreyans_padmani/how-to-implement-httpclient-in-c-4-ways-2ngl)
+- [S3 Buckets: The Invisible Backbone of Modern Data](https://dev.to/aishwarygathe/s3-buckets-the-invisible-backbone-of-modern-data-4c5d)
+- [Deploy a React SPA using AWS S3 and CloudFront](https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
