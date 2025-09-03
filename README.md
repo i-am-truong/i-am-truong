@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [REST API in RUST with ntex](https://dev.to/0xle0ne/rest-api-in-rust-with-ntex-6a8)
 - [Memora — Adaptive AI Agents with Memory &lpar;No Fine-Tuning Required&rpar;](https://dev.to/21bq1a4232/memora-adaptive-ai-agents-with-memory-no-fine-tuning-required-2g44)
+- [Multicloud for Disaster Recovery: A Strategic Guide to AWS, Azure &amp; GCP](https://dev.to/muhammad_zeeshan_6499a22a/multicloud-for-disaster-recovery-a-strategic-guide-to-aws-azure-gcp-4h9m)
+- [DataGuard DML Redirection&lpar;Oracle 19c and 18c&rpar;](https://dev.to/vahidusefzadeh/dataguard-dml-redirectionoracle-19c-and-18c-1h26)
 - [Configuring Secure Access to Workloads with Azure Virtual Networking Services](https://dev.to/peter_samuel_052b9056e236/configuring-secure-access-to-workloads-with-azure-virtual-networking-services-1p2h)
-- [How to create Google Gemini AI component in Total.js Flow](https://dev.to/palo/how-to-create-google-gemini-ai-component-in-totaljs-flow-493h)
-- [Barcode Inspection and Verification &lpar;# 60&rpar;--SPL Programming Practice](https://dev.to/esproc_spl/barcode-inspection-and-verification-60-spl-programming-practice-5o4)
-- [The Human Factor: Why Accessibility Testing is Now a Non-Negotiable ♿](https://dev.to/vaibhavkuls/the-human-factor-why-accessibility-testing-is-now-a-non-negotiable-4fi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
