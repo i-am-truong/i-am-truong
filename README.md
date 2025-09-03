@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating to n8n: A Developer’s Guide to Scalable Workflow Automation](https://dev.to/alifar/migrating-to-n8n-a-developers-guide-to-scalable-workflow-automation-765)
+- [🔐Vault With Kubernetes](https://dev.to/omar_ahmed/vault-with-kubernetes-452k)
+- [The Boring SaaS Playbook That Actually Works](https://dev.to/shayy/the-boring-saas-playbook-that-actually-works-5dce)
+- [The Grand Canvas: Why China&#39;s State-Led AI Development is a Masterpiece of Scale](https://dev.to/alex_aslam/the-grand-canvas-why-chinas-state-led-ai-development-is-a-masterpiece-of-scale-33i7)
 - [The Vanilla JavaScript Renaissance: Rediscovering the Artisan&#39;s Tools](https://dev.to/alex_aslam/the-vanilla-javascript-renaissance-rediscovering-the-artisans-tools-5aka)
-- [The Database Isn&#39;t Magic: Why Indexing Matters](https://dev.to/usmanzahidcode/the-database-isnt-magic-why-indexing-matters-1cef)
-- [Your Java App Is Leaking Memory! The Hidden Classloader Trap You&#39;re Missing.](https://dev.to/xuan_56087d315ff4f52254e6/your-java-app-is-leaking-memory-the-hidden-classloader-trap-youre-missing-3obj)
-- [IGN: Xbox Wireless Controller - Official Breaker Special Edition Series Trailer](https://dev.to/gg_news/ign-xbox-wireless-controller-official-breaker-special-edition-series-trailer-n86)
-- [Two Years of Microsoft Fabric: Game Changer or Still Leveling Up? 🚀](https://dev.to/narayan_f8f2c91c99dfd33e6/two-years-of-microsoft-fabric-game-changer-or-still-leveling-up-165e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
