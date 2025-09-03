@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Resource Groups: Benefits, Drawbacks, and How to Create One](https://dev.to/jic/azure-resource-groups-benefits-drawbacks-and-how-to-create-one-483m)
+- [A importância de um HTML semântico](https://dev.to/stherzada/a-importancia-de-um-html-semantico-58j9)
 - [My Open Source Journey Begins with GitHub &amp; Magic Enum](https://dev.to/elsad_humbetli_0971c995ce/my-open-source-journey-begins-with-github-magic-enum-46g8)
 - [Migrating to n8n: A Developer’s Guide to Scalable Workflow Automation](https://dev.to/alifar/migrating-to-n8n-a-developers-guide-to-scalable-workflow-automation-765)
 - [🔐Vault With Kubernetes](https://dev.to/omar_ahmed/vault-with-kubernetes-452k)
-- [The Boring SaaS Playbook That Actually Works](https://dev.to/shayy/the-boring-saas-playbook-that-actually-works-5dce)
-- [The Grand Canvas: Why China&#39;s State-Led AI Development is a Masterpiece of Scale](https://dev.to/alex_aslam/the-grand-canvas-why-chinas-state-led-ai-development-is-a-masterpiece-of-scale-33i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
