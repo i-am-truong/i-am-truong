@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Cursor, Windsurf and Copilot with GPT-5](https://dev.to/fernandezbaptiste/exploring-cursor-windsurf-and-copilot-with-gpt-5-22bl)
+- [Mastering Modern Frontend Architecture: Why Component-Driven Design and SSR Are Your Superpowers in 2025](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-modern-frontend-architecture-why-component-driven-design-and-ssr-are-your-superpowers-in-1oei)
 - [Dapper no .NET: simplicidade e performance no acesso a dados](https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1)
+- [The Illusion of Simplicity: Why &quot;Easy&quot; Never Stays Easy in Backend Development](https://dev.to/usmanzahidcode/the-illusion-of-simplicity-why-easy-never-stays-easy-in-backend-development-3p7j)
 - [Angular 20&#39;s Game-Changing Features: Mastering Tagged Template Literals and the Revolutionary &quot;in&quot; Operator](https://dev.to/codewithrajat/angular-20s-game-changing-features-mastering-tagged-template-literals-and-the-revolutionary-2njf)
-- [Const Assertions en TypeScript 🤔](https://dev.to/duxtech/const-assertions-en-typescript-57jf)
-- [LLM Prompt Management in 2025: A Practical Playbook for Scale, Quality, and Speed](https://dev.to/kamya_shah_3f4a20d6f64092/llm-prompt-management-in-2025-a-practical-playbook-for-scale-quality-and-speed-59bi)
-- [The Hackathon I Swore Off — and the Exhaustion That Mostly Compiled](https://dev.to/anchildress1/the-hackathon-i-swore-off-and-the-exhaustion-that-mostly-compiled-c4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
