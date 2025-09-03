@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Memora — Adaptive AI Agents with Memory &lpar;No Fine-Tuning Required&rpar;](https://dev.to/21bq1a4232/memora-adaptive-ai-agents-with-memory-no-fine-tuning-required-2g44)
 - [Configuring Secure Access to Workloads with Azure Virtual Networking Services](https://dev.to/peter_samuel_052b9056e236/configuring-secure-access-to-workloads-with-azure-virtual-networking-services-1p2h)
 - [How to create Google Gemini AI component in Total.js Flow](https://dev.to/palo/how-to-create-google-gemini-ai-component-in-totaljs-flow-493h)
 - [Barcode Inspection and Verification &lpar;# 60&rpar;--SPL Programming Practice](https://dev.to/esproc_spl/barcode-inspection-and-verification-60-spl-programming-practice-5o4)
 - [The Human Factor: Why Accessibility Testing is Now a Non-Negotiable ♿](https://dev.to/vaibhavkuls/the-human-factor-why-accessibility-testing-is-now-a-non-negotiable-4fi6)
-- [Fortify Schema](https://dev.to/procoder1728/fortify-schema-13le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
