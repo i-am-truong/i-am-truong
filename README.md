@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como escrever uma documentação técnica que realmente funciona](https://dev.to/pripoliveira50/como-escrever-uma-documentacao-tecnica-que-realmente-funciona-h1)
-- [The MCP Future: When AI Agents Run Your Entire Business](https://dev.to/leomarsh/the-mcp-future-when-ai-agents-run-your-entire-business-285g)
-- [TeCambio is a personal project that I would like to grow](https://dev.to/martin_adolfobravomonta/tecambio-is-a-personal-project-that-i-would-like-to-grow-l4g)
-- [Docker cagent: Como orquestrar agentes IA com YAML &lpar;e por que isso muda tudo&rpar;](https://dev.to/rflpazini/docker-cagent-como-orquestrar-agentes-ia-com-yaml-e-por-que-isso-muda-tudo-2fjh)
-- [How Perplexity AI and Its Rivals Are Redefining Marketing Workflows](https://dev.to/onlineproxy/how-perplexity-ai-and-its-rivals-are-redefining-marketing-workflows-224)
+- [A Guide to Database Normalization &amp; Denormalization &lpar;With Visual Examples and Practical Use Cases&rpar;](https://dev.to/augo_amos/a-guide-to-database-normalization-denormalization-with-visual-examples-and-practical-use-cases-npd)
+- [Early-stage open-source project: OpsiMate](https://dev.to/idanlodzki/early-stage-open-source-project-opsimate-llc)
+- [A Modern Pipeline for Video Game UI Using Rive Animation](https://dev.to/uianimation/a-modern-pipeline-for-video-game-ui-using-rive-animation-472b)
+- [Part 2: Deploying Your FastAPI and React.js CRUD App on Render.com](https://dev.to/gilly7/part-2-deploying-your-fastapi-and-reactjs-crud-app-on-rendercom-3l50)
+- [Setting up RAG Locally with Ollama: A Beginner-Friendly Guide](https://dev.to/the_aayush_mishra/setting-up-rag-locally-with-ollama-a-beginner-friendly-guide-428m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
