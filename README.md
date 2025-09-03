@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two Pointer coding pattern](https://dev.to/nozibul_islam_113b1d5334f/two-pointer-coding-pattern-12a)
-- [The Art of Binary Search: The Ultimate Choice Between `left &lt;= right` and `left &lt; right`](https://dev.to/childrentime/the-art-of-binary-search-the-ultimate-choice-between-left-right-and-left-right-2f02)
-- [Building Your First RAG System with Amazon Bedrock Agents and FAISS: A Developer&#39;s Journey](https://dev.to/aws-heroes/building-your-first-rag-system-with-amazon-bedrock-agents-and-faiss-a-developers-journey-11ad)
-- [What is ACP ?](https://dev.to/sreeni5018/what-is-acp--3hh1)
-- [Angular in 2025- Still Relevant?](https://dev.to/metana/angular-in-2025-still-relevant-2kg3)
+- [Lessons from Building a Global AI Brand from Scratch](https://dev.to/jaideepparashar/lessons-from-building-a-global-ai-brand-from-scratch-f1g)
+- [🚀 Day 3 of My DevOps Journey: Git &amp; GitHub for DevOps &lpar;From Zero to Daily Workflow&rpar;](https://dev.to/dankbhardwaj/day-3-of-my-devops-journey-git-github-for-devops-from-zero-to-daily-workflow-m6o)
+- [Practical Patterns for Adding Language Understanding to Any Software System](https://dev.to/stanislav_komarovsky_b478/practical-patterns-for-adding-language-understanding-to-any-software-system-ch4)
+- [Automating Publisher Reporting on AWS: A Serverless Architecture with Slack Alerts](https://dev.to/gurudev_prasadteketi/automating-publisher-reporting-on-aws-a-serverless-architecture-with-slack-alerts-3004)
+- [Smartbi Access Bypass Vulnerability Leads to Admin Takeover](https://dev.to/sharon_42e16b8da44dabde6d/smartbi-access-bypass-vulnerability-leads-to-admin-takeover-7f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
