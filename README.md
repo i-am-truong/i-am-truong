@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Serverless Web Game With WebAssembly and Three.js](https://dev.to/samyfodil/building-a-serverless-web-game-with-webassembly-and-threejs-3mbl)
-- [.NET Developer - Azure API -interview questions - Part 2](https://dev.to/libintombaby/net-developer-azure-api-interview-questions-part-2-2cn6)
-- [Core .NET concepts you must nail in a senior interview](https://dev.to/libintombaby/core-net-concepts-you-must-nail-in-a-senior-interview-3p74)
-- [Azure &amp; DevOps mastery for scalable .NET applications](https://dev.to/libintombaby/azure-devops-mastery-for-scalable-net-applications-4d6p)
-- [Advanced .NET topics for Enterprise-Grade systems](https://dev.to/libintombaby/advanced-net-topics-for-enterprise-grade-systems-2fc9)
+- [KEXP: Tropical Fuck Storm - You Let My Tyres Down &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-you-let-my-tyres-down-live-on-kexp-1k2m)
+- [KEXP: Tropical Fuck Storm - Braindrops &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-braindrops-live-on-kexp-232b)
+- [KEXP: Tropical Fuck Storm - Irukandji Syndrome &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-irukandji-syndrome-live-on-kexp-2ecm)
+- [KEXP: Tropical Fuck Storm - Bloodsport &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-bloodsport-live-on-kexp-2k6n)
+- [The 67-Second OpenTelemetry Problem](https://dev.to/itay_from_lawrence/the-67-second-opentelemetry-problem-e0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
