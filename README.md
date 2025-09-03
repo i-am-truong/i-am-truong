@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Localhost:1313 - The Heart of Hugo Development](https://dev.to/lightningdev123/understanding-localhost1313-the-heart-of-hugo-development-30g6)
 - [100 Days of DevOps: Day 31](https://dev.to/wycliffealphus/100-days-of-devops-day-31-2c4f)
 - [Oops... I Locked Myself Out with UFW — Here&#39;s How I Fixed It](https://dev.to/mosesmorris/oops-i-locked-myself-out-with-ufw-heres-how-i-fixed-it-5bk2)
 - [Building My First AI Project: Tic Tac Toe with Minimax &lpar;No ML Libraries&rpar;](https://dev.to/sreehari_sj_1d3d883c0f6b/building-my-first-ai-project-tic-tac-toe-with-minimax-no-ml-libraries-2mbc)
 - [Amazon Lens Live: The Code Behind AI-Powered Visual Shopping](https://dev.to/alifar/amazon-lens-live-the-code-behind-ai-powered-visual-shopping-493a)
-- [The Silent Skill That Makes Data Scientists Irreplaceable in the AI Age](https://dev.to/browsejobs/the-silent-skill-that-makes-data-scientists-irreplaceable-in-the-ai-age-1mh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
