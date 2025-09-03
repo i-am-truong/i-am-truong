@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Oracle Database 23ai: Key Features and MCP Integration](https://dev.to/dinesh_marimuthu_659d25d6/oracle-database-23ai-key-features-and-mcp-integration-3bk6)
 - [🚀 Introducing AI-DBUG](https://dev.to/workwithnk/introducing-ai-dbug-21p0)
 - [Menjalankan Laravel Queue di cPanel Menggunakan Cronjob](https://dev.to/app_zain_444423744db73517/menjalankan-laravel-queue-di-cpanel-menggunakan-cronjob-39cl)
+- [File Upload in Laravel – Step by Step Guide for Beginners](https://dev.to/rohitdhiman/file-upload-in-laravel-step-by-step-guide-for-beginners-1h04)
 - [Svelte Reactivity Explained: How Your UI Updates Automatically](https://dev.to/a1guy/svelte-reactivity-explained-how-your-ui-updates-automatically-4l2m)
-- [react-bootstrap Modal never displays](https://dev.to/ppowell777/react-bootstrap-modal-never-displays-3l5h)
-- [Cache Me If You Can: Design Patterns for Performance](https://dev.to/sibasishm/cache-me-if-you-can-design-patterns-for-performance-4ag0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
