@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spark &amp; Scala Cache Lessons from ETL Project](https://dev.to/krlz/spark-scala-cache-lessons-from-etl-project-5h1c)
 - [Exploring Cursor, Windsurf and Copilot with GPT-5](https://dev.to/fernandezbaptiste/exploring-cursor-windsurf-and-copilot-with-gpt-5-22bl)
 - [Mastering Modern Frontend Architecture: Why Component-Driven Design and SSR Are Your Superpowers in 2025](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-modern-frontend-architecture-why-component-driven-design-and-ssr-are-your-superpowers-in-1oei)
 - [Dapper no .NET: simplicidade e performance no acesso a dados](https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1)
 - [The Illusion of Simplicity: Why &quot;Easy&quot; Never Stays Easy in Backend Development](https://dev.to/usmanzahidcode/the-illusion-of-simplicity-why-easy-never-stays-easy-in-backend-development-3p7j)
-- [Angular 20&#39;s Game-Changing Features: Mastering Tagged Template Literals and the Revolutionary &quot;in&quot; Operator](https://dev.to/codewithrajat/angular-20s-game-changing-features-mastering-tagged-template-literals-and-the-revolutionary-2njf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
