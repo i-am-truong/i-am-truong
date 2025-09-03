@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Wars - 6kyu &#39;Split Strings&#39; solution in Python](https://dev.to/claudiogiubrone/code-wars-6kyu-split-strings-solution-in-python-5doe)
+- [Comprehensive Guide to File Handling in Python](https://dev.to/tapobanray/comprehensive-guide-to-file-handling-in-python-52dh)
 - [A Guide to Database Normalization &amp; Denormalization &lpar;With Visual Examples and Practical Use Cases&rpar;](https://dev.to/augo_amos/a-guide-to-database-normalization-denormalization-with-visual-examples-and-practical-use-cases-npd)
 - [Early-stage open-source project: OpsiMate](https://dev.to/idanlodzki/early-stage-open-source-project-opsimate-llc)
 - [A Modern Pipeline for Video Game UI Using Rive Animation](https://dev.to/uianimation/a-modern-pipeline-for-video-game-ui-using-rive-animation-472b)
-- [Part 2: Deploying Your FastAPI and React.js CRUD App on Render.com](https://dev.to/gilly7/part-2-deploying-your-fastapi-and-reactjs-crud-app-on-rendercom-3l50)
-- [Setting up RAG Locally with Ollama: A Beginner-Friendly Guide](https://dev.to/the_aayush_mishra/setting-up-rag-locally-with-ollama-a-beginner-friendly-guide-428m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
