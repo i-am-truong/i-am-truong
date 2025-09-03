@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fort Knox for Factories: AI-Powered Watermarks for Industrial Control Code by Arvind Sundararajan](https://dev.to/arvindsundararajan/fort-knox-for-factories-ai-powered-watermarks-for-industrial-control-code-by-arvind-sundararajan-cok)
 - [Ambient-Adaptive CO2 Bar with BleuIO &amp; HibouAir](https://dev.to/bleuiot/ambient-adaptive-co2-bar-with-bleuio-hibouair-hg)
+- [🖥️ How to Setup a LAMP Server at Home &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/alanvarghese-dev/how-to-setup-a-lamp-server-at-home-beginner-friendly-guide-1mei)
+- [This lib allows to write REST API in .Net almost without writing a code](https://dev.to/evillord666/this-lib-allows-to-write-rest-api-in-net-almost-without-writing-a-code-4o20)
 - [12 AI Tools People Are Using to Make Money &lpar;2025 Edition&rpar;](https://dev.to/itshayder/12-ai-tools-people-are-using-to-make-money-2025-edition-3b91)
-- [A Guide to Building a Fully Local AI Workforce for FREE](https://dev.to/thenomadevel/a-guide-to-building-a-fully-local-ai-workforce-for-free-50g8)
-- [AI workflow automation is getting a UX upgrade](https://dev.to/erikfiala/ai-workflow-automation-is-getting-a-ux-upgrade-2617)
-- [Vibe coding is getting a UX upgrade 🚀](https://dev.to/erikfiala/vibe-coding-is-getting-a-ux-upgrade-1o4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
