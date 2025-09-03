@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spark &amp; Scala Cache Lessons from ETL Project](https://dev.to/krlz/spark-scala-cache-lessons-from-etl-project-5h1c)
-- [Exploring Cursor, Windsurf and Copilot with GPT-5](https://dev.to/fernandezbaptiste/exploring-cursor-windsurf-and-copilot-with-gpt-5-22bl)
-- [Mastering Modern Frontend Architecture: Why Component-Driven Design and SSR Are Your Superpowers in 2025](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-modern-frontend-architecture-why-component-driven-design-and-ssr-are-your-superpowers-in-1oei)
-- [Dapper no .NET: simplicidade e performance no acesso a dados](https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1)
-- [The Illusion of Simplicity: Why &quot;Easy&quot; Never Stays Easy in Backend Development](https://dev.to/usmanzahidcode/the-illusion-of-simplicity-why-easy-never-stays-easy-in-backend-development-3p7j)
+- [Building a Serverless Web Game With WebAssembly and Three.js](https://dev.to/samyfodil/building-a-serverless-web-game-with-webassembly-and-threejs-3mbl)
+- [.NET Developer - Azure API -interview questions - Part 2](https://dev.to/libintombaby/net-developer-azure-api-interview-questions-part-2-2cn6)
+- [Core .NET concepts you must nail in a senior interview](https://dev.to/libintombaby/core-net-concepts-you-must-nail-in-a-senior-interview-3p74)
+- [Azure &amp; DevOps mastery for scalable .NET applications](https://dev.to/libintombaby/azure-devops-mastery-for-scalable-net-applications-4d6p)
+- [Advanced .NET topics for Enterprise-Grade systems](https://dev.to/libintombaby/advanced-net-topics-for-enterprise-grade-systems-2fc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
