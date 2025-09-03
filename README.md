@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-NIC in Linux: What They Are, Why They Exist, and How Traffic Flows](https://dev.to/naval_kishorupadhyay_2493/multi-nic-in-linux-what-they-are-why-they-exist-and-how-traffic-flows-2dpk)
-- [The One-Letter Rails Bug That Slipped Past Rubocop, CI, and Code Reviews](https://dev.to/madhuhari188/the-one-letter-rails-bug-that-slipped-past-rubocop-ci-and-code-reviews-12im)
-- [HAVING Condition Pushdown: Optimizing Query Performance](https://dev.to/sqlflash1024/having-condition-pushdown-optimizing-query-performance-4lhk)
-- [Create Stunning AI Animations in 2025 with Textideo](https://dev.to/ethan_parkx_09fc0c31cddf/create-stunning-ai-animations-in-2025-with-textideo-pca)
-- [The Complete Quality Engineering Roadmap](https://dev.to/idavidov13/the-complete-quality-engineering-roadmap-5ec5)
+- [Elon Just Broke the Internet: Tesla Robots Worth More Than Cars](https://dev.to/shiva_shanker_k/elon-just-broke-the-internet-tesla-robots-worth-more-than-cars-46ll)
+- [🚨 Tech Chaos: August 2025&#39;s Most INSANE Stories](https://dev.to/shiva_shanker_k/tech-chaos-august-2025s-most-insane-stories-1ii5)
+- [NPM v/s NPX](https://dev.to/anuradha9712/npm-vs-npx-1lj0)
+- [Building Your First Full-Stack CRUD App with FastAPI and React.js](https://dev.to/gilly7/building-your-first-full-stack-crud-app-with-fastapi-and-reactjs-3i1n)
+- [When Wi-Fi Becomes the Weakest Link in Zero Trust](https://dev.to/leonardkachi/when-wi-fi-becomes-the-weakest-link-in-zero-trust-2cib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
