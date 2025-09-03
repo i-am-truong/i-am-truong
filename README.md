@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Builder Design Pattern implemented using Python...](https://dev.to/sommukhopadhyay/builder-design-pattern-implemented-using-python-52hb)
+- [Experimentation with Design Pattern](https://dev.to/sommukhopadhyay/experimentation-with-design-pattern-3486)
+- [How Turborepo Builds Its Graph?](https://dev.to/ippatev/how-turborepo-builds-its-graph-157i)
+- [Migration Experience: 60 000 Users from MongoDB to SQL](https://dev.to/marek_kregiel_d6361c8268f/migrating-60000-users-from-mongodb-to-sql-safe-quick-and-easy-4mp9)
 - [One way to solve the Screen Rotation problem while dealing with Android Asynctask](https://dev.to/sommukhopadhyay/one-way-to-solve-the-screen-rotation-problem-while-dealing-with-android-asynctask-409d)
-- [Rust for Beginners: 8 Practical Tips to Get Started](https://dev.to/iolivia/rust-for-beginners-8-practical-tips-to-get-started-1jd)
-- [&quot;Starting Small, Dreaming Big : My Web Dev Dairy&quot;](https://dev.to/sharifa_ahmad_af2e7b39b15/starting-small-dreaming-big-my-web-dev-dairy-131d)
-- [GameSpot: 007 First Light - State of Play Gameplay Deep Dive Livestream](https://dev.to/gg_news/gamespot-007-first-light-state-of-play-gameplay-deep-dive-livestream-pil)
-- [IGN: Mewgenics - 50-Minute Developer Gameplay Commentary Video](https://dev.to/gg_news/ign-mewgenics-50-minute-developer-gameplay-commentary-video-286)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
