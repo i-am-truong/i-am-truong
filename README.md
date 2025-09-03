@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello Cybersecurity World! My Journey into Ethical Hacking👋](https://dev.to/tanya_bhardwaj20/hello-cybersecurity-world-my-journey-into-ethical-hacking-1261)
+- [Best platform to learn React: What helped me move beyond tutorials](https://dev.to/stack_overflowed/best-platform-to-learn-react-what-helped-me-move-beyond-tutorials-aik)
+- [Enhancing FHIR EpisodeOfCare Resources: Improving Interoperability and Performance](https://dev.to/budiwidhiyanto/enhancing-fhir-episodeofcare-resources-improving-interoperability-and-performance-4cnd)
 - [Building Interactive CLI Applications with Node.js: A Beginner&#39;s Guide](https://dev.to/blamsa0mine/building-interactive-cli-applications-with-nodejs-a-beginners-guide-22kb)
 - [Rethinking LLM-Powered Apps: Ditching Tool Overload for Smarter Query Abstraction](https://dev.to/saravanan_ramupillai/rethinking-llm-powered-apps-ditching-tool-overload-for-smarter-query-abstraction-1aan)
-- [From Code-First to Visual Excellence: My Cyberpunk RPG&#39;s Complete UI Transformation](https://dev.to/creator_x/from-code-first-to-visual-excellence-my-cyberpunk-rpgs-complete-ui-transformation-2k25)
-- [Bun vs Node.js – Why Developers Are Switching](https://dev.to/rigalpatel001/bun-vs-nodejs-why-developers-are-switching-1125)
-- [Fixing GitHub Authentication Error: &quot;erase operation not supported&quot; and &quot;Invalid username or token&quot;](https://dev.to/nutan_mishra_95d0a3808a4d/fixing-github-authentication-error-erase-operation-not-supported-and-invalid-username-or-token-47jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
