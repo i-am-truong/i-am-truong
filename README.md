@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why DevOps Is a Culture, Not a Role](https://dev.to/addwebsolutionpvtltd/why-devops-is-a-culture-not-a-role-2n89)
-- [Are AI Companions Removing the Mystery and Excitement from Dating?](https://dev.to/john_7c3125ee5a25c0793591/are-ai-companions-removing-the-mystery-and-excitement-from-dating-5cg4)
-- [Day 11 of 100.](https://dev.to/lyop_achayi/day-11-of-100-58k1)
-- [Could AI Companions Learn a User’s Love Language Better Than Any Human Partner?](https://dev.to/john_7c3125ee5a25c0793591/could-ai-companions-learn-a-users-love-language-better-than-any-human-partner-p2b)
-- [Spiking Neural Nets: Can Nonlinear Synapses Unlock a New Era of AI?](https://dev.to/arvindsundararajan/spiking-neural-nets-can-nonlinear-synapses-unlock-a-new-era-of-ai-1o2p)
+- [ZKVote: The Invisible Ballot That Could Unite the World.](https://dev.to/revis047/zkvote-the-invisible-ballot-that-could-unite-the-world-3p5m)
+- [My Breakup Letter to JavaScript: A Developer&#39;s Journey to Moving On](https://dev.to/thedevankit/my-breakup-letter-to-javascript-a-developers-journey-to-moving-on-4af0)
+- [Laravel Cache Tip: Avoid Redundant has/missing Calls](https://dev.to/tegos/laravel-cache-tip-avoid-redundant-hasmissing-calls-4hi1)
+- [Pocket-Sized Performance: Building a Network Sentinel with Reservoir Computing on a Pi by Arvind Sundararajan](https://dev.to/arvindsundararajan/pocket-sized-performance-building-a-network-sentinel-with-reservoir-computing-on-a-pi-by-arvind-2bh4)
+- [Inside an agent’s brain: Why AI Needs Open Orchestration](https://dev.to/genai-works/inside-an-agents-brain-why-ai-needs-open-orchestration-69j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
