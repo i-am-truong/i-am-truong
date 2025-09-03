@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Smarter Illustration Hub for Developers and Designers](https://dev.to/devmastermind/icons8-ouch-a-smarter-illustration-hubfor-developers-and-designers-2oma)
-- [WordPress vs Next.js: A Developer&#39;s Technical Decision Framework for 2025](https://dev.to/n9ka/wordpress-vs-nextjs-a-developers-technical-decision-framework-for-2025-16i6)
-- [Daily DSA and System Design Journal - 6](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-6-2h8c)
-- [Turning Entire Blogs into Short Summaries: Map-Reduce for LLMs](https://dev.to/grzegorz_dubiel_db99203fe/turning-entire-blogs-into-short-summaries-map-reduce-for-llms-66j)
-- [Ever asked a model “where did you get that?” Citations for document parsing solve that exact trust gap. Fewer hallucinations. More trust. Reliable workflows. Read the article, watch the video, try the notebook 👇](https://dev.to/drguthals/ever-asked-a-model-where-did-you-get-that-citations-for-document-parsing-solve-that-exact-27i5)
+- [Linux Automated User Creation - Bash Script](https://dev.to/jic/linux-automated-user-creation-bash-script-12l3)
+- [Slash Your Firebase Costs: A Real-World Guide to Caching in Next.js](https://dev.to/n9ka/slash-your-firebase-costs-a-real-world-guide-to-caching-in-nextjs-ee4)
+- [Unlock Network Insights: AI-Powered Observability on a Shoestring by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlock-network-insights-ai-powered-observability-on-a-shoestring-by-arvind-sundararajan-5a3i)
+- [Servidor de Factorio 100% declarativo com NixOS e Terraform no Magalu Cloud](https://dev.to/magalucloud/servidor-de-factorio-100-declarativo-com-nixos-e-terraform-no-magalu-cloud-3f37)
+- [Learning Javascript](https://dev.to/chirag_sharma2005/learning-javascript-47m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
