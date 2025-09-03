@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Swift - Reflection with the Mirror API](https://dev.to/jon_hoffman_f1d0c8f236d2b/swift-reflection-with-the-mirror-api-2e28)
 - [🤖 WebOTP API: State of art and UX improvements](https://dev.to/tuna_dev/webotp-api-state-of-art-and-ux-improvements-3m61)
 - [Validador do Novo CNPJ Alfanumérico em JavaScript](https://dev.to/edivan/validador-do-novo-cnpj-alfanumerico-em-javascript-21ki)
 - [&quot;Vibe Grokking&quot; My Way Into an Apple Watch App](https://dev.to/themindfulmerge/vibe-grokking-my-way-into-an-apple-watch-app-2e18)
 - [Zoi, an advanced package manager](https://dev.to/zillowez/zoi-an-advanced-package-manager-27gd)
-- [My First Steps on Dev.to 🚀](https://dev.to/prakash_maheshwaran/my-first-steps-on-devto-jcn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
