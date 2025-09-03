@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como escrever uma documentação técnica que realmente funciona](https://dev.to/pripoliveira50/como-escrever-uma-documentacao-tecnica-que-realmente-funciona-h1)
 - [The MCP Future: When AI Agents Run Your Entire Business](https://dev.to/leomarsh/the-mcp-future-when-ai-agents-run-your-entire-business-285g)
 - [TeCambio is a personal project that I would like to grow](https://dev.to/martin_adolfobravomonta/tecambio-is-a-personal-project-that-i-would-like-to-grow-l4g)
 - [Docker cagent: Como orquestrar agentes IA com YAML &lpar;e por que isso muda tudo&rpar;](https://dev.to/rflpazini/docker-cagent-como-orquestrar-agentes-ia-com-yaml-e-por-que-isso-muda-tudo-2fjh)
 - [How Perplexity AI and Its Rivals Are Redefining Marketing Workflows](https://dev.to/onlineproxy/how-perplexity-ai-and-its-rivals-are-redefining-marketing-workflows-224)
-- [How to Build a Powerful WordPress Directory with Custom Fields and Advanced Search](https://dev.to/n9ka/how-to-build-a-powerful-wordpress-directory-with-custom-fields-and-advanced-search-5712)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
