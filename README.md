@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Workload Communication with Azure Private DNS Zones](https://dev.to/peter_samuel_052b9056e236/simplifying-workload-communication-with-azure-private-dns-zones-5fo2)
+- [Full screen POC](https://dev.to/ben/full-screen-poc-4he7)
 - [Refactor Smart Today, Move Faster Tomorrow — Part 2: Plan Your Refactor Step by Step](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-2-plan-your-refactor-step-by-step-1021)
-- [Building a Payment Provider: The Hidden Technical Complexity](https://dev.to/bbescort-team/-building-a-payment-provider-the-hidden-technical-complexity-28o0)
-- [From Terminal to Code: Automatically Convert Shell Commands to Node.js Scripts with shell2node 🍃](https://dev.to/silentwatcher_95/from-terminal-to-code-automatically-convert-shell-commands-to-nodejs-scripts-with-shell2node-4853)
-- [New Here...](https://dev.to/7chats/new-here-4abg)
-- [Next.js and the Evil Web Vitals - a ranking killer?](https://dev.to/bbescort-team/nextjs-and-the-evil-web-vitals-a-ranking-killer-2jc7)
+- [The Magic Behind the User Experience: File Insights Features Deep-Dive 🪄](https://dev.to/vijay431/the-magic-behind-the-user-experience-file-insights-features-deep-dive-109k)
+- [Unlocking Android Bootloader and Flashing GSI: A Complete Guide for Motorola Edge 40 Neo](https://dev.to/gamedev90/unlocking-android-bootloader-and-flashing-gsi-a-complete-guide-for-motorola-edge-40-neo-595m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
