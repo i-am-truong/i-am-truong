@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding AI: Common terms and acronyms made simple](https://dev.to/techielass/understanding-ai-common-terms-and-acronyms-made-simple-444a)
+- [Meaning of education to me...](https://dev.to/sommukhopadhyay/meaning-of-education-to-me-40na)
+- [C++ 20 - concurrency - stop_token in jthread - politely interrupting the thread...](https://dev.to/sommukhopadhyay/c-20-concurrency-stoptoken-in-jthread-politely-interrupting-the-thread-79j)
+- [⚡ Automating Workflows with n8n and AI](https://dev.to/techstuff/automating-workflows-with-n8n-and-ai-4j3e)
 - [Builder Design Pattern implemented using Python...](https://dev.to/sommukhopadhyay/builder-design-pattern-implemented-using-python-52hb)
-- [Experimentation with Design Pattern](https://dev.to/sommukhopadhyay/experimentation-with-design-pattern-3486)
-- [How Turborepo Builds Its Graph?](https://dev.to/ippatev/how-turborepo-builds-its-graph-157i)
-- [Migration Experience: 60 000 Users from MongoDB to SQL](https://dev.to/marek_kregiel_d6361c8268f/migrating-60000-users-from-mongodb-to-sql-safe-quick-and-easy-4mp9)
-- [One way to solve the Screen Rotation problem while dealing with Android Asynctask](https://dev.to/sommukhopadhyay/one-way-to-solve-the-screen-rotation-problem-while-dealing-with-android-asynctask-409d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
