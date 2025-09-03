@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cache Me If You Can: Design Patterns for Performance](https://dev.to/sibasishm/cache-me-if-you-can-design-patterns-for-performance-4ag0)
+- [Fargate + Lambda are better together](https://dev.to/aws-builders/fargate-lambda-are-better-together-2clf)
+- [Use Lazy Routing with React Suspense to Optimize Performance](https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh)
+- [Day 13 – Multi-agent Chaos in AI Pipelines &lpar;ProblemMap No.13&rpar;](https://dev.to/onestardao/day-13-multi-agent-chaos-in-ai-pipelines-problemmap-no13-33fa)
 - [Lessons from Building a Global AI Brand from Scratch](https://dev.to/jaideepparashar/lessons-from-building-a-global-ai-brand-from-scratch-f1g)
-- [🚀 Day 3 of My DevOps Journey: Git &amp; GitHub for DevOps &lpar;From Zero to Daily Workflow&rpar;](https://dev.to/dankbhardwaj/day-3-of-my-devops-journey-git-github-for-devops-from-zero-to-daily-workflow-m6o)
-- [Practical Patterns for Adding Language Understanding to Any Software System](https://dev.to/stanislav_komarovsky_b478/practical-patterns-for-adding-language-understanding-to-any-software-system-ch4)
-- [Automating Publisher Reporting on AWS: A Serverless Architecture with Slack Alerts](https://dev.to/gurudev_prasadteketi/automating-publisher-reporting-on-aws-a-serverless-architecture-with-slack-alerts-3004)
-- [Smartbi Access Bypass Vulnerability Leads to Admin Takeover](https://dev.to/sharon_42e16b8da44dabde6d/smartbi-access-bypass-vulnerability-leads-to-admin-takeover-7f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
