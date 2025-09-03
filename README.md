@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Authorization in Laravel](https://dev.to/ashrakt_amin/authorization-in-laravel-4j94)
-- [5 Ways to Improve Your UGC Live Streaming App with AI](https://dev.to/aws/5-ways-to-improve-your-ugc-live-streaming-app-with-ai-1ib9)
-- [Automate Your Screenshot Documentation with Playwright MCP](https://dev.to/debs_obrien/automate-your-screenshot-documentation-with-playwright-mcp-3gk4)
-- [Fix ReferenceError: __dirname is Not Defined in ES Module Scope in Node.js](https://dev.to/a9kit_kumar/fix-referenceerror-dirname-is-not-defined-in-es-module-scope-in-nodejs-503p)
-- [Why GitHub Releases Suck for Binary Distribution](https://dev.to/gaborboros/why-github-releases-suck-for-binary-distribution-289i)
+- [Apostrophe 4.21.0: Effortless Image Uploads and Strategic Platform Enhancements](https://dev.to/apostrophetechnologies/apostrophe-4210-effortless-image-uploads-and-strategic-platform-enhancements-33m5)
+- [React Recap, years later, thanks to Astro](https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a)
+- [A small checklist for Elementor users](https://dev.to/elliemiguel/a-small-checklist-for-elementor-users-28c8)
+- [Deploy Your Own AI Video Ad Generator on AWS &lpar;Using Nova / Poly / ECS / Streamlit&rpar;](https://dev.to/debadattap/deploy-your-own-ai-video-ad-generator-on-aws-using-nova-poly-ecs-streamlit-1833)
+- [[Boost]](https://dev.to/davinceleecode/-1096)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
