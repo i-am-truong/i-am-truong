@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ZKVote: The Invisible Ballot That Could Unite the World.](https://dev.to/revis047/zkvote-the-invisible-ballot-that-could-unite-the-world-3p5m)
-- [My Breakup Letter to JavaScript: A Developer&#39;s Journey to Moving On](https://dev.to/thedevankit/my-breakup-letter-to-javascript-a-developers-journey-to-moving-on-4af0)
-- [Laravel Cache Tip: Avoid Redundant has/missing Calls](https://dev.to/tegos/laravel-cache-tip-avoid-redundant-hasmissing-calls-4hi1)
-- [Pocket-Sized Performance: Building a Network Sentinel with Reservoir Computing on a Pi by Arvind Sundararajan](https://dev.to/arvindsundararajan/pocket-sized-performance-building-a-network-sentinel-with-reservoir-computing-on-a-pi-by-arvind-2bh4)
-- [Inside an agent’s brain: Why AI Needs Open Orchestration](https://dev.to/genai-works/inside-an-agents-brain-why-ai-needs-open-orchestration-69j)
+- [Dapper no .NET: simplicidade e performance no acesso a dados](https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1)
+- [Angular 20&#39;s Game-Changing Features: Mastering Tagged Template Literals and the Revolutionary &quot;in&quot; Operator](https://dev.to/codewithrajat/angular-20s-game-changing-features-mastering-tagged-template-literals-and-the-revolutionary-2njf)
+- [Const Assertions en TypeScript 🤔](https://dev.to/duxtech/const-assertions-en-typescript-57jf)
+- [LLM Prompt Management in 2025: A Practical Playbook for Scale, Quality, and Speed](https://dev.to/kamya_shah_3f4a20d6f64092/llm-prompt-management-in-2025-a-practical-playbook-for-scale-quality-and-speed-59bi)
+- [The Hackathon I Swore Off — and the Exhaustion That Mostly Compiled](https://dev.to/anchildress1/the-hackathon-i-swore-off-and-the-exhaustion-that-mostly-compiled-c4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
