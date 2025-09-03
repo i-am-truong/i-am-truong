@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 4: GPU Security and Isolation](https://dev.to/shohams/part-4-gpu-security-and-isolation-4bmd)
+- [Not Just Scraping: OSINTGraph Turns Your Target’s Instagram Network into an Investigable Graph with an Integrated AI Agent](https://dev.to/justin_lol_a756619fd64361/not-just-scraping-osintgraph-turns-your-targets-instagram-network-into-an-investigable-graph-with-241l)
+- [HTTP Status Codes: A Developer&#39;s Real-World Guide🚦](https://dev.to/sidharth_sangelia/http-status-codes-a-developers-real-world-guide-3gd4)
+- [Make RAG Provable: Page + BBox Citations for All Extracted Data](https://dev.to/tensorlake/make-rag-provable-page-bbox-citations-for-all-extracted-data-4ipc)
 - [React Context APIs, State sharing and Zustand](https://dev.to/rajusarkar/react-context-apis-state-sharing-and-zustand-13e6)
-- [Sharding in CouchDB: Choosing the Right q Value](https://dev.to/neighbourhoodie/sharding-in-couchdb-choosing-the-right-q-value-4jah)
-- [Cursor telling me &quot;That&#39;s a brilliant idea&quot; seems like a bit much](https://dev.to/ben/cursor-telling-me-thats-a-brilliant-idea-seems-like-a-bit-much-2bkh)
-- [The Hidden Costs of &#39;Optimized&#39; VPS: What DigitalOcean Doesn&#39;t Tell You](https://dev.to/sst21/the-hidden-costs-of-optimized-vps-what-digitalocean-doesnt-tell-you-223c)
-- [Elicitation in MCP: Bridging the Human-AI Gap](https://dev.to/om_shree_0709/elicitation-in-mcp-bridging-the-human-ai-gap-oo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
