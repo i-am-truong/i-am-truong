@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Introducing AI-DBUG](https://dev.to/workwithnk/introducing-ai-dbug-21p0)
+- [Menjalankan Laravel Queue di cPanel Menggunakan Cronjob](https://dev.to/app_zain_444423744db73517/menjalankan-laravel-queue-di-cpanel-menggunakan-cronjob-39cl)
 - [Svelte Reactivity Explained: How Your UI Updates Automatically](https://dev.to/a1guy/svelte-reactivity-explained-how-your-ui-updates-automatically-4l2m)
 - [react-bootstrap Modal never displays](https://dev.to/ppowell777/react-bootstrap-modal-never-displays-3l5h)
 - [Cache Me If You Can: Design Patterns for Performance](https://dev.to/sibasishm/cache-me-if-you-can-design-patterns-for-performance-4ag0)
-- [Fargate + Lambda are better together](https://dev.to/aws-builders/fargate-lambda-are-better-together-2clf)
-- [Use Lazy Routing with React Suspense to Optimize Performance](https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
