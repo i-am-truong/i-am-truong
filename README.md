@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Starbucks Calorie Tracker with JavaScript + Custom Logic](https://dev.to/debra_williams_b7bdb03f63/building-a-starbucks-calorie-tracker-with-javascript-custom-logic-39n4)
 - [From DevOps to Cloud Engineering: Why Careers Are Shifting in 2025](https://dev.to/mahadi_uptech/from-devops-to-cloud-engineering-why-careers-are-shifting-in-2025-kig)
 - [Building Your IT Foundation: Understanding Internet Protocol Basics](https://dev.to/andrew_despres/building-your-it-foundation-understanding-internet-protocol-basics-4i4h)
 - [Created my first bot today](https://dev.to/ramoyald/created-my-first-bot-today-341e)
 - [I Open-Sourced My Multi-Agent Orchestration Framework &lpar;94% Lower API Costs&rpar;](https://dev.to/dpelleri/i-open-sourced-my-multi-agent-orchestration-framework-94-lower-api-costs-9ld)
-- [Why We Built Raff Technologies: The Idea and Vision Behind It The Starting Point](https://dev.to/batuhan_esirger/why-we-built-raff-technologies-the-idea-and-vision-behind-itthe-starting-point-hg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
