@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [How to create Google Gemini AI component in Total.js Flow](https://dev.to/palo/how-to-create-google-gemini-ai-component-in-totaljs-flow-493h)
 - [Barcode Inspection and Verification &lpar;# 60&rpar;--SPL Programming Practice](https://dev.to/esproc_spl/barcode-inspection-and-verification-60-spl-programming-practice-5o4)
 - [The Human Factor: Why Accessibility Testing is Now a Non-Negotiable ♿](https://dev.to/vaibhavkuls/the-human-factor-why-accessibility-testing-is-now-a-non-negotiable-4fi6)
-- [Fortify Schema](https://dev.to/idevo/fortify-schema-13le)
+- [Fortify Schema](https://dev.to/procoder1728/fortify-schema-13le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
