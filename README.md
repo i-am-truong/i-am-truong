@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Rust 🦀 - RustConf 2025 | Day 1](https://dev.to/darkosubotica/asynchronous-rust-rustconf-2025-day-1-141n)
-- [Python vs JavaScript: Speed, Sorting, and Performance Compared](https://dev.to/mcheremnov/python-vs-javascript-speed-sorting-and-performance-compared-405)
-- [day1 low level question](https://dev.to/swetha_palani_1547914a082/day1-low-level-question-3a2b)
-- [Setting Up Your Full-Stack Environment with Next.js, Prisma &amp; PostgreSQL](https://dev.to/nandini_pahuja/setting-up-your-full-stack-environment-with-nextjs-prisma-postgresql-lie)
-- [TypeScript Best Practices in Large Codebases](https://dev.to/srini_k/typescript-best-practices-in-large-codebases-58kc)
+- [One way to solve the Screen Rotation problem while dealing with Android Asynctask](https://dev.to/sommukhopadhyay/one-way-to-solve-the-screen-rotation-problem-while-dealing-with-android-asynctask-409d)
+- [Rust for Beginners: 8 Practical Tips to Get Started](https://dev.to/iolivia/rust-for-beginners-8-practical-tips-to-get-started-1jd)
+- [&quot;Starting Small, Dreaming Big : My Web Dev Dairy&quot;](https://dev.to/sharifa_ahmad_af2e7b39b15/starting-small-dreaming-big-my-web-dev-dairy-131d)
+- [GameSpot: 007 First Light - State of Play Gameplay Deep Dive Livestream](https://dev.to/gg_news/gamespot-007-first-light-state-of-play-gameplay-deep-dive-livestream-pil)
+- [IGN: Mewgenics - 50-Minute Developer Gameplay Commentary Video](https://dev.to/gg_news/ign-mewgenics-50-minute-developer-gameplay-commentary-video-286)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
