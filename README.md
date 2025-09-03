@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AI: Common terms and acronyms made simple](https://dev.to/techielass/understanding-ai-common-terms-and-acronyms-made-simple-444a)
-- [Meaning of education to me...](https://dev.to/sommukhopadhyay/meaning-of-education-to-me-40na)
-- [C++ 20 - concurrency - stop_token in jthread - politely interrupting the thread...](https://dev.to/sommukhopadhyay/c-20-concurrency-stoptoken-in-jthread-politely-interrupting-the-thread-79j)
-- [⚡ Automating Workflows with n8n and AI](https://dev.to/techstuff/automating-workflows-with-n8n-and-ai-4j3e)
-- [Builder Design Pattern implemented using Python...](https://dev.to/sommukhopadhyay/builder-design-pattern-implemented-using-python-52hb)
+- [Configuring Secure Access to Workloads with Azure Virtual Networking Services](https://dev.to/peter_samuel_052b9056e236/configuring-secure-access-to-workloads-with-azure-virtual-networking-services-1p2h)
+- [How to create Google Gemini AI component in Total.js Flow](https://dev.to/palo/how-to-create-google-gemini-ai-component-in-totaljs-flow-493h)
+- [Barcode Inspection and Verification &lpar;# 60&rpar;--SPL Programming Practice](https://dev.to/esproc_spl/barcode-inspection-and-verification-60-spl-programming-practice-5o4)
+- [The Human Factor: Why Accessibility Testing is Now a Non-Negotiable ♿](https://dev.to/vaibhavkuls/the-human-factor-why-accessibility-testing-is-now-a-non-negotiable-4fi6)
+- [Fortify Schema](https://dev.to/idevo/fortify-schema-13le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
