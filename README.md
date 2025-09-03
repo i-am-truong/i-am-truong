@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [👋 Hey DEV Community! Excited to Start My DevOps Journey 🚀](https://dev.to/sheersh_sinha_1ac2bb28045/hey-dev-community-excited-to-start-my-devops-journey-cb4)
+- [An Enum Alternative to the Factory Pattern: The Pros, Cons, and Hidden Dangers](https://dev.to/ketkiambekar/an-enum-alternative-to-the-factory-pattern-the-pros-cons-and-hidden-dangers-41e5)
+- [I have created a whatsapp and facebook like social gaming platform](https://dev.to/john4650hub/i-have-created-a-whatsapp-and-facebook-like-social-gaming-platform-11ml)
 - [Code Wars - 6kyu &#39;Split Strings&#39; solution in Python](https://dev.to/claudiogiubrone/code-wars-6kyu-split-strings-solution-in-python-5doe)
 - [Comprehensive Guide to File Handling in Python](https://dev.to/tapobanray/comprehensive-guide-to-file-handling-in-python-52dh)
-- [A Guide to Database Normalization &amp; Denormalization &lpar;With Visual Examples and Practical Use Cases&rpar;](https://dev.to/augo_amos/a-guide-to-database-normalization-denormalization-with-visual-examples-and-practical-use-cases-npd)
-- [Early-stage open-source project: OpsiMate](https://dev.to/idanlodzki/early-stage-open-source-project-opsimate-llc)
-- [A Modern Pipeline for Video Game UI Using Rive Animation](https://dev.to/uianimation/a-modern-pipeline-for-video-game-ui-using-rive-animation-472b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
