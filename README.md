@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure Resource Groups: Benefits, Drawbacks, and How to Create One](https://dev.to/jic/azure-resource-groups-benefits-drawbacks-and-how-to-create-one-483m)
-- [A importância de um HTML semântico](https://dev.to/stherzada/a-importancia-de-um-html-semantico-58j9)
-- [My Open Source Journey Begins with GitHub &amp; Magic Enum](https://dev.to/elsad_humbetli_0971c995ce/my-open-source-journey-begins-with-github-magic-enum-46g8)
-- [Migrating to n8n: A Developer’s Guide to Scalable Workflow Automation](https://dev.to/alifar/migrating-to-n8n-a-developers-guide-to-scalable-workflow-automation-765)
-- [🔐Vault With Kubernetes](https://dev.to/omar_ahmed/vault-with-kubernetes-452k)
+- [Validador do Novo CNPJ Alfanumérico em JavaScript](https://dev.to/edivan/validador-do-novo-cnpj-alfanumerico-em-javascript-21ki)
+- [&quot;Vibe Grokking&quot; My Way Into an Apple Watch App](https://dev.to/themindfulmerge/vibe-grokking-my-way-into-an-apple-watch-app-2e18)
+- [Zoi, an advanced package manager](https://dev.to/zillowez/zoi-an-advanced-package-manager-27gd)
+- [My First Steps on Dev.to 🚀](https://dev.to/prakash_maheshwaran/my-first-steps-on-devto-jcn)
+- [Enhance the Ecosystem: npm package to initialize react app with midnight lace wallet connection.](https://dev.to/hlee18lee46/enhance-the-ecosystem-npm-package-to-initialize-react-app-with-midnight-lace-wallet-connection-f1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
