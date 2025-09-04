@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Immerse Yourself in Code with Exercism](https://dev.to/ml318097/immerse-yourself-in-code-with-exercism-3ke2)
+- [🚀 Day 7 of My Python Learning Journey – Tuples in Python](https://dev.to/_adii3107/day-7-of-my-python-learning-journey-tuples-in-python-e78)
 - [Python Packaging and Execution Demystified](https://dev.to/naval_upadhyay/python-packaging-and-execution-demystified-2059)
 - [Kubernetes Architecture Overview](https://dev.to/locnguyenpv/kubernetes-architecture-overview-mll)
-- [Node.js gRPC calls and Promises](https://dev.to/domantasjurkus/wrapping-callbacks-in-promises-3nim)
-- [How to send Filament database notifications to a specific queue](https://dev.to/filamentmastery/how-to-send-filament-database-notifications-to-a-specific-queue-1e91)
+- [Docker to Kubernetes 30 day Migration path for developers](https://dev.to/pranesh_patel/docker-to-kubernetes-30-day-migration-path-for-developers-4jfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
