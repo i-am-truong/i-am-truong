@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [some problem about buildding LFS on Debian with WSL](https://dev.to/pipishuo/some-problem-about-buildding-lfs-on-debian-with-wsl-5f54)
-- [CSV Studio — DuckDB Edition: Upload CSV/XLSX Filter CRUD Export &lpar;free, no backend&rpar;](https://dev.to/xxbricksquadxx/csv-studio-duckdb-edition-upload-csvxlsx-filter-crud-export-free-no-backend-4nnh)
-- [Allowing ACME Requests for SSL Certificates in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/allowing-acme-requests-for-ssl-certificates-in-safeline-waf-29ni)
-- [How to use GPT for natural language querying](https://dev.to/chrisywz/how-to-use-gpt-for-natural-language-querying-207e)
-- [Node API Part-7 : Creating an ArkTS Runtime in Native Threads Using Node-API on HarmonyOSNext](https://dev.to/harmonyos/node-api-part-7-creating-an-arkts-runtime-in-native-threads-using-node-api-on-harmonyosnext-njl)
+- [Revamping Real-Time Data Ingestion for Scalable Media Intelligence](https://dev.to/capestart/revamping-real-time-data-ingestion-for-scalable-media-intelligence-29p5)
+- [3 AI Tools That Actually Save Me Hours &lpar;Sept Edition&rpar;](https://dev.to/jaideepparashar/3-ai-tools-that-actually-save-me-hours-sept-edition-1c95)
+- [Bridging the Digital Divide—What I Learned from Teaching Tech to Seniors](https://dev.to/ernesto_guzman_2ae6c20c7c/bridging-the-digital-divide-what-i-learned-from-teaching-tech-to-seniors-5a2i)
+- [Part-37: 🚀 Google Compute Engine – Managed Instance Groups &lpar;Stateful&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-37-google-compute-engine-managed-instance-groups-stateful-in-google-cloud-platform-gcp-2ib4)
+- [The N+1 Query Hangover: Curing Your Laravel Database Woes](https://dev.to/usmanzahidcode/the-n1-query-hangover-curing-your-laravel-database-woes-4oda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
