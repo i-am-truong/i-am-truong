@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Role of Service Maps in Optimizing PHP Application Performance](https://dev.to/olivia_madison_b0ad7090ad/the-role-of-service-maps-in-optimizing-php-application-performance-1hja)
+- [Vector Databases](https://dev.to/farhan_khan_41ec7ff11ac1d/vector-databases-kih)
+- [DevOps by Doing: Setting Up a Complete Modern DevOps Environment — Part 1](https://dev.to/johnogbonna/devops-by-doing-setting-up-a-complete-modern-devops-environment-part-1-mj8)
 - [poEditor:- Workflow Automation](https://dev.to/herat_dhruv/poeditor-workflow-automation-1goj)
 - [How a SNAPSHOT Caused a 2-Hour Outage &lpar;And How We Fixed It&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/how-a-snapshot-caused-a-2-hour-outage-and-how-we-fixed-it-2che)
-- [🔥 “Stack Explained: The Secret Weapon Behind LeetCode Monotonic Problems”](https://dev.to/umair01/stack-explained-the-secret-weapon-behind-leetcode-monotonic-problems-2d24)
-- [How Are Tokenized Stocks Changing the Game for Young Digital Investors?](https://dev.to/belly_william_ec336cacf4e/how-are-tokenized-stocks-changing-the-game-for-young-digital-investors-42k)
-- [Troubleshooting Broken Function Level Authorization](https://dev.to/zuplo/troubleshooting-broken-function-level-authorization-3d9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
