@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSV Studio — DuckDB Edition: Upload CSV/XLSX Filter CRUD Export &lpar;free, no backend&rpar;](https://dev.to/xxbricksquadxx/csv-studio-duckdb-edition-upload-csvxlsx-filter-crud-export-free-no-backend-4nnh)
+- [Allowing ACME Requests for SSL Certificates in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/allowing-acme-requests-for-ssl-certificates-in-safeline-waf-29ni)
 - [How to use GPT for natural language querying](https://dev.to/chrisywz/how-to-use-gpt-for-natural-language-querying-207e)
 - [Introduction to Insurance](https://dev.to/madgan95/introduction-to-insurance-4n34)
 - [3-Minute Guide: Make GitHub Copilot Generate High-Quality Code](https://dev.to/louis7/3-minute-guide-make-github-copilot-generate-high-quality-code-2cph)
-- [10 Cool CodePen Demos &lpar;July 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2025-2265)
-- [Yonyou U8 Cloud RCE: File Upload Bypass Confirmed](https://dev.to/sharon_42e16b8da44dabde6d/yonyou-u8-cloud-rce-flaw-file-upload-bypass-security-advisory-36ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
