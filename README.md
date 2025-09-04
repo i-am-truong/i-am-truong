@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Your React Journey Starts Here – Join My 2-Day Online Webinar!](https://dev.to/myogeshchavan97/your-react-journey-starts-here-join-my-2-day-online-webinar-34e3)
 - [Solution for “ChakraProvider&#39;s _config error” in React 19 + Chakra UI](https://dev.to/kazutora_hattori_66972c88/solution-for-chakraproviders-config-error-in-react-19-chakra-ui-1go2)
 - [How I Learned Python by Making Fun Projects](https://dev.to/areeejabbasii/how-i-learned-python-by-making-fun-projects-3jle)
 - [Mastering Angular’s httpResource: Why Services Beat Components](https://dev.to/agroupp/mastering-angulars-httpresource-why-services-beat-components-47c6)
 - [100 Days of DevOps : Day 32](https://dev.to/wycliffealphus/100-days-of-devops-day-32-359c)
-- [System Design Served Hot: How Ordering Pizza 🍕Taught Me Everything](https://dev.to/konark_13/system-design-served-hot-how-ordering-pizza-taught-me-everything-1bcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
