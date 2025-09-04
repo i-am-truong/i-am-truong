@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Insertion Works in Red-Black Trees](https://dev.to/babisha_s/how-insertion-works-in-red-black-trees-26k2)
-- [Log014_CloudFlare_Zoho.mail_ec2.md](https://dev.to/aka_artem_dd17be93c/log014cloudflarezohomailec2md-2pn3)
-- [Drizzle ORM Claude Code: Modern TypeScript Development](https://dev.to/pipipi-dev/drizzle-orm-x-claude-code-modern-typescript-development-2k6i)
-- [Testing Microservices with RabbitMQ using Signadot Sandboxes](https://dev.to/signadot/testing-microservices-with-rabbitmq-using-signadot-sandboxes-13ip)
-- [My Recent Debugging Adventure: The Case of the Disappearing Stylesheets](https://dev.to/sibasishm/my-recent-debugging-adventure-the-case-of-the-disappearing-stylesheets-5dbb)
+- [Why Turbopack in Next.js 15 Feels Like Cheating &lpar;in a Good Way&rpar;](https://dev.to/shubhradev/why-turbopack-in-nextjs-15-feels-like-cheating-in-a-good-way-ob1)
+- [Why Your Best Programming Mentor Might Be in Pajamas](https://dev.to/pullflow/why-your-best-programming-mentor-might-be-in-pajamas-4lah)
+- [The Human Truths of Database Migration](https://dev.to/codelink/the-human-truths-of-database-migration-cml)
+- [How to Standardize Commit Messages with Commitlint and Custom Rules](https://dev.to/werliton/how-to-standardize-commit-messages-with-commitlint-and-custom-rules-4l64)
+- [AI in Healthcare: How LLMs are Transforming Medical Documentation and Decision Making](https://dev.to/aun_aideveloper/ai-in-healthcare-how-llms-are-transforming-medical-documentation-and-decision-m-4615)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
