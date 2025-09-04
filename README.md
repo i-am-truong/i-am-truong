@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust Data Structures - Skip List](https://dev.to/arichy/rust-data-structures-skip-list-4408)
-- [Pygame #1 - small project](https://dev.to/polakk0/pygame-1-small-project-1bn7)
-- [Unlocking ComfyUI&#39;s Power: A Guide to the HTTP API in Jupyter](https://dev.to/worldlinetech/unlocking-comfyuis-power-a-guide-to-the-http-api-in-jupyter-1mpi)
-- [JavaScript vs Python for AI Product Development: Which One Should You Choose?](https://dev.to/mehta0007/javascript-vs-python-for-ai-product-development-which-one-should-you-choose-4cjn)
-- [From 20+ Years of Building Software to ShipDotnet 🚀](https://dev.to/kedzior_io/from-20-years-of-building-software-to-shipdotnet-50b1)
+- [How to Test AI Applications and ML Software: Best Practices Guide](https://dev.to/testfort_inc/how-to-test-ai-applications-and-ml-software-best-practices-guide-5g37)
+- [KEXP: Yuma Abe - Friends &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-friends-live-on-kexp-1jpn)
+- [KEXP: Yuma Abe - Sayonara &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-sayonara-live-on-kexp-c0c)
+- [KEXP: Yuma Abe - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-full-performance-live-on-kexp-4h9p)
+- [GameSpot: Octopath Traveler 0 Looks Massive, Even By Octopath Standards](https://dev.to/gg_news/gamespot-octopath-traveler-0-looks-massive-even-by-octopath-standards-25on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
