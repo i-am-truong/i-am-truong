@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;I&rpar; Principles of Data Model Architecture: Four Layers and Seven Stages](https://dev.to/seatunnel/i-principles-of-data-model-architecture-four-layers-and-seven-stages-1deo)
-- [🚀 Your React Journey Starts Here – Join My 2-Day Online Webinar!](https://dev.to/myogeshchavan97/your-react-journey-starts-here-join-my-2-day-online-webinar-34e3)
-- [Understanding Blazor compontent Lifecycle Methods in C#](https://dev.to/shreyans_padmani/understanding-blazor-compontent-lifecycle-methods-in-c-5f5k)
-- [How to Inherit .env in a Vite + Supabase Project](https://dev.to/kazutora_hattori_66972c88/how-to-inherit-env-in-a-vite-supabase-project-1jg5)
-- [Solution for “ChakraProvider&#39;s _config error” in React 19 + Chakra UI](https://dev.to/kazutora_hattori_66972c88/solution-for-chakraproviders-config-error-in-react-19-chakra-ui-1go2)
+- [Bryan Bros Golf: Can We Break a Course Record at the Cheapest Public Course?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-break-a-course-record-at-the-cheapest-public-course-2mg9)
+- [GameSpot: 007 First Light Preview: License to Thrill](https://dev.to/gg_news/gamespot-007-first-light-preview-license-to-thrill-548e)
+- [IGN: James Gunn Announces Man of Tomorrow as the Next Superman Saga Film - IGN Daily Fix](https://dev.to/gg_news/ign-james-gunn-announces-man-of-tomorrow-as-the-next-superman-saga-film-ign-daily-fix-3o3n)
+- [IGN: Witchspire - Official Announcement Trailer](https://dev.to/gg_news/ign-witchspire-official-announcement-trailer-50pd)
+- [IGN: Wuthering Heights - Official Teaser Trailer &lpar;2026&rpar; Margot Robbie, Jacob Elordi](https://dev.to/gg_news/ign-wuthering-heights-official-teaser-trailer-2026-margot-robbie-jacob-elordi-gn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
