@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Data Structures - Skip List](https://dev.to/arichy/rust-data-structures-skip-list-4408)
+- [Pygame #1 - small project](https://dev.to/polakk0/pygame-1-small-project-1bn7)
 - [Unlocking ComfyUI&#39;s Power: A Guide to the HTTP API in Jupyter](https://dev.to/worldlinetech/unlocking-comfyuis-power-a-guide-to-the-http-api-in-jupyter-1mpi)
 - [From 20+ Years of Building Software to ShipDotnet 🚀](https://dev.to/kedzior_io/from-20-years-of-building-software-to-shipdotnet-50b1)
 - [The Road Less Bumpy: React Native&#39;s New Era of Stability and Predictability](https://dev.to/joaopaulocmarra/the-road-less-bumpy-react-natives-new-era-of-stability-and-predictability-3gdn)
-- [📌 Share Data Between Components in Angular: Best Practices &amp; Different Approaches](https://dev.to/rohit_singh_ee84e64941db7/share-data-between-components-in-angular-best-practices-different-approaches-427b)
-- [Enhance the Ecosystem with Wallet Connector Plugin: Simplifying Secure Wallet Integration](https://dev.to/harish_05/wallet-connector-plugin-simplifying-secure-wallet-integration-abf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
