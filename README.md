@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Turbopack in Next.js 15 Feels Like Cheating &lpar;in a Good Way&rpar;](https://dev.to/shubhradev/why-turbopack-in-nextjs-15-feels-like-cheating-in-a-good-way-ob1)
-- [Why Your Best Programming Mentor Might Be in Pajamas](https://dev.to/pullflow/why-your-best-programming-mentor-might-be-in-pajamas-4lah)
-- [The Human Truths of Database Migration](https://dev.to/codelink/the-human-truths-of-database-migration-cml)
-- [How to Standardize Commit Messages with Commitlint and Custom Rules](https://dev.to/werliton/how-to-standardize-commit-messages-with-commitlint-and-custom-rules-4l64)
-- [AI in Healthcare: How LLMs are Transforming Medical Documentation and Decision Making](https://dev.to/aun_aideveloper/ai-in-healthcare-how-llms-are-transforming-medical-documentation-and-decision-m-4615)
+- [Unlocking ComfyUI&#39;s Power: A Guide to the HTTP API in Jupyter](https://dev.to/worldlinetech/unlocking-comfyuis-power-a-guide-to-the-http-api-in-jupyter-1mpi)
+- [From 20+ Years of Building Software to ShipDotnet 🚀](https://dev.to/kedzior_io/from-20-years-of-building-software-to-shipdotnet-50b1)
+- [The Road Less Bumpy: React Native&#39;s New Era of Stability and Predictability](https://dev.to/joaopaulocmarra/the-road-less-bumpy-react-natives-new-era-of-stability-and-predictability-3gdn)
+- [📌 Share Data Between Components in Angular: Best Practices &amp; Different Approaches](https://dev.to/rohit_singh_ee84e64941db7/share-data-between-components-in-angular-best-practices-different-approaches-427b)
+- [Enhance the Ecosystem with Wallet Connector Plugin: Simplifying Secure Wallet Integration](https://dev.to/harish_05/wallet-connector-plugin-simplifying-secure-wallet-integration-abf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
