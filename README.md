@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Modern SaaS Landing Page in Minutes with v0 by Vercel](https://dev.to/joyston_ccd43d53e268ec635/building-a-modern-saas-landing-page-in-minutes-with-v0-by-vercel-1jep)
+- [Gonk - Finished Project MVP](https://dev.to/ajmerr/gonk-finished-project-mvp-3hk3)
 - [Putting Your Site Behind G Cloud CDN, an unapologetically detailed, how-to](https://dev.to/lovestaco/putting-your-site-behind-g-cloud-cdn-an-unapologetically-detailed-how-to-xd-44cn)
 - [Debugging My Sanity: One Console Log at a Time](https://dev.to/usmanzahidcode/debugging-my-sanity-one-console-log-at-a-time-1b3p)
 - [In a stupid defence of human-crafted content](https://dev.to/alesanchez/in-a-stupid-defence-of-human-crafted-content-3foa)
-- [Memory Management in PHP](https://dev.to/ahmedraza_fyntune/memory-management-in-php-m10)
-- [How to Enable Autocomplete in Laravel Blade Views and Partials](https://dev.to/raheelshan/how-to-enable-autocomplete-in-blade-partials-3ik9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
