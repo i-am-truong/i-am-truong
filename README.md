@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [wabt 使用小记](https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4)
-- [5 Absolutely Free Web Tools Every Developer Should Bookmark](https://dev.to/web_dev-usman/5-absolutely-free-web-tools-every-developer-should-bookmark-38jn)
-- [Juris.js: Debug What You Wrote](https://dev.to/professional_joe/jurisjs-debug-what-you-wrote-3dmj)
-- [Step-Audio 2 Mini: Open Speech AI You Can Deploy Today](https://dev.to/aiwithapex/step-audio-2-mini-open-speech-ai-you-can-deploy-today-26c8)
-- [🔔 Django Signals: Supercharging Your App with Event-Driven Architecture](https://dev.to/diveshkumar/django-signals-supercharging-your-app-with-event-driven-architecture-e5l)
+- [Leetcode Hardest SQL 185: Is the Best Solution Still Slow?](https://dev.to/sqlflash1024/leetcode-hardest-sql-185-is-the-best-solution-still-slow-3mgl)
+- [How a &quot;Boring&quot; CLI Cleanup in Apache Kafka Tells a Big Story](https://dev.to/kaan_karakoc_dev/how-a-boring-cli-cleanup-in-apache-kafka-tells-a-big-story-5c09)
+- [Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection](https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9)
+- [Offering Free Development Help 🚀](https://dev.to/tsheten33/offering-free-development-help-3pj)
+- [From 47-Minute Builds to 3 Minutes: The Docker Layer Caching Strategy That Saved Our Sprint](https://dev.to/teamcamp/from-47-minute-builds-to-3-minutes-the-docker-layer-caching-strategy-that-saved-our-sprint-5f5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
