@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Docker in China: Practical Workarounds for Developers](https://dev.to/topunix/using-docker-in-china-practical-workarounds-for-developers-26lp)
-- [Building Youtangen: An AI-Driven Sustainable Material Platform with Kiro #kiro](https://dev.to/marvinoka4/building-youtangen-an-ai-driven-sustainable-material-platform-with-kiro-kiro-5doc)
-- [Beyond the Plough: How to Thrive When AI Rewrites the Job](https://dev.to/black-ib/beyond-the-plough-how-to-thrive-when-ai-rewrites-the-job-3p33)
-- [The Philosophical Choice Between SQLite and DuckDB for Flutter Developers](https://dev.to/sayed_ali_alkamel/the-philosophical-choice-between-sqlite-and-duckdb-for-flutter-developers-43hj)
-- [CompTIA Network+ N10-009 Notes: A Simple Guide to IPv4](https://dev.to/andrew_despres/comptia-network-n10-009-notes-a-simple-guide-to-ipv4-3mad)
+- [Sacred Pause: A Third State for AI Accountability](https://dev.to/lev_goukassian_5fe7ea654a/sacred-pause-a-third-state-for-ai-accountability-49mm)
+- [SDLC and AI](https://dev.to/lloydmc/sdlc-and-ai-1342)
+- [Building a &#39;Chat with Your Logs&#39; System on AWS Using OpenSearch Serverless and Bedrock](https://dev.to/kirponik/building-a-chat-with-your-logs-system-on-aws-using-opensearch-serverless-and-bedrock-57g2)
+- [Run Your Expo App on a Physical Phone &lpar;with a Development Build&rpar; — Expo 53 + Expo Router](https://dev.to/cathylai/run-your-expo-app-on-a-physical-phone-with-a-development-build-expo-53-expo-router-h17)
+- [Azure NSG Routes](https://dev.to/charlie_barajas_353e28103/azure-nsg-routes-3k7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
