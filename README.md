@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy an App Across Accounts](https://dev.to/maven_h/deploy-an-app-across-accounts-nb4)
+- [Liten: A Tiny API Gateway for Solo Devs - Looking for Feedback!](https://dev.to/moorebrett0/liten-a-tiny-api-gateway-for-solo-devs-looking-for-feedback-21od)
+- [Solving the Localhost Development Headache with Nanocl](https://dev.to/0xle0ne/solving-the-localhost-development-headache-with-nanocl-53jc)
 - [Nuxt 3 e Cloudflare](https://dev.to/heltonbrito/nuxt-3-e-cloudflare-h2g)
 - [Ship It, What Could Go Wrong?](https://dev.to/knunn553/ship-it-what-could-go-wrong-50i3)
-- [Building a Modern SaaS Landing Page in Minutes with v0 by Vercel](https://dev.to/joyston_ccd43d53e268ec635/building-a-modern-saas-landing-page-in-minutes-with-v0-by-vercel-1jep)
-- [Gonk - Finished Project MVP](https://dev.to/ajmerr/gonk-finished-project-mvp-3hk3)
-- [Putting Your Site Behind G Cloud CDN, an unapologetically detailed, how-to](https://dev.to/lovestaco/putting-your-site-behind-g-cloud-cdn-an-unapologetically-detailed-how-to-xd-44cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
