@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building AWS Infrastructure the Sane Way: A Terraform VPC Guide](https://dev.to/sysdiver/building-aws-infrastructure-the-sane-way-a-terraform-vpc-guide-1ic2)
-- [Digital Storyteller: A Multimodal Applet](https://dev.to/enniob/digital-storyteller-a-multimodal-applet-2930)
-- [X-Raying the Earth: AI Illuminates Hidden Depths by Arvind Sundararajan](https://dev.to/arvindsundararajan/x-raying-the-earth-ai-illuminates-hidden-depths-by-arvind-sundararajan-31om)
-- [DNS Spoofing Explained: How Hackers Trick the Internet’s Phonebook](https://dev.to/rijultp/dns-spoofing-explained-how-hackers-trick-the-internets-phonebook-38nd)
-- [Dear ChatGPT-5: We Need to Talk](https://dev.to/ospehlivano/dear-chatgpt-5-we-need-to-talk-4g6j)
+- [Introdução ao PHP: por que ainda é relevante em 2025](https://dev.to/devgugaofc/introducao-ao-php-por-que-ainda-e-relevante-em-2025-18j6)
+- [Monorepos: A Year in Review](https://dev.to/codenamegrant/monorepos-a-year-in-review-16b8)
+- [From Keywords to Conversations: How AI Search Is Rewriting the SEO Playbook](https://dev.to/ryan_bailes_7161e231f7fba/from-keywords-to-conversations-how-ai-search-is-rewriting-the-seo-playbook-4h68)
+- [From Wind Energy to Pet Health AI: Why I Built PetCoach.ai](https://dev.to/eric_german_cac67a7c61bac/from-wind-energy-to-pet-health-ai-why-i-built-petcoachai-397a)
+- [How I deploy n8n on a VPS with Docker + Nginx + HTTPS](https://dev.to/tahsin000/how-i-deploy-n8n-on-a-vps-with-docker-nginx-https-simple-step-by-step-2g73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
