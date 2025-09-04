@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Async programming](https://dev.to/chanhlt/what-is-async-programming-5bdj)
+- [🚀 3-Tier Application Deployment Challenge – Day 1 Progress!](https://dev.to/dev_saini_ce708cfac6b9562/3-tier-application-deployment-challenge-day-1-progress-55fd)
 - [Cryptographic Failure &lpar;Worked hard to sit here in OWASP Top 10 😎&rpar;](https://dev.to/keerthika_kadhiresan/cryptographic-failure-worked-hard-to-sit-here-in-owasp-top-10--4kp0)
 - [Days 21-22: Service Topology Visualization &amp; Dynamic UI Generation Complete](https://dev.to/clayroach/days-21-22-service-topology-visualization-dynamic-ui-generation-complete-3cod)
 - [Day 28 of My Data Analytics Journey !](https://dev.to/ramyacse/day-28-of-my-data-analytics-journey--4nj3)
-- [How to build with Nano Banana: Complete Developer Tutorial](https://dev.to/googleai/how-to-build-with-nano-banana-complete-developer-tutorial-646)
-- [Stop Building for &quot;Scale.&quot; You Don&#39;t Have Users Yet.](https://dev.to/shayy/stop-building-for-scale-you-dont-have-users-yet-4aep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
