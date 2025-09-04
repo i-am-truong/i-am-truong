@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Alan Turing and the Story of Breaking the Enigma](https://dev.to/toviszsolt/alan-turing-and-the-story-of-breaking-the-enigma-2h41)
-- [Top 5 Alternatives to Terraform: A Guide to Help You Choose the Right DevOps Tool](https://dev.to/mehul_budasana/top-5-alternatives-to-terraform-a-guide-to-help-you-choose-the-right-devops-tool-2e7l)
-- [Detecting Online and Offline Status in React](https://dev.to/safal_bhandari/detecting-online-and-offline-status-in-react-1i6o)
-- [Configuring Application Workloads to Use OpenShift Data Foundation Object Storage](https://dev.to/sindhuja_ns_1e491ce1088d/configuring-application-workloads-to-use-openshift-data-foundation-object-storage-2fe7)
-- [Understanding Linux Permissions: A Beginner-Friendly Guide for DevOps 🚀](https://dev.to/chethanblgs99/understanding-linux-permissions-a-beginner-friendly-guide-for-devops-3mbj)
+- [The Barrier in C++ 20 concurrency - the programmer in me is still thriving...](https://dev.to/sommukhopadhyay/the-barrier-in-c-20-concurrency-the-programmer-in-me-is-still-thriving-268h)
+- [AI everywhere: The hype, the misfits, and the inevitable maturity](https://dev.to/rockandnull/ai-everywhere-the-hype-the-misfits-and-the-inevitable-maturity-4hjl)
+- [Why SaaS Pricing Pages Fail](https://dev.to/dnskwork/why-saas-pricing-pages-fail-306d)
+- [MCP OAuth 2.1 - A Complete Guide](https://dev.to/composiodev/mcp-oauth-21-a-complete-guide-3g91)
+- [Dual publish ESM and CJS with tsdown](https://dev.to/hacksore/dual-publish-esm-and-cjs-with-tsdown-2l75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
