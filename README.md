@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Crypto Trading Bots: A Developer’s Guide](https://dev.to/riley_quinn_8e58a0a96d107/getting-started-with-crypto-trading-bots-a-developers-guide-l4e)
+- [Building a KYC Video Recording and Splitting System: React + FFmpeg + MediaRecorder API](https://dev.to/wintrover/building-a-kyc-video-recording-and-splitting-system-react-ffmpeg-mediarecorder-api-144)
 - [Generate Professional Real Estate Posters with Streamlit](https://dev.to/blamsa0mine/generate-professional-real-estate-posters-with-streamlit-59g)
+- [How to Test Communication Between a DC and Client Step by Step](https://dev.to/fakestandard/how-to-test-communication-between-a-dc-and-client-step-by-step-5h5k)
 - [RAG Simplified: The Secret Sauce Behind Smarter AI](https://dev.to/techstuff/rag-simplified-the-secret-sauce-behind-smarter-ai-54ek)
-- [E-commerce Business Logic: Customer Journeys and The Services Needed](https://dev.to/oscarrobertstar/e-commerce-business-logic-customer-journeys-and-the-services-needed-3khm)
-- [Building a Cost-Efficient Game Launcher with AWS Pre-Signed URLs](https://dev.to/lpossamai/building-a-cost-efficient-game-launcher-with-aws-pre-signed-urls-1k1k)
-- [Pixelation vs Wplace 63/64-color — why one looks cleaner](https://dev.to/howard_hua_7aaf46f9755a5b/pixelation-vs-wplace-6364-color-why-one-looks-cleaner-1ih9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
