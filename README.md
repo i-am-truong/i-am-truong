@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Batch Scoring with R: Scalable Predictions on Azure](https://dev.to/rishangsharma/batch-scoring-with-r-scalable-predictions-on-azure-533n)
-- [Implementing a Scalable Message Buffer for Natural AI Conversations in n8n](https://dev.to/einarcesar/implementing-a-scalable-message-buffer-for-natural-ai-conversations-in-n8n-poj)
-- [No Laying Up Podcast: A Visit with Michael Bamberger | NLU Pod, Ep 1065](https://dev.to/youtube_golf/no-laying-up-podcast-a-visit-with-michael-bamberger-nlu-pod-ep-1065-89l)
-- [From Digital Oracle to Star Forger: Launching Your App into the Real World](https://dev.to/mysterious_xuanwu_5a00815/from-digital-oracle-to-star-forger-launching-your-app-into-the-real-world-aib)
-- [Level Up Your Python: From Space Explorer to Project Master &amp; Concurrency Alchemist](https://dev.to/mysterious_xuanwu_5a00815/level-up-your-python-from-space-explorer-to-project-master-concurrency-alchemist-4m49)
+- [Yonyou U8 Cloud RCE: File Upload Bypass Confirmed](https://dev.to/sharon_42e16b8da44dabde6d/yonyou-u8-cloud-rce-flaw-file-upload-bypass-security-advisory-36ki)
+- [🚀 Day 4 of My DevOps Journey: Bash Scripting for DevOps](https://dev.to/dankbhardwaj/day-4-of-my-devops-journey-bash-scripting-for-devops-49go)
+- [🚀 StackOpsys: Part 3-Automating Kubernetes Infrastructure on Proxmox with Packer, Terraform and Ansible](https://dev.to/rtaparay/stackopsys-part-3-automating-kubernetes-infrastructure-on-proxmox-with-packer-terraform-5fl2)
+- [DaemonSet vs Deployment in Kubernetes: Key Differences Explained with Docker](https://dev.to/moni121189/daemonset-vs-deployment-in-kubernetes-key-differences-explained-with-docker-57n7)
+- [From Scratch: How to Develop a File Search Tool Rivaling &quot;Everything&quot; Using Pure C#](https://dev.to/ldotjdot/from-scratch-how-to-develop-a-file-search-tool-rivaling-everything-using-pure-c-3egj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
