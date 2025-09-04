@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [9 Practical Online Resources to Learn Coding in 2025 📚👨‍💻](https://dev.to/madza/9-practical-online-resources-to-learn-coding-in-2025-30m3)
-- [Ng-News 25/35: @for tracking strategies, Future of Angular at Angular Space](https://dev.to/this-is-angular/ng-news-2535-for-tracking-strategies-future-of-angular-at-angular-space-4cnn)
-- [Understanding BEM as a CSS Methodology for Modern Web Development](https://dev.to/michael-gokey/understanding-bem-as-a-css-methodology-for-modern-web-development-8l8)
-- [[Boost]](https://dev.to/sreekanth_kuruba_91721e5d/-10o2)
-- [Building a Smarter Custom Hook in React: Auto-Refreshing Data with Cleanup](https://dev.to/safal_bhandari/building-a-smarter-custom-hook-in-react-auto-refreshing-data-with-cleanup-31fg)
+- [Alan Turing and the Story of Breaking the Enigma](https://dev.to/toviszsolt/alan-turing-and-the-story-of-breaking-the-enigma-2h41)
+- [Top 5 Alternatives to Terraform: A Guide to Help You Choose the Right DevOps Tool](https://dev.to/mehul_budasana/top-5-alternatives-to-terraform-a-guide-to-help-you-choose-the-right-devops-tool-2e7l)
+- [Detecting Online and Offline Status in React](https://dev.to/safal_bhandari/detecting-online-and-offline-status-in-react-1i6o)
+- [Configuring Application Workloads to Use OpenShift Data Foundation Object Storage](https://dev.to/sindhuja_ns_1e491ce1088d/configuring-application-workloads-to-use-openshift-data-foundation-object-storage-2fe7)
+- [Understanding Linux Permissions: A Beginner-Friendly Guide for DevOps 🚀](https://dev.to/chethanblgs99/understanding-linux-permissions-a-beginner-friendly-guide-for-devops-3mbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
