@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cómo Habilitar el Modo Oscuro en Brave](https://dev.to/carlos_mata_24b95b955c733/como-habilitar-el-modo-oscuro-en-brave-1e57)
-- [Guia de Python PT-BR #2: Operadores e Condições &lpar;if, elif, else&rpar;](https://dev.to/vgermanndev/guia-de-python-pt-br-2-operadores-e-condicoes-if-elif-else-1bo1)
-- [LangChain vs. LlamaIndex: The Right Framework for the Job, Not the Hype.](https://dev.to/naresh_82de734ade4c1c66d9/langchain-vs-llamaindex-the-right-framework-for-the-job-not-the-hype-40jb)
-- [Learn Bash Scripting With Me 🚀 - Day 2](https://dev.to/babsarena/learn-bash-scripting-with-me-day-2-36k0)
-- [How To declare , define and display a variable in Common Business-Oriented Language &lpar;COBOL&rpar;](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-declare-define-and-display-a-variable-in-common-business-oriented-language-cobol-1j7k)
+- [GameSpot: Marvel Rivals - Angela Character Gameplay Reveal Trailer | The Hand of Heven Descends](https://dev.to/gg_news/gamespot-marvel-rivals-angela-character-gameplay-reveal-trailer-the-hand-of-heven-descends-3c80)
+- [IGN: RoadCraft - Official Rebuild Expansion Trailer](https://dev.to/gg_news/ign-roadcraft-official-rebuild-expansion-trailer-44ae)
+- [IGN: For Honor - Official Year 9 Season 3 Downfall Gameplay Trailer](https://dev.to/gg_news/ign-for-honor-official-year-9-season-3-downfall-gameplay-trailer-3jf1)
+- [IGN: The Dino Run 2 - Official Early Access Kickstarter Trailer](https://dev.to/gg_news/ign-the-dino-run-2-official-early-access-kickstarter-trailer-483p)
+- [IGN: Hollow Knight: Silksong - Bell Beast Boss Gameplay &lpar;4K 60FPS&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-bell-beast-boss-gameplay-4k-60fps-46oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
