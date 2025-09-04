@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Bash Scripting With Me 🚀 - Day 2](https://dev.to/babsarena/learn-bash-scripting-with-me-day-2-36k0)
+- [How To declare , define and display a variable in Common Business-Oriented Language &lpar;COBOL&rpar;](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-declare-define-and-display-a-variable-in-common-business-oriented-language-cobol-1j7k)
 - [Server Side React.js with node.js](https://dev.to/johanpiquet/server-side-reactjs-with-nodejs-3464)
 - [Llama-Server is All You Need &lpar;Plus a Management Layer&rpar;](https://dev.to/lordmathis/llama-server-is-all-you-need-plus-a-management-layer-27eb)
 - [Totally expected - Fishing World - Devlog #2](https://dev.to/doormatt_/totally-expected-fishing-world-devlog-2-399m)
-- [Common Lisp: read password on a terminal &lpar;by hiding its input&rpar;](https://dev.to/vindarel/common-lisp-read-password-on-a-terminal-by-hiding-its-input-2e3j)
-- [ChatGPT Branch Conversations: Nonlinear Prompting for Developers](https://dev.to/alifar/chatgpt-branch-conversations-nonlinear-prompting-for-developers-1an9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
