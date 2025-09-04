@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Docker in China: Practical Workarounds for Developers](https://dev.to/topunix/using-docker-in-china-practical-workarounds-for-developers-26lp)
 - [Building Youtangen: An AI-Driven Sustainable Material Platform with Kiro #kiro](https://dev.to/marvinoka4/building-youtangen-an-ai-driven-sustainable-material-platform-with-kiro-kiro-5doc)
 - [Beyond the Plough: How to Thrive When AI Rewrites the Job](https://dev.to/black-ib/beyond-the-plough-how-to-thrive-when-ai-rewrites-the-job-3p33)
 - [The Philosophical Choice Between SQLite and DuckDB for Flutter Developers](https://dev.to/sayed_ali_alkamel/the-philosophical-choice-between-sqlite-and-duckdb-for-flutter-developers-43hj)
 - [CompTIA Network+ N10-009 Notes: A Simple Guide to IPv4](https://dev.to/andrew_despres/comptia-network-n10-009-notes-a-simple-guide-to-ipv4-3mad)
-- [More Adventures in Vibe Coding...](https://dev.to/themindfulmerge/more-adventures-in-vibe-coding-1ggp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
