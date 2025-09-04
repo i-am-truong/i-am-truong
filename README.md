@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Common Lisp: read password on a terminal &lpar;by hiding its input&rpar;](https://dev.to/vindarel/common-lisp-read-password-on-a-terminal-by-hiding-its-input-2e3j)
+- [ChatGPT Branch Conversations: Nonlinear Prompting for Developers](https://dev.to/alifar/chatgpt-branch-conversations-nonlinear-prompting-for-developers-1an9)
+- [Taming Laravel Blade with Fully Typed Views, Autocomplete, and Type Safety](https://dev.to/raheelshan/taming-laravel-blade-with-fully-typed-views-autocomplete-and-type-safety-4obe)
+- [Day 0: Starting My Golang Journey](https://dev.to/kshitij_jain_bbc56d59a866/day-0-starting-my-golang-journey-d3c)
 - [Introdução ao PHP: por que ainda é relevante em 2025](https://dev.to/devgugaofc/introducao-ao-php-por-que-ainda-e-relevante-em-2025-18j6)
-- [Monorepos: A Year in Review](https://dev.to/codenamegrant/monorepos-a-year-in-review-16b8)
-- [From Keywords to Conversations: How AI Search Is Rewriting the SEO Playbook](https://dev.to/ryan_bailes_7161e231f7fba/from-keywords-to-conversations-how-ai-search-is-rewriting-the-seo-playbook-4h68)
-- [From Wind Energy to Pet Health AI: Why I Built PetCoach.ai](https://dev.to/eric_german_cac67a7c61bac/from-wind-energy-to-pet-health-ai-why-i-built-petcoachai-397a)
-- [How I deploy n8n on a VPS with Docker + Nginx + HTTPS](https://dev.to/tahsin000/how-i-deploy-n8n-on-a-vps-with-docker-nginx-https-simple-step-by-step-2g73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
