@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Crypto Trading Bots: A Developer’s Guide](https://dev.to/riley_quinn_8e58a0a96d107/getting-started-with-crypto-trading-bots-a-developers-guide-l4e)
-- [Building a KYC Video Recording and Splitting System: React + FFmpeg + MediaRecorder API](https://dev.to/wintrover/building-a-kyc-video-recording-and-splitting-system-react-ffmpeg-mediarecorder-api-144)
-- [Generate Professional Real Estate Posters with Streamlit](https://dev.to/blamsa0mine/generate-professional-real-estate-posters-with-streamlit-59g)
-- [How to Test Communication Between a DC and Client Step by Step](https://dev.to/fakestandard/how-to-test-communication-between-a-dc-and-client-step-by-step-5h5k)
-- [RAG Simplified: The Secret Sauce Behind Smarter AI](https://dev.to/techstuff/rag-simplified-the-secret-sauce-behind-smarter-ai-54ek)
+- [Svelte Components Explained: Props &amp; Composition Made Simple](https://dev.to/a1guy/svelte-components-explained-props-composition-made-simple-55a5)
+- [🗓 Daily LeetCode Progress – Day 17](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-17-1984)
+- [GNU openVBS - VBScript,Reborn](https://dev.to/robert19066/gnu-openvbs-vbscriptreborn-222m)
+- [Thoughts on object creation](https://dev.to/nfrankel/thoughts-on-object-creation-1cgi)
+- [RADIUS is 30+ Years Old: Why Are We Still Building the Future on It?](https://dev.to/leonardkachi/radius-is-30-years-old-why-are-we-still-building-the-future-on-it-2gmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
