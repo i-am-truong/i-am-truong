@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lessons in Leadership—From Student to Community Educator](https://dev.to/ernesto_guzman_2ae6c20c7c/lessons-in-leadership-from-student-to-community-educator-4b3e)
 - [Revamping Real-Time Data Ingestion for Scalable Media Intelligence](https://dev.to/capestart/revamping-real-time-data-ingestion-for-scalable-media-intelligence-29p5)
 - [3 AI Tools That Actually Save Me Hours &lpar;Sept Edition&rpar;](https://dev.to/jaideepparashar/3-ai-tools-that-actually-save-me-hours-sept-edition-1c95)
 - [Bridging the Digital Divide—What I Learned from Teaching Tech to Seniors](https://dev.to/ernesto_guzman_2ae6c20c7c/bridging-the-digital-divide-what-i-learned-from-teaching-tech-to-seniors-5a2i)
 - [Part-37: 🚀 Google Compute Engine – Managed Instance Groups &lpar;Stateful&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-37-google-compute-engine-managed-instance-groups-stateful-in-google-cloud-platform-gcp-2ib4)
-- [The N+1 Query Hangover: Curing Your Laravel Database Woes](https://dev.to/usmanzahidcode/the-n1-query-hangover-curing-your-laravel-database-woes-4oda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
