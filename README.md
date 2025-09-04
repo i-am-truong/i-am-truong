@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Flexible MCP Tools with GraphQL and Rust](https://dev.to/om_shree_0709/building-flexible-mcp-tools-with-graphql-and-rust-386d)
+- [VoIP NAT Traversal – Getting Through the Maze](https://dev.to/sip_games/voip-nat-traversal-getting-through-the-maze-2d0m)
+- [I&#39;m building a text based, online TUI-RPG in Rust](https://dev.to/smallcabbage/im-building-a-text-based-online-tui-rpg-in-rust-4mdc)
 - [AI LinkedIn Profile Generator](https://dev.to/aniruddhaadak/ai-linkedin-profile-generator-40b2)
 - [Understanding High Availability day 44 of system design basics](https://dev.to/vincenttommi/understanding-high-availability-14he)
-- [14 CS fundamental questions to prepare for your next interview &amp; not sound like a vibe-coder!](https://dev.to/shreyastaware/14-cs-fundamental-questions-to-prepare-for-your-next-interview-not-sound-like-a-vibe-coder-47ho)
-- [Building Altus 4: Why I Created an AI-Enhanced MySQL Search Engine &lpar;Instead of Just Using Elasticsearch&rpar;](https://dev.to/thavarshan/building-altus-4-why-i-created-an-ai-enhanced-mysql-search-engine-instead-of-just-using-178p)
-- [Serverless Symphony: Orchestrating an Event-Driven Workflow with AWS Step Functions and Lambda for Real-time Data Processing](https://dev.to/muhammad_zeeshan_6499a22a/serverless-symphony-orchestrating-an-event-driven-workflow-with-aws-step-functions-and-lambda-for-28g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
