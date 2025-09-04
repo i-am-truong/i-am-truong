@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Server Side React.js with node.js](https://dev.to/johanpiquet/server-side-reactjs-with-nodejs-3464)
+- [Llama-Server is All You Need &lpar;Plus a Management Layer&rpar;](https://dev.to/lordmathis/llama-server-is-all-you-need-plus-a-management-layer-27eb)
+- [Totally expected - Fishing World - Devlog #2](https://dev.to/doormatt_/totally-expected-fishing-world-devlog-2-399m)
 - [Common Lisp: read password on a terminal &lpar;by hiding its input&rpar;](https://dev.to/vindarel/common-lisp-read-password-on-a-terminal-by-hiding-its-input-2e3j)
 - [ChatGPT Branch Conversations: Nonlinear Prompting for Developers](https://dev.to/alifar/chatgpt-branch-conversations-nonlinear-prompting-for-developers-1an9)
-- [Taming Laravel Blade with Fully Typed Views, Autocomplete, and Type Safety](https://dev.to/raheelshan/taming-laravel-blade-with-fully-typed-views-autocomplete-and-type-safety-4obe)
-- [Day 0: Starting My Golang Journey](https://dev.to/kshitij_jain_bbc56d59a866/day-0-starting-my-golang-journey-d3c)
-- [Introdução ao PHP: por que ainda é relevante em 2025](https://dev.to/devgugaofc/introducao-ao-php-por-que-ainda-e-relevante-em-2025-18j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
