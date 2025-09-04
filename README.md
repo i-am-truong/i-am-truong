@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cracking the Midnight Code: Simplifying Wallets &amp; Supercharging ZK Development](https://dev.to/revis047/cracking-the-midnight-code-one-dashboard-to-build-test-deploy-zk-apps-46nk)
+- [The Problems You Don&#39;t See: Technical Challenges and Creative Solutions 🔧](https://dev.to/vijay431/the-problems-you-dont-see-technical-challenges-and-creative-solutions-48ch)
+- [Building Roast Feast: A Solo Developer&#39;s Journey with Nuxt 3 and Supabase](https://dev.to/mateusz_szczudowski_3365/building-roast-feast-a-solo-developers-journey-with-nuxt-3-and-supabase-18a3)
 - [Gemini 2.5 Flash vs. Gemini 2.0 Flash: A New Era for AI Image Generation](https://dev.to/sampathm/gemini-25-flash-vs-gemini-20-flash-a-new-era-for-ai-image-generation-2n02)
 - [Finnegans Slack](https://dev.to/pashadia/finnegans-slack-7n5)
-- [C# LeetCode 1792: Maximum Average Pass Ratio - &lpar;Medium&rpar;](https://dev.to/grantdotdev/c-leetcode-1792-maximum-average-pass-ratio-medium-199d)
-- [Simply Order &lpar;Part 2&rpar; — Designing and Implementing the Saga Workflow with Temporal](https://dev.to/hassan314159/simply-order-part-2-designing-and-implementing-the-saga-workflow-with-temporal-3o23)
-- [These are really cool!](https://dev.to/eastermukora/these-are-really-cool-kjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
