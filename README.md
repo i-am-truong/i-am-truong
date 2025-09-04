@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Upgrade Umbraco 13 to 16: Localization](https://dev.to/luukpeters/upgrade-umbraco-13-to-16-localization-133n)
 - [Svelte Components Explained: Props &amp; Composition Made Simple](https://dev.to/a1guy/svelte-components-explained-props-composition-made-simple-55a5)
 - [🗓 Daily LeetCode Progress – Day 17](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-17-1984)
 - [GNU openVBS - VBScript,Reborn](https://dev.to/robert19066/gnu-openvbs-vbscriptreborn-222m)
 - [Thoughts on object creation](https://dev.to/nfrankel/thoughts-on-object-creation-1cgi)
-- [RADIUS is 30+ Years Old: Why Are We Still Building the Future on It?](https://dev.to/leonardkachi/radius-is-30-years-old-why-are-we-still-building-the-future-on-it-2gmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
