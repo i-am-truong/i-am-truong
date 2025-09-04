@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Immerse Yourself in Code with Exercism](https://dev.to/ml318097/immerse-yourself-in-code-with-exercism-3ke2)
-- [🚀 Day 7 of My Python Learning Journey – Tuples in Python](https://dev.to/_adii3107/day-7-of-my-python-learning-journey-tuples-in-python-e78)
-- [Python Packaging and Execution Demystified](https://dev.to/naval_upadhyay/python-packaging-and-execution-demystified-2059)
-- [Kubernetes Architecture Overview](https://dev.to/locnguyenpv/kubernetes-architecture-overview-mll)
-- [Docker to Kubernetes 30 day Migration path for developers](https://dev.to/pranesh_patel/docker-to-kubernetes-30-day-migration-path-for-developers-4jfd)
+- [Expo: The Swiss Army Knife of React Native &lpar;And How to Test Your App Everywhere&rpar;](https://dev.to/klasniyparen/expo-the-swiss-army-knife-of-react-native-and-how-to-test-your-app-everywhere-b3p)
+- [Wrote a new blog!](https://dev.to/rinkiyakedad/wrote-a-new-blog-4d9c)
+- [New Features We Find Exciting in the Kubernetes 1.34 Release](https://dev.to/metalbear/new-features-we-find-exciting-in-the-kubernetes-134-release-2mhl)
+- [My Path in the Frontend](https://dev.to/aleksandr_ryzhikov/my-path-in-the-frontend-39fn)
+- [Two Days, One App: How AI Turned Me into an Under‑8 Tennis Umpire](https://dev.to/cfarrugia/two-days-one-app-how-ai-turned-me-into-an-under-8-tennis-umpire-op9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
