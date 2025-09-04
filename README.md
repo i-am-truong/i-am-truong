@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [some problem about buildding LFS on Debian with WSL](https://dev.to/pipishuo/some-problem-about-buildding-lfs-on-debian-with-wsl-5f54)
 - [CSV Studio — DuckDB Edition: Upload CSV/XLSX Filter CRUD Export &lpar;free, no backend&rpar;](https://dev.to/xxbricksquadxx/csv-studio-duckdb-edition-upload-csvxlsx-filter-crud-export-free-no-backend-4nnh)
 - [Allowing ACME Requests for SSL Certificates in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/allowing-acme-requests-for-ssl-certificates-in-safeline-waf-29ni)
 - [How to use GPT for natural language querying](https://dev.to/chrisywz/how-to-use-gpt-for-natural-language-querying-207e)
-- [Introduction to Insurance](https://dev.to/madgan95/introduction-to-insurance-4n34)
-- [3-Minute Guide: Make GitHub Copilot Generate High-Quality Code](https://dev.to/louis7/3-minute-guide-make-github-copilot-generate-high-quality-code-2cph)
+- [Node API Part-7 : Creating an ArkTS Runtime in Native Threads Using Node-API on HarmonyOSNext](https://dev.to/harmonyos/node-api-part-7-creating-an-arkts-runtime-in-native-threads-using-node-api-on-harmonyosnext-njl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
