@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Google AI Studio Multimodal Challenge] Whispurr the ghost diner](https://dev.to/cutieyunnytech/google-ai-studio-multimodal-challenge-whispurr-the-ghost-diner-2kch)
-- [How Does SeaTunnel Perform &quot;Precise Sharding&quot; for MySQL Tables?](https://dev.to/seatunnel/how-does-seatunnel-perform-precise-sharding-for-mysql-tables-c94)
-- [The Role of Service Maps in Optimizing PHP Application Performance](https://dev.to/olivia_madison_b0ad7090ad/the-role-of-service-maps-in-optimizing-php-application-performance-1hja)
-- [Vector Databases](https://dev.to/farhan_khan_41ec7ff11ac1d/vector-databases-kih)
-- [DevOps by Doing: Setting Up a Complete Modern DevOps Environment — Part 1](https://dev.to/johnogbonna/devops-by-doing-setting-up-a-complete-modern-devops-environment-part-1-mj8)
+- [System Design Served Hot: How Ordering Pizza 🍕Taught Me Everything](https://dev.to/konark_13/system-design-served-hot-how-ordering-pizza-taught-me-everything-1bcb)
+- [Anomaly Detection in Financial Transactions: Algorithms and Applications](https://dev.to/andrey_s/anomaly-detection-in-financial-transactions-algorithms-and-applications-2bnf)
+- [What&#39;s the deal with GraphQL?](https://dev.to/mcheremnov/whats-the-deal-with-graphql-475j)
+- [The DOM Explained: Where Markup Meets JavaScript](https://dev.to/jocke_sjlin_4ca0d80beae0/the-dom-explained-where-markup-meets-javascript-3ohc)
+- [Flutter Apps and Android&#39;s 16KB Page Size Requirement: A Complete Developer Guide](https://dev.to/mikeyolang/flutter-apps-and-androids-16kb-page-size-requirement-a-complete-developer-guide-1p71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
