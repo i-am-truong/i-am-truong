@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solution for “ChakraProvider&#39;s _config error” in React 19 + Chakra UI](https://dev.to/kazutora_hattori_66972c88/solution-for-chakraproviders-config-error-in-react-19-chakra-ui-1go2)
+- [How I Learned Python by Making Fun Projects](https://dev.to/areeejabbasii/how-i-learned-python-by-making-fun-projects-3jle)
+- [Mastering Angular’s httpResource: Why Services Beat Components](https://dev.to/agroupp/mastering-angulars-httpresource-why-services-beat-components-47c6)
+- [100 Days of DevOps : Day 32](https://dev.to/wycliffealphus/100-days-of-devops-day-32-359c)
 - [System Design Served Hot: How Ordering Pizza 🍕Taught Me Everything](https://dev.to/konark_13/system-design-served-hot-how-ordering-pizza-taught-me-everything-1bcb)
-- [Anomaly Detection in Financial Transactions: Algorithms and Applications](https://dev.to/andrey_s/anomaly-detection-in-financial-transactions-algorithms-and-applications-2bnf)
-- [What&#39;s the deal with GraphQL?](https://dev.to/mcheremnov/whats-the-deal-with-graphql-475j)
-- [The DOM Explained: Where Markup Meets JavaScript](https://dev.to/jocke_sjlin_4ca0d80beae0/the-dom-explained-where-markup-meets-javascript-3ohc)
-- [Flutter Apps and Android&#39;s 16KB Page Size Requirement: A Complete Developer Guide](https://dev.to/mikeyolang/flutter-apps-and-androids-16kb-page-size-requirement-a-complete-developer-guide-1p71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
