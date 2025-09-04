@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Asked How to Learn Programming, This Is My Answer](https://dev.to/ma2mori/when-asked-how-to-learn-programming-this-is-my-answer-49bh)
-- [How to Design Quality APIs](https://dev.to/elliot_brenya/how-to-design-quality-apis-3lli)
-- [My Journey with Firebase Authentication](https://dev.to/grace_kuti_e6a0d8b96b7a0f/my-journey-with-firebase-authentication-dbp)
-- [Set Up Your Own Personal AI Frankenstack: Summarized Version](https://dev.to/ghotet/set-up-your-own-personal-ai-frankenstack-summarized-version-536l)
-- [The Chatty Server: Why Your App Keeps Asking for More &lpar;And How to Teach It Some Manners&rpar;](https://dev.to/usmanzahidcode/the-chatty-server-why-your-app-keeps-asking-for-more-and-how-to-teach-it-some-manners-1b2l)
+- [Batch Scoring with R: Scalable Predictions on Azure](https://dev.to/rishangsharma/batch-scoring-with-r-scalable-predictions-on-azure-533n)
+- [Implementing a Scalable Message Buffer for Natural AI Conversations in n8n](https://dev.to/einarcesar/implementing-a-scalable-message-buffer-for-natural-ai-conversations-in-n8n-poj)
+- [No Laying Up Podcast: A Visit with Michael Bamberger | NLU Pod, Ep 1065](https://dev.to/youtube_golf/no-laying-up-podcast-a-visit-with-michael-bamberger-nlu-pod-ep-1065-89l)
+- [From Digital Oracle to Star Forger: Launching Your App into the Real World](https://dev.to/mysterious_xuanwu_5a00815/from-digital-oracle-to-star-forger-launching-your-app-into-the-real-world-aib)
+- [Level Up Your Python: From Space Explorer to Project Master &amp; Concurrency Alchemist](https://dev.to/mysterious_xuanwu_5a00815/level-up-your-python-from-space-explorer-to-project-master-concurrency-alchemist-4m49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
