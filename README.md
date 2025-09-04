@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use GPT for natural language querying](https://dev.to/chrisywz/how-to-use-gpt-for-natural-language-querying-207e)
+- [Introduction to Insurance](https://dev.to/madgan95/introduction-to-insurance-4n34)
+- [3-Minute Guide: Make GitHub Copilot Generate High-Quality Code](https://dev.to/louis7/3-minute-guide-make-github-copilot-generate-high-quality-code-2cph)
+- [10 Cool CodePen Demos &lpar;July 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2025-2265)
 - [Yonyou U8 Cloud RCE: File Upload Bypass Confirmed](https://dev.to/sharon_42e16b8da44dabde6d/yonyou-u8-cloud-rce-flaw-file-upload-bypass-security-advisory-36ki)
-- [🚀 Day 4 of My DevOps Journey: Bash Scripting for DevOps](https://dev.to/dankbhardwaj/day-4-of-my-devops-journey-bash-scripting-for-devops-49go)
-- [🚀 StackOpsys: Part 3-Automating Kubernetes Infrastructure on Proxmox with Packer, Terraform and Ansible](https://dev.to/rtaparay/stackopsys-part-3-automating-kubernetes-infrastructure-on-proxmox-with-packer-terraform-5fl2)
-- [DaemonSet vs Deployment in Kubernetes: Key Differences Explained with Docker](https://dev.to/moni121189/daemonset-vs-deployment-in-kubernetes-key-differences-explained-with-docker-57n7)
-- [From Scratch: How to Develop a File Search Tool Rivaling &quot;Everything&quot; Using Pure C#](https://dev.to/ldotjdot/from-scratch-how-to-develop-a-file-search-tool-rivaling-everything-using-pure-c-3egj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
