@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building AWS Infrastructure the Sane Way: A Terraform VPC Guide](https://dev.to/sysdiver/building-aws-infrastructure-the-sane-way-a-terraform-vpc-guide-1ic2)
+- [Digital Storyteller: A Multimodal Applet](https://dev.to/enniob/digital-storyteller-a-multimodal-applet-2930)
+- [X-Raying the Earth: AI Illuminates Hidden Depths by Arvind Sundararajan](https://dev.to/arvindsundararajan/x-raying-the-earth-ai-illuminates-hidden-depths-by-arvind-sundararajan-31om)
 - [DNS Spoofing Explained: How Hackers Trick the Internet’s Phonebook](https://dev.to/rijultp/dns-spoofing-explained-how-hackers-trick-the-internets-phonebook-38nd)
 - [Dear ChatGPT-5: We Need to Talk](https://dev.to/ospehlivano/dear-chatgpt-5-we-need-to-talk-4g6j)
-- [Stop Obsessing Over the Perfect Stack](https://dev.to/alexcloudstar/stop-obsessing-over-the-perfect-stack-59m6)
-- [Redis Explained: What It Is, Why You Need It, and How to Install It the Easy Way](https://dev.to/lamri_abdellahramdane_15/redis-explained-what-it-is-why-you-need-it-and-how-to-install-it-the-easy-way-2hmf)
-- [Prompt Engineer shouldn&#39;t be a job title.](https://dev.to/melvyn_sopacua_afcf30b58a/prompt-engineer-shouldnt-be-a-job-title-4427)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
