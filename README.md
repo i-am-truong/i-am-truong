@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why devs need AI-powered e2e test automation](https://dev.to/daniel-octomind/why-devs-need-ai-powered-e2e-test-automation-2ded)
-- [How to globally hide currency/amount fields in a React + Rails app based on user permissions?](https://dev.to/sabari_s_a6c4e0ae7cb90aab/how-to-globally-hide-currencyamount-fields-in-a-react-rails-app-based-on-user-permissions-2o82)
-- [Upgrade Umbraco 13 to 16: Localization](https://dev.to/luukpeters/upgrade-umbraco-13-to-16-localization-133n)
-- [Svelte Components Explained: Props &amp; Composition Made Simple](https://dev.to/a1guy/svelte-components-explained-props-composition-made-simple-55a5)
-- [🗓 Daily LeetCode Progress – Day 17](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-17-1984)
+- [How to send Filament database notifications to a specific queue](https://dev.to/filamentmastery/how-to-send-filament-database-notifications-to-a-specific-queue-1e91)
+- [Your UI is Not Part of Security: The Reality of BOLA](https://dev.to/alvacoder/your-ui-is-not-part-of-security-the-reality-of-bola-52jn)
+- [Get Your Go Package on pkg.go.dev: A Simple Guide](https://dev.to/anuchito/get-your-go-package-on-pkggodev-a-simple-guide-3k5d)
+- [How Code Becomes Software: Execution Models Explained](https://dev.to/naval_upadhyay/how-code-becomes-software-execution-models-explained-2dfe)
+- [Smarter Database DevOps with AI: From Changelogs to Intelligent Pipelines](https://dev.to/sonichigo/smarter-database-devops-with-ai-from-changelogs-to-intelligent-pipelines-1642)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
