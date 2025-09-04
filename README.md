@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo Habilitar el Modo Oscuro en Brave](https://dev.to/carlos_mata_24b95b955c733/como-habilitar-el-modo-oscuro-en-brave-1e57)
 - [Guia de Python PT-BR #2: Operadores e Condições &lpar;if, elif, else&rpar;](https://dev.to/vgermanndev/guia-de-python-pt-br-2-operadores-e-condicoes-if-elif-else-1bo1)
 - [LangChain vs. LlamaIndex: The Right Framework for the Job, Not the Hype.](https://dev.to/naresh_82de734ade4c1c66d9/langchain-vs-llamaindex-the-right-framework-for-the-job-not-the-hype-40jb)
 - [Learn Bash Scripting With Me 🚀 - Day 2](https://dev.to/babsarena/learn-bash-scripting-with-me-day-2-36k0)
 - [How To declare , define and display a variable in Common Business-Oriented Language &lpar;COBOL&rpar;](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-declare-define-and-display-a-variable-in-common-business-oriented-language-cobol-1j7k)
-- [Server Side React.js with node.js](https://dev.to/johanpiquet/server-side-reactjs-with-nodejs-3464)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
