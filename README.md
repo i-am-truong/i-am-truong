@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploy an App Across Accounts](https://dev.to/maven_h/deploy-an-app-across-accounts-nb4)
-- [Liten: A Tiny API Gateway for Solo Devs - Looking for Feedback!](https://dev.to/moorebrett0/liten-a-tiny-api-gateway-for-solo-devs-looking-for-feedback-21od)
-- [Solving the Localhost Development Headache with Nanocl](https://dev.to/0xle0ne/solving-the-localhost-development-headache-with-nanocl-53jc)
-- [Nuxt 3 e Cloudflare](https://dev.to/heltonbrito/nuxt-3-e-cloudflare-h2g)
-- [Ship It, What Could Go Wrong?](https://dev.to/knunn553/ship-it-what-could-go-wrong-50i3)
+- [DNS Spoofing Explained: How Hackers Trick the Internet’s Phonebook](https://dev.to/rijultp/dns-spoofing-explained-how-hackers-trick-the-internets-phonebook-38nd)
+- [Dear ChatGPT-5: We Need to Talk](https://dev.to/ospehlivano/dear-chatgpt-5-we-need-to-talk-4g6j)
+- [Stop Obsessing Over the Perfect Stack](https://dev.to/alexcloudstar/stop-obsessing-over-the-perfect-stack-59m6)
+- [Redis Explained: What It Is, Why You Need It, and How to Install It the Easy Way](https://dev.to/lamri_abdellahramdane_15/redis-explained-what-it-is-why-you-need-it-and-how-to-install-it-the-easy-way-2hmf)
+- [Prompt Engineer shouldn&#39;t be a job title.](https://dev.to/melvyn_sopacua_afcf30b58a/prompt-engineer-shouldnt-be-a-job-title-4427)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
