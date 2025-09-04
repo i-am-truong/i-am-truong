@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why &#39;Clean Code&#39; Is Harder Than It Sounds](https://dev.to/leena_malhotra/why-clean-code-is-harder-than-it-sounds-2e2e)
-- [OpenMQTT Gateway for Bluetooth BLE Signals](https://dev.to/admantium/openmqtt-gateway-for-bluetooth-ble-signals-1b43)
-- [Leetcode Hardest SQL 185: Is the Best Solution Still Slow?](https://dev.to/sqlflash1024/leetcode-hardest-sql-185-is-the-best-solution-still-slow-3mgl)
-- [How a &quot;Boring&quot; CLI Cleanup in Apache Kafka Tells a Big Story](https://dev.to/kaan_karakoc_dev/how-a-boring-cli-cleanup-in-apache-kafka-tells-a-big-story-5c09)
-- [Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection](https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9)
+- [Using API Monitoring to Detect and Fix Integration Issues](https://dev.to/zuplo/using-api-monitoring-to-detect-and-fix-integration-issues-4bhb)
+- [Hugging Face API: The AI Model Powerhouse](https://dev.to/zuplo/hugging-face-api-the-ai-model-powerhouse-2bhd)
+- [Smart Strategies to Slash Your AWS API Gateway Bill](https://dev.to/zuplo/smart-strategies-to-slash-your-aws-api-gateway-bill-1iie)
+- [How to Create API Documentation for AI-Powered Services](https://dev.to/zuplo/how-to-create-api-documentation-for-ai-powered-services-2ib)
+- [Transform Your Travel Offerings With the TravelPayouts API](https://dev.to/zuplo/transform-your-travel-offerings-with-the-travelpayouts-api-10bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
