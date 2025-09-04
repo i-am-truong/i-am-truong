@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Serverless Symphony: Orchestrating an Event-Driven Workflow with AWS Step Functions and Lambda for Real-time Data Processing](https://dev.to/muhammad_zeeshan_6499a22a/serverless-symphony-orchestrating-an-event-driven-workflow-with-aws-step-functions-and-lambda-for-28g)
 - [How to Test AI Applications and ML Software: Best Practices Guide](https://dev.to/testfort_inc/how-to-test-ai-applications-and-ml-software-best-practices-guide-5g37)
 - [KEXP: Yuma Abe - Friends &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-friends-live-on-kexp-1jpn)
 - [KEXP: Yuma Abe - Sayonara &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-sayonara-live-on-kexp-c0c)
 - [KEXP: Yuma Abe - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-full-performance-live-on-kexp-4h9p)
-- [GameSpot: Octopath Traveler 0 Looks Massive, Even By Octopath Standards](https://dev.to/gg_news/gamespot-octopath-traveler-0-looks-massive-even-by-octopath-standards-25on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
