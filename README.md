@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multimodal AI: Teaching Machines to See, Hear, and Understand](https://dev.to/iamfaham/multimodal-ai-teaching-machines-to-see-hear-and-understand-30ob)
-- [IMake: Bringing Builds Back to Makefile’s Essence — An Unprecedentedly Simple Experience](https://dev.to/lengjingzju/imake-bringing-builds-back-to-makefiles-essence-an-unprecedentedly-simple-experience-4ea9)
-- [Building a Better Future—Recommendations for Scaling Digital Inclusion](https://dev.to/ernesto_guzman_2ae6c20c7c/building-a-better-future-recommendations-for-scaling-digital-inclusion-1ng3)
-- [Lessons in Leadership—From Student to Community Educator](https://dev.to/ernesto_guzman_2ae6c20c7c/lessons-in-leadership-from-student-to-community-educator-4b3e)
-- [Revamping Real-Time Data Ingestion for Scalable Media Intelligence](https://dev.to/capestart/revamping-real-time-data-ingestion-for-scalable-media-intelligence-29p5)
+- [wabt 使用小记](https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4)
+- [5 Absolutely Free Web Tools Every Developer Should Bookmark](https://dev.to/web_dev-usman/5-absolutely-free-web-tools-every-developer-should-bookmark-38jn)
+- [Juris.js: Debug What You Wrote](https://dev.to/professional_joe/jurisjs-debug-what-you-wrote-3dmj)
+- [Step-Audio 2 Mini: Open Speech AI You Can Deploy Today](https://dev.to/aiwithapex/step-audio-2-mini-open-speech-ai-you-can-deploy-today-26c8)
+- [🔔 Django Signals: Supercharging Your App with Event-Driven Architecture](https://dev.to/diveshkumar/django-signals-supercharging-your-app-with-event-driven-architecture-e5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
