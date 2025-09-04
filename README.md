@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;I&rpar; Principles of Data Model Architecture: Four Layers and Seven Stages](https://dev.to/seatunnel/i-principles-of-data-model-architecture-four-layers-and-seven-stages-1deo)
 - [🚀 Your React Journey Starts Here – Join My 2-Day Online Webinar!](https://dev.to/myogeshchavan97/your-react-journey-starts-here-join-my-2-day-online-webinar-34e3)
+- [Understanding Blazor compontent Lifecycle Methods in C#](https://dev.to/shreyans_padmani/understanding-blazor-compontent-lifecycle-methods-in-c-5f5k)
+- [How to Inherit .env in a Vite + Supabase Project](https://dev.to/kazutora_hattori_66972c88/how-to-inherit-env-in-a-vite-supabase-project-1jg5)
 - [Solution for “ChakraProvider&#39;s _config error” in React 19 + Chakra UI](https://dev.to/kazutora_hattori_66972c88/solution-for-chakraproviders-config-error-in-react-19-chakra-ui-1go2)
-- [How I Learned Python by Making Fun Projects](https://dev.to/areeejabbasii/how-i-learned-python-by-making-fun-projects-3jle)
-- [Mastering Angular’s httpResource: Why Services Beat Components](https://dev.to/agroupp/mastering-angulars-httpresource-why-services-beat-components-47c6)
-- [100 Days of DevOps : Day 32](https://dev.to/wycliffealphus/100-days-of-devops-day-32-359c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
