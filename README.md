@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [More Adventures in Vibe Coding...](https://dev.to/themindfulmerge/more-adventures-in-vibe-coding-1ggp)
 - [GameSpot: Marvel Rivals - Angela Character Gameplay Reveal Trailer | The Hand of Heven Descends](https://dev.to/gg_news/gamespot-marvel-rivals-angela-character-gameplay-reveal-trailer-the-hand-of-heven-descends-3c80)
 - [IGN: RoadCraft - Official Rebuild Expansion Trailer](https://dev.to/gg_news/ign-roadcraft-official-rebuild-expansion-trailer-44ae)
 - [IGN: For Honor - Official Year 9 Season 3 Downfall Gameplay Trailer](https://dev.to/gg_news/ign-for-honor-official-year-9-season-3-downfall-gameplay-trailer-3jf1)
 - [IGN: The Dino Run 2 - Official Early Access Kickstarter Trailer](https://dev.to/gg_news/ign-the-dino-run-2-official-early-access-kickstarter-trailer-483p)
-- [IGN: Hollow Knight: Silksong - Bell Beast Boss Gameplay &lpar;4K 60FPS&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-bell-beast-boss-gameplay-4k-60fps-46oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
