@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptographic Failure &lpar;Worked hard to sit here in OWASP Top 10 😎&rpar;](https://dev.to/keerthika_kadhiresan/cryptographic-failure-worked-hard-to-sit-here-in-owasp-top-10--4kp0)
+- [Days 21-22: Service Topology Visualization &amp; Dynamic UI Generation Complete](https://dev.to/clayroach/days-21-22-service-topology-visualization-dynamic-ui-generation-complete-3cod)
 - [Day 28 of My Data Analytics Journey !](https://dev.to/ramyacse/day-28-of-my-data-analytics-journey--4nj3)
 - [How to build with Nano Banana: Complete Developer Tutorial](https://dev.to/googleai/how-to-build-with-nano-banana-complete-developer-tutorial-646)
 - [Stop Building for &quot;Scale.&quot; You Don&#39;t Have Users Yet.](https://dev.to/shayy/stop-building-for-scale-you-dont-have-users-yet-4aep)
-- [Building Flexible MCP Tools with GraphQL and Rust](https://dev.to/om_shree_0709/building-flexible-mcp-tools-with-graphql-and-rust-386d)
-- [VoIP NAT Traversal – Getting Through the Maze](https://dev.to/sip_games/voip-nat-traversal-getting-through-the-maze-2d0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
