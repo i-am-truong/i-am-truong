@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Architecture Overview](https://dev.to/locnguyenpv/kubernetes-architecture-overview-mll)
+- [Node.js gRPC calls and Promises](https://dev.to/domantasjurkus/wrapping-callbacks-in-promises-3nim)
 - [How to send Filament database notifications to a specific queue](https://dev.to/filamentmastery/how-to-send-filament-database-notifications-to-a-specific-queue-1e91)
 - [Your UI is Not Part of Security: The Reality of BOLA](https://dev.to/alvacoder/your-ui-is-not-part-of-security-the-reality-of-bola-52jn)
 - [Get Your Go Package on pkg.go.dev: A Simple Guide](https://dev.to/anuchito/get-your-go-package-on-pkggodev-a-simple-guide-3k5d)
-- [How Code Becomes Software: Execution Models Explained](https://dev.to/naval_upadhyay/how-code-becomes-software-execution-models-explained-2dfe)
-- [Smarter Database DevOps with AI: From Changelogs to Intelligent Pipelines](https://dev.to/sonichigo/smarter-database-devops-with-ai-from-changelogs-to-intelligent-pipelines-1642)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
