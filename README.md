@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why &#39;Clean Code&#39; Is Harder Than It Sounds](https://dev.to/leena_malhotra/why-clean-code-is-harder-than-it-sounds-2e2e)
+- [OpenMQTT Gateway for Bluetooth BLE Signals](https://dev.to/admantium/openmqtt-gateway-for-bluetooth-ble-signals-1b43)
 - [Leetcode Hardest SQL 185: Is the Best Solution Still Slow?](https://dev.to/sqlflash1024/leetcode-hardest-sql-185-is-the-best-solution-still-slow-3mgl)
 - [How a &quot;Boring&quot; CLI Cleanup in Apache Kafka Tells a Big Story](https://dev.to/kaan_karakoc_dev/how-a-boring-cli-cleanup-in-apache-kafka-tells-a-big-story-5c09)
 - [Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection](https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9)
-- [Offering Free Development Help 🚀](https://dev.to/tsheten33/offering-free-development-help-3pj)
-- [From 47-Minute Builds to 3 Minutes: The Docker Layer Caching Strategy That Saved Our Sprint](https://dev.to/teamcamp/from-47-minute-builds-to-3-minutes-the-docker-layer-caching-strategy-that-saved-our-sprint-5f5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
