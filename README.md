@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Swift - Reflection with the Mirror API](https://dev.to/jon_hoffman_f1d0c8f236d2b/swift-reflection-with-the-mirror-api-2e28)
-- [🤖 WebOTP API: State of art and UX improvements](https://dev.to/tuna_dev/webotp-api-state-of-art-and-ux-improvements-3m61)
-- [Validador do Novo CNPJ Alfanumérico em JavaScript](https://dev.to/edivan/validador-do-novo-cnpj-alfanumerico-em-javascript-21ki)
-- [&quot;Vibe Grokking&quot; My Way Into an Apple Watch App](https://dev.to/themindfulmerge/vibe-grokking-my-way-into-an-apple-watch-app-2e18)
-- [Zoi, an advanced package manager](https://dev.to/zillowez/zoi-an-advanced-package-manager-27gd)
+- [When Asked How to Learn Programming, This Is My Answer](https://dev.to/ma2mori/when-asked-how-to-learn-programming-this-is-my-answer-49bh)
+- [How to Design Quality APIs](https://dev.to/elliot_brenya/how-to-design-quality-apis-3lli)
+- [My Journey with Firebase Authentication](https://dev.to/grace_kuti_e6a0d8b96b7a0f/my-journey-with-firebase-authentication-dbp)
+- [Set Up Your Own Personal AI Frankenstack: Summarized Version](https://dev.to/ghotet/set-up-your-own-personal-ai-frankenstack-summarized-version-536l)
+- [The Chatty Server: Why Your App Keeps Asking for More &lpar;And How to Teach It Some Manners&rpar;](https://dev.to/usmanzahidcode/the-chatty-server-why-your-app-keeps-asking-for-more-and-how-to-teach-it-some-manners-1b2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
