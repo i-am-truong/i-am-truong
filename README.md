@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Async programming](https://dev.to/chanhlt/what-is-async-programming-5bdj)
-- [🚀 3-Tier Application Deployment Challenge – Day 1 Progress!](https://dev.to/dev_saini_ce708cfac6b9562/3-tier-application-deployment-challenge-day-1-progress-55fd)
-- [Cryptographic Failure &lpar;Worked hard to sit here in OWASP Top 10 😎&rpar;](https://dev.to/keerthika_kadhiresan/cryptographic-failure-worked-hard-to-sit-here-in-owasp-top-10--4kp0)
-- [Days 21-22: Service Topology Visualization &amp; Dynamic UI Generation Complete](https://dev.to/clayroach/days-21-22-service-topology-visualization-dynamic-ui-generation-complete-3cod)
-- [Day 28 of My Data Analytics Journey !](https://dev.to/ramyacse/day-28-of-my-data-analytics-journey--4nj3)
+- [Gemini 2.5 Flash vs. Gemini 2.0 Flash: A New Era for AI Image Generation](https://dev.to/sampathm/gemini-25-flash-vs-gemini-20-flash-a-new-era-for-ai-image-generation-2n02)
+- [Finnegans Slack](https://dev.to/pashadia/finnegans-slack-7n5)
+- [C# LeetCode 1792: Maximum Average Pass Ratio - &lpar;Medium&rpar;](https://dev.to/grantdotdev/c-leetcode-1792-maximum-average-pass-ratio-medium-199d)
+- [Simply Order &lpar;Part 2&rpar; — Designing and Implementing the Saga Workflow with Temporal](https://dev.to/hassan314159/simply-order-part-2-designing-and-implementing-the-saga-workflow-with-temporal-3o23)
+- [These are really cool!](https://dev.to/eastermukora/these-are-really-cool-kjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
