@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why devs need AI-powered e2e test automation](https://dev.to/daniel-octomind/why-devs-need-ai-powered-e2e-test-automation-2ded)
+- [How to globally hide currency/amount fields in a React + Rails app based on user permissions?](https://dev.to/sabari_s_a6c4e0ae7cb90aab/how-to-globally-hide-currencyamount-fields-in-a-react-rails-app-based-on-user-permissions-2o82)
 - [Upgrade Umbraco 13 to 16: Localization](https://dev.to/luukpeters/upgrade-umbraco-13-to-16-localization-133n)
 - [Svelte Components Explained: Props &amp; Composition Made Simple](https://dev.to/a1guy/svelte-components-explained-props-composition-made-simple-55a5)
 - [🗓 Daily LeetCode Progress – Day 17](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-17-1984)
-- [GNU openVBS - VBScript,Reborn](https://dev.to/robert19066/gnu-openvbs-vbscriptreborn-222m)
-- [Thoughts on object creation](https://dev.to/nfrankel/thoughts-on-object-creation-1cgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
