@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OneTerm: The Open-Source Bastion Host I Refactored in Three Months](https://dev.to/leo_song/oneterm-the-open-source-bastion-host-i-refactored-in-three-months-22n2)
+- [Add Structured Testing to Your AI Vibe - with promptfoo](https://dev.to/leading-edje/add-structured-testing-to-your-ai-vibe-with-promptfoo-5h3o)
+- [The Adventures of Blink S4e1: Blink vs. The README](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e1-blink-vs-the-readme-d95)
 - [Exploring a self-hosted system for managing code and business logic](https://dev.to/devnikhilmhatre/exploring-a-self-hosted-system-for-managing-code-and-business-logic-8mc)
 - [25 Virtual Team Building Activities for Remote Teams](https://dev.to/teamcamp/25-virtual-team-building-activities-for-remote-teams-a02)
-- [Learn By Code 1.4](https://dev.to/kartik_patel/learn-by-code-4k1f)
-- [A journey with k3s through wasm32-wasip1](https://dev.to/vatsal_keshav_1b852ce9416/a-journey-with-k3s-through-wasm32-wasip1-gb8)
-- [The Future of Web Development with Next.js](https://dev.to/vikasparmar/the-future-of-web-development-with-nextjs-3i2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
