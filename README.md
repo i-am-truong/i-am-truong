@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OneTerm: The Open-Source Bastion Host I Refactored in Three Months](https://dev.to/leo_song/oneterm-the-open-source-bastion-host-i-refactored-in-three-months-22n2)
-- [Add Structured Testing to Your AI Vibe - with promptfoo](https://dev.to/leading-edje/add-structured-testing-to-your-ai-vibe-with-promptfoo-5h3o)
-- [The Adventures of Blink S4e1: Blink vs. The README](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e1-blink-vs-the-readme-d95)
-- [Exploring a self-hosted system for managing code and business logic](https://dev.to/devnikhilmhatre/exploring-a-self-hosted-system-for-managing-code-and-business-logic-8mc)
-- [25 Virtual Team Building Activities for Remote Teams](https://dev.to/teamcamp/25-virtual-team-building-activities-for-remote-teams-a02)
+- [25 Virtual Team Building Activities for Remote Teams](https://dev.to/devmakasana/25-virtual-team-building-activities-for-remote-teams-57n4)
+- [Fix for the Android Black Screen Bug on Camera Re-entry](https://dev.to/andrewchaa/fix-for-the-android-black-screen-bug-on-camera-re-entry-2opc)
+- [Safely Navigating JavaScript Objects with Optional Chaining](https://dev.to/_415106f79fc340972925f/safely-navigating-javascript-objects-with-optional-chaining-4pdi)
+- [Mastering useState in React](https://dev.to/_415106f79fc340972925f/mastering-usestate-in-react-31lc)
+- [Building a Custom Hook in React: Why and How](https://dev.to/safal_bhandari/building-a-custom-hook-in-react-why-and-how-58do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
