@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Drizzle ORM Claude Code: Modern TypeScript Development](https://dev.to/pipipi-dev/drizzle-orm-x-claude-code-modern-typescript-development-58g9)
+- [My C++ exploration - concurrency - async and future - driven by the Intrinsic Motivation...](https://dev.to/sommukhopadhyay/my-c-exploration-concurrency-async-and-future-driven-by-the-intrinsic-motivation-6pl)
+- [Unlock Personalization Without the Privacy Price: Encrypted Recommendations Are Here](https://dev.to/arvindsundararajan/unlock-personalization-without-the-privacy-price-encrypted-recommendations-are-here-100g)
+- [Go Coding with Asparagos: Coconuts Never Roll Alone](https://dev.to/asparagos/go-coding-with-asparagos-coconuts-never-roll-alone-8f8)
 - [Catch ‘Em All: Hunting Accessibility Bugs Like a Champion with Automated Testing](https://dev.to/laura-wissiak/catch-em-all-hunting-accessibility-bugs-like-a-champion-with-automated-testing-24h6)
 - [Build your own Posthog - PART 2](https://dev.to/infms/build-your-own-posthog-part-2-4a3c)
-- [How QR Codes Work &lpar;and How to Make Your Own in Python&rpar;](https://dev.to/devasservice/how-qr-codes-work-and-how-to-make-your-own-in-python-39f7)
-- [Deploying Agents on Windows &amp; Linux Without SSH Using AWS SSM and Parameter Store](https://dev.to/durrello/deploying-agents-on-windows-linux-without-ssh-using-aws-ssm-and-parameter-store-472g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
