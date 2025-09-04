@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bryan Bros Golf: Can We Break a Course Record at the Cheapest Public Course?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-break-a-course-record-at-the-cheapest-public-course-2mg9)
-- [GameSpot: 007 First Light Preview: License to Thrill](https://dev.to/gg_news/gamespot-007-first-light-preview-license-to-thrill-548e)
-- [IGN: James Gunn Announces Man of Tomorrow as the Next Superman Saga Film - IGN Daily Fix](https://dev.to/gg_news/ign-james-gunn-announces-man-of-tomorrow-as-the-next-superman-saga-film-ign-daily-fix-3o3n)
-- [IGN: Witchspire - Official Announcement Trailer](https://dev.to/gg_news/ign-witchspire-official-announcement-trailer-50pd)
-- [IGN: Wuthering Heights - Official Teaser Trailer &lpar;2026&rpar; Margot Robbie, Jacob Elordi](https://dev.to/gg_news/ign-wuthering-heights-official-teaser-trailer-2026-margot-robbie-jacob-elordi-gn7)
+- [Building a Cost-Efficient Game Launcher with AWS Pre-Signed URLs](https://dev.to/lpossamai/building-a-cost-efficient-game-launcher-with-aws-pre-signed-urls-1k1k)
+- [Pixelation vs Wplace 63/64-color — why one looks cleaner](https://dev.to/howard_hua_7aaf46f9755a5b/pixelation-vs-wplace-6364-color-why-one-looks-cleaner-1ih9)
+- [Why 95% of Corporate AI Projects Fail &lpar;And What We Can Learn as Developers&rpar;](https://dev.to/shiva_shanker_k/why-95-of-corporate-ai-projects-fail-and-what-we-can-learn-as-developers-3gf5)
+- [Wplace 63/64-color palette — free download &lpar;HEX &amp; GPL&rpar;](https://dev.to/howard_hua_7aaf46f9755a5b/wplace-6364-color-palette-free-download-hex-gpl-39ne)
+- [Bringing Claude Code’s Sub-agents to Any MCP-Compatible Tool](https://dev.to/shinpr/bringing-claude-codes-sub-agents-to-any-mcp-compatible-tool-1hb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
