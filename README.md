@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using API Monitoring to Detect and Fix Integration Issues](https://dev.to/zuplo/using-api-monitoring-to-detect-and-fix-integration-issues-4bhb)
-- [Hugging Face API: The AI Model Powerhouse](https://dev.to/zuplo/hugging-face-api-the-ai-model-powerhouse-2bhd)
-- [Smart Strategies to Slash Your AWS API Gateway Bill](https://dev.to/zuplo/smart-strategies-to-slash-your-aws-api-gateway-bill-1iie)
-- [How to Create API Documentation for AI-Powered Services](https://dev.to/zuplo/how-to-create-api-documentation-for-ai-powered-services-2ib)
-- [Transform Your Travel Offerings With the TravelPayouts API](https://dev.to/zuplo/transform-your-travel-offerings-with-the-travelpayouts-api-10bk)
+- [poEditor:- Workflow Automation](https://dev.to/herat_dhruv/poeditor-workflow-automation-1goj)
+- [How a SNAPSHOT Caused a 2-Hour Outage &lpar;And How We Fixed It&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/how-a-snapshot-caused-a-2-hour-outage-and-how-we-fixed-it-2che)
+- [🔥 “Stack Explained: The Secret Weapon Behind LeetCode Monotonic Problems”](https://dev.to/umair01/stack-explained-the-secret-weapon-behind-leetcode-monotonic-problems-2d24)
+- [How Are Tokenized Stocks Changing the Game for Young Digital Investors?](https://dev.to/belly_william_ec336cacf4e/how-are-tokenized-stocks-changing-the-game-for-young-digital-investors-42k)
+- [Troubleshooting Broken Function Level Authorization](https://dev.to/zuplo/troubleshooting-broken-function-level-authorization-3d9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
