@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Honest Side of My Job Hunt &lpar;Not the LinkedIn Version&rpar;](https://dev.to/mettasurendhar/the-honest-side-of-my-job-hunt-not-the-linkedin-version-l14)
+- [Understanding Git Push and Pull: How SSH Makes It Secure](https://dev.to/shrsv/understanding-git-push-and-pull-how-ssh-makes-it-secure-3i5b)
 - [Golf.com: The Soul of Cypress Point | Inside Golf&#39;s Most Mystical Club](https://dev.to/youtube_golf/golfcom-the-soul-of-cypress-point-inside-golfs-most-mystical-club-4220)
 - [Noclip: The Making of Wolfenstein - Noclip Documentary](https://dev.to/gg_news/noclip-the-making-of-wolfenstein-noclip-documentary-ldh)
 - [GameSpot: Borderlands 4 | Official Launch Week Trailer](https://dev.to/gg_news/gamespot-borderlands-4-official-launch-week-trailer-3a3k)
-- [IGN: Final Fantasy Tactics: The Ivalice Chronicles - Official Enhanced Opening Movie](https://dev.to/gg_news/ign-final-fantasy-tactics-the-ivalice-chronicles-official-enhanced-opening-movie-2kbd)
-- [IGN: Jurassic World Evolution 3 - Official &#39;A Global Campaign&#39; Feature Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-a-global-campaign-feature-trailer-766)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
