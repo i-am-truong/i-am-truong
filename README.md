@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Multimodal AI: Beyond Single-Mode Intelligence](https://dev.to/srijan-xi/multimodal-ai-beyond-single-mode-intelligence-27ob)
+- [Configuring domain networking for scalable container services.](https://dev.to/usmanzahidcode/configuring-domain-networking-for-scalable-container-services-23gj)
+- [Automated security testing prevents common vulnerabilities in cloud applications.](https://dev.to/usmanzahidcode/automated-security-testing-prevents-common-vulnerabilities-in-cloud-applications-4826)
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-3m16)
 - [Getting Started with rsync: The Smarter Way to Copy Files](https://dev.to/rijultp/getting-started-with-rsync-the-smarter-way-to-copy-files-39ol)
-- [A Deep Dive into CDNs, DNS, and Your Server Setup](https://dev.to/lovestaco/a-deep-dive-into-cdns-dns-and-your-ovh-setup-4g35)
-- [Building for Tomorrow: Testing, Performance &amp; the Future of File Insights 🚀](https://dev.to/vijay431/building-for-tomorrow-testing-performance-the-future-of-file-insights-3k)
-- [Developers vs AI-Generated Code: When Should You Trust the Machine?](https://dev.to/arkhan/developers-vs-ai-generated-code-when-should-you-trust-the-machine-io6)
-- [ConfWatch: The Configuration File Monitor That Actually Works](https://dev.to/mrvi0/confwatch-the-configuration-file-monitor-that-actually-works-4jpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
