@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛡️VerifiedVoices: Truth Without Fear, Trust Without Compromise -Powered by Midnight🌑🔥](https://dev.to/ria29108/verifiedvoices-truth-without-fear-trust-without-compromise-powered-by-midnight-12oe)
-- [UNSUPERVISED ML](https://dev.to/raymond_79cf41a94e682b4a3/unsupervised-ml-e0a)
-- [Why I’m Excited About Open Source](https://dev.to/hsachdeva9/why-im-excited-about-open-source-2hj2)
-- [My Code Works… But I Don’t Know Why](https://dev.to/trojanmocx/my-code-works-but-i-dont-know-why-3g5k)
-- [How to Connect to Your VPN on macOS Using Tunnelblick and a Certificate](https://dev.to/icyy_bee/how-to-connect-to-your-vpn-on-macos-using-tunnelblick-and-a-certificate-5hig)
+- [Day 86: The Manual Coding Awakening](https://dev.to/casperday11/day-86-the-manual-coding-awakening-4fm4)
+- [Basic http proxy in rust with ntex](https://dev.to/0xle0ne/basic-http-proxy-in-rust-with-ntex-d6p)
+- [From 77% to 92%: How Orka-Reasoning Turns GPT-oss:20B Into a Math Reasoning Powerhouse](https://dev.to/marcosomma/from-77-to-92-how-orka-reasoning-turns-gpt-oss20b-into-a-math-reasoning-powerhouse-24ac)
+- [Automating deployment with GitHub Actions and Nanocl](https://dev.to/0xle0ne/automating-deployment-with-github-actions-and-nanocl-573p)
+- [Learning Linux Step by Step – Week 1 Progress](https://dev.to/yogaraj/learning-linux-step-by-step-week-1-progress-18o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
