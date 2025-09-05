@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Content Creation Side Hustle Using AI and Made $5,000 in a Month](https://dev.to/walker876/how-i-built-a-content-creation-side-hustle-using-ai-and-made-5000-in-a-month-ofb)
+- [🎿“Minimum Operations to Make the Integer Zero” LeetCode: 2749 [C++, JavaScript, Python]](https://dev.to/om_shree_0709/minimum-operations-to-make-the-integer-zero-leetcode-2749-c-javascript-python-4a23)
+- [Agentic AI vs Infrastructure as Code: The Future of DevOps](https://dev.to/mechcloud_academy/agentic-ai-vs-infrastructure-as-code-the-future-of-devops-2kki)
 - [Docker Series — Episode 14: Docker Networking Deep Dive &lpar;Bridge, Host, Overlay&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-14-docker-networking-deep-dive-bridge-host-overlay-3j78)
 - [My first AI-assisted web game: PuzzlePave](https://dev.to/_8d31359a797ee088ecde8/my-first-ai-assisted-web-game-puzzlepave-486e)
-- [Multi-Stage Processing Architecture: A Structural Defense Against Prompt Injection](https://dev.to/pota_smith_e09f4b8e9f6077/multi-stage-processing-architecture-a-structural-defense-against-prompt-injection-1bap)
-- [软件行业的未来十年大变局：当AI重构整个生态](https://dev.to/tuo_cheng_68980dbefbe1e75/ruan-jian-xing-ye-de-wei-lai-shi-nian-da-bian-ju-dang-aizhong-gou-zheng-ge-sheng-tai-18gb)
-- [Something Different, i dont what stud out, but this was good](https://dev.to/mingzhao/something-different-i-dont-what-stud-out-but-this-was-good-cca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
