@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌍 3 Ways to Detect a User’s Country on Your Website](https://dev.to/geoapify-maps-api/3-ways-to-detect-a-users-country-on-your-website-iec)
+- [Dev Diaries Episode 5 – Startup Life Isn&#39;t Always Glamorous](https://dev.to/stellar/dev-diaries-episode-5-startup-life-isnt-always-glamorous-5gm)
+- [Is Open Banking Built To Last?](https://dev.to/flutterwaveeng/is-open-banking-built-to-last-487j)
+- [#DAY 1: DFIR Lab Setup](https://dev.to/samueladeduntan/day-1-dfir-lab-setup-1gac)
 - [TOTP Authenticator: A Lightweight PHP Library for Secure Two-Factor Authentication](https://dev.to/hosseinhezami/totp-authenticator-a-lightweight-php-library-for-secure-two-factor-authentication-428p)
-- [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
-- [Project of the Week: Emotion-js](https://dev.to/pullflow/project-of-the-week-emotion-js-3lkh)
-- [Draw to find a location anywhere](https://dev.to/coderhema/draw-to-find-a-location-anywhere-22op)
-- [Svelte Events &amp; Bindings Tutorial: Master Parent-Child Communication](https://dev.to/a1guy/svelte-events-bindings-tutorial-master-parent-child-communication-4o5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
