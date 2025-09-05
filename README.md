@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Caching and CDN Performance Optimization: A Complete Guide](https://dev.to/favohost/caching-and-cdn-performance-optimization-a-complete-guide-2f6g)
+- [Beyond Pretty Print: 8 JSON Workflows Using OnTheGoTools’ 20+ Utilities](https://dev.to/vimal-patel/beyond-pretty-print-8-json-workflows-using-onthegotools-20-utilities-5gd)
+- [ASPICE Literacy: Driving Quality Before Driving Cars 🏁](https://dev.to/abdulosman/aspice-literacy-driving-quality-before-driving-cars-4hhp)
+- [Converting audio to MP3 in the browser - Javascript tutorial](https://dev.to/tiagosilvapereira/converting-audio-to-mp3-in-the-browser-javascript-tutorial-1dcm)
 - [Softr + Airtable + Make: A Scalable No-Code Architecture](https://dev.to/alifar/softr-airtable-make-a-scalable-no-code-architecture-for-developers-c0b)
 - [Building a High-Performance Concurrent Live Leaderboard in Go](https://dev.to/gkoos/building-a-high-performance-concurrent-live-leaderboard-in-go-3i6d)
-- [Building RenderForgeArt AI: A Multimodal Creative Suite Powered by Google AI Studio](https://dev.to/ranjancse/building-renderforgeart-ai-a-multimodal-creative-suite-powered-by-google-ai-studio-4oc4)
-- [From Discovery to Creation: How I Built a Japanese Text Counter Tool Inspired by Kantan Tools](https://dev.to/junhao_li_9ee6f0c5f90fb8e/from-discovery-to-creation-how-i-built-a-japanese-text-counter-tool-inspired-by-kantan-tools-4im6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
