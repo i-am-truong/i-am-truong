@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Content Creation Side Hustle Using AI and Made $5,000 in a Month](https://dev.to/walker876/how-i-built-a-content-creation-side-hustle-using-ai-and-made-5000-in-a-month-ofb)
-- [🎿“Minimum Operations to Make the Integer Zero” LeetCode: 2749 [C++, JavaScript, Python]](https://dev.to/om_shree_0709/minimum-operations-to-make-the-integer-zero-leetcode-2749-c-javascript-python-4a23)
-- [Agentic AI vs Infrastructure as Code: The Future of DevOps](https://dev.to/mechcloud_academy/agentic-ai-vs-infrastructure-as-code-the-future-of-devops-2kki)
-- [Docker Series — Episode 14: Docker Networking Deep Dive &lpar;Bridge, Host, Overlay&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-14-docker-networking-deep-dive-bridge-host-overlay-3j78)
-- [My first AI-assisted web game: PuzzlePave](https://dev.to/_8d31359a797ee088ecde8/my-first-ai-assisted-web-game-puzzlepave-486e)
+- [Carbonyl: Forking Chromium to Render Live in a Terminal](https://dev.to/mrpunkdasilva/carbonyl-forking-chromium-to-render-live-in-a-terminal-2j9o)
+- [Building a Video-to-MP3 Converter with FastAPI Microservices](https://dev.to/fury17/building-a-video-to-mp3-converter-with-fastapi-microservices-57bm)
+- [Tempo.xyz: A Time-First Productivity Platform Rethinking How We Work](https://dev.to/mrpunkdasilva/tempoxyz-a-time-first-productivity-platform-rethinking-how-we-work-105c)
+- [ZenFlow — Fully Vibe-Coded by Someone Who Knows Nothing About Web Dev](https://dev.to/wydoinn/zenflow-fully-vibe-coded-by-someone-who-knows-nothing-about-web-dev-1ajc)
+- [Which Database Should We Use: Relational, Document, or Graph Model?](https://dev.to/deepak_negi_f1d64e7393000/which-database-should-we-use-relational-document-or-graph-model-33lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
