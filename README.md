@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bolt Made me Bold... &lpar;LullaRead&rpar;](https://dev.to/illuminateme/bolt-made-me-bold-lullaread-imd)
+- [VidNote Video To Note Summaries Submission](https://dev.to/tyler_wes/vidnote-video-to-note-summaries-submission-187c)
+- [Revisiting &#39;PHP: A Fractal of Bad Design&#39; — With Context](https://dev.to/tanzimibthesam/revisiting-php-a-fractal-of-bad-design-with-context-343g)
 - [How SSH Authentication Really Works](https://dev.to/naval_upadhyay/how-ssh-authentication-really-works-16aj)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ag0)
-- [Building Your First Cloud-Native Kubernetes Cluster: A Beginner&#39;s Journey with Talos Linux and Cilium](https://dev.to/chiqors/building-your-first-cloud-native-kubernetes-cluster-a-beginners-journey-with-talos-linux-and-2i0o)
-- [Introducing Codepit: A Minimal Platform to Share Code Snippets](https://dev.to/jiordiviera/introducing-codepit-a-minimal-platform-to-share-code-snippets-10bc)
-- [MCP-UI + TanStack: The React Stack That&#39;s Changing Everything](https://dev.to/shiva_shanker_k/mcp-ui-tanstack-the-react-stack-thats-changing-everything-8ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
