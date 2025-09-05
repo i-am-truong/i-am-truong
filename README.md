@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Developers vs AI-Generated Code: When Should You Trust the Machine?](https://dev.to/arkhan/developers-vs-ai-generated-code-when-should-you-trust-the-machine-io6)
 - [The Honest Side of My Job Hunt &lpar;Not the LinkedIn Version&rpar;](https://dev.to/mettasurendhar/the-honest-side-of-my-job-hunt-not-the-linkedin-version-l14)
 - [Understanding Git Push and Pull: How SSH Makes It Secure](https://dev.to/shrsv/understanding-git-push-and-pull-how-ssh-makes-it-secure-3i5b)
 - [Golf.com: The Soul of Cypress Point | Inside Golf&#39;s Most Mystical Club](https://dev.to/youtube_golf/golfcom-the-soul-of-cypress-point-inside-golfs-most-mystical-club-4220)
 - [Noclip: The Making of Wolfenstein - Noclip Documentary](https://dev.to/gg_news/noclip-the-making-of-wolfenstein-noclip-documentary-ldh)
-- [GameSpot: Borderlands 4 | Official Launch Week Trailer](https://dev.to/gg_news/gamespot-borderlands-4-official-launch-week-trailer-3a3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
