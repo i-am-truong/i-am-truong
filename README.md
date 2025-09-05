@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A CSS only time progress bar to use in markdown / GitHub Pages](https://dev.to/codepo8/a-css-only-time-progress-bar-to-use-in-markdown-github-pages-465f)
-- [Should You Learn Perl in 2025?](https://dev.to/lbvf50mobile/should-you-learn-perl-in-2025-1909)
-- [Element: The Open-Source Federated System for Secure Messaging, Voice, and Video](https://dev.to/byteknight/element-the-open-source-federated-system-for-secure-messaging-voice-and-video-3po0)
-- [Dear ChatGPT-5: We Need to Talk](https://dev.to/ospehlivano/dear-chatgpt-5-we-need-to-talk-1k7c)
-- [Your First React Component: JSX, Components, and the &quot;Hello, World&quot; Program](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl)
+- [⚠️ 90% of businesses are losing money by NOT doing this… is yours one of them?](https://dev.to/dhruvjoshi9/90-of-businesses-are-losing-money-by-not-doing-this-is-yours-one-of-them-4f13)
+- [🔎 CAG &lpar;Context-Augmented Generation&rpar;: Making AI Truly Personal](https://dev.to/techstuff/cag-context-augmented-generation-making-ai-truly-personal-ek2)
+- [Hard part about job finding](https://dev.to/masterdevsabith/hard-part-about-job-finding-50m8)
+- [The Template Method Design Pattern...](https://dev.to/sommukhopadhyay/the-template-method-design-pattern-1c82)
+- [Building a Secure SFTP Server on a Linode Public Subnet](https://dev.to/joojodontoh/building-a-secure-sftp-server-on-a-linode-public-subnet-3b0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
