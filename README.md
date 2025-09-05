@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/bridget_amana/-2bm6)
-- [🌍 3 Ways to Detect a User’s Country on Your Website](https://dev.to/geoapify-maps-api/3-ways-to-detect-a-users-country-on-your-website-iec)
-- [Dev Diaries Episode 5 – Startup Life Isn&#39;t Always Glamorous](https://dev.to/stellar/dev-diaries-episode-5-startup-life-isnt-always-glamorous-5gm)
-- [Is Open Banking Built To Last?](https://dev.to/flutterwaveeng/is-open-banking-built-to-last-487j)
-- [Getting Started with IaC on AWS: Choosing Between CloudFormation, SAM, and CDK](https://dev.to/a-k-0047/getting-started-with-iac-on-aws-choosing-between-cloudformation-sam-and-cdk-2mmp)
+- [ZenFlow — Fully Vibe-Coded by Someone Who Knows Nothing About Web Dev](https://dev.to/wydoinn/zenflow-fully-vibe-coded-by-someone-who-knows-nothing-about-web-dev-17i3)
+- [How to Build a Live Poll in React in Under 5 Minutes &lpar;Without a Backend&rpar;](https://dev.to/adrai/how-to-build-a-live-poll-in-react-in-under-5-minutes-without-a-backend-41mc)
+- [The Brutal &lpar;and Rewarding&rpar; Reality of Solo SaaS founder](https://dev.to/web5lab_938e9096be8dc3e78/the-brutal-and-rewarding-reality-of-solo-saas-founder-1lk3)
+- [This article works](https://dev.to/divyansh_pratapsingh_a47/this-article-works-3845)
+- [Backend Implementation: From &#39;It Works on My Machine&#39; to Production-Ready API](https://dev.to/klasniyparen/backend-implementation-from-it-works-on-my-machine-to-production-ready-api-f36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
