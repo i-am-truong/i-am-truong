@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve built a collapsible ASCII tree generator](https://dev.to/milorad_filipovi_0e426f2/ive-built-a-collapsible-ascii-tree-generator-11m9)
-- [RabbitMQ vs. Apache Kafka: Choosing the Right Messaging Backbone for Microservices](https://dev.to/dev_saeid_ghaderi/rabbitmq-vs-apache-kafka-choosing-the-right-messaging-backbone-for-microservices-187m)
-- [Schema Only Accounts Feature in Oracle 18c and 19c](https://dev.to/vahidusefzadeh/schema-only-accounts-feature-in-oracle-18c-and-19c-4df4)
-- [How I Built a Fully Automated Instagram Bot in One Weekend &lpar;From Zero n8n Knowledge to Live Workflow&rpar;](https://dev.to/mathiasfc/how-i-built-a-fully-automated-instagram-bot-in-one-weekend-from-zero-n8n-knowledge-to-live-2cho)
-- [365 Days Full Stack Developer Coding Challenge](https://dev.to/code_2/365-days-full-stack-developer-coding-challenge-56a3)
+- [Inside React Query: What’s Really Going On](https://dev.to/mohamad_msalme_38f2508ea2/inside-react-query-whats-really-going-on-31md)
+- [RC4: From Ubiquity to Collapse — and What It Taught Us About Trust](https://dev.to/dmytro_huz/rc4-from-ubiquity-to-collapse-and-what-it-taught-us-about-trust-45ld)
+- [Running Machine Learning Models in the Browser Using onnxruntime-web](https://dev.to/dinakajoy/running-machine-learning-models-in-the-browser-using-onnxruntime-web-3klc)
+- [Open Source? Open Mind!](https://dev.to/jongwan93/open-source-open-mind-2k6d)
+- [I&#39;ve built a collapsible ASCII tree generator](https://dev.to/mfilipovic/ive-built-a-collapsible-ascii-tree-generator-11m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
