@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve built a collapsible ASCII tree generator](https://dev.to/milorad_filipovi_0e426f2/ive-built-a-collapsible-ascii-tree-generator-11m9)
+- [RabbitMQ vs. Apache Kafka: Choosing the Right Messaging Backbone for Microservices](https://dev.to/dev_saeid_ghaderi/rabbitmq-vs-apache-kafka-choosing-the-right-messaging-backbone-for-microservices-187m)
+- [Schema Only Accounts Feature in Oracle 18c and 19c](https://dev.to/vahidusefzadeh/schema-only-accounts-feature-in-oracle-18c-and-19c-4df4)
+- [How I Built a Fully Automated Instagram Bot in One Weekend &lpar;From Zero n8n Knowledge to Live Workflow&rpar;](https://dev.to/mathiasfc/how-i-built-a-fully-automated-instagram-bot-in-one-weekend-from-zero-n8n-knowledge-to-live-2cho)
 - [365 Days Full Stack Developer Coding Challenge](https://dev.to/code_2/365-days-full-stack-developer-coding-challenge-56a3)
-- [Jarvis](https://dev.to/sandeepk1729/jarvis-4o7)
-- [First week in course OSD600](https://dev.to/aubreyddd/first-week-in-course-osd600-40j2)
-- [Building an AI Dining Assistant in 30 Minutes: From Local Development to Cloud Deployment](https://dev.to/aws-builders/building-an-ai-dining-assistant-in-30-minutes-from-local-development-to-cloud-deployment-499l)
-- [Multimodal AI: Beyond Single-Mode Intelligence](https://dev.to/srijan-xi/multimodal-ai-beyond-single-mode-intelligence-27ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
