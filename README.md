@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Web Apps with Pure Go &lpar;No JavaScript Required!&rpar;](https://dev.to/hasan_gursoy_7b08ccc8f799/build-web-apps-with-pure-go-no-javascript-required-4icj)
+- [A Factory Reset on Factory Functions](https://dev.to/senken18/a-factory-reset-on-factory-functions-22nl)
 - [Carbonyl: Forking Chromium to Render Live in a Terminal](https://dev.to/mrpunkdasilva/carbonyl-forking-chromium-to-render-live-in-a-terminal-2j9o)
 - [Building a Video-to-MP3 Converter with FastAPI Microservices](https://dev.to/fury17/building-a-video-to-mp3-converter-with-fastapi-microservices-57bm)
 - [Tempo.xyz: A Time-First Productivity Platform Rethinking How We Work](https://dev.to/mrpunkdasilva/tempoxyz-a-time-first-productivity-platform-rethinking-how-we-work-105c)
-- [ZenFlow — Fully Vibe-Coded by Someone Who Knows Nothing About Web Dev](https://dev.to/wydoinn/zenflow-fully-vibe-coded-by-someone-who-knows-nothing-about-web-dev-1ajc)
-- [Which Database Should We Use: Relational, Document, or Graph Model?](https://dev.to/deepak_negi_f1d64e7393000/which-database-should-we-use-relational-document-or-graph-model-33lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
