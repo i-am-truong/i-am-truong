@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🏆⚛️React Roadmap Guide for Beginners 2025 &lpar;Updated&rpar;](https://dev.to/ypdev19/react-roadmap-guide-for-beginners-2025-updated-2050)
+- [How to Work with Files in Python &lpar;Read, Write, Append&rpar; 📂🐍](https://dev.to/menocode/how-to-work-with-files-in-python-read-write-append-2c9i)
+- [Hetzner Alternatives for 2025 &lpar;DigitalOcean, Linode, Vultr, OVHcloud&rpar;](https://dev.to/alakkadshaw/hetzner-alternatives-for-2025-digitalocean-linode-vultr-ovhcloud-5936)
 - [Subsets of AI - AI, Machine Learning, Deep Learning &amp; Gen AI](https://dev.to/shajam/subsets-of-ai-ai-machine-learning-deep-learning-gen-ai-4c2l)
 - [Event Bubbling and Capturing in JavaScript: The Complete Guide](https://dev.to/ishanbagchi/event-bubbling-and-capturing-in-javascript-the-complete-guide-14bh)
-- [What does ‘amplify learning’ mean in software development?](https://dev.to/steamedeo/what-does-amplify-learning-mean-in-software-development-3ag6)
-- [RAG Evaluation in Java: A Comprehensive Guide](https://dev.to/vishalmysore/rag-evaluation-in-java-a-comprehensive-guide-1jb6)
-- [Your Java `clone&lpar;&rpar;` Is a Lie! Fix Object Corruption Before It&#39;s Too Late!](https://dev.to/xuan_56087d315ff4f52254e6/your-java-clone-is-a-lie-fix-object-corruption-before-its-too-late-53nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
