@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Subsets of AI - AI, Machine Learning, Deep Learning &amp; Gen AI](https://dev.to/shajam/subsets-of-ai-ai-machine-learning-deep-learning-gen-ai-4c2l)
+- [Event Bubbling and Capturing in JavaScript: The Complete Guide](https://dev.to/ishanbagchi/event-bubbling-and-capturing-in-javascript-the-complete-guide-14bh)
 - [What does ‘amplify learning’ mean in software development?](https://dev.to/steamedeo/what-does-amplify-learning-mean-in-software-development-3ag6)
 - [RAG Evaluation in Java: A Comprehensive Guide](https://dev.to/vishalmysore/rag-evaluation-in-java-a-comprehensive-guide-1jb6)
 - [Your Java `clone&lpar;&rpar;` Is a Lie! Fix Object Corruption Before It&#39;s Too Late!](https://dev.to/xuan_56087d315ff4f52254e6/your-java-clone-is-a-lie-fix-object-corruption-before-its-too-late-53nc)
-- [Why Can’t AI Say “I Don’t Know”? &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-cant-ai-say-i-dont-know-bite-size-article-2bo9)
-- [Security news weekly round-up - 5th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-september-2025-2b6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
