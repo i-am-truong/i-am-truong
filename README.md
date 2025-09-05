@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Train a YOLO Segmentation Model with MIDV500 Dataset for ID Document Detection](https://dev.to/yushulx/how-to-train-a-yolo-segmentation-model-with-midv500-dataset-for-id-document-detection-25m5)
 - [Solution Layers in Power Automate Flows: Why Solution Upgrades Don’t Remove Active Layers](https://dev.to/nikhildynamicsce/solution-layers-in-power-automate-flows-why-solution-upgrades-dont-remove-active-layers-2n94)
+- [📏 Guide CursorAI with a `.prompt-rules.md` File](https://dev.to/devgaurav/-guide-cursorai-with-a-prompt-rulesmd-file-143m)
 - [Understanding core cloud infrastructure concepts.](https://dev.to/usmanzahidcode/understanding-core-cloud-infrastructure-concepts-ook)
 - [⚠️ 90% of businesses are losing money by NOT doing this… is yours one of them?](https://dev.to/dhruvjoshi9/90-of-businesses-are-losing-money-by-not-doing-this-is-yours-one-of-them-4f13)
-- [🔎 CAG &lpar;Context-Augmented Generation&rpar;: Making AI Truly Personal](https://dev.to/techstuff/cag-context-augmented-generation-making-ai-truly-personal-ek2)
-- [Hard part about job finding](https://dev.to/masterdevsabith/hard-part-about-job-finding-50m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
