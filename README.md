@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chain Of Responsibility in Python...](https://dev.to/sommukhopadhyay/chain-of-responsibility-in-python-4588)
 - [What does it take to be a leader?](https://dev.to/daniloab/what-does-it-take-to-be-a-leader-45b0)
 - [PHP GC with Example](https://dev.to/ahmedraza_fyntune/php-gc-with-example-16c2)
 - [Game Dev Digest — Issue #297 - Rendering Breakdowns, Lighting, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-297-rendering-breakdowns-lighting-and-more-254p)
 - [MarkFlowy: Your New AI-Powered Markdown Editor](https://dev.to/githubopensource/markflowy-your-new-ai-powered-markdown-editor-3o6l)
-- [Day 4 - 🔐 Securing API with Keycloak](https://dev.to/siddharth_bhamare_8585/day-4-securing-api-with-keycloak-53gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
