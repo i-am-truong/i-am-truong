@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YAML - Kubernetes &#39;Favorite&#39; Configuration Language](https://dev.to/locnguyenpv/yaml-kubernetes-favorite-configuration-language-1l34)
 - [Understanding Distributed Transaction Locks and Session-Specific Data in Oracle](https://dev.to/mrcaption49/understanding-distributed-transaction-locks-and-session-specific-data-in-oracle-2n6e)
 - [WebSockets &amp; ComfyUI: Building Interactive AI Applications](https://dev.to/worldlinetech/websockets-comfyui-building-interactive-ai-applications-1j1g)
 - [Create 3D Explosion Animations with HT for Web](https://dev.to/hightopo/create-3d-explosion-animations-with-ht-for-web-2c0h)
 - [Trust &amp; Transparency: Why we updated our review system at mobile.de](https://dev.to/berlin-tech-blog/trust-transparency-why-we-updated-our-review-system-at-mobilede-70m)
-- [Unlocking JavaScript: A Deep Dive into ES and ES6 Standards](https://dev.to/adrahi/unlocking-javascript-a-deep-dive-into-es-and-es6-standards-19c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
