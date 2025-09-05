@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Connecting the Centrifugo in laravel](https://dev.to/deniskorbakov/connecting-the-centrifugo-in-laravel-2l78)
-- [Should you learn Rust NOW? My contribution to the Rust community - State Pattern in Rust...](https://dev.to/sommukhopadhyay/should-you-learn-rust-now-my-contribution-to-the-rust-community-state-pattern-in-rust-h1h)
-- [Mastering VPS For Frontend Engineer - Part 2](https://dev.to/joseph42a/vps-for-frontend-engineer-part-2-7h5)
-- [I Built an AI That Roasts Your Drawings](https://dev.to/adzhydra/your-doodles-judged-by-ai-free-multiplayer-browser-game-ahg)
-- [My journey of learning Rust - Static dispatch vs Dynamic dispatch...](https://dev.to/sommukhopadhyay/my-journey-of-learning-rust-static-dispatch-vs-dynamic-dispatch-1co6)
+- [Introducing Codepit: A Minimal Platform to Share Code Snippets](https://dev.to/jiordiviera/introducing-codepit-a-minimal-platform-to-share-code-snippets-10bc)
+- [MCP-UI + TanStack: The React Stack That&#39;s Changing Everything](https://dev.to/shiva_shanker_k/mcp-ui-tanstack-the-react-stack-thats-changing-everything-8ah)
+- [Tipos Primitivos X Classes Wrappers em Java](https://dev.to/cassius_rocha/tipos-primitivos-x-classes-wrappers-em-java-224c)
+- [Microsoft Just Open-Sourced the Original 6502 BASIC Interpreter](https://dev.to/shiva_shanker_k/microsoft-just-open-sourced-the-original-6502-basic-interpreter-559o)
+- [Arrays, Objects, and Tuple‑Like Thinking in JavaScript](https://dev.to/anik_sikder_313/arrays-objects-and-tuple-like-thinking-in-javascript-3opi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
