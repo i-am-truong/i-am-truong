@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Awesome GitHub Repositories for AI Engineers 🤖](https://dev.to/kamrul_arafin/10-awesome-github-repositories-for-ai-engineers-bb6)
+- [Day 85: When Motivation Posts Miss the Point](https://dev.to/casperday11/day-85-when-motivation-posts-miss-the-point-5gff)
 - [OCI &quot;leapp upgrade&quot; for OCI compute instances](https://dev.to/nabhaas/oci-leapp-upgrade-for-oci-compute-instances-1cni)
-- [MCP: The USB-C for AI Development &lpar;Why You Should Care&rpar;](https://dev.to/gojer16/mcp-the-usb-c-for-ai-development-why-you-should-care-2071)
-- [From Feature Factory to Problem Solver: How I Actually Learned to Think Like a Senior Developer](https://dev.to/nirmitkotadiya/from-feature-factory-to-problem-solver-how-i-actually-learned-to-think-like-a-senior-developer-453c)
-- [6*6 Sudoku solver](https://dev.to/padmanavmishra/66-sudoku-solver-2fef)
-- [Day 84: When Your Alarm Clock Becomes Your Enemy](https://dev.to/casperday11/day-84-when-your-alarm-clock-becomes-your-enemy-1973)
+- [How to choose the right admin dashboard template](https://dev.to/vaibhavg/how-to-choose-the-right-admin-dashboard-template-1kda)
+- [Ever wondered how to actually use an MCP client with GitHub or other tools? I wrote a clear step-by-step guide to help devs get started.](https://dev.to/gojer16/ever-wondered-how-to-actually-use-an-mcp-client-with-github-or-other-tools-i-wrote-a-clear-3fck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
