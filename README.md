@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sacred Pause: A Third State for AI Accountability](https://dev.to/lev_goukassian_5fe7ea654a/sacred-pause-a-third-state-for-ai-accountability-49mm)
-- [SDLC and AI](https://dev.to/lloydmc/sdlc-and-ai-1342)
-- [Building a &#39;Chat with Your Logs&#39; System on AWS Using OpenSearch Serverless and Bedrock](https://dev.to/kirponik/building-a-chat-with-your-logs-system-on-aws-using-opensearch-serverless-and-bedrock-57g2)
-- [Run Your Expo App on a Physical Phone &lpar;with a Development Build&rpar; — Expo 53 + Expo Router](https://dev.to/cathylai/run-your-expo-app-on-a-physical-phone-with-a-development-build-expo-53-expo-router-h17)
-- [Azure NSG Routes](https://dev.to/charlie_barajas_353e28103/azure-nsg-routes-3k7a)
+- [Understanding MongoDB $lookup performance](https://dev.to/lusqua/understanding-mongodb-lookup-performance-1l15)
+- [DevOps from the Driver&#39;s seat part 1](https://dev.to/robert_scott_339c35174a4d/devops-from-the-drivers-seat-part-1-k60)
+- [Exploring the Magic of Python’s dataclass Module](https://dev.to/alvisonhunter/exploring-the-magic-of-pythons-dataclass-module-20mf)
+- [IGN: The COOLEST Tabletop Games and Accessories | PAX West 2025](https://dev.to/gg_news/ign-the-coolest-tabletop-games-and-accessories-pax-west-2025-4fc0)
+- [The Silent Siege: An Artisan&#39;s Guide to Hunting Memory Leaks in Long-Running Rails Processes](https://dev.to/alex_aslam/the-silent-siege-an-artisans-guide-to-hunting-memory-leaks-in-long-running-rails-processes-19c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
