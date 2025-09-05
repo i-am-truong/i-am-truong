@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security news weekly round-up - 5th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-september-2025-2b6i)
+- [Create a Pull request into another repository using github actions.](https://dev.to/pcmagas/create-a-pull-request-into-another-repository-using-github-actions-e04)
 - [📅 Week 1 Recap: System Design + DSA Journey](https://dev.to/ik_8a78062fd65be769dd835/week-1-recap-system-design-dsa-journey-1c34)
 - [AI vs Machine Learning vs Deep Learning: What&#39;s the Difference?](https://dev.to/susender_r_42cbe314979e66/ai-vs-machine-learning-vs-deep-learning-whats-the-difference-153h)
 - [My Journey Building Modern Websites with React and Next.js — From Nigeria to the World](https://dev.to/gideonabe/my-journey-building-modern-websites-with-react-and-nextjs-from-nigeria-to-the-world-3eml)
-- [How to populate your #Previews in SwiftUI](https://dev.to/stoiandan/how-to-populate-your-previews-in-swiftui-1bio)
-- [Instance Actors in Swift: Part 3 of Actor Series](https://dev.to/arshtechpro/instance-actors-in-swift-part-3-of-actor-series-4225)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
