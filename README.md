@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI vs Machine Learning vs Deep Learning: What&#39;s the Difference?](https://dev.to/susender_r_42cbe314979e66/ai-vs-machine-learning-vs-deep-learning-whats-the-difference-153h)
+- [My Journey Building Modern Websites with React and Next.js — From Nigeria to the World](https://dev.to/gideonabe/my-journey-building-modern-websites-with-react-and-nextjs-from-nigeria-to-the-world-3eml)
 - [How to populate your #Previews in SwiftUI](https://dev.to/stoiandan/how-to-populate-your-previews-in-swiftui-1bio)
-- [From Independent Microsites to Context-Driven Architecture](https://dev.to/alessandro-grosselle/from-independent-microsites-to-context-driven-architecture-5166)
 - [Instance Actors in Swift: Part 3 of Actor Series](https://dev.to/arshtechpro/instance-actors-in-swift-part-3-of-actor-series-4225)
 - [I built the ultimate Pokédex and would love you to try it!](https://dev.to/juandadev/i-built-the-ultimate-pokedex-and-would-love-you-to-try-it-472l)
-- [Starting My OpenMRS Journey: Why I&#39;m Diving Into Legacy Medical Software](https://dev.to/rooney_dev/starting-my-openmrs-journey-why-im-diving-into-legacy-medical-software-49b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
