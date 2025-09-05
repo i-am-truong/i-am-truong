@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with rsync: The Smarter Way to Copy Files](https://dev.to/rijultp/getting-started-with-rsync-the-smarter-way-to-copy-files-39ol)
+- [A Deep Dive into CDNs, DNS, and Your Server Setup](https://dev.to/lovestaco/a-deep-dive-into-cdns-dns-and-your-ovh-setup-4g35)
+- [Building for Tomorrow: Testing, Performance &amp; the Future of File Insights 🚀](https://dev.to/vijay431/building-for-tomorrow-testing-performance-the-future-of-file-insights-3k)
 - [Developers vs AI-Generated Code: When Should You Trust the Machine?](https://dev.to/arkhan/developers-vs-ai-generated-code-when-should-you-trust-the-machine-io6)
-- [The Honest Side of My Job Hunt &lpar;Not the LinkedIn Version&rpar;](https://dev.to/mettasurendhar/the-honest-side-of-my-job-hunt-not-the-linkedin-version-l14)
-- [Understanding Git Push and Pull: How SSH Makes It Secure](https://dev.to/shrsv/understanding-git-push-and-pull-how-ssh-makes-it-secure-3i5b)
-- [Golf.com: The Soul of Cypress Point | Inside Golf&#39;s Most Mystical Club](https://dev.to/youtube_golf/golfcom-the-soul-of-cypress-point-inside-golfs-most-mystical-club-4220)
-- [Noclip: The Making of Wolfenstein - Noclip Documentary](https://dev.to/gg_news/noclip-the-making-of-wolfenstein-noclip-documentary-ldh)
+- [ConfWatch: The Configuration File Monitor That Actually Works](https://dev.to/mrvi0/confwatch-the-configuration-file-monitor-that-actually-works-4jpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
