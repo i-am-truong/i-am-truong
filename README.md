@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RAG Evaluation in Java: A Comprehensive Guide](https://dev.to/vishalmysore/rag-evaluation-in-java-a-comprehensive-guide-1jb6)
+- [Your Java `clone&lpar;&rpar;` Is a Lie! Fix Object Corruption Before It&#39;s Too Late!](https://dev.to/xuan_56087d315ff4f52254e6/your-java-clone-is-a-lie-fix-object-corruption-before-its-too-late-53nc)
+- [Why Can’t AI Say “I Don’t Know”? &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-cant-ai-say-i-dont-know-bite-size-article-2bo9)
 - [Security news weekly round-up - 5th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-september-2025-2b6i)
 - [Create a Pull request into another repository using github actions.](https://dev.to/pcmagas/create-a-pull-request-into-another-repository-using-github-actions-e04)
-- [📅 Week 1 Recap: System Design + DSA Journey](https://dev.to/ik_8a78062fd65be769dd835/week-1-recap-system-design-dsa-journey-1c34)
-- [AI vs Machine Learning vs Deep Learning: What&#39;s the Difference?](https://dev.to/susender_r_42cbe314979e66/ai-vs-machine-learning-vs-deep-learning-whats-the-difference-153h)
-- [My Journey Building Modern Websites with React and Next.js — From Nigeria to the World](https://dev.to/gideonabe/my-journey-building-modern-websites-with-react-and-nextjs-from-nigeria-to-the-world-3eml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
