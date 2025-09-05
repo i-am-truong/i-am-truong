@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Input Element with Text Type to Take the Number as Text Perfectly](https://dev.to/sharjeel_sultan/how-to-make-input-element-with-text-type-to-take-the-number-as-text-perfectly-262p)
+- [Catch ‘Em All: Hunting Accessibility Bugs Like a Champion with Manual Testing](https://dev.to/laura-wissiak/catch-em-all-hunting-accessibility-bugs-like-a-champion-with-manual-testing-5a8h)
+- [30-Second Git Commits: The Micro-Habit That Saved Me 10 Hours Per Week](https://dev.to/teamcamp/30-second-git-commits-the-micro-habit-that-saved-me-10-hours-per-week-4p85)
 - [10 Awesome GitHub Repositories for AI Engineers 🤖](https://dev.to/kamrul_arafin/10-awesome-github-repositories-for-ai-engineers-bb6)
 - [Day 85: When Motivation Posts Miss the Point](https://dev.to/casperday11/day-85-when-motivation-posts-miss-the-point-5gff)
-- [OCI &quot;leapp upgrade&quot; for OCI compute instances](https://dev.to/nabhaas/oci-leapp-upgrade-for-oci-compute-instances-1cni)
-- [How to choose the right admin dashboard template](https://dev.to/vaibhavg/how-to-choose-the-right-admin-dashboard-template-1kda)
-- [Ever wondered how to actually use an MCP client with GitHub or other tools? I wrote a clear step-by-step guide to help devs get started.](https://dev.to/gojer16/ever-wondered-how-to-actually-use-an-mcp-client-with-github-or-other-tools-i-wrote-a-clear-3fck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
