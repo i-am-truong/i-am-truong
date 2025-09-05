@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Latches in C++ 20 concurrency - just like the CountdownLatch of Java concurrency package...](https://dev.to/sommukhopadhyay/latches-in-c-20-concurrency-just-like-the-countdownlatch-of-java-concurrency-package-26g9)
-- [VIM Editor Tutorial for Beginners – Learn VIM the Easy Way](https://dev.to/kmsaifullah/vim-editor-tutorial-for-beginners-learn-vim-the-easy-way-5bj3)
-- [Top 10 Free Frontend UI Libraries &amp; Frameworks for Developers in 2025](https://dev.to/therealmrmumba/top-10-free-frontend-ui-libraries-frameworks-for-developers-in-2025-3h20)
-- [Prototype Design Pattern in Python...](https://dev.to/sommukhopadhyay/prototype-design-pattern-in-python-33ei)
-- [✨ Advanced Tips and Tricks for GitHub Gists &lpar;Part 1: Unlocking the Power of Gists&rpar;](https://dev.to/this-is-learning/advanced-tips-and-tricks-for-github-gists-part-1-unlocking-the-power-of-gists-22h5)
+- [A CSS only time progress bar to use in markdown / GitHub Pages](https://dev.to/codepo8/a-css-only-time-progress-bar-to-use-in-markdown-github-pages-465f)
+- [Should You Learn Perl in 2025?](https://dev.to/lbvf50mobile/should-you-learn-perl-in-2025-1909)
+- [Element: The Open-Source Federated System for Secure Messaging, Voice, and Video](https://dev.to/byteknight/element-the-open-source-federated-system-for-secure-messaging-voice-and-video-3po0)
+- [Dear ChatGPT-5: We Need to Talk](https://dev.to/ospehlivano/dear-chatgpt-5-we-need-to-talk-1k7c)
+- [Your First React Component: JSX, Components, and the &quot;Hello, World&quot; Program](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
