@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Pretty Print: 8 JSON Workflows Using OnTheGoTools’ 20+ Utilities](https://dev.to/vimal-patel/beyond-pretty-print-8-json-workflows-using-onthegotools-20-utilities-5gd)
-- [ASPICE Literacy: Driving Quality Before Driving Cars 🏁](https://dev.to/abdulosman/aspice-literacy-driving-quality-before-driving-cars-4hhp)
-- [Converting audio to MP3 in the browser - Javascript tutorial](https://dev.to/tiagosilvapereira/converting-audio-to-mp3-in-the-browser-javascript-tutorial-1dcm)
-- [Softr + Airtable + Make: A Scalable No-Code Architecture](https://dev.to/alifar/softr-airtable-make-a-scalable-no-code-architecture-for-developers-c0b)
-- [Building a High-Performance Concurrent Live Leaderboard in Go](https://dev.to/gkoos/building-a-high-performance-concurrent-live-leaderboard-in-go-3i6d)
+- [🛡️VerifiedVoices: Truth Without Fear, Trust Without Compromise -Powered by Midnight🌑🔥](https://dev.to/ria29108/verifiedvoices-truth-without-fear-trust-without-compromise-powered-by-midnight-12oe)
+- [UNSUPERVISED ML](https://dev.to/raymond_79cf41a94e682b4a3/unsupervised-ml-e0a)
+- [Why I’m Excited About Open Source](https://dev.to/hsachdeva9/why-im-excited-about-open-source-2hj2)
+- [My Code Works… But I Don’t Know Why](https://dev.to/trojanmocx/my-code-works-but-i-dont-know-why-3g5k)
+- [How to Connect to Your VPN on macOS Using Tunnelblick and a Certificate](https://dev.to/icyy_bee/how-to-connect-to-your-vpn-on-macos-using-tunnelblick-and-a-certificate-5hig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
