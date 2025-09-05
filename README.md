@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ZenFlow — Fully Vibe-Coded by Someone Who Knows Nothing About Web Dev](https://dev.to/wydoinn/zenflow-fully-vibe-coded-by-someone-who-knows-nothing-about-web-dev-17i3)
-- [How to Build a Live Poll in React in Under 5 Minutes &lpar;Without a Backend&rpar;](https://dev.to/adrai/how-to-build-a-live-poll-in-react-in-under-5-minutes-without-a-backend-41mc)
-- [The Brutal &lpar;and Rewarding&rpar; Reality of Solo SaaS founder](https://dev.to/web5lab_938e9096be8dc3e78/the-brutal-and-rewarding-reality-of-solo-saas-founder-1lk3)
-- [This article works](https://dev.to/divyansh_pratapsingh_a47/this-article-works-3845)
-- [Backend Implementation: From &#39;It Works on My Machine&#39; to Production-Ready API](https://dev.to/klasniyparen/backend-implementation-from-it-works-on-my-machine-to-production-ready-api-f36)
+- [Google AI Studio Challenge Submission Template](https://dev.to/pt67/google-ai-studio-challenge-submission-template-250e)
+- [Cloud Is No Longer a Specialty — It’s the Operating System of Modern Engineering](https://dev.to/onepoint/cloud-is-no-longer-a-specialty-its-the-operating-system-of-modern-engineering-1g5g)
+- [✨ Mastering Object Spread &amp; Rest in JavaScript](https://dev.to/usama_dev/mastering-object-spread-rest-in-javascript-3mb6)
+- [This Week In React #248: Compiler, Next.js, Activity, Forket | RN 1.0?, Nightly testing, Autolinking | WebMCP, Node](https://dev.to/sebastienlorber/this-week-in-react-248-compiler-nextjs-activity-forket-rn-10-nightly-testing-db8)
+- [How to Build a HTTP server from scratch in pure C](https://dev.to/hadi493/how-to-build-a-http-server-from-scratch-in-pure-c-p02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
