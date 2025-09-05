@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Day 8 of My Python Learning Journey – Sets &amp; Data Structures in Python](https://dev.to/_adii3107/day-8-of-my-python-learning-journey-sets-data-structures-in-python-5c4c)
-- [PrivateVault: Zero-Knowledge File Sharing DApp - Midnight Network Challenge Submission](https://dev.to/onirestart/privatevault-zero-knowledge-file-sharing-dapp-midnight-network-challenge-submission-4739)
-- [Fluent Brighter: Como configurar o Postgres](https://dev.to/actor-dev/fluent-brighter-como-configurar-o-postgres-3537)
-- [Fluent Brighter: How to setup a postgres](https://dev.to/actor-dev/fluent-brighter-how-to-setup-a-postgres-499d)
-- [My AI Journey](https://dev.to/visualcookie/my-ai-journey-3921)
+- [Simplify Validation in Golang— No Struct Tags, No Reflection, TypeSafety: Meet GoValidator](https://dev.to/rezakhademix/simplify-validation-in-golang-no-struct-tags-no-reflection-typesafety-meet-govalidator-2e53)
+- [Global AI Showdown 2025: Comparing the World’s Leading LLMs](https://dev.to/lightningdev123/global-ai-showdown-2025-comparing-the-worlds-leading-llms-obo)
+- [🔧 Ending Engineering Toil in DevOps: Why Automation Matters](https://dev.to/terraformmonkey/ending-engineering-toil-in-devops-why-automation-matters-3fn3)
+- [📚 My First Java Project: A Simple Library Management System](https://dev.to/asmit_mandal_5447bd99f7a5/my-first-java-project-a-simple-library-management-system-2jcj)
+- [📚 My First Java Project: A Simple Library Management System](https://dev.to/asmit_mandal_5447bd99f7a5/my-first-java-project-a-simple-library-management-system-1lk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
