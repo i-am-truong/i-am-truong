@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mockando Endpoints com MSW em Testes com Jest e React Query](https://dev.to/vitorrios1001/mockando-endpoints-com-msw-em-testes-com-jest-e-react-query-10l0)
+- [Feasibility Studies and Risk Planning in Software Projects](https://dev.to/th33k/feasibility-studies-and-risk-planning-in-software-projects-5fan)
+- [2025年プログラマー必携！私が選ぶAIツール・10の神器で“ひとりチーム”爆誕](https://dev.to/waterlily_0f365e5fadded0f/2025nian-puroguramabi-xi-si-gaxuan-buaituru10noshen-qi-dehitoritimubao-dan-35c6)
 - [YAML - Kubernetes &#39;Favorite&#39; Configuration Language](https://dev.to/locnguyenpv/yaml-kubernetes-favorite-configuration-language-1l34)
-- [Understanding Distributed Transaction Locks and Session-Specific Data in Oracle](https://dev.to/mrcaption49/understanding-distributed-transaction-locks-and-session-specific-data-in-oracle-2n6e)
-- [WebSockets &amp; ComfyUI: Building Interactive AI Applications](https://dev.to/worldlinetech/websockets-comfyui-building-interactive-ai-applications-1j1g)
-- [Create 3D Explosion Animations with HT for Web](https://dev.to/hightopo/create-3d-explosion-animations-with-ht-for-web-2c0h)
-- [Trust &amp; Transparency: Why we updated our review system at mobile.de](https://dev.to/berlin-tech-blog/trust-transparency-why-we-updated-our-review-system-at-mobilede-70m)
+- [Next.js Rendering Strategies: CSR vs SSR vs SSG vs ISR &lpar;Complete Guide&rpar;](https://dev.to/rayan2228/nextjs-rendering-strategies-csr-vs-ssr-vs-ssg-vs-isr-complete-guide-26j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
