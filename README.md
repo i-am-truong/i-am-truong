@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architectures on AWS: Beyond Lambda](https://dev.to/nidhi_0105/event-driven-architectures-on-aws-beyond-lambda-295a)
-- [Simplify Validation in Golang— No Struct Tags, No Reflection, TypeSafety: Meet GoValidator](https://dev.to/rezakhademix/simplify-validation-in-golang-no-struct-tags-no-reflection-typesafety-meet-govalidator-2e53)
-- [Global AI Showdown 2025: Comparing the World’s Leading LLMs](https://dev.to/lightningdev123/global-ai-showdown-2025-comparing-the-worlds-leading-llms-obo)
-- [🔧 Ending Engineering Toil in DevOps: Why Automation Matters](https://dev.to/terraformmonkey/ending-engineering-toil-in-devops-why-automation-matters-3fn3)
-- [📚 My First Java Project: A Simple Library Management System](https://dev.to/asmit_mandal_5447bd99f7a5/my-first-java-project-a-simple-library-management-system-2jcj)
+- [Understanding Distributed Transaction Locks and Session-Specific Data in Oracle](https://dev.to/mrcaption49/understanding-distributed-transaction-locks-and-session-specific-data-in-oracle-2n6e)
+- [WebSockets &amp; ComfyUI: Building Interactive AI Applications](https://dev.to/worldlinetech/websockets-comfyui-building-interactive-ai-applications-1j1g)
+- [Create 3D Explosion Animations with HT for Web](https://dev.to/hightopo/create-3d-explosion-animations-with-ht-for-web-2c0h)
+- [Trust &amp; Transparency: Why we updated our review system at mobile.de](https://dev.to/berlin-tech-blog/trust-transparency-why-we-updated-our-review-system-at-mobilede-70m)
+- [Unlocking JavaScript: A Deep Dive into ES and ES6 Standards](https://dev.to/adrahi/unlocking-javascript-a-deep-dive-into-es-and-es6-standards-19c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
