@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Input Element with Text Type to Take the Number as Text Perfectly](https://dev.to/sharjeel_sultan/how-to-make-input-element-with-text-type-to-take-the-number-as-text-perfectly-262p)
-- [Catch ‘Em All: Hunting Accessibility Bugs Like a Champion with Manual Testing](https://dev.to/laura-wissiak/catch-em-all-hunting-accessibility-bugs-like-a-champion-with-manual-testing-5a8h)
-- [30-Second Git Commits: The Micro-Habit That Saved Me 10 Hours Per Week](https://dev.to/teamcamp/30-second-git-commits-the-micro-habit-that-saved-me-10-hours-per-week-4p85)
-- [10 Awesome GitHub Repositories for AI Engineers 🤖](https://dev.to/kamrul_arafin/10-awesome-github-repositories-for-ai-engineers-bb6)
-- [Day 85: When Motivation Posts Miss the Point](https://dev.to/casperday11/day-85-when-motivation-posts-miss-the-point-5gff)
+- [Latches in C++ 20 concurrency - just like the CountdownLatch of Java concurrency package...](https://dev.to/sommukhopadhyay/latches-in-c-20-concurrency-just-like-the-countdownlatch-of-java-concurrency-package-26g9)
+- [VIM Editor Tutorial for Beginners – Learn VIM the Easy Way](https://dev.to/kmsaifullah/vim-editor-tutorial-for-beginners-learn-vim-the-easy-way-5bj3)
+- [Top 10 Free Frontend UI Libraries &amp; Frameworks for Developers in 2025](https://dev.to/therealmrmumba/top-10-free-frontend-ui-libraries-frameworks-for-developers-in-2025-3h20)
+- [Prototype Design Pattern in Python...](https://dev.to/sommukhopadhyay/prototype-design-pattern-in-python-33ei)
+- [✨ Advanced Tips and Tricks for GitHub Gists &lpar;Part 1: Unlocking the Power of Gists&rpar;](https://dev.to/this-is-learning/advanced-tips-and-tricks-for-github-gists-part-1-unlocking-the-power-of-gists-22h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
