@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Chop Session with DJ Pie | Trap Draw, Ep 357](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-dj-pie-trap-draw-ep-357-4gcj)
-- [IGN: We played the Resident Evil: Requiem Demo | PAX West 2025](https://dev.to/gg_news/ign-we-played-the-resident-evil-requiem-demo-pax-west-2025-5g6g)
-- [IGN: Hell is Us Reveiw](https://dev.to/gg_news/ign-hell-is-us-reveiw-j8n)
-- [AI 编程与传统开发的系统性比较](https://dev.to/tuo_cheng_68980dbefbe1e75/ai-bian-cheng-yu-chuan-tong-kai-fa-de-xi-tong-xing-bi-jiao-354c)
-- [Quality vs. Efficacy: Learning with AI](https://dev.to/yaysa/quality-vs-efficacy-learning-with-ai-2b39)
+- [Docker Series — Episode 14: Docker Networking Deep Dive &lpar;Bridge, Host, Overlay&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-14-docker-networking-deep-dive-bridge-host-overlay-3j78)
+- [My first AI-assisted web game: PuzzlePave](https://dev.to/_8d31359a797ee088ecde8/my-first-ai-assisted-web-game-puzzlepave-486e)
+- [Multi-Stage Processing Architecture: A Structural Defense Against Prompt Injection](https://dev.to/pota_smith_e09f4b8e9f6077/multi-stage-processing-architecture-a-structural-defense-against-prompt-injection-1bap)
+- [软件行业的未来十年大变局：当AI重构整个生态](https://dev.to/tuo_cheng_68980dbefbe1e75/ruan-jian-xing-ye-de-wei-lai-shi-nian-da-bian-ju-dang-aizhong-gou-zheng-ge-sheng-tai-18gb)
+- [Something Different, i dont what stud out, but this was good](https://dev.to/mingzhao/something-different-i-dont-what-stud-out-but-this-was-good-cca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
