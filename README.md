@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Book review - From No to How - How to Get Buy-In and Lead Change](https://dev.to/lloydmc/book-review-from-no-to-how-how-to-get-buy-in-and-lead-change-3cc3)
 - [🏆⚛️React Roadmap Guide for Beginners 2025 &lpar;Updated&rpar;](https://dev.to/ypdev19/react-roadmap-guide-for-beginners-2025-updated-2050)
 - [How to Work with Files in Python &lpar;Read, Write, Append&rpar; 📂🐍](https://dev.to/menocode/how-to-work-with-files-in-python-read-write-append-2c9i)
 - [Hetzner Alternatives for 2025 &lpar;DigitalOcean, Linode, Vultr, OVHcloud&rpar;](https://dev.to/alakkadshaw/hetzner-alternatives-for-2025-digitalocean-linode-vultr-ovhcloud-5936)
 - [Subsets of AI - AI, Machine Learning, Deep Learning &amp; Gen AI](https://dev.to/shajam/subsets-of-ai-ai-machine-learning-deep-learning-gen-ai-4c2l)
-- [Event Bubbling and Capturing in JavaScript: The Complete Guide](https://dev.to/ishanbagchi/event-bubbling-and-capturing-in-javascript-the-complete-guide-14bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
