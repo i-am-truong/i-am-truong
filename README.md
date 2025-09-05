@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Day 8 of My Python Learning Journey – Sets &amp; Data Structures in Python](https://dev.to/_adii3107/day-8-of-my-python-learning-journey-sets-data-structures-in-python-5c4c)
 - [PrivateVault: Zero-Knowledge File Sharing DApp - Midnight Network Challenge Submission](https://dev.to/onirestart/privatevault-zero-knowledge-file-sharing-dapp-midnight-network-challenge-submission-4739)
-- [My AI Journey](https://dev.to/visualcookie/my-ai-journey-3921)
-- [Fluent Brighter: How to setup a postgres](https://dev.to/actor-dev/fluent-brighter-how-to-setup-a-postgres-499d)
 - [Fluent Brighter: Como configurar o Postgres](https://dev.to/actor-dev/fluent-brighter-como-configurar-o-postgres-3537)
-- [AWS Services Every Frontend Developer Should Know](https://dev.to/vishwark/aws-services-every-frontend-developer-should-know-50kd)
+- [Fluent Brighter: How to setup a postgres](https://dev.to/actor-dev/fluent-brighter-how-to-setup-a-postgres-499d)
+- [My AI Journey](https://dev.to/visualcookie/my-ai-journey-3921)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
