@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OCI &quot;leapp upgrade&quot; for OCI compute instances](https://dev.to/nabhaas/oci-leapp-upgrade-for-oci-compute-instances-1cni)
+- [MCP: The USB-C for AI Development &lpar;Why You Should Care&rpar;](https://dev.to/gojer16/mcp-the-usb-c-for-ai-development-why-you-should-care-2071)
+- [From Feature Factory to Problem Solver: How I Actually Learned to Think Like a Senior Developer](https://dev.to/nirmitkotadiya/from-feature-factory-to-problem-solver-how-i-actually-learned-to-think-like-a-senior-developer-453c)
+- [6*6 Sudoku solver](https://dev.to/padmanavmishra/66-sudoku-solver-2fef)
 - [Day 84: When Your Alarm Clock Becomes Your Enemy](https://dev.to/casperday11/day-84-when-your-alarm-clock-becomes-your-enemy-1973)
-- [Day 1 - Setting up the Scanner](https://dev.to/lahari_tenneti_4a8a082e9c/day-1-setting-up-the-scanner-45l2)
-- [Weekly Code Reviews: How a 15-Minute Friday Habit Can 3x Your Development Speed](https://dev.to/teamcamp/weekly-code-reviews-how-a-15-minute-friday-habit-can-3x-your-development-speed-1l96)
-- [The Four Point framework, which I use in every AI project I run, whether it’s coding, content, business strategy, or learning, and I wish every CEO would use. It’s not just theory; this is the backbone behind my books, projects, and success.](https://dev.to/jaideepparashar/the-four-point-framework-i-use-in-every-ai-project-i-run-whether-its-coding-content-business-53d8)
-- [The Prompt Engineering Framework Every CEO Should USE](https://dev.to/jaideepparashar/the-prompt-engineering-framework-every-ceo-should-use-4f9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
