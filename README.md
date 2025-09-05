@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Train a YOLO Segmentation Model with MIDV500 Dataset for ID Document Detection](https://dev.to/yushulx/how-to-train-a-yolo-segmentation-model-with-midv500-dataset-for-id-document-detection-25m5)
-- [Solution Layers in Power Automate Flows: Why Solution Upgrades Don’t Remove Active Layers](https://dev.to/nikhildynamicsce/solution-layers-in-power-automate-flows-why-solution-upgrades-dont-remove-active-layers-2n94)
-- [📏 Guide CursorAI with a `.prompt-rules.md` File](https://dev.to/devgaurav/-guide-cursorai-with-a-prompt-rulesmd-file-143m)
-- [Understanding core cloud infrastructure concepts.](https://dev.to/usmanzahidcode/understanding-core-cloud-infrastructure-concepts-ook)
-- [⚠️ 90% of businesses are losing money by NOT doing this… is yours one of them?](https://dev.to/dhruvjoshi9/90-of-businesses-are-losing-money-by-not-doing-this-is-yours-one-of-them-4f13)
+- [PrivateVault: Zero-Knowledge File Sharing DApp - Midnight Network Challenge Submission](https://dev.to/onirestart/privatevault-zero-knowledge-file-sharing-dapp-midnight-network-challenge-submission-4739)
+- [My AI Journey](https://dev.to/visualcookie/my-ai-journey-3921)
+- [Fluent Brighter: How to setup a postgres](https://dev.to/actor-dev/fluent-brighter-how-to-setup-a-postgres-499d)
+- [Fluent Brighter: Como configurar o Postgres](https://dev.to/actor-dev/fluent-brighter-como-configurar-o-postgres-3537)
+- [AWS Services Every Frontend Developer Should Know](https://dev.to/vishwark/aws-services-every-frontend-developer-should-know-50kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
