@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding General Security Concepts: A Guide to Security Controls](https://dev.to/pelk/understanding-general-security-concepts-a-guide-to-security-controls-1ho7)
+- [Deploy your own production-grade file server on a VPS for free in just a few steps](https://dev.to/boiler_agents/deploy-your-own-production-grade-file-server-on-a-vps-for-free-in-just-a-few-steps-4f7a)
+- [🚀 Automating API Load Testing with JMeter, Azure DevOps &amp; SLA Validation](https://dev.to/spencer_radcliff_eae6cf90/automating-api-load-testing-with-jmeter-azure-devops-sla-validation-1lmc)
+- [AlphaZero&#39;s Blind Spot: Adapting to the Unpredictable Real World](https://dev.to/arvindsundararajan/alphazeros-blind-spot-adapting-to-the-unpredictable-real-world-5g95)
 - [Inside React Query: What’s Really Going On](https://dev.to/mohamad_msalme_38f2508ea2/inside-react-query-whats-really-going-on-31md)
-- [RC4: From Ubiquity to Collapse — and What It Taught Us About Trust](https://dev.to/dmytro_huz/rc4-from-ubiquity-to-collapse-and-what-it-taught-us-about-trust-45ld)
-- [Running Machine Learning Models in the Browser Using onnxruntime-web](https://dev.to/dinakajoy/running-machine-learning-models-in-the-browser-using-onnxruntime-web-3klc)
-- [Open Source? Open Mind!](https://dev.to/jongwan93/open-source-open-mind-2k6d)
-- [I&#39;ve built a collapsible ASCII tree generator](https://dev.to/mfilipovic/ive-built-a-collapsible-ascii-tree-generator-11m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
