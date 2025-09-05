@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Code Reviews: How a 15-Minute Friday Habit Can 3x Your Development Speed](https://dev.to/teamcamp/weekly-code-reviews-how-a-15-minute-friday-habit-can-3x-your-development-speed-1l96)
+- [The Four Point framework, which I use in every AI project I run, whether it’s coding, content, business strategy, or learning, and I wish every CEO would use. It’s not just theory; this is the backbone behind my books, projects, and success.](https://dev.to/jaideepparashar/the-four-point-framework-i-use-in-every-ai-project-i-run-whether-its-coding-content-business-53d8)
+- [The Prompt Engineering Framework Every CEO Should USE](https://dev.to/jaideepparashar/the-prompt-engineering-framework-every-ceo-should-use-4f9h)
+- [Your Cloud Bill Has Feelings: Architecting for Cost-Conscious Scale](https://dev.to/usmanzahidcode/your-cloud-bill-has-feelings-architecting-for-cost-conscious-scale-34ko)
 - [Build Web Apps with Pure Go &lpar;No JavaScript Required!&rpar;](https://dev.to/hasan_gursoy_7b08ccc8f799/build-web-apps-with-pure-go-no-javascript-required-4icj)
-- [A Factory Reset on Factory Functions](https://dev.to/senken18/a-factory-reset-on-factory-functions-22nl)
-- [Carbonyl: Forking Chromium to Render Live in a Terminal](https://dev.to/mrpunkdasilva/carbonyl-forking-chromium-to-render-live-in-a-terminal-2j9o)
-- [Building a Video-to-MP3 Converter with FastAPI Microservices](https://dev.to/fury17/building-a-video-to-mp3-converter-with-fastapi-microservices-57bm)
-- [Tempo.xyz: A Time-First Productivity Platform Rethinking How We Work](https://dev.to/mrpunkdasilva/tempoxyz-a-time-first-productivity-platform-rethinking-how-we-work-105c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
