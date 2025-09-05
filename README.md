@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Connecting the Centrifugo in laravel](https://dev.to/deniskorbakov/connecting-the-centrifugo-in-laravel-2l78)
 - [Should you learn Rust NOW? My contribution to the Rust community - State Pattern in Rust...](https://dev.to/sommukhopadhyay/should-you-learn-rust-now-my-contribution-to-the-rust-community-state-pattern-in-rust-h1h)
 - [Mastering VPS For Frontend Engineer - Part 2](https://dev.to/joseph42a/vps-for-frontend-engineer-part-2-7h5)
 - [I Built an AI That Roasts Your Drawings](https://dev.to/adzhydra/your-doodles-judged-by-ai-free-multiplayer-browser-game-ahg)
 - [My journey of learning Rust - Static dispatch vs Dynamic dispatch...](https://dev.to/sommukhopadhyay/my-journey-of-learning-rust-static-dispatch-vs-dynamic-dispatch-1co6)
-- [[Boost]](https://dev.to/meer/-51hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
