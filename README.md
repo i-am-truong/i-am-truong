@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solution Layers in Power Automate Flows: Why Solution Upgrades Don’t Remove Active Layers](https://dev.to/nikhildynamicsce/solution-layers-in-power-automate-flows-why-solution-upgrades-dont-remove-active-layers-2n94)
+- [Understanding core cloud infrastructure concepts.](https://dev.to/usmanzahidcode/understanding-core-cloud-infrastructure-concepts-ook)
 - [⚠️ 90% of businesses are losing money by NOT doing this… is yours one of them?](https://dev.to/dhruvjoshi9/90-of-businesses-are-losing-money-by-not-doing-this-is-yours-one-of-them-4f13)
 - [🔎 CAG &lpar;Context-Augmented Generation&rpar;: Making AI Truly Personal](https://dev.to/techstuff/cag-context-augmented-generation-making-ai-truly-personal-ek2)
 - [Hard part about job finding](https://dev.to/masterdevsabith/hard-part-about-job-finding-50m8)
-- [The Template Method Design Pattern...](https://dev.to/sommukhopadhyay/the-template-method-design-pattern-1c82)
-- [Building a Secure SFTP Server on a Linode Public Subnet](https://dev.to/joojodontoh/building-a-secure-sftp-server-on-a-linode-public-subnet-3b0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
