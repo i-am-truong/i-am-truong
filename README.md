@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My OSD600 Journey](https://dev.to/oleksandrakordonets/my-osd600-journey-3bhf)
+- [My DevOps Journey: Part 1 — Learning Linux Through Real-World Tasks](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-1-learning-linux-through-real-world-tasks-4c41)
+- [This One Python Trick Will Make Your Code Look Like a Pro’s](https://dev.to/aaron_rose_0787cc8b4775a0/this-one-python-trick-will-make-your-code-look-like-a-pros-4j2)
 - [Understanding General Security Concepts: A Guide to Security Controls](https://dev.to/pelk/understanding-general-security-concepts-a-guide-to-security-controls-1ho7)
 - [Deploy your own production-grade file server on a VPS for free in just a few steps](https://dev.to/boiler_agents/deploy-your-own-production-grade-file-server-on-a-vps-for-free-in-just-a-few-steps-4f7a)
-- [🚀 Automating API Load Testing with JMeter, Azure DevOps &amp; SLA Validation](https://dev.to/spencer_radcliff_eae6cf90/automating-api-load-testing-with-jmeter-azure-devops-sla-validation-1lmc)
-- [AlphaZero&#39;s Blind Spot: Adapting to the Unpredictable Real World](https://dev.to/arvindsundararajan/alphazeros-blind-spot-adapting-to-the-unpredictable-real-world-5g95)
-- [Inside React Query: What’s Really Going On](https://dev.to/mohamad_msalme_38f2508ea2/inside-react-query-whats-really-going-on-31md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
