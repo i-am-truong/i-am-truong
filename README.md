@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/bridget_amana/-2bm6)
 - [🌍 3 Ways to Detect a User’s Country on Your Website](https://dev.to/geoapify-maps-api/3-ways-to-detect-a-users-country-on-your-website-iec)
 - [Dev Diaries Episode 5 – Startup Life Isn&#39;t Always Glamorous](https://dev.to/stellar/dev-diaries-episode-5-startup-life-isnt-always-glamorous-5gm)
 - [Is Open Banking Built To Last?](https://dev.to/flutterwaveeng/is-open-banking-built-to-last-487j)
-- [#DAY 1: DFIR Lab Setup](https://dev.to/samueladeduntan/day-1-dfir-lab-setup-1gac)
-- [TOTP Authenticator: A Lightweight PHP Library for Secure Two-Factor Authentication](https://dev.to/hosseinhezami/totp-authenticator-a-lightweight-php-library-for-secure-two-factor-authentication-428p)
+- [Getting Started with IaC on AWS: Choosing Between CloudFormation, SAM, and CDK](https://dev.to/a-k-0047/getting-started-with-iac-on-aws-choosing-between-cloudformation-sam-and-cdk-2mmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
