@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Crumb - Ghostride &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ghostride-live-on-kexp-30ol)
-- [Part 5: Tips for Optimizing GPU Utilization in Kubernetes](https://dev.to/shohams/part-5-tips-for-optimizing-gpu-utilization-in-kubernetes-2of5)
-- [IGN: Hell is Us Isn&#39;t a Soulslike, But It Plays Like a FromSoft Game in Other Ways - Beyond Clips](https://dev.to/gg_news/ign-hell-is-us-isnt-a-soulslike-but-it-plays-like-a-fromsoft-game-in-other-ways-beyond-clips-3fpl)
-- [IGN: PS6: The Return of the PSP? - Next-Gen Console Watch](https://dev.to/gg_news/ign-ps6-the-return-of-the-psp-next-gen-console-watch-3mg5)
-- [IGN: Silksong Is Out Now - NVC Clips](https://dev.to/gg_news/ign-silksong-is-out-now-nvc-clips-2k16)
+- [I Built an AI That Roasts Your Drawings](https://dev.to/adzhydra/your-doodles-judged-by-ai-free-multiplayer-browser-game-ahg)
+- [My journey of learning Rust - Static dispatch vs Dynamic dispatch...](https://dev.to/sommukhopadhyay/my-journey-of-learning-rust-static-dispatch-vs-dynamic-dispatch-1co6)
+- [Privacy‑First Job Applications with Midnight Network](https://dev.to/depapp/privacy-first-job-applications-with-midnight-network-ing)
+- [Observer pattern in Rust - driven by intrinsic motivation...](https://dev.to/sommukhopadhyay/observer-pattern-in-rust-driven-by-intrinsic-motivation-1k0l)
+- [Simple Cloud Security Tips for Startups](https://dev.to/heyjoshlee/simple-cloud-security-tips-for-startups-gnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
