@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [geolocation 이용한 위치정보](https://dev.to/ebizkorea/geolocation-iyonghan-wicijeongbo-17o5)
 - [MCP-Powered Agents: Wiring Gaia to ACI Tools](https://dev.to/gaiaai/mcp-powered-agents-wiring-gaia-to-aci-tools-314p)
+- [Smart Thermostats and Heating Systems: What Every Home Developer Should Know Before Installing](https://dev.to/dev_tech/smart-thermostats-and-heating-systems-what-every-home-developer-should-know-before-installing-36fg)
+- [Static WordPress Authentication with Amazon Cognito and AWS SAR Template](https://dev.to/tothl74/static-wordpress-authentication-with-amazon-cognito-and-aws-sar-template-2j5j)
 - [Elasticsearch: 15 years of indexing it all, finding what matters](https://dev.to/xeraa/elasticsearch-15-years-of-indexing-it-all-finding-what-matters-2epk)
-- [[AutoBE Hackathon] AI Chatbot generating Backend Applilcation with AI Compilers &lpar;$6,400 Prize Pool&rpar;](https://dev.to/samchon/autobe-hackathon-ai-chatbot-generating-backend-applilcation-with-ai-compilers-6400-prize-pool-3nob)
-- [NPR Music: PinkPantheress: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pinkpantheress-tiny-desk-concert-4iof)
-- [System Design Interviews were HARD, until I learned these Concepts](https://dev.to/somadevtoo/system-design-interviews-were-hard-until-i-learned-these-concepts-5c7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
