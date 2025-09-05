@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to populate your #Previews in SwiftUI](https://dev.to/stoiandan/how-to-populate-your-previews-in-swiftui-1bio)
+- [From Independent Microsites to Context-Driven Architecture](https://dev.to/alessandro-grosselle/from-independent-microsites-to-context-driven-architecture-5166)
+- [Instance Actors in Swift: Part 3 of Actor Series](https://dev.to/arshtechpro/instance-actors-in-swift-part-3-of-actor-series-4225)
+- [I built the ultimate Pokédex and would love you to try it!](https://dev.to/juandadev/i-built-the-ultimate-pokedex-and-would-love-you-to-try-it-472l)
 - [Starting My OpenMRS Journey: Why I&#39;m Diving Into Legacy Medical Software](https://dev.to/rooney_dev/starting-my-openmrs-journey-why-im-diving-into-legacy-medical-software-49b2)
-- [Automation in Practice: Partner Onboarding Case Study](https://dev.to/kumar111222rohit/automation-in-practice-partner-onboarding-case-study-obb)
-- [My OSD600 Journey](https://dev.to/oleksandrakordonets/my-osd600-journey-3bhf)
-- [My DevOps Journey: Part 1 — Learning Linux Through Real-World Tasks](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-1-learning-linux-through-real-world-tasks-4c41)
-- [This One Python Trick Will Make Your Code Look Like a Pro’s](https://dev.to/aaron_rose_0787cc8b4775a0/this-one-python-trick-will-make-your-code-look-like-a-pros-4j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
