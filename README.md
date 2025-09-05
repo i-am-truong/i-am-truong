@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 86: The Manual Coding Awakening](https://dev.to/casperday11/day-86-the-manual-coding-awakening-4fm4)
-- [Basic http proxy in rust with ntex](https://dev.to/0xle0ne/basic-http-proxy-in-rust-with-ntex-d6p)
-- [From 77% to 92%: How Orka-Reasoning Turns GPT-oss:20B Into a Math Reasoning Powerhouse](https://dev.to/marcosomma/from-77-to-92-how-orka-reasoning-turns-gpt-oss20b-into-a-math-reasoning-powerhouse-24ac)
-- [Automating deployment with GitHub Actions and Nanocl](https://dev.to/0xle0ne/automating-deployment-with-github-actions-and-nanocl-573p)
-- [Learning Linux Step by Step – Week 1 Progress](https://dev.to/yogaraj/learning-linux-step-by-step-week-1-progress-18o6)
+- [Golf.com: The Soul of Cypress Point | Inside Golf&#39;s Most Mystical Club](https://dev.to/youtube_golf/golfcom-the-soul-of-cypress-point-inside-golfs-most-mystical-club-4220)
+- [Noclip: The Making of Wolfenstein - Noclip Documentary](https://dev.to/gg_news/noclip-the-making-of-wolfenstein-noclip-documentary-ldh)
+- [GameSpot: Borderlands 4 | Official Launch Week Trailer](https://dev.to/gg_news/gamespot-borderlands-4-official-launch-week-trailer-3a3k)
+- [IGN: Final Fantasy Tactics: The Ivalice Chronicles - Official Enhanced Opening Movie](https://dev.to/gg_news/ign-final-fantasy-tactics-the-ivalice-chronicles-official-enhanced-opening-movie-2kbd)
+- [IGN: Jurassic World Evolution 3 - Official &#39;A Global Campaign&#39; Feature Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-a-global-campaign-feature-trailer-766)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
