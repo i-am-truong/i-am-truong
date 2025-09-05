@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [365 Days Full Stack Developer Coding Challenge](https://dev.to/code_2/365-days-full-stack-developer-coding-challenge-56a3)
+- [Jarvis](https://dev.to/sandeepk1729/jarvis-4o7)
+- [First week in course OSD600](https://dev.to/aubreyddd/first-week-in-course-osd600-40j2)
 - [Building an AI Dining Assistant in 30 Minutes: From Local Development to Cloud Deployment](https://dev.to/aws-builders/building-an-ai-dining-assistant-in-30-minutes-from-local-development-to-cloud-deployment-499l)
 - [Multimodal AI: Beyond Single-Mode Intelligence](https://dev.to/srijan-xi/multimodal-ai-beyond-single-mode-intelligence-27ob)
-- [Configuring domain networking for scalable container services.](https://dev.to/usmanzahidcode/configuring-domain-networking-for-scalable-container-services-23gj)
-- [Automated security testing prevents common vulnerabilities in cloud applications.](https://dev.to/usmanzahidcode/automated-security-testing-prevents-common-vulnerabilities-in-cloud-applications-4826)
-- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-3m16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
