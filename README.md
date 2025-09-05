@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chain Of Responsibility in Python...](https://dev.to/sommukhopadhyay/chain-of-responsibility-in-python-4588)
-- [What does it take to be a leader?](https://dev.to/daniloab/what-does-it-take-to-be-a-leader-45b0)
-- [PHP GC with Example](https://dev.to/ahmedraza_fyntune/php-gc-with-example-16c2)
-- [Game Dev Digest — Issue #297 - Rendering Breakdowns, Lighting, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-297-rendering-breakdowns-lighting-and-more-254p)
-- [MarkFlowy: Your New AI-Powered Markdown Editor](https://dev.to/githubopensource/markflowy-your-new-ai-powered-markdown-editor-3o6l)
+- [KEXP: Crumb - Ghostride &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ghostride-live-on-kexp-30ol)
+- [Part 5: Tips for Optimizing GPU Utilization in Kubernetes](https://dev.to/shohams/part-5-tips-for-optimizing-gpu-utilization-in-kubernetes-2of5)
+- [IGN: Hell is Us Isn&#39;t a Soulslike, But It Plays Like a FromSoft Game in Other Ways - Beyond Clips](https://dev.to/gg_news/ign-hell-is-us-isnt-a-soulslike-but-it-plays-like-a-fromsoft-game-in-other-ways-beyond-clips-3fpl)
+- [IGN: PS6: The Return of the PSP? - Next-Gen Console Watch](https://dev.to/gg_news/ign-ps6-the-return-of-the-psp-next-gen-console-watch-3mg5)
+- [IGN: Silksong Is Out Now - NVC Clips](https://dev.to/gg_news/ign-silksong-is-out-now-nvc-clips-2k16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
