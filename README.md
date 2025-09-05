@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mockando Endpoints com MSW em Testes com Jest e React Query](https://dev.to/vitorrios1001/mockando-endpoints-com-msw-em-testes-com-jest-e-react-query-10l0)
-- [Feasibility Studies and Risk Planning in Software Projects](https://dev.to/th33k/feasibility-studies-and-risk-planning-in-software-projects-5fan)
-- [2025年プログラマー必携！私が選ぶAIツール・10の神器で“ひとりチーム”爆誕](https://dev.to/waterlily_0f365e5fadded0f/2025nian-puroguramabi-xi-si-gaxuan-buaituru10noshen-qi-dehitoritimubao-dan-35c6)
-- [YAML - Kubernetes &#39;Favorite&#39; Configuration Language](https://dev.to/locnguyenpv/yaml-kubernetes-favorite-configuration-language-1l34)
-- [Next.js Rendering Strategies: CSR vs SSR vs SSG vs ISR &lpar;Complete Guide&rpar;](https://dev.to/rayan2228/nextjs-rendering-strategies-csr-vs-ssr-vs-ssg-vs-isr-complete-guide-26j4)
+- [Elasticsearch: 15 years of indexing it all, finding what matters](https://dev.to/xeraa/elasticsearch-15-years-of-indexing-it-all-finding-what-matters-2epk)
+- [[AutoBE Hackathon] AI Chatbot generating Backend Applilcation with AI Compilers &lpar;$6,400 Prize Pool&rpar;](https://dev.to/samchon/autobe-hackathon-ai-chatbot-generating-backend-applilcation-with-ai-compilers-6400-prize-pool-3nob)
+- [NPR Music: PinkPantheress: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pinkpantheress-tiny-desk-concert-4iof)
+- [System Design Interviews were HARD, until I learned these Concepts](https://dev.to/somadevtoo/system-design-interviews-were-hard-until-i-learned-these-concepts-5c7d)
+- [IGN: Exploring the AI features on the Samsung Galaxy S25 Ultra Camera](https://dev.to/gg_news/ign-exploring-the-ai-features-on-the-samsung-galaxy-s25-ultra-camera-3bhg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
