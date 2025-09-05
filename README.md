@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google AI Studio Challenge Submission Template](https://dev.to/pt67/google-ai-studio-challenge-submission-template-250e)
-- [Cloud Is No Longer a Specialty — It’s the Operating System of Modern Engineering](https://dev.to/onepoint/cloud-is-no-longer-a-specialty-its-the-operating-system-of-modern-engineering-1g5g)
-- [✨ Mastering Object Spread &amp; Rest in JavaScript](https://dev.to/usama_dev/mastering-object-spread-rest-in-javascript-3mb6)
-- [This Week In React #248: Compiler, Next.js, Activity, Forket | RN 1.0?, Nightly testing, Autolinking | WebMCP, Node](https://dev.to/sebastienlorber/this-week-in-react-248-compiler-nextjs-activity-forket-rn-10-nightly-testing-db8)
-- [How to Build a HTTP server from scratch in pure C](https://dev.to/hadi493/how-to-build-a-http-server-from-scratch-in-pure-c-p02)
+- [MarkFlowy: Your New AI-Powered Markdown Editor](https://dev.to/githubopensource/markflowy-your-new-ai-powered-markdown-editor-3o6l)
+- [Day 4 - 🔐 Securing API with Keycloak](https://dev.to/siddharth_bhamare_8585/day-4-securing-api-with-keycloak-53gd)
+- [From Broken to Bulletproof: Fixing a Django Docker Deployment with ECR, SSH, and Missing Migrations](https://dev.to/c_6b7a8e65d067ddc62/from-broken-to-bulletproof-fixing-a-django-docker-deployment-with-ecr-ssh-and-missing-migrations-124i)
+- [My Next Step in Cybersecurity: Internship at Young Cyber Knights Foundation](https://dev.to/seifeldienahmad/my-next-step-in-cybersecurity-internship-at-young-cyber-knights-foundation-3i1g)
+- [The Git Workflow That Will Make Your Code Reviews Actually Enjoyable 🔥](https://dev.to/c_6b7a8e65d067ddc62/the-git-workflow-that-will-make-your-code-reviews-actually-enjoyable-4gp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
