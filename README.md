@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [geolocation 이용한 위치정보](https://dev.to/ebizkorea/geolocation-iyonghan-wicijeongbo-17o5)
-- [MCP-Powered Agents: Wiring Gaia to ACI Tools](https://dev.to/gaiaai/mcp-powered-agents-wiring-gaia-to-aci-tools-314p)
-- [Smart Thermostats and Heating Systems: What Every Home Developer Should Know Before Installing](https://dev.to/dev_tech/smart-thermostats-and-heating-systems-what-every-home-developer-should-know-before-installing-36fg)
-- [Static WordPress Authentication with Amazon Cognito and AWS SAR Template](https://dev.to/tothl74/static-wordpress-authentication-with-amazon-cognito-and-aws-sar-template-2j5j)
-- [Elasticsearch: 15 years of indexing it all, finding what matters](https://dev.to/xeraa/elasticsearch-15-years-of-indexing-it-all-finding-what-matters-2epk)
+- [TOTP Authenticator: A Lightweight PHP Library for Secure Two-Factor Authentication](https://dev.to/hosseinhezami/totp-authenticator-a-lightweight-php-library-for-secure-two-factor-authentication-428p)
+- [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
+- [Project of the Week: Emotion-js](https://dev.to/pullflow/project-of-the-week-emotion-js-3lkh)
+- [Draw to find a location anywhere](https://dev.to/coderhema/draw-to-find-a-location-anywhere-22op)
+- [Svelte Events &amp; Bindings Tutorial: Master Parent-Child Communication](https://dev.to/a1guy/svelte-events-bindings-tutorial-master-parent-child-communication-4o5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
