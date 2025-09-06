@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SelectConnect: Privacy-first contact sharing with zero-knowledge proofs, economic bonds &amp; harassment protection.](https://dev.to/bytewizard42i/selectconnect-privacy-first-contact-sharing-with-zero-knowledge-proofs-economic-bonds--1c7h)
+- [Laravel Blade, But Smarter: Autocomplete and DTO Discipline with ViewModels and Strict Access](https://dev.to/raheelshan/laravel-blade-but-smarter-autocomplete-and-dto-discipline-with-viewmodels-and-strict-access-pj1)
+- [🚀 Master Dev API – Kleine Dev-Tools in einer API](https://dev.to/mimi800debug/master-dev-api-kleine-dev-tools-in-einer-api-5962)
+- [SelectConnect: Privacy-first contact sharing with zero-knowledge proofs &amp; staked bonds for harassment/spam protection.](https://dev.to/bytewizard42i/selectconnect-privacy-first-contact-sharing-with-zero-knowledge-proofs-economic-bonds--1c7h)
 - [How to Actually Hit $10K MRR in 2025 &lpar;No BS, Just What Works&rpar;](https://dev.to/shayy/how-to-actually-hit-10k-mrr-in-2025-no-bs-just-what-works-204k)
 - [Day 2 of #30DaysOfCode](https://dev.to/justacoder_0x/day-2-of-30daysofcode-3aba)
-- [Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA](https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm)
-- [Hack The Box — Mongod &lpar;MongoDB&rpar;](https://dev.to/er/hack-the-box-mongod-mongodb-3o12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
