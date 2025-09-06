@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [My AWS Summit Toronto experience and GenAI](https://dev.to/aws-builders/my-aws-summit-toronto-experience-and-genai-27o2)
+- [📅 Week 1: Diving into Spring Boot Fundamentals:](https://dev.to/tejasvi_urkande/week-1-diving-into-spring-boot-fundamentals-3o1f)
 - [From Full-Stack to AI + Web3: Why I’m Re-Entering Tech in 2025](https://dev.to/mudassirworks/from-full-stack-to-ai-web3-why-im-re-entering-tech-in-2025-935)
 - [Horizon World Tutorial - Maze Runner - Part 5 - NPC runners](https://dev.to/lnationorg/horizon-world-tutorial-maze-runner-part-5-npc-runners-4bj3)
 - [From Warehouses to Libraries: Understanding Data on AWS the Easy Way](https://dev.to/jatin_goel_dac08bb6728f1e/from-warehouses-to-libraries-understanding-data-on-aws-the-easy-way-4kmi)
-- [Benchmarking PostgreSQL Drivers in Node.js: node-postgres vs postgres.js](https://dev.to/nigrosimone/benchmarking-postgresql-drivers-in-nodejs-node-postgres-vs-postgresjs-17kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
