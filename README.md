@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 2 of #30DaysOfCode](https://dev.to/justacoder_0x/day-2-of-30daysofcode-3aba)
 - [Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA](https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm)
 - [Hack The Box — Mongod &lpar;MongoDB&rpar;](https://dev.to/er/hack-the-box-mongod-mongodb-3o12)
 - [Best Practices for Mastering Cloud Security on AWS](https://dev.to/muhammad_zeeshan_6499a22a/best-practices-for-mastering-cloud-security-on-aws-512h)
 - [Looking for feedback on my Portfolio!](https://dev.to/kamleshbaheti/looking-for-feedback-on-my-portfolio-2edm)
-- [The Friendly Guide: &quot;Why WSL is Eating My C: Drive &lpar;and How to Get it Back&rpar;&quot;](https://dev.to/rasulmmdv/the-friendly-guide-why-wsl-is-eating-my-c-drive-and-how-to-get-it-back-15p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
