@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet War for Your Mind: Critical Thinking in the Age of Algorithmic Influence](https://dev.to/zanzythebar/the-quiet-war-for-your-mind-critical-thinking-in-the-age-of-algorithmic-influence-3c7o)
+- [Building an AI-Powered Expense Tracker with Spring Boot, Spring AI, and Google Gemini](https://dev.to/swapniltake1/building-an-ai-powered-expense-tracker-with-spring-boot-spring-ai-and-google-gemini-5f48)
 - [🚀 AWS August 2025 Recap: AI Guardrails, VMware on AWS, Marketplace in India &amp; Prime Day Scale](https://dev.to/nishath_jp/aws-august-2025-recap-ai-guardrails-vmware-on-aws-marketplace-in-india-prime-day-scale-43a4)
 - [🚀 Mini Monitoring App in Go with Prometheus, Grafana &amp; CI/CD](https://dev.to/negin/mini-monitoring-app-in-go-with-prometheus-grafana-cicd-f50)
 - [Dependency Injection in Angular: A Complete Guide with Use Cases](https://dev.to/rohit_singh_ee84e64941db7/dependency-injection-in-angular-a-complete-guide-with-use-cases-3ec8)
-- [Irish-Name-Repo 1 - picoCTF &#39;19 &lpar;web&rpar;](https://dev.to/davidonlinearchive/irish-name-repo-2-picoctf-19-web-5de0)
-- [5 Lesser Known Ways to Use JSON Web Tokens](https://dev.to/shrsv/5-lesser-known-ways-to-use-json-web-tokens-45nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
