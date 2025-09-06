@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-40: Google Serverless Cloud Run Services and Jobs](https://dev.to/latchudevops/part-40-google-serverless-cloud-run-services-and-jobs-42gh)
+- [ReUniteME – Using MERN to Help Families Reconnect with Missing Persons](https://dev.to/jeelion22/reuniteme-using-mern-to-help-families-reconnect-with-missing-persons-57pe)
 - [Handling JSON &amp; YAML in Python](https://dev.to/godofgeeks/handling-json-yaml-in-python-4714)
 - [Mastering JavaScript Type Conversion](https://dev.to/adrahi/mastering-javascript-type-conversion-14m0)
 - [Docker Hardened Images for Python: How I Eliminated 152 Vulnerabilities in One Simple Switch](https://dev.to/ajeetraina/docker-hardened-images-for-python-how-i-eliminated-152-vulnerabilities-in-one-simple-switch-2p1b)
-- [Trying to Build a Simple Live Activity Timer… and Hitting OS Limits](https://dev.to/devonwheels/trying-to-build-a-simple-live-activity-timer-and-hitting-os-limits-5f61)
-- [Hello Everyone, I&#39;m Starting to learn HTML](https://dev.to/karan_wani/hello-everyone-im-starting-to-learn-html-3d0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
