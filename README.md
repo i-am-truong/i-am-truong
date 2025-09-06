@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Web Rendering: SSR, CSR, SSG, and SPA](https://dev.to/mohamedsamirdev/understanding-web-rendering-ssr-csr-ssg-and-spa-26n7)
+- [Good practices for Just: no &#39;../&#39; in pathes.](https://dev.to/amarao/good-practices-for-just-no-in-pathes-3b2c)
+- [The Syntax Scroll by Maria: A Developer&#39;s Weekly Digest](https://dev.to/mendoncamaria/the-syntax-scroll-by-maria-a-developers-weekly-digest-1f8l)
 - [Notes on Using wabt](https://dev.to/yangholmes/notes-on-using-wabt-1ag0)
 - [Building PersonaPrep: An AI Personality Coach with Kiro](https://dev.to/vanichitkara/building-personaprep-an-ai-personality-coach-with-kiro-2f62)
-- [Anthropic Just Paid $1.5B for Using Pirated Books to Train Claude - Here&#39;s What This Means for Developers](https://dev.to/shiva_shanker_k/anthropic-just-paid-15b-for-using-pirated-books-to-train-claude-heres-what-this-means-for-2g8e)
-- [How to Setup n8n on locally](https://dev.to/waseem_sabbah/how-to-setup-n8n-on-locally-3m82)
-- [Bash Aliases in examples for Ubuntu: A Complete Guide](https://dev.to/mcheremnov/mastering-bash-aliases-in-ubuntu-a-complete-guide-198p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
