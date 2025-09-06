@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Analog to Digital: Signal Simulation](https://dev.to/sajibpra/from-analog-to-digital-signal-simulation-31h1)
 - [Running Your Expo App on a Real Device for Testing](https://dev.to/andrewchaa/running-your-expo-app-on-a-real-device-for-testing-3ci)
-- [My Hackintosh Journey: macOS on a ThinkPad T480s](https://dev.to/jmschl96/my-hackintosh-journey-macos-on-a-thinkpad-t480s-249k)
 - [Must read](https://dev.to/drmikecrowe/must-read-1m1o)
 - [👋 Hello, new community member here](https://dev.to/alexey0511/hello-new-community-member-here-nl0)
 - [The Hard Truth About DevOps Learning: Practical Experience Over Presentations](https://dev.to/srinivasamcjf/the-hard-truth-about-devops-learning-practical-experience-over-presentations-103g)
