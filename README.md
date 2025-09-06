@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ DevOps Roadmap for Beginners: What to Learn, Tools to Master &amp; How to Install, Configure &amp; Use. 🛠️](https://dev.to/adeolaogunkola/devops-roadmap-for-beginners-what-to-learn-tools-to-master-how-to-install-configure-use-pja)
-- [🚀 How I Built an Email Verifier API in Java &lpar;And Deployed It for Free&rpar;](https://dev.to/temirlan_basitov_138f94c8/how-i-built-an-email-verifier-api-in-java-and-deployed-it-for-free-jn9)
-- [The Index Problem: When You Need to Know Where You Are in Your Stream](https://dev.to/arashariani/the-index-problem-when-you-need-to-know-where-you-are-in-your-stream-4a3a)
-- [IGN: Marvel Mystic Mayhem - Official Version 1.2: Siege in the Deep Trailer](https://dev.to/gg_news/ign-marvel-mystic-mayhem-official-version-12-siege-in-the-deep-trailer-mp3)
-- [Paralelismo em Python para Engenharia de Dados: O Segredo das Tarefas I/O-Bound](https://dev.to/_richardson_/paralelismo-em-python-para-engenharia-de-dados-o-segredo-das-tarefas-io-bound-4edi)
+- [How to Create a Linux Virtual Machine in Azure Portal](https://dev.to/jic/how-to-create-a-linux-virtual-machine-in-azure-portal-2482)
+- [Introducing node-hooker: WordPress Hooks for Your Node.js App](https://dev.to/mamedul_islam/introducing-node-hooker-wordpress-hooks-for-your-nodejs-app-2bn7)
+- [Why You Can’t Master Kubernetes Without Understanding Applications, Systems, and Microservices](https://dev.to/srinivasamcjf/why-you-cant-master-kubernetes-without-understanding-applications-systems-and-microservices-1h21)
+- [CSS Container Queries: The Day CSS Finally Went to Therapy](https://dev.to/pixelperfect_pro/css-container-queries-the-day-css-finally-went-to-therapy-3pp1)
+- [Cross-Platform Music Downloader](https://dev.to/cybernilsen/cross-platform-music-downloader-5299)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
