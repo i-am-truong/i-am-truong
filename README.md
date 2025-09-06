@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Learning Coding from High Skilled Professional Programmers](https://dev.to/rudolfolah/learning-coding-from-high-skilled-professional-programmers-28cj)
 - [Using React Native Components in a Next.js Web App &lpar;via @expo/next-adapter&rpar;](https://dev.to/isaacaddis/using-react-native-components-in-a-nextjs-web-app-via-exponext-adapter-3497)
+- [Fashion Time Traveler](https://dev.to/pranathi_013/fashion-time-traveler-1gfc)
 - [My Rust Learning Journey: Challenges, Projects, and Growth](https://dev.to/minipliy/my-rust-learning-journey-challenges-projects-and-growth-3akh)
 - [Spring Boot Events Tutorial](https://dev.to/sadiul_hakim/spring-boot-events-tutorial-2obh)
-- [OpenAI partners with Broadcom to develop custom AI chip, aiming for in-house launch next year](https://dev.to/ytosko/openai-partners-with-broadcom-to-develop-custom-ai-chip-aiming-for-in-house-launch-next-year-4o3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
