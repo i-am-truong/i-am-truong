@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!](https://dev.to/lovestaco/ever-wonder-how-your-email-actually-gets-sent-meet-the-smtp-server-515p)
 - [Building PDF Editor](https://dev.to/thesukhsingh/building-pdf-editor-24ed)
 - [Complete Seaborn Tutorial &lpar;Day 01 &amp; Day 02&rpar; — Master Data Visualization with Python, Data Analytics, AI &amp; Machine Learning](https://dev.to/niveshbansal07/complete-seaborn-tutorial-day-01-day-02-master-data-visualization-with-python-data-4kn2)
 - [How to decrypt broken GCM ciphertext](https://dev.to/moritzhoeppner/how-to-decrypt-broken-gcm-ciphertext-58a1)
 - [The Quiet War for Your Mind: Critical Thinking in the Age of Algorithmic Influence](https://dev.to/zanzythebar/the-quiet-war-for-your-mind-critical-thinking-in-the-age-of-algorithmic-influence-3c7o)
-- [Clustering](https://dev.to/carlosrambles/clustering-4k22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
