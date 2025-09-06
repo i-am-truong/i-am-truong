@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Coding from High Skilled Professional Programmers](https://dev.to/rudolfolah/learning-coding-from-high-skilled-professional-programmers-28cj)
+- [Using React Native Components in a Next.js Web App &lpar;via @expo/next-adapter&rpar;](https://dev.to/isaacaddis/using-react-native-components-in-a-nextjs-web-app-via-exponext-adapter-3497)
 - [My Rust Learning Journey: Challenges, Projects, and Growth](https://dev.to/minipliy/my-rust-learning-journey-challenges-projects-and-growth-3akh)
 - [Spring Boot Events Tutorial](https://dev.to/sadiul_hakim/spring-boot-events-tutorial-2obh)
 - [OpenAI partners with Broadcom to develop custom AI chip, aiming for in-house launch next year](https://dev.to/ytosko/openai-partners-with-broadcom-to-develop-custom-ai-chip-aiming-for-in-house-launch-next-year-4o3k)
-- [How to Create &amp; Self-Publish a Children&#39;s Book on Amazon KDP Using AI &lpar;Step-by-Step Guide&rpar;](https://dev.to/nitinfab/how-to-create-self-publish-a-childrens-book-on-amazon-kdp-using-ai-step-by-step-guide-ghk)
-- [barK: A Lightweight Logging Library for Android](https://dev.to/ivangarzab/bark-a-lightweight-logging-library-for-android-49i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
