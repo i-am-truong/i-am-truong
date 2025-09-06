@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Real DevOps Learning: Beyond Tools – Full Project, Architecture, and Workflow Insights](https://dev.to/srinivasamcjf/real-devops-learning-beyond-tools-full-project-architecture-and-workflow-insights-11ic)
+- [Oracle 19c — Audit Only Top-Level SQL Statements](https://dev.to/vahidusefzadeh/oracle-19c-audit-only-top-level-sql-statements-hlo)
+- [Any tips for making Google AI studio keep existing functionality?](https://dev.to/_bigblind/any-tips-for-making-google-ai-studio-keep-existing-functionality-4emk)
+- [Almost 2 Months of Gentoo, The Journey So Far!](https://dev.to/darthmoomancer/almost-2-months-of-gentoo-the-journey-so-far-1m46)
 - [How to Create a Linux Virtual Machine in Azure Portal](https://dev.to/jic/how-to-create-a-linux-virtual-machine-in-azure-portal-2482)
-- [Introducing node-hooker: WordPress Hooks for Your Node.js App](https://dev.to/mamedul_islam/introducing-node-hooker-wordpress-hooks-for-your-nodejs-app-2bn7)
-- [Why You Can’t Master Kubernetes Without Understanding Applications, Systems, and Microservices](https://dev.to/srinivasamcjf/why-you-cant-master-kubernetes-without-understanding-applications-systems-and-microservices-1h21)
-- [CSS Container Queries: The Day CSS Finally Went to Therapy](https://dev.to/pixelperfect_pro/css-container-queries-the-day-css-finally-went-to-therapy-3pp1)
-- [Cross-Platform Music Downloader](https://dev.to/cybernilsen/cross-platform-music-downloader-5299)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
