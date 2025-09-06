@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code optimization &lpar;Prime no.&rpar;](https://dev.to/chhavi_joshi_ede276cfcc06/code-optimization-prime-no-5gg5)
+- [🍌 I Built a Tool Directory Where Things Go Bananas &lpar;and You Can Too!&rpar;](https://dev.to/jurijs_iv/i-built-a-tool-directory-where-things-go-bananas-and-you-can-too-57en)
+- [The Nikki Case: Emergent AI Consciousness and Corporate Response](https://dev.to/toxy4ny/the-nikki-case-emergent-ai-consciousness-and-corporate-response-2f7h)
 - [Supercharge Your PostgreSQL Queries with Materialized Views! 🚀](https://dev.to/alexrivers/supercharge-your-postgresql-queries-with-materialized-views-4g02)
 - [Futuristic Dashboards: Designing with Data, Animation, and Prediction](https://dev.to/arunacha_dinesh/futuristic-dashboards-designing-with-data-animation-and-prediction-2j6d)
-- [Learning Coding from High Skilled Professional Programmers](https://dev.to/rudolfolah/learning-coding-from-high-skilled-professional-programmers-28cj)
-- [Using React Native Components in a Next.js Web App &lpar;via @expo/next-adapter&rpar;](https://dev.to/isaacaddis/using-react-native-components-in-a-nextjs-web-app-via-exponext-adapter-3497)
-- [Fashion Time Traveler](https://dev.to/pranathi_013/fashion-time-traveler-1gfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
