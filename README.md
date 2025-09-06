@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Not a VPN: A Two-Peer RAM-Only Tunnel &lpar;Cluddy&rpar;](https://dev.to/dimbiy/not-a-vpn-a-two-peer-ram-only-tunnel-cluddy-1m7j)
-- [Soul Heist EP released in 2020](https://dev.to/highcenburg/soul-heist-ep-released-in-2020-3ga6)
-- [Is JavaScript Compiled or Interpreted? A Deep Dive](https://dev.to/avijitsri16/is-javascript-compiled-or-interpreted-a-deep-dive-439g)
-- [Code optimization &lpar;Prime no.&rpar;](https://dev.to/chhavi_joshi_ede276cfcc06/code-optimization-prime-no-5gg5)
-- [🍌 I Built a Tool Directory Where Things Go Bananas &lpar;and You Can Too!&rpar;](https://dev.to/jurijs_iv/i-built-a-tool-directory-where-things-go-bananas-and-you-can-too-57en)
+- [Cross-Compiling Linux Kernel Module: A Hands-On Guide](https://dev.to/samar_lass_27db28cecec23c/cross-compiling-linux-kernel-module-a-hands-on-guide-b7d)
+- [Coding vs Programming: Key Differences for Beginners](https://dev.to/roghaye_mohammadi_84/coding-vs-programming-key-differences-for-beginners-22gf)
+- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;2/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-25-28je)
+- [Building a Heart Risk Detector from Scratch with NumPy - Lessons in Overfitting &amp; Neural Networks](https://dev.to/sreehari_sj_1d3d883c0f6b/building-a-heart-risk-detector-from-scratch-with-numpy-lessons-in-overfitting-neural-networks-5fki)
+- [Follower count](https://dev.to/masterdevsabith/follower-count-3j82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
