@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meta Horizon Worlds Hackathon](https://dev.to/chrislally/meta-horizon-worlds-hackathon-1952)
-- [PasteSense – Take Control of Your Clipboard on Windows](https://dev.to/ngtduc693/pastesense-take-control-of-your-clipboard-on-windows-25e7)
-- [Finite State Machines - the Universal Unit of Work](https://dev.to/trent_best_ca8617e4911baf/finite-state-machines-the-universal-unit-of-work-313p)
-- [Pare agora mesmo de utilizar alinhamento justificado!](https://dev.to/niagalves_/pare-agora-mesmo-de-utilizar-alinhamento-justificado-5cp1)
-- [Scaffold React &amp; Angular Apps in Minutes — Meet polyfront scaffold 🚀](https://dev.to/nirmalsamaranayaka/scaffold-react-angular-apps-in-minutes-meet-polyfront-scaffold-160i)
+- [Dashboards are the control centre of any business. They tell you what’s working, what’s broken, and where to focus. The problem? Building them in Excel can be time-consuming — formulas, pivot tables, formatting… it adds up. That’s where AI steps in.](https://dev.to/jaideepparashar/dashboards-are-the-control-centre-of-any-business-they-tell-you-whats-working-whats-broken-and-38go)
+- [🎉 **Major milestone: Just pushed my first project to GitHub!**](https://dev.to/carloshernandez1021/major-milestone-just-pushed-my-first-project-to-github-2a5i)
+- [How to Create AI-Powered Dashboards with ChatGPT + Excel](https://dev.to/jaideepparashar/how-to-create-ai-powered-dashboards-with-chatgpt-excel-3mb0)
+- [Built a CLI tool to help manage code review feedback - thoughts?](https://dev.to/kroro1208/built-a-cli-tool-to-help-manage-code-review-feedback-thoughts-3i5o)
+- [Excited to share that HotDog Training was selected as one of the top Bolt hackathon winners for the RevenuCat challenge! Ana and I are just getting started 🐶](https://dev.to/chrislally/excited-to-share-that-hotdog-training-was-selected-as-one-of-the-top-bolt-hackathon-winners-for-the-59o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
