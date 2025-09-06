@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Misha - console SSH client](https://dev.to/deniskorbakov/misha-console-ssh-client-2i7k)
+- [Day 2 - The Scanner is readyyy!](https://dev.to/lahari_tenneti_4a8a082e9c/day-2-the-scanner-is-readyyy-3i8f)
 - [Model definition best practices &lpar;by example of Django&rpar;](https://dev.to/maxcore/model-definition-best-practices-2j4h)
 - [Прави повече презентации по програмиране!](https://dev.to/dvt32/pravi-poviechie-priezientatsii-po-proghramiranie-3og8)
 - [Изгради си професионален личен brand!](https://dev.to/dvt32/izghradi-si-profiesionalien-lichien-brand-1n7k)
-- [Building My Personal Portfolio](https://dev.to/bongwom/building-my-personal-portfolio-5c02)
-- [Документирай прогреса си в програмирането &lpar;и качвай кода си в GitHub&rpar;!](https://dev.to/dvt32/dokumientirai-proghriesa-si-v-proghramiranieto-i-kachvai-koda-si-v-github-38ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
