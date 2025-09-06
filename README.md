@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When My Parents Learned to Order Takeout: A Tech Worker’s Mission to Bridge the Digital Divide](https://dev.to/yuzhuo_belinda_wu_5809ec4/when-my-parents-learned-to-order-takeout-a-tech-workers-mission-to-bridge-the-digital-divide-1kp5)
+- [Guess My Drawing: Can Gemini Read Your Mind in One Line?](https://dev.to/olgabraginskaya/guess-my-drawing-can-gemini-read-your-mind-in-one-line-1e36)
 - [SQLite Dot command: Once](https://dev.to/mr_destructive/sqlite-dot-command-once-cfo)
 - [Wear OS Accessibility Considerations](https://dev.to/eevajonnapanula/wear-os-accessibility-considerations-32i1)
 - [Day 87: When Productivity Meets Sleep Deprivation](https://dev.to/casperday11/day-87-when-productivity-meets-sleep-deprivation-24e4)
-- [10 Lessons From 10 Years of iOS Development &lpar;That I Wish I Knew Earlier&rpar;](https://dev.to/bismasaeed/10-lessons-from-10-years-of-ios-development-that-i-wish-i-knew-earlier-2302)
-- [Part-42: 🚀 Getting Started with Google Cloud Run Jobs](https://dev.to/latchudevops/part-42-getting-started-with-google-cloud-run-jobs-31kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
