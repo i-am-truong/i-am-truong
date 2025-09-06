@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-39: 🔐 GCE VM Authentication in Google Cloud Platform](https://dev.to/latchudevops/part-39-gce-vm-authentication-in-google-cloud-platform-3nhk)
-- [My Command Reference](https://dev.to/ktauchathuranga/my-command-reference-56ne)
-- [🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy &lpar;CBT&rpar;: A Practical Guide](https://dev.to/nvelup_e92618d5196e8d9f43/breaking-negative-thinking-patterns-with-cognitive-behavioral-therapy-cbt-a-practical-guide-39e0)
-- [Mastering Null and Undefined in JavaScript](https://dev.to/adrahi/mastering-null-and-undefined-in-javascript-10bb)
-- [Not Every Tech Business is a Startup: Understanding the Real Differences](https://dev.to/shipitsoon/not-every-tech-business-is-a-startup-understanding-the-real-differences-29)
+- [Install pgAdmin on Ubuntu And connect RDS with pgAdmin](https://dev.to/tech_2e11d899e5893ff/install-pgadmin-on-ubuntu-and-connect-rds-with-pgadmin-enj)
+- [Expo + Maestro CI Pipeline Overviews &lpar;EAS Custom Builds, Maestro Cloud&rpar;](https://dev.to/isaacaddis/expo-maestro-ci-pipeline-overviews-eas-custom-builds-maestro-cloud-142n)
+- [Self-Hosted Analytics with Rybbit: A Game-Changer for Privacy-Conscious Developers](https://dev.to/jaskarandeogan/self-hosted-analytics-with-rybbit-a-game-changer-for-privacy-conscious-developers-34ff)
+- [Mastering JavaScript Numbers](https://dev.to/adrahi/mastering-javascript-numbers-589f)
+- [🚀 Why You Should Keep Multiple Backups of Your Code &lpar;Don’t Rely Only on GitHub&rpar;](https://dev.to/zainulabdeenofficial/why-you-should-keep-multiple-backups-of-your-code-dont-rely-only-on-github-2j90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
