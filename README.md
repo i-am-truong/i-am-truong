@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Прави повече презентации по програмиране!](https://dev.to/dvt32/pravi-poviechie-priezientatsii-po-proghramiranie-3og8)
+- [Изгради си професионален личен brand!](https://dev.to/dvt32/izghradi-si-profiesionalien-lichien-brand-1n7k)
+- [Building My Personal Portfolio](https://dev.to/bongwom/building-my-personal-portfolio-5c02)
+- [Документирай прогреса си в програмирането &lpar;и качвай кода си в GitHub&rpar;!](https://dev.to/dvt32/dokumientirai-proghriesa-si-v-proghramiranieto-i-kachvai-koda-si-v-github-38ii)
 - [When My Parents Learned to Order Takeout: A Tech Worker’s Mission to Bridge the Digital Divide](https://dev.to/yuzhuo_belinda_wu_5809ec4/when-my-parents-learned-to-order-takeout-a-tech-workers-mission-to-bridge-the-digital-divide-1kp5)
-- [Guess My Drawing: Can Gemini Read Your Mind in One Line?](https://dev.to/olgabraginskaya/guess-my-drawing-can-gemini-read-your-mind-in-one-line-1e36)
-- [SQLite Dot command: Once](https://dev.to/mr_destructive/sqlite-dot-command-once-cfo)
-- [Wear OS Accessibility Considerations](https://dev.to/eevajonnapanula/wear-os-accessibility-considerations-32i1)
-- [Day 87: When Productivity Meets Sleep Deprivation](https://dev.to/casperday11/day-87-when-productivity-meets-sleep-deprivation-24e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
