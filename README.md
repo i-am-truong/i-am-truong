@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Web Rendering: SSR, CSR, SSG, and SPA](https://dev.to/mohamedsamirdev/understanding-web-rendering-ssr-csr-ssg-and-spa-26n7)
-- [Good practices for Just: no &#39;../&#39; in pathes.](https://dev.to/amarao/good-practices-for-just-no-in-pathes-3b2c)
-- [The Syntax Scroll by Maria: A Developer&#39;s Weekly Digest](https://dev.to/mendoncamaria/the-syntax-scroll-by-maria-a-developers-weekly-digest-1f8l)
-- [Notes on Using wabt](https://dev.to/yangholmes/notes-on-using-wabt-1ag0)
-- [Building PersonaPrep: An AI Personality Coach with Kiro](https://dev.to/vanichitkara/building-personaprep-an-ai-personality-coach-with-kiro-2f62)
+- [Part-41: 🚀Google Cloud Run Services - Create Service, Traffic Management, Autoscaling, Revisions and Versions](https://dev.to/latchudevops/part-41-google-cloud-run-services-create-service-traffic-management-autoscaling-revisions-3c0i)
+- [🚀 Hey, I’m Faisal – And My First Blog is Live!](https://dev.to/blaze_faisal/hey-im-faisal-and-my-first-blog-is-live-19cb)
+- [Self-hosting WordPress](https://dev.to/kubelet/self-hosting-wordpress-26md)
+- [Building PersonaPrep: An AI Personality Coach with Kiro](https://dev.to/kirodotdev/building-personaprep-an-ai-personality-coach-with-kiro-8mn)
+- [Cyber Shield: Unlocking the Future of Web Security with Best Practices](https://dev.to/vjnvisakh/cyber-shield-unlocking-the-future-of-web-security-with-best-practices-25f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
