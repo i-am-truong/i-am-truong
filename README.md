@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nahre Sol: Fly Me to the Moon in the Styles of 6 Classical Composers](https://dev.to/music_youtube/nahre-sol-fly-me-to-the-moon-in-the-styles-of-6-classical-composers-ib4)
-- [Hibernate Performance: Boost High-Volume Queries with Read-Only Sessions](https://dev.to/vishad_patel_f54e007e16e5/hibernate-performance-boost-high-volume-queries-with-read-only-sessions-2jpn)
-- [🗓 Daily LeetCode Progress – Day 19](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-19-3074)
-- [Building a Multi-Language Code Integration Component with React &amp; TypeScript 🚀](https://dev.to/alaaio/building-a-multi-language-code-integration-component-with-react-typescript-5ehp)
-- [Lazy Loading: Do you really know what it is?](https://dev.to/sunil12738/lazy-loading-do-you-really-know-what-it-is-3l7g)
+- [JavaScript Array Methods: A Guide with Examples](https://dev.to/mohammedtaysser/javascript-array-methods-a-guide-with-examples-3a16)
+- [Goal - To build the best brand generator.](https://dev.to/chromaticautomatic/goal-to-build-the-best-brand-generator-3phi)
+- [Inside the $1 Trillion Tech Summit: What Trump&#39;s White House Dinner Means for Developers](https://dev.to/shiva_shanker_k/inside-the-1-trillion-tech-summit-what-trumps-white-house-dinner-means-for-developers-1ef3)
+- [Password Cracking Project #1 – From Privilege Escalation to Hashcat](https://dev.to/seifeldienahmad/password-cracking-project-1-from-privilege-escalation-to-hashcat-1k90)
+- [Microfrontends: Guide to Modern Frontend Architecture](https://dev.to/mcheremnov/microfrontends-guide-to-modern-frontend-architecture-4bc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
