@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [One-Day Builds: From Stagnation to Skill Mastery](https://dev.to/th3n0m4d/one-day-builds-from-stagnation-to-skill-mastery-igc)
 - [Passed the Hackviser CAPT Certification – My Module-by-Module Experience 🎯](https://dev.to/prateek_pulastya_9975efac/passed-the-hackviser-capt-certification-my-module-by-module-experience-1877)
 - [CrashLoopBackOff: Warrom Je Pods Blijven Crashen?](https://dev.to/shubhcloud/crashloopbackoff-warrom-je-pods-blijven-crashen-3imn)
 - [Chakra UI v3 v2 Downgrade: Errors I Got Stuck On and How I Fixed Them](https://dev.to/kazutora_hattori_66972c88/chakra-ui-v3-v2-downgrade-errors-i-got-stuck-on-and-how-i-fixed-them-l0)
 - [WHY I STARTED LEETCODE!!](https://dev.to/yashir934/why-i-started-leetcode-gkm)
-- [Mastering the CAP Theorem: A Simple Guide for System Design Interviews](https://dev.to/er_arpit_garg/mastering-the-cap-theorem-a-simple-guide-for-system-design-interviews-1ebd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
