@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-1-eh)
 - [JavaScript Array Methods: A Guide with Examples](https://dev.to/mohammedtaysser/javascript-array-methods-a-guide-with-examples-3a16)
 - [Goal - To build the best brand generator.](https://dev.to/chromaticautomatic/goal-to-build-the-best-brand-generator-3phi)
 - [Inside the $1 Trillion Tech Summit: What Trump&#39;s White House Dinner Means for Developers](https://dev.to/shiva_shanker_k/inside-the-1-trillion-tech-summit-what-trumps-white-house-dinner-means-for-developers-1ef3)
 - [Password Cracking Project #1 – From Privilege Escalation to Hashcat](https://dev.to/seifeldienahmad/password-cracking-project-1-from-privilege-escalation-to-hashcat-1k90)
-- [Microfrontends: Guide to Modern Frontend Architecture](https://dev.to/mcheremnov/microfrontends-guide-to-modern-frontend-architecture-4bc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
