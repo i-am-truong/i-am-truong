@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Hardened Images for Python: How I Eliminated 152 Vulnerabilities in One Simple Switch](https://dev.to/ajeetraina/docker-hardened-images-for-python-how-i-eliminated-152-vulnerabilities-in-one-simple-switch-2p1b)
+- [100 Days of DevOps, Day 1: Understanding Linux User Management and Shells](https://dev.to/olymahmud/100-days-of-devops-day-1-understanding-linux-user-management-and-shells-4f8n)
 - [Install pgAdmin on Ubuntu And connect RDS with pgAdmin](https://dev.to/tech_2e11d899e5893ff/install-pgadmin-on-ubuntu-and-connect-rds-with-pgadmin-enj)
 - [Expo + Maestro CI Pipeline Overviews &lpar;EAS Custom Builds, Maestro Cloud&rpar;](https://dev.to/isaacaddis/expo-maestro-ci-pipeline-overviews-eas-custom-builds-maestro-cloud-142n)
 - [Self-Hosted Analytics with Rybbit: A Game-Changer for Privacy-Conscious Developers](https://dev.to/jaskarandeogan/self-hosted-analytics-with-rybbit-a-game-changer-for-privacy-conscious-developers-34ff)
-- [Mastering JavaScript Numbers](https://dev.to/adrahi/mastering-javascript-numbers-589f)
-- [🚀 Why You Should Keep Multiple Backups of Your Code &lpar;Don’t Rely Only on GitHub&rpar;](https://dev.to/zainulabdeenofficial/why-you-should-keep-multiple-backups-of-your-code-dont-rely-only-on-github-2j90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
