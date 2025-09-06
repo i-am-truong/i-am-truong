@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Misha - console SSH client](https://dev.to/deniskorbakov/misha-console-ssh-client-2i7k)
-- [Day 2 - The Scanner is readyyy!](https://dev.to/lahari_tenneti_4a8a082e9c/day-2-the-scanner-is-readyyy-3i8f)
-- [Model definition best practices &lpar;by example of Django&rpar;](https://dev.to/maxcore/model-definition-best-practices-2j4h)
-- [Прави повече презентации по програмиране!](https://dev.to/dvt32/pravi-poviechie-priezientatsii-po-proghramiranie-3og8)
-- [Изгради си професионален личен brand!](https://dev.to/dvt32/izghradi-si-profiesionalien-lichien-brand-1n7k)
+- [Nahre Sol: Fly Me to the Moon in the Styles of 6 Classical Composers](https://dev.to/music_youtube/nahre-sol-fly-me-to-the-moon-in-the-styles-of-6-classical-composers-ib4)
+- [Hibernate Performance: Boost High-Volume Queries with Read-Only Sessions](https://dev.to/vishad_patel_f54e007e16e5/hibernate-performance-boost-high-volume-queries-with-read-only-sessions-2jpn)
+- [🗓 Daily LeetCode Progress – Day 19](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-19-3074)
+- [Building a Multi-Language Code Integration Component with React &amp; TypeScript 🚀](https://dev.to/alaaio/building-a-multi-language-code-integration-component-with-react-typescript-5ehp)
+- [Lazy Loading: Do you really know what it is?](https://dev.to/sunil12738/lazy-loading-do-you-really-know-what-it-is-3l7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
