@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [What is Programming ?](https://dev.to/xetri/what-is-programming--218o)
 - [Top 5 Web Tools for URL Decode](https://dev.to/devtoolreview/top-5-web-tools-for-url-decode-2c62)
 - [Exporting Google docs to Markdown and HTML](https://dev.to/faisal_software/exporting-google-docs-to-markdown-and-html-4eno)
-- [From Analog to Digital: Signal Simulation](https://dev.to/sajibpra/from-analog-to-digital-signal-simulation-31h1)
+- [Three Architectural Patterns for Cost Control](https://dev.to/amityadav19/three-architectural-patterns-for-cost-control-12c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
