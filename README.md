@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FlashAttention by hand](https://dev.to/lewis_won/flashattention-by-hand-34im)
+- [FLEX — The Visual Flexbox Cheat Sheet](https://dev.to/ml318097/flex-the-visual-flexbox-cheat-sheet-1jlc)
 - [My AWS Summit Toronto experience and GenAI](https://dev.to/aws-builders/my-aws-summit-toronto-experience-and-genai-27o2)
 - [📅 Week 1: Diving into Spring Boot Fundamentals:](https://dev.to/tejasvi_urkande/week-1-diving-into-spring-boot-fundamentals-3o1f)
-- [From Full-Stack to AI + Web3: Why I’m Re-Entering Tech in 2025](https://dev.to/mudassirworks/from-full-stack-to-ai-web3-why-im-re-entering-tech-in-2025-935)
-- [Horizon World Tutorial - Maze Runner - Part 5 - NPC runners](https://dev.to/lnationorg/horizon-world-tutorial-maze-runner-part-5-npc-runners-4bj3)
-- [From Warehouses to Libraries: Understanding Data on AWS the Easy Way](https://dev.to/jatin_goel_dac08bb6728f1e/from-warehouses-to-libraries-understanding-data-on-aws-the-easy-way-4kmi)
+- [How I Stay Consistent in Coding &lpar;Even When I Feel Stuck&rpar;](https://dev.to/eric_ayanru_0afc87b5ad485/how-i-stay-consistent-in-coding-even-when-i-feel-stuck-2dfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
