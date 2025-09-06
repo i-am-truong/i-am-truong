@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating and Configuring Virtual Networks in Azure: A Step-by-Step Guide](https://dev.to/sudaisib/creating-and-configuring-virtual-networks-in-azure-a-step-by-step-guide-2ico)
 - [Real DevOps Learning: Beyond Tools – Full Project, Architecture, and Workflow Insights](https://dev.to/srinivasamcjf/real-devops-learning-beyond-tools-full-project-architecture-and-workflow-insights-11ic)
 - [Oracle 19c — Audit Only Top-Level SQL Statements](https://dev.to/vahidusefzadeh/oracle-19c-audit-only-top-level-sql-statements-hlo)
 - [Any tips for making Google AI studio keep existing functionality?](https://dev.to/_bigblind/any-tips-for-making-google-ai-studio-keep-existing-functionality-4emk)
-- [Almost 2 Months of Gentoo, The Journey So Far!](https://dev.to/darthmoomancer/almost-2-months-of-gentoo-the-journey-so-far-1m46)
-- [How to Create a Linux Virtual Machine in Azure Portal](https://dev.to/jic/how-to-create-a-linux-virtual-machine-in-azure-portal-2482)
+- [CI/CD is More Than Just Deployment – Full Breakdown for DevOps Engineers](https://dev.to/srinivasamcjf/cicd-is-more-than-just-deployment-full-breakdown-for-devops-engineers-ngj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
