@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ever wished programming languages spoke more like humans?](https://dev.to/emmanuel_lijo_6fa821ceec8/ever-wished-programming-languages-spoke-more-like-humans-57o1)
+- [15 ways your website loads from Google Search and how to measure each one](https://dev.to/paweldev/15-ways-your-website-loads-from-google-search-and-how-to-measure-each-one-59jg)
+- [What&#39;s the Difference Between localStorage and NonLocalStorage? A Developer&#39;s Guide](https://dev.to/adrai/whats-the-difference-between-localstorage-and-nonlocalstorage-a-developers-guide-4bim)
 - [Part-40: Google Serverless Cloud Run Services and Jobs](https://dev.to/latchudevops/part-40-google-serverless-cloud-run-services-and-jobs-42gh)
 - [ReUniteME – Using MERN to Help Families Reconnect with Missing Persons](https://dev.to/jeelion22/reuniteme-using-mern-to-help-families-reconnect-with-missing-persons-57pe)
-- [Handling JSON &amp; YAML in Python](https://dev.to/godofgeeks/handling-json-yaml-in-python-4714)
-- [Mastering JavaScript Type Conversion](https://dev.to/adrahi/mastering-javascript-type-conversion-14m0)
-- [Docker Hardened Images for Python: How I Eliminated 152 Vulnerabilities in One Simple Switch](https://dev.to/ajeetraina/docker-hardened-images-for-python-how-i-eliminated-152-vulnerabilities-in-one-simple-switch-2p1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
