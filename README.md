@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Cloud Resume: Built on Azure](https://dev.to/asimmakes/my-cloud-resume-built-on-azure-47o0)
-- [Zero Trust in Practice: A Blueprint for Architecting a Truly Defensible Network](https://dev.to/gagreatprogrammer/zero-trust-in-practice-a-blueprint-for-architecting-a-truly-defensible-network-2ho0)
-- [Ever wished programming languages spoke more like humans?](https://dev.to/emmanuel_lijo_6fa821ceec8/ever-wished-programming-languages-spoke-more-like-humans-57o1)
-- [15 ways your website loads from Google Search and how to measure each one](https://dev.to/paweldev/15-ways-your-website-loads-from-google-search-and-how-to-measure-each-one-59jg)
-- [What&#39;s the Difference Between localStorage and NonLocalStorage? A Developer&#39;s Guide](https://dev.to/adrai/whats-the-difference-between-localstorage-and-nonlocalstorage-a-developers-guide-4bim)
+- [WHY I STARTED LEETCODE!!](https://dev.to/yashir934/why-i-started-leetcode-gkm)
+- [Mastering the CAP Theorem: A Simple Guide for System Design Interviews](https://dev.to/arpit_garg_22474d7747edc7/mastering-the-cap-theorem-a-simple-guide-for-system-design-interviews-1ebd)
+- [Danny Maude: This Technique Makes Fairway Woods &amp; Hybrids So Easy!](https://dev.to/youtube_golf/danny-maude-this-technique-makes-fairway-woods-hybrids-so-easy-371e)
+- [When Not to Use useEffect in React](https://dev.to/ayako_yk/when-not-to-use-useeffect-in-react-210o)
+- [🐱💻 Compiler Warnings: The Schrödinger’s Cat of Software Quality](https://dev.to/abdulosman/compiler-warnings-the-schrodingers-cat-of-software-quality-3j1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
