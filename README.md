@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Cloud Resume: Built on Azure](https://dev.to/asimmakes/my-cloud-resume-built-on-azure-47o0)
+- [Zero Trust in Practice: A Blueprint for Architecting a Truly Defensible Network](https://dev.to/gagreatprogrammer/zero-trust-in-practice-a-blueprint-for-architecting-a-truly-defensible-network-2ho0)
 - [Ever wished programming languages spoke more like humans?](https://dev.to/emmanuel_lijo_6fa821ceec8/ever-wished-programming-languages-spoke-more-like-humans-57o1)
 - [15 ways your website loads from Google Search and how to measure each one](https://dev.to/paweldev/15-ways-your-website-loads-from-google-search-and-how-to-measure-each-one-59jg)
 - [What&#39;s the Difference Between localStorage and NonLocalStorage? A Developer&#39;s Guide](https://dev.to/adrai/whats-the-difference-between-localstorage-and-nonlocalstorage-a-developers-guide-4bim)
-- [Part-40: Google Serverless Cloud Run Services and Jobs](https://dev.to/latchudevops/part-40-google-serverless-cloud-run-services-and-jobs-42gh)
-- [ReUniteME – Using MERN to Help Families Reconnect with Missing Persons](https://dev.to/jeelion22/reuniteme-using-mern-to-help-families-reconnect-with-missing-persons-57pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
