@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Friendly Guide: &quot;Why WSL is Eating My C: Drive &lpar;and How to Get it Back&rpar;&quot;](https://dev.to/rasulmmdv/the-friendly-guide-why-wsl-is-eating-my-c-drive-and-how-to-get-it-back-15p8)
+- [🕵️‍♀️ Shift-Left Testing: Myths, Misconceptions &amp; the Real Story](https://dev.to/abdulosman/shift-left-testing-myths-misconceptions-the-real-story-44mh)
+- [From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget](https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo)
 - [The Game Theorists: Game Theory: Peak Actually Has LORE?!](https://dev.to/gg_news/the-game-theorists-game-theory-peak-actually-has-lore-3p1e)
 - [Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!](https://dev.to/lovestaco/ever-wonder-how-your-email-actually-gets-sent-meet-the-smtp-server-515p)
-- [Building PDF Editor](https://dev.to/thesukhsingh/building-pdf-editor-24ed)
-- [Complete Seaborn Tutorial &lpar;Day 01 &amp; Day 02&rpar; — Master Data Visualization with Python, Data Analytics, AI &amp; Machine Learning](https://dev.to/niveshbansal07/complete-seaborn-tutorial-day-01-day-02-master-data-visualization-with-python-data-4kn2)
-- [How to decrypt broken GCM ciphertext](https://dev.to/moritzhoeppner/how-to-decrypt-broken-gcm-ciphertext-58a1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
