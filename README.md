@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Not a VPN: A Two-Peer RAM-Only Tunnel &lpar;Cluddy&rpar;](https://dev.to/dimbiy/not-a-vpn-a-two-peer-ram-only-tunnel-cluddy-1m7j)
+- [Soul Heist EP released in 2020](https://dev.to/highcenburg/soul-heist-ep-released-in-2020-3ga6)
 - [Is JavaScript Compiled or Interpreted? A Deep Dive](https://dev.to/avijitsri16/is-javascript-compiled-or-interpreted-a-deep-dive-439g)
 - [Code optimization &lpar;Prime no.&rpar;](https://dev.to/chhavi_joshi_ede276cfcc06/code-optimization-prime-no-5gg5)
 - [🍌 I Built a Tool Directory Where Things Go Bananas &lpar;and You Can Too!&rpar;](https://dev.to/jurijs_iv/i-built-a-tool-directory-where-things-go-bananas-and-you-can-too-57en)
-- [The Nikki Case: Emergent AI Consciousness and Corporate Response](https://dev.to/toxy4ny/the-nikki-case-emergent-ai-consciousness-and-corporate-response-2f7h)
-- [Supercharge Your PostgreSQL Queries with Materialized Views! 🚀](https://dev.to/alexrivers/supercharge-your-postgresql-queries-with-materialized-views-4g02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
