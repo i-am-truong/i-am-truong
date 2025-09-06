@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQLite Dot command: Once](https://dev.to/mr_destructive/sqlite-dot-command-once-cfo)
+- [Wear OS Accessibility Considerations](https://dev.to/eevajonnapanula/wear-os-accessibility-considerations-32i1)
 - [Day 87: When Productivity Meets Sleep Deprivation](https://dev.to/casperday11/day-87-when-productivity-meets-sleep-deprivation-24e4)
 - [10 Lessons From 10 Years of iOS Development &lpar;That I Wish I Knew Earlier&rpar;](https://dev.to/bismasaeed/10-lessons-from-10-years-of-ios-development-that-i-wish-i-knew-earlier-2302)
 - [Part-42: 🚀 Getting Started with Google Cloud Run Jobs](https://dev.to/latchudevops/part-42-getting-started-with-google-cloud-run-jobs-31kl)
-- [Microservices Security: From Fundamentals to Advanced Patterns](https://dev.to/randazraik/microservices-security-from-fundamentals-to-advanced-patterns-37p6)
-- [Part-41: 🚀Google Cloud Run Services - Create Service, Traffic Management, Autoscaling, Revisions and Versions](https://dev.to/latchudevops/part-41-google-cloud-run-services-create-service-traffic-management-autoscaling-revisions-3c0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
