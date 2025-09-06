@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your PostgreSQL Queries with Materialized Views! 🚀](https://dev.to/alexrivers/supercharge-your-postgresql-queries-with-materialized-views-4g02)
+- [Futuristic Dashboards: Designing with Data, Animation, and Prediction](https://dev.to/arunacha_dinesh/futuristic-dashboards-designing-with-data-animation-and-prediction-2j6d)
 - [Learning Coding from High Skilled Professional Programmers](https://dev.to/rudolfolah/learning-coding-from-high-skilled-professional-programmers-28cj)
 - [Using React Native Components in a Next.js Web App &lpar;via @expo/next-adapter&rpar;](https://dev.to/isaacaddis/using-react-native-components-in-a-nextjs-web-app-via-exponext-adapter-3497)
 - [Fashion Time Traveler](https://dev.to/pranathi_013/fashion-time-traveler-1gfc)
-- [My Rust Learning Journey: Challenges, Projects, and Growth](https://dev.to/minipliy/my-rust-learning-journey-challenges-projects-and-growth-3akh)
-- [Spring Boot Events Tutorial](https://dev.to/sadiul_hakim/spring-boot-events-tutorial-2obh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
