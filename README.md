@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building PDF Editor](https://dev.to/thesukhsingh/building-pdf-editor-24ed)
 - [Complete Seaborn Tutorial &lpar;Day 01 &amp; Day 02&rpar; — Master Data Visualization with Python, Data Analytics, AI &amp; Machine Learning](https://dev.to/niveshbansal07/complete-seaborn-tutorial-day-01-day-02-master-data-visualization-with-python-data-4kn2)
 - [How to decrypt broken GCM ciphertext](https://dev.to/moritzhoeppner/how-to-decrypt-broken-gcm-ciphertext-58a1)
 - [The Quiet War for Your Mind: Critical Thinking in the Age of Algorithmic Influence](https://dev.to/zanzythebar/the-quiet-war-for-your-mind-critical-thinking-in-the-age-of-algorithmic-influence-3c7o)
 - [Clustering](https://dev.to/carlosrambles/clustering-4k22)
-- [Building an AI-Powered Expense Tracker with Spring Boot, Spring AI, and Google Gemini](https://dev.to/swapniltake1/building-an-ai-powered-expense-tracker-with-spring-boot-spring-ai-and-google-gemini-5f48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
