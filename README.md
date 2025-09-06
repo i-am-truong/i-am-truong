@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CrashLoopBackOff: Warrom Je Pods Blijven Crashen?](https://dev.to/shubhcloud/crashloopbackoff-warrom-je-pods-blijven-crashen-3imn)
+- [Chakra UI v3 v2 Downgrade: Errors I Got Stuck On and How I Fixed Them](https://dev.to/kazutora_hattori_66972c88/chakra-ui-v3-v2-downgrade-errors-i-got-stuck-on-and-how-i-fixed-them-l0)
 - [WHY I STARTED LEETCODE!!](https://dev.to/yashir934/why-i-started-leetcode-gkm)
-- [Mastering the CAP Theorem: A Simple Guide for System Design Interviews](https://dev.to/arpit_garg_22474d7747edc7/mastering-the-cap-theorem-a-simple-guide-for-system-design-interviews-1ebd)
+- [Mastering the CAP Theorem: A Simple Guide for System Design Interviews](https://dev.to/er_arpit_garg/mastering-the-cap-theorem-a-simple-guide-for-system-design-interviews-1ebd)
 - [Danny Maude: This Technique Makes Fairway Woods &amp; Hybrids So Easy!](https://dev.to/youtube_golf/danny-maude-this-technique-makes-fairway-woods-hybrids-so-easy-371e)
-- [When Not to Use useEffect in React](https://dev.to/ayako_yk/when-not-to-use-useeffect-in-react-210o)
-- [🐱💻 Compiler Warnings: The Schrödinger’s Cat of Software Quality](https://dev.to/abdulosman/compiler-warnings-the-schrodingers-cat-of-software-quality-3j1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
