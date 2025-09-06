@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Not Every Tech Business is a Startup: Understanding the Real Differences](https://dev.to/shipitsoon/not-every-tech-business-is-a-startup-understanding-the-real-differences-29)
 - [🚀 Midnight Challenge | Build &amp; Run a Sample dApp with React, Flask &amp; Docker](https://dev.to/pravesh_sudha_3c2b0c2b5e0/midnight-challenge-build-run-a-sample-dapp-with-react-flask-docker-340l)
 - [2 Minutes Rule for Technical Debt cleanup](https://dev.to/nikhil_sachapara/2-minutes-rule-for-technical-debt-cleanup-4ba1)
 - [2 Minute Rule for Technical Debt Cleanup](https://dev.to/naik_sejal/2-minute-rule-for-technical-debt-cleanup-3bih)
 - [The 2-Minute Rule for Technical Debt Cleanup: Why Small Daily Fixes Beat Monthly Sprints](https://dev.to/teamcamp/the-2-minute-rule-for-technical-debt-cleanup-why-small-daily-fixes-beat-monthly-sprints-24ea)
-- [Run LLaMA 3 Locally and Build AI Apps 🤖💻](https://dev.to/kamrul_arafin/run-llama-3-locally-and-build-ai-apps-pk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
