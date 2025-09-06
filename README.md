@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FlashAttention by hand](https://dev.to/lewis_won/flashattention-by-hand-34im)
-- [FLEX — The Visual Flexbox Cheat Sheet](https://dev.to/ml318097/flex-the-visual-flexbox-cheat-sheet-1jlc)
-- [My AWS Summit Toronto experience and GenAI](https://dev.to/aws-builders/my-aws-summit-toronto-experience-and-genai-27o2)
-- [📅 Week 1: Diving into Spring Boot Fundamentals:](https://dev.to/tejasvi_urkande/week-1-diving-into-spring-boot-fundamentals-3o1f)
-- [How I Stay Consistent in Coding &lpar;Even When I Feel Stuck&rpar;](https://dev.to/eric_ayanru_0afc87b5ad485/how-i-stay-consistent-in-coding-even-when-i-feel-stuck-2dfl)
+- [Spring Boot Events Tutorial](https://dev.to/sadiul_hakim/spring-boot-events-tutorial-2obh)
+- [OpenAI partners with Broadcom to develop custom AI chip, aiming for in-house launch next year](https://dev.to/ytosko/openai-partners-with-broadcom-to-develop-custom-ai-chip-aiming-for-in-house-launch-next-year-4o3k)
+- [How to Create &amp; Self-Publish a Children&#39;s Book on Amazon KDP Using AI &lpar;Step-by-Step Guide&rpar;](https://dev.to/nitinfab/how-to-create-self-publish-a-childrens-book-on-amazon-kdp-using-ai-step-by-step-guide-ghk)
+- [barK: A Lightweight Logging Library for Android](https://dev.to/ivangarzab/bark-a-lightweight-logging-library-for-android-49i6)
+- [Island Ghost Midnight tools for the XRPL Community](https://dev.to/islandghoststephanie/island-ghost-midnight-tools-for-the-xrpl-community-1min)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
