@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling JSON &amp; YAML in Python](https://dev.to/godofgeeks/handling-json-yaml-in-python-4714)
+- [Mastering JavaScript Type Conversion](https://dev.to/adrahi/mastering-javascript-type-conversion-14m0)
 - [Docker Hardened Images for Python: How I Eliminated 152 Vulnerabilities in One Simple Switch](https://dev.to/ajeetraina/docker-hardened-images-for-python-how-i-eliminated-152-vulnerabilities-in-one-simple-switch-2p1b)
-- [100 Days of DevOps, Day 1: Understanding Linux User Management and Shells](https://dev.to/olymahmud/100-days-of-devops-day-1-understanding-linux-user-management-and-shells-4f8n)
-- [Install pgAdmin on Ubuntu And connect RDS with pgAdmin](https://dev.to/tech_2e11d899e5893ff/install-pgadmin-on-ubuntu-and-connect-rds-with-pgadmin-enj)
-- [Expo + Maestro CI Pipeline Overviews &lpar;EAS Custom Builds, Maestro Cloud&rpar;](https://dev.to/isaacaddis/expo-maestro-ci-pipeline-overviews-eas-custom-builds-maestro-cloud-142n)
-- [Self-Hosted Analytics with Rybbit: A Game-Changer for Privacy-Conscious Developers](https://dev.to/jaskarandeogan/self-hosted-analytics-with-rybbit-a-game-changer-for-privacy-conscious-developers-34ff)
+- [Trying to Build a Simple Live Activity Timer… and Hitting OS Limits](https://dev.to/devonwheels/trying-to-build-a-simple-live-activity-timer-and-hitting-os-limits-5f61)
+- [Hello Everyone, I&#39;m Starting to learn HTML](https://dev.to/karan_wani/hello-everyone-im-starting-to-learn-html-3d0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
