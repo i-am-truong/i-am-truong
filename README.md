@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Hard Truth About DevOps Learning: Practical Experience Over Presentations](https://dev.to/srinivasamcjf/the-hard-truth-about-devops-learning-practical-experience-over-presentations-103g)
+- [The Hard Truth About Real-World DevOps: What Most Engineers Are Missing](https://dev.to/srinivasamcjf/the-hard-truth-about-real-world-devops-what-most-engineers-are-missing-15cm)
+- [Why Developer Advocacy Matters in India: A Guide for Aspiring Advocates](https://dev.to/nimit2801/why-developer-advocacy-matters-in-india-a-guide-for-aspiring-advocates-4pcn)
+- [Starting Nix](https://dev.to/tsusheel/starting-nix-33hh)
 - [Creating and Configuring Virtual Networks in Azure: A Step-by-Step Guide](https://dev.to/sudaisib/creating-and-configuring-virtual-networks-in-azure-a-step-by-step-guide-2ico)
-- [Real DevOps Learning: Beyond Tools – Full Project, Architecture, and Workflow Insights](https://dev.to/srinivasamcjf/real-devops-learning-beyond-tools-full-project-architecture-and-workflow-insights-11ic)
-- [Oracle 19c — Audit Only Top-Level SQL Statements](https://dev.to/vahidusefzadeh/oracle-19c-audit-only-top-level-sql-statements-hlo)
-- [Any tips for making Google AI studio keep existing functionality?](https://dev.to/_bigblind/any-tips-for-making-google-ai-studio-keep-existing-functionality-4emk)
-- [CI/CD is More Than Just Deployment – Full Breakdown for DevOps Engineers](https://dev.to/srinivasamcjf/cicd-is-more-than-just-deployment-full-breakdown-for-devops-engineers-ngj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
