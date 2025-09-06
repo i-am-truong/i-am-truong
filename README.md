@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dependency Injection in Angular: A Complete Guide with Use Cases](https://dev.to/rohit_singh_ee84e64941db7/dependency-injection-in-angular-a-complete-guide-with-use-cases-3ec8)
+- [Irish-Name-Repo 2 - picoCTF &#39;19 &lpar;web&rpar;](https://dev.to/davidonlinearchive/irish-name-repo-2-picoctf-19-web-5de0)
+- [Por que estudar programação só na faculdade não te transforma em programador](https://dev.to/davittiw/por-que-estudar-programacao-so-na-faculdade-nao-te-transforma-em-programador-21mc)
+- [SkyQuest: A story-coded python app for scheduling astrophotography sessions](https://dev.to/ant_smith_e85a60e94fded6b/skyquest-a-story-coded-python-app-for-scheduling-astrophotography-sessions-kfk)
 - [Cross-Compiling Linux Kernel Module: A Hands-On Guide](https://dev.to/samar_lass_27db28cecec23c/cross-compiling-linux-kernel-module-a-hands-on-guide-b7d)
-- [Coding vs Programming: Key Differences for Beginners](https://dev.to/roghaye_mohammadi_84/coding-vs-programming-key-differences-for-beginners-22gf)
-- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;2/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-25-28je)
-- [Building a Heart Risk Detector from Scratch with NumPy - Lessons in Overfitting &amp; Neural Networks](https://dev.to/sreehari_sj_1d3d883c0f6b/building-a-heart-risk-detector-from-scratch-with-numpy-lessons-in-overfitting-neural-networks-5fki)
-- [Follower count](https://dev.to/masterdevsabith/follower-count-3j82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
