@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🛠️ DevOps Roadmap for Beginners: What to Learn, Tools to Master &amp; How to Install, Configure &amp; Use. 🛠️](https://dev.to/adeolaogunkola/devops-roadmap-for-beginners-what-to-learn-tools-to-master-how-to-install-configure-use-pja)
 - [🚀 How I Built an Email Verifier API in Java &lpar;And Deployed It for Free&rpar;](https://dev.to/temirlan_basitov_138f94c8/how-i-built-an-email-verifier-api-in-java-and-deployed-it-for-free-jn9)
 - [The Index Problem: When You Need to Know Where You Are in Your Stream](https://dev.to/arashariani/the-index-problem-when-you-need-to-know-where-you-are-in-your-stream-4a3a)
 - [IGN: Marvel Mystic Mayhem - Official Version 1.2: Siege in the Deep Trailer](https://dev.to/gg_news/ign-marvel-mystic-mayhem-official-version-12-siege-in-the-deep-trailer-mp3)
 - [Paralelismo em Python para Engenharia de Dados: O Segredo das Tarefas I/O-Bound](https://dev.to/_richardson_/paralelismo-em-python-para-engenharia-de-dados-o-segredo-das-tarefas-io-bound-4edi)
-- [Managing Multiple Xcode Versions with Xcodes.app](https://dev.to/markkazakov/managing-multiple-xcode-versions-with-xcodesapp-3ini)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
