@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-39: 🔐 GCE VM Authentication in Google Cloud Platform](https://dev.to/latchudevops/part-39-gce-vm-authentication-in-google-cloud-platform-3nhk)
+- [My Command Reference](https://dev.to/ktauchathuranga/my-command-reference-56ne)
+- [🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy &lpar;CBT&rpar;: A Practical Guide](https://dev.to/nvelup_e92618d5196e8d9f43/breaking-negative-thinking-patterns-with-cognitive-behavioral-therapy-cbt-a-practical-guide-39e0)
+- [Mastering Null and Undefined in JavaScript](https://dev.to/adrahi/mastering-null-and-undefined-in-javascript-10bb)
 - [Not Every Tech Business is a Startup: Understanding the Real Differences](https://dev.to/shipitsoon/not-every-tech-business-is-a-startup-understanding-the-real-differences-29)
-- [🚀 Midnight Challenge | Build &amp; Run a Sample dApp with React, Flask &amp; Docker](https://dev.to/pravesh_sudha_3c2b0c2b5e0/midnight-challenge-build-run-a-sample-dapp-with-react-flask-docker-340l)
-- [2 Minutes Rule for Technical Debt cleanup](https://dev.to/nikhil_sachapara/2-minutes-rule-for-technical-debt-cleanup-4ba1)
-- [2 Minute Rule for Technical Debt Cleanup](https://dev.to/naik_sejal/2-minute-rule-for-technical-debt-cleanup-3bih)
-- [The 2-Minute Rule for Technical Debt Cleanup: Why Small Daily Fixes Beat Monthly Sprints](https://dev.to/teamcamp/the-2-minute-rule-for-technical-debt-cleanup-why-small-daily-fixes-beat-monthly-sprints-24ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
