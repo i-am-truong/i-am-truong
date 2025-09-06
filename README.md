@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA](https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm)
+- [Hack The Box — Mongod &lpar;MongoDB&rpar;](https://dev.to/er/hack-the-box-mongod-mongodb-3o12)
 - [The Friendly Guide: &quot;Why WSL is Eating My C: Drive &lpar;and How to Get it Back&rpar;&quot;](https://dev.to/rasulmmdv/the-friendly-guide-why-wsl-is-eating-my-c-drive-and-how-to-get-it-back-15p8)
 - [🕵️‍♀️ Shift-Left Testing: Myths, Misconceptions &amp; the Real Story](https://dev.to/abdulosman/shift-left-testing-myths-misconceptions-the-real-story-44mh)
 - [From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget](https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo)
-- [The Game Theorists: Game Theory: Peak Actually Has LORE?!](https://dev.to/gg_news/the-game-theorists-game-theory-peak-actually-has-lore-3p1e)
-- [Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!](https://dev.to/lovestaco/ever-wonder-how-your-email-actually-gets-sent-meet-the-smtp-server-515p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
