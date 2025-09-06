@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Wait for an Accident. This AI Tool Spots Hazards Before Your Baby Does.](https://dev.to/dirsebastian/dont-wait-for-an-accident-this-ai-tool-spots-hazards-before-your-baby-does-2le0)
-- [Step-Audio 2 Mini: Open-Source Voice AI Outperforms GPT-4o-Audio](https://dev.to/aiwithapex/step-audio-2-mini-open-source-voice-ai-outperforms-gpt-4o-audio-pb1)
-- [How to Set Up a Jenkins CI/CD Pipeline &lpar;Step-by-Step Guide&rpar;](https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme)
-- [SupaWP Storage Filter Hooks - Seamless Supabase Storage Integration for WordPress](https://dev.to/dalenguyen/supawp-storage-filter-hooks-seamless-supabase-storage-integration-for-wordpress-1ana)
-- [Episode 15: Docker Networking — Custom Networks &amp; Real-World Use Cases](https://dev.to/yash_sonawane25/episode-15-docker-networking-custom-networks-real-world-use-cases-29l0)
+- [🚀 Midnight Challenge | Build &amp; Run a Sample dApp with React, Flask &amp; Docker](https://dev.to/pravesh_sudha_3c2b0c2b5e0/midnight-challenge-build-run-a-sample-dapp-with-react-flask-docker-340l)
+- [2 Minutes Rule for Technical Debt cleanup](https://dev.to/nikhil_sachapara/2-minutes-rule-for-technical-debt-cleanup-4ba1)
+- [2 Minute Rule for Technical Debt Cleanup](https://dev.to/naik_sejal/2-minute-rule-for-technical-debt-cleanup-3bih)
+- [The 2-Minute Rule for Technical Debt Cleanup: Why Small Daily Fixes Beat Monthly Sprints](https://dev.to/teamcamp/the-2-minute-rule-for-technical-debt-cleanup-why-small-daily-fixes-beat-monthly-sprints-24ea)
+- [Run LLaMA 3 Locally and Build AI Apps 🤖💻](https://dev.to/kamrul_arafin/run-llama-3-locally-and-build-ai-apps-pk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
