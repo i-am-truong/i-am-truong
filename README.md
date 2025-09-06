@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dashboards are the control centre of any business. They tell you what’s working, what’s broken, and where to focus. The problem? Building them in Excel can be time-consuming — formulas, pivot tables, formatting… it adds up. That’s where AI steps in.](https://dev.to/jaideepparashar/dashboards-are-the-control-centre-of-any-business-they-tell-you-whats-working-whats-broken-and-38go)
-- [🎉 **Major milestone: Just pushed my first project to GitHub!**](https://dev.to/carloshernandez1021/major-milestone-just-pushed-my-first-project-to-github-2a5i)
-- [How to Create AI-Powered Dashboards with ChatGPT + Excel](https://dev.to/jaideepparashar/how-to-create-ai-powered-dashboards-with-chatgpt-excel-3mb0)
-- [Built a CLI tool to help manage code review feedback - thoughts?](https://dev.to/kroro1208/built-a-cli-tool-to-help-manage-code-review-feedback-thoughts-3i5o)
-- [Excited to share that HotDog Training was selected as one of the top Bolt hackathon winners for the RevenuCat challenge! Ana and I are just getting started 🐶](https://dev.to/chrislally/excited-to-share-that-hotdog-training-was-selected-as-one-of-the-top-bolt-hackathon-winners-for-the-59o5)
+- [How to Set Up a Jenkins CI/CD Pipeline &lpar;Step-by-Step Guide&rpar;](https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme)
+- [SupaWP Storage Filter Hooks - Seamless Supabase Storage Integration for WordPress](https://dev.to/dalenguyen/supawp-storage-filter-hooks-seamless-supabase-storage-integration-for-wordpress-1ana)
+- [Episode 15: Docker Networking — Custom Networks &amp; Real-World Use Cases](https://dev.to/yash_sonawane25/episode-15-docker-networking-custom-networks-real-world-use-cases-29l0)
+- [NPR Music: AMERICANAFEST Day Stage 2025: Thursday, Sept. 11](https://dev.to/music_youtube/npr-music-americanafest-day-stage-2025-thursday-sept-11-1ep4)
+- [NPR Music: AMERICANAFEST Day Stage 2025: Friday, Sept. 12](https://dev.to/music_youtube/npr-music-americanafest-day-stage-2025-friday-sept-12-2346)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
