@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reto 2 - El caso de las tablas no tan iguales 📄🔍](https://dev.to/eapl/reto-2-el-caso-de-las-tablas-no-tan-iguales-2e9a)
+- [Kuzur Programming Language](https://dev.to/rahulkuzur/kuzur-programming-language-g0p)
 - [Understanding DNS: From Root Servers to resolv.conf](https://dev.to/thenanjay/understanding-dns-from-root-servers-to-resolvconf-4e6a)
 - [Getting Started with Google BigQuery: A Beginner’s Guide](https://dev.to/lovestaco/getting-started-with-google-bigquery-a-beginners-guide-3b5g)
 - [✅ *Essential Data Structures You Should Know* 🔍💻](https://dev.to/ssekabirarobertsims/essential-data-structures-you-should-know-2c1a)
-- [A Disciplined Approach to AI-Assisted Software Development](https://dev.to/varietyz/a-disciplined-approach-to-ai-assisted-software-development-3e6i)
-- [Token Payout based on Private Information: Golf Barbecue Coin &lpar;GBC&rpar;](https://dev.to/datadr1ven/token-payout-based-on-private-information-golf-barbecue-coin-gbc-38d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
