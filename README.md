@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My tryst with Rust - through the subject of Design Pattern - implementation of Chain of Responsibility...](https://dev.to/sommukhopadhyay/my-tryst-with-rust-through-the-subject-of-design-pattern-implementation-of-chain-of-3nk0)
+- [Android Internals - UI Events...](https://dev.to/sommukhopadhyay/android-internals-ui-events-e1o)
 - [Decorator Design Pattern in Python](https://dev.to/sommukhopadhyay/decorator-design-pattern-in-python-1j61)
+- [Data Types &lpar;Programing Fundamentals Part — 2&rpar;](https://dev.to/pixelandcode/data-types-programing-fundamentals-part-2-54jb)
 - [Iterator Design Pattern in Python...](https://dev.to/sommukhopadhyay/iterator-design-pattern-in-python-3663)
-- [5 Tiny Developer Productivity Hacks That Saved Me Hours](https://dev.to/javediqbal8381/5-tiny-developer-productivity-hacks-that-saved-me-hours-1fed)
-- [Strategy Design Pattern in Rust...](https://dev.to/sommukhopadhyay/strategy-design-pattern-in-rust-56d7)
-- [Technical breakdown of My Feedback Sass application](https://dev.to/prashantswarop9/technical-breakdown-of-my-feedback-sass-application-3o4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
