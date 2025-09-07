@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How React Native Talks to Your iPhone and Android… And How It’s Changed](https://dev.to/biswasprasana001/how-react-native-talks-to-your-iphone-and-android-and-how-its-changed-4jn1)
-- [Start ROS2 Today: What Are Recommended Steps?](https://dev.to/robotisim_76f72fc9b6cb/start-ros2-today-what-are-recommended-steps-3j96)
-- [Fixing AI Amnesia: MeridianDB’s Answer to Costly Training and Memory Loss](https://dev.to/araldhafeeri/fixing-ai-amnesia-meridiandbs-answer-to-costly-training-and-memory-loss-3l2p)
-- [From Idea to Launch: How I Built an Anonymous College Confession Platform for Students](https://dev.to/rudra_kumarpandey_2bf696/from-idea-to-launch-how-i-built-an-anonymous-college-confession-platform-for-students-5886)
-- [Now it&#39;s time to design the book cover](https://dev.to/ha3k/now-its-time-to-design-the-book-cover-2l2m)
+- [My Experience Fixing clasp Login Errors on Google Workspace](https://dev.to/yo-shi/my-experience-fixing-clasp-login-errors-on-google-workspace-3nh)
+- [Linux Repository Mirroring Made Simple](https://dev.to/thebluedrara/linux-repository-mirroring-made-simple-4gm2)
+- [Task.WhenEach in .NET: Process Tasks as They Complete](https://dev.to/morteza-jangjoo/taskwheneach-in-net-process-tasks-as-they-complete-4bja)
+- [Hack The Box - Synced &lpar;rsync&rpar;](https://dev.to/er/hack-the-box-synced-rsync-302h)
+- [Cracking Consensus Algorithms for System Design Interviews](https://dev.to/codewithved/cracking-consensus-algorithms-for-system-design-interviews-2872)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
