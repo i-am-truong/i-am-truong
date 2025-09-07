@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tags: The Core Principles of Observability Context](https://dev.to/k4ji_dev/tags-the-core-principles-of-observability-context-1mgl)
-- [Top 5 Vacilos que Desenvolvedores Cometem em uma Crise &lpar;e como evitar&rpar;](https://dev.to/ed-wantuil/top-5-vacilos-que-desenvolvedores-cometem-em-uma-crise-e-como-evitar-13l8)
-- [GCC-Specific Tools that Every Programmer Should Know](https://dev.to/cangulmez/gcc-specific-tools-that-every-programmer-should-know-53f4)
-- [Mastering Python Modules, Packages &amp; Namespaces From Basics to Behind the Scenes](https://dev.to/anik_sikder_313/mastering-python-modules-packages-namespaces-from-basics-to-behind-the-scenes-4hno)
-- [Aard 2](https://dev.to/1prasanth0/aard-2-26ff)
+- [Unlocking Docker: The Not-So-Obvious Stuff Made Simple](https://dev.to/vatsalgupta25/unlocking-docker-the-not-so-obvious-stuff-made-simple-402o)
+- [Frontend Accessibility Essentials 🔥](https://dev.to/vishwark/frontend-accessibility-essentials-588i)
+- [Automating Image Generation with n8n and ComfyUI](https://dev.to/worldlinetech/automating-image-generation-with-n8n-and-comfyui-521p)
+- [Building and Deploying Kubemate: An AI-Powered Kubernetes DevOps Chatbot on AWS Elastic Beanstalk](https://dev.to/techwithhari/building-and-deploying-kubemate-an-ai-powered-kubernetes-devops-chatbot-on-aws-elastic-beanstalk-2ifo)
+- [React Native + Redux Toolkit: The Clean Way to Handle State](https://dev.to/amitkumar13/react-native-redux-toolkit-the-clean-way-to-handle-state-dof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
