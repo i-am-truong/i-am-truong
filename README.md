@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling Massive Excel Files in Angular: From Upload to IndexedDB with Lightning-Fast Search](https://dev.to/aniruddha_deb_ng/handling-massive-excel-files-in-angular-from-upload-to-indexeddb-with-lightning-fast-search-p8n)
+- [Migrating from Kubernetes Ingress to Gateway API: A Step-by-Step Guide](https://dev.to/kelvinmanavar/migrating-from-kubernetes-ingress-to-gateway-api-a-step-by-step-guide-5bhi)
+- [Do not start to learn programming before this &lpar;Programming Fundamentals Part — 1&rpar;](https://dev.to/pixelandcode/do-not-start-to-learn-programming-before-this-programming-fundamentals-part-1-4a0n)
+- [LifeLens – My Multimodal Health &amp; Wellness Companion](https://dev.to/rohit_mane_0c56c05bfdcc75/lifelens-my-multimodal-health-wellness-companion-42g4)
 - [Episode 16: Docker Compose — Multi-Container Applications](https://dev.to/yash_sonawane25/episode-16-docker-compose-multi-container-applications-354i)
-- [Controller, useControlller&lpar;&rpar;, and register&lpar;&rpar; in react-hook-form](https://dev.to/algoorgoal/controller-usecontrolller-and-register-in-react-hook-form-ajh)
-- [The Go Paradox: Why Fewer Features Create a Better Language for Senior Developers](https://dev.to/adityabhuyan/the-go-paradox-why-fewer-features-create-a-better-language-for-senior-developers-20gi)
-- [Building a Crypto Portfolio Tracker with PyQt6](https://dev.to/kolyaiks/building-a-simple-crypto-portfolio-tracker-with-pyqt6-1mbk)
-- [[Boost]](https://dev.to/mahinshanazeer/-9gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
