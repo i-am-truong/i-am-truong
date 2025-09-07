@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Look &amp; Learn: a Google AI Multimodal Challenge Entry](https://dev.to/_bigblind/look-learn-a-google-ai-multimodal-challenge-entry-34lk)
 - [Malik&#39;s experience with code](https://dev.to/malik_daliet/maliks-experience-with-code-1oh0)
 - [Notifications in JavaScript: Introducing notify-zh 🔔](https://dev.to/xavivzla/notifications-in-javascript-introducing-notify-zh-5bi6)
 - [📰StackNews Digest](https://dev.to/asmittt_11/stacknews-digest-53f5)
 - [💓 AIHB: Giving AI a HeartBeat Through SPRL](https://dev.to/lev_goukassian_5fe7ea654a/-aihb-giving-ai-a-heartbeat-through-sprl-4ac5)
-- [My First Steps in Python 🚀](https://dev.to/khaoula612/my-first-steps-in-python-27ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
