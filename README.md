@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating a Local Multi-Agent Travel System to AWS Bedrock AgentCore&lpar;Part 3&rpar;](https://dev.to/hvmathan/migrating-a-local-multi-agent-travel-system-to-aws-bedrock-agentcorepart-3-45eh)
+- [Pitch v1](https://dev.to/harsh_bhardwaj_809a89d3a7/pitch-v1-2197)
+- [Modern DevOps for Frontend Teams: A Lead Dev&#39;s Perspective](https://dev.to/srini_k/modern-devops-for-frontend-teams-a-lead-devs-perspective-3cp8)
+- [Using Vue.js Directives to build a Cryptocurrency &lpar;web3, DEfi&rpar; Interface.](https://dev.to/dunia/using-vuejs-directives-to-build-a-cryptocurrency-web3-defi-interface-552m)
+- [Migrating a Local Multi-Agent Travel System to AWS Bedrock AgentCore&lpar;Part 3&rpar;](https://dev.to/aws-builders/migrating-a-local-multi-agent-travel-system-to-aws-bedrock-agentcorepart-3-45eh)
 - [Manage your n8n workflows and API directly from PHP](https://dev.to/usmanzahidcode/manage-your-n8n-workflows-and-api-directly-from-php-no3)
-- [The Untold Story of Comet Browser](https://dev.to/dhrn/the-untold-story-of-comet-browser-1k3e)
-- [All about Big O Notation](https://dev.to/extinctsion/all-about-big-o-notation-20j8)
-- [AWS Toronto Summit 2025 - My Experience at DEV202 session](https://dev.to/aws-builders/aws-toronto-summit-2025-my-experience-at-dev202-session-29pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
