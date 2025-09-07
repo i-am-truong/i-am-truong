@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive Guide to OpenGL VBOs, VAOs, and EBOs](https://dev.to/deyan2306/the-definitive-guide-to-opengl-vbos-vaos-and-ebos-1j0)
+- [Auto-Translate WordPress Posts with GPT + WPML &lpar;Build Your Own Plugin&rpar;](https://dev.to/adil-hl/auto-translate-wordpress-posts-with-gpt-wpml-build-your-own-plugin-138b)
+- [Especificações: Escreva uma vez, rode em qualquer lugar](https://dev.to/asouza/especificacoes-escreva-uma-vez-rode-em-qualquer-lugar-2ih6)
 - [AWS Blogs by Hasan Poonawala](https://dev.to/hasanp87/aws-blogs-by-hasan-poonawala-2h60)
 - [The Guide to Safe &amp; Modern C Memory Allocation Strategy](https://dev.to/lwdjohari/the-guide-to-safe-modern-c-memory-allocation-strategy-1akn)
-- [gemini-cli: el nuevo aliado para l@s devs](https://dev.to/iblancasa/gemini-cli-el-nuevo-aliado-para-ls-devs-2hf4)
-- [Setting Up Shopify App + NestJS Backend: A Step-by-Step Local Development Guide](https://dev.to/georges_heloussato_d6ff14/setting-up-shopify-app-nestjs-backend-a-step-by-step-local-development-guide-2ca9)
-- [Enhance the ecosystem with CompactSee: Real-Time Contract State Visualization for Midnight Blockchain](https://dev.to/george_thoppil_d0e4d9dafa/compactsee-real-time-contract-state-visualization-for-midnight-blockchain-mkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
