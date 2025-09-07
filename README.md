@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My tryst with Rust - through the subject of Design Pattern - implementation of Chain of Responsibility...](https://dev.to/sommukhopadhyay/my-tryst-with-rust-through-the-subject-of-design-pattern-implementation-of-chain-of-3nk0)
-- [Android Internals - UI Events...](https://dev.to/sommukhopadhyay/android-internals-ui-events-e1o)
-- [Decorator Design Pattern in Python](https://dev.to/sommukhopadhyay/decorator-design-pattern-in-python-1j61)
-- [Data Types &lpar;Programing Fundamentals Part — 2&rpar;](https://dev.to/pixelandcode/data-types-programing-fundamentals-part-2-54jb)
-- [Iterator Design Pattern in Python...](https://dev.to/sommukhopadhyay/iterator-design-pattern-in-python-3663)
+- [Facade Design Pattern in Python...](https://dev.to/sommukhopadhyay/facade-design-pattern-in-python-29bi)
+- [Use of Gaussian Filter to remove noise from Image](https://dev.to/sommukhopadhyay/use-of-gaussian-filter-to-remove-noise-from-image-4g6d)
+- [FFT based simple Spectrum Analyzer with Source Code](https://dev.to/sommukhopadhyay/fft-based-simple-spectrum-analyzer-with-source-code-98p)
+- [The State Design pattern in C++ using timer and notification](https://dev.to/sommukhopadhyay/the-state-design-pattern-in-c-using-timer-and-notification-bod)
+- [Building Selectorless Components: Angular&#39;s Approach to Boilerplate-Free UIs](https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
