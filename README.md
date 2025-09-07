@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [These Key Features of GraphQL make it Unique among Other API Technologies](https://dev.to/ganesh-kumar/these-key-features-of-graphql-make-it-unique-among-other-api-technologies-798)
+- [Deeper Dive into State Management in React &amp; React Native with TypeScript &lpar;2025 Edition&rpar;](https://dev.to/serifcolakel/deeper-dive-into-state-management-in-react-react-native-with-typescript-2025-edition-447)
+- [Irish-Name-Repo 1 - picoCTF &#39;19 &lpar;web&rpar;](https://dev.to/davidonlinearchive/irish-name-repo-1-picoctf-19-web-16ka)
 - [This AI Guesses Your Drawings Faster Than Your Friends Can.](https://dev.to/dirsebastian/this-ai-guesses-your-drawings-faster-than-your-friends-can-340o)
 - [What is the difference between subqueries, common table expressions &lpar;CTEs&rpar;, and stored procedures?](https://dev.to/jaywakitaa/what-is-the-difference-between-subqueries-common-table-expressions-ctes-and-stored-procedures-1m20)
-- [100 Days of DevOps: Day 35](https://dev.to/wycliffealphus/100-days-of-devops-day-35-135e)
-- [Advanced Seaborn: Facets, Correlations &amp; Pro Styling](https://dev.to/niveshbansal07/advanced-seaborn-facets-correlations-pro-styling-4jgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
