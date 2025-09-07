@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a simple Crypto Portfolio Tracker with PyQt6](https://dev.to/kolyaiks/building-a-simple-crypto-portfolio-tracker-with-pyqt6-1mbk)
+- [[Boost]](https://dev.to/mahinshanazeer/-9gl)
+- [Kickstart Your Web Projects with ProXtyle: A Lightweight CSS Framework](https://dev.to/programmerkr/kickstart-your-web-projects-with-proxtyle-a-lightweight-css-framework-5d4n)
 - [One of the most common questions I get is: “How do you consistently turn ideas into full-length articles without burning out?”](https://dev.to/jaideepparashar/one-of-the-most-common-questions-i-get-is-how-do-you-consistently-turn-ideas-into-full-length-4ghk)
 - [My 3-Step Workflow for Turning Ideas into Articles with AI](https://dev.to/jaideepparashar/my-3-step-workflow-for-turning-ideas-into-articles-with-ai-2ja5)
-- [Tutorial on Advanced P-adic Structures with Clojure: Monadic and Parallel Enhancements.](https://dev.to/p_pumulo/tutorial-on-advanced-p-adic-structures-with-clojure-monadic-and-parallel-enhancements-a4i)
-- [Ship small, ship often: Practical Kubernetes CI/CD on a budget &lpar;GitHub Actions + Helm&rpar;](https://dev.to/digitalpollution/ship-small-ship-often-practical-kubernetes-cicd-on-a-budget-github-actions-helm-3bnl)
-- [HOW TO CREATE A KEYVAULT ON AZURE WITH CMD STEP BY STEP GUIDE](https://dev.to/ajayid10/how-to-create-a-keyvault-on-azure-with-cmd-step-by-step-guide-4jfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
