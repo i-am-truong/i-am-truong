@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building PersonaPrep: An Agentic AI Coach for Real-World Social Confidence](https://dev.to/taru_gupta_7ba2975e960cee/building-personaprep-an-agentic-ai-coach-for-real-world-social-confidence-1hmm)
+- [🎭How to test Next.js SSR API &lpar;Playwright + MSW&rpar;🎭](https://dev.to/webdeveloperhyper/how-to-test-nextjs-ssr-api-playwright-msw-k65)
+- [How i created an STARTUP as an college student](https://dev.to/divyansh_tiwari/struggling-with-freelance-chaos-my-late-night-hustle-building-glamflow-as-a-cs-student-7m9)
 - [⚡ Optimizing Angular Signals with Smart Equality Checks](https://dev.to/romain_geffrault_10d88369/optimizing-angular-signals-with-smart-equality-checks-46ni)
 - [Working with AI: The Four Skills That Change Everything](https://dev.to/jimmyshoe85/from-ai-user-to-ai-builder-the-four-skills-that-change-everything-3hei)
-- [Conditionals in Svelte — {#if}, {:else}, and Nesting Explained](https://dev.to/a1guy/conditionals-in-svelte-if-else-and-nesting-explained-4ie3)
-- [Github&#39;s Missing Feature : Folder Download](https://dev.to/fact_king_2b3f0de5ca7b3d3/githubs-missing-feature-folder-download-4g6n)
-- [Serilog: Runtime Control and Auto-Elevated Logging](https://dev.to/gaatif/smart-logging-in-net-with-serilog-6n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
