@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Generate PDFs from HTML with Express and PDF Echo](https://dev.to/itomasi/how-to-generate-pdfs-from-html-with-express-and-pdf-echo-2dlm)
 - [My Experience Fixing clasp Login Errors on Google Workspace](https://dev.to/yo-shi/my-experience-fixing-clasp-login-errors-on-google-workspace-3nh)
 - [Linux Repository Mirroring Made Simple](https://dev.to/thebluedrara/linux-repository-mirroring-made-simple-4gm2)
 - [Task.WhenEach in .NET: Process Tasks as They Complete](https://dev.to/morteza-jangjoo/taskwheneach-in-net-process-tasks-as-they-complete-4bja)
 - [Hack The Box - Synced &lpar;rsync&rpar;](https://dev.to/er/hack-the-box-synced-rsync-302h)
-- [Cracking Consensus Algorithms for System Design Interviews](https://dev.to/codewithved/cracking-consensus-algorithms-for-system-design-interviews-2872)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
