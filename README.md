@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [These Key Features of GraphQL make it Unique among Other API Technologies](https://dev.to/ganesh-kumar/these-key-features-of-graphql-make-it-unique-among-other-api-technologies-798)
 - [This AI Guesses Your Drawings Faster Than Your Friends Can.](https://dev.to/dirsebastian/this-ai-guesses-your-drawings-faster-than-your-friends-can-340o)
 - [What is the difference between subqueries, common table expressions &lpar;CTEs&rpar;, and stored procedures?](https://dev.to/jaywakitaa/what-is-the-difference-between-subqueries-common-table-expressions-ctes-and-stored-procedures-1m20)
 - [100 Days of DevOps: Day 35](https://dev.to/wycliffealphus/100-days-of-devops-day-35-135e)
 - [Advanced Seaborn: Facets, Correlations &amp; Pro Styling](https://dev.to/niveshbansal07/advanced-seaborn-facets-correlations-pro-styling-4jgo)
-- [COLORS: DC3 | A COLORS SHOW](https://dev.to/music_youtube/colors-dc3-a-colors-show-3ean)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
