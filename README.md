@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Google BigQuery: A Beginner’s Guide](https://dev.to/lovestaco/getting-started-with-google-bigquery-a-beginners-guide-3b5g)
+- [Token Payout based on Private Information: Golf Barbecue Coin &lpar;GBC&rpar;](https://dev.to/datadr1ven/token-payout-based-on-private-information-golf-barbecue-coin-gbc-38d5)
 - [DevLink: The Peer-to-Peer Toolkit for Frictionless Development](https://dev.to/guptanu/devlink-the-peer-to-peer-toolkit-for-frictionless-development-2nf0)
 - [Announcing slimcontext: A Lightweight, Model-Agnostic Chat History Compression Utility 🚀](https://dev.to/ialijr/announcing-slimcontext-a-lightweight-model-agnostic-chat-history-compression-utility-50mp)
 - [Understanding LLM Jailbreaks: Navigating the Edge of AI Safety](https://dev.to/yathin_chandra_649b921cc6/understanding-llm-jailbreaks-navigating-the-edge-of-ai-safety-1hgm)
-- [Pitch v1](https://dev.to/harsh_bhardwaj_809a89d3a7/pitch-v1-2197)
-- [Modern DevOps for Frontend Teams: A Lead Dev&#39;s Perspective](https://dev.to/srini_k/modern-devops-for-frontend-teams-a-lead-devs-perspective-3cp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
