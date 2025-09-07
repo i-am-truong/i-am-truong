@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [COLORS: DC3 | A COLORS SHOW](https://dev.to/music_youtube/colors-dc3-a-colors-show-3ean)
+- [IGN: Dreadcore: Locked Unit – Official Gameplay Trailer](https://dev.to/gg_news/ign-dreadcore-locked-unit-official-gameplay-trailer-4cm8)
+- [The Staging Strikes Back: Safer Emails in Laravel with Mailpit](https://dev.to/killallskywalker/the-staging-strikes-back-safer-emails-in-laravel-with-mailpit-2bp5)
+- [How to Use Semantic Versioning and Conventional Commits With Husky](https://dev.to/fedtti/how-to-use-semantic-versioning-and-conventional-commits-with-husky-1g6i)
 - [Unlocking Docker: The Not-So-Obvious Stuff Made Simple](https://dev.to/vatsalgupta25/unlocking-docker-the-not-so-obvious-stuff-made-simple-402o)
-- [Frontend Accessibility Essentials 🔥](https://dev.to/vishwark/frontend-accessibility-essentials-588i)
-- [Automating Image Generation with n8n and ComfyUI](https://dev.to/worldlinetech/automating-image-generation-with-n8n-and-comfyui-521p)
-- [Building and Deploying Kubemate: An AI-Powered Kubernetes DevOps Chatbot on AWS Elastic Beanstalk](https://dev.to/techwithhari/building-and-deploying-kubemate-an-ai-powered-kubernetes-devops-chatbot-on-aws-elastic-beanstalk-2ifo)
-- [React Native + Redux Toolkit: The Clean Way to Handle State](https://dev.to/amitkumar13/react-native-redux-toolkit-the-clean-way-to-handle-state-dof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
