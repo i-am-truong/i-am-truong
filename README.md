@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Facade Design Pattern in Python...](https://dev.to/sommukhopadhyay/facade-design-pattern-in-python-29bi)
-- [Use of Gaussian Filter to remove noise from Image](https://dev.to/sommukhopadhyay/use-of-gaussian-filter-to-remove-noise-from-image-4g6d)
-- [FFT based simple Spectrum Analyzer with Source Code](https://dev.to/sommukhopadhyay/fft-based-simple-spectrum-analyzer-with-source-code-98p)
-- [The State Design pattern in C++ using timer and notification](https://dev.to/sommukhopadhyay/the-state-design-pattern-in-c-using-timer-and-notification-bod)
-- [Building Selectorless Components: Angular&#39;s Approach to Boilerplate-Free UIs](https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29)
+- [Stop Rewriting Prompts: Meet DevPromptly 🚀](https://dev.to/fjmorant/stop-rewriting-prompts-meet-devpromptly-4fom)
+- [Java Concurrency Model - Part III - FutureTask](https://dev.to/sommukhopadhyay/java-concurrency-model-part-iii-futuretask-j3l)
+- [Breaking Changes: Why Your API Monitoring is Failing You &lpar;And How We Fixed It&rpar;](https://dev.to/mrdubey/breaking-changes-why-your-api-monitoring-is-failing-you-and-how-we-fixed-it-2ib9)
+- [Motion &amp; Theming in Svelte &lpar;Transitions, Animations, and Dark Mode&rpar;](https://dev.to/a1guy/motion-theming-in-svelte-transitions-animations-and-dark-mode-3j0k)
+- [Ever heard of Cryptographic Failure? 👀 Here’s why it’s chilling in the OWASP Top 10 😎](https://dev.to/keerthika_kadhiresan/ever-heard-of-cryptographic-failure-heres-why-its-chilling-in-the-owasp-top-10-4gib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
