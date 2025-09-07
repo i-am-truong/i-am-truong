@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Steps in Python 🚀](https://dev.to/khaoula612/my-first-steps-in-python-27ak)
 - [How to Generate PDFs from HTML with Express and PDF Echo](https://dev.to/itomasi/how-to-generate-pdfs-from-html-with-express-and-pdf-echo-2dlm)
+- [🩺 NephroPredict: Machine Learning for Chronic Kidney Disease Detection](https://dev.to/abubakar_shabbir/nephropredict-machine-learning-for-chronic-kidney-disease-detection-2nc8)
+- [Day 44: Relational Database Service in AWS](https://dev.to/udoh_deborah_b1e484c474bf/day-44-relational-database-service-in-aws-9j5)
 - [My Experience Fixing clasp Login Errors on Google Workspace](https://dev.to/yo-shi/my-experience-fixing-clasp-login-errors-on-google-workspace-3nh)
-- [Linux Repository Mirroring Made Simple](https://dev.to/thebluedrara/linux-repository-mirroring-made-simple-4gm2)
-- [Task.WhenEach in .NET: Process Tasks as They Complete](https://dev.to/morteza-jangjoo/taskwheneach-in-net-process-tasks-as-they-complete-4bja)
-- [Hack The Box - Synced &lpar;rsync&rpar;](https://dev.to/er/hack-the-box-synced-rsync-302h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
