@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security as Physics: Thinking About Networks Like Energy Systems](https://dev.to/leonardkachi/security-as-physics-thinking-about-networks-like-energy-systems-5110)
+- [Promise, Callback Hell, Synchronous and Asynchronous in Javascript](https://dev.to/vidya_varshini/promise-callback-hell-synchronous-and-asynchronous-in-javascript-21lm)
 - [Atomica- Turn Science into understandable concepts](https://dev.to/shreya111111/atomica-turn-science-into-understandable-concepts-1onj)
 - [Checkout PacGuard.](https://dev.to/sensurajit/checkout-pacguard-27aj)
 - [🧠Loop of Truth: From Loose Tricks to Structured Reasoning](https://dev.to/marcosomma/loop-of-truth-from-loose-tricks-to-structured-reasoning-2lh)
-- [Tailwind CSS + Svelte: Utility-First Styling at Scale](https://dev.to/a1guy/tailwind-css-svelte-utility-first-styling-at-scale-acb)
-- [Svelte Motion &amp; Theming Guide: Transitions, Animations, and Dark Mode Explained](https://dev.to/a1guy/svelte-motion-theming-guide-transitions-animations-and-dark-mode-explained-4e3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
