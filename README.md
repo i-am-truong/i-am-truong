@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From AI User to AI Builder: The Four Skills That Change Everything](https://dev.to/jimmyshoe85/from-ai-user-to-ai-builder-the-four-skills-that-change-everything-3hei)
+- [⚡ Optimizing Angular Signals with Smart Equality Checks](https://dev.to/romain_geffrault_10d88369/optimizing-angular-signals-with-smart-equality-checks-46ni)
+- [Working with AI: The Four Skills That Change Everything](https://dev.to/jimmyshoe85/from-ai-user-to-ai-builder-the-four-skills-that-change-everything-3hei)
 - [Conditionals in Svelte — {#if}, {:else}, and Nesting Explained](https://dev.to/a1guy/conditionals-in-svelte-if-else-and-nesting-explained-4ie3)
 - [Github&#39;s Missing Feature : Folder Download](https://dev.to/fact_king_2b3f0de5ca7b3d3/githubs-missing-feature-folder-download-4g6n)
-- [Smart Logging in .NET with Serilog](https://dev.to/gaatif/smart-logging-in-net-with-serilog-6n3)
-- [Handling Massive Excel Files in Angular: From Upload to IndexedDB with Lightning-Fast Search](https://dev.to/aniruddha_deb_ng/handling-massive-excel-files-in-angular-from-upload-to-indexeddb-with-lightning-fast-search-p8n)
+- [Serilog: Runtime Control and Auto-Elevated Logging](https://dev.to/gaatif/smart-logging-in-net-with-serilog-6n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
