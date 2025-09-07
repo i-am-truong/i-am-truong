@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tags: The Core Principles of Observability Context](https://dev.to/k4ji_dev/tags-the-core-principles-of-observability-context-1mgl)
+- [Top 5 Vacilos que Desenvolvedores Cometem em uma Crise &lpar;e como evitar&rpar;](https://dev.to/ed-wantuil/top-5-vacilos-que-desenvolvedores-cometem-em-uma-crise-e-como-evitar-13l8)
+- [GCC-Specific Tools that Every Programmer Should Know](https://dev.to/cangulmez/gcc-specific-tools-that-every-programmer-should-know-53f4)
 - [Mastering Python Modules, Packages &amp; Namespaces From Basics to Behind the Scenes](https://dev.to/anik_sikder_313/mastering-python-modules-packages-namespaces-from-basics-to-behind-the-scenes-4hno)
 - [Aard 2](https://dev.to/1prasanth0/aard-2-26ff)
-- [Apigee API Product Design](https://dev.to/mahmoudsayed96/apigee-api-product-design-4pnd)
-- [Anti-Influence Suit — Armor for the Feed](https://dev.to/viablemedia/anti-influence-suit-armor-for-the-feed-4d44)
-- [Ubuntu তে কিভাবে Adguard DNS সেটাপ করে Ads ব্লক করবেন?](https://dev.to/rironib/setup-adguard-dns-in-linux-2gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
