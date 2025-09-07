@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Reality Check: Are We Building for Comfort or for Change?](https://dev.to/jimmyshoe85/the-reality-check-are-we-building-for-comfort-or-for-change-480b)
+- [The Third Leg of the Stool: JSON](https://dev.to/jimmyshoe85/the-third-leg-of-the-stool-json-593k)
+- [The Second Leg of the Stool: Markdown](https://dev.to/jimmyshoe85/the-second-leg-of-the-stool-markdown-237f)
 - [Building PersonaPrep: An Agentic AI Coach for Real-World Social Confidence](https://dev.to/taru_gupta_7ba2975e960cee/building-personaprep-an-agentic-ai-coach-for-real-world-social-confidence-1hmm)
 - [🎭How to test Next.js SSR API &lpar;Playwright + MSW&rpar;🎭](https://dev.to/webdeveloperhyper/how-to-test-nextjs-ssr-api-playwright-msw-k65)
-- [How i created an STARTUP as an college student](https://dev.to/divyansh_tiwari/struggling-with-freelance-chaos-my-late-night-hustle-building-glamflow-as-a-cs-student-7m9)
-- [⚡ Optimizing Angular Signals with Smart Equality Checks](https://dev.to/romain_geffrault_10d88369/optimizing-angular-signals-with-smart-equality-checks-46ni)
-- [Working with AI: The Four Skills That Change Everything](https://dev.to/jimmyshoe85/from-ai-user-to-ai-builder-the-four-skills-that-change-everything-3hei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
