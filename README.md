@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Dapper vs. EF Core: Performance Showdown in 2025](https://dev.to/dev_saeid_ghaderi/dapper-vs-ef-core-performance-showdown-in-2025-4j32)
-- [What is Programming ?](https://dev.to/xetri/what-is-programming--218o)
-- [Top 5 Web Tools for URL Decode](https://dev.to/devtoolreview/top-5-web-tools-for-url-decode-2c62)
-- [Exporting Google docs to Markdown and HTML](https://dev.to/faisal_software/exporting-google-docs-to-markdown-and-html-4eno)
-- [Three Architectural Patterns for Cost Control](https://dev.to/amityadav19/three-architectural-patterns-for-cost-control-12c2)
+- [Tech Trend Blog list over 200 blogs](https://dev.to/0xkoji/tech-trend-blog-list-over-200-blogs-34ng)
+- [Draw and get judged by an AI](https://dev.to/adzhydra/million-dollar-idea-2859)
+- [Article 1 : Intro to Gen AI ,LLMS and LangChain Frameworks&lpar;Part B&rpar;](https://dev.to/raunaklallala/article-1-intro-to-gen-ai-llms-and-langchain-frameworkspart-b-1f84)
+- [IGN: Hollow Knight: Silksong - How to Get the Crest of Beast | Savage Beastfly Boss Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-the-crest-of-beast-savage-beastfly-boss-guide-k4h)
+- [I Realized I Spend 30% of My Terminal Time in Chrome Tabs](https://dev.to/alen_mangattu_24317d21636/i-realized-i-spend-30-of-my-terminal-time-in-chrome-tabs-1001)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
