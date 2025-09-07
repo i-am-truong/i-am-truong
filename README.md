@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 88: When Criticism Backfires Spectacularly](https://dev.to/casperday11/day-88-when-criticism-backfires-spectacularly-hjo)
+- [Certificates and Digital Trust: Why the Web Believes a Website](https://dev.to/naval_upadhyay/certificates-and-digital-trust-why-the-web-believes-a-website-4771)
+- [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
 - [DNS 101: The Internet’s GPS for Websites](https://dev.to/shahpershahin/dns-101-the-internets-gps-for-websites-5aoj)
 - [Why I Switched From Google Fonts CDN to Self-Hosting &lpar;and Never Looked Back&rpar;](https://dev.to/web_dev-usman/why-i-switched-from-google-fonts-cdn-to-self-hosting-and-never-looked-back-3fbh)
-- [Anatomy Illustrator AI](https://dev.to/ha3k/anatomy-illustrator-ai-2a9e)
-- [Weekly #36-2025: OpenAI Hiring, FastSearch Speed, AI Coding Reality, Trendy Hiring Risks, Illegible Work](https://dev.to/weekly/weekly-36-2025-openai-hiring-fastsearch-speed-ai-coding-reality-trendy-hiring-risks-illegible-109f)
-- [Tutorial - Building an AI Deepfake Detector Chrome Plugin](https://dev.to/aurigin/tutorial-building-an-ai-deepfake-detector-chrome-plugin-4p06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
