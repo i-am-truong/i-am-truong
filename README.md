@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding DNS: From Root Servers to resolv.conf](https://dev.to/thenanjay/understanding-dns-from-root-servers-to-resolvconf-4e6a)
 - [Getting Started with Google BigQuery: A Beginner’s Guide](https://dev.to/lovestaco/getting-started-with-google-bigquery-a-beginners-guide-3b5g)
+- [✅ *Essential Data Structures You Should Know* 🔍💻](https://dev.to/ssekabirarobertsims/essential-data-structures-you-should-know-2c1a)
+- [A Disciplined Approach to AI-Assisted Software Development](https://dev.to/varietyz/a-disciplined-approach-to-ai-assisted-software-development-3e6i)
 - [Token Payout based on Private Information: Golf Barbecue Coin &lpar;GBC&rpar;](https://dev.to/datadr1ven/token-payout-based-on-private-information-golf-barbecue-coin-gbc-38d5)
-- [DevLink: The Peer-to-Peer Toolkit for Frictionless Development](https://dev.to/guptanu/devlink-the-peer-to-peer-toolkit-for-frictionless-development-2nf0)
-- [Announcing slimcontext: A Lightweight, Model-Agnostic Chat History Compression Utility 🚀](https://dev.to/ialijr/announcing-slimcontext-a-lightweight-model-agnostic-chat-history-compression-utility-50mp)
-- [Understanding LLM Jailbreaks: Navigating the Edge of AI Safety](https://dev.to/yathin_chandra_649b921cc6/understanding-llm-jailbreaks-navigating-the-edge-of-ai-safety-1hgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
