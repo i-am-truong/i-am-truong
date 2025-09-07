@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial - Building an AI Deepfake Detector Chrome Plugin](https://dev.to/aurigin/tutorial-building-an-ai-deepfake-detector-chrome-plugin-4p06)
+- [The Algorithmic Conscience: A Real-Time Ethical and Cognitive Auditor](https://dev.to/svet_62385e9/the-algorithmic-conscience-a-real-time-ethical-and-cognitive-auditor-3165)
 - [Scraping Content for LLM](https://dev.to/shreyvijayvargiya/scraping-content-for-llm-hc9)
 - [The Midnight Launchpad](https://dev.to/joseph_martins_3ddd332012/the-midnight-launchpad-4dkk)
 - [WhatsApp Knowledge Miner: Transforming Group Chats into a Searchable Knowledge Base](https://dev.to/bigachiever/whatsapp-knowledge-miner-transforming-group-chats-into-a-searchable-knowledge-base-4e4d)
-- [How to generate PDF that supports modern CSS such as Tailwind](https://dev.to/shamsadanam/how-to-generate-pdf-that-supports-modern-css-such-as-tailwind-3h53)
-- [Unveiling the Web&#39;s Shadow: Clickjacking Threats and Defenses](https://dev.to/vjnvisakh/unveiling-the-webs-shadow-clickjacking-threats-and-defenses-3260)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
