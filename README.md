@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rick Beato: Building a Genesis Masterpiece: A Layer-by-Layer Track Analysis](https://dev.to/music_youtube/rick-beato-building-a-genesis-masterpiece-a-layer-by-layer-track-analysis-3h38)
+- [Irish-Name-Repo 2 - picoCTF &#39;19 &lpar;web&rpar;](https://dev.to/davidonlinearchive/irish-name-repo-2-picoctf-19-web-1kn)
+- [Why Apache Airflow is the Cornerstone of Modern Data Engineering](https://dev.to/augo_amos/why-apache-airflow-is-the-cornerstone-of-modern-data-engineering-bhh)
 - [Look &amp; Learn: a Google AI Multimodal Challenge Entry](https://dev.to/_bigblind/look-learn-a-google-ai-multimodal-challenge-entry-34lk)
 - [Malik&#39;s experience with code](https://dev.to/malik_daliet/maliks-experience-with-code-1oh0)
-- [Notifications in JavaScript: Introducing notify-zh 🔔](https://dev.to/xavivzla/notifications-in-javascript-introducing-notify-zh-5bi6)
-- [📰StackNews Digest](https://dev.to/asmittt_11/stacknews-digest-53f5)
-- [💓 AIHB: Giving AI a HeartBeat Through SPRL](https://dev.to/lev_goukassian_5fe7ea654a/-aihb-giving-ai-a-heartbeat-through-sprl-4ac5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
