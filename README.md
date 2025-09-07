@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is this Vibe Coding?](https://dev.to/matt_pass/is-this-vibe-coding-30e3)
-- [APIs 101: What They Are and Why They Matter](https://dev.to/devdami/apis-101-what-they-are-and-why-they-matter-9bg)
-- [Zero-Downtime Database Migration: The Definitive Guide](https://dev.to/ari-ghosh/zero-downtime-database-migration-the-definitive-guide-5672)
-- [MinIO Distributed Storage](https://dev.to/hamza_erradi/minio-distributed-storage-3237)
-- [Security as Physics: Thinking About Networks Like Energy Systems](https://dev.to/leonardkachi/security-as-physics-thinking-about-networks-like-energy-systems-5110)
+- [Scraping Content for LLM](https://dev.to/shreyvijayvargiya/scraping-content-for-llm-hc9)
+- [The Midnight Launchpad](https://dev.to/joseph_martins_3ddd332012/the-midnight-launchpad-4dkk)
+- [WhatsApp Knowledge Miner: Transforming Group Chats into a Searchable Knowledge Base](https://dev.to/bigachiever/whatsapp-knowledge-miner-transforming-group-chats-into-a-searchable-knowledge-base-4e4d)
+- [How to generate PDF that supports modern CSS such as Tailwind](https://dev.to/shamsadanam/how-to-generate-pdf-that-supports-modern-css-such-as-tailwind-3h53)
+- [Unveiling the Web&#39;s Shadow: Clickjacking Threats and Defenses](https://dev.to/vjnvisakh/unveiling-the-webs-shadow-clickjacking-threats-and-defenses-3260)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
