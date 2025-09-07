@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing JavaScript console errors with Kiro and the Playwright MCP Server](https://dev.to/iolaire/fixing-javascript-console-errors-with-kiro-and-the-playwright-mcp-server-397k)
+- [Why AI Coding Tools Get It Wrong— Understanding the Technical Limits](https://dev.to/cognix-dev/why-ai-coding-tools-get-it-wrong-understanding-the-technical-limits-38ji)
 - [VM Networking Demystified: NAT, Bridged, Host-Only, Port Forwarding, and Multi-VM Private Networks](https://dev.to/naval_upadhyay/vm-networking-demystified-nat-bridged-host-only-port-forwarding-and-multi-vm-private-networks-1hp8)
+- [A Practical Guide to Testing Association in 2 2 Tables: From Fisher’s Exact Test to the Chi-Square](https://dev.to/salmank/a-practical-guide-to-testing-association-in-2x2-tables-from-fishers-exact-test-to-the-chi-square-5hmk)
 - [Day 88: When Criticism Backfires Spectacularly](https://dev.to/casperday11/day-88-when-criticism-backfires-spectacularly-hjo)
-- [How I tried to bring Oracle/SAP/1C-style auto-generated forms into Android with Jetpack Compose + SQLite](https://dev.to/__a7876a767b/how-i-tried-to-bring-oraclesap1c-style-auto-generated-forms-into-android-with-jetpack-compose--464p)
-- [Released Chatbot Flow Design &amp; JSON Export OSS](https://dev.to/enumura1/released-chatbot-flow-design-json-export-oss-225i)
-- [Weekly Challenge: Oddly small](https://dev.to/simongreennet/weekly-challenge-oddly-small-1g9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
