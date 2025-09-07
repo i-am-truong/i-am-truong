@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Atomica- Turn Science into understandable concepts](https://dev.to/shreya111111/atomica-turn-science-into-understandable-concepts-1onj)
+- [🧠Loop of Truth: From Loose Tricks to Structured Reasoning](https://dev.to/marcosomma/loop-of-truth-from-loose-tricks-to-structured-reasoning-2lh)
+- [Tailwind CSS + Svelte: Utility-First Styling at Scale](https://dev.to/a1guy/tailwind-css-svelte-utility-first-styling-at-scale-acb)
 - [Svelte Motion &amp; Theming Guide: Transitions, Animations, and Dark Mode Explained](https://dev.to/a1guy/svelte-motion-theming-guide-transitions-animations-and-dark-mode-explained-4e3h)
 - [Closure, Fetch and Axios in Javascript](https://dev.to/vidya_varshini/closure-fetch-and-axios-in-javascript-3iii)
-- [Java Stream Gatherer Tutorial](https://dev.to/sadiul_hakim/java-stream-gatherer-tutorial-391l)
-- [Video Calls Are Harder Than They Look &lpar;Thanks, NAT!&rpar;](https://dev.to/imabhinavdev/video-calls-are-harder-than-they-look-thanks-nat-3g2f)
-- [Self Hosting Forgejo](https://dev.to/nuculabs_dev/self-hosting-forgejo-244b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
