@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Idea to Launch: How I Built an Anonymous College Confession Platform for Students](https://dev.to/rudra_kumarpandey_2bf696/from-idea-to-launch-how-i-built-an-anonymous-college-confession-platform-for-students-5886)
 - [Ataulfo: The RWA Marketplace Committed to Your Privacy](https://dev.to/bochaco_bc80539/ataulfo-the-rwa-marketplace-committed-to-your-privacy-27dd)
 - [Can We Set the Record Straight? AI, Content, and a Bit of Sanity 🙏](https://dev.to/anchildress1/can-we-set-the-record-straight-ai-content-and-a-bit-of-sanity-1inj)
 - [What is Redis Cache ?](https://dev.to/satyabrata_dd224dce47e7bc/what-is-redis-cache--435h)
 - [&quot;useMemoization&quot; in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
-- [🤖 React + Next.js Pipelines: Best Practices for Modern Projects](https://dev.to/tuna_dev/react-nextjs-pipelines-best-practices-for-modern-projects-hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
