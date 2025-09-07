@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhance the ecosystem with CompactSee: Real-Time Contract State Visualization for Midnight Blockchain](https://dev.to/george_thoppil_d0e4d9dafa/compactsee-real-time-contract-state-visualization-for-midnight-blockchain-mkd)
 - [Creational Design Patterns in Python. Part I](https://dev.to/mcheremnov/creational-design-patterns-in-python-part-i-22eh)
 - [Compact Midnight IDE](https://dev.to/0xkaleab/compact-midnight-ide-1iho)
 - [Building Effective MCP Servers: Patterns for AI Collaboration](https://dev.to/jjn1056/building-effective-mcp-servers-patterns-for-ai-collaboration-55gg)
 - [Rick Beato: Building a Genesis Masterpiece: A Layer-by-Layer Track Analysis](https://dev.to/music_youtube/rick-beato-building-a-genesis-masterpiece-a-layer-by-layer-track-analysis-3h38)
-- [Irish-Name-Repo 2 - picoCTF &#39;19 &lpar;web&rpar;](https://dev.to/davidonlinearchive/irish-name-repo-2-picoctf-19-web-1kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
