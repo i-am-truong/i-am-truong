@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [These Key Features of GraphQL make it Unique among Other API Technologies](https://dev.to/ganesh-kumar/these-key-features-of-graphql-make-it-unique-among-other-api-technologies-798)
-- [Deeper Dive into State Management in React &amp; React Native with TypeScript &lpar;2025 Edition&rpar;](https://dev.to/serifcolakel/deeper-dive-into-state-management-in-react-react-native-with-typescript-2025-edition-447)
-- [Irish-Name-Repo 1 - picoCTF &#39;19 &lpar;web&rpar;](https://dev.to/davidonlinearchive/irish-name-repo-1-picoctf-19-web-16ka)
-- [This AI Guesses Your Drawings Faster Than Your Friends Can.](https://dev.to/dirsebastian/this-ai-guesses-your-drawings-faster-than-your-friends-can-340o)
-- [What is the difference between subqueries, common table expressions &lpar;CTEs&rpar;, and stored procedures?](https://dev.to/jaywakitaa/what-is-the-difference-between-subqueries-common-table-expressions-ctes-and-stored-procedures-1m20)
+- [Migrating a Local Multi-Agent Travel System to AWS Bedrock AgentCore&lpar;Part 3&rpar;](https://dev.to/hvmathan/migrating-a-local-multi-agent-travel-system-to-aws-bedrock-agentcorepart-3-45eh)
+- [Manage your n8n workflows and API directly from PHP](https://dev.to/usmanzahidcode/manage-your-n8n-workflows-and-api-directly-from-php-no3)
+- [The Untold Story of Comet Browser](https://dev.to/dhrn/the-untold-story-of-comet-browser-1k3e)
+- [All about Big O Notation](https://dev.to/extinctsion/all-about-big-o-notation-20j8)
+- [AWS Toronto Summit 2025 - My Experience at DEV202 session](https://dev.to/aws-builders/aws-toronto-summit-2025-my-experience-at-dev202-session-29pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
