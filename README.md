@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind + Svelte &lpar;Utility-First Styling at Scale&rpar;](https://dev.to/a1guy/tailwind-svelte-utility-first-styling-at-scale-knc)
+- [AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini](https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb)
 - [Stop Rewriting Prompts: Meet DevPromptly 🚀](https://dev.to/fjmorant/stop-rewriting-prompts-meet-devpromptly-4fom)
 - [Java Concurrency Model - Part III - FutureTask](https://dev.to/sommukhopadhyay/java-concurrency-model-part-iii-futuretask-j3l)
 - [Breaking Changes: Why Your API Monitoring is Failing You &lpar;And How We Fixed It&rpar;](https://dev.to/mrdubey/breaking-changes-why-your-api-monitoring-is-failing-you-and-how-we-fixed-it-2ib9)
-- [Motion &amp; Theming in Svelte &lpar;Transitions, Animations, and Dark Mode&rpar;](https://dev.to/a1guy/motion-theming-in-svelte-transitions-animations-and-dark-mode-3j0k)
+- [Ever heard of Cryptographic Failure? 👀 Here’s why it’s chilling in the OWASP Top 10 😎](https://dev.to/keerthika_kadhiresan/ever-heard-of-cryptographic-failure-heres-why-its-chilling-in-the-owasp-top-10-4gib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
