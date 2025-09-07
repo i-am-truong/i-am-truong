@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing JavaScript console errors with Kiro and the Playwright MCP Server](https://dev.to/iolaire/fixing-javascript-console-errors-with-kiro-and-the-playwright-mcp-server-397k)
-- [Why AI Coding Tools Get It Wrong— Understanding the Technical Limits](https://dev.to/cognix-dev/why-ai-coding-tools-get-it-wrong-understanding-the-technical-limits-38ji)
-- [VM Networking Demystified: NAT, Bridged, Host-Only, Port Forwarding, and Multi-VM Private Networks](https://dev.to/naval_upadhyay/vm-networking-demystified-nat-bridged-host-only-port-forwarding-and-multi-vm-private-networks-1hp8)
-- [A Practical Guide to Testing Association in 2 2 Tables: From Fisher’s Exact Test to the Chi-Square](https://dev.to/salmank/a-practical-guide-to-testing-association-in-2x2-tables-from-fishers-exact-test-to-the-chi-square-5hmk)
-- [Day 88: When Criticism Backfires Spectacularly](https://dev.to/casperday11/day-88-when-criticism-backfires-spectacularly-hjo)
+- [Deploying a Simple App on K3S in AWS EC2 with GitHub Actions &amp; ECR](https://dev.to/mahinshanazeer/deploying-a-simple-app-on-k3s-in-aws-ec2-with-github-actions-ecr-520j)
+- [Visionary AI: Guiding Exploration with Semantic Goals](https://dev.to/arvindsundararajan/visionary-ai-guiding-exploration-with-semantic-goals-hc3)
+- [Streamlining API Development with Apidog MCP Claude Code](https://dev.to/pipipi-dev/streamlining-api-development-with-apidog-mcp-x-claude-code-5dlg)
+- [3 Tier appilcation -Day 4](https://dev.to/dev_saini_ce708cfac6b9562/3-tier-appilcation-day-4-dpb)
+- [Django Without the Mess: Repositories for Data, Services for Rules](https://dev.to/soldatov-ss/django-without-the-mess-repositories-for-data-services-for-rules-k8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
