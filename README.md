@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [📰StackNews Digest](https://dev.to/asmittt_11/stacknews-digest-53f5)
+- [💓 AIHB: Giving AI a HeartBeat Through SPRL](https://dev.to/lev_goukassian_5fe7ea654a/-aihb-giving-ai-a-heartbeat-through-sprl-4ac5)
 - [My First Steps in Python 🚀](https://dev.to/khaoula612/my-first-steps-in-python-27ak)
 - [How to Generate PDFs from HTML with Express and PDF Echo](https://dev.to/itomasi/how-to-generate-pdfs-from-html-with-express-and-pdf-echo-2dlm)
 - [🩺 NephroPredict: Machine Learning for Chronic Kidney Disease Detection](https://dev.to/abubakar_shabbir/nephropredict-machine-learning-for-chronic-kidney-disease-detection-2nc8)
-- [Day 44: Relational Database Service in AWS](https://dev.to/udoh_deborah_b1e484c474bf/day-44-relational-database-service-in-aws-9j5)
-- [My Experience Fixing clasp Login Errors on Google Workspace](https://dev.to/yo-shi/my-experience-fixing-clasp-login-errors-on-google-workspace-3nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
