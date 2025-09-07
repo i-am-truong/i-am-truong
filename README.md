@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Styling in Svelte &lpar;Scoped CSS, :global, and Class Directives&rpar;](https://dev.to/a1guy/styling-in-svelte-scoped-css-global-and-class-directives-1mna)
+- [【Vite Error Resolution】How to Fix the “vite-tsconfig-paths Not Found” Issue](https://dev.to/kazutora_hattori_66972c88/vite-error-resolution-how-to-fix-the-vite-tsconfig-paths-not-found-issue-492p)
 - [AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini](https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb)
-- [Stop Rewriting Prompts: Meet DevPromptly 🚀](https://dev.to/fjmorant/stop-rewriting-prompts-meet-devpromptly-4fom)
-- [Java Concurrency Model - Part III - FutureTask](https://dev.to/sommukhopadhyay/java-concurrency-model-part-iii-futuretask-j3l)
-- [Breaking Changes: Why Your API Monitoring is Failing You &lpar;And How We Fixed It&rpar;](https://dev.to/mrdubey/breaking-changes-why-your-api-monitoring-is-failing-you-and-how-we-fixed-it-2ib9)
-- [Ever heard of Cryptographic Failure? 👀 Here’s why it’s chilling in the OWASP Top 10 😎](https://dev.to/keerthika_kadhiresan/ever-heard-of-cryptographic-failure-heres-why-its-chilling-in-the-owasp-top-10-4gib)
+- [How I help a huge enterprise React project run dev 5x times faster](https://dev.to/tuannq/how-i-help-a-huge-enterprise-react-project-run-dev-5x-times-faster-2mj4)
+- [DevOps Beyond Pipelines: Why System, Application, and Design Engineering Are the Real Superpowers in the Cloud Era”](https://dev.to/srinivasamcjf/devops-beyond-pipelines-why-system-application-and-design-engineering-are-the-real-superpowers-58kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
