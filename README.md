@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Migração do Java 11 para Java 17: Benefícios e Trade-offs com Evidências Técnicas](https://dev.to/diegobrandao/migracao-do-java-11-para-java-17-beneficios-e-trade-offs-com-evidencias-tecnicas-302n)
 - [Reto 2 - El caso de las tablas no tan iguales 📄🔍](https://dev.to/eapl/reto-2-el-caso-de-las-tablas-no-tan-iguales-2e9a)
-- [Kuzur Programming Language](https://dev.to/rahulkuzur/kuzur-programming-language-g0p)
-- [Understanding DNS: From Root Servers to resolv.conf](https://dev.to/thenanjay/understanding-dns-from-root-servers-to-resolvconf-4e6a)
-- [Getting Started with Google BigQuery: A Beginner’s Guide](https://dev.to/lovestaco/getting-started-with-google-bigquery-a-beginners-guide-3b5g)
-- [✅ *Essential Data Structures You Should Know* 🔍💻](https://dev.to/ssekabirarobertsims/essential-data-structures-you-should-know-2c1a)
+- [La persona con mentalidad de limpia vidrios llega más lejos](https://dev.to/aletorres1102/la-persona-con-mentalidad-de-limpia-vidrios-llega-mas-lejos-38fl)
+- [What is AWS — and 6 Key Benefits of the AWS Cloud &lpar;Explained Simply&rpar;](https://dev.to/kalyandev/what-is-aws-and-6-key-benefits-of-the-aws-cloud-explained-simply-3k5p)
+- [The Guide into Strings in C for Dev who wanted to learns C - Clear Rules, Mutation, Reassignment &amp; Ownership, No Surprises](https://dev.to/lwdjohari/strings-in-c-clear-rules-mutation-reassignment-ownership-no-surprises-2b66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
