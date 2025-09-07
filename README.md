@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anti-Influence Suit — Armor for the Feed](https://dev.to/viablemedia/anti-influence-suit-armor-for-the-feed-4d44)
+- [Ubuntu তে কিভাবে Adguard DNS সেটাপ করে Ads ব্লক করবেন?](https://dev.to/rironib/setup-adguard-dns-in-linux-2gd)
 - [How Our Google Drive Practices Were Walking a Dangerous Line](https://dev.to/yo-shi/how-our-google-drive-practices-were-walking-a-dangerous-line-3ba5)
 - [Използвай силата на “flow”, за да не усещаш как минава времето, когато програмираш &lpar;дори и на работа&rpar;!](https://dev.to/dvt32/izpolzvai-silata-na-flow-za-da-nie-usieshchash-kak-minava-vriemieto-koghato-proghramirash-dori-i-na-5ekg)
 - [Mastering Email Rate Limits — A Deep Dive into Resend API and Cloud Run Debugging](https://dev.to/dalenguyen/mastering-email-rate-limits-a-deep-dive-into-resend-api-and-cloud-run-debugging-3973)
-- [Участвай в състезания за програмиране &lpar;олимпиади, hackathons и други&rpar;!](https://dev.to/dvt32/uchastvai-v-sstiezaniia-za-proghramiranie-olimpiadi-hackathons-i-drughi-4jnp)
-- [🚀 I built SecureGen – a lightweight password generator in JavaScript](https://dev.to/adools/i-built-securegen-a-lightweight-password-generator-in-javascript-2145)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
