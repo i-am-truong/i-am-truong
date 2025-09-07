@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Simple App on K3S in AWS EC2 with GitHub Actions &amp; ECR](https://dev.to/mahinshanazeer/deploying-a-simple-app-on-k3s-in-aws-ec2-with-github-actions-ecr-520j)
-- [Visionary AI: Guiding Exploration with Semantic Goals](https://dev.to/arvindsundararajan/visionary-ai-guiding-exploration-with-semantic-goals-hc3)
-- [Streamlining API Development with Apidog MCP Claude Code](https://dev.to/pipipi-dev/streamlining-api-development-with-apidog-mcp-x-claude-code-5dlg)
-- [3 Tier appilcation -Day 4](https://dev.to/dev_saini_ce708cfac6b9562/3-tier-appilcation-day-4-dpb)
-- [Django Without the Mess: Repositories for Data, Services for Rules](https://dev.to/soldatov-ss/django-without-the-mess-repositories-for-data-services-for-rules-k8e)
+- [Three &lpar;3&rpar; Tips for efficient SQL Queries](https://dev.to/tkouleris/three-3-tips-for-efficient-sql-queries-17e3)
+- [Source Fidelity Playbook — Catch AI&#39;s Fake Citations in 90 Seconds](https://dev.to/viablemedia/source-fidelity-playbook-catch-ais-fake-citations-in-90-seconds-2jen)
+- [Deploying Docling to AWS ECS: A Complete Guide](https://dev.to/bikash119/deploying-docling-to-aws-ecs-a-complete-guide-o69)
+- [Foundation – Networking &amp; IAM](https://dev.to/bikash119/foundation-networking-iam-1pc9)
+- [IAM Roles &amp; Instance Profiles](https://dev.to/bikash119/iam-roles-instance-profiles-4fkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
