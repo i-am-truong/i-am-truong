@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How React Native Talks to Your iPhone and Android… And How It’s Changed](https://dev.to/biswasprasana001/how-react-native-talks-to-your-iphone-and-android-and-how-its-changed-4jn1)
+- [Start ROS2 Today: What Are Recommended Steps?](https://dev.to/robotisim_76f72fc9b6cb/start-ros2-today-what-are-recommended-steps-3j96)
+- [Fixing AI Amnesia: MeridianDB’s Answer to Costly Training and Memory Loss](https://dev.to/araldhafeeri/fixing-ai-amnesia-meridiandbs-answer-to-costly-training-and-memory-loss-3l2p)
 - [From Idea to Launch: How I Built an Anonymous College Confession Platform for Students](https://dev.to/rudra_kumarpandey_2bf696/from-idea-to-launch-how-i-built-an-anonymous-college-confession-platform-for-students-5886)
-- [Ataulfo: The RWA Marketplace Committed to Your Privacy](https://dev.to/bochaco_bc80539/ataulfo-the-rwa-marketplace-committed-to-your-privacy-27dd)
-- [Can We Set the Record Straight? AI, Content, and a Bit of Sanity 🙏](https://dev.to/anchildress1/can-we-set-the-record-straight-ai-content-and-a-bit-of-sanity-1inj)
-- [What is Redis Cache ?](https://dev.to/satyabrata_dd224dce47e7bc/what-is-redis-cache--435h)
-- [&quot;useMemoization&quot; in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
+- [Now it&#39;s time to design the book cover](https://dev.to/ha3k/now-its-time-to-design-the-book-cover-2l2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
