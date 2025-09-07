@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This AI Guesses Your Drawings Faster Than Your Friends Can.](https://dev.to/dirsebastian/this-ai-guesses-your-drawings-faster-than-your-friends-can-340o)
+- [What is the difference between subqueries, common table expressions &lpar;CTEs&rpar;, and stored procedures?](https://dev.to/jaywakitaa/what-is-the-difference-between-subqueries-common-table-expressions-ctes-and-stored-procedures-1m20)
+- [100 Days of DevOps: Day 35](https://dev.to/wycliffealphus/100-days-of-devops-day-35-135e)
+- [Advanced Seaborn: Facets, Correlations &amp; Pro Styling](https://dev.to/niveshbansal07/advanced-seaborn-facets-correlations-pro-styling-4jgo)
 - [COLORS: DC3 | A COLORS SHOW](https://dev.to/music_youtube/colors-dc3-a-colors-show-3ean)
-- [IGN: Dreadcore: Locked Unit – Official Gameplay Trailer](https://dev.to/gg_news/ign-dreadcore-locked-unit-official-gameplay-trailer-4cm8)
-- [The Staging Strikes Back: Safer Emails in Laravel with Mailpit](https://dev.to/killallskywalker/the-staging-strikes-back-safer-emails-in-laravel-with-mailpit-2bp5)
-- [How to Use Semantic Versioning and Conventional Commits With Husky](https://dev.to/fedtti/how-to-use-semantic-versioning-and-conventional-commits-with-husky-1g6i)
-- [Unlocking Docker: The Not-So-Obvious Stuff Made Simple](https://dev.to/vatsalgupta25/unlocking-docker-the-not-so-obvious-stuff-made-simple-402o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
