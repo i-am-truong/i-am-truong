@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My FIRST EVER PORTFOLIO website](https://dev.to/wleahk98/my-first-ever-portfolio-website-2na2)
-- [WordPress admin menu editor - Control Dashboard - No Plugin](https://dev.to/jemeeroy/wordpress-admin-menu-editor-2peb)
-- [What I Learned Building Taco Empleos](https://dev.to/sebastian_arielbonetti_8/what-i-learned-building-taco-empleos-p7d)
-- [Three &lpar;3&rpar; Tips for efficient SQL Queries](https://dev.to/tkouleris/three-3-tips-for-efficient-sql-queries-17e3)
-- [Source Fidelity Playbook — Catch AI&#39;s Fake Citations in 90 Seconds](https://dev.to/viablemedia/source-fidelity-playbook-catch-ais-fake-citations-in-90-seconds-2jen)
+- [“When Not to Use useMemo, useCallback, and useReducer in React”](https://dev.to/dani_orooji_d22ad887a00f4/when-not-to-use-usememo-usecallback-and-usereducer-in-react-18cc)
+- [Notes on S3 Presigned URL Expiration](https://dev.to/zhizhiarv/important-notes-on-s3-presigned-url-expiration-3ga9)
+- [13 Best AI Tools Every Developer Should Use in 2025 🤖⚡](https://dev.to/kamrul_arafin/13-best-ai-tools-every-developer-should-use-in-2025-lmi)
+- [From $1,250 to $21.60: How We Achieved 98.3% Cost Reduction with AWS Multi-Region Infrastructure](https://dev.to/cloudwithharry_v26/from-1250-to-2160-how-we-achieved-983-cost-reduction-with-aws-multi-region-infrastructure-4koj)
+- [Java Code Review Checklist: Best Practices for Clean and Maintainable Code](https://dev.to/kavitha_pazhanee_034b29ef/java-code-review-checklist-best-practices-for-clean-and-maintainable-code-4if0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
