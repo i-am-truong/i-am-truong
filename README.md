@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Early Feedback on “Build a Reasoning Model &lpar;From Scratch&rpar;”](https://dev.to/aairom/early-feedback-on-build-a-reasoning-model-from-scratch-h4)
+- [The Birth of Python](https://dev.to/sushan/the-birth-of-python-9fk)
+- [⚡ Transform Any Notes Into Visual + Audio Learning Aids with Google AI Studio](https://dev.to/makendrang/transform-any-notes-into-visual-audio-learning-aids-with-google-ai-studio-2c2f)
+- [💡 Mastering `Object.assign&lpar;&rpar;` in JavaScript](https://dev.to/usama_dev/mastering-objectassign-in-javascript-2jo5)
 - [My views on future of manual testing in the age of AI](https://dev.to/vidhyarjun/my-views-on-future-of-manual-testing-in-the-age-of-ai-e09)
-- [“When Not to Use useMemo, useCallback, and useReducer in React”](https://dev.to/dani_orooji_d22ad887a00f4/when-not-to-use-usememo-usecallback-and-usereducer-in-react-18cc)
-- [Notes on S3 Presigned URL Expiration](https://dev.to/zhizhiarv/important-notes-on-s3-presigned-url-expiration-3ga9)
-- [13 Best AI Tools Every Developer Should Use in 2025 🤖⚡](https://dev.to/kamrul_arafin/13-best-ai-tools-every-developer-should-use-in-2025-lmi)
-- [From $1,250 to $21.60: How We Achieved 98.3% Cost Reduction with AWS Multi-Region Infrastructure](https://dev.to/cloudwithharry_v26/from-1250-to-2160-how-we-achieved-983-cost-reduction-with-aws-multi-region-infrastructure-4koj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
