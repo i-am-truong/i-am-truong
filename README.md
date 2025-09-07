@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t let your database schema become your API contract](https://dev.to/thanmatt/dont-let-your-database-schema-become-your-api-contract-2nke)
-- [Early Feedback on “Build a Reasoning Model &lpar;From Scratch&rpar;”](https://dev.to/aairom/early-feedback-on-build-a-reasoning-model-from-scratch-h4)
-- [The Birth of Python](https://dev.to/sushan/the-birth-of-python-9fk)
-- [⚡ Transform Any Notes Into Visual + Audio Learning Aids with Google AI Studio](https://dev.to/makendrang/transform-any-notes-into-visual-audio-learning-aids-with-google-ai-studio-2c2f)
-- [💡 Mastering `Object.assign&lpar;&rpar;` in JavaScript](https://dev.to/usama_dev/mastering-objectassign-in-javascript-2jo5)
+- [Mastering Email Rate Limits — A Deep Dive into Resend API and Cloud Run Debugging](https://dev.to/dalenguyen/mastering-email-rate-limits-a-deep-dive-into-resend-api-and-cloud-run-debugging-3973)
+- [Участвай в състезания за програмиране &lpar;олимпиади, hackathons и други&rpar;!](https://dev.to/dvt32/uchastvai-v-sstiezaniia-za-proghramiranie-olimpiadi-hackathons-i-drughi-4jnp)
+- [🚀 I built SecureGen – a lightweight password generator in JavaScript](https://dev.to/adools/i-built-securegen-a-lightweight-password-generator-in-javascript-2145)
+- [[Boost]](https://dev.to/devpromptly/-25oo)
+- [Моят YouTube канал за софтуерно инженерство и soft skills](https://dev.to/dvt32/moiat-youtube-kanal-za-softuierno-inzhienierstvo-i-soft-skills-ela)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
