@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migração do Java 11 para Java 17: Benefícios e Trade-offs com Evidências Técnicas](https://dev.to/diegobrandao/migracao-do-java-11-para-java-17-beneficios-e-trade-offs-com-evidencias-tecnicas-302n)
-- [Reto 2 - El caso de las tablas no tan iguales 📄🔍](https://dev.to/eapl/reto-2-el-caso-de-las-tablas-no-tan-iguales-2e9a)
-- [La persona con mentalidad de limpia vidrios llega más lejos](https://dev.to/aletorres1102/la-persona-con-mentalidad-de-limpia-vidrios-llega-mas-lejos-38fl)
-- [What is AWS — and 6 Key Benefits of the AWS Cloud &lpar;Explained Simply&rpar;](https://dev.to/kalyandev/what-is-aws-and-6-key-benefits-of-the-aws-cloud-explained-simply-3k5p)
-- [The Guide into Strings in C for Dev who wanted to learns C - Clear Rules, Mutation, Reassignment &amp; Ownership, No Surprises](https://dev.to/lwdjohari/strings-in-c-clear-rules-mutation-reassignment-ownership-no-surprises-2b66)
+- [Can We Set the Record Straight? AI, Content, and a Bit of Sanity 🙏](https://dev.to/anchildress1/can-we-set-the-record-straight-ai-content-and-a-bit-of-sanity-1inj)
+- [What is Redis Cache ?](https://dev.to/satyabrata_dd224dce47e7bc/what-is-redis-cache--435h)
+- [&quot;useMemoization&quot; in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
+- [🤖 React + Next.js Pipelines: Best Practices for Modern Projects](https://dev.to/tuna_dev/react-nextjs-pipelines-best-practices-for-modern-projects-hb)
+- [🤖 React + Next.js Pipelines: Best Practices for Modern Projects](https://dev.to/tuna_dev/react-nextjs-pipelines-best-practices-for-modern-projects-28ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
