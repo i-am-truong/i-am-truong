@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anatomy Illustrator AI](https://dev.to/ha3k/anatomy-illustrator-ai-2a9e)
+- [Weekly #36-2025: OpenAI Hiring, FastSearch Speed, AI Coding Reality, Trendy Hiring Risks, Illegible Work](https://dev.to/weekly/weekly-36-2025-openai-hiring-fastsearch-speed-ai-coding-reality-trendy-hiring-risks-illegible-109f)
 - [Tutorial - Building an AI Deepfake Detector Chrome Plugin](https://dev.to/aurigin/tutorial-building-an-ai-deepfake-detector-chrome-plugin-4p06)
 - [The Algorithmic Conscience: A Real-Time Ethical and Cognitive Auditor](https://dev.to/svet_62385e9/the-algorithmic-conscience-a-real-time-ethical-and-cognitive-auditor-3165)
 - [Scraping Content for LLM](https://dev.to/shreyvijayvargiya/scraping-content-for-llm-hc9)
-- [The Midnight Launchpad](https://dev.to/joseph_martins_3ddd332012/the-midnight-launchpad-4dkk)
-- [WhatsApp Knowledge Miner: Transforming Group Chats into a Searchable Knowledge Base](https://dev.to/bigachiever/whatsapp-knowledge-miner-transforming-group-chats-into-a-searchable-knowledge-base-4e4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
