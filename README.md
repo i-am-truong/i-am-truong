@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Python Modules, Packages &amp; Namespaces From Basics to Behind the Scenes](https://dev.to/anik_sikder_313/mastering-python-modules-packages-namespaces-from-basics-to-behind-the-scenes-4hno)
 - [Aard 2](https://dev.to/1prasanth0/aard-2-26ff)
 - [Apigee API Product Design](https://dev.to/mahmoudsayed96/apigee-api-product-design-4pnd)
 - [Anti-Influence Suit — Armor for the Feed](https://dev.to/viablemedia/anti-influence-suit-armor-for-the-feed-4d44)
 - [Ubuntu তে কিভাবে Adguard DNS সেটাপ করে Ads ব্লক করবেন?](https://dev.to/rironib/setup-adguard-dns-in-linux-2gd)
-- [How Our Google Drive Practices Were Walking a Dangerous Line](https://dev.to/yo-shi/how-our-google-drive-practices-were-walking-a-dangerous-line-3ba5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
