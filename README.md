@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Loops in Svelte — {#each}, Keys, and Building a Todo App](https://dev.to/a1guy/loops-in-svelte-each-keys-and-building-a-todo-app-3p6d)
-- [The Fourth Leg of the Stool: JavaScript](https://dev.to/jimmyshoe85/the-fourth-leg-of-the-stool-javascript-3ggj)
-- [The Reality Check: Are We Building for Comfort or for Change?](https://dev.to/jimmyshoe85/the-reality-check-are-we-building-for-comfort-or-for-change-480b)
-- [The Third Leg of the Stool: JSON](https://dev.to/jimmyshoe85/the-third-leg-of-the-stool-json-593k)
-- [The Second Leg of the Stool: Markdown](https://dev.to/jimmyshoe85/the-second-leg-of-the-stool-markdown-237f)
+- [Framepack AI](https://dev.to/leo_king_25a8aa998a261145/framepack-ai-28h1)
+- [Building a MAC Address Changer in Python: My System-Level Networking Journey](https://dev.to/trifalic/building-a-mac-address-changer-in-python-my-system-level-networking-journey-27p3)
+- [Python Selenium architecture](https://dev.to/namrata_saha_f82d00e587b0/python-selenium-architecture-4ehj)
+- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
+- [Announcing The Singularity Workshop: A New FSM API for Unity](https://dev.to/trent_best_ca8617e4911baf/announcing-the-singularity-workshop-a-new-fsm-api-for-unity-48np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
