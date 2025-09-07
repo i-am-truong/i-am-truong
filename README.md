@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevLink: The Peer-to-Peer Toolkit for Frictionless Development](https://dev.to/guptanu/devlink-the-peer-to-peer-toolkit-for-frictionless-development-2nf0)
+- [Announcing slimcontext: A Lightweight, Model-Agnostic Chat History Compression Utility 🚀](https://dev.to/ialijr/announcing-slimcontext-a-lightweight-model-agnostic-chat-history-compression-utility-50mp)
+- [Understanding LLM Jailbreaks: Navigating the Edge of AI Safety](https://dev.to/yathin_chandra_649b921cc6/understanding-llm-jailbreaks-navigating-the-edge-of-ai-safety-1hgm)
 - [Pitch v1](https://dev.to/harsh_bhardwaj_809a89d3a7/pitch-v1-2197)
 - [Modern DevOps for Frontend Teams: A Lead Dev&#39;s Perspective](https://dev.to/srini_k/modern-devops-for-frontend-teams-a-lead-devs-perspective-3cp8)
-- [Using Vue.js Directives to build a Cryptocurrency &lpar;web3, DEfi&rpar; Interface.](https://dev.to/dunia/using-vuejs-directives-to-build-a-cryptocurrency-web3-defi-interface-552m)
-- [Migrating a Local Multi-Agent Travel System to AWS Bedrock AgentCore&lpar;Part 3&rpar;](https://dev.to/aws-builders/migrating-a-local-multi-agent-travel-system-to-aws-bedrock-agentcorepart-3-45eh)
-- [Manage your n8n workflows and API directly from PHP](https://dev.to/usmanzahidcode/manage-your-n8n-workflows-and-api-directly-from-php-no3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
