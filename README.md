@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DNS 101: The Internet’s GPS for Websites](https://dev.to/shahpershahin/dns-101-the-internets-gps-for-websites-5aoj)
+- [Why I Switched From Google Fonts CDN to Self-Hosting &lpar;and Never Looked Back&rpar;](https://dev.to/web_dev-usman/why-i-switched-from-google-fonts-cdn-to-self-hosting-and-never-looked-back-3fbh)
 - [Anatomy Illustrator AI](https://dev.to/ha3k/anatomy-illustrator-ai-2a9e)
 - [Weekly #36-2025: OpenAI Hiring, FastSearch Speed, AI Coding Reality, Trendy Hiring Risks, Illegible Work](https://dev.to/weekly/weekly-36-2025-openai-hiring-fastsearch-speed-ai-coding-reality-trendy-hiring-risks-illegible-109f)
 - [Tutorial - Building an AI Deepfake Detector Chrome Plugin](https://dev.to/aurigin/tutorial-building-an-ai-deepfake-detector-chrome-plugin-4p06)
-- [The Algorithmic Conscience: A Real-Time Ethical and Cognitive Auditor](https://dev.to/svet_62385e9/the-algorithmic-conscience-a-real-time-ethical-and-cognitive-auditor-3165)
-- [Scraping Content for LLM](https://dev.to/shreyvijayvargiya/scraping-content-for-llm-hc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
