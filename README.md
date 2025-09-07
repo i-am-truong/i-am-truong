@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t let your database schema become your API contract](https://dev.to/thanmatt/dont-let-your-database-schema-become-your-api-contract-2nke)
 - [Early Feedback on “Build a Reasoning Model &lpar;From Scratch&rpar;”](https://dev.to/aairom/early-feedback-on-build-a-reasoning-model-from-scratch-h4)
 - [The Birth of Python](https://dev.to/sushan/the-birth-of-python-9fk)
 - [⚡ Transform Any Notes Into Visual + Audio Learning Aids with Google AI Studio](https://dev.to/makendrang/transform-any-notes-into-visual-audio-learning-aids-with-google-ai-studio-2c2f)
 - [💡 Mastering `Object.assign&lpar;&rpar;` in JavaScript](https://dev.to/usama_dev/mastering-objectassign-in-javascript-2jo5)
-- [My views on future of manual testing in the age of AI](https://dev.to/vidhyarjun/my-views-on-future-of-manual-testing-in-the-age-of-ai-e09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
