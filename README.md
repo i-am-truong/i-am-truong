@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Framepack AI](https://dev.to/leo_king_25a8aa998a261145/framepack-ai-28h1)
-- [Building a MAC Address Changer in Python: My System-Level Networking Journey](https://dev.to/trifalic/building-a-mac-address-changer-in-python-my-system-level-networking-journey-27p3)
-- [Python Selenium architecture](https://dev.to/namrata_saha_f82d00e587b0/python-selenium-architecture-4ehj)
-- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
-- [Announcing The Singularity Workshop: A New FSM API for Unity](https://dev.to/trent_best_ca8617e4911baf/announcing-the-singularity-workshop-a-new-fsm-api-for-unity-48np)
+- [Decorator Design Pattern in Python](https://dev.to/sommukhopadhyay/decorator-design-pattern-in-python-1j61)
+- [Iterator Design Pattern in Python...](https://dev.to/sommukhopadhyay/iterator-design-pattern-in-python-3663)
+- [5 Tiny Developer Productivity Hacks That Saved Me Hours](https://dev.to/javediqbal8381/5-tiny-developer-productivity-hacks-that-saved-me-hours-1fed)
+- [Strategy Design Pattern in Rust...](https://dev.to/sommukhopadhyay/strategy-design-pattern-in-rust-56d7)
+- [Technical breakdown of My Feedback Sass application](https://dev.to/prashantswarop9/technical-breakdown-of-my-feedback-sass-application-3o4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
