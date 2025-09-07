@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Loops in Svelte — {#each}, Keys, and Building a Todo App](https://dev.to/a1guy/loops-in-svelte-each-keys-and-building-a-todo-app-3p6d)
+- [The Fourth Leg of the Stool: JavaScript](https://dev.to/jimmyshoe85/the-fourth-leg-of-the-stool-javascript-3ggj)
 - [The Reality Check: Are We Building for Comfort or for Change?](https://dev.to/jimmyshoe85/the-reality-check-are-we-building-for-comfort-or-for-change-480b)
 - [The Third Leg of the Stool: JSON](https://dev.to/jimmyshoe85/the-third-leg-of-the-stool-json-593k)
 - [The Second Leg of the Stool: Markdown](https://dev.to/jimmyshoe85/the-second-leg-of-the-stool-markdown-237f)
-- [Building PersonaPrep: An Agentic AI Coach for Real-World Social Confidence](https://dev.to/taru_gupta_7ba2975e960cee/building-personaprep-an-agentic-ai-coach-for-real-world-social-confidence-1hmm)
-- [🎭How to test Next.js SSR API &lpar;Playwright + MSW&rpar;🎭](https://dev.to/webdeveloperhyper/how-to-test-nextjs-ssr-api-playwright-msw-k65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
