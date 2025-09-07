@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Styling in Svelte &lpar;Scoped CSS, :global, and Class Directives&rpar;](https://dev.to/a1guy/styling-in-svelte-scoped-css-global-and-class-directives-1mna)
-- [【Vite Error Resolution】How to Fix the “vite-tsconfig-paths Not Found” Issue](https://dev.to/kazutora_hattori_66972c88/vite-error-resolution-how-to-fix-the-vite-tsconfig-paths-not-found-issue-492p)
-- [AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini](https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb)
-- [How I help a huge enterprise React project run dev 5x times faster](https://dev.to/tuannq/how-i-help-a-huge-enterprise-react-project-run-dev-5x-times-faster-2mj4)
-- [DevOps Beyond Pipelines: Why System, Application, and Design Engineering Are the Real Superpowers in the Cloud Era”](https://dev.to/srinivasamcjf/devops-beyond-pipelines-why-system-application-and-design-engineering-are-the-real-superpowers-58kk)
+- [Svelte Motion &amp; Theming Guide: Transitions, Animations, and Dark Mode Explained](https://dev.to/a1guy/svelte-motion-theming-guide-transitions-animations-and-dark-mode-explained-4e3h)
+- [Closure, Fetch and Axios in Javascript](https://dev.to/vidya_varshini/closure-fetch-and-axios-in-javascript-3iii)
+- [Java Stream Gatherer Tutorial](https://dev.to/sadiul_hakim/java-stream-gatherer-tutorial-391l)
+- [Video Calls Are Harder Than They Look &lpar;Thanks, NAT!&rpar;](https://dev.to/imabhinavdev/video-calls-are-harder-than-they-look-thanks-nat-3g2f)
+- [Self Hosting Forgejo](https://dev.to/nuculabs_dev/self-hosting-forgejo-244b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
