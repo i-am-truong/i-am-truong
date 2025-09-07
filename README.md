@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VM Networking Demystified: NAT, Bridged, Host-Only, Port Forwarding, and Multi-VM Private Networks](https://dev.to/naval_upadhyay/vm-networking-demystified-nat-bridged-host-only-port-forwarding-and-multi-vm-private-networks-1hp8)
 - [Day 88: When Criticism Backfires Spectacularly](https://dev.to/casperday11/day-88-when-criticism-backfires-spectacularly-hjo)
 - [How I tried to bring Oracle/SAP/1C-style auto-generated forms into Android with Jetpack Compose + SQLite](https://dev.to/__a7876a767b/how-i-tried-to-bring-oraclesap1c-style-auto-generated-forms-into-android-with-jetpack-compose--464p)
 - [Released Chatbot Flow Design &amp; JSON Export OSS](https://dev.to/enumura1/released-chatbot-flow-design-json-export-oss-225i)
 - [Weekly Challenge: Oddly small](https://dev.to/simongreennet/weekly-challenge-oddly-small-1g9o)
-- [Horizon World - Maze Runner - Remixable - How to Guide](https://dev.to/lnationorg/horizon-world-maze-runner-remixable-how-to-guide-4odk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
