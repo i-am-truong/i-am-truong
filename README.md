@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is this Vibe Coding?](https://dev.to/matt_pass/is-this-vibe-coding-30e3)
 - [Zero-Downtime Database Migration: The Definitive Guide](https://dev.to/ari-ghosh/zero-downtime-database-migration-the-definitive-guide-5672)
 - [Security as Physics: Thinking About Networks Like Energy Systems](https://dev.to/leonardkachi/security-as-physics-thinking-about-networks-like-energy-systems-5110)
 - [Promise, Callback Hell, Synchronous and Asynchronous in Javascript](https://dev.to/vidya_varshini/promise-callback-hell-synchronous-and-asynchronous-in-javascript-21lm)
 - [Atomica- Turn Science into understandable concepts](https://dev.to/shreya111111/atomica-turn-science-into-understandable-concepts-1onj)
-- [Checkout PacGuard.](https://dev.to/sensurajit/checkout-pacguard-27aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
