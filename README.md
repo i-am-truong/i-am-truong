@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Malik&#39;s experience with code](https://dev.to/malik_daliet/maliks-experience-with-code-1oh0)
+- [Notifications in JavaScript: Introducing notify-zh 🔔](https://dev.to/xavivzla/notifications-in-javascript-introducing-notify-zh-5bi6)
 - [📰StackNews Digest](https://dev.to/asmittt_11/stacknews-digest-53f5)
 - [💓 AIHB: Giving AI a HeartBeat Through SPRL](https://dev.to/lev_goukassian_5fe7ea654a/-aihb-giving-ai-a-heartbeat-through-sprl-4ac5)
 - [My First Steps in Python 🚀](https://dev.to/khaoula612/my-first-steps-in-python-27ak)
-- [How to Generate PDFs from HTML with Express and PDF Echo](https://dev.to/itomasi/how-to-generate-pdfs-from-html-with-express-and-pdf-echo-2dlm)
-- [🩺 NephroPredict: Machine Learning for Chronic Kidney Disease Detection](https://dev.to/abubakar_shabbir/nephropredict-machine-learning-for-chronic-kidney-disease-detection-2nc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
