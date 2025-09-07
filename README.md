@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Day 88: When Criticism Backfires Spectacularly](https://dev.to/casperday11/day-88-when-criticism-backfires-spectacularly-hjo)
-- [Certificates and Digital Trust: Why the Web Believes a Website](https://dev.to/naval_upadhyay/certificates-and-digital-trust-why-the-web-believes-a-website-4771)
-- [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
-- [DNS 101: The Internet’s GPS for Websites](https://dev.to/shahpershahin/dns-101-the-internets-gps-for-websites-5aoj)
-- [Why I Switched From Google Fonts CDN to Self-Hosting &lpar;and Never Looked Back&rpar;](https://dev.to/web_dev-usman/why-i-switched-from-google-fonts-cdn-to-self-hosting-and-never-looked-back-3fbh)
+- [How I tried to bring Oracle/SAP/1C-style auto-generated forms into Android with Jetpack Compose + SQLite](https://dev.to/__a7876a767b/how-i-tried-to-bring-oraclesap1c-style-auto-generated-forms-into-android-with-jetpack-compose--464p)
+- [Released Chatbot Flow Design &amp; JSON Export OSS](https://dev.to/enumura1/released-chatbot-flow-design-json-export-oss-225i)
+- [Weekly Challenge: Oddly small](https://dev.to/simongreennet/weekly-challenge-oddly-small-1g9o)
+- [Horizon World - Maze Runner - Remixable - How to Guide](https://dev.to/lnationorg/horizon-world-maze-runner-remixable-how-to-guide-4odk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
