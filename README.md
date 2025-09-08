@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Bloom Filters: The Fast &amp; Memory-Efficient Way to Check Membership](https://dev.to/vipra_tech_solutions/bloom-filters-the-fast-memory-efficient-way-to-check-membership-5hee)
-- [Dapp-enhance-system-privacy](https://dev.to/rushikesh_pundkar_913318c/dapp-enhance-system-privacy-373a)
-- [🛡️ Data quality, SQL, duckdb and http_client on CI🦆](https://dev.to/adriens/data-quality-sql-duckdb-and-httpclient-on-ci-22)
-- [Monitoring in the Age of Complexity: 5 Assumptions CIOs Need to Rethink](https://dev.to/catchpoint/monitoring-in-the-age-of-complexity-5-assumptions-cios-need-to-rethink-1gh4)
-- [Prove Your Health Status, Not Your Identity: Building ZK-VCR on Midnight](https://dev.to/sarthak_bhardwaj_05aba55d/prove-your-health-status-not-your-identity-building-zk-vcr-on-midnight-1l01)
+- [Deploying GPU-Enabled ECS EC2 Instances with Auto Scaling Groups and Launch Templates](https://dev.to/bikash119/deploying-gpu-enabled-ecs-ec2-instances-with-auto-scaling-groups-and-launch-templates-569l)
+- [Why Micro Animations in UI Design Create a Better User Experience](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-micro-animations-in-ui-design-create-a-better-user-experience-38dg)
+- [OxyCollect: The Pokémon Go of plastic litter tracking. Snap. Track. Collect.](https://dev.to/oxycollect/oxycollect-the-pokemon-go-of-plastic-litter-tracking-snap-track-collect-46m4)
+- [Being a solopreneur means wearing all the hats — CTO, programmer, strategist, team leader, creator. The challenge? There are only 24 hours in a day. That’s why solopreneurs who embrace AI as a silent partner are able to compete with teams 10x their size.](https://dev.to/jaideepparashar/being-a-solopreneur-means-wearing-all-the-hats-cto-programmer-strategist-team-leader-d6f)
+- [Debug-Free Mondays: How a 10-Minute Sunday Habit Can Cut Your Bug Reports by 70%](https://dev.to/teamcamp/debug-free-mondays-how-a-10-minute-sunday-habit-can-cut-your-bug-reports-by-70-134j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
