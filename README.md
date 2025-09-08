@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Chatbots and Mental Health: The Hidden Crisis Developers Need to Know](https://dev.to/shiva_shanker_k/ai-chatbots-and-mental-health-the-hidden-crisis-developers-need-to-know-m2b)
+- [Difference Between useEffect and useLayoutEffect in React](https://dev.to/solo474/difference-between-useeffect-and-uselayouteffect-in-react-2aeg)
+- [DeepSeek R1: The $5.6M AI That Just Destroyed Silicon Valley](https://dev.to/shiva_shanker_k/deepseek-r1-the-56m-ai-that-just-destroyed-silicon-valley-18i0)
+- [SpecPilot – A No-Bloat GitHub Specs Alternative You’ll Actually Use](https://dev.to/deviprasadshetty/specpilot-a-no-bloat-github-specs-alternative-youll-actually-use-4baf)
 - [Explore 18 dev-first companies hiring for roles from product engineering to developer advocacy, including Layercode, Raycast, and v0 by Vercel](https://dev.to/fmerian/explore-18-dev-first-companies-hiring-for-roles-from-product-engineering-to-developer-advocacy-55i4)
-- [Demystifying LangChain: Building Your First LLM-Powered Application](https://dev.to/anshc022/demystifying-langchain-building-your-first-llm-powered-application-5e7a)
-- [Unlocking JavaScript&#39;s Built-in Object Power](https://dev.to/adrahi/unlocking-javascripts-built-in-object-power-65c)
-- [From Dev to PM to Multimodal Explorer: My Gemini Challenge Entries](https://dev.to/svet_62385e9/from-dev-to-pm-to-multimodal-explorer-my-gemini-challenge-entries-19fd)
-- [The Looming Quantum Computing Threat: Why Everyone Should Be Paying Attention to Post-Quantum Security](https://dev.to/benjamin_martins_6db63dfd/the-looming-quantum-computing-threat-why-everyone-should-be-paying-attention-to-post-quantum-55d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
