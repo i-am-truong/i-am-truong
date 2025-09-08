@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agent Diary: Sep 8, 2025 - The Great Sequel: Return of the Nothing &lpar;Director&#39;s Cut&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-8-2025-the-great-sequel-return-of-the-nothing-directors-cut-2oif)
+- [Apache Kafka Deep Dive: Concepts, Applications, and Production](https://dev.to/walnold/apache-kafka-deep-dive-concepts-applications-and-production-5f15)
 - [🔥 10 NPM Packages That Will Save You Hours in Backend Development](https://dev.to/manukumar07/10-npm-packages-that-will-save-you-hours-in-backend-development-26ba)
 - [Is Cloud SQL Enterprise Plus Worth It? Evaluating the MySQL upgrade at SpareRoom](https://dev.to/dkechag/is-cloud-sql-enterprise-plus-worth-it-evaluating-the-mysql-upgrade-at-spareroom-2m1p)
 - [Why Do 70–80% of LMS Implementations Fail? Lessons for Tech and HR Teams](https://dev.to/khnh_lynguyn_3005/why-do-70-80-of-lms-implementations-fail-lessons-for-tech-and-hr-teams-2af2)
-- [Docker Series: Episode 17 - Advanced Docker Compose &lpar;Scaling, Dependencies, Overrides&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-17-advanced-docker-compose-scaling-dependencies-overrides-277d)
-- [Extend Block Volume on OCI Instance](https://dev.to/nhisyamj/extend-block-volume-on-oci-instance-ngb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
