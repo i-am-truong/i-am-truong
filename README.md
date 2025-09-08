@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GameSpot: Destiny 2: Renegades + Ash &amp; Iron Update | Developer Livestream](https://dev.to/gg_news/gamespot-destiny-2-renegades-ash-iron-update-developer-livestream-3dnk)
+- [IGN: Winnie-the-Pooh: Black Honey - Official Announcement Trailer](https://dev.to/gg_news/ign-winnie-the-pooh-black-honey-official-announcement-trailer-12ea)
+- [IGN: Super Pocket NEOGEO Edition - Official Launch Trailer](https://dev.to/gg_news/ign-super-pocket-neogeo-edition-official-launch-trailer-ccg)
+- [Transformers: The Silent Revolution That Changed AI &lpar;and It’s Not Michael Bay’s Robots&rpar;](https://dev.to/alexandre_almeida_59b72b5/transformers-the-silent-revolution-that-changed-ai-and-its-not-michael-bays-robots-36fp)
 - [Why Success Favors Action and How This Relates to AI](https://dev.to/peter_truchly_4fce0874fd5/why-success-favors-action-and-how-this-relates-to-ai-4e54)
-- [Zero Documentation Living Code](https://dev.to/yemreak/zero-documentation-living-code-3c4p)
-- [Git as Evolution Engine Learning Over Rules](https://dev.to/yemreak/git-as-evolution-engine-learning-over-rules-24e8)
-- [The Secret Life of git init: Inside the .git Folder](https://dev.to/ishankg/the-secret-life-of-git-init-inside-the-git-folder-21pl)
-- [Building an AI Game](https://dev.to/adzhydra/building-an-ai-game-1enf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
