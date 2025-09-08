@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Smart Display Google Should Have Made: My E-Ink Rebellion Against Tech Obsolescence](https://dev.to/sgardoll/i-ditched-my-smart-display-for-4b3)
+- [Don&#39;t delegate too much to Claude Code.](https://dev.to/crimson206/dont-delegate-too-much-to-claude-code-1dpo)
 - [Protecting Yourself from Spear Phishing Attacks Such as the One Targeting NPM Maintainers with 2FA Update](https://dev.to/semgrep/protecting-yourself-from-spear-phishing-attacks-such-as-the-one-targeting-npm-maintainers-with-2fa-4332)
+- [UN Smart Maps Group ポータブルウェブの進捗まとめ 2025-09](https://dev.to/hfu/un-smart-maps-group-potaburuuebunojin-bu-matome-2025-09-50ac)
 - [I Built a Micro-SaaS Directory with a &quot;Boring&quot; Stack, and It&#39;s Awesome.](https://dev.to/pedromodular/i-built-a-micro-saas-directory-with-a-boring-stack-and-its-awesome-fo3)
-- [While Everyone’s Chasing AI Jobs, I Found 89 Supply Chain Security Roles That Can’t Get Filled](https://dev.to/arbythecoder/while-everyones-chasing-ai-jobs-i-found-89-supply-chain-security-roles-that-cant-get-filled-1de8)
-- [Your Own Private Internet with Nanocl and WireGuard](https://dev.to/0xle0ne/your-own-private-internet-with-nanocl-and-wireguard-541c)
-- [Building Scalable Multi-Modal AI Agents with Strands Agents and Amazon S3 Vectors](https://dev.to/aws/building-scalable-multi-modal-ai-agents-with-strands-agents-and-amazon-s3-vectors-575b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
