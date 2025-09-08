@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ContextLy.AI: No RAG, No Lag - Gemini x MCP](https://dev.to/snehanshu-raj/contextlyai-no-rag-no-lag-gemini-x-mcp-4c4m)
 - [The Smart Display Google Should Have Made: My E-Ink Rebellion Against Tech Obsolescence](https://dev.to/sgardoll/i-ditched-my-smart-display-for-4b3)
 - [Don&#39;t delegate too much to Claude Code.](https://dev.to/crimson206/dont-delegate-too-much-to-claude-code-1dpo)
 - [Protecting Yourself from Spear Phishing Attacks Such as the One Targeting NPM Maintainers with 2FA Update](https://dev.to/semgrep/protecting-yourself-from-spear-phishing-attacks-such-as-the-one-targeting-npm-maintainers-with-2fa-4332)
 - [UN Smart Maps Group ポータブルウェブの進捗まとめ 2025-09](https://dev.to/hfu/un-smart-maps-group-potaburuuebunojin-bu-matome-2025-09-50ac)
-- [I Built a Micro-SaaS Directory with a &quot;Boring&quot; Stack, and It&#39;s Awesome.](https://dev.to/pedromodular/i-built-a-micro-saas-directory-with-a-boring-stack-and-its-awesome-fo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
