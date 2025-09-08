@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazing](https://dev.to/thedeepseeker/amazing-3jb2)
-- [Apache Polaris dev list digest &lpar;Sept 1–5 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-list-digest-sept-1-5-2025-3e7k)
-- [Hypothesis Testing in Sports Medicine: Diagnosing ACL Injuries in Pro Footballers](https://dev.to/mwangide/hypothesis-testing-in-sports-medicine-diagnosing-acl-injuries-in-pro-footballers-2e1o)
-- [Technical Deep Dive: Kantan Tools Character Counter &lpar;文字数&rpar; Implementation](https://dev.to/junhao_li_9ee6f0c5f90fb8e/technical-deep-dive-kantan-tools-character-counter-wen-zi-shu-implementation-4c94)
-- [Week 2 – Building the Landing Page](https://dev.to/shaq_attack/week-2-building-the-landing-page-k90)
+- [The True Cost of an AI Engineer: A Deep Dive into Replit Agent vs. Lovable.dev](https://dev.to/aaronksaunders/the-true-cost-of-an-ai-engineer-a-deep-dive-into-replit-agent-vs-lovabledev-2djh)
+- [Beyond the terminal: Gemini CLI comes to Zed](https://dev.to/googleai/beyond-the-terminal-gemini-cli-comes-to-zed-3o43)
+- [🥋 Codewars — Achieve Mastery Through Challenge](https://dev.to/ml318097/codewars-achieve-mastery-through-challenge-57ni)
+- [The Queue: Understanding FIFO Data Structures in TypeScript](https://dev.to/rubenoalvarado/the-queue-understanding-fifo-data-structures-in-typescript-2cp5)
+- [Quantize Your Vectors, Speed Up Your Java AI Applications](https://dev.to/mongodb/quantize-your-vectors-speed-up-your-java-ai-applications-bng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
