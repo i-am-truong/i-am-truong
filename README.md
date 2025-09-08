@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Resilience of MongoDB&#39;s WiredTiger Storage Engine to Disk Failure Compared to PostgreSQL and Oracle](https://dev.to/franckpachot/resilience-of-mongodbs-wiredtiger-storage-engine-to-disk-failure-compared-to-postgresql-and-oracle-h9f)
+- [How to Configure the Auth0 MCP Server in VS Code for AI Assistant Integration](https://dev.to/auth0/how-to-configure-the-auth0-mcp-server-in-vs-code-for-ai-assistant-integration-1edm)
 - [Day 007 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-007-on-my-journey-to-becoming-a-css-pro-with-keith-grant-4anf)
 - [Deploy de uma api em rust em cloudrun através de pipeline com gitlab](https://dev.to/burgossrodrigo/deploy-de-uma-api-em-rust-em-cloudrun-atraves-de-pipeline-com-gitlab-na6)
 - [ARC in iOS: The Memory Management Revolution That Changed Everything](https://dev.to/arshtechpro/arc-in-ios-the-memory-management-revolution-that-changed-everything-4500)
-- [What’s More Important for Placements: Projects or Competitive Programming?](https://dev.to/avinash201199/whats-more-important-for-placements-projects-or-competitive-programming-571a)
-- [Building Smarter AI Apps: The Pydantic AI Way &lpar;Type Safety and Structured Responses&rpar;](https://dev.to/gabrielmrojas/building-smarter-ai-apps-the-pydantic-ai-way-type-safety-and-structured-responses-4do0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
