@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Are AI Hallucinations and Why Do They Happen?](https://dev.to/shieldstring/what-are-ai-hallucinations-and-why-do-they-happen-1l3m)
 - [My Tech Stack for IG Exporter Chrome Extension](https://dev.to/max-dev/my-tech-stack-for-ig-exporter-chrome-extension-4l51)
 - [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1e25)
 - [Dark Patterns in Modern Web UX: The Subtle Manipulations We Fall For Every Day](https://dev.to/ishanbagchi/dark-patterns-in-modern-web-ux-the-subtle-manipulations-we-fall-for-every-day-54pi)
 - [Apigee Logger Shared Flow - Implementation Guide](https://dev.to/mahmoudsayed96/apigee-logger-shared-flow-implementation-guide-3cbn)
-- [How to Build a Responsive Restaurant Website Using HTML, CSS &amp; JavaScript](https://dev.to/alizehcodes/how-to-build-a-responsive-restaurant-website-using-html-css-javascript-2b7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
