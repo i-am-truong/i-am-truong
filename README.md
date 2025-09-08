@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Storage Playlist - Part 3: Implementing Amazon EBS Storage with Amazon EKS Using Terraform and Kubernetes Manifests](https://dev.to/aws-builders/kubernetes-storage-playlist-part-3-implementing-amazon-ebs-storage-with-amazon-eks-using-1afc)
-- [Efficiency additions in ES6](https://dev.to/lealonwolfe/efficiency-additions-in-es6-59j0)
-- [Building a Real-Time Chat App with MERN &amp; Socket.IO: A Beginner&#39;s Journey](https://dev.to/web_afsanakeya_532c5740b/building-a-real-time-chat-app-with-mern-socketio-a-beginners-journey-1kpa)
-- [Vibe Coding for Enterprises: Can It Truly Scale in 2025?](https://dev.to/mahadi_uptech/vibe-coding-for-enterprises-can-it-truly-scale-in-2025-2lc9)
-- [SEO Técnico para Portfolios: Estrategias que Mejoraron mi Visibilidad en Google](https://dev.to/raidrdev/seo-tecnico-para-portfolios-estrategias-que-mejoraron-mi-visibilidad-en-google-okk)
+- [Designing BackupScout: Scan Your Server for Critical Data &lpar;Part 1&rpar;](https://dev.to/shrsv/designing-backupscout-scan-your-server-for-critical-data-part-1-4jm3)
+- [My Bulletproof CSS Template for Perfect Text Wrapping](https://dev.to/utkarsh4321/my-bulletproof-css-template-for-perfect-text-wrapping-2p2h)
+- [Book Review: Deep Work by Cal Newport](https://dev.to/devpartner/book-review-deep-work-by-cal-newport-201k)
+- [Breaking Through Creative Blocks: Building an AI-Powered Brainstorming Workflow with n8n](https://dev.to/einarcesar/breaking-through-creative-blocks-building-an-ai-powered-brainstorming-workflow-with-n8n-24e3)
+- [DevOps Candidates’ Rights: Asking About Role Scope and Expectations](https://dev.to/srinivasamcjf/devops-candidates-rights-asking-about-role-scope-and-expectations-1pno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
