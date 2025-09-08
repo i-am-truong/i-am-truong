@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [All Data and AI Weekly #206: 08 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-206-08-sept-2025-2fd4)
+- [a11yAuditHelper – or why Excel spreadsheets were no longer enough for my accessibility audits](https://dev.to/sataru/a11yaudithelper-or-why-excel-spreadsheets-were-no-longer-enough-for-my-accessibility-audits-4k39)
+- [From 49 to 95: How Prompt Engineering Boosted Gemini MCP Image Generation](https://dev.to/shinpr/from-49-to-95-how-prompt-engineering-boosted-gemini-mcp-image-generation-19n8)
+- [Day 1: Summon Your QuestBot 🤖⚡](https://dev.to/creator_x/day-1-summon-your-questbot-2nij)
 - [Most enterprise AI projects fail due to integration and data access issues. RavenDB’s AI Agent Creator runs AI agents inside the database itself, solving these problems and enabling faster, secure AI deployment. Would love to hear if others see this as the](https://dev.to/barak_codes/most-enterprise-ai-projects-fail-due-to-integration-and-data-access-issues-ravendbs-ai-agent-3lbd)
-- [React Native for Web Developers](https://dev.to/joespaf/react-native-for-web-developers-1464)
-- [💡 Tired of messy integrations and ETL headaches? RavenDB’s new AI Agent Creator runs AI directly inside the database finally a practical way to build context-aware AI.](https://dev.to/mingzhao/tired-of-messy-integrations-and-etl-headaches-ravendbs-new-ai-agent-creator-runs-ai-directly-24ne)
-- [Apache Kafka Deep Dive](https://dev.to/elvis_mwangi_/apache-kafka-deep-dive-384c)
-- [ipasnmatcher - Python Package for Fast IP-to-ASN Matching](https://dev.to/itsmmdoha/ipasnmatcher-python-package-for-fast-ip-to-asn-matching-5bpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
