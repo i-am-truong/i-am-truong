@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Similarities Between SQL Stored Procedures and Python Functions](https://dev.to/njeri_kimaru/exploring-the-similarities-between-sql-stored-procedures-and-python-functions-34dg)
 - [Cómo hackear tu seniority en IT &lpar;sin aprender otro framework&rpar;](https://dev.to/akalautaro/como-hackear-tu-seniority-en-it-sin-aprender-otro-framework-30em)
 - [From Readable to Lightweight: Understanding JSON Minification](https://dev.to/rijultp/from-readable-to-lightweight-understanding-json-minification-lf5)
 - [The Complete Guide to Deploying AI Models: From Notebook to Production](https://dev.to/shavon_harris_2268dbf9d1a/the-complete-guide-to-deploying-ai-models-from-notebook-to-production-1n9n)
 - [Circular Imports in Python: The Architecture Killer That Breaks Production](https://dev.to/vivekjami/circular-imports-in-python-the-architecture-killer-that-breaks-production-539j)
-- [Subqueries vs. CTEs vs. Stored Procedures: What’s the Real Difference?](https://dev.to/njeri_kimaru/subqueries-vs-ctes-vs-stored-procedures-whats-the-real-difference-ihk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
