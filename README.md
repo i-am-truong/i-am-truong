@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I coded my first AI Music Generator — aisongonline.io Would love your feedback!](https://dev.to/masaki_sky_b2bf5554e9b87d/i-coded-my-first-ai-music-generator-aisongonlineio-would-love-your-feedback-4je)
-- [Agentic AI digest &lpar;Sept 1–5 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-digest-sept-1-5-2025-4165)
-- [Why you need to learn Apache Airflow - right now](https://dev.to/eric_kahindi_cfbfda3bd0f7/why-you-need-to-learn-apache-airflow-right-now-502j)
-- [Was great to see this PR from the Ona folks in the project to help get our configuration working better https://github.com/forem/forem/pull/22307 Ona &lpar;formerly GitPod&rpar; continues to be a really really interesting player in development productivity](https://dev.to/ben/was-great-to-see-this-pr-from-the-ona-folks-in-the-project-to-help-get-our-configuration-working-5553)
-- [Matrix Typer – Typing game built with Phaser 3 + TypeScript](https://dev.to/cassinodev/matrix-typer-typing-game-built-with-phaser-3-typescript-2icm)
+- [Makefile Over GitHub Actions Total Control](https://dev.to/yemreak/makefile-over-github-actions-total-control-57mb)
+- [Signals &amp; JS Event Loop: Rethinking Angular Reactive Sync](https://dev.to/leolanese/signals-js-event-loop-rethinking-angular-reactive-sync-48bn)
+- [How I Built My First Telegram Bot &lpar;and Why Small Steps Matter&rpar;](https://dev.to/marikinyo/how-i-built-my-first-telegram-bot-and-why-small-steps-matter-2n0c)
+- [🚨 Building an IOC Triage Pipeline with Suricata + ML + Docker](https://dev.to/maxhagl/building-an-ioc-triage-pipeline-with-suricata-ml-docker-2lcf)
+- [KEXP: Brittany Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-full-performance-live-on-kexp-4adl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
