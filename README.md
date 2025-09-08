@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Cloud through AI, a personal opinion of industry trends](https://dev.to/aws-builders/from-cloud-through-ai-a-personal-opinion-of-industry-trends-2p9i)
-- [MMA Coach Assistant](https://dev.to/paulo_abbcba03b4df70572fc/mma-coach-assistant-40c0)
-- [PWC 338 Maximal maximization of maximums](https://dev.to/boblied/pwc-338-maximal-maximization-of-maximums-4jm1)
-- [🚀 Day 10 of My Python Learning Journey](https://dev.to/_adii3107/day-10-of-my-python-learning-journey-3bao)
-- [Jira Sucks](https://dev.to/calteen/jira-sucks-3i22)
+- [Day 30 of My Data Analytics Journey !](https://dev.to/ramyacse/day-30-of-my-data-analytics-journey--5f4a)
+- [Advanced IPv4 Concepts: Classful Addressing, Private IPs, and Subnetting](https://dev.to/andrew_despres/advanced-ipv4-concepts-classful-addressing-private-ips-and-subnetting-2a3m)
+- [Building a Real-Time Multiplayer Drawing Game](https://dev.to/adzhydra/building-a-real-time-multiplayer-drawing-game-27ec)
+- [How to set up Single Sign-On in AWS &lpar;IAM Identity Center&rpar;](https://dev.to/aws-builders/how-to-set-up-single-sign-on-in-aws-iam-identity-center-29p2)
+- [PCB FR-4 Material — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/pcb-fr-4-material-an-engineers-practical-guide-5h50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
