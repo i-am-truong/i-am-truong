@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I coded my first AI Music Generator — aisongonline.io Would love your feedback!](https://dev.to/masaki_sky_b2bf5554e9b87d/i-coded-my-first-ai-music-generator-aisongonlineio-would-love-your-feedback-4je)
+- [Agentic AI digest &lpar;Sept 1–5 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-digest-sept-1-5-2025-4165)
+- [Why you need to learn Apache Airflow - right now](https://dev.to/eric_kahindi_cfbfda3bd0f7/why-you-need-to-learn-apache-airflow-right-now-502j)
+- [Was great to see this PR from the Ona folks in the project to help get our configuration working better https://github.com/forem/forem/pull/22307 Ona &lpar;formerly GitPod&rpar; continues to be a really really interesting player in development productivity](https://dev.to/ben/was-great-to-see-this-pr-from-the-ona-folks-in-the-project-to-help-get-our-configuration-working-5553)
 - [Matrix Typer – Typing game built with Phaser 3 + TypeScript](https://dev.to/cassinodev/matrix-typer-typing-game-built-with-phaser-3-typescript-2icm)
-- [Apache Arrow dev list digest &lpar;Sept 1–5 2025&rpar;](https://dev.to/alexmercedcoder/apache-arrow-dev-list-digest-sept-1-5-2025-a1n)
-- [CooperaSharp - Dependency Explosion](https://dev.to/wsantosdev/cooperasharp-dependency-explosion-3b6d)
-- [Virtual Machines: How One Computer Becomes Many](https://dev.to/quame_jnr1/virtual-machines-how-one-computer-becomes-many-25k7)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/emwirigi/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-c5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
