@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Въведение в Kotlin &lpar;за Java програмисти&rpar;](https://dev.to/dvt32/vviedieniie-v-kotlin-za-java-proghramisti-enc)
-- [Where We Encounter Delimited Data and How We Handle It](https://dev.to/david_kershaw_b6916404da6/where-we-encounter-delimited-data-and-how-we-handle-it-3b1d)
-- [Reviewing the BenQ RD Series Monitor for Developers](https://dev.to/paigen11/reviewing-the-benq-rd-series-monitor-for-developers-1mho)
-- [Getting Started with Redis: Installation Guide](https://dev.to/bravian1/getting-started-with-redis-installation-guide-545b)
-- [“What I Learned From Going a Week Without My Laptop”](https://dev.to/swastika_bhattacharjee_aa/what-i-learned-from-going-a-week-without-my-laptop-23jk)
+- [LeetCode series: Data Structures &lpar;1/4&rpar;](https://dev.to/snikmas/leetcode-series-data-structures-14-23k6)
+- [Understanding the Differences Between Subqueries, CTEs, and Stored Procedures](https://dev.to/patrickkinoti/understanding-the-differences-between-subqueries-ctes-and-stored-procedures-3b75)
+- [🛠️ Was tired of duct-taping APIs and breaking ETL pipelines… RavenDB just dropped an AI Agent Creator inside the database. Finally feels like AI that won’t collapse on me.](https://dev.to/thedeepseeker/was-tired-of-duct-taping-apis-and-breaking-etl-pipelines-ravendb-just-dropped-an-ai-agent-5c06)
+- [Turn Any Image into a Blog Post with AI &lpar;React, Cloudinary &amp; OpenAI&rpar;](https://dev.to/cloudinary/turn-any-image-into-a-blog-post-with-ai-react-cloudinary-openai-3cb6)
+- [The Engineering Challenge of Creating a Drone-Based Emergency Wi-Fi Network](https://dev.to/dror_rofe_272e70cf3a16b05/the-engineering-challenge-of-creating-a-drone-based-emergency-wi-fi-network-362k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
