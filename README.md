@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [To add a Python script as a shortcut in the Bash](https://dev.to/sven_krmer_6f8a15646f686/to-add-a-python-script-as-a-shortcut-in-the-bash-35p3)
-- [Build Better Dashboards, Faster: Introducing Spike, the Next.js Admin Template](https://dev.to/isanjayjoshi/build-better-dashboards-faster-introducing-spike-the-nextjs-admin-template-4c0j)
-- [在 WebAssembly 中使用 SIMD（一）](https://dev.to/yangholmes/zai-webassembly-zhong-shi-yong-simd--1aj2)
-- [Keeping Your AI Agents Under Control: Tool Max Tries in Neuron V2](https://dev.to/inspector/keeping-your-ai-agents-under-control-tool-max-tries-in-neuron-v2-5m7)
-- [ChatGPT Called Me &#39;Unconventional.&#39; It Unlocked a Lesson From Vietnam&#39;s Greatest General.](https://dev.to/skill-wanderer/chatgpt-called-me-unconventional-it-unlocked-a-lesson-from-vietnams-greatest-general-13nb)
+- [4 TailwindCSS Features You’re Probably Sleeping On 😴 &lpar;With Playground Demo&rpar;](https://dev.to/devlinaung/4-tailwindcss-features-youre-probably-sleeping-on-with-playground-demo-3ag8)
+- [WordPress Core: Deep Dive](https://dev.to/aialvi/wordpress-core-deep-dive-mgc)
+- [Cost-Efficient ETL for Small Datasets using AWS Lambda, S3, Wrangler, and Glue](https://dev.to/charlesuneze/cost-efficient-etl-for-small-datasets-using-aws-lambda-s3-wrangler-and-glue-4o79)
+- [AWS CI/CD Made Easy: Build, Deploy, Repeat.](https://dev.to/imash24/aws-cicd-made-easy-build-deploy-repeat-4fc9)
+- [Designing APIs for the AI Era with Spring AI and MCP](https://dev.to/thedavestack/designing-apis-for-the-ai-era-with-spring-ai-and-mcp-3ahg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
