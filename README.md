@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Copilot Was Watching — Entrusting Research Materials to AI](https://dev.to/hanamaruki_ai/copilot-was-watching-entrusting-research-materials-to-ai-1dn4)
+- [Understanding SQL Constructs: Subqueries, CTEs, and Stored Procedures](https://dev.to/gregory42266270/understanding-sql-constructs-subqueries-ctes-and-stored-procedures-1glb)
+- [No More Self-Building Required! CoreDNS v1.12.2 Now Includes Standard Multicluster Support](https://dev.to/kahirokunn/no-more-self-building-required-coredns-v1122-now-includes-standard-multicluster-support-b6b)
+- [Mentorship in Motion: How a Summer Break Sparked a Pivot](https://dev.to/balagmadhu/mentorship-in-motion-how-a-summer-break-sparked-a-pivot-3dme)
 - [10 Ways New Coders Can Use AI Without Generating Code](https://dev.to/canro91/10-ways-new-coders-can-use-ai-without-generating-code-318o)
-- [Google’s Nano-Banana: The Mind-Blowing AI That Edits Images on Command](https://dev.to/aiwithapex/googles-nano-banana-the-mind-blowing-ai-that-edits-images-on-command-4i64)
-- [Kubernetes Storage Playlist - Part 1: Storage on an Amazon EKS Cluster](https://dev.to/aws-builders/kubernetes-storage-playlist-part-1-storage-on-an-amazon-eks-cluster-b6m)
-- [A few days ago, I was scrolling through YouTube playlists, thinking..](https://dev.to/muhammad_rabbi_dev/a-few-days-ago-i-was-scrolling-through-youtube-playlists-thinking-6kh)
-- [Git Stash: A Developer&#39;s Temporary Shelf](https://dev.to/siswoyo/git-stash-a-developers-temporary-shelf-2ofg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
