@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [4 TailwindCSS Features You’re Probably Sleeping On 😴 &lpar;With Playground Demo&rpar;](https://dev.to/devlinaung/4-tailwindcss-features-youre-probably-sleeping-on-with-playground-demo-3ag8)
-- [WordPress Core: Deep Dive](https://dev.to/aialvi/wordpress-core-deep-dive-mgc)
-- [Cost-Efficient ETL for Small Datasets using AWS Lambda, S3, Wrangler, and Glue](https://dev.to/charlesuneze/cost-efficient-etl-for-small-datasets-using-aws-lambda-s3-wrangler-and-glue-4o79)
-- [AWS CI/CD Made Easy: Build, Deploy, Repeat.](https://dev.to/imash24/aws-cicd-made-easy-build-deploy-repeat-4fc9)
-- [Designing APIs for the AI Era with Spring AI and MCP](https://dev.to/thedavestack/designing-apis-for-the-ai-era-with-spring-ai-and-mcp-3ahg)
+- [Observability for Databases in CI/CD](https://dev.to/sonichigo/observability-for-databases-in-cicd-15bd)
+- [How I use AI and MCP to Scrape Data](https://dev.to/extractdata/how-i-use-ai-and-mcp-to-scrape-data-4925)
+- [Caching - The Double-Edged Sword of Performance](https://dev.to/ikarthiknr/caching-the-double-edged-sword-of-performance-ljf)
+- [SQL Server Login Failed for &#39;sa&#39; &lpar;Error 18456&rpar;: How to Fix It?](https://dev.to/fakestandard/sql-server-login-failed-for-sa-error-18456-how-to-fix-it-g5f)
+- [Designing for Common Ground &lpar;instead of Accessibility Compliance&rpar;](https://dev.to/laura-wissiak/designing-for-common-ground-instead-of-accessibility-compliance-gjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
