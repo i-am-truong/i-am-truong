@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to SQL Joins and Subqueries Explained](https://dev.to/datalane/the-ultimate-guide-to-sql-joins-and-subqueries-explained-a48)
-- [Copilot Was Watching — Entrusting Research Materials to AI](https://dev.to/hanamaruki_ai/copilot-was-watching-entrusting-research-materials-to-ai-1dn4)
-- [Understanding SQL Constructs: Subqueries, CTEs, and Stored Procedures](https://dev.to/gregory42266270/understanding-sql-constructs-subqueries-ctes-and-stored-procedures-1glb)
-- [No More Self-Building Required! CoreDNS v1.12.2 Now Includes Standard Multicluster Support](https://dev.to/kahirokunn/no-more-self-building-required-coredns-v1122-now-includes-standard-multicluster-support-b6b)
-- [Mentorship in Motion: How a Summer Break Sparked a Pivot](https://dev.to/balagmadhu/mentorship-in-motion-how-a-summer-break-sparked-a-pivot-3dme)
+- [PKI 101: Why Public Key Infrastructure matters](https://dev.to/dcs-soni/pki-101-why-public-key-infrastructure-matters-2e9m)
+- [Will Vibe Coding Kill LowCode](https://dev.to/wyattdave/will-vibe-coding-kill-lowcode-1c37)
+- [Kubernetes Storage Playlist - Part 2: Implementing Amazon EFS Storage with EKS using Terraform and Kubernetes Manifests](https://dev.to/aws-builders/kubernetes-storage-playlist-part-2-implementing-amazon-efs-storage-with-eks-using-terraform-and-542j)
+- [Introduction to Bonds](https://dev.to/madgan95/introduction-to-bonds-3816)
+- [Distributed Systems Without the Buzzwords](https://dev.to/sibasishm/distributed-systems-without-the-buzzwords-5d8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
