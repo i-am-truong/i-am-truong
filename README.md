@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WebGPU Engine from Scratch Part 8: Physically Based Lighting &lpar;PBR&rpar;](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-8-physically-based-lighting-pbr-5gpf)
+- [[Boost]](https://dev.to/ben/-3p32)
+- [Day 89: When the Universe Decides to Test Your Multitasking Skills](https://dev.to/casperday11/day-89-when-the-universe-decides-to-test-your-multitasking-skills-1lhi)
+- [Using Docker + Traefik + WordPress on Hostinger VPS](https://dev.to/gu1lh3rm3_x/using-docker-traefik-wordpress-on-hostinger-vps-1jfb)
 - [Designing BackupScout: Scan Your Server for Critical Data &lpar;Part 1&rpar;](https://dev.to/shrsv/designing-backupscout-scan-your-server-for-critical-data-part-1-4jm3)
-- [My Bulletproof CSS Template for Perfect Text Wrapping](https://dev.to/utkarsh4321/my-bulletproof-css-template-for-perfect-text-wrapping-2p2h)
-- [Book Review: Deep Work by Cal Newport](https://dev.to/devpartner/book-review-deep-work-by-cal-newport-201k)
-- [Breaking Through Creative Blocks: Building an AI-Powered Brainstorming Workflow with n8n](https://dev.to/einarcesar/breaking-through-creative-blocks-building-an-ai-powered-brainstorming-workflow-with-n8n-24e3)
-- [DevOps Candidates’ Rights: Asking About Role Scope and Expectations](https://dev.to/srinivasamcjf/devops-candidates-rights-asking-about-role-scope-and-expectations-1pno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
