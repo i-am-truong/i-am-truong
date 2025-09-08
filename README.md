@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kaspa &amp; Smart Contracts: A Personal Discovery That Started with a Simple DAO Project](https://dev.to/m_c8cfdd8a63ea1b5334/kaspa-smart-contracts-a-personal-discovery-that-started-with-a-simple-dao-project-2blg)
 - [Part-43: How to Configure Cloud Run Jobs, Cloud Scheduler to trigger Screenshot job in GCP](https://dev.to/latchudevops/part-43-how-to-configure-cloud-run-jobs-cloud-scheduler-to-trigger-screenshot-job-in-gcp-2j36)
 - [Web Components in Angular: The Good and Bad of Web Components](https://dev.to/bytebantz/web-components-in-angular-the-good-and-bad-of-web-components-h64)
 - [Team-Based Authorization in faynoSync — An Overview for Developers](https://dev.to/faynosync/team-based-authorization-in-faynosync-an-overview-for-developers-48bk)
 - [Fume Extractors: Taming Air for Tiny Stars 🌬️](https://dev.to/ersajay/fume-extractors-taming-air-for-tiny-stars-3900)
-- [Quark’s Outlines: Python Strings](https://dev.to/mike-vincent/quarks-outlines-python-strings-30kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
