@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My 49-Year Journey: From a 1976 IBM 5100 to Building an AI-Powered BASIC](https://dev.to/atomijd/my-49-year-journey-from-a-1976-ibm-5100-to-building-an-ai-powered-basic-9hh)
-- [The True Cost of an AI Engineer: A Deep Dive into Replit Agent vs. Lovable.dev](https://dev.to/aaronksaunders/the-true-cost-of-an-ai-engineer-a-deep-dive-into-replit-agent-vs-lovabledev-2djh)
-- [Beyond the terminal: Gemini CLI comes to Zed](https://dev.to/googleai/beyond-the-terminal-gemini-cli-comes-to-zed-3o43)
-- [🥋 Codewars — Achieve Mastery Through Challenge](https://dev.to/ml318097/codewars-achieve-mastery-through-challenge-57ni)
-- [The Queue: Understanding FIFO Data Structures in TypeScript](https://dev.to/rubenoalvarado/the-queue-understanding-fifo-data-structures-in-typescript-2cp5)
+- [CooperaSharp - Dependency Explosion](https://dev.to/wsantosdev/cooperasharp-dependency-explosion-3b6d)
+- [Virtual Machines: How One Computer Becomes Many](https://dev.to/quame_jnr1/virtual-machines-how-one-computer-becomes-many-25k7)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/emwirigi/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-c5j)
+- [Want to know what AWS bought us on August 2025? A quick recap👇](https://dev.to/nishath_jp/want-to-know-what-aws-bought-us-on-august-2025-a-quick-recap-1g43)
+- [What are your Goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3a98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
