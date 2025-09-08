@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Destiny 2: Renegades + Ash &amp; Iron Update | Developer Livestream](https://dev.to/gg_news/gamespot-destiny-2-renegades-ash-iron-update-developer-livestream-3dnk)
-- [IGN: Winnie-the-Pooh: Black Honey - Official Announcement Trailer](https://dev.to/gg_news/ign-winnie-the-pooh-black-honey-official-announcement-trailer-12ea)
-- [IGN: Super Pocket NEOGEO Edition - Official Launch Trailer](https://dev.to/gg_news/ign-super-pocket-neogeo-edition-official-launch-trailer-ccg)
-- [Transformers: The Silent Revolution That Changed AI &lpar;and It’s Not Michael Bay’s Robots&rpar;](https://dev.to/alexandre_almeida_59b72b5/transformers-the-silent-revolution-that-changed-ai-and-its-not-michael-bays-robots-36fp)
-- [Why Success Favors Action and How This Relates to AI](https://dev.to/peter_truchly_4fce0874fd5/why-success-favors-action-and-how-this-relates-to-ai-4e54)
+- [Kubernetes Storage Playlist - Part 3: Implementing Amazon EBS Storage with Amazon EKS Using Terraform and Kubernetes Manifests](https://dev.to/aws-builders/kubernetes-storage-playlist-part-3-implementing-amazon-ebs-storage-with-amazon-eks-using-1afc)
+- [Efficiency additions in ES6](https://dev.to/lealonwolfe/efficiency-additions-in-es6-59j0)
+- [Building a Real-Time Chat App with MERN &amp; Socket.IO: A Beginner&#39;s Journey](https://dev.to/web_afsanakeya_532c5740b/building-a-real-time-chat-app-with-mern-socketio-a-beginners-journey-1kpa)
+- [Vibe Coding for Enterprises: Can It Truly Scale in 2025?](https://dev.to/mahadi_uptech/vibe-coding-for-enterprises-can-it-truly-scale-in-2025-2lc9)
+- [SEO Técnico para Portfolios: Estrategias que Mejoraron mi Visibilidad en Google](https://dev.to/raidrdev/seo-tecnico-para-portfolios-estrategias-que-mejoraron-mi-visibilidad-en-google-okk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
