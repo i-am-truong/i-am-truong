@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 30 of My Data Analytics Journey !](https://dev.to/ramyacse/day-30-of-my-data-analytics-journey--5f4a)
-- [Advanced IPv4 Concepts: Classful Addressing, Private IPs, and Subnetting](https://dev.to/andrew_despres/advanced-ipv4-concepts-classful-addressing-private-ips-and-subnetting-2a3m)
-- [Building a Real-Time Multiplayer Drawing Game](https://dev.to/adzhydra/building-a-real-time-multiplayer-drawing-game-27ec)
-- [How to set up Single Sign-On in AWS &lpar;IAM Identity Center&rpar;](https://dev.to/aws-builders/how-to-set-up-single-sign-on-in-aws-iam-identity-center-29p2)
-- [PCB FR-4 Material — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/pcb-fr-4-material-an-engineers-practical-guide-5h50)
+- [How to Stop Fighting with Time Zones as a Developer](https://dev.to/lovestaco/how-to-stop-fighting-with-time-zones-as-a-developer-10ih)
+- [Why Self-Hosting made me a better engineer](https://dev.to/mvaldes/why-self-hosting-made-me-a-better-engineer-4d3b)
+- [Chef Tips and Tricks](https://dev.to/mvaldes/chef-tips-and-tricks-3kj8)
+- [Xcode Yerine Cursor: macOS Varsayılan Editör Değiştirme](https://dev.to/yemreak/xcode-yerine-cursor-macos-varsayilan-editor-degistirme-58f6)
+- [My SaaS Infrastructure as a Solo Founder](https://dev.to/shayy/my-saas-infrastructure-as-a-solo-founder-2ghl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
