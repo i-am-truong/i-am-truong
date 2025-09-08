@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Success Favors Action and How This Relates to AI](https://dev.to/peter_truchly_4fce0874fd5/why-success-favors-action-and-how-this-relates-to-ai-4e54)
+- [Zero Documentation Living Code](https://dev.to/yemreak/zero-documentation-living-code-3c4p)
+- [Git as Evolution Engine Learning Over Rules](https://dev.to/yemreak/git-as-evolution-engine-learning-over-rules-24e8)
 - [The Secret Life of git init: Inside the .git Folder](https://dev.to/ishankg/the-secret-life-of-git-init-inside-the-git-folder-21pl)
 - [Building an AI Game](https://dev.to/adzhydra/building-an-ai-game-1enf)
-- [Auto-Generate API Gateway Terraform from OpenAPI Specs](https://dev.to/ikponmwosa_omorisiagbon_f/auto-generate-api-gateway-terraform-from-openapi-specs-2gg8)
-- [#DAY 2: From Installation to Operational Verification](https://dev.to/samueladeduntan/day-2-from-installation-to-operational-verification-390g)
-- [How to Stop Fighting with Time Zones as a Developer](https://dev.to/lovestaco/how-to-stop-fighting-with-time-zones-as-a-developer-10ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
