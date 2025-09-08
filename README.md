@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Ways New Coders Can Use AI Without Generating Code](https://dev.to/canro91/10-ways-new-coders-can-use-ai-without-generating-code-318o)
 - [Google’s Nano-Banana: The Mind-Blowing AI That Edits Images on Command](https://dev.to/aiwithapex/googles-nano-banana-the-mind-blowing-ai-that-edits-images-on-command-4i64)
 - [Kubernetes Storage Playlist - Part 1: Storage on an Amazon EKS Cluster](https://dev.to/aws-builders/kubernetes-storage-playlist-part-1-storage-on-an-amazon-eks-cluster-b6m)
+- [A few days ago, I was scrolling through YouTube playlists, thinking..](https://dev.to/muhammad_rabbi_dev/a-few-days-ago-i-was-scrolling-through-youtube-playlists-thinking-6kh)
 - [Git Stash: A Developer&#39;s Temporary Shelf](https://dev.to/siswoyo/git-stash-a-developers-temporary-shelf-2ofg)
-- [Deploying GPU-Enabled ECS EC2 Instances with Auto Scaling Groups and Launch Templates](https://dev.to/bikash119/deploying-gpu-enabled-ecs-ec2-instances-with-auto-scaling-groups-and-launch-templates-569l)
-- [Why Micro Animations in UI Design Create a Better User Experience](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-micro-animations-in-ui-design-create-a-better-user-experience-38dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
