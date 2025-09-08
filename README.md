@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zenhub vs Jira: Why I Chose Zenhub After 100+ Sprints](https://dev.to/gsauzande/zenhub-vs-jira-why-i-chose-zenhub-after-100-sprints-3joa)
+- [Compliance in Financial Web Apps: How to Build Secure, Trustworthy, and Regulation-Ready Applications](https://dev.to/okoye_ndidiamaka_5e3b7d30/compliance-in-financial-web-apps-how-to-build-secure-trustworthy-and-regulation-ready-2b7e)
 - [Observability for Databases in CI/CD](https://dev.to/sonichigo/observability-for-databases-in-cicd-15bd)
 - [How I use AI and MCP to Scrape Data](https://dev.to/extractdata/how-i-use-ai-and-mcp-to-scrape-data-4925)
 - [Caching - The Double-Edged Sword of Performance](https://dev.to/ikarthiknr/caching-the-double-edged-sword-of-performance-ljf)
-- [SQL Server Login Failed for &#39;sa&#39; &lpar;Error 18456&rpar;: How to Fix It?](https://dev.to/fakestandard/sql-server-login-failed-for-sa-error-18456-how-to-fix-it-g5f)
-- [Designing for Common Ground &lpar;instead of Accessibility Compliance&rpar;](https://dev.to/laura-wissiak/designing-for-common-ground-instead-of-accessibility-compliance-gjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
