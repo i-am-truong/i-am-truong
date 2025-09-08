@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Docling Application on ECS with Application Load Balancer](https://dev.to/bikash119/deploying-docling-application-on-ecs-with-application-load-balancer-59k3)
+- [Surfing with FP Java - Mastering Function&lt;T, R&gt;](https://dev.to/borba/-surfing-with-fp-java-mastering-functiont-r-20gf)
+- [Global Product Security Strategy: A Multi-Layered Framework &lpar;I.P. developed&rpar;](https://dev.to/d3one/global-product-security-strategy-a-multi-layered-framework-ip-developed-cb1)
+- [Effective Handling of Geospatial Data in DynamoDB](https://dev.to/ianbrumby/effective-handling-of-geospatial-data-in-dynamodb-1hmn)
 - [AI Chatbots and Mental Health: The Hidden Crisis Developers Need to Know](https://dev.to/shiva_shanker_k/ai-chatbots-and-mental-health-the-hidden-crisis-developers-need-to-know-m2b)
-- [Difference Between useEffect and useLayoutEffect in React](https://dev.to/solo474/difference-between-useeffect-and-uselayouteffect-in-react-2aeg)
-- [DeepSeek R1: The $5.6M AI That Just Destroyed Silicon Valley](https://dev.to/shiva_shanker_k/deepseek-r1-the-56m-ai-that-just-destroyed-silicon-valley-18i0)
-- [SpecPilot – A No-Bloat GitHub Specs Alternative You’ll Actually Use](https://dev.to/deviprasadshetty/specpilot-a-no-bloat-github-specs-alternative-youll-actually-use-4baf)
-- [Explore 18 dev-first companies hiring for roles from product engineering to developer advocacy, including Layercode, Raycast, and v0 by Vercel](https://dev.to/fmerian/explore-18-dev-first-companies-hiring-for-roles-from-product-engineering-to-developer-advocacy-55i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
