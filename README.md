@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Analog to Digital: Signal Simulation](https://dev.to/iraitz/from-analog-to-digital-signal-simulation-m0j)
-- [Weekend Rec Build: Hall of the Dwarven King – Web Edition](https://dev.to/ksolomon/weekend-rec-build-hall-of-the-dwarven-king-web-edition-340p)
-- [How to fix &quot;react-scripts&quot; is not recognized as an internal or external command](https://dev.to/ayodeji75/how-to-fix-react-scripts-is-not-recognized-as-an-internal-or-external-command-3b6p)
-- [How to Find Top-K Trending Hashtags from a Stream of Tweets Using Count-Min Sketch](https://dev.to/vipratechsolutions/how-to-find-top-k-trending-hashtags-from-a-stream-of-tweets-using-count-min-sketch-2dj3)
-- [Perl 🐪 Weekly #737 - Perl oneliners](https://dev.to/szabgab/perl-weekly-737-perl-oneliners-4l87)
+- [From Analog to Digital: Signal Simulation in MATLAB](https://dev.to/alainord/from-analog-to-digital-signal-simulation-in-matlab-3pg6)
+- [Subqueries vs. CTEs vs. Stored Procedures in SQL — Explained Simply 🚀](https://dev.to/mercy_musyoka_/subqueries-vs-ctes-vs-stored-procedures-in-sql-explained-simply-1phe)
+- [🎭 DreamLens – Turn Any Story Into a Mini Movie What I Built](https://dev.to/rohit_mane_0c56c05bfdcc75/dreamlens-turn-any-story-into-a-mini-moviewhat-i-built-45b5)
+- [KEXP: Brittany Davis - Sun And Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-sun-and-moon-live-on-kexp-3lpe)
+- [KEXP: Brittany Davis - Black Thunder &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-black-thunder-live-on-kexp-5fj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
