@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Analog to Digital: Signal Simulation in MATLAB](https://dev.to/alainord/from-analog-to-digital-signal-simulation-in-matlab-3pg6)
-- [Subqueries vs. CTEs vs. Stored Procedures in SQL — Explained Simply 🚀](https://dev.to/mercy_musyoka_/subqueries-vs-ctes-vs-stored-procedures-in-sql-explained-simply-1phe)
-- [🎭 DreamLens – Turn Any Story Into a Mini Movie What I Built](https://dev.to/rohit_mane_0c56c05bfdcc75/dreamlens-turn-any-story-into-a-mini-moviewhat-i-built-45b5)
-- [KEXP: Brittany Davis - Sun And Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-sun-and-moon-live-on-kexp-3lpe)
-- [KEXP: Brittany Davis - Black Thunder &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-black-thunder-live-on-kexp-5fj7)
+- [Въведение в Kotlin &lpar;за Java програмисти&rpar;](https://dev.to/dvt32/vviedieniie-v-kotlin-za-java-proghramisti-enc)
+- [Where We Encounter Delimited Data and How We Handle It](https://dev.to/david_kershaw_b6916404da6/where-we-encounter-delimited-data-and-how-we-handle-it-3b1d)
+- [Reviewing the BenQ RD Series Monitor for Developers](https://dev.to/paigen11/reviewing-the-benq-rd-series-monitor-for-developers-1mho)
+- [Getting Started with Redis: Installation Guide](https://dev.to/bravian1/getting-started-with-redis-installation-guide-545b)
+- [“What I Learned From Going a Week Without My Laptop”](https://dev.to/swastika_bhattacharjee_aa/what-i-learned-from-going-a-week-without-my-laptop-23jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
