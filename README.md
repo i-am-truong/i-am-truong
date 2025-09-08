@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Network Discovery vs. Network Inventory: What’s the Difference?](https://dev.to/emily_assetloom/network-discovery-vs-network-inventory-whats-the-difference-1hm7)
+- [TIL #super_method](https://dev.to/epigene/til-supermethod-58io)
 - [10 Cool CodePen Demos &lpar;August 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2025-2g8a)
 - [Advanced Git: 10 Commands You’re Might Missing](https://dev.to/proflead/advanced-git-10-commands-youre-might-missing-cb9)
 - [Stop Using Git Like a Junior](https://dev.to/proflead/stop-using-git-like-a-junior-2kje)
-- [Open Source Template for AI Support Chatbot](https://dev.to/rryyqn/open-source-template-for-ai-support-chatbot-1g89)
-- [JupyterHub on Kubernetes: Secure Notebook Secrets with Vault](https://dev.to/buun-ch/jupyterhub-on-kubernetes-secure-notebook-secrets-with-vault-kk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
