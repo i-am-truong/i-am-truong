@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom Store Features in NgRx Signal Store](https://dev.to/duskoperic/custom-store-features-in-ngrx-signal-store-3pam)
+- [🚀 Docker in DevOps – Node.js Deployment on AWS EC2 &lpar;Week 12 Journey&rpar;](https://dev.to/azmatahmed/docker-in-devops-nodejs-deployment-on-aws-ec2-week-12-journey-4b1e)
+- [Java Virtual Threads Tutorial](https://dev.to/sadiul_hakim/java-virtual-threads-tutorial-2919)
+- [Made a Arduino Location Tracker using SIM800L GSM Module and NEO-6M GPS Module](https://dev.to/david_thomas/made-a-arduino-location-tracker-using-sim800l-gsm-module-and-neo-6m-gps-module-17p1)
 - [WICK-A11Y v2.3.0: A Dazzling New Report, WCAG 2.2 AAA, and More Goodies](https://dev.to/sebastianclavijo/wick-a11y-v230-a-dazzling-new-report-wcag-22-aaa-and-more-goodies-hd0)
-- [Kaspa &amp; Smart Contracts: A Personal Discovery That Started with a Simple DAO Project](https://dev.to/m_c8cfdd8a63ea1b5334/kaspa-smart-contracts-a-personal-discovery-that-started-with-a-simple-dao-project-2blg)
-- [Part-43: How to Configure Cloud Run Jobs, Cloud Scheduler to trigger Screenshot job in GCP](https://dev.to/latchudevops/part-43-how-to-configure-cloud-run-jobs-cloud-scheduler-to-trigger-screenshot-job-in-gcp-2j36)
-- [Web Components in Angular: The Good and Bad of Web Components](https://dev.to/bytebantz/web-components-in-angular-the-good-and-bad-of-web-components-h64)
-- [Team-Based Authorization in faynoSync — An Overview for Developers](https://dev.to/faynosync/team-based-authorization-in-faynosync-an-overview-for-developers-48bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
