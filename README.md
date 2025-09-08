@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Resilience of MongoDB&#39;s WiredTiger Storage Engine to Disk Failure Compared to PostgreSQL and Oracle](https://dev.to/franckpachot/resilience-of-mongodbs-wiredtiger-storage-engine-to-disk-failure-compared-to-postgresql-and-oracle-h9f)
-- [How to Configure the Auth0 MCP Server in VS Code for AI Assistant Integration](https://dev.to/auth0/how-to-configure-the-auth0-mcp-server-in-vs-code-for-ai-assistant-integration-1edm)
-- [Day 007 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-007-on-my-journey-to-becoming-a-css-pro-with-keith-grant-4anf)
-- [Deploy de uma api em rust em cloudrun através de pipeline com gitlab](https://dev.to/burgossrodrigo/deploy-de-uma-api-em-rust-em-cloudrun-atraves-de-pipeline-com-gitlab-na6)
-- [ARC in iOS: The Memory Management Revolution That Changed Everything](https://dev.to/arshtechpro/arc-in-ios-the-memory-management-revolution-that-changed-everything-4500)
+- [Building Scalable Multi-Modal AI Agents with Strands Agents and Amazon S3 Vectors](https://dev.to/aws/building-scalable-multi-modal-ai-agents-with-strands-agents-and-amazon-s3-vectors-575b)
+- [Reactive Programming and Observables with RxJS](https://dev.to/rebekahvanwyk/reactive-programming-and-observables-with-rxjs-3efi)
+- [Nardwuar the Human Serviette: Nardwuar vs. Sabrina Carpenter](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-sabrina-carpenter-55dj)
+- [IGN: Xbox Game Pass Creates &quot;Weird Inner Tensions,&quot; Says Former Bethesda Exec - IGN Daily Fix](https://dev.to/gg_news/ign-xbox-game-pass-creates-weird-inner-tensions-says-former-bethesda-exec-ign-daily-fix-3pj0)
+- [Hello Dev Community! DevOps Engineer from Lagos Nigeria](https://dev.to/godson_nwaubani/hello-dev-community-devops-engineer-from-lagos-nigeria-4e8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
