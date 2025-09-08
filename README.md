@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apache Iceberg dev list digest &lpar;Sept 1–5 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-list-digest-sept-1-5-2025-1dnd)
-- [10 Lightweight Python Tools Every Developer Should Know ✨🐍](https://dev.to/fullstackgada/10-lightweight-python-tools-every-developer-should-know-2jl9)
-- [Your data is your responsibility, not your vendor’s](https://dev.to/tilaa/your-data-is-your-responsibility-not-your-vendors-19d4)
-- [All Data and AI Weekly #206: 08 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-206-08-sept-2025-2fd4)
-- [a11yAuditHelper – or why Excel spreadsheets were no longer enough for my accessibility audits](https://dev.to/sataru/a11yaudithelper-or-why-excel-spreadsheets-were-no-longer-enough-for-my-accessibility-audits-4k39)
+- [Amazing](https://dev.to/thedeepseeker/amazing-3jb2)
+- [Apache Polaris dev list digest &lpar;Sept 1–5 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-list-digest-sept-1-5-2025-3e7k)
+- [Hypothesis Testing in Sports Medicine: Diagnosing ACL Injuries in Pro Footballers](https://dev.to/mwangide/hypothesis-testing-in-sports-medicine-diagnosing-acl-injuries-in-pro-footballers-2e1o)
+- [Technical Deep Dive: Kantan Tools Character Counter &lpar;文字数&rpar; Implementation](https://dev.to/junhao_li_9ee6f0c5f90fb8e/technical-deep-dive-kantan-tools-character-counter-wen-zi-shu-implementation-4c94)
+- [Week 2 – Building the Landing Page](https://dev.to/shaq_attack/week-2-building-the-landing-page-k90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
