@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Glyph.Flow Devlog #4 – Import/Export, Config Overhaul, and the Road to 0.1.0](https://dev.to/daemonic01/glyphflow-devlog-3-importexport-config-overhaul-and-the-road-to-010-2jhc)
-- [If anybody is struggling to get into opengl...](https://dev.to/deyan2306/if-anybody-is-struggling-to-get-into-opengl-2nop)
-- [The Definitive Guide to OpenGL VBOs, VAOs, and EBOs](https://dev.to/deyan2306/the-definitive-guide-to-opengl-vbos-vaos-and-ebos-1j0)
-- [Auto-Translate WordPress Posts with GPT + WPML &lpar;Build Your Own Plugin&rpar;](https://dev.to/adil-hl/auto-translate-wordpress-posts-with-gpt-wpml-build-your-own-plugin-138b)
-- [Especificações: Escreva uma vez, rode em qualquer lugar](https://dev.to/asouza/especificacoes-escreva-uma-vez-rode-em-qualquer-lugar-2ih6)
+- [How to Secure Different User Types in Linux: A Guide for IT Teams](https://dev.to/sebos/how-to-secure-different-user-types-in-linux-a-guide-for-it-teams-22a8)
+- [Kiro Workflow for Copilot, Claude &amp; More](https://dev.to/lazypro/kiro-workflow-for-copilot-claude-more-4ihp)
+- [Turbocharge Your Go Microservices: Memory Optimization Made Simple](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-microservices-memory-optimization-made-simple-3jf6)
+- [JavaScript Arrays Explained: Creation, Indexing, and Common Methods](https://dev.to/wisdomudo/javascript-arrays-explained-creation-indexing-and-common-methods-3hlj)
+- [🚀 From 2–5 Minutes to &lt; 1 Second: How a Small Nginx Config Change Boosted My Website](https://dev.to/ferryops/from-2-5-minutes-to-1-second-how-a-small-nginx-config-change-boosted-my-website-4h8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
