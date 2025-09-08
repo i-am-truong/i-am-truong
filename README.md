@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Circular Imports in Python: The Architecture Killer That Breaks Production](https://dev.to/vivekjami/circular-imports-in-python-the-architecture-killer-that-breaks-production-539j)
 - [Subqueries vs. CTEs vs. Stored Procedures: What’s the Real Difference?](https://dev.to/njeri_kimaru/subqueries-vs-ctes-vs-stored-procedures-whats-the-real-difference-ihk)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1fea)
-- [Modern SEO For AI Search Engines - How to be cited by ChatGPT, Gemini or Perplexity? 👀 &lpar;+ Get Free High Authority Domain List&rpar;](https://dev.to/bio-ai-software-engineer/modern-seo-for-ai-search-engines-how-to-be-cited-by-chatgpt-gemini-or-perplexity-get-free-443h)
 - [Are We Too Dependent on Frameworks? The Risks Developers Rarely Discuss](https://dev.to/devtechinsights/are-we-too-dependent-on-frameworks-the-risks-developers-rarely-discuss-l6d)
+- [I built a free UML tool for devs — feedback welcome!](https://dev.to/jotapy79/i-built-a-free-uml-tool-for-devs-feedback-welcome-401b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
