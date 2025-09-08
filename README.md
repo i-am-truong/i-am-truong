@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore 18 dev-first companies hiring for roles from product engineering to developer advocacy, including Layercode, Raycast, and v0 by Vercel](https://dev.to/fmerian/explore-18-dev-first-companies-hiring-for-roles-from-product-engineering-to-developer-advocacy-55i4)
 - [Demystifying LangChain: Building Your First LLM-Powered Application](https://dev.to/anshc022/demystifying-langchain-building-your-first-llm-powered-application-5e7a)
 - [Unlocking JavaScript&#39;s Built-in Object Power](https://dev.to/adrahi/unlocking-javascripts-built-in-object-power-65c)
 - [From Dev to PM to Multimodal Explorer: My Gemini Challenge Entries](https://dev.to/svet_62385e9/from-dev-to-pm-to-multimodal-explorer-my-gemini-challenge-entries-19fd)
 - [The Looming Quantum Computing Threat: Why Everyone Should Be Paying Attention to Post-Quantum Security](https://dev.to/benjamin_martins_6db63dfd/the-looming-quantum-computing-threat-why-everyone-should-be-paying-attention-to-post-quantum-55d7)
-- [A Beginner’s Guide to Svelte Stores &lpar;Writable, Readable, and Derived&rpar;](https://dev.to/a1guy/state-management-in-svelte-stores-context-and-async-data-5c6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
