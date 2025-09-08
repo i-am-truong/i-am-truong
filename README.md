@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Docling Application on ECS with Application Load Balancer](https://dev.to/bikash119/deploying-docling-application-on-ecs-with-application-load-balancer-59k3)
-- [Surfing with FP Java - Mastering Function&lt;T, R&gt;](https://dev.to/borba/-surfing-with-fp-java-mastering-functiont-r-20gf)
-- [Global Product Security Strategy: A Multi-Layered Framework &lpar;I.P. developed&rpar;](https://dev.to/d3one/global-product-security-strategy-a-multi-layered-framework-ip-developed-cb1)
-- [Effective Handling of Geospatial Data in DynamoDB](https://dev.to/ianbrumby/effective-handling-of-geospatial-data-in-dynamodb-1hmn)
-- [AI Chatbots and Mental Health: The Hidden Crisis Developers Need to Know](https://dev.to/shiva_shanker_k/ai-chatbots-and-mental-health-the-hidden-crisis-developers-need-to-know-m2b)
+- [10 Cool CodePen Demos &lpar;August 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2025-2g8a)
+- [Advanced Git: 10 Commands You’re Might Missing](https://dev.to/proflead/advanced-git-10-commands-youre-might-missing-cb9)
+- [Stop Using Git Like a Junior](https://dev.to/proflead/stop-using-git-like-a-junior-2kje)
+- [Open Source Template for AI Support Chatbot](https://dev.to/rryyqn/open-source-template-for-ai-support-chatbot-1g89)
+- [JupyterHub on Kubernetes: Secure Notebook Secrets with Vault](https://dev.to/buun-ch/jupyterhub-on-kubernetes-secure-notebook-secrets-with-vault-kk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
