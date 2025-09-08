@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apigee Logger Shared Flow - Implementation Guide](https://dev.to/mahmoudsayed96/apigee-logger-shared-flow-implementation-guide-3cbn)
+- [How to Build a Responsive Restaurant Website Using HTML, CSS &amp; JavaScript](https://dev.to/alizehcodes/how-to-build-a-responsive-restaurant-website-using-html-css-javascript-2b7o)
+- [Sp or Not Sp pt.2](https://dev.to/pavelgelver/sp-or-not-sp-pt2-26jd)
+- [Breaking Out...](https://dev.to/silkyjohnson/breaking-out-1dd8)
 - [Your First Complete Login System in React Native with Expo and Clerk](https://dev.to/aaronksaunders/your-first-complete-login-system-in-react-native-with-expo-and-clerk-3696)
-- [Bryan Bros Golf: Can George &amp; Linkin Park Beat Wesley? &lpar;3v1&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-george-linkin-park-beat-wesley-3v1-5f1b)
-- [IGN: Destiny 2: Renegades and Ash &amp; Iron Reveal Livestream](https://dev.to/gg_news/ign-destiny-2-renegades-and-ash-iron-reveal-livestream-2c3)
-- [IGN: Recur - Official Gameplay Overview Trailer](https://dev.to/gg_news/ign-recur-official-gameplay-overview-trailer-42he)
-- [IGN: Wake Up Dead Man: A Knives Out Mystery - Official Teaser Trailer &lpar;2026&rpar; Daniel Craig, Mila Kunis](https://dev.to/gg_news/ign-wake-up-dead-man-a-knives-out-mystery-official-teaser-trailer-2026-daniel-craig-mila-2c8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
