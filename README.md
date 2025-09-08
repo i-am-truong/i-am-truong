@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy de uma api em rust em cloudrun através de pipeline com gitlab](https://dev.to/burgossrodrigo/deploy-de-uma-api-em-rust-em-cloudrun-atraves-de-pipeline-com-gitlab-na6)
+- [ARC in iOS: The Memory Management Revolution That Changed Everything](https://dev.to/arshtechpro/arc-in-ios-the-memory-management-revolution-that-changed-everything-4500)
+- [What’s More Important for Placements: Projects or Competitive Programming?](https://dev.to/avinash201199/whats-more-important-for-placements-projects-or-competitive-programming-571a)
+- [Building Smarter AI Apps: The Pydantic AI Way &lpar;Type Safety and Structured Responses&rpar;](https://dev.to/gabrielmrojas/building-smarter-ai-apps-the-pydantic-ai-way-type-safety-and-structured-responses-4do0)
 - [What Are AI Hallucinations and Why Do They Happen?](https://dev.to/shieldstring/what-are-ai-hallucinations-and-why-do-they-happen-1l3m)
-- [My Tech Stack for IG Exporter Chrome Extension](https://dev.to/max-dev/my-tech-stack-for-ig-exporter-chrome-extension-4l51)
-- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1e25)
-- [Dark Patterns in Modern Web UX: The Subtle Manipulations We Fall For Every Day](https://dev.to/ishanbagchi/dark-patterns-in-modern-web-ux-the-subtle-manipulations-we-fall-for-every-day-54pi)
-- [Apigee Logger Shared Flow - Implementation Guide](https://dev.to/mahmoudsayed96/apigee-logger-shared-flow-implementation-guide-3cbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
