@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Matrix Typer – Typing game built with Phaser 3 + TypeScript](https://dev.to/cassinodev/matrix-typer-typing-game-built-with-phaser-3-typescript-2icm)
+- [Apache Arrow dev list digest &lpar;Sept 1–5 2025&rpar;](https://dev.to/alexmercedcoder/apache-arrow-dev-list-digest-sept-1-5-2025-a1n)
 - [CooperaSharp - Dependency Explosion](https://dev.to/wsantosdev/cooperasharp-dependency-explosion-3b6d)
 - [Virtual Machines: How One Computer Becomes Many](https://dev.to/quame_jnr1/virtual-machines-how-one-computer-becomes-many-25k7)
 - [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/emwirigi/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-c5j)
-- [Want to know what AWS bought us on August 2025? A quick recap👇](https://dev.to/nishath_jp/want-to-know-what-aws-bought-us-on-august-2025-a-quick-recap-1g43)
-- [What are your Goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3a98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
