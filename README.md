@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Nano-Banana: The Mind-Blowing AI That Edits Images on Command](https://dev.to/aiwithapex/googles-nano-banana-the-mind-blowing-ai-that-edits-images-on-command-4i64)
+- [Kubernetes Storage Playlist - Part 1: Storage on an Amazon EKS Cluster](https://dev.to/aws-builders/kubernetes-storage-playlist-part-1-storage-on-an-amazon-eks-cluster-b6m)
 - [Git Stash: A Developer&#39;s Temporary Shelf](https://dev.to/siswoyo/git-stash-a-developers-temporary-shelf-2ofg)
 - [Deploying GPU-Enabled ECS EC2 Instances with Auto Scaling Groups and Launch Templates](https://dev.to/bikash119/deploying-gpu-enabled-ecs-ec2-instances-with-auto-scaling-groups-and-launch-templates-569l)
 - [Why Micro Animations in UI Design Create a Better User Experience](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-micro-animations-in-ui-design-create-a-better-user-experience-38dg)
-- [OxyCollect: The Pokémon Go of plastic litter tracking. Snap. Track. Collect.](https://dev.to/oxycollect/oxycollect-the-pokemon-go-of-plastic-litter-tracking-snap-track-collect-46m4)
-- [Being a solopreneur means wearing all the hats — CTO, programmer, strategist, team leader, creator. The challenge? There are only 24 hours in a day. That’s why solopreneurs who embrace AI as a silent partner are able to compete with teams 10x their size.](https://dev.to/jaideepparashar/being-a-solopreneur-means-wearing-all-the-hats-cto-programmer-strategist-team-leader-d6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
