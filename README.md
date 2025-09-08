@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-43: How to Configure Cloud Run Jobs, Cloud Scheduler to trigger Screenshot job in GCP](https://dev.to/latchudevops/part-43-how-to-configure-cloud-run-jobs-cloud-scheduler-to-trigger-screenshot-job-in-gcp-2j36)
+- [Web Components in Angular: The Good and Bad of Web Components](https://dev.to/bytebantz/web-components-in-angular-the-good-and-bad-of-web-components-h64)
 - [Team-Based Authorization in faynoSync — An Overview for Developers](https://dev.to/faynosync/team-based-authorization-in-faynosync-an-overview-for-developers-48bk)
-- [KubeEdge](https://dev.to/minwook/kubeedge-4j9j)
 - [Fume Extractors: Taming Air for Tiny Stars 🌬️](https://dev.to/ersajay/fume-extractors-taming-air-for-tiny-stars-3900)
 - [Quark’s Outlines: Python Strings](https://dev.to/mike-vincent/quarks-outlines-python-strings-30kh)
-- [Passing Dynamic Environment Variables Between GitLab CI Matrix Jobs: AWS OIDC Example](https://dev.to/u11d/passing-dynamic-environment-variables-between-gitlab-ci-matrix-jobs-aws-oidc-example-1h9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
