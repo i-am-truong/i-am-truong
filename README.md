@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [While Everyone’s Chasing AI Jobs, I Found 89 Supply Chain Security Roles That Can’t Get Filled](https://dev.to/arbythecoder/while-everyones-chasing-ai-jobs-i-found-89-supply-chain-security-roles-that-cant-get-filled-1de8)
 - [Your Own Private Internet with Nanocl and WireGuard](https://dev.to/0xle0ne/your-own-private-internet-with-nanocl-and-wireguard-541c)
 - [Building Scalable Multi-Modal AI Agents with Strands Agents and Amazon S3 Vectors](https://dev.to/aws/building-scalable-multi-modal-ai-agents-with-strands-agents-and-amazon-s3-vectors-575b)
 - [Reactive Programming and Observables with RxJS](https://dev.to/rebekahvanwyk/reactive-programming-and-observables-with-rxjs-3efi)
 - [Nardwuar the Human Serviette: Nardwuar vs. Sabrina Carpenter](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-sabrina-carpenter-55dj)
-- [IGN: Xbox Game Pass Creates &quot;Weird Inner Tensions,&quot; Says Former Bethesda Exec - IGN Daily Fix](https://dev.to/gg_news/ign-xbox-game-pass-creates-weird-inner-tensions-says-former-bethesda-exec-ign-daily-fix-3pj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
