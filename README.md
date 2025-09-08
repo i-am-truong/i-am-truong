@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to SQL Joins and Subqueries Explained](https://dev.to/datalane/the-ultimate-guide-to-sql-joins-and-subqueries-explained-a48)
 - [Copilot Was Watching — Entrusting Research Materials to AI](https://dev.to/hanamaruki_ai/copilot-was-watching-entrusting-research-materials-to-ai-1dn4)
 - [Understanding SQL Constructs: Subqueries, CTEs, and Stored Procedures](https://dev.to/gregory42266270/understanding-sql-constructs-subqueries-ctes-and-stored-procedures-1glb)
 - [No More Self-Building Required! CoreDNS v1.12.2 Now Includes Standard Multicluster Support](https://dev.to/kahirokunn/no-more-self-building-required-coredns-v1122-now-includes-standard-multicluster-support-b6b)
 - [Mentorship in Motion: How a Summer Break Sparked a Pivot](https://dev.to/balagmadhu/mentorship-in-motion-how-a-summer-break-sparked-a-pivot-3dme)
-- [10 Ways New Coders Can Use AI Without Generating Code](https://dev.to/canro91/10-ways-new-coders-can-use-ai-without-generating-code-318o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
