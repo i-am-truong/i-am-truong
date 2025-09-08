@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Famous Five Next.js SaaS Templates for Your Startup &amp; Products](https://dev.to/isanjayjoshi/top-nextjs-saas-templates-for-your-next-startup-products-m0n)
+- [How to Write Cleaner Code by Thinking Like an Architect](https://dev.to/leena_malhotra/how-to-write-cleaner-code-by-thinking-like-an-architect-1nci)
 - [Zenhub vs Jira: Why I Chose Zenhub After 100+ Sprints](https://dev.to/gsauzande/zenhub-vs-jira-why-i-chose-zenhub-after-100-sprints-3joa)
 - [Compliance in Financial Web Apps: How to Build Secure, Trustworthy, and Regulation-Ready Applications](https://dev.to/okoye_ndidiamaka_5e3b7d30/compliance-in-financial-web-apps-how-to-build-secure-trustworthy-and-regulation-ready-2b7e)
 - [Observability for Databases in CI/CD](https://dev.to/sonichigo/observability-for-databases-in-cicd-15bd)
-- [How I use AI and MCP to Scrape Data](https://dev.to/extractdata/how-i-use-ai-and-mcp-to-scrape-data-4925)
-- [Caching - The Double-Edged Sword of Performance](https://dev.to/ikarthiknr/caching-the-double-edged-sword-of-performance-ljf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
