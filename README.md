@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Preview: The GPT-5.0 Impact Report Series — A Quiet Creator Speaks&quot;](https://dev.to/hanamaruki_ai/preview-the-gpt-50-impact-report-series-a-quiet-creator-speaks-3i3f)
-- [[Boost]](https://dev.to/ferryops/-3c09)
-- [Modelling weapons, spells and enchantments](https://dev.to/magipunk/still-modelling-out-the-backend-137i)
-- [Everything You Need to Know About 800G/1.6T Optical Transceiver and Co-Package Module](https://dev.to/lsolink/everything-you-need-to-know-about-800g16t-optical-transceiver-and-co-package-module-1m6o)
-- [Are tag follows not used for the home page feeds?](https://dev.to/_bigblind/are-tag-follows-not-used-for-the-home-page-feeds-288k)
+- [🔥 10 NPM Packages That Will Save You Hours in Backend Development](https://dev.to/manukumar07/10-npm-packages-that-will-save-you-hours-in-backend-development-26ba)
+- [Is Cloud SQL Enterprise Plus Worth It? Evaluating the MySQL upgrade at SpareRoom](https://dev.to/dkechag/is-cloud-sql-enterprise-plus-worth-it-evaluating-the-mysql-upgrade-at-spareroom-2m1p)
+- [Why Do 70–80% of LMS Implementations Fail? Lessons for Tech and HR Teams](https://dev.to/khnh_lynguyn_3005/why-do-70-80-of-lms-implementations-fail-lessons-for-tech-and-hr-teams-2af2)
+- [Docker Series: Episode 17 - Advanced Docker Compose &lpar;Scaling, Dependencies, Overrides&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-17-advanced-docker-compose-scaling-dependencies-overrides-277d)
+- [Extend Block Volume on OCI Instance](https://dev.to/nhisyamj/extend-block-volume-on-oci-instance-ngb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
