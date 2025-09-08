@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Вопрос к Ai : Будет ли равнозначным ответ нейросети на промпт, одинаковый по смыслу, составленный на русском и английском языках](https://dev.to/iliya_koltsov_f723b606aaf/vopros-k-ai-budiet-li-ravnoznachnym-otviet-nieirosieti-na-prompt-odinakovyi-po-smyslu-sostavliennyi-3dp5)
-- [Stored Procedures vs Python Functions: Surprising Similarities](https://dev.to/gg001/stored-procedures-vs-python-functions-surprising-similarities-5bc3)
-- [SQL Query techniques and their differences ie Subqueries, CTEs and stored procedures.](https://dev.to/gg001/sql-query-techniques-and-their-differences-ie-subqueries-ctes-and-stored-procedures-4eli)
-- [Lamda functions and decorators: A developer&#39;s guide.](https://dev.to/gg001/lamda-functions-and-decorators-a-developers-guide-1ok0)
-- [The art and science of effectively maintaining changelogs](https://dev.to/prahladyeri/the-art-and-science-of-effectively-maintaining-changelogs-2e92)
+- [Team-Based Authorization in faynoSync — An Overview for Developers](https://dev.to/faynosync/team-based-authorization-in-faynosync-an-overview-for-developers-48bk)
+- [KubeEdge](https://dev.to/minwook/kubeedge-4j9j)
+- [Fume Extractors: Taming Air for Tiny Stars 🌬️](https://dev.to/ersajay/fume-extractors-taming-air-for-tiny-stars-3900)
+- [Quark’s Outlines: Python Strings](https://dev.to/mike-vincent/quarks-outlines-python-strings-30kh)
+- [Passing Dynamic Environment Variables Between GitLab CI Matrix Jobs: AWS OIDC Example](https://dev.to/u11d/passing-dynamic-environment-variables-between-gitlab-ci-matrix-jobs-aws-oidc-example-1h9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
