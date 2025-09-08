@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Store Features in NgRx Signal Store](https://dev.to/duskoperic/custom-store-features-in-ngrx-signal-store-3pam)
-- [🚀 Docker in DevOps – Node.js Deployment on AWS EC2 &lpar;Week 12 Journey&rpar;](https://dev.to/azmatahmed/docker-in-devops-nodejs-deployment-on-aws-ec2-week-12-journey-4b1e)
-- [Java Virtual Threads Tutorial](https://dev.to/sadiul_hakim/java-virtual-threads-tutorial-2919)
-- [Made a Arduino Location Tracker using SIM800L GSM Module and NEO-6M GPS Module](https://dev.to/david_thomas/made-a-arduino-location-tracker-using-sim800l-gsm-module-and-neo-6m-gps-module-17p1)
-- [WICK-A11Y v2.3.0: A Dazzling New Report, WCAG 2.2 AAA, and More Goodies](https://dev.to/sebastianclavijo/wick-a11y-v230-a-dazzling-new-report-wcag-22-aaa-and-more-goodies-hd0)
+- [To add a Python script as a shortcut in the Bash](https://dev.to/sven_krmer_6f8a15646f686/to-add-a-python-script-as-a-shortcut-in-the-bash-35p3)
+- [Build Better Dashboards, Faster: Introducing Spike, the Next.js Admin Template](https://dev.to/isanjayjoshi/build-better-dashboards-faster-introducing-spike-the-nextjs-admin-template-4c0j)
+- [在 WebAssembly 中使用 SIMD（一）](https://dev.to/yangholmes/zai-webassembly-zhong-shi-yong-simd--1aj2)
+- [Keeping Your AI Agents Under Control: Tool Max Tries in Neuron V2](https://dev.to/inspector/keeping-your-ai-agents-under-control-tool-max-tries-in-neuron-v2-5m7)
+- [ChatGPT Called Me &#39;Unconventional.&#39; It Unlocked a Lesson From Vietnam&#39;s Greatest General.](https://dev.to/skill-wanderer/chatgpt-called-me-unconventional-it-unlocked-a-lesson-from-vietnams-greatest-general-13nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
