@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto-Generate API Gateway Terraform from OpenAPI Specs](https://dev.to/ikponmwosa_omorisiagbon_f/auto-generate-api-gateway-terraform-from-openapi-specs-2gg8)
+- [#DAY 2: From Installation to Operational Verification](https://dev.to/samueladeduntan/day-2-from-installation-to-operational-verification-390g)
 - [How to Stop Fighting with Time Zones as a Developer](https://dev.to/lovestaco/how-to-stop-fighting-with-time-zones-as-a-developer-10ih)
+- [My Java Learning Blog - Introduction to classes, variables and methods](https://dev.to/abinaya_ecf4e73cb66304c37/my-java-learning-blog-introduction-to-classes-variables-and-methods-3cbg)
 - [Why Self-Hosting made me a better engineer](https://dev.to/mvaldes/why-self-hosting-made-me-a-better-engineer-4d3b)
-- [Chef Tips and Tricks](https://dev.to/mvaldes/chef-tips-and-tricks-3kj8)
-- [Xcode Yerine Cursor: macOS Varsayılan Editör Değiştirme](https://dev.to/yemreak/xcode-yerine-cursor-macos-varsayilan-editor-degistirme-58f6)
-- [My SaaS Infrastructure as a Solo Founder](https://dev.to/shayy/my-saas-infrastructure-as-a-solo-founder-2ghl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
