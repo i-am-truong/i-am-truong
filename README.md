@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Makefile Over GitHub Actions Total Control](https://dev.to/yemreak/makefile-over-github-actions-total-control-57mb)
-- [Signals &amp; JS Event Loop: Rethinking Angular Reactive Sync](https://dev.to/leolanese/signals-js-event-loop-rethinking-angular-reactive-sync-48bn)
-- [How I Built My First Telegram Bot &lpar;and Why Small Steps Matter&rpar;](https://dev.to/marikinyo/how-i-built-my-first-telegram-bot-and-why-small-steps-matter-2n0c)
-- [🚨 Building an IOC Triage Pipeline with Suricata + ML + Docker](https://dev.to/maxhagl/building-an-ioc-triage-pipeline-with-suricata-ml-docker-2lcf)
-- [KEXP: Brittany Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-full-performance-live-on-kexp-4adl)
+- [From Cloud through AI, a personal opinion of industry trends](https://dev.to/aws-builders/from-cloud-through-ai-a-personal-opinion-of-industry-trends-2p9i)
+- [MMA Coach Assistant](https://dev.to/paulo_abbcba03b4df70572fc/mma-coach-assistant-40c0)
+- [PWC 338 Maximal maximization of maximums](https://dev.to/boblied/pwc-338-maximal-maximization-of-maximums-4jm1)
+- [🚀 Day 10 of My Python Learning Journey](https://dev.to/_adii3107/day-10-of-my-python-learning-journey-3bao)
+- [Jira Sucks](https://dev.to/calteen/jira-sucks-3i22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
