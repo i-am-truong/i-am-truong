@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My 49-Year Journey: From a 1976 IBM 5100 to Building an AI-Powered BASIC](https://dev.to/atomijd/my-49-year-journey-from-a-1976-ibm-5100-to-building-an-ai-powered-basic-9hh)
 - [The True Cost of an AI Engineer: A Deep Dive into Replit Agent vs. Lovable.dev](https://dev.to/aaronksaunders/the-true-cost-of-an-ai-engineer-a-deep-dive-into-replit-agent-vs-lovabledev-2djh)
 - [Beyond the terminal: Gemini CLI comes to Zed](https://dev.to/googleai/beyond-the-terminal-gemini-cli-comes-to-zed-3o43)
 - [🥋 Codewars — Achieve Mastery Through Challenge](https://dev.to/ml318097/codewars-achieve-mastery-through-challenge-57ni)
 - [The Queue: Understanding FIFO Data Structures in TypeScript](https://dev.to/rubenoalvarado/the-queue-understanding-fifo-data-structures-in-typescript-2cp5)
-- [Quantize Your Vectors, Speed Up Your Java AI Applications](https://dev.to/mongodb/quantize-your-vectors-speed-up-your-java-ai-applications-bng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
