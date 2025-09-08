@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 007 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-007-on-my-journey-to-becoming-a-css-pro-with-keith-grant-4anf)
 - [Deploy de uma api em rust em cloudrun através de pipeline com gitlab](https://dev.to/burgossrodrigo/deploy-de-uma-api-em-rust-em-cloudrun-atraves-de-pipeline-com-gitlab-na6)
 - [ARC in iOS: The Memory Management Revolution That Changed Everything](https://dev.to/arshtechpro/arc-in-ios-the-memory-management-revolution-that-changed-everything-4500)
 - [What’s More Important for Placements: Projects or Competitive Programming?](https://dev.to/avinash201199/whats-more-important-for-placements-projects-or-competitive-programming-571a)
 - [Building Smarter AI Apps: The Pydantic AI Way &lpar;Type Safety and Structured Responses&rpar;](https://dev.to/gabrielmrojas/building-smarter-ai-apps-the-pydantic-ai-way-type-safety-and-structured-responses-4do0)
-- [What Are AI Hallucinations and Why Do They Happen?](https://dev.to/shieldstring/what-are-ai-hallucinations-and-why-do-they-happen-1l3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
