@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode series: Data Structures &lpar;1/4&rpar;](https://dev.to/snikmas/leetcode-series-data-structures-14-23k6)
-- [Understanding the Differences Between Subqueries, CTEs, and Stored Procedures](https://dev.to/patrickkinoti/understanding-the-differences-between-subqueries-ctes-and-stored-procedures-3b75)
-- [🛠️ Was tired of duct-taping APIs and breaking ETL pipelines… RavenDB just dropped an AI Agent Creator inside the database. Finally feels like AI that won’t collapse on me.](https://dev.to/thedeepseeker/was-tired-of-duct-taping-apis-and-breaking-etl-pipelines-ravendb-just-dropped-an-ai-agent-5c06)
-- [Turn Any Image into a Blog Post with AI &lpar;React, Cloudinary &amp; OpenAI&rpar;](https://dev.to/cloudinary/turn-any-image-into-a-blog-post-with-ai-react-cloudinary-openai-3cb6)
-- [The Engineering Challenge of Creating a Drone-Based Emergency Wi-Fi Network](https://dev.to/dror_rofe_272e70cf3a16b05/the-engineering-challenge-of-creating-a-drone-based-emergency-wi-fi-network-362k)
+- [Most enterprise AI projects fail due to integration and data access issues. RavenDB’s AI Agent Creator runs AI agents inside the database itself, solving these problems and enabling faster, secure AI deployment. Would love to hear if others see this as the](https://dev.to/barak_codes/most-enterprise-ai-projects-fail-due-to-integration-and-data-access-issues-ravendbs-ai-agent-3lbd)
+- [React Native for Web Developers](https://dev.to/joespaf/react-native-for-web-developers-1464)
+- [💡 Tired of messy integrations and ETL headaches? RavenDB’s new AI Agent Creator runs AI directly inside the database finally a practical way to build context-aware AI.](https://dev.to/mingzhao/tired-of-messy-integrations-and-etl-headaches-ravendbs-new-ai-agent-creator-runs-ai-directly-24ne)
+- [Apache Kafka Deep Dive](https://dev.to/elvis_mwangi_/apache-kafka-deep-dive-384c)
+- [ipasnmatcher - Python Package for Fast IP-to-ASN Matching](https://dev.to/itsmmdoha/ipasnmatcher-python-package-for-fast-ip-to-asn-matching-5bpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
