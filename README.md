@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Stash: A Developer&#39;s Temporary Shelf](https://dev.to/siswoyo/git-stash-a-developers-temporary-shelf-2ofg)
 - [Deploying GPU-Enabled ECS EC2 Instances with Auto Scaling Groups and Launch Templates](https://dev.to/bikash119/deploying-gpu-enabled-ecs-ec2-instances-with-auto-scaling-groups-and-launch-templates-569l)
 - [Why Micro Animations in UI Design Create a Better User Experience](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-micro-animations-in-ui-design-create-a-better-user-experience-38dg)
 - [OxyCollect: The Pokémon Go of plastic litter tracking. Snap. Track. Collect.](https://dev.to/oxycollect/oxycollect-the-pokemon-go-of-plastic-litter-tracking-snap-track-collect-46m4)
 - [Being a solopreneur means wearing all the hats — CTO, programmer, strategist, team leader, creator. The challenge? There are only 24 hours in a day. That’s why solopreneurs who embrace AI as a silent partner are able to compete with teams 10x their size.](https://dev.to/jaideepparashar/being-a-solopreneur-means-wearing-all-the-hats-cto-programmer-strategist-team-leader-d6f)
-- [Debug-Free Mondays: How a 10-Minute Sunday Habit Can Cut Your Bug Reports by 70%](https://dev.to/teamcamp/debug-free-mondays-how-a-10-minute-sunday-habit-can-cut-your-bug-reports-by-70-134j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
