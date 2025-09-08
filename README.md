@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Вопрос к Ai : Будет ли равнозначным ответ нейросети на промпт, одинаковый по смыслу, составленный на русском и английском языках](https://dev.to/iliya_koltsov_f723b606aaf/vopros-k-ai-budiet-li-ravnoznachnym-otviet-nieirosieti-na-prompt-odinakovyi-po-smyslu-sostavliennyi-3dp5)
+- [Stored Procedures vs Python Functions: Surprising Similarities](https://dev.to/gg001/stored-procedures-vs-python-functions-surprising-similarities-5bc3)
 - [SQL Query techniques and their differences ie Subqueries, CTEs and stored procedures.](https://dev.to/gg001/sql-query-techniques-and-their-differences-ie-subqueries-ctes-and-stored-procedures-4eli)
 - [Lamda functions and decorators: A developer&#39;s guide.](https://dev.to/gg001/lamda-functions-and-decorators-a-developers-guide-1ok0)
 - [The art and science of effectively maintaining changelogs](https://dev.to/prahladyeri/the-art-and-science-of-effectively-maintaining-changelogs-2e92)
-- [Learn These 3 Methods to Implement OTA in IoT Devices](https://dev.to/william_smith/learn-these-3-methods-to-implement-ota-in-iot-devices-1hmh)
-- [🔭 Nocturne – A Blockchain Explorer for Midnight Network ⛓️](https://dev.to/minhlong2605/nocturne-a-blockchain-explorer-for-midnight-network-3041)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
