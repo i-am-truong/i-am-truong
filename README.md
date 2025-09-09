@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Best Job Boards for Remote Work in 2025](https://dev.to/moope/5-best-job-boards-for-remote-work-in-2025-3ben)
 - [JavaScript30 — 30 Days of Vanilla JS Fun](https://dev.to/ml318097/javascript30-30-days-of-vanilla-js-fun-2mbc)
 - [Convertir YouTube a MP3 online con FastAPI, yt-dlp y FFmpeg](https://dev.to/whario/convertir-youtube-a-mp3-online-con-fastapi-yt-dlp-y-ffmpeg-1622)
 - [Creational Design Patterns in Python. Part II](https://dev.to/mcheremnov/creational-design-patterns-in-python-part-ii-1a7o)
 - [7 Best Authentication Frameworks for 2025 &lpar;Free &amp; Paid Compared&rpar;](https://dev.to/syedsakhiakram66/7-best-authentication-frameworks-for-2025-free-paid-compared-159g)
-- [Getting started: Your GreenOps implementation roadmap](https://dev.to/gatling/getting-started-your-greenops-implementation-roadmap-4d45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
