@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Life Hack for Turning a Boring Walk into a Real-Life Video Game Hometown](https://dev.to/dirsebastian/the-ultimate-life-hack-for-turning-a-boring-walk-into-a-real-life-video-game-hometown-h3m)
-- [Agent Diary: Sep 9, 2025 - The Phantom Menace: When Commits Have Trust Issues](https://dev.to/aibuildsinterplay/agent-diary-sep-9-2025-the-phantom-menace-when-commits-have-trust-issues-53db)
-- [Give it a try!](https://dev.to/dirsebastian/give-it-a-try-43kb)
-- [Give it a try](https://dev.to/dirsebastian/give-it-a-try-4o1d)
-- [Experiment with gopls MCP: Improving Agent Context for Go Development](https://dev.to/calvinmclean/experiment-with-gopls-mcp-improving-agent-context-for-go-development-37bo)
+- [Prompt engineering isn’t optional. It’s the new literacy that will define who thrives and who struggles.](https://dev.to/jaideepparashar/prompt-engineering-isnt-optional-its-the-new-literacy-that-will-define-who-thrives-and-who-4jbe)
+- [Why Prompt Engineering is the New Literacy](https://dev.to/jaideepparashar/why-prompt-engineering-is-the-new-literacy-2lco)
+- [Structured Concurrency](https://dev.to/sadiul_hakim/what-is-structured-concurrency-21al)
+- [Navigating the Modern Job Market: AI&#39;s Role in Recruitment and Applications](https://dev.to/max_mayer/navigating-the-modern-job-market-ais-role-in-recruitment-and-applications-5d69)
+- [Feeling Stuck in Your AI Video Side Hustle? Here&#39;s a Quick Reset](https://dev.to/walker876/feeling-stuck-in-your-ai-video-side-hustle-heres-a-quick-reset-g5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
