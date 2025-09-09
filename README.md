@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Numbee &lpar;Number Arrange Puzzle&rpar;](https://dev.to/raghavendrake/numbee-number-arrange-puzzle-5gl1)
 - [Apple Intelligence vs Google Gemini: A Technical Comparison](https://dev.to/alifar/apple-intelligence-vs-google-gemini-a-technical-comparison-4a8a)
 - [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
 - [Redux desde cero](https://dev.to/pwalvarado/redux-desde-cero-5ekc)
 - [Application Streamlit Gemini Marketing Pro Plus](https://dev.to/sofiane_chehboune_ed94b4c/application-streamlit-gemini-marketing-pro-plus-p84)
-- [Day 46: Set-up CloudWatch alarms and SNS topics on AWS](https://dev.to/udoh_deborah_b1e484c474bf/day-46-set-up-cloudwatch-alarms-and-sns-topics-on-aws-173b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
