@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Power Platform Admin Center – App Access Checker](https://dev.to/nikhildynamicsce/power-platform-admin-center-app-access-checker-3125)
-- [5 UX Lessons Artificial Grass Companies Can Learn from E-commerce Leaders](https://dev.to/nzs_blogs/5-ux-lessons-artificial-grass-companies-can-learn-from-e-commerce-leaders-50e2)
-- [Beyond Uptime: Why Your All Green Dashboard is Lying to You](https://dev.to/tomcao2012/beyond-uptime-why-your-all-green-dashboard-is-lying-to-you-2b5)
-- [How to proxy Flutter&#39;s network requests to the native layer](https://dev.to/huangli_huang_12f4a0530eb/how-to-proxy-flutters-network-requests-to-the-native-layer-5b3b)
-- [Data Silos: Why Teams Keep Drowning in Their Own Information](https://dev.to/aaron_rose_0787cc8b4775a0/data-silos-why-teams-keep-drowning-in-their-own-information-j7h)
+- [My LFX Mentorship journey.](https://dev.to/ajaysingh1/my-lfx-mentorship-journey-5bil)
+- [Developers&#39; Toolkit: Integrating Onboarding Buddy APIs for Seamless Compliance](https://dev.to/onboardingbuddy/developers-toolkit-integrating-onboarding-buddy-apis-for-seamless-compliance-2mc2)
+- [How to revert a committed &amp; pushed file](https://dev.to/viktorle1294/how-to-revert-a-committed-pushed-file-3508)
+- [## Understanding Access Token and Refresh Token Flow](https://dev.to/jjammeso/-understanding-authentication-and-refresh-token-flow-15hi)
+- [AI-Powered Social Media Engagement Manager](https://dev.to/deniskisina/ai-powered-social-media-engagement-manager-3pjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
