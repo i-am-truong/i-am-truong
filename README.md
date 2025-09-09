@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrapping vs Funding: Which Path Fits 2025?](https://dev.to/gov01/bootstrapping-vs-funding-which-path-fits-2025-3adm)
-- [One Chart That Explains the Power of AI-Driven Development](https://dev.to/pppp606/one-chart-that-explains-the-power-of-ai-driven-development-5gbo)
-- [Incidents Often Come in Pairs](https://dev.to/jonasbn/incidents-often-come-in-pairs-3gok)
-- [📊 Building a simple Wireframe Chart with FSCSS](https://dev.to/fscss-ttr/building-a-simple-wireframe-chart-with-fscss-4me)
-- [Protegendo segredos com HashiCorp Vault em um cluster Kubernetes da Magalu Cloud](https://dev.to/magalucloud/protegendo-segredos-com-hashicorp-vault-em-um-cluster-kubernetes-da-magalu-cloud-2fl2)
+- [🏁 ASPICE Literacy: Episode 1 — What Exactly Is ASPICE?](https://dev.to/abdulosman/aspice-literacy-episode-1-what-exactly-is-aspice-535c)
+- [⚡ How to Create a React App Using Vite &lpar;Step by Step Guide&rpar;](https://dev.to/its_renuka_/how-to-create-a-react-app-using-vite-step-by-step-guide-4n76)
+- [Engineering matters: How QA is evolving into QE](https://dev.to/abudantsov/engineering-matters-how-qa-is-evolving-into-qe-16oe)
+- [Day 90: When Success Feels Like Nothing](https://dev.to/casperday11/day-90-when-success-feels-like-nothing-2pj2)
+- [The Essentials of Unit Testing in iOS - A Quick Guide](https://dev.to/vnayak_hejib/the-essentials-of-unit-testing-in-ios-a-quick-guide-3031)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
