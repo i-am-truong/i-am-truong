@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The NPM Supply Chain Attack: What Happened, Why It Matters, and How to Stay Safe](https://dev.to/scofieldidehen/the-npm-supply-chain-attack-what-happened-why-it-matters-and-how-to-stay-safe-39fc)
-- [Golf.com: How to Master the 50 Yard Pitch Shot](https://dev.to/youtube_golf/golfcom-how-to-master-the-50-yard-pitch-shot-1n2j)
-- [Jeff Su: 5 iPhone AI Habits The Top 1% Use](https://dev.to/future_ai/jeff-su-5-iphone-ai-habits-the-top-1-use-44an)
-- [IGN: Unyielder - Official Release Date Trailer](https://dev.to/gg_news/ign-unyielder-official-release-date-trailer-3ho6)
-- [IGN: The Smashing Machine - Official Trailer #2 &lpar;2025&rpar; Dwayne Johnson, Emily Blunt.](https://dev.to/gg_news/ign-the-smashing-machine-official-trailer-2-2025-dwayne-johnson-emily-blunt-phi)
+- [Vẽ quy trình nghiệp vụ bằng BPMN trong DrawIO](https://dev.to/longtth/ve-quy-trinh-nghiep-vu-bang-bpmn-trong-drawio-3gp3)
+- [React Ref Problem: Ref Pointing to Multiple DOM Elements with CSS Media Query Hiding](https://dev.to/myl3s/react-ref-problem-ref-pointing-to-multiple-dom-elements-with-css-media-query-hiding-168h)
+- [🚀 Day 31 of My Data Analytics Journey !](https://dev.to/ramyacse/day-31-of-my-data-analytics-journey--4dg8)
+- [What is Context Engineering?](https://dev.to/elastic/what-is-context-engineering-f56)
+- [The Future of AI in Customer-Facing Websites](https://dev.to/ajeetchouksey/the-future-of-ai-in-customer-facing-websites-4og3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
