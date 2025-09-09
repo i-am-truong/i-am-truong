@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bash Solutions: NUF and process substitutions](https://dev.to/cloud-sky-ops/bash-solutions-nuf-and-process-substitutions-ep2)
 - [จากไม่มีบ้านสู่การสร้างบ้านให้คนทั้งประเทศ: บทเรียนธุรกิจและชีวิตจาก CK](https://dev.to/pskclub/cchaakaimmiibaansuukaarsraangbaanaihkhnthangpraeths-btheriiynthurkicchaelachiiwitcchaak-ck-3n9f)
 - [Eyes Wide Shut](https://dev.to/masih_maafi_579688ae132b9/eyes-wide-shut-4cpb)
 - [Your Sales Battlecards Suck. Here&#39;s How to Fix Them](https://dev.to/paultowers/your-sales-battlecards-suck-heres-how-to-fix-them-35o1)
 - [Borrowed Brains: Are Pre-Trained Models a Developer&#39;s Best Friend... or Worst Nightmare? by Arvind Sundararajan](https://dev.to/arvindsundararajan/borrowed-brains-are-pre-trained-models-a-developers-best-friend-or-worst-nightmare-by-arvind-5dg7)
-- [React Component to npm Package: Minimal Setup with Rollup, Vite, and GitHub Pages](https://dev.to/apayrus/react-component-to-npm-package-minimal-setup-with-rollup-vite-and-github-pages-20aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
