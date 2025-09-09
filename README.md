@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Become a Bio AI Software Engineer? &lpar;Community-Maintained&rpar;](https://dev.to/bio-ai-software-engineer/how-to-become-a-bio-ai-software-engineer-community-maintained-1e14)
-- [How to Become a Biotech Software Engineer? &lpar;Community-Maintained&rpar;](https://dev.to/bio-ai-software-engineer/how-to-become-a-biotech-software-engineer-community-maintained-2n1n)
-- [php: a curl cheatsheet](https://dev.to/gbhorwood/php-a-curl-cheatsheet-37em)
-- [GenAI Foundations – Chapter 5: Project Planning with the Generative AI Canvas](https://dev.to/r0mymendez/genai-foundations-chapter-5-project-planning-with-the-generative-ai-canvas-2o73)
-- [GenAI Foundations – Chapter 4: Model Customization &amp; Evaluation – Can We Trust the Outputs?](https://dev.to/r0mymendez/genai-foundations-chapter-4-model-customization-evaluation-can-we-trust-the-outputs-i21)
+- [🏁ASPICE Literacy: Episode 3 — Capability vs. Risk-Based Assessments: Choosing Your Lens 🔍](https://dev.to/abdulosman/aspice-literacy-episode-3-capability-vs-risk-based-assessments-choosing-your-lens-76n)
+- [Edge Computing with AWS: From CloudFront to Lambda@Edge Wizardry](https://dev.to/muhammad_zeeshan_6499a22a/edge-computing-with-aws-from-cloudfront-to-lambdaedge-wizardry-i8)
+- [Your Logs Contain Secrets: Why We Built a Zero-Knowledge Log Platform](https://dev.to/logflux/your-logs-contain-secrets-why-we-built-a-zero-knowledge-log-platform-3igj)
+- [Stop Wasting Time on Backend Boilerplate: Meet create-node-spark](https://dev.to/talhabilaldev/stop-wasting-time-on-backend-boilerplate-meet-create-node-spark-kng)
+- [JavaScript Error Handling Patterns You Must Know &lpar;With Examples &amp; Best Practices&rpar;](https://dev.to/rohit_singh_ee84e64941db7/javascript-error-handling-patterns-you-must-know-with-examples-best-practices-4kig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
