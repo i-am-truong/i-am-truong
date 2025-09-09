@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Test Frontend Changes with Browser &lpar;Using Chromium Overrides&rpar;](https://dev.to/rasyidf/test-frontend-changes-with-browser-using-chromium-overrides-41c)
 - [Mobile development best practices](https://dev.to/claranet/mobile-development-best-practices-24on)
 - [The Developer’s Roadmap to Building and Deploying AI Models](https://dev.to/kamruljpi/the-developers-roadmap-to-building-and-deploying-ai-models-4oin)
 - [Angular&#39;s Game-Changer: Why output&lpar;&rpar; is Replacing EventEmitter in 2025](https://dev.to/codewithrajat/angulars-game-changer-why-output-is-replacing-eventemitter-in-2025-5002)
 - [Implementing PostgreSQL Replication and Automated Cloud Backups Using Docker and Rclone](https://dev.to/bharat_solanke_8e45411fa6/implementing-postgresql-replication-and-automated-cloud-backups-using-docker-and-rclone-115)
-- [Shipaton: Do0ne Build Journal #1 - Project Setup &amp; First Build Complete](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-journal-1-project-setup-first-build-complete-309l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
