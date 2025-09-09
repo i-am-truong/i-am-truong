@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I just got drained for $996,000](https://dev.to/scofieldidehen/i-just-got-drained-for-996000-16gh)
+- [Microservices Security: From Fundamentals to Advanced Patterns](https://dev.to/randazraik/microservices-security-from-fundamentals-to-advanced-patterns-2ff)
+- [How We Use OpenAI and Gemini Batch APIs to Qualify Thousands of Sales Leads](https://dev.to/superpayments/how-we-use-openai-and-gemini-batch-apis-to-qualify-thousands-of-sales-leads-2knk)
 - [CAP Theorem in Distributed Systems : Beyond the ‘Pick Two’ Myth](https://dev.to/gambhirsamarth/cap-theorem-in-distributed-systems-beyond-the-pick-two-myth-38a)
 - [🛠️ The Full Stack DevOps Workshop](https://dev.to/kosisochukwu_ugochukwu_a2/the-full-stack-devops-workshop-196j)
-- [Day 2/365 Days coding challenge of Full stack: Add headings, paragraphs, and links in HTML](https://dev.to/code_2/day-2365-days-coding-challenge-of-full-stack-add-headings-paragraphs-and-links-in-html-50i2)
-- [Domain modeling, Units-of-Measure, and Property-based testing, oh my](https://dev.to/omanfk/domain-modeling-units-of-measure-and-property-based-testing-oh-my-502o)
-- [How to Avoid Single Points of Failure &lpar;SPOF&rpar; day 48 of system design](https://dev.to/vincenttommi/how-to-avoid-single-points-of-failure-spof-day-48-of-system-design-2913)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
