@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Intelligence vs Google Gemini: A Technical Comparison](https://dev.to/alifar/apple-intelligence-vs-google-gemini-a-technical-comparison-4a8a)
 - [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
 - [Redux desde cero](https://dev.to/pwalvarado/redux-desde-cero-5ekc)
 - [Application Streamlit Gemini Marketing Pro Plus](https://dev.to/sofiane_chehboune_ed94b4c/application-streamlit-gemini-marketing-pro-plus-p84)
 - [Day 46: Set-up CloudWatch alarms and SNS topics on AWS](https://dev.to/udoh_deborah_b1e484c474bf/day-46-set-up-cloudwatch-alarms-and-sns-topics-on-aws-173b)
-- [How to Integrate and Consume an API in Laravel &lpar;Step-by-Step Guide&rpar;](https://dev.to/msnmongare/how-to-integrate-and-consume-an-api-in-laravel-step-by-step-guide-26ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
