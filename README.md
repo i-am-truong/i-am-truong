@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Async vs Defer: quando usare uno o l&#39;altro?](https://dev.to/simone_perin_seo/async-vs-defer-quando-usare-uno-o-laltro-284l)
-- [Nepal&#39;s Youth-Led Revolution: The Fall of a Corrupt Prime Minister and the Fight for a New Era](https://dev.to/mingzhao/nepals-youth-led-revolution-the-fall-of-a-corrupt-prime-minister-and-the-fight-for-a-new-era-464)
-- [Build a Secure, Real-Time Chat App in Minutes with React, Clerk, and Stream](https://dev.to/naman_2004/build-a-secure-real-time-chat-app-in-minutes-with-react-clerk-and-stream-4a45)
-- [The Blood Moon Eclipse of September 7, 2025: A Cosmic Spectacle and Its Mystical Influences](https://dev.to/barak_codes/the-blood-moon-eclipse-of-september-7-2025-a-cosmic-spectacle-and-its-mystical-influences-247h)
-- [How a Bi-Dictionary Simplified My Unity Inventory System](https://dev.to/rahul_barate_e965377330fe/how-a-bi-dictionary-simplified-my-unity-inventory-system-2ejo)
+- [How to Become a Bio AI Software Engineer? &lpar;Community-Maintained&rpar;](https://dev.to/bio-ai-software-engineer/how-to-become-a-bio-ai-software-engineer-community-maintained-1e14)
+- [How to Become a Biotech Software Engineer? &lpar;Community-Maintained&rpar;](https://dev.to/bio-ai-software-engineer/how-to-become-a-biotech-software-engineer-community-maintained-2n1n)
+- [php: a curl cheatsheet](https://dev.to/gbhorwood/php-a-curl-cheatsheet-37em)
+- [GenAI Foundations – Chapter 5: Project Planning with the Generative AI Canvas](https://dev.to/r0mymendez/genai-foundations-chapter-5-project-planning-with-the-generative-ai-canvas-2o73)
+- [GenAI Foundations – Chapter 4: Model Customization &amp; Evaluation – Can We Trust the Outputs?](https://dev.to/r0mymendez/genai-foundations-chapter-4-model-customization-evaluation-can-we-trust-the-outputs-i21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
