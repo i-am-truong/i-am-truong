@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Do I need HDMI 2.1 for PS5/Xbox &lpar;4K/120, VRR, ALLM&rpar;?](https://dev.to/tiberius1023/do-i-need-hdmi-21-for-ps5xbox-4k120-vrr-allm-1c71)
-- [Cooking with Google AI](https://dev.to/ulrikedetective/cooking-with-google-ai-3fmn)
-- [🚀Git + Databricks: Why Both Are Essential for Modern Data Engineering](https://dev.to/shagun_khandelwal/git-databricks-why-both-are-essential-for-modern-data-engineering-46ph)
-- [Lightweight pending state handling in React](https://dev.to/axtk/lightweight-pending-state-handling-in-react-42e4)
-- [Journey into Collaborative Innovation](https://dev.to/tajudeen_abdulgafar_e0363/journey-into-collaborative-innovation-33g5)
+- [Your Sales Battlecards Suck. Here&#39;s How to Fix Them](https://dev.to/paultowers/your-sales-battlecards-suck-heres-how-to-fix-them-35o1)
+- [Borrowed Brains: Are Pre-Trained Models a Developer&#39;s Best Friend... or Worst Nightmare? by Arvind Sundararajan](https://dev.to/arvindsundararajan/borrowed-brains-are-pre-trained-models-a-developers-best-friend-or-worst-nightmare-by-arvind-5dg7)
+- [React Component to npm Package: Minimal Setup with Rollup, Vite, and GitHub Pages](https://dev.to/apayrus/react-component-to-npm-package-minimal-setup-with-rollup-vite-and-github-pages-20aa)
+- [Tracking AI system performance using AI Evaluation Reports](https://dev.to/leading-edje/tracking-ai-system-performance-using-ai-evaluation-reports-376n)
+- [Parameters vs Arguments](https://dev.to/mohamad_mhana/parameters-vs-arguments-2cjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
