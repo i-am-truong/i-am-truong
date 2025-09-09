@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Master Your Workflow with GitFlow: A Branching Strategy for Seamless Development](https://dev.to/durrello/master-your-workflow-with-gitflow-a-branching-strategy-for-seamless-development-cob)
+- [How to Fix &quot;Request Entity Too Large&quot; Error in Nginx](https://dev.to/ashirbadgudu/how-to-fix-request-entity-too-large-error-in-nginx-32bo)
+- [Handling large file uploads](https://dev.to/brendon_oneill__/handling-large-file-uploads-28j5)
+- [Getting dev laptop ready](https://dev.to/seongbae/getting-dev-laptop-ready-83e)
 - [A Self-Destructing Inbox — Discover the Magic of TempMail3.com](https://dev.to/walker876/a-self-destructing-inbox-discover-the-magic-of-tempmail3com-10bo)
-- [From Analog to Digital: Signal Simulation](https://dev.to/simon_chauveau_27459e6bb5/from-analog-to-digital-signal-simulation-1hm0)
-- [5 Best Job Boards for Remote Work in 2025](https://dev.to/moope/5-best-job-boards-for-remote-work-in-2025-3ben)
-- [JavaScript30 — 30 Days of Vanilla JS Fun](https://dev.to/ml318097/javascript30-30-days-of-vanilla-js-fun-2mbc)
-- [Convertir YouTube a MP3 online con FastAPI, yt-dlp y FFmpeg](https://dev.to/whario/convertir-youtube-a-mp3-online-con-fastapi-yt-dlp-y-ffmpeg-1622)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
