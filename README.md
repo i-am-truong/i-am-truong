@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I just got drained for $996,000](https://dev.to/scofieldidehen/i-just-got-drained-for-996000-16gh)
-- [Microservices Security: From Fundamentals to Advanced Patterns](https://dev.to/randazraik/microservices-security-from-fundamentals-to-advanced-patterns-2ff)
-- [How We Use OpenAI and Gemini Batch APIs to Qualify Thousands of Sales Leads](https://dev.to/superpayments/how-we-use-openai-and-gemini-batch-apis-to-qualify-thousands-of-sales-leads-2knk)
-- [CAP Theorem in Distributed Systems : Beyond the ‘Pick Two’ Myth](https://dev.to/gambhirsamarth/cap-theorem-in-distributed-systems-beyond-the-pick-two-myth-38a)
-- [🛠️ The Full Stack DevOps Workshop](https://dev.to/kosisochukwu_ugochukwu_a2/the-full-stack-devops-workshop-196j)
+- [Pipex: The Rust Pipeline Revolution — From Pure Functions to GPU Acceleration](https://dev.to/edransy/pipex-the-rust-pipeline-revolution-from-pure-functions-to-gpu-acceleration-2g0e)
+- [How to Build Scalable Headless WordPress Sites With React &amp; GraphQL](https://dev.to/addwebsolutionpvtltd/how-to-build-scalable-headless-wordpress-sites-with-react-graphql-33m1)
+- [🚀 Day 11 of My Python Learning Journey](https://dev.to/_adii3107/day-11-of-my-python-learning-journey-1k17)
+- [Launch Faster: Free Multipurpose Templates for Your Next.js Project](https://dev.to/isanjayjoshi/launch-faster-free-multipurpose-templates-for-your-nextjs-project-3l7)
+- [Introducing react-night-toggle - A Simple Dark/Light Mode Switch for React](https://dev.to/praveenskg/introducing-react-night-toggle-a-simple-darklight-mode-switch-for-react-2da3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
