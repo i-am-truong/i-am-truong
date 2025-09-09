@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 CI/CD for Terraform with GitHub Actions: Deploying a Node.js + Redis App on AWS](https://dev.to/aws-builders/cicd-for-terraform-with-github-actions-deploying-a-nodejs-redis-app-on-aws-24c4)
+- [K2 Think: Abu Dhabi&#39;s Efficient AI Model Challenges Industry Giants](https://dev.to/yathin_chandra_649b921cc6/k2-think-abu-dhabis-efficient-ai-model-challenges-industry-giants-79)
 - [🏁 ASPICE Literacy: Episode 1 — What Exactly Is ASPICE?](https://dev.to/abdulosman/aspice-literacy-episode-1-what-exactly-is-aspice-535c)
-- [⚡ How to Create a React App Using Vite &lpar;Step by Step Guide&rpar;](https://dev.to/its_renuka_/how-to-create-a-react-app-using-vite-step-by-step-guide-4n76)
+- [⚡ How to Create a React App Using Vite &lpar;Step by Step Guide&rpar;](https://dev.to/its_dev_/how-to-create-a-react-app-using-vite-step-by-step-guide-4n76)
 - [Engineering matters: How QA is evolving into QE](https://dev.to/abudantsov/engineering-matters-how-qa-is-evolving-into-qe-16oe)
-- [Day 90: When Success Feels Like Nothing](https://dev.to/casperday11/day-90-when-success-feels-like-nothing-2pj2)
-- [The Essentials of Unit Testing in iOS - A Quick Guide](https://dev.to/vnayak_hejib/the-essentials-of-unit-testing-in-ios-a-quick-guide-3031)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
