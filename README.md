@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente &lpar;A2A&rpar;](https://dev.to/aws-espanol/construyendo-agentes-strands-con-pocas-lineas-de-codigo-comunicacion-agente-a-agente-a2a-gdk)
 - [Gemini Marketing Pro Plus &lpar;Nano Banana Edition&rpar;](https://dev.to/sofiane_chehboune_ed94b4c/gemini-marketing-pro-plus-nano-banana-edition-5g44)
 - [How to easily create a CLI in Rust using clap and clap_mangen](https://dev.to/0xle0ne/how-to-easily-create-a-cli-in-rust-using-clap-and-clapmangen-37g1)
 - [How We Cut Our AI API Costs by 90% Without Changing Code Quality](https://dev.to/apicrusher/how-we-cut-our-ai-api-costs-by-90-without-changing-code-quality-3oeh)
 - [AI Isn’t Changing Developers, It’s Reminding Us Who We Are](https://dev.to/jaapio/ai-isnt-changing-developers-its-reminding-us-who-we-are-491o)
-- [🐍✨ Level Up Your Python: Advanced Tips, Tricks &amp; Hacks](https://dev.to/aaron_rose_0787cc8b4775a0/level-up-your-python-advanced-tips-tricks-hacks-5f97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
