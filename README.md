@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IGN: Indiana Jones and the Great Circle: The Order of Giants Review](https://dev.to/gg_news/ign-indiana-jones-and-the-great-circle-the-order-of-giants-review-27bi)
+- [#DAY 3: The Cloud Brain](https://dev.to/samueladeduntan/day-3-the-cloud-brain-4od6)
+- [Fixed Window Rate Limiting: Concept, Examples, and Java Implementation](https://dev.to/vipratechsolutions/fixed-window-rate-limiting-concept-examples-and-java-implementation-5070)
 - [Rate Limiting Algorithms: Concepts, Use Cases, and Implementation Strategies](https://dev.to/vipratechsolutions/rate-limiting-algorithms-concepts-use-cases-and-implementation-strategies-33bl)
-- [13 MCP Servers Every Developer Should Use 💻](https://dev.to/composiodev/13-mcp-servers-every-developer-should-use-3i47)
-- [Multithreading in Python: Lifecycle, Locks, and Thread Pools](https://dev.to/imsushant12/multithreading-in-python-lifecycle-locks-and-thread-pools-3pg3)
-- [Conversations, Code, and Chai: My KubeCon + CloudNativeCon India 2025 Experience](https://dev.to/imransaifi/conversations-code-and-chai-my-kubecon-cloudnativecon-india-2025-experience-3lda)
-- [Flutter Trends 2025: The Future of Cross-Platform Development](https://dev.to/andrewsjoey17/flutter-trends-2025-the-future-of-cross-platform-development-3jnk)
+- [গিটহাব লাইসেন্স: কোনটি কবে ব্যবহারযোগ্য?](https://dev.to/engrsakib/gitthaab-laaisens-kontti-kbe-bybhaaryogy-5aaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
