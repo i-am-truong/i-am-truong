@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Health Companion — Making healthcare information accessible for everyone.](https://dev.to/ihossen016/ai-health-companion-making-healthcare-information-accessible-for-everyone-4nbi)
-- [30-Second Git Commits: The Micro-Habit That Saved Me 10 Hours Per Week](https://dev.to/teamcamp/30-second-git-commits-the-micro-habit-that-saved-me-10-hours-per-week-2ef1)
-- [Can an Algorithm Dream? I Built an App to Find Out.](https://dev.to/dirsebastian/can-an-algorithm-dream-i-built-an-app-to-find-out-2p8d)
-- [Headless Raspberry Pi 4B &lpar;2GB RAM&rpar; Setup for Docker, k3s &amp; API Hosting](https://dev.to/masoomjethwa/headless-raspberry-pi-4b-2gb-ram-setup-for-docker-k3s-api-hosting-1fgl)
-- [Headless Raspberry Pi 3B Setup, Benchmarking &amp; Backup – A Developer’s Guide](https://dev.to/masoomjethwa/headless-raspberry-pi-3b-setup-benchmarking-backup-a-developers-guide-4dj1)
+- [Hyouji &lpar;表示&rpar;: Streamline Your GitHub Label Management with This Powerful CLI Tool](https://dev.to/0xkoji/hyouji-biao-shi-streamline-your-github-label-management-with-this-powerful-cli-tool-1cl)
+- [Chapter 2: Architecting Cloak UI —Monorepos, Turborepo, and Frontend Patterns](https://dev.to/shagunsharma6677/chapter-2-architecting-cloak-ui-monorepos-turborepo-and-frontend-patterns-5bj7)
+- [11 System Design Interview Questions Every Engineer Should Master &lpar;With Real-World Answers 🚀&rpar;](https://dev.to/renukapatil/11-system-design-interview-questions-every-engineer-should-master-with-real-world-answers--iej)
+- [Prompt Engineering for Software Engineers](https://dev.to/araldhafeeri/prompt-engineering-for-software-engineers-59e6)
+- [99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications](https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
