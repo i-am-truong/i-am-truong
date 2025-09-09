@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🛠️ The Full Stack DevOps Workshop](https://dev.to/kosisochukwu_ugochukwu_a2/the-full-stack-devops-workshop-196j)
+- [Day 2/365 Days coding challenge of Full stack: Add headings, paragraphs, and links in HTML](https://dev.to/code_2/day-2365-days-coding-challenge-of-full-stack-add-headings-paragraphs-and-links-in-html-50i2)
 - [Domain modeling, Units-of-Measure, and Property-based testing, oh my](https://dev.to/omanfk/domain-modeling-units-of-measure-and-property-based-testing-oh-my-502o)
 - [How to Avoid Single Points of Failure &lpar;SPOF&rpar; day 48 of system design](https://dev.to/vincenttommi/how-to-avoid-single-points-of-failure-spof-day-48-of-system-design-2913)
 - [Measuring Platform Engineering with MONK metrics](https://dev.to/_steve_fenton_/measuring-platform-engineering-with-monk-metrics-18ob)
-- [🗓 Daily LeetCode Progress – Day 22](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-22-4ec0)
-- [Building KiroVerse: Where AI Mentorship Meets Blockchain Skill Verification](https://dev.to/amaan_ahmad_b58bdafaa7d3a/building-kiroverse-where-ai-mentorship-meets-blockchain-skill-verification-2610)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
