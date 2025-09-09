@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente &lpar;A2A&rpar;](https://dev.to/aws-espanol/construyendo-agentes-strands-con-pocas-lineas-de-codigo-comunicacion-agente-a-agente-a2a-gdk)
-- [Gemini Marketing Pro Plus &lpar;Nano Banana Edition&rpar;](https://dev.to/sofiane_chehboune_ed94b4c/gemini-marketing-pro-plus-nano-banana-edition-5g44)
-- [How to easily create a CLI in Rust using clap and clap_mangen](https://dev.to/0xle0ne/how-to-easily-create-a-cli-in-rust-using-clap-and-clapmangen-37g1)
-- [How We Cut Our AI API Costs by 90% Without Changing Code Quality](https://dev.to/apicrusher/how-we-cut-our-ai-api-costs-by-90-without-changing-code-quality-3oeh)
-- [AI Isn’t Changing Developers, It’s Reminding Us Who We Are](https://dev.to/jaapio/ai-isnt-changing-developers-its-reminding-us-who-we-are-491o)
+- [Prisma Deep‑Dive Handbook &lpar;2025&rpar; — From Zero to Expert](https://dev.to/mihir_bhadak/prisma-deep-dive-handbook-2025-from-zero-to-expert-1761)
+- [The Truth About Overemployment What Your Boss Doesn&#39;t Want You to Know](https://dev.to/thetechpreneur/the-truth-about-overemployment-what-your-boss-doesnt-want-you-to-know-3fjl)
+- [Congested Mind vs. Fresh Mind: The Hidden Factor in Problem Solving](https://dev.to/muhammedshafeeque/congested-mind-vs-fresh-mind-the-hidden-factor-in-problem-solving-4lcm)
+- [Beyond the Hype: Building Production-Ready AI for Helplines with DistilBERT Fine-Tuning](https://dev.to/rogendo/beyond-the-hype-building-production-ready-ai-for-helplines-with-distilbert-fine-tuning-2onb)
+- [Recursion vs Backtracking – Complete Guide](https://dev.to/gaurbprajapati/recursion-vs-backtracking-complete-guide-521g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
