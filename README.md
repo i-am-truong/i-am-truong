@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Integrate and Consume an API in Laravel &lpar;Step-by-Step Guide&rpar;](https://dev.to/msnmongare/how-to-integrate-and-consume-an-api-in-laravel-step-by-step-guide-26ki)
 - [Three reasons why computer science is no longer sexy - for now](https://dev.to/deividas_strole/three-reasons-why-computer-science-is-no-longer-sexy-for-now-1dal)
 - [Deep Dive into EF Core Data Retrieval from SQL Server: Understanding the Internal Process](https://dev.to/dev_saeid_ghaderi/deep-dive-into-ef-core-data-retrieval-from-sql-server-understanding-the-internal-process-1c3c)
 - [Balancing personal projects with learning and growth](https://dev.to/blesinhub/balancing-personal-projects-with-learning-and-growth-4eel)
 - [Simple steps to Multi-Tenant Architecture Design](https://dev.to/naimulkarim/simple-steps-to-multi-tenant-architecture-design-3l95)
-- [Rick Beato: The Les Claypool Interview: Primus, South Park, And The Art Of Weird Bass](https://dev.to/music_youtube/rick-beato-the-les-claypool-interview-primus-south-park-and-the-art-of-weird-bass-24m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
