@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔢 Today I Learned: Counting Digits in Java](https://dev.to/its_renuka_/today-i-learned-counting-digits-in-java-2e9n)
+- [Practical Approach to Network Security Group Setup](https://dev.to/ajayid10/practical-approach-to-network-security-group-setup-4j26)
 - [What Happens When You Type a URL in Your Browser?](https://dev.to/libintombaby/what-happens-when-you-type-a-url-in-your-browser-1npd)
 - [Refresher - Overlooked .NET fundamentals](https://dev.to/libintombaby/refresher-overlooked-net-fundamentals-ek9)
 - [The Simple 4-Step Guide to DHCP Server Configuration for Multiple VLANs](https://dev.to/nishanth_abimanyu_001/the-simple-4-step-guide-to-dhcp-server-configuration-for-multiple-vlans-2c4e)
-- [Vẽ quy trình nghiệp vụ bằng BPMN trong DrawIO](https://dev.to/longtth/ve-quy-trinh-nghiep-vu-bang-bpmn-trong-drawio-3gp3)
-- [React Ref Problem: Ref Pointing to Multiple DOM Elements with CSS Media Query Hiding](https://dev.to/myl3s/react-ref-problem-ref-pointing-to-multiple-dom-elements-with-css-media-query-hiding-168h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
