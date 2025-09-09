@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Indiana Jones and the Great Circle: The Order of Giants Review](https://dev.to/gg_news/ign-indiana-jones-and-the-great-circle-the-order-of-giants-review-27bi)
-- [#DAY 3: The Cloud Brain](https://dev.to/samueladeduntan/day-3-the-cloud-brain-4od6)
-- [Fixed Window Rate Limiting: Concept, Examples, and Java Implementation](https://dev.to/vipratechsolutions/fixed-window-rate-limiting-concept-examples-and-java-implementation-5070)
-- [Rate Limiting Algorithms: Concepts, Use Cases, and Implementation Strategies](https://dev.to/vipratechsolutions/rate-limiting-algorithms-concepts-use-cases-and-implementation-strategies-33bl)
-- [গিটহাব লাইসেন্স: কোনটি কবে ব্যবহারযোগ্য?](https://dev.to/engrsakib/gitthaab-laaisens-kontti-kbe-bybhaaryogy-5aaf)
+- [I’ve reviewed thousands of engineering resumes. This is what tells me you can code.](https://dev.to/fahimulhaq/ive-reviewed-thousands-of-engineering-resumes-this-is-what-tells-me-you-can-code-36e0)
+- [Passing Data with Props: Building Parent-Child Components](https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp)
+- [Signals Form: Introduction](https://dev.to/this-is-angular/signals-form-introduction-11d1)
+- [Mastering Context and Async Data in Svelte &lpar;with Examples&rpar;](https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8)
+- [CI: A Practical Guide to Continuous Integration](https://dev.to/vickdapro/ci-a-practical-guide-to-continuous-integration-f7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
