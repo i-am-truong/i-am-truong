@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Multithreading in Python: Lifecycle, Locks, and Thread Pools](https://dev.to/imsushant12/multithreading-in-python-lifecycle-locks-and-thread-pools-3pg3)
+- [Conversations, Code, and Chai: My KubeCon + CloudNativeCon India 2025 Experience](https://dev.to/imransaifi/conversations-code-and-chai-my-kubecon-cloudnativecon-india-2025-experience-3lda)
+- [Flutter Trends 2025: The Future of Cross-Platform Development](https://dev.to/andrewsjoey17/flutter-trends-2025-the-future-of-cross-platform-development-3jnk)
+- [react mini projeacts....](https://dev.to/rajeshwari_rajeshwari_0e5/react-mini-projeacts-2i3a)
 - [Hyouji &lpar;表示&rpar;: Streamline Your GitHub Label Management with This Powerful CLI Tool](https://dev.to/0xkoji/hyouji-biao-shi-streamline-your-github-label-management-with-this-powerful-cli-tool-1cl)
-- [Chapter 2: Architecting Cloak UI —Monorepos, Turborepo, and Frontend Patterns](https://dev.to/shagunsharma6677/chapter-2-architecting-cloak-ui-monorepos-turborepo-and-frontend-patterns-5bj7)
-- [11 System Design Interview Questions Every Engineer Should Master &lpar;With Real-World Answers 🚀&rpar;](https://dev.to/renukapatil/11-system-design-interview-questions-every-engineer-should-master-with-real-world-answers--iej)
-- [Prompt Engineering for Software Engineers](https://dev.to/araldhafeeri/prompt-engineering-for-software-engineers-59e6)
-- [99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications](https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
