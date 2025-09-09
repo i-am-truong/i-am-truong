@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Golang Interfaces: Why Your Struct Fits an Interface It Never Met](https://dev.to/ishmam_abir/decoding-golang-interfaces-why-your-struct-fits-an-interface-it-never-met-481b)
-- [Headless CMS Guide 2025, Part 2: Top platforms and how to choose the right one](https://dev.to/flotiq/headless-cms-guide-2025-part-2-top-platforms-and-how-to-choose-the-right-one-5anc)
-- [AI Receptionists Explained: Technical Architecture, Features, and Use Cases](https://dev.to/alifar/ai-receptionists-explained-technical-architecture-features-and-use-cases-3c9b)
-- [Master Your Workflow with GitFlow: A Branching Strategy for Seamless Development](https://dev.to/durrello/master-your-workflow-with-gitflow-a-branching-strategy-for-seamless-development-cob)
-- [How to Fix &quot;Request Entity Too Large&quot; Error in Nginx](https://dev.to/ashirbadgudu/how-to-fix-request-entity-too-large-error-in-nginx-32bo)
+- [4 Free Methods to use LLM APIs in Development](https://dev.to/this-is-learning/4-free-methods-to-use-llm-apis-in-development-45f6)
+- [StoreKit External Purchase – Regional Restriction Not Working + canPresent&lpar;&rpar; Always Returns False](https://dev.to/dev_78/storekit-external-purchase-regional-restriction-not-working-canpresent-always-returns-false-28pm)
+- [Deploying a Laravel Portfolio to AWS EC2: Complete Production Setup](https://dev.to/ravi_sengarrajasthan_c6f/deploying-a-laravel-portfolio-to-aws-ec2-complete-production-setup-329h)
+- [Testando Componentes com React Hook Form + Zod](https://dev.to/vitorrios1001/testando-componentes-com-react-hook-form-zod-13nk)
+- [Stop Writing The Same Prompts - Makefiles Changed Everything](https://dev.to/yemreak/stop-writing-the-same-prompts-makefiles-changed-everything-46md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
