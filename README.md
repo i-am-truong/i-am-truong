@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing Secrets in Dev Tools Without Getting Yelled At](https://dev.to/thecodersden/managing-secrets-in-dev-tools-without-getting-yelled-at-2npm)
 - [I’ve reviewed thousands of engineering resumes. This is what tells me you can code.](https://dev.to/fahimulhaq/ive-reviewed-thousands-of-engineering-resumes-this-is-what-tells-me-you-can-code-36e0)
+- [Getting Started with API Testing in Python using PyTest](https://dev.to/zaid_ali_63962f037ad813c3/getting-started-with-api-testing-in-python-using-pytest-50i)
 - [Passing Data with Props: Building Parent-Child Components](https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp)
-- [Signals Form: Introduction](https://dev.to/this-is-angular/signals-form-introduction-11d1)
-- [Mastering Context and Async Data in Svelte &lpar;with Examples&rpar;](https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8)
-- [CI: A Practical Guide to Continuous Integration](https://dev.to/vickdapro/ci-a-practical-guide-to-continuous-integration-f7f)
+- [🚀 Zero-Downtime Deployments with Jenkins, Docker &amp; Hostinger VPS &lpar;Gradle + React + MySQL&rpar;](https://dev.to/tanvirmulla11/zero-downtime-deployments-with-jenkins-docker-hostinger-vps-gradle-react-mysql-24dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
