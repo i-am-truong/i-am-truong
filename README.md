@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [rcp &amp; rmv: copying &amp; moving using rsync with the simplicity of cp &amp; mv](https://dev.to/yoshimo2o/rcp-rmv-shortcuts-for-copying-moving-using-rsync-478i)
-- [Bulldog Behavior Interpreter](https://dev.to/rob_marcarelli_29748f27f0/bulldog-behavior-interpreter-4k7)
-- [5 Laravel Tips That Will Save You Hours of Debugging &lpar;From a Village Developer&rpar;](https://dev.to/hardik_kanajariya/5-laravel-tips-that-will-save-you-hours-of-debugging-from-a-village-developer-4h28)
-- [Meet Iconshelf.com: Your New Go-To Hub for Free Open Source SVG Icons](https://dev.to/goonlinetools/meet-iconshelfcom-your-new-go-to-hub-for-free-open-source-svg-icons-29fc)
-- [🚀 Challenge Lab Completed: Creating a Dynamic Website for the Café ☕️](https://dev.to/jubril_toheeb_61be96fe443/challenge-lab-completed-creating-a-dynamic-website-for-the-cafe-5d8d)
+- [Async vs Defer: quando usare uno o l&#39;altro?](https://dev.to/simone_perin_seo/async-vs-defer-quando-usare-uno-o-laltro-284l)
+- [Nepal&#39;s Youth-Led Revolution: The Fall of a Corrupt Prime Minister and the Fight for a New Era](https://dev.to/mingzhao/nepals-youth-led-revolution-the-fall-of-a-corrupt-prime-minister-and-the-fight-for-a-new-era-464)
+- [Build a Secure, Real-Time Chat App in Minutes with React, Clerk, and Stream](https://dev.to/naman_2004/build-a-secure-real-time-chat-app-in-minutes-with-react-clerk-and-stream-4a45)
+- [The Blood Moon Eclipse of September 7, 2025: A Cosmic Spectacle and Its Mystical Influences](https://dev.to/barak_codes/the-blood-moon-eclipse-of-september-7-2025-a-cosmic-spectacle-and-its-mystical-influences-247h)
+- [How a Bi-Dictionary Simplified My Unity Inventory System](https://dev.to/rahul_barate_e965377330fe/how-a-bi-dictionary-simplified-my-unity-inventory-system-2ejo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
