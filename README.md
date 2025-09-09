@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rate Limiting Algorithms: Concepts, Use Cases, and Implementation Strategies](https://dev.to/vipratechsolutions/rate-limiting-algorithms-concepts-use-cases-and-implementation-strategies-33bl)
+- [13 MCP Servers Every Developer Should Use 💻](https://dev.to/composiodev/13-mcp-servers-every-developer-should-use-3i47)
 - [Multithreading in Python: Lifecycle, Locks, and Thread Pools](https://dev.to/imsushant12/multithreading-in-python-lifecycle-locks-and-thread-pools-3pg3)
 - [Conversations, Code, and Chai: My KubeCon + CloudNativeCon India 2025 Experience](https://dev.to/imransaifi/conversations-code-and-chai-my-kubecon-cloudnativecon-india-2025-experience-3lda)
 - [Flutter Trends 2025: The Future of Cross-Platform Development](https://dev.to/andrewsjoey17/flutter-trends-2025-the-future-of-cross-platform-development-3jnk)
-- [react mini projeacts....](https://dev.to/rajeshwari_rajeshwari_0e5/react-mini-projeacts-2i3a)
-- [Hyouji &lpar;表示&rpar;: Streamline Your GitHub Label Management with This Powerful CLI Tool](https://dev.to/0xkoji/hyouji-biao-shi-streamline-your-github-label-management-with-this-powerful-cli-tool-1cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
