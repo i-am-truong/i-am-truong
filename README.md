@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Refactor Smart Today, Move Faster Tomorrow — Part 3: Tools That Save You From Yourself](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-3-tools-that-save-you-from-yourself-mnj)
-- [Guide to Testing SQS-Based Microservices with Signadot Sandboxes](https://dev.to/signadot/guide-to-testing-sqs-based-microservices-with-signadot-sandboxes-k64)
-- [Let&#39;s Make It Easy M-C-Peasy](https://dev.to/stacklok/lets-make-it-easy-m-c-peasy-3p0m)
-- [From Afishka to Aticket: Building a multilingual, multi-region ticket network on WordPress](https://dev.to/mikael_mesheryakov/from-afishka-to-aticket-building-a-multilingual-multi-region-ticket-network-on-wordpress-62f)
-- [🏁ASPICE Literacy: Episode 3 — Capability vs. Risk-Based Assessments: Choosing Your Lens 🔍](https://dev.to/abdulosman/aspice-literacy-episode-3-capability-vs-risk-based-assessments-choosing-your-lens-76n)
+- [3 CompTIA Network+ Concepts That Aren&#39;t Just About Memorization](https://dev.to/andrew_despres/3-comptia-network-concepts-that-arent-just-about-memorization-3fcb)
+- [Row Equivalence in Linear Algebra with Python](https://dev.to/shrsv/row-equivalence-in-linear-algebra-with-python-4opm)
+- [Mix with the Masters: Mixing drum breaks so they actually sound exciting - prepare to be amazed!](https://dev.to/music_youtube/mix-with-the-masters-mixing-drum-breaks-so-they-actually-sound-exciting-prepare-to-be-amazed-2m4o)
+- [NPR Music: Ed Sheeran: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ed-sheeran-tiny-desk-concert-5aam)
+- [IGN: Top 25 Best PS1 Games of All Time](https://dev.to/gg_news/ign-top-25-best-ps1-games-of-all-time-4adh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
