@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript30 — 30 Days of Vanilla JS Fun](https://dev.to/ml318097/javascript30-30-days-of-vanilla-js-fun-2mbc)
+- [Convertir YouTube a MP3 online con FastAPI, yt-dlp y FFmpeg](https://dev.to/whario/convertir-youtube-a-mp3-online-con-fastapi-yt-dlp-y-ffmpeg-1622)
+- [Creational Design Patterns in Python. Part II](https://dev.to/mcheremnov/creational-design-patterns-in-python-part-ii-1a7o)
 - [7 Best Authentication Frameworks for 2025 &lpar;Free &amp; Paid Compared&rpar;](https://dev.to/syedsakhiakram66/7-best-authentication-frameworks-for-2025-free-paid-compared-159g)
-- [MCP &amp; API: Are they Two Sides of the Same Coin, or Worlds Apart?](https://dev.to/composiodev/mcp-api-are-they-two-sides-of-the-same-coin-or-worlds-apart-1ce6)
-- [Ringer Movies: ‘The Legend of Billie Jean’ With Bill Simmons and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-legend-of-billie-jean-with-bill-simmons-and-chris-ryan-the-rewatchables-32pl)
-- [First Steps: Securing Your New Company&#39;s Laptop.](https://dev.to/mdcyberluv/first-steps-securing-your-new-companys-laptop-1did)
-- [Centry: Building a Fraud Detection Engine for Ghana’s Mobile Money Future](https://dev.to/the_spartan_dev/centry-building-a-fraud-detection-engine-for-ghanas-mobile-money-future-5gh5)
+- [Getting started: Your GreenOps implementation roadmap](https://dev.to/gatling/getting-started-your-greenops-implementation-roadmap-4d45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
