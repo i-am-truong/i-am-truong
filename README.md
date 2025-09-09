@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔢 Today I Learned: Counting Digits in Java](https://dev.to/its_renuka_/today-i-learned-counting-digits-in-java-2e9n)
-- [Practical Approach to Network Security Group Setup](https://dev.to/ajayid10/practical-approach-to-network-security-group-setup-4j26)
-- [What Happens When You Type a URL in Your Browser?](https://dev.to/libintombaby/what-happens-when-you-type-a-url-in-your-browser-1npd)
-- [Refresher - Overlooked .NET fundamentals](https://dev.to/libintombaby/refresher-overlooked-net-fundamentals-ek9)
-- [The Simple 4-Step Guide to DHCP Server Configuration for Multiple VLANs](https://dev.to/nishanth_abimanyu_001/the-simple-4-step-guide-to-dhcp-server-configuration-for-multiple-vlans-2c4e)
+- [Bootstrapping vs Funding: Which Path Fits 2025?](https://dev.to/gov01/bootstrapping-vs-funding-which-path-fits-2025-3adm)
+- [One Chart That Explains the Power of AI-Driven Development](https://dev.to/pppp606/one-chart-that-explains-the-power-of-ai-driven-development-5gbo)
+- [Incidents Often Come in Pairs](https://dev.to/jonasbn/incidents-often-come-in-pairs-3gok)
+- [📊 Building a simple Wireframe Chart with FSCSS](https://dev.to/fscss-ttr/building-a-simple-wireframe-chart-with-fscss-4me)
+- [Protegendo segredos com HashiCorp Vault em um cluster Kubernetes da Magalu Cloud](https://dev.to/magalucloud/protegendo-segredos-com-hashicorp-vault-em-um-cluster-kubernetes-da-magalu-cloud-2fl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
