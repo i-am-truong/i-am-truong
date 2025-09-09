@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create an AI MVP: A Full Development Guide](https://dev.to/raftlabs/how-to-create-an-ai-mvp-a-full-development-guide-19hb)
+- [Building Semantic Search That Actually Works: Beyond Basic Vector Similarity](https://dev.to/mrdubey/building-semantic-search-that-actually-works-beyond-basic-vector-similarity-1a62)
+- [From Jira Ticket to Live Server: My Week 3 DevOps Sprint](https://dev.to/okeke_chima_4d4acd8f61e67/from-jira-ticket-to-live-server-my-week-3-devops-sprint-3ln4)
 - [IoT performance testing: Navigating the connected device challenge](https://dev.to/gatling/iot-performance-testing-navigating-the-connected-device-challenge-49ia)
 - [Test Frontend Changes with Browser &lpar;Using Chromium Overrides&rpar;](https://dev.to/rasyidf/test-frontend-changes-with-browser-using-chromium-overrides-41c)
-- [Mastering MLflow: Managing the Full ML Lifecycle](https://dev.to/andrey_s/mastering-mlflow-managing-the-full-ml-lifecycle-24db)
-- [Shipaton: Do0ne Build Journal #1 - Project Setup &amp; First Build Complete](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-1-project-setup-first-build-complete-i0m)
-- [Mobile development best practices](https://dev.to/claranet/mobile-development-best-practices-24on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
