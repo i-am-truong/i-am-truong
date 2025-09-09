@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My LFX Mentorship journey.](https://dev.to/ajaysingh1/my-lfx-mentorship-journey-5bil)
-- [Developers&#39; Toolkit: Integrating Onboarding Buddy APIs for Seamless Compliance](https://dev.to/onboardingbuddy/developers-toolkit-integrating-onboarding-buddy-apis-for-seamless-compliance-2mc2)
-- [How to revert a committed &amp; pushed file](https://dev.to/viktorle1294/how-to-revert-a-committed-pushed-file-3508)
-- [## Understanding Access Token and Refresh Token Flow](https://dev.to/jjammeso/-understanding-authentication-and-refresh-token-flow-15hi)
-- [AI-Powered Social Media Engagement Manager](https://dev.to/deniskisina/ai-powered-social-media-engagement-manager-3pjl)
+- [From Simplicity to Complexity: My Love-Hate Journey with Next.js](https://dev.to/sibasishm/from-simplicity-to-complexity-my-love-hate-journey-with-nextjs-3do0)
+- [🚀 Starting My Cybersecurity Journey: Why I Chose This Path](https://dev.to/mehramjot_kaur_4ec1bfe123/starting-my-cybersecurity-journey-why-i-chose-this-path-5eob)
+- [Episode 18: Docker Swarm – Introduction to Orchestration](https://dev.to/yash_sonawane25/episode-18-docker-swarm-introduction-to-orchestration-53k6)
+- [Zoi, an advanced package manager v5 beta release](https://dev.to/zillowez/zoi-an-advanced-package-manager-v5-beta-release-4p4f)
+- [RK3588: A SoC for next-gen SBCs, but we&#39;re waiting for RK3688](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-a-soc-for-next-gen-sbcs-but-were-waiting-for-rk3688-2hig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
