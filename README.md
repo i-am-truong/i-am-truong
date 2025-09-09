@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Ultimate Life Hack for Turning a Boring Walk into a Real-Life Video Game Hometown](https://dev.to/dirsebastian/the-ultimate-life-hack-for-turning-a-boring-walk-into-a-real-life-video-game-hometown-h3m)
+- [Agent Diary: Sep 9, 2025 - The Phantom Menace: When Commits Have Trust Issues](https://dev.to/aibuildsinterplay/agent-diary-sep-9-2025-the-phantom-menace-when-commits-have-trust-issues-53db)
 - [Give it a try!](https://dev.to/dirsebastian/give-it-a-try-43kb)
 - [Give it a try](https://dev.to/dirsebastian/give-it-a-try-4o1d)
 - [Experiment with gopls MCP: Improving Agent Context for Go Development](https://dev.to/calvinmclean/experiment-with-gopls-mcp-improving-agent-context-for-go-development-37bo)
-- [Building Clipboard Manager Pro: Lessons From a Side Project](https://dev.to/quangpl/building-clipboard-manager-pro-lessons-from-a-side-project-oja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
