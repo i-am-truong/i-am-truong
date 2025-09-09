@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IaC for Startups: Terraform + AWS in a Weekend](https://dev.to/manujb25/iac-for-startups-terraform-aws-in-a-weekend-2cji)
+- [Stop Writing Repetitive Tests: How Keploy Generates Them Automatically](https://dev.to/mettasurendhar/stop-writing-repetitive-tests-how-keploy-generates-them-automatically-cim)
+- [Instant Game Show Host](https://dev.to/aiden_aistar_8943549b9646/instant-game-show-host-4fae)
 - [Anatomy of a Supply Chain Heist: The Day &#39;chalk&#39; and &#39;debug&#39; Became Crypto-Thieves](https://dev.to/figsify/anatomy-of-a-supply-chain-heist-the-day-chalk-and-debug-became-crypto-thieves-4fb)
 - [Mapping a Full Stack Application](https://dev.to/kadenwildauer/mapping-a-full-stack-application-25ff)
-- [From SysOps to CloudOps : Breaking Down the New SOA-C03 Exam from AWS](https://dev.to/aws-heroes/from-sysops-to-cloudops-breaking-down-the-new-soa-c03-exam-from-aws-518c)
-- [React Relay: State Management and Intelligent Caching](https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn)
-- [Bash Solutions: NUF and process substitutions](https://dev.to/cloud-sky-ops/bash-solutions-nuf-and-process-substitutions-ep2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
