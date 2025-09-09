@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IaC for Startups: Terraform + AWS in a Weekend](https://dev.to/manujb25/iac-for-startups-terraform-aws-in-a-weekend-2cji)
-- [Stop Writing Repetitive Tests: How Keploy Generates Them Automatically](https://dev.to/mettasurendhar/stop-writing-repetitive-tests-how-keploy-generates-them-automatically-cim)
-- [Instant Game Show Host](https://dev.to/aiden_aistar_8943549b9646/instant-game-show-host-4fae)
-- [Anatomy of a Supply Chain Heist: The Day &#39;chalk&#39; and &#39;debug&#39; Became Crypto-Thieves](https://dev.to/figsify/anatomy-of-a-supply-chain-heist-the-day-chalk-and-debug-became-crypto-thieves-4fb)
-- [Mapping a Full Stack Application](https://dev.to/kadenwildauer/mapping-a-full-stack-application-25ff)
+- [Three reasons why computer science is no longer sexy - for now](https://dev.to/deividas_strole/three-reasons-why-computer-science-is-no-longer-sexy-for-now-1dal)
+- [Deep Dive into EF Core Data Retrieval from SQL Server: Understanding the Internal Process](https://dev.to/dev_saeid_ghaderi/deep-dive-into-ef-core-data-retrieval-from-sql-server-understanding-the-internal-process-1c3c)
+- [Balancing personal projects with learning and growth](https://dev.to/blesinhub/balancing-personal-projects-with-learning-and-growth-4eel)
+- [Simple steps to Multi-Tenant Architecture Design](https://dev.to/naimulkarim/simple-steps-to-multi-tenant-architecture-design-3l95)
+- [Rick Beato: The Les Claypool Interview: Primus, South Park, And The Art Of Weird Bass](https://dev.to/music_youtube/rick-beato-the-les-claypool-interview-primus-south-park-and-the-art-of-weird-bass-24m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
