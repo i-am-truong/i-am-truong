@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ContextLy.AI: No RAG, No Lag - Gemini x MCP](https://dev.to/snehanshu-raj/contextlyai-no-rag-no-lag-gemini-x-mcp-4c4m)
-- [The Smart Display Google Should Have Made: My E-Ink Rebellion Against Tech Obsolescence](https://dev.to/sgardoll/i-ditched-my-smart-display-for-4b3)
-- [Don&#39;t delegate too much to Claude Code.](https://dev.to/crimson206/dont-delegate-too-much-to-claude-code-1dpo)
-- [Protecting Yourself from Spear Phishing Attacks Such as the One Targeting NPM Maintainers with 2FA Update](https://dev.to/semgrep/protecting-yourself-from-spear-phishing-attacks-such-as-the-one-targeting-npm-maintainers-with-2fa-4332)
-- [UN Smart Maps Group ポータブルウェブの進捗まとめ 2025-09](https://dev.to/hfu/un-smart-maps-group-potaburuuebunojin-bu-matome-2025-09-50ac)
+- [Power Platform Admin Center – App Access Checker](https://dev.to/nikhildynamicsce/power-platform-admin-center-app-access-checker-3125)
+- [5 UX Lessons Artificial Grass Companies Can Learn from E-commerce Leaders](https://dev.to/nzs_blogs/5-ux-lessons-artificial-grass-companies-can-learn-from-e-commerce-leaders-50e2)
+- [Beyond Uptime: Why Your All Green Dashboard is Lying to You](https://dev.to/tomcao2012/beyond-uptime-why-your-all-green-dashboard-is-lying-to-you-2b5)
+- [How to proxy Flutter&#39;s network requests to the native layer](https://dev.to/huangli_huang_12f4a0530eb/how-to-proxy-flutters-network-requests-to-the-native-layer-5b3b)
+- [Data Silos: Why Teams Keep Drowning in Their Own Information](https://dev.to/aaron_rose_0787cc8b4775a0/data-silos-why-teams-keep-drowning-in-their-own-information-j7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
