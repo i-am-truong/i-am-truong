@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
+- [Redux desde cero](https://dev.to/pwalvarado/redux-desde-cero-5ekc)
 - [Application Streamlit Gemini Marketing Pro Plus](https://dev.to/sofiane_chehboune_ed94b4c/application-streamlit-gemini-marketing-pro-plus-p84)
 - [Day 46: Set-up CloudWatch alarms and SNS topics on AWS](https://dev.to/udoh_deborah_b1e484c474bf/day-46-set-up-cloudwatch-alarms-and-sns-topics-on-aws-173b)
 - [How to Integrate and Consume an API in Laravel &lpar;Step-by-Step Guide&rpar;](https://dev.to/msnmongare/how-to-integrate-and-consume-an-api-in-laravel-step-by-step-guide-26ki)
-- [Three reasons why computer science is no longer sexy - for now](https://dev.to/deividas_strole/three-reasons-why-computer-science-is-no-longer-sexy-for-now-1dal)
-- [Deep Dive into EF Core Data Retrieval from SQL Server: Understanding the Internal Process](https://dev.to/dev_saeid_ghaderi/deep-dive-into-ef-core-data-retrieval-from-sql-server-understanding-the-internal-process-1c3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
