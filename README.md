@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 CI/CD for Terraform with GitHub Actions: Deploying a Node.js + Redis App on AWS](https://dev.to/aws-builders/cicd-for-terraform-with-github-actions-deploying-a-nodejs-redis-app-on-aws-24c4)
-- [K2 Think: Abu Dhabi&#39;s Efficient AI Model Challenges Industry Giants](https://dev.to/yathin_chandra_649b921cc6/k2-think-abu-dhabis-efficient-ai-model-challenges-industry-giants-79)
-- [🏁 ASPICE Literacy: Episode 1 — What Exactly Is ASPICE?](https://dev.to/abdulosman/aspice-literacy-episode-1-what-exactly-is-aspice-535c)
-- [⚡ How to Create a React App Using Vite &lpar;Step by Step Guide&rpar;](https://dev.to/its_dev_/how-to-create-a-react-app-using-vite-step-by-step-guide-4n76)
-- [Engineering matters: How QA is evolving into QE](https://dev.to/abudantsov/engineering-matters-how-qa-is-evolving-into-qe-16oe)
+- [rcp &amp; rmv: copying &amp; moving using rsync with the simplicity of cp &amp; mv](https://dev.to/yoshimo2o/rcp-rmv-shortcuts-for-copying-moving-using-rsync-478i)
+- [Bulldog Behavior Interpreter](https://dev.to/rob_marcarelli_29748f27f0/bulldog-behavior-interpreter-4k7)
+- [5 Laravel Tips That Will Save You Hours of Debugging &lpar;From a Village Developer&rpar;](https://dev.to/hardik_kanajariya/5-laravel-tips-that-will-save-you-hours-of-debugging-from-a-village-developer-4h28)
+- [Meet Iconshelf.com: Your New Go-To Hub for Free Open Source SVG Icons](https://dev.to/goonlinetools/meet-iconshelfcom-your-new-go-to-hub-for-free-open-source-svg-icons-29fc)
+- [🚀 Challenge Lab Completed: Creating a Dynamic Website for the Café ☕️](https://dev.to/jubril_toheeb_61be96fe443/challenge-lab-completed-creating-a-dynamic-website-for-the-cafe-5d8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
