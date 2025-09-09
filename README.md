@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemini-Node-Editor](https://dev.to/makadi/gemini-node-editor-10k3)
-- [Mastering Linux Processes: From Beginner to Advanced Guide](https://dev.to/kmsaifullah/mastering-linux-processes-from-beginner-to-advanced-guide-5425)
-- [3 CompTIA Network+ Concepts That Aren&#39;t Just About Memorization](https://dev.to/andrew_despres/3-comptia-network-concepts-that-arent-just-about-memorization-3fcb)
-- [Row Equivalence in Linear Algebra with Python](https://dev.to/shrsv/row-equivalence-in-linear-algebra-with-python-4opm)
-- [Mix with the Masters: Mixing drum breaks so they actually sound exciting - prepare to be amazed!](https://dev.to/music_youtube/mix-with-the-masters-mixing-drum-breaks-so-they-actually-sound-exciting-prepare-to-be-amazed-2m4o)
+- [Gemini Marketing Pro Plus &lpar;Nano Banana Edition&rpar;](https://dev.to/sofiane_chehboune_ed94b4c/gemini-marketing-pro-plus-nano-banana-edition-5g44)
+- [How to easily create a CLI in Rust using clap and clap_mangen](https://dev.to/0xle0ne/how-to-easily-create-a-cli-in-rust-using-clap-and-clapmangen-37g1)
+- [How We Cut Our AI API Costs by 90% Without Changing Code Quality](https://dev.to/apicrusher/how-we-cut-our-ai-api-costs-by-90-without-changing-code-quality-3oeh)
+- [AI Isn’t Changing Developers, It’s Reminding Us Who We Are](https://dev.to/jaapio/ai-isnt-changing-developers-its-reminding-us-who-we-are-491o)
+- [🐍✨ Level Up Your Python: Advanced Tips, Tricks &amp; Hacks](https://dev.to/aaron_rose_0787cc8b4775a0/level-up-your-python-advanced-tips-tricks-hacks-5f97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
