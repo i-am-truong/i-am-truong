@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Simplicity to Complexity: My Love-Hate Journey with Next.js](https://dev.to/sibasishm/from-simplicity-to-complexity-my-love-hate-journey-with-nextjs-3do0)
-- [🚀 Starting My Cybersecurity Journey: Why I Chose This Path](https://dev.to/mehramjot_kaur_4ec1bfe123/starting-my-cybersecurity-journey-why-i-chose-this-path-5eob)
-- [Episode 18: Docker Swarm – Introduction to Orchestration](https://dev.to/yash_sonawane25/episode-18-docker-swarm-introduction-to-orchestration-53k6)
-- [Zoi, an advanced package manager v5 beta release](https://dev.to/zillowez/zoi-an-advanced-package-manager-v5-beta-release-4p4f)
-- [RK3588: A SoC for next-gen SBCs, but we&#39;re waiting for RK3688](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-a-soc-for-next-gen-sbcs-but-were-waiting-for-rk3688-2hig)
+- [The Ultimate Life Hack for Turning a Boring Walk into a Real-Life Video Game Hometown](https://dev.to/dirsebastian/the-ultimate-life-hack-for-turning-a-boring-walk-into-a-real-life-video-game-hometown-h3m)
+- [Give it a try!](https://dev.to/dirsebastian/give-it-a-try-43kb)
+- [Give it a try](https://dev.to/dirsebastian/give-it-a-try-4o1d)
+- [Experiment with gopls MCP: Improving Agent Context for Go Development](https://dev.to/calvinmclean/experiment-with-gopls-mcp-improving-agent-context-for-go-development-37bo)
+- [Building Clipboard Manager Pro: Lessons From a Side Project](https://dev.to/quangpl/building-clipboard-manager-pro-lessons-from-a-side-project-oja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
