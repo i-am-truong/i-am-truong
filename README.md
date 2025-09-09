@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Refactor Smart Today, Move Faster Tomorrow — Part 3: Tools That Save You From Yourself](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-3-tools-that-save-you-from-yourself-mnj)
+- [Guide to Testing SQS-Based Microservices with Signadot Sandboxes](https://dev.to/signadot/guide-to-testing-sqs-based-microservices-with-signadot-sandboxes-k64)
+- [Let&#39;s Make It Easy M-C-Peasy](https://dev.to/stacklok/lets-make-it-easy-m-c-peasy-3p0m)
+- [From Afishka to Aticket: Building a multilingual, multi-region ticket network on WordPress](https://dev.to/mikael_mesheryakov/from-afishka-to-aticket-building-a-multilingual-multi-region-ticket-network-on-wordpress-62f)
 - [🏁ASPICE Literacy: Episode 3 — Capability vs. Risk-Based Assessments: Choosing Your Lens 🔍](https://dev.to/abdulosman/aspice-literacy-episode-3-capability-vs-risk-based-assessments-choosing-your-lens-76n)
-- [Edge Computing with AWS: From CloudFront to Lambda@Edge Wizardry](https://dev.to/muhammad_zeeshan_6499a22a/edge-computing-with-aws-from-cloudfront-to-lambdaedge-wizardry-i8)
-- [Your Logs Contain Secrets: Why We Built a Zero-Knowledge Log Platform](https://dev.to/logflux/your-logs-contain-secrets-why-we-built-a-zero-knowledge-log-platform-3igj)
-- [Stop Wasting Time on Backend Boilerplate: Meet create-node-spark](https://dev.to/talhabilaldev/stop-wasting-time-on-backend-boilerplate-meet-create-node-spark-kng)
-- [JavaScript Error Handling Patterns You Must Know &lpar;With Examples &amp; Best Practices&rpar;](https://dev.to/rohit_singh_ee84e64941db7/javascript-error-handling-patterns-you-must-know-with-examples-best-practices-4kig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
