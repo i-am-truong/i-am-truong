@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu 25.10 &lpar;Questing Quokka&rpar; Will Use Rust to Provide Sudo](https://dev.to/fedtti/ubuntu-2510-questing-quokka-will-use-rust-to-provide-sudo-5aib)
-- [Building an AI-Powered Web3 Voting DApp with Gaia](https://dev.to/gaiaai/building-an-ai-powered-web3-voting-dapp-with-gaia-4ebd)
-- [🚀 Vyoma is Coming Soon on Product Hunt – October 10](https://dev.to/pjdeveloper896/vyoma-is-coming-soon-on-product-hunt-october-10-2jbi)
-- [Beyond the Monolith vs Microservices Debate: A Practical Guide to Deployment-Agnostic Services](https://dev.to/maksim_matlakhov/beyond-the-monolith-vs-microservices-debate-a-practical-guide-to-deployment-agnostic-services-3l41)
-- [[Complete Guide] React Basics: From jQuery to React, Function Components, JSX, Hooks, and Re-Rendering Optimization](https://dev.to/learcise_health/complete-guide-react-basics-from-jquery-to-react-function-components-jsx-hooks-and-398d)
+- [Exposing Agents as MCP Servers with mcp-agent](https://dev.to/om_shree_0709/exposing-agents-as-mcp-servers-with-mcp-agent-2on8)
+- [Spring AI: How to use Generative AI and applied RAG?](https://dev.to/bereczki/spring-ai-how-to-use-generative-ai-and-applied-rag-2hje)
+- [Create Custom Post Captions with Glama AI Automation feature: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/create-custom-post-captions-with-glama-ai-automation-feature-a-step-by-step-tutorial-cep)
+- [Undemanding pending state handling in React](https://dev.to/axtk/undemanding-pending-state-handling-in-react-6d0)
+- [Building a Free AI Email Response Generator: A Complete Guide](https://dev.to/allanninal/building-a-free-ai-email-response-generator-a-complete-guide-1n86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
