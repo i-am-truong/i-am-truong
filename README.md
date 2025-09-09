@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
-- [Understanding in simple terms: symfony lock versus symfony semaphore](https://dev.to/jeandevbr/understanding-in-simple-terms-symfony-lock-versus-symfony-semaphore-2h5d)
-- [✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code](https://dev.to/ilsa_shaikh_089e2bfab0bf4/reactjs-hacks-part-2-next-level-tricks-for-clean-powerful-code-2k27)
-- [Load Testing Microservices With C# and NBomber](https://dev.to/antonmartyniuk/load-testing-microservices-with-c-and-nbomber-dc2)
-- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1pi5)
+- [Domain modeling, Units-of-Measure, and Property-based testing, oh my](https://dev.to/omanfk/domain-modeling-units-of-measure-and-property-based-testing-oh-my-502o)
+- [How to Avoid Single Points of Failure &lpar;SPOF&rpar; day 48 of system design](https://dev.to/vincenttommi/how-to-avoid-single-points-of-failure-spof-day-48-of-system-design-2913)
+- [Measuring Platform Engineering with MONK metrics](https://dev.to/_steve_fenton_/measuring-platform-engineering-with-monk-metrics-18ob)
+- [🗓 Daily LeetCode Progress – Day 22](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-22-4ec0)
+- [Building KiroVerse: Where AI Mentorship Meets Blockchain Skill Verification](https://dev.to/amaan_ahmad_b58bdafaa7d3a/building-kiroverse-where-ai-mentorship-meets-blockchain-skill-verification-2610)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
