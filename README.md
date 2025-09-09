@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an AI MVP: A Full Development Guide](https://dev.to/raftlabs/how-to-create-an-ai-mvp-a-full-development-guide-19hb)
-- [Building Semantic Search That Actually Works: Beyond Basic Vector Similarity](https://dev.to/mrdubey/building-semantic-search-that-actually-works-beyond-basic-vector-similarity-1a62)
-- [From Jira Ticket to Live Server: My Week 3 DevOps Sprint](https://dev.to/okeke_chima_4d4acd8f61e67/from-jira-ticket-to-live-server-my-week-3-devops-sprint-3ln4)
-- [IoT performance testing: Navigating the connected device challenge](https://dev.to/gatling/iot-performance-testing-navigating-the-connected-device-challenge-49ia)
-- [Test Frontend Changes with Browser &lpar;Using Chromium Overrides&rpar;](https://dev.to/rasyidf/test-frontend-changes-with-browser-using-chromium-overrides-41c)
+- [7 Best Authentication Frameworks for 2025 &lpar;Free &amp; Paid Compared&rpar;](https://dev.to/syedsakhiakram66/7-best-authentication-frameworks-for-2025-free-paid-compared-159g)
+- [MCP &amp; API: Are they Two Sides of the Same Coin, or Worlds Apart?](https://dev.to/composiodev/mcp-api-are-they-two-sides-of-the-same-coin-or-worlds-apart-1ce6)
+- [Ringer Movies: ‘The Legend of Billie Jean’ With Bill Simmons and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-legend-of-billie-jean-with-bill-simmons-and-chris-ryan-the-rewatchables-32pl)
+- [First Steps: Securing Your New Company&#39;s Laptop.](https://dev.to/mdcyberluv/first-steps-securing-your-new-companys-laptop-1did)
+- [Centry: Building a Fraud Detection Engine for Ghana’s Mobile Money Future](https://dev.to/the_spartan_dev/centry-building-a-fraud-detection-engine-for-ghanas-mobile-money-future-5gh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
