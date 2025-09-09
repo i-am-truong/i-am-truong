@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
+- [Understanding in simple terms: symfony lock versus symfony semaphore](https://dev.to/jeandevbr/understanding-in-simple-terms-symfony-lock-versus-symfony-semaphore-2h5d)
+- [✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code](https://dev.to/ilsa_shaikh_089e2bfab0bf4/reactjs-hacks-part-2-next-level-tricks-for-clean-powerful-code-2k27)
 - [Load Testing Microservices With C# and NBomber](https://dev.to/antonmartyniuk/load-testing-microservices-with-c-and-nbomber-dc2)
 - [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1pi5)
-- [在 WebAssembly 中使用 SIMD（二）](https://dev.to/yangholmes/zai-webassembly-zhong-shi-yong-simder--25bo)
-- [4 Free Methods to use LLM APIs in Development](https://dev.to/this-is-learning/4-free-methods-to-use-llm-apis-in-development-45f6)
-- [StoreKit External Purchase – Regional Restriction Not Working + canPresent&lpar;&rpar; Always Returns False](https://dev.to/dev_78/storekit-external-purchase-regional-restriction-not-working-canpresent-always-returns-false-28pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
