@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gemini-Node-Editor](https://dev.to/makadi/gemini-node-editor-10k3)
+- [Mastering Linux Processes: From Beginner to Advanced Guide](https://dev.to/kmsaifullah/mastering-linux-processes-from-beginner-to-advanced-guide-5425)
 - [3 CompTIA Network+ Concepts That Aren&#39;t Just About Memorization](https://dev.to/andrew_despres/3-comptia-network-concepts-that-arent-just-about-memorization-3fcb)
 - [Row Equivalence in Linear Algebra with Python](https://dev.to/shrsv/row-equivalence-in-linear-algebra-with-python-4opm)
 - [Mix with the Masters: Mixing drum breaks so they actually sound exciting - prepare to be amazed!](https://dev.to/music_youtube/mix-with-the-masters-mixing-drum-breaks-so-they-actually-sound-exciting-prepare-to-be-amazed-2m4o)
-- [NPR Music: Ed Sheeran: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ed-sheeran-tiny-desk-concert-5aam)
-- [IGN: Top 25 Best PS1 Games of All Time](https://dev.to/gg_news/ign-top-25-best-ps1-games-of-all-time-4adh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
