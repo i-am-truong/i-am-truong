@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Small ERB Scriptlet Shorthand Example?](https://dev.to/burdettelamar/small-erb-scriptlet-shorthand-example-5hdn)
-- [Prisma Deep‑Dive Handbook &lpar;2025&rpar; — From Zero to Expert](https://dev.to/mihir_bhadak/prisma-deep-dive-handbook-2025-from-zero-to-expert-1761)
-- [The Truth About Overemployment What Your Boss Doesn&#39;t Want You to Know](https://dev.to/thetechpreneur/the-truth-about-overemployment-what-your-boss-doesnt-want-you-to-know-3fjl)
-- [Congested Mind vs. Fresh Mind: The Hidden Factor in Problem Solving](https://dev.to/muhammedshafeeque/congested-mind-vs-fresh-mind-the-hidden-factor-in-problem-solving-4lcm)
-- [Beyond the Hype: Building Production-Ready AI for Helplines with DistilBERT Fine-Tuning](https://dev.to/rogendo/beyond-the-hype-building-production-ready-ai-for-helplines-with-distilbert-fine-tuning-2onb)
+- [Journey into Collaborative Innovation](https://dev.to/tajudeen_abdulgafar_e0363/journey-into-collaborative-innovation-33g5)
+- [SwiftUI Shape vs View](https://dev.to/muhdmirzamz/swiftui-shape-vs-view-4j53)
+- [Choosing the Right Path: In-House Development vs. Off-the-Shelf AI Tools in 2025](https://dev.to/arkhan/choosing-the-right-path-in-house-development-vs-off-the-shelf-ai-tools-in-2025-1h4g)
+- [Exploring JavaScript&#39;s Document Object Model &lpar;DOM&rpar;.](https://dev.to/folarmi/exploring-javascripts-document-object-model-dom-1lp)
+- [AI will replace Jobs ?](https://dev.to/biiiitupathak/ai-will-replace-jobs--23c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
