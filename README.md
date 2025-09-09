@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Do I need HDMI 2.1 for PS5/Xbox &lpar;4K/120, VRR, ALLM&rpar;?](https://dev.to/tiberius1023/do-i-need-hdmi-21-for-ps5xbox-4k120-vrr-allm-1c71)
+- [Cooking with Google AI](https://dev.to/ulrikedetective/cooking-with-google-ai-3fmn)
 - [🚀Git + Databricks: Why Both Are Essential for Modern Data Engineering](https://dev.to/shagun_khandelwal/git-databricks-why-both-are-essential-for-modern-data-engineering-46ph)
 - [Lightweight pending state handling in React](https://dev.to/axtk/lightweight-pending-state-handling-in-react-42e4)
 - [Journey into Collaborative Innovation](https://dev.to/tajudeen_abdulgafar_e0363/journey-into-collaborative-innovation-33g5)
-- [SwiftUI Shape vs View](https://dev.to/muhdmirzamz/swiftui-shape-vs-view-4j53)
-- [Choosing the Right Path: In-House Development vs. Off-the-Shelf AI Tools in 2025](https://dev.to/arkhan/choosing-the-right-path-in-house-development-vs-off-the-shelf-ai-tools-in-2025-1h4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
