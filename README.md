@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pipex: The Rust Pipeline Revolution — From Pure Functions to GPU Acceleration](https://dev.to/edransy/pipex-the-rust-pipeline-revolution-from-pure-functions-to-gpu-acceleration-2g0e)
-- [How to Build Scalable Headless WordPress Sites With React &amp; GraphQL](https://dev.to/addwebsolutionpvtltd/how-to-build-scalable-headless-wordpress-sites-with-react-graphql-33m1)
-- [🚀 Day 11 of My Python Learning Journey](https://dev.to/_adii3107/day-11-of-my-python-learning-journey-1k17)
-- [Launch Faster: Free Multipurpose Templates for Your Next.js Project](https://dev.to/isanjayjoshi/launch-faster-free-multipurpose-templates-for-your-nextjs-project-3l7)
-- [Introducing react-night-toggle - A Simple Dark/Light Mode Switch for React](https://dev.to/praveenskg/introducing-react-night-toggle-a-simple-darklight-mode-switch-for-react-2da3)
+- [Ubuntu 25.10 &lpar;Questing Quokka&rpar; Will Use Rust to Provide Sudo](https://dev.to/fedtti/ubuntu-2510-questing-quokka-will-use-rust-to-provide-sudo-5aib)
+- [Building an AI-Powered Web3 Voting DApp with Gaia](https://dev.to/gaiaai/building-an-ai-powered-web3-voting-dapp-with-gaia-4ebd)
+- [🚀 Vyoma is Coming Soon on Product Hunt – October 10](https://dev.to/pjdeveloper896/vyoma-is-coming-soon-on-product-hunt-october-10-2jbi)
+- [Beyond the Monolith vs Microservices Debate: A Practical Guide to Deployment-Agnostic Services](https://dev.to/maksim_matlakhov/beyond-the-monolith-vs-microservices-debate-a-practical-guide-to-deployment-agnostic-services-3l41)
+- [[Complete Guide] React Basics: From jQuery to React, Function Components, JSX, Hooks, and Re-Rendering Optimization](https://dev.to/learcise_health/complete-guide-react-basics-from-jquery-to-react-function-components-jsx-hooks-and-398d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
