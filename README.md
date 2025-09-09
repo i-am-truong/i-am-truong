@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀Git + Databricks: Why Both Are Essential for Modern Data Engineering](https://dev.to/shagun_khandelwal/git-databricks-why-both-are-essential-for-modern-data-engineering-46ph)
+- [Lightweight pending state handling in React](https://dev.to/axtk/lightweight-pending-state-handling-in-react-42e4)
 - [Journey into Collaborative Innovation](https://dev.to/tajudeen_abdulgafar_e0363/journey-into-collaborative-innovation-33g5)
 - [SwiftUI Shape vs View](https://dev.to/muhdmirzamz/swiftui-shape-vs-view-4j53)
 - [Choosing the Right Path: In-House Development vs. Off-the-Shelf AI Tools in 2025](https://dev.to/arkhan/choosing-the-right-path-in-house-development-vs-off-the-shelf-ai-tools-in-2025-1h4g)
-- [Exploring JavaScript&#39;s Document Object Model &lpar;DOM&rpar;.](https://dev.to/folarmi/exploring-javascripts-document-object-model-dom-1lp)
-- [AI will replace Jobs ?](https://dev.to/biiiitupathak/ai-will-replace-jobs--23c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
