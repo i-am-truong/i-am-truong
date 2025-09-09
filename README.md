@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Headless Raspberry Pi 4B &lpar;2GB RAM&rpar; Setup for Docker, k3s &amp; API Hosting](https://dev.to/masoomjethwa/headless-raspberry-pi-4b-2gb-ram-setup-for-docker-k3s-api-hosting-1fgl)
+- [Headless Raspberry Pi 3B Setup, Benchmarking &amp; Backup – A Developer’s Guide](https://dev.to/masoomjethwa/headless-raspberry-pi-3b-setup-benchmarking-backup-a-developers-guide-4dj1)
+- [Scaling Databases with ClickHouse Sharding &lpar;Hands-On Simulation&rpar;](https://dev.to/mohhddhassan/scaling-databases-with-clickhouse-sharding-hands-on-simulation-gmp)
 - [Prompt engineering isn’t optional. It’s the new literacy that will define who thrives and who struggles.](https://dev.to/jaideepparashar/prompt-engineering-isnt-optional-its-the-new-literacy-that-will-define-who-thrives-and-who-4jbe)
 - [Why Prompt Engineering is the New Literacy](https://dev.to/jaideepparashar/why-prompt-engineering-is-the-new-literacy-2lco)
-- [Structured Concurrency](https://dev.to/sadiul_hakim/what-is-structured-concurrency-21al)
-- [Navigating the Modern Job Market: AI&#39;s Role in Recruitment and Applications](https://dev.to/max_mayer/navigating-the-modern-job-market-ais-role-in-recruitment-and-applications-5d69)
-- [Feeling Stuck in Your AI Video Side Hustle? Here&#39;s a Quick Reset](https://dev.to/walker876/feeling-stuck-in-your-ai-video-side-hustle-heres-a-quick-reset-g5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
