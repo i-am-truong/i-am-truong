@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Small ERB Scriptlet Shorthand Example?](https://dev.to/burdettelamar/small-erb-scriptlet-shorthand-example-5hdn)
 - [Prisma Deep‑Dive Handbook &lpar;2025&rpar; — From Zero to Expert](https://dev.to/mihir_bhadak/prisma-deep-dive-handbook-2025-from-zero-to-expert-1761)
 - [The Truth About Overemployment What Your Boss Doesn&#39;t Want You to Know](https://dev.to/thetechpreneur/the-truth-about-overemployment-what-your-boss-doesnt-want-you-to-know-3fjl)
 - [Congested Mind vs. Fresh Mind: The Hidden Factor in Problem Solving](https://dev.to/muhammedshafeeque/congested-mind-vs-fresh-mind-the-hidden-factor-in-problem-solving-4lcm)
 - [Beyond the Hype: Building Production-Ready AI for Helplines with DistilBERT Fine-Tuning](https://dev.to/rogendo/beyond-the-hype-building-production-ready-ai-for-helplines-with-distilbert-fine-tuning-2onb)
-- [Recursion vs Backtracking – Complete Guide](https://dev.to/gaurbprajapati/recursion-vs-backtracking-complete-guide-521g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
