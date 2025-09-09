@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anatomy of a Supply Chain Heist: The Day &#39;chalk&#39; and &#39;debug&#39; Became Crypto-Thieves](https://dev.to/figsify/anatomy-of-a-supply-chain-heist-the-day-chalk-and-debug-became-crypto-thieves-4fb)
+- [Mapping a Full Stack Application](https://dev.to/kadenwildauer/mapping-a-full-stack-application-25ff)
+- [From SysOps to CloudOps : Breaking Down the New SOA-C03 Exam from AWS](https://dev.to/aws-heroes/from-sysops-to-cloudops-breaking-down-the-new-soa-c03-exam-from-aws-518c)
+- [React Relay: State Management and Intelligent Caching](https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn)
 - [Bash Solutions: NUF and process substitutions](https://dev.to/cloud-sky-ops/bash-solutions-nuf-and-process-substitutions-ep2)
-- [จากไม่มีบ้านสู่การสร้างบ้านให้คนทั้งประเทศ: บทเรียนธุรกิจและชีวิตจาก CK](https://dev.to/pskclub/cchaakaimmiibaansuukaarsraangbaanaihkhnthangpraeths-btheriiynthurkicchaelachiiwitcchaak-ck-3n9f)
-- [Eyes Wide Shut](https://dev.to/masih_maafi_579688ae132b9/eyes-wide-shut-4cpb)
-- [Your Sales Battlecards Suck. Here&#39;s How to Fix Them](https://dev.to/paultowers/your-sales-battlecards-suck-heres-how-to-fix-them-35o1)
-- [Borrowed Brains: Are Pre-Trained Models a Developer&#39;s Best Friend... or Worst Nightmare? by Arvind Sundararajan](https://dev.to/arvindsundararajan/borrowed-brains-are-pre-trained-models-a-developers-best-friend-or-worst-nightmare-by-arvind-5dg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
