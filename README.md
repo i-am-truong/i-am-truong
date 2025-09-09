@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Health Companion — Making healthcare information accessible for everyone.](https://dev.to/ihossen016/ai-health-companion-making-healthcare-information-accessible-for-everyone-4nbi)
+- [30-Second Git Commits: The Micro-Habit That Saved Me 10 Hours Per Week](https://dev.to/teamcamp/30-second-git-commits-the-micro-habit-that-saved-me-10-hours-per-week-2ef1)
+- [Can an Algorithm Dream? I Built an App to Find Out.](https://dev.to/dirsebastian/can-an-algorithm-dream-i-built-an-app-to-find-out-2p8d)
 - [Headless Raspberry Pi 4B &lpar;2GB RAM&rpar; Setup for Docker, k3s &amp; API Hosting](https://dev.to/masoomjethwa/headless-raspberry-pi-4b-2gb-ram-setup-for-docker-k3s-api-hosting-1fgl)
 - [Headless Raspberry Pi 3B Setup, Benchmarking &amp; Backup – A Developer’s Guide](https://dev.to/masoomjethwa/headless-raspberry-pi-3b-setup-benchmarking-backup-a-developers-guide-4dj1)
-- [Scaling Databases with ClickHouse Sharding &lpar;Hands-On Simulation&rpar;](https://dev.to/mohhddhassan/scaling-databases-with-clickhouse-sharding-hands-on-simulation-gmp)
-- [Prompt engineering isn’t optional. It’s the new literacy that will define who thrives and who struggles.](https://dev.to/jaideepparashar/prompt-engineering-isnt-optional-its-the-new-literacy-that-will-define-who-thrives-and-who-4jbe)
-- [Why Prompt Engineering is the New Literacy](https://dev.to/jaideepparashar/why-prompt-engineering-is-the-new-literacy-2lco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
