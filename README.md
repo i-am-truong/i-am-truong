@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1pi5)
+- [在 WebAssembly 中使用 SIMD（二）](https://dev.to/yangholmes/zai-webassembly-zhong-shi-yong-simder--25bo)
 - [4 Free Methods to use LLM APIs in Development](https://dev.to/this-is-learning/4-free-methods-to-use-llm-apis-in-development-45f6)
 - [StoreKit External Purchase – Regional Restriction Not Working + canPresent&lpar;&rpar; Always Returns False](https://dev.to/dev_78/storekit-external-purchase-regional-restriction-not-working-canpresent-always-returns-false-28pm)
 - [Deploying a Laravel Portfolio to AWS EC2: Complete Production Setup](https://dev.to/ravi_sengarrajasthan_c6f/deploying-a-laravel-portfolio-to-aws-ec2-complete-production-setup-329h)
-- [Testando Componentes com React Hook Form + Zod](https://dev.to/vitorrios1001/testando-componentes-com-react-hook-form-zod-13nk)
-- [Stop Writing The Same Prompts - Makefiles Changed Everything](https://dev.to/yemreak/stop-writing-the-same-prompts-makefiles-changed-everything-46md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
