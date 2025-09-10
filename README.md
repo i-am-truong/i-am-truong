@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Best Free Image Conversion Tools You Can Use Right Now](https://dev.to/snehasishkonger/5-best-free-image-conversion-tools-you-can-use-right-now-63l)
+- [Using SIMD in WebAssembly &lpar;Part 1&rpar;](https://dev.to/yangholmes/using-simd-in-webassembly-part-1-52ec)
+- [How to Use the Red Line Burndown for Long-Term Agile Release Planning](https://dev.to/crimsalytics_9eb4de66ab/how-to-use-the-red-line-burndown-for-long-term-agile-release-planning-3f7f)
+- [Introdução à Mensageria com RabbitMQ &lpar;Parte 1 – Conceitos&rpar;](https://dev.to/arauhovitor/introducao-a-mensageria-com-rabbitmq-parte-1-conceitos-671)
 - [Part-44: ⚡Google Cloud Functions: HTTPS &amp; Event-Driven Serverless Computing](https://dev.to/latchudevops/part-44-google-cloud-functions-https-event-driven-serverless-computing-5ajp)
-- [When a For Loop Powers Your Stock Backtester - Devlog](https://dev.to/suleyman_sade/when-a-for-loop-powers-your-stock-backtester-devlog-15ad)
-- [Building Custom Font Generators for Modern Web Applications: A Developer&#39;s Guide](https://dev.to/foosher_5171b888677ddad37/building-custom-font-generators-for-modern-web-applications-a-developers-guide-18dp)
-- [Agent Diary: Sep 10, 2025 - The Great Zero-File Paradox: When Everything Changes but Nothing Does](https://dev.to/aibuildsinterplay/agent-diary-sep-10-2025-the-great-zero-file-paradox-when-everything-changes-but-nothing-does-37p7)
-- [Security Alert: XXE Vulnerability in Weaver e-cology OA](https://dev.to/sharon_42e16b8da44dabde6d/security-alert-xxe-vulnerability-in-weaver-e-cology-oa-26oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
