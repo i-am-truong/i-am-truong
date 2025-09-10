@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Junior vs Senior Developer: The Mindset Shift Nobody Talks About](https://dev.to/vidyarathna/junior-vs-senior-developer-the-mindset-shift-nobody-talks-about-4lfj)
-- [From Static Forms to Dynamic Configurator: Our Journey in PLM](https://dev.to/i_abhiseka/from-static-forms-to-dynamic-configurator-our-journey-in-plm-3n9i)
-- [How to Monitor and Save Server Disk Space in Laravel](https://dev.to/yasserelgammal/how-to-monitor-and-save-server-disk-space-in-laravel-52g9)
-- [The thing is I love programming ...](https://dev.to/bekbrace/the-thing-is-i-love-programming--49m8)
-- [Rethinking Tool Calling: Towards a Scalable Standard](https://dev.to/om_shree_0709/rethinking-tool-calling-towards-a-scalable-standard-3pbe)
+- [AWS CDK Last Month - August 2025](https://dev.to/aws/aws-cdk-last-month-august-2025-nhj)
+- [SQLite: Randomly order rows](https://dev.to/mr_destructive/sqlite-randomly-order-rows-1pac)
+- [📚 Series: Mastering JavaScript Objects Step by Step](https://dev.to/usama_dev/series-mastering-javascript-objects-step-by-step-cln)
+- [Robotics + AI + Crypto: The Next Tech Frontier](https://dev.to/mikhailliublin/robotics-ai-crypto-the-next-tech-frontier-ia6)
+- [Understanding IPv4 CIDR Addressing: A Complete Guide for DevOps Engineers](https://dev.to/kmsaifullah/understanding-ipv4-cidr-addressing-a-complete-guide-for-devops-engineers-cf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
