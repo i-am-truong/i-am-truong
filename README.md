@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Server-Side Rendering: The Security Reality Check Every Developer Needs](https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13)
 - [🚀 Looking for Feedback on ClearWork: Real-World Process Mapping, Future-State Design &amp; Agentic Workflows](https://dev.to/avery_brooks_9532c2ed2452/looking-for-feedback-on-clearwork-real-world-process-mapping-future-state-design-agentic-fc)
 - [Python Mystery Quiz: Can You Crack This Code?](https://dev.to/aaron_rose_0787cc8b4775a0/python-mystery-quiz-can-you-crack-this-code-3o53)
 - [Best markup to use in GitHub as a writer based on work-flow](https://dev.to/somadinag/best-markup-to-use-in-github-as-a-writer-based-on-work-flow-3ma)
 - [From StackOverflow to Vibe Coding: The Evolution of Copy-Paste Development](https://dev.to/trackjs/from-stackoverflow-to-vibe-coding-the-evolution-of-copy-paste-development-4ngl)
-- [DIY MCP Servers vs Verified Solutions: The Trade-offs Nobody&#39;s Talking About 🎭](https://dev.to/leomarsh/diy-mcp-servers-vs-verified-solutions-the-trade-offs-nobodys-talking-about-3jl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
