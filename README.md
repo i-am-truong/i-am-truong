@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML Proof-of-Concept: Inner Self Challenge Game for Reflection &amp; Growth](https://dev.to/cutieyunnytech/html-proof-of-concept-inner-self-challenge-game-for-reflection-growth-2o4p)
+- [Building a Terminal Sudoku Game in Python](https://dev.to/xucenying/building-a-terminal-sudoku-game-in-python-4np6)
 - [🧹 Cleaning Git History &amp; Repo Setup: My Dev Struggles Today](https://dev.to/minoosh/cleaning-git-history-repo-setup-my-dev-struggles-today-19mg)
 - [Announcing `tw-prose`: A CSS-Only Typography Plugin for Tailwind CSS v4](https://dev.to/gridou/announcing-tw-prose-a-css-only-typography-plugin-for-tailwind-css-v4-o8j)
-- [How SpaceX’s Direct-to-Cell Starlink Tech Will Revolutionize Your iPhone’s Connectivity](https://dev.to/axrisi/how-spacexs-direct-to-cell-starlink-tech-will-revolutionize-your-iphones-connectivity-1c0g)
-- [Flexible Feature Access in Rails SaaS Apps](https://dev.to/railsdesigner/flexible-feature-access-in-rails-saas-apps-49g6)
-- [Server-Side Rendering: The Security Reality Check Every Developer Needs](https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13)
+- [Why Students Should Start Building Their Digital Portfolio Before Graduation](https://dev.to/imtaslim/why-students-should-start-building-their-digital-portfolio-before-graduation-2n5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
