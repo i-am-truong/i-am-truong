@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Junior vs Senior Developer: The Mindset Shift Nobody Talks About](https://dev.to/vidyarathna/junior-vs-senior-developer-the-mindset-shift-nobody-talks-about-4lfj)
+- [From Static Forms to Dynamic Configurator: Our Journey in PLM](https://dev.to/i_abhiseka/from-static-forms-to-dynamic-configurator-our-journey-in-plm-3n9i)
+- [How to Monitor and Save Server Disk Space in Laravel](https://dev.to/yasserelgammal/how-to-monitor-and-save-server-disk-space-in-laravel-52g9)
+- [The thing is I love programming ...](https://dev.to/bekbrace/the-thing-is-i-love-programming--49m8)
 - [Rethinking Tool Calling: Towards a Scalable Standard](https://dev.to/om_shree_0709/rethinking-tool-calling-towards-a-scalable-standard-3pbe)
-- [TikTok API](https://dev.to/george_cojocaru_809bc6b2e/tiktok-api-386o)
-- [Man-in-the-Middle Attacks Explained &lpar;And How to Stay Safe&rpar;](https://dev.to/terminaltools/man-in-the-middle-attacks-explained-and-how-to-stay-safe-1h7e)
-- [How I Built an AI Workspace To Help Students &amp; Researchers](https://dev.to/ben_hrootuser_f897c5b3/how-i-built-an-ai-workspace-to-help-students-researchers-2kbd)
-- [Visualizing Gin: A Different Kind of Code Walkthrough](https://dev.to/jfeliu007/visualizing-gin-a-different-kind-of-code-walkthrough-5dde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
