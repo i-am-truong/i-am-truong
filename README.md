@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Release - CherryPick 3.x](https://dev.to/pese/release-cherrypick-3x-1jga)
 - [AI in Finance and Banking Exploring the Emerging Role of the Internet of Behaviors &lpar;IoB&rpar; Eng Version](https://dev.to/vendkura/ai-in-finance-and-banking-exploring-the-emerging-role-of-the-internet-of-behaviors-iob-eng-version-34j5)
 - [Turning a Photo into a 1/7 Scale PVC Figurine with Bandai-Style Packaging](https://dev.to/safdarali25/turning-a-photo-into-a-17-scale-pvc-figurine-with-bandai-style-packaging-587k)
-- [Why I built Wuchale: Protobuf-like i18n from plain code](https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o)
-- [How to Create a Windows Server on AWS EC2 &lpar;Beginner’s Guide&rpar;](https://dev.to/jimmybillz/how-to-create-a-windows-server-on-aws-ec2-beginners-guide-3mbc)
+- [Don&#39;t Run it Twice: Mastering Idempotency in Production LangGraph Agents](https://dev.to/ajay_gupta_60a0393643f3e9/dont-run-it-twice-mastering-idempotency-in-production-langgraph-agents-2gmp)
+- [What is Docker? Explained Simply 🐳](https://dev.to/dev888_august_bfb28f16737/what-is-docker-explained-simply-15g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
