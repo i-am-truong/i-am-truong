@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Coding Agent the Magical Autonomous AI: The Prequel](https://dev.to/anchildress1/github-coding-agent-the-magical-autonomous-ai-the-prequel-4h11)
 - [Exploring LLaMA, Hugging Face, and LoRA/QLoRA](https://dev.to/satya_prakash_06/exploring-llama-hugging-face-and-loraqlora-1b66)
 - [If You Use Telegram: Read This Now](https://dev.to/scofieldidehen/if-you-use-telegram-read-this-now-1ddj)
 - [How AI Is Reshaping Telecom: From Call Routing to Compliance](https://dev.to/abdul_shamim/how-ai-is-reshaping-telecom-from-call-routing-to-compliance-167b)
 - [Validate Your SaaS Idea in Minutes &lpar;Free Tool for Solo Founders&rpar;](https://dev.to/soasme/validate-your-saas-idea-in-minutes-free-tool-for-solo-founders-22j3)
-- [How Responsive Design Impacts User Experience across Devices](https://dev.to/designstudiouiux/how-responsive-design-impacts-user-experience-across-devices-1fo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
