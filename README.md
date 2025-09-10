@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Undressing Underage Girls - A Billion Dollar Industry](https://dev.to/scofieldidehen/ai-undressing-underage-girls-a-billion-dollar-industry-3384)
-- [smithery.yaml in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/smitheryyaml-in-mcp-mermaid-codebase-1hpg)
-- [Surfing with FP Java - Mastering Supplier&lt;T&gt;](https://dev.to/borba/surfing-with-fp-java-mastering-supplier-5fjg)
-- [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
-- [Decoding XRP Ledger: How Protocol Requirements Shape the Network &lpar;September 2025 Update&rpar;](https://dev.to/enchstyle/decoding-xrp-ledger-how-protocol-requirements-shape-the-network-september-2025-update-280c)
+- [ComunicaOps Parte 2.: Desafios de ter um time coeso e motivado de DevOps/SRE/Eng. de Plataformas](https://dev.to/rafaelbonilha/comunicaops-parte-2-desafios-de-ter-um-time-coeso-e-motivado-de-devopssreeng-de-plataformas-4f9g)
+- [Jenkins X: The Future of Cloud-Native CI/CD](https://dev.to/srinivasamcjf/jenkins-x-the-future-of-cloud-native-cicd-7lh)
+- [AI Thumbnail Studio](https://dev.to/ha3k/ai-thumbnail-studio-1b6l)
+- [Unlock the Future of Authentication: A Guide to Passwordless Login with Passkey](https://dev.to/tri_dev_dhm/unlock-the-future-of-authentication-a-guide-to-passwordless-login-with-passkey-516b)
+- [Building a Multi-language Tool Website: Lessons Learned](https://dev.to/_39ddcacc052718181d3ade/building-a-multi-language-tool-website-lessons-learned-3a8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
