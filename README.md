@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Figma Variables vs Tokens Studio: Why Both Matter](https://dev.to/quintonjason/figma-variables-vs-tokens-studio-why-both-matter-2md7)
-- [CloudFront ECDSA Signed URLs: 91% Faster Generation, 53% Shorter URLs](https://dev.to/aws-builders/cloudfront-ecdsa-signed-urls-91-faster-generation-53-shorter-urls-54nf)
-- [GameSpot: ELDEN RING NIGHTREIGN | Deep of Night Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-elden-ring-nightreign-deep-of-night-gameplay-overview-trailer-45jk)
-- [IGN: Chainsaw Man - The Movie: Reze Arc - Official Trailer #2 &lpar;Sub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-the-movie-reze-arc-official-trailer-2-sub-2kaj)
-- [Documentation Release Notes - August 2025](https://dev.to/pubnub/documentation-release-notes-august-2025-3odn)
+- [Quantization Explained: A Concise Guide for LLMs](https://dev.to/jte0711/quantization-explained-a-concise-guide-for-llms-4b19)
+- [OSD600: My journey in Open Source](https://dev.to/david_rivera_8d845b35931e/osd600-my-journey-in-open-source-1d7l)
+- [Pi-hole v6 on Unraid: First-Time Login Hell &lpar;And It&#39;s Not The Password&rpar;](https://dev.to/yoshi_homelab/pi-hole-v6-on-unraid-first-time-login-hell-and-its-not-the-password-5g9e)
+- [How Kotlin’s Core Principles Elevate Developer Experience and App Quality](https://dev.to/kavearhasi_viswanathan/how-kotlins-core-principles-elevate-developer-experience-and-app-quality-128l)
+- [Security at Scale: Our npm Incident Response Story](https://dev.to/epilot/security-at-scale-our-npm-incident-response-story-439p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
