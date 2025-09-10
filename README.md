@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with HTTP/3 in Python](https://dev.to/abibeh/getting-started-with-http3-in-python-6ag)
-- [NPR Music: Turnstile: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-turnstile-tiny-desk-concert-26p4)
-- [Revolutionizing React Integration Testing with Jest and Enzyme](https://dev.to/vjnvisakh/revolutionizing-react-integration-testing-with-jest-and-enzyme-3ckk)
-- [Protect Your Node.js API: Rate Limiting with Fixed Window, Sliding Window, and Token Bucket](https://dev.to/odunayo_dada/protect-your-nodejs-api-rate-limiting-with-fixed-window-sliding-window-and-token-bucket-4278)
-- [Docker Best Practices: Reduce Image Size + Common Interview Questions](https://dev.to/suavebajaj/docker-best-practices-reduce-image-size-common-interview-questions-4hen)
+- [Entity Framework Core Isn’t Slow, You’re Just Using It Wrong](https://dev.to/iamcymentho/entity-framework-core-isnt-slow-youre-just-using-it-wrong-308i)
+- [Controlling data visibility &amp; access with RLS &amp; OLS in Dataverse](https://dev.to/fernandaek/controlling-data-visibility-access-with-rls-ols-in-dataverse-35nf)
+- [Neon Button Effects with FSCSS ⚡](https://dev.to/fscss/neon-button-effects-with-fscss-me0)
+- [How Kiponos.io Ends Config Chaos in CI/CD](https://dev.to/kiponos/how-kiponosio-ends-config-chaos-in-cicd-48l4)
+- [Introducing the Frontend Mentor 30-Day Hackathon!](https://dev.to/frontendmentor/introducing-the-frontend-mentor-30-day-hackathon-4fk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
