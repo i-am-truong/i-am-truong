@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 3: Unleash QuestBot&#39;s Power🎯](https://dev.to/creator_x/day-3-unleash-questbots-power-2p3c)
+- [Reading partitioned Delta table with Polars](https://dev.to/nicocrm/reading-partitioned-delta-table-with-polars-28bb)
+- [Playwright for Performance Testing Live Websites](https://dev.to/kennethrohde/playwright-for-performance-testing-live-websites-1ib6)
 - [Mobile App Design: 5 Must-Know Tips for a Seamless User Experience](https://dev.to/lollypopdesign/mobile-app-design-5-must-know-tips-for-a-seamless-user-experience-462h)
 - [Entity Framework Core Isn’t Slow, You’re Just Using It Wrong](https://dev.to/iamcymentho/entity-framework-core-isnt-slow-youre-just-using-it-wrong-308i)
-- [Controlling data visibility &amp; access with RLS &amp; OLS in Dataverse](https://dev.to/fernandaek/controlling-data-visibility-access-with-rls-ols-in-dataverse-35nf)
-- [Neon Button Effects with FSCSS ⚡](https://dev.to/fscss/neon-button-effects-with-fscss-me0)
-- [How Kiponos.io Ends Config Chaos in CI/CD](https://dev.to/kiponos/how-kiponosio-ends-config-chaos-in-cicd-48l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
