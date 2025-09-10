@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Machine Learning? The Real Engine Behind Artificial Intelligence](https://dev.to/ashish_krishna_pavan_gade/what-is-machine-learning-the-real-engine-behind-artificial-intelligence-5b17)
+- [Top 15 eLearning Trends Shaping 2026](https://dev.to/khnh_lynguyn_3005/top-15-elearning-trends-shaping-2026-5dpj)
 - [I’ve Solved 50 LeetCode Problems So Far – Here’s What I Learned &lpar;and What I Wish I Knew Earlier&rpar;](https://dev.to/trojanmocx/ive-solved-50-leetcode-problems-so-far-heres-what-i-learned-and-what-i-wish-i-knew-earlier-2ld)
 - [SQL vs NoSQL](https://dev.to/dj_orchido/sql-vs-nosql-ln5)
 - [Smart India Hackathon &lpar;SIH&rpar; 2025](https://dev.to/avinash201199/smart-india-hackathon-sih-2025-828)
-- [AWS CDK Last Month - August 2025](https://dev.to/aws/aws-cdk-last-month-august-2025-nhj)
-- [SQLite: Randomly order rows](https://dev.to/mr_destructive/sqlite-randomly-order-rows-1pac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
