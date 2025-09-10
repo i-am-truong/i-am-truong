@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rethinking Tool Calling: Towards a Scalable Standard](https://dev.to/om_shree_0709/rethinking-tool-calling-towards-a-scalable-standard-3pbe)
 - [TikTok API](https://dev.to/george_cojocaru_809bc6b2e/tiktok-api-386o)
+- [Man-in-the-Middle Attacks Explained &lpar;And How to Stay Safe&rpar;](https://dev.to/terminaltools/man-in-the-middle-attacks-explained-and-how-to-stay-safe-1h7e)
 - [How I Built an AI Workspace To Help Students &amp; Researchers](https://dev.to/ben_hrootuser_f897c5b3/how-i-built-an-ai-workspace-to-help-students-researchers-2kbd)
 - [Visualizing Gin: A Different Kind of Code Walkthrough](https://dev.to/jfeliu007/visualizing-gin-a-different-kind-of-code-walkthrough-5dde)
-- [10 Best Practices for Laravel API Development](https://dev.to/mahek_patel_coder/10-best-practices-for-laravel-api-development-7d)
-- [Angular Signals: The Future of Reactivity in Angular](https://dev.to/rohit_singh_ee84e64941db7/angular-signals-the-future-of-reactivity-in-angular-aml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
