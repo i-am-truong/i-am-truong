@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS - Infrastructure for the Rest of Us](https://dev.to/muad/aws-infrastructure-for-the-rest-of-us-2oal)
 - [The Missing Link in Cloud Learning: Experience](https://dev.to/yoga0022/the-missing-link-in-cloud-learning-experience-1ibk)
 - [Queues, Buses, and Streams](https://dev.to/aws-builders/queues-buses-and-streams-49g2)
 - [AI-Powered SEO Research Agent with OpenAI &amp; SerpApi](https://dev.to/james_collins/ai-powered-seo-research-agent-with-openai-serpapi-390g)
 - [AI is amazing — but let&#39;s keep our critical thinking on](https://dev.to/shaman-apprentice/ai-is-amazing-but-lets-keep-our-critical-thinking-on-10b1)
-- [The $50 Article That Sparked My Research on CTEs](https://dev.to/pascal_cescato_692b7a8a20/the-50-article-that-sparked-my-research-on-ctes-1e0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
