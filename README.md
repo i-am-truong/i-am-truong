@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Problem-Solving in IT Is About People, Not Just Code](https://dev.to/dobrenteiistvan/why-problem-solving-in-it-is-about-people-not-just-code-3o25)
-- [Article 1 :Intro to Gen AI,LLMS and LangChain Frameworks&lpar;Part C&rpar;](https://dev.to/raunaklallala/article-1-intro-to-gen-aillms-and-langchain-frameworkspart-c-48ij)
-- [Article 1: Intro to Gen AI ,LLMS, and LangChain Frameworks&lpar;Part A&rpar;](https://dev.to/raunaklallala/article-1-intro-to-gen-ai-llms-and-langchain-frameworkspart-a-4o66)
-- [Introducing ScreenUI – A Modern Open-Source UI Component Library &lpar;Work in Progress&rpar;](https://dev.to/iamnavneet/introducing-screenui-a-modern-open-source-ui-component-library-work-in-progress-3bo2)
-- [100 Days of DevOps, Day 2: Temporary User Setup with Expiry](https://dev.to/olymahmud/100-days-of-devops-day-2-temporary-user-setup-with-expiry-4hb2)
+- [Promise in JavaScript](https://dev.to/bhuvanasri/promise-in-javascript-1gee)
+- [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd)
+- [I Didn&#39;t Understand Program.cs in .NET, So I Wrote This](https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf)
+- [How to Create a Django App for Beginners](https://dev.to/azmol419/how-to-create-a-django-app-for-beginners-9e1)
+- [Shipaton: Do0ne Build Journal #2 - Using Do0ne in Practice &amp; Custom Loading Screen with Lottie Icons](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-2-using-do0ne-in-practice-custom-loading-screen-with-lottie-icons-2oan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
