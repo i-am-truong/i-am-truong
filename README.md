@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Best Practices: Reduce Image Size + Common Interview Questions](https://dev.to/suavebajaj/docker-best-practices-reduce-image-size-common-interview-questions-4hen)
+- [🎨 Building a Random Gradient Generator with React &lpar;Step-by-Step Guide&rpar;](https://dev.to/vishalthapaliya/building-a-random-gradient-generator-with-react-step-by-step-guide-16co)
 - [Notes from PyData Berlin 2025](https://dev.to/drorata/notes-from-pydata-berlin-2025-14ja)
 - [Dashboard Design: Key Considerations for an Effective UI](https://dev.to/lollypopdesign/dashboard-design-key-considerations-for-an-effective-ui-dg8)
 - [Cadenas de caracteres... en el BASIC del ZX Spectrum](https://dev.to/baltasarq/cadenas-de-caracteres-en-el-basic-del-zx-spectrum-25mc)
-- [Prompting GPT-5: How to write clear, effective prompts for maximum results](https://dev.to/techielass/prompting-gpt-5-how-to-write-clear-effective-prompts-for-maximum-results-46dc)
-- [Tired of Regex Gibberish? This CLI Tool Decodes It Like Magic. ✨](https://dev.to/silentwatcher_95/tired-of-regex-gibberish-this-cli-tool-decodes-it-like-magic-374i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
