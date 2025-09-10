@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How SpaceX’s Direct-to-Cell Starlink Tech Will Revolutionize Your iPhone’s Connectivity](https://dev.to/axrisi/how-spacexs-direct-to-cell-starlink-tech-will-revolutionize-your-iphones-connectivity-1c0g)
+- [Flexible Feature Access in Rails SaaS Apps](https://dev.to/railsdesigner/flexible-feature-access-in-rails-saas-apps-49g6)
 - [Server-Side Rendering: The Security Reality Check Every Developer Needs](https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13)
+- [This post alone made me want to make an account. Extremely well written and something I absolutely needed to read. Thanks, Carlos!](https://dev.to/jordanadair/this-post-alone-made-me-want-to-make-an-account-extremely-well-written-and-something-i-absolutely-23e2)
 - [🚀 Looking for Feedback on ClearWork: Real-World Process Mapping, Future-State Design &amp; Agentic Workflows](https://dev.to/avery_brooks_9532c2ed2452/looking-for-feedback-on-clearwork-real-world-process-mapping-future-state-design-agentic-fc)
-- [Python Mystery Quiz: Can You Crack This Code?](https://dev.to/aaron_rose_0787cc8b4775a0/python-mystery-quiz-can-you-crack-this-code-3o53)
-- [Best markup to use in GitHub as a writer based on work-flow](https://dev.to/somadinag/best-markup-to-use-in-github-as-a-writer-based-on-work-flow-3ma)
-- [From StackOverflow to Vibe Coding: The Evolution of Copy-Paste Development](https://dev.to/trackjs/from-stackoverflow-to-vibe-coding-the-evolution-of-copy-paste-development-4ngl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
