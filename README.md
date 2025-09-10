@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Every Mainline Borderlands Review... So Far](https://dev.to/gg_news/ign-every-mainline-borderlands-review-so-far-2p91)
-- [IGN: SunderBound - Official Reveal Trailer](https://dev.to/gg_news/ign-sunderbound-official-reveal-trailer-4mnh)
-- [IGN: LEGO Voyagers - Official Developer Diary](https://dev.to/gg_news/ign-lego-voyagers-official-developer-diary-3g1d)
-- [IGN: Pokemon Legends: Z-A - Official Mega Malamar Reveal Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-mega-malamar-reveal-trailer-1h10)
-- [SVG Path Editor – Draw and Edit SVGs Easily 🚀](https://dev.to/frontendtoolstech/svg-path-editor-draw-and-edit-svgs-easily-1boi)
+- [Multi-chain interoperability supporting smooth blockchains transactions across ecosystems.](https://dev.to/ramjan_khan_d29cfb1dc87fe/multi-chain-interoperability-supporting-smooth-blockchains-transactions-across-ecosystems-874)
+- [Tracking Changes in Angular Forms Without Losing Your Mind 🤯](https://dev.to/xhanimanolistrungu/tracking-changes-in-angular-forms-without-losing-your-mind-8b8)
+- [Building agents with Controlled Autonomy using our new PlanBuilder interface](https://dev.to/portia-ai/building-agents-with-controlled-autonomy-using-our-new-planbuilder-interface-1oc1)
+- [Ai art critique](https://dev.to/joe_vellinga_44e9edf77d50/ai-art-critique-238h)
+- [Static Calculator Website Host On Google Cloud Storage](https://dev.to/yoga0022/static-calculator-website-host-on-google-cloud-storage-3pk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
