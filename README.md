@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Forensics: Reverse-Engineering Your Models for Hidden Data Leaks](https://dev.to/arvindsundararajan/ai-forensics-reverse-engineering-your-models-for-hidden-data-leaks-mce)
+- [Create a Modal without any framework.](https://dev.to/artyprog/create-a-modal-without-any-framework-3n9e)
 - [Apprenticeship and the Importance of Community](https://dev.to/jakesvoid/apprenticeship-and-the-importance-of-community-1phc)
+- [Sketch2Web](https://dev.to/osamaosman/sketch2web-3le9)
 - [Grant Horvat: Can I Break 60 with Bronny James?](https://dev.to/youtube_golf/grant-horvat-can-i-break-60-with-bronny-james-5bph)
-- [IGN: Spinal Tap React to the Greatest Rock &amp; Roll Moments In Movie History](https://dev.to/gg_news/ign-spinal-tap-react-to-the-greatest-rock-roll-moments-in-movie-history-87e)
-- [IGN: Little Nightmares 3: The Final Preview](https://dev.to/gg_news/ign-little-nightmares-3-the-final-preview-eb2)
-- [AI in the Office: What Every Worker Needs in 2024](https://dev.to/summone/ai-in-the-office-what-every-worker-needs-in-2024-1n3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
