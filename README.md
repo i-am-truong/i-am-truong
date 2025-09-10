@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure Your APIs with Apache APISIX + SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/secure-your-apis-with-apache-apisix-safeline-waf-56m5)
 - [Promise in JavaScript](https://dev.to/bhuvanasri/promise-in-javascript-1gee)
 - [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd)
 - [I Didn&#39;t Understand Program.cs in .NET, So I Wrote This](https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf)
 - [How to Create a Django App for Beginners](https://dev.to/azmol419/how-to-create-a-django-app-for-beginners-9e1)
-- [Shipaton: Do0ne Build Journal #2 - Using Do0ne in Practice &amp; Custom Loading Screen with Lottie Icons](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-2-using-do0ne-in-practice-custom-loading-screen-with-lottie-icons-2oan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
