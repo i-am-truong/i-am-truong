@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Bloom Filters Can Supercharge Your NLP Pipelines 🚀🧠](https://dev.to/ayushsrtv/how-bloom-filters-can-supercharge-your-nlp-pipelines-1oal)
 - [The Hidden Compliance Risks in Cloud-Native Apps and How to Manage Them Easily](https://dev.to/heyjoshlee/the-hidden-compliance-risks-in-cloud-native-apps-and-how-to-manage-them-easily-3cc6)
 - [Building Progressive Web Apps with Quasar Framework: A Complete Guide to Offline-First Development](https://dev.to/ivanrochacardoso/building-progressive-web-apps-with-quasar-framework-a-complete-guide-to-offline-first-development-3170)
 - [Multi-chain interoperability supporting smooth blockchains transactions across ecosystems.](https://dev.to/ramjan_khan_d29cfb1dc87fe/multi-chain-interoperability-supporting-smooth-blockchains-transactions-across-ecosystems-874)
 - [Tracking Changes in Angular Forms Without Losing Your Mind 🤯](https://dev.to/xhanimanolistrungu/tracking-changes-in-angular-forms-without-losing-your-mind-8b8)
-- [Freelance vs Agency vs Subscription Websites &lpar;WaaS&rpar;: What is the Ideal Web Design Model?](https://dev.to/alex-john/freelance-vs-agency-vs-subscription-websites-waas-what-is-the-ideal-web-design-model-2lfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
