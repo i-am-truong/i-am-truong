@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Mystery Quiz: Can You Crack This Code?](https://dev.to/aaron_rose_0787cc8b4775a0/python-mystery-quiz-can-you-crack-this-code-3o53)
+- [Best markup to use in GitHub as a writer based on work-flow](https://dev.to/somadinag/best-markup-to-use-in-github-as-a-writer-based-on-work-flow-3ma)
+- [From StackOverflow to Vibe Coding: The Evolution of Copy-Paste Development](https://dev.to/trackjs/from-stackoverflow-to-vibe-coding-the-evolution-of-copy-paste-development-4ngl)
+- [DIY MCP Servers vs Verified Solutions: The Trade-offs Nobody&#39;s Talking About 🎭](https://dev.to/leomarsh/diy-mcp-servers-vs-verified-solutions-the-trade-offs-nobodys-talking-about-3jl9)
 - [AI Forensics: Reverse-Engineering Your Models for Hidden Data Leaks](https://dev.to/arvindsundararajan/ai-forensics-reverse-engineering-your-models-for-hidden-data-leaks-mce)
-- [Create a Modal without any framework.](https://dev.to/artyprog/create-a-modal-without-any-framework-3n9e)
-- [Apprenticeship and the Importance of Community](https://dev.to/jakesvoid/apprenticeship-and-the-importance-of-community-1phc)
-- [Sketch2Web](https://dev.to/osamaosman/sketch2web-3le9)
-- [Grant Horvat: Can I Break 60 with Bronny James?](https://dev.to/youtube_golf/grant-horvat-can-i-break-60-with-bronny-james-5bph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
