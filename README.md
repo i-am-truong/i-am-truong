@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Backwards Way to $10K MRR: Build SEO First, Product Second](https://dev.to/shayy/the-backwards-way-to-10k-mrr-build-seo-first-product-second-1e82)
+- [Building an Amazon EKS Cluster with raw Terraform Resources](https://dev.to/aws-builders/building-an-amazon-eks-cluster-with-raw-terraform-resources-1gj0)
 - [Weekly Update #8](https://dev.to/abytebybyte/weekly-update-8-4gck)
 - [Puppet Core 8.15.0 Released with Patches, Reporting Enhancements, and macOS Updates](https://dev.to/puppet/puppet-core-8150-released-with-patches-reporting-enhancements-and-macos-updates-3jh0)
-- [Create Stunning Profile Pictures in Seconds with Google AI Studio](https://dev.to/hisrinivas1972/create-stunning-profile-pictures-in-seconds-with-google-ai-studio-420d)
-- [🚀 Meet the first Small Language Model built for DevOps 🚀](https://dev.to/lakhera2015/meet-the-first-small-language-model-built-for-devops-49op)
-- [Stop Writing Your Own Validators](https://dev.to/neil_okikiolu/stop-writing-your-own-validators-188o)
+- [Pipelines Don’t Run on Tools, They Run on People](https://dev.to/exodiagamedevelopment/pipelines-dont-run-on-tools-they-run-on-people-246e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
