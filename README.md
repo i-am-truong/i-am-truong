@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Communicating with Data: A Simple Framework That Changed My Approach](https://dev.to/satyam_gupta/communicating-with-data-a-simple-framework-that-changed-my-approach-ie2)
 - [Day 21 - Deploy the Github Profile Project to Github Pages](https://dev.to/railsstudent/day-21-deploy-the-github-profile-project-to-github-pages-p39)
 - [👉 The Java main Method: Why It Looks So Weird](https://dev.to/mohamad_mhana/the-java-main-method-why-it-looks-so-weird-1e0o)
 - [Matrix Echelon Forms with Python](https://dev.to/shrsv/matrix-echelon-forms-with-python-3eeg)
 - [Spring streaming response made easy](https://dev.to/daasrattale/spring-streaming-response-made-easy-5ddh)
-- [Telecom Transformation Through Big Data – Insights from Vodafone Idea](https://dev.to/pawarjay19/telecom-transformation-through-big-data-insights-from-vodafone-idea-2gj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
