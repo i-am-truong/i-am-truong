@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [100 Days of DevOps, Day 2: Temporary User Setup with Expiry](https://dev.to/olymahmud/100-days-of-devops-day-2-temporary-user-setup-with-expiry-4hb2)
+- [Bring AI Into Any App With One Keystroke](https://dev.to/louis7/bring-ai-into-any-app-with-one-keystroke-4ono)
+- [Tested 15 Asana Alternatives: Only These 6 Actually Work for Dev Teams](https://dev.to/teamcamp/tested-15-asana-alternatives-only-these-6-actually-work-for-dev-teams-1k15)
 - [Control Your Android on PC with Vysor](https://dev.to/siswoyo/control-your-android-on-pc-with-vysor-h07)
 - [Building Basic Location-Aware Agents with Gaia Nodes](https://dev.to/harishkotra/building-basic-location-aware-agents-with-gaia-nodes-29cc)
-- [Opening Modals with Hash Listeners: A Simple JavaScript Pattern](https://dev.to/emrahg/opening-modals-with-hash-listeners-a-simple-javascript-pattern-2b77)
-- [AI won’t simply replace jobs; it will reshape them. Here are the top 5 jobs already evolving, and how they’ll look by 2030.](https://dev.to/jaideepparashar/ai-wont-simply-replace-jobs-it-will-reshape-them-here-are-the-top-5-jobs-already-evolving-and-487e)
-- [The Future of Work: 5 Jobs AI Will Redefine by 2030](https://dev.to/jaideepparashar/the-future-of-work-5-jobs-ai-will-redefine-by-2030-me3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
