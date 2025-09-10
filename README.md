@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Free Image Conversion Tools You Can Use Right Now](https://dev.to/snehasishkonger/5-best-free-image-conversion-tools-you-can-use-right-now-63l)
-- [Using SIMD in WebAssembly &lpar;Part 1&rpar;](https://dev.to/yangholmes/using-simd-in-webassembly-part-1-52ec)
-- [How to Use the Red Line Burndown for Long-Term Agile Release Planning](https://dev.to/crimsalytics_9eb4de66ab/how-to-use-the-red-line-burndown-for-long-term-agile-release-planning-3f7f)
-- [Introdução à Mensageria com RabbitMQ &lpar;Parte 1 – Conceitos&rpar;](https://dev.to/arauhovitor/introducao-a-mensageria-com-rabbitmq-parte-1-conceitos-671)
-- [Part-44: ⚡Google Cloud Functions: HTTPS &amp; Event-Driven Serverless Computing](https://dev.to/latchudevops/part-44-google-cloud-functions-https-event-driven-serverless-computing-5ajp)
+- [How I fixed 403 error in Laravel](https://dev.to/seongbae/how-i-fixed-403-error-in-laravel-2eg3)
+- [Bringing Baseline into Product Development — and Keeping It Safe in Practice](https://dev.to/ryuya/bringing-baseline-into-product-development-and-keeping-it-safe-in-practice-3pb8)
+- [Visual Studio 2026 Insiders is Here! &lpar;And It&#39;s Actually Good This Time&rpar;](https://dev.to/shiva_shanker_k/visual-studio-2026-insiders-is-here-and-its-actually-good-this-time-1fao)
+- [NPR Music: 2025 Americana Music Honors &amp; Awards](https://dev.to/music_youtube/npr-music-2025-americana-music-honors-awards-345n)
+- [Jeff Su: These 5 iPhone AI Tips Changed How I Work](https://dev.to/future_ai/jeff-su-these-5-iphone-ai-tips-changed-how-i-work-i2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
