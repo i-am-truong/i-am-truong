@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Coding Agent the Magical Autonomous AI: The Prequel](https://dev.to/anchildress1/github-coding-agent-the-magical-autonomous-ai-the-prequel-4h11)
-- [Exploring LLaMA, Hugging Face, and LoRA/QLoRA](https://dev.to/satya_prakash_06/exploring-llama-hugging-face-and-loraqlora-1b66)
-- [If You Use Telegram: Read This Now](https://dev.to/scofieldidehen/if-you-use-telegram-read-this-now-1ddj)
-- [How AI Is Reshaping Telecom: From Call Routing to Compliance](https://dev.to/abdul_shamim/how-ai-is-reshaping-telecom-from-call-routing-to-compliance-167b)
-- [Validate Your SaaS Idea in Minutes &lpar;Free Tool for Solo Founders&rpar;](https://dev.to/soasme/validate-your-saas-idea-in-minutes-free-tool-for-solo-founders-22j3)
+- [CSR vs SSG vs SSR: What They Mean and How React &amp; Next.js Use Them](https://dev.to/farhadham/csr-vs-ssg-vs-ssr-what-they-mean-and-how-react-nextjs-use-them-51p4)
+- [Micro Frontend Architecture with Angular 20: A Complete Guide](https://dev.to/parthraval9/micro-frontend-architecture-with-angular-20-a-complete-guide-3421)
+- [Desacoplando lógicas com PublishEvent + EventHandler no Spring Boot](https://dev.to/ledsonsilva/desacoplando-logicas-com-publishevent-eventhandler-no-spring-boot-57h5)
+- [🚀 Day 12 of My Python Learning Journey](https://dev.to/_adii3107/day-12-of-my-python-learning-journey-36a5)
+- [AI-Powered SEO Strategies for WordPress: Staying Ahead in Search Rankings](https://dev.to/addwebsolutionpvtltd/ai-powered-seo-strategies-for-wordpress-staying-ahead-in-search-rankings-4450)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
