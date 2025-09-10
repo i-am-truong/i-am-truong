@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Web Scraping Tool Server with FastMCP &amp; Zyte API](https://dev.to/zyte/build-a-web-scraping-tool-server-with-fastmcp-zyte-api-34il)
-- [Build, Run, Chat: Creating a Self-Hosted LLM Setup](https://dev.to/lightningdev123/build-run-chat-creating-a-self-hosted-llm-setup-56ol)
-- [Use Coolify to self-host SigNoz](https://dev.to/gauthierplm/use-coolify-to-self-host-signoz-1h6b)
-- [001 - This is OnglX deploy](https://dev.to/njabulomajozi/001-this-is-onglx-deploy-13io)
-- [Wasted Open Source efforts 😮](https://dev.to/jankapunkt/wasted-open-source-efforts-8ia)
+- [Cadenas de caracteres... en el BASIC del ZX Spectrum](https://dev.to/baltasarq/cadenas-de-caracteres-en-el-basic-del-zx-spectrum-25mc)
+- [Prompting GPT-5: How to write clear, effective prompts for maximum results](https://dev.to/techielass/prompting-gpt-5-how-to-write-clear-effective-prompts-for-maximum-results-46dc)
+- [Tired of Regex Gibberish? This CLI Tool Decodes It Like Magic. ✨](https://dev.to/silentwatcher_95/tired-of-regex-gibberish-this-cli-tool-decodes-it-like-magic-374i)
+- [Tsonnet #23 - Mirror, mirror on the wall, who&#39;s the most self-referential of them all?](https://dev.to/bitmaybewise/tsonnet-23-mirror-mirror-on-the-wall-whos-the-most-self-referential-of-them-all-2212)
+- [How to Make Your Data Science Project the Beyoncé of the Boardroom](https://dev.to/eram/how-to-make-your-data-science-project-the-beyonce-of-the-boardroom-47kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
