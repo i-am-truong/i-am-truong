@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I’ve Solved 50 LeetCode Problems So Far – Here’s What I Learned &lpar;and What I Wish I Knew Earlier&rpar;](https://dev.to/trojanmocx/ive-solved-50-leetcode-problems-so-far-heres-what-i-learned-and-what-i-wish-i-knew-earlier-2ld)
+- [SQL vs NoSQL](https://dev.to/dj_orchido/sql-vs-nosql-ln5)
+- [Smart India Hackathon &lpar;SIH&rpar; 2025](https://dev.to/avinash201199/smart-india-hackathon-sih-2025-828)
 - [AWS CDK Last Month - August 2025](https://dev.to/aws/aws-cdk-last-month-august-2025-nhj)
 - [SQLite: Randomly order rows](https://dev.to/mr_destructive/sqlite-randomly-order-rows-1pac)
-- [📚 Series: Mastering JavaScript Objects Step by Step](https://dev.to/usama_dev/series-mastering-javascript-objects-step-by-step-cln)
-- [Robotics + AI + Crypto: The Next Tech Frontier](https://dev.to/mikhailliublin/robotics-ai-crypto-the-next-tech-frontier-ia6)
-- [Understanding IPv4 CIDR Addressing: A Complete Guide for DevOps Engineers](https://dev.to/kmsaifullah/understanding-ipv4-cidr-addressing-a-complete-guide-for-devops-engineers-cf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
