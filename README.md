@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Control Your Android on PC with Vysor](https://dev.to/siswoyo/control-your-android-on-pc-with-vysor-h07)
+- [Building Basic Location-Aware Agents with Gaia Nodes](https://dev.to/harishkotra/building-basic-location-aware-agents-with-gaia-nodes-29cc)
+- [Opening Modals with Hash Listeners: A Simple JavaScript Pattern](https://dev.to/emrahg/opening-modals-with-hash-listeners-a-simple-javascript-pattern-2b77)
 - [AI won’t simply replace jobs; it will reshape them. Here are the top 5 jobs already evolving, and how they’ll look by 2030.](https://dev.to/jaideepparashar/ai-wont-simply-replace-jobs-it-will-reshape-them-here-are-the-top-5-jobs-already-evolving-and-487e)
 - [The Future of Work: 5 Jobs AI Will Redefine by 2030](https://dev.to/jaideepparashar/the-future-of-work-5-jobs-ai-will-redefine-by-2030-me3)
-- [Hugging Face FineVision: 24M-Sample, 10B-Token Open Dataset Changing Vision-Language Training](https://dev.to/aiwithapex/hugging-face-finevision-24m-sample-10b-token-open-dataset-changing-vision-language-training-35oj)
-- [How I fixed 403 error in Laravel](https://dev.to/seongbae/how-i-fixed-403-error-in-laravel-2eg3)
-- [Bringing Baseline into Product Development — and Keeping It Safe in Practice](https://dev.to/ryuya/bringing-baseline-into-product-development-and-keeping-it-safe-in-practice-3pb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
