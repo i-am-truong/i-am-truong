@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Coolify to self-host SigNoz](https://dev.to/gauthierplm/use-coolify-to-self-host-signoz-1h6b)
 - [Wasted Open Source efforts 😮](https://dev.to/jankapunkt/wasted-open-source-efforts-8ia)
 - [Scraping an Entire Blog? Let the AI Handle Pagination &lpar;Full Code&rpar;](https://dev.to/zyte/scraping-an-entire-blog-let-the-ai-handle-pagination-full-code-13de)
 - [In C#, how do I remove switch expressions?](https://dev.to/rahul1994jh/in-c-how-do-i-remove-switch-expressions-1k78)
 - [Understanding the Difference Between Subquery, CTE, and Stored Procedure](https://dev.to/dilan_bosire_c52bea0549cb/understanding-the-difference-between-subquery-cte-and-stored-procedure-3mg5)
-- [100 Days of DevOps: Day 38](https://dev.to/wycliffealphus/100-days-of-devops-day-38-498g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
