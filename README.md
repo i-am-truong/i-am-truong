@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 2](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-2-46n0)
-- [Porfolio Updates](https://dev.to/freepirat/porfolio-updates-2072)
-- [RAG-Powered Chat: OpenAI &amp; ChromaDB Integration](https://dev.to/gabrielmrojas/rag-powered-chat-openai-chromadb-integration-3kid)
-- [I&#39;m Starting My First Solo Game Dev Journey—And I&#39;m Beginning with Data, Not Code.](https://dev.to/minealex/im-starting-my-first-solo-game-dev-journey-and-im-beginning-with-data-not-code-4och)
-- [Why Users Act or Don’t: Lessons from the CREATE Action Funnel](https://dev.to/lovestaco/why-users-act-or-dont-lessons-from-the-create-action-funnel-4bne)
+- [Day 21 - Deploy the Github Profile Project to Github Pages](https://dev.to/railsstudent/day-21-deploy-the-github-profile-project-to-github-pages-p39)
+- [👉 The Java main Method: Why It Looks So Weird](https://dev.to/mohamad_mhana/the-java-main-method-why-it-looks-so-weird-1e0o)
+- [Matrix Echelon Forms with Python](https://dev.to/shrsv/matrix-echelon-forms-with-python-3eeg)
+- [Spring streaming response made easy](https://dev.to/daasrattale/spring-streaming-response-made-easy-5ddh)
+- [Telecom Transformation Through Big Data – Insights from Vodafone Idea](https://dev.to/pawarjay19/telecom-transformation-through-big-data-insights-from-vodafone-idea-2gj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
