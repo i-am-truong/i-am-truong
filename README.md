@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Release - CherryPick 3.x](https://dev.to/pese/release-cherrypick-3x-1jga)
-- [AI in Finance and Banking Exploring the Emerging Role of the Internet of Behaviors &lpar;IoB&rpar;](https://dev.to/vendkura/ai-in-finance-and-banking-exploring-the-emerging-role-of-the-internet-of-behaviors-iob-eng-version-34j5)
-- [Turning a Photo into a 1/7 Scale PVC Figurine with Bandai-Style Packaging](https://dev.to/safdarali25/turning-a-photo-into-a-17-scale-pvc-figurine-with-bandai-style-packaging-587k)
-- [Don&#39;t Run it Twice: Mastering Idempotency in Production LangGraph Agents](https://dev.to/ajay_gupta_60a0393643f3e9/dont-run-it-twice-mastering-idempotency-in-production-langgraph-agents-2gmp)
-- [What is Docker? Explained Simply 🐳](https://dev.to/dev888_august_bfb28f16737/what-is-docker-explained-simply-15g1)
+- [Wasted Open Source efforts 😮](https://dev.to/jankapunkt/wasted-open-source-efforts-8ia)
+- [Scraping an Entire Blog? Let the AI Handle Pagination &lpar;Full Code&rpar;](https://dev.to/zyte/scraping-an-entire-blog-let-the-ai-handle-pagination-full-code-13de)
+- [In C#, how do I remove switch expressions?](https://dev.to/rahul1994jh/in-c-how-do-i-remove-switch-expressions-1k78)
+- [Understanding the Difference Between Subquery, CTE, and Stored Procedure](https://dev.to/dilan_bosire_c52bea0549cb/understanding-the-difference-between-subquery-cte-and-stored-procedure-3mg5)
+- [100 Days of DevOps: Day 38](https://dev.to/wycliffealphus/100-days-of-devops-day-38-498g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
