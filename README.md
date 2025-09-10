@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Web Scraping Tool Server with FastMCP &amp; Zyte API](https://dev.to/zyte/build-a-web-scraping-tool-server-with-fastmcp-zyte-api-34il)
+- [Build, Run, Chat: Creating a Self-Hosted LLM Setup](https://dev.to/lightningdev123/build-run-chat-creating-a-self-hosted-llm-setup-56ol)
 - [Use Coolify to self-host SigNoz](https://dev.to/gauthierplm/use-coolify-to-self-host-signoz-1h6b)
+- [001 - This is OnglX deploy](https://dev.to/njabulomajozi/001-this-is-onglx-deploy-13io)
 - [Wasted Open Source efforts 😮](https://dev.to/jankapunkt/wasted-open-source-efforts-8ia)
-- [Scraping an Entire Blog? Let the AI Handle Pagination &lpar;Full Code&rpar;](https://dev.to/zyte/scraping-an-entire-blog-let-the-ai-handle-pagination-full-code-13de)
-- [In C#, how do I remove switch expressions?](https://dev.to/rahul1994jh/in-c-how-do-i-remove-switch-expressions-1k78)
-- [Understanding the Difference Between Subquery, CTE, and Stored Procedure](https://dev.to/dilan_bosire_c52bea0549cb/understanding-the-difference-between-subquery-cte-and-stored-procedure-3mg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
