@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Problem-Solving in IT Is About People, Not Just Code](https://dev.to/dobrenteiistvan/why-problem-solving-in-it-is-about-people-not-just-code-3o25)
 - [Article 1 :Intro to Gen AI,LLMS and LangChain Frameworks&lpar;Part C&rpar;](https://dev.to/raunaklallala/article-1-intro-to-gen-aillms-and-langchain-frameworkspart-c-48ij)
 - [Article 1: Intro to Gen AI ,LLMS, and LangChain Frameworks&lpar;Part A&rpar;](https://dev.to/raunaklallala/article-1-intro-to-gen-ai-llms-and-langchain-frameworkspart-a-4o66)
 - [Introducing ScreenUI – A Modern Open-Source UI Component Library &lpar;Work in Progress&rpar;](https://dev.to/iamnavneet/introducing-screenui-a-modern-open-source-ui-component-library-work-in-progress-3bo2)
 - [100 Days of DevOps, Day 2: Temporary User Setup with Expiry](https://dev.to/olymahmud/100-days-of-devops-day-2-temporary-user-setup-with-expiry-4hb2)
-- [Bring AI Into Any App With One Keystroke](https://dev.to/louis7/bring-ai-into-any-app-with-one-keystroke-4ono)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
