@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Unleash QuestBot&#39;s Power🎯](https://dev.to/creator_x/day-3-unleash-questbots-power-2p3c)
-- [Reading partitioned Delta table with Polars](https://dev.to/nicocrm/reading-partitioned-delta-table-with-polars-28bb)
-- [Playwright for Performance Testing Live Websites](https://dev.to/kennethrohde/playwright-for-performance-testing-live-websites-1ib6)
-- [Mobile App Design: 5 Must-Know Tips for a Seamless User Experience](https://dev.to/lollypopdesign/mobile-app-design-5-must-know-tips-for-a-seamless-user-experience-462h)
-- [Entity Framework Core Isn’t Slow, You’re Just Using It Wrong](https://dev.to/iamcymentho/entity-framework-core-isnt-slow-youre-just-using-it-wrong-308i)
+- [How Responsive Design Impacts User Experience across Devices](https://dev.to/designstudiouiux/how-responsive-design-impacts-user-experience-across-devices-1fo5)
+- [Aggregation Strategies for Scalable Data Insights: A Technical Perspective](https://dev.to/capestart/aggregation-strategies-for-scalable-data-insights-a-technical-perspective-5dk8)
+- [Unlocking Hidden Content: An Introduction to hidden=&#39;until-found&#39;](https://dev.to/patrick_clancey/unlocking-hidden-content-an-introduction-to-hiddenuntil-found-1mpa)
+- [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
+- [From Prompt to Planet: A Martian RPG Generator](https://dev.to/vero-code/from-prompt-to-planet-a-martian-rpg-generator-26o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
