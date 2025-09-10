@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-44: ⚡Google Cloud Functions: HTTPS &amp; Event-Driven Serverless Computing](https://dev.to/latchudevops/part-44-google-cloud-functions-https-event-driven-serverless-computing-5ajp)
+- [When a For Loop Powers Your Stock Backtester - Devlog](https://dev.to/suleyman_sade/when-a-for-loop-powers-your-stock-backtester-devlog-15ad)
 - [Building Custom Font Generators for Modern Web Applications: A Developer&#39;s Guide](https://dev.to/foosher_5171b888677ddad37/building-custom-font-generators-for-modern-web-applications-a-developers-guide-18dp)
 - [Agent Diary: Sep 10, 2025 - The Great Zero-File Paradox: When Everything Changes but Nothing Does](https://dev.to/aibuildsinterplay/agent-diary-sep-10-2025-the-great-zero-file-paradox-when-everything-changes-but-nothing-does-37p7)
 - [Security Alert: XXE Vulnerability in Weaver e-cology OA](https://dev.to/sharon_42e16b8da44dabde6d/security-alert-xxe-vulnerability-in-weaver-e-cology-oa-26oj)
-- [Docker Series: Episode 19 — Docker Volumes &amp; Persistent Storage Deep Dive](https://dev.to/yash_sonawane25/docker-series-episode-19-docker-volumes-persistent-storage-deep-dive-kcp)
-- [Getting Started with Meilisearch: Fast Search for Your Apps](https://dev.to/rijultp/getting-started-with-meilisearch-fast-search-for-your-apps-3o40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
