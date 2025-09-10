@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is the Gossip Protocol? day 49 of system design](https://dev.to/vincenttommi/what-is-the-gossip-protocol-3g12)
-- [The 90/10 Rule: The Inconvenient Truth About Agentic AI — It’s All Plumbing, No Brain](https://dev.to/thiyagarajt/the-9010-rule-the-inconvenient-truth-about-agentic-ai-its-all-plumbing-no-brain-5ca3)
-- [Secure Your APIs with Apache APISIX + SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/secure-your-apis-with-apache-apisix-safeline-waf-56m5)
-- [Promise in JavaScript](https://dev.to/bhuvanasri/promise-in-javascript-1gee)
-- [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd)
+- [Why I built Wuchale: Protobuf-like i18n from plain code](https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o)
+- [How to Create a Windows Server on AWS EC2 &lpar;Beginner’s Guide&rpar;](https://dev.to/jimmybillz/how-to-create-a-windows-server-on-aws-ec2-beginners-guide-3mbc)
+- [Touchscreen Surface Treatments: Why They Matter for Industrial and Outdoor Applications](https://dev.to/tonyhe8688/touchscreen-surface-treatments-why-they-matter-for-industrial-and-outdoor-applications-1o1m)
+- [I Built 50+ Free Font &amp; Color Tools—And Here&#39;s the Code](https://dev.to/prosun/i-built-50-free-font-color-tools-and-heres-the-code-19l3)
+- [Architech Dream, Your AI Architectural Visionary](https://dev.to/aniruddhaadak/architech-dream-your-ai-architectural-visionary-120c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
