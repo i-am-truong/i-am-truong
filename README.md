@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Chainsaw Man - Official Series Recap Video &lpar;Dub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-official-series-recap-video-dub-1eb5)
-- [IGN: The Jester 2 - Exclusive Clip &lpar;2025&rpar;](https://dev.to/gg_news/ign-the-jester-2-exclusive-clip-2025-2ali)
-- [IGN: PlayStation Family App - Official Overview Trailer](https://dev.to/gg_news/ign-playstation-family-app-official-overview-trailer-3eok)
-- [IGN: The Coolest Things We Saw | PAX West 2025](https://dev.to/gg_news/ign-the-coolest-things-we-saw-pax-west-2025-4e33)
-- [IGN: Katanaut - Official Launch Trailer | Play Acclaim Showcase 2025](https://dev.to/gg_news/ign-katanaut-official-launch-trailer-play-acclaim-showcase-2025-dan)
+- [How to Delete and Recover a Virtual Machine Using OS Disk](https://dev.to/jic/how-to-delete-and-recover-a-virtual-machine-using-os-disk-3p2e)
+- [Awesome Robots Digest - Issue #2 - September 5, 2025](https://dev.to/bobjiang/awesome-robots-digest-issue-2-september-5-2025-8dl)
+- [Quantum Context: The Dawn of Hyper-Personalized AI](https://dev.to/arvindsundararajan/quantum-context-the-dawn-of-hyper-personalized-ai-3g5b)
+- [AI Search Analytics: Tracking Brand Visibility in AI Search](https://dev.to/alifar/ai-search-analytics-tracking-brand-visibility-in-ai-search-23ig)
+- [COLORS: Anik Khan - Infinite NETIC &lpar;ft. Netic&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-anik-khan-infinite-netic-ft-netic-a-colors-show-l7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
