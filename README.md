@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧹 Cleaning Git History &amp; Repo Setup: My Dev Struggles Today](https://dev.to/minoosh/cleaning-git-history-repo-setup-my-dev-struggles-today-19mg)
 - [Announcing `tw-prose`: A CSS-Only Typography Plugin for Tailwind CSS v4](https://dev.to/gridou/announcing-tw-prose-a-css-only-typography-plugin-for-tailwind-css-v4-o8j)
 - [How SpaceX’s Direct-to-Cell Starlink Tech Will Revolutionize Your iPhone’s Connectivity](https://dev.to/axrisi/how-spacexs-direct-to-cell-starlink-tech-will-revolutionize-your-iphones-connectivity-1c0g)
 - [Flexible Feature Access in Rails SaaS Apps](https://dev.to/railsdesigner/flexible-feature-access-in-rails-saas-apps-49g6)
 - [Server-Side Rendering: The Security Reality Check Every Developer Needs](https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13)
-- [This post alone made me want to make an account. Extremely well written and something I absolutely needed to read. Thanks, Carlos!](https://dev.to/jordanadair/this-post-alone-made-me-want-to-make-an-account-extremely-well-written-and-something-i-absolutely-23e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
