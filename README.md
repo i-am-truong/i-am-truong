@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes from PyData Berlin 2025](https://dev.to/drorata/notes-from-pydata-berlin-2025-14ja)
+- [Dashboard Design: Key Considerations for an Effective UI](https://dev.to/lollypopdesign/dashboard-design-key-considerations-for-an-effective-ui-dg8)
 - [Cadenas de caracteres... en el BASIC del ZX Spectrum](https://dev.to/baltasarq/cadenas-de-caracteres-en-el-basic-del-zx-spectrum-25mc)
 - [Prompting GPT-5: How to write clear, effective prompts for maximum results](https://dev.to/techielass/prompting-gpt-5-how-to-write-clear-effective-prompts-for-maximum-results-46dc)
 - [Tired of Regex Gibberish? This CLI Tool Decodes It Like Magic. ✨](https://dev.to/silentwatcher_95/tired-of-regex-gibberish-this-cli-tool-decodes-it-like-magic-374i)
-- [Tsonnet #23 - Mirror, mirror on the wall, who&#39;s the most self-referential of them all?](https://dev.to/bitmaybewise/tsonnet-23-mirror-mirror-on-the-wall-whos-the-most-self-referential-of-them-all-2212)
-- [How to Make Your Data Science Project the Beyoncé of the Boardroom](https://dev.to/eram/how-to-make-your-data-science-project-the-beyonce-of-the-boardroom-47kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
