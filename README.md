@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Article 1 :Intro to Gen AI,LLMS and LangChain Frameworks&lpar;Part C&rpar;](https://dev.to/raunaklallala/article-1-intro-to-gen-aillms-and-langchain-frameworkspart-c-48ij)
+- [Article 1: Intro to Gen AI ,LLMS, and LangChain Frameworks&lpar;Part A&rpar;](https://dev.to/raunaklallala/article-1-intro-to-gen-ai-llms-and-langchain-frameworkspart-a-4o66)
+- [Introducing ScreenUI – A Modern Open-Source UI Component Library &lpar;Work in Progress&rpar;](https://dev.to/iamnavneet/introducing-screenui-a-modern-open-source-ui-component-library-work-in-progress-3bo2)
 - [100 Days of DevOps, Day 2: Temporary User Setup with Expiry](https://dev.to/olymahmud/100-days-of-devops-day-2-temporary-user-setup-with-expiry-4hb2)
 - [Bring AI Into Any App With One Keystroke](https://dev.to/louis7/bring-ai-into-any-app-with-one-keystroke-4ono)
-- [Tested 15 Asana Alternatives: Only These 6 Actually Work for Dev Teams](https://dev.to/teamcamp/tested-15-asana-alternatives-only-these-6-actually-work-for-dev-teams-1k15)
-- [Control Your Android on PC with Vysor](https://dev.to/siswoyo/control-your-android-on-pc-with-vysor-h07)
-- [Building Basic Location-Aware Agents with Gaia Nodes](https://dev.to/harishkotra/building-basic-location-aware-agents-with-gaia-nodes-29cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
