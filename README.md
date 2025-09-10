@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide to Checking Image and Video Safety Using an HTML Editor Software](https://dev.to/ideradevtools/a-step-by-step-guide-to-checking-image-and-video-safety-using-an-html-editor-software-48o0)
 - [ComunicaOps Parte 2.: Desafios de ter um time coeso e motivado de DevOps/SRE/Eng. de Plataformas](https://dev.to/rafaelbonilha/comunicaops-parte-2-desafios-de-ter-um-time-coeso-e-motivado-de-devopssreeng-de-plataformas-4f9g)
 - [Jenkins X: The Future of Cloud-Native CI/CD](https://dev.to/srinivasamcjf/jenkins-x-the-future-of-cloud-native-cicd-7lh)
 - [AI Thumbnail Studio](https://dev.to/ha3k/ai-thumbnail-studio-1b6l)
 - [Unlock the Future of Authentication: A Guide to Passwordless Login with Passkey](https://dev.to/tri_dev_dhm/unlock-the-future-of-authentication-a-guide-to-passwordless-login-with-passkey-516b)
-- [Building a Multi-language Tool Website: Lessons Learned](https://dev.to/_39ddcacc052718181d3ade/building-a-multi-language-tool-website-lessons-learned-3a8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
