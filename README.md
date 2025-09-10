@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Update #8](https://dev.to/abytebybyte/weekly-update-8-4gck)
 - [Puppet Core 8.15.0 Released with Patches, Reporting Enhancements, and macOS Updates](https://dev.to/puppet/puppet-core-8150-released-with-patches-reporting-enhancements-and-macos-updates-3jh0)
 - [Create Stunning Profile Pictures in Seconds with Google AI Studio](https://dev.to/hisrinivas1972/create-stunning-profile-pictures-in-seconds-with-google-ai-studio-420d)
 - [🚀 Meet the first Small Language Model built for DevOps 🚀](https://dev.to/lakhera2015/meet-the-first-small-language-model-built-for-devops-49op)
 - [Stop Writing Your Own Validators](https://dev.to/neil_okikiolu/stop-writing-your-own-validators-188o)
-- [DevOps Automation with Python: Intelligent System Monitoring with Auto Recovery](https://dev.to/devopsbg/devops-automation-with-python-intelligent-system-monitoring-with-auto-recovery-277p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
