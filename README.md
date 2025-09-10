@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTML Proof-of-Concept: Inner Self Challenge Game for Reflection &amp; Growth](https://dev.to/cutieyunnytech/html-proof-of-concept-inner-self-challenge-game-for-reflection-growth-2o4p)
-- [Building a Terminal Sudoku Game in Python](https://dev.to/xucenying/building-a-terminal-sudoku-game-in-python-4np6)
-- [🧹 Cleaning Git History &amp; Repo Setup: My Dev Struggles Today](https://dev.to/minoosh/cleaning-git-history-repo-setup-my-dev-struggles-today-19mg)
-- [Announcing `tw-prose`: A CSS-Only Typography Plugin for Tailwind CSS v4](https://dev.to/gridou/announcing-tw-prose-a-css-only-typography-plugin-for-tailwind-css-v4-o8j)
-- [Why Students Should Start Building Their Digital Portfolio Before Graduation](https://dev.to/imtaslim/why-students-should-start-building-their-digital-portfolio-before-graduation-2n5n)
+- [IGN: Chainsaw Man - Official Series Recap Video &lpar;Dub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-official-series-recap-video-dub-1eb5)
+- [IGN: The Jester 2 - Exclusive Clip &lpar;2025&rpar;](https://dev.to/gg_news/ign-the-jester-2-exclusive-clip-2025-2ali)
+- [IGN: PlayStation Family App - Official Overview Trailer](https://dev.to/gg_news/ign-playstation-family-app-official-overview-trailer-3eok)
+- [IGN: The Coolest Things We Saw | PAX West 2025](https://dev.to/gg_news/ign-the-coolest-things-we-saw-pax-west-2025-4e33)
+- [IGN: Katanaut - Official Launch Trailer | Play Acclaim Showcase 2025](https://dev.to/gg_news/ign-katanaut-official-launch-trailer-play-acclaim-showcase-2025-dan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
