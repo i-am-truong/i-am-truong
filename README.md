@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning a Photo into a 1/7 Scale PVC Figurine with Bandai-Style Packaging](https://dev.to/safdarali25/turning-a-photo-into-a-17-scale-pvc-figurine-with-bandai-style-packaging-587k)
 - [Why I built Wuchale: Protobuf-like i18n from plain code](https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o)
 - [How to Create a Windows Server on AWS EC2 &lpar;Beginner’s Guide&rpar;](https://dev.to/jimmybillz/how-to-create-a-windows-server-on-aws-ec2-beginners-guide-3mbc)
 - [Touchscreen Surface Treatments: Why They Matter for Industrial and Outdoor Applications](https://dev.to/tonyhe8688/touchscreen-surface-treatments-why-they-matter-for-industrial-and-outdoor-applications-1o1m)
 - [I Built 50+ Free Font &amp; Color Tools—And Here&#39;s the Code](https://dev.to/prosun/i-built-50-free-font-color-tools-and-heres-the-code-19l3)
-- [Architech Dream, Your AI Architectural Visionary](https://dev.to/aniruddhaadak/architech-dream-your-ai-architectural-visionary-120c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
