@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [V-Reel AI Generator](https://dev.to/aniruddhaadak/v-reel-ai-generator-189d)
-- [🚀 Fixing the “App isn’t 16KB compatible” Warning on Google Play Console &lpar;Flutter + Android&rpar;](https://dev.to/zaid_syni_05ff81fb2cce5e1/fixing-the-app-isnt-16kb-compatible-warning-on-google-play-console-flutter-android-2p7e)
-- [CSS Shadow Generator – Create Perfect Shadows in Seconds 🚀](https://dev.to/frontendtoolstech/css-shadow-generator-create-perfect-shadows-in-seconds-1cap)
-- [A Step-by-Step Guide to Implementing Multi-Provider SSO in NestJS with OAuth2](https://dev.to/camillefauchier/a-step-by-step-guide-to-implementing-multi-provider-sso-in-nestjs-with-oauth2-30p2)
-- [General Security Concepts and Basic Cryptographic Principles](https://dev.to/pelk/general-security-concepts-and-basic-cryptographic-principles-5c09)
+- [IGN: Every Mainline Borderlands Review... So Far](https://dev.to/gg_news/ign-every-mainline-borderlands-review-so-far-2p91)
+- [IGN: SunderBound - Official Reveal Trailer](https://dev.to/gg_news/ign-sunderbound-official-reveal-trailer-4mnh)
+- [IGN: LEGO Voyagers - Official Developer Diary](https://dev.to/gg_news/ign-lego-voyagers-official-developer-diary-3g1d)
+- [IGN: Pokemon Legends: Z-A - Official Mega Malamar Reveal Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-mega-malamar-reveal-trailer-1h10)
+- [SVG Path Editor – Draw and Edit SVGs Easily 🚀](https://dev.to/frontendtoolstech/svg-path-editor-draw-and-edit-svgs-easily-1boi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
