@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Bloom Filters Can Supercharge Your NLP Pipelines 🚀🧠](https://dev.to/ayushsrtv/how-bloom-filters-can-supercharge-your-nlp-pipelines-1oal)
-- [The Hidden Compliance Risks in Cloud-Native Apps and How to Manage Them Easily](https://dev.to/heyjoshlee/the-hidden-compliance-risks-in-cloud-native-apps-and-how-to-manage-them-easily-3cc6)
-- [Building Progressive Web Apps with Quasar Framework: A Complete Guide to Offline-First Development](https://dev.to/ivanrochacardoso/building-progressive-web-apps-with-quasar-framework-a-complete-guide-to-offline-first-development-3170)
-- [Multi-chain interoperability supporting smooth blockchains transactions across ecosystems.](https://dev.to/ramjan_khan_d29cfb1dc87fe/multi-chain-interoperability-supporting-smooth-blockchains-transactions-across-ecosystems-874)
-- [Tracking Changes in Angular Forms Without Losing Your Mind 🤯](https://dev.to/xhanimanolistrungu/tracking-changes-in-angular-forms-without-losing-your-mind-8b8)
+- [AI Undressing Underage Girls - A Billion Dollar Industry](https://dev.to/scofieldidehen/ai-undressing-underage-girls-a-billion-dollar-industry-3384)
+- [smithery.yaml in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/smitheryyaml-in-mcp-mermaid-codebase-1hpg)
+- [Surfing with FP Java - Mastering Supplier&lt;T&gt;](https://dev.to/borba/surfing-with-fp-java-mastering-supplier-5fjg)
+- [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
+- [Decoding XRP Ledger: How Protocol Requirements Shape the Network &lpar;September 2025 Update&rpar;](https://dev.to/enchstyle/decoding-xrp-ledger-how-protocol-requirements-shape-the-network-september-2025-update-280c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
