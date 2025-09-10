@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is the Gossip Protocol? day 49 of system design](https://dev.to/vincenttommi/what-is-the-gossip-protocol-3g12)
+- [The 90/10 Rule: The Inconvenient Truth About Agentic AI — It’s All Plumbing, No Brain](https://dev.to/thiyagarajt/the-9010-rule-the-inconvenient-truth-about-agentic-ai-its-all-plumbing-no-brain-5ca3)
 - [Secure Your APIs with Apache APISIX + SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/secure-your-apis-with-apache-apisix-safeline-waf-56m5)
 - [Promise in JavaScript](https://dev.to/bhuvanasri/promise-in-javascript-1gee)
 - [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd)
-- [I Didn&#39;t Understand Program.cs in .NET, So I Wrote This](https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf)
-- [How to Create a Django App for Beginners](https://dev.to/azmol419/how-to-create-a-django-app-for-beginners-9e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
