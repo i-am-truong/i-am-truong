@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I stumbled across an AI Interview Answers Generator tool that creates sample answers for common interview questions. It uses frameworks like STAR and tailors responses to your job description. Sounds promising, but I’m wondering if it comes off](https://dev.to/jeenifer_beezer/i-stumbled-across-an-ai-interview-answers-generator-tool-that-creates-sample-answers-for-common-bph)
+- [Quieres Ser Mi Novia?](https://dev.to/martnez_gonzlezdavida/quieres-ser-mi-novia-4foh)
+- [TubeForge - From Video to Knowledge: AI-Powered Notes, Blogs, and Quizzes Instantly](https://dev.to/sanarahman/tubeforge-from-video-to-knowledge-ai-powered-notes-blogs-and-quizzes-instantly-4bmc)
 - [First Impressions with Amazon Bedrock AgentCore](https://dev.to/aws/first-impressions-with-amazon-bedrock-agentcore-5dje)
 - [I Built a Banking System That Talks COBOL… and My Boss Didn&#39;t Notice](https://dev.to/obinexus/i-built-a-banking-system-that-talks-cobol-and-my-boss-didnt-notice-4gm3)
-- [Angular Signals Don&#39;t Replace Observables: Pull vs. Push](https://dev.to/lcsga/angular-signals-dont-replace-observables-pull-vs-push-49l7)
-- [Blind coding](https://dev.to/dyfet/blind-coding-70b)
-- [How to Delete and Recover a Virtual Machine Using OS Disk](https://dev.to/jic/how-to-delete-and-recover-a-virtual-machine-using-os-disk-3p2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
