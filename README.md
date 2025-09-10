@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quantization Explained: A Concise Guide for LLMs](https://dev.to/jte0711/quantization-explained-a-concise-guide-for-llms-4b19)
-- [OSD600: My journey in Open Source](https://dev.to/david_rivera_8d845b35931e/osd600-my-journey-in-open-source-1d7l)
-- [Pi-hole v6 on Unraid: First-Time Login Hell &lpar;And It&#39;s Not The Password&rpar;](https://dev.to/yoshi_homelab/pi-hole-v6-on-unraid-first-time-login-hell-and-its-not-the-password-5g9e)
-- [How Kotlin’s Core Principles Elevate Developer Experience and App Quality](https://dev.to/kavearhasi_viswanathan/how-kotlins-core-principles-elevate-developer-experience-and-app-quality-128l)
-- [Security at Scale: Our npm Incident Response Story](https://dev.to/epilot/security-at-scale-our-npm-incident-response-story-439p)
+- [TikTok API](https://dev.to/george_cojocaru_809bc6b2e/tiktok-api-386o)
+- [How I Built an AI Workspace To Help Students &amp; Researchers](https://dev.to/ben_hrootuser_f897c5b3/how-i-built-an-ai-workspace-to-help-students-researchers-2kbd)
+- [Visualizing Gin: A Different Kind of Code Walkthrough](https://dev.to/jfeliu007/visualizing-gin-a-different-kind-of-code-walkthrough-5dde)
+- [10 Best Practices for Laravel API Development](https://dev.to/mahek_patel_coder/10-best-practices-for-laravel-api-development-7d)
+- [Angular Signals: The Future of Reactivity in Angular](https://dev.to/rohit_singh_ee84e64941db7/angular-signals-the-future-of-reactivity-in-angular-aml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
