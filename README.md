@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Machine Learning? The Real Engine Behind Artificial Intelligence](https://dev.to/ashish_krishna_pavan_gade/what-is-machine-learning-the-real-engine-behind-artificial-intelligence-5b17)
-- [Top 15 eLearning Trends Shaping 2026](https://dev.to/khnh_lynguyn_3005/top-15-elearning-trends-shaping-2026-5dpj)
-- [I’ve Solved 50 LeetCode Problems So Far – Here’s What I Learned &lpar;and What I Wish I Knew Earlier&rpar;](https://dev.to/trojanmocx/ive-solved-50-leetcode-problems-so-far-heres-what-i-learned-and-what-i-wish-i-knew-earlier-2ld)
-- [SQL vs NoSQL](https://dev.to/dj_orchido/sql-vs-nosql-ln5)
-- [Smart India Hackathon &lpar;SIH&rpar; 2025](https://dev.to/avinash201199/smart-india-hackathon-sih-2025-828)
+- [Puppet Core 8.15.0 Released with Patches, Reporting Enhancements, and macOS Updates](https://dev.to/puppet/puppet-core-8150-released-with-patches-reporting-enhancements-and-macos-updates-3jh0)
+- [Create Stunning Profile Pictures in Seconds with Google AI Studio](https://dev.to/hisrinivas1972/create-stunning-profile-pictures-in-seconds-with-google-ai-studio-420d)
+- [🚀 Meet the first Small Language Model built for DevOps 🚀](https://dev.to/lakhera2015/meet-the-first-small-language-model-built-for-devops-49op)
+- [Stop Writing Your Own Validators](https://dev.to/neil_okikiolu/stop-writing-your-own-validators-188o)
+- [DevOps Automation with Python: Intelligent System Monitoring with Auto Recovery](https://dev.to/devopsbg/devops-automation-with-python-intelligent-system-monitoring-with-auto-recovery-277p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
