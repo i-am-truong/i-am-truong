@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI won’t simply replace jobs; it will reshape them. Here are the top 5 jobs already evolving, and how they’ll look by 2030.](https://dev.to/jaideepparashar/ai-wont-simply-replace-jobs-it-will-reshape-them-here-are-the-top-5-jobs-already-evolving-and-487e)
+- [The Future of Work: 5 Jobs AI Will Redefine by 2030](https://dev.to/jaideepparashar/the-future-of-work-5-jobs-ai-will-redefine-by-2030-me3)
 - [Hugging Face FineVision: 24M-Sample, 10B-Token Open Dataset Changing Vision-Language Training](https://dev.to/aiwithapex/hugging-face-finevision-24m-sample-10b-token-open-dataset-changing-vision-language-training-35oj)
 - [How I fixed 403 error in Laravel](https://dev.to/seongbae/how-i-fixed-403-error-in-laravel-2eg3)
 - [Bringing Baseline into Product Development — and Keeping It Safe in Practice](https://dev.to/ryuya/bringing-baseline-into-product-development-and-keeping-it-safe-in-practice-3pb8)
-- [Visual Studio 2026 Insiders is Here! &lpar;And It&#39;s Actually Good This Time&rpar;](https://dev.to/shiva_shanker_k/visual-studio-2026-insiders-is-here-and-its-actually-good-this-time-1fao)
-- [NPR Music: 2025 Americana Music Honors &amp; Awards](https://dev.to/music_youtube/npr-music-2025-americana-music-honors-awards-345n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
