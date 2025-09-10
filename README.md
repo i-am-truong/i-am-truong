@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 2](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-2-46n0)
+- [Porfolio Updates](https://dev.to/freepirat/porfolio-updates-2072)
+- [RAG-Powered Chat: OpenAI &amp; ChromaDB Integration](https://dev.to/gabrielmrojas/rag-powered-chat-openai-chromadb-integration-3kid)
 - [I&#39;m Starting My First Solo Game Dev Journey—And I&#39;m Beginning with Data, Not Code.](https://dev.to/minealex/im-starting-my-first-solo-game-dev-journey-and-im-beginning-with-data-not-code-4och)
 - [Why Users Act or Don’t: Lessons from the CREATE Action Funnel](https://dev.to/lovestaco/why-users-act-or-dont-lessons-from-the-create-action-funnel-4bne)
-- [TDD and AI-enabled engineering](https://dev.to/bain_forge/tdd-and-ai-enabled-engineering-chl)
-- [How to Provide a Swagger UI Interface in Plain HTML That Works](https://dev.to/fedtti/how-to-provide-a-swagger-ui-interface-in-plain-html-that-works-3lll)
-- [The Backwards Way to $10K MRR: Build SEO First, Product Second](https://dev.to/shayy/the-backwards-way-to-10k-mrr-build-seo-first-product-second-1e82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
