@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Radar Charts: Seeing Priorities in Every Dimension](https://dev.to/datastudies/radar-charts-seeing-priorities-in-every-dimension-1onj)
+- [🌊 Be the Rising Tide: The Multiplying Effect of Lifting &lpar;and Pushing&rpar; Others](https://dev.to/dvddpl/be-the-rising-tide-the-multiplying-effect-of-lifting-and-pushing-others-n1h)
+- [10 Handy Online Utilities Every Developer &lpar;and Writer&rpar; Should Bookmark](https://dev.to/designpro_8c25215be381e3c/10-handy-online-utilities-every-developer-and-writer-should-bookmark-p0f)
+- [The Ultimate Ranking of Fruit-Inspired .com Brand Names](https://dev.to/flippp/the-ultimate-ranking-of-fruit-inspired-com-brand-names-2p7o)
 - [From a Roundtable Chat to an MVP Journey: Insights and Community Spirit](https://dev.to/edesantomaz/from-a-roundtable-chat-to-an-mvp-journey-insights-and-community-spirit-1icg)
-- [Links instead of repetition](https://dev.to/mcadariu/links-instead-of-repetition-4pc7)
-- [🔥 HTML Refresher Series – Part 1: Getting Started with HTML](https://dev.to/sharadaade/html-refresher-series-part-1-getting-started-with-html-a9b)
-- [Async/Await in C#](https://dev.to/nouribram/asyncawait-in-c-5h6f)
-- [Cobel&#39;s Automated Publishing Test](https://dev.to/ladyofcode/cobels-automated-publishing-test-16d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
