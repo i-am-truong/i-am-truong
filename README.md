@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Key Metrics in Performance Testing: How to Measure Success](https://dev.to/kristinekristn89/key-metrics-in-performance-testing-how-to-measure-success-243d)
-- [Check out this article on Twitter Sentiment Analysis Using R — 2025 Edition](https://dev.to/vamshi_e_eebe5a6287a27142/check-out-this-article-on-twitter-sentiment-analysis-using-r-2025-edition-472)
-- [Exploring Angular Signal Forms &lpar;v.21&rpar;](https://dev.to/fabiobiondi/exploring-angular-signal-forms-v21-ka5)
-- [Twitter Sentiment Analysis Using R — 2025 Edition](https://dev.to/vamshi_e_eebe5a6287a27142/twitter-sentiment-analysis-using-r-2025-edition-58l)
-- [The smartest devs i know obsess over a skill most engineers ignore](https://dev.to/dev_tips/the-smartest-devs-i-know-obsess-over-a-skill-most-engineers-ignore-2oo5)
+- [Why Microsoft Keeps Cutting Jobs Even as Profits Soar: The AI Paradox Every Developer Should Understand](https://dev.to/shiva_shanker_k/why-microsoft-keeps-cutting-jobs-even-as-profits-soar-the-ai-paradox-every-developer-should-4k9e)
+- [How Clean Code Naming Conventions Reduce Bugs &lpar;and Save Engineering Hours&rpar;](https://dev.to/betterhq/how-clean-code-naming-conventions-reduce-bugs-and-save-engineering-hours-6c6)
+- [This Is How You Automate Your Entire Social Media Job Away](https://dev.to/maybe_ai/this-is-how-you-automate-your-entire-social-media-job-away-5p1)
+- [OpenAI and Oracle Sign Historic $300 Billion Computing Deal: What This Means for Developers](https://dev.to/shiva_shanker_k/openai-and-oracle-sign-historic-300-billion-computing-deal-what-this-means-for-developers-5fn5)
+- [AI Fitness Coach: Real-time Exercise Form Analysis using Google AI Studio](https://dev.to/shaikhhas/ai-fitness-coach-real-time-exercise-form-analysis-using-google-ai-studio-14i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
