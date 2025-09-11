@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 30-Second Problem That Took Me 3 Weeks to Solve](https://dev.to/thatonearab/the-30-second-problem-that-took-me-3-weeks-to-solve-1odf)
-- [Productivity Hacks for Busy Creators](https://dev.to/whoozit_in_82812c2fd22a09/productivity-hacks-for-busy-creators-1g32)
-- [Why we built Planeo? AI Native Developer Testing Environments](https://dev.to/ssadasivuni/why-we-built-planeo-ai-native-developer-testing-environments-4oa)
-- [Why we built Planeo? AI Native Developer Testing Environments](https://dev.to/ssadasivuni/why-we-built-planeo-ai-native-developer-testing-environments-1ajc)
-- [LangChain&#39;s New Middleware: The Missing Piece for Production-Ready Agents?](https://dev.to/mayank_attri_573ef1404da4/langchains-new-middleware-the-missing-piece-for-production-ready-agents-1dda)
+- [Building an AI Store Generator with Tambo](https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l)
+- [LaunchFast QA Service](https://dev.to/ajayverma24/launchfast-qa-service-51f9)
+- [Criando um malware em Rust 🦀](https://dev.to/otavio_onoue/criando-um-malware-em-rust-10go)
+- [Micro-Business Digital Assistant — Track Sales &amp; Expenses with AI](https://dev.to/ihossen016/micro-business-digital-assistant-track-sales-expenses-with-ai-86j)
+- [Using IP2Location Dart in console project](https://dev.to/ip2location/using-ip2location-dart-in-console-project-f0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
