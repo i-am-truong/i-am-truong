@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Functions — A Simple Walkthrough](https://dev.to/lovestaco/understanding-javascript-functions-a-simple-walkthrough-13ji)
-- [🧃 Juice Oracle: The AI That Judges Your Soul Through Your Beverages](https://dev.to/jcloud/juice-oracle-the-ai-that-judges-your-soul-through-your-beverages-3k6l)
-- [This is just a test](https://dev.to/ben/this-is-just-a-test-1b12)
-- [KEXP: Sea Lemon - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-full-performance-live-on-kexp-320g)
-- [IGN: Borderlands 4 – 9 Things You NEED To Do First](https://dev.to/gg_news/ign-borderlands-4-9-things-you-need-to-do-first-j0f)
+- [Links instead of repetition](https://dev.to/mcadariu/links-instead-of-repetition-4pc7)
+- [🔥 HTML Refresher Series – Part 1: Getting Started with HTML](https://dev.to/sharadaade/html-refresher-series-part-1-getting-started-with-html-a9b)
+- [Check out the latest article on visualization in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-the-latest-article-on-visualization-in-r-3bni)
+- [Bejeweled](https://dev.to/mrpunkdasilva/bejeweled-nf4)
+- [&quot;ImageStudioLab: AI-Powered Photo Generation in Seconds with Gemini 2.5 Flash&quot;](https://dev.to/habib7442/imagestudiolab-ai-powered-photo-generation-in-seconds-with-gemini-25-flash-3jeg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
