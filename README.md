@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The DOM &amp; Accessibility Tree explained with Pokémon](https://dev.to/laura-wissiak/the-dom-accessibility-tree-explained-with-pokemon-48dp)
+- [1/7 scale figurine PVC material](https://dev.to/sani_nishadnishad_8e7c5e/17-scale-figurine-pvc-material-9h8)
 - [Semantic Search on Easy Mode](https://dev.to/mongodb/semantic-search-on-easy-mode-289n)
 - [✨ Mind Weaver](https://dev.to/saikat_kumarsardar_fe46d/mind-weaver-176f)
 - [Architecting a Generative AI Pipeline for Automated Sprite Sheet Creation for Animation](https://dev.to/firevibe/architecting-a-generative-ai-pipeline-for-automated-sprite-sheet-creation-3877)
-- [4 Beautiful Article Components for Your Next Blog - TailwindCSS, React &amp; Vue Ready](https://dev.to/saim_t8/4-beautiful-article-components-for-your-next-blog-tailwindcss-react-vue-ready-4m38)
-- [Building Scalable Web Application](https://dev.to/aialvi/building-scalable-web-application-4dk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
