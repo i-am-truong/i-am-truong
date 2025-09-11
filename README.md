@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FieldCraft](https://dev.to/nadinev/fieldcraft-1e65)
+- [Building Interactive Dashboards with Streamlit, Dash, and Bokeh: From Code to Cloud](https://dev.to/cesar_nikolascamacmelen/building-interactive-dashboards-with-streamlit-dash-and-bokeh-from-code-to-cloud-5hdb)
+- [Got frustrated with the docs, so I made a Playwright Cheatsheet](https://dev.to/shiling/got-frustrated-with-the-docs-so-i-made-a-playwright-cheatsheet-1aaf)
+- [Creating a market-viable app in less than Week](https://dev.to/brian_mk/creating-a-market-viable-app-in-less-than-week-gc7)
 - [Building AI-Powered Airline Revenue Management Systems with KaibanJS: A Developer&#39;s Guide](https://dev.to/kaibanjs/building-ai-powered-revenue-management-systems-with-kaibanjs-a-developers-guide-1el4)
-- [Forging Data Symphonies: The Art of the ETL Pipeline in Rails](https://dev.to/alex_aslam/forging-data-symphonies-the-art-of-the-etl-pipeline-in-rails-5bno)
-- [Filtering and Searching Transactions](https://dev.to/hermitcommitscode/filtering-and-searching-transactions-2eaf)
-- [🔌 Native Channels in Flutter — A Complete Guide](https://dev.to/omar_elsadany_f3e48cab5b9/native-channels-in-flutter-a-complete-guide-52h1)
-- [Django Finance App: Summaries &amp; Analytics &lpar;Income, Expenses, Balance&rpar;](https://dev.to/hermitcommitscode/django-finance-app-summaries-analytics-income-expenses-balance-2jcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
