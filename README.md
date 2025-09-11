@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡HabitForge AI – Where Resolutions Become Realities You Can See 👀](https://dev.to/divyasinghdev/habitforge-ai-where-resolutions-become-realities-you-can-see-4e8d)
-- [Stop Writing Walls of Text: Build Video Newsletters with AI](https://dev.to/walker876/stop-writing-walls-of-text-build-video-newsletters-with-ai-311m)
-- [How I Log ESPHome Device Data to CSV with Python &lpar;and Why You Should Too&rpar;](https://dev.to/devasservice/how-i-log-esphome-device-data-to-csv-with-python-and-why-you-should-too-467p)
-- [The Developer’s Learning Journey: When Study Methods Evolve Over Time](https://dev.to/saribeg/the-developers-learning-journey-when-study-methods-evolve-over-time-55i5)
-- [Boost Your Productivity: A Sleep Debt Calculator for Devs](https://dev.to/chiragx309/boost-your-productivity-a-sleep-debt-calculator-for-devs-1dg6)
+- [Technique Avancée d&#39;OpenRewrite : Utiliser les messages pour implémenter des logiques complexes](https://dev.to/onepoint/technique-avancee-dopenrewrite-utiliser-les-messages-pour-implementer-des-logiques-complexes-55ed)
+- [Nx, Turborepo, Lerna… Which Monorepo Tool Wins for New Projects?](https://dev.to/marek_kregiel_d6361c8268f/nx-turborepo-lerna-which-monorepo-tool-wins-for-new-projects-2efn)
+- [One line of code caused the SeaTunnel Kafka connector to eat 12GB of memory in 5 mins!](https://dev.to/seatunnel/one-line-of-code-caused-the-seatunnel-kafka-connector-to-eat-12gb-of-memory-in-5-mins-j5f)
+- [SQL LIKE Operator: What It Is, How It Works, and Best Practices](https://dev.to/dbvismarketing/sql-like-operator-what-it-is-how-it-works-and-best-practices-261p)
+- [11 Highest Paying Remote Coding Jobs in 2025 &lpar;Up to $367K&rpar;](https://dev.to/metana/11-highest-paying-remote-coding-jobs-in-2025-up-to-367k-5295)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
