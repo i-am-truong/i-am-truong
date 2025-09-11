@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RISE with SAP: The Future of Business Transformation as a Service](https://dev.to/aditya_c90047909cf234c949/rise-with-sap-the-future-of-business-transformation-as-a-service-3gfl)
-- [JavaScript Array Methods: A Complete Guide &lpar;Old vs New Syntax with Examples in 2025&rpar;](https://dev.to/parthraval9/javascript-array-methods-a-complete-guide-old-vs-new-syntax-with-examples-in-2025-45ak)
-- [From 260 Lines to 5: How We Built a Zero-Maintenance LLM Integration SDK](https://dev.to/dbatson/from-260-lines-to-5-how-we-built-a-zero-maintenance-llm-integration-sdk-5e43)
-- [How I Finally Got g++ Working on Windows &lpar;And You Can Too!&rpar;](https://dev.to/pratikpathak/how-i-finally-got-g-working-on-windows-and-you-can-too-4fkf)
-- [Multithreading: Interview Questions and Practice Problems](https://dev.to/imsushant12/multithreading-interview-questions-and-practice-problems-48i9)
+- [How do you keep async communication clear without making everyone write essays?](https://dev.to/clariti_22_6e89b280ccd102/how-do-you-keep-async-communication-clear-without-making-everyone-write-essays-3ack)
+- [Text Base64 Encoder – Encode Your Text Online Effortlessly](https://dev.to/frontendtoolstech/text-base64-encoder-encode-your-text-online-effortlessly-11ce)
+- [#DAY 5: Configuring the Data Pipeline](https://dev.to/samueladeduntan/day-5-configuring-the-data-pipeline-b1j)
+- [Compile-Time vs Runtime Safety in React &lpar;TSX&rpar;: The Power of never in TypeScript](https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k)
+- [Ng-News 25/36: Q&amp;A with Angular Team, Mutations in ngrx-toolkit](https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
