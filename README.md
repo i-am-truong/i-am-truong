@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hey devs, checkout my new article on hosting your own n8n server for free, this can save you a lot of $$$. Try it out. 🙂](https://dev.to/singhamandeep007/hey-devs-checkout-my-new-article-on-hosting-your-own-n8n-server-for-free-this-can-save-you-a-lot-38d1)
-- [Blockchain Demystified: 7 Game-Changing Insights for 2024](https://dev.to/testlolrandomsilson/blockchain-demystified-7-game-changing-insights-for-2024-mm5)
-- [My 18-Month Journey Building a SaaS App](https://dev.to/adrian_crismaruc/my-18-month-journey-building-a-saas-app-2njf)
-- [The Staging Bottleneck and How to Fix It](https://dev.to/signadot/the-staging-bottleneck-and-how-to-fix-it-4nkk)
-- [Introduction to the FungibleToken contract on Midnight](https://dev.to/devsofmidnight/introduction-to-the-fungibletoken-contract-on-midnight-20ai)
+- [Hey devs, checkout my article on building a production ready react + vite application using an awesome boilerplate. 🚀](https://dev.to/singhamandeep007/hey-devs-checkout-my-article-on-building-a-production-ready-react-vite-application-using-an-2n6k)
+- [Day 10–11 DOM Manipulation interview prep pack](https://dev.to/swetha_palani_1547914a082/day-10-11-dom-manipulation-interview-prep-pack-2cmi)
+- [🚀 Veille tech semaine 37](https://dev.to/matyo91/veille-tech-semaine-37-5871)
+- [Stripe &amp; Paradigm Launch Tempo, MATIC to POL Migration at 99%, ERC-8019 and ERC-7806](https://dev.to/etherspot/stripe-paradigm-launch-tempo-matic-to-pol-migration-at-99-erc-8019-and-erc-7806-3f3k)
+- [Easily Remove Zero-Width Spaces and Other AI Invisible Characters with This Tool](https://dev.to/proflead/easily-remove-zero-width-spaces-and-other-ai-invisible-characters-with-this-tool-4jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
