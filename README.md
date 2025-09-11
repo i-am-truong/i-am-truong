@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Common Performance Pitfalls in Mobile Apps &lpar;And How to Fix Them&rpar;](https://dev.to/data_fortune_64fa15d5eff3/5-common-performance-pitfalls-in-mobile-apps-and-how-to-fix-them-417h)
+- [Master MERN Stack Development with CoderCrafter: Building a User Authentication System](https://dev.to/himanshu_anand_b6a7606f82/master-mern-stack-development-with-codercrafter-building-a-user-authentication-system-3873)
 - [Resolving Amazon RDS Performance Bottlenecks: A Real-World Cloud Engineer’s Journey to Optimized Database Efficiency](https://dev.to/sameerimtiaz/resolving-amazon-rds-performance-bottlenecks-a-real-world-cloud-engineers-journey-to-optimized-5bl1)
 - [10 Kafka Mistakes Python Developers Make &lpar;and How to Avoid Them Like a Pro&rpar;](https://dev.to/m-a-h-b-u-b/10-kafka-mistakes-python-developers-make-and-how-to-avoid-them-like-a-pro-55cl)
 - [Python Programming Course: The Ultimate Guide for Beginners in 2025](https://dev.to/kuchi_gayathri_fa856c8e40/python-programming-course-the-ultimate-guide-for-beginners-in-2025-383a)
-- [Check out this article on Frequency Tables for Categorical Variables in R — 2025 Edition](https://dev.to/dipti26810/check-out-this-article-on-frequency-tables-for-categorical-variables-in-r-2025-edition-410b)
-- [Frequency Tables for Categorical Variables in R — 2025 Edition](https://dev.to/dipti26810/frequency-tables-for-categorical-variables-in-r-2025-edition-5ajo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
