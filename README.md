@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Portfolio while you Chat: My TamboHack Project](https://dev.to/fudailzafar/building-a-portfolio-while-you-chat-my-tambohack-project-14m3)
-- [Redis Hands-On: Master Hashes, Persistence, Lua, &amp; HyperLogLog with 5 Practical Labs](https://dev.to/labex/redis-hands-on-master-hashes-persistence-lua-hyperloglog-with-5-practical-labs-47li)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production](https://dev.to/dgaro/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-513m)
-- [Cracking the Code: A Senior&#39;s Guide to Advanced JavaScript Interviews](https://dev.to/jackm_345442a09fb53b/cracking-the-code-a-seniors-guide-to-advanced-javascript-interviews-2mc9)
-- [Day 3 of My Quantum Computing Journey: When Physics Meets Computing Reality](https://dev.to/keshabkjha/day-3-of-my-quantum-computing-journey-when-physics-meets-computing-reality-13mn)
+- [this and super interview-type questions](https://dev.to/kiran_raj_2004/this-and-super-interview-type-questions-12co)
+- [AEC Compliance Image Fixer](https://dev.to/beardedbe4n/aec-compliance-image-fixer-41c3)
+- [Semantic Search UI with Tambo](https://dev.to/lahfir_ac22d8714d76cfd31e/semantic-search-ui-with-tambo-3dd1)
+- [Why Continuous AI Matters for Developers and Teams](https://dev.to/babblebey/why-continuous-ai-matters-for-developers-and-teams-1h6b)
+- [Fuzz and Invariant Testing: A Security Researcher&#39;s Guide to Uncovering Hidden Vulnerabilities](https://dev.to/ajtech0001/fuzz-and-invariant-testing-a-security-researchers-guide-to-uncovering-hidden-vulnerabilities-5d69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
