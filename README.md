@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a High-Frequency Crypto Trading Bot with DeFiML AlphaPulse](https://dev.to/hussenatou_diallo_39fa801/building-a-high-frequency-crypto-trading-bot-with-defiml-alphapulse-g0b)
 - [title: &quot;Top 5 Free Tools Every Developer Should Know in 2025&quot; published: true tags: [developers, tools, productivity, free]](https://dev.to/lily32111/title-top-5-free-tools-every-developer-should-know-in-2025-published-true-tags-developers-51lh)
 - [Day 48 : Amazon ECS](https://dev.to/udoh_deborah_b1e484c474bf/day-48-amazon-ecs-gbe)
 - [Building a Django Financial Tracker: Planning, Goals, and Kickoff](https://dev.to/hermitcommitscode/building-a-django-financial-tracker-planning-goals-and-kickoff-241e)
 - [Get to know me :&rpar;](https://dev.to/codingsayed/get-to-know-me-m29)
-- [The Plough Audit: Before you upgrade the farm, you must first inspect the plough.](https://dev.to/black-ib/the-plough-audit-before-you-upgrade-the-farm-you-must-first-inspect-the-plough-3964)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
