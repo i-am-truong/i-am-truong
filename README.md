@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Eskema: Composable, Ergonomic Runtime Data Validation for Dart Done Right!!](https://dev.to/nombrekeff/eskema-composable-ergonomic-runtime-data-validation-for-dart-done-right-2ice)
-- [Vulnerability Assessment: Safeguarding Your Business Against Cyber Threats with CyberNX](https://dev.to/cybernx_technologies_b5ef/vulnerability-assessment-safeguarding-your-business-against-cyber-threats-with-cybernx-2kd7)
-- [Open-source app for booking meeting rooms](https://dev.to/matthewavgul/open-source-app-for-booking-meeting-rooms-2ga9)
-- [Custom OpenTelemetry Collectors: Build, Run, and Manage at Scale](https://dev.to/adnanrahic/custom-opentelemetry-collectors-build-run-and-manage-at-scale-464d)
-- [Demystifying Android Context: The Gateway Between Your App and the System](https://dev.to/elamem/demystifying-android-context-the-gateway-between-your-app-and-the-system-bf8)
+- [🚀 Day 33 of My Data Analytics Journey !](https://dev.to/ramyacse/day-33-of-my-data-analytics-journey--369d)
+- [LearnSphere: Transforming Every Syllabus into a Personalized Learning Journey 📚🚀✨](https://dev.to/divyasinghdev/learnsphere-transforming-every-syllabus-into-a-personalized-learning-journey-4ghp)
+- [🕷️ How I Built My First Open Source Project: Spider.css &lpar;and What I Learned&rpar;](https://dev.to/pjdeveloper896/how-i-built-my-first-open-source-project-spidercss-and-what-i-learned-1hc3)
+- [Inside the Hacker’s Playbook &lpar;Part 2&rpar;: The Advanced Stuff Nobody Talks About](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-part-2-the-advanced-stuff-nobody-talks-about-d1l)
+- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-2j9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
