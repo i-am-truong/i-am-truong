@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Honeypot SOC with Microsoft Sentinel](https://dev.to/quincy_ouko/deploying-a-honeypot-soc-with-microsoft-sentinel-1l22)
+- [🎨 Specifishity — CSS Specificity Made Simple 🐟](https://dev.to/ml318097/specifishity-css-specificity-made-simple-inf)
+- [Starlark-Powered Pipelines in Woodpecker CI](https://dev.to/jankaritech/starlark-powered-pipelines-in-woodpecker-ci-3ogf)
 - [Dev tools: Debug WebSocket Connections Fast](https://dev.to/hreuven/dev-tools-debug-websocket-connections-fast-5393)
 - [Are there privacy tools that help my ads work better by collecting correct customer permission?](https://dev.to/mehwish_malik_4f29ff7fb04/are-there-privacy-tools-that-help-my-ads-work-better-by-collecting-correct-customer-permission-5gi6)
-- [AG-UI + LangGraph Streaming: Technical Implementation Guide](https://dev.to/ajay_gupta_60a0393643f3e9/ag-ui-langgraph-streaming-technical-implementation-guide-kbl)
-- [Modern SEO for AI Search Engines - How to Show Up in ChatGPT, Perplexity, and Gemini Search Results?](https://dev.to/bio-ai-software-engineer/modern-seo-for-ai-search-engines-how-to-show-up-in-chatgpt-perplexity-and-gemini-search-2ii9)
-- [Start with Vercel, Scale to VPS: The Smart Developer&#39;s Path](https://dev.to/sst21/start-with-vercel-scale-to-vps-the-smart-developers-path-245l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
