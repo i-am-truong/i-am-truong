@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How do you keep async communication clear without making everyone write essays?](https://dev.to/clariti_22_6e89b280ccd102/how-do-you-keep-async-communication-clear-without-making-everyone-write-essays-3ack)
-- [Text Base64 Encoder – Encode Your Text Online Effortlessly](https://dev.to/frontendtoolstech/text-base64-encoder-encode-your-text-online-effortlessly-11ce)
-- [#DAY 5: Configuring the Data Pipeline](https://dev.to/samueladeduntan/day-5-configuring-the-data-pipeline-b1j)
-- [Compile-Time vs Runtime Safety in React &lpar;TSX&rpar;: The Power of never in TypeScript](https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k)
-- [Ng-News 25/36: Q&amp;A with Angular Team, Mutations in ngrx-toolkit](https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c)
+- [Is Playwright&#39;s sharding slowing you down? Meet &quot;Pawdist&quot;](https://dev.to/muhendiskedibey/is-playwrights-sharding-slowing-you-down-meet-pawdist-iap)
+- [😮The #1 Mistake Beginners Make &lpar;It’s Not What You Think&rpar;](https://dev.to/ilsa_shaikh_089e2bfab0bf4/the-1-mistake-beginners-make-its-not-what-you-think-54a2)
+- [The top N customers who accounted for half of the sales that year--SPL Programming Practice](https://dev.to/esproc_spl/the-top-n-customers-who-accounted-for-half-of-the-sales-that-year-spl-programming-practice-1ahm)
+- [SBC Hardware Architecture: What Developers Need to Know](https://dev.to/dora_001/sbc-hardware-architecture-what-developers-need-to-know-33mj)
+- [React Server Components: They&#39;re Not What You Think &lpar;And They Change Everything&rpar;](https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-server-components-theyre-not-what-you-think-and-they-change-everything-55fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
