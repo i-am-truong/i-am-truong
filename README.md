@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hey devs, checkout my article on building a production ready react + vite application using an awesome boilerplate. 🚀](https://dev.to/singhamandeep007/hey-devs-checkout-my-article-on-building-a-production-ready-react-vite-application-using-an-2n6k)
-- [Day 10–11 DOM Manipulation interview prep pack](https://dev.to/swetha_palani_1547914a082/day-10-11-dom-manipulation-interview-prep-pack-2cmi)
-- [🚀 Veille tech semaine 37](https://dev.to/matyo91/veille-tech-semaine-37-5871)
-- [Stripe &amp; Paradigm Launch Tempo, MATIC to POL Migration at 99%, ERC-8019 and ERC-7806](https://dev.to/etherspot/stripe-paradigm-launch-tempo-matic-to-pol-migration-at-99-erc-8019-and-erc-7806-3f3k)
-- [Easily Remove Zero-Width Spaces and Other AI Invisible Characters with This Tool](https://dev.to/proflead/easily-remove-zero-width-spaces-and-other-ai-invisible-characters-with-this-tool-4jf)
+- [Ship real‑time alerts without WebSocket&#39;s: Web Push for enterprise constraints 🔔](https://dev.to/ayushsrtv/ship-real-time-alerts-without-websockets-web-push-for-enterprise-constraints-nbe)
+- [Spring AI with Amazon Bedrock - Part 4 Exploring Model Context Protocol Streamable HTTP transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-4-exploring-model-context-protocol-streamable-http-transport-2o5h)
+- [📦 How JavaScript Imports Really Work &lpar;and Why It Matters for Scalable Code&rpar;](https://dev.to/anik_sikder_313/how-javascript-imports-really-work-and-why-it-matters-for-scalable-code-3fpm)
+- [How I Built a Storytelling App That Turns Drawings into Tales with Gemini 2.5 Flash](https://dev.to/chilupa/how-i-built-a-storytelling-app-that-turns-drawings-into-tales-with-gemini-25-flash-298e)
+- [Mastering CRUD with Spring Boot and MongoDB: A Step-by-Step Guide](https://dev.to/altairlage/mastering-crud-with-spring-boot-and-mongodb-a-step-by-step-guide-36ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
