@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Fix the Missing Texture Error in Blender &lpar;2025 Guide&rpar;?](https://dev.to/irender_gpu_cloud/how-do-you-fix-the-missing-texture-error-in-blender-2025-guide-1100)
+- [A Complete Picture to Make Laravel Blade Files Alive](https://dev.to/raheelshan/a-complete-picture-to-make-laravel-blade-files-alive-4go3)
+- [Why I built Servy – a modern open-source alternative to NSSM/WinSW](https://dev.to/aelassas/why-i-built-servy-a-modern-open-source-alternative-to-nssmwinsw-kbm)
+- [PromptLock: When AI Meets Ransomware](https://dev.to/aka_artem_dd17be93c/promptlock-when-ai-meets-ransomware-1h6f)
 - [Open Source Call for Contributors – RAFT-WAL](https://dev.to/harshithsaiv/open-source-call-for-contributors-raft-wal-4nl9)
-- [RAG Chatbot with Python&lpar;Environment Setup&rpar;](https://dev.to/mintycyber/rag-chatbot-with-pythonenvironment-setup-4n3d)
-- [The Hidden World of the DOM &amp; Virtual DOM Explained Simply](https://dev.to/asim786521/the-hidden-world-of-the-dom-virtual-dom-explained-simply-12a3)
-- [Transform Your DevOps Workflow with MCP Azure DevOps Integration](https://dev.to/mikaelkrief2/transform-your-devops-workflow-with-mcp-azure-devops-integration-388h)
-- [GDPR Compliance: Building Websites That Comply with European Data Protection Laws](https://dev.to/okoye_ndidiamaka_5e3b7d30/gdpr-compliance-building-websites-that-comply-with-european-data-protection-laws-21n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
