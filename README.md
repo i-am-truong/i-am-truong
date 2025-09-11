@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From 260 Lines to 5: How We Built a Zero-Maintenance LLM Integration SDK](https://dev.to/dbatson/from-260-lines-to-5-how-we-built-a-zero-maintenance-llm-integration-sdk-5e43)
+- [How I Finally Got g++ Working on Windows &lpar;And You Can Too!&rpar;](https://dev.to/pratikpathak/how-i-finally-got-g-working-on-windows-and-you-can-too-4fkf)
+- [Multithreading: Interview Questions and Practice Problems](https://dev.to/imsushant12/multithreading-interview-questions-and-practice-problems-48i9)
 - [🔥Mapify: Turn Any Content into Mind Maps with AI](https://dev.to/dev_kiran/mapify-turn-any-content-into-mind-maps-with-ai-4jhc)
 - [rails_code_auditor: A New Ruby Gem for Easy Rails Code Audits](https://dev.to/railsfactory_sedin/railscodeauditor-a-new-ruby-gem-for-easy-rails-code-audits-2n6l)
-- [Building an AI Store Generator with Tambo](https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l)
-- [LaunchFast QA Service](https://dev.to/ajayverma24/launchfast-qa-service-51f9)
-- [Criando um malware em Rust 🦀](https://dev.to/otavio_onoue/criando-um-malware-em-rust-10go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
