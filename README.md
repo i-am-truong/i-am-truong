@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔥Mapify: Turn Any Content into Mind Maps with AI](https://dev.to/dev_kiran/mapify-turn-any-content-into-mind-maps-with-ai-4jhc)
+- [rails_code_auditor: A New Ruby Gem for Easy Rails Code Audits](https://dev.to/railsfactory_sedin/railscodeauditor-a-new-ruby-gem-for-easy-rails-code-audits-2n6l)
 - [Building an AI Store Generator with Tambo](https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l)
 - [LaunchFast QA Service](https://dev.to/ajayverma24/launchfast-qa-service-51f9)
 - [Criando um malware em Rust 🦀](https://dev.to/otavio_onoue/criando-um-malware-em-rust-10go)
-- [Micro-Business Digital Assistant — Track Sales &amp; Expenses with AI](https://dev.to/ihossen016/micro-business-digital-assistant-track-sales-expenses-with-ai-86j)
-- [Using IP2Location Dart in console project](https://dev.to/ip2location/using-ip2location-dart-in-console-project-f0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
