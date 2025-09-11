@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shipaton: Do0ne Build Journal #3 - Do0ne 1.0, First Stable Version Completed](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-3-do0ne-10-first-stable-version-completed-11bh)
-- [Technique Avancée d&#39;OpenRewrite : Utiliser les messages pour implémenter des logiques complexes](https://dev.to/onepoint/technique-avancee-dopenrewrite-utiliser-les-messages-pour-implementer-des-logiques-complexes-55ed)
-- [Nx, Turborepo, Lerna… Which Monorepo Tool Wins for New Projects?](https://dev.to/marek_kregiel_d6361c8268f/nx-turborepo-lerna-which-monorepo-tool-wins-for-new-projects-2efn)
-- [One line of code caused the SeaTunnel Kafka connector to eat 12GB of memory in 5 mins!](https://dev.to/seatunnel/one-line-of-code-caused-the-seatunnel-kafka-connector-to-eat-12gb-of-memory-in-5-mins-j5f)
-- [SQL LIKE Operator: What It Is, How It Works, and Best Practices](https://dev.to/dbvismarketing/sql-like-operator-what-it-is-how-it-works-and-best-practices-261p)
+- [Transform Your DevOps Workflow with MCP Azure DevOps Integration](https://dev.to/mikaelkrief2/transform-your-devops-workflow-with-mcp-azure-devops-integration-388h)
+- [Understanding React.js, JavaScript and JSX](https://dev.to/dev_anantharul_1746a25af/understanding-reactjs-javascript-and-jsx-3ec6)
+- [Getting Started with Clustering Algorithms in Machine Learning](https://dev.to/bharathprasad/getting-started-with-clustering-algorithms-in-machine-learning-2615)
+- [W.TEC’S EARLY INNOVATORS CAMP: Where Creativity Meets Technology](https://dev.to/damola12345/wtecs-early-innovators-camp-where-creativity-meets-technology-4na5)
+- [How to Write Effective Release Notes: Best Practices](https://dev.to/writegenic/how-to-write-effective-release-notes-best-practices-4me6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
