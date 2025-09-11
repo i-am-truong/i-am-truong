@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/revis047/-17am)
-- [How a Birthday Cake Accidentally Taught Me DOM 🎂](https://dev.to/lokesh_keswani/how-a-birthday-cake-accidentally-taught-me-dom-g40)
-- [Don’t Trust, Just Verify: Auth, Faults, and Monitoring](https://dev.to/sibasishm/dont-trust-just-verify-auth-faults-and-monitoring-43od)
-- [Taking advantage of CQRS in legacy applications](https://dev.to/xoubaman/taking-advantage-of-cqrs-in-legacy-applications-4k76)
-- [[Boost]](https://dev.to/phuongnamcode/-1kni)
+- [Key Metrics in Performance Testing: How to Measure Success](https://dev.to/kristinekristn89/key-metrics-in-performance-testing-how-to-measure-success-243d)
+- [Check out this article on Twitter Sentiment Analysis Using R — 2025 Edition](https://dev.to/vamshi_e_eebe5a6287a27142/check-out-this-article-on-twitter-sentiment-analysis-using-r-2025-edition-472)
+- [Exploring Angular Signal Forms &lpar;v.21&rpar;](https://dev.to/fabiobiondi/exploring-angular-signal-forms-v21-ka5)
+- [Twitter Sentiment Analysis Using R — 2025 Edition](https://dev.to/vamshi_e_eebe5a6287a27142/twitter-sentiment-analysis-using-r-2025-edition-58l)
+- [The smartest devs i know obsess over a skill most engineers ignore](https://dev.to/dev_tips/the-smartest-devs-i-know-obsess-over-a-skill-most-engineers-ignore-2oo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
