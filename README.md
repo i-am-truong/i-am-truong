@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I stumbled across an AI Interview Answers Generator tool that creates sample answers for common interview questions. It uses frameworks like STAR and tailors responses to your job description. Sounds promising, but I’m wondering if it comes off](https://dev.to/jeenifer_beezer/i-stumbled-across-an-ai-interview-answers-generator-tool-that-creates-sample-answers-for-common-bph)
-- [Quieres Ser Mi Novia?](https://dev.to/martnez_gonzlezdavida/quieres-ser-mi-novia-4foh)
-- [TubeForge - From Video to Knowledge: AI-Powered Notes, Blogs, and Quizzes Instantly](https://dev.to/sanarahman/tubeforge-from-video-to-knowledge-ai-powered-notes-blogs-and-quizzes-instantly-4bmc)
-- [First Impressions with Amazon Bedrock AgentCore](https://dev.to/aws/first-impressions-with-amazon-bedrock-agentcore-5dje)
-- [I Built a Banking System That Talks COBOL… and My Boss Didn&#39;t Notice](https://dev.to/obinexus/i-built-a-banking-system-that-talks-cobol-and-my-boss-didnt-notice-4gm3)
+- [SVG Spritesheet builder using document fragments](https://dev.to/mardeg/svg-spritesheet-builder-using-document-fragments-5h5p)
+- [CallBack,CallBack Hell](https://dev.to/kavya_s/callbackcallback-hell-10cd)
+- [Spaces in FinderBee: Organized, Secure AI Service Management](https://dev.to/babluritheesh/spaces-in-finderbee-organized-secure-ai-service-management-21jf)
+- [How to Properly Configure robots.txt and Why It Matters for SEO](https://dev.to/ivanjarkov/how-to-properly-configure-robotstxt-and-why-it-matters-for-seo-4mmb)
+- [Build a Fullstack Modern System with Amazon Kiro](https://dev.to/angelomao/build-a-fullstack-modern-system-with-amazon-kiro-1f3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
