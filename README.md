@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Frequency Tables for Categorical Variables in R — 2025 Edition](https://dev.to/dipti26810/frequency-tables-for-categorical-variables-in-r-2025-edition-5ajo)
+- [🧠 Sleep Your Way to Mental Wellness: A Developer’s Guide](https://dev.to/nvelup_e92618d5196e8d9f43/sleep-your-way-to-mental-wellness-a-developers-guide-ljc)
 - [Why Microsoft Keeps Cutting Jobs Even as Profits Soar: The AI Paradox Every Developer Should Understand](https://dev.to/shiva_shanker_k/why-microsoft-keeps-cutting-jobs-even-as-profits-soar-the-ai-paradox-every-developer-should-4k9e)
 - [How Clean Code Naming Conventions Reduce Bugs &lpar;and Save Engineering Hours&rpar;](https://dev.to/betterhq/how-clean-code-naming-conventions-reduce-bugs-and-save-engineering-hours-6c6)
 - [This Is How You Automate Your Entire Social Media Job Away](https://dev.to/maybe_ai/this-is-how-you-automate-your-entire-social-media-job-away-5p1)
-- [OpenAI and Oracle Sign Historic $300 Billion Computing Deal: What This Means for Developers](https://dev.to/shiva_shanker_k/openai-and-oracle-sign-historic-300-billion-computing-deal-what-this-means-for-developers-5fn5)
-- [AI Fitness Coach: Real-time Exercise Form Analysis using Google AI Studio](https://dev.to/shaikhhas/ai-fitness-coach-real-time-exercise-form-analysis-using-google-ai-studio-14i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
