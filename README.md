@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Honeypot SOC with Microsoft Sentinel](https://dev.to/quincy_ouko/deploying-a-honeypot-soc-with-microsoft-sentinel-1l22)
-- [🎨 Specifishity — CSS Specificity Made Simple 🐟](https://dev.to/ml318097/specifishity-css-specificity-made-simple-inf)
-- [Starlark-Powered Pipelines in Woodpecker CI](https://dev.to/jankaritech/starlark-powered-pipelines-in-woodpecker-ci-3ogf)
-- [Dev tools: Debug WebSocket Connections Fast](https://dev.to/hreuven/dev-tools-debug-websocket-connections-fast-5393)
-- [Are there privacy tools that help my ads work better by collecting correct customer permission?](https://dev.to/mehwish_malik_4f29ff7fb04/are-there-privacy-tools-that-help-my-ads-work-better-by-collecting-correct-customer-permission-5gi6)
+- [These Days, Coding Feels Heavy](https://dev.to/zaid_ali_63962f037ad813c3/these-days-coding-feels-heavy-212l)
+- [Day 4 of “90 Days of Free Python Scripts”](https://dev.to/momina_raheelmoona_c59/day-4-of-90-days-of-free-python-scripts-6ak)
+- [Hiring Your First Employee on AWS — Create an IAM User, Policies &amp; Roles](https://dev.to/peter_samuel_052b9056e236/hiring-your-first-employee-on-aws-create-an-iam-user-policies-roles-1jfb)
+- [TL;DR — We’re Using AI to Write Code Because We’re Lazy, and Not Putting AI in Software Because That’s Hard](https://dev.to/hotfixhero/tldr-were-using-ai-to-write-code-because-were-lazy-and-not-putting-ai-in-software-because-4a9)
+- [[Boost]](https://dev.to/kathryngrayson/-3511)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
