@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Join this virtual open source hackathon... Open to participants worldwide 🌍](https://dev.to/giantconfidence/join-this-virtual-open-source-hackathon-open-to-participants-worldwide-4hl1)
-- [📸 Coverage Metrics: The Selfie of Software Quality](https://dev.to/abdulosman/coverage-metrics-the-selfie-of-software-quality-3h1i)
-- [Disposable Doesn&#39;t Have to Mean Disastrous: Smarter Design for &#39;Smart&#39; Packaging](https://dev.to/arvindsundararajan/disposable-doesnt-have-to-mean-disastrous-smarter-design-for-smart-packaging-2e8h)
-- [Opencode + Grok Code Fast 1: A Powerful Free Combo for Terminal-Based AI Coding](https://dev.to/einarcesar/opencode-grok-code-fast-1-a-powerful-free-combo-for-terminal-based-ai-coding-4hfa)
-- [Monitoring Laravel Livewire Components](https://dev.to/inspector/monitoring-livewire-components-2hfa)
+- [Semantic Search on Easy Mode](https://dev.to/mongodb/semantic-search-on-easy-mode-289n)
+- [✨ Mind Weaver](https://dev.to/saikat_kumarsardar_fe46d/mind-weaver-176f)
+- [Architecting a Generative AI Pipeline for Automated Sprite Sheet Creation for Animation](https://dev.to/firevibe/architecting-a-generative-ai-pipeline-for-automated-sprite-sheet-creation-3877)
+- [4 Beautiful Article Components for Your Next Blog - TailwindCSS, React &amp; Vue Ready](https://dev.to/saim_t8/4-beautiful-article-components-for-your-next-blog-tailwindcss-react-vue-ready-4m38)
+- [Building Scalable Web Application](https://dev.to/aialvi/building-scalable-web-application-4dk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
