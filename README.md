@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Poisoned Prompts: How Malicious Documentation Can Hijack Your AI Code](https://dev.to/arvindsundararajan/poisoned-prompts-how-malicious-documentation-can-hijack-your-ai-code-4bho)
-- [No Laying Up Podcast: Tommy Fleetwood | NLU Pod, Ep 1068](https://dev.to/youtube_golf/no-laying-up-podcast-tommy-fleetwood-nlu-pod-ep-1068-no9)
-- [GameSpot: Borderlands 4 Review](https://dev.to/gg_news/gamespot-borderlands-4-review-4paa)
-- [IGN: Knights of the Fall - Official Announcement Trailer](https://dev.to/gg_news/ign-knights-of-the-fall-official-announcement-trailer-5167)
-- [IGN: Garfield Kart 2: All You Can Drift - The First 11 Minutes of Gameplay](https://dev.to/gg_news/ign-garfield-kart-2-all-you-can-drift-the-first-11-minutes-of-gameplay-20mg)
+- [Congrats to the Winners of the Real-Time AI Agents Challenge powered by n8n and Bright Data!](https://dev.to/devteam/congrats-to-the-winners-of-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-104c)
+- [Mastering VPS For Frontend Engineer - Part 3](https://dev.to/joseph42a/mastering-vps-for-frontend-engineer-part-3-p83)
+- [4 Common Screens Developers Often Reuse in Flutter](https://dev.to/flutpluse/4-common-screens-developers-often-reuse-in-flutter-3h5o)
+- [Typography for Rails developers](https://dev.to/railsdesigner/typography-for-rails-developers-9m4)
+- [Automating AWS WAF IP Threat list with ProxyCheck.io](https://dev.to/husseinayoub/automating-aws-waf-ip-threat-list-with-proxycheckio-37bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
