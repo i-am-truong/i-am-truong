@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tauri vs. Electron](https://dev.to/raftlabs/tauri-vs-electron-23d1)
-- [O Descompasso entre Frontend e Backend: Por que suas Rotas Devem Ser RESTful](https://dev.to/vilaboim/o-descompasso-entre-frontend-e-backend-por-que-suas-rotas-devem-ser-restful-3i7f)
-- [Day 92: Authentication, Insomnia, and Life Decisions](https://dev.to/casperday11/day-92-authentication-insomnia-and-life-decisions-32go)
-- [Best AI Coding Tools for Rust Projects: IDEs vs Terminals](https://dev.to/shuttle/best-ai-coding-tools-for-rust-projects-ides-vs-terminals-3md2)
-- [Design Patterns by Purpose: The Command Pattern in Frontend Life &lpar;Part 4&rpar;](https://dev.to/sagi0312/design-patterns-by-purpose-the-command-pattern-in-frontend-life-part-4-2f35)
+- [Hey devs, checkout my new article on hosting your own n8n server for free, this can save you a lot of $$$. Try it out. 🙂](https://dev.to/singhamandeep007/hey-devs-checkout-my-new-article-on-hosting-your-own-n8n-server-for-free-this-can-save-you-a-lot-38d1)
+- [Blockchain Demystified: 7 Game-Changing Insights for 2024](https://dev.to/testlolrandomsilson/blockchain-demystified-7-game-changing-insights-for-2024-mm5)
+- [My 18-Month Journey Building a SaaS App](https://dev.to/adrian_crismaruc/my-18-month-journey-building-a-saas-app-2njf)
+- [The Staging Bottleneck and How to Fix It](https://dev.to/signadot/the-staging-bottleneck-and-how-to-fix-it-4nkk)
+- [Introduction to the FungibleToken contract on Midnight](https://dev.to/devsofmidnight/introduction-to-the-fungibletoken-contract-on-midnight-20ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
