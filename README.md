@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Conversations That Mattered: My Journey Mentoring a Senior into Leadership](https://dev.to/berlin-tech-blog/conversations-that-mattered-my-journey-mentoring-a-senior-into-leadership-2p4m)
-- [Types vs Interfaces in TypeScript: A Clear Guide for Developers](https://dev.to/rijultp/types-vs-interfaces-in-typescript-a-clear-guide-for-developers-13kf)
-- [Stop Writing SQL by Hand: Building My MVP to Chat With Databases](https://dev.to/arseniydev/stop-writing-sql-by-hand-building-my-mvp-to-chat-with-databases-3fhg)
-- [Job board Platform](https://dev.to/alain_kwishima/job-board-platform-28pc)
-- [I wrote a book, but I don’t know how to make it look professional. What should I do?](https://dev.to/celestia_noa_414a28b49eb3/i-wrote-a-book-but-i-dont-know-how-to-make-it-look-professional-what-should-i-do-4c50)
+- [Poisoned Prompts: How Malicious Documentation Can Hijack Your AI Code](https://dev.to/arvindsundararajan/poisoned-prompts-how-malicious-documentation-can-hijack-your-ai-code-4bho)
+- [No Laying Up Podcast: Tommy Fleetwood | NLU Pod, Ep 1068](https://dev.to/youtube_golf/no-laying-up-podcast-tommy-fleetwood-nlu-pod-ep-1068-no9)
+- [GameSpot: Borderlands 4 Review](https://dev.to/gg_news/gamespot-borderlands-4-review-4paa)
+- [IGN: Knights of the Fall - Official Announcement Trailer](https://dev.to/gg_news/ign-knights-of-the-fall-official-announcement-trailer-5167)
+- [IGN: Garfield Kart 2: All You Can Drift - The First 11 Minutes of Gameplay](https://dev.to/gg_news/ign-garfield-kart-2-all-you-can-drift-the-first-11-minutes-of-gameplay-20mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
