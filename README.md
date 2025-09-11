@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌿 I’m not an analyst. I just hear what the data is trying to say.](https://dev.to/medvedev013/im-not-an-analyst-i-just-hear-what-the-data-is-trying-to-say-2h6m)
+- [Understanding truthiness, falsiness, and the quiet meaning of emptiness in Python](https://dev.to/vivis_dev/understanding-truthiness-falsiness-and-the-quiet-meaning-of-emptiness-in-python-26il)
 - [How We Built AI That Prevents Cloud Incidents Before They Happen](https://dev.to/policycortex/how-we-built-ai-that-prevents-cloud-incidents-before-they-happen-1gka)
 - [🐍 I Write in Python Because It Knows How to Listen](https://dev.to/medvedev013/i-write-in-python-because-it-knows-how-to-listen-1ag)
 - [Top 5 Mistakes in Azure Data Factory &lpar;and How to Avoid Them&rpar;-by Phani Kota](https://dev.to/phani_kota/top-5-mistakes-in-azure-data-factory-and-how-to-avoid-them-e27)
-- [Introducing SnippetShot – A VS Code Extension for Clean Code Screenshots](https://dev.to/bridget_amana/introducing-snippetshot-a-vs-code-extension-for-clean-code-screenshots-8dm)
-- [A Small Tool to Understand How Spam Filtering Works](https://dev.to/leapcell/a-small-tool-to-understand-how-spam-filtering-works-3h0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
