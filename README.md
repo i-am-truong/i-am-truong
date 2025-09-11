@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TIL snippets/fastcgi-php.conf](https://dev.to/kubelet/til-snippetsfastcgi-phpconf-3blf)
-- [These Days, Coding Feels Heavy](https://dev.to/zaid_ali_63962f037ad813c3/these-days-coding-feels-heavy-212l)
-- [Day 4 of “90 Days of Free Python Scripts”](https://dev.to/momina_raheelmoona_c59/day-4-of-90-days-of-free-python-scripts-6ak)
-- [Hiring Your First Employee on AWS — Create an IAM User, Policies &amp; Roles](https://dev.to/peter_samuel_052b9056e236/hiring-your-first-employee-on-aws-create-an-iam-user-policies-roles-1jfb)
-- [TL;DR — We’re Using AI to Write Code Because We’re Lazy, and Not Putting AI in Software Because That’s Hard](https://dev.to/hotfixhero/tldr-were-using-ai-to-write-code-because-were-lazy-and-not-putting-ai-in-software-because-4a9)
+- [Quote other messages via Chat API, rollout of granular OAuth consent for Editor add ons, and more!](https://dev.to/googleworkspace/quote-other-messages-via-chat-api-rollout-of-granular-oauth-consent-for-editor-add-ons-and-more-583k)
+- [What&#39;s new in Java 25](https://dev.to/pvsdev/whats-new-in-java-25-emb)
+- [My Solution of VLAN Internet Access in College Network Setup](https://dev.to/hassamdev/my-solution-of-vlan-internet-access-in-college-network-setup-1dhb)
+- [Missing Rails Console? Building a Database REPL for NestJS + Prisma](https://dev.to/cgrothaus/missing-rails-console-building-a-database-repl-for-nestjs-prisma-4p0i)
+- [100 Days of DevOps: Day 39](https://dev.to/wycliffealphus/100-days-of-devops-day-39-l5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
