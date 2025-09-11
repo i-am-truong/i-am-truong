@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create an Oracle Autonomous Database@Google Cloud](https://dev.to/farisdurrani/how-to-create-an-oracle-autonomous-databasegoogle-cloud-380o)
 - [How to Build Sales Battlecards Your Reps Will Actually Use &lpar;and Win With&rpar;](https://dev.to/paultowers/how-to-build-sales-battlecards-your-reps-will-actually-use-and-win-with-573a)
+- [From Burnout to Breakthrough: Building Mirae with Modern Tools and Fresh Perspective](https://dev.to/reactsmith/from-burnout-to-breakthrough-building-mirae-with-modern-tools-and-fresh-perspective-1496)
 - [Congrats to the Winners of the Real-Time AI Agents Challenge powered by n8n and Bright Data!](https://dev.to/devteam/congrats-to-the-winners-of-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-104c)
 - [Mastering VPS For Frontend Engineer - Part 3](https://dev.to/joseph42a/mastering-vps-for-frontend-engineer-part-3-p83)
-- [4 Common Screens Developers Often Reuse in Flutter](https://dev.to/flutpluse/4-common-screens-developers-often-reuse-in-flutter-3h5o)
-- [Typography for Rails developers](https://dev.to/railsdesigner/typography-for-rails-developers-9m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
