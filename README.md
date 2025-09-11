@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Website Deployment on AWS Using Terraform](https://dev.to/victoria_obanegha_/automating-website-deployment-on-aws-using-terraform-1a0l)
-- [The Evolution of AI Memory: From Context Windows to True Long-Term Memory](https://dev.to/aun_aideveloper/the-evolution-of-ai-memory-from-context-windows-to-true-long-term-memory-4534)
-- [Ship real‑time alerts without WebSocket&#39;s: Web Push for enterprise constraints 🔔](https://dev.to/ayushsrtv/ship-real-time-alerts-without-websockets-web-push-for-enterprise-constraints-nbe)
-- [this and super&lpar;keyword in java&rpar;](https://dev.to/rajan_s_494d2a0d7bb0860ef/this-and-superkeyword-in-java-oe1)
-- [Spring AI with Amazon Bedrock - Part 4 Exploring Model Context Protocol Streamable HTTP transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-4-exploring-model-context-protocol-streamable-http-transport-2o5h)
+- [The Essential Tech Stack for Startups in India](https://dev.to/gov01/the-essential-tech-stack-for-startups-in-india-1mg3)
+- [How to Build a CI/CD Pipeline with AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/therealmrmumba/how-to-build-a-cicd-pipeline-with-aws-step-by-step-guide-1db5)
+- [Built with AI Studio: an AI Sidekick for small business owners](https://dev.to/eloiji/built-with-ai-studio-an-ai-sidekick-for-small-business-owners-5f1d)
+- [My First Web Design Client — and What It Taught Me About WordPress](https://dev.to/abdul_rehmandev/my-first-web-design-client-and-what-it-taught-me-about-wordpress-2glm)
+- [On AI Serivces, press Enter for a new line, Shift/Ctrl/Cmd + Enter to send the prompts!](https://dev.to/awesome-friday/on-ai-serivces-press-enter-for-a-new-line-shiftctrlcmd-enter-to-send-the-prompts-59nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
