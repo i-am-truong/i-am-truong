@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Abstracting and Start Programming](https://dev.to/dayvster/stop-abstracting-and-start-programming-obo)
-- [The Essential Tech Stack for Startups in India](https://dev.to/gov01/the-essential-tech-stack-for-startups-in-india-1mg3)
-- [Build a Discord support bot from scratch](https://dev.to/gabeb03/build-a-discord-support-bot-from-scratch-1hlm)
-- [How to Build a CI/CD Pipeline with AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/therealmrmumba/how-to-build-a-cicd-pipeline-with-aws-step-by-step-guide-1db5)
-- [Solopreneur Sidekick: an AI Partner for small business owners](https://dev.to/eloiji/built-with-ai-studio-an-ai-sidekick-for-small-business-owners-5f1d)
+- [Join this virtual open source hackathon... Open to participants worldwide 🌍](https://dev.to/giantconfidence/join-this-virtual-open-source-hackathon-open-to-participants-worldwide-4hl1)
+- [📸 Coverage Metrics: The Selfie of Software Quality](https://dev.to/abdulosman/coverage-metrics-the-selfie-of-software-quality-3h1i)
+- [Disposable Doesn&#39;t Have to Mean Disastrous: Smarter Design for &#39;Smart&#39; Packaging](https://dev.to/arvindsundararajan/disposable-doesnt-have-to-mean-disastrous-smarter-design-for-smart-packaging-2e8h)
+- [Opencode + Grok Code Fast 1: A Powerful Free Combo for Terminal-Based AI Coding](https://dev.to/einarcesar/opencode-grok-code-fast-1-a-powerful-free-combo-for-terminal-based-ai-coding-4hfa)
+- [Monitoring Laravel Livewire Components](https://dev.to/inspector/monitoring-livewire-components-2hfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
