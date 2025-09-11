@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What’s It Like to Be a Software Developer in 2025?](https://dev.to/pranta/whats-it-like-to-be-a-software-developer-in-2025-3i6a)
-- [AI Meets Academia: Building EduSpark with Google AI Studio](https://dev.to/pranathi_013/ai-meets-academia-building-eduspark-with-google-ai-studio-3bm6)
-- [Image Test Post with Visual Content](https://dev.to/ladyofcode/image-test-post-with-visual-content-50cj)
-- [Basic Test Post for Deletion Testing](https://dev.to/ladyofcode/basic-test-post-for-deletion-testing-55eo)
-- [AI Slide Generator](https://dev.to/aniruddhaadak/ai-slide-generator-39cf)
+- [🧃 Juice Oracle: The AI That Judges Your Soul Through Your Beverages](https://dev.to/jcloud/juice-oracle-the-ai-that-judges-your-soul-through-your-beverages-3k6l)
+- [This is just a test](https://dev.to/ben/this-is-just-a-test-1b12)
+- [KEXP: Sea Lemon - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-full-performance-live-on-kexp-320g)
+- [IGN: Borderlands 4 – 9 Things You NEED To Do First](https://dev.to/gg_news/ign-borderlands-4-9-things-you-need-to-do-first-j0f)
+- [IGN: Delta Force - Official ‘Fault’ Warfare Map Reveal Trailer](https://dev.to/gg_news/ign-delta-force-official-fault-warfare-map-reveal-trailer-3ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
