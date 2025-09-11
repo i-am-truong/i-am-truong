@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Fix the Missing Texture Error in Blender &lpar;2025 Guide&rpar;?](https://dev.to/irender_gpu_cloud/how-do-you-fix-the-missing-texture-error-in-blender-2025-guide-1100)
-- [A Complete Picture to Make Laravel Blade Files Alive](https://dev.to/raheelshan/a-complete-picture-to-make-laravel-blade-files-alive-4go3)
-- [Why I built Servy – a modern open-source alternative to NSSM/WinSW](https://dev.to/aelassas/why-i-built-servy-a-modern-open-source-alternative-to-nssmwinsw-kbm)
-- [PromptLock: When AI Meets Ransomware](https://dev.to/aka_artem_dd17be93c/promptlock-when-ai-meets-ransomware-1h6f)
-- [Open Source Call for Contributors – RAFT-WAL](https://dev.to/harshithsaiv/open-source-call-for-contributors-raft-wal-4nl9)
+- [[Boost]](https://dev.to/ospehlivano/-4p2f)
+- [Causal LLM or splitting LLM](https://dev.to/anonch/causal-llm-or-splitting-llm-3n2n)
+- [React Hook Form Summary: How to Easily Manage Forms Even for Beginners](https://dev.to/kazutora_hattori_66972c88/react-hook-form-summary-how-to-easily-manage-forms-even-for-beginners-m1)
+- [Get More Done with Better Contact Center Software](https://dev.to/deepijatelecom1/get-more-done-with-better-contact-center-software-985)
+- [Intro to Dev.to](https://dev.to/ddybsky/intro-to-devto-om2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
