@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Finance App: Summaries &amp; Analytics &lpar;Income, Expenses, Balance&rpar;](https://dev.to/hermitcommitscode/django-finance-app-summaries-analytics-income-expenses-balance-2jcc)
+- [The Silent Thief in Your Code: When AI Assistants Get Hacked](https://dev.to/arvindsundararajan/the-silent-thief-in-your-code-when-ai-assistants-get-hacked-f0j)
+- [Every Company&#39;s AI Chatbot is Already Obsolete. The Future is BYOAI](https://dev.to/chhuddleston/every-companys-ai-chatbot-is-already-obsolete-the-future-is-byoai-2jbn)
+- [How I Stay Focused and Energetic While Coding Long Hours](https://dev.to/ussamakhan1/how-i-stay-focused-and-energetic-while-coding-long-hours-4o8a)
 - [🥊 MMA Coach Assistant - AI-Powered Fight Analysis](https://dev.to/paulo_abbcba03b4df70572fc/mma-coach-assistant-ai-powered-fight-analysis-124j)
-- [GameSpot: Borderlands 4 | Things I Wish I Knew Before Playing](https://dev.to/gg_news/gamespot-borderlands-4-things-i-wish-i-knew-before-playing-1np8)
-- [IGN: Arena Breakout: Infinite - Official Full Release Update Overview Trailer](https://dev.to/gg_news/ign-arena-breakout-infinite-official-full-release-update-overview-trailer-3he7)
-- [IGN: Hollow Knight: Silksong Boss Fight - Fourth Chorus &lpar;Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-fourth-chorus-far-fields-m1k)
-- [IGN: Dying Light: The Beast - Official Part 3: Monsters Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-part-3-monsters-trailer-40i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
