@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Built AI That Prevents Cloud Incidents Before They Happen](https://dev.to/policycortex/how-we-built-ai-that-prevents-cloud-incidents-before-they-happen-1gka)
+- [🐍 I Write in Python Because It Knows How to Listen](https://dev.to/medvedev013/i-write-in-python-because-it-knows-how-to-listen-1ag)
+- [Top 5 Mistakes in Azure Data Factory &lpar;and How to Avoid Them&rpar;-by Phani Kota](https://dev.to/phani_kota/top-5-mistakes-in-azure-data-factory-and-how-to-avoid-them-e27)
 - [Introducing SnippetShot – A VS Code Extension for Clean Code Screenshots](https://dev.to/bridget_amana/introducing-snippetshot-a-vs-code-extension-for-clean-code-screenshots-8dm)
 - [A Small Tool to Understand How Spam Filtering Works](https://dev.to/leapcell/a-small-tool-to-understand-how-spam-filtering-works-3h0e)
-- [FieldCraft](https://dev.to/nadinev/fieldcraft-1e65)
-- [Building Interactive Dashboards with Streamlit, Dash, and Bokeh: From Code to Cloud](https://dev.to/cesar_nikolascamacmelen/building-interactive-dashboards-with-streamlit-dash-and-bokeh-from-code-to-cloud-5hdb)
-- [Got frustrated with the docs, so I made a Playwright Cheatsheet](https://dev.to/shiling/got-frustrated-with-the-docs-so-i-made-a-playwright-cheatsheet-1aaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
