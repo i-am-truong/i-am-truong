@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Day 33 of My Data Analytics Journey !](https://dev.to/ramyacse/day-33-of-my-data-analytics-journey--369d)
-- [LearnSphere: Transforming Every Syllabus into a Personalized Learning Journey 📚🚀✨](https://dev.to/divyasinghdev/learnsphere-transforming-every-syllabus-into-a-personalized-learning-journey-4ghp)
-- [🕷️ How I Built My First Open Source Project: Spider.css &lpar;and What I Learned&rpar;](https://dev.to/pjdeveloper896/how-i-built-my-first-open-source-project-spidercss-and-what-i-learned-1hc3)
-- [Inside the Hacker’s Playbook &lpar;Part 2&rpar;: The Advanced Stuff Nobody Talks About](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-part-2-the-advanced-stuff-nobody-talks-about-d1l)
-- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-2j9l)
+- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 3](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-3-2a6i)
+- [[Boost]](https://dev.to/serik_beisenov_5c0d148b81/-550d)
+- [Smarter Apps with PostHog: Feature Flags &amp; Analytics](https://dev.to/lewiskori/smarter-apps-with-posthog-feature-flags-analytics-pf5)
+- [Web development is not dying....](https://dev.to/atunde_temilade_a4debe266/web-development-is-not-dying-2k5i)
+- [🚀 End-to-End AWS CI/CD Pipeline with ECS &amp; Fargate](https://dev.to/prithiviraj_rengarajan/end-to-end-aws-cicd-pipeline-with-ecs-fargate-4m50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
