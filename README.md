@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Website Deployment on AWS Using Terraform](https://dev.to/victoria_obanegha_/automating-website-deployment-on-aws-using-terraform-1a0l)
+- [The Evolution of AI Memory: From Context Windows to True Long-Term Memory](https://dev.to/aun_aideveloper/the-evolution-of-ai-memory-from-context-windows-to-true-long-term-memory-4534)
 - [Ship real‑time alerts without WebSocket&#39;s: Web Push for enterprise constraints 🔔](https://dev.to/ayushsrtv/ship-real-time-alerts-without-websockets-web-push-for-enterprise-constraints-nbe)
+- [this and super&lpar;keyword in java&rpar;](https://dev.to/rajan_s_494d2a0d7bb0860ef/this-and-superkeyword-in-java-oe1)
 - [Spring AI with Amazon Bedrock - Part 4 Exploring Model Context Protocol Streamable HTTP transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-4-exploring-model-context-protocol-streamable-http-transport-2o5h)
-- [📦 How JavaScript Imports Really Work &lpar;and Why It Matters for Scalable Code&rpar;](https://dev.to/anik_sikder_313/how-javascript-imports-really-work-and-why-it-matters-for-scalable-code-3fpm)
-- [How I Built a Storytelling App That Turns Drawings into Tales with Gemini 2.5 Flash](https://dev.to/chilupa/how-i-built-a-storytelling-app-that-turns-drawings-into-tales-with-gemini-25-flash-298e)
-- [Mastering CRUD with Spring Boot and MongoDB: A Step-by-Step Guide](https://dev.to/altairlage/mastering-crud-with-spring-boot-and-mongodb-a-step-by-step-guide-36ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
