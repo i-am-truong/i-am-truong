@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 30-Second Problem That Took Me 3 Weeks to Solve](https://dev.to/thatonearab/the-30-second-problem-that-took-me-3-weeks-to-solve-1odf)
+- [Productivity Hacks for Busy Creators](https://dev.to/whoozit_in_82812c2fd22a09/productivity-hacks-for-busy-creators-1g32)
 - [Why we built Planeo? AI Native Developer Testing Environments](https://dev.to/ssadasivuni/why-we-built-planeo-ai-native-developer-testing-environments-4oa)
 - [Why we built Planeo? AI Native Developer Testing Environments](https://dev.to/ssadasivuni/why-we-built-planeo-ai-native-developer-testing-environments-1ajc)
 - [LangChain&#39;s New Middleware: The Missing Piece for Production-Ready Agents?](https://dev.to/mayank_attri_573ef1404da4/langchains-new-middleware-the-missing-piece-for-production-ready-agents-1dda)
-- [Enable DNSSEC Support in Your Node.js Application](https://dev.to/colocohen/enable-dnssec-support-in-your-nodejs-application-b4j)
-- [Cost of AI](https://dev.to/mashrurio/cost-of-ai-2og2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
