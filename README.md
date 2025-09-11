@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From a Roundtable Chat to an MVP Journey: Insights and Community Spirit](https://dev.to/edesantomaz/from-a-roundtable-chat-to-an-mvp-journey-insights-and-community-spirit-1icg)
 - [Links instead of repetition](https://dev.to/mcadariu/links-instead-of-repetition-4pc7)
 - [🔥 HTML Refresher Series – Part 1: Getting Started with HTML](https://dev.to/sharadaade/html-refresher-series-part-1-getting-started-with-html-a9b)
-- [Check out the latest article on visualization in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-the-latest-article-on-visualization-in-r-3bni)
-- [Bejeweled](https://dev.to/mrpunkdasilva/bejeweled-nf4)
-- [&quot;ImageStudioLab: AI-Powered Photo Generation in Seconds with Gemini 2.5 Flash&quot;](https://dev.to/habib7442/imagestudiolab-ai-powered-photo-generation-in-seconds-with-gemini-25-flash-3jeg)
+- [Async/Await in C#](https://dev.to/nouribram/asyncawait-in-c-5h6f)
+- [Cobel&#39;s Automated Publishing Test](https://dev.to/ladyofcode/cobels-automated-publishing-test-16d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
