@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building AI-Powered Airline Revenue Management Systems with KaibanJS: A Developer&#39;s Guide](https://dev.to/kaibanjs/building-ai-powered-revenue-management-systems-with-kaibanjs-a-developers-guide-1el4)
+- [Forging Data Symphonies: The Art of the ETL Pipeline in Rails](https://dev.to/alex_aslam/forging-data-symphonies-the-art-of-the-etl-pipeline-in-rails-5bno)
 - [Filtering and Searching Transactions](https://dev.to/hermitcommitscode/filtering-and-searching-transactions-2eaf)
+- [🔌 Native Channels in Flutter — A Complete Guide](https://dev.to/omar_elsadany_f3e48cab5b9/native-channels-in-flutter-a-complete-guide-52h1)
 - [Django Finance App: Summaries &amp; Analytics &lpar;Income, Expenses, Balance&rpar;](https://dev.to/hermitcommitscode/django-finance-app-summaries-analytics-income-expenses-balance-2jcc)
-- [The Silent Thief in Your Code: When AI Assistants Get Hacked](https://dev.to/arvindsundararajan/the-silent-thief-in-your-code-when-ai-assistants-get-hacked-f0j)
-- [Every Company&#39;s AI Chatbot is Already Obsolete. The Future is BYOAI](https://dev.to/chhuddleston/every-companys-ai-chatbot-is-already-obsolete-the-future-is-byoai-2jbn)
-- [How I Stay Focused and Energetic While Coding Long Hours](https://dev.to/ussamakhan1/how-i-stay-focused-and-energetic-while-coding-long-hours-4o8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
