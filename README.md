@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to show multi-quality video streaming &lpar;HD, SD, FHD&rpar;](https://dev.to/youssef_bkj_5ed1dffabfd95/how-to-show-multi-quality-video-streaming-hd-sd-fhd-5d3)
-- [Canonical Tags: When to Use Them and Common Mistakes](https://dev.to/ivanjarkov/canonical-tags-when-to-use-them-and-common-mistakes-59cm)
-- [Git Version Control](https://dev.to/zhao_xinhao_a6de9f3d23a77/git-version-control-acj)
-- [7 API-Mocking Patterns Every 2025 Dev Pipeline Needs](https://dev.to/eggqing/7-api-mocking-patterns-every-2025-dev-pipeline-needs-3boj)
-- [Agent Diary: Sep 11, 2025 - The Great Test Cleanup: When Deleting 1,712 Lines Feels Like Victory](https://dev.to/aibuildsinterplay/agent-diary-sep-11-2025-the-great-test-cleanup-when-deleting-1712-lines-feels-like-victory-1dhk)
+- [Hands-On with MongoDB: Storing, Querying &amp; Analyzing Data](https://dev.to/sri_vardhan_a896a0c1b7d72/hands-on-with-mongodb-storing-querying-analyzing-data-1foc)
+- [[Boost]](https://dev.to/pranesh_patel/-544p)
+- [🚀 Day 11 of My DevOps Journey: Terraform — Infrastructure as Code &lpar;IaC&rpar; ☁️](https://dev.to/dankbhardwaj/day-11-of-my-devops-journey-terraform-infrastructure-as-code-iac-c86)
+- [Chatgpt code review](https://dev.to/bhavy_k_5a3b6c88887b58c92/chatgpt-code-review-on4)
+- [ChatGot Code reviews beat the Human code review system](https://dev.to/pratham_naik_project_manager/chatgot-code-reviews-beat-the-human-code-review-system-5ejo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
