@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From PDFs to Palaces: Inside the AI That Turns Knowledge into Memory Architecture](https://dev.to/kareemblessed/from-pdfs-to-palaces-inside-the-ai-that-turns-knowledge-into-memory-architecture-2cpj)
-- [Endo.AI - Multimodal Endocrinology Assistant with Google Gemini](https://dev.to/mixalis_xrysos_c6d7a0daa1/endoai-multimodal-endocrinology-assistant-with-google-gemini-3h5m)
-- [How Flash Loans Enabled Scammers Steal $13.3M From BetterBank &amp; Bunni v2](https://dev.to/scofieldidehen/how-flash-loans-enabled-scammers-steal-133m-from-betterbank-bunni-v2-ad2)
-- [The new PostHog.com is pretty amazing ... most distinctive landing page I&#39;ve seen in a long time.](https://dev.to/peter/the-new-posthogcom-is-pretty-amazing-most-distinctive-landing-page-ive-seen-in-a-long-1kna)
-- [Building CodeMapRT: Rethinking Regression Testing with Change-Mapping](https://dev.to/yuliadrogunova/building-codemaprt-rethinking-regression-testing-with-change-mapping-2hbb)
+- [Feature releases 0.52.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-releases-0520-of-the-github-action-for-checking-spelling-17md)
+- [How to write Hello World in Oracle SQL](https://dev.to/farisdurrani/how-to-write-hello-world-in-oracle-sql-1f7a)
+- [A Quick Take on K8s 1.34 GA DRA: 7 Questions You Probably Have](https://dev.to/nimbus_7e671c0df3b80bcf/a-quick-take-on-k8s-134-ga-dra-7-questions-you-probably-have-nb)
+- [As more tools promise “secure by default” coding, do you think automation can ever fully replace developer responsibility for secure coding practices?](https://dev.to/kevinasutton/as-more-tools-promise-secure-by-default-coding-do-you-think-automation-can-ever-fully-replace-35)
+- [🚨 Developers: It&#39;s Time to Wake Up to the CDE Upskilling Challenge! 🚨](https://dev.to/sachin_chitre_bad13f5669d/developers-its-time-to-wake-up-to-the-cde-upskilling-challenge-1p92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
