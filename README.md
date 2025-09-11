@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Abstracting and Start Programming](https://dev.to/dayvster/stop-abstracting-and-start-programming-obo)
 - [The Essential Tech Stack for Startups in India](https://dev.to/gov01/the-essential-tech-stack-for-startups-in-india-1mg3)
+- [Build a Discord support bot from scratch](https://dev.to/gabeb03/build-a-discord-support-bot-from-scratch-1hlm)
 - [How to Build a CI/CD Pipeline with AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/therealmrmumba/how-to-build-a-cicd-pipeline-with-aws-step-by-step-guide-1db5)
-- [Built with AI Studio: an AI Sidekick for small business owners](https://dev.to/eloiji/built-with-ai-studio-an-ai-sidekick-for-small-business-owners-5f1d)
-- [My First Web Design Client — and What It Taught Me About WordPress](https://dev.to/abdul_rehmandev/my-first-web-design-client-and-what-it-taught-me-about-wordpress-2glm)
-- [On AI Serivces, press Enter for a new line, Shift/Ctrl/Cmd + Enter to send the prompts!](https://dev.to/awesome-friday/on-ai-serivces-press-enter-for-a-new-line-shiftctrlcmd-enter-to-send-the-prompts-59nf)
+- [Solopreneur Sidekick: an AI Partner for small business owners](https://dev.to/eloiji/built-with-ai-studio-an-ai-sidekick-for-small-business-owners-5f1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
