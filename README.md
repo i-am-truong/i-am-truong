@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Conversations That Mattered: My Journey Mentoring a Senior into Leadership](https://dev.to/berlin-tech-blog/conversations-that-mattered-my-journey-mentoring-a-senior-into-leadership-2p4m)
 - [Types vs Interfaces in TypeScript: A Clear Guide for Developers](https://dev.to/rijultp/types-vs-interfaces-in-typescript-a-clear-guide-for-developers-13kf)
 - [Stop Writing SQL by Hand: Building My MVP to Chat With Databases](https://dev.to/arseniydev/stop-writing-sql-by-hand-building-my-mvp-to-chat-with-databases-3fhg)
 - [Job board Platform](https://dev.to/alain_kwishima/job-board-platform-28pc)
 - [I wrote a book, but I don’t know how to make it look professional. What should I do?](https://dev.to/celestia_noa_414a28b49eb3/i-wrote-a-book-but-i-dont-know-how-to-make-it-look-professional-what-should-i-do-4c50)
-- [From Generic to Specific: Making AI Work for Your Domain](https://dev.to/vidipghosh/from-generic-to-specific-making-ai-work-for-your-domain-34hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
