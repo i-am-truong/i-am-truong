@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev tools: Debug WebSocket Connections Fast](https://dev.to/hreuven/dev-tools-debug-websocket-connections-fast-5393)
+- [Are there privacy tools that help my ads work better by collecting correct customer permission?](https://dev.to/mehwish_malik_4f29ff7fb04/are-there-privacy-tools-that-help-my-ads-work-better-by-collecting-correct-customer-permission-5gi6)
+- [AG-UI + LangGraph Streaming: Technical Implementation Guide](https://dev.to/ajay_gupta_60a0393643f3e9/ag-ui-langgraph-streaming-technical-implementation-guide-kbl)
 - [Modern SEO for AI Search Engines - How to Show Up in ChatGPT, Perplexity, and Gemini Search Results?](https://dev.to/bio-ai-software-engineer/modern-seo-for-ai-search-engines-how-to-show-up-in-chatgpt-perplexity-and-gemini-search-2ii9)
 - [Start with Vercel, Scale to VPS: The Smart Developer&#39;s Path](https://dev.to/sst21/start-with-vercel-scale-to-vps-the-smart-developers-path-245l)
-- [Integrating Pesapal API 3.0 on Django](https://dev.to/joy_nyayieka/integrating-pesapal-api-30-on-django-58i0)
-- [Building a License Plate Recognition System with Deep Learning and Edge Deployment](https://dev.to/aneesafolio3/building-a-license-plate-recognition-system-with-deep-learning-and-edge-deployment-ack)
-- [5 Common Performance Pitfalls in Mobile Apps &lpar;And How to Fix Them&rpar;](https://dev.to/data_fortune_64fa15d5eff3/5-common-performance-pitfalls-in-mobile-apps-and-how-to-fix-them-417h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
