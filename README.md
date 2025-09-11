@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RISE with SAP: The Future of Business Transformation as a Service](https://dev.to/aditya_c90047909cf234c949/rise-with-sap-the-future-of-business-transformation-as-a-service-3gfl)
+- [JavaScript Array Methods: A Complete Guide &lpar;Old vs New Syntax with Examples in 2025&rpar;](https://dev.to/parthraval9/javascript-array-methods-a-complete-guide-old-vs-new-syntax-with-examples-in-2025-45ak)
 - [From 260 Lines to 5: How We Built a Zero-Maintenance LLM Integration SDK](https://dev.to/dbatson/from-260-lines-to-5-how-we-built-a-zero-maintenance-llm-integration-sdk-5e43)
 - [How I Finally Got g++ Working on Windows &lpar;And You Can Too!&rpar;](https://dev.to/pratikpathak/how-i-finally-got-g-working-on-windows-and-you-can-too-4fkf)
 - [Multithreading: Interview Questions and Practice Problems](https://dev.to/imsushant12/multithreading-interview-questions-and-practice-problems-48i9)
-- [🔥Mapify: Turn Any Content into Mind Maps with AI](https://dev.to/dev_kiran/mapify-turn-any-content-into-mind-maps-with-ai-4jhc)
-- [rails_code_auditor: A New Ruby Gem for Easy Rails Code Audits](https://dev.to/railsfactory_sedin/railscodeauditor-a-new-ruby-gem-for-easy-rails-code-audits-2n6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
