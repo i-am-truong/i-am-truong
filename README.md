@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get to know me :&rpar;](https://dev.to/codingsayed/get-to-know-me-m29)
+- [The Plough Audit: Before you upgrade the farm, you must first inspect the plough.](https://dev.to/black-ib/the-plough-audit-before-you-upgrade-the-farm-you-must-first-inspect-the-plough-3964)
+- [Day 3 of My Golang Journey](https://dev.to/kshitij_jain_bbc56d59a866/day-3-of-my-golang-journey-5a0c)
+- [I Built a Modern Serverless JS Full-Stack Framework in One Day](https://dev.to/araldhafeeri/i-built-a-modern-serverless-js-full-stack-framework-in-one-day-312k)
 - [How to create an Oracle Autonomous Database@Google Cloud](https://dev.to/farisdurrani/how-to-create-an-oracle-autonomous-databasegoogle-cloud-380o)
-- [How to Build Sales Battlecards Your Reps Will Actually Use &lpar;and Win With&rpar;](https://dev.to/paultowers/how-to-build-sales-battlecards-your-reps-will-actually-use-and-win-with-573a)
-- [From Burnout to Breakthrough: Building Mirae with Modern Tools and Fresh Perspective](https://dev.to/reactsmith/from-burnout-to-breakthrough-building-mirae-with-modern-tools-and-fresh-perspective-1496)
-- [Congrats to the Winners of the Real-Time AI Agents Challenge powered by n8n and Bright Data!](https://dev.to/devteam/congrats-to-the-winners-of-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-104c)
-- [Mastering VPS For Frontend Engineer - Part 3](https://dev.to/joseph42a/mastering-vps-for-frontend-engineer-part-3-p83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
