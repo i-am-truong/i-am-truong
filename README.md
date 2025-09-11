@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 3](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-3-2a6i)
-- [[Boost]](https://dev.to/serik_beisenov_5c0d148b81/-550d)
-- [Smarter Apps with PostHog: Feature Flags &amp; Analytics](https://dev.to/lewiskori/smarter-apps-with-posthog-feature-flags-analytics-pf5)
-- [Web development is not dying....](https://dev.to/atunde_temilade_a4debe266/web-development-is-not-dying-2k5i)
-- [🚀 End-to-End AWS CI/CD Pipeline with ECS &amp; Fargate](https://dev.to/prithiviraj_rengarajan/end-to-end-aws-cicd-pipeline-with-ecs-fargate-4m50)
+- [Endo.AI - Multimodal Endocrinology Assistant with Google Gemini](https://dev.to/mixalis_xrysos_c6d7a0daa1/endoai-multimodal-endocrinology-assistant-with-google-gemini-3h5m)
+- [How Flash Loans Enabled Scammers Steal $13.3M From BetterBank &amp; Bunni v2](https://dev.to/scofieldidehen/how-flash-loans-enabled-scammers-steal-133m-from-betterbank-bunni-v2-ad2)
+- [The new PostHog.com is pretty amazing ... most distinctive landing page I&#39;ve seen in a long time.](https://dev.to/peter/the-new-posthogcom-is-pretty-amazing-most-distinctive-landing-page-ive-seen-in-a-long-1kna)
+- [Building CodeMapRT: Rethinking Regression Testing with Change-Mapping](https://dev.to/yuliadrogunova/building-codemaprt-rethinking-regression-testing-with-change-mapping-2hbb)
+- [Effective Java &lpar;3rd Edition&rpar; - Chapter 2: Creating and Destroying Objects with Java and Kotlin](https://dev.to/inajar/effective-java-3rd-edition-chapter-2-creating-and-destroying-objects-with-java-and-kotlin-5965)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
