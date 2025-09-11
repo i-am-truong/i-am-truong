@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hotelboxsprings: Hoe materiaalkeuze de levensduur en het comfort bepaalt](https://dev.to/bremafa/hotelboxsprings-hoe-materiaalkeuze-de-levensduur-en-het-comfort-bepaalt-3fg0)
+- [ShowDev: Building Web PSQC – From Idea to Website Certification Platform](https://dev.to/devteam_coltd_575e3af/showdev-building-web-psqc-from-idea-to-website-certification-platform-odi)
+- [RAG Chatbot with Python &lpar;Frontend&rpar;](https://dev.to/mintycyber/rag-chatbot-with-python-frontend-3530)
 - [Feature releases 0.52.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-releases-0520-of-the-github-action-for-checking-spelling-17md)
 - [How to write Hello World in Oracle SQL](https://dev.to/farisdurrani/how-to-write-hello-world-in-oracle-sql-1f7a)
-- [A Quick Take on K8s 1.34 GA DRA: 7 Questions You Probably Have](https://dev.to/nimbus_7e671c0df3b80bcf/a-quick-take-on-k8s-134-ga-dra-7-questions-you-probably-have-nb)
-- [As more tools promise “secure by default” coding, do you think automation can ever fully replace developer responsibility for secure coding practices?](https://dev.to/kevinasutton/as-more-tools-promise-secure-by-default-coding-do-you-think-automation-can-ever-fully-replace-35)
-- [🚨 Developers: It&#39;s Time to Wake Up to the CDE Upskilling Challenge! 🚨](https://dev.to/sachin_chitre_bad13f5669d/developers-its-time-to-wake-up-to-the-cde-upskilling-challenge-1p92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
