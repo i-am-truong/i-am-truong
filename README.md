@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Resolving Amazon RDS Performance Bottlenecks: A Real-World Cloud Engineer’s Journey to Optimized Database Efficiency](https://dev.to/sameerimtiaz/resolving-amazon-rds-performance-bottlenecks-a-real-world-cloud-engineers-journey-to-optimized-5bl1)
+- [10 Kafka Mistakes Python Developers Make &lpar;and How to Avoid Them Like a Pro&rpar;](https://dev.to/m-a-h-b-u-b/10-kafka-mistakes-python-developers-make-and-how-to-avoid-them-like-a-pro-55cl)
+- [Python Programming Course: The Ultimate Guide for Beginners in 2025](https://dev.to/kuchi_gayathri_fa856c8e40/python-programming-course-the-ultimate-guide-for-beginners-in-2025-383a)
+- [Check out this article on Frequency Tables for Categorical Variables in R — 2025 Edition](https://dev.to/dipti26810/check-out-this-article-on-frequency-tables-for-categorical-variables-in-r-2025-edition-410b)
 - [Frequency Tables for Categorical Variables in R — 2025 Edition](https://dev.to/dipti26810/frequency-tables-for-categorical-variables-in-r-2025-edition-5ajo)
-- [🧠 Sleep Your Way to Mental Wellness: A Developer’s Guide](https://dev.to/nvelup_e92618d5196e8d9f43/sleep-your-way-to-mental-wellness-a-developers-guide-ljc)
-- [Why Microsoft Keeps Cutting Jobs Even as Profits Soar: The AI Paradox Every Developer Should Understand](https://dev.to/shiva_shanker_k/why-microsoft-keeps-cutting-jobs-even-as-profits-soar-the-ai-paradox-every-developer-should-4k9e)
-- [How Clean Code Naming Conventions Reduce Bugs &lpar;and Save Engineering Hours&rpar;](https://dev.to/betterhq/how-clean-code-naming-conventions-reduce-bugs-and-save-engineering-hours-6c6)
-- [This Is How You Automate Your Entire Social Media Job Away](https://dev.to/maybe_ai/this-is-how-you-automate-your-entire-social-media-job-away-5p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
