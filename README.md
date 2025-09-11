@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is Playwright&#39;s sharding slowing you down? Meet &quot;Pawdist&quot;](https://dev.to/muhendiskedibey/is-playwrights-sharding-slowing-you-down-meet-pawdist-iap)
-- [😮The #1 Mistake Beginners Make &lpar;It’s Not What You Think&rpar;](https://dev.to/ilsa_shaikh_089e2bfab0bf4/the-1-mistake-beginners-make-its-not-what-you-think-54a2)
-- [The top N customers who accounted for half of the sales that year--SPL Programming Practice](https://dev.to/esproc_spl/the-top-n-customers-who-accounted-for-half-of-the-sales-that-year-spl-programming-practice-1ahm)
-- [SBC Hardware Architecture: What Developers Need to Know](https://dev.to/dora_001/sbc-hardware-architecture-what-developers-need-to-know-33mj)
-- [React Server Components: They&#39;re Not What You Think &lpar;And They Change Everything&rpar;](https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-server-components-theyre-not-what-you-think-and-they-change-everything-55fk)
+- [⚡HabitForge AI – Where Resolutions Become Realities You Can See 👀](https://dev.to/divyasinghdev/habitforge-ai-where-resolutions-become-realities-you-can-see-4e8d)
+- [Stop Writing Walls of Text: Build Video Newsletters with AI](https://dev.to/walker876/stop-writing-walls-of-text-build-video-newsletters-with-ai-311m)
+- [How I Log ESPHome Device Data to CSV with Python &lpar;and Why You Should Too&rpar;](https://dev.to/devasservice/how-i-log-esphome-device-data-to-csv-with-python-and-why-you-should-too-467p)
+- [The Developer’s Learning Journey: When Study Methods Evolve Over Time](https://dev.to/saribeg/the-developers-learning-journey-when-study-methods-evolve-over-time-55i5)
+- [Boost Your Productivity: A Sleep Debt Calculator for Devs](https://dev.to/chiragx309/boost-your-productivity-a-sleep-debt-calculator-for-devs-1dg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
