@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern SEO for AI Search Engines - How to Show Up in ChatGPT, Perplexity, and Gemini Search Results?](https://dev.to/bio-ai-software-engineer/modern-seo-for-ai-search-engines-how-to-show-up-in-chatgpt-perplexity-and-gemini-search-2ii9)
+- [Start with Vercel, Scale to VPS: The Smart Developer&#39;s Path](https://dev.to/sst21/start-with-vercel-scale-to-vps-the-smart-developers-path-245l)
+- [Integrating Pesapal API 3.0 on Django](https://dev.to/joy_nyayieka/integrating-pesapal-api-30-on-django-58i0)
+- [Building a License Plate Recognition System with Deep Learning and Edge Deployment](https://dev.to/aneesafolio3/building-a-license-plate-recognition-system-with-deep-learning-and-edge-deployment-ack)
 - [5 Common Performance Pitfalls in Mobile Apps &lpar;And How to Fix Them&rpar;](https://dev.to/data_fortune_64fa15d5eff3/5-common-performance-pitfalls-in-mobile-apps-and-how-to-fix-them-417h)
-- [Master MERN Stack Development with CoderCrafter: Building a User Authentication System](https://dev.to/himanshu_anand_b6a7606f82/master-mern-stack-development-with-codercrafter-building-a-user-authentication-system-3873)
-- [Resolving Amazon RDS Performance Bottlenecks: A Real-World Cloud Engineer’s Journey to Optimized Database Efficiency](https://dev.to/sameerimtiaz/resolving-amazon-rds-performance-bottlenecks-a-real-world-cloud-engineers-journey-to-optimized-5bl1)
-- [10 Kafka Mistakes Python Developers Make &lpar;and How to Avoid Them Like a Pro&rpar;](https://dev.to/m-a-h-b-u-b/10-kafka-mistakes-python-developers-make-and-how-to-avoid-them-like-a-pro-55cl)
-- [Python Programming Course: The Ultimate Guide for Beginners in 2025](https://dev.to/kuchi_gayathri_fa856c8e40/python-programming-course-the-ultimate-guide-for-beginners-in-2025-383a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
