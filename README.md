@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Radar Charts: Seeing Priorities in Every Dimension](https://dev.to/datastudies/radar-charts-seeing-priorities-in-every-dimension-1onj)
-- [🌊 Be the Rising Tide: The Multiplying Effect of Lifting &lpar;and Pushing&rpar; Others](https://dev.to/dvddpl/be-the-rising-tide-the-multiplying-effect-of-lifting-and-pushing-others-n1h)
-- [10 Handy Online Utilities Every Developer &lpar;and Writer&rpar; Should Bookmark](https://dev.to/designpro_8c25215be381e3c/10-handy-online-utilities-every-developer-and-writer-should-bookmark-p0f)
-- [The Ultimate Ranking of Fruit-Inspired .com Brand Names](https://dev.to/flippp/the-ultimate-ranking-of-fruit-inspired-com-brand-names-2p7o)
-- [From a Roundtable Chat to an MVP Journey: Insights and Community Spirit](https://dev.to/edesantomaz/from-a-roundtable-chat-to-an-mvp-journey-insights-and-community-spirit-1icg)
+- [Stop Writing SQL by Hand: Building My MVP to Chat With Databases](https://dev.to/arseniydev/stop-writing-sql-by-hand-building-my-mvp-to-chat-with-databases-3fhg)
+- [Job board Platform](https://dev.to/alain_kwishima/job-board-platform-28pc)
+- [I wrote a book, but I don’t know how to make it look professional. What should I do?](https://dev.to/celestia_noa_414a28b49eb3/i-wrote-a-book-but-i-dont-know-how-to-make-it-look-professional-what-should-i-do-4c50)
+- [From Generic to Specific: Making AI Work for Your Domain](https://dev.to/vidipghosh/from-generic-to-specific-making-ai-work-for-your-domain-34hp)
+- [[Boost]](https://dev.to/victoria_obanegha_/-54h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
