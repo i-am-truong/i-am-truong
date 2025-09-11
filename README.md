@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quote other messages via Chat API, rollout of granular OAuth consent for Editor add ons, and more!](https://dev.to/googleworkspace/quote-other-messages-via-chat-api-rollout-of-granular-oauth-consent-for-editor-add-ons-and-more-583k)
-- [What&#39;s new in Java 25](https://dev.to/pvsdev/whats-new-in-java-25-emb)
-- [My Solution of VLAN Internet Access in College Network Setup](https://dev.to/hassamdev/my-solution-of-vlan-internet-access-in-college-network-setup-1dhb)
-- [Missing Rails Console? Building a Database REPL for NestJS + Prisma](https://dev.to/cgrothaus/missing-rails-console-building-a-database-repl-for-nestjs-prisma-4p0i)
-- [100 Days of DevOps: Day 39](https://dev.to/wycliffealphus/100-days-of-devops-day-39-l5m)
+- [Eskema: Composable, Ergonomic Runtime Data Validation for Dart Done Right!!](https://dev.to/nombrekeff/eskema-composable-ergonomic-runtime-data-validation-for-dart-done-right-2ice)
+- [Vulnerability Assessment: Safeguarding Your Business Against Cyber Threats with CyberNX](https://dev.to/cybernx_technologies_b5ef/vulnerability-assessment-safeguarding-your-business-against-cyber-threats-with-cybernx-2kd7)
+- [Open-source app for booking meeting rooms](https://dev.to/matthewavgul/open-source-app-for-booking-meeting-rooms-2ga9)
+- [Custom OpenTelemetry Collectors: Build, Run, and Manage at Scale](https://dev.to/adnanrahic/custom-opentelemetry-collectors-build-run-and-manage-at-scale-464d)
+- [Demystifying Android Context: The Gateway Between Your App and the System](https://dev.to/elamem/demystifying-android-context-the-gateway-between-your-app-and-the-system-bf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
