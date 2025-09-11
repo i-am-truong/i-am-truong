@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a High-Frequency Crypto Trading Bot with DeFiML AlphaPulse](https://dev.to/hussenatou_diallo_39fa801/building-a-high-frequency-crypto-trading-bot-with-defiml-alphapulse-g0b)
-- [title: &quot;Top 5 Free Tools Every Developer Should Know in 2025&quot; published: true tags: [developers, tools, productivity, free]](https://dev.to/lily32111/title-top-5-free-tools-every-developer-should-know-in-2025-published-true-tags-developers-51lh)
-- [Day 48 : Amazon ECS](https://dev.to/udoh_deborah_b1e484c474bf/day-48-amazon-ecs-gbe)
-- [Building a Django Financial Tracker: Planning, Goals, and Kickoff](https://dev.to/hermitcommitscode/building-a-django-financial-tracker-planning-goals-and-kickoff-241e)
-- [Get to know me :&rpar;](https://dev.to/codingsayed/get-to-know-me-m29)
+- [🥊 MMA Coach Assistant - AI-Powered Fight Analysis](https://dev.to/paulo_abbcba03b4df70572fc/mma-coach-assistant-ai-powered-fight-analysis-124j)
+- [GameSpot: Borderlands 4 | Things I Wish I Knew Before Playing](https://dev.to/gg_news/gamespot-borderlands-4-things-i-wish-i-knew-before-playing-1np8)
+- [IGN: Arena Breakout: Infinite - Official Full Release Update Overview Trailer](https://dev.to/gg_news/ign-arena-breakout-infinite-official-full-release-update-overview-trailer-3he7)
+- [IGN: Hollow Knight: Silksong Boss Fight - Fourth Chorus &lpar;Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-fourth-chorus-far-fields-m1k)
+- [IGN: Dying Light: The Beast - Official Part 3: Monsters Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-part-3-monsters-trailer-40i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
