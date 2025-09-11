@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hotelboxsprings: Hoe materiaalkeuze de levensduur en het comfort bepaalt](https://dev.to/bremafa/hotelboxsprings-hoe-materiaalkeuze-de-levensduur-en-het-comfort-bepaalt-3fg0)
-- [ShowDev: Building Web PSQC – From Idea to Website Certification Platform](https://dev.to/devteam_coltd_575e3af/showdev-building-web-psqc-from-idea-to-website-certification-platform-odi)
-- [RAG Chatbot with Python &lpar;Frontend&rpar;](https://dev.to/mintycyber/rag-chatbot-with-python-frontend-3530)
-- [Feature releases 0.52.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-releases-0520-of-the-github-action-for-checking-spelling-17md)
-- [How to write Hello World in Oracle SQL](https://dev.to/farisdurrani/how-to-write-hello-world-in-oracle-sql-1f7a)
+- [Tauri vs. Electron](https://dev.to/raftlabs/tauri-vs-electron-23d1)
+- [O Descompasso entre Frontend e Backend: Por que suas Rotas Devem Ser RESTful](https://dev.to/vilaboim/o-descompasso-entre-frontend-e-backend-por-que-suas-rotas-devem-ser-restful-3i7f)
+- [Day 92: Authentication, Insomnia, and Life Decisions](https://dev.to/casperday11/day-92-authentication-insomnia-and-life-decisions-32go)
+- [Best AI Coding Tools for Rust Projects: IDEs vs Terminals](https://dev.to/shuttle/best-ai-coding-tools-for-rust-projects-ides-vs-terminals-3md2)
+- [Design Patterns by Purpose: The Command Pattern in Frontend Life &lpar;Part 4&rpar;](https://dev.to/sagi0312/design-patterns-by-purpose-the-command-pattern-in-frontend-life-part-4-2f35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
