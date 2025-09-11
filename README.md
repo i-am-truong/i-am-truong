@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ospehlivano/-4p2f)
-- [Causal LLM or splitting LLM](https://dev.to/anonch/causal-llm-or-splitting-llm-3n2n)
-- [React Hook Form Summary: How to Easily Manage Forms Even for Beginners](https://dev.to/kazutora_hattori_66972c88/react-hook-form-summary-how-to-easily-manage-forms-even-for-beginners-m1)
-- [Get More Done with Better Contact Center Software](https://dev.to/deepijatelecom1/get-more-done-with-better-contact-center-software-985)
-- [Intro to Dev.to](https://dev.to/ddybsky/intro-to-devto-om2)
+- [[Boost]](https://dev.to/revis047/-17am)
+- [How a Birthday Cake Accidentally Taught Me DOM 🎂](https://dev.to/lokesh_keswani/how-a-birthday-cake-accidentally-taught-me-dom-g40)
+- [Don’t Trust, Just Verify: Auth, Faults, and Monitoring](https://dev.to/sibasishm/dont-trust-just-verify-auth-faults-and-monitoring-43od)
+- [Taking advantage of CQRS in legacy applications](https://dev.to/xoubaman/taking-advantage-of-cqrs-in-legacy-applications-4k76)
+- [[Boost]](https://dev.to/phuongnamcode/-1kni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
