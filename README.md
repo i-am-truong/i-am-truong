@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript Advanced Patterns: Writing Cleaner &amp; Safer Code in 2025](https://dev.to/frontendtoolstech/typescript-advanced-patterns-writing-cleaner-safer-code-in-2025-4gbn)
+- [Docker Series: Episode 20 — Docker Security Best Practices &amp; Secrets Management 🔒](https://dev.to/yash_sonawane25/docker-series-episode-20-docker-security-best-practices-secrets-management-4e6)
+- [Critical SQL Injection Vulnerability in Weaver e-cology OA: What You Need to Know](https://dev.to/sharon_42e16b8da44dabde6d/critical-sql-injection-vulnerability-in-weaver-e-cology-oa-what-you-need-to-know-1gbp)
 - [AI and Art: How Creators Can Navigate the Evolving Landscape](https://dev.to/walker876/ai-and-art-how-creators-can-navigate-the-evolving-landscape-1gb4)
 - [The biggest opportunities in 2025 won’t go to those who can write the most prompts. They’ll go to those who can turn prompts into products, systems, and sustainable business models.](https://dev.to/jaideepparashar/the-biggest-opportunities-in-2025-wont-go-to-those-who-can-write-the-most-prompts-theyll-go-to-4obe)
-- [How I Use AI to Build Real Business Models &lpar;Not Just Content&rpar;](https://dev.to/jaideepparashar/how-i-use-ai-to-build-real-business-models-not-just-content-1n66)
-- [Quick Fix: My MCP Tools Were Showing as Write Tools in ChatGPT Dev Mode](https://dev.to/nickytonline/quick-fix-my-mcp-tools-were-showing-as-write-tools-in-chatgpt-dev-mode-3id9)
-- [KEXP: you, infinite - Throughlines &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-you-infinite-throughlines-live-on-kexp-5flb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
