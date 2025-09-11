@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Scheduling Jobs on macOS](https://dev.to/strawhat121/a-beginners-guide-to-scheduling-jobs-on-macos-3062)
 - [this and super interview-type questions](https://dev.to/kiran_raj_2004/this-and-super-interview-type-questions-12co)
 - [AEC Compliance Image Fixer](https://dev.to/beardedbe4n/aec-compliance-image-fixer-41c3)
 - [Semantic Search UI with Tambo](https://dev.to/lahfir_ac22d8714d76cfd31e/semantic-search-ui-with-tambo-3dd1)
 - [Why Continuous AI Matters for Developers and Teams](https://dev.to/babblebey/why-continuous-ai-matters-for-developers-and-teams-1h6b)
-- [Fuzz and Invariant Testing: A Security Researcher&#39;s Guide to Uncovering Hidden Vulnerabilities](https://dev.to/ajtech0001/fuzz-and-invariant-testing-a-security-researchers-guide-to-uncovering-hidden-vulnerabilities-5d69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
