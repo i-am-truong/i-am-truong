@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing SnippetShot – A VS Code Extension for Clean Code Screenshots](https://dev.to/bridget_amana/introducing-snippetshot-a-vs-code-extension-for-clean-code-screenshots-8dm)
+- [A Small Tool to Understand How Spam Filtering Works](https://dev.to/leapcell/a-small-tool-to-understand-how-spam-filtering-works-3h0e)
 - [FieldCraft](https://dev.to/nadinev/fieldcraft-1e65)
 - [Building Interactive Dashboards with Streamlit, Dash, and Bokeh: From Code to Cloud](https://dev.to/cesar_nikolascamacmelen/building-interactive-dashboards-with-streamlit-dash-and-bokeh-from-code-to-cloud-5hdb)
 - [Got frustrated with the docs, so I made a Playwright Cheatsheet](https://dev.to/shiling/got-frustrated-with-the-docs-so-i-made-a-playwright-cheatsheet-1aaf)
-- [Creating a market-viable app in less than Week](https://dev.to/brian_mk/creating-a-market-viable-app-in-less-than-week-gc7)
-- [Building AI-Powered Airline Revenue Management Systems with KaibanJS: A Developer&#39;s Guide](https://dev.to/kaibanjs/building-ai-powered-revenue-management-systems-with-kaibanjs-a-developers-guide-1el4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
