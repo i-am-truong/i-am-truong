@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Great Developer Is Always a Learner](https://dev.to/faizancheema893/a-great-developer-is-always-a-learner-k7b)
-- [Enabling Small Businesses to Invoice in Regional Currencies](https://dev.to/flutterwaveeng/enabling-small-businesses-to-invoice-in-regional-currencies-9ih)
-- [Demo Guide: Running AWS Billing &amp; Cost Management MCP Server Locally with Q CLI](https://dev.to/prithiviraj_rengarajan/demo-guide-running-aws-billing-cost-management-mcp-server-locally-with-q-cli-1g4p)
-- [My Awesome Test Article](https://dev.to/ahmed_richdale_33038aaed4/my-awesome-test-article-8am)
-- [5 Hard-Learned Lessons About Image Optimization at Scale](https://dev.to/doongjo/5-hard-learned-lessons-about-image-optimization-at-scale-25g0)
+- [Frontend System Design: Principles for Scalable React Applications](https://dev.to/maurya-sachin/frontend-system-design-principles-for-scalable-react-applications-1i4)
+- [Forget MVP: Start With the MVP of MVP](https://dev.to/iqquee/forget-mvp-start-with-the-mvp-of-mvp-1a9d)
+- [AI is Failing Nigerian Languages: 7 Critical Loopholes Developers Must Fix](https://dev.to/chrizfasa/ai-is-failing-nigerian-languages-7-critical-loopholes-developers-must-fix-362p)
+- [AES-256 vs AES-128: Understanding Military-Grade Encryption in Consumer Password Managers](https://dev.to/rahul_sharma_15bd129bc69e/aes-256-vs-aes-128-understanding-military-grade-encryption-in-consumer-password-managers-4dei)
+- [Access Modifiers in Java](https://dev.to/hayesvincent14/access-modifiers-in-java-44h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
