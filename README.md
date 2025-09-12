@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ClueFrame](https://dev.to/akan_evans_4804b6986d5fb4/clueframe-5b5n)
+- [How to Self-Host n8n on AWS EC2 with Docker &lpar;Step-by-Step&rpar;?](https://dev.to/snehasishkonger/how-to-self-host-n8n-on-aws-ec2-with-docker-step-by-step-2l05)
+- [Meme Museum: Serious Look at Internet’s Funniest Currency](https://dev.to/serving/meme-museum-serious-look-at-internets-funniest-currency-5ai8)
 - [Mastering Map and Set in JavaScript](https://dev.to/adrahi/mastering-map-and-set-in-javascript-40j1)
 - [# Schema Evolution &amp; Encoding: Building Future-Proof Data Systems 🚀](https://dev.to/roshan_ican/-schema-evolution-encoding-building-future-proof-data-systems-4k8c)
-- [Notes from 10+ years working with WordPress](https://dev.to/elliemiguel/notes-from-10-years-working-with-wordpress-55cc)
-- [Built a LinkedIn Automation Tool and Survived 206 Commits Later 🫠](https://dev.to/mdkaifansari04/how-two-students-built-a-linkedin-automation-tool-and-survived-206-commits-later-384g)
-- [Mastering AI Logo Creation: My Proven Prompt Framework and Community Tips Exchange](https://dev.to/aariff/mastering-ai-logo-creation-my-proven-prompt-framework-and-community-tips-exchange-2ban)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
