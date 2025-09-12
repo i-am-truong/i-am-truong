@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Digital Twin for Manufacturing: How Darkonium Builds Adaptive Simulations with AI](https://dev.to/urbanhawktech/how-we-build-ai-powered-digital-twins-for-manufacturing-at-darkonium-3nhi)
 - [Something against norm](https://dev.to/cutieyunnytech/something-against-norm-3pl6)
 - [Latency Numbers Every Data Streaming Engineer Should Know](https://dev.to/david_kjerrumgaard_d31d7e/latency-numbers-every-data-streaming-engineer-should-know-13lp)
 - [Set up Customer.io HTTPS links tracking with Google Cloud Platform](https://dev.to/manuelmhtr/set-up-customerio-https-links-tracking-with-google-cloud-platform-pl2)
 - [Nifi Bundle Release Announcement](https://dev.to/david_kjerrumgaard_d31d7e/nifi-bundle-release-announcement-563i)
-- [Glyph.Flow DevLog #5 — From Alpha to First Release &lpar;v0.1.0&rpar;](https://dev.to/daemonic01/glyphflow-devlog-5-from-alpha-to-first-release-v010-l5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
