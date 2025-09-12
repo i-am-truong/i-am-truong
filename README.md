@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ClueFrame](https://dev.to/akan_evans_4804b6986d5fb4/clueframe-5b5n)
-- [How to Self-Host n8n on AWS EC2 with Docker &lpar;Step-by-Step&rpar;?](https://dev.to/snehasishkonger/how-to-self-host-n8n-on-aws-ec2-with-docker-step-by-step-2l05)
-- [Meme Museum: Serious Look at Internet’s Funniest Currency](https://dev.to/serving/meme-museum-serious-look-at-internets-funniest-currency-5ai8)
-- [Mastering Map and Set in JavaScript](https://dev.to/adrahi/mastering-map-and-set-in-javascript-40j1)
-- [# Schema Evolution &amp; Encoding: Building Future-Proof Data Systems 🚀](https://dev.to/roshan_ican/-schema-evolution-encoding-building-future-proof-data-systems-4k8c)
+- [Web Developer Travis McCracken on Fast File Upload APIs with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-fast-file-upload-apis-with-go-2a9i)
+- [Pi-hole v6: How to actually set a password and login properly?](https://dev.to/yoshi_homelab/pi-hole-v6-how-to-actually-set-a-password-and-login-properly-n9k)
+- [KEXP: Japanese Breakfast - My Baby &lpar;Got Nothing At All&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-my-baby-got-nothing-at-all-live-on-kexp-1eh3)
+- [KEXP: Japanese Breakfast - Honey Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-honey-water-live-on-kexp-1k3d)
+- [KEXP: Japanese Breakfast - Picture Window &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-picture-window-live-on-kexp-5fod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
