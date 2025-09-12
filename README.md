@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Taming S3 Versioning Before It Blows Up Your Bill](https://dev.to/aaron_rose_0787cc8b4775a0/taming-s3-versioning-before-it-blows-up-your-bill-4gel)
-- [Healthcare App Submission — KendoReact Free Components Challenge](https://dev.to/mechon70x7/healthcare-app-submission-kendoreact-free-components-challenge-2h2h)
-- [100 Days of DevOps: Day 40](https://dev.to/wycliffealphus/100-days-of-devops-day-40-5382)
-- [Automated PostgreSQL Backups in Docker: Complete Guide with pg_dump](https://dev.to/dmdboi/automated-postgresql-backups-in-docker-complete-guide-with-pgdump-52a)
-- [Maintaining Arch Linux AUR Packages: Updating python-simple-term-menu to the Latest Release](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-updating-python-simple-term-menu-to-the-latest-release-5b73)
+- [Day 93: The Exhaustion Behind the Expertise](https://dev.to/casperday11/day-93-the-exhaustion-behind-the-expertise-4emc)
+- [How to Design for Users Who Can’t Focus](https://dev.to/lovestaco/how-to-design-for-users-who-cant-focus-57i0)
+- [Days 29-30: Mission Accomplished - Building an Enterprise Platform in 80 Hours with 37% Time Off](https://dev.to/clayroach/days-29-30-mission-accomplished-building-an-enterprise-platform-in-80-hours-with-37-time-off-529m)
+- [MCP Server Executables Explained: npx, uvx, Docker, and Beyond](https://dev.to/leomarsh/mcp-server-executables-explained-npx-uvx-docker-and-beyond-1i1n)
+- [Compliance Sentinel: AI-Powered Multi-Language Security Analysis Platform](https://dev.to/kalisnetwork/compliance-sentinel-ai-powered-multi-language-security-analysis-platform-3jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
