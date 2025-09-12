@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 81-Year-Old Who Just Became the World&#39;s Richest Person](https://dev.to/shiva_shanker_k/the-81-year-old-who-just-became-the-worlds-richest-person-322f)
-- [Docker Series: Episode 21 — Docker Logging &amp; Monitoring Essentials 📊](https://dev.to/yash_sonawane25/docker-series-episode-21-docker-logging-monitoring-essentials-4f4k)
-- [Thoughts on Codecademy?](https://dev.to/crissortacodes/thoughts-on-codecademy-5d)
-- [Introducing db.nvim: Your Database Companion in Neovim](https://dev.to/praem90/introducing-dbnvim-your-database-companion-in-neovim-12lh)
-- [What is jsx? when we use jsx? why we use jsx?how we use jsx? difference b/w js and jsx?](https://dev.to/lakshmi_g_74c225d5ca0b272/what-is-jsx-when-we-use-jsx-why-we-use-jsxhow-we-use-jsx-difference-bw-js-and-jsx-5b9)
+- [Data Anxiety? Stop Hoarding Insights. Start Systemizing Them.](https://dev.to/uspeedoai/data-anxiety-stop-hoarding-insights-start-systemizing-them-160p)
+- [Using attr&lpar;&rpar; with types](https://dev.to/alvaromontoro/using-attr-with-types-38ff)
+- [&lpar;实时&rpar;贵金属行情接口 详细接入指南【2025最新教程】](https://dev.to/peakline/shi-shi-gui-jin-shu-xing-qing-jie-kou-xiang-xi-jie-ru-zhi-nan-2025zui-xin-jiao-cheng--6ki)
+- [Smartbi RCE Vulnerability: Patch Fast Before Hackers Do](https://dev.to/sharon_42e16b8da44dabde6d/smartbi-rce-vulnerability-patch-fast-before-hackers-do-oj5)
+- [A Better Way to Tune the JVM in Dockerfiles and Kubernetes Manifests](https://dev.to/brunoborges/a-better-way-to-tune-the-jvm-in-dockerfiles-and-kubernetes-manifests-329c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
