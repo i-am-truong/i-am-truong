@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Registering a vCluster Kubernetes clusters with Sveltos: A Quick Start Guide](https://dev.to/simone_morellato/registering-a-vcluster-kubernetes-clusters-with-sveltos-a-quick-start-guide-i3p)
 - [Data Anxiety? Stop Hoarding Insights. Start Systemizing Them.](https://dev.to/uspeedoai/data-anxiety-stop-hoarding-insights-start-systemizing-them-160p)
 - [Using attr&lpar;&rpar; with types](https://dev.to/alvaromontoro/using-attr-with-types-38ff)
 - [&lpar;实时&rpar;贵金属行情接口 详细接入指南【2025最新教程】](https://dev.to/peakline/shi-shi-gui-jin-shu-xing-qing-jie-kou-xiang-xi-jie-ru-zhi-nan-2025zui-xin-jiao-cheng--6ki)
 - [Smartbi RCE Vulnerability: Patch Fast Before Hackers Do](https://dev.to/sharon_42e16b8da44dabde6d/smartbi-rce-vulnerability-patch-fast-before-hackers-do-oj5)
-- [A Better Way to Tune the JVM in Dockerfiles and Kubernetes Manifests](https://dev.to/brunoborges/a-better-way-to-tune-the-jvm-in-dockerfiles-and-kubernetes-manifests-329c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
