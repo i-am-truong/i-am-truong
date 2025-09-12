@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rails 8 – New ActiveSupport Timezone Defaults](https://dev.to/lightflight/rails-8-new-activesupport-timezone-defaults-321c)
 - [Build Laravel AI Features in Minutes: A Guide to the Gemini Package](https://dev.to/hosseinhezami/build-laravel-ai-features-in-minutes-a-guide-to-the-gemini-package-2om5)
 - [Best Way to Run Puppeteer Online: Solutions Compared](https://dev.to/leapcell/best-way-to-run-puppeteer-online-solutions-compared-1m8k)
 - [🧠 Demystifying the Factory Method Pattern with a Manabita Twist](https://dev.to/edzamo/demystifying-the-factory-method-pattern-with-a-manabita-twist-ne6)
 - [Shoutout to My Cheating Genius Vibes – A Productivity App](https://dev.to/cutieyunnytech/shoutout-to-my-cheating-genius-vibes-a-productivity-app-2pfb)
-- [🧠 Desmitificando el Patrón Factory Method con un Toque Manabita](https://dev.to/edzamo/desmitificando-el-patron-factory-method-con-un-toque-manabita-1a67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
