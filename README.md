@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Proud to see our project DCRCA Agent featured by Portia after winning #AgentHack2025 🙌. Grateful to the community and my amazing teammates for making this possible!&quot;](https://dev.to/anuj123upadhyay/proud-to-see-our-project-dcrca-agent-featured-by-portia-after-winning-agenthack2025-grateful-to-5dc6)
 - [Backend Development: The Hidden Power Behind Every App ⚡](https://dev.to/jpraiseofficial/backend-development-the-hidden-power-behind-every-app-25de)
-- [The OCI Developer&#39;s Local Lab: A Guide to Setting Up an Ubuntu VM on Your Mac](https://dev.to/smyekh/the-oci-developers-local-lab-a-guide-to-setting-up-an-ubuntu-vm-on-your-mac-3mj6)
-- [Driving Innovation: Product Development Strategies for Mechanical Companies](https://dev.to/sheba-kumari/driving-innovation-product-development-strategies-for-mechanical-companies-37m0)
-- [hi i am a junior dev in python skills but not full junior dev but now what new things are coming in python?](https://dev.to/__e4b767c64c7c7a/hi-i-am-a-junior-dev-in-python-skills-but-not-full-junior-dev-but-now-what-new-things-are-coming-in-50j8)
-- [Поради, як купити пам’ятник без помилок](https://dev.to/muravochka88/poradi-iak-kupiti-pamiatnik-biez-pomilok-1h28)
+- [The Blockchain Trilemma: Can We Achieve Security, Scalability, and Decentralization?](https://dev.to/dsotec/the-blockchain-trilemma-can-we-achieve-security-scalability-and-decentralization-5cb4)
+- [Shipaton: Do0ne Build Journal #4 - Do0ne Timer Built with a Custom Widget](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-4-do0ne-timer-built-with-a-custom-widget-6e3)
+- [Shipaton: Do0ne Build Journal #4 - Do0ne Timer Built with a Custom Widget](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-4-do0ne-timer-built-with-a-custom-widget-1ea8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
