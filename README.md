@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Laravel AI Features in Minutes: A Guide to the Gemini Package](https://dev.to/hosseinhezami/build-laravel-ai-features-in-minutes-a-guide-to-the-gemini-package-2om5)
+- [Best Way to Run Puppeteer Online: Solutions Compared](https://dev.to/leapcell/best-way-to-run-puppeteer-online-solutions-compared-1m8k)
 - [🧠 Demystifying the Factory Method Pattern with a Manabita Twist](https://dev.to/edzamo/demystifying-the-factory-method-pattern-with-a-manabita-twist-ne6)
+- [Shoutout to My Cheating Genius Vibes – A Productivity App](https://dev.to/cutieyunnytech/shoutout-to-my-cheating-genius-vibes-a-productivity-app-2pfb)
 - [🧠 Desmitificando el Patrón Factory Method con un Toque Manabita](https://dev.to/edzamo/desmitificando-el-patron-factory-method-con-un-toque-manabita-1a67)
-- [FSCSS CDN](https://dev.to/fscss/fscss-cdn-jp1)
-- [💼 How DevOps Transforms Your Business into a War Machine](https://dev.to/tavernetech/how-devops-transforms-your-business-into-a-war-machine-39km)
-- [My Mini Productivity &amp; Reflection App – Inspired by iPhone Journal and spiritual experiences journal article](https://dev.to/cutieyunnytech/my-mini-productivity-reflection-app-inspired-by-iphone-journal-1f25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
