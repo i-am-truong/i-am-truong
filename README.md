@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Are Flash Loans?](https://dev.to/scofieldidehen/what-are-flash-loans-dl9)
-- [Python Basics: Mutable vs Immutable Explained &lpar;with Local Analogies&rpar;](https://dev.to/parthi_rp/python-basics-mutable-vs-immutable-explained-with-local-analogies-1lkj)
-- [📊Unlocking the power of SQL: Subqueries, CTEs, and Stored Procedures Demystified](https://dev.to/loi2008/unlocking-the-power-of-sql-subqueries-ctes-and-stored-procedures-demystified-4aci)
-- [Day 18 of 100 - Reflection.](https://dev.to/lyop_achayi/day-18-of-100-reflection-146)
-- [High-Paying, Low-Competition Languages for Software Engineers](https://dev.to/progressiveprogrammer/high-paying-low-competition-languages-for-software-engineers-iic)
+- [This username is already taken! &lpar;Bloom filters&rpar;](https://dev.to/aditya_anavkar/this-username-is-already-taken-bloom-filters-36ni)
+- [How I find and fix Kubernetes Exit Codes and Misconfigurations for free](https://dev.to/lyndon_brown_/how-i-find-and-fix-kubernetes-exit-codes-and-misconfigurations-for-free-18i)
+- [When the Swarm Wakes](https://dev.to/woodyhayday/when-the-swarm-wakes-1d1)
+- [Deep Doctrine Research: Explore Our NotebookLM and Share Your Insights](https://dev.to/deepdoctrine/deep-doctrine-research-explore-our-notebooklm-and-share-your-insights-4c1f)
+- [The Cost of Kubernetes: Which Workloads Waste the Most Resources](https://dev.to/shohams/the-cost-of-kubernetes-which-workloads-waste-the-most-resources-2514)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
