@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Swift Android Setup I Always Wanted](https://dev.to/swiftstream/the-swift-android-setup-i-always-wanted-285d)
-- [Code Smell 309 - Query Parameter API Versioning](https://dev.to/mcsee/code-smell-309-query-parameter-api-versioning-2opb)
-- [The sad truth 😞](https://dev.to/masterdevsabith/the-sad-truth-4d8e)
-- [Let’s unlock Synthetic Presence with SadTalker in Google Colab And Bring Images to Life](https://dev.to/ryanboscobanze/lets-unlock-synthetic-presence-with-sadtalker-in-google-colaband-bring-images-to-life-1dp3)
-- [WorryBox](https://dev.to/gigaelk/worrybox-2hmp)
+- [How I Almost Got Pwned - A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong](https://dev.to/dalenguyen/how-i-almost-got-pwned-a-tale-of-supply-chain-attacks-and-github-actions-gone-wrong-56oh)
+- [Gaussian Blur](https://dev.to/ikhwanal/gaussian-blur-4nnd)
+- [🚀 Day 12 of My DevOps Journey: Ansible — Configuration Management Made Simple ⚙️](https://dev.to/dankbhardwaj/day-12-of-my-devops-journey-ansible-configuration-management-made-simple-23pe)
+- [How to Join a PC to Active Directory—My Lazy Guide](https://dev.to/fakestandard/how-to-join-a-pc-to-active-directory-my-lazy-guide-5eee)
+- [What is Shadow DOM and How It’s Used in Chrome Extensions](https://dev.to/learcise_health/what-is-shadow-dom-and-how-its-used-in-chrome-extensions-5e7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
