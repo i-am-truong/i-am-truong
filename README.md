@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌿 I’m not an analyst. I just hear what the data is trying to say.](https://dev.to/medvedev013/im-not-an-analyst-i-just-hear-what-the-data-is-trying-to-say-2h6m)
-- [Understanding truthiness, falsiness, and the quiet meaning of emptiness in Python](https://dev.to/vivis_dev/understanding-truthiness-falsiness-and-the-quiet-meaning-of-emptiness-in-python-26il)
-- [How We Built AI That Prevents Cloud Incidents Before They Happen](https://dev.to/policycortex/how-we-built-ai-that-prevents-cloud-incidents-before-they-happen-1gka)
-- [🐍 I Write in Python Because It Knows How to Listen](https://dev.to/medvedev013/i-write-in-python-because-it-knows-how-to-listen-1ag)
-- [Top 5 Mistakes in Azure Data Factory &lpar;and How to Avoid Them&rpar;-by Phani Kota](https://dev.to/phani_kota/top-5-mistakes-in-azure-data-factory-and-how-to-avoid-them-e27)
+- [The Swift Android Setup I Always Wanted](https://dev.to/swiftstream/the-swift-android-setup-i-always-wanted-285d)
+- [Code Smell 309 - Query Parameter API Versioning](https://dev.to/mcsee/code-smell-309-query-parameter-api-versioning-2opb)
+- [The sad truth 😞](https://dev.to/masterdevsabith/the-sad-truth-4d8e)
+- [Let’s unlock Synthetic Presence with SadTalker in Google Colab And Bring Images to Life](https://dev.to/ryanboscobanze/lets-unlock-synthetic-presence-with-sadtalker-in-google-colaband-bring-images-to-life-1dp3)
+- [WorryBox](https://dev.to/gigaelk/worrybox-2hmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
