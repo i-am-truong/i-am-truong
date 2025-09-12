@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qantler interview Experince](https://dev.to/vigneshwaralingam/qantler-interview-experince-421e)
-- [AWS Summit Toronto 2025 Reflections from Two Inspiring Days](https://dev.to/aws-builders/aws-summit-toronto-2025-reflections-from-two-inspiring-days-1imb)
-- [Mastering Makefiles: From Beginner Basics to Pro-Level Patterns and Tricks](https://dev.to/shrsv/mastering-makefiles-from-beginner-basics-to-pro-level-patterns-and-tricks-p72)
-- [Days 24-27: Family Time and the Real Value of the 4-Hour Workday](https://dev.to/clayroach/days-24-27-family-time-and-the-real-value-of-the-4-hour-workday-1d5k)
-- [How I Automated Document Insights Using AWS Textract, Bedrock, and QuickSight](https://dev.to/aws-builders/how-i-automated-document-insights-using-aws-textract-bedrock-and-quicksight-h7p)
+- [COLORS: Negros Tou Moria - To Deltio | A COLORS SHOW](https://dev.to/music_youtube/colors-negros-tou-moria-to-deltio-a-colors-show-351a)
+- [KEXP: Japanese Breakfast - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-full-performance-live-on-kexp-4bfk)
+- [Noclip: Announcing /noclip&#39;s Brand New Channel](https://dev.to/gg_news/noclip-announcing-noclips-brand-new-channel-4ab2)
+- [GameSpot: Fire Emblem: Fortune’s Weave - Official Announcement Trailer](https://dev.to/gg_news/gamespot-fire-emblem-fortunes-weave-official-announcement-trailer-1mm9)
+- [GameSpot: Every Announcement from the Nintendo Direct September 2025](https://dev.to/gg_news/gamespot-every-announcement-from-the-nintendo-direct-september-2025-mhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
