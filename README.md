@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nifi Bundle Release Announcement](https://dev.to/david_kjerrumgaard_d31d7e/nifi-bundle-release-announcement-563i)
+- [Glyph.Flow DevLog #5 — From Alpha to First Release &lpar;v0.1.0&rpar;](https://dev.to/daemonic01/glyphflow-devlog-5-from-alpha-to-first-release-v010-l5p)
 - [AI&#39;s Spatial Blind Spot: Why Brain-Inspired Navigation is the Next Frontier by Arvind Sundararajan](https://dev.to/arvindsundararajan/ais-spatial-blind-spot-why-brain-inspired-navigation-is-the-next-frontier-by-arvind-sundararajan-3kpo)
 - [OSD600 - Lab1](https://dev.to/oleksandrakordonets/osd600-lab1-33mp)
 - [Column-Oriented Databases: A Technical Overview](https://dev.to/gervaisamoah/column-oriented-databases-a-technical-overview-11mj)
-- [GameSpot: CRITICAL REFLEX TIME Showcase](https://dev.to/gg_news/gamespot-critical-reflex-time-showcase-3dje)
-- [IGN: Nioh 3 Takes the Fastest Soulslike and Speeds it Up Even More](https://dev.to/gg_news/ign-nioh-3-takes-the-fastest-soulslike-and-speeds-it-up-even-more-5g48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
