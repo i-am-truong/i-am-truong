@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20250912: Issues with Azure DevOp](https://dev.to/nfc-charles/devlog-20250912-issues-with-azure-devop-1eam)
-- [Web Design and Development Chicago – Experts Web Designs](https://dev.to/experts_webdesigns_06080/web-design-and-development-chicago-experts-web-designs-4l1m)
-- [Unlocking the Future with AI Agents: A New Era of Automation and Innovation](https://dev.to/onlineproxy/unlocking-the-future-with-ai-agents-a-new-era-of-automation-and-innovation-k77)
-- [Security news weekly round-up - 12th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-12th-september-2025-183f)
-- [🔐 My DevOps Journey: Part 3 — Linux Users, Groups, Permissions &amp; Package Managers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-3-linux-users-groups-permissions-package-managers-3go9)
+- [RowSwift: A Simple CSV Analyzer for iOS](https://dev.to/juandes/rowswift-a-simple-csv-analyzer-for-ios-4g4a)
+- [Middleware in .Net](https://dev.to/themuhsinoglu/middleware-in-net-2m2f)
+- [Row vs. Columnar Data Stores: Why Your Choice Matters More Than You Think](https://dev.to/gervaisamoah/row-vs-columnar-data-stores-why-your-choice-matters-more-than-you-think-2h11)
+- [Building a Free AI-Powered ATS Checker: From Problem to Production](https://dev.to/borhan_uddin_6231c1db7270/building-a-free-ai-powered-ats-checker-from-problem-to-production-5973)
+- [Hype-Driven Development: The Biggest Problem in Modern Software](https://dev.to/berkaybindebir/hype-driven-development-the-biggest-problem-in-modern-software-2lap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
