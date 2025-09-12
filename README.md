@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevLog 20250912: Issues with Azure DevOp](https://dev.to/nfc-charles/devlog-20250912-issues-with-azure-devop-1eam)
+- [Web Design and Development Chicago – Experts Web Designs](https://dev.to/experts_webdesigns_06080/web-design-and-development-chicago-experts-web-designs-4l1m)
 - [Unlocking the Future with AI Agents: A New Era of Automation and Innovation](https://dev.to/onlineproxy/unlocking-the-future-with-ai-agents-a-new-era-of-automation-and-innovation-k77)
 - [Security news weekly round-up - 12th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-12th-september-2025-183f)
 - [🔐 My DevOps Journey: Part 3 — Linux Users, Groups, Permissions &amp; Package Managers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-3-linux-users-groups-permissions-package-managers-3go9)
-- [Choosing Technologies: The Beauty and the Beast Trap](https://dev.to/igorfragadev/choosing-technologies-the-beauty-and-the-beast-trap-2b0e)
-- [Automating Hub &amp; Spoke Secure Azure Networks with Terraform &lpar;IaC&rpar; &amp; Azure Firewalls](https://dev.to/boye88/automating-hub-spoke-secure-azure-networks-with-terraform-iac-azure-firewalls-54l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
