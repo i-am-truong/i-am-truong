@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to set up Identity Federation between Google Cloud and Oracle Cloud](https://dev.to/farisdurrani/how-to-set-up-identity-federation-between-google-cloud-and-oracle-cloud-1a43)
 - [RowSwift: A Simple CSV Analyzer for iOS](https://dev.to/juandes/rowswift-a-simple-csv-analyzer-for-ios-4g4a)
 - [Middleware in .Net](https://dev.to/themuhsinoglu/middleware-in-net-2m2f)
 - [Row vs. Columnar Data Stores: Why Your Choice Matters More Than You Think](https://dev.to/gervaisamoah/row-vs-columnar-data-stores-why-your-choice-matters-more-than-you-think-2h11)
 - [Building a Free AI-Powered ATS Checker: From Problem to Production](https://dev.to/borhan_uddin_6231c1db7270/building-a-free-ai-powered-ats-checker-from-problem-to-production-5973)
-- [Hype-Driven Development: The Biggest Problem in Modern Software](https://dev.to/berkaybindebir/hype-driven-development-the-biggest-problem-in-modern-software-2lap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
