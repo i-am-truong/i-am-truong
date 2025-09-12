@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AC to DC: Taming Electricity for Tiny Stars 🌌](https://dev.to/ersajay/ac-to-dc-taming-electricity-for-tiny-stars-3iih)
+- [Top 10 Open Source Side Projects You Can Build on a Weekend](https://dev.to/therealmrmumba/top-10-open-source-side-projects-you-can-build-on-a-weekend-131i)
+- [Trump&#39;s &quot;Anti-Semitism&quot; Plot: Igniting the Fuse of Infighting within the Jewish Community](https://dev.to/dolly219/trumps-anti-semitism-plot-igniting-the-fuse-of-infighting-within-the-jewish-community-56k8)
 - [Can You Even Use Jump Links in Angular? &lpar;Yes… Here’s How&rpar;](https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2)
-- [LLM Prompting Techniques](https://dev.to/shajam/llm-prompting-techniques-3clf)
-- [Traceroute Command: Diagnose Network Issues Fast](https://dev.to/serveravatar/traceroute-command-diagnose-network-issues-fast-1kcn)
-- [Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” into Velocity](https://dev.to/subara3/let-the-agent-fly-how-kiros-spec-driven-loop-turns-documentation-absolutism-into-velocity-38ac)
-- [Lessons &amp; Practices for Building and Optimizing Multi-Agent RAG Systems with DSPy and GEPA](https://dev.to/sky_yv_11b3d5d44877d27276/lessons-practices-for-building-and-optimizing-multi-agent-rag-systems-with-dspy-and-gepa-2lh7)
+- [Checking object existence in large AWS S3 buckets using Python and PySpark](https://dev.to/bgorski/checking-object-existence-in-large-aws-s3-buckets-using-python-and-pyspark-1ig0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
