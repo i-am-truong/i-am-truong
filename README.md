@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Education Track Submission - AI Learning Project](https://dev.to/aariff/my-education-track-submission-ai-learning-project-4hhj)
-- [Testando debounce e throttle no React com Jest [setTimeout]](https://dev.to/vitorrios1001/testando-debounce-e-throttle-no-react-com-jest-settimeout-2gpn)
-- [Proud to see our project DCRCA Agent featured by Portia after winning #AgentHack2025 🙌. Grateful to the community and my amazing teammates for making this possible!&quot;](https://dev.to/anuj123upadhyay/proud-to-see-our-project-dcrca-agent-featured-by-portia-after-winning-agenthack2025-grateful-to-5dc6)
-- [Backend Development: The Hidden Power Behind Every App ⚡](https://dev.to/jpraiseofficial/backend-development-the-hidden-power-behind-every-app-25de)
-- [The Blockchain Trilemma: Can We Achieve Security, Scalability, and Decentralization?](https://dev.to/dsotec/the-blockchain-trilemma-can-we-achieve-security-scalability-and-decentralization-5cb4)
+- [Mastering AI Logo Creation: My Proven Prompt Framework and Community Tips Exchange](https://dev.to/aariff/mastering-ai-logo-creation-my-proven-prompt-framework-and-community-tips-exchange-2ban)
+- [Adding Cache to NestJS Services Made Easy](https://dev.to/antkl/adding-cache-to-nestjs-services-made-easy-448b)
+- [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
+- [Why I Switched from Burp Suite to ZeroThreat for App Security](https://dev.to/sambishop/why-i-switched-from-burp-suite-to-zerothreat-for-app-security-p2p)
+- [EdgeBERT: I Built My Own Neural Network Inference Engine in Rust](https://dev.to/olafur_aron/edgebert-i-built-my-own-neural-network-inference-engine-in-rust-3l29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
