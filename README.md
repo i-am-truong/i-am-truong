@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLM Prompting Techniques](https://dev.to/shajam/llm-prompting-techniques-3clf)
 - [Traceroute Command: Diagnose Network Issues Fast](https://dev.to/serveravatar/traceroute-command-diagnose-network-issues-fast-1kcn)
 - [Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” into Velocity](https://dev.to/subara3/let-the-agent-fly-how-kiros-spec-driven-loop-turns-documentation-absolutism-into-velocity-38ac)
 - [Lessons &amp; Practices for Building and Optimizing Multi-Agent RAG Systems with DSPy and GEPA](https://dev.to/sky_yv_11b3d5d44877d27276/lessons-practices-for-building-and-optimizing-multi-agent-rag-systems-with-dspy-and-gepa-2lh7)
 - [Why Most AI Agents Fail in Production &lpar;And How to Build Ones That Don’t&rpar;](https://dev.to/sky_yv_11b3d5d44877d27276/why-most-ai-agents-fail-in-production-and-how-to-build-ones-that-dont-1c00)
-- [Top Features of C Language Every Beginner Should Know](https://dev.to/suraj_kumar_fb57ae0928df2/top-features-of-c-language-every-beginner-should-know-235e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
