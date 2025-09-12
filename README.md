@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Fields: A Data-Driven Look at Kenya’s Agricultural Productivity](https://dev.to/loi2008/beyond-the-fields-a-data-driven-look-at-kenyas-agricultural-productivity-4n8n)
-- [Vegi: Vegetables are not Aliens](https://dev.to/mikkel_frimerrasmussen_9/vegi-vegetables-are-not-aliens-1587)
-- [The Alchemist&#39;s Endgame: My Final Synthesis of p-adic Clojure and Legacy Code.](https://dev.to/p_pumulo/the-alchemists-endgame-my-final-synthesis-of-p-adic-clojure-and-legacy-code-1ije)
-- [Scratching My Own Itch](https://dev.to/tajudeen_abdulgafar_e0363/scratching-my-own-itch-building-a-tool-to-stop-copy-pasting-code-to-chatgpt-4ki0)
-- [Barbie vs Zombies – Mini Witch Mode Game Prototype](https://dev.to/cutieyunnytech/barbie-vs-zombies-mini-witch-mode-game-prototype-26kh)
+- [Toggle This: Feature Flags in Angular](https://dev.to/mthobis41586080/toggle-this-feature-flags-in-angular-34jj)
+- [No Laying Up Podcast: Seamsters Union - Heading for Home | Trap Draw, Ep 358](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-heading-for-home-trap-draw-ep-358-508c)
+- [Bryan Bros Golf: Golf Match w/ Linkin Park!](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-w-linkin-park-2kgg)
+- [GameSpot: The Super Mario Galaxy Movie | Official Title Announcement Trailer](https://dev.to/gg_news/gamespot-the-super-mario-galaxy-movie-official-title-announcement-trailer-3c5d)
+- [GameSpot: Yoshi And The Mysterious Book - Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-yoshi-and-the-mysterious-book-official-gameplay-reveal-trailer-1h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
