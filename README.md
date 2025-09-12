@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scammers Are Using Ton to Steal on Telegram](https://dev.to/scofieldidehen/scammers-are-using-ton-to-steal-on-telegram-39nm)
+- [How to Send RCS Rich Card Carousels With Node.js](https://dev.to/vonagedev/how-to-send-rcs-rich-card-carousels-with-nodejs-15n6)
 - [The TON Scam Surge: Telegram’s Crypto Revolution Gone Wrong](https://dev.to/dhis_is_jj/the-ton-scam-surge-telegrams-crypto-revolution-gone-wrong-1h66)
 - [🚀 Gestión de estado en React](https://dev.to/pwalvarado/gestion-de-estado-en-react-2d34)
 - [getState](https://dev.to/pwalvarado/getstate-3256)
-- [This Is How I Deploy My SSH App](https://dev.to/hiro_111/this-is-how-i-deploy-my-ssh-app-k6i)
-- [Rust vs. Your Next JavaScript Framework: Which Should You Learn?](https://dev.to/francescoxx/rust-vs-your-next-javascript-framework-which-should-you-learn-24pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
