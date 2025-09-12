@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI&#39;s Spatial Blind Spot: Why Brain-Inspired Navigation is the Next Frontier by Arvind Sundararajan](https://dev.to/arvindsundararajan/ais-spatial-blind-spot-why-brain-inspired-navigation-is-the-next-frontier-by-arvind-sundararajan-3kpo)
+- [OSD600 - Lab1](https://dev.to/oleksandrakordonets/osd600-lab1-33mp)
+- [Column-Oriented Databases: A Technical Overview](https://dev.to/gervaisamoah/column-oriented-databases-a-technical-overview-11mj)
 - [GameSpot: CRITICAL REFLEX TIME Showcase](https://dev.to/gg_news/gamespot-critical-reflex-time-showcase-3dje)
 - [IGN: Nioh 3 Takes the Fastest Soulslike and Speeds it Up Even More](https://dev.to/gg_news/ign-nioh-3-takes-the-fastest-soulslike-and-speeds-it-up-even-more-5g48)
-- [IGN: Borderlands 4 - Official &#39;Claptrap Needs Friends&#39; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-claptrap-needs-friends-trailer-306d)
-- [Create a sample resume and Push to GitHub Pages.](https://dev.to/onyemuche/create-a-sample-resume-and-push-to-github-pages-3l2h)
-- [Veri v0.4.0 – Multi-Tenancy Update for the Rails Authentication Gem](https://dev.to/njk42/veri-v040-multi-tenancy-update-for-the-rails-authentication-gem-3nb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
