@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Security in Front-End Applications &lpar;React&rpar;](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
-- [🏢 Enterprise Design Patterns: From Fowler’s Catalog to Real Code](https://dev.to/cesar_nikolascamacmelen/enterprise-design-patterns-from-fowlers-catalog-to-real-code-58d8)
-- [ParaThinker: AI Breaks Through with Parallel Thought](https://dev.to/aiwithapex/parathinker-ai-breaks-through-with-parallel-thought-3hic)
-- [Setup of react native cli 0.81](https://dev.to/iamdeveshsingh/setup-of-react-native-cli-081-3ja)
-- [Selenium vs Cypress: Which Browser Testing Tool Should You Choose?](https://dev.to/misterankit/selenium-vs-cypress-which-browser-testing-tool-should-you-choose-52m3)
+- [🏠 RoomAI: Your Personal Interior Designer Powered by Multimodal AI](https://dev.to/bowen007/roomai-your-personal-interior-designer-powered-by-multimodal-ai-1oi7)
+- [#DAY 6: Closing the On-Prem Loop](https://dev.to/samueladeduntan/day-6-closing-the-on-prem-loop-5923)
+- [The Great Unification: Why QA and Data Science are Becoming Inseparable](https://dev.to/vaibhavkuls/the-great-unification-why-qa-and-data-science-are-becoming-inseparable-1iaa)
+- [New Here](https://dev.to/oxygen002/new-here-4n6l)
+- [# EP 6 — Why Multi-Agent Orchestration Collapses &lpar;Deadlocks, Infinite Loops, and Memory Overwrites in AI Pipelines&rpar;](https://dev.to/onestardao/-ep-6-why-multi-agent-orchestration-collapses-deadlocks-infinite-loops-and-memory-overwrites-1e52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
