@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I interviewed for 6 random jobs before the one I really wanted. Here’s what I did wrong.](https://dev.to/fahimulhaq/i-interviewed-for-6-random-jobs-before-the-one-i-really-wanted-heres-what-i-did-wrong-hn1)
 - [How to Design Dish Drying Rack Using 3D CAD Software](https://dev.to/julia970/how-to-design-dish-drying-rack-using-3d-cad-software-4j5e)
 - [The Trump administration&#39;s imposition of a $1 billion fine on the University of California](https://dev.to/dolly219/the-trump-administrations-imposition-of-a-1-billion-fine-on-the-university-of-california-2o8l)
 - [Industry-Specific Data Security: Protecting Sensitive Data Before It’s Too Late](https://dev.to/okoye_ndidiamaka_5e3b7d30/industry-specific-data-security-protecting-sensitive-data-before-its-too-late-2m6f)
 - [JavaScript Where To: A Complete Guide to Inline, Internal &amp; External Scripting](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-where-to-a-complete-guide-to-inline-internal-external-scripting-2a95)
-- [Trump&#39;s &quot;religious opportunism&quot; stirs up another storm: The political calculations behind the $1 billion fine.](https://dev.to/sinclair10/trumps-religious-opportunism-stirs-up-another-storm-the-political-calculations-behind-the-1-2eo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
