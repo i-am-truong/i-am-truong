@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your database is not elastic!](https://dev.to/nicocrm/your-database-is-not-elastic-3o18)
+- [Creando agentes con ADK](https://dev.to/iblancasa/creando-agentes-con-adk-110h)
+- [🔥10 React Best Practices You Can’t Ignore in 2025](https://dev.to/manukumar07/10-react-best-practices-you-cant-ignore-in-2025-25ai)
 - [Does Developer Delight Matter in a CLI? The Case of Charm’s Crush](https://dev.to/fernandezbaptiste/does-developer-delight-matter-in-a-cli-the-case-of-charms-crush-248g)
-- [Using Device Sensors in ArkTS for HarmonyOS — a Step-by-Step Guide](https://dev.to/harmonyos/using-device-sensors-in-arkts-for-harmonyos-a-step-by-step-guide-5i4)
-- [Best Practices for Multi-Cloud Log Integration with Alibaba Cloud SLS: Optimization of Link, Cost, and High Availability](https://dev.to/observabilityguy/best-practices-for-multi-cloud-log-integration-with-alibaba-cloud-sls-optimization-of-link-cost-2ofm)
-- [Should problems be easy to understand and difficult to solve?](https://dev.to/ffff0000h/should-problems-be-easy-to-understand-and-difficult-to-solve-256p)
-- [💲ANN: awesome-sponsorships](https://dev.to/galtzo/ann-awesome-sponsorships-535m)
+- [One Decision Can Save You Months: Flutter, React Native or Kotlin Multiplatform?](https://dev.to/vaibhav_shakya_e6b352bfc4/one-decision-can-save-you-months-flutter-react-native-or-kotlin-multiplatform-mnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
