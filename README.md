@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pi-hole v6: Setting up wildcard domains](https://dev.to/yoshi_homelab/pi-hole-v6-setting-up-wildcard-domains-3pbe)
-- [🚀 React Developer Roadmap 2025: Skills You NEED to Stay Ahead 💻✨](https://dev.to/zeescriptdev/react-developer-roadmap-2025-skills-you-need-to-stay-ahead-3f0f)
-- [How AI Tricks Us Into Trusting It](https://dev.to/agustin_v_startari/how-ai-tricks-us-into-trusting-it-33fp)
-- [Aluminum PCB Boards — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/aluminum-pcb-boards-an-engineers-practical-guide-3ibb)
-- [Multi-VM Blockchain Platform](https://dev.to/ramjan_khan_d29cfb1dc87fe/multi-vm-blockchain-platform-1027)
+- [Vegi: Vegetables are not Aliens](https://dev.to/mikkel_frimerrasmussen_9/vegi-vegetables-are-not-aliens-1587)
+- [The Alchemist&#39;s Endgame: My Final Synthesis of p-adic Clojure and Legacy Code.](https://dev.to/p_pumulo/the-alchemists-endgame-my-final-synthesis-of-p-adic-clojure-and-legacy-code-1ije)
+- [Scratching My Own Itch](https://dev.to/tajudeen_abdulgafar_e0363/scratching-my-own-itch-building-a-tool-to-stop-copy-pasting-code-to-chatgpt-4ki0)
+- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 4](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-4-481f)
+- [Enabling Dynamics 365 Outlook App](https://dev.to/nikhildynamicsce/enabling-dynamics-365-outlook-app-5cpl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
