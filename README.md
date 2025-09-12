@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB on AWS Lambda: The Easy Way with Layers](https://dev.to/bengeois/duckdb-on-aws-lambda-the-easy-way-with-layers-2o75)
-- [Build a Collaborative Inventory Dashboard with TanStack, Velt SDK and Kiro IDE⛵](https://dev.to/astrodevil/build-a-collaborative-inventory-dashboard-with-tanstack-velt-sdk-and-kiro-ide-2328)
-- [AWS vs OCI Services Comparison - Your Complete Guide for the OCI Foundations Certification](https://dev.to/davo_man/aws-vs-oci-services-comparison-your-complete-guide-for-the-oci-foundations-certification-55i8)
-- [Why Python is Revolutionizing Cybersecurity: The Psychology-Driven Approach That&#39;s Changing Everything](https://dev.to/kaolay/why-python-is-revolutionizing-cybersecurity-the-psychology-driven-approach-thats-changing-3k0d)
-- [APIs are everywhere. But how do we test them without breaking the bank?](https://dev.to/artibol/apis-are-everywhere-but-how-do-we-test-them-without-breaking-the-bank-2heh)
+- [Taming S3 Versioning Before It Blows Up Your Bill](https://dev.to/aaron_rose_0787cc8b4775a0/taming-s3-versioning-before-it-blows-up-your-bill-4gel)
+- [Healthcare App Submission — KendoReact Free Components Challenge](https://dev.to/mechon70x7/healthcare-app-submission-kendoreact-free-components-challenge-2h2h)
+- [100 Days of DevOps: Day 40](https://dev.to/wycliffealphus/100-days-of-devops-day-40-5382)
+- [Automated PostgreSQL Backups in Docker: Complete Guide with pg_dump](https://dev.to/dmdboi/automated-postgresql-backups-in-docker-complete-guide-with-pgdump-52a)
+- [Maintaining Arch Linux AUR Packages: Updating python-simple-term-menu to the Latest Release](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-updating-python-simple-term-menu-to-the-latest-release-5b73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
