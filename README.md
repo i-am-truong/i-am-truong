@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DuckDB on AWS Lambda: The Easy Way with Layers](https://dev.to/bengeois/duckdb-on-aws-lambda-the-easy-way-with-layers-2o75)
+- [Build a Collaborative Inventory Dashboard with TanStack, Velt SDK and Kiro IDE⛵](https://dev.to/astrodevil/build-a-collaborative-inventory-dashboard-with-tanstack-velt-sdk-and-kiro-ide-2328)
+- [AWS vs OCI Services Comparison - Your Complete Guide for the OCI Foundations Certification](https://dev.to/davo_man/aws-vs-oci-services-comparison-your-complete-guide-for-the-oci-foundations-certification-55i8)
+- [Why Python is Revolutionizing Cybersecurity: The Psychology-Driven Approach That&#39;s Changing Everything](https://dev.to/kaolay/why-python-is-revolutionizing-cybersecurity-the-psychology-driven-approach-thats-changing-3k0d)
 - [APIs are everywhere. But how do we test them without breaking the bank?](https://dev.to/artibol/apis-are-everywhere-but-how-do-we-test-them-without-breaking-the-bank-2heh)
-- [Pet Wallpaper Creator: Outfit Transfer Between Pets](https://dev.to/parul_pandey_0650ddaaba58/pet-wallpaper-creator-outfit-transfer-between-pets-3j1f)
-- [5 Killer Habits: Be A Rebel — A Book That Changed My Life](https://dev.to/ayush_ec125a40d4cf6595065/5-killer-habits-be-a-rebel-a-book-that-changed-my-life-4e3m)
-- [🚀 Super excited for HackSpire’25! 25 hours of coding, fun, food, goodies, T-shirts &amp; learning with brilliant minds. 💻✨](https://dev.to/debkanta_dey_09b98f7eebb9/super-excited-for-hackspire25-25-hours-of-coding-fun-food-goodies-t-shirts-learning-with-col)
-- [My Excitement for HackSpire’25 HackSpire’25 is just around the corner, and I couldn’t be more excited! 🚀✨ A 25-hour hackathon like this is not just about coding—it’s about pushing boundaries, collaborating with brilliant minds, and creating something imp](https://dev.to/debkanta_dey_09b98f7eebb9/my-excitement-for-hackspire25-hackspire25-is-just-around-the-corner-and-i-couldnt-be-more-1p09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
