@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Auth0 Authentication with NestJS Using Organizations &lpar;Multi-Tenant Setup&rpar;](https://dev.to/gad_ishimwe/integrating-auth0-authentication-with-nestjs-using-organizations-multi-tenant-setup-1567)
+- [Shout out to those who come into my life along the way and make me the most brilliant gem puji diri sendiri wpon cheater genius](https://dev.to/cutieyunnytech/shout-out-to-those-who-come-into-my-life-along-the-way-and-make-me-the-most-brilliant-gem-puji-diri-4j44)
+- [Title: Breaking the Norm: “Rojakness of Nadhirah” – My Indie Dev Journey](https://dev.to/cutieyunnytech/title-breaking-the-norm-rojakness-of-nadhirah-my-indie-dev-journey-6jk)
 - [AI Digital Twin for Manufacturing: How Darkonium Builds Adaptive Simulations with AI](https://dev.to/urbanhawktech/how-we-build-ai-powered-digital-twins-for-manufacturing-at-darkonium-3nhi)
 - [Something against norm](https://dev.to/cutieyunnytech/something-against-norm-3pl6)
-- [Latency Numbers Every Data Streaming Engineer Should Know](https://dev.to/david_kjerrumgaard_d31d7e/latency-numbers-every-data-streaming-engineer-should-know-13lp)
-- [Set up Customer.io HTTPS links tracking with Google Cloud Platform](https://dev.to/manuelmhtr/set-up-customerio-https-links-tracking-with-google-cloud-platform-pl2)
-- [Nifi Bundle Release Announcement](https://dev.to/david_kjerrumgaard_d31d7e/nifi-bundle-release-announcement-563i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
