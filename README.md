@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to set up Identity Federation between Google Cloud and Oracle Cloud](https://dev.to/farisdurrani/how-to-set-up-identity-federation-between-google-cloud-and-oracle-cloud-1a43)
-- [RowSwift: A Simple CSV Analyzer for iOS](https://dev.to/juandes/rowswift-a-simple-csv-analyzer-for-ios-4g4a)
-- [Middleware in .Net](https://dev.to/themuhsinoglu/middleware-in-net-2m2f)
-- [Row vs. Columnar Data Stores: Why Your Choice Matters More Than You Think](https://dev.to/gervaisamoah/row-vs-columnar-data-stores-why-your-choice-matters-more-than-you-think-2h11)
-- [Building a Free AI-Powered ATS Checker: From Problem to Production](https://dev.to/borhan_uddin_6231c1db7270/building-a-free-ai-powered-ats-checker-from-problem-to-production-5973)
+- [GameSpot: CRITICAL REFLEX TIME Showcase](https://dev.to/gg_news/gamespot-critical-reflex-time-showcase-3dje)
+- [IGN: Nioh 3 Takes the Fastest Soulslike and Speeds it Up Even More](https://dev.to/gg_news/ign-nioh-3-takes-the-fastest-soulslike-and-speeds-it-up-even-more-5g48)
+- [IGN: Borderlands 4 - Official &#39;Claptrap Needs Friends&#39; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-claptrap-needs-friends-trailer-306d)
+- [Create a sample resume and Push to GitHub Pages.](https://dev.to/onyemuche/create-a-sample-resume-and-push-to-github-pages-3l2h)
+- [Veri v0.4.0 – Multi-Tenancy Update for the Rails Authentication Gem](https://dev.to/njk42/veri-v040-multi-tenancy-update-for-the-rails-authentication-gem-3nb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
