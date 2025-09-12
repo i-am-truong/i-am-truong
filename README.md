@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing the Best Screenshot API in 2025: A Developer’s Guide](https://dev.to/mukul_sharma/choosing-the-best-screenshot-api-in-2025-a-developers-guide-79)
+- [Bug in CloudFront&#39;s Continuous Deployment Feature](https://dev.to/aws-builders/bug-in-cloudfronts-continuous-deployment-features-47ok)
+- [The Dual Peril: Mustafa Suleyman&#39;s Stark Warning on Superintelligence and Mimicked Consciousness](https://dev.to/yathin_chandra_649b921cc6/the-dual-peril-mustafa-suleymans-stark-warning-on-superintelligence-and-mimicked-consciousness-5a8f)
 - [Your database is not elastic!](https://dev.to/nicocrm/your-database-is-not-elastic-3o18)
-- [Creando agentes con ADK](https://dev.to/iblancasa/creando-agentes-con-adk-110h)
-- [🔥10 React Best Practices You Can’t Ignore in 2025](https://dev.to/manukumar07/10-react-best-practices-you-cant-ignore-in-2025-25ai)
-- [Does Developer Delight Matter in a CLI? The Case of Charm’s Crush](https://dev.to/fernandezbaptiste/does-developer-delight-matter-in-a-cli-the-case-of-charms-crush-248g)
-- [One Decision Can Save You Months: Flutter, React Native or Kotlin Multiplatform?](https://dev.to/vaibhav_shakya_e6b352bfc4/one-decision-can-save-you-months-flutter-react-native-or-kotlin-multiplatform-mnf)
+- [The Secret Life of Your Files: Why Computers Store Data Like a Filing Cabinet](https://dev.to/vickdapro/the-secret-life-of-your-files-why-computers-store-data-like-a-filing-cabinet-15hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
