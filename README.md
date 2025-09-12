@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [APIs are everywhere. But how do we test them without breaking the bank?](https://dev.to/artibol/apis-are-everywhere-but-how-do-we-test-them-without-breaking-the-bank-2heh)
 - [Pet Wallpaper Creator: Outfit Transfer Between Pets](https://dev.to/parul_pandey_0650ddaaba58/pet-wallpaper-creator-outfit-transfer-between-pets-3j1f)
-- [Extension Members: My New Favourite Feature in C# 14](https://dev.to/grantdotdev/extension-members-my-new-favourite-feature-in-c-14-23f1)
-- [Learn Bash Scripting With Me 🚀 - Day 3](https://dev.to/babsarena/learn-bash-scripting-with-me-day-3-4kib)
-- [🔄 LIFO in Java](https://dev.to/mohamad_mhana/lifo-in-java-1mkf)
-- [Building a Mobile App with Ionic, Vue, and Clerk](https://dev.to/aaronksaunders/building-a-mobile-app-with-ionic-vue-and-clerk-1dkl)
+- [5 Killer Habits: Be A Rebel — A Book That Changed My Life](https://dev.to/ayush_ec125a40d4cf6595065/5-killer-habits-be-a-rebel-a-book-that-changed-my-life-4e3m)
+- [🚀 Super excited for HackSpire’25! 25 hours of coding, fun, food, goodies, T-shirts &amp; learning with brilliant minds. 💻✨](https://dev.to/debkanta_dey_09b98f7eebb9/super-excited-for-hackspire25-25-hours-of-coding-fun-food-goodies-t-shirts-learning-with-col)
+- [My Excitement for HackSpire’25 HackSpire’25 is just around the corner, and I couldn’t be more excited! 🚀✨ A 25-hour hackathon like this is not just about coding—it’s about pushing boundaries, collaborating with brilliant minds, and creating something imp](https://dev.to/debkanta_dey_09b98f7eebb9/my-excitement-for-hackspire25-hackspire25-is-just-around-the-corner-and-i-couldnt-be-more-1p09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
