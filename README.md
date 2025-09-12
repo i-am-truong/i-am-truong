@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Toggle This: Feature Flags in Angular](https://dev.to/mthobis41586080/toggle-this-feature-flags-in-angular-34jj)
-- [No Laying Up Podcast: Seamsters Union - Heading for Home | Trap Draw, Ep 358](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-heading-for-home-trap-draw-ep-358-508c)
-- [Bryan Bros Golf: Golf Match w/ Linkin Park!](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-w-linkin-park-2kgg)
-- [GameSpot: The Super Mario Galaxy Movie | Official Title Announcement Trailer](https://dev.to/gg_news/gamespot-the-super-mario-galaxy-movie-official-title-announcement-trailer-3c5d)
-- [GameSpot: Yoshi And The Mysterious Book - Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-yoshi-and-the-mysterious-book-official-gameplay-reveal-trailer-1h5)
+- [What Are Flash Loans?](https://dev.to/scofieldidehen/what-are-flash-loans-dl9)
+- [Python Basics: Mutable vs Immutable Explained &lpar;with Local Analogies&rpar;](https://dev.to/parthi_rp/python-basics-mutable-vs-immutable-explained-with-local-analogies-1lkj)
+- [📊Unlocking the power of SQL: Subqueries, CTEs, and Stored Procedures Demystified](https://dev.to/loi2008/unlocking-the-power-of-sql-subqueries-ctes-and-stored-procedures-demystified-4aci)
+- [Day 18 of 100 - Reflection.](https://dev.to/lyop_achayi/day-18-of-100-reflection-146)
+- [High-Paying, Low-Competition Languages for Software Engineers](https://dev.to/progressiveprogrammer/high-paying-low-competition-languages-for-software-engineers-iic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
