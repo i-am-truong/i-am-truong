@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Contexta AI](https://dev.to/barak_codes/contexta-ai-29ai)
+- [Accelerating the Agent Economy: Building and Deploying MCP Servers with Contexta AI](https://dev.to/om_shree_0709/accelerating-the-agent-economy-building-and-deploying-mcp-servers-with-contexta-ai-41p8)
+- [Why Homepage Clarity Decides Whether You Win or Lose Customers](https://dev.to/etsmuhammadhassan/why-homepage-clarity-decides-whether-you-win-or-lose-customers-2igd)
 - [AI-Powered Cloud Cost Management: Architect’s Guide to AWS Billing MCP Server](https://dev.to/aws-builders/ai-powered-cloud-cost-management-architects-guide-to-aws-billing-mcp-server-3gao)
 - [C# partial keyword usage](https://dev.to/karenpayneoregon/c-partial-keyword-usage-4j6c)
-- [I am trying to create an ocr for Farsi language which could have a sophisticated results with old Persian texts. Here I&#39;ve shared a small tool on this journey with you. Please share your thoughts. I&#39;m very interested in to find a team worker on this ;&rpar;](https://dev.to/babak271/i-am-trying-to-create-an-ocr-for-farsi-language-which-could-have-a-sophisticated-results-with-old-4ek0)
-- [Unlock Robot Speed: Decoupling &#39;Seeing&#39; and &#39;Doing&#39;](https://dev.to/arvindsundararajan/unlock-robot-speed-decoupling-seeing-and-doing-2l4e)
-- [Farsi Image generator](https://dev.to/babak271/farsi-image-generator-3jac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
