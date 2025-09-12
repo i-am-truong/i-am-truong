@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-45: Cloud Functions with HTTPS in GCP](https://dev.to/latchudevops/part-45-cloud-functions-with-https-in-gcp-3c24)
+- [The Side Project Formula: How 2 Hours Weekly Built My $50K Passive Income Stream](https://dev.to/teamcamp/the-side-project-formula-how-2-hours-weekly-built-my-50k-passive-income-stream-3gho)
 - [Unleashing AI Speed: Decoupling Perception for Blazing-Fast Robots by Arvind Sundararajan](https://dev.to/arvindsundararajan/unleashing-ai-speed-decoupling-perception-for-blazing-fast-robots-by-arvind-sundararajan-5eia)
 - [[Boost]](https://dev.to/varshithvhegde/-48pg)
 - [How to deploy Spring Boot Application on Google Cloud Run using Cloud Build - ANIL LALAM](https://dev.to/anil_lalam_2cee9c52a20a39/how-to-deploy-spring-boot-application-on-google-cloud-run-using-cloud-build-anil-lalam-8lc)
-- [Is it fair to fear AI?](https://dev.to/wdp/is-it-fair-to-fear-ai-22pn)
-- [IGN: Hollow Knight: Silksong Battle Arena/Locked Room - Birds Fight &lpar;Greymoor&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-battle-arenalocked-room-birds-fight-greymoor-188o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
