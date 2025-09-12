@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Security in Front-End Applications &lpar;React&rpar;](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
+- [🏢 Enterprise Design Patterns: From Fowler’s Catalog to Real Code](https://dev.to/cesar_nikolascamacmelen/enterprise-design-patterns-from-fowlers-catalog-to-real-code-58d8)
+- [ParaThinker: AI Breaks Through with Parallel Thought](https://dev.to/aiwithapex/parathinker-ai-breaks-through-with-parallel-thought-3hic)
+- [Setup of react native cli 0.81](https://dev.to/iamdeveshsingh/setup-of-react-native-cli-081-3ja)
 - [Selenium vs Cypress: Which Browser Testing Tool Should You Choose?](https://dev.to/misterankit/selenium-vs-cypress-which-browser-testing-tool-should-you-choose-52m3)
-- [Part-45: Cloud Functions with HTTPS in GCP](https://dev.to/latchudevops/part-45-cloud-functions-with-https-in-gcp-3c24)
-- [The Side Project Formula: How 2 Hours Weekly Built My $50K Passive Income Stream](https://dev.to/teamcamp/the-side-project-formula-how-2-hours-weekly-built-my-50k-passive-income-stream-3gho)
-- [Unleashing AI Speed: Decoupling Perception for Blazing-Fast Robots by Arvind Sundararajan](https://dev.to/arvindsundararajan/unleashing-ai-speed-decoupling-perception-for-blazing-fast-robots-by-arvind-sundararajan-5eia)
-- [[Boost]](https://dev.to/varshithvhegde/-48pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
