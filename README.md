@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Great Developer Is Always a Learner](https://dev.to/faizancheema893/a-great-developer-is-always-a-learner-k7b)
 - [Enabling Small Businesses to Invoice in Regional Currencies](https://dev.to/flutterwaveeng/enabling-small-businesses-to-invoice-in-regional-currencies-9ih)
-- [Check this out Article on Building &amp; Visualizing Neural Networks in R — 2025 Edition](https://dev.to/dipti26810/check-this-out-article-on-building-visualizing-neural-networks-in-r-2025-edition-1605)
-- [AI Thought Visualizer ✨](https://dev.to/vero-code/ai-thought-visualizer-id1)
-- [Building &amp; Visualizing Neural Networks in R — 2025 Edition](https://dev.to/dipti26810/building-visualizing-neural-networks-in-r-2025-edition-39ca)
-- [Day-92,93 Understanding Spring and Spring Boot](https://dev.to/tamilselvan1812/day-9293-understanding-spring-and-spring-boot-1l67)
+- [Demo Guide: Running AWS Billing &amp; Cost Management MCP Server Locally with Q CLI](https://dev.to/prithiviraj_rengarajan/demo-guide-running-aws-billing-cost-management-mcp-server-locally-with-q-cli-1g4p)
+- [My Awesome Test Article](https://dev.to/ahmed_richdale_33038aaed4/my-awesome-test-article-8am)
+- [5 Hard-Learned Lessons About Image Optimization at Scale](https://dev.to/doongjo/5-hard-learned-lessons-about-image-optimization-at-scale-25g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
