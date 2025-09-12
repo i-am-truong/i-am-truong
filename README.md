@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Demystifying the Factory Method Pattern with a Manabita Twist](https://dev.to/edzamo/demystifying-the-factory-method-pattern-with-a-manabita-twist-ne6)
+- [🧠 Desmitificando el Patrón Factory Method con un Toque Manabita](https://dev.to/edzamo/desmitificando-el-patron-factory-method-con-un-toque-manabita-1a67)
+- [FSCSS CDN](https://dev.to/fscss/fscss-cdn-jp1)
 - [💼 How DevOps Transforms Your Business into a War Machine](https://dev.to/tavernetech/how-devops-transforms-your-business-into-a-war-machine-39km)
-- [Zikrah Audit Logging](https://dev.to/scarabdata/zikrah-audit-logging-46pd)
-- [Integrating Auth0 Authentication with NestJS Using Organizations &lpar;Multi-Tenant Setup&rpar;](https://dev.to/gad_ishimwe/integrating-auth0-authentication-with-nestjs-using-organizations-multi-tenant-setup-1567)
-- [Shout out to those who come into my life along the way and make me the most brilliant gem puji diri sendiri wpon cheater genius](https://dev.to/cutieyunnytech/shout-out-to-those-who-come-into-my-life-along-the-way-and-make-me-the-most-brilliant-gem-puji-diri-4j44)
-- [Title: Breaking the Norm: “Rojakness of Nadhirah” – My Indie Dev Journey](https://dev.to/cutieyunnytech/title-breaking-the-norm-rojakness-of-nadhirah-my-indie-dev-journey-6jk)
+- [My Mini Productivity &amp; Reflection App – Inspired by iPhone Journal and spiritual experiences journal article](https://dev.to/cutieyunnytech/my-mini-productivity-reflection-app-inspired-by-iphone-journal-1f25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
