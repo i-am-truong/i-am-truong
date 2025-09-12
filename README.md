@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 93: The Exhaustion Behind the Expertise](https://dev.to/casperday11/day-93-the-exhaustion-behind-the-expertise-4emc)
-- [How to Design for Users Who Can’t Focus](https://dev.to/lovestaco/how-to-design-for-users-who-cant-focus-57i0)
-- [Days 29-30: Mission Accomplished - Building an Enterprise Platform in 80 Hours with 37% Time Off](https://dev.to/clayroach/days-29-30-mission-accomplished-building-an-enterprise-platform-in-80-hours-with-37-time-off-529m)
-- [MCP Server Executables Explained: npx, uvx, Docker, and Beyond](https://dev.to/leomarsh/mcp-server-executables-explained-npx-uvx-docker-and-beyond-1i1n)
-- [Compliance Sentinel: AI-Powered Multi-Language Security Analysis Platform](https://dev.to/kalisnetwork/compliance-sentinel-ai-powered-multi-language-security-analysis-platform-3jh)
+- [AirPods Live Translation: Useful Innovation or Hidden Risk?](https://dev.to/alifar/airpods-live-translation-useful-innovation-or-hidden-risk-55md)
+- [Hello Elm: Your First Steps in Browser-Based Programming](https://dev.to/rijultp/hello-elm-your-first-steps-in-browser-based-programming-1536)
+- [Introducing MoroJS: A TypeScript-First API Framework Faster Than Express &amp; Fastify](https://dev.to/keeno12/introducing-morojs-a-typescript-first-api-framework-faster-than-express-fastify-36n3)
+- [Motion Alchemy: Turning Data into Graceful Robot Movement](https://dev.to/arvindsundararajan/motion-alchemy-turning-data-into-graceful-robot-movement-b2e)
+- [Python Strings &amp; Memory: What Every Junior Developer Should Know](https://dev.to/aaron_rose_0787cc8b4775a0/python-strings-memory-what-every-junior-developer-should-know-56f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
