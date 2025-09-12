@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Future with AI Agents: A New Era of Automation and Innovation](https://dev.to/onlineproxy/unlocking-the-future-with-ai-agents-a-new-era-of-automation-and-innovation-k77)
+- [Security news weekly round-up - 12th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-12th-september-2025-183f)
+- [🔐 My DevOps Journey: Part 3 — Linux Users, Groups, Permissions &amp; Package Managers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-3-linux-users-groups-permissions-package-managers-3go9)
 - [Choosing Technologies: The Beauty and the Beast Trap](https://dev.to/igorfragadev/choosing-technologies-the-beauty-and-the-beast-trap-2b0e)
 - [Automating Hub &amp; Spoke Secure Azure Networks with Terraform &lpar;IaC&rpar; &amp; Azure Firewalls](https://dev.to/boye88/automating-hub-spoke-secure-azure-networks-with-terraform-iac-azure-firewalls-54l3)
-- [AirPods Live Translation: Useful Innovation or Hidden Risk?](https://dev.to/alifar/airpods-live-translation-useful-innovation-or-hidden-risk-55md)
-- [Hello Elm: Your First Steps in Browser-Based Programming](https://dev.to/rijultp/hello-elm-your-first-steps-in-browser-based-programming-1536)
-- [Introducing MoroJS: A TypeScript-First API Framework Faster Than Express &amp; Fastify](https://dev.to/keeno12/introducing-morojs-a-typescript-first-api-framework-faster-than-express-fastify-36n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
