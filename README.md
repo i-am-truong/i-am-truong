@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Good Products Fail: A Reality Check on Marketing](https://dev.to/shayy/why-good-products-fail-a-reality-check-on-marketing-1nd)
+- [Guys Check out my first Blog !!](https://dev.to/misrhashardendu22/guys-check-out-my-first-blog--ap)
+- [Python](https://dev.to/ahmed_mohmedtyson_5019a6/python-gig)
 - [COLORS: Negros Tou Moria - To Deltio | A COLORS SHOW](https://dev.to/music_youtube/colors-negros-tou-moria-to-deltio-a-colors-show-351a)
 - [KEXP: Japanese Breakfast - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-full-performance-live-on-kexp-4bfk)
-- [Noclip: Announcing /noclip&#39;s Brand New Channel](https://dev.to/gg_news/noclip-announcing-noclips-brand-new-channel-4ab2)
-- [GameSpot: Fire Emblem: Fortune’s Weave - Official Announcement Trailer](https://dev.to/gg_news/gamespot-fire-emblem-fortunes-weave-official-announcement-trailer-1mm9)
-- [GameSpot: Every Announcement from the Nintendo Direct September 2025](https://dev.to/gg_news/gamespot-every-announcement-from-the-nintendo-direct-september-2025-mhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
