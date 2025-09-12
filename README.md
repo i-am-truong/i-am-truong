@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Small Dev Fascination](https://dev.to/renuo/small-dev-fascination-303d)
-- [[For Beginners] Quickly Fix Jest Crashing with import.meta in Vite+React+TypeScript &lpar;Supabase Compatible&rpar;](https://dev.to/kazutora_hattori_66972c88/for-beginners-quickly-fix-jest-crashing-with-importmeta-in-vitereacttypescript-supabase-4b0g)
-- [MVC vs MVVM: what&#39;s the difference? &lpar;C# example&rpar;](https://dev.to/dimension-zero/mvc-vs-mvvm-whats-the-difference-c-example-45ah)
-- [⚡ DMG – Round 1 &lpar;JavaScript&rpar;](https://dev.to/ml318097/dmg-round-1-javascript-knd)
-- [I interviewed for 6 random jobs before the one I really wanted. Here’s what I did wrong.](https://dev.to/fahimulhaq/i-interviewed-for-6-random-jobs-before-the-one-i-really-wanted-heres-what-i-did-wrong-hn1)
+- [Does Developer Delight Matter in a CLI? The Case of Charm’s Crush](https://dev.to/fernandezbaptiste/does-developer-delight-matter-in-a-cli-the-case-of-charms-crush-248g)
+- [Using Device Sensors in ArkTS for HarmonyOS — a Step-by-Step Guide](https://dev.to/harmonyos/using-device-sensors-in-arkts-for-harmonyos-a-step-by-step-guide-5i4)
+- [Best Practices for Multi-Cloud Log Integration with Alibaba Cloud SLS: Optimization of Link, Cost, and High Availability](https://dev.to/observabilityguy/best-practices-for-multi-cloud-log-integration-with-alibaba-cloud-sls-optimization-of-link-cost-2ofm)
+- [Should problems be easy to understand and difficult to solve?](https://dev.to/ffff0000h/should-problems-be-easy-to-understand-and-difficult-to-solve-256p)
+- [💲ANN: awesome-sponsorships](https://dev.to/galtzo/ann-awesome-sponsorships-535m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
