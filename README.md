@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [🏠 RoomAI: Your Personal Interior Designer Powered by Multimodal AI](https://dev.to/bowen007/roomai-your-personal-interior-designer-powered-by-multimodal-ai-1oi7)
+- [Plugin Admin Menu - Developer Guide](https://dev.to/samratemily/plugin-admin-menu-developer-guide-mb0)
 - [#DAY 6: Closing the On-Prem Loop](https://dev.to/samueladeduntan/day-6-closing-the-on-prem-loop-5923)
 - [The Great Unification: Why QA and Data Science are Becoming Inseparable](https://dev.to/vaibhavkuls/the-great-unification-why-qa-and-data-science-are-becoming-inseparable-1iaa)
 - [New Here](https://dev.to/oxygen002/new-here-4n6l)
-- [# EP 6 — Why Multi-Agent Orchestration Collapses &lpar;Deadlocks, Infinite Loops, and Memory Overwrites in AI Pipelines&rpar;](https://dev.to/onestardao/-ep-6-why-multi-agent-orchestration-collapses-deadlocks-infinite-loops-and-memory-overwrites-1e52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
