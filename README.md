@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Contexta AI](https://dev.to/barak_codes/contexta-ai-29ai)
-- [Accelerating the Agent Economy: Building and Deploying MCP Servers with Contexta AI](https://dev.to/om_shree_0709/accelerating-the-agent-economy-building-and-deploying-mcp-servers-with-contexta-ai-41p8)
-- [Why Homepage Clarity Decides Whether You Win or Lose Customers](https://dev.to/etsmuhammadhassan/why-homepage-clarity-decides-whether-you-win-or-lose-customers-2igd)
-- [AI-Powered Cloud Cost Management: Architect’s Guide to AWS Billing MCP Server](https://dev.to/aws-builders/ai-powered-cloud-cost-management-architects-guide-to-aws-billing-mcp-server-3gao)
-- [C# partial keyword usage](https://dev.to/karenpayneoregon/c-partial-keyword-usage-4j6c)
+- [Fix for Crow C++ websocket which could not receive beyond 128 chars](https://dev.to/lucpattyn/fix-for-crow-c-websocket-which-could-not-receive-beyond-128-chars-3ee6)
+- [CSPM, CIEM, CNAPP: What These Cloud Security Tools Really Do and Why They Matter for You](https://dev.to/heyjoshlee/cspm-ciem-cnapp-what-these-cloud-security-tools-really-do-and-why-they-matter-for-you-300o)
+- [First Post! Documenting my Technical Learnings](https://dev.to/shri-dharshini/first-post-documenting-my-technical-learnings-3kl9)
+- [Cybersecurity Shell Scripting: Build Weather &amp; Calculator Tools with Bash Loops &amp; File Ops](https://dev.to/labex/cybersecurity-shell-scripting-build-weather-calculator-tools-with-bash-loops-file-ops-2mic)
+- [I wish we could use a filter on job boards: &quot;companies that use Gather Town&quot; 😪](https://dev.to/ferdaousbouzaiene/i-wish-we-could-use-a-filter-on-job-boards-companies-that-use-gather-town-1f91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
