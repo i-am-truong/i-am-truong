@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Registering a vCluster Kubernetes clusters with Sveltos: A Quick Start Guide](https://dev.to/simone_morellato/registering-a-vcluster-kubernetes-clusters-with-sveltos-a-quick-start-guide-i3p)
-- [Data Anxiety? Stop Hoarding Insights. Start Systemizing Them.](https://dev.to/uspeedoai/data-anxiety-stop-hoarding-insights-start-systemizing-them-160p)
-- [Using attr&lpar;&rpar; with types](https://dev.to/alvaromontoro/using-attr-with-types-38ff)
-- [&lpar;实时&rpar;贵金属行情接口 详细接入指南【2025最新教程】](https://dev.to/peakline/shi-shi-gui-jin-shu-xing-qing-jie-kou-xiang-xi-jie-ru-zhi-nan-2025zui-xin-jiao-cheng--6ki)
-- [Smartbi RCE Vulnerability: Patch Fast Before Hackers Do](https://dev.to/sharon_42e16b8da44dabde6d/smartbi-rce-vulnerability-patch-fast-before-hackers-do-oj5)
+- [Unleashing AI Speed: Decoupling Perception for Blazing-Fast Robots by Arvind Sundararajan](https://dev.to/arvindsundararajan/unleashing-ai-speed-decoupling-perception-for-blazing-fast-robots-by-arvind-sundararajan-5eia)
+- [[Boost]](https://dev.to/varshithvhegde/-48pg)
+- [How to deploy Spring Boot Application on Google Cloud Run using Cloud Build - ANIL LALAM](https://dev.to/anil_lalam_2cee9c52a20a39/how-to-deploy-spring-boot-application-on-google-cloud-run-using-cloud-build-anil-lalam-8lc)
+- [Is it fair to fear AI?](https://dev.to/wdp/is-it-fair-to-fear-ai-22pn)
+- [IGN: Hollow Knight: Silksong Battle Arena/Locked Room - Birds Fight &lpar;Greymoor&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-battle-arenalocked-room-birds-fight-greymoor-188o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
