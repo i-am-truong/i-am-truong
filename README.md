@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Cloud Cost Management: Architect’s Guide to AWS Billing MCP Server](https://dev.to/aws-builders/ai-powered-cloud-cost-management-architects-guide-to-aws-billing-mcp-server-3gao)
+- [C# partial keyword usage](https://dev.to/karenpayneoregon/c-partial-keyword-usage-4j6c)
+- [I am trying to create an ocr for Farsi language which could have a sophisticated results with old Persian texts. Here I&#39;ve shared a small tool on this journey with you. Please share your thoughts. I&#39;m very interested in to find a team worker on this ;&rpar;](https://dev.to/babak271/i-am-trying-to-create-an-ocr-for-farsi-language-which-could-have-a-sophisticated-results-with-old-4ek0)
+- [Unlock Robot Speed: Decoupling &#39;Seeing&#39; and &#39;Doing&#39;](https://dev.to/arvindsundararajan/unlock-robot-speed-decoupling-seeing-and-doing-2l4e)
 - [Farsi Image generator](https://dev.to/babak271/farsi-image-generator-3jac)
-- [Unlocking Crypto Market Insights: A Practical Guide to Building Real-time Trading Signals with the LunarCrush API SDK](https://dev.to/dbatson/unlocking-crypto-market-insights-a-practical-guide-to-building-real-time-trading-signals-with-the-1bm1)
-- [Portfolio + Booking: The Freelancer’s Secret to Steady Income](https://dev.to/kamruljpi/portfolio-booking-the-freelancers-secret-to-steady-income-3e4l)
-- [GameSpot: Tomodachi Life Living The Dream - Official Release Window Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-tomodachi-life-living-the-dream-official-release-window-reveal-gameplay-trailer-2fnm)
-- [GameSpot: Donkey Kong Bananza - DK Island and Emerald Rush Launch Trailer](https://dev.to/gg_news/gamespot-donkey-kong-bananza-dk-island-and-emerald-rush-launch-trailer-1lc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
