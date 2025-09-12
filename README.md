@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3 Myths About AI That Are Holding People Back](https://dev.to/jaideepparashar/3-myths-about-ai-that-are-holding-people-back-417p)
-- [Kiro for Productivity and Workflow](https://dev.to/friday_posvib_8673cb67db1/kiro-for-productivity-and-workflow-1pn4)
-- [📱 Understanding Google Play’s 16 KB Page Size Requirement for Android Apps](https://dev.to/dainyjose/understanding-google-plays-16-kb-page-size-requirement-for-android-apps-phd)
-- [The story of how machines went from mimicking humans to creating ideas of their own.](https://dev.to/saileedas/the-story-of-how-machines-went-from-mimicking-humans-to-creating-ideas-of-their-own-1jg3)
-- [🏠 RoomAI: Your Personal Interior Designer Powered by Multimodal AI](https://dev.to/bowen007/roomai-your-personal-interior-designer-powered-by-multimodal-ai-1oi7)
+- [How to Avoid Becoming Dependent on One Model](https://dev.to/leena_malhotra/how-to-avoid-becoming-dependent-on-one-model-68j)
+- [Unlocking Team Superpowers: The Secret Language of Spatial Harmony by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-team-superpowers-the-secret-language-of-spatial-harmony-by-arvind-sundararajan-540a)
+- [JuiceFS Writeback: The Write Acceleration Mechanism and Its Applicable Scenarios](https://dev.to/daswu/juicefs-writeback-the-write-acceleration-mechanism-and-its-applicable-scenarios-4787)
+- [❌ Stop Using Kubernetes for Simple Apps](https://dev.to/abdelghani_alhijawi_499197ca/stop-using-kubernetes-for-simple-apps-2if3)
+- [Why Data Partitioning Is Harder Than It Looks](https://dev.to/dct_technology/why-data-partitioning-is-harder-than-it-looks-4hc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
