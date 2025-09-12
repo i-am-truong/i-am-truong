@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Bloom Filter Data Structure Simulator](https://dev.to/zeedu_dev/i-built-a-bloom-filter-data-structure-simulator-2o3l)
-- [🔹 Errores comunes y soluciones &lpar;8/8&rpar;](https://dev.to/pwalvarado/8-errores-comunes-y-soluciones-89-4icj)
-- [🔹 Custom Hooks – Reusar lógica &lpar;7/8&rpar;](https://dev.to/pwalvarado/7-23i)
-- [🔹 `useEffect` – Efectos secundarios y ciclo de vida 2/8](https://dev.to/pwalvarado/2-useeffect-efectos-secundarios-y-ciclo-de-vida-31jd)
-- [🚀 Guía definitiva de React Hooks 1/8](https://dev.to/pwalvarado/guia-definitiva-de-react-hooks-2m5m)
+- [Farsi Image generator](https://dev.to/babak271/farsi-image-generator-3jac)
+- [Unlocking Crypto Market Insights: A Practical Guide to Building Real-time Trading Signals with the LunarCrush API SDK](https://dev.to/dbatson/unlocking-crypto-market-insights-a-practical-guide-to-building-real-time-trading-signals-with-the-1bm1)
+- [Portfolio + Booking: The Freelancer’s Secret to Steady Income](https://dev.to/kamruljpi/portfolio-booking-the-freelancers-secret-to-steady-income-3e4l)
+- [GameSpot: Tomodachi Life Living The Dream - Official Release Window Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-tomodachi-life-living-the-dream-official-release-window-reveal-gameplay-trailer-2fnm)
+- [GameSpot: Donkey Kong Bananza - DK Island and Emerald Rush Launch Trailer](https://dev.to/gg_news/gamespot-donkey-kong-bananza-dk-island-and-emerald-rush-launch-trailer-1lc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
