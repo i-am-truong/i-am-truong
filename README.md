@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The TON Scam Surge: Telegram’s Crypto Revolution Gone Wrong](https://dev.to/dhis_is_jj/the-ton-scam-surge-telegrams-crypto-revolution-gone-wrong-1h66)
+- [🚀 Gestión de estado en React](https://dev.to/pwalvarado/gestion-de-estado-en-react-2d34)
+- [getState](https://dev.to/pwalvarado/getstate-3256)
+- [This Is How I Deploy My SSH App](https://dev.to/hiro_111/this-is-how-i-deploy-my-ssh-app-k6i)
 - [Rust vs. Your Next JavaScript Framework: Which Should You Learn?](https://dev.to/francescoxx/rust-vs-your-next-javascript-framework-which-should-you-learn-24pj)
-- [Project of the Week: Chainguard](https://dev.to/pullflow/project-of-the-week-chainguard-37cm)
-- [Struggling to Connect with Developers? Copywriting Can Transform Your Results Today! &lpar;with Practical Examples&rpar;](https://dev.to/werliton/struggling-to-connect-with-developers-copywriting-can-transform-your-results-today-with-4a3)
-- [Forward Networks - Round 1 &lpar;JavaScript&rpar;](https://dev.to/ml318097/forward-networks-round-1-javascript-310k)
-- [Securing AWS IAM Groups and RDS Permissions: Step-by-Step Policy Guide](https://dev.to/darko_kostovski_2744e790a/securing-aws-iam-groups-and-rds-permissions-step-by-step-policy-guide-hfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
