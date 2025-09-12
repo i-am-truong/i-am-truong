@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Almost Got Pwned - A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong](https://dev.to/dalenguyen/how-i-almost-got-pwned-a-tale-of-supply-chain-attacks-and-github-actions-gone-wrong-56oh)
-- [Gaussian Blur](https://dev.to/ikhwanal/gaussian-blur-4nnd)
-- [🚀 Day 12 of My DevOps Journey: Ansible — Configuration Management Made Simple ⚙️](https://dev.to/dankbhardwaj/day-12-of-my-devops-journey-ansible-configuration-management-made-simple-23pe)
-- [How to Join a PC to Active Directory—My Lazy Guide](https://dev.to/fakestandard/how-to-join-a-pc-to-active-directory-my-lazy-guide-5eee)
-- [What is Shadow DOM and How It’s Used in Chrome Extensions](https://dev.to/learcise_health/what-is-shadow-dom-and-how-its-used-in-chrome-extensions-5e7e)
+- [What is jsx? when we use jsx? why we use jsx?how we use jsx? difference b/w js and jsx?](https://dev.to/lakshmi_g_74c225d5ca0b272/what-is-jsx-when-we-use-jsx-why-we-use-jsxhow-we-use-jsx-difference-bw-js-and-jsx-5b9)
+- [Hiring: Full-Stack Developer – Remote, 6+ Month Contract &lpar;$10–$15/hr&rpar;](https://dev.to/dev_vd_7144a5b0f61f5ce9de/hiring-full-stack-developer-remote-6-month-contract-10-15hr-409g)
+- [XMLHttpRequest in JavaScript](https://dev.to/bhuvanasri/xmlhttprequest-in-javascript-3ac8)
+- [Mastering Angular Pipes: Types, Examples, and Performance Best Practices](https://dev.to/rohit_singh_ee84e64941db7/mastering-angular-pipes-types-examples-and-performance-best-practices-21k7)
+- [Sitemap.xml: Best Practices for Large Projects](https://dev.to/ivanjarkov/sitemapxml-best-practices-for-large-projects-1m1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
