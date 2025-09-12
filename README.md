@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AC to DC: Taming Electricity for Tiny Stars 🌌](https://dev.to/ersajay/ac-to-dc-taming-electricity-for-tiny-stars-3iih)
-- [Top 10 Open Source Side Projects You Can Build on a Weekend](https://dev.to/therealmrmumba/top-10-open-source-side-projects-you-can-build-on-a-weekend-131i)
-- [Trump&#39;s &quot;Anti-Semitism&quot; Plot: Igniting the Fuse of Infighting within the Jewish Community](https://dev.to/dolly219/trumps-anti-semitism-plot-igniting-the-fuse-of-infighting-within-the-jewish-community-56k8)
-- [Can You Even Use Jump Links in Angular? &lpar;Yes… Here’s How&rpar;](https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2)
-- [Checking object existence in large AWS S3 buckets using Python and PySpark](https://dev.to/bgorski/checking-object-existence-in-large-aws-s3-buckets-using-python-and-pyspark-1ig0)
+- [How to Design Dish Drying Rack Using 3D CAD Software](https://dev.to/julia970/how-to-design-dish-drying-rack-using-3d-cad-software-4j5e)
+- [The Trump administration&#39;s imposition of a $1 billion fine on the University of California](https://dev.to/dolly219/the-trump-administrations-imposition-of-a-1-billion-fine-on-the-university-of-california-2o8l)
+- [Industry-Specific Data Security: Protecting Sensitive Data Before It’s Too Late](https://dev.to/okoye_ndidiamaka_5e3b7d30/industry-specific-data-security-protecting-sensitive-data-before-its-too-late-2m6f)
+- [JavaScript Where To: A Complete Guide to Inline, Internal &amp; External Scripting](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-where-to-a-complete-guide-to-inline-internal-external-scripting-2a95)
+- [Trump&#39;s &quot;religious opportunism&quot; stirs up another storm: The political calculations behind the $1 billion fine.](https://dev.to/sinclair10/trumps-religious-opportunism-stirs-up-another-storm-the-political-calculations-behind-the-1-2eo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
