@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Fields: A Data-Driven Look at Kenya’s Agricultural Productivity](https://dev.to/loi2008/beyond-the-fields-a-data-driven-look-at-kenyas-agricultural-productivity-4n8n)
 - [Vegi: Vegetables are not Aliens](https://dev.to/mikkel_frimerrasmussen_9/vegi-vegetables-are-not-aliens-1587)
 - [The Alchemist&#39;s Endgame: My Final Synthesis of p-adic Clojure and Legacy Code.](https://dev.to/p_pumulo/the-alchemists-endgame-my-final-synthesis-of-p-adic-clojure-and-legacy-code-1ije)
 - [Scratching My Own Itch](https://dev.to/tajudeen_abdulgafar_e0363/scratching-my-own-itch-building-a-tool-to-stop-copy-pasting-code-to-chatgpt-4ki0)
-- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 4](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-4-481f)
-- [Enabling Dynamics 365 Outlook App](https://dev.to/nikhildynamicsce/enabling-dynamics-365-outlook-app-5cpl)
+- [Barbie vs Zombies – Mini Witch Mode Game Prototype](https://dev.to/cutieyunnytech/barbie-vs-zombies-mini-witch-mode-game-prototype-26kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
