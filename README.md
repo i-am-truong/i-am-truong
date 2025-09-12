@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Myths About AI That Are Holding People Back](https://dev.to/jaideepparashar/3-myths-about-ai-that-are-holding-people-back-417p)
+- [Kiro for Productivity and Workflow](https://dev.to/friday_posvib_8673cb67db1/kiro-for-productivity-and-workflow-1pn4)
+- [📱 Understanding Google Play’s 16 KB Page Size Requirement for Android Apps](https://dev.to/dainyjose/understanding-google-plays-16-kb-page-size-requirement-for-android-apps-phd)
+- [The story of how machines went from mimicking humans to creating ideas of their own.](https://dev.to/saileedas/the-story-of-how-machines-went-from-mimicking-humans-to-creating-ideas-of-their-own-1jg3)
 - [🏠 RoomAI: Your Personal Interior Designer Powered by Multimodal AI](https://dev.to/bowen007/roomai-your-personal-interior-designer-powered-by-multimodal-ai-1oi7)
-- [Plugin Admin Menu - Developer Guide](https://dev.to/samratemily/plugin-admin-menu-developer-guide-mb0)
-- [#DAY 6: Closing the On-Prem Loop](https://dev.to/samueladeduntan/day-6-closing-the-on-prem-loop-5923)
-- [The Great Unification: Why QA and Data Science are Becoming Inseparable](https://dev.to/vaibhavkuls/the-great-unification-why-qa-and-data-science-are-becoming-inseparable-1iaa)
-- [New Here](https://dev.to/oxygen002/new-here-4n6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
