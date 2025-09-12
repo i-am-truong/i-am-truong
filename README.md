@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qantler interview Experince](https://dev.to/vigneshwaralingam/qantler-interview-experince-421e)
 - [AWS Summit Toronto 2025 Reflections from Two Inspiring Days](https://dev.to/aws-builders/aws-summit-toronto-2025-reflections-from-two-inspiring-days-1imb)
+- [Mastering Makefiles: From Beginner Basics to Pro-Level Patterns and Tricks](https://dev.to/shrsv/mastering-makefiles-from-beginner-basics-to-pro-level-patterns-and-tricks-p72)
 - [Days 24-27: Family Time and the Real Value of the 4-Hour Workday](https://dev.to/clayroach/days-24-27-family-time-and-the-real-value-of-the-4-hour-workday-1d5k)
 - [How I Automated Document Insights Using AWS Textract, Bedrock, and QuickSight](https://dev.to/aws-builders/how-i-automated-document-insights-using-aws-textract-bedrock-and-quicksight-h7p)
-- [Skill vs Degree: What the Future of Education Demands](https://dev.to/prabnek_singh_949da6cb10e/skill-vs-degree-what-the-future-of-education-demands-441j)
-- [Mastering Destructuring in JavaScript: Objects and Arrays Made Simple](https://dev.to/wisdomudo/mastering-destructuring-in-javascript-objects-and-arrays-made-simple-2i2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
