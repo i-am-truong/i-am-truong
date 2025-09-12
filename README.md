@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Fast File Upload APIs with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-fast-file-upload-apis-with-go-2a9i)
-- [Pi-hole v6: How to actually set a password and login properly?](https://dev.to/yoshi_homelab/pi-hole-v6-how-to-actually-set-a-password-and-login-properly-n9k)
-- [KEXP: Japanese Breakfast - My Baby &lpar;Got Nothing At All&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-my-baby-got-nothing-at-all-live-on-kexp-1eh3)
-- [KEXP: Japanese Breakfast - Honey Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-honey-water-live-on-kexp-1k3d)
-- [KEXP: Japanese Breakfast - Picture Window &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-picture-window-live-on-kexp-5fod)
+- [Pi-hole v6: Setting up wildcard domains](https://dev.to/yoshi_homelab/pi-hole-v6-setting-up-wildcard-domains-3pbe)
+- [🚀 React Developer Roadmap 2025: Skills You NEED to Stay Ahead 💻✨](https://dev.to/zeescriptdev/react-developer-roadmap-2025-skills-you-need-to-stay-ahead-3f0f)
+- [How AI Tricks Us Into Trusting It](https://dev.to/agustin_v_startari/how-ai-tricks-us-into-trusting-it-33fp)
+- [Aluminum PCB Boards — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/aluminum-pcb-boards-an-engineers-practical-guide-3ibb)
+- [Multi-VM Blockchain Platform](https://dev.to/ramjan_khan_d29cfb1dc87fe/multi-vm-blockchain-platform-1027)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
