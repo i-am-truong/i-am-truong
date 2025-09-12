@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing Technologies: The Beauty and the Beast Trap](https://dev.to/igorfragadev/choosing-technologies-the-beauty-and-the-beast-trap-2b0e)
+- [Automating Hub &amp; Spoke Secure Azure Networks with Terraform &lpar;IaC&rpar; &amp; Azure Firewalls](https://dev.to/boye88/automating-hub-spoke-secure-azure-networks-with-terraform-iac-azure-firewalls-54l3)
 - [AirPods Live Translation: Useful Innovation or Hidden Risk?](https://dev.to/alifar/airpods-live-translation-useful-innovation-or-hidden-risk-55md)
 - [Hello Elm: Your First Steps in Browser-Based Programming](https://dev.to/rijultp/hello-elm-your-first-steps-in-browser-based-programming-1536)
 - [Introducing MoroJS: A TypeScript-First API Framework Faster Than Express &amp; Fastify](https://dev.to/keeno12/introducing-morojs-a-typescript-first-api-framework-faster-than-express-fastify-36n3)
-- [Motion Alchemy: Turning Data into Graceful Robot Movement](https://dev.to/arvindsundararajan/motion-alchemy-turning-data-into-graceful-robot-movement-b2e)
-- [Python Strings &amp; Memory: What Every Junior Developer Should Know](https://dev.to/aaron_rose_0787cc8b4775a0/python-strings-memory-what-every-junior-developer-should-know-56f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
