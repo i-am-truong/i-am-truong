@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a DAO Into My Game🎮](https://dev.to/anthonym/building-a-dao-into-my-game-13p0)
+- [Smart Log Anomaly Detection with Python and Isolation Forest](https://dev.to/techwithhari/smart-log-anomaly-detection-with-python-and-isolation-forest-563b)
 - [This username is already taken! &lpar;Bloom filters&rpar;](https://dev.to/aditya_anavkar/this-username-is-already-taken-bloom-filters-36ni)
 - [How I find and fix Kubernetes Exit Codes and Misconfigurations for free](https://dev.to/lyndon_brown_/how-i-find-and-fix-kubernetes-exit-codes-and-misconfigurations-for-free-18i)
 - [When the Swarm Wakes](https://dev.to/woodyhayday/when-the-swarm-wakes-1d1)
-- [Deep Doctrine Research: Explore Our NotebookLM and Share Your Insights](https://dev.to/deepdoctrine/deep-doctrine-research-explore-our-notebooklm-and-share-your-insights-4c1f)
-- [The Cost of Kubernetes: Which Workloads Waste the Most Resources](https://dev.to/shohams/the-cost-of-kubernetes-which-workloads-waste-the-most-resources-2514)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
