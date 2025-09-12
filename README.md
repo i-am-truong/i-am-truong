@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔹 2. `useEffect` – Efectos secundarios y ciclo de vida 2/8](https://dev.to/pwalvarado/2-useeffect-efectos-secundarios-y-ciclo-de-vida-31jd)
+- [I Built a Bloom Filter Data Structure Simulator](https://dev.to/zeedu_dev/i-built-a-bloom-filter-data-structure-simulator-2o3l)
+- [🔹 Errores comunes y soluciones &lpar;8/8&rpar;](https://dev.to/pwalvarado/8-errores-comunes-y-soluciones-89-4icj)
+- [🔹 Custom Hooks – Reusar lógica &lpar;7/8&rpar;](https://dev.to/pwalvarado/7-23i)
+- [🔹 `useEffect` – Efectos secundarios y ciclo de vida 2/8](https://dev.to/pwalvarado/2-useeffect-efectos-secundarios-y-ciclo-de-vida-31jd)
 - [🚀 Guía definitiva de React Hooks 1/8](https://dev.to/pwalvarado/guia-definitiva-de-react-hooks-2m5m)
-- [Scammers Are Using Ton to Steal on Telegram](https://dev.to/scofieldidehen/scammers-are-using-ton-to-steal-on-telegram-39nm)
-- [How to Send RCS Rich Card Carousels With Node.js](https://dev.to/vonagedev/how-to-send-rcs-rich-card-carousels-with-nodejs-15n6)
-- [The TON Scam Surge: Telegram’s Crypto Revolution Gone Wrong](https://dev.to/dhis_is_jj/the-ton-scam-surge-telegrams-crypto-revolution-gone-wrong-1h66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
