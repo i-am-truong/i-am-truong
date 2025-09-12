@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Mobile App with Ionic, Vue, and Clerk](https://dev.to/aaronksaunders/building-a-mobile-app-with-ionic-vue-and-clerk-1dkl)
+- [🚧 Amazon Bedrock Guardrails: A Practical Guide to Safer Generative AI](https://dev.to/aws-builders/amazon-bedrock-guardrails-a-practical-guide-to-safer-generative-ai-5ghp)
 - [Why Good Products Fail: A Reality Check on Marketing](https://dev.to/shayy/why-good-products-fail-a-reality-check-on-marketing-1nd)
-- [Guys Check out my first Blog !!](https://dev.to/misrhashardendu22/guys-check-out-my-first-blog--ap)
 - [Python](https://dev.to/ahmed_mohmedtyson_5019a6/python-gig)
-- [COLORS: Negros Tou Moria - To Deltio | A COLORS SHOW](https://dev.to/music_youtube/colors-negros-tou-moria-to-deltio-a-colors-show-351a)
-- [KEXP: Japanese Breakfast - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-full-performance-live-on-kexp-4bfk)
+- [Say goodbye to bugs because of forgotten edge cases, use exhaustive case handling to make your app PROD-ready !!! &lpar;React + TS&rpar;](https://dev.to/itsmearka/say-goodbye-to-bugs-because-of-forgotten-edge-cases-use-exhaustive-case-handling-to-make-your-app-2f6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
