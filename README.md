@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [hello business world.](https://dev.to/pattee_green_write/hello-business-world-21m5)
-- [Deploying and Managing HashiCorp Vault in Kubernetes with HA and Raft Storage](https://dev.to/durrello/deploying-and-managing-hashicorp-vault-in-kubernetes-with-ha-and-raft-storage-np3)
-- [🎉 YINI Parser v1.2.0-beta Released](https://dev.to/marko_kseppnen_6250a7f/yini-parser-v120-beta-released-ef2)
-- [👩‍🔧 How to Check License Compatibility](https://dev.to/galtzo/how-to-check-license-compatibility-41h0)
-- [Unlocking LLM Power: Secure and Cost-Effective Inference for Everyone by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-llm-power-secure-and-cost-effective-inference-for-everyone-by-arvind-sundararajan-l70)
+- [Accessing HashiCorp Vault UI in Kubernetes with LoadBalancer Service](https://dev.to/durrello/accessing-hashicorp-vault-ui-in-kubernetes-with-loadbalancer-service-4n6f)
+- [Untitled](https://dev.to/javier_barbin_ea103b5ed7c/untitled-24j6)
+- [How I Built My Portfolio as a Web Developer in Kochi](https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e)
+- [Day 49 - AWS Interview Questions](https://dev.to/udoh_deborah_b1e484c474bf/day-49-aws-interview-questions-44mk)
+- [AI-Powered Virtual Biopsy: Visualizing the Invisible in Bone Implants](https://dev.to/arvindsundararajan/ai-powered-virtual-biopsy-visualizing-the-invisible-in-bone-implants-5a24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
