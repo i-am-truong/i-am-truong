@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This AI Is a Better Geography Teacher Than Most Humans.](https://dev.to/dirsebastian/this-ai-is-a-better-geography-teacher-than-most-humans-1j1j)
-- [How to Dockerize and Deploy a NestJS App on Render for Free](https://dev.to/prajwolshrestha/how-to-dockerize-and-deploy-a-nestjs-app-on-render-for-free-180j)
-- [Part-51: 🚀To Configure VPC Firewall Rules with Target All Instances in GCP Cloud](https://dev.to/latchudevops/part-51-to-configure-vpc-firewall-rules-with-target-all-instances-in-gcp-cloud-342j)
-- [But, Why is Serverless? When should you use it?](https://dev.to/sushan/but-why-is-serverless-when-should-you-use-it-9n1)
-- [This AI Tells the Story Behind Any Historical Photo or Video](https://dev.to/axrisi/this-ai-tells-the-story-behind-any-historical-photo-or-video-451)
+- [Tideman Voting Algorithm: A Graph-Based Approach to Elections](https://dev.to/vivekvohra/tideman-voting-algorithm-a-graph-based-approach-to-elections-330c)
+- [IGN: Emotionless: The Last Ticket – Official New Release Date Trailer](https://dev.to/gg_news/ign-emotionless-the-last-ticket-official-new-release-date-trailer-bk6)
+- [IGN: Borderlands 4: All 9 Vault Key Fragment Locations](https://dev.to/gg_news/ign-borderlands-4-all-9-vault-key-fragment-locations-2hg3)
+- [logger.ts in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/loggerts-in-mcp-mermaid-codebase-3kcp)
+- [Deploying Tideman Election App on AWS EC2 with Docker](https://dev.to/vivekvohra/deploying-tideman-election-app-on-aws-ec2-with-docker-1ff2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
