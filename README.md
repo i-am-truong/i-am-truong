@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Your Fetch Requests Production-Ready with ffetch](https://dev.to/gkoos/making-your-fetch-requests-production-ready-with-ffetch-537o)
+- [Buildstash Product Update - Metadata artifacts, custom targets, RTOS platforms..](https://dev.to/buildstash/buildstash-product-update-metadata-artifacts-custom-targets-rtos-platforms-2a4p)
+- [The @grok craze: What’s behind the hype?](https://dev.to/goldenekpendu/the-grok-craze-whats-behind-the-hype-559g)
 - [VisionGen](https://dev.to/nadinev/visiongen-2kdp)
 - [AI-generated Art and AI-generated code are treated differently](https://dev.to/zeedu_dev/ai-generated-art-and-ai-generated-code-are-treated-differently-agh)
-- [Stored Procedures: Organization and Code Quality in SQL](https://dev.to/lulucasalves/stored-procedures-organization-and-code-quality-in-sql-39e3)
-- [post check](https://dev.to/currycoder/post-check-4ipp)
-- [Exploring Gemini 2.5 Flash Lite: A Fast and Affordable AI Model for Developers](https://dev.to/rijultp/exploring-gemini-25-flash-lite-a-fast-and-affordable-ai-model-for-developers-282h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
