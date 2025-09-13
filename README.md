@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [hello business world.](https://dev.to/pattee_green_write/hello-business-world-21m5)
 - [Deploying and Managing HashiCorp Vault in Kubernetes with HA and Raft Storage](https://dev.to/durrello/deploying-and-managing-hashicorp-vault-in-kubernetes-with-ha-and-raft-storage-np3)
 - [🎉 YINI Parser v1.2.0-beta Released](https://dev.to/marko_kseppnen_6250a7f/yini-parser-v120-beta-released-ef2)
 - [👩‍🔧 How to Check License Compatibility](https://dev.to/galtzo/how-to-check-license-compatibility-41h0)
-- [From Prototype to Production: How Promptfoo and Vitest Made podcast-it Reliable](https://dev.to/logarithmicspirals/from-prototype-to-production-how-promptfoo-and-vitest-made-podcast-it-reliable-5md)
-- [From Code to Cloud: Seamless CI/CD with GitHub Actions and Azure Web Apps](https://dev.to/ibrahimbioabu/from-code-to-cloud-seamless-cicd-with-github-actions-and-azure-web-apps-3f0h)
+- [Unlocking LLM Power: Secure and Cost-Effective Inference for Everyone by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-llm-power-secure-and-cost-effective-inference-for-everyone-by-arvind-sundararajan-l70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
