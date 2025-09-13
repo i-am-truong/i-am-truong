@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React&#39;s Component Revolution: How Closures Became the Foundation of Modern UI Components](https://dev.to/franson33/reacts-component-revolution-how-closures-became-the-foundation-of-modern-ui-components-3nia)
 - [Understanding Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/henry_messiahtmt_099ca84/understanding-object-oriented-programming-oop-in-javascript-3cf8)
 - [MVC vs MVVM: Deep Dive into Real-World Flow Patterns - Part 3](https://dev.to/dimension-zero/mvc-vs-mvvm-deep-dive-into-real-world-flow-patterns-part-3-44ac)
 - [🧠 Problem Decomposition in Programming: Breaking Down Complexity](https://dev.to/mzunairtariq/problem-decomposition-in-programming-breaking-down-complexity-4b47)
-- [This Free App Finally Makes Running Windows Apps on Linux Actually Easy](https://dev.to/shiva_shanker_k/this-free-app-finally-makes-running-windows-apps-on-linux-actually-easy-45cg)
-- [Anthropic Just Dropped Claude&#39;s Memory Feature &lpar;And It&#39;s a Game-Changer&rpar;](https://dev.to/shiva_shanker_k/anthropic-just-dropped-claudes-memory-feature-and-its-a-game-changer-128h)
+- [Day 6 of My Quantum Computing Journey: Mastering the Language of Quantum Mechanics &amp; Career Insights](https://dev.to/keshabkjha/day-6-of-my-quantum-computing-journey-mastering-the-language-of-quantum-mechanics-career-insights-1e71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
