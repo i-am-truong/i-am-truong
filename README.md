@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Rock-Solid Express.js Middleware: A Guide That Actually Works in Production](https://dev.to/sisproid/building-rock-solid-expressjs-middleware-a-guide-that-actually-works-in-production-25oh)
+- [Country Flags Widget](https://dev.to/joel_streich_646bdeadb455/country-flags-widget-23e)
 - [USA’s Leading Laravel Development Companies You Can Trust](https://dev.to/zubairpateljiwala/usas-leading-laravel-development-companies-you-can-trust-558h)
 - [Day 4/365 Days of Full Stack Challenge: Bringing Your Page to Life - Inserting Images in HTML](https://dev.to/code_2/day-4365-days-of-full-stack-challenge-bringing-your-page-to-life-inserting-images-in-html-1j3p)
 - [HTMX Dependent Dropdowns: 5 Strategies I Learned the Hard Way](https://dev.to/sisproid/htmx-dependent-dropdowns-5-strategies-i-learned-the-hard-way-2lj5)
-- [Meet Super Banana 🍌](https://dev.to/abhinav-writes/meet-super-banana-7hf)
-- [New Article Uploaded , I hope this helps you](https://dev.to/tahamjp/new-article-uploaded-i-hope-this-helps-you-1k9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
