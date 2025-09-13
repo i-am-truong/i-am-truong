@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stored Procedures: Organization and Code Quality in SQL](https://dev.to/lulucasalves/stored-procedures-organization-and-code-quality-in-sql-39e3)
+- [post check](https://dev.to/currycoder/post-check-4ipp)
 - [Exploring Gemini 2.5 Flash Lite: A Fast and Affordable AI Model for Developers](https://dev.to/rijultp/exploring-gemini-25-flash-lite-a-fast-and-affordable-ai-model-for-developers-282h)
 - [The Game Theorists: Game Theory: The Internet is DEAD…](https://dev.to/gg_news/the-game-theorists-game-theory-the-internet-is-dead-196c)
 - [GameSpot: Borderlands 4 and the Art of Playing It Safe](https://dev.to/gg_news/gamespot-borderlands-4-and-the-art-of-playing-it-safe-49pe)
-- [GameSpot: Dying Light: The Beast Everything To Know](https://dev.to/gg_news/gamespot-dying-light-the-beast-everything-to-know-35n0)
-- [IGN: NHL 26 Review](https://dev.to/gg_news/ign-nhl-26-review-1ll9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
