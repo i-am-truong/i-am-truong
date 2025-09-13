@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kiro: the good, bad and ugly part in my personal experience](https://dev.to/fikuri/kiro-the-good-bad-and-ugly-part-in-my-personal-experience-1neh)
+- [Tired of Generic Visuals? 5 AI Tools Everybody Should Be Using Today](https://dev.to/werliton/tired-of-generic-visuals-5-ai-tools-everybody-should-be-using-today-4c9m)
+- [Card Beam Animation](https://dev.to/ist-github/card-beam-animation-4lpo)
 - [&lpar;4/4&rpar; LLM: In-Context Learning, Hype, and the Road Ahead](https://dev.to/jiminlee/44-llm-in-context-learning-hype-and-the-road-ahead-1229)
 - [🧪 LiteWorkspace: Minimal Context Loading for Faster Spring Tests](https://dev.to/our16/liteworkspace-minimal-context-loading-for-faster-spring-tests-4ad1)
-- [&lpar;3/4&rpar; LLM: Inside the Transformer](https://dev.to/jiminlee/34-llm-inside-the-transformer-15np)
-- [RAG knowledge base, AI agents, and remote large models](https://dev.to/junyu_fang_a216509a97501d/rag-knowledge-base-ai-agents-and-remote-large-models-34mb)
-- [Mastering Advanced JavaScript Skills 2025](https://dev.to/jackm_345442a09fb53b/mastering-advanced-javascript-skills-2025-2cnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
