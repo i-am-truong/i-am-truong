@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering DOM Manipulation with Svelte Actions and Children](https://dev.to/a1guy/mastering-dom-manipulation-with-svelte-actions-and-children-238m)
+- [Best Practice API Response JSON Ringkas, Konsisten, dan Mudah Ditelusuri](https://dev.to/naandan/best-practice-api-response-ringkas-konsisten-dan-mudah-ditelusuri-21bi)
+- [**HackSpire’25: More Than Just Code – It&#39;s Where Ideas Take Flight **🚀](https://dev.to/debaditya_saha_5b45172210/hackspire25-more-than-just-code-its-where-ideas-take-flight--lll)
 - [Memory Integrity Enforcement: Apple&#39;s New Security Feature for iOS](https://dev.to/arshtechpro/memory-integrity-enforcement-apples-new-security-feature-for-ios-320b)
 - [Mastering Svelte Custom Stores](https://dev.to/a1guy/mastering-svelte-custom-stores-5c1g)
-- [The Software Development Lifecycle &lpar;SDLC&rpar;](https://dev.to/hajixhayjhay/the-software-development-lifecycle-sdlc-33cd)
-- [FastAPI Mistakes That Kill Your Performance](https://dev.to/igorbenav/fastapi-mistakes-that-kill-your-performance-2b8k)
-- [The Cost of Ignoring Documentation in Growing Teams](https://dev.to/dct_technology/the-cost-of-ignoring-documentation-in-growing-teams-2gi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
