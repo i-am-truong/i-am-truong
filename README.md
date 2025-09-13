@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Road Accident Report - AI Assistant](https://dev.to/sercan_ko_e714743414ed7e/road-accident-report-ai-assistant-fp0)
 - [Quantum Leaps in AI: Generalizing the Unseen](https://dev.to/arvindsundararajan/quantum-leaps-in-ai-generalizing-the-unseen-3i5e)
 - [[Boost]](https://dev.to/tushar_kumar_02d8a10abfc9/-2j2f)
 - [Harmonious Motion: AI Finally Makes Path Planning… Elegant](https://dev.to/pannalabs/harmonious-motion-ai-finally-makes-path-planning-elegant-4jap)
 - [AI-Tutor-AI-Learning-Companion with kiro](https://dev.to/monishwar_reddyvardiredd/ai-tutor-ai-learning-companion-made-by-kiro-4j7n)
-- [AI in Marketing: Personalization, Automation, and ROI](https://dev.to/nayeem79/ai-in-marketing-personalization-automation-and-roi-3lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
