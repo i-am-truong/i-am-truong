@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rails 8 – New ActiveSupport Timezone Defaults](https://dev.to/lightflight/rails-8-new-activesupport-timezone-defaults-321c)
-- [Build Laravel AI Features in Minutes: A Guide to the Gemini Package](https://dev.to/hosseinhezami/build-laravel-ai-features-in-minutes-a-guide-to-the-gemini-package-2om5)
-- [Best Way to Run Puppeteer Online: Solutions Compared](https://dev.to/leapcell/best-way-to-run-puppeteer-online-solutions-compared-1m8k)
-- [🧠 Demystifying the Factory Method Pattern with a Manabita Twist](https://dev.to/edzamo/demystifying-the-factory-method-pattern-with-a-manabita-twist-ne6)
-- [Shoutout to My Cheating Genius Vibes – A Productivity App](https://dev.to/cutieyunnytech/shoutout-to-my-cheating-genius-vibes-a-productivity-app-2pfb)
+- [how to view dark image mask with class labels in rgb?](https://dev.to/nl_p_/how-to-view-dark-image-mask-with-class-labels-in-rgb-1kdf)
+- [Surviving Screen Rotation without ViewModel: An Experimental Deep Dive into Circuit and Flow](https://dev.to/yuyuyuyuyu-dev/surviving-screen-rotation-without-viewmodel-an-experimental-deep-dive-into-circuit-and-flow-5ca0)
+- [Timing Attacks and Their Remedies — an in-depth guide](https://dev.to/m-a-h-b-u-b/timing-attacks-and-their-remedies-an-in-depth-guide-2j4)
+- [Vibe Coding vs. Professional Coding: A Developer’s Honest Take](https://dev.to/naresh_82de734ade4c1c66d9/vibe-coding-vs-professional-coding-a-developers-honest-take-5f16)
+- [How to Evaluate ROI on AI Tools Before You Buy](https://dev.to/kapusto/how-to-evaluate-roi-on-ai-tools-before-you-buy-1if1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
