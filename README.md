@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding a &quot;Last Used&quot; Badge to Your Website Login Page](https://dev.to/stephengade/adding-a-last-used-badge-to-your-website-login-page-43c5)
+- [From Zero to Professional: Building Unlimited Cloud Storage + Website Hosting with AWS S3](https://dev.to/cloudwithharry_v26/from-zero-to-professional-building-unlimited-cloud-storage-website-hosting-with-aws-s3-i66)
 - [Service Discovery: The Backbone of Modern Distributed Systems day 50 of system design](https://dev.to/vincenttommi/service-discovery-the-backbone-of-modern-distributed-systems-ld7)
 - [100 Days of DevOps: Day 41](https://dev.to/wycliffealphus/100-days-of-devops-day-41-4a4c)
 - [Building an App Just by Talking to AI: My Google AI Studio Multimodal Challenge](https://dev.to/hanamaruki_ai/building-an-app-just-by-talking-to-ai-my-google-ai-studio-multimodal-challenge-5go2)
-- [Setting up incremental backups with PostgreSql - Recovery - Part 3](https://dev.to/trinitezinsou/setting-up-incremental-backups-with-postgresql-recovery-part-3-4foi)
-- [Setting up incremental backups with PostgreSql - Implementation - Part 2](https://dev.to/trinitezinsou/setting-up-incremental-backups-with-postgresql-implementation-part-2-2kmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
