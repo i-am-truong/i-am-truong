@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;4/4&rpar; LLM: In-Context Learning, Hype, and the Road Ahead](https://dev.to/jiminlee/44-llm-in-context-learning-hype-and-the-road-ahead-1229)
+- [🧪 LiteWorkspace: Minimal Context Loading for Faster Spring Tests](https://dev.to/our16/liteworkspace-minimal-context-loading-for-faster-spring-tests-4ad1)
+- [&lpar;3/4&rpar; LLM: Inside the Transformer](https://dev.to/jiminlee/34-llm-inside-the-transformer-15np)
+- [RAG knowledge base, AI agents, and remote large models](https://dev.to/junyu_fang_a216509a97501d/rag-knowledge-base-ai-agents-and-remote-large-models-34mb)
 - [Mastering Advanced JavaScript Skills 2025](https://dev.to/jackm_345442a09fb53b/mastering-advanced-javascript-skills-2025-2cnh)
-- [How I Built a Multi-Tenant CliniPrac - Practice Management Software System with Kiro](https://dev.to/adil_shaikh_e6b2d97d7bc75/how-i-built-a-multi-tenant-cliniprac-practice-management-software-system-with-kiro-3p76)
-- [How I Boosted Landing Page Conversions by 25% with Next.js 15, Tailwind, i18n, and SEO](https://dev.to/shubhradev/how-i-boosted-landing-page-conversions-by-25-with-nextjs-15-tailwind-i18n-and-seo-4nk1)
-- [Road Accident Report - AI Assistant](https://dev.to/sercan_ko_e714743414ed7e/road-accident-report-ai-assistant-fp0)
-- [Quantum Leaps in AI: Generalizing the Unseen](https://dev.to/arvindsundararajan/quantum-leaps-in-ai-generalizing-the-unseen-3i5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
