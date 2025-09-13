@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Developer Tooling #006](https://dev.to/patinthehat/developer-tooling-006-4g55)
-- [วิธีแก้ git conflict เบื้องต้นใน Virtual Studio Code](https://dev.to/teampat/withiiaek-git-conflict-ebuuengtnain-vs-code-3325)
-- [AI Assistants and Data Privacy: Who Trains on Your Data, Who Doesn’t](https://dev.to/alifar/ai-assistants-and-data-privacy-who-trains-on-your-data-who-doesnt-njj)
-- [Introducing db2lake: A Lightweight and Powerful ETL Framework for Node.js](https://dev.to/bahador_r/introducing-db2lake-a-lightweight-and-powerful-etl-framework-for-nodejs-12b6)
-- [Оптимизация конверсии SMB: как AI и автоматизация меняют правила игры для малого бизнеса](https://dev.to/cambocom/optimizatsiia-konviersii-smb-kak-ai-i-avtomatizatsiia-mieniaiut-pravila-ighry-dlia-malogho-bizniesa-1e25)
+- [🧱 Laravel 12 Middleware: From Zero to Production-Ready](https://dev.to/devtalk94/laravel-12-middleware-from-zero-to-production-ready-k2o)
+- [YouTube Storybook Converter](https://dev.to/aniruddhaadak/youtube-storybook-converter-4l3p)
+- [Outil de Cybersécurité du Jour - Sep 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-13-2025-3mpf)
+- [CloudHSM: The Fort Knox of Your Cloud Data](https://dev.to/leonardkachi/cloudhsm-the-fort-knox-of-your-cloud-data-4526)
+- [The Role of Software Automation in Driving B2B Sales Growth](https://dev.to/itsybizz/the-role-of-software-automation-in-driving-b2b-sales-growth-2l2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
