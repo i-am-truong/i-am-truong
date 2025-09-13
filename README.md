@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How an Email Travels Across the Network](https://dev.to/tahsin000/how-an-email-travels-across-the-network-ggb)
+- [I Built a Custom Python Logger Module without OOP &lpar;Console, File &amp; DB Logging&rpar;](https://dev.to/estrosec/i-built-a-custom-python-logger-module-without-oop-console-file-db-logging-310e)
+- [Git Remote Error: “remote origin already exists” And How to Fix It](https://dev.to/msnmongare/git-remote-error-remote-origin-already-exists-and-how-to-fix-it-3l88)
+- [GitOps - ArgoCD](https://dev.to/omar_ahmed/gitops-argocd-495g)
 - [&lpar;2/4&rpar; LLM: Data, Transformers, and Relentless Compute](https://dev.to/jiminlee/24-llm-data-transformers-and-relentless-compute-c4a)
-- [Symfony Station Communiqué - Stardate: ✦ 29 August 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-29-august-2025-the-latest-symfony-drupal-typo3-and-1jbh)
-- [Architexture AI](https://dev.to/ha3k/architexture-ai-28jg)
-- [Your Green Hand Helper: Your AI partner in plant parenthood.](https://dev.to/paolo_pao_30b161d1d5f07e5/your-green-hand-helper-your-ai-partner-in-plant-parenthood-3c6i)
-- [Symfony Station Communiqué - Stardate: ✦ 05 September 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-05-september-2025-the-latest-symfony-drupal-typo3-3ipl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
