@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Say goodbye to tedious work and use WorkManager to solve the problem of background work](https://dev.to/cat_dogrunning_in_the_s/say-goodbye-to-tedious-work-and-use-workmanager-to-solve-the-problem-of-background-work-3ojc)
+- [Electronic Product Design: From Concept to Real-World Devices](https://dev.to/kevinzhang109/electronic-product-design-from-concept-to-real-world-devices-1cei)
+- [🖼️ Mastering Image Tags in HTML &lpar;With Semantics&rpar;](https://dev.to/sharadaade/mastering-image-tags-in-html-with-semantics-4i9p)
 - [Mastering Svelte Lifecycle Hooks &amp; Accessibility: Essential Tips for Building Dynamic, Accessible Apps](https://dev.to/a1guy/mastering-svelte-lifecycle-hooks-accessibility-essential-tips-for-building-dynamic-accessible-4hio)
-- [Building a RAG System with Vertex AI, Pinecone, and LangChain &lpar;Step-by-Step Guide&rpar;](https://dev.to/sunil8521/building-a-rag-system-with-vertex-ai-pinecone-and-langchain-step-by-step-guide-2d18)
-- [Part-46: Trigger a Cloud Function based on Pubsub Subscriptions in GCP](https://dev.to/latchudevops/part-46-trigger-a-cloud-function-based-on-pubsub-subscriptions-in-gcp-fjp)
-- [Mastering DOM Manipulation with Svelte Actions and Children](https://dev.to/a1guy/mastering-dom-manipulation-with-svelte-actions-and-children-238m)
-- [Best Practice API Response JSON Ringkas, Konsisten, dan Mudah Ditelusuri](https://dev.to/naandan/best-practice-api-response-ringkas-konsisten-dan-mudah-ditelusuri-21bi)
+- [OSD600 – Lab 1: Reviewing Code](https://dev.to/kkrishnan10/osd600-lab-1-reviewing-code-3gjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
