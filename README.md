@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Increasing root &lpar; &quot;/&quot; &rpar; xfs filesystem in OEL Linux 8](https://dev.to/nabhaas/increasing-root-xfs-filesystem-in-oel-linux-8-4med)
+- [Quick Sort C++: Story](https://dev.to/harshm03/quick-sort-c-story-4do3)
+- [How fast do websites load from Google Search? Comparing various prefetching and on-demand load methods.](https://dev.to/paweldev/how-fast-do-websites-load-from-google-search-comparing-various-prefetching-and-on-demand-load-4i1c)
+- [Unlock Spatial Smarts: How Brain-Inspired AI is Revolutionizing Voice](https://dev.to/pannalabs/unlock-spatial-smarts-how-brain-inspired-ai-is-revolutionizing-voice-49fj)
 - [Why Personas Matter: A Friendly Approach to UI/UX Design](https://dev.to/lovestaco/why-personas-matter-a-friendly-approach-to-uiux-design-4l0f)
-- [Oracle Performance Views](https://dev.to/mrcaption49/oracle-performance-views-45ed)
-- [Building an Interactive Counter with Kotlin &amp; Jetpack Compose: Animations, State Management &amp; UX Excellence](https://dev.to/blamsa0mine/building-an-interactive-counter-with-kotlin-jetpack-compose-animations-state-management-ux-1kjb)
-- [AI First Aid Assistant](https://dev.to/rogerio_lima_72d949a1fe47/ai-first-aid-assistant-18gd)
-- [Virtual Studio AI: The End of the Photoshoot](https://dev.to/naresh1511/virtual-studio-ai-the-end-of-the-photoshoot-1l3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
