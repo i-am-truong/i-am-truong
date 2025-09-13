@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Top Benefits of Using Cross Dex for Multi-Chain Traders](https://dev.to/clara_peters_40b4f8e83421/the-top-benefits-of-using-cross-dex-for-multi-chain-traders-2djm)
-- [AudioMuse-AI : Sonic Analysis for Jellyfin and Navidrome](https://dev.to/guido_colangiuli_0435a4b2/audiomuse-ai-sonic-analysis-for-jellyfin-and-navidrome-5hd)
-- [Top 11 Document Parsing AI Tools for developers in 2025](https://dev.to/anmolbaranwal/top-11-document-parsing-ai-tools-for-developers-in-2025-4m6a)
-- [Cloudflare workersのリバースプロキシ](https://dev.to/suzulabo/cloudflare-workersnoribasupurokisi-3gob)
-- [JavaScript let vs var: A Beginner&#39;s Guide to Block Scoping](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-let-vs-var-a-beginners-guide-to-block-scoping-3j32)
+- [Introducing db2lake: A Lightweight and Powerful ETL Framework for Node.js](https://dev.to/bahador_r/introducing-db2lake-a-lightweight-and-powerful-etl-framework-for-nodejs-12b6)
+- [Оптимизация конверсии SMB: как AI и автоматизация меняют правила игры для малого бизнеса](https://dev.to/cambocom/optimizatsiia-konviersii-smb-kak-ai-i-avtomatizatsiia-mieniaiut-pravila-ighry-dlia-malogho-bizniesa-1e25)
+- [Harmonious Motion: Guiding Robots with Learned Flow Fields](https://dev.to/arvindsundararajan/harmonious-motion-guiding-robots-with-learned-flow-fields-538g)
+- [Did you know your database schema might be leaking through error messages and stack traces?](https://dev.to/amirsaeed_skomjani/did-you-know-your-database-schema-might-be-leaking-through-error-messages-and-stack-traces-2pe0)
+- [Blog 4](https://dev.to/riva_gada_328cee0b2ec207c/blog-4-16gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
