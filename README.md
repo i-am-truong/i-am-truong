@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Personas Matter: A Friendly Approach to UI/UX Design](https://dev.to/lovestaco/why-personas-matter-a-friendly-approach-to-uiux-design-4l0f)
+- [Oracle Performance Views](https://dev.to/mrcaption49/oracle-performance-views-45ed)
 - [Building an Interactive Counter with Kotlin &amp; Jetpack Compose: Animations, State Management &amp; UX Excellence](https://dev.to/blamsa0mine/building-an-interactive-counter-with-kotlin-jetpack-compose-animations-state-management-ux-1kjb)
 - [AI First Aid Assistant](https://dev.to/rogerio_lima_72d949a1fe47/ai-first-aid-assistant-18gd)
 - [Virtual Studio AI: The End of the Photoshoot](https://dev.to/naresh1511/virtual-studio-ai-the-end-of-the-photoshoot-1l3i)
-- [#DAY 7: From Data to Detection](https://dev.to/samueladeduntan/day-7-from-data-to-detection-309m)
-- [This Week&#39;s Tech Theater](https://dev.to/techsparklive/this-weeks-tech-theater-1cj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
