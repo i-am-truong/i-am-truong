@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Top Benefits of Using Cross Dex for Multi-Chain Traders](https://dev.to/clara_peters_40b4f8e83421/the-top-benefits-of-using-cross-dex-for-multi-chain-traders-2djm)
+- [AudioMuse-AI : Sonic Analysis for Jellyfin and Navidrome](https://dev.to/guido_colangiuli_0435a4b2/audiomuse-ai-sonic-analysis-for-jellyfin-and-navidrome-5hd)
 - [Top 11 Document Parsing AI Tools for developers in 2025](https://dev.to/anmolbaranwal/top-11-document-parsing-ai-tools-for-developers-in-2025-4m6a)
 - [Understanding JavaScript Data Types: A Beginner&#39;s Friendly Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/understanding-javascript-data-types-a-beginners-friendly-guide-4b9)
 - [JavaScript Comments: Why Writing Them is a Superpower for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-comments-why-writing-them-is-a-superpower-for-developers-1fhe)
-- [JavaScript Comments: Why Writing Them is a Superpower for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-comments-why-writing-them-is-a-superpower-for-developers-1k0e)
-- [Physical Pen Testing &amp; Social Engineering](https://dev.to/godofgeeks/physical-pen-testing-social-engineering-298b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
