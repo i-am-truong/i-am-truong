@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Getting Started with Python: A Beginner’s Guide](https://dev.to/kunal_sirohi_b049a8915083/getting-started-with-python-a-beginners-guide-2pkf)
-- [From Weeks to Days: Atome’s Real-Time Feature Engineering with RisingWave](https://dev.to/__354f265b41dafa0d901b/from-weeks-to-days-atomes-real-time-feature-engineering-with-risingwave-4nnf)
-- [Say goodbye to tedious work and use WorkManager to solve the problem of background work](https://dev.to/cat_dogrunning_in_the_s/say-goodbye-to-tedious-work-and-use-workmanager-to-solve-the-problem-of-background-work-3ojc)
-- [Electronic Product Design: From Concept to Real-World Devices](https://dev.to/kevinzhang109/electronic-product-design-from-concept-to-real-world-devices-1cei)
-- [🖼️ Mastering Image Tags in HTML &lpar;With Semantics&rpar;](https://dev.to/sharadaade/mastering-image-tags-in-html-with-semantics-4i9p)
+- [HTMX Dependent Dropdowns: 5 Strategies I Learned the Hard Way](https://dev.to/sisproid/htmx-dependent-dropdowns-5-strategies-i-learned-the-hard-way-2lj5)
+- [Meet Super Banana 🍌](https://dev.to/abhinav-writes/meet-super-banana-7hf)
+- [Proving God with JavaScript? A React &amp; TypeScript Experiment](https://dev.to/aelassas/proving-god-with-javascript-a-react-typescript-experiment-2c3m)
+- [Quantum Composition: Teaching AI to Paint Like Picasso](https://dev.to/arvindsundararajan/quantum-composition-teaching-ai-to-paint-like-picasso-3dnd)
+- [Building FocusQuest: How I Created a Gamified Productivity App with Kiro AI](https://dev.to/jake_joseph_1c55bb2b04b55/building-focusquest-how-i-created-a-gamified-productivity-app-with-kiro-ai-2kb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
