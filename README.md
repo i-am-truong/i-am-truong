@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-2-lp1)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/prudiec/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1833)
 - [The Shadow Empire: How Haowang Guarantee Became Telegram&#39;s $27 Billion Scam Superhub](https://dev.to/dhis_is_jj/the-shadow-empire-how-haowang-guarantee-became-telegrams-27-billion-scam-superhub-3a86)
 - [How to Deploy NiceGUI Apps with Docker on Sliplane](https://dev.to/code42cate/how-to-deploy-nicegui-apps-with-docker-on-sliplane-38c8)
 - [How to Add GitHub Secrets Easily &lpar;Step-by-Step Guide&rpar;](https://dev.to/msnmongare/how-to-add-github-secrets-easily-step-by-step-guide-3cmh)
-- [NutriLens AI: Personalized Nutrition Analyzer Using Gemini&#39;s Multimodal Magic 🍎✨](https://dev.to/anish_deokate_c6d085d7da3/nutrilens-ai-personalized-nutrition-analyzer-using-geminis-multimodal-magic-published-true-43i)
-- [Missing Reports in Nightwatch with GGR + Selenoid](https://dev.to/will_drygla/missing-reports-in-nightwatch-with-ggr-selenoid-378)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
