@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Increasing root &lpar; &quot;/&quot; &rpar; xfs filesystem in OEL Linux 8](https://dev.to/nabhaas/increasing-root-xfs-filesystem-in-oel-linux-8-4med)
-- [Quick Sort C++: Story](https://dev.to/harshm03/quick-sort-c-story-4do3)
-- [How fast do websites load from Google Search? Comparing various prefetching and on-demand load methods.](https://dev.to/paweldev/how-fast-do-websites-load-from-google-search-comparing-various-prefetching-and-on-demand-load-4i1c)
-- [Unlock Spatial Smarts: How Brain-Inspired AI is Revolutionizing Voice](https://dev.to/pannalabs/unlock-spatial-smarts-how-brain-inspired-ai-is-revolutionizing-voice-49fj)
-- [Why Personas Matter: A Friendly Approach to UI/UX Design](https://dev.to/lovestaco/why-personas-matter-a-friendly-approach-to-uiux-design-4l0f)
+- [Spatial AI: Giving Voice Assistants the &#39;Where&#39; and &#39;Why&#39;](https://dev.to/pannalabs/spatial-ai-giving-voice-assistants-the-where-and-why-2kn0)
+- [Archi-UI Tailwind Styled &lpar;UI-Library&rpar;](https://dev.to/vishnusangammanavar/archi-ui-tailwind-styled-ui-library-46a5)
+- [Unlocking Real-Time Responsiveness: The Asynchronous Revolution in Voice AI](https://dev.to/pannalabs/unlocking-real-time-responsiveness-the-asynchronous-revolution-in-voice-ai-okb)
+- [React Native: FlatList or SectionList, which one to use in your app?](https://dev.to/swarnaliroy94/react-native-flatlist-or-sectionlist-which-one-to-use-in-your-app-kkh)
+- [Taming the Data Tsunami: Handling Big Data in Real-Time](https://dev.to/sabaristacksurge/taming-the-data-tsunami-handling-big-data-in-real-time-2ig7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
