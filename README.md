@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Python Lists Really Are](https://dev.to/bhavesh_kukreja/how-do-lists-really-work-in-python-4cmn)
-- [A Complete Guide to Display Interfaces in Embedded SBCs](https://dev.to/jasonliu112/a-complete-guide-to-display-interfaces-in-embedded-sbcs-122p)
-- [Advanced Testing: Misunderstood but Essential &lpar;and a Little Weird&rpar;](https://dev.to/copyleftdev/advanced-testing-misunderstood-but-essential-and-a-little-weird-khf)
-- [Is Continuous Experimentation the Future of Product Development?](https://dev.to/dct_technology/is-continuous-experimentation-the-future-of-product-development-2mij)
-- [Flores amarillas](https://dev.to/leonardo_mndez_96f3a3c23/flores-amarillas-3omj)
+- [Memory Integrity Enforcement: Apple&#39;s New Security Feature for iOS](https://dev.to/arshtechpro/memory-integrity-enforcement-apples-new-security-feature-for-ios-320b)
+- [Mastering Svelte Custom Stores](https://dev.to/a1guy/mastering-svelte-custom-stores-5c1g)
+- [The Software Development Lifecycle &lpar;SDLC&rpar;](https://dev.to/hajixhayjhay/the-software-development-lifecycle-sdlc-33cd)
+- [FastAPI Mistakes That Kill Your Performance](https://dev.to/igorbenav/fastapi-mistakes-that-kill-your-performance-2b8k)
+- [The Cost of Ignoring Documentation in Growing Teams](https://dev.to/dct_technology/the-cost-of-ignoring-documentation-in-growing-teams-2gi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
