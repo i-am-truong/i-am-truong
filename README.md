@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: To Hit Driver Straight Always Do This Before Every Swing](https://dev.to/youtube_golf/danny-maude-to-hit-driver-straight-always-do-this-before-every-swing-265i)
-- [IGN: Is Xbox Game Pass Hurting Developers? - Unlocked Clips](https://dev.to/gg_news/ign-is-xbox-game-pass-hurting-developers-unlocked-clips-17cm)
-- [IGN: The Biggest Games Still to Come in 2025 - Fall Update Edition](https://dev.to/gg_news/ign-the-biggest-games-still-to-come-in-2025-fall-update-edition-28d5)
-- [CI/CD Setup for Node.js on Shared Hosting &lpar;cPanel&rpar;](https://dev.to/msnmongare/cicd-setup-for-nodejs-on-shared-hosting-cpanel-551j)
-- [I built FireScope: a Chrome DevTools panel for Firestore &lpar;open-source&rpar;](https://dev.to/omardulaimi/i-built-firescope-a-chrome-devtools-panel-for-firestore-open-source-48g0)
+- [Quantum Leaps in AI: Generalizing the Unseen](https://dev.to/arvindsundararajan/quantum-leaps-in-ai-generalizing-the-unseen-3i5e)
+- [[Boost]](https://dev.to/tushar_kumar_02d8a10abfc9/-2j2f)
+- [Harmonious Motion: AI Finally Makes Path Planning… Elegant](https://dev.to/pannalabs/harmonious-motion-ai-finally-makes-path-planning-elegant-4jap)
+- [AI-Tutor-AI-Learning-Companion with kiro](https://dev.to/monishwar_reddyvardiredd/ai-tutor-ai-learning-companion-made-by-kiro-4j7n)
+- [AI in Marketing: Personalization, Automation, and ROI](https://dev.to/nayeem79/ai-in-marketing-personalization-automation-and-roi-3lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
