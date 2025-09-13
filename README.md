@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎭How to test Next.js SSR API &lpar;Playwright + MSW&rpar; Part 2 Parallel test🎭](https://dev.to/webdeveloperhyper/how-to-test-nextjs-ssr-api-playwright-msw-part-2-parallel-test-3akj)
 - [DIY-AI Fix-It: A Conversational Assistant for Household Repairs](https://dev.to/abraham_yakubu/diy-ai-fix-it-a-conversational-assistant-for-household-repairs-4b15)
-- [Sei &quot;Withdrawal address is invalid&quot; on Kraken](https://dev.to/djweb3/sei-withdrawal-address-is-invalid-on-kraken-d68)
 - [Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no tex](https://dev.to/om_prakashprajapat_0d92f/using-the-nano-banana-model-create-a-17-scale-commercialized-figurine-of-the-characters-in-the-2agp)
 - [Peer Review](https://dev.to/tajudeen_abdulgafar_e0363/peer-review-651)
 - [Docker Series: Episode 22 — Docker Networking Advanced: Multi-Host &amp; Overlay Networks 🌐](https://dev.to/yash_sonawane25/docker-series-episode-22-docker-networking-advanced-multi-host-overlay-networks-4jg3)
