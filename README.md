@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Write... The answer is simple, yet deeply personal](https://dev.to/karel_merwe_1094b4c29dcf5/why-i-write-48ke)
-- [Coding Challenge: Can You Spot the Bug? 🔎🐛](https://dev.to/beyond-code/coding-challenge-can-you-spot-the-bug-3ffi)
-- [Flow Fields: The Secret to Naturally Intelligent Motion](https://dev.to/arvindsundararajan/flow-fields-the-secret-to-naturally-intelligent-motion-54em)
-- [Making Your Fetch Requests Production-Ready with ffetch](https://dev.to/gkoos/making-your-fetch-requests-production-ready-with-ffetch-537o)
-- [Buildstash Product Update - Metadata artifacts, custom targets, RTOS platforms..](https://dev.to/buildstash/buildstash-product-update-metadata-artifacts-custom-targets-rtos-platforms-2a4p)
+- [🚀 How to Upload Environment Variables to GitLab CI/CD](https://dev.to/ralvaracode/how-to-upload-environment-variables-to-gitlab-cicd-mo3)
+- [Audio Deepfakes: The Achilles&#39; Heel of AI Voice Security by Arvind Sundararajan](https://dev.to/arvindsundararajan/audio-deepfakes-the-achilles-heel-of-ai-voice-security-by-arvind-sundararajan-47hb)
+- [AdVariant Pro: Your AI Creative Agency in a Click](https://dev.to/debora_fernandes_69cb16d1/advariant-pro-your-ai-creative-agency-in-a-click-f2o)
+- [The while Loop: Python&#39;s Most Dangerous &amp; Powerful Tool](https://dev.to/aaron_rose_0787cc8b4775a0/the-while-loop-pythons-most-dangerous-powerful-tool-51nh)
+- [The Python Loop You Already Love &lpar;and Why It&#39;s So Smart&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-python-loop-you-already-love-and-why-its-so-smart-407j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
