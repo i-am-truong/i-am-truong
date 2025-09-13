@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Service Discovery: The Backbone of Modern Distributed Systems day 50 of system design](https://dev.to/vincenttommi/service-discovery-the-backbone-of-modern-distributed-systems-ld7)
+- [100 Days of DevOps: Day 41](https://dev.to/wycliffealphus/100-days-of-devops-day-41-4a4c)
+- [Building an App Just by Talking to AI: My Google AI Studio Multimodal Challenge](https://dev.to/hanamaruki_ai/building-an-app-just-by-talking-to-ai-my-google-ai-studio-multimodal-challenge-5go2)
+- [Setting up incremental backups with PostgreSql - Recovery - Part 3](https://dev.to/trinitezinsou/setting-up-incremental-backups-with-postgresql-recovery-part-3-4foi)
 - [Setting up incremental backups with PostgreSql - Implementation - Part 2](https://dev.to/trinitezinsou/setting-up-incremental-backups-with-postgresql-implementation-part-2-2kmg)
-- [Setting up incremental backups with PostgreSql - Introduction - Part 1](https://dev.to/trinitezinsou/setting-up-incremental-backups-with-postgresql-introduction-part-1-4l9k)
-- [New Framework Ripple? What about Others?](https://dev.to/framemuse/new-framework-ripple-what-about-others-3mc8)
-- [10 Simple Stress Relief Therapies for a Balanced Life](https://dev.to/diya_chauhan_235ba8404966/10-simple-stress-relief-therapies-for-a-balanced-life-955)
-- [Misunderstood: Notice What You’ve Been Feeling, Not Just What You Showed](https://dev.to/itsrajat/misunderstood-notice-what-youve-been-feeling-not-just-what-you-showed-1c7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
