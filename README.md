@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Getting Started with Python: A Beginner’s Guide](https://dev.to/kunal_sirohi_b049a8915083/getting-started-with-python-a-beginners-guide-2pkf)
+- [From Weeks to Days: Atome’s Real-Time Feature Engineering with RisingWave](https://dev.to/__354f265b41dafa0d901b/from-weeks-to-days-atomes-real-time-feature-engineering-with-risingwave-4nnf)
 - [Say goodbye to tedious work and use WorkManager to solve the problem of background work](https://dev.to/cat_dogrunning_in_the_s/say-goodbye-to-tedious-work-and-use-workmanager-to-solve-the-problem-of-background-work-3ojc)
 - [Electronic Product Design: From Concept to Real-World Devices](https://dev.to/kevinzhang109/electronic-product-design-from-concept-to-real-world-devices-1cei)
 - [🖼️ Mastering Image Tags in HTML &lpar;With Semantics&rpar;](https://dev.to/sharadaade/mastering-image-tags-in-html-with-semantics-4i9p)
-- [Mastering Svelte Lifecycle Hooks &amp; Accessibility: Essential Tips for Building Dynamic, Accessible Apps](https://dev.to/a1guy/mastering-svelte-lifecycle-hooks-accessibility-essential-tips-for-building-dynamic-accessible-4hio)
-- [OSD600 – Lab 1: Reviewing Code](https://dev.to/kkrishnan10/osd600-lab-1-reviewing-code-3gjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
