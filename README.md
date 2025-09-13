@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: Is &quot;Sinners&quot; a Musical?](https://dev.to/music_youtube/polyphonic-is-sinners-a-musical-5a5a)
-- [IGN: Hollow Knight: Silksong Boss Fight - Last Judge &lpar;Blasted Steps&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-last-judge-blasted-steps-4p6i)
-- [IGN: Malevilent - Official Cinematic Reveal Trailer](https://dev.to/gg_news/ign-malevilent-official-cinematic-reveal-trailer-1kl9)
-- [IGN: NLH 26 Review](https://dev.to/gg_news/ign-nlh-26-review-3aob)
-- [IGN: Donkey Kong Bananza: DK Island The First 30 Minutes](https://dev.to/gg_news/ign-donkey-kong-bananza-dk-island-the-first-30-minutes-291d)
+- [What Python Lists Really Are](https://dev.to/bhavesh_kukreja/how-do-lists-really-work-in-python-4cmn)
+- [A Complete Guide to Display Interfaces in Embedded SBCs](https://dev.to/jasonliu112/a-complete-guide-to-display-interfaces-in-embedded-sbcs-122p)
+- [Advanced Testing: Misunderstood but Essential &lpar;and a Little Weird&rpar;](https://dev.to/copyleftdev/advanced-testing-misunderstood-but-essential-and-a-little-weird-khf)
+- [Is Continuous Experimentation the Future of Product Development?](https://dev.to/dct_technology/is-continuous-experimentation-the-future-of-product-development-2mij)
+- [Flores amarillas](https://dev.to/leonardo_mndez_96f3a3c23/flores-amarillas-3omj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
