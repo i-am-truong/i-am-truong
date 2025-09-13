@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#DAY 7: From Data to Detection](https://dev.to/samueladeduntan/day-7-from-data-to-detection-309m)
+- [This Week&#39;s Tech Theater](https://dev.to/techsparklive/this-weeks-tech-theater-1cj0)
 - [5 Killer habits- Be a rebel; Book Review.](https://dev.to/jay_vartak_4406da1aa779a0/5-killer-habits-be-a-rebel-book-review-4o86)
 - [Developing Wordpress projects with Docker. Part 1. Create new project.](https://dev.to/alexlead/developing-wordpress-projects-with-docker-part-1-create-new-project-4a9p)
 - [AWS [Week-4]](https://dev.to/suvrajeet/aws-week-4-15h0)
-- [Unlocking LLMs: Secure, Efficient Inference for Everyone](https://dev.to/arvindsundararajan/unlocking-llms-secure-efficient-inference-for-everyone-2li5)
-- [FastAPI, Furious Tests: The Need for Speed](https://dev.to/polakshahar/fastapi-furious-tests-the-need-for-speed-11oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
