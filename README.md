@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How do low-rank adaptation of large language models work](https://dev.to/lewis_won/how-do-low-rank-adaptation-of-large-language-models-work-3ga6)
-- [&lpar;1/4&rpar; LLM: How LLMs Became the Bedrock of Modern AI](https://dev.to/jiminlee/14-llm-how-llms-became-the-bedrock-of-modern-ai-1bfp)
-- [Fórmulas de Excel/Sheets que ni la IA puede resolver &lpar;aún&rpar;](https://dev.to/elprotectorado/formulas-de-excelsheets-que-ni-la-ia-puede-resolver-aun-1f75)
-- [MVC vs MVVM: Deep Dive into Real-World Flow Patterns - Part 5](https://dev.to/dimension-zero/mvc-vs-mvvm-deep-dive-into-real-world-flow-patterns-part-5-4o28)
-- [MVC vs MVVM: Deep Dive into Real-World Flow Patterns - Part 4](https://dev.to/dimension-zero/mvc-vs-mvvm-deep-dive-into-real-world-flow-patterns-part-4-2n9i)
+- [KAFKA - Uber-Style Trip Event Pipeline](https://dev.to/zeeshanali0704/kafka-uber-style-trip-event-pipeline-4kc2)
+- [Day 94: When Pitch Preparation Becomes Self-Discovery](https://dev.to/casperday11/day-94-when-pitch-preparation-becomes-self-discovery-3m3i)
+- [How I Send SMS From My React App Using My Own Phone and SIM Card](https://dev.to/nikola_mitrovic_922e2665f/how-i-send-sms-from-my-react-app-using-my-own-phone-and-sim-card-4n0p)
+- [🏥 Loop Health – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/loop-health-round-2-javascript-21m9)
+- [Unreal Engine Coding with Neovim Plugins: Revolutionize Your UE Development Workflow](https://dev.to/taku25/unreal-engine-coding-with-neovim-plugins-revolutionize-your-ue-development-workflow-1mke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
