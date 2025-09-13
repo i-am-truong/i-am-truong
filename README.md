@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Danny Maude: To Hit Driver Straight Always Do This Before Every Swing](https://dev.to/youtube_golf/danny-maude-to-hit-driver-straight-always-do-this-before-every-swing-265i)
+- [IGN: Is Xbox Game Pass Hurting Developers? - Unlocked Clips](https://dev.to/gg_news/ign-is-xbox-game-pass-hurting-developers-unlocked-clips-17cm)
+- [IGN: The Biggest Games Still to Come in 2025 - Fall Update Edition](https://dev.to/gg_news/ign-the-biggest-games-still-to-come-in-2025-fall-update-edition-28d5)
+- [CI/CD Setup for Node.js on Shared Hosting &lpar;cPanel&rpar;](https://dev.to/msnmongare/cicd-setup-for-nodejs-on-shared-hosting-cpanel-551j)
 - [I built FireScope: a Chrome DevTools panel for Firestore &lpar;open-source&rpar;](https://dev.to/omardulaimi/i-built-firescope-a-chrome-devtools-panel-for-firestore-open-source-48g0)
-- [Image Compression Tool Comparison: Zippic vs. TinyPNG](https://dev.to/kelen/image-compression-tool-comparison-zippic-vs-tinypng-4bdc)
-- [How an Email Travels Across the Network](https://dev.to/tahsin000/how-an-email-travels-across-the-network-ggb)
-- [I Built a Custom Python Logger Module without OOP &lpar;Console, File &amp; DB Logging&rpar;](https://dev.to/estrosec/i-built-a-custom-python-logger-module-without-oop-console-file-db-logging-310e)
-- [Git Remote Error: “remote origin already exists” And How to Fix It](https://dev.to/msnmongare/git-remote-error-remote-origin-already-exists-and-how-to-fix-it-3l88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
