@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is a Bean in Spring Boot?](https://dev.to/varunpatil1709/what-is-a-bean-in-spring-boot-3g9)
-- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-2-lp1)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/prudiec/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1833)
-- [The Shadow Empire: How Haowang Guarantee Became Telegram&#39;s $27 Billion Scam Superhub](https://dev.to/dhis_is_jj/the-shadow-empire-how-haowang-guarantee-became-telegrams-27-billion-scam-superhub-3a86)
-- [How to Deploy NiceGUI Apps with Docker on Sliplane](https://dev.to/code42cate/how-to-deploy-nicegui-apps-with-docker-on-sliplane-38c8)
+- [Use ML5 with ZIM for Integrated Hand Tracking and More on the Canvas!](https://dev.to/zimlearn/use-ml5-with-zim-for-integrated-hand-tracking-and-more-on-the-canvas-4nkl)
+- [Build Apps with Google AI Studio: AI-Powered Ingredient Analysis for Smarter Shopping](https://dev.to/hossainfoysalt/build-apps-with-google-ai-studio-ai-powered-ingredient-analysis-for-smarter-shopping-47mg)
+- [Part 2: Automating News Alerts with AWS Lambda, SNS, and Event Bridge!](https://dev.to/bhatiagirish/part-2-automating-news-alerts-with-aws-lambda-sns-and-event-bridge-5f94)
+- [Videos to Notes App – Productivity Boost with Multimodal AI](https://dev.to/aayuamor/videos-to-notes-app-productivity-boost-with-multimodal-ai-4fi0)
+- [Python](https://dev.to/mukesh_singh/python-55n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
