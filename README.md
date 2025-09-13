@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tideman Voting Algorithm: A Graph-Based Approach to Elections](https://dev.to/vivekvohra/tideman-voting-algorithm-a-graph-based-approach-to-elections-330c)
-- [IGN: Emotionless: The Last Ticket – Official New Release Date Trailer](https://dev.to/gg_news/ign-emotionless-the-last-ticket-official-new-release-date-trailer-bk6)
-- [IGN: Borderlands 4: All 9 Vault Key Fragment Locations](https://dev.to/gg_news/ign-borderlands-4-all-9-vault-key-fragment-locations-2hg3)
-- [logger.ts in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/loggerts-in-mcp-mermaid-codebase-3kcp)
-- [Deploying Tideman Election App on AWS EC2 with Docker](https://dev.to/vivekvohra/deploying-tideman-election-app-on-aws-ec2-with-docker-1ff2)
+- [5 Killer habits- Be a rebel; Book Review.](https://dev.to/jay_vartak_4406da1aa779a0/5-killer-habits-be-a-rebel-book-review-4o86)
+- [Developing Wordpress projects with Docker. Part 1. Create new project.](https://dev.to/alexlead/developing-wordpress-projects-with-docker-part-1-create-new-project-4a9p)
+- [AWS [Week-4]](https://dev.to/suvrajeet/aws-week-4-15h0)
+- [Unlocking LLMs: Secure, Efficient Inference for Everyone](https://dev.to/arvindsundararajan/unlocking-llms-secure-efficient-inference-for-everyone-2li5)
+- [FastAPI, Furious Tests: The Need for Speed](https://dev.to/polakshahar/fastapi-furious-tests-the-need-for-speed-11oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
