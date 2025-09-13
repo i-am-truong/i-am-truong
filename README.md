@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Online Tools for Base64 Decode](https://dev.to/devtoolreview/top-5-online-tools-for-base64-decode-p0)
+- [Ancient Scripts, Modern AI: Bridging the Divide with Morphology-Aware Tokenization by Arvind Sundararajan](https://dev.to/arvindsundararajan/ancient-scripts-modern-ai-bridging-the-divide-with-morphology-aware-tokenization-by-arvind-b28)
 - [Accessing HashiCorp Vault UI in Kubernetes with LoadBalancer Service](https://dev.to/durrello/accessing-hashicorp-vault-ui-in-kubernetes-with-loadbalancer-service-4n6f)
+- [Smarter AI: Learning by Analogy, Not by Rote](https://dev.to/arvindsundararajan/smarter-ai-learning-by-analogy-not-by-rote-l2m)
 - [Untitled](https://dev.to/javier_barbin_ea103b5ed7c/untitled-24j6)
-- [How I Built My Portfolio as a Web Developer in Kochi](https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e)
-- [Day 49 - AWS Interview Questions](https://dev.to/udoh_deborah_b1e484c474bf/day-49-aws-interview-questions-44mk)
-- [AI-Powered Virtual Biopsy: Visualizing the Invisible in Bone Implants](https://dev.to/arvindsundararajan/ai-powered-virtual-biopsy-visualizing-the-invisible-in-bone-implants-5a24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
