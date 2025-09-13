@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing llms.txt — AI Transparency for the Iris Web Framework](https://dev.to/kataras/introducing-llmstxt-ai-transparency-for-the-iris-web-framework-4af)
 - [Why Use SQL Databases for AI Agent Memory](https://dev.to/bobur/why-use-sql-databases-for-ai-agent-memory-2cl5)
 - [Audit Trails in Web Applications: Why Detailed Logs Are Your Silent Guardian](https://dev.to/okoye_ndidiamaka_5e3b7d30/audit-trails-in-web-applications-why-detailed-logs-are-your-silent-guardian-2160)
 - [Update 0.2 for biobridge](https://dev.to/okerew/update-02-for-biobridge-2ak5)
 - [🧱 Laravel 12 Middleware: From Zero to Production-Ready](https://dev.to/devtalk94/laravel-12-middleware-from-zero-to-production-ready-k2o)
-- [YouTube Storybook Converter](https://dev.to/aniruddhaadak/youtube-storybook-converter-4l3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
