@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-51: 🚀To Configure VPC Firewall Rules with Target All Instances in GCP Cloud](https://dev.to/latchudevops/part-51-to-configure-vpc-firewall-rules-with-target-all-instances-in-gcp-cloud-342j)
+- [But, Why is Serverless? When should you use it?](https://dev.to/sushan/but-why-is-serverless-when-should-you-use-it-9n1)
 - [This AI Tells the Story Behind Any Historical Photo or Video](https://dev.to/axrisi/this-ai-tells-the-story-behind-any-historical-photo-or-video-451)
 - [Hello Devs! My journey from AI-powered coding to a live Chrome extension.](https://dev.to/xor01/title-hello-devs-my-journey-from-ai-powered-coding-to-a-live-chrome-extension-hhc)
 - [When Architecture Matures: The Rise of Reuse in Legal Tech](https://dev.to/pauljonessoftware/when-architecture-matures-the-rise-of-reuse-in-legal-tech-341b)
-- [Facial Time Machine](https://dev.to/sakshi_ghuge_41a632debeec/facial-time-machine-4hic)
-- [CalmaBeats](https://dev.to/kimdidit/calmabeats-2edh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
