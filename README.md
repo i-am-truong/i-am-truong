@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [how to view dark image mask with class labels in rgb?](https://dev.to/nl_p_/how-to-view-dark-image-mask-with-class-labels-in-rgb-1kdf)
-- [Surviving Screen Rotation without ViewModel: An Experimental Deep Dive into Circuit and Flow](https://dev.to/yuyuyuyuyu-dev/surviving-screen-rotation-without-viewmodel-an-experimental-deep-dive-into-circuit-and-flow-5ca0)
-- [Timing Attacks and Their Remedies — an in-depth guide](https://dev.to/m-a-h-b-u-b/timing-attacks-and-their-remedies-an-in-depth-guide-2j4)
-- [Vibe Coding vs. Professional Coding: A Developer’s Honest Take](https://dev.to/naresh_82de734ade4c1c66d9/vibe-coding-vs-professional-coding-a-developers-honest-take-5f16)
-- [How to Evaluate ROI on AI Tools Before You Buy](https://dev.to/kapusto/how-to-evaluate-roi-on-ai-tools-before-you-buy-1if1)
+- [Docker Series: Episode 22 — Docker Networking Advanced: Multi-Host &amp; Overlay Networks 🌐](https://dev.to/yash_sonawane25/docker-series-episode-22-docker-networking-advanced-multi-host-overlay-networks-4jg3)
+- [🚀 Day 13 of My DevOps Journey: Jenkins — Powering CI/CD Pipelines ⚙️](https://dev.to/dankbhardwaj/day-13-of-my-devops-journey-jenkins-powering-cicd-pipelines-1icc)
+- [Building Contextr: A CLI Tool to Package Repository Context for LLMs](https://dev.to/dharam_ghevariya_0d946c37/building-contextr-a-cli-tool-to-package-repository-context-for-llms-j9g)
+- [I wish every young businessperson could learn this...](https://dev.to/jaideepparashar/i-wish-every-young-businessperson-could-learn-this-21f)
+- [The Hardest Decision I Ever Made in Business](https://dev.to/jaideepparashar/the-hardest-decision-i-ever-made-in-business-5996)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
