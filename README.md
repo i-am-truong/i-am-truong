@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sei &quot;Withdrawal address is invalid&quot; on Kraken](https://dev.to/djweb3/sei-withdrawal-address-is-invalid-on-kraken-454n)
-- [🎭How to test Next.js SSR API &lpar;Playwright + MSW&rpar; Part 2 Parallel test🎭](https://dev.to/webdeveloperhyper/how-to-test-nextjs-ssr-api-playwright-msw-part-2-parallel-test-3akj)
-- [DIY-AI Fix-It: A Conversational Assistant for Household Repairs](https://dev.to/abraham_yakubu/diy-ai-fix-it-a-conversational-assistant-for-household-repairs-4b15)
-- [Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no tex](https://dev.to/om_prakashprajapat_0d92f/using-the-nano-banana-model-create-a-17-scale-commercialized-figurine-of-the-characters-in-the-2agp)
-- [Peer Review](https://dev.to/tajudeen_abdulgafar_e0363/peer-review-651)
+- [Polyphonic: Is &quot;Sinners&quot; a Musical?](https://dev.to/music_youtube/polyphonic-is-sinners-a-musical-5a5a)
+- [IGN: Hollow Knight: Silksong Boss Fight - Last Judge &lpar;Blasted Steps&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-last-judge-blasted-steps-4p6i)
+- [IGN: Malevilent - Official Cinematic Reveal Trailer](https://dev.to/gg_news/ign-malevilent-official-cinematic-reveal-trailer-1kl9)
+- [IGN: NLH 26 Review](https://dev.to/gg_news/ign-nlh-26-review-3aob)
+- [IGN: Donkey Kong Bananza: DK Island The First 30 Minutes](https://dev.to/gg_news/ign-donkey-kong-bananza-dk-island-the-first-30-minutes-291d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
