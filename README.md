@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First Contributions: My First Pull request to a project.](https://dev.to/spitfiyah/first-contributions-my-first-pull-request-to-a-project-5501)
-- [🚀 Day 14 of My Python Learning Journey](https://dev.to/_adii3107/day-14-of-my-python-learning-journey-50nh)
-- [Hands-On Exploitation with Metasploitable2: From Scanning to Mitigation](https://dev.to/seifeldienahmad/hands-on-exploitation-with-metasploitable2-from-scanning-to-mitigation-2h5k)
-- [How Big Titans Swipe Through Billions of usernames when you press Submit](https://dev.to/aadarsh-nagrath/how-big-titans-swipe-through-billions-of-usernames-when-you-press-submit-3c53)
-- [💰 Why Every Full Stack Developer Should Learn Financial Systems](https://dev.to/pjdeveloper896/why-every-full-stack-developer-should-learn-financial-systems-46m4)
+- [How do low-rank adaptation of large language models work](https://dev.to/lewis_won/how-do-low-rank-adaptation-of-large-language-models-work-3ga6)
+- [&lpar;1/4&rpar; LLM: How LLMs Became the Bedrock of Modern AI](https://dev.to/jiminlee/14-llm-how-llms-became-the-bedrock-of-modern-ai-1bfp)
+- [Fórmulas de Excel/Sheets que ni la IA puede resolver &lpar;aún&rpar;](https://dev.to/elprotectorado/formulas-de-excelsheets-que-ni-la-ia-puede-resolver-aun-1f75)
+- [MVC vs MVVM: Deep Dive into Real-World Flow Patterns - Part 5](https://dev.to/dimension-zero/mvc-vs-mvvm-deep-dive-into-real-world-flow-patterns-part-5-4o28)
+- [MVC vs MVVM: Deep Dive into Real-World Flow Patterns - Part 4](https://dev.to/dimension-zero/mvc-vs-mvvm-deep-dive-into-real-world-flow-patterns-part-4-2n9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
