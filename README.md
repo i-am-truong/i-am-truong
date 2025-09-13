@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding Challenge: Can You Spot the Bug? 🔎🐛](https://dev.to/beyond-code/coding-challenge-can-you-spot-the-bug-3ffi)
+- [Flow Fields: The Secret to Naturally Intelligent Motion](https://dev.to/arvindsundararajan/flow-fields-the-secret-to-naturally-intelligent-motion-54em)
 - [Making Your Fetch Requests Production-Ready with ffetch](https://dev.to/gkoos/making-your-fetch-requests-production-ready-with-ffetch-537o)
 - [Buildstash Product Update - Metadata artifacts, custom targets, RTOS platforms..](https://dev.to/buildstash/buildstash-product-update-metadata-artifacts-custom-targets-rtos-platforms-2a4p)
-- [The @grok craze: What’s behind the hype?](https://dev.to/goldenekpendu/the-grok-craze-whats-behind-the-hype-559g)
-- [VisionGen](https://dev.to/nadinev/visiongen-2kdp)
-- [AI-generated Art and AI-generated code are treated differently](https://dev.to/zeedu_dev/ai-generated-art-and-ai-generated-code-are-treated-differently-agh)
+- [Reducing load time in tableau is a task !!](https://dev.to/dipti_m_2e7ba36c478d1a48a/reducing-load-time-in-tableau-is-a-task--59di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
