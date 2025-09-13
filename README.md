@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Use SQL Databases for AI Agent Memory](https://dev.to/bobur/why-use-sql-databases-for-ai-agent-memory-2cl5)
+- [Audit Trails in Web Applications: Why Detailed Logs Are Your Silent Guardian](https://dev.to/okoye_ndidiamaka_5e3b7d30/audit-trails-in-web-applications-why-detailed-logs-are-your-silent-guardian-2160)
+- [Update 0.2 for biobridge](https://dev.to/okerew/update-02-for-biobridge-2ak5)
 - [🧱 Laravel 12 Middleware: From Zero to Production-Ready](https://dev.to/devtalk94/laravel-12-middleware-from-zero-to-production-ready-k2o)
 - [YouTube Storybook Converter](https://dev.to/aniruddhaadak/youtube-storybook-converter-4l3p)
-- [Outil de Cybersécurité du Jour - Sep 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-13-2025-3mpf)
-- [CloudHSM: The Fort Knox of Your Cloud Data](https://dev.to/leonardkachi/cloudhsm-the-fort-knox-of-your-cloud-data-4526)
-- [The Role of Software Automation in Driving B2B Sales Growth](https://dev.to/itsybizz/the-role-of-software-automation-in-driving-b2b-sales-growth-2l2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
