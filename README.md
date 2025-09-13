@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KAFKA - Uber-Style Trip Event Pipeline](https://dev.to/zeeshanali0704/kafka-uber-style-trip-event-pipeline-4kc2)
-- [Day 94: When Pitch Preparation Becomes Self-Discovery](https://dev.to/casperday11/day-94-when-pitch-preparation-becomes-self-discovery-3m3i)
-- [How I Send SMS From My React App Using My Own Phone and SIM Card](https://dev.to/nikola_mitrovic_922e2665f/how-i-send-sms-from-my-react-app-using-my-own-phone-and-sim-card-4n0p)
-- [🏥 Loop Health – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/loop-health-round-2-javascript-21m9)
-- [Unreal Engine Coding with Neovim Plugins: Revolutionize Your UE Development Workflow](https://dev.to/taku25/unreal-engine-coding-with-neovim-plugins-revolutionize-your-ue-development-workflow-1mke)
+- [&lpar;2/4&rpar; LLM: Data, Transformers, and Relentless Compute](https://dev.to/jiminlee/24-llm-data-transformers-and-relentless-compute-c4a)
+- [Symfony Station Communiqué - Stardate: ✦ 29 August 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-29-august-2025-the-latest-symfony-drupal-typo3-and-1jbh)
+- [Architexture AI](https://dev.to/ha3k/architexture-ai-28jg)
+- [Your Green Hand Helper: Your AI partner in plant parenthood.](https://dev.to/paolo_pao_30b161d1d5f07e5/your-green-hand-helper-your-ai-partner-in-plant-parenthood-3c6i)
+- [Symfony Station Communiqué - Stardate: ✦ 05 September 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-05-september-2025-the-latest-symfony-drupal-typo3-3ipl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
