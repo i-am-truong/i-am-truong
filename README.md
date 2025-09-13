@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no tex](https://dev.to/om_prakashprajapat_0d92f/using-the-nano-banana-model-create-a-17-scale-commercialized-figurine-of-the-characters-in-the-2agp)
+- [Peer Review](https://dev.to/tajudeen_abdulgafar_e0363/peer-review-651)
 - [Docker Series: Episode 22 — Docker Networking Advanced: Multi-Host &amp; Overlay Networks 🌐](https://dev.to/yash_sonawane25/docker-series-episode-22-docker-networking-advanced-multi-host-overlay-networks-4jg3)
 - [🚀 Day 13 of My DevOps Journey: Jenkins — Powering CI/CD Pipelines ⚙️](https://dev.to/dankbhardwaj/day-13-of-my-devops-journey-jenkins-powering-cicd-pipelines-1icc)
 - [Building Contextr: A CLI Tool to Package Repository Context for LLMs](https://dev.to/dharam_ghevariya_0d946c37/building-contextr-a-cli-tool-to-package-repository-context-for-llms-j9g)
-- [I wish every young businessperson could learn this...](https://dev.to/jaideepparashar/i-wish-every-young-businessperson-could-learn-this-21f)
-- [The Hardest Decision I Ever Made in Business](https://dev.to/jaideepparashar/the-hardest-decision-i-ever-made-in-business-5996)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
