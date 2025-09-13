@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 11 Document Parsing AI Tools for developers in 2025](https://dev.to/anmolbaranwal/top-11-document-parsing-ai-tools-for-developers-in-2025-4m6a)
+- [Understanding JavaScript Data Types: A Beginner&#39;s Friendly Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/understanding-javascript-data-types-a-beginners-friendly-guide-4b9)
 - [JavaScript Comments: Why Writing Them is a Superpower for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-comments-why-writing-them-is-a-superpower-for-developers-1fhe)
 - [JavaScript Comments: Why Writing Them is a Superpower for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-comments-why-writing-them-is-a-superpower-for-developers-1k0e)
 - [Physical Pen Testing &amp; Social Engineering](https://dev.to/godofgeeks/physical-pen-testing-social-engineering-298b)
-- [visual programming](https://dev.to/datse40/visual-programming-ml9)
-- [visual programming C#](https://dev.to/datse40/visual-programming-c-33n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
