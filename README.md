@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kiro: the good, bad and ugly part in my personal experience](https://dev.to/fikuri/kiro-the-good-bad-and-ugly-part-in-my-personal-experience-1neh)
-- [Tired of Generic Visuals? 5 AI Tools Everybody Should Be Using Today](https://dev.to/werliton/tired-of-generic-visuals-5-ai-tools-everybody-should-be-using-today-4c9m)
-- [Card Beam Animation](https://dev.to/ist-github/card-beam-animation-4lpo)
-- [&lpar;4/4&rpar; LLM: In-Context Learning, Hype, and the Road Ahead](https://dev.to/jiminlee/44-llm-in-context-learning-hype-and-the-road-ahead-1229)
-- [🧪 LiteWorkspace: Minimal Context Loading for Faster Spring Tests](https://dev.to/our16/liteworkspace-minimal-context-loading-for-faster-spring-tests-4ad1)
+- [This AI Tells the Story Behind Any Historical Photo or Video](https://dev.to/axrisi/this-ai-tells-the-story-behind-any-historical-photo-or-video-451)
+- [Hello Devs! My journey from AI-powered coding to a live Chrome extension.](https://dev.to/xor01/title-hello-devs-my-journey-from-ai-powered-coding-to-a-live-chrome-extension-hhc)
+- [When Architecture Matures: The Rise of Reuse in Legal Tech](https://dev.to/pauljonessoftware/when-architecture-matures-the-rise-of-reuse-in-legal-tech-341b)
+- [Facial Time Machine](https://dev.to/sakshi_ghuge_41a632debeec/facial-time-machine-4hic)
+- [CalmaBeats](https://dev.to/kimdidit/calmabeats-2edh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
