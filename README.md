@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/henry_messiahtmt_099ca84/understanding-object-oriented-programming-oop-in-javascript-3cf8)
+- [MVC vs MVVM: Deep Dive into Real-World Flow Patterns - Part 3](https://dev.to/dimension-zero/mvc-vs-mvvm-deep-dive-into-real-world-flow-patterns-part-3-44ac)
+- [🧠 Problem Decomposition in Programming: Breaking Down Complexity](https://dev.to/mzunairtariq/problem-decomposition-in-programming-breaking-down-complexity-4b47)
 - [This Free App Finally Makes Running Windows Apps on Linux Actually Easy](https://dev.to/shiva_shanker_k/this-free-app-finally-makes-running-windows-apps-on-linux-actually-easy-45cg)
 - [Anthropic Just Dropped Claude&#39;s Memory Feature &lpar;And It&#39;s a Game-Changer&rpar;](https://dev.to/shiva_shanker_k/anthropic-just-dropped-claudes-memory-feature-and-its-a-game-changer-128h)
-- [Hello World from n8n 🚀](https://dev.to/chang_huang_33eec5d6065ff/hello-world-from-n8n-3p3m)
-- [Part-49: 🌐 Google Cloud VPC – Auto Mode vs Custom Mode &lpar;with VM Deployment&rpar;](https://dev.to/latchudevops/part-49-google-cloud-vpc-auto-mode-vs-custom-mode-with-vm-deployment-k17)
-- [What is Devops](https://dev.to/charan_gutti_cf60c6185074/what-is-devops-321b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
