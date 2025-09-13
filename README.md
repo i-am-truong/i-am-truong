@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
-- [The Future of Applied AI Engineers](https://dev.to/jackm_345442a09fb53b/the-future-of-applied-ai-engineers-5gl5)
-- [From Brittle to Brilliant: A Developer&#39;s Guide to Building Trustworthy Graph RAG with Local LLMs](https://dev.to/bibinprathap/from-brittle-to-brilliant-a-developers-guide-to-building-trustworthy-graph-rag-with-local-llms-1217)
-- [React&#39;s Component Revolution: How Closures Became the Foundation of Modern UI Components](https://dev.to/franson33/reacts-component-revolution-how-closures-became-the-foundation-of-modern-ui-components-3nia)
-- [Understanding Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/henry_messiahtmt_099ca84/understanding-object-oriented-programming-oop-in-javascript-3cf8)
+- [Setting up incremental backups with PostgreSql - Implementation - Part 2](https://dev.to/trinitezinsou/setting-up-incremental-backups-with-postgresql-implementation-part-2-2kmg)
+- [Setting up incremental backups with PostgreSql - Introduction - Part 1](https://dev.to/trinitezinsou/setting-up-incremental-backups-with-postgresql-introduction-part-1-4l9k)
+- [New Framework Ripple? What about Others?](https://dev.to/framemuse/new-framework-ripple-what-about-others-3mc8)
+- [10 Simple Stress Relief Therapies for a Balanced Life](https://dev.to/diya_chauhan_235ba8404966/10-simple-stress-relief-therapies-for-a-balanced-life-955)
+- [Misunderstood: Notice What You’ve Been Feeling, Not Just What You Showed](https://dev.to/itsrajat/misunderstood-notice-what-youve-been-feeling-not-just-what-you-showed-1c7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
