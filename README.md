@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Groovy Shell Scripts for Everyday Development Tasks](https://dev.to/djamware_tutorial_eba1a61/groovy-shell-scripts-for-everyday-development-tasks-3dml)
-- [⚛️ React 19 Is Coming: What’s New &amp; How to Prepare &lpar;2025 Guide&rpar; 🚀](https://dev.to/zeescriptdev/react-19-is-coming-whats-new-how-to-prepare-2025-guide-1ng9)
-- [Resolving Missing Log Gaps in Data Guard](https://dev.to/vahidusefzadeh/resolving-missing-log-gaps-in-data-guard-230b)
-- [Adding a &quot;Last Used&quot; Badge to Your Website Login Page](https://dev.to/stephengade/adding-a-last-used-badge-to-your-website-login-page-43c5)
-- [From Zero to Professional: Building Unlimited Cloud Storage + Website Hosting with AWS S3](https://dev.to/cloudwithharry_v26/from-zero-to-professional-building-unlimited-cloud-storage-website-hosting-with-aws-s3-i66)
+- [First Contributions: My First Pull request to a project.](https://dev.to/spitfiyah/first-contributions-my-first-pull-request-to-a-project-5501)
+- [🚀 Day 14 of My Python Learning Journey](https://dev.to/_adii3107/day-14-of-my-python-learning-journey-50nh)
+- [Hands-On Exploitation with Metasploitable2: From Scanning to Mitigation](https://dev.to/seifeldienahmad/hands-on-exploitation-with-metasploitable2-from-scanning-to-mitigation-2h5k)
+- [How Big Titans Swipe Through Billions of usernames when you press Submit](https://dev.to/aadarsh-nagrath/how-big-titans-swipe-through-billions-of-usernames-when-you-press-submit-3c53)
+- [💰 Why Every Full Stack Developer Should Learn Financial Systems](https://dev.to/pjdeveloper896/why-every-full-stack-developer-should-learn-financial-systems-46m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
