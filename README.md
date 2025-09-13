@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Bash Scripting With Me 🚀 - Day 4](https://dev.to/babsarena/learn-bash-scripting-with-me-day-4-fo7)
-- [Why I&#39;m Starting to Share My Developer Journey](https://dev.to/navidreza80/why-im-starting-to-share-my-developer-journey-3lah)
-- [MCP Servers Made Simple: Why Model Context Protocol Matters for AI](https://dev.to/snehalkadwe/mcp-servers-made-simple-why-model-context-protocol-matters-for-ai-1ppf)
-- [🚀 Gemini 2.5 “Nano Banana 🍌 ”: Ultra-Light Linux Image for Banana Pi M2 Zero &amp; NanoPi Neo Air](https://dev.to/hemant_007/gemini-25-nano-banana-ultra-light-linux-image-for-banana-pi-m2-zero-nanopi-neo-air-4bj2)
-- [Creating and Publishing Your First NPM Package 📦](https://dev.to/raksbisht/creating-and-publishing-your-first-npm-package-27ih)
+- [Then vs Await in JavaScript](https://dev.to/tenelabs/then-vs-await-in-javascript-56lh)
+- [🚀 Java 21 Virtual Threads: A Deep Dive into Mounting &amp; Unmounting](https://dev.to/mrayandutta/java-21-virtual-threads-a-deep-dive-into-mounting-unmounting-58n7)
+- [Guide to Tuning Your uWSGI Server for Optimal Performance](https://dev.to/devaaai/guide-to-tuning-your-uwsgi-server-for-optimal-performance-32oj)
+- [🐳 Mastering Dockerfile: A Complete Beginner’s Guide to Building Containers](https://dev.to/lalith_charan/mastering-dockerfile-a-complete-beginners-guide-to-building-containers-2368)
+- [3 Java Mini Programs to Try Today!](https://dev.to/mohamad_mhana/3-java-mini-programs-to-try-today-3i98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
