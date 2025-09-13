@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Top 50 Python Interview Questions: A Deep Dive into Python Proficiency](https://dev.to/vjnvisakh/unveiling-the-top-50-python-interview-questions-a-deep-dive-into-python-proficiency-27nd)
-- [One... Two... Testing](https://dev.to/omanfk/one-two-testing-1hab)
-- [Enigma Machine : How a step on its rotor change the mapping](https://dev.to/heavenhunter/enigma-machine-how-a-step-on-its-rotor-change-the-mapping-24nf)
-- [Assetmaster](https://dev.to/prashant_kushwaha_a5c7fe9/assetmaster-65o)
-- [Take Control of your Logs: Top 10 ways using the OpenTelemetry Collector](https://dev.to/agardnerit/take-control-of-your-logs-top-10-ways-using-the-opentelemetry-collector-2d3f)
+- [This Free App Finally Makes Running Windows Apps on Linux Actually Easy](https://dev.to/shiva_shanker_k/this-free-app-finally-makes-running-windows-apps-on-linux-actually-easy-45cg)
+- [Anthropic Just Dropped Claude&#39;s Memory Feature &lpar;And It&#39;s a Game-Changer&rpar;](https://dev.to/shiva_shanker_k/anthropic-just-dropped-claudes-memory-feature-and-its-a-game-changer-128h)
+- [Hello World from n8n 🚀](https://dev.to/chang_huang_33eec5d6065ff/hello-world-from-n8n-3p3m)
+- [Part-49: 🌐 Google Cloud VPC – Auto Mode vs Custom Mode &lpar;with VM Deployment&rpar;](https://dev.to/latchudevops/part-49-google-cloud-vpc-auto-mode-vs-custom-mode-with-vm-deployment-k17)
+- [What is Devops](https://dev.to/charan_gutti_cf60c6185074/what-is-devops-321b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
