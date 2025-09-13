@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Comic AI](https://dev.to/freepalestine/comic-ai-2ogb)
+- [The Information Blind Spot: How a 2-Hour News Delay Can Cost You Millions](https://dev.to/mrdubey/the-information-blind-spot-how-a-2-hour-news-delay-can-cost-you-millions-501o)
+- [Choose your List Component wisely!](https://dev.to/swarnaliroy94/choose-your-list-component-wisely-90g)
 - [Then vs Await in JavaScript](https://dev.to/tenelabs/then-vs-await-in-javascript-56lh)
 - [🚀 Java 21 Virtual Threads: A Deep Dive into Mounting &amp; Unmounting](https://dev.to/mrayandutta/java-21-virtual-threads-a-deep-dive-into-mounting-unmounting-58n7)
-- [Guide to Tuning Your uWSGI Server for Optimal Performance](https://dev.to/devaaai/guide-to-tuning-your-uwsgi-server-for-optimal-performance-32oj)
-- [🐳 Mastering Dockerfile: A Complete Beginner’s Guide to Building Containers](https://dev.to/lalith_charan/mastering-dockerfile-a-complete-beginners-guide-to-building-containers-2368)
-- [3 Java Mini Programs to Try Today!](https://dev.to/mohamad_mhana/3-java-mini-programs-to-try-today-3i98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
