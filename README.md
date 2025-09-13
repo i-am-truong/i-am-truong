@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spatial AI: Giving Voice Assistants the &#39;Where&#39; and &#39;Why&#39;](https://dev.to/pannalabs/spatial-ai-giving-voice-assistants-the-where-and-why-2kn0)
-- [Archi-UI Tailwind Styled &lpar;UI-Library&rpar;](https://dev.to/vishnusangammanavar/archi-ui-tailwind-styled-ui-library-46a5)
-- [Unlocking Real-Time Responsiveness: The Asynchronous Revolution in Voice AI](https://dev.to/pannalabs/unlocking-real-time-responsiveness-the-asynchronous-revolution-in-voice-ai-okb)
-- [React Native: FlatList or SectionList, which one to use in your app?](https://dev.to/swarnaliroy94/react-native-flatlist-or-sectionlist-which-one-to-use-in-your-app-kkh)
-- [Taming the Data Tsunami: Handling Big Data in Real-Time](https://dev.to/sabaristacksurge/taming-the-data-tsunami-handling-big-data-in-real-time-2ig7)
+- [Learn Bash Scripting With Me 🚀 - Day 4](https://dev.to/babsarena/learn-bash-scripting-with-me-day-4-fo7)
+- [Why I&#39;m Starting to Share My Developer Journey](https://dev.to/navidreza80/why-im-starting-to-share-my-developer-journey-3lah)
+- [MCP Servers Made Simple: Why Model Context Protocol Matters for AI](https://dev.to/snehalkadwe/mcp-servers-made-simple-why-model-context-protocol-matters-for-ai-1ppf)
+- [🚀 Gemini 2.5 “Nano Banana 🍌 ”: Ultra-Light Linux Image for Banana Pi M2 Zero &amp; NanoPi Neo Air](https://dev.to/hemant_007/gemini-25-nano-banana-ultra-light-linux-image-for-banana-pi-m2-zero-nanopi-neo-air-4bj2)
+- [Creating and Publishing Your First NPM Package 📦](https://dev.to/raksbisht/creating-and-publishing-your-first-npm-package-27ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
