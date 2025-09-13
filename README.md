@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built FireScope: a Chrome DevTools panel for Firestore &lpar;open-source&rpar;](https://dev.to/omardulaimi/i-built-firescope-a-chrome-devtools-panel-for-firestore-open-source-48g0)
+- [Image Compression Tool Comparison: Zippic vs. TinyPNG](https://dev.to/kelen/image-compression-tool-comparison-zippic-vs-tinypng-4bdc)
 - [How an Email Travels Across the Network](https://dev.to/tahsin000/how-an-email-travels-across-the-network-ggb)
 - [I Built a Custom Python Logger Module without OOP &lpar;Console, File &amp; DB Logging&rpar;](https://dev.to/estrosec/i-built-a-custom-python-logger-module-without-oop-console-file-db-logging-310e)
 - [Git Remote Error: “remote origin already exists” And How to Fix It](https://dev.to/msnmongare/git-remote-error-remote-origin-already-exists-and-how-to-fix-it-3l88)
-- [GitOps - ArgoCD](https://dev.to/omar_ahmed/gitops-argocd-495g)
-- [&lpar;2/4&rpar; LLM: Data, Transformers, and Relentless Compute](https://dev.to/jiminlee/24-llm-data-transformers-and-relentless-compute-c4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
