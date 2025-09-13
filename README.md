@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Code to Cloud: Seamless CI/CD with GitHub Actions and Azure Web Apps](https://dev.to/ibrahimbioabu/from-code-to-cloud-seamless-cicd-with-github-actions-and-azure-web-apps-3f0h)
+- [🚀 Upgrading &amp; Utilising My Model &lpar;ML/AI Integration Series&rpar;](https://dev.to/hassamdev/upgrading-utilising-my-model-mlai-integration-series-3hj9)
 - [🚀 How to Upload Environment Variables to GitLab CI/CD](https://dev.to/ralvaracode/how-to-upload-environment-variables-to-gitlab-cicd-mo3)
 - [Audio Deepfakes: The Achilles&#39; Heel of AI Voice Security by Arvind Sundararajan](https://dev.to/arvindsundararajan/audio-deepfakes-the-achilles-heel-of-ai-voice-security-by-arvind-sundararajan-47hb)
 - [AdVariant Pro: Your AI Creative Agency in a Click](https://dev.to/debora_fernandes_69cb16d1/advariant-pro-your-ai-creative-agency-in-a-click-f2o)
-- [The while Loop: Python&#39;s Most Dangerous &amp; Powerful Tool](https://dev.to/aaron_rose_0787cc8b4775a0/the-while-loop-pythons-most-dangerous-powerful-tool-51nh)
-- [The Python Loop You Already Love &lpar;and Why It&#39;s So Smart&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-python-loop-you-already-love-and-why-its-so-smart-407j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
