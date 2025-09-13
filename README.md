@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Svelte Lifecycle Hooks &amp; Accessibility: Essential Tips for Building Dynamic, Accessible Apps](https://dev.to/a1guy/mastering-svelte-lifecycle-hooks-accessibility-essential-tips-for-building-dynamic-accessible-4hio)
+- [Building a RAG System with Vertex AI, Pinecone, and LangChain &lpar;Step-by-Step Guide&rpar;](https://dev.to/sunil8521/building-a-rag-system-with-vertex-ai-pinecone-and-langchain-step-by-step-guide-2d18)
+- [Part-46: Trigger a Cloud Function based on Pubsub Subscriptions in GCP](https://dev.to/latchudevops/part-46-trigger-a-cloud-function-based-on-pubsub-subscriptions-in-gcp-fjp)
 - [Mastering DOM Manipulation with Svelte Actions and Children](https://dev.to/a1guy/mastering-dom-manipulation-with-svelte-actions-and-children-238m)
 - [Best Practice API Response JSON Ringkas, Konsisten, dan Mudah Ditelusuri](https://dev.to/naandan/best-practice-api-response-ringkas-konsisten-dan-mudah-ditelusuri-21bi)
-- [**HackSpire’25: More Than Just Code – It&#39;s Where Ideas Take Flight **🚀](https://dev.to/debaditya_saha_5b45172210/hackspire25-more-than-just-code-its-where-ideas-take-flight--lll)
-- [Memory Integrity Enforcement: Apple&#39;s New Security Feature for iOS](https://dev.to/arshtechpro/memory-integrity-enforcement-apples-new-security-feature-for-ios-320b)
-- [Mastering Svelte Custom Stores](https://dev.to/a1guy/mastering-svelte-custom-stores-5c1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
