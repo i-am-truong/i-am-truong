@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing llms.txt — AI Transparency for the Iris Web Framework](https://dev.to/kataras/introducing-llmstxt-ai-transparency-for-the-iris-web-framework-4af)
-- [Part-48: 🌐 Google Cloud Networking – Virtual Private Cloud &lpar;VPC&rpar;](https://dev.to/latchudevops/part-48-google-cloud-networking-virtual-private-cloud-vpc-2h96)
-- [Why Use SQL Databases for AI Agent Memory](https://dev.to/bobur/why-use-sql-databases-for-ai-agent-memory-2cl5)
-- [Audit Trails in Web Applications: Why Detailed Logs Are Your Silent Guardian](https://dev.to/okoye_ndidiamaka_5e3b7d30/audit-trails-in-web-applications-why-detailed-logs-are-your-silent-guardian-2160)
-- [Update 0.2 for biobridge](https://dev.to/okerew/update-02-for-biobridge-2ak5)
+- [Unveiling the Top 50 Python Interview Questions: A Deep Dive into Python Proficiency](https://dev.to/vjnvisakh/unveiling-the-top-50-python-interview-questions-a-deep-dive-into-python-proficiency-27nd)
+- [One... Two... Testing](https://dev.to/omanfk/one-two-testing-1hab)
+- [Enigma Machine : How a step on its rotor change the mapping](https://dev.to/heavenhunter/enigma-machine-how-a-step-on-its-rotor-change-the-mapping-24nf)
+- [Assetmaster](https://dev.to/prashant_kushwaha_a5c7fe9/assetmaster-65o)
+- [Take Control of your Logs: Top 10 ways using the OpenTelemetry Collector](https://dev.to/agardnerit/take-control-of-your-logs-top-10-ways-using-the-opentelemetry-collector-2d3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
