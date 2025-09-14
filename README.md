@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FREE Perplexity Pro](https://dev.to/ahmetmertugrul/free-perplexity-pro-4ahd)
-- [DNS: How It Works with Practical Examples](https://dev.to/shrsv/dns-how-it-works-with-practical-examples-5f2)
-- [Web Designers in Bangalore](https://dev.to/echopx_0249e88fe2099716af/web-designers-in-bangalore-4750)
-- [API Security in Django: Approaches, Trade-offs, and Best Practices](https://dev.to/topunix/api-security-in-django-approaches-trade-offs-and-best-practices-nk4)
-- [How npm run dev Updates Your Site Instantly &lpar;and How It Differs from Build&rpar;](https://dev.to/rijultp/how-npm-run-dev-updates-your-site-instantly-and-how-it-differs-from-build-17c5)
+- [#DAY 8: Guardian of the Filesystem](https://dev.to/samueladeduntan/day-8-guardian-of-the-filesystem-4ll)
+- [Supacrawler: lightweight, and ultra-fast web scraping api](https://dev.to/antoine_ross_93d7d37905fd/supacrawler-lightweight-and-ultra-fast-web-scraping-api-2den)
+- [TikTok hashtag nonsense](https://dev.to/ahmetmertugrul/tiktok-hashtag-nonsense-3bo9)
+- [The Hidden Cost of AI in SRE: Why Automation Hasn’t Fixed Burnout](https://dev.to/arkhan/the-hidden-cost-of-ai-in-sre-why-automation-hasnt-fixed-burnout-5a03)
+- [The New Way of Code: Hackathon Revelation with Kiro](https://dev.to/pradeep_karanam_ddfdc352e/the-new-way-of-code-hackathon-revelation-with-kiro-dcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
