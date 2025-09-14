@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You won&#39;t believe this crazy dream I had....](https://dev.to/dwwhalen/you-wont-believe-this-crazy-dream-i-had-35ki)
-- [Building a Hands-Free AI Fitness Applet with Gemini Live API](https://dev.to/prema_ananda/building-a-hands-free-ai-fitness-applet-with-gemini-live-api-3fg1)
-- [Why I&#39;m Building Yet Another Change-Data-Capture Platform: Because Why Not Scratch That Itch?](https://dev.to/paragparalikar/why-im-building-yet-another-change-data-capture-platform-because-why-not-scratch-that-itch-3lfl)
-- [Type-Aware Memory Allocation: The Secret Weapon Against Memory Corruption in iOS](https://dev.to/arshtechpro/type-aware-memory-allocation-the-secret-weapon-against-memory-corruption-in-ios-4bni)
-- [The Missing Link: How to Retrieve Full Documents with AWS S3 Vectors](https://dev.to/mlnrt/the-missing-link-how-to-retrieve-full-documents-with-aws-s3-vectors-dj7)
+- [Discover The SSL/TLS Security Analyzer API](https://dev.to/dakidarts/discover-the-ssltls-security-analyzer-api-58jc)
+- [🔓 Unlocking Efficient Data Management: A Deep Dive into Data Partitioning Strategies](https://dev.to/sabaristacksurge/unlocking-efficient-data-management-a-deep-dive-into-data-partitioning-strategies-2d21)
+- [Solving LeetCode&#39;s &quot;Add Two Numbers&quot; Iteratively and Recursively - Part 1](https://dev.to/h_mjabedomurrifat_2b/solving-leetcodes-add-two-numbers-iteratively-and-recursively-part-1-41j5)
+- [New developer seeking feedback - am I on the right track?](https://dev.to/justkelu/new-developer-seeking-feedback-am-i-on-the-right-track-2mm7)
+- [Embracing the Sky: The Future of Cloud-Native Architectures](https://dev.to/sabaristacksurge/embracing-the-sky-the-future-of-cloud-native-architectures-488o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
