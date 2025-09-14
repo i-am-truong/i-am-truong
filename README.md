@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The GitHub Repository That Takes You From Beginner to Advanced Developer](https://dev.to/shiva_shanker_k/the-github-repository-that-takes-you-from-beginner-to-advanced-developer-18jb)
-- [secure-pubsub-bridge: End-to-End RSA Encryption for Google Cloud Pub/Sub](https://dev.to/raghavachellu/secure-pubsub-bridge-end-to-end-rsa-encryption-for-google-cloud-pubsub-gfg)
-- [Glitch Tales: Turning Errors into Epic Stories](https://dev.to/konark_13/glitch-tales-turning-errors-into-epic-stories-407f)
-- [AI&#39;s Spatial Blind Spot: Borrowing Brainpower for Better Navigation](https://dev.to/arvindsundararajan/ais-spatial-blind-spot-borrowing-brainpower-for-better-navigation-4jfg)
-- [MongoDB Internals: How Collections and Indexes Are Stored in WiredTiger](https://dev.to/franckpachot/mongodb-internals-how-collections-and-indexes-are-stored-in-wiredtiger-2ed)
+- [netcrypt: Secure Socket Communication &amp; Encrypted Tunneling for Python](https://dev.to/raghavachellu/netcrypt-secure-socket-communication-encrypted-tunneling-for-python-1oe9)
+- [Whiskey &amp; Ember AI Bartender Teacher with Google AI Studio 🍸🔥](https://dev.to/george_logue_9c3d0e7941e5/whiskey-ember-ai-bartender-teacher-with-google-ai-studio-o8i)
+- [Caffeinated Commits- Day 1 &amp; 2](https://dev.to/shri-dharshini/caffeinated-commits-day-1-2-kpp)
+- [Top 10 Skills to Look for in an Azure Developer Before Hiring](https://dev.to/mehul_budasana/top-10-skills-to-look-for-in-an-azure-developer-before-hiring-m2p)
+- [Little Choices That Shape User Experience](https://dev.to/lovestaco/little-choices-that-shape-user-experience-1gk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
