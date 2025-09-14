@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DNS: How It Works with Practical Examples](https://dev.to/shrsv/dns-how-it-works-with-practical-examples-5f2)
+- [Web Designers in Bangalore](https://dev.to/echopx_0249e88fe2099716af/web-designers-in-bangalore-4750)
+- [API Security in Django: Approaches, Trade-offs, and Best Practices](https://dev.to/topunix/api-security-in-django-approaches-trade-offs-and-best-practices-nk4)
+- [How npm run dev Updates Your Site Instantly &lpar;and How It Differs from Build&rpar;](https://dev.to/rijultp/how-npm-run-dev-updates-your-site-instantly-and-how-it-differs-from-build-17c5)
 - [100 Days of DevOps: Day 42](https://dev.to/wycliffealphus/100-days-of-devops-day-42-1m8d)
-- [DataPump : Disabling the Use of Symbolic Links When Creating a Directory](https://dev.to/vahidusefzadeh/datapump-disabling-the-use-of-symbolic-links-when-creating-a-directory-1h25)
-- [Day 3 - Grammar for the Parser](https://dev.to/lahari_tenneti_4a8a082e9c/day-3-grammar-for-the-parser-2o88)
-- [UiPath vs Power Platform: Same Goals, Different Soap Opera](https://dev.to/consolatacleah/uipath-vs-power-platform-same-goals-different-soap-opera-3207)
-- [SelfSprite Maze Game---------Take a selfie, and become an animated playable character in the game](https://dev.to/firevibe/selfsprite-maze-game-take-a-selfie-and-become-an-animated-playable-character-in-the-game-3h2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
