@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vergilian - The speech coach](https://dev.to/kjue/vergilian-the-speech-coach-3g1a)
-- [How I passed AWS Certified Machine Learning — Specialty 2025](https://dev.to/camille_chang/how-i-passed-aws-certified-machine-learning-specialty-2025-20f8)
-- [Beyond the Black Box: Building AI Agents that Truly Understand Their World by Arvind Sundararajan](https://dev.to/arvindsundararajan/beyond-the-black-box-building-ai-agents-that-truly-understand-their-world-by-arvind-sundararajan-o4g)
-- [Data Engineering Core Concepts](https://dev.to/prudiec/data-engineering-core-concepts-5c47)
-- [New Relic Template for Strands](https://dev.to/aws-builders/new-relic-template-for-strands-33p)
+- [zkAGI: Trustless Trading Agents Powered by Oasis](https://dev.to/rollingindo/zkagi-trustless-trading-agents-powered-by-oasis-3o1m)
+- [Death of a lens&lpar;man&rpar;](https://dev.to/omanfk/death-of-a-lensman-5be8)
+- [n8n automation workflows that bring together web scraping, vector databases, and AI-powered chatbot support!](https://dev.to/sabbschow/n8n-automation-workflows-that-bring-together-web-scraping-vector-databases-and-ai-powered-chatbot-1p7n)
+- [Meet Spuddy 🥔](https://dev.to/psimk/meet-spuddy-8a7)
+- [Audio Deepfakes: The Hidden Flaw in Our Defenses by Arvind Sundararajan](https://dev.to/arvindsundararajan/audio-deepfakes-the-hidden-flaw-in-our-defenses-by-arvind-sundararajan-345)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
