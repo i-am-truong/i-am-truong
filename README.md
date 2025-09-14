@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Design Principles of Software Applied: Practical Example in Python](https://dev.to/ahmed_a_o/design-principles-of-software-applied-practical-example-in-python-16md)
+- [Tantangan CTF: File yang Dihapus &lpar;Root-Me Forensik&rpar;](https://dev.to/bangundwir/tantangan-ctf-file-yang-dihapus-root-me-forensik-b04)
+- [Part-54: 🚀Google Cloud VPC Firewall Rules as Ingress with Destination Filter](https://dev.to/latchudevops/part-54-google-cloud-vpc-firewall-rules-as-ingress-with-destination-filter-5ecn)
+- [From Hunt-and-Peck to 50+ WPM: My 30-Day Typing Journey](https://dev.to/currycoder/from-hunt-and-peck-to-50-wpm-my-30-day-typing-journey-4nhf)
 - [Best UI Animation Libraries &amp; Inspiration for Modern Designers](https://dev.to/tamim_ahmed_412f3d75a7fc0/best-ui-animation-libraries-inspiration-for-modern-designers-257f)
-- [Referenceable: Generate Unique Laravel Model References the](https://dev.to/eg-mohamed/referenceable-generate-unique-laravel-model-references-the-400n)
-- [How to get a job without losing your mind!](https://dev.to/jestebandev/how-to-get-a-job-without-losing-your-mind-3ifg)
-- [🌟 Story Weaver: An AI-Powered Multimodal App for Crafting and Experiencing Stories](https://dev.to/pravesh_sudha_3c2b0c2b5e0/story-weaver-an-ai-powered-multimodal-app-for-crafting-and-experiencing-stories-5a55)
-- [Git &amp; GitHub: Theoretical concepts](https://dev.to/tapobanray/git-github-theoretical-concepts-3974)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
