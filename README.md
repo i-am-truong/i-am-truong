@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-56: Google Cloud VPC Firewall Policy – Apply Rules Across Multiple VPC Networks in GCP Cloud](https://dev.to/latchudevops/part-56-google-cloud-vpc-firewall-policy-apply-rules-across-multiple-vpc-networks-in-gcp-cloud-h13)
+- [The Silent Intruder: Mastering the Art of Lateral Movement and Network Reconnaissance](https://dev.to/gagreatprogrammer/the-silent-intruder-mastering-the-art-of-lateral-movement-and-network-reconnaissance-302c)
+- [I Just Released My First Open Source AI Agent Error Remediation Tool](https://dev.to/nirel_nemirovsky_8b74d269/i-just-released-my-first-open-source-ai-agent-error-remediation-tool-1eb2)
+- [Event Bubbling vs Event Capturing in JavaScript](https://dev.to/mohsenfallahnjd/event-bubbling-vs-event-capturing-in-javascript-5015)
 - [From Data to Dashboard: Building Interactive Reports with Streamlit](https://dev.to/ahmed_a_o/from-data-to-dashboard-building-interactive-reports-with-streamlit-4c10)
-- [Generative AI for Financial Narratives: Crafting Compliant, Nuanced &amp; Philosophy-Driven Investment Analysis](https://dev.to/hikikomorineko/generative-ai-for-financial-narratives-crafting-compliant-nuanced-philosophy-driven-investment-29d6)
-- [Understanding stdin/stdout: Building CLI Tools Like a Pro](https://dev.to/sudiip__17/understanding-stdinstdout-building-cli-tools-like-a-pro-2njk)
-- [Understanding Flutter GoRouter for Beginners](https://dev.to/bestaoui_aymen/understanding-flutter-gorouter-for-beginners-17al)
-- [Seeing the Invisible: AI Reveals Hidden Heart Strain, Predicts Cardiac Events](https://dev.to/arvindsundararajan/seeing-the-invisible-ai-reveals-hidden-heart-strain-predicts-cardiac-events-4321)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
