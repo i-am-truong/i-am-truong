@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [100 Days of DevOps: Day 42](https://dev.to/wycliffealphus/100-days-of-devops-day-42-1m8d)
+- [DataPump : Disabling the Use of Symbolic Links When Creating a Directory](https://dev.to/vahidusefzadeh/datapump-disabling-the-use-of-symbolic-links-when-creating-a-directory-1h25)
 - [Day 3 - Grammar for the Parser](https://dev.to/lahari_tenneti_4a8a082e9c/day-3-grammar-for-the-parser-2o88)
 - [UiPath vs Power Platform: Same Goals, Different Soap Opera](https://dev.to/consolatacleah/uipath-vs-power-platform-same-goals-different-soap-opera-3207)
 - [SelfSprite Maze Game---------Take a selfie, and become an animated playable character in the game](https://dev.to/firevibe/selfsprite-maze-game-take-a-selfie-and-become-an-animated-playable-character-in-the-game-3h2h)
-- [Predictive Motion: Guiding Robots with Learned Flow Fields by Arvind Sundararajan](https://dev.to/arvindsundararajan/predictive-motion-guiding-robots-with-learned-flow-fields-by-arvind-sundararajan-44ak)
-- [Turning Music Into Art — Building a Synesthesia Simulator with Gemini](https://dev.to/sarthak_bhardwaj_05aba55d/turning-music-into-art-building-a-synesthesia-simulator-with-gemini-3459)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
