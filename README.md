@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 7 of My Quantum Computing Journey: Completing Week 1 &amp; First Steps into Quantum Programming](https://dev.to/keshabkjha/day-7-of-my-quantum-computing-journey-completing-week-1-first-steps-into-quantum-programming-2808)
+- [Spin up Bun + Preact full-stack app in minutes 🚀](https://dev.to/rgolawski/spin-up-bun-preact-full-stack-app-in-minutes-3i1a)
+- [What is Web Scraping?](https://dev.to/e77/what-is-web-scraping-1fc8)
+- [Building a Mobile-First Inventory Tracker with Node.js and SQLite using KIRO](https://dev.to/mwanjeronie/building-a-mobile-first-inventory-tracker-with-nodejs-and-sqlite-using-kiro-2mgo)
 - [Audio Deepfakes: Exposing the Echo Chamber in AI Security](https://dev.to/arvindsundararajan/audio-deepfakes-exposing-the-echo-chamber-in-ai-security-2hk6)
-- [Automatically Backing Up a GitHub Repository to S3 with GitHub Actions](https://dev.to/a-k-0047/automatically-backing-up-a-github-repository-to-s3-with-github-actions-32dg)
-- [From Spaghetti to Symphony: Taming Complex PHP Applications with DDD and CQRS](https://dev.to/igornosatov_15/from-spaghetti-to-symphony-taming-complex-php-applications-with-ddd-and-cqrs-38m)
-- [I Taught an AI to Use Git So I Wouldn&#39;t Have to Fear It Anymore](https://dev.to/kirodotdev/i-taught-an-ai-to-use-git-so-i-wouldnt-have-to-fear-it-anymore-16l7)
-- [🤖 RapidRelief Disaster Recovery Assistant AI 2025: 5X Faster Damage Assessment &amp; Rescue Guide ⚠️🛟](https://dev.to/sharafon/rapidrelief-ai-2025-5x-faster-damage-assessment-rescue-guide-2lf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
