@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Discover The Network Packet Threat Analyzer API](https://dev.to/dakidarts/discover-the-network-packet-threat-analyzer-api-1863)
-- [Discover The SSL/TLS Security Analyzer API](https://dev.to/dakidarts/discover-the-ssltls-security-analyzer-api-58jc)
-- [🔓 Unlocking Efficient Data Management: A Deep Dive into Data Partitioning Strategies](https://dev.to/sabaristacksurge/unlocking-efficient-data-management-a-deep-dive-into-data-partitioning-strategies-2d21)
-- [Solving LeetCode&#39;s &quot;Add Two Numbers&quot; Iteratively and Recursively - Part 1](https://dev.to/h_mjabedomurrifat_2b/solving-leetcodes-add-two-numbers-iteratively-and-recursively-part-1-41j5)
-- [New developer seeking feedback - am I on the right track?](https://dev.to/justkelu/new-developer-seeking-feedback-am-i-on-the-right-track-2mm7)
+- [Change Data Capture &lpar;CDC&rpar; in Data Engineering: Concepts, Tools, and Real-World Implementation Strategies](https://dev.to/joy_akinyi_115689d7dff92f/change-data-capture-cdc-in-data-engineering-concepts-tools-and-real-world-implementation-22bm)
+- [AI can be a great augmentation tool, for code-review or AI-assisted coding, but all engineers need to have strong critical thinking skills, in my opinion. In this post, I share how I&#39;m using it along with my own opinions so far.](https://dev.to/bolt04/ai-can-be-a-great-augmentation-tool-for-code-review-or-ai-assisted-coding-but-all-engineers-need-22lj)
+- [Meet Embedible: Your AI Hardware Copilot Microcontrollers](https://dev.to/denys_malykhin/meet-embedible-your-ai-hardware-copilot-microcontrollers-2214)
+- [Becoming augmented by AI](https://dev.to/bolt04/becoming-augmented-by-ai-3f1)
+- [Predicting Heartbeats: AI&#39;s Glimpse into Cardiac Dynamics](https://dev.to/arvindsundararajan/predicting-heartbeats-ais-glimpse-into-cardiac-dynamics-2in9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
