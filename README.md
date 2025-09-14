@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jordanadair/-l6n)
-- [Private LLM Inference: Democratizing AI with Ciphertext Computations](https://dev.to/arvindsundararajan/private-llm-inference-democratizing-ai-with-ciphertext-computations-3k43)
-- [Vision Stock-Financial Applet](https://dev.to/shakarpg/vision-stock-financial-applet-2hc6)
-- [From ASTs to RakuAST to ASTQuery](https://dev.to/fco/from-asts-to-rakuast-to-astquery-c3f)
-- [Laravel Real-time](https://dev.to/ashrakt_amin/laravel-real-time-5g48)
+- [The Ultimate high-performance HTTP library for WEB](https://dev.to/haikelfazzani/the-ultimate-typescript-fetch-wrapper-for-modern-web-applications-51io)
+- [Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh &lpar;with Code Examples and Cloud Deployment&rpar;](https://dev.to/augusto_joaquinriveramu/visualization-and-dashboard-tools-in-python-streamlit-dash-and-bokeh-with-code-examples-and-26l8)
+- [Software Design Principles: Building Robust Applications in Python](https://dev.to/sebastianfuentesavalos/-software-design-principles-building-robust-applications-in-python-jik)
+- [The case against social media is stronger than you think](https://dev.to/technoblogger14o3/the-case-against-social-media-is-stronger-than-you-think-54h3)
+- [The Hidden Trap of Dart Streams, Isolates, and ReceivePorts: Why Your Listeners Stop Working &lpar;and How to Fix It&rpar;](https://dev.to/kardoqadir/the-hidden-trap-of-dart-streams-isolates-and-receiveports-why-your-listeners-stop-working-and-504g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
