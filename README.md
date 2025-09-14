@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript devs, don’t let your OpenAPI client generator lie to you.](https://dev.to/danilo_spinelli_cf3d44822/typescript-devs-dont-let-your-openapi-client-generator-lie-to-you-47d6)
+- [What is JWT? How do Secret, Public, Private Keys actually work?](https://dev.to/abdibrokhim/what-is-jwt-how-do-secret-public-private-keys-actually-work-569n)
 - [Building High-Performance Time-Series Applications with tsink: A Rust Embedded Database](https://dev.to/h2337/building-high-performance-time-series-applications-with-tsink-a-rust-embedded-database-5fa7)
-- [🌍✨ MapShot: Your Virtual Passport. Create Limitless Travel Memories.](https://dev.to/aminz/mapshot-your-virtual-passport-create-limitless-travel-memories-22d2)
-- [Kubernetes: Pod resources.requests, resources.limits and Linux cgroup](https://dev.to/setevoy/kubernetes-pod-resourcesrequests-resourceslimits-and-linux-cgroup-4ggp)
-- [Beyond ChatGPT: 7 Practical Ways AI is Quietly Reshaping Everyday Business &lpar;That No One Talks About&rpar;](https://dev.to/kammatech/beyond-chatgpt-7-practical-ways-ai-is-quietly-reshaping-everyday-business-that-no-one-talks-about-jd4)
-- [Securing Azure Workloads with Azure Firewall: A Step-by-Step Implementation Guide](https://dev.to/isaiah_izibili_7a39b7d627/securing-azure-workloads-with-azure-firewall-a-step-by-step-implementation-guide-4cd4)
+- [🌍✨ MapShot : From Landmarks to Local Shops: Capture Yourself Anywhere using Gemini API Flash 2.5](https://dev.to/aminz/mapshot-your-virtual-passport-create-limitless-travel-memories-22d2)
+- [Excited to share our Echo Location Project, created together with @williamhenryking for the Google AI Studio Multimodal Challenge! #devchallenge #googleaichallenge #ai #gemini](https://dev.to/linfordlee14/excited-to-share-our-echo-location-project-created-together-with-williamhenryking-for-the-google-1il8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
