@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flight Tracker AI](https://dev.to/snm2824/flight-tracker-ai-39l8)
+- [Welcome in my post studies adventure !](https://dev.to/bertrandr_dev/welcome-in-my-post-studies-adventure--30bh)
 - [Accessibility: Looking for Honest Feedback](https://dev.to/allon_a11y/accessibility-looking-for-honest-feedback-3mm0)
 - [How to Get Selected for GSoC &lpar;Google Summer of Code&rpar; - My Personal Experience at Accord Project](https://dev.to/fuyalasmit/how-to-get-selected-for-gsoc-google-summer-of-code-my-personal-experience-at-accord-project-4hh9)
 - [🏁ASPICE Literacy: Episode 4 — Behind the Curtain: Assessors and the Human Side of Assessments 🚪](https://dev.to/abdulosman/aspice-literacy-episode-4-behind-the-curtain-assessors-and-the-human-side-of-assessments-316l)
-- [Understanding MySQL Backup with Consistent Snapshot and MDL Locks](https://dev.to/thellu/understanding-mysql-backup-with-consistent-snapshot-and-mdl-locks-1np2)
-- [Securing Paid Video Content with DRM and Per-User Pixel Fingerprinting](https://dev.to/hejhdiss/securing-paid-video-content-with-drm-and-per-user-pixel-fingerprinting-35d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
