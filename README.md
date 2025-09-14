@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Change Data Capture &lpar;CDC&rpar; in Data Engineering: Concepts, Tools, and Real-World Implementation Strategies](https://dev.to/joy_akinyi_115689d7dff92f/change-data-capture-cdc-in-data-engineering-concepts-tools-and-real-world-implementation-22bm)
-- [AI can be a great augmentation tool, for code-review or AI-assisted coding, but all engineers need to have strong critical thinking skills, in my opinion. In this post, I share how I&#39;m using it along with my own opinions so far.](https://dev.to/bolt04/ai-can-be-a-great-augmentation-tool-for-code-review-or-ai-assisted-coding-but-all-engineers-need-22lj)
-- [Meet Embedible: Your AI Hardware Copilot Microcontrollers](https://dev.to/denys_malykhin/meet-embedible-your-ai-hardware-copilot-microcontrollers-2214)
-- [Becoming augmented by AI](https://dev.to/bolt04/becoming-augmented-by-ai-3f1)
-- [Predicting Heartbeats: AI&#39;s Glimpse into Cardiac Dynamics](https://dev.to/arvindsundararajan/predicting-heartbeats-ais-glimpse-into-cardiac-dynamics-2in9)
+- [Teaching AI to Blog: My Journey into Agentic AI Development — Part 2](https://dev.to/jimmyhott/teaching-ai-to-blog-my-journey-into-agentic-ai-development-part-2-1lgd)
+- [Day 1](https://dev.to/code_hntr/day-1-2lao)
+- [How I Built an AI-Powered Transcript Summarizer Using n8n](https://dev.to/arafatruetbd/how-i-built-an-ai-powered-transcript-summarizer-using-n8n-40d4)
+- [i found running c code with gcc in terminal easier then the run button on vscode and dev c++](https://dev.to/bankai2054/i-found-running-c-code-with-gcc-in-terminal-easier-then-the-run-button-on-vscode-and-dev-c-3g79)
+- [About me](https://dev.to/code_hntr/about-me-42pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
