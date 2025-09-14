@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The GitHub Repository That Takes You From Beginner to Advanced Developer](https://dev.to/shiva_shanker_k/the-github-repository-that-takes-you-from-beginner-to-advanced-developer-18jb)
+- [secure-pubsub-bridge: End-to-End RSA Encryption for Google Cloud Pub/Sub](https://dev.to/raghavachellu/secure-pubsub-bridge-end-to-end-rsa-encryption-for-google-cloud-pubsub-gfg)
+- [Glitch Tales: Turning Errors into Epic Stories](https://dev.to/konark_13/glitch-tales-turning-errors-into-epic-stories-407f)
+- [AI&#39;s Spatial Blind Spot: Borrowing Brainpower for Better Navigation](https://dev.to/arvindsundararajan/ais-spatial-blind-spot-borrowing-brainpower-for-better-navigation-4jfg)
 - [MongoDB Internals: How Collections and Indexes Are Stored in WiredTiger](https://dev.to/franckpachot/mongodb-internals-how-collections-and-indexes-are-stored-in-wiredtiger-2ed)
-- [Real ChatGPT Conversations: Data Fetching and Query Optimization](https://dev.to/nevantan/real-chatgpt-conversations-data-fetching-and-query-optimization-2d7k)
-- [AppWeaver AI](https://dev.to/ha3k/appweaver-ai-5a1m)
-- [Unlocking the Unthinkable: Convergent Flow Fields for Next-Gen Robotics](https://dev.to/arvindsundararajan/unlocking-the-unthinkable-convergent-flow-fields-for-next-gen-robotics-5oj)
-- [Understand how AI Agents work, with AWS Strands](https://dev.to/welcloud-io/understand-how-ai-agents-work-with-aws-strands-51g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
