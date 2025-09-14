@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Steganography App &lpar;Artful whisper&rpar;](https://dev.to/aman_choudhary_ca1bdbc12a/steganography-app-artful-whisper-53hd)
-- [Model Context Protocol &lpar;MCP&rpar;](https://dev.to/atmosai/model-context-protocol-mcp-3l9a)
-- [📱 The Ultimate Guide to Building Mobile-Friendly Websites: Best Practices, Advanced Techniques and Google AMP](https://dev.to/anisubhra_sarkar/the-ultimate-guide-to-building-mobile-friendly-websites-best-practices-advanced-techniques-and-aki)
-- [React Functions, Methods &amp;Hooks](https://dev.to/nouribram/react-functions-methods-hooks-1i1d)
-- [How the Web Talks to Django: A Beginner-Friendly Guide](https://dev.to/kihuni/how-the-web-talks-to-django-a-beginner-friendly-guide-5945)
+- [Day 4 – Handling Failures with Dead-Letter Queues &lpar;DLQ&rpar; in Azure Service Bus](https://dev.to/vinayaksavle/day-4-handling-failures-with-dead-letter-queues-dlq-in-azure-service-bus-5g0h)
+- [Day 3 – Message Sessions &amp; Ordering in Azure Service Bus with .NET](https://dev.to/vinayaksavle/day-3-message-sessions-ordering-in-azure-service-bus-with-net-3079)
+- [so i didnt like vscode for c , and i think i will use codeblocks or dev c++ ,](https://dev.to/bankai2054/so-i-didnt-like-vscode-for-c-and-i-think-i-will-use-codeblocks-or-dev-c--13ni)
+- [Day 2 – Queues vs Topics in Azure Service Bus with .NET](https://dev.to/vinayaksavle/day-2-queues-vs-topics-in-azure-service-bus-with-net-2681)
+- [AI&#39;s Heartfelt Leap: Visualizing the Rhythm of Life by Arvind Sundararajan](https://dev.to/arvindsundararajan/ais-heartfelt-leap-visualizing-the-rhythm-of-life-by-arvind-sundararajan-5bje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
