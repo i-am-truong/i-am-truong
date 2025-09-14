@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate high-performance HTTP library for WEB](https://dev.to/haikelfazzani/the-ultimate-typescript-fetch-wrapper-for-modern-web-applications-51io)
-- [Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh &lpar;with Code Examples and Cloud Deployment&rpar;](https://dev.to/augusto_joaquinriveramu/visualization-and-dashboard-tools-in-python-streamlit-dash-and-bokeh-with-code-examples-and-26l8)
-- [Software Design Principles: Building Robust Applications in Python](https://dev.to/sebastianfuentesavalos/-software-design-principles-building-robust-applications-in-python-jik)
-- [The case against social media is stronger than you think](https://dev.to/technoblogger14o3/the-case-against-social-media-is-stronger-than-you-think-54h3)
-- [The Hidden Trap of Dart Streams, Isolates, and ReceivePorts: Why Your Listeners Stop Working &lpar;and How to Fix It&rpar;](https://dev.to/kardoqadir/the-hidden-trap-of-dart-streams-isolates-and-receiveports-why-your-listeners-stop-working-and-504g)
+- [📊Beyond the Standard: Exploring Modern Python Visualization Tools](https://dev.to/brunoenr/beyond-the-standard-exploring-modern-python-visualization-tools-3epn)
+- [Enterprise Design Patterns: Applying Catalog Patterns for Robust Applications 👨‍🏫](https://dev.to/sebastianfuentesavalos/enterprise-design-patterns-applying-catalog-patterns-for-robust-applications-2hph)
+- [🚀 Day 14 of My DevOps Journey: GitHub Actions — CI/CD Made Easy in the Cloud ☁️](https://dev.to/dankbhardwaj/day-14-of-my-devops-journey-github-actions-cicd-made-easy-in-the-cloud-4hjn)
+- [Introducing my new PHP CLI Utility for Database Management](https://dev.to/tamedevelopers/introducing-my-new-php-cli-utility-for-database-management-3gk)
+- [Rediscovering the Basics: My Week 1 Journey into Design Principles at Flexisaf](https://dev.to/jamesgotech/rediscovering-the-basics-my-week-1-journey-into-design-principles-at-flexisaf-36cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
