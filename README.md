@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript devs, don’t let your OpenAPI client generator lie to you.](https://dev.to/danilo_spinelli_cf3d44822/typescript-devs-dont-let-your-openapi-client-generator-lie-to-you-47d6)
-- [What is JWT? How do Secret, Public, Private Keys actually work?](https://dev.to/abdibrokhim/what-is-jwt-how-do-secret-public-private-keys-actually-work-569n)
-- [Building High-Performance Time-Series Applications with tsink: A Rust Embedded Database](https://dev.to/h2337/building-high-performance-time-series-applications-with-tsink-a-rust-embedded-database-5fa7)
-- [🌍✨ MapShot : From Landmarks to Local Shops: Capture Yourself Anywhere using Gemini API Flash 2.5](https://dev.to/aminz/mapshot-your-virtual-passport-create-limitless-travel-memories-22d2)
-- [Excited to share our Echo Location Project, created together with @williamhenryking for the Google AI Studio Multimodal Challenge! #devchallenge #googleaichallenge #ai #gemini](https://dev.to/linfordlee14/excited-to-share-our-echo-location-project-created-together-with-williamhenryking-for-the-google-1il8)
+- [Amazon Q Developer &amp; Q CLI Essentials Coverage](https://dev.to/vijayanirmalag2/amazon-q-developer-q-cli-essentials-coverage-1c1i)
+- [Building a Modular Search Engine: The Struggles I’m Still Facing](https://dev.to/devdami/building-a-modular-search-engine-the-struggles-im-still-facing-pf8)
+- [💎 ANN: oauth2 v2.0.15 &amp; v2.0.16 w/ full E2E example](https://dev.to/galtzo/ann-oauth2-v2015-v2016-w-full-e2e-example-4f74)
+- [CookFlow+: Turn Any YouTube Recipe Into a Hands-Free, Voice-Guided Cooking Experience](https://dev.to/otnotorious/cookflow-turn-any-youtube-recipe-into-a-hands-free-voice-guided-cooking-experience-3ce1)
+- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
