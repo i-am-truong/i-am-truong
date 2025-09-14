@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover The Network Packet Threat Analyzer API](https://dev.to/dakidarts/discover-the-network-packet-threat-analyzer-api-1863)
 - [Discover The SSL/TLS Security Analyzer API](https://dev.to/dakidarts/discover-the-ssltls-security-analyzer-api-58jc)
 - [🔓 Unlocking Efficient Data Management: A Deep Dive into Data Partitioning Strategies](https://dev.to/sabaristacksurge/unlocking-efficient-data-management-a-deep-dive-into-data-partitioning-strategies-2d21)
 - [Solving LeetCode&#39;s &quot;Add Two Numbers&quot; Iteratively and Recursively - Part 1](https://dev.to/h_mjabedomurrifat_2b/solving-leetcodes-add-two-numbers-iteratively-and-recursively-part-1-41j5)
 - [New developer seeking feedback - am I on the right track?](https://dev.to/justkelu/new-developer-seeking-feedback-am-i-on-the-right-track-2mm7)
-- [Embracing the Sky: The Future of Cloud-Native Architectures](https://dev.to/sabaristacksurge/embracing-the-sky-the-future-of-cloud-native-architectures-488o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
