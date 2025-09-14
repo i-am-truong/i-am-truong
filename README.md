@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [netcrypt: Secure Socket Communication &amp; Encrypted Tunneling for Python](https://dev.to/raghavachellu/netcrypt-secure-socket-communication-encrypted-tunneling-for-python-1oe9)
-- [Whiskey &amp; Ember AI Bartender Teacher with Google AI Studio 🍸🔥](https://dev.to/george_logue_9c3d0e7941e5/whiskey-ember-ai-bartender-teacher-with-google-ai-studio-o8i)
-- [Caffeinated Commits- Day 1 &amp; 2](https://dev.to/shri-dharshini/caffeinated-commits-day-1-2-kpp)
-- [Top 10 Skills to Look for in an Azure Developer Before Hiring](https://dev.to/mehul_budasana/top-10-skills-to-look-for-in-an-azure-developer-before-hiring-m2p)
-- [Little Choices That Shape User Experience](https://dev.to/lovestaco/little-choices-that-shape-user-experience-1gk5)
+- [Special Files in Linux: The Hidden Power Behind “Everything is a File”](https://dev.to/naval_upadhyay/special-files-in-linux-the-hidden-power-behind-everything-is-a-file-34j7)
+- [Why You Need to Know How a Database Works Internally?](https://dev.to/deepak_negi_f1d64e7393000/why-you-need-to-know-how-a-database-works-internally-5g6a)
+- [Learning Scala with chess #1 - Color and coordinates](https://dev.to/kaiba78987_4/learning-scala-with-chess-1-color-and-coordinates-gdj)
+- [Introducing Clprolf: a New Programming Language for Clear OOP](https://dev.to/charles_koffler_bcabc582b/introducing-clprolf-a-new-programming-language-for-clear-oop-3mjk)
+- [I Built LexKit: A Modern, Type-Safe Rich Text Editor for React](https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
