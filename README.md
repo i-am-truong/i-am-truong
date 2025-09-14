@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Transaction Script: Patrón simple para lógica de negocio &lpar;Catalog of Patterns of EAA — Martin Fowler&rpar;](https://dev.to/ahmed_a_o/transaction-script-patron-simple-para-logica-de-negocio-catalog-of-patterns-of-eaa-martin-558d)
-- [nano-banana special prompt achieved rapid Mobile UI Mockups](https://dev.to/oikon/nano-banana-special-prompt-achieved-rapid-mobile-ui-mockups-1mif)
-- [🚀 My 3-Day Hackathon Journey: Building a CI/CD Pipeline from Scratch](https://dev.to/hasan_ashab/my-3-day-hackathon-journey-building-a-cicd-pipeline-from-scratch-4ifp)
-- [Kubernetes cluster marathon!](https://dev.to/robert_scott_339c35174a4d/kubernetes-cluster-marathon-2m70)
-- [Part-53: 🚀Google Cloud VPC Firewall Rules with Target as Service Account](https://dev.to/latchudevops/part-53-google-cloud-vpc-firewall-rules-with-target-as-service-account-4eke)
+- [Best UI Animation Libraries &amp; Inspiration for Modern Designers](https://dev.to/tamim_ahmed_412f3d75a7fc0/best-ui-animation-libraries-inspiration-for-modern-designers-257f)
+- [Referenceable: Generate Unique Laravel Model References the](https://dev.to/eg-mohamed/referenceable-generate-unique-laravel-model-references-the-400n)
+- [How to get a job without losing your mind!](https://dev.to/jestebandev/how-to-get-a-job-without-losing-your-mind-3ifg)
+- [🌟 Story Weaver: An AI-Powered Multimodal App for Crafting and Experiencing Stories](https://dev.to/pravesh_sudha_3c2b0c2b5e0/story-weaver-an-ai-powered-multimodal-app-for-crafting-and-experiencing-stories-5a55)
+- [Git &amp; GitHub: Theoretical concepts](https://dev.to/tapobanray/git-github-theoretical-concepts-3974)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
