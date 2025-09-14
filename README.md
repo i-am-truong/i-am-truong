@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing Zoneless Change Detection in Angular 20+](https://dev.to/karol_modelski/harnessing-zoneless-change-detection-in-angular-20-48e7)
+- [Sample EU AI Act checkist](https://dev.to/vishalendu/sample-eu-ai-act-checkist-pgg)
 - [Rock, Paper, Scissors Python Tutorial 2025](https://dev.to/codingstreets/rock-paper-scissors-python-tutorial-2025-32bf)
 - [🎮 New Prototype: School Syndicate Mystery](https://dev.to/cutieyunnytech/new-prototype-school-syndicate-mystery-26io)
 - [Mastering JavaScript Objects: The Ultimate Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-javascript-objects-the-ultimate-guide-for-developers-2c72)
-- [Design Principles of Software Applied: Practical Example in Python](https://dev.to/ahmed_a_o/design-principles-of-software-applied-practical-example-in-python-16md)
-- [Tantangan CTF: File yang Dihapus &lpar;Root-Me Forensik&rpar;](https://dev.to/bangundwir/tantangan-ctf-file-yang-dihapus-root-me-forensik-b04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
