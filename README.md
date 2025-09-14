@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built Element Fusion](https://dev.to/arunavmaitra/i-built-element-fusion-5ed6)
+- [Fast AI Hair + Color Preview That Actually Helped](https://dev.to/yuki_18_77ff1fd604db8ace7/fast-ai-hair-color-preview-that-actually-helped-1p2j)
+- [Quantum Composition: Teaching AI to &#39;Understand&#39; Like Humans](https://dev.to/arvindsundararajan/quantum-composition-teaching-ai-to-understand-like-humans-4b46)
+- [Proof-of-Work Reputation: A Practical Playbook for Developers and Founders](https://dev.to/sonia_bobrik_1939cdddd79d/proof-of-work-reputation-a-practical-playbook-for-developers-and-founders-1hf1)
 - [Iris- Your AI Interviewer&lpar;Audio+ Visual+ Live Cam+ Feedback&rpar;🎙️📹✨](https://dev.to/shreya111111/iris-your-ai-intervieweraudio-visual-live-cam-feedback-4nl2)
-- [NanoGem Nail Art Studio 💅🏻](https://dev.to/saloni0512/nanogem-nail-art-studio-4enn)
-- [Day 95: The Post-Deadline Crash: When Your Brain Goes on Strike](https://dev.to/casperday11/day-95-the-post-deadline-crash-when-your-brain-goes-on-strike-8al)
-- [Django + PgBouncer in Production: Pitfalls, Fixes, and Survival Tricks](https://dev.to/artemooon/django-pgbouncer-in-production-pitfalls-fixes-and-survival-tricks-3jib)
-- [Flavor Forge](https://dev.to/karunakar_elagandala_5fcc/flavor-forge-3fm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
