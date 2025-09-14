@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Illuminating the Dark: Next-Gen Object Detection from Raw Sensor Data by Arvind Sundararajan](https://dev.to/arvindsundararajan/illuminating-the-dark-next-gen-object-detection-from-raw-sensor-data-by-arvind-sundararajan-211b)
+- [✨TaleCraft: Transforming Bedtime with Personalized Magic Stories for Kids](https://dev.to/abhinandan-r/talecraft-transforming-bedtime-with-personalized-magic-stories-for-kids-4ih6)
+- [JavaScript](https://dev.to/robert_degraffenreaidt_50/javascript-5bak)
 - [An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.](https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn)
-- [Amazon Q Developer &amp; Q CLI Essentials Coverage](https://dev.to/vijayanirmalag2/amazon-q-developer-q-cli-essentials-coverage-1c1i)
-- [Building a Modular Search Engine: The Struggles I’m Still Facing](https://dev.to/devdami/building-a-modular-search-engine-the-struggles-im-still-facing-pf8)
-- [💎 ANN: oauth2 v2.0.15 &amp; v2.0.16 w/ full E2E example](https://dev.to/galtzo/ann-oauth2-v2015-v2016-w-full-e2e-example-4f74)
-- [CookFlow+: Turn Any YouTube Recipe Into a Hands-Free, Voice-Guided Cooking Experience](https://dev.to/otnotorious/cookflow-turn-any-youtube-recipe-into-a-hands-free-voice-guided-cooking-experience-3ce1)
+- [Unlock Intuitive AI: Mimicking the Mind for Spatial Mastery by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlock-intuitive-ai-mimicking-the-mind-for-spatial-mastery-by-arvind-sundararajan-4do7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
