@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BrandSight - AI Brand Monitoring](https://dev.to/eric_chung_57abfc96a45806/brandsight-ai-brand-monitoring-1cc1)
+- [Docker Series: Episode 23 — Docker Swarm Advanced: Services, Secrets &amp; Configs 🔐](https://dev.to/yash_sonawane25/docker-series-episode-23-docker-swarm-advanced-services-secrets-configs-44b0)
 - [📊Beyond the Standard: Exploring Modern Python Visualization Tools](https://dev.to/brunoenr/beyond-the-standard-exploring-modern-python-visualization-tools-3epn)
 - [Enterprise Design Patterns: Applying Catalog Patterns for Robust Applications 👨‍🏫](https://dev.to/sebastianfuentesavalos/enterprise-design-patterns-applying-catalog-patterns-for-robust-applications-2hph)
 - [🚀 Day 14 of My DevOps Journey: GitHub Actions — CI/CD Made Easy in the Cloud ☁️](https://dev.to/dankbhardwaj/day-14-of-my-devops-journey-github-actions-cicd-made-easy-in-the-cloud-4hjn)
-- [Introducing my new PHP CLI Utility for Database Management](https://dev.to/tamedevelopers/introducing-my-new-php-cli-utility-for-database-management-3gk)
-- [Rediscovering the Basics: My Week 1 Journey into Design Principles at Flexisaf](https://dev.to/jamesgotech/rediscovering-the-basics-my-week-1-journey-into-design-principles-at-flexisaf-36cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
