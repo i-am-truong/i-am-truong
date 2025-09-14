@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Internals: How Collections and Indexes Are Stored in WiredTiger](https://dev.to/franckpachot/mongodb-internals-how-collections-and-indexes-are-stored-in-wiredtiger-2ed)
 - [Real ChatGPT Conversations: Data Fetching and Query Optimization](https://dev.to/nevantan/real-chatgpt-conversations-data-fetching-and-query-optimization-2d7k)
 - [AppWeaver AI](https://dev.to/ha3k/appweaver-ai-5a1m)
 - [Unlocking the Unthinkable: Convergent Flow Fields for Next-Gen Robotics](https://dev.to/arvindsundararajan/unlocking-the-unthinkable-convergent-flow-fields-for-next-gen-robotics-5oj)
 - [Understand how AI Agents work, with AWS Strands](https://dev.to/welcloud-io/understand-how-ai-agents-work-with-aws-strands-51g6)
-- [I built Element Fusion](https://dev.to/arunavmaitra/i-built-element-fusion-5ed6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
