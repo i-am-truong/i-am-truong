@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rock, Paper, Scissors Python Tutorial 2025](https://dev.to/codingstreets/rock-paper-scissors-python-tutorial-2025-32bf)
+- [🎮 New Prototype: School Syndicate Mystery](https://dev.to/cutieyunnytech/new-prototype-school-syndicate-mystery-26io)
+- [Mastering JavaScript Objects: The Ultimate Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-javascript-objects-the-ultimate-guide-for-developers-2c72)
 - [Design Principles of Software Applied: Practical Example in Python](https://dev.to/ahmed_a_o/design-principles-of-software-applied-practical-example-in-python-16md)
 - [Tantangan CTF: File yang Dihapus &lpar;Root-Me Forensik&rpar;](https://dev.to/bangundwir/tantangan-ctf-file-yang-dihapus-root-me-forensik-b04)
-- [Part-54: 🚀Google Cloud VPC Firewall Rules as Ingress with Destination Filter](https://dev.to/latchudevops/part-54-google-cloud-vpc-firewall-rules-as-ingress-with-destination-filter-5ecn)
-- [From Hunt-and-Peck to 50+ WPM: My 30-Day Typing Journey](https://dev.to/currycoder/from-hunt-and-peck-to-50-wpm-my-30-day-typing-journey-4nhf)
-- [Best UI Animation Libraries &amp; Inspiration for Modern Designers](https://dev.to/tamim_ahmed_412f3d75a7fc0/best-ui-animation-libraries-inspiration-for-modern-designers-257f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
