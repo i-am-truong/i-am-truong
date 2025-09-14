@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Lists vs. Tuples: Choosing the Right Tool](https://dev.to/aaron_rose_0787cc8b4775a0/python-lists-vs-tuples-choosing-the-right-tool-28a4)
-- [Try ChromaFlip Chronicles](https://dev.to/arunavmaitra/try-chromaflip-chronicles-1af6)
-- [The Evolution of Web Development: Past, Present, and Future](https://dev.to/lindamendoza/the-evolution-of-web-development-past-present-and-future-2mf0)
-- [MediVision Assistant](https://dev.to/omkar598/medivision-assistant-13go)
-- [Random Questions in Java:](https://dev.to/vigneshwaralingam/random-questions-in-java-1hl1)
+- [Let Ai speak with money](https://dev.to/pavan_kumargr_aa10283b91/let-ai-speak-with-money-29ka)
+- [Hacker Games contest for beginners in cybersecurity](https://dev.to/seb-dojo/hacker-games-contest-for-beginners-in-cybersecurity-191j)
+- [Unlocking Team Synergy: The Hidden Language of Spatial Awareness by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-team-synergy-the-hidden-language-of-spatial-awareness-by-arvind-sundararajan-14c3)
+- [Day 9 of My Quantum Computing Journey: Mastering the ABCs of Quantum Algorithms](https://dev.to/keshabkjha/day-9-of-my-quantum-computing-journey-mastering-the-abcs-of-quantum-algorithms-2ak)
+- [js13kGames 2025 voting is open!](https://dev.to/js13kgames/js13kgames-2025-voting-is-open-3jif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
