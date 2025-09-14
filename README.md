@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 7 of My Quantum Computing Journey: Completing Week 1 &amp; First Steps into Quantum Programming](https://dev.to/keshabkjha/day-7-of-my-quantum-computing-journey-completing-week-1-first-steps-into-quantum-programming-2808)
-- [Spin up Bun + Preact full-stack app in minutes 🚀](https://dev.to/rgolawski/spin-up-bun-preact-full-stack-app-in-minutes-3i1a)
-- [What is Web Scraping?](https://dev.to/e77/what-is-web-scraping-1fc8)
-- [Building a Mobile-First Inventory Tracker with Node.js and SQLite using KIRO](https://dev.to/mwanjeronie/building-a-mobile-first-inventory-tracker-with-nodejs-and-sqlite-using-kiro-2mgo)
-- [Audio Deepfakes: Exposing the Echo Chamber in AI Security](https://dev.to/arvindsundararajan/audio-deepfakes-exposing-the-echo-chamber-in-ai-security-2hk6)
+- [Add Social &amp; Enterprise SSO to WordPress &lpar;Even on Static Sites&rpar; with Amazon Cognito + Gatey](https://dev.to/tothl74/add-social-enterprise-sso-to-wordpress-even-on-static-sites-with-amazon-cognito-gatey-1ja3)
+- [Built a Full-Stack GitHub-Integrated Notion Productivity Tool](https://dev.to/chiragajain/built-a-full-stack-github-integrated-notion-productivity-tool-2jmi)
+- [The Art of Automation: Custom Coding vs. n8n – A Comprehensive Comparative Analysis](https://dev.to/amirrk2025/the-art-of-automation-custom-coding-vs-n8n-a-comprehensive-comparative-analysis-39mg)
+- [If you learn the concept of one low-level language, have you learn techniques of m andanother low-level language?](https://dev.to/somadinag/if-you-learn-the-concept-of-one-low-level-language-have-you-learn-techniques-of-m-andanother-48el)
+- [Unlocking the Power of RAG: A Beginner&#39;s Guide to Retrieval-Augmented Generation](https://dev.to/sabaristacksurge/unlocking-the-power-of-rag-a-beginners-guide-to-retrieval-augmented-generation-m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
