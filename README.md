@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MediVision Assistant](https://dev.to/omkar598/medivision-assistant-13go)
+- [In a Method calling what happens in a compile time and Run Time.](https://dev.to/vigneshwaralingam/in-a-method-calling-what-happens-in-a-compile-time-and-run-time-4m5i)
+- [SentinelMFT: AI-Powered Secure File Transfer &amp; Network Firewall for Google Cloud](https://dev.to/raghavachellu/sentinelmft-ai-powered-secure-file-transfer-network-firewall-for-google-cloud-2ne3)
+- [How to Generate PDF Files from Web Pages Using Selenium and Python](https://dev.to/guzmanojero/how-to-generate-pdf-files-from-web-pages-using-selenium-and-python-lb4)
 - [Special Files in Linux: The Hidden Power Behind “Everything is a File”](https://dev.to/naval_upadhyay/special-files-in-linux-the-hidden-power-behind-everything-is-a-file-34j7)
-- [Why You Need to Know How a Database Works Internally?](https://dev.to/deepak_negi_f1d64e7393000/why-you-need-to-know-how-a-database-works-internally-5g6a)
-- [Learning Scala with chess #1 - Color and coordinates](https://dev.to/kaiba78987_4/learning-scala-with-chess-1-color-and-coordinates-gdj)
-- [Introducing Clprolf: a New Programming Language for Clear OOP](https://dev.to/charles_koffler_bcabc582b/introducing-clprolf-a-new-programming-language-for-clear-oop-3mjk)
-- [I Built LexKit: A Modern, Type-Safe Rich Text Editor for React](https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
