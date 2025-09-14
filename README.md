@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Journey into Agentic AI Development: AI Newsroom](https://dev.to/jimmyhott/my-journey-into-agentic-ai-development-ai-newsroom-1khn)
 - [Flight Tracker AI](https://dev.to/snm2824/flight-tracker-ai-39l8)
 - [Welcome in my post studies adventure !](https://dev.to/bertrandr_dev/welcome-in-my-post-studies-adventure--30bh)
 - [Accessibility: Looking for Honest Feedback](https://dev.to/allon_a11y/accessibility-looking-for-honest-feedback-3mm0)
 - [How to Get Selected for GSoC &lpar;Google Summer of Code&rpar; - My Personal Experience at Accord Project](https://dev.to/fuyalasmit/how-to-get-selected-for-gsoc-google-summer-of-code-my-personal-experience-at-accord-project-4hh9)
-- [🏁ASPICE Literacy: Episode 4 — Behind the Curtain: Assessors and the Human Side of Assessments 🚪](https://dev.to/abdulosman/aspice-literacy-episode-4-behind-the-curtain-assessors-and-the-human-side-of-assessments-316l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
