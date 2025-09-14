@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SpiritDex: An Explorer&#39;s Journal](https://dev.to/async_dime/spiritdex-an-explorers-journal-43l6)
-- [🌞 👁️ Sunbeam: AI-Powered Visual Assistant for the Visually Impaired](https://dev.to/james_hoang_c601f7e9561c2/sunbeam-ai-powered-visual-assistant-for-the-visually-impaired-27j5)
-- [Optimizing Next.js Internationalization with URL-Based Locales](https://dev.to/rajan_maharjan_606072a0f9/optimizing-nextjs-internationalization-with-url-based-locales-bb0)
-- [The Complete Guide to Custom Embroidery Patches for Businesses and Brands](https://dev.to/solution_punch_7577c3f491/the-complete-guide-to-custom-embroidery-patches-for-businesses-and-brands-34k)
-- [Robots That &#39;Get&#39; the Real World: Context-Aware AI Planning](https://dev.to/arvindsundararajan/robots-that-get-the-real-world-context-aware-ai-planning-2ddg)
+- [👤👗👖🧥AI Avatars &amp; Virtual Try-On: Redefining Online Fashion🌐](https://dev.to/dipanita_dev47/ai-avatars-virtual-try-on-redefining-online-fashion-1plg)
+- [The Code Behind Dubai&#39;s Delivery Empire: AI, Automation, and $720M in Annual Revenue](https://dev.to/ramdas/the-code-behind-dubais-delivery-empire-ai-automation-and-720m-in-annual-revenue-2gbe)
+- [# Is Low-Code/No-Code Development the Future of Coding &lpar;or Just Hype&rpar;?](https://dev.to/karthik_n/-is-low-codeno-code-development-the-future-of-coding-or-just-hype-1bfd)
+- [Understanding Process Management in Linux: A Deep Dive for Developers and Admins 💻](https://dev.to/sahillearninglinux/understanding-process-management-in-linux-a-deep-dive-for-developers-and-admins-8lk)
+- [AI Toy Companion](https://dev.to/parvati_awrul_3296932e218/ai-toy-companion-ok5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
