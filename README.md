@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing Zoneless Change Detection in Angular 20+](https://dev.to/karol_modelski/harnessing-zoneless-change-detection-in-angular-20-48e7)
-- [Sample EU AI Act checkist](https://dev.to/vishalendu/sample-eu-ai-act-checkist-pgg)
-- [Rock, Paper, Scissors Python Tutorial 2025](https://dev.to/codingstreets/rock-paper-scissors-python-tutorial-2025-32bf)
-- [🎮 New Prototype: School Syndicate Mystery](https://dev.to/cutieyunnytech/new-prototype-school-syndicate-mystery-26io)
-- [Mastering JavaScript Objects: The Ultimate Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-javascript-objects-the-ultimate-guide-for-developers-2c72)
+- [How We Built a Private, On-Device AI That Runs Entirely in Your Browser](https://dev.to/gemma_322a35bf7fa2afab/how-we-built-a-private-on-device-ai-that-runs-entirely-in-your-browser-30)
+- [Part-55: Google Cloud VPC Firewall Rules with Egress as Deny Rule](https://dev.to/latchudevops/part-55-google-cloud-vpc-firewall-rules-with-egress-as-deny-rule-42bi)
+- [What Americans Are Talking About Now — And What It Means for Odeta Rose](https://dev.to/odetarose/what-americans-are-talking-about-now-and-what-it-means-for-odeta-rose-53p2)
+- [Building a Movie Recommendation Graph in Neo4j](https://dev.to/maheswarsah00/building-a-movie-recommendation-graph-in-neo4j-2b4o)
+- [AI for Everyone: Secure Language Models Without the Hardware Hype](https://dev.to/arvindsundararajan/ai-for-everyone-secure-language-models-without-the-hardware-hype-33dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
