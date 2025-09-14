@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Teaching AI to Blog: My Journey into Agentic AI Development — Part 2](https://dev.to/jimmyhott/teaching-ai-to-blog-my-journey-into-agentic-ai-development-part-2-1lgd)
-- [Day 1](https://dev.to/code_hntr/day-1-2lao)
-- [How I Built an AI-Powered Transcript Summarizer Using n8n](https://dev.to/arafatruetbd/how-i-built-an-ai-powered-transcript-summarizer-using-n8n-40d4)
-- [i found running c code with gcc in terminal easier then the run button on vscode and dev c++](https://dev.to/bankai2054/i-found-running-c-code-with-gcc-in-terminal-easier-then-the-run-button-on-vscode-and-dev-c-3g79)
-- [About me](https://dev.to/code_hntr/about-me-42pd)
+- [Accessibility: Looking for Honest Feedback](https://dev.to/allon_a11y/accessibility-looking-for-honest-feedback-3mm0)
+- [How to Get Selected for GSoC &lpar;Google Summer of Code&rpar; - My Personal Experience at Accord Project](https://dev.to/fuyalasmit/how-to-get-selected-for-gsoc-google-summer-of-code-my-personal-experience-at-accord-project-4hh9)
+- [🏁ASPICE Literacy: Episode 4 — Behind the Curtain: Assessors and the Human Side of Assessments 🚪](https://dev.to/abdulosman/aspice-literacy-episode-4-behind-the-curtain-assessors-and-the-human-side-of-assessments-316l)
+- [Understanding MySQL Backup with Consistent Snapshot and MDL Locks](https://dev.to/thellu/understanding-mysql-backup-with-consistent-snapshot-and-mdl-locks-1np2)
+- [Securing Paid Video Content with DRM and Per-User Pixel Fingerprinting](https://dev.to/hejhdiss/securing-paid-video-content-with-drm-and-per-user-pixel-fingerprinting-35d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
