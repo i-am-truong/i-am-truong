@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Zoneless Change Detection in Angular: The Future of High-Performance Apps](https://dev.to/rohit_singh_ee84e64941db7/zoneless-change-detection-in-angular-the-future-of-high-performance-apps-4j00)
+- [Sharing my PH Tax Calculator + Salary Converter 🇵🇭 🇵🇭 🇵🇭](https://dev.to/kyboat/sharing-my-ph-tax-calculator-salary-converter-gmb)
 - [🌟 Dream-to-Reality Planner: Where 🎨 imagination meets 🚀 execution](https://dev.to/ramya_srim/dream-to-reality-planner-where-imagination-meets-execution-370g)
 - [Get Ready to Meet Your AI BFF: Understanding the Magic of Conversational AI](https://dev.to/karthik_n/get-ready-to-meet-your-ai-bff-understanding-the-magic-of-conversational-ai-1dbf)
 - [How I Built Forkscout: An AI-Powered GitHub Fork Analysis Tool That Saves 480x Time](https://dev.to/romavm/how-i-built-forkscout-an-ai-powered-github-fork-analysis-tool-that-saves-480x-time-1n9f)
-- [zkAGI: Trustless Trading Agents Powered by Oasis](https://dev.to/rollingindo/zkagi-trustless-trading-agents-powered-by-oasis-3o1m)
-- [Death of a lens&lpar;man&rpar;](https://dev.to/omanfk/death-of-a-lensman-5be8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
