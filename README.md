@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding stdin/stdout: Building CLI Tools Like a Pro](https://dev.to/sudiip__17/understanding-stdinstdout-building-cli-tools-like-a-pro-2njk)
+- [Understanding Flutter GoRouter for Beginners](https://dev.to/bestaoui_aymen/understanding-flutter-gorouter-for-beginners-17al)
+- [Seeing the Invisible: AI Reveals Hidden Heart Strain, Predicts Cardiac Events](https://dev.to/arvindsundararajan/seeing-the-invisible-ai-reveals-hidden-heart-strain-predicts-cardiac-events-4321)
+- [Building Real-Time Data Processing with Transform Streams](https://dev.to/sudiip__17/building-real-time-data-processing-with-transform-streams-41o)
 - [How We Built a Private, On-Device AI That Runs Entirely in Your Browser](https://dev.to/gemma_322a35bf7fa2afab/how-we-built-a-private-on-device-ai-that-runs-entirely-in-your-browser-30)
-- [Part-55: Google Cloud VPC Firewall Rules with Egress as Deny Rule](https://dev.to/latchudevops/part-55-google-cloud-vpc-firewall-rules-with-egress-as-deny-rule-42bi)
-- [What Americans Are Talking About Now — And What It Means for Odeta Rose](https://dev.to/odetarose/what-americans-are-talking-about-now-and-what-it-means-for-odeta-rose-53p2)
-- [Building a Movie Recommendation Graph in Neo4j](https://dev.to/maheswarsah00/building-a-movie-recommendation-graph-in-neo4j-2b4o)
-- [AI for Everyone: Secure Language Models Without the Hardware Hype](https://dev.to/arvindsundararajan/ai-for-everyone-secure-language-models-without-the-hardware-hype-33dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
