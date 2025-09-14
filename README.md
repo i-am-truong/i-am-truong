@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [🙏 Need Community Help](https://dev.to/hamdi_benjarrar/need-community-help-3iil)
 - [mermaid-isomorphic in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/mermaid-isomorphic-in-mcp-mermaid-codebase-41jl)
+- [Flow State: Guiding Robots with Learned Motion Fields](https://dev.to/arvindsundararajan/flow-state-guiding-robots-with-learned-motion-fields-15d5)
+- [🎮 Make Games with JAVA!](https://dev.to/mohamad_mhana/make-games-with-java-1de6)
 - [Why Isn&#39;t My Website on Google Yet? The Developer&#39;s Guide to Not Being Found &lpar;Yet!&rpar;](https://dev.to/shiva_prasadreddykondap/why-isnt-my-website-on-google-yet-the-developers-guide-to-not-being-found-yet-18b2)
-- [Who be AI?!](https://dev.to/kizito007/who-be-ai-5180)
-- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;3/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-35-1dfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
