@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Add Social &amp; Enterprise SSO to WordPress &lpar;Even on Static Sites&rpar; with Amazon Cognito + Gatey](https://dev.to/tothl74/add-social-enterprise-sso-to-wordpress-even-on-static-sites-with-amazon-cognito-gatey-1ja3)
-- [Built a Full-Stack GitHub-Integrated Notion Productivity Tool](https://dev.to/chiragajain/built-a-full-stack-github-integrated-notion-productivity-tool-2jmi)
-- [The Art of Automation: Custom Coding vs. n8n – A Comprehensive Comparative Analysis](https://dev.to/amirrk2025/the-art-of-automation-custom-coding-vs-n8n-a-comprehensive-comparative-analysis-39mg)
-- [If you learn the concept of one low-level language, have you learn techniques of m andanother low-level language?](https://dev.to/somadinag/if-you-learn-the-concept-of-one-low-level-language-have-you-learn-techniques-of-m-andanother-48el)
-- [Unlocking the Power of RAG: A Beginner&#39;s Guide to Retrieval-Augmented Generation](https://dev.to/sabaristacksurge/unlocking-the-power-of-rag-a-beginners-guide-to-retrieval-augmented-generation-m0)
+- [You won&#39;t believe this crazy dream I had....](https://dev.to/dwwhalen/you-wont-believe-this-crazy-dream-i-had-35ki)
+- [Building a Hands-Free AI Fitness Applet with Gemini Live API](https://dev.to/prema_ananda/building-a-hands-free-ai-fitness-applet-with-gemini-live-api-3fg1)
+- [Why I&#39;m Building Yet Another Change-Data-Capture Platform: Because Why Not Scratch That Itch?](https://dev.to/paragparalikar/why-im-building-yet-another-change-data-capture-platform-because-why-not-scratch-that-itch-3lfl)
+- [Type-Aware Memory Allocation: The Secret Weapon Against Memory Corruption in iOS](https://dev.to/arshtechpro/type-aware-memory-allocation-the-secret-weapon-against-memory-corruption-in-ios-4bni)
+- [The Missing Link: How to Retrieve Full Documents with AWS S3 Vectors](https://dev.to/mlnrt/the-missing-link-how-to-retrieve-full-documents-with-aws-s3-vectors-dj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
