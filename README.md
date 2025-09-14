@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 OpenAPI to TypeScript Converter](https://dev.to/doweinide/openapi-to-typescript-converter-56lo)
-- [The Silent Symphony of Success: Decoding Spatial Intelligence in Teams](https://dev.to/arvindsundararajan/the-silent-symphony-of-success-decoding-spatial-intelligence-in-teams-30m6)
-- [My Experience Participating in the AWS KIRO Hackathon](https://dev.to/lulu3202/my-experience-participating-in-the-aws-kiro-hackathon-578f)
-- [比官方便宜一半以上！OpenAI Responses API 教程](https://dev.to/qingcai_cui_9bdd9dbd584b8/bi-guan-fang-bian-yi-ban-yi-shang-openai-responses-api-jiao-cheng-418j)
-- [Part-56: Google Cloud VPC Firewall Policy – Apply Rules Across Multiple VPC Networks in GCP Cloud](https://dev.to/latchudevops/part-56-google-cloud-vpc-firewall-policy-apply-rules-across-multiple-vpc-networks-in-gcp-cloud-h13)
+- [Predictive Motion: Charting the Course for Autonomous Robots with Flow Fields](https://dev.to/arvindsundararajan/predictive-motion-charting-the-course-for-autonomous-robots-with-flow-fields-4926)
+- [Level Up Your Sprints: How I&#39;m Using AI to Plan Like a Boss](https://dev.to/sagar/level-up-your-sprints-how-im-using-ai-to-plan-like-a-boss-1lj0)
+- [Which online/distance post graduation is best for a .NET developer to get leadership jobs? Which technology/skills should I learn?](https://dev.to/ashvini_mahajan_2ead5cf9f/which-onlinedistance-post-graduation-is-best-for-a-net-developer-to-get-leadership-jobs-which-34gp)
+- [Title: Building Floating Sky Skatepark – A Serious Game for Gender Bias Awareness](https://dev.to/cutieyunnytech/title-building-floating-sky-skatepark-a-serious-game-for-gender-bias-awareness-c35)
+- [The Stack Unpacked: Then vs Now — The State of Software Engineering](https://dev.to/shaq_attack/the-stack-unpacked-then-vs-now-the-state-of-software-engineering-1g7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
