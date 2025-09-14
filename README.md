@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Director&#39;s Cut AI: A Multimodal Storytelling Toolkit](https://dev.to/koki_oki/directors-cut-ai-a-multimodal-storytelling-toolkit-22d9)
-- [🍳 Recipe Generator – What’s in Your Pantry?](https://dev.to/devrayat000/recipe-generator-whats-in-your-pantry-4lnk)
-- [Good post about AI development, with sources to try and learn n8n](https://dev.to/bsalikhov/good-post-about-ai-development-with-sources-to-try-and-learn-n8n-1o0c)
-- [The Audio Illusion: How Easily AI Deepfakes Deceive Our Ears](https://dev.to/arvindsundararajan/the-audio-illusion-how-easily-ai-deepfakes-deceive-our-ears-3lni)
-- [Comprehensive LLM Evaluation: Metrics, Methods, and Use Case Considerations](https://dev.to/kapusto/comprehensive-llm-evaluation-metrics-methods-and-use-case-considerations-acd)
+- [I Asked Kiro to Understand My Verilog Codebase — It Built Me an AI-Powered EDA Assistant](https://dev.to/pawan_fe14d4bbd65e54b9a86/i-asked-kiro-to-understand-my-verilog-codebase-it-built-me-an-ai-powered-eda-assistant-41j4)
+- [Consciousness as Actor: Formalizing Human Trust in Quantum Git-RAF Systems](https://dev.to/obinexus/consciousness-as-actor-formalizing-human-trust-in-quantum-git-raf-systems-51pn)
+- [[1] Algorithm Showdown: Python vs. JavaScript - Group Anagrams](https://dev.to/sculptacode/1-algorithm-showdown-python-vs-javascript-group-anagrams-45mo)
+- [How I side-stepped a 5-year migration with 40 lines of C and a Unix daemon trick.](https://dev.to/obinexus/how-i-side-stepped-a-5-year-migration-with-40-lines-of-c-and-a-unix-daemon-trick-5chh)
+- [AI&#39;s &#39;Aha!&#39; Moment: Cracking Generalization in Reinforcement Learning](https://dev.to/arvindsundararajan/ais-aha-moment-cracking-generalization-in-reinforcement-learning-3aeb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
