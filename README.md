@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Storyline Generator](https://dev.to/adityawaslost/ai-storyline-generator-3flp)
 - [The Trials and Tribulations of Counting Visitors in the Cloud Resume Challenge](https://dev.to/sashalapommeray/the-trials-and-tribulations-of-counting-visitors-in-the-cloud-resume-challenge-5dpi)
 - [Python Dictionaries: The Secret to Lightning-Fast Data Lookups](https://dev.to/aaron_rose_0787cc8b4775a0/python-dictionaries-the-secret-to-lightning-fast-data-lookups-34j1)
 - [Getting Started with Vagrant](https://dev.to/trinitezinsou/getting-started-with-vagrant-191g)
 - [Hackspire’25](https://dev.to/streamer_lulli_33a76cf412/hackspire25-1p07)
-- [A la découverte de vagrant](https://dev.to/trinitezinsou/a-la-decouverte-de-vagrant-4pbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
