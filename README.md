@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Technical debt is inevitable, but technical chaos is not](https://dev.to/emimaldo/technical-debt-is-inevitable-but-technical-chaos-is-not-1nbd)
 - [Illuminating the Dark: Next-Gen Object Detection from Raw Sensor Data by Arvind Sundararajan](https://dev.to/arvindsundararajan/illuminating-the-dark-next-gen-object-detection-from-raw-sensor-data-by-arvind-sundararajan-211b)
 - [✨TaleCraft: Transforming Bedtime with Personalized Magic Stories for Kids](https://dev.to/abhinandan-r/talecraft-transforming-bedtime-with-personalized-magic-stories-for-kids-4ih6)
 - [JavaScript](https://dev.to/robert_degraffenreaidt_50/javascript-5bak)
 - [An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.](https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn)
-- [Unlock Intuitive AI: Mimicking the Mind for Spatial Mastery by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlock-intuitive-ai-mimicking-the-mind-for-spatial-mastery-by-arvind-sundararajan-4do7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
