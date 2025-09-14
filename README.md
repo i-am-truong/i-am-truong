@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let Ai speak with money](https://dev.to/pavan_kumargr_aa10283b91/let-ai-speak-with-money-29ka)
-- [Hacker Games contest for beginners in cybersecurity](https://dev.to/seb-dojo/hacker-games-contest-for-beginners-in-cybersecurity-191j)
-- [Unlocking Team Synergy: The Hidden Language of Spatial Awareness by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-team-synergy-the-hidden-language-of-spatial-awareness-by-arvind-sundararajan-14c3)
-- [Day 9 of My Quantum Computing Journey: Mastering the ABCs of Quantum Algorithms](https://dev.to/keshabkjha/day-9-of-my-quantum-computing-journey-mastering-the-abcs-of-quantum-algorithms-2ak)
-- [js13kGames 2025 voting is open!](https://dev.to/js13kgames/js13kgames-2025-voting-is-open-3jif)
+- [Day 3 - Grammar for the Parser](https://dev.to/lahari_tenneti_4a8a082e9c/day-3-grammar-for-the-parser-2o88)
+- [UiPath vs Power Platform: Same Goals, Different Soap Opera](https://dev.to/consolatacleah/uipath-vs-power-platform-same-goals-different-soap-opera-3207)
+- [SelfSprite Maze Game---------Take a selfie, and become an animated playable character in the game](https://dev.to/firevibe/selfsprite-maze-game-take-a-selfie-and-become-an-animated-playable-character-in-the-game-3h2h)
+- [Predictive Motion: Guiding Robots with Learned Flow Fields by Arvind Sundararajan](https://dev.to/arvindsundararajan/predictive-motion-guiding-robots-with-learned-flow-fields-by-arvind-sundararajan-44ak)
+- [Turning Music Into Art — Building a Synesthesia Simulator with Gemini](https://dev.to/sarthak_bhardwaj_05aba55d/turning-music-into-art-building-a-synesthesia-simulator-with-gemini-3459)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
