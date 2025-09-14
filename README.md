@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: How Music Works in &quot;Sinners&quot;](https://dev.to/music_youtube/polyphonic-how-music-works-in-sinners-e2h)
-- [Google&#39;s Top AI Scientists Say &quot;Learning How to Learn&quot; Will Be the Next Generation&#39;s Most Needed Skill](https://dev.to/shiva_shanker_k/googles-top-ai-scientists-say-learning-how-to-learn-will-be-the-next-generations-most-needed-3f26)
-- [IGN: Miyamoto Explains How Mario World 1-1 Was Created](https://dev.to/gg_news/ign-miyamoto-explains-how-mario-world-1-1-was-created-36bm)
-- [May the Auth Be With You: Securing Mage AI](https://dev.to/killallskywalker/may-the-auth-be-with-you-securing-mage-ai-3ole)
-- [Spec Coding with Kiro: My Experience Building LiftFire](https://dev.to/devblac/spec-coding-with-kiro-my-experience-building-liftfire-g0n)
+- [Django + PgBouncer in Production: Pitfalls, Fixes, and Survival Tricks](https://dev.to/artemooon/django-pgbouncer-in-production-pitfalls-fixes-and-survival-tricks-3jib)
+- [Flavor Forge](https://dev.to/karunakar_elagandala_5fcc/flavor-forge-3fm5)
+- [Design TinyURL](https://dev.to/piyush_deshmukh/design-tinyurl-3fm1)
+- [Reverse Engineering Reality with Google AI](https://dev.to/simimwanza/reverse-engineering-reality-with-google-ai-36nm)
+- [Albania Just Deployed the World&#39;s First AI Government Minister — Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/albania-just-deployed-the-worlds-first-ai-government-minister-heres-what-developers-need-to-know-1f13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
