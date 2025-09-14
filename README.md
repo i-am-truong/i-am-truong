@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iris- Your AI Interviewer&lpar;Audio+ Visual+ Live Cam+ Feedback&rpar;🎙️📹✨](https://dev.to/shreya111111/iris-your-ai-intervieweraudio-visual-live-cam-feedback-4nl2)
+- [NanoGem Nail Art Studio 💅🏻](https://dev.to/saloni0512/nanogem-nail-art-studio-4enn)
+- [Day 95: The Post-Deadline Crash: When Your Brain Goes on Strike](https://dev.to/casperday11/day-95-the-post-deadline-crash-when-your-brain-goes-on-strike-8al)
 - [Django + PgBouncer in Production: Pitfalls, Fixes, and Survival Tricks](https://dev.to/artemooon/django-pgbouncer-in-production-pitfalls-fixes-and-survival-tricks-3jib)
 - [Flavor Forge](https://dev.to/karunakar_elagandala_5fcc/flavor-forge-3fm5)
-- [Design TinyURL](https://dev.to/piyush_deshmukh/design-tinyurl-3fm1)
-- [Reverse Engineering Reality with Google AI](https://dev.to/simimwanza/reverse-engineering-reality-with-google-ai-36nm)
-- [Albania Just Deployed the World&#39;s First AI Government Minister — Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/albania-just-deployed-the-worlds-first-ai-government-minister-heres-what-developers-need-to-know-1f13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
