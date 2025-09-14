@@ -121,7 +121,7 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [SpiritDex: An Explorer&#39;s Journal](https://dev.to/async_dime/spiritdex-an-explorers-journal-43l6)
-- [Sunbeam: AI-Powered Visual Assistant for the Visually Impaired](https://dev.to/james_hoang_c601f7e9561c2/sunbeam-ai-powered-visual-assistant-for-the-visually-impaired-27j5)
+- [🌞 👁️ Sunbeam: AI-Powered Visual Assistant for the Visually Impaired](https://dev.to/james_hoang_c601f7e9561c2/sunbeam-ai-powered-visual-assistant-for-the-visually-impaired-27j5)
 - [Optimizing Next.js Internationalization with URL-Based Locales](https://dev.to/rajan_maharjan_606072a0f9/optimizing-nextjs-internationalization-with-url-based-locales-bb0)
 - [The Complete Guide to Custom Embroidery Patches for Businesses and Brands](https://dev.to/solution_punch_7577c3f491/the-complete-guide-to-custom-embroidery-patches-for-businesses-and-brands-34k)
 - [Robots That &#39;Get&#39; the Real World: Context-Aware AI Planning](https://dev.to/arvindsundararajan/robots-that-get-the-real-world-context-aware-ai-planning-2ddg)
