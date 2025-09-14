@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Audio Deepfakes: Exposing the Echo Chamber in AI Security](https://dev.to/arvindsundararajan/audio-deepfakes-exposing-the-echo-chamber-in-ai-security-2hk6)
+- [Automatically Backing Up a GitHub Repository to S3 with GitHub Actions](https://dev.to/a-k-0047/automatically-backing-up-a-github-repository-to-s3-with-github-actions-32dg)
+- [From Spaghetti to Symphony: Taming Complex PHP Applications with DDD and CQRS](https://dev.to/igornosatov_15/from-spaghetti-to-symphony-taming-complex-php-applications-with-ddd-and-cqrs-38m)
+- [I Taught an AI to Use Git So I Wouldn&#39;t Have to Fear It Anymore](https://dev.to/kirodotdev/i-taught-an-ai-to-use-git-so-i-wouldnt-have-to-fear-it-anymore-16l7)
 - [🤖 RapidRelief Disaster Recovery Assistant AI 2025: 5X Faster Damage Assessment &amp; Rescue Guide ⚠️🛟](https://dev.to/sharafon/rapidrelief-ai-2025-5x-faster-damage-assessment-rescue-guide-2lf9)
-- [Day 4 – Handling Failures with Dead-Letter Queues &lpar;DLQ&rpar; in Azure Service Bus](https://dev.to/vinayaksavle/day-4-handling-failures-with-dead-letter-queues-dlq-in-azure-service-bus-5g0h)
-- [Day 3 – Message Sessions &amp; Ordering in Azure Service Bus with .NET](https://dev.to/vinayaksavle/day-3-message-sessions-ordering-in-azure-service-bus-with-net-3079)
-- [so i didnt like vscode for c , and i think i will use codeblocks or dev c++ ,](https://dev.to/bankai2054/so-i-didnt-like-vscode-for-c-and-i-think-i-will-use-codeblocks-or-dev-c--13ni)
-- [Day 2 – Queues vs Topics in Azure Service Bus with .NET](https://dev.to/vinayaksavle/day-2-queues-vs-topics-in-azure-service-bus-with-net-2681)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
