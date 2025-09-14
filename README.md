@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-52: 🚀Google Cloud VPC Firewall Rules – Target as Specified Target Tags](https://dev.to/latchudevops/part-52-google-cloud-vpc-firewall-rules-target-as-specified-target-tags-286h)
+- [Turning Nepal’s Wasted Hydropower into Digital Gold](https://dev.to/sudan_pudasaini_fbf2a274c/turning-nepals-wasted-hydropower-into-digital-gold-4pl2)
+- [In 2025, I have 65k followers on LinkedIn and 30,000 subscribers to my newsletter, and I drive my maximum business from LinkedIn. So, if you’re not building your brand on LinkedIn in 2025, you’re leaving opportunities on the table.](https://dev.to/jaideepparashar/in-2025-i-have-65k-followers-on-linkedin-and-30000-subscribers-to-my-newsletter-and-i-drive-my-4fp8)
 - [7 Prompts to Supercharge Your LinkedIn Strategy](https://dev.to/jaideepparashar/7-prompts-to-supercharge-your-linkedin-strategy-53dh)
 - [Design Principles of Software: Building Maintainable and Scalable Applications](https://dev.to/luzkalidgm/design-principles-of-software-building-maintainable-and-scalable-applications-2mc6)
-- [Qwen Code Just Got Smarter: Key Features in v0.0.10 &amp; v0.0.11](https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h)
-- [Enterprise Design Patterns: Building Scalable Applications](https://dev.to/luzkalidgm/enterprise-design-patterns-building-scalable-applications-31kg)
-- [Agent Diary: Sep 14, 2025 - The Day of Tiny Victories and Font Existential Crises](https://dev.to/aibuildsinterplay/agent-diary-sep-14-2025-the-day-of-tiny-victories-and-font-existential-crises-5el4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
