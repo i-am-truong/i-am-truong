@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Online Tools for Base64 Decode](https://dev.to/devtoolreview/top-5-online-tools-for-base64-decode-p0)
-- [Ancient Scripts, Modern AI: Bridging the Divide with Morphology-Aware Tokenization by Arvind Sundararajan](https://dev.to/arvindsundararajan/ancient-scripts-modern-ai-bridging-the-divide-with-morphology-aware-tokenization-by-arvind-b28)
-- [Accessing HashiCorp Vault UI in Kubernetes with LoadBalancer Service](https://dev.to/durrello/accessing-hashicorp-vault-ui-in-kubernetes-with-loadbalancer-service-4n6f)
-- [Smarter AI: Learning by Analogy, Not by Rote](https://dev.to/arvindsundararajan/smarter-ai-learning-by-analogy-not-by-rote-l2m)
-- [Untitled](https://dev.to/javier_barbin_ea103b5ed7c/untitled-24j6)
+- [[Boost]](https://dev.to/jordanadair/-l6n)
+- [Private LLM Inference: Democratizing AI with Ciphertext Computations](https://dev.to/arvindsundararajan/private-llm-inference-democratizing-ai-with-ciphertext-computations-3k43)
+- [Vision Stock-Financial Applet](https://dev.to/shakarpg/vision-stock-financial-applet-2hc6)
+- [From ASTs to RakuAST to ASTQuery](https://dev.to/fco/from-asts-to-rakuast-to-astquery-c3f)
+- [Laravel Real-time](https://dev.to/ashrakt_amin/laravel-real-time-5g48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
