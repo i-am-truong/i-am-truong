@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🙏 Need Community Help](https://dev.to/hamdi_benjarrar/need-community-help-3iil)
-- [mermaid-isomorphic in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/mermaid-isomorphic-in-mcp-mermaid-codebase-41jl)
-- [Flow State: Guiding Robots with Learned Motion Fields](https://dev.to/arvindsundararajan/flow-state-guiding-robots-with-learned-motion-fields-15d5)
-- [🎮 Make Games with JAVA!](https://dev.to/mohamad_mhana/make-games-with-java-1de6)
-- [Why Isn&#39;t My Website on Google Yet? The Developer&#39;s Guide to Not Being Found &lpar;Yet!&rpar;](https://dev.to/shiva_prasadreddykondap/why-isnt-my-website-on-google-yet-the-developers-guide-to-not-being-found-yet-18b2)
+- [Polyphonic: How Music Works in &quot;Sinners&quot;](https://dev.to/music_youtube/polyphonic-how-music-works-in-sinners-e2h)
+- [Google&#39;s Top AI Scientists Say &quot;Learning How to Learn&quot; Will Be the Next Generation&#39;s Most Needed Skill](https://dev.to/shiva_shanker_k/googles-top-ai-scientists-say-learning-how-to-learn-will-be-the-next-generations-most-needed-3f26)
+- [IGN: Miyamoto Explains How Mario World 1-1 Was Created](https://dev.to/gg_news/ign-miyamoto-explains-how-mario-world-1-1-was-created-36bm)
+- [May the Auth Be With You: Securing Mage AI](https://dev.to/killallskywalker/may-the-auth-be-with-you-securing-mage-ai-3ole)
+- [Spec Coding with Kiro: My Experience Building LiftFire](https://dev.to/devblac/spec-coding-with-kiro-my-experience-building-liftfire-g0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
