@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wolverine, Azure Service Bus, and Integration Tests](https://dev.to/kakins/wolverine-azure-service-bus-and-integration-tests-4354)
+- [Latency Numbers Every Data Streaming Engineer Should Know](https://dev.to/david_kjerrumgaard_d31d7e/latency-numbers-every-data-streaming-engineer-should-know-h91)
 - [Deploying StarRocks in Shared Data Mode on Minikube with S3 Integration](https://dev.to/mohamed_ammar/deploying-starrocks-in-shared-data-mode-on-minikube-with-s3-integration-22fj)
 - [Soft Launch: FlowSynx – A Plugin-Driven Workflow Orchestration System](https://dev.to/flowsynx/soft-launch-flowsynx-a-plugin-driven-workflow-orchestration-system-1ebd)
 - [How Kiro Helped Me Build AgroFlow Faster](https://dev.to/brian_kibet_979839b465187/how-kiro-helped-me-build-agroflow-faster-k3n)
-- [Illuminating the Unseen: AI-Powered Clarity in Low-Light Imaging](https://dev.to/arvindsundararajan/illuminating-the-unseen-ai-powered-clarity-in-low-light-imaging-2ghh)
-- [I Asked Kiro to Understand My Verilog Codebase — It Built Me an AI-Powered EDA Assistant](https://dev.to/pawan_fe14d4bbd65e54b9a86/i-asked-kiro-to-understand-my-verilog-codebase-it-built-me-an-ai-powered-eda-assistant-41j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
