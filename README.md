@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Data to Dashboard: Building Interactive Reports with Streamlit](https://dev.to/ahmed_a_o/from-data-to-dashboard-building-interactive-reports-with-streamlit-4c10)
+- [Generative AI for Financial Narratives: Crafting Compliant, Nuanced &amp; Philosophy-Driven Investment Analysis](https://dev.to/hikikomorineko/generative-ai-for-financial-narratives-crafting-compliant-nuanced-philosophy-driven-investment-29d6)
 - [Understanding stdin/stdout: Building CLI Tools Like a Pro](https://dev.to/sudiip__17/understanding-stdinstdout-building-cli-tools-like-a-pro-2njk)
 - [Understanding Flutter GoRouter for Beginners](https://dev.to/bestaoui_aymen/understanding-flutter-gorouter-for-beginners-17al)
 - [Seeing the Invisible: AI Reveals Hidden Heart Strain, Predicts Cardiac Events](https://dev.to/arvindsundararajan/seeing-the-invisible-ai-reveals-hidden-heart-strain-predicts-cardiac-events-4321)
-- [Building Real-Time Data Processing with Transform Streams](https://dev.to/sudiip__17/building-real-time-data-processing-with-transform-streams-41o)
-- [How We Built a Private, On-Device AI That Runs Entirely in Your Browser](https://dev.to/gemma_322a35bf7fa2afab/how-we-built-a-private-on-device-ai-that-runs-entirely-in-your-browser-30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
