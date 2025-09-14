@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [👤👗👖🧥AI Avatars &amp; Virtual Try-On: Redefining Online Fashion🌐](https://dev.to/dipanita_dev47/ai-avatars-virtual-try-on-redefining-online-fashion-1plg)
-- [The Code Behind Dubai&#39;s Delivery Empire: AI, Automation, and $720M in Annual Revenue](https://dev.to/ramdas/the-code-behind-dubais-delivery-empire-ai-automation-and-720m-in-annual-revenue-2gbe)
-- [# Is Low-Code/No-Code Development the Future of Coding &lpar;or Just Hype&rpar;?](https://dev.to/karthik_n/-is-low-codeno-code-development-the-future-of-coding-or-just-hype-1bfd)
-- [Understanding Process Management in Linux: A Deep Dive for Developers and Admins 💻](https://dev.to/sahillearninglinux/understanding-process-management-in-linux-a-deep-dive-for-developers-and-admins-8lk)
-- [AI Toy Companion](https://dev.to/parvati_awrul_3296932e218/ai-toy-companion-ok5)
+- [Data Engineering Core Concepts](https://dev.to/prudiec/data-engineering-core-concepts-5c47)
+- [New Relic Template for Strands](https://dev.to/aws-builders/new-relic-template-for-strands-33p)
+- [Handle WebDAV as JSON: A One-File Self-Hosted API WebDAVJSON &lpar;PHP/Node.js&rpar;](https://dev.to/uber_95d81a06792ac5/handle-webdav-as-json-a-one-file-self-hosted-api-webdavjson-phpnodejs-19do)
+- [MeridianDB Architecting for Scale and Developer Experience](https://dev.to/araldhafeeri/meridiandb-architecting-for-scale-29go)
+- [Crystal Vision AI](https://dev.to/arunavmaitra/crystal-vision-ai-50hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
