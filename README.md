@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤖 RapidRelief Disaster Recovery Assistant AI 2025: 5X Faster Damage Assessment &amp; Rescue Guide ⚠️🛟](https://dev.to/sharafon/rapidrelief-ai-2025-5x-faster-damage-assessment-rescue-guide-2lf9)
 - [Day 4 – Handling Failures with Dead-Letter Queues &lpar;DLQ&rpar; in Azure Service Bus](https://dev.to/vinayaksavle/day-4-handling-failures-with-dead-letter-queues-dlq-in-azure-service-bus-5g0h)
 - [Day 3 – Message Sessions &amp; Ordering in Azure Service Bus with .NET](https://dev.to/vinayaksavle/day-3-message-sessions-ordering-in-azure-service-bus-with-net-3079)
 - [so i didnt like vscode for c , and i think i will use codeblocks or dev c++ ,](https://dev.to/bankai2054/so-i-didnt-like-vscode-for-c-and-i-think-i-will-use-codeblocks-or-dev-c--13ni)
 - [Day 2 – Queues vs Topics in Azure Service Bus with .NET](https://dev.to/vinayaksavle/day-2-queues-vs-topics-in-azure-service-bus-with-net-2681)
-- [AI&#39;s Heartfelt Leap: Visualizing the Rhythm of Life by Arvind Sundararajan](https://dev.to/arvindsundararajan/ais-heartfelt-leap-visualizing-the-rhythm-of-life-by-arvind-sundararajan-5bje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
