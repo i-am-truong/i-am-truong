@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vergilian - The speech coach](https://dev.to/kjue/vergilian-the-speech-coach-3g1a)
+- [How I passed AWS Certified Machine Learning — Specialty 2025](https://dev.to/camille_chang/how-i-passed-aws-certified-machine-learning-specialty-2025-20f8)
+- [Beyond the Black Box: Building AI Agents that Truly Understand Their World by Arvind Sundararajan](https://dev.to/arvindsundararajan/beyond-the-black-box-building-ai-agents-that-truly-understand-their-world-by-arvind-sundararajan-o4g)
 - [Data Engineering Core Concepts](https://dev.to/prudiec/data-engineering-core-concepts-5c47)
 - [New Relic Template for Strands](https://dev.to/aws-builders/new-relic-template-for-strands-33p)
-- [Handle WebDAV as JSON: A One-File Self-Hosted API WebDAVJSON &lpar;PHP/Node.js&rpar;](https://dev.to/uber_95d81a06792ac5/handle-webdav-as-json-a-one-file-self-hosted-api-webdavjson-phpnodejs-19do)
-- [MeridianDB Architecting for Scale and Developer Experience](https://dev.to/araldhafeeri/meridiandb-architecting-for-scale-29go)
-- [Crystal Vision AI](https://dev.to/arunavmaitra/crystal-vision-ai-50hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
