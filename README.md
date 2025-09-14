@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nitro Enclaves: Your Cloud&#39;s Ultimate Digital Clean Room](https://dev.to/leonardkachi/nitro-enclaves-your-clouds-ultimate-digital-clean-room-34gd)
-- [10 Passos Para Conduzir um Pós-Mortem Que Realmente Evita Novos Incidentes](https://dev.to/ed-wantuil/10-passos-para-conduzir-um-pos-mortem-que-realmente-evita-novos-incidentes-4795)
-- [Chatbots vs Support Humain : faut-il choisir entre les deux ?](https://dev.to/service_maxsell_64ece3f66/chatbots-vs-support-humain-faut-il-choisir-entre-les-deux--5bm2)
-- [The Learning Loop: From Software Dev to Game Neophyte [#1]](https://dev.to/marjenta/the-learning-loop-from-software-dev-to-game-neophyte-1-dle)
-- [Kyrage: A TypeScript-First Database Migration Tool for Modern Development](https://dev.to/izumisy/kyrage-a-typescript-first-database-migration-tool-for-modern-development-5272)
+- [SpiritDex: An Explorer&#39;s Journal](https://dev.to/async_dime/spiritdex-an-explorers-journal-43l6)
+- [Sunbeam: AI-Powered Visual Assistant for the Visually Impaired](https://dev.to/james_hoang_c601f7e9561c2/sunbeam-ai-powered-visual-assistant-for-the-visually-impaired-27j5)
+- [Optimizing Next.js Internationalization with URL-Based Locales](https://dev.to/rajan_maharjan_606072a0f9/optimizing-nextjs-internationalization-with-url-based-locales-bb0)
+- [The Complete Guide to Custom Embroidery Patches for Businesses and Brands](https://dev.to/solution_punch_7577c3f491/the-complete-guide-to-custom-embroidery-patches-for-businesses-and-brands-34k)
+- [Robots That &#39;Get&#39; the Real World: Context-Aware AI Planning](https://dev.to/arvindsundararajan/robots-that-get-the-real-world-context-aware-ai-planning-2ddg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
