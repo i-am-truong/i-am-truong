@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FREE Perplexity Pro](https://dev.to/ahmetmertugrul/free-perplexity-pro-4ahd)
 - [DNS: How It Works with Practical Examples](https://dev.to/shrsv/dns-how-it-works-with-practical-examples-5f2)
 - [Web Designers in Bangalore](https://dev.to/echopx_0249e88fe2099716af/web-designers-in-bangalore-4750)
 - [API Security in Django: Approaches, Trade-offs, and Best Practices](https://dev.to/topunix/api-security-in-django-approaches-trade-offs-and-best-practices-nk4)
 - [How npm run dev Updates Your Site Instantly &lpar;and How It Differs from Build&rpar;](https://dev.to/rijultp/how-npm-run-dev-updates-your-site-instantly-and-how-it-differs-from-build-17c5)
-- [100 Days of DevOps: Day 42](https://dev.to/wycliffealphus/100-days-of-devops-day-42-1m8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
