@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Dream-to-Reality Planner: Where 🎨 imagination meets 🚀 execution](https://dev.to/ramya_srim/dream-to-reality-planner-where-imagination-meets-execution-370g)
+- [Get Ready to Meet Your AI BFF: Understanding the Magic of Conversational AI](https://dev.to/karthik_n/get-ready-to-meet-your-ai-bff-understanding-the-magic-of-conversational-ai-1dbf)
+- [How I Built Forkscout: An AI-Powered GitHub Fork Analysis Tool That Saves 480x Time](https://dev.to/romavm/how-i-built-forkscout-an-ai-powered-github-fork-analysis-tool-that-saves-480x-time-1n9f)
 - [zkAGI: Trustless Trading Agents Powered by Oasis](https://dev.to/rollingindo/zkagi-trustless-trading-agents-powered-by-oasis-3o1m)
 - [Death of a lens&lpar;man&rpar;](https://dev.to/omanfk/death-of-a-lensman-5be8)
-- [n8n automation workflows that bring together web scraping, vector databases, and AI-powered chatbot support!](https://dev.to/sabbschow/n8n-automation-workflows-that-bring-together-web-scraping-vector-databases-and-ai-powered-chatbot-1p7n)
-- [Meet Spuddy 🥔](https://dev.to/psimk/meet-spuddy-8a7)
-- [Audio Deepfakes: The Hidden Flaw in Our Defenses by Arvind Sundararajan](https://dev.to/arvindsundararajan/audio-deepfakes-the-hidden-flaw-in-our-defenses-by-arvind-sundararajan-345)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
