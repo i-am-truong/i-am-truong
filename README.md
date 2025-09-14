@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Predictive Motion: Charting the Course for Autonomous Robots with Flow Fields](https://dev.to/arvindsundararajan/predictive-motion-charting-the-course-for-autonomous-robots-with-flow-fields-4926)
-- [Level Up Your Sprints: How I&#39;m Using AI to Plan Like a Boss](https://dev.to/sagar/level-up-your-sprints-how-im-using-ai-to-plan-like-a-boss-1lj0)
-- [Which online/distance post graduation is best for a .NET developer to get leadership jobs? Which technology/skills should I learn?](https://dev.to/ashvini_mahajan_2ead5cf9f/which-onlinedistance-post-graduation-is-best-for-a-net-developer-to-get-leadership-jobs-which-34gp)
-- [Title: Building Floating Sky Skatepark – A Serious Game for Gender Bias Awareness](https://dev.to/cutieyunnytech/title-building-floating-sky-skatepark-a-serious-game-for-gender-bias-awareness-c35)
-- [The Stack Unpacked: Then vs Now — The State of Software Engineering](https://dev.to/shaq_attack/the-stack-unpacked-then-vs-now-the-state-of-software-engineering-1g7g)
+- [Nitro Enclaves: Your Cloud&#39;s Ultimate Digital Clean Room](https://dev.to/leonardkachi/nitro-enclaves-your-clouds-ultimate-digital-clean-room-34gd)
+- [10 Passos Para Conduzir um Pós-Mortem Que Realmente Evita Novos Incidentes](https://dev.to/ed-wantuil/10-passos-para-conduzir-um-pos-mortem-que-realmente-evita-novos-incidentes-4795)
+- [Chatbots vs Support Humain : faut-il choisir entre les deux ?](https://dev.to/service_maxsell_64ece3f66/chatbots-vs-support-humain-faut-il-choisir-entre-les-deux--5bm2)
+- [The Learning Loop: From Software Dev to Game Neophyte [#1]](https://dev.to/marjenta/the-learning-loop-from-software-dev-to-game-neophyte-1-dle)
+- [Kyrage: A TypeScript-First Database Migration Tool for Modern Development](https://dev.to/izumisy/kyrage-a-typescript-first-database-migration-tool-for-modern-development-5272)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
