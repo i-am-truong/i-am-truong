@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Real ChatGPT Conversations: Data Fetching and Query Optimization](https://dev.to/nevantan/real-chatgpt-conversations-data-fetching-and-query-optimization-2d7k)
+- [AppWeaver AI](https://dev.to/ha3k/appweaver-ai-5a1m)
+- [Unlocking the Unthinkable: Convergent Flow Fields for Next-Gen Robotics](https://dev.to/arvindsundararajan/unlocking-the-unthinkable-convergent-flow-fields-for-next-gen-robotics-5oj)
+- [Understand how AI Agents work, with AWS Strands](https://dev.to/welcloud-io/understand-how-ai-agents-work-with-aws-strands-51g6)
 - [I built Element Fusion](https://dev.to/arunavmaitra/i-built-element-fusion-5ed6)
-- [Fast AI Hair + Color Preview That Actually Helped](https://dev.to/yuki_18_77ff1fd604db8ace7/fast-ai-hair-color-preview-that-actually-helped-1p2j)
-- [Quantum Composition: Teaching AI to &#39;Understand&#39; Like Humans](https://dev.to/arvindsundararajan/quantum-composition-teaching-ai-to-understand-like-humans-4b46)
-- [Proof-of-Work Reputation: A Practical Playbook for Developers and Founders](https://dev.to/sonia_bobrik_1939cdddd79d/proof-of-work-reputation-a-practical-playbook-for-developers-and-founders-1hf1)
-- [Iris- Your AI Interviewer&lpar;Audio+ Visual+ Live Cam+ Feedback&rpar;🎙️📹✨](https://dev.to/shreya111111/iris-your-ai-intervieweraudio-visual-live-cam-feedback-4nl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
