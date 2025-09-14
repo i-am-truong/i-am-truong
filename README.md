@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Agentic AI Development: AI Newsroom](https://dev.to/jimmyhott/my-journey-into-agentic-ai-development-ai-newsroom-1khn)
-- [Flight Tracker AI](https://dev.to/snm2824/flight-tracker-ai-39l8)
-- [Welcome in my post studies adventure !](https://dev.to/bertrandr_dev/welcome-in-my-post-studies-adventure--30bh)
-- [Accessibility: Looking for Honest Feedback](https://dev.to/allon_a11y/accessibility-looking-for-honest-feedback-3mm0)
-- [How to Get Selected for GSoC &lpar;Google Summer of Code&rpar; - My Personal Experience at Accord Project](https://dev.to/fuyalasmit/how-to-get-selected-for-gsoc-google-summer-of-code-my-personal-experience-at-accord-project-4hh9)
+- [Who be AI?!](https://dev.to/kizito007/who-be-ai-5180)
+- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;3/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-35-1dfc)
+- [SONICS.ai 🧠🎬📚🎞️ create Comics that *speak* - your Style!](https://dev.to/ssithub/sonicsai-create-comics-that-speak-your-style-32p8)
+- [Built a 40k Line AI Platform by Having Conversations](https://dev.to/ryszardrzepa/built-a-40k-line-ai-platform-by-having-conversations-4k9b)
+- [Machine Learning: Transforming Data into Intelligent Decisions](https://dev.to/hadi_ahad_524f44ef9d635ee/machine-learning-transforming-data-into-intelligent-decisions-5fmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
