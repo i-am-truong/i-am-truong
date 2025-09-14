@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Lists vs. Tuples: Choosing the Right Tool](https://dev.to/aaron_rose_0787cc8b4775a0/python-lists-vs-tuples-choosing-the-right-tool-28a4)
+- [Try ChromaFlip Chronicles](https://dev.to/arunavmaitra/try-chromaflip-chronicles-1af6)
+- [The Evolution of Web Development: Past, Present, and Future](https://dev.to/lindamendoza/the-evolution-of-web-development-past-present-and-future-2mf0)
 - [MediVision Assistant](https://dev.to/omkar598/medivision-assistant-13go)
-- [In a Method calling what happens in a compile time and Run Time.](https://dev.to/vigneshwaralingam/in-a-method-calling-what-happens-in-a-compile-time-and-run-time-4m5i)
-- [SentinelMFT: AI-Powered Secure File Transfer &amp; Network Firewall for Google Cloud](https://dev.to/raghavachellu/sentinelmft-ai-powered-secure-file-transfer-network-firewall-for-google-cloud-2ne3)
-- [How to Generate PDF Files from Web Pages Using Selenium and Python](https://dev.to/guzmanojero/how-to-generate-pdf-files-from-web-pages-using-selenium-and-python-lb4)
-- [Special Files in Linux: The Hidden Power Behind “Everything is a File”](https://dev.to/naval_upadhyay/special-files-in-linux-the-hidden-power-behind-everything-is-a-file-34j7)
+- [Random Questions in Java:](https://dev.to/vigneshwaralingam/random-questions-in-java-1hl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
