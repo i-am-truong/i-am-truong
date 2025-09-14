@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Storyline Generator](https://dev.to/adityawaslost/ai-storyline-generator-3flp)
-- [The Trials and Tribulations of Counting Visitors in the Cloud Resume Challenge](https://dev.to/sashalapommeray/the-trials-and-tribulations-of-counting-visitors-in-the-cloud-resume-challenge-5dpi)
-- [Python Dictionaries: The Secret to Lightning-Fast Data Lookups](https://dev.to/aaron_rose_0787cc8b4775a0/python-dictionaries-the-secret-to-lightning-fast-data-lookups-34j1)
-- [Getting Started with Vagrant](https://dev.to/trinitezinsou/getting-started-with-vagrant-191g)
-- [Hackspire’25](https://dev.to/streamer_lulli_33a76cf412/hackspire25-1p07)
+- [Beyond ChatGPT: 7 Practical Ways AI is Quietly Reshaping Everyday Business &lpar;That No One Talks About&rpar;](https://dev.to/kammatech/beyond-chatgpt-7-practical-ways-ai-is-quietly-reshaping-everyday-business-that-no-one-talks-about-jd4)
+- [Securing Azure Workloads with Azure Firewall: A Step-by-Step Implementation Guide](https://dev.to/isaiah_izibili_7a39b7d627/securing-azure-workloads-with-azure-firewall-a-step-by-step-implementation-guide-4cd4)
+- [Following my passion #1: Raylib, Zig and the Square on screen](https://dev.to/brharrelldev/following-my-passion-1-raylib-zig-and-the-square-on-screen-5eii)
+- [How I Mastered SwiftUI After Years of Jetpack Compose: Tips for Android Devs](https://dev.to/ibtiikhhn/how-i-mastered-swiftui-after-years-of-jetpack-compose-tips-for-android-devs-307n)
+- [Spooky Smart AI That Designs Your Halloween Look](https://dev.to/robot254/spooky-smart-ai-that-designs-your-halloween-look-2dil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
