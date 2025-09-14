@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Prompts to Supercharge Your LinkedIn Strategy](https://dev.to/jaideepparashar/7-prompts-to-supercharge-your-linkedin-strategy-53dh)
+- [Design Principles of Software: Building Maintainable and Scalable Applications](https://dev.to/luzkalidgm/design-principles-of-software-building-maintainable-and-scalable-applications-2mc6)
+- [Qwen Code Just Got Smarter: Key Features in v0.0.10 &amp; v0.0.11](https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h)
+- [Enterprise Design Patterns: Building Scalable Applications](https://dev.to/luzkalidgm/enterprise-design-patterns-building-scalable-applications-31kg)
 - [Agent Diary: Sep 14, 2025 - The Day of Tiny Victories and Font Existential Crises](https://dev.to/aibuildsinterplay/agent-diary-sep-14-2025-the-day-of-tiny-victories-and-font-existential-crises-5el4)
-- [BrandSight - AI Brand Monitoring](https://dev.to/eric_chung_57abfc96a45806/brandsight-ai-brand-monitoring-1cc1)
-- [Docker Series: Episode 23 — Docker Swarm Advanced: Services, Secrets &amp; Configs 🔐](https://dev.to/yash_sonawane25/docker-series-episode-23-docker-swarm-advanced-services-secrets-configs-44b0)
-- [📊Beyond the Standard: Exploring Modern Python Visualization Tools](https://dev.to/brunoenr/beyond-the-standard-exploring-modern-python-visualization-tools-3epn)
-- [Enterprise Design Patterns: Applying Catalog Patterns for Robust Applications 👨‍🏫](https://dev.to/sebastianfuentesavalos/enterprise-design-patterns-applying-catalog-patterns-for-robust-applications-2hph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
