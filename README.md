@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [mermaid-isomorphic in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/mermaid-isomorphic-in-mcp-mermaid-codebase-41jl)
+- [Why Isn&#39;t My Website on Google Yet? The Developer&#39;s Guide to Not Being Found &lpar;Yet!&rpar;](https://dev.to/shiva_prasadreddykondap/why-isnt-my-website-on-google-yet-the-developers-guide-to-not-being-found-yet-18b2)
 - [Who be AI?!](https://dev.to/kizito007/who-be-ai-5180)
 - [The Rust Journey of a JavaScript Developer • Day 4 &lpar;3/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-35-1dfc)
 - [SONICS.ai 🧠🎬📚🎞️ create Comics that *speak* - your Style!](https://dev.to/ssithub/sonicsai-create-comics-that-speak-your-style-32p8)
-- [Built a 40k Line AI Platform by Having Conversations](https://dev.to/ryszardrzepa/built-a-40k-line-ai-platform-by-having-conversations-4k9b)
-- [Machine Learning: Transforming Data into Intelligent Decisions](https://dev.to/hadi_ahad_524f44ef9d635ee/machine-learning-transforming-data-into-intelligent-decisions-5fmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
