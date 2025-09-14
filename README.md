@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#DAY 8: Guardian of the Filesystem](https://dev.to/samueladeduntan/day-8-guardian-of-the-filesystem-4ll)
-- [Supacrawler: lightweight, and ultra-fast web scraping api](https://dev.to/antoine_ross_93d7d37905fd/supacrawler-lightweight-and-ultra-fast-web-scraping-api-2den)
-- [TikTok hashtag nonsense](https://dev.to/ahmetmertugrul/tiktok-hashtag-nonsense-3bo9)
-- [The Hidden Cost of AI in SRE: Why Automation Hasn’t Fixed Burnout](https://dev.to/arkhan/the-hidden-cost-of-ai-in-sre-why-automation-hasnt-fixed-burnout-5a03)
-- [The New Way of Code: Hackathon Revelation with Kiro](https://dev.to/pradeep_karanam_ddfdc352e/the-new-way-of-code-hackathon-revelation-with-kiro-dcf)
+- [COLORS: AMORE | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-a-colors-show-2424)
+- [An Interview is a Conversation You Can Lead. Here&#39;s How.](https://dev.to/wsoltani/an-interview-is-a-conversation-you-can-lead-heres-how-1i1h)
+- [Transforming Daily Life with LazAI Inference APIs: Real-World Use Cases for a Decentralized Future](https://dev.to/ungest/transforming-daily-life-with-lazai-inference-apis-real-world-use-cases-for-a-decentralized-future-3dm7)
+- [Unlock Spatial AI: Build Navigational Intelligence Inspired by the Brain by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlock-spatial-ai-build-navigational-intelligence-inspired-by-the-brain-by-arvind-sundararajan-2ilj)
+- [Hairstyle AI Try-On ✂️🤖](https://dev.to/devrayat000/hairstyle-ai-try-on-4p0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
