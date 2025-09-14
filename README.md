@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built a Modern Rice Purity Test Website. Here&#39;s My Tech Stack and the Challenges I Faced.](https://dev.to/alfhauck/built-a-modern-rice-purity-test-website-heres-my-tech-stack-and-the-challenges-i-faced-182e)
-- [COLORS: AMORE | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-a-colors-show-2424)
-- [An Interview is a Conversation You Can Lead. Here&#39;s How.](https://dev.to/wsoltani/an-interview-is-a-conversation-you-can-lead-heres-how-1i1h)
-- [Transforming Daily Life with LazAI Inference APIs: Real-World Use Cases for a Decentralized Future](https://dev.to/ungest/transforming-daily-life-with-lazai-inference-apis-real-world-use-cases-for-a-decentralized-future-3dm7)
-- [Unlock Spatial AI: Build Navigational Intelligence Inspired by the Brain by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlock-spatial-ai-build-navigational-intelligence-inspired-by-the-brain-by-arvind-sundararajan-2ilj)
+- [Director&#39;s Cut AI: A Multimodal Storytelling Toolkit](https://dev.to/koki_oki/directors-cut-ai-a-multimodal-storytelling-toolkit-22d9)
+- [🍳 Recipe Generator – What’s in Your Pantry?](https://dev.to/devrayat000/recipe-generator-whats-in-your-pantry-4lnk)
+- [Good post about AI development, with sources to try and learn n8n](https://dev.to/bsalikhov/good-post-about-ai-development-with-sources-to-try-and-learn-n8n-1o0c)
+- [The Audio Illusion: How Easily AI Deepfakes Deceive Our Ears](https://dev.to/arvindsundararajan/the-audio-illusion-how-easily-ai-deepfakes-deceive-our-ears-3lni)
+- [Comprehensive LLM Evaluation: Metrics, Methods, and Use Case Considerations](https://dev.to/kapusto/comprehensive-llm-evaluation-metrics-methods-and-use-case-considerations-acd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
