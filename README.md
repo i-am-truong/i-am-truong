@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Zoneless Change Detection in Angular: The Future of High-Performance Apps](https://dev.to/rohit_singh_ee84e64941db7/zoneless-change-detection-in-angular-the-future-of-high-performance-apps-4j00)
-- [Sharing my PH Tax Calculator + Salary Converter 🇵🇭 🇵🇭 🇵🇭](https://dev.to/kyboat/sharing-my-ph-tax-calculator-salary-converter-gmb)
-- [🌟 Dream-to-Reality Planner: Where 🎨 imagination meets 🚀 execution](https://dev.to/ramya_srim/dream-to-reality-planner-where-imagination-meets-execution-370g)
-- [Get Ready to Meet Your AI BFF: Understanding the Magic of Conversational AI](https://dev.to/karthik_n/get-ready-to-meet-your-ai-bff-understanding-the-magic-of-conversational-ai-1dbf)
-- [How I Built Forkscout: An AI-Powered GitHub Fork Analysis Tool That Saves 480x Time](https://dev.to/romavm/how-i-built-forkscout-an-ai-powered-github-fork-analysis-tool-that-saves-480x-time-1n9f)
+- [Steganography App &lpar;Artful whisper&rpar;](https://dev.to/aman_choudhary_ca1bdbc12a/steganography-app-artful-whisper-53hd)
+- [Model Context Protocol &lpar;MCP&rpar;](https://dev.to/atmosai/model-context-protocol-mcp-3l9a)
+- [📱 The Ultimate Guide to Building Mobile-Friendly Websites: Best Practices, Advanced Techniques and Google AMP](https://dev.to/anisubhra_sarkar/the-ultimate-guide-to-building-mobile-friendly-websites-best-practices-advanced-techniques-and-aki)
+- [React Functions, Methods &amp;Hooks](https://dev.to/nouribram/react-functions-methods-hooks-1i1d)
+- [How the Web Talks to Django: A Beginner-Friendly Guide](https://dev.to/kihuni/how-the-web-talks-to-django-a-beginner-friendly-guide-5945)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
