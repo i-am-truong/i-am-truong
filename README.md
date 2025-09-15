@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Prepared Statements with Dates in Amazon Athena &lpar;Java&rpar;](https://dev.to/vibhz/using-prepared-statements-with-dates-in-amazon-athena-java-5209)
-- [Show Password – Chrome Extension](https://dev.to/karannakra/show-password-chrome-extension-2m75)
-- [Preparing for re:Invent 2025](https://dev.to/niklaswesterstrahle/preparing-for-reinvent-2025-3o1h)
-- [Part-59: Google Cloud Networking – Cloud NAT in GCP](https://dev.to/latchudevops/part-59-google-cloud-networking-cloud-nat-in-gcp-4074)
-- [O Culto à Ignorância](https://dev.to/ortizdavid/o-culto-a-ignorancia-4m12)
+- [Web Developer Travis McCracken on Horizontal Scaling Mistakes I’ve Made](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-horizontal-scaling-mistakes-ive-made-3e7)
+- [🚀 Introducing Pebble: A Tiny New Programming Language](https://dev.to/rasa8877/introducing-pebble-a-tiny-new-programming-language-2di7)
+- [Who Is Responsible When Algorithms Rule? Reintroducing Human Accountability in Executable Governance](https://dev.to/agustin_v_startari/who-is-responsible-when-algorithms-rule-reintroducing-human-accountability-in-executable-governance-476i)
+- [Meme Monday](https://dev.to/ben/meme-monday-1546)
+- [Creating a Platform Game with TCJSGame v3: Step-by-Step Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/creating-a-platform-game-with-tcjsgame-v3-step-by-step-tutorial-1h17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
