@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [50+ Top MERN Stack Project Ideas for 2025](https://dev.to/maxreed_918/50-top-mern-stack-project-ideas-for-2025-36jo)
-- [From Deployment to Architecture: Designing for Change and Scale](https://dev.to/sibasishm/from-deployment-to-architecture-designing-for-change-and-scale-1lo3)
-- [Structured Logging in Go: Context-Aware, JSON-Ready, and Production-Proven](https://dev.to/kittipat1413/structured-logging-in-go-context-aware-json-ready-and-production-proven-h1a)
-- [Building StudyPal with Kiro](https://dev.to/durga_ramakrishnakapa_1d/building-studypal-with-kiro-4dic)
-- [Scalping Strategies with the Traders Dynamic Index &lpar;Step-by-Step&rpar;](https://dev.to/muhammad_sharifulhoque_0/scalping-strategies-with-the-traders-dynamic-index-step-by-step-55e3)
+- [&quot;as const&quot; vs &quot;readonly&quot; in TypeScript: What’s the Difference?](https://dev.to/itsmearka/as-const-vs-readonly-in-typescript-whats-the-difference-eac)
+- [Clprolf Documentation &lpar;1/6&rpar; — Declensions Explained](https://dev.to/charles_koffler_bcabc582b/clprolf-documentation-16-declensions-explained-54mm)
+- [Stocks that have risen by 9.5% for three consecutive days--SPL Programming Practice](https://dev.to/esproc_spl/stocks-that-have-risen-by-95-for-three-consecutive-days-spl-programming-practice-4kan)
+- [Technical Best Practices for MDM Software Deployment](https://dev.to/vantage-mdm/technical-best-practices-for-mdm-software-deployment-3ojp)
+- [System Calls and Interactions in Linux](https://dev.to/naval_upadhyay/system-calls-and-interactions-in-linux-207j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
