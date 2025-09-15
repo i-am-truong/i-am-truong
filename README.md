@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Difference Between Google My Business and Google Maps](https://dev.to/aprizal_ali_28336d8fc6739/the-difference-between-google-my-business-and-google-maps-4fhn)
+- [From Messy Code to Clean Architecture: How I Finally Organized My Backend Projects](https://dev.to/farzad_fm/from-messy-code-to-clean-architecture-how-i-finally-organized-my-backend-projects-381g)
+- [Give Juniors a Chance](https://dev.to/ozkeisar/give-juniors-a-chance-31pa)
 - [How Exploring Multiple Programming Languages Elevates Your Coding Skills](https://dev.to/devtechinsights/how-exploring-multiple-programming-languages-elevates-your-coding-skills-2hfh)
 - [“Assign to Copilot” Explained: What GitHub’s Coding Agent Actually Does](https://dev.to/thelogicwarlock/assign-to-copilot-explained-what-githubs-coding-agent-actually-does-59g9)
-- [IGN: Pioner - Official &#39;Frontier&#39; Gameplay Trailer](https://dev.to/gg_news/ign-pioner-official-frontier-gameplay-trailer-2j64)
-- [IGN: Heavy as Stone - Official Teaser Trailer | Critical Reflex Direct 2025](https://dev.to/gg_news/ign-heavy-as-stone-official-teaser-trailer-critical-reflex-direct-2025-4i6p)
-- [IGN: SCP: Valravn - Official Teaser Trailer | Critical Reflex Direct 2025](https://dev.to/gg_news/ign-scp-valravn-official-teaser-trailer-critical-reflex-direct-2025-m3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
