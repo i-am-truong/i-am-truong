@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implemented User Auth, OTP verification, Audio Recording w BG, SMS, Cloud Integration.](https://dev.to/sakib_shaikh_9e7ea8dd9ec7/implemented-user-auth-otp-verification-audio-recording-w-bg-sms-cloud-integration-23n5)
-- [Kiro Agent Orchestration Patterns](https://dev.to/member_7b664256/asdfadsf-2cie)
-- [Segundo fim de semana de Preptember 2025: GitFichas trilingüe](https://dev.to/jesstemporal/segundo-fim-de-semana-de-preptember-2025-gitfichas-trilingue-71b)
-- [Caffeinated Commits- Day 3](https://dev.to/shri-dharshini/caffeinated-commits-day3-30af)
-- [How to expand diskspace on a Debian VM hosted on Hetzner Cloud](https://dev.to/juju89/how-to-expand-diskspace-on-a-debian-vm-hosted-on-hetzner-cloud-4c4p)
+- [The Complete Guide to Modern Java Map Operations: From Beginner to Advanced](https://dev.to/devcorner/the-complete-guide-to-modern-java-map-operations-from-beginner-to-advanced-5ek)
+- [Advanced Filtering with Nestjs: The Easy Way](https://dev.to/rubenoalvarado/advanced-filtering-with-nestjs-the-easy-way-c6m)
+- [Matplotlib Timeline &amp; Hillshading: Advanced Plotting Techniques for Data Storytelling](https://dev.to/labex/matplotlib-timeline-hillshading-advanced-plotting-techniques-for-data-storytelling-475j)
+- [Here&#39;s what ISO 27001 Is - and Why You Should Care About Your Data Security](https://dev.to/heyjoshlee/heres-what-iso-27001-is-and-why-you-should-care-about-your-data-security-3kfb)
+- [Embed Google reviews](https://dev.to/zsolt_lszl_9d00af94fd2a/embed-google-reviews-57e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
