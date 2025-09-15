@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Fotify: Real-Time Photo Sharing for Events](https://dev.to/agust1n/building-fotify-real-time-photo-sharing-for-events-53dj)
-- [How to Build a Full-Featured React Chat App in Minutes &lpar;Open-Source Starter&rpar;](https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h)
-- [Emoji php - emoticons in your project](https://dev.to/deniskorbakov/emoji-php-emoticons-in-your-project-346a)
-- [Procedures for Deploying .NET 9 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/nelson_akpa01/procedures-for-deploying-net-9-app-to-azure-kubernetes-service-aks-ge5)
-- [How to conduct a useful technical interview &lpar;based on my personal experience &lpar;subjective opinion&rpar;&rpar;](https://dev.to/arenukvern/how-to-conduct-a-useful-technical-interview-based-on-my-personal-experience-subjective-opinion-4h3c)
+- [Build a YouTube Downloader CLI | Merge Video/Audio | Fix Noise](https://dev.to/hego8/build-a-youtube-downloader-cli-merge-videoaudio-fix-noise-4obb)
+- [Custom Software vs. Off-the-Shelf: Which Is Right for You?](https://dev.to/vionsys_it_7ea65d267816d3/custom-software-vs-off-the-shelf-which-is-right-for-you-2k6b)
+- [Will your travel platform be invisible in the age of AI Agents?](https://dev.to/reshab_agarwal/will-your-travel-platform-be-invisible-in-the-age-of-ai-agents-imp)
+- [Enhancing AWS CodePipeline for Real-Time Batch Processing: Lessons from My Experience](https://dev.to/techwithhari/enhancing-aws-codepipeline-for-real-time-batch-processing-lessons-from-my-experience-3li7)
+- [🛠️ Guide: Building a Text-to-App Tool &lpar;like Base44&rpar;](https://dev.to/kar_s/guide-building-a-text-to-app-tool-like-base44-2ghg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
