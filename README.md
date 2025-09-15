@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Use React.useEffect Like a Pro With AbortSignal](https://dev.to/framemuse/use-reactuseeffect-like-a-pro-with-abortsignal-4l69)
-- [JavaScript project to TypeScript](https://dev.to/zeeshanali0704/javascript-project-to-typescript-1a48)
-- [📊 Other Dashboard Tools: Streamlit, Dash, and Bokeh &lpar;with deploy and CI/CD&rpar;](https://dev.to/wsalas651/other-dashboard-tools-streamlit-dash-and-bokeh-with-deploy-and-cicd-4bnd)
-- [apple macos time-machine](https://dev.to/jswhisperer/apple-macos-time-machine-5f39)
-- [Separation of Concerns em Java: O Jeito Simples](https://dev.to/jhonathandosreis/separation-of-concerns-em-java-o-jeito-simples-1c9b)
+- [Day 96: When Your Brain Refuses to Prioritize Properly](https://dev.to/casperday11/day-96-when-your-brain-refuses-to-prioritize-properly-5cp7)
+- [Project Cameo-Ecosystem aka Merchmatica](https://dev.to/yosun/project-cameo-ecosystem-aka-merchmatica-33pp)
+- [RAG vs MCP Made Simple: Expanding vs Structuring AI Knowledge](https://dev.to/clickit_devops/rag-vs-mcp-made-simple-expanding-vs-structuring-ai-knowledge-ejj)
+- [Testing .NET APIs with Testcontainers and Mockoon](https://dev.to/victor_abud_11/testing-net-apis-with-testcontainers-and-mockoon-38en)
+- [Become a Linux Text Avenger](https://dev.to/hritikraj8804/become-a-linux-text-avenger-273d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
