@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Library of 100+ Short Professional Bio Examples &lpar;Copy-Paste Ready&rpar;](https://dev.to/jayasree_00b1a88ba29d4e9e/the-ultimate-library-of-100-short-professional-bio-examples-copy-paste-ready-4pnj)
+- [How I mad and Enhanced GGUF Loader With Kiro](https://dev.to/__f62782a66951b3a/how-i-mad-and-enhanced-gguf-loader-with-kiro-38m7)
+- [Install poetry using pip](https://dev.to/sankar_puvvada/install-poetry-using-pip-4pp3)
+- [How To Code Better With AI: The One Thing 99% of Developers Get Wrong](https://dev.to/christopher_graves_282957/how-to-code-better-with-ai-the-one-thing-99-of-developers-get-wrong-j64)
 - [How We Reimagined SQL Query Building to Be Smarter, Safer, and Simpler &lpar;Introducing `mysql2-dx` v1.1.0&rpar;](https://dev.to/waelhabbal/how-we-reimagined-sql-query-building-to-be-smarter-safer-and-simpler-introducing-mysql2-dx-4ogl)
-- [Seeing the Unseen: AI Predicts Brain Tumor Trajectories](https://dev.to/arvindsundararajan/seeing-the-unseen-ai-predicts-brain-tumor-trajectories-1p4a)
-- [TCJSGame v3: A New Era of JavaScript Game Development and How It Stacks Against the Competition](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-a-new-era-of-javascript-game-development-and-how-it-stacks-against-the-competition-2hdc)
-- [Building Production-Ready AI Agents with Strands Agents and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-strands-agents-and-amazon-bedrock-agentcore-3dg0)
-- [15 rust tools to level up your Linux terminal](https://dev.to/dev_tips/15-rust-tools-to-level-up-your-linux-terminal-2ecf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
