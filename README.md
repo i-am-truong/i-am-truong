@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;as const&quot; vs &quot;readonly&quot; in TypeScript: What’s the Difference?](https://dev.to/itsmearka/as-const-vs-readonly-in-typescript-whats-the-difference-eac)
-- [Clprolf Documentation &lpar;1/6&rpar; — Declensions Explained](https://dev.to/charles_koffler_bcabc582b/clprolf-documentation-16-declensions-explained-54mm)
-- [Stocks that have risen by 9.5% for three consecutive days--SPL Programming Practice](https://dev.to/esproc_spl/stocks-that-have-risen-by-95-for-three-consecutive-days-spl-programming-practice-4kan)
-- [Technical Best Practices for MDM Software Deployment](https://dev.to/vantage-mdm/technical-best-practices-for-mdm-software-deployment-3ojp)
-- [System Calls and Interactions in Linux](https://dev.to/naval_upadhyay/system-calls-and-interactions-in-linux-207j)
+- [Generate and Recognize QR Codes in Java &lpar;Simple Tutorial&rpar;](https://dev.to/jelizaveta/generate-and-recognize-qr-codes-in-java-simple-tutorial-2bf)
+- [Protecting Your Digital Assets: Security Features Built into White Label NFT Marketplaces](https://dev.to/gabrielmateo/protecting-your-digital-assets-security-features-built-into-white-label-nft-marketplaces-3l0h)
+- [The Future of IT Outsourcing: How Companies Will Work Tomorrow](https://dev.to/vilengyltd/the-future-of-it-outsourcing-how-companies-will-work-tomorrow-294c)
+- [Discriminated Unions in TypeScript: How They Differ from Plain Type Unions](https://dev.to/itsmearka/discriminated-unions-in-typescript-how-they-differ-from-plain-type-unions-2hj0)
+- [How to Stop Bots Effectively: SafeLine WAF’s Smart Rate Limiting](https://dev.to/sharon_42e16b8da44dabde6d/how-to-stop-bots-effectively-safeline-wafs-smart-rate-limiting-ck5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
