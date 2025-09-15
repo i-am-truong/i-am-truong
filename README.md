@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLM&#39;s Functions, Use-cases &amp; Architecture: Introduction](https://dev.to/giridharan_devops/llms-functions-use-cases-architecture-introduction-2ag)
-- [HumanReplies: AI Social Replies for Everyone &lpar;No Paywall, No Barriers&rpar;](https://dev.to/chrisbuildsonline/humanreplies-ai-social-replies-for-everyone-no-paywall-no-barriers-1amh)
-- [Free Mapbox SSO Configuration with Auth0](https://dev.to/isaacaddis/free-mapbox-sso-configuration-with-auth0-1aj1)
-- [The Hidden Challenges Nobody Tells You About IoT Apps](https://dev.to/chillicode/the-hidden-challenges-nobody-tells-you-about-iot-apps-4b5h)
-- [BEEPTOOLKIT - IDE Soft Logic Controller](https://dev.to/beeptec/beeptoolkit-ide-soft-logic-controller-4cg0)
+- [COLORS: AMORE - Peléame!!! | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-peleame-a-colors-show-28hd)
+- [IGN: LEGO Voyagers Review](https://dev.to/gg_news/ign-lego-voyagers-review-1m9k)
+- [IGN: Fortnite - Official ‘The Power of Megazord’ Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-the-power-of-megazord-gameplay-trailer-35m6)
+- [IGN: Halo: Reach - Official &#39;A Monument to Legends&#39; 15th Anniversary Trailer](https://dev.to/gg_news/ign-halo-reach-official-a-monument-to-legends-15th-anniversary-trailer-42i2)
+- [IGN: Cronos: The New Dawn - Official Accolades Trailer](https://dev.to/gg_news/ign-cronos-the-new-dawn-official-accolades-trailer-4da7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
