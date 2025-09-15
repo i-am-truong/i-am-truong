@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 008 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-008-on-my-journey-to-becoming-a-css-pro-with-keith-grant-38c9)
-- [Building Gitcom: How Kiro&#39;s AI Pair-Programmer Helped Me Ship My First Kiro/VS Code Extension](https://dev.to/blessingtutka/building-gitcom-how-kiros-ai-pair-programmer-helped-me-ship-my-first-kirovs-code-extension-4l9d)
-- [NPR Music: Fito Páez: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-fito-paez-tiny-desk-concert-4ef2)
-- [Building an AI SQL Translator with Java, Spring Boot, and OpenAI](https://dev.to/masteringbackend/building-an-ai-sql-translator-with-java-spring-boot-and-openai-18gk)
-- [Unlocking the Future: Top 50 DevOps Interview Questions You Must Know](https://dev.to/vjnvisakh/unlocking-the-future-top-50-devops-interview-questions-you-must-know-25gi)
+- [Beyond the Hype: Demystifying No-Code Development &lpar;and Why You Should Care!&rpar;](https://dev.to/karthik_n/beyond-the-hype-demystifying-no-code-development-and-why-you-should-care-28h3)
+- [A Super Friendly Gallery: My Kiro Hackathon Project, Sort It!](https://dev.to/babu_mohit_7/a-super-friendly-gallery-my-kiro-hackathon-project-sort-it-4o36)
+- [🏠 Haveto | A Blockchain That Finally Feels Like Home for Developers](https://dev.to/umang_suthar_9bad6f345a8a/haveto-a-blockchain-that-finally-feels-like-home-for-developers-565f)
+- [Unlocking AI&#39;s Secrets: The Prompt Seed Treasure Hunt by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-ais-secrets-the-prompt-seed-treasure-hunt-by-arvind-sundararajan-1if8)
+- [JavaScript Performance Optimization Techniques for React and Next.js](https://dev.to/giang_vudinh_9b597574c65/javascript-performance-optimization-techniques-for-react-and-nextjs-5cgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
