@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Ambitus Purus – A Clean-Earth App to Make Rubbish History 🌍](https://dev.to/jt_omoniyi_bb9482d0074bb0/building-ambitus-purus-a-clean-earth-app-to-make-rubbish-history-55e4)
-- [Taking Screenshots in Selenium with Python](https://dev.to/guzmanojero/taking-screenshots-in-selenium-with-python-132g)
-- [From Vision to Reality: Building a Custom E-commerce Platform with AWS Kiro](https://dev.to/nsk_nitheesh/from-vision-to-reality-building-a-custom-e-commerce-platform-with-aws-kiro-1gde)
-- [Driving Insights: Building an Uber Data Lake with MinIO](https://dev.to/oliver_samuel_028c6f65ad6/driving-insights-building-an-uber-data-lake-with-minio-1ega)
-- [Amazon Bedrock AgentCore Runtime - Part 5 Using Custom Agent with Spring AI](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-5-using-custom-agent-with-spring-ai-4n71)
+- [What are your goals for the week? #144 - gross](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-144-gross-22ho)
+- [Troubleshooting Claude’s Remote Connection to MCP Servers](https://dev.to/kyleski/troubleshooting-claudes-remote-connection-to-mcp-servers-13d7)
+- [Introduction to Python Module Two Part One: Debugging](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-one-debugging-1i7l)
+- [It&#39;s not cheating if everyone does it 😘](https://dev.to/dexter_nash/its-not-cheating-if-everyone-does-it-5772)
+- [Why I Started Building One Backend Project Every Day &lpar;And You Should Too&rpar;](https://dev.to/currycoder/why-i-started-building-one-backend-project-every-day-and-you-should-too-506f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
