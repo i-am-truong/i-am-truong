@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solana in Your Pocket: Create a Mobile dApp with Wallet Login &amp; Token Transfers using React Native Expo](https://dev.to/yahaya_abubakar_27e99d2a3/solana-in-your-pocket-create-a-mobile-dapp-with-wallet-login-token-transfers-using-react-native-348o)
+- [AI+UX: How to Bridge UI and Talk Seamlessly](https://dev.to/mehrandvd/aiux-how-to-bridge-ui-and-talk-seamlessly-go8)
+- [Solana in Your Pocket: Create a Mobile dApp with Wallet Login &amp; Token Transfers using React Native Expo](https://dev.to/abkgami/solana-in-your-pocket-create-a-mobile-dapp-with-wallet-login-token-transfers-using-react-native-348o)
 - [Shipping a Team Plan: Pricing, Growth, Pain Relief, and How-To](https://dev.to/soasme/shipping-a-team-plan-pricing-growth-pain-relief-and-how-to-8k1)
 - [This is me for the past few Months- growth is not linear 🧨](https://dev.to/congomusah/this-is-me-for-the-past-few-months-growth-is-not-linear-4dna)
 - [That $47K AWS Bill? Yeah, It Should Be $8K](https://dev.to/arbythecoder/that-47k-aws-bill-yeah-it-should-be-8k-43ki)
-- [Maintaining Arch Linux AUR Packages: A Dual Update for Python-zconfig and Python-reparser](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-a-dual-update-for-python-zconfig-and-python-reparser-4fdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
