@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Caffeinated Commits- Day 3](https://dev.to/shri-dharshini/caffeinated-commits-day3-30af)
+- [How to expand diskspace on a Debian VM hosted on Hetzner Cloud](https://dev.to/juju89/how-to-expand-diskspace-on-a-debian-vm-hosted-on-hetzner-cloud-4c4p)
 - [COLORS: AMORE - Peléame!!! | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-peleame-a-colors-show-28hd)
 - [IGN: LEGO Voyagers Review](https://dev.to/gg_news/ign-lego-voyagers-review-1m9k)
 - [IGN: Fortnite - Official ‘The Power of Megazord’ Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-the-power-of-megazord-gameplay-trailer-35m6)
-- [IGN: Halo: Reach - Official &#39;A Monument to Legends&#39; 15th Anniversary Trailer](https://dev.to/gg_news/ign-halo-reach-official-a-monument-to-legends-15th-anniversary-trailer-42i2)
-- [IGN: Cronos: The New Dawn - Official Accolades Trailer](https://dev.to/gg_news/ign-cronos-the-new-dawn-official-accolades-trailer-4da7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
