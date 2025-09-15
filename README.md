@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FitThat.Me – AI-Powered Virtual Try-On](https://dev.to/splmdny/fitthatme-ai-powered-virtual-try-on-id)
-- [AI-Powered Testing in Frontend: Smarter Automation with React &amp; Angular](https://dev.to/mridudixit15/ai-powered-testing-in-frontend-smarter-automation-with-react-angular-191f)
-- [10 Common UI Design Mistakes and Best Practices to Avoid Them](https://dev.to/jennysmith7/10-common-ui-design-mistakes-and-best-practices-to-avoid-them-2ik7)
-- [Sprite Canvas](https://dev.to/saurabh_kanyal/sprite-canvas-172d)
-- [Lean RAG MVPs: How to Build Retrieval-Augmented Tools Without Heavy Infrastructure](https://dev.to/yasir_rafique_27550feb631/lean-rag-mvps-how-to-build-retrieval-augmented-tools-without-heavy-infrastructure-48ho)
+- [Wordsketcher: Drawing with Words](https://dev.to/eltcation/wordsketcher-drawing-with-words-c65)
+- [🌱 Flora Friend Multimodal AI Plant Care &amp; Diagnosis](https://dev.to/mohammad_usmani_d3a9bdba5/flora-friend-multimodal-ai-plant-care-diagnosis-4g9b)
+- [EcommView AI: From a single image to e-commerce-ready product photos, model shots &amp; 360 views.](https://dev.to/drashya/ecommview-ai-from-a-single-image-to-e-commerce-ready-product-photos-model-shots-360-views-1dgg)
+- [Higgsfield.ai Clone - Draw to Edit](https://dev.to/byebyu/higgsfieldai-clone-draw-to-edit-4786)
+- [Terraform: UP&amp; Running](https://dev.to/khavelemarline/terraform-up-running-31e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
