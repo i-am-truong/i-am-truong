@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wordsketcher: Drawing with Words](https://dev.to/eltcation/wordsketcher-drawing-with-words-c65)
-- [🌱 Flora Friend Multimodal AI Plant Care &amp; Diagnosis](https://dev.to/mohammad_usmani_d3a9bdba5/flora-friend-multimodal-ai-plant-care-diagnosis-4g9b)
-- [EcommView AI: From a single image to e-commerce-ready product photos, model shots &amp; 360 views.](https://dev.to/drashya/ecommview-ai-from-a-single-image-to-e-commerce-ready-product-photos-model-shots-360-views-1dgg)
-- [Higgsfield.ai Clone - Draw to Edit](https://dev.to/byebyu/higgsfieldai-clone-draw-to-edit-4786)
-- [Terraform: UP&amp; Running](https://dev.to/khavelemarline/terraform-up-running-31e3)
+- [From Spec to Shipping in Hours: How Kiro Helped Us Build Matbakh’s Visibility Coach](https://dev.to/matbakh-app/from-spec-to-shipping-in-hours-how-kiro-helped-us-build-matbakhs-visibility-coach-2jje)
+- [Who’s That Pokémon? – The Twist!](https://dev.to/splmdny/whos-that-pokemon-the-twist-26nf)
+- [TasteSmith From craving to custom recipe in seconds.](https://dev.to/mohammad_usmani_d3a9bdba5/tastesmithfrom-craving-to-custom-recipe-in-seconds-2f88)
+- [The Triple-Peak Trap: Using M365 Copilot to Visualize and Optimize My Workday](https://dev.to/balagmadhu/the-triple-peak-trap-using-m365-copilot-to-visualize-and-optimize-my-workday-3dn3)
+- [Primary Key vs. Foreign Key in SQL: Explained with Examples](https://dev.to/dbvismarketing/primary-key-vs-foreign-key-in-sql-explained-with-examples-4078)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
