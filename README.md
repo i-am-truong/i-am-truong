@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [50+ Top MERN Stack Project Ideas for 2025](https://dev.to/maxreed_918/50-top-mern-stack-project-ideas-for-2025-36jo)
+- [From Deployment to Architecture: Designing for Change and Scale](https://dev.to/sibasishm/from-deployment-to-architecture-designing-for-change-and-scale-1lo3)
+- [Structured Logging in Go: Context-Aware, JSON-Ready, and Production-Proven](https://dev.to/kittipat1413/structured-logging-in-go-context-aware-json-ready-and-production-proven-h1a)
+- [Building StudyPal with Kiro](https://dev.to/durga_ramakrishnakapa_1d/building-studypal-with-kiro-4dic)
 - [Scalping Strategies with the Traders Dynamic Index &lpar;Step-by-Step&rpar;](https://dev.to/muhammad_sharifulhoque_0/scalping-strategies-with-the-traders-dynamic-index-step-by-step-55e3)
-- [What is Ethical Hacking?: A Beginner’s Guide to Penetration Testing](https://dev.to/ashish_krishna_pavan_gade/what-is-ethical-hacking-a-beginners-guide-to-penetration-testing-3jl0)
-- [Errors I encountered during Jest testing and how to fix them](https://dev.to/kazutora_hattori_66972c88/errors-i-encountered-during-jest-testing-and-how-to-fix-them-3jak)
-- [DNS System Design: The Backbone of the Internet day 51](https://dev.to/vincenttommi/dns-system-design-the-backbone-of-the-internet-2gie)
-- [⚡ LangChain: The Building Blocks of AI Applications](https://dev.to/techstuff/langchain-the-building-blocks-of-ai-applications-80m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
