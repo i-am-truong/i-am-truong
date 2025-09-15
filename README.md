@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #144 - gross](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-144-gross-22ho)
-- [Troubleshooting Claude’s Remote Connection to MCP Servers](https://dev.to/kyleski/troubleshooting-claudes-remote-connection-to-mcp-servers-13d7)
-- [Introduction to Python Module Two Part One: Debugging](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-one-debugging-1i7l)
-- [It&#39;s not cheating if everyone does it 😘](https://dev.to/dexter_nash/its-not-cheating-if-everyone-does-it-5772)
-- [Why I Started Building One Backend Project Every Day &lpar;And You Should Too&rpar;](https://dev.to/currycoder/why-i-started-building-one-backend-project-every-day-and-you-should-too-506f)
+- [curl: getting performance data with curl](https://dev.to/gbhorwood/curl-getting-performance-data-with-curl-47f1)
+- [Shipaton: Do0ne Build Journal #5 - Social Feature: Discover Goals &amp; Tasks](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-5-social-feature-discover-goals-tasks-4mp)
+- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 5](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-5-14f0)
+- [Using BuildKit for Container Image Building in GitLab CI And Pushing To ECR](https://dev.to/thraizz/using-buildkit-for-container-image-building-in-gitlab-ci-and-pushing-to-ecr-15nk)
+- [How Developers Can Support Localization Without a Dedicated Team](https://dev.to/testjace/how-developers-can-support-localization-without-a-dedicated-team-2e15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
