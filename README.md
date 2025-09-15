@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flores Amarillas para my best friend luhana](https://dev.to/diego_franciscolopezasp/flores-amarillas-para-my-best-friend-luhana-li7)
+- [What Artifact’s Failure Can Teach You About Scaling AI Successfully](https://dev.to/talweezy/what-artifacts-failure-can-teach-you-about-scaling-ai-successfully-3nbf)
 - [Chatbot testing](https://dev.to/aariyan_hussain_0bef/chatbot-testing-2k0h)
 - [Automated Test Generation with Custom Claude Commands: Architecting Scalable Testing for Modern Node.js Applications](https://dev.to/paultowers/automated-test-generation-with-custom-claude-commands-architecting-scalable-testing-for-modern-42m5)
 - [Why I am building DriveLite ?](https://dev.to/moukhtaryoussef/why-i-am-building-drivelite--3fol)
-- [Dockerfile and Docker Compose: What They Are and Why You Need Both](https://dev.to/rijultp/dockerfile-and-docker-compose-what-they-are-and-why-you-need-both-89l)
-- [Day 12 of My Quantum Computing Journey: Where Quantum Meets Classical Reality](https://dev.to/keshabkjha/day-12-of-my-quantum-computing-journey-where-quantum-meets-classical-reality-5a5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
