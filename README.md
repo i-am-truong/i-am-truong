@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Real Cost of Technical Debt: Why Your Spring Apps May be Holding You Back &lpar;and What to Do About it&rpar;](https://dev.to/michelle_sebek_/the-real-cost-of-technical-debt-why-your-spring-apps-may-be-holding-you-back-and-what-to-do-about-1226)
-- [My journey with LEGATO ---dun dun dunnnnnnn](https://dev.to/emmanuel_appah_8f0d1e6903/my-journey-with-legato-dun-dun-dunnnnnnn-1hhj)
-- [Unused Imports - The Hidden Performance Tax](https://dev.to/vivekjami/unused-imports-the-hidden-performance-tax-3340)
-- [KEXP: Kevin Kaarl - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-full-performance-live-on-kexp-4il8)
-- [IGN: Dying Light: Story So Far](https://dev.to/gg_news/ign-dying-light-story-so-far-32mk)
+- [How I Organize My Projects with Notion](https://dev.to/sami_ammar_fb38e674b4a49e/how-i-organize-my-projects-with-notion-2hc7)
+- [We Turned Movies Into a Game You Can Actually Play With Your Friends](https://dev.to/smoneebah_noman_f31ee873/we-turned-movies-into-a-game-you-can-actually-play-with-your-friends-3b63)
+- [Laravel DataGrid in Minutes: Skip the CRUD Boilerplate &lpar;Complete Guide&rpar;](https://dev.to/abughufran/laravel-datagrid-in-minutes-skip-the-crud-boilerplate-complete-guide-5gd8)
+- [From Waitlist to Production: My Journey Building Call Summary AI with Kiro](https://dev.to/skypto/from-waitlist-to-production-my-journey-building-call-summary-ai-with-kiro-3a0k)
+- [Breaking down CSS positioning](https://dev.to/devshetty/breaking-down-css-positioning-32ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
