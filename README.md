@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Green Blockchain: Can Sustainable Tech Solve Energy Concerns? - 101 Blockchains](https://dev.to/calgo_62400343865ec0ae72a/green-blockchain-can-sustainable-tech-solve-energy-concerns-101-blockchains-3o0c)
 - [JavaScript Isn’t Broken—You Just Didn’t Know the Coercion Rules](https://dev.to/bawa_geek/javascript-isnt-broken-you-just-didnt-know-the-coercion-rules-3k02)
+- [The State of the Art: Sculpting Application State in 2025](https://dev.to/alex_aslam/the-state-of-the-art-sculpting-application-state-in-2025-2oi0)
 - [The Next.js 15 Atelier: Mastering the Composition of Server and Client](https://dev.to/alex_aslam/the-nextjs-15-atelier-mastering-the-composition-of-server-and-client-3gk0)
 - [Zero Downtime Migrations: Shadow Table Strategy Explained](https://dev.to/zeedu_dev/zero-downtime-migrations-shadow-table-strategy-explained-hp9)
 - [Learn Bash Scripting With Me 🚀 - Day 5](https://dev.to/babsarena/learn-bash-scripting-with-me-day-5-45di)
