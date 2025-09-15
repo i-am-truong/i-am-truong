@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Acelerando workloads de IA com VMs e GPUs na Magalu Cloud](https://dev.to/magalucloud/acelerando-workloads-de-ia-com-vms-e-gpus-na-magalu-cloud-34ni)
-- [A Last Mile Optimizer that Outperforms Amazon’s Routes on a Laptop](https://dev.to/martin_vizzolini_fc6d4329/a-last-mile-optimizer-that-outperforms-amazons-routes-on-a-laptop-3f18)
-- [Transformer Architecture](https://dev.to/sandeep_salwan/transformer-architecture-4eo1)
-- [Are Progressive Web Apps Still Worth It in 2025? A Practical Perspective](https://dev.to/arkhan/are-progressive-web-apps-still-worth-it-in-2025-a-practical-perspective-47g8)
-- [Pre-Validate User Permissions in CI/CD Pipelines: Secure and Efficient DevOps Automation](https://dev.to/srinivasamcjf/pre-validate-user-permissions-in-cicd-pipelines-secure-and-efficient-devops-automation-42l7)
+- [How Exploring Multiple Programming Languages Elevates Your Coding Skills](https://dev.to/devtechinsights/how-exploring-multiple-programming-languages-elevates-your-coding-skills-2hfh)
+- [“Assign to Copilot” Explained: What GitHub’s Coding Agent Actually Does](https://dev.to/thelogicwarlock/assign-to-copilot-explained-what-githubs-coding-agent-actually-does-59g9)
+- [IGN: Pioner - Official &#39;Frontier&#39; Gameplay Trailer](https://dev.to/gg_news/ign-pioner-official-frontier-gameplay-trailer-2j64)
+- [IGN: Heavy as Stone - Official Teaser Trailer | Critical Reflex Direct 2025](https://dev.to/gg_news/ign-heavy-as-stone-official-teaser-trailer-critical-reflex-direct-2025-4i6p)
+- [IGN: SCP: Valravn - Official Teaser Trailer | Critical Reflex Direct 2025](https://dev.to/gg_news/ign-scp-valravn-official-teaser-trailer-critical-reflex-direct-2025-m3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
