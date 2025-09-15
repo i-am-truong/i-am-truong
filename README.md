@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Other Visualization Tools: Streamlit, Dash, and Bokeh for Dashboards &amp; Reports 🧑‍🏫](https://dev.to/sebastianfuentesavalos/other-visualization-tools-streamlit-dash-and-bokeh-for-dashboards-reports-5cc9)
+- [Python Multiprocessing: Start Methods, Pools, and Communication](https://dev.to/imsushant12/python-multiprocessing-start-methods-pools-and-communication-4o6d)
+- [15 Takeaways From &quot;Breaking in the Mindset That Gets You Hired&quot; With ALX Community](https://dev.to/canro91/15-takeaways-from-breaking-in-the-mindset-that-gets-you-hired-with-alx-community-3bei)
 - [Kiro Might Be the Next Game-Changer AI Coding Tool: Building Credi With Kiro&#39;s Spec-Driven Development](https://dev.to/ganjim/kiro-might-be-the-next-game-changer-ai-coding-tool-building-credi-with-kiros-spec-driven-18f4)
 - [[UE] ClassRedirects](https://dev.to/seongcheoljeon/ue-classredirects-3l70)
-- [Stay ahead in web development: latest news, tools, and insights #102](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-102-56ja)
-- [Tip for Faster Debugging with Local Files with File Access MCP](https://dev.to/avmadhukiran/tip-for-faster-debugging-with-local-files-with-file-access-mcp-53a3)
-- [#DAY 9: Accelerating Analysis with Splunkbase](https://dev.to/samueladeduntan/day-9-accelerating-analysis-with-splunkbase-59l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
