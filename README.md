@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bonus Kavod Management System](https://dev.to/firstfruits41/bonus-kavod-management-system-1d9k)
-- [Interactive Data Visualization: Streamlit, Dash, and Bokeh](https://dev.to/diegocastillo12/interactive-data-visualization-streamlit-dash-and-bokeh-13ba)
-- [Why Following the Test Pyramid Improves Software Quality and Delivery Speed](https://dev.to/misterankit/why-following-the-test-pyramid-improves-software-quality-and-delivery-speed-3ff7)
-- [Kinetix Fitness AI](https://dev.to/aortega/kinetix-fitness-ai-1d63)
-- [Google’s Agent-to-Agent &lpar;A2A&rpar; Protocol is here—Now Let’s Make it Observable](https://dev.to/catchpoint/googles-agent-to-agent-a2a-protocol-is-here-now-lets-make-it-observable-5gh7)
+- [🧠 When to Seek Help: 5 Clear Signs You Might Need a Therapist](https://dev.to/nvelup_e92618d5196e8d9f43/when-to-seek-help-5-clear-signs-you-might-need-a-therapist-1dk6)
+- [Part-57: Google Cloud Networking – VPC IP Addresses &lpar;External &amp; Internal&rpar; in GCP Cloud](https://dev.to/latchudevops/part-57-google-cloud-networking-vpc-ip-addresses-external-internal-in-gcp-cloud-4hm3)
+- [Debug Journal Method: Why Writing Down Bugs Makes You 5x Faster at Fixing Them](https://dev.to/teamcamp/debug-journal-method-why-writing-down-bugs-makes-you-5x-faster-at-fixing-them-127m)
+- [🥬 Freshness Checker AI: The AI-Powered Food Safety Assistant](https://dev.to/amozeak/freshness-checker-ai-the-ai-powered-food-safety-assistant-898)
+- [Implementing Real-Time Chat with SSE vs WebSockets &lpar;and Why I Chose One&rpar;](https://dev.to/divyanshulohani/implementing-real-time-chat-with-sse-vs-websockets-and-why-i-chose-one-2mn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
