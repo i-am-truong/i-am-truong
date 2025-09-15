@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security Risks and Improvement Strategies for Multi-Channel OTP Fallback](https://dev.to/lunarecho/security-risks-and-improvement-strategies-for-multi-channel-otp-fallback-3mec)
-- [JavaScript Numbers: The Ultimate Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-numbers-the-ultimate-guide-for-developers-40nf)
-- [My Web Dev Journey Begins 🚀](https://dev.to/nikhilsharma6/my-web-dev-journey-begins-lca)
-- [Bharat Vesh: Try On India’s Traditions with AI](https://dev.to/akshatbindal/bharat-vesh-try-on-indias-traditions-with-ai-1gj3)
-- [Q the Future: Enterprise Productivity with AWS Q Business](https://dev.to/aws-builders/q-the-future-enterprise-productivity-with-aws-q-business-5fn)
+- [FitThat.Me – AI-Powered Virtual Try-On](https://dev.to/splmdny/fitthatme-ai-powered-virtual-try-on-id)
+- [AI-Powered Testing in Frontend: Smarter Automation with React &amp; Angular](https://dev.to/mridudixit15/ai-powered-testing-in-frontend-smarter-automation-with-react-angular-191f)
+- [10 Common UI Design Mistakes and Best Practices to Avoid Them](https://dev.to/jennysmith7/10-common-ui-design-mistakes-and-best-practices-to-avoid-them-2ik7)
+- [Sprite Canvas](https://dev.to/saurabh_kanyal/sprite-canvas-172d)
+- [Lean RAG MVPs: How to Build Retrieval-Augmented Tools Without Heavy Infrastructure](https://dev.to/yasir_rafique_27550feb631/lean-rag-mvps-how-to-build-retrieval-augmented-tools-without-heavy-infrastructure-48ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
