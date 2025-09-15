@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kiro Might Be the Next Game-Changer AI Coding Tool: Building Credi With Kiro&#39;s Spec-Driven Development](https://dev.to/ganjim/kiro-might-be-the-next-game-changer-ai-coding-tool-building-credi-with-kiros-spec-driven-18f4)
+- [[UE] ClassRedirects](https://dev.to/seongcheoljeon/ue-classredirects-3l70)
+- [Stay ahead in web development: latest news, tools, and insights #102](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-102-56ja)
 - [Tip for Faster Debugging with Local Files with File Access MCP](https://dev.to/avmadhukiran/tip-for-faster-debugging-with-local-files-with-file-access-mcp-53a3)
 - [#DAY 9: Accelerating Analysis with Splunkbase](https://dev.to/samueladeduntan/day-9-accelerating-analysis-with-splunkbase-59l6)
-- [Challenge Entry: Dataset Crafter](https://dev.to/adam_yates_4d533250b19263/challenge-entry-dataset-crafter-5957)
-- [Linux Bash: To search an empty folder &lpar;easy script&rpar;](https://dev.to/sven_krmer_6f8a15646f686/linux-bash-to-search-an-empty-folder-easy-script-plf)
-- [HackSpire’25 – A Platform to Build, Connect &amp; Inspire 🚀](https://dev.to/debkanta_dey_09b98f7eebb9/hackspire25-a-platform-to-build-connect-inspire-k0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
