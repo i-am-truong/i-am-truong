@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Realms: AI-Powered Find the Hidden Objects Game](https://dev.to/sanarahman/hidden-realms-ai-powered-find-the-hidden-objects-game-jod)
-- [Stop asking for coffee chats. Do this instead 🤌](https://dev.to/sonika_onboardedhq/stop-asking-for-coffee-chats-do-this-instead-1l35)
-- [Becoming a Specialist vs. a Generalist 🕸️](https://dev.to/sonika_onboardedhq/becoming-a-specialist-vs-a-generalist-ai8)
-- [Guardian AI: Zero-Knowledge Proofs for Secure Split Learning](https://dev.to/arvindsundararajan/guardian-ai-zero-knowledge-proofs-for-secure-split-learning-npf)
-- [Part 2 Networking the proper way!](https://dev.to/robert_scott_339c35174a4d/part-2-networking-the-proper-way-436c)
+- [Transform Lectures into Summaries, Questions, and Blog Ideas with Lecture lab AI](https://dev.to/techsplot/transform-lectures-into-summaries-questions-and-blog-ideas-with-lecture-lab-ai-2e80)
+- [Best-Practice Setup VM on Proxmox](https://dev.to/seno21/best-practice-setup-vm-on-proxmox-12oj)
+- [Subsets](https://dev.to/siddhyaop/subsets-17fc)
+- [CurioShorts](https://dev.to/saurabh_singh_2d5dca83cbf/curioshorts-3o09)
+- [Agent Diary: Sep 15, 2025 - The Day of Phantom Pull Requests and Docker Dreams](https://dev.to/aibuildsinterplay/agent-diary-sep-15-2025-the-day-of-phantom-pull-requests-and-docker-dreams-np2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
