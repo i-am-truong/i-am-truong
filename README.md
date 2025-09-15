@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generate and Recognize QR Codes in Java &lpar;Simple Tutorial&rpar;](https://dev.to/jelizaveta/generate-and-recognize-qr-codes-in-java-simple-tutorial-2bf)
-- [Protecting Your Digital Assets: Security Features Built into White Label NFT Marketplaces](https://dev.to/gabrielmateo/protecting-your-digital-assets-security-features-built-into-white-label-nft-marketplaces-3l0h)
-- [The Future of IT Outsourcing: How Companies Will Work Tomorrow](https://dev.to/vilengyltd/the-future-of-it-outsourcing-how-companies-will-work-tomorrow-294c)
-- [Discriminated Unions in TypeScript: How They Differ from Plain Type Unions](https://dev.to/itsmearka/discriminated-unions-in-typescript-how-they-differ-from-plain-type-unions-2hj0)
-- [How to Stop Bots Effectively: SafeLine WAF’s Smart Rate Limiting](https://dev.to/sharon_42e16b8da44dabde6d/how-to-stop-bots-effectively-safeline-wafs-smart-rate-limiting-ck5)
+- [The magic of messages that have always been with us](https://dev.to/smartlegionlab/the-magic-of-messages-that-have-always-been-with-us-48gp)
+- [How to Receive Inbound Emails with Amazon SES and Store Them in Amazon S3](https://dev.to/rahul_gupta_01438cd605043/how-to-receive-inbound-emails-with-amazon-ses-and-store-them-in-amazon-s3-3m73)
+- [Find The Longest Word In A Sentence: A JavaScript Solution](https://dev.to/tochi_/find-the-longest-word-in-a-sentence-a-javascript-solution-1a7n)
+- [The Ultimate Guide to API Integration: Benefits, Types, and Best Practices](https://dev.to/jennysmith7/the-ultimate-guide-to-api-integration-benefits-types-and-best-practices-55ce)
+- [The Workforce of Tomorrow: Skills Needed for the Solar + AI Energy Revolution](https://dev.to/fozlurrayhan98/the-workforce-of-tomorrow-skills-needed-for-the-solar-ai-energy-revolution-6eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
