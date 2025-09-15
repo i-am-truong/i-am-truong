@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Self-Updating ML Model That Handles Traffic With Ease - Here’s How](https://dev.to/mate32/i-built-a-self-updating-ml-model-that-handles-traffic-with-ease-heres-how-3i2k)
+- [Managing Old Node.js Versions on Windows: My Problem &amp; Solution](https://dev.to/arafatruetbd/managing-old-nodejs-versions-on-windows-my-problem-solution-1jdl)
+- [First time to Vibecode with Google AI Studio](https://dev.to/mrkp_gn/first-time-to-vibecode-with-google-ai-studio-12b7)
 - [Know what you want - Dockerfile 7GB to 1GB](https://dev.to/mroshank/know-what-u-want-dockerfile-7gb-to-1gb-4ldm)
 - [Managing private TypeScript types: beyond DefinitelyTyped](https://dev.to/yoriiis/managing-private-typescript-types-beyond-definitelytyped-4lk3)
-- [The One Advice I&#39;d Give My Past Self: Build Boring Sh*t That Sells](https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209)
-- [Bedrock Polly: Building a Conversational Voice Chatbot](https://dev.to/srkw7/bedrock-x-polly-building-a-conversational-voice-chatbot-2bei)
-- [Angular Signals Form: Validation and Logic](https://dev.to/this-is-angular/angular-signals-form-validation-and-logic-2n07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
