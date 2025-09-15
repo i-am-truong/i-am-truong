@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧅 Oniux: Tor Routing for Linux](https://dev.to/byteknight/oniux-tor-routing-for-linux-1abh)
-- [Next Js: The missing part of how server actions are handling server-side logic](https://dev.to/eyad_akeleh_9aed09bfb6ff9/next-js-the-missing-part-of-how-server-actions-are-handling-server-side-logic-2ekm)
-- [Flutter Chopper Tutorial: API Calls Made Easy](https://dev.to/yourmdsarfaraj/flutter-chopper-tutorial-api-calls-made-easy-35k7)
-- [Why do clicks feel slow in React and how can UI feel instant?](https://dev.to/ayushsrtv/why-do-clicks-feel-slow-in-react-and-how-can-ui-feel-instant-461f)
-- [Winning Defense Contracts: Strategies for Small to Mid-Sized Firms](https://dev.to/alyssa-miller/winning-defense-contracts-strategies-for-small-to-mid-sized-firms-11mm)
+- [Building Production-Ready AI Agents with LangGraph and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-langgraph-and-amazon-bedrock-agentcore-4h5k)
+- [This tutorial shows how to automate security scans for GitHub pull requests.](https://dev.to/thedeepseeker/this-tutorial-shows-how-to-automate-security-scans-for-github-pull-requests-2kid)
+- [Scaling Carmen Cloud: From Containers to Lambda SnapStart](https://dev.to/tothl74/scaling-carmen-cloud-from-containers-to-lambda-snapstart-57n2)
+- [🔹 Java is Pass-by-Value: What It Really Means](https://dev.to/mohamad_mhana/java-is-pass-by-value-what-it-really-means-l9d)
+- [Stop Fighting Your AGENTS.md File: A Better Way to Scale AI Agent Documentation](https://dev.to/ivawzh/stop-fighting-your-agentsmd-file-a-better-way-to-scale-ai-agent-documentation-51n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
