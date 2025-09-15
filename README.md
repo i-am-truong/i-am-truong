@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Visual Studio 2026 Insider: The Good, The Bad, and The WTF 🤯](https://dev.to/shiva_shanker_k/visual-studio-2026-insider-the-good-the-bad-and-the-wtf-49f7)
-- [My First MCP Server: Semantic Code Search](https://dev.to/paradoxy/my-first-mcp-server-semantic-code-search-3520)
-- [Frontend Architecture for Small Teams: A Guide for Managers and Startup Founders](https://dev.to/aleksandr_ryzhikov/frontend-architecture-for-small-teams-a-guide-for-managers-and-startup-founders-1924)
-- [How Kiro Changed the Way I Approach Development](https://dev.to/odk_hsj_250ce160d6736f3d1/how-kiro-changed-the-way-i-approach-development-57p4)
-- [Finding Amount of Clusters](https://dev.to/carlosrambles/finding-amount-of-clusters-4hfp)
+- [Audio Deepfakes: The Illusion of Security in Voice Biometrics](https://dev.to/arvindsundararajan/audio-deepfakes-the-illusion-of-security-in-voice-biometrics-48jo)
+- [Kiwi Pi Pro 5: Just another SBC?](https://dev.to/dongpei_liao_8092a14d7c50/kiwi-pi-pro-5-just-another-sbc-3if5)
+- [Docker Series: Episode 24 — Docker Compose + Swarm Integration: Multi-Host Deployments 🌍](https://dev.to/yash_sonawane25/docker-series-episode-24-docker-compose-swarm-integration-multi-host-deployments-2lhh)
+- [🎉 Completed AWS Generative AI Applications Specialization!](https://dev.to/devraiks/completed-aws-generative-ai-applications-specialization-1e32)
+- [Most people don’t hate work — they hate bad meetings. Too long, too vague, and often unnecessary. The good news? AI can make meetings shorter, sharper, and more productive.](https://dev.to/jaideepparashar/most-people-dont-hate-work-they-hate-bad-meetings-too-long-too-vague-and-often-1e25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
