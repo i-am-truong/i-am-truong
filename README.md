@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 96: When Your Brain Refuses to Prioritize Properly](https://dev.to/casperday11/day-96-when-your-brain-refuses-to-prioritize-properly-5cp7)
-- [Project Cameo-Ecosystem aka Merchmatica](https://dev.to/yosun/project-cameo-ecosystem-aka-merchmatica-33pp)
-- [RAG vs MCP Made Simple: Expanding vs Structuring AI Knowledge](https://dev.to/clickit_devops/rag-vs-mcp-made-simple-expanding-vs-structuring-ai-knowledge-ejj)
-- [Testing .NET APIs with Testcontainers and Mockoon](https://dev.to/victor_abud_11/testing-net-apis-with-testcontainers-and-mockoon-38en)
-- [Become a Linux Text Avenger](https://dev.to/hritikraj8804/become-a-linux-text-avenger-273d)
+- [The Real Cost of Technical Debt: Why Your Spring Apps May be Holding You Back &lpar;and What to Do About it&rpar;](https://dev.to/michelle_sebek_/the-real-cost-of-technical-debt-why-your-spring-apps-may-be-holding-you-back-and-what-to-do-about-1226)
+- [My journey with LEGATO ---dun dun dunnnnnnn](https://dev.to/emmanuel_appah_8f0d1e6903/my-journey-with-legato-dun-dun-dunnnnnnn-1hhj)
+- [Unused Imports - The Hidden Performance Tax](https://dev.to/vivekjami/unused-imports-the-hidden-performance-tax-3340)
+- [KEXP: Kevin Kaarl - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-full-performance-live-on-kexp-4il8)
+- [IGN: Dying Light: Story So Far](https://dev.to/gg_news/ign-dying-light-story-so-far-32mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
