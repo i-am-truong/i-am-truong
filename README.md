@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Platform Engineering vs DevOps: Is It the Next Evolution of Cloud Delivery?](https://dev.to/addwebsolutionpvtltd/platform-engineering-vs-devops-is-it-the-next-evolution-of-cloud-delivery-3d7i)
-- [Why I’m Switching to Parquet for Data Storage](https://dev.to/eric_kahindi_cfbfda3bd0f7/why-im-switching-to-parquet-for-data-storage-3ckm)
-- [Building Azokle: A Privacy-First Tech Ecosystem](https://dev.to/idasrrudra/building-azokle-a-privacy-first-tech-ecosystem-19c4)
-- [Google Cloud Platform Console and CLI: Step-by-Step Guide](https://dev.to/teleglobalintermational/google-cloud-platform-console-and-cli-step-by-step-guide-i2i)
-- [Kiro Hackathon](https://dev.to/dana_pan_41a5dcd5d4df7b3d/kiro-hackathon-41b7)
+- [Security Risks and Improvement Strategies for Multi-Channel OTP Fallback](https://dev.to/lunarecho/security-risks-and-improvement-strategies-for-multi-channel-otp-fallback-3mec)
+- [JavaScript Numbers: The Ultimate Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-numbers-the-ultimate-guide-for-developers-40nf)
+- [My Web Dev Journey Begins 🚀](https://dev.to/nikhilsharma6/my-web-dev-journey-begins-lca)
+- [Bharat Vesh: Try On India’s Traditions with AI](https://dev.to/akshatbindal/bharat-vesh-try-on-indias-traditions-with-ai-1gj3)
+- [Q the Future: Enterprise Productivity with AWS Q Business](https://dev.to/aws-builders/q-the-future-enterprise-productivity-with-aws-q-business-5fn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
