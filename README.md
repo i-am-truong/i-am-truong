@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RustGPT: A pure-Rust transformer LLM built from scratch](https://dev.to/technoblogger14o3/rustgpt-a-pure-rust-transformer-llm-built-from-scratch-2gp4)
-- [How AI Cookie Banners Improve UX and Reduce Banner Fatigue on Shopify](https://dev.to/mehwish_malik_4f29ff7fb04/how-ai-cookie-banners-improve-ux-and-reduce-banner-fatigue-on-shopify-1j24)
-- [Logic&#39;s Hidden States: Unlock Debugging Superpowers with Algebraic Thinking by Arvind Sundararajan](https://dev.to/arvindsundararajan/logics-hidden-states-unlock-debugging-superpowers-with-algebraic-thinking-by-arvind-sundararajan-kip)
-- [Chris Spence and the Lasting Impact of Skin I’m In: Racism, Sports and Education](https://dev.to/olaleye_miracle_29a9dd7dd/chris-spence-and-the-lasting-impact-of-skin-im-in-racism-sports-and-education-241f)
-- [How to Stake Solana: Complete Guide to Stake SOL and Earn Rewards](https://dev.to/calgo_62400343865ec0ae72a/how-to-stake-solana-complete-guide-to-stake-sol-and-earn-rewards-h26)
+- [Building Fotify: Real-Time Photo Sharing for Events](https://dev.to/agust1n/building-fotify-real-time-photo-sharing-for-events-53dj)
+- [How to Build a Full-Featured React Chat App in Minutes &lpar;Open-Source Starter&rpar;](https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h)
+- [Emoji php - emoticons in your project](https://dev.to/deniskorbakov/emoji-php-emoticons-in-your-project-346a)
+- [Procedures for Deploying .NET 9 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/nelson_akpa01/procedures-for-deploying-net-9-app-to-azure-kubernetes-service-aks-ge5)
+- [How to conduct a useful technical interview &lpar;based on my personal experience &lpar;subjective opinion&rpar;&rpar;](https://dev.to/arenukvern/how-to-conduct-a-useful-technical-interview-based-on-my-personal-experience-subjective-opinion-4h3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
