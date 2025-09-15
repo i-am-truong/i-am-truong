@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Technical debt is inevitable, but technical chaos is not](https://dev.to/emimaldo/technical-debt-is-inevitable-but-technical-chaos-is-not-1nbd)
-- [Illuminating the Dark: Next-Gen Object Detection from Raw Sensor Data by Arvind Sundararajan](https://dev.to/arvindsundararajan/illuminating-the-dark-next-gen-object-detection-from-raw-sensor-data-by-arvind-sundararajan-211b)
-- [✨TaleCraft: Transforming Bedtime with Personalized Magic Stories for Kids](https://dev.to/abhinandan-r/talecraft-transforming-bedtime-with-personalized-magic-stories-for-kids-4ih6)
-- [JavaScript](https://dev.to/robert_degraffenreaidt_50/javascript-5bak)
-- [An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.](https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn)
+- [Visual Studio 2026 Insider: The Good, The Bad, and The WTF 🤯](https://dev.to/shiva_shanker_k/visual-studio-2026-insider-the-good-the-bad-and-the-wtf-49f7)
+- [My First MCP Server: Semantic Code Search](https://dev.to/paradoxy/my-first-mcp-server-semantic-code-search-3520)
+- [Frontend Architecture for Small Teams: A Guide for Managers and Startup Founders](https://dev.to/aleksandr_ryzhikov/frontend-architecture-for-small-teams-a-guide-for-managers-and-startup-founders-1924)
+- [How Kiro Changed the Way I Approach Development](https://dev.to/odk_hsj_250ce160d6736f3d1/how-kiro-changed-the-way-i-approach-development-57p4)
+- [Finding Amount of Clusters](https://dev.to/carlosrambles/finding-amount-of-clusters-4hfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
