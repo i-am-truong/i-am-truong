@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Know what you want - Dockerfile 7GB to 1GB](https://dev.to/mroshank/know-what-u-want-dockerfile-7gb-to-1gb-4ldm)
+- [Managing private TypeScript types: beyond DefinitelyTyped](https://dev.to/yoriiis/managing-private-typescript-types-beyond-definitelytyped-4lk3)
 - [The One Advice I&#39;d Give My Past Self: Build Boring Sh*t That Sells](https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209)
 - [Bedrock Polly: Building a Conversational Voice Chatbot](https://dev.to/srkw7/bedrock-x-polly-building-a-conversational-voice-chatbot-2bei)
 - [Angular Signals Form: Validation and Logic](https://dev.to/this-is-angular/angular-signals-form-validation-and-logic-2n07)
-- [All Data and AI Weekly #207: 15 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-207-15-sept-2025-2gai)
-- [📦 My DevOps Journey: Part 4 — Archiving, Scheduling, Remote Access &amp; System Administration Essentials](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-4-archiving-scheduling-remote-access-system-administration-5apf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
