@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Organize My Projects with Notion](https://dev.to/sami_ammar_fb38e674b4a49e/how-i-organize-my-projects-with-notion-2hc7)
-- [We Turned Movies Into a Game You Can Actually Play With Your Friends](https://dev.to/smoneebah_noman_f31ee873/we-turned-movies-into-a-game-you-can-actually-play-with-your-friends-3b63)
-- [Laravel DataGrid in Minutes: Skip the CRUD Boilerplate &lpar;Complete Guide&rpar;](https://dev.to/abughufran/laravel-datagrid-in-minutes-skip-the-crud-boilerplate-complete-guide-5gd8)
-- [From Waitlist to Production: My Journey Building Call Summary AI with Kiro](https://dev.to/skypto/from-waitlist-to-production-my-journey-building-call-summary-ai-with-kiro-3a0k)
-- [Breaking down CSS positioning](https://dev.to/devshetty/breaking-down-css-positioning-32ah)
+- [The Rise of Kiro as an Agentic IDE for AI Development](https://dev.to/wsmithparsec/the-rise-of-kiro-as-an-agentic-ide-for-ai-development-4d93)
+- [How I Organize My Creative Inspirations for My Projects](https://dev.to/sami_ammar_fb38e674b4a49e/how-i-organize-my-creative-inspirations-for-my-projects-3fh6)
+- [စနစ်ကျအကျိုးရှိတဲ့ SOLID Principles ဆိုတာဘာလဲ?](https://dev.to/rubenhtun/cnckakiurittai-solid-principles-chiuttaabhaalai-4c3i)
+- [How Kiro Transformed My Streamlit App From Chaos to Production-Ready Code](https://dev.to/meera_yasmins_f631218af6/how-kiro-transformed-my-streamlit-app-from-chaos-to-production-ready-code-3fc9)
+- [5 Coding Habits That Transformed Me Into a Better Software Engineer](https://dev.to/navidreza80/5-coding-habits-that-transformed-me-into-a-better-software-engineer-27ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
