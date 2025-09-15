@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Self-Updating ML Model That Handles Traffic With Ease - Here’s How](https://dev.to/mate32/i-built-a-self-updating-ml-model-that-handles-traffic-with-ease-heres-how-3i2k)
-- [Managing Old Node.js Versions on Windows: My Problem &amp; Solution](https://dev.to/arafatruetbd/managing-old-nodejs-versions-on-windows-my-problem-solution-1jdl)
-- [First time to Vibecode with Google AI Studio](https://dev.to/mrkp_gn/first-time-to-vibecode-with-google-ai-studio-12b7)
-- [Know what you want - Dockerfile 7GB to 1GB](https://dev.to/mroshank/know-what-u-want-dockerfile-7gb-to-1gb-4ldm)
-- [Managing private TypeScript types: beyond DefinitelyTyped](https://dev.to/yoriiis/managing-private-typescript-types-beyond-definitelytyped-4lk3)
+- [ASML’s $1.5B Bet on Mistral AI: Europe’s OpenAI Challenger Emerges](https://dev.to/axrisi/asmls-15b-bet-on-mistral-ai-europes-openai-challenger-emerges-4pb6)
+- [GameSpot: Game Devs of Color Expo Direct 2025 Livestream &lpar;Indie Games Showcase&rpar;](https://dev.to/gg_news/gamespot-game-devs-of-color-expo-direct-2025-livestream-indie-games-showcase-530f)
+- [GameSpot: Six One Indie Showcase Livestream &lpar;September 18th, 2025&rpar;](https://dev.to/gg_news/gamespot-six-one-indie-showcase-livestream-september-18th-2025-4b11)
+- [IGN: Hollow Knight: Silksong Boss Fight - Double Moss Mother &lpar;Weavenest Atla&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-double-moss-mother-weavenest-atla-3igi)
+- [IGN: The Last Time a Game Truly Surprised Us - Game Scoop! Clip](https://dev.to/gg_news/ign-the-last-time-a-game-truly-surprised-us-game-scoop-clip-5ame)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
