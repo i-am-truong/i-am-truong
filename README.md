@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [n8n is the future! 🙌](https://dev.to/alifar/n8n-is-the-future-5ame)
+- [From 3 Weeks to 30 Minutes: How YAML Turns Web3 Automation from Weeks into Minutes](https://dev.to/ruben_saha_cf7b58f871f968/from-3-weeks-to-30-minutes-how-yaml-turns-web3-automation-from-weeks-into-minutes-2hmc)
+- [SQL Database Concepts:](https://dev.to/ashok_kumar_564581944e3ef/sql-database-concepts-55he)
 - [Introducing spec-kit: Spec-Driven Development + Ollama &amp; OpenRouter Integration](https://dev.to/jfscoertzen/introducing-spec-kit-spec-driven-development-ollama-openrouter-integration-1m2)
 - [The magic of messages that have always been with us](https://dev.to/smartlegionlab/the-magic-of-messages-that-have-always-been-with-us-48gp)
-- [How to Receive Inbound Emails with Amazon SES and Store Them in Amazon S3](https://dev.to/rahul_gupta_01438cd605043/how-to-receive-inbound-emails-with-amazon-ses-and-store-them-in-amazon-s3-3m73)
-- [Find The Longest Word In A Sentence: A JavaScript Solution](https://dev.to/tochi_/find-the-longest-word-in-a-sentence-a-javascript-solution-1a7n)
-- [The Ultimate Guide to API Integration: Benefits, Types, and Best Practices](https://dev.to/jennysmith7/the-ultimate-guide-to-api-integration-benefits-types-and-best-practices-55ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
