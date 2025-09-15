@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ LangChain: The Building Blocks of AI Applications](https://dev.to/techstuff/langchain-the-building-blocks-of-ai-applications-80m)
+- [Quickly Integrate SafeLine WAF with Apache APISIX: A Step-by-Step Guide](https://dev.to/sharon_42e16b8da44dabde6d/quickly-integrate-safeline-waf-with-apache-apisix-a-step-by-step-guide-35dp)
 - [From Spec to Shipping in Hours: How Kiro Helped Us Build Matbakh’s Visibility Coach](https://dev.to/matbakh-app/from-spec-to-shipping-in-hours-how-kiro-helped-us-build-matbakhs-visibility-coach-2jje)
 - [Who’s That Pokémon? – The Twist!](https://dev.to/splmdny/whos-that-pokemon-the-twist-26nf)
 - [TasteSmith From craving to custom recipe in seconds.](https://dev.to/mohammad_usmani_d3a9bdba5/tastesmithfrom-craving-to-custom-recipe-in-seconds-2f88)
-- [The Triple-Peak Trap: Using M365 Copilot to Visualize and Optimize My Workday](https://dev.to/balagmadhu/the-triple-peak-trap-using-m365-copilot-to-visualize-and-optimize-my-workday-3dn3)
-- [Primary Key vs. Foreign Key in SQL: Explained with Examples](https://dev.to/dbvismarketing/primary-key-vs-foreign-key-in-sql-explained-with-examples-4078)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
