@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implemented User Auth, OTP verification, Audio Recording w BG, SMS, Cloud Integration.](https://dev.to/sakib_shaikh_9e7ea8dd9ec7/implemented-user-auth-otp-verification-audio-recording-w-bg-sms-cloud-integration-23n5)
+- [Kiro Agent Orchestration Patterns](https://dev.to/member_7b664256/asdfadsf-2cie)
+- [Segundo fim de semana de Preptember 2025: GitFichas trilingüe](https://dev.to/jesstemporal/segundo-fim-de-semana-de-preptember-2025-gitfichas-trilingue-71b)
 - [Caffeinated Commits- Day 3](https://dev.to/shri-dharshini/caffeinated-commits-day3-30af)
 - [How to expand diskspace on a Debian VM hosted on Hetzner Cloud](https://dev.to/juju89/how-to-expand-diskspace-on-a-debian-vm-hosted-on-hetzner-cloud-4c4p)
-- [COLORS: AMORE - Peléame!!! | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-peleame-a-colors-show-28hd)
-- [IGN: LEGO Voyagers Review](https://dev.to/gg_news/ign-lego-voyagers-review-1m9k)
-- [IGN: Fortnite - Official ‘The Power of Megazord’ Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-the-power-of-megazord-gameplay-trailer-35m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
