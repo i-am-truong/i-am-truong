@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pre-Validate User Permissions in CI/CD Pipelines: Secure and Efficient DevOps Automation](https://dev.to/srinivasamcjf/pre-validate-user-permissions-in-cicd-pipelines-secure-and-efficient-devops-automation-42l7)
+- [php bottlenecks and performance](https://dev.to/ahmedraza_fyntune/php-bottlenecks-and-performance-3aoj)
+- [Day 10 of My Quantum Computing Journey: Where Quantum Magic Really Happens](https://dev.to/keshabkjha/day-10-of-my-quantum-computing-journey-where-quantum-magic-really-happens-3en1)
+- [Lately, I’ve noticed many job seekers talking about Using AI For Job Interviews—whether it’s mock interview tools, AI question generators, or communication analyzers. Supposedly, these platforms give you practice questions tailored to your resume](https://dev.to/jeenifer_beezer/lately-ive-noticed-many-job-seekers-talking-about-using-ai-for-job-interviews-whether-its-mock-24cm)
 - [WebGPU Engine from Scratch Part 9: Shadow Maps](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-9-shadow-maps-11d9)
-- [Beyond Code Checkout: Optimizing DevOps Deployments for Performance, Cost, and Sustainability](https://dev.to/srinivasamcjf/beyond-code-checkout-optimizing-devops-deployments-for-performance-cost-and-sustainability-37d0)
-- [How Kiro Supercharged the Development of My AI-Powered Health Coach App](https://dev.to/49_pips_2c2d69a412fd4d922/how-kiro-supercharged-the-development-of-my-ai-powered-health-coach-app-14i6)
-- [The prompt I used to have ChatGPT act as my Python tutor](https://dev.to/bredscc/the-prompt-i-used-to-have-chatgpt-act-as-my-python-tutor-4n84)
-- [How to Stay Motivated When Learning to Code Alone](https://dev.to/sami_ammar_fb38e674b4a49e/how-to-stay-motivated-when-learning-to-code-alone-4d9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
