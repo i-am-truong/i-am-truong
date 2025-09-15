@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WSIC &lpar;Why Should I Care&rpar; - Discover what matters most](https://dev.to/thisisindrajit/wsic-why-should-i-care-discover-what-matters-most-46nc)
-- [Build a YouTube Downloader CLI | Merge Video/Audio | Fix Noise](https://dev.to/hego8/build-a-youtube-downloader-cli-merge-videoaudio-fix-noise-4obb)
-- [Custom Software vs. Off-the-Shelf: Which Is Right for You?](https://dev.to/vionsys_it_7ea65d267816d3/custom-software-vs-off-the-shelf-which-is-right-for-you-2k6b)
-- [Will your travel platform be invisible in the age of AI Agents?](https://dev.to/reshab_agarwal/will-your-travel-platform-be-invisible-in-the-age-of-ai-agents-imp)
-- [Enhancing AWS CodePipeline for Real-Time Batch Processing: Lessons from My Experience](https://dev.to/techwithhari/enhancing-aws-codepipeline-for-real-time-batch-processing-lessons-from-my-experience-3li7)
+- [🌀 Radius Agent – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/radius-agent-round-2-javascript-4m1n)
+- [Building Impromptu - Kiro Hackathon](https://dev.to/siddharthasen99/building-impromptu-kiro-hackathon-lgb)
+- [Agentic AI digest &lpar;Sept 8–12, 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-digest-sept-8-12-2025-3d5m)
+- [AWS EBS types SSD &amp; HDD](https://dev.to/wakeup_flower_8591a6cb6a9/aws-ebs-types-ssd-hdd-21hk)
+- [No Laying Up Podcast: Favorite Phil Stories and Weekly Recaps | NLU Pod, Ep 1069](https://dev.to/youtube_golf/no-laying-up-podcast-favorite-phil-stories-and-weekly-recaps-nlu-pod-ep-1069-481i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
