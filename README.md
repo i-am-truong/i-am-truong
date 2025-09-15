@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌀 Radius Agent – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/radius-agent-round-2-javascript-4m1n)
-- [Building Impromptu - Kiro Hackathon](https://dev.to/siddharthasen99/building-impromptu-kiro-hackathon-lgb)
-- [Agentic AI digest &lpar;Sept 8–12, 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-digest-sept-8-12-2025-3d5m)
-- [AWS EBS types SSD &amp; HDD](https://dev.to/wakeup_flower_8591a6cb6a9/aws-ebs-types-ssd-hdd-21hk)
-- [No Laying Up Podcast: Favorite Phil Stories and Weekly Recaps | NLU Pod, Ep 1069](https://dev.to/youtube_golf/no-laying-up-podcast-favorite-phil-stories-and-weekly-recaps-nlu-pod-ep-1069-481i)
+- [🧅 Oniux: Tor Routing for Linux](https://dev.to/byteknight/oniux-tor-routing-for-linux-1abh)
+- [Next Js: The missing part of how server actions are handling server-side logic](https://dev.to/eyad_akeleh_9aed09bfb6ff9/next-js-the-missing-part-of-how-server-actions-are-handling-server-side-logic-2ekm)
+- [Flutter Chopper Tutorial: API Calls Made Easy](https://dev.to/yourmdsarfaraj/flutter-chopper-tutorial-api-calls-made-easy-35k7)
+- [Why do clicks feel slow in React and how can UI feel instant?](https://dev.to/ayushsrtv/why-do-clicks-feel-slow-in-react-and-how-can-ui-feel-instant-461f)
+- [Winning Defense Contracts: Strategies for Small to Mid-Sized Firms](https://dev.to/alyssa-miller/winning-defense-contracts-strategies-for-small-to-mid-sized-firms-11mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
