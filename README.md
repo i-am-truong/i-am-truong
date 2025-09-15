@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Brain-Inspired Routing: Finding the Fastest Path with Spiking Neural Networks](https://dev.to/arvindsundararajan/brain-inspired-routing-finding-the-fastest-path-with-spiking-neural-networks-3gi8)
+- [Multi-Range Isolines with MapLibre GL and Geoapify Isoline API](https://dev.to/geoapify-maps-api/multi-range-isolines-with-maplibre-gl-and-geoapify-isoline-api-d76)
 - [The Ultimate Library of 100+ Short Professional Bio Examples &lpar;Copy-Paste Ready&rpar;](https://dev.to/jayasree_00b1a88ba29d4e9e/the-ultimate-library-of-100-short-professional-bio-examples-copy-paste-ready-4pnj)
 - [How I mad and Enhanced GGUF Loader With Kiro](https://dev.to/__f62782a66951b3a/how-i-mad-and-enhanced-gguf-loader-with-kiro-38m7)
 - [Install poetry using pip](https://dev.to/sankar_puvvada/install-poetry-using-pip-4pp3)
-- [How To Code Better With AI: The One Thing 99% of Developers Get Wrong](https://dev.to/christopher_graves_282957/how-to-code-better-with-ai-the-one-thing-99-of-developers-get-wrong-j64)
-- [How We Reimagined SQL Query Building to Be Smarter, Safer, and Simpler &lpar;Introducing `mysql2-dx` v1.1.0&rpar;](https://dev.to/waelhabbal/how-we-reimagined-sql-query-building-to-be-smarter-safer-and-simpler-introducing-mysql2-dx-4ogl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
