@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use React.useEffect Like a Pro With AbortSignal](https://dev.to/framemuse/use-reactuseeffect-like-a-pro-with-abortsignal-4l69)
+- [JavaScript project to TypeScript](https://dev.to/zeeshanali0704/javascript-project-to-typescript-1a48)
+- [📊 Other Dashboard Tools: Streamlit, Dash, and Bokeh &lpar;with deploy and CI/CD&rpar;](https://dev.to/wsalas651/other-dashboard-tools-streamlit-dash-and-bokeh-with-deploy-and-cicd-4bnd)
+- [apple macos time-machine](https://dev.to/jswhisperer/apple-macos-time-machine-5f39)
 - [Separation of Concerns em Java: O Jeito Simples](https://dev.to/jhonathandosreis/separation-of-concerns-em-java-o-jeito-simples-1c9b)
-- [Why I Built &quot;I Hate Background&quot; — a Privacy-First Background Removal Service](https://dev.to/lusrodri/why-i-built-i-hate-background-a-privacy-first-background-removal-service-1f6a)
-- [Creating DNS Zones and Configuring DNS Settings in Azure](https://dev.to/isaiah_izibili_7a39b7d627/creating-dns-zones-and-configuring-dns-settings-in-azure-36d3)
-- [Difference Between `readonly` and `const` in TypeScript](https://dev.to/zeeshanali0704/difference-between-readonly-and-const-in-typescript-4a0h)
-- [Create DNS zones and configure DNS settings](https://dev.to/onyemuche/create-dns-zones-and-configure-dns-settings-129)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
