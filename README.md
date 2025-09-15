@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Horizontal Scaling Mistakes I’ve Made](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-horizontal-scaling-mistakes-ive-made-3e7)
-- [🚀 Introducing Pebble: A Tiny New Programming Language](https://dev.to/rasa8877/introducing-pebble-a-tiny-new-programming-language-2di7)
-- [Who Is Responsible When Algorithms Rule? Reintroducing Human Accountability in Executable Governance](https://dev.to/agustin_v_startari/who-is-responsible-when-algorithms-rule-reintroducing-human-accountability-in-executable-governance-476i)
-- [Meme Monday](https://dev.to/ben/meme-monday-1546)
-- [Creating a Platform Game with TCJSGame v3: Step-by-Step Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/creating-a-platform-game-with-tcjsgame-v3-step-by-step-tutorial-1h17)
+- [RustGPT: A pure-Rust transformer LLM built from scratch](https://dev.to/technoblogger14o3/rustgpt-a-pure-rust-transformer-llm-built-from-scratch-2gp4)
+- [How AI Cookie Banners Improve UX and Reduce Banner Fatigue on Shopify](https://dev.to/mehwish_malik_4f29ff7fb04/how-ai-cookie-banners-improve-ux-and-reduce-banner-fatigue-on-shopify-1j24)
+- [Logic&#39;s Hidden States: Unlock Debugging Superpowers with Algebraic Thinking by Arvind Sundararajan](https://dev.to/arvindsundararajan/logics-hidden-states-unlock-debugging-superpowers-with-algebraic-thinking-by-arvind-sundararajan-kip)
+- [Chris Spence and the Lasting Impact of Skin I’m In: Racism, Sports and Education](https://dev.to/olaleye_miracle_29a9dd7dd/chris-spence-and-the-lasting-impact-of-skin-im-in-racism-sports-and-education-241f)
+- [How to Stake Solana: Complete Guide to Stake SOL and Earn Rewards](https://dev.to/calgo_62400343865ec0ae72a/how-to-stake-solana-complete-guide-to-stake-sol-and-earn-rewards-h26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
