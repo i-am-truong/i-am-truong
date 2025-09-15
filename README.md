@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Audio Deepfakes: The Illusion of Security in Voice Biometrics](https://dev.to/arvindsundararajan/audio-deepfakes-the-illusion-of-security-in-voice-biometrics-48jo)
-- [Kiwi Pi Pro 5: Just another SBC?](https://dev.to/dongpei_liao_8092a14d7c50/kiwi-pi-pro-5-just-another-sbc-3if5)
-- [Docker Series: Episode 24 — Docker Compose + Swarm Integration: Multi-Host Deployments 🌍](https://dev.to/yash_sonawane25/docker-series-episode-24-docker-compose-swarm-integration-multi-host-deployments-2lhh)
-- [🎉 Completed AWS Generative AI Applications Specialization!](https://dev.to/devraiks/completed-aws-generative-ai-applications-specialization-1e32)
-- [Most people don’t hate work — they hate bad meetings. Too long, too vague, and often unnecessary. The good news? AI can make meetings shorter, sharper, and more productive.](https://dev.to/jaideepparashar/most-people-dont-hate-work-they-hate-bad-meetings-too-long-too-vague-and-often-1e25)
+- [Hidden Realms: AI-Powered Find the Hidden Objects Game](https://dev.to/sanarahman/hidden-realms-ai-powered-find-the-hidden-objects-game-jod)
+- [Stop asking for coffee chats. Do this instead 🤌](https://dev.to/sonika_onboardedhq/stop-asking-for-coffee-chats-do-this-instead-1l35)
+- [Becoming a Specialist vs. a Generalist 🕸️](https://dev.to/sonika_onboardedhq/becoming-a-specialist-vs-a-generalist-ai8)
+- [Guardian AI: Zero-Knowledge Proofs for Secure Split Learning](https://dev.to/arvindsundararajan/guardian-ai-zero-knowledge-proofs-for-secure-split-learning-npf)
+- [Part 2 Networking the proper way!](https://dev.to/robert_scott_339c35174a4d/part-2-networking-the-proper-way-436c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
