@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: Demystifying No-Code Development &lpar;and Why You Should Care!&rpar;](https://dev.to/karthik_n/beyond-the-hype-demystifying-no-code-development-and-why-you-should-care-28h3)
-- [A Super Friendly Gallery: My Kiro Hackathon Project, Sort It!](https://dev.to/babu_mohit_7/a-super-friendly-gallery-my-kiro-hackathon-project-sort-it-4o36)
-- [🏠 Haveto | A Blockchain That Finally Feels Like Home for Developers](https://dev.to/umang_suthar_9bad6f345a8a/haveto-a-blockchain-that-finally-feels-like-home-for-developers-565f)
-- [Unlocking AI&#39;s Secrets: The Prompt Seed Treasure Hunt by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-ais-secrets-the-prompt-seed-treasure-hunt-by-arvind-sundararajan-1if8)
-- [JavaScript Performance Optimization Techniques for React and Next.js](https://dev.to/giang_vudinh_9b597574c65/javascript-performance-optimization-techniques-for-react-and-nextjs-5cgn)
+- [How We Reimagined SQL Query Building to Be Smarter, Safer, and Simpler &lpar;Introducing `mysql2-dx` v1.1.0&rpar;](https://dev.to/waelhabbal/how-we-reimagined-sql-query-building-to-be-smarter-safer-and-simpler-introducing-mysql2-dx-4ogl)
+- [Seeing the Unseen: AI Predicts Brain Tumor Trajectories](https://dev.to/arvindsundararajan/seeing-the-unseen-ai-predicts-brain-tumor-trajectories-1p4a)
+- [TCJSGame v3: A New Era of JavaScript Game Development and How It Stacks Against the Competition](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-a-new-era-of-javascript-game-development-and-how-it-stacks-against-the-competition-2hdc)
+- [Building Production-Ready AI Agents with Strands Agents and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-strands-agents-and-amazon-bedrock-agentcore-3dg0)
+- [15 rust tools to level up your Linux terminal](https://dev.to/dev_tips/15-rust-tools-to-level-up-your-linux-terminal-2ecf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
