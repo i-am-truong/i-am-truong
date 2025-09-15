@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Difference Between Google My Business and Google Maps](https://dev.to/aprizal_ali_28336d8fc6739/the-difference-between-google-my-business-and-google-maps-4fhn)
-- [From Messy Code to Clean Architecture: How I Finally Organized My Backend Projects](https://dev.to/farzad_fm/from-messy-code-to-clean-architecture-how-i-finally-organized-my-backend-projects-381g)
-- [Give Juniors a Chance](https://dev.to/ozkeisar/give-juniors-a-chance-31pa)
-- [How Exploring Multiple Programming Languages Elevates Your Coding Skills](https://dev.to/devtechinsights/how-exploring-multiple-programming-languages-elevates-your-coding-skills-2hfh)
-- [“Assign to Copilot” Explained: What GitHub’s Coding Agent Actually Does](https://dev.to/thelogicwarlock/assign-to-copilot-explained-what-githubs-coding-agent-actually-does-59g9)
+- [Chatbot testing](https://dev.to/aariyan_hussain_0bef/chatbot-testing-2k0h)
+- [Automated Test Generation with Custom Claude Commands: Architecting Scalable Testing for Modern Node.js Applications](https://dev.to/paultowers/automated-test-generation-with-custom-claude-commands-architecting-scalable-testing-for-modern-42m5)
+- [Why I am building DriveLite ?](https://dev.to/moukhtaryoussef/why-i-am-building-drivelite--3fol)
+- [Dockerfile and Docker Compose: What They Are and Why You Need Both](https://dev.to/rijultp/dockerfile-and-docker-compose-what-they-are-and-why-you-need-both-89l)
+- [Day 12 of My Quantum Computing Journey: Where Quantum Meets Classical Reality](https://dev.to/keshabkjha/day-12-of-my-quantum-computing-journey-where-quantum-meets-classical-reality-5a5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
