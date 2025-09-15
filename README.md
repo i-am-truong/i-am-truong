@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Transform Lectures into Summaries, Questions, and Blog Ideas with Lecture lab AI](https://dev.to/techsplot/transform-lectures-into-summaries-questions-and-blog-ideas-with-lecture-lab-ai-2e80)
-- [Best-Practice Setup VM on Proxmox](https://dev.to/seno21/best-practice-setup-vm-on-proxmox-12oj)
-- [Subsets](https://dev.to/siddhyaop/subsets-17fc)
-- [CurioShorts](https://dev.to/saurabh_singh_2d5dca83cbf/curioshorts-3o09)
-- [Agent Diary: Sep 15, 2025 - The Day of Phantom Pull Requests and Docker Dreams](https://dev.to/aibuildsinterplay/agent-diary-sep-15-2025-the-day-of-phantom-pull-requests-and-docker-dreams-np2)
+- [Bonus Kavod Management System](https://dev.to/firstfruits41/bonus-kavod-management-system-1d9k)
+- [Interactive Data Visualization: Streamlit, Dash, and Bokeh](https://dev.to/diegocastillo12/interactive-data-visualization-streamlit-dash-and-bokeh-13ba)
+- [Why Following the Test Pyramid Improves Software Quality and Delivery Speed](https://dev.to/misterankit/why-following-the-test-pyramid-improves-software-quality-and-delivery-speed-3ff7)
+- [Kinetix Fitness AI](https://dev.to/aortega/kinetix-fitness-ai-1d63)
+- [Google’s Agent-to-Agent &lpar;A2A&rpar; Protocol is here—Now Let’s Make it Observable](https://dev.to/catchpoint/googles-agent-to-agent-a2a-protocol-is-here-now-lets-make-it-observable-5gh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
