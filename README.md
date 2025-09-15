@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Kiro as an Agentic IDE for AI Development](https://dev.to/wsmithparsec/the-rise-of-kiro-as-an-agentic-ide-for-ai-development-4d93)
-- [How I Organize My Creative Inspirations for My Projects](https://dev.to/sami_ammar_fb38e674b4a49e/how-i-organize-my-creative-inspirations-for-my-projects-3fh6)
-- [စနစ်ကျအကျိုးရှိတဲ့ SOLID Principles ဆိုတာဘာလဲ?](https://dev.to/rubenhtun/cnckakiurittai-solid-principles-chiuttaabhaalai-4c3i)
-- [How Kiro Transformed My Streamlit App From Chaos to Production-Ready Code](https://dev.to/meera_yasmins_f631218af6/how-kiro-transformed-my-streamlit-app-from-chaos-to-production-ready-code-3fc9)
-- [5 Coding Habits That Transformed Me Into a Better Software Engineer](https://dev.to/navidreza80/5-coding-habits-that-transformed-me-into-a-better-software-engineer-27ep)
+- [WebGPU Engine from Scratch Part 9: Shadow Maps](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-9-shadow-maps-11d9)
+- [Beyond Code Checkout: Optimizing DevOps Deployments for Performance, Cost, and Sustainability](https://dev.to/srinivasamcjf/beyond-code-checkout-optimizing-devops-deployments-for-performance-cost-and-sustainability-37d0)
+- [How Kiro Supercharged the Development of My AI-Powered Health Coach App](https://dev.to/49_pips_2c2d69a412fd4d922/how-kiro-supercharged-the-development-of-my-ai-powered-health-coach-app-14i6)
+- [The prompt I used to have ChatGPT act as my Python tutor](https://dev.to/bredscc/the-prompt-i-used-to-have-chatgpt-act-as-my-python-tutor-4n84)
+- [How to Stay Motivated When Learning to Code Alone](https://dev.to/sami_ammar_fb38e674b4a49e/how-to-stay-motivated-when-learning-to-code-alone-4d9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
