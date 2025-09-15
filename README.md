@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [curl: getting performance data with curl](https://dev.to/gbhorwood/curl-getting-performance-data-with-curl-47f1)
-- [Shipaton: Do0ne Build Journal #5 - Social Feature: Discover Goals &amp; Tasks](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-5-social-feature-discover-goals-tasks-4mp)
-- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 5](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-5-14f0)
-- [Using BuildKit for Container Image Building in GitLab CI And Pushing To ECR](https://dev.to/thraizz/using-buildkit-for-container-image-building-in-gitlab-ci-and-pushing-to-ecr-15nk)
-- [How Developers Can Support Localization Without a Dedicated Team](https://dev.to/testjace/how-developers-can-support-localization-without-a-dedicated-team-2e15)
+- [LLM&#39;s Functions, Use-cases &amp; Architecture: Introduction](https://dev.to/giridharan_devops/llms-functions-use-cases-architecture-introduction-2ag)
+- [HumanReplies: AI Social Replies for Everyone &lpar;No Paywall, No Barriers&rpar;](https://dev.to/chrisbuildsonline/humanreplies-ai-social-replies-for-everyone-no-paywall-no-barriers-1amh)
+- [Free Mapbox SSO Configuration with Auth0](https://dev.to/isaacaddis/free-mapbox-sso-configuration-with-auth0-1aj1)
+- [The Hidden Challenges Nobody Tells You About IoT Apps](https://dev.to/chillicode/the-hidden-challenges-nobody-tells-you-about-iot-apps-4b5h)
+- [BEEPTOOLKIT - IDE Soft Logic Controller](https://dev.to/beeptec/beeptoolkit-ide-soft-logic-controller-4cg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
