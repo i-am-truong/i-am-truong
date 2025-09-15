@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [That $47K AWS Bill? Yeah, It Should Be $8K](https://dev.to/arbythecoder/that-47k-aws-bill-yeah-it-should-be-8k-43ki)
+- [Maintaining Arch Linux AUR Packages: A Dual Update for Python-zconfig and Python-reparser](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-a-dual-update-for-python-zconfig-and-python-reparser-4fdm)
+- [Kubernetes: Kubernetes API, API groups, CRDs, and the etcd](https://dev.to/setevoy/kubernetes-kubernetes-api-api-groups-crds-and-the-etcd-1can)
+- [Ngrok-github-coder](https://dev.to/istockmarket/ngrok-github-coder-3lno)
 - [JavaScript Isn’t Broken—You Just Didn’t Know the Coercion Rules](https://dev.to/bawa_geek/javascript-isnt-broken-you-just-didnt-know-the-coercion-rules-3k02)
-- [The State of the Art: Sculpting Application State in 2025](https://dev.to/alex_aslam/the-state-of-the-art-sculpting-application-state-in-2025-2oi0)
-- [The Next.js 15 Atelier: Mastering the Composition of Server and Client](https://dev.to/alex_aslam/the-nextjs-15-atelier-mastering-the-composition-of-server-and-client-3gk0)
-- [Zero Downtime Migrations: Shadow Table Strategy Explained](https://dev.to/zeedu_dev/zero-downtime-migrations-shadow-table-strategy-explained-hp9)
-- [Learn Bash Scripting With Me 🚀 - Day 5](https://dev.to/babsarena/learn-bash-scripting-with-me-day-5-45di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
