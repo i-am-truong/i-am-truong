@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The author provides a guide to building a code security automation with Glama.](https://dev.to/mingzhao/the-author-provides-a-guide-to-building-a-code-security-automation-with-glama-1ml5)
-- [This is a step-by-step guide to setting up an automated code security scanner.](https://dev.to/barak_codes/this-is-a-step-by-step-guide-to-setting-up-an-automated-code-security-scanner-275n)
-- [Weekend created Compliance document Analyzer with lamaparse and azure openai](https://dev.to/kishank/weekend-created-compliance-document-analyzer-with-lamaparse-and-azure-openai-hp4)
-- [Building Production-Ready AI Agents with LangGraph and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-langgraph-and-amazon-bedrock-agentcore-4h5k)
-- [This tutorial shows how to automate security scans for GitHub pull requests.](https://dev.to/thedeepseeker/this-tutorial-shows-how-to-automate-security-scans-for-github-pull-requests-2kid)
+- [Building Ambitus Purus – A Clean-Earth App to Make Rubbish History 🌍](https://dev.to/jt_omoniyi_bb9482d0074bb0/building-ambitus-purus-a-clean-earth-app-to-make-rubbish-history-55e4)
+- [Taking Screenshots in Selenium with Python](https://dev.to/guzmanojero/taking-screenshots-in-selenium-with-python-132g)
+- [From Vision to Reality: Building a Custom E-commerce Platform with AWS Kiro](https://dev.to/nsk_nitheesh/from-vision-to-reality-building-a-custom-e-commerce-platform-with-aws-kiro-1gde)
+- [Driving Insights: Building an Uber Data Lake with MinIO](https://dev.to/oliver_samuel_028c6f65ad6/driving-insights-building-an-uber-data-lake-with-minio-1ega)
+- [Amazon Bedrock AgentCore Runtime - Part 5 Using Custom Agent with Spring AI](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-5-using-custom-agent-with-spring-ai-4n71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
