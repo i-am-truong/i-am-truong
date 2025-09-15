@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 008 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-008-on-my-journey-to-becoming-a-css-pro-with-keith-grant-38c9)
 - [Building Gitcom: How Kiro&#39;s AI Pair-Programmer Helped Me Ship My First Kiro/VS Code Extension](https://dev.to/blessingtutka/building-gitcom-how-kiros-ai-pair-programmer-helped-me-ship-my-first-kirovs-code-extension-4l9d)
 - [NPR Music: Fito Páez: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-fito-paez-tiny-desk-concert-4ef2)
 - [Building an AI SQL Translator with Java, Spring Boot, and OpenAI](https://dev.to/masteringbackend/building-an-ai-sql-translator-with-java-spring-boot-and-openai-18gk)
 - [Unlocking the Future: Top 50 DevOps Interview Questions You Must Know](https://dev.to/vjnvisakh/unlocking-the-future-top-50-devops-interview-questions-you-must-know-25gi)
-- [DEBIX SOM A Testing TSN Clock Synchronization with PTP](https://dev.to/debix_computers/debix-som-a-testing-tsn-clock-synchronization-with-ptp-1eln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
