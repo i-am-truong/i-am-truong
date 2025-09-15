@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The author provides a guide to building a code security automation with Glama.](https://dev.to/mingzhao/the-author-provides-a-guide-to-building-a-code-security-automation-with-glama-1ml5)
+- [This is a step-by-step guide to setting up an automated code security scanner.](https://dev.to/barak_codes/this-is-a-step-by-step-guide-to-setting-up-an-automated-code-security-scanner-275n)
+- [Weekend created Compliance document Analyzer with lamaparse and azure openai](https://dev.to/kishank/weekend-created-compliance-document-analyzer-with-lamaparse-and-azure-openai-hp4)
 - [Building Production-Ready AI Agents with LangGraph and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-langgraph-and-amazon-bedrock-agentcore-4h5k)
 - [This tutorial shows how to automate security scans for GitHub pull requests.](https://dev.to/thedeepseeker/this-tutorial-shows-how-to-automate-security-scans-for-github-pull-requests-2kid)
-- [Scaling Carmen Cloud: From Containers to Lambda SnapStart](https://dev.to/tothl74/scaling-carmen-cloud-from-containers-to-lambda-snapstart-57n2)
-- [🔹 Java is Pass-by-Value: What It Really Means](https://dev.to/mohamad_mhana/java-is-pass-by-value-what-it-really-means-l9d)
-- [Stop Fighting Your AGENTS.md File: A Better Way to Scale AI Agent Documentation](https://dev.to/ivawzh/stop-fighting-your-agentsmd-file-a-better-way-to-scale-ai-agent-documentation-51n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
