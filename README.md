@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [n8n is the future! 🙌](https://dev.to/alifar/n8n-is-the-future-5ame)
-- [From 3 Weeks to 30 Minutes: How YAML Turns Web3 Automation from Weeks into Minutes](https://dev.to/ruben_saha_cf7b58f871f968/from-3-weeks-to-30-minutes-how-yaml-turns-web3-automation-from-weeks-into-minutes-2hmc)
-- [SQL Database Concepts:](https://dev.to/ashok_kumar_564581944e3ef/sql-database-concepts-55he)
-- [Introducing spec-kit: Spec-Driven Development + Ollama &amp; OpenRouter Integration](https://dev.to/jfscoertzen/introducing-spec-kit-spec-driven-development-ollama-openrouter-integration-1m2)
-- [The magic of messages that have always been with us](https://dev.to/smartlegionlab/the-magic-of-messages-that-have-always-been-with-us-48gp)
+- [Rock 🗿 Paper 🗞️ Scissors ✂️](https://dev.to/marcelo_martins_41c7f1c95/rock-paper-scissors-2g23)
+- [Using JobStreet Scraper API to Enhance Job Search Strategies](https://dev.to/mcatee/using-jobstreet-scraper-api-to-enhance-job-search-strategies-1f0l)
+- [Understanding 127.0.0.1 and the Loopback Address](https://dev.to/lightningdev123/understanding-127001-and-the-loopback-address-3j3g)
+- [🚀 Parallel.ForEachAsync vs Task.Run in C#: A Beginner’s Guide](https://dev.to/stevsharp/parallelforeachasync-vs-taskrun-in-c-a-beginners-guide-2p41)
+- [AWS S3 Static Website Hosting: Complete Lab for Beginners](https://dev.to/darko_kostovski_2744e790a/aws-s3-static-website-hosting-complete-lab-for-beginners-3eki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
