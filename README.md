@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scalping Strategies with the Traders Dynamic Index &lpar;Step-by-Step&rpar;](https://dev.to/muhammad_sharifulhoque_0/scalping-strategies-with-the-traders-dynamic-index-step-by-step-55e3)
+- [What is Ethical Hacking?: A Beginner’s Guide to Penetration Testing](https://dev.to/ashish_krishna_pavan_gade/what-is-ethical-hacking-a-beginners-guide-to-penetration-testing-3jl0)
+- [Errors I encountered during Jest testing and how to fix them](https://dev.to/kazutora_hattori_66972c88/errors-i-encountered-during-jest-testing-and-how-to-fix-them-3jak)
+- [DNS System Design: The Backbone of the Internet day 51](https://dev.to/vincenttommi/dns-system-design-the-backbone-of-the-internet-2gie)
 - [⚡ LangChain: The Building Blocks of AI Applications](https://dev.to/techstuff/langchain-the-building-blocks-of-ai-applications-80m)
-- [Quickly Integrate SafeLine WAF with Apache APISIX: A Step-by-Step Guide](https://dev.to/sharon_42e16b8da44dabde6d/quickly-integrate-safeline-waf-with-apache-apisix-a-step-by-step-guide-35dp)
-- [From Spec to Shipping in Hours: How Kiro Helped Us Build Matbakh’s Visibility Coach](https://dev.to/matbakh-app/from-spec-to-shipping-in-hours-how-kiro-helped-us-build-matbakhs-visibility-coach-2jje)
-- [Who’s That Pokémon? – The Twist!](https://dev.to/splmdny/whos-that-pokemon-the-twist-26nf)
-- [TasteSmith From craving to custom recipe in seconds.](https://dev.to/mohammad_usmani_d3a9bdba5/tastesmithfrom-craving-to-custom-recipe-in-seconds-2f88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
