@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 5-Minute Daily Code Cleanup: How One Small Habit Doubled My Bug-Free Deployments](https://dev.to/teamcamp/the-5-minute-daily-code-cleanup-how-one-small-habit-doubled-my-bug-free-deployments-lil)
+- [Driving AI CLI Tools to Write Code: A Semi-Automated Workflow](https://dev.to/kingson4ng/driving-ai-cli-tools-to-write-code-a-semi-automated-workflow-1kj1)
 - [Biometric fingerprint authentication on SmartCard Chips](https://dev.to/juliofcv/biometric-fingerprint-authentication-on-smartcard-chips-5hcm)
 - [Green Blockchain: Can Sustainable Tech Solve Energy Concerns? - 101 Blockchains #379646](https://dev.to/calgo_62400343865ec0ae72a/green-blockchain-can-sustainable-tech-solve-energy-concerns-101-blockchains-379646-2ml7)
 - [The Ultimate Cross-Framework Storage Solution](https://dev.to/eveningwater/the-ultimate-cross-framework-storage-solution-513m)
-- [Typescript : Generic Data Fetch](https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48)
-- [Part-60: Google Cloud Networking – Cloud NAT Gateway with Internal-Only VM](https://dev.to/latchudevops/part-60-google-cloud-networking-cloud-nat-gateway-with-internal-only-vm-5c2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
