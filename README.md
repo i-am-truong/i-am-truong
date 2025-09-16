@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Task Manager Dashboard with KendoReact](https://dev.to/som_chetri_41f5b4837e79b9/building-a-task-manager-dashboard-with-kendoreact-2pk4)
-- [The Art of the Bounce: Crafting a Self-Healing Job Processing System](https://dev.to/alex_aslam/the-art-of-the-bounce-crafting-a-self-healing-job-processing-system-dag)
-- [The Art of the Graceful Evolution: API Versioning as a Craft](https://dev.to/alex_aslam/the-art-of-the-graceful-evolution-api-versioning-as-a-craft-1api)
-- [How We Saved 600 Hours of Support Work with AI in a Ticketing System](https://dev.to/devfamdk/how-we-saved-600-hours-of-support-work-with-ai-in-a-ticketing-system-5c2b)
-- [Build Once and Teach Forever: Scaling Developer Content Creation with GitHub](https://dev.to/shieldstring/build-once-and-teach-forever-scaling-developer-content-creation-with-github-1a55)
+- [Integrating Google Calendar with OAuth2 in Node.js](https://dev.to/divofred/integrating-google-calendar-with-oauth2-in-nodejs-530i)
+- [The Future of Back-End Development in the Age of AI](https://dev.to/gabrielle_eduarda_776996b/the-future-of-back-end-development-in-the-age-of-ai-4o7p)
+- [[Boost]](https://dev.to/chair/-3226)
+- [DevLog 20250916: [Issue] Binary Design Project Version Control](https://dev.to/nfc-charles/devlog-20250916-issue-binary-design-project-version-control-2cn1)
+- [How to Enable SSH on Ubuntu](https://dev.to/jajera/how-to-enable-ssh-on-ubuntu-2lkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
