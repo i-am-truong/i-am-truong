@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TwinMind’s Ear-3 Is Changing Voice AI: 5.26% WER, 140+ Languages, Real-Time Savings](https://dev.to/aiwithapex/twinminds-ear-3-is-changing-voice-ai-526-wer-140-languages-real-time-savings-3jc0)
-- [🚀 Deploying a Node.js CRUD App on AWS with Terraform](https://dev.to/manthanank/deploying-a-nodejs-crud-app-on-aws-with-terraform-50l3)
-- [What if AI had moods—and we could track them like signal waves? An experimental prototype on visualizing AI engagement.](https://dev.to/devi_kaliappan_01fa4411c9/what-if-ai-had-moods-and-we-could-track-them-like-signal-waves-an-experimental-prototype-on-3p93)
-- [Great article on % Minutes Daily code cleanup](https://dev.to/bhavy_k_5a3b6c88887b58c92/great-article-on-minutes-daily-code-cleanup-4107)
-- [The 5-Minute Daily Code Cleanup: How One Small Habit Doubled My Bug-Free Deployments](https://dev.to/teamcamp/the-5-minute-daily-code-cleanup-how-one-small-habit-doubled-my-bug-free-deployments-lil)
+- [Micro SD Card Module with Arduino](https://dev.to/akshay_jain/micro-sd-card-module-with-arduino-51kc)
+- [Laravel Policies: Do You Really Use Them in Real Projects?](https://dev.to/thecodeliner/laravel-policies-do-you-really-use-them-in-real-projects-2pa1)
+- [What is ML runtime?](https://dev.to/jimw/what-is-ml-runtime-19be)
+- [I stopped writing scripts to merge JUnit XMLs in Pytest &lpar;pytest-html-plus&rpar;](https://dev.to/kevi019/i-stopped-writing-scripts-to-merge-junit-xmls-in-pytest-19j1)
+- [Introduction to State-Driven Programming](https://dev.to/araldhafeeri/introduction-to-state-driven-programming-3elg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
