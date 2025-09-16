@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Testing Multi-Agent AI Systems is Hard &lpar;and Why It Matters&rpar;](https://dev.to/radoslawsz/why-testing-multi-agent-ai-systems-is-hard-and-why-it-matters-2d3l)
-- [AI in Business: What Tasks Can Be Automated Today](https://dev.to/vilengyltd/ai-in-business-what-tasks-can-be-automated-today-jb0)
-- [#2 EDA!](https://dev.to/esdk/2-eda-4bok)
-- [Introduction to Apache Iceberg using MinIO](https://dev.to/minwook/introduction-to-apache-iceberg-using-minio-48o8)
-- [When Does a Visual IDE Outperform Text‑Based Code in Control Engineering?](https://dev.to/beeptec/when-does-a-visual-ide-outperform-text-based-code-in-control-engineering-27jn)
+- [The Process of a Rational Mind](https://dev.to/bid_solution/the-process-of-a-rational-mind-2po2)
+- [Running commands with timeout on Linux](https://dev.to/pikotutorial/running-commands-with-timeout-on-linux-2ebe)
+- [Top 5 Technical Asset Discovery Tools in OSINT](https://dev.to/stark_zhuang_df5076f35c68/top-5-technical-asset-discovery-tools-in-osint-5a64)
+- [Ui engine](https://dev.to/rajneesh_kumar_7f2dc153a2/ui-engine-3gk4)
+- [Why Async Functions in TypeScript Always Return a Promise](https://dev.to/itsmearka/why-async-functions-in-typescript-always-return-a-promise-317j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
