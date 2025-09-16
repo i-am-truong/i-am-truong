@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Multikey Indexes and Index Bound Optimization](https://dev.to/franckpachot/mongodb-multikey-indexes-and-index-bound-optimization-ol9)
-- [Can logic assembly replace low-level programming in automation?](https://dev.to/beeptec/pc-vs-code-can-logic-assembly-replace-low-level-programming-in-automation-2dgi)
-- [Data Security in AI-Powered Enterprises: Comprehensive Risk Assessment and Mitigation](https://dev.to/donazacharias/data-security-in-ai-powered-enterprises-comprehensive-risk-assessment-and-mitigation-4c1)
-- [What’s the worst way a manager tried to ‘improve collaboration’ on your team?](https://dev.to/clariti_22_6e89b280ccd102/whats-the-worst-way-a-manager-tried-to-improve-collaboration-on-your-team-2dj3)
-- [Kubernetes: what are the Kubernetes Operator and CustomResourceDefinition](https://dev.to/setevoy/kubernetes-what-are-the-kubernetes-operator-and-customresourcedefinition-26id)
+- [🛠️ Fixing &quot;SQLSTATE[HY000]: General error: no such table: sessions&quot; in Laravel &lpar;SQLite / MySQL&rpar;](https://dev.to/chiragx309/fixing-sqlstatehy000-general-error-no-such-table-sessions-in-laravel-sqlite-mysql-1595)
+- [Sharing Variables Across Workspaces in Requestly](https://dev.to/requestly/sharing-variables-across-workspaces-in-requestly-27md)
+- [Angular Addicts #41: Angular 20.2, Animations, Monorepos &amp; more](https://dev.to/this-is-angular/angular-addicts-41-angular-202-animations-monorepos-more-2la4)
+- [Don&#39;t Miss the Java 25 Launch Livestream Today!](https://dev.to/thedavestack/dont-miss-the-java-25-launch-livestream-today-5e1d)
+- [How I’m Learning to Code in the AI Age &lpar;2025-2026 Edition&rpar;](https://dev.to/the_mj_super/how-im-learning-to-code-in-the-ai-age-2025-2026-edition-3b8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
