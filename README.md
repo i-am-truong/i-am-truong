@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App&quot;](https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg)
-- [Best Rich Text Editor for react in 2025](https://dev.to/codeideal/best-rich-text-editor-for-react-in-2025-3cdb)
-- [10 Best Open Source Cursor Alternatives in 2025](https://dev.to/paulboguta/10-best-open-source-cursor-alternatives-in-2025-3a0p)
-- [30-Day Windows 10 Exit Plan: Inventory, Secure, Migrate](https://dev.to/pentest_testing_corp/30-day-windows-10-exit-plan-inventory-secure-migrate-2f8e)
-- [Forget Bitcoin, Say Hello to DePIN: Decentralized Physical Infrastructure Networks](https://dev.to/karthik_n/forget-bitcoin-say-hello-to-depin-decentralized-physical-infrastructure-networks-5ed5)
+- [A Practical Guide to the Unreal Engine Neovim Plugin Suite](https://dev.to/taku25/a-practical-guide-to-the-unreal-engine-neovim-plugin-suite-36f4)
+- [Spring Boot Basic](https://dev.to/sadiul_hakim/spring-boot-basic-4m2)
+- [How a Robust Video Management System Improves Workflow &amp; Engagement](https://dev.to/cloudtentosoft/how-a-robust-video-management-system-improves-workflow-engagement-34h6)
+- [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
+- [Why Distributed Caches Can Become Single Points of Failure](https://dev.to/dct_technology/why-distributed-caches-can-become-single-points-of-failure-5a88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
