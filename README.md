@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple MCP tool using NodeJS](https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm)
+- [Deployments in the Agentic Era](https://dev.to/defanglabs/deployments-in-the-agentic-era-1m2h)
+- [SQLite dot commands: run system shell commands](https://dev.to/mr_destructive/sqlite-dot-commands-run-system-shell-commands-3ao4)
 - [[Boost]](https://dev.to/uliyahoo/-ng7)
 - [The Security Vulnerabilities Hiding in Your MCP Servers](https://dev.to/leomarsh/the-security-vulnerabilities-hiding-in-your-mcp-servers-4m2)
-- [Token Counting Meets Amazon Bedrock](https://dev.to/aws/token-counting-meets-amazon-bedrock-4dk5)
-- [Docker, Windows &amp; chasing missing disk space](https://dev.to/ryansgi/docker-windows-chasing-missing-disk-space-2b0k)
-- [I Stumbled Into Documentation-Driven Development](https://dev.to/sailorfe/i-stumbled-into-documentation-driven-development-108k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
