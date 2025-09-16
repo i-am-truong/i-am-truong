@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Extendable CRUD: How I Use Admiral to Create Flexible Admin Interfaces](https://dev.to/devfamdk/building-extendable-crud-how-i-use-admiral-to-create-flexible-admin-interfaces-218k)
+- [Reducing Unified Audit Trail Size in Oracle 23ai](https://dev.to/vahidusefzadeh/reducing-unified-audit-trail-size-in-oracle-23ai-1e0f)
 - [#14 Extracting a Nibble from an 8-bit Register in C](https://dev.to/hrishikesh_karande/14-extracting-a-nibble-from-an-8-bit-register-in-c-473m)
 - [Shakespeare makes you a better engineer.](https://dev.to/justinschroeder/shakespeare-makes-you-a-better-engineer-4919)
 - [Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model](https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc)
-- [What are the core differences between SQL and no SQL like mongodb?](https://dev.to/favour_udegbunem_2e6b1d36/what-are-the-core-differences-between-sql-and-no-sql-like-mongodb-29b2)
-- [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-2hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
