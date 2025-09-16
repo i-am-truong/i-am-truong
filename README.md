@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building a Dynamic CMS-Driven Angular App Using Optimizely &amp; a Custom BFF Architecture](https://dev.to/syed_haris/building-a-dynamic-cms-driven-angular-app-using-optimizely-a-custom-bff-architecture-5ac8)
-- [How to Deal with MCP “Tool Poisoning”](https://dev.to/observabilityguy/how-to-deal-with-mcp-tool-poisoning-31d6)
-- [A Beginner’s Guide to Channel Attribution Modeling in Marketing &lpar;with Markov Chains and an R Case Study&rpar;](https://dev.to/thedatageek/a-beginners-guide-to-channel-attribution-modeling-in-marketing-with-markov-chains-and-an-r-case-3m03)
-- [Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i)
-- [Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal)
+- [Why Testing Multi-Agent AI Systems is Hard &lpar;and Why It Matters&rpar;](https://dev.to/radoslawsz/why-testing-multi-agent-ai-systems-is-hard-and-why-it-matters-2d3l)
+- [AI in Business: What Tasks Can Be Automated Today](https://dev.to/vilengyltd/ai-in-business-what-tasks-can-be-automated-today-jb0)
+- [#2 EDA!](https://dev.to/esdk/2-eda-4bok)
+- [Introduction to Apache Iceberg using MinIO](https://dev.to/minwook/introduction-to-apache-iceberg-using-minio-48o8)
+- [When Does a Visual IDE Outperform Text‑Based Code in Control Engineering?](https://dev.to/beeptec/when-does-a-visual-ide-outperform-text-based-code-in-control-engineering-27jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
