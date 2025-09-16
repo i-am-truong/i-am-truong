@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Prompting Directly to Claude Code/Codex — I Built a PRD Generator That Forces First Principles](https://dev.to/soasme/stop-prompting-directly-to-claude-codecodex-i-built-a-prd-generator-that-forces-first-principles-1284)
-- [Will Humans Ever Live to 100? A Data-Driven Journey Through Life Expectancy](https://dev.to/brentwash35/will-humans-ever-live-to-100-a-data-driven-journey-through-life-expectancy-3ip)
-- [The Most Popular Cyberspace Search Engine — ZoomEye](https://dev.to/sssq_ll_ecf57bec395b512e0/the-most-popular-cyberspace-search-engine-zoomeye-2j2m)
-- [These Are AI Coding Companions Devs Actually Love](https://dev.to/apilover/these-are-ai-coding-companions-devs-actually-love-2n1j)
-- [Check out this Article on Exploring Assumptions of K-Means Clustering Using R — 2025 Edition](https://dev.to/vamshi_e_eebe5a6287a27142/check-out-this-article-on-exploring-assumptions-of-k-means-clustering-using-r-2025-edition-3e65)
+- [Building a Real-Time Analytics Dashboard That Processes 10M Events Per Hour](https://dev.to/mikekelvin/building-a-real-time-analytics-dashboard-that-processes-10m-events-per-hour-1f2)
+- [Best Sanity Blog Templates to Kickstart Your Blogging Platforms](https://dev.to/isanjayjoshi/best-sanity-blog-templates-to-kickstart-your-blogging-platforms-4m1n)
+- [FastAPI Authentication Fundamentals](https://dev.to/masteringbackend/fastapi-authentication-fundamentals-4bdn)
+- [Optimizing the Ever-Growing Balance in the War Robots Project](https://dev.to/mygames/optimizing-the-ever-growing-balance-in-the-war-robots-project-18p)
+- [Unveiling the Top 50 Cloud Computing Interview Questions](https://dev.to/vjnvisakh/unveiling-the-top-50-cloud-computing-interview-questions-4n94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
