@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Searching, Start Coding: Find Your Perfect Hacktoberfest Issue in Minutes](https://dev.to/ai_bird/stop-searching-start-coding-find-your-perfect-hacktoberfest-issue-in-minutes-5bl9)
 - [Micro SD Card Module with Arduino](https://dev.to/akshay_jain/micro-sd-card-module-with-arduino-51kc)
 - [Laravel Policies: Do You Really Use Them in Real Projects?](https://dev.to/thecodeliner/laravel-policies-do-you-really-use-them-in-real-projects-2pa1)
 - [What is ML runtime?](https://dev.to/jimw/what-is-ml-runtime-19be)
 - [I stopped writing scripts to merge JUnit XMLs in Pytest &lpar;pytest-html-plus&rpar;](https://dev.to/kevi019/i-stopped-writing-scripts-to-merge-junit-xmls-in-pytest-19j1)
-- [Introduction to State-Driven Programming](https://dev.to/araldhafeeri/introduction-to-state-driven-programming-3elg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
