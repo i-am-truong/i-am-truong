@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate GitHub Issues with AI and n8n to Get More Time for Coding](https://dev.to/hankadev/automate-github-issues-with-ai-and-n8n-to-get-more-time-for-coding-115a)
-- [Lazy Loading in ElastiCache](https://dev.to/wakeup_flower_8591a6cb6a9/lazy-loading-in-elasticache-1ll2)
-- [GitOps Gap: Few Use Declarative Configuration To Manage State](https://dev.to/_steve_fenton_/gitops-gap-few-use-declarative-configuration-to-manage-state-45i3)
-- [Opklapbedden: Waarom ze onmisbaar zijn in moderne, compacte interieurs](https://dev.to/bremafa/opklapbedden-waarom-ze-onmisbaar-zijn-in-moderne-compacte-interieurs-4hmj)
-- [In just 3 days, PlotSenseAI Hackathon 2025 goes live!](https://dev.to/havilahacademy/in-just-3-days-plotsenseai-hackathon-2025-goes-live-register-now-via-luma-l45)
+- [My Rage, My Remedy](https://dev.to/magazine_peony_dddd3732da/my-rage-my-remedy-22ld)
+- [Top Dependency Scanners: A Comprehensive Guide](https://dev.to/samlan/top-dependency-scanners-a-comprehensive-guide-2kf)
+- [Here&#39;s How To Build Fullstack Agent Apps &lpar;Gemini, CopilotKit &amp; LangGraph&rpar;](https://dev.to/copilotkit/heres-how-to-build-fullstack-agent-apps-gemini-copilotkit-langgraph-15jb)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
+- [EZMother: Devlog #1](https://dev.to/longchau/ezmother-devlog-1-348f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
