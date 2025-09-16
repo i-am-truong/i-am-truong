@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using parseInt - Here&#39;s Why It&#39;s Slowing You Down](https://dev.to/werliton/stop-using-parseint-heres-why-its-slowing-you-down-1jll)
-- [Make Your Website Responsive | Media Queries, Overflow, Box Shadows](https://dev.to/i_am_gaurav/make-your-website-responsive-media-queries-overflow-box-shadows-3n9m)
-- [New CiberIA Sandbox with AIsecTest Now Available for Criterion-Based AI Response Evaluation](https://dev.to/gcjordi/new-ciberia-sandbox-with-aisectest-now-available-for-criterion-based-ai-response-evaluation-36dl)
-- [Java Scoped Values](https://dev.to/sadiul_hakim/java-scoped-values-57bn)
-- [Kubernetes Hands-On: Annotate, Persistent Volumes, ConfigMaps, &amp; RBAC Explained](https://dev.to/labex/kubernetes-hands-on-annotate-persistent-volumes-configmaps-rbac-explained-1cc7)
+- [A New Day, a New Security Attack on npm…](https://dev.to/joacod/a-new-day-a-new-security-attack-on-npm-1jek)
+- [Self Hosting Forgejo](https://dev.to/nuculabs_dev/self-hosting-forgejo-44kh)
+- [RAG FOR DUMMIES](https://dev.to/tech_it/rag-for-dummies-p8i)
+- [Refactor Smart Today, Move Faster Tomorrow — Part 4: Refactoring Without Regret](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-4-refactoring-without-regret-26bl)
+- [Zero Downtime Migrations: Shadow Table Strategy Explained](https://dev.to/zeedu_dev/zero-downtime-migrations-shadow-table-strategy-explained-25j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
