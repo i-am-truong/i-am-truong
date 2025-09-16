@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing: @traversable/valibot](https://dev.to/ahrjarrett/introducing-traversablevalibot-j3d)
-- [10 Minutes from First Line of Code to Live Deployment: A Super Fast Nest.js Blog Course](https://dev.to/leapcell/10-minutes-from-first-line-of-code-to-live-deployment-a-super-fast-nestjs-blog-course-1kcc)
-- [AI+UX: How to Bridge UI and Talk Seamlessly](https://dev.to/mehrandvd/aiux-how-to-bridge-ui-and-talk-seamlessly-go8)
-- [Solana in Your Pocket: Create a Mobile dApp with Wallet Login &amp; Token Transfers using React Native Expo](https://dev.to/abkgami/solana-in-your-pocket-create-a-mobile-dapp-with-wallet-login-token-transfers-using-react-native-348o)
-- [Shipping a Team Plan: Pricing, Growth, Pain Relief, and How-To](https://dev.to/soasme/shipping-a-team-plan-pricing-growth-pain-relief-and-how-to-8k1)
+- [3D Models That Explain Themselves](https://dev.to/peppers/3d-models-that-explain-themselves-48a7)
+- [Wemos D1 Mini w/ Waveshare e-Paper 2.13 HAT](https://dev.to/hubschrauber/wemos-d1-mini-w-waveshare-e-paper-213-hat-laf)
+- [The Ultimate Rust vs C/C++ Battle: Real-World Lessons from Industry Experts](https://dev.to/m-a-h-b-u-b/the-ultimate-rust-vs-cc-battle-real-world-lessons-from-industry-experts-4pf4)
+- [🧠 Top-Down vs Bottom-Up: Comprehensive Strategies for Problem Solving in Software Development](https://dev.to/mzunairtariq/top-down-vs-bottom-up-comprehensive-strategies-for-problem-solving-in-software-development-5g78)
+- [AI Revolutionizing Our Healthcare Today](https://dev.to/sebastian_reid999/ai-revolutionizing-our-healthcare-today-1hii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
