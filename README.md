@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Email Really Works: Protocols, Systems, and Their Connections](https://dev.to/shrsv/how-email-really-works-protocols-systems-and-their-connections-pdk)
-- [Karpenter vs. Cluster Autoscaler: How They Compare in 2025](https://dev.to/shohams/karpenter-vs-cluster-autoscaler-how-they-compare-in-2025-3m72)
-- [Getting Started with Supabase in a React + TypeScript App: Authentication Basics](https://dev.to/sukanta47/getting-started-with-supabase-in-a-react-typescript-app-authentication-basics-5823)
-- [Kubernetes Security: Best Practices to Protect Your Cluster](https://dev.to/protsenko/kubernetes-security-best-practices-to-protect-your-cluster-fcm)
-- [Title: Protect Your Data! Reading the Fine Print: How to Not Get Tricked Online](https://dev.to/mdcyberluv/title-protect-your-data-reading-the-fine-print-how-to-not-get-tricked-online-59pa)
+- [Using Apollo in Svelte 5](https://dev.to/daniacu/using-apollo-in-svelte-5-7ke)
+- [Shift Left Security Practices Developers Like](https://dev.to/fatihkoc/shift-left-security-practices-developers-like-5f16)
+- [What is in the Internet&#39;s Traffic Jam? A Story of TCP and UDP on a Shared Wireless Lane](https://dev.to/ksujan/what-is-in-the-internets-traffic-jam-a-story-of-tcp-and-udp-on-a-shared-wireless-lane-8j0)
+- [COLORS: Bashy | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-a-colors-encore-ef3)
+- [8-Bit Music Theory: TOP 5 Koji Kondo One-Offs](https://dev.to/music_youtube/8-bit-music-theory-top-5-koji-kondo-one-offs-3kj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
