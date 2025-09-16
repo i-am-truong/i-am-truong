@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal)
+- [How to structure a Modular Monolith](https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o)
+- [It helps beginners in ML not just preprocess data &lpar;missing values, encoding, scaling, outliers&rpar; but also generate reports + plots of transformations. ⚡](https://dev.to/rushedcomet/it-helps-beginners-in-ml-not-just-preprocess-data-missing-values-encoding-scaling-outliers-but-5ehp)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-37c2)
 - [DSA Tutorial: A Beginner’s Guide to Data Structures and Algorithms](https://dev.to/suraj_kumar_fb57ae0928df2/dsa-tutorial-a-beginners-guide-to-data-structures-and-algorithms-3n3e)
-- [Intelligent Document Splitting: Blank Page Detection with Dynamic Web TWAIN](https://dev.to/yushulx/intelligent-document-splitting-blank-page-detection-with-dynamic-web-twain-nln)
-- [How I Got Out of the Duolingo Streaks Trap &lpar;By Building My Own App&rpar;](https://dev.to/nuzairnuwais/how-i-got-out-of-the-duolingo-streaks-trap-by-building-my-own-app-eg1)
-- [AWS Console Customisation - Colour Setting](https://dev.to/shajam/aws-console-customisation-colour-setting-3og8)
-- [📘 The Ultimate Guide to Machine Learning Algorithms](https://dev.to/abhishekjaiswal_4896/the-ultimate-guide-to-machine-learning-algorithms-4kd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
