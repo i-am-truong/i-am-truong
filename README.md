@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [The Most Popular Cyberspace Search Engine — ZoomEye](https://dev.to/sssq_ll_ecf57bec395b512e0/the-most-popular-cyberspace-search-engine-zoomeye-2j2m)
 - [These Are AI Coding Companions Devs Actually Love](https://dev.to/apilover/these-are-ai-coding-companions-devs-actually-love-2n1j)
 - [Check out this Article on Exploring Assumptions of K-Means Clustering Using R — 2025 Edition](https://dev.to/vamshi_e_eebe5a6287a27142/check-out-this-article-on-exploring-assumptions-of-k-means-clustering-using-r-2025-edition-3e65)
+- [Building IntelliTask AI: An App That Automates Task Breakdown with Google AI](https://dev.to/xuanna_chen/building-intellitask-ai-an-app-that-automates-task-breakdown-with-google-ai-5dg8)
 - [Deploying a FastAPI Application on Digital Ocean Droplet with Nginx and CI/CD](https://dev.to/khavelemarline/deploying-a-fastapi-application-on-digital-ocean-droplet-with-nginx-and-cicd-4nel)
-- [Missed Period but Negative UPT? What It Could Mean](https://dev.to/ashika_chandran_857549718/missed-period-but-negative-upt-what-it-could-mean-9bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
