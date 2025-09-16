@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Analytics Dashboard That Processes 10M Events Per Hour](https://dev.to/mikekelvin/building-a-real-time-analytics-dashboard-that-processes-10m-events-per-hour-1f2)
-- [Best Sanity Blog Templates to Kickstart Your Blogging Platforms](https://dev.to/isanjayjoshi/best-sanity-blog-templates-to-kickstart-your-blogging-platforms-4m1n)
-- [FastAPI Authentication Fundamentals](https://dev.to/masteringbackend/fastapi-authentication-fundamentals-4bdn)
-- [Optimizing the Ever-Growing Balance in the War Robots Project](https://dev.to/mygames/optimizing-the-ever-growing-balance-in-the-war-robots-project-18p)
-- [Unveiling the Top 50 Cloud Computing Interview Questions](https://dev.to/vjnvisakh/unveiling-the-top-50-cloud-computing-interview-questions-4n94)
+- [Day 8 of 90 Days Free Python Code Scripts for Beginners – Build a Python Quiz App](https://dev.to/momina_raheelmoona_c59/day-8-of-90-days-free-python-code-scripts-for-beginners-build-a-python-quiz-app-2ne8)
+- [🪝 The Ultimate React Hooks Cheat Sheet &lpar;2025 Edition&rpar;](https://dev.to/deyan2306/the-ultimate-react-hooks-cheat-sheet-2025-edition-4f75)
+- [Google Experiments With Restricting Results Per Page](https://dev.to/bartek_serpapi/google-experiments-with-restricting-results-per-page-dfp)
+- [Puzzles for Hacker &lpar;task only&rpar;](https://dev.to/d3one/puzzles-for-hacker-task-only-2ekc)
+- [Why You Should Know GraphQL as a Web Developer Serious About Building Great Websites](https://dev.to/arinze_obieze/why-you-should-know-graphql-as-a-web-developer-serious-about-building-great-websites-3oo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
