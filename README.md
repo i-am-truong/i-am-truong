@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-3124)
-- [I&#39;m in Halifax, Nova Scotia where I grew up. Good to be home!](https://dev.to/ben/im-in-halifax-nova-scotia-where-i-grew-up-good-to-be-home-5efa)
-- [Making Nike Run Club Searchable](https://dev.to/callmetarush/making-nike-run-club-searchable-5bh0)
-- [Beginning my SE journey](https://dev.to/jonathan_kweku_250/beginning-my-se-journey-1m12)
-- [TᑌᑎEᗪ ᗪᗩEᗰOᑎ Iᑎ ᒪIᑎᑌX](https://dev.to/sahillearninglinux/ttetiepe-pepoegooti-iti-maititex-16m1)
+- [GitOps Gap: Few Use Declarative Configuration To Manage State](https://dev.to/_steve_fenton_/gitops-gap-few-use-declarative-configuration-to-manage-state-45i3)
+- [Opklapbedden: Waarom ze onmisbaar zijn in moderne, compacte interieurs](https://dev.to/bremafa/opklapbedden-waarom-ze-onmisbaar-zijn-in-moderne-compacte-interieurs-4hmj)
+- [CVE-2024-29415: problem solution](https://dev.to/antongolub/cve-2024-29415-problem-solution-3o3f)
+- [TanStack Router: Go to Previous page after Sign In](https://dev.to/this-is-learning/tanstack-router-go-to-previous-page-after-sign-in-51fp)
+- [A Machine Learning package that dosen&#39;t just preprocesses, but also generates a report &amp; optional Visual plots for better understanding. ⚡](https://dev.to/rushedcomet/a-machine-learning-package-that-dosent-just-preprocesses-but-also-generates-a-report-optional-2o5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
