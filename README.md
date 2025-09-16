@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring Batch Project with Multi-File Processing](https://dev.to/sadiul_hakim/spring-batch-project-with-multi-file-processing-487j)
-- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-3cda)
-- [Dev Log 20 - The Grind](https://dev.to/asx/dev-log-20-the-grind-1k4c)
-- [🚀 Matters AI &lpar;Prev. OptIQ&rpar; – Round 2 JavaScript Interview](https://dev.to/ml318097/matters-ai-prev-optiq-round-2-javascript-interview-3c63)
-- [Free-First Anime Release: My Idea for Maximizing Reach and Revenue](https://dev.to/hejhdiss/free-first-anime-release-my-idea-for-maximizing-reach-and-revenue-30a3)
+- [AI as a Tool, Not a Goal](https://dev.to/ajeetchouksey/ai-as-a-tool-not-a-goal-16fg)
+- [Beyond Keywords: Optimizing Vector Search With Filters and Caching &lpar;Part 2&rpar;](https://dev.to/mongodb/beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2-4e50)
+- [Building AuthPress: From Simple Telegram 2FA to Extensible WordPress Security Platform](https://dev.to/debba/building-authpress-from-simple-telegram-2fa-to-extensible-wordpress-security-platform-258h)
+- [A challange for you python devs all](https://dev.to/nirab_shrestha_0c0e04d4a9/a-challange-for-you-python-devs-all-3abo)
+- [Building a Human-in-the-Loop AI App with LangGraph and Ollama](https://dev.to/jamesbmour/building-a-human-in-the-loop-ai-app-with-langgraph-and-ollama-pmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
