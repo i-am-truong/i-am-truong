@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Most Popular Cyberspace Search Engine — ZoomEye](https://dev.to/sssq_ll_ecf57bec395b512e0/the-most-popular-cyberspace-search-engine-zoomeye-2j2m)
+- [These Are AI Coding Companions Devs Actually Love](https://dev.to/apilover/these-are-ai-coding-companions-devs-actually-love-2n1j)
+- [Check out this Article on Exploring Assumptions of K-Means Clustering Using R — 2025 Edition](https://dev.to/vamshi_e_eebe5a6287a27142/check-out-this-article-on-exploring-assumptions-of-k-means-clustering-using-r-2025-edition-3e65)
+- [Deploying a FastAPI Application on Digital Ocean Droplet with Nginx and CI/CD](https://dev.to/khavelemarline/deploying-a-fastapi-application-on-digital-ocean-droplet-with-nginx-and-cicd-4nel)
 - [Missed Period but Negative UPT? What It Could Mean](https://dev.to/ashika_chandran_857549718/missed-period-but-negative-upt-what-it-could-mean-9bp)
-- [Thought of the Day: Most companies are not willing to pay developers to maintain OSS-Software. OSS-Developers may introduce breaking changes as they see fit. Companies have to pay the price, when they have to upgrade their dependencies regularly.](https://dev.to/htho/thought-of-the-day-most-companies-are-not-willing-to-pay-developers-to-maintain-oss-software-kgk)
-- [The Growing Popularity of Mobile Streaming Apps](https://dev.to/charlie_oliver_083f1c2ab7/the-growing-popularity-of-mobile-streaming-apps-4i11)
-- [Free Python Challenges &lpar;with a Cybersec Twist&rpar;](https://dev.to/frank_1777acd8fc434337888/free-python-challenges-with-a-cybersec-twist-3ha6)
-- [🚀 I Built 6 AI-Powered Developer Tools in 2025 - Here&#39;s What I Learned About Autonomous Code Analysis](https://dev.to/alex_chen_ai/i-built-6-ai-powered-developer-tools-in-2025-heres-what-i-learned-about-autonomous-code-5hml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
