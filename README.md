@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to the Unreal Engine Neovim Plugin Suite](https://dev.to/taku25/a-practical-guide-to-the-unreal-engine-neovim-plugin-suite-36f4)
-- [Spring Boot Basic](https://dev.to/sadiul_hakim/spring-boot-basic-4m2)
-- [How a Robust Video Management System Improves Workflow &amp; Engagement](https://dev.to/cloudtentosoft/how-a-robust-video-management-system-improves-workflow-engagement-34h6)
-- [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
-- [Why Distributed Caches Can Become Single Points of Failure](https://dev.to/dct_technology/why-distributed-caches-can-become-single-points-of-failure-5a88)
+- [🚀 Exploring Document Parsing with Different AI Models](https://dev.to/adam_lb_ab2b034962edcc005/exploring-document-parsing-with-different-ai-models-3gnk)
+- [Puppeteer + Proxies: How to Stay Unblocked](https://dev.to/hasdata_com/puppeteer-proxies-how-to-stay-unblocked-2gmi)
+- [How to Leverage Reka Research to Build Smarter AI Apps](https://dev.to/reka/how-to-leverage-reka-research-to-build-smarter-ai-apps-2l89)
+- [React Native &lpar;CLI&rpar; Firebase Push Notifications for Android 📱🔔](https://dev.to/haider_mukhtar/react-native-cli-firebase-push-notifications-for-android-3h4l)
+- [Todo App with Spring Boot MVC and Thymeleaf.](https://dev.to/sadiul_hakim/todo-app-with-spring-boot-mvc-and-thymeleaf-5e89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
