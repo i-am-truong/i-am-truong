@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Building a Dynamic CMS-Driven Angular App Using Optimizely &amp; a Custom BFF Architecture](https://dev.to/syed_haris/building-a-dynamic-cms-driven-angular-app-using-optimizely-a-custom-bff-architecture-5ac8)
+- [How to Deal with MCP “Tool Poisoning”](https://dev.to/observabilityguy/how-to-deal-with-mcp-tool-poisoning-31d6)
+- [A Beginner’s Guide to Channel Attribution Modeling in Marketing &lpar;with Markov Chains and an R Case Study&rpar;](https://dev.to/thedatageek/a-beginners-guide-to-channel-attribution-modeling-in-marketing-with-markov-chains-and-an-r-case-3m03)
+- [Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i)
 - [Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal)
-- [How to structure a Modular Monolith](https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o)
-- [It helps beginners in ML not just preprocess data &lpar;missing values, encoding, scaling, outliers&rpar; but also generate reports + plots of transformations. ⚡](https://dev.to/rushedcomet/it-helps-beginners-in-ml-not-just-preprocess-data-missing-values-encoding-scaling-outliers-but-5ehp)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-37c2)
-- [DSA Tutorial: A Beginner’s Guide to Data Structures and Algorithms](https://dev.to/suraj_kumar_fb57ae0928df2/dsa-tutorial-a-beginners-guide-to-data-structures-and-algorithms-3n3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
