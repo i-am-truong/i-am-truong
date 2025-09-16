@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaling the Summit: How to Rank Billions of Records in Search Systems with AI](https://dev.to/satyam_chourasiya_99ea2e4/scaling-the-summit-how-to-rank-billions-of-records-in-search-systems-with-ai-1f5k)
-- [Essential SEO Metadata Tags Every Developer Should Know](https://dev.to/rijultp/essential-seo-metadata-tags-every-developer-should-know-3p5a)
-- [From Dull to Dreamy: How Painting Transforms Small Spaces](https://dev.to/painting123/from-dull-to-dreamy-how-painting-transforms-small-spaces-1ipp)
-- [Tetris](https://dev.to/micah_lee_53896c7cc68ceb9/tetris-3ife)
-- [MCP Fundamentals: Your First Java Client in 30 Lines of Code](https://dev.to/gazolla/mcp-fundamentals-your-first-java-client-in-30-lines-of-code-e0c)
+- [Title: Protect Your Data! Reading the Fine Print: How to Not Get Tricked Online](https://dev.to/mdcyberluv/title-protect-your-data-reading-the-fine-print-how-to-not-get-tricked-online-59pa)
+- [A Complete Guide to Karpenter: Everything You Need to Know](https://dev.to/shohams/a-complete-guide-to-karpenter-everything-you-need-to-know-453g)
+- [Sesiones de mentoría Ellas en Tecnología con Microsoft Reactor](https://dev.to/azure/sesiones-de-mentoria-ellas-en-tecnologia-con-microsoft-reactor-39p1)
+- [What Do Hackers Want? It&#39;s Still Your Money.](https://dev.to/mdcyberluv/what-do-hackers-want-its-still-your-money-1cgg)
+- [Mathematical deconstruction of Clash Royale’s monetization](https://dev.to/yaske0/mathematical-deconstruction-of-clash-royales-monetization-39g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
