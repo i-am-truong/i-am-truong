@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MultiAgent Architecture Practice: Building ComfyUI-Copilot V2.0 with 3k GitHub Stars](https://dev.to/_615564fae9eccc7753711/multiagent-architecture-practice-building-comfyui-copilot-v20-with-3k-github-stars-595)
 - [Construindo um SaaS Starter Kit](https://dev.to/lincolixavier/construindo-um-saas-starter-kit-26a1)
 - [[Boost]](https://dev.to/giantconfidence/-20i2)
 - [Build Dynamic Image Transformations with Filestack](https://dev.to/ideradevtools/build-dynamic-image-transformations-with-filestack-8ok)
 - [How MLOs Enhance the Gaming Experience in GTA V](https://dev.to/toby-patrick/how-mlos-enhance-the-gaming-experience-in-gta-v-41pk)
-- [My Rage, My Remedy](https://dev.to/magazine_peony_dddd3732da/my-rage-my-remedy-22ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
