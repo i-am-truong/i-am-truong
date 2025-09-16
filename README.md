@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Biometric fingerprint authentication on SmartCard Chips](https://dev.to/juliofcv/biometric-fingerprint-authentication-on-smartcard-chips-5hcm)
+- [Green Blockchain: Can Sustainable Tech Solve Energy Concerns? - 101 Blockchains #379646](https://dev.to/calgo_62400343865ec0ae72a/green-blockchain-can-sustainable-tech-solve-energy-concerns-101-blockchains-379646-2ml7)
+- [The Ultimate Cross-Framework Storage Solution](https://dev.to/eveningwater/the-ultimate-cross-framework-storage-solution-513m)
+- [Typescript : Generic Data Fetch](https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48)
 - [Part-60: Google Cloud Networking – Cloud NAT Gateway with Internal-Only VM](https://dev.to/latchudevops/part-60-google-cloud-networking-cloud-nat-gateway-with-internal-only-vm-5c2p)
-- [How Modern Supply Chains Are Embracing Cloud-Based EDI Integration](https://dev.to/rosieschuck/how-modern-supply-chains-are-embracing-cloud-based-edi-integration-18p7)
-- [SSH Key Authentication in Linux](https://dev.to/ijas9118/ssh-key-authentication-in-linux-3aoo)
-- [Wikipedia Is Rigged: How Big Tech Silences Independent Developers](https://dev.to/owly/wikipedia-is-rigged-how-big-tech-silences-independent-developers-10fb)
-- [Next.js Ecommerce Admin Dashboard: Complete Store Management Solution](https://dev.to/jqueryscript/nextjs-ecommerce-admin-dashboard-complete-store-management-solution-1f8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
