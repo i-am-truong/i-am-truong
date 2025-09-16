@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sleuths and Sweets - irisCTF](https://dev.to/davidonlinearchive/sleuths-and-sweets-irisctf-1gfa)
-- [The Password That Never Was: How to Access Secrets That Were Always There. Smart Password Library. 🔐](https://dev.to/smartlegionlab/the-password-that-never-was-how-to-access-secrets-that-were-always-there-smart-password-library-4h16)
-- [AgriTech Startup Loans in India: Unlocking Growth with Credit Guarantees](https://dev.to/gov01/agritech-startup-loans-in-india-unlocking-growth-with-credit-guarantees-4ok9)
-- [Biggest Leap in History of Server-Side Web Development, WebForms Core 1.9 is Coming!](https://dev.to/elanatframework/biggest-leap-in-history-of-server-side-web-development-webforms-core-19-is-coming-5ec6)
-- [Checking Out of Winter - irisCTF](https://dev.to/davidonlinearchive/checking-out-of-winter-irisctf-2ngj)
+- [From Freestyle to Pipeline as Code: Modern CI/CD with Jenkins](https://dev.to/umaid777/from-freestyle-to-pipeline-as-code-modern-cicd-with-jenkins-447d)
+- [Loops avançados e recursividade](https://dev.to/andresdossantos/loops-avancados-e-recursividade-4afp)
+- [Mastering Slicing and Indexing in Python: Access Data with Precision](https://dev.to/aaron_rose_0787cc8b4775a0/mastering-slicing-and-indexing-in-python-access-data-with-precision-4alp)
+- [#DAY 10: Retrospective &amp; Tuning](https://dev.to/samueladeduntan/day-10-retrospective-tuning-3obg)
+- [Sleuths and Sweets - irisCTF](https://dev.to/davidonlinearchive/sleuths-and-sweets-irisctf-2dc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
