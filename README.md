@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recriando Smartphones: DIY de Flip Phone com Case CNC e Teclado Físico](https://dev.to/mrpunkdasilva/recriando-smartphones-diy-de-flip-phone-com-case-cnc-e-teclado-fisico-2h83)
+- [Python String Formatting: From Basics to F-Strings](https://dev.to/aaron_rose_0787cc8b4775a0/python-string-formatting-from-basics-to-f-strings-58a2)
+- [How to Give AI Coding Assistants Complete Context Across Microservices with BMAD FKS](https://dev.to/vishalmysore/how-to-give-ai-coding-assistants-complete-context-across-microservices-with-bmad-fks-1p9m)
 - [Django Tip: Why Your Static Files Disappear When DEBUG = False](https://dev.to/iamthebuilder/django-tip-why-your-static-files-disappear-when-debug-false-4p4k)
 - [Building MCP Servers: Understanding Transport Layers and Core Components](https://dev.to/bansikah/building-mcp-servers-understanding-transport-layers-and-core-components-3o1o)
-- [How to Use Partial Function in Python](https://dev.to/ankitmalikg/how-to-use-partial-function-in-python-1d9a)
-- [Como uma Ligação Falsa do Suporte Google e 2FA Sincronizado na Nuvem Custou US$130.000 a um Desenvolvedor](https://dev.to/mrpunkdasilva/como-uma-ligacao-falsa-do-suporte-google-e-2fa-sincronizado-na-nuvem-custou-us130-000-a-um-5ea8)
-- [About me🤝🏻](https://dev.to/amirmajd86/about-me-1he1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
