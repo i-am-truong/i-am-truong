@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Construindo um SaaS Starter Kit](https://dev.to/lincolixavier/construindo-um-saas-starter-kit-26a1)
+- [[Boost]](https://dev.to/giantconfidence/-20i2)
+- [Build Dynamic Image Transformations with Filestack](https://dev.to/ideradevtools/build-dynamic-image-transformations-with-filestack-8ok)
+- [How MLOs Enhance the Gaming Experience in GTA V](https://dev.to/toby-patrick/how-mlos-enhance-the-gaming-experience-in-gta-v-41pk)
 - [My Rage, My Remedy](https://dev.to/magazine_peony_dddd3732da/my-rage-my-remedy-22ld)
-- [Top Dependency Scanners: A Comprehensive Guide](https://dev.to/samlan/top-dependency-scanners-a-comprehensive-guide-2kf)
-- [Here&#39;s How To Build Fullstack Agent Apps &lpar;Gemini, CopilotKit &amp; LangGraph&rpar;](https://dev.to/copilotkit/heres-how-to-build-fullstack-agent-apps-gemini-copilotkit-langgraph-15jb)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
-- [EZMother: Devlog #1](https://dev.to/longchau/ezmother-devlog-1-348f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
