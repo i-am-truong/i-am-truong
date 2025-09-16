@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Email Really Works: Protocols, Systems, and Their Connections](https://dev.to/shrsv/how-email-really-works-protocols-systems-and-their-connections-pdk)
+- [Karpenter vs. Cluster Autoscaler: How They Compare in 2025](https://dev.to/shohams/karpenter-vs-cluster-autoscaler-how-they-compare-in-2025-3m72)
+- [Getting Started with Supabase in a React + TypeScript App: Authentication Basics](https://dev.to/sukanta47/getting-started-with-supabase-in-a-react-typescript-app-authentication-basics-5823)
 - [Kubernetes Security: Best Practices to Protect Your Cluster](https://dev.to/protsenko/kubernetes-security-best-practices-to-protect-your-cluster-fcm)
 - [Title: Protect Your Data! Reading the Fine Print: How to Not Get Tricked Online](https://dev.to/mdcyberluv/title-protect-your-data-reading-the-fine-print-how-to-not-get-tricked-online-59pa)
-- [A Complete Guide to Karpenter: Everything You Need to Know](https://dev.to/shohams/a-complete-guide-to-karpenter-everything-you-need-to-know-453g)
-- [Sesiones de mentoría Ellas en Tecnología con Microsoft Reactor](https://dev.to/azure/sesiones-de-mentoria-ellas-en-tecnologia-con-microsoft-reactor-39p1)
-- [What Do Hackers Want? It&#39;s Still Your Money.](https://dev.to/mdcyberluv/what-do-hackers-want-its-still-your-money-1cgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
