@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PYTHON COURSE FREE #AI #FREE #PYTHON #COURSES](https://dev.to/promyklunafreya_blackel/python-course-free-ai-free-python-courses-5666)
+- [Here’s how far I’ve come after 7 days of grinding on system design.](https://dev.to/navidreza80/heres-how-far-ive-come-after-7-days-of-grinding-on-system-design-55j3)
 - [Mastering Regular Expressions with the Regex Tester Tool](https://dev.to/javediqbal8381/mastering-regular-expressions-with-the-regex-tester-tool-43pi)
 - [LeetCode 206: Reverse Linked List - &lpar;Easy&rpar;](https://dev.to/grantdotdev/leetcode-206-reverse-linked-list-easy-2l6h)
 - [AI Lingo, Decoded: 20 Buzzwords You Need to Know](https://dev.to/foysal_imtiaz/ai-lingo-decoded-20-buzzwords-you-need-to-know-n9p)
