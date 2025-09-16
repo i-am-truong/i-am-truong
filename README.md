@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built an all in one 🤖AI tool to turn software development chaos into structure - need your feedback! [Use it for FREE]](https://dev.to/vino123/built-an-all-in-one-ai-tool-to-turn-software-development-chaos-into-structure-need-your-3lk)
-- [Comprehensive Guide to Selecting the Right RAG Evaluation Platform](https://dev.to/kuldeep_paul/comprehensive-guide-to-selecting-the-right-rag-evaluation-platform-22l3)
-- [How to Connect React with MySQL &lpar;Step by Step Guide&rpar;](https://dev.to/nahidtd/how-to-connect-react-with-mysql-step-by-step-guide-3n9m)
-- [Urban Skies: Navigating Drone Delivery Regulations](https://dev.to/lori-spatt/urban-skies-navigating-drone-delivery-regulations-1f16)
-- [Memilih Primary Key, INT Auto Increment vs UUID](https://dev.to/naandan/memilih-primary-key-int-auto-increment-vs-uuid-2feb)
+- [Spring Batch Project with Multi-File Processing](https://dev.to/sadiul_hakim/spring-batch-project-with-multi-file-processing-487j)
+- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-3cda)
+- [Dev Log 20 - The Grind](https://dev.to/asx/dev-log-20-the-grind-1k4c)
+- [🚀 Matters AI &lpar;Prev. OptIQ&rpar; – Round 2 JavaScript Interview](https://dev.to/ml318097/matters-ai-prev-optiq-round-2-javascript-interview-3c63)
+- [Free-First Anime Release: My Idea for Maximizing Reach and Revenue](https://dev.to/hejhdiss/free-first-anime-release-my-idea-for-maximizing-reach-and-revenue-30a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
