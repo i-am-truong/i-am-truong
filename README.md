@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Stop Wasting Time With REST – Build Real-Time Apps with SQL Over WebSockets!](https://dev.to/ekwoster/stop-wasting-time-with-rest-build-real-time-apps-with-sql-over-websockets-54p7)
-- [Top 10 Linux Commands](https://dev.to/roshan_sharma_617a6e70ff5/top-10-linux-commands-56m7)
-- [KEXP: Gouge Away - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-full-performance-live-on-kexp-5d41)
-- [Securing Agentic AI Systems](https://dev.to/aws-builders/securing-agentic-ai-systems-2i93)
-- [How I Deployed and Self-Hosted n8n on Ubuntu 24.04 🚀](https://dev.to/prime_1/how-i-deployed-and-self-hosted-n8n-on-ubuntu-2404-12ao)
+- [[Boost]](https://dev.to/uliyahoo/-ng7)
+- [The Security Vulnerabilities Hiding in Your MCP Servers](https://dev.to/leomarsh/the-security-vulnerabilities-hiding-in-your-mcp-servers-4m2)
+- [Token Counting Meets Amazon Bedrock](https://dev.to/aws/token-counting-meets-amazon-bedrock-4dk5)
+- [Docker, Windows &amp; chasing missing disk space](https://dev.to/ryansgi/docker-windows-chasing-missing-disk-space-2b0k)
+- [I Stumbled Into Documentation-Driven Development](https://dev.to/sailorfe/i-stumbled-into-documentation-driven-development-108k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
