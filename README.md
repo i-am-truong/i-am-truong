@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Built an all in one 🤖AI tool to turn software development chaos into structure - need your feedback! [Use it for FREE]](https://dev.to/vino123/built-an-all-in-one-ai-tool-to-turn-software-development-chaos-into-structure-need-your-3lk)
 - [Comprehensive Guide to Selecting the Right RAG Evaluation Platform](https://dev.to/kuldeep_paul/comprehensive-guide-to-selecting-the-right-rag-evaluation-platform-22l3)
-- [Optimizely CMS With Angular In Decoupled Environment](https://dev.to/syed_haris/optimizely-cms-with-angular-in-decoupled-environment-3jgp)
 - [How to Connect React with MySQL &lpar;Step by Step Guide&rpar;](https://dev.to/nahidtd/how-to-connect-react-with-mysql-step-by-step-guide-3n9m)
 - [Urban Skies: Navigating Drone Delivery Regulations](https://dev.to/lori-spatt/urban-skies-navigating-drone-delivery-regulations-1f16)
+- [Memilih Primary Key, INT Auto Increment vs UUID](https://dev.to/naandan/memilih-primary-key-int-auto-increment-vs-uuid-2feb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
