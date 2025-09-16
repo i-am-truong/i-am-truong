@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Tip: Why Your Static Files Disappear When DEBUG = False](https://dev.to/iamthebuilder/django-tip-why-your-static-files-disappear-when-debug-false-4p4k)
 - [Building MCP Servers: Understanding Transport Layers and Core Components](https://dev.to/bansikah/building-mcp-servers-understanding-transport-layers-and-core-components-3o1o)
 - [How to Use Partial Function in Python](https://dev.to/ankitmalikg/how-to-use-partial-function-in-python-1d9a)
 - [Como uma Ligação Falsa do Suporte Google e 2FA Sincronizado na Nuvem Custou US$130.000 a um Desenvolvedor](https://dev.to/mrpunkdasilva/como-uma-ligacao-falsa-do-suporte-google-e-2fa-sincronizado-na-nuvem-custou-us130-000-a-um-5ea8)
 - [About me🤝🏻](https://dev.to/amirmajd86/about-me-1he1)
-- [HackSpire’25: Where Innovation Meets Community](https://dev.to/ethereal_eyes_bcbfa69748a/hackspire25-where-innovation-meets-community-59b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
