@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MultiAgent Architecture Practice: Building ComfyUI-Copilot V2.0 with 3k GitHub Stars](https://dev.to/_615564fae9eccc7753711/multiagent-architecture-practice-building-comfyui-copilot-v20-with-3k-github-stars-595)
-- [Construindo um SaaS Starter Kit](https://dev.to/lincolixavier/construindo-um-saas-starter-kit-26a1)
-- [[Boost]](https://dev.to/giantconfidence/-20i2)
-- [Build Dynamic Image Transformations with Filestack](https://dev.to/ideradevtools/build-dynamic-image-transformations-with-filestack-8ok)
-- [How MLOs Enhance the Gaming Experience in GTA V](https://dev.to/toby-patrick/how-mlos-enhance-the-gaming-experience-in-gta-v-41pk)
+- [🔥 Stop Wasting Time With REST – Build Real-Time Apps with SQL Over WebSockets!](https://dev.to/ekwoster/stop-wasting-time-with-rest-build-real-time-apps-with-sql-over-websockets-54p7)
+- [Top 10 Linux Commands](https://dev.to/roshan_sharma_617a6e70ff5/top-10-linux-commands-56m7)
+- [KEXP: Gouge Away - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-full-performance-live-on-kexp-5d41)
+- [Securing Agentic AI Systems](https://dev.to/aws-builders/securing-agentic-ai-systems-2i93)
+- [How I Deployed and Self-Hosted n8n on Ubuntu 24.04 🚀](https://dev.to/prime_1/how-i-deployed-and-self-hosted-n8n-on-ubuntu-2404-12ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
