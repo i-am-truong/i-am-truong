@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Pod with Public IP](https://dev.to/abhijeetmohanan/a-pod-with-public-ip-59m7)
-- [From Zero to CRUD - A Tiny Spring Boot H2 Boilerplate You’ll Actually Use](https://dev.to/boiler_agents/from-zero-to-crud-a-tiny-spring-boot-h2-boilerplate-youll-actually-use-15k6)
-- [Vectorization in Python for Machine Learning](https://dev.to/stephcrown/vectorization-in-python-for-machine-learning-5hne)
-- [5 Mistakes Scrum Masters Make When Using Zenhub &lpar;and How to Avoid Them&rpar;](https://dev.to/gsauzande/5-mistakes-scrum-masters-make-when-using-zenhub-and-how-to-avoid-them-4fbh)
-- [afterRenderEffect, afterNextRender, afterEveryRender &amp; Renderer2](https://dev.to/this-is-angular/afterrendereffect-afternextrender-aftereveryrender-renderer2-106o)
+- [Scaling the Summit: How to Rank Billions of Records in Search Systems with AI](https://dev.to/satyam_chourasiya_99ea2e4/scaling-the-summit-how-to-rank-billions-of-records-in-search-systems-with-ai-1f5k)
+- [Essential SEO Metadata Tags Every Developer Should Know](https://dev.to/rijultp/essential-seo-metadata-tags-every-developer-should-know-3p5a)
+- [From Dull to Dreamy: How Painting Transforms Small Spaces](https://dev.to/painting123/from-dull-to-dreamy-how-painting-transforms-small-spaces-1ipp)
+- [Tetris](https://dev.to/micah_lee_53896c7cc68ceb9/tetris-3ife)
+- [MCP Fundamentals: Your First Java Client in 30 Lines of Code](https://dev.to/gazolla/mcp-fundamentals-your-first-java-client-in-30-lines-of-code-e0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
