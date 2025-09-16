@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Security: Best Practices to Protect Your Cluster](https://dev.to/protsenko/kubernetes-security-best-practices-to-protect-your-cluster-fcm)
 - [Title: Protect Your Data! Reading the Fine Print: How to Not Get Tricked Online](https://dev.to/mdcyberluv/title-protect-your-data-reading-the-fine-print-how-to-not-get-tricked-online-59pa)
 - [A Complete Guide to Karpenter: Everything You Need to Know](https://dev.to/shohams/a-complete-guide-to-karpenter-everything-you-need-to-know-453g)
 - [Sesiones de mentoría Ellas en Tecnología con Microsoft Reactor](https://dev.to/azure/sesiones-de-mentoria-ellas-en-tecnologia-con-microsoft-reactor-39p1)
 - [What Do Hackers Want? It&#39;s Still Your Money.](https://dev.to/mdcyberluv/what-do-hackers-want-its-still-your-money-1cgg)
-- [Mathematical deconstruction of Clash Royale’s monetization](https://dev.to/yaske0/mathematical-deconstruction-of-clash-royales-monetization-39g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
