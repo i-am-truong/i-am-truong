@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taming S3 Costs: Automated Reports with Lambda, Python, Athena &amp; SES &lpar;because weekends are for coffee, not cost reports ☕&rpar;](https://dev.to/bijay_raj_singh_deo/taming-s3-costs-automated-reports-with-lambda-python-athena-ses-because-weekends-are-for-5476)
+- [Spec Driven Development &lpar;SDD&rpar; - A initial review](https://dev.to/danielsogl/spec-driven-development-sdd-a-initial-review-2llp)
+- [CLI based Youtube video downloader written in python with advanced features — Need contributors and feedback](https://dev.to/kaifcodec/cli-based-youtube-video-downloader-written-in-python-with-advanced-features-need-contributors-and-6h8)
 - [A New Day, a New Security Attack on npm…](https://dev.to/joacod/a-new-day-a-new-security-attack-on-npm-1jek)
 - [Self Hosting Forgejo](https://dev.to/nuculabs_dev/self-hosting-forgejo-44kh)
-- [RAG FOR DUMMIES](https://dev.to/tech_it/rag-for-dummies-p8i)
-- [Refactor Smart Today, Move Faster Tomorrow — Part 4: Refactoring Without Regret](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-4-refactoring-without-regret-26bl)
-- [Zero Downtime Migrations: Shadow Table Strategy Explained](https://dev.to/zeedu_dev/zero-downtime-migrations-shadow-table-strategy-explained-25j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
