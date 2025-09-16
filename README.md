@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate GitHub Issues with AI and n8n to Get More Time for Coding](https://dev.to/hankadev/automate-github-issues-with-ai-and-n8n-to-get-more-time-for-coding-115a)
+- [Lazy Loading in ElastiCache](https://dev.to/wakeup_flower_8591a6cb6a9/lazy-loading-in-elasticache-1ll2)
 - [GitOps Gap: Few Use Declarative Configuration To Manage State](https://dev.to/_steve_fenton_/gitops-gap-few-use-declarative-configuration-to-manage-state-45i3)
 - [Opklapbedden: Waarom ze onmisbaar zijn in moderne, compacte interieurs](https://dev.to/bremafa/opklapbedden-waarom-ze-onmisbaar-zijn-in-moderne-compacte-interieurs-4hmj)
-- [CVE-2024-29415: problem solution](https://dev.to/antongolub/cve-2024-29415-problem-solution-3o3f)
-- [TanStack Router: Go to Previous page after Sign In](https://dev.to/this-is-learning/tanstack-router-go-to-previous-page-after-sign-in-51fp)
-- [A Machine Learning package that dosen&#39;t just preprocesses, but also generates a report &amp; optional Visual plots for better understanding. ⚡](https://dev.to/rushedcomet/a-machine-learning-package-that-dosent-just-preprocesses-but-also-generates-a-report-optional-2o5b)
+- [In just 3 days, PlotSenseAI Hackathon 2025 goes live!](https://dev.to/havilahacademy/in-just-3-days-plotsenseai-hackathon-2025-goes-live-register-now-via-luma-l45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
