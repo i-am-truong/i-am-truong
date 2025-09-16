@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI as a Tool, Not a Goal](https://dev.to/ajeetchouksey/ai-as-a-tool-not-a-goal-16fg)
-- [Beyond Keywords: Optimizing Vector Search With Filters and Caching &lpar;Part 2&rpar;](https://dev.to/mongodb/beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2-4e50)
-- [Building AuthPress: From Simple Telegram 2FA to Extensible WordPress Security Platform](https://dev.to/debba/building-authpress-from-simple-telegram-2fa-to-extensible-wordpress-security-platform-258h)
-- [A challange for you python devs all](https://dev.to/nirab_shrestha_0c0e04d4a9/a-challange-for-you-python-devs-all-3abo)
-- [Building a Human-in-the-Loop AI App with LangGraph and Ollama](https://dev.to/jamesbmour/building-a-human-in-the-loop-ai-app-with-langgraph-and-ollama-pmn)
+- [Streamline Your LaTeX Workflow with Docker and VS Code: The Ultimate Setup Guide](https://dev.to/tim012432/streamline-your-latex-workflow-with-docker-and-vs-code-the-ultimate-setup-guide-3mnc)
+- [How to Make Your Portfolio Stand Out &lpar;Without Being Weird&rpar;](https://dev.to/tariqsiddiqui01/how-to-make-your-portfolio-stand-out-without-being-weird-26j0)
+- [X-Ray for Agents: Observability &amp; Safe Tooling with MintMCP](https://dev.to/om_shree_0709/x-ray-for-agents-observability-safe-tooling-with-mintmcp-4ogl)
+- [Solving Elm Router &quot;Double Update&quot; Problem](https://dev.to/rinn7e/solving-elm-router-double-update-problem-dde)
+- [Masking Sensitive Data in CloudWatch Logs for APIs &lpar;and keeping your secrets safe!&rpar;](https://dev.to/bijay_singhdeo_5c434a04a/masking-sensitive-data-in-cloudwatch-logs-for-apis-and-keeping-your-secrets-safe-49dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
