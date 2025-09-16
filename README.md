@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker – Complete Learning Guide 🐳](https://dev.to/iamshanmugananthan/docker-complete-learning-guide-1no7)
-- [✨ Enabling SSR &lpar;Server-Side Rendering&rpar; in Angular Application](https://dev.to/syed_haris/enabling-ssr-server-side-rendering-in-angular-application-20kg)
-- [Beyond LLMs: Awesome NLP Things One can Do With SpaCy](https://dev.to/shrsv/beyond-llms-awesome-nlp-things-one-can-do-with-spacy-137d)
-- [🚀 Exploring Document Parsing with Different AI Models](https://dev.to/adam_lb_ab2b034962edcc005/exploring-document-parsing-with-different-ai-models-3gnk)
-- [Puppeteer + Proxies: How to Stay Unblocked](https://dev.to/hasdata_com/puppeteer-proxies-how-to-stay-unblocked-2gmi)
+- [Built an all in one 🤖AI tool to turn software development chaos into structure - need your feedback! [Use it for FREE]](https://dev.to/vino123/built-an-all-in-one-ai-tool-to-turn-software-development-chaos-into-structure-need-your-3lk)
+- [Comprehensive Guide to Selecting the Right RAG Evaluation Platform](https://dev.to/kuldeep_paul/comprehensive-guide-to-selecting-the-right-rag-evaluation-platform-22l3)
+- [Optimizely CMS With Angular In Decoupled Environment](https://dev.to/syed_haris/optimizely-cms-with-angular-in-decoupled-environment-3jgp)
+- [How to Connect React with MySQL &lpar;Step by Step Guide&rpar;](https://dev.to/nahidtd/how-to-connect-react-with-mysql-step-by-step-guide-3n9m)
+- [Urban Skies: Navigating Drone Delivery Regulations](https://dev.to/lori-spatt/urban-skies-navigating-drone-delivery-regulations-1f16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
