@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#14 Extracting a Nibble from an 8-bit Register in C](https://dev.to/hrishikesh_karande/14-extracting-a-nibble-from-an-8-bit-register-in-c-473m)
 - [Shakespeare makes you a better engineer.](https://dev.to/justinschroeder/shakespeare-makes-you-a-better-engineer-4919)
 - [Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model](https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc)
 - [What are the core differences between SQL and no SQL like mongodb?](https://dev.to/favour_udegbunem_2e6b1d36/what-are-the-core-differences-between-sql-and-no-sql-like-mongodb-29b2)
 - [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-2hp)
-- [# Introduction to IoT, Data, and Analytics Concepts](https://dev.to/chinemerem_okpara_9f0dbbc/-introduction-to-iot-data-and-analytics-concepts-2ocf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
