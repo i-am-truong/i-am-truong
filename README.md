@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Software Dependencies Made Simple: A Beginner’s Guide](https://dev.to/jennifer_devsamurai/software-dependencies-made-simple-a-beginners-guide-1he0)
-- [Agricultural Quantum AI: Predicting Crop Yields with Subatomic Precision](https://dev.to/kushvanth_chowdarynagabh/agricultural-quantum-ai-predicting-crop-yields-with-subatomic-precision-59l3)
-- [Async Await Delay](https://dev.to/elshoddev/async-await-delay-gh7)
-- [Introduction to US Stock Market](https://dev.to/madgan95/introduction-to-us-stock-market-5g32)
-- [🎮 Fun Fact from My AR Mini-Game Experiment](https://dev.to/cutieyunnytech/fun-fact-from-my-ar-mini-game-experiment-5f6l)
+- [Wikipedia Is Rigged: How Big Tech Silences Independent Developers](https://dev.to/owly/wikipedia-is-rigged-how-big-tech-silences-independent-developers-10fb)
+- [Next.js Ecommerce Admin Dashboard: Complete Store Management Solution](https://dev.to/jqueryscript/nextjs-ecommerce-admin-dashboard-complete-store-management-solution-1f8f)
+- [Building a Chatbot with Python &lpar;Frontend&rpar;](https://dev.to/ackahman/building-a-chatbot-with-python-frontend-2f2c)
+- [Beginner’s Guide for &quot;Replace Non-Coprime Numbers in Array&quot; &lpar;LeetCode 2197&rpar; with C++, JavaScript &amp; Python Code](https://dev.to/om_shree_0709/beginners-guide-for-replace-non-coprime-numbers-in-array-leetcode-2197-with-c-javascript--218k)
+- [Understanding Core Concepts of LangGraph &lpar;Deep Dive&rpar;](https://dev.to/raunaklallala/understanding-core-concepts-of-langgraph-deep-dive-1d7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
