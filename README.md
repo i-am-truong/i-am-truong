@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New CiberIA Sandbox with AIsecTest Now Available for Criterion-Based AI Response Evaluation](https://dev.to/gcjordi/new-ciberia-sandbox-with-aisectest-now-available-for-criterion-based-ai-response-evaluation-36dl)
+- [Java Scoped Values](https://dev.to/sadiul_hakim/java-scoped-values-57bn)
 - [Simple MCP tool using NodeJS](https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm)
 - [Deployments in the Agentic Era](https://dev.to/defanglabs/deployments-in-the-agentic-era-1m2h)
 - [SQLite dot commands: run system shell commands](https://dev.to/mr_destructive/sqlite-dot-commands-run-system-shell-commands-3ao4)
-- [[Boost]](https://dev.to/uliyahoo/-ng7)
-- [The Security Vulnerabilities Hiding in Your MCP Servers](https://dev.to/leomarsh/the-security-vulnerabilities-hiding-in-your-mcp-servers-4m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
