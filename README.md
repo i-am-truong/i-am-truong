@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Borderlands 4 Vault Boss Gameplay on RTX 5090 - 4K, Max Settings](https://dev.to/gg_news/ign-borderlands-4-vault-boss-gameplay-on-rtx-5090-4k-max-settings-5e30)
-- [IGN: Hollow Knight: Silksong Boss Fight - Skull Tyrant &lpar;The Marrow&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-skull-tyrant-the-marrow-3h1c)
-- [Ringer Movies: ‘Weapons’ is a Classic. Is It an Oscar Contender?](https://dev.to/popcorn_movies/ringer-movies-weapons-is-a-classic-is-it-an-oscar-contender-31e8)
-- [A beginner&#39;s guide to the Nano-Banana model by Google on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-nano-banana-model-by-google-on-replicate-1gl3)
-- [Understanding Neural Networks: From Neurons to LLMs](https://dev.to/siva1b3/understanding-neural-networks-from-neurons-to-llms-5057)
+- [Publishing a newsletter consistently is one of the best ways to build authority. I’ve been running the ReThynk AI Newsletter with 30,000+ global readers. The secret isn’t writing more. It’s building a repeatable system where AI handles everything.](https://dev.to/jaideepparashar/publishing-a-newsletter-consistently-is-one-of-the-best-ways-to-build-authority-ive-been-3hd)
+- [🚀 Montessori-Inspired AR Mini-Game Prototype: Learning by Doing + LEGO 3D + Shape Stitching](https://dev.to/cutieyunnytech/montessori-inspired-ar-mini-game-prototype-learning-by-doing-lego-3d-shape-stitching-nll)
+- [The AI Workflow That Runs My Newsletter &lpar;Step-by-Step&rpar;](https://dev.to/jaideepparashar/the-ai-workflow-that-runs-my-newsletter-step-by-step-48do)
+- [Simplified API for vector based spatial analysis.](https://dev.to/timhirrel/simplified-api-for-vector-based-spatial-analysis-4dai)
+- [No subscriptions, no paywalls — just a straightforward QR generator that works right in your browser 🚀.](https://dev.to/mrzaizai2k/no-subscriptions-no-paywalls-just-a-straightforward-qr-generator-that-works-right-in-your-1npg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
