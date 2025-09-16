@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Art of the Bounce: Crafting a Self-Healing Job Processing System](https://dev.to/alex_aslam/the-art-of-the-bounce-crafting-a-self-healing-job-processing-system-dag)
+- [The Art of the Graceful Evolution: API Versioning as a Craft](https://dev.to/alex_aslam/the-art-of-the-graceful-evolution-api-versioning-as-a-craft-1api)
+- [How We Saved 600 Hours of Support Work with AI in a Ticketing System](https://dev.to/devfamdk/how-we-saved-600-hours-of-support-work-with-ai-in-a-ticketing-system-5c2b)
 - [Build Once and Teach Forever: Scaling Developer Content Creation with GitHub](https://dev.to/shieldstring/build-once-and-teach-forever-scaling-developer-content-creation-with-github-1a55)
 - [Como implementar um Ledger](https://dev.to/dvorlandi/como-implementar-um-ledger-5hn9)
-- [The Job Pilot Chronicles: 94 Commits, 27 Days, and the Brutal Reality of AI-Assisted Development](https://dev.to/alexretana/the-job-pilot-chronicles-94-commits-27-days-and-the-brutal-reality-of-ai-assisted-development-2cek)
-- [Guia de Python PT-BR #3: Loops &lpar;for e while&rpar; 🔄](https://dev.to/vgermanndev/guia-de-python-pt-br-3-loops-for-e-while-1gll)
-- [Building Extendable CRUD: How I Use Admiral to Create Flexible Admin Interfaces](https://dev.to/devfamdk/building-extendable-crud-how-i-use-admiral-to-create-flexible-admin-interfaces-218k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
