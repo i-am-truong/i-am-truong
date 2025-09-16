@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AgriTech Startup Loans in India: Unlocking Growth with Credit Guarantees](https://dev.to/gov01/agritech-startup-loans-in-india-unlocking-growth-with-credit-guarantees-4ok9)
 - [Checking Out of Winter - irisCTF](https://dev.to/davidonlinearchive/checking-out-of-winter-irisctf-2ngj)
 - [Will AI Agents Kill Coding—or Make Us 10x Developers?](https://dev.to/nikhilwagh/will-ai-agents-kill-coding-or-make-us-10x-developers-526o)
 - [Svelte’s Growing Pains: Runes, Stores, and the Quest for Standards](https://dev.to/daniacu/sveltes-growing-pains-runes-stores-and-the-quest-for-standards-3j98)
 - [Using Apollo in Svelte 5](https://dev.to/daniacu/using-apollo-in-svelte-5-7ke)
-- [Shift Left Security Practices Developers Like](https://dev.to/fatihkoc/shift-left-security-practices-developers-like-5f16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
