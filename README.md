@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model](https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc)
+- [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-2hp)
+- [# Introduction to IoT, Data, and Analytics Concepts](https://dev.to/chinemerem_okpara_9f0dbbc/-introduction-to-iot-data-and-analytics-concepts-2ocf)
+- [Beyond the Build: Navigating Modern Software Development](https://dev.to/mark_jeff/beyond-the-build-navigating-modern-software-development-4ndg)
 - [IGN: Valheim - Official PlayStation Announcement Trailer &lpar;ft. Neil Newbon&rpar;](https://dev.to/gg_news/ign-valheim-official-playstation-announcement-trailer-ft-neil-newbon-5865)
-- [IGN: Dragon Ball Xenoverse 2 - Official Future Saga Chapter 3 Trailer](https://dev.to/gg_news/ign-dragon-ball-xenoverse-2-official-future-saga-chapter-3-trailer-ln)
-- [NestJS Authentication with Stytch: Complete Starter Guide](https://dev.to/u11d/nestjs-authentication-with-stytch-complete-starter-guide-3aon)
-- [Associações polimórficas no Rails: como fazer, prós e contras](https://dev.to/pedroleo/associacoes-polimorficas-no-rails-como-fazer-pros-e-contras-450m)
-- [Recriando Smartphones: DIY de Flip Phone com Case CNC e Teclado Físico](https://dev.to/mrpunkdasilva/recriando-smartphones-diy-de-flip-phone-com-case-cnc-e-teclado-fisico-2h83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
