@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Fixing &quot;SQLSTATE[HY000]: General error: no such table: sessions&quot; in Laravel &lpar;SQLite / MySQL&rpar;](https://dev.to/chiragx309/fixing-sqlstatehy000-general-error-no-such-table-sessions-in-laravel-sqlite-mysql-1595)
-- [Sharing Variables Across Workspaces in Requestly](https://dev.to/requestly/sharing-variables-across-workspaces-in-requestly-27md)
-- [Angular Addicts #41: Angular 20.2, Animations, Monorepos &amp; more](https://dev.to/this-is-angular/angular-addicts-41-angular-202-animations-monorepos-more-2la4)
-- [Don&#39;t Miss the Java 25 Launch Livestream Today!](https://dev.to/thedavestack/dont-miss-the-java-25-launch-livestream-today-5e1d)
-- [How I’m Learning to Code in the AI Age &lpar;2025-2026 Edition&rpar;](https://dev.to/the_mj_super/how-im-learning-to-code-in-the-ai-age-2025-2026-edition-3b8l)
+- [🚀 Partial Pre-Rendering &lpar;PPR&rpar; in Next.js](https://dev.to/shaahzaibrehman/partial-pre-rendering-ppr-in-nextjs-5e8p)
+- [The Courage to Let Silence Do the Work](https://dev.to/remejuan/the-courage-to-let-silence-do-the-work-17aa)
+- [Automating ENI Failover with AWS Lambda + EventBridge](https://dev.to/poudeldipak/automating-eni-failover-with-aws-lambda-eventbridge-a24)
+- [JavaScript == vs ===: The Ultimate Guide to Comparison](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-vs-the-ultimate-guide-to-comparison-174j)
+- [Mastering JavaScript Booleans: A Complete Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-javascript-booleans-a-complete-guide-with-examples-best-practices-1fnp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
