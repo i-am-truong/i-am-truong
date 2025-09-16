@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sleuths and Sweets - irisCTF](https://dev.to/davidonlinearchive/sleuths-and-sweets-irisctf-1gfa)
+- [The Password That Never Was: How to Access Secrets That Were Always There. Smart Password Library. 🔐](https://dev.to/smartlegionlab/the-password-that-never-was-how-to-access-secrets-that-were-always-there-smart-password-library-4h16)
 - [AgriTech Startup Loans in India: Unlocking Growth with Credit Guarantees](https://dev.to/gov01/agritech-startup-loans-in-india-unlocking-growth-with-credit-guarantees-4ok9)
+- [Biggest Leap in History of Server-Side Web Development, WebForms Core 1.9 is Coming!](https://dev.to/elanatframework/biggest-leap-in-history-of-server-side-web-development-webforms-core-19-is-coming-5ec6)
 - [Checking Out of Winter - irisCTF](https://dev.to/davidonlinearchive/checking-out-of-winter-irisctf-2ngj)
-- [Will AI Agents Kill Coding—or Make Us 10x Developers?](https://dev.to/nikhilwagh/will-ai-agents-kill-coding-or-make-us-10x-developers-526o)
-- [Svelte’s Growing Pains: Runes, Stores, and the Quest for Standards](https://dev.to/daniacu/sveltes-growing-pains-runes-stores-and-the-quest-for-standards-3j98)
-- [Using Apollo in Svelte 5](https://dev.to/daniacu/using-apollo-in-svelte-5-7ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
