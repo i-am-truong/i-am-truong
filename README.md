@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Your LaTeX Workflow with Docker and VS Code: The Ultimate Setup Guide](https://dev.to/tim012432/streamline-your-latex-workflow-with-docker-and-vs-code-the-ultimate-setup-guide-3mnc)
-- [How to Make Your Portfolio Stand Out &lpar;Without Being Weird&rpar;](https://dev.to/tariqsiddiqui01/how-to-make-your-portfolio-stand-out-without-being-weird-26j0)
-- [X-Ray for Agents: Observability &amp; Safe Tooling with MintMCP](https://dev.to/om_shree_0709/x-ray-for-agents-observability-safe-tooling-with-mintmcp-4ogl)
-- [Solving Elm Router &quot;Double Update&quot; Problem](https://dev.to/rinn7e/solving-elm-router-double-update-problem-dde)
-- [Masking Sensitive Data in CloudWatch Logs for APIs &lpar;and keeping your secrets safe!&rpar;](https://dev.to/bijay_singhdeo_5c434a04a/masking-sensitive-data-in-cloudwatch-logs-for-apis-and-keeping-your-secrets-safe-49dk)
+- [PYTHON COURSE FREE #AI #FREE #PYTHON #COURSES](https://dev.to/promyklunafreya_blackel/python-course-free-ai-free-python-courses-5666)
+- [Mastering Regular Expressions with the Regex Tester Tool](https://dev.to/javediqbal8381/mastering-regular-expressions-with-the-regex-tester-tool-43pi)
+- [LeetCode 206: Reverse Linked List - &lpar;Easy&rpar;](https://dev.to/grantdotdev/leetcode-206-reverse-linked-list-easy-2l6h)
+- [AI Lingo, Decoded: 20 Buzzwords You Need to Know](https://dev.to/foysal_imtiaz/ai-lingo-decoded-20-buzzwords-you-need-to-know-n9p)
+- [The future of manual testing in the age of AI](https://dev.to/ashika_kandasamy_c89f98d1/the-future-of-manual-testing-in-the-age-of-ai-2mn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
