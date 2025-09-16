@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Taming S3 Costs: Automated Reports with Lambda, Python, Athena &amp; SES &lpar;because weekends are for coffee, not cost reports ☕&rpar;](https://dev.to/bijay_raj_singh_deo/taming-s3-costs-automated-reports-with-lambda-python-athena-ses-because-weekends-are-for-5476)
-- [Spec Driven Development &lpar;SDD&rpar; - A initial review](https://dev.to/danielsogl/spec-driven-development-sdd-a-initial-review-2llp)
-- [CLI based Youtube video downloader written in python with advanced features — Need contributors and feedback](https://dev.to/kaifcodec/cli-based-youtube-video-downloader-written-in-python-with-advanced-features-need-contributors-and-6h8)
-- [A New Day, a New Security Attack on npm…](https://dev.to/joacod/a-new-day-a-new-security-attack-on-npm-1jek)
-- [Self Hosting Forgejo](https://dev.to/nuculabs_dev/self-hosting-forgejo-44kh)
+- [Vectorization in Python for Machine Learning](https://dev.to/stephcrown/vectorization-in-python-for-machine-learning-5hne)
+- [5 Mistakes Scrum Masters Make When Using Zenhub &lpar;and How to Avoid Them&rpar;](https://dev.to/gsauzande/5-mistakes-scrum-masters-make-when-using-zenhub-and-how-to-avoid-them-4fbh)
+- [afterRenderEffect, afterNextRender, afterEveryRender &amp; Renderer2](https://dev.to/this-is-angular/afterrendereffect-afternextrender-aftereveryrender-renderer2-106o)
+- [How I made Dental APIs less painful than the dentist](https://dev.to/lake22traillady/how-i-made-dental-apis-less-painful-than-the-dentist-14ki)
+- [🚀 Exploring GitHub Models &lpar;Public Preview&rpar; for AI in Development Workflows🚀](https://dev.to/shanbasu/exploring-github-models-public-preview-for-ai-in-development-workflows-1e6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
