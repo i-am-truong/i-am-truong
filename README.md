@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Here’s how far I’ve come after 7 days of grinding on system design.](https://dev.to/navidreza80/heres-how-far-ive-come-after-7-days-of-grinding-on-system-design-55j3)
-- [Mastering Regular Expressions with the Regex Tester Tool](https://dev.to/javediqbal8381/mastering-regular-expressions-with-the-regex-tester-tool-43pi)
-- [LeetCode 206: Reverse Linked List - &lpar;Easy&rpar;](https://dev.to/grantdotdev/leetcode-206-reverse-linked-list-easy-2l6h)
-- [AI Lingo, Decoded: 20 Buzzwords You Need to Know](https://dev.to/foysal_imtiaz/ai-lingo-decoded-20-buzzwords-you-need-to-know-n9p)
-- [The future of manual testing in the age of AI](https://dev.to/ashika_kandasamy_c89f98d1/the-future-of-manual-testing-in-the-age-of-ai-2mn1)
+- [Beginning my SE journey](https://dev.to/jonathan_kweku_250/beginning-my-se-journey-1m12)
+- [TᑌᑎEᗪ ᗪᗩEᗰOᑎ Iᑎ ᒪIᑎᑌ](https://dev.to/sahillearninglinux/ttetiepe-pepoegooti-iti-maititex-16m1)
+- [IGN: Assassin&#39;s Creed Shadows: Claws of Awaji DLC Video Review](https://dev.to/gg_news/ign-assassins-creed-shadows-claws-of-awaji-dlc-video-review-2k74)
+- [🚀 Day 17 of My Python Learning Journey](https://dev.to/_adii3107/day-17-of-my-python-learning-journey-4ckn)
+- [Semicolon-First: A Psychotic Yet Interesting Way of Writing Code!](https://dev.to/aliaryani-security/semicolon-first-a-psychotic-yet-interesting-way-of-writing-code-52j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
