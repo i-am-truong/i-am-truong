@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Deploying a Node.js CRUD App on AWS with Terraform](https://dev.to/manthanank/deploying-a-nodejs-crud-app-on-aws-with-terraform-50l3)
+- [What if AI had moods—and we could track them like signal waves? An experimental prototype on visualizing AI engagement.](https://dev.to/devi_kaliappan_01fa4411c9/what-if-ai-had-moods-and-we-could-track-them-like-signal-waves-an-experimental-prototype-on-3p93)
+- [Great article on % Minutes Daily code cleanup](https://dev.to/bhavy_k_5a3b6c88887b58c92/great-article-on-minutes-daily-code-cleanup-4107)
 - [The 5-Minute Daily Code Cleanup: How One Small Habit Doubled My Bug-Free Deployments](https://dev.to/teamcamp/the-5-minute-daily-code-cleanup-how-one-small-habit-doubled-my-bug-free-deployments-lil)
 - [Driving AI CLI Tools to Write Code: A Semi-Automated Workflow](https://dev.to/kingson4ng/driving-ai-cli-tools-to-write-code-a-semi-automated-workflow-1kj1)
-- [Biometric fingerprint authentication on SmartCard Chips](https://dev.to/juliofcv/biometric-fingerprint-authentication-on-smartcard-chips-5hcm)
-- [Green Blockchain: Can Sustainable Tech Solve Energy Concerns? - 101 Blockchains #379646](https://dev.to/calgo_62400343865ec0ae72a/green-blockchain-can-sustainable-tech-solve-energy-concerns-101-blockchains-379646-2ml7)
-- [The Ultimate Cross-Framework Storage Solution](https://dev.to/eveningwater/the-ultimate-cross-framework-storage-solution-513m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
