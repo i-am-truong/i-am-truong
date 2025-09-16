@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IGN: Valheim - Official PlayStation Announcement Trailer &lpar;ft. Neil Newbon&rpar;](https://dev.to/gg_news/ign-valheim-official-playstation-announcement-trailer-ft-neil-newbon-5865)
+- [IGN: Dragon Ball Xenoverse 2 - Official Future Saga Chapter 3 Trailer](https://dev.to/gg_news/ign-dragon-ball-xenoverse-2-official-future-saga-chapter-3-trailer-ln)
+- [NestJS Authentication with Stytch: Complete Starter Guide](https://dev.to/u11d/nestjs-authentication-with-stytch-complete-starter-guide-3aon)
+- [Associações polimórficas no Rails: como fazer, prós e contras](https://dev.to/pedroleo/associacoes-polimorficas-no-rails-como-fazer-pros-e-contras-450m)
 - [Recriando Smartphones: DIY de Flip Phone com Case CNC e Teclado Físico](https://dev.to/mrpunkdasilva/recriando-smartphones-diy-de-flip-phone-com-case-cnc-e-teclado-fisico-2h83)
-- [Python String Formatting: From Basics to F-Strings](https://dev.to/aaron_rose_0787cc8b4775a0/python-string-formatting-from-basics-to-f-strings-58a2)
-- [How to Give AI Coding Assistants Complete Context Across Microservices with BMAD FKS](https://dev.to/vishalmysore/how-to-give-ai-coding-assistants-complete-context-across-microservices-with-bmad-fks-1p9m)
-- [Django Tip: Why Your Static Files Disappear When DEBUG = False](https://dev.to/iamthebuilder/django-tip-why-your-static-files-disappear-when-debug-false-4p4k)
-- [Building MCP Servers: Understanding Transport Layers and Core Components](https://dev.to/bansikah/building-mcp-servers-understanding-transport-layers-and-core-components-3o1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
