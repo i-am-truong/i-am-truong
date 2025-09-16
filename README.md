@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Using parseInt - Here&#39;s Why It&#39;s Slowing You Down](https://dev.to/werliton/stop-using-parseint-heres-why-its-slowing-you-down-1jll)
+- [Make Your Website Responsive | Media Queries, Overflow, Box Shadows](https://dev.to/i_am_gaurav/make-your-website-responsive-media-queries-overflow-box-shadows-3n9m)
 - [New CiberIA Sandbox with AIsecTest Now Available for Criterion-Based AI Response Evaluation](https://dev.to/gcjordi/new-ciberia-sandbox-with-aisectest-now-available-for-criterion-based-ai-response-evaluation-36dl)
 - [Java Scoped Values](https://dev.to/sadiul_hakim/java-scoped-values-57bn)
-- [Simple MCP tool using NodeJS](https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm)
-- [Deployments in the Agentic Era](https://dev.to/defanglabs/deployments-in-the-agentic-era-1m2h)
-- [SQLite dot commands: run system shell commands](https://dev.to/mr_destructive/sqlite-dot-commands-run-system-shell-commands-3ao4)
+- [Kubernetes Hands-On: Annotate, Persistent Volumes, ConfigMaps, &amp; RBAC Explained](https://dev.to/labex/kubernetes-hands-on-annotate-persistent-volumes-configmaps-rbac-explained-1cc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
