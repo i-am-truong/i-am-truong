@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-60: Google Cloud Networking – Cloud NAT Gateway with Internal-Only VM](https://dev.to/latchudevops/part-60-google-cloud-networking-cloud-nat-gateway-with-internal-only-vm-5c2p)
+- [How Modern Supply Chains Are Embracing Cloud-Based EDI Integration](https://dev.to/rosieschuck/how-modern-supply-chains-are-embracing-cloud-based-edi-integration-18p7)
+- [SSH Key Authentication in Linux](https://dev.to/ijas9118/ssh-key-authentication-in-linux-3aoo)
 - [Wikipedia Is Rigged: How Big Tech Silences Independent Developers](https://dev.to/owly/wikipedia-is-rigged-how-big-tech-silences-independent-developers-10fb)
 - [Next.js Ecommerce Admin Dashboard: Complete Store Management Solution](https://dev.to/jqueryscript/nextjs-ecommerce-admin-dashboard-complete-store-management-solution-1f8f)
-- [Building a Chatbot with Python &lpar;Frontend&rpar;](https://dev.to/ackahman/building-a-chatbot-with-python-frontend-2f2c)
-- [Beginner’s Guide for &quot;Replace Non-Coprime Numbers in Array&quot; &lpar;LeetCode 2197&rpar; with C++, JavaScript &amp; Python Code](https://dev.to/om_shree_0709/beginners-guide-for-replace-non-coprime-numbers-in-array-leetcode-2197-with-c-javascript--218k)
-- [Understanding Core Concepts of LangGraph &lpar;Deep Dive&rpar;](https://dev.to/raunaklallala/understanding-core-concepts-of-langgraph-deep-dive-1d7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
