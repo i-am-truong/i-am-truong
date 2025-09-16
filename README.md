@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Partial Pre-Rendering &lpar;PPR&rpar; in Next.js](https://dev.to/shaahzaibrehman/partial-pre-rendering-ppr-in-nextjs-5e8p)
-- [The Courage to Let Silence Do the Work](https://dev.to/remejuan/the-courage-to-let-silence-do-the-work-17aa)
-- [Automating ENI Failover with AWS Lambda + EventBridge](https://dev.to/poudeldipak/automating-eni-failover-with-aws-lambda-eventbridge-a24)
-- [JavaScript == vs ===: The Ultimate Guide to Comparison](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-vs-the-ultimate-guide-to-comparison-174j)
-- [Mastering JavaScript Booleans: A Complete Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-javascript-booleans-a-complete-guide-with-examples-best-practices-1fnp)
+- [How to Write a Great README for Your GitHub Project](https://dev.to/eva_clari_289d85ecc68da48/how-to-write-a-great-readme-for-your-github-project-555p)
+- [Building a chatbot with Python &lpar;Backend&rpar;](https://dev.to/ackahman/building-a-chatbot-with-python-backend-119b)
+- [## 🧅 Inside Tor: A Simplified Look at Its Architecture and Code Organization](https://dev.to/sachin_chitre_bad13f5669d/-inside-tor-a-simplified-look-at-its-architecture-and-code-organization-5djg)
+- [Building Digital Identity Tools - Why We Open-Sourced Our SSI SDK](https://dev.to/panche_isajeski_a526e83bc/building-digital-identity-tools-why-we-open-sourced-our-ssi-sdk-3fld)
+- [Building OpenAI API Compatibility with AWS Bedrock](https://dev.to/njabulomajozi/building-openai-api-compatibility-with-aws-bedrock-pj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
