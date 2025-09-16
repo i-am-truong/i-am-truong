@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shakespeare makes you a better engineer.](https://dev.to/justinschroeder/shakespeare-makes-you-a-better-engineer-4919)
 - [Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model](https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc)
+- [What are the core differences between SQL and no SQL like mongodb?](https://dev.to/favour_udegbunem_2e6b1d36/what-are-the-core-differences-between-sql-and-no-sql-like-mongodb-29b2)
 - [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-2hp)
 - [# Introduction to IoT, Data, and Analytics Concepts](https://dev.to/chinemerem_okpara_9f0dbbc/-introduction-to-iot-data-and-analytics-concepts-2ocf)
-- [Beyond the Build: Navigating Modern Software Development](https://dev.to/mark_jeff/beyond-the-build-navigating-modern-software-development-4ndg)
-- [IGN: Valheim - Official PlayStation Announcement Trailer &lpar;ft. Neil Newbon&rpar;](https://dev.to/gg_news/ign-valheim-official-playstation-announcement-trailer-ft-neil-newbon-5865)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
