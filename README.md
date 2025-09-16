@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Searching, Start Coding: Find Your Perfect Hacktoberfest Issue in Minutes](https://dev.to/ai_bird/stop-searching-start-coding-find-your-perfect-hacktoberfest-issue-in-minutes-5bl9)
-- [Micro SD Card Module with Arduino](https://dev.to/akshay_jain/micro-sd-card-module-with-arduino-51kc)
-- [Laravel Policies: Do You Really Use Them in Real Projects?](https://dev.to/thecodeliner/laravel-policies-do-you-really-use-them-in-real-projects-2pa1)
-- [What is ML runtime?](https://dev.to/jimw/what-is-ml-runtime-19be)
-- [I stopped writing scripts to merge JUnit XMLs in Pytest &lpar;pytest-html-plus&rpar;](https://dev.to/kevi019/i-stopped-writing-scripts-to-merge-junit-xmls-in-pytest-19j1)
+- [DSA Tutorial: A Beginner’s Guide to Data Structures and Algorithms](https://dev.to/suraj_kumar_fb57ae0928df2/dsa-tutorial-a-beginners-guide-to-data-structures-and-algorithms-3n3e)
+- [Intelligent Document Splitting: Blank Page Detection with Dynamic Web TWAIN](https://dev.to/yushulx/intelligent-document-splitting-blank-page-detection-with-dynamic-web-twain-nln)
+- [How I Got Out of the Duolingo Streaks Trap &lpar;By Building My Own App&rpar;](https://dev.to/nuzairnuwais/how-i-got-out-of-the-duolingo-streaks-trap-by-building-my-own-app-eg1)
+- [AWS Console Customisation - Colour Setting](https://dev.to/shajam/aws-console-customisation-colour-setting-3og8)
+- [Mastering SQL Indexes for Faster Queries](https://dev.to/tpointtechblog/mastering-sql-indexes-for-faster-queries-2nmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
