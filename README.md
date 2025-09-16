@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-3124)
+- [I&#39;m in Halifax, Nova Scotia where I grew up. Good to be home!](https://dev.to/ben/im-in-halifax-nova-scotia-where-i-grew-up-good-to-be-home-5efa)
+- [Making Nike Run Club Searchable](https://dev.to/callmetarush/making-nike-run-club-searchable-5bh0)
 - [Beginning my SE journey](https://dev.to/jonathan_kweku_250/beginning-my-se-journey-1m12)
-- [TᑌᑎEᗪ ᗪᗩEᗰOᑎ Iᑎ ᒪIᑎᑌ](https://dev.to/sahillearninglinux/ttetiepe-pepoegooti-iti-maititex-16m1)
-- [IGN: Assassin&#39;s Creed Shadows: Claws of Awaji DLC Video Review](https://dev.to/gg_news/ign-assassins-creed-shadows-claws-of-awaji-dlc-video-review-2k74)
-- [🚀 Day 17 of My Python Learning Journey](https://dev.to/_adii3107/day-17-of-my-python-learning-journey-4ckn)
-- [Semicolon-First: A Psychotic Yet Interesting Way of Writing Code!](https://dev.to/aliaryani-security/semicolon-first-a-psychotic-yet-interesting-way-of-writing-code-52j8)
+- [TᑌᑎEᗪ ᗪᗩEᗰOᑎ Iᑎ ᒪIᑎᑌX](https://dev.to/sahillearninglinux/ttetiepe-pepoegooti-iti-maititex-16m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
