@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Freestyle to Pipeline as Code: Modern CI/CD with Jenkins](https://dev.to/umaid777/from-freestyle-to-pipeline-as-code-modern-cicd-with-jenkins-447d)
-- [Loops avançados e recursividade](https://dev.to/andresdossantos/loops-avancados-e-recursividade-4afp)
-- [Mastering Slicing and Indexing in Python: Access Data with Precision](https://dev.to/aaron_rose_0787cc8b4775a0/mastering-slicing-and-indexing-in-python-access-data-with-precision-4alp)
-- [#DAY 10: Retrospective &amp; Tuning](https://dev.to/samueladeduntan/day-10-retrospective-tuning-3obg)
-- [Sleuths and Sweets - irisCTF](https://dev.to/davidonlinearchive/sleuths-and-sweets-irisctf-2dc2)
+- [Building MCP Servers: Understanding Transport Layers and Core Components](https://dev.to/bansikah/building-mcp-servers-understanding-transport-layers-and-core-components-3o1o)
+- [How to Use Partial Function in Python](https://dev.to/ankitmalikg/how-to-use-partial-function-in-python-1d9a)
+- [Como uma Ligação Falsa do Suporte Google e 2FA Sincronizado na Nuvem Custou US$130.000 a um Desenvolvedor](https://dev.to/mrpunkdasilva/como-uma-ligacao-falsa-do-suporte-google-e-2fa-sincronizado-na-nuvem-custou-us130-000-a-um-5ea8)
+- [About me🤝🏻](https://dev.to/amirmajd86/about-me-1he1)
+- [HackSpire’25: Where Innovation Meets Community](https://dev.to/ethereal_eyes_bcbfa69748a/hackspire25-where-innovation-meets-community-59b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
