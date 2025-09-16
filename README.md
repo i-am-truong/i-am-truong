@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Checking Out of Winter - irisCTF](https://dev.to/davidonlinearchive/checking-out-of-winter-irisctf-2ngj)
+- [Will AI Agents Kill Coding—or Make Us 10x Developers?](https://dev.to/nikhilwagh/will-ai-agents-kill-coding-or-make-us-10x-developers-526o)
+- [Svelte’s Growing Pains: Runes, Stores, and the Quest for Standards](https://dev.to/daniacu/sveltes-growing-pains-runes-stores-and-the-quest-for-standards-3j98)
 - [Using Apollo in Svelte 5](https://dev.to/daniacu/using-apollo-in-svelte-5-7ke)
 - [Shift Left Security Practices Developers Like](https://dev.to/fatihkoc/shift-left-security-practices-developers-like-5f16)
-- [What is in the Internet&#39;s Traffic Jam? A Story of TCP and UDP on a Shared Wireless Lane](https://dev.to/ksujan/what-is-in-the-internets-traffic-jam-a-story-of-tcp-and-udp-on-a-shared-wireless-lane-8j0)
-- [COLORS: Bashy | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-a-colors-encore-ef3)
-- [8-Bit Music Theory: TOP 5 Koji Kondo One-Offs](https://dev.to/music_youtube/8-bit-music-theory-top-5-koji-kondo-one-offs-3kj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
