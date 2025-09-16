@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker – Complete Learning Guide 🐳](https://dev.to/iamshanmugananthan/docker-complete-learning-guide-1no7)
+- [✨ Enabling SSR &lpar;Server-Side Rendering&rpar; in Angular Application](https://dev.to/syed_haris/enabling-ssr-server-side-rendering-in-angular-application-20kg)
+- [Beyond LLMs: Awesome NLP Things One can Do With SpaCy](https://dev.to/shrsv/beyond-llms-awesome-nlp-things-one-can-do-with-spacy-137d)
 - [🚀 Exploring Document Parsing with Different AI Models](https://dev.to/adam_lb_ab2b034962edcc005/exploring-document-parsing-with-different-ai-models-3gnk)
 - [Puppeteer + Proxies: How to Stay Unblocked](https://dev.to/hasdata_com/puppeteer-proxies-how-to-stay-unblocked-2gmi)
-- [How to Leverage Reka Research to Build Smarter AI Apps](https://dev.to/reka/how-to-leverage-reka-research-to-build-smarter-ai-apps-2l89)
-- [React Native &lpar;CLI&rpar; Firebase Push Notifications for Android 📱🔔](https://dev.to/haider_mukhtar/react-native-cli-firebase-push-notifications-for-android-3h4l)
-- [Todo App with Spring Boot MVC and Thymeleaf.](https://dev.to/sadiul_hakim/todo-app-with-spring-boot-mvc-and-thymeleaf-5e89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
