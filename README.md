@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Intelligent Document Splitting: Blank Page Detection with Dynamic Web TWAIN](https://dev.to/yushulx/intelligent-document-splitting-blank-page-detection-with-dynamic-web-twain-nln)
 - [How I Got Out of the Duolingo Streaks Trap &lpar;By Building My Own App&rpar;](https://dev.to/nuzairnuwais/how-i-got-out-of-the-duolingo-streaks-trap-by-building-my-own-app-eg1)
 - [AWS Console Customisation - Colour Setting](https://dev.to/shajam/aws-console-customisation-colour-setting-3og8)
-- [Mastering SQL Indexes for Faster Queries](https://dev.to/tpointtechblog/mastering-sql-indexes-for-faster-queries-2nmg)
+- [📘 The Ultimate Guide to Machine Learning Algorithms](https://dev.to/abhishekjaiswal_4896/the-ultimate-guide-to-machine-learning-algorithms-4kd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
