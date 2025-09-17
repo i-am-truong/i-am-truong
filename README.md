@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Helpers Every Beginner Should Know](https://dev.to/rohitdhiman/laravel-helpers-every-beginner-should-know-59o1)
+- [How to Convert Between Decimal and Binary Numbers – Beginner’s Guide](https://dev.to/s_mathavi_2fa1e3ea8514f34/how-to-convert-between-decimal-and-binary-numbers-beginners-guide-3ppe)
+- [Introducing colorific-magic: Enhance Your Console Logs with Stunning Colors](https://dev.to/andinugroho/introducing-colorific-magic-enhance-your-console-logs-with-stunning-colors-4kfm)
+- [Part-62: To Implement a VPC Private Google Access for Cloud Run Service in GCP Cloud](https://dev.to/latchudevops/part-62-to-implement-a-vpc-private-google-access-for-cloud-run-service-in-gcp-cloud-49bn)
 - [Managing Tech Debt: Engineering Practices for Sustainable Systems](https://dev.to/deepakgupta/managing-tech-debt-engineering-practices-for-sustainable-systems-4k7c)
-- [The Philosophy of Coding in AI &amp; ML](https://dev.to/pjdeveloper896/the-philosophy-of-coding-in-ai-ml-1fj6)
-- [[Boost]](https://dev.to/wayne_gakuo/-3h7l)
-- [Green Blockchain: Can Sustainable Tech Solve Energy Concerns? - 101 Blockchains #749359](https://dev.to/calgo_62400343865ec0ae72a/green-blockchain-can-sustainable-tech-solve-energy-concerns-101-blockchains-749359-5g9m)
-- [IGN: Assassin&#39;s Creed Shadows: Claws of Awaji DLC - 37 Minutes of 4K Ultra Gameplay](https://dev.to/gg_news/ign-assassins-creed-shadows-claws-of-awaji-dlc-37-minutes-of-4k-ultra-gameplay-59gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
