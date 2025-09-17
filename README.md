@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Resize Disk on VM Proxmox Non-LVM](https://dev.to/seno21/resize-disk-on-vm-proxmox-non-lvm-24oo)
-- [Deploy Vaultwarden on Nanocl](https://dev.to/0xle0ne/deploy-vaultwarden-on-nanocl-gg1)
-- [Is That Painting Real? Unveiling the Magic of Generative AI for Beginners](https://dev.to/karthik_n/is-that-painting-real-unveiling-the-magic-of-generative-ai-for-beginners-1cah)
-- [Top ServiceNow Trends for 2025: What’s Worth Your Time &lpar;and What’s Just Hype&rpar;](https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe)
-- [Beyond Translation: Mastering Localization Strategies to Win in Global Markets](https://dev.to/okoye_ndidiamaka_5e3b7d30/beyond-translation-mastering-localization-strategies-to-win-in-global-markets-3imh)
+- [Ternary Operator: Is It Just a Fading if/else?](https://dev.to/janetmutua/ternary-operator-is-it-just-a-fading-ifelse-32e7)
+- [FastProxy: A Go Blueprint for Enterprise-Grade Service Proxies](https://dev.to/kingson4ng/fastproxy-a-go-blueprint-for-enterprise-grade-service-proxies-12pj)
+- [Complete Beginner&#39;s Guide to Thymeleaf with Spring Boot](https://dev.to/sadiul_hakim/complete-beginners-guide-to-thymeleaf-with-spring-boot-34hl)
+- [How Data is Stored in Kafka: JSON vs Avro Explained](https://dev.to/imlucky883/how-data-is-stored-in-kafka-json-vs-avro-explained-4gi3)
+- [Container-Driven Deployments](https://dev.to/godofgeeks/container-driven-deployments-1f3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
