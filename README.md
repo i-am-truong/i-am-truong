@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompts should live outside.](https://dev.to/ashishk1331/prompts-should-live-outside-447l)
-- [Understanding Linked Lists in JavaScript](https://dev.to/giftintech/understanding-linked-lists-in-javascript-413)
-- [Day 28 of #100DaysOfRust: Smart Pointers and Deref Coercion](https://dev.to/subesh_yadav/day-28-of-100daysofrust-smart-pointers-and-deref-coercion-45ih)
-- [Azure Virtual Machines &lpar;VMs&rpar;: A Complete Beginner’s Guide](https://dev.to/ibbus/azure-virtual-machines-vms-a-complete-beginners-guide-49mn)
-- [Clean Coding Guidelines Every Developer Should Know](https://dev.to/hectorw_tt/clean-coding-guidelines-every-developer-should-know-1717)
+- [My VPC Journey: Hosting a Website in a Multi-AZ Production Environment](https://dev.to/aditya_bhatt_0d5d74efea37/my-vpc-journey-hosting-a-website-in-a-multi-az-production-environment-4830)
+- [Context Window, explain like i&#39;m five](https://dev.to/koha/context-window-explain-like-im-five-2c92)
+- [KEXP: Gold Celeste - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-full-performance-live-on-kexp-3ano)
+- [Access Control in Web Apps: Backend + Frontend](https://dev.to/gzamann/access-control-in-web-apps-backend-frontend-5fc8)
+- [GameSpot: 20 Minutes of Battlefield 6 Operation Firestorm Gameplay](https://dev.to/gg_news/gamespot-20-minutes-of-battlefield-6-operation-firestorm-gameplay-14h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
