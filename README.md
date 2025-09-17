@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hidden Classes: The JavaScript performance secret that changed everything](https://dev.to/maxprilutskiy/hidden-classes-the-javascript-performance-secret-that-changed-everything-3p6c)
+- [2. Introduction to HTML](https://dev.to/avery_/2-introduction-to-html-583i)
 - [Stop Hammering Broken APIs - the Circuit Breaker Pattern](https://dev.to/gkoos/stop-hammering-broken-apis-the-circuit-breaker-pattern-3bif)
 - [Rick Beato: The Nick Raskulinecz Interview: Crafting The Sounds Of Deftones, Foo Fighters, AIC and Rush](https://dev.to/music_youtube/rick-beato-the-nick-raskulinecz-interview-crafting-the-sounds-of-deftones-foo-fighters-aic-and-477m)
 - [IGN: Warborne Above Ashes - Official Trailer](https://dev.to/gg_news/ign-warborne-above-ashes-official-trailer-2ok2)
-- [IGN: WWE 2K25 - Official Attitude Era Superstars DLC 4 Trailer](https://dev.to/gg_news/ign-wwe-2k25-official-attitude-era-superstars-dlc-4-trailer-8f3)
-- [IGN: Strongest Vex Build in Borderlands 4 – Blood Letter Infinite Damage Guide](https://dev.to/gg_news/ign-strongest-vex-build-in-borderlands-4-blood-letter-infinite-damage-guide-2gdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
