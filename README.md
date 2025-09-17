@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 WATele-Bridge: A Telegram ↔ WhatsApp Bridge](https://dev.to/abdulaziz_hamzah_884bb727/watele-bridge-a-telegram-whatsapp-bridge-2jj8)
-- [Need a remote desktop setup so you can manage your server visually - not just via SSH?](https://dev.to/web_learning_4de0b1e0557/need-a-remote-desktop-setup-so-you-can-manage-your-server-visually-not-just-via-ssh-3elc)
-- [🚀Stop Re-Rendering! 7 Practical Ways to Optimize React Performance](https://dev.to/rayan2228/stop-re-rendering-7-practical-ways-to-optimize-react-performance-1b5f)
-- [Key concepts to know of a schema in data base](https://dev.to/asha_6ff9a1ab56509e32ab45/key-concepts-to-know-of-a-schema-in-data-base-4l3m)
-- [⚡ Scaling User Search with Bloom Filters in Node.js](https://dev.to/abhivyaktii/scaling-user-search-with-bloom-filters-in-nodejs-1nab)
+- [Budget Controls for AWS: Automatically Manage Your Cloud Costs](https://dev.to/namlahai9/budget-controls-for-aws-automatically-manage-your-cloud-costs-4m1d)
+- [NPR Music: Luiza Brina: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-luiza-brina-tiny-desk-concert-38j6)
+- [No Laying Up Podcast: 2025 Airports - Pete Buttigieg | Trap Draw, Ep 359](https://dev.to/youtube_golf/no-laying-up-podcast-2025-airports-pete-buttigieg-trap-draw-ep-359-5h0k)
+- [PromptCraft: Mini AI Prompt Generator App Spring AI and Spring Boot](https://dev.to/masteringbackend/promptcraft-mini-ai-prompt-generator-app-spring-ai-and-spring-boot-58dc)
+- [Unleashing the Power of Python File Handling: A Deep Dive into Reading and Writing Files](https://dev.to/vjnvisakh/unleashing-the-power-of-python-file-handling-a-deep-dive-into-reading-and-writing-files-41m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
