@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unit Testing vs End-to-End Testing: Striking the Right Balance in Software Quality](https://dev.to/alok_e75d0463248211c2ca56/unit-testing-vs-end-to-end-testing-striking-the-right-balance-in-software-quality-1op5)
-- [Comment automatiser vos relances téléphoniques avec un agent vocal IA](https://dev.to/matthieu_hubert_0db2c1fe4/comment-automatiser-vos-relances-telephoniques-avec-un-agent-vocal-ia-3cgf)
-- [Why Web3 UX Still Lags Behind Web2: The Complexity Barrier](https://dev.to/saira_zeeshan_35fc05971fd/why-web3-ux-still-lags-behind-web2-the-complexity-barrier-2hb7)
-- [Version Control for Prompt Management: Practical Patterns, Guardrails, and CI for Reliable LLM Apps](https://dev.to/debmckinney/version-control-for-prompt-management-practical-patterns-guardrails-and-ci-for-reliable-llm-apps-54gg)
-- [Disposable Vape Becomes Functional Web Server &lpar;24KB RAM Extreme Challenge&rpar; 🔥](https://dev.to/shiva_shanker_k/i-built-a-web-server-inside-a-disposable-vape-24kb-ram-challenge-3n88)
+- [fluth-vue:Experience the beauty of streaming programming](https://dev.to/damy_xu_afe5c2a54d1979245/fluth-vueexperience-the-beauty-of-streaming-programming-5h83)
+- [Yes, you need to think about SOC 2 compliance even if you&#39;re a startup – Here’s why it matters early on](https://dev.to/heyjoshlee/yes-you-need-to-think-about-soc-2-compliance-even-if-youre-a-startup-heres-why-it-matters-1i1b)
+- [Day 4:Type Casting in Python](https://dev.to/sanaipei001/day-4type-casting-in-python-585j)
+- [Exploring how a headless CMS &lpar;Sanity&rpar; integrates with Next.js for building a portfolio website](https://dev.to/irwingb/im-exploring-how-a-headless-cms-sanity-integrates-with-nextjs-for-building-a-portfolio-website-2728)
+- [Stop Overwrites with One Attribute: EF Core DbConcurrency Made Simple](https://dev.to/abdecoder/one-attribute-to-prevent-data-loss-how-ef-cores-timestamp-saves-your-data-34cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
