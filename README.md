@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: How Nioh 3 is Changing the Game with Ninja Style and the Distinctive Mist System – IGN First](https://dev.to/gg_news/ign-how-nioh-3-is-changing-the-game-with-ninja-style-and-the-distinctive-mist-system-ign-first-29o3)
-- [IGN: The Lift - Official Announcement Trailer](https://dev.to/gg_news/ign-the-lift-official-announcement-trailer-551)
-- [IGN: Minecraft x Jurassic World - Official Trailer](https://dev.to/gg_news/ign-minecraft-x-jurassic-world-official-trailer-ek5)
-- [IGN: Borderlands 4: How to Get the Rainbow Vomit Shotgun &lpar;Legendary Farm Guide&rpar;](https://dev.to/gg_news/ign-borderlands-4-how-to-get-the-rainbow-vomit-shotgun-legendary-farm-guide-p32)
-- [IGN: Mistfall Hunter - Official BETA 3 Gameplay Trailer](https://dev.to/gg_news/ign-mistfall-hunter-official-beta-3-gameplay-trailer-k1)
+- [Automating Business Intelligence: How We Built a Multi-Agent AI System for Business Data Extraction](https://dev.to/haneeshraj/automating-business-intelligence-how-we-built-a-multi-agent-ai-system-for-business-data-extraction-jd1)
+- [🚀 Mastering Monorepos with Lerna + Yarn Workspaces](https://dev.to/gimhantharuke4565/mastering-monorepos-with-lerna-yarn-workspaces-597p)
+- [What Programming Language Is Used for Raspberry Pi? &lpar;A Practical, No-Nonsense Guide&rpar;](https://dev.to/alexmo/what-programming-language-is-used-for-raspberry-pi-a-practical-no-nonsense-guide-4f3n)
+- [Usar IA al programar no significa dejar de pensar — en Flik](https://dev.to/barrerasaezgonzalo/usar-ia-al-programar-no-significa-dejar-de-pensar-en-flik-3j73)
+- [Equipment Maintenance Log: Definition &amp; Business Benefits](https://dev.to/jennifer_devsamurai/equipment-maintenance-log-definition-business-benefits-4k0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
