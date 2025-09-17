@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Untitled](https://dev.to/javier_barbin_ea103b5ed7c/untitled-2cbn)
+- [Business Intelligence Fundamentals Part 1: Roles and Tools](https://dev.to/chinemerem_okpara_9f0dbbc/business-intelligence-fundamentals-part-1-roles-and-tools-2d8e)
+- [Parámetro de seguridad/estabilidad con PNPM](https://dev.to/cris7ianj/parametro-de-seguridadestabilidad-con-pnpm-1om9)
 - [Smart Contract Upgradeability Patterns: A Developer&#39;s Guide](https://dev.to/dfkdigitals/smart-contract-upgradeability-patterns-a-developers-guide-4leo)
-- [🔎 Kubernetes Architecture Demystified: A Beginner-Friendly Guide](https://dev.to/abhishek_korde_31/understanding-kubernetes-architecture-a-complete-guide-h7n)
-- [Exploring Discrete-Time Signals with MATLAB](https://dev.to/sajibpra/exploring-discrete-time-signals-with-matlab-6j)
-- [Hackeando o Data Engineering: Os Padrões que Todo Engenheiro Precisa Conhecer](https://dev.to/guigasque/hackeando-o-data-engineering-os-padroes-que-todo-engenheiro-precisa-conhecer-334d)
-- [Fraudulent Resource Consumption Attacks and a Gatekeeper Solution](https://dev.to/rmadisetti3/fraudulent-resource-consumption-attacks-and-a-gatekeeper-solution-302)
+- [How the JVM Works?](https://dev.to/vimex/how-the-jvm-works-43d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
