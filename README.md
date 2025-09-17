@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making sure your PDF compliance and privacy requirements are met with JoyDoc](https://dev.to/joyfill/making-sure-your-pdf-compliance-and-privacy-requirements-are-met-with-joydoc-349h)
+- [Docker Explained with a Food Analogy](https://dev.to/ccinaza/docker-explained-with-a-food-analogy-4gne)
 - [Untitled](https://dev.to/javier_barbin_ea103b5ed7c/untitled-2cbn)
 - [Business Intelligence Fundamentals Part 1: Roles and Tools](https://dev.to/chinemerem_okpara_9f0dbbc/business-intelligence-fundamentals-part-1-roles-and-tools-2d8e)
 - [Parámetro de seguridad/estabilidad con PNPM](https://dev.to/cris7ianj/parametro-de-seguridadestabilidad-con-pnpm-1om9)
-- [Smart Contract Upgradeability Patterns: A Developer&#39;s Guide](https://dev.to/dfkdigitals/smart-contract-upgradeability-patterns-a-developers-guide-4leo)
-- [How the JVM Works?](https://dev.to/vimex/how-the-jvm-works-43d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
