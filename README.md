@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 5:User Input in Python](https://dev.to/sanaipei001/day-5user-input-in-python-401o)
+- [A Quick Intro to Reinforcement Learning for Developers 🚀](https://dev.to/vikramdesai/a-quick-intro-to-reinforcement-learning-for-developers-27on)
+- [Orchestrating Real-World Agent Workflows with MCP](https://dev.to/om_shree_0709/orchestrating-real-world-agent-workflows-with-mcp-jm2)
+- [Advanced Dependency Injection Patterns Beyond Service Containers](https://dev.to/patoliyainfotech/advanced-dependency-injection-patterns-beyond-service-containers-4kk7)
 - [fluth-vue:Experience the beauty of streaming programming](https://dev.to/damy_xu_afe5c2a54d1979245/fluth-vueexperience-the-beauty-of-streaming-programming-5h83)
-- [Yes, you need to think about SOC 2 compliance even if you&#39;re a startup – Here’s why it matters early on](https://dev.to/heyjoshlee/yes-you-need-to-think-about-soc-2-compliance-even-if-youre-a-startup-heres-why-it-matters-1i1b)
-- [Day 4:Type Casting in Python](https://dev.to/sanaipei001/day-4type-casting-in-python-585j)
-- [Exploring how a headless CMS &lpar;Sanity&rpar; integrates with Next.js for building a portfolio website](https://dev.to/irwingb/im-exploring-how-a-headless-cms-sanity-integrates-with-nextjs-for-building-a-portfolio-website-2728)
-- [Stop Overwrites with One Attribute: EF Core DbConcurrency Made Simple](https://dev.to/abdecoder/one-attribute-to-prevent-data-loss-how-ef-cores-timestamp-saves-your-data-34cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
