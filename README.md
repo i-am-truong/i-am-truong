@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Production Is Where Bugs Go to Party 🐛🎉](https://dev.to/shorthander/production-is-where-bugs-go-to-party-5a84)
-- [How to host a website locally and let other users use it — super-elaborate](https://dev.to/aadarsh-nagrath/how-to-host-a-website-locally-and-let-other-users-use-it-super-elaborate-43kk)
-- [How to Install Amp in VS Code](https://dev.to/matt_tanner_f9c36595644ad/how-to-install-amp-in-vs-code-5b7d)
-- [My Experience Publishing to the Official MCP Registry - Is It Worth It Right Now?](https://dev.to/ialijr/my-experience-publishing-to-the-official-mcp-registry-is-it-worth-it-right-now-l69)
-- [Clean Architecture: The Four Concentric Circles Explained](https://dev.to/horse_patterns/clean-architecture-the-four-concentric-circles-explained-26g0)
+- [Introducing ts-base: A Modern TypeScript Library Template](https://dev.to/bgub/introducing-ts-base-a-modern-typescript-library-template-5g9n)
+- [IGN: Hyrule Warriors: Age of Imprisonment - Official &#39;Fight the Epic Imprisoning War&#39; Trailer](https://dev.to/gg_news/ign-hyrule-warriors-age-of-imprisonment-official-fight-the-epic-imprisoning-war-trailer-14ne)
+- [IGN: Arkheron - Official Reveal Trailer](https://dev.to/gg_news/ign-arkheron-official-reveal-trailer-416)
+- [IGN: Marvel Rivals - Official Technically Speaking Vol. 01](https://dev.to/gg_news/ign-marvel-rivals-official-technically-speaking-vol-01-1go3)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 12 - &#39;The Royal Tenenbaums’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-12-the-royal-tenenbaums-31gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
