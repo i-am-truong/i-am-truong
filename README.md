@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JT-Trader: A Complete Overview of the Cryptocurrency Algorithmic Trading Platform](https://dev.to/jtlab/jt-trader-a-complete-overview-of-the-cryptocurrency-algorithmic-trading-platform-4hk3)
-- [Building a Real-Time Heart Rate Monitoring App with Kotlin + Google Cloud](https://dev.to/qandil_tariq_0e73fd980d58/building-a-real-time-heart-rate-monitoring-app-with-kotlin-google-cloud-aic)
-- [Neuromarketing in Practice: Strategies to Tap into Subconscious Consumer Decisions](https://dev.to/aditya-saasy/neuromarketing-in-practice-strategies-to-tap-into-subconscious-consumer-decisions-567)
-- [30-Discriminated Union and Exhaustiveness Checking with never](https://dev.to/cgithub123/30-discriminated-union-and-exhaustiveness-checking-with-never-4340)
-- [Building Prude](https://dev.to/njabulomajozi/prude-transform-your-communication-eo9)
+- [How To Suppress Build Errors in Next.js with TypeScript](https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl)
+- [Day 2:Variables in Python](https://dev.to/sanaipei001/day-2variables-in-python-2m7k)
+- [Hey DEV community! Tired of Git chaos? My new YouTube video, 10X Your Git Workflow: 7 Pro Tips, shares advanced hacks to save time https://youtu.be/d_xZgcRJ--Q #git #versioncontrol #developerproductivity #programming #coding](https://dev.to/urvvil/hey-dev-community-tired-of-git-chaos-my-new-youtube-video-10x-your-git-workflow-7-pro-tips-2n5h)
+- [City Simulation with LLMs — Predicting Traffic &amp; Generating Natural-Language Reports](https://dev.to/preetkamal_singh_a2fe7281/city-simulation-with-llms-predicting-traffic-generating-natural-language-3f4d)
+- [Building a Modern Landing Page in Record Time: My Experience with Codex GPT](https://dev.to/blamsa0mine/building-a-modern-landing-page-in-record-time-my-experience-with-codex-gpt-5den)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
