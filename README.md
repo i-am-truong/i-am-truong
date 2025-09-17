@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Accept Bank Transfers Easily with the Bank Transfer BACS through Stripe Plugin](https://dev.to/aroob_widaad_b018cd08a8e8/accept-bank-transfers-easily-with-the-bank-transfer-bacs-through-stripe-plugin-1ll1)
-- [My First Graphics Post: From DX11 to Vulkan &lpar;aka “Why I Ditched Training Wheels”&rpar;](https://dev.to/saswatdash65/my-first-graphics-post-from-dx11-to-vulkan-aka-why-i-ditched-training-wheels-4joc)
-- [Dawn of Meta Developers](https://dev.to/doozieakshay/dawn-of-meta-developers-3i05)
-- [Python project folder structure for a GenAI application](https://dev.to/ashutoshsarangi/python-project-folder-structure-for-a-genai-application-13kc)
-- [How to Become Java Full Stack Developer: A Complete Roadmap for 2025](https://dev.to/masew_arrow_69684862dc1ab/how-to-become-java-full-stack-developer-a-complete-roadmap-for-2025-3026)
+- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-53ko)
+- [🚀 Day 18 of My Python Learning Journey](https://dev.to/_adii3107/day-18-of-my-python-learning-journey-2agb)
+- [DeepFabric is a Game Changer: 🚀 Build ⛓️-of-💭 Reasoning Datasets in Minutes Using Natural Prompts 💬](https://dev.to/sahilkapoordev/deepfabric-is-a-game-changer-build-of-reasoning-datasets-in-minutes-using-natural-prompts-5hee)
+- [「設計ミス」の社会を再編する：AIと共創する未来の働き方とシステム思考](https://dev.to/_6b2664c123f822f62319/she-ji-misu-noshe-hui-wozai-bian-suruaitogong-chuang-suruwei-lai-nodong-kifang-tosisutemusi-kao-2i8i)
+- [KEXP: Gold Celeste - Grand New Spin &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-grand-new-spin-live-on-kexp-18o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
