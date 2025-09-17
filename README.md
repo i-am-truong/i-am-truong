@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Coding Practices for .NET Core API Development](https://dev.to/manonaga2188/best-coding-practices-for-net-core-api-development-548c)
+- [FastOpp: A Student-Friendly Starter for AI Web Apps](https://dev.to/jcasman/fastopp-a-student-friendly-starter-for-ai-web-apps-1cef)
 - [Top QR Code Generator Tools for Small and Large Businesses](https://dev.to/joywinter90/top-qr-code-generator-tools-for-small-and-large-businesses-307e)
 - [Global state management in React apps](https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg)
 - [# Introduction](https://dev.to/maria_adde_3cdb7ecaeb3d56/-introduction-kj1)
-- [From Idea to Marketplace: The DevPromptly VS Code Plugin story](https://dev.to/fjmorant/from-idea-to-marketplace-the-devpromptly-vs-code-plugin-story-4095)
-- [Remote Work Security: Managing Passwords in a Distributed Workforce](https://dev.to/rahul_sharma_15bd129bc69e/remote-work-security-managing-passwords-in-a-distributed-workforce-25c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
