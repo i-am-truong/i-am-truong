@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning to code in Nigeria](https://dev.to/inioluwa_ayodeji_310ffe27/learning-to-code-in-nigeria-2kna)
 - [Making sure your PDF compliance and privacy requirements are met with JoyDoc](https://dev.to/joyfill/making-sure-your-pdf-compliance-and-privacy-requirements-are-met-with-joydoc-349h)
 - [Docker Explained with a Food Analogy](https://dev.to/ccinaza/docker-explained-with-a-food-analogy-4gne)
 - [Untitled](https://dev.to/javier_barbin_ea103b5ed7c/untitled-2cbn)
 - [Business Intelligence Fundamentals Part 1: Roles and Tools](https://dev.to/chinemerem_okpara_9f0dbbc/business-intelligence-fundamentals-part-1-roles-and-tools-2d8e)
-- [Parámetro de seguridad/estabilidad con PNPM](https://dev.to/cris7ianj/parametro-de-seguridadestabilidad-con-pnpm-1om9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
