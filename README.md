@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Writing Boilerplate: How Playwright Codegen Will Change Your Test Automation Workflow](https://dev.to/kayson_2025/stop-writing-boilerplate-how-playwright-codegen-will-change-your-test-automation-workflow-4fi3)
+- [GLMs in R Explained: Linear, Log-Linear, and Logistic Regression with Examples](https://dev.to/dipti_moryani_185c244d578/glms-in-r-explained-linear-log-linear-and-logistic-regression-with-examples-38o2)
 - [Ternary Operator: Is It Just a Fading if/else?](https://dev.to/janetmutua/ternary-operator-is-it-just-a-fading-ifelse-32e7)
-- [FastProxy: A Go Blueprint for Enterprise-Grade Service Proxies](https://dev.to/kingson4ng/fastproxy-a-go-blueprint-for-enterprise-grade-service-proxies-12pj)
-- [Complete Beginner&#39;s Guide to Thymeleaf with Spring Boot](https://dev.to/sadiul_hakim/complete-beginners-guide-to-thymeleaf-with-spring-boot-34hl)
-- [How Data is Stored in Kafka: JSON vs Avro Explained](https://dev.to/imlucky883/how-data-is-stored-in-kafka-json-vs-avro-explained-4gi3)
-- [Container-Driven Deployments](https://dev.to/godofgeeks/container-driven-deployments-1f3d)
+- [🚀 Day 38 of My Data Analytics Journey !](https://dev.to/ramyacse/day-38-of-my-data-analytics-journey--21oa)
+- [Introduction to Database testing](https://dev.to/keploy/introduction-to-database-testing-kpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
