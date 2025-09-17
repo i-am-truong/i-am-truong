@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Files to Frameworks: Mastering Packages &amp; Modules in OSE](https://dev.to/codigger/from-files-to-frameworks-mastering-packages-modules-in-ose-1pok)
-- [JavaScript DOM: A Beginner’s Guide to Selecting HTML Elements](https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-selecting-html-elements-5h22)
-- [When &lpar;Not If&rpar; Containers Misbehave](https://dev.to/aws-builders/when-not-if-containers-misbehave-1kao)
-- [Build a Full-Stack QR Code Generator in MERN with GraphQL &amp; MongoDB &lpar;No External API Needed!&rpar;](https://dev.to/lfariaus/build-a-full-stack-qr-code-generator-in-mern-with-graphql-mongodb-no-external-api-needed-1fbg)
-- [When JS blocks parsing your HTML](https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm)
+- [Resize Disk on VM Proxmox Non-LVM](https://dev.to/seno21/resize-disk-on-vm-proxmox-non-lvm-24oo)
+- [Deploy Vaultwarden on Nanocl](https://dev.to/0xle0ne/deploy-vaultwarden-on-nanocl-gg1)
+- [Is That Painting Real? Unveiling the Magic of Generative AI for Beginners](https://dev.to/karthik_n/is-that-painting-real-unveiling-the-magic-of-generative-ai-for-beginners-1cah)
+- [Top ServiceNow Trends for 2025: What’s Worth Your Time &lpar;and What’s Just Hype&rpar;](https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe)
+- [Beyond Translation: Mastering Localization Strategies to Win in Global Markets](https://dev.to/okoye_ndidiamaka_5e3b7d30/beyond-translation-mastering-localization-strategies-to-win-in-global-markets-3imh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
