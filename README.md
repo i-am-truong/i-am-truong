@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Ways to Supercharge Your HLS Live Streaming App with AI-Powered Analysis](https://dev.to/aws/4-ways-to-supercharge-your-hls-live-streaming-app-with-ai-powered-analysis-4mob)
+- [Kren v1: Turning an Encoder into a Khasi-Speaking AI](https://dev.to/b_nyalang/kren-v1-turning-an-encoder-into-a-khasi-speaking-ai-1bd3)
+- [The Transparency Paradox: I Open-Sourced My Web3 Game&#39;s Contracts, But Kept The Backend Secret. Here&#39;s Why.](https://dev.to/crow004/the-transparency-paradox-i-open-sourced-my-web3-games-contracts-but-kept-the-backend-secret-2bop)
 - [Day 5:User Input in Python](https://dev.to/sanaipei001/day-5user-input-in-python-401o)
 - [A Quick Intro to Reinforcement Learning for Developers 🚀](https://dev.to/vikramdesai/a-quick-intro-to-reinforcement-learning-for-developers-27on)
-- [Orchestrating Real-World Agent Workflows with MCP](https://dev.to/om_shree_0709/orchestrating-real-world-agent-workflows-with-mcp-jm2)
-- [Advanced Dependency Injection Patterns Beyond Service Containers](https://dev.to/patoliyainfotech/advanced-dependency-injection-patterns-beyond-service-containers-4kk7)
-- [fluth-vue:Experience the beauty of streaming programming](https://dev.to/damy_xu_afe5c2a54d1979245/fluth-vueexperience-the-beauty-of-streaming-programming-5h83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
