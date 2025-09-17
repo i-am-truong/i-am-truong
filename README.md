@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Boilerplate: How Playwright Codegen Will Change Your Test Automation Workflow](https://dev.to/kayson_2025/stop-writing-boilerplate-how-playwright-codegen-will-change-your-test-automation-workflow-4fi3)
-- [GLMs in R Explained: Linear, Log-Linear, and Logistic Regression with Examples](https://dev.to/dipti_moryani_185c244d578/glms-in-r-explained-linear-log-linear-and-logistic-regression-with-examples-38o2)
-- [Ternary Operator: Is It Just a Fading if/else?](https://dev.to/janetmutua/ternary-operator-is-it-just-a-fading-ifelse-32e7)
-- [🚀 Day 38 of My Data Analytics Journey !](https://dev.to/ramyacse/day-38-of-my-data-analytics-journey--21oa)
-- [Introduction to Database testing](https://dev.to/keploy/introduction-to-database-testing-kpk)
+- [DKM, Multichain Wallet Control Are ROFL Benefits Every Web3 Dev Should Explore For Future With Autonomous Agents](https://dev.to/dc600/dkm-multichain-wallet-control-are-rofl-benefits-every-web3-dev-should-explore-for-future-with-3nog)
+- [Handling Missing Data in R: A Complete Guide to Imputation with MICE](https://dev.to/anshuman_816f8012be0c9b6c/handling-missing-data-in-r-a-complete-guide-to-imputation-with-mice-2o85)
+- [EventBridge to SQS when cross region and cross account](https://dev.to/aws-builders/eventbridge-to-sqs-when-cross-region-and-cross-account-1jgd)
+- [Test Reporting and Analytics: From Raw Data to Strategic Advantage](https://dev.to/keploy/test-reporting-and-analytics-from-raw-data-to-strategic-advantage-5e53)
+- [Backlinks in 2025: Quality vs. Quantity - What Really Matters?](https://dev.to/dataonmatrix/backlinks-in-2025-quality-vs-quantity-what-really-matters-e4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
