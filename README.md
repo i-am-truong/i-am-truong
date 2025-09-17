@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔎 Kubernetes Architecture Demystified: A Beginner-Friendly Guide](https://dev.to/abhishek_korde_31/understanding-kubernetes-architecture-a-complete-guide-h7n)
+- [Exploring Discrete-Time Signals with MATLAB](https://dev.to/sajibpra/exploring-discrete-time-signals-with-matlab-6j)
+- [Hackeando o Data Engineering: Os Padrões que Todo Engenheiro Precisa Conhecer](https://dev.to/guigasque/hackeando-o-data-engineering-os-padroes-que-todo-engenheiro-precisa-conhecer-334d)
 - [Fraudulent Resource Consumption Attacks and a Gatekeeper Solution](https://dev.to/rmadisetti3/fraudulent-resource-consumption-attacks-and-a-gatekeeper-solution-302)
 - [From Chaos to Cohesion: A Retrospective on How FSMs Connect Us to Domain Experts](https://dev.to/trent_best_ca8617e4911baf/from-chaos-to-cohesion-a-retrospective-on-how-fsms-connect-us-to-domain-experts-391p)
-- [How We Gave Our AI Coding Agents the Context to Stop Hallucinating and Start Fixing Real Bugs](https://dev.to/webviziodotcom/how-we-gave-our-ai-coding-agents-the-context-to-stop-hallucinating-and-start-fixing-real-bugs-2hgd)
-- [Print Isn’t Return: The Subtle Distinction That Changes Everything](https://dev.to/aaron_rose_0787cc8b4775a0/print-isnt-return-the-subtle-distinction-that-changes-everything-4ibi)
-- [GraphRAG with Wikipedia and GPT OSS](https://dev.to/neuml/graphrag-with-wikipedia-and-gpt-oss-38cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
