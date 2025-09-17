@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Life-First AI? A 2025 Guide to Escaping the Productivity Trap](https://dev.to/kniev_lenka_7d8ceefc4e93b/what-is-life-first-ai-a-2025-guide-to-escaping-the-productivity-trap-5goo)
-- [Stop Falling for the ‘How I Made $$$ in 10 Days’ Trap](https://dev.to/scofieldidehen/stop-falling-for-the-how-i-made-in-10-days-trap-gb1)
-- [React Form Action](https://dev.to/rameem2003/react-form-action-3ob1)
-- [Какую приставку PlayStation лучше выбрать: что важно учесть](https://dev.to/muravochka88/kakuiu-pristavku-playstation-luchshie-vybrat-chto-vazhno-uchiest-1k8i)
-- [Beyond `text-wrap: pretty` — language-aware line breaks for minor words](https://dev.to/jlorenzetti/beyond-text-wrap-pretty-language-aware-line-breaks-for-minor-words-if6)
+- [Authentication in Express with Mongoose &lpar;Step-by-Step Guide&rpar;](https://dev.to/suraj_kushwaha_009beb0a4a/authentication-in-express-with-mongoose-step-by-step-guide-1c1j)
+- [How to Build Your Own AI Agent with Conversation in 2025](https://dev.to/kniev_lenka_7d8ceefc4e93b/how-to-build-your-own-ai-agent-with-conversation-in-2025-3gnp)
+- [🚀 Scaffolder-Toolkit &lpar;dk&rpar;: Your Universal CLI for Professional Development](https://dev.to/it-wibrc/scaffolder-toolkit-dk-your-universal-cli-for-professional-development-52ap)
+- [Introducing: the pipeline framework](https://dev.to/mbarcia/introducing-the-pipeline-framework-44i)
+- [Composable Analytics with Agents: Leveraging Virtual Datasets and the Semantic Layer](https://dev.to/alexmercedcoder/composable-analytics-with-agents-leveraging-virtual-datasets-and-the-semantic-layer-535h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
