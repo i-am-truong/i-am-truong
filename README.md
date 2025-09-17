@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Docs‑Aware Chatbot with React, Vite, Node, and OpenAI &lpar;plus fun DALL·E avatars&rpar;](https://dev.to/cloudinary/build-a-docs-aware-chatbot-with-react-vite-node-and-openai-plus-fun-dalle-avatars-1chi)
-- [Asia’s Momentum and the Philippines’ Role in It](https://dev.to/exodiagamedevelopment/asias-momentum-and-the-philippines-role-in-it-1bca)
-- [My First Messenger Bot + Setup: Avoiding the Pitfalls I Fell Into](https://dev.to/marikinyo/my-first-messenger-bot-setup-avoiding-the-pitfalls-i-fell-into-5e21)
-- [What is Security Patching and Why is it Essential for Businesses?](https://dev.to/anshul_kichara/what-is-security-patching-and-why-is-it-essential-for-businesses-i3e)
-- [Git Notes Unraveled: History, Mechanics, and Practical Uses](https://dev.to/shrsv/git-notes-unraveled-history-mechanics-and-practical-uses-25i9)
+- [Solved: Why Tailwind CSS Wasn&#39;t Working with My Vite React App](https://dev.to/minoosh/solved-why-tailwind-css-wasnt-working-with-my-vite-react-app-2ooo)
+- [🔐 Breaking Down Identity, Authentication, Authorization &amp; SSO](https://dev.to/sohillalakiya/breaking-down-identity-authentication-authorization-sso-hf0)
+- [How I Applied an Higher Order Array Method In a Project](https://dev.to/kansoldev/how-i-applied-an-higher-order-array-method-in-a-project-2m0k)
+- [When a node crashes, how does it catch up with the cluster? That’s where Raft shines.](https://dev.to/navidreza80/when-a-node-crashes-how-does-it-catch-up-with-the-cluster-thats-where-raft-shines-9ii)
+- [React Native + Android’s 16 KB Page Size: What It Is, Why It Matters, and Exactly How to Get Your App Ready](https://dev.to/maheshwarimrinal/react-native-androids-16-kb-page-size-what-it-is-why-it-matters-and-exactly-how-to-get-your-34da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
