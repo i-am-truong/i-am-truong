@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Codebuff, an open-source AI coding assistant.](https://dev.to/ramunarasinga-11/codebuff-an-open-source-ai-coding-assistant-4kff)
-- [The Core of Gin: Interface Webs, API Consistency, and the Beating Heart of the Framework](https://dev.to/jfeliu007/the-core-of-gin-interface-webs-api-consistency-and-the-beating-heart-of-the-framework-fgd)
-- [Custom Prime-Based Key-Driven Encryption with Modulus Patterns](https://dev.to/hejhdiss/custom-prime-based-key-driven-encryption-with-modulus-patterns-55hf)
-- [Exposing a Kubernetes-Hosted MCP Server with ToolHive + ngrok &lpar;with Basic Auth&rpar;](https://dev.to/stacklok/exposing-a-kubernetes-hosted-mcp-server-with-toolhive-ngrok-with-basic-auth-23kn)
-- [Nim Credit Loan App CUSTOMER Care Helpline Number ♻️ 91&rpar;&rpar;8167795701/+8167795701/+Call kb](https://dev.to/ram_kumar_a6321e6c46bf7a6/nim-credit-loan-app-customer-care-helpline-number-9181677957018167795701call-kb-2fc3)
+- [Prompts should live outside.](https://dev.to/ashishk1331/prompts-should-live-outside-447l)
+- [Understanding Linked Lists in JavaScript](https://dev.to/giftintech/understanding-linked-lists-in-javascript-413)
+- [Day 28 of #100DaysOfRust: Smart Pointers and Deref Coercion](https://dev.to/subesh_yadav/day-28-of-100daysofrust-smart-pointers-and-deref-coercion-45ih)
+- [Azure Virtual Machines &lpar;VMs&rpar;: A Complete Beginner’s Guide](https://dev.to/ibbus/azure-virtual-machines-vms-a-complete-beginners-guide-49mn)
+- [Clean Coding Guidelines Every Developer Should Know](https://dev.to/hectorw_tt/clean-coding-guidelines-every-developer-should-know-1717)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
