@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Production Is Where Bugs Go to Party 🐛🎉](https://dev.to/shorthander/production-is-where-bugs-go-to-party-5a84)
+- [How to host a website locally and let other users use it — super-elaborate](https://dev.to/aadarsh-nagrath/how-to-host-a-website-locally-and-let-other-users-use-it-super-elaborate-43kk)
 - [How to Install Amp in VS Code](https://dev.to/matt_tanner_f9c36595644ad/how-to-install-amp-in-vs-code-5b7d)
 - [My Experience Publishing to the Official MCP Registry - Is It Worth It Right Now?](https://dev.to/ialijr/my-experience-publishing-to-the-official-mcp-registry-is-it-worth-it-right-now-l69)
 - [Clean Architecture: The Four Concentric Circles Explained](https://dev.to/horse_patterns/clean-architecture-the-four-concentric-circles-explained-26g0)
-- [Como a IA Aprende](https://dev.to/pachicodes/como-a-ia-aprende-descomplicando-a-ia-parte-2-36af)
-- [How to Install Amp in Windsurf](https://dev.to/matt_tanner_f9c36595644ad/how-to-install-amp-in-windsurf-pe8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
