@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 WATele-Bridge: A Telegram ↔ WhatsApp Bridge](https://dev.to/abdulaziz_hamzah_884bb727/watele-bridge-a-telegram-whatsapp-bridge-2jj8)
+- [Need a remote desktop setup so you can manage your server visually - not just via SSH?](https://dev.to/web_learning_4de0b1e0557/need-a-remote-desktop-setup-so-you-can-manage-your-server-visually-not-just-via-ssh-3elc)
+- [🚀Stop Re-Rendering! 7 Practical Ways to Optimize React Performance](https://dev.to/rayan2228/stop-re-rendering-7-practical-ways-to-optimize-react-performance-1b5f)
 - [Key concepts to know of a schema in data base](https://dev.to/asha_6ff9a1ab56509e32ab45/key-concepts-to-know-of-a-schema-in-data-base-4l3m)
 - [⚡ Scaling User Search with Bloom Filters in Node.js](https://dev.to/abhivyaktii/scaling-user-search-with-bloom-filters-in-nodejs-1nab)
-- [Want to run Docker on your Webdock VPS without fighting dependencies or broken installs?](https://dev.to/web_learning_4de0b1e0557/want-to-run-docker-on-your-webdock-vps-without-fighting-dependencies-or-broken-installs-2oag)
-- [CLEANING MESSY DATA: Why is it 80% of the job](https://dev.to/herniqness/cleaning-messy-data-why-is-it-80-of-the-job-fh3)
-- [How To Suppress Build Errors in Next.js with TypeScript](https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
