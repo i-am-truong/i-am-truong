@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como a IA Aprende](https://dev.to/pachicodes/como-a-ia-aprende-descomplicando-a-ia-parte-2-36af)
+- [How to Install Amp in Windsurf](https://dev.to/matt_tanner_f9c36595644ad/how-to-install-amp-in-windsurf-pe8)
 - [Aws Active-Active &amp; Active-Passive Failover](https://dev.to/wakeup_flower_8591a6cb6a9/aws-active-active-active-passive-failover-1kgk)
 - [Kubernetes 102: Setting Up Your First Cluster and Core Concepts 🚀](https://dev.to/alikhere/kubernetes-102-setting-up-your-first-cluster-and-core-concepts-52j5)
 - [Building a Multi-Agent Competitive Intelligence Platform with Bright Data and Strands](https://dev.to/meirk-codes/building-a-multi-agent-competitive-intelligence-platform-with-bright-data-and-strands-5alc)
-- [Building an SVG Editor with Konva.js](https://dev.to/lovestaco/building-an-svg-editor-with-konvajs-56fo)
-- [Web Transition: Part 4 of 4 — The Return to Simplicity](https://dev.to/raheelshan/web-transition-part-4-of-4-the-return-to-simplicity-h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
