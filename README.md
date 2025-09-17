@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Google Calendar with OAuth2 in Node.js](https://dev.to/divofred/integrating-google-calendar-with-oauth2-in-nodejs-530i)
-- [The Future of Back-End Development in the Age of AI](https://dev.to/gabrielle_eduarda_776996b/the-future-of-back-end-development-in-the-age-of-ai-4o7p)
-- [[Boost]](https://dev.to/chair/-3226)
-- [DevLog 20250916: [Issue] Binary Design Project Version Control](https://dev.to/nfc-charles/devlog-20250916-issue-binary-design-project-version-control-2cn1)
-- [How to Enable SSH on Ubuntu](https://dev.to/jajera/how-to-enable-ssh-on-ubuntu-2lkb)
+- [[Boost]](https://dev.to/clsource/-1k7p)
+- [Authentication Using Better-Auth &lpar;Basics Tutorial&rpar;](https://dev.to/devrayat000/authentication-using-better-auth-basics-tutorial-1bc1)
+- [How to create a MCP server and MCP tools from scratch?](https://dev.to/zeedu_dev/how-to-create-a-mcp-server-and-mcp-tools-from-scratch-fea)
+- [git rebase and squash before opening merge requests](https://dev.to/choibits/git-rebase-and-squash-before-opening-merge-requests-3o3e)
+- [Scaling Read Tracking with Redis Bitmaps](https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
