@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Life-First AI? A 2025 Guide to Escaping the Productivity Trap](https://dev.to/kniev_lenka_7d8ceefc4e93b/what-is-life-first-ai-a-2025-guide-to-escaping-the-productivity-trap-5goo)
 - [Stop Falling for the ‘How I Made $$$ in 10 Days’ Trap](https://dev.to/scofieldidehen/stop-falling-for-the-how-i-made-in-10-days-trap-gb1)
 - [React Form Action](https://dev.to/rameem2003/react-form-action-3ob1)
 - [Какую приставку PlayStation лучше выбрать: что важно учесть](https://dev.to/muravochka88/kakuiu-pristavku-playstation-luchshie-vybrat-chto-vazhno-uchiest-1k8i)
 - [Beyond `text-wrap: pretty` — language-aware line breaks for minor words](https://dev.to/jlorenzetti/beyond-text-wrap-pretty-language-aware-line-breaks-for-minor-words-if6)
-- [Golang Interfaces are easy](https://dev.to/mvaldes/golang-interfaces-are-easy-31c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
