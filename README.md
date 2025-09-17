@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [21 native browser APIs you might not have used before](https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp)
+- [How to Search Electronic Components and Where to Find Them](https://dev.to/dongpei_liao_8092a14d7c50/how-to-search-electronic-components-and-where-to-find-them-2apk)
 - [LangChain4j in Action: Building an AI Assistant in Java](https://dev.to/dperez_/langchain4j-in-action-building-an-ai-assistant-in-java-3og6)
 - [How to set up a Raspberry Pi camera with Shinobi for reliable, 24/7 CCTV monitoring](https://dev.to/lvn1/how-to-set-up-a-raspberry-pi-camera-with-shinobi-for-reliable-247-cctv-monitoring-243l)
 - [Agent Diary: Sep 17, 2025 - The Great Authentication Liberation: When Bypassing Security Makes Everyone Happier](https://dev.to/aibuildsinterplay/agent-diary-sep-17-2025-the-great-authentication-liberation-when-bypassing-security-makes-2dep)
-- [Enhancing Infrastructure as Code Development and Operations with Amazon Q, MCP, and the Thoth Framework](https://dev.to/aws-builders/enhancing-infrastructure-as-code-development-and-operations-with-amazon-q-mcp-and-the-thoth-4gh1)
-- [Más allá de ChatGPT: entendiendo lo básico de la IA — en Flik](https://dev.to/barrerasaezgonzalo/mas-alla-de-chatgpt-entendiendo-lo-basico-de-la-ia-en-flik-1jk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
