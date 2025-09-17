@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Coding Practices for .NET Core API Development](https://dev.to/manonaga2188/best-coding-practices-for-net-core-api-development-548c)
-- [FastOpp: A Student-Friendly Starter for AI Web Apps](https://dev.to/jcasman/fastopp-a-student-friendly-starter-for-ai-web-apps-1cef)
-- [Top QR Code Generator Tools for Small and Large Businesses](https://dev.to/joywinter90/top-qr-code-generator-tools-for-small-and-large-businesses-307e)
-- [Global state management in React apps](https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg)
-- [# Introduction](https://dev.to/maria_adde_3cdb7ecaeb3d56/-introduction-kj1)
+- [[Boost]](https://dev.to/maxprilutskiy/-305e)
+- [[Boost]](https://dev.to/rhikshitha_kamalakannan_0/-4gak)
+- [🧩 Design Principles of Software: Building Better Code with Python](https://dev.to/wsalas651/design-principles-of-software-building-better-code-with-python-1cl0)
+- [5 Metrics Every SaaS Business Should Track](https://dev.to/javediqbal8381/5-metrics-every-saas-business-should-track-406m)
+- [Mastering SVM in R: Classification, Kernels &amp; Model Tuning](https://dev.to/thedatageek/mastering-svm-in-r-classification-kernels-model-tuning-256l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
