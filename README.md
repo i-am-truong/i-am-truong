@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Classification in a Nutshell](https://dev.to/vaishakhvipin/classification-in-a-nutshell-4b5g)
 - [Building a Secure Fortress within AI: A Developer&#39;s Guide to Full-Stack Security 🏰](https://dev.to/jonathanvila/building-a-secure-fortress-within-ai-a-developers-guide-to-full-stack-security-2nep)
 - [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-2og7)
 - [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-1m41)
 - [Workflow Automation: Software and Strategies to Streamline Repetitive Tasks and Business Processes](https://dev.to/mohitdecodes/workflow-automation-software-and-strategies-to-streamline-repetitive-tasks-and-business-processes-493i)
-- [Day 30 of #100DaysOfRust: Reference Counting with Rc&lt;T&gt;](https://dev.to/subesh_yadav/day-30-of-100daysofrust-reference-counting-with-rc-2113)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
