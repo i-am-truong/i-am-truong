@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-53ko)
-- [🚀 Day 18 of My Python Learning Journey](https://dev.to/_adii3107/day-18-of-my-python-learning-journey-2agb)
-- [DeepFabric is a Game Changer: 🚀 Build ⛓️-of-💭 Reasoning Datasets in Minutes Using Natural Prompts 💬](https://dev.to/sahilkapoordev/deepfabric-is-a-game-changer-build-of-reasoning-datasets-in-minutes-using-natural-prompts-5hee)
-- [「設計ミス」の社会を再編する：AIと共創する未来の働き方とシステム思考](https://dev.to/_6b2664c123f822f62319/she-ji-misu-noshe-hui-wozai-bian-suruaitogong-chuang-suruwei-lai-nodong-kifang-tosisutemusi-kao-2i8i)
-- [KEXP: Gold Celeste - Grand New Spin &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-grand-new-spin-live-on-kexp-18o3)
+- [Unit Testing vs End-to-End Testing: Striking the Right Balance in Software Quality](https://dev.to/alok_e75d0463248211c2ca56/unit-testing-vs-end-to-end-testing-striking-the-right-balance-in-software-quality-1op5)
+- [Comment automatiser vos relances téléphoniques avec un agent vocal IA](https://dev.to/matthieu_hubert_0db2c1fe4/comment-automatiser-vos-relances-telephoniques-avec-un-agent-vocal-ia-3cgf)
+- [Why Web3 UX Still Lags Behind Web2: The Complexity Barrier](https://dev.to/saira_zeeshan_35fc05971fd/why-web3-ux-still-lags-behind-web2-the-complexity-barrier-2hb7)
+- [Version Control for Prompt Management: Practical Patterns, Guardrails, and CI for Reliable LLM Apps](https://dev.to/debmckinney/version-control-for-prompt-management-practical-patterns-guardrails-and-ci-for-reliable-llm-apps-54gg)
+- [Disposable Vape Becomes Functional Web Server &lpar;24KB RAM Extreme Challenge&rpar; 🔥](https://dev.to/shiva_shanker_k/i-built-a-web-server-inside-a-disposable-vape-24kb-ram-challenge-3n88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
