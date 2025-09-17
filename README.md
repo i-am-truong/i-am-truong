@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Monitoring Concepts You Need to Master the N10-009 Exam: From Information Overload to Focused Insight](https://dev.to/andrew_despres/5-monitoring-concepts-you-need-to-master-the-n10-009-exam-from-information-overload-to-focused-33l2)
-- [Introducing ts-base: A Modern TypeScript Library Template](https://dev.to/bgub/introducing-ts-base-a-modern-typescript-library-template-5g9n)
-- [IGN: Hyrule Warriors: Age of Imprisonment - Official &#39;Fight the Epic Imprisoning War&#39; Trailer](https://dev.to/gg_news/ign-hyrule-warriors-age-of-imprisonment-official-fight-the-epic-imprisoning-war-trailer-14ne)
-- [IGN: Arkheron - Official Reveal Trailer](https://dev.to/gg_news/ign-arkheron-official-reveal-trailer-416)
-- [IGN: Marvel Rivals - Official Technically Speaking Vol. 01](https://dev.to/gg_news/ign-marvel-rivals-official-technically-speaking-vol-01-1go3)
+- [Fraudulent Resource Consumption Attacks and a Gatekeeper Solution](https://dev.to/rmadisetti3/fraudulent-resource-consumption-attacks-and-a-gatekeeper-solution-302)
+- [From Chaos to Cohesion: A Retrospective on How FSMs Connect Us to Domain Experts](https://dev.to/trent_best_ca8617e4911baf/from-chaos-to-cohesion-a-retrospective-on-how-fsms-connect-us-to-domain-experts-391p)
+- [How We Gave Our AI Coding Agents the Context to Stop Hallucinating and Start Fixing Real Bugs](https://dev.to/webviziodotcom/how-we-gave-our-ai-coding-agents-the-context-to-stop-hallucinating-and-start-fixing-real-bugs-2hgd)
+- [Print Isn’t Return: The Subtle Distinction That Changes Everything](https://dev.to/aaron_rose_0787cc8b4775a0/print-isnt-return-the-subtle-distinction-that-changes-everything-4ibi)
+- [GraphRAG with Wikipedia and GPT OSS](https://dev.to/neuml/graphrag-with-wikipedia-and-gpt-oss-38cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
