@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/maxprilutskiy/-305e)
-- [[Boost]](https://dev.to/rhikshitha_kamalakannan_0/-4gak)
-- [🧩 Design Principles of Software: Building Better Code with Python](https://dev.to/wsalas651/design-principles-of-software-building-better-code-with-python-1cl0)
-- [5 Metrics Every SaaS Business Should Track](https://dev.to/javediqbal8381/5-metrics-every-saas-business-should-track-406m)
-- [Mastering SVM in R: Classification, Kernels &amp; Model Tuning](https://dev.to/thedatageek/mastering-svm-in-r-classification-kernels-model-tuning-256l)
+- [[Boost]](https://dev.to/grexe/-4e46)
+- [🚀 How to Redesign Your Website Without Losing SEO &lpar;With a Little AI Help&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/how-to-redesign-your-website-without-losing-seo-with-a-little-ai-help-2lb2)
+- [IGN: Hollow Knight: Silksong Review](https://dev.to/gg_news/ign-hollow-knight-silksong-review-1efg)
+- [Understanding URLs, URIs, and URNs: A Beginner’s Guide to Web Identifiers](https://dev.to/mcheremnov/understanding-urls-uris-and-urns-a-beginners-guide-to-web-identifiers-1nfe)
+- [Managing Users and Access Rights in Odoo &lpar;for New Admins&rpar;](https://dev.to/midlaj_cybrosys_ab8a268cb/managing-users-and-access-rights-in-odoo-for-new-admins-4k8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
