@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Docs‑Aware Chatbot with React, Vite, Node, and OpenAI &lpar;plus fun DALL·E avatars&rpar;](https://dev.to/cloudinary/build-a-docs-aware-chatbot-with-react-vite-node-and-openai-plus-fun-dalle-avatars-1chi)
+- [Asia’s Momentum and the Philippines’ Role in It](https://dev.to/exodiagamedevelopment/asias-momentum-and-the-philippines-role-in-it-1bca)
+- [My First Messenger Bot + Setup: Avoiding the Pitfalls I Fell Into](https://dev.to/marikinyo/my-first-messenger-bot-setup-avoiding-the-pitfalls-i-fell-into-5e21)
+- [What is Security Patching and Why is it Essential for Businesses?](https://dev.to/anshul_kichara/what-is-security-patching-and-why-is-it-essential-for-businesses-i3e)
 - [Git Notes Unraveled: History, Mechanics, and Practical Uses](https://dev.to/shrsv/git-notes-unraveled-history-mechanics-and-practical-uses-25i9)
-- [Apache Kafka in Data Engineering](https://dev.to/pravin_maleya/apache-kafka-in-data-engineering-2028)
-- [Beginner guide for Apache Kafka](https://dev.to/michael_kipkorir_5c3a815b/beginner-guide-for-apache-kafka-k42)
-- [Apache Kafka in Data Engineering.](https://dev.to/kepha_gitau/apache-kafka-in-data-engineering-4f4p)
-- [Apache Kafka in Data engineering](https://dev.to/eden_wetende/apache-kafka-in-data-engineering-e40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
