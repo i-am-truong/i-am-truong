@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Static Single Assignment &lpar;SSA&rpar;](https://dev.to/wildboar_developer/static-single-assignment-ssa-51m3)
+- [Excited to Join the DEV Community – Here’s My Intro](https://dev.to/afzal_hossain/excited-to-join-the-dev-community-heres-my-intro-425g)
 - [Automated Visual Testing with Selenium &amp; Applitools](https://dev.to/jignect-technologies/automated-visual-testing-with-selenium-applitools-192k)
+- [Writing a high-performance viewport for a messenger](https://dev.to/djonnyx/writing-a-high-performance-viewport-for-a-messenger-50f)
 - [Something about Architecture: Layers](https://dev.to/mlodovico/something-about-architecture-layers-5808)
-- [Laravel Helpers Every Beginner Should Know](https://dev.to/rohitdhiman/laravel-helpers-every-beginner-should-know-59o1)
-- [How to Convert Between Decimal and Binary Numbers – Beginner’s Guide](https://dev.to/s_mathavi_2fa1e3ea8514f34/how-to-convert-between-decimal-and-binary-numbers-beginners-guide-3ppe)
-- [Introducing colorific-magic: Enhance Your Console Logs with Stunning Colors](https://dev.to/andinugroho/introducing-colorific-magic-enhance-your-console-logs-with-stunning-colors-4kfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
