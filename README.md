@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My VPC Journey: Hosting a Website in a Multi-AZ Production Environment](https://dev.to/aditya_bhatt_0d5d74efea37/my-vpc-journey-hosting-a-website-in-a-multi-az-production-environment-4830)
-- [Context Window, explain like i&#39;m five](https://dev.to/koha/context-window-explain-like-im-five-2c92)
-- [KEXP: Gold Celeste - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-full-performance-live-on-kexp-3ano)
-- [Access Control in Web Apps: Backend + Frontend](https://dev.to/gzamann/access-control-in-web-apps-backend-frontend-5fc8)
-- [GameSpot: 20 Minutes of Battlefield 6 Operation Firestorm Gameplay](https://dev.to/gg_news/gamespot-20-minutes-of-battlefield-6-operation-firestorm-gameplay-14h9)
+- [Workflow Automation: Software and Strategies to Streamline Repetitive Tasks and Business Processes](https://dev.to/mohitdecodes/workflow-automation-software-and-strategies-to-streamline-repetitive-tasks-and-business-processes-493i)
+- [Day 30 of #100DaysOfRust: Reference Counting with Rc&lt;T&gt;](https://dev.to/subesh_yadav/day-30-of-100daysofrust-reference-counting-with-rc-2113)
+- [Phantom in Data Visualisation](https://dev.to/gzamann/phantom-in-data-visualisation-1iai)
+- [Prompt Chainmail: Security middleware for AI applications](https://dev.to/alexandrughinea/prompt-chainmail-security-middleware-for-ai-applications-2oai)
+- [Construindo uma Aplicação com Syros: Sistema de Inventário Distribuído](https://dev.to/wendelmax/construindo-uma-aplicacao-com-syros-sistema-de-inventario-distribuido-2375)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
