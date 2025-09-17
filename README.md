@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Key concepts to know of a schema in data base](https://dev.to/asha_6ff9a1ab56509e32ab45/key-concepts-to-know-of-a-schema-in-data-base-4l3m)
+- [⚡ Scaling User Search with Bloom Filters in Node.js](https://dev.to/abhivyaktii/scaling-user-search-with-bloom-filters-in-nodejs-1nab)
+- [Want to run Docker on your Webdock VPS without fighting dependencies or broken installs?](https://dev.to/web_learning_4de0b1e0557/want-to-run-docker-on-your-webdock-vps-without-fighting-dependencies-or-broken-installs-2oag)
+- [CLEANING MESSY DATA: Why is it 80% of the job](https://dev.to/herniqness/cleaning-messy-data-why-is-it-80-of-the-job-fh3)
 - [How To Suppress Build Errors in Next.js with TypeScript](https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl)
-- [Day 2:Variables in Python](https://dev.to/sanaipei001/day-2variables-in-python-2m7k)
-- [Hey DEV community! Tired of Git chaos? My new YouTube video, 10X Your Git Workflow: 7 Pro Tips, shares advanced hacks to save time https://youtu.be/d_xZgcRJ--Q #git #versioncontrol #developerproductivity #programming #coding](https://dev.to/urvvil/hey-dev-community-tired-of-git-chaos-my-new-youtube-video-10x-your-git-workflow-7-pro-tips-2n5h)
-- [City Simulation with LLMs — Predicting Traffic &amp; Generating Natural-Language Reports](https://dev.to/preetkamal_singh_a2fe7281/city-simulation-with-llms-predicting-traffic-generating-natural-language-3f4d)
-- [Building a Modern Landing Page in Record Time: My Experience with Codex GPT](https://dev.to/blamsa0mine/building-a-modern-landing-page-in-record-time-my-experience-with-codex-gpt-5den)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
