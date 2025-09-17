@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Strong Authority with LinkNova](https://dev.to/generalstory/build-strong-authority-with-linknova-33g6)
-- [Mastering Software Quality: Integration Testing vs Unit Testing Best Practices](https://dev.to/alok_e75d0463248211c2ca56/mastering-software-quality-integration-testing-vs-unit-testing-best-practices-21dg)
-- [Three React MUI commandments](https://dev.to/techwood/three-react-mui-commandments-1lk)
-- [🛠️ 5 rules to fix device onboarding](https://dev.to/adam/5-rules-to-fix-device-onboarding-598c)
-- [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
+- [Crie um Laboratório SonarQube com Vagrant: Do Zero](https://dev.to/marcos_vile/crie-um-laboratorio-sonarqube-com-vagrant-do-zero-1o60)
+- [Git Rebase vs Git Merge — Simple Guide](https://dev.to/mohsenfallahnjd/git-rebase-vs-git-merge-simple-guide-4pil)
+- [When Should You Use Dynamic Import in React/Next.js? &lpar;With Performance Comparison&rpar;](https://dev.to/mohsenfallahnjd/when-should-you-use-dynamic-import-in-reactnextjs-with-performance-comparison-3862)
+- [Go Maps Deep Dive: Part 1 - The Secrets Behind O&lpar;1&rpar; Performance, Overflows, and Growth](https://dev.to/arshiargh/go-maps-deep-dive-part-1-the-secrets-behind-o1-performance-overflows-and-growth-227)
+- [React useRef vs useState — When to Use Which](https://dev.to/mohsenfallahnjd/react-useref-vs-usestate-when-to-use-which-58k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
