@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 9 of 90 Days Free Python Code Scripts for Beginners – Build a Result Calculator](https://dev.to/momina_raheelmoona_c59/day-9-of-90-days-free-python-code-scripts-for-beginners-build-a-result-calculator-40gh)
+- [Top 15 Speech Translator App Features for Enterprises](https://dev.to/liamcorwin/top-15-speech-translator-app-features-for-enterprises-2hbk)
 - [How Adding an Additional EBS Volume to Existing EC2 Almost Broke My Terraform AWS Workflow and Threatened Our Project Deadline](https://dev.to/venkatesh111/how-adding-an-additional-ebs-volume-to-existing-ec2-almost-broke-my-terraform-aws-workflow-and-29h2)
 - [Exploring JavaScript&#39;s Document Object Model &lpar;DOM&rpar;. Part 2](https://dev.to/folacodes/exploring-javascripts-document-object-model-dom-part-2-21b2)
 - [Global Financial Starter: Multilingual Template – Bejamas x Storyblok, Powered by Astro](https://dev.to/storyblok/global-financial-starter-multilingual-template-bejamas-x-storyblok-powered-by-astro-5495)
-- [We hired AI to do Growth Engineering and here’s what happened](https://dev.to/camelai/we-hired-ai-to-do-growth-engineering-and-heres-what-happened-4ad0)
-- [Budget Controls for AWS: Automatically Manage Your Cloud Costs](https://dev.to/namlahai9/budget-controls-for-aws-automatically-manage-your-cloud-costs-4m1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
