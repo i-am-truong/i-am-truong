@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Strong Authority with LinkNova](https://dev.to/generalstory/build-strong-authority-with-linknova-33g6)
+- [Mastering Software Quality: Integration Testing vs Unit Testing Best Practices](https://dev.to/alok_e75d0463248211c2ca56/mastering-software-quality-integration-testing-vs-unit-testing-best-practices-21dg)
 - [Three React MUI commandments](https://dev.to/techwood/three-react-mui-commandments-1lk)
-- [Why I’m Back to Web Components and Why You Should Be Too](https://dev.to/fedtti/why-im-back-to-web-components-and-why-you-should-be-too-n5h)
+- [🛠️ 5 rules to fix device onboarding](https://dev.to/adam/5-rules-to-fix-device-onboarding-598c)
 - [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
-- [How AI Can Predict the Success of Your Business Using Data from Google Maps](https://dev.to/noraina_nordin/how-ai-can-predict-the-success-of-your-business-using-data-from-google-maps-3821)
-- [Turning Your Ideas into Gold: Why The AI Alchemist Is About to Be Your Secret Weapon 🧙‍♂️](https://dev.to/theaialchemist2025/turning-your-ideas-into-gold-why-the-ai-alchemist-is-about-to-be-your-secret-weapon-1j8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
