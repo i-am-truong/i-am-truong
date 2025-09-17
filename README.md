@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI outlines new initiatives to enhance teen safety, freedom, and privacy on its platform](https://dev.to/ytosko/openai-outlines-new-initiatives-to-enhance-teen-safety-freedom-and-privacy-on-its-platform-2dmb)
-- [IGN: Dying Light: The Beast – 8 Things It Doesn’t Tell You](https://dev.to/gg_news/ign-dying-light-the-beast-8-things-it-doesnt-tell-you-34n4)
-- [IGN: Anaconda - Official Trailer &lpar;2025&rpar; Jack Black, Paul Rudd, Steve Zahn](https://dev.to/gg_news/ign-anaconda-official-trailer-2025-jack-black-paul-rudd-steve-zahn-3ich)
-- [Comprehensive Apache POI Tutorial: Excel File Handling in Java](https://dev.to/sadiul_hakim/comprehensive-apache-poi-tutorial-excel-file-handling-in-java-7mf)
-- [My journey on AWS Region Migration: What I wished I had aware of](https://dev.to/aws-builders/my-journey-on-aws-region-migration-what-i-wished-i-had-aware-of-2dk9)
+- [🌐 OSI Model vs TCP/IP Model: Beginner-Friendly Guide](https://dev.to/mehramjot_kaur_4ec1bfe123/osi-model-vs-tcpip-model-beginner-friendly-guide-2g59)
+- [Escaping Pure Vibe Coding: Making AI More Predictable with JSON](https://dev.to/tj-ldc/escaping-pure-vibe-coding-making-ai-more-predictable-with-json-5472)
+- [The Next Evolution of Code Agents is Coming](https://dev.to/timothy_smith_zerovapor/the-next-evolution-of-code-agents-is-coming-311c)
+- [Wanna Switch from Backend Dev to AI/ML Engineer? A Research-Backed, Practical Guide](https://dev.to/m-a-h-b-u-b/wanna-switch-from-backend-dev-to-aiml-engineer-a-research-backed-practical-guide-2pnh)
+- [The Automation Maturity Pyramid](https://dev.to/cydavid/the-automation-maturity-pyramid-56o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
