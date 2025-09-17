@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Something about Architecture: Layers](https://dev.to/mlodovico/something-about-architecture-layers-5808)
 - [Laravel Helpers Every Beginner Should Know](https://dev.to/rohitdhiman/laravel-helpers-every-beginner-should-know-59o1)
 - [How to Convert Between Decimal and Binary Numbers – Beginner’s Guide](https://dev.to/s_mathavi_2fa1e3ea8514f34/how-to-convert-between-decimal-and-binary-numbers-beginners-guide-3ppe)
 - [Introducing colorific-magic: Enhance Your Console Logs with Stunning Colors](https://dev.to/andinugroho/introducing-colorific-magic-enhance-your-console-logs-with-stunning-colors-4kfm)
 - [Part-62: To Implement a VPC Private Google Access for Cloud Run Service in GCP Cloud](https://dev.to/latchudevops/part-62-to-implement-a-vpc-private-google-access-for-cloud-run-service-in-gcp-cloud-49bn)
-- [Managing Tech Debt: Engineering Practices for Sustainable Systems](https://dev.to/deepakgupta/managing-tech-debt-engineering-practices-for-sustainable-systems-4k7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
