@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DKM, Multichain Wallet Control Are ROFL Benefits Every Web3 Dev Should Explore For Future With Autonomous Agents](https://dev.to/dc600/dkm-multichain-wallet-control-are-rofl-benefits-every-web3-dev-should-explore-for-future-with-3nog)
-- [Handling Missing Data in R: A Complete Guide to Imputation with MICE](https://dev.to/anshuman_816f8012be0c9b6c/handling-missing-data-in-r-a-complete-guide-to-imputation-with-mice-2o85)
-- [EventBridge to SQS when cross region and cross account](https://dev.to/aws-builders/eventbridge-to-sqs-when-cross-region-and-cross-account-1jgd)
-- [Test Reporting and Analytics: From Raw Data to Strategic Advantage](https://dev.to/keploy/test-reporting-and-analytics-from-raw-data-to-strategic-advantage-5e53)
-- [Backlinks in 2025: Quality vs. Quantity - What Really Matters?](https://dev.to/dataonmatrix/backlinks-in-2025-quality-vs-quantity-what-really-matters-e4e)
+- [#3 Finished CNN Training – Next Step: EfficientNet-B2](https://dev.to/esdk/3-finished-cnn-training-next-step-efficientnet-b2-41n5)
+- [🌟 Modern Global Exception Handling in Spring Boot](https://dev.to/ayon_ssp/modern-global-exception-handling-in-spring-boot-43aj)
+- [Weekly Update #9](https://dev.to/abytebybyte/weekly-update-9-3nmh)
+- [29-InstanceOf and Type Predicates](https://dev.to/cgithub123/29-instanceof-and-type-predicates-j7o)
+- [think about my self with confident](https://dev.to/ttho7902/think-about-my-self-with-confident-14b0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
