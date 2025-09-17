@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s The Biggest Project You&#39;ve Ever Taken?](https://dev.to/javanteb23/whats-the-biggest-project-youve-ever-taken-2od6)
-- [&lpar;Day-01&rpar; Read Forex Charts as a Beginner with GPT](https://dev.to/t2s/day-01-read-forex-charts-as-a-beginner-with-gpt-29o2)
-- [Wolverine + Marten: My story and subjective take](https://dev.to/manhhungtran/wolverine-marten-my-story-and-subjective-take-1mj3)
-- [Learning to code in Nigeria](https://dev.to/inioluwa_ayodeji_310ffe27/learning-to-code-in-nigeria-2kna)
-- [Making sure your PDF compliance and privacy requirements are met with JoyDoc](https://dev.to/joyfill/making-sure-your-pdf-compliance-and-privacy-requirements-are-met-with-joydoc-349h)
+- [Stop Hammering Broken APIs - the Circuit Breaker Pattern](https://dev.to/gkoos/stop-hammering-broken-apis-the-circuit-breaker-pattern-3bif)
+- [Rick Beato: The Nick Raskulinecz Interview: Crafting The Sounds Of Deftones, Foo Fighters, AIC and Rush](https://dev.to/music_youtube/rick-beato-the-nick-raskulinecz-interview-crafting-the-sounds-of-deftones-foo-fighters-aic-and-477m)
+- [IGN: Warborne Above Ashes - Official Trailer](https://dev.to/gg_news/ign-warborne-above-ashes-official-trailer-2ok2)
+- [IGN: WWE 2K25 - Official Attitude Era Superstars DLC 4 Trailer](https://dev.to/gg_news/ign-wwe-2k25-official-attitude-era-superstars-dlc-4-trailer-8f3)
+- [IGN: Strongest Vex Build in Borderlands 4 – Blood Letter Infinite Damage Guide](https://dev.to/gg_news/ign-strongest-vex-build-in-borderlands-4-blood-letter-infinite-damage-guide-2gdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
