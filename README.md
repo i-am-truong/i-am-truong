@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/grexe/-4e46)
-- [🚀 How to Redesign Your Website Without Losing SEO &lpar;With a Little AI Help&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/how-to-redesign-your-website-without-losing-seo-with-a-little-ai-help-2lb2)
-- [IGN: Hollow Knight: Silksong Review](https://dev.to/gg_news/ign-hollow-knight-silksong-review-1efg)
-- [Understanding URLs, URIs, and URNs: A Beginner’s Guide to Web Identifiers](https://dev.to/mcheremnov/understanding-urls-uris-and-urns-a-beginners-guide-to-web-identifiers-1nfe)
-- [Managing Users and Access Rights in Odoo &lpar;for New Admins&rpar;](https://dev.to/midlaj_cybrosys_ab8a268cb/managing-users-and-access-rights-in-odoo-for-new-admins-4k8e)
+- [From Files to Frameworks: Mastering Packages &amp; Modules in OSE](https://dev.to/codigger/from-files-to-frameworks-mastering-packages-modules-in-ose-1pok)
+- [JavaScript DOM: A Beginner’s Guide to Selecting HTML Elements](https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-selecting-html-elements-5h22)
+- [When &lpar;Not If&rpar; Containers Misbehave](https://dev.to/aws-builders/when-not-if-containers-misbehave-1kao)
+- [Build a Full-Stack QR Code Generator in MERN with GraphQL &amp; MongoDB &lpar;No External API Needed!&rpar;](https://dev.to/lfariaus/build-a-full-stack-qr-code-generator-in-mern-with-graphql-mongodb-no-external-api-needed-1fbg)
+- [When JS blocks parsing your HTML](https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
