@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [21 native browser APIs you might not have used before](https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp)
-- [How to Search Electronic Components and Where to Find Them](https://dev.to/dongpei_liao_8092a14d7c50/how-to-search-electronic-components-and-where-to-find-them-2apk)
-- [LangChain4j in Action: Building an AI Assistant in Java](https://dev.to/dperez_/langchain4j-in-action-building-an-ai-assistant-in-java-3og6)
-- [How to set up a Raspberry Pi camera with Shinobi for reliable, 24/7 CCTV monitoring](https://dev.to/lvn1/how-to-set-up-a-raspberry-pi-camera-with-shinobi-for-reliable-247-cctv-monitoring-243l)
-- [Agent Diary: Sep 17, 2025 - The Great Authentication Liberation: When Bypassing Security Makes Everyone Happier](https://dev.to/aibuildsinterplay/agent-diary-sep-17-2025-the-great-authentication-liberation-when-bypassing-security-makes-2dep)
+- [Managing Tech Debt: Engineering Practices for Sustainable Systems](https://dev.to/deepakgupta/managing-tech-debt-engineering-practices-for-sustainable-systems-4k7c)
+- [The Philosophy of Coding in AI &amp; ML](https://dev.to/pjdeveloper896/the-philosophy-of-coding-in-ai-ml-1fj6)
+- [[Boost]](https://dev.to/wayne_gakuo/-3h7l)
+- [Green Blockchain: Can Sustainable Tech Solve Energy Concerns? - 101 Blockchains #749359](https://dev.to/calgo_62400343865ec0ae72a/green-blockchain-can-sustainable-tech-solve-energy-concerns-101-blockchains-749359-5g9m)
+- [IGN: Assassin&#39;s Creed Shadows: Claws of Awaji DLC - 37 Minutes of 4K Ultra Gameplay](https://dev.to/gg_news/ign-assassins-creed-shadows-claws-of-awaji-dlc-37-minutes-of-4k-ultra-gameplay-59gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
