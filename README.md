@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐 OSI Model vs TCP/IP Model: Beginner-Friendly Guide](https://dev.to/mehramjot_kaur_4ec1bfe123/osi-model-vs-tcpip-model-beginner-friendly-guide-2g59)
-- [Escaping Pure Vibe Coding: Making AI More Predictable with JSON](https://dev.to/tj-ldc/escaping-pure-vibe-coding-making-ai-more-predictable-with-json-5472)
-- [The Next Evolution of Code Agents is Coming](https://dev.to/timothy_smith_zerovapor/the-next-evolution-of-code-agents-is-coming-311c)
-- [Wanna Switch from Backend Dev to AI/ML Engineer? A Research-Backed, Practical Guide](https://dev.to/m-a-h-b-u-b/wanna-switch-from-backend-dev-to-aiml-engineer-a-research-backed-practical-guide-2pnh)
-- [The Automation Maturity Pyramid](https://dev.to/cydavid/the-automation-maturity-pyramid-56o1)
+- [Stop Falling for the ‘How I Made $$$ in 10 Days’ Trap](https://dev.to/scofieldidehen/stop-falling-for-the-how-i-made-in-10-days-trap-gb1)
+- [React Form Action](https://dev.to/rameem2003/react-form-action-3ob1)
+- [Какую приставку PlayStation лучше выбрать: что важно учесть](https://dev.to/muravochka88/kakuiu-pristavku-playstation-luchshie-vybrat-chto-vazhno-uchiest-1k8i)
+- [Beyond `text-wrap: pretty` — language-aware line breaks for minor words](https://dev.to/jlorenzetti/beyond-text-wrap-pretty-language-aware-line-breaks-for-minor-words-if6)
+- [Golang Interfaces are easy](https://dev.to/mvaldes/golang-interfaces-are-easy-31c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
