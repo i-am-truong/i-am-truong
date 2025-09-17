@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Why Tailwind CSS Wasn&#39;t Working with My Vite React App](https://dev.to/minoosh/solved-why-tailwind-css-wasnt-working-with-my-vite-react-app-2ooo)
-- [🔐 Breaking Down Identity, Authentication, Authorization &amp; SSO](https://dev.to/sohillalakiya/breaking-down-identity-authentication-authorization-sso-hf0)
-- [How I Applied an Higher Order Array Method In a Project](https://dev.to/kansoldev/how-i-applied-an-higher-order-array-method-in-a-project-2m0k)
-- [When a node crashes, how does it catch up with the cluster? That’s where Raft shines.](https://dev.to/navidreza80/when-a-node-crashes-how-does-it-catch-up-with-the-cluster-thats-where-raft-shines-9ii)
-- [React Native + Android’s 16 KB Page Size: What It Is, Why It Matters, and Exactly How to Get Your App Ready](https://dev.to/maheshwarimrinal/react-native-androids-16-kb-page-size-what-it-is-why-it-matters-and-exactly-how-to-get-your-34da)
+- [Modern Libraries with Classic Games](https://dev.to/stoyan_shopov_8c720357846/modern-libraries-with-classic-games-3a7g)
+- [Day 51: CI/CD pipeline pt 2](https://dev.to/udoh_deborah_b1e484c474bf/day-51-cicd-pipeline-pt-2-4jf1)
+- [[Boost]](https://dev.to/bdussault/-4d6b)
+- [Shipping a Lean DDD-Friendly Inventory API in Laravel 12](https://dev.to/blamsa0mine/shipping-a-lean-ddd-friendly-inventory-api-in-laravel-12-4oen)
+- [Why Magento 2 Security Patches Are Not Optional for Enterprise Stores](https://dev.to/zalak_parikh_a9b68d1adb0b/why-magento-2-security-patches-are-not-optional-for-enterprise-stores-532m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
