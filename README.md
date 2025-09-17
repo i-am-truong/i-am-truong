@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#3 Finished CNN Training – Next Step: EfficientNet-B2](https://dev.to/esdk/3-finished-cnn-training-next-step-efficientnet-b2-41n5)
-- [🌟 Modern Global Exception Handling in Spring Boot](https://dev.to/ayon_ssp/modern-global-exception-handling-in-spring-boot-43aj)
-- [Weekly Update #9](https://dev.to/abytebybyte/weekly-update-9-3nmh)
-- [29-InstanceOf and Type Predicates](https://dev.to/cgithub123/29-instanceof-and-type-predicates-j7o)
-- [think about my self with confident](https://dev.to/ttho7902/think-about-my-self-with-confident-14b0)
+- [JT-Trader: A Complete Overview of the Cryptocurrency Algorithmic Trading Platform](https://dev.to/jtlab/jt-trader-a-complete-overview-of-the-cryptocurrency-algorithmic-trading-platform-4hk3)
+- [Building a Real-Time Heart Rate Monitoring App with Kotlin + Google Cloud](https://dev.to/qandil_tariq_0e73fd980d58/building-a-real-time-heart-rate-monitoring-app-with-kotlin-google-cloud-aic)
+- [Neuromarketing in Practice: Strategies to Tap into Subconscious Consumer Decisions](https://dev.to/aditya-saasy/neuromarketing-in-practice-strategies-to-tap-into-subconscious-consumer-decisions-567)
+- [30-Discriminated Union and Exhaustiveness Checking with never](https://dev.to/cgithub123/30-discriminated-union-and-exhaustiveness-checking-with-never-4340)
+- [Building Prude](https://dev.to/njabulomajozi/prude-transform-your-communication-eo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
