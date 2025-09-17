@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Monitoring Concepts You Need to Master the N10-009 Exam: From Information Overload to Focused Insight](https://dev.to/andrew_despres/5-monitoring-concepts-you-need-to-master-the-n10-009-exam-from-information-overload-to-focused-33l2)
 - [Introducing ts-base: A Modern TypeScript Library Template](https://dev.to/bgub/introducing-ts-base-a-modern-typescript-library-template-5g9n)
 - [IGN: Hyrule Warriors: Age of Imprisonment - Official &#39;Fight the Epic Imprisoning War&#39; Trailer](https://dev.to/gg_news/ign-hyrule-warriors-age-of-imprisonment-official-fight-the-epic-imprisoning-war-trailer-14ne)
 - [IGN: Arkheron - Official Reveal Trailer](https://dev.to/gg_news/ign-arkheron-official-reveal-trailer-416)
 - [IGN: Marvel Rivals - Official Technically Speaking Vol. 01](https://dev.to/gg_news/ign-marvel-rivals-official-technically-speaking-vol-01-1go3)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 12 - &#39;The Royal Tenenbaums’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-12-the-royal-tenenbaums-31gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
