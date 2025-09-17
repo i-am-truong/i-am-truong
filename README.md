@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📣 Just announced: IBM Granite-Docling: End-to-end document understanding with one tiny model](https://dev.to/aairom/just-announced-ibm-granite-docling-end-to-end-document-understanding-with-one-tiny-model-1nog)
-- [Building the Future of AI: How to Create Autonomous AI Agents for Real-World Applications](https://dev.to/onlineproxy/building-the-future-of-ai-how-to-create-autonomous-ai-agents-for-real-world-applications-5bi6)
-- [Modern Libraries with Classic Games](https://dev.to/stoyan_shopov_8c720357846/modern-libraries-with-classic-games-3a7g)
-- [Day 51: CI/CD pipeline pt 2](https://dev.to/udoh_deborah_b1e484c474bf/day-51-cicd-pipeline-pt-2-4jf1)
-- [[Boost]](https://dev.to/bdussault/-4d6b)
+- [Kubernetes 102: Setting Up Your First Cluster and Core Concepts 🚀](https://dev.to/alikhere/kubernetes-102-setting-up-your-first-cluster-and-core-concepts-52j5)
+- [Building a Multi-Agent Competitive Intelligence Platform with Bright Data and Strands](https://dev.to/meirk-codes/building-a-multi-agent-competitive-intelligence-platform-with-bright-data-and-strands-5alc)
+- [Building an SVG Editor with Konva.js](https://dev.to/lovestaco/building-an-svg-editor-with-konvajs-56fo)
+- [Web Transition: Part 4 of 4 — The Return to Simplicity](https://dev.to/raheelshan/web-transition-part-4-of-4-the-return-to-simplicity-h)
+- [Web Transition: Part 3 of 4—The SPA Takeover](https://dev.to/raheelshan/web-transition-part-3-of-4-the-spa-takeover-jmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
