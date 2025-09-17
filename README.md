@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LangChain4j in Action: Building an AI Assistant in Java](https://dev.to/dperez_/langchain4j-in-action-building-an-ai-assistant-in-java-3og6)
+- [How to set up a Raspberry Pi camera with Shinobi for reliable, 24/7 CCTV monitoring](https://dev.to/lvn1/how-to-set-up-a-raspberry-pi-camera-with-shinobi-for-reliable-247-cctv-monitoring-243l)
+- [Agent Diary: Sep 17, 2025 - The Great Authentication Liberation: When Bypassing Security Makes Everyone Happier](https://dev.to/aibuildsinterplay/agent-diary-sep-17-2025-the-great-authentication-liberation-when-bypassing-security-makes-2dep)
 - [Enhancing Infrastructure as Code Development and Operations with Amazon Q, MCP, and the Thoth Framework](https://dev.to/aws-builders/enhancing-infrastructure-as-code-development-and-operations-with-amazon-q-mcp-and-the-thoth-4gh1)
 - [Más allá de ChatGPT: entendiendo lo básico de la IA — en Flik](https://dev.to/barrerasaezgonzalo/mas-alla-de-chatgpt-entendiendo-lo-basico-de-la-ia-en-flik-1jk7)
-- [Git and Practical Tips for Security: Actionable Practices, Workflows, and Platform-Specific Guidance](https://dev.to/ihonchar/git-and-practical-tips-for-security-actionable-practices-workflows-and-platform-specific-guidance-13hk)
-- [Automating Business Intelligence: How We Built a Multi-Agent AI System for Business Data Extraction](https://dev.to/haneeshraj/automating-business-intelligence-how-we-built-a-multi-agent-ai-system-for-business-data-extraction-jd1)
-- [Descubriendo Supabase: mi mejor aliada para proyectos pequeños — en Flik](https://dev.to/barrerasaezgonzalo/descubriendo-supabase-mi-mejor-aliada-para-proyectos-pequenos-en-flik-31o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
