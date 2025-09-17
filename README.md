@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is This Magic? Demystifying the Metaverse &lpar;and How You Can Take a Peek Inside!&rpar;](https://dev.to/karthik_n/is-this-magic-demystifying-the-metaverse-and-how-you-can-take-a-peek-inside-3o7a)
-- [Hi there it&#39;s Tashfeen Mehmood](https://dev.to/tashfeen_mehmood_2b5ce4aa/hi-there-its-tashfeen-mehmood-5ce7)
-- [A Developer&#39;s Guide to Visualizing Tesla&#39;s Financial Data with XBRL](https://dev.to/finfeedapi/a-developers-guide-to-visualizing-teslas-financial-data-with-xbrl-1oga)
-- [Day 9 of 90 Days Free Python Code Scripts for Beginners – Build a Result Calculator](https://dev.to/momina_raheelmoona_c59/day-9-of-90-days-free-python-code-scripts-for-beginners-build-a-result-calculator-40gh)
-- [Top 15 Speech Translator App Features for Enterprises](https://dev.to/liamcorwin/top-15-speech-translator-app-features-for-enterprises-2hbk)
+- [Three React MUI commandments](https://dev.to/techwood/three-react-mui-commandments-1lk)
+- [Why I’m Back to Web Components and Why You Should Be Too](https://dev.to/fedtti/why-im-back-to-web-components-and-why-you-should-be-too-n5h)
+- [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
+- [How AI Can Predict the Success of Your Business Using Data from Google Maps](https://dev.to/noraina_nordin/how-ai-can-predict-the-success-of-your-business-using-data-from-google-maps-3821)
+- [Turning Your Ideas into Gold: Why The AI Alchemist Is About to Be Your Secret Weapon 🧙‍♂️](https://dev.to/theaialchemist2025/turning-your-ideas-into-gold-why-the-ai-alchemist-is-about-to-be-your-secret-weapon-1j8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
