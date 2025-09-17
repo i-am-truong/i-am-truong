@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Static Single Assignment &lpar;SSA&rpar;](https://dev.to/wildboar_developer/static-single-assignment-ssa-51m3)
-- [Excited to Join the DEV Community – Here’s My Intro](https://dev.to/afzal_hossain/excited-to-join-the-dev-community-heres-my-intro-425g)
-- [Automated Visual Testing with Selenium &amp; Applitools](https://dev.to/jignect-technologies/automated-visual-testing-with-selenium-applitools-192k)
-- [Writing a high-performance viewport for a messenger](https://dev.to/djonnyx/writing-a-high-performance-viewport-for-a-messenger-50f)
-- [Something about Architecture: Layers](https://dev.to/mlodovico/something-about-architecture-layers-5808)
+- [Top QR Code Generator Tools for Small and Large Businesses](https://dev.to/joywinter90/top-qr-code-generator-tools-for-small-and-large-businesses-307e)
+- [Global state management in React apps](https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg)
+- [# Introduction](https://dev.to/maria_adde_3cdb7ecaeb3d56/-introduction-kj1)
+- [From Idea to Marketplace: The DevPromptly VS Code Plugin story](https://dev.to/fjmorant/from-idea-to-marketplace-the-devpromptly-vs-code-plugin-story-4095)
+- [Remote Work Security: Managing Passwords in a Distributed Workforce](https://dev.to/rahul_sharma_15bd129bc69e/remote-work-security-managing-passwords-in-a-distributed-workforce-25c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
