@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revisão Automática de PRs no GitHub com Gemini Code Assist](https://dev.to/dev-araujo/revisao-automatica-de-prs-no-github-com-gemini-code-assist-241n)
-- [Getting Started with Coder.com](https://dev.to/shubhamkcloud/getting-started-with-codercom-nm8)
-- [Coding Challenge Practice - Question 9.](https://dev.to/tomivan/coding-challenge-practice-question-9-1la9)
-- [Run Payload Jobs on Vercel &lpar;Serverless&rpar; — Step‑by‑Step Migration](https://dev.to/aaronksaunders/run-payload-jobs-on-vercel-serverless-step-by-step-migration-aj9)
-- [Typology of Prediction &amp; Forecasting Projects - A Technical Guide](https://dev.to/bigdexter/typology-of-prediction-forecasting-projects-a-technical-guide-1402)
+- [Git Notes Unraveled: History, Mechanics, and Practical Uses](https://dev.to/shrsv/git-notes-unraveled-history-mechanics-and-practical-uses-25i9)
+- [Apache Kafka in Data Engineering](https://dev.to/pravin_maleya/apache-kafka-in-data-engineering-2028)
+- [Beginner guide for Apache Kafka](https://dev.to/michael_kipkorir_5c3a815b/beginner-guide-for-apache-kafka-k42)
+- [Apache Kafka in Data Engineering.](https://dev.to/kepha_gitau/apache-kafka-in-data-engineering-4f4p)
+- [Apache Kafka in Data engineering](https://dev.to/eden_wetende/apache-kafka-in-data-engineering-e40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
