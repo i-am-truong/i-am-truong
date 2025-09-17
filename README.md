@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/clsource/-1k7p)
-- [Authentication Using Better-Auth &lpar;Basics Tutorial&rpar;](https://dev.to/devrayat000/authentication-using-better-auth-basics-tutorial-1bc1)
-- [How to create a MCP server and MCP tools from scratch?](https://dev.to/zeedu_dev/how-to-create-a-mcp-server-and-mcp-tools-from-scratch-fea)
-- [git rebase and squash before opening merge requests](https://dev.to/choibits/git-rebase-and-squash-before-opening-merge-requests-3o3e)
-- [Scaling Read Tracking with Redis Bitmaps](https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip)
+- [IGN: How Nioh 3 is Changing the Game with Ninja Style and the Distinctive Mist System – IGN First](https://dev.to/gg_news/ign-how-nioh-3-is-changing-the-game-with-ninja-style-and-the-distinctive-mist-system-ign-first-29o3)
+- [IGN: The Lift - Official Announcement Trailer](https://dev.to/gg_news/ign-the-lift-official-announcement-trailer-551)
+- [IGN: Minecraft x Jurassic World - Official Trailer](https://dev.to/gg_news/ign-minecraft-x-jurassic-world-official-trailer-ek5)
+- [IGN: Borderlands 4: How to Get the Rainbow Vomit Shotgun &lpar;Legendary Farm Guide&rpar;](https://dev.to/gg_news/ign-borderlands-4-how-to-get-the-rainbow-vomit-shotgun-legendary-farm-guide-p32)
+- [IGN: Mistfall Hunter - Official BETA 3 Gameplay Trailer](https://dev.to/gg_news/ign-mistfall-hunter-official-beta-3-gameplay-trailer-k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
