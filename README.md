@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flores amarillas](https://dev.to/jhoniiier/flores-amarillas-feb)
+- [Building Web Servers from First Principles &lpar;Part 6&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-6-1f1d)
 - [Building Web Servers from First Principles &lpar;Part 5&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-5-27h)
 - [Building Web Servers from First Principles &lpar;Part 4&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-4-1e57)
 - [Building Web Servers from First Principles &lpar;Part 3&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-3-31f9)
-- [Event-Driven Architectures](https://dev.to/gabrielle_eduarda_776996b/event-driven-architectures-3i3d)
-- [Building Web Servers from First Principles &lpar;Part 2&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-2-53hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
