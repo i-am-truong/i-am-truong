@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [📣 Just announced: IBM Granite-Docling: End-to-end document understanding with one tiny model](https://dev.to/aairom/just-announced-ibm-granite-docling-end-to-end-document-understanding-with-one-tiny-model-1nog)
+- [Building the Future of AI: How to Create Autonomous AI Agents for Real-World Applications](https://dev.to/onlineproxy/building-the-future-of-ai-how-to-create-autonomous-ai-agents-for-real-world-applications-5bi6)
 - [Modern Libraries with Classic Games](https://dev.to/stoyan_shopov_8c720357846/modern-libraries-with-classic-games-3a7g)
 - [Day 51: CI/CD pipeline pt 2](https://dev.to/udoh_deborah_b1e484c474bf/day-51-cicd-pipeline-pt-2-4jf1)
 - [[Boost]](https://dev.to/bdussault/-4d6b)
-- [Shipping a Lean DDD-Friendly Inventory API in Laravel 12](https://dev.to/blamsa0mine/shipping-a-lean-ddd-friendly-inventory-api-in-laravel-12-4oen)
-- [Why Magento 2 Security Patches Are Not Optional for Enterprise Stores](https://dev.to/zalak_parikh_a9b68d1adb0b/why-magento-2-security-patches-are-not-optional-for-enterprise-stores-532m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
