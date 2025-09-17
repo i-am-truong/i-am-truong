@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [4 Ways to Supercharge Your HLS Live Streaming App with AI-Powered Analysis](https://dev.to/aws/4-ways-to-supercharge-your-hls-live-streaming-app-with-ai-powered-analysis-4mob)
-- [Kren v1: Turning an Encoder into a Khasi-Speaking AI](https://dev.to/b_nyalang/kren-v1-turning-an-encoder-into-a-khasi-speaking-ai-1bd3)
-- [The Transparency Paradox: I Open-Sourced My Web3 Game&#39;s Contracts, But Kept The Backend Secret. Here&#39;s Why.](https://dev.to/crow004/the-transparency-paradox-i-open-sourced-my-web3-games-contracts-but-kept-the-backend-secret-2bop)
-- [Day 5:User Input in Python](https://dev.to/sanaipei001/day-5user-input-in-python-401o)
-- [A Quick Intro to Reinforcement Learning for Developers 🚀](https://dev.to/vikramdesai/a-quick-intro-to-reinforcement-learning-for-developers-27on)
+- [OpenAI outlines new initiatives to enhance teen safety, freedom, and privacy on its platform](https://dev.to/ytosko/openai-outlines-new-initiatives-to-enhance-teen-safety-freedom-and-privacy-on-its-platform-2dmb)
+- [IGN: Dying Light: The Beast – 8 Things It Doesn’t Tell You](https://dev.to/gg_news/ign-dying-light-the-beast-8-things-it-doesnt-tell-you-34n4)
+- [IGN: Anaconda - Official Trailer &lpar;2025&rpar; Jack Black, Paul Rudd, Steve Zahn](https://dev.to/gg_news/ign-anaconda-official-trailer-2025-jack-black-paul-rudd-steve-zahn-3ich)
+- [Comprehensive Apache POI Tutorial: Excel File Handling in Java](https://dev.to/sadiul_hakim/comprehensive-apache-poi-tutorial-excel-file-handling-in-java-7mf)
+- [My journey on AWS Region Migration: What I wished I had aware of](https://dev.to/aws-builders/my-journey-on-aws-region-migration-what-i-wished-i-had-aware-of-2dk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
