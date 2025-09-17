@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Revisão Automática de PRs no GitHub com Gemini Code Assist](https://dev.to/dev-araujo/revisao-automatica-de-prs-no-github-com-gemini-code-assist-241n)
+- [Getting Started with Coder.com](https://dev.to/shubhamkcloud/getting-started-with-codercom-nm8)
 - [Coding Challenge Practice - Question 9.](https://dev.to/tomivan/coding-challenge-practice-question-9-1la9)
 - [Run Payload Jobs on Vercel &lpar;Serverless&rpar; — Step‑by‑Step Migration](https://dev.to/aaronksaunders/run-payload-jobs-on-vercel-serverless-step-by-step-migration-aj9)
 - [Typology of Prediction &amp; Forecasting Projects - A Technical Guide](https://dev.to/bigdexter/typology-of-prediction-forecasting-projects-a-technical-guide-1402)
-- [PWC 339 Max Diff: Sorting for the win](https://dev.to/boblied/pwc-339-max-diff-sorting-for-the-win-43c8)
-- [What is an AI Trust Framework? Top 3 Pillars of Macaron&#39;s Governance Model in 2025](https://dev.to/sande_isido_5f25353ee9e68/what-is-an-ai-trust-framework-top-3-pillars-of-macarons-governance-model-in-2025-3383)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
