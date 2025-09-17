@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/building-mcp-tools-a-pdf-processing-server-1k38)
-- [Shopify 🚀 no es solo para grandes marcas: cómo las pymes pueden escalar su e-commerce](https://dev.to/lewiz17/shopify-no-es-solo-para-grandes-marcas-como-las-pymes-pueden-escalar-su-e-commerce-2pmc)
-- [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
-- [Why Everyone Says .NET Can’t Handle High Concurrency &lpar;And Why That’s Outdated&rpar;](https://dev.to/lamri_abdellahramdane_15/why-everyone-says-net-cant-handle-high-concurrency-and-why-thats-outdated-14m7)
-- [Growing Great Engineering Teams Starts With Leadership](https://dev.to/jonathan_steve_406dc6a0ab/growing-great-engineering-teams-starts-with-leadership-452b)
+- [Building Web Servers from First Principles &lpar;Part 5&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-5-27h)
+- [Building Web Servers from First Principles &lpar;Part 4&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-4-1e57)
+- [Building Web Servers from First Principles &lpar;Part 3&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-3-31f9)
+- [Event-Driven Architectures](https://dev.to/gabrielle_eduarda_776996b/event-driven-architectures-3i3d)
+- [Building Web Servers from First Principles &lpar;Part 2&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-2-53hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
