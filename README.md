@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Crie um Laboratório SonarQube com Vagrant: Do Zero](https://dev.to/marcos_vile/crie-um-laboratorio-sonarqube-com-vagrant-do-zero-1o60)
-- [Git Rebase vs Git Merge — Simple Guide](https://dev.to/mohsenfallahnjd/git-rebase-vs-git-merge-simple-guide-4pil)
-- [When Should You Use Dynamic Import in React/Next.js? &lpar;With Performance Comparison&rpar;](https://dev.to/mohsenfallahnjd/when-should-you-use-dynamic-import-in-reactnextjs-with-performance-comparison-3862)
-- [Go Maps Deep Dive: Part 1 - The Secrets Behind O&lpar;1&rpar; Performance, Overflows, and Growth](https://dev.to/arshiargh/go-maps-deep-dive-part-1-the-secrets-behind-o1-performance-overflows-and-growth-227)
-- [React useRef vs useState — When to Use Which](https://dev.to/mohsenfallahnjd/react-useref-vs-usestate-when-to-use-which-58k0)
+- [The Best &quot;Man&quot; Wins: Why the Vibe Coder vs. Engineer Debate is Over](https://dev.to/gregory42266270/the-best-man-wins-why-the-vibe-coder-vs-engineer-debate-is-over-6lg)
+- [The Plagiarism Machine: How AI Repackages Human Knowledge Without Credit](https://dev.to/agustin_v_startari/the-plagiarism-machine-how-ai-repackages-human-knowledge-without-credit-4dij)
+- [Day 3:Data Types in Python](https://dev.to/sanaipei001/day-3data-types-in-python-29fn)
+- [Managing Docker Containers: docker ps, stop and remove 🐳](https://dev.to/dev888_august_bfb28f16737/managing-docker-containers-docker-ps-stop-and-remove-3iok)
+- [Building a Schema-to-Form Generator in Public — Looking for Feedback](https://dev.to/muhaddisrehman/building-a-schema-to-form-generator-in-public-looking-for-feedback-2gbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
