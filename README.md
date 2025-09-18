@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the Midnight Network &quot;Privacy First&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-midnight-network-privacy-first-challenge-winners-4o04)
+- [Agentic AI — Automating AWS Tasks with Amazon Bedrock Agents and a Custom Web App](https://dev.to/sauveer_ketan/agentic-ai-automating-aws-tasks-with-amazon-bedrock-agents-and-a-custom-web-app-3e56)
+- [AI FAMILY SUPPORT !!! #AI #TECHNOLOGY #ART #GEMINI](https://dev.to/promyklunafreya_blackel/ai-family-support-ai-technology-art-gemini-5104)
 - [The Smarter Way to Code: Stop Copy-Pasting and Start Reusing](https://dev.to/nisarthpatel/the-smarter-way-to-code-stop-copy-pasting-and-start-reusing-1mk1)
 - [DevLog 20250917: Godot Limitations and Rendering Challenges](https://dev.to/nfc-charles/devlog-20250917-godot-limitations-and-rendering-challenges-4j3o)
-- [Taming the Hydra: Why Your Kubernetes Secrets Management is Broken &lpar;And How CyberArk Conjur Fixes It&rpar;](https://dev.to/binyam/taming-the-hydra-why-your-kubernetes-secrets-management-is-broken-and-how-cyberark-conjur-fixes-f1j)
-- [How I Solved the Flooded Icons Crisis in Our React Codebase](https://dev.to/rajeshrenato/how-i-solved-the-flooded-icons-crisis-in-our-react-codebase-1oh7)
-- [Be a Rebel: Reflections on 5 Killer Habits by Sree Krishna Seelam](https://dev.to/riya_sharma_98c64a13aef2f/be-a-rebel-reflections-on-5-killer-habits-by-sree-krishna-seelam-4i34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
