@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Change Data Capture &lpar;CDC&rpar; in Data Engineering: Concepts, Tools and Real-world Implementation Strategies](https://dev.to/emwirigi/change-data-capture-cdc-in-data-engineering-concepts-tools-and-real-world-implementation-feg)
-- [Why Does a Small Reorder Require Massive Updates? Fix It with LexoRank](https://dev.to/learcise_health/why-does-a-small-reorder-require-massive-updates-fix-it-with-lexorank-j6k)
-- [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗦𝗶𝗴𝗻𝗮𝗹𝗥 𝗦𝗲𝗿𝘃𝗶𝗰𝗲](https://dev.to/supraja_tangella_b7f0738e/-2oam)
-- [What Is the FTS100 and Why It Matters](https://dev.to/isabel_rayn_9fbe8a3fb1786/what-is-the-fts100-and-why-it-matters-48f9)
-- [ByteDance Seedream 4.0 vs Google Nano Banana: Which AI Image Model Wins?](https://dev.to/jovin_george_733dcfc16291/bytedance-seedream-40-vs-google-nano-banana-which-ai-image-model-wins-4oca)
+- [Handle Large PostgreSQL Schemas with a GUI Tool](https://dev.to/roxana_haidiner/handle-large-postgresql-schemas-with-a-gui-tool-16e0)
+- [Deploying a CNN-BiLSTM Model on AWS Lambda](https://dev.to/vivekvohra/deploying-a-cnn-bilstm-model-on-aws-lambda-4kcj)
+- [Why I Switched from Create React App to Vite](https://dev.to/zulfikarazmi/why-i-switched-from-create-react-app-to-vite-5d82)
+- [AI Coding Is Boring — And What To Do About It](https://dev.to/datadog-frontend-dev/ai-coding-is-boring-and-what-to-do-about-it-5bji)
+- [🔁 RingCentral – Round 2: Implement `JSON.stringify&lpar;&rpar;` from scratch](https://dev.to/ml318097/ringcentral-round-2-implement-jsonstringify-from-scratch-6hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
