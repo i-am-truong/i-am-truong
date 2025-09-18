@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Coding Odyssey Begins: From Trainee Software Engineer to Full-Stack &amp; Beyond!](https://dev.to/niladri_banerjee_98/my-coding-odyssey-begins-from-trainee-software-engineer-to-full-stack-beyond-2gm8)
+- [RPA + AI: How Intelligent Automation is Transforming Business Operations](https://dev.to/raval/rpa-ai-how-intelligent-automation-is-transforming-business-operations-1fmb)
+- [The 9 AM Discovery That Saved Our Production: An ECS Fargate Circuit Breaker Story](https://dev.to/aws-builders/the-9-am-discovery-that-saved-our-production-an-ecs-fargate-circuit-breaker-story-ekb)
 - [Top 10 OSINT Tools Every &lpar;Ethical&rpar; Hacker Should Know](https://dev.to/sqlmap/top-10-osint-tools-every-ethical-hacker-should-know-88g)
 - [7 React Tips That Will Make You a Better Developer](https://dev.to/jay_sarvaiya_f85e7148bb57/7-react-tips-that-will-make-you-a-better-developer-1a64)
-- [Can Simple Calculator Projects Be Turned Into Real-World Tools?](https://dev.to/yasir_umayyah_shamon/can-simple-calculator-projects-be-turned-into-real-world-tools-49l8)
-- [JavaScript DOM Manipulation: How to Change Website Content Dynamically](https://dev.to/wisdomudo/javascript-dom-manipulation-how-to-change-website-content-dynamically-1d5d)
-- [Set Up AWS Alerts to catch Cost Spikes and Security Risks](https://dev.to/secesther/set-up-aws-alerts-to-catch-cost-spikes-and-security-risks-54o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
