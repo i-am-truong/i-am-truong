@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Future-Proof IoT: One Platform for Every Device, Every Industry](https://dev.to/gobi_d8dc638a0305ab930e2f/future-proof-iot-one-platform-for-every-device-every-industry-3pil)
-- [Bad things might happen if you ignore this](https://dev.to/shreyashsri/bad-things-might-happen-if-you-ignore-this-4m3h)
-- [From Touch to Tech: How Your Fingerprint Becomes Your Digital Key](https://dev.to/sanurag/from-touch-to-tech-how-your-fingerprint-becomes-your-digital-key-2i39)
-- [⚔️ TCJSgame v3 vs Other JavaScript 2D Game Engines](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-vs-other-javascript-2d-game-engines-1ape)
-- [Serverless: The Hype is Real. But Is It For You?](https://dev.to/hasan_ashab/serverless-the-hype-is-real-but-is-it-for-you-17pi)
+- [Left my Product Director Job and created a Product Learning app &lpar;Like Duolingo&rpar;. WDYT?](https://dev.to/andrea_mezzadra/left-my-product-director-job-and-created-a-product-learning-app-like-duolingo-wdyt-4jg9)
+- [ElevenLabs &amp; proxies: essential integration guide](https://dev.to/astro_official/elevenlabs-proxies-essential-integration-guide-2nh0)
+- [How to Use AI Prompts for Better Results](https://dev.to/sanjaynaker/how-to-use-ai-prompts-for-better-results-1o3l)
+- [The Role of Pen Testing in Securing Mobile Applications](https://dev.to/digitdefence/the-role-of-pen-testing-in-securing-mobile-applications-1ld1)
+- [🎮 Getting Started with TCJSgame v3](https://dev.to/kehinde_owolabi_e2e54567a/getting-started-with-tcjsgame-v3-fpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
