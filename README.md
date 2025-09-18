@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🐦 Build Flappy Bird with TCJSgame v3 — Step-by-Step Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/build-flappy-bird-with-tcjsgame-v3-step-by-step-tutorial-4aeh)
+- [How to Build Fillable PDF Forms in .NET — Without Fighting the PDF Beast](https://dev.to/combit/how-to-build-fillable-pdf-forms-in-net-without-fighting-the-pdf-beast-1l76)
+- [Terraform: AWS EKS Terraform module update from version 20.x to version 21.x](https://dev.to/setevoy/terraform-aws-eks-terraform-module-update-from-version-20x-to-version-21x-52im)
+- [How to Optimize Your LinkedIn as a Backend Developer](https://dev.to/masteringbackend/how-to-optimize-your-linkedin-as-a-backend-developer-48cm)
 - [Left my Product Director Job and created a Product Learning app &lpar;Like Duolingo&rpar;. WDYT?](https://dev.to/andrea_mezzadra/left-my-product-director-job-and-created-a-product-learning-app-like-duolingo-wdyt-4jg9)
-- [ElevenLabs &amp; proxies: essential integration guide](https://dev.to/astro_official/elevenlabs-proxies-essential-integration-guide-2nh0)
-- [How to Use AI Prompts for Better Results](https://dev.to/sanjaynaker/how-to-use-ai-prompts-for-better-results-1o3l)
-- [The Role of Pen Testing in Securing Mobile Applications](https://dev.to/digitdefence/the-role-of-pen-testing-in-securing-mobile-applications-1ld1)
-- [🎮 Getting Started with TCJSgame v3](https://dev.to/kehinde_owolabi_e2e54567a/getting-started-with-tcjsgame-v3-fpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
