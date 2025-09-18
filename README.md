@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev Culture Is Dying The Curious Developer Is Gone](https://dev.to/dayvster/dev-culture-is-dying-the-curious-developer-is-gone-lkn)
+- [The Mystery of 3/3 Checks on EC2—Solved](https://dev.to/manulithic/the-mystery-of-33-checks-on-ec2-solved-1blc)
 - [Clprolf Docs #4 — Interfaces in Clprolf: A Complete Overview](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-4-interfaces-in-clprolf-a-complete-overview-3d2e)
 - [Why Ripplix is Better UI Animation Inspiration](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-ripplix-is-better-ui-animation-inspiration-4fc1)
 - [Quantum Computing and Its Emerging Influence on Data Science and AI in 2025](https://dev.to/donazacharias/quantum-computing-and-its-emerging-influence-on-data-science-and-ai-in-2025-4pn2)
-- [Prompt Engineering vs Prompt Tuning : where does the real power lie?](https://dev.to/snehaup1997/prompt-engineering-vs-prompt-tuning-where-does-the-real-power-lie-2d97)
-- [Mastering Whitespace and Newlines in Django Templates: The Ultimate Guide 🎯](https://dev.to/bharat_solanke_8e45411fa6/mastering-whitespace-and-newlines-in-django-templates-the-ultimate-guide-5eii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
