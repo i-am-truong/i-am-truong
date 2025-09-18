@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Clprolf Docs #4 — Interfaces in Clprolf: A Complete Overview](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-4-interfaces-in-clprolf-a-complete-overview-3d2e)
+- [Why Ripplix is Better UI Animation Inspiration](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-ripplix-is-better-ui-animation-inspiration-4fc1)
+- [Quantum Computing and Its Emerging Influence on Data Science and AI in 2025](https://dev.to/donazacharias/quantum-computing-and-its-emerging-influence-on-data-science-and-ai-in-2025-4pn2)
 - [Prompt Engineering vs Prompt Tuning : where does the real power lie?](https://dev.to/snehaup1997/prompt-engineering-vs-prompt-tuning-where-does-the-real-power-lie-2d97)
 - [Mastering Whitespace and Newlines in Django Templates: The Ultimate Guide 🎯](https://dev.to/bharat_solanke_8e45411fa6/mastering-whitespace-and-newlines-in-django-templates-the-ultimate-guide-5eii)
-- [Who We Are – Deonics.in](https://dev.to/deonics2025/who-we-are-deonicsin-4doe)
-- [Kubernetes on the cloud vs on bare metal : Deception 101](https://dev.to/skysingh04/kubernetes-on-the-cloud-vs-on-bare-metal-deception-101-25a7)
-- [Agentic AI Explained: How It Works and Why It Matters](https://dev.to/aria_quinn_5ef92b2811fdf8/agentic-ai-explained-how-it-works-and-why-it-matters-3mp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
