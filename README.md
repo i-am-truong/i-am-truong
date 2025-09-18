@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Self-Hosting with PikaPods](https://dev.to/pikapods/simplifying-self-hosting-with-pikapods-3ell)
-- [Why Your HTTPS Setup Might Still Be Insecure &lpar;and How to Fix It&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/why-your-https-setup-might-still-be-insecure-and-how-to-fix-it-17k)
-- [Introducing a new learning platform for Language Model.](https://dev.to/mfachri/introducing-a-new-learning-platform-for-language-model-6pc)
-- [Combine Two JSON Collections with Nested Arrays: MongoDB and PostgreSQL Aggregations](https://dev.to/franckpachot/combine-two-json-collections-with-nested-arrays-mongodb-and-postgresql-aggregations-30k2)
-- [A Step-by-Step Guide to Froala WYSIWYG Editor PDF Export](https://dev.to/ideradevtools/a-step-by-step-guide-to-froala-wysiwyg-editor-pdf-export-5f6p)
+- [Prompt Engineering vs Prompt Tuning : where does the real power lie?](https://dev.to/snehaup1997/prompt-engineering-vs-prompt-tuning-where-does-the-real-power-lie-2d97)
+- [Mastering Whitespace and Newlines in Django Templates: The Ultimate Guide 🎯](https://dev.to/bharat_solanke_8e45411fa6/mastering-whitespace-and-newlines-in-django-templates-the-ultimate-guide-5eii)
+- [Who We Are – Deonics.in](https://dev.to/deonics2025/who-we-are-deonicsin-4doe)
+- [Kubernetes on the cloud vs on bare metal : Deception 101](https://dev.to/skysingh04/kubernetes-on-the-cloud-vs-on-bare-metal-deception-101-25a7)
+- [Agentic AI Explained: How It Works and Why It Matters](https://dev.to/aria_quinn_5ef92b2811fdf8/agentic-ai-explained-how-it-works-and-why-it-matters-3mp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
