@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux: Convert a png file into a pdf file using tesseract](https://dev.to/sven_krmer_6f8a15646f686/linux-convert-a-png-file-into-a-pdf-file-using-tesseract-56f6)
+- [Building SW: Lessons from the Backend](https://dev.to/ryansgi/building-sw-lessons-from-the-backend-2m46)
 - [Prompt analytics without the complexity &lpar;or vendor lock-in&rpar;](https://dev.to/squishy/prompt-analytics-without-the-complexity-or-vendor-lock-in-1p3n)
-- [From Docker to Kubernetes: How Containers Go from Local to Cloud](https://dev.to/dumebii/from-docker-to-kubernetes-how-containers-go-from-local-to-cloud-37m1)
-- [How to Use Bootstrap Icons? - Guide with Examples 👨🏻‍💻](https://dev.to/themeselection/how-to-use-bootstrap-icons-guide-with-examples-455b)
-- [x402, explain like i&#39;m five](https://dev.to/koha/x402-explain-like-im-five-3ib0)
-- [Handle Large PostgreSQL Schemas with a GUI Tool](https://dev.to/roxana_haidiner/handle-large-postgresql-schemas-with-a-gui-tool-16e0)
+- [From Docker to Kubernetes: How Your Application Goes from Local to Cloud](https://dev.to/dumebii/from-docker-to-kubernetes-how-containers-go-from-local-to-cloud-37m1)
+- [Design for Business Requirements](https://dev.to/sanily2j/design-for-business-requirements-297o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
