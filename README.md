@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Composable Software in 2025: Building Systems Like Lego](https://dev.to/arkhan/composable-software-in-2025-building-systems-like-lego-511j)
-- [[Boost]](https://dev.to/ben/-39gh)
-- [resumebase - an ai agent that applies to jobs for you](https://dev.to/uday_saisavitha_9e69eff3/resumebase-an-ai-agent-that-applies-to-jobs-for-you-17d4)
-- [Neural Networks &amp; Generative Models](https://dev.to/sumbul_naqvi/neural-networks-generative-models-1mj1)
-- [https://www.linkedin.com/posts/hiromis-rosa-mart%C3%ADnez-marcet-0b5093a3_softwaredevelopment-aiassistant-developerlife-activity-7374527040743542785-tNvw?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABXnHckBjDRL_L5l61naGCOiWVGmOU_Bq1M](https://dev.to/hiromis_rosamartinezmar/-b0j)
+- [Copy-Paste Coding: The Shortcut That Turns Into Technical Debt](https://dev.to/devtechinsights/copy-paste-coding-the-shortcut-that-turns-into-technical-debt-17p)
+- [# 🛠️ Built Français Pro: A Technical Deep Dive into Modern French Learning](https://dev.to/kasimkazmi/-built-francais-pro-a-technical-deep-dive-into-modern-french-learning-4586)
+- [GameSpot: ShatterRush - Pre-Alpha Gameplay Trailer](https://dev.to/gg_news/gamespot-shatterrush-pre-alpha-gameplay-trailer-271i)
+- [IGN: EA Sports FC 26 - Official &#39;The Club is Yours&#39; Launch Trailer](https://dev.to/gg_news/ign-ea-sports-fc-26-official-the-club-is-yours-launch-trailer-pgp)
+- [IGN: The Carpenter&#39;s Son - Official Teaser Trailer &lpar;2025&rpar; Nicolas Cage, FKA twigs, Noah Jupe](https://dev.to/gg_news/ign-the-carpenters-son-official-teaser-trailer-2025-nicolas-cage-fka-twigs-noah-jupe-h2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
