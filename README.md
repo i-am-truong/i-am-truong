@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Writing Articles and Joining Communities Can Transform Your Journey as a Developer](https://dev.to/brunompp/how-writing-articles-and-joining-communities-can-transform-your-journey-as-a-developer-2ekm)
-- [Protecting our EKS Nodes with Wazuh](https://dev.to/aws-builders/protecting-our-eks-nodes-with-wazuh-3k7f)
-- [Como escrever artigos e participar de comunidades pode transformar sua jornada como desenvolvedor](https://dev.to/brunompp/como-escrever-artigos-e-participar-de-comunidades-pode-transformar-sua-jornada-como-desenvolvedor-dje)
-- [Analysis of the ROGUE Agent-Based Automated Web Testing System](https://dev.to/tit_tut_9ed50f7e7e4ed40ee/analysis-of-the-rogue-agent-based-automated-web-testing-system-4a0g)
-- [I made an app that uses your mouse as H-Shifter](https://dev.to/arnononono_nonoonno_30377/i-made-an-app-that-uses-your-mouse-as-h-shifter-5e37)
+- [Unlocking AI’s Potential: Advanced Prompt Engineering Techniques for Smarter Interaction](https://dev.to/kapusto/unlocking-ais-potential-advanced-prompt-engineering-techniques-for-smarter-interaction-30om)
+- [The Game Theorists: Game Theory: Which CANON Marvel Rivals Team Is The Strongest?](https://dev.to/gg_news/the-game-theorists-game-theory-which-canon-marvel-rivals-team-is-the-strongest-10hd)
+- [GameSpot: Silent Hill f - Everything To Know](https://dev.to/gg_news/gamespot-silent-hill-f-everything-to-know-lhe)
+- [IGN: Ratatan - Official Early Access Cinematic Launch Trailer](https://dev.to/gg_news/ign-ratatan-official-early-access-cinematic-launch-trailer-mfo)
+- [Créer un Univers avec Python : Une Simulation Inspirée par la Poésie et le Cosmos](https://dev.to/khadidja_bounadja_21df7d2/creer-un-univers-avec-python-une-simulation-inspiree-par-la-poesie-et-le-cosmos-563)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
