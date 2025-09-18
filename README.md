@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 React Tips That Will Make You a Better Developer](https://dev.to/jay_sarvaiya_f85e7148bb57/7-react-tips-that-will-make-you-a-better-developer-1a64)
+- [Can Simple Calculator Projects Be Turned Into Real-World Tools?](https://dev.to/yasir_umayyah_shamon/can-simple-calculator-projects-be-turned-into-real-world-tools-49l8)
+- [JavaScript DOM Manipulation: How to Change Website Content Dynamically](https://dev.to/wisdomudo/javascript-dom-manipulation-how-to-change-website-content-dynamically-1d5d)
 - [Set Up AWS Alerts to catch Cost Spikes and Security Risks](https://dev.to/secesther/set-up-aws-alerts-to-catch-cost-spikes-and-security-risks-54o3)
 - [✨ When a Community Event Turns Into a Festival of Learning – AWS Community Day Vadodara 2025](https://dev.to/aricpandya_security/when-a-community-event-turns-into-a-festival-of-learning-aws-community-day-vadodara-2025-4k8a)
-- [Groq Secures $750M: The AI Chip Startup Taking on Nvidia](https://dev.to/shiva_shanker_k/groq-secures-750m-the-ai-chip-startup-taking-on-nvidia-j5p)
-- [[gsap/physics2D] 8-Bit Snake Game - Challenge #4](https://dev.to/sathish26062004/gsapphysics2d-8-bit-snake-game-challenge-4-36eb)
-- [🚀 Deploying a Node.js Product API on Kubernetes with MongoDB](https://dev.to/manthanank/deploying-a-nodejs-product-api-on-kubernetes-with-mongodb-hfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
