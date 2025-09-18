@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The shortest AI agent you can build](https://dev.to/thisismairaj/the-shortest-ai-agent-you-can-build-57p4)
-- [PlugBrain: The open-source app helping you take back control of your screen time](https://dev.to/msbelaid/plugbrain-the-open-source-app-helping-you-take-back-control-of-your-screen-time-2eeo)
-- [How to Learn Machine Learning vs Deep Learning?](https://dev.to/clickit_devops/how-to-learn-machine-learning-vs-deep-learning-ogj)
-- [Context engineering: What, why and how to engineer context](https://dev.to/thisismairaj/context-engineering-what-why-and-how-to-engineer-context-be9)
-- [Create Faster: Google Calendar Quick Add for Raycast](https://dev.to/baguirre03/create-faster-google-calendar-quick-add-for-raycast-1do7)
+- [Guía de Estudio: Conceptos Fundamentales y Aplicados de IA en AWS](https://dev.to/franciscojeg78/guia-de-estudio-conceptos-fundamentales-y-aplicados-de-ia-en-aws-18i0)
+- [Glosario de Términos Clave de IA y AWS](https://dev.to/franciscojeg78/glosario-de-terminos-clave-de-ia-y-aws-2aie)
+- [Vendor Certs vs. Platform-Agnostic: Which Signal Do Recruiters Trust?](https://dev.to/deborahf/vendor-certs-vs-platform-agnostic-which-signal-do-recruiters-trust-3793)
+- [How to use reduce function in Python](https://dev.to/ankitmalikg/how-to-use-reduce-function-in-python-56mk)
+- [AWS Certified AI Practitioner &lpar;AIF-C01&rpar; Study Guide](https://dev.to/franciscojeg78/aws-certified-ai-practitioner-aif-c01-study-guide-1cd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
