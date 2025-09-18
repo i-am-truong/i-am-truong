@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building the Heart of Your Java MCP Client: The MCPService Core](https://dev.to/gazolla/building-the-heart-of-your-java-mcp-client-the-mcpservice-core-1i2k)
-- [IGN: Borderlands 4 - Elemental Damage and Weaknesses Explained](https://dev.to/gg_news/ign-borderlands-4-elemental-damage-and-weaknesses-explained-516c)
-- [IGN: Battlefield 6: All-Out Warfare &lpar;and One Iconic Map&rpar; Returns – and it Rocks](https://dev.to/gg_news/ign-battlefield-6-all-out-warfare-and-one-iconic-map-returns-and-it-rocks-18cn)
-- [IGN: Allen Iv3rson - Official Teaser Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-allen-iv3rson-official-teaser-trailer-2025-documentary-48nl)
-- [Step 4: Distributed Environment Challenges](https://dev.to/zeeshanali0704/step-4-distributed-environment-challenges-5e39)
+- [Step 7: Design a Rate Limiter - Conclusion-Summary with FAQ&#39;s](https://dev.to/zeeshanali0704/step-7-design-a-rate-limiter-conclusion-summary-with-faqs-4j75)
+- [Unlocking the Potential of Vector Databases for AI Agents](https://dev.to/giasuddin90/unlocking-the-potential-of-vector-databases-for-ai-agents-40pd)
+- [Why Developers Are Building AI-Powered Real Estate Tools &lpar;The Virtual Staging Revolution&rpar;](https://dev.to/learnwithmohit/why-developers-are-building-ai-powered-real-estate-tools-the-virtual-staging-revolution-55m0)
+- [Stop Learning Code the Slow Way. Here&#39;s My AI Playbook to Learn 5x Faster](https://dev.to/nhi_ng/stop-learning-code-the-slow-way-heres-my-ai-playbook-to-learn-5x-faster-4ide)
+- [Step 6: Design a Rate Limiter - Using Sorted Set in Redis](https://dev.to/zeeshanali0704/step-6-design-a-rate-limiter-using-sorted-set-in-redis-52pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
