@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Micronaut 4 application on AWS Lambda- Part 3 Reducing Lambda cold starts with SnapStart and DynamoDB request priming](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-3-reducing-lambda-cold-starts-with-snapstart-and-4f30)
-- [Design Patterns](https://dev.to/bemigho_awala_959f07d23df/design-patterns-4hn6)
-- [My hovercraft is full of Rubies](https://dev.to/omanfk/my-hovercraft-is-full-of-rubies-16j7)
-- [Want suggestions on my npm package](https://dev.to/subhadip_pahari_1cd6ddc60/want-suggestions-on-my-npm-package-3if9)
-- [Enterprise Software Vendors: Drive Compliance &amp; Customer Insights with MindsDB Knowledge Bases + Hybrid Search](https://dev.to/mindsdb/enterprise-software-vendors-drive-compliance-customer-insights-with-mindsdb-knowledge-bases--3afo)
+- [Giving DeepSeek a Spin](https://dev.to/sheep_/giving-deepseek-a-spin-5bbe)
+- [Add the MCP server to the ASP.NET Core minimal API](https://dev.to/ohalay/add-the-mcp-server-to-the-aspnet-core-minimal-api-4331)
+- [💡 Ideias de SaaS Baseadas nas Tendências: botafogo x mirassol, bolívar x atlético-mg, palmeiras](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-botafogo-x-mirassol-bolivar-x-atletico-mg-palmeiras-33eo)
+- [The Backbone of Microsoft Azure: Understanding Azure Compute](https://dev.to/ibbus/the-backbone-of-microsoft-azure-understanding-azure-compute-4fi4)
+- [GoRouter for Flutter Web: Building a URL-Friendly App](https://dev.to/bestaoui_aymen/gorouter-for-flutter-web-building-a-url-friendly-app-e0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
