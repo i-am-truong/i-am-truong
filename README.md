@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [My Coding Odyssey Begins: From Trainee Software Engineer to Full-Stack &amp; Beyond!](https://dev.to/niladri_banerjee_98/my-coding-odyssey-begins-from-trainee-software-engineer-to-full-stack-beyond-2gm8)
 - [RPA + AI: How Intelligent Automation is Transforming Business Operations](https://dev.to/raval/rpa-ai-how-intelligent-automation-is-transforming-business-operations-1fmb)
 - [The 9 AM Discovery That Saved Our Production: An ECS Fargate Circuit Breaker Story](https://dev.to/aws-builders/the-9-am-discovery-that-saved-our-production-an-ecs-fargate-circuit-breaker-story-ekb)
-- [Top 10 OSINT Tools Every &lpar;Ethical&rpar; Hacker Should Know](https://dev.to/sqlmap/top-10-osint-tools-every-ethical-hacker-should-know-88g)
-- [7 React Tips That Will Make You a Better Developer](https://dev.to/jay_sarvaiya_f85e7148bb57/7-react-tips-that-will-make-you-a-better-developer-1a64)
+- [Building Your First AI Agent with LangChain](https://dev.to/sanjaynaker/building-your-first-ai-agent-with-langchain-4dfn)
+- [AI Agents – The Next Big Thing: Revolutionizing Industries with Intelligent Automation](https://dev.to/sabaristacksurge/ai-agents-the-next-big-thing-revolutionizing-industries-with-intelligent-automation-26ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
