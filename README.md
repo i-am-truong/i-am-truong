@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dev Culture Is Dying The Curious Developer Is Gone](https://dev.to/dayvster/dev-culture-is-dying-the-curious-developer-is-gone-lkn)
-- [The Mystery of 3/3 Checks on EC2—Solved](https://dev.to/manulithic/the-mystery-of-33-checks-on-ec2-solved-1blc)
-- [Why Test Automation is the Secret Weapon for AI-Powered Python Products](https://dev.to/testrig/why-test-automation-is-the-secret-weapon-for-ai-powered-python-products-5bda)
-- [ZoomEye vs. Other Search Engines: Why It’s the Top Choice for Security Researchers](https://dev.to/rrrowan/zoomeye-vs-other-search-engines-why-its-the-top-choice-for-security-researchers-33g2)
-- [Clprolf Docs #4 — Interfaces in Clprolf: A Complete Overview](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-4-interfaces-in-clprolf-a-complete-overview-3d2e)
+- [Amazon ElastiCache Redis as a Vector Embeddings Storage for Semantic Search in AWS Community Blog posts](https://dev.to/aws-builders/amazon-elasticache-redis-as-a-vector-embeddings-storage-for-semantic-search-in-aws-community-blog-4igj)
+- [Break Through Data Silos: Practices of Multi-cloud Observability Integration Based on Object Storage Service &lpar;OSS&rpar;](https://dev.to/observabilityguy/break-through-data-silos-practices-of-multi-cloud-observability-integration-based-on-object-5abo)
+- [Comparing transitive dependency version resolution in Rust and Java](https://dev.to/nfrankel/comparing-transitive-dependency-version-resolution-in-rust-and-java-5h1h)
+- [Outil de Cybersécurité du Jour - Sep 18, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-18-2025-nnm)
+- [How to Check if Your Build is Deployed into a Server using a Shell Script](https://dev.to/srinivasamcjf/how-to-check-if-your-build-is-deployed-into-a-server-using-a-shell-script-1k2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
