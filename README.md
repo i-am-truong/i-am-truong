@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“The First Step: How Small Actions Build Big Startups”](https://dev.to/aws_1_27d6cbc9e944aa228ef/the-first-step-how-small-actions-build-big-startups-mn8)
+- [Mac Patch Management Tool Recommendations &lpar;2025&rpar;](https://dev.to/emily_assetloom/mac-patch-management-tool-recommendations-2025-3hd9)
 - [Jackson Tutorial: Comprehensive Guide with Examples](https://dev.to/sadiul_hakim/jackson-tutorial-comprehensive-guide-with-examples-2gdj)
 - [Top 5 Use Cases for Automation in Humanitarian Aid Organizations](https://dev.to/consolatacleah/top-5-use-cases-for-automation-in-humanitarian-aid-organizations-ip1)
 - [How to Ghost Your Data: Implementing Soft Deletes in Prisma](https://dev.to/nadkarnigaurav/how-to-ghost-your-data-implementing-soft-deletes-in-prisma-10nm)
-- [The Hacker’s Playbook vs. SafeLine WAF: Who Wins?](https://dev.to/sharon_42e16b8da44dabde6d/the-hackers-playbook-vs-safeline-waf-who-wins-4ake)
-- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 1: TypeScript &amp; Core Concepts](https://dev.to/parthraval9/angular-20-interview-questions-and-answers-2025-part-1-typescript-core-concepts-5dm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
