@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como eu uso IA de graça para transformar podcasts em lições práticas](https://dev.to/portugues/como-eu-uso-ia-de-graca-para-transformar-podcasts-em-licoes-praticas-32k7)
-- [Medical Coding 101: Complete Career Analysis &amp; Beginner&#39;s Guide](https://dev.to/khushi_dixit_bf540d2e1fc9/medical-coding-101-complete-career-analysis-beginners-guide-1p3n)
-- [From Zero to Java: Day 1 of My Backend Development Journey](https://dev.to/chandana_prabhakar/from-zero-to-java-day-1-of-my-backend-development-journey-2i83)
-- [PostHog configuration in Codebuff codebase.](https://dev.to/ramunarasinga-11/posthog-configuration-in-codebuff-codebase-3803)
-- [Same named methods in Java. Part 1: Don’t Underestimate Overloading](https://dev.to/yuriy_f_0991a94b85ba44f9e/same-named-methods-in-java-part-1-dont-underestimate-overloading-1f4i)
+- [10+ years building WordPress plugins at getbutterfly.com — Some reflections &amp; stats](https://dev.to/wolffe/10-years-building-wordpress-plugins-at-getbutterflycom-some-reflections-stats-58p)
+- [COLORS: Ray Lozano | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-lozano-a-colors-show-506c)
+- [KEXP: Alien Boy - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-alien-boy-full-performance-live-on-kexp-oo9)
+- [🔐 Fixing the LinkedIn OAuth Login Issue — The OpenID Connect Update](https://dev.to/affectionate_code/fixing-the-linkedin-oauth-login-issue-the-openid-connect-update-4p9b)
+- [[Boost]](https://dev.to/eunice-js/-i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
