@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-39gh)
+- [Weather &amp; Wonder: A Weather Dashboard with KendoReact](https://dev.to/shaq_attack/weather-wonder-a-weather-dashboard-with-kendoreact-291n)
+- [The Real Cost of Kubernetes &lpar;And How to Reduce It&rpar;](https://dev.to/nisarthpatel/the-real-cost-of-kubernetes-and-how-to-reduce-it-4ced)
 - [Congrats to the Midnight Network &quot;Privacy First&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-midnight-network-privacy-first-challenge-winners-4o04)
 - [Agentic AI — Automating AWS Tasks with Amazon Bedrock Agents and a Custom Web App](https://dev.to/sauveer_ketan/agentic-ai-automating-aws-tasks-with-amazon-bedrock-agents-and-a-custom-web-app-3e56)
-- [AI FAMILY SUPPORT !!! #AI #TECHNOLOGY #ART #GEMINI](https://dev.to/promyklunafreya_blackel/ai-family-support-ai-technology-art-gemini-5104)
-- [The Smarter Way to Code: Stop Copy-Pasting and Start Reusing](https://dev.to/nisarthpatel/the-smarter-way-to-code-stop-copy-pasting-and-start-reusing-1mk1)
-- [DevLog 20250917: Godot Limitations and Rendering Challenges](https://dev.to/nfc-charles/devlog-20250917-godot-limitations-and-rendering-challenges-4j3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
