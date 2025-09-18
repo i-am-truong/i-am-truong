@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First Post](https://dev.to/jfandre00/first-post-2pff)
-- [DataStore in Android: The Future of Local Key-Value Storage](https://dev.to/vrushali_dev_15/datastore-in-android-the-future-of-local-key-value-storage-4g3a)
-- [My 50 Projects in 50 Days Challenge](https://dev.to/augusta08/my-50-projects-in-50-days-challenge-2l2c)
-- [PlotSenseAI Hackathon 2025 commences tomorrow! 🚀](https://dev.to/havilahacademy/plotsenseai-hackathon-2025-commences-tomorrow-9lj)
-- [Talos + ROFL: A Step Towards Autonomous On-Chain Intelligence](https://dev.to/adityasingh2824/talos-rofl-a-step-towards-autonomous-on-chain-intelligence-5747)
+- [Como eu uso IA de graça para transformar podcasts em lições práticas](https://dev.to/portugues/como-eu-uso-ia-de-graca-para-transformar-podcasts-em-licoes-praticas-32k7)
+- [Medical Coding 101: Complete Career Analysis &amp; Beginner&#39;s Guide](https://dev.to/khushi_dixit_bf540d2e1fc9/medical-coding-101-complete-career-analysis-beginners-guide-1p3n)
+- [From Zero to Java: Day 1 of My Backend Development Journey](https://dev.to/chandana_prabhakar/from-zero-to-java-day-1-of-my-backend-development-journey-2i83)
+- [PostHog configuration in Codebuff codebase.](https://dev.to/ramunarasinga-11/posthog-configuration-in-codebuff-codebase-3803)
+- [Same named methods in Java. Part 1: Don’t Underestimate Overloading](https://dev.to/yuriy_f_0991a94b85ba44f9e/same-named-methods-in-java-part-1-dont-underestimate-overloading-1f4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
