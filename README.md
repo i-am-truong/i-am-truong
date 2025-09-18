@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Composable Software in 2025: Building Systems Like Lego](https://dev.to/arkhan/composable-software-in-2025-building-systems-like-lego-511j)
 - [[Boost]](https://dev.to/ben/-39gh)
-- [Weather &amp; Wonder: A Weather Dashboard with KendoReact](https://dev.to/shaq_attack/weather-wonder-a-weather-dashboard-with-kendoreact-291n)
-- [The Real Cost of Kubernetes &lpar;And How to Reduce It&rpar;](https://dev.to/nisarthpatel/the-real-cost-of-kubernetes-and-how-to-reduce-it-4ced)
-- [Congrats to the Midnight Network &quot;Privacy First&quot; Challenge Winners!](https://dev.to/devteam/congrats-to-the-midnight-network-privacy-first-challenge-winners-4o04)
-- [Agentic AI — Automating AWS Tasks with Amazon Bedrock Agents and a Custom Web App](https://dev.to/sauveer_ketan/agentic-ai-automating-aws-tasks-with-amazon-bedrock-agents-and-a-custom-web-app-3e56)
+- [resumebase - an ai agent that applies to jobs for you](https://dev.to/uday_saisavitha_9e69eff3/resumebase-an-ai-agent-that-applies-to-jobs-for-you-17d4)
+- [Neural Networks &amp; Generative Models](https://dev.to/sumbul_naqvi/neural-networks-generative-models-1mj1)
+- [https://www.linkedin.com/posts/hiromis-rosa-mart%C3%ADnez-marcet-0b5093a3_softwaredevelopment-aiassistant-developerlife-activity-7374527040743542785-tNvw?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABXnHckBjDRL_L5l61naGCOiWVGmOU_Bq1M](https://dev.to/hiromis_rosamartinezmar/-b0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
