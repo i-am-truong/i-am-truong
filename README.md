@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cyberspace Visibility and Privacy: Why Your Router Might Appear in ZoomEye](https://dev.to/sqlmap/cyberspace-visibility-and-privacy-why-your-router-might-appear-in-zoomeye-43h5)
-- [Multitasking Is a Myth – How Focused Work Measurably Boosts Productivity](https://dev.to/thomasdelfing_de/multitasking-is-a-myth-how-focused-work-measurably-boosts-productivity-3045)
-- [Fundamentals of Machine Learning](https://dev.to/mujahida_joynab_64c7407d8/fundamentals-of-machine-learning-22o3)
-- [Working Through the Paradox: Serving the Greater Good in Hard Times](https://dev.to/bid_solution/working-through-the-paradox-serving-the-greater-good-in-hard-times-3858)
-- [JavaScript Scope Explained: A Deep Dive into var, let, const, and Closures](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-scope-explained-a-deep-dive-into-var-let-const-and-closures-25ld)
+- [Jackson Tutorial: Comprehensive Guide with Examples](https://dev.to/sadiul_hakim/jackson-tutorial-comprehensive-guide-with-examples-2gdj)
+- [Top 5 Use Cases for Automation in Humanitarian Aid Organizations](https://dev.to/consolatacleah/top-5-use-cases-for-automation-in-humanitarian-aid-organizations-ip1)
+- [How to Ghost Your Data: Implementing Soft Deletes in Prisma](https://dev.to/nadkarnigaurav/how-to-ghost-your-data-implementing-soft-deletes-in-prisma-10nm)
+- [The Hacker’s Playbook vs. SafeLine WAF: Who Wins?](https://dev.to/sharon_42e16b8da44dabde6d/the-hackers-playbook-vs-safeline-waf-who-wins-4ake)
+- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 1: TypeScript &amp; Core Concepts](https://dev.to/parthraval9/angular-20-interview-questions-and-answers-2025-part-1-typescript-core-concepts-5dm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
