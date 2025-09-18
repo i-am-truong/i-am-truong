@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let’s Build the Open-Source Digital Infrastructure for Clean Energy](https://dev.to/qubitamir/lets-build-the-open-source-digital-infrastructure-for-clean-energy-3mh7)
-- [5 Challenges with &quot;Wrapper&quot;AI App and Solutions.](https://dev.to/soso_papercut/5-challenges-with-wrapperai-app-and-solutions-1ak4)
-- [🚀 Why You Should Pick Auto Loader Over Structured Streaming in Azure Databricks &lpar;The Funny Truth&rpar;](https://dev.to/shagun_khandelwal/why-you-should-pick-auto-loader-over-structured-streaming-in-azure-databricks-the-funny-truth-15j9)
-- [Gleam: The New Functional Language Developers Actually Want to Use](https://dev.to/pullflow/gleam-the-new-functional-language-developers-actually-want-to-use-5h6p)
-- [Secure Your Spring API With JWT and MongoDB](https://dev.to/mongodb/secure-your-spring-api-with-jwt-and-mongodb-1gjj)
+- [Treat ChatGPT Like a Junior Dev: Helpful, But Needs Review](https://dev.to/heyradcode/treat-chatgpt-like-a-junior-dev-helpful-but-needs-review-88j)
+- [How EC2 Instance in Private Subnet Connects to the Internet in AWS](https://dev.to/alonshrestha/how-ec2-instance-in-private-subnet-connects-to-the-internet-in-aws-obk)
+- [Sliding Window Visualization using “KitikiPlot”, a novel Python Library](https://dev.to/boddu_sripavan_5b6c8d66d4/sliding-window-visualization-using-kitikiplot-a-novel-python-library-38in)
+- [Self-Signed TLS ile Private Docker Registry Kurulumu ve Rancher Entegrasyonu](https://dev.to/erenalpteksen/self-signed-tls-ile-private-docker-registry-kurulumu-ve-rancher-entegrasyonu-1ppc)
+- [Open-source portfolio tracker – looking for 5–7 minute beta feedback](https://dev.to/pocketportfolio/open-source-portfolio-tracker-looking-for-5-7-minute-beta-feedback-jac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
