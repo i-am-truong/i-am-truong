@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taming the Hydra: Why Your Kubernetes Secrets Management is Broken &lpar;And How CyberArk Conjur Fixes It&rpar;](https://dev.to/binyam/taming-the-hydra-why-your-kubernetes-secrets-management-is-broken-and-how-cyberark-conjur-fixes-f1j)
+- [How I Solved the Flooded Icons Crisis in Our React Codebase](https://dev.to/rajeshrenato/how-i-solved-the-flooded-icons-crisis-in-our-react-codebase-1oh7)
 - [Cercle: Two Lanes - Signs of Change &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-two-lanes-signs-of-change-live-version-cercle-odyssey-4ng0)
 - [Introducing: Clips Open-Source AI Clipping Tool for Every Creator](https://dev.to/samyaksgupta/introducing-clips-open-source-ai-clipping-tool-for-every-creator-3jhk)
 - [Golf.com: The Ultimate Golf Pilgrimage: 3 Legendary English Courses in A Day](https://dev.to/youtube_golf/golfcom-the-ultimate-golf-pilgrimage-3-legendary-english-courses-in-a-day-3poh)
-- [GameSpot: Dying Light The Beast Review](https://dev.to/gg_news/gamespot-dying-light-the-beast-review-3pdp)
-- [IGN: Ghost of Yotei - Official &#39;The Hunt Begins&#39; Cinematic Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-the-hunt-begins-cinematic-trailer-kij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
