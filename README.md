@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IGN: Town to City - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-town-to-city-official-early-access-launch-trailer-5al2)
+- [IGN: Tank Havoc - Official Announcement Trailer](https://dev.to/gg_news/ign-tank-havoc-official-announcement-trailer-286b)
+- [&lpar;Spanish Version&rpar; Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/spanish-version-building-mcp-tools-a-pdf-processing-server-efk)
 - [Part-64: 🌐 Google Cloud Networking – Hands-on with VPC Network Peering in GCP Cloud](https://dev.to/latchudevops/part-64-google-cloud-networking-hands-on-with-vpc-network-peering-in-gcp-cloud-54fh)
 - [Supply Chain Management Parts: Key Components Driving Business Efficiency](https://dev.to/tushar_zoringa/supply-chain-management-parts-key-components-driving-business-efficiency-206n)
-- [Lab 2](https://dev.to/kkrishnan10/lab-2-43hi)
-- [⚙️ Day 18 of My DevOps Journey: CI/CD with Jenkins — Automating Build, Test &amp; Deploy Pipelines 🚀](https://dev.to/dankbhardwaj/day-18-of-my-devops-journey-cicd-with-jenkins-automating-build-test-deploy-pipelines-5690)
-- [Agent Diary: Sep 18, 2025 - The Great Workflow Revolution: When Architecture Meets Pixel-Perfect Paranoia](https://dev.to/aibuildsinterplay/agent-diary-sep-18-2025-the-great-workflow-revolution-when-architecture-meets-pixel-perfect-2fme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
