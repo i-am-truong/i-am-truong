@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The MCP Registry Is Here - But Is It Already Too Late?](https://dev.to/leomarsh/the-mcp-registry-is-here-but-is-it-already-too-late-mfi)
-- [Running our test environment fully on Nanos](https://dev.to/mads_quist/running-our-test-environment-fully-on-nanos-12f9)
-- [It&#39;s my birthday](https://dev.to/ben/its-my-birthday-3ppl)
-- [Why manually registering component when Auto-Discovery exist?](https://dev.to/majdizlitni/why-manually-registering-component-when-auto-discovery-exist-519d)
-- [Introduction to Amazon S3](https://dev.to/sajjadrahman56/introduction-to-amazon-s3-2k0h)
+- [Let’s Build the Open-Source Digital Infrastructure for Clean Energy](https://dev.to/qubitamir/lets-build-the-open-source-digital-infrastructure-for-clean-energy-3mh7)
+- [5 Challenges with &quot;Wrapper&quot;AI App and Solutions.](https://dev.to/soso_papercut/5-challenges-with-wrapperai-app-and-solutions-1ak4)
+- [🚀 Why You Should Pick Auto Loader Over Structured Streaming in Azure Databricks &lpar;The Funny Truth&rpar;](https://dev.to/shagun_khandelwal/why-you-should-pick-auto-loader-over-structured-streaming-in-azure-databricks-the-funny-truth-15j9)
+- [Gleam: The New Functional Language Developers Actually Want to Use](https://dev.to/pullflow/gleam-the-new-functional-language-developers-actually-want-to-use-5h6p)
+- [Secure Your Spring API With JWT and MongoDB](https://dev.to/mongodb/secure-your-spring-api-with-jwt-and-mongodb-1gjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
