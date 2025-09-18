@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3gai)
-- [Best 5 Tools to Help Eliminate CVEs from Container Images](https://dev.to/orhillel/best-5-tools-to-help-eliminate-cves-from-container-images-1p2c)
-- [African Fintech’s New Chapter](https://dev.to/danial_j_35c2c2416edb89b7/african-fintechs-new-chapter-2lmh)
-- [Vitalik on “Full AA” Still Ahead, ERC-4337 on Trustlessness, QuickNode’s Cross-Chain Abstraction, Smart-Account Case for Intents](https://dev.to/etherspot/vitalik-on-full-aa-still-ahead-erc-4337-on-trustlessness-quicknodes-cross-chain-abstraction-3o7l)
-- [How AI agents like ChatGPT are redefining productivity](https://dev.to/fahimulhaq/how-ai-agents-like-chatgpt-are-redefining-productivity-4o2h)
+- [How to Install and Manage Multiple PHP Versions &lpar;7.4 - 8.4&rpar; on Ubuntu with Apache.](https://dev.to/tanjinsarker/how-to-install-and-manage-multiple-php-versions-74-84-on-ubuntu-with-apache-1o12)
+- [Day 4 - The Parser!](https://dev.to/lahari_tenneti_4a8a082e9c/day-4-the-parser-582l)
+- [Harnessing the Future of Data Centers: A Definitive Examination of the Cisco QDD-400G-LR8-S Transceiver](https://dev.to/etechbuy/harnessing-the-future-of-data-centers-a-definitive-examination-of-the-cisco-qdd-400g-lr8-s-50aa)
+- [3 AM Wake-Up Calls Made Me Realize IT Support is Broken. Here&#39;s My AI Fix.](https://dev.to/francis_ngari/3-am-wake-up-calls-made-me-realize-it-support-is-broken-heres-my-ai-fix-2ho1)
+- [Web Developer Travis McCracken on Rust Macros That Save Me Time](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-macros-that-save-me-time-4gob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
