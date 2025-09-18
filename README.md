@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Manage Multiple PHP Versions &lpar;7.4 - 8.4&rpar; on Ubuntu with Apache.](https://dev.to/tanjinsarker/how-to-install-and-manage-multiple-php-versions-74-84-on-ubuntu-with-apache-1o12)
-- [Day 4 - The Parser!](https://dev.to/lahari_tenneti_4a8a082e9c/day-4-the-parser-582l)
-- [Harnessing the Future of Data Centers: A Definitive Examination of the Cisco QDD-400G-LR8-S Transceiver](https://dev.to/etechbuy/harnessing-the-future-of-data-centers-a-definitive-examination-of-the-cisco-qdd-400g-lr8-s-50aa)
-- [3 AM Wake-Up Calls Made Me Realize IT Support is Broken. Here&#39;s My AI Fix.](https://dev.to/francis_ngari/3-am-wake-up-calls-made-me-realize-it-support-is-broken-heres-my-ai-fix-2ho1)
-- [Web Developer Travis McCracken on Rust Macros That Save Me Time](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-macros-that-save-me-time-4gob)
+- [Change Data Capture &lpar;CDC&rpar; in Data Engineering: Concepts, Tools and Real-world Implementation Strategies](https://dev.to/emwirigi/change-data-capture-cdc-in-data-engineering-concepts-tools-and-real-world-implementation-feg)
+- [Why Does a Small Reorder Require Massive Updates? Fix It with LexoRank](https://dev.to/learcise_health/why-does-a-small-reorder-require-massive-updates-fix-it-with-lexorank-j6k)
+- [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗦𝗶𝗴𝗻𝗮𝗹𝗥 𝗦𝗲𝗿𝘃𝗶𝗰𝗲](https://dev.to/supraja_tangella_b7f0738e/-2oam)
+- [What Is the FTS100 and Why It Matters](https://dev.to/isabel_rayn_9fbe8a3fb1786/what-is-the-fts100-and-why-it-matters-48f9)
+- [ByteDance Seedream 4.0 vs Google Nano Banana: Which AI Image Model Wins?](https://dev.to/jovin_george_733dcfc16291/bytedance-seedream-40-vs-google-nano-banana-which-ai-image-model-wins-4oca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
