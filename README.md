@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Examining the impact of npm supply chain attacks on MCP](https://dev.to/stacklok/examining-the-impact-of-npm-supply-chain-attacks-on-mcp-edo)
-- [Iterables in Python, The Buffet Table 🍽️](https://dev.to/anik_sikder_313/iterables-in-python-the-buffet-table-3jn5)
-- [Has Gemini 3.0 been secretly released? A look at the latest truth &amp; forecast](https://dev.to/_37bbf0c253c0b3edec531e/has-gemini-30-been-secretly-released-a-look-at-the-latest-truth-forecast-1kfd)
-- [Why Every Android Dev Should Master Arrays Before Anything Else](https://dev.to/vrushali_dev_15/why-every-android-dev-should-master-arrays-before-anything-else-3of6)
-- [Mobile Frontend Preview with Signadot Sandboxes](https://dev.to/signadot/mobile-frontend-preview-with-signadot-sandboxes-2oib)
+- [First Post](https://dev.to/jfandre00/first-post-2pff)
+- [DataStore in Android: The Future of Local Key-Value Storage](https://dev.to/vrushali_dev_15/datastore-in-android-the-future-of-local-key-value-storage-4g3a)
+- [My 50 Projects in 50 Days Challenge](https://dev.to/augusta08/my-50-projects-in-50-days-challenge-2l2c)
+- [PlotSenseAI Hackathon 2025 commences tomorrow! 🚀](https://dev.to/havilahacademy/plotsenseai-hackathon-2025-commences-tomorrow-9lj)
+- [Talos + ROFL: A Step Towards Autonomous On-Chain Intelligence](https://dev.to/adityasingh2824/talos-rofl-a-step-towards-autonomous-on-chain-intelligence-5747)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
