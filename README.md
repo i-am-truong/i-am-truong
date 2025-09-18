@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux: Convert a png file into a pdf file using tesseract](https://dev.to/sven_krmer_6f8a15646f686/linux-convert-a-png-file-into-a-pdf-file-using-tesseract-56f6)
-- [Building SW: Lessons from the Backend](https://dev.to/ryansgi/building-sw-lessons-from-the-backend-2m46)
-- [Prompt analytics without the complexity &lpar;or vendor lock-in&rpar;](https://dev.to/squishy/prompt-analytics-without-the-complexity-or-vendor-lock-in-1p3n)
-- [From Docker to Kubernetes: How Your Application Goes from Local to Cloud](https://dev.to/dumebii/from-docker-to-kubernetes-how-containers-go-from-local-to-cloud-37m1)
-- [Design for Business Requirements](https://dev.to/sanily2j/design-for-business-requirements-297o)
+- [Enterprise Software Vendors: Drive Compliance &amp; Customer Insights with MindsDB Knowledge Bases + Hybrid Search](https://dev.to/mindsdb/enterprise-software-vendors-drive-compliance-customer-insights-with-mindsdb-knowledge-bases--3afo)
+- [GameSpot: Sonic Racing: Crossworlds Review](https://dev.to/gg_news/gamespot-sonic-racing-crossworlds-review-4moe)
+- [GameSpot: S Rank Sonic Racing: CrossWorlds Super Sonic Speed Market Street Gameplay](https://dev.to/gg_news/gamespot-s-rank-sonic-racing-crossworlds-super-sonic-speed-market-street-gameplay-3m1a)
+- [IGN: Baby Steps: The First 15 Minutes of Gameplay](https://dev.to/gg_news/ign-baby-steps-the-first-15-minutes-of-gameplay-3ebi)
+- [IGN: How GTA 6 Could Take Over Pop Culture - Unlocked Clips](https://dev.to/gg_news/ign-how-gta-6-could-take-over-pop-culture-unlocked-clips-15k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
