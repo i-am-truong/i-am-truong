@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Coding Journey - The Beginning](https://dev.to/harvey_evans_a0dac32c4b6e/my-coding-journey-the-beginning-2ojh)
+- [Introducing: Postwave](https://dev.to/dorkrawk/introducing-postwave-4f68)
+- [Postfix vs. Dovecot: Key Differences for Building Email Systems](https://dev.to/shrsv/postfix-vs-dovecot-key-differences-for-building-email-systems-55k2)
 - [Git Bits: Working Without a Server](https://dev.to/oculus42/git-bits-working-without-a-server-2ncp)
 - [Treat ChatGPT Like a Junior Dev: Helpful, But Needs Review](https://dev.to/heyradcode/treat-chatgpt-like-a-junior-dev-helpful-but-needs-review-88j)
-- [How EC2 Instance in Private Subnet Connects to the Internet in AWS](https://dev.to/alonshrestha/how-ec2-instance-in-private-subnet-connects-to-the-internet-in-aws-obk)
-- [Sliding Window Visualization using “KitikiPlot”, a novel Python Library](https://dev.to/boddu_sripavan_5b6c8d66d4/sliding-window-visualization-using-kitikiplot-a-novel-python-library-38in)
-- [Self-Signed TLS ile Private Docker Registry Kurulumu ve Rancher Entegrasyonu](https://dev.to/erenalpteksen/self-signed-tls-ile-private-docker-registry-kurulumu-ve-rancher-entegrasyonu-1ppc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
