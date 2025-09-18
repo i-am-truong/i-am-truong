@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate CloudWatch Agent Setup on EC2 with Terraform and AWS SSM](https://dev.to/durrello/automate-cloudwatch-agent-setup-on-ec2-with-terraform-and-aws-ssm-bh8)
 - [Mechanised Learning — When the Plough Gives Way to Precision Gears, What Harvest Will the Mind Yield?](https://dev.to/black-ib/mechanised-learning-when-the-plough-gives-way-to-precision-gears-what-harvest-will-the-mind-dfa)
 - [6 .NET ORM Frameworks Worth Bookmarking](https://dev.to/lamri_abdellahramdane_15/6-net-orm-frameworks-worth-bookmarking-d3e)
 - [IA Generativa: Un Nuevo Paradigma en la Inteligencia Artificial](https://dev.to/franciscojeg78/ia-generativa-un-nuevo-paradigma-en-la-inteligencia-artificial-ck4)
 - [Dependency Gaps in Compose Multiplatform &lpar;and how I solved them&rpar;](https://dev.to/devnerd/dependency-gaps-in-compose-multiplatform-and-how-i-solved-them-15bj)
-- [AI Tools for Productivity: Boost Workflow &amp; Output](https://dev.to/coding180/ai-tools-for-productivity-boost-workflow-output-3c83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
