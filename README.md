@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Micronaut 4 application on AWS Lambda- Part 3 Reducing Lambda cold starts with SnapStart and DynamoDB request priming](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-3-reducing-lambda-cold-starts-with-snapstart-and-4f30)
+- [Design Patterns](https://dev.to/bemigho_awala_959f07d23df/design-patterns-4hn6)
+- [My hovercraft is full of Rubies](https://dev.to/omanfk/my-hovercraft-is-full-of-rubies-16j7)
+- [Want suggestions on my npm package](https://dev.to/subhadip_pahari_1cd6ddc60/want-suggestions-on-my-npm-package-3if9)
 - [Enterprise Software Vendors: Drive Compliance &amp; Customer Insights with MindsDB Knowledge Bases + Hybrid Search](https://dev.to/mindsdb/enterprise-software-vendors-drive-compliance-customer-insights-with-mindsdb-knowledge-bases--3afo)
-- [GameSpot: Sonic Racing: Crossworlds Review](https://dev.to/gg_news/gamespot-sonic-racing-crossworlds-review-4moe)
-- [GameSpot: S Rank Sonic Racing: CrossWorlds Super Sonic Speed Market Street Gameplay](https://dev.to/gg_news/gamespot-s-rank-sonic-racing-crossworlds-super-sonic-speed-market-street-gameplay-3m1a)
-- [IGN: Baby Steps: The First 15 Minutes of Gameplay](https://dev.to/gg_news/ign-baby-steps-the-first-15-minutes-of-gameplay-3ebi)
-- [IGN: How GTA 6 Could Take Over Pop Culture - Unlocked Clips](https://dev.to/gg_news/ign-how-gta-6-could-take-over-pop-culture-unlocked-clips-15k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
