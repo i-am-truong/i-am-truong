@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Self-Hosting with PikaPods](https://dev.to/pikapods/simplifying-self-hosting-with-pikapods-3ell)
 - [Why Your HTTPS Setup Might Still Be Insecure &lpar;and How to Fix It&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/why-your-https-setup-might-still-be-insecure-and-how-to-fix-it-17k)
 - [Introducing a new learning platform for Language Model.](https://dev.to/mfachri/introducing-a-new-learning-platform-for-language-model-6pc)
 - [Combine Two JSON Collections with Nested Arrays: MongoDB and PostgreSQL Aggregations](https://dev.to/franckpachot/combine-two-json-collections-with-nested-arrays-mongodb-and-postgresql-aggregations-30k2)
 - [A Step-by-Step Guide to Froala WYSIWYG Editor PDF Export](https://dev.to/ideradevtools/a-step-by-step-guide-to-froala-wysiwyg-editor-pdf-export-5f6p)
-- [Service Asset and Configuration Management Explained Simply](https://dev.to/teresa_tran/service-asset-and-configuration-management-explained-simply-nce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
