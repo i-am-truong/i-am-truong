@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The shortest AI agent you can build](https://dev.to/thisismairaj/the-shortest-ai-agent-you-can-build-57p4)
+- [PlugBrain: The open-source app helping you take back control of your screen time](https://dev.to/msbelaid/plugbrain-the-open-source-app-helping-you-take-back-control-of-your-screen-time-2eeo)
+- [How to Learn Machine Learning vs Deep Learning?](https://dev.to/clickit_devops/how-to-learn-machine-learning-vs-deep-learning-ogj)
 - [Context engineering: What, why and how to engineer context](https://dev.to/thisismairaj/context-engineering-what-why-and-how-to-engineer-context-be9)
 - [Create Faster: Google Calendar Quick Add for Raycast](https://dev.to/baguirre03/create-faster-google-calendar-quick-add-for-raycast-1do7)
-- [Repo Dump CLI tool](https://dev.to/whyang9701/repo-dump-cli-tool-5e08)
-- [SERVER ADMINISTRATION IN REAL LIFE: LINUX, WINDOWS, AND THE QUIET ART OF KEEPING THINGS UP](https://dev.to/hstq_hosting_63b98f081712/server-administration-in-real-life-linux-windows-and-the-quiet-art-of-keeping-things-up-5638)
-- [Copy-Paste Coding: The Shortcut That Turns Into Technical Debt](https://dev.to/devtechinsights/copy-paste-coding-the-shortcut-that-turns-into-technical-debt-17p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
