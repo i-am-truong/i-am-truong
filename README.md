@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bad things might happen if you ignore this](https://dev.to/shreyashsri/bad-things-might-happen-if-you-ignore-this-4m3h)
+- [From Touch to Tech: How Your Fingerprint Becomes Your Digital Key](https://dev.to/sanurag/from-touch-to-tech-how-your-fingerprint-becomes-your-digital-key-2i39)
+- [⚔️ TCJSgame v3 vs Other JavaScript 2D Game Engines](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-vs-other-javascript-2d-game-engines-1ape)
 - [Serverless: The Hype is Real. But Is It For You?](https://dev.to/hasan_ashab/serverless-the-hype-is-real-but-is-it-for-you-17pi)
-- [TCJSgame v3 vs Other JavaScript 2D Game Engines](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-vs-other-javascript-2d-game-engines-4bhm)
-- [How to validate fetched response](https://dev.to/borzoomv/how-to-validate-fetched-response-1ck4)
-- [How to Improve Communication Skills in the Workplace Today](https://dev.to/fluidwave/how-to-improve-communication-skills-in-the-workplace-today-6ln)
-- [My Month of Researching Token Launchpads: What I Learned 🚀](https://dev.to/tanelith/my-month-of-researching-token-launchpads-what-i-learned-4jp4)
+- [Nano Banana Tutorial Guide: Transform Pet Photos and Art into 3D Collectibles](https://dev.to/monica997/nano-banana-tutorial-how-to-turn-static-images-into-3d-figures-22fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
