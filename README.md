@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React: State vs Props](https://dev.to/pc_ngumoha/react-state-vs-props-274h)
+- [Sitemap Basics for Developers: Key Elements and How They Help with SEO](https://dev.to/rijultp/sitemap-basics-for-developers-key-elements-and-how-they-help-with-seo-3kja)
 - [I Became My Own Payment Processor &lpar;And You Can Too&rpar;](https://dev.to/yakhilesh/i-became-my-own-payment-processor-and-you-can-too-2pbp)
 - [Mastering Support Vector Machines in R: From Basics to Model Tuning](https://dev.to/thedatageek/mastering-support-vector-machines-in-r-from-basics-to-model-tuning-2iam)
 - [Factory Functions in useMemo&lpar;&rpar;](https://dev.to/cathylai/factory-functions-in-usememo-4858)
-- [Testing Truths Series - Article #2 - The data-cy Ultimate Guide: The Test Selector Pattern Cypress Should Have Taught You](https://dev.to/codetestfactory/testing-truths-series-article-2-the-data-cy-ultimate-guide-the-test-selector-pattern-cypress-phh)
-- [My Coding Journey - The Beginning](https://dev.to/harvey_evans_a0dac32c4b6e/my-coding-journey-the-beginning-2ojh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
