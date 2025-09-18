@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [African Fintech’s New Chapter](https://dev.to/danial_j_35c2c2416edb89b7/african-fintechs-new-chapter-2lmh)
 - [Vitalik on “Full AA” Still Ahead, ERC-4337 on Trustlessness, QuickNode’s Cross-Chain Abstraction, Smart-Account Case for Intents](https://dev.to/etherspot/vitalik-on-full-aa-still-ahead-erc-4337-on-trustlessness-quicknodes-cross-chain-abstraction-3o7l)
 - [How AI agents like ChatGPT are redefining productivity](https://dev.to/fahimulhaq/how-ai-agents-like-chatgpt-are-redefining-productivity-4o2h)
-- [Completing Your Local OCI Lab: A Guide to Port Forwarding in UTM](https://dev.to/smyekh/completing-your-local-oci-lab-a-guide-to-port-forwarding-in-utm-hgp)
+- [Africa’s Fintech Rise: The Hidden Builders](https://dev.to/danial_j_35c2c2416edb89b7/africas-fintech-rise-the-hidden-builders-25lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
