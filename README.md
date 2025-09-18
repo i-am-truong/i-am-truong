@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Get Your Next Interview Calls In Next 7 Days &lpar;USING AI&rpar;](https://dev.to/manasmoon_/how-to-get-your-next-interview-calls-in-next-7-days-using-ai-1p7l)
-- [Cloud Robotics Development on AWS: Migrating from RoboMaker to Batch](https://dev.to/tinnyrobot/cloud-robotics-development-on-aws-migrating-from-robomaker-to-batch-35gn)
-- [Symfony 7: Build a Complete REST API &lpar;Serializer, Validation &amp; Authentication&rpar;](https://dev.to/pentiminax/symfony-7-build-a-complete-rest-api-serializer-validation-authentication-1e4c)
-- [CiberIA Auditor: Technical Simulation of an AI Security Assessment](https://dev.to/gcjordi/ciberia-auditor-technical-simulation-of-an-ai-security-assessment-21go)
-- [Continuity Frame Marker™ — the invisible glue of AI video.](https://dev.to/djblackeye/continuity-frame-marker-the-invisible-glue-of-ai-video-2eeh)
+- [Top 5 N8N Alternatives for Developers](https://dev.to/composiodev/top-5-n8n-alternatives-for-developers-pi)
+- [Understanding Margin Collapse: The Invisible Force Breaking Your Layout](https://dev.to/mahmoudzaid/understanding-margin-collapse-the-invisible-force-breaking-your-layout-ljo)
+- [🔥🌲 DIAMANTS - Project 🌲🔥](https://dev.to/lololem/diamants-project-22oo)
+- [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
+- [AWS Networking, End to End: a production blueprint with diagrams and checklists](https://dev.to/t2c/aws-networking-end-to-end-a-production-blueprint-with-diagrams-and-checklists-3gmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
