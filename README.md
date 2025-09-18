@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering PHP Interviews: Common Questions and Expert Answers](https://dev.to/rishabhtpt/mastering-php-interviews-common-questions-and-expert-answers-58ki)
-- [My Coding Odyssey Begins: From Trainee Software Engineer to Full-Stack &amp; Beyond!](https://dev.to/niladri_banerjee_98/my-coding-odyssey-begins-from-trainee-software-engineer-to-full-stack-beyond-2gm8)
-- [RPA + AI: How Intelligent Automation is Transforming Business Operations](https://dev.to/raval/rpa-ai-how-intelligent-automation-is-transforming-business-operations-1fmb)
-- [The 9 AM Discovery That Saved Our Production: An ECS Fargate Circuit Breaker Story](https://dev.to/aws-builders/the-9-am-discovery-that-saved-our-production-an-ecs-fargate-circuit-breaker-story-ekb)
-- [Building Your First AI Agent with LangChain](https://dev.to/sanjaynaker/building-your-first-ai-agent-with-langchain-4dfn)
+- [Cyberspace Visibility and Privacy: Why Your Router Might Appear in ZoomEye](https://dev.to/sqlmap/cyberspace-visibility-and-privacy-why-your-router-might-appear-in-zoomeye-43h5)
+- [Multitasking Is a Myth – How Focused Work Measurably Boosts Productivity](https://dev.to/thomasdelfing_de/multitasking-is-a-myth-how-focused-work-measurably-boosts-productivity-3045)
+- [Fundamentals of Machine Learning](https://dev.to/mujahida_joynab_64c7407d8/fundamentals-of-machine-learning-22o3)
+- [Working Through the Paradox: Serving the Greater Good in Hard Times](https://dev.to/bid_solution/working-through-the-paradox-serving-the-greater-good-in-hard-times-3858)
+- [JavaScript Scope Explained: A Deep Dive into var, let, const, and Closures](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-scope-explained-a-deep-dive-into-var-let-const-and-closures-25ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
