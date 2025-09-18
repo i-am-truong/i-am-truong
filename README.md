@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Steps in Competitive Programming](https://dev.to/skr0411/my-first-steps-in-competitive-programming-34jl)
-- [The DevOps Engineer&#39;s Guide to AWS Cost Explorer](https://dev.to/sreekanth_kuruba_91721e5d/the-devops-engineers-guide-to-aws-cost-explorer-4npa)
-- [AI-Generated Portfolios: Hype or the Future of Freelancing?](https://dev.to/imtaslim/ai-generated-portfolios-hype-or-the-future-of-freelancing-3i8o)
-- [Step 7: Design a Rate Limiter - Conclusion-Summary with FAQ&#39;s](https://dev.to/zeeshanali0704/step-7-design-a-rate-limiter-conclusion-summary-with-faqs-4j75)
-- [Unlocking the Potential of Vector Databases for AI Agents](https://dev.to/giasuddin90/unlocking-the-potential-of-vector-databases-for-ai-agents-40pd)
+- [Part-64: 🌐 Google Cloud Networking – Hands-on with VPC Network Peering in GCP Cloud](https://dev.to/latchudevops/part-64-google-cloud-networking-hands-on-with-vpc-network-peering-in-gcp-cloud-54fh)
+- [Supply Chain Management Parts: Key Components Driving Business Efficiency](https://dev.to/tushar_zoringa/supply-chain-management-parts-key-components-driving-business-efficiency-206n)
+- [Lab 2](https://dev.to/kkrishnan10/lab-2-43hi)
+- [⚙️ Day 18 of My DevOps Journey: CI/CD with Jenkins — Automating Build, Test &amp; Deploy Pipelines 🚀](https://dev.to/dankbhardwaj/day-18-of-my-devops-journey-cicd-with-jenkins-automating-build-test-deploy-pipelines-5690)
+- [Agent Diary: Sep 18, 2025 - The Great Workflow Revolution: When Architecture Meets Pixel-Perfect Paranoia](https://dev.to/aibuildsinterplay/agent-diary-sep-18-2025-the-great-workflow-revolution-when-architecture-meets-pixel-perfect-2fme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
