@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10+ years building WordPress plugins at getbutterfly.com — Some reflections &amp; stats](https://dev.to/wolffe/10-years-building-wordpress-plugins-at-getbutterflycom-some-reflections-stats-58p)
-- [COLORS: Ray Lozano | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-lozano-a-colors-show-506c)
-- [KEXP: Alien Boy - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-alien-boy-full-performance-live-on-kexp-oo9)
-- [🔐 Fixing the LinkedIn OAuth Login Issue — The OpenID Connect Update](https://dev.to/affectionate_code/fixing-the-linkedin-oauth-login-issue-the-openid-connect-update-4p9b)
-- [[Boost]](https://dev.to/eunice-js/-i4)
+- [The MCP Registry Is Here - But Is It Already Too Late?](https://dev.to/leomarsh/the-mcp-registry-is-here-but-is-it-already-too-late-mfi)
+- [Running our test environment fully on Nanos](https://dev.to/mads_quist/running-our-test-environment-fully-on-nanos-12f9)
+- [It&#39;s my birthday](https://dev.to/ben/its-my-birthday-3ppl)
+- [Why manually registering component when Auto-Discovery exist?](https://dev.to/majdizlitni/why-manually-registering-component-when-auto-discovery-exist-519d)
+- [Introduction to Amazon S3](https://dev.to/sajjadrahman56/introduction-to-amazon-s3-2k0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
