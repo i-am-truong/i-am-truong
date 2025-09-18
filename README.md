@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Giving DeepSeek a Spin](https://dev.to/sheep_/giving-deepseek-a-spin-5bbe)
-- [Add the MCP server to the ASP.NET Core minimal API](https://dev.to/ohalay/add-the-mcp-server-to-the-aspnet-core-minimal-api-4331)
-- [💡 Ideias de SaaS Baseadas nas Tendências: botafogo x mirassol, bolívar x atlético-mg, palmeiras](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-botafogo-x-mirassol-bolivar-x-atletico-mg-palmeiras-33eo)
-- [The Backbone of Microsoft Azure: Understanding Azure Compute](https://dev.to/ibbus/the-backbone-of-microsoft-azure-understanding-azure-compute-4fi4)
-- [GoRouter for Flutter Web: Building a URL-Friendly App](https://dev.to/bestaoui_aymen/gorouter-for-flutter-web-building-a-url-friendly-app-e0n)
+- [Examining the impact of npm supply chain attacks on MCP](https://dev.to/stacklok/examining-the-impact-of-npm-supply-chain-attacks-on-mcp-edo)
+- [Iterables in Python, The Buffet Table 🍽️](https://dev.to/anik_sikder_313/iterables-in-python-the-buffet-table-3jn5)
+- [Has Gemini 3.0 been secretly released? A look at the latest truth &amp; forecast](https://dev.to/_37bbf0c253c0b3edec531e/has-gemini-30-been-secretly-released-a-look-at-the-latest-truth-forecast-1kfd)
+- [Why Every Android Dev Should Master Arrays Before Anything Else](https://dev.to/vrushali_dev_15/why-every-android-dev-should-master-arrays-before-anything-else-3of6)
+- [Mobile Frontend Preview with Signadot Sandboxes](https://dev.to/signadot/mobile-frontend-preview-with-signadot-sandboxes-2oib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
