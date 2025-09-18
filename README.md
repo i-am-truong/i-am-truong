@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt analytics without the complexity &lpar;or vendor lock-in&rpar;](https://dev.to/squishy/prompt-analytics-without-the-complexity-or-vendor-lock-in-1p3n)
+- [From Docker to Kubernetes: How Containers Go from Local to Cloud](https://dev.to/dumebii/from-docker-to-kubernetes-how-containers-go-from-local-to-cloud-37m1)
+- [How to Use Bootstrap Icons? - Guide with Examples 👨🏻‍💻](https://dev.to/themeselection/how-to-use-bootstrap-icons-guide-with-examples-455b)
+- [x402, explain like i&#39;m five](https://dev.to/koha/x402-explain-like-im-five-3ib0)
 - [Handle Large PostgreSQL Schemas with a GUI Tool](https://dev.to/roxana_haidiner/handle-large-postgresql-schemas-with-a-gui-tool-16e0)
-- [Deploying a CNN-BiLSTM Model on AWS Lambda](https://dev.to/vivekvohra/deploying-a-cnn-bilstm-model-on-aws-lambda-4kcj)
-- [Why I Switched from Create React App to Vite](https://dev.to/zulfikarazmi/why-i-switched-from-create-react-app-to-vite-5d82)
-- [AI Coding Is Boring — And What To Do About It](https://dev.to/datadog-frontend-dev/ai-coding-is-boring-and-what-to-do-about-it-5bji)
-- [🔁 RingCentral – Round 2: Implement `JSON.stringify&lpar;&rpar;` from scratch](https://dev.to/ml318097/ringcentral-round-2-implement-jsonstringify-from-scratch-6hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
