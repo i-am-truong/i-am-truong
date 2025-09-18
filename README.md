@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon ElastiCache Redis as a Vector Embeddings Storage for Semantic Search in AWS Community Blog posts](https://dev.to/aws-builders/amazon-elasticache-redis-as-a-vector-embeddings-storage-for-semantic-search-in-aws-community-blog-4igj)
-- [Break Through Data Silos: Practices of Multi-cloud Observability Integration Based on Object Storage Service &lpar;OSS&rpar;](https://dev.to/observabilityguy/break-through-data-silos-practices-of-multi-cloud-observability-integration-based-on-object-5abo)
-- [Comparing transitive dependency version resolution in Rust and Java](https://dev.to/nfrankel/comparing-transitive-dependency-version-resolution-in-rust-and-java-5h1h)
-- [Outil de Cybersécurité du Jour - Sep 18, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-18-2025-nnm)
-- [How to Check if Your Build is Deployed into a Server using a Shell Script](https://dev.to/srinivasamcjf/how-to-check-if-your-build-is-deployed-into-a-server-using-a-shell-script-1k2e)
+- [Serverless: The Hype is Real. But Is It For You?](https://dev.to/hasan_ashab/serverless-the-hype-is-real-but-is-it-for-you-17pi)
+- [TCJSgame v3 vs Other JavaScript 2D Game Engines](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-vs-other-javascript-2d-game-engines-4bhm)
+- [How to validate fetched response](https://dev.to/borzoomv/how-to-validate-fetched-response-1ck4)
+- [How to Improve Communication Skills in the Workplace Today](https://dev.to/fluidwave/how-to-improve-communication-skills-in-the-workplace-today-6ln)
+- [My Month of Researching Token Launchpads: What I Learned 🚀](https://dev.to/tanelith/my-month-of-researching-token-launchpads-what-i-learned-4jp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
