@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3gai)
 - [Best 5 Tools to Help Eliminate CVEs from Container Images](https://dev.to/orhillel/best-5-tools-to-help-eliminate-cves-from-container-images-1p2c)
 - [African Fintech’s New Chapter](https://dev.to/danial_j_35c2c2416edb89b7/african-fintechs-new-chapter-2lmh)
 - [Vitalik on “Full AA” Still Ahead, ERC-4337 on Trustlessness, QuickNode’s Cross-Chain Abstraction, Smart-Account Case for Intents](https://dev.to/etherspot/vitalik-on-full-aa-still-ahead-erc-4337-on-trustlessness-quicknodes-cross-chain-abstraction-3o7l)
 - [How AI agents like ChatGPT are redefining productivity](https://dev.to/fahimulhaq/how-ai-agents-like-chatgpt-are-redefining-productivity-4o2h)
-- [Africa’s Fintech Rise: The Hidden Builders](https://dev.to/danial_j_35c2c2416edb89b7/africas-fintech-rise-the-hidden-builders-25lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
