@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Became My Own Payment Processor &lpar;And You Can Too&rpar;](https://dev.to/yakhilesh/i-became-my-own-payment-processor-and-you-can-too-2pbp)
+- [Mastering Support Vector Machines in R: From Basics to Model Tuning](https://dev.to/thedatageek/mastering-support-vector-machines-in-r-from-basics-to-model-tuning-2iam)
+- [Factory Functions in useMemo&lpar;&rpar;](https://dev.to/cathylai/factory-functions-in-usememo-4858)
+- [Testing Truths Series - Article #2 - The data-cy Ultimate Guide: The Test Selector Pattern Cypress Should Have Taught You](https://dev.to/codetestfactory/testing-truths-series-article-2-the-data-cy-ultimate-guide-the-test-selector-pattern-cypress-phh)
 - [My Coding Journey - The Beginning](https://dev.to/harvey_evans_a0dac32c4b6e/my-coding-journey-the-beginning-2ojh)
-- [Introducing: Postwave](https://dev.to/dorkrawk/introducing-postwave-4f68)
-- [Postfix vs. Dovecot: Key Differences for Building Email Systems](https://dev.to/shrsv/postfix-vs-dovecot-key-differences-for-building-email-systems-55k2)
-- [Git Bits: Working Without a Server](https://dev.to/oculus42/git-bits-working-without-a-server-2ncp)
-- [Treat ChatGPT Like a Junior Dev: Helpful, But Needs Review](https://dev.to/heyradcode/treat-chatgpt-like-a-junior-dev-helpful-but-needs-review-88j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
