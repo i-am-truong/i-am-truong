@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Low Code No Code Platforms](https://dev.to/codemintah/low-code-no-code-platforms-2ad4)
+- [Async vs Sync APIs: A Developer&#39;s Complete Guide](https://dev.to/manonaga2188/async-vs-sync-apis-a-developers-complete-guide-11io)
+- [Top Next.js Shadcn UI Templates for Websites and Admin Dashboards](https://dev.to/isanjayjoshi/top-nextjs-shadcn-ui-templates-for-websites-and-admin-dashboards-6m6)
+- [How to use an background or reference image in Blender](https://dev.to/irender_gpu_cloud/how-to-use-an-background-or-reference-image-in-blender-p65)
 - [IGN: Town to City - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-town-to-city-official-early-access-launch-trailer-5al2)
-- [IGN: Tank Havoc - Official Announcement Trailer](https://dev.to/gg_news/ign-tank-havoc-official-announcement-trailer-286b)
-- [&lpar;Spanish Version&rpar; Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/spanish-version-building-mcp-tools-a-pdf-processing-server-efk)
-- [Part-64: 🌐 Google Cloud Networking – Hands-on with VPC Network Peering in GCP Cloud](https://dev.to/latchudevops/part-64-google-cloud-networking-hands-on-with-vpc-network-peering-in-gcp-cloud-54fh)
-- [Supply Chain Management Parts: Key Components Driving Business Efficiency](https://dev.to/tushar_zoringa/supply-chain-management-parts-key-components-driving-business-efficiency-206n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
