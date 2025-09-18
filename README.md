@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering PHP Interviews: Common Questions and Expert Answers](https://dev.to/rishabhtpt/mastering-php-interviews-common-questions-and-expert-answers-58ki)
 - [My Coding Odyssey Begins: From Trainee Software Engineer to Full-Stack &amp; Beyond!](https://dev.to/niladri_banerjee_98/my-coding-odyssey-begins-from-trainee-software-engineer-to-full-stack-beyond-2gm8)
 - [RPA + AI: How Intelligent Automation is Transforming Business Operations](https://dev.to/raval/rpa-ai-how-intelligent-automation-is-transforming-business-operations-1fmb)
 - [The 9 AM Discovery That Saved Our Production: An ECS Fargate Circuit Breaker Story](https://dev.to/aws-builders/the-9-am-discovery-that-saved-our-production-an-ecs-fargate-circuit-breaker-story-ekb)
 - [Building Your First AI Agent with LangChain](https://dev.to/sanjaynaker/building-your-first-ai-agent-with-langchain-4dfn)
-- [AI Agents – The Next Big Thing: Revolutionizing Industries with Intelligent Automation](https://dev.to/sabaristacksurge/ai-agents-the-next-big-thing-revolutionizing-industries-with-intelligent-automation-26ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
