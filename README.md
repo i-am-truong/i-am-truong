@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Criando um Sidecar em Go para acessar o Microsoft Graph via gRPC](https://dev.to/sertaoseracloud/criando-um-sidecar-em-go-para-acessar-o-microsoft-graph-via-grpc-2ghb)
-- [key concepts to knowabut schemas in databases](https://dev.to/luul_fe7dd2dd58ad443d0514/key-concepts-to-knowabut-schemas-in-databases-4kjh)
-- [My Experience with SolveCaptcha: Streamlining Automation and Saving Time](https://dev.to/max45645/my-experience-with-solvecaptcha-streamlining-automation-and-saving-time-1hpb)
-- [We’ve completely revamped our documentation, making it much more user-friendly.](https://dev.to/jtlab/weve-completely-revamped-our-documentation-making-it-much-more-user-friendly-4ef6)
-- [Top 5 N8N Alternatives for Developers](https://dev.to/composiodev/top-5-n8n-alternatives-for-developers-pi)
+- [Best 5 Tools to Help Eliminate CVEs from Container Images](https://dev.to/orhillel/best-5-tools-to-help-eliminate-cves-from-container-images-1p2c)
+- [African Fintech’s New Chapter](https://dev.to/danial_j_35c2c2416edb89b7/african-fintechs-new-chapter-2lmh)
+- [Vitalik on “Full AA” Still Ahead, ERC-4337 on Trustlessness, QuickNode’s Cross-Chain Abstraction, Smart-Account Case for Intents](https://dev.to/etherspot/vitalik-on-full-aa-still-ahead-erc-4337-on-trustlessness-quicknodes-cross-chain-abstraction-3o7l)
+- [How AI agents like ChatGPT are redefining productivity](https://dev.to/fahimulhaq/how-ai-agents-like-chatgpt-are-redefining-productivity-4o2h)
+- [Completing Your Local OCI Lab: A Guide to Port Forwarding in UTM](https://dev.to/smyekh/completing-your-local-oci-lab-a-guide-to-port-forwarding-in-utm-hgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
