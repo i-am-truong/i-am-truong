@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Extending AI Agents by Adding Infinite Context Memory](https://dev.to/einarcesar/extending-ai-agents-by-adding-infinite-context-memory-3a7h)
-- [Flores amarillas](https://dev.to/jhoniiier/flores-amarillas-feb)
-- [Building Web Servers from First Principles &lpar;Part 6&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-6-1f1d)
-- [Building Web Servers from First Principles &lpar;Part 5&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-5-27h)
-- [Building Web Servers from First Principles &lpar;Part 4&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-4-1e57)
+- [Avoiding Symbol Block-Pass &lpar;&amp;:to_s&rpar; in Ruby and Choosing More Readable Alternatives](https://dev.to/hamajyotan/avoiding-symbol-block-pass-tos-in-ruby-and-choosing-more-readable-alternatives-45ap)
+- [Pydantic Settings](https://dev.to/jesus_oviedoriquelme_084/pydantic-settings-2ghd)
+- [controller-runtime: What Happens When You Do Partial Server-Side Apply?](https://dev.to/suin/controller-runtime-what-happens-when-you-do-partial-server-side-apply-1oi0)
+- [Today I Learned: Layouts and the Z-Index Trap in React](https://dev.to/minoosh/today-i-learned-layouts-and-the-z-index-trap-in-react-366f)
+- [The next step in privacy: A messenger that doesn&#39;t send data and doesn&#39;t keep your secrets. 🚀](https://dev.to/smartlegionlab/the-next-step-in-privacy-a-messenger-that-doesnt-send-data-and-doesnt-keep-your-secrets-ge4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
