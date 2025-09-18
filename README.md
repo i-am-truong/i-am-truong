@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding Symbol Block-Pass &lpar;&amp;:to_s&rpar; in Ruby and Choosing More Readable Alternatives](https://dev.to/hamajyotan/avoiding-symbol-block-pass-tos-in-ruby-and-choosing-more-readable-alternatives-45ap)
-- [Pydantic Settings](https://dev.to/jesus_oviedoriquelme_084/pydantic-settings-2ghd)
-- [controller-runtime: What Happens When You Do Partial Server-Side Apply?](https://dev.to/suin/controller-runtime-what-happens-when-you-do-partial-server-side-apply-1oi0)
-- [Today I Learned: Layouts and the Z-Index Trap in React](https://dev.to/minoosh/today-i-learned-layouts-and-the-z-index-trap-in-react-366f)
-- [The next step in privacy: A messenger that doesn&#39;t send data and doesn&#39;t keep your secrets. 🚀](https://dev.to/smartlegionlab/the-next-step-in-privacy-a-messenger-that-doesnt-send-data-and-doesnt-keep-your-secrets-ge4)
+- [Building the Heart of Your Java MCP Client: The MCPService Core](https://dev.to/gazolla/building-the-heart-of-your-java-mcp-client-the-mcpservice-core-1i2k)
+- [IGN: Borderlands 4 - Elemental Damage and Weaknesses Explained](https://dev.to/gg_news/ign-borderlands-4-elemental-damage-and-weaknesses-explained-516c)
+- [IGN: Battlefield 6: All-Out Warfare &lpar;and One Iconic Map&rpar; Returns – and it Rocks](https://dev.to/gg_news/ign-battlefield-6-all-out-warfare-and-one-iconic-map-returns-and-it-rocks-18cn)
+- [IGN: Allen Iv3rson - Official Teaser Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-allen-iv3rson-official-teaser-trailer-2025-documentary-48nl)
+- [Step 4: Distributed Environment Challenges](https://dev.to/zeeshanali0704/step-4-distributed-environment-challenges-5e39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
