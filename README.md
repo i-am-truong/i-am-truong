@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [“The First Step: How Small Actions Build Big Startups”](https://dev.to/aws_1_27d6cbc9e944aa228ef/the-first-step-how-small-actions-build-big-startups-mn8)
-- [Mac Patch Management Tool Recommendations &lpar;2025&rpar;](https://dev.to/emily_assetloom/mac-patch-management-tool-recommendations-2025-3hd9)
-- [Jackson Tutorial: Comprehensive Guide with Examples](https://dev.to/sadiul_hakim/jackson-tutorial-comprehensive-guide-with-examples-2gdj)
-- [Top 5 Use Cases for Automation in Humanitarian Aid Organizations](https://dev.to/consolatacleah/top-5-use-cases-for-automation-in-humanitarian-aid-organizations-ip1)
-- [How to Ghost Your Data: Implementing Soft Deletes in Prisma](https://dev.to/nadkarnigaurav/how-to-ghost-your-data-implementing-soft-deletes-in-prisma-10nm)
+- [Introducing a new learning platform for Language Model.](https://dev.to/mfachri/introducing-a-new-learning-platform-for-language-model-6pc)
+- [Combine Two JSON Collections with Nested Arrays: MongoDB and PostgreSQL Aggregations](https://dev.to/franckpachot/combine-two-json-collections-with-nested-arrays-mongodb-and-postgresql-aggregations-30k2)
+- [A Step-by-Step Guide to Froala WYSIWYG Editor PDF Export](https://dev.to/ideradevtools/a-step-by-step-guide-to-froala-wysiwyg-editor-pdf-export-5f6p)
+- [Service Asset and Configuration Management Explained Simply](https://dev.to/teresa_tran/service-asset-and-configuration-management-explained-simply-nce)
+- [MySQL Shutdown Unexpectedly: Causes and Fixes for Developers](https://dev.to/dbvismarketing/mysql-shutdown-unexpectedly-causes-and-fixes-for-developers-2775)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
