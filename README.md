@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Context engineering: What, why and how to engineer context](https://dev.to/thisismairaj/context-engineering-what-why-and-how-to-engineer-context-be9)
+- [Create Faster: Google Calendar Quick Add for Raycast](https://dev.to/baguirre03/create-faster-google-calendar-quick-add-for-raycast-1do7)
+- [Repo Dump CLI tool](https://dev.to/whyang9701/repo-dump-cli-tool-5e08)
+- [SERVER ADMINISTRATION IN REAL LIFE: LINUX, WINDOWS, AND THE QUIET ART OF KEEPING THINGS UP](https://dev.to/hstq_hosting_63b98f081712/server-administration-in-real-life-linux-windows-and-the-quiet-art-of-keeping-things-up-5638)
 - [Copy-Paste Coding: The Shortcut That Turns Into Technical Debt](https://dev.to/devtechinsights/copy-paste-coding-the-shortcut-that-turns-into-technical-debt-17p)
-- [# 🛠️ Built Français Pro: A Technical Deep Dive into Modern French Learning](https://dev.to/kasimkazmi/-built-francais-pro-a-technical-deep-dive-into-modern-french-learning-4586)
-- [GameSpot: ShatterRush - Pre-Alpha Gameplay Trailer](https://dev.to/gg_news/gamespot-shatterrush-pre-alpha-gameplay-trailer-271i)
-- [IGN: EA Sports FC 26 - Official &#39;The Club is Yours&#39; Launch Trailer](https://dev.to/gg_news/ign-ea-sports-fc-26-official-the-club-is-yours-launch-trailer-pgp)
-- [IGN: The Carpenter&#39;s Son - Official Teaser Trailer &lpar;2025&rpar; Nicolas Cage, FKA twigs, Noah Jupe](https://dev.to/gg_news/ign-the-carpenters-son-official-teaser-trailer-2025-nicolas-cage-fka-twigs-noah-jupe-h2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
