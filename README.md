@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dependency Gaps in Compose Multiplatform &lpar;and how I solved them&rpar;](https://dev.to/devnerd/dependency-gaps-in-compose-multiplatform-and-how-i-solved-them-15bj)
+- [AI Tools for Productivity: Boost Workflow &amp; Output](https://dev.to/coding180/ai-tools-for-productivity-boost-workflow-output-3c83)
 - [Unlocking AI’s Potential: Advanced Prompt Engineering Techniques for Smarter Interaction](https://dev.to/kapusto/unlocking-ais-potential-advanced-prompt-engineering-techniques-for-smarter-interaction-30om)
 - [The Game Theorists: Game Theory: Which CANON Marvel Rivals Team Is The Strongest?](https://dev.to/gg_news/the-game-theorists-game-theory-which-canon-marvel-rivals-team-is-the-strongest-10hd)
 - [GameSpot: Silent Hill f - Everything To Know](https://dev.to/gg_news/gamespot-silent-hill-f-everything-to-know-lhe)
-- [IGN: Ratatan - Official Early Access Cinematic Launch Trailer](https://dev.to/gg_news/ign-ratatan-official-early-access-cinematic-launch-trailer-mfo)
-- [Créer un Univers avec Python : Une Simulation Inspirée par la Poésie et le Cosmos](https://dev.to/khadidja_bounadja_21df7d2/creer-un-univers-avec-python-une-simulation-inspiree-par-la-poesie-et-le-cosmos-563)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
