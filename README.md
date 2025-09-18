@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Writing Articles and Joining Communities Can Transform Your Journey as a Developer](https://dev.to/brunompp/how-writing-articles-and-joining-communities-can-transform-your-journey-as-a-developer-2ekm)
+- [Protecting our EKS Nodes with Wazuh](https://dev.to/aws-builders/protecting-our-eks-nodes-with-wazuh-3k7f)
+- [Como escrever artigos e participar de comunidades pode transformar sua jornada como desenvolvedor](https://dev.to/brunompp/como-escrever-artigos-e-participar-de-comunidades-pode-transformar-sua-jornada-como-desenvolvedor-dje)
 - [Analysis of the ROGUE Agent-Based Automated Web Testing System](https://dev.to/tit_tut_9ed50f7e7e4ed40ee/analysis-of-the-rogue-agent-based-automated-web-testing-system-4a0g)
 - [I made an app that uses your mouse as H-Shifter](https://dev.to/arnononono_nonoonno_30377/i-made-an-app-that-uses-your-mouse-as-h-shifter-5e37)
-- [🔄 State Management in 2025: What You Need to Know](https://dev.to/kaif_zaki_c96b5d3db7a801f/state-management-in-2025-what-you-need-to-know-32c8)
-- [🎨 Tailwind CSS: The Utility-First Approach Explained](https://dev.to/kaif_zaki_c96b5d3db7a801f/tailwind-css-the-utility-first-approach-explained-4gdf)
-- [🚀 CI/CD real en AWS con Terraform y despliegue Blue/Green](https://dev.to/karlos_eduardocetina_715/cicd-real-en-aws-con-terraform-y-despliegue-bluegreen-o34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
