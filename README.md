@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SEO Proxies for Search Engine Monitoring](https://dev.to/astro-official/seo-proxies-for-search-engine-monitoring-4gc6)
-- [🐦 Build Flappy Bird with TCJSgame v3 — Step-by-Step Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/build-flappy-bird-with-tcjsgame-v3-step-by-step-tutorial-4aeh)
-- [How to Build Fillable PDF Forms in .NET — Without Fighting the PDF Beast](https://dev.to/combit/how-to-build-fillable-pdf-forms-in-net-without-fighting-the-pdf-beast-1l76)
-- [Terraform: AWS EKS Terraform module update from version 20.x to version 21.x](https://dev.to/setevoy/terraform-aws-eks-terraform-module-update-from-version-20x-to-version-21x-52im)
-- [How to Optimize Your LinkedIn as a Backend Developer](https://dev.to/masteringbackend/how-to-optimize-your-linkedin-as-a-backend-developer-48cm)
+- [How To Get Your Next Interview Calls In Next 7 Days &lpar;USING AI&rpar;](https://dev.to/manasmoon_/how-to-get-your-next-interview-calls-in-next-7-days-using-ai-1p7l)
+- [Cloud Robotics Development on AWS: Migrating from RoboMaker to Batch](https://dev.to/tinnyrobot/cloud-robotics-development-on-aws-migrating-from-robomaker-to-batch-35gn)
+- [Symfony 7: Build a Complete REST API &lpar;Serializer, Validation &amp; Authentication&rpar;](https://dev.to/pentiminax/symfony-7-build-a-complete-rest-api-serializer-validation-authentication-1e4c)
+- [CiberIA Auditor: Technical Simulation of an AI Security Assessment](https://dev.to/gcjordi/ciberia-auditor-technical-simulation-of-an-ai-security-assessment-21go)
+- [Continuity Frame Marker™ — the invisible glue of AI video.](https://dev.to/djblackeye/continuity-frame-marker-the-invisible-glue-of-ai-video-2eeh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
