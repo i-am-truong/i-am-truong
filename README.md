@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Criando um Sidecar em Go para acessar o Microsoft Graph via gRPC](https://dev.to/sertaoseracloud/criando-um-sidecar-em-go-para-acessar-o-microsoft-graph-via-grpc-2ghb)
+- [key concepts to knowabut schemas in databases](https://dev.to/luul_fe7dd2dd58ad443d0514/key-concepts-to-knowabut-schemas-in-databases-4kjh)
+- [My Experience with SolveCaptcha: Streamlining Automation and Saving Time](https://dev.to/max45645/my-experience-with-solvecaptcha-streamlining-automation-and-saving-time-1hpb)
+- [We’ve completely revamped our documentation, making it much more user-friendly.](https://dev.to/jtlab/weve-completely-revamped-our-documentation-making-it-much-more-user-friendly-4ef6)
 - [Top 5 N8N Alternatives for Developers](https://dev.to/composiodev/top-5-n8n-alternatives-for-developers-pi)
-- [Understanding Margin Collapse: The Invisible Force Breaking Your Layout](https://dev.to/mahmoudzaid/understanding-margin-collapse-the-invisible-force-breaking-your-layout-ljo)
-- [🔥🌲 DIAMANTS - Project 🌲🔥](https://dev.to/lololem/diamants-project-22oo)
-- [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
-- [AWS Networking, End to End: a production blueprint with diagrams and checklists](https://dev.to/t2c/aws-networking-end-to-end-a-production-blueprint-with-diagrams-and-checklists-3gmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
