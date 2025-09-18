@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Guía de Estudio: Conceptos Fundamentales y Aplicados de IA en AWS](https://dev.to/franciscojeg78/guia-de-estudio-conceptos-fundamentales-y-aplicados-de-ia-en-aws-18i0)
-- [Glosario de Términos Clave de IA y AWS](https://dev.to/franciscojeg78/glosario-de-terminos-clave-de-ia-y-aws-2aie)
-- [Vendor Certs vs. Platform-Agnostic: Which Signal Do Recruiters Trust?](https://dev.to/deborahf/vendor-certs-vs-platform-agnostic-which-signal-do-recruiters-trust-3793)
-- [How to use reduce function in Python](https://dev.to/ankitmalikg/how-to-use-reduce-function-in-python-56mk)
-- [AWS Certified AI Practitioner &lpar;AIF-C01&rpar; Study Guide](https://dev.to/franciscojeg78/aws-certified-ai-practitioner-aif-c01-study-guide-1cd6)
+- [Analysis of the ROGUE Agent-Based Automated Web Testing System](https://dev.to/tit_tut_9ed50f7e7e4ed40ee/analysis-of-the-rogue-agent-based-automated-web-testing-system-4a0g)
+- [I made an app that uses your mouse as H-Shifter](https://dev.to/arnononono_nonoonno_30377/i-made-an-app-that-uses-your-mouse-as-h-shifter-5e37)
+- [🔄 State Management in 2025: What You Need to Know](https://dev.to/kaif_zaki_c96b5d3db7a801f/state-management-in-2025-what-you-need-to-know-32c8)
+- [🎨 Tailwind CSS: The Utility-First Approach Explained](https://dev.to/kaif_zaki_c96b5d3db7a801f/tailwind-css-the-utility-first-approach-explained-4gdf)
+- [🚀 CI/CD real en AWS con Terraform y despliegue Blue/Green](https://dev.to/karlos_eduardocetina_715/cicd-real-en-aws-con-terraform-y-despliegue-bluegreen-o34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
