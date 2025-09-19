@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Critical File Upload Vulnerability in Yonyou U8 Cloud &lpar;IPFxxFileService&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/critical-file-upload-vulnerability-in-yonyou-u8-cloud-ipfxxfileservice-22k1)
-- [a](https://dev.to/huu_trung_e410d2631b3a808/a-281o)
-- [7 Tips for Optimizing Nginx in a CI/CD Pipeline for Faster Deployments](https://dev.to/ramer_lacida_2b58cbe46bc8/7-tips-for-optimizing-nginx-in-a-cicd-pipeline-for-faster-deployments-4afg)
-- [Performance Tuning for Nginx: 6 Tips to Cut Latency &amp; Boost Throughput](https://dev.to/ramer_lacida_2b58cbe46bc8/performance-tuning-for-nginx-6-tips-to-cut-latency-boost-throughput-4e6m)
-- [The Ultimate Checklist for Docker Deployments on Production](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-docker-deployments-on-production-3e9c)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker and Nginx](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-and-nginx-431h)
+- [Performance Tuning for Node.js APIs with Redis Caching and CDN Edge](https://dev.to/ramer_lacida_2b58cbe46bc8/performance-tuning-for-nodejs-apis-with-redis-caching-and-cdn-edge-5be9)
+- [7 Mistakes to Avoid in Managing DNS Records for Production Apps](https://dev.to/ramer_lacida_2b58cbe46bc8/7-mistakes-to-avoid-in-managing-dns-records-for-production-apps-kn)
+- [Malware Campaign Leverages SVGs, Email Attachments, and CDNs to Drop XWorm and Remcos via BAT Scripts](https://dev.to/jamesdas/malware-campaign-leverages-svgs-email-attachments-and-cdns-to-drop-xworm-and-remcos-via-bat-2pb5)
+- [Firewalld: The Modern Firewall Manager](https://dev.to/sahillearninglinux/firewalld-the-modern-firewall-manager-5g41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
