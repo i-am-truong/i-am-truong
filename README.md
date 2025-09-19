@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 7-Layer Dip of State](https://dev.to/duplessisvanaswegen/the-7-layer-dip-of-state-24d2)
-- [The Dangerous Comfort of the Checkbox: Why Compliance is Not Security](https://dev.to/ezekiel_umesi_5bd2fa6069c/the-dangerous-comfort-of-the-checkbox-why-compliance-is-not-security-nc4)
-- [Next.js App Router Deep Dive: Evolution from Pages Router and Its Latest Features](https://dev.to/learcise_health/nextjs-app-router-deep-dive-evolution-from-pages-router-and-its-latest-features-55pk)
-- [PWA in iPadOS 26 is a joke](https://dev.to/reinhart1010/pwa-in-ipados-26-is-a-joke-38g1)
-- [Shifting Security Left: Why DevSecOps is Not Optional Anymore](https://dev.to/ezekiel_umesi_5bd2fa6069c/shifting-security-left-why-devsecops-is-not-optional-anymore-52fk)
+- [Families with sum of ages of a couple over 70 years old--SPL Programming Practice](https://dev.to/esproc_spl/families-with-sum-of-ages-of-a-couple-over-70-years-old-spl-programming-practice-4gfe)
+- [Excel Grid: jQuery Plugin for Interactive Data Table](https://dev.to/jqueryscript/excel-grid-jquery-plugin-for-interactive-data-table-5ahn)
+- [Introducción a las GANs](https://dev.to/victorojedaok/introduccion-a-las-gans-22ff)
+- [How to scrape Tripadvisor &lpar;2025 Tutorial&rpar;](https://dev.to/serpapi/how-to-scrape-tripadvisor-2025-tutorial-57o0)
+- [A beginner&#39;s guide to the Roop model by Okaris on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-roop-model-by-okaris-on-replicate-12d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
