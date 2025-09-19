@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Constant Folding in .NET 10: Turning Dead Weight Into Pure Throughput](https://dev.to/ssukhpinder/constant-folding-in-net-10-turning-dead-weight-into-pure-throughput-2c5l)
+- [Agents Payment Protocol, explain like i&#39;m five](https://dev.to/koha/agents-payment-protocol-explain-like-im-five-29ol)
 - [From Zero to Java: Day 2 of My Backend Development Journey](https://dev.to/chandana_prabhakar/from-zero-to-java-day-2-of-my-backend-development-journey-4go6)
 - [Manual Testing in the AI Era](https://dev.to/pooja_shyam_643fff420b3a8/manual-testing-in-the-ai-era-2273)
 - [Virtualization vs. Containerization: The Ultimate Showdown](https://dev.to/raj_singhal/virtualization-vs-containerization-the-ultimate-showdown-gij)
-- [The Evolution of AI Technology: Opportunities, Challenges, and the Road Ahead](https://dev.to/keya_khatun_b0884129bc101/the-evolution-of-ai-technology-opportunities-challenges-and-the-road-ahead-1a89)
-- [Hello DEV Community! 👋](https://dev.to/miteshdhabekar/hello-dev-community-1bno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
