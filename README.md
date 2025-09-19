@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker and Nginx](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-and-nginx-431h)
-- [Performance Tuning for Node.js APIs with Redis Caching and CDN Edge](https://dev.to/ramer_lacida_2b58cbe46bc8/performance-tuning-for-nodejs-apis-with-redis-caching-and-cdn-edge-5be9)
-- [7 Mistakes to Avoid in Managing DNS Records for Production Apps](https://dev.to/ramer_lacida_2b58cbe46bc8/7-mistakes-to-avoid-in-managing-dns-records-for-production-apps-kn)
-- [Malware Campaign Leverages SVGs, Email Attachments, and CDNs to Drop XWorm and Remcos via BAT Scripts](https://dev.to/jamesdas/malware-campaign-leverages-svgs-email-attachments-and-cdns-to-drop-xworm-and-remcos-via-bat-2pb5)
-- [Firewalld: The Modern Firewall Manager](https://dev.to/sahillearninglinux/firewalld-the-modern-firewall-manager-5g41)
+- [EMSCRIPTEN 多线程编程笔记](https://dev.to/yangholmes/emscripten-duo-xian-cheng-bian-cheng-bi-ji-5cdb)
+- [Clprolf Docs #5 — Concurrency and Parallelism Made Clear](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-5-concurrency-and-parallelism-made-clear-10)
+- [Next.js 14 App Router: Building Modern Full-Stack Applications](https://dev.to/muhammad_usman_35b52e4f04/nextjs-14-app-router-building-modern-full-stack-applications-52ej)
+- [Blueprints and X-Rays: A Guide to OOP and Reflection in OSE](https://dev.to/codigger/blueprints-and-x-rays-a-guide-to-oop-and-reflection-in-ose-2n0a)
+- [Building Production-Ready Serverless Applications with AWS Lambda and API Gateway](https://dev.to/muhammad_usman_35b52e4f04/building-production-ready-serverless-applications-with-aws-lambda-and-api-gateway-42d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
