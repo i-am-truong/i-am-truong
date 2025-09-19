@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet Backend2Lab](https://dev.to/toluwap/meet-backend2lab-a-backend-playground-for-learning-backend-development-288e)
+- [TypeScript Types Are The Best Kind Of Magic](https://dev.to/kylepena/typescript-types-are-the-best-kind-of-magic-37ji)
 - [New Meme Monday Bot?](https://dev.to/mileswk/new-meme-monday-bot-485j)
-- [The Open-Source Revolution in Digital Signage](https://dev.to/sagiadinos/the-open-source-revolution-in-digital-signage-599l)
-- [CompTIA Network+ N10-009 3.4 Study Guide: DNS, DHCP, IPv6, and Time Protocols](https://dev.to/andrew_despres/comptia-network-n10-009-34-study-guide-dns-dhcp-ipv6-and-time-protocols-30e3)
-- [How to Build AI-Powered Customer Support with Laravel MCP &amp; Database Q\&amp;A](https://dev.to/akashdas/how-to-build-ai-powered-customer-support-with-laravel-mcp-database-qa-4ii9)
-- [Small Swoole Rx Events](https://dev.to/sebk69/small-swoole-rx-events-475g)
+- [Drug Donation Dashboard – KendoReact + Nuclia RAG](https://dev.to/pankajcalm/drug-donation-dashboard-kendoreact-nuclia-rag-dfj)
+- [Ship Your AI Model to Production in Minutes with Replicate](https://dev.to/michaelaiglobal/ship-your-ai-model-to-production-in-minutes-with-replicate-p11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
