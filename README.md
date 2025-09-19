@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Meme Monday Bot?](https://dev.to/mileswk/new-meme-monday-bot-485j)
 - [The Open-Source Revolution in Digital Signage](https://dev.to/sagiadinos/the-open-source-revolution-in-digital-signage-599l)
 - [CompTIA Network+ N10-009 3.4 Study Guide: DNS, DHCP, IPv6, and Time Protocols](https://dev.to/andrew_despres/comptia-network-n10-009-34-study-guide-dns-dhcp-ipv6-and-time-protocols-30e3)
 - [How to Build AI-Powered Customer Support with Laravel MCP &amp; Database Q\&amp;A](https://dev.to/akashdas/how-to-build-ai-powered-customer-support-with-laravel-mcp-database-qa-4ii9)
 - [Small Swoole Rx Events](https://dev.to/sebk69/small-swoole-rx-events-475g)
-- [Why You Need to Learn Functional Programming: And What It Is](https://dev.to/mahdi_javidi_2a7ecfb53faa/why-you-need-to-learn-functional-programming-and-what-it-is-5762)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
