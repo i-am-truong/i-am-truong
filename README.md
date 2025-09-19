@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Secure Remote Access with AWS Verified Access](https://dev.to/aws-builders/secure-remote-access-with-aws-verified-access-53d9)
-- [JavaScript DOM: A Beginner’s Guide to Changing Styles and Classes](https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-changing-styles-and-classes-32b)
-- [The Battle of Real-Time Databases: Firebase vs Supabase vs Postgres](https://dev.to/dct_technology/the-battle-of-real-time-databases-firebase-vs-supabase-vs-postgres-3gfc)
-- [Best Platform to Learn Google Cloud Platform: A Dev’s Take](https://dev.to/stack_overflowed/best-platform-to-learn-google-cloud-platform-a-devs-take-4027)
-- [Pick a Translation API Without Regrets in 2025](https://dev.to/naitsirhc/pick-a-translation-api-without-regrets-in-2025-3fa6)
+- [Shad cn vue Like Nuxt/Vue Librarys :fire:](https://dev.to/leamsigc/shad-cn-vue-like-nuxtvue-librarys-fire-23k8)
+- [Troubleshooting Common DevOps Challenges](https://dev.to/addwebsolutionpvtltd/troubleshooting-common-devops-challenges-4n0)
+- [Introduction to Java Programming](https://dev.to/hemantyadav2804/introduction-to-java-programming-22h)
+- [What is Mechanical Drafting?](https://dev.to/synnoptech_cad_b9410c35d7/what-is-mechanical-drafting-1h46)
+- [Meta in Talks with News Publishers Over AI Licensing Deals](https://dev.to/sky_yv_11b3d5d44877d27276/meta-in-talks-with-news-publishers-over-ai-licensing-deals-2jpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
