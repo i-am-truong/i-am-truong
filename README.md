@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Search with MongoDB and PostgreSQL Full Text Search](https://dev.to/franckpachot/text-search-with-mongodb-and-postgresql-full-text-search-1blg)
+- [Facing the Shai-Hulud Worm: Where the Hell is Easystreet?](https://dev.to/sebs/facing-the-shai-hulud-worm-where-the-hell-is-easystreet-4b60)
+- [EasyLog - Intelligent Object Debugging](https://dev.to/codaarx/easylog-intelligent-object-debugging-2kj0)
+- [Understanding the Difference Between Tables and Views &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/understanding-the-difference-between-tables-and-views-bite-size-article-1i3j)
 - [Amazon SageMaker Built-in Models &amp; all about ML Lifecycle in action- Mini Project.](https://dev.to/sumbul_naqvi/amazon-sagemaker-built-in-models-all-about-ml-lifecycle-in-action-mini-project-4dlp)
-- [Laravel MCP: The Next Big Leap for AI-Ready Laravel Apps](https://dev.to/akashdas/laravel-mcp-the-next-big-leap-for-ai-ready-laravel-apps-4dbf)
-- [Real-time Search with Laravel &amp; Alpine.js: The Simple Approach](https://dev.to/manukminasyan/real-time-search-with-laravel-alpinejs-the-simple-approach-42e2)
-- [IGN: Marvel Animation&#39;s Marvel Zombies - Official Teaser Trailer #2 &lpar;2025&rpar; Elizabeth Olsen, Paul Rudd](https://dev.to/gg_news/ign-marvel-animations-marvel-zombies-official-teaser-trailer-2-2025-elizabeth-olsen-paul-5db1)
-- [IGN: Hyperfunk - Official Teaser Trailer](https://dev.to/gg_news/ign-hyperfunk-official-teaser-trailer-298a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
