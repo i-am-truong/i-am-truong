@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [To buy or to build - that is the question for a CAD manager](https://dev.to/misha_zaslavskiy/to-buy-or-to-build-that-is-the-question-for-a-cad-manager-1m3d)
+- [📰 Major Tech News: September 19, 2025](https://dev.to/om_shree_0709/major-tech-news-september-19-2025-2i2o)
 - [Advanced AWS S3 Management: Mastering Instance Tiers and Lifecycle Controls](https://dev.to/shrsv/advanced-aws-s3-management-mastering-instance-tiers-and-lifecycle-controls-1olk)
+- [Hello Friends 👋](https://dev.to/aithinkers/hello-friends-1glg)
 - [Run Large Language Models Locally in Docker | How to Use Qwen 3 with .NET Semantic Kernel?](https://dev.to/codestreet/run-large-language-models-locally-in-docker-how-to-use-qwen-3-with-net-semantic-kernel-3olf)
-- [Building the Future of AI Social Networks: Development Insights from VOXARID.AI](https://dev.to/alex_chen_ai/building-the-future-of-ai-social-networks-development-insights-from-voxaridai-68f)
-- [Elon Musk’s deleted tweet](https://dev.to/yn_quch_5e4c1e041a5c4c9/elon-musks-deleted-tweet-27pj)
-- [Harnessing Enthusiast for Scalable AI in E-Commerce — A Developer’s Guide](https://dev.to/karmen87/harnessing-enthusiast-for-scalable-ai-in-e-commerce-a-developers-guide-4k3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
