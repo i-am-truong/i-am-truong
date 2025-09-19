@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Zero to Java: Day 2 of My Backend Development Journey](https://dev.to/chandana_prabhakar/from-zero-to-java-day-2-of-my-backend-development-journey-4go6)
+- [Manual Testing in the AI Era](https://dev.to/pooja_shyam_643fff420b3a8/manual-testing-in-the-ai-era-2273)
 - [Virtualization vs. Containerization: The Ultimate Showdown](https://dev.to/raj_singhal/virtualization-vs-containerization-the-ultimate-showdown-gij)
 - [The Evolution of AI Technology: Opportunities, Challenges, and the Road Ahead](https://dev.to/keya_khatun_b0884129bc101/the-evolution-of-ai-technology-opportunities-challenges-and-the-road-ahead-1a89)
 - [Hello DEV Community! 👋](https://dev.to/miteshdhabekar/hello-dev-community-1bno)
-- [Why Ephemeral Resources in Terraform Matter: How MyCoCo Eliminated Secrets from State Files](https://dev.to/dc-shimla/why-ephemeral-resources-in-terraform-matter-how-mycoco-eliminated-secrets-from-state-files-4b0k)
-- [How I Built Brandiseer: An AI That Generates On-Brand Visuals Consistently for your Business](https://dev.to/srkdan/how-i-built-brandiseer-an-ai-that-generates-on-brand-visuals-consistently-for-your-business-42gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
