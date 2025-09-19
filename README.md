@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [made a fractal tree thing when bored, forgot about it, then it solved a problem i was stuck on for days](https://dev.to/zx_main_9eb9d701f89146bb/made-a-fractal-tree-thing-when-bored-forgot-about-it-then-it-solved-a-problem-i-was-stuck-on-for-28m7)
 - [Polyglot Data Engineering: Python + Go in the Same Pipeline](https://dev.to/mohhddhassan/polyglot-data-engineering-python-go-in-the-same-pipeline-5gdh)
 - [Part-65: 🛰️ Demystifying Google Cloud DNS – A Simple Guide](https://dev.to/latchudevops/part-65-demystifying-google-cloud-dns-a-simple-guide-137l)
 - [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-2fom)
 - [Concurrent programming in Java: ThreadPoolExecutor](https://dev.to/chanhlt/concurrent-programming-in-java-threadpoolexecutor-9e2)
-- [Families with sum of ages of a couple over 70 years old--SPL Programming Practice](https://dev.to/esproc_spl/families-with-sum-of-ages-of-a-couple-over-70-years-old-spl-programming-practice-4gfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
