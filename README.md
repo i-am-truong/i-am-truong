@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Choose the Right Social Media Platform for Your Product Marketing](https://dev.to/uspeedoai/how-to-choose-the-right-social-media-platform-for-your-product-marketing-37bi)
+- [When use Aws Global Accelerator / CloudFront](https://dev.to/wakeup_flower_8591a6cb6a9/when-use-aws-global-accelerator-and-cloudfront-1pb5)
+- [Linux - Root Commands](https://dev.to/aravinlinux/linux-root-commands-41hc)
 - [The Developer’s Guide To 10K Steps A Day](https://dev.to/alexahayes/the-developers-guide-to-10k-steps-a-day-4bmb)
-- [🚀 Leena AI – Round 2 Interview Questions &lpar;Frontend/JS&rpar;](https://dev.to/ml318097/leena-ai-round-2-interview-questions-frontendjs-1hp4)
-- [Building My Homelab: The Easiest Way to SSH Remotely](https://dev.to/vakul_keshav_46acdf8d9aaf/building-my-homelab-the-easiest-way-to-ssh-remotely-p2d)
-- [Docker Image Layers – What They Are &amp; How They Work](https://dev.to/spacelift/docker-image-layers-what-they-are-how-they-work-2o22)
-- [Linux - Link Commands](https://dev.to/aravinlinux/linux-link-commands-3a0)
+- [Linux - Compress Commands](https://dev.to/aravinlinux/linux-compress-commands-4nhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
