@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project of the Week: Dify](https://dev.to/pullflow/project-of-the-week-dify-5d3l)
+- [Security Hardening for Nginx: TLS, Firewalls, and Fail2Ban Basics](https://dev.to/ramer_lacida_2b58cbe46bc8/security-hardening-for-nginx-tls-firewalls-and-fail2ban-basics-22ln)
+- [The Ultimate Checklist for Building a Secure Docker CI/CD Pipeline](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-building-a-secure-docker-cicd-pipeline-4l8j)
+- [Is Apple Using Figma to Build iOS 26?](https://dev.to/hashbyt/is-apple-using-figma-to-build-ios-26-4897)
 - [Is This The New Scam on Dev?](https://dev.to/scofieldidehen/is-this-the-new-scam-on-dev-302k)
-- [Divine Money Manifesting - Complete Program &amp; Content Breakdown &lpar;2025&rpar;](https://dev.to/camila_estebes_5a54e66310/divine-money-manifesting-complete-program-content-breakdown-2025-128o)
-- [Laravel Just Launched Laravel Learn – Here’s Why It Matters](https://dev.to/aakash_shrivas_0806333bbe/laravel-just-launched-laravel-learn-heres-why-it-matters-4phf)
-- [Hardening a Vercel app: CSP, CORS, and Service Workers that don’t bite](https://dev.to/pocketportfolio/hardening-a-vercel-app-csp-cors-and-service-workers-that-dont-bite-1k2m)
-- [[Boost]](https://dev.to/giantconfidence/-ipo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
