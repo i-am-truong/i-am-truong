@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread](https://dev.to/peter/welcome-thread-n3m)
-- [3 Gotchas When Calling an IAP‑Protected Cloud Run API from a Chrome Extension &lpar;MV3&rpar;](https://dev.to/saloni28/3-gotchas-when-calling-an-iap-protected-cloud-run-api-from-a-chrome-extension-mv3-mfa)
-- [What’s the Hardest Part About Building Full-Stack Apps Solo?](https://dev.to/kingbyno/whats-the-hardest-part-about-building-full-stack-apps-solo-1hbg)
-- [Vibe Coding: Because Who Reads Code Anyway?](https://dev.to/trojanmocx/vibe-coding-because-who-reads-code-anyway-319l)
-- [WIP is waste](https://dev.to/jonasbn/wip-is-waste-208n)
+- [Balancing Frontend &amp; Backend: What’s the Hardest Part of Going Full-Stack Solo?](https://dev.to/kingbyno/balancing-frontend-backend-whats-the-hardest-part-of-going-full-stack-solo-3c20)
+- [My AI Journey: A Java Developer&#39;s First Dive into the Python Ocean](https://dev.to/nitish_jprabhu_194148be9/my-ai-journey-a-java-developers-first-dive-into-the-python-ocean-86i)
+- [Best Paying Tech Jobs in 2025: What to Learn Now to Stay Ahead](https://dev.to/world_changer_98bd62122c/is-it-marketable-am-a-tech-student-which-field-will-i-choose-35ch)
+- [Hi! I’m Dhriti – Let’s Build &amp; Learn Together”](https://dev.to/dhriti_sundarmanik_75914/hi-im-dhriti-lets-build-learn-together-30a8)
+- [BASICS OF HTML CSS JAVASCRIPT](https://dev.to/arun_c6a0bb194d6c21e7d4c3/basics-of-html-css-javascript-2fhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
