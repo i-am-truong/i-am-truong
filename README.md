@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Lido Pimienta: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-lido-pimienta-tiny-desk-concert-21oj)
-- [Spring Boot REST API — Returning Response in JSON Format](https://dev.to/masteringbackend/spring-boot-rest-api-returning-response-in-json-format-2j8p)
-- [KendoReact Free Components Challenge: Invoice Management Dashboard](https://dev.to/pratik_12b3f8bf3b50e48bae/kendoreact-free-components-challenge-invoice-management-dashboard-aac)
-- [Shai-Hulud: a self-propagating npm worm hits @ctrl/tinycolor and dozens more packages](https://dev.to/clouddefenseai/shai-hulud-a-self-propagating-npm-worm-hits-ctrltinycolor-and-dozens-more-packages-4j93)
-- [Why Debian packages are saver then NPM and PyPi](https://dev.to/jverhoeks/why-debian-packages-are-saver-then-npm-and-pypi-4j21)
+- [The Developer’s Guide To 10K Steps A Day](https://dev.to/alexahayes/the-developers-guide-to-10k-steps-a-day-4bmb)
+- [🚀 Leena AI – Round 2 Interview Questions &lpar;Frontend/JS&rpar;](https://dev.to/ml318097/leena-ai-round-2-interview-questions-frontendjs-1hp4)
+- [Building My Homelab: The Easiest Way to SSH Remotely](https://dev.to/vakul_keshav_46acdf8d9aaf/building-my-homelab-the-easiest-way-to-ssh-remotely-p2d)
+- [Docker Image Layers – What They Are &amp; How They Work](https://dev.to/spacelift/docker-image-layers-what-they-are-how-they-work-2o22)
+- [Linux - Link Commands](https://dev.to/aravinlinux/linux-link-commands-3a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
