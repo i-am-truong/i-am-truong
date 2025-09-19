@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Mei Semones - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mei-semones-full-performance-live-on-kexp-35en)
-- [GameSpot: HYPERFUNK - Official Teaser Trailer](https://dev.to/gg_news/gamespot-hyperfunk-official-teaser-trailer-9c9)
-- [IGN: Magic: The Gathering | Marvel&#39;s Spider-Man - Official Trailer](https://dev.to/gg_news/ign-magic-the-gathering-marvels-spider-man-official-trailer-34n6)
-- [IGN: Baby Steps - Official &#39;A Very Unprofessional&#39; Developer Overview Video](https://dev.to/gg_news/ign-baby-steps-official-a-very-unprofessional-developer-overview-video-1lni)
-- [IGN: Jump Space: Official Early Access Launch Trailer](https://dev.to/gg_news/ign-jump-space-official-early-access-launch-trailer-4f2)
+- [📰 Major Tech Newz: September 19, 2025](https://dev.to/om_shree_0709/major-tech-headlines-september-19-2025-n94)
+- [How AWS Nuke Saved Us $10K Monthly by Automating Resource Cleanup](https://dev.to/dc-shimla/how-aws-nuke-saved-us-10k-monthly-by-automating-resource-cleanup-3b05)
+- [The Minimal React App Setup You Need](https://dev.to/murtuzaalisurti/the-minimal-react-app-setup-you-need-4p8e)
+- [Recommended Folder Structure for Node&lpar;TS&rpar; 2025](https://dev.to/pramod_boda/recommended-folder-structure-for-nodets-2025-39jl)
+- [Bridging AI and Blockchain: MCP’s Role](https://dev.to/om_shree_0709/bridging-ai-and-blockchain-mcps-role-2l1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
