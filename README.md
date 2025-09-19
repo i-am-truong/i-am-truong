@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SSIS tutorial: Precedence Constraints using Zappysys tasks](https://dev.to/zappysys/ssis-tutorial-precedence-constraints-using-zappysys-tasks-2f17)
+- [Why TCJSGame Stands Out: Unique Features That Beat Other 2D JavaScript Game Engine](https://dev.to/kehinde_owolabi_e2e54567a/why-tcjsgame-stands-out-unique-features-that-beat-other-2d-javascript-game-engine-72k)
+- [G](https://dev.to/leandro_lc_4c411c00e5934a/g-4inp)
 - [No More Starving Artists: Why Indie Game Devs Deserve to Be Paid](https://dev.to/mitch-narrativeflow/no-more-starving-artists-why-indie-game-devs-deserve-to-be-paid-2nf6)
 - [TCJSGame vs CT.js: A Comprehensive Comparison of JavaScript Game Engines](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-vs-ctjs-a-comprehensive-comparison-of-javascript-game-engines-2bag)
-- [✅ Refund Decisions in Logic Apps: An AI Agent with Human-in-the-Loop](https://dev.to/imdj/refund-decisions-in-logic-apps-an-ai-agent-with-human-in-the-loop-541l)
-- [I&#39;m building a Redis Clone in Zig: A Deep Dive into Pub/Sub, and Memory Allocation](https://dev.to/barddoo/im-building-a-redis-clone-in-zig-a-deep-dive-into-pubsub-and-memory-allocation-3h19)
-- [3. International HTML](https://dev.to/avery_/3-international-html-49ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
