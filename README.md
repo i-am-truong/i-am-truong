@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 4 of Complete JavaScript in 17 days | Visual Series📚✨](https://dev.to/azaan_suhail/day-4-of-complete-javascript-in-17-days-visual-series-j82)
-- [Terraform Modules and Workspaces: How MyCoCo Scaled from Copy-Paste to DRY Infrastructure](https://dev.to/dc-shimla/terraform-modules-and-workspaces-how-mycoco-scaled-from-copy-paste-to-dry-infrastructure-15cn)
-- [Ten more tips and tricks for your database schema](https://dev.to/surrealdb/ten-more-tips-and-tricks-for-your-database-schema-463m)
-- [Why Platform Teams Are Burning Out: How MyCoCo Escaped the Developer Experience Trap](https://dev.to/dc-shimla/why-platform-teams-are-burning-out-how-mycoco-escaped-the-developer-experience-trap-59b0)
-- [[Boost]](https://dev.to/hmphu/-3hkp)
+- [Virtualization vs. Containerization: The Ultimate Showdown](https://dev.to/raj_singhal/virtualization-vs-containerization-the-ultimate-showdown-gij)
+- [The Evolution of AI Technology: Opportunities, Challenges, and the Road Ahead](https://dev.to/keya_khatun_b0884129bc101/the-evolution-of-ai-technology-opportunities-challenges-and-the-road-ahead-1a89)
+- [Hello DEV Community! 👋](https://dev.to/miteshdhabekar/hello-dev-community-1bno)
+- [Why Ephemeral Resources in Terraform Matter: How MyCoCo Eliminated Secrets from State Files](https://dev.to/dc-shimla/why-ephemeral-resources-in-terraform-matter-how-mycoco-eliminated-secrets-from-state-files-4b0k)
+- [How I Built Brandiseer: An AI That Generates On-Brand Visuals Consistently for your Business](https://dev.to/srkdan/how-i-built-brandiseer-an-ai-that-generates-on-brand-visuals-consistently-for-your-business-42gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
