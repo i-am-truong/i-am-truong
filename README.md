@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bugs wear data. Let&#39;s check Apache NiFi](https://dev.to/pvsdev/bugs-wear-data-lets-check-apache-nifi-2ehk)
 - [Shad cn vue Like Nuxt/Vue Librarys :fire:](https://dev.to/leamsigc/shad-cn-vue-like-nuxtvue-librarys-fire-23k8)
 - [Troubleshooting Common DevOps Challenges](https://dev.to/addwebsolutionpvtltd/troubleshooting-common-devops-challenges-4n0)
 - [Introduction to Java Programming](https://dev.to/hemantyadav2804/introduction-to-java-programming-22h)
 - [What is Mechanical Drafting?](https://dev.to/synnoptech_cad_b9410c35d7/what-is-mechanical-drafting-1h46)
-- [Meta in Talks with News Publishers Over AI Licensing Deals](https://dev.to/sky_yv_11b3d5d44877d27276/meta-in-talks-with-news-publishers-over-ai-licensing-deals-2jpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
