@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Text Search with MongoDB and PostgreSQL Full Text Search](https://dev.to/franckpachot/text-search-with-mongodb-and-postgresql-full-text-search-1blg)
+- [Semantic HTML? Completed it Mate](https://dev.to/harvey_evans_a0dac32c4b6e/semantic-html-completed-it-mate-day-2-11ae)
+- [Text Search with MongoDB and PostgreSQL](https://dev.to/franckpachot/text-search-with-mongodb-and-postgresql-full-text-search-1blg)
 - [Facing the Shai-Hulud Worm: Where the Hell is Easystreet?](https://dev.to/sebs/facing-the-shai-hulud-worm-where-the-hell-is-easystreet-4b60)
 - [EasyLog - Intelligent Object Debugging](https://dev.to/codaarx/easylog-intelligent-object-debugging-2kj0)
 - [Understanding the Difference Between Tables and Views &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/understanding-the-difference-between-tables-and-views-bite-size-article-1i3j)
-- [Amazon SageMaker Built-in Models &amp; all about ML Lifecycle in action- Mini Project.](https://dev.to/sumbul_naqvi/amazon-sagemaker-built-in-models-all-about-ml-lifecycle-in-action-mini-project-4dlp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
