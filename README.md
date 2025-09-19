@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Assinatura Digital em Elixir com Criptografia Assimétrica](https://dev.to/williammdsilva/assinatura-digital-em-elixir-com-criptografia-assimetrica-1m6k)
 - [⚙️ Enabling a Logic App as an MCP Server](https://dev.to/imdj/enabling-a-logic-app-as-an-mcp-server-34bp)
+- [Configuring WiFi on ESP32-C3 DevKitM-1 / Rust-1](https://dev.to/jajera/configuring-wifi-on-esp32-c3-devkitm-1-rust-1-53e9)
 - [Catalogs as Context: How Metadata is Powering the Next Wave of AI](https://dev.to/datastrato/catalogs-as-context-how-metadata-is-powering-the-next-wave-of-ai-1dem)
 - [Use Your Machine Name &lpar;Not Just localhost&rpar; with HTTPS on ASP.NET Core — and Make Node.js Trust It](https://dev.to/ruxozheng/use-your-machine-name-not-just-localhost-with-https-on-aspnet-core-and-make-nodejs-trust-it-2fpe)
-- [📊 Adding Observability to Gemma 2B on Kubernetes with Prometheus &amp; Grafana](https://dev.to/sumit_roy9007/adding-observability-to-gemma-2b-on-kubernetes-with-prometheus-grafana-4aj)
-- [Lost Recovery Keys with Auto Unseal – Vault](https://dev.to/terngr/lost-recovery-keys-with-auto-unseal-vault-58ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
