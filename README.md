@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Good Boy &lpar;v1.0&rpar; Release: Bringing a Lovable Desktop Pet to Life](https://dev.to/beginarjun/good-boy-v10-release-bringing-a-lovable-desktop-pet-to-life-239j)
+- [The Impact of AI and IoT on Logistic Software Developers’ Work](https://dev.to/appinginenewyork/the-impact-of-ai-and-iot-on-logistic-software-developers-work-3n39)
+- [[Boost]](https://dev.to/pratham_naik_project_manager/-1dn3)
 - [Aetherwake Dev Log #1](https://dev.to/exodiagamedevelopment/aetherwake-dev-log-1-4mhd)
-- [From GitHub to LinkedIn: Expanding Your Developer Brand Beyond Code](https://dev.to/bearconnectio/from-github-to-linkedin-expanding-your-developer-brand-beyond-code-j99)
-- [🚀Life of a Software Engineer: How I Patched an NPM Package and Saved the Day](https://dev.to/madildev/life-of-a-software-engineer-how-i-patched-an-npm-package-and-saved-the-day-b3e)
-- [Project of the Week: Dify](https://dev.to/pullflow/project-of-the-week-dify-5d3l)
-- [Security Hardening for Nginx: TLS, Firewalls, and Fail2Ban Basics](https://dev.to/ramer_lacida_2b58cbe46bc8/security-hardening-for-nginx-tls-firewalls-and-fail2ban-basics-22ln)
+- [From Guthub to LinkedIn Expnad tour developer brand beyond code](https://dev.to/naik_sejal/from-guthub-to-linkedin-expnad-tour-developer-brand-beyond-code-m81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
