@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to kill a process in Linux: A cheatsheet &lpar;kill, killall, pkill, fuser&rpar;](https://dev.to/xinitd/how-to-kill-a-process-in-linux-a-cheatsheet-kill-killall-pkill-fuser-561d)
-- [Xcode 26 Exit Tests: Testing Fatal Errors and Crashes Safely](https://dev.to/arshtechpro/xcode-26-exit-tests-testing-fatal-errors-and-crashes-safely-263k)
-- [When Tech Demos Go Wrong: Meta&#39;s AI Glasses Hit a Snag During Zuckerberg&#39;s Live Presentation](https://dev.to/shiva_shanker_k/when-tech-demos-go-wrong-metas-ai-glasses-hit-a-snag-during-zuckerbergs-live-presentation-5hjd)
-- [Visualizing AI Agent Memory: Building a Web Browser for Amazon Bedrock AgentCore Memory](https://dev.to/aws/visualizing-ai-agent-memory-building-a-web-browser-for-amazon-bedrock-agentcore-memory-3571)
-- [Why PWAs Might Be the Next Big Thing in Cross-Device Development](https://dev.to/antunesalesdev/why-pwas-might-be-the-next-big-thing-in-cross-device-development-2eom)
+- [Make Your API AI-Ready: Try Swytchcode&#39;s Free Playground](https://dev.to/chilarai/make-your-api-ai-ready-try-swytchcodes-free-playground-3mkf)
+- [Unraveling the Hidden Web of Your SQL Server Database](https://dev.to/dbinsights_7d6d82129280e4/unraveling-the-hidden-web-of-your-sql-server-database-3oid)
+- [Rails View Helper Scope and the include_all_helpers Option](https://dev.to/hamajyotan/rails-view-helper-scope-and-the-includeallhelpers-option-4b69)
+- [I built a simple job board just for .NET roles - feedback welcome!](https://dev.to/dotnethired/i-built-a-simple-job-board-just-for-net-roles-feedback-welcome-kad)
+- [Office vs Remote vs hybrid](https://dev.to/anonch/office-vs-remote-vs-hybrid-idm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
