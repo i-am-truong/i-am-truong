@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Critical File Upload Vulnerability in Yonyou U8 Cloud &lpar;IPFxxFileService&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/critical-file-upload-vulnerability-in-yonyou-u8-cloud-ipfxxfileservice-22k1)
+- [a](https://dev.to/huu_trung_e410d2631b3a808/a-281o)
 - [7 Tips for Optimizing Nginx in a CI/CD Pipeline for Faster Deployments](https://dev.to/ramer_lacida_2b58cbe46bc8/7-tips-for-optimizing-nginx-in-a-cicd-pipeline-for-faster-deployments-4afg)
+- [Performance Tuning for Nginx: 6 Tips to Cut Latency &amp; Boost Throughput](https://dev.to/ramer_lacida_2b58cbe46bc8/performance-tuning-for-nginx-6-tips-to-cut-latency-boost-throughput-4e6m)
 - [The Ultimate Checklist for Docker Deployments on Production](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-docker-deployments-on-production-3e9c)
-- [The AI Revolution: Transforming the Banking Landscape](https://dev.to/mithamovictor/the-ai-revolution-transforming-the-banking-landscape-1959)
-- [The Ultimate Checklist for Securing DNS Records &amp; Email Auth](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-securing-dns-records-email-auth-3m3g)
-- [The Ultimate Checklist for Securing Your DNS Records Across Cloudflare](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-securing-your-dns-records-across-cloudflare-2lok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
