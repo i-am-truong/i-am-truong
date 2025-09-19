@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Common Misconceptions About Criminal Defence in Alberta](https://dev.to/daryl_royer/common-misconceptions-about-criminal-defence-in-alberta-1cie)
+- [check out this article on The Power of Random Forests: Origins, Real-Life Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/check-out-this-article-on-the-power-of-random-forests-origins-real-life-applications-and-case-4bic)
+- [The Power of Random Forests: Origins, Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/the-power-of-random-forests-origins-applications-and-case-studies-447n)
+- [Time Zones and Offsets in Java](https://dev.to/sadiul_hakim/time-zones-and-offsets-in-java-2d8m)
 - [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
-- [Day 11 of #90DaysOfCode – Python Name Generator 🎉](https://dev.to/momina_raheelmoona_c59/day-11-of-90daysofcode-python-name-generator-1fej)
-- [Day 52: CI/CD pipeline on AWS pt 3](https://dev.to/udoh_deborah_b1e484c474bf/day-52-cicd-pipeline-on-aws-pt-3-318g)
-- [How to Boost Remote Work Productivity: A Developer-Friendly Guide for 2025](https://dev.to/teamcamp/how-to-boost-remote-work-productivity-a-developer-friendly-guide-for-2025-2bbk)
-- [Duffel vs Amadeus: Which Works Better for Modern API-First Integration?](https://dev.to/ravi_makhija/duffel-vs-amadeus-which-works-better-for-modern-api-first-integration-49p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
