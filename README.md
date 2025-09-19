@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive RAG Expert Course Curriculum](https://dev.to/dhanush___b/comprehensive-rag-expert-course-curriculum-71k)
-- [The Rise of Passwordless Authentication: Are Password Managers Becoming Obsolete?](https://dev.to/rahul_sharma_15bd129bc69e/the-rise-of-passwordless-authentication-are-password-managers-becoming-obsolete-1b93)
-- [Amazon ElastiCache &lpar;Redis, Memcached&rpar;](https://dev.to/godofgeeks/amazon-elasticache-redis-memcached-5f13)
-- [Embedded SBCs in Industrial Automation: Roles and Challenges](https://dev.to/lauraaa/embedded-sbcs-in-industrial-automation-roles-and-challenges-2fc2)
-- [Supermaker ai: The AI Tool for Streamlining Creative Work](https://dev.to/juddiy/supermaker-ai-the-ai-tool-for-streamlining-creative-work-fbc)
+- [7 Tips for Optimizing Nginx in a CI/CD Pipeline for Faster Deployments](https://dev.to/ramer_lacida_2b58cbe46bc8/7-tips-for-optimizing-nginx-in-a-cicd-pipeline-for-faster-deployments-4afg)
+- [The Ultimate Checklist for Docker Deployments on Production](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-docker-deployments-on-production-3e9c)
+- [The AI Revolution: Transforming the Banking Landscape](https://dev.to/mithamovictor/the-ai-revolution-transforming-the-banking-landscape-1959)
+- [The Ultimate Checklist for Securing DNS Records &amp; Email Auth](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-securing-dns-records-email-auth-3m3g)
+- [The Ultimate Checklist for Securing Your DNS Records Across Cloudflare](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-securing-your-dns-records-across-cloudflare-2lok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
