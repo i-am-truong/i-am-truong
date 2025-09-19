@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Balancing Frontend &amp; Backend: What’s the Hardest Part of Going Full-Stack Solo?](https://dev.to/kingbyno/balancing-frontend-backend-whats-the-hardest-part-of-going-full-stack-solo-3c20)
-- [My AI Journey: A Java Developer&#39;s First Dive into the Python Ocean](https://dev.to/nitish_jprabhu_194148be9/my-ai-journey-a-java-developers-first-dive-into-the-python-ocean-86i)
-- [Best Paying Tech Jobs in 2025: What to Learn Now to Stay Ahead](https://dev.to/world_changer_98bd62122c/is-it-marketable-am-a-tech-student-which-field-will-i-choose-35ch)
-- [Hi! I’m Dhriti – Let’s Build &amp; Learn Together”](https://dev.to/dhriti_sundarmanik_75914/hi-im-dhriti-lets-build-learn-together-30a8)
-- [BASICS OF HTML CSS JAVASCRIPT](https://dev.to/arun_c6a0bb194d6c21e7d4c3/basics-of-html-css-javascript-2fhp)
+- [Real-time Search with Laravel &amp; Alpine.js: The Simple Approach](https://dev.to/manukminasyan/real-time-search-with-laravel-alpinejs-the-simple-approach-42e2)
+- [IGN: Marvel Animation&#39;s Marvel Zombies - Official Teaser Trailer #2 &lpar;2025&rpar; Elizabeth Olsen, Paul Rudd](https://dev.to/gg_news/ign-marvel-animations-marvel-zombies-official-teaser-trailer-2-2025-elizabeth-olsen-paul-5db1)
+- [IGN: Hyperfunk - Official Teaser Trailer](https://dev.to/gg_news/ign-hyperfunk-official-teaser-trailer-298a)
+- [IGN: Mushoku Tensei: Jobless Reincarnation Season 3 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-mushoku-tensei-jobless-reincarnation-season-3-official-trailer-english-subtitles-3fng)
+- [Unleashing Creativity: Gemini Image Generation with Angular](https://dev.to/gioboa/unleashing-creativity-gemini-image-generation-with-angular-4ola)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
