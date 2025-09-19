@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Empire of AI Grammar: Power Without Politicians](https://dev.to/agustin_v_startari/the-hidden-empire-of-ai-grammar-power-without-politicians-4on8)
+- [Python Pro Tip: Unpack Your Variables Like a Boss](https://dev.to/aaron_rose_0787cc8b4775a0/python-pro-tip-unpack-your-variables-like-a-boss-4j4b)
+- [Building the Future: How to Create AI Voice Agents That Work for Your Business](https://dev.to/onlineproxy/building-the-future-how-to-create-ai-voice-agents-that-work-for-your-business-54e2)
 - [Semantic HTML? Completed it Mate](https://dev.to/harvey_evans_a0dac32c4b6e/semantic-html-completed-it-mate-day-2-11ae)
 - [Text Search with MongoDB and PostgreSQL](https://dev.to/franckpachot/text-search-with-mongodb-and-postgresql-full-text-search-1blg)
-- [Facing the Shai-Hulud Worm: Where the Hell is Easystreet?](https://dev.to/sebs/facing-the-shai-hulud-worm-where-the-hell-is-easystreet-4b60)
-- [EasyLog - Intelligent Object Debugging](https://dev.to/codaarx/easylog-intelligent-object-debugging-2kj0)
-- [Understanding the Difference Between Tables and Views &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/understanding-the-difference-between-tables-and-views-bite-size-article-1i3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
