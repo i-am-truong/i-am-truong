@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aetherwake Dev Log #1](https://dev.to/exodiagamedevelopment/aetherwake-dev-log-1-4mhd)
+- [From GitHub to LinkedIn: Expanding Your Developer Brand Beyond Code](https://dev.to/bearconnectio/from-github-to-linkedin-expanding-your-developer-brand-beyond-code-j99)
+- [🚀Life of a Software Engineer: How I Patched an NPM Package and Saved the Day](https://dev.to/madildev/life-of-a-software-engineer-how-i-patched-an-npm-package-and-saved-the-day-b3e)
 - [Project of the Week: Dify](https://dev.to/pullflow/project-of-the-week-dify-5d3l)
 - [Security Hardening for Nginx: TLS, Firewalls, and Fail2Ban Basics](https://dev.to/ramer_lacida_2b58cbe46bc8/security-hardening-for-nginx-tls-firewalls-and-fail2ban-basics-22ln)
-- [The Ultimate Checklist for Building a Secure Docker CI/CD Pipeline](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-building-a-secure-docker-cicd-pipeline-4l8j)
-- [Is Apple Using Figma to Build iOS 26?](https://dev.to/hashbyt/is-apple-using-figma-to-build-ios-26-4897)
-- [Is This The New Scam on Dev?](https://dev.to/scofieldidehen/is-this-the-new-scam-on-dev-302k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
