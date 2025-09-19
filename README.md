@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Code Comments Approach](https://dev.to/bhavy_k_5a3b6c88887b58c92/google-code-comments-approach-1gca)
-- [Google Code Comments Engineering Approach](https://dev.to/pratham_naik_project_manager/google-code-comments-engineering-approach-4mnm)
-- [React - Components and props](https://dev.to/dharshinieswaran/react-components-and-props-2p5p)
-- [Code Comments That Actually Help: The Google Engineering Approach](https://dev.to/teamcamp/code-comments-that-actually-help-the-google-engineering-approach-433c)
-- [From 404|1003 to the Green Lock: How I Fixed My Rust SMS Proxy on GCP with Caddy](https://dev.to/_56d7718cea8fe00ec1610/from-4041003-to-the-green-lock-how-i-fixed-my-rust-sms-proxy-on-gcp-with-caddy-1i63)
+- [Freeware Android Paint with source code...](https://dev.to/sommukhopadhyay/freeware-android-paint-with-source-code-52h5)
+- [Build Your Own Animated Component Library with React + Framer Motion](https://dev.to/jay_sarvaiya_f85e7148bb57/build-your-own-animated-component-library-with-react-framer-motion-3p48)
+- [CMS Migration: From Nuxeo to Strapi](https://dev.to/codelink/cms-migration-from-nuxeo-to-strapi-emb)
+- [The Art of Animation: Understanding Timing and Spacing](https://dev.to/lollypopdesign/the-art-of-animation-understanding-timing-and-spacing-5ck3)
+- [🤯 Sidebar menu: Tricky JS Questions Demystified](https://dev.to/aleksei_aleinikov/sidebar-menu-tricky-js-questions-demystified-5666)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
