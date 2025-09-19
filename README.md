@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A maldade na IA: David de Prometheus, filosofia clássica e desenvolvimento de software](https://dev.to/targanski/a-maldade-na-ia-david-de-prometheus-filosofia-classica-e-desenvolvimento-de-software-36ch)
+- [A Polished, Read‑Only Cloudflare D1 Explorer &lpar;Express + Vanilla JS&rpar;](https://dev.to/mohamedrayenbouzaabiaaxelites/a-polished-read-only-cloudflare-d1-explorer-express-vanilla-js-55jf)
 - [Supercharge Your Go Logging with slog-context: Contextual Logging Made Easy](https://dev.to/githubopensource/supercharge-your-go-logging-with-slog-context-contextual-logging-made-easy-2kgd)
 - [ইংরেজিতে দক্ষতা বাড়ানোর পরিপূর্ণ গাইডলাইন](https://dev.to/faisalahammad/inrejite-dksstaa-baaddaanor-pripuurnn-gaaiddlaain-2e3p)
 - [How to Build Courtroom-Ready CIPA &amp; GDPR Evidence Reports for Website Tracking Violations &lpar;2025 Guide&rpar;](https://dev.to/auditzo/how-to-build-courtroom-ready-cipa-gdpr-evidence-reports-for-website-tracking-violations-2025-4g17)
-- [Mocking APIs Made Simple: Pain Points, Solutions &amp; Best Practices with EchoAPI](https://dev.to/eleanor_fairfax_5ce95399d/mocking-apis-made-simple-pain-points-solutions-best-practices-with-echoapi-i2d)
-- [How Accent Conversion Software is Transforming Communication in Contact Centers?](https://dev.to/allandermot/how-accent-conversion-software-is-transforming-communication-in-contact-centers-2ipe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
