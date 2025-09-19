@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Global Azure Network Infrastructure: A Hands-On Guide to the AZ-700](https://dev.to/peter_samuel_052b9056e236/designing-a-global-azure-network-infrastructure-a-hands-on-guide-to-the-az-700-5b10)
-- [Hardening a Static App on Vercel: CSP, CORS, and Service Workers that Don’t Bite](https://dev.to/pocketportfolio/hardening-a-static-app-on-vercel-csp-cors-and-service-workers-that-dont-bite-1j51)
-- [A maldade na IA: David de Prometheus, filosofia clássica e desenvolvimento de software](https://dev.to/targanski/a-maldade-na-ia-david-de-prometheus-filosofia-classica-e-desenvolvimento-de-software-36ch)
-- [A Polished, Read‑Only Cloudflare D1 Explorer &lpar;Express + Vanilla JS&rpar;](https://dev.to/mohamedrayenbouzaabiaaxelites/a-polished-read-only-cloudflare-d1-explorer-express-vanilla-js-55jf)
-- [Supercharge Your Go Logging with slog-context: Contextual Logging Made Easy](https://dev.to/githubopensource/supercharge-your-go-logging-with-slog-context-contextual-logging-made-easy-2kgd)
+- [Java Concurrency Model - Part II - CountDownLatch](https://dev.to/sommukhopadhyay/java-concurrency-model-part-ii-countdownlatch-4cke)
+- [The Command Pattern in Python...](https://dev.to/sommukhopadhyay/the-command-pattern-in-python-3hco)
+- [Composite Design Pattern in Python....](https://dev.to/sommukhopadhyay/composite-design-pattern-in-python-4oh5)
+- [IGN: It’s Expensive Being a Nintendo Fan in 2025 - NVC Clips](https://dev.to/gg_news/ign-its-expensive-being-a-nintendo-fan-in-2025-nvc-clips-lni)
+- [IGN: Goddess of Victory: Nikke x Resident Evil - Official Reborn Evil Trailer](https://dev.to/gg_news/ign-goddess-of-victory-nikke-x-resident-evil-official-reborn-evil-trailer-2i10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
