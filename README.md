@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Good Boy &lpar;v1.0&rpar; Release: Bringing a Lovable Desktop Pet to Life](https://dev.to/beginarjun/good-boy-v10-release-bringing-a-lovable-desktop-pet-to-life-239j)
-- [The Impact of AI and IoT on Logistic Software Developers’ Work](https://dev.to/appinginenewyork/the-impact-of-ai-and-iot-on-logistic-software-developers-work-3n39)
-- [[Boost]](https://dev.to/pratham_naik_project_manager/-1dn3)
-- [Aetherwake Dev Log #1](https://dev.to/exodiagamedevelopment/aetherwake-dev-log-1-4mhd)
-- [From Guthub to LinkedIn Expnad tour developer brand beyond code](https://dev.to/naik_sejal/from-guthub-to-linkedin-expnad-tour-developer-brand-beyond-code-m81)
+- [KEXP: Mei Semones - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mei-semones-full-performance-live-on-kexp-35en)
+- [GameSpot: HYPERFUNK - Official Teaser Trailer](https://dev.to/gg_news/gamespot-hyperfunk-official-teaser-trailer-9c9)
+- [IGN: Magic: The Gathering | Marvel&#39;s Spider-Man - Official Trailer](https://dev.to/gg_news/ign-magic-the-gathering-marvels-spider-man-official-trailer-34n6)
+- [IGN: Baby Steps - Official &#39;A Very Unprofessional&#39; Developer Overview Video](https://dev.to/gg_news/ign-baby-steps-official-a-very-unprofessional-developer-overview-video-1lni)
+- [IGN: Jump Space: Official Early Access Launch Trailer](https://dev.to/gg_news/ign-jump-space-official-early-access-launch-trailer-4f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
