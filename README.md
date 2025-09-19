@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
+- [Day 11 of #90DaysOfCode – Python Name Generator 🎉](https://dev.to/momina_raheelmoona_c59/day-11-of-90daysofcode-python-name-generator-1fej)
+- [Day 52: CI/CD pipeline on AWS pt 3](https://dev.to/udoh_deborah_b1e484c474bf/day-52-cicd-pipeline-on-aws-pt-3-318g)
+- [How to Boost Remote Work Productivity: A Developer-Friendly Guide for 2025](https://dev.to/teamcamp/how-to-boost-remote-work-productivity-a-developer-friendly-guide-for-2025-2bbk)
 - [Duffel vs Amadeus: Which Works Better for Modern API-First Integration?](https://dev.to/ravi_makhija/duffel-vs-amadeus-which-works-better-for-modern-api-first-integration-49p4)
-- [Part-66: 🚦 Google Cloud Networking: Cloud Load Balancing &lpar;Global &amp; Regional&rpar;](https://dev.to/latchudevops/part-66-google-cloud-networking-cloud-load-balancing-global-regional-46kn)
-- [Array in JS | JavaScript Series Ep. 1](https://dev.to/amanbhoria/array-in-js-javascript-series-ep-1-4mkc)
-- [The Future of Website Redesign: How AI is Changing the Game in 2025](https://dev.to/web5lab_938e9096be8dc3e78/the-future-of-website-redesign-how-ai-is-changing-the-game-in-2025-4h32)
-- [6 Methods Machine Learning Improves AI Precision](https://dev.to/aditya_c90047909cf234c949/6-methods-machine-learning-improves-ai-precision-l51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
