@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is This The New Scam on Dev?](https://dev.to/scofieldidehen/is-this-the-new-scam-on-dev-302k)
+- [Divine Money Manifesting - Complete Program &amp; Content Breakdown &lpar;2025&rpar;](https://dev.to/camila_estebes_5a54e66310/divine-money-manifesting-complete-program-content-breakdown-2025-128o)
 - [Laravel Just Launched Laravel Learn – Here’s Why It Matters](https://dev.to/aakash_shrivas_0806333bbe/laravel-just-launched-laravel-learn-heres-why-it-matters-4phf)
 - [Hardening a Vercel app: CSP, CORS, and Service Workers that don’t bite](https://dev.to/pocketportfolio/hardening-a-vercel-app-csp-cors-and-service-workers-that-dont-bite-1k2m)
 - [[Boost]](https://dev.to/giantconfidence/-ipo)
-- [From Prompt Chaos to Production: Engineering Reliable AI Conversations](https://dev.to/martinrojas/from-prompt-chaos-to-production-engineering-reliable-ai-conversations-1amg)
-- [Liquidity is a Weapon: How I Learned to Hunt Where Others Hide](https://dev.to/dhis_is_jj/liquidity-is-a-weapon-how-i-learned-to-hunt-where-others-hide-72a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
