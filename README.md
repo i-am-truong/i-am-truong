@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your AI Agents with a Custom RAG Pipeline Powered by Live Web Data](https://dev.to/extractdata/supercharge-your-ai-agents-with-a-custom-rag-pipeline-powered-by-live-web-data-57fl)
-- [Behavioral interview Preparation](https://dev.to/ashutoshsarangi/behavioral-interview-preparation-93e)
-- [Capítulo 1 | Introducción](https://dev.to/unapauli/capitulo-1-introduccion-37k4)
-- [I built MineSafety: A Powerful Incident &amp; Safety Tracker for Mines](https://dev.to/alphonsekazadi/minesafety-a-modern-incident-safety-tracker-for-mines-580o)
-- [The main tasks of a Database Administrator &lpar;DBA&rpar; by 2025](https://dev.to/digitalpollution/the-main-tasks-of-a-database-administrator-dba-by-2025-4287)
+- [3 Gotchas When Calling an IAP‑Protected Cloud Run API from a Chrome Extension &lpar;MV3&rpar;](https://dev.to/saloni28/3-gotchas-when-calling-an-iap-protected-cloud-run-api-from-a-chrome-extension-mv3-mfa)
+- [What’s the Hardest Part About Building Full-Stack Apps Solo?](https://dev.to/kingbyno/whats-the-hardest-part-about-building-full-stack-apps-solo-1hbg)
+- [Vibe Coding: Because Who Reads Code Anyway?](https://dev.to/trojanmocx/vibe-coding-because-who-reads-code-anyway-319l)
+- [WIP is waste](https://dev.to/jonasbn/wip-is-waste-208n)
+- [Document engineers/DevRel - how are you using Claude &lpar;or other tools&rpar; in content creation?](https://dev.to/drguthals/document-engineersdevrel-how-are-you-using-claude-or-other-tools-in-content-creation-2i7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
