@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Free OpenStreetMap Locality Dataset: Cities, Towns, Villages &amp; Hamlets in NDJSON](https://dev.to/geoapify-maps-api/free-openstreetmap-locality-dataset-cities-towns-villages-hamlets-in-ndjson-6dh)
+- [Develop an edge computing app in the browser](https://dev.to/fastly/develop-an-edge-computing-app-in-the-browser-1kh5)
+- [How AI and Data Analytics Are Transforming Business Decisions in 2025](https://dev.to/shubhaharini_r_efb03d8988/how-ai-and-data-analytics-are-transforming-business-decisions-in-2025-26h1)
+- [Deploy a .NET 8 App to Azure Kubernetes Service &lpar;AKS&rpar; – Tutorial Guide](https://dev.to/kosisochukwu_ugochukwu_a2/deploy-a-net-8-app-to-azure-kubernetes-service-aks-tutorial-guide-423c)
 - [Enhance more features. It’s guardrails.](https://dev.to/codebrainr/enhance-more-features-its-guardrails-34nm)
-- [What is AI as a Service &lpar;AIaaS&rpar;?](https://dev.to/aria_quinn_5ef92b2811fdf8/what-is-ai-as-a-service-aiaas-30lp)
-- [How to Improve Forecasting Accuracy: Top Strategies to Succeed](https://dev.to/microestimates/how-to-improve-forecasting-accuracy-top-strategies-to-succeed-16o7)
-- [Learning JS in 30 Days - Day 1](https://dev.to/tony_chase_83955825282edc/learning-js-in-30-days-day-1-2ac3)
-- [Python Basic __init__ , __pycache__ &amp; PIP](https://dev.to/ashutoshsarangi/python-basic-init-pycache-pip-3dkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
