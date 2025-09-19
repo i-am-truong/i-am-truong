@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon SageMaker Built-in Models &amp; all about ML Lifecycle in action- Mini Project.](https://dev.to/sumbul_naqvi/amazon-sagemaker-built-in-models-all-about-ml-lifecycle-in-action-mini-project-4dlp)
+- [Laravel MCP: The Next Big Leap for AI-Ready Laravel Apps](https://dev.to/akashdas/laravel-mcp-the-next-big-leap-for-ai-ready-laravel-apps-4dbf)
 - [Real-time Search with Laravel &amp; Alpine.js: The Simple Approach](https://dev.to/manukminasyan/real-time-search-with-laravel-alpinejs-the-simple-approach-42e2)
 - [IGN: Marvel Animation&#39;s Marvel Zombies - Official Teaser Trailer #2 &lpar;2025&rpar; Elizabeth Olsen, Paul Rudd](https://dev.to/gg_news/ign-marvel-animations-marvel-zombies-official-teaser-trailer-2-2025-elizabeth-olsen-paul-5db1)
 - [IGN: Hyperfunk - Official Teaser Trailer](https://dev.to/gg_news/ign-hyperfunk-official-teaser-trailer-298a)
-- [IGN: Mushoku Tensei: Jobless Reincarnation Season 3 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-mushoku-tensei-jobless-reincarnation-season-3-official-trailer-english-subtitles-3fng)
-- [Unleashing Creativity: Gemini Image Generation with Angular](https://dev.to/gioboa/unleashing-creativity-gemini-image-generation-with-angular-4ola)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
