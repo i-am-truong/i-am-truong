@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚙️ Enabling a Logic App as an MCP Server](https://dev.to/imdj/enabling-a-logic-app-as-an-mcp-server-34bp)
+- [Catalogs as Context: How Metadata is Powering the Next Wave of AI](https://dev.to/datastrato/catalogs-as-context-how-metadata-is-powering-the-next-wave-of-ai-1dem)
 - [Use Your Machine Name &lpar;Not Just localhost&rpar; with HTTPS on ASP.NET Core — and Make Node.js Trust It](https://dev.to/ruxozheng/use-your-machine-name-not-just-localhost-with-https-on-aspnet-core-and-make-nodejs-trust-it-2fpe)
+- [📊 Adding Observability to Gemma 2B on Kubernetes with Prometheus &amp; Grafana](https://dev.to/sumit_roy9007/adding-observability-to-gemma-2b-on-kubernetes-with-prometheus-grafana-4aj)
 - [Lost Recovery Keys with Auto Unseal – Vault](https://dev.to/terngr/lost-recovery-keys-with-auto-unseal-vault-58ih)
-- [NodeJS to n8n: A Developer&#39;s Guide to Smarter Workflow Automation](https://dev.to/shieldstring/nodejs-to-n8n-a-developers-guide-to-smarter-workflow-automation-2bjc)
-- [I created a small 2D game about an ant :&rpar;](https://dev.to/anthonymax/i-created-a-small-2d-game-about-an-ant--9nc)
-- [Compiling LLVM and Running Your First Dummy Pass](https://dev.to/cppchedy/compiling-llvm-and-running-your-first-dummy-pass-2an5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
