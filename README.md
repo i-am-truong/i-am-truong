@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Just Launched Laravel Learn – Here’s Why It Matters](https://dev.to/aakash_shrivas_0806333bbe/laravel-just-launched-laravel-learn-heres-why-it-matters-4phf)
+- [Hardening a Vercel app: CSP, CORS, and Service Workers that don’t bite](https://dev.to/pocketportfolio/hardening-a-vercel-app-csp-cors-and-service-workers-that-dont-bite-1k2m)
+- [[Boost]](https://dev.to/giantconfidence/-ipo)
+- [From Prompt Chaos to Production: Engineering Reliable AI Conversations](https://dev.to/martinrojas/from-prompt-chaos-to-production-engineering-reliable-ai-conversations-1amg)
 - [Liquidity is a Weapon: How I Learned to Hunt Where Others Hide](https://dev.to/dhis_is_jj/liquidity-is-a-weapon-how-i-learned-to-hunt-where-others-hide-72a)
-- [Why Are You Not Reading My Post?](https://dev.to/scofieldidehen/why-are-you-not-reading-my-post-1fa5)
-- [AWS Week-4 P2](https://dev.to/suvrajeet/aws-week-4-p2-nj3)
-- [Two new ways to keep an eye on your SurrealDB database](https://dev.to/surrealdb/two-new-ways-to-keep-an-eye-on-your-surrealdb-database-4a2n)
-- [From React Native to Web in One Command: The Game-Changing CLI Tool Every Developer Needs](https://dev.to/rishabh_sehgal_4249c22e8f/from-react-native-to-web-in-one-command-the-game-changing-cli-tool-every-developer-needs-3m6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
