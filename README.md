@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SSIS tutorial: Precedence Constraints using Zappysys tasks](https://dev.to/zappysys/ssis-tutorial-precedence-constraints-using-zappysys-tasks-2f17)
-- [Why TCJSGame Stands Out: Unique Features That Beat Other 2D JavaScript Game Engine](https://dev.to/kehinde_owolabi_e2e54567a/why-tcjsgame-stands-out-unique-features-that-beat-other-2d-javascript-game-engine-72k)
-- [G](https://dev.to/leandro_lc_4c411c00e5934a/g-4inp)
-- [No More Starving Artists: Why Indie Game Devs Deserve to Be Paid](https://dev.to/mitch-narrativeflow/no-more-starving-artists-why-indie-game-devs-deserve-to-be-paid-2nf6)
-- [TCJSGame vs CT.js: A Comprehensive Comparison of JavaScript Game Engines](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-vs-ctjs-a-comprehensive-comparison-of-javascript-game-engines-2bag)
+- [Compiling LLVM and Running Your First Dummy Pass](https://dev.to/cppchedy/compiling-llvm-and-running-your-first-dummy-pass-2an5)
+- [10 Common JavaScript Pitfalls &lpar;and How to Avoid Them&rpar;](https://dev.to/baransel/10-common-javascript-pitfalls-and-how-to-avoid-them-40i)
+- [Running Gemma 2B on Kubernetes &lpar;k3d&rpar; with Ollama: A Complete Local AI Setup](https://dev.to/sumit_roy9007/running-gemma-2b-on-kubernetes-k3d-with-ollama-a-complete-local-ai-setup-2knp)
+- [A FSM Challenge for the c#/DotNet Dev Community](https://dev.to/trent_best_ca8617e4911baf/a-fsm-challenge-for-the-cdotnet-dev-community-2c9k)
+- [Security news weekly round-up - 19th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-19th-september-2025-4kj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
