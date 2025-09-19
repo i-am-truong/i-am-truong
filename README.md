@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NPR Music: Lido Pimienta: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-lido-pimienta-tiny-desk-concert-21oj)
+- [Spring Boot REST API — Returning Response in JSON Format](https://dev.to/masteringbackend/spring-boot-rest-api-returning-response-in-json-format-2j8p)
+- [KendoReact Free Components Challenge: Invoice Management Dashboard](https://dev.to/pratik_12b3f8bf3b50e48bae/kendoreact-free-components-challenge-invoice-management-dashboard-aac)
 - [Shai-Hulud: a self-propagating npm worm hits @ctrl/tinycolor and dozens more packages](https://dev.to/clouddefenseai/shai-hulud-a-self-propagating-npm-worm-hits-ctrltinycolor-and-dozens-more-packages-4j93)
 - [Why Debian packages are saver then NPM and PyPi](https://dev.to/jverhoeks/why-debian-packages-are-saver-then-npm-and-pypi-4j21)
-- [How to Migrate Your On-Premise Database to Google Cloud SQL? A Detailed Guide](https://dev.to/mehul_budasana/how-to-migrate-your-on-premise-database-to-google-cloud-sql-a-detailed-guide-21op)
-- [Data Privacy in Web3: Meeting 2025 Consumer Expectation](https://dev.to/intelisync_technology_51d/data-privacy-in-web3-meeting-2025-consumer-expectation-47mn)
-- [Runtime Snapshots #1: Taking a “fine” signup form and making it work](https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-1-taking-a-fine-signup-form-and-making-it-work-5960)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
