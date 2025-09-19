@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Arduino IDE Configuration for ESP32-C3 DevKitM-1 / Rust-1](https://dev.to/jajera/arduino-ide-configuration-for-esp32-c3-devkitm-1-rust-1-5d99)
+- [C++ 20 multi threaded programming - the introduction of std::atomic...](https://dev.to/sommukhopadhyay/c-20-multi-threaded-programming-the-introduction-of-stdatomic-1cog)
+- [Mastering Laravel 12 Events: How to Define and Control Listener Execution Order with O&lpar;1&rpar; Complexity](https://dev.to/cmmishra9/mastering-laravel-12-events-how-to-define-and-control-listener-execution-order-with-o1-complexity-4id2)
 - [Spring AOP and Kotlin coroutines - What is wrong with Kotlin + SpringBoot](https://dev.to/vishesh/learning-spring-aop-and-kotlin-coroutines-what-is-wrong-with-kotlin-springboot-5417)
-- [Freeware Android Paint with source code...](https://dev.to/sommukhopadhyay/freeware-android-paint-with-source-code-52h5)
-- [Build Your Own Animated Component Library with React + Framer Motion](https://dev.to/jay_sarvaiya_f85e7148bb57/build-your-own-animated-component-library-with-react-framer-motion-3p48)
-- [CMS Migration: From Nuxeo to Strapi](https://dev.to/codelink/cms-migration-from-nuxeo-to-strapi-emb)
-- [The Art of Animation: Understanding Timing and Spacing](https://dev.to/lollypopdesign/the-art-of-animation-understanding-timing-and-spacing-5ck3)
+- [Modernize Open Source Bootstrap 5 Admin Dashboard Template](https://dev.to/vaibhavg/modernize-open-source-bootstrap-5-admin-dashboard-template-bao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
