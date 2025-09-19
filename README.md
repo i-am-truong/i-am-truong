@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Concurrency Model - Part II - CountDownLatch](https://dev.to/sommukhopadhyay/java-concurrency-model-part-ii-countdownlatch-4cke)
-- [The Command Pattern in Python...](https://dev.to/sommukhopadhyay/the-command-pattern-in-python-3hco)
-- [Composite Design Pattern in Python....](https://dev.to/sommukhopadhyay/composite-design-pattern-in-python-4oh5)
-- [IGN: It’s Expensive Being a Nintendo Fan in 2025 - NVC Clips](https://dev.to/gg_news/ign-its-expensive-being-a-nintendo-fan-in-2025-nvc-clips-lni)
-- [IGN: Goddess of Victory: Nikke x Resident Evil - Official Reborn Evil Trailer](https://dev.to/gg_news/ign-goddess-of-victory-nikke-x-resident-evil-official-reborn-evil-trailer-2i10)
+- [Liquidity is a Weapon: How I Learned to Hunt Where Others Hide](https://dev.to/dhis_is_jj/liquidity-is-a-weapon-how-i-learned-to-hunt-where-others-hide-72a)
+- [Why Are You Not Reading My Post?](https://dev.to/scofieldidehen/why-are-you-not-reading-my-post-1fa5)
+- [AWS Week-4 P2](https://dev.to/suvrajeet/aws-week-4-p2-nj3)
+- [Two new ways to keep an eye on your SurrealDB database](https://dev.to/surrealdb/two-new-ways-to-keep-an-eye-on-your-surrealdb-database-4a2n)
+- [From React Native to Web in One Command: The Game-Changing CLI Tool Every Developer Needs](https://dev.to/rishabh_sehgal_4249c22e8f/from-react-native-to-web-in-one-command-the-game-changing-cli-tool-every-developer-needs-3m6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
