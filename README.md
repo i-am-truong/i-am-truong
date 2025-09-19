@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📰 Major Tech Newz: September 19, 2025](https://dev.to/om_shree_0709/major-tech-headlines-september-19-2025-n94)
-- [How AWS Nuke Saved Us $10K Monthly by Automating Resource Cleanup](https://dev.to/dc-shimla/how-aws-nuke-saved-us-10k-monthly-by-automating-resource-cleanup-3b05)
-- [The Minimal React App Setup You Need](https://dev.to/murtuzaalisurti/the-minimal-react-app-setup-you-need-4p8e)
-- [Recommended Folder Structure for Node&lpar;TS&rpar; 2025](https://dev.to/pramod_boda/recommended-folder-structure-for-nodets-2025-39jl)
-- [Bridging AI and Blockchain: MCP’s Role](https://dev.to/om_shree_0709/bridging-ai-and-blockchain-mcps-role-2l1n)
+- [Day 4 of Complete JavaScript in 17 days | Visual Series📚✨](https://dev.to/azaan_suhail/day-4-of-complete-javascript-in-17-days-visual-series-j82)
+- [Terraform Modules and Workspaces: How MyCoCo Scaled from Copy-Paste to DRY Infrastructure](https://dev.to/dc-shimla/terraform-modules-and-workspaces-how-mycoco-scaled-from-copy-paste-to-dry-infrastructure-15cn)
+- [Ten more tips and tricks for your database schema](https://dev.to/surrealdb/ten-more-tips-and-tricks-for-your-database-schema-463m)
+- [Why Platform Teams Are Burning Out: How MyCoCo Escaped the Developer Experience Trap](https://dev.to/dc-shimla/why-platform-teams-are-burning-out-how-mycoco-escaped-the-developer-experience-trap-59b0)
+- [[Boost]](https://dev.to/hmphu/-3hkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
