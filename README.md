@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [made a fractal tree thing when bored, forgot about it, then it solved a problem i was stuck on for days](https://dev.to/zx_main_9eb9d701f89146bb/made-a-fractal-tree-thing-when-bored-forgot-about-it-then-it-solved-a-problem-i-was-stuck-on-for-28m7)
-- [Polyglot Data Engineering: Python + Go in the Same Pipeline](https://dev.to/mohhddhassan/polyglot-data-engineering-python-go-in-the-same-pipeline-5gdh)
-- [Part-65: 🛰️ Demystifying Google Cloud DNS – A Simple Guide](https://dev.to/latchudevops/part-65-demystifying-google-cloud-dns-a-simple-guide-137l)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-2fom)
-- [Concurrent programming in Java: ThreadPoolExecutor](https://dev.to/chanhlt/concurrent-programming-in-java-threadpoolexecutor-9e2)
+- [No Laying Up Podcast: NLU Personal Golf Spotlight: Big Randy | NLU Pod, Ep 1071](https://dev.to/youtube_golf/no-laying-up-podcast-nlu-personal-golf-spotlight-big-randy-nlu-pod-ep-1071-4ah2)
+- [IGN: Hollow Knight Silksong - How to Get the Double Jump &lpar;Faydown Cloak&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-the-double-jump-faydown-cloak-2oo7)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pc5)
+- [From Fat Models to Clean Code: 5 Practical Design Patterns in Ruby on Rails](https://dev.to/pratiksha_palkar_1626564e/from-fat-models-to-clean-code-5-practical-design-patterns-in-ruby-on-rails-1n98)
+- [Playwright: A Modern Framework for Web Automation Testing](https://dev.to/the_wise_06d8114f1ee73fe8/playwright-a-modern-framework-for-web-automation-testing-4iak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
