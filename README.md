@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Simplifying Pharma Compliance](https://dev.to/xccelerance_technologies_/how-ai-is-simplifying-pharma-compliance-3jjc)
-- [Building Trust in a Digital World: Why Transparency is Your Greatest Asset](https://dev.to/remotly/building-trust-in-a-digital-world-why-transparency-is-your-greatest-asset-4k3a)
-- [Fintech Security: Best Practices for Fintech Apps](https://dev.to/flutterwaveeng/fintech-security-best-practices-for-fintech-apps-4k2i)
-- [The Bid Feedback Paradox](https://dev.to/bid_solution/the-bid-feedback-paradox-3caj)
-- [Building a Simple Bank App API with Spring Boot and Spring Data JPA](https://dev.to/m_muhd8/building-a-simple-bank-app-api-with-spring-boot-and-jpa-4h9p)
+- [Building a static file server in Java with sockets](https://dev.to/sadiul_hakim/building-a-static-file-server-in-java-with-sockets-p19)
+- [This week in react #250 : Activity, React Router, CSS-in-J | Expo, iOS blur, AI, Lynx, Squircle, | TC39, pnpm, Bun](https://dev.to/sebastienlorber/this-week-in-react-250-activity-react-router-css-in-j-expo-ios-blur-ai-lynx-squircle--1m3f)
+- [AOT: .NET vs Java](https://dev.to/mehrandvd/aot-net-vs-java-3e4m)
+- [O código perfeito NÃO existe - e está na hora de aceitar isso](https://dev.to/gustavo_darosaoliveira_/o-codigo-perfeito-nao-existe-e-esta-na-hora-de-aceitar-isso-3pee)
+- [The AI Code Security Crisis: Why 45% of AI-Generated Code is Vulnerable](https://dev.to/alex_chen_ai/the-ai-code-security-crisis-why-45-of-ai-generated-code-is-vulnerable-3lof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
