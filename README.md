@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Your Machine Name &lpar;Not Just localhost&rpar; with HTTPS on ASP.NET Core — and Make Node.js Trust It](https://dev.to/ruxozheng/use-your-machine-name-not-just-localhost-with-https-on-aspnet-core-and-make-nodejs-trust-it-2fpe)
+- [Lost Recovery Keys with Auto Unseal – Vault](https://dev.to/terngr/lost-recovery-keys-with-auto-unseal-vault-58ih)
+- [NodeJS to n8n: A Developer&#39;s Guide to Smarter Workflow Automation](https://dev.to/shieldstring/nodejs-to-n8n-a-developers-guide-to-smarter-workflow-automation-2bjc)
+- [I created a small 2D game about an ant :&rpar;](https://dev.to/anthonymax/i-created-a-small-2d-game-about-an-ant--9nc)
 - [Compiling LLVM and Running Your First Dummy Pass](https://dev.to/cppchedy/compiling-llvm-and-running-your-first-dummy-pass-2an5)
-- [10 Common JavaScript Pitfalls &lpar;and How to Avoid Them&rpar;](https://dev.to/baransel/10-common-javascript-pitfalls-and-how-to-avoid-them-40i)
-- [Running Gemma 2B on Kubernetes &lpar;k3d&rpar; with Ollama: A Complete Local AI Setup](https://dev.to/sumit_roy9007/running-gemma-2b-on-kubernetes-k3d-with-ollama-a-complete-local-ai-setup-2knp)
-- [A FSM Challenge for the c#/DotNet Dev Community](https://dev.to/trent_best_ca8617e4911baf/a-fsm-challenge-for-the-cdotnet-dev-community-2c9k)
-- [Security news weekly round-up - 19th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-19th-september-2025-4kj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
