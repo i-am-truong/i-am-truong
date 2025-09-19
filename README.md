@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Arduino IDE Configuration for ESP32-C3 DevKitM-1 / Rust-1](https://dev.to/jajera/arduino-ide-configuration-for-esp32-c3-devkitm-1-rust-1-5d99)
-- [C++ 20 multi threaded programming - the introduction of std::atomic...](https://dev.to/sommukhopadhyay/c-20-multi-threaded-programming-the-introduction-of-stdatomic-1cog)
-- [Mastering Laravel 12 Events: How to Define and Control Listener Execution Order with O&lpar;1&rpar; Complexity](https://dev.to/cmmishra9/mastering-laravel-12-events-how-to-define-and-control-listener-execution-order-with-o1-complexity-4id2)
-- [Spring AOP and Kotlin coroutines - What is wrong with Kotlin + SpringBoot](https://dev.to/vishesh/learning-spring-aop-and-kotlin-coroutines-what-is-wrong-with-kotlin-springboot-5417)
-- [Modernize Open Source Bootstrap 5 Admin Dashboard Template](https://dev.to/vaibhavg/modernize-open-source-bootstrap-5-admin-dashboard-template-bao)
+- [Beyond the Dashboard: How I Built an AI Agent to Revolutionize Data Reporting](https://dev.to/aakas/beyond-the-dashboard-how-i-built-an-ai-agent-to-revolutionize-data-reporting-19kk)
+- [Functional Programming In Python](https://dev.to/ashutoshsarangi/functional-programming-in-python-cka)
+- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 2: RxJS, Change Detection &amp; Performance](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-2-rxjs-change-detection-performance-l38)
+- [The 90-Day Coding Routine That Made Me Think Like An Architect](https://dev.to/rohit_gavali_0c2ad84fe4e0/the-90-day-coding-routine-that-made-me-think-like-an-architect-3i38)
+- [How Debugging Taught Me More About Focus Than Meditation](https://dev.to/leena_malhotra/how-debugging-taught-me-more-about-focus-than-meditation-321g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
