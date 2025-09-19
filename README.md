@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Dashboard: How I Built an AI Agent to Revolutionize Data Reporting](https://dev.to/aakas/beyond-the-dashboard-how-i-built-an-ai-agent-to-revolutionize-data-reporting-19kk)
-- [Functional Programming In Python](https://dev.to/ashutoshsarangi/functional-programming-in-python-cka)
-- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 2: RxJS, Change Detection &amp; Performance](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-2-rxjs-change-detection-performance-l38)
-- [The 90-Day Coding Routine That Made Me Think Like An Architect](https://dev.to/rohit_gavali_0c2ad84fe4e0/the-90-day-coding-routine-that-made-me-think-like-an-architect-3i38)
-- [How Debugging Taught Me More About Focus Than Meditation](https://dev.to/leena_malhotra/how-debugging-taught-me-more-about-focus-than-meditation-321g)
+- [ETL vs ELT: The Great Data Pipeline Debate](https://dev.to/sabaristacksurge/etl-vs-elt-the-great-data-pipeline-debate-31kj)
+- [PostgreSQL Basics — Installation &amp; Setup](https://dev.to/aravinlinux/linux-system-basic-commands-khi)
+- [Why We Chose &quot;Trust&quot; - The Story Behind ConnectOnion&#39;s Authentication Keyword](https://dev.to/connectonion/why-we-chose-trust-the-story-behind-connectonions-authentication-keyword-555a)
+- [SF Tech Week Events - Grouped by Industries &amp; Technologies](https://dev.to/omarkara/sf-tech-week-events-grouped-by-industries-technologies-49ee)
+- [Invisible UX: Why the Best Design in 2025 Might Be No Design](https://dev.to/dct_technology/invisible-ux-why-the-best-design-in-2025-might-be-no-design-3k1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
