@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring AOP and Kotlin coroutines - What is wrong with Kotlin + SpringBoot](https://dev.to/vishesh/learning-spring-aop-and-kotlin-coroutines-what-is-wrong-with-kotlin-springboot-5417)
 - [Freeware Android Paint with source code...](https://dev.to/sommukhopadhyay/freeware-android-paint-with-source-code-52h5)
 - [Build Your Own Animated Component Library with React + Framer Motion](https://dev.to/jay_sarvaiya_f85e7148bb57/build-your-own-animated-component-library-with-react-framer-motion-3p48)
 - [CMS Migration: From Nuxeo to Strapi](https://dev.to/codelink/cms-migration-from-nuxeo-to-strapi-emb)
 - [The Art of Animation: Understanding Timing and Spacing](https://dev.to/lollypopdesign/the-art-of-animation-understanding-timing-and-spacing-5ck3)
-- [🤯 Sidebar menu: Tricky JS Questions Demystified](https://dev.to/aleksei_aleinikov/sidebar-menu-tricky-js-questions-demystified-5666)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
