@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Privacy in Web3: Meeting 2025 Consumer Expectation](https://dev.to/intelisync_technology_51d/data-privacy-in-web3-meeting-2025-consumer-expectation-47mn)
+- [Runtime Snapshots #1: Taking a “fine” signup form and making it work](https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-1-taking-a-fine-signup-form-and-making-it-work-5960)
 - [Free OpenStreetMap Locality Dataset: Cities, Towns, Villages &amp; Hamlets in NDJSON](https://dev.to/geoapify-maps-api/free-openstreetmap-locality-dataset-cities-towns-villages-hamlets-in-ndjson-6dh)
 - [Develop an edge computing app in the browser](https://dev.to/fastly/develop-an-edge-computing-app-in-the-browser-1kh5)
 - [How AI and Data Analytics Are Transforming Business Decisions in 2025](https://dev.to/shubhaharini_r_efb03d8988/how-ai-and-data-analytics-are-transforming-business-decisions-in-2025-26h1)
-- [Deploy a .NET 8 App to Azure Kubernetes Service &lpar;AKS&rpar; – Tutorial Guide](https://dev.to/kosisochukwu_ugochukwu_a2/deploy-a-net-8-app-to-azure-kubernetes-service-aks-tutorial-guide-423c)
-- [Enhance more features. It’s guardrails.](https://dev.to/codebrainr/enhance-more-features-its-guardrails-34nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
