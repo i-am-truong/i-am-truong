@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced AWS S3 Management: Mastering Instance Tiers and Lifecycle Controls](https://dev.to/shrsv/advanced-aws-s3-management-mastering-instance-tiers-and-lifecycle-controls-1olk)
+- [Run Large Language Models Locally in Docker | How to Use Qwen 3 with .NET Semantic Kernel?](https://dev.to/codestreet/run-large-language-models-locally-in-docker-how-to-use-qwen-3-with-net-semantic-kernel-3olf)
+- [Building the Future of AI Social Networks: Development Insights from VOXARID.AI](https://dev.to/alex_chen_ai/building-the-future-of-ai-social-networks-development-insights-from-voxaridai-68f)
+- [Elon Musk’s deleted tweet](https://dev.to/yn_quch_5e4c1e041a5c4c9/elon-musks-deleted-tweet-27pj)
 - [Harnessing Enthusiast for Scalable AI in E-Commerce — A Developer’s Guide](https://dev.to/karmen87/harnessing-enthusiast-for-scalable-ai-in-e-commerce-a-developers-guide-4k3f)
-- [APIGTM: a bunch of lightning talks about APIs + AI](https://dev.to/patrickjwoods/apigtm-a-bunch-of-lightning-talks-about-apis-ai-5apg)
-- [Constant Folding in .NET 10: Turning Dead Weight Into Pure Throughput](https://dev.to/ssukhpinder/constant-folding-in-net-10-turning-dead-weight-into-pure-throughput-2c5l)
-- [Agents Payment Protocol, explain like i&#39;m five](https://dev.to/koha/agents-payment-protocol-explain-like-im-five-29ol)
-- [From Zero to Java: Day 2 of My Backend Development Journey](https://dev.to/chandana_prabhakar/from-zero-to-java-day-2-of-my-backend-development-journey-4go6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
