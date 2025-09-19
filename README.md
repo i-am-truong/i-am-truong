@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a CLI Tool That Made My Life Easier](https://dev.to/elsad_humbetli_0971c995ce/building-a-cli-tool-that-made-my-life-easier-a29)
 - [ETL vs ELT: The Great Data Pipeline Debate](https://dev.to/sabaristacksurge/etl-vs-elt-the-great-data-pipeline-debate-31kj)
-- [PostgreSQL Basics — Installation &amp; Setup](https://dev.to/aravinlinux/linux-system-basic-commands-khi)
 - [Why We Chose &quot;Trust&quot; - The Story Behind ConnectOnion&#39;s Authentication Keyword](https://dev.to/connectonion/why-we-chose-trust-the-story-behind-connectonions-authentication-keyword-555a)
 - [SF Tech Week Events - Grouped by Industries &amp; Technologies](https://dev.to/omarkara/sf-tech-week-events-grouped-by-industries-technologies-49ee)
 - [Invisible UX: Why the Best Design in 2025 Might Be No Design](https://dev.to/dct_technology/invisible-ux-why-the-best-design-in-2025-might-be-no-design-3k1n)
