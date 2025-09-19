@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [To buy or to build - that is the question for a CAD manager](https://dev.to/misha_zaslavskiy/to-buy-or-to-build-that-is-the-question-for-a-cad-manager-1m3d)
-- [📰 Major Tech News: September 19, 2025](https://dev.to/om_shree_0709/major-tech-news-september-19-2025-2i2o)
-- [Advanced AWS S3 Management: Mastering Instance Tiers and Lifecycle Controls](https://dev.to/shrsv/advanced-aws-s3-management-mastering-instance-tiers-and-lifecycle-controls-1olk)
-- [Hello Friends 👋](https://dev.to/aithinkers/hello-friends-1glg)
-- [Run Large Language Models Locally in Docker | How to Use Qwen 3 with .NET Semantic Kernel?](https://dev.to/codestreet/run-large-language-models-locally-in-docker-how-to-use-qwen-3-with-net-semantic-kernel-3olf)
+- [🔬 PF–AI Simulation Lab: How I Built a Full-Stack AI Research Platform to Accelerate Pulmonary Fibrosis Discovery](https://dev.to/ghostking314/pf-ai-simulation-lab-how-i-built-a-full-stack-ai-research-platform-to-accelerate-pulmonary-1hk6)
+- [COLORS: Ray Lozano - HiYA | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-lozano-hiya-a-colors-show-59a)
+- [Trash Theory: The 7 Songs To Blame For Stomp Clap Hey](https://dev.to/music_youtube/trash-theory-the-7-songs-to-blame-for-stomp-clap-hey-dg0)
+- [8-Bit Music Theory: Live Transcribe Stean Gardens from Super Mario Odyssey](https://dev.to/music_youtube/8-bit-music-theory-live-transcribe-stean-gardens-from-super-mario-odyssey-2jc2)
+- [GameSpot: Ghost of Yotei Everything To Know](https://dev.to/gg_news/gamespot-ghost-of-yotei-everything-to-know-55na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
