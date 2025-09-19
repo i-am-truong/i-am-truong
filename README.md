@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [No More Starving Artists: Why Indie Game Devs Deserve to Be Paid](https://dev.to/mitch-narrativeflow/no-more-starving-artists-why-indie-game-devs-deserve-to-be-paid-2nf6)
+- [TCJSGame vs CT.js: A Comprehensive Comparison of JavaScript Game Engines](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-vs-ctjs-a-comprehensive-comparison-of-javascript-game-engines-2bag)
+- [✅ Refund Decisions in Logic Apps: An AI Agent with Human-in-the-Loop](https://dev.to/imdj/refund-decisions-in-logic-apps-an-ai-agent-with-human-in-the-loop-541l)
+- [I&#39;m building a Redis Clone in Zig: A Deep Dive into Pub/Sub, and Memory Allocation](https://dev.to/barddoo/im-building-a-redis-clone-in-zig-a-deep-dive-into-pubsub-and-memory-allocation-3h19)
 - [3. International HTML](https://dev.to/avery_/3-international-html-49ok)
-- [Python Pro Tip: Mastering *args and **kwargs &lpar;Argument Packing Explained&rpar; 🎁](https://dev.to/aaron_rose_0787cc8b4775a0/python-pro-tip-mastering-args-and-kwargs-argument-packing-explained-3iii)
-- [TCJSGame: A Complete JavaScript Game Engine Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-a-complete-javascript-game-engine-reference-guide-2f70)
-- [API Rate Limiting Explained: How to Use Free APIs Without Getting Blocked &lpar;2025&rpar;](https://dev.to/kraizy_amy_a80dacf26d203d/api-rate-limiting-explained-how-to-use-free-apis-without-getting-blocked-2025-4iap)
-- [IGN: My Status as an Assassin Obviously Exceeds the Hero’s - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-my-status-as-an-assassin-obviously-exceeds-the-heros-official-trailer-english-subtitles-5dn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
