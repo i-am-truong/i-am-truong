@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet Backend2Lab](https://dev.to/toluwap/meet-backend2lab-a-backend-playground-for-learning-backend-development-288e)
-- [TypeScript Types Are The Best Kind Of Magic](https://dev.to/kylepena/typescript-types-are-the-best-kind-of-magic-37ji)
-- [New Meme Monday Bot?](https://dev.to/mileswk/new-meme-monday-bot-485j)
-- [Drug Donation Dashboard – KendoReact + Nuclia RAG](https://dev.to/pankajcalm/drug-donation-dashboard-kendoreact-nuclia-rag-dfj)
-- [Ship Your AI Model to Production in Minutes with Replicate](https://dev.to/michaelaiglobal/ship-your-ai-model-to-production-in-minutes-with-replicate-p11)
+- [3. International HTML](https://dev.to/avery_/3-international-html-49ok)
+- [Python Pro Tip: Mastering *args and **kwargs &lpar;Argument Packing Explained&rpar; 🎁](https://dev.to/aaron_rose_0787cc8b4775a0/python-pro-tip-mastering-args-and-kwargs-argument-packing-explained-3iii)
+- [TCJSGame: A Complete JavaScript Game Engine Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-a-complete-javascript-game-engine-reference-guide-2f70)
+- [API Rate Limiting Explained: How to Use Free APIs Without Getting Blocked &lpar;2025&rpar;](https://dev.to/kraizy_amy_a80dacf26d203d/api-rate-limiting-explained-how-to-use-free-apis-without-getting-blocked-2025-4iap)
+- [IGN: My Status as an Assassin Obviously Exceeds the Hero’s - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-my-status-as-an-assassin-obviously-exceeds-the-heros-official-trailer-english-subtitles-5dn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
