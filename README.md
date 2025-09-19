@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: NLU Personal Golf Spotlight: Big Randy | NLU Pod, Ep 1071](https://dev.to/youtube_golf/no-laying-up-podcast-nlu-personal-golf-spotlight-big-randy-nlu-pod-ep-1071-4ah2)
-- [IGN: Hollow Knight Silksong - How to Get the Double Jump &lpar;Faydown Cloak&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-the-double-jump-faydown-cloak-2oo7)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pc5)
-- [From Fat Models to Clean Code: 5 Practical Design Patterns in Ruby on Rails](https://dev.to/pratiksha_palkar_1626564e/from-fat-models-to-clean-code-5-practical-design-patterns-in-ruby-on-rails-1n98)
-- [Playwright: A Modern Framework for Web Automation Testing](https://dev.to/the_wise_06d8114f1ee73fe8/playwright-a-modern-framework-for-web-automation-testing-4iak)
+- [Google Code Comments Approach](https://dev.to/bhavy_k_5a3b6c88887b58c92/google-code-comments-approach-1gca)
+- [Google Code Comments Engineering Approach](https://dev.to/pratham_naik_project_manager/google-code-comments-engineering-approach-4mnm)
+- [React - Components and props](https://dev.to/dharshinieswaran/react-components-and-props-2p5p)
+- [Code Comments That Actually Help: The Google Engineering Approach](https://dev.to/teamcamp/code-comments-that-actually-help-the-google-engineering-approach-433c)
+- [From 404|1003 to the Green Lock: How I Fixed My Rust SMS Proxy on GCP with Caddy](https://dev.to/_56d7718cea8fe00ec1610/from-4041003-to-the-green-lock-how-i-fixed-my-rust-sms-proxy-on-gcp-with-caddy-1i63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
