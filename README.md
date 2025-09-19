@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Make Your API AI-Ready: Try Swytchcode&#39;s Free Playground](https://dev.to/chilarai/make-your-api-ai-ready-try-swytchcodes-free-playground-3mkf)
-- [Unraveling the Hidden Web of Your SQL Server Database](https://dev.to/dbinsights_7d6d82129280e4/unraveling-the-hidden-web-of-your-sql-server-database-3oid)
-- [Rails View Helper Scope and the include_all_helpers Option](https://dev.to/hamajyotan/rails-view-helper-scope-and-the-includeallhelpers-option-4b69)
-- [I built a simple job board just for .NET roles - feedback welcome!](https://dev.to/dotnethired/i-built-a-simple-job-board-just-for-net-roles-feedback-welcome-kad)
-- [Office vs Remote vs hybrid](https://dev.to/anonch/office-vs-remote-vs-hybrid-idm)
+- [How AI is Simplifying Pharma Compliance](https://dev.to/xccelerance_technologies_/how-ai-is-simplifying-pharma-compliance-3jjc)
+- [Building Trust in a Digital World: Why Transparency is Your Greatest Asset](https://dev.to/remotly/building-trust-in-a-digital-world-why-transparency-is-your-greatest-asset-4k3a)
+- [Fintech Security: Best Practices for Fintech Apps](https://dev.to/flutterwaveeng/fintech-security-best-practices-for-fintech-apps-4k2i)
+- [The Bid Feedback Paradox](https://dev.to/bid_solution/the-bid-feedback-paradox-3caj)
+- [Building a Simple Bank App API with Spring Boot and Spring Data JPA](https://dev.to/m_muhd8/building-a-simple-bank-app-api-with-spring-boot-and-jpa-4h9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
