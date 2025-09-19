@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Design a Custom Name Tag Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-custom-name-tag-using-3d-cad-software-l48)
+- [Summertime Saga: A Popular Adventure Game with Endless Fun](https://dev.to/james_carter_4e3fc0c4d6cc/summertime-saga-a-popular-adventure-game-with-endless-fun-3992)
 - [EMSCRIPTEN 多线程编程笔记](https://dev.to/yangholmes/emscripten-duo-xian-cheng-bian-cheng-bi-ji-5cdb)
 - [Clprolf Docs #5 — Concurrency and Parallelism Made Clear](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-5-concurrency-and-parallelism-made-clear-10)
 - [Next.js 14 App Router: Building Modern Full-Stack Applications](https://dev.to/muhammad_usman_35b52e4f04/nextjs-14-app-router-building-modern-full-stack-applications-52ej)
-- [Blueprints and X-Rays: A Guide to OOP and Reflection in OSE](https://dev.to/codigger/blueprints-and-x-rays-a-guide-to-oop-and-reflection-in-ose-2n0a)
-- [Building Production-Ready Serverless Applications with AWS Lambda and API Gateway](https://dev.to/muhammad_usman_35b52e4f04/building-production-ready-serverless-applications-with-aws-lambda-and-api-gateway-42d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
