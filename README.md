@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔬 PF–AI Simulation Lab: How I Built a Full-Stack AI Research Platform to Accelerate Pulmonary Fibrosis Discovery](https://dev.to/ghostking314/pf-ai-simulation-lab-how-i-built-a-full-stack-ai-research-platform-to-accelerate-pulmonary-1hk6)
-- [COLORS: Ray Lozano - HiYA | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-lozano-hiya-a-colors-show-59a)
-- [Trash Theory: The 7 Songs To Blame For Stomp Clap Hey](https://dev.to/music_youtube/trash-theory-the-7-songs-to-blame-for-stomp-clap-hey-dg0)
-- [8-Bit Music Theory: Live Transcribe Stean Gardens from Super Mario Odyssey](https://dev.to/music_youtube/8-bit-music-theory-live-transcribe-stean-gardens-from-super-mario-odyssey-2jc2)
-- [GameSpot: Ghost of Yotei Everything To Know](https://dev.to/gg_news/gamespot-ghost-of-yotei-everything-to-know-55na)
+- [Supercharge Your AI Agents with a Custom RAG Pipeline Powered by Live Web Data](https://dev.to/extractdata/supercharge-your-ai-agents-with-a-custom-rag-pipeline-powered-by-live-web-data-57fl)
+- [Behavioral interview Preparation](https://dev.to/ashutoshsarangi/behavioral-interview-preparation-93e)
+- [Capítulo 1 | Introducción](https://dev.to/unapauli/capitulo-1-introduccion-37k4)
+- [I built MineSafety: A Powerful Incident &amp; Safety Tracker for Mines](https://dev.to/alphonsekazadi/minesafety-a-modern-incident-safety-tracker-for-mines-580o)
+- [The main tasks of a Database Administrator &lpar;DBA&rpar; by 2025](https://dev.to/digitalpollution/the-main-tasks-of-a-database-administrator-dba-by-2025-4287)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
