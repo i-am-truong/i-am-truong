@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About Binary Search](https://dev.to/saptarshisarkar/everything-you-need-to-know-about-binary-search-b15)
 - [🔥 Even — R2: Coronavirus CSS Battle &lpar;HTML/CSS Challenge&rpar;](https://dev.to/ml318097/even-r2-coronavirus-css-battle-htmlcss-challenge-58cg)
 - [Part-70: Implement a Global External Network Load balancer with TCP Proxy in GCP Cloud](https://dev.to/latchudevops/part-70-implement-a-global-external-network-load-balancer-with-tcp-proxy-in-gcp-cloud-1h6f)
 - [How to Generate Product Variant Permutations in Vanilla JavaScript](https://dev.to/alexpechkarev/how-to-generate-product-variant-permutations-in-vanilla-javascript-n7e)
 - [Content Hubs as Code: Architecting a B2B SEO &amp; Lead Generation System](https://dev.to/michaelaiglobal/content-hubs-as-code-architecting-a-b2b-seo-lead-generation-system-h2j)
-- [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
