@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cutting Edge of AI: Latest Breakthroughs and Trends in 2025](https://dev.to/barak_codes/the-cutting-edge-of-ai-latest-breakthroughs-and-trends-in-2025-4anc)
-- [I Recreated Minecraft Using -_-](https://dev.to/dmsmenula/i-recreated-minecraft-using--3epc)
-- [When AI Joins the Team: Guardrails, Roles, and the Work That Matters](https://dev.to/thomas_mueller/when-ai-joins-the-team-guardrails-roles-and-the-work-that-matters-3pap)
-- [Run Oracle19c Database in Mac M1/M2 using Docker](https://dev.to/roydevashish/run-oracle19c-database-in-mac-m1m2-using-docker-2gnk)
-- [Git Command Cheetsheet Sheet](https://dev.to/roydevashish/git-command-cheetsheet-sheet-57ia)
+- [LLM Observability: Debugging My Journaling Agent](https://dev.to/margarita_sliachina/llm-observability-debugging-my-journaling-agent-457m)
+- [Pnpm: Faster, Leaner Node.js Package Manager - Save Disk](https://dev.to/robort-gabriel/pnpm-faster-leaner-nodejs-package-manager-save-disk-2epk)
+- [Cloud on the Rise: Latest Developments in Cloud Computing](https://dev.to/thedeepseeker/cloud-on-the-rise-latest-developments-in-cloud-computing-3c29)
+- [Contribute to AlgoRise – Hacktoberfest 2025!](https://dev.to/aviral_joshi_398c9a180993/contribute-to-algorise-hacktoberfest-2025-22bi)
+- [HackSpire’25: Spreading the Spark at Our Campus 💡🔥](https://dev.to/streamer_lulli_33a76cf412/hackspire25-spreading-the-spark-at-our-campus-10jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
