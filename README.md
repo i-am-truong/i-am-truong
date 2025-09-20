@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 How I Built 5 Projects in 30 Days as a 12-Year-Old Developer](https://dev.to/dmsmenula/how-i-built-5-projects-in-30-days-as-a-teen-developer-and-you-can-too-254h)
+- [Things to do when bored for artists during a break](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-artists-during-a-break-2j0d)
 - [How to Structure a Scalable MERN Project for Teams](https://dev.to/rayan2228/how-to-structure-a-scalable-mern-project-for-teams-533g)
 - [Clprolf Docs #6 — The underst Method Modifier](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-6-the-underst-method-modifier-55pf)
 - [Why LLMs Generate Non-Working Nodes and How to Fix Them](https://dev.to/shieldstring/why-llms-generate-non-working-nodes-and-how-to-fix-them-17bf)
-- [Are We Chasing Language Hype Over Solving Real Problems?](https://dev.to/dayvster/are-we-chasing-language-hype-over-solving-real-problems-36b)
-- [My Third Step in Java: Methods, Main Method, Objects, and a Mini Calculator](https://dev.to/abinaya_ecf4e73cb66304c37/my-third-step-in-java-methods-main-method-objects-and-a-mini-calculator-38i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
