@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Next-Gen Auditing: Unlocking AWS CloudTrail with MCP Server](https://dev.to/aws-builders/next-gen-auditing-unlocking-aws-cloudtrail-with-mcp-server-5dll)
+- [Nushell: paradigm shift in shells](https://dev.to/mcheremnov/nushell-paradigm-shift-in-shells-pna)
+- [JavaScript&#39;s Event Loop](https://dev.to/mohsenfallahnjd/javascripts-event-loop-3k4o)
+- [10 Tips to Become a Successful Software Engineer in 2025](https://dev.to/juan_manuelbareamartne/10-tips-to-become-a-successful-software-engineer-in-2025-3944)
 - [if you’re wondering, installing The GIMP 3.1.4 solves the issue with macOS Tahoe](https://dev.to/fedtti/if-youre-wondering-installing-the-gimp-314-solves-the-issue-with-macos-tahoe-3lhl)
-- [Don’t Just Prompt, Learn The Why Behind The Code](https://dev.to/byalexdavid/dont-just-prompt-learn-the-why-behind-the-code-33j0)
-- [AlloyDB Omni: PostgreSQL optimizado para entornos híbridos y multicloud](https://dev.to/johnbulla/alloydb-omni-postgresql-optimizado-para-entornos-hibridos-y-multicloud-15mg)
-- [📰 Major Tech News: September 20, 2025](https://dev.to/om_shree_0709/major-tech-news-september-20-2025-4lci)
-- [Cybersecurity for Beginners: Key Best Practices to Follow by Highly Skilled IT Professionals including Jeremy Nevins](https://dev.to/jnevins1/cybersecurity-for-beginners-key-best-practices-to-follow-by-highly-skilled-it-professionals-16bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
