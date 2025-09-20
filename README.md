@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Deaf-Blindness](https://dev.to/a11ynews/understanding-deaf-blindness-3eep)
 - [Understanding Mixture of Experts &lpar;MoE&rpar;](https://dev.to/jiminlee/mixture-of-experts-moe-l4o)
-- [Automating Partition Cleanup in Oracle with PL/SQL and DBMS Scheduler](https://dev.to/mrcaption49/automating-partition-cleanup-in-oracle-with-plsql-and-dbms-scheduler-nao)
 - [What is Zero-Knowledge Proof: Complete Guide to ZKPs, zk-SNARKs, and zk-STARKs](https://dev.to/saira_zeeshan_35fc05971fd/what-is-zero-knowledge-proof-complete-guide-to-zkps-zk-snarks-and-zk-starks-1ndp)
 - [🔐 OWASP API Security — Why Every Developer Should Care &lpar;Java + AWS Context&rpar;](https://dev.to/ankushbehera/owasp-api-security-why-every-developer-should-care-java-aws-context-20ln)
 - [Tired of complicated compilation?Integrate AeroFFmpeg with one click to make Android audio and video development easier!](https://dev.to/cat_dogrunning_in_the_s/tired-of-complicated-compilationintegrate-aeroffmpeg-with-one-click-to-make-android-audio-and-728)
