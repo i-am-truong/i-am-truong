@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OSD 600 - Lab 2](https://dev.to/cynthia_f/osd-600-lab-2-4na6)
+- [MCP คืออะไร? มาตรฐานกลางเชื่อมโลก AI](https://dev.to/silicon-brain/mcp-khuueaair-maatrthaanklaangechuuemolk-ai-4268)
+- [Understanding RAG, Retrieval Augmented Generation in test automation](https://dev.to/tanvi_mittal_9996387d280/understanding-rag-retrieval-augmented-generation-in-test-automation-4g91)
+- [Nuclia Trial Ending—How Can I Still Qualify for “RAGS to Riches”?](https://dev.to/sumaiyasultanalabiba/nuclia-trial-ending-how-can-i-still-qualify-for-rags-to-riches-1l04)
 - [codeSearch function in Codebuff codebase.](https://dev.to/ramunarasinga-11/codesearch-function-in-codebuff-codebase-moa)
-- [TRYING TYPESCRIPT.......](https://dev.to/sourav_mahato_3900/trying-typescript-56kg)
-- [Why I&#39;m Betting on Laravel: A Deep Dive for Aspiring Developers](https://dev.to/jagratsati45/why-im-betting-on-laravel-a-deep-dive-for-aspiring-developers-21no)
-- [More Than a Buzzword: How AI is Reshaping Web Development](https://dev.to/jagratsati45/more-than-a-buzzword-how-ai-is-reshaping-web-development-nll)
-- [🤖 What AI Really Is Explained in the Simplest Way Possible](https://dev.to/niero/what-ai-really-is-explained-in-the-simplest-way-possible-14ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
