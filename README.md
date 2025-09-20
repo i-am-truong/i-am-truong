@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Software Engineering career](https://dev.to/prince_d02d8ea487b1268cb5/software-engineering-career-4142)
+- [Unlocking AI Agents: Architecture, Workflows, and Pitfalls for Technical Leaders](https://dev.to/satyam_chourasiya_99ea2e4/unlocking-ai-agents-architecture-workflows-and-pitfalls-for-technical-leaders-4a57)
 - [什么是Online Softmax and Flash Attention？](https://dev.to/jimw/shi-yao-shi-online-softmax-and-flash-attention-51n4)
 - [Building an AI Conversation Practice App: Part 1 - Browser Audio Recording with MediaRecorder API](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-1-browser-audio-recording-with-mediarecorder-api-3cf5)
 - [How to make loops in Common Business-Oriented Language &lpar;COBOL&rpar;](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-make-loops-in-common-business-oriented-language-cobol-13hl)
-- [Aprende lógica de programación: la base para convertirte en programador](https://dev.to/johnserranodev/aprende-logica-de-programacion-la-base-para-convertirte-en-programador-1674)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
