@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Django deployment on AWS](https://dev.to/roydevashish/django-deployment-on-aws-1o2b)
-- [Exploring the dangerous power of unquoted Python strings, and how they caused CVE-2024-9287](https://dev.to/vivis_dev/exploring-the-dangerous-power-of-unquoted-python-strings-and-how-they-caused-cve-2024-9287-1g7o)
-- [Understanding how Python&#39;s list comprehensions work under the hood](https://dev.to/vivis_dev/understanding-how-pythons-list-comprehensions-work-under-the-hood-1okc)
-- [Exploring chained operations and order of evaluation in python expressions](https://dev.to/vivis_dev/exploring-chained-operations-and-order-of-evaluation-in-python-expressions-534k)
-- [Managing Personal Finances with Spentsor: A Developer’s Perspective](https://dev.to/lovneo/managing-personal-finances-with-spentsor-a-developers-perspective-1n61)
+- [The Cutting Edge of AI: Latest Breakthroughs and Trends in 2025](https://dev.to/barak_codes/the-cutting-edge-of-ai-latest-breakthroughs-and-trends-in-2025-4anc)
+- [I Recreated Minecraft Using -_-](https://dev.to/dmsmenula/i-recreated-minecraft-using--3epc)
+- [When AI Joins the Team: Guardrails, Roles, and the Work That Matters](https://dev.to/thomas_mueller/when-ai-joins-the-team-guardrails-roles-and-the-work-that-matters-3pap)
+- [Run Oracle19c Database in Mac M1/M2 using Docker](https://dev.to/roydevashish/run-oracle19c-database-in-mac-m1m2-using-docker-2gnk)
+- [Git Command Cheetsheet Sheet](https://dev.to/roydevashish/git-command-cheetsheet-sheet-57ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
