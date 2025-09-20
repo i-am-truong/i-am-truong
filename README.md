@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China Cracks Small RSA Key with Quantum Computer – What It Means for Our Digital Future](https://dev.to/roydevashish/china-cracks-small-rsa-key-with-quantum-computer-what-it-means-for-our-digital-future-2kmm)
 - [🚀 How I Built 5 Projects in 30 Days as a 12-Year-Old Developer](https://dev.to/dmsmenula/how-i-built-5-projects-in-30-days-as-a-teen-developer-and-you-can-too-254h)
 - [Things to do when bored for artists during a break](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-artists-during-a-break-2j0d)
 - [How to Structure a Scalable MERN Project for Teams](https://dev.to/rayan2228/how-to-structure-a-scalable-mern-project-for-teams-533g)
 - [Clprolf Docs #6 — The underst Method Modifier](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-6-the-underst-method-modifier-55pf)
-- [Why LLMs Generate Non-Working Nodes and How to Fix Them](https://dev.to/shieldstring/why-llms-generate-non-working-nodes-and-how-to-fix-them-17bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
