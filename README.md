@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Ubuntu&#39;s Colorful ls Command: Beyond Just Blue Directories](https://dev.to/leonardkachi/understanding-ubuntus-colorful-ls-command-beyond-just-blue-directories-1djj)
-- [Raising PR to Another Repository](https://dev.to/dharam_ghevariya_0d946c37/raising-pr-to-another-repository-583a)
-- [Building Safe AI: Understanding Agent Guardrails and the Power of Prompt Engineering](https://dev.to/satyam_chourasiya_99ea2e4/building-safe-ai-understanding-agent-guardrails-and-the-power-of-prompt-engineering-29d2)
-- [15 years old learning game development on Android &lpar;Day 17&rpar;](https://dev.to/calchiwo/15-years-old-learning-game-development-on-android-day-17-348)
-- [Software Engineering career](https://dev.to/prince_d02d8ea487b1268cb5/software-engineering-career-4142)
+- [IGN: Renown - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-renown-official-early-access-launch-trailer-5ac5)
+- [IGN: Diablo 4 - Official Class Updates Developer Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-class-updates-developer-overview-trailer-1e0b)
+- [Setting Up Kubernetes on Windows with Minikube &lpar;Step-by-Step Guide&rpar;](https://dev.to/abhishek_korde_31/setting-up-kubernetes-on-windows-with-minikube-step-by-step-guide-460j)
+- [Backend Development Roadmap &lpar;Beginner to Advanced&rpar;](https://dev.to/tech_girllll/backend-development-roadmap-beginner-to-advanced-2nja)
+- [“My First Step in C++: Hello World!” “Journey from Beginner to C++ Programmer: My First Code”](https://dev.to/asp0766/my-first-step-in-c-hello-worldjourney-from-beginner-to-c-programmer-my-first-code-4l5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
