@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [AltSchool Of Engineering Tinyuka’24 Month 7 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-3-1n7i)
+- [JavaScript DOM Manipulation: How to Create and Remove HTML Elements Dynamically](https://dev.to/wisdomudo/javascript-dom-manipulation-how-to-create-and-remove-html-elements-dynamically-570b)
 - [How to Build a Scalable Retail App Architecture](https://dev.to/zoolatech/how-to-build-a-scalable-retail-app-architecture-1ld8)
 - [Node.js Memory Profiling](https://dev.to/godofgeeks/nodejs-memory-profiling-1m25)
 - [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
-- [Protect Your API with Token Bucket Rate Limiting](https://dev.to/fahimahammed/protect-your-api-with-token-bucket-rate-limiting-1g9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
