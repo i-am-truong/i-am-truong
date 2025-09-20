@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Joiner – Join Texts with Delimiter](https://dev.to/tadatools/text-joiner-join-texts-with-delimiter-pha)
+- [Exploring Neo4j for E-commerce: Building a Connected Data Graph](https://dev.to/aditya_kumar_d7224b52f098/exploring-neo4j-for-e-commerce-building-a-connected-data-graph-emf)
+- [Number Remover – Remove Numbers from Text](https://dev.to/tadatools/number-remover-remove-numbers-from-text-4j20)
 - [Understanding the Spring MVC Design Pattern](https://dev.to/arunagri82/understanding-the-spring-mvc-design-pattern-n2g)
 - [The Interpreter ✨](https://dev.to/lahari_tenneti_4a8a082e9c/the-interpreter-1139)
-- [7 Warning Signs Your Dev Team Is Underperforming](https://dev.to/developerpartners/7-warning-signs-your-dev-team-is-underperforming-5055)
-- [The Future of Artificial Intelligence: Navigating Opportunity, Risk, and Responsible Innovation](https://dev.to/satyam_chourasiya_99ea2e4/the-future-of-artificial-intelligence-navigating-opportunity-risk-and-responsible-innovation-499g)
-- [A Beginner’s Guide to Exception Handling in Java](https://dev.to/bugtobrilliance/a-beginners-guide-to-exception-handling-in-java-2e4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
