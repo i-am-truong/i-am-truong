@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [1 Modal to Rule them All: Rails x Turbo x Stimulus](https://dev.to/hersoftsyntax/1-modal-to-rule-them-all-rails-x-turbo-x-stimulus-ln8)
+- [Ng-News 25/37: Angular 20.3, SignalForms AMA, RFC: Angular &amp; AI](https://dev.to/this-is-angular/ng-news-2537-angular-203-signalforms-ama-rfc-angular-ai-4d2l)
+- [What Is Sustainable Technology? A Beginner’s Guide in 2025](https://dev.to/tsbreview/what-is-sustainable-technology-a-beginners-guide-in-2025-1a36)
 - [&quot;Your Profile Doesn&#39;t Match the Role&quot; and Other Interview Horror Stories](https://dev.to/alvaromontoro/your-profile-doesnt-match-the-role-and-other-interview-horror-stories-3alh)
 - [The Game Theorists: Game Theory: I Made Minecraft’s Suspicious Stew in REAL LIFE](https://dev.to/gg_news/the-game-theorists-game-theory-i-made-minecrafts-suspicious-stew-in-real-life-1im8)
-- [GameSpot: LEGO Batman: Legacy of the Dark Knight - Official Batman Day Behind the Scenes Trailer](https://dev.to/gg_news/gamespot-lego-batman-legacy-of-the-dark-knight-official-batman-day-behind-the-scenes-trailer-4a44)
-- [IGN: LEGO Batman: Legacy of the Dark Knight - Official &#39;Batman Day 2025&#39; Behind the Scenes Clip](https://dev.to/gg_news/ign-lego-batman-legacy-of-the-dark-knight-official-batman-day-2025-behind-the-scenes-clip-9o9)
-- [Inside Modulax Infra: EVM RPC, Blockscout, and Wallet Indexing](https://dev.to/modulaxorg/inside-modulax-infra-evm-rpc-blockscout-and-wallet-indexing-475i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
