@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Ubuntu&#39;s Colorful ls Command: Beyond Just Blue Directories](https://dev.to/leonardkachi/understanding-ubuntus-colorful-ls-command-beyond-just-blue-directories-1djj)
+- [Raising PR to Another Repository](https://dev.to/dharam_ghevariya_0d946c37/raising-pr-to-another-repository-583a)
 - [Building Safe AI: Understanding Agent Guardrails and the Power of Prompt Engineering](https://dev.to/satyam_chourasiya_99ea2e4/building-safe-ai-understanding-agent-guardrails-and-the-power-of-prompt-engineering-29d2)
 - [15 years old learning game development on Android &lpar;Day 17&rpar;](https://dev.to/calchiwo/15-years-old-learning-game-development-on-android-day-17-348)
 - [Software Engineering career](https://dev.to/prince_d02d8ea487b1268cb5/software-engineering-career-4142)
-- [Unlocking AI Agents: Architecture, Workflows, and Pitfalls for Technical Leaders](https://dev.to/satyam_chourasiya_99ea2e4/unlocking-ai-agents-architecture-workflows-and-pitfalls-for-technical-leaders-4a57)
-- [什么是Online Softmax and Flash Attention？](https://dev.to/jimw/shi-yao-shi-online-softmax-and-flash-attention-51n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
