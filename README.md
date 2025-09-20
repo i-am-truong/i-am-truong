@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [tauri-helper: A Rust Utility to Auto-Collect Tauri Commands](https://dev.to/riadyan/tauri-helper-a-rust-utility-to-auto-collect-tauri-commands-32b4)
+- [From SVG to PNG: Copy &amp; Download with Konva.js](https://dev.to/lovestaco/from-svg-to-png-copy-download-with-konvajs-1ab2)
 - [The Unseen Conductor: Orchestrating App Notifications with EventBus](https://dev.to/paddy57/the-unseen-conductor-orchestrating-app-notifications-with-eventbus-3nca)
 - [How I Transformed My Old Gaming PC into a Powerful Home Server](https://dev.to/kushagrakasbi/how-i-transformed-my-old-gaming-pc-into-a-powerful-home-server-12gn)
 - [Building Language Tech for Meghalaya: Lessons from Tokenizing Khasi and Garo with Modern LLMs](https://dev.to/b_nyalang/building-language-tech-for-meghalaya-lessons-from-tokenizing-khasi-and-garo-with-modern-llms-599p)
-- [Introducing repo-contextr v0.1](https://dev.to/dharam_ghevariya_0d946c37/introducing-repo-contextr-v01-27aj)
-- [Introduction to Storybook: A Guide for UI Development](https://dev.to/tenelabs/introduction-to-storybook-a-guide-for-ui-development-4dnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
