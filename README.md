@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing repo-contextr v0.1](https://dev.to/dharam_ghevariya_0d946c37/introducing-repo-contextr-v01-27aj)
+- [Introduction to Storybook: A Guide for UI Development](https://dev.to/tenelabs/introduction-to-storybook-a-guide-for-ui-development-4dnn)
+- [Validate Your App Idea Without Writing a Single Line of Code](https://dev.to/bismasaeed/validate-your-app-idea-without-writing-a-single-line-of-code-3kh0)
 - [1 Modal to Rule them All: Rails x Turbo x Stimulus](https://dev.to/hersoftsyntax/1-modal-to-rule-them-all-rails-x-turbo-x-stimulus-ln8)
 - [Ng-News 25/37: Angular 20.3, SignalForms AMA, RFC: Angular &amp; AI](https://dev.to/this-is-angular/ng-news-2537-angular-203-signalforms-ama-rfc-angular-ai-4d2l)
-- [What Is Sustainable Technology? A Beginner’s Guide in 2025](https://dev.to/tsbreview/what-is-sustainable-technology-a-beginners-guide-in-2025-1a36)
-- [&quot;Your Profile Doesn&#39;t Match the Role&quot; and Other Interview Horror Stories](https://dev.to/alvaromontoro/your-profile-doesnt-match-the-role-and-other-interview-horror-stories-3alh)
-- [The Game Theorists: Game Theory: I Made Minecraft’s Suspicious Stew in REAL LIFE](https://dev.to/gg_news/the-game-theorists-game-theory-i-made-minecrafts-suspicious-stew-in-real-life-1im8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
