@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [👻 Ghostty&#39;s Option+Backspace Not Working? Fixed!](https://dev.to/tdkn/ghosttys-optionbackspace-not-working-fixed-kgm)
-- [Edge Computing: The Complete Technical Guide to Distributed Intelligence](https://dev.to/mohitdecodes/edge-computing-the-complete-technical-guide-to-distributed-intelligence-3nm)
-- [Para T ✨](https://dev.to/20tempest23/para-t-42o9)
-- [IA dans le BIM : La Révolution de la Construction Intelligente](https://dev.to/vendkura/ia-dans-le-bim-la-revolution-de-la-construction-intelligente-ojh)
-- [Building an AI Chat Rate Limiter with Node.js, Express, and Vercel AI SDK](https://dev.to/fahimahammed/building-an-ai-chat-rate-limiter-with-nodejs-express-and-vercel-ai-sdk-5240)
+- [AlloyDB Omni: PostgreSQL optimizado para entornos híbridos y multicloud](https://dev.to/johnbulla/alloydb-omni-postgresql-optimizado-para-entornos-hibridos-y-multicloud-15mg)
+- [📰 Major Tech News: September 20, 2025](https://dev.to/om_shree_0709/major-tech-news-september-20-2025-4lci)
+- [Your Passwords Aren’t Safe, That’s Why I Built Passifier](https://dev.to/nightmare-lynx/your-passwords-arent-safe-thats-why-i-built-passifier-1i82)
+- [Create a C# Windows Desktop App in 9 Lines — No Visual Studio Needed](https://dev.to/prahladyeri/create-a-c-windows-desktop-app-in-9-lines-no-visual-studio-needed-58f0)
+- [Life Cycle React of functional Programming](https://dev.to/dev_deepaksen/life-cycle-react-of-functional-programming-4h2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
