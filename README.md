@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Commitment](https://dev.to/abhinavintech/commitment-2kh6)
-- [Unlocking the Power of Vector Databases and AI Search: A Comprehensive Guide 🚀](https://dev.to/sabaristacksurge/unlocking-the-power-of-vector-databases-and-ai-search-a-comprehensive-guide-12m4)
-- [Les stablecoins sont-ils l’avenir des paiements numériques ?](https://dev.to/nicomiayo/les-stablecoins-sont-ils-lavenir-des-paiements-numeriques--1jif)
-- [The Database Zoo: Time Series Databases](https://dev.to/gkoos/the-database-zoo-time-series-databases-1i73)
-- [Staking d’Ethereum : opportunité ou piège pour les investisseurs particuliers ?](https://dev.to/nicomiayo/staking-dethereum-opportunite-ou-piege-pour-les-investisseurs-particuliers--63m)
+- [Income Tax Return Filing &lpar;ITR&rpar;](https://dev.to/madgan95/income-tax-return-filing-itr-33lh)
+- [My First Hackathon Experience: Stepping Out of My Comfort Zone](https://dev.to/xzyvron/my-first-hackathon-experience-stepping-out-of-my-comfort-zone-3l0d)
+- [Why Every Engineering Team Needs a Technical Writer &lpar;Even Small Ones&rpar;](https://dev.to/sandrameshack/why-every-engineering-team-needs-a-technical-writer-even-small-ones-5319)
+- [How AI IDEs Are Splitting the Programming Mind](https://dev.to/rawveg/how-ai-ides-are-splitting-the-programming-mind-2537)
+- [First Pull Request](https://dev.to/elsad_humbetli_0971c995ce/first-pull-request-4l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
