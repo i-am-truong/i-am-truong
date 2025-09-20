@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Variables: A Complete Beginner&#39;s Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/python-variables-a-complete-beginners-guide-with-examples-best-practices-2hi2)
-- [My first UI based Rust application - A Skip Counter - created using iced UI library...](https://dev.to/sommukhopadhyay/my-first-ui-based-rust-application-a-skip-counter-created-using-iced-ui-library-1eb2)
-- [Python Comments: The Ultimate Guide to Writing Clean, Effective Code](https://dev.to/satyam_gupta_0d1ff2152dcc/python-comments-the-ultimate-guide-to-writing-clean-effective-code-ndi)
-- [React Component Testing: Best Practices for 2025 🧪](https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674)
-- [Things to do when bored for seniors without internet](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-seniors-without-internet-3h0o)
+- [🔐 OWASP API Security — Why Every Developer Should Care &lpar;Java + AWS Context&rpar;](https://dev.to/ankushbehera/owasp-api-security-why-every-developer-should-care-java-aws-context-20ln)
+- [Tired of complicated compilation?Integrate AeroFFmpeg with one click to make Android audio and video development easier!](https://dev.to/cat_dogrunning_in_the_s/tired-of-complicated-compilationintegrate-aeroffmpeg-with-one-click-to-make-android-audio-and-728)
+- [turbo lightweight markup language &lpar;tlml&rpar;](https://dev.to/atifa/turbo-lightweight-markup-language-tlml-2nie)
+- [Concurrent Programming Model in Android...](https://dev.to/sommukhopadhyay/concurrent-programming-model-in-android-1a78)
+- [Replication &amp; High Availability](https://dev.to/ahmedraza_fyntune/replication-high-availability-46fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
