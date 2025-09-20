@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Unseen Conductor: Orchestrating App Notifications with EventBus](https://dev.to/paddy57/the-unseen-conductor-orchestrating-app-notifications-with-eventbus-3nca)
+- [How I Transformed My Old Gaming PC into a Powerful Home Server](https://dev.to/kushagrakasbi/how-i-transformed-my-old-gaming-pc-into-a-powerful-home-server-12gn)
+- [Building Language Tech for Meghalaya: Lessons from Tokenizing Khasi and Garo with Modern LLMs](https://dev.to/b_nyalang/building-language-tech-for-meghalaya-lessons-from-tokenizing-khasi-and-garo-with-modern-llms-599p)
 - [Introducing repo-contextr v0.1](https://dev.to/dharam_ghevariya_0d946c37/introducing-repo-contextr-v01-27aj)
 - [Introduction to Storybook: A Guide for UI Development](https://dev.to/tenelabs/introduction-to-storybook-a-guide-for-ui-development-4dnn)
-- [Validate Your App Idea Without Writing a Single Line of Code](https://dev.to/bismasaeed/validate-your-app-idea-without-writing-a-single-line-of-code-3kh0)
-- [1 Modal to Rule them All: Rails x Turbo x Stimulus](https://dev.to/hersoftsyntax/1-modal-to-rule-them-all-rails-x-turbo-x-stimulus-ln8)
-- [Ng-News 25/37: Angular 20.3, SignalForms AMA, RFC: Angular &amp; AI](https://dev.to/this-is-angular/ng-news-2537-angular-203-signalforms-ama-rfc-angular-ai-4d2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
