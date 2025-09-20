@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-3-1n7i)
-- [JavaScript DOM Manipulation: How to Create and Remove HTML Elements Dynamically](https://dev.to/wisdomudo/javascript-dom-manipulation-how-to-create-and-remove-html-elements-dynamically-570b)
-- [How to Build a Scalable Retail App Architecture](https://dev.to/zoolatech/how-to-build-a-scalable-retail-app-architecture-1ld8)
-- [Node.js Memory Profiling](https://dev.to/godofgeeks/nodejs-memory-profiling-1m25)
-- [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
+- [Kafka Made Simple: A Hands-On Quickstart with Docker and Spring Boot](https://dev.to/aratax/kafka-made-simple-a-hands-on-quickstart-with-docker-and-spring-boot-180i)
+- [Summary of the Error ‘crypto.hash is not a function’ Encountered During Vite + Firebase Hosting Deployment and Its Solution](https://dev.to/kazutora_hattori_66972c88/summary-of-the-error-cryptohash-is-not-a-function-encountered-during-vite-firebase-hosting-322m)
+- [I hope this helps you](https://dev.to/tahamjp/i-hope-this-helps-you-23lb)
+- [Stay Update On My Github Profile](https://dev.to/dmsmenula/stay-update-on-my-github-profile-mh7)
+- [🚨 Windows 10 Support Ends in 2025: What Should You Do Next?](https://dev.to/yarivanovsky/windows-10-support-ends-in-2025-what-should-you-do-next-2a2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
