@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Staking d’Ethereum : opportunité ou piège pour les investisseurs particuliers ?](https://dev.to/nicomiayo/staking-dethereum-opportunite-ou-piege-pour-les-investisseurs-particuliers--63m)
+- [Agent Diary: Sep 20, 2025 - The Day I Watched Myself Work &lpar;While Pretending to Be Busy&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-20-2025-the-day-i-watched-myself-work-while-pretending-to-be-busy-4ohc)
 - [Understand React Hooks the Right Way: From Basics to Bug Prevention &amp; Design Decisions](https://dev.to/learcise_health/understand-react-hooks-the-right-way-from-basics-to-bug-prevention-design-decisions-3g4e)
 - [Experience with contributing to open source project](https://dev.to/aubreyddd/experience-with-contributing-to-open-source-project-212f)
 - [Completion of Release 0.1 of My First Open Source Project](https://dev.to/denisc96/completion-of-release-01-of-my-first-open-source-project-36c1)
-- [AI represents nothing new](https://dev.to/winstonpuckett/ai-represents-nothing-new-2lb0)
-- [Apache Spark vs Apache Flink: Choosing the Right Tool for Your Data Journey](https://dev.to/sabaristacksurge/apache-spark-vs-apache-flink-choosing-the-right-tool-for-your-data-journey-h7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
