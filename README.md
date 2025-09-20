@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Beyond the Basics: A Strategic Deep Dive into Horizontal and Vertical Integration](https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-basics-a-strategic-deep-dive-into-horizontal-and-vertical-integration-4h1d)
 - [Beyond the Basics: A Strategic Deep Dive into Horizontal and Vertical Integration](https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-basics-a-strategic-deep-dive-into-horizontal-and-vertical-integration-2mod)
 - [Part-68: Global External Load balancer with HTTPS Self-signed certificate in GCP Cloud](https://dev.to/latchudevops/part-68-global-external-load-balancer-with-https-self-signed-certificate-in-gcp-cloud-2pc)
+- [Kiro Cannot Get Response from The Second Command in The Same Shell](https://dev.to/peepeepopapapeepeepo/kiro-cannot-get-response-from-the-second-command-in-the-same-shell-1blk)
 - [What are Glue Records?](https://dev.to/firatkiral/what-are-glue-records-9jf)
-- [Oplossen van ImagePullBackOff en ErrImagePull: Image gerelateerde problemen](https://dev.to/shubhcloud/oplossen-van-imagepullbackoff-en-errimagepull-image-gerelateerde-problemen-j82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
