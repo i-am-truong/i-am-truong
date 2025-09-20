@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Check out this article on connecting tableua with r](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-article-on-connecting-tableua-with-r-55ji)
-- [Untitled](https://dev.to/hira_khan_cc3a4dc47142f62/untitled-3hoc)
-- [How Netflix&#39;s 2008 Crisis Revolutionised Enterprise Software Development: A 7-Year Cloud Migration That Changed Everything](https://dev.to/blackflow/how-netflixs-2008-crisis-revolutionised-enterprise-software-development-a-7-year-cloud-migration-3ha1)
-- [tauri-helper: A Rust Utility to Auto-Collect Tauri Commands](https://dev.to/riadyan/tauri-helper-a-rust-utility-to-auto-collect-tauri-commands-32b4)
-- [Day 13 of #30DaysOfCode](https://dev.to/justacoder_0x/day-13-of-30daysofcode-1i44)
+- [Understanding the Spring MVC Design Pattern](https://dev.to/arunagri82/understanding-the-spring-mvc-design-pattern-n2g)
+- [The Interpreter ✨](https://dev.to/lahari_tenneti_4a8a082e9c/the-interpreter-1139)
+- [7 Warning Signs Your Dev Team Is Underperforming](https://dev.to/developerpartners/7-warning-signs-your-dev-team-is-underperforming-5055)
+- [The Future of Artificial Intelligence: Navigating Opportunity, Risk, and Responsible Innovation](https://dev.to/satyam_chourasiya_99ea2e4/the-future-of-artificial-intelligence-navigating-opportunity-risk-and-responsible-innovation-499g)
+- [A Beginner’s Guide to Exception Handling in Java](https://dev.to/bugtobrilliance/a-beginners-guide-to-exception-handling-in-java-2e4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
