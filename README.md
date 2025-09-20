@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About Binary Search](https://dev.to/saptarshisarkar/everything-you-need-to-know-about-binary-search-b15)
-- [Lets build a full-stack LLM app with Autonomk](https://dev.to/kashif_iqbal_f1683002da70/lets-build-a-full-stack-llm-app-with-autonomk-2ag3)
-- [🔥 Even — R2: Coronavirus CSS Battle &lpar;HTML/CSS Challenge&rpar;](https://dev.to/ml318097/even-r2-coronavirus-css-battle-htmlcss-challenge-58cg)
-- [Part-70: Implement a Global External Network Load balancer with TCP Proxy in GCP Cloud](https://dev.to/latchudevops/part-70-implement-a-global-external-network-load-balancer-with-tcp-proxy-in-gcp-cloud-1h6f)
-- [Discriminated Unions in TypeScript explained simply](https://dev.to/soumayaerradi/discriminated-unions-in-typescript-explained-simply-370n)
+- [Setting Up Your Local Development Environment &lpar;Part 2&rpar;](https://dev.to/prashant/setting-up-your-local-development-environment-part-2-5808)
+- [Fixing My Gratuity Calculator: Adding Social Media Sharing Inside the Tool](https://dev.to/ahsan_aman_fc0573aefd4526/fixing-my-gratuity-calculator-adding-social-media-sharing-inside-the-tool-5f67)
+- [From Queen Street West to SaaS Success: The Entrepreneurial Playbook of Zeyadh Moosa](https://dev.to/zeyadh_moosa_cdf4d0d5bcb4/from-queen-street-west-to-saas-success-the-entrepreneurial-playbook-of-zeyadh-moosa-nga)
+- [Restarting Math at 24: My Beginner Journey](https://dev.to/rajitha_vanga/restarting-math-at-24-my-beginner-journey-28op)
+- [Launch Notes That Earn Trust: A Practical Playbook for Engineering Teams](https://dev.to/sonia_bobrik_1939cdddd79d/launch-notes-that-earn-trust-a-practical-playbook-for-engineering-teams-1p19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
