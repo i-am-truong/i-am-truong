@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [More Than a Buzzword: How AI is Reshaping Web Development](https://dev.to/jagratsati45/more-than-a-buzzword-how-ai-is-reshaping-web-development-nll)
+- [🤖 What AI Really Is Explained in the Simplest Way Possible](https://dev.to/niero/what-ai-really-is-explained-in-the-simplest-way-possible-14ij)
 - [⚡ Two Pointer Technique](https://dev.to/mohamad_mhana/two-pointer-technique-4eg3)
 - [[Boost]](https://dev.to/ssukhpinder/-1jm8)
 - [How a Web-Framework Really Should be Today](https://dev.to/sarfraznawaz2005/how-a-web-framework-really-should-be-today-2o05)
-- [🚀 Simplifying imports by TypeScript Path Aliases with `ts-path-alias-fixer`](https://dev.to/svedhashree/simplifying-imports-by-typescript-path-aliases-with-ts-path-alias-fixer-cm)
-- [Hello there fellow developers!](https://dev.to/webvara/hello-there-fellow-developers-2fhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
