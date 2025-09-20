@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-69: Global External Load balancer with HTTPS Google Managed SSL in GCP Cloud](https://dev.to/latchudevops/part-69-global-external-load-balancer-with-https-google-managed-ssl-in-gcp-cloud-21gd)
+- [Learn PHP Arrays: Store and Manage Data Easily](https://dev.to/suraj_kumar_fb57ae0928df2/learn-php-arrays-store-and-manage-data-easily-57cp)
 - [&quot;Vertical vs. Horizontal Integration: Choose the Right Growth Strategy](https://dev.to/jyoti_eb2834cf419b8c283b3/vertical-vs-horizontal-integration-choose-the-right-growth-strategy-55j9)
 - [China Cracks Small RSA Key with Quantum Computer – What It Means for Our Digital Future](https://dev.to/roydevashish/china-cracks-small-rsa-key-with-quantum-computer-what-it-means-for-our-digital-future-2kmm)
 - [🚀 How I Built 5 Projects in 30 Days as a 12-Year-Old Developer](https://dev.to/dmsmenula/how-i-built-5-projects-in-30-days-as-a-teen-developer-and-you-can-too-254h)
-- [Things to do when bored for artists during a break](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-artists-during-a-break-2j0d)
-- [How to Structure a Scalable MERN Project for Teams](https://dev.to/rayan2228/how-to-structure-a-scalable-mern-project-for-teams-533g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
