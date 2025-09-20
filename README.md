@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Content Hubs as Code: Architecting a B2B SEO &amp; Lead Generation System](https://dev.to/michaelaiglobal/content-hubs-as-code-architecting-a-b2b-seo-lead-generation-system-h2j)
+- [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
+- [Django REST Framework Authentication: JWT, OAuth2, and Session](https://dev.to/djamware_tutorial_eba1a61/django-rest-framework-authentication-jwt-oauth2-and-session-npk)
+- [Event-Driven Architecture with Blockchain: Use Kafka/MSK and Blockchain Logs](https://dev.to/smritisatyan/event-driven-architecture-with-blockchain-use-kafkamsk-and-blockchain-logs-f5n)
 - [Getting fields from a &quot;linked&quot; Sitecore rendering parameter - good news, bad news](https://dev.to/kmac23va/need-fields-in-a-linked-rendering-parameter-so-close-2lo4)
-- [ByteByteGo vs DesignGurus.io? Which is better for System Design Interview Preparation?](https://dev.to/somadevtoo/bytebytego-vs-designgurusio-which-is-better-for-system-design-interview-preparation-2e1o)
-- [Day 12 of 90 day code script series ,A currency converter...](https://dev.to/momina_raheelmoona_c59/day-12-of-90-day-code-script-series-a-currency-converter-3790)
-- [Tired of Writing the Same Email Over and Over? Let&#39;s Talk About AI Magic!](https://dev.to/karthik_n/tired-of-writing-the-same-email-over-and-over-lets-talk-about-ai-magic-341a)
-- [Part-69: Global External Load balancer with HTTPS Google Managed SSL in GCP Cloud](https://dev.to/latchudevops/part-69-global-external-load-balancer-with-https-google-managed-ssl-in-gcp-cloud-21gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
