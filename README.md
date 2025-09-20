@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Rank at Scale: Engineering Search Systems for Millions of Users](https://dev.to/satyam_chourasiya_99ea2e4/how-to-rank-at-scale-engineering-search-systems-for-millions-of-users-gh7)
+- [Configuring AWS Vault with the Wincred Backend for Secure Credential Management on Windows](https://dev.to/jajera/configuring-aws-vault-with-the-wincred-backend-for-secure-credential-management-on-windows-2d05)
+- [Navigating RAG System Architecture: Trade-offs and Best Practices for Scalable, Reliable AI Applications](https://dev.to/satyam_chourasiya_99ea2e4/navigating-rag-system-architecture-trade-offs-and-best-practices-for-scalable-reliable-ai-3ppm)
 - [Days 1–3 | 50 Projects in 50 Days](https://dev.to/augusta08/days-1-3-50-projects-in-50-days-3n3a)
-- [IGN: Renown - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-renown-official-early-access-launch-trailer-5ac5)
-- [IGN: Diablo 4 - Official Class Updates Developer Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-class-updates-developer-overview-trailer-1e0b)
-- [Setting Up Kubernetes on Windows with Minikube &lpar;Step-by-Step Guide&rpar;](https://dev.to/abhishek_korde_31/setting-up-kubernetes-on-windows-with-minikube-step-by-step-guide-460j)
-- [Backend Development Roadmap &lpar;Beginner to Advanced&rpar;](https://dev.to/tech_girllll/backend-development-roadmap-beginner-to-advanced-2nja)
+- [Demystifying Automotive SPICE! 🧠 I&#39;ve bundled my ASPICE Literacy articles into a series. Master process maturity, evidence, and assessments. New episodes coming! #Automotive](https://dev.to/abdulosman/demystifying-automotive-spice-ive-bundled-my-aspice-literacy-articles-into-a-series-master-2pjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
