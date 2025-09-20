@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Object-Oriented JavaScript: A Practical Guide with Examples](https://dev.to/hellonehha/object-oriented-javascript-a-practical-guide-with-examples-10d)
-- [Event Adapters in Rimmel.js: Decoupling View &amp; Model for Clean, Testable UI](https://dev.to/draco_the_drake/event-adapters-in-rimmeljs-decoupling-view-model-for-clean-testable-ui-1e6a)
-- [Cracking System Design Interviews: A Tactical Deep-Dive for Developers](https://dev.to/satyam_chourasiya_99ea2e4/cracking-system-design-interviews-a-tactical-deep-dive-for-developers-1ffm)
-- [🚀 Building Zeno – My Lightweight, Plugin-First Markdown Blog Framework](https://dev.to/mine3krish/building-zeno-my-lightweight-plugin-first-markdown-blog-framework-102h)
-- [Nardwuar the Human Serviette: Nardwuar vs. Shai Gilgeous-Alexander](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-shai-gilgeous-alexander-25op)
+- [什么是Online Softmax and Flash Attention？](https://dev.to/jimw/shi-yao-shi-online-softmax-and-flash-attention-51n4)
+- [Building an AI Conversation Practice App: Part 1 - Browser Audio Recording with MediaRecorder API](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-1-browser-audio-recording-with-mediarecorder-api-3cf5)
+- [How to make loops in Common Business-Oriented Language &lpar;COBOL&rpar;](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-make-loops-in-common-business-oriented-language-cobol-13hl)
+- [Aprende lógica de programación: la base para convertirte en programador](https://dev.to/johnserranodev/aprende-logica-de-programacion-la-base-para-convertirte-en-programador-1674)
+- [Consumer Behavior in CTV Advertising](https://dev.to/jigar_captain_aa50f0a4644/consumer-behavior-in-ctv-advertising-l02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
