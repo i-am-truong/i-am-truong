@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OSD 600 - Lab 2](https://dev.to/cynthia_f/osd-600-lab-2-4na6)
-- [MCP คืออะไร? มาตรฐานกลางเชื่อมโลก AI](https://dev.to/silicon-brain/mcp-khuueaair-maatrthaanklaangechuuemolk-ai-4268)
-- [Understanding RAG, Retrieval Augmented Generation in test automation](https://dev.to/tanvi_mittal_9996387d280/understanding-rag-retrieval-augmented-generation-in-test-automation-4g91)
-- [Nuclia Trial Ending—How Can I Still Qualify for “RAGS to Riches”?](https://dev.to/sumaiyasultanalabiba/nuclia-trial-ending-how-can-i-still-qualify-for-rags-to-riches-1l04)
-- [codeSearch function in Codebuff codebase.](https://dev.to/ramunarasinga-11/codesearch-function-in-codebuff-codebase-moa)
+- [👻 Ghostty&#39;s Option+Backspace Not Working? Fixed!](https://dev.to/tdkn/ghosttys-optionbackspace-not-working-fixed-kgm)
+- [Edge Computing: The Complete Technical Guide to Distributed Intelligence](https://dev.to/mohitdecodes/edge-computing-the-complete-technical-guide-to-distributed-intelligence-3nm)
+- [Para T ✨](https://dev.to/20tempest23/para-t-42o9)
+- [IA dans le BIM : La Révolution de la Construction Intelligente](https://dev.to/vendkura/ia-dans-le-bim-la-revolution-de-la-construction-intelligente-ojh)
+- [Building an AI Chat Rate Limiter with Node.js, Express, and Vercel AI SDK](https://dev.to/fahimahammed/building-an-ai-chat-rate-limiter-with-nodejs-express-and-vercel-ai-sdk-5240)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
