@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Contributing a Code Change to an Open Source Project](https://dev.to/hsachdeva9/contributing-a-code-change-to-an-open-source-project-188l)
-- [IGN: Sonic Racing: CrossWorlds Review](https://dev.to/gg_news/ign-sonic-racing-crossworlds-review-2180)
-- [I put together 16,223 Free n8n Workflows for Everyone to Use](https://dev.to/vicckylove/i-put-together-16223-free-n8nworkflows-for-everyone-to-use-3djp)
-- [Design Patterns MCP Server: Give Your Project a Professional Touch](https://dev.to/einarcesar/design-patterns-mcp-server-give-your-project-a-professional-touch-3pjc)
-- [With AI, educators, team leaders, and seniors can focus less on paperwork and more on what they do best: inspiring learning.](https://dev.to/jaideepparashar/with-ai-educators-team-leaders-and-seniors-can-focus-less-on-paperwork-and-more-on-what-they-do-40ke)
+- [When Your CEO Says &#39;Let&#39;s Use AI&#39;: A Technology Selection Survival Guide](https://dev.to/_768dd7ab130016ab8b0a/when-your-ceo-says-lets-use-ai-a-technology-selection-survival-guide-4m6h)
+- [🧠How to use AI more efficiently for free &lpar;Serena MCP&rpar;🧐](https://dev.to/webdeveloperhyper/how-to-use-ai-more-efficiently-for-free-serena-mcp-5gj6)
+- [Why Most Independent Artists Will Never Get Paid](https://dev.to/rawveg/why-most-independent-artists-will-never-get-paid-4edj)
+- [Beyond the Firewall: Why Every Developer Needs an Adversarial Mindset](https://dev.to/gnomeman4201/beyond-the-firewall-why-every-developer-needs-an-adversarial-mindset-3hk)
+- [Serial Spotter – Because I’m Tired of Hunting COM Ports 😅](https://dev.to/0xlama/serial-spotter-because-im-tired-of-hunting-com-ports-4acl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
