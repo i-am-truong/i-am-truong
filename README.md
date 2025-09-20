@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [100 Ways to Earn Extra Cash as a Developer 💰](https://dev.to/alishirani/100-ways-to-earn-extra-cash-as-a-developer-6dk)
 - [How to Rank at Scale: Engineering Search Systems for Millions of Users](https://dev.to/satyam_chourasiya_99ea2e4/how-to-rank-at-scale-engineering-search-systems-for-millions-of-users-gh7)
 - [Configuring AWS Vault with the Wincred Backend for Secure Credential Management on Windows](https://dev.to/jajera/configuring-aws-vault-with-the-wincred-backend-for-secure-credential-management-on-windows-2d05)
 - [Navigating RAG System Architecture: Trade-offs and Best Practices for Scalable, Reliable AI Applications](https://dev.to/satyam_chourasiya_99ea2e4/navigating-rag-system-architecture-trade-offs-and-best-practices-for-scalable-reliable-ai-3ppm)
 - [Days 1–3 | 50 Projects in 50 Days](https://dev.to/augusta08/days-1-3-50-projects-in-50-days-3n3a)
-- [Demystifying Automotive SPICE! 🧠 I&#39;ve bundled my ASPICE Literacy articles into a series. Master process maturity, evidence, and assessments. New episodes coming! #Automotive](https://dev.to/abdulosman/demystifying-automotive-spice-ive-bundled-my-aspice-literacy-articles-into-a-series-master-2pjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
