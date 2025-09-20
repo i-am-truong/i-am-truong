@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLM Observability: Debugging My Journaling Agent](https://dev.to/margarita_sliachina/llm-observability-debugging-my-journaling-agent-457m)
-- [Pnpm: Faster, Leaner Node.js Package Manager - Save Disk](https://dev.to/robort-gabriel/pnpm-faster-leaner-nodejs-package-manager-save-disk-2epk)
-- [Cloud on the Rise: Latest Developments in Cloud Computing](https://dev.to/thedeepseeker/cloud-on-the-rise-latest-developments-in-cloud-computing-3c29)
-- [Contribute to AlgoRise – Hacktoberfest 2025!](https://dev.to/aviral_joshi_398c9a180993/contribute-to-algorise-hacktoberfest-2025-22bi)
-- [HackSpire’25: Spreading the Spark at Our Campus 💡🔥](https://dev.to/streamer_lulli_33a76cf412/hackspire25-spreading-the-spark-at-our-campus-10jj)
+- [IGN: Sonic Racing: CrossWorlds - Blazing Fast Super Sonic and Hatsune Miku Gameplay](https://dev.to/gg_news/ign-sonic-racing-crossworlds-blazing-fast-super-sonic-and-hatsune-miku-gameplay-5h7m)
+- [IGN: Nintendo Switch 2’s First 100 Days Report Card - Next-Gen Console Watch](https://dev.to/gg_news/ign-nintendo-switch-2s-first-100-days-report-card-next-gen-console-watch-aod)
+- [IGN: Hollow Knight: Silksong - How to Make It Through Bilewater](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-make-it-through-bilewater-1n17)
+- [IGN: Is Nintendo Switch 2 Off to a Good Start? - NVC Clips](https://dev.to/gg_news/ign-is-nintendo-switch-2-off-to-a-good-start-nvc-clips-3j0a)
+- [Networking Without Borders: How Digital Portfolios Break Geography Barriers](https://dev.to/imtaslim/networking-without-borders-how-digital-portfolios-break-geography-barriers-38jd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
