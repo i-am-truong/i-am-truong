@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Object-Oriented JavaScript: A Practical Guide with Examples](https://dev.to/hellonehha/object-oriented-javascript-a-practical-guide-with-examples-10d)
 - [Event Adapters in Rimmel.js: Decoupling View &amp; Model for Clean, Testable UI](https://dev.to/draco_the_drake/event-adapters-in-rimmeljs-decoupling-view-model-for-clean-testable-ui-1e6a)
 - [Cracking System Design Interviews: A Tactical Deep-Dive for Developers](https://dev.to/satyam_chourasiya_99ea2e4/cracking-system-design-interviews-a-tactical-deep-dive-for-developers-1ffm)
 - [🚀 Building Zeno – My Lightweight, Plugin-First Markdown Blog Framework](https://dev.to/mine3krish/building-zeno-my-lightweight-plugin-first-markdown-blog-framework-102h)
 - [Nardwuar the Human Serviette: Nardwuar vs. Shai Gilgeous-Alexander](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-shai-gilgeous-alexander-25op)
-- [IGN: Revelation of Decay - Official Trailer](https://dev.to/gg_news/ign-revelation-of-decay-official-trailer-51b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
