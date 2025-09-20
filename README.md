@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain as a Database: Hype or a Real Alternative?](https://dev.to/dct_technology/blockchain-as-a-database-hype-or-a-real-alternative-5c39)
+- [Ethical UX: Should Designers Be Responsible for User Addiction?](https://dev.to/dct_technology/ethical-ux-should-designers-be-responsible-for-user-addiction-1jnd)
+- [Title: Bridging the &quot;Last Mile&quot; for LSP: The Story of My Custom blink.cmp Source for Neovim + Unreal Engine](https://dev.to/taku25/title-bridging-the-last-mile-for-lsp-the-story-of-my-custom-blinkcmp-source-for-neovim--7di)
 - [Async Work Patten which 10 X your output](https://dev.to/pratham_naik_project_manager/async-work-patten-which-10-x-your-output-2830)
 - [Battle of the AI Titans: Claude vs. ChatGPT—Who’s Winning the Upgrade War?](https://dev.to/aiwithapex/battle-of-the-ai-titans-claude-vs-chatgpt-whos-winning-the-upgrade-war-2ok9)
-- [Custom Parser Highlighting Not Working in nvim-treesitter? The Cause and a Solution Using the `after/` Directory](https://dev.to/taku25/custom-parser-highlighting-not-working-in-nvim-treesitter-the-cause-and-a-solution-using-the-15ej)
-- [Boosting Page Speed with HTML, CSS, and JS Minifiers — A Developer’s Guide](https://dev.to/jaybarker/boosting-page-speed-with-html-css-and-js-minifiers-a-developers-guide-d03)
-- [Income Tax Return Filing &lpar;ITR&rpar;](https://dev.to/madgan95/income-tax-return-filing-itr-33lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
