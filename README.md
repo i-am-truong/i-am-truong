@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Check out this article on connecting tableua with r](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-article-on-connecting-tableua-with-r-55ji)
+- [Untitled](https://dev.to/hira_khan_cc3a4dc47142f62/untitled-3hoc)
+- [How Netflix&#39;s 2008 Crisis Revolutionised Enterprise Software Development: A 7-Year Cloud Migration That Changed Everything](https://dev.to/blackflow/how-netflixs-2008-crisis-revolutionised-enterprise-software-development-a-7-year-cloud-migration-3ha1)
 - [tauri-helper: A Rust Utility to Auto-Collect Tauri Commands](https://dev.to/riadyan/tauri-helper-a-rust-utility-to-auto-collect-tauri-commands-32b4)
-- [From SVG to PNG: Copy &amp; Download with Konva.js](https://dev.to/lovestaco/from-svg-to-png-copy-download-with-konvajs-1ab2)
-- [The Unseen Conductor: Orchestrating App Notifications with EventBus](https://dev.to/paddy57/the-unseen-conductor-orchestrating-app-notifications-with-eventbus-3nca)
-- [How I Transformed My Old Gaming PC into a Powerful Home Server](https://dev.to/kushagrakasbi/how-i-transformed-my-old-gaming-pc-into-a-powerful-home-server-12gn)
-- [Building Language Tech for Meghalaya: Lessons from Tokenizing Khasi and Garo with Modern LLMs](https://dev.to/b_nyalang/building-language-tech-for-meghalaya-lessons-from-tokenizing-khasi-and-garo-with-modern-llms-599p)
+- [Day 13 of #30DaysOfCode](https://dev.to/justacoder_0x/day-13-of-30daysofcode-1i44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
