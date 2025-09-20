@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Evolução da linguagem Java &lpar;parte 1&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-1-1jk)
-- [5 Common Mistakes React Developers Make &lpar;and How to Fix Them&rpar;](https://dev.to/jay_sarvaiya_f85e7148bb57/5-common-mistakes-react-developers-make-and-how-to-fix-them-4c1j)
-- [From Full Fine-Tuning to LoRA](https://dev.to/jiminlee/from-full-fine-tuning-to-lora-3b3d)
-- [picoCTF RPS writeup](https://dev.to/hitanshugedam/picoctf-rps-writeup-365k)
-- [The NKTm Unit in the NKTg Law &lpar;Varying Inertia&rpar;](https://dev.to/thenktlaw/the-nktm-unit-in-the-nktg-law-varying-inertia-54e6)
+- [Understanding Python’s rules for hashing](https://dev.to/vivis_dev/understanding-pythons-rules-for-hashing-3jl)
+- [Understanding Context Window Size in LLMs](https://dev.to/jiminlee/understanding-context-window-size-in-llms-3aof)
+- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://dev.to/technoblogger14o3/less-is-safer-how-obsidian-reduces-the-risk-of-supply-chain-attacks-1j2p)
+- [Top 10 JavaScript Tips Every Developer Should Know](https://dev.to/pjdeveloper896/top-10-javascript-tips-every-developer-should-know-478h)
+- [Navigating Python&#39;s import system and namespace packages](https://dev.to/vivis_dev/navigating-pythons-import-system-and-namespace-packages-36ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
