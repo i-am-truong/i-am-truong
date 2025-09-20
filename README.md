@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Made Simple: A Hands-On Quickstart with Docker and Spring Boot](https://dev.to/aratax/kafka-made-simple-a-hands-on-quickstart-with-docker-and-spring-boot-180i)
-- [Summary of the Error ‘crypto.hash is not a function’ Encountered During Vite + Firebase Hosting Deployment and Its Solution](https://dev.to/kazutora_hattori_66972c88/summary-of-the-error-cryptohash-is-not-a-function-encountered-during-vite-firebase-hosting-322m)
-- [I hope this helps you](https://dev.to/tahamjp/i-hope-this-helps-you-23lb)
-- [Stay Update On My Github Profile](https://dev.to/dmsmenula/stay-update-on-my-github-profile-mh7)
-- [🚨 Windows 10 Support Ends in 2025: What Should You Do Next?](https://dev.to/yarivanovsky/windows-10-support-ends-in-2025-what-should-you-do-next-2a2j)
+- [🍳 From Convex&#39;s Kitchen to OpenRouter&#39;s Gateway: My Journey Integrating 200+ AI Models into Chef](https://dev.to/axrisi/from-convexs-kitchen-to-openrouters-gateway-my-journey-integrating-200-ai-models-into-chef-1ihl)
+- [The Future is Private: 5 Revelations About Owning Your Own Social Network](https://dev.to/web4/the-future-is-private-5-revelations-about-owning-your-own-social-network-509p)
+- [Should You Work at a Startup?](https://dev.to/ponikar/should-you-work-at-a-startup-5f33)
+- [We Architected CockroachDB the Wrong Way &lpar;And It Works](https://dev.to/omnarayan/we-architected-cockroachdb-the-wrong-way-and-it-works-28fm)
+- [Danny Maude: Strike Your Irons Pure - Do This Before You Swing](https://dev.to/youtube_golf/danny-maude-strike-your-irons-pure-do-this-before-you-swing-1di7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
