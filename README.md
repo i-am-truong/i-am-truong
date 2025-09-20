@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Научи се кога да СПРЕШ с проучването и търсенето на решения, когато програмираш!](https://dev.to/dvt32/nauchi-sie-kogha-da-spriesh-s-prouchvanieto-i-trsienieto-na-rieshieniia-koghato-proghramirash-3gk5)
+- [Client-Side Storage: Types and Usage](https://dev.to/the_realteckyguy/client-side-storage-types-and-usage-10c1)
 - [Coding Challenge Practice - Question 11](https://dev.to/tomivan/coding-challenge-practice-question-11-gfl)
 - [# Introduction](https://dev.to/maria_adde_3cdb7ecaeb3d56/-introduction-45d3)
 - [Leveraging AI Analytics for Better NAAC and NBA Accreditation Outcomes](https://dev.to/manasi_ab1bbf439689947947/leveraging-ai-analytics-for-better-naac-and-nba-accreditation-outcomes-24bj)
-- [服务器 tmux 持久化问题](https://dev.to/jian_wang_71470b9158918d8/fu-wu-qi-tmux-chi-jiu-hua-wen-ti-2ngo)
-- [Keeping a WordPress site lightweight](https://dev.to/elliemiguel/keeping-a-wordpress-site-lightweight-3cnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
