@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [if you’re wondering, installing The GIMP 3.1.4 solves the issue with macOS Tahoe](https://dev.to/fedtti/if-youre-wondering-installing-the-gimp-314-solves-the-issue-with-macos-tahoe-3lhl)
+- [Don’t Just Prompt, Learn The Why Behind The Code](https://dev.to/byalexdavid/dont-just-prompt-learn-the-why-behind-the-code-33j0)
 - [AlloyDB Omni: PostgreSQL optimizado para entornos híbridos y multicloud](https://dev.to/johnbulla/alloydb-omni-postgresql-optimizado-para-entornos-hibridos-y-multicloud-15mg)
 - [📰 Major Tech News: September 20, 2025](https://dev.to/om_shree_0709/major-tech-news-september-20-2025-4lci)
-- [Your Passwords Aren’t Safe, That’s Why I Built Passifier](https://dev.to/nightmare-lynx/your-passwords-arent-safe-thats-why-i-built-passifier-1i82)
-- [Create a C# Windows Desktop App in 9 Lines — No Visual Studio Needed](https://dev.to/prahladyeri/create-a-c-windows-desktop-app-in-9-lines-no-visual-studio-needed-58f0)
-- [Life Cycle React of functional Programming](https://dev.to/dev_deepaksen/life-cycle-react-of-functional-programming-4h2p)
+- [Cybersecurity for Beginners: Key Best Practices to Follow by Highly Skilled IT Professionals including Jeremy Nevins](https://dev.to/jnevins1/cybersecurity-for-beginners-key-best-practices-to-follow-by-highly-skilled-it-professionals-16bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
