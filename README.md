@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Import your first investment CSV into Pocket Portfolio &lpar;5-minute guide&rpar;](https://dev.to/pocketportfolio/import-your-first-investment-csv-into-pocket-portfolio-5-minute-guide-4o7p)
+- [AlloyDB Omni: PostgreSQL Optimized for Hybrid and Multicloud Environments](https://dev.to/johnbulla/alloydb-omni-postgresql-optimized-for-hybrid-and-multicloud-environments-4991)
+- [How I Built a Serverless Data Analytics Pipeline for Customer Churn with S3, Glue, Athena, and QuickSight](https://dev.to/ajithmanmu/how-i-built-a-serverless-data-analytics-pipeline-for-customer-churn-with-s3-glue-athena-and-bfk)
 - [Next-Gen Auditing: Unlocking AWS CloudTrail with MCP Server](https://dev.to/aws-builders/next-gen-auditing-unlocking-aws-cloudtrail-with-mcp-server-5dll)
 - [Nushell: paradigm shift in shells](https://dev.to/mcheremnov/nushell-paradigm-shift-in-shells-pna)
-- [JavaScript&#39;s Event Loop](https://dev.to/mohsenfallahnjd/javascripts-event-loop-3k4o)
-- [10 Tips to Become a Successful Software Engineer in 2025](https://dev.to/juan_manuelbareamartne/10-tips-to-become-a-successful-software-engineer-in-2025-3944)
-- [if you’re wondering, installing The GIMP 3.1.4 solves the issue with macOS Tahoe](https://dev.to/fedtti/if-youre-wondering-installing-the-gimp-314-solves-the-issue-with-macos-tahoe-3lhl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
