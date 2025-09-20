@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Speed Up Your Images: Complete Guide to Cloudflare CDN + Amazon S3](https://dev.to/sushilsubedi/speed-up-your-images-complete-guide-to-cloudflare-cdn-amazon-s3-3g62)
-- [Git Bits: The Graph](https://dev.to/oculus42/git-bits-the-graph-2cf9)
-- [Setup Tomcat cluster in Linux](https://dev.to/jess_garcacaldern_028/setup-tomcat-cluster-in-linux-407k)
-- [Noise to Nice: How Stable Diffusion Turns Chaos into Art](https://dev.to/naresh_82de734ade4c1c66d9/noise-to-nice-how-stable-diffusion-turns-chaos-into-art-1pkm)
-- [From Zero to Java: Day 3 of My Backend Development Journey](https://dev.to/chandana_prabhakar/from-zero-to-java-day-3-of-my-backend-development-journey-2l8e)
+- [&quot;Your Profile Doesn&#39;t Match the Role&quot; and Other Interview Horror Stories](https://dev.to/alvaromontoro/your-profile-doesnt-match-the-role-and-other-interview-horror-stories-3alh)
+- [The Game Theorists: Game Theory: I Made Minecraft’s Suspicious Stew in REAL LIFE](https://dev.to/gg_news/the-game-theorists-game-theory-i-made-minecrafts-suspicious-stew-in-real-life-1im8)
+- [GameSpot: LEGO Batman: Legacy of the Dark Knight - Official Batman Day Behind the Scenes Trailer](https://dev.to/gg_news/gamespot-lego-batman-legacy-of-the-dark-knight-official-batman-day-behind-the-scenes-trailer-4a44)
+- [IGN: LEGO Batman: Legacy of the Dark Knight - Official &#39;Batman Day 2025&#39; Behind the Scenes Clip](https://dev.to/gg_news/ign-lego-batman-legacy-of-the-dark-knight-official-batman-day-2025-behind-the-scenes-clip-9o9)
+- [Inside Modulax Infra: EVM RPC, Blockscout, and Wallet Indexing](https://dev.to/modulaxorg/inside-modulax-infra-evm-rpc-blockscout-and-wallet-indexing-475i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
