@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nardwuar the Human Serviette: Nardwuar vs. Shai Gilgeous-Alexander](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-shai-gilgeous-alexander-25op)
+- [IGN: Revelation of Decay - Official Trailer](https://dev.to/gg_news/ign-revelation-of-decay-official-trailer-51b7)
+- [IGN: Endless Legend 2 - Official Faction Asymmetry Trailer](https://dev.to/gg_news/ign-endless-legend-2-official-faction-asymmetry-trailer-25em)
 - [Git &amp; GitHub: A Beginner’s Complete Guide](https://dev.to/tapobanray/git-github-a-complete-beginners-guide-47on)
 - [Text Joiner – Join Texts with Delimiter](https://dev.to/tadatools/text-joiner-join-texts-with-delimiter-pha)
-- [Exploring Neo4j for E-commerce: Building a Connected Data Graph](https://dev.to/aditya_kumar_d7224b52f098/exploring-neo4j-for-e-commerce-building-a-connected-data-graph-emf)
-- [Number Remover – Remove Numbers from Text](https://dev.to/tadatools/number-remover-remove-numbers-from-text-4j20)
-- [Understanding the Spring MVC Design Pattern](https://dev.to/arunagri82/understanding-the-spring-mvc-design-pattern-n2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
