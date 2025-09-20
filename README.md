@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Full Guide: Integrating MongoDB with Spring Boot &lpar;CRUD, Lombok, Transactions, Atlas&rpar;](https://dev.to/jps27cse/full-guide-integrating-mongodb-with-spring-boot-crud-lombok-transactions-atlas-4c46)
 - [Blockchain as a Database: Hype or a Real Alternative?](https://dev.to/dct_technology/blockchain-as-a-database-hype-or-a-real-alternative-5c39)
 - [Ethical UX: Should Designers Be Responsible for User Addiction?](https://dev.to/dct_technology/ethical-ux-should-designers-be-responsible-for-user-addiction-1jnd)
 - [Title: Bridging the &quot;Last Mile&quot; for LSP: The Story of My Custom blink.cmp Source for Neovim + Unreal Engine](https://dev.to/taku25/title-bridging-the-last-mile-for-lsp-the-story-of-my-custom-blinkcmp-source-for-neovim--7di)
-- [Async Work Patten which 10 X your output](https://dev.to/pratham_naik_project_manager/async-work-patten-which-10-x-your-output-2830)
-- [Battle of the AI Titans: Claude vs. ChatGPT—Who’s Winning the Upgrade War?](https://dev.to/aiwithapex/battle-of-the-ai-titans-claude-vs-chatgpt-whos-winning-the-upgrade-war-2ok9)
+- [Fixing Kafka KRaft Cluster ID Mismatch on Kubernetes](https://dev.to/jayesh_shinde/fixing-kafka-kraft-cluster-id-mismatch-on-kubernetes-2943)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
