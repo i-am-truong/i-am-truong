@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Scalable Retail App Architecture](https://dev.to/zoolatech/how-to-build-a-scalable-retail-app-architecture-1ld8)
+- [Node.js Memory Profiling](https://dev.to/godofgeeks/nodejs-memory-profiling-1m25)
+- [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
+- [Protect Your API with Token Bucket Rate Limiting](https://dev.to/fahimahammed/protect-your-api-with-token-bucket-rate-limiting-1g9a)
 - [Understanding Deaf-Blindness](https://dev.to/a11ynews/understanding-deaf-blindness-3eep)
-- [Understanding Mixture of Experts &lpar;MoE&rpar;](https://dev.to/jiminlee/mixture-of-experts-moe-l4o)
-- [What is Zero-Knowledge Proof: Complete Guide to ZKPs, zk-SNARKs, and zk-STARKs](https://dev.to/saira_zeeshan_35fc05971fd/what-is-zero-knowledge-proof-complete-guide-to-zkps-zk-snarks-and-zk-starks-1ndp)
-- [🔐 OWASP API Security — Why Every Developer Should Care &lpar;Java + AWS Context&rpar;](https://dev.to/ankushbehera/owasp-api-security-why-every-developer-should-care-java-aws-context-20ln)
-- [Tired of complicated compilation?Integrate AeroFFmpeg with one click to make Android audio and video development easier!](https://dev.to/cat_dogrunning_in_the_s/tired-of-complicated-compilationintegrate-aeroffmpeg-with-one-click-to-make-android-audio-and-728)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
