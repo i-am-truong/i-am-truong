@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Expand &lpar;but stay in bounds&rpar;](https://dev.to/codebrainr/expand-but-stay-in-bounds-2f00)
-- [Part-67: 🌍 Mastering Google Cloud Global Load Balancers: Regional MIG + Global HTTP Demo](https://dev.to/latchudevops/part-67-mastering-google-cloud-global-load-balancers-regional-mig-global-http-demo-n98)
-- [“Upcoming Webinar: Cloud Native Automation and DevSecOps — Building Secure, Scalable Systems in the Modern Era”](https://dev.to/kazeem_mohammed/upcoming-webinar-cloud-native-automation-and-devsecops-building-secure-scalable-systems-in-the-2f8k)
-- [Day 22 - Alert Component Part 1 - Alert List and Alert Components](https://dev.to/railsstudent/day-22-alert-component-part-1-alert-list-and-alert-components-2bgf)
-- [Microsoft: An Open-Source Comedy](https://dev.to/aliaryani-security/microsoft-an-open-source-comedy-26m4)
+- [Proxy Design Pattern in Java: Your Middleman for Performance &amp; Security!](https://dev.to/priyankbhardwaj1199/proxy-design-pattern-in-java-your-middleman-for-performance-security-3ch9)
+- [🥗Taurus Pan: A Smart Recipe Explorer Built with KendoReact](https://dev.to/vero-code/taurus-pan-a-smart-recipe-explorer-built-with-kendoreact-17k5)
+- [AI Infrastructure Cloud Setup: Practical Choices That Scale](https://dev.to/alifar/ai-infrastructure-cloud-setup-practical-choices-that-scale-2jj7)
+- [Best Remove Image Background APIs: Features, Pricing &amp; Accuracy](https://dev.to/mukul_sharma/best-remove-image-background-apis-features-pricing-accuracy-3le1)
+- [How Does Public Key Cryptography Work?](https://dev.to/firatkiral/how-does-public-key-cryptography-work-eho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
