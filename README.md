@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting fields from a &quot;linked&quot; Sitecore rendering parameter - good news, bad news](https://dev.to/kmac23va/need-fields-in-a-linked-rendering-parameter-so-close-2lo4)
+- [ByteByteGo vs DesignGurus.io? Which is better for System Design Interview Preparation?](https://dev.to/somadevtoo/bytebytego-vs-designgurusio-which-is-better-for-system-design-interview-preparation-2e1o)
+- [Day 12 of 90 day code script series ,A currency converter...](https://dev.to/momina_raheelmoona_c59/day-12-of-90-day-code-script-series-a-currency-converter-3790)
+- [Tired of Writing the Same Email Over and Over? Let&#39;s Talk About AI Magic!](https://dev.to/karthik_n/tired-of-writing-the-same-email-over-and-over-lets-talk-about-ai-magic-341a)
 - [Part-69: Global External Load balancer with HTTPS Google Managed SSL in GCP Cloud](https://dev.to/latchudevops/part-69-global-external-load-balancer-with-https-google-managed-ssl-in-gcp-cloud-21gd)
-- [Learn PHP Arrays: Store and Manage Data Easily](https://dev.to/suraj_kumar_fb57ae0928df2/learn-php-arrays-store-and-manage-data-easily-57cp)
-- [&quot;Vertical vs. Horizontal Integration: Choose the Right Growth Strategy](https://dev.to/jyoti_eb2834cf419b8c283b3/vertical-vs-horizontal-integration-choose-the-right-growth-strategy-55j9)
-- [China Cracks Small RSA Key with Quantum Computer – What It Means for Our Digital Future](https://dev.to/roydevashish/china-cracks-small-rsa-key-with-quantum-computer-what-it-means-for-our-digital-future-2kmm)
-- [🚀 How I Built 5 Projects in 30 Days as a 12-Year-Old Developer](https://dev.to/dmsmenula/how-i-built-5-projects-in-30-days-as-a-teen-developer-and-you-can-too-254h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
