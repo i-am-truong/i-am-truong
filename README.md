@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [codeSearch function in Codebuff codebase.](https://dev.to/ramunarasinga-11/codesearch-function-in-codebuff-codebase-moa)
+- [TRYING TYPESCRIPT.......](https://dev.to/sourav_mahato_3900/trying-typescript-56kg)
+- [Why I&#39;m Betting on Laravel: A Deep Dive for Aspiring Developers](https://dev.to/jagratsati45/why-im-betting-on-laravel-a-deep-dive-for-aspiring-developers-21no)
 - [More Than a Buzzword: How AI is Reshaping Web Development](https://dev.to/jagratsati45/more-than-a-buzzword-how-ai-is-reshaping-web-development-nll)
 - [🤖 What AI Really Is Explained in the Simplest Way Possible](https://dev.to/niero/what-ai-really-is-explained-in-the-simplest-way-possible-14ij)
-- [⚡ Two Pointer Technique](https://dev.to/mohamad_mhana/two-pointer-technique-4eg3)
-- [[Boost]](https://dev.to/ssukhpinder/-1jm8)
-- [How a Web-Framework Really Should be Today](https://dev.to/sarfraznawaz2005/how-a-web-framework-really-should-be-today-2o05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
