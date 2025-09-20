@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-67: 🌍 Mastering Google Cloud Global Load Balancers: Regional MIG + Global HTTP Demo](https://dev.to/latchudevops/part-67-mastering-google-cloud-global-load-balancers-regional-mig-global-http-demo-n98)
+- [“Upcoming Webinar: Cloud Native Automation and DevSecOps — Building Secure, Scalable Systems in the Modern Era”](https://dev.to/kazeem_mohammed/upcoming-webinar-cloud-native-automation-and-devsecops-building-secure-scalable-systems-in-the-2f8k)
+- [Day 22 - Alert Component Part 1 - Alert List and Alert Components](https://dev.to/railsstudent/day-22-alert-component-part-1-alert-list-and-alert-components-2bgf)
+- [Microsoft: An Open-Source Comedy](https://dev.to/aliaryani-security/microsoft-an-open-source-comedy-26m4)
 - [🍳 From Convex&#39;s Kitchen to OpenRouter&#39;s Gateway: My Journey Integrating 200+ AI Models into Chef](https://dev.to/axrisi/from-convexs-kitchen-to-openrouters-gateway-my-journey-integrating-200-ai-models-into-chef-1ihl)
-- [The Future is Private: 5 Revelations About Owning Your Own Social Network](https://dev.to/web4/the-future-is-private-5-revelations-about-owning-your-own-social-network-509p)
-- [Should You Work at a Startup?](https://dev.to/ponikar/should-you-work-at-a-startup-5f33)
-- [We Architected CockroachDB the Wrong Way &lpar;And It Works](https://dev.to/omnarayan/we-architected-cockroachdb-the-wrong-way-and-it-works-28fm)
-- [Danny Maude: Strike Your Irons Pure - Do This Before You Swing](https://dev.to/youtube_golf/danny-maude-strike-your-irons-pure-do-this-before-you-swing-1di7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
