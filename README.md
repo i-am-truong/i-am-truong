@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Full Guide: Integrating MongoDB with Spring Boot &lpar;CRUD, Lombok, Transactions, Atlas&rpar;](https://dev.to/jps27cse/full-guide-integrating-mongodb-with-spring-boot-crud-lombok-transactions-atlas-4c46)
-- [Blockchain as a Database: Hype or a Real Alternative?](https://dev.to/dct_technology/blockchain-as-a-database-hype-or-a-real-alternative-5c39)
-- [Ethical UX: Should Designers Be Responsible for User Addiction?](https://dev.to/dct_technology/ethical-ux-should-designers-be-responsible-for-user-addiction-1jnd)
-- [Title: Bridging the &quot;Last Mile&quot; for LSP: The Story of My Custom blink.cmp Source for Neovim + Unreal Engine](https://dev.to/taku25/title-bridging-the-last-mile-for-lsp-the-story-of-my-custom-blinkcmp-source-for-neovim--7di)
-- [Fixing Kafka KRaft Cluster ID Mismatch on Kubernetes](https://dev.to/jayesh_shinde/fixing-kafka-kraft-cluster-id-mismatch-on-kubernetes-2943)
+- [Python Variables: A Complete Beginner&#39;s Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/python-variables-a-complete-beginners-guide-with-examples-best-practices-2hi2)
+- [My first UI based Rust application - A Skip Counter - created using iced UI library...](https://dev.to/sommukhopadhyay/my-first-ui-based-rust-application-a-skip-counter-created-using-iced-ui-library-1eb2)
+- [Python Comments: The Ultimate Guide to Writing Clean, Effective Code](https://dev.to/satyam_gupta_0d1ff2152dcc/python-comments-the-ultimate-guide-to-writing-clean-effective-code-ndi)
+- [React Component Testing: Best Practices for 2025 🧪](https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674)
+- [Things to do when bored for seniors without internet](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-seniors-without-internet-3h0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
