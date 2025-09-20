@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Golang Cheat Sheet](https://dev.to/elmyrockers/golang-cheat-sheet-3d20)
-- [Weekly #38-2025: Nepal’s Digital Revolution on Discord, Apple’s OS Leap, Cloudflare’s Lessons, and TikTok’s Future](https://dev.to/weekly/weekly-38-2025-nepals-digital-revolution-on-discord-apples-os-leap-cloudflares-lessons-and-35bn)
-- [Training a Nematode with Quantum Reinforcement Learning](https://dev.to/chrisjz/training-a-nematode-with-quantum-reinforcement-learning-1cp9)
-- [Check out this article on PCA in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-article-on-pca-in-r-c51)
-- [PostgreSQL Advanced Queries &amp; Data Types: A Practical Guide to Robust Data Management](https://dev.to/labex/postgresql-advanced-queries-data-types-a-practical-guide-to-robust-data-management-4cmd)
+- [🚀 Speed Up Your Images: Complete Guide to Cloudflare CDN + Amazon S3](https://dev.to/sushilsubedi/speed-up-your-images-complete-guide-to-cloudflare-cdn-amazon-s3-3g62)
+- [Git Bits: The Graph](https://dev.to/oculus42/git-bits-the-graph-2cf9)
+- [Setup Tomcat cluster in Linux](https://dev.to/jess_garcacaldern_028/setup-tomcat-cluster-in-linux-407k)
+- [Noise to Nice: How Stable Diffusion Turns Chaos into Art](https://dev.to/naresh_82de734ade4c1c66d9/noise-to-nice-how-stable-diffusion-turns-chaos-into-art-1pkm)
+- [From Zero to Java: Day 3 of My Backend Development Journey](https://dev.to/chandana_prabhakar/from-zero-to-java-day-3-of-my-backend-development-journey-2l8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
