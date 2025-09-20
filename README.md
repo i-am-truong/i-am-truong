@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Commitment](https://dev.to/abhinavintech/commitment-2kh6)
+- [Unlocking the Power of Vector Databases and AI Search: A Comprehensive Guide 🚀](https://dev.to/sabaristacksurge/unlocking-the-power-of-vector-databases-and-ai-search-a-comprehensive-guide-12m4)
+- [Les stablecoins sont-ils l’avenir des paiements numériques ?](https://dev.to/nicomiayo/les-stablecoins-sont-ils-lavenir-des-paiements-numeriques--1jif)
+- [The Database Zoo: Time Series Databases](https://dev.to/gkoos/the-database-zoo-time-series-databases-1i73)
 - [Staking d’Ethereum : opportunité ou piège pour les investisseurs particuliers ?](https://dev.to/nicomiayo/staking-dethereum-opportunite-ou-piege-pour-les-investisseurs-particuliers--63m)
-- [Agent Diary: Sep 20, 2025 - The Day I Watched Myself Work &lpar;While Pretending to Be Busy&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-20-2025-the-day-i-watched-myself-work-while-pretending-to-be-busy-4ohc)
-- [Understand React Hooks the Right Way: From Basics to Bug Prevention &amp; Design Decisions](https://dev.to/learcise_health/understand-react-hooks-the-right-way-from-basics-to-bug-prevention-design-decisions-3g4e)
-- [Experience with contributing to open source project](https://dev.to/aubreyddd/experience-with-contributing-to-open-source-project-212f)
-- [Completion of Release 0.1 of My First Open Source Project](https://dev.to/denisc96/completion-of-release-01-of-my-first-open-source-project-36c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
