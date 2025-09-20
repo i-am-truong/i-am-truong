@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Assinatura Digital em Elixir com Criptografia Assimétrica](https://dev.to/williammdsilva/assinatura-digital-em-elixir-com-criptografia-assimetrica-1m6k)
-- [⚙️ Enabling a Logic App as an MCP Server](https://dev.to/imdj/enabling-a-logic-app-as-an-mcp-server-34bp)
-- [Configuring WiFi on ESP32-C3 DevKitM-1 / Rust-1](https://dev.to/jajera/configuring-wifi-on-esp32-c3-devkitm-1-rust-1-53e9)
-- [Catalogs as Context: How Metadata is Powering the Next Wave of AI](https://dev.to/datastrato/catalogs-as-context-how-metadata-is-powering-the-next-wave-of-ai-1dem)
-- [Use Your Machine Name &lpar;Not Just localhost&rpar; with HTTPS on ASP.NET Core — and Make Node.js Trust It](https://dev.to/ruxozheng/use-your-machine-name-not-just-localhost-with-https-on-aspnet-core-and-make-nodejs-trust-it-2fpe)
+- [OpenTelemetry Sampling: Everything you need to know about Head and Tail Sampling](https://dev.to/agardnerit/opentelemetry-sampling-everything-you-need-to-know-about-head-and-tail-sampling-3cjo)
+- [Why I Chose Rust for My OSD600 Project &lpar;And What I Learned&rpar;](https://dev.to/david_rivera_8d845b35931e/why-i-chose-rust-for-my-osd600-project-and-what-i-learned-5gh1)
+- [Converting IAM Users to Roles: A Complete Web-Based Solution](https://dev.to/gajjarashish/converting-iam-users-to-roles-a-complete-web-based-solution-1e0g)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-1h05)
+- [Another call for any developers who might want to work on this project with me!](https://dev.to/adzhydra/another-call-for-any-developers-who-might-want-to-work-on-this-project-with-me-34m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
