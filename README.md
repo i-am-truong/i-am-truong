@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python’s rules for hashing](https://dev.to/vivis_dev/understanding-pythons-rules-for-hashing-3jl)
-- [Understanding Context Window Size in LLMs](https://dev.to/jiminlee/understanding-context-window-size-in-llms-3aof)
-- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://dev.to/technoblogger14o3/less-is-safer-how-obsidian-reduces-the-risk-of-supply-chain-attacks-1j2p)
-- [Top 10 JavaScript Tips Every Developer Should Know](https://dev.to/pjdeveloper896/top-10-javascript-tips-every-developer-should-know-478h)
-- [Navigating Python&#39;s import system and namespace packages](https://dev.to/vivis_dev/navigating-pythons-import-system-and-namespace-packages-36ml)
+- [Understanding how Python&#39;s list comprehensions work under the hood](https://dev.to/vivis_dev/understanding-how-pythons-list-comprehensions-work-under-the-hood-1okc)
+- [Exploring chained operations and order of evaluation in python expressions](https://dev.to/vivis_dev/exploring-chained-operations-and-order-of-evaluation-in-python-expressions-534k)
+- [Managing Personal Finances with Spentsor: A Developer’s Perspective](https://dev.to/lovneo/managing-personal-finances-with-spentsor-a-developers-perspective-1n61)
+- [Notely Voice: Revolutionizing Note-Taking with AI-Powered Transcription](https://dev.to/githubopensource/notely-voice-revolutionizing-note-taking-with-ai-powered-transcription-473i)
+- [Part-71: Implement a Global External Network Load balancer with SSL Proxy in GCP Cloud](https://dev.to/latchudevops/part-71-implement-a-global-external-network-load-balancer-with-ssl-proxy-in-gcp-cloud-17ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
