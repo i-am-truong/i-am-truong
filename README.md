@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Battle of the AI Titans: Claude vs. ChatGPT—Who’s Winning the Upgrade War?](https://dev.to/aiwithapex/battle-of-the-ai-titans-claude-vs-chatgpt-whos-winning-the-upgrade-war-2ok9)
 - [Boosting Page Speed with HTML, CSS, and JS Minifiers — A Developer’s Guide](https://dev.to/jaybarker/boosting-page-speed-with-html-css-and-js-minifiers-a-developers-guide-d03)
 - [Income Tax Return Filing &lpar;ITR&rpar;](https://dev.to/madgan95/income-tax-return-filing-itr-33lh)
 - [My First Hackathon Experience: Stepping Out of My Comfort Zone](https://dev.to/xzyvron/my-first-hackathon-experience-stepping-out-of-my-comfort-zone-3l0d)
 - [Why Every Engineering Team Needs a Technical Writer &lpar;Even Small Ones&rpar;](https://dev.to/sandrameshack/why-every-engineering-team-needs-a-technical-writer-even-small-ones-5319)
-- [First Pull Request](https://dev.to/elsad_humbetli_0971c995ce/first-pull-request-4l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
