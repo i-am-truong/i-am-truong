@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [100 Ways to Earn Extra Cash as a Developer 💰](https://dev.to/alishirani/100-ways-to-earn-extra-cash-as-a-developer-6dk)
-- [How to Rank at Scale: Engineering Search Systems for Millions of Users](https://dev.to/satyam_chourasiya_99ea2e4/how-to-rank-at-scale-engineering-search-systems-for-millions-of-users-gh7)
-- [Configuring AWS Vault with the Wincred Backend for Secure Credential Management on Windows](https://dev.to/jajera/configuring-aws-vault-with-the-wincred-backend-for-secure-credential-management-on-windows-2d05)
-- [Navigating RAG System Architecture: Trade-offs and Best Practices for Scalable, Reliable AI Applications](https://dev.to/satyam_chourasiya_99ea2e4/navigating-rag-system-architecture-trade-offs-and-best-practices-for-scalable-reliable-ai-3ppm)
-- [Days 1–3 | 50 Projects in 50 Days](https://dev.to/augusta08/days-1-3-50-projects-in-50-days-3n3a)
+- [Resonator_Entropy: Listening to the Noise Beneath the ESP32](https://dev.to/numbpill3d/resonatorentropy-listening-to-the-noise-beneath-the-esp32-850)
+- [From Skeptic to Superuser: How AI in My Terminal Changed Everything](https://dev.to/amrosama57/from-skeptic-to-superuser-how-ai-in-my-terminal-changed-everything-l0g)
+- [Generics and Variance with Java](https://dev.to/nestedsoftware/generics-and-variance-with-java-27a2)
+- [Demystifying Python Decorators, Part 1: The Foundational Concepts](https://dev.to/aaron_rose_0787cc8b4775a0/demystifying-python-decorators-part-1-the-foundational-concepts-4g5e)
+- [SleepyAPI: All In One Discord Bot](https://dev.to/sleepyprog/sleepyapi-all-in-one-discord-bot-9d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
