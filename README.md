@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Days 1–3 | 50 Projects in 50 Days](https://dev.to/augusta08/days-1-3-50-projects-in-50-days-3n3a)
 - [IGN: Renown - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-renown-official-early-access-launch-trailer-5ac5)
 - [IGN: Diablo 4 - Official Class Updates Developer Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-class-updates-developer-overview-trailer-1e0b)
 - [Setting Up Kubernetes on Windows with Minikube &lpar;Step-by-Step Guide&rpar;](https://dev.to/abhishek_korde_31/setting-up-kubernetes-on-windows-with-minikube-step-by-step-guide-460j)
 - [Backend Development Roadmap &lpar;Beginner to Advanced&rpar;](https://dev.to/tech_girllll/backend-development-roadmap-beginner-to-advanced-2nja)
-- [“My First Step in C++: Hello World!” “Journey from Beginner to C++ Programmer: My First Code”](https://dev.to/asp0766/my-first-step-in-c-hello-worldjourney-from-beginner-to-c-programmer-my-first-code-4l5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
