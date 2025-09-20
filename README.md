@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Научи се кога да СПРЕШ с проучването и търсенето на решения, когато програмираш!](https://dev.to/dvt32/nauchi-sie-kogha-da-spriesh-s-prouchvanieto-i-trsienieto-na-rieshieniia-koghato-proghramirash-3gk5)
-- [Client-Side Storage: Types and Usage](https://dev.to/the_realteckyguy/client-side-storage-types-and-usage-10c1)
-- [Coding Challenge Practice - Question 11](https://dev.to/tomivan/coding-challenge-practice-question-11-gfl)
-- [# Introduction](https://dev.to/maria_adde_3cdb7ecaeb3d56/-introduction-45d3)
-- [Leveraging AI Analytics for Better NAAC and NBA Accreditation Outcomes](https://dev.to/manasi_ab1bbf439689947947/leveraging-ai-analytics-for-better-naac-and-nba-accreditation-outcomes-24bj)
+- [⚡ Two Pointer Technique](https://dev.to/mohamad_mhana/two-pointer-technique-4eg3)
+- [[Boost]](https://dev.to/ssukhpinder/-1jm8)
+- [How a Web-Framework Really Should be Today](https://dev.to/sarfraznawaz2005/how-a-web-framework-really-should-be-today-2o05)
+- [🚀 Simplifying imports by TypeScript Path Aliases with `ts-path-alias-fixer`](https://dev.to/svedhashree/simplifying-imports-by-typescript-path-aliases-with-ts-path-alias-fixer-cm)
+- [Hello there fellow developers!](https://dev.to/webvara/hello-there-fellow-developers-2fhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
