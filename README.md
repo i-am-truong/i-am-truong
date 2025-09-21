@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day-3: Disable SSH Root Login on Linux | 100 Days Of DevOps](https://dev.to/olymahmud/day-3-disable-ssh-root-login-on-linux-100-days-of-devops-1mkg)
+- [Day 2 of C++ Programming: Bitwise Operators &lpar;AND, Shift, NOT&rpar;](https://dev.to/asp0766/day-2-of-c-programming-bitwise-operators-and-shift-not-1m2)
 - [I Built a Modern Personal Finance Dashboard with KendoReact &amp; AI Assistant](https://dev.to/vineprkl/i-built-a-modern-personal-finance-dashboard-with-kendoreact-ai-assistant-3233)
 - [Exploring Programming Language Paradigms](https://dev.to/adrahi/exploring-programming-language-paradigms-403a)
 - [Building Aliō: How I Shipped an App with AI Tools](https://dev.to/molozhenko/building-alio-how-i-shipped-an-app-with-ai-tools-1659)
-- [Return;](https://dev.to/fern_d3v/return-l27)
-- [Return;](https://dev.to/fern_d3v/return-57mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
