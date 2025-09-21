@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [cozyCLI – practice linux commands in the browser](https://dev.to/codephilip_/cozycli-practice-linux-commands-in-the-browser-c54)
+- [Laravel Middleware](https://dev.to/muhammmad_nawaz_d8ba895e1/laravel-middleware-4b7m)
 - [🔹 The Importance of AWS in Modern Cloud Computing 🔹](https://dev.to/hajixhayjhay/the-importance-of-aws-in-modern-cloud-computing-18b1)
 - [🔒 How Platforms Detect Fake Accounts &amp; Inflated Likes 📊 Instagram, YouTube, Facebook Explained 👀](https://dev.to/ahmed_kadiwala/how-platforms-detect-fake-accounts-inflated-likes-instagram-youtube-facebook-explained-1fh8)
 - [DevOps by Doing: Setting Up a Complete Modern DevOps Environment — Part 2](https://dev.to/johnogbonna/devops-by-doing-setting-up-a-complete-modern-devops-environment-part-2-3pf1)
-- [First look to store manager](https://dev.to/george-hernz/first-look-to-store-manager-cep)
-- [COLORS: Souly | A COLORS SHOW](https://dev.to/music_youtube/colors-souly-a-colors-show-3f3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
