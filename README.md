@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🏁ASPICE Literacy: Episode 5 — From Paper to Practice: Evidence, Work Products, and the Art of “Show, Don’t Tell” 📂➡️🛠️](https://dev.to/abdulosman/aspice-literacy-episode-5-from-paper-to-practice-evidence-work-products-and-the-art-of-4dl0)
+- [Visual Recognition with Pygame](https://dev.to/vihanga_anuththara_0a402f/visual-recognition-with-pygame-2ao2)
+- [React Higher-Order Components &lpar;HOC&rpar;](https://dev.to/mohsenfallahnjd/react-higher-order-components-hoc-4epb)
 - [Indexing and Query Optimization in Laravel](https://dev.to/suruliraajan/indexing-and-query-optimization-in-laravel-52bm)
 - [🚨 Breaking News from the Tech Trenches! 🚨](https://dev.to/shanbasu/breaking-news-from-the-tech-trenches-302p)
-- [🚀 Level Up Your Laravel Skills with Custom Validation Rules!](https://dev.to/devtalk94/level-up-your-laravel-skills-with-custom-validation-rules-2k7)
-- [Learn python website](https://dev.to/thib_magic/learn-python-website-3pf9)
-- [Unleashing the Power of AI: Exploring Text Summarization Tools](https://dev.to/vjnvisakh/unleashing-the-power-of-ai-exploring-text-summarization-tools-1h0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
