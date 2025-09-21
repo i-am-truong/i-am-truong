@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Cheat Sheet](https://dev.to/elmyrockers/rust-cheat-sheet-25i1)
 - [Chat with OpenAI: SME Fast AI Assistant](https://dev.to/iamisaackn/chat-with-openai-sme-fast-ai-assistant-4ddb)
 - [Is Your Fridge About to Order Groceries for You? Demystifying the Metaverse&#39;s Lesser-Known Cousin: the Internet of Things &lpar;IoT&rpar;](https://dev.to/karthik_n/is-your-fridge-about-to-order-groceries-for-you-demystifying-the-metaverses-lesser-known-cousin-1h8k)
 - [🏁ASPICE Literacy: Episode 5 — From Paper to Practice: Evidence, Work Products, and the Art of “Show, Don’t Tell” 📂➡️🛠️](https://dev.to/abdulosman/aspice-literacy-episode-5-from-paper-to-practice-evidence-work-products-and-the-art-of-4dl0)
 - [Visual Recognition with Pygame](https://dev.to/vihanga_anuththara_0a402f/visual-recognition-with-pygame-2ao2)
-- [React Higher-Order Components &lpar;HOC&rpar;](https://dev.to/mohsenfallahnjd/react-higher-order-components-hoc-4epb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
