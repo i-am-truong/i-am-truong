@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tableau Web Data Connector for FactSet: Building Smarter Financial Dashboards](https://dev.to/dipti_moryani_185c244d578/tableau-web-data-connector-for-factset-building-smarter-financial-dashboards-5431)
+- [Getting Started with Git: Understanding Version Control the Easy Way](https://dev.to/abuhorairatarif/getting-started-with-git-understanding-version-control-the-easy-way-1mef)
 - [How to Start Page Numbers from Page 3 in Microsoft Word: Step-by-Step Guide](https://dev.to/pickupbrain/how-to-start-page-numbers-from-page-3-in-microsoft-word-step-by-step-guide-ncm)
 - [Choosing the Right AWS Hosting Architecture for a Multi-Tenant React Web App: Amplify, App Runner, and EC2 with API Gateway/ALB](https://dev.to/antek8/choosing-the-right-aws-hosting-architecture-for-a-multi-tenant-react-web-app-amplify-app-runner-3ec4)
 - [The Reasons I Format Dates on the API Server](https://dev.to/kradasa4/the-reasons-i-format-dates-on-the-api-server-1eab)
-- [How to Prepare for the ITPEC FE Exam](https://dev.to/kradasa4/how-to-prepare-for-the-itpec-fe-exam-4jbi)
-- [Embracing Creativity and Code: Insights from DEV Community](https://dev.to/callum_eggers_52b768031ae/embracing-creativity-and-code-insights-from-dev-community-2ada)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
