@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Things I Wish I Knew Before Getting Into Tech](https://dev.to/jackline_kaunda/things-i-wish-i-knew-before-getting-into-tech-2c6f)
 - [I used Python to Analyze Customer Payment Behavior](https://dev.to/bekbrace/i-used-python-to-analyze-customer-payment-behavior-1dh)
 - [Flores amarillas](https://dev.to/engfa_waraha_919922b38d79/flores-amarillas-jpj)
 - [Comparison DSLR vs Mirrorless Camera Which is Best UAE](https://dev.to/growjournal/comparison-dslr-vs-mirrorless-camera-which-is-best-uae-4ipm)
 - [Laravel MCP Beta: The Brain Behind Your Backend](https://dev.to/apnahive/laravel-mcp-beta-the-brain-behind-your-backend-414o)
-- [I build &lpar;not really, Google AI studio did&rpar; an app to track babies sleep](https://dev.to/giovannimazzuoccolo/i-build-not-really-google-ai-studio-did-an-app-to-track-babies-sleep-56cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
