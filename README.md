@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming the Drawbacks of Official Flutter JSON Serialization with json_entity](https://dev.to/thanh_tngphm_6c0c8c78d/overcoming-the-drawbacks-of-official-flutter-json-serialization-with-jsonentity-b0p)
-- [Turning PostgreSQL into a Robust Queue for Go Applications](https://dev.to/shrsv/turning-postgresql-into-a-robust-queue-for-go-applications-1hob)
-- [Optimizing PostgreSQL Queries: From 820 ms to 120 ms with Indexing](https://dev.to/sai_anirudvarmauppalapa/optimizing-postgresql-queries-from-820-ms-to-120-ms-with-indexing-6ic)
-- [Improvement Ideas](https://dev.to/shanmeiremote/improvement-ideas-lfe)
-- [Java Language Architect Brian Goetz on How Java Could Evolve](https://dev.to/davidcassel/java-language-architect-brian-goetz-on-how-java-could-evolve-351k)
+- [🔹 The Importance of AWS in Modern Cloud Computing 🔹](https://dev.to/hajixhayjhay/the-importance-of-aws-in-modern-cloud-computing-18b1)
+- [🔒 How Platforms Detect Fake Accounts &amp; Inflated Likes 📊 Instagram, YouTube, Facebook Explained 👀](https://dev.to/ahmed_kadiwala/how-platforms-detect-fake-accounts-inflated-likes-instagram-youtube-facebook-explained-1fh8)
+- [DevOps by Doing: Setting Up a Complete Modern DevOps Environment — Part 2](https://dev.to/johnogbonna/devops-by-doing-setting-up-a-complete-modern-devops-environment-part-2-3pf1)
+- [First look to store manager](https://dev.to/george-hernz/first-look-to-store-manager-cep)
+- [COLORS: Souly | A COLORS SHOW](https://dev.to/music_youtube/colors-souly-a-colors-show-3f3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
