@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up a Scalable JupyterHub Classroom on Debian 12 LTS with DockerSpawner](https://dev.to/masoomjethwa/setting-up-a-scalable-jupyterhub-classroom-on-debian-12-lts-with-dockerspawner-2k9f)
+- [Modulax Launch Blueprint: Building with Purpose from Day One](https://dev.to/modulaxorg/modulax-launch-blueprint-building-with-purpose-from-day-one-ko1)
 - [Why Node.js Keeps Winning: The Backend Beast Everyone Loves to Hire](https://dev.to/m-a-h-b-u-b/why-nodejs-keeps-winning-the-backend-beast-everyone-loves-to-hire-3cip)
-- [Part-75: To Implement a Regional External Network Load balancer with TCP Pass through in GCP Cloud](https://dev.to/latchudevops/part-75-to-implement-a-regional-external-network-load-balancer-with-tcp-pass-through-in-gcp-cloud-2kk1)
-- [The feature flags](https://dev.to/umangmittal/the-feature-flags-39c6)
-- [Kiro Did It! – From Prompt to Customer API Using Vibe Coding!](https://dev.to/bhatiagirish/kiro-did-it-from-prompt-to-customer-api-using-vibe-coding-5hil)
-- [From Junior to Pro: Mastering Code Design with S.O.L.I.D.](https://dev.to/umangmittal/from-junior-to-pro-mastering-code-design-with-solid-4nhh)
+- [Example using ST TOF VL53L4CD](https://dev.to/danielmx/example-using-st-tof-vl53l4cd-160m)
+- [Example using ST TOF VL53L4CD](https://dev.to/danielmx/example-using-st-tof-vl53l4cd-5ch3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
