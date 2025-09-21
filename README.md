@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Functional: Writing Professional and Performant SQL Queries](https://dev.to/gregory42266270/beyond-functional-writing-professional-and-performant-sql-queries-11ac)
-- [How to Get The GIMP Working With macOS Tahoe &lpar;and What Happened&rpar;](https://dev.to/fedtti/how-to-get-the-gimp-working-with-macos-tahoe-and-what-happened-b4k)
-- [Day 53: CI/CD pipeline on AWS pt 4](https://dev.to/udoh_deborah_b1e484c474bf/day-53-cicd-pipeline-on-aws-pt-4-ejc)
-- [Single Element Loaders: Going 3D with CSS](https://dev.to/er-raj-aryan/single-element-loaders-going-3d-with-css-ikd)
-- [iFixit iPhone Air teardown](https://dev.to/technoblogger14o3/ifixit-iphone-air-teardown-1e03)
+- [Flores amarillas](https://dev.to/alex_nava_1105eb6454679da/flores-amarillas-4p83)
+- [IoT &amp; AI - Explore ways of integrating physical and digital systems](https://dev.to/avirup171/iot-ai-explore-ways-of-integrating-physical-and-digital-systems-6g7)
+- [Time Handling](https://dev.to/loading_blocks/time-handling-1oof)
+- [Function in Python &lpar;2&rpar;](https://dev.to/hyperkai/function-in-python-2-40c8)
+- [Good Design Isn’t Just Pretty — It Converts](https://dev.to/mossdesignfy/good-design-isnt-just-pretty-it-converts-15ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
