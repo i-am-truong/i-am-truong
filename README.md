@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flores amarillas](https://dev.to/alex_nava_1105eb6454679da/flores-amarillas-4p83)
-- [IoT &amp; AI - Explore ways of integrating physical and digital systems](https://dev.to/avirup171/iot-ai-explore-ways-of-integrating-physical-and-digital-systems-6g7)
-- [Time Handling](https://dev.to/loading_blocks/time-handling-1oof)
-- [Function in Python &lpar;2&rpar;](https://dev.to/hyperkai/function-in-python-2-40c8)
-- [Good Design Isn’t Just Pretty — It Converts](https://dev.to/mossdesignfy/good-design-isnt-just-pretty-it-converts-15ki)
+- [Docker Command Sheet - My Go-To Dev Environment](https://dev.to/roydevashish/docker-command-sheet-my-go-to-dev-environment-2kpg)
+- [WebOS Day 3 at CodeHubbers](https://dev.to/dailker/webos-day-3-at-codehubbers-3fe)
+- [Mi reina](https://dev.to/fidelernesto_laracruz_6/mi-reina-pca)
+- [Flores amarillas](https://dev.to/leonardo_pereiraquispe_a/flores-amarillas-oaj)
+- [Day 54: Understanding Infrastructure as Code and Configuration Management](https://dev.to/udoh_deborah_b1e484c474bf/day-54-understanding-infrastructure-as-code-and-configuration-management-2g3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
