@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ETL: The Unsung Hero of Data-Driven Decisions](https://dev.to/leonardkachi/etl-the-unsung-hero-of-data-driven-decisions-igc)
+- [Unleashing the Power of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-2n3d)
 - [Enable Bash-Style History Search and Suggestions in PowerShell](https://dev.to/jajera/enable-bash-style-history-search-and-suggestions-in-powershell-2d52)
 - [Why do we even need change-data-capture to begin with?](https://dev.to/paragparalikar/why-do-we-even-need-change-data-capture-to-begin-with-3nj9)
 - [Comparison of ZXing QR Code Generator Alternatives to IronQR](https://dev.to/mohammedibrahimlj/comparison-of-zxing-qr-code-generator-alternatives-to-ironqr-3376)
-- [Feature Engineering to Evaluate Code Quality](https://dev.to/prinewgirl/feature-engineering-to-evaluate-code-quality-4pn9)
-- [What is Monte Carlo Simulation? Learn Its Key Benefits](https://dev.to/microestimates/what-is-monte-carlo-simulation-learn-its-key-benefits-5ea3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
