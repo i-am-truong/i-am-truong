@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [REST API and Common HTTP Methods](https://dev.to/arunagri82/rest-api-and-common-http-methods-1i2l)
 - [Why Debugging in Production Isn&#39;t Always a Bad Thing](https://dev.to/brook_051cd08713006b/why-debugging-in-production-isnt-always-a-bad-thing-483p)
-- [The Day I Learned Why DynamoDB Costs More](https://dev.to/techwithhari/the-day-i-learned-why-dynamodb-costs-more-35d9)
-- [[Boost]](https://dev.to/james_hoang_c601f7e9561c2/-4p2k)
-- [Things to do when bored for gamers when it is snowy](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-gamers-when-it-is-snowy-ap6)
-- [The DRY Principle for B2B Content: An Engineer&#39;s Guide to 10x-ing a Single Webinar](https://dev.to/michaelaiglobal/the-dry-principle-for-b2b-content-an-engineers-guide-to-10x-ing-a-single-webinar-6em)
+- [Things to do when bored for artists in a small apartment](https://dev.to/trang_khanh_1a4456cf74e34/things-to-do-when-bored-for-artists-in-a-small-apartment-515c)
+- [Things to do when bored for parents when you are playing an instrument](https://dev.to/khoa_hanh_4ea7a77cb4d26f5/things-to-do-when-bored-for-parents-when-you-are-playing-an-instrument-37mi)
+- [Say what you mean](https://dev.to/omanfk/say-what-you-mean-2ehc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
