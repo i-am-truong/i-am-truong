@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Debugging Circuits and Code](https://dev.to/wale1202/debugging-circuits-and-code-1ac2)
+- [🎯Balancing Type I and Type II Errors in Medical Decision-Making: A Case on Diabetes Diagnosis](https://dev.to/purityngugi/balancing-type-i-and-type-ii-errors-in-medical-decision-making-a-case-on-diabetes-diagnosis-4jp2)
+- [Flor amarilla](https://dev.to/ric_aard_328614d9f82cb140/flor-amarilla-22d3)
 - [🏃‍♂️State management with Zustand!](https://dev.to/gustavoisensee/state-management-with-zustand-14h3)
 - [Beyond Borders: Navigating Data Sovereignty and the Illusion of “Local” Cloud Providers](https://dev.to/engrkhan001/beyond-borders-navigating-data-sovereignty-and-the-illusion-of-local-cloud-providers-oid)
-- [Show HN: AI-Powered Email Verification API with ML Risk Scoring + 50% Off for RapidAPI Users](https://dev.to/rehaanhassan/show-hn-ai-powered-email-verification-api-with-ml-risk-scoring-50-off-for-rapidapi-users-4p6f)
-- [LeetCode 8: String to Integer &lpar;atoi&rpar; - Medium](https://dev.to/grantdotdev/leetcode-8-string-to-integer-atoi-medium-33om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
