@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I build &lpar;not really, Google AI studio did&rpar; an app to track babies sleep](https://dev.to/giovannimazzuoccolo/i-build-not-really-google-ai-studio-did-an-app-to-track-babies-sleep-56cp)
+- [🤖 From Machine Learning to AI Chatbots: The Complete Beginner’s Guide](https://dev.to/ahmed_kadiwala/from-machine-learning-to-ai-chatbots-the-complete-beginners-guide-45e1)
+- [🔥 Stop Wasting Time! Build FAST &amp; SECURE Backends with Deno 2.0 — A Game-Changer for Web Devs](https://dev.to/ekwoster/stop-wasting-time-build-fast-secure-backends-with-deno-20-a-game-changer-for-web-devs-227p)
 - [Bat-KV: Lightweight Key-Value Store for Windows Batch](https://dev.to/water_run_305f6dfd401fdaf/bat-kv-lightweight-key-value-store-for-windows-batch-5f2f)
 - [Building Next-Gen MVNO Platforms: From Legacy BSS to API-Driven Telecom](https://dev.to/abdul_shamim/building-next-gen-mvno-platforms-from-legacy-bss-to-api-driven-telecom-4bfb)
-- [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-4l3m)
-- [What is an internal Developer Platforms?](https://dev.to/e77/what-is-an-internal-developer-platforms-17o9)
-- [3D Printing Nerd: New career in 3D Printing unlocked!](https://dev.to/maker_youtube/3d-printing-nerd-new-career-in-3d-printing-unlocked-56l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
