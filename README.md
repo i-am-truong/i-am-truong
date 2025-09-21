@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Node.js Keeps Winning: The Backend Beast Everyone Loves to Hire](https://dev.to/m-a-h-b-u-b/why-nodejs-keeps-winning-the-backend-beast-everyone-loves-to-hire-3cip)
+- [Part-75: To Implement a Regional External Network Load balancer with TCP Pass through in GCP Cloud](https://dev.to/latchudevops/part-75-to-implement-a-regional-external-network-load-balancer-with-tcp-pass-through-in-gcp-cloud-2kk1)
+- [The feature flags](https://dev.to/umangmittal/the-feature-flags-39c6)
+- [Kiro Did It! – From Prompt to Customer API Using Vibe Coding!](https://dev.to/bhatiagirish/kiro-did-it-from-prompt-to-customer-api-using-vibe-coding-5hil)
 - [From Junior to Pro: Mastering Code Design with S.O.L.I.D.](https://dev.to/umangmittal/from-junior-to-pro-mastering-code-design-with-solid-4nhh)
-- [Part-74: Implement a Regional External Network Load balancer with TCP Proxy in GCP Cloud](https://dev.to/latchudevops/part-74-implement-a-regional-external-network-load-balancer-with-tcp-proxy-in-gcp-cloud-5a5k)
-- [🚀 My Event at GTU: Learning About GenAI, Vector Databases, RAG &amp; MCP with AWS](https://dev.to/dhavalmojidra/my-event-at-gtu-learning-about-genai-vector-databases-rag-mcp-with-aws-4e99)
-- [Building an AI Conversation Practice App: Part 2 - Backend Speech-to-Text Processing with OpenAI Whisper](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-2-backend-speech-to-text-processing-with-openai-40mj)
-- [Publishers Sue Google, OpenAI Escapes Microsoft](https://dev.to/techsparklive/publishers-sue-google-openai-escapes-microsoft-1b1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
