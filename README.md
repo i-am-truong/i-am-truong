@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
+- [Coding Challenge Practice - Question 12](https://dev.to/tomivan/coding-challenge-practice-question-12-4i35)
 - [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
 - [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/qbit/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
 - [Building an AI Conversation Practice App: Part 3- From Simple Prompts to Database-Driven Dynamic AI Characters](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-3-from-simple-prompts-to-database-driven-dynamic-ai-npg)
-- [BACK TO SCHOOL!](https://dev.to/yosef_tsegaye_3e06698542b/back-to-school-1dpd)
-- [MongoDB Search Index Internals with Luke &lpar;Lucene Toolbox GUI tool&rpar;](https://dev.to/franckpachot/mongodb-search-index-internals-with-luke-lucene-toolbox-gui-tool-2842)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
