@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Search Index internals with Luke &lpar;Lucene Toolbox GUI tool&rpar;](https://dev.to/franckpachot/mongodb-search-index-internals-with-luke-lucene-toolbox-gui-tool-2842)
-- [VitePress Guide: From Installation to Deployment](https://dev.to/leapcell/vitepress-guide-from-installation-to-deployment-3pe)
+- [Building an AI Conversation Practice App: Part 3- From Simple Prompts to Database-Driven Dynamic AI Characters](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-3-from-simple-prompts-to-database-driven-dynamic-ai-npg)
+- [BACK TO SCHOOL!](https://dev.to/yosef_tsegaye_3e06698542b/back-to-school-1dpd)
+- [MongoDB Search Index Internals with Luke &lpar;Lucene Toolbox GUI tool&rpar;](https://dev.to/franckpachot/mongodb-search-index-internals-with-luke-lucene-toolbox-gui-tool-2842)
 - [🚀Supercharging Docusaurus with MSW: Mock APIs for Live, Interactive Docs](https://dev.to/chinmaytrpth2/supercharging-docusaurus-with-msw-mock-apis-for-live-interactive-docs-54ie)
 - [Typed, Named Endpoints for Cro &lpar;with HTMX Helpers&rpar;](https://dev.to/fco/typed-named-endpoints-for-cro-with-htmx-helpers-g9j)
-- [🔐 Fine-Grained Role Control for Logic App Standard Workflows with APIM + Easy Auth](https://dev.to/imdj/fine-grained-role-control-for-logic-app-standard-workflows-with-apim-easy-auth-32ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
