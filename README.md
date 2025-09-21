@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Four Disaster Recovery &lpar;DR&rpar; strategies in AWS explained](https://dev.to/wakeup_flower_8591a6cb6a9/four-disaster-recovery-dr-strategies-in-aws-explained-22ph)
 - [Getting Started with Python](https://dev.to/willwritescode/getting-started-with-python-2o9f)
+- [The Modern Developer Blog Revolution: Why WordPress is Dead and Static is King](https://dev.to/thedanielmark/the-modern-developer-blog-revolution-why-wordpress-is-dead-and-static-is-king-4pop)
 - [Debugging Circuits and Code](https://dev.to/wale1202/debugging-circuits-and-code-1ac2)
 - [🎯Balancing Type I and Type II Errors in Medical Decision-Making: A Case on Diabetes Diagnosis](https://dev.to/purityngugi/balancing-type-i-and-type-ii-errors-in-medical-decision-making-a-case-on-diabetes-diagnosis-4jp2)
-- [Flor amarilla](https://dev.to/ric_aard_328614d9f82cb140/flor-amarilla-22d3)
-- [🏃‍♂️State management with Zustand!](https://dev.to/gustavoisensee/state-management-with-zustand-14h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
