@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello Community! A Self-Taught Developer and Volunteer Here to Connect](https://dev.to/george-hernz/hello-community-a-self-taught-developer-and-volunteer-here-to-connect-31jk)
-- [How to Generate sitemap.xml in Next.js for Better SEO](https://dev.to/bdhamithkumara/how-to-generate-sitemapxml-in-nextjs-for-better-seo-52i3)
-- [Seu Sistema Está Pronto pro Pico ou Vai Abandonar o Usuário Quando Mais Precisar?](https://dev.to/ed-wantuil/seu-sistema-esta-pronto-pro-pico-ou-vai-abandonar-o-usuario-quando-mais-precisar-4ogb)
-- [Stop Property Drilling in FastAPI: Use Request-Level Globals](https://dev.to/kuba_szw/stop-property-drilling-in-fastapi-use-request-level-globals-3mjh)
-- [Software Engineer](https://dev.to/scimax/software-engineer-2boa)
+- [Beyond Functional: Writing Professional and Performant SQL Queries](https://dev.to/gregory42266270/beyond-functional-writing-professional-and-performant-sql-queries-11ac)
+- [How to Get The GIMP Working With macOS Tahoe &lpar;and What Happened&rpar;](https://dev.to/fedtti/how-to-get-the-gimp-working-with-macos-tahoe-and-what-happened-b4k)
+- [Day 53: CI/CD pipeline on AWS pt 4](https://dev.to/udoh_deborah_b1e484c474bf/day-53-cicd-pipeline-on-aws-pt-4-ejc)
+- [Single Element Loaders: Going 3D with CSS](https://dev.to/er-raj-aryan/single-element-loaders-going-3d-with-css-ikd)
+- [iFixit iPhone Air teardown](https://dev.to/technoblogger14o3/ifixit-iphone-air-teardown-1e03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
