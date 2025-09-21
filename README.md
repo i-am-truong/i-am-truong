@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Skip JSON, Use Blade: A Simpler Way to Build Dynamic Laravel UIs Without JS Frameworks](https://dev.to/raheelshan/skip-json-use-blade-a-simpler-way-to-build-dynamic-laravel-uis-without-js-frameworks-ceh)
+- [Why you should use Docker](https://dev.to/tech_girllll/why-you-should-use-docker-1im1)
+- [My Google Summer of Code Journey: Part 3](https://dev.to/thesynthax/my-google-summer-of-code-journey-part-3-44g1)
+- [Introducing SpecsheetGenie: A Tool I Built to Automate Spec Sheet Generation — Looking for Dev Feedback!](https://dev.to/bradley_burns_3b0809dc7f8/introducing-specsheetgenie-a-tool-i-built-to-automate-spec-sheet-generation-looking-for-dev-58j4)
 - [Why Java 8 Still Matters for Modern Developers](https://dev.to/shreyas-kapse/why-java-8-still-matters-for-modern-developers-3od)
-- [Database Security Patterns for Web Applications](https://dev.to/vanessamadison/database-security-patterns-for-web-applications-3gdn)
-- [From Start-up Essays to AI Side Projects: My Intro + Journey So Far](https://dev.to/uladshauchenka/from-start-up-essays-to-ai-side-projects-my-intro-journey-so-far-3in)
-- [Bringing timeout to macOS Without Installing All of GNU Coreutils](https://dev.to/maple/bringing-timeout-to-macos-without-installing-all-of-gnu-coreutils-22lj)
-- [AWS Security Best Practices for Production Applications](https://dev.to/vanessamadison/aws-security-best-practices-for-production-applications-25e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
