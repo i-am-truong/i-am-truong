@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
+- [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/qbit/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
 - [Building an AI Conversation Practice App: Part 3- From Simple Prompts to Database-Driven Dynamic AI Characters](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-3-from-simple-prompts-to-database-driven-dynamic-ai-npg)
 - [BACK TO SCHOOL!](https://dev.to/yosef_tsegaye_3e06698542b/back-to-school-1dpd)
 - [MongoDB Search Index Internals with Luke &lpar;Lucene Toolbox GUI tool&rpar;](https://dev.to/franckpachot/mongodb-search-index-internals-with-luke-lucene-toolbox-gui-tool-2842)
-- [🚀Supercharging Docusaurus with MSW: Mock APIs for Live, Interactive Docs](https://dev.to/chinmaytrpth2/supercharging-docusaurus-with-msw-mock-apis-for-live-interactive-docs-54ie)
-- [Typed, Named Endpoints for Cro &lpar;with HTMX Helpers&rpar;](https://dev.to/fco/typed-named-endpoints-for-cro-with-htmx-helpers-g9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
