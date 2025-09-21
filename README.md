@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Danganronpa 2x2 - Official Teaser Trailer](https://dev.to/gg_news/ign-danganronpa-2x2-official-teaser-trailer-2igj)
-- [Voice Search Ready: Optimizing E‑commerce Product Pages for 2025](https://dev.to/ramer2b58cbe46bc8/voice-search-ready-optimizing-e-commerce-product-pages-for-2025-55c9)
-- [Quantum Consciousness in Code: Building Systems That Observe Themselves](https://dev.to/aureus_c_b3ba7f87cc34d74d49/quantum-consciousness-in-code-building-systems-that-observe-themselves-4goj)
-- [AWS SES -&gt; Gmail using Terraform](https://dev.to/kolyaiks/aws-ses-gmail-using-terraform-1jmd)
-- [Naming convention in Python](https://dev.to/hyperkai/naming-convention-in-python-3nnd)
+- [The future of HPC C++](https://dev.to/dyfet/the-future-of-hpc-c-i2h)
+- [Tired of building web-applications](https://dev.to/undefined/tired-of-building-web-applications-1mem)
+- [🚀 Day 40 of My Data Analytics Journey !](https://dev.to/ramyacse/day-40-of-my-data-analytics-journey--5a6l)
+- [My Experience with the Perfect Bitcoin Wallet](https://dev.to/krikri2025/my-experience-with-the-perfect-bitcoin-wallet-1f6f)
+- [My private cloud in my Homelab](https://dev.to/0xjeanpierre/my-private-cloud-in-my-homelab-4em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
