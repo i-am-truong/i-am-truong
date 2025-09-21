@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning Free Users into Paying Customers &lpar;With Code-Like Thinking&rpar;](https://dev.to/soasme/turning-free-users-into-paying-customers-with-code-like-thinking-2fjb)
+- [🎉 Thank You for 4K Followers on Dev.to 🚀](https://dev.to/pjdeveloper896/thank-you-for-4k-followers-on-devto-9jj)
+- [2025 Voice AI Guide: How to Make Your Own Real-Time Voice Agent &lpar;Part-1&rpar;](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-1-45hl)
 - [Building Multi-Agent Systems for Professional Software: Lessons from BIM Automation](https://dev.to/saher_elsayed_ed9aa17af74/building-multi-agent-systems-for-professional-software-lessons-from-bim-automation-3bg9)
-- [Why People use Typing365?](https://dev.to/1hamzabek/why-people-use-typing365-2al5)
 - [AI comic strip](https://dev.to/naijhen_chen_a2f41654e89/ai-comic-strip-11ho)
-- [Laravel’s Str::mask: Elegant String Masking Made Simple](https://dev.to/apnahive/laravels-strmask-elegant-string-masking-made-simple-4jig)
-- [If We Break an Image Into Waves, Can We Truly Put It Back Together?](https://dev.to/angyokosaka/if-we-break-an-image-into-waves-can-we-truly-put-it-back-together-204c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
