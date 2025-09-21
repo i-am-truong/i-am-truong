@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Start Page Numbers from Page 3 in Microsoft Word: Step-by-Step Guide](https://dev.to/pickupbrain/how-to-start-page-numbers-from-page-3-in-microsoft-word-step-by-step-guide-ncm)
 - [Choosing the Right AWS Hosting Architecture for a Multi-Tenant React Web App: Amplify, App Runner, and EC2 with API Gateway/ALB](https://dev.to/antek8/choosing-the-right-aws-hosting-architecture-for-a-multi-tenant-react-web-app-amplify-app-runner-3ec4)
 - [The Reasons I Format Dates on the API Server](https://dev.to/kradasa4/the-reasons-i-format-dates-on-the-api-server-1eab)
-- [Como implementar um Ledger em sístemas distribuídos](https://dev.to/dvorlandi/como-implementar-um-ledger-em-sistemas-distribuidos-1kbo)
-- [Comparing RDS PostgreSQL, Athena on S3 JSON, and QuickSight for Scalable Dashboards](https://dev.to/antek8/comparing-rds-postgresql-athena-on-s3-json-and-quicksight-for-scalable-dashboards-2ceb)
-- [The Case of the Murdered Memories, or Why Your Game Design Became a Crime Scene](https://dev.to/nickkeepkind/the-case-of-the-murdered-memories-or-why-your-game-design-became-a-crime-scene-570f)
+- [How to Prepare for the ITPEC FE Exam](https://dev.to/kradasa4/how-to-prepare-for-the-itpec-fe-exam-4jbi)
+- [Embracing Creativity and Code: Insights from DEV Community](https://dev.to/callum_eggers_52b768031ae/embracing-creativity-and-code-insights-from-dev-community-2ada)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
