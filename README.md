@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker Command Sheet - My Go-To Dev Environment](https://dev.to/roydevashish/docker-command-sheet-my-go-to-dev-environment-2kpg)
-- [WebOS Day 3 at CodeHubbers](https://dev.to/dailker/webos-day-3-at-codehubbers-3fe)
-- [Mi reina](https://dev.to/fidelernesto_laracruz_6/mi-reina-pca)
-- [Flores amarillas](https://dev.to/leonardo_pereiraquispe_a/flores-amarillas-oaj)
-- [Day 54: Understanding Infrastructure as Code and Configuration Management](https://dev.to/udoh_deborah_b1e484c474bf/day-54-understanding-infrastructure-as-code-and-configuration-management-2g3i)
+- [Migrating from a Monolith to EDA on AWS](https://dev.to/aws-builders/migrating-from-a-monolith-to-eda-on-aws-4mi6)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/oliver_samuel_028c6f65ad6/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-35h)
+- [My very first hands-on epxerience with Langflow](https://dev.to/aairom/my-very-first-hands-on-epxerience-with-langflow-o33)
+- [Google Cloud Model Armor - LLMs Protection](https://dev.to/karthidec/google-cloud-model-armor-llms-protection-3mh1)
+- [IPM: empaquetando ideas, distribuyendo identidad](https://dev.to/jesusquijada34/ipm-empaquetando-ideas-distribuyendo-identidad-1bkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
