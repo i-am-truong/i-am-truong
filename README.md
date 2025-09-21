@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Linux Kernel is the Beating Heart of Technology](https://dev.to/farzandev13/why-linux-kernel-is-the-beating-heart-of-technology-1en3)
+- [Untitled](https://dev.to/abdullah_alfarsi_7688d7cc/untitled-36gm)
 - [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
 - [Coding Challenge Practice - Question 12](https://dev.to/tomivan/coding-challenge-practice-question-12-4i35)
 - [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
-- [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/qbit/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
-- [Building an AI Conversation Practice App: Part 3- From Simple Prompts to Database-Driven Dynamic AI Characters](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-3-from-simple-prompts-to-database-driven-dynamic-ai-npg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
