@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EF Core prototyping](https://dev.to/karenpayneoregon/ef-core-prototyping-1chn)
-- [Resonator_Entropy: Listening to the Noise Beneath the ESP32](https://dev.to/numbpill3d/resonatorentropy-listening-to-the-noise-beneath-the-esp32-850)
-- [From Skeptic to Superuser: How AI in My Terminal Changed Everything](https://dev.to/amrosama57/from-skeptic-to-superuser-how-ai-in-my-terminal-changed-everything-l0g)
-- [Generics and Variance with Java](https://dev.to/nestedsoftware/generics-and-variance-with-java-27a2)
-- [Demystifying Python Decorators, Part 1: The Foundational Concepts](https://dev.to/aaron_rose_0787cc8b4775a0/demystifying-python-decorators-part-1-the-foundational-concepts-4g5e)
+- [Terraform for DevOps Engineers: Complete Beginner’s Guide](https://dev.to/srinivasamcjf/terraform-for-devops-engineers-complete-beginners-guide-j86)
+- [My First GKE Experience - GKE Turns 10 Hackathon.](https://dev.to/jerrod_kim_3809262f7f2543/my-first-gke-experience-gke-turns-10-hackathon-1m9f)
+- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 4: Standalone Components, Angular Elements &amp; Micro Frontends](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-4-standalone-components-angular-elements-458g)
+- [My vscode theme based on Monokai](https://dev.to/adriantaf/my-vscode-theme-based-on-monokai-19b2)
+- [How to Render Emojis and International Text on Images with Python](https://dev.to/francozanardi/how-to-render-emojis-and-international-text-on-images-with-python-31ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
