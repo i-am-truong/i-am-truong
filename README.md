@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dishonest Dave&#39;s Dishwashers? How AI Polices Your Restaurant&#39;s Performance &lpar;Before It Costs You&rpar;](https://dev.to/griddle_ai/dishonest-daves-dishwashers-how-ai-polices-your-restaurants-performance-before-it-costs-you-21kc)
-- [The Secret Art of Writing Great Python Comments](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-art-of-writing-great-python-comments-42jh)
-- [Ethical Data Practices Every Developer Should Care About in 2025](https://dev.to/arkhan/ethical-data-practices-every-developer-should-care-about-in-2025-14lp)
-- [Untitled](https://dev.to/marco_parra_d2a065e8c49d6/untitled-4j68)
-- [🚀 Introducing Code-Tree.dev — My New Side Project!](https://dev.to/trukes/introducing-code-treedev-my-new-side-project-23e3)
+- [What is NLP? How Does it Work?](https://dev.to/priyanshukumarsinha/what-is-nlp-how-does-it-work-4gmh)
+- [What is Generative AI? A Comprehensive Beginner’s Guide](https://dev.to/priyanshukumarsinha/what-is-generative-ai-a-comprehensive-beginners-guide-37mf)
+- [Is Your Node.js App Ready for Millions of Users? Uncover Scalable Strategies for High-Traffic Succes.](https://dev.to/priyanshukumarsinha/is-your-nodejs-app-ready-for-millions-of-users-uncover-scalable-strategies-for-high-traffic-din)
+- [Database Indexing: The Hidden Key to Application Speed](https://dev.to/devtechinsights/database-indexing-the-hidden-key-to-application-speed-58ia)
+- [IGN: Unpetrified: Echoes of Nature - Official Release Date Trailer](https://dev.to/gg_news/ign-unpetrified-echoes-of-nature-official-release-date-trailer-4kob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
