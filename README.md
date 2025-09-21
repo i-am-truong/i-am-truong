@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Git: Features Every Young Professional Should Know in 2025](https://dev.to/devnotes/beyond-git-features-every-young-professional-should-know-in-2025-efb)
-- [🎯 Master the Move Zeros Algorithm:](https://dev.to/mohamad_mhana/master-the-move-zeros-algorithm-46aa)
-- [Deep Web vs Dark Web - What&#39;s Real and What&#39;s Myth?](https://dev.to/mohamed_essam_27afebce427/deep-web-vs-dark-web-whats-real-and-whats-myth-415a)
-- [5 Advanced Solidity Modifier Tricks](https://dev.to/loading_blocks/5-advanced-solidity-modifier-tricks-lbg)
-- [Designing a Scalable, Serverless Vulnerability Data Processing Pipeline on AWS](https://dev.to/antek8/designing-a-scalable-serverless-vulnerability-data-processing-pipeline-on-aws-19g1)
+- [Choosing the Right AWS Hosting Architecture for a Multi-Tenant React Web App: Amplify, App Runner, and EC2 with API Gateway/ALB](https://dev.to/antek8/choosing-the-right-aws-hosting-architecture-for-a-multi-tenant-react-web-app-amplify-app-runner-3ec4)
+- [The Reasons I Format Dates on the API Server](https://dev.to/kradasa4/the-reasons-i-format-dates-on-the-api-server-1eab)
+- [Como implementar um Ledger em sístemas distribuídos](https://dev.to/dvorlandi/como-implementar-um-ledger-em-sistemas-distribuidos-1kbo)
+- [Comparing RDS PostgreSQL, Athena on S3 JSON, and QuickSight for Scalable Dashboards](https://dev.to/antek8/comparing-rds-postgresql-athena-on-s3-json-and-quicksight-for-scalable-dashboards-2ceb)
+- [The Case of the Murdered Memories, or Why Your Game Design Became a Crime Scene](https://dev.to/nickkeepkind/the-case-of-the-murdered-memories-or-why-your-game-design-became-a-crime-scene-570f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
