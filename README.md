@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Smarter Project Models: How We Handle Complex Cashflow Calculations in Code](https://dev.to/abdul_shamim/building-smarter-project-models-how-we-handle-complex-cashflow-calculations-in-code-2nmg)
+- [Founder’s Field Guide to PR That Engineers Can Trust](https://dev.to/sonia_bobrik_1939cdddd79d/founders-field-guide-to-pr-that-engineers-can-trust-3c47)
 - [Building a Jekyll Theme with File Explorer Navigation - Perfect for Students, Researchers &amp; Hobbyists](https://dev.to/dudududukim/building-a-jekyll-theme-with-file-explorer-navigation-perfect-for-students-researchers--2n70)
 - [How to Control VIP Membership Banner Visibility in WooCommerce with Custom Code](https://dev.to/wordpress-help-code/how-to-control-vip-membership-banner-visibility-in-woocommerce-with-custom-code-7ek)
-- [Tableau Web Data Connector for FactSet: Building Smarter Financial Dashboards](https://dev.to/dipti_moryani_185c244d578/tableau-web-data-connector-for-factset-building-smarter-financial-dashboards-5431)
-- [Getting Started with Git: Understanding Version Control the Easy Way](https://dev.to/abuhorairatarif/getting-started-with-git-understanding-version-control-the-easy-way-1mef)
-- [How to Start Page Numbers from Page 3 in Microsoft Word: Step-by-Step Guide](https://dev.to/pickupbrain/how-to-start-page-numbers-from-page-3-in-microsoft-word-step-by-step-guide-ncm)
+- [How to use CSS grid-template-areas](https://dev.to/statusok/how-to-use-css-grid-template-areas-4e37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
