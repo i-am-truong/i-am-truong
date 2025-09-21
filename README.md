@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [useEffect&lpar;&rpar; detail explanation](https://dev.to/cathylai/useeffect-detail-explanation-4ocg)
 - [Why Linux Kernel is the Beating Heart of Technology](https://dev.to/farzandev13/why-linux-kernel-is-the-beating-heart-of-technology-1en3)
 - [Untitled](https://dev.to/abdullah_alfarsi_7688d7cc/untitled-36gm)
 - [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
 - [Coding Challenge Practice - Question 12](https://dev.to/tomivan/coding-challenge-practice-question-12-4i35)
-- [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
