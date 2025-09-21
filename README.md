@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Python](https://dev.to/willwritescode/getting-started-with-python-2o9f)
 - [Debugging Circuits and Code](https://dev.to/wale1202/debugging-circuits-and-code-1ac2)
 - [🎯Balancing Type I and Type II Errors in Medical Decision-Making: A Case on Diabetes Diagnosis](https://dev.to/purityngugi/balancing-type-i-and-type-ii-errors-in-medical-decision-making-a-case-on-diabetes-diagnosis-4jp2)
 - [Flor amarilla](https://dev.to/ric_aard_328614d9f82cb140/flor-amarilla-22d3)
 - [🏃‍♂️State management with Zustand!](https://dev.to/gustavoisensee/state-management-with-zustand-14h3)
-- [Beyond Borders: Navigating Data Sovereignty and the Illusion of “Local” Cloud Providers](https://dev.to/engrkhan001/beyond-borders-navigating-data-sovereignty-and-the-illusion-of-local-cloud-providers-oid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
