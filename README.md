@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/james_hoang_c601f7e9561c2/-4p2k)
+- [Things to do when bored for gamers when it is snowy](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-gamers-when-it-is-snowy-ap6)
+- [The DRY Principle for B2B Content: An Engineer&#39;s Guide to 10x-ing a Single Webinar](https://dev.to/michaelaiglobal/the-dry-principle-for-b2b-content-an-engineers-guide-to-10x-ing-a-single-webinar-6em)
 - [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
 - [Introduction to TrueReviewer: A Product Review Package for Laravel 🚀](https://dev.to/lakm/introduction-to-truereviewer-a-product-review-package-for-laravel-5cd7)
-- [Introduction au CSS &quot;utile&quot;](https://dev.to/lcsga/introduction-au-css-utile-49)
-- [Day 13 of 90 day python series....](https://dev.to/momina_raheelmoona_c59/day-13-of-90-day-python-series-648)
-- [Rust Cheat Sheet](https://dev.to/elmyrockers/rust-cheat-sheet-25i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
