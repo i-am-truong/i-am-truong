@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/eric_kahindi_cfbfda3bd0f7/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-2e55)
+- [C++ Labs: Build Calculator, Manipulate Strings, &amp; Master Class Inheritance](https://dev.to/labex/c-labs-build-calculator-manipulate-strings-master-class-inheritance-592b)
 - [RAGs for Dummies: The Game-Changing Power of RAG](https://dev.to/maureen_mukami_4268d10eac/rags-for-dummies-the-game-changing-power-of-rag-2j86)
 - [FormEngineer evolves into... AppMaker!](https://dev.to/_neronotte/formengineer-evolves-into-appmaker-10di)
 - [Things I Wish I Knew Before Getting Into Tech](https://dev.to/jackline_kaunda/things-i-wish-i-knew-before-getting-into-tech-2c6f)
-- [I used Python to Analyze Customer Payment Behavior](https://dev.to/bekbrace/i-used-python-to-analyze-customer-payment-behavior-1dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
