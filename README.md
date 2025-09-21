@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day-3: Disable SSH Root Login on Linux | 100 Days Of DevOps](https://dev.to/olymahmud/day-3-disable-ssh-root-login-on-linux-100-days-of-devops-1mkg)
-- [Day 2 of C++ Programming: Bitwise Operators &lpar;AND, Shift, NOT&rpar;](https://dev.to/asp0766/day-2-of-c-programming-bitwise-operators-and-shift-not-1m2)
-- [I Built a Modern Personal Finance Dashboard with KendoReact &amp; AI Assistant](https://dev.to/vineprkl/i-built-a-modern-personal-finance-dashboard-with-kendoreact-ai-assistant-3233)
-- [Exploring Programming Language Paradigms](https://dev.to/adrahi/exploring-programming-language-paradigms-403a)
-- [Building Aliō: How I Shipped an App with AI Tools](https://dev.to/molozhenko/building-alio-how-i-shipped-an-app-with-ai-tools-1659)
+- [Enable Bash-Style History Search and Suggestions in PowerShell](https://dev.to/jajera/enable-bash-style-history-search-and-suggestions-in-powershell-2d52)
+- [Why do we even need change-data-capture to begin with?](https://dev.to/paragparalikar/why-do-we-even-need-change-data-capture-to-begin-with-3nj9)
+- [Comparison of ZXing QR Code Generator Alternatives to IronQR](https://dev.to/mohammedibrahimlj/comparison-of-zxing-qr-code-generator-alternatives-to-ironqr-3376)
+- [Feature Engineering to Evaluate Code Quality](https://dev.to/prinewgirl/feature-engineering-to-evaluate-code-quality-4pn9)
+- [What is Monte Carlo Simulation? Learn Its Key Benefits](https://dev.to/microestimates/what-is-monte-carlo-simulation-learn-its-key-benefits-5ea3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
