@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Social Engineering: A Deep Dive into Modern Manipulation Tactics](https://dev.to/gagreatprogrammer/the-psychology-of-social-engineering-a-deep-dive-into-modern-manipulation-tactics-3bid)
-- [[Boost]](https://dev.to/amrosama57/-59di)
-- [Dokploy is such a breath of fresh air in the overcrowded cloud hosting space. perfect for small projects that don&#39;t need the scale up-front.](https://dev.to/squishy/dokploy-is-such-a-breath-of-fresh-air-in-the-overcrowded-cloud-hosting-space-perfect-for-small-26le)
-- [Python Operators: The Ultimate Guide for Beginners &amp; Beyond](https://dev.to/satyam_gupta_0d1ff2152dcc/python-operators-the-ultimate-guide-for-beginners-beyond-3eh6)
-- [System Design Interview Playbook — Clear Steps to Shine](https://dev.to/robort-gabriel/system-design-interview-playbook-clear-steps-to-shine-a2o)
+- [Indexing and Query Optimization in Laravel](https://dev.to/suruliraajan/indexing-and-query-optimization-in-laravel-52bm)
+- [🚨 Breaking News from the Tech Trenches! 🚨](https://dev.to/shanbasu/breaking-news-from-the-tech-trenches-302p)
+- [🚀 Level Up Your Laravel Skills with Custom Validation Rules!](https://dev.to/devtalk94/level-up-your-laravel-skills-with-custom-validation-rules-2k7)
+- [Learn python website](https://dev.to/thib_magic/learn-python-website-3pf9)
+- [Unleashing the Power of AI: Exploring Text Summarization Tools](https://dev.to/vjnvisakh/unleashing-the-power-of-ai-exploring-text-summarization-tools-1h0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
