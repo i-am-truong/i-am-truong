@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
+- [Introduction to TrueReviewer: A Product Review Package for Laravel 🚀](https://dev.to/lakm/introduction-to-truereviewer-a-product-review-package-for-laravel-5cd7)
+- [Introduction au CSS &quot;utile&quot;](https://dev.to/lcsga/introduction-au-css-utile-49)
+- [Day 13 of 90 day python series....](https://dev.to/momina_raheelmoona_c59/day-13-of-90-day-python-series-648)
 - [Rust Cheat Sheet](https://dev.to/elmyrockers/rust-cheat-sheet-25i1)
-- [Chat with OpenAI: SME Fast AI Assistant](https://dev.to/iamisaackn/chat-with-openai-sme-fast-ai-assistant-4ddb)
-- [Is Your Fridge About to Order Groceries for You? Demystifying the Metaverse&#39;s Lesser-Known Cousin: the Internet of Things &lpar;IoT&rpar;](https://dev.to/karthik_n/is-your-fridge-about-to-order-groceries-for-you-demystifying-the-metaverses-lesser-known-cousin-1h8k)
-- [🏁ASPICE Literacy: Episode 5 — From Paper to Practice: Evidence, Work Products, and the Art of “Show, Don’t Tell” 📂➡️🛠️](https://dev.to/abdulosman/aspice-literacy-episode-5-from-paper-to-practice-evidence-work-products-and-the-art-of-4dl0)
-- [Visual Recognition with Pygame](https://dev.to/vihanga_anuththara_0a402f/visual-recognition-with-pygame-2ao2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
