@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Blogging, Start Architecting: How to Build a B2B Content Hub That Generates Leads](https://dev.to/michaelaiglobal/stop-blogging-start-architecting-how-to-build-a-b2b-content-hub-that-generates-leads-2k07)
-- [REST API and Common HTTP Methods](https://dev.to/arunagri82/rest-api-and-common-http-methods-1i2l)
-- [Why Debugging in Production Isn&#39;t Always a Bad Thing](https://dev.to/brook_051cd08713006b/why-debugging-in-production-isnt-always-a-bad-thing-483p)
-- [Things to do when bored for artists in a small apartment](https://dev.to/trang_khanh_1a4456cf74e34/things-to-do-when-bored-for-artists-in-a-small-apartment-515c)
-- [Things to do when bored for parents when you are playing an instrument](https://dev.to/khoa_hanh_4ea7a77cb4d26f5/things-to-do-when-bored-for-parents-when-you-are-playing-an-instrument-37mi)
+- [Got 678 users for my B2C SaaS in a month. When did you start charging for your SaaS?](https://dev.to/sisyph_4434/got-678-users-for-my-b2c-saas-in-a-month-when-did-you-start-charging-for-your-saas-38bn)
+- [A toutes les tours 20 de France](https://dev.to/s44d/a-toutes-les-tours-20-de-france-3n3e)
+- [훅 인터페이스 개선 및 프로덕션 에러 롤백시킨 경험](https://dev.to/algoorgoal/hug-inteopeiseu-gaeseon-mic-peurodeogsyeon-ereo-rolbaegsikin-gyeongheom-189j)
+- [Running Human-in-the-Loop Evals for AI Applications](https://dev.to/kuldeep_paul/running-human-in-the-loop-evals-for-ai-applications-16hd)
+- [A no-login time tracker that calculates earnings live &lpar;browser-only&rpar;](https://dev.to/ro_lax/a-no-login-time-tracker-that-calculates-earnings-live-browser-only-16bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
