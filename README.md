@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Publishers Sue Google, OpenAI Escapes Microsoft](https://dev.to/techsparklive/publishers-sue-google-openai-escapes-microsoft-1b1c)
+- [What is Model Context Protocol &lpar;MCP&rpar; and Why Everyone is Talking About It](https://dev.to/jefreesujit/what-is-model-context-protocol-mcp-and-why-everyone-is-talking-about-it-3nco)
+- [Part-73: To Implement a Regional Internal Load balancer with HTTP in GCP Cloud](https://dev.to/latchudevops/part-73-to-implement-a-regional-internal-load-balancer-with-http-in-gcp-cloud-4nf0)
 - [A Serverless Todo App on AWS with Terraform and GitHub Actions](https://dev.to/hasan_ashab/a-serverless-todo-app-on-aws-with-terraform-and-github-actions-mo9)
 - [3 Reasons You&#39;re in Tech Post-Layoff Shock &lpar;Based on personal experience&rpar;](https://dev.to/mlimonczenko/3-reasons-youre-in-tech-post-layoff-shock-based-on-personal-experience-2mpj)
-- [Part-72: To Create a Zonal MIG&#39;s and Implement a Regional External Load balancer in GCP Cloud](https://dev.to/latchudevops/part-72-to-create-a-zonal-migs-and-implement-a-regional-external-load-balancer-in-gcp-cloud-5g0b)
-- [A Practical React Project Structure You Can Reuse](https://dev.to/fanebytes/a-practical-react-project-structure-you-can-reuse-332e)
-- [What Is the Difference Between Fail-Safe and Fail-Fast Iterators?](https://dev.to/realnamehidden1_61/what-is-the-difference-between-fail-safe-and-fail-fast-iterators-15he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
