@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Junior to Pro: Mastering Code Design with S.O.L.I.D.](https://dev.to/umangmittal/from-junior-to-pro-mastering-code-design-with-solid-4nhh)
+- [Part-74: Implement a Regional External Network Load balancer with TCP Proxy in GCP Cloud](https://dev.to/latchudevops/part-74-implement-a-regional-external-network-load-balancer-with-tcp-proxy-in-gcp-cloud-5a5k)
+- [🚀 My Event at GTU: Learning About GenAI, Vector Databases, RAG &amp; MCP with AWS](https://dev.to/dhavalmojidra/my-event-at-gtu-learning-about-genai-vector-databases-rag-mcp-with-aws-4e99)
 - [Building an AI Conversation Practice App: Part 2 - Backend Speech-to-Text Processing with OpenAI Whisper](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-2-backend-speech-to-text-processing-with-openai-40mj)
 - [Publishers Sue Google, OpenAI Escapes Microsoft](https://dev.to/techsparklive/publishers-sue-google-openai-escapes-microsoft-1b1c)
-- [What is Model Context Protocol &lpar;MCP&rpar; and Why Everyone is Talking About It](https://dev.to/jefreesujit/what-is-model-context-protocol-mcp-and-why-everyone-is-talking-about-it-3nco)
-- [Part-73: To Implement a Regional Internal Load balancer with HTTP in GCP Cloud](https://dev.to/latchudevops/part-73-to-implement-a-regional-internal-load-balancer-with-http-in-gcp-cloud-4nf0)
-- [Memilih Database SQL, NoSQL, In-Memory, dan Analitik Sesuai Use Case](https://dev.to/naandan/memilih-database-sql-nosql-in-memory-dan-analitik-sesuai-use-case-45a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
