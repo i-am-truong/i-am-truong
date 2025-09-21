@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bringing timeout to macOS Without Installing All of GNU Coreutils](https://dev.to/maple/bringing-timeout-to-macos-without-installing-all-of-gnu-coreutils-22lj)
+- [AWS Security Best Practices for Production Applications](https://dev.to/vanessamadison/aws-security-best-practices-for-production-applications-25e9)
+- [[React x Supabase] Renewing a learning record app with TypeScript and ChakraUI](https://dev.to/kazutora_hattori_66972c88/react-x-supabase-renewing-a-learning-record-app-with-typescript-and-chakraui-5f0n)
+- [Mastering the Builder Pattern in TypeScript: A Complete Guide](https://dev.to/shahjalalbu/mastering-the-builder-pattern-in-typescript-a-complete-guide-2inl)
 - [Implementing Zero-Trust Architecture in Node.js Applications](https://dev.to/vanessamadison/implementing-zero-trust-architecture-in-nodejs-applications-5be9)
-- [React Security Patterns Every Developer Should Know](https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep)
-- [State Management in Vanilla JS](https://dev.to/godofgeeks/state-management-in-vanilla-js-51dg)
-- [HomeBrew command Note](https://dev.to/chenchih/homebrew-command-note-g3p)
-- [From Spreadsheet to Inbox: Automated Lead Emails Made Easy with n8n](https://dev.to/sabbschow/from-spreadsheet-to-inbox-automated-lead-emails-made-easy-with-n8n-2ffm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
