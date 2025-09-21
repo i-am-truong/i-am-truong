@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is NLP? How Does it Work?](https://dev.to/priyanshukumarsinha/what-is-nlp-how-does-it-work-4gmh)
-- [What is Generative AI? A Comprehensive Beginner’s Guide](https://dev.to/priyanshukumarsinha/what-is-generative-ai-a-comprehensive-beginners-guide-37mf)
-- [Is Your Node.js App Ready for Millions of Users? Uncover Scalable Strategies for High-Traffic Succes.](https://dev.to/priyanshukumarsinha/is-your-nodejs-app-ready-for-millions-of-users-uncover-scalable-strategies-for-high-traffic-din)
-- [Database Indexing: The Hidden Key to Application Speed](https://dev.to/devtechinsights/database-indexing-the-hidden-key-to-application-speed-58ia)
-- [IGN: Unpetrified: Echoes of Nature - Official Release Date Trailer](https://dev.to/gg_news/ign-unpetrified-echoes-of-nature-official-release-date-trailer-4kob)
+- [Building Production-Ready AWS Three-Tier Architecture with Terraform and GitOps](https://dev.to/rmendoza/building-production-ready-aws-three-tier-architecture-with-terraform-and-gitops-1kfn)
+- [What is Elastic Fabric Adapter EFA &lpar;Tightly-Coupled HPC&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/what-is-elastic-fabric-adapter-efa-tightly-coupled-hpc-c4o)
+- [Automating CAPA Report Generation from Images Using n8n 🤖📸](https://dev.to/sagar_jariwala_30fafe8395/automating-capa-report-generation-from-images-using-n8n-43d1)
+- [Route 53 vs CloudFront](https://dev.to/wakeup_flower_8591a6cb6a9/route-53-vs-cloudfront-140)
+- [🎾 Tennis Analytics in R: Exploring Match Statistics with Data](https://dev.to/r_programming_7ba4c57b285/tennis-analytics-in-r-exploring-match-statistics-with-data-1hhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
