@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Big O Notation: Examples](https://dev.to/talaamm/big-o-notation-examples-4ej)
 - [Building Production-Ready AWS Three-Tier Architecture with Terraform and GitOps](https://dev.to/rmendoza/building-production-ready-aws-three-tier-architecture-with-terraform-and-gitops-1kfn)
 - [What is Elastic Fabric Adapter EFA &lpar;Tightly-Coupled HPC&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/what-is-elastic-fabric-adapter-efa-tightly-coupled-hpc-c4o)
 - [Automating CAPA Report Generation from Images Using n8n 🤖📸](https://dev.to/sagar_jariwala_30fafe8395/automating-capa-report-generation-from-images-using-n8n-43d1)
 - [Route 53 vs CloudFront](https://dev.to/wakeup_flower_8591a6cb6a9/route-53-vs-cloudfront-140)
-- [🎾 Tennis Analytics in R: Exploring Match Statistics with Data](https://dev.to/r_programming_7ba4c57b285/tennis-analytics-in-r-exploring-match-statistics-with-data-1hhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
