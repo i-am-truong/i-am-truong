@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The future of HPC C++](https://dev.to/dyfet/the-future-of-hpc-c-i2h)
-- [Tired of building web-applications](https://dev.to/undefined/tired-of-building-web-applications-1mem)
-- [🚀 Day 40 of My Data Analytics Journey !](https://dev.to/ramyacse/day-40-of-my-data-analytics-journey--5a6l)
-- [My Experience with the Perfect Bitcoin Wallet](https://dev.to/krikri2025/my-experience-with-the-perfect-bitcoin-wallet-1f6f)
-- [My private cloud in my Homelab](https://dev.to/0xjeanpierre/my-private-cloud-in-my-homelab-4em)
+- [What Does being a Human mean and why?](https://dev.to/francis_galarza_3f4d79a87/what-does-being-a-human-mean-and-why-2ni)
+- [LetsCloud anuncia segunda expansão em Fortaleza e é destaque no iMasters](https://dev.to/letscloud/letscloud-anuncia-segunda-expansao-em-fortaleza-e-e-destaque-no-imasters-1a40)
+- [The future of HPC is C++](https://dev.to/dyfet/the-future-of-hpc-c-i2h)
+- [#CProgramming #C #CPP #CodingJourney #LearningInPublic](https://dev.to/asp0766/cprogramming-c-cpp-codingjourney-learninginpublic-31k8)
+- [#CProgramming #C #CPP #CodingJourney #LearningInPublic #ProgrammersLife](https://dev.to/asp0766/cprogramming-c-cpp-codingjourney-learninginpublic-programmerslife-pi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
