@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I used Python to Analyze Customer Payment Behavior](https://dev.to/bekbrace/i-used-python-to-analyze-customer-payment-behavior-1dh)
+- [Flores amarillas](https://dev.to/engfa_waraha_919922b38d79/flores-amarillas-jpj)
+- [Comparison DSLR vs Mirrorless Camera Which is Best UAE](https://dev.to/growjournal/comparison-dslr-vs-mirrorless-camera-which-is-best-uae-4ipm)
+- [Laravel MCP Beta: The Brain Behind Your Backend](https://dev.to/apnahive/laravel-mcp-beta-the-brain-behind-your-backend-414o)
 - [I build &lpar;not really, Google AI studio did&rpar; an app to track babies sleep](https://dev.to/giovannimazzuoccolo/i-build-not-really-google-ai-studio-did-an-app-to-track-babies-sleep-56cp)
-- [🤖 From Machine Learning to AI Chatbots: The Complete Beginner’s Guide](https://dev.to/ahmed_kadiwala/from-machine-learning-to-ai-chatbots-the-complete-beginners-guide-45e1)
-- [🔥 Stop Wasting Time! Build FAST &amp; SECURE Backends with Deno 2.0 — A Game-Changer for Web Devs](https://dev.to/ekwoster/stop-wasting-time-build-fast-secure-backends-with-deno-20-a-game-changer-for-web-devs-227p)
-- [Bat-KV: Lightweight Key-Value Store for Windows Batch](https://dev.to/water_run_305f6dfd401fdaf/bat-kv-lightweight-key-value-store-for-windows-batch-5f2f)
-- [Building Next-Gen MVNO Platforms: From Legacy BSS to API-Driven Telecom](https://dev.to/abdul_shamim/building-next-gen-mvno-platforms-from-legacy-bss-to-api-driven-telecom-4bfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
