@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Four Disaster Recovery &lpar;DR&rpar; strategies in AWS explained](https://dev.to/wakeup_flower_8591a6cb6a9/four-disaster-recovery-dr-strategies-in-aws-explained-22ph)
-- [Getting Started with Python](https://dev.to/willwritescode/getting-started-with-python-2o9f)
-- [The Modern Developer Blog Revolution: Why WordPress is Dead and Static is King](https://dev.to/thedanielmark/the-modern-developer-blog-revolution-why-wordpress-is-dead-and-static-is-king-4pop)
-- [Debugging Circuits and Code](https://dev.to/wale1202/debugging-circuits-and-code-1ac2)
-- [🎯Balancing Type I and Type II Errors in Medical Decision-Making: A Case on Diabetes Diagnosis](https://dev.to/purityngugi/balancing-type-i-and-type-ii-errors-in-medical-decision-making-a-case-on-diabetes-diagnosis-4jp2)
+- [🚀Supercharging Docusaurus with MSW: Mock APIs for Live, Interactive Docs](https://dev.to/chinmaytrpth2/supercharging-docusaurus-with-msw-mock-apis-for-live-interactive-docs-54ie)
+- [Typed, Named Endpoints for Cro &lpar;with HTMX Helpers&rpar;](https://dev.to/fco/typed-named-endpoints-for-cro-with-htmx-helpers-g9j)
+- [🔐 Fine-Grained Role Control for Logic App Standard Workflows with APIM + Easy Auth](https://dev.to/imdj/fine-grained-role-control-for-logic-app-standard-workflows-with-apim-easy-auth-32ni)
+- [Rick Beato: Major Announcement!](https://dev.to/music_youtube/rick-beato-major-announcement-4d9c)
+- [Resourcing Plan: Aligning People and Resources for Project Success](https://dev.to/writegenic/resourcing-plan-aligning-people-and-resources-for-project-success-1k9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
