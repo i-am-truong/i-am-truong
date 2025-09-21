@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to the Ideal Operating System: From Ubuntu to Manjaro](https://dev.to/krikri2025/my-journey-to-the-ideal-operating-system-from-ubuntu-to-manjaro-1pej)
-- [What Does being a Human mean and why?](https://dev.to/francis_galarza_3f4d79a87/what-does-being-a-human-mean-and-why-2ni)
-- [LetsCloud anuncia segunda expansão em Fortaleza e é destaque no iMasters](https://dev.to/letscloud/letscloud-anuncia-segunda-expansao-em-fortaleza-e-e-destaque-no-imasters-1a40)
-- [#CProgramming #C #CPP #CodingJourney #LearningInPublic](https://dev.to/asp0766/cprogramming-c-cpp-codingjourney-learninginpublic-31k8)
-- [#CProgramming #C #CPP #CodingJourney #LearningInPublic #ProgrammersLife](https://dev.to/asp0766/cprogramming-c-cpp-codingjourney-learninginpublic-programmerslife-pi5)
+- [Building Multi-Agent Systems for Professional Software: Lessons from BIM Automation](https://dev.to/saher_elsayed_ed9aa17af74/building-multi-agent-systems-for-professional-software-lessons-from-bim-automation-3bg9)
+- [Why People use Typing365?](https://dev.to/1hamzabek/why-people-use-typing365-2al5)
+- [AI comic strip](https://dev.to/naijhen_chen_a2f41654e89/ai-comic-strip-11ho)
+- [Laravel’s Str::mask: Elegant String Masking Made Simple](https://dev.to/apnahive/laravels-strmask-elegant-string-masking-made-simple-4jig)
+- [If We Break an Image Into Waves, Can We Truly Put It Back Together?](https://dev.to/angyokosaka/if-we-break-an-image-into-waves-can-we-truly-put-it-back-together-204c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
