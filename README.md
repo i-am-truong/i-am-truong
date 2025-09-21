@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/eric_kahindi_cfbfda3bd0f7/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-2e55)
-- [C++ Labs: Build Calculator, Manipulate Strings, &amp; Master Class Inheritance](https://dev.to/labex/c-labs-build-calculator-manipulate-strings-master-class-inheritance-592b)
-- [RAGs for Dummies: The Game-Changing Power of RAG](https://dev.to/maureen_mukami_4268d10eac/rags-for-dummies-the-game-changing-power-of-rag-2j86)
-- [FormEngineer evolves into... AppMaker!](https://dev.to/_neronotte/formengineer-evolves-into-appmaker-10di)
-- [Things I Wish I Knew Before Getting Into Tech](https://dev.to/jackline_kaunda/things-i-wish-i-knew-before-getting-into-tech-2c6f)
+- [Overcoming the Drawbacks of Official Flutter JSON Serialization with json_entity](https://dev.to/thanh_tngphm_6c0c8c78d/overcoming-the-drawbacks-of-official-flutter-json-serialization-with-jsonentity-b0p)
+- [Turning PostgreSQL into a Robust Queue for Go Applications](https://dev.to/shrsv/turning-postgresql-into-a-robust-queue-for-go-applications-1hob)
+- [Optimizing PostgreSQL Queries: From 820 ms to 120 ms with Indexing](https://dev.to/sai_anirudvarmauppalapa/optimizing-postgresql-queries-from-820-ms-to-120-ms-with-indexing-6ic)
+- [Improvement Ideas](https://dev.to/shanmeiremote/improvement-ideas-lfe)
+- [Java Language Architect Brian Goetz on How Java Could Evolve](https://dev.to/davidcassel/java-language-architect-brian-goetz-on-how-java-could-evolve-351k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
