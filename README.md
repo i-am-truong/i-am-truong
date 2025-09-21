@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Skip JSON, Use Blade: A Simpler Way to Build Dynamic Laravel UIs Without JS Frameworks](https://dev.to/raheelshan/skip-json-use-blade-a-simpler-way-to-build-dynamic-laravel-uis-without-js-frameworks-ceh)
-- [Why you should use Docker](https://dev.to/tech_girllll/why-you-should-use-docker-1im1)
-- [My Google Summer of Code Journey: Part 3](https://dev.to/thesynthax/my-google-summer-of-code-journey-part-3-44g1)
-- [Introducing SpecsheetGenie: A Tool I Built to Automate Spec Sheet Generation — Looking for Dev Feedback!](https://dev.to/bradley_burns_3b0809dc7f8/introducing-specsheetgenie-a-tool-i-built-to-automate-spec-sheet-generation-looking-for-dev-58j4)
-- [Why Java 8 Still Matters for Modern Developers](https://dev.to/shreyas-kapse/why-java-8-still-matters-for-modern-developers-3od)
+- [I Built a Modern Personal Finance Dashboard with KendoReact &amp; AI Assistant](https://dev.to/vineprkl/i-built-a-modern-personal-finance-dashboard-with-kendoreact-ai-assistant-3233)
+- [Exploring Programming Language Paradigms](https://dev.to/adrahi/exploring-programming-language-paradigms-403a)
+- [Building Aliō: How I Shipped an App with AI Tools](https://dev.to/molozhenko/building-alio-how-i-shipped-an-app-with-ai-tools-1659)
+- [Return;](https://dev.to/fern_d3v/return-l27)
+- [Return;](https://dev.to/fern_d3v/return-57mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
