@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flores amarillas](https://dev.to/colecciom_repart_782646de/flores-amarillas-3mmg)
-- [Master tmux Like a Pro: Boost Your Terminal Workflow 🚀](https://dev.to/masoomjethwa/master-tmux-like-a-pro-boost-your-terminal-workflow-5a4a)
-- [Setting Up a Scalable JupyterHub Classroom on Debian 12 LTS with DockerSpawner](https://dev.to/masoomjethwa/setting-up-a-scalable-jupyterhub-classroom-on-debian-12-lts-with-dockerspawner-2k9f)
-- [Modulax Launch Blueprint: Building with Purpose from Day One](https://dev.to/modulaxorg/modulax-launch-blueprint-building-with-purpose-from-day-one-ko1)
-- [Why Node.js Keeps Winning: The Backend Beast Everyone Loves to Hire](https://dev.to/m-a-h-b-u-b/why-nodejs-keeps-winning-the-backend-beast-everyone-loves-to-hire-3cip)
+- [Implementing Zero-Trust Architecture in Node.js Applications](https://dev.to/vanessamadison/implementing-zero-trust-architecture-in-nodejs-applications-5be9)
+- [React Security Patterns Every Developer Should Know](https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep)
+- [State Management in Vanilla JS](https://dev.to/godofgeeks/state-management-in-vanilla-js-51dg)
+- [HomeBrew command Note](https://dev.to/chenchih/homebrew-command-note-g3p)
+- [From Spreadsheet to Inbox: Automated Lead Emails Made Easy with n8n](https://dev.to/sabbschow/from-spreadsheet-to-inbox-automated-lead-emails-made-easy-with-n8n-2ffm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
