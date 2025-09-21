@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Introducing Code-Tree.dev — My New Side Project!](https://dev.to/trukes/introducing-code-treedev-my-new-side-project-23e3)
 - [Clean Design, Strong Client: The way of the Elasticsearch&#39;s Java SDK](https://dev.to/stefanofago73/clean-design-strong-client-the-way-of-the-elasticsearchs-java-sdk-14nn)
 - [7 Tips for Hardening Nginx and Linux Servers in Environments](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-and-linux-servers-in-environments-33j)
 - [You don’t need NPM to ship fully-featured apps.](https://dev.to/derstruct/you-dont-need-npm-to-ship-fully-featured-apps-17ak)
 - [Big O Notation pt.1: Time Complexity](https://dev.to/talaamm/big-o-notation-pt1-time-complexity-3676)
-- [Geeks for Geeks MERN Full Stack Web Development course](https://dev.to/harsh_jain_db0c27cf5e18ff/geeks-for-geeks-mern-full-stack-web-development-course-cd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
