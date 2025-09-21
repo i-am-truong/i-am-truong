@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Big O Notation: Examples](https://dev.to/talaamm/big-o-notation-examples-4ej)
-- [Building Production-Ready AWS Three-Tier Architecture with Terraform and GitOps](https://dev.to/rmendoza/building-production-ready-aws-three-tier-architecture-with-terraform-and-gitops-1kfn)
-- [What is Elastic Fabric Adapter EFA &lpar;Tightly-Coupled HPC&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/what-is-elastic-fabric-adapter-efa-tightly-coupled-hpc-c4o)
-- [Automating CAPA Report Generation from Images Using n8n 🤖📸](https://dev.to/sagar_jariwala_30fafe8395/automating-capa-report-generation-from-images-using-n8n-43d1)
-- [Route 53 vs CloudFront](https://dev.to/wakeup_flower_8591a6cb6a9/route-53-vs-cloudfront-140)
+- [Debugging Circuits and Code](https://dev.to/wale1202/debugging-circuits-and-code-1ac2)
+- [🏃‍♂️State management with Zustand!](https://dev.to/gustavoisensee/state-management-with-zustand-14h3)
+- [Beyond Borders: Navigating Data Sovereignty and the Illusion of “Local” Cloud Providers](https://dev.to/engrkhan001/beyond-borders-navigating-data-sovereignty-and-the-illusion-of-local-cloud-providers-oid)
+- [Show HN: AI-Powered Email Verification API with ML Risk Scoring + 50% Off for RapidAPI Users](https://dev.to/rehaanhassan/show-hn-ai-powered-email-verification-api-with-ml-risk-scoring-50-off-for-rapidapi-users-4p6f)
+- [LeetCode 8: String to Integer &lpar;atoi&rpar; - Medium](https://dev.to/grantdotdev/leetcode-8-string-to-integer-atoi-medium-33om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
