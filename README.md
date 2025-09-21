@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [System Design Interview Playbook — Clear Steps to Shine](https://dev.to/robort-gabriel/system-design-interview-playbook-clear-steps-to-shine-a2o)
+- [Outil de Cybersécurité du Jour - Sep 21, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-21-2025-3a32)
 - [ETL: The Unsung Hero of Data-Driven Decisions](https://dev.to/leonardkachi/etl-the-unsung-hero-of-data-driven-decisions-igc)
 - [Unleashing the Power of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-2n3d)
 - [Enable Bash-Style History Search and Suggestions in PowerShell](https://dev.to/jajera/enable-bash-style-history-search-and-suggestions-in-powershell-2d52)
-- [Why do we even need change-data-capture to begin with?](https://dev.to/paragparalikar/why-do-we-even-need-change-data-capture-to-begin-with-3nj9)
-- [Comparison of ZXing QR Code Generator Alternatives to IronQR](https://dev.to/mohammedibrahimlj/comparison-of-zxing-qr-code-generator-alternatives-to-ironqr-3376)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
