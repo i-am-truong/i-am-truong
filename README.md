@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Smarter Project Models: How We Handle Complex Cashflow Calculations in Code](https://dev.to/abdul_shamim/building-smarter-project-models-how-we-handle-complex-cashflow-calculations-in-code-2nmg)
-- [Founder’s Field Guide to PR That Engineers Can Trust](https://dev.to/sonia_bobrik_1939cdddd79d/founders-field-guide-to-pr-that-engineers-can-trust-3c47)
-- [Building a Jekyll Theme with File Explorer Navigation - Perfect for Students, Researchers &amp; Hobbyists](https://dev.to/dudududukim/building-a-jekyll-theme-with-file-explorer-navigation-perfect-for-students-researchers--2n70)
-- [How to Control VIP Membership Banner Visibility in WooCommerce with Custom Code](https://dev.to/wordpress-help-code/how-to-control-vip-membership-banner-visibility-in-woocommerce-with-custom-code-7ek)
-- [How to use CSS grid-template-areas](https://dev.to/statusok/how-to-use-css-grid-template-areas-4e37)
+- [Bat-KV: Lightweight Key-Value Store for Windows Batch](https://dev.to/water_run_305f6dfd401fdaf/bat-kv-lightweight-key-value-store-for-windows-batch-5f2f)
+- [Building Next-Gen MVNO Platforms: From Legacy BSS to API-Driven Telecom](https://dev.to/abdul_shamim/building-next-gen-mvno-platforms-from-legacy-bss-to-api-driven-telecom-4bfb)
+- [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-4l3m)
+- [What is an internal Developer Platforms?](https://dev.to/e77/what-is-an-internal-developer-platforms-17o9)
+- [3D Printing Nerd: New career in 3D Printing unlocked!](https://dev.to/maker_youtube/3d-printing-nerd-new-career-in-3d-printing-unlocked-56l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
