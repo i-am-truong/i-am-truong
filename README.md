@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Got 678 users for my B2C SaaS in a month. When did you start charging for your SaaS?](https://dev.to/sisyph_4434/got-678-users-for-my-b2c-saas-in-a-month-when-did-you-start-charging-for-your-saas-38bn)
-- [A toutes les tours 20 de France](https://dev.to/s44d/a-toutes-les-tours-20-de-france-3n3e)
-- [훅 인터페이스 개선 및 프로덕션 에러 롤백시킨 경험](https://dev.to/algoorgoal/hug-inteopeiseu-gaeseon-mic-peurodeogsyeon-ereo-rolbaegsikin-gyeongheom-189j)
-- [Running Human-in-the-Loop Evals for AI Applications](https://dev.to/kuldeep_paul/running-human-in-the-loop-evals-for-ai-applications-16hd)
-- [A no-login time tracker that calculates earnings live &lpar;browser-only&rpar;](https://dev.to/ro_lax/a-no-login-time-tracker-that-calculates-earnings-live-browser-only-16bo)
+- [Hello Community! A Self-Taught Developer and Volunteer Here to Connect](https://dev.to/george-hernz/hello-community-a-self-taught-developer-and-volunteer-here-to-connect-31jk)
+- [How to Generate sitemap.xml in Next.js for Better SEO](https://dev.to/bdhamithkumara/how-to-generate-sitemapxml-in-nextjs-for-better-seo-52i3)
+- [Seu Sistema Está Pronto pro Pico ou Vai Abandonar o Usuário Quando Mais Precisar?](https://dev.to/ed-wantuil/seu-sistema-esta-pronto-pro-pico-ou-vai-abandonar-o-usuario-quando-mais-precisar-4ogb)
+- [Stop Property Drilling in FastAPI: Use Request-Level Globals](https://dev.to/kuba_szw/stop-property-drilling-in-fastapi-use-request-level-globals-3mjh)
+- [Software Engineer](https://dev.to/scimax/software-engineer-2boa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
