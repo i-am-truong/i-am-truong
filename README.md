@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dishonest Dave&#39;s Dishwashers? How AI Polices Your Restaurant&#39;s Performance &lpar;Before It Costs You&rpar;](https://dev.to/griddle_ai/dishonest-daves-dishwashers-how-ai-polices-your-restaurants-performance-before-it-costs-you-21kc)
+- [The Secret Art of Writing Great Python Comments](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-art-of-writing-great-python-comments-42jh)
+- [Ethical Data Practices Every Developer Should Care About in 2025](https://dev.to/arkhan/ethical-data-practices-every-developer-should-care-about-in-2025-14lp)
+- [Untitled](https://dev.to/marco_parra_d2a065e8c49d6/untitled-4j68)
 - [🚀 Introducing Code-Tree.dev — My New Side Project!](https://dev.to/trukes/introducing-code-treedev-my-new-side-project-23e3)
-- [Clean Design, Strong Client: The way of the Elasticsearch&#39;s Java SDK](https://dev.to/stefanofago73/clean-design-strong-client-the-way-of-the-elasticsearchs-java-sdk-14nn)
-- [7 Tips for Hardening Nginx and Linux Servers in Environments](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-and-linux-servers-in-environments-33j)
-- [You don’t need NPM to ship fully-featured apps.](https://dev.to/derstruct/you-dont-need-npm-to-ship-fully-featured-apps-17ak)
-- [Big O Notation pt.1: Time Complexity](https://dev.to/talaamm/big-o-notation-pt1-time-complexity-3676)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
