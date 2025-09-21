@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Git: Features Every Young Professional Should Know in 2025](https://dev.to/devnotes/beyond-git-features-every-young-professional-should-know-in-2025-efb)
+- [🎯 Master the Move Zeros Algorithm:](https://dev.to/mohamad_mhana/master-the-move-zeros-algorithm-46aa)
+- [Deep Web vs Dark Web - What&#39;s Real and What&#39;s Myth?](https://dev.to/mohamed_essam_27afebce427/deep-web-vs-dark-web-whats-real-and-whats-myth-415a)
+- [5 Advanced Solidity Modifier Tricks](https://dev.to/loading_blocks/5-advanced-solidity-modifier-tricks-lbg)
 - [Designing a Scalable, Serverless Vulnerability Data Processing Pipeline on AWS](https://dev.to/antek8/designing-a-scalable-serverless-vulnerability-data-processing-pipeline-on-aws-19g1)
-- [📰 Major Tech News: September 21, 2025](https://dev.to/om_shree_0709/major-tech-news-september-21-2025-21m0)
-- [Applying Domain-Driven Design to Problem Design and Project Management](https://dev.to/kradasa4/applying-domain-driven-design-to-problem-design-and-project-management-bf7)
-- [JavaScript Advanced Series &lpar;Part 2&rpar;: Event Loop Explained](https://dev.to/jackm_345442a09fb53b/javascript-advanced-series-part-2-event-loop-explained-5165)
-- [💡 Ideias de SaaS Baseadas nas Tendências: ec vitória x fluminense, ceará sc x bahia, palmeiras e fortaleza](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-ec-vitoria-x-fluminense-ceara-sc-x-bahia-palmeiras-e-18ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
