@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from a Monolith to EDA on AWS](https://dev.to/aws-builders/migrating-from-a-monolith-to-eda-on-aws-4mi6)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/oliver_samuel_028c6f65ad6/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-35h)
-- [My very first hands-on epxerience with Langflow](https://dev.to/aairom/my-very-first-hands-on-epxerience-with-langflow-o33)
-- [Google Cloud Model Armor - LLMs Protection](https://dev.to/karthidec/google-cloud-model-armor-llms-protection-3mh1)
-- [IPM: empaquetando ideas, distribuyendo identidad](https://dev.to/jesusquijada34/ipm-empaquetando-ideas-distribuyendo-identidad-1bkj)
+- [Designing a Scalable, Serverless Vulnerability Data Processing Pipeline on AWS](https://dev.to/antek8/designing-a-scalable-serverless-vulnerability-data-processing-pipeline-on-aws-19g1)
+- [📰 Major Tech News: September 21, 2025](https://dev.to/om_shree_0709/major-tech-news-september-21-2025-21m0)
+- [Applying Domain-Driven Design to Problem Design and Project Management](https://dev.to/kradasa4/applying-domain-driven-design-to-problem-design-and-project-management-bf7)
+- [JavaScript Advanced Series &lpar;Part 2&rpar;: Event Loop Explained](https://dev.to/jackm_345442a09fb53b/javascript-advanced-series-part-2-event-loop-explained-5165)
+- [💡 Ideias de SaaS Baseadas nas Tendências: ec vitória x fluminense, ceará sc x bahia, palmeiras e fortaleza](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-ec-vitoria-x-fluminense-ceara-sc-x-bahia-palmeiras-e-18ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
