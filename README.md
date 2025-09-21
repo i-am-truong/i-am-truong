@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Java 8 Still Matters for Modern Developers](https://dev.to/shreyas-kapse/why-java-8-still-matters-for-modern-developers-3od)
+- [Database Security Patterns for Web Applications](https://dev.to/vanessamadison/database-security-patterns-for-web-applications-3gdn)
+- [From Start-up Essays to AI Side Projects: My Intro + Journey So Far](https://dev.to/uladshauchenka/from-start-up-essays-to-ai-side-projects-my-intro-journey-so-far-3in)
 - [Bringing timeout to macOS Without Installing All of GNU Coreutils](https://dev.to/maple/bringing-timeout-to-macos-without-installing-all-of-gnu-coreutils-22lj)
 - [AWS Security Best Practices for Production Applications](https://dev.to/vanessamadison/aws-security-best-practices-for-production-applications-25e9)
-- [[React x Supabase] Renewing a learning record app with TypeScript and ChakraUI](https://dev.to/kazutora_hattori_66972c88/react-x-supabase-renewing-a-learning-record-app-with-typescript-and-chakraui-5f0n)
-- [Mastering the Builder Pattern in TypeScript: A Complete Guide](https://dev.to/shahjalalbu/mastering-the-builder-pattern-in-typescript-a-complete-guide-2inl)
-- [Implementing Zero-Trust Architecture in Node.js Applications](https://dev.to/vanessamadison/implementing-zero-trust-architecture-in-nodejs-applications-5be9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
