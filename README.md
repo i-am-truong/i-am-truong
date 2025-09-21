@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Conversation Practice App: Part 2 - Backend Speech-to-Text Processing with OpenAI Whisper](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-2-backend-speech-to-text-processing-with-openai-40mj)
 - [Publishers Sue Google, OpenAI Escapes Microsoft](https://dev.to/techsparklive/publishers-sue-google-openai-escapes-microsoft-1b1c)
 - [What is Model Context Protocol &lpar;MCP&rpar; and Why Everyone is Talking About It](https://dev.to/jefreesujit/what-is-model-context-protocol-mcp-and-why-everyone-is-talking-about-it-3nco)
 - [Part-73: To Implement a Regional Internal Load balancer with HTTP in GCP Cloud](https://dev.to/latchudevops/part-73-to-implement-a-regional-internal-load-balancer-with-http-in-gcp-cloud-4nf0)
-- [A Serverless Todo App on AWS with Terraform and GitHub Actions](https://dev.to/hasan_ashab/a-serverless-todo-app-on-aws-with-terraform-and-github-actions-mo9)
-- [3 Reasons You&#39;re in Tech Post-Layoff Shock &lpar;Based on personal experience&rpar;](https://dev.to/mlimonczenko/3-reasons-youre-in-tech-post-layoff-shock-based-on-personal-experience-2mpj)
+- [Memilih Database SQL, NoSQL, In-Memory, dan Analitik Sesuai Use Case](https://dev.to/naandan/memilih-database-sql-nosql-in-memory-dan-analitik-sesuai-use-case-45a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
