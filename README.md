@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Job Scheduling System - Part 2](https://dev.to/zeeshanali0704/advanced-job-scheduling-system-part-2-41pl)
+- [Selection Sort: Detailed Explanation](https://dev.to/mohamad_mhana/selection-sort-detailed-explanation-14h0)
+- [Advanced Job Scheduling System: Part 1](https://dev.to/zeeshanali0704/advanced-job-scheduling-system-part-1-4pah)
 - [Set Up Real-Time Sync Apps With Ditto and MongoDB in 10 Minutes](https://dev.to/mongodb/set-up-real-time-sync-apps-with-ditto-and-mongodb-in-10-minutes-ojm)
-- [Secure On-chain Randomness By Oasis Is A Great Way To Answer The Blockchain Need For RNG](https://dev.to/dc600/secure-on-chain-randomness-by-oasis-is-a-great-way-to-answer-the-blockchain-need-for-rng-10j8)
-- [More Than a Beep: A Developer&#39;s Guide to How Scanners Actually Work](https://dev.to/jyoti_eb2834cf419b8c283b3/more-than-a-beep-a-developers-guide-to-how-scanners-actually-work-2dbd)
-- [🔌 Exposing Logic Apps MCP Server via Azure API Management &lpar;APIM&rpar;](https://dev.to/imdj/exposing-logic-apps-mcp-server-via-azure-api-management-apim-1l9)
-- [The Complete Guide to Serverless Computing: Focus on Logic, Not Infrastructure](https://dev.to/devcorner/the-complete-guide-to-serverless-computing-focus-on-logic-not-infrastructure-aik)
+- [Your React Native App Has 18 Months to Live](https://dev.to/refactory/your-react-native-app-has-18-months-to-live-9lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
