@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apache Arrow Dev List Digest &lpar;Sept 15–19, 2025&rpar;](https://dev.to/alexmercedcoder/apache-arrow-dev-list-digest-sept-15-19-2025-22lk)
-- [Apache Iceberg Dev List Digest &lpar;Sept 15–19, 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-list-digest-sept-15-19-2025-29pj)
-- [Are We Doing Enough to Stay Ahead of Cybersecurity Threats in 2025?](https://dev.to/kevinasutton/are-we-doing-enough-to-stay-ahead-of-cybersecurity-threats-in-2025-3d5j)
-- [How Level 114 can strengthen the Bittensor ecosystem](https://dev.to/level_114/how-level-114-can-strengthen-the-bittensor-ecosystem-2kib)
-- [Apache Polaris Dev List Digest &lpar;Sept 15–19, 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-list-digest-sept-15-19-2025-4fcc)
+- [Everyone will be replaced...](https://dev.to/zenoshubh/everyone-will-be-replaced-4855)
+- [When ECharts Refused to Scroll: My Hacky but Beautiful Fix](https://dev.to/shubhamsapkal/when-echarts-refused-to-scroll-my-hacky-but-beautiful-fix-3nfo)
+- [A supposedly fun interview I&#39;ll never do again*](https://dev.to/luc4587/a-supposedly-fun-interview-ill-never-do-again-3d60)
+- [[Boost]](https://dev.to/jatniel/-5dp9)
+- [Solidity Libraries](https://dev.to/loading_blocks/solidity-libraries-4ceo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
