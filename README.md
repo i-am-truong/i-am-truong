@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Chat Interface: From Components to Conversation](https://dev.to/gazolla/building-a-chat-interface-from-components-to-conversation-53jc)
-- [Grant Horvat: Can I Beat Max Homa if I Start 5 Under Par?](https://dev.to/youtube_golf/grant-horvat-can-i-beat-max-homa-if-i-start-5-under-par-i91)
-- [GameSpot: SILENT HILL f | Official Launch Trailer](https://dev.to/gg_news/gamespot-silent-hill-f-official-launch-trailer-2cj0)
-- [GameSpot: Top Hat Studios&#39; TGS Fall Showcase 2025](https://dev.to/gg_news/gamespot-top-hat-studios-tgs-fall-showcase-2025-20hc)
-- [GameSpot: Indie Fan Fest Fall 2025](https://dev.to/gg_news/gamespot-indie-fan-fest-fall-2025-4bo)
+- [Enterprise IoT Security: Best Practices for Protecting Connected Devices](https://dev.to/kapusto/enterprise-iot-security-best-practices-for-protecting-connected-devices-46c0)
+- [I am trying to find the best prompt testing framework for a project I am working on, and have narrowed down the options to Promptfoo, LangSmith, and PromptPex. Does anyone have any experience on which might be the best option? #testing #promptengineering](https://dev.to/bytesofash/i-am-trying-to-find-the-best-prompt-testing-framework-for-a-project-i-am-working-on-and-have-h51)
+- [My Python KeyLogger Project: More Than Just Keystroke Capture!](https://dev.to/bolewara/my-python-keylogger-project-more-than-just-keystroke-capture-lpk)
+- [Confessions of a Big Screen Bigot](https://dev.to/leeca/confessions-of-a-big-screen-bigot-5589)
+- [No Code Admin Panel Platform](https://dev.to/pillaimanish/no-code-admin-panel-platform-5ac1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
