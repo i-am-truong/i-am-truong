@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Fine-Grained Role Control for MCP Tools with APIM](https://dev.to/imdj/fine-grained-role-control-for-mcp-tools-with-apim-2pn7)
-- [KEXP: Cardiel - Perros &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-perros-live-on-kexp-482h)
-- [The Game Theorists: Game Theory: What is Minecraft&#39;s Suspicious Stew?](https://dev.to/gg_news/the-game-theorists-game-theory-what-is-minecrafts-suspicious-stew-39d0)
-- [IGN: Fatal Fury: City of the Wolves - Official Joe Higashi Trailer](https://dev.to/gg_news/ign-fatal-fury-city-of-the-wolves-official-joe-higashi-trailer-54g2)
-- [IGN: Endless Legend 2 - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-endless-legend-2-official-early-access-launch-trailer-45d3)
+- [Simplifying Azure Private DNS: How I Made Cloud Networking Easy Enough for Anyone to Understand](https://dev.to/peter_samuel_052b9056e236/simplifying-azure-private-dns-how-i-made-cloud-networking-easy-enough-for-anyone-to-understand-3cj1)
+- [Introduction to Computer Programming: Online Edition!](https://dev.to/joestrout/introduction-to-computer-programming-online-edition-369j)
+- [JavaScript Quick Tips](https://dev.to/zeyadeissa/javascript-quick-tips-4df5)
+- [Why Investing Only in Bitcoin Makes Sense](https://dev.to/krikri2025/why-investing-only-in-bitcoin-makes-sense-1cni)
+- [Amazon Bedrock AgentCore Gateway - Part 4 AgentCore Gateway Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-gateway-part-4-agentcore-gateway-observability-2775)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
