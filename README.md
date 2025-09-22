@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Xcode 26.0 does not automatically install the app](https://dev.to/nqmgaming/flutter-xcode-260-does-not-automatically-install-the-app-1hn8)
 - [OpenAI’s GPT-OSS Surprise: Small Model, Big Wins](https://dev.to/aiwithapex/openais-gpt-oss-surprise-small-model-big-wins-53ho)
+- [JavaScript Tools Landscape: npm vs pnpm vs Yarn vs Bun vs Deno &lpar;and Beyond&rpar;](https://dev.to/cristiansifuentes/javascript-tools-landscape-npm-vs-pnpm-vs-yarn-vs-bun-vs-deno-and-beyond-4me)
 - [Building GenAI Apps in Java](https://dev.to/delia_rue/building-genai-apps-in-java-47fh)
 - [Reasoning + RAG: Toward a More Sustainable Future for LLMs](https://dev.to/injeniero/reasoning-rag-toward-a-more-sustainable-future-for-llms-397f)
-- [Part-77: 🚀GKE Cluster Modes &amp; Types – Explained Simply](https://dev.to/latchudevops/gke-cluster-modes-types-explained-simply-i6i)
-- [Inter Process Communication in Python Multiprocessing &lpar;With Examples&rpar;](https://dev.to/imsushant12/inter-process-communication-in-python-multiprocessing-with-examples-5ai2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
