@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Brand Name: What We Really Mean When We Talk About Laser Printers](https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-brand-name-what-we-really-mean-when-we-talk-about-laser-printers-2pk7)
+- [How PropTech Software Development is Revolutionizing Real Estate](https://dev.to/__ofigenus/how-proptech-software-development-is-revolutionizing-real-estate-3p37)
+- [The Nerd&#39;s Guide to Laser Printers: More Than Just Magic and Static**](https://dev.to/jyoti_eb2834cf419b8c283b3/the-nerds-guide-to-laser-printers-more-than-just-magic-and-static-m5g)
+- [How to Connect Dynamics 365 Pharma CRM to Power BI for Real-Time Sales Dashboards](https://dev.to/syedkamran/how-to-connect-dynamics-365-pharma-crm-to-power-bi-for-real-time-sales-dashboards-3602)
 - [Using OIDC with .NET to connect to MongoDB Atlas](https://dev.to/mongodb/using-oidc-with-net-to-connect-to-mongodb-atlas-37kn)
-- [10+ Free Font Resources for Your Projects](https://dev.to/devshefali/10-free-font-resources-for-your-projects-53nm)
-- [Power Platform Top 10 Missing Features](https://dev.to/wyattdave/power-platform-top-10-missing-features-9ab)
-- [Unleashing JavaScript for WebSocket load testing](https://dev.to/gatling/unleashing-javascript-for-websocket-load-testing-3d9f)
-- [Choropleth Maps in R: A Powerful Tool for Geographic Data Visualization](https://dev.to/thedatageek/choropleth-maps-in-r-a-powerful-tool-for-geographic-data-visualization-32bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
