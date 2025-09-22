@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supabase with Supabase CLI, React + TypeScript – Part 2: APIs and Edge Functions](https://dev.to/sukanta47/supabase-with-supabase-cli-react-typescript-part-2-apis-and-edge-functions-3k65)
-- [How Can I Make My Event Invitations Look More Professional?](https://dev.to/aamir_khan_c46082b6e804c0/how-can-i-make-my-event-invitations-look-more-professional-4k41)
-- [GameSpot: Silent Hill F Review](https://dev.to/gg_news/gamespot-silent-hill-f-review-2j66)
-- [GameSpot: 15 Minutes of Silent Hill F Gameplay](https://dev.to/gg_news/gamespot-15-minutes-of-silent-hill-f-gameplay-4mob)
-- [IGN: Silent Hill f Review](https://dev.to/gg_news/ign-silent-hill-f-review-207o)
+- [Using OIDC with .NET to connect to MongoDB Atlas](https://dev.to/mongodb/using-oidc-with-net-to-connect-to-mongodb-atlas-37kn)
+- [10+ Free Font Resources for Your Projects](https://dev.to/devshefali/10-free-font-resources-for-your-projects-53nm)
+- [Power Platform Top 10 Missing Features](https://dev.to/wyattdave/power-platform-top-10-missing-features-9ab)
+- [Unleashing JavaScript for WebSocket load testing](https://dev.to/gatling/unleashing-javascript-for-websocket-load-testing-3d9f)
+- [Choropleth Maps in R: A Powerful Tool for Geographic Data Visualization](https://dev.to/thedatageek/choropleth-maps-in-r-a-powerful-tool-for-geographic-data-visualization-32bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
