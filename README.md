@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day - 3 of Learning Web Development](https://dev.to/prakash_b/day-3-of-learning-web-development-5e5i)
-- [Alphaswarm Charts: JavaScript Library for Distribution Visualization](https://dev.to/jqueryscript/alphaswarm-charts-javascript-library-for-distribution-visualization-40kf)
-- [Who is Claude Shannon?](https://dev.to/leon_lin_s/who-is-claude-shannon-3p2)
-- [Agentic AI: Autonomous Intelligence in Action](https://dev.to/sanjaynaker/agentic-ai-autonomous-intelligence-in-action-omi)
-- [EduBox - AI Student Hub](https://dev.to/aryprogrammer/edubox-ai-student-hub-21il)
+- [Global Event Bus in Vue](https://dev.to/jacobandrewsky/global-event-bus-in-vue-16bl)
+- [What You Really Need Is Event-Based Laravel](https://dev.to/raheelshan/what-you-really-need-is-event-based-laravel-37a4)
+- [01. Pengenenalan Pemrograman Mobile](https://dev.to/sandatya_widhi_ce7cb1c809/01-pengenenalan-pemrogramanmobile-2d5d)
+- [Anthropic Economic Index – September 2025 📈](https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55)
+- [Python Tuples: The Ultimate Guide to Immutable Sequences](https://dev.to/satyam_gupta_0d1ff2152dcc/python-tuples-the-ultimate-guide-to-immutable-sequences-4lpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
