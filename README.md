@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DjangoCon US 2025: Security, Simplicity, and Community](https://dev.to/gitguardian/djangocon-us-2025-security-simplicity-and-community-2ilf)
-- [¿Los cubos de hielo de la máquina de tubos de hielo se derriten rápido?](https://dev.to/eficientehielotubo/los-cubos-de-hielo-de-la-maquina-de-tubos-de-hielo-se-derriten-rapido-4bi6)
-- [¿Cuáles son las ventajas del hielo de la máquina de hielo tubular?](https://dev.to/hielotubo_lab/cuales-son-las-ventajas-del-hielo-de-la-maquina-de-hielo-tubular-5em0)
-- [¿De dónde viene la fuerza para hacer hielo de la máquina de hielo tubular?](https://dev.to/hielotubular_pro/de-donde-viene-la-fuerza-para-hacer-hielo-de-la-maquina-de-hielo-tubular-2f74)
-- [Why I Love Binary Mapping](https://dev.to/culenga/why-i-love-binary-mapping-1822)
+- [How I Built an Evidence-Based Developer Assessment Platform](https://dev.to/exiqus/how-i-built-an-evidence-based-developer-assessment-platform-1of3)
+- [The End of @Input&lpar;&rpar; &amp; @Output&lpar;&rpar;: Angular 20’s Game-Changing Update](https://dev.to/mridudixit15/the-end-of-input-output-angular-20s-game-changing-update-4m0e)
+- [Mastering Linux: File &amp; Directory Management with a Mock Company Project](https://dev.to/subair09/mastering-linux-file-directory-management-with-a-mock-company-project-499l)
+- [Configuring Network Routing in Azure: A Step-by-Step Guide](https://dev.to/sudaisib/configuring-network-routing-in-azure-a-step-by-step-guide-54f8)
+- [🚀 Top Tech Resources to Stay Updated with Java, Spring Boot, Microservices, and System Design](https://dev.to/nk_sk_6f24fdd730188b284bf/top-tech-resources-to-stay-updated-with-java-spring-boot-microservices-and-system-design-gpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
