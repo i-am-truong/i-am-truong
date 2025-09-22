@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Encoding, Hashing, and Encryption: Clearing Up the Confusion](https://dev.to/chiragx309/encoding-hashing-and-encryption-clearing-up-the-confusion-3lm)
-- [Deep learning about DNS records!](https://dev.to/asad10/deep-learning-about-dns-records-2mkh)
-- [SOLID Principles in .NET Core API: A Complete Guide with Practical Examples](https://dev.to/manonaga2188/solid-principles-in-net-core-api-a-complete-guide-with-practical-examples-53ka)
-- [Zorin OS 18 Beta Just Dropped and It&#39;s Actually Pretty Sweet](https://dev.to/shiva_shanker_k/zorin-os-18-beta-just-dropped-and-its-actually-pretty-sweet-2egm)
-- [Building a SaaS app with Laravel, FilamentPHP, and Multi-DB Tenancy](https://dev.to/pro_code_5aa69286b31f6533/building-a-saas-app-with-laravel-filamentphp-and-multi-db-tenancy-2ba9)
+- [BlueprintDSL: Bringing the Vibe Back to Vibe Coding](https://dev.to/araldhafeeri/blueprintdsl-bringing-the-vibe-back-to-vibe-coding-2m4m)
+- [AI Tools That Help Freelancers Get Noticed by Top Recruiters](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/ai-tools-that-help-freelancers-get-noticed-by-top-recruiters-2a0e)
+- [Building a Reddit Sentiment Pipeline using Python, PostgreSQL, VADER, Airflow, Grafana, Prometheus and StatsD](https://dev.to/dkkinyua/building-a-reddit-sentiment-pipeline-using-python-postgresql-vader-airflow-grafana-prometheus-5gdn)
+- [¿Qué hay que saber sobre el almacén de hielo en tubos?](https://dev.to/maqhielotubo_smart/que-hay-que-saber-sobre-el-almacen-de-hielo-en-tubos-2mda)
+- [Best Platform to Learn Machine Learning: A Complete Guide](https://dev.to/stack_overflowed/best-platform-to-learn-machine-learning-a-complete-guide-2c08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
