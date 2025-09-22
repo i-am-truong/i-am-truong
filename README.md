@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI in Education: Threat or Learning Tool?](https://dev.to/isaac29/ai-in-education-threat-or-learning-tool-48ji)
+- [Why Bootstrap and Tailwind CSS Don’t Work With Web Components](https://dev.to/fedtti/why-bootstrap-and-tailwind-css-dont-work-with-web-components-4b6c)
+- [Connecting AI Agents to Factory Data with MCP, Node.js &amp; TypeScript](https://dev.to/gins_cyriac/connecting-ai-agents-to-factory-data-with-mcp-nodejs-typescript-44e)
 - [Containerization Without the Cloud: Running Docker Locally for Fun and Speed](https://dev.to/bennay1990/containerization-without-the-cloud-running-docker-locally-for-fun-and-speed-53dl)
 - [What the COW? Understanding Docker&#39;s Smart Storage Secret](https://dev.to/harsh_raj_934dd76b12195ee/what-the-cow-understanding-dockers-smart-storage-secret-37k0)
-- [Critical Infrastructure Protection Program: A Comprehensive Guide](https://dev.to/kapusto/critical-infrastructure-protection-program-a-comprehensive-guide-146d)
-- [Enterprise IoT Security: Best Practices for Protecting Connected Devices](https://dev.to/kapusto/enterprise-iot-security-best-practices-for-protecting-connected-devices-46c0)
-- [I am trying to find the best prompt testing framework for a project I am working on, and have narrowed down the options to Promptfoo, LangSmith, and PromptPex. Does anyone have any experience on which might be the best option? #testing #promptengineering](https://dev.to/bytesofash/i-am-trying-to-find-the-best-prompt-testing-framework-for-a-project-i-am-working-on-and-have-h51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
