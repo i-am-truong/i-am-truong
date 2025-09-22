@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [¿El panel de control de la máquina de hielo tubular tiene muchas funciones?](https://dev.to/hielotubo_tec/el-panel-de-control-de-la-maquina-de-hielo-tubular-tiene-muchas-funciones-2nc0)
-- [Ever Dreamed of Talking to Your Computer? Get Ready for the Age of AI Assistants!](https://dev.to/karthik_n/ever-dreamed-of-talking-to-your-computer-get-ready-for-the-age-of-ai-assistants-1hcn)
-- [Mastering React Hooks: useEffect, useReducer, and Custom Hooks](https://dev.to/djamware_tutorial_eba1a61/mastering-react-hooks-useeffect-usereducer-and-custom-hooks-3n46)
-- [Las válvulas de la máquina de tubo de hielo, ¿qué controlan?](https://dev.to/eficientehielotubo/las-valvulas-de-la-maquina-de-tubo-de-hielo-que-controlan-3hhk)
-- [¿El motor de la máquina de hielo tubular, qué componente impulsa?](https://dev.to/hielotubo_lab/el-motor-de-la-maquina-de-hielo-tubular-que-componente-impulsa-3p5a)
+- [Máquina de hielo tubular, ¿cómo se convierte el agua en hielo tubular?](https://dev.to/eficientehielotubo/maquina-de-hielo-tubular-como-se-convierte-el-agua-en-hielo-tubular-oi6)
+- [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
+- [Git: From Zero to First Commit - Developer Journey Begins](https://dev.to/swathi_macha/git-from-zero-to-first-commit-developer-journey-begins-170d)
+- [Mi propio procesador de textos en ZX Sinclair BASIC &lpar;y II&rpar;](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-y-ii-309e)
+- [10 SOL Claimed in Just 10 Days! from claimyoursols.app](https://dev.to/zouhairstack/10-sol-claimed-in-just-10-days-from-claimyoursolsapp-akk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
