@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Unbeatable Workhorse: Why Your Desk Needs a Monochrome Laser Printer](https://dev.to/jyoti_eb2834cf419b8c283b3/the-unbeatable-workhorse-why-your-desk-needs-a-monochrome-laser-printer-34p3)
-- [Why People Need to Learn Project Management in the Era of AI](https://dev.to/srijan-xi/why-people-need-to-learn-project-management-in-the-era-of-ai-23ei)
-- [Stop Overthinking It: The Real &quot;Laser Printer Meaning&quot; for Developers](https://dev.to/jyoti_eb2834cf419b8c283b3/stop-overthinking-it-the-real-laser-printer-meaning-for-developers-30m1)
-- [Meetup: from 40% savings to smart scaling](https://dev.to/getjv/meetup-from-40-savings-to-smart-scaling-4min)
-- [Discuss: What’s the #1 headache in portfolio tracking today?](https://dev.to/pocketportfolioapp/discuss-whats-the-1-headache-in-portfolio-tracking-today-3mgi)
+- [Medium Zoom Next - JS library for image zooming](https://dev.to/thanksboss/medium-zoom-next-js-library-for-image-zooming-5eg3)
+- [Database Optimizations: Indexing](https://dev.to/zeeshanali0704/database-optimizations-indexing-4ddn)
+- [Agent Identity for MCP: Prefactor&#39;s Approach to Secure, Auditable AI Agents](https://dev.to/om_shree_0709/agent-identity-for-mcp-prefactors-approach-to-secure-auditable-ai-agents-1o15)
+- [How Go &lpar;Golang&rpar; is Shaping the Future of Cloud Computing](https://dev.to/srijan-xi/how-go-golang-is-shaping-the-future-of-cloud-computing-3no3)
+- [Best PDF Parsers for RAG Applications](https://dev.to/biomathcode/best-pdf-parsers-for-rag-applications-26j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
