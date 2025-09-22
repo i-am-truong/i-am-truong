@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Are Data Structures? A Random CS Student&#39;s Guide &lpar;Part 1: Arrays&rpar;](https://dev.to/elsad_humbetli_0971c995ce/what-are-data-structures-a-random-cs-students-guide-part-1-arrays-1dhg)
+- [Automate Your Dev Setup with PowerShell: Open Multiple Apps at Once](https://dev.to/shrinidhia/automate-your-dev-setup-with-powershell-open-multiple-apps-at-once-1e98)
+- [Auto-generated IDs VS Manually created: which approach to chose?](https://dev.to/juliashevchenko/auto-generated-ids-vs-manually-created-which-approach-to-chose-5b0g)
 - [Tableau Filtering Actions Made Easy: A Complete Guide for Analysts](https://dev.to/dipti_moryani_185c244d578/tableau-filtering-actions-made-easy-a-complete-guide-for-analysts-4oik)
 - [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2i1c)
-- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-1im7)
-- [MySQL ALTER TABLE: A Developer’s Guide to Schema Changes](https://dev.to/dbvismarketing/mysql-alter-table-a-developers-guide-to-schema-changes-3b2l)
-- [100 Days of DevOps: Day 50](https://dev.to/wycliffealphus/100-days-of-devops-day-50-3dpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
