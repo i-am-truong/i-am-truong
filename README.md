@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Aws Reserved Instances &lpar;RI&rpar; &amp; Savings Plans](https://dev.to/wakeup_flower_8591a6cb6a9/aws-reserved-instances-ri-savings-plans-1c8p)
-- [How to Get More Done with AI in My Local Dev Workflow: ChatGPT vs. Continue](https://dev.to/anita_ihuman/how-to-get-more-done-with-ai-in-my-local-dev-workflow-chatgpt-vs-continue-149f)
-- [Dark Warehouse: Transforming Th‍e Future of Supply Chain Automation](https://dev.to/tushar_zoringa/dark-warehouse-transforming-the-future-of-supply-chain-automation-2g8b)
-- [Meme Monday](https://dev.to/ben/meme-monday-291d)
-- [Clean Architecture for .NET API + Blazor Server: A Practical, Testable Template](https://dev.to/raj_preetamsingh_0464a7f/clean-architecture-for-net-api-blazor-server-a-practical-testable-template-51lg)
+- [AI and the Game Developer: Partner or Replacement?](https://dev.to/guardingpearsoftware/ai-and-the-game-developer-partner-or-replacement-59lj)
+- [Looking for someone to help with your C++ project without breaking the bank? I bring 10+ years of experience developing fast, reliable, multi-threaded applications, and I’m passionate about optimizing algorithms, managing memory efficiently, and solving to](https://dev.to/tom_millan_1137ea98223207/looking-for-someone-to-help-with-your-c-project-without-breaking-the-bank-i-bring-10-years-of-2ofo)
+- [Denshya Proton.js Joins Hacktoberfest 2025 🎉](https://dev.to/framemuse/denshya-protonjs-joins-hacktoberfest-2025-4ed7)
+- [Go devs just got React-level superpowers](https://dev.to/derstruct/go-devs-just-got-react-level-superpowers-26kp)
+- [How To Hide Secrets &amp; Exe Payloads In Images &lpar;Guide&rpar;](https://dev.to/scofieldidehen/how-to-hide-secrets-exe-payloads-in-images-guide-294k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
