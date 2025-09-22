@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Global Event Bus in Vue](https://dev.to/jacobandrewsky/global-event-bus-in-vue-16bl)
-- [What You Really Need Is Event-Based Laravel](https://dev.to/raheelshan/what-you-really-need-is-event-based-laravel-37a4)
-- [01. Pengenenalan Pemrograman Mobile](https://dev.to/sandatya_widhi_ce7cb1c809/01-pengenenalan-pemrogramanmobile-2d5d)
-- [Anthropic Economic Index – September 2025 📈](https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55)
-- [Python Tuples: The Ultimate Guide to Immutable Sequences](https://dev.to/satyam_gupta_0d1ff2152dcc/python-tuples-the-ultimate-guide-to-immutable-sequences-4lpf)
+- [Build Your Own Linktree-Lite with Node.js, Express, and Mustache &lpar;API + Frontend Page&rpar;](https://dev.to/razvan_ludosanu_31d9d22b8/build-your-own-linktree-lite-with-nodejs-express-and-mustache-api-frontend-page-1ak5)
+- [Resources: Data Visualisation](https://dev.to/gzamann/resources-data-visualisation-237n)
+- [Getting Started with Google Gemini Embeddings in Python: A Hands-On Guide](https://dev.to/imthadh_ahamed/getting-started-with-google-gemini-embeddings-in-python-a-hands-on-guide-bfi)
+- [Complete Configuration Guide for Maximum Read and Write Performance](https://dev.to/devaaai/complete-configuration-guide-for-maximum-read-and-write-performance-2bm6)
+- [CSS Media Query in Javascript](https://dev.to/gzamann/css-media-query-in-javascript-24ga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
