@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The State of Startups 2025: Key Takeaways](https://dev.to/fmerian/the-state-of-startups-2025-key-takeaways-5h5f)
-- [Simplifying API Communication with the BFF Pattern in NextJS](https://dev.to/oliverke/simplifying-api-communication-with-the-bff-pattern-in-nextjs-1flb)
-- [Smarter CSS Targeting with :nth-child&lpar;of &lt;selector&gt;&rpar;](https://dev.to/kevinbism/smarter-css-targeting-with-nth-childof--ph6)
-- [Burnout, PIP and Self-Doubt | Looking for Career Advice After a Hard Fall](https://dev.to/simpledeveloper/burnout-pip-and-self-doubt-looking-for-career-advice-after-a-hard-fall-3o69)
-- [The Hunter Behind the Hacker](https://dev.to/stark_zhuang_df5076f35c68/the-hunter-behind-the-hacker-4gb4)
+- [¿El motor de la máquina de hielo tubular, qué componente impulsa?](https://dev.to/hielotubo_lab/el-motor-de-la-maquina-de-hielo-tubular-que-componente-impulsa-3p5a)
+- [The Future of Python: Trends and Uses in 2025](https://dev.to/sanjaynaker/the-future-of-python-trends-and-uses-in-2025-31i1)
+- [90 Days of Code: Day 14 - Building a Beginner-Friendly Word Scramble Game with Python](https://dev.to/momina_raheelmoona_c59/90-days-of-code-day-14-building-a-beginner-friendly-word-scramble-game-with-python-38hc)
+- [Diffium: The git diff manager for ai-assisted programming](https://dev.to/kubeden/diffium-the-git-diff-manager-for-ai-assisted-programming-38dj)
+- [¿Cuál es la función del filtro en la máquina de tubos de hielo?](https://dev.to/hielotubular_pro/cual-es-la-funcion-del-filtro-en-la-maquina-de-tubos-de-hielo-1l72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
