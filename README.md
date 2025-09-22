@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Xcode 26.0 does not automatically install the app](https://dev.to/nqmgaming/flutter-xcode-260-does-not-automatically-install-the-app-1hn8)
-- [OpenAI’s GPT-OSS Surprise: Small Model, Big Wins](https://dev.to/aiwithapex/openais-gpt-oss-surprise-small-model-big-wins-53ho)
-- [JavaScript Tools Landscape: npm vs pnpm vs Yarn vs Bun vs Deno &lpar;and Beyond&rpar;](https://dev.to/cristiansifuentes/javascript-tools-landscape-npm-vs-pnpm-vs-yarn-vs-bun-vs-deno-and-beyond-4me)
-- [Building GenAI Apps in Java](https://dev.to/delia_rue/building-genai-apps-in-java-47fh)
-- [Reasoning + RAG: Toward a More Sustainable Future for LLMs](https://dev.to/injeniero/reasoning-rag-toward-a-more-sustainable-future-for-llms-397f)
+- [What is Deep Memory in AI? How Persistent Memory is Revolutionizing Personal AI](https://dev.to/gruve_abby_2bb4e7e1499283/what-is-deep-memory-in-ai-how-persistent-memory-is-revolutionizing-personal-ai-42aj)
+- [Cloud Without Clouds: The Rise of Decentralized Edge Computing](https://dev.to/dct_technology/cloud-without-clouds-the-rise-of-decentralized-edge-computing-5ad1)
+- [Geometric Methods in Data Preprocessing: Enhancing Your Data Through Spatial Thinking](https://dev.to/satwik_mishra_4db19c395ae/geometric-methods-in-data-preprocessing-enhancing-your-data-through-spatial-thinking-2ce4)
+- [We, Coders, Often Don&#39;t Get To Solve Problems—And That&#39;s Boring](https://dev.to/canro91/we-coders-often-dont-get-to-solve-problems-and-thats-boring-8jb)
+- [🧠GraphScout: Self-Discovering Paths in OrKA](https://dev.to/marcosomma/graphscout-self-discovering-paths-in-orka-348k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
