@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two challenges and $6,000 in prizes! Get your submissions in by September 28.](https://dev.to/devteam/two-challenges-and-6000-in-prizes-get-your-submissions-in-by-september-28-5cm9)
-- [What are your Goals for the week? #145](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-145-2op7)
-- [🚗 The Hidden Psychology of Why People Hold Onto Old Cars &lpar;and How Tech Helps Them Let Go&rpar;](https://dev.to/sfa_shah_368309803ae22878/the-hidden-psychology-of-why-people-hold-onto-old-cars-and-how-tech-helps-them-let-go-5cca)
-- [Surround Yourself with the Right People: How Your Circle Shapes Your Success](https://dev.to/jps27cse/surround-yourself-with-the-right-people-how-your-circle-shapes-your-success-33ek)
-- [From Chaos to Control: How I Transformed My Restaurant&#39;s Vendor Management with Simple Tech Tools](https://dev.to/jen_wilson/from-chaos-to-control-how-i-transformed-my-restaurants-vendor-management-with-simple-tech-tools-4npl)
+- [Apache Arrow Dev List Digest &lpar;Sept 15–19, 2025&rpar;](https://dev.to/alexmercedcoder/apache-arrow-dev-list-digest-sept-15-19-2025-22lk)
+- [Apache Iceberg Dev List Digest &lpar;Sept 15–19, 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-list-digest-sept-15-19-2025-29pj)
+- [Are We Doing Enough to Stay Ahead of Cybersecurity Threats in 2025?](https://dev.to/kevinasutton/are-we-doing-enough-to-stay-ahead-of-cybersecurity-threats-in-2025-3d5j)
+- [How Level 114 can strengthen the Bittensor ecosystem](https://dev.to/level_114/how-level-114-can-strengthen-the-bittensor-ecosystem-2kib)
+- [Apache Polaris Dev List Digest &lpar;Sept 15–19, 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-list-digest-sept-15-19-2025-4fcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
