@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #739 - Announcing Dancer2 2.0.0](https://dev.to/szabgab/perl-weekly-739-announcing-dancer2-200-51ka)
-- [Puzzles &lpar;Hints and Solutions&rpar;](https://dev.to/d3one/puzzles-hints-and-solutions-4hig)
-- [Speech-to-Text Translation Software: 5 Critical Enterprise Features](https://dev.to/elenahartmann/speech-to-text-translation-software-5-critical-enterprise-features-mka)
-- [What Are Data Structures and Algorithms? A Random CS Student&#39;s Guide &lpar;Part 1: Arrays&rpar;](https://dev.to/elsad_humbetli_0971c995ce/what-are-data-structures-a-random-cs-students-guide-part-1-arrays-1dhg)
-- [The Little Prince’s Journey: The Quiet Guardians of Infusion Pumps](https://dev.to/ersajay/the-little-princes-journey-the-quiet-guardians-of-infusion-pumps-5da4)
+- [Supabase with Supabase CLI, React + TypeScript – Part 2: APIs and Edge Functions](https://dev.to/sukanta47/supabase-with-supabase-cli-react-typescript-part-2-apis-and-edge-functions-3k65)
+- [How Can I Make My Event Invitations Look More Professional?](https://dev.to/aamir_khan_c46082b6e804c0/how-can-i-make-my-event-invitations-look-more-professional-4k41)
+- [GameSpot: Silent Hill F Review](https://dev.to/gg_news/gamespot-silent-hill-f-review-2j66)
+- [GameSpot: 15 Minutes of Silent Hill F Gameplay](https://dev.to/gg_news/gamespot-15-minutes-of-silent-hill-f-gameplay-4mob)
+- [IGN: Silent Hill f Review](https://dev.to/gg_news/ign-silent-hill-f-review-207o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
