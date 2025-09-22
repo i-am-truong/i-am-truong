@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Evidence-Based Developer Assessment Platform](https://dev.to/exiqus/how-i-built-an-evidence-based-developer-assessment-platform-1of3)
-- [The End of @Input&lpar;&rpar; &amp; @Output&lpar;&rpar;: Angular 20’s Game-Changing Update](https://dev.to/mridudixit15/the-end-of-input-output-angular-20s-game-changing-update-4m0e)
-- [Mastering Linux: File &amp; Directory Management with a Mock Company Project](https://dev.to/subair09/mastering-linux-file-directory-management-with-a-mock-company-project-499l)
-- [Configuring Network Routing in Azure: A Step-by-Step Guide](https://dev.to/sudaisib/configuring-network-routing-in-azure-a-step-by-step-guide-54f8)
-- [🚀 Top Tech Resources to Stay Updated with Java, Spring Boot, Microservices, and System Design](https://dev.to/nk_sk_6f24fdd730188b284bf/top-tech-resources-to-stay-updated-with-java-spring-boot-microservices-and-system-design-gpd)
+- [Aws Reserved Instances &lpar;RI&rpar; &amp; Savings Plans](https://dev.to/wakeup_flower_8591a6cb6a9/aws-reserved-instances-ri-savings-plans-1c8p)
+- [How to Get More Done with AI in My Local Dev Workflow: ChatGPT vs. Continue](https://dev.to/anita_ihuman/how-to-get-more-done-with-ai-in-my-local-dev-workflow-chatgpt-vs-continue-149f)
+- [Dark Warehouse: Transforming Th‍e Future of Supply Chain Automation](https://dev.to/tushar_zoringa/dark-warehouse-transforming-the-future-of-supply-chain-automation-2g8b)
+- [Meme Monday](https://dev.to/ben/meme-monday-291d)
+- [Clean Architecture for .NET API + Blazor Server: A Practical, Testable Template](https://dev.to/raj_preetamsingh_0464a7f/clean-architecture-for-net-api-blazor-server-a-practical-testable-template-51lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
