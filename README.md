@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s GPT-OSS Surprise: Small Model, Big Wins](https://dev.to/aiwithapex/openais-gpt-oss-surprise-small-model-big-wins-53ho)
 - [Building GenAI Apps in Java](https://dev.to/delia_rue/building-genai-apps-in-java-47fh)
+- [Reasoning + RAG: Toward a More Sustainable Future for LLMs](https://dev.to/injeniero/reasoning-rag-toward-a-more-sustainable-future-for-llms-397f)
 - [Part-77: 🚀GKE Cluster Modes &amp; Types – Explained Simply](https://dev.to/latchudevops/gke-cluster-modes-types-explained-simply-i6i)
 - [Inter Process Communication in Python Multiprocessing &lpar;With Examples&rpar;](https://dev.to/imsushant12/inter-process-communication-in-python-multiprocessing-with-examples-5ai2)
-- [**Unleashing the Power of Generative Adversarial Networks &lpar;G](https://dev.to/carlos_ruizviquez_d2fd3e/unleashing-the-power-of-generative-adversarial-networks-g-57pk)
-- [&quot;Fairness fatigue&quot; is a pressing concern in AI governance, w](https://dev.to/carlos_ruizviquez_d2fd3e/fairness-fatigue-is-a-pressing-concern-in-ai-governance-w-31ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
