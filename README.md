@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Perl 🐪 Weekly #739 - Announcing Dancer2 2.0.0](https://dev.to/szabgab/perl-weekly-739-announcing-dancer2-200-51ka)
 - [Puzzles &lpar;Hints and Solutions&rpar;](https://dev.to/d3one/puzzles-hints-and-solutions-4hig)
 - [Speech-to-Text Translation Software: 5 Critical Enterprise Features](https://dev.to/elenahartmann/speech-to-text-translation-software-5-critical-enterprise-features-mka)
 - [What Are Data Structures and Algorithms? A Random CS Student&#39;s Guide &lpar;Part 1: Arrays&rpar;](https://dev.to/elsad_humbetli_0971c995ce/what-are-data-structures-a-random-cs-students-guide-part-1-arrays-1dhg)
-- [Automate Your Dev Setup with PowerShell: Open Multiple Apps at Once](https://dev.to/shrinidhia/automate-your-dev-setup-with-powershell-open-multiple-apps-at-once-1e98)
-- [Auto-generated IDs VS Manually created: which approach to chose?](https://dev.to/juliashevchenko/auto-generated-ids-vs-manually-created-which-approach-to-chose-5b0g)
+- [The Little Prince’s Journey: The Quiet Guardians of Infusion Pumps](https://dev.to/ersajay/the-little-princes-journey-the-quiet-guardians-of-infusion-pumps-5da4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
