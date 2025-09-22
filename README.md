@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Unbreachable Resort: When Php Back End Goes to Therapy with GDPR, PCI DSS and HIPAA -&gt; part one](https://dev.to/igornosatov_15/the-unbreachable-resort-when-php-back-end-goes-to-therapy-with-gdpr-pci-dss-and-hipaa1-part-47ea)
 - [Building CardOS: An AI-Powered Credit Pre-Approval System on Google Kubernetes Engine](https://dev.to/amelia751/building-cardos-an-ai-powered-credit-pre-approval-system-on-google-kubernetes-engine-hn8)
 - [Why I Avoided Kubernetes for 2 Years &lpar;Spoiler: Bad Idea&rpar;](https://dev.to/arbythecoder/why-i-avoided-kubernetes-for-2-years-spoiler-bad-idea-179k)
 - [[Boost]](https://dev.to/alazsel/-a8a)
 - [System Design Basics 🍕 + Spring Boot](https://dev.to/wastech/system-design-basics-spring-boot-2dbo)
-- [🚀 Install and Use FSCSS](https://dev.to/fscss-ttr/install-and-use-fscss-o05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
