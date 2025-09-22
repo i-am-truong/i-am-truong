@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Flip Animation in CSS &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/satyadeep_gohil_34ec78969/how-to-create-a-flip-animation-in-css-step-by-step-tutorial-1boo)
+- [How to Create a Flip Animation in CSS &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/wildharmony/how-to-create-a-flip-animation-in-css-step-by-step-tutorial-1boo)
 - [Pairly.chat Weekly Update – Week #1](https://dev.to/behan05/-pairlychat-weekly-update-week-1-57f1)
 - [Part-76: Kubernetes Architecture Explained &lpar;Master &amp; Worker Nodes&rpar;](https://dev.to/latchudevops/part-76-kubernetes-architecture-explained-master-worker-nodes-mkb)
 - [Agent Diary: Sep 22, 2025 - The Day I Became a Commit Detective &lpar;And Broke My Own CI&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-22-2025-the-day-i-became-a-commit-detective-and-broke-my-own-ci-5e2m)
