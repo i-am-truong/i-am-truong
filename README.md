@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tableau Filtering Actions Made Easy: A Complete Guide for Analysts](https://dev.to/dipti_moryani_185c244d578/tableau-filtering-actions-made-easy-a-complete-guide-for-analysts-4oik)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2i1c)
+- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-1im7)
+- [MySQL ALTER TABLE: A Developer’s Guide to Schema Changes](https://dev.to/dbvismarketing/mysql-alter-table-a-developers-guide-to-schema-changes-3b2l)
 - [100 Days of DevOps: Day 50](https://dev.to/wycliffealphus/100-days-of-devops-day-50-3dpk)
-- [The power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-application-iig)
-- [Build Your Own Linktree-Lite with Node.js, Express, and Mustache &lpar;API + Frontend Page&rpar;](https://dev.to/learnbackenddotdev/build-your-own-linktree-lite-with-nodejs-express-and-mustache-api-frontend-page-1ak5)
-- [Resources: Data Visualisation](https://dev.to/gzamann/resources-data-visualisation-237n)
-- [Getting Started with Google Gemini Embeddings in Python: A Hands-On Guide](https://dev.to/imthadh_ahamed/getting-started-with-google-gemini-embeddings-in-python-a-hands-on-guide-bfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
