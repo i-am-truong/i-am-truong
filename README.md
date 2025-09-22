@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI and the Game Developer: Partner or Replacement?](https://dev.to/guardingpearsoftware/ai-and-the-game-developer-partner-or-replacement-59lj)
-- [Looking for someone to help with your C++ project without breaking the bank? I bring 10+ years of experience developing fast, reliable, multi-threaded applications, and I’m passionate about optimizing algorithms, managing memory efficiently, and solving to](https://dev.to/tom_millan_1137ea98223207/looking-for-someone-to-help-with-your-c-project-without-breaking-the-bank-i-bring-10-years-of-2ofo)
-- [Denshya Proton.js Joins Hacktoberfest 2025 🎉](https://dev.to/framemuse/denshya-protonjs-joins-hacktoberfest-2025-4ed7)
-- [Go devs just got React-level superpowers](https://dev.to/derstruct/go-devs-just-got-react-level-superpowers-26kp)
-- [How To Hide Secrets &amp; Exe Payloads In Images &lpar;Guide&rpar;](https://dev.to/scofieldidehen/how-to-hide-secrets-exe-payloads-in-images-guide-294k)
+- [10 Free Tailwind CSS UI Kits &amp; Component Libraries 2025](https://dev.to/hashbyt/10-free-tailwind-css-ui-kits-component-libraries-2025-1gge)
+- [Building a Bedtime Stories App](https://dev.to/libar/building-a-bedtime-stories-app-developer-insights-with-apples-foundation-models-and-image-325c)
+- [Billin: Building a modern cross-platform invoice app with Compose Multiplatform](https://dev.to/rockandnull/billin-building-a-modern-cross-platform-invoice-app-with-compose-multiplatform-pm9)
+- [Pynguin: The Python Unit Test Generator That Will Change Your Life!](https://dev.to/githubopensource/pynguin-the-python-unit-test-generator-that-will-change-your-life-1mpp)
+- [OOMKill in Kubernetes and Linux &lpar;Exit Code 137&rpar;](https://dev.to/alimehr75/oomkill-in-kubernetes-and-linux-exit-code-137-20ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
