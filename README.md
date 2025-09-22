@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI in Education: Threat or Learning Tool?](https://dev.to/isaac29/ai-in-education-threat-or-learning-tool-48ji)
-- [Why Bootstrap and Tailwind CSS Don’t Work With Web Components](https://dev.to/fedtti/why-bootstrap-and-tailwind-css-dont-work-with-web-components-4b6c)
-- [Connecting AI Agents to Factory Data with MCP, Node.js &amp; TypeScript](https://dev.to/gins_cyriac/connecting-ai-agents-to-factory-data-with-mcp-nodejs-typescript-44e)
-- [Containerization Without the Cloud: Running Docker Locally for Fun and Speed](https://dev.to/bennay1990/containerization-without-the-cloud-running-docker-locally-for-fun-and-speed-53dl)
-- [What the COW? Understanding Docker&#39;s Smart Storage Secret](https://dev.to/harsh_raj_934dd76b12195ee/what-the-cow-understanding-dockers-smart-storage-secret-37k0)
+- [5 Python Automation Scripts to Supercharge Your Productivity](https://dev.to/ksujan/5-python-automation-scripts-to-supercharge-your-productivity-461l)
+- [Building Your First AI Agent: Tavily X LangGraph](https://dev.to/vedantkhairnar/building-your-first-ai-agent-tavily-x-langgraph-8c4)
+- [Getting Started with SuprSend Inbox in Your Next.js App](https://dev.to/vedantkhairnar/getting-started-with-suprsend-inbox-in-your-nextjs-app-12po)
+- [Cloud agents vs local editor as center of the vibe coding world](https://dev.to/ben/cloud-agents-vs-local-editor-as-center-of-the-vibe-coding-world-2n79)
+- [Stop shipping hard‑coded strings: Meet i18nGuard — an i18n linter for JS/TS &lpar;i18next, React‑Intl, Lingui&rpar;](https://dev.to/rmi_b83569184f2a7c0522ad/stop-shipping-hard-coded-strings-meet-i18nguard-an-i18n-linter-for-jsts-i18next-react-intl-4m8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
