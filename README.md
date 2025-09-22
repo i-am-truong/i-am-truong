@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The State of Startups 2025: Key Takeaways](https://dev.to/fmerian/the-state-of-startups-2025-key-takeaways-5h5f)
 - [Simplifying API Communication with the BFF Pattern in NextJS](https://dev.to/oliverke/simplifying-api-communication-with-the-bff-pattern-in-nextjs-1flb)
 - [Smarter CSS Targeting with :nth-child&lpar;of &lt;selector&gt;&rpar;](https://dev.to/kevinbism/smarter-css-targeting-with-nth-childof--ph6)
 - [Burnout, PIP and Self-Doubt | Looking for Career Advice After a Hard Fall](https://dev.to/simpledeveloper/burnout-pip-and-self-doubt-looking-for-career-advice-after-a-hard-fall-3o69)
 - [The Hunter Behind the Hacker](https://dev.to/stark_zhuang_df5076f35c68/the-hunter-behind-the-hacker-4gb4)
-- [Linux basics for Cloud/DevOps Engineer](https://dev.to/waser_alkarim_ca38a11eb8/linux-basics-for-clouddevops-engineer-5h37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
