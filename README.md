@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Python Automation Scripts to Supercharge Your Productivity](https://dev.to/ksujan/5-python-automation-scripts-to-supercharge-your-productivity-461l)
-- [Building Your First AI Agent: Tavily X LangGraph](https://dev.to/vedantkhairnar/building-your-first-ai-agent-tavily-x-langgraph-8c4)
-- [Getting Started with SuprSend Inbox in Your Next.js App](https://dev.to/vedantkhairnar/getting-started-with-suprsend-inbox-in-your-nextjs-app-12po)
-- [Cloud agents vs local editor as center of the vibe coding world](https://dev.to/ben/cloud-agents-vs-local-editor-as-center-of-the-vibe-coding-world-2n79)
-- [Stop shipping hard‑coded strings: Meet i18nGuard — an i18n linter for JS/TS &lpar;i18next, React‑Intl, Lingui&rpar;](https://dev.to/rmi_b83569184f2a7c0522ad/stop-shipping-hard-coded-strings-meet-i18nguard-an-i18n-linter-for-jsts-i18next-react-intl-4m8a)
+- [The Art of Simple Python Loops](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-loops-3339)
+- [The Ultimate Guide to Building WordPress Admin Pages with WP Settings Builder](https://dev.to/owaisahmed5300/the-ultimate-guide-to-building-wordpress-admin-pages-with-wp-settings-builder-1iod)
+- [Solving PHP&#39;s Module Coupling Problem: A Journey Into Modular Architecture](https://dev.to/homeless-coder/solving-phps-module-coupling-problem-a-journey-into-modular-architecture-3bao)
+- [Building an AWS Flashcards App to Study for the SAA-C03 Exam](https://dev.to/smaylle_oliveira/building-an-aws-flashcards-app-to-study-for-the-saa-c03-exam-4469)
+- [Revolutionizing Test Automation with Vibium AI: Jason Huggins](https://dev.to/nikolayadvolodkin/revolutionizing-test-automation-with-vibium-ai-jason-huggins-4a39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
