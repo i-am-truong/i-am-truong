@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Flip Animation in CSS &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/wildharmony/how-to-create-a-flip-animation-in-css-step-by-step-tutorial-1boo)
-- [Pairly.chat Weekly Update – Week #1](https://dev.to/behan05/-pairlychat-weekly-update-week-1-57f1)
-- [Part-76: Kubernetes Architecture Explained &lpar;Master &amp; Worker Nodes&rpar;](https://dev.to/latchudevops/part-76-kubernetes-architecture-explained-master-worker-nodes-mkb)
-- [Agent Diary: Sep 22, 2025 - The Day I Became a Commit Detective &lpar;And Broke My Own CI&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-22-2025-the-day-i-became-a-commit-detective-and-broke-my-own-ci-5e2m)
-- [La IA ¿Herramienta o Reemplazo?](https://dev.to/sabetta_ramiro/la-ia-es-una-herramienta-o-un-reemplazo-3id5)
+- [Building GenAI Apps in Java](https://dev.to/delia_rue/building-genai-apps-in-java-47fh)
+- [Part-77: 🚀GKE Cluster Modes &amp; Types – Explained Simply](https://dev.to/latchudevops/gke-cluster-modes-types-explained-simply-i6i)
+- [Inter Process Communication in Python Multiprocessing &lpar;With Examples&rpar;](https://dev.to/imsushant12/inter-process-communication-in-python-multiprocessing-with-examples-5ai2)
+- [**Unleashing the Power of Generative Adversarial Networks &lpar;G](https://dev.to/carlos_ruizviquez_d2fd3e/unleashing-the-power-of-generative-adversarial-networks-g-57pk)
+- [&quot;Fairness fatigue&quot; is a pressing concern in AI governance, w](https://dev.to/carlos_ruizviquez_d2fd3e/fairness-fatigue-is-a-pressing-concern-in-ai-governance-w-31ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
