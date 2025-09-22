@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-4i68)
-- [Building an AI Sales Infrastructure with Claude, n8n, and Apollo](https://dev.to/alifar/building-an-ai-sales-infrastructure-with-claude-n8n-and-apollo-4jih)
-- [What Is a Weak Pointer in Rust &lpar;and Why It Matters&rpar;?](https://dev.to/masteringbackend/what-is-a-weak-pointer-in-rust-and-why-it-matters-29m5)
-- [Máquina de hielo tubular comercial, ¿por qué elegir primero un modelo integrado?](https://dev.to/maqhielotubos/maquina-de-hielo-tubular-comercial-por-que-elegir-primero-un-modelo-integrado-4mdm)
-- [Beyond the Brand Name: What We Really Mean When We Talk About Laser Printers](https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-brand-name-what-we-really-mean-when-we-talk-about-laser-printers-2pk7)
+- [Encoding, Hashing, and Encryption: Clearing Up the Confusion](https://dev.to/chiragx309/encoding-hashing-and-encryption-clearing-up-the-confusion-3lm)
+- [Deep learning about DNS records!](https://dev.to/asad10/deep-learning-about-dns-records-2mkh)
+- [SOLID Principles in .NET Core API: A Complete Guide with Practical Examples](https://dev.to/manonaga2188/solid-principles-in-net-core-api-a-complete-guide-with-practical-examples-53ka)
+- [Zorin OS 18 Beta Just Dropped and It&#39;s Actually Pretty Sweet](https://dev.to/shiva_shanker_k/zorin-os-18-beta-just-dropped-and-its-actually-pretty-sweet-2egm)
+- [Building a SaaS app with Laravel, FilamentPHP, and Multi-DB Tenancy](https://dev.to/pro_code_5aa69286b31f6533/building-a-saas-app-with-laravel-filamentphp-and-multi-db-tenancy-2ba9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
