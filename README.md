@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DjangoCon US 2025: Security, Simplicity, and Community](https://dev.to/gitguardian/djangocon-us-2025-security-simplicity-and-community-2ilf)
+- [¿Los cubos de hielo de la máquina de tubos de hielo se derriten rápido?](https://dev.to/eficientehielotubo/los-cubos-de-hielo-de-la-maquina-de-tubos-de-hielo-se-derriten-rapido-4bi6)
+- [¿Cuáles son las ventajas del hielo de la máquina de hielo tubular?](https://dev.to/hielotubo_lab/cuales-son-las-ventajas-del-hielo-de-la-maquina-de-hielo-tubular-5em0)
+- [¿De dónde viene la fuerza para hacer hielo de la máquina de hielo tubular?](https://dev.to/hielotubular_pro/de-donde-viene-la-fuerza-para-hacer-hielo-de-la-maquina-de-hielo-tubular-2f74)
 - [Why I Love Binary Mapping](https://dev.to/culenga/why-i-love-binary-mapping-1822)
-- [Lets Be Real: Its Time to Ditch `any` for `unknown` in TypeScript](https://dev.to/trivedivatsal/lets-be-real-its-time-to-ditch-any-for-unknown-in-typescript-2cn4)
-- [Stream Gatherers in Java: A Deep Dive](https://dev.to/nk_sk_6f24fdd730188b284bf/stream-gatherers-in-java-a-deep-dive-5kk)
-- [Máquina de hielo tubular, ¿cómo se convierte el agua en hielo tubular?](https://dev.to/eficientehielotubo/maquina-de-hielo-tubular-como-se-convierte-el-agua-en-hielo-tubular-oi6)
-- [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
