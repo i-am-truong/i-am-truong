@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Nano Banana Try‑On into a Polyglot Microservices Demo &lpar;gRPC, Skaffold, K8s&rpar;](https://dev.to/lahfir_ac22d8714d76cfd31e/integrating-nano-banana-try-on-into-a-polyglot-microservices-demo-grpc-skaffold-k8s-14m4)
-- [Fireworks](https://dev.to/jorge_daluz_95988de19625/fireworks-4h7o)
-- [My Obsidian + Syncthing Setup: A Self-Hosted Cloud for Notes, Backups, and More](https://dev.to/matsch1/my-obsidian-syncthing-setup-a-self-hosted-cloud-for-notes-backups-and-more-59ic)
-- [Building My Personal Portfolio: Showcasing Projects, Blogs, and Skills](https://dev.to/shouvik_dhali_2d6e4fbe182/building-my-personal-portfolio-showcasing-projects-blogs-and-skills-1mme)
-- [The Art of Simple Python Loops](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-loops-3339)
+- [The Art of Simple Python Functions](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-functions-2bg5)
+- [Wörtilizer](https://dev.to/idosius/wortilizer-10l2)
+- [Why SPAs Still Struggle with SEO &lpar;And What Developers Can Actually Do in 2025&rpar;](https://dev.to/arkhan/why-spas-still-struggle-with-seo-and-what-developers-can-actually-do-in-2025-237b)
+- [IGN: Capcom Online Program - Tokyo Game Show Livestream](https://dev.to/gg_news/ign-capcom-online-program-tokyo-game-show-livestream-4jkl)
+- [IGN: Exploring The Fastest Growing Games](https://dev.to/gg_news/ign-exploring-the-fastest-growing-games-5cgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
