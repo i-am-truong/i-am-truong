@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Nano Banana Try‑On into a Polyglot Microservices Demo &lpar;gRPC, Skaffold, K8s&rpar;](https://dev.to/lahfir_ac22d8714d76cfd31e/integrating-nano-banana-try-on-into-a-polyglot-microservices-demo-grpc-skaffold-k8s-14m4)
+- [Fireworks](https://dev.to/jorge_daluz_95988de19625/fireworks-4h7o)
+- [My Obsidian + Syncthing Setup: A Self-Hosted Cloud for Notes, Backups, and More](https://dev.to/matsch1/my-obsidian-syncthing-setup-a-self-hosted-cloud-for-notes-backups-and-more-59ic)
+- [Building My Personal Portfolio: Showcasing Projects, Blogs, and Skills](https://dev.to/shouvik_dhali_2d6e4fbe182/building-my-personal-portfolio-showcasing-projects-blogs-and-skills-1mme)
 - [The Art of Simple Python Loops](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-loops-3339)
-- [The Ultimate Guide to Building WordPress Admin Pages with WP Settings Builder](https://dev.to/owaisahmed5300/the-ultimate-guide-to-building-wordpress-admin-pages-with-wp-settings-builder-1iod)
-- [Solving PHP&#39;s Module Coupling Problem: A Journey Into Modular Architecture](https://dev.to/homeless-coder/solving-phps-module-coupling-problem-a-journey-into-modular-architecture-3bao)
-- [Building an AWS Flashcards App to Study for the SAA-C03 Exam](https://dev.to/smaylle_oliveira/building-an-aws-flashcards-app-to-study-for-the-saa-c03-exam-4469)
-- [Revolutionizing Test Automation with Vibium AI: Jason Huggins](https://dev.to/nikolayadvolodkin/revolutionizing-test-automation-with-vibium-ai-jason-huggins-4a39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
