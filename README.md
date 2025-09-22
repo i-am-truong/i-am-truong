@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Job Scheduling System - Part 2](https://dev.to/zeeshanali0704/advanced-job-scheduling-system-part-2-41pl)
-- [Selection Sort: Detailed Explanation](https://dev.to/mohamad_mhana/selection-sort-detailed-explanation-14h0)
-- [Advanced Job Scheduling System: Part 1](https://dev.to/zeeshanali0704/advanced-job-scheduling-system-part-1-4pah)
-- [Set Up Real-Time Sync Apps With Ditto and MongoDB in 10 Minutes](https://dev.to/mongodb/set-up-real-time-sync-apps-with-ditto-and-mongodb-in-10-minutes-ojm)
-- [Your React Native App Has 18 Months to Live](https://dev.to/refactory/your-react-native-app-has-18-months-to-live-9lc)
+- [Building the Future of Banking with AI Agents: A GKE Hackathon Journey](https://dev.to/cajpany/building-the-future-of-banking-with-ai-agents-a-gke-hackathon-journey-2l8n)
+- [The Real Reason Your &quot;Computer and Mobile&quot; Strategy is Failing &lpar;And It’s Not What You Think&rpar;](https://dev.to/jyoti_eb2834cf419b8c283b3/the-real-reason-your-computer-and-mobile-strategy-is-failing-and-its-not-what-you-think-4fgm)
+- [New React Components Library from SVAR](https://dev.to/olga_tash/new-react-components-library-from-svar-40mm)
+- [🔥 Stop Wasting Time with APIs — Build a Full Backend in Minutes using Supabase &amp; React!](https://dev.to/ekwoster/stop-wasting-time-with-apis-build-a-full-backend-in-minutes-using-supabase-react-2b28)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/augo_amos/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-23op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
