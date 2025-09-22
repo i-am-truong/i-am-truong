@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Containerization Without the Cloud: Running Docker Locally for Fun and Speed](https://dev.to/bennay1990/containerization-without-the-cloud-running-docker-locally-for-fun-and-speed-53dl)
+- [What the COW? Understanding Docker&#39;s Smart Storage Secret](https://dev.to/harsh_raj_934dd76b12195ee/what-the-cow-understanding-dockers-smart-storage-secret-37k0)
+- [Critical Infrastructure Protection Program: A Comprehensive Guide](https://dev.to/kapusto/critical-infrastructure-protection-program-a-comprehensive-guide-146d)
 - [Enterprise IoT Security: Best Practices for Protecting Connected Devices](https://dev.to/kapusto/enterprise-iot-security-best-practices-for-protecting-connected-devices-46c0)
 - [I am trying to find the best prompt testing framework for a project I am working on, and have narrowed down the options to Promptfoo, LangSmith, and PromptPex. Does anyone have any experience on which might be the best option? #testing #promptengineering](https://dev.to/bytesofash/i-am-trying-to-find-the-best-prompt-testing-framework-for-a-project-i-am-working-on-and-have-h51)
-- [My Python KeyLogger Project: More Than Just Keystroke Capture!](https://dev.to/bolewara/my-python-keylogger-project-more-than-just-keystroke-capture-lpk)
-- [Confessions of a Big Screen Bigot](https://dev.to/leeca/confessions-of-a-big-screen-bigot-5589)
-- [No Code Admin Panel Platform](https://dev.to/pillaimanish/no-code-admin-panel-platform-5ac1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
