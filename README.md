@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EduBox - AI Student Hub](https://dev.to/aryprogrammer/edubox-ai-student-hub-21il)
+- [Java String contains&lpar;&rpar; Method: How to Check Substrings with Examples](https://dev.to/suraj_kumar_fb57ae0928df2/java-string-contains-method-how-to-check-substrings-with-examples-331n)
+- [From UX to HX: Designing Human Experiences, Not Just User Flows](https://dev.to/dct_technology/from-ux-to-hx-designing-human-experiences-not-just-user-flows-3pfh)
 - [What is Deep Memory in AI? How Persistent Memory is Revolutionizing Personal AI](https://dev.to/gruve_abby_2bb4e7e1499283/what-is-deep-memory-in-ai-how-persistent-memory-is-revolutionizing-personal-ai-42aj)
 - [Cloud Without Clouds: The Rise of Decentralized Edge Computing](https://dev.to/dct_technology/cloud-without-clouds-the-rise-of-decentralized-edge-computing-5ad1)
-- [Geometric Methods in Data Preprocessing: Enhancing Your Data Through Spatial Thinking](https://dev.to/satwik_mishra_4db19c395ae/geometric-methods-in-data-preprocessing-enhancing-your-data-through-spatial-thinking-2ce4)
-- [We, Coders, Often Don&#39;t Get To Solve Problems—And That&#39;s Boring](https://dev.to/canro91/we-coders-often-dont-get-to-solve-problems-and-thats-boring-8jb)
-- [🧠GraphScout: Self-Discovering Paths in OrKA](https://dev.to/marcosomma/graphscout-self-discovering-paths-in-orka-348k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
