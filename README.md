@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Are Data Structures? A Random CS Student&#39;s Guide &lpar;Part 1: Arrays&rpar;](https://dev.to/elsad_humbetli_0971c995ce/what-are-data-structures-a-random-cs-students-guide-part-1-arrays-1dhg)
+- [Puzzles &lpar;Hints and Solutions&rpar;](https://dev.to/d3one/puzzles-hints-and-solutions-4hig)
+- [Speech-to-Text Translation Software: 5 Critical Enterprise Features](https://dev.to/elenahartmann/speech-to-text-translation-software-5-critical-enterprise-features-mka)
+- [What Are Data Structures and Algorithms? A Random CS Student&#39;s Guide &lpar;Part 1: Arrays&rpar;](https://dev.to/elsad_humbetli_0971c995ce/what-are-data-structures-a-random-cs-students-guide-part-1-arrays-1dhg)
 - [Automate Your Dev Setup with PowerShell: Open Multiple Apps at Once](https://dev.to/shrinidhia/automate-your-dev-setup-with-powershell-open-multiple-apps-at-once-1e98)
 - [Auto-generated IDs VS Manually created: which approach to chose?](https://dev.to/juliashevchenko/auto-generated-ids-vs-manually-created-which-approach-to-chose-5b0g)
-- [Tableau Filtering Actions Made Easy: A Complete Guide for Analysts](https://dev.to/dipti_moryani_185c244d578/tableau-filtering-actions-made-easy-a-complete-guide-for-analysts-4oik)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2i1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
