@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Modulax Airdrop System: Incentives Built for Early Supporters](https://dev.to/modulaxorg/modulax-airdrop-system-incentives-built-for-early-supporters-471g)
-- [Master the Art of Penetration Testing: A Hands-On Guide for Developers](https://dev.to/auyeungdavid_2847435260/master-the-art-of-penetration-testing-a-hands-on-guide-for-developers-1k47)
-- [Modeling Time Series Processes with GARCH: Understanding Volatility](https://dev.to/dipti_moryani_9137d0a2e44/modeling-time-series-processes-with-garch-understanding-volatility-2f5d)
-- [Building the Future of Banking with AI Agents: A GKE Hackathon Journey](https://dev.to/cajpany/building-the-future-of-banking-with-ai-agents-a-gke-hackathon-journey-2l8n)
-- [The Real Reason Your &quot;Computer and Mobile&quot; Strategy is Failing &lpar;And It’s Not What You Think&rpar;](https://dev.to/jyoti_eb2834cf419b8c283b3/the-real-reason-your-computer-and-mobile-strategy-is-failing-and-its-not-what-you-think-4fgm)
+- [Meetup: from 40% savings to smart scaling](https://dev.to/getjv/meetup-from-40-savings-to-smart-scaling-4min)
+- [Discuss: What’s the #1 headache in portfolio tracking today?](https://dev.to/pocketportfolioapp/discuss-whats-the-1-headache-in-portfolio-tracking-today-3mgi)
+- [More Than a Pocket Toy: How Mobile Computing Actually Runs Your Life](https://dev.to/jyoti_eb2834cf419b8c283b3/more-than-a-pocket-toy-how-mobile-computing-actually-runs-your-life-bak)
+- [I built a free website for printing motivational quotes from successful entrepreneurs to hang on your wall.](https://dev.to/hasib_haque_211bda2154dae/i-built-a-free-website-for-printing-motivational-quotes-from-successful-entrepreneurs-to-hang-on-13b7)
+- [The Unbreachable Resort: When Symfony 6.4 Goes to Therapy with GDPR, PCI DSS and HIPAA&lpar;1 part&rpar;](https://dev.to/igornosatov_15/the-unbreachable-resort-when-symfony-goes-to-therapy-with-gdpr-pci-dss-and-hipaa1-part-590e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
