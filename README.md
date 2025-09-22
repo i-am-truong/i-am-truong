@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI benchmarks, explain like i&#39;m five](https://dev.to/koha/ai-benchmarks-explain-like-im-five-5dno)
-- [Idempotency Keys: Your API&#39;s Safety Net Against Chaos](https://dev.to/leonardkachi/idempotency-keys-your-apis-safety-net-against-chaos-j1b)
-- [Why Does Concurrency Have to Be So Hard in Java After 20 Years?](https://dev.to/rob_d_2c0d55e14e7037f2/why-does-concurrency-have-to-be-so-hard-in-java-after-20-years-jmb)
-- [JUMIA PRODUCT PERFORMANCE DASHBOARD ANALYSIS.](https://dev.to/faybeth_robina/jumia-product-performance-dashboard-analysis-51m)
-- [The Ugly Truth About Postgres &amp; pgvector](https://dev.to/realchrissean/the-ugly-truth-about-postgres-pgvector-568c)
+- [GameSpot: Capcom Online Special Program TGS 2025 Livestream](https://dev.to/gg_news/gamespot-capcom-online-special-program-tgs-2025-livestream-33fe)
+- [IGN: Sonic Racing: CrossWorlds - Official Launch Trailer](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-launch-trailer-2192)
+- [IGN: Hollow Knight: Silksong Simple Key Guide | How to Find All Simple Keys and Their Locks](https://dev.to/gg_news/ign-hollow-knight-silksong-simple-key-guide-how-to-find-all-simple-keys-and-their-locks-27je)
+- [IGN: Diablo 4 - Official Season of Infernal Chaos Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-season-of-infernal-chaos-overview-trailer-2kc6)
+- [IGN: Indie Fan Fest](https://dev.to/gg_news/ign-indie-fan-fest-4f55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
