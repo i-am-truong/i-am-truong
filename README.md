@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Medium Zoom Next - JS library for image zooming](https://dev.to/thanksboss/medium-zoom-next-js-library-for-image-zooming-5eg3)
-- [Database Optimizations: Indexing](https://dev.to/zeeshanali0704/database-optimizations-indexing-4ddn)
-- [Agent Identity for MCP: Prefactor&#39;s Approach to Secure, Auditable AI Agents](https://dev.to/om_shree_0709/agent-identity-for-mcp-prefactors-approach-to-secure-auditable-ai-agents-1o15)
-- [How Go &lpar;Golang&rpar; is Shaping the Future of Cloud Computing](https://dev.to/srijan-xi/how-go-golang-is-shaping-the-future-of-cloud-computing-3no3)
-- [Best PDF Parsers for RAG Applications](https://dev.to/biomathcode/best-pdf-parsers-for-rag-applications-26j8)
+- [Continuous AI Maturity Model: Where Do You Stand in the CAI Adoption?](https://dev.to/babblebey/continuous-ai-maturity-model-where-do-you-stand-in-the-cai-adoption-22n2)
+- [Why Developers Can’t Ignore Docker Anymore](https://dev.to/omkarsharma2821/why-developers-cant-ignore-docker-anymore-1do8)
+- [📰 Major Tech News: September 22, 2025](https://dev.to/om_shree_0709/major-tech-news-september-22-2025-3lg0)
+- [Using historical books to create structured knowledge graphs in SurrealDB](https://dev.to/surrealdb/using-historical-books-to-create-structured-knowledge-graphs-in-surrealdb-3d7j)
+- [Building AI Agents with GKE](https://dev.to/ki3ani/building-ai-agents-with-gke-5clk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
