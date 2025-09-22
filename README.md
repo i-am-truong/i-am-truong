@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI benchmarks, explain like i&#39;m five](https://dev.to/koha/ai-benchmarks-explain-like-im-five-5dno)
+- [Idempotency Keys: Your API&#39;s Safety Net Against Chaos](https://dev.to/leonardkachi/idempotency-keys-your-apis-safety-net-against-chaos-j1b)
+- [Why Does Concurrency Have to Be So Hard in Java After 20 Years?](https://dev.to/rob_d_2c0d55e14e7037f2/why-does-concurrency-have-to-be-so-hard-in-java-after-20-years-jmb)
 - [JUMIA PRODUCT PERFORMANCE DASHBOARD ANALYSIS.](https://dev.to/faybeth_robina/jumia-product-performance-dashboard-analysis-51m)
 - [The Ugly Truth About Postgres &amp; pgvector](https://dev.to/realchrissean/the-ugly-truth-about-postgres-pgvector-568c)
-- [Untitled](https://dev.to/jorge_daluz_95988de19625/untitled-43df)
-- [[Boost]](https://dev.to/batunpc/-21j4)
-- [From 10-Week Project to Long-Term Partnership](https://dev.to/saminarp/from-10-week-project-to-long-term-partnership-551p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
