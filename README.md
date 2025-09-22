@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [useEffect&lpar;&rpar; detail explanation](https://dev.to/cathylai/useeffect-detail-explanation-4ocg)
-- [Why Linux Kernel is the Beating Heart of Technology](https://dev.to/farzandev13/why-linux-kernel-is-the-beating-heart-of-technology-1en3)
-- [Untitled](https://dev.to/abdullah_alfarsi_7688d7cc/untitled-36gm)
-- [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
-- [Coding Challenge Practice - Question 12](https://dev.to/tomivan/coding-challenge-practice-question-12-4i35)
+- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 5: PWA, SSR, Zone.js &amp; Optimization](https://dev.to/parthraval01/angular-20-interview-questions-and-answers-2025-part-5-pwa-ssr-zonejs-optimization-2n94)
+- [Why GraphQL is Gaining Adoption](https://dev.to/baraq/why-graphql-is-gaining-adoption-5g25)
+- [From Vision to Execution: A System-of-Systems Approach for Smart Cards and RFID](https://dev.to/antonio_socorro_95e3ff086/from-vision-to-execution-a-system-of-systems-approach-for-smart-cards-and-rfid-56cf)
+- [The Art of the Dad Gift: A Daughter&#39;s Guide to Custom Cool](https://dev.to/sloansstore/the-art-of-the-dad-gift-a-daughters-guide-to-custom-cool-30g4)
+- [Diseñando un Sistema Completo de Smart Cards y RFID: Primeros Pasos y Componentes Clave](https://dev.to/antonio_socorro_95e3ff086/disenando-un-sistema-completo-de-smart-cards-y-rfid-primeros-pasos-y-componentes-clave-3e53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
