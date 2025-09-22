@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Free Tailwind CSS UI Kits &amp; Component Libraries 2025](https://dev.to/hashbyt/10-free-tailwind-css-ui-kits-component-libraries-2025-1gge)
-- [Building a Bedtime Stories App](https://dev.to/libar/building-a-bedtime-stories-app-developer-insights-with-apples-foundation-models-and-image-325c)
-- [Billin: Building a modern cross-platform invoice app with Compose Multiplatform](https://dev.to/rockandnull/billin-building-a-modern-cross-platform-invoice-app-with-compose-multiplatform-pm9)
-- [Pynguin: The Python Unit Test Generator That Will Change Your Life!](https://dev.to/githubopensource/pynguin-the-python-unit-test-generator-that-will-change-your-life-1mpp)
-- [OOMKill in Kubernetes and Linux &lpar;Exit Code 137&rpar;](https://dev.to/alimehr75/oomkill-in-kubernetes-and-linux-exit-code-137-20ba)
+- [🔐 Fine-Grained Role Control for MCP Tools with APIM](https://dev.to/imdj/fine-grained-role-control-for-mcp-tools-with-apim-2pn7)
+- [KEXP: Cardiel - Perros &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-perros-live-on-kexp-482h)
+- [The Game Theorists: Game Theory: What is Minecraft&#39;s Suspicious Stew?](https://dev.to/gg_news/the-game-theorists-game-theory-what-is-minecrafts-suspicious-stew-39d0)
+- [IGN: Fatal Fury: City of the Wolves - Official Joe Higashi Trailer](https://dev.to/gg_news/ign-fatal-fury-city-of-the-wolves-official-joe-higashi-trailer-54g2)
+- [IGN: Endless Legend 2 - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-endless-legend-2-official-early-access-launch-trailer-45d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
