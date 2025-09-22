@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-4i68)
+- [Building an AI Sales Infrastructure with Claude, n8n, and Apollo](https://dev.to/alifar/building-an-ai-sales-infrastructure-with-claude-n8n-and-apollo-4jih)
+- [What Is a Weak Pointer in Rust &lpar;and Why It Matters&rpar;?](https://dev.to/masteringbackend/what-is-a-weak-pointer-in-rust-and-why-it-matters-29m5)
+- [Máquina de hielo tubular comercial, ¿por qué elegir primero un modelo integrado?](https://dev.to/maqhielotubos/maquina-de-hielo-tubular-comercial-por-que-elegir-primero-un-modelo-integrado-4mdm)
 - [Beyond the Brand Name: What We Really Mean When We Talk About Laser Printers](https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-brand-name-what-we-really-mean-when-we-talk-about-laser-printers-2pk7)
-- [How PropTech Software Development is Revolutionizing Real Estate](https://dev.to/__ofigenus/how-proptech-software-development-is-revolutionizing-real-estate-3p37)
-- [The Nerd&#39;s Guide to Laser Printers: More Than Just Magic and Static**](https://dev.to/jyoti_eb2834cf419b8c283b3/the-nerds-guide-to-laser-printers-more-than-just-magic-and-static-m5g)
-- [How to Connect Dynamics 365 Pharma CRM to Power BI for Real-Time Sales Dashboards](https://dev.to/syedkamran/how-to-connect-dynamics-365-pharma-crm-to-power-bi-for-real-time-sales-dashboards-3602)
-- [Using OIDC with .NET to connect to MongoDB Atlas](https://dev.to/mongodb/using-oidc-with-net-to-connect-to-mongodb-atlas-37kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
