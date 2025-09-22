@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everyone will be replaced...](https://dev.to/zenoshubh/everyone-will-be-replaced-4855)
-- [When ECharts Refused to Scroll: My Hacky but Beautiful Fix](https://dev.to/shubhamsapkal/when-echarts-refused-to-scroll-my-hacky-but-beautiful-fix-3nfo)
-- [A supposedly fun interview I&#39;ll never do again*](https://dev.to/luc4587/a-supposedly-fun-interview-ill-never-do-again-3d60)
-- [[Boost]](https://dev.to/jatniel/-5dp9)
-- [Solidity Libraries](https://dev.to/loading_blocks/solidity-libraries-4ceo)
+- [Set Up Real-Time Sync Apps With Ditto and MongoDB in 10 Minutes](https://dev.to/mongodb/set-up-real-time-sync-apps-with-ditto-and-mongodb-in-10-minutes-ojm)
+- [Secure On-chain Randomness By Oasis Is A Great Way To Answer The Blockchain Need For RNG](https://dev.to/dc600/secure-on-chain-randomness-by-oasis-is-a-great-way-to-answer-the-blockchain-need-for-rng-10j8)
+- [More Than a Beep: A Developer&#39;s Guide to How Scanners Actually Work](https://dev.to/jyoti_eb2834cf419b8c283b3/more-than-a-beep-a-developers-guide-to-how-scanners-actually-work-2dbd)
+- [🔌 Exposing Logic Apps MCP Server via Azure API Management &lpar;APIM&rpar;](https://dev.to/imdj/exposing-logic-apps-mcp-server-via-azure-api-management-apim-1l9)
+- [The Complete Guide to Serverless Computing: Focus on Logic, Not Infrastructure](https://dev.to/devcorner/the-complete-guide-to-serverless-computing-focus-on-logic-not-infrastructure-aik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
