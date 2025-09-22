@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Unbeatable Workhorse: Why Your Desk Needs a Monochrome Laser Printer](https://dev.to/jyoti_eb2834cf419b8c283b3/the-unbeatable-workhorse-why-your-desk-needs-a-monochrome-laser-printer-34p3)
+- [Why People Need to Learn Project Management in the Era of AI](https://dev.to/srijan-xi/why-people-need-to-learn-project-management-in-the-era-of-ai-23ei)
+- [Stop Overthinking It: The Real &quot;Laser Printer Meaning&quot; for Developers](https://dev.to/jyoti_eb2834cf419b8c283b3/stop-overthinking-it-the-real-laser-printer-meaning-for-developers-30m1)
 - [Meetup: from 40% savings to smart scaling](https://dev.to/getjv/meetup-from-40-savings-to-smart-scaling-4min)
 - [Discuss: What’s the #1 headache in portfolio tracking today?](https://dev.to/pocketportfolioapp/discuss-whats-the-1-headache-in-portfolio-tracking-today-3mgi)
-- [More Than a Pocket Toy: How Mobile Computing Actually Runs Your Life](https://dev.to/jyoti_eb2834cf419b8c283b3/more-than-a-pocket-toy-how-mobile-computing-actually-runs-your-life-bak)
-- [I built a free website for printing motivational quotes from successful entrepreneurs to hang on your wall.](https://dev.to/hasib_haque_211bda2154dae/i-built-a-free-website-for-printing-motivational-quotes-from-successful-entrepreneurs-to-hang-on-13b7)
-- [The Unbreachable Resort: When Symfony 6.4 Goes to Therapy with GDPR, PCI DSS and HIPAA&lpar;1 part&rpar;](https://dev.to/igornosatov_15/the-unbreachable-resort-when-symfony-goes-to-therapy-with-gdpr-pci-dss-and-hipaa1-part-590e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
