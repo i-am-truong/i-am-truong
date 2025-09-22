@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Achieving TB-Level Aggregate Bandwidth: How JuiceFS Optimized Distributed Cache Network](https://dev.to/daswu/achieving-tb-level-aggregate-bandwidth-how-juicefs-optimized-distributed-cache-network-207j)
-- [How to get and use free PVS-Studio license. Part 1: Preparing and getting started](https://dev.to/pvsdev/how-to-get-and-use-free-pvs-studio-license-part-1-preparing-and-getting-started-1kdg)
-- [ML-based profiling of data skew and bottlenecks on Databricks](https://dev.to/danialgauhar/ml-based-profiling-of-data-skew-and-bottlenecks-on-databricks-58h6)
-- [Máquina de hielo tubular, ¿qué es en esencia?](https://dev.to/hielotubo_lab/maquina-de-hielo-tubular-que-es-en-esencia-27dp)
-- [Stop Wasting SMS: Real-Time Phone Verification with CheckHim](https://dev.to/arikardnoir/stop-wasting-sms-real-time-phone-verification-with-checkhim-2lkp)
+- [Simplifying API Communication with the BFF Pattern in NextJS](https://dev.to/oliverke/simplifying-api-communication-with-the-bff-pattern-in-nextjs-1flb)
+- [Smarter CSS Targeting with :nth-child&lpar;of &lt;selector&gt;&rpar;](https://dev.to/kevinbism/smarter-css-targeting-with-nth-childof--ph6)
+- [Burnout, PIP and Self-Doubt | Looking for Career Advice After a Hard Fall](https://dev.to/simpledeveloper/burnout-pip-and-self-doubt-looking-for-career-advice-after-a-hard-fall-3o69)
+- [The Hunter Behind the Hacker](https://dev.to/stark_zhuang_df5076f35c68/the-hunter-behind-the-hacker-4gb4)
+- [Linux basics for Cloud/DevOps Engineer](https://dev.to/waser_alkarim_ca38a11eb8/linux-basics-for-clouddevops-engineer-5h37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
