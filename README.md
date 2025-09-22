@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BlueprintDSL: Bringing the Vibe Back to Vibe Coding](https://dev.to/araldhafeeri/blueprintdsl-bringing-the-vibe-back-to-vibe-coding-2m4m)
-- [AI Tools That Help Freelancers Get Noticed by Top Recruiters](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/ai-tools-that-help-freelancers-get-noticed-by-top-recruiters-2a0e)
-- [Building a Reddit Sentiment Pipeline using Python, PostgreSQL, VADER, Airflow, Grafana, Prometheus and StatsD](https://dev.to/dkkinyua/building-a-reddit-sentiment-pipeline-using-python-postgresql-vader-airflow-grafana-prometheus-5gdn)
-- [¿Qué hay que saber sobre el almacén de hielo en tubos?](https://dev.to/maqhielotubo_smart/que-hay-que-saber-sobre-el-almacen-de-hielo-en-tubos-2mda)
-- [Best Platform to Learn Machine Learning: A Complete Guide](https://dev.to/stack_overflowed/best-platform-to-learn-machine-learning-a-complete-guide-2c08)
+- [Achieving TB-Level Aggregate Bandwidth: How JuiceFS Optimized Distributed Cache Network](https://dev.to/daswu/achieving-tb-level-aggregate-bandwidth-how-juicefs-optimized-distributed-cache-network-207j)
+- [How to get and use free PVS-Studio license. Part 1: Preparing and getting started](https://dev.to/pvsdev/how-to-get-and-use-free-pvs-studio-license-part-1-preparing-and-getting-started-1kdg)
+- [ML-based profiling of data skew and bottlenecks on Databricks](https://dev.to/danialgauhar/ml-based-profiling-of-data-skew-and-bottlenecks-on-databricks-58h6)
+- [Máquina de hielo tubular, ¿qué es en esencia?](https://dev.to/hielotubo_lab/maquina-de-hielo-tubular-que-es-en-esencia-27dp)
+- [Stop Wasting SMS: Real-Time Phone Verification with CheckHim](https://dev.to/arikardnoir/stop-wasting-sms-real-time-phone-verification-with-checkhim-2lkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
