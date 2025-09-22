@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Love Binary Mapping](https://dev.to/culenga/why-i-love-binary-mapping-1822)
+- [Lets Be Real: Its Time to Ditch `any` for `unknown` in TypeScript](https://dev.to/trivedivatsal/lets-be-real-its-time-to-ditch-any-for-unknown-in-typescript-2cn4)
+- [Stream Gatherers in Java: A Deep Dive](https://dev.to/nk_sk_6f24fdd730188b284bf/stream-gatherers-in-java-a-deep-dive-5kk)
 - [Máquina de hielo tubular, ¿cómo se convierte el agua en hielo tubular?](https://dev.to/eficientehielotubo/maquina-de-hielo-tubular-como-se-convierte-el-agua-en-hielo-tubular-oi6)
 - [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
-- [Git: From Zero to First Commit - Developer Journey Begins](https://dev.to/swathi_macha/git-from-zero-to-first-commit-developer-journey-begins-170d)
-- [Mi propio procesador de textos en ZX Sinclair BASIC &lpar;y II&rpar;](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-y-ii-309e)
-- [10 SOL Claimed in Just 10 Days! from claimyoursols.app](https://dev.to/zouhairstack/10-sol-claimed-in-just-10-days-from-claimyoursolsapp-akk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
