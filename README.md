@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Linktree-Lite with Node.js, Express, and Mustache &lpar;API + Frontend Page&rpar;](https://dev.to/razvan_ludosanu_31d9d22b8/build-your-own-linktree-lite-with-nodejs-express-and-mustache-api-frontend-page-1ak5)
+- [100 Days of DevOps: Day 50](https://dev.to/wycliffealphus/100-days-of-devops-day-50-3dpk)
+- [The power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-application-iig)
+- [Build Your Own Linktree-Lite with Node.js, Express, and Mustache &lpar;API + Frontend Page&rpar;](https://dev.to/learnbackenddotdev/build-your-own-linktree-lite-with-nodejs-express-and-mustache-api-frontend-page-1ak5)
 - [Resources: Data Visualisation](https://dev.to/gzamann/resources-data-visualisation-237n)
 - [Getting Started with Google Gemini Embeddings in Python: A Hands-On Guide](https://dev.to/imthadh_ahamed/getting-started-with-google-gemini-embeddings-in-python-a-hands-on-guide-bfi)
-- [Complete Configuration Guide for Maximum Read and Write Performance](https://dev.to/devaaai/complete-configuration-guide-for-maximum-read-and-write-performance-2bm6)
-- [CSS Media Query in Javascript](https://dev.to/gzamann/css-media-query-in-javascript-24ga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
