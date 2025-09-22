@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Modern Best Practices for Structuring Large-Scale Angular Applications](https://dev.to/xrdev38/10-modern-best-practices-for-structuring-large-scale-angular-applications-2m9d)
+- [Building Agentic Fusion: AI-Powered Business Intelligence for Kubernetes Microservices](https://dev.to/techfusion/building-agentic-fusion-ai-powered-business-intelligence-for-kubernetes-microservices-56ci)
 - [GameSpot: Capcom Online Special Program TGS 2025 Livestream](https://dev.to/gg_news/gamespot-capcom-online-special-program-tgs-2025-livestream-33fe)
 - [IGN: Sonic Racing: CrossWorlds - Official Launch Trailer](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-launch-trailer-2192)
 - [IGN: Hollow Knight: Silksong Simple Key Guide | How to Find All Simple Keys and Their Locks](https://dev.to/gg_news/ign-hollow-knight-silksong-simple-key-guide-how-to-find-all-simple-keys-and-their-locks-27je)
-- [IGN: Diablo 4 - Official Season of Infernal Chaos Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-season-of-infernal-chaos-overview-trailer-2kc6)
-- [IGN: Indie Fan Fest](https://dev.to/gg_news/ign-indie-fan-fest-4f55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
