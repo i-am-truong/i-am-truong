@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Student Developer Pack - Empowering Tomorrow’s Developers Today](https://dev.to/srijan-xi/github-student-developer-pack-empowering-tomorrows-developers-today-gg0)
-- [3-Month Roadmap to Becoming a Full-Stack Developer in Today&#39;s Tech Landscape](https://dev.to/srijan-xi/3-month-roadmap-to-becoming-a-full-stack-developer-in-todays-tech-landscape-271g)
-- [JavaScript Data Structures: Linked List](https://dev.to/xrdev38/javascript-data-structures-linked-list-2p75)
-- [A Simple Guide to SVG and How It Works](https://dev.to/lovestaco/a-simple-guide-to-svg-and-how-it-works-7kb)
-- [First Interview of My Job Search: Lessons &amp; Next Steps](https://dev.to/sagar_jariwala_30fafe8395/first-interview-of-my-job-search-lessons-next-steps-1ce6)
+- [Building a Chat Interface: From Components to Conversation](https://dev.to/gazolla/building-a-chat-interface-from-components-to-conversation-53jc)
+- [Grant Horvat: Can I Beat Max Homa if I Start 5 Under Par?](https://dev.to/youtube_golf/grant-horvat-can-i-beat-max-homa-if-i-start-5-under-par-i91)
+- [GameSpot: SILENT HILL f | Official Launch Trailer](https://dev.to/gg_news/gamespot-silent-hill-f-official-launch-trailer-2cj0)
+- [GameSpot: Top Hat Studios&#39; TGS Fall Showcase 2025](https://dev.to/gg_news/gamespot-top-hat-studios-tgs-fall-showcase-2025-20hc)
+- [GameSpot: Indie Fan Fest Fall 2025](https://dev.to/gg_news/gamespot-indie-fan-fest-fall-2025-4bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
