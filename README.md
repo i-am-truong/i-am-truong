@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [¿El panel de control de la máquina de hielo tubular tiene muchas funciones?](https://dev.to/hielotubo_tec/el-panel-de-control-de-la-maquina-de-hielo-tubular-tiene-muchas-funciones-2nc0)
+- [Ever Dreamed of Talking to Your Computer? Get Ready for the Age of AI Assistants!](https://dev.to/karthik_n/ever-dreamed-of-talking-to-your-computer-get-ready-for-the-age-of-ai-assistants-1hcn)
+- [Mastering React Hooks: useEffect, useReducer, and Custom Hooks](https://dev.to/djamware_tutorial_eba1a61/mastering-react-hooks-useeffect-usereducer-and-custom-hooks-3n46)
+- [Las válvulas de la máquina de tubo de hielo, ¿qué controlan?](https://dev.to/eficientehielotubo/las-valvulas-de-la-maquina-de-tubo-de-hielo-que-controlan-3hhk)
 - [¿El motor de la máquina de hielo tubular, qué componente impulsa?](https://dev.to/hielotubo_lab/el-motor-de-la-maquina-de-hielo-tubular-que-componente-impulsa-3p5a)
-- [The Future of Python: Trends and Uses in 2025](https://dev.to/sanjaynaker/the-future-of-python-trends-and-uses-in-2025-31i1)
-- [90 Days of Code: Day 14 - Building a Beginner-Friendly Word Scramble Game with Python](https://dev.to/momina_raheelmoona_c59/90-days-of-code-day-14-building-a-beginner-friendly-word-scramble-game-with-python-38hc)
-- [Diffium: The git diff manager for ai-assisted programming](https://dev.to/kubeden/diffium-the-git-diff-manager-for-ai-assisted-programming-38dj)
-- [¿Cuál es la función del filtro en la máquina de tubos de hielo?](https://dev.to/hielotubular_pro/cual-es-la-funcion-del-filtro-en-la-maquina-de-tubos-de-hielo-1l72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
