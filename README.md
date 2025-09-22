@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Continuous AI Maturity Model: Where Do You Stand in the CAI Adoption?](https://dev.to/babblebey/continuous-ai-maturity-model-where-do-you-stand-in-the-cai-adoption-22n2)
 - [Why Developers Can’t Ignore Docker Anymore](https://dev.to/omkarsharma2821/why-developers-cant-ignore-docker-anymore-1do8)
 - [📰 Major Tech News: September 22, 2025](https://dev.to/om_shree_0709/major-tech-news-september-22-2025-3lg0)
-- [Using historical books to create structured knowledge graphs in SurrealDB](https://dev.to/surrealdb/using-historical-books-to-create-structured-knowledge-graphs-in-surrealdb-3d7j)
 - [Building AI Agents with GKE](https://dev.to/ki3ani/building-ai-agents-with-gke-5clk)
+- [JavaScript Form Handling and Validation: A Complete Guide with DOM Examples](https://dev.to/wisdomudo/javascript-form-handling-and-validation-a-complete-guide-with-dom-examples-2i8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
