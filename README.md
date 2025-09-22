@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Student Developer Pack - Empowering Tomorrow’s Developers Today](https://dev.to/srijan-xi/github-student-developer-pack-empowering-tomorrows-developers-today-gg0)
+- [3-Month Roadmap to Becoming a Full-Stack Developer in Today&#39;s Tech Landscape](https://dev.to/srijan-xi/3-month-roadmap-to-becoming-a-full-stack-developer-in-todays-tech-landscape-271g)
+- [JavaScript Data Structures: Linked List](https://dev.to/xrdev38/javascript-data-structures-linked-list-2p75)
 - [A Simple Guide to SVG and How It Works](https://dev.to/lovestaco/a-simple-guide-to-svg-and-how-it-works-7kb)
-- [Continuous AI Maturity Model: Where Do You Stand in the CAI Adoption?](https://dev.to/babblebey/continuous-ai-maturity-model-where-do-you-stand-in-the-cai-adoption-22n2)
-- [Why Developers Can’t Ignore Docker Anymore](https://dev.to/omkarsharma2821/why-developers-cant-ignore-docker-anymore-1do8)
-- [📰 Major Tech News: September 22, 2025](https://dev.to/om_shree_0709/major-tech-news-september-22-2025-3lg0)
-- [Building AI Agents with GKE](https://dev.to/ki3ani/building-ai-agents-with-gke-5clk)
+- [First Interview of My Job Search: Lessons &amp; Next Steps](https://dev.to/sagar_jariwala_30fafe8395/first-interview-of-my-job-search-lessons-next-steps-1ce6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
