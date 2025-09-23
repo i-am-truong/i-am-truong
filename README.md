@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taming Stateful at the Edge: A Real-Time API with Cloudflare Durable Objects](https://dev.to/adrai/taming-stateful-at-the-edge-a-real-time-api-with-cloudflare-durable-objects-57dm)
+- [If You Could Redesign Server Access, What Would You Build?](https://dev.to/baek/if-you-could-redesign-server-access-what-would-you-build-121)
+- [React Native + Expo vs Bare Workflow: Which Should You Choose?](https://dev.to/lucas_wade_0596/react-native-expo-vs-bare-workflow-which-should-you-choose-47lo)
 - [Fraudulent silence is just another tactic. These conspirators know they cannot defend the fraud, so they hide. That makes them look even guiltier.](https://dev.to/kierwolf20/fraudulent-silence-is-just-another-tactic-these-conspirators-know-they-cannot-defend-the-fraud-so-7ba)
 - [Comparing Web3 Wallet Onboarding: Dynamic.xyz, Web3Auth.io, and Privy.io](https://dev.to/heyradcode/comparing-web3-wallet-onboarding-dynamicxyz-web3authio-and-privyio-1018)
-- [Unit Of Work In ASP.Net Core](https://dev.to/learntechwithsaumya/unit-of-work-in-aspnet-core-pk0)
-- [🌍Step-by-Step Guide to Setting Up an Angular Application with CMS-Driven Architecture&lpar;Optimizely&rpar;](https://dev.to/syed_haris/step-by-step-guide-to-setting-up-an-angular-application-with-cms-driven-architectureoptimizely-1ka8)
-- [🚀 The Complete Guide to Building Mock Servers in Python](https://dev.to/nk_sk_6f24fdd730188b284bf/the-complete-guide-to-building-mock-servers-in-python-389m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
