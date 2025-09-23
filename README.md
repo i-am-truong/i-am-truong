@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [اولین تجربه‌م در ساخت یک مارکت‌پلیس گیم با Next.js و FastAPI](https://dev.to/m0h3n/wlyn-tjrbhm-dr-skht-ykh-mrkhtplys-gym-b-nextjs-w-fastapi-47ci)
-- [Optimizing Video in B2B Lead Gen: Trends Formats and Tips](https://dev.to/leo_johnson_e34af4a6d9bd9/optimizing-video-in-b2b-lead-gen-trends-formats-and-tips-1kil)
-- [Managed Cloud Services: Simplifying Cloud Complexity for Developers](https://dev.to/infimatrix_51246c32c13dcd/managed-cloud-services-simplifying-cloud-complexity-for-developers-2o33)
-- [LeetCode Day 8 — Compare Version Numbers &lpar;165&rpar;](https://dev.to/nitinahirwal/leetcode-day-8-compare-version-numbers-165-38aa)
-- [The Art of Asking Questions in the Age of AI](https://dev.to/yemrealtanay/the-art-of-asking-questions-in-the-age-of-ai-1gp5)
+- [Integrating AI in Data Analytics: Transforming Insights into Action](https://dev.to/missmati/integrating-ai-in-data-analytics-transforming-insights-into-action-30a6)
+- [From Prototype to Production: A Modern Blueprint for AI Agents with Strands and AWS Bedrock Agentcore](https://dev.to/aws-builders/from-prototype-to-production-a-modern-blueprint-for-ai-agents-with-strands-and-aws-bedrock-d3c)
+- [I built a voice AI agent to clean my emails, meetings, and Slack DMs &lpar;Composio, Vapi, OpenAI TTS&rpar; 🪄](https://dev.to/composiodev/i-built-a-voice-ai-agent-to-clean-my-emails-meetings-and-slack-dms-composio-vapi-openai-tts-472b)
+- [The Blockchain Trilemma: Pick Two, Lose One](https://dev.to/dhis_is_jj/the-blockchain-trilemma-pick-two-lose-one-51op)
+- [The Great AI Subsidy Squeeze](https://dev.to/rawveg/the-great-ai-subsidy-squeeze-4pjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
