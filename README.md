@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡ React Internals: Virtual DOM 🖼️ vs Fiber Node 🔗 for Performance Explained](https://dev.to/yorgie7/react-internals-virtual-dom-vs-fiber-node-for-performance-explained-5an5)
-- [From Fields to APIs: The Tech Side of Warehouse Receipt Financing in India](https://dev.to/gov01/from-fields-to-apis-the-tech-side-of-warehouse-receipt-financing-in-india-24mc)
-- [Latency vs. Accuracy for LLM Apps — How to Choose and How a Memory Layer Lets You Win Both](https://dev.to/gervaisamoah/latency-vs-accuracy-for-llm-apps-how-to-choose-and-how-a-memory-layer-lets-you-win-both-ebp)
-- [Taming Large Codebases with Kiro: Lessons from a 58K-LoC Rust Migration](https://dev.to/kirodotdev/taming-large-codebases-with-kiro-lessons-from-a-58k-loc-rust-migration-36p9)
-- [⚡ React Internals: Virtual DOM 🖼️ vs Fiber Node 🔗 for Performance Explained](https://dev.to/yorgie7/react-internals-virtual-dom-vs-fiber-node-for-performance-explained-3f58)
+- [Unpacking Git&#39;s Branching: A Look at the Internals](https://dev.to/shrsv/unpacking-gits-branching-a-look-at-the-internals-b4a)
+- [Headless CMS in 2025: Balancing Flexibility, SEO, and Developer Experience](https://dev.to/arkhan/headless-cms-in-2025-balancing-flexibility-seo-and-developer-experience-25lo)
+- [RAG vs fine-tuning vs prompt engineering](https://dev.to/thisismairaj/rag-vs-fine-tuning-vs-prompt-engineering-fcg)
+- [Digital First Aid Incident System — Ai‑assisted, Canada‑ready &lpar;proposal V1&rpar;](https://dev.to/shanmeiremote/digital-first-aid-incident-system-ai-assisted-canada-ready-proposal-v1-3ipn)
+- [The Invisible Work Problem: Why Your Team Looks Slow &lpar;But Isn’t&rpar;](https://dev.to/gsauzande/the-invisible-work-problem-why-your-team-looks-slow-but-isnt-2gch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
