@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Sales Tools Every Indie Hacker and Developer-Entrepreneur Should Know About](https://dev.to/writerz/10-sales-tools-every-indie-hacker-and-developer-entrepreneur-should-know-about-8k2)
-- [¿Ha sido una buena DrupalCampSpain 2025?](https://dev.to/oskar_calvo_1615a9b3b293f/ha-sido-una-buena-drupalcampspain-2025-12op)
-- [The Evolution of React: A Guide to Class vs. Functional Components](https://dev.to/mendoncamaria/the-evolution-of-react-a-guide-to-class-vs-functional-components-1bdl)
-- [Feature Selection Techniques: Choosing the Right Variables for Better Machine Learning Models](https://dev.to/anshuman_816f8012be0c9b6c/feature-selection-techniques-choosing-the-right-variables-for-better-machine-learning-models-1742)
-- [Migrating 120k+ Lines of Legacy Banking JavaScript to TypeScript with Zero Downtime](https://dev.to/vinyldavyl/migrating-120k-lines-of-legacy-banking-javascript-to-typescript-with-zero-downtime-2c68)
+- [¿Cuáles son las fábricas de máquinas de hielo tubular fáciles de mantener que son mejores?](https://dev.to/tubohielo_comercial/cuales-son-las-fabricas-de-maquinas-de-hielo-tubular-faciles-de-mantener-que-son-mejores-38gd)
+- [Why Cyber Security Implementation in India Is Crucial for Digital Growth](https://dev.to/amitkumar7/why-cyber-security-implementation-in-india-is-crucial-for-digital-growth-43e0)
+- [OWASP Top Ten 2021 explained with simple Java examples and SAST insights](https://dev.to/pvsdev/owasp-top-ten-2021-explained-with-simple-java-examples-and-sast-insights-27p2)
+- [Css and Html](https://dev.to/hayesvincent14/css-and-html-1jja)
+- [How to Conduct an IT Asset Audit: Step-by-Step Guide for 2025](https://dev.to/dhruvseo16/how-to-conduct-an-it-asset-audit-step-by-step-guide-for-2025-4k10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
