@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streamlit - Fast and Simple Data Apps in python](https://dev.to/imrrobat/streamlit-fast-and-simple-data-apps-in-python-1g5n)
+- [ShortPixel vs. TinyPNG: Which WordPress Image Optimizer Is Best?](https://dev.to/andreialba/shortpixel-vs-tinypng-which-wordpress-image-optimiser-is-best-4l27)
+- [The 2025 &amp; 2026 Ultimate Guide to the Data Lakehouse and the Data Lakehouse Ecosystem](https://dev.to/alexmercedcoder/the-2025-2026-ultimate-guide-to-the-data-lakehouse-and-the-data-lakehouse-ecosystem-dig)
+- [Streamlit - Fast and Simple Data Apps in python](https://dev.to/imrrobot/streamlit-fast-and-simple-data-apps-in-python-1g5n)
+- [Data types in Python](https://dev.to/mcheremnov/data-types-in-python-9gn)
 - [Quotex Bonus Code](https://dev.to/leodonovan/quotex-bonus-code-35d)
-- [Warum DevOps Lösungen heute unverzichtbar sind](https://dev.to/chudovo-dach/warum-devops-losungen-heute-unverzichtbar-sind-351m)
-- [TIL: Angular OnPush](https://dev.to/vishnukn01/til-angular-onpush-2ni0)
-- [Selenium - Browser Automation for Python](https://dev.to/imrrobat/selenium-browser-automation-for-python-ngb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
