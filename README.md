@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Rock-Paper-Scissors Simulation with JavaScript: Animation, Logic, and Persistence](https://dev.to/luis_alejandrosolano_776/building-a-rock-paper-scissors-simulation-with-javascript-animation-logic-and-persistence-1o9o)
-- [What’s the Difference Between Redirect vs Rewrite](https://dev.to/lovestaco/redirect-vs-rewrite-whats-the-difference-and-when-to-use-each-4231)
-- [Enhancing Logistics Efficiency and Driver Well-being with Novel AI Applications](https://dev.to/drcarlosruizviquez/enhancing-logistics-efficiency-and-driver-well-being-with-novel-ai-applications-4g59)
-- [Working With Geo Location Data in MongoDB](https://dev.to/mongodb/working-with-geo-location-data-in-mongodb-30j4)
-- [🔄 Understanding the Spring Boot Lifecycle](https://dev.to/devcorner/understanding-the-spring-boot-lifecycle-4kbn)
+- [Oasis CLI Is Now Available on Homebrew](https://dev.to/caerlower/oasis-cli-is-now-available-on-homebrew-ecj)
+- [Autenticação Segura com Microsoft Entra ID para desenvolvedores Typescript](https://dev.to/sertaoseracloud/autenticacao-segura-com-microsoft-entra-id-para-desenvolvedores-typescript-2c1b)
+- [Introducing My Hiking Trip Planner: Motivation and Overview](https://dev.to/kyleski/introducing-my-hiking-trip-planner-motivation-and-overview-2k5)
+- [The Art of Simple Python Variables](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-variables-3g2l)
+- [zkAGI’s PawPad: Building Private, Multichain Trading Agents with the Oasis Stack](https://dev.to/caerlower/zkagis-pawpad-building-private-multichain-trading-agents-with-the-oasis-stack-15cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
