@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Understanding Spring Boot Lifecycle Hooks: From Bean Creation to Application Ready](https://dev.to/devcorner/understanding-spring-boot-lifecycle-hooks-from-bean-creation-to-application-ready-380k)
-- [Essential Steps for Creating a Robust Software Quality Foundation - Culture, Roles &amp; Mindset](https://dev.to/idavidov13/essential-steps-for-creating-a-robust-software-quality-foundation-culture-roles-mindset-3g4g)
-- [# My First Steps with Docker: Learning by Doing](https://dev.to/roshan_sharma_7deae5e0742/-my-first-steps-with-docker-learning-by-doing-a57)
-- [Node.js module.exports Explained: Complete Guide for Developers 🚀](https://dev.to/yorgie7/nodejs-moduleexports-explained-complete-guide-for-developers-1k63)
-- [I&#39;m back to Java, and this is what I found &lpar;so far&rpar;](https://dev.to/claudiobusatto/im-back-to-java-and-this-is-what-i-found-clc)
+- [Building a Rock-Paper-Scissors Simulation with JavaScript: Animation, Logic, and Persistence](https://dev.to/luis_alejandrosolano_776/building-a-rock-paper-scissors-simulation-with-javascript-animation-logic-and-persistence-1o9o)
+- [What’s the Difference Between Redirect vs Rewrite](https://dev.to/lovestaco/redirect-vs-rewrite-whats-the-difference-and-when-to-use-each-4231)
+- [Enhancing Logistics Efficiency and Driver Well-being with Novel AI Applications](https://dev.to/drcarlosruizviquez/enhancing-logistics-efficiency-and-driver-well-being-with-novel-ai-applications-4g59)
+- [Working With Geo Location Data in MongoDB](https://dev.to/mongodb/working-with-geo-location-data-in-mongodb-30j4)
+- [🔄 Understanding the Spring Boot Lifecycle](https://dev.to/devcorner/understanding-the-spring-boot-lifecycle-4kbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
