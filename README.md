@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kiro: Primeras impresiones y configuración de MCPs](https://dev.to/aws-espanol/kiro-primeras-impresiones-y-configuracion-de-mcps-4nfc)
-- [Taming Stateful at the Edge: A Real-Time API with Cloudflare Durable Objects](https://dev.to/adrai/taming-stateful-at-the-edge-a-real-time-api-with-cloudflare-durable-objects-57dm)
-- [If You Could Redesign Server Access, What Would You Build?](https://dev.to/baek/if-you-could-redesign-server-access-what-would-you-build-121)
-- [React Native + Expo vs Bare Workflow: Which Should You Choose?](https://dev.to/lucas_wade_0596/react-native-expo-vs-bare-workflow-which-should-you-choose-47lo)
-- [Fraudulent silence is just another tactic. These conspirators know they cannot defend the fraud, so they hide. That makes them look even guiltier.](https://dev.to/kierwolf20/fraudulent-silence-is-just-another-tactic-these-conspirators-know-they-cannot-defend-the-fraud-so-7ba)
+- [PasteSense – The little tool that quietly doubled my marketing output](https://dev.to/hows-is-my-day/pastesense-the-little-tool-that-quietly-doubled-my-marketing-output-1f7k)
+- [When Not Having the Answer Is the Answer](https://dev.to/remejuan/when-not-having-the-answer-is-the-answer-15kj)
+- [Check out the guide on the Tableau Workbook](https://dev.to/thedatageek/check-out-the-guide-on-the-tableau-workbook-58ej)
+- [Lessons Learned: CompletableFuture Security and Kafka Topic Grouping in Microservices](https://dev.to/jayesh_shinde/lessons-learned-completablefuture-security-and-kafka-topic-grouping-in-microservices-5ami)
+- [TCJSGame Display Class: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-display-class-complete-reference-guide-4dn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
