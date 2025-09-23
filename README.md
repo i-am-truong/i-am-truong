@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Strategy Pattern in Clprolf: Clear Roles for Swappable Behavior](https://dev.to/charles_koffler_bcabc582b/strategy-pattern-in-clprolf-clear-roles-for-swappable-behavior-30ll)
 - [MapTiler Server on Raspberry Pi - A Geeks&#39; Guide to Self-Hosted Maps](https://dev.to/bolollo/maptiler-server-on-raspberry-pi-a-geeks-guide-to-self-hosted-maps-19d4)
 - [HTB CPTS – Getting Started Reference Guide](https://dev.to/madhiashabih/htb-cpts-getting-started-reference-guide-hi7)
-- [What My Dad Taught Me About Context &lpar;and Why I Keep Jira in My Repo&rpar;](https://dev.to/saxmanjes/what-my-dad-taught-me-about-context-and-why-i-keep-jira-in-my-repo-2ejd)
-- [The OSI Model Explained: Your Complete Guide to Network Communication 🌐](https://dev.to/deepanshub09/the-osi-model-explained-your-complete-guide-to-network-communication-512a)
-- [Integrating AI in Data Analytics: Transforming Insights into Action](https://dev.to/missmati/integrating-ai-in-data-analytics-transforming-insights-into-action-30a6)
+- [Does it really work for anybody, AI agentic testing, or automation](https://dev.to/rmarinsky/is-it-really-works-for-anybody-ai-agentic-testing-or-automation-2l2a)
+- [A deep dive on how backend servers handles HTTP connections](https://dev.to/mouloud_hasrane_c99b0f49a/a-deep-dive-on-how-backend-servers-handles-http-connections-1jom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
