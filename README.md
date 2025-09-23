@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Back to Coding My First Tribute Website! ✨](https://dev.to/with_tahaaziz/back-to-coding-my-first-tribute-website-2ok4)
 - [Detect EventBridge target failure: Part 1 - with dead letter queue](https://dev.to/pubudusj/detect-eventbridge-target-failure-part-1-with-dead-letter-queue-4o73)
 - [WebStorm vs VSCode](https://dev.to/vadim/webstorm-vs-vscode-57da)
 - [Create and configure network security groups](https://dev.to/akinwande/create-and-configure-network-security-groups-4ikj)
-- [🚨 Freelancers beware: how a suspicious “Node.js bug fix” invite helped me spot a possible malware dropper on Upwork](https://dev.to/basharvi/freelancers-beware-how-a-suspicious-nodejs-bug-fix-invite-helped-me-spot-a-possible-malware-38l3)
-- [Generating Synthetic RTL OCR Data for Donut with SynthDoG-RTL](https://dev.to/aiviewz_team/generating-synthetic-rtl-ocr-data-for-donut-with-synthdog-rtl-3ghi)
+- [Configure secure access to workloads with Azure virtual networking services](https://dev.to/akinwande/configure-secure-access-to-workloads-with-azure-virtual-networking-services-1cc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
