@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Reality Check: Why AI Coding Assistants Still Need Human Oversight](https://dev.to/heyradcode/the-reality-check-why-ai-coding-assistants-still-need-human-oversight-32l5)
+- [A Developer&#39;s Guide to Cloud Computing](https://dev.to/muhabbat_dev/a-developers-guide-to-cloud-computing-5511)
 - [Unlocking Claude: A Developer&#39;s Guide to Effective AI Prompting](https://dev.to/muhabbat_dev/unlocking-claude-a-developers-guide-to-effective-ai-prompting-3d21)
 - [Accessibility Cheat Sheet 2025: Free Courses, Certification Paths, and Testing Tools](https://dev.to/a11ynews/accessibility-cheat-sheet-2025-free-courses-certification-paths-and-testing-tools-3eo1)
 - [¿Cuáles son los fabricantes líderes de máquinas de hielo tubular?](https://dev.to/tubosdehielo_eco/cuales-son-los-fabricantes-lideres-de-maquinas-de-hielo-tubular-4e18)
-- [🧩 The Anatomy of a Test Strategy That Doesn&#39;t Suck](https://dev.to/abdulosman/the-anatomy-of-a-test-strategy-that-doesnt-suck-1819)
-- [Why Asynchronous Messaging Beats REST in Modern Architectures](https://dev.to/dinesh_dunukedeniya_539a3/why-asynchronous-messaging-beats-rest-in-modern-architectures-55lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
