@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌐 Is React Really Single Page? Understanding Routing &amp; Multiple Pages in SPAs](https://dev.to/yorgie7/is-react-really-single-page-understanding-routing-multiple-pages-in-spas-4d10)
 - [Unpacking Git&#39;s Branching: A Look at the Internals](https://dev.to/shrsv/unpacking-gits-branching-a-look-at-the-internals-b4a)
 - [Headless CMS in 2025: Balancing Flexibility, SEO, and Developer Experience](https://dev.to/arkhan/headless-cms-in-2025-balancing-flexibility-seo-and-developer-experience-25lo)
 - [RAG vs fine-tuning vs prompt engineering](https://dev.to/thisismairaj/rag-vs-fine-tuning-vs-prompt-engineering-fcg)
 - [Digital First Aid Incident System — Ai‑assisted, Canada‑ready &lpar;proposal V1&rpar;](https://dev.to/shanmeiremote/digital-first-aid-incident-system-ai-assisted-canada-ready-proposal-v1-3ipn)
-- [The Invisible Work Problem: Why Your Team Looks Slow &lpar;But Isn’t&rpar;](https://dev.to/gsauzande/the-invisible-work-problem-why-your-team-looks-slow-but-isnt-2gch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
