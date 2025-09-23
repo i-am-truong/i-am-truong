@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AbortController &amp; AbortSignal](https://dev.to/mohsenfallahnjd/abortcontroller-abortsignal-5ea4)
-- [⚡ Advanced `CompletableFuture` Use Cases in Java](https://dev.to/nk_sk_6f24fdd730188b284bf/advanced-completablefuture-use-cases-in-java-37l2)
-- [Los diez principales fabricantes chinos de máquinas de hielo tubular para ambientes de alta temperatura](https://dev.to/tubosdehielo_premium/los-diez-principales-fabricantes-chinos-de-maquinas-de-hielo-tubular-para-ambientes-de-alta-db1)
-- [[Boost]](https://dev.to/sagar_katoch/-1ea7)
-- [🚀 Mastering `CompletableFuture` in Java: Use Cases and Example Codes](https://dev.to/nk_sk_6f24fdd730188b284bf/mastering-completablefuture-in-java-use-cases-and-example-codes-4kkd)
+- [Unlocking Claude: A Developer&#39;s Guide to Effective AI Prompting](https://dev.to/muhabbat_dev/unlocking-claude-a-developers-guide-to-effective-ai-prompting-3d21)
+- [Accessibility Cheat Sheet 2025: Free Courses, Certification Paths, and Testing Tools](https://dev.to/a11ynews/accessibility-cheat-sheet-2025-free-courses-certification-paths-and-testing-tools-3eo1)
+- [¿Cuáles son los fabricantes líderes de máquinas de hielo tubular?](https://dev.to/tubosdehielo_eco/cuales-son-los-fabricantes-lideres-de-maquinas-de-hielo-tubular-4e18)
+- [🧩 The Anatomy of a Test Strategy That Doesn&#39;t Suck](https://dev.to/abdulosman/the-anatomy-of-a-test-strategy-that-doesnt-suck-1819)
+- [Why Asynchronous Messaging Beats REST in Modern Architectures](https://dev.to/dinesh_dunukedeniya_539a3/why-asynchronous-messaging-beats-rest-in-modern-architectures-55lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
