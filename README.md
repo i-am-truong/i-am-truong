@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Is React Really Single Page? Understanding Routing &amp; Multiple Pages in SPAs](https://dev.to/yorgie7/is-react-really-single-page-understanding-routing-multiple-pages-in-spas-4d10)
-- [Unpacking Git&#39;s Branching: A Look at the Internals](https://dev.to/shrsv/unpacking-gits-branching-a-look-at-the-internals-b4a)
-- [Headless CMS in 2025: Balancing Flexibility, SEO, and Developer Experience](https://dev.to/arkhan/headless-cms-in-2025-balancing-flexibility-seo-and-developer-experience-25lo)
-- [RAG vs fine-tuning vs prompt engineering](https://dev.to/thisismairaj/rag-vs-fine-tuning-vs-prompt-engineering-fcg)
-- [Digital First Aid Incident System — Ai‑assisted, Canada‑ready &lpar;proposal V1&rpar;](https://dev.to/shanmeiremote/digital-first-aid-incident-system-ai-assisted-canada-ready-proposal-v1-3ipn)
+- [Detect EventBridge target failure: Part 1 - with dead letter queue](https://dev.to/pubudusj/detect-eventbridge-target-failure-part-1-with-dead-letter-queue-4o73)
+- [WebStorm vs VSCode](https://dev.to/vadim/webstorm-vs-vscode-57da)
+- [Create and configure network security groups](https://dev.to/akinwande/create-and-configure-network-security-groups-4ikj)
+- [🚨 Freelancers beware: how a suspicious “Node.js bug fix” invite helped me spot a possible malware dropper on Upwork](https://dev.to/basharvi/freelancers-beware-how-a-suspicious-nodejs-bug-fix-invite-helped-me-spot-a-possible-malware-38l3)
+- [Generating Synthetic RTL OCR Data for Donut with SynthDoG-RTL](https://dev.to/aiviewz_team/generating-synthetic-rtl-ocr-data-for-donut-with-synthdog-rtl-3ghi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
