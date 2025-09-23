@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet Mongoose Test Factory!](https://dev.to/aissam_af7e3548e20435d720/meet-mongoose-test-factory-1hcb)
+- [Vibe Coding!](https://dev.to/cocodelacueva/vibe-coding-5eeh)
+- [Set up a reverse proxy in Linux](https://dev.to/jess_garcacaldern_028/set-up-a-reverse-proxy-in-linux-4ce9)
 - [Federated GraphQL Schema Testing in CI/CD with WunderGraph and Sandboxes](https://dev.to/signadot/federated-graphql-schema-testing-in-cicd-with-wundergraph-and-sandboxes-3535)
 - [The Best Retro Tool for Agile Teams in 2025 🚀](https://dev.to/mattlewandowski93/the-best-retro-tool-for-agile-teams-in-2025-53ad)
-- [I Built a Framework That Shows Systems Can&#39;t Detect Their Own Delusions](https://dev.to/casey_evans_44d8bc7d7706a/i-built-a-framework-that-shows-systems-cant-detect-their-own-delusions-26cn)
-- [React and the Sorcerer&#39;s Component](https://dev.to/sagi0312/react-and-the-philosophers-component-4dnk)
-- [Big O Made Simple: My First Encounter with Performance in C#](https://dev.to/brunompp/big-o-made-simple-my-first-encounter-with-performance-in-c-l6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
