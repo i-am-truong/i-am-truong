@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP 8.5 nos trae closures en constantes de clases.](https://dev.to/oskar_calvo_1615a9b3b293f/php-85-nos-trae-closures-en-constantes-de-clases-22d3)
+- [Graph-Based Movie Recommendations: A Practical Guide with Python](https://dev.to/ivansing/graph-based-movie-recommendations-a-practical-guide-with-python-4all)
+- [Using Gemini for Web Apps](https://dev.to/denladeside/using-gemini-for-web-apps-7fn)
 - [I&#39;ve built a Swiss Tables interactive simulator so you can understand how they work internally and how they offer superior performance compared to Buckets](https://dev.to/zeedu_dev/ive-built-a-swiss-tables-interactive-simulator-so-you-can-understand-how-they-work-internally-and-3mk9)
 - [Meet Mongoose Test Factory!](https://dev.to/aissam_af7e3548e20435d720/meet-mongoose-test-factory-1hcb)
-- [Vibe Coding!](https://dev.to/cocodelacueva/vibe-coding-5eeh)
-- [Set up a reverse proxy in Linux](https://dev.to/jess_garcacaldern_028/set-up-a-reverse-proxy-in-linux-4ce9)
-- [Federated GraphQL Schema Testing in CI/CD with WunderGraph and Sandboxes](https://dev.to/signadot/federated-graphql-schema-testing-in-cicd-with-wundergraph-and-sandboxes-3535)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
