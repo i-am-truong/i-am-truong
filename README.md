@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From GitHub to AWS ECS: A Step-by-Step Guide to Deploying Flask Apps with Docker and Docker Hub.](https://dev.to/21toffy/from-github-to-aws-ecs-a-step-by-step-guide-to-deploying-flask-apps-with-docker-and-docker-hub-4me1)
-- [How Kubernetes-Inspired API Design Helps LLMs](https://dev.to/felixhuttmann/how-kubernetes-inspired-api-design-helps-llms-1pgl)
-- [NGINX - Native support ACME Protocol](https://dev.to/terngr/nginx-native-support-acme-protocol-2d1p)
-- [The Art of Simple Python Lists](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-lists-2e6m)
-- [Dynamic Theming in React Using Context API: Multi-Brand 🎨](https://dev.to/yorgie7/dynamic-theming-in-react-using-context-api-multi-brand-56l1)
+- [⚡ React Internals: Virtual DOM 🖼️ vs Fiber Node 🔗 for Performance Explained](https://dev.to/yorgie7/react-internals-virtual-dom-vs-fiber-node-for-performance-explained-5an5)
+- [From Fields to APIs: The Tech Side of Warehouse Receipt Financing in India](https://dev.to/gov01/from-fields-to-apis-the-tech-side-of-warehouse-receipt-financing-in-india-24mc)
+- [Latency vs. Accuracy for LLM Apps — How to Choose and How a Memory Layer Lets You Win Both](https://dev.to/gervaisamoah/latency-vs-accuracy-for-llm-apps-how-to-choose-and-how-a-memory-layer-lets-you-win-both-ebp)
+- [Taming Large Codebases with Kiro: Lessons from a 58K-LoC Rust Migration](https://dev.to/kirodotdev/taming-large-codebases-with-kiro-lessons-from-a-58k-loc-rust-migration-36p9)
+- [⚡ React Internals: Virtual DOM 🖼️ vs Fiber Node 🔗 for Performance Explained](https://dev.to/yorgie7/react-internals-virtual-dom-vs-fiber-node-for-performance-explained-3f58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
