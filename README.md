@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What My Dad Taught Me About Context &lpar;and Why I Keep Jira in My Repo&rpar;](https://dev.to/saxmanjes/what-my-dad-taught-me-about-context-and-why-i-keep-jira-in-my-repo-2ejd)
+- [The OSI Model Explained: Your Complete Guide to Network Communication 🌐](https://dev.to/deepanshub09/the-osi-model-explained-your-complete-guide-to-network-communication-512a)
 - [Integrating AI in Data Analytics: Transforming Insights into Action](https://dev.to/missmati/integrating-ai-in-data-analytics-transforming-insights-into-action-30a6)
+- [10 Remote Work Myths That Are Holding You Back &lpar;And the Truth Behind Them&rpar;](https://dev.to/teamcamp/10-remote-work-myths-that-are-holding-you-back-and-the-truth-behind-them-409o)
 - [From Prototype to Production: A Modern Blueprint for AI Agents with Strands and AWS Bedrock Agentcore](https://dev.to/aws-builders/from-prototype-to-production-a-modern-blueprint-for-ai-agents-with-strands-and-aws-bedrock-d3c)
-- [I built a voice AI agent to clean my emails, meetings, and Slack DMs &lpar;Composio, Vapi, OpenAI TTS&rpar; 🪄](https://dev.to/composiodev/i-built-a-voice-ai-agent-to-clean-my-emails-meetings-and-slack-dms-composio-vapi-openai-tts-472b)
-- [The Blockchain Trilemma: Pick Two, Lose One](https://dev.to/dhis_is_jj/the-blockchain-trilemma-pick-two-lose-one-51op)
-- [The Great AI Subsidy Squeeze](https://dev.to/rawveg/the-great-ai-subsidy-squeeze-4pjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
