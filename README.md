@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Retrieval Augmented Generation – Generative AI Tool](https://dev.to/logicalwings/retrieval-augmented-generation-generative-ai-tool-4g5)
-- [Ted talks that everyone should hear - part 1](https://dev.to/oryaacov/ted-talks-that-everyone-should-hear-part-1-424o)
-- [Building Self-Correcting LLM Systems: The Evaluator-Optimizer Pattern](https://dev.to/clayroach/building-self-correcting-llm-systems-the-evaluator-optimizer-pattern-169p)
-- [[Discussion] Cognitive Architectures in KN-LAB Frameworks — Toward Adaptive, Context-Aware Intelligence](https://dev.to/preshen_govender_0556e576/discussion-cognitive-architectures-in-kn-lab-frameworks-toward-adaptive-context-aware-2mac)
-- [🚀 Pods no Kubernetes &lpar;com 2 containers no mesmo Pod&rpar;:](https://dev.to/deividferraz/pods-no-kubernetes-com-2-containers-no-mesmo-pod-1p0p)
+- [API Versioning in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/api-versioning-in-net-web-api-39ma)
+- [🧠 Basic Algorithm Structures](https://dev.to/mzunairtariq/basic-algorithm-structures-42ib)
+- [👋 Hello Dev Community — First Post!](https://dev.to/meganpropps/hello-dev-community-first-post-40hg)
+- [Would love your feedback on my Portfolio 😊](https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7)
+- [Day 009 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-009-on-my-journey-to-becoming-a-css-pro-with-keith-grant-1o15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
