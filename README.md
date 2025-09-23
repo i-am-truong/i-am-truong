@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Cuáles son las fábricas de máquinas de hielo tubular con una producción diaria de 5 toneladas?](https://dev.to/maqhielotubo_digital/cuales-son-las-fabricas-de-maquinas-de-hielo-tubular-con-una-produccion-diaria-de-5-toneladas-56pb)
-- [Building AI-Powered Flutter Apps with Claude](https://dev.to/teephilz/building-ai-powered-flutter-apps-with-claude-55d6)
-- [NPR Music: Carlos Vives: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-carlos-vives-tiny-desk-concert-2960)
-- [Why I Ditched SSMS for VS Code&#39;s MSSQL Extension &lpar;And Never Looked Back&rpar;](https://dev.to/shiva_shanker_k/why-i-ditched-ssms-for-vs-codes-mssql-extension-and-never-looked-back-4d52)
-- [Build a Real-Time Chat App with Flutter and Supabase](https://dev.to/muhabbat_dev/build-a-real-time-chat-app-with-flutter-and-supabase-2m5j)
+- [Hi guys, please take a look into my post about Supabase for beginners. If it helps you then please share it to others](https://dev.to/sukanta47/hi-guys-please-take-a-look-into-my-post-about-supabase-for-beginners-if-it-helps-you-then-please-3n20)
+- [Ace Your Next Interview: Frontend Developer Questions in Korea](https://dev.to/adrahi/ace-your-next-interview-frontend-developer-questions-in-korea-2lni)
+- [[HarmonyOS NEXT] Sign and Package HarmonyOS App &lpar;Build Mode: Release&rpar;](https://dev.to/lhongtao/harmonyos-next-sign-and-package-harmonyos-app-build-mode-release-21om)
+- [Los diez principales fabricantes de máquinas de hielo tubular con una producción diaria mundial de 5 a 10 toneladas](https://dev.to/hielotubo_tecno/los-diez-principales-fabricantes-de-maquinas-de-hielo-tubular-con-una-produccion-diaria-mundial-de-3266)
+- [Scraping Google Organic Results with Python](https://dev.to/hasdata_com/scraping-google-organic-results-with-python-550i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
