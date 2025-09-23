@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Aws Glue &amp; ETL bookmarks](https://dev.to/wakeup_flower_8591a6cb6a9/aws-glue-etl-bookmarks-54fj)
-- [🚀 YINI Parser v1.3.0-beta – Smarter Options, Safer Metadata, and New Controls](https://dev.to/marko_kseppnen_6250a7f/yini-parser-v130-beta-smarter-options-safer-metadata-and-new-controls-2gn0)
-- [Persian OCR with YOLO + CRNN: Building a Custom Text Recognition Pipeline](https://dev.to/mahmoudabbasi/persian-ocr-with-yolo-crnn-building-a-custom-text-recognition-pipeline-4hid)
-- [Database Optimizations: Sharding](https://dev.to/zeeshanali0704/database-optimizations-sharding-2l6l)
-- [Database Optimizations: Partitioning](https://dev.to/zeeshanali0704/database-optimizations-partitioning-480n)
+- [How to Install Cursor on Ubuntu &lpar;2025&rpar;](https://dev.to/marina_eremina/how-to-install-cursor-on-ubuntu-2025-4a0a)
+- [Unlock Your Voice: 8 Vocal Exercises Communication Techniques for Beginner Developers](https://dev.to/werliton/unlock-your-voice-8-vocal-exercises-communication-techniques-for-beginner-developers-2l8d)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/kepha_mwandiki/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1c99)
+- [Tuesday vibes today](https://dev.to/ben/tuesday-vibes-today-3dca)
+- [Load Balancer in System Design – Part 3: Load Balancing Algorithms](https://dev.to/zeeshanali0704/load-balancer-in-system-design-part-3-load-balancing-algorithms-59g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
