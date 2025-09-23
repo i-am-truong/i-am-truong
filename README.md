@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reading this makes me furious. Ordinary people go to jail for small crimes while executives like Joshua Lintz defraud millions.](https://dev.to/erinchan/reading-this-makes-me-furious-ordinary-people-go-to-jail-for-small-crimes-while-executives-like-41o8)
-- [Joshua Lintz and Talentcrowd’s silence in court says it all. Innocent people fight to clear their name, guilty ones hide in the shadows.](https://dev.to/robert_lanister_916b8b146/joshua-lintz-and-talentcrowds-silence-in-court-says-it-all-innocent-people-fight-to-clear-their-310b)
-- [The 2-Minute Technical Debt Killer That Saved My Team 200 Hours](https://dev.to/teamcamp/the-2-minute-technical-debt-killer-that-saved-my-team-200-hours-49nf)
-- [The Architecture of AI Workflows: Designing Beyond the Model Layer](https://dev.to/leena_malhotra/the-architecture-of-ai-workflows-designing-beyond-the-model-layer-45ld)
-- [Comparing Vue&#39;s Composition API and Options API](https://dev.to/akshayashet/comparing-vues-composition-api-and-options-api-4m44)
+- [Upgrading Face Recognition: From DeepFace to InsightFace — Performance, Quality, and Integration](https://dev.to/wintrover/upgrading-face-recognition-from-deepface-to-insightface-performance-quality-and-integration-5b7f)
+- [Why I Deleted 10,000 Lines of Code and My Manager Promoted Me](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-i-deleted-10000-lines-of-code-and-my-manager-promoted-me-488l)
+- [KendoReact: How to Activate 30-Day Free Trial License Key &lpar;Remove Watermark Guide&rpar;](https://dev.to/chiragx309/kendoreact-how-to-activate-30-day-free-trial-license-key-remove-watermark-guide-9m2)
+- [Scaling Healthcare Data Processing: Multi-Environment FHIR Patient Updates with Smart Batch Processing](https://dev.to/budiwidhiyanto/scaling-healthcare-data-processing-multi-environment-fhir-patient-updates-with-smart-batch-b3f)
+- [Why Your Relationships Matter as Much as Code Reviews: Social Connection &amp; Mental Health](https://dev.to/nvelup_e92618d5196e8d9f43/why-your-relationships-matter-as-much-as-code-reviews-social-connection-mental-health-3j3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
