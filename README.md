@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Encrypt Root *Unencrypted* EBS volume on AWS EC2 without creating a new instance.](https://dev.to/devops_descent/encrypt-root-unencrypted-ebs-volume-on-aws-ec2-without-creating-a-new-instance-5712)
-- [Building an Extendable Data Migration Utility in Java Using the Strategy Pattern](https://dev.to/nadkarnigaurav/building-an-extendable-data-migration-utility-in-java-using-the-strategy-pattern-3amb)
-- [Las diez principales marcas de máquinas de hielo tubular industriales en China](https://dev.to/tubohielo_comercial/las-diez-principales-marcas-de-maquinas-de-hielo-tubular-industriales-en-china-3jc3)
-- [Part-78: 🚀How to Create a Google Kubernetes Engine Regional Standard Cluster](https://dev.to/latchudevops/part-78-how-to-create-a-google-kubernetes-engine-regional-standard-cluster-2j54)
-- [Earlier, debugging took most of my time; now I use AI in the debugging process to save my time. Here is the step-by-step process:](https://dev.to/jaideepparashar/earlier-debugging-took-most-of-my-time-now-i-use-ai-in-the-debugging-process-to-save-my-time-1e8e)
+- [Comparing Vue&#39;s Composition API and Options API](https://dev.to/akshayashet/comparing-vues-composition-api-and-options-api-4m44)
+- [Amazon QuickSight: la bolita mágica que revela las tendencias de los platillos mexicanos 🔮🍴](https://dev.to/bgalicia/amazon-quicksight-la-bolita-magica-que-revela-las-tendencias-de-los-platillos-mexicanos-117m)
+- [Computer Fundamentals - 12](https://dev.to/learneveryday_cs/computer-fundamentals-12-3278)
+- [Global Exception Handling in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/global-exception-handling-in-net-web-api-3aln)
+- [Writing Unit Tests for Python Code &lpar;unittest &amp; doctest&rpar;](https://dev.to/ashutoshsarangi/writing-unit-tests-for-python-code-unittest-doctest-iob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
