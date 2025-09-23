@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a REST API With the Django Rest Framework and MongoDB](https://dev.to/mongodb/building-a-rest-api-with-the-django-rest-framework-and-mongodb-48en)
+- [Get Better at Debugging by Making Predictions](https://dev.to/jwworth_/get-better-at-debugging-by-making-predictions-8j0)
+- [The Compiler&#39;s Magic Trick That Makes Your Code Crash-Proof](https://dev.to/kavearhasi_viswanathan/the-compilers-magic-trick-that-makes-your-code-crash-proof-fg5)
 - [PyVax: Smart contracts in Python - Our Avalanche team1 Hackathon Journey](https://dev.to/0xshukla/pyvax-smart-contracts-in-python-our-avalanche-team1-hackathon-journey-3pfm)
 - [`sst.config.ts` file in tldraw codebase.](https://dev.to/ramunarasinga-11/sstconfigts-file-in-tldraw-codebase-3bhh)
-- [Containerization vs. Virtualization: A Simple Guide to Application Isolation](https://dev.to/waygeance/containerization-vs-virtualization-a-simple-guide-to-application-isolation-1lig)
-- [**Unlocking Hidden Gems: T5 and the Uniter** ⚡ In the world](https://dev.to/drcarlosruizviquez/unlocking-hidden-gems-t5-and-the-uniter-in-the-world-599l)
-- [How to Keep Using Cursor for FREE on MacOS/Linux 🖥️](https://dev.to/aadarsh-nagrath/how-to-keep-using-cursor-for-free-on-macoslinux-31pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
