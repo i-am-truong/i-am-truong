@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Arcade - 2D Game Development Library for python](https://dev.to/imrrobot/arcade-2d-game-development-library-for-python-58po)
+- [利用ollama部署的本地模型翻译电子书](https://dev.to/dragon72463399/li-yong-ollamabu-shu-de-ben-di-mo-xing-fan-yi-dian-zi-shu-2mhl)
 - [ShortPixel vs. TinyPNG: Which WordPress Image Optimizer Is Best?](https://dev.to/andreialba/shortpixel-vs-tinypng-which-wordpress-image-optimiser-is-best-4l27)
-- [The 2025 &amp; 2026 Ultimate Guide to the Data Lakehouse and the Data Lakehouse Ecosystem](https://dev.to/alexmercedcoder/the-2025-2026-ultimate-guide-to-the-data-lakehouse-and-the-data-lakehouse-ecosystem-dig)
-- [Streamlit - Fast and Simple Data Apps in python](https://dev.to/imrrobot/streamlit-fast-and-simple-data-apps-in-python-1g5n)
-- [Data types in Python](https://dev.to/mcheremnov/data-types-in-python-9gn)
-- [Quotex Bonus Code](https://dev.to/leodonovan/quotex-bonus-code-35d)
+- [Containerization vs Virtualization: What’s the Difference and Why It Matters](https://dev.to/harshit_kumar_bae0141f6a4/containerization-vs-virtualization-whats-the-difference-and-why-it-matters-1770)
+- [Los diez principales proveedores inteligentes de máquinas de hielo tubular para almacenes de hielo en China](https://dev.to/maqhielotubo_medico/los-diez-principales-proveedores-inteligentes-de-maquinas-de-hielo-tubular-para-almacenes-de-hielo-2iip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
