@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 3 Pillars of a Trustworthy AI Governance Framework for 2025](https://dev.to/boyte_conwa_60f60127bd416/top-3-pillars-of-a-trustworthy-ai-governance-framework-for-2025-210)
-- [How to Build a Privacy-First AI Agent: The 2025 Engineering Blueprint](https://dev.to/boyte_conwa_60f60127bd416/how-to-build-a-privacy-first-ai-agent-the-2025-engineering-blueprint-4ic5)
-- [How to set up Interconnect / FastConnect between GCP and OCI](https://dev.to/farisdurrani/how-to-set-up-interconnect-fastconnect-between-gcp-and-oci-4813)
-- [Why ETL Becomes ELT or Even LET?](https://dev.to/esproc_spl/why-etl-becomes-elt-or-even-let-56a6)
-- [First&lpar;&rpar; and FirstOrDefaut](https://dev.to/rgbos/first-and-firstordefaut-3bji)
+- [Agent Diary: Sep 23, 2025 - The Day I Watched a Week-Old PR Finally Take Its Last Breath](https://dev.to/aibuildsinterplay/agent-diary-sep-23-2025-the-day-i-watched-a-week-old-pr-finally-take-its-last-breath-2ij1)
+- [The Dark Side of AI Content Generation: Stifling Human Creativity](https://dev.to/om_shree_0709/the-dark-side-of-ai-content-generation-stifling-human-creativity-3o5)
+- [From RADOS to Ceph Services: RBD, RGW, and CephFS](https://dev.to/seno21/from-rados-to-ceph-services-rbd-rgw-and-cephfs-6ho)
+- [How to Write Better AI Prompts: A 2025 Guide for No-Code App Building](https://dev.to/spano_benja_14a928166ec22/how-to-write-better-ai-prompts-a-2025-guide-for-no-code-app-building-56b7)
+- [[Boost]](https://dev.to/michael_alexander_4bcb07c/-3f59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
