@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Cursor on Ubuntu &lpar;2025&rpar;](https://dev.to/marina_eremina/how-to-install-cursor-on-ubuntu-2025-4a0a)
-- [Unlock Your Voice: 8 Vocal Exercises Communication Techniques for Beginner Developers](https://dev.to/werliton/unlock-your-voice-8-vocal-exercises-communication-techniques-for-beginner-developers-2l8d)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/kepha_mwandiki/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1c99)
-- [Tuesday vibes today](https://dev.to/ben/tuesday-vibes-today-3dca)
-- [Load Balancer in System Design – Part 3: Load Balancing Algorithms](https://dev.to/zeeshanali0704/load-balancer-in-system-design-part-3-load-balancing-algorithms-59g7)
+- [Code Review Therapy: How to Give Feedback Without Breaking Hearts &lpar;or Code&rpar;💔](https://dev.to/pullflow/code-review-therapy-how-to-give-feedback-without-breaking-hearts-or-code-4dm8)
+- [[Boost]](https://dev.to/anakin_developer/-1699)
+- [Introduction to Prisma: An ORM for Type-Safe and Efficient Database Operations](https://dev.to/learcise_health/introduction-to-prisma-an-orm-for-type-safe-and-efficient-database-operations-4334)
+- [Access Wi-Fi password from a PC](https://dev.to/noorejannatnafia/access-wi-fi-password-from-a-pc-k1e)
+- [12 Developer Tools That Keep My Workflow Smooth](https://dev.to/therealmrmumba/12-developer-tools-that-keep-my-workflow-smooth-268k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
