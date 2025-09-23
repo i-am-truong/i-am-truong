@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Self-Correcting LLM Systems: The Evaluator-Optimizer Pattern](https://dev.to/clayroach/building-self-correcting-llm-systems-the-evaluator-optimizer-pattern-169p)
+- [[Discussion] Cognitive Architectures in KN-LAB Frameworks — Toward Adaptive, Context-Aware Intelligence](https://dev.to/preshen_govender_0556e576/discussion-cognitive-architectures-in-kn-lab-frameworks-toward-adaptive-context-aware-2mac)
+- [🚀 Pods no Kubernetes &lpar;com 2 containers no mesmo Pod&rpar;:](https://dev.to/deividferraz/pods-no-kubernetes-com-2-containers-no-mesmo-pod-1p0p)
 - [IGN: Painkiller - Official Rogue Angel &lpar;Roguelike Mode&rpar; Trailer](https://dev.to/gg_news/ign-painkiller-official-rogue-angel-roguelike-mode-trailer-4nki)
 - [IGN: Silent Hill f: 8 Tips for Early Survival](https://dev.to/gg_news/ign-silent-hill-f-8-tips-for-early-survival-1cll)
-- [Performance Tuning for Nginx: 7 Tips to Slash TTFB and Boost Speed](https://dev.to/ramer2b58cbe46bc8/performance-tuning-for-nginx-7-tips-to-slash-ttfb-and-boost-speed-4moa)
-- [Evergreen Content: Warum deine Tech-Inhalte auch in 5 Jahren noch rocken sollten](https://dev.to/ivo_sa/evergreen-content-warum-deine-tech-inhalte-auch-in-5-jahren-noch-rocken-sollten-12io)
-- [🔍 Applying Flawfinder: A Lightweight SAST Tool to Secure C/C++ Codebases](https://dev.to/jefferson_rosas/applying-flawfinder-a-lightweight-sast-tool-to-secure-cc-codebases-p50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
