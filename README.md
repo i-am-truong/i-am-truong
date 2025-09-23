@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [90 Days of Code: Day 15 – Building a Beginner-Friendly Coin Toss Game with Python](https://dev.to/momina_raheelmoona_c59/90-days-of-code-day-15-building-a-beginner-friendly-coin-toss-game-with-python-2lk5)
-- [Checkout this Image Uploader with Cropping functionality. Comment your thoughts and suggestions.](https://dev.to/sukanta47/checkout-this-image-uploader-with-cropping-functionality-comment-your-thoughts-and-suggestions-2pe1)
-- [From Static Pages to Interactive Spaces: Embedding Now4Real Chat](https://dev.to/claranet/from-static-pages-to-interactive-spaces-embedding-now4real-chat-4p4n)
-- [The Future is Now: How AI Will Reshape Careers by 2026](https://dev.to/cs_vishnukumar_c7ab67ff18/the-future-is-now-how-ai-will-reshape-careers-by-2026-209a)
-- [4 Critical AI Agent Use Cases in Finance: With Tech Stack](https://dev.to/anil_jha/4-critical-ai-agent-use-cases-in-finance-with-tech-stack-48dd)
+- [اولین تجربه‌م در ساخت یک مارکت‌پلیس گیم با Next.js و FastAPI](https://dev.to/m0h3n/wlyn-tjrbhm-dr-skht-ykh-mrkhtplys-gym-b-nextjs-w-fastapi-47ci)
+- [Optimizing Video in B2B Lead Gen: Trends Formats and Tips](https://dev.to/leo_johnson_e34af4a6d9bd9/optimizing-video-in-b2b-lead-gen-trends-formats-and-tips-1kil)
+- [Managed Cloud Services: Simplifying Cloud Complexity for Developers](https://dev.to/infimatrix_51246c32c13dcd/managed-cloud-services-simplifying-cloud-complexity-for-developers-2o33)
+- [LeetCode Day 8 — Compare Version Numbers &lpar;165&rpar;](https://dev.to/nitinahirwal/leetcode-day-8-compare-version-numbers-165-38aa)
+- [The Art of Asking Questions in the Age of AI](https://dev.to/yemrealtanay/the-art-of-asking-questions-in-the-age-of-ai-1gp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
