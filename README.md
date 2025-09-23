@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a REST API With the Django Rest Framework and MongoDB](https://dev.to/mongodb/building-a-rest-api-with-the-django-rest-framework-and-mongodb-48en)
-- [Get Better at Debugging by Making Predictions](https://dev.to/jwworth_/get-better-at-debugging-by-making-predictions-8j0)
-- [The Compiler&#39;s Magic Trick That Makes Your Code Crash-Proof](https://dev.to/kavearhasi_viswanathan/the-compilers-magic-trick-that-makes-your-code-crash-proof-fg5)
-- [PyVax: Smart contracts in Python - Our Avalanche team1 Hackathon Journey](https://dev.to/0xshukla/pyvax-smart-contracts-in-python-our-avalanche-team1-hackathon-journey-3pfm)
-- [`sst.config.ts` file in tldraw codebase.](https://dev.to/ramunarasinga-11/sstconfigts-file-in-tldraw-codebase-3bhh)
+- [KEXP: Rosali - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-full-performance-live-on-kexp-3hgi)
+- [Golf.com: The Unsolved Mystery Behind Bethpage Black&#39;s Famous Warning Sign](https://dev.to/youtube_golf/golfcom-the-unsolved-mystery-behind-bethpage-blacks-famous-warning-sign-1njl)
+- [IGN: Fortnite x Daft Punk Experience - Official Trailer](https://dev.to/gg_news/ign-fortnite-x-daft-punk-experience-official-trailer-4g04)
+- [IGN: Stalker 2: Heart of Chornobyl - Official &#39;Night of the Hunter Update&#39; Update 1.6 Trailer](https://dev.to/gg_news/ign-stalker-2-heart-of-chornobyl-official-night-of-the-hunter-update-update-16-trailer-1idm)
+- [Day 6 of Complete JavaScript in 17 days | Visual Series📚✨](https://dev.to/azaan_suhail/day-6-of-complete-javascript-in-17-days-visual-series-4o0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
