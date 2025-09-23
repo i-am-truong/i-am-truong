@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I just finished a beginner project combining a BMI calculator, a live clock, and a GitHub profile card using the GitHub API.](https://dev.to/sufalthakre/i-just-finished-a-beginner-project-combining-a-bmi-calculator-a-live-clock-and-a-github-profile-1629)
-- [AdminWind: Free Admin Dashboard Template + 10 More TailwindCSS Templates You Need in 2025](https://dev.to/saim_t8/adminwind-free-admin-dashboard-template-10-more-tailwindcss-templates-you-need-in-2025-5f0g)
-- [The C-Suite API: 5 Endpoints for Writing B2B Content That Gets a 200 OK](https://dev.to/michaelaiglobal/the-c-suite-api-5-endpoints-for-writing-b2b-content-that-gets-a-200-ok-418o)
-- [When AI Writes Medical Records, the Patient Disappears](https://dev.to/agustin_v_startari/when-ai-writes-medical-records-the-patient-disappears-4ki6)
-- [Full-Stack TodoApp: Node.js, Express, MongoDB, and EJS Guide](https://dev.to/renam_singla_fb52a400f07e/full-stack-todoapp-nodejs-express-mongodb-and-ejs-guide-5dj2)
+- [How do I setup templating in Golang Project](https://dev.to/bosnaufal/how-do-i-setup-templating-in-golang-project-4p04)
+- [# How I Built a Free Online Tool to Convert Images to PDF &lpar;PHP + mPDF&rpar;](https://dev.to/onlin3/-how-i-built-a-free-online-tool-to-convert-images-to-pdf-php-mpdf-861)
+- [7 habits of Highly Effective Java Coding](https://dev.to/jonathanvila/7-habits-of-highly-effective-java-coding-4jdg)
+- [📰 Major Tech News: September 23, 2025](https://dev.to/om_shree_0709/major-tech-news-september-23-2025-4gbl)
+- [Semgrep Newsletter | AI Code Assistant Research, Security Alerts, Quarterly Release and More](https://dev.to/semgrep/semgrep-newsletter-ai-code-assistant-research-security-alerts-quarterly-release-and-more-8ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
