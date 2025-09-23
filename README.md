@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Reality Check: Why AI Coding Assistants Still Need Human Oversight](https://dev.to/heyradcode/the-reality-check-why-ai-coding-assistants-still-need-human-oversight-32l5)
-- [A Developer&#39;s Guide to Cloud Computing](https://dev.to/muhabbat_dev/a-developers-guide-to-cloud-computing-5511)
-- [Unlocking Claude: A Developer&#39;s Guide to Effective AI Prompting](https://dev.to/muhabbat_dev/unlocking-claude-a-developers-guide-to-effective-ai-prompting-3d21)
-- [Accessibility Cheat Sheet 2025: Free Courses, Certification Paths, and Testing Tools](https://dev.to/a11ynews/accessibility-cheat-sheet-2025-free-courses-certification-paths-and-testing-tools-3eo1)
-- [¿Cuáles son los fabricantes líderes de máquinas de hielo tubular?](https://dev.to/tubosdehielo_eco/cuales-son-los-fabricantes-lideres-de-maquinas-de-hielo-tubular-4e18)
+- [¿Cuáles son las fábricas de máquinas de hielo tubular con una producción diaria de 5 toneladas?](https://dev.to/maqhielotubo_digital/cuales-son-las-fabricas-de-maquinas-de-hielo-tubular-con-una-produccion-diaria-de-5-toneladas-56pb)
+- [Building AI-Powered Flutter Apps with Claude](https://dev.to/teephilz/building-ai-powered-flutter-apps-with-claude-55d6)
+- [NPR Music: Carlos Vives: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-carlos-vives-tiny-desk-concert-2960)
+- [Why I Ditched SSMS for VS Code&#39;s MSSQL Extension &lpar;And Never Looked Back&rpar;](https://dev.to/shiva_shanker_k/why-i-ditched-ssms-for-vs-codes-mssql-extension-and-never-looked-back-4d52)
+- [Build a Real-Time Chat App with Flutter and Supabase](https://dev.to/muhabbat_dev/build-a-real-time-chat-app-with-flutter-and-supabase-2m5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
