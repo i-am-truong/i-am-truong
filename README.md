@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python Module Two Part Two Best Practices](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-two-best-practices-336b)
-- [ShadCN Rich Text Editor with Lexical + Lexkit](https://dev.to/codeideal/shadcn-rich-text-editor-with-lexical-lexkit-4gnm)
-- [Three.js: How to determine if a point is inside a box?](https://dev.to/handsometan/threejs-how-to-determine-if-a-point-is-inside-a-box-1fpi)
-- [Ask Your Video: Build a Containerized RAG Application for Visual and Audio Analysis](https://dev.to/aws/ask-your-video-build-a-containerized-rag-application-for-visual-and-audio-analysis-58bg)
-- [kelas_x3.html](https://dev.to/wish_senka_79bb3a6682ee75/kelasx3html-k0c)
+- [IGN: Xbox Tokyo Game Show 2025 Livestream](https://dev.to/gg_news/ign-xbox-tokyo-game-show-2025-livestream-1nda)
+- [IGN: JUJUTSU KAISEN: Execution - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-jujutsu-kaisen-execution-official-trailer-english-subtitles-5135)
+- [IGN: Robin Hood - Official Trailer &lpar;2025&rpar; Jack Patten, Sean Bean, Lauren McQueen](https://dev.to/gg_news/ign-robin-hood-official-trailer-2025-jack-patten-sean-bean-lauren-mcqueen-46mp)
+- [Why Microservices Hype Is Masking a Critical Skill Gap: The Case for Server Knowledge in Modern DevOps](https://dev.to/srinivasamcjf/why-microservices-hype-is-masking-a-critical-skill-gap-the-case-for-server-knowledge-in-modern-4e2b)
+- [Multi-Tool Execution: When One Tool Isn&#39;t Enough](https://dev.to/gazolla/multi-tool-execution-when-one-tool-isnt-enough-1bfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
