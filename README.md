@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Caching in .NET Core Web API](https://dev.to/harpreet_singh_c4ea4af253/implementing-caching-in-net-core-web-api-4d6l)
+- [How I Secure APIs — Practical Steps I Use Every Day](https://dev.to/gimhantharuke4565/how-i-secure-apis-practical-steps-i-use-every-day-2e8g)
+- [TCJSGame Component Class: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-component-class-complete-reference-guide-3e3p)
+- [My First DEV Post: Learning AI, Big Data &amp; Web Development](https://dev.to/arshiyashaik2005_85ba428f/my-first-dev-post-learning-ai-big-data-web-development-i4)
 - [API Versioning in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/api-versioning-in-net-web-api-39ma)
-- [🧠 Basic Algorithm Structures](https://dev.to/mzunairtariq/basic-algorithm-structures-42ib)
-- [👋 Hello Dev Community — First Post!](https://dev.to/meganpropps/hello-dev-community-first-post-40hg)
-- [Would love your feedback on my Portfolio 😊](https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7)
-- [Day 009 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-009-on-my-journey-to-becoming-a-css-pro-with-keith-grant-1o15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
