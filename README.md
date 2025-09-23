@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading Face Recognition: From DeepFace to InsightFace — Performance, Quality, and Integration](https://dev.to/wintrover/upgrading-face-recognition-from-deepface-to-insightface-performance-quality-and-integration-5b7f)
-- [Why I Deleted 10,000 Lines of Code and My Manager Promoted Me](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-i-deleted-10000-lines-of-code-and-my-manager-promoted-me-488l)
-- [KendoReact: How to Activate 30-Day Free Trial License Key &lpar;Remove Watermark Guide&rpar;](https://dev.to/chiragx309/kendoreact-how-to-activate-30-day-free-trial-license-key-remove-watermark-guide-9m2)
-- [Scaling Healthcare Data Processing: Multi-Environment FHIR Patient Updates with Smart Batch Processing](https://dev.to/budiwidhiyanto/scaling-healthcare-data-processing-multi-environment-fhir-patient-updates-with-smart-batch-b3f)
-- [Why Your Relationships Matter as Much as Code Reviews: Social Connection &amp; Mental Health](https://dev.to/nvelup_e92618d5196e8d9f43/why-your-relationships-matter-as-much-as-code-reviews-social-connection-mental-health-3j3e)
+- [A Complete Guide to the Latest ZoomEye Search Syntax](https://dev.to/stark_zhuang_df5076f35c68/a-complete-guide-to-the-latest-zoomeye-search-syntax-4loo)
+- [การใช้ `netcat` เปิดพอร์ตรับข้อความแบบง่ายๆ](https://dev.to/anuchito/kaaraich-netcat-epidphrtrabkhkhwaamaebbngaay-4bmo)
+- [IGN: OD - &#39;Knock&#39; Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-od-knock-teaser-trailer-tgs-2025-1333)
+- [IGN: Death Stranding Mosquito - Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-death-stranding-mosquito-teaser-trailer-tgs-2025-205f)
+- [Ringer Movies: ‘Airplane!’ With Bill Simmons and Bill Hader | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-airplane-with-bill-simmons-and-bill-hader-the-rewatchables-l45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
