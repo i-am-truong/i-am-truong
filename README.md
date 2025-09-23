@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Scheduler &amp; Fiber Architecture Explained: Time Slicing, Concurrent Rendering &amp; WIP Management 🚀](https://dev.to/yorgie7/react-scheduler-fiber-architecture-explained-time-slicing-concurrent-rendering-wip-management-3knh)
+- [enq: TX — allocate ITL entry](https://dev.to/vahidusefzadeh/enq-tx-allocate-itl-entry-4bh1)
 - [Refactor Smart Today, Move Faster Tomorrow — Part 5: After the Refactor: How to Know It Worked](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-5-after-the-refactor-how-to-know-it-worked-47km)
 - [Rye Tables vs Python/Pandas: A Different Way to Wrangle Data](https://dev.to/refaktor/rye-tables-vs-pythonpandas-a-different-way-to-wrangle-data-4c15)
 - [I went silent for a month to build a WordPress killer. Here&#39;s why.](https://dev.to/nextblockcms/i-went-silent-for-a-month-to-build-a-wordpress-killer-heres-why-3j9d)
-- [Building an AI-Powered Anime Discovery Platform with 15+ Free KendoReact Components](https://dev.to/charmpic/building-an-ai-powered-anime-discovery-platform-with-15-free-kendoreact-components-486)
-- [Oasis CLI Is Now Available on Homebrew](https://dev.to/caerlower/oasis-cli-is-now-available-on-homebrew-ecj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
