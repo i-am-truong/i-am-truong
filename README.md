@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PHP 8.5 nos trae closures en constantes de clases.](https://dev.to/oskar_calvo_1615a9b3b293f/php-85-nos-trae-closures-en-constantes-de-clases-22d3)
-- [Graph-Based Movie Recommendations: A Practical Guide with Python](https://dev.to/ivansing/graph-based-movie-recommendations-a-practical-guide-with-python-4all)
-- [Using Gemini for Web Apps](https://dev.to/denladeside/using-gemini-for-web-apps-7fn)
-- [I&#39;ve built a Swiss Tables interactive simulator so you can understand how they work internally and how they offer superior performance compared to Buckets](https://dev.to/zeedu_dev/ive-built-a-swiss-tables-interactive-simulator-so-you-can-understand-how-they-work-internally-and-3mk9)
-- [Meet Mongoose Test Factory!](https://dev.to/aissam_af7e3548e20435d720/meet-mongoose-test-factory-1hcb)
+- [IGN: Painkiller - Official Rogue Angel &lpar;Roguelike Mode&rpar; Trailer](https://dev.to/gg_news/ign-painkiller-official-rogue-angel-roguelike-mode-trailer-4nki)
+- [IGN: Silent Hill f: 8 Tips for Early Survival](https://dev.to/gg_news/ign-silent-hill-f-8-tips-for-early-survival-1cll)
+- [Performance Tuning for Nginx: 7 Tips to Slash TTFB and Boost Speed](https://dev.to/ramer2b58cbe46bc8/performance-tuning-for-nginx-7-tips-to-slash-ttfb-and-boost-speed-4moa)
+- [Evergreen Content: Warum deine Tech-Inhalte auch in 5 Jahren noch rocken sollten](https://dev.to/ivo_sa/evergreen-content-warum-deine-tech-inhalte-auch-in-5-jahren-noch-rocken-sollten-12io)
+- [🔍 Applying Flawfinder: A Lightweight SAST Tool to Secure C/C++ Codebases](https://dev.to/jefferson_rosas/applying-flawfinder-a-lightweight-sast-tool-to-secure-cc-codebases-p50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
