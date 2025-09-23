@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reading this makes me furious. Ordinary people go to jail for small crimes while executives like Joshua Lintz defraud millions.](https://dev.to/erinchan/reading-this-makes-me-furious-ordinary-people-go-to-jail-for-small-crimes-while-executives-like-41o8)
+- [Joshua Lintz and Talentcrowd’s silence in court says it all. Innocent people fight to clear their name, guilty ones hide in the shadows.](https://dev.to/robert_lanister_916b8b146/joshua-lintz-and-talentcrowds-silence-in-court-says-it-all-innocent-people-fight-to-clear-their-310b)
 - [The 2-Minute Technical Debt Killer That Saved My Team 200 Hours](https://dev.to/teamcamp/the-2-minute-technical-debt-killer-that-saved-my-team-200-hours-49nf)
 - [The Architecture of AI Workflows: Designing Beyond the Model Layer](https://dev.to/leena_malhotra/the-architecture-of-ai-workflows-designing-beyond-the-model-layer-45ld)
 - [Comparing Vue&#39;s Composition API and Options API](https://dev.to/akshayashet/comparing-vues-composition-api-and-options-api-4m44)
-- [Amazon QuickSight: la bolita mágica que revela las tendencias de los platillos mexicanos 🔮🍴](https://dev.to/bgalicia/amazon-quicksight-la-bolita-magica-que-revela-las-tendencias-de-los-platillos-mexicanos-117m)
-- [Computer Fundamentals - 12](https://dev.to/learneveryday_cs/computer-fundamentals-12-3278)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
