@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built MiniTools - Privacy-first utilities that don&#39;t ask for your email](https://dev.to/asifnawaz1220/i-built-minitools-privacy-first-utilities-that-dont-ask-for-your-email-37om)
-- [Apache Kafka: The Data Streaming Backbone Powering Real-Time Intelligence](https://dev.to/j_m47/apache-kafka-the-data-streaming-backbone-powering-real-time-intelligence-3ggp)
-- [What is a Content Management System and What CMS Does ClutchHosting Support?](https://dev.to/alex_adam_be7304e8b6aee79/what-is-a-content-management-system-and-what-cms-does-clutchhosting-support-5dk9)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-47ik)
-- [That Cryptic sbt Error? My JDK Was Too New](https://dev.to/andrewchaa/that-cryptic-sbt-error-my-jdk-was-too-new-ap1)
+- [I just finished a beginner project combining a BMI calculator, a live clock, and a GitHub profile card using the GitHub API.](https://dev.to/sufalthakre/i-just-finished-a-beginner-project-combining-a-bmi-calculator-a-live-clock-and-a-github-profile-1629)
+- [AdminWind: Free Admin Dashboard Template + 10 More TailwindCSS Templates You Need in 2025](https://dev.to/saim_t8/adminwind-free-admin-dashboard-template-10-more-tailwindcss-templates-you-need-in-2025-5f0g)
+- [The C-Suite API: 5 Endpoints for Writing B2B Content That Gets a 200 OK](https://dev.to/michaelaiglobal/the-c-suite-api-5-endpoints-for-writing-b2b-content-that-gets-a-200-ok-418o)
+- [When AI Writes Medical Records, the Patient Disappears](https://dev.to/agustin_v_startari/when-ai-writes-medical-records-the-patient-disappears-4ki6)
+- [Full-Stack TodoApp: Node.js, Express, MongoDB, and EJS Guide](https://dev.to/renam_singla_fb52a400f07e/full-stack-todoapp-nodejs-express-mongodb-and-ejs-guide-5dj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
