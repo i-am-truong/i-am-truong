@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PasteSense – The little tool that quietly doubled my marketing output](https://dev.to/hows-is-my-day/pastesense-the-little-tool-that-quietly-doubled-my-marketing-output-1f7k)
-- [When Not Having the Answer Is the Answer](https://dev.to/remejuan/when-not-having-the-answer-is-the-answer-15kj)
-- [Check out the guide on the Tableau Workbook](https://dev.to/thedatageek/check-out-the-guide-on-the-tableau-workbook-58ej)
-- [Lessons Learned: CompletableFuture Security and Kafka Topic Grouping in Microservices](https://dev.to/jayesh_shinde/lessons-learned-completablefuture-security-and-kafka-topic-grouping-in-microservices-5ami)
-- [TCJSGame Display Class: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-display-class-complete-reference-guide-4dn0)
+- [AbortController &amp; AbortSignal](https://dev.to/mohsenfallahnjd/abortcontroller-abortsignal-5ea4)
+- [⚡ Advanced `CompletableFuture` Use Cases in Java](https://dev.to/nk_sk_6f24fdd730188b284bf/advanced-completablefuture-use-cases-in-java-37l2)
+- [Los diez principales fabricantes chinos de máquinas de hielo tubular para ambientes de alta temperatura](https://dev.to/tubosdehielo_premium/los-diez-principales-fabricantes-chinos-de-maquinas-de-hielo-tubular-para-ambientes-de-alta-db1)
+- [[Boost]](https://dev.to/sagar_katoch/-1ea7)
+- [🚀 Mastering `CompletableFuture` in Java: Use Cases and Example Codes](https://dev.to/nk_sk_6f24fdd730188b284bf/mastering-completablefuture-in-java-use-cases-and-example-codes-4kkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
