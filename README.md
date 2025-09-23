@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔄 Understanding Spring Boot Lifecycle Hooks: From Bean Creation to Application Ready](https://dev.to/devcorner/understanding-spring-boot-lifecycle-hooks-from-bean-creation-to-application-ready-380k)
+- [Essential Steps for Creating a Robust Software Quality Foundation - Culture, Roles &amp; Mindset](https://dev.to/idavidov13/essential-steps-for-creating-a-robust-software-quality-foundation-culture-roles-mindset-3g4g)
+- [# My First Steps with Docker: Learning by Doing](https://dev.to/roshan_sharma_7deae5e0742/-my-first-steps-with-docker-learning-by-doing-a57)
+- [Node.js module.exports Explained: Complete Guide for Developers 🚀](https://dev.to/yorgie7/nodejs-moduleexports-explained-complete-guide-for-developers-1k63)
 - [I&#39;m back to Java, and this is what I found &lpar;so far&rpar;](https://dev.to/claudiobusatto/im-back-to-java-and-this-is-what-i-found-clc)
-- [When Louis Vuitton Met Chewy Vuiton A Landmark Case in Trademark Parody](https://dev.to/freedomip_firm_bbd285a37a/when-louis-vuitton-met-chewy-vuiton-a-landmark-case-in-trademark-parody-2jid)
-- [How do I setup templating in Golang Project](https://dev.to/bosnaufal/how-do-i-setup-templating-in-golang-project-4p04)
-- [# How I Built a Free Online Tool to Convert Images to PDF &lpar;PHP + mPDF&rpar;](https://dev.to/onlin3/-how-i-built-a-free-online-tool-to-convert-images-to-pdf-php-mpdf-861)
-- [7 habits of Highly Effective Java Coding](https://dev.to/jonathanvila/7-habits-of-highly-effective-java-coding-4jdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
