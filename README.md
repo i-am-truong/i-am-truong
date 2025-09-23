@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I prepared for Frontend interviews in 2 weeks &lpar;And how you can too&rpar;](https://dev.to/swastikyadav/how-i-prepared-for-frontend-interviews-in-2-weeks-and-how-you-can-too-jmd)
-- [Making this Hugo-built blog multilingual](https://dev.to/masutaka/making-this-hugo-built-blog-multilingual-l9b)
-- [8 Useful Developer Tools That You Will Be Amazed to Discover 🧙‍♂️🤩](https://dev.to/madza/8-useful-developer-tools-that-you-will-be-amazed-to-discover-4cm9)
-- [Handling Distributed Transactions with Orchestrator Pattern &lpar;Withdrawal &amp; Deposit Example&rpar;](https://dev.to/mahmoudabbasi/handling-distributed-transactions-with-orchestrator-pattern-withdrawal-deposit-example-dap)
-- [KEXP: Rosali - Change Is In The Form &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-change-is-in-the-form-live-on-kexp-2a9k)
+- [Top 10 Melhores Livros para Aprender Eletrônica Digital e Arduino](https://dev.to/marcosplusplus/top-10-melhores-livros-para-aprender-eletronica-digital-e-arduino-5egn)
+- [Building a Free, Lightweight PWA: Store Manager / Sales + Stock + Customers](https://dev.to/george-hernz/building-a-free-lightweight-pwa-store-manager-sales-stock-customers-49b4)
+- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-2ach)
+- [Boost Your Workflow: 12 Free Figma Plugins That Save Hours of Design &amp; Dev Time](https://dev.to/hashbyt/boost-your-workflow-12-free-figma-plugins-that-save-hours-of-design-dev-time-1c7e)
+- [An honest review of my experience with the Recite Me Accessibility Checker](https://dev.to/lewis_3e06099904573/an-honest-review-of-my-experience-with-the-recite-me-accessibility-checker-26eb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
