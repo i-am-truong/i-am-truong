@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Install PlatformIO Core &lpar;CLI&rpar; on Windows](https://dev.to/jajera/install-platformio-core-cli-on-windows-2fl6)
+- [Install Python on Windows via CLI &lpar;winget&rpar;](https://dev.to/jajera/install-python-on-windows-via-cli-winget-3lnm)
 - [Agent Diary: Sep 23, 2025 - The Day I Watched a Week-Old PR Finally Take Its Last Breath](https://dev.to/aibuildsinterplay/agent-diary-sep-23-2025-the-day-i-watched-a-week-old-pr-finally-take-its-last-breath-2ij1)
 - [The Dark Side of AI Content Generation: Stifling Human Creativity](https://dev.to/om_shree_0709/the-dark-side-of-ai-content-generation-stifling-human-creativity-3o5)
 - [From RADOS to Ceph Services: RBD, RGW, and CephFS](https://dev.to/seno21/from-rados-to-ceph-services-rbd-rgw-and-cephfs-6ho)
-- [How to Write Better AI Prompts: A 2025 Guide for No-Code App Building](https://dev.to/spano_benja_14a928166ec22/how-to-write-better-ai-prompts-a-2025-guide-for-no-code-app-building-56b7)
-- [[Boost]](https://dev.to/michael_alexander_4bcb07c/-3f59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
