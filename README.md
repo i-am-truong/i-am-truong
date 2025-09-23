@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I am a Multi-Cloud Skeptic](https://dev.to/aws-builders/why-i-am-a-multi-cloud-skeptic-5ch3)
+- [How to Build an Infinite CSS Carousel | HTML &amp; CSS Tutorial](https://dev.to/learncodewithalex/how-to-build-an-infinite-css-carousel-html-css-tutorial-28mf)
+- [What Is “State” in JavaScript, and How to Use It in Your Projects](https://dev.to/michaellarocca/what-is-state-in-javascript-and-how-to-use-it-in-your-projects-5e9o)
 - [🌟 Back to Coding My First Tribute Website! ✨](https://dev.to/with_tahaaziz/back-to-coding-my-first-tribute-website-2ok4)
 - [Detect EventBridge target failure: Part 1 - with dead letter queue](https://dev.to/pubudusj/detect-eventbridge-target-failure-part-1-with-dead-letter-queue-4o73)
-- [WebStorm vs VSCode](https://dev.to/vadim/webstorm-vs-vscode-57da)
-- [Create and configure network security groups](https://dev.to/akinwande/create-and-configure-network-security-groups-4ikj)
-- [Configure secure access to workloads with Azure virtual networking services](https://dev.to/akinwande/configure-secure-access-to-workloads-with-azure-virtual-networking-services-1cc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
