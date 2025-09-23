@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Scheduler &amp; Fiber Architecture Explained: Time Slicing, Concurrent Rendering &amp; WIP Management 🚀](https://dev.to/yorgie7/react-scheduler-fiber-architecture-explained-time-slicing-concurrent-rendering-wip-management-3knh)
-- [enq: TX — allocate ITL entry](https://dev.to/vahidusefzadeh/enq-tx-allocate-itl-entry-4bh1)
-- [Refactor Smart Today, Move Faster Tomorrow — Part 5: After the Refactor: How to Know It Worked](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-5-after-the-refactor-how-to-know-it-worked-47km)
-- [Rye Tables vs Python/Pandas: A Different Way to Wrangle Data](https://dev.to/refaktor/rye-tables-vs-pythonpandas-a-different-way-to-wrangle-data-4c15)
-- [I went silent for a month to build a WordPress killer. Here&#39;s why.](https://dev.to/nextblockcms/i-went-silent-for-a-month-to-build-a-wordpress-killer-heres-why-3j9d)
+- [From GitHub to AWS ECS: A Step-by-Step Guide to Deploying Flask Apps with Docker and Docker Hub.](https://dev.to/21toffy/from-github-to-aws-ecs-a-step-by-step-guide-to-deploying-flask-apps-with-docker-and-docker-hub-4me1)
+- [How Kubernetes-Inspired API Design Helps LLMs](https://dev.to/felixhuttmann/how-kubernetes-inspired-api-design-helps-llms-1pgl)
+- [NGINX - Native support ACME Protocol](https://dev.to/terngr/nginx-native-support-acme-protocol-2d1p)
+- [The Art of Simple Python Lists](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-lists-2e6m)
+- [Dynamic Theming in React Using Context API: Multi-Brand 🎨](https://dev.to/yorgie7/dynamic-theming-in-react-using-context-api-multi-brand-56l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
