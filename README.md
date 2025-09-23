@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hi guys, please take a look into my post about Supabase for beginners. If it helps you then please share it to others](https://dev.to/sukanta47/hi-guys-please-take-a-look-into-my-post-about-supabase-for-beginners-if-it-helps-you-then-please-3n20)
-- [Ace Your Next Interview: Frontend Developer Questions in Korea](https://dev.to/adrahi/ace-your-next-interview-frontend-developer-questions-in-korea-2lni)
-- [[HarmonyOS NEXT] Sign and Package HarmonyOS App &lpar;Build Mode: Release&rpar;](https://dev.to/lhongtao/harmonyos-next-sign-and-package-harmonyos-app-build-mode-release-21om)
-- [Los diez principales fabricantes de máquinas de hielo tubular con una producción diaria mundial de 5 a 10 toneladas](https://dev.to/hielotubo_tecno/los-diez-principales-fabricantes-de-maquinas-de-hielo-tubular-con-una-produccion-diaria-mundial-de-3266)
-- [Scraping Google Organic Results with Python](https://dev.to/hasdata_com/scraping-google-organic-results-with-python-550i)
+- [90 Days of Code: Day 15 – Building a Beginner-Friendly Coin Toss Game with Python](https://dev.to/momina_raheelmoona_c59/90-days-of-code-day-15-building-a-beginner-friendly-coin-toss-game-with-python-2lk5)
+- [Checkout this Image Uploader with Cropping functionality. Comment your thoughts and suggestions.](https://dev.to/sukanta47/checkout-this-image-uploader-with-cropping-functionality-comment-your-thoughts-and-suggestions-2pe1)
+- [From Static Pages to Interactive Spaces: Embedding Now4Real Chat](https://dev.to/claranet/from-static-pages-to-interactive-spaces-embedding-now4real-chat-4p4n)
+- [The Future is Now: How AI Will Reshape Careers by 2026](https://dev.to/cs_vishnukumar_c7ab67ff18/the-future-is-now-how-ai-will-reshape-careers-by-2026-209a)
+- [4 Critical AI Agent Use Cases in Finance: With Tech Stack](https://dev.to/anil_jha/4-critical-ai-agent-use-cases-in-finance-with-tech-stack-48dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
