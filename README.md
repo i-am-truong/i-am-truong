@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built MiniTools - Privacy-first utilities that don&#39;t ask for your email](https://dev.to/asifnawaz1220/i-built-minitools-privacy-first-utilities-that-dont-ask-for-your-email-37om)
+- [Apache Kafka: The Data Streaming Backbone Powering Real-Time Intelligence](https://dev.to/j_m47/apache-kafka-the-data-streaming-backbone-powering-real-time-intelligence-3ggp)
 - [What is a Content Management System and What CMS Does ClutchHosting Support?](https://dev.to/alex_adam_be7304e8b6aee79/what-is-a-content-management-system-and-what-cms-does-clutchhosting-support-5dk9)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-47ik)
 - [That Cryptic sbt Error? My JDK Was Too New](https://dev.to/andrewchaa/that-cryptic-sbt-error-my-jdk-was-too-new-ap1)
-- [Day-4: Linux File Permissions | 100 Days of DevOps](https://dev.to/olymahmud/day-4-linux-file-permissions-100-days-of-devops-209j)
-- [The missing link](https://dev.to/naugtur/the-missing-link-3ejk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
