@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MapTiler Server on Raspberry Pi - A Geeks&#39; Guide to Self-Hosted Maps](https://dev.to/bolollo/maptiler-server-on-raspberry-pi-a-geeks-guide-to-self-hosted-maps-19d4)
+- [HTB CPTS – Getting Started Reference Guide](https://dev.to/madhiashabih/htb-cpts-getting-started-reference-guide-hi7)
 - [What My Dad Taught Me About Context &lpar;and Why I Keep Jira in My Repo&rpar;](https://dev.to/saxmanjes/what-my-dad-taught-me-about-context-and-why-i-keep-jira-in-my-repo-2ejd)
 - [The OSI Model Explained: Your Complete Guide to Network Communication 🌐](https://dev.to/deepanshub09/the-osi-model-explained-your-complete-guide-to-network-communication-512a)
 - [Integrating AI in Data Analytics: Transforming Insights into Action](https://dev.to/missmati/integrating-ai-in-data-analytics-transforming-insights-into-action-30a6)
-- [10 Remote Work Myths That Are Holding You Back &lpar;And the Truth Behind Them&rpar;](https://dev.to/teamcamp/10-remote-work-myths-that-are-holding-you-back-and-the-truth-behind-them-409o)
-- [From Prototype to Production: A Modern Blueprint for AI Agents with Strands and AWS Bedrock Agentcore](https://dev.to/aws-builders/from-prototype-to-production-a-modern-blueprint-for-ai-agents-with-strands-and-aws-bedrock-d3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
