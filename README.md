@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Review Therapy: How to Give Feedback Without Breaking Hearts &lpar;or Code&rpar;💔](https://dev.to/pullflow/code-review-therapy-how-to-give-feedback-without-breaking-hearts-or-code-4dm8)
-- [[Boost]](https://dev.to/anakin_developer/-1699)
-- [Introduction to Prisma: An ORM for Type-Safe and Efficient Database Operations](https://dev.to/learcise_health/introduction-to-prisma-an-orm-for-type-safe-and-efficient-database-operations-4334)
-- [Access Wi-Fi password from a PC](https://dev.to/noorejannatnafia/access-wi-fi-password-from-a-pc-k1e)
-- [12 Developer Tools That Keep My Workflow Smooth](https://dev.to/therealmrmumba/12-developer-tools-that-keep-my-workflow-smooth-268k)
+- [**Unlocking Hidden Gems: T5 and the Uniter** ⚡ In the world](https://dev.to/drcarlosruizviquez/unlocking-hidden-gems-t5-and-the-uniter-in-the-world-599l)
+- [How to Keep Using Cursor for FREE on MacOS/Linux 🖥️](https://dev.to/aadarsh-nagrath/how-to-keep-using-cursor-for-free-on-macoslinux-31pj)
+- [Introduction of React useTransition Hook](https://dev.to/rameem2003/introduction-of-react-usetransition-hook-1n13)
+- [[Boost]](https://dev.to/miska_kovakova_7b0e462520/-2cj8)
+- [Building a Self-Hosted n8n AI Automation Lab with Ollama &amp; PostgreSQL on Windows 🤖💻](https://dev.to/alexizu/building-a-self-hosted-n8n-ai-automation-lab-with-ollama-postgresql-on-windows-36jd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
