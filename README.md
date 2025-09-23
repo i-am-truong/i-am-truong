@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Arcade - 2D Game Development Library for python](https://dev.to/imrrobot/arcade-2d-game-development-library-for-python-58po)
-- [利用ollama部署的本地模型翻译电子书](https://dev.to/dragon72463399/li-yong-ollamabu-shu-de-ben-di-mo-xing-fan-yi-dian-zi-shu-2mhl)
-- [ShortPixel vs. TinyPNG: Which WordPress Image Optimizer Is Best?](https://dev.to/andreialba/shortpixel-vs-tinypng-which-wordpress-image-optimiser-is-best-4l27)
-- [Containerization vs Virtualization: What’s the Difference and Why It Matters](https://dev.to/harshit_kumar_bae0141f6a4/containerization-vs-virtualization-whats-the-difference-and-why-it-matters-1770)
-- [Los diez principales proveedores inteligentes de máquinas de hielo tubular para almacenes de hielo en China](https://dev.to/maqhielotubo_medico/los-diez-principales-proveedores-inteligentes-de-maquinas-de-hielo-tubular-para-almacenes-de-hielo-2iip)
+- [Aws Glue &amp; ETL bookmarks](https://dev.to/wakeup_flower_8591a6cb6a9/aws-glue-etl-bookmarks-54fj)
+- [🚀 YINI Parser v1.3.0-beta – Smarter Options, Safer Metadata, and New Controls](https://dev.to/marko_kseppnen_6250a7f/yini-parser-v130-beta-smarter-options-safer-metadata-and-new-controls-2gn0)
+- [Persian OCR with YOLO + CRNN: Building a Custom Text Recognition Pipeline](https://dev.to/mahmoudabbasi/persian-ocr-with-yolo-crnn-building-a-custom-text-recognition-pipeline-4hid)
+- [Database Optimizations: Sharding](https://dev.to/zeeshanali0704/database-optimizations-sharding-2l6l)
+- [Database Optimizations: Partitioning](https://dev.to/zeeshanali0704/database-optimizations-partitioning-480n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
