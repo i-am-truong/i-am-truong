@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Innovative Data Visualization Techniques for AI and Machine Learning Insights](https://dev.to/donazacharias/innovative-data-visualization-techniques-for-ai-and-machine-learning-insights-5fbe)
+- [Stunning Animated Drawer Navigation in Expo React Native](https://dev.to/haider_mukhtar/stunning-animated-drawer-navigation-in-expo-react-native-1013)
 - [Strategy Pattern in Clprolf: Clear Roles for Swappable Behavior](https://dev.to/charles_koffler_bcabc582b/strategy-pattern-in-clprolf-clear-roles-for-swappable-behavior-30ll)
 - [MapTiler Server on Raspberry Pi - A Geeks&#39; Guide to Self-Hosted Maps](https://dev.to/bolollo/maptiler-server-on-raspberry-pi-a-geeks-guide-to-self-hosted-maps-19d4)
 - [HTB CPTS – Getting Started Reference Guide](https://dev.to/madhiashabih/htb-cpts-getting-started-reference-guide-hi7)
-- [Does it really work for anybody, AI agentic testing, or automation](https://dev.to/rmarinsky/is-it-really-works-for-anybody-ai-agentic-testing-or-automation-2l2a)
-- [A deep dive on how backend servers handles HTTP connections](https://dev.to/mouloud_hasrane_c99b0f49a/a-deep-dive-on-how-backend-servers-handles-http-connections-1jom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
