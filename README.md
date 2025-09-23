@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Melhores Livros para Aprender Eletrônica Digital e Arduino](https://dev.to/marcosplusplus/top-10-melhores-livros-para-aprender-eletronica-digital-e-arduino-5egn)
-- [Building a Free, Lightweight PWA: Store Manager / Sales + Stock + Customers](https://dev.to/george-hernz/building-a-free-lightweight-pwa-store-manager-sales-stock-customers-49b4)
-- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-2ach)
-- [Boost Your Workflow: 12 Free Figma Plugins That Save Hours of Design &amp; Dev Time](https://dev.to/hashbyt/boost-your-workflow-12-free-figma-plugins-that-save-hours-of-design-dev-time-1c7e)
-- [An honest review of my experience with the Recite Me Accessibility Checker](https://dev.to/lewis_3e06099904573/an-honest-review-of-my-experience-with-the-recite-me-accessibility-checker-26eb)
+- [Streamlit - Fast and Simple Data Apps in python](https://dev.to/imrrobat/streamlit-fast-and-simple-data-apps-in-python-1g5n)
+- [Quotex Bonus Code](https://dev.to/leodonovan/quotex-bonus-code-35d)
+- [Warum DevOps Lösungen heute unverzichtbar sind](https://dev.to/chudovo-dach/warum-devops-losungen-heute-unverzichtbar-sind-351m)
+- [TIL: Angular OnPush](https://dev.to/vishnukn01/til-angular-onpush-2ni0)
+- [Selenium - Browser Automation for Python](https://dev.to/imrrobat/selenium-browser-automation-for-python-ngb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
