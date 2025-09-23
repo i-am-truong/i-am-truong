@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Unbreachable Resort: When Php Back End Goes to Therapy with GDPR, PCI DSS and HIPAA -&gt; part one](https://dev.to/igornosatov_15/the-unbreachable-resort-when-php-back-end-goes-to-therapy-with-gdpr-pci-dss-and-hipaa1-part-47ea)
-- [Building CardOS: An AI-Powered Credit Pre-Approval System on Google Kubernetes Engine](https://dev.to/amelia751/building-cardos-an-ai-powered-credit-pre-approval-system-on-google-kubernetes-engine-hn8)
-- [Why I Avoided Kubernetes for 2 Years &lpar;Spoiler: Bad Idea&rpar;](https://dev.to/arbythecoder/why-i-avoided-kubernetes-for-2-years-spoiler-bad-idea-179k)
-- [[Boost]](https://dev.to/alazsel/-a8a)
-- [System Design Basics 🍕 + Spring Boot](https://dev.to/wastech/system-design-basics-spring-boot-2dbo)
+- [Introduction to Python Module Two Part Two Best Practices](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-two-best-practices-336b)
+- [ShadCN Rich Text Editor with Lexical + Lexkit](https://dev.to/codeideal/shadcn-rich-text-editor-with-lexical-lexkit-4gnm)
+- [Three.js: How to determine if a point is inside a box?](https://dev.to/handsometan/threejs-how-to-determine-if-a-point-is-inside-a-box-1fpi)
+- [Ask Your Video: Build a Containerized RAG Application for Visual and Audio Analysis](https://dev.to/aws/ask-your-video-build-a-containerized-rag-application-for-visual-and-audio-analysis-58bg)
+- [kelas_x3.html](https://dev.to/wish_senka_79bb3a6682ee75/kelasx3html-k0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
