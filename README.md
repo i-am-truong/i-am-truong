@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Xbox Tokyo Game Show 2025 Livestream](https://dev.to/gg_news/ign-xbox-tokyo-game-show-2025-livestream-1nda)
-- [IGN: JUJUTSU KAISEN: Execution - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-jujutsu-kaisen-execution-official-trailer-english-subtitles-5135)
-- [IGN: Robin Hood - Official Trailer &lpar;2025&rpar; Jack Patten, Sean Bean, Lauren McQueen](https://dev.to/gg_news/ign-robin-hood-official-trailer-2025-jack-patten-sean-bean-lauren-mcqueen-46mp)
-- [Why Microservices Hype Is Masking a Critical Skill Gap: The Case for Server Knowledge in Modern DevOps](https://dev.to/srinivasamcjf/why-microservices-hype-is-masking-a-critical-skill-gap-the-case-for-server-knowledge-in-modern-4e2b)
-- [Multi-Tool Execution: When One Tool Isn&#39;t Enough](https://dev.to/gazolla/multi-tool-execution-when-one-tool-isnt-enough-1bfa)
+- [Top 3 Pillars of a Trustworthy AI Governance Framework for 2025](https://dev.to/boyte_conwa_60f60127bd416/top-3-pillars-of-a-trustworthy-ai-governance-framework-for-2025-210)
+- [How to Build a Privacy-First AI Agent: The 2025 Engineering Blueprint](https://dev.to/boyte_conwa_60f60127bd416/how-to-build-a-privacy-first-ai-agent-the-2025-engineering-blueprint-4ic5)
+- [How to set up Interconnect / FastConnect between GCP and OCI](https://dev.to/farisdurrani/how-to-set-up-interconnect-fastconnect-between-gcp-and-oci-4813)
+- [Why ETL Becomes ELT or Even LET?](https://dev.to/esproc_spl/why-etl-becomes-elt-or-even-let-56a6)
+- [First&lpar;&rpar; and FirstOrDefaut](https://dev.to/rgbos/first-and-firstordefaut-3bji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
