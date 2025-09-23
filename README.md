@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to the Latest ZoomEye Search Syntax](https://dev.to/stark_zhuang_df5076f35c68/a-complete-guide-to-the-latest-zoomeye-search-syntax-4loo)
-- [การใช้ `netcat` เปิดพอร์ตรับข้อความแบบง่ายๆ](https://dev.to/anuchito/kaaraich-netcat-epidphrtrabkhkhwaamaebbngaay-4bmo)
-- [IGN: OD - &#39;Knock&#39; Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-od-knock-teaser-trailer-tgs-2025-1333)
-- [IGN: Death Stranding Mosquito - Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-death-stranding-mosquito-teaser-trailer-tgs-2025-205f)
-- [Ringer Movies: ‘Airplane!’ With Bill Simmons and Bill Hader | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-airplane-with-bill-simmons-and-bill-hader-the-rewatchables-l45)
+- [10 Sales Tools Every Indie Hacker and Developer-Entrepreneur Should Know About](https://dev.to/writerz/10-sales-tools-every-indie-hacker-and-developer-entrepreneur-should-know-about-8k2)
+- [¿Ha sido una buena DrupalCampSpain 2025?](https://dev.to/oskar_calvo_1615a9b3b293f/ha-sido-una-buena-drupalcampspain-2025-12op)
+- [The Evolution of React: A Guide to Class vs. Functional Components](https://dev.to/mendoncamaria/the-evolution-of-react-a-guide-to-class-vs-functional-components-1bdl)
+- [Feature Selection Techniques: Choosing the Right Variables for Better Machine Learning Models](https://dev.to/anshuman_816f8012be0c9b6c/feature-selection-techniques-choosing-the-right-variables-for-better-machine-learning-models-1742)
+- [Migrating 120k+ Lines of Legacy Banking JavaScript to TypeScript with Zero Downtime](https://dev.to/vinyldavyl/migrating-120k-lines-of-legacy-banking-javascript-to-typescript-with-zero-downtime-2c68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
