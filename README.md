@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I am a Multi-Cloud Skeptic](https://dev.to/aws-builders/why-i-am-a-multi-cloud-skeptic-5ch3)
-- [How to Build an Infinite CSS Carousel | HTML &amp; CSS Tutorial](https://dev.to/learncodewithalex/how-to-build-an-infinite-css-carousel-html-css-tutorial-28mf)
-- [What Is “State” in JavaScript, and How to Use It in Your Projects](https://dev.to/michaellarocca/what-is-state-in-javascript-and-how-to-use-it-in-your-projects-5e9o)
-- [🌟 Back to Coding My First Tribute Website! ✨](https://dev.to/with_tahaaziz/back-to-coding-my-first-tribute-website-2ok4)
-- [Detect EventBridge target failure: Part 1 - with dead letter queue](https://dev.to/pubudusj/detect-eventbridge-target-failure-part-1-with-dead-letter-queue-4o73)
+- [The Best Retro Tool for Agile Teams in 2025 🚀](https://dev.to/mattlewandowski93/the-best-retro-tool-for-agile-teams-in-2025-53ad)
+- [I Built a Framework That Shows Systems Can&#39;t Detect Their Own Delusions](https://dev.to/casey_evans_44d8bc7d7706a/i-built-a-framework-that-shows-systems-cant-detect-their-own-delusions-26cn)
+- [React and the Sorcerer&#39;s Component](https://dev.to/sagi0312/react-and-the-philosophers-component-4dnk)
+- [Big O Made Simple: My First Encounter with Performance in C#](https://dev.to/brunompp/big-o-made-simple-my-first-encounter-with-performance-in-c-l6n)
+- [The Only Roadmap You Need to Become an AI/ML Engineer](https://dev.to/stutipatel/the-only-roadmap-you-need-to-become-an-aiml-engineer-3eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
