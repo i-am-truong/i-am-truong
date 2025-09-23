@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Now Live: A Brand New Collection of Area Chart Blocks!](https://dev.to/ngmaterialdev/now-live-a-brand-new-collection-of-area-chart-blocks-3k6m)
-- [From Chaos to Clarity: Leveraging Pydantic for Smarter AI](https://dev.to/moni121189/from-chaos-to-clarity-leveraging-pydantic-for-smarter-ai-5aan)
-- [Debugging with AI: How I Cut Error Fix Time by 70%](https://dev.to/jaideepparashar/debugging-with-ai-how-i-cut-error-fix-time-by-70-2pgn)
-- [Code Reuse Without Classes: A Deep Dive into Non-OOP Reusability](https://dev.to/adityabhuyan/code-reuse-without-classes-a-deep-dive-into-non-oop-reusability-598n)
-- [How to Build an AI-Powered Code Review Bot with GitHub Action, Slack, and LLMs](https://dev.to/cuongnp/how-to-build-an-ai-powered-code-review-bot-with-github-action-slack-and-llms-3iik)
+- [Encrypt Root *Unencrypted* EBS volume on AWS EC2 without creating a new instance.](https://dev.to/devops_descent/encrypt-root-unencrypted-ebs-volume-on-aws-ec2-without-creating-a-new-instance-5712)
+- [Building an Extendable Data Migration Utility in Java Using the Strategy Pattern](https://dev.to/nadkarnigaurav/building-an-extendable-data-migration-utility-in-java-using-the-strategy-pattern-3amb)
+- [Las diez principales marcas de máquinas de hielo tubular industriales en China](https://dev.to/tubohielo_comercial/las-diez-principales-marcas-de-maquinas-de-hielo-tubular-industriales-en-china-3jc3)
+- [Part-78: 🚀How to Create a Google Kubernetes Engine Regional Standard Cluster](https://dev.to/latchudevops/part-78-how-to-create-a-google-kubernetes-engine-regional-standard-cluster-2j54)
+- [Earlier, debugging took most of my time; now I use AI in the debugging process to save my time. Here is the step-by-step process:](https://dev.to/jaideepparashar/earlier-debugging-took-most-of-my-time-now-i-use-ai-in-the-debugging-process-to-save-my-time-1e8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
