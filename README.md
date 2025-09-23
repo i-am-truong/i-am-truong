@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ted talks that everyone should hear - part 1](https://dev.to/oryaacov/ted-talks-that-everyone-should-hear-part-1-424o)
 - [Building Self-Correcting LLM Systems: The Evaluator-Optimizer Pattern](https://dev.to/clayroach/building-self-correcting-llm-systems-the-evaluator-optimizer-pattern-169p)
 - [[Discussion] Cognitive Architectures in KN-LAB Frameworks — Toward Adaptive, Context-Aware Intelligence](https://dev.to/preshen_govender_0556e576/discussion-cognitive-architectures-in-kn-lab-frameworks-toward-adaptive-context-aware-2mac)
 - [🚀 Pods no Kubernetes &lpar;com 2 containers no mesmo Pod&rpar;:](https://dev.to/deividferraz/pods-no-kubernetes-com-2-containers-no-mesmo-pod-1p0p)
 - [IGN: Painkiller - Official Rogue Angel &lpar;Roguelike Mode&rpar; Trailer](https://dev.to/gg_news/ign-painkiller-official-rogue-angel-roguelike-mode-trailer-4nki)
-- [IGN: Silent Hill f: 8 Tips for Early Survival](https://dev.to/gg_news/ign-silent-hill-f-8-tips-for-early-survival-1cll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
