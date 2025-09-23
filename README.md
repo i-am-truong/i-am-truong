@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Refactor Smart Today, Move Faster Tomorrow — Part 5: After the Refactor: How to Know It Worked](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-5-after-the-refactor-how-to-know-it-worked-47km)
+- [Rye Tables vs Python/Pandas: A Different Way to Wrangle Data](https://dev.to/refaktor/rye-tables-vs-pythonpandas-a-different-way-to-wrangle-data-4c15)
+- [I went silent for a month to build a WordPress killer. Here&#39;s why.](https://dev.to/nextblockcms/i-went-silent-for-a-month-to-build-a-wordpress-killer-heres-why-3j9d)
+- [Building an AI-Powered Anime Discovery Platform with 15+ Free KendoReact Components](https://dev.to/charmpic/building-an-ai-powered-anime-discovery-platform-with-15-free-kendoreact-components-486)
 - [Oasis CLI Is Now Available on Homebrew](https://dev.to/caerlower/oasis-cli-is-now-available-on-homebrew-ecj)
-- [Autenticação Segura com Microsoft Entra ID para desenvolvedores Typescript](https://dev.to/sertaoseracloud/autenticacao-segura-com-microsoft-entra-id-para-desenvolvedores-typescript-2c1b)
-- [Introducing My Hiking Trip Planner: Motivation and Overview](https://dev.to/kyleski/introducing-my-hiking-trip-planner-motivation-and-overview-2k5)
-- [The Art of Simple Python Variables](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-variables-3g2l)
-- [zkAGI’s PawPad: Building Private, Multichain Trading Agents with the Oasis Stack](https://dev.to/caerlower/zkagis-pawpad-building-private-multichain-trading-agents-with-the-oasis-stack-15cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
