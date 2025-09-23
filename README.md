@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Rosali - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-full-performance-live-on-kexp-3hgi)
-- [Golf.com: The Unsolved Mystery Behind Bethpage Black&#39;s Famous Warning Sign](https://dev.to/youtube_golf/golfcom-the-unsolved-mystery-behind-bethpage-blacks-famous-warning-sign-1njl)
-- [IGN: Fortnite x Daft Punk Experience - Official Trailer](https://dev.to/gg_news/ign-fortnite-x-daft-punk-experience-official-trailer-4g04)
-- [IGN: Stalker 2: Heart of Chornobyl - Official &#39;Night of the Hunter Update&#39; Update 1.6 Trailer](https://dev.to/gg_news/ign-stalker-2-heart-of-chornobyl-official-night-of-the-hunter-update-update-16-trailer-1idm)
-- [Day 6 of Complete JavaScript in 17 days | Visual Series📚✨](https://dev.to/azaan_suhail/day-6-of-complete-javascript-in-17-days-visual-series-4o0m)
+- [What is a Content Management System and What CMS Does ClutchHosting Support?](https://dev.to/alex_adam_be7304e8b6aee79/what-is-a-content-management-system-and-what-cms-does-clutchhosting-support-5dk9)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-47ik)
+- [That Cryptic sbt Error? My JDK Was Too New](https://dev.to/andrewchaa/that-cryptic-sbt-error-my-jdk-was-too-new-ap1)
+- [Day-4: Linux File Permissions | 100 Days of DevOps](https://dev.to/olymahmud/day-4-linux-file-permissions-100-days-of-devops-209j)
+- [The missing link](https://dev.to/naugtur/the-missing-link-3ejk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
