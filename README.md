@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Innovative Data Visualization Techniques for AI and Machine Learning Insights](https://dev.to/donazacharias/innovative-data-visualization-techniques-for-ai-and-machine-learning-insights-5fbe)
-- [Stunning Animated Drawer Navigation in Expo React Native](https://dev.to/haider_mukhtar/stunning-animated-drawer-navigation-in-expo-react-native-1013)
-- [Strategy Pattern in Clprolf: Clear Roles for Swappable Behavior](https://dev.to/charles_koffler_bcabc582b/strategy-pattern-in-clprolf-clear-roles-for-swappable-behavior-30ll)
-- [MapTiler Server on Raspberry Pi - A Geeks&#39; Guide to Self-Hosted Maps](https://dev.to/bolollo/maptiler-server-on-raspberry-pi-a-geeks-guide-to-self-hosted-maps-19d4)
-- [HTB CPTS – Getting Started Reference Guide](https://dev.to/madhiashabih/htb-cpts-getting-started-reference-guide-hi7)
+- [How I prepared for Frontend interviews in 2 weeks &lpar;And how you can too&rpar;](https://dev.to/swastikyadav/how-i-prepared-for-frontend-interviews-in-2-weeks-and-how-you-can-too-jmd)
+- [Making this Hugo-built blog multilingual](https://dev.to/masutaka/making-this-hugo-built-blog-multilingual-l9b)
+- [8 Useful Developer Tools That You Will Be Amazed to Discover 🧙‍♂️🤩](https://dev.to/madza/8-useful-developer-tools-that-you-will-be-amazed-to-discover-4cm9)
+- [Handling Distributed Transactions with Orchestrator Pattern &lpar;Withdrawal &amp; Deposit Example&rpar;](https://dev.to/mahmoudabbasi/handling-distributed-transactions-with-orchestrator-pattern-withdrawal-deposit-example-dap)
+- [KEXP: Rosali - Change Is In The Form &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-change-is-in-the-form-live-on-kexp-2a9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
