@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Contributing to Open Source Is a Great Skill to Have](https://dev.to/lovit_js/why-contributing-to-open-source-is-a-great-skill-to-have-1c49)
+- [RealEngine, a handmade engine!](https://dev.to/ags_software_fe7d0051fb4b/realengine-a-handmade-engine-3lf8)
+- [Do Crypto APIs Provide On-Chain Data? Complete Guide to Blockchain APIs and Transaction Tracking in 2025](https://dev.to/saira_zeeshan_35fc05971fd/do-crypto-apis-provide-on-chain-data-complete-guide-to-blockchain-apis-and-transaction-tracking-in-2a82)
+- [Demystifying Coding Agent: Prompts That Always Work ✨](https://dev.to/anchildress1/demystifying-coding-agent-prompts-that-always-work-2on7)
 - [Monster Select now supports paginated dropdowns – fully reactive, fully open source](https://dev.to/schukai/monster-select-now-supports-paginated-dropdowns-fully-reactive-fully-open-source-330)
-- [Mastering Azure VNet Peering: How I Connected Isolated Cloud Networks Like a Pro](https://dev.to/peter_samuel_052b9056e236/mastering-azure-vnet-peering-how-i-connected-isolated-cloud-networks-like-a-pro-49pl)
-- [JavaScript Countdown Gotcha: Why Date.now&lpar;&rpar; Depends on the User’s Clock](https://dev.to/brinobruno/javascript-countdown-gotcha-why-datenow-depends-on-the-users-clock-2gl9)
-- [Debugging Device Issues in the Field: Lessons from Zebra Deployments](https://dev.to/gauri_bhosale_f7398ef7373/debugging-device-issues-in-the-field-lessons-from-zebra-deployments-201i)
-- [How to use crypto library in Nodejs](https://dev.to/devangular/how-to-use-crypto-library-in-nodejs-327p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
