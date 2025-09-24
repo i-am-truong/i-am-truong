@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Contributing to Open Source Is a Great Skill to Have](https://dev.to/lovit_js/why-contributing-to-open-source-is-a-great-skill-to-have-1c49)
-- [RealEngine, a handmade engine!](https://dev.to/ags_software_fe7d0051fb4b/realengine-a-handmade-engine-3lf8)
-- [Do Crypto APIs Provide On-Chain Data? Complete Guide to Blockchain APIs and Transaction Tracking in 2025](https://dev.to/saira_zeeshan_35fc05971fd/do-crypto-apis-provide-on-chain-data-complete-guide-to-blockchain-apis-and-transaction-tracking-in-2a82)
-- [Demystifying Coding Agent: Prompts That Always Work ✨](https://dev.to/anchildress1/demystifying-coding-agent-prompts-that-always-work-2on7)
-- [Monster Select now supports paginated dropdowns – fully reactive, fully open source](https://dev.to/schukai/monster-select-now-supports-paginated-dropdowns-fully-reactive-fully-open-source-330)
+- [From Enchantment to Disenchantment - How companies are dealing with the new costs of AI](https://dev.to/douglas_mor/from-enchantment-to-disenchantment-how-companies-are-dealing-with-the-new-costs-of-ai-4pmc)
+- [Assignment by Value vs Assignment by Reference in JavaScript](https://dev.to/rowleks/assignment-by-value-vs-assignment-by-reference-in-javascript-d64)
+- [Not Just Their Story, It’s Ours](https://dev.to/albert_hadi_b49c135537451/not-just-their-story-its-ours-142k)
+- [🚀 Contribute to MDX Editor — An Open-Source, AI-Powered Markdown + JSX Experience](https://dev.to/rafatalam/contribute-to-mdx-editor-an-open-source-ai-powered-markdown-jsx-experience-47n7)
+- [The Evolution of HTML: From Version 1.0 to 5.0](https://dev.to/arun_kumar_98/the-evolution-of-html-from-version-10-to-50-hg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
