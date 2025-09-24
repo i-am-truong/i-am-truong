@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Master Role-Based Access Control with Laravel Permission Manager](https://dev.to/hosseinhezami/master-role-based-access-control-with-laravel-permission-manager-4nc3)
 - [Let’s Talk About Our Struggles in Learning and Building Confidence😉](https://dev.to/yaldakhoshpey/lets-talk-about-our-struggles-in-learning-and-building-confidence-2i4k)
+- [I Built an AI That Reads My Blinks and Speaks Morse Code 👁️ Here&#39;s the Code](https://dev.to/piko/i-built-an-ai-that-reads-my-blinks-and-speaks-morse-code-heres-the-code-18df)
+- [HTML and CSS](https://dev.to/kiran_raj_2004/html-and-css-3bl2)
 - [Outsourcing Without the Stigma, AI Flooding, and Roblox Rising](https://dev.to/allcorrect/outsourcing-without-the-stigma-ai-flooding-and-roblox-rising-47ag)
-- [The Complete Guide to API Versioning for Developers](https://dev.to/muhabbat_dev/the-complete-guide-to-api-versioning-for-developers-9l1)
-- [Oracle vs. Google: The API Battle That Shook the Coding World](https://dev.to/pranta/oracle-vs-google-the-api-battle-that-shook-the-coding-world-27l0)
-- [PROCEDIMIENTOS DE TRABAJO SEGURO](https://dev.to/giancarlo_edumayhuirezu/procedimientos-de-trabajo-seguro-661)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
