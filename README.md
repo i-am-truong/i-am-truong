@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: The Favors - Lake George | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-lake-george-a-colors-show-1glb)
-- [Workspace on Demand in i3wm](https://dev.to/waterkip/workspace-on-demand-in-i3wm-3nki)
-- [Bryan Bros Golf: We Played With the #1 Junior Golfer in the Country](https://dev.to/youtube_golf/bryan-bros-golf-we-played-with-the-1-junior-golfer-in-the-country-2k6k)
-- [Peter Finch Golf: I’ve wanted to play here all my life...](https://dev.to/youtube_golf/peter-finch-golf-ive-wanted-to-play-here-all-my-life-2fbl)
-- [GameSpot: Resident Evil Requiem Gameplay Overview | Capcom Online Program TGS 2025](https://dev.to/gg_news/gamespot-resident-evil-requiem-gameplay-overview-capcom-online-program-tgs-2025-33ii)
+- [🚗 GrandMap: The GTA-Inspired Map Project Nobody Asked For &lpar;But I Built Anyway&rpar;](https://dev.to/swagking/grandmap-the-gta-inspired-map-project-nobody-asked-for-but-i-built-anyway-3p8k)
+- [ANOVA in R: A Complete Tutorial](https://dev.to/dipti_moryani_08e62702314/anova-in-r-a-complete-tutorial-4d6a)
+- [How Did We Get Here? Tracing AI&#39;s Journey](https://dev.to/mjubair/how-did-we-get-here-tracing-ais-journey-4jf1)
+- [Polyglot Dockerization: Java + Python + Vue in Local and Production](https://dev.to/mrmajed7/polyglot-dockerization-java-python-vue-in-local-and-production-5c22)
+- [The Night I Discovered I&#39;d Built Something Revolutionary &lpar;And Didn&#39;t Know It&rpar;](https://dev.to/homeless-coder/the-night-i-discovered-id-built-something-revolutionary-and-didnt-know-it-2oik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
