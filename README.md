@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nest.js Blog Step by Step: Add User System](https://dev.to/leapcell/nestjs-blog-step-by-step-add-user-system-5a16)
+- [Shared Hosting vs VPS Hosting: A Beginner-Friendly Breakdown](https://dev.to/justin-green/shared-hosting-vs-vps-hosting-a-beginner-friendly-breakdown-4m69)
+- [Business Central Demand Forecasting: Smarter Planning Without the Guesswork](https://dev.to/insight_works/business-central-demand-forecasting-smarter-planning-without-the-guesswork-48bm)
+- [Error Boundaries in React with TypeScript: Going Beyond the Basics](https://dev.to/harpreet_singh_c4ea4af253/error-boundaries-in-react-with-typescript-going-beyond-the-basics-4ffn)
 - [Building a Scalable AI-Powered Fintech Platform: Architecture with Java Spring Boot and Amazon Bedrock](https://dev.to/shiv-centcapital/building-a-scalable-ai-powered-fintech-platform-architecture-with-java-spring-boot-and-amazon-25kl)
-- [Built a Discord Bot to transform your community into business value and promote your socials](https://dev.to/romo_ivaldy_49821ae91768/built-a-discord-bot-to-transform-your-community-into-business-value-and-promote-your-socials-2p1p)
-- [**Unlocking the World of Artificial Intelligence: Agents and](https://dev.to/drcarlosruizviquez/unlocking-the-world-of-artificial-intelligence-agents-and-5hl4)
-- [Cómo los perfiles JSON me ayudaron a que la IA me entendiera](https://dev.to/iblancasa/como-los-perfiles-json-me-ayudaron-a-que-la-ia-me-entendiera-12)
-- [Why I Don’t Trust Default Firewall Rules on Linux Servers | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-dont-trust-default-firewall-rules-on-linux-servers-by-faruk-ahmed-sep-2025-4f4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
