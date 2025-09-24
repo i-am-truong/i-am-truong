@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Full-Stack Observability Improves Kubernetes Reliability and Uptime](https://dev.to/tushar_panthari_cda8874b1/how-full-stack-observability-improves-kubernetes-reliability-and-uptime-311j)
-- [Introduction to Using Supabase with Node.js: Build a Simple Todo App](https://dev.to/humphery7/introduction-to-using-supabase-with-nodejs-build-a-simple-todo-app-2210)
-- [The Hidden Cost of Inactive Websites: Why 80% of Sites Are Dead Weight &lpar;And How to Avoid It&rpar;](https://dev.to/eva_clari_289d85ecc68da48/the-hidden-cost-of-inactive-websites-why-80-of-sites-are-dead-weight-and-how-to-avoid-it-19aa)
-- [Implementing Incremental Static Regeneration &lpar;ISR&rpar; in Nuxt 4: The Complete Guide](https://dev.to/blamsa0mine/implementing-incremental-static-regeneration-isr-in-nuxt-4-the-complete-guide-2j7h)
-- [🇫🇷 Commencer en tant que Data Scientist. Démarrer une carrière fructueuse](https://dev.to/pierre/commencer-en-tant-que-data-scientist-demarrer-une-carriere-fructueuse-2d04)
+- [What is data modernization and why is it critical for enterprises?](https://dev.to/naresh_gupta_xoriant/what-is-data-modernization-and-why-is-it-critical-for-enterprises-3bjf)
+- [How to Migrate ECR Docker Images Between Repositories &lpar;with Automation&rpar;](https://dev.to/aws-builders/how-to-migrate-ecr-docker-images-between-repositories-with-automation-441h)
+- [How I Made Windows 11 Look Like a Completely Different OS &lpar;And You Can Too&rpar;](https://dev.to/shiva_shanker_k/how-i-made-windows-11-look-like-a-completely-different-os-and-you-can-too-3gm6)
+- [JavaScript Advanced Series &lpar;Part 6&rpar;: Object-Oriented JS](https://dev.to/jackm_345442a09fb53b/javascript-advanced-series-part-6-object-oriented-js-16mb)
+- [Bessere On-Ramps bauen: Warum entwicklerfreundliche Krypto-Tools 2025 entscheidend sind](https://dev.to/piwa_lin_8b3155c3dd85f0f9/building-better-on-ramps-why-developer-friendly-crypto-tools-matter-in-2025-2cdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
