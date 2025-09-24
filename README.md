@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is data modernization and why is it critical for enterprises?](https://dev.to/naresh_gupta_xoriant/what-is-data-modernization-and-why-is-it-critical-for-enterprises-3bjf)
-- [How to Migrate ECR Docker Images Between Repositories &lpar;with Automation&rpar;](https://dev.to/aws-builders/how-to-migrate-ecr-docker-images-between-repositories-with-automation-441h)
-- [How I Made Windows 11 Look Like a Completely Different OS &lpar;And You Can Too&rpar;](https://dev.to/shiva_shanker_k/how-i-made-windows-11-look-like-a-completely-different-os-and-you-can-too-3gm6)
-- [JavaScript Advanced Series &lpar;Part 6&rpar;: Object-Oriented JS](https://dev.to/jackm_345442a09fb53b/javascript-advanced-series-part-6-object-oriented-js-16mb)
-- [Bessere On-Ramps bauen: Warum entwicklerfreundliche Krypto-Tools 2025 entscheidend sind](https://dev.to/piwa_lin_8b3155c3dd85f0f9/building-better-on-ramps-why-developer-friendly-crypto-tools-matter-in-2025-2cdc)
+- [asdf ➡ mise](https://dev.to/piersroberts/asdf-mise-1nf0)
+- [SVAR Svelte Components Now with TypeScript Support](https://dev.to/olga_tash/svar-svelte-components-now-with-typescript-support-33c2)
+- [Terraform as a One-Shot Init Container in Docker Compose and CI: Ending &quot;It Worked On My Machine&quot;](https://dev.to/u11d/terraform-as-a-one-shot-init-container-in-docker-compose-and-ci-ending-it-worked-on-my-machine-2c49)
+- [Stop Using Spreadsheets to Run a DAO: My Personal Journey Into DAO Ops Chaos](https://dev.to/aishwarya_wale_5d76288442/stop-using-spreadsheets-to-run-a-dao-my-personal-journey-into-dao-ops-chaos-43na)
+- [🚀 Turn Any Photo Into a Cartoon with ToonlyAI](https://dev.to/web5lab_938e9096be8dc3e78/turn-any-photo-into-a-cartoon-with-toonlyai-3ned)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
