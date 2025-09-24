@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Derived Identity and System Personalization: A Vision Toward the Physical-Digital Link Through Robust Cryptography](https://dev.to/antonio_socorro_95e3ff086/derived-identity-and-system-personalization-a-vision-toward-the-physical-digital-link-through-54la)
-- [Experience in Working with Parallel Branches](https://dev.to/aubreyddd/experience-in-working-with-parallel-branches-29e2)
-- [Identidad Derivada y Personalización de Sistemas: Una visión hacia el enlace físico-digital con criptografía robusta](https://dev.to/antonio_socorro_95e3ff086/identidad-derivada-y-personalizacion-de-sistemas-una-vision-hacia-el-enlace-fisico-digital-con-5hj8)
-- [Introduction to Recession](https://dev.to/madgan95/introduction-to-recession-225l)
-- [⚓ Day 22 of My DevOps Journey: Strengthening Networking Basics 🌐](https://dev.to/dankbhardwaj/day-22-of-my-devops-journey-strengthening-networking-basics-5f8)
+- [What Just Happened to RubyGems?](https://dev.to/cseeman/what-just-happened-to-rubygems-31n9)
+- [Just finished Head First Python, super beginner-friendly and hands-on. Loved the visual style and projects. Moves fast sometimes, but perfect if you’re starting!](https://dev.to/roshan_sharma_7deae5e0742/just-finished-head-first-python-super-beginner-friendly-and-hands-on-loved-the-visual-style-and-5d7o)
+- [Vision AI and Human-in-the-Loop Distillation: Building Trustworthy and Scalable Systems](https://dev.to/rithindattag/vision-ai-and-human-in-the-loop-distillation-building-trustworthy-and-scalable-systems-4m30)
+- [GameSpot: Yakuza Kiwami 3 Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-trailer-rgg-summit-2025-c76)
+- [Tool of the week: Free WYSIWYG Editor with QuillJS](https://dev.to/timthewebmaster/tool-of-the-week-free-wysiwyg-editor-with-quilljs-5hf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
