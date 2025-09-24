@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qualys vs ZeroThreat: Strengths, Limitations, and Use Cases](https://dev.to/sambishop/qualys-vs-zerothreat-strengths-limitations-and-use-cases-2i6h)
+- [Untitled](https://dev.to/cristian_ortiz_72a5908a03/untitled-2nb9)
+- [10 Best Platforms to Learn Cybersecurity in 2026](https://dev.to/stack_overflowed/10-best-platforms-to-learn-cybersecurity-in-2026-d9n)
+- [Adaptive Intelligence: From Process Automation to Organizational Agility](https://dev.to/jerom_jeeva_8afd8c260ebbc/adaptive-intelligence-from-process-automation-to-organizational-agility-4eb6)
 - [Flipkart - Big Billion Days - TechStack](https://dev.to/zeeshanali0704/flipkart-big-billion-days-techblog-1b4j)
-- [What is gotoHuman? A Practical Walkthrough with Example Implementation](https://dev.to/rithindattag/what-is-gotohuman-a-practical-walkthrough-with-example-implementation-100d)
-- [The 90-20-5 Focus Method: How Senior Devs Handle Deep Work Sessions](https://dev.to/teamcamp/the-90-20-5-focus-method-how-senior-devs-handle-deep-work-sessions-45df)
-- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐕𝐚𝐥𝐮𝐞-𝐎𝐛𝐣𝐞𝐜𝐭 𝐚𝐧𝐝 𝐇𝐨𝐰 𝐭𝐨 𝐬𝐭𝐨𝐫𝐞 𝐢𝐭 𝐢𝐧 𝐄𝐅 𝐂𝐨𝐫𝐞?](https://dev.to/shirin_monzavi_f3d63ff99d/--2a4m)
-- [A Practical Guide to Data Standards for Seamless Collaboration and Integrity](https://dev.to/agustinusnathaniel/a-practical-guide-to-data-standards-for-seamless-collaboration-and-integrity-138k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
