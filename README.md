@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Debug Container](https://dev.to/s_raj07/kubernetes-debug-container-5cdg)
-- [Build Once, Deploy Everywhere: Deploying a .NET 8 API with Docker, AKS &amp; GitHub Actions](https://dev.to/ibrahimbioabu/build-once-deploy-everywhere-deploying-a-net-8-api-with-docker-aks-github-actions-4h4o)
-- [🚗 GrandMap: The GTA-Inspired Map Project Nobody Asked For &lpar;But I Built Anyway&rpar;](https://dev.to/swagking/grandmap-the-gta-inspired-map-project-nobody-asked-for-but-i-built-anyway-3p8k)
-- [Check out this guide on Exploratory Factor Analysis !!](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-guide-on-exploratory-factor-analysis--36h0)
-- [Verified TransferWise Account](https://dev.to/cms_gma_c489e7ff39d1a4cb0/verified-transferwise-account-14le)
+- [My First Database – LPF &lpar;Liga Panameña de Fútbol&rpar;⚽](https://dev.to/thecoder507/my-first-database-lpf-liga-panamena-de-futbol-113b)
+- [Alternatives to Bank Loans for Students and Youth: Exploring Smarter Financing Options](https://dev.to/gov01/alternatives-to-bank-loans-for-students-and-youth-exploring-smarter-financing-options-48m3)
+- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-366c)
+- [Day 01 Theory behind java](https://dev.to/rohit_juyal_c93b63c3dcf9c/day-01-theory-behind-java-59id)
+- [A new lesson from my recent interview experience](https://dev.to/manikandan_a8f99e0153ef77/a-new-lesson-from-my-recent-interview-experience-1dhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
