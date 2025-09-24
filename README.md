@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Start at the End: Logic Programming for the Imperatively Damaged](https://dev.to/davidcanhelp/start-at-the-end-logic-programming-for-the-imperatively-damaged-2fp2)
-- [I built an initial data syncing system for Django projects](https://dev.to/ridcorix/i-built-an-initial-data-syncing-system-for-django-projects-l36)
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-full-performance-live-on-kexp-5anp)
-- [Golf.com: The Mystery Of Bethpage Black’s Unique Warning Sign](https://dev.to/youtube_golf/golfcom-the-mystery-of-bethpage-blacks-unique-warning-sign-p4f)
-- [Rechart stroke line issue at joining point](https://dev.to/moumita_hazra_29041215fd1/rechart-stroke-line-issue-at-joining-point-4aj0)
+- [Why I chose Lexical over Tiptap](https://dev.to/codeideal/why-i-chose-lexical-over-tiptap-38nd)
+- [Why AI Platforms Like ChatGPT, Gemini, Claude, and Others Are Unreliable](https://dev.to/raheelshan/why-ai-platforms-like-chatgpt-gemini-claude-and-others-are-unreliable-4po1)
+- [🚀 From Algorithms to Neural Networks: ML vs DL Explained](https://dev.to/vidipghosh/from-algorithms-to-neural-networks-ml-vs-dl-explained-4nhg)
+- [Develop React Native Apps Without Emulator or Simulator – Just Mirror!](https://dev.to/raheelshan/develop-react-native-apps-without-emulator-or-simulator-just-mirror-2g5)
+- [🔥 How I Replaced My Entire Backend With Supabase in 3 Hours — Real Talk, Real Code](https://dev.to/ekwoster/how-i-replaced-my-entire-backend-with-supabase-in-3-hours-real-talk-real-code-9bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
