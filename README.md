@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/robbin_murithi_f75005db58/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1796)
+- [SQL GROUP BY Explained with Examples](https://dev.to/roxana_haidiner/sql-group-by-explained-with-examples-2l21)
 - [Demystifying Async/Await in .NET](https://dev.to/marian_s/demystifying-asyncawait-in-net-5ni)
 - [Optimizing Home Automation: How Smart Thermostats and Furnace Integration Improve Winter Comfort](https://dev.to/dev_tech/optimizing-home-automation-how-smart-thermostats-and-furnace-integration-improve-winter-comfort-37en)
 - [The Complete Guide to Creating User-Friendly Mobile Navigation in 2025](https://dev.to/secuodsoft/the-complete-guide-to-creating-user-friendly-mobile-navigation-in-2025-4l8b)
-- [What If Your Next Prescription Was Designed by Artificial Intelligence?](https://dev.to/skyappz_software/what-if-your-next-prescription-was-designed-by-artificial-intelligence-5g1o)
-- [Easy SEO for lazy programmers](https://dev.to/davorg/easy-seo-for-lazy-programmers-2lb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
