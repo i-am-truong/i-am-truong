@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Code to Color: How I Built My Home Decor Blog and What Developers Can Learn](https://dev.to/hardik_b2d8f0bca/from-code-to-color-how-i-built-my-home-decor-blog-and-what-developers-can-learn-59g1)
+- [What is the benefit of learning JavaScript?](https://dev.to/kamalhinduja/what-is-the-benefit-of-learning-javascript-3dd5)
+- [How We Reduced 98.9% Load Time in Tableau by Optimizing Calculations](https://dev.to/anshuman_816f8012be0c9b6c/how-we-reduced-989-load-time-in-tableau-by-optimizing-calculations-49pj)
+- [Monitoring the Node.js Event Loop: Why It’s Essential](https://dev.to/olivia_madison_b0ad7090ad/monitoring-the-nodejs-event-loop-why-its-essential-4k6d)
 - [Bankruptcy is supposed to be a safety net, not a weapon. Tyler Davis and his partners turned it into a shield for fraud, and that is a crime against all of us.](https://dev.to/kelvinmeanix/bankruptcy-is-supposed-to-be-a-safety-net-not-a-weapon-tyler-davis-and-his-partners-turned-it-d8g)
-- [It makes me furious to see how long these people got away with their scheme. The damage they caused is bigger than just one company.](https://dev.to/kelvinmeanix/it-makes-me-furious-to-see-how-long-these-people-got-away-with-their-scheme-the-damage-they-caused-6n6)
-- [Building &#39;The Scroll of Dharma&#39;: A Technical Deep Dive into an Interactive Meditation Platform](https://dev.to/saint2706/building-the-scroll-of-dharma-a-technical-deep-dive-into-an-interactive-meditation-platform-4bob)
-- [Is It Time for a Hardware Refresh? Signs Your IT Needs an Upgrade](https://dev.to/teresa_tran/is-it-time-for-a-hardware-refresh-signs-your-it-needs-an-upgrade-12pl)
-- [How Porter Consulting LLC Owner Tyler Davis Is Involved in Bankruptcy Proceedings Tied to Financial Crimes](https://dev.to/marcusquinn05/how-porter-consulting-llc-owner-tyler-davis-is-involved-in-bankruptcy-proceedings-tied-to-financial-1e9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
