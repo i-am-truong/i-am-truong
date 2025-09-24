@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Clear Logs of a Docker Container?](https://dev.to/ankit01oss/how-to-clear-logs-of-a-docker-container-2pa3)
-- [Rollout of granular OAuth consent for Editor add-ons](https://dev.to/googleworkspace/rollout-of-granular-oauth-consent-for-editor-add-ons-3knl)
-- [15 Essential Work From Home Tips to Stay Focused and Productive](https://dev.to/teamcamp/15-essential-work-from-home-tips-to-stay-focused-and-productive-2f31)
-- [Building a Flood Monitoring Dashboard with Django &amp; React](https://dev.to/gustipermanap/building-a-flood-monitoring-dashboard-with-django-react-2m4i)
-- [The Role of Graph Structure in LLM-Powered Applications](https://dev.to/grzegorz_dubiel_db99203fe/the-role-of-graph-structure-in-llm-powered-applications-2479)
+- [Minimal Python scanner](https://dev.to/vb_nair/minimal-python-scanner-1nhf)
+- [AI Coding: The Future of Software Development or Just Hype?](https://dev.to/sanjaynaker/ai-coding-the-future-of-software-development-or-just-hype-1mci)
+- [The FasTag works on which Technology](https://dev.to/syeda_khatija_ce3d1f3f681/the-fastag-works-on-which-technology-4ifg)
+- [Optimizing Images in Nuxt 3: A Complete Guide to Better Performance](https://dev.to/blamsa0mine/optimizing-images-in-nuxt-3-a-complete-guide-to-better-performance-4h1i)
+- [Offshore IoT Team: Build Smarter, Faster, Cheaper](https://dev.to/nirav_panchal_e531c758f1d/offshore-iot-team-build-smarter-faster-cheaper-5aak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
