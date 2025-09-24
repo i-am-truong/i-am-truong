@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [**Boosting Cybersecurity Effectiveness with AI: The Power of](https://dev.to/drcarlosruizviquez/boosting-cybersecurity-effectiveness-with-ai-the-power-of-43jo)
+- [Introducing fastapi-bgtasks-dashboard : One-liner integration on your FastAPI application](https://dev.to/harshil_jani/introducing-fastapi-bgtasks-dashboard-one-liner-integration-on-your-fastapi-application-343i)
+- [Coding Challenge Practice - Question 15](https://dev.to/tomivan/coding-challenge-practice-question-15-3ehi)
+- [Hey Dev Community! Ömer Here 👋](https://dev.to/sehawq/hey-dev-community-omer-here-4k05)
 - [10 Web Design Hacks UX Pros Don’t Want You to Know](https://dev.to/0x7b_official/10-web-design-hacks-ux-pros-dont-want-you-to-know-559)
-- [The Secret Formula to Product Development in 2026](https://dev.to/coco_junk_e2afc9395cfe1f0/the-secret-formula-to-product-development-in-2026-3mil)
-- [This site refuses to leave beta. It’s been stuck there since 2014](https://dev.to/miztizm/this-site-refuses-to-leave-beta-its-been-stuck-there-since-2014-55bb)
-- [Hobius: The Anti-Social Network &lpar;Stuck in Beta Since 2014&rpar;](https://dev.to/miztizm/hobius-the-anti-social-network-still-in-beta-since-2014-43me)
-- [Why React Alone Won’t Save Your UI/UX](https://dev.to/snappy_tuts/why-react-alone-wont-save-your-uiux-23hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
