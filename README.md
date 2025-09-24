@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I chose Lexical over Tiptap](https://dev.to/codeideal/why-i-chose-lexical-over-tiptap-38nd)
-- [Why AI Platforms Like ChatGPT, Gemini, Claude, and Others Are Unreliable](https://dev.to/raheelshan/why-ai-platforms-like-chatgpt-gemini-claude-and-others-are-unreliable-4po1)
-- [🚀 From Algorithms to Neural Networks: ML vs DL Explained](https://dev.to/vidipghosh/from-algorithms-to-neural-networks-ml-vs-dl-explained-4nhg)
-- [Develop React Native Apps Without Emulator or Simulator – Just Mirror!](https://dev.to/raheelshan/develop-react-native-apps-without-emulator-or-simulator-just-mirror-2g5)
-- [🔥 How I Replaced My Entire Backend With Supabase in 3 Hours — Real Talk, Real Code](https://dev.to/ekwoster/how-i-replaced-my-entire-backend-with-supabase-in-3-hours-real-talk-real-code-9bi)
+- [O Código Aberto e a Arquitetura da Ideia: Uma Análise dos Movimentos Open Source e Software Livre](https://dev.to/mrpunkdasilva/o-codigo-aberto-e-a-arquitetura-da-ideia-uma-analise-dos-movimentos-open-source-e-software-livre-4hep)
+- [40 years in tech… and I feel like I’m just getting started. 😉](https://dev.to/aaronksaunders/40-years-in-tech-and-i-feel-like-im-just-getting-started-349n)
+- [Bug Deduplication with AI &lpar;Node.js + OpenRouter&rpar;](https://dev.to/modalqa/bug-deduplication-with-ai-nodejs-openrouter-597o)
+- [¡AWS Community Day Bolivia 2025: Una experiencia que me llevo en el corazón! 🇧🇴](https://dev.to/juan_jose_miranda/aws-community-day-bolivia-2025-una-experiencia-que-me-llevo-en-el-corazon-1ngp)
+- [Built a small tool to merge Google Docs](https://dev.to/coltnovak/built-a-small-tool-to-merge-google-docs-1g69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
