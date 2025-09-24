@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Master Role-Based Access Control with Laravel Permission Manager](https://dev.to/hosseinhezami/master-role-based-access-control-with-laravel-permission-manager-4nc3)
-- [Let’s Talk About Our Struggles in Learning and Building Confidence😉](https://dev.to/yaldakhoshpey/lets-talk-about-our-struggles-in-learning-and-building-confidence-2i4k)
-- [I Built an AI That Reads My Blinks and Speaks Morse Code 👁️ Here&#39;s the Code](https://dev.to/piko/i-built-an-ai-that-reads-my-blinks-and-speaks-morse-code-heres-the-code-18df)
-- [HTML and CSS](https://dev.to/kiran_raj_2004/html-and-css-3bl2)
-- [Outsourcing Without the Stigma, AI Flooding, and Roblox Rising](https://dev.to/allcorrect/outsourcing-without-the-stigma-ai-flooding-and-roblox-rising-47ag)
+- [🏆 Mastering JavaScript Arrays — From Basics to Modern ES6+](https://dev.to/usama_dev/mastering-javascript-arrays-from-basics-to-modern-es6-218a)
+- [Launch in Weeks, Not Months: How Boilerplates Change the Game](https://dev.to/jigar_online/launch-in-weeks-not-months-how-boilerplates-change-the-game-37l6)
+- [Top 5 Ways to Pick the Best Rental Software for Your Business: 2025 Expert Guide](https://dev.to/rental_software/top-5-ways-to-pick-the-best-rental-software-for-your-business-2025-expert-guide-44f9)
+- [IA para educadores do ensino médio: como transformar a sala de aula com tecnologia](https://dev.to/no_codestartup/ia-para-educadores-do-ensino-medio-como-transformar-a-sala-de-aula-com-tecnologia-488n)
+- [Проект](https://dev.to/__b376d283192/proiekt-4one)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
