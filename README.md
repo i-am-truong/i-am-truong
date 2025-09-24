@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating MongoDB into Laravel with Filament](https://dev.to/adrhem/integrating-mongodb-into-laravel-with-filament-2593)
-- [Leading a QA Team: Building QA from Scratch and Balancing Manual &amp; Automated Testing 🚀](https://dev.to/dasha_tsion_31379cfb51dd7/leading-a-qa-team-building-qa-from-scratch-and-balancing-manual-automated-testing-3pl9)
-- [Error Handling and logging policy helper for neverthrow](https://dev.to/caverar/error-handling-and-logging-policy-helper-for-neverthrow-5d2j)
-- [Simple Habit Tracker – From Idea to Scale-Ready &lpar;Frontend + Backend&rpar;](https://dev.to/ariansj/simple-habit-tracker-from-idea-to-scale-ready-frontend-backend-280j)
-- [K-Means Clustering Exposed: What the Textbooks won&#39;t tell you](https://dev.to/algorithmage/k-means-clustering-exposed-what-the-textbooks-leave-out-4k66)
+- [**Unlocking the World of Artificial Intelligence: Agents and](https://dev.to/drcarlosruizviquez/unlocking-the-world-of-artificial-intelligence-agents-and-5hl4)
+- [Cómo los perfiles JSON me ayudaron a que la IA me entendiera](https://dev.to/iblancasa/como-los-perfiles-json-me-ayudaron-a-que-la-ia-me-entendiera-12)
+- [Why I Don’t Trust Default Firewall Rules on Linux Servers | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-dont-trust-default-firewall-rules-on-linux-servers-by-faruk-ahmed-sep-2025-4f4j)
+- [**The Rise of Contextual Fluidity in Prompt Engineering: Rev](https://dev.to/drcarlosruizviquez/the-rise-of-contextual-fluidity-in-prompt-engineering-rev-1k39)
+- [The Linux Log Hackers Hope You Never Check | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/the-linux-log-hackers-hope-you-never-check-by-faruk-ahmed-sep-2025-1l7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
