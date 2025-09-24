@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Tauri CI/CD Pipeline: Lessons from Building VaultNote with SvelteKit](https://dev.to/dev_michael/my-first-tauri-cicd-pipeline-lessons-from-building-vaultnote-with-sveltekit-17mp)
-- [The conspiracy is so blatant it almost looks like a case study in corruption. How did the courts even allow this to go unchecked?](https://dev.to/edwardvinke/the-conspiracy-is-so-blatant-it-almost-looks-like-a-case-study-in-corruption-how-did-the-courts-2pdg)
-- [Risk Assessment Plan in Project Management](https://dev.to/writegenic/risk-assessment-plan-in-project-management-5d62)
-- [How to Design a Sphere Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-sphere-using-3d-cad-software-1ai8)
-- [Proxmox Test Reference Values](https://dev.to/seno21/proxmox-test-reference-values-9m8)
+- [What is the mojar differences between Arduino Uno and ESP32 boards?](https://dev.to/carolineee/what-is-the-mojar-differences-between-arduino-uno-and-esp32-boards-3a4h)
+- [Go Coding with Asparagos: Saving Apples from Pies](https://dev.to/asparagos/go-coding-with-asparagos-saving-apples-from-pies-58p8)
+- [JavaScript Hoisting Explained: A Beginner’s Guide with Examples](https://dev.to/wisdomudo/javascript-hoisting-explained-a-beginners-guide-with-examples-j5f)
+- [Nginx mi Apache mi? Hangi Web Sunucusunu Seçmeli?](https://dev.to/latestsoftware/nginx-mi-apache-mi-hangi-web-sunucusunu-secmeli-540a)
+- [Are Boilerplates Becoming Obsolete in the Age of AI Code Generation?](https://dev.to/jigar_online/are-boilerplates-becoming-obsolete-in-the-age-of-ai-code-generation-3i08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
