@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Curious Coder to Confident AI Engineer: Building Real-World AI Agents](https://dev.to/onlineproxy/from-curious-coder-to-confident-ai-engineer-building-real-world-ai-agents-17l6)
+- [Why Poetry Contests Feel Like Daily Coding Challenges](https://dev.to/writing_contests_bf65ae77/why-poetry-contests-feel-like-daily-coding-challenges-24a)
+- [Setting Up a New Shop in Shopware: Multi-Sales-Channel Decisions Explained](https://dev.to/stefan-freelancer/setting-up-a-new-shop-in-shopware-multi-sales-channel-decisions-explained-13lp)
 - [AI-powered back-to-school assistant](https://dev.to/aniruddhaadak/ai-powered-back-to-school-assistant-23dm)
 - [9 AI primitives that simplify building AI agents](https://dev.to/thisismairaj/9-ai-primitives-that-simplify-building-ai-agents-3m1l)
-- [Infrastructure as Code Vs. Infrastructure as a Service.](https://dev.to/anthony_iroham_9742b31f57/infrastructure-as-code-vs-infrastructure-as-a-service-5c2m)
-- [Terraforming With AI](https://dev.to/zloeber/terraforming-with-ai-g0o)
-- [AI AGENTS AND HOW TO BUILD THEM](https://dev.to/iamisaackn/ai-agents-and-how-to-build-them-20nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
