@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hobius: The Anti-Social Network &lpar;Stuck in Beta Since 2014&rpar;](https://dev.to/miztizm/hobius-the-anti-social-network-still-in-beta-since-2014-43me)
 - [IGN: Hollow Knight: Silksong Boss Fight - Savage Beastfly &lpar;Grand Hunt, Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-savage-beastfly-grand-hunt-far-fields-5138)
 - [IGN: Star Trek: Voyager - Across the Unknown - Official Gameplay Trailer | Indie Fan Fest Fall 2025](https://dev.to/gg_news/ign-star-trek-voyager-across-the-unknown-official-gameplay-trailer-indie-fan-fest-fall-2025-49bi)
 - [IGN: Silly Polly Beast - Official Release Window Trailer | Top Hat Showcase 2025](https://dev.to/gg_news/ign-silly-polly-beast-official-release-window-trailer-top-hat-showcase-2025-348g)
 - [IGN: Cyberpunk 2077: Ultimate Edition - Official ‘New Ways to Play’ Nintendo Switch 2 Trailer](https://dev.to/gg_news/ign-cyberpunk-2077-ultimate-edition-official-new-ways-to-play-nintendo-switch-2-trailer-1319)
-- [IGN: 2XKO - Official Ahri Gameplay Trailer](https://dev.to/gg_news/ign-2xko-official-ahri-gameplay-trailer-1kcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
