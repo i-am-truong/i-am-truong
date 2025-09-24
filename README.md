@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Code to Color: How I Built My Home Decor Blog and What Developers Can Learn](https://dev.to/hardik_b2d8f0bca/from-code-to-color-how-i-built-my-home-decor-blog-and-what-developers-can-learn-59g1)
-- [What is the benefit of learning JavaScript?](https://dev.to/kamalhinduja/what-is-the-benefit-of-learning-javascript-3dd5)
-- [How We Reduced 98.9% Load Time in Tableau by Optimizing Calculations](https://dev.to/anshuman_816f8012be0c9b6c/how-we-reduced-989-load-time-in-tableau-by-optimizing-calculations-49pj)
-- [Monitoring the Node.js Event Loop: Why It’s Essential](https://dev.to/olivia_madison_b0ad7090ad/monitoring-the-nodejs-event-loop-why-its-essential-4k6d)
-- [Bankruptcy is supposed to be a safety net, not a weapon. Tyler Davis and his partners turned it into a shield for fraud, and that is a crime against all of us.](https://dev.to/kelvinmeanix/bankruptcy-is-supposed-to-be-a-safety-net-not-a-weapon-tyler-davis-and-his-partners-turned-it-d8g)
+- [No questions? The cost of a missing &#39;?&#39; in your project](https://dev.to/pvsdev/no-questions-the-cost-of-a-missing-in-your-project-2b2m)
+- [API Gateways &lpar;Kong, Tyk, etc.&rpar;](https://dev.to/godofgeeks/api-gateways-kong-tyk-etc-2473)
+- [React redux](https://dev.to/mitchel_gitau_47346390a98/react-redux-5bjo)
+- [What’s Your Go-To Framework for Web Development?](https://dev.to/daniel_76f4e96b2e971bda84/whats-your-go-to-framework-for-web-development-1l4f)
+- [From Side Project to Profitable Niche: How I Monetized My Home Decor Blog Using Developer Skills](https://dev.to/hardik_b2d8f0bca/from-side-project-to-profitable-niche-how-i-monetized-my-home-decor-blog-using-developer-skills-5d32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
