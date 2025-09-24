@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Authentication Tokens: Your Digital VIP Pass 🎫](https://dev.to/vishdevwork/authentication-tokens-your-digital-vip-pass-3cem)
-- [Lazy vs Eager Evaluation in JavaScript: Performance Trade-offs](https://dev.to/patoliyainfotech/lazy-vs-eager-evaluation-in-javascript-performance-trade-offs-3m7j)
-- [AI Revolution Is Redesigning UX Forever](https://dev.to/dev_resources/ai-revolution-is-redesigning-ux-forever-14e3)
-- [Boosting SaaS Performance: Speed, Uptime, and Growth at Scale](https://dev.to/aditya_c90047909cf234c949/boosting-saas-performance-speed-uptime-and-growth-at-scale-57de)
-- [Setting Up Your First Multi-Agent Test with Maia](https://dev.to/radoslawsz/setting-up-your-first-multi-agent-test-with-maia-4kab)
+- [Monster Select now supports paginated dropdowns – fully reactive, fully open source](https://dev.to/schukai/monster-select-now-supports-paginated-dropdowns-fully-reactive-fully-open-source-330)
+- [Mastering Azure VNet Peering: How I Connected Isolated Cloud Networks Like a Pro](https://dev.to/peter_samuel_052b9056e236/mastering-azure-vnet-peering-how-i-connected-isolated-cloud-networks-like-a-pro-49pl)
+- [JavaScript Countdown Gotcha: Why Date.now&lpar;&rpar; Depends on the User’s Clock](https://dev.to/brinobruno/javascript-countdown-gotcha-why-datenow-depends-on-the-users-clock-2gl9)
+- [Debugging Device Issues in the Field: Lessons from Zebra Deployments](https://dev.to/gauri_bhosale_f7398ef7373/debugging-device-issues-in-the-field-lessons-from-zebra-deployments-201i)
+- [How to use crypto library in Nodejs](https://dev.to/devangular/how-to-use-crypto-library-in-nodejs-327p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
