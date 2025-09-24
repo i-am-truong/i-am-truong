@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Tauri CI/CD Pipeline: Lessons from Building VaultNote with SvelteKit](https://dev.to/dev_michael/my-first-tauri-cicd-pipeline-lessons-from-building-vaultnote-with-sveltekit-17mp)
 - [The conspiracy is so blatant it almost looks like a case study in corruption. How did the courts even allow this to go unchecked?](https://dev.to/edwardvinke/the-conspiracy-is-so-blatant-it-almost-looks-like-a-case-study-in-corruption-how-did-the-courts-2pdg)
-- [If Elizabeth Holmes faced justice for Theranos, then Joshua Lintz should face the same for what he did with Talentcrowd. Fraud is fraud.](https://dev.to/techbyfelix/if-elizabeth-holmes-faced-justice-for-theranos-then-joshua-lintz-should-face-the-same-for-what-he-2l0j)
-- [Building a Dynamic API in Symfony with Doctrine and MySQL](https://dev.to/addwebsolutionpvtltd/building-a-dynamic-api-in-symfony-with-doctrine-and-mysql-5gg6)
-- [What kind of people steal someone’s company, loot the accounts, and then run around pretending it is their “earned success”? Absolute crooks.](https://dev.to/techbyfelix/what-kind-of-people-steal-someones-company-loot-the-accounts-and-then-run-around-pretending-it-5429)
-- [Core JavaScript Guide](https://dev.to/nouribram/core-javascript-guide-59bb)
+- [Risk Assessment Plan in Project Management](https://dev.to/writegenic/risk-assessment-plan-in-project-management-5d62)
+- [How to Design a Sphere Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-sphere-using-3d-cad-software-1ai8)
+- [Proxmox Test Reference Values](https://dev.to/seno21/proxmox-test-reference-values-9m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
