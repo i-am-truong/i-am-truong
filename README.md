@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fantastic AWS Policies and Where to Find Them](https://dev.to/aws-builders/fantastic-aws-policies-and-where-to-find-them-38f9)
-- [The Taxman Cometh: Nigeria&#39;s Crypto Traders Face Reality Check❗❗❗](https://dev.to/dhis_is_jj/the-taxman-cometh-nigerias-crypto-traders-face-reality-check-6fl)
-- [Let&#39;s Sketch Identity: Authentication vs. Authorization](https://dev.to/auth0/lets-sketch-identity-authentication-vs-authorization-48kb)
-- [The Plateau Problem](https://dev.to/rawveg/the-plateau-problem-5gmc)
-- [JsonX: Mapping JSON to C Structs on Embedded Systems](https://dev.to/mihail_asd/jsonx-mapping-json-to-c-structs-on-embedded-systems-5e0o)
+- [Day 21 coding games on my Android phone](https://dev.to/calchiwo/day-21-coding-games-on-my-android-phone-3o6l)
+- [How we built a Web3 mobile wallet in 5 months with React Native and Firebase](https://dev.to/consideritdone/how-we-built-a-web3-mobile-wallet-in-5-months-with-react-native-and-firebase-4nkh)
+- [Connecting On-Premises Network To The Cloud](https://dev.to/devzeuz/connecting-on-premises-network-to-the-cloud-4kjh)
+- [Streamlining Development. KendoReact Free Components](https://dev.to/joshua_tobi_03b6c612876f3/streamlining-development-kendoreact-free-components-1g3o)
+- [Grow Your DeFi Community via Discord and Telegram](https://dev.to/martin_deniyal_07aa225fc5/grow-your-defi-community-via-discord-and-telegram-4d5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
