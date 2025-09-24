@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leading a QA Team: Building QA from Scratch and Balancing Manual &amp; Automated Testing 🚀](https://dev.to/dasha_tsion_31379cfb51dd7/leading-a-qa-team-building-qa-from-scratch-and-balancing-manual-automated-testing-3pl9)
 - [Error Handling and logging policy helper for neverthrow](https://dev.to/caverar/error-handling-and-logging-policy-helper-for-neverthrow-5d2j)
 - [Simple Habit Tracker – From Idea to Scale-Ready &lpar;Frontend + Backend&rpar;](https://dev.to/ariansj/simple-habit-tracker-from-idea-to-scale-ready-frontend-backend-280j)
-- [K-Means Clustering Exposed: What the Textbooks Leave Out](https://dev.to/sheep_dev/k-means-clustering-exposed-what-the-textbooks-leave-out-4k66)
-- [Bryan Bros Golf: We Challenged the US Junior Champion to a Match!](https://dev.to/youtube_golf/bryan-bros-golf-we-challenged-the-us-junior-champion-to-a-match-46pn)
-- [GameSpot: Saros Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-saros-gameplay-reveal-trailer-8bn)
+- [K-Means Clustering Exposed: What the Textbooks won&#39;t tell you](https://dev.to/algorithmage/k-means-clustering-exposed-what-the-textbooks-leave-out-4k66)
+- [When I Realized My App Needed Content Moderation &lpar;and What I Learned&rpar;](https://dev.to/arslankark234/when-i-realized-my-app-needed-content-moderation-and-what-i-learned-198d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
