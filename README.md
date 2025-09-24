@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Your First API in Laravel – A Beginner’s Guide](https://dev.to/rohitdhiman/building-your-first-api-in-laravel-a-beginners-guide-ild)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-161k)
 - [What Just Happened to RubyGems?](https://dev.to/cseeman/what-just-happened-to-rubygems-31n9)
 - [Just finished Head First Python, super beginner-friendly and hands-on. Loved the visual style and projects. Moves fast sometimes, but perfect if you’re starting!](https://dev.to/roshan_sharma_7deae5e0742/just-finished-head-first-python-super-beginner-friendly-and-hands-on-loved-the-visual-style-and-5d7o)
 - [Vision AI and Human-in-the-Loop Distillation: Building Trustworthy and Scalable Systems](https://dev.to/rithindattag/vision-ai-and-human-in-the-loop-distillation-building-trustworthy-and-scalable-systems-4m30)
-- [GameSpot: Yakuza Kiwami 3 Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-trailer-rgg-summit-2025-c76)
-- [Tool of the week: Free WYSIWYG Editor with QuillJS](https://dev.to/timthewebmaster/tool-of-the-week-free-wysiwyg-editor-with-quilljs-5hf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
