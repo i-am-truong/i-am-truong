@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 21 coding games on my Android phone](https://dev.to/calchiwo/day-21-coding-games-on-my-android-phone-3o6l)
-- [How we built a Web3 mobile wallet in 5 months with React Native and Firebase](https://dev.to/consideritdone/how-we-built-a-web3-mobile-wallet-in-5-months-with-react-native-and-firebase-4nkh)
-- [Connecting On-Premises Network To The Cloud](https://dev.to/devzeuz/connecting-on-premises-network-to-the-cloud-4kjh)
-- [Streamlining Development. KendoReact Free Components](https://dev.to/joshua_tobi_03b6c612876f3/streamlining-development-kendoreact-free-components-1g3o)
-- [Grow Your DeFi Community via Discord and Telegram](https://dev.to/martin_deniyal_07aa225fc5/grow-your-defi-community-via-discord-and-telegram-4d5g)
+- [Playable Docs, Not Just Features: A Human-Centered Pattern Library for Dev Tools](https://dev.to/sonia_bobrik_1939cdddd79d/playable-docs-not-just-features-a-human-centered-pattern-library-for-dev-tools-1lfn)
+- [Ted talks that everyone should hear — part 1](https://dev.to/oryaacov/ted-talks-that-everyone-should-hear-part-1-31h2)
+- [AI agents and MCPs beauty](https://dev.to/radu_marias_eed98d2e201f6/ai-agents-and-mcps-beauty-3gl2)
+- [AWS IAM Groups Deep Dive](https://dev.to/ntsezenelvis/aws-iam-groups-deep-dive-11b2)
+- [api help #api](https://dev.to/linda_young_fd86b9be1d6e8/api-help-api-54e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
