@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🏆 Mastering JavaScript Arrays — From Basics to Modern ES6+](https://dev.to/usama_dev/mastering-javascript-arrays-from-basics-to-modern-es6-218a)
-- [Launch in Weeks, Not Months: How Boilerplates Change the Game](https://dev.to/jigar_online/launch-in-weeks-not-months-how-boilerplates-change-the-game-37l6)
-- [Top 5 Ways to Pick the Best Rental Software for Your Business: 2025 Expert Guide](https://dev.to/rental_software/top-5-ways-to-pick-the-best-rental-software-for-your-business-2025-expert-guide-44f9)
-- [IA para educadores do ensino médio: como transformar a sala de aula com tecnologia](https://dev.to/no_codestartup/ia-para-educadores-do-ensino-medio-como-transformar-a-sala-de-aula-com-tecnologia-488n)
-- [Проект](https://dev.to/__b376d283192/proiekt-4one)
+- [AWS Networking: Understanding CIDR Notation](https://dev.to/aws-builders/aws-networking-understanding-cidr-notation-383f)
+- [Daily Tech Byte: 2025-09-24](https://dev.to/frosty_fucker_7d06058f3d8/daily-tech-byte-2025-09-24-4ood)
+- [Want to simplify how you manage your env files and secrets?](https://dev.to/rabbilyasar/want-to-simplify-how-you-manage-your-env-files-and-secrets-3gi4)
+- [How to install Webmin on Ubuntu Server](https://dev.to/sreeju/how-to-install-webmin-on-ubuntu-server-81n)
+- [IA para escritores independentes: transforme sua escrita com inteligência artificial](https://dev.to/no_codestartup/ia-para-escritores-independentes-transforme-sua-escrita-com-inteligencia-artificial-4mfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
