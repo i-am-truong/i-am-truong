@@ -80,10 +80,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Derived Identity and System Personalization: A Vision Toward the Physical-Digital Link Through Robust Cryptography](https://dev.to/antonio_socorro_95e3ff086/derived-identity-and-system-personalization-a-vision-toward-the-physical-digital-link-through-54la)
+- [Experience in Working with Parallel Branches](https://dev.to/aubreyddd/experience-in-working-with-parallel-branches-29e2)
+- [Identidad Derivada y Personalización de Sistemas: Una visión hacia el enlace físico-digital con criptografía robusta](https://dev.to/antonio_socorro_95e3ff086/identidad-derivada-y-personalizacion-de-sistemas-una-vision-hacia-el-enlace-fisico-digital-con-5hj8)
 - [Introduction to Recession](https://dev.to/madgan95/introduction-to-recession-225l)
-- [The Pointer-Based Security Paradigm: A Practical Shift from Data Protection to Data Non-Existence](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82)
-- [SSE - Server Sent Event](https://dev.to/pillaimanish/sse-server-sent-event-4ca7)
-- [The Rise of Prompt-Driven Development: Why the Future of Software May Be Written in Prompts](https://dev.to/mudassirworks/the-rise-of-prompt-driven-development-why-the-future-of-software-may-be-written-in-prompts-27g0)
+- [⚓ Day 22 of My DevOps Journey: Strengthening Networking Basics 🌐](https://dev.to/dankbhardwaj/day-22-of-my-devops-journey-strengthening-networking-basics-5f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
