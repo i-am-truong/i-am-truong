@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Your Own Data Parser with Docling](https://dev.to/gathu17/building-your-own-data-parser-with-docling-1co9)
 - [Integrating Unity3D into .NET Aspire with `Aspire.Unity`](https://dev.to/dutchskull/integrating-unity3d-into-net-aspire-with-aspireunity-6lo)
 - [A Practical Guide to Passing the MongoDB Certified DBA Exam](https://dev.to/harshith_reddy_1bd2ad1275/a-practical-guide-to-passing-the-mongodb-certified-dba-exam-314k)
 - [Migraine Awareness Week 2025: Living With New Daily Persistent Headache &lpar;NDPH&rpar;](https://dev.to/dumebii/migraine-awareness-week-2025-living-with-new-daily-persistent-headache-ndph-2jip)
 - [Specification Driven Development: My Journey from Kiro to a Custom Guide](https://dev.to/yurvon-screamo/specification-driven-development-guide-jfo)
-- [&quot;An escalator can never break: it can only become stairs. You should never see an Escalator Temporarily Out Of Order sign, just Escalator Temporarily Stairs. Sorry for the convenience.&quot; - Mitch Hedberg](https://dev.to/ben/an-escalator-can-never-break-it-can-only-become-stairs-you-should-never-see-an-escalator-1n2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
