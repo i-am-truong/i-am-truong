@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Obscura: la nueva y oscura variante de ransomware que pone en jaque a las empresas](https://dev.to/lucatonyraudales/obscura-la-nueva-y-oscura-variante-de-ransomware-que-pone-en-jaque-a-las-empresas-2op0)
+- [ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor &lpar;Step-by-Step&rpar;](https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd)
+- [6 New Gemini AI Prompts for Viral Nano Banana Photos of Men](https://dev.to/artificialintelligenceee/6-new-gemini-ai-prompts-for-viral-nano-banana-photos-of-men-6cb)
 - [O Código Aberto e a Arquitetura da Ideia: Uma Análise dos Movimentos Open Source e Software Livre](https://dev.to/mrpunkdasilva/o-codigo-aberto-e-a-arquitetura-da-ideia-uma-analise-dos-movimentos-open-source-e-software-livre-4hep)
 - [40 years in tech… and I feel like I’m just getting started. 😉](https://dev.to/aaronksaunders/40-years-in-tech-and-i-feel-like-im-just-getting-started-349n)
-- [Bug Deduplication with AI &lpar;Node.js + OpenRouter&rpar;](https://dev.to/modalqa/bug-deduplication-with-ai-nodejs-openrouter-597o)
-- [¡AWS Community Day Bolivia 2025: Una experiencia que me llevo en el corazón! 🇧🇴](https://dev.to/juan_jose_miranda/aws-community-day-bolivia-2025-una-experiencia-que-me-llevo-en-el-corazon-1ngp)
-- [Built a small tool to merge Google Docs](https://dev.to/coltnovak/built-a-small-tool-to-merge-google-docs-1g69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
