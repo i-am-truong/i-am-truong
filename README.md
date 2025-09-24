@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb)
-- [GameSpot: Yakuza Kiwami 3 and Dark Ties Gameplay Breakdown | RGG Direct 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-and-dark-ties-gameplay-breakdown-rgg-direct-2025-3imi)
-- [GameSpot: Stranger Than Heaven Behind The Scenes Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-stranger-than-heaven-behind-the-scenes-trailer-rgg-summit-2025-3i60)
-- [IGN: Hollow Knight Silksong - How to Reach Act 3 and Get on the Path to the True End](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-reach-act-3-and-get-on-the-path-to-the-true-end-316p)
-- [IGN: Animula Nook - Official Reveal Trailer](https://dev.to/gg_news/ign-animula-nook-official-reveal-trailer-408f)
+- [Bankruptcy is supposed to be a safety net, not a weapon. Tyler Davis and his partners turned it into a shield for fraud, and that is a crime against all of us.](https://dev.to/kelvinmeanix/bankruptcy-is-supposed-to-be-a-safety-net-not-a-weapon-tyler-davis-and-his-partners-turned-it-d8g)
+- [It makes me furious to see how long these people got away with their scheme. The damage they caused is bigger than just one company.](https://dev.to/kelvinmeanix/it-makes-me-furious-to-see-how-long-these-people-got-away-with-their-scheme-the-damage-they-caused-6n6)
+- [Building &#39;The Scroll of Dharma&#39;: A Technical Deep Dive into an Interactive Meditation Platform](https://dev.to/saint2706/building-the-scroll-of-dharma-a-technical-deep-dive-into-an-interactive-meditation-platform-4bob)
+- [Is It Time for a Hardware Refresh? Signs Your IT Needs an Upgrade](https://dev.to/teresa_tran/is-it-time-for-a-hardware-refresh-signs-your-it-needs-an-upgrade-12pl)
+- [How Porter Consulting LLC Owner Tyler Davis Is Involved in Bankruptcy Proceedings Tied to Financial Crimes](https://dev.to/marcusquinn05/how-porter-consulting-llc-owner-tyler-davis-is-involved-in-bankruptcy-proceedings-tied-to-financial-1e9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
