@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is the mojar differences between Arduino Uno and ESP32 boards?](https://dev.to/carolineee/what-is-the-mojar-differences-between-arduino-uno-and-esp32-boards-3a4h)
-- [Go Coding with Asparagos: Saving Apples from Pies](https://dev.to/asparagos/go-coding-with-asparagos-saving-apples-from-pies-58p8)
-- [JavaScript Hoisting Explained: A Beginner’s Guide with Examples](https://dev.to/wisdomudo/javascript-hoisting-explained-a-beginners-guide-with-examples-j5f)
-- [Nginx mi Apache mi? Hangi Web Sunucusunu Seçmeli?](https://dev.to/latestsoftware/nginx-mi-apache-mi-hangi-web-sunucusunu-secmeli-540a)
-- [Are Boilerplates Becoming Obsolete in the Age of AI Code Generation?](https://dev.to/jigar_online/are-boilerplates-becoming-obsolete-in-the-age-of-ai-code-generation-3i08)
+- [How Full-Stack Observability Improves Kubernetes Reliability and Uptime](https://dev.to/tushar_panthari_cda8874b1/how-full-stack-observability-improves-kubernetes-reliability-and-uptime-311j)
+- [Introduction to Using Supabase with Node.js: Build a Simple Todo App](https://dev.to/humphery7/introduction-to-using-supabase-with-nodejs-build-a-simple-todo-app-2210)
+- [The Hidden Cost of Inactive Websites: Why 80% of Sites Are Dead Weight &lpar;And How to Avoid It&rpar;](https://dev.to/eva_clari_289d85ecc68da48/the-hidden-cost-of-inactive-websites-why-80-of-sites-are-dead-weight-and-how-to-avoid-it-19aa)
+- [Implementing Incremental Static Regeneration &lpar;ISR&rpar; in Nuxt 4: The Complete Guide](https://dev.to/blamsa0mine/implementing-incremental-static-regeneration-isr-in-nuxt-4-the-complete-guide-2j7h)
+- [🇫🇷 Commencer en tant que Data Scientist. Démarrer une carrière fructueuse](https://dev.to/pierre/commencer-en-tant-que-data-scientist-demarrer-une-carriere-fructueuse-2d04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
