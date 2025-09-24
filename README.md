@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Caching in .NET Core Web API](https://dev.to/harpreet_singh_c4ea4af253/implementing-caching-in-net-core-web-api-4d6l)
-- [How I Secure APIs — Practical Steps I Use Every Day](https://dev.to/gimhantharuke4565/how-i-secure-apis-practical-steps-i-use-every-day-2e8g)
-- [TCJSGame Component Class: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-component-class-complete-reference-guide-3e3p)
-- [My First DEV Post: Learning AI, Big Data &amp; Web Development](https://dev.to/arshiyashaik2005_85ba428f/my-first-dev-post-learning-ai-big-data-web-development-i4)
-- [API Versioning in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/api-versioning-in-net-web-api-39ma)
+- [🚀 Bytedocs: A Modern Alternative to Swagger](https://dev.to/aibnuhibban/bytedocs-a-modern-alternative-to-swagger-312d)
+- [El escándalo Milei y el “mercado total”: cuando el Estado pierde terreno](https://dev.to/applesophie98/el-escandalo-milei-y-el-mercado-total-cuando-el-estado-pierde-terreno-fn0)
+- [Building a Real-Time Compass App on HarmonyOS NEXT Wearables with ArkTS](https://dev.to/harmonyos/building-a-real-time-compass-app-on-harmonyos-next-wearables-with-arkts-11je)
+- [Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality.](https://dev.to/jaideepparashar/code-reviews-are-no-longer-just-about-human-bandwidth-think-of-ai-not-as-replacing-peer-1gn6)
+- [AI-Powered Code Reviews: A Developer’s Secret Weapon](https://dev.to/jaideepparashar/ai-powered-code-reviews-a-developers-secret-weapon-4enl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
