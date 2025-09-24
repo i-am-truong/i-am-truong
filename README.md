@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qualys vs ZeroThreat: Strengths, Limitations, and Use Cases](https://dev.to/sambishop/qualys-vs-zerothreat-strengths-limitations-and-use-cases-2i6h)
-- [Untitled](https://dev.to/cristian_ortiz_72a5908a03/untitled-2nb9)
-- [10 Best Platforms to Learn Cybersecurity in 2026](https://dev.to/stack_overflowed/10-best-platforms-to-learn-cybersecurity-in-2026-d9n)
-- [Adaptive Intelligence: From Process Automation to Organizational Agility](https://dev.to/jerom_jeeva_8afd8c260ebbc/adaptive-intelligence-from-process-automation-to-organizational-agility-4eb6)
-- [Protecting against cross-site scripting with trusted types](https://dev.to/dominic_bachmann/protecting-against-cross-site-scripting-with-trusted-types-16j5)
+- [GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb)
+- [GameSpot: Yakuza Kiwami 3 and Dark Ties Gameplay Breakdown | RGG Direct 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-and-dark-ties-gameplay-breakdown-rgg-direct-2025-3imi)
+- [GameSpot: Stranger Than Heaven Behind The Scenes Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-stranger-than-heaven-behind-the-scenes-trailer-rgg-summit-2025-3i60)
+- [IGN: Hollow Knight Silksong - How to Reach Act 3 and Get on the Path to the True End](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-reach-act-3-and-get-on-the-path-to-the-true-end-316p)
+- [IGN: Animula Nook - Official Reveal Trailer](https://dev.to/gg_news/ign-animula-nook-official-reveal-trailer-408f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
