@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Keeping branches in sync in a Monorepo: The Pre-Push hook solution](https://dev.to/pratiktalreja/keeping-branches-in-sync-in-a-monorepo-the-pre-push-hook-solution-3c0f)
+- [Build High Quality Reasoning Datasets in Minutes Using Natural Prompts](https://dev.to/lukehinds/build-chain-of-thought-datasets-in-minutes-using-natural-prompts-4jae)
+- [About Web 3.0](https://dev.to/humbertoromanojr/about-web-30-pk5)
+- [Beyond for loops: Mastering Python&#39;s Iterators and Generators](https://dev.to/aaron_rose_0787cc8b4775a0/beyond-for-loops-mastering-pythons-iterators-and-generators-2a2e)
 - [Why Every Developer Needs a Portfolio in 2026](https://dev.to/aureathemes/why-every-developer-needs-a-portfolio-in-2026-40f)
-- [**Unlocking the Power of Reinforcement Learning: Discovering](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-reinforcement-learning-discovering-l82)
-- [How to prompt Gemini CLI to improve your Dockerfile](https://dev.to/shipyard/how-to-prompt-gemini-cli-to-improve-your-dockerfile-2ofg)
-- [**Boosting Cybersecurity Effectiveness with AI: The Power of](https://dev.to/drcarlosruizviquez/boosting-cybersecurity-effectiveness-with-ai-the-power-of-43jo)
-- [Introducing fastapi-bgtasks-dashboard : One-liner integration on your FastAPI application](https://dev.to/harshil_jani/introducing-fastapi-bgtasks-dashboard-one-liner-integration-on-your-fastapi-application-343i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
