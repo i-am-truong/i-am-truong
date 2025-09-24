@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure BigAnimal](https://dev.to/aravinlinux/how-to-configure-biganimal-1c54)
-- [Playable Docs, Not Just Features: A Human-Centered Pattern Library for Dev Tools](https://dev.to/sonia_bobrik_1939cdddd79d/playable-docs-not-just-features-a-human-centered-pattern-library-for-dev-tools-1lfn)
-- [Ted talks that everyone should hear — part 1](https://dev.to/oryaacov/ted-talks-that-everyone-should-hear-part-1-31h2)
-- [AI agents and MCPs beauty](https://dev.to/radu_marias_eed98d2e201f6/ai-agents-and-mcps-beauty-3gl2)
-- [AWS IAM Groups Deep Dive](https://dev.to/ntsezenelvis/aws-iam-groups-deep-dive-11b2)
+- [Learning JS in 30 Days - Day 4](https://dev.to/tony_chase_83955825282edc/learning-js-in-30-days-day-4-3kcn)
+- [python mail format parser](https://dev.to/vb_nair/python-mail-format-parser-44g3)
+- [IoT Prototyping: Concept to Connected Device](https://dev.to/nirav_panchal_e531c758f1d/iot-prototyping-concept-to-connected-device-hja)
+- [Importance of Timely Property Winterization for Vacant Homes](https://dev.to/mark_james_88c5e4f90301be/importance-of-timely-property-winterization-for-vacant-homes-47p8)
+- [Configuring Connection From On-Premises Server To The Cloud](https://dev.to/devzeuz/configuring-connection-from-on-premises-server-to-the-cloud-1din)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
