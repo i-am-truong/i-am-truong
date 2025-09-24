@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Always Disable Unused Linux Services After Installation | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-always-disable-unused-linux-services-after-installation-by-faruk-ahmed-sep-2025-1h9p)
-- [Vemto &lpar;the Laravel code generator&rpar; is now Open Source](https://dev.to/tiagosilvapereira/vemto-the-laravel-code-generator-is-now-open-source-3kfb)
-- [Professional Web Sayt Yaratish - To&#39;liq Qo&#39;llanma](https://dev.to/azamat_narzulloyev_3e1667/professional-web-sayt-yaratish-toliq-qollanma-52l6)
-- [New spam detection targeting mass registration live and working well so far. https://github.com/forem/forem/pull/22350](https://dev.to/ben/new-spam-detection-targeting-mass-registration-live-and-working-well-so-far-38bn)
-- [DO NOT AUTOSCALE : PBCTF RCA](https://dev.to/skysingh04/do-not-autoscale-pbctf-rca-1dcl)
+- [COLORS: The Favors - Lake George | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-lake-george-a-colors-show-1glb)
+- [Workspace on Demand in i3wm](https://dev.to/waterkip/workspace-on-demand-in-i3wm-3nki)
+- [Bryan Bros Golf: We Played With the #1 Junior Golfer in the Country](https://dev.to/youtube_golf/bryan-bros-golf-we-played-with-the-1-junior-golfer-in-the-country-2k6k)
+- [Peter Finch Golf: I’ve wanted to play here all my life...](https://dev.to/youtube_golf/peter-finch-golf-ive-wanted-to-play-here-all-my-life-2fbl)
+- [GameSpot: Resident Evil Requiem Gameplay Overview | Capcom Online Program TGS 2025](https://dev.to/gg_news/gamespot-resident-evil-requiem-gameplay-overview-capcom-online-program-tgs-2025-33ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
