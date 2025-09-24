@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Enchantment to Disenchantment - How companies are dealing with the new costs of AI](https://dev.to/douglas_mor/from-enchantment-to-disenchantment-how-companies-are-dealing-with-the-new-costs-of-ai-4pmc)
-- [Assignment by Value vs Assignment by Reference in JavaScript](https://dev.to/rowleks/assignment-by-value-vs-assignment-by-reference-in-javascript-d64)
-- [Not Just Their Story, It’s Ours](https://dev.to/albert_hadi_b49c135537451/not-just-their-story-its-ours-142k)
-- [🚀 Contribute to MDX Editor — An Open-Source, AI-Powered Markdown + JSX Experience](https://dev.to/rafatalam/contribute-to-mdx-editor-an-open-source-ai-powered-markdown-jsx-experience-47n7)
-- [The Evolution of HTML: From Version 1.0 to 5.0](https://dev.to/arun_kumar_98/the-evolution-of-html-from-version-10-to-50-hg6)
+- [PROCEDIMIENTOS DE TRABAJO SEGURO](https://dev.to/giancarlo_edumayhuirezu/procedimientos-de-trabajo-seguro-661)
+- [AI vs AGI: Understanding the Future of Intelligence in Simple Words](https://dev.to/amttawsik/ai-vs-agi-understanding-the-future-of-intelligence-in-simple-words-cj7)
+- [NgRx Signal Store Event API: A Modern Take on Event-Driven Architecture](https://dev.to/duskoperic/ngrx-signal-store-event-api-a-modern-take-on-event-driven-architecture-189m)
+- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Direne Direne &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-direne-direne-live-on-kexp-5db7)
+- [GameSpot: Pokemon Legends: Z-A Takes The Series In A Bold Direction](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-takes-the-series-in-a-bold-direction-mld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
