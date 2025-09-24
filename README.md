@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DO NOT AUTOSCALE : PBCTF RCA](https://dev.to/skysingh04/do-not-autoscale-pbctf-rca-1dcl)
+- [Introducing Puppet Edge and new Puppet Enterprise releases!](https://dev.to/puppet/introducing-puppet-edge-and-new-puppet-enterprise-releases-1ejf)
+- [Amp Tab by Sourcegraph — intent‑aware “Tab” that edits across files &lpar;now on by default&rpar;](https://dev.to/jshorwitz/amp-tab-by-sourcegraph-intent-aware-tab-that-edits-across-files-now-on-by-default-4bo8)
+- [Why We Built NFlux: Simplifying Real-Time Orchestration and Domain-Driven Design in .NET](https://dev.to/michel_bruchet_bf6e14dbc7/why-we-built-nflux-simplifying-real-time-orchestration-and-domain-driven-design-in-net-5f01)
 - [PHP 8.5: The Version That Will Actually Makes Life Easier](https://dev.to/web_dev-usman/php-85-the-version-that-will-actually-makes-life-easier-aa0)
-- [Building an AI-native multi-model UI with SurrealDB](https://dev.to/surrealdb/building-an-ai-native-multi-model-ui-with-surrealdb-2eeh)
-- [Features your SaaS MVP Don&#39;t Need](https://dev.to/railsdesigner/features-your-saas-mvp-dont-need-4ggh)
-- [Obscura: la nueva y oscura variante de ransomware que pone en jaque a las empresas](https://dev.to/lucatonyraudales/obscura-la-nueva-y-oscura-variante-de-ransomware-que-pone-en-jaque-a-las-empresas-2op0)
-- [ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor &lpar;Step-by-Step&rpar;](https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
