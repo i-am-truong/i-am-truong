@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Always Disable Unused Linux Services After Installation | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-always-disable-unused-linux-services-after-installation-by-faruk-ahmed-sep-2025-1h9p)
+- [Vemto &lpar;the Laravel code generator&rpar; is now Open Source](https://dev.to/tiagosilvapereira/vemto-the-laravel-code-generator-is-now-open-source-3kfb)
+- [Professional Web Sayt Yaratish - To&#39;liq Qo&#39;llanma](https://dev.to/azamat_narzulloyev_3e1667/professional-web-sayt-yaratish-toliq-qollanma-52l6)
+- [New spam detection targeting mass registration live and working well so far. https://github.com/forem/forem/pull/22350](https://dev.to/ben/new-spam-detection-targeting-mass-registration-live-and-working-well-so-far-38bn)
 - [DO NOT AUTOSCALE : PBCTF RCA](https://dev.to/skysingh04/do-not-autoscale-pbctf-rca-1dcl)
-- [Introducing Puppet Edge and new Puppet Enterprise releases!](https://dev.to/puppet/introducing-puppet-edge-and-new-puppet-enterprise-releases-1ejf)
-- [Amp Tab by Sourcegraph — intent‑aware “Tab” that edits across files &lpar;now on by default&rpar;](https://dev.to/jshorwitz/amp-tab-by-sourcegraph-intent-aware-tab-that-edits-across-files-now-on-by-default-4bo8)
-- [Why We Built NFlux: Simplifying Real-Time Orchestration and Domain-Driven Design in .NET](https://dev.to/michel_bruchet_bf6e14dbc7/why-we-built-nflux-simplifying-real-time-orchestration-and-domain-driven-design-in-net-5f01)
-- [PHP 8.5: The Version That Will Actually Makes Life Easier](https://dev.to/web_dev-usman/php-85-the-version-that-will-actually-makes-life-easier-aa0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
