@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-powered back-to-school assistant](https://dev.to/aniruddhaadak/ai-powered-back-to-school-assistant-23dm)
+- [9 AI primitives that simplify building AI agents](https://dev.to/thisismairaj/9-ai-primitives-that-simplify-building-ai-agents-3m1l)
+- [Infrastructure as Code Vs. Infrastructure as a Service.](https://dev.to/anthony_iroham_9742b31f57/infrastructure-as-code-vs-infrastructure-as-a-service-5c2m)
 - [Terraforming With AI](https://dev.to/zloeber/terraforming-with-ai-g0o)
-- [Por que você deveria auditar binários no seu repositório Git &lpar;e como fazer isso&rpar;](https://dev.to/varantes/por-que-voce-deveria-auditar-binarios-no-seu-repositorio-git-e-como-fazer-isso-4ama)
-- [My First Database – LPF &lpar;Liga Panameña de Fútbol&rpar;⚽](https://dev.to/thecoder507/my-first-database-lpf-liga-panamena-de-futbol-113b)
-- [Alternatives to Bank Loans for Students and Youth: Exploring Smarter Financing Options](https://dev.to/gov01/alternatives-to-bank-loans-for-students-and-youth-exploring-smarter-financing-options-48m3)
-- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-366c)
+- [AI AGENTS AND HOW TO BUILD THEM](https://dev.to/iamisaackn/ai-agents-and-how-to-build-them-20nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
