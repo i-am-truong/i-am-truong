@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Every Developer Needs a Portfolio in 2026](https://dev.to/aureathemes/why-every-developer-needs-a-portfolio-in-2026-40f)
+- [**Unlocking the Power of Reinforcement Learning: Discovering](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-reinforcement-learning-discovering-l82)
+- [How to prompt Gemini CLI to improve your Dockerfile](https://dev.to/shipyard/how-to-prompt-gemini-cli-to-improve-your-dockerfile-2ofg)
 - [**Boosting Cybersecurity Effectiveness with AI: The Power of](https://dev.to/drcarlosruizviquez/boosting-cybersecurity-effectiveness-with-ai-the-power-of-43jo)
 - [Introducing fastapi-bgtasks-dashboard : One-liner integration on your FastAPI application](https://dev.to/harshil_jani/introducing-fastapi-bgtasks-dashboard-one-liner-integration-on-your-fastapi-application-343i)
-- [Coding Challenge Practice - Question 15](https://dev.to/tomivan/coding-challenge-practice-question-15-3ehi)
-- [Hey Dev Community! Ömer Here 👋](https://dev.to/sehawq/hey-dev-community-omer-here-4k05)
-- [10 Web Design Hacks UX Pros Don’t Want You to Know](https://dev.to/0x7b_official/10-web-design-hacks-ux-pros-dont-want-you-to-know-559)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
