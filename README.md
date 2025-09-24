@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning JS in 30 Days - Day 4](https://dev.to/tony_chase_83955825282edc/learning-js-in-30-days-day-4-3kcn)
-- [python mail format parser](https://dev.to/vb_nair/python-mail-format-parser-44g3)
-- [IoT Prototyping: Concept to Connected Device](https://dev.to/nirav_panchal_e531c758f1d/iot-prototyping-concept-to-connected-device-hja)
-- [Importance of Timely Property Winterization for Vacant Homes](https://dev.to/mark_james_88c5e4f90301be/importance-of-timely-property-winterization-for-vacant-homes-47p8)
-- [Configuring Connection From On-Premises Server To The Cloud](https://dev.to/devzeuz/configuring-connection-from-on-premises-server-to-the-cloud-1din)
+- [Authentication Tokens: Your Digital VIP Pass 🎫](https://dev.to/vishdevwork/authentication-tokens-your-digital-vip-pass-3cem)
+- [Lazy vs Eager Evaluation in JavaScript: Performance Trade-offs](https://dev.to/patoliyainfotech/lazy-vs-eager-evaluation-in-javascript-performance-trade-offs-3m7j)
+- [AI Revolution Is Redesigning UX Forever](https://dev.to/dev_resources/ai-revolution-is-redesigning-ux-forever-14e3)
+- [Boosting SaaS Performance: Speed, Uptime, and Growth at Scale](https://dev.to/aditya_c90047909cf234c949/boosting-saas-performance-speed-uptime-and-growth-at-scale-57de)
+- [Setting Up Your First Multi-Agent Test with Maia](https://dev.to/radoslawsz/setting-up-your-first-multi-agent-test-with-maia-4kab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
