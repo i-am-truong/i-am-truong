@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Own Data Parser with Docling](https://dev.to/gathu17/building-your-own-data-parser-with-docling-1co9)
-- [Integrating Unity3D into .NET Aspire with `Aspire.Unity`](https://dev.to/dutchskull/integrating-unity3d-into-net-aspire-with-aspireunity-6lo)
-- [A Practical Guide to Passing the MongoDB Certified DBA Exam](https://dev.to/harshith_reddy_1bd2ad1275/a-practical-guide-to-passing-the-mongodb-certified-dba-exam-314k)
-- [Migraine Awareness Week 2025: Living With New Daily Persistent Headache &lpar;NDPH&rpar;](https://dev.to/dumebii/migraine-awareness-week-2025-living-with-new-daily-persistent-headache-ndph-2jip)
-- [Specification Driven Development: My Journey from Kiro to a Custom Guide](https://dev.to/yurvon-screamo/specification-driven-development-guide-jfo)
+- [Start at the End: Logic Programming for the Imperatively Damaged](https://dev.to/davidcanhelp/start-at-the-end-logic-programming-for-the-imperatively-damaged-2fp2)
+- [I built an initial data syncing system for Django projects](https://dev.to/ridcorix/i-built-an-initial-data-syncing-system-for-django-projects-l36)
+- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-full-performance-live-on-kexp-5anp)
+- [Golf.com: The Mystery Of Bethpage Black’s Unique Warning Sign](https://dev.to/youtube_golf/golfcom-the-mystery-of-bethpage-blacks-unique-warning-sign-p4f)
+- [Rechart stroke line issue at joining point](https://dev.to/moumita_hazra_29041215fd1/rechart-stroke-line-issue-at-joining-point-4aj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
