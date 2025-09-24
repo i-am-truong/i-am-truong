@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Core JavaScript Guide](https://dev.to/nouribram/core-javascript-guide-59bb)
+- [Tutorial: Transform Your WordPress Blog into a Data-Driven Revenue Machine &lpar;Complete Guide&rpar;](https://dev.to/hardik_b2d8f0bca/tutorial-transform-your-wordpress-blog-into-a-data-driven-revenue-machine-complete-guide-hgo)
+- [The arrogance of these conspirators is staggering. They actually thought no one would notice when they doctored ledgers and forged authority.](https://dev.to/richards_l52689/the-arrogance-of-these-conspirators-is-staggering-they-actually-thought-no-one-would-notice-when-55c8)
+- [Basic Statistics in Tableau: Understanding Correlation for Smarter Business Insights](https://dev.to/dipti_moryani_9137d0a2e44/basic-statistics-in-tableau-understanding-correlation-for-smarter-business-insights-2mg1)
 - [A Practical Guide to Vibe Coding: From Prompts to Production](https://dev.to/t2c/a-practical-guide-to-vibe-coding-from-prompts-to-production-2k16)
-- [The Unseen Realities of AI Content Moderation — And a Better Path Forward](https://dev.to/web4/the-unseen-realities-of-ai-content-moderation-and-a-better-path-forward-2nkj)
-- [Day-101 19 Essential Spring Boot Annotations](https://dev.to/tamilselvan1812/day-101-19-essential-spring-boot-annotations-232h)
-- [How to Update Node.js Versions on Windows?](https://dev.to/lucy1/how-to-update-nodejs-versions-on-windows-1j65)
-- [No questions? The cost of a missing &#39;?&#39; in your project](https://dev.to/pvsdev/no-questions-the-cost-of-a-missing-in-your-project-2b2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
