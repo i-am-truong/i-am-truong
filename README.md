@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving the Billion-Dollar Mistake: Modern Java Null Safety with JSpecify and NullAway](https://dev.to/headf1rst/solving-the-billion-dollar-mistake-modern-java-null-safety-with-jspecify-and-nullaway-2ie7)
+- [Intel Core i7-14900K y la &lpar;in&rpar;estabilidad: mi experiencia y la solución que encontré](https://dev.to/aledotsoftware/intel-core-i7-14900k-y-la-inestabilidad-mi-experiencia-y-la-solucion-que-encontre-4haa)
+- [Introdução ao RabbitMQ](https://dev.to/programadriano/introducao-ao-rabbitmq-1o3m)
+- [Efficient Iteration Patterns with Python’s itertools](https://dev.to/aaron_rose_0787cc8b4775a0/efficient-iteration-patterns-with-pythons-itertools-19eh)
 - [Nest.js Blog Step by Step: Add User System](https://dev.to/leapcell/nestjs-blog-step-by-step-add-user-system-5a16)
-- [Shared Hosting vs VPS Hosting: A Beginner-Friendly Breakdown](https://dev.to/justin-green/shared-hosting-vs-vps-hosting-a-beginner-friendly-breakdown-4m69)
-- [Business Central Demand Forecasting: Smarter Planning Without the Guesswork](https://dev.to/insight_works/business-central-demand-forecasting-smarter-planning-without-the-guesswork-48bm)
-- [Error Boundaries in React with TypeScript: Going Beyond the Basics](https://dev.to/harpreet_singh_c4ea4af253/error-boundaries-in-react-with-typescript-going-beyond-the-basics-4ffn)
-- [Building a Scalable AI-Powered Fintech Platform: Architecture with Java Spring Boot and Amazon Bedrock](https://dev.to/shiv-centcapital/building-a-scalable-ai-powered-fintech-platform-architecture-with-java-spring-boot-and-amazon-25kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
