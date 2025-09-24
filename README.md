@@ -83,7 +83,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Untitled](https://dev.to/cristian_ortiz_72a5908a03/untitled-2nb9)
 - [10 Best Platforms to Learn Cybersecurity in 2026](https://dev.to/stack_overflowed/10-best-platforms-to-learn-cybersecurity-in-2026-d9n)
 - [Adaptive Intelligence: From Process Automation to Organizational Agility](https://dev.to/jerom_jeeva_8afd8c260ebbc/adaptive-intelligence-from-process-automation-to-organizational-agility-4eb6)
-- [Flipkart - Big Billion Days - TechStack](https://dev.to/zeeshanali0704/flipkart-big-billion-days-techblog-1b4j)
+- [Protecting against cross-site scripting with trusted types](https://dev.to/dominic_bachmann/protecting-against-cross-site-scripting-with-trusted-types-16j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
