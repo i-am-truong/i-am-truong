@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraforming With AI](https://dev.to/zloeber/terraforming-with-ai-g0o)
+- [Por que você deveria auditar binários no seu repositório Git &lpar;e como fazer isso&rpar;](https://dev.to/varantes/por-que-voce-deveria-auditar-binarios-no-seu-repositorio-git-e-como-fazer-isso-4ama)
 - [My First Database – LPF &lpar;Liga Panameña de Fútbol&rpar;⚽](https://dev.to/thecoder507/my-first-database-lpf-liga-panamena-de-futbol-113b)
 - [Alternatives to Bank Loans for Students and Youth: Exploring Smarter Financing Options](https://dev.to/gov01/alternatives-to-bank-loans-for-students-and-youth-exploring-smarter-financing-options-48m3)
 - [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-366c)
-- [Day 01 Theory behind java](https://dev.to/rohit_juyal_c93b63c3dcf9c/day-01-theory-behind-java-59id)
-- [A new lesson from my recent interview experience](https://dev.to/manikandan_a8f99e0153ef77/a-new-lesson-from-my-recent-interview-experience-1dhn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
