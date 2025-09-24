@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Role of Graph Structure in LLM-Powered Applications](https://dev.to/grzegorz_dubiel_db99203fe/the-role-of-graph-structure-in-llm-powered-applications-2479)
+- [Database Connection Settings in Java: How to Optimize MongoDB Usage](https://dev.to/mahmoudabbasi/database-connection-settings-in-java-how-to-optimize-mongodb-usage-5ejn)
+- [What are some of the biggest product failures of the last decade?](https://dev.to/uladshauchenka/what-are-some-of-the-biggest-product-failures-of-the-last-decade-1e57)
+- [Who Governs Your NHIs? The Challenge of Defining Ownership in Modern Enterprise IT](https://dev.to/gitguardian/who-governs-your-nhis-the-challenge-of-defining-ownership-in-modern-enterprise-it-cd8)
 - [asdf ➡ mise](https://dev.to/piersroberts/asdf-mise-1nf0)
-- [SVAR Svelte Components Now with TypeScript Support](https://dev.to/olga_tash/svar-svelte-components-now-with-typescript-support-33c2)
-- [Terraform as a One-Shot Init Container in Docker Compose and CI: Ending &quot;It Worked On My Machine&quot;](https://dev.to/u11d/terraform-as-a-one-shot-init-container-in-docker-compose-and-ci-ending-it-worked-on-my-machine-2c49)
-- [Stop Using Spreadsheets to Run a DAO: My Personal Journey Into DAO Ops Chaos](https://dev.to/aishwarya_wale_5d76288442/stop-using-spreadsheets-to-run-a-dao-my-personal-journey-into-dao-ops-chaos-43na)
-- [🚀 Turn Any Photo Into a Cartoon with ToonlyAI](https://dev.to/web5lab_938e9096be8dc3e78/turn-any-photo-into-a-cartoon-with-toonlyai-3ned)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
