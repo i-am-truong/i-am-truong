@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Debug Container](https://dev.to/s_raj07/kubernetes-debug-container-5cdg)
 - [Build Once, Deploy Everywhere: Deploying a .NET 8 API with Docker, AKS &amp; GitHub Actions](https://dev.to/ibrahimbioabu/build-once-deploy-everywhere-deploying-a-net-8-api-with-docker-aks-github-actions-4h4o)
 - [🚗 GrandMap: The GTA-Inspired Map Project Nobody Asked For &lpar;But I Built Anyway&rpar;](https://dev.to/swagking/grandmap-the-gta-inspired-map-project-nobody-asked-for-but-i-built-anyway-3p8k)
 - [Check out this guide on Exploratory Factor Analysis !!](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-guide-on-exploratory-factor-analysis--36h0)
 - [Verified TransferWise Account](https://dev.to/cms_gma_c489e7ff39d1a4cb0/verified-transferwise-account-14le)
-- [Check out this tutorial on ANOVA](https://dev.to/dipti_moryani_08e62702314/check-out-this-tutorial-on-anova-hok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
