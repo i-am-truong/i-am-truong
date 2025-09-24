@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Let’s Talk About Our Struggles in Learning and Building Confidence😉](https://dev.to/yaldakhoshpey/lets-talk-about-our-struggles-in-learning-and-building-confidence-2i4k)
+- [Outsourcing Without the Stigma, AI Flooding, and Roblox Rising](https://dev.to/allcorrect/outsourcing-without-the-stigma-ai-flooding-and-roblox-rising-47ag)
+- [The Complete Guide to API Versioning for Developers](https://dev.to/muhabbat_dev/the-complete-guide-to-api-versioning-for-developers-9l1)
+- [Oracle vs. Google: The API Battle That Shook the Coding World](https://dev.to/pranta/oracle-vs-google-the-api-battle-that-shook-the-coding-world-27l0)
 - [PROCEDIMIENTOS DE TRABAJO SEGURO](https://dev.to/giancarlo_edumayhuirezu/procedimientos-de-trabajo-seguro-661)
-- [AI vs AGI: Understanding the Future of Intelligence in Simple Words](https://dev.to/amttawsik/ai-vs-agi-understanding-the-future-of-intelligence-in-simple-words-cj7)
-- [NgRx Signal Store Event API: A Modern Take on Event-Driven Architecture](https://dev.to/duskoperic/ngrx-signal-store-event-api-a-modern-take-on-event-driven-architecture-189m)
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Direne Direne &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-direne-direne-live-on-kexp-5db7)
-- [GameSpot: Pokemon Legends: Z-A Takes The Series In A Bold Direction](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-takes-the-series-in-a-bold-direction-mld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
