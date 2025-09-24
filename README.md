@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Configure BigAnimal](https://dev.to/aravinlinux/how-to-configure-biganimal-1c54)
 - [Playable Docs, Not Just Features: A Human-Centered Pattern Library for Dev Tools](https://dev.to/sonia_bobrik_1939cdddd79d/playable-docs-not-just-features-a-human-centered-pattern-library-for-dev-tools-1lfn)
 - [Ted talks that everyone should hear — part 1](https://dev.to/oryaacov/ted-talks-that-everyone-should-hear-part-1-31h2)
 - [AI agents and MCPs beauty](https://dev.to/radu_marias_eed98d2e201f6/ai-agents-and-mcps-beauty-3gl2)
 - [AWS IAM Groups Deep Dive](https://dev.to/ntsezenelvis/aws-iam-groups-deep-dive-11b2)
-- [api help #api](https://dev.to/linda_young_fd86b9be1d6e8/api-help-api-54e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
