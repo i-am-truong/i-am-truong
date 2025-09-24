@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipkart - Big Billion Days - TechStack](https://dev.to/zeeshanali0704/flipkart-big-billion-days-techblog-1b4j)
+- [What is gotoHuman? A Practical Walkthrough with Example Implementation](https://dev.to/rithindattag/what-is-gotohuman-a-practical-walkthrough-with-example-implementation-100d)
+- [The 90-20-5 Focus Method: How Senior Devs Handle Deep Work Sessions](https://dev.to/teamcamp/the-90-20-5-focus-method-how-senior-devs-handle-deep-work-sessions-45df)
+- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐕𝐚𝐥𝐮𝐞-𝐎𝐛𝐣𝐞𝐜𝐭 𝐚𝐧𝐝 𝐇𝐨𝐰 𝐭𝐨 𝐬𝐭𝐨𝐫𝐞 𝐢𝐭 𝐢𝐧 𝐄𝐅 𝐂𝐨𝐫𝐞?](https://dev.to/shirin_monzavi_f3d63ff99d/--2a4m)
 - [A Practical Guide to Data Standards for Seamless Collaboration and Integrity](https://dev.to/agustinusnathaniel/a-practical-guide-to-data-standards-for-seamless-collaboration-and-integrity-138k)
-- [🧠 Analyzing SOLID Principles in an Epsilon-Greedy Recommender &lpar;Java&rpar;](https://dev.to/mahmoudabbasi/analyzing-solid-principles-in-an-epsilon-greedy-recommender-java-21lm)
-- [The Coming Shift From AI Models to AI Infrastructure](https://dev.to/leena_malhotra/the-coming-shift-from-ai-models-to-ai-infrastructure-4p2g)
-- [MiMo-Audio: Voice and Language Just Merged](https://dev.to/aiwithapex/mimo-audio-voice-and-language-just-merged-3727)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-1lf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
