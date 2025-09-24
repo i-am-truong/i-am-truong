@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rollout of granular OAuth consent for Editor add-ons](https://dev.to/googleworkspace/rollout-of-granular-oauth-consent-for-editor-add-ons-3knl)
+- [15 Essential Work From Home Tips to Stay Focused and Productive](https://dev.to/teamcamp/15-essential-work-from-home-tips-to-stay-focused-and-productive-2f31)
+- [Building a Flood Monitoring Dashboard with Django &amp; React](https://dev.to/gustipermanap/building-a-flood-monitoring-dashboard-with-django-react-2m4i)
 - [The Role of Graph Structure in LLM-Powered Applications](https://dev.to/grzegorz_dubiel_db99203fe/the-role-of-graph-structure-in-llm-powered-applications-2479)
 - [Database Connection Settings in Java: How to Optimize MongoDB Usage](https://dev.to/mahmoudabbasi/database-connection-settings-in-java-how-to-optimize-mongodb-usage-5ejn)
-- [What are some of the biggest product failures of the last decade?](https://dev.to/uladshauchenka/what-are-some-of-the-biggest-product-failures-of-the-last-decade-1e57)
-- [Who Governs Your NHIs? The Challenge of Defining Ownership in Modern Enterprise IT](https://dev.to/gitguardian/who-governs-your-nhis-the-challenge-of-defining-ownership-in-modern-enterprise-it-cd8)
-- [asdf ➡ mise](https://dev.to/piersroberts/asdf-mise-1nf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
