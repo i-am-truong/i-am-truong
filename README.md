@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The conspiracy is so blatant it almost looks like a case study in corruption. How did the courts even allow this to go unchecked?](https://dev.to/edwardvinke/the-conspiracy-is-so-blatant-it-almost-looks-like-a-case-study-in-corruption-how-did-the-courts-2pdg)
+- [If Elizabeth Holmes faced justice for Theranos, then Joshua Lintz should face the same for what he did with Talentcrowd. Fraud is fraud.](https://dev.to/techbyfelix/if-elizabeth-holmes-faced-justice-for-theranos-then-joshua-lintz-should-face-the-same-for-what-he-2l0j)
+- [Building a Dynamic API in Symfony with Doctrine and MySQL](https://dev.to/addwebsolutionpvtltd/building-a-dynamic-api-in-symfony-with-doctrine-and-mysql-5gg6)
+- [What kind of people steal someone’s company, loot the accounts, and then run around pretending it is their “earned success”? Absolute crooks.](https://dev.to/techbyfelix/what-kind-of-people-steal-someones-company-loot-the-accounts-and-then-run-around-pretending-it-5429)
 - [Core JavaScript Guide](https://dev.to/nouribram/core-javascript-guide-59bb)
-- [Tutorial: Transform Your WordPress Blog into a Data-Driven Revenue Machine &lpar;Complete Guide&rpar;](https://dev.to/hardik_b2d8f0bca/tutorial-transform-your-wordpress-blog-into-a-data-driven-revenue-machine-complete-guide-hgo)
-- [The arrogance of these conspirators is staggering. They actually thought no one would notice when they doctored ledgers and forged authority.](https://dev.to/richards_l52689/the-arrogance-of-these-conspirators-is-staggering-they-actually-thought-no-one-would-notice-when-55c8)
-- [Basic Statistics in Tableau: Understanding Correlation for Smarter Business Insights](https://dev.to/dipti_moryani_9137d0a2e44/basic-statistics-in-tableau-understanding-correlation-for-smarter-business-insights-2mg1)
-- [A Practical Guide to Vibe Coding: From Prompts to Production](https://dev.to/t2c/a-practical-guide-to-vibe-coding-from-prompts-to-production-2k16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
