@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Curious Coder to Confident AI Engineer: Building Real-World AI Agents](https://dev.to/onlineproxy/from-curious-coder-to-confident-ai-engineer-building-real-world-ai-agents-17l6)
-- [Why Poetry Contests Feel Like Daily Coding Challenges](https://dev.to/writing_contests_bf65ae77/why-poetry-contests-feel-like-daily-coding-challenges-24a)
-- [Setting Up a New Shop in Shopware: Multi-Sales-Channel Decisions Explained](https://dev.to/stefan-freelancer/setting-up-a-new-shop-in-shopware-multi-sales-channel-decisions-explained-13lp)
-- [AI-powered back-to-school assistant](https://dev.to/aniruddhaadak/ai-powered-back-to-school-assistant-23dm)
-- [9 AI primitives that simplify building AI agents](https://dev.to/thisismairaj/9-ai-primitives-that-simplify-building-ai-agents-3m1l)
+- [IGN: Hollow Knight: Silksong Boss Fight - Savage Beastfly &lpar;Grand Hunt, Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-savage-beastfly-grand-hunt-far-fields-5138)
+- [IGN: Star Trek: Voyager - Across the Unknown - Official Gameplay Trailer | Indie Fan Fest Fall 2025](https://dev.to/gg_news/ign-star-trek-voyager-across-the-unknown-official-gameplay-trailer-indie-fan-fest-fall-2025-49bi)
+- [IGN: Silly Polly Beast - Official Release Window Trailer | Top Hat Showcase 2025](https://dev.to/gg_news/ign-silly-polly-beast-official-release-window-trailer-top-hat-showcase-2025-348g)
+- [IGN: Cyberpunk 2077: Ultimate Edition - Official ‘New Ways to Play’ Nintendo Switch 2 Trailer](https://dev.to/gg_news/ign-cyberpunk-2077-ultimate-edition-official-new-ways-to-play-nintendo-switch-2-trailer-1319)
+- [IGN: 2XKO - Official Ahri Gameplay Trailer](https://dev.to/gg_news/ign-2xko-official-ahri-gameplay-trailer-1kcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
