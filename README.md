@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Guide to Vibe Coding: From Prompts to Production](https://dev.to/t2c/a-practical-guide-to-vibe-coding-from-prompts-to-production-2k16)
+- [The Unseen Realities of AI Content Moderation — And a Better Path Forward](https://dev.to/web4/the-unseen-realities-of-ai-content-moderation-and-a-better-path-forward-2nkj)
+- [Day-101 19 Essential Spring Boot Annotations](https://dev.to/tamilselvan1812/day-101-19-essential-spring-boot-annotations-232h)
+- [How to Update Node.js Versions on Windows?](https://dev.to/lucy1/how-to-update-nodejs-versions-on-windows-1j65)
 - [No questions? The cost of a missing &#39;?&#39; in your project](https://dev.to/pvsdev/no-questions-the-cost-of-a-missing-in-your-project-2b2m)
-- [API Gateways &lpar;Kong, Tyk, etc.&rpar;](https://dev.to/godofgeeks/api-gateways-kong-tyk-etc-2473)
-- [React redux](https://dev.to/mitchel_gitau_47346390a98/react-redux-5bjo)
-- [What’s Your Go-To Framework for Web Development?](https://dev.to/daniel_76f4e96b2e971bda84/whats-your-go-to-framework-for-web-development-1l4f)
-- [From Side Project to Profitable Niche: How I Monetized My Home Decor Blog Using Developer Skills](https://dev.to/hardik_b2d8f0bca/from-side-project-to-profitable-niche-how-i-monetized-my-home-decor-blog-using-developer-skills-5d32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
