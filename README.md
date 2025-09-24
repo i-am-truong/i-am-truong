@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP 8.5: The Version That Will Actually Makes Life Easier](https://dev.to/web_dev-usman/php-85-the-version-that-will-actually-makes-life-easier-aa0)
+- [Building an AI-native multi-model UI with SurrealDB](https://dev.to/surrealdb/building-an-ai-native-multi-model-ui-with-surrealdb-2eeh)
+- [Features your SaaS MVP Don&#39;t Need](https://dev.to/railsdesigner/features-your-saas-mvp-dont-need-4ggh)
 - [Obscura: la nueva y oscura variante de ransomware que pone en jaque a las empresas](https://dev.to/lucatonyraudales/obscura-la-nueva-y-oscura-variante-de-ransomware-que-pone-en-jaque-a-las-empresas-2op0)
 - [ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor &lpar;Step-by-Step&rpar;](https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd)
-- [6 New Gemini AI Prompts for Viral Nano Banana Photos of Men](https://dev.to/artificialintelligenceee/6-new-gemini-ai-prompts-for-viral-nano-banana-photos-of-men-6cb)
-- [O Código Aberto e a Arquitetura da Ideia: Uma Análise dos Movimentos Open Source e Software Livre](https://dev.to/mrpunkdasilva/o-codigo-aberto-e-a-arquitetura-da-ideia-uma-analise-dos-movimentos-open-source-e-software-livre-4hep)
-- [40 years in tech… and I feel like I’m just getting started. 😉](https://dev.to/aaronksaunders/40-years-in-tech-and-i-feel-like-im-just-getting-started-349n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
