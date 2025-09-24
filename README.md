@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Once, Deploy Everywhere: Deploying a .NET 8 API with Docker, AKS &amp; GitHub Actions](https://dev.to/ibrahimbioabu/build-once-deploy-everywhere-deploying-a-net-8-api-with-docker-aks-github-actions-4h4o)
 - [🚗 GrandMap: The GTA-Inspired Map Project Nobody Asked For &lpar;But I Built Anyway&rpar;](https://dev.to/swagking/grandmap-the-gta-inspired-map-project-nobody-asked-for-but-i-built-anyway-3p8k)
-- [ANOVA in R: A Complete Tutorial](https://dev.to/dipti_moryani_08e62702314/anova-in-r-a-complete-tutorial-4d6a)
-- [How Did We Get Here? Tracing AI&#39;s Journey](https://dev.to/mjubair/how-did-we-get-here-tracing-ais-journey-4jf1)
-- [Polyglot Dockerization: Java + Python + Vue in Local and Production](https://dev.to/mrmajed7/polyglot-dockerization-java-python-vue-in-local-and-production-5c22)
-- [The Night I Discovered I&#39;d Built Something Revolutionary &lpar;And Didn&#39;t Know It&rpar;](https://dev.to/homeless-coder/the-night-i-discovered-id-built-something-revolutionary-and-didnt-know-it-2oik)
+- [Check out this guide on Exploratory Factor Analysis !!](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-guide-on-exploratory-factor-analysis--36h0)
+- [Verified TransferWise Account](https://dev.to/cms_gma_c489e7ff39d1a4cb0/verified-transferwise-account-14le)
+- [Check out this tutorial on ANOVA](https://dev.to/dipti_moryani_08e62702314/check-out-this-tutorial-on-anova-hok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
