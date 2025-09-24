@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Minimal Python scanner](https://dev.to/vb_nair/minimal-python-scanner-1nhf)
-- [AI Coding: The Future of Software Development or Just Hype?](https://dev.to/sanjaynaker/ai-coding-the-future-of-software-development-or-just-hype-1mci)
-- [The FasTag works on which Technology](https://dev.to/syeda_khatija_ce3d1f3f681/the-fastag-works-on-which-technology-4ifg)
-- [Optimizing Images in Nuxt 3: A Complete Guide to Better Performance](https://dev.to/blamsa0mine/optimizing-images-in-nuxt-3-a-complete-guide-to-better-performance-4h1i)
-- [Offshore IoT Team: Build Smarter, Faster, Cheaper](https://dev.to/nirav_panchal_e531c758f1d/offshore-iot-team-build-smarter-faster-cheaper-5aak)
+- [Demystifying Async/Await in .NET](https://dev.to/marian_s/demystifying-asyncawait-in-net-5ni)
+- [Optimizing Home Automation: How Smart Thermostats and Furnace Integration Improve Winter Comfort](https://dev.to/dev_tech/optimizing-home-automation-how-smart-thermostats-and-furnace-integration-improve-winter-comfort-37en)
+- [The Complete Guide to Creating User-Friendly Mobile Navigation in 2025](https://dev.to/secuodsoft/the-complete-guide-to-creating-user-friendly-mobile-navigation-in-2025-4l8b)
+- [What If Your Next Prescription Was Designed by Artificial Intelligence?](https://dev.to/skyappz_software/what-if-your-next-prescription-was-designed-by-artificial-intelligence-5g1o)
+- [Easy SEO for lazy programmers](https://dev.to/davorg/easy-seo-for-lazy-programmers-2lb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
