@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka — Deep Dive: Core Concepts, Data-Engineering Applications, and Real-World Production Practices](https://dev.to/kemboijebby/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1il3)
-- [How to Insert Sound in HTML](https://dev.to/udanielnogueira/how-to-insert-sound-in-html-3edg)
-- [Private Certificate Authorities: Building Trust Inside Your Organization](https://dev.to/dcs-soni/private-certificate-authorities-building-trust-inside-your-organization-4dkk)
-- [The Future of Quality Assurance: AI Testing Explained](https://dev.to/prashant_hatekar_80220bb4/the-future-of-quality-assurance-ai-testing-explained-32bd)
-- [Understanding the SOLID Principles: A Practical Guide for Better Code](https://dev.to/aranka_maxilo_55bab8ad3c3/understanding-the-solid-principles-a-practical-guide-for-better-code-c7)
+- [10 best MCP servers to take your Chatgpt experience to next level](https://dev.to/composiodev/10-best-mcp-servers-to-take-your-chatgpt-experience-to-next-level-19k6)
+- [Jopi Rewrite + Docker = so easy!](https://dev.to/johanpiquet/jopi-rewrite-docker-so-easy-7o9)
+- [Building an AI MVP: Why It’s Exciting, Risky &lpar;and Worth Trying Anyway&rpar;](https://dev.to/synergy_shock/building-an-ai-mvp-why-its-exciting-risky-and-worth-trying-anyway-56a0)
+- [**Breaking the &#39;Greedy&#39; Trap: Why a &#39;Burn-in&#39; Phase Matters](https://dev.to/drcarlosruizviquez/breaking-the-greedy-trap-why-a-burn-in-phase-matters-37n8)
+- [**Unlocking the Power of Prompt Engineering with Hugging Fac](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-prompt-engineering-with-hugging-fac-2dh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
