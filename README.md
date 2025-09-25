@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI coding anti-patterns: 6 things to avoid for better AI coding](https://dev.to/lingodotdev/ai-coding-anti-patterns-6-things-to-avoid-for-better-ai-coding-f3e)
-- [Part-81: Kubernetes — PODs &lpar;Imperative Way&rpar; Demo](https://dev.to/latchudevops/part-81-kubernetes-pods-imperative-way-demo-5al4)
-- [Cara Membuat Plagiarism Checker &lpar;Bahasa Indonesia&rpar; — step-by-step &lpar;Postgres + Qdrant + sentence-transformers + Nuxt&rpar;](https://dev.to/kamilersz/cara-membuat-plagiarism-checker-bahasa-indonesia-step-by-step-postgres-qdrant--hfj)
-- [API開発に必須のMock、その課題とEchoAPIによる答え](https://dev.to/waterlily_0f365e5fadded0f/apikai-fa-nibi-xu-nomock-sonoke-ti-toechoapiniyoruda-e-35h)
-- [My First NFT Creation Journey - From Zero to Digital Artist!](https://dev.to/bolewara/my-first-nft-creation-journey-from-zero-to-digital-artist-395i)
+- [Stop Using `localStorage` for Everything – Here&#39;s What to Use Instead](https://dev.to/dmsmenula/stop-using-localstorage-for-everything-heres-what-to-use-instead-5f59)
+- [What is promise in Javascript](https://dev.to/2021_cse_gayathrir_e733/what-is-promise-in-javascript-48n7)
+- [Managing Climbing Partnerships: Communication Tips by Avid Mountaineers including Cesar Alcantara Chula Vista](https://dev.to/cesar12/managing-climbing-partnerships-communication-tips-by-avid-mountaineers-including-cesar-alcantara-571k)
+- [What is react](https://dev.to/2021_cse_gayathrir_e733/what-is-react-44ji)
+- [Note to Self: Reflecting on My Git Workflow](https://dev.to/tori10cocco/note-to-self-reflecting-on-my-git-workflow-1mba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
