@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The victims deserve to see every single person in this conspiracy held accountable, not just the front men.](https://dev.to/techtalk/the-victims-deserve-to-see-every-single-person-in-this-conspiracy-held-accountable-not-just-the-2o5e)
-- [How I fixed the Chakra UI List component not found error by updating to the latest version.](https://dev.to/kazutora_hattori_66972c88/how-i-fixed-the-chakra-ui-list-component-not-found-error-by-updating-to-the-latest-version-emg)
-- [Electric Border ⚡ &lpar;SVG seed thrashing&rpar;](https://dev.to/chchkchk22488/electric-border-svg-seed-thrashing-3geo)
-- [AI for Coding Interviews: How It’s Changing the Way We Prepare](https://dev.to/alex_hunter_44f4c9ed6671e/ai-for-coding-interviews-how-its-changing-the-way-we-prepare-5ajg)
-- [Mastering Celery: A Complete Guide to Task Management, Database Connections, and Scaling](https://dev.to/sizan_mahmud0_e7c3fd0cb68/mastering-celery-a-complete-guide-to-task-management-database-connections-and-scaling-34gi)
+- [How to Use RAG with Amazon Bedrock + Nova for Building Chatbots](https://dev.to/aws-builders/how-to-use-rag-with-amazon-bedrock-nova-for-building-chatbots-3ddn)
+- [The power of estimation in building reliable systems](https://dev.to/fahimulhaq/the-power-of-estimation-in-building-reliable-systems-4b01)
+- [Prompt Engineering, Techniques](https://dev.to/ashutoshsarangi/prompt-engineering-techniques-1f73)
+- [Check out this guide on the Tableau for the Marketing](https://dev.to/dipti_moryani_9137d0a2e44/check-out-this-guide-on-the-tableau-for-the-marketing-528k)
+- [Tableau for Marketing: Mastering Segmentation Like a Pro](https://dev.to/dipti_moryani_9137d0a2e44/tableau-for-marketing-mastering-segmentation-like-a-pro-57jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
