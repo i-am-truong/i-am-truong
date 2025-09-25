@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Level 2 of Teacher Assistant App – Streamlined Classroom Management](https://dev.to/manjushaps/level-2-of-teacher-assistant-app-streamlined-classroom-management-2hmi)
-- [🐍 Fix Pyenv Messing Up Your Distrobox &lpar;Pop!_OS, Ubuntu, Fedora, etc.&rpar;](https://dev.to/bseyfi/fix-pyenv-messing-up-your-distrobox-popos-ubuntu-fedora-etc-22am)
-- [Medusa Checkout Flow: Step-by-Step Guide to Building a Complete E-Commerce Checkout](https://dev.to/u11d/medusa-checkout-flow-step-by-step-guide-to-building-a-complete-e-commerce-checkout-lfl)
-- [Building a Full-Stack User Management System with Prisma and Vue 3 &lpar;Nuxt 3&rpar;](https://dev.to/blamsa0mine/building-a-full-stack-user-management-system-with-prisma-and-vue-3-nuxt-3-47h4)
-- [Turning Rejection Into Motivation: My Journey to Cloud Engineering](https://dev.to/hinocode/turning-rejection-into-motivation-my-journey-to-cloud-engineering-4a9h)
+- [IGN: Avatar: Fire and Ash - Official Trailer #2 &lpar;2025&rpar; Sam Worthington, Zoe Saldaña, Sigourney Weaver](https://dev.to/gg_news/ign-avatar-fire-and-ash-official-trailer-2-2025-sam-worthington-zoe-saldana-sigourney-2af0)
+- [Shadcn Studio - An Open Source Shadcn/ui Library is Here 🚀](https://dev.to/theme_selection/shadcn-studio-an-open-source-shadcnui-library-is-here-1fpn)
+- [IGN: Ghost of Yotei - Official Launch Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-launch-trailer-2bil)
+- [IGN: Five Years In, Xbox Is More Expensive Than Ever - Unlocked Clips](https://dev.to/gg_news/ign-five-years-in-xbox-is-more-expensive-than-ever-unlocked-clips-4cf3)
+- [AI vs AGI: Simple Guide to the Future of Artificial Intelligence](https://dev.to/amttawsik/ai-vs-agi-simple-guide-to-the-future-of-artificial-intelligence-212g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
