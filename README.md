@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What It Really Takes to Build and Sustain a Successful AI Art App](https://dev.to/glebtkatchouk/what-it-really-takes-to-build-and-sustain-a-successful-ai-art-app-4e98)
 - [Private 5G in India: What It Means for Backend Engineers What is Private 5G?](https://dev.to/aakash_shrivas_0806333bbe/private-5g-in-india-what-it-means-for-backend-engineerswhat-is-private-5g-5doh)
-- [How Blind People Navigate the World, On and Offline](https://dev.to/laura-wissiak/how-blind-people-navigate-the-world-on-and-offline-1h76)
+- [How Blind People Navigate the World, On and Offline, with Screen Readers and White Canes](https://dev.to/laura-wissiak/how-blind-people-navigate-the-world-on-and-offline-1h76)
 - [Fast and Safe: Optimizing AI Coding Agent Workflows](https://dev.to/wisdomudo/fast-and-safe-optimizing-ai-coding-agent-workflows-4731)
 - [🚗💻 A key finding from recent synthetic data research is that](https://dev.to/drcarlosruizviquez/a-key-finding-from-recent-synthetic-data-research-is-that-5bfa)
-- [🎓 &quot;Avatarization&quot;: Revolutionizing Digital Identities in Vir](https://dev.to/drcarlosruizviquez/avatarization-revolutionizing-digital-identities-in-vir-om6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
