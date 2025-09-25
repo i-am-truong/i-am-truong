@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-480m)
+- [Demystifying Principal Component Analysis &lpar;PCA&rpar;: A Practical Guide with Real-World Insights](https://dev.to/dipti_moryani_185c244d578/demystifying-principal-component-analysis-pca-a-practical-guide-with-real-world-insights-4c8f)
+- [How to Tail Docker Logs?](https://dev.to/signoz/how-to-tail-docker-logs-3hp6)
 - [How to Use RAG with Amazon Bedrock + Nova for Building Chatbots](https://dev.to/aws-builders/how-to-use-rag-with-amazon-bedrock-nova-for-building-chatbots-3ddn)
 - [The power of estimation in building reliable systems](https://dev.to/fahimulhaq/the-power-of-estimation-in-building-reliable-systems-4b01)
-- [Prompt Engineering, Techniques](https://dev.to/ashutoshsarangi/prompt-engineering-techniques-1f73)
-- [Check out this guide on the Tableau for the Marketing](https://dev.to/dipti_moryani_9137d0a2e44/check-out-this-guide-on-the-tableau-for-the-marketing-528k)
-- [Tableau for Marketing: Mastering Segmentation Like a Pro](https://dev.to/dipti_moryani_9137d0a2e44/tableau-for-marketing-mastering-segmentation-like-a-pro-57jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
