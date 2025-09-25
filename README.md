@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to perform numeric comparisons on string fields with units in MongoDB/Mongoose?](https://dev.to/jai_aakash_f1ce1de2d5ce13/how-to-perform-numeric-comparisons-on-string-fields-with-units-in-mongodbmongoose-1igm)
-- [what is CSS ?](https://dev.to/kirubagaran_k_438a86c991/what-is-css--391n)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-l8g)
-- [No More ‘Sorry, I Was on Mute’: How I built a DIY hardware solution for Google Meet with ESP32-S3](https://dev.to/rolandostar/no-more-sorry-i-was-on-mute-how-i-built-a-diy-hardware-solution-for-google-meet-with-esp32-s3-1ohh)
-- [APM v0.4 - An extension to Spec-driven Development with Multi-Agent Coordination](https://dev.to/sdi2200262/apm-v04-an-extension-to-spec-driven-development-with-multi-agent-coordination-2930)
+- [Increasing Your Website Authority &lpar;DA, DR &amp; AS Explained&rpar;](https://dev.to/lovestaco/increasing-your-website-authority-da-dr-as-explained-334m)
+- [Observer Pattern in Clprolf: Clear Roles for Notifications](https://dev.to/charles_koffler_bcabc582b/observer-pattern-in-clprolf-clear-roles-for-notifications-576k)
+- [[Boost]](https://dev.to/uliyahoo/-16c0)
+- [Announcing Jaxon version 5](https://dev.to/tiaya/announcing-jaxon-version-5-2m6k)
+- [How I Cut SaaS Development Time from Months to Hours with This Template](https://dev.to/eibrahim/how-i-cut-saas-development-time-from-months-to-hours-with-this-template-403g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
