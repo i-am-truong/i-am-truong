@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Scheduled Automated Backups for DevOps and SaaS](https://dev.to/gitprotect/the-power-of-scheduled-automated-backups-for-devops-and-saas-3lp7)
-- [System Design Docs for Flutter Mobile Teams: A Brutal Guide](https://dev.to/supejuice/system-design-docs-for-flutter-mobile-teams-a-brutal-guide-mm9)
-- [5 Practical AI Stacks for Anyone Not Named Google](https://dev.to/prithwish_nath/5-practical-ai-stacks-for-anyone-not-named-google-3nh1)
-- [I Connected 3 MCP Servers to Claude &amp; Built a No-Code Research Agent That Actually Cites Sources](https://dev.to/prithwish_nath/i-connected-3-mcp-servers-to-claude-built-a-no-code-research-agent-that-actually-cites-sources-4lfn)
-- [I Built a System to Generate Professional Travel Guides Using AI—Here&#39;s the Blueprint](https://dev.to/huizhudev/i-built-a-system-to-generate-professional-travel-guides-using-ai-heres-the-blueprint-51b)
+- [Passkeys Without the Pain: A Frontend Dev’s Guide](https://dev.to/highflyer910/passkeys-without-the-pain-a-frontend-devs-guide-276k)
+- [Best 10 Web Development Companies in India 2025](https://dev.to/santosh_avarolli_211d700e/best-10-web-development-companies-in-india-2025-27ac)
+- [Security, Privacy, and Trust in Web3 Systems](https://dev.to/cubewire_9e012791e51c042b/security-privacy-and-trust-in-web3-systems-10nn)
+- [Proof Before Promises: A Human-Centered Release Method for Small Engineering Teams](https://dev.to/sonia_bobrik_1939cdddd79d/proof-before-promises-a-human-centered-release-method-for-small-engineering-teams-10nn)
+- [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
