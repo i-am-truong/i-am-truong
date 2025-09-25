@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Libraries to speed up development - Every developer should know](https://dev.to/codedthemes/reactjs-libraries-to-speed-up-development-every-developer-should-know-1196)
-- [That Decision Makes No Sense!](https://dev.to/bid_solution/that-decision-makes-no-sense-3mn7)
-- [Parin Game Engine Devlog – September 2025](https://dev.to/kapendev/parin-game-engine-devlog-september-2025-517o)
-- [Agentic AI vs. Traditional Automation: Understanding the Shift](https://dev.to/brains_behind_bots/agentic-ai-vs-traditional-automation-understanding-the-shift-1l1h)
-- [released: active_record_compose 1.0.0 — Wrap multiple models with an ActiveModel interface](https://dev.to/hamajyotan/released-activerecordcompose-100-wrap-multiple-models-with-an-activemodel-interface-347a)
+- [Tokenization and Blockchain Building the Architecture of Future Trade Finance Infrastructure](https://dev.to/albert_beckles_a6207bb8e1/tokenization-and-blockchain-building-the-architecture-of-future-trade-finance-infrastructure-6i)
+- [Understanding Callback Functions in JavaScript](https://dev.to/rowleks/understanding-callback-functions-in-javascript-1fk0)
+- [10 Mistakes I Made Early in My Full-Stack Career &lpar;And What You Can Learn From Them](https://dev.to/sandeeppall/10-mistakes-i-made-early-in-my-full-stack-career-and-what-you-can-learn-from-them-481c)
+- [Tips for Growing Your Career as a Remote Data Scientist](https://dev.to/daniel_martin_82a44024fe2/tips-for-growing-your-career-as-a-remote-data-scientist-5d69)
+- [How I Still Partition My Drives for Streamlined Backup, Migration, and Failure Recovery](https://dev.to/pchemguy/how-i-still-partition-my-drives-for-streamlined-backup-migration-and-failure-recovery-3pj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
