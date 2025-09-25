@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Date de Domingo](https://dev.to/edson_morales_dd47d779a67/date-de-domingo-3a0d)
-- [Building a HIPAA-Compliant Chatbot with AWS Lambda &amp; Bedrock](https://dev.to/lahari_nandipati_aae7627d/building-a-hipaa-compliant-chatbot-with-aws-lambda-bedrock-3b4a)
-- [GIVEAWAY + GOOD BOY UPDATE!](https://dev.to/beginarjun/giveaway-good-boy-update-20c3)
-- [Git diff em Ação: Analisando e Compreendendo Alterações no Seu Repositório](https://dev.to/williane_felix/git-diff-em-acao-analisando-e-compreendendo-alteracoes-no-seu-repositorio-n5m)
-- [Learn AI Independently: How to Use ChatGPT and Other Tools to Understand a Technical Book](https://dev.to/masudio/learn-ai-independently-how-to-use-chatgpt-and-other-tools-to-understand-a-technical-book-1ep8)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-2f99)
+- [7 Tips for Hardening TLS on Nginx for Secure Web Traffic and Performance](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-tls-on-nginx-for-secure-web-traffic-and-performance-12o8)
+- [Why Choose Next.js? A Beginner&#39;s Guide to Modern Web Development 🚀](https://dev.to/xzyvron/why-choose-nextjs-a-beginners-guide-to-modern-web-development-267h)
+- [How to Save Money with Amazon S3: Storage Classes, Use Cases, and Optimization Tips](https://dev.to/brayanarrieta/how-to-save-money-with-amazon-s3-storage-classes-use-cases-and-optimization-tips-c88)
+- [10 JavaScript One-Liners Every Developer Should Know &lpar;2025 Edition&rpar;](https://dev.to/kushyarr7/10-javascript-one-liners-every-developer-should-know-2025-edition-12jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
