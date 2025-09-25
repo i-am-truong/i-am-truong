@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Increasing Your Website Authority &lpar;DA, DR &amp; AS Explained&rpar;](https://dev.to/lovestaco/increasing-your-website-authority-da-dr-as-explained-334m)
-- [Observer Pattern in Clprolf: Clear Roles for Notifications](https://dev.to/charles_koffler_bcabc582b/observer-pattern-in-clprolf-clear-roles-for-notifications-576k)
-- [[Boost]](https://dev.to/uliyahoo/-16c0)
-- [Announcing Jaxon version 5](https://dev.to/tiaya/announcing-jaxon-version-5-2m6k)
-- [How I Cut SaaS Development Time from Months to Hours with This Template](https://dev.to/eibrahim/how-i-cut-saas-development-time-from-months-to-hours-with-this-template-403g)
+- [Building a HIPAA-Compliant Chatbot with AWS Lambda &amp; Bedrock](https://dev.to/lahari_nandipati_aae7627d/building-a-hipaa-compliant-chatbot-with-aws-lambda-bedrock-3b4a)
+- [GIVEAWAY + GOOD BOY UPDATE!](https://dev.to/beginarjun/giveaway-good-boy-update-20c3)
+- [Learn AI Independently: How to Use ChatGPT and Other Tools to Understand a Technical Book](https://dev.to/masudio/learn-ai-independently-how-to-use-chatgpt-and-other-tools-to-understand-a-technical-book-1ep8)
+- [How to Instantly Unblock Your AI Dev Tool: The GitHub Issues Prompt](https://dev.to/aaronksaunders/how-to-instantly-unblock-your-ai-dev-tool-the-github-issues-prompt-2efl)
+- [📰 Major Tech News: September 25, 2025](https://dev.to/om_shree_0709/major-tech-news-september-25-2025-5h38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
