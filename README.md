@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [11+ Best Replit AI Alternatives in 2025](https://dev.to/vinishbhaskar/best-replit-ai-alternatives-175h)
-- [What is object](https://dev.to/2021_cse_gayathrir_e733/what-is-object-3pd0)
-- [REST vs GraphQL: Side-by-Side Analysis with Real-World Examples &amp; Proven Best Practices](https://dev.to/m-a-h-b-u-b/rest-vs-graphql-side-by-side-analysis-with-real-world-examples-proven-best-practices-47i3)
-- [What is CSS](https://dev.to/2021_cse_gayathrir_e733/what-is-css-477)
-- [What is HTML](https://dev.to/2021_cse_gayathrir_e733/what-is-html-2a7p)
+- [🧠Building AI Beyond the Hype](https://dev.to/marcosomma/building-ai-beyond-the-hype-3b77)
+- [Open source project ESP32 Bus Pirate - A Hardware Hacking Tool That Speaks Every Protocol](https://dev.to/geo_tp/open-source-project-esp32-bus-pirate-a-hardware-hacking-tool-that-speaks-every-protocol-24gl)
+- [Building a PDF Parser for HDFC Bank Statements: From 165 Pages to CSV in Minutes](https://dev.to/vishwaraja_pathivishwa/building-a-pdf-parser-for-hdfc-bank-statements-from-165-pages-to-csv-in-minutes-34c6)
+- [Why Every Developer Should Learn Systems Thinking](https://dev.to/dct_technology/why-every-developer-should-learn-systems-thinking-m0j)
+- [Understanding NVIDIA GPU Clusters: Architecture, Functionality, and Applications](https://dev.to/cyfuture-ai/understanding-nvidia-gpu-clusters-architecture-functionality-and-applications-2l6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
