@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Histograms in R: A Comprehensive Guide](https://dev.to/anshuman_816f8012be0c9b6c/how-to-create-histograms-in-r-a-comprehensive-guide-3hb0)
 - [Shaming people for using AI, but...](https://dev.to/mdohr07/shaming-people-for-using-ai-but-1gif)
 - [15 Best Infrastructure Monitoring Tools in 2025](https://dev.to/signoz/15-best-infrastructure-monitoring-tools-in-2025-43dm)
 - [Fixing Upstream Connect Errors &lpar;Docker, Kubernetes, Spring Boot &amp; More&rpar;](https://dev.to/signoz/fixing-upstream-connect-errors-docker-kubernetes-spring-boot-more-1j80)
 - [Observability Without a Framework Is Just Noise](https://dev.to/tomjohnson3/observability-without-a-framework-is-just-noise-1jk5)
-- [Box of bugs &lpar;emulated&rpar;](https://dev.to/pvsdev/box-of-bugs-emulated-elh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
