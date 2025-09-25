@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 best MCP servers to take your Chatgpt experience to next level](https://dev.to/composiodev/10-best-mcp-servers-to-take-your-chatgpt-experience-to-next-level-19k6)
-- [Jopi Rewrite + Docker = so easy!](https://dev.to/johanpiquet/jopi-rewrite-docker-so-easy-7o9)
-- [Building an AI MVP: Why It’s Exciting, Risky &lpar;and Worth Trying Anyway&rpar;](https://dev.to/synergy_shock/building-an-ai-mvp-why-its-exciting-risky-and-worth-trying-anyway-56a0)
-- [**Breaking the &#39;Greedy&#39; Trap: Why a &#39;Burn-in&#39; Phase Matters](https://dev.to/drcarlosruizviquez/breaking-the-greedy-trap-why-a-burn-in-phase-matters-37n8)
-- [**Unlocking the Power of Prompt Engineering with Hugging Fac](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-prompt-engineering-with-hugging-fac-2dh5)
+- [Private 5G in India: What It Means for Backend Engineers What is Private 5G?](https://dev.to/aakash_shrivas_0806333bbe/private-5g-in-india-what-it-means-for-backend-engineerswhat-is-private-5g-5doh)
+- [How Blind People Navigate the World, On and Offline](https://dev.to/laura-wissiak/how-blind-people-navigate-the-world-on-and-offline-1h76)
+- [Fast and Safe: Optimizing AI Coding Agent Workflows](https://dev.to/wisdomudo/fast-and-safe-optimizing-ai-coding-agent-workflows-4731)
+- [🚗💻 A key finding from recent synthetic data research is that](https://dev.to/drcarlosruizviquez/a-key-finding-from-recent-synthetic-data-research-is-that-5bfa)
+- [🎓 &quot;Avatarization&quot;: Revolutionizing Digital Identities in Vir](https://dev.to/drcarlosruizviquez/avatarization-revolutionizing-digital-identities-in-vir-om6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
