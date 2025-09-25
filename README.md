@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Type-Safe SVGs with Mirrow: A New DSL for Modern Frontend Graphics](https://dev.to/osa_mannella/type-safe-svgs-with-mirrow-a-new-dsl-for-modern-frontend-graphics-27bj)
-- [🛠️Golang Source Code Essentials, Part 0: Compiler Directives &amp; Build Tags⚡](https://dev.to/arshiargh/golang-source-code-essentials-part-0-compiler-directives-build-tags-4j74)
-- [Amazon Bestsellers Scraper – Extract Top Product Data with Ease](https://dev.to/zegham_ali_87389465b32f38/amazon-bestsellers-scraper-extract-top-product-data-with-ease-312n)
-- [The Sunset of General-Purpose Apps: Why Bespoke Tools are the Future](https://dev.to/hamdi_laadhari/the-sunset-of-general-purpose-apps-why-bespoke-tools-are-the-future-lip)
-- [Create and use Dataflows &lpar;Gen2&rpar; in Microsoft Fabric](https://dev.to/lotanna_obianefo/create-and-use-dataflows-gen2-in-microsoft-fabric-4gnk)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2464)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-3a11)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-om6)
+- [GameSpot: Ananta | Official 10 Minute Gameplay Trailer](https://dev.to/gg_news/gamespot-ananta-official-10-minute-gameplay-trailer-12nl)
+- [GameSpot: Monster Hunter Wilds x Final Fantasy XIV Omega Planetes Gameplay](https://dev.to/gg_news/gamespot-monster-hunter-wilds-x-final-fantasy-xiv-omega-planetes-gameplay-734)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
