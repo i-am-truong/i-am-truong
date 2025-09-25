@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux Fundamentals for DevOps &amp; SRE: The Only Guide You&#39;ll Ever Need](https://dev.to/mohammed_yasirkhan_9fc2d/linux-fundamentals-for-devops-sre-the-only-guide-youll-ever-need-2de6)
-- [Building a GUI Tool to Easily Tune Dynamsoft Barcode Reader Parameters](https://dev.to/yushulx/building-a-gui-tool-to-easily-tune-dynamsoft-barcode-reader-parameters-5b1f)
-- [How to connect Raspberry Pi to wifi using ssh in command line?](https://dev.to/carolineee/how-to-connect-raspberry-pi-to-wifi-using-ssh-in-command-line-2bm8)
-- [WTF is Geo-Distributed Databases?](https://dev.to/dailybugle33/wtf-is-geo-distributed-databases-3c00)
-- [Leveling Up: Returning JSON in my first Spring Boot REST API](https://dev.to/aizen_361318289b2cfb166e2/leveling-up-returning-json-in-my-first-spring-boot-rest-api-2d61)
+- [Best WordPress Image Optimization Plugins for 2025](https://dev.to/andreialba/best-wordpress-image-optimization-plugins-for-2025-46ci)
+- [Privacy for subdomains: the problem](https://dev.to/nfrankel/privacy-for-subdomains-the-problem-18ek)
+- [Master React :](https://dev.to/dev_abdulhaseeb/master-react--23lk)
+- [Rust Send and Sync in Simple terms](https://dev.to/masteringbackend/rust-send-and-sync-in-simple-terms-2njp)
+- [CI/CD is Dead. Platform Engineering Killed It.](https://dev.to/leonardkachi/cicd-is-dead-platform-engineering-killed-it-bmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
