@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tokenization and Blockchain Building the Architecture of Future Trade Finance Infrastructure](https://dev.to/albert_beckles_a6207bb8e1/tokenization-and-blockchain-building-the-architecture-of-future-trade-finance-infrastructure-6i)
-- [Understanding Callback Functions in JavaScript](https://dev.to/rowleks/understanding-callback-functions-in-javascript-1fk0)
-- [10 Mistakes I Made Early in My Full-Stack Career &lpar;And What You Can Learn From Them](https://dev.to/sandeeppall/10-mistakes-i-made-early-in-my-full-stack-career-and-what-you-can-learn-from-them-481c)
-- [Tips for Growing Your Career as a Remote Data Scientist](https://dev.to/daniel_martin_82a44024fe2/tips-for-growing-your-career-as-a-remote-data-scientist-5d69)
-- [How I Still Partition My Drives for Streamlined Backup, Migration, and Failure Recovery](https://dev.to/pchemguy/how-i-still-partition-my-drives-for-streamlined-backup-migration-and-failure-recovery-3pj7)
+- [Building a Full-Stack User Management System with Prisma and Vue 3 &lpar;Nuxt 3&rpar;](https://dev.to/blamsa0mine/building-a-full-stack-user-management-system-with-prisma-and-vue-3-nuxt-3-47h4)
+- [Turning Rejection Into Motivation: My Journey to Cloud Engineering](https://dev.to/hinocode/turning-rejection-into-motivation-my-journey-to-cloud-engineering-4a9h)
+- [How I Built Real-Time Collaboration for a Diagramming Tool](https://dev.to/martin-staufcik/how-i-built-real-time-collaboration-for-a-diagramming-tool-414o)
+- [Deep Dive into ECS Task Definitions: The Blueprint of Your Containers](https://dev.to/oncloud7/deep-dive-into-ecs-task-definitions-the-blueprint-of-your-containers-io7)
+- [Build a Frontend for your ADK Agents with AG-UI](https://dev.to/copilotkit/build-a-frontend-for-your-adk-agents-with-ag-ui-2alo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
