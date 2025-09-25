@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Code Review Experience as a Junior Developer: What I Learned and How to Review as a Team?](https://dev.to/sumonta056/my-code-review-experience-as-a-junior-developer-what-i-learned-and-how-to-review-as-a-team-25ap)
 - [Stop Using `localStorage` for Everything – Here&#39;s What to Use Instead](https://dev.to/dmsmenula/stop-using-localstorage-for-everything-heres-what-to-use-instead-5f59)
 - [What is promise in Javascript](https://dev.to/2021_cse_gayathrir_e733/what-is-promise-in-javascript-48n7)
 - [Managing Climbing Partnerships: Communication Tips by Avid Mountaineers including Cesar Alcantara Chula Vista](https://dev.to/cesar12/managing-climbing-partnerships-communication-tips-by-avid-mountaineers-including-cesar-alcantara-571k)
 - [What is react](https://dev.to/2021_cse_gayathrir_e733/what-is-react-44ji)
-- [Note to Self: Reflecting on My Git Workflow](https://dev.to/tori10cocco/note-to-self-reflecting-on-my-git-workflow-1mba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
