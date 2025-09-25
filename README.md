@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🏁ASPICE Literacy: Episode 6 — Process Tailoring: Goldilocks &amp; the Three Processes — Not Too Heavy, Not Too Light, Just Right ⚖️🥣](https://dev.to/abdulosman/aspice-literacy-episode-6-process-tailoring-goldilocks-the-three-processes-not-too-heavy-be)
-- [TIL: Clustered and Non-clustered indices in SQL](https://dev.to/vishnukn01/til-clustered-and-non-clustered-indices-in-sql-4ndh)
-- [Adaptive Terrain Intelligence and Navigation](https://dev.to/dedipya_sade_ded044996b1a/adaptive-terrain-intelligence-and-navigation-76j)
-- [NodeJS Security Best Practices](https://dev.to/ishikha_rao/nodejs-security-best-practices-2f70)
-- [My Post Title](https://dev.to/atharva_shinde_008/my-post-title-eh7)
+- [Linux Fundamentals for DevOps &amp; SRE: The Only Guide You&#39;ll Ever Need](https://dev.to/mohammed_yasirkhan_9fc2d/linux-fundamentals-for-devops-sre-the-only-guide-youll-ever-need-2de6)
+- [Building a GUI Tool to Easily Tune Dynamsoft Barcode Reader Parameters](https://dev.to/yushulx/building-a-gui-tool-to-easily-tune-dynamsoft-barcode-reader-parameters-5b1f)
+- [How to connect Raspberry Pi to wifi using ssh in command line?](https://dev.to/carolineee/how-to-connect-raspberry-pi-to-wifi-using-ssh-in-command-line-2bm8)
+- [WTF is Geo-Distributed Databases?](https://dev.to/dailybugle33/wtf-is-geo-distributed-databases-3c00)
+- [Leveling Up: Returning JSON in my first Spring Boot REST API](https://dev.to/aizen_361318289b2cfb166e2/leveling-up-returning-json-in-my-first-spring-boot-rest-api-2d61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
