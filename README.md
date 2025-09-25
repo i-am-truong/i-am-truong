@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Avatar: Fire and Ash - Official Trailer #2 &lpar;2025&rpar; Sam Worthington, Zoe Saldaña, Sigourney Weaver](https://dev.to/gg_news/ign-avatar-fire-and-ash-official-trailer-2-2025-sam-worthington-zoe-saldana-sigourney-2af0)
-- [Shadcn Studio - An Open Source Shadcn/ui Library is Here 🚀](https://dev.to/theme_selection/shadcn-studio-an-open-source-shadcnui-library-is-here-1fpn)
-- [IGN: Ghost of Yotei - Official Launch Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-launch-trailer-2bil)
-- [IGN: Five Years In, Xbox Is More Expensive Than Ever - Unlocked Clips](https://dev.to/gg_news/ign-five-years-in-xbox-is-more-expensive-than-ever-unlocked-clips-4cf3)
-- [AI vs AGI: Simple Guide to the Future of Artificial Intelligence](https://dev.to/amttawsik/ai-vs-agi-simple-guide-to-the-future-of-artificial-intelligence-212g)
+- [Understanding the SOLID Principles: A Practical Guide for Better Code](https://dev.to/aranka_maxilo_55bab8ad3c3/understanding-the-solid-principles-a-practical-guide-for-better-code-c7)
+- [The Cloud Resume Challenge: My GCP Implementation](https://dev.to/temitayo_apata_2f90bc51d3/the-cloud-resume-challenge-my-gcp-implementation-4ke0)
+- [Turbo in Rails: A Simple Guide to Drive, Frames, and Streams](https://dev.to/railsfactory_sedin/turbo-in-rails-a-simple-guide-to-drive-frames-and-streams-39o)
+- [Odoo Manufacturing Module Explained: Features, Benefits, and Use Cases](https://dev.to/iprogrammer_solutionspvt/odoo-manufacturing-module-explained-features-benefits-and-use-cases-506j)
+- [Serverless applications with Java and Aurora DSQL - Part 2 Using Aurora DSQL JDBC Connector](https://dev.to/aws-heroes/serverless-applications-with-java-and-aurora-dsql-part-2-using-aurora-dsql-jdbc-connector-eaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
