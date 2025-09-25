@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the SOAP Declaration in Uniface 10.4 🚀](https://dev.to/petercode/understanding-the-soap-declaration-in-uniface-104-go5)
 - [How AI is Transforming Marketing Visuals](https://dev.to/amy_thompson_73ef12d8fa31/how-ai-is-transforming-marketing-visuals-294a)
+- [🖨️ Understanding the Uniface skip Statement: A Developer&#39;s Guide to Print Line Control](https://dev.to/petercode/understanding-the-uniface-skip-statement-a-developers-guide-to-print-line-control-52bj)
 - [🎯 Mastering the Uniface show Statement: Real-Time Form Updates Made Simple](https://dev.to/petercode/mastering-the-uniface-show-statement-real-time-form-updates-made-simple-2525)
 - [Understanding the Uniface setocc Statement: Navigate Database Records Like a Pro 🚀](https://dev.to/petercode/understanding-the-uniface-setocc-statement-navigate-database-records-like-a-pro-48l1)
-- [Finally, a Database That Actually Listens to You](https://dev.to/arseniydev/finally-a-database-that-actually-listens-to-you-c89)
-- [Working in Parallel Branches: Lessons from My Project](https://dev.to/hsachdeva9/working-in-parallel-branches-lessons-from-my-project-1945)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
