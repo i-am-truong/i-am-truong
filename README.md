@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating NVIDIA PhysX 5.6 with Unity engine: A Journey into Deformable GPU Physics](https://dev.to/spicytech/integrating-nvidia-physx-56-with-unity-engine-a-journey-into-deformable-gpu-physics-4lgf)
-- [Execution Context in JavaScript](https://dev.to/arokiya_kithiyon_1f2bad36/execution-context-in-javascript-4337)
-- [The Linux Programming Interface - Multiprocessing](https://dev.to/cangulmez/the-linux-programming-interface-multiprocessing-5clh)
-- [How to Insert Video in HTML](https://dev.to/udanielnogueira/how-to-insert-videos-in-html-3de3)
-- [The Future of API Validation: A Deep Dive into AI-Powered Contract Testing](https://dev.to/signadot/the-future-of-api-validation-a-deep-dive-into-ai-powered-contract-testing-4da7)
+- [How to perform numeric comparisons on string fields with units in MongoDB/Mongoose?](https://dev.to/jai_aakash_f1ce1de2d5ce13/how-to-perform-numeric-comparisons-on-string-fields-with-units-in-mongodbmongoose-1igm)
+- [what is CSS ?](https://dev.to/kirubagaran_k_438a86c991/what-is-css--391n)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-l8g)
+- [No More ‘Sorry, I Was on Mute’: How I built a DIY hardware solution for Google Meet with ESP32-S3](https://dev.to/rolandostar/no-more-sorry-i-was-on-mute-how-i-built-a-diy-hardware-solution-for-google-meet-with-esp32-s3-1ohh)
+- [APM v0.4 - An extension to Spec-driven Development with Multi-Agent Coordination](https://dev.to/sdi2200262/apm-v04-an-extension-to-spec-driven-development-with-multi-agent-coordination-2930)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
