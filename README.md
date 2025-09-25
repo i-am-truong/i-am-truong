@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [11+ Best Replit AI Alternatives in 2025](https://dev.to/vinishbhaskar/best-replit-ai-alternatives-175h)
 - [What is object](https://dev.to/2021_cse_gayathrir_e733/what-is-object-3pd0)
 - [REST vs GraphQL: Side-by-Side Analysis with Real-World Examples &amp; Proven Best Practices](https://dev.to/m-a-h-b-u-b/rest-vs-graphql-side-by-side-analysis-with-real-world-examples-proven-best-practices-47i3)
 - [What is CSS](https://dev.to/2021_cse_gayathrir_e733/what-is-css-477)
 - [What is HTML](https://dev.to/2021_cse_gayathrir_e733/what-is-html-2a7p)
-- [Setting Up Git &amp; VS Code on Windows 11 – A Guide for Planetary Science Tech Enthusiasts 🚀](https://dev.to/masoomjethwa/setting-up-git-vs-code-on-windows-11-a-guide-for-planetary-science-tech-enthusiasts-3mdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
