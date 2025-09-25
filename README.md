@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Kafka — Deep Dive: Core Concepts, Data-Engineering Applications, and Real-World Production Practices](https://dev.to/kemboijebby/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1il3)
+- [How to Insert Sound in HTML](https://dev.to/udanielnogueira/how-to-insert-sound-in-html-3edg)
+- [Private Certificate Authorities: Building Trust Inside Your Organization](https://dev.to/dcs-soni/private-certificate-authorities-building-trust-inside-your-organization-4dkk)
+- [The Future of Quality Assurance: AI Testing Explained](https://dev.to/prashant_hatekar_80220bb4/the-future-of-quality-assurance-ai-testing-explained-32bd)
 - [Understanding the SOLID Principles: A Practical Guide for Better Code](https://dev.to/aranka_maxilo_55bab8ad3c3/understanding-the-solid-principles-a-practical-guide-for-better-code-c7)
-- [The Cloud Resume Challenge: My GCP Implementation](https://dev.to/temitayo_apata_2f90bc51d3/the-cloud-resume-challenge-my-gcp-implementation-4ke0)
-- [Turbo in Rails: A Simple Guide to Drive, Frames, and Streams](https://dev.to/railsfactory_sedin/turbo-in-rails-a-simple-guide-to-drive-frames-and-streams-39o)
-- [Odoo Manufacturing Module Explained: Features, Benefits, and Use Cases](https://dev.to/iprogrammer_solutionspvt/odoo-manufacturing-module-explained-features-benefits-and-use-cases-506j)
-- [Serverless applications with Java and Aurora DSQL - Part 2 Using Aurora DSQL JDBC Connector](https://dev.to/aws-heroes/serverless-applications-with-java-and-aurora-dsql-part-2-using-aurora-dsql-jdbc-connector-eaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
