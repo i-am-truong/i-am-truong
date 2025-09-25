@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB vs MySQL: A Real-World Performance Showdown Using Disneyland Data](https://dev.to/christian98/mongodb-vs-mysql-a-real-world-performance-showdown-using-disneyland-data-1i07)
-- [90 Days of Code: Day 17 — Building a Number Memory Game in Python](https://dev.to/momina_raheelmoona_c59/90-days-of-code-day-17-building-a-number-memory-game-in-python-6jp)
-- [How can I efficiently manage and compile PDFs and Office files into a single package with SharePoint integration?](https://dev.to/chris_hensworth_a8345a2d1/how-can-i-efficiently-manage-and-compile-pdfs-and-office-files-into-a-single-package-with-3m1f)
-- [Finding All Child Tables Referencing a Parent Table in Oracle](https://dev.to/mrcaption49/finding-all-child-tables-referencing-a-parent-table-in-oracle-2mmd)
-- [Why Wondershare UniConverter Still Matters in 2025 - And the Free Tools That Compete](https://dev.to/kingfree/why-wondershare-uniconverter-still-matters-in-2025-and-the-free-tools-that-compete-5b81)
+- [ReactJS Libraries to speed up development - Every developer should know](https://dev.to/codedthemes/reactjs-libraries-to-speed-up-development-every-developer-should-know-1196)
+- [That Decision Makes No Sense!](https://dev.to/bid_solution/that-decision-makes-no-sense-3mn7)
+- [Parin Game Engine Devlog – September 2025](https://dev.to/kapendev/parin-game-engine-devlog-september-2025-517o)
+- [Agentic AI vs. Traditional Automation: Understanding the Shift](https://dev.to/brains_behind_bots/agentic-ai-vs-traditional-automation-understanding-the-shift-1l1h)
+- [released: active_record_compose 1.0.0 — Wrap multiple models with an ActiveModel interface](https://dev.to/hamajyotan/released-activerecordcompose-100-wrap-multiple-models-with-an-activemodel-interface-347a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
