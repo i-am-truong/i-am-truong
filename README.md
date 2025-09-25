@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AKKY, DIGITAL OCEAN DNS, AND letsencrypt CERTIFICATES.](https://dev.to/koffer/akky-digital-ocean-dns-and-letsencrypt-certificates-4o66)
-- [How to secure AI-coded &lpar;vibe coded&rpar; applications](https://dev.to/zvone187/how-to-secure-ai-coded-vibe-coded-applications-18ge)
-- [Guide to Choosing an Office Chair for Developers](https://dev.to/saifa/guide-to-choosing-an-office-chair-for-developers-28kl)
-- [**The &#39;Model-in-the-Loop&#39; Pitfall: A Common yet Devastating](https://dev.to/drcarlosruizviquez/the-model-in-the-loop-pitfall-a-common-yet-devastating-1c7i)
-- [Complete SEO Meta Tags Implementation with Nuxt 3: From Basic Meta to Dynamic OG Images](https://dev.to/blamsa0mine/complete-seo-meta-tags-implementation-with-nuxt-3-from-basic-meta-to-dynamic-og-images-hih)
+- [Evolução da linguagem Java &lpar;parte 2&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-2-mff)
+- [5 Website Mistakes That Cost Plumbing Companies New Customers](https://dev.to/abdul_rehmandev/5-website-mistakes-that-cost-plumbing-companies-new-customers-5gc9)
+- [How I Built a Lightning-Fast Excel-Like Spreadsheet in React &lpar;That Renders 100,000+ Cells!&rpar;](https://dev.to/sojinantony01/how-i-built-a-lightning-fast-excel-like-spreadsheet-in-react-that-renders-100000-cells-1jkk)
+- [What is Power BI?](https://dev.to/e77/what-is-power-bi-ifp)
+- [How Structured Logging with AWS CloudWatch &amp; Sentry Changed the Way I Debug Laravel Apps](https://dev.to/vikaschandrab/how-structured-logging-with-aws-cloudwatch-sentry-changed-the-way-i-debug-laravel-apps-khg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
