@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB vs MySQL: A Real-World Performance Showdown Using Disneyland Data](https://dev.to/christian98/mongodb-vs-mysql-a-real-world-performance-showdown-using-disneyland-data-1i07)
+- [90 Days of Code: Day 17 — Building a Number Memory Game in Python](https://dev.to/momina_raheelmoona_c59/90-days-of-code-day-17-building-a-number-memory-game-in-python-6jp)
+- [How can I efficiently manage and compile PDFs and Office files into a single package with SharePoint integration?](https://dev.to/chris_hensworth_a8345a2d1/how-can-i-efficiently-manage-and-compile-pdfs-and-office-files-into-a-single-package-with-3m1f)
 - [Finding All Child Tables Referencing a Parent Table in Oracle](https://dev.to/mrcaption49/finding-all-child-tables-referencing-a-parent-table-in-oracle-2mmd)
-- [Get started with Real-Time Intelligence in Microsoft Fabric](https://dev.to/lotanna_obianefo/get-started-with-real-time-intelligence-in-microsoft-fabric-50h8)
-- [The Adventures of Blink S4e4: Blink vs The Phantom Dependency](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e4-blink-vs-the-phantom-dependency-96n)
-- [Choosing a Framework is Hard… Here’s the Shortcut](https://dev.to/shaq_attack/choosing-a-framework-is-hard-heres-the-shortcut-485g)
-- [Ethereum Sets Fusaka for December, Epoch Protocol raises $1.2M, “Not All State Is Equal” Ethereum Study, Mono Protocol $2M](https://dev.to/etherspot/ethereum-sets-fusaka-for-december-epoch-protocol-raises-12m-not-all-state-is-equal-ethereum-5985)
+- [Why Wondershare UniConverter Still Matters in 2025 - And the Free Tools That Compete](https://dev.to/kingfree/why-wondershare-uniconverter-still-matters-in-2025-and-the-free-tools-that-compete-5b81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
