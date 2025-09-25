@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-480m)
-- [Demystifying Principal Component Analysis &lpar;PCA&rpar;: A Practical Guide with Real-World Insights](https://dev.to/dipti_moryani_185c244d578/demystifying-principal-component-analysis-pca-a-practical-guide-with-real-world-insights-4c8f)
-- [How to Tail Docker Logs?](https://dev.to/signoz/how-to-tail-docker-logs-3hp6)
-- [How to Use RAG with Amazon Bedrock + Nova for Building Chatbots](https://dev.to/aws-builders/how-to-use-rag-with-amazon-bedrock-nova-for-building-chatbots-3ddn)
-- [The power of estimation in building reliable systems](https://dev.to/fahimulhaq/the-power-of-estimation-in-building-reliable-systems-4b01)
+- [LeetCode #704. Binary Search](https://dev.to/desiato/leetcode-704-binary-search-28bj)
+- [Crontab Logs: Location and How to Read Them [2025]](https://dev.to/signoz/crontab-logs-location-and-how-to-read-them-2025-3j9n)
+- [How to Build a Minesweeper CLI Game in Node.js &lpar;Part 2/3&rpar;](https://dev.to/learnbackenddotdev/how-to-build-a-minesweeper-cli-game-in-nodejs-part-23-2klf)
+- [Global Expansion with Local Presence: How VoIP Numbers Drive International Business](https://dev.to/vignesh_n_07f83364ceba2e2/global-expansion-with-local-presence-how-voip-numbers-drive-international-business-eg3)
+- [Data Warehousing vs. Data Lakes](https://dev.to/godofgeeks/data-warehousing-vs-data-lakes-54ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
