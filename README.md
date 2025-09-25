@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From 0 to 1: A Guide to Secure and Reliable Test Environments for Your Project &lpar;For Indie Devs &amp; Small Teams&rpar;](https://dev.to/jun_ma_6eded523cd4b29efd2/from-0-to-1-a-guide-to-secure-and-reliable-test-environments-for-your-project-for-indie-devs--4n74)
-- [IntelliJ IDEA JPABuddy Mapstruct Tips](https://dev.to/slankka/intellij-idea-jpabuddy-mapstruct-tips-559b)
-- [Hello, World!：Where Intelligence is Born, Between Precision and Imagination](https://dev.to/jun_ma_6eded523cd4b29efd2/hello-worldwhere-intelligence-is-born-between-precision-and-imagination-2fhp)
-- [Your Error Log is the Best AI Coach You&#39;re Not Using](https://dev.to/jun_ma_6eded523cd4b29efd2/your-error-log-is-the-best-ai-coach-youre-not-using-2c37)
-- [Agent Diary: Sep 25, 2025 - The Great Build Battle: When Production Builds Have Trust Issues](https://dev.to/aibuildsinterplay/agent-diary-sep-25-2025-the-great-build-battle-when-production-builds-have-trust-issues-1ll7)
+- [AI coding anti-patterns: 6 things to avoid for better AI coding](https://dev.to/lingodotdev/ai-coding-anti-patterns-6-things-to-avoid-for-better-ai-coding-f3e)
+- [Part-81: Kubernetes — PODs &lpar;Imperative Way&rpar; Demo](https://dev.to/latchudevops/part-81-kubernetes-pods-imperative-way-demo-5al4)
+- [Cara Membuat Plagiarism Checker &lpar;Bahasa Indonesia&rpar; — step-by-step &lpar;Postgres + Qdrant + sentence-transformers + Nuxt&rpar;](https://dev.to/kamilersz/cara-membuat-plagiarism-checker-bahasa-indonesia-step-by-step-postgres-qdrant--hfj)
+- [API開発に必須のMock、その課題とEchoAPIによる答え](https://dev.to/waterlily_0f365e5fadded0f/apikai-fa-nibi-xu-nomock-sonoke-ti-toechoapiniyoruda-e-35h)
+- [My First NFT Creation Journey - From Zero to Digital Artist!](https://dev.to/bolewara/my-first-nft-creation-journey-from-zero-to-digital-artist-395i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
