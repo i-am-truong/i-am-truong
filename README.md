@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Java to Go: My Journey with Golang 🚀](https://dev.to/edivaldoramos/from-java-to-go-my-journey-with-golang-e7c)
 - [Understanding Bias Risks in Multi-Tool AI Agents](https://dev.to/shieldstring/understanding-bias-risks-in-multi-tool-ai-agents-4m84)
 - [Lists as Function Interfaces: *args, Mutable Defaults, and the One-Liner Power](https://dev.to/aaron_rose_0787cc8b4775a0/lists-as-function-interfaces-args-mutable-defaults-and-the-one-liner-power-3d9h)
 - [Why I Use Cold Backups Instead of Relying Only on Snapshots | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-use-cold-backups-instead-of-relying-only-on-snapshots-by-faruk-ahmed-sep-2025-3fb)
 - [Blooket Bot](https://dev.to/zegham_ali_87389465b32f38/blooket-bot-63c)
-- [Why Gyms Need AI Personal Trainers: The Future of Fitness Coaching](https://dev.to/drcarlosruizviquez/why-gyms-need-ai-personal-trainers-the-future-of-fitness-coaching-56l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
