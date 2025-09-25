@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Programação funcional - primeiras impressões com Clojure](https://dev.to/fumagallilaura/programacao-funcional-primeiras-impressoes-com-clojure-10dc)
-- [Entendendo o Problema N+1: Um Guia Prático para Desenvolvedores](https://dev.to/danielcamucatto/entendendo-o-problema-n1-um-guia-pratico-para-desenvolvedores-4ocb)
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-29gl)
-- [How to Harden Nginx with TLS, Fail2Ban, and Security Headers](https://dev.to/ramer2b58cbe46bc8/how-to-harden-nginx-with-tls-fail2ban-and-security-headers-2m26)
-- [GDPR in 2025 - Why It Still Matters and How to Stay Updated](https://dev.to/heyjoshlee/gdpr-in-2025-why-it-still-matters-and-how-to-stay-updated-190p)
+- [Why Data Sanitization is a Must-Have for Ethical AI](https://dev.to/naveen_kolli_a8501e4633c5/why-data-sanitization-is-a-must-have-for-ethical-ai-32ko)
+- [A Process killer CLI project using Java Process API](https://dev.to/sadiul_hakim/a-process-killer-cli-project-using-java-process-api-2idi)
+- [Coding Agent Template: A Template for Building AI Coding Agents](https://dev.to/jqueryscript/coding-agent-template-a-template-for-building-ai-coding-agents-56m2)
+- [How to Use AI to Generate Unit Tests &lpar;That Actually Work&rpar;](https://dev.to/jaideepparashar/how-to-use-ai-to-generate-unit-tests-that-actually-work-35pf)
+- [Quicksort explained IKEA-style](https://dev.to/technoblogger14o3/quicksort-explained-ikea-style-31p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
