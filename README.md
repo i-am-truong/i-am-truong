@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The fact that judges were tricked with void orders should scare everyone. This is how justice gets corrupted.](https://dev.to/themargauxs/the-fact-that-judges-were-tricked-with-void-orders-should-scare-everyone-this-is-how-justice-gets-2a9)
+- [Pino Logger - Complete Guide to Logging in NodeJS with Pino](https://dev.to/signoz/pino-logger-complete-guide-to-logging-in-nodejs-with-pino-7b)
+- [The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms](https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l)
+- [Working with Parallel Branches in my project](https://dev.to/cynthia_f/working-with-parallel-branches-in-my-project-gdj)
 - [🧠Building AI Beyond the Hype](https://dev.to/marcosomma/building-ai-beyond-the-hype-3b77)
-- [Open source project ESP32 Bus Pirate - A Hardware Hacking Tool That Speaks Every Protocol](https://dev.to/geo_tp/open-source-project-esp32-bus-pirate-a-hardware-hacking-tool-that-speaks-every-protocol-24gl)
-- [Building a PDF Parser for HDFC Bank Statements: From 165 Pages to CSV in Minutes](https://dev.to/vishwaraja_pathivishwa/building-a-pdf-parser-for-hdfc-bank-statements-from-165-pages-to-csv-in-minutes-34c6)
-- [Why Every Developer Should Learn Systems Thinking](https://dev.to/dct_technology/why-every-developer-should-learn-systems-thinking-m0j)
-- [Understanding NVIDIA GPU Clusters: Architecture, Functionality, and Applications](https://dev.to/cyfuture-ai/understanding-nvidia-gpu-clusters-architecture-functionality-and-applications-2l6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
