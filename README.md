@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode #704. Binary Search](https://dev.to/desiato/leetcode-704-binary-search-28bj)
-- [Crontab Logs: Location and How to Read Them [2025]](https://dev.to/signoz/crontab-logs-location-and-how-to-read-them-2025-3j9n)
-- [How to Build a Minesweeper CLI Game in Node.js &lpar;Part 2/3&rpar;](https://dev.to/learnbackenddotdev/how-to-build-a-minesweeper-cli-game-in-nodejs-part-23-2klf)
-- [Global Expansion with Local Presence: How VoIP Numbers Drive International Business](https://dev.to/vignesh_n_07f83364ceba2e2/global-expansion-with-local-presence-how-voip-numbers-drive-international-business-eg3)
-- [Data Warehousing vs. Data Lakes](https://dev.to/godofgeeks/data-warehousing-vs-data-lakes-54ki)
+- [Shaming people for using AI, but...](https://dev.to/mdohr07/shaming-people-for-using-ai-but-1gif)
+- [15 Best Infrastructure Monitoring Tools in 2025](https://dev.to/signoz/15-best-infrastructure-monitoring-tools-in-2025-43dm)
+- [Fixing Upstream Connect Errors &lpar;Docker, Kubernetes, Spring Boot &amp; More&rpar;](https://dev.to/signoz/fixing-upstream-connect-errors-docker-kubernetes-spring-boot-more-1j80)
+- [Observability Without a Framework Is Just Noise](https://dev.to/tomjohnson3/observability-without-a-framework-is-just-noise-1jk5)
+- [Box of bugs &lpar;emulated&rpar;](https://dev.to/pvsdev/box-of-bugs-emulated-elh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
