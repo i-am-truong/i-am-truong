@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Date de Domingo](https://dev.to/edson_morales_dd47d779a67/date-de-domingo-3a0d)
 - [Building a HIPAA-Compliant Chatbot with AWS Lambda &amp; Bedrock](https://dev.to/lahari_nandipati_aae7627d/building-a-hipaa-compliant-chatbot-with-aws-lambda-bedrock-3b4a)
 - [GIVEAWAY + GOOD BOY UPDATE!](https://dev.to/beginarjun/giveaway-good-boy-update-20c3)
 - [Learn AI Independently: How to Use ChatGPT and Other Tools to Understand a Technical Book](https://dev.to/masudio/learn-ai-independently-how-to-use-chatgpt-and-other-tools-to-understand-a-technical-book-1ep8)
 - [How to Instantly Unblock Your AI Dev Tool: The GitHub Issues Prompt](https://dev.to/aaronksaunders/how-to-instantly-unblock-your-ai-dev-tool-the-github-issues-prompt-2efl)
-- [📰 Major Tech News: September 25, 2025](https://dev.to/om_shree_0709/major-tech-news-september-25-2025-5h38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
