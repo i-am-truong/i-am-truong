@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solving the Billion-Dollar Mistake: Modern Java Null Safety with JSpecify and NullAway](https://dev.to/headf1rst/solving-the-billion-dollar-mistake-modern-java-null-safety-with-jspecify-and-nullaway-2ie7)
-- [Intel Core i7-14900K y la &lpar;in&rpar;estabilidad: mi experiencia y la solución que encontré](https://dev.to/aledotsoftware/intel-core-i7-14900k-y-la-inestabilidad-mi-experiencia-y-la-solucion-que-encontre-4haa)
-- [Introdução ao RabbitMQ](https://dev.to/programadriano/introducao-ao-rabbitmq-1o3m)
-- [Efficient Iteration Patterns with Python’s itertools](https://dev.to/aaron_rose_0787cc8b4775a0/efficient-iteration-patterns-with-pythons-itertools-19eh)
-- [Nest.js Blog Step by Step: Add User System](https://dev.to/leapcell/nestjs-blog-step-by-step-add-user-system-5a16)
+- [Programação funcional - primeiras impressões com Clojure](https://dev.to/fumagallilaura/programacao-funcional-primeiras-impressoes-com-clojure-10dc)
+- [Entendendo o Problema N+1: Um Guia Prático para Desenvolvedores](https://dev.to/danielcamucatto/entendendo-o-problema-n1-um-guia-pratico-para-desenvolvedores-4ocb)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-29gl)
+- [How to Harden Nginx with TLS, Fail2Ban, and Security Headers](https://dev.to/ramer2b58cbe46bc8/how-to-harden-nginx-with-tls-fail2ban-and-security-headers-2m26)
+- [GDPR in 2025 - Why It Still Matters and How to Stay Updated](https://dev.to/heyjoshlee/gdpr-in-2025-why-it-still-matters-and-how-to-stay-updated-190p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
