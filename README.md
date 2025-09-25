@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-83: 🚀Expose a Pod with Google Kubernetes Engine Load balancer Service in GCP &lpar;Imperative way&rpar;](https://dev.to/latchudevops/part-83-expose-a-pod-with-google-kubernetes-engine-load-balancer-service-in-gcp-imperative-way-2iaa)
-- [From Zero to Cloud Network Hero: My AZ-700 Virtual WAN Lab Journey](https://dev.to/peter_samuel_052b9056e236/from-zero-to-cloud-network-hero-my-az-700-virtual-wan-lab-journey-1j0n)
-- [Best WordPress Image Optimization Plugins for 2025](https://dev.to/andreialba/best-wordpress-image-optimization-plugins-for-2025-46ci)
-- [Privacy for subdomains: the problem](https://dev.to/nfrankel/privacy-for-subdomains-the-problem-18ek)
-- [Master React :](https://dev.to/dev_abdulhaseeb/master-react--23lk)
+- [25 UI/UX Design References Every Web Designer Needs](https://dev.to/0x7b_official/25-uiux-design-references-every-web-designer-needs-44n7)
+- [Ultimate React + UI/UX Reference You’ll Revisit Forever](https://dev.to/snappy_tuts/ultimate-react-uiux-reference-youll-revisit-forever-55i0)
+- [Ultimate Product Development Playbook You’ll Revisit Forever](https://dev.to/coco_junk_e2afc9395cfe1f0/ultimate-product-development-playbook-youll-revisit-forever-2d1)
+- [n8n at Scale: Enterprise Governance and Secure Automation](https://dev.to/alifar/n8n-at-scale-enterprise-governance-and-secure-automation-1jih)
+- [Magnetic Stand: A Must-Have Tool for Precision Measurements](https://dev.to/rani_jaibros_5c1fd9c992ef/magnetic-stand-a-must-have-tool-for-precision-measurements-2a5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
