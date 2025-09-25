@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Aiogram - Asynchronous Telegram Bot Framework](https://dev.to/imrrobot/aiogram-asynchronous-telegram-bot-framework-2fkp)
-- [P — Pick the Job Story &amp; Metric](https://dev.to/codebrainr/p-pick-the-job-story-metric-2a8k)
-- [qrcode - Generate QR Codes in Python](https://dev.to/imrrobot/qrcode-generate-qr-codes-in-python-22jl)
-- [Jenkins on EKS using EFS](https://dev.to/santhosh_004/jenkins-on-eks-using-efs-21ci)
-- [tqdm - Progress Bars for Python Loops](https://dev.to/imrrobot/tqdm-progress-bars-for-python-loops-78i)
+- [🏁ASPICE Literacy: Episode 6 — Process Tailoring: Goldilocks &amp; the Three Processes — Not Too Heavy, Not Too Light, Just Right ⚖️🥣](https://dev.to/abdulosman/aspice-literacy-episode-6-process-tailoring-goldilocks-the-three-processes-not-too-heavy-be)
+- [TIL: Clustered and Non-clustered indices in SQL](https://dev.to/vishnukn01/til-clustered-and-non-clustered-indices-in-sql-4ndh)
+- [Adaptive Terrain Intelligence and Navigation](https://dev.to/dedipya_sade_ded044996b1a/adaptive-terrain-intelligence-and-navigation-76j)
+- [NodeJS Security Best Practices](https://dev.to/ishikha_rao/nodejs-security-best-practices-2f70)
+- [My Post Title](https://dev.to/atharva_shinde_008/my-post-title-eh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
