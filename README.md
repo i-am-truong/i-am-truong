@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Tracker AI](https://dev.to/monahidalgo/code-tracker-ai-2dlh)
 - [Stop Polishing Pixels. Start Bumping Versions.](https://dev.to/soasme/stop-polishing-pixels-start-bumping-versions-7ge)
 - [From Java to Go: My Journey with Golang 🚀](https://dev.to/edivaldoramos/from-java-to-go-my-journey-with-golang-e7c)
 - [Coding Challenge Practice - Question 16](https://dev.to/tomivan/coding-challenge-practice-question-16-3imn)
 - [Understanding Bias Risks in Multi-Tool AI Agents](https://dev.to/shieldstring/understanding-bias-risks-in-multi-tool-ai-agents-4m84)
-- [Lists as Function Interfaces: *args, Mutable Defaults, and the One-Liner Power](https://dev.to/aaron_rose_0787cc8b4775a0/lists-as-function-interfaces-args-mutable-defaults-and-the-one-liner-power-3d9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
