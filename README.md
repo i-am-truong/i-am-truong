@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐 IP Addressing: The Cities &amp; Houses of the Internet](https://dev.to/mehramjot_kaur_4ec1bfe123/ip-addressing-the-cities-houses-of-the-internet-543o)
-- [Fewer Clicks, More Bookings: A Practical Hotel Site Playbook with Tejal](https://dev.to/avry_mcgarvey_9c5eded0525/fewer-clicks-more-bookings-a-practical-hotel-site-playbook-with-tejal-4lhl)
-- [🚀 My First Microservice Deployment Journey: Lessons from Amplify + Next.js](https://dev.to/techwithhari/my-first-microservice-deployment-journey-lessons-from-amplify-nextjs-3o9i)
-- [&quot;RAG systems just reached new heights! Researchers have succ](https://dev.to/drcarlosruizviquez/rag-systems-just-reached-new-heights-researchers-have-succ-30gp)
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-20h3)
+- [AKKY, DIGITAL OCEAN DNS, AND letsencrypt CERTIFICATES.](https://dev.to/koffer/akky-digital-ocean-dns-and-letsencrypt-certificates-4o66)
+- [How to secure AI-coded &lpar;vibe coded&rpar; applications](https://dev.to/zvone187/how-to-secure-ai-coded-vibe-coded-applications-18ge)
+- [Guide to Choosing an Office Chair for Developers](https://dev.to/saifa/guide-to-choosing-an-office-chair-for-developers-28kl)
+- [**The &#39;Model-in-the-Loop&#39; Pitfall: A Common yet Devastating](https://dev.to/drcarlosruizviquez/the-model-in-the-loop-pitfall-a-common-yet-devastating-1c7i)
+- [Complete SEO Meta Tags Implementation with Nuxt 3: From Basic Meta to Dynamic OG Images](https://dev.to/blamsa0mine/complete-seo-meta-tags-implementation-with-nuxt-3-from-basic-meta-to-dynamic-og-images-hih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
