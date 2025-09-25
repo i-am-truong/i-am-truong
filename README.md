@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How AI is Transforming Marketing Visuals](https://dev.to/amy_thompson_73ef12d8fa31/how-ai-is-transforming-marketing-visuals-294a)
+- [🎯 Mastering the Uniface show Statement: Real-Time Form Updates Made Simple](https://dev.to/petercode/mastering-the-uniface-show-statement-real-time-form-updates-made-simple-2525)
+- [Understanding the Uniface setocc Statement: Navigate Database Records Like a Pro 🚀](https://dev.to/petercode/understanding-the-uniface-setocc-statement-navigate-database-records-like-a-pro-48l1)
 - [Finally, a Database That Actually Listens to You](https://dev.to/arseniydev/finally-a-database-that-actually-listens-to-you-c89)
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-2f99)
-- [7 Tips for Hardening TLS on Nginx for Secure Web Traffic and Performance](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-tls-on-nginx-for-secure-web-traffic-and-performance-12o8)
-- [Why Choose Next.js? A Beginner&#39;s Guide to Modern Web Development 🚀](https://dev.to/xzyvron/why-choose-nextjs-a-beginners-guide-to-modern-web-development-267h)
-- [How to Save Money with Amazon S3: Storage Classes, Use Cases, and Optimization Tips](https://dev.to/brayanarrieta/how-to-save-money-with-amazon-s3-storage-classes-use-cases-and-optimization-tips-c88)
+- [Working in Parallel Branches: Lessons from My Project](https://dev.to/hsachdeva9/working-in-parallel-branches-lessons-from-my-project-1945)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
