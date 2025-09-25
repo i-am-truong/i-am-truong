@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TCJSGame Movement Utilities: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-movement-utilities-complete-reference-guide-30o5)
-- [Enhancing quantum factorization through adaptive period finding](https://dev.to/stevenrugg/enhancing-quantum-factorization-through-adaptive-period-finding-4dil)
-- [🚀 Building a Sandbox Data Warehouse with Snowflake + GitHub Actions &lpar;Part 2&rpar;](https://dev.to/qvfagundes/building-a-sandbox-data-warehouse-with-snowflake-github-actions-part-2-51dn)
-- [AI-RateMyProfessors App](https://dev.to/tohmze/ai-ratemyprofessors-app-nfp)
-- [STM32 Internal Temperature Sensor Reading &lpar;With DMA + Timer Trigger&rpar; — Complete Guide &amp; Example Code](https://dev.to/ai_pics_6442ad429fc2ff12f/stm32-internal-temperature-sensor-reading-with-dma-timer-trigger-complete-guide-example-code-cjk)
+- [From 0 to 1: A Guide to Secure and Reliable Test Environments for Your Project &lpar;For Indie Devs &amp; Small Teams&rpar;](https://dev.to/jun_ma_6eded523cd4b29efd2/from-0-to-1-a-guide-to-secure-and-reliable-test-environments-for-your-project-for-indie-devs--4n74)
+- [IntelliJ IDEA JPABuddy Mapstruct Tips](https://dev.to/slankka/intellij-idea-jpabuddy-mapstruct-tips-559b)
+- [Hello, World!：Where Intelligence is Born, Between Precision and Imagination](https://dev.to/jun_ma_6eded523cd4b29efd2/hello-worldwhere-intelligence-is-born-between-precision-and-imagination-2fhp)
+- [Your Error Log is the Best AI Coach You&#39;re Not Using](https://dev.to/jun_ma_6eded523cd4b29efd2/your-error-log-is-the-best-ai-coach-youre-not-using-2c37)
+- [Agent Diary: Sep 25, 2025 - The Great Build Battle: When Production Builds Have Trust Issues](https://dev.to/aibuildsinterplay/agent-diary-sep-25-2025-the-great-build-battle-when-production-builds-have-trust-issues-1ll7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
