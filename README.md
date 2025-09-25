@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Tricks: Convert Strings to CamelCase, PascalCase, Kebab-Case, Snake_Case in One Line](https://dev.to/raees_yousaf_4894626d530b/python-tricks-convert-strings-to-camelcase-pascalcase-kebab-case-snakecase-in-one-line-mbm)
-- [The Evolution of AI Chatbots](https://dev.to/pamutton/the-evolution-of-ai-chatbots-4n2k)
-- [Build or Buy Your Third-Party Monitoring System: Decision Guide](https://dev.to/isdown/build-or-buy-your-third-party-monitoring-system-decision-guide-1cfo)
-- [The fact that judges were tricked with void orders should scare everyone. This is how justice gets corrupted.](https://dev.to/themargauxs/the-fact-that-judges-were-tricked-with-void-orders-should-scare-everyone-this-is-how-justice-gets-2a9)
-- [Pino Logger - Complete Guide to Logging in NodeJS with Pino](https://dev.to/signoz/pino-logger-complete-guide-to-logging-in-nodejs-with-pino-7b)
+- [The victims deserve to see every single person in this conspiracy held accountable, not just the front men.](https://dev.to/techtalk/the-victims-deserve-to-see-every-single-person-in-this-conspiracy-held-accountable-not-just-the-2o5e)
+- [How I fixed the Chakra UI List component not found error by updating to the latest version.](https://dev.to/kazutora_hattori_66972c88/how-i-fixed-the-chakra-ui-list-component-not-found-error-by-updating-to-the-latest-version-emg)
+- [Electric Border ⚡ &lpar;SVG seed thrashing&rpar;](https://dev.to/chchkchk22488/electric-border-svg-seed-thrashing-3geo)
+- [AI for Coding Interviews: How It’s Changing the Way We Prepare](https://dev.to/alex_hunter_44f4c9ed6671e/ai-for-coding-interviews-how-its-changing-the-way-we-prepare-5ajg)
+- [Mastering Celery: A Complete Guide to Task Management, Database Connections, and Scaling](https://dev.to/sizan_mahmud0_e7c3fd0cb68/mastering-celery-a-complete-guide-to-task-management-database-connections-and-scaling-34gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
