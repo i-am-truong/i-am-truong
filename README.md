@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Secret Life of List Operations: Why Slicing Isn&#39;t Free](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-list-operations-why-slicing-isnt-free-5cf3)
+- [Don’t Mercilessly Add AI Just to Look Cool](https://dev.to/soasme/dont-mercilessly-add-ai-just-to-look-cool-h8m)
+- [Need Help!!](https://dev.to/karxm/need-help-3kj9)
 - [[Boost]](https://dev.to/praneetaprakash/-2nfe)
 - [C# LeetCode 268: Missing Number - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-268-missing-number-easy-2ogc)
-- [ChatGPT Pulse: Turning AI into a Proactive Assistant for Developers](https://dev.to/alifar/chatgpt-pulse-turning-ai-into-a-proactive-assistant-for-developers-3hk8)
-- [From Chaos to Clarity: How I Built CrammAI, the AI Study Copilot I Wish I Had in University](https://dev.to/kareemblessed/from-chaos-to-clarity-how-i-built-crammai-the-ai-study-copilot-i-wish-i-had-in-university-64m)
-- [Stategraph: Terraform state as a distributed systems problem](https://dev.to/josh_pollara_2f8bb369b3f3/stategraph-terraform-state-as-a-distributed-systems-problem-hlm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
