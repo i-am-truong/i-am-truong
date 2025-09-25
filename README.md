@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding All Child Tables Referencing a Parent Table in Oracle](https://dev.to/mrcaption49/finding-all-child-tables-referencing-a-parent-table-in-oracle-2mmd)
+- [Get started with Real-Time Intelligence in Microsoft Fabric](https://dev.to/lotanna_obianefo/get-started-with-real-time-intelligence-in-microsoft-fabric-50h8)
+- [The Adventures of Blink S4e4: Blink vs The Phantom Dependency](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e4-blink-vs-the-phantom-dependency-96n)
 - [Choosing a Framework is Hard… Here’s the Shortcut](https://dev.to/shaq_attack/choosing-a-framework-is-hard-heres-the-shortcut-485g)
 - [Ethereum Sets Fusaka for December, Epoch Protocol raises $1.2M, “Not All State Is Equal” Ethereum Study, Mono Protocol $2M](https://dev.to/etherspot/ethereum-sets-fusaka-for-december-epoch-protocol-raises-12m-not-all-state-is-equal-ethereum-5985)
-- [🚀 Understanding the Spring Application Lifecycle](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-the-spring-application-lifecycle-277h)
-- [5 Ways to Protect Sensitive Information in the Digital Age](https://dev.to/insureyouknow_79344b896cd/5-ways-to-protect-sensitive-information-in-the-digital-age-15fd)
-- [🌱 Understanding the Spring Bean Lifecycle](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-the-spring-bean-lifecycle-663)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
