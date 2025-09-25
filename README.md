@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Level 2 of Teacher Assistant App – Streamlined Classroom Management](https://dev.to/manjushaps/level-2-of-teacher-assistant-app-streamlined-classroom-management-2hmi)
+- [🐍 Fix Pyenv Messing Up Your Distrobox &lpar;Pop!_OS, Ubuntu, Fedora, etc.&rpar;](https://dev.to/bseyfi/fix-pyenv-messing-up-your-distrobox-popos-ubuntu-fedora-etc-22am)
+- [Medusa Checkout Flow: Step-by-Step Guide to Building a Complete E-Commerce Checkout](https://dev.to/u11d/medusa-checkout-flow-step-by-step-guide-to-building-a-complete-e-commerce-checkout-lfl)
 - [Building a Full-Stack User Management System with Prisma and Vue 3 &lpar;Nuxt 3&rpar;](https://dev.to/blamsa0mine/building-a-full-stack-user-management-system-with-prisma-and-vue-3-nuxt-3-47h4)
 - [Turning Rejection Into Motivation: My Journey to Cloud Engineering](https://dev.to/hinocode/turning-rejection-into-motivation-my-journey-to-cloud-engineering-4a9h)
-- [How I Built Real-Time Collaboration for a Diagramming Tool](https://dev.to/martin-staufcik/how-i-built-real-time-collaboration-for-a-diagramming-tool-414o)
-- [Deep Dive into ECS Task Definitions: The Blueprint of Your Containers](https://dev.to/oncloud7/deep-dive-into-ecs-task-definitions-the-blueprint-of-your-containers-io7)
-- [Build a Frontend for your ADK Agents with AG-UI](https://dev.to/copilotkit/build-a-frontend-for-your-adk-agents-with-ag-ui-2alo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
