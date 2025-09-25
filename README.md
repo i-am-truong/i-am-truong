@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [25 UI/UX Design References Every Web Designer Needs](https://dev.to/0x7b_official/25-uiux-design-references-every-web-designer-needs-44n7)
-- [Ultimate React + UI/UX Reference You’ll Revisit Forever](https://dev.to/snappy_tuts/ultimate-react-uiux-reference-youll-revisit-forever-55i0)
-- [Ultimate Product Development Playbook You’ll Revisit Forever](https://dev.to/coco_junk_e2afc9395cfe1f0/ultimate-product-development-playbook-youll-revisit-forever-2d1)
-- [n8n at Scale: Enterprise Governance and Secure Automation](https://dev.to/alifar/n8n-at-scale-enterprise-governance-and-secure-automation-1jih)
-- [Magnetic Stand: A Must-Have Tool for Precision Measurements](https://dev.to/rani_jaibros_5c1fd9c992ef/magnetic-stand-a-must-have-tool-for-precision-measurements-2a5k)
+- [How to Design an Engaging Splash Page with Practical Examples](https://dev.to/lollypopdesign/how-to-design-an-engaging-splash-page-with-practical-examples-528j)
+- [NPR Music: Chuwi: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-chuwi-tiny-desk-concert-1koo)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-50cb)
+- [Agentic AI Observability with Amazon CloudWatch: Transforming Enterprise AI Monitoring](https://dev.to/acmopm/agentic-ai-observability-with-amazon-cloudwatch-transforming-enterprise-ai-monitoring-for-the-28k6)
+- [Translation KPIs for Translation Management Success](https://dev.to/colinreed/translation-kpis-for-translation-management-success-511a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
