@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blooket Bot](https://dev.to/zegham_ali_87389465b32f38/blooket-bot-63c)
 - [Why Gyms Need AI Personal Trainers: The Future of Fitness Coaching](https://dev.to/drcarlosruizviquez/why-gyms-need-ai-personal-trainers-the-future-of-fitness-coaching-56l7)
+- [Learn Bash Scripting With Me 🚀 - Day 7](https://dev.to/babsarena/learn-bash-scripting-with-me-day-7-40nc)
 - [Our Java MCP Agent in Action: A Demo and the Results](https://dev.to/gazolla/our-java-mcp-agent-in-action-a-demo-and-the-results-4dlh)
 - [Claude Code Subagents Quickstart: what they are + how to use them](https://dev.to/shipyard/claude-code-subagents-quickstart-what-they-are-how-to-use-them-2jgc)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-om6)
-- [GameSpot: Ananta | Official 10 Minute Gameplay Trailer](https://dev.to/gg_news/gamespot-ananta-official-10-minute-gameplay-trailer-12nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
