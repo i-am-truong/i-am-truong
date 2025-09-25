@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Evolução da linguagem Java &lpar;parte 2&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-2-mff)
-- [5 Website Mistakes That Cost Plumbing Companies New Customers](https://dev.to/abdul_rehmandev/5-website-mistakes-that-cost-plumbing-companies-new-customers-5gc9)
-- [How I Built a Lightning-Fast Excel-Like Spreadsheet in React &lpar;That Renders 100,000+ Cells!&rpar;](https://dev.to/sojinantony01/how-i-built-a-lightning-fast-excel-like-spreadsheet-in-react-that-renders-100000-cells-1jkk)
-- [What is Power BI?](https://dev.to/e77/what-is-power-bi-ifp)
-- [How Structured Logging with AWS CloudWatch &amp; Sentry Changed the Way I Debug Laravel Apps](https://dev.to/vikaschandrab/how-structured-logging-with-aws-cloudwatch-sentry-changed-the-way-i-debug-laravel-apps-khg)
+- [Execution Context in JavaScript](https://dev.to/arokiya_kithiyon_1f2bad36/execution-context-in-javascript-4337)
+- [The Linux Programming Interface - Multiprocessing](https://dev.to/cangulmez/the-linux-programming-interface-multiprocessing-5clh)
+- [How to Insert Video in HTML](https://dev.to/udanielnogueira/how-to-insert-videos-in-html-3de3)
+- [The Future of API Validation: A Deep Dive into AI-Powered Contract Testing](https://dev.to/signadot/the-future-of-api-validation-a-deep-dive-into-ai-powered-contract-testing-4da7)
+- [#Pre-DAY 1: Laying the Foundation: Docker &amp; Concepts](https://dev.to/samueladeduntan/pre-day-1-laying-the-foundation-docker-concepts-50k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
