@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build or Buy Your Third-Party Monitoring System: Decision Guide](https://dev.to/isdown/build-or-buy-your-third-party-monitoring-system-decision-guide-1cfo)
 - [The fact that judges were tricked with void orders should scare everyone. This is how justice gets corrupted.](https://dev.to/themargauxs/the-fact-that-judges-were-tricked-with-void-orders-should-scare-everyone-this-is-how-justice-gets-2a9)
 - [Pino Logger - Complete Guide to Logging in NodeJS with Pino](https://dev.to/signoz/pino-logger-complete-guide-to-logging-in-nodejs-with-pino-7b)
 - [The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms](https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l)
 - [Working with Parallel Branches in my project](https://dev.to/cynthia_f/working-with-parallel-branches-in-my-project-gdj)
-- [🧠Building AI Beyond the Hype](https://dev.to/marcosomma/building-ai-beyond-the-hype-3b77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
