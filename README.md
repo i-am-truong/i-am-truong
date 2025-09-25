@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Understanding the SQL Statement in Uniface 10.4: A Developer&#39;s Guide](https://dev.to/petercode/understanding-the-sql-statement-in-uniface-104-a-developers-guide-4o72)
-- [🚀 Understanding the Uniface spawn Command: Execute Operating System Commands Like a Pro](https://dev.to/petercode/understanding-the-uniface-spawn-command-execute-operating-system-commands-like-a-pro-55jm)
-- [🚀 Mastering Uniface `sort/list`: Complete Guide to List Sorting in ProcScript](https://dev.to/petercode/mastering-uniface-sortlist-complete-guide-to-list-sorting-in-procscript-4nh9)
-- [🚀 Mastering the Uniface sort Statement: A Complete Guide](https://dev.to/petercode/mastering-the-uniface-sort-statement-a-complete-guide-43i9)
-- [Understanding the SOAP Declaration in Uniface 10.4 🚀](https://dev.to/petercode/understanding-the-soap-declaration-in-uniface-104-go5)
+- [Components in Rails without gems](https://dev.to/railsdesigner/components-in-rails-without-gems-41n0)
+- [AWS Storage Gateway: Cached Volumes or Stored Volumes ?](https://dev.to/wakeup_flower_8591a6cb6a9/aws-storage-gateway-cached-volumes-or-stored-volumes--2a81)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-3f96)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-52nc)
+- [KEXP: Thee Marloes - Not Today &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-not-today-live-on-kexp-1167)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
