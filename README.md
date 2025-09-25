@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Passkeys Without the Pain: A Frontend Dev’s Guide](https://dev.to/highflyer910/passkeys-without-the-pain-a-frontend-devs-guide-276k)
-- [Best 10 Web Development Companies in India 2025](https://dev.to/santosh_avarolli_211d700e/best-10-web-development-companies-in-india-2025-27ac)
-- [Security, Privacy, and Trust in Web3 Systems](https://dev.to/cubewire_9e012791e51c042b/security-privacy-and-trust-in-web3-systems-10nn)
-- [Proof Before Promises: A Human-Centered Release Method for Small Engineering Teams](https://dev.to/sonia_bobrik_1939cdddd79d/proof-before-promises-a-human-centered-release-method-for-small-engineering-teams-10nn)
-- [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
+- [Choosing a Framework is Hard… Here’s the Shortcut](https://dev.to/shaq_attack/choosing-a-framework-is-hard-heres-the-shortcut-485g)
+- [Ethereum Sets Fusaka for December, Epoch Protocol raises $1.2M, “Not All State Is Equal” Ethereum Study, Mono Protocol $2M](https://dev.to/etherspot/ethereum-sets-fusaka-for-december-epoch-protocol-raises-12m-not-all-state-is-equal-ethereum-5985)
+- [🚀 Understanding the Spring Application Lifecycle](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-the-spring-application-lifecycle-277h)
+- [5 Ways to Protect Sensitive Information in the Digital Age](https://dev.to/insureyouknow_79344b896cd/5-ways-to-protect-sensitive-information-in-the-digital-age-15fd)
+- [🌱 Understanding the Spring Bean Lifecycle](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-the-spring-bean-lifecycle-663)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
