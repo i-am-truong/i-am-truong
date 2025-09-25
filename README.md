@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Practical AI Stacks for Anyone Not Named Google](https://dev.to/prithwish_nath/5-practical-ai-stacks-for-anyone-not-named-google-3nh1)
 - [I Connected 3 MCP Servers to Claude &amp; Built a No-Code Research Agent That Actually Cites Sources](https://dev.to/prithwish_nath/i-connected-3-mcp-servers-to-claude-built-a-no-code-research-agent-that-actually-cites-sources-4lfn)
 - [I Built a System to Generate Professional Travel Guides Using AI—Here&#39;s the Blueprint](https://dev.to/huizhudev/i-built-a-system-to-generate-professional-travel-guides-using-ai-heres-the-blueprint-51b)
 - [How to Set Up a Self-Hosted Obsidian Sync Server](https://dev.to/lightningdev123/how-to-set-up-a-self-hosted-obsidian-sync-server-hcn)
 - [👋 Hi, I’m Aoda — Excited to Join dev.to!](https://dev.to/aoda-zhang/hi-im-aoda-excited-to-join-devto-2l64)
-- [gitlab+jenkins CI/CD](https://dev.to/tanjinsarker/gitlabjenkins-cicd-4hf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
