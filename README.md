@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/praneetaprakash/-2nfe)
 - [C# LeetCode 268: Missing Number - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-268-missing-number-easy-2ogc)
 - [ChatGPT Pulse: Turning AI into a Proactive Assistant for Developers](https://dev.to/alifar/chatgpt-pulse-turning-ai-into-a-proactive-assistant-for-developers-3hk8)
 - [From Chaos to Clarity: How I Built CrammAI, the AI Study Copilot I Wish I Had in University](https://dev.to/kareemblessed/from-chaos-to-clarity-how-i-built-crammai-the-ai-study-copilot-i-wish-i-had-in-university-64m)
 - [Stategraph: Terraform state as a distributed systems problem](https://dev.to/josh_pollara_2f8bb369b3f3/stategraph-terraform-state-as-a-distributed-systems-problem-hlm)
-- [Exploring the Benefits of Using a Dedicated File Uploader Library](https://dev.to/ideradevtools/exploring-the-benefits-of-using-a-dedicated-file-uploader-library-3c4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
