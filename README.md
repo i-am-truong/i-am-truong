@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Bestsellers Scraper – Extract Top Product Data with Ease](https://dev.to/zegham_ali_87389465b32f38/amazon-bestsellers-scraper-extract-top-product-data-with-ease-312n)
 - [The Sunset of General-Purpose Apps: Why Bespoke Tools are the Future](https://dev.to/hamdi_laadhari/the-sunset-of-general-purpose-apps-why-bespoke-tools-are-the-future-lip)
 - [Create and use Dataflows &lpar;Gen2&rpar; in Microsoft Fabric](https://dev.to/lotanna_obianefo/create-and-use-dataflows-gen2-in-microsoft-fabric-4gnk)
 - [The Secret Life of List Operations: Why Slicing Isn&#39;t Free](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-list-operations-why-slicing-isnt-free-5cf3)
 - [Don’t Mercilessly Add AI Just to Look Cool](https://dev.to/soasme/dont-mercilessly-add-ai-just-to-look-cool-h8m)
-- [Need Help!!](https://dev.to/karxm/need-help-3kj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
