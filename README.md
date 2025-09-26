@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS Subgrid: Unlock Next-Level Layout Control for Complex Web Designs](https://dev.to/satyam_gupta_0d1ff2152dcc/css-subgrid-unlock-next-level-layout-control-for-complex-web-designs-4nio)
-- [通用时间解析](https://dev.to/dragon72463399/tong-yong-shi-jian-jie-xi-5fjo)
-- [boss职位监控](https://dev.to/dragon72463399/bosszhi-wei-jian-kong-4ocm)
-- [Crypto API Calls Are Expensive: Cost-Effective Solutions and Optimization Strategies](https://dev.to/saira_zeeshan_35fc05971fd/crypto-api-calls-are-expensive-cost-effective-solutions-and-optimization-strategies-5e4g)
-- [: Container Queries in CSS: A Complete Guide to the Future of Responsive Design](https://dev.to/satyam_gupta_0d1ff2152dcc/-container-queries-in-css-a-complete-guide-to-the-future-of-responsive-design-24om)
+- [Model Context Protocol &lpar;MCP&rpar;: What Developers Need to Know](https://dev.to/t2c/model-context-protocol-mcp-what-developers-need-to-know-gnp)
+- [The Largest NPM Supply Chain Attack Ever and How to Defend Against It](https://dev.to/aerabi/the-largest-npm-supply-chain-attack-ever-and-how-to-defend-against-it-9a6)
+- [NLOV on Solana: Utility Token Design for a Decentralized AI Compute Marketplace](https://dev.to/neurolov__ai/nlov-on-solana-utility-token-design-for-a-decentralized-ai-compute-marketplace-cp5)
+- [How AI Helped a Developer Master SQL Server Performance Optimization Without DBA Training](https://dev.to/dbai/how-ai-helped-a-developer-master-sql-server-performance-optimization-without-dba-training-32a4)
+- [This Week In React #251: TanStack, React Router, RSC | Nitro Modules, Expo Workflows, Live Activity | CSS, HTML](https://dev.to/sebastienlorber/this-week-in-react-251-tanstack-react-router-rsc-nitro-modules-expo-workflows-live-activity-1g8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
