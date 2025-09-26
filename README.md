@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your Mongoose Models Smarter and Your Code Cleaner with Setters, Getters, and More](https://dev.to/og_wunderkind/how-to-make-your-mongoose-models-smarter-and-your-code-cleaner-with-setters-getters-and-more-22ag)
-- [AI at the Edge: Why Hardware and Embedded AI Will Decide the Next Decade](https://dev.to/rikulauttia/ai-at-the-edge-why-hardware-and-embedded-ai-will-decide-the-next-decade-l57)
-- [Why Sustainable Software Engineering Should Be on Every Organization’s Agenda](https://dev.to/samira_talebi_cca34ce28b8/green-software-engineering-pii)
-- [WTF is Large Language Model Engineering?](https://dev.to/dailybugle33/wtf-is-large-language-model-engineering-268n)
-- [[Boost]](https://dev.to/sadeedpv/-1j1c)
+- [Delete Local Branch Git: The Complete Guide to Cleaning Up Your Repositories](https://dev.to/keploy/delete-local-branch-git-the-complete-guide-to-cleaning-up-your-repositories-oo8)
+- [Automating Data Pipelines with Bright Data, n8n, and Airtable](https://dev.to/alifar/automating-data-pipelines-with-bright-data-n8n-and-airtable-126h)
+- [Top 10 JavaScript Frameworks That Will Rule 2026](https://dev.to/coco_junk_e2afc9395cfe1f0/top-10-javascript-frameworks-that-will-rule-2026-5k5)
+- [Beyond Bitcoin: How Crypto Shapes Culture, Sports, and Business](https://dev.to/tanelith/beyond-bitcoin-how-crypto-shapes-culture-sports-and-business-3pc7)
+- [Outil de Cybersécurité du Jour - Sep 26, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-26-2025-29e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
