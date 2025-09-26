@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Find the Right Keywords That Drive Results](https://dev.to/lovestaco/how-to-find-the-right-keywords-that-drive-results-3o7i)
 - [Memory Forensics: Uncovering Attacker Secrets That Never Touch the Disk](https://dev.to/gagreatprogrammer/memory-forensics-uncovering-attacker-secrets-that-never-touch-the-disk-6i0)
+- [What was the first sign that you would love Programming?](https://dev.to/raworiginal/what-was-the-first-sign-that-you-would-love-programming-33fn)
+- [LoLBins](https://dev.to/luigibelanda/lolbins-1do8)
 - [Context and Context Windows: What You Need to Know](https://dev.to/knitli/context-and-context-windows-what-you-need-to-know-h4k)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-11gi)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-emh)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3073)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
