@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Titans Battle for the Next Generation: Freebies Flood College Campuses](https://dev.to/aiwithapex/ai-titans-battle-for-the-next-generation-freebies-flood-college-campuses-2749)
+- [The 5-3-1 Code Review Rule: Senior Developer&#39;s Guide to Quality Control](https://dev.to/teamcamp/the-5-3-1-code-review-rule-senior-developers-guide-to-quality-control-4b5h)
 - [A TypeScript Journey: When Type Safety Feels Like a Safety Harness… and Sometimes a 10 kg Stone on Your Feet](https://dev.to/nadkarnigaurav/a-typescript-journey-when-type-safety-feels-like-a-safety-harness-and-sometimes-a-10-kg-stone-on-35kn)
 - [Useful MYSQL functions](https://dev.to/sadiul_hakim/useful-mysql-functions-4gl9)
 - [Understanding Uniface xmlsave: Exporting Data to XML Streams 🚀](https://dev.to/petercode/understanding-uniface-xmlsave-exporting-data-to-xml-streams-5h7j)
-- [Creating ASCII Art from an Image with Python 🐍](https://dev.to/codemintah/creating-ascii-art-from-an-image-with-python-2eam)
-- [Build Admin Panels &amp; REST APIs from JSON Schemas in Minutes with NextMin 🚀](https://dev.to/tareqpro/build-admin-panels-rest-apis-from-json-schemas-in-minutes-with-nextmin-b0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
