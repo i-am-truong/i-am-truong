@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Playwright] Element is outside of the viewport&quot; in Playwright — why it happens and how to fix it](https://dev.to/araujosnathan/playwright-element-is-outside-of-the-viewport-in-playwright-why-it-happens-and-how-to-fix-it-hhp)
+- [Website Red Flags You Might Be Overlooking &lpar;And Visitors Notice&rpar;](https://dev.to/per-starke-642/website-red-flags-you-might-be-overlooking-and-visitors-notice-25nm)
 - [Pequeñas ideas, grandes comunidades: así nació Kinua](https://dev.to/juan_jose_miranda/pequenas-ideas-grandes-comunidades-asi-nacio-kinua-5f78)
-- [The Silent Watchers](https://dev.to/rawveg/the-silent-watchers-43mn)
-- [Part-85: 🔹Kubernetes GKE ReplicaSet: Reliability, Load Balancing &amp; Scaling in GCP Cloud](https://dev.to/latchudevops/part-85-kubernetes-gke-replicaset-reliability-load-balancing-scaling-in-gcp-cloud-aea)
-- [Using iTerm2&#39;s new AI Chat features with Azure OpenAI](https://dev.to/vlad_iliescu/using-iterm2s-new-ai-chat-features-with-azure-openai-87f)
-- [Why is GraphQL gaining adoption?](https://dev.to/ankit_kumar_cfb7221a73fcb/why-is-graphql-gaining-adoption-1imc)
+- [What People Do With Workflows](https://dev.to/maybe_ai/what-people-do-with-workflows-3ap)
+- [🚀 Clean Commit Messages: Why &amp; How](https://dev.to/tal7aouy/clean-commit-messages-why-how-1p3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
