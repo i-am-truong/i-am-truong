@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Does AI Reduce Human Bias, or Does It Reinforce the Bias Hidden in Data?](https://dev.to/koshirok096/does-ai-reduce-human-bias-or-does-it-reinforce-the-bias-hidden-in-data-4d8f)
-- [Programmers be like...](https://dev.to/trivelt/programmers-be-like-48pj)
-- [Security news weekly round-up - 26th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-26th-september-2025-4b2p)
-- [Stop Juggling SQL Scripts: Introducing Zync, the Database Package Manager](https://dev.to/mirshahreza/stop-juggling-sql-scripts-introducing-zync-the-database-package-manager-54bk)
-- [Seamless Forms with shadcn/ui and TanStack Form](https://dev.to/felipestanzani/seamless-forms-with-shadcnui-and-tanstack-form-mng)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-31d5)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1ehp)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-553g)
+- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-1jo1)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4hgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
