@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing ContentAIPro: AI-Powered Content Generation for Developers &amp; Creators](https://dev.to/rahul_kumar_3864882785609/introducing-contentaipro-ai-powered-content-generation-for-developers-creators-65)
-- [⚡Here Are 5 GitHub Projects Too Cool to Miss](https://dev.to/dev_kiran/here-are-5-github-projects-too-cool-to-miss-198l)
-- [🍺 Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-1mm8)
-- [🚀 Vonage Developer Newsletter, Sept. 2025: New Identity Insights API + RCS tutorials and events](https://dev.to/vonagedev/vonage-developer-newsletter-sept-2025-new-identity-insights-api-rcs-tutorials-and-events-303d)
-- [Java Cheat Sheet](https://dev.to/narednra_reddyyadama_d64/java-cheat-sheet-5906)
+- [From JSONB to Bitmasks: Faster Flags &amp; Cleaner RLS in Postgres with Go/TS](https://dev.to/ryansgi/from-jsonb-to-bitmasks-faster-flags-cleaner-rls-in-postgres-with-gots-29o2)
+- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-3hke)
+- [🃏 A Tiny Card Game in Java](https://dev.to/mohamad_mhana/a-tiny-card-game-in-java-4gih)
+- [Handling types in JavaScript](https://dev.to/brendon_oneill__/handling-types-in-javascript-1cg)
+- [Why do we depend on slack for user story and backlog item context? Doesn&#39;t it make more sense to keep it in the story or backlog item? https://imdone.io](https://dev.to/saxmanjes/why-do-we-depend-on-slack-for-user-story-and-backlog-item-context-doesnt-it-make-more-sense-to-308)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
