@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Our Status Page Lied to Us: 7 Steps to Building a Communication Platform Customers Actually Trust](https://dev.to/mthrn/our-status-page-lied-to-us-7-steps-to-building-a-communication-platform-customers-actually-trust-53lg)
 - [Getting Started with MCP: Connecting Clients &amp; 10 Essential MCPs you should try](https://dev.to/jefreesujit/getting-started-with-mcp-connecting-clients-10-essential-mcps-you-should-try-3a5)
 - [Tracking Power Outages with Raspberry Pi + ESP32 + Telegram](https://dev.to/cray2015/tracking-power-outages-with-raspberry-pi-esp32-telegram-5hdo)
 - [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-32p8)
 - [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-169a)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3jo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
