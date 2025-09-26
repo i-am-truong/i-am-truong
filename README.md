@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Introducing ContentAIPro: AI-Powered Content Generation for Developers &amp; Creators](https://dev.to/rahul_kumar_3864882785609/introducing-contentaipro-ai-powered-content-generation-for-developers-creators-65)
+- [⚡Here Are 5 GitHub Projects Too Cool to Miss](https://dev.to/dev_kiran/here-are-5-github-projects-too-cool-to-miss-198l)
+- [🍺 Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-1mm8)
 - [🚀 Vonage Developer Newsletter, Sept. 2025: New Identity Insights API + RCS tutorials and events](https://dev.to/vonagedev/vonage-developer-newsletter-sept-2025-new-identity-insights-api-rcs-tutorials-and-events-303d)
 - [Java Cheat Sheet](https://dev.to/narednra_reddyyadama_d64/java-cheat-sheet-5906)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-6bd)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-22n)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1oce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
