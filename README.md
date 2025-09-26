@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Postgres Arrays in Your Supabase Projects](https://dev.to/ziga_petek_c2bfdf4d05a5cb/the-power-of-postgres-arrays-in-your-supabase-projects-2iml)
 - [Enhancing developer experience with Vagrant](https://dev.to/berviantoleo/enhancing-developer-experience-with-vagrant-ai0)
 - [Will the Web Survive Without Browsers?](https://dev.to/dct_technology/will-the-web-survive-without-browsers-54o8)
 - [Customizing the Stubborn Int&#39;l Phone &lt;input&gt;](https://dev.to/gaatif/customizing-the-stubborn-intl-phone-2fa0)
 - [🌰 Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-11ip)
-- [Setting Up a Miniconda Environment for NASA PDS Data Analysis on Windows 11](https://dev.to/masoomjethwa/setting-up-a-miniconda-environment-for-nasa-pds-data-analysis-on-windows-11-51nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
