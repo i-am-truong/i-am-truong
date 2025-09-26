@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Slow Uploads? Transfer Files Instantly Over LAN with This Simple Tool](https://dev.to/__adab353d48e057eb1a1e7/tired-of-slow-uploads-transfer-files-instantly-over-lan-with-this-simple-tool-1ikd)
+- [Securely Configuring Azure Blob Storage in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/securely-configuring-azure-blob-storage-in-net-web-api-1gn9)
 - [A Vontade do Dev: Como o Open Source Está Unindo Tripulações para Encontrar o &quot;One Piece&quot; da Tecnologia](https://dev.to/melettz1/a-vontade-do-dev-como-o-open-source-esta-unindo-tripulacoes-para-encontrar-o-one-piece-da-22i3)
-- [USA Announces Thousands of New Work Visas for 2025 — What It Means](https://dev.to/trenzy360world/usa-announces-thousands-of-new-work-visas-for-2025-what-it-means-10jo)
-- [GitKraken MCP: Supercharging Your AI Development Workflow](https://dev.to/manjushsh/gitkraken-mcp-supercharging-your-ai-development-workflow-29if)
-- [Pipetype: TypeScript Unions Bitwise Operators, and My Favorite Failed Experiment](https://dev.to/overthemike/pipetype-typescript-unions-bitwise-operators-and-my-favorite-failed-experiment-1cbk)
+- [🍎 From UTXOs to SegWit: How Bitcoin Fixed Transaction Malleability and Lowered Fees](https://dev.to/_56d7718cea8fe00ec1610/from-utxos-to-segwit-how-bitcoin-fixed-transaction-malleability-and-lowered-fees-358b)
+- [Next-Level Frosted Glass with `backdrop-filter` ✨](https://dev.to/er-raj-aryan/next-level-frosted-glass-with-backdrop-filter-k9m)
+- [🌄 Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-49af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
