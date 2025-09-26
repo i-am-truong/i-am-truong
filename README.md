@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Cost of Bad Data: Why Clean Data is Worth More Than Gold](https://dev.to/hezronokwach/the-hidden-cost-of-bad-data-why-clean-data-is-worth-more-than-gold-afm)
+- [Deployment Flexibility for .NET: Hosuto modules](https://dev.to/frank_wagner_db8544544684/deployment-flexibility-for-net-hosuto-modules-56o5)
 - [Configuring Azure ExpressRoute Gateway: A Step-by-Step Guide with Real-World Benefits](https://dev.to/peter_samuel_052b9056e236/configuring-azure-expressroute-gateway-a-step-by-step-guide-with-real-world-benefits-fhd)
+- [The Silent Heart of the Circus: Deconstructing Our Bond with Pierrot](https://dev.to/christopher_brown_8d8fd5d/the-silent-heart-of-the-circus-deconstructing-our-bond-with-pierrot-1dal)
 - [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2ahb)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-37g0)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3897)
-- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-23kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
