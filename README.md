@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Uniface xmlsave: Exporting Data to XML Streams 🚀](https://dev.to/petercode/understanding-uniface-xmlsave-exporting-data-to-xml-streams-5h7j)
+- [🌐 Understanding Uniface websetocc: Managing Entity Occurrences in Web Applications](https://dev.to/petercode/understanding-uniface-websetocc-managing-entity-occurrences-in-web-applications-1n2e)
+- [📚 Understanding Uniface 10.4&#39;s websave Statement: Converting Component Data to JSON](https://dev.to/petercode/understanding-uniface-104s-websave-statement-converting-component-data-to-json-2iea)
 - [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-1bbm)
 - [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1313)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-ij4)
-- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-3cd2)
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-1jc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
