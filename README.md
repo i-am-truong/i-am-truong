@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to CI/CD](https://dev.to/locnguyenpv/introduction-to-cicd-2nfg)
-- [Random Refection](https://dev.to/bugsite_melancholy/random-refection-d74)
-- [How to Find the Right Keywords That Drive Results](https://dev.to/lovestaco/how-to-find-the-right-keywords-that-drive-results-3o7i)
-- [Memory Forensics: Uncovering Attacker Secrets That Never Touch the Disk](https://dev.to/gagreatprogrammer/memory-forensics-uncovering-attacker-secrets-that-never-touch-the-disk-6i0)
-- [What was the first sign that you would love Programming?](https://dev.to/raworiginal/what-was-the-first-sign-that-you-would-love-programming-33fn)
+- [Steering AI Agents in Monorepos with AGENTS.md](https://dev.to/datadog-frontend-dev/steering-ai-agents-in-monorepos-with-agentsmd-13g0)
+- [Ever wondered what&#39;s the tech behind blockchains?](https://dev.to/5uig3n3ris/ever-wondered-whats-the-tech-behind-blockchains-4mgc)
+- [🚀 Using enum with key-value objects in the Front-end: a more scalable approach](https://dev.to/wallace-leo/using-enum-with-key-value-objects-in-the-front-end-a-more-scalable-approach-3ij2)
+- [If You’re New to Web3, Start Here](https://dev.to/thekarlesi/if-youre-new-to-web3-start-here-1jni)
+- [How rfgrep Achieves Hardware Acceleration - SIMD-Optimized String Matching](https://dev.to/kherld/how-rfgrep-achieves-hardware-acceleration-simd-optimized-string-matching-1cdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
