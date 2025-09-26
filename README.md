@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Perceived Performance Can Transform Your Next.js Projects](https://dev.to/shubhradev/how-perceived-performance-can-transform-your-nextjs-projects-55f5)
+- [Intermittent NoSuchMethodError in WebLogic application](https://dev.to/xerces8/intermittent-nosuchmethoderror-in-weblogic-application-3mjb)
+- [Laravel&#39;s `fillable property` and the Hidden Danger to Your Business App](https://dev.to/claudye/laravels-fillable-property-and-the-hidden-danger-to-your-business-app-4pm8)
 - [The Hidden Cost of Bad Data: Why Clean Data is Worth More Than Gold](https://dev.to/hezronokwach/the-hidden-cost-of-bad-data-why-clean-data-is-worth-more-than-gold-afm)
 - [Deployment Flexibility for .NET: Hosuto modules](https://dev.to/frank_wagner_db8544544684/deployment-flexibility-for-net-hosuto-modules-56o5)
-- [Configuring Azure ExpressRoute Gateway: A Step-by-Step Guide with Real-World Benefits](https://dev.to/peter_samuel_052b9056e236/configuring-azure-expressroute-gateway-a-step-by-step-guide-with-real-world-benefits-fhd)
-- [The Silent Heart of the Circus: Deconstructing Our Bond with Pierrot](https://dev.to/christopher_brown_8d8fd5d/the-silent-heart-of-the-circus-deconstructing-our-bond-with-pierrot-1dal)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2ahb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
