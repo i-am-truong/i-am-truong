@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Visual AWS Infrastructure Design with AWS Infrastructure Composer](https://dev.to/taiwoadeleke12/unlocking-visual-aws-infrastructure-design-with-aws-infrastructure-composer-3nah)
+- [Indirect Prompt Injection: A New Security Concern in MCP Servers](https://dev.to/extinctsion/indirect-prompt-injection-a-new-security-concern-in-mcp-servers-211f)
 - [The Technical Challenges of Data Annotation in Computer Vision](https://dev.to/joe09/the-technical-challenges-of-data-annotation-in-computer-vision-4fk5)
 - [Orchestrating AI multi-agent infrastructure with AWS Bedrock, OpenAI and n8n](https://dev.to/aws-builders/orchestrating-ai-multi-agent-infrastructure-with-aws-bedrock-openai-and-n8n-28p6)
 - [EWWW vs. ShortPixel: Which Image Optimizer Is Right for Your WordPress Site?](https://dev.to/andreialba/ewww-vs-shortpixel-which-image-optimizer-is-right-for-your-wordpress-site-2lke)
-- [CompTIA Network+ N10-009 4.3 Study Guide: Device and Network Security](https://dev.to/andrew_despres/comptia-network-n10-009-43-study-guide-device-and-network-security-3290)
-- [If someone else talks to customers and writes specs and we, as coders, only turn those specs into code, we’ll be out of business soon. AI will eat us all alive.](https://dev.to/canro91/if-someone-else-talks-to-customers-and-writes-specs-and-we-as-coders-only-turn-those-specs-into-4m78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
