@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-84: 🚀Expose a Pod with Google Kubernetes Engine &lpar;GKE&rpar; LoadBalancer Service &lpar;Declarative Way&rpar;](https://dev.to/latchudevops/part-84-expose-a-pod-with-google-kubernetes-engine-gke-loadbalancer-service-declarative-way-32bd)
-- [I Implement 2FA on My Website with SafeLine WAF](https://dev.to/carrie_luo1/i-implement-2fa-on-my-website-with-safeline-waf-2leb)
-- [MongoDB Aggregation Roadmap – A 7-Day Study Plan](https://dev.to/rayan2228/mongodb-aggregation-roadmap-a-7-day-study-plan-3olm)
-- [Securely Configuring Azure Blob Storage in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/securely-configuring-azure-blob-storage-in-net-web-api-1gn9)
-- [A Vontade do Dev: Como o Open Source Está Unindo Tripulações para Encontrar o &quot;One Piece&quot; da Tecnologia](https://dev.to/melettz1/a-vontade-do-dev-como-o-open-source-esta-unindo-tripulacoes-para-encontrar-o-one-piece-da-22i3)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-1bbm)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1313)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-ij4)
+- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-3cd2)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-1jc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
