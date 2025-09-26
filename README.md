@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕ Cache Eviction — Lessons from a Small Café](https://dev.to/sumana10/cache-eviction-lessons-from-a-small-cafe-2jog)
-- [USA.... oof](https://dev.to/member_3d2e8190/usa-oof-31pf)
-- [From JSONB to Bitmasks: Faster Flags &amp; Cleaner RLS in Postgres with Go/TS](https://dev.to/ryansgi/from-jsonb-to-bitmasks-faster-flags-cleaner-rls-in-postgres-with-gots-29o2)
-- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-3hke)
-- [🃏 A Tiny Card Game in Java](https://dev.to/mohamad_mhana/a-tiny-card-game-in-java-4gih)
+- [KendoReactChallenge : Feedback Analyzer](https://dev.to/tanmaybanerjee/kendoreactchallenge-feedback-analyzer-8bm)
+- [PART 3: IAM ROLES](https://dev.to/ntsezenelvis/part-3-iam-roles-1if2)
+- [Journey to the Golden Jacket: Passing the AWS Solutions Architect Professional Exam](https://dev.to/aws-builders/journey-to-the-golden-jacket-passing-the-aws-solutions-architect-professional-exam-13e6)
+- [How AI Agents Unlock New Integration Paradigms Beyond Traditional APIs](https://dev.to/anusha_kuppili/how-ai-agents-unlock-new-integration-paradigms-beyond-traditional-apis-4jdl)
+- [Building a modern TypeScript Library in 2026 with Bun](https://dev.to/arshadyaseen/building-a-typescript-library-in-2026-with-bunup-3bmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
