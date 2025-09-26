@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Game Using JavaScript](https://dev.to/sanjaynaker/how-to-create-a-simple-game-using-javascript-96k)
-- [Fang Junyu&#39;s Technology Weekly - September 26, 2025](https://dev.to/junyu_fang_a216509a97501d/fang-junyus-technology-weekly-september-26-2025-2ndd)
-- [Customer Segmentation in E-Commerce: Driving Growth Through Personalization](https://dev.to/anshuman_816f8012be0c9b6c/customer-segmentation-in-e-commerce-driving-growth-through-personalization-1ibo)
-- [Employees who have accumulated more than 5 years of work experience in New York--SPL Programming Practice](https://dev.to/esproc_spl/employees-who-have-accumulated-more-than-5-years-of-work-experience-in-new-york-spl-programming-2ah0)
-- [How Vue Animations Enhance User Engagement and Interaction on Digital Platforms](https://dev.to/fiona_blackwood_07/how-vue-animations-enhance-user-engagement-and-interaction-on-digital-platforms-49g9)
+- [Day-5: SELinux | 100 Days of DevOps](https://dev.to/olymahmud/day-5-selinux-100-days-of-devops-l4p)
+- [PVS-Studio team invites you to share examples of errors related to vibe coding](https://dev.to/pvsdev/pvs-studio-team-invites-you-to-share-examples-of-errors-related-to-vibe-coding-2ha5)
+- [MLPerf Storage v2.0: JuiceFS Leads in Bandwidth Utilization and Scalability for AI Training](https://dev.to/daswu/mlperf-storage-v20-juicefs-leads-in-bandwidth-utilization-and-scalability-for-ai-training-1021)
+- [Continuous Integration for Intelligence: Beyond CI/CD](https://dev.to/rohit_gavali_0c2ad84fe4e0/continuous-integration-for-intelligence-beyond-cicd-412p)
+- [Use ZoomEye to find Jupyter servers without identity verification enabled](https://dev.to/stark_zhuang_df5076f35c68/use-zoomeye-to-find-jupyter-servers-without-identity-verification-enabled-5ehb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
