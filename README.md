@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Skewness and Kurtosis](https://dev.to/jeffa_jeffa_67f700f712ab7/skewness-and-kurtosis-2a1b)
-- [CQRS — Command Query Responsibility Segregation](https://dev.to/programadriano/cqrs-command-query-responsibility-segregation-2fma)
-- [✨ Defense Against the Dark Arts of SaaS: Single vs Multi-Tenancy](https://dev.to/madildev/defense-against-the-dark-arts-of-saas-single-vs-multi-tenancy-2d39)
-- [Hints for LeetCode Without Spoilers: A Playbook for Real Learning](https://dev.to/alex_hunter_44f4c9ed6671e/hints-for-leetcode-without-spoilers-a-playbook-for-real-learning-imh)
-- [Steering AI Agents in Monorepos with AGENTS.md](https://dev.to/datadog-frontend-dev/steering-ai-agents-in-monorepos-with-agentsmd-13g0)
+- [Getting Started with MCP: Connecting Clients &amp; 10 Essential MCPs you should try](https://dev.to/jefreesujit/getting-started-with-mcp-connecting-clients-10-essential-mcps-you-should-try-3a5)
+- [Tracking Power Outages with Raspberry Pi + ESP32 + Telegram](https://dev.to/cray2015/tracking-power-outages-with-raspberry-pi-esp32-telegram-5hdo)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-32p8)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-169a)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3jo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
