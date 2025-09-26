@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Vonage Developer Newsletter, Sept. 2025: New Identity Insights API + RCS tutorials and events](https://dev.to/vonagedev/vonage-developer-newsletter-sept-2025-new-identity-insights-api-rcs-tutorials-and-events-303d)
+- [Java Cheat Sheet](https://dev.to/narednra_reddyyadama_d64/java-cheat-sheet-5906)
 - [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-6bd)
 - [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-22n)
 - [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1oce)
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-3gk4)
-- [KEXP: Nation of Language - In Another Life &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-in-another-life-live-on-kexp-4g77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
