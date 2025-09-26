@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-31d5)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1ehp)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-553g)
-- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-1jo1)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4hgh)
+- [Observabilidade em aplicações móveis](https://dev.to/wps13/observabilidade-em-aplicacoes-moveis-2bfi)
+- [Good Practices Now That Your Future Senior Self Will Thank You For](https://dev.to/amoreno/good-practices-now-that-your-future-senior-self-will-thank-you-for-3p3a)
+- [AI Sees the Forest for the Trees: Revolutionizing Plant Counting for a Greener Future](https://dev.to/arvind_sundararajan/ai-sees-the-forest-for-the-trees-revolutionizing-plant-counting-for-a-greener-future-3oh4)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-20i5)
+- [7 Tips for Securing Nginx with TLS, HTTP/2, and Modern Ciphers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-http2-and-modern-ciphers-38ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
