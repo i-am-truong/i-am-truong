@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Install and use Microsoft AI Shell](https://dev.to/techielass/install-and-use-microsoft-ai-shell-4c28)
+- [MCP Builder Breakfast: Toast and Tools](https://dev.to/fiberplane/mcp-builder-breakfast-toast-and-tools-258m)
 - [Mini Web Socket](https://dev.to/arthurdev_amoserdev/mini-web-socket-15af)
 - [LeetCode AI Assistant: A Smarter Way to Prepare for Coding Interviews](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-ai-assistant-a-smarter-way-to-prepare-for-coding-interviews-5ga4)
 - [Why Embedded Android SBCs Are Powering the Next Generation of Smart Devices](https://dev.to/kevinzhang109/why-embedded-android-sbcs-are-powering-the-next-generation-of-smart-devices-2hek)
-- [KendoReactChallenge : Feedback Analyzer](https://dev.to/tanmaybanerjee/kendoreactchallenge-feedback-analyzer-8bm)
-- [Exploring Claude&#39;s Quirks: Bugs, Laughs, and Transparency | Anthropic AI](https://dev.to/grenishrai/exploring-claudes-quirks-bugs-laughs-and-transparency-anthropic-ai-41lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
