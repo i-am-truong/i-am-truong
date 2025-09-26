@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [✨ Defense Against the Dark Arts of SaaS: Single vs Multi-Tenancy](https://dev.to/madildev/defense-against-the-dark-arts-of-saas-single-vs-multi-tenancy-2d39)
+- [Hints for LeetCode Without Spoilers: A Playbook for Real Learning](https://dev.to/alex_hunter_44f4c9ed6671e/hints-for-leetcode-without-spoilers-a-playbook-for-real-learning-imh)
+- [How AI Influencers Can Help You Make Money Online Today](https://dev.to/unconventional_onlinetoo/how-ai-influencers-can-help-you-make-money-online-today-4kdi)
 - [Steering AI Agents in Monorepos with AGENTS.md](https://dev.to/datadog-frontend-dev/steering-ai-agents-in-monorepos-with-agentsmd-13g0)
-- [Ever wondered what&#39;s the tech behind blockchains?](https://dev.to/5uig3n3ris/ever-wondered-whats-the-tech-behind-blockchains-4mgc)
-- [🚀 Using enum with key-value objects in the Front-end: a more scalable approach](https://dev.to/wallace-leo/using-enum-with-key-value-objects-in-the-front-end-a-more-scalable-approach-3ij2)
-- [If You’re New to Web3, Start Here](https://dev.to/thekarlesi/if-youre-new-to-web3-start-here-1jni)
-- [How rfgrep Achieves Hardware Acceleration - SIMD-Optimized String Matching](https://dev.to/kherld/how-rfgrep-achieves-hardware-acceleration-simd-optimized-string-matching-1cdd)
+- [Ever wondered what&#39;s the tech behind blockchains? How are blockchains created🤔](https://dev.to/5uig3n3ris/ever-wondered-whats-the-tech-behind-blockchains-4mgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
