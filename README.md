@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Complete User Authentication System with GitHub Copilot Chat: A Step-by-Step Guide](https://dev.to/fatoki_olaitan_3ee4c539e0/building-a-complete-user-authentication-system-with-github-copilot-chat-a-step-by-step-guide-339a)
+- [The Moving Day Disaster: Understanding List Mutations](https://dev.to/aaron_rose_0787cc8b4775a0/the-moving-day-disaster-understanding-list-mutations-d3p)
 - [Observabilidade em aplicações móveis](https://dev.to/wps13/observabilidade-em-aplicacoes-moveis-2bfi)
+- [GameSpot: Hollow Knight: Silksong Review](https://dev.to/gg_news/gamespot-hollow-knight-silksong-review-56pg)
 - [Good Practices Now That Your Future Senior Self Will Thank You For](https://dev.to/amoreno/good-practices-now-that-your-future-senior-self-will-thank-you-for-3p3a)
-- [AI Sees the Forest for the Trees: Revolutionizing Plant Counting for a Greener Future](https://dev.to/arvind_sundararajan/ai-sees-the-forest-for-the-trees-revolutionizing-plant-counting-for-a-greener-future-3oh4)
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-20i5)
-- [7 Tips for Securing Nginx with TLS, HTTP/2, and Modern Ciphers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-http2-and-modern-ciphers-38ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
