@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [☕ Cache Eviction — Lessons from a Small Café](https://dev.to/sumana10/cache-eviction-lessons-from-a-small-cafe-2jog)
+- [USA.... oof](https://dev.to/member_3d2e8190/usa-oof-31pf)
 - [From JSONB to Bitmasks: Faster Flags &amp; Cleaner RLS in Postgres with Go/TS](https://dev.to/ryansgi/from-jsonb-to-bitmasks-faster-flags-cleaner-rls-in-postgres-with-gots-29o2)
 - [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-3hke)
 - [🃏 A Tiny Card Game in Java](https://dev.to/mohamad_mhana/a-tiny-card-game-in-java-4gih)
-- [Handling types in JavaScript](https://dev.to/brendon_oneill__/handling-types-in-javascript-1cg)
-- [Why do we depend on slack for user story and backlog item context? Doesn&#39;t it make more sense to keep it in the story or backlog item? https://imdone.io](https://dev.to/saxmanjes/why-do-we-depend-on-slack-for-user-story-and-backlog-item-context-doesnt-it-make-more-sense-to-308)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
