@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol &lpar;MCP&rpar;: What Developers Need to Know](https://dev.to/t2c/model-context-protocol-mcp-what-developers-need-to-know-gnp)
-- [The Largest NPM Supply Chain Attack Ever and How to Defend Against It](https://dev.to/aerabi/the-largest-npm-supply-chain-attack-ever-and-how-to-defend-against-it-9a6)
-- [NLOV on Solana: Utility Token Design for a Decentralized AI Compute Marketplace](https://dev.to/neurolov__ai/nlov-on-solana-utility-token-design-for-a-decentralized-ai-compute-marketplace-cp5)
-- [How AI Helped a Developer Master SQL Server Performance Optimization Without DBA Training](https://dev.to/dbai/how-ai-helped-a-developer-master-sql-server-performance-optimization-without-dba-training-32a4)
-- [This Week In React #251: TanStack, React Router, RSC | Nitro Modules, Expo Workflows, Live Activity | CSS, HTML](https://dev.to/sebastienlorber/this-week-in-react-251-tanstack-react-router-rsc-nitro-modules-expo-workflows-live-activity-1g8g)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker and Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-and-nginx-22fc)
+- [The Big AI Hype: What’s Really Behind the Name](https://dev.to/marikinyo/the-big-ai-hype-whats-really-behind-the-name-1bem)
+- [Ng-News 25/38: Angular + AI Developer Event, S1ngularity Strikes Again](https://dev.to/this-is-angular/ng-news-2538-angular-ai-developer-event-s1ngularity-strikes-again-3bah)
+- [Gradle Isn’t Slow… It’s Leveling Up Your Patience as an Android Dev](https://dev.to/vrushali_dev_15/gradle-isnt-slow-its-leveling-up-your-patience-as-an-android-dev-4gal)
+- [🧩Consume an MCP Endpoint from Azure Logic Apps — with an Agent Loop](https://dev.to/imdj/consume-an-mcp-endpoint-from-azure-logic-apps-with-an-agent-loop-52jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
