@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TERRAFORM ACTIONS : The HashiConf &#39;25 Drop We’ve All Been Waiting For!!!!](https://dev.to/puneet_gavri_e5944e2c7cee/terraform-actions-the-hashiconf-25-drop-weve-all-been-waiting-for-3g9)
 - [🐳 Docker Demystified: Survival Guide for Lost Developers](https://dev.to/tavernetech/docker-demystified-survival-guide-for-lost-developers-5hmd)
 - [Deploying a MedusaJS 2.0 Store on AN AWS EC2 Instance.](https://dev.to/israeldotcom/deploying-a-medusajs-20-store-on-an-aws-ec2-instance-5ba5)
 - [Developing Two Features at Once with Git Branches. &lpar;merge&rpar;](https://dev.to/jongwan93/developing-two-features-at-once-with-git-branches-merge-2l0m)
 - [Which models dominate churn prediction? Insights from 240 ML/DL studies &lpar;2020–2024&rpar;](https://dev.to/mehdi_imani_9f3d4495c0572/which-models-dominate-churn-prediction-insights-from-240-mldl-studies-2020-2024-247a)
-- [Flow Fields, Painting with Math](https://dev.to/kadenwildauer/flow-fields-painting-with-math-5fhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
