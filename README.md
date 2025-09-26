@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Body tag - HTML](https://dev.to/melina_bernard_7fce15e253/body-tag-html-1kp3)
-- [🧠 Tiny Yet Mighty: How TinyGo is Revolutionizing IoT and Embedded Development in 2024](https://dev.to/ekwoster/tiny-yet-mighty-how-tinygo-is-revolutionizing-iot-and-embedded-development-in-2024-40o9)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-12if)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-16om)
-- [KEXP: Nation of Language - In Another Life &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-in-another-life-live-on-kexp-5gfn)
+- [‍ Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-4828)
+- [The Dos and Don’ts of Designing an Efficient Tableau Dashboard](https://dev.to/thedatageek/the-dos-and-donts-of-designing-an-efficient-tableau-dashboard-5g73)
+- [[Boost]](https://dev.to/cescquintero/-49l1)
+- [🛟 Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-1bk1)
+- [From Copper Wire to Code: A Master Electrician&#39;s Journey into Software Development ⚡💻](https://dev.to/chonito7919/from-copper-wire-to-code-a-master-electricians-journey-into-software-development-40g5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
