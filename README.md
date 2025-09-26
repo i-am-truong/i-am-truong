@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Tenant Migration Best Practices For Office 365 IT Admin](https://dev.to/inspireme_labs_e6af6b7b69/cross-tenant-migration-best-practices-for-office-365-it-admin-4jag)
+- [Cookie Consent Plugins: Do They Actually Protect Your Store from Fines?](https://dev.to/mehwish_malik_4f29ff7fb04/cookie-consent-plugins-do-they-actually-protect-your-store-from-fines-4kfc)
 - [Let&#39;s Talk About the New New Power Automate UI](https://dev.to/wyattdave/lets-talk-about-the-new-new-power-automate-ui-1hnn)
 - [Make Any List Keyboard-Friendly in Minutes](https://dev.to/brianmtreese/make-any-list-keyboard-friendly-in-minutes-3pbj)
 - [Python Access Modifiers Explained for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/python-access-modifiers-explained-for-beginners-i3o)
-- [Day-5: SELinux | 100 Days of DevOps](https://dev.to/olymahmud/day-5-selinux-100-days-of-devops-l4p)
-- [PVS-Studio team invites you to share examples of errors related to vibe coding](https://dev.to/pvsdev/pvs-studio-team-invites-you-to-share-examples-of-errors-related-to-vibe-coding-2ha5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
