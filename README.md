@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tired of Slow Uploads? Transfer Files Instantly Over LAN with This Simple Tool](https://dev.to/__adab353d48e057eb1a1e7/tired-of-slow-uploads-transfer-files-instantly-over-lan-with-this-simple-tool-1ikd)
+- [A Vontade do Dev: Como o Open Source Está Unindo Tripulações para Encontrar o &quot;One Piece&quot; da Tecnologia](https://dev.to/melettz1/a-vontade-do-dev-como-o-open-source-esta-unindo-tripulacoes-para-encontrar-o-one-piece-da-22i3)
 - [USA Announces Thousands of New Work Visas for 2025 — What It Means](https://dev.to/trenzy360world/usa-announces-thousands-of-new-work-visas-for-2025-what-it-means-10jo)
 - [GitKraken MCP: Supercharging Your AI Development Workflow](https://dev.to/manjushsh/gitkraken-mcp-supercharging-your-ai-development-workflow-29if)
-- [libui and Garbage Collection - Challenges in Creating Ruby and Crystal Bindings](https://dev.to/kojix2/libui-and-garbage-collection-challenges-in-creating-ruby-and-crystal-bindings-9m6)
-- [DLSS 4 — What’s new, how it works, and what it means for games and real-time graphics](https://dev.to/philipwinston2/dlss-4-whats-new-how-it-works-and-what-it-means-for-games-and-real-time-graphics-5ggd)
-- [Understanding Tokens: What They Are and Why They&#39;re Important](https://dev.to/knitli/understanding-tokens-what-they-are-and-why-theyre-important-876)
+- [Pipetype: TypeScript Unions Bitwise Operators, and My Favorite Failed Experiment](https://dev.to/overthemike/pipetype-typescript-unions-bitwise-operators-and-my-favorite-failed-experiment-1cbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
