@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Static Site Generators Beat WordPress for Small Business SEO](https://dev.to/opacedigitalagency/why-static-site-generators-beat-wordpress-for-small-business-seo-30ih)
+- [5 WordPress Performance Issues I Fix Every Week &lpar;And How You Can Too&rpar;](https://dev.to/leo_rio/5-wordpress-performance-issues-i-fix-every-week-and-how-you-can-too-34go)
 - [🚀 Безкоштовне менторство з Frontend розробки](https://dev.to/serhii_muzalov_58eb4988af/biezkoshtovnie-mientorstvo-z-frontend-rozrobki-lj0)
 - [The Microflow Mirage: When Pretty Boxes Become a Developer’s Prison](https://dev.to/hotfixhero/the-microflow-mirage-when-pretty-boxes-become-a-developers-prison-2f3e)
 - [Introducing Smart Icons Kit](https://dev.to/mak3/introducing-smart-icons-kit-1g8)
-- [[Boost]](https://dev.to/ralphsebastian/-4783)
-- [Orchestrating a stack of services across multiple environments](https://dev.to/louis_dussarps_e656bc7b01/orchestrating-a-stack-of-services-across-multiple-environments-1hd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
