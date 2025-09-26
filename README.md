@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [‍ Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-4828)
-- [The Dos and Don’ts of Designing an Efficient Tableau Dashboard](https://dev.to/thedatageek/the-dos-and-donts-of-designing-an-efficient-tableau-dashboard-5g73)
-- [[Boost]](https://dev.to/cescquintero/-49l1)
-- [🛟 Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-1bk1)
-- [From Copper Wire to Code: A Master Electrician&#39;s Journey into Software Development ⚡💻](https://dev.to/chonito7919/from-copper-wire-to-code-a-master-electricians-journey-into-software-development-40g5)
+- [How to connect Figma MCP to KIRO IDE](https://dev.to/preshnwoko/how-to-connect-figma-mcp-to-kiro-ide-2fhl)
+- [Automate Your Complex Workflows with Sub-Recipes in goose](https://dev.to/blockopensource/automate-your-complex-workflows-with-sub-recipes-in-goose-23bd)
+- [The best &lpar;free - cheap&rpar; AI friendly Cli and Coding environments](https://dev.to/soulentheo/the-best-free-cheap-ai-friendly-cli-and-coding-environments-16m6)
+- [Arquitetura REST: Conceitos e Aplicações](https://dev.to/gustavo_dias_8fec767000ad/arquitetura-rest-conceitos-e-aplicacoes-3pca)
+- [Evolução da linguagem Java &lpar;parte 3&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-3-2koo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
