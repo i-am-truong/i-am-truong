@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Tracker AI](https://dev.to/monahidalgo/code-tracker-ai-2dlh)
-- [Stop Polishing Pixels. Start Bumping Versions.](https://dev.to/soasme/stop-polishing-pixels-start-bumping-versions-7ge)
-- [From Java to Go: My Journey with Golang 🚀](https://dev.to/edivaldoramos/from-java-to-go-my-journey-with-golang-e7c)
-- [Coding Challenge Practice - Question 16](https://dev.to/tomivan/coding-challenge-practice-question-16-3imn)
-- [Understanding Bias Risks in Multi-Tool AI Agents](https://dev.to/shieldstring/understanding-bias-risks-in-multi-tool-ai-agents-4m84)
+- [Branch para deploy de validação](https://dev.to/eduardoklosowski/branch-para-deploy-de-validacao-441p)
+- [It’s one thing to represent a client. It’s another to join the conspiracy and profit from it.](https://dev.to/michbrowning/its-one-thing-to-represent-a-client-its-another-to-join-the-conspiracy-and-profit-from-it-fpf)
+- [The public deserves to know that Talentcrowd is a company born from stolen property, fraudulent orders, and bankruptcy abuse.](https://dev.to/michbrowning/the-public-deserves-to-know-that-talentcrowd-is-a-company-born-from-stolen-property-fraudulent-4b30)
+- [Stop Writing Boilerplate Code: Let AI Do It for You](https://dev.to/jaideepparashar/stop-writing-boilerplate-code-let-ai-do-it-for-you-24aj)
+- [7 Tips for Zero‑Downtime Deploys with Docker &amp; Nginx on Production](https://dev.to/ramer2b58cbe46bc8/7-tips-for-zero-downtime-deploys-with-docker-nginx-on-production-2h9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
