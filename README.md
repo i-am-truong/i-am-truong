@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Delete Local Branch Git: The Complete Guide to Cleaning Up Your Repositories](https://dev.to/keploy/delete-local-branch-git-the-complete-guide-to-cleaning-up-your-repositories-oo8)
-- [Automating Data Pipelines with Bright Data, n8n, and Airtable](https://dev.to/alifar/automating-data-pipelines-with-bright-data-n8n-and-airtable-126h)
-- [Top 10 JavaScript Frameworks That Will Rule 2026](https://dev.to/coco_junk_e2afc9395cfe1f0/top-10-javascript-frameworks-that-will-rule-2026-5k5)
-- [Beyond Bitcoin: How Crypto Shapes Culture, Sports, and Business](https://dev.to/tanelith/beyond-bitcoin-how-crypto-shapes-culture-sports-and-business-3pc7)
-- [Outil de Cybersécurité du Jour - Sep 26, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-26-2025-29e8)
+- [Building Your First AI-Powered Game: A Developer’s Guide](https://dev.to/sanjaynaker/building-your-first-ai-powered-game-a-developers-guide-59h)
+- [Advice for Open Source Entrepreneurs](https://dev.to/chen_debra_3060b21d12b1b0/advice-for-open-source-entrepreneurs-1o75)
+- [Checkout this article on The Evolution of Retail and the Rise of Retail Analytics: Origins, Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-the-evolution-of-retail-and-the-rise-of-retail-analytics-origins-3922)
+- [🚀 Building My Own Outreach Assistant](https://dev.to/okpaka/building-my-own-outreach-assistant-3h4j)
+- [The 3 fastest-growing SaaS teams we studied all do this: they publish a public roadmap](https://dev.to/mark_walker/the-3-fastest-growing-saas-teams-we-studied-all-do-this-they-publish-a-public-roadmap-cf3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
