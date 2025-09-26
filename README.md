@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Perceived Performance Can Transform Your Next.js Projects](https://dev.to/shubhradev/how-perceived-performance-can-transform-your-nextjs-projects-55f5)
-- [Intermittent NoSuchMethodError in WebLogic application](https://dev.to/xerces8/intermittent-nosuchmethoderror-in-weblogic-application-3mjb)
-- [Laravel&#39;s `fillable property` and the Hidden Danger to Your Business App](https://dev.to/claudye/laravels-fillable-property-and-the-hidden-danger-to-your-business-app-4pm8)
-- [The Hidden Cost of Bad Data: Why Clean Data is Worth More Than Gold](https://dev.to/hezronokwach/the-hidden-cost-of-bad-data-why-clean-data-is-worth-more-than-gold-afm)
-- [Deployment Flexibility for .NET: Hosuto modules](https://dev.to/frank_wagner_db8544544684/deployment-flexibility-for-net-hosuto-modules-56o5)
+- [Using iTerm2&#39;s new AI Chat features with Azure OpenAI](https://dev.to/vlad_iliescu/using-iterm2s-new-ai-chat-features-with-azure-openai-87f)
+- [Why is GraphQL gaining adoption?](https://dev.to/ankit_kumar_cfb7221a73fcb/why-is-graphql-gaining-adoption-1imc)
+- [Building a Secure Gmail CLI: From Development to Production 🚀](https://dev.to/vishwaraja_pathivishwa/building-a-secure-gmail-cli-from-development-to-production-1g17)
+- [Is Your Brain the Next Password? Diving into the World of Brain-Computer Interfaces](https://dev.to/karthik_n/is-your-brain-the-next-password-diving-into-the-world-of-brain-computer-interfaces-17i1)
+- [Introducing StableError: A TypeScript Library for Consistent Error Tracking](https://dev.to/maximeshr/introducing-stableerror-a-typescript-library-for-consistent-error-tracking-2l9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
