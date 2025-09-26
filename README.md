@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Make Your Mongoose Models Smarter and Your Code Cleaner with Setters, Getters, and More](https://dev.to/og_wunderkind/how-to-make-your-mongoose-models-smarter-and-your-code-cleaner-with-setters-getters-and-more-22ag)
+- [AI at the Edge: Why Hardware and Embedded AI Will Decide the Next Decade](https://dev.to/rikulauttia/ai-at-the-edge-why-hardware-and-embedded-ai-will-decide-the-next-decade-l57)
 - [Why Sustainable Software Engineering Should Be on Every Organization’s Agenda](https://dev.to/samira_talebi_cca34ce28b8/green-software-engineering-pii)
 - [WTF is Large Language Model Engineering?](https://dev.to/dailybugle33/wtf-is-large-language-model-engineering-268n)
 - [[Boost]](https://dev.to/sadeedpv/-1j1c)
-- [Common Website Development Mistakes and How to Avoid Them](https://dev.to/otfcoderpvtltd/common-website-development-mistakes-and-how-to-avoid-them-fpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
