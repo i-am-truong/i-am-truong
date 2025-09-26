@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Enhancing developer experience with Vagrant](https://dev.to/berviantoleo/enhancing-developer-experience-with-vagrant-ai0)
 - [Will the Web Survive Without Browsers?](https://dev.to/dct_technology/will-the-web-survive-without-browsers-54o8)
 - [Customizing the Stubborn Int&#39;l Phone &lt;input&gt;](https://dev.to/gaatif/customizing-the-stubborn-intl-phone-2fa0)
-- [AI Titans Battle for the Next Generation: Freebies Flood College Campuses](https://dev.to/aiwithapex/ai-titans-battle-for-the-next-generation-freebies-flood-college-campuses-2749)
-- [The 5-3-1 Code Review Rule: Senior Developer&#39;s Guide to Quality Control](https://dev.to/teamcamp/the-5-3-1-code-review-rule-senior-developers-guide-to-quality-control-4b5h)
+- [🌰 Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-11ip)
+- [Setting Up a Miniconda Environment for NASA PDS Data Analysis on Windows 11](https://dev.to/masoomjethwa/setting-up-a-miniconda-environment-for-nasa-pds-data-analysis-on-windows-11-51nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
