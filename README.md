@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Programmers be like...](https://dev.to/trivelt/programmers-be-like-48pj)
+- [Security news weekly round-up - 26th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-26th-september-2025-4b2p)
 - [Stop Juggling SQL Scripts: Introducing Zync, the Database Package Manager](https://dev.to/mirshahreza/stop-juggling-sql-scripts-introducing-zync-the-database-package-manager-54bk)
-- [TCJSGame TileMap Class: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-tilemap-class-complete-reference-guide-3f8)
-- [Working with the two parallel branches in Git](https://dev.to/dharam_ghevariya_0d946c37/working-with-the-two-parallel-branches-in-git-17m8)
-- [Coding Challenge Practice - Question 17](https://dev.to/tomivan/coding-challenge-practice-question-17-1m6e)
-- [TERRAFORM ACTIONS : The HashiConf &#39;25 Drop We’ve All Been Waiting For!!!!](https://dev.to/puneet_gavri_e5944e2c7cee/terraform-actions-the-hashiconf-25-drop-weve-all-been-waiting-for-3g9)
+- [Seamless Forms with shadcn/ui and TanStack Form](https://dev.to/felipestanzani/seamless-forms-with-shadcnui-and-tanstack-form-mng)
+- [ИИ-компаньоны: иллюзия близости и цена цифрового «да»](https://dev.to/kartel_kofe/ii-kompanony-illiuziia-blizosti-i-tsiena-tsifrovogho--b42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
