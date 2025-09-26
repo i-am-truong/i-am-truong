@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your i18next Workflow with the All-New i18next-cli](https://dev.to/adrai/supercharge-your-i18next-workflow-with-the-all-new-i18next-cli-341p)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-4ed3)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-2o8)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-5gl1)
-- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-1m2i)
+- [How to Create a Simple Game Using JavaScript](https://dev.to/sanjaynaker/how-to-create-a-simple-game-using-javascript-96k)
+- [Fang Junyu&#39;s Technology Weekly - September 26, 2025](https://dev.to/junyu_fang_a216509a97501d/fang-junyus-technology-weekly-september-26-2025-2ndd)
+- [Customer Segmentation in E-Commerce: Driving Growth Through Personalization](https://dev.to/anshuman_816f8012be0c9b6c/customer-segmentation-in-e-commerce-driving-growth-through-personalization-1ibo)
+- [Employees who have accumulated more than 5 years of work experience in New York--SPL Programming Practice](https://dev.to/esproc_spl/employees-who-have-accumulated-more-than-5-years-of-work-experience-in-new-york-spl-programming-2ah0)
+- [How Vue Animations Enhance User Engagement and Interaction on Digital Platforms](https://dev.to/fiona_blackwood_07/how-vue-animations-enhance-user-engagement-and-interaction-on-digital-platforms-49g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
