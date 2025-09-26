@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-84: 🚀Expose a Pod with Google Kubernetes Engine &lpar;GKE&rpar; LoadBalancer Service &lpar;Declarative Way&rpar;](https://dev.to/latchudevops/part-84-expose-a-pod-with-google-kubernetes-engine-gke-loadbalancer-service-declarative-way-32bd)
+- [I Implement 2FA on My Website with SafeLine WAF](https://dev.to/carrie_luo1/i-implement-2fa-on-my-website-with-safeline-waf-2leb)
+- [MongoDB Aggregation Roadmap – A 7-Day Study Plan](https://dev.to/rayan2228/mongodb-aggregation-roadmap-a-7-day-study-plan-3olm)
 - [Securely Configuring Azure Blob Storage in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/securely-configuring-azure-blob-storage-in-net-web-api-1gn9)
 - [A Vontade do Dev: Como o Open Source Está Unindo Tripulações para Encontrar o &quot;One Piece&quot; da Tecnologia](https://dev.to/melettz1/a-vontade-do-dev-como-o-open-source-esta-unindo-tripulacoes-para-encontrar-o-one-piece-da-22i3)
-- [🍎 From UTXOs to SegWit: How Bitcoin Fixed Transaction Malleability and Lowered Fees](https://dev.to/_56d7718cea8fe00ec1610/from-utxos-to-segwit-how-bitcoin-fixed-transaction-malleability-and-lowered-fees-358b)
-- [Next-Level Frosted Glass with `backdrop-filter` ✨](https://dev.to/er-raj-aryan/next-level-frosted-glass-with-backdrop-filter-k9m)
-- [🌄 Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-49af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
