@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Postgres Arrays in Your Supabase Projects](https://dev.to/ziga_petek_c2bfdf4d05a5cb/the-power-of-postgres-arrays-in-your-supabase-projects-2iml)
-- [Enhancing developer experience with Vagrant](https://dev.to/berviantoleo/enhancing-developer-experience-with-vagrant-ai0)
-- [Will the Web Survive Without Browsers?](https://dev.to/dct_technology/will-the-web-survive-without-browsers-54o8)
-- [Customizing the Stubborn Int&#39;l Phone &lt;input&gt;](https://dev.to/gaatif/customizing-the-stubborn-intl-phone-2fa0)
-- [🌰 Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-11ip)
+- [Supercharge Your i18next Workflow with the All-New i18next-cli](https://dev.to/adrai/supercharge-your-i18next-workflow-with-the-all-new-i18next-cli-341p)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-4ed3)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-2o8)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-5gl1)
+- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-1m2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
