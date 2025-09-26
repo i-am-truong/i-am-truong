@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Talk About the New New Power Automate UI](https://dev.to/wyattdave/lets-talk-about-the-new-new-power-automate-ui-1hnn)
+- [Make Any List Keyboard-Friendly in Minutes](https://dev.to/brianmtreese/make-any-list-keyboard-friendly-in-minutes-3pbj)
+- [Python Access Modifiers Explained for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/python-access-modifiers-explained-for-beginners-i3o)
 - [Day-5: SELinux | 100 Days of DevOps](https://dev.to/olymahmud/day-5-selinux-100-days-of-devops-l4p)
 - [PVS-Studio team invites you to share examples of errors related to vibe coding](https://dev.to/pvsdev/pvs-studio-team-invites-you-to-share-examples-of-errors-related-to-vibe-coding-2ha5)
-- [MLPerf Storage v2.0: JuiceFS Leads in Bandwidth Utilization and Scalability for AI Training](https://dev.to/daswu/mlperf-storage-v20-juicefs-leads-in-bandwidth-utilization-and-scalability-for-ai-training-1021)
-- [Continuous Integration for Intelligence: Beyond CI/CD](https://dev.to/rohit_gavali_0c2ad84fe4e0/continuous-integration-for-intelligence-beyond-cicd-412p)
-- [Use ZoomEye to find Jupyter servers without identity verification enabled](https://dev.to/stark_zhuang_df5076f35c68/use-zoomeye-to-find-jupyter-servers-without-identity-verification-enabled-5ehb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
