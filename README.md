@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First AI-Powered Game: A Developer’s Guide](https://dev.to/sanjaynaker/building-your-first-ai-powered-game-a-developers-guide-59h)
-- [Advice for Open Source Entrepreneurs](https://dev.to/chen_debra_3060b21d12b1b0/advice-for-open-source-entrepreneurs-1o75)
-- [Checkout this article on The Evolution of Retail and the Rise of Retail Analytics: Origins, Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-the-evolution-of-retail-and-the-rise-of-retail-analytics-origins-3922)
-- [🚀 Building My Own Outreach Assistant](https://dev.to/okpaka/building-my-own-outreach-assistant-3h4j)
-- [The 3 fastest-growing SaaS teams we studied all do this: they publish a public roadmap](https://dev.to/mark_walker/the-3-fastest-growing-saas-teams-we-studied-all-do-this-they-publish-a-public-roadmap-cf3)
+- [Do We Still Need SCSS?](https://dev.to/hadi_zareirani_bbcf6991f/do-we-still-need-scss-289n)
+- [Our Journey to Automated Testing on Android](https://dev.to/appswithlove/our-journey-to-automated-testing-on-android-29ph)
+- [Access Your Local Ollama Models from Anywhere: Port 11434 Made Simple](https://dev.to/lightningdev123/access-your-local-ollama-models-from-anywhere-port-11434-made-simple-2a79)
+- [How to Train Your Own AI Chatbot for Your WordPress Website &lpar;Without Coding&rpar;](https://dev.to/addwebsolutionpvtltd/how-to-train-your-own-ai-chatbot-for-your-wordpress-website-without-coding-311c)
+- [JS Random Number: How to Generate Random Numbers in JavaScript](https://dev.to/keploy/js-random-number-how-to-generate-random-numbers-in-javascript-3b4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
