@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Going a Build Spree !](https://dev.to/ogagadottech/im-going-a-build-spree--4m19)
-- [Understanding express.json&lpar;&rpar; in Express.js](https://dev.to/svn1199/understanding-expressjson-in-expressjs-1o1p)
-- [LAUNCHED: IconFY - Free Icon Generator](https://dev.to/xdevdanny/launched-iconfy-free-icon-generator-293m)
-- [Understanding a new codebase quickly?](https://dev.to/planeta/understanding-a-new-codebase-quickly-53bm)
-- [[Playwright] Element is outside of the viewport&quot; in Playwright — why it happens and how to fix it](https://dev.to/araujosnathan/playwright-element-is-outside-of-the-viewport-in-playwright-why-it-happens-and-how-to-fix-it-hhp)
+- [CSS Subgrid: Unlock Next-Level Layout Control for Complex Web Designs](https://dev.to/satyam_gupta_0d1ff2152dcc/css-subgrid-unlock-next-level-layout-control-for-complex-web-designs-4nio)
+- [通用时间解析](https://dev.to/dragon72463399/tong-yong-shi-jian-jie-xi-5fjo)
+- [boss职位监控](https://dev.to/dragon72463399/bosszhi-wei-jian-kong-4ocm)
+- [Crypto API Calls Are Expensive: Cost-Effective Solutions and Optimization Strategies](https://dev.to/saira_zeeshan_35fc05971fd/crypto-api-calls-are-expensive-cost-effective-solutions-and-optimization-strategies-5e4g)
+- [: Container Queries in CSS: A Complete Guide to the Future of Responsive Design](https://dev.to/satyam_gupta_0d1ff2152dcc/-container-queries-in-css-a-complete-guide-to-the-future-of-responsive-design-24om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
