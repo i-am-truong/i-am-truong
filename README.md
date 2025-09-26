@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#DAY 1: Docker &amp; Core Concepts](https://dev.to/samueladeduntan/day-1-docker-core-concepts-31fk)
-- [nvoc - linux OC/UV cli utility for RTX-50 series](https://dev.to/martinstark/nvoc-linux-ocuv-cli-utility-for-rtx-50-series-3fgd)
-- [How to Use Pinecone DB in Your n8n Workflows❓](https://dev.to/techstuff/how-to-use-pinecone-db-in-your-n8n-workflows-4g2l)
-- [How to Write AI Prompts That Actually Work &lpar;And Make Your Images Look Amazing&rpar;](https://dev.to/jennifer_z_1a474facd8e031/how-to-write-ai-prompts-that-actually-work-and-make-your-images-look-amazing-4og3)
-- [Integrating Books, Clocks and Code ⏰](https://dev.to/cloutboi/integrating-books-clocks-and-code-699)
+- [How to Make Your Mongoose Models Smarter and Your Code Cleaner with Setters, Getters, and More](https://dev.to/og_wunderkind/how-to-make-your-mongoose-models-smarter-and-your-code-cleaner-with-setters-getters-and-more-22ag)
+- [Why Sustainable Software Engineering Should Be on Every Organization’s Agenda](https://dev.to/samira_talebi_cca34ce28b8/green-software-engineering-pii)
+- [WTF is Large Language Model Engineering?](https://dev.to/dailybugle33/wtf-is-large-language-model-engineering-268n)
+- [[Boost]](https://dev.to/sadeedpv/-1j1c)
+- [Common Website Development Mistakes and How to Avoid Them](https://dev.to/otfcoderpvtltd/common-website-development-mistakes-and-how-to-avoid-them-fpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
