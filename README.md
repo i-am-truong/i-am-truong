@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pequeñas ideas, grandes comunidades: así nació Kinua](https://dev.to/juan_jose_miranda/pequenas-ideas-grandes-comunidades-asi-nacio-kinua-5f78)
 - [The Silent Watchers](https://dev.to/rawveg/the-silent-watchers-43mn)
 - [Part-85: 🔹Kubernetes GKE ReplicaSet: Reliability, Load Balancing &amp; Scaling in GCP Cloud](https://dev.to/latchudevops/part-85-kubernetes-gke-replicaset-reliability-load-balancing-scaling-in-gcp-cloud-aea)
 - [Using iTerm2&#39;s new AI Chat features with Azure OpenAI](https://dev.to/vlad_iliescu/using-iterm2s-new-ai-chat-features-with-azure-openai-87f)
 - [Why is GraphQL gaining adoption?](https://dev.to/ankit_kumar_cfb7221a73fcb/why-is-graphql-gaining-adoption-1imc)
-- [Building a Secure Gmail CLI: From Development to Production 🚀](https://dev.to/vishwaraja_pathivishwa/building-a-secure-gmail-cli-from-development-to-production-1g17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
