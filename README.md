@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Keep Your Immich Server Up-to-Date 🚀](https://dev.to/omkarbhede/keep-your-immich-server-up-to-date-hpc)
-- [My Brief Intro and New Journey](https://dev.to/muhammad_husnain_a300b472/my-brief-intro-and-new-journey-3ogc)
-- [SSL: Your Website&#39;s Digital Seatbelt 🔒](https://dev.to/riya_thesia_93c231361cb03/ssl-your-websites-digital-seatbelt-45bj)
-- [5 Expert Tips to Store and Handle Your Photo Film](https://dev.to/orwoshop/5-expert-tips-to-store-and-handle-your-photo-film-1clc)
-- [&lpar;II&rpar;A Comprehensive Code Analysis of the Worker Service Startup of DolphinScheduler 3.1.9](https://dev.to/chen_debra_3060b21d12b1b0/iia-comprehensive-code-analysis-of-the-worker-service-startup-of-dolphinscheduler-319-4j37)
+- [#DAY 1: Docker &amp; Core Concepts](https://dev.to/samueladeduntan/day-1-docker-core-concepts-31fk)
+- [nvoc - linux OC/UV cli utility for RTX-50 series](https://dev.to/martinstark/nvoc-linux-ocuv-cli-utility-for-rtx-50-series-3fgd)
+- [How to Use Pinecone DB in Your n8n Workflows❓](https://dev.to/techstuff/how-to-use-pinecone-db-in-your-n8n-workflows-4g2l)
+- [How to Write AI Prompts That Actually Work &lpar;And Make Your Images Look Amazing&rpar;](https://dev.to/jennifer_z_1a474facd8e031/how-to-write-ai-prompts-that-actually-work-and-make-your-images-look-amazing-4og3)
+- [Integrating Books, Clocks and Code ⏰](https://dev.to/cloutboi/integrating-books-clocks-and-code-699)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
