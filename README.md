@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Does AI Reduce Human Bias, or Does It Reinforce the Bias Hidden in Data?](https://dev.to/koshirok096/does-ai-reduce-human-bias-or-does-it-reinforce-the-bias-hidden-in-data-4d8f)
 - [Programmers be like...](https://dev.to/trivelt/programmers-be-like-48pj)
 - [Security news weekly round-up - 26th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-26th-september-2025-4b2p)
 - [Stop Juggling SQL Scripts: Introducing Zync, the Database Package Manager](https://dev.to/mirshahreza/stop-juggling-sql-scripts-introducing-zync-the-database-package-manager-54bk)
 - [Seamless Forms with shadcn/ui and TanStack Form](https://dev.to/felipestanzani/seamless-forms-with-shadcnui-and-tanstack-form-mng)
-- [ИИ-компаньоны: иллюзия близости и цена цифрового «да»](https://dev.to/kartel_kofe/ii-kompanony-illiuziia-blizosti-i-tsiena-tsifrovogho--b42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
