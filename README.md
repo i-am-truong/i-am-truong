@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Deployment with FastAPI and Postgres](https://dev.to/pkauati/from-idea-to-deployment-with-fastapi-and-postgres-19k1)
-- [Do We Still Need SCSS?](https://dev.to/hadi_zareirani_bbcf6991f/do-we-still-need-scss-289n)
-- [Our Journey to Automated Testing on Android](https://dev.to/appswithlove/our-journey-to-automated-testing-on-android-29ph)
-- [Access Your Local Ollama Models from Anywhere: Port 11434 Made Simple](https://dev.to/lightningdev123/access-your-local-ollama-models-from-anywhere-port-11434-made-simple-2a79)
-- [How to Train Your Own AI Chatbot for Your WordPress Website &lpar;Without Coding&rpar;](https://dev.to/addwebsolutionpvtltd/how-to-train-your-own-ai-chatbot-for-your-wordpress-website-without-coding-311c)
+- [Configuring Azure ExpressRoute Gateway: A Step-by-Step Guide with Real-World Benefits](https://dev.to/peter_samuel_052b9056e236/configuring-azure-expressroute-gateway-a-step-by-step-guide-with-real-world-benefits-fhd)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2ahb)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-37g0)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3897)
+- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-23kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
