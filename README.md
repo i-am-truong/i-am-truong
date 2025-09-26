@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✨ React Patterns Every Expert Should Master 🧩🪝](https://dev.to/yorgie7/react-patterns-every-expert-should-master-3efp)
-- [Why Static Site Generators Beat WordPress for Small Business SEO](https://dev.to/opacedigitalagency/why-static-site-generators-beat-wordpress-for-small-business-seo-30ih)
-- [5 WordPress Performance Issues I Fix Every Week &lpar;And How You Can Too&rpar;](https://dev.to/leo_rio/5-wordpress-performance-issues-i-fix-every-week-and-how-you-can-too-34go)
-- [🚀 Безкоштовне менторство з Frontend розробки](https://dev.to/serhii_muzalov_58eb4988af/biezkoshtovnie-mientorstvo-z-frontend-rozrobki-lj0)
-- [The Microflow Mirage: When Pretty Boxes Become a Developer’s Prison](https://dev.to/hotfixhero/the-microflow-mirage-when-pretty-boxes-become-a-developers-prison-2f3e)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-6bd)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-22n)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1oce)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-3gk4)
+- [KEXP: Nation of Language - In Another Life &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-in-another-life-live-on-kexp-4g77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
