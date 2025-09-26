@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Visual AWS Infrastructure Design with AWS Infrastructure Composer](https://dev.to/taiwoadeleke12/unlocking-visual-aws-infrastructure-design-with-aws-infrastructure-composer-3nah)
-- [Indirect Prompt Injection: A New Security Concern in MCP Servers](https://dev.to/extinctsion/indirect-prompt-injection-a-new-security-concern-in-mcp-servers-211f)
-- [The Technical Challenges of Data Annotation in Computer Vision](https://dev.to/joe09/the-technical-challenges-of-data-annotation-in-computer-vision-4fk5)
-- [Orchestrating AI multi-agent infrastructure with AWS Bedrock, OpenAI and n8n](https://dev.to/aws-builders/orchestrating-ai-multi-agent-infrastructure-with-aws-bedrock-openai-and-n8n-28p6)
-- [EWWW vs. ShortPixel: Which Image Optimizer Is Right for Your WordPress Site?](https://dev.to/andreialba/ewww-vs-shortpixel-which-image-optimizer-is-right-for-your-wordpress-site-2lke)
+- [Memory Forensics: Uncovering Attacker Secrets That Never Touch the Disk](https://dev.to/gagreatprogrammer/memory-forensics-uncovering-attacker-secrets-that-never-touch-the-disk-6i0)
+- [Context and Context Windows: What You Need to Know](https://dev.to/knitli/context-and-context-windows-what-you-need-to-know-h4k)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-11gi)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-emh)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3073)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
