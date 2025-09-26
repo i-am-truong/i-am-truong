@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [TCJSGame TileMap Class: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-tilemap-class-complete-reference-guide-3f8)
+- [Working with the two parallel branches in Git](https://dev.to/dharam_ghevariya_0d946c37/working-with-the-two-parallel-branches-in-git-17m8)
 - [Coding Challenge Practice - Question 17](https://dev.to/tomivan/coding-challenge-practice-question-17-1m6e)
 - [TERRAFORM ACTIONS : The HashiConf &#39;25 Drop We’ve All Been Waiting For!!!!](https://dev.to/puneet_gavri_e5944e2c7cee/terraform-actions-the-hashiconf-25-drop-weve-all-been-waiting-for-3g9)
 - [🐳 Docker Demystified: Survival Guide for Lost Developers](https://dev.to/tavernetech/docker-demystified-survival-guide-for-lost-developers-5hmd)
-- [Deploying a MedusaJS 2.0 Store on AN AWS EC2 Instance.](https://dev.to/israeldotcom/deploying-a-medusajs-20-store-on-an-aws-ec2-instance-5ba5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
