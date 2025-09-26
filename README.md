@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker and Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-and-nginx-22fc)
-- [The Big AI Hype: What’s Really Behind the Name](https://dev.to/marikinyo/the-big-ai-hype-whats-really-behind-the-name-1bem)
-- [Ng-News 25/38: Angular + AI Developer Event, S1ngularity Strikes Again](https://dev.to/this-is-angular/ng-news-2538-angular-ai-developer-event-s1ngularity-strikes-again-3bah)
-- [Gradle Isn’t Slow… It’s Leveling Up Your Patience as an Android Dev](https://dev.to/vrushali_dev_15/gradle-isnt-slow-its-leveling-up-your-patience-as-an-android-dev-4gal)
-- [🧩Consume an MCP Endpoint from Azure Logic Apps — with an Agent Loop](https://dev.to/imdj/consume-an-mcp-endpoint-from-azure-logic-apps-with-an-agent-loop-52jh)
+- [🚀 Безкоштовне менторство з Frontend розробки](https://dev.to/serhii_muzalov_58eb4988af/biezkoshtovnie-mientorstvo-z-frontend-rozrobki-lj0)
+- [The Microflow Mirage: When Pretty Boxes Become a Developer’s Prison](https://dev.to/hotfixhero/the-microflow-mirage-when-pretty-boxes-become-a-developers-prison-2f3e)
+- [Introducing Smart Icons Kit](https://dev.to/mak3/introducing-smart-icons-kit-1g8)
+- [[Boost]](https://dev.to/ralphsebastian/-4783)
+- [Orchestrating a stack of services across multiple environments](https://dev.to/louis_dussarps_e656bc7b01/orchestrating-a-stack-of-services-across-multiple-environments-1hd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
