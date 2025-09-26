@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A TypeScript Journey: When Type Safety Feels Like a Safety Harness… and Sometimes a 10 kg Stone on Your Feet](https://dev.to/nadkarnigaurav/a-typescript-journey-when-type-safety-feels-like-a-safety-harness-and-sometimes-a-10-kg-stone-on-35kn)
+- [Useful MYSQL functions](https://dev.to/sadiul_hakim/useful-mysql-functions-4gl9)
 - [Understanding Uniface xmlsave: Exporting Data to XML Streams 🚀](https://dev.to/petercode/understanding-uniface-xmlsave-exporting-data-to-xml-streams-5h7j)
-- [🌐 Understanding Uniface websetocc: Managing Entity Occurrences in Web Applications](https://dev.to/petercode/understanding-uniface-websetocc-managing-entity-occurrences-in-web-applications-1n2e)
-- [📚 Understanding Uniface 10.4&#39;s websave Statement: Converting Component Data to JSON](https://dev.to/petercode/understanding-uniface-104s-websave-statement-converting-component-data-to-json-2iea)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-1bbm)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1313)
+- [Creating ASCII Art from an Image with Python 🐍](https://dev.to/codemintah/creating-ascii-art-from-an-image-with-python-2eam)
+- [Build Admin Panels &amp; REST APIs from JSON Schemas in Minutes with NextMin 🚀](https://dev.to/tareqpro/build-admin-panels-rest-apis-from-json-schemas-in-minutes-with-nextmin-b0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
