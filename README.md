@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Expert Tips to Store and Handle Your Photo Film](https://dev.to/orwoshop/5-expert-tips-to-store-and-handle-your-photo-film-1clc)
+- [&lpar;II&rpar;A Comprehensive Code Analysis of the Worker Service Startup of DolphinScheduler 3.1.9](https://dev.to/chen_debra_3060b21d12b1b0/iia-comprehensive-code-analysis-of-the-worker-service-startup-of-dolphinscheduler-319-4j37)
 - [How to Calculate Pixel Width and Height of a Bounding Box at Different Map Zoom Levels](https://dev.to/geoapify-maps-api/how-to-calculate-pixel-width-and-height-of-a-bounding-box-at-different-map-zoom-levels-1o34)
 - [Empower Your Workflow with Selqio’s Client-Side PDF Tools 💡](https://dev.to/joran/empower-your-workflow-with-selqios-client-side-pdf-tools-5bjo)
 - [Cross-Tenant Migration Best Practices For Office 365 IT Admin](https://dev.to/inspireme_labs_e6af6b7b69/cross-tenant-migration-best-practices-for-office-365-it-admin-4jag)
-- [Let&#39;s Talk About the New New Power Automate UI](https://dev.to/wyattdave/lets-talk-about-the-new-new-power-automate-ui-1hnn)
-- [Choosing the Best Fabric for Comforters: A Complete Guide to Better Sleep](https://dev.to/jonnyben10/choosing-the-best-fabric-for-comforters-a-complete-guide-to-better-sleep-3bia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
