@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s in new Kubernetes v1.34 Of Wind &amp; Will](https://dev.to/kaustubhyerkade/whats-in-new-kubernetes-v134-of-wind-will-22b0)
-- [Migration Guru – Manage Laravel Migrations from a Web UI](https://dev.to/nikelioum/introducing-migration-guru-manage-laravel-migrations-from-a-web-ui-26pl)
-- [RAGgle](https://dev.to/nadinev/raggle-36o9)
-- [Laravel Boost](https://dev.to/agussudarmanto/laravel-boost-5h3o)
-- [Day 1 React](https://dev.to/mona_fakhri_98b07b8a1fd66/day-1-react-4j2l)
+- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-4kfj)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5hkd)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3gmc)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-n51)
+- [Why I Prefer to Work Alone on My Personal Projects](https://dev.to/marcantondahmen/why-i-prefer-to-work-alone-on-my-personal-projects-46md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
