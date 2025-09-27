@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MyBox - vibe coded webapp](https://dev.to/cadcare/mybox-vibe-coded-webapp-56kp)
 - [Gen AI Developer Roadmap](https://dev.to/aiwaaligirl/gen-ai-developer-roadmap-4m02)
 - [Part-86: 🚀Deploy ReplicaSets and Practice High Availability &amp; Scalability in Google Kubernetes Engine &lpar;GCP&rpar;](https://dev.to/latchudevops/part-86-deploy-replicasets-and-practice-high-availability-scalability-in-google-kubernetes-263j)
 - [Database Replication](https://dev.to/ijas9118/database-replication-5dmj)
 - [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud &amp; DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-devops-workflows-h04)
-- [First Steps Into Web Scraping](https://dev.to/nelson_orina_a538ba52e9ed/first-steps-into-web-scraping-gde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
