@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MyBox - vibe coded webapp](https://dev.to/cadcare/mybox-vibe-coded-webapp-56kp)
-- [Gen AI Developer Roadmap](https://dev.to/aiwaaligirl/gen-ai-developer-roadmap-4m02)
-- [Part-86: 🚀Deploy ReplicaSets and Practice High Availability &amp; Scalability in Google Kubernetes Engine &lpar;GCP&rpar;](https://dev.to/latchudevops/part-86-deploy-replicasets-and-practice-high-availability-scalability-in-google-kubernetes-263j)
-- [Database Replication](https://dev.to/ijas9118/database-replication-5dmj)
-- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud &amp; DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-devops-workflows-h04)
+- [“pip install patience? Nah, Try uv Instead.”](https://dev.to/offpremisecloud/pip-install-patience-nah-try-uv-instead-487p)
+- [All about Gradient Descent](https://dev.to/_a_m_a_n_pandey/all-about-gradient-descent-15bo)
+- [Part-87: 🚀 Kubernetes Deployments with Imperative Commands in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-87-kubernetes-deployments-with-imperative-commands-in-gcp-google-kubernetes-engine-1l46)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-178c)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-50jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
