@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Small Dependency Injection](https://dev.to/sebk69/small-dependency-injection-5096)
-- [ALTER TABLE … MOVE ONLINE](https://dev.to/vahidusefzadeh/alter-table-move-online-2g96)
-- [AI-Powered Secure Cloud File Sharing](https://dev.to/jinomaximum/ai-powered-secure-cloud-file-sharing-4bm9)
-- [Welcome to My First Blog Post](https://dev.to/dipakrathod-tech/welcome-to-my-first-blog-post-pih)
-- [Arquitetura Monolítica no Desenvolvimento de Software Moderno](https://dev.to/bernardo_18bce589281a5bdf/arquitetura-monolitica-no-desenvolvimento-de-software-moderno-4mf3)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5bli)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-o31)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-243c)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-48al)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-4efe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
