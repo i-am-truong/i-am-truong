@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Terraform: A Ferramenta Essencial de Infraestrutura como Código](https://dev.to/ikauedev/terraform-a-ferramenta-essencial-de-infraestrutura-como-codigo-1ocn)
 - [VectorXone 2.0 is here!](https://dev.to/aspxone-official/vectorxone-20-is-here-421d)
 - [Docker Series: 📦 Docker Basics](https://dev.to/ritesh355/docker-series-docker-basics-5a52)
+- [Leetcode 2705. Compact Object](https://dev.to/sachin_yadav_01b3080e2538/leetcode-2705-compact-object-34f0)
 - [The Hidden Bottleneck Killing Your Engineering Team &lpar;and How to Fix It&rpar;](https://dev.to/foyerstein_itay_e4258076f/the-hidden-bottleneck-killing-your-engineering-team-and-how-to-fix-it-152n)
-- [Understanding Lexical Environment in JavaScript: A Beginner’s Guide](https://dev.to/wisdomudo/understanding-lexical-environment-in-javascript-a-beginners-guide-5bp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
