@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Backend Development Roadmap: From First Principles](https://dev.to/ajtech0001/backend-development-roadmap-from-first-principles-3b51)
 - [RemindMeApp from design to implementation | Kivy Project Part 4 | Tabbed panel &amp; Tabbed Items](https://dev.to/eyong_kevinenowanyo_b677/remindmeapp-from-design-to-implementation-kivy-project-part-4-tabbed-panel-tabbed-items-2cl9)
+- [How to Customize the Service Catalog in BILLmanager](https://dev.to/mateor404/how-to-customize-the-service-catalog-in-billmanager-f4a)
+- [5 AI-Powered Crypto Trading Tools You Need in 2025](https://dev.to/ctm8/5-ai-powered-crypto-trading-tools-you-need-in-2025-bel)
 - [Introdução ao Apache Kafka](https://dev.to/programadriano/introducao-ao-apache-kafka-2haj)
-- [Why GraphQL is gaining adoption](https://dev.to/popoolatopzy/why-graphql-is-gaining-adoption-17p)
-- [Post 1/10 — Multi-Tenancy &amp; Security Baseline with Namespaces, Quotas, NetworkPolicies, and Pod Security Admission](https://dev.to/cloud-sky-ops/post-110-multi-tenancy-security-baseline-with-namespaces-quotas-networkpolicies-and-pod-2mfj)
-- [Your SOC 2 Compliance Won&#39;t Stop Supply Chain Attacks &lpar;And I Have the Data to Prove It&rpar;](https://dev.to/arbythecoder/your-soc-2-compliance-wont-stop-supply-chain-attacks-and-i-have-the-data-to-prove-it-4nid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
