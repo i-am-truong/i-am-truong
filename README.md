@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Web Scraping in 2025: A Python Survival Story](https://dev.to/webdev-mohdamir/web-scraping-in-2025-a-python-survival-story-544n)
 - [Satellite-Free Ocean Container Tracking Solution: Architecture and Best Practices](https://dev.to/applekoiot/satellite-free-ocean-container-tracking-solution-architecture-and-best-practices-1a0b)
+- [When UX Feels Broken, Troubleshooting as a Product Manager](https://dev.to/uladshauchenka/when-ux-feels-broken-troubleshooting-as-a-product-manager-10ag)
 - [The Art of Troubleshooting as a Product Manager 11 steps to fix what’s broken &lpar;without losing your mind&rpar;](https://dev.to/uladshauchenka/the-art-of-troubleshooting-as-a-product-manager-11-steps-to-fix-whats-broken-without-losing-your-2j0e)
 - [Part-93: 🚀 To Implement the K8s DaemonSets in Google Kubernetes Engine &lpar;GCP&rpar;](https://dev.to/latchudevops/part-93-to-implement-the-k8s-daemonsets-in-google-kubernetes-engine-gcp-432i)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3ko6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
