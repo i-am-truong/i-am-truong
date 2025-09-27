@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Develop a native iOS app : PDF Voice Reader](https://dev.to/sravnay/develop-a-native-ios-app-pdf-voice-reader-353h)
 - [📰 Major Tech News: September 27, 2025](https://dev.to/om_shree_0709/major-tech-news-september-27-2025-1477)
+- [🚀 The Untold Power of TinyGo: How to Run Go on Microcontrollers and Supercharge Embedded Development](https://dev.to/ekwoster/the-untold-power-of-tinygo-how-to-run-go-on-microcontrollers-and-supercharge-embedded-development-2g7d)
 - [AWS Storage Gateway: Cached Volumes or Stored Volumes ?](https://dev.to/narednra_reddyyadama_d64/aws-storage-gateway-cached-volumes-or-stored-volumes--3mab)
-- [I Like To Make Stuff: Yes, I Made a Giant Noodle Grabber...](https://dev.to/maker_youtube/i-like-to-make-stuff-yes-i-made-a-giant-noodle-grabber-21ae)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ddm)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1jee)
+- [Introduction to Virtual Environments in Python](https://dev.to/intersystems/introduction-to-virtual-environments-in-python-1j9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
