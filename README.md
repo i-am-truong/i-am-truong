@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering RestTemplate in Spring Boot](https://dev.to/pallavi_kamble_07/mastering-resttemplate-in-spring-boot-2i84)
-- [Testing Ollama Web Search 🔍 and a Thinking Model 💭](https://dev.to/aairom/testing-ollama-web-search-and-a-thinking-model-1dh7)
-- [How Do Software Deployments Work?](https://dev.to/karthikkorrayi/how-do-software-deployments-work-15i2)
-- [HeMA-MISO: Heterogeneous Memory Architecture for LLM Inference with SW Optimization](https://dev.to/peterysh/hema-miso-heterogeneous-memory-architecture-for-llm-inference-with-sw-optimization-3d1)
-- [Syncing Multiple Tabs in a Browser Application](https://dev.to/mayank_gupta/syncing-multiple-tabs-in-a-browser-application-9dp)
+- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-4-f4j)
+- [How to Add a Spotify Recently Played Widget to Your Astro Portfolio](https://dev.to/ymmtyy_/how-to-add-a-spotify-recently-played-widget-to-your-astro-portfolio-3f54)
+- [How to Store Persistent Data Across Workflows Executions in n8n](https://dev.to/fedtti/how-to-store-persistent-data-across-workflows-executions-in-n8n-1fan)
+- [The Beauty of Programming &lpar;2001&rpar;](https://dev.to/technoblogger14o3/the-beauty-of-programming-2001-4c6p)
+- [Free Cryptocurrency Price APIs: Complete Guide 2025](https://dev.to/saira_zeeshan_35fc05971fd/free-cryptocurrency-price-apis-complete-guide-2025-430c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
