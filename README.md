@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLMs do know what they&#39;re going to say](https://dev.to/nicklucas/llms-do-know-what-theyre-going-to-say-54mh)
+- [Pure Responsive CSS Accordion Tutorial: Interactive, Fast &amp; No JS!](https://dev.to/siddheshcodes/pure-responsive-css-accordion-tutorial-interactive-fast-no-js-12pb)
+- [What if India Replaced Google, Facebook &amp; YouTube? A 50 Million Job Hypothetical 🇮🇳💼](https://dev.to/utkvishwas/what-if-india-replaced-google-facebook-youtube-a-50-million-job-hypothetical-4m35)
 - [Develop a native iOS app : PDF Voice Reader](https://dev.to/sravnay/develop-a-native-ios-app-pdf-voice-reader-353h)
 - [📰 Major Tech News: September 27, 2025](https://dev.to/om_shree_0709/major-tech-news-september-27-2025-1477)
-- [🚀 The Untold Power of TinyGo: How to Run Go on Microcontrollers and Supercharge Embedded Development](https://dev.to/ekwoster/the-untold-power-of-tinygo-how-to-run-go-on-microcontrollers-and-supercharge-embedded-development-2g7d)
-- [AWS Storage Gateway: Cached Volumes or Stored Volumes ?](https://dev.to/narednra_reddyyadama_d64/aws-storage-gateway-cached-volumes-or-stored-volumes--3mab)
-- [Introduction to Virtual Environments in Python](https://dev.to/intersystems/introduction-to-virtual-environments-in-python-1j9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
