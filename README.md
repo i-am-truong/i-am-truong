@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UX for AI Agents: Designing Interfaces That Machines, Not Humans, Use](https://dev.to/dct_technology/ux-for-ai-agents-designing-interfaces-that-machines-not-humans-use-1epa)
 - [From SEO to AEO: How AI Engines Are Rewriting the Rules of Visibility](https://dev.to/mukul_sharma/from-seo-to-aeo-how-ai-engines-are-rewriting-the-rules-of-visibility-3ko8)
 - [A week with Claude Code: lessons, surprises and smarter workflows](https://dev.to/ujjavala/a-week-with-claude-code-lessons-surprises-and-smarter-workflows-23ip)
+- [Do We Need Databases That Think Instead of Store?](https://dev.to/dct_technology/do-we-need-databases-that-think-instead-of-store-4bna)
 - [How I connected a React frontend to an ink! smart contract using Polkadot-API &lpar;PAPI&rpar;](https://dev.to/githaiga22/how-i-connected-a-react-frontend-to-an-ink-smart-contract-using-polkadot-api-papi-4lgl)
-- [CI/CD](https://dev.to/thng_v_b6d34ce3bee82b39/cicd-2ci6)
-- [AI Creates and Plays a Game, Completing the &quot;Game You Don&#39;t Have to Play&quot;](https://dev.to/abagames/ai-creates-and-plays-a-game-completing-the-game-you-dont-have-to-play-36hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
