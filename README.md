@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Towards a Role-Based Multi-CPU Gaming Architecture: Reducing Latency Through Board and Kernel Co-Design](https://dev.to/hejhdiss/towards-a-role-based-multi-cpu-gaming-architecture-reducing-latency-through-board-and-kernel-13l7)
 - [100 Days of DevOps: Day 53](https://dev.to/wycliffealphus/100-days-of-devops-day-53-3ida)
 - [Uncovering Patterns in Your Data with Clustering in Tableau](https://dev.to/dipti_moryani_9137d0a2e44/uncovering-patterns-in-your-data-with-clustering-in-tableau-415i)
 - [Part-89: 🔄 Kubernetes Deployments: Rollbacks &amp; Rolling Restarts in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-89-kubernetes-deployments-rollbacks-rolling-restarts-in-gcp-google-kubernetes-engine-j5e)
 - [Understanding `readonly` in TypeScript](https://dev.to/safal_bhandari/understanding-readonly-in-typescript-mm4)
-- [VoIP and SIP Essentials](https://dev.to/godofgeeks/voip-and-sip-essentials-56ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
