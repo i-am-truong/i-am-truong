@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Biome](https://dev.to/alexygh/introduction-to-biome-4h7p)
-- [Setting up CryptoNinja mode in evi-run 🥷](https://dev.to/cody_maza/setting-up-cryptoninja-mode-in-evi-run-9i1)
-- [Using drones for FinOps with AWS Agentic AI - Part 2](https://dev.to/aws-builders/using-drones-for-finops-with-aws-agentic-ai-part-2-4c29)
-- [Meet The Duchess of Hackers: My Full-Stack Dev Journey](https://dev.to/the_duchess_of_hackers/meet-the-duchess-of-hackers-my-full-stack-dev-journey-3bid)
-- [The Safe Way to Switch Git Branches with Django Migrations](https://dev.to/m97chahboun/the-safe-way-to-switch-git-branches-with-django-migrations-3hf)
+- [Breaking down the text barrier of LLM chatbots with KendoReact and MCP-UI](https://dev.to/hichamelbsi/breaking-down-the-text-barrier-of-llm-chatbots-with-kendoreact-and-mcp-ui-1ico)
+- [How to Build a Simple &#39;Indian Festival API&#39; with Python and a JSON Dataset](https://dev.to/yash_ingawale_aac9b21247a/how-to-build-a-simple-indian-festival-api-with-python-and-a-json-dataset-11de)
+- [[Boost]](https://dev.to/chris3857/-56e0)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-91n)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-ljp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
