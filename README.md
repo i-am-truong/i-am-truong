@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hollow Knight Silksong - How to Beat the Last Judge &lpar;Or Skip Him Entirely!&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-beat-the-last-judge-or-skip-him-entirely-1nl7)
-- [IGN: Magic: The Gathering x Star Trek - Official Teaser Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-star-trek-official-teaser-trailer-4adm)
-- [IGN: Diablo 4 x StarCraft - Official Trailer](https://dev.to/gg_news/ign-diablo-4-x-starcraft-official-trailer-12m3)
-- [IGN: Hollow Knight: Silksong Boss Fight - Battle Arena/Locked Room &lpar;High Halls, Conductor&#39;s Melody&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-battle-arenalocked-room-high-halls-conductors-melody-3mgb)
-- [IGN: Hollow Knight Silksong: How to Negate Poison - Wreath of Purity Location](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-negate-poison-wreath-of-purity-location-5g2l)
+- [How Generative AI is Transforming Software Development](https://dev.to/sunny7899/how-generative-ai-is-transforming-software-development-4aba)
+- [IGN: Hollow Knight Silksong - How to Beat the Last Judge &lpar;Or Skip Him Entirely!&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-beat-the-last-judge-or-skip-him-entirely-20jn)
+- [CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-1be6)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5fo4)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-26d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
