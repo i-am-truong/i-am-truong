@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving AI: 7 Techniques to Protect Training Data in Cloud AI Systems](https://dev.to/abin_/privacy-preserving-ai-7-techniques-to-protect-training-data-in-cloud-ai-systems-5963)
 - [Speaking Directly To Your GPU](https://dev.to/davidcanhelp/speaking-directly-to-your-gpu-4kml)
 - [The Most Shocking Data Breaches of 2025: A Rundown](https://dev.to/hr21don/the-most-shocking-data-breaches-of-2025-a-rundown-12nj)
+- [EC2 patching best practice](https://dev.to/wakeup_flower_8591a6cb6a9/ec2-patching-best-practice-5dp1)
 - [From Analog to Digital: Signal Simulation](https://dev.to/hammadk/from-analog-to-digital-signal-simulation-357n)
-- [Let’s talk about vibe coding](https://dev.to/alexcloudstar/lets-talk-about-vibe-coding-5cc0)
-- [EC2 Instance Store &amp; EBS explained](https://dev.to/wakeup_flower_8591a6cb6a9/ec2-instance-store-ebs-explained-1d08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
