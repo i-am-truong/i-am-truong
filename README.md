@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating Stack Permutations: A Recursive Thinking Process](https://dev.to/savvyinsight/generating-stack-permutations-a-recursive-thinking-process-2gph)
+- [Understanding Skewness and Kurtosis in Statistics](https://dev.to/gg001/understanding-skewness-and-kurtosis-in-statistics-4php)
+- [Production-Ready Express 5 + TypeScript Project Setup](https://dev.to/abhijadhavin/production-ready-express-5-typescript-project-setup-1cfl)
 - [Part-91: 🚀 Google Kubernetes Engine &lpar;GKE&rpar; - Node Pools &amp; Node Selectors](https://dev.to/latchudevops/part-91-google-kubernetes-engine-gke-node-pools-node-selectors-50k3)
-- [S — Slice to Essentials &lpar;build the thin slice&rpar;](https://dev.to/codebrainr/s-slice-to-essentials-build-the-thin-slice-4b18)
-- [Why Technical Writing is a Superpower in 2025](https://dev.to/envitab/why-technical-writing-is-a-superpower-in-2025-3ep1)
-- [🌐 Understanding CORS &lpar;Cross-Origin Resource Sharing&rpar;: A Complete Guide](https://dev.to/fazal_mansuri_/understanding-cors-cross-origin-resource-sharing-a-complete-guide-5gbg)
-- [Check out my app called pdf snippets](https://dev.to/abhishek_hadpad_6b54a621f/check-out-my-app-called-pdf-snippets-861)
+- [Steps of Building an LLM — An Overview](https://dev.to/fahimkhan9/steps-of-building-an-llm-an-overview-dj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
