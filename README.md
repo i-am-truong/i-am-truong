@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Adventures with Client-Side AI Models: Lessons from Trying Transformer.js](https://dev.to/ujjavala/my-adventures-with-client-side-ai-models-lessons-from-trying-transformerjs-163n)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5f02)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-j8e)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-11a6)
-- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-3ghc)
+- [From SEO to AEO: How AI Engines Are Rewriting the Rules of Visibility](https://dev.to/mukul_sharma/from-seo-to-aeo-how-ai-engines-are-rewriting-the-rules-of-visibility-3ko8)
+- [A week with Claude Code: lessons, surprises and smarter workflows](https://dev.to/ujjavala/a-week-with-claude-code-lessons-surprises-and-smarter-workflows-23ip)
+- [How I connected a React frontend to an ink! smart contract using Polkadot-API &lpar;PAPI&rpar;](https://dev.to/githaiga22/how-i-connected-a-react-frontend-to-an-ink-smart-contract-using-polkadot-api-papi-4lgl)
+- [CI/CD](https://dev.to/thng_v_b6d34ce3bee82b39/cicd-2ci6)
+- [AI Creates and Plays a Game, Completing the &quot;Game You Don&#39;t Have to Play&quot;](https://dev.to/abagames/ai-creates-and-plays-a-game-completing-the-game-you-dont-have-to-play-36hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
