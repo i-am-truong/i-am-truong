@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLM Observability with OpenTelemetry: A Practical Guide](https://dev.to/kartikdudeja21/llm-observability-with-opentelemetry-a-practical-guide-3clo)
-- [“pip install patience? Nah, Try uv Instead.”](https://dev.to/offpremisecloud/pip-install-patience-nah-try-uv-instead-487p)
-- [All about Gradient Descent](https://dev.to/_a_m_a_n_pandey/all-about-gradient-descent-15bo)
-- [Part-87: 🚀 Kubernetes Deployments with Imperative Commands in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-87-kubernetes-deployments-with-imperative-commands-in-gcp-google-kubernetes-engine-1l46)
-- [AI-Powered Code Alchemy: Bridging Neural Nets and Symbolic Logic by Arvind Sundararajan](https://dev.to/arvind_sundararajan/ai-powered-code-alchemy-bridging-neural-nets-and-symbolic-logic-by-arvind-sundararajan-hdk)
+- [7 Tips for Web Hosting and Domain Success in Startups 2025](https://dev.to/ramer2b58cbe46bc8/7-tips-for-web-hosting-and-domain-success-in-startups-2025-300)
+- [Gettemplate.website](https://dev.to/shreyvijayvargiya/gettemplatewebsite-20pk)
+- [Understanding GitLab Scheduled Pipelines and YAML Configuration](https://dev.to/mrcaption49/understanding-gitlab-scheduled-pipelines-and-yaml-configuration-4ch3)
+- [JupyterLab Kendo Grid Extension for Pandas DataFrames](https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk)
+- [Part-88: 🔄 Kubernetes Deployment Updates &amp; Rollout Verification in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-88-kubernetes-deployment-updates-rollout-verification-in-gcp-google-kubernetes-engine-1920)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
