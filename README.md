@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [“pip install patience? Nah, Try uv Instead.”](https://dev.to/offpremisecloud/pip-install-patience-nah-try-uv-instead-487p)
 - [All about Gradient Descent](https://dev.to/_a_m_a_n_pandey/all-about-gradient-descent-15bo)
 - [Part-87: 🚀 Kubernetes Deployments with Imperative Commands in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-87-kubernetes-deployments-with-imperative-commands-in-gcp-google-kubernetes-engine-1l46)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-178c)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-50jm)
+- [AI-Powered Code Alchemy: Bridging Neural Nets and Symbolic Logic by Arvind Sundararajan](https://dev.to/arvind_sundararajan/ai-powered-code-alchemy-bridging-neural-nets-and-symbolic-logic-by-arvind-sundararajan-hdk)
+- [🚀 Turn Any Web Form Into WhatsApp Leads in Seconds — Meet form2chat.me](https://dev.to/form2chat_1bcd4b570efeadc/turn-any-web-form-into-whatsapp-leads-in-seconds-meet-form2chatme-1d1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
