@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI powered Code compiler, viewer, editor and enhancer](https://dev.to/girish_lade_11fc2b532a7ae/ai-powered-code-compiler-viewer-editor-and-enhancer-46h3)
+- [Days 98-106: Exam Week Chaos and Coming Back to Reality](https://dev.to/casperday11/days-98-106-exam-week-chaos-and-coming-back-to-reality-51bn)
+- [Vibe Ensemble - Your Personal Development Team](https://dev.to/siy/vibe-ensemble-your-personal-development-team-5efm)
 - [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-5gno)
-- [Meet Your New Brainy Buddy: Building an AI-Powered Learning Sidekick with KendoReact! 🎉](https://dev.to/aniruddhaadak/meet-your-new-brainy-buddy-building-an-ai-powered-learning-sidekick-with-kendoreact-4gk3)
-- [How the Service Catalog Works in BILLmanager](https://dev.to/mateor404/how-the-service-catalog-works-in-billmanager-30p8)
-- [Building Feature Flags: What I Learned Building My Own](https://dev.to/kuba_szw/building-feature-flags-what-i-learned-building-my-own-5g35)
-- [KendoPuzzle - Learn by Playing](https://dev.to/xam/kendopuzzle-learn-by-playing-1on7)
+- [Symfony Station Communiqué - Stardate: ✦ 26 September 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-26-september-2025-the-latest-symfony-drupal-typo3-2o3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
