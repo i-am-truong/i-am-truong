@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Post 1/10 — Multi-Tenancy &amp; Security Baseline with Namespaces, Quotas, NetworkPolicies, and Pod Security Admission](https://dev.to/cloud-sky-ops/post-110-multi-tenancy-security-baseline-with-namespaces-quotas-networkpolicies-and-pod-2mfj)
-- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-3cbm)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3k83)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1pe)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-icm)
+- [Your SOC 2 Compliance Won&#39;t Stop Supply Chain Attacks &lpar;And I Have the Data to Prove It&rpar;](https://dev.to/arbythecoder/your-soc-2-compliance-wont-stop-supply-chain-attacks-and-i-have-the-data-to-prove-it-4nid)
+- [Digital IDs Are the Trap—UBI Coins Are the Escape Plan](https://dev.to/owly/digital-ids-are-the-trap-ubi-coins-are-the-escape-plan-55ac)
+- [Privacy-Preserving AI: 7 Techniques to Protect Training Data in Cloud AI Systems](https://dev.to/abin_/privacy-preserving-ai-7-techniques-to-protect-training-data-in-cloud-ai-systems-5963)
+- [The Most Shocking Data Breaches of 2025: A Rundown](https://dev.to/hr21don/the-most-shocking-data-breaches-of-2025-a-rundown-12nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
