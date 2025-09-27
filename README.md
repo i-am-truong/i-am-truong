@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Spec to Deploy: Building an Expense Tracker with SpecKit](https://dev.to/manjushsh/from-spec-to-deploy-building-an-expense-tracker-with-speckit-1hg9)
 - [LocalStorage vs IndexedDB: JavaScript Guide &lpar;Storage, Limits &amp; Best Practices&rpar;](https://dev.to/tenelabs/localstorage-vs-indexeddb-javascript-guide-storage-limits-best-practices-5g4l)
+- [From Spec to Deploy: Building an Expense Tracker with SpecKit](https://dev.to/manjushsh/from-spec-to-deploy-building-an-expense-tracker-with-speckit-1hg9)
 - [He3.in – Research Workspace](https://dev.to/3m/he3in-research-workspace-mj6)
 - [How to Build a WhatsApp Chatbot Using Flaresend API](https://dev.to/msnmongare/how-to-build-a-whatsapp-chatbot-using-flaresend-1h90)
 - [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-4kfj)
