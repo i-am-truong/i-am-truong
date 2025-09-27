@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Terraform: A Ferramenta Essencial de Infraestrutura como Código](https://dev.to/ikauedev/terraform-a-ferramenta-essencial-de-infraestrutura-como-codigo-1ocn)
-- [VectorXone 2.0 is here!](https://dev.to/aspxone-official/vectorxone-20-is-here-421d)
-- [Docker Series: 📦 Docker Basics](https://dev.to/ritesh355/docker-series-docker-basics-5a52)
-- [Leetcode 2705. Compact Object](https://dev.to/sachin_yadav_01b3080e2538/leetcode-2705-compact-object-34f0)
-- [The Hidden Bottleneck Killing Your Engineering Team &lpar;and How to Fix It&rpar;](https://dev.to/foyerstein_itay_e4258076f/the-hidden-bottleneck-killing-your-engineering-team-and-how-to-fix-it-152n)
+- [HeMA-MISO: Heterogeneous Memory Architecture for LLM Inference with SW Optimization](https://dev.to/peterysh/hema-miso-heterogeneous-memory-architecture-for-llm-inference-with-sw-optimization-3d1)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gek)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1fll)
+- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-553a)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-101m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
