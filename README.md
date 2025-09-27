@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Privacy-Preserving AI: 7 Techniques to Protect Training Data in Cloud AI Systems](https://dev.to/abin_/privacy-preserving-ai-7-techniques-to-protect-training-data-in-cloud-ai-systems-5963)
-- [Speaking Directly To Your GPU](https://dev.to/davidcanhelp/speaking-directly-to-your-gpu-4kml)
-- [The Most Shocking Data Breaches of 2025: A Rundown](https://dev.to/hr21don/the-most-shocking-data-breaches-of-2025-a-rundown-12nj)
-- [EC2 patching best practice](https://dev.to/wakeup_flower_8591a6cb6a9/ec2-patching-best-practice-5dp1)
-- [From Analog to Digital: Signal Simulation](https://dev.to/hammadk/from-analog-to-digital-signal-simulation-357n)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3k83)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1pe)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-icm)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-np5)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-2dgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
