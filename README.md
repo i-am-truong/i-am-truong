@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-1i3c)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5bli)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-o31)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-243c)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-48al)
+- [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-5gno)
+- [Meet Your New Brainy Buddy: Building an AI-Powered Learning Sidekick with KendoReact! 🎉](https://dev.to/aniruddhaadak/meet-your-new-brainy-buddy-building-an-ai-powered-learning-sidekick-with-kendoreact-4gk3)
+- [How the Service Catalog Works in BILLmanager](https://dev.to/mateor404/how-the-service-catalog-works-in-billmanager-30p8)
+- [Building Feature Flags: What I Learned Building My Own](https://dev.to/kuba_szw/building-feature-flags-what-i-learned-building-my-own-5g35)
+- [KendoPuzzle - Learn by Playing](https://dev.to/xam/kendopuzzle-learn-by-playing-1on7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
