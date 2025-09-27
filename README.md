@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up CryptoNinja mode in evi-run 🥷](https://dev.to/cody_maza/setting-up-cryptoninja-mode-in-evi-run-9i1)
 - [Using drones for FinOps with AWS Agentic AI - Part 2](https://dev.to/aws-builders/using-drones-for-finops-with-aws-agentic-ai-part-2-4c29)
 - [Meet The Duchess of Hackers: My Full-Stack Dev Journey](https://dev.to/the_duchess_of_hackers/meet-the-duchess-of-hackers-my-full-stack-dev-journey-3bid)
 - [The Safe Way to Switch Git Branches with Django Migrations](https://dev.to/m97chahboun/the-safe-way-to-switch-git-branches-with-django-migrations-3hf)
 - [DNS: Domain Name Server](https://dev.to/sahillearninglinux/dns-domain-name-server-k23)
-- [گزارش‌هایی که مدیران عاشق آن می‌شوند: هنر ارائه گزارش‌های کنترل پروژه](https://dev.to/parizad/gzrshhyy-khh-mdyrn-shq-an-myshwnd-hnr-ryh-gzrshhy-khntrl-prwjh-12c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
