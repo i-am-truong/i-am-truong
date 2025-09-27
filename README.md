@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-92: 🚀 Create a Node Pool and Deploy Kubernetes Workloads with NodeSelector in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-92-create-a-node-pool-and-deploy-kubernetes-workloads-with-nodeselector-in-google-3eoc)
-- [How I Used Codex to Ship Nearly 80 Pull Requests in Two Days](https://dev.to/tom-takeru/how-i-used-codex-to-ship-nearly-80-pull-requests-in-two-days-34me)
-- [🚀 Exploring the Power of init and private set in .NET Development 💎🔒](https://dev.to/nawafmahsoun/exploring-the-power-of-init-and-private-set-in-net-development-2pmj)
-- [Intégrer un chatbot intelligent via API : guide pratique](https://dev.to/service_maxsell_64ece3f66/integrer-un-chatbot-intelligent-via-api-guide-pratique-4dj4)
-- [Building Progressive Web Apps &lpar;PWAs&rpar; with Angular: A Complete Guide](https://dev.to/rohit_singh_ee84e64941db7/building-progressive-web-apps-pwas-with-angular-a-complete-guide-ppo)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-cah)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-3dk1)
+- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-4b0o)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-38l3)
+- [GameSpot: PC Gaming Show Tokyo Direct 2025 Livestream](https://dev.to/gg_news/gamespot-pc-gaming-show-tokyo-direct-2025-livestream-ope)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
