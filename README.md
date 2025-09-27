@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Token Bucket Algorithm Explained](https://dev.to/0xtanzim/token-bucket-algorithm-explained-4ceo)
 - [LLMs do know what they&#39;re going to say](https://dev.to/nicklucas/llms-do-know-what-theyre-going-to-say-54mh)
 - [Pure Responsive CSS Accordion Tutorial: Interactive, Fast &amp; No JS!](https://dev.to/siddheshcodes/pure-responsive-css-accordion-tutorial-interactive-fast-no-js-12pb)
 - [What if India Replaced Google, Facebook &amp; YouTube? A 50 Million Job Hypothetical 🇮🇳💼](https://dev.to/utkvishwas/what-if-india-replaced-google-facebook-youtube-a-50-million-job-hypothetical-4m35)
 - [Develop a native iOS app : PDF Voice Reader](https://dev.to/sravnay/develop-a-native-ios-app-pdf-voice-reader-353h)
-- [📰 Major Tech News: September 27, 2025](https://dev.to/om_shree_0709/major-tech-news-september-27-2025-1477)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
