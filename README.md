@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Speaking Directly To Your GPU](https://dev.to/davidcanhelp/speaking-directly-to-your-gpu-4kml)
 - [The Most Shocking Data Breaches of 2025: A Rundown](https://dev.to/hr21don/the-most-shocking-data-breaches-of-2025-a-rundown-12nj)
-- [💡𝗠𝗼𝘀𝘁 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀𝗲𝘀 𝗸𝗻𝗼𝘄 𝘁𝗵𝗲𝘆 𝗻𝗲𝗲𝗱 𝗮 𝘄𝗲𝗯𝘀𝗶𝘁𝗲](https://dev.to/samee-ullah/-1nf)
 - [From Analog to Digital: Signal Simulation](https://dev.to/hammadk/from-analog-to-digital-signal-simulation-357n)
-- [Develop a native Android app : PDF Voice Reader](https://dev.to/sravnay/develop-a-native-android-app-pdf-voice-reader-3ng3)
 - [Let’s talk about vibe coding](https://dev.to/alexcloudstar/lets-talk-about-vibe-coding-5cc0)
+- [EC2 Instance Store &amp; EBS explained](https://dev.to/wakeup_flower_8591a6cb6a9/ec2-instance-store-ebs-explained-1d08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
