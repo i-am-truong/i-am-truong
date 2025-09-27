@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s in new Kubernetes v1.34 Of Wind &amp; Will](https://dev.to/kaustubhyerkade/whats-in-new-kubernetes-v134-of-wind-will-22b0)
+- [Migration Guru – Manage Laravel Migrations from a Web UI](https://dev.to/nikelioum/introducing-migration-guru-manage-laravel-migrations-from-a-web-ui-26pl)
 - [RAGgle](https://dev.to/nadinev/raggle-36o9)
 - [Laravel Boost](https://dev.to/agussudarmanto/laravel-boost-5h3o)
 - [Day 1 React](https://dev.to/mona_fakhri_98b07b8a1fd66/day-1-react-4j2l)
-- [How Poetry Contests Feel Like Daily Coding Challenges](https://dev.to/poetrywritingcontests/how-poetry-contests-feel-like-daily-coding-challenges-5ah9)
-- [Use Helm with local Kubernates created in Docker desktop](https://dev.to/neil_wu_174/use-helm-with-local-kubernates-created-in-docker-desktop-24ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
