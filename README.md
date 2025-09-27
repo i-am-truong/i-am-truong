@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-92: 🚀 Create a Node Pool and Deploy Kubernetes Workloads with NodeSelector in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-92-create-a-node-pool-and-deploy-kubernetes-workloads-with-nodeselector-in-google-3eoc)
+- [How I Used Codex to Ship Nearly 80 Pull Requests in Two Days](https://dev.to/tom-takeru/how-i-used-codex-to-ship-nearly-80-pull-requests-in-two-days-34me)
+- [🚀 Exploring the Power of init and private set in .NET Development 💎🔒](https://dev.to/nawafmahsoun/exploring-the-power-of-init-and-private-set-in-net-development-2pmj)
+- [Intégrer un chatbot intelligent via API : guide pratique](https://dev.to/service_maxsell_64ece3f66/integrer-un-chatbot-intelligent-via-api-guide-pratique-4dj4)
 - [Building Progressive Web Apps &lpar;PWAs&rpar; with Angular: A Complete Guide](https://dev.to/rohit_singh_ee84e64941db7/building-progressive-web-apps-pwas-with-angular-a-complete-guide-ppo)
-- [Generating Stack Permutations: A Recursive Thinking Process](https://dev.to/savvyinsight/generating-stack-permutations-a-recursive-thinking-process-2gph)
-- [Understanding Skewness and Kurtosis in Statistics](https://dev.to/gg001/understanding-skewness-and-kurtosis-in-statistics-4php)
-- [Production-Ready Express 5 + TypeScript Project Setup](https://dev.to/abhijadhavin/production-ready-express-5-typescript-project-setup-1cfl)
-- [Part-91: 🚀 Google Kubernetes Engine &lpar;GKE&rpar; - Node Pools &amp; Node Selectors](https://dev.to/latchudevops/part-91-google-kubernetes-engine-gke-node-pools-node-selectors-50k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
