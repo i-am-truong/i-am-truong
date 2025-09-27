@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering RestTemplate in Spring Boot](https://dev.to/pallavi_kamble_07/mastering-resttemplate-in-spring-boot-2i84)
+- [Testing Ollama Web Search 🔍 and a Thinking Model 💭](https://dev.to/aairom/testing-ollama-web-search-and-a-thinking-model-1dh7)
+- [How Do Software Deployments Work?](https://dev.to/karthikkorrayi/how-do-software-deployments-work-15i2)
 - [HeMA-MISO: Heterogeneous Memory Architecture for LLM Inference with SW Optimization](https://dev.to/peterysh/hema-miso-heterogeneous-memory-architecture-for-llm-inference-with-sw-optimization-3d1)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gek)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1fll)
-- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-553a)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-101m)
+- [Syncing Multiple Tabs in a Browser Application](https://dev.to/mayank_gupta/syncing-multiple-tabs-in-a-browser-application-9dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
