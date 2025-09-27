@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI powered Code compiler, viewer, editor and enhancer](https://dev.to/girish_lade_11fc2b532a7ae/ai-powered-code-compiler-viewer-editor-and-enhancer-46h3)
-- [Days 98-106: Exam Week Chaos and Coming Back to Reality](https://dev.to/casperday11/days-98-106-exam-week-chaos-and-coming-back-to-reality-51bn)
-- [Vibe Ensemble - Your Personal Development Team](https://dev.to/siy/vibe-ensemble-your-personal-development-team-5efm)
-- [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-5gno)
-- [Symfony Station Communiqué - Stardate: ✦ 26 September 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-26-september-2025-the-latest-symfony-drupal-typo3-2o3h)
+- [Develop a native Android app : PDF Voice Reader](https://dev.to/sravnay/develop-a-native-android-app-pdf-voice-reader-3ng3)
+- [Let’s talk about vibe coding](https://dev.to/alexcloudstar/lets-talk-about-vibe-coding-5cc0)
+- [2026: When AI Weapons, Crypto Cash, and Geopolitics Rewrote the Rules of Power](https://dev.to/glorioustechs/2026-when-ai-weapons-crypto-cash-and-geopolitics-rewrote-the-rules-of-power-3lac)
+- [EC2 Instance Store &amp; EBS explained](https://dev.to/wakeup_flower_8591a6cb6a9/ec2-instance-store-ebs-explained-1d08)
+- [AI powered Code compiler, viewer, editor and enhancer](https://dev.to/girishlade/ai-powered-code-compiler-viewer-editor-and-enhancer-46h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
