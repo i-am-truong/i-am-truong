@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Launched! A Look Inside Our New AI FinTech Platform.](https://dev.to/shiv-centcapital/-2n74)
-- [Blazer AI: Intelligent Student Handbook and Website Assistant](https://dev.to/echtoplasm/blazer-ai-intelligent-student-handbook-and-website-assistant-2ldi)
-- [Scaling to 300K+ Records Daily: How We Handle High Volume Data Processing with Lumen &amp; MySQL](https://dev.to/mufthi_ryanda_84ea0d65262/scaling-to-300k-records-daily-how-we-handle-high-volume-data-processing-with-lumen-mysql-1ipo)
-- [Test d&#39;Utilisabilité](https://dev.to/chaimabouchareb/test-dutilisabilite-27m8)
-- [AI: Understanding the Intelligence Revolution Shaping Our Future](https://dev.to/sia_negi21/ai-understanding-the-intelligence-revolution-shaping-our-future-jgn)
+- [Day 57: Ansible video hands-on](https://dev.to/udoh_deborah_b1e484c474bf/day-57-ansible-video-hands-on-52g0)
+- [Ethers.js Developer Guide – Practical](https://dev.to/loading_blocks/ethersjs-developer-guide-practical-ocd)
+- [Database Design: modelando bancos de dados do jeito certo](https://dev.to/joaosilvadev/database-design-modelando-bancos-de-dados-do-jeito-certo-1e78)
+- [HI](https://dev.to/ziad_khiralla_594bd5f6f08/hi-3e96)
+- [Learning about the history of the internet today. Really interesting stuff. I never knew that TCP/IP dates all the way back to the 1970s.](https://dev.to/ashley_emetarom/learning-about-the-history-of-the-internet-today-really-interesting-stuff-i-never-knew-that-1nh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
