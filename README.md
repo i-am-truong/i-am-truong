@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-91: 🚀 Google Kubernetes Engine &lpar;GKE&rpar; - Node Pools &amp; Node Selectors](https://dev.to/latchudevops/part-91-google-kubernetes-engine-gke-node-pools-node-selectors-50k3)
+- [S — Slice to Essentials &lpar;build the thin slice&rpar;](https://dev.to/codebrainr/s-slice-to-essentials-build-the-thin-slice-4b18)
+- [Why Technical Writing is a Superpower in 2025](https://dev.to/envitab/why-technical-writing-is-a-superpower-in-2025-3ep1)
+- [🌐 Understanding CORS &lpar;Cross-Origin Resource Sharing&rpar;: A Complete Guide](https://dev.to/fazal_mansuri_/understanding-cors-cross-origin-resource-sharing-a-complete-guide-5gbg)
 - [Check out my app called pdf snippets](https://dev.to/abhishek_hadpad_6b54a621f/check-out-my-app-called-pdf-snippets-861)
-- [How to use useNavigate to transition from a button in React](https://dev.to/kazutora_hattori_66972c88/how-to-use-usenavigate-to-transition-from-a-button-in-react-4026)
-- [Binary Analysis Fundamentals](https://dev.to/cangulmez/binary-analysis-fundamentals-4a4)
-- [Day 24 - Alert Component Part 3 - Add an Alert Bar to change styles](https://dev.to/railsstudent/day-24-alert-component-part-3-add-an-alert-bar-to-change-styles-1c4k)
-- [Do anything with a Valibot schema!](https://dev.to/ahrjarrett/do-anything-with-a-valibot-schema-515g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
