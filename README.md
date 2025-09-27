@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-cah)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-3dk1)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-4b0o)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-38l3)
-- [GameSpot: PC Gaming Show Tokyo Direct 2025 Livestream](https://dev.to/gg_news/gamespot-pc-gaming-show-tokyo-direct-2025-livestream-ope)
+- [The Art of Troubleshooting as a Product Manager 11 steps to fix what’s broken &lpar;without losing your mind&rpar;](https://dev.to/uladshauchenka/the-art-of-troubleshooting-as-a-product-manager-11-steps-to-fix-whats-broken-without-losing-your-2j0e)
+- [Part-93: 🚀 To Implement the K8s DaemonSets in Google Kubernetes Engine &lpar;GCP&rpar;](https://dev.to/latchudevops/part-93-to-implement-the-k8s-daemonsets-in-google-kubernetes-engine-gcp-432i)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3ko6)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1df1)
+- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-26oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
