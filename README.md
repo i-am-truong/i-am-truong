@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OTA Python updates with ESP-Now](https://dev.to/gtanyware/ota-python-updates-with-esp-now-4iai)
 - [Channel-hopping on the ESP32-C3 with ESP-Now](https://dev.to/gtanyware/channel-hopping-on-the-esp32-c3-with-esp-now-2led)
+- [The Future of Networking: How QR Portfolios Are Replacing Business Events](https://dev.to/imtaslim/the-future-of-networking-how-qr-portfolios-are-replacing-business-events-2b68)
 - [Day-6: Cron Job | 100 Days of DevOps](https://dev.to/olymahmud/day-6-cron-job-100-days-of-devops-38ed)
 - [ESP-Now master-slave in Micropython](https://dev.to/gtanyware/esp-now-master-slave-in-micropython-16e2)
-- [From frustration to open source adoption: my journey building SnapDOM](https://dev.to/tinchox5/from-frustration-to-open-source-adoption-my-journey-building-snapdom-4p4o)
-- [System Design Basics: Scalability vs Performance vs Security](https://dev.to/ritesh_chopade/system-design-basics-scalability-vs-performance-vs-security-440m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
