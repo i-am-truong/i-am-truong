@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RemindMeApp from design to implementation | Kivy Project Part 4 | Tabbed panel &amp; Tabbed Items](https://dev.to/eyong_kevinenowanyo_b677/remindmeapp-from-design-to-implementation-kivy-project-part-4-tabbed-panel-tabbed-items-2cl9)
 - [Introdução ao Apache Kafka](https://dev.to/programadriano/introducao-ao-apache-kafka-2haj)
 - [Why GraphQL is gaining adoption](https://dev.to/popoolatopzy/why-graphql-is-gaining-adoption-17p)
 - [Post 1/10 — Multi-Tenancy &amp; Security Baseline with Namespaces, Quotas, NetworkPolicies, and Pod Security Admission](https://dev.to/cloud-sky-ops/post-110-multi-tenancy-security-baseline-with-namespaces-quotas-networkpolicies-and-pod-2mfj)
 - [Your SOC 2 Compliance Won&#39;t Stop Supply Chain Attacks &lpar;And I Have the Data to Prove It&rpar;](https://dev.to/arbythecoder/your-soc-2-compliance-wont-stop-supply-chain-attacks-and-i-have-the-data-to-prove-it-4nid)
-- [Digital IDs Are the Trap—UBI Coins Are the Escape Plan](https://dev.to/owly/digital-ids-are-the-trap-ubi-coins-are-the-escape-plan-55ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
