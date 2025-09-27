@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [RemindMeApp from design to implementation | Kivy Project Part 4 | Tabbed panel &amp; Tabbed Items](https://dev.to/eyong_kevinenowanyo_b677/remindmeapp-from-design-to-implementation-kivy-project-part-4-tabbed-panel-tabbed-items-2cl9)
 - [How to Customize the Service Catalog in BILLmanager](https://dev.to/mateor404/how-to-customize-the-service-catalog-in-billmanager-f4a)
 - [5 AI-Powered Crypto Trading Tools You Need in 2025](https://dev.to/ctm8/5-ai-powered-crypto-trading-tools-you-need-in-2025-bel)
-- [Introdução ao Apache Kafka](https://dev.to/programadriano/introducao-ao-apache-kafka-2haj)
+- [Daemons: From Physics &lpar;?&rpar; to Linux System Control](https://dev.to/lucasriboli/daemons-from-physics-to-linux-system-control-34ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
