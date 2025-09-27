@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The best climate tech that cuts greenhouse gases—what works now &lpar;and what’s next&rpar;](https://dev.to/expertise_enviropass_0155/the-best-climate-tech-that-cuts-greenhouse-gases-what-works-now-and-whats-next-10kb)
+- [Django Project &amp; App Structure Explained](https://dev.to/gopal_ghate_5bda01b730e45/django-project-app-structure-explained-353p)
 - [NeoComp: new framework with a new paradigm](https://dev.to/aliibrahim123/neocomp-new-framework-with-a-new-paradigm-1b6f)
+- [Test Automation Meets AI — Smarter QA with Playwright + LLMs](https://dev.to/soumikdhar/test-automation-meets-ai-smarter-qa-with-playwright-llms-50f0)
 - [LocalStorage vs IndexedDB: JavaScript Guide &lpar;Storage, Limits &amp; Best Practices&rpar;](https://dev.to/tenelabs/localstorage-vs-indexeddb-javascript-guide-storage-limits-best-practices-5g4l)
-- [From Spec to Deploy: Building an Expense Tracker with SpecKit](https://dev.to/manjushsh/from-spec-to-deploy-building-an-expense-tracker-with-speckit-1hg9)
-- [He3.in – Research Workspace](https://dev.to/3m/he3in-research-workspace-mj6)
-- [How to Build a WhatsApp Chatbot Using Flaresend API](https://dev.to/msnmongare/how-to-build-a-whatsapp-chatbot-using-flaresend-1h90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
