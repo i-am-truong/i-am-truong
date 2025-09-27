@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI: Understanding the Intelligence Revolution Shaping Our Future](https://dev.to/sia_negi21/ai-understanding-the-intelligence-revolution-shaping-our-future-jgn)
+- [Per-Object Permissions for Elasticsearch Lists in Django Websites](https://dev.to/djangotricks/per-object-permissions-for-elasticsearch-lists-in-django-websites-2427)
+- [How Can College Students Make Money Online or Find Internships? 💸🎓](https://dev.to/nish2005karsh/how-can-college-students-make-money-online-or-find-internships-1jh2)
+- [Connecting to the Ethereum Blockchain](https://dev.to/loading_blocks/connecting-to-the-ethereum-blockchain-3cl0)
 - [Tally: The Liveability Dashboard](https://dev.to/richk21/tally-the-liveability-dashboard-4ha8)
-- [From Messy to Modular: A Better Way to Write Production-Ready Terraform - Part 1](https://dev.to/aws-builders/from-messy-to-modular-a-better-way-to-write-production-ready-terraform-for-aws-part-1-39b8)
-- [I must have wasted at least 20 minutes hunting around slack for info on a Jira item yesterday.](https://dev.to/saxmanjes/i-must-have-wasted-at-least-10-minutes-hunting-around-slack-for-info-on-a-jira-item-yesterday-458e)
-- [OTA Python updates with ESP-Now](https://dev.to/gtanyware/ota-python-updates-with-esp-now-4iai)
-- [💡 Ideias de SaaS Baseadas nas Tendências: atlético madrid x real madrid, brentford x manchester united, cris pereira](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-atletico-madrid-x-real-madrid-brentford-x-manchester-1k0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
