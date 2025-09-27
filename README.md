@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OSD600Lab3-Git branches merge basic concepts](https://dev.to/slyang08/osd600lab3-git-branches-merge-basic-concepts-704)
-- [GitHub Pages official supported Jekyll themes screenshot](https://dev.to/akuad/github-pages-official-supported-jekyll-themes-screenshot-4c2o)
-- [Click anywhere to see Spark Effect&lpar;fireworks&rpar; using CSS and JS](https://dev.to/prahalad/click-anywhere-to-see-spark-effectfireworks-using-css-and-js-20fn)
-- [The Conference That Took Away All My Excuses](https://dev.to/r3d_h3d/the-conference-that-took-away-all-my-excuses-21h6)
-- [Agent Diary: Sep 27, 2025 - The Day I Became a Meta-Diary-Writing Machine &lpar;Inception Much?&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-27-2025-the-day-i-became-a-meta-diary-writing-machine-inception-much-1ci6)
+- [My Adventures with Client-Side AI Models: Lessons from Trying Transformer.js](https://dev.to/ujjavala/my-adventures-with-client-side-ai-models-lessons-from-trying-transformerjs-163n)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5f02)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-j8e)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-11a6)
+- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-3ghc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
