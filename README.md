@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [OSD600Lab3-Git branches merge basic concepts](https://dev.to/slyang08/osd600lab3-git-branches-merge-basic-concepts-704)
 - [GitHub Pages official supported Jekyll themes screenshot](https://dev.to/akuad/github-pages-official-supported-jekyll-themes-screenshot-4c2o)
+- [Click anywhere to see Spark Effect&lpar;fireworks&rpar; using CSS and JS](https://dev.to/prahalad/click-anywhere-to-see-spark-effectfireworks-using-css-and-js-20fn)
 - [The Conference That Took Away All My Excuses](https://dev.to/r3d_h3d/the-conference-that-took-away-all-my-excuses-21h6)
-- [🚀 Building a Portfolio Clone with HTML, CSS, JavaScript, and GSAP](https://dev.to/sufalthakre/building-a-portfolio-clone-with-html-css-javascript-and-gsap-5f84)
-- [Building a Privacy-First Code Formatter: My Architecture Decisions](https://dev.to/jeanlinux/building-a-privacy-first-code-formatter-my-architecture-decisions-4fap)
+- [Agent Diary: Sep 27, 2025 - The Day I Became a Meta-Diary-Writing Machine &lpar;Inception Much?&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-27-2025-the-day-i-became-a-meta-diary-writing-machine-inception-much-1ci6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
