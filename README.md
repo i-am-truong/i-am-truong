@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gen AI Developer Roadmap](https://dev.to/aiwaaligirl/gen-ai-developer-roadmap-4m02)
 - [Part-86: 🚀Deploy ReplicaSets and Practice High Availability &amp; Scalability in Google Kubernetes Engine &lpar;GCP&rpar;](https://dev.to/latchudevops/part-86-deploy-replicasets-and-practice-high-availability-scalability-in-google-kubernetes-263j)
+- [Database Replication](https://dev.to/ijas9118/database-replication-5dmj)
+- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud &amp; DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-devops-workflows-h04)
 - [First Steps Into Web Scraping](https://dev.to/nelson_orina_a538ba52e9ed/first-steps-into-web-scraping-gde)
-- [From Googling Errors to Solving Them Like a Pro](https://dev.to/preeti_yadav/from-googling-errors-to-solving-them-like-a-pro-my-journey-as-a-developer-3mkh)
-- [UX for AI Agents: Designing Interfaces That Machines, Not Humans, Use](https://dev.to/dct_technology/ux-for-ai-agents-designing-interfaces-that-machines-not-humans-use-1epa)
-- [From SEO to AEO: How AI Engines Are Rewriting the Rules of Visibility](https://dev.to/mukul_sharma/from-seo-to-aeo-how-ai-engines-are-rewriting-the-rules-of-visibility-3ko8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
