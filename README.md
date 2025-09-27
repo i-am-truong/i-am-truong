@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Small Dependency Injection](https://dev.to/sebk69/small-dependency-injection-5096)
+- [ALTER TABLE … MOVE ONLINE](https://dev.to/vahidusefzadeh/alter-table-move-online-2g96)
 - [AI-Powered Secure Cloud File Sharing](https://dev.to/jinomaximum/ai-powered-secure-cloud-file-sharing-4bm9)
 - [Welcome to My First Blog Post](https://dev.to/dipakrathod-tech/welcome-to-my-first-blog-post-pih)
 - [Arquitetura Monolítica no Desenvolvimento de Software Moderno](https://dev.to/bernardo_18bce589281a5bdf/arquitetura-monolitica-no-desenvolvimento-de-software-moderno-4mf3)
-- [Set &amp; Frozenset functions in Python &lpar;4&rpar;](https://dev.to/hyperkai/set-frozenset-functions-in-python-4-2m8)
-- [AI-Powered Secure Cloud File Sharing](https://dev.to/jinomaximum/ai-powered-secure-cloud-file-sharing-1gb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
