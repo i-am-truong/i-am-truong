@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-ni8)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-5bon)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-37m8)
-- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-g1h)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3ehg)
+- [🚀 Building a Portfolio Clone with HTML, CSS, JavaScript, and GSAP](https://dev.to/sufalthakre/building-a-portfolio-clone-with-html-css-javascript-and-gsap-5f84)
+- [Building a Privacy-First Code Formatter: My Architecture Decisions](https://dev.to/jeanlinux/building-a-privacy-first-code-formatter-my-architecture-decisions-4fap)
+- [Tech News 26th Sept](https://dev.to/thedeepseeker/tech-news-26th-sept-271j)
+- [📰 Major Tech News: September 26, 2025](https://dev.to/om_shree_0709/major-tech-news-september-26-2025-3e9n)
+- [Construyendo un Sistema RAG para Derecho Laboral Paraguayo](https://dev.to/jesus_oviedoriquelme_084/construyendo-un-sistema-rag-para-derecho-laboral-paraguayo-3ik2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
