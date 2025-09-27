@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with AI Agent Development with LangChain &amp; LangGraph: Build an Autonomous Starbucks Agent](https://dev.to/djibrilm/getting-started-with-ai-agent-development-with-langchain-langgraph-build-an-autonomous-starbucks-2ii2)
+- [Git is really cool, actually](https://dev.to/depot/git-is-really-cool-actually-3b59)
+- [#DAY 2: Deploying the Monitoring Dashboard - Uptime Kuma](https://dev.to/samueladeduntan/day-2-deploying-the-monitoring-dashboard-uptime-kuma-4996)
+- [Stop Getting Blocked: How a Simple Design Pattern Unlocks Your Project&#39;s Complex Logic](https://dev.to/trent_best_ca8617e4911baf/stop-getting-blocked-how-a-simple-design-pattern-unlocks-your-projects-complex-logic-1420)
 - [GNU Screen vs Tmux: The Ultimate Terminal Multiplexer Showdown&quot; - A Hilarious Yet Comprehensive Guide](https://dev.to/davidcanhelp/gnu-screen-vs-tmux-the-ultimate-terminal-multiplexer-showdown-a-hilarious-yet-comprehensive-1kcd)
-- [Building a Complete User Authentication System with GitHub Copilot Chat: A Step-by-Step Guide](https://dev.to/fatoki_olaitan_3ee4c539e0/building-a-complete-user-authentication-system-with-github-copilot-chat-a-step-by-step-guide-339a)
-- [The Moving Day Disaster: Understanding List Mutations](https://dev.to/aaron_rose_0787cc8b4775a0/the-moving-day-disaster-understanding-list-mutations-d3p)
-- [Observabilidade em aplicações móveis](https://dev.to/wps13/observabilidade-em-aplicacoes-moveis-2bfi)
-- [7 Tips for Choosing Web Hosting &amp; Domain Strategies for Startups](https://dev.to/ramer2b58cbe46bc8/7-tips-for-choosing-web-hosting-domain-strategies-for-startups-4a5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
