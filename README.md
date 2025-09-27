@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Minesweeper - KendoReact Challenge](https://dev.to/penpal-silk/minesweeper-kendoreact-challenge-3pn0)
 - [The best climate tech that cuts greenhouse gases—what works now &lpar;and what’s next&rpar;](https://dev.to/expertise_enviropass_0155/the-best-climate-tech-that-cuts-greenhouse-gases-what-works-now-and-whats-next-10kb)
 - [Building a Poor Man&#39;s Queue with Cloudflare Workers: From Zero to Production](https://dev.to/araldhafeeri/building-a-poor-mans-queue-with-cloudflare-workers-from-zero-to-production-2oi0)
 - [Django Project &amp; App Structure Explained](https://dev.to/gopal_ghate_5bda01b730e45/django-project-app-structure-explained-353p)
 - [NeoComp: new framework with a new paradigm](https://dev.to/aliibrahim123/neocomp-new-framework-with-a-new-paradigm-1b6f)
-- [Test Automation Meets AI — Smarter QA with Playwright + LLMs](https://dev.to/soumikdhar/test-automation-meets-ai-smarter-qa-with-playwright-llms-50f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
