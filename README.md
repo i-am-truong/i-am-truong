@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RAGgle](https://dev.to/nadinev/raggle-36o9)
+- [How the Lastmod Tag Helps Search Engines Crawl Smarter](https://dev.to/rijultp/how-the-lastmod-tag-helps-search-engines-crawl-smarter-21kl)
 - [Token Bucket Algorithm Explained](https://dev.to/0xtanzim/token-bucket-algorithm-explained-4ceo)
+- [Your B2B Content Calendar is a Deployed System: A Scalable Framework](https://dev.to/michaelaiglobal/your-b2b-content-calendar-is-a-deployed-system-a-scalable-framework-3b7j)
 - [LLMs do know what they&#39;re going to say](https://dev.to/nicklucas/llms-do-know-what-theyre-going-to-say-54mh)
-- [Pure Responsive CSS Accordion Tutorial: Interactive, Fast &amp; No JS!](https://dev.to/siddheshcodes/pure-responsive-css-accordion-tutorial-interactive-fast-no-js-12pb)
-- [What if India Replaced Google, Facebook &amp; YouTube? A 50 Million Job Hypothetical 🇮🇳💼](https://dev.to/utkvishwas/what-if-india-replaced-google-facebook-youtube-a-50-million-job-hypothetical-4m35)
-- [Develop a native iOS app : PDF Voice Reader](https://dev.to/sravnay/develop-a-native-ios-app-pdf-voice-reader-353h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
