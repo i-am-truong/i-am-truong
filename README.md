@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Breaking down the text barrier of LLM chatbots with KendoReact and MCP-UI](https://dev.to/hichamelbsi/breaking-down-the-text-barrier-of-llm-chatbots-with-kendoreact-and-mcp-ui-1ico)
-- [How to Build a Simple &#39;Indian Festival API&#39; with Python and a JSON Dataset](https://dev.to/yash_ingawale_aac9b21247a/how-to-build-a-simple-indian-festival-api-with-python-and-a-json-dataset-11de)
-- [[Boost]](https://dev.to/chris3857/-56e0)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-91n)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-ljp)
+- [Channel-hopping on the ESP32-C3 with ESP-Now](https://dev.to/gtanyware/channel-hopping-on-the-esp32-c3-with-esp-now-2led)
+- [Day-6: Cron Job | 100 Days of DevOps](https://dev.to/olymahmud/day-6-cron-job-100-days-of-devops-38ed)
+- [ESP-Now master-slave in Micropython](https://dev.to/gtanyware/esp-now-master-slave-in-micropython-16e2)
+- [From frustration to open source adoption: my journey building SnapDOM](https://dev.to/tinchox5/from-frustration-to-open-source-adoption-my-journey-building-snapdom-4p4o)
+- [System Design Basics: Scalability vs Performance vs Security](https://dev.to/ritesh_chopade/system-design-basics-scalability-vs-performance-vs-security-440m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
