@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Series: 📦 Docker Basics](https://dev.to/ritesh355/docker-series-docker-basics-5a52)
+- [The Hidden Bottleneck Killing Your Engineering Team &lpar;and How to Fix It&rpar;](https://dev.to/foyerstein_itay_e4258076f/the-hidden-bottleneck-killing-your-engineering-team-and-how-to-fix-it-152n)
 - [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
 - [Why Stable E2E and Integration Tests Matter — and How to Achieve It with Docker and a Slim Database Copy](https://dev.to/artur_benagraph_fb74d5fd9/why-stable-e2e-and-integration-tests-matter-and-how-to-achieve-it-with-docker-and-a-slim-database-88h)
 - [Why the US-100 Sensor Belongs in Your Next Arduino or ESP32 Project](https://dev.to/julia12/introducing-the-us-100-ultrasonic-ranging-module-2-cm-45-m-440)
-- [💪🧠How to Boost your Brain for Free &lpar;Muscle Brain&rpar;](https://dev.to/webdeveloperhyper/how-to-boost-your-brain-for-free-muscle-brain-534h)
-- [Simplify Complex Systems: Facade Design Pattern](https://dev.to/priyankbhardwaj1199/simplify-complex-systems-facade-design-pattern-j0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
