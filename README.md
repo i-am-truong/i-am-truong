@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First Steps Into Web Scraping](https://dev.to/nelson_orina_a538ba52e9ed/first-steps-into-web-scraping-gde)
 - [From Googling Errors to Solving Them Like a Pro](https://dev.to/preeti_yadav/from-googling-errors-to-solving-them-like-a-pro-my-journey-as-a-developer-3mkh)
 - [List , ArrayList and Methods](https://dev.to/preethi_nandhagopal_6d075/list-arraylist-and-methods-3moe)
 - [UX for AI Agents: Designing Interfaces That Machines, Not Humans, Use](https://dev.to/dct_technology/ux-for-ai-agents-designing-interfaces-that-machines-not-humans-use-1epa)
 - [From SEO to AEO: How AI Engines Are Rewriting the Rules of Visibility](https://dev.to/mukul_sharma/from-seo-to-aeo-how-ai-engines-are-rewriting-the-rules-of-visibility-3ko8)
-- [A week with Claude Code: lessons, surprises and smarter workflows](https://dev.to/ujjavala/a-week-with-claude-code-lessons-surprises-and-smarter-workflows-23ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
