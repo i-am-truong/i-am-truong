@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [RAGgle](https://dev.to/nadinev/raggle-36o9)
-- [How the Lastmod Tag Helps Search Engines Crawl Smarter](https://dev.to/rijultp/how-the-lastmod-tag-helps-search-engines-crawl-smarter-21kl)
-- [Token Bucket Algorithm Explained](https://dev.to/0xtanzim/token-bucket-algorithm-explained-4ceo)
-- [Your B2B Content Calendar is a Deployed System: A Scalable Framework](https://dev.to/michaelaiglobal/your-b2b-content-calendar-is-a-deployed-system-a-scalable-framework-3b7j)
-- [LLMs do know what they&#39;re going to say](https://dev.to/nicklucas/llms-do-know-what-theyre-going-to-say-54mh)
+- [Laravel Boost](https://dev.to/agussudarmanto/laravel-boost-5h3o)
+- [Day 1 React](https://dev.to/mona_fakhri_98b07b8a1fd66/day-1-react-4j2l)
+- [How Poetry Contests Feel Like Daily Coding Challenges](https://dev.to/poetrywritingcontests/how-poetry-contests-feel-like-daily-coding-challenges-5ah9)
+- [Use Helm with local Kubernates created in Docker desktop](https://dev.to/neil_wu_174/use-helm-with-local-kubernates-created-in-docker-desktop-24ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
