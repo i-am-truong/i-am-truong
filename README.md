@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 57: Ansible video hands-on](https://dev.to/udoh_deborah_b1e484c474bf/day-57-ansible-video-hands-on-52g0)
-- [Ethers.js Developer Guide – Practical](https://dev.to/loading_blocks/ethersjs-developer-guide-practical-ocd)
-- [Database Design: modelando bancos de dados do jeito certo](https://dev.to/joaosilvadev/database-design-modelando-bancos-de-dados-do-jeito-certo-1e78)
-- [HI](https://dev.to/ziad_khiralla_594bd5f6f08/hi-3e96)
-- [Learning about the history of the internet today. Really interesting stuff. I never knew that TCP/IP dates all the way back to the 1970s.](https://dev.to/ashley_emetarom/learning-about-the-history-of-the-internet-today-really-interesting-stuff-i-never-knew-that-1nh3)
+- [📰 Major Tech News: September 27, 2025](https://dev.to/om_shree_0709/major-tech-news-september-27-2025-1477)
+- [AWS Storage Gateway: Cached Volumes or Stored Volumes ?](https://dev.to/narednra_reddyyadama_d64/aws-storage-gateway-cached-volumes-or-stored-volumes--3mab)
+- [I Like To Make Stuff: Yes, I Made a Giant Noodle Grabber...](https://dev.to/maker_youtube/i-like-to-make-stuff-yes-i-made-a-giant-noodle-grabber-21ae)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ddm)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1jee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
