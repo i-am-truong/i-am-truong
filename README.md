@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tally: The Liveability Dashboard](https://dev.to/richk21/tally-the-liveability-dashboard-4ha8)
 - [From Messy to Modular: A Better Way to Write Production-Ready Terraform - Part 1](https://dev.to/aws-builders/from-messy-to-modular-a-better-way-to-write-production-ready-terraform-for-aws-part-1-39b8)
 - [I must have wasted at least 20 minutes hunting around slack for info on a Jira item yesterday.](https://dev.to/saxmanjes/i-must-have-wasted-at-least-10-minutes-hunting-around-slack-for-info-on-a-jira-item-yesterday-458e)
 - [OTA Python updates with ESP-Now](https://dev.to/gtanyware/ota-python-updates-with-esp-now-4iai)
 - [💡 Ideias de SaaS Baseadas nas Tendências: atlético madrid x real madrid, brentford x manchester united, cris pereira](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-atletico-madrid-x-real-madrid-brentford-x-manchester-1k0l)
-- [Channel-hopping on the ESP32-C3 with ESP-Now](https://dev.to/gtanyware/channel-hopping-on-the-esp32-c3-with-esp-now-2led)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
