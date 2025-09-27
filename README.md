@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Messy to Modular: A Better Way to Write Production-Ready Terraform - Part 1](https://dev.to/aws-builders/from-messy-to-modular-a-better-way-to-write-production-ready-terraform-for-aws-part-1-39b8)
+- [I must have wasted at least 20 minutes hunting around slack for info on a Jira item yesterday.](https://dev.to/saxmanjes/i-must-have-wasted-at-least-10-minutes-hunting-around-slack-for-info-on-a-jira-item-yesterday-458e)
 - [OTA Python updates with ESP-Now](https://dev.to/gtanyware/ota-python-updates-with-esp-now-4iai)
+- [💡 Ideias de SaaS Baseadas nas Tendências: atlético madrid x real madrid, brentford x manchester united, cris pereira](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-atletico-madrid-x-real-madrid-brentford-x-manchester-1k0l)
 - [Channel-hopping on the ESP32-C3 with ESP-Now](https://dev.to/gtanyware/channel-hopping-on-the-esp32-c3-with-esp-now-2led)
-- [The Future of Networking: How QR Portfolios Are Replacing Business Events](https://dev.to/imtaslim/the-future-of-networking-how-qr-portfolios-are-replacing-business-events-2b68)
-- [Day-6: Cron Job | 100 Days of DevOps](https://dev.to/olymahmud/day-6-cron-job-100-days-of-devops-38ed)
-- [ESP-Now master-slave in Micropython](https://dev.to/gtanyware/esp-now-master-slave-in-micropython-16e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
