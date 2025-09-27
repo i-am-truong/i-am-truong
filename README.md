@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-90: 🚀 Kubernetes Deployment with Declarative Way in Google Kubernetes Engine &lpar;GCP&rpar;](https://dev.to/latchudevops/part-90-kubernetes-deployment-with-declarative-way-in-google-kubernetes-engine-gcp-1ep)
-- [Forget GPUs: Let&#39;s Render a Spinning 3D Cube in a Console](https://dev.to/atomijd/forget-gpus-lets-render-a-spinning-3d-cube-in-a-console-1969)
-- [‎How to Start a Tech Blog That Reflects Your Expertise and Personality ‎](https://dev.to/okoye_ndidiamaka_5e3b7d30/how-to-start-a-tech-blog-that-reflects-your-expertise-and-personality-2001)
-- [100 Days of DevOps: Day 54](https://dev.to/wycliffealphus/100-days-of-devops-day-54-1fmc)
-- [Towards a Role-Based Multi-CPU Gaming Architecture: Reducing Latency Through Board and Kernel Co-Design](https://dev.to/hejhdiss/towards-a-role-based-multi-cpu-gaming-architecture-reducing-latency-through-board-and-kernel-13l7)
+- [IGN: Hollow Knight Silksong - How to Beat the Last Judge &lpar;Or Skip Him Entirely!&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-beat-the-last-judge-or-skip-him-entirely-1nl7)
+- [IGN: Magic: The Gathering x Star Trek - Official Teaser Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-star-trek-official-teaser-trailer-4adm)
+- [IGN: Diablo 4 x StarCraft - Official Trailer](https://dev.to/gg_news/ign-diablo-4-x-starcraft-official-trailer-12m3)
+- [IGN: Hollow Knight: Silksong Boss Fight - Battle Arena/Locked Room &lpar;High Halls, Conductor&#39;s Melody&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-battle-arenalocked-room-high-halls-conductors-melody-3mgb)
+- [IGN: Hollow Knight Silksong: How to Negate Poison - Wreath of Purity Location](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-negate-poison-wreath-of-purity-location-5g2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
