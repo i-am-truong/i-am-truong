@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 RadheyCraft Hosting: Affordable &amp; High-Performance Hosting Solutions for Indian Developers](https://dev.to/anoop_kasaudhan_15931e05b/radheycraft-hosting-affordable-high-performance-hosting-solutions-for-indian-developers-2ag1)
+- [Finding the Wizard&#39;s Pet — KendoReact Free Components Challenge](https://dev.to/violetadev/wizards-trial-kendoreact-free-components-challenge-2dge)
+- [Weekly #39-2025: The Next Era of Development: Performance, Productivity, and Trust](https://dev.to/weekly/weekly-39-2025-the-next-era-of-development-performance-productivity-and-trust-3n5k)
+- [Building the RevOps Engine: A Developer&#39;s Guide to Integrating Sales &amp; Marketing Stacks](https://dev.to/michaelaiglobal/building-the-revops-engine-a-developers-guide-to-integrating-sales-marketing-stacks-4aed)
 - [MLZC25-02. Los Tres Tipos de Aprendizaje Automático: Una Guía Completa](https://dev.to/jesus_oviedoriquelme_084/mlzc25-02-los-tres-tipos-de-aprendizaje-automatico-una-guia-completa-2n81)
-- [AppExchange Growth: How niche apps are reshaping the ecosystem](https://dev.to/ilya_dudkin_a2376d54017d/appexchange-growth-how-niche-apps-are-reshaping-the-ecosystem-kmk)
-- [Architecting a B2B Content Hub: A Developer&#39;s Blueprint for Driving Leads](https://dev.to/michaelaiglobal/architecting-a-b2b-content-hub-a-developers-blueprint-for-driving-leads-2obe)
-- [From Configuration to Composition: Revolutionizing System Design with Bindable Components](https://dev.to/devunionx/from-configuration-to-composition-revolutionizing-system-design-with-bindable-components-32ma)
-- [ASP .NET Core hide query string parameters](https://dev.to/karenpayneoregon/aspnet-core-hide-query-string-parameters-2fpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
