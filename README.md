@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ARQUITETURA EM CAMADAS: UM PADRÃO ESSENCIAL PARA SISTEMAS ROBUSTOS](https://dev.to/gabriel_ribeiro_a60b493db/arquitetura-em-camadas-um-padrao-essencial-para-sistemas-robustos-cjn)
-- [Vectors in C++: The Smart Dynamic Array](https://dev.to/saifulire/vectors-in-c-the-smart-dynamic-array-5ahe)
-- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-5e47)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-44d5)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3o5i)
+- [Dynamics 365 &amp; Power Platform: What Developers Should Watch in 2025 Release Wave 2](https://dev.to/nikhildynamicsce/dynamics-365-power-platform-what-developers-should-watch-in-2025-release-wave-2-37e7)
+- [🚀 The Rise of Student Entrepreneurship in India](https://dev.to/aws_1_27d6cbc9e944aa228ef/the-rise-of-student-entrepreneurship-in-india-36no)
+- [Behind the Scenes: Refactoring Glyph Catalog 🛠️](https://dev.to/jitheshpoojari/behind-the-scenes-refactoring-glyph-catalog-o7m)
+- [vectors a smart dynamic array](https://dev.to/saifulire/vectors-a-smart-dynamic-array-215l)
+- [Building a One-Click Windows Event Log Monitoring Stack with ELK + Grafana](https://dev.to/secbyshresth/building-a-one-click-windows-event-log-monitoring-stack-with-elk-grafana-4gmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
