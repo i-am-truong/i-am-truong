@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-44e0)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3oil)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-537g)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-4l65)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-ek4)
+- [How to Automate Sitemap Generation in Next.js](https://dev.to/lovestaco/how-to-automate-sitemap-generation-in-nextjs-3l0i)
+- [#DAY 3 - Monitoring Internal Services: FTP &amp; SSH](https://dev.to/samueladeduntan/day-3-monitoring-internal-services-ftp-ssh-31ee)
+- [InvalidSignature in Node with AWS SDK](https://dev.to/aws-builders/invalidsignature-in-node-with-aws-sdk-2nao)
+- [Generative AI &amp; LLMs Revolutionize E2E Test Automation](https://dev.to/saswata_mukherjee_24a98f5/generative-ai-llms-revolutionize-e2e-test-automation-33d)
+- [Step-by-Step Guide to Styling Froala Editor with Custom Skins and Icons](https://dev.to/ideradevtools/step-by-step-guide-to-styling-froala-editor-with-custom-skins-and-icons-57nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
