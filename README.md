@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Endless Scroll? Meet **Decentralized Social Media** – and Maybe Your New Digital Home!](https://dev.to/karthik_n/tired-of-endless-scroll-meet-decentralized-social-media-and-maybe-your-new-digital-home-39nj)
-- [How We Migrated 60 million PostgreSQL Rows in 40 Minutes &amp; Now Replicate 220K Rows/Second](https://dev.to/pokhraj_das_oracle/how-we-migrated-60-million-postgresql-rows-in-40-minutes-now-replicate-220k-rowssecond-l04)
-- [Smart &amp; Flexible Data Map](https://dev.to/riska_azizah_950cc51b1ef1/smart-flexible-data-map-2p5a)
-- [OnePlus CVE-2025-10184: Ditch SMS 2FA Now](https://dev.to/pentest_testing_corp/oneplus-cve-2025-10184-ditch-sms-2fa-now-49c4)
-- [The Collision Protocol: When Two Keys Share a Drawer](https://dev.to/aaron_rose_0787cc8b4775a0/the-collision-protocol-when-two-keys-share-a-drawer-2c3j)
+- [I Built a Complete Desktop Banking System with Electron and Node.js](https://dev.to/lazpal/i-built-a-complete-desktop-banking-system-with-electron-and-nodejs-3a6p)
+- [The function not dispatched](https://dev.to/omanfk/the-function-not-dispatched-548a)
+- [AI That Thinks and Reasons: A Deep Dive into Neuro-Symbolic AI](https://dev.to/naresh_82de734ade4c1c66d9/ai-that-thinks-and-reasons-a-deep-dive-into-neuro-symbolic-ai-37dh)
+- [What is Tableau?](https://dev.to/e77/what-is-tableau-3m5h)
+- [Zare: Why I Built a Modern Template Engine](https://dev.to/ismailbinmujeeb/zare-why-i-built-a-modern-template-engine-coo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
