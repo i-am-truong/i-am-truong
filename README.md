@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Webhook Listener with Node.js &lpar;Step-by-Step Guide&rpar;](https://dev.to/lucasbrdt268/building-a-webhook-listener-with-nodejs-step-by-step-guide-3ai5)
-- [Scaling Laravel Queues with Go: A High Performance replacement to php artisan queue:work](https://dev.to/l_walid/scaling-laravel-queues-with-go-a-high-performance-replacement-to-php-artisan-queuework-2de6)
-- [REST API](https://dev.to/octviodemos/rest-api-5h7b)
-- [Git Basic commands and use](https://dev.to/rupeshdarimisetti/git-basic-commands-and-use-1m2k)
-- [How to Use the CSS aspect-ratio Property for Responsive Layouts](https://dev.to/j3rry320/how-to-use-the-css-aspect-ratio-property-for-responsive-layouts-20pd)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2hdo)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-hfd)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3lee)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-bk0)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-3hhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
