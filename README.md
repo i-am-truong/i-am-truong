@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Python Workflows Every Developer Should Automate with ChatGPT](https://dev.to/jaideepparashar/10-python-workflows-every-developer-should-automate-with-chatgpt-28l2)
-- [🚀 Understanding Uniface $curline Function: A Developer&#39;s Guide](https://dev.to/petercode/understanding-uniface-curline-function-a-developers-guide-21h0)
-- [🔑 Understanding Uniface $curkey Function - A Simple Guide](https://dev.to/petercode/understanding-uniface-curkey-function-a-simple-guide-bl)
-- [CICD YML file Learnings!](https://dev.to/mrcaption49/test-3a30)
-- [🚀 Mastering Dynamic UIs in Uniface: A Deep Dive into $CurEntProperties](https://dev.to/petercode/mastering-dynamic-uis-in-uniface-a-deep-dive-into-curentproperties-ae7)
+- [Playing Quantum Tic-Tac-Toe with Python and Qiskit](https://dev.to/graveybeard/playing-quantum-tic-tac-toe-with-python-and-qiskit-2289)
+- [A Crispy History of Node.js](https://dev.to/rahul_kalita_ef112347128e/a-crispy-history-of-nodejs-581c)
+- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-3mpk)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gbi)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-10hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
