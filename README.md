@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-109k)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-20g8)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-1eci)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-5bbj)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-4mkh)
+- [The Alternative Filing System: Open Addressing Explained](https://dev.to/aaron_rose_0787cc8b4775a0/the-alternative-filing-system-open-addressing-explained-46c5)
+- [A Complete Guide to the M3U8 Format: From Beginner to Expert](https://dev.to/bev_c_f315db9dd78d629cd4a/a-complete-guide-to-the-m3u8-format-from-beginner-to-expert-5d97)
+- [Seamless Events Version Management](https://dev.to/maksim_matlakhov/seamless-events-version-management-4o4e)
+- [PHP, Python, or Node.js: Who Will Dominate in 2025?](https://dev.to/tomastomas/php-python-or-nodejs-who-will-dominate-in-2025-4kk3)
+- [Happy Ending &lpar;Last AI song&rpar;](https://dev.to/jacklehamster/happy-ending-last-ai-song-3n0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
