@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Solana Instruction Parsing MCP](https://dev.to/xiaodao/introduction-to-solana-instruction-parsing-mcp-1mk6)
+- [TalkToMyTabs – A Back-to-School AI Reading &amp; Research Assistant](https://dev.to/jacksonkasi/talktomytabs-a-back-to-school-ai-reading-research-assistant-g2n)
+- [What skills should a 5-year frontend developer have? 🤔](https://dev.to/maya_lee/what-skills-should-a-5-year-frontend-developer-have-5bp3)
+- [Beyond Telemedicine: The Next Wave of Human–AI Collaboration in Medicine](https://dev.to/deawnmdalimozzaman/beyond-telemedicine-the-next-wave-of-human-ai-collaboration-in-medicine-3p61)
 - [7 Core components of Kubernetes every DevOps engineer should know](https://dev.to/muhabbat_dev/7-core-components-of-kubernetes-every-devops-engineer-should-know-885)
-- [Positional Encoding - Sense of direction for Transformers](https://dev.to/samyak112/positional-encoding-sense-of-direction-for-transformers-12jp)
-- [Closing the Healthcare Gap: How AI Can Support Rural and Underserved Communities](https://dev.to/deawnmdalimozzaman/closing-the-healthcare-gap-how-ai-can-support-rural-and-underserved-communities-2n44)
-- [Post #1 — Recursion Fundamentals &lpar;practical, Java-heavy&rpar;](https://dev.to/devcorner/post-1-recursion-fundamentals-practical-java-heavy-3h1c)
-- [Day 58 : Ansible Playbooks](https://dev.to/udoh_deborah_b1e484c474bf/day-58-ansible-playbooks-335g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
