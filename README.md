@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Migrate from WordPress to Gatsby &lpar;Without Losing Your Sanity&rpar;](https://dev.to/armanalahi/how-to-migrate-from-wordpress-to-gatsby-without-losing-your-sanity-155a)
 - [Dynamics 365 &amp; Power Platform: What Developers Should Watch in 2025 Release Wave 2](https://dev.to/nikhildynamicsce/dynamics-365-power-platform-what-developers-should-watch-in-2025-release-wave-2-37e7)
 - [🚀 The Rise of Student Entrepreneurship in India](https://dev.to/aws_1_27d6cbc9e944aa228ef/the-rise-of-student-entrepreneurship-in-india-36no)
 - [Behind the Scenes: Refactoring Glyph Catalog 🛠️](https://dev.to/jitheshpoojari/behind-the-scenes-refactoring-glyph-catalog-o7m)
 - [vectors a smart dynamic array](https://dev.to/saifulire/vectors-a-smart-dynamic-array-215l)
-- [Building a One-Click Windows Event Log Monitoring Stack with ELK + Grafana](https://dev.to/secbyshresth/building-a-one-click-windows-event-log-monitoring-stack-with-elk-grafana-4gmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
