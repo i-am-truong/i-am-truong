@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What If CSS Properties Had Personalities](https://dev.to/perssondennis/what-if-css-properties-had-personalities-lgo)
-- [Shorten URL Service with Go and AWS SAM](https://dev.to/ticatwolves/shorten-url-service-with-go-and-aws-sam-24gn)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3i13)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-50ia)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-11fa)
+- [Dev Log 26 - Weather System Overhaul](https://dev.to/asx/dev-log-26-weather-system-overhaul-3e1)
+- [PACX: Lightweight, command line-based, PluginRegistrationTool](https://dev.to/_neronotte/pacx-lightweight-command-line-based-pluginregistrationtool-3hif)
+- [Apache Zookeeper: O coordenador de sistemas distribuídos](https://dev.to/programadriano/apache-zookeeper-o-coordenador-de-sistemas-distribuidos-4d2a)
+- [Day 59: Ansible Project – Deploying a Simple Web App with Nginx](https://dev.to/udoh_deborah_b1e484c474bf/day-59-ansible-project-deploying-a-simple-web-app-with-nginx-2997)
+- [💡 Ideias de SaaS Baseadas nas Tendências: vasco da gama x cruzeiro, atlético-mg x mirassol, fortaleza x sport recife](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-vasco-da-gama-x-cruzeiro-atletico-mg-x-mirassol-4bc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
