@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tangible India - A journey through numbers](https://dev.to/himanshuc3/tangible-india-a-journey-through-numbers-3761)
+- [Arquitetura Monolítica](https://dev.to/lucasgaspara/arquitetura-monolitica-1in0)
 - [Consultify: Your Doctor Speaks Every Language](https://dev.to/iamceejay/consultify-your-doctor-speaks-every-language-png)
 - [Dotenv files annoyed me into writing Polyenv](https://dev.to/withholm/dotenv-files-annoyed-me-into-writing-polyenv-2fe)
 - [I Failed My First Software Engineering Interview — And Here’s What I Learned](https://dev.to/nulfacedesigner/i-failed-my-first-software-engineering-interview-and-heres-what-i-learned-10h4)
-- [Efficient script loading strategy](https://dev.to/yoriiis/efficient-script-loading-strategy-12ik)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-23n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
