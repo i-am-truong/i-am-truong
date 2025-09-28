@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Best LLM Gateways for Scaling AI Applications in 2025](https://dev.to/kuldeep_paul/5-best-llm-gateways-for-scaling-ai-applications-in-2025-1jmh)
-- [Phoenix Panels and the Swarm: Building a Living NPC Simulator](https://dev.to/matrixswarm/phoenix-panels-and-the-swarm-building-a-living-npc-simulator-32j2)
-- [🧠Unleashing AI Agents with Node.js: Build an Autonomous GPT-Powered Web Scraper in 50 Lines!](https://dev.to/ekwoster/unleashing-ai-agents-with-nodejs-build-an-autonomous-gpt-powered-web-scraper-in-50-lines-1bj9)
-- [Adam Savage&#39;s Tested: Did MythBusters Strain Adam&#39;s Relationship With Jamie?](https://dev.to/maker_youtube/adam-savages-tested-did-mythbusters-strain-adams-relationship-with-jamie-214e)
-- [Escuchar Primero, Programar Después: Case Study de una App Odontológica](https://dev.to/zendev2112/escuchar-primero-programar-despues-case-study-de-una-app-odontologica-248o)
+- [SEO Basics for Developers](https://dev.to/suruliraajan/seo-basics-for-developers-1nfl)
+- [A Go Expert Complains: &#39;I Don&#39;t Want to Maintain AI-Generated Code&#39;](https://dev.to/davidcassel/a-go-expert-complains-i-dont-want-to-maintain-ai-generated-code-45jk)
+- [Deno vs Node.js: Is 2026 Finally the Year Deno Breaks Through?](https://dev.to/lamri_abdellahramdane_15/deno-vs-nodejs-is-2026-finally-the-year-deno-breaks-through-1fe8)
+- [Compare NLB &amp; ALB with metaphor](https://dev.to/wakeup_flower_8591a6cb6a9/compare-nlb-alb-with-metaphor-582p)
+- [Git Mastery Labs: Advanced Staging, History Rewriting, and Commit Manipulation Techniques](https://dev.to/labex/git-mastery-labs-advanced-staging-history-rewriting-and-commit-manipulation-techniques-452e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
