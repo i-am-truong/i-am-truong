@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning Model Optimization at Scale: From Theory to Production](https://dev.to/rikinptl/machine-learning-model-optimization-at-scale-from-theory-to-production-2al2)
-- [Mastering Ubuntu: The Essential Commands You Need to Know](https://dev.to/isaiah_izibili_7a39b7d627/mastering-ubuntu-the-essential-commands-you-need-to-know-5097)
-- [What’s the one online utility you use most often? I&#39;m curious to know what other small tools people would love to see added.](https://dev.to/asifnawaz1220/whats-the-one-online-utility-you-use-most-often-im-curious-to-know-what-other-small-tools-259c)
-- [Your New Pair Programmer: The AI Assistant](https://dev.to/rgbos/your-new-pair-programmer-the-ai-assistant-4e98)
-- [Adam Savage&#39;s Tested: This KITT From Knight Rider Actually Transforms!](https://dev.to/maker_youtube/adam-savages-tested-this-kitt-from-knight-rider-actually-transforms-2c8p)
+- [Mastering React Hooks Rules: From Basics to Expert-Level](https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa)
+- [Implementing Emergent Tool Use in Multi-Agent AI Systems Through Meta-Learning and Environment Scaffolding](https://dev.to/rikinptl/implementing-emergent-tool-use-in-multi-agent-ai-systems-through-meta-learning-and-environment-3h90)
+- [6 Open Source Alternatives to Microsoft Access](https://dev.to/nocobase/6-open-source-alternatives-to-microsoft-access-2b8o)
+- [Understanding the Leaky Bucket Algorithm for System Design](https://dev.to/0xtanzim/understanding-the-leaky-bucket-algorithm-for-system-design-4fpo)
+- [Git Cheatsheet](https://dev.to/ijas9118/git-cheatsheet-9j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
