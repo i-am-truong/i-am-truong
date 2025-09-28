@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [REST API](https://dev.to/octviodemos/rest-api-5h7b)
+- [Git Basic commands and use](https://dev.to/rupeshdarimisetti/git-basic-commands-and-use-1m2k)
 - [How to Use the CSS aspect-ratio Property for Responsive Layouts](https://dev.to/j3rry320/how-to-use-the-css-aspect-ratio-property-for-responsive-layouts-20pd)
 - [Dev Log 26 - Weather System Overhaul](https://dev.to/asx/dev-log-26-weather-system-overhaul-3e1)
 - [PACX: Lightweight, command line-based, PluginRegistrationTool](https://dev.to/_neronotte/pacx-lightweight-command-line-based-pluginregistrationtool-3hif)
-- [Apache Zookeeper: O coordenador de sistemas distribuídos](https://dev.to/programadriano/apache-zookeeper-o-coordenador-de-sistemas-distribuidos-4d2a)
-- [Day 59: Ansible Project – Deploying a Simple Web App with Nginx](https://dev.to/udoh_deborah_b1e484c474bf/day-59-ansible-project-deploying-a-simple-web-app-with-nginx-2997)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
