@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Core components of Kubernetes every DevOps engineer should know](https://dev.to/muhabbat_dev/7-core-components-of-kubernetes-every-devops-engineer-should-know-885)
+- [Positional Encoding - Sense of direction for Transformers](https://dev.to/samyak112/positional-encoding-sense-of-direction-for-transformers-12jp)
+- [Closing the Healthcare Gap: How AI Can Support Rural and Underserved Communities](https://dev.to/deawnmdalimozzaman/closing-the-healthcare-gap-how-ai-can-support-rural-and-underserved-communities-2n44)
+- [Post #1 — Recursion Fundamentals &lpar;practical, Java-heavy&rpar;](https://dev.to/devcorner/post-1-recursion-fundamentals-practical-java-heavy-3h1c)
 - [Day 58 : Ansible Playbooks](https://dev.to/udoh_deborah_b1e484c474bf/day-58-ansible-playbooks-335g)
-- [🔄 Syncing Microsoft Fabric OneLake Using Logic Apps + OneLake APIs](https://dev.to/imdj/syncing-microsoft-fabric-onelake-using-logic-apps-onelake-apis-1j8p)
-- [The Future of Mobile App Development: 7 Trends Every Business Owner Should Know in 2025](https://dev.to/haroon_abdullah_22148573f/the-future-of-mobile-app-development-7-trends-every-business-owner-should-know-in-2025-2mf7)
-- [🚀 Offering Custom TradingView Indicator Development](https://dev.to/signalweave/offering-custom-tradingview-indicator-development-3m5f)
-- [Natural Instinct and the Art of Software Development](https://dev.to/bluetoothfx/natural-instinct-and-the-art-of-software-development-1jgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
