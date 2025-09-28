@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Out-of-the-Box Email-to-Case Isn’t Enough in Dynamics 365 CE](https://dev.to/nikhildynamicsce/when-out-of-the-box-email-to-case-isnt-enough-in-dynamics-365-ce-5d26)
-- [🚀 Understanding the $about Function in Uniface 10.4: Get System Information Like a Pro](https://dev.to/petercode/understanding-the-about-function-in-uniface-104-get-system-information-like-a-pro-5cd8)
-- [📊 Understanding the Uniface $abs Function: Getting Absolute Values Made Simple](https://dev.to/petercode/understanding-the-uniface-abs-function-getting-absolute-values-made-simple-2jo1)
-- [Automating Scalable Web Infrastructure with AWD Cloudformation](https://dev.to/hajixhayjhay/automating-scalable-web-infrastructure-with-awd-cloudformation-3c78)
-- [🔢 Understanding the $acos Function in Uniface 10.4: A Developer&#39;s Guide](https://dev.to/petercode/understanding-the-acos-function-in-uniface-104-a-developers-guide-31hf)
+- [Android SBC: A Complete Guide for Embedded Systems](https://dev.to/tonyhe8688/android-sbc-a-complete-guide-for-embedded-systems-bkk)
+- [📝 Understanding Uniface $bold Function: Simple Text Styling in Forms](https://dev.to/petercode/understanding-uniface-bold-function-simple-text-styling-in-forms-ahd)
+- [🚀 Understanding Uniface $batch: A Complete Guide for Develop](https://dev.to/petercode/understanding-uniface-batch-a-complete-guide-for-develop-43pn)
+- [🧮 Understanding the $atan Function in Uniface 10.4: Your Guide to Arc Tangent Calculations](https://dev.to/petercode/understanding-the-atan-function-in-uniface-104-your-guide-to-arc-tangent-calculations-lbd)
+- [📐 Understanding Uniface $asin Function: Mathematical Operations Made Simple](https://dev.to/petercode/understanding-uniface-asin-function-mathematical-operations-made-simple-4o7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
