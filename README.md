@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Gmail +Aliases to Create Extra Email Addresses](https://dev.to/jajera/how-to-use-gmail-aliases-to-create-extra-email-addresses-1g14)
 - [Building a Serverless Dungeon Master Agent on AWS](https://dev.to/aws-builders/building-a-serverless-dungeon-master-agent-on-aws-3j7k)
 - [Genesis DB - The GDPR-ready event-sourcing database engine](https://dev.to/patriceckhart/genesis-db-the-gdpr-ready-event-sourcing-database-engine-jj1)
 - [How to Automate Sitemap Generation in Next.js](https://dev.to/lovestaco/how-to-automate-sitemap-generation-in-nextjs-3l0i)
 - [#DAY 3 - Monitoring Internal Services: FTP &amp; SSH](https://dev.to/samueladeduntan/day-3-monitoring-internal-services-ftp-ssh-31ee)
-- [InvalidSignature in Node with AWS SDK](https://dev.to/aws-builders/invalidsignature-in-node-with-aws-sdk-2nao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
