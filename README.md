@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [8 N8N Fundamentals That Will Make You Build Workflows Like a Pro](https://dev.to/medpydev/8-n8n-fundamentals-that-will-make-you-build-workflows-like-a-pro-41c4)
-- [SEO Basics for Developers](https://dev.to/suruliraajan/seo-basics-for-developers-1nfl)
-- [A Go Expert Complains: &#39;I Don&#39;t Want to Maintain AI-Generated Code&#39;](https://dev.to/davidcassel/a-go-expert-complains-i-dont-want-to-maintain-ai-generated-code-45jk)
-- [Deno vs Node.js: Is 2026 Finally the Year Deno Breaks Through?](https://dev.to/lamri_abdellahramdane_15/deno-vs-nodejs-is-2026-finally-the-year-deno-breaks-through-1fe8)
-- [Compare NLB &amp; ALB with metaphor](https://dev.to/wakeup_flower_8591a6cb6a9/compare-nlb-alb-with-metaphor-582p)
+- [What is Next.js?](https://dev.to/thekarlesi/what-is-nextjs-1oo6)
+- [&quot;Escalate My Privileges: 1&quot; - VulnHub &lpar;Easy&rpar;](https://dev.to/sonyahack1/escalate-my-privileges-1-vulnhub-easy-189d)
+- [Building My S3 Security Scanner: A Solo Dev&#39;s Journey to Automate AWS Bucket Safety](https://dev.to/vvakim/building-my-s3-security-scanner-a-solo-devs-journey-to-automate-aws-bucket-safety-36ge)
+- [Want to Build Your Own AI Chatbot? Try Pythonaibrain v1.1.8 in Python](https://dev.to/divyanshusinha136/want-to-build-your-own-ai-chatbot-try-pythonaibrain-v118-in-python-d79)
+- [sqlx4k — first stable release of a high-performance, non-blocking DB driver for Kotlin Multiplatform](https://dev.to/smyrgeorge/sqlx4k-first-stable-release-of-a-high-performance-non-blocking-db-driver-for-kotlin-multiplatform-52i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
