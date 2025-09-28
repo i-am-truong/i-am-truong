@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tired of Endless Scroll? Meet **Decentralized Social Media** – and Maybe Your New Digital Home!](https://dev.to/karthik_n/tired-of-endless-scroll-meet-decentralized-social-media-and-maybe-your-new-digital-home-39nj)
+- [How We Migrated 60 million PostgreSQL Rows in 40 Minutes &amp; Now Replicate 220K Rows/Second](https://dev.to/pokhraj_das_oracle/how-we-migrated-60-million-postgresql-rows-in-40-minutes-now-replicate-220k-rowssecond-l04)
+- [Smart &amp; Flexible Data Map](https://dev.to/riska_azizah_950cc51b1ef1/smart-flexible-data-map-2p5a)
+- [OnePlus CVE-2025-10184: Ditch SMS 2FA Now](https://dev.to/pentest_testing_corp/oneplus-cve-2025-10184-ditch-sms-2fa-now-49c4)
 - [The Collision Protocol: When Two Keys Share a Drawer](https://dev.to/aaron_rose_0787cc8b4775a0/the-collision-protocol-when-two-keys-share-a-drawer-2c3j)
-- [The Alternative Filing System: Open Addressing Explained](https://dev.to/aaron_rose_0787cc8b4775a0/the-alternative-filing-system-open-addressing-explained-46c5)
-- [A Complete Guide to the M3U8 Format: From Beginner to Expert](https://dev.to/bev_c_f315db9dd78d629cd4a/a-complete-guide-to-the-m3u8-format-from-beginner-to-expert-5d97)
-- [Seamless Events Version Management](https://dev.to/maksim_matlakhov/seamless-events-version-management-4o4e)
-- [PHP, Python, or Node.js: Who Will Dominate in 2025?](https://dev.to/tomastomas/php-python-or-nodejs-who-will-dominate-in-2025-4kk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
