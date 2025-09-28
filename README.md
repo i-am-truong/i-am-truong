@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Next.js?](https://dev.to/thekarlesi/what-is-nextjs-1oo6)
-- [&quot;Escalate My Privileges: 1&quot; - VulnHub &lpar;Easy&rpar;](https://dev.to/sonyahack1/escalate-my-privileges-1-vulnhub-easy-189d)
-- [Building My S3 Security Scanner: A Solo Dev&#39;s Journey to Automate AWS Bucket Safety](https://dev.to/vvakim/building-my-s3-security-scanner-a-solo-devs-journey-to-automate-aws-bucket-safety-36ge)
-- [Want to Build Your Own AI Chatbot? Try Pythonaibrain v1.1.8 in Python](https://dev.to/divyanshusinha136/want-to-build-your-own-ai-chatbot-try-pythonaibrain-v118-in-python-d79)
-- [sqlx4k — first stable release of a high-performance, non-blocking DB driver for Kotlin Multiplatform](https://dev.to/smyrgeorge/sqlx4k-first-stable-release-of-a-high-performance-non-blocking-db-driver-for-kotlin-multiplatform-52i2)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-44e0)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3oil)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-537g)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-4l65)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-ek4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
