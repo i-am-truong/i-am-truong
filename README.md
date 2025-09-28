@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PySimpleGUI - Simplified GUI Development for Python](https://dev.to/imrrobot/pysimplegui-simplified-gui-development-for-python-14kd)
-- [Flet - Build Real-Time Web, Desktop, and Mobile Apps in Python](https://dev.to/imrrobot/flet-build-real-time-web-desktop-and-mobile-apps-in-python-2nlk)
-- [Kivy - Open-Source Framework for Multitouch Applications in python](https://dev.to/imrrobot/kivy-open-source-framework-for-multitouch-applications-in-python-42kc)
-- [PyQt6 - Python Bindings for the Qt Framework](https://dev.to/imrrobot/pyqt6-python-bindings-for-the-qt-framework-545k)
-- [What does Frontend even mean anymore?](https://dev.to/mdohr07/what-does-frontend-even-mean-anymore-4344)
+- [Kotlin’s Sealed Interfaces: Smashing the Inheritance Wall](https://dev.to/kavearhasi_viswanathan/kotlins-sealed-interfaces-smashing-the-inheritance-wall-4n0n)
+- [Build Progressive Web Apps with Angular | A Complete Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/build-progressive-web-apps-with-angular-a-complete-guide-1mfg)
+- [Zig 0.15.1 I/O Overhaul: Understanding the New Reader/Writer Interfaces](https://dev.to/bkataru/zig-0151-io-overhaul-understanding-the-new-readerwriter-interfaces-30oe)
+- [Troubleshooten van Kubernetes ContainerCreateError en Init Container Fouten](https://dev.to/shubhcloud/troubleshooten-van-kubernetes-containercreateerror-en-init-container-fouten-1247)
+- [Emergent Coordination in Heterogeneous Multi-Agent Systems Through Differentiable Communication](https://dev.to/rikinptl/emergent-coordination-in-heterogeneous-multi-agent-systems-through-differentiable-communication-558m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
