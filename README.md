@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Webhook Listener with Node.js &lpar;Step-by-Step Guide&rpar;](https://dev.to/lucasbrdt268/building-a-webhook-listener-with-nodejs-step-by-step-guide-3ai5)
+- [Scaling Laravel Queues with Go: A High Performance replacement to php artisan queue:work](https://dev.to/l_walid/scaling-laravel-queues-with-go-a-high-performance-replacement-to-php-artisan-queuework-2de6)
 - [REST API](https://dev.to/octviodemos/rest-api-5h7b)
 - [Git Basic commands and use](https://dev.to/rupeshdarimisetti/git-basic-commands-and-use-1m2k)
 - [How to Use the CSS aspect-ratio Property for Responsive Layouts](https://dev.to/j3rry320/how-to-use-the-css-aspect-ratio-property-for-responsive-layouts-20pd)
-- [Dev Log 26 - Weather System Overhaul](https://dev.to/asx/dev-log-26-weather-system-overhaul-3e1)
-- [PACX: Lightweight, command line-based, PluginRegistrationTool](https://dev.to/_neronotte/pacx-lightweight-command-line-based-pluginregistrationtool-3hif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
