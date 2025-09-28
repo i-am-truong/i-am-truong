@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Challenge: Ascending Regex to remove the Duplicates](https://dev.to/simongreennet/weekly-challenge-ascending-regex-to-remove-the-duplicates-2bd)
+- [New features for biobridge and neural web](https://dev.to/okerew/new-features-for-biobridge-and-neural-web-1c8d)
 - [GitHub Security Notifications for Discord](https://dev.to/koistya/github-security-notifications-for-discord-1ec5)
 - [Angular Universal: A Complete Guide to Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/angular-universal-a-complete-guide-to-server-side-rendering-ssr-3810)
 - [Leadership is a Mindset: Engineering Goals and People](https://dev.to/bluetoothfx/leadership-is-a-mindset-engineering-goals-and-people-2pf0)
-- [Boost Your Angular App Speed: A 2024 Guide to Performance Optimization](https://dev.to/satyam_gupta_0d1ff2152dcc/boost-your-angular-app-speed-a-2024-guide-to-performance-optimization-4684)
-- [Kotlin’s Sealed Interfaces: Smashing the Inheritance Wall](https://dev.to/kavearhasi_viswanathan/kotlins-sealed-interfaces-smashing-the-inheritance-wall-4n0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
