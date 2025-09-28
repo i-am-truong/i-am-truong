@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Analyses — Wizard](https://dev.to/matheusdsantossi/data-analyses-wizard-517c)
+- [Augmented Intelligence &lpar;AI&rpar; Coding using Markdown Driven-Development](https://dev.to/simbo1905/augmented-intelligence-ai-coding-using-markdown-driven-development-pg5)
 - [Rewrite History: Your Omniscient View of the Past](https://dev.to/sakthivel_r_b5d3383ab40f6/rewrite-history-your-omniscient-view-of-the-past-18nm)
 - [Arquitetura Monolítica em Startups Contemporâneos](https://dev.to/bettina_bernarda_ea98c549/arquitetura-monolitica-em-startups-contemporaneos-22om)
 - [IA Generativa en 2025: Cómo sobrevivir y prosperar en la nueva era tecnológica](https://dev.to/joedev090/ia-generativa-en-2025-como-sobrevivir-y-prosperar-en-la-nueva-era-tecnologica-1fg8)
-- [How to Build a Web Vulnerabilty Scanner - OpenEye](https://dev.to/sharon_enam/how-to-build-a-web-vulnerabilty-scanner-openeye-2c5a)
-- [Tangible India - A journey through numbers](https://dev.to/himanshuc3/tangible-india-a-journey-through-numbers-3761)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
