@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Study smart 🤓](https://dev.to/aniruddhaadak/study-smart-1e8d)
-- [Deployando una aplicación en AWS usando CloudFormation &lpar;Parte 1&rpar;](https://dev.to/martinlubo/deployando-una-aplicacion-en-aws-usando-cloudformation-parte-1-3pkd)
-- [The Best API Management Tools Developers Rely on in 2025](https://dev.to/arkhan/the-best-api-management-tools-developers-rely-on-in-2025-175p)
-- [Questions and Reflections on Culture and Technology](https://dev.to/vizhudigital/questions-and-reflections-on-culture-and-technology-244n)
-- [Infraestructura como código &lpar;IaC&rpar; en AWS](https://dev.to/martinlubo/infraestructura-como-codigo-iac-en-aws-56aa)
+- [Arquitetura Cliente-Servidor com Go: Aplicações Escaláveis para a Web](https://dev.to/joo_miguelfortunatorit/arquitetura-cliente-servidor-com-go-aplicacoes-escalaveis-para-a-web-1379)
+- [Team Dashboard - Manage Your Team Efficiently with KendoReact](https://dev.to/sumeetweb/team-dashboard-manage-your-team-efficiently-with-kendoreact-5bdc)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1m4o)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-276j)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3a3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
