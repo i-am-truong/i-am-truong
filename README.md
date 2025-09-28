@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Python Workflows Every Developer Should Automate with ChatGPT](https://dev.to/jaideepparashar/10-python-workflows-every-developer-should-automate-with-chatgpt-28l2)
 - [🚀 Understanding Uniface $curline Function: A Developer&#39;s Guide](https://dev.to/petercode/understanding-uniface-curline-function-a-developers-guide-21h0)
 - [🔑 Understanding Uniface $curkey Function - A Simple Guide](https://dev.to/petercode/understanding-uniface-curkey-function-a-simple-guide-bl)
 - [CICD YML file Learnings!](https://dev.to/mrcaption49/test-3a30)
 - [🚀 Mastering Dynamic UIs in Uniface: A Deep Dive into $CurEntProperties](https://dev.to/petercode/mastering-dynamic-uis-in-uniface-a-deep-dive-into-curentproperties-ae7)
-- [📐 Understanding Uniface $cos Function: Mathematical Operations Made Simple](https://dev.to/petercode/understanding-uniface-cos-function-mathematical-operations-made-simple-3i33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
