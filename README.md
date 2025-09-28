@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MLZC25-02. Los Tres Tipos de Aprendizaje Automático: Una Guía Completa](https://dev.to/jesus_oviedoriquelme_084/mlzc25-02-los-tres-tipos-de-aprendizaje-automatico-una-guia-completa-2n81)
+- [AppExchange Growth: How niche apps are reshaping the ecosystem](https://dev.to/ilya_dudkin_a2376d54017d/appexchange-growth-how-niche-apps-are-reshaping-the-ecosystem-kmk)
+- [Architecting a B2B Content Hub: A Developer&#39;s Blueprint for Driving Leads](https://dev.to/michaelaiglobal/architecting-a-b2b-content-hub-a-developers-blueprint-for-driving-leads-2obe)
 - [From Configuration to Composition: Revolutionizing System Design with Bindable Components](https://dev.to/devunionx/from-configuration-to-composition-revolutionizing-system-design-with-bindable-components-32ma)
 - [ASP .NET Core hide query string parameters](https://dev.to/karenpayneoregon/aspnet-core-hide-query-string-parameters-2fpp)
-- [A Beginner’s Guide to Big Data Analytics with Apache Spark and PySpark](https://dev.to/augo_amos/a-beginners-guide-to-big-data-analytics-with-apache-spark-and-pyspark-3889)
-- [Shallow Copy &amp; Deep Copy in Python &lpar;3&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-3-anf)
-- [A Separação de Responsabilidades: Uma Análise da Arquitetura em Três Camadas e sua Importância no Software Moderno](https://dev.to/ryanamboni/a-separacao-de-responsabilidades-uma-analise-da-arquitetura-em-tres-camadas-e-sua-importancia-no-46m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
