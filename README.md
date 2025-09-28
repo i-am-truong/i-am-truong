@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WiredTigerHS.wt: MongoDB MVCC Durable History Store](https://dev.to/franckpachot/mongodb-mvcc-durable-history-store-wiredtigerhswt-mn2)
 - [A Quick Dive into Kubernetes Operators - Part 4](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-4-3ldb)
 - [A Quick Dive into Kubernetes Operators - Part 3](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-3-19pi)
 - [A Quick Dive into Kubernetes Operators - Part 2](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-2-ic0)
 - [A Quick Dive into Kubernetes Operators - Part 1](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-1-5h4p)
-- [Mi experiencia rindiendo el examen AWS Certified AI Practitioner](https://dev.to/martinlubo/mi-experiencia-rindiendo-el-examen-aws-certified-ai-practitioner-4kie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
