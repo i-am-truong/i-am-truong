@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ZoomEye: A Preferred Choice Among Cyber Space Search Engines](https://dev.to/sssq_ll_ecf57bec395b512e0/zoomeye-a-preferred-choice-among-cyber-space-search-engines-28lj)
+- [Strategy for the Transition from SEO to GEO: Optimization for the Generative AI Era](https://dev.to/anrysys/strategy-for-the-transition-from-seo-to-geo-optimization-for-the-generative-ai-era-2bi9)
 - [Deploying Applications to Amazon ECS Using GitHub Actions CI/CD](https://dev.to/aws-builders/deploying-applications-to-amazon-ecs-using-github-actions-cicd-5b9k)
 - [WTF is Artificial General Intelligence?](https://dev.to/dailybugle33/wtf-is-artificial-general-intelligence-3hod)
 - [Industry 4.0 + IoT: What’s Changing for Embedded SBCs](https://dev.to/dora_001/industry-40-iot-whats-changing-for-embedded-sbcs-1k78)
-- [Untangle Your Code: Chain of Responsibility Design Pattern](https://dev.to/mayallo/untangle-your-code-chain-of-responsibility-design-pattern-2fc)
-- [For those who don&#39;t understand /^[a-zA-Z]+$/: React Hook Form pattern explanation](https://dev.to/kazutora_hattori_66972c88/for-those-who-dont-understand-a-za-z-react-hook-form-pattern-explanation-20ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
