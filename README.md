@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to set up SFTP in Azure](https://dev.to/techielass/how-to-set-up-sftp-in-azure-2knh)
+- [Why Hacktoberfest Matters &lpar;and You Should Participate&rpar;](https://dev.to/fedtti/why-hacktoberfest-matters-and-you-should-participate-hhd)
+- [Environment Setup v1.0 - Production-Ready macOS Development Environment](https://dev.to/david_1d47a807f7674275e5d/environment-setup-v10-production-ready-macos-development-environment-4b0p)
+- [전역 상태 업데이트로 인한 성능 병목에 관한 고찰](https://dev.to/algoorgoal/jeonyeog-sangtae-eobdeiteuro-inhan-seongneung-byeongmoge-gwanhan-gocal-22ca)
 - [ZoomEye: A Preferred Choice Among Cyber Space Search Engines](https://dev.to/sssq_ll_ecf57bec395b512e0/zoomeye-a-preferred-choice-among-cyber-space-search-engines-28lj)
-- [Strategy for the Transition from SEO to GEO: Optimization for the Generative AI Era](https://dev.to/anrysys/strategy-for-the-transition-from-seo-to-geo-optimization-for-the-generative-ai-era-2bi9)
-- [Deploying Applications to Amazon ECS Using GitHub Actions CI/CD](https://dev.to/aws-builders/deploying-applications-to-amazon-ecs-using-github-actions-cicd-5b9k)
-- [WTF is Artificial General Intelligence?](https://dev.to/dailybugle33/wtf-is-artificial-general-intelligence-3hod)
-- [Industry 4.0 + IoT: What’s Changing for Embedded SBCs](https://dev.to/dora_001/industry-40-iot-whats-changing-for-embedded-sbcs-1k78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
