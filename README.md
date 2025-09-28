@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📝 Understanding the $empty Function in Uniface 10.4](https://dev.to/petercode/understanding-the-empty-function-in-uniface-104-2oag)
-- [🚀 Understanding Uniface 10.4 $editmode Function: Complete Developer Guide](https://dev.to/petercode/understanding-uniface-104-editmode-function-complete-developer-guide-3953)
-- [Understanding the $e Function in Uniface 10.4 🚀](https://dev.to/petercode/understanding-the-e-function-in-uniface-104-58c0)
-- [📏 Understanding Uniface $displaylength Function: A Developer&#39;s Guide](https://dev.to/petercode/understanding-uniface-displaylength-function-a-developers-guide-515f)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4gel)
+- [Deploying Applications to Amazon ECS Using GitHub Actions CI/CD](https://dev.to/aws-builders/deploying-applications-to-amazon-ecs-using-github-actions-cicd-5b9k)
+- [WTF is Artificial General Intelligence?](https://dev.to/dailybugle33/wtf-is-artificial-general-intelligence-3hod)
+- [Industry 4.0 + IoT: What’s Changing for Embedded SBCs](https://dev.to/dora_001/industry-40-iot-whats-changing-for-embedded-sbcs-1k78)
+- [Untangle Your Code: Chain of Responsibility Design Pattern](https://dev.to/mayallo/untangle-your-code-chain-of-responsibility-design-pattern-2fc)
+- [For those who don&#39;t understand /^[a-zA-Z]+$/: React Hook Form pattern explanation](https://dev.to/kazutora_hattori_66972c88/for-those-who-dont-understand-a-za-z-react-hook-form-pattern-explanation-20ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
