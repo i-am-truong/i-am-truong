@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Safely Collect User Feedback with Cloudflare Workers + Slack](https://dev.to/ayushkaushik/safely-collect-user-feedback-with-cloudflare-workers-slack-1hco)
+- [CompTIA Network+ N10-009 5.3 Study Guide: Routing, Switching, and IP Issues](https://dev.to/andrew_despres/comptia-network-n10-009-53-study-guide-routing-switching-and-ip-issues-28i6)
 - [Linux Printing with CUPS](https://dev.to/sebos/linux-printing-with-cups-39h5)
 - [Developer&#39;s View: Technical Deep Dive into RWA Protocols &lpar;Ethereum, Solana, Layer-2s&rpar;](https://dev.to/creatoruche/developers-view-technical-deep-dive-into-rwa-protocols-ethereum-solana-layer-2s-dph)
-- [WiredTigerHS.wt: MongoDB MVCC Durable History Store](https://dev.to/franckpachot/mongodb-mvcc-durable-history-store-wiredtigerhswt-mn2)
-- [A Quick Dive into Kubernetes Operators - Part 4](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-4-3ldb)
-- [A Quick Dive into Kubernetes Operators - Part 3](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-3-19pi)
+- [7 Best Practices for Reliable LLM Applications](https://dev.to/kuldeep_paul/7-best-practices-for-reliable-llm-applications-3p2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
