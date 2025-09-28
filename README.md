@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [🧠Unleashing AI Agents with Node.js: Build an Autonomous GPT-Powered Web Scraper in 50 Lines!](https://dev.to/ekwoster/unleashing-ai-agents-with-nodejs-build-an-autonomous-gpt-powered-web-scraper-in-50-lines-1bj9)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2hdo)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-hfd)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3lee)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-bk0)
+- [Adam Savage&#39;s Tested: Did MythBusters Strain Adam&#39;s Relationship With Jamie?](https://dev.to/maker_youtube/adam-savages-tested-did-mythbusters-strain-adams-relationship-with-jamie-214e)
+- [Escuchar Primero, Programar Después: Case Study de una App Odontológica](https://dev.to/zendev2112/escuchar-primero-programar-despues-case-study-de-una-app-odontologica-248o)
+- [How to Create a VS Code Extension Using `yo code` &lpar;Step-by-Step for Beginners&rpar;](https://dev.to/charan_gutti_cf60c6185074/how-to-create-a-vs-code-extension-using-yo-code-step-by-step-for-beginners-4hf1)
+- [A Brief Introduction to Functor for Busy TypeScript Devs](https://dev.to/kradasa4/a-brief-introduction-to-functor-for-busy-typescript-devs-52ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
