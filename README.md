@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Best LLM Gateways for Scaling AI Applications in 2025](https://dev.to/kuldeep_paul/5-best-llm-gateways-for-scaling-ai-applications-in-2025-1jmh)
 - [Phoenix Panels and the Swarm: Building a Living NPC Simulator](https://dev.to/matrixswarm/phoenix-panels-and-the-swarm-building-a-living-npc-simulator-32j2)
 - [🧠Unleashing AI Agents with Node.js: Build an Autonomous GPT-Powered Web Scraper in 50 Lines!](https://dev.to/ekwoster/unleashing-ai-agents-with-nodejs-build-an-autonomous-gpt-powered-web-scraper-in-50-lines-1bj9)
 - [Adam Savage&#39;s Tested: Did MythBusters Strain Adam&#39;s Relationship With Jamie?](https://dev.to/maker_youtube/adam-savages-tested-did-mythbusters-strain-adams-relationship-with-jamie-214e)
 - [Escuchar Primero, Programar Después: Case Study de una App Odontológica](https://dev.to/zendev2112/escuchar-primero-programar-despues-case-study-de-una-app-odontologica-248o)
-- [How to Create a VS Code Extension Using `yo code` &lpar;Step-by-Step for Beginners&rpar;](https://dev.to/charan_gutti_cf60c6185074/how-to-create-a-vs-code-extension-using-yo-code-step-by-step-for-beginners-4hf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
