@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Software Developers/Engineers Don’t Matter Anymore](https://dev.to/mosbat/why-software-developersengineers-dont-matter-anymore-j1p)
-- [Arquitetura em camadas](https://dev.to/luiz_ad03ef35bcbb722a0c44/arquitetura-em-camadas-31j4)
-- [😎5 Quick LinkedIn Hacks to Find Jobs Faster &lpar;Step-by-Step&rpar;](https://dev.to/joyobaidu/5-quick-linkedin-hacks-to-find-jobs-faster-step-by-step-8m4)
-- [How To Build A Note Taking Application With JavaScript](https://dev.to/henry_messiahtmt_099ca84/how-to-build-a-note-taking-application-with-javascript-4053)
-- [Module 1 — Identity Authentication and Verification &lpar;Capture, Container, Signature, and Initial Personalization Flow&rpar;](https://dev.to/antonio_socorro_95e3ff086/module-1-identity-authentication-and-verification-capture-container-signature-and-initial-2l7j)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3i13)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-50ia)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-11fa)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-i04)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-haj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
