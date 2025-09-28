@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Quick Dive into Kubernetes Operators - Part 4](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-4-3ldb)
+- [A Quick Dive into Kubernetes Operators - Part 3](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-3-19pi)
+- [A Quick Dive into Kubernetes Operators - Part 2](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-2-ic0)
+- [A Quick Dive into Kubernetes Operators - Part 1](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-1-5h4p)
 - [Arquitetura Cliente-Servidor com Go: Aplicações Escaláveis para a Web](https://dev.to/joo_miguelfortunatorit/arquitetura-cliente-servidor-com-go-aplicacoes-escalaveis-para-a-web-1379)
-- [Team Dashboard - Manage Your Team Efficiently with KendoReact](https://dev.to/sumeetweb/team-dashboard-manage-your-team-efficiently-with-kendoreact-5bdc)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1m4o)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-276j)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3a3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
