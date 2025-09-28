@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Common Agentic AI Architecture patterns](https://dev.to/knitesh/common-agentic-ai-architecture-patterns-522d)
-- [Canvas to Code: Dashboard Layouts with KendoReact](https://dev.to/_boweii/canvas-to-code-dashboard-layouts-with-kendoreact-3kl4)
-- [Custom Photo Frames &amp; Wall Art: Memories That Last Forever](https://dev.to/smithwilliam/custom-photo-frames-wall-art-memories-that-last-forever-3g7l)
-- [Engraved Jewellery Gifts That Tell a Story](https://dev.to/smithwilliam/engraved-jewellery-gifts-that-tell-a-story-1lhc)
-- [But what is “contextual search” — case study of KENDO-RAG and how it beats Google for private data](https://dev.to/aryprogrammer/but-what-is-contextual-search-case-study-of-kendo-rag-and-how-it-beats-google-for-private-data-2f4a)
+- [Day 58 : Ansible Playbooks](https://dev.to/udoh_deborah_b1e484c474bf/day-58-ansible-playbooks-335g)
+- [🔄 Syncing Microsoft Fabric OneLake Using Logic Apps + OneLake APIs](https://dev.to/imdj/syncing-microsoft-fabric-onelake-using-logic-apps-onelake-apis-1j8p)
+- [The Future of Mobile App Development: 7 Trends Every Business Owner Should Know in 2025](https://dev.to/haroon_abdullah_22148573f/the-future-of-mobile-app-development-7-trends-every-business-owner-should-know-in-2025-2mf7)
+- [🚀 Offering Custom TradingView Indicator Development](https://dev.to/signalweave/offering-custom-tradingview-indicator-development-3m5f)
+- [Natural Instinct and the Art of Software Development](https://dev.to/bluetoothfx/natural-instinct-and-the-art-of-software-development-1jgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
