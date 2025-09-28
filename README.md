@@ -85,7 +85,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [A Quick Dive into Kubernetes Operators - Part 3](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-3-19pi)
 - [A Quick Dive into Kubernetes Operators - Part 2](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-2-ic0)
 - [A Quick Dive into Kubernetes Operators - Part 1](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-1-5h4p)
-- [Arquitetura Cliente-Servidor com Go: Aplicações Escaláveis para a Web](https://dev.to/joo_miguelfortunatorit/arquitetura-cliente-servidor-com-go-aplicacoes-escalaveis-para-a-web-1379)
+- [Mi experiencia rindiendo el examen AWS Certified AI Practitioner](https://dev.to/martinlubo/mi-experiencia-rindiendo-el-examen-aws-certified-ai-practitioner-4kie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
