@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Android SBC: A Complete Guide for Embedded Systems](https://dev.to/tonyhe8688/android-sbc-a-complete-guide-for-embedded-systems-bkk)
-- [📝 Understanding Uniface $bold Function: Simple Text Styling in Forms](https://dev.to/petercode/understanding-uniface-bold-function-simple-text-styling-in-forms-ahd)
-- [🚀 Understanding Uniface $batch: A Complete Guide for Develop](https://dev.to/petercode/understanding-uniface-batch-a-complete-guide-for-develop-43pn)
-- [🧮 Understanding the $atan Function in Uniface 10.4: Your Guide to Arc Tangent Calculations](https://dev.to/petercode/understanding-the-atan-function-in-uniface-104-your-guide-to-arc-tangent-calculations-lbd)
-- [📐 Understanding Uniface $asin Function: Mathematical Operations Made Simple](https://dev.to/petercode/understanding-uniface-asin-function-mathematical-operations-made-simple-4o7d)
+- [📐 Understanding Uniface $cos Function: Mathematical Operations Made Simple](https://dev.to/petercode/understanding-uniface-cos-function-mathematical-operations-made-simple-3i33)
+- [🔗 Understanding Uniface $concat Function: String Concatenation Made Easy](https://dev.to/petercode/understanding-uniface-concat-function-string-concatenation-made-easy-1gda)
+- [🚀 Understanding $componenttype in Uniface 10.4: A Complete Gui](https://dev.to/petercode/understanding-componenttype-in-uniface-104-a-complete-gui-5hij)
+- [2048 in the Cloud: DevOps with AWS &amp; ArgoCD](https://dev.to/hasan_ashab/2048-in-the-cloud-devops-with-aws-argocd-1gpe)
+- [Understanding Valibot: How it Works and When to Use it](https://dev.to/oluwawunmiadesewa/understanding-valibot-how-it-works-and-when-to-use-it-3j0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
