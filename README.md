@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [😎5 Quick LinkedIn Hacks to Find Jobs Faster &lpar;Step-by-Step&rpar;](https://dev.to/joyobaidu/5-quick-linkedin-hacks-to-find-jobs-faster-step-by-step-8m4)
 - [How To Build A Note Taking Application With JavaScript](https://dev.to/henry_messiahtmt_099ca84/how-to-build-a-note-taking-application-with-javascript-4053)
 - [Module 1 — Identity Authentication and Verification &lpar;Capture, Container, Signature, and Initial Personalization Flow&rpar;](https://dev.to/antonio_socorro_95e3ff086/module-1-identity-authentication-and-verification-capture-container-signature-and-initial-2l7j)
 - [Autenticación y verificación de identidad &lpar;Captura, contenedor, firma y primer flujo de personalización&rpar;](https://dev.to/antonio_socorro_95e3ff086/autenticacion-y-verificacion-de-identidad-captura-contenedor-firma-y-primer-flujo-de-5d56)
 - [Day 44 of Data analytics journey !](https://dev.to/ramyacse/day-44-of-data-analytics-journey--1cdi)
-- [[Boost]](https://dev.to/ujjavala/-4k2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
