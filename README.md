@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to set up SFTP in Azure](https://dev.to/techielass/how-to-set-up-sftp-in-azure-2knh)
-- [Why Hacktoberfest Matters &lpar;and You Should Participate&rpar;](https://dev.to/fedtti/why-hacktoberfest-matters-and-you-should-participate-hhd)
-- [Environment Setup v1.0 - Production-Ready macOS Development Environment](https://dev.to/david_1d47a807f7674275e5d/environment-setup-v10-production-ready-macos-development-environment-4b0p)
-- [전역 상태 업데이트로 인한 성능 병목에 관한 고찰](https://dev.to/algoorgoal/jeonyeog-sangtae-eobdeiteuro-inhan-seongneung-byeongmoge-gwanhan-gocal-22ca)
-- [ZoomEye: A Preferred Choice Among Cyber Space Search Engines](https://dev.to/sssq_ll_ecf57bec395b512e0/zoomeye-a-preferred-choice-among-cyber-space-search-engines-28lj)
+- [PySimpleGUI - Simplified GUI Development for Python](https://dev.to/imrrobot/pysimplegui-simplified-gui-development-for-python-14kd)
+- [Flet - Build Real-Time Web, Desktop, and Mobile Apps in Python](https://dev.to/imrrobot/flet-build-real-time-web-desktop-and-mobile-apps-in-python-2nlk)
+- [Kivy - Open-Source Framework for Multitouch Applications in python](https://dev.to/imrrobot/kivy-open-source-framework-for-multitouch-applications-in-python-42kc)
+- [PyQt6 - Python Bindings for the Qt Framework](https://dev.to/imrrobot/pyqt6-python-bindings-for-the-qt-framework-545k)
+- [What does Frontend even mean anymore?](https://dev.to/mdohr07/what-does-frontend-even-mean-anymore-4344)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
