@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose The Right Technology Stack for Mini Casino Game Development](https://dev.to/bob_packer_7c9018a4d1a1f1/how-to-choose-the-right-technology-stack-for-mini-casino-game-development-1lb2)
-- [BTS - Back to School Planner Assistant](https://dev.to/nicanor_nic/bts-back-to-school-planner-assistant-5fbb)
-- [My first lines of code](https://dev.to/anastaccio/my-first-lines-of-code-o32)
-- [Build an Email OTP Verification System in Node.js &lpar;Step-by-Step&rpar;](https://dev.to/jahongir2007/build-an-email-otp-verification-system-in-nodejs-step-by-step-1lnf)
-- [O Padrão Arquitetural Model-View-Controller](https://dev.to/theordep/o-padrao-arquitetural-model-view-controller-224n)
+- [Consultify: Your Doctor Speaks Every Language](https://dev.to/iamceejay/consultify-your-doctor-speaks-every-language-png)
+- [Dotenv files annoyed me into writing Polyenv](https://dev.to/withholm/dotenv-files-annoyed-me-into-writing-polyenv-2fe)
+- [I Failed My First Software Engineering Interview — And Here’s What I Learned](https://dev.to/nulfacedesigner/i-failed-my-first-software-engineering-interview-and-heres-what-i-learned-10h4)
+- [Efficient script loading strategy](https://dev.to/yoriiis/efficient-script-loading-strategy-12ik)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-23n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
