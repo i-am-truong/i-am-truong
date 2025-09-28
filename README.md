@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Backend Development Roadmap: From First Principles](https://dev.to/ajtech0001/backend-development-roadmap-from-first-principles-3b51)
-- [RemindMeApp from design to implementation | Kivy Project Part 4 | Tabbed panel &amp; Tabbed Items](https://dev.to/eyong_kevinenowanyo_b677/remindmeapp-from-design-to-implementation-kivy-project-part-4-tabbed-panel-tabbed-items-2cl9)
-- [How to Customize the Service Catalog in BILLmanager](https://dev.to/mateor404/how-to-customize-the-service-catalog-in-billmanager-f4a)
-- [5 AI-Powered Crypto Trading Tools You Need in 2025](https://dev.to/ctm8/5-ai-powered-crypto-trading-tools-you-need-in-2025-bel)
-- [Daemons: From Physics &lpar;?&rpar; to Linux System Control](https://dev.to/lucasriboli/daemons-from-physics-to-linux-system-control-34ke)
+- [Setting Up a WireGuard VPN Client on Linux](https://dev.to/joshrothe/setting-up-a-wireguard-vpn-client-on-linux-3aan)
+- [Streams de Dados: Processamento de Informações em Tempo Real](https://dev.to/programadriano/streams-de-dados-processamento-de-informacoes-em-tempo-real-2ccm)
+- [Maximizing Your Development Skills: Proven Strategies for Continuous Learning](https://dev.to/mikeover/maximizing-your-development-skills-proven-strategies-for-continuous-learning-527l)
+- [Crolite: filling the &quot;Mojolicious::Lite&quot; gap in the Cro ecosystem](https://dev.to/fco/crolite-filling-the-mojoliciouslite-gap-in-the-cro-ecosystem-4ebi)
+- [Promise Hashes](https://dev.to/oculus42/promise-hashes-394j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
