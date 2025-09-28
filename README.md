@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Playing Quantum Tic-Tac-Toe with Python and Qiskit](https://dev.to/graveybeard/playing-quantum-tic-tac-toe-with-python-and-qiskit-2289)
-- [A Crispy History of Node.js](https://dev.to/rahul_kalita_ef112347128e/a-crispy-history-of-nodejs-581c)
-- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-3mpk)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gbi)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-10hd)
+- [Self-Hosting a Password Manager on a Pi Zero 2W](https://dev.to/priyanshuverma/self-hosting-a-password-manager-on-a-pi-zero-2w-1c79)
+- [How to Decide the Size and Dimensions of Memoization or DP Arrays](https://dev.to/devcorner/how-to-decide-the-size-and-dimensions-of-memoization-or-dp-arrays-3en5)
+- [Hacktoberfest 2025 with Ghostfolio](https://dev.to/dtslvr/hacktoberfest-2025-with-ghostfolio-2hah)
+- [[Boost]](https://dev.to/lntr/-13f5)
+- [Take / Not Take – Part 2: Optimizing Recursion with Memoization and DP](https://dev.to/devcorner/take-not-take-part-2-optimizing-recursion-with-memoization-and-dp-pap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
