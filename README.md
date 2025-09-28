@@ -82,10 +82,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Begin your journey with Amazon Q Developer](https://dev.to/dmitriy_trunov_9a09a497b1/begin-your-journey-with-amazon-q-developer-4dp)
+- [Engineers, last call: help us build the cleanest open-source investing dashboard &lpar;before it gets boring&rpar;](https://dev.to/pocketportfolioapp/engineers-last-call-help-us-build-the-cleanest-open-source-investing-dashboard-before-it-gets-2ji9)
 - [How to Use Gmail +Aliases to Create Extra Email Addresses](https://dev.to/jajera/how-to-use-gmail-aliases-to-create-extra-email-addresses-1g14)
 - [📅 Building a Safe Date Input System in Java ☕](https://dev.to/mohamad_mhana/building-a-safe-date-input-system-in-java-2l6l)
 - [SingleFlight: Smart Request Deduplication](https://dev.to/serifcolakel/singleflight-smart-request-deduplication-33og)
-- [Building a Serverless Dungeon Master Agent on AWS](https://dev.to/aws-builders/building-a-serverless-dungeon-master-agent-on-aws-3j7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
