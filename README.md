@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Security Notifications for Discord](https://dev.to/koistya/github-security-notifications-for-discord-1ec5)
+- [Angular Universal: A Complete Guide to Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/angular-universal-a-complete-guide-to-server-side-rendering-ssr-3810)
+- [Leadership is a Mindset: Engineering Goals and People](https://dev.to/bluetoothfx/leadership-is-a-mindset-engineering-goals-and-people-2pf0)
+- [Boost Your Angular App Speed: A 2024 Guide to Performance Optimization](https://dev.to/satyam_gupta_0d1ff2152dcc/boost-your-angular-app-speed-a-2024-guide-to-performance-optimization-4684)
 - [Kotlin’s Sealed Interfaces: Smashing the Inheritance Wall](https://dev.to/kavearhasi_viswanathan/kotlins-sealed-interfaces-smashing-the-inheritance-wall-4n0n)
-- [Build Progressive Web Apps with Angular | A Complete Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/build-progressive-web-apps-with-angular-a-complete-guide-1mfg)
-- [Zig 0.15.1 I/O Overhaul: Understanding the New Reader/Writer Interfaces](https://dev.to/bkataru/zig-0151-io-overhaul-understanding-the-new-readerwriter-interfaces-30oe)
-- [Troubleshooten van Kubernetes ContainerCreateError en Init Container Fouten](https://dev.to/shubhcloud/troubleshooten-van-kubernetes-containercreateerror-en-init-container-fouten-1247)
-- [Emergent Coordination in Heterogeneous Multi-Agent Systems Through Differentiable Communication](https://dev.to/rikinptl/emergent-coordination-in-heterogeneous-multi-agent-systems-through-differentiable-communication-558m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
