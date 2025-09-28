@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Begin your journey with Amazon Q Developer](https://dev.to/dmitriy_trunov_9a09a497b1/begin-your-journey-with-amazon-q-developer-4dp)
-- [Engineers, last call: help us build the cleanest open-source investing dashboard &lpar;before it gets boring&rpar;](https://dev.to/pocketportfolioapp/engineers-last-call-help-us-build-the-cleanest-open-source-investing-dashboard-before-it-gets-2ji9)
-- [How to Use Gmail +Aliases to Create Extra Email Addresses](https://dev.to/jajera/how-to-use-gmail-aliases-to-create-extra-email-addresses-1g14)
-- [📅 Building a Safe Date Input System in Java ☕](https://dev.to/mohamad_mhana/building-a-safe-date-input-system-in-java-2l6l)
-- [SingleFlight: Smart Request Deduplication](https://dev.to/serifcolakel/singleflight-smart-request-deduplication-33og)
+- [Study smart 🤓](https://dev.to/aniruddhaadak/study-smart-1e8d)
+- [Deployando una aplicación en AWS usando CloudFormation &lpar;Parte 1&rpar;](https://dev.to/martinlubo/deployando-una-aplicacion-en-aws-usando-cloudformation-parte-1-3pkd)
+- [The Best API Management Tools Developers Rely on in 2025](https://dev.to/arkhan/the-best-api-management-tools-developers-rely-on-in-2025-175p)
+- [Questions and Reflections on Culture and Technology](https://dev.to/vizhudigital/questions-and-reflections-on-culture-and-technology-244n)
+- [Infraestructura como código &lpar;IaC&rpar; en AWS](https://dev.to/martinlubo/infraestructura-como-codigo-iac-en-aws-56aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
