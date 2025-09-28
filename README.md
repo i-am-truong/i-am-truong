@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Printing with CUPS](https://dev.to/sebos/linux-printing-with-cups-39h5)
+- [Developer&#39;s View: Technical Deep Dive into RWA Protocols &lpar;Ethereum, Solana, Layer-2s&rpar;](https://dev.to/creatoruche/developers-view-technical-deep-dive-into-rwa-protocols-ethereum-solana-layer-2s-dph)
 - [WiredTigerHS.wt: MongoDB MVCC Durable History Store](https://dev.to/franckpachot/mongodb-mvcc-durable-history-store-wiredtigerhswt-mn2)
 - [A Quick Dive into Kubernetes Operators - Part 4](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-4-3ldb)
 - [A Quick Dive into Kubernetes Operators - Part 3](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-3-19pi)
-- [A Quick Dive into Kubernetes Operators - Part 2](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-2-ic0)
-- [A Quick Dive into Kubernetes Operators - Part 1](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-1-5h4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
