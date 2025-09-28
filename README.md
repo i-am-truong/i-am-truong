@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quit 9 to 5 to all in on building app by solo](https://dev.to/atsushii/quit-9-to-5-to-all-in-on-building-app-by-solo-4hp6)
+- [My AI-Era Technical Article Repository](https://dev.to/tom-takeru/my-ai-era-technical-article-repository-3eao)
+- [Go &lpar;Golang&rpar; Basic - &#39;if&#39; and &#39;switch&#39;](https://dev.to/andidev30/series-go-golang-basic-if-and-switch-10p7)
 - [Go &lpar;Golang&rpar; Basic - Data Collections: Array, Slice, and Map](https://dev.to/andidev30/go-golang-data-collections-array-slice-and-map-15ei)
 - [SIEM vs. SOAR](https://dev.to/godofgeeks/siem-vs-soar-44h)
-- [What is React Framer Motion?](https://dev.to/ubbaobada/what-is-react-framer-motion-e4l)
-- [C# Arrays](https://dev.to/nouribram/c-arrays-150m)
-- [Go &lpar;Golang&rpar; Basic - Data Types and Variables](https://dev.to/andidev30/go-golang-data-types-and-variables-29gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
