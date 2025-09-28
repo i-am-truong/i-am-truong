@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go &lpar;Golang&rpar; Basic - Interfaces](https://dev.to/andidev30/go-golang-basic-interfaces-55d)
-- [Understanding $dberror in Uniface 10.4: Your DBMS Error Detective 🔍](https://dev.to/petercode/understanding-dberror-in-uniface-104-your-dbms-error-detective-4akn)
-- [🕰️ Mastering Uniface $datim Function: Complete Guide to Date and Time Handling](https://dev.to/petercode/mastering-uniface-datim-function-complete-guide-to-date-and-time-handling-56a7)
-- [📅 Working with Dates in Uniface 10.4: The $date Function Explaine](https://dev.to/petercode/working-with-dates-in-uniface-104-the-date-function-explaine-1pp1)
-- [Go &lpar;Golang&rpar; Basic - Pointers](https://dev.to/andidev30/go-golang-basic-pointers-24j7)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4gel)
+- [Migration Guru v1.2 – Edit Migrations Online with PHP Validation!](https://dev.to/nikelioum/migration-guru-v12-edit-migrations-online-with-php-validation-20if)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-a9c)
+- [My First Real Project - Progressio Fullstack Ecommerce Website](https://dev.to/uzzy412_73/my-first-real-project-progressio-fullstack-ecommerce-website-1n3e)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-2na3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
