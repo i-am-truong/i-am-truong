@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Safely Collect User Feedback with Cloudflare Workers + Slack](https://dev.to/ayushkaushik/safely-collect-user-feedback-with-cloudflare-workers-slack-1hco)
-- [CompTIA Network+ N10-009 5.3 Study Guide: Routing, Switching, and IP Issues](https://dev.to/andrew_despres/comptia-network-n10-009-53-study-guide-routing-switching-and-ip-issues-28i6)
-- [Linux Printing with CUPS](https://dev.to/sebos/linux-printing-with-cups-39h5)
-- [Developer&#39;s View: Technical Deep Dive into RWA Protocols &lpar;Ethereum, Solana, Layer-2s&rpar;](https://dev.to/creatoruche/developers-view-technical-deep-dive-into-rwa-protocols-ethereum-solana-layer-2s-dph)
-- [7 Best Practices for Reliable LLM Applications](https://dev.to/kuldeep_paul/7-best-practices-for-reliable-llm-applications-3p2i)
+- [How to Choose The Right Technology Stack for Mini Casino Game Development](https://dev.to/bob_packer_7c9018a4d1a1f1/how-to-choose-the-right-technology-stack-for-mini-casino-game-development-1lb2)
+- [BTS - Back to School Planner Assistant](https://dev.to/nicanor_nic/bts-back-to-school-planner-assistant-5fbb)
+- [My first lines of code](https://dev.to/anastaccio/my-first-lines-of-code-o32)
+- [Build an Email OTP Verification System in Node.js &lpar;Step-by-Step&rpar;](https://dev.to/jahongir2007/build-an-email-otp-verification-system-in-nodejs-step-by-step-1lnf)
+- [O Padrão Arquitetural Model-View-Controller](https://dev.to/theordep/o-padrao-arquitetural-model-view-controller-224n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
