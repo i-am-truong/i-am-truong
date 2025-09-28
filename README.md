@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Collision Protocol: When Two Keys Share a Drawer](https://dev.to/aaron_rose_0787cc8b4775a0/the-collision-protocol-when-two-keys-share-a-drawer-2c3j)
 - [The Alternative Filing System: Open Addressing Explained](https://dev.to/aaron_rose_0787cc8b4775a0/the-alternative-filing-system-open-addressing-explained-46c5)
 - [A Complete Guide to the M3U8 Format: From Beginner to Expert](https://dev.to/bev_c_f315db9dd78d629cd4a/a-complete-guide-to-the-m3u8-format-from-beginner-to-expert-5d97)
 - [Seamless Events Version Management](https://dev.to/maksim_matlakhov/seamless-events-version-management-4o4e)
 - [PHP, Python, or Node.js: Who Will Dominate in 2025?](https://dev.to/tomastomas/php-python-or-nodejs-who-will-dominate-in-2025-4kk3)
-- [Happy Ending &lpar;Last AI song&rpar;](https://dev.to/jacklehamster/happy-ending-last-ai-song-3n0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
