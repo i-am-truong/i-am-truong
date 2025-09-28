@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Solana Instruction Parsing MCP](https://dev.to/xiaodao/introduction-to-solana-instruction-parsing-mcp-1mk6)
-- [TalkToMyTabs – A Back-to-School AI Reading &amp; Research Assistant](https://dev.to/jacksonkasi/talktomytabs-a-back-to-school-ai-reading-research-assistant-g2n)
-- [What skills should a 5-year frontend developer have? 🤔](https://dev.to/maya_lee/what-skills-should-a-5-year-frontend-developer-have-5bp3)
-- [Beyond Telemedicine: The Next Wave of Human–AI Collaboration in Medicine](https://dev.to/deawnmdalimozzaman/beyond-telemedicine-the-next-wave-of-human-ai-collaboration-in-medicine-3p61)
-- [7 Core components of Kubernetes every DevOps engineer should know](https://dev.to/muhabbat_dev/7-core-components-of-kubernetes-every-devops-engineer-should-know-885)
+- [Statistical Analysis Using NumPy and SciPy: A Complete Guide with Case Studies](https://dev.to/thedatageek/statistical-analysis-using-numpy-and-scipy-a-complete-guide-with-case-studies-3mhc)
+- [Chat With Your Obsidian Notes: Introducing HTTP MCP Server](https://dev.to/matsch1/chat-with-your-obsidian-notes-introducing-http-mcp-server-4paj)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-11kn)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3e5l)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-p77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
