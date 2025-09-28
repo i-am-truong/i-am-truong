@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: Ascending Regex to remove the Duplicates](https://dev.to/simongreennet/weekly-challenge-ascending-regex-to-remove-the-duplicates-2bd)
-- [New features for biobridge and neural web](https://dev.to/okerew/new-features-for-biobridge-and-neural-web-1c8d)
-- [GitHub Security Notifications for Discord](https://dev.to/koistya/github-security-notifications-for-discord-1ec5)
-- [Angular Universal: A Complete Guide to Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/angular-universal-a-complete-guide-to-server-side-rendering-ssr-3810)
-- [Leadership is a Mindset: Engineering Goals and People](https://dev.to/bluetoothfx/leadership-is-a-mindset-engineering-goals-and-people-2pf0)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-109k)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-20g8)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-1eci)
+- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-5bbj)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-4mkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
