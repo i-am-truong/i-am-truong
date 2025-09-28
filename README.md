@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [📝 Understanding the $empty Function in Uniface 10.4](https://dev.to/petercode/understanding-the-empty-function-in-uniface-104-2oag)
+- [🚀 Understanding Uniface 10.4 $editmode Function: Complete Developer Guide](https://dev.to/petercode/understanding-uniface-104-editmode-function-complete-developer-guide-3953)
+- [Understanding the $e Function in Uniface 10.4 🚀](https://dev.to/petercode/understanding-the-e-function-in-uniface-104-58c0)
+- [📏 Understanding Uniface $displaylength Function: A Developer&#39;s Guide](https://dev.to/petercode/understanding-uniface-displaylength-function-a-developers-guide-515f)
 - [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4gel)
-- [Migration Guru v1.2 – Edit Migrations Online with PHP Validation!](https://dev.to/nikelioum/migration-guru-v12-edit-migrations-online-with-php-validation-20if)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-a9c)
-- [My First Real Project - Progressio Fullstack Ecommerce Website](https://dev.to/uzzy412_73/my-first-real-project-progressio-fullstack-ecommerce-website-1n3e)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-2na3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
