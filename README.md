@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Matryoshka Magic: How MatFormer Delivers Multi-Size Models from a Single Training](https://dev.to/jiminlee/matryoshka-magic-how-matformer-delivers-multi-size-models-from-a-single-training-4023)
-- [A Complete Beginner’s Guide to Prisma](https://dev.to/mostary/a-complete-beginners-guide-to-prisma-je3)
-- [Quit 9 to 5 to all in on building app by solo](https://dev.to/atsushii/quit-9-to-5-to-all-in-on-building-app-by-solo-4hp6)
-- [My AI-Era Technical Article Repository](https://dev.to/tom-takeru/my-ai-era-technical-article-repository-3eao)
-- [Go &lpar;Golang&rpar; Basic - &#39;if&#39; and &#39;switch&#39;](https://dev.to/andidev30/series-go-golang-basic-if-and-switch-10p7)
+- [Go &lpar;Golang&rpar; Basic - Interfaces](https://dev.to/andidev30/go-golang-basic-interfaces-55d)
+- [Understanding $dberror in Uniface 10.4: Your DBMS Error Detective 🔍](https://dev.to/petercode/understanding-dberror-in-uniface-104-your-dbms-error-detective-4akn)
+- [🕰️ Mastering Uniface $datim Function: Complete Guide to Date and Time Handling](https://dev.to/petercode/mastering-uniface-datim-function-complete-guide-to-date-and-time-handling-56a7)
+- [📅 Working with Dates in Uniface 10.4: The $date Function Explaine](https://dev.to/petercode/working-with-dates-in-uniface-104-the-date-function-explaine-1pp1)
+- [Go &lpar;Golang&rpar; Basic - Pointers](https://dev.to/andidev30/go-golang-basic-pointers-24j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
