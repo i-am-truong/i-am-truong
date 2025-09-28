@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting a Password Manager on a Pi Zero 2W](https://dev.to/priyanshuverma/self-hosting-a-password-manager-on-a-pi-zero-2w-1c79)
-- [How to Decide the Size and Dimensions of Memoization or DP Arrays](https://dev.to/devcorner/how-to-decide-the-size-and-dimensions-of-memoization-or-dp-arrays-3en5)
-- [Hacktoberfest 2025 with Ghostfolio](https://dev.to/dtslvr/hacktoberfest-2025-with-ghostfolio-2hah)
-- [[Boost]](https://dev.to/lntr/-13f5)
-- [Take / Not Take – Part 2: Optimizing Recursion with Memoization and DP](https://dev.to/devcorner/take-not-take-part-2-optimizing-recursion-with-memoization-and-dp-pap)
+- [Go &lpar;Golang&rpar; Basic - Data Collections: Array, Slice, and Map](https://dev.to/andidev30/go-golang-data-collections-array-slice-and-map-15ei)
+- [SIEM vs. SOAR](https://dev.to/godofgeeks/siem-vs-soar-44h)
+- [What is React Framer Motion?](https://dev.to/ubbaobada/what-is-react-framer-motion-e4l)
+- [C# Arrays](https://dev.to/nouribram/c-arrays-150m)
+- [Go &lpar;Golang&rpar; Basic - Data Types and Variables](https://dev.to/andidev30/go-golang-data-types-and-variables-29gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
