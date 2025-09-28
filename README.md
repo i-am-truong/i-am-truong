@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 18: The AIO Revolution, UUIDv7, and the Path to Unprecedented Performance](https://dev.to/mattleads/postgresql-18-the-aio-revolution-uuidv7-and-the-path-to-unprecedented-performance-415m)
-- [Checkout this guide on the Different platforms using Tableau](https://dev.to/anshuman_816f8012be0c9b6c/checkout-this-guide-on-the-different-platforms-using-tableau-2ek5)
-- [Sourcing Data from Different Platforms Using Tableau: A Complete Guide with Real-World Applications](https://dev.to/anshuman_816f8012be0c9b6c/sourcing-data-from-different-platforms-using-tableau-a-complete-guide-with-real-world-applications-2028)
-- [Learning Elixir: Binaries and Bitstrings](https://dev.to/abreujp/learning-elixir-binaries-and-bitstrings-5hc9)
-- [Trusted Bali Driver for Multi-Day Trips: Affordable, Professional, and Stress-Free Travel Across the Island](https://dev.to/baliprivatedriver/trusted-bali-driver-for-multi-day-trips-affordable-professional-and-stress-free-travel-across-39aj)
+- [🚀 Launching on Product Hunt — October 3rd!](https://dev.to/alexey_sokolov_10deecd763/launching-on-product-hunt-october-3rd-9h1)
+- [Ultimate Guide to Laravel Scopes: Local, Global, Dynamic &amp; Best Practices](https://dev.to/devtalk94/ultimate-guide-to-laravel-scopes-local-global-dynamic-best-practices-127g)
+- [Decoy-Hunter: Technical Enhancement for Verifiable Evidence and Stateful Protocol Probes.](https://dev.to/antonio_socorro_95e3ff086/decoy-hunter-technical-enhancement-for-verifiable-evidence-and-stateful-protocol-probes-2pi4)
+- [Cloud HPC: How Google Scales High-Performance Computing](https://dev.to/mrmajed7/cloud-hpc-how-google-scales-high-performance-computing-4922)
+- [Why Your Database Gives Up When Traffic Spikes &lpar;And What to Do About It&rpar;](https://dev.to/sangyog2058/database-connection-pooling-the-complete-guide-to-scaling-your-applications-160e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
