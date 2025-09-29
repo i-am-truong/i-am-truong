@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meetup: A modular approach before micro-services](https://dev.to/getjv/meetup-a-modular-approach-before-micro-services-3bf9)
-- [Is Serverless expensive at scale? Only if you are using it wrong](https://dev.to/aws-heroes/is-serverless-expensive-at-scale-only-if-you-are-using-it-wrong-19pa)
-- [🚀 Build Edit Forms in React Faster with SVAR Editor](https://dev.to/olga_tash/build-edit-forms-in-react-faster-with-svar-editor-1ak4)
-- [On js13kGames deadlines and fixes](https://dev.to/js13kgames/on-js13kgames-deadlines-and-fixes-a9n)
-- [Docker Best Practices to Secure and Optimize Your Containers](https://dev.to/protsenko/docker-best-practices-to-secure-and-optimize-your-containers-2e7a)
+- [Java Program with Command-Line Arguments](https://dev.to/mohamad_mhana/java-program-with-command-line-arguments-5bb7)
+- [5 JavaScript Tricks That Will Make You Look Like a Pro](https://dev.to/kushyarr7/5-javascript-tricks-that-will-make-you-look-like-a-pro-f35)
+- [E-commerce web site for beginer level](https://dev.to/harish_kumar_9824dda278cc/e-commerce-web-site-for-beginer-level-1766)
+- [Building Psychological Safety Into E-Learning Platforms: Lessons For Developers](https://dev.to/artperev/building-psychological-safety-into-e-learning-platforms-lessons-for-developers-42ef)
+- [Руководство Python-разработчика по управлению фоновыми процессами](https://dev.to/mrvi0/rukovodstvo-python-razrabotchika-po-upravlieniiu-fonovymi-protsiessami-213a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
