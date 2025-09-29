@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding Challenge Practice - Question 19](https://dev.to/tomivan/coding-challenge-practice-question-19-23k0)
+- [🧠 How Different AI Agents Write Code from the Same Instructions: Cursor vs Copilot vs Windsurf](https://dev.to/mrbantsevich/how-different-ai-agents-write-code-from-the-same-instructions-cursor-vs-copilot-vs-windsurf-2f0l)
 - [I am saman, I am a beginner web developer of WordPress](https://dev.to/saman_siddique_235b732395/i-am-saman-i-am-a-beginner-web-developer-of-wordpress-2e5o)
+- [flutter ai: build smarter saas apps faster](https://dev.to/sonu_goswami/flutter-ai-build-smarter-saas-apps-faster-3ol)
 - [Best English to Portuguese Document Translation Software](https://dev.to/liamcorwin/best-english-to-portuguese-document-translation-software-29om)
-- [MCPs y el futuro de los LLMs en programación](https://dev.to/kiliancm22/mcps-y-el-futuro-de-los-llms-en-programacion-lcf)
-- [Comment gérer les jours de fermeture boursière dans vos algorithmes de trading](https://dev.to/joachimdi/comment-gerer-les-jours-de-fermeture-boursiere-dans-vos-algorithmes-de-trading-1m56)
-- [Mini Excavators vs. Backhoe Loaders vs. Skid Steers: Choosing the Right Machine for the Job](https://dev.to/markwayns/mini-excavators-vs-backhoe-loaders-vs-skid-steers-choosing-the-right-machine-for-the-job-1h72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
