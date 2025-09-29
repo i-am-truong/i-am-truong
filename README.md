@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10+ Pieces of Tech You Use Before Breakfast Without Even Realizing It](https://dev.to/canro91/10-pieces-of-tech-you-use-before-breakfast-without-even-realizing-it-3kpe)
-- [Web Development Without Code Editors: Is AI the New IDE?](https://dev.to/dct_technology/web-development-without-code-editors-is-ai-the-new-ide-4jij)
-- [From UI to XI: Designing eXperiential Interfaces](https://dev.to/dct_technology/from-ui-to-xi-designing-experiential-interfaces-5g2)
-- [📘 Foundation Phase Completed - Starting Phase 2 of My Journey](https://dev.to/ramyakaruturi/foundation-phase-completed-starting-phase-2-of-my-journey-5f5k)
-- [Multithreading and Thread class method](https://dev.to/preethi_nandhagopal_6d075/multithreading-and-thread-class-method-19ph)
+- [🌍AI-Powered Disaster Relief Dashboard with KendoReact, Twilio, and Gemini](https://dev.to/techsplot/ai-powered-disaster-relief-dashboard-with-kendoreact-twilio-and-gemini-346c)
+- [Micro‑MCP Security: Designing Least‑Privilege Context for LLMs](https://dev.to/mabualzait/micro-mcp-security-designing-least-privilege-context-for-llms-1h7d)
+- [100 Days of DevOps: Day 57](https://dev.to/wycliffealphus/100-days-of-devops-day-57-2p1l)
+- [Understanding Skewness and Kurtosis](https://dev.to/gregory42266270/understanding-skewness-and-kurtosis-4a0g)
+- [5 Things I Wish I Knew When I Started Freelancing as a Web Developer](https://dev.to/billahdotdev/5-things-i-wish-i-knew-when-i-started-freelancing-as-a-web-developer-147n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
