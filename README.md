@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Introdução ao AWS IAM: Gestão de Identidades e Permissões na Nuvem](https://dev.to/fcd007/introducao-ao-aws-iam-gestao-de-identidades-e-permissoes-na-nuvem-2dce)
+- [How AI Is Revolutionizing Customer Experience in 2025](https://dev.to/_steve_/how-ai-is-revolutionizing-customer-experience-in-2025-56o2)
+- [Ubig AI Studio](https://dev.to/emreozsazn/ubig-ai-studio-403f)
+- [Hello, im trying to learn coding from the zero but idk how to start, should i try low level languagens???](https://dev.to/felipe_gabrielbarbosamo/hello-im-trying-to-learn-coding-from-the-zero-but-idk-how-to-start-should-i-try-low-level-22kp)
 - [Charlex Operating System; UNUX-LIKE OPERATING SYSTEM for anyone](https://dev.to/amzy31/charlex-operating-system-unux-like-operating-system-for-anyone-k1p)
-- [Charlex Operating System](https://dev.to/amzy31/charlex-operating-system-3ang)
-- [Shallow copy &amp; Deep copy in Python &lpar;6&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-6-39kf)
-- [✨ New on Code-Tree.dev — Discover Suggested Profiles!](https://dev.to/trukes/new-on-code-treedev-discover-suggested-profiles-133d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
