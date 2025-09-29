@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [day 19 of 90 day code series..](https://dev.to/momina_raheelmoona_c59/day-19-of-90-day-code-series-9do)
 - [Building “Sentinel”: multi-agent cybersecurity news triage and publishing system on AWS](https://dev.to/aws-builders/building-sentinel-multi-agent-cybersecurity-news-triage-and-publishing-system-on-aws-5h5h)
 - [The Hidden Dangers of Online PDF Editors and File Converters](https://dev.to/guardingpearsoftware/the-hidden-dangers-of-online-pdf-editors-and-file-converters-3cb5)
 - [Mi propio procesador de textos en ZX Sinclair BASIC &lpar;y III&rpar;](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-y-ii-5ann)
 - [Debunking the Silent Hill 2 Fog Myth: When Hardware Limits Meet Creative Genius](https://dev.to/blaze_faisal/debunking-the-silent-hill-2-fog-myth-when-hardware-limits-meet-creative-genius-1f7b)
-- [Messaging Broker Migration: Why Lock-in Hurts and How to Avoid It](https://dev.to/maksim_matlakhov/messaging-broker-migration-why-lock-in-hurts-and-how-to-avoid-it-dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
