@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 107: The Messy Reality of Pivoting &lpar;Again&rpar;](https://dev.to/casperday11/day-107-the-messy-reality-of-pivoting-again-2oi7)
+- [Rust + WebAssembly Performance: JavaScript vs. wasm-bindgen vs. Raw WASM &lpar;with SIMD&rpar;](https://dev.to/bence_rcz_fe471c168707c1/rust-webassembly-performance-javascript-vs-wasm-bindgen-vs-raw-wasm-with-simd-4pco)
+- [I am so not looking forward to the discourse leading up to next Ryder Cup. The tournament itself is great, but the discussion is grating.](https://dev.to/ben/i-am-so-not-looking-forward-to-the-discourse-leading-up-to-next-ryder-cup-the-tournament-itself-is-47i4)
 - [Top 10 VS Code Extensions for Laravel Developers in 2025](https://dev.to/arafatweb/top-10-vs-code-extensions-for-laravel-developers-in-2025-1np5)
 - [How to Build a Web Monitoring Workflow with Python, n8n &amp; Docker using Telegram Alerts](https://dev.to/jesulayomi/how-to-build-a-web-monitoring-workflow-with-python-n8n-docker-using-telegram-alerts-22la)
-- [Eternal September: Learning for the Life of it](https://dev.to/davesommerville/eternal-september-learning-for-the-life-of-it-i6i)
-- [Introducing Meku: AI Web Apps Builder for Developers](https://dev.to/meku/introducing-meku-ai-web-apps-builder-for-developers-4cii)
-- [‎Writing Blog Posts That Demonstrate Your Problem-Solving Skills ‎ ‎](https://dev.to/okoye_ndidiamaka_5e3b7d30/writing-blog-posts-that-demonstrate-your-problem-solving-skills-1cgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
