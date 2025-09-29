@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Best Practices to Secure and Optimize Your Containers](https://dev.to/protsenko/docker-best-practices-to-secure-and-optimize-your-containers-2e7a)
+- [Stop Chasing Velocity: What to Measure in Zenhub Instead](https://dev.to/gsauzande/stop-chasing-velocity-what-to-measure-in-zenhub-instead-1hjf)
+- [Prioritize Support Tickets with Text Sentiment &lpar;and a Clean UI&rpar;](https://dev.to/ideradevtools/prioritize-support-tickets-with-text-sentiment-and-a-clean-ui-29mn)
+- [[Boost]](https://dev.to/alex_hunter_44f4c9ed6671e/-55de)
 - [Real-World AI Application: Netflix Recommendation System](https://dev.to/dksh_71/real-world-ai-application-netflix-recommendation-system-fkg)
-- [MITM proxy for security reviews based on golang.](https://dev.to/huaraz/mitm-proxy-for-security-reviews-based-on-golang-2o5a)
-- [Get Started with Fastest SQL Query Engine - Presto C++ &lpar;Prestissimo&rpar;: Beginner Friendly Setup Guide with Docker.](https://dev.to/saurabhmahawar/get-started-with-fastest-sql-query-engine-presto-c-prestissimo-beginner-friendly-setup-guide-32gk)
-- [When LeetCode Burnout Hits: A Realistic Guide to Getting Unstuck](https://dev.to/alex_hunter_44f4c9ed6671e/when-leetcode-burnout-hits-a-realistic-guide-to-getting-unstuck-2bej)
-- [Mastering Identity Management in Microsoft Entra ID: From Users to Roles](https://dev.to/sudaisib/mastering-identity-management-in-microsoft-entra-id-from-users-to-roles-2g82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
