@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate Scheduled Jobs in Python Using the schedule Library: A Cron Alternative](https://dev.to/whoakarsh/automate-scheduled-jobs-in-python-using-the-schedule-library-a-cron-alternative-811)
-- [What Legal Firms Need to Know About the Cloud: Friendly Tips for Using Cloud Technology in Your Legal Practice](https://dev.to/heyjoshlee/what-legal-firms-need-to-know-about-the-cloud-friendly-tips-for-using-cloud-technology-in-your-53p9)
-- [PyWhatKit - Automate WhatsApp and Everyday Tasks with Python](https://dev.to/imrrobot/pywhatkit-automate-whatsapp-and-everyday-tasks-with-python-4m2n)
-- [Introduction to Python Module Two Part Three: Inputs and Outputs](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-three-inputs-and-outputs-43g3)
-- [Finding the K Shortest Paths Using Yen&#39;s Algorithm in Python](https://dev.to/whoakarsh/finding-the-k-shortest-paths-using-yens-algorithm-in-python-1gka)
+- [Setting Up PostgreSQL in Docker on Hetzner with SSL Certificates from Certbot](https://dev.to/damir_maham/setting-up-postgresql-in-docker-on-hetzner-with-ssl-certificates-from-certbot-3le3)
+- [Mastering BeautifulSoup: Parsing, Navigating, and Extracting Data Like a Pro](https://dev.to/nelson_orina_a538ba52e9ed/mastering-beautifulsoup-parsing-navigating-and-extracting-data-like-a-pro-enl)
+- [Using the Free Version of CodeAcademy](https://dev.to/magicrani35/using-the-free-version-of-codeacademy-11db)
+- [Building Production Multi-Agent Systems: My Experience with Amazon Bedrock AgentCore, and AWS Strands Agents](https://dev.to/mohsinsheikhani/building-production-multi-agent-systems-my-experience-with-amazon-bedrock-agentcore-and-aws-41h2)
+- [Digital Ethics: Tackling AI Bias in Hiring for Fair Recruitment](https://dev.to/dyrok/digital-ethics-tackling-ai-bias-in-hiring-for-fair-recruitment-3p7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
