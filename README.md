@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌍AI-Powered Disaster Relief Dashboard with KendoReact, Twilio, and Gemini](https://dev.to/techsplot/ai-powered-disaster-relief-dashboard-with-kendoreact-twilio-and-gemini-346c)
-- [Micro‑MCP Security: Designing Least‑Privilege Context for LLMs](https://dev.to/mabualzait/micro-mcp-security-designing-least-privilege-context-for-llms-1h7d)
-- [100 Days of DevOps: Day 57](https://dev.to/wycliffealphus/100-days-of-devops-day-57-2p1l)
-- [Understanding Skewness and Kurtosis](https://dev.to/gregory42266270/understanding-skewness-and-kurtosis-4a0g)
-- [5 Things I Wish I Knew When I Started Freelancing as a Web Developer](https://dev.to/billahdotdev/5-things-i-wish-i-knew-when-i-started-freelancing-as-a-web-developer-147n)
+- [The Ultimate JavaScript Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-javascript-roadmap-learn-step-by-step-53jj)
+- [Cheap PCB Manufacturers — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/cheap-pcb-manufacturers-an-engineers-practical-guide-i15)
+- [FriendsRate](https://dev.to/yugal/friendsrate-5cjl)
+- [Why Your ASP.NET Core LogLevel &#39;Warning&#39; Still Sends Information Logs to Application Insights](https://dev.to/eelcolos/why-your-aspnet-core-loglevel-warning-still-sends-information-logs-to-application-insights-e94)
+- [What Is Agentic AI? A Deep Dive into the Architecture of Autonomous AI Agents](https://dev.to/brains_behind_bots/what-is-agentic-ai-a-deep-dive-into-the-architecture-of-autonomous-ai-agents-4bmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
