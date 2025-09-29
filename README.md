@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ghost in the Machine: A Defender&#39;s Guide to Offline Security Testing with Blackglass_Suite](https://dev.to/gnomeman4201/the-ghost-in-the-machine-a-defenders-guide-to-offline-security-testing-with-blackglasssuite-3hn9)
 - [ChatGPT Instant Checkout](https://dev.to/alifar/chatgpt-instant-checkout-10fh)
-- [🚀 Introducing Sain Bux: Full Stack Developer &amp; Research Enthusiast](https://dev.to/sain_bux_c936572cfe44d81a/introducing-sain-bux-full-stack-developer-research-enthusiast-1c21)
+- [Building Web Apps &amp; Exploring Research – About Sain Bux](https://dev.to/sain_bux_dev/introducing-sain-bux-full-stack-developer-research-enthusiast-1c21)
 - [Mastering Date and Time in C#](https://dev.to/ssukhpinder/mastering-date-and-time-in-c-dcp)
 - [PART 2 Starry: An Internal Developer Platform &lpar;IDP&rpar; for Ephemeral Environments](https://dev.to/flopi/part-2-starry-an-internal-developer-platform-idp-for-ephemeral-environments-192b)
-- [I Built a VS Code Extension That Stops Me From Writing Terrible AI Prompts &lpar;and it&#39;s kinda working&rpar;](https://dev.to/ntanwir10/i-built-a-vs-code-extension-that-stops-me-from-writing-terrible-ai-prompts-and-its-kinda-working-529i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
