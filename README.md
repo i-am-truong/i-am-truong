@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blind 75: What It Is, Why It Matters, and How to Actually Master It](https://dev.to/alex_hunter_44f4c9ed6671e/blind-75-what-it-is-why-it-matters-and-how-to-actually-master-it-4i4k)
-- [Spot2 Quadtree a primer](https://dev.to/spot2stackmaster/spot2-quadtree-a-primer-2dg9)
-- [Optimizing Constants in JavaScript &amp; TypeScript: Separate vs Grouped Exports](https://dev.to/kenzo_tenma/optimizing-constants-in-javascript-typescript-separate-vs-grouped-exports-2119)
-- [AutoMapper: Mastering Complex Mappings in C#](https://dev.to/adrianbailador/automapper-mastering-complex-mappings-in-c-46am)
-- [Java Program with Command-Line Arguments](https://dev.to/mohamad_mhana/java-program-with-command-line-arguments-5bb7)
+- [Automate Scheduled Jobs in Python Using the schedule Library: A Cron Alternative](https://dev.to/whoakarsh/automate-scheduled-jobs-in-python-using-the-schedule-library-a-cron-alternative-811)
+- [What Legal Firms Need to Know About the Cloud: Friendly Tips for Using Cloud Technology in Your Legal Practice](https://dev.to/heyjoshlee/what-legal-firms-need-to-know-about-the-cloud-friendly-tips-for-using-cloud-technology-in-your-53p9)
+- [PyWhatKit - Automate WhatsApp and Everyday Tasks with Python](https://dev.to/imrrobot/pywhatkit-automate-whatsapp-and-everyday-tasks-with-python-4m2n)
+- [Introduction to Python Module Two Part Three: Inputs and Outputs](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-three-inputs-and-outputs-43g3)
+- [Finding the K Shortest Paths Using Yen&#39;s Algorithm in Python](https://dev.to/whoakarsh/finding-the-k-shortest-paths-using-yens-algorithm-in-python-1gka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
