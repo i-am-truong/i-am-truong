@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-a6a)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-496j)
-- [A — Assess the Metric &lpar;decide the next move&rpar;](https://dev.to/codebrainr/a-assess-the-metric-decide-the-next-move-43mg)
-- [KEXP: Cory Hanson - Bird On A Swing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bird-on-a-swing-live-on-kexp-1898)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-5hfl)
+- [Cloud vs Edge vs Local Architecture &lpar;Use-Case: Security Camera&rpar;.](https://dev.to/dksh_71/cloud-vs-edge-vs-local-architecture-use-case-security-camera-24jc)
+- [Common mistakes in DevOps metrics](https://dev.to/_steve_fenton_/common-mistakes-in-devops-metrics-34a0)
+- [A Design Pattern Every Python Developer Should Know](https://dev.to/artemooon/a-design-pattern-every-python-developer-should-know-mb8)
+- [Codex CLI Developer Guide](https://dev.to/dpaluy/codex-cli-developer-guide-4f03)
+- [Primary Key vs Foreign Key: A Complete Guide for Developers](https://dev.to/mohosin2126/primary-key-vs-foreign-key-a-complete-guide-for-developers-fle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
