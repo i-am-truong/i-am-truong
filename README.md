@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4mni)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-383e)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-7ep)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-50j4)
-- [Test](https://dev.to/prime_299792/test-10ke)
+- [How I Ran Stablecoins Across Ethereum, Arbitrum, and Base Without Losing My Mind](https://dev.to/ruben_saha_cf7b58f871f968/how-i-ran-stablecoins-across-ethereum-arbitrum-and-base-without-losing-my-mind-20no)
+- [Building TaskFlow Pro: A Complete Enterprise Task Management System with 24+ KendoReact Free Components](https://dev.to/mohamednizzad/building-taskflow-pro-a-complete-enterprise-task-management-system-with-24-kendoreact-free-5akp)
+- [Bot or Not: Can You Spot the AI? 🎨](https://dev.to/kaoutar_benhadine_9c91300/bot-or-not-can-you-spot-the-ai-cd2)
+- [Crisis Buttons That Actually Work When Markets Go Red](https://dev.to/ruben_saha_cf7b58f871f968/crisis-buttons-that-actually-work-when-markets-go-red-2lgm)
+- [Brain + Boo: An AI Study Buddy That Haunts You Into Success! 👻](https://dev.to/aniruddhaadak/brain-boo-an-ai-study-buddy-that-haunts-you-into-success-2di7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
