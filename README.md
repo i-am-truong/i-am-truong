@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Ran Stablecoins Across Ethereum, Arbitrum, and Base Without Losing My Mind](https://dev.to/ruben_saha_cf7b58f871f968/how-i-ran-stablecoins-across-ethereum-arbitrum-and-base-without-losing-my-mind-20no)
-- [Building TaskFlow Pro: A Complete Enterprise Task Management System with 24+ KendoReact Free Components](https://dev.to/mohamednizzad/building-taskflow-pro-a-complete-enterprise-task-management-system-with-24-kendoreact-free-5akp)
-- [Bot or Not: Can You Spot the AI? 🎨](https://dev.to/kaoutar_benhadine_9c91300/bot-or-not-can-you-spot-the-ai-cd2)
-- [Crisis Buttons That Actually Work When Markets Go Red](https://dev.to/ruben_saha_cf7b58f871f968/crisis-buttons-that-actually-work-when-markets-go-red-2lgm)
-- [Brain + Boo: An AI Study Buddy That Haunts You Into Success! 👻](https://dev.to/aniruddhaadak/brain-boo-an-ai-study-buddy-that-haunts-you-into-success-2di7)
+- [Understanding data mining and prediction in one article](https://dev.to/esproc_spl/understanding-data-mining-and-prediction-in-one-article-1pfg)
+- [How Workerify&#39;s Vite Plugin and Core Library Work Together: A Deep Dive](https://dev.to/anthonny/how-workerifys-vite-plugin-and-core-library-work-together-a-deep-dive-57n8)
+- [EVE AI : AI FOR HER HEALTH](https://dev.to/saurabh_ssk/eve-ai-ai-for-her-health-426a)
+- [Samurai Progress Dashboard: Gamifying Japanese Learning with KendoReact](https://dev.to/leopaul29/samurai-progress-dashboard-gamifying-japanese-learning-with-kendoreact-56hf)
+- [Find peer tutors fast and easy](https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
