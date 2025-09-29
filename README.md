@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Performing Basic User Management Tasks in Microsoft Entra ID: A Step-by-Step Guide](https://dev.to/sudaisib/performing-basic-user-management-tasks-in-microsoft-entra-id-a-step-by-step-guide-3b1h)
-- [🛡️ Sharing Centurion — my solo Windows security project &lpar;early access, feedback welcome!&rpar;](https://dev.to/drlecks/sharing-centurion-my-solo-windows-security-project-early-access-feedback-welcome-18b5)
-- [The Rise of Digital Wallets: How They&#39;re Transforming the Financial Landscape](https://dev.to/jesse_hilton_1af57979049e/the-rise-of-digital-wallets-how-theyre-transforming-the-financial-landscape-408b)
-- [day 19 of 90 day code series..](https://dev.to/momina_raheelmoona_c59/day-19-of-90-day-code-series-9do)
-- [Building “Sentinel”: multi-agent cybersecurity news triage and publishing system on AWS](https://dev.to/aws-builders/building-sentinel-multi-agent-cybersecurity-news-triage-and-publishing-system-on-aws-5h5h)
+- [Building Things That Work: A Developer&#39;s Showcase](https://dev.to/erjon-hashani1/building-things-that-work-a-developers-showcase-329h)
+- [Meme Monday](https://dev.to/ben/meme-monday-50jm)
+- [What Keeps Me Coding When It Gets Tough](https://dev.to/debugger360/what-keeps-me-coding-when-it-gets-tough-11ma)
+- [Git Branches: How Teams Build Features Without Breaking Each Other’s Code](https://dev.to/swathi_macha/git-branches-how-teams-build-features-without-breaking-each-others-code-3364)
+- [Metal Core PCB Manufacturer — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/metal-core-pcb-manufacturer-an-engineers-practical-guide-og4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
