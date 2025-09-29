@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 RadheyCraft Hosting: Affordable &amp; High-Performance Hosting Solutions for Indian Developers](https://dev.to/anoop_kasaudhan_15931e05b/radheycraft-hosting-affordable-high-performance-hosting-solutions-for-indian-developers-2ag1)
-- [Finding the Wizard&#39;s Pet — KendoReact Free Components Challenge](https://dev.to/violetadev/wizards-trial-kendoreact-free-components-challenge-2dge)
-- [Weekly #39-2025: The Next Era of Development: Performance, Productivity, and Trust](https://dev.to/weekly/weekly-39-2025-the-next-era-of-development-performance-productivity-and-trust-3n5k)
-- [Building the RevOps Engine: A Developer&#39;s Guide to Integrating Sales &amp; Marketing Stacks](https://dev.to/michaelaiglobal/building-the-revops-engine-a-developers-guide-to-integrating-sales-marketing-stacks-4aed)
-- [MLZC25-02. Los Tres Tipos de Aprendizaje Automático: Una Guía Completa](https://dev.to/jesus_oviedoriquelme_084/mlzc25-02-los-tres-tipos-de-aprendizaje-automatico-una-guia-completa-2n81)
+- [MVP Roamer! 🤯 Selena One-Shot Build &amp; Pro Tips | Mobile Legends: Bang Bang](https://dev.to/maximogames/mvp-roamer-selena-one-shot-build-pro-tips-mobile-legends-bang-bang-33jf)
+- [Arquitetura Cliente-Servidor na Web Moderna: REST e GraphQL](https://dev.to/pedroluucas/arquitetura-cliente-servidor-na-web-moderna-rest-e-graphql-2b79)
+- [The Tyranny of Distance is Dead – How Teams are Winning with Async-First](https://dev.to/vamsiin/the-tyranny-of-distance-is-dead-how-teams-are-winning-with-async-first-3he0)
+- [Building an Agentic Medical Analysis System That Actually Thinks](https://dev.to/aws-builders/building-an-agentic-medical-analysis-system-that-actually-thinks-3dg1)
+- [Circuit Breaker Pattern: Finding the Light at the End of the Tunnel in High-Load Systems](https://dev.to/igornosatov_15/circuit-breaker-pattern-finding-the-light-at-the-end-of-the-tunnel-in-high-load-systems-5543)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
