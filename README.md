@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [8 AI Developer Tools for Faster &amp; Smarter Development 👨‍💻🚀](https://dev.to/madza/8-ai-developer-tools-for-faster-smarter-development-gpo)
-- [I Built 28 Financial Calculators in 30 Days - Here&#39;s What I Learned](https://dev.to/cannan_david_974c14021725/i-built-28-financial-calculators-in-30-days-heres-what-i-learned-e1g)
-- [Day 107: The Messy Reality of Pivoting &lpar;Again&rpar;](https://dev.to/casperday11/day-107-the-messy-reality-of-pivoting-again-2oi7)
-- [Rust + WebAssembly Performance: JavaScript vs. wasm-bindgen vs. Raw WASM &lpar;with SIMD&rpar;](https://dev.to/bence_rcz_fe471c168707c1/rust-webassembly-performance-javascript-vs-wasm-bindgen-vs-raw-wasm-with-simd-4pco)
-- [Quantum-logistics-Optimizer](https://dev.to/slimjunior/quantum-logistics-optimizer-2n5n)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-184l)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-21kg)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-8ch)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-1d73)
+- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-55mb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
