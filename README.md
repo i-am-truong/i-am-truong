@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Azure&#39;s Private Cloud Highway: My ExpressRoute Implementation](https://dev.to/peter_samuel_052b9056e236/building-azures-private-cloud-highway-my-expressroute-implementation-bhd)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-544l)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-8nm)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-12nl)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3f65)
+- [I am saman, I am a beginner web developer of WordPress](https://dev.to/saman_siddique_235b732395/i-am-saman-i-am-a-beginner-web-developer-of-wordpress-2e5o)
+- [Best English to Portuguese Document Translation Software](https://dev.to/liamcorwin/best-english-to-portuguese-document-translation-software-29om)
+- [MCPs y el futuro de los LLMs en programación](https://dev.to/kiliancm22/mcps-y-el-futuro-de-los-llms-en-programacion-lcf)
+- [Comment gérer les jours de fermeture boursière dans vos algorithmes de trading](https://dev.to/joachimdi/comment-gerer-les-jours-de-fermeture-boursiere-dans-vos-algorithmes-de-trading-1m56)
+- [Mini Excavators vs. Backhoe Loaders vs. Skid Steers: Choosing the Right Machine for the Job](https://dev.to/markwayns/mini-excavators-vs-backhoe-loaders-vs-skid-steers-choosing-the-right-machine-for-the-job-1h72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
