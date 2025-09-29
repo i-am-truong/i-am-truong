@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SSG, ISR, SSR, CSR: which strategy should I use in my Next.js e-commerce platform?](https://dev.to/u11d/ssg-isr-ssr-csr-which-strategy-should-i-use-in-my-nextjs-e-commerce-platform-4kjh)
-- [How to Fix 401 Unauthorized Error When Calling the API](https://dev.to/geoapify-maps-api/how-to-fix-401-unauthorized-error-when-calling-the-api-4kld)
-- [Proxy Pattern in Clprolf — Example with an Image](https://dev.to/charles_koffler_bcabc582b/proxy-pattern-in-clprolf-example-with-an-image-4lfb)
-- [My MERN Stack Journey: Building StyleMaven Quotes Blog](https://dev.to/rrr_blo0c9bfa0b18446/my-mern-stack-journey-building-stylemaven-quotes-blog-42mk)
-- [Number.isNaN&lpar;&rpar; vs isNaN&lpar;&rpar; in JavaScript : Explained⚡](https://dev.to/yorgie7/numberisnan-vs-isnan-in-javascript-explained-36a9)
+- [Building Azure&#39;s Private Cloud Highway: My ExpressRoute Implementation](https://dev.to/peter_samuel_052b9056e236/building-azures-private-cloud-highway-my-expressroute-implementation-bhd)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-544l)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-8nm)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-12nl)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3f65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
