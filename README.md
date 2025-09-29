@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Full Stack Web App from scratch: First Steps](https://dev.to/constanza_diaz_dev/building-a-full-stack-web-app-from-scratch-first-steps-gi8)
 - [Zero to Cloud: 12 Weeks of AWS re/Start + Free AWS CCP Exam](https://dev.to/nyairopetronilla/zero-to-cloud-12-weeks-of-aws-restart-free-aws-ccp-exam-47ff)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4moc)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-96e)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-48gp)
+- [CSS Pseudo-Elements: Enhance Your Projects with Style!](https://dev.to/michaellarocca/css-pseudo-elements-enhance-your-projects-with-style-2gf8)
+- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-31e6)
 - [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-17lf)
 <!-- BLOG-POST-LIST:END -->
 
