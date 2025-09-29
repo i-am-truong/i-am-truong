@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Performing Basic User Management Tasks in Microsoft Entra ID: A Step-by-Step Guide](https://dev.to/sudaisib/performing-basic-user-management-tasks-in-microsoft-entra-id-a-step-by-step-guide-3b1h)
+- [🛡️ Sharing Centurion — my solo Windows security project &lpar;early access, feedback welcome!&rpar;](https://dev.to/drlecks/sharing-centurion-my-solo-windows-security-project-early-access-feedback-welcome-18b5)
+- [The Rise of Digital Wallets: How They&#39;re Transforming the Financial Landscape](https://dev.to/jesse_hilton_1af57979049e/the-rise-of-digital-wallets-how-theyre-transforming-the-financial-landscape-408b)
 - [day 19 of 90 day code series..](https://dev.to/momina_raheelmoona_c59/day-19-of-90-day-code-series-9do)
 - [Building “Sentinel”: multi-agent cybersecurity news triage and publishing system on AWS](https://dev.to/aws-builders/building-sentinel-multi-agent-cybersecurity-news-triage-and-publishing-system-on-aws-5h5h)
-- [The Hidden Dangers of Online PDF Editors and File Converters](https://dev.to/guardingpearsoftware/the-hidden-dangers-of-online-pdf-editors-and-file-converters-3cb5)
-- [Mi propio procesador de textos en ZX Sinclair BASIC &lpar;y III&rpar;](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-y-ii-5ann)
-- [Debunking the Silent Hill 2 Fog Myth: When Hardware Limits Meet Creative Genius](https://dev.to/blaze_faisal/debunking-the-silent-hill-2-fog-myth-when-hardware-limits-meet-creative-genius-1f7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
