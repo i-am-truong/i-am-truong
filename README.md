@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Equity Investments](https://dev.to/madgan95/introduction-to-equity-investments-1d2h)
-- [Vedaacademy is a leading online education platform dedicated to providing NCERT Solutions for Classes 6 to 12, along with expert guidance for CBSE Board Exams. Visit us for more info:-https://vedaacademy.in/](https://dev.to/veda_academy_b7192f0a3388/vedaacademy-is-a-leading-online-education-platform-dedicated-to-providing-ncert-solutions-for-1o33)
-- [Get Notifications on Telegram Every Time Your Favorite X Account Tweets](https://dev.to/eleftheriabatsou/get-notifications-on-telegram-every-time-your-favorite-x-account-tweets-139b)
-- [Building a Blog API with Django REST Framework](https://dev.to/clement_odok_a968c16e80d7/building-a-blog-api-with-django-rest-framework-364o)
-- [Managing Human-in-the-Loop With Checkpoints – Neuron Workflow](https://dev.to/inspector/managing-human-in-the-loop-with-checkpoints-neuron-workflow-1lip)
+- [Build Portfolio Website in Seconds](https://dev.to/shubham_bhilare_3611/build-portfolio-website-in-seconds-4agg)
+- [🚀 Evaluasi dan Analisis Sistem: Kunci Menguasai Sistem IT Modern](https://dev.to/ahmadasroni38/evaluasi-dan-analisis-sistem-kunci-menguasai-sistem-it-modern-2a6i)
+- [How to meaure resistance on a microcontroller?](https://dev.to/carolineee/how-to-meaure-resistance-on-a-microcontroller-4cjk)
+- [Outil de Cybersécurité du Jour - Sep 29, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-29-2025-3lj5)
+- [AWS re/Start – My Week 7 Experience](https://dev.to/ijay/aws-restart-my-week-7-experience-3a6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
