@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 AI Developer Tools for Faster &amp; Smarter Development 👨‍💻🚀](https://dev.to/madza/8-ai-developer-tools-for-faster-smarter-development-gpo)
+- [I Built 28 Financial Calculators in 30 Days - Here&#39;s What I Learned](https://dev.to/cannan_david_974c14021725/i-built-28-financial-calculators-in-30-days-heres-what-i-learned-e1g)
 - [Day 107: The Messy Reality of Pivoting &lpar;Again&rpar;](https://dev.to/casperday11/day-107-the-messy-reality-of-pivoting-again-2oi7)
 - [Rust + WebAssembly Performance: JavaScript vs. wasm-bindgen vs. Raw WASM &lpar;with SIMD&rpar;](https://dev.to/bence_rcz_fe471c168707c1/rust-webassembly-performance-javascript-vs-wasm-bindgen-vs-raw-wasm-with-simd-4pco)
-- [I am so not looking forward to the discourse leading up to next Ryder Cup. The tournament itself is great, but the discussion is grating.](https://dev.to/ben/i-am-so-not-looking-forward-to-the-discourse-leading-up-to-next-ryder-cup-the-tournament-itself-is-47i4)
-- [Top 10 VS Code Extensions for Laravel Developers in 2025](https://dev.to/arafatweb/top-10-vs-code-extensions-for-laravel-developers-in-2025-1np5)
-- [How to Build a Web Monitoring Workflow with Python, n8n &amp; Docker using Telegram Alerts](https://dev.to/jesulayomi/how-to-build-a-web-monitoring-workflow-with-python-n8n-docker-using-telegram-alerts-22la)
+- [Quantum-logistics-Optimizer](https://dev.to/slimjunior/quantum-logistics-optimizer-2n5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
