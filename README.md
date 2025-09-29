@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest Repositories To Contribute To In 2025](https://dev.to/bobbyiliev/hacktoberfest-repositories-to-contribute-to-in-2025-440l)
-- [Moderation Analysis in Regression: Concepts, Applications, and Case Studies](https://dev.to/thedatageek/moderation-analysis-in-regression-concepts-applications-and-case-studies-3690)
-- [[Boost]](https://dev.to/samyak112/-paf)
-- [I Was Wrong About Being Wrong About Social Media](https://dev.to/dnskwork/i-was-wrong-about-being-wrong-about-social-media-52hc)
-- [Email Testing Made Simple: AI Tools Every Developer Should Know](https://dev.to/atechajay/email-testing-made-simple-ai-tools-every-developer-should-know-50m1)
+- [Building Multi-Agent AWS Operations Intelligence with Amazon Bedrock AgentCore](https://dev.to/aws-builders/building-multi-agent-aws-operations-intelligence-with-amazon-bedrock-agentcore-1enm)
+- [From Zero to 1 B Vectors: the 2025 No-BS Picking Guide](https://dev.to/pascal_cescato_692b7a8a20/from-zero-to-1-b-vectors-the-2025-no-bs-picking-guide-4k9o)
+- [Do código ao deploy: Como pipelines inteligentes reduzem falhas em produção](https://dev.to/gabrieleliasmarcelo/do-codigo-ao-deploy-como-pipelines-inteligentes-reduzem-falhas-em-producao-k2i)
+- [Stop AWS Bill Shock: Build an Automated Cost Guardian with Terraform in 10 Minutes](https://dev.to/mate32/stop-aws-bill-shock-build-an-automated-cost-guardian-with-terraform-in-10-minutes-2joa)
+- [My DevOps Journey: Part 6 - Building a Bash Log Analyzer for Real DevOps Scenarios](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-6-building-a-bash-log-analyzer-for-real-devops-scenarios-pbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
