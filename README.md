@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RateMyReview &lpar;AI Rating tool&rpar;](https://dev.to/herbert_sekpey_4fb794a830/ratemyreview-ai-rating-tool-587j)
 - [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4png)
 - [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1lna)
 - [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-bl)
 - [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-14n1)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-3kfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
