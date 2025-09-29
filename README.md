@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MLZC25-05. Análisis Exploratorio de Datos &lpar;EDA&rpar;: El Arte de Descubrir Historias Ocultas](https://dev.to/jesus_oviedoriquelme_084/mlzc25-05-analisis-exploratorio-de-datos-eda-el-arte-de-descubrir-historias-ocultas-4f7)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-258)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-mag)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-5fi9)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-5goa)
+- [Business Dashboard Application](https://dev.to/albert_felixl_230fec2c92/business-dashboard-application-30am)
+- [📊 Analyzing Manufacturing Downtime: Insights From My Dashboard](https://dev.to/koinpoin/analyzing-manufacturing-downtime-insights-from-my-dashboard-160c)
+- [Progressive Web Apps: Bringing App-like Experiences to the Web](https://dev.to/rgbos/progressive-web-apps-bringing-app-like-experiences-to-the-web-4fak)
+- [Building the Campfire: My Custom CMS for &#39;Campfire Logs&#39;](https://dev.to/dlseitz/building-the-campfire-my-custom-cms-for-campfire-logs-3dgb)
+- [Automating EBS Volume Upsizing on AWS](https://dev.to/davidshaek/automating-ebs-volume-upsizing-on-aws-ok0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
