@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Conversion Rate Optimization Using a Maturity Model: A Deep-Dive with Case Studies](https://dev.to/dipti_moryani_185c244d578/conversion-rate-optimization-using-a-maturity-model-a-deep-dive-with-case-studies-4m3d)
-- [Amazon Bedrock AgentCore Runtime - Part 6 Using AgentCore short-term Memory with Strands Agents SDK](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-6-using-agentcore-short-term-memory-with-strands-agents-sdk-55d4)
-- [THE START](https://dev.to/imhe/the-start-nka)
-- [User Access and Profile Management Basics](https://dev.to/ajayid10/user-access-and-profile-management-basics-2580)
-- [👋 Hi, I’m Ines — Excited to Join dev.to!](https://dev.to/ines_bensaad_c16374d89f7/hi-im-ines-excited-to-join-devto-19kb)
+- [Hacktoberfest Repositories To Contribute To In 2025](https://dev.to/bobbyiliev/hacktoberfest-repositories-to-contribute-to-in-2025-440l)
+- [Moderation Analysis in Regression: Concepts, Applications, and Case Studies](https://dev.to/thedatageek/moderation-analysis-in-regression-concepts-applications-and-case-studies-3690)
+- [[Boost]](https://dev.to/samyak112/-paf)
+- [I Was Wrong About Being Wrong About Social Media](https://dev.to/dnskwork/i-was-wrong-about-being-wrong-about-social-media-52hc)
+- [Email Testing Made Simple: AI Tools Every Developer Should Know](https://dev.to/atechajay/email-testing-made-simple-ai-tools-every-developer-should-know-50m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
