@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing a Weird Next.js Chunk Loading Issue Caused by Load Balancer URL Normalization](https://dev.to/alfanfauzy/fixing-a-weird-nextjs-chunk-loading-issue-caused-by-load-balancer-url-normalization-267g)
-- [Fixing a Weird Next.js Chunk Loading Issue Caused by Load Balancer URL Normalization](https://dev.to/alfanfauzy/fixing-a-weird-nextjs-chunk-loading-issue-caused-by-load-balancer-url-normalization-35kn)
-- [Website Developer](https://dev.to/bloomtech/website-developer-4kgj)
-- [Shadcn ui - &lt;DropdownMenu&gt; inside &lt;Dialogue&gt;](https://dev.to/muhammedv/shadcn-ui-inside-1im1)
-- [Upgrade Playwright Tests: TypeScript Mixin Design Pattern Guide](https://dev.to/idavidov13/upgrade-playwright-tests-typescript-mixin-design-pattern-guide-1nce)
+- [Dynamically Generating Videos in Node.js with Cloudinary](https://dev.to/jacobandrewsky/dynamically-generating-videos-in-nodejs-with-cloudinary-522n)
+- [Why Small Businesses Can’t Afford to Keep an In-House IT Department](https://dev.to/vilengyltd/why-small-businesses-cant-afford-to-keep-an-in-house-it-department-3jc7)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4f1h)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1893)
+- [How to Keep the Swipe-Back Gesture Working with Custom Navigation Buttons in SwiftUI](https://dev.to/akash_kottil/how-to-keep-the-swipe-back-gesture-working-with-custom-navigation-buttons-in-swiftui-4dhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
