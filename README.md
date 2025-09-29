@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing Qodo and Cursor 🕵️](https://dev.to/dev_kiran/comparing-qodo-and-cursor-3mm)
+- [Optimizing Relationships with Online Visitors: The Concept of Visitor Relationship Management &lpar;VRM&rpar;](https://dev.to/dipti_moryani_9137d0a2e44/optimizing-relationships-with-online-visitors-the-concept-of-visitor-relationship-management-vrm-54o5)
 - [Your .join&lpar;&quot;, &quot;&rpar; Is Lying to You: Meet Intl.ListFormat](https://dev.to/josephciullo/your-join-is-lying-to-you-meet-intllistformat-53fb)
 - [Apple&#39;s &quot;Veritas&quot; Chatbot: Redefining Siri for 2026](https://dev.to/alexkk/apples-veritas-chatbot-redefining-siri-for-2026-4044)
 - [AWS open source newsletter, #214](https://dev.to/aws/aws-open-source-newsletter-214-ekm)
-- [How I Stopped Worrying About RAM and Learned to Love Vim](https://dev.to/joybtw/how-i-stopped-worrying-about-ram-and-learned-to-love-vim-2c07)
-- [Langchain and LangGraph](https://dev.to/ashutoshsarangi/langchain-and-langgraph-1678)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
