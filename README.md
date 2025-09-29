@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recipe: Immutable Data Updates with Kotlin](https://dev.to/tedhagos/recipe-immutable-data-updates-with-kotlin-1h43)
+- [All Data and AI Weekly #209: 29 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-209-29-sept-2025-3hn6)
 - [Building Multi-Agent AWS Operations Intelligence with Amazon Bedrock AgentCore](https://dev.to/aws-builders/building-multi-agent-aws-operations-intelligence-with-amazon-bedrock-agentcore-1enm)
 - [From Zero to 1 B Vectors: the 2025 No-BS Picking Guide](https://dev.to/pascal_cescato_692b7a8a20/from-zero-to-1-b-vectors-the-2025-no-bs-picking-guide-4k9o)
 - [Do código ao deploy: Como pipelines inteligentes reduzem falhas em produção](https://dev.to/gabrieleliasmarcelo/do-codigo-ao-deploy-como-pipelines-inteligentes-reduzem-falhas-em-producao-k2i)
-- [Stop AWS Bill Shock: Build an Automated Cost Guardian with Terraform in 10 Minutes](https://dev.to/mate32/stop-aws-bill-shock-build-an-automated-cost-guardian-with-terraform-in-10-minutes-2joa)
-- [My DevOps Journey: Part 6 - Building a Bash Log Analyzer for Real DevOps Scenarios](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-6-building-a-bash-log-analyzer-for-real-devops-scenarios-pbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
