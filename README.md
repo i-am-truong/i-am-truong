@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding data mining and prediction in one article](https://dev.to/esproc_spl/understanding-data-mining-and-prediction-in-one-article-1pfg)
-- [How Workerify&#39;s Vite Plugin and Core Library Work Together: A Deep Dive](https://dev.to/anthonny/how-workerifys-vite-plugin-and-core-library-work-together-a-deep-dive-57n8)
-- [EVE AI : AI FOR HER HEALTH](https://dev.to/saurabh_ssk/eve-ai-ai-for-her-health-426a)
-- [Samurai Progress Dashboard: Gamifying Japanese Learning with KendoReact](https://dev.to/leopaul29/samurai-progress-dashboard-gamifying-japanese-learning-with-kendoreact-56hf)
-- [Find peer tutors fast and easy](https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42)
+- [Your .join&lpar;&quot;, &quot;&rpar; Is Lying to You: Meet Intl.ListFormat](https://dev.to/josephciullo/your-join-is-lying-to-you-meet-intllistformat-53fb)
+- [Apple&#39;s &quot;Veritas&quot; Chatbot: Redefining Siri for 2026](https://dev.to/alexkk/apples-veritas-chatbot-redefining-siri-for-2026-4044)
+- [AWS open source newsletter, #214](https://dev.to/aws/aws-open-source-newsletter-214-ekm)
+- [How I Stopped Worrying About RAM and Learned to Love Vim](https://dev.to/joybtw/how-i-stopped-worrying-about-ram-and-learned-to-love-vim-2c07)
+- [Langchain and LangGraph](https://dev.to/ashutoshsarangi/langchain-and-langgraph-1678)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
