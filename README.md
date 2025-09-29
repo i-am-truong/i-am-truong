@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Big Data Analytics with PySpark : A Beginner Friendly Guide](https://dev.to/peter_mari_772a2202e7fbf7/big-data-analytics-with-pyspark-a-beginner-friendly-guide-187d)
+- [WhatsApp + MCP: automatic audio transcription](https://dev.to/cloudx/whatsapp-mcp-automatic-audio-transcription-jbh)
 - [How to Set Up an Umbrel Server on any home PC](https://dev.to/krikri2025/how-to-set-up-an-umbrel-server-on-any-home-pc-46ne)
-- [Build a 3D Flipping Coin with HTML, CSS &amp; JavaScript — deep dive](https://dev.to/shahibur_rahman_6670cd024/build-a-3d-flipping-coin-with-html-css-javascript-deep-dive-26h2)
-- [I Tested GPU Time-Slicing With Real LLMs So You Don&#39;t Have To 🚀](https://dev.to/abraham_arellanotavara_7/i-tested-gpu-time-slicing-with-real-llms-so-you-dont-have-to-2n9d)
-- [Document Workflow Transformation: How Modern AI Models Transform CRM Systems](https://dev.to/igornosatov_15/document-workflow-transformation-how-modern-ai-models-transform-crm-systems-123d)
-- [From VM Chaos to Serverless Zen: My GitHub Webhook Journey 🚀](https://dev.to/techwithhari/from-vm-chaos-to-serverless-zen-my-github-webhook-journey-323h)
+- [A Clean Tool for Mole Conversions and Molarity](https://dev.to/unitly/a-clean-tool-for-mole-conversions-and-molarity-4ffk)
+- [Meet TabMate - Your lightweight tab &amp; indentation support for textareas](https://dev.to/pascalboth/meet-tabmate-your-lightweight-tab-indentation-support-for-textareas-17do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
