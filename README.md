@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taming the &quot;It Works on My Machine&quot; Monster with Docker](https://dev.to/learn_with_santosh/taming-the-it-works-on-my-machine-monster-with-docker-4c4a)
+- [28th Sept Tech Newzzz](https://dev.to/barak_codes/28th-sept-tech-newzzz-2lj8)
+- [Module 2 — Derived Identities and Secure Export Author: Antonio José Socorro Marín Fecha: 28 de septiembre de 2025](https://dev.to/antonio_socorro_95e3ff086/module-2-derived-identities-and-secure-export-author-antonio-jose-socorro-marin-fecha-28-de-81b)
 - [Business Dashboard Application](https://dev.to/albert_felixl_230fec2c92/business-dashboard-application-30am)
-- [📊 Analyzing Manufacturing Downtime: Insights From My Dashboard](https://dev.to/koinpoin/analyzing-manufacturing-downtime-insights-from-my-dashboard-160c)
-- [Progressive Web Apps: Bringing App-like Experiences to the Web](https://dev.to/rgbos/progressive-web-apps-bringing-app-like-experiences-to-the-web-4fak)
-- [Building the Campfire: My Custom CMS for &#39;Campfire Logs&#39;](https://dev.to/dlseitz/building-the-campfire-my-custom-cms-for-campfire-logs-3dgb)
-- [Automating EBS Volume Upsizing on AWS](https://dev.to/davidshaek/automating-ebs-volume-upsizing-on-aws-ok0)
+- [Module 2 — Derived Identities and Secure Export](https://dev.to/antonio_socorro_95e3ff086/module-2-derived-identities-and-secure-export-1ddg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
