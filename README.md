@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [even Pop!_OS now uses Rust for its desktop environment](https://dev.to/fedtti/even-popos-now-uses-rust-for-its-desktop-environment-4ag5)
 - [Setting Up PostgreSQL in Docker on Hetzner with SSL Certificates from Certbot](https://dev.to/damir_maham/setting-up-postgresql-in-docker-on-hetzner-with-ssl-certificates-from-certbot-3le3)
 - [Mastering BeautifulSoup: Parsing, Navigating, and Extracting Data Like a Pro](https://dev.to/nelson_orina_a538ba52e9ed/mastering-beautifulsoup-parsing-navigating-and-extracting-data-like-a-pro-enl)
 - [Using the Free Version of CodeAcademy](https://dev.to/magicrani35/using-the-free-version-of-codeacademy-11db)
 - [Building Production Multi-Agent Systems: My Experience with Amazon Bedrock AgentCore, and AWS Strands Agents](https://dev.to/mohsinsheikhani/building-production-multi-agent-systems-my-experience-with-amazon-bedrock-agentcore-and-aws-41h2)
-- [Digital Ethics: Tackling AI Bias in Hiring for Fair Recruitment](https://dev.to/dyrok/digital-ethics-tackling-ai-bias-in-hiring-for-fair-recruitment-3p7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
