@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamically Generating Videos in Node.js with Cloudinary](https://dev.to/jacobandrewsky/dynamically-generating-videos-in-nodejs-with-cloudinary-522n)
-- [Why Small Businesses Can’t Afford to Keep an In-House IT Department](https://dev.to/vilengyltd/why-small-businesses-cant-afford-to-keep-an-in-house-it-department-3jc7)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4f1h)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1893)
-- [How to Keep the Swipe-Back Gesture Working with Custom Navigation Buttons in SwiftUI](https://dev.to/akash_kottil/how-to-keep-the-swipe-back-gesture-working-with-custom-navigation-buttons-in-swiftui-4dhj)
+- [Get Notifications on Telegram Every Time Your Favorite X Account Tweets](https://dev.to/eleftheriabatsou/get-notifications-on-telegram-every-time-your-favorite-x-account-tweets-139b)
+- [Building a Blog API with Django REST Framework](https://dev.to/clement_odok_a968c16e80d7/building-a-blog-api-with-django-rest-framework-364o)
+- [Managing Human-in-the-Loop With Checkpoints – Neuron Workflow](https://dev.to/inspector/managing-human-in-the-loop-with-checkpoints-neuron-workflow-1lip)
+- [Cause and solution for the &quot;Unable to find an element with the text&quot; error in React Hook Form + Chakra UI](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-the-unable-to-find-an-element-with-the-text-error-in-react-hook-form--1j1i)
+- [Untitled](https://dev.to/abdullatif_alrsadh_588e66/untitled-417g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
