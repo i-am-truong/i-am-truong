@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OverlayFS — The Magic Behind Docker](https://dev.to/hrrydgls/overlayfs-the-magic-behind-docker-52c6)
+- [The .NET Language Buffet: Which One Should You Pick?](https://dev.to/lamri_abdellahramdane_15/the-net-language-buffet-which-one-should-you-pick-31fn)
+- [Big Data Analytics with PySpark: A Beginner-Friendly Guide](https://dev.to/j_m47/big-data-analytics-with-pyspark-a-beginner-friendly-guide-59nf)
+- [Navigating the Ascent: Why the AI Value Curve is the Most Important Business Map of Our Time](https://dev.to/mcleanforresterllc/navigating-the-ascent-why-the-ai-value-curve-is-the-most-important-business-map-of-our-time-3e0n)
 - [Recipe: Immutable Data Updates with Kotlin](https://dev.to/tedhagos/recipe-immutable-data-updates-with-kotlin-1h43)
-- [All Data and AI Weekly #209: 29 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-209-29-sept-2025-3hn6)
-- [Building Multi-Agent AWS Operations Intelligence with Amazon Bedrock AgentCore](https://dev.to/aws-builders/building-multi-agent-aws-operations-intelligence-with-amazon-bedrock-agentcore-1enm)
-- [From Zero to 1 B Vectors: the 2025 No-BS Picking Guide](https://dev.to/pascal_cescato_692b7a8a20/from-zero-to-1-b-vectors-the-2025-no-bs-picking-guide-4k9o)
-- [Do código ao deploy: Como pipelines inteligentes reduzem falhas em produção](https://dev.to/gabrieleliasmarcelo/do-codigo-ao-deploy-como-pipelines-inteligentes-reduzem-falhas-em-producao-k2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
