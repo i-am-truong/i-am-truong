@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blind 75: What It Is, Why It Matters, and How to Actually Master It](https://dev.to/alex_hunter_44f4c9ed6671e/blind-75-what-it-is-why-it-matters-and-how-to-actually-master-it-4i4k)
+- [Spot2 Quadtree a primer](https://dev.to/spot2stackmaster/spot2-quadtree-a-primer-2dg9)
+- [Optimizing Constants in JavaScript &amp; TypeScript: Separate vs Grouped Exports](https://dev.to/kenzo_tenma/optimizing-constants-in-javascript-typescript-separate-vs-grouped-exports-2119)
+- [AutoMapper: Mastering Complex Mappings in C#](https://dev.to/adrianbailador/automapper-mastering-complex-mappings-in-c-46am)
 - [Java Program with Command-Line Arguments](https://dev.to/mohamad_mhana/java-program-with-command-line-arguments-5bb7)
-- [5 JavaScript Tricks That Will Make You Look Like a Pro](https://dev.to/kushyarr7/5-javascript-tricks-that-will-make-you-look-like-a-pro-f35)
-- [E-commerce web site for beginer level](https://dev.to/harish_kumar_9824dda278cc/e-commerce-web-site-for-beginer-level-1766)
-- [Building Psychological Safety Into E-Learning Platforms: Lessons For Developers](https://dev.to/artperev/building-psychological-safety-into-e-learning-platforms-lessons-for-developers-42ef)
-- [Руководство Python-разработчика по управлению фоновыми процессами](https://dev.to/mrvi0/rukovodstvo-python-razrabotchika-po-upravlieniiu-fonovymi-protsiessami-213a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
