@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost in the Machine: A Defender&#39;s Guide to Offline Security Testing with Blackglass_Suite](https://dev.to/gnomeman4201/the-ghost-in-the-machine-a-defenders-guide-to-offline-security-testing-with-blackglasssuite-3hn9)
-- [[Boost]](https://dev.to/ssukhpinder/-3aip)
-- [ChatGPT Instant Checkout](https://dev.to/alifar/chatgpt-instant-checkout-10fh)
-- [Building Web Apps &amp; Exploring Research – About Sain Bux](https://dev.to/sain_bux_dev/introducing-sain-bux-full-stack-developer-research-enthusiast-1c21)
-- [Mastering Date and Time in C#](https://dev.to/ssukhpinder/mastering-date-and-time-in-c-dcp)
+- [A Beginner’s Guide to Big Data Analytics with Apache Spark and PySpark](https://dev.to/eric_kahindi_cfbfda3bd0f7/a-beginners-guide-to-big-data-analytics-with-apache-spark-and-pyspark-49f3)
+- [Cloud Resume Challenge Azure - Part 1](https://dev.to/jic/cloud-resume-challenge-azure-part-1-21im)
+- [A Beginner’s Guide to Big Data Analytics with Apache Spark and PySpark](https://dev.to/kiplangatjaphet/a-beginners-guide-to-big-data-analytics-with-apache-spark-and-pyspark-dpc)
+- [Inside Terraform&#39;s DAG: How Dependency Ordering Really Works](https://dev.to/josh_pollara_2f8bb369b3f3/inside-terraforms-dag-how-dependency-ordering-really-works-alk)
+- [Mastering Prompt Engineering: Unlocking the Full Potential of AI](https://dev.to/rgbos/mastering-prompt-engineering-unlocking-the-full-potential-of-ai-48dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
