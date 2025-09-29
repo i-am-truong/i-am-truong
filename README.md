@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meetup: A modular approach before micro-services](https://dev.to/getjv/meetup-a-modular-approach-before-micro-services-3bf9)
+- [Is Serverless expensive at scale? Only if you are using it wrong](https://dev.to/aws-heroes/is-serverless-expensive-at-scale-only-if-you-are-using-it-wrong-19pa)
+- [🚀 Build Edit Forms in React Faster with SVAR Editor](https://dev.to/olga_tash/build-edit-forms-in-react-faster-with-svar-editor-1ak4)
+- [On js13kGames deadlines and fixes](https://dev.to/js13kgames/on-js13kgames-deadlines-and-fixes-a9n)
 - [Docker Best Practices to Secure and Optimize Your Containers](https://dev.to/protsenko/docker-best-practices-to-secure-and-optimize-your-containers-2e7a)
-- [Stop Chasing Velocity: What to Measure in Zenhub Instead](https://dev.to/gsauzande/stop-chasing-velocity-what-to-measure-in-zenhub-instead-1hjf)
-- [Prioritize Support Tickets with Text Sentiment &lpar;and a Clean UI&rpar;](https://dev.to/ideradevtools/prioritize-support-tickets-with-text-sentiment-and-a-clean-ui-29mn)
-- [[Boost]](https://dev.to/alex_hunter_44f4c9ed6671e/-55de)
-- [Real-World AI Application: Netflix Recommendation System](https://dev.to/dksh_71/real-world-ai-application-netflix-recommendation-system-fkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
