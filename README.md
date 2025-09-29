@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Portfolio Website in Seconds](https://dev.to/shubham_bhilare_3611/build-portfolio-website-in-seconds-4agg)
+- [Number.isNaN&lpar;&rpar; vs isNaN&lpar;&rpar; in JavaScript : Explained⚡](https://dev.to/yorgie7/numberisnan-vs-isnan-in-javascript-explained-36a9)
+- [MassTransit in ASP.NET Core: A Practical Guide to Event-Driven .NET](https://dev.to/stevsharp/masstransit-in-aspnet-core-a-practical-guide-to-event-driven-net-c4k)
+- [Geo-restricted AI Video Generators: Is It Possible to Use Google&#39;s Veo3 Outside the US?](https://dev.to/astro-official/geo-restricted-ai-video-generators-is-it-possible-to-use-googles-veo3-outside-the-us-2bkf)
+- [Quick To Spot API/System Slow](https://dev.to/ikhwanal/quick-to-spot-apisystem-slow-eo7)
 - [🚀 Evaluasi dan Analisis Sistem: Kunci Menguasai Sistem IT Modern](https://dev.to/ahmadasroni38/evaluasi-dan-analisis-sistem-kunci-menguasai-sistem-it-modern-2a6i)
-- [How to meaure resistance on a microcontroller?](https://dev.to/carolineee/how-to-meaure-resistance-on-a-microcontroller-4cjk)
-- [Outil de Cybersécurité du Jour - Sep 29, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-29-2025-3lj5)
-- [AWS re/Start – My Week 7 Experience](https://dev.to/ijay/aws-restart-my-week-7-experience-3a6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
