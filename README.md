@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Things That Work: A Developer&#39;s Showcase](https://dev.to/erjon-hashani1/building-things-that-work-a-developers-showcase-329h)
-- [Meme Monday](https://dev.to/ben/meme-monday-50jm)
-- [What Keeps Me Coding When It Gets Tough](https://dev.to/debugger360/what-keeps-me-coding-when-it-gets-tough-11ma)
-- [Git Branches: How Teams Build Features Without Breaking Each Other’s Code](https://dev.to/swathi_macha/git-branches-how-teams-build-features-without-breaking-each-others-code-3364)
-- [Metal Core PCB Manufacturer — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/metal-core-pcb-manufacturer-an-engineers-practical-guide-og4)
+- [Top 10 VS Code Extensions for Laravel Developers in 2025](https://dev.to/arafatweb/top-10-vs-code-extensions-for-laravel-developers-in-2025-1np5)
+- [How to Build a Web Monitoring Workflow with Python, n8n &amp; Docker using Telegram Alerts](https://dev.to/jesulayomi/how-to-build-a-web-monitoring-workflow-with-python-n8n-docker-using-telegram-alerts-22la)
+- [Eternal September: Learning for the Life of it](https://dev.to/davesommerville/eternal-september-learning-for-the-life-of-it-i6i)
+- [Introducing Meku: AI Web Apps Builder for Developers](https://dev.to/meku/introducing-meku-ai-web-apps-builder-for-developers-4cii)
+- [‎Writing Blog Posts That Demonstrate Your Problem-Solving Skills ‎ ‎](https://dev.to/okoye_ndidiamaka_5e3b7d30/writing-blog-posts-that-demonstrate-your-problem-solving-skills-1cgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
