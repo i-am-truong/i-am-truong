@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Ghost in the Machine: A Defender&#39;s Guide to Offline Security Testing with Blackglass_Suite](https://dev.to/gnomeman4201/the-ghost-in-the-machine-a-defenders-guide-to-offline-security-testing-with-blackglasssuite-3hn9)
+- [[Boost]](https://dev.to/ssukhpinder/-3aip)
 - [ChatGPT Instant Checkout](https://dev.to/alifar/chatgpt-instant-checkout-10fh)
 - [Building Web Apps &amp; Exploring Research – About Sain Bux](https://dev.to/sain_bux_dev/introducing-sain-bux-full-stack-developer-research-enthusiast-1c21)
 - [Mastering Date and Time in C#](https://dev.to/ssukhpinder/mastering-date-and-time-in-c-dcp)
-- [PART 2 Starry: An Internal Developer Platform &lpar;IDP&rpar; for Ephemeral Environments](https://dev.to/flopi/part-2-starry-an-internal-developer-platform-idp-for-ephemeral-environments-192b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
