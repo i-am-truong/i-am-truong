@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating AWS Lambda Deployment using GitHub Actions](https://dev.to/olamyde/automating-aws-lambda-deployment-using-github-actions-1f43)
 - [Building a Full Stack Web App from scratch: First Steps](https://dev.to/constanza_diaz_dev/building-a-full-stack-web-app-from-scratch-first-steps-gi8)
 - [Zero to Cloud: 12 Weeks of AWS re/Start + Free AWS CCP Exam](https://dev.to/nyairopetronilla/zero-to-cloud-12-weeks-of-aws-restart-free-aws-ccp-exam-47ff)
 - [CSS Pseudo-Elements: Enhance Your Projects with Style!](https://dev.to/michaellarocca/css-pseudo-elements-enhance-your-projects-with-style-2gf8)
 - [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-31e6)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-17lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
