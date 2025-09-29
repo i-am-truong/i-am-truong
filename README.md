@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-184l)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-21kg)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-8ch)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-1d73)
-- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-55mb)
+- [Figma vs. Sketch: Which Is the Better Tool for UI Design in 2025?](https://dev.to/hashbyt/figma-vs-sketch-which-is-the-better-tool-for-ui-design-in-2025-3i13)
+- [React 19 New Features Explained with Examples](https://dev.to/mridudixit15/react-19-new-features-explained-with-examples-2f7o)
+- [Beyond Showcasing Work: How to Turn Your Portfolio into a Sales Funnel](https://dev.to/imtaslim/beyond-showcasing-work-how-to-turn-your-portfolio-into-a-sales-funnel-2ab0)
+- [Why PHP frameworks often &lpar;still&rpar; perform slower than Python / Go / Rust / Java frameworks](https://dev.to/m-a-h-b-u-b/why-php-frameworks-often-still-perform-slower-than-python-go-rust-java-frameworks-4457)
+- [Two Easy Ways to Cut Costs in AppSync Merged APIs](https://dev.to/aws-builders/two-easy-ways-to-cut-costs-in-appsync-merged-apis-3k94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
