@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Most developers often focus on building features fast. But sometimes a single security flaw can undo months of hard work. That&#39;s the hardest part of coding!](https://dev.to/jaideepparashar/most-developers-often-focus-on-building-features-fast-but-sometimes-a-single-security-flaw-can-1cln)
-- [Fandom Meets the Future: How Coca-Cola and Star Wars Are Using AR and AI to Redefine Fan Engagement](https://dev.to/balagmadhu/fandom-meets-the-future-how-coca-cola-and-star-wars-are-using-ar-and-ai-to-redefine-fan-engagement-4bk6)
-- [Large Language Models Demystified!](https://dev.to/aiwaaligirl/large-language-models-demystified-20i7)
-- [A Complete Guide to Apple Subscription Groups for Smarter In-App Purchases](https://dev.to/paywallpro/a-complete-guide-to-apple-subscription-groups-for-smarter-in-app-purchases-2ih7)
-- [Kendo Price Dashboard](https://dev.to/john_osazuwa_8214cdf06718/kendo-price-dashboard-2441)
+- [From UI to XI: Designing eXperiential Interfaces](https://dev.to/dct_technology/from-ui-to-xi-designing-experiential-interfaces-5g2)
+- [📘 Foundation Phase Completed - Starting Phase 2 of My Journey](https://dev.to/ramyakaruturi/foundation-phase-completed-starting-phase-2-of-my-journey-5f5k)
+- [Multithreading and Thread class method](https://dev.to/preethi_nandhagopal_6d075/multithreading-and-thread-class-method-19ph)
+- [PrivacyDesk — DSR &amp; Consent Hub &lpar;KendoReact Free&rpar;](https://dev.to/sindhug29/privacydesk-dsr-consent-hub-kendoreact-free-1e9g)
+- [#DAY 4 - Expanding My Monitoring Scope: External &amp; Advanced Checks](https://dev.to/samueladeduntan/day-4-expanding-my-monitoring-scope-external-advanced-checks-5h4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
