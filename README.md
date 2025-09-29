@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Conversion Rate Optimization Using a Maturity Model: A Deep-Dive with Case Studies](https://dev.to/dipti_moryani_185c244d578/conversion-rate-optimization-using-a-maturity-model-a-deep-dive-with-case-studies-4m3d)
+- [Amazon Bedrock AgentCore Runtime - Part 6 Using AgentCore short-term Memory with Strands Agents SDK](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-6-using-agentcore-short-term-memory-with-strands-agents-sdk-55d4)
+- [THE START](https://dev.to/imhe/the-start-nka)
+- [User Access and Profile Management Basics](https://dev.to/ajayid10/user-access-and-profile-management-basics-2580)
 - [👋 Hi, I’m Ines — Excited to Join dev.to!](https://dev.to/ines_bensaad_c16374d89f7/hi-im-ines-excited-to-join-devto-19kb)
-- [What are your goals for the week? #146 HacktoberFest is coming](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-146-hacktoberfest-is-coming-3o8d)
-- [TanStack Start to Mobile: Building Robust Apps with Capacitor](https://dev.to/aaronksaunders/tanstack-start-to-mobile-building-robust-apps-with-capacitor-24ae)
-- [The Future of Healthcare Is in Your Pocket: How to Build an mHealth App That Actually Works](https://dev.to/chillicode/the-future-of-healthcare-is-in-your-pocket-how-to-build-an-mhealth-app-that-actually-works-11d8)
-- [Probability - Introduction, axioms, Conditional and Bayes&#39; Rule](https://dev.to/yadav_prasadgb_34fcd06b/probability-introduction-axioms-conditional-and-bayes-rule-1on8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
