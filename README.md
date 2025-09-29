@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Big Data Analytics with Apache Spark and PySpark](https://dev.to/eric_kahindi_cfbfda3bd0f7/a-beginners-guide-to-big-data-analytics-with-apache-spark-and-pyspark-49f3)
-- [Cloud Resume Challenge Azure - Part 1](https://dev.to/jic/cloud-resume-challenge-azure-part-1-21im)
-- [A Beginner’s Guide to Big Data Analytics with Apache Spark and PySpark](https://dev.to/kiplangatjaphet/a-beginners-guide-to-big-data-analytics-with-apache-spark-and-pyspark-dpc)
-- [Inside Terraform&#39;s DAG: How Dependency Ordering Really Works](https://dev.to/josh_pollara_2f8bb369b3f3/inside-terraforms-dag-how-dependency-ordering-really-works-alk)
-- [Mastering Prompt Engineering: Unlocking the Full Potential of AI](https://dev.to/rgbos/mastering-prompt-engineering-unlocking-the-full-potential-of-ai-48dm)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4moc)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-96e)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-48gp)
+- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-17lf)
+- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-22pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
