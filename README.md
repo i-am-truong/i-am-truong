@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up an Umbrel Server on any home PC](https://dev.to/krikri2025/how-to-set-up-an-umbrel-server-on-any-home-pc-46ne)
+- [Build a 3D Flipping Coin with HTML, CSS &amp; JavaScript — deep dive](https://dev.to/shahibur_rahman_6670cd024/build-a-3d-flipping-coin-with-html-css-javascript-deep-dive-26h2)
 - [I Tested GPU Time-Slicing With Real LLMs So You Don&#39;t Have To 🚀](https://dev.to/abraham_arellanotavara_7/i-tested-gpu-time-slicing-with-real-llms-so-you-dont-have-to-2n9d)
 - [Document Workflow Transformation: How Modern AI Models Transform CRM Systems](https://dev.to/igornosatov_15/document-workflow-transformation-how-modern-ai-models-transform-crm-systems-123d)
 - [From VM Chaos to Serverless Zen: My GitHub Webhook Journey 🚀](https://dev.to/techwithhari/from-vm-chaos-to-serverless-zen-my-github-webhook-journey-323h)
-- [even Pop!_OS now uses Rust for its desktop environment](https://dev.to/fedtti/even-popos-now-uses-rust-for-its-desktop-environment-4ag5)
-- [Setting Up PostgreSQL in Docker on Hetzner with SSL Certificates from Certbot](https://dev.to/damir_maham/setting-up-postgresql-in-docker-on-hetzner-with-ssl-certificates-from-certbot-3le3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
