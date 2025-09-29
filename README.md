@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mi propio procesador de textos en ZX Sinclair BASIC &lpar;y III&rpar;](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-y-ii-5ann)
+- [Debunking the Silent Hill 2 Fog Myth: When Hardware Limits Meet Creative Genius](https://dev.to/blaze_faisal/debunking-the-silent-hill-2-fog-myth-when-hardware-limits-meet-creative-genius-1f7b)
+- [Understanding Databases: SQL, NoSQL, DDL, and DML](https://dev.to/de_clerke/understanding-databases-sql-nosql-ddl-and-dml-mok)
 - [Building a Portfolio Site with FSD LangChain Remix AI](https://dev.to/nyaomaru/building-a-portfolio-site-with-fsd-langchain-remix-ai-c9h)
 - [How Kilo Code launched on Product Hunt](https://dev.to/fmerian/how-kilo-code-launched-on-product-hunt-24a2)
-- [Less Dependencies, Less Problems: How to keep node.js Package Footprint Minimal](https://dev.to/sebs/less-dependencies-less-problems-how-to-keep-nodejs-package-footprint-minimal-50o)
-- [🚀 Tired of messy repos and unclear project structures? Check out CodeTree at code-tree.dev ! 🌲 Visualize your codebase, explore structure fast, and onboard like a pro. Perfect for devs, teams &amp; open source. #DevTools #CodeReview](https://dev.to/trukes/tired-of-messy-repos-and-unclear-project-structures-check-out-codetree-at-code-treedev--3ffh)
-- [From Sheets to Quizzes: Automating Google Forms Like a Pro](https://dev.to/rajinh24/from-sheets-to-quizzes-automating-google-forms-like-a-pro-5gbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
