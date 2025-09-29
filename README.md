@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Figma vs. Sketch: Which Is the Better Tool for UI Design in 2025?](https://dev.to/hashbyt/figma-vs-sketch-which-is-the-better-tool-for-ui-design-in-2025-3i13)
-- [React 19 New Features Explained with Examples](https://dev.to/mridudixit15/react-19-new-features-explained-with-examples-2f7o)
-- [Beyond Showcasing Work: How to Turn Your Portfolio into a Sales Funnel](https://dev.to/imtaslim/beyond-showcasing-work-how-to-turn-your-portfolio-into-a-sales-funnel-2ab0)
-- [Why PHP frameworks often &lpar;still&rpar; perform slower than Python / Go / Rust / Java frameworks](https://dev.to/m-a-h-b-u-b/why-php-frameworks-often-still-perform-slower-than-python-go-rust-java-frameworks-4457)
-- [Two Easy Ways to Cut Costs in AppSync Merged APIs](https://dev.to/aws-builders/two-easy-ways-to-cut-costs-in-appsync-merged-apis-3k94)
+- [👋 Hi, I’m Ines — Excited to Join dev.to!](https://dev.to/ines_bensaad_c16374d89f7/hi-im-ines-excited-to-join-devto-19kb)
+- [What are your goals for the week? #146 HacktoberFest is coming](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-146-hacktoberfest-is-coming-3o8d)
+- [TanStack Start to Mobile: Building Robust Apps with Capacitor](https://dev.to/aaronksaunders/tanstack-start-to-mobile-building-robust-apps-with-capacitor-24ae)
+- [The Future of Healthcare Is in Your Pocket: How to Build an mHealth App That Actually Works](https://dev.to/chillicode/the-future-of-healthcare-is-in-your-pocket-how-to-build-an-mhealth-app-that-actually-works-11d8)
+- [Probability - Introduction, axioms, Conditional and Bayes&#39; Rule](https://dev.to/yadav_prasadgb_34fcd06b/probability-introduction-axioms-conditional-and-bayes-rule-1on8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
