@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Specialized Archives: defaultdict, Counter, and OrderedDict](https://dev.to/aaron_rose_0787cc8b4775a0/the-specialized-archives-defaultdict-counter-and-ordereddict-mah)
-- [Navigating the AI Revolution: Coping with Job Stress and Uncertainty](https://dev.to/rgbos/navigating-the-ai-revolution-coping-with-job-stress-and-uncertainty-1c73)
-- [UX/UI and some industrial design for an air quality sensor](https://dev.to/liberiam/uxui-and-some-industrial-design-for-an-air-quality-sensor-16)
-- [🌐 Understanding Gateway Errors &lpar;500, 502, 503, 504&rpar; — An Expert End-to-End Guide for Developers ⚡](https://dev.to/yorgie7/understanding-gateway-errors-500-502-503-504-an-expert-end-to-end-guide-for-developers-2dp1)
-- [just nuked 120+ unused npm deps from a huge Nx monorepo](https://dev.to/john_james_c86b4f4f822e48/just-nuked-120-unused-npm-deps-from-a-huge-nx-monorepo-o17)
+- [ChatGPT Instant Checkout](https://dev.to/alifar/chatgpt-instant-checkout-10fh)
+- [🚀 Introducing Sain Bux: Full Stack Developer &amp; Research Enthusiast](https://dev.to/sain_bux_c936572cfe44d81a/introducing-sain-bux-full-stack-developer-research-enthusiast-1c21)
+- [Mastering Date and Time in C#](https://dev.to/ssukhpinder/mastering-date-and-time-in-c-dcp)
+- [PART 2 Starry: An Internal Developer Platform &lpar;IDP&rpar; for Ephemeral Environments](https://dev.to/flopi/part-2-starry-an-internal-developer-platform-idp-for-ephemeral-environments-192b)
+- [I Built a VS Code Extension That Stops Me From Writing Terrible AI Prompts &lpar;and it&#39;s kinda working&rpar;](https://dev.to/ntanwir10/i-built-a-vs-code-extension-that-stops-me-from-writing-terrible-ai-prompts-and-its-kinda-working-529i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
