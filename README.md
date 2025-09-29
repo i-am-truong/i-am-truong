@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [## Supervised learning — focus on classification](https://dev.to/gacherimutua/-supervised-learning-focus-on-classification-8pj)
-- [Candy Overdose: Trick-Or-Treating On The Internet 🎃🍬](https://dev.to/janis_kauss_9764ddef831ce/candy-overdose-trick-or-treating-on-the-internet-4g2k)
-- [Big Data Analytics with PySpark : A Beginner Friendly Guide](https://dev.to/peter_mari_772a2202e7fbf7/big-data-analytics-with-pyspark-a-beginner-friendly-guide-187d)
-- [I am an AI engineer, looking to dive into projects share your thoughts](https://dev.to/taliano008/i-am-an-ai-engineer-looking-to-dive-into-projects-share-your-thoughts-1m5n)
-- [WhatsApp + MCP: automatic audio transcription](https://dev.to/cloudx/whatsapp-mcp-automatic-audio-transcription-jbh)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4png)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1lna)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-bl)
+- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-14n1)
+- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-3kfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
