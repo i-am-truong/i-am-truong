@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Equity Investments](https://dev.to/madgan95/introduction-to-equity-investments-1d2h)
+- [Vedaacademy is a leading online education platform dedicated to providing NCERT Solutions for Classes 6 to 12, along with expert guidance for CBSE Board Exams. Visit us for more info:-https://vedaacademy.in/](https://dev.to/veda_academy_b7192f0a3388/vedaacademy-is-a-leading-online-education-platform-dedicated-to-providing-ncert-solutions-for-1o33)
 - [Get Notifications on Telegram Every Time Your Favorite X Account Tweets](https://dev.to/eleftheriabatsou/get-notifications-on-telegram-every-time-your-favorite-x-account-tweets-139b)
 - [Building a Blog API with Django REST Framework](https://dev.to/clement_odok_a968c16e80d7/building-a-blog-api-with-django-rest-framework-364o)
 - [Managing Human-in-the-Loop With Checkpoints – Neuron Workflow](https://dev.to/inspector/managing-human-in-the-loop-with-checkpoints-neuron-workflow-1lip)
-- [Cause and solution for the &quot;Unable to find an element with the text&quot; error in React Hook Form + Chakra UI](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-the-unable-to-find-an-element-with-the-text-error-in-react-hook-form--1j1i)
-- [Untitled](https://dev.to/abdullatif_alrsadh_588e66/untitled-417g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
