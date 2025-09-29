@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OverlayFS — The Magic Behind Docker](https://dev.to/hrrydgls/overlayfs-the-magic-behind-docker-52c6)
-- [The .NET Language Buffet: Which One Should You Pick?](https://dev.to/lamri_abdellahramdane_15/the-net-language-buffet-which-one-should-you-pick-31fn)
-- [Big Data Analytics with PySpark: A Beginner-Friendly Guide](https://dev.to/j_m47/big-data-analytics-with-pyspark-a-beginner-friendly-guide-59nf)
-- [Navigating the Ascent: Why the AI Value Curve is the Most Important Business Map of Our Time](https://dev.to/mcleanforresterllc/navigating-the-ascent-why-the-ai-value-curve-is-the-most-important-business-map-of-our-time-3e0n)
-- [Recipe: Immutable Data Updates with Kotlin](https://dev.to/tedhagos/recipe-immutable-data-updates-with-kotlin-1h43)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-a6a)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-496j)
+- [A — Assess the Metric &lpar;decide the next move&rpar;](https://dev.to/codebrainr/a-assess-the-metric-decide-the-next-move-43mg)
+- [KEXP: Cory Hanson - Bird On A Swing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bird-on-a-swing-live-on-kexp-1898)
+- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-5hfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
