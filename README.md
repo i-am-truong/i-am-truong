@@ -84,8 +84,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [The Ultimate JavaScript Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-javascript-roadmap-learn-step-by-step-53jj)
 - [Cheap PCB Manufacturers — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/cheap-pcb-manufacturers-an-engineers-practical-guide-i15)
 - [FriendsRate](https://dev.to/yugal/friendsrate-5cjl)
+- [Work hard, ship code, go home: Why hustle culture is cringe](https://dev.to/dev_tips/work-hard-ship-code-go-home-why-hustle-culture-is-cringe-2p4e)
 - [Why Your ASP.NET Core LogLevel &#39;Warning&#39; Still Sends Information Logs to Application Insights](https://dev.to/eelcolos/why-your-aspnet-core-loglevel-warning-still-sends-information-logs-to-application-insights-e94)
-- [What Is Agentic AI? A Deep Dive into the Architecture of Autonomous AI Agents](https://dev.to/brains_behind_bots/what-is-agentic-ai-a-deep-dive-into-the-architecture-of-autonomous-ai-agents-4bmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
