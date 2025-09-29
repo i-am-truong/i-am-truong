@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [## Supervised learning — focus on classification](https://dev.to/gacherimutua/-supervised-learning-focus-on-classification-8pj)
+- [Candy Overdose: Trick-Or-Treating On The Internet 🎃🍬](https://dev.to/janis_kauss_9764ddef831ce/candy-overdose-trick-or-treating-on-the-internet-4g2k)
 - [Big Data Analytics with PySpark : A Beginner Friendly Guide](https://dev.to/peter_mari_772a2202e7fbf7/big-data-analytics-with-pyspark-a-beginner-friendly-guide-187d)
+- [I am an AI engineer, looking to dive into projects share your thoughts](https://dev.to/taliano008/i-am-an-ai-engineer-looking-to-dive-into-projects-share-your-thoughts-1m5n)
 - [WhatsApp + MCP: automatic audio transcription](https://dev.to/cloudx/whatsapp-mcp-automatic-audio-transcription-jbh)
-- [How to Set Up an Umbrel Server on any home PC](https://dev.to/krikri2025/how-to-set-up-an-umbrel-server-on-any-home-pc-46ne)
-- [A Clean Tool for Mole Conversions and Molarity](https://dev.to/unitly/a-clean-tool-for-mole-conversions-and-molarity-4ffk)
-- [Meet TabMate - Your lightweight tab &amp; indentation support for textareas](https://dev.to/pascalboth/meet-tabmate-your-lightweight-tab-indentation-support-for-textareas-17do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
