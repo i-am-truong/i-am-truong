@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SSG, ISR, SSR, CSR: which strategy should I use in my Next.js e-commerce platform?](https://dev.to/u11d/ssg-isr-ssr-csr-which-strategy-should-i-use-in-my-nextjs-e-commerce-platform-4kjh)
+- [How to Fix 401 Unauthorized Error When Calling the API](https://dev.to/geoapify-maps-api/how-to-fix-401-unauthorized-error-when-calling-the-api-4kld)
+- [Proxy Pattern in Clprolf — Example with an Image](https://dev.to/charles_koffler_bcabc582b/proxy-pattern-in-clprolf-example-with-an-image-4lfb)
+- [My MERN Stack Journey: Building StyleMaven Quotes Blog](https://dev.to/rrr_blo0c9bfa0b18446/my-mern-stack-journey-building-stylemaven-quotes-blog-42mk)
 - [Number.isNaN&lpar;&rpar; vs isNaN&lpar;&rpar; in JavaScript : Explained⚡](https://dev.to/yorgie7/numberisnan-vs-isnan-in-javascript-explained-36a9)
-- [MassTransit in ASP.NET Core: A Practical Guide to Event-Driven .NET](https://dev.to/stevsharp/masstransit-in-aspnet-core-a-practical-guide-to-event-driven-net-c4k)
-- [Geo-restricted AI Video Generators: Is It Possible to Use Google&#39;s Veo3 Outside the US?](https://dev.to/astro-official/geo-restricted-ai-video-generators-is-it-possible-to-use-googles-veo3-outside-the-us-2bkf)
-- [Quick To Spot API/System Slow](https://dev.to/ikhwanal/quick-to-spot-apisystem-slow-eo7)
-- [🚀 Evaluasi dan Analisis Sistem: Kunci Menguasai Sistem IT Modern](https://dev.to/ahmadasroni38/evaluasi-dan-analisis-sistem-kunci-menguasai-sistem-it-modern-2a6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
