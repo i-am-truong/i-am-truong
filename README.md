@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a vscode extension to write code comment in the style of GPT](https://dev.to/shoummorauth/i-built-a-vscode-extension-to-write-code-comment-in-the-style-of-gpt-5fk0)
 - [Comparing Qodo and Cursor 🕵️](https://dev.to/dev_kiran/comparing-qodo-and-cursor-3mm)
 - [Optimizing Relationships with Online Visitors: The Concept of Visitor Relationship Management &lpar;VRM&rpar;](https://dev.to/dipti_moryani_9137d0a2e44/optimizing-relationships-with-online-visitors-the-concept-of-visitor-relationship-management-vrm-54o5)
 - [Your .join&lpar;&quot;, &quot;&rpar; Is Lying to You: Meet Intl.ListFormat](https://dev.to/josephciullo/your-join-is-lying-to-you-meet-intllistformat-53fb)
-- [Apple&#39;s &quot;Veritas&quot; Chatbot: Redefining Siri for 2026](https://dev.to/alexkk/apples-veritas-chatbot-redefining-siri-for-2026-4044)
-- [AWS open source newsletter, #214](https://dev.to/aws/aws-open-source-newsletter-214-ekm)
+- [Pen Testing OT/SCADA Systems](https://dev.to/godofgeeks/pen-testing-otscada-systems-4io8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
