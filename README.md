@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Tested GPU Time-Slicing With Real LLMs So You Don&#39;t Have To 🚀](https://dev.to/abraham_arellanotavara_7/i-tested-gpu-time-slicing-with-real-llms-so-you-dont-have-to-2n9d)
+- [Document Workflow Transformation: How Modern AI Models Transform CRM Systems](https://dev.to/igornosatov_15/document-workflow-transformation-how-modern-ai-models-transform-crm-systems-123d)
 - [From VM Chaos to Serverless Zen: My GitHub Webhook Journey 🚀](https://dev.to/techwithhari/from-vm-chaos-to-serverless-zen-my-github-webhook-journey-323h)
 - [even Pop!_OS now uses Rust for its desktop environment](https://dev.to/fedtti/even-popos-now-uses-rust-for-its-desktop-environment-4ag5)
 - [Setting Up PostgreSQL in Docker on Hetzner with SSL Certificates from Certbot](https://dev.to/damir_maham/setting-up-postgresql-in-docker-on-hetzner-with-ssl-certificates-from-certbot-3le3)
-- [Mastering BeautifulSoup: Parsing, Navigating, and Extracting Data Like a Pro](https://dev.to/nelson_orina_a538ba52e9ed/mastering-beautifulsoup-parsing-navigating-and-extracting-data-like-a-pro-enl)
-- [Using the Free Version of CodeAcademy](https://dev.to/magicrani35/using-the-free-version-of-codeacademy-11db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
