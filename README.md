@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Agent built with Strand Agent framework and deployed to Bedrock Agentcore](https://dev.to/hung____/aws-agent-built-with-strand-agent-framework-and-deployed-to-bedrock-agentcore-3h24)
-- [Taming the &quot;It Works on My Machine&quot; Monster with Docker](https://dev.to/learn_with_santosh/taming-the-it-works-on-my-machine-monster-with-docker-4c4a)
-- [28th Sept Tech Newzzz](https://dev.to/barak_codes/28th-sept-tech-newzzz-2lj8)
-- [Module 2 — Derived Identities and Secure Export Author: Antonio José Socorro Marín Fecha: 28 de septiembre de 2025](https://dev.to/antonio_socorro_95e3ff086/module-2-derived-identities-and-secure-export-author-antonio-jose-socorro-marin-fecha-28-de-81b)
-- [Business Dashboard Application](https://dev.to/albert_felixl_230fec2c92/business-dashboard-application-30am)
+- [Most developers often focus on building features fast. But sometimes a single security flaw can undo months of hard work. That&#39;s the hardest part of coding!](https://dev.to/jaideepparashar/most-developers-often-focus-on-building-features-fast-but-sometimes-a-single-security-flaw-can-1cln)
+- [Fandom Meets the Future: How Coca-Cola and Star Wars Are Using AR and AI to Redefine Fan Engagement](https://dev.to/balagmadhu/fandom-meets-the-future-how-coca-cola-and-star-wars-are-using-ar-and-ai-to-redefine-fan-engagement-4bk6)
+- [Large Language Models Demystified!](https://dev.to/aiwaaligirl/large-language-models-demystified-20i7)
+- [A Complete Guide to Apple Subscription Groups for Smarter In-App Purchases](https://dev.to/paywallpro/a-complete-guide-to-apple-subscription-groups-for-smarter-in-app-purchases-2ih7)
+- [Kendo Price Dashboard](https://dev.to/john_osazuwa_8214cdf06718/kendo-price-dashboard-2441)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
