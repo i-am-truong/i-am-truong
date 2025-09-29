@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate JavaScript Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-javascript-roadmap-learn-step-by-step-53jj)
-- [Cheap PCB Manufacturers — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/cheap-pcb-manufacturers-an-engineers-practical-guide-i15)
-- [FriendsRate](https://dev.to/yugal/friendsrate-5cjl)
-- [Work hard, ship code, go home: Why hustle culture is cringe](https://dev.to/dev_tips/work-hard-ship-code-go-home-why-hustle-culture-is-cringe-2p4e)
-- [Why Your ASP.NET Core LogLevel &#39;Warning&#39; Still Sends Information Logs to Application Insights](https://dev.to/eelcolos/why-your-aspnet-core-loglevel-warning-still-sends-information-logs-to-application-insights-e94)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4mni)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-383e)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-7ep)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-50j4)
+- [Test](https://dev.to/prime_299792/test-10ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
