@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloud vs Edge vs Local Architecture &lpar;Use-Case: Security Camera&rpar;.](https://dev.to/dksh_71/cloud-vs-edge-vs-local-architecture-use-case-security-camera-24jc)
-- [Common mistakes in DevOps metrics](https://dev.to/_steve_fenton_/common-mistakes-in-devops-metrics-34a0)
-- [A Design Pattern Every Python Developer Should Know](https://dev.to/artemooon/a-design-pattern-every-python-developer-should-know-mb8)
-- [Codex CLI Developer Guide](https://dev.to/dpaluy/codex-cli-developer-guide-4f03)
-- [Primary Key vs Foreign Key: A Complete Guide for Developers](https://dev.to/mohosin2126/primary-key-vs-foreign-key-a-complete-guide-for-developers-fle)
+- [Real-World AI Application: Netflix Recommendation System](https://dev.to/dksh_71/real-world-ai-application-netflix-recommendation-system-fkg)
+- [MITM proxy for security reviews based on golang.](https://dev.to/huaraz/mitm-proxy-for-security-reviews-based-on-golang-2o5a)
+- [Get Started with Fastest SQL Query Engine - Presto C++ &lpar;Prestissimo&rpar;: Beginner Friendly Setup Guide with Docker.](https://dev.to/saurabhmahawar/get-started-with-fastest-sql-query-engine-presto-c-prestissimo-beginner-friendly-setup-guide-32gk)
+- [When LeetCode Burnout Hits: A Realistic Guide to Getting Unstuck](https://dev.to/alex_hunter_44f4c9ed6671e/when-leetcode-burnout-hits-a-realistic-guide-to-getting-unstuck-2bej)
+- [Mastering Identity Management in Microsoft Entra ID: From Users to Roles](https://dev.to/sudaisib/mastering-identity-management-in-microsoft-entra-id-from-users-to-roles-2g82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
