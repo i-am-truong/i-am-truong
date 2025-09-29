@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10+ Pieces of Tech You Use Before Breakfast Without Even Realizing It](https://dev.to/canro91/10-pieces-of-tech-you-use-before-breakfast-without-even-realizing-it-3kpe)
+- [Web Development Without Code Editors: Is AI the New IDE?](https://dev.to/dct_technology/web-development-without-code-editors-is-ai-the-new-ide-4jij)
 - [From UI to XI: Designing eXperiential Interfaces](https://dev.to/dct_technology/from-ui-to-xi-designing-experiential-interfaces-5g2)
 - [📘 Foundation Phase Completed - Starting Phase 2 of My Journey](https://dev.to/ramyakaruturi/foundation-phase-completed-starting-phase-2-of-my-journey-5f5k)
 - [Multithreading and Thread class method](https://dev.to/preethi_nandhagopal_6d075/multithreading-and-thread-class-method-19ph)
-- [PrivacyDesk — DSR &amp; Consent Hub &lpar;KendoReact Free&rpar;](https://dev.to/sindhug29/privacydesk-dsr-consent-hub-kendoreact-free-1e9g)
-- [#DAY 4 - Expanding My Monitoring Scope: External &amp; Advanced Checks](https://dev.to/samueladeduntan/day-4-expanding-my-monitoring-scope-external-advanced-checks-5h4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
