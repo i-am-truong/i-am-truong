@@ -81,11 +81,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 19](https://dev.to/tomivan/coding-challenge-practice-question-19-23k0)
-- [🧠 How Different AI Agents Write Code from the Same Instructions: Cursor vs Copilot vs Windsurf](https://dev.to/mrbantsevich/how-different-ai-agents-write-code-from-the-same-instructions-cursor-vs-copilot-vs-windsurf-2f0l)
-- [I am saman, I am a beginner web developer of WordPress](https://dev.to/saman_siddique_235b732395/i-am-saman-i-am-a-beginner-web-developer-of-wordpress-2e5o)
-- [flutter ai: build smarter saas apps faster](https://dev.to/sonu_goswami/flutter-ai-build-smarter-saas-apps-faster-3ol)
-- [Best English to Portuguese Document Translation Software](https://dev.to/liamcorwin/best-english-to-portuguese-document-translation-software-29om)
+- [Building a Portfolio Site with FSD LangChain Remix AI](https://dev.to/nyaomaru/building-a-portfolio-site-with-fsd-langchain-remix-ai-c9h)
+- [How Kilo Code launched on Product Hunt](https://dev.to/fmerian/how-kilo-code-launched-on-product-hunt-24a2)
+- [Less Dependencies, Less Problems: How to keep node.js Package Footprint Minimal](https://dev.to/sebs/less-dependencies-less-problems-how-to-keep-nodejs-package-footprint-minimal-50o)
+- [🚀 Tired of messy repos and unclear project structures? Check out CodeTree at code-tree.dev ! 🌲 Visualize your codebase, explore structure fast, and onboard like a pro. Perfect for devs, teams &amp; open source. #DevTools #CodeReview](https://dev.to/trukes/tired-of-messy-repos-and-unclear-project-structures-check-out-codetree-at-code-treedev--3ffh)
+- [From Sheets to Quizzes: Automating Google Forms Like a Pro](https://dev.to/rajinh24/from-sheets-to-quizzes-automating-google-forms-like-a-pro-5gbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
