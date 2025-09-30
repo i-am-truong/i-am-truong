@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Agentic Video RAG with Strands Agents and Containerized Infrastructure](https://dev.to/aws/build-agentic-video-rag-with-strands-agents-and-containerized-infrastructure-4ibc)
+- [Hello World!](https://dev.to/sumitmarandi/hello-world-3ah)
 - [Behind the Scenes: How We Judge DEV Challenge Submissions](https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2)
 - [Shallow copy &amp; Deep copy in Python &lpar;11&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-11-4ib)
 - [Did you knew this before?](https://dev.to/_armasahar_/did-you-knew-this-before-3ol5)
-- [Intl CSS &amp; JS: the comedy of pain](https://dev.to/pixelperfect_pro/intl-css-js-the-comedy-of-pain-4l4e)
-- [How I Built a Private, Multi-User “Chat with Your Documents” App That Runs 100% Offline](https://dev.to/mmkarim_/how-i-built-a-private-multi-user-chat-with-your-documents-app-that-runs-100-offline-59ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
