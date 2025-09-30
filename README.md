@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 25: Latest Features, Examples, and Real-World Use Cases](https://dev.to/haraf/java-25-latest-features-examples-and-real-world-use-cases-43bd)
+- [Building Accessible Web Applications with Next.js](https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc)
+- [It took me a month to solve — Why chatgpt doesn&#39;t have a search, and i open sourced it!](https://dev.to/siv_io_/it-took-me-a-month-to-solve-why-chatgpt-doesnt-have-a-search-and-i-open-sourced-it-2kie)
+- [Exploring Fresh &lpar;Deno Framework&rpar; for the First Time: My Beginner’s Journey](https://dev.to/pjdeveloper896/exploring-fresh-deno-framework-for-the-first-time-my-beginners-journey-5ff0)
 - [TalentCrowd Fraud Exposed: The Hidden Story of Topdevs](https://dev.to/tobylokii/talentcrowd-fraud-exposed-the-hidden-story-of-topdevs-1o97)
-- [AI Code Reviews System so how can you automate this review System](https://dev.to/pratham_naik_project_manager/ai-code-reviews-system-so-how-can-you-automate-this-review-system-2bh4)
-- [যারা স্পোর্টস/চ্যানেল স্ট্রিম দেখেন তাদের জন্য ছোট্ট একটা টিপস](https://dev.to/shafiemoji/yaaraa-sporttscyaanel-sttrim-dekhen-taader-jny-chotttt-ekttaa-ttips-243i)
-- [AI Code Reviews: How Automated Tools Are Revolutionizing Developer Workflows in 3 Minutes](https://dev.to/teamcamp/ai-code-reviews-how-automated-tools-are-revolutionizing-developer-workflows-in-3-minutes-5he5)
-- [Do Fundamentals Still Matter When AI Codes for You?](https://dev.to/dct_technology/do-fundamentals-still-matter-when-ai-codes-for-you-2c39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
