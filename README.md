@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simultaneous Downloads with aria2 for Maximum Speed | Advanced Tutorial](https://dev.to/ernemivg/simultaneous-downloads-with-aria2-for-maximum-speed-advanced-tutorial-2l14)
+- [A Developer’s Deep Dive into EVM Transactions with Python](https://dev.to/onlineproxy/a-developers-deep-dive-into-evm-transactions-with-python-1l3a)
 - [Build Agentic Video RAG with Strands Agents and Containerized Infrastructure](https://dev.to/aws/build-agentic-video-rag-with-strands-agents-and-containerized-infrastructure-4ibc)
 - [Hello World!](https://dev.to/sumitmarandi/hello-world-3ah)
-- [Behind the Scenes: How We Judge DEV Challenge Submissions](https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2)
-- [Shallow copy &amp; Deep copy in Python &lpar;11&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-11-4ib)
-- [Did you knew this before?](https://dev.to/_armasahar_/did-you-knew-this-before-3ol5)
+- [Beyond YAML: Logic Compression for 50%+ LLM Cost &amp; Latency Reduction](https://dev.to/_768dd7ab130016ab8b0a/beyond-yaml-logic-compression-for-50-llm-cost-latency-reduction-2h48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
