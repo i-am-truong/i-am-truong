@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Usando RxJS com Signals no Angular: Uma Abordagem Moderna para Gerenciamento de Estado Reativo](https://dev.to/ikauedev/usando-rxjs-com-signals-no-angular-uma-abordagem-moderna-para-gerenciamento-de-estado-reativo-21o9)
+- [Plan vs Execute: Programming Tips](https://dev.to/devsmonkey/plan-vs-execute-4ngc)
 - [Master the Art of Consistent Characters in VEO 3 for Long-Form Videos](https://dev.to/nahianbinrahman/master-the-art-of-consistent-characters-in-veo-3-for-long-form-videos-2d9p)
 - [Addition is Not Communicative](https://dev.to/saenai/addition-is-not-communicative-328g)
 - [TypeScript Core Concepts Every Developer Should Know &lpar;Bengali&rpar;](https://dev.to/mehedihasan1102/typescript-core-concepts-every-developer-should-know-bengali-3ji8)
-- [Top 7 SEO Tips for Developers Writing Technical Blogs](https://dev.to/justin-green/top-7-seo-tips-for-developers-writing-technical-blogs-m6g)
-- [Mastering TCJSGame TileMap System: Building Complex Game Worlds](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-tilemap-system-building-complex-game-worlds-3g0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
