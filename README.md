@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: The Music Theory of Silksong&#39;s Bone Bottom Theme](https://dev.to/music_youtube/8-bit-music-theory-the-music-theory-of-silksongs-bone-bottom-theme-34be)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-la1)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-3679)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-e5g)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-48m5)
+- [The Frozen Collection Vault: frozenset and Set Immutability](https://dev.to/aaron_rose_0787cc8b4775a0/the-frozen-collection-vault-frozenset-and-set-immutability-25i7)
+- [IGN: Maid of Sker VR - Official Announcement Trailer | Horror Game Awards Showcase 2025](https://dev.to/gg_news/ign-maid-of-sker-vr-official-announcement-trailer-horror-game-awards-showcase-2025-2n1f)
+- [Cracking the Code: Decoding LLM Thought with Vector Symbolic Bridges](https://dev.to/arvind_sundararajan/cracking-the-code-decoding-llm-thought-with-vector-symbolic-bridges-2dbm)
+- [Securing Container Registries: Best Practices for Safe Image Management](https://dev.to/kapusto/securing-container-registries-best-practices-for-safe-image-management-3lj0)
+- [React Concurrent Mode Deep Dive - Complete Series, &lpar;You Do Not Know React Yet&rpar;](https://dev.to/mohamad_msalme_38f2508ea2/react-concurrent-mode-deep-dive-complete-series-you-do-not-know-react-yet-4a6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
