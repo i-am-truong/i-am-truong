@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Canonical URLs: A Simple Fix for One of SEO’s Biggest Problems](https://dev.to/rijultp/canonical-urls-a-simple-fix-for-one-of-seos-biggest-problems-27n)
-- [From Vision to Visualization: Building Pluggable Architecture for PHP](https://dev.to/homeless-coder/from-vision-to-visualization-building-pluggable-architecture-for-php-1olb)
-- [🚀 How the Browser Pre-Resource Loader Works: A Deep Dive 🖥️](https://dev.to/yorgie7/how-the-browser-pre-resource-loader-works-a-deep-dive-3nkm)
-- [🐘 Building a To-do API in .NET with PostgreSQL &lpar;Beginner Friendly&rpar;](https://dev.to/asutosh2001/building-a-to-do-api-in-net-with-postgresql-beginner-friendly-4k1d)
-- [How to create an OCI bucket using Terraform](https://dev.to/farisdurrani/how-to-create-an-oci-bucket-using-terraform-4mil)
+- [Behind the Scenes: How We Judge DEV Challenge Submissions](https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2)
+- [Shallow copy &amp; Deep copy in Python &lpar;11&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-11-4ib)
+- [Did you knew this before?](https://dev.to/_armasahar_/did-you-knew-this-before-3ol5)
+- [Intl CSS &amp; JS: the comedy of pain](https://dev.to/pixelperfect_pro/intl-css-js-the-comedy-of-pain-4l4e)
+- [How I Built a Private, Multi-User “Chat with Your Documents” App That Runs 100% Offline](https://dev.to/mmkarim_/how-i-built-a-private-multi-user-chat-with-your-documents-app-that-runs-100-offline-59ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
