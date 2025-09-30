@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ansible and GitOps: A Practical Guide](https://dev.to/muhabbat_dev/ansible-and-gitops-a-practical-guide-1m3n)
-- [Best AI Tools for Content Creators in 2025 &lpar;Free + Paid&rpar;](https://dev.to/sanjaynaker/best-ai-tools-for-content-creators-in-2025-free-paid-3mma)
-- [Mastering Node.js Events &amp; Event Emitters: A Complete Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-nodejs-events-event-emitters-a-complete-guide-mih)
-- [Mastering Child Processes in Node.js: A Complete Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-child-processes-in-nodejs-a-complete-guide-32g3)
-- [The Importance of Skewness and Kurtosis in EDA](https://dev.to/brenda_mutai_8a282e86666a/the-importance-of-skewness-and-kurtosis-in-eda-5c07)
+- [Automating Data Quality Checks: A Practical Guide Using Dagster and Great Expectations](https://dev.to/jurgitamotus/automating-data-quality-checks-a-practical-guide-using-dagster-and-great-expectations-2c83)
+- [Set Up RBAC for AI-Powered Clinical Workflows](https://dev.to/ciphernutz/set-up-rbac-for-ai-powered-clinical-workflows-25ld)
+- [Introducing `divider`: A Handy Utility to Split Strings and Arrays ✂️](https://dev.to/nyaomaru/introducing-divider-a-handy-utility-to-split-strings-and-arrays-2di5)
+- [Is Your Fridge About to Order Groceries for You? A Beginner&#39;s Guide to the Internet of Things &lpar;IoT&rpar;](https://dev.to/karthik_n/is-your-fridge-about-to-order-groceries-for-you-a-beginners-guide-to-the-internet-of-things-iot-163f)
+- [The Invisible Identifier: Mastering Context and Connectivity with the IP API](https://dev.to/esha_kamran_17f98209a0a21/the-invisible-identifier-mastering-context-and-connectivity-with-the-ip-api-40id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
