@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-2lmm)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-1ik4)
-- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-2olc)
-- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-29ae)
-- [KEXP: Fishbone - Dog Eat Dog &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-dog-eat-dog-live-on-kexp-1o5m)
+- [When I Went Blank in an Interview – and What I Learned About LINQ](https://dev.to/reenanms/when-i-went-blank-in-an-interview-and-what-i-learned-about-linq-41i5)
+- [Using Permission Boundaries for IAM Role Creation in AWS Organizations Management Account](https://dev.to/shu85t/using-permission-boundaries-for-iam-role-creation-in-aws-organizations-management-account-2j0d)
+- [Strengthening Identity Security: Performing Basic Multifactor Authentication &lpar;MFA&rpar; Tasks](https://dev.to/sudaisib/strengthening-identity-security-performing-basic-multifactor-authentication-mfa-tasks-23d3)
+- [Looki Launches $199 Kitten-Shaped AI Wearable Camera, Expanding AI Wearables Market](https://dev.to/ytosko/looki-launches-199-kitten-shaped-ai-wearable-camera-expanding-ai-wearables-market-2c57)
+- [Full Stack Open Course: My Experience with Parts 0-7](https://dev.to/saribeg/full-stack-open-course-my-experience-with-parts-0-7-2f5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
