@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The secret, powerful and simple testing framework hidden in FluxCD](https://dev.to/jaxels10/the-secret-powerful-and-simple-testing-framework-hidden-in-fluxcd-35df)
+- [🖼️ From Pixels to Performance: Understanding Layers in Web Rendering](https://dev.to/yorgie7/from-pixels-to-performance-understanding-layers-in-web-rendering-42cf)
 - [Using Claude for Chrome](https://dev.to/andremoreira73/using-claude-for-chrome-50hi)
 - [Sora 2: Next Generation Text-to-Video AI Explained](https://dev.to/alifar/sora-2-next-generation-text-to-video-ai-explained-acl)
 - [Day 20 and 21 of #30DaysOfCode](https://dev.to/justacoder_0x/day-20-and-21-of-30daysofcode-3ek3)
-- [get fields](https://dev.to/query_filter_591122b53770/get-fields-1403)
-- [⚡ The Power Behind Web Animations: GPU’s Role in the Critical Rendering Path 🖼️](https://dev.to/yorgie7/the-power-behind-web-animations-gpus-role-in-the-critical-rendering-path-27hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
