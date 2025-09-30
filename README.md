@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Minha Jornada para Fazer a Busca Vetorial Funcionar em C# com Pgvector e Alibaba-NLP](https://dev.to/edsonmiziara/minha-jornada-para-fazer-a-busca-vetorial-funcionar-em-c-com-pgvector-e-alibaba-nlp-22g2)
-- [Developing Rust TUI &lpar;Terminal User Interface&rpar; Applications](https://dev.to/davidcanhelp/developing-rust-tui-terminal-user-interface-applications-1n9i)
-- [Learning OpenGl part 2](https://dev.to/noticeablesmeh/learning-opengl-part-2-576m)
-- [Post-Cookie Web: Building Privacy-First Analytics That Actually Work](https://dev.to/pullflow/post-cookie-web-building-privacy-first-analytics-that-actually-work-3ee)
-- [From Zero to .glb: Building a Serverless 3D Asset Pipeline in with Rust and Cloudflare](https://dev.to/abraham_thomas_674162cfda/from-zero-to-glb-building-a-serverless-3d-asset-pipeline-in-with-rust-and-cloudflare-454l)
+- [The State of AI in Software Engineering: Q3 2025](https://dev.to/razoorka/the-state-of-ai-in-software-engineering-q3-2025-k5c)
+- [When CPUs Hit 100%: Hard-Earned Lessons from a Multichain Indexer Outage, with Bloom Filters as the Rescue.](https://dev.to/anhthii/when-cpus-hit-100-hard-earned-lessons-from-a-multichain-indexer-outage-with-bloom-filters-as-the-46af)
+- [Building a TypeScript Snake.io Game with Vue 3 and Claude Sonnet 4.5](https://dev.to/blamsa0mine/building-a-typescript-snakeio-game-with-vue-3-and-claude-sonnet-45-1p9k)
+- [`fn` utility in Opencode console package.](https://dev.to/ramunarasinga-11/fn-utility-in-opencode-console-package-2lk6)
+- [[Boost]](https://dev.to/borgim/-3dln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
