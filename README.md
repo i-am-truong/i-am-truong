@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Need your suggestions for Idea to start a tech club in college](https://dev.to/rudranarapogu/need-your-suggestions-for-idea-to-start-a-tech-club-in-college-3h4g)
-- [From Repeating Boilerplate to One-Click Insights: My Journey with pytest-html-plus](https://dev.to/kevi019/from-repeating-boilerplate-to-one-click-insights-my-journey-with-pytest-html-plus-1d49)
-- [Scaling Node.js Applications to Millions of Users: A Practical Guide](https://dev.to/m-a-h-b-u-b/scaling-nodejs-applications-to-millions-of-users-a-practical-guide-3mpm)
-- [How an AWS Agent Helped Me Optimize Resources Effortlessly](https://dev.to/aws-builders/how-an-aws-agent-helped-me-optimize-resources-effortlessly-59hi)
-- [Building a Production-Ready Medical AI Assistant with Python FastAPI, Tavili, Gemini &amp; LangChain](https://dev.to/fonyuygita/building-a-production-ready-medical-ai-assistant-with-python-fastapi-tavili-gemini-langchain-5693)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5953)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1c5c)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-551f)
+- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-4aij)
+- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-d4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
