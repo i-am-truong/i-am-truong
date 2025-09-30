@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I used to spend hours cleaning up messy code, sometimes my own, sometimes my teammates’. Now, I let AI handle much of the heavy lifting. Here is My AI Workflow so that you don&#39;t need to start from scratch!!](https://dev.to/jaideepparashar/i-used-to-spend-hours-cleaning-up-messy-code-sometimes-my-own-sometimes-my-teammates-now-i-let-52ab)
-- [EVM 小写地址转换为标准地址：（大小写混合）](https://dev.to/dragon72463399/evm-xiao-xie-di-zhi-zhuan-huan-wei-biao-zhun-di-zhi-da-xiao-xie-hun-he--2p4f)
-- [5 ChatGPT Prompts That Cut Dev Time by 2 Hours a Day &lpar;Copy + Paste&rpar;](https://dev.to/aisuperhub/5-chatgpt-prompts-that-cut-dev-time-by-2-hours-a-day-copy-paste-5b9a)
-- [Nano Banana: The AI Image Editing Revolution You&#39;ve Never Seen](https://dev.to/aiwithapex/nano-banana-the-ai-image-editing-revolution-youve-never-seen-3dj5)
-- [My AI Workflow for Writing Cleaner, Readable Code](https://dev.to/jaideepparashar/my-ai-workflow-for-writing-cleaner-readable-code-7of)
+- [TalentCrowd Fraud Exposed: The Hidden Story of Topdevs](https://dev.to/tobylokii/talentcrowd-fraud-exposed-the-hidden-story-of-topdevs-1o97)
+- [AI Code Reviews System so how can you automate this review System](https://dev.to/pratham_naik_project_manager/ai-code-reviews-system-so-how-can-you-automate-this-review-system-2bh4)
+- [যারা স্পোর্টস/চ্যানেল স্ট্রিম দেখেন তাদের জন্য ছোট্ট একটা টিপস](https://dev.to/shafiemoji/yaaraa-sporttscyaanel-sttrim-dekhen-taader-jny-chotttt-ekttaa-ttips-243i)
+- [AI Code Reviews: How Automated Tools Are Revolutionizing Developer Workflows in 3 Minutes](https://dev.to/teamcamp/ai-code-reviews-how-automated-tools-are-revolutionizing-developer-workflows-in-3-minutes-5he5)
+- [Do Fundamentals Still Matter When AI Codes for You?](https://dev.to/dct_technology/do-fundamentals-still-matter-when-ai-codes-for-you-2c39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
