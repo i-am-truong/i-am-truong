@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The secret, powerful and simple testing framework hidden in FluxCD](https://dev.to/jaxels10/the-secret-powerful-and-simple-testing-framework-hidden-in-fluxcd-35df)
-- [🖼️ From Pixels to Performance: Understanding Layers in Web Rendering](https://dev.to/yorgie7/from-pixels-to-performance-understanding-layers-in-web-rendering-42cf)
-- [Using Claude for Chrome](https://dev.to/andremoreira73/using-claude-for-chrome-50hi)
-- [Sora 2: Next Generation Text-to-Video AI Explained](https://dev.to/alifar/sora-2-next-generation-text-to-video-ai-explained-acl)
-- [Day 20 and 21 of #30DaysOfCode](https://dev.to/justacoder_0x/day-20-and-21-of-30daysofcode-3ek3)
+- [GameSpot: Borderlands 4 - C4SH Vault Hunter Reveal Trailer](https://dev.to/gg_news/gamespot-borderlands-4-c4sh-vault-hunter-reveal-trailer-3a3k)
+- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-50bo)
+- [GameSpot: Ghost of Yotei PS5 Pro Ray Tracing Pro vs Performance Mode](https://dev.to/gg_news/gamespot-ghost-of-yotei-ps5-pro-ray-tracing-pro-vs-performance-mode-4ifd)
+- [GameSpot: Call of Duty NEXT Showcase 2025 Livestream &lpar;Black Ops 7 Multiplayer, Zombies, Warzone &amp; more&rpar;](https://dev.to/gg_news/gamespot-call-of-duty-next-showcase-2025-livestream-black-ops-7-multiplayer-zombies-warzone--noj)
+- [IGN: LEGO Party Review](https://dev.to/gg_news/ign-lego-party-review-2368)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
