@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Robust Data Observability Framework to Ensure Data Quality and Integrity](https://dev.to/jurgitamotus/building-a-robust-data-observability-framework-to-ensure-data-quality-and-integrity-12hj)
-- [Securely Send SMS with Twilio, AWS Lambda, and Terraform](https://dev.to/andrewchaa/securely-send-sms-with-twilio-aws-lambda-and-terraform-1h22)
-- [Untangle Your Code: Chain of Responsibility Design Pattern](https://dev.to/mayallo/untangle-your-code-chain-of-responsibility-design-pattern-2o1h)
-- [Running MLflow in Azure Container Apps: Lessons from our setup](https://dev.to/evdbogaard/running-mlflow-in-azure-container-apps-lessons-from-our-setup-58jf)
-- [DOM-based XSS in-depth](https://dev.to/godofgeeks/dom-based-xss-in-depth-493f)
+- [#DAY 5 - Getting Proactive: Telegram Alert Configuration](https://dev.to/samueladeduntan/day-5-getting-proactive-telegram-alert-configuration-3c94)
+- [Tying It All Together : How Strands Agents Weave Together Retail Performance Analysis](https://dev.to/aws-builders/tying-it-all-together-how-strands-agents-weave-together-retail-performance-analysis-50p4)
+- [Understanding Joins and Data Blending in Tableau: A Practical Guide](https://dev.to/dipti_moryani_9137d0a2e44/understanding-joins-and-data-blending-in-tableau-a-practical-guide-1f7f)
+- [Blockchain for Enterprise: Key Use Cases, Features, and Challenges](https://dev.to/ideausherr/blockchain-for-enterprise-key-use-cases-features-and-challenges-cfc)
+- [Rethinking TypeScript Architecture: From Classes to Composable Functions](https://dev.to/theodordiaconu/rethinking-typescript-architecture-from-classes-to-composable-functions-4d69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
