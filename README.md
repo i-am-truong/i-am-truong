@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Race Conditions, Deadlocks, and Synchronisation in Python Multiprocessing](https://dev.to/imsushant12/race-conditions-deadlocks-and-synchronisation-in-python-multiprocessing-o2j)
-- [🧩 Micro Frontends – The Complete &lpar;But Brief&rpar; Guide](https://dev.to/hrithik_pasumarthi/micro-frontends-the-complete-but-brief-guide-398g)
-- [⚡ Understanding Time Taken in Service Calls: Method Calls vs. HTTP Service-to-Service Calls](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-time-taken-in-service-calls-method-calls-vs-http-service-to-service-calls-5adn)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-555e)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-14ag)
+- [I used to spend hours cleaning up messy code, sometimes my own, sometimes my teammates’. Now, I let AI handle much of the heavy lifting. Here is My AI Workflow so that you don&#39;t need to start from scratch!!](https://dev.to/jaideepparashar/i-used-to-spend-hours-cleaning-up-messy-code-sometimes-my-own-sometimes-my-teammates-now-i-let-52ab)
+- [EVM 小写地址转换为标准地址：（大小写混合）](https://dev.to/dragon72463399/evm-xiao-xie-di-zhi-zhuan-huan-wei-biao-zhun-di-zhi-da-xiao-xie-hun-he--2p4f)
+- [5 ChatGPT Prompts That Cut Dev Time by 2 Hours a Day &lpar;Copy + Paste&rpar;](https://dev.to/aisuperhub/5-chatgpt-prompts-that-cut-dev-time-by-2-hours-a-day-copy-paste-5b9a)
+- [Nano Banana: The AI Image Editing Revolution You&#39;ve Never Seen](https://dev.to/aiwithapex/nano-banana-the-ai-image-editing-revolution-youve-never-seen-3dj5)
+- [My AI Workflow for Writing Cleaner, Readable Code](https://dev.to/jaideepparashar/my-ai-workflow-for-writing-cleaner-readable-code-7of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
