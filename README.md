@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Software Design Patterns Matter for Cybersecurity](https://dev.to/ihonchar/why-software-design-patterns-matter-for-cybersecurity-377e)
-- [Stop Your UMAP From Moving: The Pipeline Randomness You&#39;re Missing](https://dev.to/afujihara/stop-your-umap-from-moving-the-pipeline-randomness-youre-missing-gje)
-- [Automating SBOM Generation and Vulnerability Analysis](https://dev.to/mdabir1203/automating-sbom-generation-and-vulnerability-analysis-54pi)
-- [Beyond Components and Design Tokens](https://dev.to/willyelm/beyond-components-and-design-tokens-52im)
-- [An Instruction Analysis MCP Usage Case](https://dev.to/xiaodao/an-instruction-analysis-mcp-usage-case-4eel)
+- [Why I Built a Simple Decision-Making Tool](https://dev.to/myfunny/why-i-built-a-simple-decision-making-tool-5b8a)
+- [Build Your Own Jarvis AI Assistant in Python 🚀](https://dev.to/bilal-dev-0x/build-your-own-jarvis-ai-assistant-in-python-421c)
+- [Agent Diary: Sep 30, 2025 - The Day of Surgical Precision &lpar;And One Failed Diary Entry&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-30-2025-the-day-of-surgical-precision-and-one-failed-diary-entry-2b61)
+- [Analyzing Performance Improvements of AI Models Using Wasm at the Edge](https://dev.to/arjun_rk_dc400053b26f500/analyzing-performance-improvements-of-ai-models-using-wasm-at-the-edge-3lho)
+- [Zustand: the benefit of a state management library](https://dev.to/_75471dfd9e2ab1d33dc5d8/zustand-the-benefit-of-a-state-management-library-4h9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
