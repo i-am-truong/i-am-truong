@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can some Biblical Principles be applied in the Amazon Leadership Principles?](https://dev.to/wiangube/can-some-biblical-principles-be-applied-in-the-amazon-leadership-principles-8kg)
-- [Lambda can pull image from ECR](https://dev.to/wakeup_flower_8591a6cb6a9/lambda-can-pull-image-from-ecr-10ij)
-- [Just built a SaaS in 36 hours](https://dev.to/clarktechventuresdev/just-built-a-saas-in-36-hours-5n4)
-- [The State of AI in Software Engineering: Q3 2025](https://dev.to/razoorka/the-state-of-ai-in-software-engineering-q3-2025-k5c)
-- [When CPUs Hit 100%: Hard-Earned Lessons from a Multichain Indexer Outage, with Bloom Filters as the Rescue.](https://dev.to/anhthii/when-cpus-hit-100-hard-earned-lessons-from-a-multichain-indexer-outage-with-bloom-filters-as-the-46af)
+- [Why? Because Ruby.](https://dev.to/davidcanhelp/why-because-ruby-2m0p)
+- [Java Architecture](https://dev.to/2021_cse_gayathrir_e733/java-architecture-4cf1)
+- [🌐 Understanding DNS &lpar;Domain Name System&rpar;: The Internet’s Phonebook](https://dev.to/hetvi_undhad_aa27517e647d/understanding-dns-domain-name-system-the-internets-phonebook-357o)
+- [Solving EKS Cluster Games](https://dev.to/aws-builders/solving-eks-cluster-games-3i9h)
+- [How to Develop iOS Apps on Windows in 2026 [6 Best Ways]](https://dev.to/morrismoses149/how-to-develop-ios-apps-on-windows-in-2026-6-best-ways-4kg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
