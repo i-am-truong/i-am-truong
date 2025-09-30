@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Frozen Collection Vault: frozenset and Set Immutability](https://dev.to/aaron_rose_0787cc8b4775a0/the-frozen-collection-vault-frozenset-and-set-immutability-25i7)
-- [IGN: Maid of Sker VR - Official Announcement Trailer | Horror Game Awards Showcase 2025](https://dev.to/gg_news/ign-maid-of-sker-vr-official-announcement-trailer-horror-game-awards-showcase-2025-2n1f)
-- [Cracking the Code: Decoding LLM Thought with Vector Symbolic Bridges](https://dev.to/arvind_sundararajan/cracking-the-code-decoding-llm-thought-with-vector-symbolic-bridges-2dbm)
-- [Securing Container Registries: Best Practices for Safe Image Management](https://dev.to/kapusto/securing-container-registries-best-practices-for-safe-image-management-3lj0)
-- [React Concurrent Mode Deep Dive - Complete Series, &lpar;You Do Not Know React Yet&rpar;](https://dev.to/mohamad_msalme_38f2508ea2/react-concurrent-mode-deep-dive-complete-series-you-do-not-know-react-yet-4a6h)
+- [Sparse Models and the Efficiency Revolution in AI](https://dev.to/maurizio_morri_f7f4bd128c/sparse-models-and-the-efficiency-revolution-in-ai-32ep)
+- [Dev Log 27 - Gear Registry Refactor](https://dev.to/asx/dev-log-27-gear-registry-refactor-bpf)
+- [React: Building an Independent Modal with createRoot](https://dev.to/lico/react-building-an-independent-modal-with-createroot-4p71)
+- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2j5i)
+- [50 Most Useful JavaScript Snippets](https://dev.to/jsdev01/50-most-useful-javascript-snippets-3b3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
