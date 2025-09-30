@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Designing for Security, Scalability, and Performance](https://dev.to/th33k/designing-for-security-scalability-and-performance-2dld)
+- [Environment transitions based on all agents&#39; actions](https://dev.to/rikinptl/environment-transitions-based-on-all-agents-actions-521l)
 - [Leaving Breadcrumbs for Your AI: The Hansel and Gretel Approach](https://dev.to/trivedivatsal/leaving-breadcrumbs-for-your-ai-the-hansel-and-gretel-approach-132f)
-- [Dating App Development: A Complete Guide to Building the Next Big Social Platform](https://dev.to/daxitarajm/dating-app-development-a-complete-guide-to-building-the-next-big-social-platform-2df3)
 - [Developers&#39; library for React, Next templates](https://dev.to/shreyvijayvargiya/developers-library-for-react-next-templates-4cmh)
-- [Outil de Cybersécurité du Jour - Sep 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-30-2025-14f2)
 - [How we moved Crawlee for Python out of Beta](https://dev.to/crawlee/how-we-moved-crawlee-for-python-out-of-beta-33bi)
 <!-- BLOG-POST-LIST:END -->
 
