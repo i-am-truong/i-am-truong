@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [How an AWS Agent Helped Me Optimize Resources Effortlessly](https://dev.to/aws-builders/how-an-aws-agent-helped-me-optimize-resources-effortlessly-59hi)
 - [Building a Production-Ready Medical AI Assistant with Python FastAPI, Tavili, Gemini &amp; LangChain](https://dev.to/fonyuygita/building-a-production-ready-medical-ai-assistant-with-python-fastapi-tavili-gemini-langchain-5693)
 - [OIDC Trusted Publishing with Lerna-Lite](https://dev.to/ghiscoding/oidc-trusted-publishing-with-lerna-lite-1o98)
-- [Java 25: Latest Features, Examples, and Real-World Use Cases](https://dev.to/haraf/java-25-latest-features-examples-and-real-world-use-cases-43bd)
+- [Building Accessible Web Applications with Next.js](https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
