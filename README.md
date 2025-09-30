@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Robust Data Observability Framework to Ensure Data Quality and Integrity](https://dev.to/jurgitamotus/building-a-robust-data-observability-framework-to-ensure-data-quality-and-integrity-12hj)
 - [Securely Send SMS with Twilio, AWS Lambda, and Terraform](https://dev.to/andrewchaa/securely-send-sms-with-twilio-aws-lambda-and-terraform-1h22)
 - [Untangle Your Code: Chain of Responsibility Design Pattern](https://dev.to/mayallo/untangle-your-code-chain-of-responsibility-design-pattern-2o1h)
 - [Running MLflow in Azure Container Apps: Lessons from our setup](https://dev.to/evdbogaard/running-mlflow-in-azure-container-apps-lessons-from-our-setup-58jf)
-- [Mastering Tableau Without Getting Lost: A Practical Guide to Data Visualization](https://dev.to/thedatageek/mastering-tableau-without-getting-lost-a-practical-guide-to-data-visualization-3di7)
-- [AI Features to Add to Your Software Solutions](https://dev.to/sunny7899/ai-features-to-add-to-your-software-solutions-2n31)
+- [DOM-based XSS in-depth](https://dev.to/godofgeeks/dom-based-xss-in-depth-493f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
