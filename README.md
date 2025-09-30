@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The CSS Ordering Quiz That Will Break Your Next.js Assumptions](https://dev.to/alessandro-grosselle/the-css-ordering-quiz-that-will-break-your-nextjs-assumptions-a0m)
-- [Build Your Own GPT from Scratch with C# and TorchSharp &lpar;CPU-Only!&rpar;](https://dev.to/auyeungdavid_2847435260/build-your-own-gpt-from-scratch-with-c-and-torchsharp-cpu-only-3ch5)
-- [Enhancing Account Security in Microsoft Entra ID: Password Protection and Self-Service Reset](https://dev.to/sudaisib/enhancing-account-security-in-microsoft-entra-id-password-protection-and-self-service-reset-2j4a)
-- [Trusted Publishers: Making Package Publishing Safer – What You Need to Know](https://dev.to/freakynit/trusted-publishers-making-package-publishing-safer-what-you-need-to-know-5dg8)
-- [Infrastructure testing in practice](https://dev.to/rgeraskin/infrastructure-testing-in-practice-1jpb)
+- [Why did Lucid created Google Workspace integrations](https://dev.to/googleworkspace/why-did-lucid-created-google-workspace-integrations-m6n)
+- [Building the Future of AI? Azure AI Foundry Might Be Your New Best Friend.](https://dev.to/sreeni5018/building-the-future-of-ai-azure-ai-foundry-might-be-your-new-best-friend-2pb3)
+- [Shipping a Zero-Maintenance SEO Health Check with GitHub Actions](https://dev.to/andreas_a/shipping-a-zero-maintenance-seo-health-check-with-github-actions-12gi)
+- [Spread Operator and Chaining in JS/TS](https://dev.to/grantdotdev/spread-operator-and-chaining-in-jsts-1227)
+- [Why IoC and DI feel the same, but are actually not](https://dev.to/rohan_mhadgut_10/why-ioc-and-di-feel-the-same-but-are-actually-not-30kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
