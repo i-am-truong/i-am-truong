@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [When I Went Blank in an Interview – and What I Learned About LINQ](https://dev.to/reenanms/when-i-went-blank-in-an-interview-and-what-i-learned-about-linq-41i5)
+- [MongoDB Server Performance Profiling in Simple Way through Compass Shell](https://dev.to/devaaai/mongodb-server-performance-profiling-in-simple-way-through-compass-39aj)
 - [Using Permission Boundaries for IAM Role Creation in AWS Organizations Management Account](https://dev.to/shu85t/using-permission-boundaries-for-iam-role-creation-in-aws-organizations-management-account-2j0d)
 - [Strengthening Identity Security: Performing Basic Multifactor Authentication &lpar;MFA&rpar; Tasks](https://dev.to/sudaisib/strengthening-identity-security-performing-basic-multifactor-authentication-mfa-tasks-23d3)
 - [Looki Launches $199 Kitten-Shaped AI Wearable Camera, Expanding AI Wearables Market](https://dev.to/ytosko/looki-launches-199-kitten-shaped-ai-wearable-camera-expanding-ai-wearables-market-2c57)
-- [Full Stack Open Course: My Experience with Parts 0-7](https://dev.to/saribeg/full-stack-open-course-my-experience-with-parts-0-7-2f5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
