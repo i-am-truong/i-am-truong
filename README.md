@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Free Image Optimization API &lpar;with WordPress Plugin Integration&rpar;](https://dev.to/tinysharp_8b688d65139fe42/how-i-built-a-free-image-optimization-api-with-wordpress-plugin-integration-1g98)
-- [A Developer&#39;s Guide to Building a Precious Metals Converter](https://dev.to/unitly/a-developers-guide-to-building-a-precious-metals-converter-65a)
-- [lekdetectie utrecht: Zo beschermt u uw woning tegen onzichtbare schade](https://dev.to/wwloodgietersbedrijf/lekdetectie-utrecht-zo-beschermt-u-uw-woning-tegen-onzichtbare-schade-2knb)
-- [How Blocking Port 80 Made My Time API Project More Secure &lpar;And More Annoying&rpar;](https://dev.to/victorthegreat7/how-blocking-port-80-made-my-time-api-project-more-secure-and-more-annoying-4a8e)
-- [🌐 &#39;Synthetic Audio Aesthetics&#39;: Revolutionizing Emotional Ex](https://dev.to/drcarlosruizviquez/synthetic-audio-aesthetics-revolutionizing-emotional-ex-50i8)
+- [JavaScript revision blew my mind today.](https://dev.to/yashi_srivastava_9166487c/javascript-revision-blew-my-mind-today-3db)
+- [Decorator Pattern in Clprolf — Example with Coffee](https://dev.to/charles_koffler_bcabc582b/decorator-pattern-in-clprolf-example-with-coffee-3pol)
+- [I Tried Kombai in My IDE: Here’s Why It Outperforms Cursor, Claude, and Copilot for Frontend](https://dev.to/envitab/i-tried-kombai-in-my-ide-heres-why-it-outperforms-cursor-claude-and-copilot-for-frontend-26cg)
+- [The AI Revolution in Development Is Here: Introducing the AI-Driven Development &lpar;AIDD&rpar; Course](https://dev.to/chiara_porcelli_df7ef20dc/the-ai-revolution-in-development-is-here-introducing-the-ai-driven-development-aidd-course-5829)
+- [Filling Out Forms with Playwright: Choosing Between `fill&lpar;&rpar;` and `pressSequentially&lpar;&rpar;`](https://dev.to/nocnica/filling-out-forms-with-playwright-choosing-between-fill-and-presssequentially-3m4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
