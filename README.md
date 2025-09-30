@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Membership Registry: Set Operations and Uniqueness](https://dev.to/aaron_rose_0787cc8b4775a0/the-membership-registry-set-operations-and-uniqueness-3n0k)
 - [The complete guide to evals](https://dev.to/thisismairaj/the-complete-guide-to-evals-3nd3)
 - [I don&#39;t want to not be a programmer. A developer&#39;s self reflection journey.](https://dev.to/spinualexandru/i-dont-want-to-not-be-a-programmer-a-developers-self-reflection-journey-4aaf)
 - [React Concurrent Mode Isn&#39;t Magic - It&#39;s Just Really Smart Priorities &lpar;And This Changes Everything&rpar;](https://dev.to/mohamad_msalme_38f2508ea2/react-concurrent-mode-isnt-magic-its-just-really-smart-priorities-and-this-changes-everything-1mp)
 - [CLAUTH: An open-source CLI to simplify AWS Bedrock setup for Claude Code users](https://dev.to/mahmood_khordoo_20b3f5980/clauth-an-open-source-cli-to-simplify-aws-bedrock-setup-for-claude-code-users-k8k)
-- [Introducing MetaPrompt: Write, Test, and Use Context in Cursor](https://dev.to/mnemonicaai/introducing-metaprompt-write-test-and-use-context-in-cursor-4232)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
