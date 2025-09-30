@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sparse Models and the Efficiency Revolution in AI](https://dev.to/maurizio_morri_f7f4bd128c/sparse-models-and-the-efficiency-revolution-in-ai-32ep)
-- [Dev Log 27 - Gear Registry Refactor](https://dev.to/asx/dev-log-27-gear-registry-refactor-bpf)
-- [React: Building an Independent Modal with createRoot](https://dev.to/lico/react-building-an-independent-modal-with-createroot-4p71)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2j5i)
-- [50 Most Useful JavaScript Snippets](https://dev.to/jsdev01/50-most-useful-javascript-snippets-3b3h)
+- [Master the Art of Consistent Characters in VEO 3 for Long-Form Videos](https://dev.to/nahianbinrahman/master-the-art-of-consistent-characters-in-veo-3-for-long-form-videos-2d9p)
+- [Addition is Not Communicative](https://dev.to/saenai/addition-is-not-communicative-328g)
+- [TypeScript Core Concepts Every Developer Should Know &lpar;Bengali&rpar;](https://dev.to/mehedihasan1102/typescript-core-concepts-every-developer-should-know-bengali-3ji8)
+- [Top 7 SEO Tips for Developers Writing Technical Blogs](https://dev.to/justin-green/top-7-seo-tips-for-developers-writing-technical-blogs-m6g)
+- [Mastering TCJSGame TileMap System: Building Complex Game Worlds](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-tilemap-system-building-complex-game-worlds-3g0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
