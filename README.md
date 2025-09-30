@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git Exposed, Part 1: Git Isn’t What You Think It Is](https://dev.to/_armasahar_/git-exposed-part-1-git-isnt-what-you-think-it-is-p7l)
-- [Integrating Lipa na MPESA &lpar;KCB MPESA STK Push&rpar; with Node.js](https://dev.to/msnmongare/integrating-lipa-na-mpesa-kcb-mpesa-stk-push-with-nodejs-34kp)
-- [PostgreSQL 18 Uncovered: Asynchronous I/O, UUIDv7, and Pain-Free Upgrades](https://dev.to/thedavestack/postgresql-18-uncovered-asynchronous-io-uuidv7-and-pain-free-upgrades-3kna)
-- [Forget MCP, Use OpenAPI for external operations](https://dev.to/expecho/forget-mcp-use-openapi-for-external-operations-4gc4)
-- [MAXIMOS SECRET FRANCO TRICK: The Flicker-Hook-Ult Combo | Mobile Legends Gameplay](https://dev.to/maximogames/maximos-secret-franco-trick-the-flicker-hook-ult-combo-mobile-legends-gameplay-4520)
+- [CloudFormation as best practice](https://dev.to/wakeup_flower_8591a6cb6a9/cloudformation-as-best-practice-1900)
+- [Building an In-Memory Background Job Queue in ASP.NET Core &lpar;Intro + Deep Dive Link&rpar;](https://dev.to/oguzhan-agir-02/building-an-in-memory-background-job-queue-in-aspnet-core-intro-deep-dive-link-11aj)
+- [🚀 React useState Lazy Initialization: A Complete Guide](https://dev.to/davidecannerozzi/react-usestate-lazy-initialization-a-complete-guide-1bck)
+- [OWASP AppSec Days France 2025: Learning To Defend The Global Supply Chain Together](https://dev.to/gitguardian/owasp-appsec-days-france-2025-learning-to-defend-the-global-supply-chain-together-1bpc)
+- [S3 cross region replication](https://dev.to/wakeup_flower_8591a6cb6a9/s3-cross-region-replication-22eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
