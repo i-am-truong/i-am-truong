@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cómo construí AulaLens en 24h y gané un MacBook en el proceso](https://dev.to/glabory/como-construi-aulalens-en-24h-y-gane-un-macbook-en-el-proceso-5li)
-- [Build a Flappy Bird Clone with TCJSGame in 30 Minutes](https://dev.to/kehinde_owolabi_e2e54567a/build-a-flappy-bird-clone-with-tcjsgame-in-30-minutes-4lpe)
-- [I don&#39;t want to not be a programmer. A developer&#39;s self reflection journey.](https://dev.to/alex_spinu/i-dont-want-to-not-be-a-programmer-a-developers-self-reflection-journey-2bo9)
-- [JavaScript Fundamentals - Variables: The Foundation of Any Program](https://dev.to/martinxcvi/javascript-fundamentals-variables-the-foundation-of-any-program-4ibp)
-- [Publishing Your TCJSGame: A Complete Guide to Sharing Your Creation with the World](https://dev.to/kehinde_owolabi_e2e54567a/publishing-your-tcjsgame-a-complete-guide-to-sharing-your-creation-with-the-world-2fo8)
+- [I Built a Smarter Rich-Text Editor with Live JS Blocks and Self-Converting Inputs](https://dev.to/nextblockcms/i-built-a-smarter-rich-text-editor-with-live-js-blocks-and-self-converting-inputs-i3d)
+- [Migrating Django from MySQL to Oracle: Handling Existing Tables and Many-to-Many Relationships](https://dev.to/jayson_gellido_0e72103fd0/migrating-django-from-mysql-to-oracle-handling-existing-tables-and-many-to-many-relationships-5anh)
+- [Bot de Monitoramento para SushiSwap V3 em Go — Parte 1](https://dev.to/sertaoseracloud/bot-de-monitoramento-para-sushiswap-v3-em-go-parte-1-4ge2)
+- [Solving response Token 25k limit Wall: Introducing mcp-cache](https://dev.to/swapnilsurdi/solving-ais-25000-token-wall-introducing-mcp-cache-1fie)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-4knd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
