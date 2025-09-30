@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ob8)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1f1g)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-48o5)
-- [NPR Music: Adrian Quesada: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-adrian-quesada-tiny-desk-concert-2jod)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-24k0)
+- [The Importance of Skewness and Kurtosis in EDA](https://dev.to/brenda_mutai_8a282e86666a/the-importance-of-skewness-and-kurtosis-in-eda-5c07)
+- [How to Use an API to Get Data: A Step-by-Step Guide for Beginners APIs](https://dev.to/saira_zeeshan_35fc05971fd/how-to-use-an-api-to-get-data-a-step-by-step-guide-for-beginnersapis-1j50)
+- [How Azure Cognitive Services Simplifies AI for Developers](https://dev.to/skilltech/how-azure-cognitive-services-simplifies-ai-for-developers-2l6o)
+- [Mastering the Node.js Process Object: A Developer&#39;s Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-the-nodejs-process-object-a-developers-guide-27hj)
+- [How Zero-Knowledge Architecture Improves Data Security](https://dev.to/rakesh_sharma_efca3bdf6bf/how-zero-knowledge-architecture-improves-data-security-6m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
