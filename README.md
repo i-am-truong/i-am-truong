@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why? Because Ruby.](https://dev.to/davidcanhelp/why-because-ruby-2m0p)
-- [Java Architecture](https://dev.to/2021_cse_gayathrir_e733/java-architecture-4cf1)
-- [🌐 Understanding DNS &lpar;Domain Name System&rpar;: The Internet’s Phonebook](https://dev.to/hetvi_undhad_aa27517e647d/understanding-dns-domain-name-system-the-internets-phonebook-357o)
-- [Solving EKS Cluster Games](https://dev.to/aws-builders/solving-eks-cluster-games-3i9h)
-- [How to Develop iOS Apps on Windows in 2026 [6 Best Ways]](https://dev.to/morrismoses149/how-to-develop-ios-apps-on-windows-in-2026-6-best-ways-4kg9)
+- [I Built a Full-Stack Proxy with a Dashboard to Scale the Gemini API. Stop Juggling Keys](https://dev.to/lehuygiang28/i-built-a-full-stack-proxy-with-a-dashboard-to-scale-the-gemini-api-stop-juggling-keys-3a3l)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-38eb)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3ch8)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-239)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-big)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
