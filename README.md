@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Custom Data Types in DbSchema](https://dev.to/roxana_haidiner/how-to-create-custom-data-types-in-dbschema-2j0p)
-- [100 Days of DevOps: Day 58](https://dev.to/wycliffealphus/100-days-of-devops-day-58-3039)
-- [Why We Used a Data Gateway to Connect On-Prem SQL with Microsoft Fabric](https://dev.to/prachibhende/why-we-used-a-data-gateway-to-connect-on-prem-sql-with-microsoft-fabric-4i08)
-- [The Rise of Open-Source Data Catalogs: New Opportunities For Implementing Data Mesh](https://dev.to/jurgitamotus/the-rise-of-open-source-data-catalogs-new-opportunities-for-implementing-data-mesh-107n)
-- [Best Technology Stack for Generative AI Development](https://dev.to/divyang_sharma_1b370c4986/best-technology-stack-for-generative-ai-development-5f4l)
+- [Git Exposed, Part 1: Git Isn’t What You Think It Is](https://dev.to/_armasahar_/git-exposed-part-1-git-isnt-what-you-think-it-is-p7l)
+- [Integrating Lipa na MPESA &lpar;KCB MPESA STK Push&rpar; with Node.js](https://dev.to/msnmongare/integrating-lipa-na-mpesa-kcb-mpesa-stk-push-with-nodejs-34kp)
+- [PostgreSQL 18 Uncovered: Asynchronous I/O, UUIDv7, and Pain-Free Upgrades](https://dev.to/thedavestack/postgresql-18-uncovered-asynchronous-io-uuidv7-and-pain-free-upgrades-3kna)
+- [Forget MCP, Use OpenAPI for external operations](https://dev.to/expecho/forget-mcp-use-openapi-for-external-operations-4gc4)
+- [MAXIMOS SECRET FRANCO TRICK: The Flicker-Hook-Ult Combo | Mobile Legends Gameplay](https://dev.to/maximogames/maximos-secret-franco-trick-the-flicker-hook-ult-combo-mobile-legends-gameplay-4520)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
