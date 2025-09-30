@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Data Quality Checks: A Practical Guide Using Dagster and Great Expectations](https://dev.to/jurgitamotus/automating-data-quality-checks-a-practical-guide-using-dagster-and-great-expectations-2c83)
-- [Set Up RBAC for AI-Powered Clinical Workflows](https://dev.to/ciphernutz/set-up-rbac-for-ai-powered-clinical-workflows-25ld)
-- [Introducing `divider`: A Handy Utility to Split Strings and Arrays ✂️](https://dev.to/nyaomaru/introducing-divider-a-handy-utility-to-split-strings-and-arrays-2di5)
-- [Is Your Fridge About to Order Groceries for You? A Beginner&#39;s Guide to the Internet of Things &lpar;IoT&rpar;](https://dev.to/karthik_n/is-your-fridge-about-to-order-groceries-for-you-a-beginners-guide-to-the-internet-of-things-iot-163f)
-- [The Invisible Identifier: Mastering Context and Connectivity with the IP API](https://dev.to/esha_kamran_17f98209a0a21/the-invisible-identifier-mastering-context-and-connectivity-with-the-ip-api-40id)
+- [Why We Used a Data Gateway to Connect On-Prem SQL with Microsoft Fabric](https://dev.to/prachibhende/why-we-used-a-data-gateway-to-connect-on-prem-sql-with-microsoft-fabric-4i08)
+- [The Rise of Open-Source Data Catalogs: New Opportunities For Implementing Data Mesh](https://dev.to/jurgitamotus/the-rise-of-open-source-data-catalogs-new-opportunities-for-implementing-data-mesh-107n)
+- [Best Technology Stack for Generative AI Development](https://dev.to/divyang_sharma_1b370c4986/best-technology-stack-for-generative-ai-development-5f4l)
+- [Stop Guessing, Start Proving: A Developer&#39;s Guide to Calculating Content Marketing ROI](https://dev.to/michaelaiglobal/stop-guessing-start-proving-a-developers-guide-to-calculating-content-marketing-roi-1gdj)
+- [Sony Music&#39;s Legal Offensive Against AI](https://dev.to/rawveg/sony-musics-legal-offensive-against-ai-4nd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
