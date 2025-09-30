@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Full-Stack Proxy with a Dashboard to Scale the Gemini API. Stop Juggling Keys](https://dev.to/lehuygiang28/i-built-a-full-stack-proxy-with-a-dashboard-to-scale-the-gemini-api-stop-juggling-keys-3a3l)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-38eb)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3ch8)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-239)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-big)
+- [How Blocking Port 80 Made My Time API Project More Secure &lpar;And More Annoying&rpar;](https://dev.to/victorthegreat7/how-blocking-port-80-made-my-time-api-project-more-secure-and-more-annoying-4a8e)
+- [🌐 &#39;Synthetic Audio Aesthetics&#39;: Revolutionizing Emotional Ex](https://dev.to/drcarlosruizviquez/synthetic-audio-aesthetics-revolutionizing-emotional-ex-50i8)
+- [Getting Started with IoT: Your First Steps with Arduino IDE and ESP32](https://dev.to/mohamed_ahmed_dev/getting-started-with-iot-your-first-steps-with-arduino-ide-and-esp32-5afh)
+- [Reason of unhealthy but seems fine instance detected by ELB](https://dev.to/wakeup_flower_8591a6cb6a9/reason-of-unhealthy-but-seems-fine-instance-detected-by-elb-4njk)
+- [ADS — Alternate Data Streams &lpar;Beginner friendly PoC&rpar;](https://dev.to/saravana_gautham_g/ads-alternate-data-streams-beginner-friendly-poc-27m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
