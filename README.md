@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why did Lucid created Google Workspace integrations](https://dev.to/googleworkspace/why-did-lucid-created-google-workspace-integrations-m6n)
-- [Building the Future of AI? Azure AI Foundry Might Be Your New Best Friend.](https://dev.to/sreeni5018/building-the-future-of-ai-azure-ai-foundry-might-be-your-new-best-friend-2pb3)
-- [Shipping a Zero-Maintenance SEO Health Check with GitHub Actions](https://dev.to/andreas_a/shipping-a-zero-maintenance-seo-health-check-with-github-actions-12gi)
-- [Spread Operator and Chaining in JS/TS](https://dev.to/grantdotdev/spread-operator-and-chaining-in-jsts-1227)
-- [Why IoC and DI feel the same, but are actually not](https://dev.to/rohan_mhadgut_10/why-ioc-and-di-feel-the-same-but-are-actually-not-30kl)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-2lmm)
+- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-1ik4)
+- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-2olc)
+- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-29ae)
+- [KEXP: Fishbone - Dog Eat Dog &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-dog-eat-dog-live-on-kexp-1o5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
