@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Publishing Your TCJSGame: A Complete Guide to Sharing Your Creation with the World](https://dev.to/kehinde_owolabi_e2e54567a/publishing-your-tcjsgame-a-complete-guide-to-sharing-your-creation-with-the-world-2fo8)
+- [Financial Transactions: Implementing Hugging Face AI Models with PHP](https://dev.to/igornosatov_15/financial-transactions-implementing-hugging-face-ai-models-with-php-4ceh)
 - [TCJSGame V3 vs. Scratch 3: Choosing the Right Engine for Your Next Project](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-vs-scratch-3-choosing-the-right-engine-for-your-next-project-2li2)
 - [🚀 How I Learned That Thinking “Small” Can Save Hours of SQL Headaches](https://dev.to/fscosta1/how-i-learned-that-thinking-small-can-save-hours-of-sql-headaches-2n9b)
 - [Walking Through Walls: Beating Computer Vision Failures With Minimal Python](https://dev.to/preeti_jani_0be104c69e266/walking-through-walls-beating-computer-vision-failures-with-minimal-python-3lo3)
-- [Simultaneous Downloads with aria2 for Maximum Speed | Advanced Tutorial](https://dev.to/ernemivg/simultaneous-downloads-with-aria2-for-maximum-speed-advanced-tutorial-2l14)
-- [A Developer’s Deep Dive into EVM Transactions with Python](https://dev.to/onlineproxy/a-developers-deep-dive-into-evm-transactions-with-python-1l3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
