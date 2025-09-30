@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sky Agent: A Universal Interface for Multi-Cloud Operations](https://dev.to/dinindu_suriyamudali_e604/sky-agent-a-universal-interface-for-multi-cloud-operations-mi5)
-- [🍏 macOS Portfolio – A Fun, Desktop-Inspired Portfolio Template](https://dev.to/emdadulislam/macos-portfolio-a-fun-desktop-inspired-portfolio-template-26p3)
-- [🚀 The Ultimate Algorithms &amp; Data Structures Cheat Sheet Collection](https://dev.to/harsh8088/the-ultimate-algorithms-data-structures-cheat-sheet-collection-2p2k)
-- [¿El futuro del modelado es la IA o la especialización?](https://dev.to/yomero243/el-futuro-del-modelado-es-la-ia-o-la-especializacion-240b)
-- [7 Types of APIs Every Developer Should Know](https://dev.to/chiragx309/7-types-of-apis-every-developer-should-know-47f1)
+- [Mastering Tableau Without Getting Lost: A Practical Guide to Data Visualization](https://dev.to/thedatageek/mastering-tableau-without-getting-lost-a-practical-guide-to-data-visualization-3di7)
+- [AI Features to Add to Your Software Solutions](https://dev.to/sunny7899/ai-features-to-add-to-your-software-solutions-2n31)
+- [Strategic Assessment of myHerb&#39;s Eco-Innovation and Sustainability Guidance Platform](https://dev.to/myherb/strategic-assessment-of-myherbs-eco-innovation-and-sustainability-guidance-platform-28ma)
+- [10 Reasons Why Python is Still the Best Programming Language in 2025 &lpar;and Beyond&rpar;](https://dev.to/brentwash35/10-reasons-why-python-is-still-the-best-programming-language-in-2025-and-beyond-442d)
+- [Why Mining Industry Why Mining Industry Software Solutions Are Essential](https://dev.to/dits_marketing_5a30d3f55f/why-mining-industry-why-mining-industry-software-solutions-are-essential-4a9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
