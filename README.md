@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Utilix - A Complete macOS Productivity Toolkit in Your Menu Bar](https://dev.to/bunnysayzz/utilix-a-complete-macos-productivity-toolkit-in-your-menu-bar-376d)
 - [Meet Layered Browser: The Developer’s Solution for Multi-Account Chaos](https://dev.to/bunnysayzz/meet-layered-browser-the-developers-solution-for-multi-account-chaos-3dkd)
+- [Day 1245 : It&#39;s Gonna Blow Your Mind](https://dev.to/dwane/day-1245-its-gonna-blow-your-mind-57ij)
 - [Usando RxJS com Signals no Angular: Uma Abordagem Moderna para Gerenciamento de Estado Reativo](https://dev.to/ikauedev/usando-rxjs-com-signals-no-angular-uma-abordagem-moderna-para-gerenciamento-de-estado-reativo-21o9)
 - [Plan vs Execute: Programming Tips](https://dev.to/devsmonkey/plan-vs-execute-4ngc)
-- [Master the Art of Consistent Characters in VEO 3 for Long-Form Videos](https://dev.to/nahianbinrahman/master-the-art-of-consistent-characters-in-veo-3-for-long-form-videos-2d9p)
-- [Addition is Not Communicative](https://dev.to/saenai/addition-is-not-communicative-328g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
