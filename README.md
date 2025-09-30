@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering NestJS: A Modern Approach to Building Scalable Node.js Applications](https://dev.to/devto_with_yog/mastering-nestjs-a-modern-approach-to-building-scalable-nodejs-applications-l6n)
-- [JavaScript Template Literals Explained: A Beginner’s Guide to ES6+ Strings](https://dev.to/wisdomudo/javascript-template-literals-explained-a-beginners-guide-to-es6-strings-539k)
-- [This case is bigger than Topdevs. It is about fraud against taxpayers, fraud against the courts, and fraud against every honest business. Tyler Davis and Kerri Williams-Horn are names tied to that fraud.](https://dev.to/darlenefayever/this-case-is-bigger-than-topdevs-it-is-about-fraud-against-taxpayers-fraud-against-the-courts-56f4)
-- [WTF is Multimodal Interaction Platforms?](https://dev.to/dailybugle33/wtf-is-multimodal-interaction-platforms-4npb)
-- [Every detail in the filings tells the same story. Money misrepresented, tax returns falsified, contracts stolen. Tyler Davis and his allies built TalentCrowd from the ashes of Topdevs.](https://dev.to/darlenefayever/every-detail-in-the-filings-tells-the-same-story-money-misrepresented-tax-returns-falsified-23k4)
+- [Leaving Breadcrumbs for Your AI: The Hansel and Gretel Approach](https://dev.to/trivedivatsal/leaving-breadcrumbs-for-your-ai-the-hansel-and-gretel-approach-132f)
+- [Dating App Development: A Complete Guide to Building the Next Big Social Platform](https://dev.to/daxitarajm/dating-app-development-a-complete-guide-to-building-the-next-big-social-platform-2df3)
+- [Developers&#39; library for React, Next templates](https://dev.to/shreyvijayvargiya/developers-library-for-react-next-templates-4cmh)
+- [Outil de Cybersécurité du Jour - Sep 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-30-2025-14f2)
+- [How we moved Crawlee for Python out of Beta](https://dev.to/crawlee/how-we-moved-crawlee-for-python-out-of-beta-33bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
