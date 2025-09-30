@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Clara Denari and the Mysterious Transformations: A New Way to Explore Cloudinary](https://dev.to/cloudinary/clara-denari-and-the-mysterious-transformations-a-new-way-to-explore-cloudinary-57od)
 - [🚀 Mastering Cypress.io: Core Concepts, Key APIs, and Advanced Best Practices](https://dev.to/mohamedsaidibrahim/mastering-cypressio-core-concepts-key-apis-and-advanced-best-practices-3n9c)
 - [Faster, Cheaper, Local: The Myth and Reality of Replacing Claude for Coding](https://dev.to/ruzzzz6312/faster-cheaper-local-the-myth-and-reality-of-replacing-claude-for-coding-4eji)
 - [Why Token Costs Matter: Optimizing LLM Workloads for Real-World Use](https://dev.to/bennay1990/why-token-costs-matter-optimizing-llm-workloads-for-real-world-use-3092)
 - [I Built a Smarter Rich-Text Editor with Live JS Blocks and Self-Converting Inputs](https://dev.to/nextblockcms/i-built-a-smarter-rich-text-editor-with-live-js-blocks-and-self-converting-inputs-i3d)
-- [Migrating Django from MySQL to Oracle: Handling Existing Tables and Many-to-Many Relationships](https://dev.to/jayson_gellido_0e72103fd0/migrating-django-from-mysql-to-oracle-handling-existing-tables-and-many-to-many-relationships-5anh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
