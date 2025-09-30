@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#DAY 5 - Getting Proactive: Telegram Alert Configuration](https://dev.to/samueladeduntan/day-5-getting-proactive-telegram-alert-configuration-3c94)
-- [Tying It All Together : How Strands Agents Weave Together Retail Performance Analysis](https://dev.to/aws-builders/tying-it-all-together-how-strands-agents-weave-together-retail-performance-analysis-50p4)
-- [Understanding Joins and Data Blending in Tableau: A Practical Guide](https://dev.to/dipti_moryani_9137d0a2e44/understanding-joins-and-data-blending-in-tableau-a-practical-guide-1f7f)
-- [Blockchain for Enterprise: Key Use Cases, Features, and Challenges](https://dev.to/ideausherr/blockchain-for-enterprise-key-use-cases-features-and-challenges-cfc)
-- [Rethinking TypeScript Architecture: From Classes to Composable Functions](https://dev.to/theodordiaconu/rethinking-typescript-architecture-from-classes-to-composable-functions-4d69)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-53p9)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-76b)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-3mlh)
+- [Bryan Bros Golf: Golf With Llama Caddies Got Out of Hand](https://dev.to/youtube_golf/bryan-bros-golf-golf-with-llama-caddies-got-out-of-hand-5g8e)
+- [Danny Maude: How To Learn Golf So Fast It Feels Illegal](https://dev.to/youtube_golf/danny-maude-how-to-learn-golf-so-fast-it-feels-illegal-2obf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
