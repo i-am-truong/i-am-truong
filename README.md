@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo construí AulaLens en 24h y gané un MacBook en el proceso](https://dev.to/glabory/como-construi-aulalens-en-24h-y-gane-un-macbook-en-el-proceso-5li)
 - [Build a Flappy Bird Clone with TCJSGame in 30 Minutes](https://dev.to/kehinde_owolabi_e2e54567a/build-a-flappy-bird-clone-with-tcjsgame-in-30-minutes-4lpe)
 - [I don&#39;t want to not be a programmer. A developer&#39;s self reflection journey.](https://dev.to/alex_spinu/i-dont-want-to-not-be-a-programmer-a-developers-self-reflection-journey-2bo9)
 - [JavaScript Fundamentals - Variables: The Foundation of Any Program](https://dev.to/martinxcvi/javascript-fundamentals-variables-the-foundation-of-any-program-4ibp)
 - [Publishing Your TCJSGame: A Complete Guide to Sharing Your Creation with the World](https://dev.to/kehinde_owolabi_e2e54567a/publishing-your-tcjsgame-a-complete-guide-to-sharing-your-creation-with-the-world-2fo8)
-- [Financial Transactions: Implementing Hugging Face AI Models with PHP](https://dev.to/igornosatov_15/financial-transactions-implementing-hugging-face-ai-models-with-php-4ceh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
