@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sky Agent: A Universal Interface for Multi-Cloud Operations](https://dev.to/dinindu_suriyamudali_e604/sky-agent-a-universal-interface-for-multi-cloud-operations-mi5)
 - [🍏 macOS Portfolio – A Fun, Desktop-Inspired Portfolio Template](https://dev.to/emdadulislam/macos-portfolio-a-fun-desktop-inspired-portfolio-template-26p3)
 - [🚀 The Ultimate Algorithms &amp; Data Structures Cheat Sheet Collection](https://dev.to/harsh8088/the-ultimate-algorithms-data-structures-cheat-sheet-collection-2p2k)
 - [¿El futuro del modelado es la IA o la especialización?](https://dev.to/yomero243/el-futuro-del-modelado-es-la-ia-o-la-especializacion-240b)
 - [7 Types of APIs Every Developer Should Know](https://dev.to/chiragx309/7-types-of-apis-every-developer-should-know-47f1)
-- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-4c6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
