@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When I Went Blank in an Interview – and What I Learned About LINQ](https://dev.to/reenanms/when-i-went-blank-in-an-interview-and-what-i-learned-about-linq-41i5)
-- [MongoDB Server Performance Profiling in Simple Way through Compass Shell](https://dev.to/devaaai/mongodb-server-performance-profiling-in-simple-way-through-compass-39aj)
-- [Using Permission Boundaries for IAM Role Creation in AWS Organizations Management Account](https://dev.to/shu85t/using-permission-boundaries-for-iam-role-creation-in-aws-organizations-management-account-2j0d)
-- [Strengthening Identity Security: Performing Basic Multifactor Authentication &lpar;MFA&rpar; Tasks](https://dev.to/sudaisib/strengthening-identity-security-performing-basic-multifactor-authentication-mfa-tasks-23d3)
-- [Looki Launches $199 Kitten-Shaped AI Wearable Camera, Expanding AI Wearables Market](https://dev.to/ytosko/looki-launches-199-kitten-shaped-ai-wearable-camera-expanding-ai-wearables-market-2c57)
+- [How much PHP knowledge is needed for WordPress and where can you easily learn PHP for WordPress?](https://dev.to/faisalahammad/how-much-php-knowledge-is-needed-for-wordpress-and-where-can-you-easily-learn-php-for-wordpress-4708)
+- [From ‘What Did We Decide?’ to ‘Got It, AI!’ 🤖](https://dev.to/kareemblessed/from-what-did-we-decide-to-got-it-ai-328b)
+- [Git Integration in Microsoft Fabric](https://dev.to/anshul_02/git-integration-in-microsoft-fabric-b75)
+- [Why Microsoft Won&#39;t Revive WinForms &lpar;And What Developers Are Using Instead](https://dev.to/mtmattei/why-microsoft-wont-revive-winforms-and-what-developers-are-using-instead-3bla)
+- [Making Your Unity UI Come Alive with Videos](https://dev.to/rahul_barate_e965377330fe/making-your-unity-ui-come-alive-with-videos-49cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
