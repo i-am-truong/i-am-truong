@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TCJSGame V3 vs. Scratch 3: Choosing the Right Engine for Your Next Project](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-vs-scratch-3-choosing-the-right-engine-for-your-next-project-2li2)
+- [🚀 How I Learned That Thinking “Small” Can Save Hours of SQL Headaches](https://dev.to/fscosta1/how-i-learned-that-thinking-small-can-save-hours-of-sql-headaches-2n9b)
+- [Walking Through Walls: Beating Computer Vision Failures With Minimal Python](https://dev.to/preeti_jani_0be104c69e266/walking-through-walls-beating-computer-vision-failures-with-minimal-python-3lo3)
 - [Simultaneous Downloads with aria2 for Maximum Speed | Advanced Tutorial](https://dev.to/ernemivg/simultaneous-downloads-with-aria2-for-maximum-speed-advanced-tutorial-2l14)
 - [A Developer’s Deep Dive into EVM Transactions with Python](https://dev.to/onlineproxy/a-developers-deep-dive-into-evm-transactions-with-python-1l3a)
-- [Build Agentic Video RAG with Strands Agents and Containerized Infrastructure](https://dev.to/aws/build-agentic-video-rag-with-strands-agents-and-containerized-infrastructure-4ibc)
-- [Hello World!](https://dev.to/sumitmarandi/hello-world-3ah)
-- [Beyond YAML: Logic Compression for 50%+ LLM Cost &amp; Latency Reduction](https://dev.to/_768dd7ab130016ab8b0a/beyond-yaml-logic-compression-for-50-llm-cost-latency-reduction-2h48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
