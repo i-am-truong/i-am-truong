@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-44cp)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-4jmo)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-37a0)
-- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-4k65)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-10f6)
+- [Race Conditions, Deadlocks, and Synchronisation in Python Multiprocessing](https://dev.to/imsushant12/race-conditions-deadlocks-and-synchronisation-in-python-multiprocessing-o2j)
+- [🧩 Micro Frontends – The Complete &lpar;But Brief&rpar; Guide](https://dev.to/hrithik_pasumarthi/micro-frontends-the-complete-but-brief-guide-398g)
+- [⚡ Understanding Time Taken in Service Calls: Method Calls vs. HTTP Service-to-Service Calls](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-time-taken-in-service-calls-method-calls-vs-http-service-to-service-calls-5adn)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-555e)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-14ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
