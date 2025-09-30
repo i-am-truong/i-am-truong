@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Claude for Chrome](https://dev.to/andremoreira73/using-claude-for-chrome-50hi)
+- [Sora 2: Next Generation Text-to-Video AI Explained](https://dev.to/alifar/sora-2-next-generation-text-to-video-ai-explained-acl)
+- [Day 20 and 21 of #30DaysOfCode](https://dev.to/justacoder_0x/day-20-and-21-of-30daysofcode-3ek3)
+- [get fields](https://dev.to/query_filter_591122b53770/get-fields-1403)
 - [⚡ The Power Behind Web Animations: GPU’s Role in the Critical Rendering Path 🖼️](https://dev.to/yorgie7/the-power-behind-web-animations-gpus-role-in-the-critical-rendering-path-27hg)
-- [🚀Looking for collaborators for MVP: Delimo – a sharing platform for Serbia &lpar;Java / Vue / Android&rpar;](https://dev.to/valeriilindenpy/looking-for-collaborators-for-mvp-delimo-a-sharing-platform-for-serbia-java-vue-android-4dp7)
-- [Cloud economic mismatches](https://dev.to/aws-builders/cloud-economic-mismatches-5op)
-- [JavaScript revision blew my mind today.](https://dev.to/yashi_srivastava_9166487c/javascript-revision-blew-my-mind-today-3db)
-- [Decorator Pattern in Clprolf — Example with Coffee](https://dev.to/charles_koffler_bcabc582b/decorator-pattern-in-clprolf-example-with-coffee-3pol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
