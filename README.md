@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Facinating
-Now
-Line
-Breaks
-Break](https://dev.to/mileswk/facinatingnowlinebreaksbreak-1po1)
-- [The Real Reasons Why Developers Burnout](https://dev.to/jcmartinezdev/the-real-reasons-why-developers-burnout-4ce)
-- [The Membership Registry: Set Operations and Uniqueness](https://dev.to/aaron_rose_0787cc8b4775a0/the-membership-registry-set-operations-and-uniqueness-3n0k)
-- [The complete guide to evals](https://dev.to/thisismairaj/the-complete-guide-to-evals-3nd3)
-- [I don&#39;t want to not be a programmer. A developer&#39;s self reflection journey.](https://dev.to/spinualexandru/i-dont-want-to-not-be-a-programmer-a-developers-self-reflection-journey-4aaf)
+- [8-Bit Music Theory: The Music Theory of Silksong&#39;s Bone Bottom Theme](https://dev.to/music_youtube/8-bit-music-theory-the-music-theory-of-silksongs-bone-bottom-theme-34be)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-la1)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-3679)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-e5g)
+- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-48m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
