@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Talent at Google: A Recruitment Analysis 2025](https://dev.to/jackm_345442a09fb53b/ai-talent-at-google-a-recruitment-analysis-2025-k2n)
-- [Figma AI Alternatives: Deep Analysis of Motiff, Visily and Uizard](https://dev.to/hashbyt/figma-ai-alternatives-deep-analysis-of-motiff-visily-and-uizard-2bfh)
-- [Spinning Up a Minimal To-do List API in .NET](https://dev.to/asutosh2001/spinning-up-a-minimal-to-do-list-api-in-net-3e43)
-- [Day 1 of tracking Cryptic&#39;s development](https://dev.to/leviatcryptic/day-1-of-tracking-cryptics-development-1708)
-- [Ulaa: India’s Next Browser for Developers and Privacy Enthusiasts 🚀](https://dev.to/devto_with_yog/ulaa-indias-next-browser-for-developers-and-privacy-enthusiasts-516o)
+- [Infrastructure testing in practice](https://dev.to/rgeraskin/infrastructure-testing-in-practice-1jpb)
+- [Day 1 - Intergrating AWS services into a parking project](https://dev.to/nyairopetronilla/day-1-intergrating-aws-services-into-a-parking-project-2n9i)
+- [How to Leave Breadcrumbs for Your Future Self &lpar;and Teammates&rpar; in Code](https://dev.to/saxmanjes/how-to-leave-breadcrumbs-for-your-future-self-and-teammates-in-code-4979)
+- [How to build Personal Blog Application Using React | TailwindCSS | TypeScript](https://dev.to/codewithsadee/how-to-build-personal-blog-application-using-react-tailwindcss-typescript-3c3e)
+- [🎯 The Challenge: Processing TBs of S3 Data Without Breaking the Bank](https://dev.to/qvfagundes/the-challenge-processing-tbs-of-s3-data-without-breaking-the-bank-bfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
