@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Borderlands 4 - C4SH Vault Hunter Reveal Trailer](https://dev.to/gg_news/gamespot-borderlands-4-c4sh-vault-hunter-reveal-trailer-3a3k)
-- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-50bo)
-- [GameSpot: Ghost of Yotei PS5 Pro Ray Tracing Pro vs Performance Mode](https://dev.to/gg_news/gamespot-ghost-of-yotei-ps5-pro-ray-tracing-pro-vs-performance-mode-4ifd)
-- [GameSpot: Call of Duty NEXT Showcase 2025 Livestream &lpar;Black Ops 7 Multiplayer, Zombies, Warzone &amp; more&rpar;](https://dev.to/gg_news/gamespot-call-of-duty-next-showcase-2025-livestream-black-ops-7-multiplayer-zombies-warzone--noj)
-- [IGN: LEGO Party Review](https://dev.to/gg_news/ign-lego-party-review-2368)
+- [Canonical URLs: A Simple Fix for One of SEO’s Biggest Problems](https://dev.to/rijultp/canonical-urls-a-simple-fix-for-one-of-seos-biggest-problems-27n)
+- [From Vision to Visualization: Building Pluggable Architecture for PHP](https://dev.to/homeless-coder/from-vision-to-visualization-building-pluggable-architecture-for-php-1olb)
+- [🚀 How the Browser Pre-Resource Loader Works: A Deep Dive 🖥️](https://dev.to/yorgie7/how-the-browser-pre-resource-loader-works-a-deep-dive-3nkm)
+- [🐘 Building a To-do API in .NET with PostgreSQL &lpar;Beginner Friendly&rpar;](https://dev.to/asutosh2001/building-a-to-do-api-in-net-with-postgresql-beginner-friendly-4k1d)
+- [How to create an OCI bucket using Terraform](https://dev.to/farisdurrani/how-to-create-an-oci-bucket-using-terraform-4mil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
