@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-53p9)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-76b)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-3mlh)
-- [Bryan Bros Golf: Golf With Llama Caddies Got Out of Hand](https://dev.to/youtube_golf/bryan-bros-golf-golf-with-llama-caddies-got-out-of-hand-5g8e)
-- [Danny Maude: How To Learn Golf So Fast It Feels Illegal](https://dev.to/youtube_golf/danny-maude-how-to-learn-golf-so-fast-it-feels-illegal-2obf)
+- [Build vs Buy for AI-Driven Scraping in 2026: Costs, Compliance, Velocity](https://dev.to/astro-official/build-vs-buy-for-ai-driven-scraping-in-2026-costs-compliance-velocity-4149)
+- [Building a Production-Ready Logger Service in Angular 🚀](https://dev.to/sanket00123/building-a-production-ready-logger-service-in-angular-cc8)
+- [How to Build a Command-Line Video Converter with .NET 8 and FFmpeg](https://dev.to/willem_janssen_ca51a0bfba/how-to-build-a-command-line-video-converter-with-net-8-and-ffmpeg-3fkd)
+- [How Academic Research Shapes Real-World Software Development: Lessons from a Full Stack Developer](https://dev.to/sain_bux_dev/how-academic-research-shapes-real-world-software-development-lessons-from-a-full-stack-developer-1k1g)
+- [Every time I read about this case, I think of the employees who lost their work. Over 132 projects gone because Joshua Lintz and Tyler Davis decided to raid servers.](https://dev.to/raffalmaster/every-time-i-read-about-this-case-i-think-of-the-employees-who-lost-their-work-over-132-projects-120e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
