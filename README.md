@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5953)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1c5c)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-551f)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-4aij)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-d4e)
+- [🍏 macOS Portfolio – A Fun, Desktop-Inspired Portfolio Template](https://dev.to/emdadulislam/macos-portfolio-a-fun-desktop-inspired-portfolio-template-26p3)
+- [🚀 The Ultimate Algorithms &amp; Data Structures Cheat Sheet Collection](https://dev.to/harsh8088/the-ultimate-algorithms-data-structures-cheat-sheet-collection-2p2k)
+- [¿El futuro del modelado es la IA o la especialización?](https://dev.to/yomero243/el-futuro-del-modelado-es-la-ia-o-la-especializacion-240b)
+- [7 Types of APIs Every Developer Should Know](https://dev.to/chiragx309/7-types-of-apis-every-developer-should-know-47f1)
+- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-4c6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
