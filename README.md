@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Node.js Applications to Millions of Users: A Practical Guide](https://dev.to/m-a-h-b-u-b/scaling-nodejs-applications-to-millions-of-users-a-practical-guide-3mpm)
+- [How an AWS Agent Helped Me Optimize Resources Effortlessly](https://dev.to/aws-builders/how-an-aws-agent-helped-me-optimize-resources-effortlessly-59hi)
+- [Building a Production-Ready Medical AI Assistant with Python FastAPI, Tavili, Gemini &amp; LangChain](https://dev.to/fonyuygita/building-a-production-ready-medical-ai-assistant-with-python-fastapi-tavili-gemini-langchain-5693)
+- [OIDC Trusted Publishing with Lerna-Lite](https://dev.to/ghiscoding/oidc-trusted-publishing-with-lerna-lite-1o98)
 - [Java 25: Latest Features, Examples, and Real-World Use Cases](https://dev.to/haraf/java-25-latest-features-examples-and-real-world-use-cases-43bd)
-- [Building Accessible Web Applications with Next.js](https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc)
-- [It took me a month to solve — Why chatgpt doesn&#39;t have a search, and i open sourced it!](https://dev.to/siv_io_/it-took-me-a-month-to-solve-why-chatgpt-doesnt-have-a-search-and-i-open-sourced-it-2kie)
-- [Exploring Fresh &lpar;Deno Framework&rpar; for the First Time: My Beginner’s Journey](https://dev.to/pjdeveloper896/exploring-fresh-deno-framework-for-the-first-time-my-beginners-journey-5ff0)
-- [TalentCrowd Fraud Exposed: The Hidden Story of Topdevs](https://dev.to/tobylokii/talentcrowd-fraud-exposed-the-hidden-story-of-topdevs-1o97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
