@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introdução ao AWS IAM: Gestão de Identidades e Permissões na Nuvem](https://dev.to/fcd007/introducao-ao-aws-iam-gestao-de-identidades-e-permissoes-na-nuvem-2dce)
-- [How AI Is Revolutionizing Customer Experience in 2025](https://dev.to/_steve_/how-ai-is-revolutionizing-customer-experience-in-2025-56o2)
-- [Ubig AI Studio](https://dev.to/emreozsazn/ubig-ai-studio-403f)
-- [Hello, im trying to learn coding from the zero but idk how to start, should i try low level languagens???](https://dev.to/felipe_gabrielbarbosamo/hello-im-trying-to-learn-coding-from-the-zero-but-idk-how-to-start-should-i-try-low-level-22kp)
-- [Charlex Operating System; UNUX-LIKE OPERATING SYSTEM for anyone](https://dev.to/amzy31/charlex-operating-system-unux-like-operating-system-for-anyone-k1p)
+- [📰 Major Tech News: September 29, 2025](https://dev.to/om_shree_0709/major-tech-news-september-29-2025-51od)
+- [An Experiment with AI Assisted Web Development](https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk)
+- [Debugging Production Issues in Distributed Systems: A Practical Guide](https://dev.to/nishant_ghan_b7d9174ee346/debugging-production-issues-in-distributed-systems-a-practical-guide-1jjn)
+- [Velozes, Furiosos e... Estatísticos? Explicando Teste de Hipótese com Drift.](https://dev.to/sthemonica/velozes-furiosos-e-estatisticos-explicando-teste-de-hipotese-com-drift-30li)
+- [WebRTC For Beginners. Part 1](https://dev.to/petemode/webrtc-for-beginners-part-1-pc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
