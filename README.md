@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JWT vs JWS vs JWE: What’s the Difference &amp; When to Use Each](https://dev.to/mayank_tamrkar/jwt-vs-jws-vs-jwe-whats-the-difference-when-to-use-each-16l2)
+- [My personal toolkit for open-source knowledge graphs](https://dev.to/e_lisowski/my-personal-toolkit-for-open-source-knowledge-graphs-4m1h)
 - [Designing for Security, Scalability, and Performance](https://dev.to/th33k/designing-for-security-scalability-and-performance-2dld)
 - [Environment transitions based on all agents&#39; actions](https://dev.to/rikinptl/environment-transitions-based-on-all-agents-actions-521l)
 - [Leaving Breadcrumbs for Your AI: The Hansel and Gretel Approach](https://dev.to/trivedivatsal/leaving-breadcrumbs-for-your-ai-the-hansel-and-gretel-approach-132f)
-- [Developers&#39; library for React, Next templates](https://dev.to/shreyvijayvargiya/developers-library-for-react-next-templates-4cmh)
-- [How we moved Crawlee for Python out of Beta](https://dev.to/crawlee/how-we-moved-crawlee-for-python-out-of-beta-33bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
