@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Minha Jornada para Fazer a Busca Vetorial Funcionar em C# com Pgvector e Alibaba-NLP](https://dev.to/edsonmiziara/minha-jornada-para-fazer-a-busca-vetorial-funcionar-em-c-com-pgvector-e-alibaba-nlp-22g2)
+- [Developing Rust TUI &lpar;Terminal User Interface&rpar; Applications](https://dev.to/davidcanhelp/developing-rust-tui-terminal-user-interface-applications-1n9i)
+- [Learning OpenGl part 2](https://dev.to/noticeablesmeh/learning-opengl-part-2-576m)
+- [Post-Cookie Web: Building Privacy-First Analytics That Actually Work](https://dev.to/pullflow/post-cookie-web-building-privacy-first-analytics-that-actually-work-3ee)
 - [From Zero to .glb: Building a Serverless 3D Asset Pipeline in with Rust and Cloudflare](https://dev.to/abraham_thomas_674162cfda/from-zero-to-glb-building-a-serverless-3d-asset-pipeline-in-with-rust-and-cloudflare-454l)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3mn0)
-- [🌱 Environment Variables: The Secret Sauce of Modern Apps](https://dev.to/charan_gutti_cf60c6185074/environment-variables-the-secret-sauce-of-modern-apps-59i8)
-- [Your Sealed Class Cookbook: 3 Production-Ready Android Recipes](https://dev.to/kavearhasi_viswanathan/your-sealed-class-cookbook-3-production-ready-android-recipes-2l3o)
-- [EZ Mother Devlog #2](https://dev.to/longchau/ez-mother-devlog-2-30n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
