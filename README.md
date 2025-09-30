@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The CSS Ordering Quiz That Will Break Your Next.js Assumptions](https://dev.to/alessandro-grosselle/the-css-ordering-quiz-that-will-break-your-nextjs-assumptions-a0m)
+- [Build Your Own GPT from Scratch with C# and TorchSharp &lpar;CPU-Only!&rpar;](https://dev.to/auyeungdavid_2847435260/build-your-own-gpt-from-scratch-with-c-and-torchsharp-cpu-only-3ch5)
+- [Enhancing Account Security in Microsoft Entra ID: Password Protection and Self-Service Reset](https://dev.to/sudaisib/enhancing-account-security-in-microsoft-entra-id-password-protection-and-self-service-reset-2j4a)
+- [Trusted Publishers: Making Package Publishing Safer – What You Need to Know](https://dev.to/freakynit/trusted-publishers-making-package-publishing-safer-what-you-need-to-know-5dg8)
 - [Infrastructure testing in practice](https://dev.to/rgeraskin/infrastructure-testing-in-practice-1jpb)
-- [Day 1 - Intergrating AWS services into a parking project](https://dev.to/nyairopetronilla/day-1-intergrating-aws-services-into-a-parking-project-2n9i)
-- [How to Leave Breadcrumbs for Your Future Self &lpar;and Teammates&rpar; in Code](https://dev.to/saxmanjes/how-to-leave-breadcrumbs-for-your-future-self-and-teammates-in-code-4979)
-- [How to build Personal Blog Application Using React | TailwindCSS | TypeScript](https://dev.to/codewithsadee/how-to-build-personal-blog-application-using-react-tailwindcss-typescript-3c3e)
-- [🎯 The Challenge: Processing TBs of S3 Data Without Breaking the Bank](https://dev.to/qvfagundes/the-challenge-processing-tbs-of-s3-data-without-breaking-the-bank-bfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
