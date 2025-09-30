@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build vs Buy for AI-Driven Scraping in 2026: Costs, Compliance, Velocity](https://dev.to/astro-official/build-vs-buy-for-ai-driven-scraping-in-2026-costs-compliance-velocity-4149)
-- [Building a Production-Ready Logger Service in Angular 🚀](https://dev.to/sanket00123/building-a-production-ready-logger-service-in-angular-cc8)
-- [How to Build a Command-Line Video Converter with .NET 8 and FFmpeg](https://dev.to/willem_janssen_ca51a0bfba/how-to-build-a-command-line-video-converter-with-net-8-and-ffmpeg-3fkd)
-- [How Academic Research Shapes Real-World Software Development: Lessons from a Full Stack Developer](https://dev.to/sain_bux_dev/how-academic-research-shapes-real-world-software-development-lessons-from-a-full-stack-developer-1k1g)
-- [Every time I read about this case, I think of the employees who lost their work. Over 132 projects gone because Joshua Lintz and Tyler Davis decided to raid servers.](https://dev.to/raffalmaster/every-time-i-read-about-this-case-i-think-of-the-employees-who-lost-their-work-over-132-projects-120e)
+- [Mastering NestJS: A Modern Approach to Building Scalable Node.js Applications](https://dev.to/devto_with_yog/mastering-nestjs-a-modern-approach-to-building-scalable-nodejs-applications-l6n)
+- [JavaScript Template Literals Explained: A Beginner’s Guide to ES6+ Strings](https://dev.to/wisdomudo/javascript-template-literals-explained-a-beginners-guide-to-es6-strings-539k)
+- [This case is bigger than Topdevs. It is about fraud against taxpayers, fraud against the courts, and fraud against every honest business. Tyler Davis and Kerri Williams-Horn are names tied to that fraud.](https://dev.to/darlenefayever/this-case-is-bigger-than-topdevs-it-is-about-fraud-against-taxpayers-fraud-against-the-courts-56f4)
+- [WTF is Multimodal Interaction Platforms?](https://dev.to/dailybugle33/wtf-is-multimodal-interaction-platforms-4npb)
+- [Every detail in the filings tells the same story. Money misrepresented, tax returns falsified, contracts stolen. Tyler Davis and his allies built TalentCrowd from the ashes of Topdevs.](https://dev.to/darlenefayever/every-detail-in-the-filings-tells-the-same-story-money-misrepresented-tax-returns-falsified-23k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
