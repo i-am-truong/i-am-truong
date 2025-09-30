@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Clara Denari and the Mysterious Transformations: A New Way to Explore Cloudinary](https://dev.to/cloudinary/clara-denari-and-the-mysterious-transformations-a-new-way-to-explore-cloudinary-57od)
-- [🚀 Mastering Cypress.io: Core Concepts, Key APIs, and Advanced Best Practices](https://dev.to/mohamedsaidibrahim/mastering-cypressio-core-concepts-key-apis-and-advanced-best-practices-3n9c)
-- [Faster, Cheaper, Local: The Myth and Reality of Replacing Claude for Coding](https://dev.to/ruzzzz6312/faster-cheaper-local-the-myth-and-reality-of-replacing-claude-for-coding-4eji)
-- [Why Token Costs Matter: Optimizing LLM Workloads for Real-World Use](https://dev.to/bennay1990/why-token-costs-matter-optimizing-llm-workloads-for-real-world-use-3092)
-- [I Built a Smarter Rich-Text Editor with Live JS Blocks and Self-Converting Inputs](https://dev.to/nextblockcms/i-built-a-smarter-rich-text-editor-with-live-js-blocks-and-self-converting-inputs-i3d)
+- [CLAUTH: An open-source CLI to simplify AWS Bedrock setup for Claude Code users](https://dev.to/mahmood_khordoo_20b3f5980/clauth-an-open-source-cli-to-simplify-aws-bedrock-setup-for-claude-code-users-k8k)
+- [Introducing MetaPrompt: Write, Test, and Use Context in Cursor](https://dev.to/mnemonicaai/introducing-metaprompt-write-test-and-use-context-in-cursor-4232)
+- [The Right Way to Send Your Resume via Email &lpar;With Free Template&rpar;](https://dev.to/mehedihasan1102/how-to-send-your-cvresume-the-right-way-with-template-pro-tips-4n55)
+- [Hardening Your AI Agent Against Prompt Injection via MCP](https://dev.to/lovestaco/hardening-your-ai-agent-against-prompt-injection-via-mcp-bd7)
+- [Business value &gt; Shiny tech](https://dev.to/sylwia-lask/business-value-shiny-tech-5egj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
