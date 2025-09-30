@@ -120,11 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Facinating
+Now
+Line
+Breaks
+Break](https://dev.to/mileswk/facinatingnowlinebreaksbreak-1po1)
+- [The Real Reasons Why Developers Burnout](https://dev.to/jcmartinezdev/the-real-reasons-why-developers-burnout-4ce)
 - [The Membership Registry: Set Operations and Uniqueness](https://dev.to/aaron_rose_0787cc8b4775a0/the-membership-registry-set-operations-and-uniqueness-3n0k)
 - [The complete guide to evals](https://dev.to/thisismairaj/the-complete-guide-to-evals-3nd3)
 - [I don&#39;t want to not be a programmer. A developer&#39;s self reflection journey.](https://dev.to/spinualexandru/i-dont-want-to-not-be-a-programmer-a-developers-self-reflection-journey-4aaf)
-- [React Concurrent Mode Isn&#39;t Magic - It&#39;s Just Really Smart Priorities &lpar;And This Changes Everything&rpar;](https://dev.to/mohamad_msalme_38f2508ea2/react-concurrent-mode-isnt-magic-its-just-really-smart-priorities-and-this-changes-everything-1mp)
-- [CLAUTH: An open-source CLI to simplify AWS Bedrock setup for Claude Code users](https://dev.to/mahmood_khordoo_20b3f5980/clauth-an-open-source-cli-to-simplify-aws-bedrock-setup-for-claude-code-users-k8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
