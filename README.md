@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ansible and GitOps: A Practical Guide](https://dev.to/muhabbat_dev/ansible-and-gitops-a-practical-guide-1m3n)
+- [Best AI Tools for Content Creators in 2025 &lpar;Free + Paid&rpar;](https://dev.to/sanjaynaker/best-ai-tools-for-content-creators-in-2025-free-paid-3mma)
+- [Mastering Node.js Events &amp; Event Emitters: A Complete Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-nodejs-events-event-emitters-a-complete-guide-mih)
+- [Mastering Child Processes in Node.js: A Complete Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-child-processes-in-nodejs-a-complete-guide-32g3)
 - [The Importance of Skewness and Kurtosis in EDA](https://dev.to/brenda_mutai_8a282e86666a/the-importance-of-skewness-and-kurtosis-in-eda-5c07)
-- [How to Use an API to Get Data: A Step-by-Step Guide for Beginners APIs](https://dev.to/saira_zeeshan_35fc05971fd/how-to-use-an-api-to-get-data-a-step-by-step-guide-for-beginnersapis-1j50)
-- [How Azure Cognitive Services Simplifies AI for Developers](https://dev.to/skilltech/how-azure-cognitive-services-simplifies-ai-for-developers-2l6o)
-- [Mastering the Node.js Process Object: A Developer&#39;s Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-the-nodejs-process-object-a-developers-guide-27hj)
-- [How Zero-Knowledge Architecture Improves Data Security](https://dev.to/rakesh_sharma_efca3bdf6bf/how-zero-knowledge-architecture-improves-data-security-6m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
