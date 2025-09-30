@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How much PHP knowledge is needed for WordPress and where can you easily learn PHP for WordPress?](https://dev.to/faisalahammad/how-much-php-knowledge-is-needed-for-wordpress-and-where-can-you-easily-learn-php-for-wordpress-4708)
-- [From ‘What Did We Decide?’ to ‘Got It, AI!’ 🤖](https://dev.to/kareemblessed/from-what-did-we-decide-to-got-it-ai-328b)
-- [Git Integration in Microsoft Fabric](https://dev.to/anshul_02/git-integration-in-microsoft-fabric-b75)
-- [Why Microsoft Won&#39;t Revive WinForms &lpar;And What Developers Are Using Instead](https://dev.to/mtmattei/why-microsoft-wont-revive-winforms-and-what-developers-are-using-instead-3bla)
-- [Making Your Unity UI Come Alive with Videos](https://dev.to/rahul_barate_e965377330fe/making-your-unity-ui-come-alive-with-videos-49cb)
+- [From Zero to .glb: Building a Serverless 3D Asset Pipeline in with Rust and Cloudflare](https://dev.to/abraham_thomas_674162cfda/from-zero-to-glb-building-a-serverless-3d-asset-pipeline-in-with-rust-and-cloudflare-454l)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3mn0)
+- [🌱 Environment Variables: The Secret Sauce of Modern Apps](https://dev.to/charan_gutti_cf60c6185074/environment-variables-the-secret-sauce-of-modern-apps-59i8)
+- [Your Sealed Class Cookbook: 3 Production-Ready Android Recipes](https://dev.to/kavearhasi_viswanathan/your-sealed-class-cookbook-3-production-ready-android-recipes-2l3o)
+- [EZ Mother Devlog #2](https://dev.to/longchau/ez-mother-devlog-2-30n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
