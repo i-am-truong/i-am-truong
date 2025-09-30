@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The complete guide to evals](https://dev.to/thisismairaj/the-complete-guide-to-evals-3nd3)
+- [I don&#39;t want to not be a programmer. A developer&#39;s self reflection journey.](https://dev.to/spinualexandru/i-dont-want-to-not-be-a-programmer-a-developers-self-reflection-journey-4aaf)
+- [React Concurrent Mode Isn&#39;t Magic - It&#39;s Just Really Smart Priorities &lpar;And This Changes Everything&rpar;](https://dev.to/mohamad_msalme_38f2508ea2/react-concurrent-mode-isnt-magic-its-just-really-smart-priorities-and-this-changes-everything-1mp)
 - [CLAUTH: An open-source CLI to simplify AWS Bedrock setup for Claude Code users](https://dev.to/mahmood_khordoo_20b3f5980/clauth-an-open-source-cli-to-simplify-aws-bedrock-setup-for-claude-code-users-k8k)
 - [Introducing MetaPrompt: Write, Test, and Use Context in Cursor](https://dev.to/mnemonicaai/introducing-metaprompt-write-test-and-use-context-in-cursor-4232)
-- [The Right Way to Send Your Resume via Email &lpar;With Free Template&rpar;](https://dev.to/mehedihasan1102/how-to-send-your-cvresume-the-right-way-with-template-pro-tips-4n55)
-- [Hardening Your AI Agent Against Prompt Injection via MCP](https://dev.to/lovestaco/hardening-your-ai-agent-against-prompt-injection-via-mcp-bd7)
-- [Business value &gt; Shiny tech](https://dev.to/sylwia-lask/business-value-shiny-tech-5egj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
