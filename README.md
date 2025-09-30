@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Can some Biblical Principles be applied in the Amazon Leadership Principles?](https://dev.to/wiangube/can-some-biblical-principles-be-applied-in-the-amazon-leadership-principles-8kg)
+- [Lambda can pull image from ECR](https://dev.to/wakeup_flower_8591a6cb6a9/lambda-can-pull-image-from-ecr-10ij)
+- [Just built a SaaS in 36 hours](https://dev.to/clarktechventuresdev/just-built-a-saas-in-36-hours-5n4)
 - [The State of AI in Software Engineering: Q3 2025](https://dev.to/razoorka/the-state-of-ai-in-software-engineering-q3-2025-k5c)
 - [When CPUs Hit 100%: Hard-Earned Lessons from a Multichain Indexer Outage, with Bloom Filters as the Rescue.](https://dev.to/anhthii/when-cpus-hit-100-hard-earned-lessons-from-a-multichain-indexer-outage-with-bloom-filters-as-the-46af)
-- [Building a TypeScript Snake.io Game with Vue 3 and Claude Sonnet 4.5](https://dev.to/blamsa0mine/building-a-typescript-snakeio-game-with-vue-3-and-claude-sonnet-45-1p9k)
-- [`fn` utility in Opencode console package.](https://dev.to/ramunarasinga-11/fn-utility-in-opencode-console-package-2lk6)
-- [[Boost]](https://dev.to/borgim/-3dln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
