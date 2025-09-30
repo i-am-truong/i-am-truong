@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📰 Major Tech News: September 29, 2025](https://dev.to/om_shree_0709/major-tech-news-september-29-2025-51od)
-- [An Experiment with AI Assisted Web Development](https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk)
-- [Debugging Production Issues in Distributed Systems: A Practical Guide](https://dev.to/nishant_ghan_b7d9174ee346/debugging-production-issues-in-distributed-systems-a-practical-guide-1jjn)
-- [Velozes, Furiosos e... Estatísticos? Explicando Teste de Hipótese com Drift.](https://dev.to/sthemonica/velozes-furiosos-e-estatisticos-explicando-teste-de-hipotese-com-drift-30li)
-- [WebRTC For Beginners. Part 1](https://dev.to/petemode/webrtc-for-beginners-part-1-pc4)
+- [Automating SBOM Generation and Vulnerability Analysis](https://dev.to/mdabir1203/automating-sbom-generation-and-vulnerability-analysis-54pi)
+- [Beyond Components and Design Tokens](https://dev.to/willyelm/beyond-components-and-design-tokens-52im)
+- [An Instruction Analysis MCP Usage Case](https://dev.to/xiaodao/an-instruction-analysis-mcp-usage-case-4eel)
+- [California governor signs AI transparency bill into law](https://dev.to/technoblogger14o3/california-governor-signs-ai-transparency-bill-into-law-2pb3)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-2kmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
