@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CloudFormation as best practice](https://dev.to/wakeup_flower_8591a6cb6a9/cloudformation-as-best-practice-1900)
-- [Building an In-Memory Background Job Queue in ASP.NET Core &lpar;Intro + Deep Dive Link&rpar;](https://dev.to/oguzhan-agir-02/building-an-in-memory-background-job-queue-in-aspnet-core-intro-deep-dive-link-11aj)
-- [🚀 React useState Lazy Initialization: A Complete Guide](https://dev.to/davidecannerozzi/react-usestate-lazy-initialization-a-complete-guide-1bck)
-- [OWASP AppSec Days France 2025: Learning To Defend The Global Supply Chain Together](https://dev.to/gitguardian/owasp-appsec-days-france-2025-learning-to-defend-the-global-supply-chain-together-1bpc)
-- [S3 cross region replication](https://dev.to/wakeup_flower_8591a6cb6a9/s3-cross-region-replication-22eo)
+- [AI Talent at Google: A Recruitment Analysis 2025](https://dev.to/jackm_345442a09fb53b/ai-talent-at-google-a-recruitment-analysis-2025-k2n)
+- [Figma AI Alternatives: Deep Analysis of Motiff, Visily and Uizard](https://dev.to/hashbyt/figma-ai-alternatives-deep-analysis-of-motiff-visily-and-uizard-2bfh)
+- [Spinning Up a Minimal To-do List API in .NET](https://dev.to/asutosh2001/spinning-up-a-minimal-to-do-list-api-in-net-3e43)
+- [Day 1 of tracking Cryptic&#39;s development](https://dev.to/leviatcryptic/day-1-of-tracking-cryptics-development-1708)
+- [Ulaa: India’s Next Browser for Developers and Privacy Enthusiasts 🚀](https://dev.to/devto_with_yog/ulaa-indias-next-browser-for-developers-and-privacy-enthusiasts-516o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
