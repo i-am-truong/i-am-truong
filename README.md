@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Tried Building a Hand Gesture Mouse Controller in Python](https://dev.to/narednra_reddyyadama_d64/i-tried-building-a-hand-gesture-mouse-controller-in-python-491m)
 - [Utilix - A Complete macOS Productivity Toolkit in Your Menu Bar](https://dev.to/bunnysayzz/utilix-a-complete-macos-productivity-toolkit-in-your-menu-bar-376d)
 - [Meet Layered Browser: The Developer’s Solution for Multi-Account Chaos](https://dev.to/bunnysayzz/meet-layered-browser-the-developers-solution-for-multi-account-chaos-3dkd)
 - [Day 1245 : It&#39;s Gonna Blow Your Mind](https://dev.to/dwane/day-1245-its-gonna-blow-your-mind-57ij)
 - [Usando RxJS com Signals no Angular: Uma Abordagem Moderna para Gerenciamento de Estado Reativo](https://dev.to/ikauedev/usando-rxjs-com-signals-no-angular-uma-abordagem-moderna-para-gerenciamento-de-estado-reativo-21o9)
-- [Plan vs Execute: Programming Tips](https://dev.to/devsmonkey/plan-vs-execute-4ngc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
