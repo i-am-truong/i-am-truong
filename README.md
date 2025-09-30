@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Flappy Bird Clone with TCJSGame in 30 Minutes](https://dev.to/kehinde_owolabi_e2e54567a/build-a-flappy-bird-clone-with-tcjsgame-in-30-minutes-4lpe)
+- [I don&#39;t want to not be a programmer. A developer&#39;s self reflection journey.](https://dev.to/alex_spinu/i-dont-want-to-not-be-a-programmer-a-developers-self-reflection-journey-2bo9)
+- [JavaScript Fundamentals - Variables: The Foundation of Any Program](https://dev.to/martinxcvi/javascript-fundamentals-variables-the-foundation-of-any-program-4ibp)
 - [Publishing Your TCJSGame: A Complete Guide to Sharing Your Creation with the World](https://dev.to/kehinde_owolabi_e2e54567a/publishing-your-tcjsgame-a-complete-guide-to-sharing-your-creation-with-the-world-2fo8)
 - [Financial Transactions: Implementing Hugging Face AI Models with PHP](https://dev.to/igornosatov_15/financial-transactions-implementing-hugging-face-ai-models-with-php-4ceh)
-- [TCJSGame V3 vs. Scratch 3: Choosing the Right Engine for Your Next Project](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-vs-scratch-3-choosing-the-right-engine-for-your-next-project-2li2)
-- [🚀 How I Learned That Thinking “Small” Can Save Hours of SQL Headaches](https://dev.to/fscosta1/how-i-learned-that-thinking-small-can-save-hours-of-sql-headaches-2n9b)
-- [Walking Through Walls: Beating Computer Vision Failures With Minimal Python](https://dev.to/preeti_jani_0be104c69e266/walking-through-walls-beating-computer-vision-failures-with-minimal-python-3lo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
