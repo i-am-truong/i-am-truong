@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Free Image Optimization API &lpar;with WordPress Plugin Integration&rpar;](https://dev.to/tinysharp_8b688d65139fe42/how-i-built-a-free-image-optimization-api-with-wordpress-plugin-integration-1g98)
+- [A Developer&#39;s Guide to Building a Precious Metals Converter](https://dev.to/unitly/a-developers-guide-to-building-a-precious-metals-converter-65a)
+- [lekdetectie utrecht: Zo beschermt u uw woning tegen onzichtbare schade](https://dev.to/wwloodgietersbedrijf/lekdetectie-utrecht-zo-beschermt-u-uw-woning-tegen-onzichtbare-schade-2knb)
 - [How Blocking Port 80 Made My Time API Project More Secure &lpar;And More Annoying&rpar;](https://dev.to/victorthegreat7/how-blocking-port-80-made-my-time-api-project-more-secure-and-more-annoying-4a8e)
 - [🌐 &#39;Synthetic Audio Aesthetics&#39;: Revolutionizing Emotional Ex](https://dev.to/drcarlosruizviquez/synthetic-audio-aesthetics-revolutionizing-emotional-ex-50i8)
-- [Getting Started with IoT: Your First Steps with Arduino IDE and ESP32](https://dev.to/mohamed_ahmed_dev/getting-started-with-iot-your-first-steps-with-arduino-ide-and-esp32-5afh)
-- [Reason of unhealthy but seems fine instance detected by ELB](https://dev.to/wakeup_flower_8591a6cb6a9/reason-of-unhealthy-but-seems-fine-instance-detected-by-elb-4njk)
-- [ADS — Alternate Data Streams &lpar;Beginner friendly PoC&rpar;](https://dev.to/saravana_gautham_g/ads-alternate-data-streams-beginner-friendly-poc-27m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
