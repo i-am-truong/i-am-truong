@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JWT vs JWS vs JWE: What’s the Difference &amp; When to Use Each](https://dev.to/mayank_tamrkar/jwt-vs-jws-vs-jwe-whats-the-difference-when-to-use-each-16l2)
-- [My personal toolkit for open-source knowledge graphs](https://dev.to/e_lisowski/my-personal-toolkit-for-open-source-knowledge-graphs-4m1h)
-- [Designing for Security, Scalability, and Performance](https://dev.to/th33k/designing-for-security-scalability-and-performance-2dld)
-- [Environment transitions based on all agents&#39; actions](https://dev.to/rikinptl/environment-transitions-based-on-all-agents-actions-521l)
-- [Leaving Breadcrumbs for Your AI: The Hansel and Gretel Approach](https://dev.to/trivedivatsal/leaving-breadcrumbs-for-your-ai-the-hansel-and-gretel-approach-132f)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ob8)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1f1g)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-48o5)
+- [NPR Music: Adrian Quesada: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-adrian-quesada-tiny-desk-concert-2jod)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-24k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
