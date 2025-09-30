@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ The Power Behind Web Animations: GPU’s Role in the Critical Rendering Path 🖼️](https://dev.to/yorgie7/the-power-behind-web-animations-gpus-role-in-the-critical-rendering-path-27hg)
+- [🚀Looking for collaborators for MVP: Delimo – a sharing platform for Serbia &lpar;Java / Vue / Android&rpar;](https://dev.to/valeriilindenpy/looking-for-collaborators-for-mvp-delimo-a-sharing-platform-for-serbia-java-vue-android-4dp7)
+- [Cloud economic mismatches](https://dev.to/aws-builders/cloud-economic-mismatches-5op)
 - [JavaScript revision blew my mind today.](https://dev.to/yashi_srivastava_9166487c/javascript-revision-blew-my-mind-today-3db)
 - [Decorator Pattern in Clprolf — Example with Coffee](https://dev.to/charles_koffler_bcabc582b/decorator-pattern-in-clprolf-example-with-coffee-3pol)
-- [I Tried Kombai in My IDE: Here’s Why It Outperforms Cursor, Claude, and Copilot for Frontend](https://dev.to/envitab/i-tried-kombai-in-my-ide-heres-why-it-outperforms-cursor-claude-and-copilot-for-frontend-26cg)
-- [The AI Revolution in Development Is Here: Introducing the AI-Driven Development &lpar;AIDD&rpar; Course](https://dev.to/chiara_porcelli_df7ef20dc/the-ai-revolution-in-development-is-here-introducing-the-ai-driven-development-aidd-course-5829)
-- [Filling Out Forms with Playwright: Choosing Between `fill&lpar;&rpar;` and `pressSequentially&lpar;&rpar;`](https://dev.to/nocnica/filling-out-forms-with-playwright-choosing-between-fill-and-presssequentially-3m4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
