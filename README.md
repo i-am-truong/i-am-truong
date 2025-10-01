@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-30ek)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3kac)
-- [8-Bit Music Theory: The Music Theory of Silksong&#39;s Bone Bottom Theme](https://dev.to/music_youtube/8-bit-music-theory-the-music-theory-of-silksongs-bone-bottom-theme-8j2)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2fi8)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-d5k)
+- [Building an HTML-to-Image Website Screenshot Tool](https://dev.to/reynaldi/building-an-html-to-image-website-screenshot-tool-20g7)
+- [Moving the Needle: How to Analyze Your Product Roadmap Monthly](https://dev.to/js402/moving-the-needle-how-to-analyze-your-product-roadmap-monthly-3f0p)
+- [Building an API for processing FHIR Data in Go](https://dev.to/roman_golovanov_980dc456d/building-an-api-for-processing-fhir-data-in-go-3hk9)
+- [Why Memorizing Bible Verses Without Context Could Be More Harmful Than Helpful](https://dev.to/brain_athlete/why-memorizing-bible-verses-without-context-could-be-more-harmful-than-helpful-410e)
+- [Keep Your Computer Awake with Espresso ☕️ – A Lightweight Cross-Platform Tray App](https://dev.to/abhijith_p_subash/keep-your-computer-awake-with-espresso-a-lightweight-cross-platform-tray-app-35dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
