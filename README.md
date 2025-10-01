@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering TCJSGame Camera System: Creating Dynamic, Cinematic Experiences](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-camera-system-creating-dynamic-cinematic-experiences-1h0h)
 - [Movement-events on Mini Micro &lpar;part 1&rpar;](https://dev.to/sebnozzi/movement-events-on-mini-micro-part-1-3gm7)
 - [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2cb1)
 - [Why Most RAG Pipelines Fail in Production &lpar;and How to Fix Them&rpar;](https://dev.to/piyooshrai/why-most-rag-pipelines-fail-in-production-and-how-to-fix-them-3858)
 - [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-p58)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2p5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
