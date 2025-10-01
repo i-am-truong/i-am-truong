@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Building a Hand Gesture Mouse Controller in Python](https://dev.to/narednra_reddyyadama_d64/i-tried-building-a-hand-gesture-mouse-controller-in-python-491m)
-- [Utilix - A Complete macOS Productivity Toolkit in Your Menu Bar](https://dev.to/bunnysayzz/utilix-a-complete-macos-productivity-toolkit-in-your-menu-bar-376d)
-- [Meet Layered Browser: The Developer’s Solution for Multi-Account Chaos](https://dev.to/bunnysayzz/meet-layered-browser-the-developers-solution-for-multi-account-chaos-3dkd)
-- [Day 1245 : It&#39;s Gonna Blow Your Mind](https://dev.to/dwane/day-1245-its-gonna-blow-your-mind-57ij)
-- [Usando RxJS com Signals no Angular: Uma Abordagem Moderna para Gerenciamento de Estado Reativo](https://dev.to/ikauedev/usando-rxjs-com-signals-no-angular-uma-abordagem-moderna-para-gerenciamento-de-estado-reativo-21o9)
+- [Show My Work: TinyBones - Minimal Blogging Template](https://dev.to/itzcozi/show-my-work-tinybones-minimal-blogging-template-1on3)
+- [🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡](https://dev.to/abdulosman/aspice-literacy-episode-7-management-buy-in-why-aspice-fails-without-leadership-courage-1702)
+- [Day 28/60 of game dev on Android challenge](https://dev.to/calchiwo/day-2860-of-game-dev-on-android-challenge-4bk7)
+- [Has anyone here tried Job Interview AI tools? I tested one recently and it gave me mock questions, real-time feedback, and even tips on body language. It felt like having a 24/7 interview coach. Curious—did it help you or feel too robotic?](https://dev.to/jeenifer_beezer/has-anyone-here-tried-job-interview-ai-tools-i-tested-one-recently-and-it-gave-me-mock-questions-1lop)
+- [&quot;In the beginning was the Hash, and the Hash was with the Data, and the Hash was the Data.&quot; — Genesis.sol, Block 0](https://dev.to/henark/in-the-beginning-was-the-hash-and-the-hash-was-with-the-data-and-the-hash-was-the-data--1c7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
