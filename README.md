@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RAG: experiments with prompting using 3 LLM&#39;s](https://dev.to/suominen/rag-experiments-with-prompting-using-3-llms-527i)
-- [Weekly Update #11](https://dev.to/abytebybyte/weekly-update-11-cjn)
-- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/pranav_aadithya_36edf63cb/indexing-hashing-query-optimization-in-sql-3onp)
-- [The Agentforce Trust Layer &amp; Data Grounding in Enterprise](https://dev.to/xccelerance_technologies_/the-agentforce-trust-layer-data-grounding-in-enterprise-3ljn)
-- [Bridging the Digital Divide: The Rising Impact of Online Learning](https://dev.to/ghummantech/bridging-the-digital-divide-the-rising-impact-of-online-learning-5ckk)
+- [The founder of Topdevs built something real. Amanda Frye and her conspirators destroyed it to cover up their crimes and steal legitimacy.](https://dev.to/portablewalkman/the-founder-of-topdevs-built-something-real-amanda-frye-and-her-conspirators-destroyed-it-to-cover-2mda)
+- [From Build-Time to Real-Time: A Better i18n Workflow for React](https://dev.to/mauro_mazzocchetti_300073/from-build-time-to-real-time-a-better-i18n-workflow-for-react-211e)
+- [Come inviare fatture a SDI FatturaPA in C#](https://dev.to/nicolaiarocci/come-inviare-fatture-a-sdi-fatturapa-in-c-5gkp)
+- [Come scaricare fatture da SDI FatturaPA in C#](https://dev.to/nicolaiarocci/come-scaricare-fatture-da-sdi-fatturapa-in-c-2a6m)
+- [How to upload SDI FatturaPA invoices with C#](https://dev.to/nicolaiarocci/how-to-upload-sdi-fatturapa-invoices-with-c-2kl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
