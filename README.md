@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Kafka to Clean Tables: Building a Confluent Snowflake Pipeline with Streams &amp; Tasks](https://dev.to/kepha_mwandiki/from-kafka-to-clean-tables-building-a-confluent-snowflake-pipeline-with-streams-tasks-140d)
-- [🚀 Building ascii-vibes: My Journey to Creating My Own ASCII &amp; Emoji Banner Module](https://dev.to/puneetkumar2010/building-ascii-vibes-my-journey-to-creating-my-own-ascii-emoji-banner-module-pde)
-- [Sora 2 vs Veo 3: The Future of AI Video Explained](https://dev.to/alifar/sora-2-vs-veo-3-the-future-of-ai-video-explained-3d0n)
-- [How to Install PostgreSQL 18 on Ubuntu 24.04](https://dev.to/topeogunleye/how-to-install-postgresql-18-on-ubuntu-2404-1doc)
-- [IAM POLICIES](https://dev.to/ntsezenelvis/iam-policies-16ma)
+- [Learn Bash Scripting With Me 🚀 - Day 8](https://dev.to/babsarena/learn-bash-scripting-with-me-day-8-k6b)
+- [The Cost of Concurrency Interop: Trading Clean Modularity for Shared JVM Efficiency](https://dev.to/rob_d_2c0d55e14e7037f2/the-cost-of-concurrency-interop-trading-clean-modularity-for-shared-jvm-efficiency-478f)
+- [ToolHive: Remote MCP Server Support](https://dev.to/amirejaz/toolhive-remote-mcp-server-support-3h93)
+- [Angular&#39;s Game-Changing CSP Security Headers: Why Your Inline CSS and JS Just Got Safer](https://dev.to/codewithrajat/angulars-game-changing-csp-security-headers-why-your-inline-css-and-js-just-got-safer-23c4)
+- [⚛️ React keeps evolving - and with it, the way we build smooth, responsive UIs](https://dev.to/askhan963/react-keeps-evolving-and-with-it-the-way-we-build-smooth-responsive-uis-1bd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
