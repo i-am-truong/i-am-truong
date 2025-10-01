@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Check if Code Was Made by AI](https://dev.to/marcosplusplus/how-to-check-if-code-was-made-by-ai-4n23)
+- [The Open Source World Is About to Get a Surprise 👀](https://dev.to/renderatlorg/the-open-source-world-is-about-to-get-a-surprise-5cpk)
+- [Como Verificar se um Código foi feito por IA](https://dev.to/marcosplusplus/como-verificar-se-um-codigo-foi-feito-por-ia-3inp)
+- [🔢 GCD &amp; LCM](https://dev.to/mohamad_mhana/gcd-lcm-35ma)
 - [The first technical test](https://dev.to/luc4587/the-first-technical-test-hhg)
-- [Completed Amazon Cloud Institute](https://dev.to/kfearless/completed-amazon-cloud-institute-n28)
-- [I&#39;m new to this community and currently on the Software Dev Bootcamp. Can someone please guide where can I find beginner projects on this platforms. Thanks a lot.](https://dev.to/iamhxh/im-new-to-this-community-and-currently-on-the-software-dev-bootcamp-can-someone-please-guide-56g4)
-- [Making my Laravel Development simple with Forge](https://dev.to/johndemian/making-my-laravel-development-simple-with-forge-4f89)
-- [Debugging a Hexagonal CSS Masonry Layout](https://dev.to/ingosteinke/debugging-a-hexagonal-css-masonry-layout-483a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
