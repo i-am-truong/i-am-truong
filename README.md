@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-41do)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-51d5)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-55np)
-- [Danny Maude: How To Learn Golf So Fast It Feels Illegal](https://dev.to/youtube_golf/danny-maude-how-to-learn-golf-so-fast-it-feels-illegal-338)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-5c4l)
+- [Debugging a Hexagonal CSS Masonry Layout](https://dev.to/ingosteinke/debugging-a-hexagonal-css-masonry-layout-483a)
+- [It&#39;s amazing how quickly you can learn a subject when the servers are on fire and you need to learn it.](https://dev.to/ben/its-amazing-how-quickly-you-can-learn-a-subject-when-the-servers-are-on-fire-and-you-need-to-learn-3abh)
+- [Third‑party DNS on ELB](https://dev.to/wakeup_flower_8591a6cb6a9/third-party-dns-on-elb-56f9)
+- [What are some good websites on which programmers can write articles?](https://dev.to/toluxx/what-are-some-good-websites-on-which-programmers-can-write-articles-gfm)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-391p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
