@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Do We Need UX for Machines Talking to Machines?](https://dev.to/dct_technology/do-we-need-ux-for-machines-talking-to-machines-4eg3)
 - [Dev log: Nothing cosmetic!](https://dev.to/matthew_ricci_0680a2a22c6/dev-log-nothing-cosmetic-3cek)
 - [Using Postman to Test Your Laravel APIs](https://dev.to/rohitdhiman/using-postman-to-test-your-laravel-apis-293i)
 - [TRANSACTIONS , DEADLOCKS AND LOG BASED RECOVERY](https://dev.to/santhosh_m_7dcc3d605279c5/transactions-deadlocks-and-log-based-recovery-4hel)
 - [Why You Don&#39;t Need GEO: How Strong SEO Already Delivers Generative Engine Optimization Results](https://dev.to/bezal_benny_68a567103f98c/why-you-dont-need-geo-how-strong-seo-already-delivers-generative-engine-optimization-results-e59)
-- [1518. Water Bottles || LeetCode || C++](https://dev.to/siddhyaop/1518-water-bottles-leetcode-c-2125)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
