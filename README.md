@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Show My Work: TinyBones - Minimal Blogging Template](https://dev.to/itzcozi/show-my-work-tinybones-minimal-blogging-template-1on3)
-- [🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡](https://dev.to/abdulosman/aspice-literacy-episode-7-management-buy-in-why-aspice-fails-without-leadership-courage-1702)
-- [Day 28/60 of game dev on Android challenge](https://dev.to/calchiwo/day-2860-of-game-dev-on-android-challenge-4bk7)
-- [Has anyone here tried Job Interview AI tools? I tested one recently and it gave me mock questions, real-time feedback, and even tips on body language. It felt like having a 24/7 interview coach. Curious—did it help you or feel too robotic?](https://dev.to/jeenifer_beezer/has-anyone-here-tried-job-interview-ai-tools-i-tested-one-recently-and-it-gave-me-mock-questions-1lop)
-- [&quot;In the beginning was the Hash, and the Hash was with the Data, and the Hash was the Data.&quot; — Genesis.sol, Block 0](https://dev.to/henark/in-the-beginning-was-the-hash-and-the-hash-was-with-the-data-and-the-hash-was-the-data--1c7b)
+- [Integrating Datadog in .NET Project using Serilog](https://dev.to/naimulkarim/integrating-datadog-in-net-project-using-serilog-16ae)
+- [Tableau vs. Power BI: A Professional Comparison for Data Professionals](https://dev.to/rgbos/tableau-vs-power-bi-a-professional-comparison-for-data-professionals-4d2k)
+- [Criando uma extensão do Chrome em minutos com ChatGPT](https://dev.to/cinthia3301andrad/criando-uma-extensao-do-chrome-em-minutos-com-chatgpt-1dld)
+- [Personal Picks: Data Product News &lpar;October 1, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-october-1-2025-2p0a)
+- [Building Hayao AI: How We Created a Next-Gen AI Photo Editor](https://dev.to/jianping_liu/building-hayao-ai-how-we-created-a-next-gen-ai-photo-editor-1di7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
