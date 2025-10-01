@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MyNPM](https://dev.to/ernestobellei/mynpm-1fip)
+- [The low-cost path to AI Mastery: building a Wiki Navigator with pure Similarity Search](https://dev.to/optiklab/the-low-cost-path-to-ai-mastery-building-a-wiki-navigator-with-pure-similarity-search-dak)
+- [A 15-Year Developer’s Journey Into Software Architecture and Growth](https://dev.to/rubenlucena/a-15-year-developers-journey-into-software-architecture-and-growth-442f)
+- [Logger in opencode codebase.](https://dev.to/ramunarasinga-11/logger-in-opencode-codebase-ji2)
 - [How Product Analytics Shapes User Experience: Funnels, Retention, and Experiments](https://dev.to/mujtabat/how-product-analytics-shapes-user-experience-funnels-retention-and-experiments-4cfm)
-- [📘 Database Normalization Example &lpar;1NF 3NF&rpar; with SQL in Oracle Live SQL](https://dev.to/baviya_varshiniv_5840bee/database-normalization-example-1nf-3nf-with-sql-in-oracle-live-sql-3d1k)
-- [Managing Jira Issues in Markdown: Why I Keep My Backlog in the Repo](https://dev.to/saxmanjes/managing-jira-issues-in-markdown-why-i-keep-my-backlog-in-the-repo-4gdk)
-- [Building a Rust API with Claude Sonnet 4.5](https://dev.to/shuttle/building-a-rust-api-with-claude-sonnet-45-1mfm)
-- [🚀 I Built a Block-Based AI Prompt Builder with Next.js and Supabase - Here&#39;s What I Learned](https://dev.to/jaber-said/i-built-a-block-based-ai-prompt-builder-with-nextjs-and-supabase-heres-what-i-learned-1ne1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
