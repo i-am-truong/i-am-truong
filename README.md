@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven](https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n)
-- [PriorityClass in Kubernetes: The VIP Pass for Your Pods](https://dev.to/imlucky883/priorityclass-in-kubernetes-the-vip-pass-for-your-pods-4knl)
-- [How Computers Think in 1s and 0s](https://dev.to/nimish_bordiya_50a7d4ec08/how-computers-think-in-1s-and-0s-36f6)
-- [How I Built a Fantasy Avatar Maker in Minutes with Google AI Studio](https://dev.to/atul2727/how-i-built-a-fantasy-avatar-maker-in-minutes-with-google-ai-studio-meg)
-- [DaemonSets in Kubernetes - The Silent Guardians of Your Cluster 🛡️](https://dev.to/imlucky883/daemonsets-in-kubernetes-the-silent-guardians-of-your-cluster-11j2)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-dee)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-344b)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-318b)
+- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-23c5)
+- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-8k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
