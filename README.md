@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an opensource Android AI automation agent](https://dev.to/iamvaar/i-built-an-opensource-android-ai-automation-agent-1k0i)
-- [Fuzzy String Matching in PostgreSQL with pg_trgm &lpar;Trigram Search Tutorial&rpar;](https://dev.to/talemul/fuzzy-string-matching-in-postgresql-with-pgtrgm-trigram-search-tutorial-2hc6)
-- [Why Everyone is Wrong About Time Management &lpar;And What Works Instead&rpar;](https://dev.to/novatayler/why-everyone-is-wrong-about-time-management-and-what-works-instead-26p4)
-- [Agencia SEO Local en Alicante: Maximiza Tu Visibilidad Online](https://dev.to/ideidev/agencia-seo-local-en-alicante-maximiza-tu-visibilidad-online-25bf)
-- [How I Used Future of Work to 10x My Productivity in One Month](https://dev.to/novatayler/how-i-used-future-of-work-to-10x-my-productivity-in-one-month-15f3)
+- [O Que É DevRel? Entenda Developer Relations no Brasil](https://dev.to/pachicodes/o-que-e-devrel-entenda-developer-relations-no-brasil-45i4)
+- [O Valor de uma Comunidade: Seis pilares tangíveis para o crescimento da sua empresa](https://dev.to/pachicodes/o-valor-de-uma-comunidade-seis-pilares-tangiveis-para-o-crescimento-da-sua-empresa-3i4g)
+- [I Tested Side Hustle for 30 Days. Here&#39;s What Happened.](https://dev.to/novatayler/i-tested-side-hustle-for-30-days-heres-what-happened-9i5)
+- [Avoiding the &#39;Common&#39; Trap: How I Structure Shared Packages at HoneyDrunk](https://dev.to/tatted_dev/avoiding-the-common-trap-how-i-structure-shared-packages-at-honeydrunk-4agi)
+- [Avoiding the &#39;Common&#39; Trap: How I Structure Shared Packages at HoneyDrunk](https://dev.to/tatted_dev/avoiding-the-common-trap-how-i-structure-shared-packages-at-honeydrunk-kcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
