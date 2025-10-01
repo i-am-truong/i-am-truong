@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building 7 Passive Income Streams as a Developer &lpar;While Working Full-Time&rpar;](https://dev.to/hardik_b2d8f0bca/building-7-passive-income-streams-as-a-developer-while-working-full-time-17pf)
+- [What&#39;s new in the 2025 State of JavaScript survey](https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii)
+- [AI Writing Assistants in 2025: Free vs Paid – Which Should You Choose?](https://dev.to/sanjaynaker/ai-writing-assistants-in-2025-free-vs-paid-which-should-you-choose-3on3)
 - [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-dee)
 - [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-344b)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-318b)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-23c5)
-- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-8k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
