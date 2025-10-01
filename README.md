@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fundamentos de JavaScript - Variables: La Base de Cualquier Programa](https://dev.to/martinxcvi/fundamentos-de-javascript-variables-la-base-de-cualquier-programa-1log)
-- [Improving performance in Kotlin with string concatenation](https://dev.to/gabrielcodesolutions/improving-function-with-string-concatenation-4882)
-- [Understanding the Role of a Currency Rate API in Modern Finance](https://dev.to/rameshchauhan/understanding-the-role-of-a-currency-rate-api-in-modern-finance-432l)
-- [Sequence Dynamic Cache Resizing in Oracle 21c and 19.10](https://dev.to/vahidusefzadeh/sequence-dynamic-cache-resizing-in-oracle-21c-and-1910-4hbm)
-- [Mastering GitHub Actions: Insights and pitfalls of &quot;if conditions&quot;](https://dev.to/cloud-sky-ops/mastering-github-actions-insights-and-pitfalls-of-if-conditions-1j87)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-gjk)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-944)
+- [No Laying Up Podcast: Ryder Cup Autopsy Report with Duncan Carey and Jamie Kennedy | NLU Pod, Ep 1078](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-autopsy-report-with-duncan-carey-and-jamie-kennedy-nlu-pod-ep-2i3h)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-1p3i)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-51fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
