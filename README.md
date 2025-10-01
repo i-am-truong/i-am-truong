@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The founder of Topdevs built something real. Amanda Frye and her conspirators destroyed it to cover up their crimes and steal legitimacy.](https://dev.to/portablewalkman/the-founder-of-topdevs-built-something-real-amanda-frye-and-her-conspirators-destroyed-it-to-cover-2mda)
-- [From Build-Time to Real-Time: A Better i18n Workflow for React](https://dev.to/mauro_mazzocchetti_300073/from-build-time-to-real-time-a-better-i18n-workflow-for-react-211e)
-- [Come inviare fatture a SDI FatturaPA in C#](https://dev.to/nicolaiarocci/come-inviare-fatture-a-sdi-fatturapa-in-c-5gkp)
-- [Come scaricare fatture da SDI FatturaPA in C#](https://dev.to/nicolaiarocci/come-scaricare-fatture-da-sdi-fatturapa-in-c-2a6m)
-- [How to upload SDI FatturaPA invoices with C#](https://dev.to/nicolaiarocci/how-to-upload-sdi-fatturapa-invoices-with-c-2kl1)
+- [Why LLMs Fail Without Human-Crafted Context](https://dev.to/leena_malhotra/why-llms-fail-without-human-crafted-context-1hk1)
+- [My Java Full Stack Journey Learning &lpar;Props Drilling&rpar; in React JS](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-props-drilling-in-react-js-1024)
+- [Sites vitrines vs boutiques en ligne : lequel choisir pour votre business ?](https://dev.to/service_maxsell_64ece3f66/sites-vitrines-vs-boutiques-en-ligne-lequel-choisir-pour-votre-business--4693)
+- [React-json](https://dev.to/dharshinieswaran/react-json-1h97)
+- [The Skill Developers Need Beyond Code: Orchestration](https://dev.to/rohit_gavali_0c2ad84fe4e0/the-skill-developers-need-beyond-code-orchestration-5388)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
