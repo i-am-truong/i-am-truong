@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Most RAG Pipelines Fail in Production &lpar;and How to Fix Them&rpar;](https://dev.to/piyooshrai/why-most-rag-pipelines-fail-in-production-and-how-to-fix-them-3858)
+- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-p58)
+- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2p5j)
 - [ARM System-on-Chip &lpar;SoC&rpar; Deep Dive: Edge AI and Coherency Fabric](https://dev.to/samaresh_singh_1acf4838c1/arm-system-on-chip-soc-deep-dive-edge-ai-and-coherency-fabric-52en)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5al9)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-df1)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-11k4)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-bb5)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-15np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
