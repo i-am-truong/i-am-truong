@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Passive Income Selling Prompts](https://dev.to/_5ccdd25ca4bcc9b0bf/build-passive-income-selling-prompts-1gfj)
 - [Add observability to your React Native application in 5 minutes](https://dev.to/arober39/add-observability-to-your-react-native-application-in-5-minutes-9nn)
 - [The Role of AI in Next-Gen Chip Design](https://dev.to/plurkotech/the-role-of-ai-in-next-gen-chip-design-50f0)
 - [I applied to 100+ dev jobs and got ghosted. So I built a tool that shows you what you&#39;re actually qualified for.](https://dev.to/brody_darr_0372a9415117d2/i-applied-to-100-dev-jobs-and-got-ghosted-so-i-built-a-tool-that-shows-you-what-youre-actually-ha8)
 - [Optimizing Multi-Agent Workflows in n8n: A Context-Aware Approach to Agent Handoffs](https://dev.to/alexretana/optimizing-multi-agent-workflows-in-n8n-a-context-aware-approach-to-agent-handoffs-1hc4)
-- [AI Lessons Learned](https://dev.to/zloeber/ai-lessons-learned-3k6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
