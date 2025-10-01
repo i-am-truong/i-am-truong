@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Imagify vs ShortPixel: Which Image Optimization Plugin Fits Your WordPress Site?](https://dev.to/andreialba/imagify-vs-shortpixel-which-image-optimization-plugin-fits-your-wordpress-site-21jh)
-- [A Guide to Batch Prompting with Salesforce using Flows](https://dev.to/hemantj/a-guide-to-batch-prompting-with-salesforce-using-flows-1ndl)
+- [A Guide to AI Batch Prompting with Salesforce using Flows](https://dev.to/hemantj/a-guide-to-batch-prompting-with-salesforce-using-flows-1ndl)
 - [Building VeLi: A Complete React Native Tab Navigation Tutorial](https://dev.to/fonyuygita/building-veli-a-complete-react-native-tab-navigation-tutorial-gnm)
-- [Golang Fundamentals: Master Multidimensional Arrays, Strings, and Constants with 4 Hands-On Labs](https://dev.to/labex/golang-fundamentals-master-multidimensional-arrays-strings-and-constants-with-4-hands-on-labs-b6g)
 - [DevKit.website: A Clean Regex Tester &amp; Developer Toolkit](https://dev.to/mikael_obeta/devkitwebsite-a-clean-regex-tester-developer-toolkit-4a7g)
+- [🚀 Azure Functions Deployment Simplified: Mastering Publish Profiles &amp; The Isolated Model](https://dev.to/pavan296/azure-functions-deployment-simplified-mastering-publish-profiles-the-isolated-model-464f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
