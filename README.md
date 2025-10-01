@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 How I Built a Luxury Restaurant Reservation System with Next.js &amp; Prisma](https://dev.to/aishaaliyu/how-i-built-a-luxury-restaurant-reservation-system-with-nextjs-prisma-3876)
+- [Why Coding Needs Breaks &lpar;and How Writing Contests Help&rpar;](https://dev.to/jasonturner/why-coding-needs-breaks-and-how-writing-contests-help-2hf4)
 - [Mastering TCJSGame Camera System: Creating Dynamic, Cinematic Experiences](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-camera-system-creating-dynamic-cinematic-experiences-1h0h)
-- [Movement-events on Mini Micro &lpar;part 1&rpar;](https://dev.to/sebnozzi/movement-events-on-mini-micro-part-1-3gm7)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2cb1)
-- [Why Most RAG Pipelines Fail in Production &lpar;and How to Fix Them&rpar;](https://dev.to/piyooshrai/why-most-rag-pipelines-fail-in-production-and-how-to-fix-them-3858)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-p58)
+- [Abstract Base Class &lpar;ABC&rpar;](https://dev.to/carlosrambles/abstract-base-class-abc-38cf)
+- [Day 1246 : Anticipate](https://dev.to/dwane/day-1246-anticipate-2l19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
