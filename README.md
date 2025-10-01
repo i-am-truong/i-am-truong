@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Datadog in .NET Project using Serilog](https://dev.to/naimulkarim/integrating-datadog-in-net-project-using-serilog-16ae)
-- [Tableau vs. Power BI: A Professional Comparison for Data Professionals](https://dev.to/rgbos/tableau-vs-power-bi-a-professional-comparison-for-data-professionals-4d2k)
-- [Criando uma extensão do Chrome em minutos com ChatGPT](https://dev.to/cinthia3301andrad/criando-uma-extensao-do-chrome-em-minutos-com-chatgpt-1dld)
-- [Personal Picks: Data Product News &lpar;October 1, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-october-1-2025-2p0a)
-- [Building Hayao AI: How We Created a Next-Gen AI Photo Editor](https://dev.to/jianping_liu/building-hayao-ai-how-we-created-a-next-gen-ai-photo-editor-1di7)
+- [Master PostgreSQL with Node.js: A Complete Guide to Building Robust Backends](https://dev.to/satyam_gupta_0d1ff2152dcc/master-postgresql-with-nodejs-a-complete-guide-to-building-robust-backends-5epd)
+- [NORMALIZATION](https://dev.to/santhosh_m_7dcc3d605279c5/normalization-94j)
+- [ConfigMaps and Secrets: Managing Configuration and Sensitive Data in Kubernetes 🔐](https://dev.to/imlucky883/configmaps-and-secrets-managing-configuration-and-sensitive-data-in-kubernetes-25am)
+- [Mastering EF Core Pagination: Efficient Data Retrieval](https://dev.to/rgbos/mastering-ef-core-pagination-efficient-data-retrieval-7b8)
+- [Connecting Node.js to MongoDB: A Complete Developer&#39;s Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/connecting-nodejs-to-mongodb-a-complete-developers-guide-2cfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
