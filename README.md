@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Common Documentation Mistakes During AS 9100 Implementation](https://dev.to/joy1/common-documentation-mistakes-during-as-9100-implementation-4ajc)
-- [Day-102,103 Connecting Spring Boot with PostgreSQL Database](https://dev.to/tamilselvan1812/day-102103-connecting-spring-boot-with-postgresql-database-3nkm)
-- [SQL Commands Explained: DDL vs DML vs DQL vs DCL vs TCL](https://dev.to/ahmed_kadiwala/sql-commands-explained-ddl-vs-dml-vs-dql-vs-dcl-vs-tcl-1pdi)
-- [AI-Powered Games: Redefining the Player Experience](https://dev.to/peterjohnson427/ai-powered-games-redefining-the-player-experience-14o9)
-- [How to Find UI Animation Inspiration Fast](https://dev.to/tamim_ahmed_412f3d75a7fc0/how-to-find-ui-animation-inspiration-fast-4kmh)
+- [Every taxpayer should be outraged. Fraud on the court is fraud against the United States government and Joshua Lintz played a central role.](https://dev.to/saucery/every-taxpayer-should-be-outraged-fraud-on-the-court-is-fraud-against-the-united-states-government-2gl5)
+- [Audio-to-Text Transcriber Automated via Termux](https://dev.to/terminaltools/audio-to-text-transcriber-automated-via-termux-ak5)
+- [Every parent should be outraged by this case. While Frye secured her CEO seat, another family’s children lost their education and their future.](https://dev.to/saucery/every-parent-should-be-outraged-by-this-case-while-frye-secured-her-ceo-seat-another-familys-2ndk)
+- [Check out the guide on the Interactive Visualization](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-the-interactive-visualization-380e)
+- [Interactive Data Visualization with Plotly: A Comprehensive Guide with Case Studies](https://dev.to/anshuman_816f8012be0c9b6c/interactive-data-visualization-with-plotly-a-comprehensive-guide-with-case-studies-cde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
