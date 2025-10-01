@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing Jira Issues in Markdown: Why I Keep My Backlog in the Repo](https://dev.to/saxmanjes/managing-jira-issues-in-markdown-why-i-keep-my-backlog-in-the-repo-4gdk)
+- [Building a Rust API with Claude Sonnet 4.5](https://dev.to/shuttle/building-a-rust-api-with-claude-sonnet-45-1mfm)
+- [🚀 I Built a Block-Based AI Prompt Builder with Next.js and Supabase - Here&#39;s What I Learned](https://dev.to/jaber-said/i-built-a-block-based-ai-prompt-builder-with-nextjs-and-supabase-heres-what-i-learned-1ne1)
+- [Exploring the Latest AI Models and Tools for Developers](https://dev.to/rinonten/exploring-the-latest-ai-models-and-tools-for-developers-3cac)
 - [How to Check if Code Was Made by AI](https://dev.to/marcosplusplus/how-to-check-if-code-was-made-by-ai-4n23)
-- [The Open Source World Is About to Get a Surprise 👀](https://dev.to/renderatlorg/the-open-source-world-is-about-to-get-a-surprise-5cpk)
-- [Como Verificar se um Código foi feito por IA](https://dev.to/marcosplusplus/como-verificar-se-um-codigo-foi-feito-por-ia-3inp)
-- [🔢 GCD &amp; LCM](https://dev.to/mohamad_mhana/gcd-lcm-35ma)
-- [The first technical test](https://dev.to/luc4587/the-first-technical-test-hhg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
