@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s K Visa: A New Option for Software Developers in 2025](https://dev.to/cannan_david_974c14021725/chinas-k-visa-a-new-option-for-software-developers-in-2025-7ml)
-- [Windows-Like RDP on a Linux Core? Yes, Please! 🤯](https://dev.to/voxihost_nexus/windows-like-rdp-on-a-linux-core-yes-please-15ih)
-- [The Illusions of Quality—Episode 8: 📏 Measuring What Actually Matters: Quality Metrics That Don’t Lie 🤥](https://dev.to/abdulosman/the-illusions-of-quality-episode-8-measuring-what-actually-matters-quality-metrics-that-dont-3144)
-- [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
-- [🚀 Fugindo do CRUD com PHP — Crypto Discord Monitor](https://dev.to/henriquesombisa/fugindo-do-crud-com-php-crypto-discord-monitor-4f28)
+- [Association Rules in R: Origins, Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/association-rules-in-r-origins-applications-and-case-studies-clp)
+- [Probability - Independence and Counting](https://dev.to/yadav_prasadgb_34fcd06b/probability-independence-and-counting-497e)
+- [Why React dynamic import file &lpar;~3.7 KB&rpar; take 650 ms on first load but only 45 ms on refresh with AWS S3 + CloudFront?](https://dev.to/sohan_ram_9feae12aeb49abc/why-react-dynamic-import-file-37-kb-take-650-ms-on-first-load-but-only-45-ms-on-refresh-with-4m30)
+- [TETRIS TIME 👾](https://dev.to/marcelo_martins_41c7f1c95/tetris-time-7g3)
+- [Coding Challenge Practice - Question 21](https://dev.to/tomivan/coding-challenge-practice-question-21-2kbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
