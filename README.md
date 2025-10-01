@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Multi-Agent Workflows in n8n: A Context-Aware Approach to Agent Handoffs](https://dev.to/alexretana/optimizing-multi-agent-workflows-in-n8n-a-context-aware-approach-to-agent-handoffs-1hc4)
 - [AI Lessons Learned](https://dev.to/zloeber/ai-lessons-learned-3k6c)
 - [Downgrading on Mac](https://dev.to/abhijit105/downgrading-on-mac-3k11)
 - [Trigger a child component method from parent &lpar;Vue&rpar;](https://dev.to/thejaredwilcurt/trigger-a-child-component-method-from-parent-vue-1amn)
 - [Mastering Linux Commands: Essential Tools for Efficient System Management](https://dev.to/lotanna_obianefo/mastering-linux-commands-essential-tools-for-efficient-system-management-3013)
-- [How Development Coaches Help Unlock Hidden Potential in Professionals](https://dev.to/toby-patrick/how-development-coaches-help-unlock-hidden-potential-in-professionals-1l2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
