@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Fundamentos de JavaScript - Variables: La Base de Cualquier Programa](https://dev.to/martinxcvi/fundamentos-de-javascript-variables-la-base-de-cualquier-programa-1log)
 - [Improving performance in Kotlin with string concatenation](https://dev.to/gabrielcodesolutions/improving-function-with-string-concatenation-4882)
+- [Understanding the Role of a Currency Rate API in Modern Finance](https://dev.to/rameshchauhan/understanding-the-role-of-a-currency-rate-api-in-modern-finance-432l)
 - [Sequence Dynamic Cache Resizing in Oracle 21c and 19.10](https://dev.to/vahidusefzadeh/sequence-dynamic-cache-resizing-in-oracle-21c-and-1910-4hbm)
 - [Mastering GitHub Actions: Insights and pitfalls of &quot;if conditions&quot;](https://dev.to/cloud-sky-ops/mastering-github-actions-insights-and-pitfalls-of-if-conditions-1j87)
-- [Building Domain Expertise: How Our Developers Became Camping Experts](https://dev.to/richardsandown/building-domain-expertise-how-our-developers-became-camping-experts-5bep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
