@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Down the Web3 Rabbit Hole: A Dive Into Blockchain, Crypto &amp; NFTs](https://dev.to/shaq_attack/down-the-web3-rabbit-hole-a-dive-into-blockchain-crypto-nfts-lcc)
-- [Automate Your SEO: Building a Content Engine with Rube and ChatGPT](https://dev.to/composiodev/automate-your-seo-building-a-content-engine-with-rube-and-chatgpt-3kon)
-- [Embedded Intelligence: How SQLite-vec Delivers Fast, Local Vector Search for AI.](https://dev.to/aairom/embedded-intelligence-how-sqlite-vec-delivers-fast-local-vector-search-for-ai-3dpb)
-- [How to Draw Storyboard Characters &lpar;With AI in Studiovity&rpar; 🎬](https://dev.to/studiovity_production/how-to-draw-storyboard-characters-with-ai-in-studiovity-4eo7)
-- [Privacy‑Focused Web‑Surfing &amp; App Traffic: Setting Up a Fast, Low‑Latency Android Stack](https://dev.to/dev-blogg/privacy-focused-web-surfing-app-traffic-setting-up-a-fast-low-latency-android-stack-4gi7)
+- [MapLibre GL Markers: Custom Icons, Popups &amp; Events with Geoapify](https://dev.to/geoapify-maps-api/maplibre-gl-markers-custom-icons-popups-events-with-geoapify-gm8)
+- [3 Weeks Left: PlotSenseAI Hackathon 2025 🚀](https://dev.to/havilahacademy/3-weeks-left-plotsenseai-hackathon-2025-3pm8)
+- [🔑MultiLock in Areg SDK: Portable, Efficient Mixed Synchronization in C++](https://dev.to/aregtech/multilock-in-areg-sdk-portable-efficient-mixed-synchronization-in-c-4oa0)
+- [#DAY 6 - Organization &amp; Public Status Page](https://dev.to/samueladeduntan/day-6-organization-public-status-page-4ei7)
+- [I built a real-time inflation tracker in 24 hours using AI &lpar;PHP + SQLite + Claude&rpar;](https://dev.to/clarktechventuresdev/i-built-a-real-time-inflation-tracker-in-24-hours-using-ai-php-sqlite-claude-5ab8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
