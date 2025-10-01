@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Kafka to Clean Tables: Building a Confluent Snowflake Pipeline with Streams &amp; Tasks](https://dev.to/kepha_mwandiki/from-kafka-to-clean-tables-building-a-confluent-snowflake-pipeline-with-streams-tasks-140d)
 - [🚀 Building ascii-vibes: My Journey to Creating My Own ASCII &amp; Emoji Banner Module](https://dev.to/puneetkumar2010/building-ascii-vibes-my-journey-to-creating-my-own-ascii-emoji-banner-module-pde)
 - [Sora 2 vs Veo 3: The Future of AI Video Explained](https://dev.to/alifar/sora-2-vs-veo-3-the-future-of-ai-video-explained-3d0n)
 - [How to Install PostgreSQL 18 on Ubuntu 24.04](https://dev.to/topeogunleye/how-to-install-postgresql-18-on-ubuntu-2404-1doc)
 - [IAM POLICIES](https://dev.to/ntsezenelvis/iam-policies-16ma)
-- [11 Best Programming Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-programming-courses-to-learn-in-2026-353k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
