@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest challenge prompt](https://dev.to/rushikesh_pundkar_913318c/hacktoberfest-challenge-prompt-53go)
-- [Next.js and the Edge Runtime: A Guide for Full-Stack Developers](https://dev.to/waelhabbal/nextjs-and-the-edge-runtime-a-guide-for-full-stack-developers-17g3)
-- [Building an HTML-to-Image Website Screenshot Tool](https://dev.to/reynaldi/building-an-html-to-image-website-screenshot-tool-20g7)
-- [Moving the Needle: How to Analyze Your Product Roadmap Monthly](https://dev.to/js402/moving-the-needle-how-to-analyze-your-product-roadmap-monthly-3f0p)
-- [Building an API for processing FHIR Data in Go](https://dev.to/roman-golovanov/building-an-api-for-processing-fhir-data-in-go-3hk9)
+- [🚀 Fugindo do CRUD com PHP — Crypto Discord Monitor](https://dev.to/henriquesombisa/fugindo-do-crud-com-php-crypto-discord-monitor-4f28)
+- [When Brushstrokes Meet Bytes: Finding Data in Everyday Art 🎨💾](https://dev.to/l_zia_l/when-brushstrokes-meet-bytes-finding-data-in-everyday-art-36ad)
+- [Small-Scale Chaos Testing: The Missing Step Before Production](https://dev.to/gkoos/small-scale-chaos-testing-the-missing-step-before-production-30k2)
+- [How to Evaluate Microsoft Dynamics 365 Partners Based on Support and Services](https://dev.to/jackryan365/how-to-evaluate-microsoft-dynamics-365-partners-based-on-support-and-services-2kbh)
+- [Are You Ready for the AI Artist Inside Your Pocket? Exploring Generative AI!](https://dev.to/karthik_n/are-you-ready-for-the-ai-artist-inside-your-pocket-exploring-generative-ai-2fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
