@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentos de JavaScript - Variables: La Base de Cualquier Programa](https://dev.to/martinxcvi/fundamentos-de-javascript-variables-la-base-de-cualquier-programa-1log)
 - [Improving performance in Kotlin with string concatenation](https://dev.to/gabrielcodesolutions/improving-function-with-string-concatenation-4882)
 - [Sequence Dynamic Cache Resizing in Oracle 21c and 19.10](https://dev.to/vahidusefzadeh/sequence-dynamic-cache-resizing-in-oracle-21c-and-1910-4hbm)
 - [Mastering GitHub Actions: Insights and pitfalls of &quot;if conditions&quot;](https://dev.to/cloud-sky-ops/mastering-github-actions-insights-and-pitfalls-of-if-conditions-1j87)
 - [Building Domain Expertise: How Our Developers Became Camping Experts](https://dev.to/richardsandown/building-domain-expertise-how-our-developers-became-camping-experts-5bep)
-- [The Immutable Exhibition: Why Tuples Never Change](https://dev.to/aaron_rose_0787cc8b4775a0/the-immutable-exhibition-why-tuples-never-change-4njc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
