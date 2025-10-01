@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Passive Income Selling Prompts](https://dev.to/_5ccdd25ca4bcc9b0bf/build-passive-income-selling-prompts-1gfj)
-- [Add observability to your React Native application in 5 minutes](https://dev.to/arober39/add-observability-to-your-react-native-application-in-5-minutes-9nn)
-- [The Role of AI in Next-Gen Chip Design](https://dev.to/plurkotech/the-role-of-ai-in-next-gen-chip-design-50f0)
-- [I applied to 100+ dev jobs and got ghosted. So I built a tool that shows you what you&#39;re actually qualified for.](https://dev.to/brody_darr_0372a9415117d2/i-applied-to-100-dev-jobs-and-got-ghosted-so-i-built-a-tool-that-shows-you-what-youre-actually-ha8)
-- [Optimizing Multi-Agent Workflows in n8n: A Context-Aware Approach to Agent Handoffs](https://dev.to/alexretana/optimizing-multi-agent-workflows-in-n8n-a-context-aware-approach-to-agent-handoffs-1hc4)
+- [GitOps for Basil: Automating an Urban Garden Without Overengineering It](https://dev.to/sholt/gitops-for-basil-automating-an-urban-garden-without-overengineering-it-2nil)
+- [Components in React](https://dev.to/vidya_varshini/components-in-react-2hdg)
+- [I Tested Efficiency for 30 Days. Here&#39;s What Happened.](https://dev.to/novatayler/i-tested-efficiency-for-30-days-heres-what-happened-hp)
+- [The $100 Climate Stack: Spend to Save the Planet, One Benjamin at a Time](https://dev.to/sholt/the-100-climate-stack-spend-to-save-the-planet-one-benjamin-at-a-time-32l8)
+- [What is Gin? A Deep Dive into the Go Web Framework in Our Project](https://dev.to/crow004/what-is-gin-a-deep-dive-into-the-go-web-framework-in-our-project-20n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
