@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RBAC in Kubernetes: Understanding Roles, and RoleBindings 🔐](https://dev.to/imlucky883/rbac-in-kubernetes-understanding-roles-and-rolebindings-4nj3)
+- [Developers Learning Stack: learn how you can master new Technologies in 30 days](https://dev.to/pratham_naik_project_manager/developers-learning-stack-learn-how-you-can-master-new-technologies-in-30-days-50i3)
+- [LUCA: A Modern Architecture for SwiftUI Development](https://dev.to/kyome22/luca-a-modern-architecture-for-swiftui-development-3g2i)
+- [&quot;Why Distributed Systems Break — and Still Work&quot;](https://dev.to/yash_khillare_392e62d251a/why-distributed-systems-break-and-still-work-1jl8)
 - [Do We Need UX for Machines Talking to Machines?](https://dev.to/dct_technology/do-we-need-ux-for-machines-talking-to-machines-4eg3)
-- [Dev log: Nothing cosmetic!](https://dev.to/matthew_ricci_0680a2a22c6/dev-log-nothing-cosmetic-3cek)
-- [Using Postman to Test Your Laravel APIs](https://dev.to/rohitdhiman/using-postman-to-test-your-laravel-apis-293i)
-- [TRANSACTIONS , DEADLOCKS AND LOG BASED RECOVERY](https://dev.to/santhosh_m_7dcc3d605279c5/transactions-deadlocks-and-log-based-recovery-4hel)
-- [Why You Don&#39;t Need GEO: How Strong SEO Already Delivers Generative Engine Optimization Results](https://dev.to/bezal_benny_68a567103f98c/why-you-dont-need-geo-how-strong-seo-already-delivers-generative-engine-optimization-results-e59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
