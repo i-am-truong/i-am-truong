@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SCE 2.5.0 for Linux Released – Featuring New CIS Benchmarks](https://dev.to/puppet/sce-250-for-linux-released-featuring-new-cis-benchmarks-3a8i)
+- [a](https://dev.to/killux/a-pm8)
+- [Performance Bottlenecks in Backend Development and How to Handle Them](https://dev.to/yasserelgammal/performance-bottlenecks-in-backend-development-and-how-to-handle-them-fmo)
+- [Laravel Doesn’t Need GraphQL Part 2: Use Components with Props for Exact Data](https://dev.to/raheelshan/laravel-doesnt-need-graphql-part-2-use-components-with-props-for-exact-data-488b)
 - [CompTIA Network+ N10-009 5.5 Study Guide: Network Device Commands and Tools](https://dev.to/andrew_despres/comptia-network-n10-009-55-study-guide-network-device-commands-and-tools-387e)
-- [Airdrops are safe but what about dusting 🤔 How to distinguish the two](https://dev.to/5uig3n3ris/airdrops-are-safe-but-what-about-dusting-how-to-distinguish-the-two-3f7)
-- [Mastering High Availability: My Azure Load Balancer Implementation Journey](https://dev.to/peter_samuel_052b9056e236/mastering-high-availability-my-azure-load-balancer-implementation-journey-5hab)
-- [Laravel Doesn’t Need GraphQL Part 1: Use DTOs and AQC for Exact Data](https://dev.to/raheelshan/laravel-doesnt-need-graphql-part-1-use-dtos-and-aqc-for-exact-data-k71)
-- [🚀 Updating and Deleting Tasks in Our .NET + PostgreSQL Todo API](https://dev.to/asutosh2001/updating-and-deleting-tasks-in-our-net-postgresql-todo-api-3ofk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
