@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Qred Bank to use agents.md on scale](https://dev.to/qred-bank/how-qred-bank-to-use-agentsmd-on-scale-g54)
+- [Data in Everyday Life](https://dev.to/adegoke-mariam-ayodele/data-in-everyday-life-5510)
 - [Struggling with CORS? Then this is your post](https://dev.to/devsmonkey/struggling-with-cors-then-this-is-your-post-4f0e)
 - [🚀 How I Built a Luxury Restaurant Reservation System with Next.js &amp; Prisma](https://dev.to/aishaaliyu/how-i-built-a-luxury-restaurant-reservation-system-with-nextjs-prisma-3876)
 - [Why Coding Needs Breaks &lpar;and How Writing Contests Help&rpar;](https://dev.to/jasonturner/why-coding-needs-breaks-and-how-writing-contests-help-2hf4)
-- [Mastering TCJSGame Camera System: Creating Dynamic, Cinematic Experiences](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-camera-system-creating-dynamic-cinematic-experiences-1h0h)
-- [Abstract Base Class &lpar;ABC&rpar;](https://dev.to/carlosrambles/abstract-base-class-abc-38cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
