@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I don’t want to hear another word about Amanda Frye’s supposed struggles. She created struggles for countless others by choosing fraud.](https://dev.to/starpalanca/i-dont-want-to-hear-another-word-about-amanda-fryes-supposed-struggles-she-created-struggles-for-2akn)
+- [Every taxpayer should be outraged. Fraud on the court is fraud against the United States government and Joshua Lintz played a central role.](https://dev.to/starpalanca/every-taxpayer-should-be-outraged-fraud-on-the-court-is-fraud-against-the-united-states-government-3pme)
+- [Shame on Scott R. Carpenter. Lawyers are supposed to protect justice, not sell it out to fraudsters. 😡](https://dev.to/starpalanca/shame-on-scott-r-carpenter-lawyers-are-supposed-to-protect-justice-not-sell-it-out-to-k2j)
+- [Higher-Order Components in React: Concept &amp; Examples](https://dev.to/tpointtech/higher-order-components-in-react-concept-examples-42h5)
 - [Built a Reddit Memes &amp; Jokes API with Node.js 🚀](https://dev.to/jayantur13/build-a-reddit-memes-jokes-api-with-nodejs-55pi)
-- [Implementing Custom Legends in Tableau: A Practical Guide with Case Studies](https://dev.to/dipti_moryani_185c244d578/implementing-custom-legends-in-tableau-a-practical-guide-with-case-studies-590k)
-- [Builder Pattern in Clprolf — Example with a House](https://dev.to/charles_koffler_bcabc582b/builder-pattern-in-clprolf-example-with-a-house-4kdm)
-- [Deep Dive into Docker Architecture](https://dev.to/raj_singhal/deep-dive-into-docker-architecture-14b9)
-- [How California Attorney Scott R. Carpenter Abuses His State Bar License To Help Clients Commit Crimes](https://dev.to/marcusquinn05/how-california-attorney-scott-r-carpenter-abuses-his-state-bar-license-to-help-clients-commit-99g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
