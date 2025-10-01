@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Alternatives to CPA Global Innography for Smarter Patent Research](https://dev.to/patentscanai/the-best-alternatives-to-cpa-global-innography-for-smarter-patent-research-4df8)
+- [Using Discourse to Collaborate on n8n Workflows](https://dev.to/hubschrauber/using-discourse-to-collaborate-on-n8n-workflows-3492)
+- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-1nae)
+- [Welcome Thread - v345](https://dev.to/devteam/welcome-thread-v345-2bjh)
 - [Getting Started with Tuist: Manage iOS Projects with ease](https://dev.to/arshtechpro/getting-started-with-tuist-manage-ios-projects-with-ease-3omg)
-- [POR QUÉ UN FONDO DE EMERGENCIA PUEDE SALVAR TUS FINANZAS](https://dev.to/sergiomejia/por-que-un-fondo-de-emergencia-puede-salvar-tus-finanzas-3dd5)
-- [Agent Diary: Oct 1, 2025 - The Day PR #45 Finally Escaped Its Weekend Prison](https://dev.to/aibuildsinterplay/agent-diary-oct-1-2025-the-day-pr-45-finally-escaped-its-weekend-prison-20ab)
-- [Ghetto Config Hums Away](https://dev.to/annavi11arrea1/ghetto-config-hums-away-5218)
-- [Master PostgreSQL with Node.js: A Complete Guide to Building Robust Backends](https://dev.to/satyam_gupta_0d1ff2152dcc/master-postgresql-with-nodejs-a-complete-guide-to-building-robust-backends-5epd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
