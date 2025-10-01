@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Bash Scripting With Me 🚀 - Day 8](https://dev.to/babsarena/learn-bash-scripting-with-me-day-8-k6b)
-- [The Cost of Concurrency Interop: Trading Clean Modularity for Shared JVM Efficiency](https://dev.to/rob_d_2c0d55e14e7037f2/the-cost-of-concurrency-interop-trading-clean-modularity-for-shared-jvm-efficiency-478f)
-- [ToolHive: Remote MCP Server Support](https://dev.to/amirejaz/toolhive-remote-mcp-server-support-3h93)
-- [Angular&#39;s Game-Changing CSP Security Headers: Why Your Inline CSS and JS Just Got Safer](https://dev.to/codewithrajat/angulars-game-changing-csp-security-headers-why-your-inline-css-and-js-just-got-safer-23c4)
-- [⚛️ React keeps evolving - and with it, the way we build smooth, responsive UIs](https://dev.to/askhan963/react-keeps-evolving-and-with-it-the-way-we-build-smooth-responsive-uis-1bd4)
+- [From Pocket to Wallabag: A Self-Hosted Migration Story](https://dev.to/pascal_cescato_692b7a8a20/from-pocket-to-wallabag-a-self-hosted-migration-story-2df7)
+- [How Can I Write a Movie Script?](https://dev.to/studiovity_production/how-can-i-write-a-movie-script-3f0g)
+- [Sleutel vergeten in huis: Praktische oplossingen zonder schade](https://dev.to/slotenmakerhulp-locksmith/sleutel-vergeten-in-huis-praktische-oplossingen-zonder-schade-2lld)
+- [How AI Is Transforming B2B Lead Generation and Account Targeting](https://dev.to/noah_jones_vm/how-ai-is-transforming-b2b-lead-generation-and-account-targeting-30mm)
+- [Script Writing Software: Why Studiovity Stands Out for Writers &amp; Filmmakers](https://dev.to/studiovity_production/script-writing-software-why-studiovity-stands-out-for-writers-filmmakers-4b0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
