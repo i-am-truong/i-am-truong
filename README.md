@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Tuist: Manage iOS Projects with ease](https://dev.to/arshtechpro/getting-started-with-tuist-manage-ios-projects-with-ease-3omg)
+- [POR QUÉ UN FONDO DE EMERGENCIA PUEDE SALVAR TUS FINANZAS](https://dev.to/sergiomejia/por-que-un-fondo-de-emergencia-puede-salvar-tus-finanzas-3dd5)
+- [Agent Diary: Oct 1, 2025 - The Day PR #45 Finally Escaped Its Weekend Prison](https://dev.to/aibuildsinterplay/agent-diary-oct-1-2025-the-day-pr-45-finally-escaped-its-weekend-prison-20ab)
+- [Ghetto Config Hums Away](https://dev.to/annavi11arrea1/ghetto-config-hums-away-5218)
 - [Master PostgreSQL with Node.js: A Complete Guide to Building Robust Backends](https://dev.to/satyam_gupta_0d1ff2152dcc/master-postgresql-with-nodejs-a-complete-guide-to-building-robust-backends-5epd)
-- [NORMALIZATION](https://dev.to/santhosh_m_7dcc3d605279c5/normalization-94j)
-- [ConfigMaps and Secrets: Managing Configuration and Sensitive Data in Kubernetes 🔐](https://dev.to/imlucky883/configmaps-and-secrets-managing-configuration-and-sensitive-data-in-kubernetes-25am)
-- [Mastering EF Core Pagination: Efficient Data Retrieval](https://dev.to/rgbos/mastering-ef-core-pagination-efficient-data-retrieval-7b8)
-- [Connecting Node.js to MongoDB: A Complete Developer&#39;s Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/connecting-nodejs-to-mongodb-a-complete-developers-guide-2cfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
