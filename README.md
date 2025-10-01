@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest challenge prompt](https://dev.to/rushikesh_pundkar_913318c/hacktoberfest-challenge-prompt-53go)
+- [Next.js and the Edge Runtime: A Guide for Full-Stack Developers](https://dev.to/waelhabbal/nextjs-and-the-edge-runtime-a-guide-for-full-stack-developers-17g3)
 - [Building an HTML-to-Image Website Screenshot Tool](https://dev.to/reynaldi/building-an-html-to-image-website-screenshot-tool-20g7)
 - [Moving the Needle: How to Analyze Your Product Roadmap Monthly](https://dev.to/js402/moving-the-needle-how-to-analyze-your-product-roadmap-monthly-3f0p)
-- [Building an API for processing FHIR Data in Go](https://dev.to/roman_golovanov_980dc456d/building-an-api-for-processing-fhir-data-in-go-3hk9)
-- [Why Memorizing Bible Verses Without Context Could Be More Harmful Than Helpful](https://dev.to/brain_athlete/why-memorizing-bible-verses-without-context-could-be-more-harmful-than-helpful-410e)
-- [Keep Your Computer Awake with Espresso ☕️ – A Lightweight Cross-Platform Tray App](https://dev.to/abhijith_p_subash/keep-your-computer-awake-with-espresso-a-lightweight-cross-platform-tray-app-35dd)
+- [Building an API for processing FHIR Data in Go](https://dev.to/roman-golovanov/building-an-api-for-processing-fhir-data-in-go-3hk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
