@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Passed the AWS Solutions Architect Associate &lpar;SAA-C03&rpar; Exam with 863 Marks](https://dev.to/nishath_jp/how-i-passed-the-aws-solutions-architect-associate-saa-c03-exam-with-863-marks-102a)
-- [**The Power of AI in Cybersecurity: Unleashing the Potential](https://dev.to/drcarlosruizviquez/the-power-of-ai-in-cybersecurity-unleashing-the-potential-4i7o)
-- [Thank you so much for this great review of &quot;AWS for Non-Engineers&quot;!!](https://dev.to/hiro/thank-you-so-much-for-this-great-review-of-aws-for-non-engineers-3jd8)
-- [The age-old question of RAG system approaches](https://dev.to/drcarlosruizviquez/the-age-old-question-of-rag-system-approaches-1d30)
-- [Contributing to Rhino: Building the Future of MVP Development](https://dev.to/codalio/contributing-to-rhino-building-the-future-of-mvp-development-17jo)
+- [CompTIA Network+ N10-009 5.5 Study Guide: Network Device Commands and Tools](https://dev.to/andrew_despres/comptia-network-n10-009-55-study-guide-network-device-commands-and-tools-387e)
+- [Airdrops are safe but what about dusting 🤔 How to distinguish the two](https://dev.to/5uig3n3ris/airdrops-are-safe-but-what-about-dusting-how-to-distinguish-the-two-3f7)
+- [Mastering High Availability: My Azure Load Balancer Implementation Journey](https://dev.to/peter_samuel_052b9056e236/mastering-high-availability-my-azure-load-balancer-implementation-journey-5hab)
+- [Laravel Doesn’t Need GraphQL Part 1: Use DTOs and AQC for Exact Data](https://dev.to/raheelshan/laravel-doesnt-need-graphql-part-1-use-dtos-and-aqc-for-exact-data-k71)
+- [🚀 Updating and Deleting Tasks in Our .NET + PostgreSQL Todo API](https://dev.to/asutosh2001/updating-and-deleting-tasks-in-our-net-postgresql-todo-api-3ofk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
