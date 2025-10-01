@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Association Rules in R: Origins, Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/association-rules-in-r-origins-applications-and-case-studies-clp)
-- [Probability - Independence and Counting](https://dev.to/yadav_prasadgb_34fcd06b/probability-independence-and-counting-497e)
-- [Why React dynamic import file &lpar;~3.7 KB&rpar; take 650 ms on first load but only 45 ms on refresh with AWS S3 + CloudFront?](https://dev.to/sohan_ram_9feae12aeb49abc/why-react-dynamic-import-file-37-kb-take-650-ms-on-first-load-but-only-45-ms-on-refresh-with-4m30)
-- [TETRIS TIME 👾](https://dev.to/marcelo_martins_41c7f1c95/tetris-time-7g3)
-- [Coding Challenge Practice - Question 21](https://dev.to/tomivan/coding-challenge-practice-question-21-2kbl)
+- [🚀 Building ascii-vibes: My Journey to Creating My Own ASCII &amp; Emoji Banner Module](https://dev.to/puneetkumar2010/building-ascii-vibes-my-journey-to-creating-my-own-ascii-emoji-banner-module-pde)
+- [Sora 2 vs Veo 3: The Future of AI Video Explained](https://dev.to/alifar/sora-2-vs-veo-3-the-future-of-ai-video-explained-3d0n)
+- [How to Install PostgreSQL 18 on Ubuntu 24.04](https://dev.to/topeogunleye/how-to-install-postgresql-18-on-ubuntu-2404-1doc)
+- [IAM POLICIES](https://dev.to/ntsezenelvis/iam-policies-16ma)
+- [11 Best Programming Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-programming-courses-to-learn-in-2026-353k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
