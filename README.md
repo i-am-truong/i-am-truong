@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SCE 2.5.0 for Linux Released – Featuring New CIS Benchmarks](https://dev.to/puppet/sce-250-for-linux-released-featuring-new-cis-benchmarks-3a8i)
-- [a](https://dev.to/killux/a-pm8)
-- [Performance Bottlenecks in Backend Development and How to Handle Them](https://dev.to/yasserelgammal/performance-bottlenecks-in-backend-development-and-how-to-handle-them-fmo)
-- [Laravel Doesn’t Need GraphQL Part 2: Use Components with Props for Exact Data](https://dev.to/raheelshan/laravel-doesnt-need-graphql-part-2-use-components-with-props-for-exact-data-488b)
-- [CompTIA Network+ N10-009 5.5 Study Guide: Network Device Commands and Tools](https://dev.to/andrew_despres/comptia-network-n10-009-55-study-guide-network-device-commands-and-tools-387e)
+- [Imagify vs ShortPixel: Which Image Optimization Plugin Fits Your WordPress Site?](https://dev.to/andreialba/imagify-vs-shortpixel-which-image-optimization-plugin-fits-your-wordpress-site-21jh)
+- [A Guide to Batch Prompting with Salesforce using Flows](https://dev.to/hemantj/a-guide-to-batch-prompting-with-salesforce-using-flows-1ndl)
+- [Building VeLi: A Complete React Native Tab Navigation Tutorial](https://dev.to/fonyuygita/building-veli-a-complete-react-native-tab-navigation-tutorial-gnm)
+- [Golang Fundamentals: Master Multidimensional Arrays, Strings, and Constants with 4 Hands-On Labs](https://dev.to/labex/golang-fundamentals-master-multidimensional-arrays-strings-and-constants-with-4-hands-on-labs-b6g)
+- [DevKit.website: A Clean Regex Tester &amp; Developer Toolkit](https://dev.to/mikael_obeta/devkitwebsite-a-clean-regex-tester-developer-toolkit-4a7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
