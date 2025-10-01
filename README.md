@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The first technical test](https://dev.to/luc4587/the-first-technical-test-hhg)
+- [Completed Amazon Cloud Institute](https://dev.to/kfearless/completed-amazon-cloud-institute-n28)
+- [I&#39;m new to this community and currently on the Software Dev Bootcamp. Can someone please guide where can I find beginner projects on this platforms. Thanks a lot.](https://dev.to/iamhxh/im-new-to-this-community-and-currently-on-the-software-dev-bootcamp-can-someone-please-guide-56g4)
+- [Making my Laravel Development simple with Forge](https://dev.to/johndemian/making-my-laravel-development-simple-with-forge-4f89)
 - [Debugging a Hexagonal CSS Masonry Layout](https://dev.to/ingosteinke/debugging-a-hexagonal-css-masonry-layout-483a)
-- [It&#39;s amazing how quickly you can learn a subject when the servers are on fire and you need to learn it.](https://dev.to/ben/its-amazing-how-quickly-you-can-learn-a-subject-when-the-servers-are-on-fire-and-you-need-to-learn-3abh)
-- [Third‑party DNS on ELB](https://dev.to/wakeup_flower_8591a6cb6a9/third-party-dns-on-elb-56f9)
-- [What are some good websites on which programmers can write articles?](https://dev.to/toluxx/what-are-some-good-websites-on-which-programmers-can-write-articles-gfm)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-391p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
