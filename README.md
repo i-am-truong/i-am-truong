@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven](https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n)
+- [PriorityClass in Kubernetes: The VIP Pass for Your Pods](https://dev.to/imlucky883/priorityclass-in-kubernetes-the-vip-pass-for-your-pods-4knl)
+- [How Computers Think in 1s and 0s](https://dev.to/nimish_bordiya_50a7d4ec08/how-computers-think-in-1s-and-0s-36f6)
 - [How I Built a Fantasy Avatar Maker in Minutes with Google AI Studio](https://dev.to/atul2727/how-i-built-a-fantasy-avatar-maker-in-minutes-with-google-ai-studio-meg)
 - [DaemonSets in Kubernetes - The Silent Guardians of Your Cluster 🛡️](https://dev.to/imlucky883/daemonsets-in-kubernetes-the-silent-guardians-of-your-cluster-11j2)
-- [Nexy vs Slack: Why an AI Workspace Is the Smarter Choice](https://dev.to/nexy/nexy-vs-slack-why-an-ai-workspace-is-the-smarter-choice-1nal)
-- [Effective Context Engineering for AI Agents 🤖](https://dev.to/techstuff/effective-context-engineering-for-ai-agents-4n6b)
-- [A Note on Taking Backups from Standby](https://dev.to/vahidusefzadeh/a-note-on-taking-backups-from-standby-1o50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
