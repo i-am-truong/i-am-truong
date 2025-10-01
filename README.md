@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MyNPM](https://dev.to/ernestobellei/mynpm-1fip)
-- [The low-cost path to AI Mastery: building a Wiki Navigator with pure Similarity Search](https://dev.to/optiklab/the-low-cost-path-to-ai-mastery-building-a-wiki-navigator-with-pure-similarity-search-dak)
-- [A 15-Year Developer’s Journey Into Software Architecture and Growth](https://dev.to/rubenlucena/a-15-year-developers-journey-into-software-architecture-and-growth-442f)
-- [Logger in opencode codebase.](https://dev.to/ramunarasinga-11/logger-in-opencode-codebase-ji2)
-- [How Product Analytics Shapes User Experience: Funnels, Retention, and Experiments](https://dev.to/mujtabat/how-product-analytics-shapes-user-experience-funnels-retention-and-experiments-4cfm)
+- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-1n4l)
+- [How Developers Can Automate GitHub Wins on LinkedIn in 2025](https://dev.to/bearconnectio/how-developers-can-automate-github-wins-on-linkedin-in-2025-57cj)
+- [Guantes de hombre: estilo y funcionalidad en los días fríos](https://dev.to/juan_carlosoriseda_e56b9/guantes-de-hombre-estilo-y-funcionalidad-en-los-dias-frios-gjo)
+- [Slaapbanken: Welke soorten bekleding zijn het meest duurzaam en comfortabel](https://dev.to/bremafa/slaapbanken-welke-soorten-bekleding-zijn-het-meest-duurzaam-en-comfortabel-1laa)
+- [I Built Shadcn Builder – A Form Builder for Shadcn/UI](https://dev.to/iduspara/i-built-shadcn-builder-a-form-builder-for-shadcnui-131a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
