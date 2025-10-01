@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Modern Ways to &lpar;not&rpar; Install Python and Virtual Environments](https://dev.to/aaronsteers/the-modern-ways-to-not-install-python-1e85)
+- [Developers vs AI: Helpful Partner or Dangerous Shortcut?](https://dev.to/marxon/developers-vs-ai-helpful-partner-or-dangerous-shortcut-37fa)
 - [The Architect-Executioner Model - Using AI as a Precision Tool, Not a Replacement for Thinking](https://dev.to/gtindo/the-architect-executioner-model-using-ai-as-a-precision-tool-not-a-replacement-for-thinking-15ip)
 - [The CEO&#39;s Source Code: Deconstructing a High-Impact LinkedIn Brand for B2B Founders](https://dev.to/michaelaiglobal/the-ceos-source-code-deconstructing-a-high-impact-linkedin-brand-for-b2b-founders-52im)
 - [Nice to meet You, folks!](https://dev.to/stepan_gavrilenko_7545a0a/nice-to-meet-you-folks-3bif)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-10hf)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-141n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
