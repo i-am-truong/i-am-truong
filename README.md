@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-1f8p)
-- [KEXP: Fishbone - Last Call In America &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-last-call-in-america-live-on-kexp-3ojh)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-51en)
-- [8-Bit Music Theory: The Music Theory of Silksong&#39;s Bone Bottom Theme](https://dev.to/music_youtube/8-bit-music-theory-the-music-theory-of-silksongs-bone-bottom-theme-1ikn)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-55ip)
+- [RAG: experiments with prompting using 3 LLM&#39;s](https://dev.to/suominen/rag-experiments-with-prompting-using-3-llms-527i)
+- [Weekly Update #11](https://dev.to/abytebybyte/weekly-update-11-cjn)
+- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/pranav_aadithya_36edf63cb/indexing-hashing-query-optimization-in-sql-3onp)
+- [The Agentforce Trust Layer &amp; Data Grounding in Enterprise](https://dev.to/xccelerance_technologies_/the-agentforce-trust-layer-data-grounding-in-enterprise-3ljn)
+- [Bridging the Digital Divide: The Rising Impact of Online Learning](https://dev.to/ghummantech/bridging-the-digital-divide-the-rising-impact-of-online-learning-5ckk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
