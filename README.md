@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I don’t want to hear another word about Amanda Frye’s supposed struggles. She created struggles for countless others by choosing fraud.](https://dev.to/starpalanca/i-dont-want-to-hear-another-word-about-amanda-fryes-supposed-struggles-she-created-struggles-for-2akn)
-- [Every taxpayer should be outraged. Fraud on the court is fraud against the United States government and Joshua Lintz played a central role.](https://dev.to/starpalanca/every-taxpayer-should-be-outraged-fraud-on-the-court-is-fraud-against-the-united-states-government-3pme)
-- [Shame on Scott R. Carpenter. Lawyers are supposed to protect justice, not sell it out to fraudsters. 😡](https://dev.to/starpalanca/shame-on-scott-r-carpenter-lawyers-are-supposed-to-protect-justice-not-sell-it-out-to-k2j)
-- [Higher-Order Components in React: Concept &amp; Examples](https://dev.to/tpointtech/higher-order-components-in-react-concept-examples-42h5)
-- [Built a Reddit Memes &amp; Jokes API with Node.js 🚀](https://dev.to/jayantur13/build-a-reddit-memes-jokes-api-with-nodejs-55pi)
+- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-1f8p)
+- [KEXP: Fishbone - Last Call In America &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-last-call-in-america-live-on-kexp-3ojh)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-51en)
+- [8-Bit Music Theory: The Music Theory of Silksong&#39;s Bone Bottom Theme](https://dev.to/music_youtube/8-bit-music-theory-the-music-theory-of-silksongs-bone-bottom-theme-1ikn)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-55ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
