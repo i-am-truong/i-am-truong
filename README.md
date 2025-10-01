@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s K Visa: A New Option for Software Developers in 2025](https://dev.to/cannan_david_974c14021725/chinas-k-visa-a-new-option-for-software-developers-in-2025-7ml)
+- [Windows-Like RDP on a Linux Core? Yes, Please! 🤯](https://dev.to/voxihost_nexus/windows-like-rdp-on-a-linux-core-yes-please-15ih)
+- [The Illusions of Quality—Episode 8: 📏 Measuring What Actually Matters: Quality Metrics That Don’t Lie 🤥](https://dev.to/abdulosman/the-illusions-of-quality-episode-8-measuring-what-actually-matters-quality-metrics-that-dont-3144)
+- [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
 - [🚀 Fugindo do CRUD com PHP — Crypto Discord Monitor](https://dev.to/henriquesombisa/fugindo-do-crud-com-php-crypto-discord-monitor-4f28)
-- [When Brushstrokes Meet Bytes: Finding Data in Everyday Art 🎨💾](https://dev.to/l_zia_l/when-brushstrokes-meet-bytes-finding-data-in-everyday-art-36ad)
-- [Small-Scale Chaos Testing: The Missing Step Before Production](https://dev.to/gkoos/small-scale-chaos-testing-the-missing-step-before-production-30k2)
-- [How to Evaluate Microsoft Dynamics 365 Partners Based on Support and Services](https://dev.to/jackryan365/how-to-evaluate-microsoft-dynamics-365-partners-based-on-support-and-services-2kbh)
-- [Are You Ready for the AI Artist Inside Your Pocket? Exploring Generative AI!](https://dev.to/karthik_n/are-you-ready-for-the-ai-artist-inside-your-pocket-exploring-generative-ai-2fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
