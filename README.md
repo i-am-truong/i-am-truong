@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitOps for Basil: Automating an Urban Garden Without Overengineering It](https://dev.to/sholt/gitops-for-basil-automating-an-urban-garden-without-overengineering-it-2nil)
-- [Components in React](https://dev.to/vidya_varshini/components-in-react-2hdg)
-- [I Tested Efficiency for 30 Days. Here&#39;s What Happened.](https://dev.to/novatayler/i-tested-efficiency-for-30-days-heres-what-happened-hp)
-- [The $100 Climate Stack: Spend to Save the Planet, One Benjamin at a Time](https://dev.to/sholt/the-100-climate-stack-spend-to-save-the-planet-one-benjamin-at-a-time-32l8)
-- [What is Gin? A Deep Dive into the Go Web Framework in Our Project](https://dev.to/crow004/what-is-gin-a-deep-dive-into-the-go-web-framework-in-our-project-20n)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-10hf)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-141n)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3e85)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-3jla)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-12j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
