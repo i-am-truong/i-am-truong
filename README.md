@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Pocket to Wallabag: A Self-Hosted Migration Story](https://dev.to/pascal_cescato_692b7a8a20/from-pocket-to-wallabag-a-self-hosted-migration-story-2df7)
-- [How Can I Write a Movie Script?](https://dev.to/studiovity_production/how-can-i-write-a-movie-script-3f0g)
-- [Sleutel vergeten in huis: Praktische oplossingen zonder schade](https://dev.to/slotenmakerhulp-locksmith/sleutel-vergeten-in-huis-praktische-oplossingen-zonder-schade-2lld)
-- [How AI Is Transforming B2B Lead Generation and Account Targeting](https://dev.to/noah_jones_vm/how-ai-is-transforming-b2b-lead-generation-and-account-targeting-30mm)
-- [Script Writing Software: Why Studiovity Stands Out for Writers &amp; Filmmakers](https://dev.to/studiovity_production/script-writing-software-why-studiovity-stands-out-for-writers-filmmakers-4b0p)
+- [Down the Web3 Rabbit Hole: A Dive Into Blockchain, Crypto &amp; NFTs](https://dev.to/shaq_attack/down-the-web3-rabbit-hole-a-dive-into-blockchain-crypto-nfts-lcc)
+- [Automate Your SEO: Building a Content Engine with Rube and ChatGPT](https://dev.to/composiodev/automate-your-seo-building-a-content-engine-with-rube-and-chatgpt-3kon)
+- [Embedded Intelligence: How SQLite-vec Delivers Fast, Local Vector Search for AI.](https://dev.to/aairom/embedded-intelligence-how-sqlite-vec-delivers-fast-local-vector-search-for-ai-3dpb)
+- [How to Draw Storyboard Characters &lpar;With AI in Studiovity&rpar; 🎬](https://dev.to/studiovity_production/how-to-draw-storyboard-characters-with-ai-in-studiovity-4eo7)
+- [Privacy‑Focused Web‑Surfing &amp; App Traffic: Setting Up a Fast, Low‑Latency Android Stack](https://dev.to/dev-blogg/privacy-focused-web-surfing-app-traffic-setting-up-a-fast-low-latency-android-stack-4gi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
