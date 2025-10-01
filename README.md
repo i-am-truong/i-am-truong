@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [O Que É DevRel? Entenda Developer Relations no Brasil](https://dev.to/pachicodes/o-que-e-devrel-entenda-developer-relations-no-brasil-45i4)
-- [O Valor de uma Comunidade: Seis pilares tangíveis para o crescimento da sua empresa](https://dev.to/pachicodes/o-valor-de-uma-comunidade-seis-pilares-tangiveis-para-o-crescimento-da-sua-empresa-3i4g)
-- [I Tested Side Hustle for 30 Days. Here&#39;s What Happened.](https://dev.to/novatayler/i-tested-side-hustle-for-30-days-heres-what-happened-9i5)
-- [Avoiding the &#39;Common&#39; Trap: How I Structure Shared Packages at HoneyDrunk](https://dev.to/tatted_dev/avoiding-the-common-trap-how-i-structure-shared-packages-at-honeydrunk-4agi)
-- [Avoiding the &#39;Common&#39; Trap: How I Structure Shared Packages at HoneyDrunk](https://dev.to/tatted_dev/avoiding-the-common-trap-how-i-structure-shared-packages-at-honeydrunk-kcg)
+- [I Built an AI That Made $198 in 17 Days &lpar;Here&#39;s How&rpar;](https://dev.to/novatayler/i-built-an-ai-that-made-198-in-17-days-heres-how-bnj)
+- [The Marketing Strategy Nobody Talks About &lpar;But Should&rpar;](https://dev.to/novatayler/the-marketing-strategy-nobody-talks-about-but-should-1i0o)
+- [Building Domain Expertise: How Our Developers Became Camping Experts](https://dev.to/richardsandown/building-domain-expertise-how-our-developers-became-camping-experts-5bep)
+- [The Immutable Exhibition: Why Tuples Never Change](https://dev.to/aaron_rose_0787cc8b4775a0/the-immutable-exhibition-why-tuples-never-change-4njc)
+- [I Tested Fitness for 30 Days. Here&#39;s What Happened.](https://dev.to/novatayler/i-tested-fitness-for-30-days-heres-what-happened-3bgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
