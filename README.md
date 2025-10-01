@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RBAC in Kubernetes: Understanding Roles, and RoleBindings 🔐](https://dev.to/imlucky883/rbac-in-kubernetes-understanding-roles-and-rolebindings-4nj3)
-- [Developers Learning Stack: learn how you can master new Technologies in 30 days](https://dev.to/pratham_naik_project_manager/developers-learning-stack-learn-how-you-can-master-new-technologies-in-30-days-50i3)
-- [LUCA: A Modern Architecture for SwiftUI Development](https://dev.to/kyome22/luca-a-modern-architecture-for-swiftui-development-3g2i)
-- [&quot;Why Distributed Systems Break — and Still Work&quot;](https://dev.to/yash_khillare_392e62d251a/why-distributed-systems-break-and-still-work-1jl8)
-- [Do We Need UX for Machines Talking to Machines?](https://dev.to/dct_technology/do-we-need-ux-for-machines-talking-to-machines-4eg3)
+- [How I Built a Fantasy Avatar Maker in Minutes with Google AI Studio](https://dev.to/atul2727/how-i-built-a-fantasy-avatar-maker-in-minutes-with-google-ai-studio-meg)
+- [DaemonSets in Kubernetes - The Silent Guardians of Your Cluster 🛡️](https://dev.to/imlucky883/daemonsets-in-kubernetes-the-silent-guardians-of-your-cluster-11j2)
+- [Nexy vs Slack: Why an AI Workspace Is the Smarter Choice](https://dev.to/nexy/nexy-vs-slack-why-an-ai-workspace-is-the-smarter-choice-1nal)
+- [Effective Context Engineering for AI Agents 🤖](https://dev.to/techstuff/effective-context-engineering-for-ai-agents-4n6b)
+- [A Note on Taking Backups from Standby](https://dev.to/vahidusefzadeh/a-note-on-taking-backups-from-standby-1o50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
