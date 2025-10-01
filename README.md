@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Java Full Stack Journey Learning &lpar;RealDOM &amp; React DOM &rpar; in React JS](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-realdom-react-dom-in-react-js-1hkp)
-- [Hook in React](https://dev.to/bhuvanasri/hook-in-react-58b4)
-- [check out this article on ANOVA in R: Origins, Real-Life Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/check-out-this-article-on-anova-in-r-origins-real-life-applications-and-case-studies-5ein)
-- [ANOVA in R: Origins, Real-Life Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/anova-in-r-origins-real-life-applications-and-case-studies-33dg)
-- [My Java Full Stack Journey Learning &lpar;Babel and components&rpar; in React JS](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-babel-and-components-in-react-js-ah4)
+- [Using Tailwind CSS with React.js](https://dev.to/dinesh_g_909f4a82c67f5bbd/using-tailwind-css-with-reactjs-3ebf)
+- [Electrum Bitcoin Wallet Review: Speed, Privacy and Control](https://dev.to/dilona_kiovana_3b59b81e88/electrum-bitcoin-wallet-review-speed-privacy-and-control-22lk)
+- [Why Digital Accessibility Matters: How AudioEye Helps Businesses Build Inclusive Experiences](https://dev.to/harsh_jain_88b0fcd80181d1/why-digital-accessibility-matters-how-audioeye-helps-businesses-build-inclusive-experiences-5dk0)
+- [Why Ignoring Documentation Can Set Back Junior Developers&#39; Careers?](https://dev.to/saim_ahmed/why-ignoring-documentation-can-set-back-junior-developers-careers-3bii)
+- [My Java Full Stack Journey Learning &lpar;Props&rpar; in React JS](https://dev.to/saravanan_s_0fd4b60fc6b20/my-java-full-stack-journey-learning-props-in-react-js-akp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
