@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Tailwind CSS with React.js](https://dev.to/dinesh_g_909f4a82c67f5bbd/using-tailwind-css-with-reactjs-3ebf)
-- [Electrum Bitcoin Wallet Review: Speed, Privacy and Control](https://dev.to/dilona_kiovana_3b59b81e88/electrum-bitcoin-wallet-review-speed-privacy-and-control-22lk)
-- [Why Digital Accessibility Matters: How AudioEye Helps Businesses Build Inclusive Experiences](https://dev.to/harsh_jain_88b0fcd80181d1/why-digital-accessibility-matters-how-audioeye-helps-businesses-build-inclusive-experiences-5dk0)
-- [Why Ignoring Documentation Can Set Back Junior Developers&#39; Careers?](https://dev.to/saim_ahmed/why-ignoring-documentation-can-set-back-junior-developers-careers-3bii)
-- [My Java Full Stack Journey Learning &lpar;Props&rpar; in React JS](https://dev.to/saravanan_s_0fd4b60fc6b20/my-java-full-stack-journey-learning-props-in-react-js-akp)
+- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-30ek)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3kac)
+- [8-Bit Music Theory: The Music Theory of Silksong&#39;s Bone Bottom Theme](https://dev.to/music_youtube/8-bit-music-theory-the-music-theory-of-silksongs-bone-bottom-theme-8j2)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2fi8)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-d5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
