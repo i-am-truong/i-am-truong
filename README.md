@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Developers Should Stop Hashing Passwords and Start Using KDFs](https://dev.to/ftwoli/why-developers-should-stop-hashing-passwords-and-start-using-kdfs-3cg5)
-- [8 thinks I learned implementing my first MCP server.](https://dev.to/ferdau/8-thinks-i-learned-implementing-my-first-mcp-server-1pe)
-- [Imagify vs ShortPixel: Which Image Optimization Plugin Fits Your WordPress Site?](https://dev.to/andreialba/imagify-vs-shortpixel-which-image-optimization-plugin-fits-your-wordpress-site-21jh)
-- [A Guide to AI Batch Prompting with Salesforce using Flows](https://dev.to/hemantj/a-guide-to-batch-prompting-with-salesforce-using-flows-1ndl)
-- [Hybrid architecture with redundancy &lpar;Aws DX + VPN&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/hybrid-architecture-with-redundancy-aws-dx-vpn-4295)
+- [GitLab-CI](https://dev.to/omar_ahmed/gitlab-ci-p9g)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2a9b)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-5gc8)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-38f1)
+- [KEXP: Fishbone - Last Call In America &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-last-call-in-america-live-on-kexp-10ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
