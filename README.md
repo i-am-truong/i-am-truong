@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building 7 Passive Income Streams as a Developer &lpar;While Working Full-Time&rpar;](https://dev.to/hardik_b2d8f0bca/building-7-passive-income-streams-as-a-developer-while-working-full-time-17pf)
-- [What&#39;s new in the 2025 State of JavaScript survey](https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii)
-- [AI Writing Assistants in 2025: Free vs Paid – Which Should You Choose?](https://dev.to/sanjaynaker/ai-writing-assistants-in-2025-free-vs-paid-which-should-you-choose-3on3)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-dee)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-344b)
+- [Common Documentation Mistakes During AS 9100 Implementation](https://dev.to/joy1/common-documentation-mistakes-during-as-9100-implementation-4ajc)
+- [Day-102,103 Connecting Spring Boot with PostgreSQL Database](https://dev.to/tamilselvan1812/day-102103-connecting-spring-boot-with-postgresql-database-3nkm)
+- [SQL Commands Explained: DDL vs DML vs DQL vs DCL vs TCL](https://dev.to/ahmed_kadiwala/sql-commands-explained-ddl-vs-dml-vs-dql-vs-dcl-vs-tcl-1pdi)
+- [AI-Powered Games: Redefining the Player Experience](https://dev.to/peterjohnson427/ai-powered-games-redefining-the-player-experience-14o9)
+- [How to Find UI Animation Inspiration Fast](https://dev.to/tamim_ahmed_412f3d75a7fc0/how-to-find-ui-animation-inspiration-fast-4kmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
