@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Modern Ways to &lpar;not&rpar; Install Python and Virtual Environments](https://dev.to/aaronsteers/the-modern-ways-to-not-install-python-1e85)
-- [Developers vs AI: Helpful Partner or Dangerous Shortcut?](https://dev.to/marxon/developers-vs-ai-helpful-partner-or-dangerous-shortcut-37fa)
-- [The Architect-Executioner Model - Using AI as a Precision Tool, Not a Replacement for Thinking](https://dev.to/gtindo/the-architect-executioner-model-using-ai-as-a-precision-tool-not-a-replacement-for-thinking-15ip)
-- [The CEO&#39;s Source Code: Deconstructing a High-Impact LinkedIn Brand for B2B Founders](https://dev.to/michaelaiglobal/the-ceos-source-code-deconstructing-a-high-impact-linkedin-brand-for-b2b-founders-52im)
-- [Nice to meet You, folks!](https://dev.to/stepan_gavrilenko_7545a0a/nice-to-meet-you-folks-3bif)
+- [I built an opensource Android AI automation agent](https://dev.to/iamvaar/i-built-an-opensource-android-ai-automation-agent-1k0i)
+- [Fuzzy String Matching in PostgreSQL with pg_trgm &lpar;Trigram Search Tutorial&rpar;](https://dev.to/talemul/fuzzy-string-matching-in-postgresql-with-pgtrgm-trigram-search-tutorial-2hc6)
+- [Why Everyone is Wrong About Time Management &lpar;And What Works Instead&rpar;](https://dev.to/novatayler/why-everyone-is-wrong-about-time-management-and-what-works-instead-26p4)
+- [Agencia SEO Local en Alicante: Maximiza Tu Visibilidad Online](https://dev.to/ideidev/agencia-seo-local-en-alicante-maximiza-tu-visibilidad-online-25bf)
+- [How I Used Future of Work to 10x My Productivity in One Month](https://dev.to/novatayler/how-i-used-future-of-work-to-10x-my-productivity-in-one-month-15f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
