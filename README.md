@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Every taxpayer should be outraged. Fraud on the court is fraud against the United States government and Joshua Lintz played a central role.](https://dev.to/saucery/every-taxpayer-should-be-outraged-fraud-on-the-court-is-fraud-against-the-united-states-government-2gl5)
-- [Audio-to-Text Transcriber Automated via Termux](https://dev.to/terminaltools/audio-to-text-transcriber-automated-via-termux-ak5)
-- [Every parent should be outraged by this case. While Frye secured her CEO seat, another family’s children lost their education and their future.](https://dev.to/saucery/every-parent-should-be-outraged-by-this-case-while-frye-secured-her-ceo-seat-another-familys-2ndk)
-- [Check out the guide on the Interactive Visualization](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-the-interactive-visualization-380e)
-- [Interactive Data Visualization with Plotly: A Comprehensive Guide with Case Studies](https://dev.to/anshuman_816f8012be0c9b6c/interactive-data-visualization-with-plotly-a-comprehensive-guide-with-case-studies-cde)
+- [Built a Reddit Memes &amp; Jokes API with Node.js 🚀](https://dev.to/jayantur13/build-a-reddit-memes-jokes-api-with-nodejs-55pi)
+- [Implementing Custom Legends in Tableau: A Practical Guide with Case Studies](https://dev.to/dipti_moryani_185c244d578/implementing-custom-legends-in-tableau-a-practical-guide-with-case-studies-590k)
+- [Builder Pattern in Clprolf — Example with a House](https://dev.to/charles_koffler_bcabc582b/builder-pattern-in-clprolf-example-with-a-house-4kdm)
+- [Deep Dive into Docker Architecture](https://dev.to/raj_singhal/deep-dive-into-docker-architecture-14b9)
+- [How California Attorney Scott R. Carpenter Abuses His State Bar License To Help Clients Commit Crimes](https://dev.to/marcusquinn05/how-california-attorney-scott-r-carpenter-abuses-his-state-bar-license-to-help-clients-commit-99g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
