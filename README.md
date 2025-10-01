@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI That Made $198 in 17 Days &lpar;Here&#39;s How&rpar;](https://dev.to/novatayler/i-built-an-ai-that-made-198-in-17-days-heres-how-bnj)
-- [The Marketing Strategy Nobody Talks About &lpar;But Should&rpar;](https://dev.to/novatayler/the-marketing-strategy-nobody-talks-about-but-should-1i0o)
+- [Improving performance in Kotlin with string concatenation](https://dev.to/gabrielcodesolutions/improving-function-with-string-concatenation-4882)
+- [Sequence Dynamic Cache Resizing in Oracle 21c and 19.10](https://dev.to/vahidusefzadeh/sequence-dynamic-cache-resizing-in-oracle-21c-and-1910-4hbm)
+- [Mastering GitHub Actions: Insights and pitfalls of &quot;if conditions&quot;](https://dev.to/cloud-sky-ops/mastering-github-actions-insights-and-pitfalls-of-if-conditions-1j87)
 - [Building Domain Expertise: How Our Developers Became Camping Experts](https://dev.to/richardsandown/building-domain-expertise-how-our-developers-became-camping-experts-5bep)
 - [The Immutable Exhibition: Why Tuples Never Change](https://dev.to/aaron_rose_0787cc8b4775a0/the-immutable-exhibition-why-tuples-never-change-4njc)
-- [I Tested Fitness for 30 Days. Here&#39;s What Happened.](https://dev.to/novatayler/i-tested-fitness-for-30-days-heres-what-happened-3bgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
