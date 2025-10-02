@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [What Are Kafka Common Advanced Problem Solutions in 2025?](https://dev.to/rociogarciavf/what-are-kafka-common-advanced-problem-solutions-in-2025-4pij)
 - [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-37f0)
-- [Beginner’s Guide #1: if &lpar;data&rpar; vs if &lpar;!!data&rpar; in JavaScript 🤔](https://dev.to/sylwia-lask/beginners-guide-1-if-data-vs-if-data-in-javascript-15e0)
 - [Beginner’s Guide #1: if &lpar;data&rpar; vs if &lpar;!!data&rpar; in JavaScript 🤔](https://dev.to/sylwia-lask/beginners-guide-1-if-data-vs-if-data-in-javascript-14bc)
 - [RDS for Oracle is not RDS Custom for Oracle](https://dev.to/wakeup_flower_8591a6cb6a9/rds-for-oracle-is-not-rds-custom-for-oracle-4i6k)
+- [Git Status And Commit Commands](https://dev.to/faruks/git-status-and-commit-commands-4f0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
