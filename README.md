@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We analyzed 66,821 GitHub Actions runs: 9 hidden gems you&#39;re missing](https://dev.to/depot/we-analyzed-66821-github-actions-runs-9-hidden-gems-youre-missing-5al8)
-- [Migrating from AWS CodeDeploy to Amazon ECS for Blue/Green Deployments: A Comprehensive Migration Guide](https://dev.to/manishpcp/migrating-from-aws-codedeploy-to-amazon-ecs-for-bluegreen-deployments-a-comprehensive-migration-1p58)
-- [Measuring ROI in AI-Driven Hiring](https://dev.to/cognilium_ai/measuring-roi-in-ai-driven-hiring-2ll3)
-- [Kinesis Data Streams, Data Analytics, Data Firehose comparison](https://dev.to/wakeup_flower_8591a6cb6a9/kinesis-data-streams-data-analytics-data-firehose-comparison-4p6g)
-- [Digital Ethics Position Paper: Deepfakes](https://dev.to/irene_koner_e99333a293dc2/digital-ethics-position-paper-deepfakes-2bmn)
+- [My Battle Tested React Hooks Are Now Open Source](https://dev.to/dayvster/my-battle-tested-react-hooks-are-now-open-source-13l0)
+- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-ek9)
+- [My Monthly 1:1 Formula: 4 Health Checks + PM Feedback](https://dev.to/razoorka/my-monthly-11-formula-4-health-checks-pm-feedback-4c19)
+- [How to Use Binance &amp; Coinbase APIs for Automated Crypto Trading: Complete Step-by-Step Guide](https://dev.to/hamd_writer_8c77d9c88c188/how-to-use-binance-coinbase-apis-for-automated-crypto-trading-complete-step-by-step-guide-2jj)
+- [Replicability crisis in science](https://dev.to/leon_lin_s/replicability-crisis-in-science-240e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
