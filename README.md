@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_40446303/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-52d0)
-- [Legacy Data: Making Old Data Work for New Objectives](https://dev.to/audaciatechnology/legacy-data-making-old-data-work-for-new-objectives-4bbd)
-- [Why your app idea is probably trash?](https://dev.to/xavier_carreragimbert/why-your-app-idea-is-probably-trash-45kg)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-12ip)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-1mf7)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-acd)
+- [IGN: Fortnite - Official &#39;KPop Demon Hunters&#39; Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-kpop-demon-hunters-gameplay-trailer-1ia6)
+- [IGN: Tron Franchise Recap](https://dev.to/gg_news/ign-tron-franchise-recap-245g)
+- [IGN: Pokemon Legends: Z-A - Official Nintendo Switch 2 Edition Overview Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-nintendo-switch-2-edition-overview-trailer-58fe)
+- [IGN: I’m Getting Bored of Every PlayStation Game Telling the Same Story](https://dev.to/gg_news/ign-im-getting-bored-of-every-playstation-game-telling-the-same-story-2gdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
