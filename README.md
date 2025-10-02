@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Formats Every Data Analyst Should Know](https://dev.to/mukhil_77/data-formats-every-data-analyst-should-know-4f72)
-- [“The AI Investment Bubble: Boom, Risks &amp; Reality Check”](https://dev.to/mourya_modugula/the-ai-investment-bubble-boom-risks-reality-check-pgj)
-- [learn documentation like Project managers](https://dev.to/rajesh_patel/learn-documentation-like-project-managers-132)
-- [How developers document like Project managers](https://dev.to/bhavy_k_5a3b6c88887b58c92/how-developers-document-like-project-managers-dfg)
-- [Gemini 2.5 Flash-Lite: Speed &gt; Scale — 887 TPS, 50% Less Verbosity, Real-World Wins](https://dev.to/aiwithapex/gemini-25-flash-lite-speed-scale-887-tps-50-less-verbosity-real-world-wins-52h3)
+- [Part-94: 🚀Kubernetes Jobs in GKE – Run Tasks Until They Finish](https://dev.to/latchudevops/part-94-kubernetes-jobs-in-gke-run-tasks-until-they-finish-2ija)
+- [Chaos Engineering on AWS: Using Fault Injection Simulator &lpar;FIS&rpar; for Resilience](https://dev.to/robert_r_7c237256b7614328/chaos-engineering-on-aws-using-fault-injection-simulator-fis-for-resilience-hap)
+- [Normalization](https://dev.to/divya__sundarasekaran_459/normalization-505f)
+- [Wan Animate | AI Character Animation Tool](https://dev.to/allhacm/wan-animate-ai-character-animation-tool-4ibb)
+- [💥 Myth #12: All deliverables should be detailed from the start](https://dev.to/tmorin/myth-12-all-deliverables-should-be-detailed-from-the-start-4ifd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
