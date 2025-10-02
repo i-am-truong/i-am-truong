@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-102: 🚀 Configure a NodePort Service in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-102-configure-a-nodeport-service-in-google-kubernetes-engine-gke-21hc)
-- [Elixir optimizations for cost cutting $](https://dev.to/mr_yasir/elixir-optimizations-for-cost-cutting--4l05)
-- [React vs Next.js: When to Use Which?](https://dev.to/kushyarr7/react-vs-nextjs-when-to-use-which-6gc)
-- [The Film Engine: A New Paradigm in Real-Time Filmmaking](https://dev.to/univahfilmengine/the-film-engine-a-new-paradigm-in-real-time-filmmaking-2ab9)
-- [Creating Debian Packages: A Quick Guide](https://dev.to/rodit-org/creating-debian-packages-a-quick-guide-72n)
+- [Vector Databases Guide: RAG Applications 2025](https://dev.to/klement_gunndu_e16216829c/vector-databases-guide-rag-applications-2025-55oj)
+- [From AI Agents to Agentic AI – The Next Big Leap](https://dev.to/expert_smith_bef0d5e94ca6/from-ai-agents-to-agentic-ai-the-next-big-leap-2gnc)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4li6)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-10lg)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-jf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
