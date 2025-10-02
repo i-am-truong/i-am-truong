@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding TTFB: How to Spot It on Your Site.](https://dev.to/kl3va/understanding-ttfb-how-to-spot-it-on-your-site-496n)
+- [Access Internet via private VPN using altuntun](https://dev.to/rodit-org/access-internet-via-private-vpn-using-altuntun-47p8)
+- [No-Code AI Agents: How n8n Lets You Build Agentic Systems Without Coding](https://dev.to/brains_behind_bots/no-code-ai-agents-how-n8n-lets-you-build-agentic-systems-without-coding-4jlj)
+- [Crypto Isn’t Just About Trading: Opportunities Most People Are Still Ignoring](https://dev.to/dan_keller/crypto-isnt-just-about-trading-opportunities-most-people-are-still-ignoring-3g6d)
 - [Part-101: 🌐Kubernetes NodePort Service in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-101-kubernetes-nodeport-service-in-google-kubernetes-engine-gke-3lf5)
-- [How to Avoid Temporal Myopia in UX Design](https://dev.to/lovestaco/how-to-avoid-temporal-myopia-in-ux-design-36l6)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_40446303/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-4975)
-- [Why So Many People Say “Fuck LeetCode” — And What to Do About It](https://dev.to/alex_hunter_44f4c9ed6671e/why-so-many-people-say-fuck-leetcode-and-what-to-do-about-it-425c)
-- [Global AI Evolution: QPS Breaks Language Barriers](https://dev.to/quantumshell/global-ai-evolution-qps-breaks-language-barriers-32nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
