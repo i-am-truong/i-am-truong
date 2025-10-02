@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gmm)
-- [Custom Property Wrappers in SwiftUI](https://dev.to/arshtechpro/custom-property-wrappers-in-swiftui-213c)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-5h03)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-2970)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-4g0b)
+- [Alpine JS+ Tailwind CSS Tutorial; Interactive image gallery with lightbox](https://dev.to/mike_andreuzza/alpine-js-tailwind-css-tutorial-interactive-image-gallery-with-lightbox-4m0m)
+- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-5a25)
+- [Videos GraphQL API with AppSync, Lambda, DynamoDB - FakeTube #6](https://dev.to/jacekkosciesza/videos-graphql-api-with-appsync-lambda-dynamodb-faketube-6-2jcb)
+- [When you can&#39;t delete due to foreign key constraints, delete in the order &quot;child parent&quot;!](https://dev.to/kazutora_hattori_66972c88/when-you-cant-delete-due-to-foreign-key-constraints-delete-in-the-order-child-parent-1d2o)
+- [Cultivating a Growth Mindset: The Surprising Benefits of Online Learning](https://dev.to/ghummantech/cultivating-a-growth-mindset-the-surprising-benefits-of-online-learning-5gm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
