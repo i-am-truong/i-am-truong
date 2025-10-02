@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Formats Every Data Analyst Should Know](https://dev.to/mukhil_77/data-formats-every-data-analyst-should-know-4f72)
+- [“The AI Investment Bubble: Boom, Risks &amp; Reality Check”](https://dev.to/mourya_modugula/the-ai-investment-bubble-boom-risks-reality-check-pgj)
 - [learn documentation like Project managers](https://dev.to/rajesh_patel/learn-documentation-like-project-managers-132)
 - [Gemini 2.5 Flash-Lite: Speed &gt; Scale — 887 TPS, 50% Less Verbosity, Real-World Wins](https://dev.to/aiwithapex/gemini-25-flash-lite-speed-scale-887-tps-50-less-verbosity-real-world-wins-52h3)
 - [How Software Project Managers Document Their Work &lpar;And Why 90% Get It Wrong&rpar;](https://dev.to/teamcamp/how-software-project-managers-document-their-work-and-why-90-get-it-wrong-3k86)
-- [🧩 &quot;10 JavaScript Hacks That Will Change How You Code Forever&quot;](https://dev.to/mourya_modugula/10-javascript-hacks-that-will-change-how-you-code-forever-2l0o)
-- [From Kafka to Clean Tables: Building a Confluent Snowflake Pipeline with Streams &amp; Tasks.](https://dev.to/elisha_lukalia_f382f081a0/from-kafka-to-clean-tables-building-a-confluent-snowflake-pipeline-with-streams-tasks-3688)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
