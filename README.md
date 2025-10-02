@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-5dg8)
-- [AWS Use Cases | Why choose single table design in DynamoDB &lpar;and why not&rpar;?](https://dev.to/minoltan/aws-use-cases-why-choose-single-table-design-in-dynamodb-and-why-not-588g)
-- [Adding New Feature, and Using Git Remote to Manage Pull Request to Repo](https://dev.to/denisc96/adding-new-feature-and-using-git-remote-to-manage-pull-request-to-repo-5di)
-- [ԿԱԼՈՐԻԱՆԵՐԻ ՀԱՇՎԻՉ](https://dev.to/ashot_nalbandyan_0a8b2885/kalorianeri-hashvich-3kk2)
-- [Copilot vs. Amazon Q: the Claude Sonnet story](https://dev.to/aws-builders/copilot-vs-amazon-q-the-claude-sonnet-story-2ppg)
+- [GameSpot: Call of Duty NEXT Showcase 2025 Livestream &lpar;Black Ops 7 Multiplayer, Zombies, Warzone &amp; more&rpar;](https://dev.to/gg_news/gamespot-call-of-duty-next-showcase-2025-livestream-black-ops-7-multiplayer-zombies-warzone--1ppn)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-5ajc)
+- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-3gl6)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-20p4)
+- [IGN: Ghost of Yotei - PS5 vs PS5 Pro Graphics Comparison | 4K 60 FPS](https://dev.to/gg_news/ign-ghost-of-yotei-ps5-vs-ps5-pro-graphics-comparison-4k-60-fps-agl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
