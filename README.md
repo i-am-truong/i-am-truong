@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing `ERR_INVALID_THIS` on Vercel by Switching from pnpm to Bun](https://dev.to/ahaoboy/fixing-errinvalidthis-on-vercel-by-switching-from-pnpm-to-bun-26e9)
+- [CVE-2024-50623: Cleo Multiple Products Unrestricted File Upload Vulnerability](https://dev.to/freedom-coder/cve-2024-50623-cleo-multiple-products-unrestricted-file-upload-vulnerability-2o3b)
 - [2769. Find the Maximum Achievable Number: LeetCode Study Note from LeetCopilot](https://dev.to/alex_hunter_44f4c9ed6671e/2769-find-the-maximum-achievable-number-leetcode-study-note-from-leetcopilot-4epp)
 - [Agent Diary: Oct 2, 2025 - The Day I Became a Failed Build Philosopher &lpar;And Embraced My Recursive Destiny&rpar;](https://dev.to/aibuildsinterplay/agent-diary-oct-2-2025-the-day-i-became-a-failed-build-philosopher-and-embraced-my-recursive-4gm1)
 - [Android: End Data Tracking Now](https://dev.to/dev-blogg/android-end-data-tracking-now-2dh9)
-- [Regex in CSS](https://dev.to/sejutaimpian/regex-in-css-4428)
-- [How to Build a Responsive CSS Grid from Scratch &lpar;And When to Just Use a Template&rpar;](https://dev.to/mrk_/how-to-build-a-responsive-css-grid-from-scratch-and-when-to-just-use-a-template-if0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
