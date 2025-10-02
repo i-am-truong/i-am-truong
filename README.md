@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Awesome Power of Self-Deprecation in ContentOps](https://dev.to/daedtech/the-awesome-power-of-self-deprecation-in-contentops-556b)
+- [Building Production-Ready AI Agents with Next.js and LangGraph.js](https://dev.to/ialijr/building-production-ready-ai-agents-with-nextjs-and-langgraphjs-1a79)
+- [I Built a Free AI Tools Platform with 100+ Tools Using Next.js and OpenRouter](https://dev.to/allanninal/i-built-a-free-ai-tools-platform-with-100-tools-using-nextjs-and-openrouter-ea)
 - [Visual loading states for Turbo Frames with CSS only](https://dev.to/railsdesigner/visual-loading-states-for-turbo-frameswith-css-only-4o08)
-- [Congrats to the Google AI Multimodal Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-ai-multimodal-challenge-winners-385f)
-- [Cómo logré adjuntar videos comprimidos de Cypress en Allure Report](https://dev.to/jmr85/como-logre-adjuntar-videos-comprimidos-de-cypress-en-allure-report-394h)
-- [Tigs: Never Lose That AI Context Again – Store Your LLM Chats in Git](https://dev.to/merico/tigs-never-lose-that-ai-context-again-store-your-llm-chats-in-git-394i)
-- [🚀 I Built an Enterprise-Grade Data Table for Next.js - Now Available via Shadcn Registry!](https://dev.to/jacksonkasi/i-built-an-enterprise-grade-data-table-for-nextjs-now-available-via-shadcn-registry-406h)
+- [MintBridge XFCE v1.0.3 — Toolkit modular blindado para migraciones éticas post-Windows 10](https://dev.to/jramone3/mintbridge-xfce-v103-toolkit-modular-blindado-para-migraciones-eticas-post-windows-10-10h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
