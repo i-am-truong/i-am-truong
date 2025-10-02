@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Networking: SSL/TLS with Load Balancers](https://dev.to/aws-builders/aws-networking-ssltls-with-load-balancers-5gpa)
+- [Why does big tech not run Accessibility bug bounties?](https://dev.to/chris_devto/why-does-big-tech-not-run-accessibility-bug-bounties-1n1k)
 - [Use of Colour &lpar;Level A&rpar; WCAG 1.4.1 - Accessibility Design tips](https://dev.to/chris_devto/use-of-colour-level-a-wcag-141-accessibility-design-tips-4112)
 - [Overcoming Challenges in Building an Interactive Web Project ❤️‍🔥](https://dev.to/yaldakhoshpey/overcoming-challenges-in-building-an-interactive-web-project-ed7)
-- [SEO with React and Next.js: What Developers Must Know](https://dev.to/faizancheema893/seo-with-react-and-nextjs-what-developers-must-know-2en6)
-- [Storytelling with Data: Why It Matters and What Data Analysts Really Do](https://dev.to/randa_lakab/storytelling-with-data-why-it-matters-and-what-data-analysts-really-do-5174)
-- [Part-104: How to Configure a ClusterIP Service in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-104-how-to-configure-a-clusterip-service-in-google-kubernetes-engine-gke-25n8)
+- [Skapi vs Firebase vs Supabase: Choosing the Best Backend for Performance and Scalability](https://dev.to/skapi_api/skapi-vs-firebase-vs-supabase-choosing-the-best-backend-for-performance-and-scalability-27e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
