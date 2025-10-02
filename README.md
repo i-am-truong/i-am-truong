@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Benchmarked Signals vs Virtual DOM — Here’s What I Found](https://dev.to/mike_hanol_e21eef42461b5e/i-benchmarked-signals-vs-virtual-dom-heres-what-i-found-3do7)
 - [React Context: The Magic Portal for Your App&#39;s Data ⛩️✨](https://dev.to/martygo/react-context-the-magic-portal-for-your-apps-data-3pch)
 - [AWS Savings Plans &amp; RI](https://dev.to/wakeup_flower_8591a6cb6a9/aws-savings-plans-ri-8li)
 - [Resumindo Projetando Sistemas Distribuídos: Conceitos Importantes](https://dev.to/bremda/resumindo-projetando-sistemas-distribuidos-conceitos-importantes-7n4)
 - [How Social Media Feed Algorithms Work](https://dev.to/michael-gokey/how-social-media-feed-algorithms-work-2cc8)
-- [Why You&#39;re Spending Too Much Money on Datadog Metrics](https://dev.to/jack0lantern/why-youre-spending-too-much-money-on-datadog-metrics-1m4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
