@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Become an AWS Cloud Club Captain 🚀](https://dev.to/cabrellesage/how-to-become-an-aws-cloud-club-captain-2j0k)
-- [📰 Major Tech News: Oct 1st, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-1st-2025-20d6)
-- [Core Concepts of Kafka](https://dev.to/farhan_khan_41ec7ff11ac1d/core-concepts-of-kafka-760)
-- [Introducing Gofsen: A Clean &amp; Minimalist Web API Framework for Go](https://dev.to/bakemonosan/introducing-gofsen-a-clean-minimalist-web-api-framework-for-go-4p3k)
-- [devchallenge for googleaichallenge and it is an ai powered app that allows you to get summary fom video and questions to answer based on that video also there is the amazing feature for writer and also generate blog ideas from the video](https://dev.to/techsplot/devchallenge-for-googleaichallenge-and-it-is-an-ai-powered-app-that-allows-you-to-get-summary-fom-11f7)
+- [UTC vs GMT: What&#39;s the Difference and Which Should You Use?](https://dev.to/luke_bowers/utc-vs-gmt-whats-the-difference-and-which-should-you-use-5g4f)
+- [[Boost]](https://dev.to/naamiahmed/-251d)
+- [Why I Still Use Emacs in 2025](https://dev.to/breno/why-i-still-use-emacs-in-2025-3oj9)
+- [Deploying My First NGINX Web Server on AWS EC2: A Beginner-Friendly Walkthrough](https://dev.to/odinkemelu_innocent_3b2f5/deploying-my-first-nginx-web-server-on-aws-ec2-a-beginner-friendly-walkthrough-3h03)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-50l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
