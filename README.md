@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-96: ⚙️Implementing Job backoffLimit in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-96-implementing-job-backofflimit-in-google-kubernetes-engine-gke-3mdb)
-- [Interactive Resizable Split View in React Native](https://dev.to/haider_mukhtar/interactive-resizable-split-view-in-react-native-58bk)
-- [How I Built a PC Bottleneck Calculator and the Lessons Learned](https://dev.to/david_clarke_75b673b4a1ff/how-i-built-a-pc-bottleneck-calculator-and-the-lessons-learned-5dge)
-- [Cursor &amp; Trigger with Examples](https://dev.to/natpuenean_va_27a0f631f48/cursor-trigger-with-examples-hb5)
-- [Day 1 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-1-of-100-days-dsa-coding-challenge-5d5h)
+- [Enhancing MiroFlow: Tracking Data Sources for AskPaul App](https://dev.to/askpaul/enhancing-miroflow-tracking-data-sources-for-askpaul-app-53em)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-192k)
+- [ACID Properties](https://dev.to/divya__sundarasekaran_459/acid-properties-42pd)
+- [Getting Started with AWS Bedrock AgentCore &lpar;preview&rpar;](https://dev.to/claudio_codes/getting-started-with-aws-bedrock-agentcore-preview-34km)
+- [Большой миф разработки](https://dev.to/phonty29/bolshoi-mif-razrabotki-477j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
