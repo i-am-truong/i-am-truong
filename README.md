@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Battle Tested React Hooks Are Now Open Source](https://dev.to/dayvster/my-battle-tested-react-hooks-are-now-open-source-13l0)
-- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-ek9)
-- [My Monthly 1:1 Formula: 4 Health Checks + PM Feedback](https://dev.to/razoorka/my-monthly-11-formula-4-health-checks-pm-feedback-4c19)
-- [How to Use Binance &amp; Coinbase APIs for Automated Crypto Trading: Complete Step-by-Step Guide](https://dev.to/hamd_writer_8c77d9c88c188/how-to-use-binance-coinbase-apis-for-automated-crypto-trading-complete-step-by-step-guide-2jj)
-- [Replicability crisis in science](https://dev.to/leon_lin_s/replicability-crisis-in-science-240e)
+- [RIP Amazon Data Firehose Change Data Capture](https://dev.to/aws-builders/rip-amazon-data-firehose-change-data-capture-2dg3)
+- [Why I Built ts-typed-errors: A TypeScript Error Handling Revolution](https://dev.to/ackermannq/why-i-built-ts-typed-errors-a-typescript-error-handling-revolution-2bph)
+- [Put images or large files in DynamoDB ?](https://dev.to/wakeup_flower_8591a6cb6a9/put-images-or-large-files-in-dynamodb--240h)
+- [JavaScript Array Methods Cheat Sheet &lpar;2025 Update&rpar;](https://dev.to/wahee/javascript-array-methods-cheat-sheet-2025-update-200o)
+- [Tools for Online Video Translation and Dubbing - 2025 Guide](https://dev.to/shruti_saraswat_c258d5934/tools-for-online-video-translation-and-dubbing-2025-guide-2jj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
