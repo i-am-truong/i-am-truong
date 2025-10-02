@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-96: ⚙️Implementing Job backoffLimit in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-96-implementing-job-backofflimit-in-google-kubernetes-engine-gke-3mdb)
+- [Interactive Resizable Split View in React Native](https://dev.to/haider_mukhtar/interactive-resizable-split-view-in-react-native-58bk)
 - [How I Built a PC Bottleneck Calculator and the Lessons Learned](https://dev.to/david_clarke_75b673b4a1ff/how-i-built-a-pc-bottleneck-calculator-and-the-lessons-learned-5dge)
 - [Cursor &amp; Trigger with Examples](https://dev.to/natpuenean_va_27a0f631f48/cursor-trigger-with-examples-hb5)
 - [Day 1 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-1-of-100-days-dsa-coding-challenge-5d5h)
-- [Cursor and Trigger](https://dev.to/divya__sundarasekaran_459/cursor-and-trigger-ep)
-- [Part-95: 🚀Implementing Kubernetes Job Basics in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-95-implementing-kubernetes-job-basics-in-google-kubernetes-engine-gke-3e5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
