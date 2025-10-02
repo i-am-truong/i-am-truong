@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-102: 🚀 Configure a NodePort Service in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-102-configure-a-nodeport-service-in-google-kubernetes-engine-gke-21hc)
+- [Elixir optimizations for cost cutting $](https://dev.to/mr_yasir/elixir-optimizations-for-cost-cutting--4l05)
 - [React vs Next.js: When to Use Which?](https://dev.to/kushyarr7/react-vs-nextjs-when-to-use-which-6gc)
+- [The Film Engine: A New Paradigm in Real-Time Filmmaking](https://dev.to/univahfilmengine/the-film-engine-a-new-paradigm-in-real-time-filmmaking-2ab9)
 - [Creating Debian Packages: A Quick Guide](https://dev.to/rodit-org/creating-debian-packages-a-quick-guide-72n)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_f8c307c5/that-real-time-headache-its-not-the-websockets-its-your-framework-4ig0)
-- [Understanding TTFB: How to Spot It on Your Site.](https://dev.to/kl3va/understanding-ttfb-how-to-spot-it-on-your-site-496n)
-- [Access Internet via private VPN using altuntun](https://dev.to/rodit-org/access-internet-via-private-vpn-using-altuntun-47p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
