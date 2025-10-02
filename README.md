@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating Statements](https://dev.to/lahari_tenneti_4a8a082e9c/evaluating-statements-3m1j)
 - [The Awesome Power of Self-Deprecation in ContentOps](https://dev.to/daedtech/the-awesome-power-of-self-deprecation-in-contentops-556b)
 - [Building Production-Ready AI Agents with Next.js and LangGraph.js](https://dev.to/ialijr/building-production-ready-ai-agents-with-nextjs-and-langgraphjs-1a79)
 - [I Built a Free AI Tools Platform with 100+ Tools Using Next.js and OpenRouter](https://dev.to/allanninal/i-built-a-free-ai-tools-platform-with-100-tools-using-nextjs-and-openrouter-ea)
 - [Visual loading states for Turbo Frames with CSS only](https://dev.to/railsdesigner/visual-loading-states-for-turbo-frameswith-css-only-4o08)
-- [MintBridge XFCE v1.0.3 — Toolkit modular blindado para migraciones éticas post-Windows 10](https://dev.to/jramone3/mintbridge-xfce-v103-toolkit-modular-blindado-para-migraciones-eticas-post-windows-10-10h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
