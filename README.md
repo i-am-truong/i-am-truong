@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Things I Learned in 9 Years as a .NET Developer](https://dev.to/umerfarooqofficial/10-things-i-learned-in-9-years-as-a-net-developer-52mc)
-- [Join Our Hacktoberfest Celebration and Contribute to Our Programming Blog, again!](https://dev.to/holygrimm/join-our-hacktoberfest-celebration-and-contribute-to-our-programming-blog-again-6hk)
-- [‎Goodbye Servers, Hello Freedom: How Serverless APIs Are Transforming Development ‎](https://dev.to/okoye_ndidiamaka_5e3b7d30/goodbye-servers-hello-freedom-how-serverless-apis-are-transforming-development-37h4)
-- [Vision Transformer &lpar;ViT&rpar; from Scratch in PyTorch](https://dev.to/anesmeftah/vision-transformer-vit-from-scratch-in-pytorch-3l3m)
-- [How Does Technical Debt Pile Up? — Looking at “Just for Now” Examples &lpar;Structure Edition&rpar;](https://dev.to/nyaomaru/how-does-technical-debt-pile-up-looking-at-just-for-now-examples-structure-edition-2pfk)
+- [Eyes on change: Building a Custom Watcher With Async Notifications](https://dev.to/nabindebnath/eyes-on-change-building-a-custom-watcher-with-async-notifications-3nph)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ml4)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-ibb)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-170e)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-anh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
