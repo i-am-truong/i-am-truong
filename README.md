@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why You&#39;re Forgetting Every Leetcode Problem You Solve &lpar;And How to Fix It&rpar;](https://dev.to/anjandutta/why-youre-forgetting-every-leetcode-problem-you-solve-and-how-to-fix-it-32id)
-- [Building AI Agents with Google Search Grounding and ADK &lpar;Part 1/5&rpar;](https://dev.to/greyisheepai/building-ai-agents-with-google-search-grounding-and-adk-part-15-1n4m)
-- [Until when the DEV++ Deals Dashboard would stay under maintenance!](https://dev.to/opass_arab_638bde111ae11f/until-when-the-dev-deals-dashboard-would-stay-under-maintenance-540o)
-- [test publish](https://dev.to/pravin_niceguy/test-publish-20mm)
-- [The ABA + Exampling + Micro‑Stepping Framework for Marketers](https://dev.to/_5ccdd25ca4bcc9b0bf/the-aba-exampling-micro-stepping-framework-for-marketers-2k8a)
+- [Privacy for subdomains: the solution](https://dev.to/nfrankel/privacy-for-subdomains-the-solution-3gbc)
+- [Audits Decoded: Your Guide to Not Panicking When the Clipboard People Arrive](https://dev.to/leonardkachi/audits-decoded-your-guide-to-not-panicking-when-the-clipboard-people-arrive-1o7a)
+- [How to Hire Backend Developers in 2025: A Comprehensive Guide](https://dev.to/masteringbackend/how-to-hire-backend-developers-in-2025-a-comprehensive-guide-25ki)
+- [Web3 Development Toolchain](https://dev.to/loading_blocks/web3-development-toolchain-2d8)
+- [Indexing, Hashing &amp; Query Optimization](https://dev.to/ganges07/indexing-hashing-query-optimization-26np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
