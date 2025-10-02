@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Cypress to Playwright: Solving 5 Common Test Automation Challenges](https://dev.to/mohamedsaidibrahim/from-cypress-to-playwright-solving-5-common-test-automation-challenges-46l5)
 - [Mastering Cypress Retries: How to Efficiently Re-Run Only Failed Tests with Mochawesome &amp; Dynamic…](https://dev.to/mohamedsaidibrahim/mastering-cypress-retries-how-to-efficiently-re-run-only-failed-tests-with-mochawesome-dynamic-1o6p)
 - [JSON Schema with AJV: Implementation Deep Dive ⚡](https://dev.to/vishdevwork/json-schema-with-ajv-implementation-deep-dive-1cnn)
 - [Unmasking the Ghost in the Machine: How a Translation API Error Nearly Broke Our Cypress E2E Tests](https://dev.to/mohamedsaidibrahim/unmasking-the-ghost-in-the-machine-how-a-translation-api-error-nearly-broke-our-cypress-e2e-tests-2fa4)
 - [🚀 Mastering Cypress.io: Core Concepts, Key APIs, and Advanced Best Practices](https://dev.to/mohamedsaidibrahim/mastering-cypressio-core-concepts-key-apis-and-advanced-best-practices-o87)
-- [Managing Laravel Queues with systemd &lpar;Instead of Supervisor&rpar;](https://dev.to/abdielwilsn/managing-laravel-queues-with-systemd-instead-of-supervisor-1i2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
