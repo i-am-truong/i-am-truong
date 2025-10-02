@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Pull Request for Open Source Project](https://dev.to/jongwan93/my-first-pull-request-for-open-source-project-3jp4)
+- [What is marketing Funnel?](https://dev.to/e77/what-is-marketing-funnel-cmf)
+- [Composite Pattern in Clprolf — Example with Files and Folders](https://dev.to/charles_koffler_bcabc582b/composite-pattern-in-clprolf-example-with-files-and-folders-45a7)
 - [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-3hcp)
 - [Very cute game!](https://dev.to/ben/very-cute-game-298a)
-- [Essential Linux Commands for Cloud Developers: From Basics to Advanced](https://dev.to/kowsalyarathinasamy/essential-linux-commands-for-cloud-developers-from-basics-to-advanced-3j06)
-- [How I Made My First $880 Vibe Coding And the Painful Lessons That Followed](https://dev.to/amira_abdillah_9814bc66a7/how-i-made-my-first-880-vibe-coding-and-the-painful-lessons-that-followed-437e)
-- [# 11 Lessons Learned in 11 Years of My QA Career](https://dev.to/dasha_tsion_31379cfb51dd7/-11-lessons-learned-in-11-years-of-my-qa-career-113d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
