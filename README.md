@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cursor &amp; Trigger with Examples](https://dev.to/natpuenean_va_27a0f631f48/cursor-trigger-with-examples-hb5)
+- [Part-95: 🚀Implementing Kubernetes Job Basics in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-95-implementing-kubernetes-job-basics-in-google-kubernetes-engine-gke-3e5e)
+- [I Built a Markdown Converter That Finally Doesn’t Suck &lpar;And It’s Free&rpar;](https://dev.to/web_dev-usman/i-built-a-markdown-converter-that-finally-doesnt-suck-and-its-free-259b)
+- [Proactive Strategies for Pre-Development Success - Requirements, Stories &amp; Planning](https://dev.to/idavidov13/proactive-strategies-for-pre-development-success-requirements-stories-planning-2gom)
 - [Part-94: 🚀Kubernetes Jobs in GKE – Run Tasks Until They Finish](https://dev.to/latchudevops/part-94-kubernetes-jobs-in-gke-run-tasks-until-they-finish-2ija)
-- [Chaos Engineering on AWS: Using Fault Injection Simulator &lpar;FIS&rpar; for Resilience](https://dev.to/robert_r_7c237256b7614328/chaos-engineering-on-aws-using-fault-injection-simulator-fis-for-resilience-hap)
-- [Normalization](https://dev.to/divya__sundarasekaran_459/normalization-505f)
-- [Wan Animate | AI Character Animation Tool](https://dev.to/allhacm/wan-animate-ai-character-animation-tool-4ibb)
-- [💥 Myth #12: All deliverables should be detailed from the start](https://dev.to/tmorin/myth-12-all-deliverables-should-be-detailed-from-the-start-4ifd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
