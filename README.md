@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [How I ended up creating my own programming font...](https://dev.to/psudo-dev/how-i-ended-up-creating-my-own-programming-font-117p)
 - [My First Pull Request for Open Source Project](https://dev.to/jongwan93/my-first-pull-request-for-open-source-project-3jp4)
+- [📢 HMPL is participating in Hacktoberfest 2025!](https://dev.to/hmpljs/hmpl-is-participating-in-hacktoberfest-2025-1bn1)
+- [Mastering Google Gemini AI: A Complete Guide to Building Intelligent Applications](https://dev.to/vipascal99/mastering-google-gemini-ai-a-complete-guide-to-building-intelligent-applications-401f)
 - [What is marketing Funnel?](https://dev.to/e77/what-is-marketing-funnel-cmf)
-- [Composite Pattern in Clprolf — Example with Files and Folders](https://dev.to/charles_koffler_bcabc582b/composite-pattern-in-clprolf-example-with-files-and-folders-45a7)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-3hcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
