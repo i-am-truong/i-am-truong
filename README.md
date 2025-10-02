@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Waiting Around: Async &amp; Await in Python Explained](https://dev.to/bhankee/stop-waiting-around-async-await-in-python-explained-44ib)
-- [📝Mastering Structured Logging in .NET Core with Serilog, App Insights, and Log Analytics](https://dev.to/pavan296/mastering-structured-logging-in-net-core-with-serilog-app-insights-and-log-analytics-1j09)
-- [🚀 Launching My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/launching-my-ai-data-mastery-journey-from-python-to-generative-ai-4gc4)
-- [The 7 Most Essential Frontend Development Tools in 2025](https://dev.to/hashbyt/the-7-most-essential-frontend-development-tools-in-2025-2bi2)
-- [Stop Spaghetti SQL: Simplify Complex Queries with Postgres CTEs in Supabase](https://dev.to/ivankahl/stop-spaghetti-sql-simplify-complex-queries-with-postgres-ctes-in-supabase-1f8h)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-5dg8)
+- [AWS Use Cases | Why choose single table design in DynamoDB &lpar;and why not&rpar;?](https://dev.to/minoltan/aws-use-cases-why-choose-single-table-design-in-dynamodb-and-why-not-588g)
+- [Adding New Feature, and Using Git Remote to Manage Pull Request to Repo](https://dev.to/denisc96/adding-new-feature-and-using-git-remote-to-manage-pull-request-to-repo-5di)
+- [ԿԱԼՈՐԻԱՆԵՐԻ ՀԱՇՎԻՉ](https://dev.to/ashot_nalbandyan_0a8b2885/kalorianeri-hashvich-3kk2)
+- [Copilot vs. Amazon Q: the Claude Sonnet story](https://dev.to/aws-builders/copilot-vs-amazon-q-the-claude-sonnet-story-2ppg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
