@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a PC Bottleneck Calculator and the Lessons Learned](https://dev.to/david_clarke_75b673b4a1ff/how-i-built-a-pc-bottleneck-calculator-and-the-lessons-learned-5dge)
 - [Cursor &amp; Trigger with Examples](https://dev.to/natpuenean_va_27a0f631f48/cursor-trigger-with-examples-hb5)
+- [Day 1 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-1-of-100-days-dsa-coding-challenge-5d5h)
+- [Cursor and Trigger](https://dev.to/divya__sundarasekaran_459/cursor-and-trigger-ep)
 - [Part-95: 🚀Implementing Kubernetes Job Basics in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-95-implementing-kubernetes-job-basics-in-google-kubernetes-engine-gke-3e5e)
-- [I Built a Markdown Converter That Finally Doesn’t Suck &lpar;And It’s Free&rpar;](https://dev.to/web_dev-usman/i-built-a-markdown-converter-that-finally-doesnt-suck-and-its-free-259b)
-- [Proactive Strategies for Pre-Development Success - Requirements, Stories &amp; Planning](https://dev.to/idavidov13/proactive-strategies-for-pre-development-success-requirements-stories-planning-2gom)
-- [Part-94: 🚀Kubernetes Jobs in GKE – Run Tasks Until They Finish](https://dev.to/latchudevops/part-94-kubernetes-jobs-in-gke-run-tasks-until-they-finish-2ija)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
