@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making Authentication Seamless: How SSO Works in Modern Systems](https://dev.to/sohillalakiya/making-authentication-seamless-how-sso-works-in-modern-systems-121n)
-- [`NamedError` class in opencode codebase.](https://dev.to/ramunarasinga-11/namederror-class-in-opencode-codebase-44hg)
-- [Build a Great Nest.js Blog: Tags for Post](https://dev.to/leapcell/build-a-great-nestjs-blog-tags-for-post-42id)
-- [RIP Amazon Data Firehose Change Data Capture](https://dev.to/aws-builders/rip-amazon-data-firehose-change-data-capture-2dg3)
-- [Why I Built ts-typed-errors: A TypeScript Error Handling Revolution](https://dev.to/ackermannq/why-i-built-ts-typed-errors-a-typescript-error-handling-revolution-2bph)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_40446303/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-52d0)
+- [Legacy Data: Making Old Data Work for New Objectives](https://dev.to/audaciatechnology/legacy-data-making-old-data-work-for-new-objectives-4bbd)
+- [Why your app idea is probably trash?](https://dev.to/xavier_carreragimbert/why-your-app-idea-is-probably-trash-45kg)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-12ip)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-1mf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
