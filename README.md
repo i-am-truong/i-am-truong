@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSES-1 Weird Algorithm](https://dev.to/bharathipara/cses-1-weird-algorithm-4pe6)
-- [The Importance of Mental Health in Today’s Fast-Paced World](https://dev.to/anannya/the-importance-of-mental-health-in-todays-fast-paced-world-5mg)
-- [The Unspoken Rules: Key Insights From My 15-Year Climb from Junior Specialist to Startup Founder](https://dev.to/d3one/the-unspoken-rules-key-insights-from-my-15-year-climb-from-junior-specialist-to-startup-founder-3bcn)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_06022d8b/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1e86)
-- [Apple’s “Illusion of Thinking” — My Takeaways](https://dev.to/shuklax/apples-illusion-of-thinking-my-takeaways-429c)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gmm)
+- [Custom Property Wrappers in SwiftUI](https://dev.to/arshtechpro/custom-property-wrappers-in-swiftui-213c)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-5h03)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-2970)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-4g0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
