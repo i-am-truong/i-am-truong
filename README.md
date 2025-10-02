@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Tailwind CSS with React.js](https://dev.to/saravanan_s_0fd4b60fc6b20/using-tailwind-css-with-reactjs-2b41)
 - [Build a Great Nest.js Blog: Filter by Tag](https://dev.to/leapcell/build-a-great-nestjs-blog-filter-by-tag-1124)
+- [What Is Big Data Cluster Computing in 2025?](https://dev.to/jordankeurope/what-is-big-data-cluster-computing-in-2025-3oij)
 - [Everyone Tests Now But Are We Testing the Right Things?](https://dev.to/lucianghinda/everyone-tests-now-but-are-we-testing-the-right-things-10op)
 - [Mastering Terraform Stacks: Post-GA Command References Part 1](https://dev.to/quixoticmonk/mastering-terraform-stacks-post-ga-command-references-part-1-1b1h)
-- [Virtual Mines: Optimizing Operations with Digital Twin Technology](https://dev.to/shawn-fisher/virtual-mines-optimizing-operations-with-digital-twin-technology-2mf2)
-- [🌐 Essential API &amp; HTTP Interview Questions](https://dev.to/ankushsinghgandhi/essential-api-http-interview-questions-2mm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
