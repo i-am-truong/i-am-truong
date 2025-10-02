@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Diseño Web Económico en Alicante para Pymes y Autónomos](https://dev.to/ideidev/diseno-web-economico-en-alicante-para-pymes-y-autonomos-3jik)
-- [Fixing `ERR_INVALID_THIS` on Vercel by Switching from pnpm to Bun](https://dev.to/ahaoboy/fixing-errinvalidthis-on-vercel-by-switching-from-pnpm-to-bun-26e9)
-- [CVE-2024-50623: Cleo Multiple Products Unrestricted File Upload Vulnerability](https://dev.to/freedom-coder/cve-2024-50623-cleo-multiple-products-unrestricted-file-upload-vulnerability-2o3b)
-- [2769. Find the Maximum Achievable Number: LeetCode Study Note from LeetCopilot](https://dev.to/alex_hunter_44f4c9ed6671e/2769-find-the-maximum-achievable-number-leetcode-study-note-from-leetcopilot-4epp)
-- [CVE-2024-55956: Cleo Multiple Products Unauthenticated File Upload Vulnerability](https://dev.to/freedom-coder/cve-2024-55956-cleo-multiple-products-unauthenticated-file-upload-vulnerability-31fl)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-51pm)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-4ck2)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-8cp)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-2d0f)
+- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-4k01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
