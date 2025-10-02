@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Senior Engineer&#39;s Guide to Sending EVM Transactions in Python](https://dev.to/onlineproxy/a-senior-engineers-guide-to-sending-evm-transactions-in-python-2p0f)
+- [Adding TOML Config Support to a CLI Tool](https://dev.to/oleksandrakordonets/adding-toml-config-support-to-a-cli-tool-556)
 - [How Does a Website Actually Load in Your Browser?](https://dev.to/parthi_rp/how-does-a-website-actually-load-in-your-browser-2483)
 - [Untitled](https://dev.to/sl_suddabot_757323936cc4/untitled-3opj)
 - [Client Portal: The No-Code Solution to Your Financial Needs](https://dev.to/rapyd/client-portal-the-no-code-solution-to-your-financial-needs-mmm)
-- [🚀 Day 2 of 30 Days of Solidity Challenge – Building Enhanced User Profiles](https://dev.to/sauravkumar8178/day-2-of-30-days-of-solidity-challenge-building-enhanced-user-profiles-1jn2)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_f8c307c5/your-error-handling-is-a-mess-and-its-costing-you--1ae1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
