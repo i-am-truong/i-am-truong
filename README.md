@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/jaswant_karun_s_a_37/indexing-hashing-query-optimization-in-dbms-3p07)
-- [The Great AI Productivity Paradox: Are We Actually Coding Faster](https://dev.to/pullflow/the-great-ai-productivity-paradox-are-we-actually-coding-faster-ede)
-- [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
-- [Yacht Owner Representation and Why It Matters for Owners, Projects, and Day to Day Life](https://dev.to/yacht_crewtraining_cba1e/yacht-owner-representation-and-why-it-matters-for-owners-projects-and-day-to-day-life-2lho)
-- [Converting TensorFlow Models to TensorFlow Lite: A Step-by-Step Guide](https://dev.to/jayita_gulati_654f0451382/converting-tensorflow-models-to-tensorflow-lite-a-step-by-step-guide-3ikm)
+- [Join Our Hacktoberfest Celebration and Contribute to Our Programming Blog, again!](https://dev.to/holygrimm/join-our-hacktoberfest-celebration-and-contribute-to-our-programming-blog-again-6hk)
+- [Vision Transformer &lpar;ViT&rpar; from Scratch in PyTorch](https://dev.to/anesmeftah/vision-transformer-vit-from-scratch-in-pytorch-3l3m)
+- [How Does Technical Debt Pile Up? — Looking at “Just for Now” Examples &lpar;Structure Edition&rpar;](https://dev.to/nyaomaru/how-does-technical-debt-pile-up-looking-at-just-for-now-examples-structure-edition-2pfk)
+- [The Adventures of Blink S4e5: Blink vs. The Vibe Commit](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e5-blink-vs-the-vibe-commit-5edi)
+- [How I Survived the 2025 Crypto Volatility Using Automated Trading Tools ⚡💻](https://dev.to/tanelith/how-i-survived-the-2025-crypto-volatility-using-automated-trading-tools-25jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
