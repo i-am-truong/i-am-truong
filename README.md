@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Does a Website Actually Load in Your Browser?](https://dev.to/parthi_rp/how-does-a-website-actually-load-in-your-browser-2483)
+- [Untitled](https://dev.to/sl_suddabot_757323936cc4/untitled-3opj)
+- [Client Portal: The No-Code Solution to Your Financial Needs](https://dev.to/rapyd/client-portal-the-no-code-solution-to-your-financial-needs-mmm)
+- [🚀 Day 2 of 30 Days of Solidity Challenge – Building Enhanced User Profiles](https://dev.to/sauravkumar8178/day-2-of-30-days-of-solidity-challenge-building-enhanced-user-profiles-1jn2)
 - [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_f8c307c5/your-error-handling-is-a-mess-and-its-costing-you--1ae1)
-- [**Unlocking the Power of Ensemble Learning: RAG Systems for](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-ensemble-learning-rag-systems-for-1ndb)
-- [Maintaining Arch Linux AUR Packages: Updates for python-nspektr and rapidyaml](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-updates-for-python-nspektr-and-rapidyaml-4b14)
-- [Maintaining Arch Linux AUR Packages: Updates for python-nspektr and rapidyaml](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-updates-for-python-nspektr-and-rapidyaml-1gog)
-- [Space Goose: a Pet Project with AI, Unity, and Aseprite](https://dev.to/smirnovw/space-goose-a-pet-project-with-ai-unity-and-aseprite-1gia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
