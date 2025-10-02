@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-51pm)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-4ck2)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-8cp)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-2d0f)
-- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-4k01)
+- [learn documentation like Project managers](https://dev.to/rajesh_patel/learn-documentation-like-project-managers-132)
+- [Gemini 2.5 Flash-Lite: Speed &gt; Scale — 887 TPS, 50% Less Verbosity, Real-World Wins](https://dev.to/aiwithapex/gemini-25-flash-lite-speed-scale-887-tps-50-less-verbosity-real-world-wins-52h3)
+- [How Software Project Managers Document Their Work &lpar;And Why 90% Get It Wrong&rpar;](https://dev.to/teamcamp/how-software-project-managers-document-their-work-and-why-90-get-it-wrong-3k86)
+- [🧩 &quot;10 JavaScript Hacks That Will Change How You Code Forever&quot;](https://dev.to/mourya_modugula/10-javascript-hacks-that-will-change-how-you-code-forever-2l0o)
+- [From Kafka to Clean Tables: Building a Confluent Snowflake Pipeline with Streams &amp; Tasks.](https://dev.to/elisha_lukalia_f382f081a0/from-kafka-to-clean-tables-building-a-confluent-snowflake-pipeline-with-streams-tasks-3688)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
