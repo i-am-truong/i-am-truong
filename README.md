@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building the Future of Pharmacy: Corpus Memorial Pharmacy&#39;s Digital Transformation with C++](https://dev.to/lewis_gregg_28b23f0af1327/building-the-future-of-pharmacy-corpus-memorial-pharmacys-digital-transformation-with-c-2dop)
+- [The Importance of Mental Health in Today’s Fast-Paced World](https://dev.to/anannya/the-importance-of-mental-health-in-todays-fast-paced-world-5mg)
+- [The Unspoken Rules: Key Insights From My 15-Year Climb from Junior Specialist to Startup Founder](https://dev.to/d3one/the-unspoken-rules-key-insights-from-my-15-year-climb-from-junior-specialist-to-startup-founder-3bcn)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_06022d8b/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1e86)
+- [Apple’s “Illusion of Thinking” — My Takeaways](https://dev.to/shuklax/apples-illusion-of-thinking-my-takeaways-429c)
 - [MongoDB CRUD Operations](https://dev.to/ganges07/mongodb-crud-operations-537m)
-- [The Complete Guide to React Hooks &lpar;2025&rpar;](https://dev.to/rayan2228/the-complete-guide-to-react-hooks-2025-1i78)
-- [This was not a business mistake. This was a carefully planned conspiracy involving multiple people, attorneys, and stolen funds. Amanda Frye was right in the middle of it.](https://dev.to/francisco_pana_8a21c947b7/this-was-not-a-business-mistake-this-was-a-carefully-planned-conspiracy-involving-multiple-people-3mg6)
-- [Service Mesh &lpar;Istio, Linkerd&rpar; Introduction](https://dev.to/godofgeeks/service-mesh-istio-linkerd-introduction-58pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
