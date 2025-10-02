@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Benchmarked Signals vs Virtual DOM — Here’s What I Found](https://dev.to/mike_hanol_e21eef42461b5e/i-benchmarked-signals-vs-virtual-dom-heres-what-i-found-3do7)
-- [React Context: The Magic Portal for Your App&#39;s Data ⛩️✨](https://dev.to/martygo/react-context-the-magic-portal-for-your-apps-data-3pch)
-- [AWS Savings Plans &amp; RI](https://dev.to/wakeup_flower_8591a6cb6a9/aws-savings-plans-ri-8li)
-- [Resumindo Projetando Sistemas Distribuídos: Conceitos Importantes](https://dev.to/bremda/resumindo-projetando-sistemas-distribuidos-conceitos-importantes-7n4)
-- [How Social Media Feed Algorithms Work](https://dev.to/michael-gokey/how-social-media-feed-algorithms-work-2cc8)
+- [IGN: Tron: Ares - Official &#39;The Evolution&#39; Trailer &lpar;2025&rpar; Jared Leto, Jeff Bridges, Greta Lee](https://dev.to/gg_news/ign-tron-ares-official-the-evolution-trailer-2025-jared-leto-jeff-bridges-greta-lee-3mka)
+- [IGN: Mewgenics - Developer Gameplay Commentary #2](https://dev.to/gg_news/ign-mewgenics-developer-gameplay-commentary-2-1apm)
+- [IGN: Ghost of Yotei: 9 Combat Tips to Master Samurai Fighting](https://dev.to/gg_news/ign-ghost-of-yotei-9-combat-tips-to-master-samurai-fighting-3fj8)
+- [IGN: EA Just Went Private - Unlocked Clips](https://dev.to/gg_news/ign-ea-just-went-private-unlocked-clips-280p)
+- [IGN: Super Mario Galaxy 1 - Enhanced Switch 2 Gameplay 4K 60FPS](https://dev.to/gg_news/ign-super-mario-galaxy-1-enhanced-switch-2-gameplay-4k-60fps-4n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
