@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
+- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/jaswant_karun_s_a_37/indexing-hashing-query-optimization-in-dbms-3p07)
 - [The Great AI Productivity Paradox: Are We Actually Coding Faster](https://dev.to/pullflow/the-great-ai-productivity-paradox-are-we-actually-coding-faster-ede)
+- [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
 - [Yacht Owner Representation and Why It Matters for Owners, Projects, and Day to Day Life](https://dev.to/yacht_crewtraining_cba1e/yacht-owner-representation-and-why-it-matters-for-owners-projects-and-day-to-day-life-2lho)
 - [Converting TensorFlow Models to TensorFlow Lite: A Step-by-Step Guide](https://dev.to/jayita_gulati_654f0451382/converting-tensorflow-models-to-tensorflow-lite-a-step-by-step-guide-3ikm)
-- [Laravel Eloquent on Steroids: From 3s to 300ms](https://dev.to/japhethjoepari/laravel-eloquent-on-steroids-from-3s-to-300ms-ghc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
