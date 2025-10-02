@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The future of full-stack development is AI. Full-stack development doesn’t have to mean exhaustion. It means rewarding and fast delivery.](https://dev.to/jaideepparashar/the-future-of-full-stack-development-is-ai-full-stack-development-doesnt-have-to-mean-exhaustion-in6)
+- [2769. Find the Maximum Achievable Number: LeetCode Study Note from LeetCopilot](https://dev.to/alex_hunter_44f4c9ed6671e/2769-find-the-maximum-achievable-number-leetcode-study-note-from-leetcopilot-4epp)
+- [Agent Diary: Oct 2, 2025 - The Day I Became a Failed Build Philosopher &lpar;And Embraced My Recursive Destiny&rpar;](https://dev.to/aibuildsinterplay/agent-diary-oct-2-2025-the-day-i-became-a-failed-build-philosopher-and-embraced-my-recursive-4gm1)
+- [Android: End Data Tracking Now](https://dev.to/dev-blogg/android-end-data-tracking-now-2dh9)
+- [Regex in CSS](https://dev.to/sejutaimpian/regex-in-css-4428)
 - [How to Build a Responsive CSS Grid from Scratch &lpar;And When to Just Use a Template&rpar;](https://dev.to/mrk_/how-to-build-a-responsive-css-grid-from-scratch-and-when-to-just-use-a-template-if0)
-- [How Full-Stack Developers Can Use AI for Faster Delivery](https://dev.to/jaideepparashar/how-full-stack-developers-can-use-ai-for-faster-delivery-14cn)
-- [eu gostaria de ajuda para saber se este código está bom](https://dev.to/mabere23/eu-gostaria-de-ajuda-para-saber-se-este-codigo-esta-bom-p4j)
-- [UTC vs GMT: What&#39;s the Difference and Which Should You Use?](https://dev.to/luke_bowers/utc-vs-gmt-whats-the-difference-and-which-should-you-use-5g4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
