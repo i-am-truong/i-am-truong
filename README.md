@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-29m)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-5c1e)
-- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-a8m)
-- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-2496)
-- [KEXP: strongboi - flame &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-flame-live-on-kexp-1950)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_f8c307c5/your-error-handling-is-a-mess-and-its-costing-you--1ae1)
+- [**Unlocking the Power of Ensemble Learning: RAG Systems for](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-ensemble-learning-rag-systems-for-1ndb)
+- [Maintaining Arch Linux AUR Packages: Updates for python-nspektr and rapidyaml](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-updates-for-python-nspektr-and-rapidyaml-4b14)
+- [Maintaining Arch Linux AUR Packages: Updates for python-nspektr and rapidyaml](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-updates-for-python-nspektr-and-rapidyaml-1gog)
+- [Space Goose: a Pet Project with AI, Unity, and Aseprite](https://dev.to/smirnovw/space-goose-a-pet-project-with-ai-unity-and-aseprite-1gia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
