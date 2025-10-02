@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Permissions when EventBridge invole Lambda](https://dev.to/wakeup_flower_8591a6cb6a9/permissions-when-eventbridge-invole-lambda-35fn)
-- [Shield Your Node.js App: A Definitive Guide to XSS Prevention](https://dev.to/satyam_gupta_0d1ff2152dcc/shield-your-nodejs-app-a-definitive-guide-to-xss-prevention-32f4)
-- [How I Stopped Manually Checking WooCommerce Stock Levels &lpar;and Finally Slept Better&rpar;](https://dev.to/imohgenius/how-i-stopped-manually-checking-woocommerce-stock-levels-and-finally-slept-better-651)
-- [Updated Title: My Revised Post](https://dev.to/will_rlee/hello-from-v2-5f3m)
-- [Cloud vs Edge vs Local Architecture for Security Camera](https://dev.to/irene_koner_e99333a293dc2/cloud-vs-edge-vs-local-architecture-for-security-camera-57dl)
+- [We analyzed 66,821 GitHub Actions runs: 9 hidden gems you&#39;re missing](https://dev.to/depot/we-analyzed-66821-github-actions-runs-9-hidden-gems-youre-missing-5al8)
+- [Migrating from AWS CodeDeploy to Amazon ECS for Blue/Green Deployments: A Comprehensive Migration Guide](https://dev.to/manishpcp/migrating-from-aws-codedeploy-to-amazon-ecs-for-bluegreen-deployments-a-comprehensive-migration-1p58)
+- [Measuring ROI in AI-Driven Hiring](https://dev.to/cognilium_ai/measuring-roi-in-ai-driven-hiring-2ll3)
+- [Kinesis Data Streams, Data Analytics, Data Firehose comparison](https://dev.to/wakeup_flower_8591a6cb6a9/kinesis-data-streams-data-analytics-data-firehose-comparison-4p6g)
+- [Digital Ethics Position Paper: Deepfakes](https://dev.to/irene_koner_e99333a293dc2/digital-ethics-position-paper-deepfakes-2bmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
