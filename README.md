@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing MiroFlow: Tracking Data Sources for AskPaul App](https://dev.to/askpaul/enhancing-miroflow-tracking-data-sources-for-askpaul-app-53em)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-192k)
-- [ACID Properties](https://dev.to/divya__sundarasekaran_459/acid-properties-42pd)
-- [Getting Started with AWS Bedrock AgentCore &lpar;preview&rpar;](https://dev.to/claudio_codes/getting-started-with-aws-bedrock-agentcore-preview-34km)
-- [Большой миф разработки](https://dev.to/phonty29/bolshoi-mif-razrabotki-477j)
+- [Claude Code: Unix Philosophy Makes It Amazing](https://dev.to/klement_gunndu_e16216829c/claude-code-unix-philosophy-makes-it-amazing-34c4)
+- [Automated AWS Cost Reporting with Alerts 🚀](https://dev.to/dev_saini_ce708cfac6b9562/automated-aws-cost-reporting-with-alerts-3pke)
+- [Secure SSH Monitoring with Real-time Telegram Alerts](https://dev.to/mrvi0/secure-ssh-monitoring-with-real-time-telegram-alerts-1oje)
+- [How to Design an Ice Cube Tray Using 3D CAD Software](https://dev.to/julia970/how-to-design-an-ice-cube-tray-using-3d-cad-software-3hbj)
+- [Claude Code: Unix Philosophy Makes It the Best AI Assistant](https://dev.to/klement_gunndu_e16216829c/claude-code-unix-philosophy-makes-it-the-best-ai-assistant-12m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
