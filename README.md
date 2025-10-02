@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Accessibility: FashionNova fined $5.15M, Vueling Airlines €90,000](https://dev.to/chris_devto/fashionnova-fined-515m-vueling-airlines-eu90000-48he)
 - [AWS Networking: SSL/TLS with Load Balancers](https://dev.to/aws-builders/aws-networking-ssltls-with-load-balancers-5gpa)
 - [Why does big tech not run Accessibility bug bounties?](https://dev.to/chris_devto/why-does-big-tech-not-run-accessibility-bug-bounties-1n1k)
-- [Use of Colour &lpar;Level A&rpar; WCAG 1.4.1 - Accessibility Design tips](https://dev.to/chris_devto/use-of-colour-level-a-wcag-141-accessibility-design-tips-4112)
-- [Overcoming Challenges in Building an Interactive Web Project ❤️‍🔥](https://dev.to/yaldakhoshpey/overcoming-challenges-in-building-an-interactive-web-project-ed7)
-- [Skapi vs Firebase vs Supabase: Choosing the Best Backend for Performance and Scalability](https://dev.to/skapi_api/skapi-vs-firebase-vs-supabase-choosing-the-best-backend-for-performance-and-scalability-27e9)
+- [Boosting Efficiency in Mechanical Prototyping: Expert Advice](https://dev.to/sheba-kumari/boosting-efficiency-in-mechanical-prototyping-expert-advice-40gc)
+- [Framework for quarterly B2B campaign planning](https://dev.to/leo_johnson_e34af4a6d9bd9/framework-for-quarterly-b2b-campaign-planning-5bn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
