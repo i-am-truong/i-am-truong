@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JSON Schema with AJV: Implementation Deep Dive ⚡](https://dev.to/vishdevwork/json-schema-with-ajv-implementation-deep-dive-1cnn)
+- [Unmasking the Ghost in the Machine: How a Translation API Error Nearly Broke Our Cypress E2E Tests](https://dev.to/mohamedsaidibrahim/unmasking-the-ghost-in-the-machine-how-a-translation-api-error-nearly-broke-our-cypress-e2e-tests-2fa4)
 - [🚀 Mastering Cypress.io: Core Concepts, Key APIs, and Advanced Best Practices](https://dev.to/mohamedsaidibrahim/mastering-cypressio-core-concepts-key-apis-and-advanced-best-practices-o87)
 - [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2fla)
 - [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-31i6)
-- [COLORS: Jon Batiste - LEAN ON MY LOVE | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-lean-on-my-love-a-colors-show-1pkj)
-- [🎯 Mastering the QA Tech Stack: How Senior Test Engineers Integrate Cypress, Playwright, Postman…](https://dev.to/mohamedsaidibrahim/mastering-the-qa-tech-stack-how-senior-test-engineers-integrate-cypress-playwright-postman-29n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
