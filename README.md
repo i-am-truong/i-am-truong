@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Master ES6 in JavaScript: From Basics to Pro with Real-World Examples 💻](https://dev.to/yorgie7/master-es6-in-javascript-from-basics-to-pro-with-real-world-examples-47o6)
-- [The Quiet Artisan: Why Ruby on Rails is Still the Atelier of the Web](https://dev.to/alex_aslam/the-quiet-artisan-why-ruby-on-rails-is-still-the-atelier-of-the-web-64c)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ki0)
-- [COLORS: Jon Batiste - LEAN ON MY LOVE | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-lean-on-my-love-a-colors-show-4dh9)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-47l9)
+- [What Are Kafka Common Advanced Problem Solutions in 2025?](https://dev.to/rociogarciavf/what-are-kafka-common-advanced-problem-solutions-in-2025-4pij)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-37f0)
+- [Beginner’s Guide #1: if &lpar;data&rpar; vs if &lpar;!!data&rpar; in JavaScript 🤔](https://dev.to/sylwia-lask/beginners-guide-1-if-data-vs-if-data-in-javascript-15e0)
+- [Beginner’s Guide #1: if &lpar;data&rpar; vs if &lpar;!!data&rpar; in JavaScript 🤔](https://dev.to/sylwia-lask/beginners-guide-1-if-data-vs-if-data-in-javascript-14bc)
+- [RDS for Oracle is not RDS Custom for Oracle](https://dev.to/wakeup_flower_8591a6cb6a9/rds-for-oracle-is-not-rds-custom-for-oracle-4i6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
