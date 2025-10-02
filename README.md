@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-acd)
-- [IGN: Fortnite - Official &#39;KPop Demon Hunters&#39; Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-kpop-demon-hunters-gameplay-trailer-1ia6)
-- [IGN: Tron Franchise Recap](https://dev.to/gg_news/ign-tron-franchise-recap-245g)
-- [IGN: Pokemon Legends: Z-A - Official Nintendo Switch 2 Edition Overview Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-nintendo-switch-2-edition-overview-trailer-58fe)
-- [IGN: I’m Getting Bored of Every PlayStation Game Telling the Same Story](https://dev.to/gg_news/ign-im-getting-bored-of-every-playstation-game-telling-the-same-story-2gdc)
+- [Build a Great Nest.js Blog: Filter by Tag](https://dev.to/leapcell/build-a-great-nestjs-blog-filter-by-tag-1124)
+- [Everyone Tests Now But Are We Testing the Right Things?](https://dev.to/lucianghinda/everyone-tests-now-but-are-we-testing-the-right-things-10op)
+- [Mastering Terraform Stacks: Post-GA Command References Part 1](https://dev.to/quixoticmonk/mastering-terraform-stacks-post-ga-command-references-part-1-1b1h)
+- [Virtual Mines: Optimizing Operations with Digital Twin Technology](https://dev.to/shawn-fisher/virtual-mines-optimizing-operations-with-digital-twin-technology-2mf2)
+- [🌐 Essential API &amp; HTTP Interview Questions](https://dev.to/ankushsinghgandhi/essential-api-http-interview-questions-2mm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
