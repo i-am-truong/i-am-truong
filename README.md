@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Tailwind CSS with React.js](https://dev.to/saravanan_s_0fd4b60fc6b20/using-tailwind-css-with-reactjs-2b41)
-- [Build a Great Nest.js Blog: Filter by Tag](https://dev.to/leapcell/build-a-great-nestjs-blog-filter-by-tag-1124)
-- [What Is Big Data Cluster Computing in 2025?](https://dev.to/jordankeurope/what-is-big-data-cluster-computing-in-2025-3oij)
-- [Everyone Tests Now But Are We Testing the Right Things?](https://dev.to/lucianghinda/everyone-tests-now-but-are-we-testing-the-right-things-10op)
-- [Mastering Terraform Stacks: Post-GA Command References Part 1](https://dev.to/quixoticmonk/mastering-terraform-stacks-post-ga-command-references-part-1-1b1h)
+- [Visual loading states for Turbo Frames with CSS only](https://dev.to/railsdesigner/visual-loading-states-for-turbo-frameswith-css-only-4o08)
+- [Congrats to the Google AI Multimodal Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-ai-multimodal-challenge-winners-385f)
+- [Cómo logré adjuntar videos comprimidos de Cypress en Allure Report](https://dev.to/jmr85/como-logre-adjuntar-videos-comprimidos-de-cypress-en-allure-report-394h)
+- [Tigs: Never Lose That AI Context Again – Store Your LLM Chats in Git](https://dev.to/merico/tigs-never-lose-that-ai-context-again-store-your-llm-chats-in-git-394i)
+- [🚀 I Built an Enterprise-Grade Data Table for Next.js - Now Available via Shadcn Registry!](https://dev.to/jacksonkasi/i-built-an-enterprise-grade-data-table-for-nextjs-now-available-via-shadcn-registry-406h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
