@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Privacy for subdomains: the solution](https://dev.to/nfrankel/privacy-for-subdomains-the-solution-3gbc)
-- [Audits Decoded: Your Guide to Not Panicking When the Clipboard People Arrive](https://dev.to/leonardkachi/audits-decoded-your-guide-to-not-panicking-when-the-clipboard-people-arrive-1o7a)
-- [How to Hire Backend Developers in 2025: A Comprehensive Guide](https://dev.to/masteringbackend/how-to-hire-backend-developers-in-2025-a-comprehensive-guide-25ki)
-- [Web3 Development Toolchain](https://dev.to/loading_blocks/web3-development-toolchain-2d8)
-- [Indexing, Hashing &amp; Query Optimization](https://dev.to/ganges07/indexing-hashing-query-optimization-26np)
+- [Part-101: 🌐Kubernetes NodePort Service in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-101-kubernetes-nodeport-service-in-google-kubernetes-engine-gke-3lf5)
+- [How to Avoid Temporal Myopia in UX Design](https://dev.to/lovestaco/how-to-avoid-temporal-myopia-in-ux-design-36l6)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_40446303/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-4975)
+- [Why So Many People Say “Fuck LeetCode” — And What to Do About It](https://dev.to/alex_hunter_44f4c9ed6671e/why-so-many-people-say-fuck-leetcode-and-what-to-do-about-it-425c)
+- [Global AI Evolution: QPS Breaks Language Barriers](https://dev.to/quantumshell/global-ai-evolution-qps-breaks-language-barriers-32nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
