@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Alpine JS+ Tailwind CSS Tutorial; Interactive image gallery with lightbox](https://dev.to/mike_andreuzza/alpine-js-tailwind-css-tutorial-interactive-image-gallery-with-lightbox-4m0m)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-5a25)
-- [Videos GraphQL API with AppSync, Lambda, DynamoDB - FakeTube #6](https://dev.to/jacekkosciesza/videos-graphql-api-with-appsync-lambda-dynamodb-faketube-6-2jcb)
-- [When you can&#39;t delete due to foreign key constraints, delete in the order &quot;child parent&quot;!](https://dev.to/kazutora_hattori_66972c88/when-you-cant-delete-due-to-foreign-key-constraints-delete-in-the-order-child-parent-1d2o)
-- [Cultivating a Growth Mindset: The Surprising Benefits of Online Learning](https://dev.to/ghummantech/cultivating-a-growth-mindset-the-surprising-benefits-of-online-learning-5gm4)
+- [Why You&#39;re Forgetting Every Leetcode Problem You Solve &lpar;And How to Fix It&rpar;](https://dev.to/anjandutta/why-youre-forgetting-every-leetcode-problem-you-solve-and-how-to-fix-it-32id)
+- [Building AI Agents with Google Search Grounding and ADK &lpar;Part 1/5&rpar;](https://dev.to/greyisheepai/building-ai-agents-with-google-search-grounding-and-adk-part-15-1n4m)
+- [Until when the DEV++ Deals Dashboard would stay under maintenance!](https://dev.to/opass_arab_638bde111ae11f/until-when-the-dev-deals-dashboard-would-stay-under-maintenance-540o)
+- [test publish](https://dev.to/pravin_niceguy/test-publish-20mm)
+- [The ABA + Exampling + Micro‑Stepping Framework for Marketers](https://dev.to/_5ccdd25ca4bcc9b0bf/the-aba-exampling-micro-stepping-framework-for-marketers-2k8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
