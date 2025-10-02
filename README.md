@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Call of Duty NEXT Showcase 2025 Livestream &lpar;Black Ops 7 Multiplayer, Zombies, Warzone &amp; more&rpar;](https://dev.to/gg_news/gamespot-call-of-duty-next-showcase-2025-livestream-black-ops-7-multiplayer-zombies-warzone--1ppn)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-5ajc)
-- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-3gl6)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-20p4)
-- [IGN: Ghost of Yotei - PS5 vs PS5 Pro Graphics Comparison | 4K 60 FPS](https://dev.to/gg_news/ign-ghost-of-yotei-ps5-vs-ps5-pro-graphics-comparison-4k-60-fps-agl)
+- [Permissions when EventBridge invole Lambda](https://dev.to/wakeup_flower_8591a6cb6a9/permissions-when-eventbridge-invole-lambda-35fn)
+- [Shield Your Node.js App: A Definitive Guide to XSS Prevention](https://dev.to/satyam_gupta_0d1ff2152dcc/shield-your-nodejs-app-a-definitive-guide-to-xss-prevention-32f4)
+- [How I Stopped Manually Checking WooCommerce Stock Levels &lpar;and Finally Slept Better&rpar;](https://dev.to/imohgenius/how-i-stopped-manually-checking-woocommerce-stock-levels-and-finally-slept-better-651)
+- [Updated Title: My Revised Post](https://dev.to/will_rlee/hello-from-v2-5f3m)
+- [Cloud vs Edge vs Local Architecture for Security Camera](https://dev.to/irene_koner_e99333a293dc2/cloud-vs-edge-vs-local-architecture-for-security-camera-57dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
