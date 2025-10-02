@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code: Unix Philosophy Makes It Amazing](https://dev.to/klement_gunndu_e16216829c/claude-code-unix-philosophy-makes-it-amazing-34c4)
-- [Automated AWS Cost Reporting with Alerts 🚀](https://dev.to/dev_saini_ce708cfac6b9562/automated-aws-cost-reporting-with-alerts-3pke)
-- [Secure SSH Monitoring with Real-time Telegram Alerts](https://dev.to/mrvi0/secure-ssh-monitoring-with-real-time-telegram-alerts-1oje)
-- [How to Design an Ice Cube Tray Using 3D CAD Software](https://dev.to/julia970/how-to-design-an-ice-cube-tray-using-3d-cad-software-3hbj)
-- [Claude Code: Unix Philosophy Makes It the Best AI Assistant](https://dev.to/klement_gunndu_e16216829c/claude-code-unix-philosophy-makes-it-the-best-ai-assistant-12m4)
+- [This was not a business mistake. This was a carefully planned conspiracy involving multiple people, attorneys, and stolen funds. Amanda Frye was right in the middle of it.](https://dev.to/francisco_pana_8a21c947b7/this-was-not-a-business-mistake-this-was-a-carefully-planned-conspiracy-involving-multiple-people-3mg6)
+- [Python &lpar;I&rpar;](https://dev.to/elferrer/python-i-4cp6)
+- [Claude Code: Unix Philosophy Makes AI Coding Better](https://dev.to/klement_gunndu_e16216829c/claude-code-unix-philosophy-makes-ai-coding-better-5323)
+- [Building, Testing, and Publishing Go Packages: Best Practices](https://dev.to/ticatwolves/building-testing-and-publishing-go-packages-best-practices-8k)
+- [Building a Custom NLP Model from Scratch: From Idea to Real-World Impact](https://dev.to/sunny7899/building-a-custom-nlp-model-from-scratch-from-idea-to-real-world-impact-1ojl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
