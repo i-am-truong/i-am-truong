@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-3hcp)
 - [Very cute game!](https://dev.to/ben/very-cute-game-298a)
-- [A Senior Engineer&#39;s Guide to Sending EVM Transactions in Python](https://dev.to/onlineproxy/a-senior-engineers-guide-to-sending-evm-transactions-in-python-2p0f)
-- [Adding TOML Config Support to a CLI Tool](https://dev.to/oleksandrakordonets/adding-toml-config-support-to-a-cli-tool-556)
-- [How Does a Website Actually Load in Your Browser?](https://dev.to/parthi_rp/how-does-a-website-actually-load-in-your-browser-2483)
-- [Untitled](https://dev.to/sl_suddabot_757323936cc4/untitled-3opj)
+- [Essential Linux Commands for Cloud Developers: From Basics to Advanced](https://dev.to/kowsalyarathinasamy/essential-linux-commands-for-cloud-developers-from-basics-to-advanced-3j06)
+- [How I Made My First $880 Vibe Coding And the Painful Lessons That Followed](https://dev.to/amira_abdillah_9814bc66a7/how-i-made-my-first-880-vibe-coding-and-the-painful-lessons-that-followed-437e)
+- [# 11 Lessons Learned in 11 Years of My QA Career](https://dev.to/dasha_tsion_31379cfb51dd7/-11-lessons-learned-in-11-years-of-my-qa-career-113d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
