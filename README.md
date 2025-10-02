@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Data Formats Every Data Analyst Should Know](https://dev.to/mukhil_77/data-formats-every-data-analyst-should-know-4f72)
 - [“The AI Investment Bubble: Boom, Risks &amp; Reality Check”](https://dev.to/mourya_modugula/the-ai-investment-bubble-boom-risks-reality-check-pgj)
 - [learn documentation like Project managers](https://dev.to/rajesh_patel/learn-documentation-like-project-managers-132)
+- [How developers document like Project managers](https://dev.to/bhavy_k_5a3b6c88887b58c92/how-developers-document-like-project-managers-dfg)
 - [Gemini 2.5 Flash-Lite: Speed &gt; Scale — 887 TPS, 50% Less Verbosity, Real-World Wins](https://dev.to/aiwithapex/gemini-25-flash-lite-speed-scale-887-tps-50-less-verbosity-real-world-wins-52h3)
-- [How Software Project Managers Document Their Work &lpar;And Why 90% Get It Wrong&rpar;](https://dev.to/teamcamp/how-software-project-managers-document-their-work-and-why-90-get-it-wrong-3k86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
