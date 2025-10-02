@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Understanding Uniface Session Services: A Simple Guide](https://dev.to/petercode/understanding-uniface-session-services-a-simple-guide-27j)
-- [The Winning Mindset Your Secret Weapon to Nail Any Interview](https://dev.to/srijan-xi/the-winning-mindset-your-secret-weapon-to-nail-any-interview-p5d)
-- [🚀 Understanding Uniface 10.4 Services: A Developer&#39;s Guide](https://dev.to/petercode/understanding-uniface-104-services-a-developers-guide-430o)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_f8c307c5/security-is-not-a-feature-its-a-foundation-3ni0)
-- [📄 Getting Started with Reports in Uniface 10.4](https://dev.to/petercode/getting-started-with-reports-in-uniface-104-55ng)
+- [🔗 Understanding Referential Integrity in Uniface 10.4 Components](https://dev.to/petercode/understanding-referential-integrity-in-uniface-104-components-38hk)
+- [Inside a Hybrid Engineering Team: How Developers Actually Work Across Time Zones](https://dev.to/tribesquare/inside-a-hybrid-engineering-team-how-developers-actually-work-across-time-zones-5d1n)
+- [🎯 Understanding Unrelated Component Entities in Uniface 10.4](https://dev.to/petercode/understanding-unrelated-component-entities-in-uniface-104-51eh)
+- [Understanding Related Entities in Uniface 10.4 🚀](https://dev.to/petercode/understanding-related-entities-in-uniface-104-2doj)
+- [Exploring spaCy: Fast and Efficient NLP in Python](https://dev.to/rijultp/exploring-spacy-fast-and-efficient-nlp-in-python-j5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
