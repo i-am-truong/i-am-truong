@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility: FashionNova fined $5.15M, Vueling Airlines €90,000](https://dev.to/chris_devto/fashionnova-fined-515m-vueling-airlines-eu90000-48he)
-- [AWS Networking: SSL/TLS with Load Balancers](https://dev.to/aws-builders/aws-networking-ssltls-with-load-balancers-5gpa)
-- [Why does big tech not run Accessibility bug bounties?](https://dev.to/chris_devto/why-does-big-tech-not-run-accessibility-bug-bounties-1n1k)
-- [Boosting Efficiency in Mechanical Prototyping: Expert Advice](https://dev.to/sheba-kumari/boosting-efficiency-in-mechanical-prototyping-expert-advice-40gc)
-- [Framework for quarterly B2B campaign planning](https://dev.to/leo_johnson_e34af4a6d9bd9/framework-for-quarterly-b2b-campaign-planning-5bn5)
+- [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
+- [The Great AI Productivity Paradox: Are We Actually Coding Faster](https://dev.to/pullflow/the-great-ai-productivity-paradox-are-we-actually-coding-faster-ede)
+- [Yacht Owner Representation and Why It Matters for Owners, Projects, and Day to Day Life](https://dev.to/yacht_crewtraining_cba1e/yacht-owner-representation-and-why-it-matters-for-owners-projects-and-day-to-day-life-2lho)
+- [Converting TensorFlow Models to TensorFlow Lite: A Step-by-Step Guide](https://dev.to/jayita_gulati_654f0451382/converting-tensorflow-models-to-tensorflow-lite-a-step-by-step-guide-3ikm)
+- [Laravel Eloquent on Steroids: From 3s to 300ms](https://dev.to/japhethjoepari/laravel-eloquent-on-steroids-from-3s-to-300ms-ghc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
