@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Tron: Ares - Official &#39;The Evolution&#39; Trailer &lpar;2025&rpar; Jared Leto, Jeff Bridges, Greta Lee](https://dev.to/gg_news/ign-tron-ares-official-the-evolution-trailer-2025-jared-leto-jeff-bridges-greta-lee-3mka)
-- [IGN: Mewgenics - Developer Gameplay Commentary #2](https://dev.to/gg_news/ign-mewgenics-developer-gameplay-commentary-2-1apm)
-- [IGN: Ghost of Yotei: 9 Combat Tips to Master Samurai Fighting](https://dev.to/gg_news/ign-ghost-of-yotei-9-combat-tips-to-master-samurai-fighting-3fj8)
-- [IGN: EA Just Went Private - Unlocked Clips](https://dev.to/gg_news/ign-ea-just-went-private-unlocked-clips-280p)
-- [IGN: Super Mario Galaxy 1 - Enhanced Switch 2 Gameplay 4K 60FPS](https://dev.to/gg_news/ign-super-mario-galaxy-1-enhanced-switch-2-gameplay-4k-60fps-4n5)
+- [🚀 Mastering Cypress.io: Core Concepts, Key APIs, and Advanced Best Practices](https://dev.to/mohamedsaidibrahim/mastering-cypressio-core-concepts-key-apis-and-advanced-best-practices-o87)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2fla)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-31i6)
+- [COLORS: Jon Batiste - LEAN ON MY LOVE | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-lean-on-my-love-a-colors-show-1pkj)
+- [🎯 Mastering the QA Tech Stack: How Senior Test Engineers Integrate Cypress, Playwright, Postman…](https://dev.to/mohamedsaidibrahim/mastering-the-qa-tech-stack-how-senior-test-engineers-integrate-cypress-playwright-postman-29n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
