@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building the Future of Pharmacy: Corpus Memorial Pharmacy&#39;s Digital Transformation with C++](https://dev.to/lewis_gregg_28b23f0af1327/building-the-future-of-pharmacy-corpus-memorial-pharmacys-digital-transformation-with-c-2dop)
+- [MongoDB CRUD Operations](https://dev.to/ganges07/mongodb-crud-operations-537m)
+- [The Complete Guide to React Hooks &lpar;2025&rpar;](https://dev.to/rayan2228/the-complete-guide-to-react-hooks-2025-1i78)
 - [This was not a business mistake. This was a carefully planned conspiracy involving multiple people, attorneys, and stolen funds. Amanda Frye was right in the middle of it.](https://dev.to/francisco_pana_8a21c947b7/this-was-not-a-business-mistake-this-was-a-carefully-planned-conspiracy-involving-multiple-people-3mg6)
-- [Python &lpar;I&rpar;](https://dev.to/elferrer/python-i-4cp6)
-- [Claude Code: Unix Philosophy Makes AI Coding Better](https://dev.to/klement_gunndu_e16216829c/claude-code-unix-philosophy-makes-ai-coding-better-5323)
-- [Building, Testing, and Publishing Go Packages: Best Practices](https://dev.to/ticatwolves/building-testing-and-publishing-go-packages-best-practices-8k)
-- [Building a Custom NLP Model from Scratch: From Idea to Real-World Impact](https://dev.to/sunny7899/building-a-custom-nlp-model-from-scratch-from-idea-to-real-world-impact-1ojl)
+- [Service Mesh &lpar;Istio, Linkerd&rpar; Introduction](https://dev.to/godofgeeks/service-mesh-istio-linkerd-introduction-58pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
