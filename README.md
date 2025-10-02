@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [AWS Savings Plans &amp; RI](https://dev.to/wakeup_flower_8591a6cb6a9/aws-savings-plans-ri-8li)
 - [Resumindo Projetando Sistemas Distribuídos: Conceitos Importantes](https://dev.to/bremda/resumindo-projetando-sistemas-distribuidos-conceitos-importantes-7n4)
+- [How Social Media Feed Algorithms Work](https://dev.to/michael-gokey/how-social-media-feed-algorithms-work-2cc8)
 - [Why You&#39;re Spending Too Much Money on Datadog Metrics](https://dev.to/jack0lantern/why-youre-spending-too-much-money-on-datadog-metrics-1m4e)
 - [I’m a Frontend Dev. Stop Forcing Me to Be a Full-Stack.](https://dev.to/ayush_maurya_/im-a-frontend-dev-stop-forcing-me-to-be-a-full-stack-3fi0)
-- [Agent Optimization: Why Context Engineering Isn’t Enough](https://dev.to/shashikant86/agent-optimization-why-context-engineering-isnt-enough-klo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
