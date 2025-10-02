@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Authentication Seamless: How SSO Works in Modern Systems](https://dev.to/sohillalakiya/making-authentication-seamless-how-sso-works-in-modern-systems-121n)
+- [`NamedError` class in opencode codebase.](https://dev.to/ramunarasinga-11/namederror-class-in-opencode-codebase-44hg)
+- [Build a Great Nest.js Blog: Tags for Post](https://dev.to/leapcell/build-a-great-nestjs-blog-tags-for-post-42id)
 - [RIP Amazon Data Firehose Change Data Capture](https://dev.to/aws-builders/rip-amazon-data-firehose-change-data-capture-2dg3)
 - [Why I Built ts-typed-errors: A TypeScript Error Handling Revolution](https://dev.to/ackermannq/why-i-built-ts-typed-errors-a-typescript-error-handling-revolution-2bph)
-- [Put images or large files in DynamoDB ?](https://dev.to/wakeup_flower_8591a6cb6a9/put-images-or-large-files-in-dynamodb--240h)
-- [JavaScript Array Methods Cheat Sheet &lpar;2025 Update&rpar;](https://dev.to/wahee/javascript-array-methods-cheat-sheet-2025-update-200o)
-- [Tools for Online Video Translation and Dubbing - 2025 Guide](https://dev.to/shruti_saraswat_c258d5934/tools-for-online-video-translation-and-dubbing-2025-guide-2jj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
