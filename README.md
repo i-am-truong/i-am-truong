@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vector Databases Guide: RAG Applications 2025](https://dev.to/klement_gunndu_e16216829c/vector-databases-guide-rag-applications-2025-55oj)
-- [From AI Agents to Agentic AI – The Next Big Leap](https://dev.to/expert_smith_bef0d5e94ca6/from-ai-agents-to-agentic-ai-the-next-big-leap-2gnc)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4li6)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-10lg)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-jf0)
+- [Use of Colour &lpar;Level A&rpar; WCAG 1.4.1 - Accessibility Design tips](https://dev.to/chris_devto/use-of-colour-level-a-wcag-141-accessibility-design-tips-4112)
+- [Overcoming Challenges in Building an Interactive Web Project ❤️‍🔥](https://dev.to/yaldakhoshpey/overcoming-challenges-in-building-an-interactive-web-project-ed7)
+- [SEO with React and Next.js: What Developers Must Know](https://dev.to/faizancheema893/seo-with-react-and-nextjs-what-developers-must-know-2en6)
+- [Storytelling with Data: Why It Matters and What Data Analysts Really Do](https://dev.to/randa_lakab/storytelling-with-data-why-it-matters-and-what-data-analysts-really-do-5174)
+- [Part-104: How to Configure a ClusterIP Service in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-104-how-to-configure-a-clusterip-service-in-google-kubernetes-engine-gke-25n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
