@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I ended up creating my own programming font...](https://dev.to/psudo-dev/how-i-ended-up-creating-my-own-programming-font-117p)
-- [My First Pull Request for Open Source Project](https://dev.to/jongwan93/my-first-pull-request-for-open-source-project-3jp4)
-- [📢 HMPL is participating in Hacktoberfest 2025!](https://dev.to/hmpljs/hmpl-is-participating-in-hacktoberfest-2025-1bn1)
-- [Mastering Google Gemini AI: A Complete Guide to Building Intelligent Applications](https://dev.to/vipascal99/mastering-google-gemini-ai-a-complete-guide-to-building-intelligent-applications-401f)
-- [What is marketing Funnel?](https://dev.to/e77/what-is-marketing-funnel-cmf)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ki0)
+- [COLORS: Jon Batiste - LEAN ON MY LOVE | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-lean-on-my-love-a-colors-show-4dh9)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-47l9)
+- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-1p8n)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-d7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
