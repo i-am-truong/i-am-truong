@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Notifications with Edge AI: A Kotlin + Koog + MediaPipes Journey](https://dev.to/monda8am/smarter-notifications-with-edge-ai-a-kotlin-koog-mediapipes-journey-5h1)
-- [What Are Kafka Common Advanced Problem Solutions in 2025?](https://dev.to/rociogarciavf/what-are-kafka-common-advanced-problem-solutions-in-2025-4pij)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-37f0)
-- [Beginner’s Guide #1: if &lpar;data&rpar; vs if &lpar;!!data&rpar; in JavaScript 🤔](https://dev.to/sylwia-lask/beginners-guide-1-if-data-vs-if-data-in-javascript-14bc)
-- [RDS for Oracle is not RDS Custom for Oracle](https://dev.to/wakeup_flower_8591a6cb6a9/rds-for-oracle-is-not-rds-custom-for-oracle-4i6k)
+- [AWS Savings Plans &amp; RI](https://dev.to/wakeup_flower_8591a6cb6a9/aws-savings-plans-ri-8li)
+- [Resumindo Projetando Sistemas Distribuídos: Conceitos Importantes](https://dev.to/bremda/resumindo-projetando-sistemas-distribuidos-conceitos-importantes-7n4)
+- [Why You&#39;re Spending Too Much Money on Datadog Metrics](https://dev.to/jack0lantern/why-youre-spending-too-much-money-on-datadog-metrics-1m4e)
+- [I’m a Frontend Dev. Stop Forcing Me to Be a Full-Stack.](https://dev.to/ayush_maurya_/im-a-frontend-dev-stop-forcing-me-to-be-a-full-stack-3fi0)
+- [Agent Optimization: Why Context Engineering Isn’t Enough](https://dev.to/shashikant86/agent-optimization-why-context-engineering-isnt-enough-klo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
