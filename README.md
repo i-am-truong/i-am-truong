@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to write good alt text for your product images](https://dev.to/davedavies/how-to-write-good-alt-text-for-your-product-images-52hl)
-- [This modern stack makes building side projects fun again](https://dev.to/egledigital/this-modern-stack-makes-building-side-projects-fun-again-5gk)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_f8c307c5/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-26ah)
-- [Calorianerihashvich](https://dev.to/ashot_nalbandyan_0a8b2885/calorianerihashvich-27ne)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_40446303/beyond-env-a-grown-ups-guide-to-application-configuration-3o39)
+- [Stop Waiting Around: Async &amp; Await in Python Explained](https://dev.to/bhankee/stop-waiting-around-async-await-in-python-explained-44ib)
+- [📝Mastering Structured Logging in .NET Core with Serilog, App Insights, and Log Analytics](https://dev.to/pavan296/mastering-structured-logging-in-net-core-with-serilog-app-insights-and-log-analytics-1j09)
+- [🚀 Launching My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/launching-my-ai-data-mastery-journey-from-python-to-generative-ai-4gc4)
+- [The 7 Most Essential Frontend Development Tools in 2025](https://dev.to/hashbyt/the-7-most-essential-frontend-development-tools-in-2025-2bi2)
+- [Stop Spaghetti SQL: Simplify Complex Queries with Postgres CTEs in Supabase](https://dev.to/ivankahl/stop-spaghetti-sql-simplify-complex-queries-with-postgres-ctes-in-supabase-1f8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
