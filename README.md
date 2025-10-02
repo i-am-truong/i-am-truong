@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔗 Understanding Referential Integrity in Uniface 10.4 Components](https://dev.to/petercode/understanding-referential-integrity-in-uniface-104-components-38hk)
-- [Inside a Hybrid Engineering Team: How Developers Actually Work Across Time Zones](https://dev.to/tribesquare/inside-a-hybrid-engineering-team-how-developers-actually-work-across-time-zones-5d1n)
-- [🎯 Understanding Unrelated Component Entities in Uniface 10.4](https://dev.to/petercode/understanding-unrelated-component-entities-in-uniface-104-51eh)
-- [Understanding Related Entities in Uniface 10.4 🚀](https://dev.to/petercode/understanding-related-entities-in-uniface-104-2doj)
-- [Exploring spaCy: Fast and Efficient NLP in Python](https://dev.to/rijultp/exploring-spacy-fast-and-efficient-nlp-in-python-j5e)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-29m)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-5c1e)
+- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-a8m)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-2496)
+- [KEXP: strongboi - flame &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-flame-live-on-kexp-1950)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
