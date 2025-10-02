@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Benefits of Using Nexi Mail for Professional Communication in 2025](https://dev.to/justin-green/top-5-benefits-of-using-nexi-mail-for-professional-communication-in-2025-1l97)
+- [🥊 What if mutual combat law was legal again? Would trolls still talk tough if they could be subpoenaed to fight in the gym? 👀 Check out the latest Straight From Da Chair Podcast reel 👉 https://youtube.com/shorts/PLrMsO4WxhY](https://dev.to/bricedavis/what-if-mutual-combat-law-was-legal-again-would-trolls-still-talk-tough-if-they-could-be-2934)
 - [From Cypress to Playwright: Solving 5 Common Test Automation Challenges](https://dev.to/mohamedsaidibrahim/from-cypress-to-playwright-solving-5-common-test-automation-challenges-46l5)
-- [Mastering Cypress Retries: How to Efficiently Re-Run Only Failed Tests with Mochawesome &amp; Dynamic…](https://dev.to/mohamedsaidibrahim/mastering-cypress-retries-how-to-efficiently-re-run-only-failed-tests-with-mochawesome-dynamic-1o6p)
-- [JSON Schema with AJV: Implementation Deep Dive ⚡](https://dev.to/vishdevwork/json-schema-with-ajv-implementation-deep-dive-1cnn)
-- [Unmasking the Ghost in the Machine: How a Translation API Error Nearly Broke Our Cypress E2E Tests](https://dev.to/mohamedsaidibrahim/unmasking-the-ghost-in-the-machine-how-a-translation-api-error-nearly-broke-our-cypress-e2e-tests-2fa4)
-- [🚀 Mastering Cypress.io: Core Concepts, Key APIs, and Advanced Best Practices](https://dev.to/mohamedsaidibrahim/mastering-cypressio-core-concepts-key-apis-and-advanced-best-practices-o87)
+- [How to Pick the Right Web Frameworks for Your Next Project](https://dev.to/devsmonkey/how-to-pick-the-right-web-frameworks-for-your-next-project-4hki)
+- [Roadmap to Becoming a Full-Stack Developer in 2025](https://dev.to/kingbyno/roadmap-to-becoming-a-full-stack-developer-in-2025-1ncb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
