@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Qred Bank to use agents.md on scale](https://dev.to/qred-bank/how-qred-bank-to-use-agentsmd-on-scale-g54)
-- [Data in Everyday Life](https://dev.to/adegoke-mariam-ayodele/data-in-everyday-life-5510)
-- [Struggling with CORS? Then this is your post](https://dev.to/devsmonkey/struggling-with-cors-then-this-is-your-post-4f0e)
-- [🚀 How I Built a Luxury Restaurant Reservation System with Next.js &amp; Prisma](https://dev.to/aishaaliyu/how-i-built-a-luxury-restaurant-reservation-system-with-nextjs-prisma-3876)
-- [Why Coding Needs Breaks &lpar;and How Writing Contests Help&rpar;](https://dev.to/jasonturner/why-coding-needs-breaks-and-how-writing-contests-help-2hf4)
+- [How to Become an AWS Cloud Club Captain 🚀](https://dev.to/cabrellesage/how-to-become-an-aws-cloud-club-captain-2j0k)
+- [📰 Major Tech News: Oct 1st, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-1st-2025-20d6)
+- [Core Concepts of Kafka](https://dev.to/farhan_khan_41ec7ff11ac1d/core-concepts-of-kafka-760)
+- [Introducing Gofsen: A Clean &amp; Minimalist Web API Framework for Go](https://dev.to/bakemonosan/introducing-gofsen-a-clean-minimalist-web-api-framework-for-go-4p3k)
+- [devchallenge for googleaichallenge and it is an ai powered app that allows you to get summary fom video and questions to answer based on that video also there is the amazing feature for writer and also generate blog ideas from the video](https://dev.to/techsplot/devchallenge-for-googleaichallenge-and-it-is-an-ai-powered-app-that-allows-you-to-get-summary-fom-11f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
