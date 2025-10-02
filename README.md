@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Things I Learned in 9 Years as a .NET Developer](https://dev.to/umerfarooqofficial/10-things-i-learned-in-9-years-as-a-net-developer-52mc)
 - [Join Our Hacktoberfest Celebration and Contribute to Our Programming Blog, again!](https://dev.to/holygrimm/join-our-hacktoberfest-celebration-and-contribute-to-our-programming-blog-again-6hk)
+- [‎Goodbye Servers, Hello Freedom: How Serverless APIs Are Transforming Development ‎](https://dev.to/okoye_ndidiamaka_5e3b7d30/goodbye-servers-hello-freedom-how-serverless-apis-are-transforming-development-37h4)
 - [Vision Transformer &lpar;ViT&rpar; from Scratch in PyTorch](https://dev.to/anesmeftah/vision-transformer-vit-from-scratch-in-pytorch-3l3m)
 - [How Does Technical Debt Pile Up? — Looking at “Just for Now” Examples &lpar;Structure Edition&rpar;](https://dev.to/nyaomaru/how-does-technical-debt-pile-up-looking-at-just-for-now-examples-structure-edition-2pfk)
-- [The Adventures of Blink S4e5: Blink vs. The Vibe Commit](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e5-blink-vs-the-vibe-commit-5edi)
-- [How I Survived the 2025 Crypto Volatility Using Automated Trading Tools ⚡💻](https://dev.to/tanelith/how-i-survived-the-2025-crypto-volatility-using-automated-trading-tools-25jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
