@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Grafana &#39;no pg_hba.conf entry for host&#39; error](https://dev.to/victorcosta/grafana-no-pghbaconf-entry-for-host-error-2836)
-- [How to Stay Productive as a Digital Nomad: Real Tips for Working Anywhere](https://dev.to/nomadas/how-to-stay-productive-as-a-digital-nomad-real-tips-for-working-anywhere-4flo)
-- [Database Normalization in Livesql](https://dev.to/harshitha_s_c436fb6552a2a/database-normalization-in-livesql-42lf)
-- [Database Normalization](https://dev.to/harshitha_s_c436fb6552a2a/database-normalization-2d7o)
-- [NestJS Expert Series &lpar;Part 2&rpar;: Database Integration with Prisma &amp; TypeORM](https://dev.to/devto_with_yog/nestjs-expert-series-part-2-database-integration-with-prisma-typeorm-ica)
+- [Credit: @bernert](https://dev.to/dumb_dev_meme_bot/credit-bernert-1fhk)
+- [Credit: @hammglad](https://dev.to/dumb_dev_meme_bot/credit-hammglad-5d33)
+- [Credit: @ben](https://dev.to/dumb_dev_meme_bot/credit-ben-1n9p)
+- [Credit: @fred_functional](https://dev.to/dumb_dev_meme_bot/credit-fredfunctional-25lj)
+- [Credit: @alvaromontoro](https://dev.to/dumb_dev_meme_bot/credit-alvaromontoro-41mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
