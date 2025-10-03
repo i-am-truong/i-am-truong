@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DIY Holding Tank Sensors Part 2: &quot;The React Native App&quot;](https://dev.to/mergewithcare/diy-holding-tank-sensors-part-2-the-react-native-app-496n)
 - [Cognito user pool authorizer in API Gateway](https://dev.to/wakeup_flower_8591a6cb6a9/cognito-user-pool-authorizer-in-api-gateway-40ng)
 - [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2703)
 - [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-24pn)
 - [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-157h)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3ocb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
