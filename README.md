@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#DAY 8 &amp; 9: Cross-Platform Monitoring - Adding a Windows Host](https://dev.to/samueladeduntan/day-8-9-cross-platform-monitoring-adding-a-windows-host-ojc)
+- [Understanding Hadoop Architecture in Big Data](https://dev.to/bharathprasad/understanding-hadoop-architecture-in-big-data-42g9)
+- [It&#39;s not too late to improve how you handle npm dependencies](https://dev.to/urbanisierung/how-to-measure-the-impact-of-ai-in-engineering-5d4a)
+- [Transactions, Deadlocks &amp; Log Based Recovery in SQL](https://dev.to/naveens_k_403279738dbcab6/transactions-deadlocks-log-based-recovery-in-sql-5cdj)
 - [Open Source Contribution](https://dev.to/winnie90734015/open-source-contribution-3pgg)
-- [Open Source Contribution](https://dev.to/winnie90734015/open-source-contribution-268c)
-- [CRUD Operations in MongoDB: Hands-On with a Student Collection](https://dev.to/pranav_aadithya_36edf63cb/crud-operations-in-mongodb-hands-on-with-a-student-collection-3d6j)
-- [10 Best Backend Development Courses Right Now &lpar;One Stands Out&rpar;](https://dev.to/stack_overflowed/10-best-backend-development-courses-right-now-one-stands-out-50o0)
-- [LAN vs WAN vs MAN | Key Network Differences Explained](https://dev.to/red9systech/lan-vs-wan-vs-man-key-network-differences-explained-4ah2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
