@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Zero to Production: Building a REST API with Node.js and Express](https://dev.to/m-a-h-b-u-b/from-zero-to-production-building-a-rest-api-with-nodejs-and-express-1el6)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-55ob)
+- [Everything about Docker – Basics, MCPs, and more...](https://dev.to/shreyastaware/everything-about-docker-560i)
 - [How I Built an AI-Powered Personal Chatbot That Represents Me Professionally &lpar;And How You Can Too&rpar;](https://dev.to/rohit7890/how-i-built-an-ai-powered-personal-chatbot-that-represents-me-professionally-and-how-you-can-too-fhk)
 - [A Deep Dive Into Python Dictionaries](https://dev.to/bhavesh_kukreja/a-deep-dive-into-python-dictionaries-4758)
-- [Flag namespace in Opencode codebase.](https://dev.to/ramunarasinga-11/flag-namespace-in-opencode-codebase-4cl4)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_f8c307c5/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-32dk)
-- [YouTube Data Processing Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/youtube-data-processing-pipeline-10e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
