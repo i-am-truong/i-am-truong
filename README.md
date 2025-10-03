@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [How I Built a MongoDB Archiving System for Crawled Data](https://dev.to/pradippanjiyar/how-i-built-a-mongodb-archiving-system-for-crawled-data-30o7)
 - [Mounting an EBS Volume on EC2](https://dev.to/ritesh355/mounting-an-ebs-volume-on-ec2-45n5)
-- [Why Integrating Crypto Today Could Be Your Company’s Competitive Edge](https://dev.to/alexnav/why-integrating-crypto-today-could-be-your-companys-competitive-edge-1n3l)
 - [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
 - [Linear Algebra for AI: A Beginner-Friendly Guide with Real-World Examples](https://dev.to/hariharaswq/linear-algebra-for-ai-a-beginner-friendly-guide-with-real-world-examples-4flm)
+- [We made an opensource project, check it out!](https://dev.to/gunner_andersen_36e65c71e/we-made-an-opensource-project-check-it-out-3moc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
