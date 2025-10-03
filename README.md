@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-564j)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-pk9)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-18h6)
-- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-4cm0)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-5c8n)
+- [Laravel Filtering &lpar;Date, Month, Year, Week&rpar; and API Requests in React 19 &amp; Next.js &lpar;App Router&rpar;](https://dev.to/skipperhoa/laravel-filtering-date-month-year-week-and-api-requests-in-react-19-nextjs-app-router-5360)
+- [How AI is Changing the Future of Photo Editing](https://dev.to/hassan_3bbb2ffd268a7bcf0b/how-ai-is-changing-the-future-of-photo-editing-5bc9)
+- [What Building Open Source Fetch Tools Taught Me - And What They Make Me Wanna Forget](https://dev.to/gkoos/what-building-open-source-fetch-tools-taught-me-and-what-they-make-me-wanna-forget-1b0d)
+- [Scaling Spring Boot with Auto Scaling Group &lpar;ASG&rpar; + Elastic Load Balancer &lpar;ELB&rpar;](https://dev.to/techeazy_consulting/scaling-spring-boot-with-auto-scaling-group-asg-elastic-load-balancer-elb-1293)
+- [A Guide to Securely Exposing Ollama on Colab via Pinggy](https://dev.to/lightningdev123/a-guide-to-securely-exposing-ollama-on-colab-via-pinggy-612)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
