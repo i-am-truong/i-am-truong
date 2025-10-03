@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Event Handling: Inbox Pattern for Complex Scenarios](https://dev.to/maksim_matlakhov/event-handling-inbox-pattern-for-complex-scenarios-5b83)
-- [Designing ITConnect — From a Student Idea to a Real Experience](https://dev.to/isme_kastrati_76f4b128b63/designing-itconnect-from-a-student-idea-to-a-real-experience-3mc9)
-- [Boost Your Local AI: Supercharge Gaia Nodes with Redis for Speed &amp; Memory](https://dev.to/gaiaai/boost-your-local-ai-supercharge-gaia-nodes-with-redis-for-speed-memory-276l)
-- [ITConnect — A Platform That Connects Talent with Tech Companies](https://dev.to/isme_kastrati_76f4b128b63/itconnect-a-platform-that-connects-talent-with-tech-companies-5833)
-- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/sugesh_appu_54958a343aaf5/indexing-hashing-query-optimization-in-dbms-37gc)
+- [This was one of several recent performance improvements. Under the hood, we did some interesting memory-first caching as well.](https://dev.to/ben/this-was-one-of-several-recent-performance-improvements-under-the-hood-we-did-some-interesting-1o49)
+- [Generate Docs with Amp Code](https://dev.to/srujana_maddula_0d5657ea2/generate-docs-with-amp-code-4im6)
+- [Preloading the DEV &lpar;and Forem&rpar; home feed and sidebar for substantial performance benefits](https://dev.to/devteam/preloading-the-dev-and-forem-home-feed-and-sidebar-for-substantial-performance-benefits-2cg8)
+- [Planning a conference? Check this list!](https://dev.to/dzienisz/planning-a-conference-check-this-list-358b)
+- [Persisting data in Rust with Heave](https://dev.to/kate_korsaro/persisting-data-in-rust-with-heave-3h3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
