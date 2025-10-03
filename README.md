@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Indexing, Hashing &amp; Query Optimization with MySQL — Students Table Example&quot;](https://dev.to/atheeba_parveenja24cb0/indexing-hashing-query-optimization-with-mysql-students-table-example-426)
-- [OpenStack for DevOps Beginners: Hands-On with MicroStack](https://dev.to/abdulrahmanalpha/openstack-for-devops-beginners-hands-on-with-microstack-5flp)
-- [Part-105: Kubernetes Headless Service Explained &lpar;with Simple Diagram&rpar;](https://dev.to/latchudevops/part-105-kubernetes-headless-service-explained-with-simple-diagram-d5p)
-- [How to build a data table with sorting and pagination using Alpine JS](https://dev.to/mike_andreuzza/how-to-build-a-data-table-with-sorting-and-pagination-using-alpine-js-2d11)
-- [Embracing the Future: The Pivotal Role of Virtual Classrooms in Modern Education](https://dev.to/ghummantech/embracing-the-future-the-pivotal-role-of-virtual-classrooms-in-modern-education-2heh)
+- [WTF is Causal Machine Learning?](https://dev.to/dailybugle33/wtf-is-causal-machine-learning-j1b)
+- [Dev Log 28 - Inventory Loot System](https://dev.to/asx/dev-log-28-inventory-loot-system-1523)
+- [Mastering Python Arrays: Step-by-Step Tutorial for Developers](https://dev.to/tpointtechblog/mastering-python-arrays-step-by-step-tutorial-for-developers-1k23)
+- [Unleashing the Power of AI: How Developers Can Transform Their Workflow](https://dev.to/mikeover/unleashing-the-power-of-ai-how-developers-can-transform-their-workflow-417o)
+- [UseContext in React JS](https://dev.to/dinesh_g_909f4a82c67f5bbd/usecontext-in-react-js-227f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
