@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ruby and Cybersecurity: Essential Security Practices for Modern Applications](https://dev.to/daviducolo/ruby-and-cybersecurity-essential-security-practices-for-modern-applications-4166)
-- [Animation Start/Done? Dead. Long Live CSS + DOM Events](https://dev.to/brianmtreese/animation-startdone-dead-long-live-css-dom-events-47hj)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_f8c307c5/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4oah)
-- [Master Process Management with PM2: A Complete Guide for Node.js Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/master-process-management-with-pm2-a-complete-guide-for-nodejs-developers-20l7)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-7li)
+- [ETL Made Easy: Integrating Multi-Source Data with AWS Glue](https://dev.to/sushanta_paudel/etl-made-easy-integrating-multi-source-data-with-aws-glue-29p1)
+- [How do you get your dev team to shift left by themselves for real?](https://dev.to/owasp/how-do-you-get-your-dev-team-to-shift-left-by-themselves-for-real-3eap)
+- [Building and Growing PS Handyman Singapore: Challenges, Insights, and Future Goals](https://dev.to/trustedhandymanx/building-and-growing-ps-handyman-singapore-challenges-insights-and-future-goals-23ib)
+- [DevOps Tools Landscape &lpar;GitLab, CircleCI, etc.&rpar;](https://dev.to/godofgeeks/devops-tools-landscape-gitlab-circleci-etc-398c)
+- [The Technical Genius Behind PBJ The Musical Apple Award Win](https://dev.to/lobyloyloy/the-technical-genius-behind-pbj-the-musical-apple-award-win-40lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
