@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Dream Project to Portfolio Piece: How My &#39;Failed&#39; Game Became My Biggest Asset](https://dev.to/yousef0m/from-dream-project-to-portfolio-piece-how-my-failed-game-became-my-biggest-asset-1hpe)
-- [Where can I download a Markdown document editor for free?](https://dev.to/shruti_mishra_c510cc7d673/where-can-i-download-a-markdown-document-editor-for-free-2mdf)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2faf)
-- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-3h4o)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-h5h)
+- [Event Handling: Inbox Pattern for Complex Scenarios](https://dev.to/maksim_matlakhov/event-handling-inbox-pattern-for-complex-scenarios-5b83)
+- [Designing ITConnect — From a Student Idea to a Real Experience](https://dev.to/isme_kastrati_76f4b128b63/designing-itconnect-from-a-student-idea-to-a-real-experience-3mc9)
+- [Boost Your Local AI: Supercharge Gaia Nodes with Redis for Speed &amp; Memory](https://dev.to/gaiaai/boost-your-local-ai-supercharge-gaia-nodes-with-redis-for-speed-memory-276l)
+- [ITConnect — A Platform That Connects Talent with Tech Companies](https://dev.to/isme_kastrati_76f4b128b63/itconnect-a-platform-that-connects-talent-with-tech-companies-5833)
+- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/sugesh_appu_54958a343aaf5/indexing-hashing-query-optimization-in-dbms-37gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
