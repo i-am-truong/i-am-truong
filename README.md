@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why SPM Needs a CHANGELOG &lpar;And How to Write One&rpar;](https://dev.to/arshtechpro/why-spm-needs-a-changelog-and-how-to-write-one-1eln)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-3a0f)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-244k)
-- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-3ilh)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-29g1)
+- [cPanel in 2025 — Still the King of Hosting, or Time to Move On?](https://dev.to/hugovalters/cpanel-in-2025-still-the-king-of-hosting-or-time-to-move-on-3j1p)
+- [AI Trends You Must Know in 2025](https://dev.to/golamkibria/ai-trends-you-must-know-in-2025-2g4p)
+- [Build an Aspire API Using Microsoft OpenAI, Scalar, OpenRouter, Structured Output, and Custom Headers](https://dev.to/victorioberra/build-an-aspire-api-using-microsoft-openai-scalar-openrouter-structured-output-and-custom-3a6)
+- [Platform Engineering: Easy to Use, Hard to Mess Up](https://dev.to/sleepingpotato/platform-engineering-easy-to-use-hard-to-mess-up-471o)
+- [OSD600 Lab 4](https://dev.to/kphero/osd600-lab-4-5f7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
