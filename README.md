@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍💻 Apache Kafka CLI – Detailed Course](https://dev.to/nk_sk_6f24fdd730188b284bf/apache-kafka-cli-detailed-course-e6b)
-- [The power of Tanstack Query](https://dev.to/alvinlaroya/the-power-of-tanstack-query-nmm)
-- [Best Prior Art Search Tool for Invalidation in 2025](https://dev.to/patentscanai/best-prior-art-search-tool-for-invalidation-in-2025-1ofp)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-2cno)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_f8c307c5/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-3oe)
+- [React 2025 Full Course – Build a Netflix Clone with Tailwind, TanStack Router, TanStack Query &amp; Zustand](https://dev.to/shrutikapoor08/react-2025-full-course-build-a-netflix-clone-with-tailwind-tanstack-router-tanstack-query--4ehc)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-mg9)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-300e)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-3g87)
+- [KEXP: strongboi - special &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-special-live-on-kexp-35b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
