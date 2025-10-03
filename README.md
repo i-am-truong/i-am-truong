@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building My First Large Language Model from Scratch](https://dev.to/ujjwall-r/building-my-first-large-language-model-from-scratch-p48)
+- [React Hooks](https://dev.to/dinesh_g_909f4a82c67f5bbd/react-hooks-m7l)
 - [How to get and use free PVS-Studio license. Part 3: working with report and warnings](https://dev.to/pvsdev/how-to-get-and-use-free-pvs-studio-license-part-3-working-with-report-and-warnings-2345)
 - [ETL Made Easy: Integrating Multi-Source Data with AWS Glue](https://dev.to/sushanta_paudel/etl-made-easy-integrating-multi-source-data-with-aws-glue-29p1)
 - [Transactions, Deadlocks &amp; Log Based Recovery](https://dev.to/sai_cf536f1c0eefb673310c5/transactions-deadlocks-log-based-recovery-52mp)
-- [Deploying My First NGINX Web Server on AWS EC2: A Beginner-Friendly Walkthrough](https://dev.to/odinkemelu_innocent_3b2f5/deploying-my-first-nginx-web-server-on-aws-ec2-a-beginner-friendly-walkthrough-2dg0)
-- [How do you get your dev team to shift left by themselves for real?](https://dev.to/owasp/how-do-you-get-your-dev-team-to-shift-left-by-themselves-for-real-3eap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
