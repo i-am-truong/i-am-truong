@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_06022d8b/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-4f24)
-- [Indexing, Hashing &amp; Query Optimization](https://dev.to/sai_cf536f1c0eefb673310c5/indexing-hashing-query-optimization-1d78)
-- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/naveens_k_403279738dbcab6/indexing-hashing-query-optimization-in-sql-5886)
-- [Building My First Large Language Model from Scratch](https://dev.to/ujjwall-r/building-my-first-large-language-model-from-scratch-p48)
-- [React Hooks](https://dev.to/dinesh_g_909f4a82c67f5bbd/react-hooks-m7l)
+- [Part-105: Kubernetes Headless Service Explained &lpar;with Simple Diagram&rpar;](https://dev.to/latchudevops/part-105-kubernetes-headless-service-explained-with-simple-diagram-d5p)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2e99)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-1453)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-6mo)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-40ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
