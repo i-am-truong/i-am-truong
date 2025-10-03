@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running Effect-TS in Cloudflare Workers Without the Pain](https://dev.to/mmmoli/running-effect-ts-in-cloudflare-workers-without-the-pain-40a0)
-- [Your Roadmap to Becoming a Frontend Developer in 2025](https://dev.to/hashbyt/your-roadmap-to-becoming-a-frontend-developer-in-2025-kdl)
-- [TAURI vs. Electron &lpar;WTH???&rpar;](https://dev.to/marco5dev/tauri-vs-electron-wth-1000)
-- [Hacktoberfest Beginner-Friendly Repositories: Find and Contribute to Open Source Projects](https://dev.to/avinash201199/hacktoberfest-beginner-friendly-repositories-find-and-contribute-to-open-source-projects-1p03)
-- [I think we&#39;re definitely going to want to support inline markdown syntax like backticks for code snippets etc.
-
-But we *don&#39;t* want to *fully* support markdown as we have full posts for rich content. But doing all this in a non-confusing way is key.](https://dev.to/ben/i-think-were-definitely-going-to-want-to-support-inline-markdown-syntax-like-backticks-for-code-3dj4)
+- [Cracking Codes &lpar;and Scheduling Conflicts&rpar;: My Intro to Cryptography with the ZK Bootcamp](https://dev.to/ayda_ma04a645d96526b/cracking-codes-and-scheduling-conflicts-my-intro-to-cryptography-with-the-zk-bootcamp-52m0)
+- [Adding TOML Config File Support to an Open Source CLI Project](https://dev.to/dharam_ghevariya_0d946c37/adding-toml-config-file-support-to-an-open-source-cli-project-2c9c)
+- [The Rise of Ethical AI: Governance Frameworks Every Business Should Know](https://dev.to/natepatel/the-rise-of-ethical-ai-governance-frameworks-every-business-should-know-50bh)
+- [Hello Devs The Duchess of Hackers is Here](https://dev.to/the_duchess_of_hackers/hello-devs-the-duchess-of-hackers-is-here-3nd)
+- [Where does vibe coding most typically fall short for you?](https://dev.to/avanichols_dev/where-does-vibe-coding-most-typically-fall-short-for-you-14lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
