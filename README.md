@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Video Testimonials Increase Portfolio Conversions by 200%](https://dev.to/imtaslim/why-video-testimonials-increase-portfolio-conversions-by-200-72g)
-- [Building an Interactive 3D Experience with Three.js and React for Schildr](https://dev.to/touridev/building-an-interactive-3d-experience-with-threejs-and-react-for-schildr-2jbd)
-- [Why GraphQL Adoption Keeps Growing: Benefits and Limitations](https://dev.to/oluseyej/why-graphql-adoption-keeps-growing-benefits-and-limitations-252n)
-- [Building Ethical AI: A Comprehensive Guide to Responsible Artificial Intelligence](https://dev.to/aklm10barca/building-ethical-ai-a-comprehensive-guide-to-responsible-artificial-intelligence-10k5)
-- [ConfigMaps and Secrets: Managing Configuration in Kubernetes](https://dev.to/klaus82/configmaps-and-secrets-managing-configuration-in-kubernetes-3ahk)
+- [Using A/B Testing to Build Better Buyer Personas](https://dev.to/dipti_moryani_185c244d578/using-ab-testing-to-build-better-buyer-personas-4ooa)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-246i)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-3m79)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-324o)
+- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-40dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
