@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why an API Weather Key Matters for Reliable Weather Data](https://dev.to/rameshchauhan/why-an-api-weather-key-matters-for-reliable-weather-data-2od)
+- [Is Excel still relevant in the era of Power Bi and Python?](https://dev.to/kepha_gitau/is-excel-still-relevant-in-the-era-of-power-bi-and-python-7kp)
+- [IDENTITY PROVIDERS](https://dev.to/ntsezenelvis/identity-providers-18ka)
+- [🚀 Unitly.info vs. The Competition: Why Developers Choose Simplicity &amp; Speed](https://dev.to/unitly/unitlyinfo-vs-the-competition-why-developers-choose-simplicity-speed-12lc)
 - [Should a web development beginner focus on building a complete project or learn individual technologies?](https://dev.to/hxccoder/should-a-web-development-beginner-focus-on-building-a-complete-project-or-learn-individual-3bd5)
-- [cPanel in 2025 — Still the King of Hosting, or Time to Move On?](https://dev.to/hugovalters/cpanel-in-2025-still-the-king-of-hosting-or-time-to-move-on-3j1p)
-- [AI Trends You Must Know in 2025](https://dev.to/golamkibria/ai-trends-you-must-know-in-2025-2g4p)
-- [Build an Aspire API Using Microsoft OpenAI, Scalar, OpenRouter, Structured Output, and Custom Headers](https://dev.to/victorioberra/build-an-aspire-api-using-microsoft-openai-scalar-openrouter-structured-output-and-custom-3a6)
-- [Platform Engineering: Easy to Use, Hard to Mess Up](https://dev.to/sleepingpotato/platform-engineering-easy-to-use-hard-to-mess-up-471o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
