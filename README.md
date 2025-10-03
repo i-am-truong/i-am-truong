@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cracking Codes &lpar;and Scheduling Conflicts&rpar;: My Intro to Cryptography with the ZK Bootcamp](https://dev.to/ayda_ma04a645d96526b/cracking-codes-and-scheduling-conflicts-my-intro-to-cryptography-with-the-zk-bootcamp-52m0)
-- [Adding TOML Config File Support to an Open Source CLI Project](https://dev.to/dharam_ghevariya_0d946c37/adding-toml-config-file-support-to-an-open-source-cli-project-2c9c)
-- [The Rise of Ethical AI: Governance Frameworks Every Business Should Know](https://dev.to/natepatel/the-rise-of-ethical-ai-governance-frameworks-every-business-should-know-50bh)
-- [Hello Devs The Duchess of Hackers is Here](https://dev.to/the_duchess_of_hackers/hello-devs-the-duchess-of-hackers-is-here-3nd)
-- [Where does vibe coding most typically fall short for you?](https://dev.to/avanichols_dev/where-does-vibe-coding-most-typically-fall-short-for-you-14lc)
+- [Why Video Testimonials Increase Portfolio Conversions by 200%](https://dev.to/imtaslim/why-video-testimonials-increase-portfolio-conversions-by-200-72g)
+- [Building an Interactive 3D Experience with Three.js and React for Schildr](https://dev.to/touridev/building-an-interactive-3d-experience-with-threejs-and-react-for-schildr-2jbd)
+- [Why GraphQL Adoption Keeps Growing: Benefits and Limitations](https://dev.to/oluseyej/why-graphql-adoption-keeps-growing-benefits-and-limitations-252n)
+- [Building Ethical AI: A Comprehensive Guide to Responsible Artificial Intelligence](https://dev.to/aklm10barca/building-ethical-ai-a-comprehensive-guide-to-responsible-artificial-intelligence-10k5)
+- [ConfigMaps and Secrets: Managing Configuration in Kubernetes](https://dev.to/klaus82/configmaps-and-secrets-managing-configuration-in-kubernetes-3ahk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
