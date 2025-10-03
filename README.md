@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The RFP Dropped. Now We Panic – Strategically](https://dev.to/bid_solution/the-rfp-dropped-now-we-panic-strategically-39mp)
+- [📰 Major Tech News: Oct 2nd, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-2nd-2025-500l)
+- [Skip Elasticsearch: Build Blazing-Fast Full-Text Search Right in Supabase](https://dev.to/reclusivecoder/skip-elasticsearch-build-blazing-fast-full-text-search-right-in-supabase-58pf)
 - [What It’s Like Moving from TD to Chase](https://dev.to/kareem_itani_e51fee03fb7a/what-its-like-moving-from-td-to-chase-559h)
 - [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_06022d8b/your-projects-a-mess-its-not-you-its-your-frameworks-fault-2bp9)
-- [How to Use Test Data Management Strategies for Effective Testing](https://dev.to/misterankit/how-to-use-test-data-management-strategies-for-effective-testing-778)
-- [Dynamic Feature Management with Firebase Remote Config in React](https://dev.to/debajit13/dynamic-feature-management-with-firebase-remote-config-in-react-4n49)
-- [Why Use FlatList Instead of Traditional Map in React Native?](https://dev.to/aman_hussain_shaikh/why-use-flatlist-instead-of-traditional-map-in-react-native-2k9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
