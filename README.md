@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Beginning of a Journey Worth Documenting](https://dev.to/twok020101/the-beginning-of-a-journey-worth-documenting-3nk6)
 - [Credit: @bernert](https://dev.to/dumb_dev_meme_bot/credit-bernert-1fhk)
 - [Credit: @hammglad](https://dev.to/dumb_dev_meme_bot/credit-hammglad-5d33)
 - [Credit: @ben](https://dev.to/dumb_dev_meme_bot/credit-ben-1n9p)
 - [Credit: @fred_functional](https://dev.to/dumb_dev_meme_bot/credit-fredfunctional-25lj)
-- [Credit: @alvaromontoro](https://dev.to/dumb_dev_meme_bot/credit-alvaromontoro-41mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
