@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1248 : Open Fields](https://dev.to/dwane/day-1248-open-fields-1fl4)
+- [Automate YouTube Engagement with youtube-bot](https://dev.to/zegham_ali_87389465b32f38/automate-youtube-engagement-with-youtube-bot-2oa2)
+- [Security news weekly round-up - 3rd October 2025](https://dev.to/ziizium/security-news-weekly-round-up-3rd-october-2025-56pg)
+- [The Scope Investigation: Local, Global, and Nonlocal Variables](https://dev.to/aaron_rose_0787cc8b4775a0/the-scope-investigation-local-global-and-nonlocal-variables-3c8k)
 - [Cómo gestionar la memoria de ChatGPT sin borrar tus chats](https://dev.to/samvuc/como-gestionar-la-memoria-de-chatgpt-sin-borrar-tus-chats-3cim)
-- [Automating My Pinterest Content Pipeline with n8n + AI &lpar;Free Setup&rpar;](https://dev.to/medpydev/automating-my-pinterest-content-pipeline-with-n8n-ai-free-setup-20nm)
-- [[Boost]](https://dev.to/oludamilola/-28lo)
-- [I Built a Tool to Parse SEC Dividend Data &lpar;And Actually Shipped It&rpar;](https://dev.to/chonito7919/i-built-a-tool-to-parse-sec-dividend-data-and-actually-shipped-it-327g)
-- [Deploying a Full-Stack App with Vercel vs Render: What You Need to Know](https://dev.to/wahee/deploying-a-full-stack-app-with-vercel-vs-render-what-you-need-to-know-3lm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
