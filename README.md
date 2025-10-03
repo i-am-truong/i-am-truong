@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_06022d8b/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-4f24)
+- [Indexing, Hashing &amp; Query Optimization](https://dev.to/sai_cf536f1c0eefb673310c5/indexing-hashing-query-optimization-1d78)
+- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/naveens_k_403279738dbcab6/indexing-hashing-query-optimization-in-sql-5886)
 - [Building My First Large Language Model from Scratch](https://dev.to/ujjwall-r/building-my-first-large-language-model-from-scratch-p48)
 - [React Hooks](https://dev.to/dinesh_g_909f4a82c67f5bbd/react-hooks-m7l)
-- [How to get and use free PVS-Studio license. Part 3: working with report and warnings](https://dev.to/pvsdev/how-to-get-and-use-free-pvs-studio-license-part-3-working-with-report-and-warnings-2345)
-- [ETL Made Easy: Integrating Multi-Source Data with AWS Glue](https://dev.to/sushanta_paudel/etl-made-easy-integrating-multi-source-data-with-aws-glue-29p1)
-- [Transactions, Deadlocks &amp; Log Based Recovery](https://dev.to/sai_cf536f1c0eefb673310c5/transactions-deadlocks-log-based-recovery-52mp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
