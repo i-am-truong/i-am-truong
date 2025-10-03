@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Transactions, Deadlocks &amp; Log-Based Recovery in MySQL](https://dev.to/atheeba_parveenja24cb0/transactions-deadlocks-log-based-recovery-in-mysql-4kfh)
-- [I Built a .gitignore Behavior Checker App with React](https://dev.to/a-k-0047/i-built-a-gitignore-behavior-checker-app-with-react-a31)
-- [My Insights from Extract Austin](https://dev.to/extractdata/my-insights-from-extract-austin-2ml1)
-- [🧮 Mastering the Math Class in Java](https://dev.to/mohamad_mhana/mastering-the-math-class-in-java-5ad4)
-- [Part-107: Kubernetes Ingress in Google Kubernetes Engine](https://dev.to/latchudevops/part-107-kubernetes-ingress-in-google-kubernetes-engine-121f)
+- [From Idea to Launch: A Step-by-Step Guide to Web Application Development](https://dev.to/johany_wick_b3151d51fdf6a/from-idea-to-launch-a-step-by-step-guide-to-web-application-development-134d)
+- [How OpenAPI Undermines a Good Developer Experience](https://dev.to/gunzip_/how-openapi-undermines-a-good-developer-experience-344m)
+- [Part-108: 🚀Kubernetes Ingress – Context Path Based Routing in Google Kubernetes Engine](https://dev.to/latchudevops/part-108-kubernetes-ingress-context-path-based-routing-in-google-kubernetes-engine-113k)
+- [Programming and Flashing MCU without any IDE](https://dev.to/cangulmez/programming-and-flashing-mcu-without-any-ide-2ho7)
+- [🚀 Introducing EmbedLite. A Drop-In, Privacy-Friendly Replacement for YouTube Embeds](https://dev.to/frenchcooc/introducing-embedlite-a-drop-in-privacy-friendly-replacement-for-youtube-embeds-jc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
