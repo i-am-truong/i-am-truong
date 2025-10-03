@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cognito user pool authorizer in API Gateway](https://dev.to/wakeup_flower_8591a6cb6a9/cognito-user-pool-authorizer-in-api-gateway-40ng)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2703)
+- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-24pn)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-157h)
 - [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3ocb)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-4op8)
-- [Zero to Production with AI Agentic Workflows – Free Hands-On Course](https://dev.to/pulumi/zero-to-production-with-ai-agentic-workflows-free-hands-on-course-21nn)
-- [First/Last per Group: PostgreSQL DISTINCT ON and MongoDB DISTINCT_SCAN Performance](https://dev.to/franckpachot/firstlast-per-group-postgresql-distinct-on-and-mongodb-distinctscan-performance-1e9d)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-1cm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
