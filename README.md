@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Indexing, Hashing &amp; Query Optimization with MySQL — Students Table Example&quot;](https://dev.to/atheeba_parveenja24cb0/indexing-hashing-query-optimization-with-mysql-students-table-example-426)
+- [OpenStack for DevOps Beginners: Hands-On with MicroStack](https://dev.to/abdulrahmanalpha/openstack-for-devops-beginners-hands-on-with-microstack-5flp)
 - [Part-105: Kubernetes Headless Service Explained &lpar;with Simple Diagram&rpar;](https://dev.to/latchudevops/part-105-kubernetes-headless-service-explained-with-simple-diagram-d5p)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2e99)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-1453)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-6mo)
-- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-40ma)
+- [How to build a data table with sorting and pagination using Alpine JS](https://dev.to/mike_andreuzza/how-to-build-a-data-table-with-sorting-and-pagination-using-alpine-js-2d11)
+- [Embracing the Future: The Pivotal Role of Virtual Classrooms in Modern Education](https://dev.to/ghummantech/embracing-the-future-the-pivotal-role-of-virtual-classrooms-in-modern-education-2heh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
