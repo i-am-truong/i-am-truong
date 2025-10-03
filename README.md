@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Session Management- Cookies, Session and JWT](https://dev.to/renam_singla_fb52a400f07e/session-management-cookies-session-and-jwt-554h)
-- [PART 3 A Helm Chart for Ephemeral Environments](https://dev.to/flopi/part-3-a-helm-chart-for-ephemeral-environments-4m4d)
-- [Optimizing Workspaces with Data: A Guide for Hybrid Offices](https://dev.to/mattricci/optimizing-workspaces-with-data-a-guide-for-hybrid-offices-55g3)
-- [The Beginning of a Journey Worth Documenting](https://dev.to/twok020101/the-beginning-of-a-journey-worth-documenting-3nk6)
-- [Credit: @bernert](https://dev.to/dumb_dev_meme_bot/credit-bernert-1fhk)
+- [Why SPM Needs a CHANGELOG &lpar;And How to Write One&rpar;](https://dev.to/arshtechpro/why-spm-needs-a-changelog-and-how-to-write-one-1eln)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-3a0f)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-244k)
+- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-3ilh)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-29g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
