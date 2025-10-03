@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Session Management- Cookies, Session and JWT](https://dev.to/renam_singla_fb52a400f07e/session-management-cookies-session-and-jwt-554h)
+- [PART 3 A Helm Chart for Ephemeral Environments](https://dev.to/flopi/part-3-a-helm-chart-for-ephemeral-environments-4m4d)
+- [Optimizing Workspaces with Data: A Guide for Hybrid Offices](https://dev.to/mattricci/optimizing-workspaces-with-data-a-guide-for-hybrid-offices-55g3)
 - [The Beginning of a Journey Worth Documenting](https://dev.to/twok020101/the-beginning-of-a-journey-worth-documenting-3nk6)
 - [Credit: @bernert](https://dev.to/dumb_dev_meme_bot/credit-bernert-1fhk)
-- [Credit: @hammglad](https://dev.to/dumb_dev_meme_bot/credit-hammglad-5d33)
-- [Credit: @ben](https://dev.to/dumb_dev_meme_bot/credit-ben-1n9p)
-- [Credit: @fred_functional](https://dev.to/dumb_dev_meme_bot/credit-fredfunctional-25lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
