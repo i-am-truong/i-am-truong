@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning Neovim into a True Unreal Engine IDE: My One-Week Dogfooding Sprint](https://dev.to/taku25/turning-neovim-into-a-true-unreal-engine-ide-my-one-week-dogfooding-sprint-5f9i)
 - [From Idea to Launch: A Step-by-Step Guide to Web Application Development](https://dev.to/johany_wick_b3151d51fdf6a/from-idea-to-launch-a-step-by-step-guide-to-web-application-development-134d)
 - [How OpenAPI Undermines a Good Developer Experience](https://dev.to/gunzip_/how-openapi-undermines-a-good-developer-experience-344m)
 - [Part-108: 🚀Kubernetes Ingress – Context Path Based Routing in Google Kubernetes Engine](https://dev.to/latchudevops/part-108-kubernetes-ingress-context-path-based-routing-in-google-kubernetes-engine-113k)
-- [Programming and Flashing MCU without any IDE](https://dev.to/cangulmez/programming-and-flashing-mcu-without-any-ide-2ho7)
-- [🚀 Introducing EmbedLite. A Drop-In, Privacy-Friendly Replacement for YouTube Embeds](https://dev.to/frenchcooc/introducing-embedlite-a-drop-in-privacy-friendly-replacement-for-youtube-embeds-jc5)
+- [WordPress Designer vs WordPress Developer: What&#39;s the Difference?](https://dev.to/faizancheema893/wordpress-designer-vs-wordpress-developer-whats-the-difference-lcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
