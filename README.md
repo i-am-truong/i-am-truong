@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The RFP Dropped. Now We Panic – Strategically](https://dev.to/bid_solution/the-rfp-dropped-now-we-panic-strategically-39mp)
-- [📰 Major Tech News: Oct 2nd, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-2nd-2025-500l)
-- [Skip Elasticsearch: Build Blazing-Fast Full-Text Search Right in Supabase](https://dev.to/reclusivecoder/skip-elasticsearch-build-blazing-fast-full-text-search-right-in-supabase-58pf)
-- [What It’s Like Moving from TD to Chase](https://dev.to/kareem_itani_e51fee03fb7a/what-its-like-moving-from-td-to-chase-559h)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_06022d8b/your-projects-a-mess-its-not-you-its-your-frameworks-fault-2bp9)
+- [Open Source Contribution](https://dev.to/winnie90734015/open-source-contribution-3pgg)
+- [Open Source Contribution](https://dev.to/winnie90734015/open-source-contribution-268c)
+- [CRUD Operations in MongoDB: Hands-On with a Student Collection](https://dev.to/pranav_aadithya_36edf63cb/crud-operations-in-mongodb-hands-on-with-a-student-collection-3d6j)
+- [10 Best Backend Development Courses Right Now &lpar;One Stands Out&rpar;](https://dev.to/stack_overflowed/10-best-backend-development-courses-right-now-one-stands-out-50o0)
+- [LAN vs WAN vs MAN | Key Network Differences Explained](https://dev.to/red9systech/lan-vs-wan-vs-man-key-network-differences-explained-4ah2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
