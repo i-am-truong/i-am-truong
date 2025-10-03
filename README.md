@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WTF is Causal Machine Learning?](https://dev.to/dailybugle33/wtf-is-causal-machine-learning-j1b)
-- [Dev Log 28 - Inventory Loot System](https://dev.to/asx/dev-log-28-inventory-loot-system-1523)
-- [Mastering Python Arrays: Step-by-Step Tutorial for Developers](https://dev.to/tpointtechblog/mastering-python-arrays-step-by-step-tutorial-for-developers-1k23)
-- [Unleashing the Power of AI: How Developers Can Transform Their Workflow](https://dev.to/mikeover/unleashing-the-power-of-ai-how-developers-can-transform-their-workflow-417o)
-- [UseContext in React JS](https://dev.to/dinesh_g_909f4a82c67f5bbd/usecontext-in-react-js-227f)
+- [My Insights from Extract Austin](https://dev.to/extractdata/my-insights-from-extract-austin-2ml1)
+- [🧮 Mastering the Math Class in Java](https://dev.to/mohamad_mhana/mastering-the-math-class-in-java-5ad4)
+- [Part-107: Kubernetes Ingress in Google Kubernetes Engine](https://dev.to/latchudevops/part-107-kubernetes-ingress-in-google-kubernetes-engine-121f)
+- [How to Set Up Recurring Payments in Your Online Business](https://dev.to/flutterwaveeng/how-to-set-up-recurring-payments-in-your-online-business-b6k)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1ln4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
