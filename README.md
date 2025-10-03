@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-2cno)
+- [🌩️ Understanding Cloud Computing: SaaS, PaaS, and IaaS](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-cloud-computing-saas-paas-and-iaas-2jnb)
+- [How the Web Works &lpar;HTTP, DNS, Domains, Hosting&rpar;](https://dev.to/thekarlesi/how-the-web-works-http-dns-domains-hosting-46bc)
+- [AI-Powered Resume &amp; Job Description Matching with RAG](https://dev.to/esdk/ai-powered-resume-job-description-matching-with-rag-4a80)
 - [Navigating AWS Neptune Graph with AI](https://dev.to/aws-builders/navigating-aws-neptune-graph-with-ai-55cm)
-- [What is React? A Beginner&#39;s Guide to the Most Popular UI Library](https://dev.to/dehemi_fabio/what-is-react-a-beginners-guide-to-the-most-popular-ui-library-3bgl)
-- [🧐 Do You Really Need Redux?](https://dev.to/mourya_modugula/do-you-really-need-redux-nig)
-- [Github Draft Pull Request is Interesting](https://dev.to/whyang9701/github-draft-pull-request-is-interesting-216d)
-- [# Tamper-Evident Ledger Systems for National Budget Transparency](https://dev.to/trinly01/-tamper-evident-ledger-systems-for-national-budget-transparency-nl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
