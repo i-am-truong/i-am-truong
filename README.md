@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧑‍💻 Apache Kafka CLI – Detailed Course](https://dev.to/nk_sk_6f24fdd730188b284bf/apache-kafka-cli-detailed-course-e6b)
+- [The power of Tanstack Query](https://dev.to/alvinlaroya/the-power-of-tanstack-query-nmm)
+- [Best Prior Art Search Tool for Invalidation in 2025](https://dev.to/patentscanai/best-prior-art-search-tool-for-invalidation-in-2025-1ofp)
 - [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-2cno)
-- [🌩️ Understanding Cloud Computing: SaaS, PaaS, and IaaS](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-cloud-computing-saas-paas-and-iaas-2jnb)
-- [How the Web Works &lpar;HTTP, DNS, Domains, Hosting&rpar;](https://dev.to/thekarlesi/how-the-web-works-http-dns-domains-hosting-46bc)
-- [AI-Powered Resume &amp; Job Description Matching with RAG](https://dev.to/esdk/ai-powered-resume-job-description-matching-with-rag-4a80)
-- [Navigating AWS Neptune Graph with AI](https://dev.to/aws-builders/navigating-aws-neptune-graph-with-ai-55cm)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_f8c307c5/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-3oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
