@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nice article to read](https://dev.to/collinzo2022/nice-article-to-read-3j3l)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_f8c307c5/security-is-not-a-feature-its-a-foundation-e6f)
-- [`formfield_for_foreignkey&lpar;&rpar;` in Django Admin: A Complete Guide](https://dev.to/atifwattoo/formfieldforforeignkey-in-django-admin-a-complete-guide-4586)
-- [Technical Debt Grows from “Just for Now” — A Real-World Code Walkthrough](https://dev.to/nyaomaru/technical-debt-grows-from-just-for-now-a-real-world-code-walkthrough-5997)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-456k)
+- [Best WP Rocket Alternatives for WordPress Performance Optimization](https://dev.to/andreialba/best-wp-rocket-alternatives-for-wordpress-performance-optimization-4cp9)
+- [Why Engineering Retention Isn&#39;t About Money &lpar;And What Our Year-Long Hiring Overhaul Taught Us&rpar;](https://dev.to/razoorka/why-engineering-retention-isnt-about-money-and-what-our-year-long-hiring-overhaul-taught-us-2298)
+- [Transactions, Deadlocks &amp; Log Based Recovery](https://dev.to/harshitha_s_c436fb6552a2a/transactions-deadlocks-log-based-recovery-28jn)
+- [Best English to Korean Document Translation Software](https://dev.to/jennamitchell/best-english-to-korean-document-translation-software-32gh)
+- [What is a Chatbot? Enterprise Use Cases and Benefits](https://dev.to/cyfutureai/what-is-a-chatbot-enterprise-use-cases-and-benefits-241)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
