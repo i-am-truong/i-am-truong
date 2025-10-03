@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Votre site charge-t-il en moins de 2 s ?](https://dev.to/jmegnidro/votre-site-charge-t-il-en-moins-de-2-s--4mdd)
+- [C# &lpar;Maybe&rpar; Joins the Motia Family: Building Multi-Language Workflows with .NET 9](https://dev.to/solutionsjon/c-maybe-joins-the-motia-family-building-multi-language-workflows-with-net-9-5h2l)
 - [Day 1248 : Open Fields](https://dev.to/dwane/day-1248-open-fields-1fl4)
 - [Automate YouTube Engagement with youtube-bot](https://dev.to/zegham_ali_87389465b32f38/automate-youtube-engagement-with-youtube-bot-2oa2)
 - [Security news weekly round-up - 3rd October 2025](https://dev.to/ziizium/security-news-weekly-round-up-3rd-october-2025-56pg)
-- [The Scope Investigation: Local, Global, and Nonlocal Variables](https://dev.to/aaron_rose_0787cc8b4775a0/the-scope-investigation-local-global-and-nonlocal-variables-3c8k)
-- [Cómo gestionar la memoria de ChatGPT sin borrar tus chats](https://dev.to/samvuc/como-gestionar-la-memoria-de-chatgpt-sin-borrar-tus-chats-3cim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
