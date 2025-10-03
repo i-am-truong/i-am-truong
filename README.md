@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-28g)
-- [How Developers Can Use the American Airlines API for Flight Data](https://dev.to/rameshchauhan/how-developers-can-use-the-american-airlines-api-for-flight-data-38ao)
-- [Flask vs. Django: Which Framework Should You Choose For Your Project?](https://dev.to/gloriasilver/flask-vs-django-which-framework-should-you-choose-for-your-project-3def)
-- [A Guide on how to run a Complete CI/CD Pipeline with Node.js, Docker, and Kubernetes.](https://dev.to/oludamilola/a-guide-on-how-to-run-a-complete-cicd-pipeline-with-nodejs-docker-and-kubernetes-2emk)
-- [CloudFront Signed URL vs Signed Cookie vs Field-Level Encryption](https://dev.to/wakeup_flower_8591a6cb6a9/cloudfront-signed-url-vs-signed-cookie-vs-field-level-encryption-12fd)
+- [Cómo gestionar la memoria de ChatGPT sin borrar tus chats](https://dev.to/samvuc/como-gestionar-la-memoria-de-chatgpt-sin-borrar-tus-chats-3cim)
+- [Automating My Pinterest Content Pipeline with n8n + AI &lpar;Free Setup&rpar;](https://dev.to/medpydev/automating-my-pinterest-content-pipeline-with-n8n-ai-free-setup-20nm)
+- [Deploying a Full-Stack App with Vercel vs Render: What You Need to Know](https://dev.to/wahee/deploying-a-full-stack-app-with-vercel-vs-render-what-you-need-to-know-3lm8)
+- [Learning Rust with Dev Containers and Rustlings](https://dev.to/florianheringa/learning-rust-with-dev-containers-and-rustlings-2g1p)
+- [Ethics &amp; AI: Why It’s Not Optional](https://dev.to/synergy_shock/ethics-ai-why-its-not-optional-1ifb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
