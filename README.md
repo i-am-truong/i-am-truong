@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Production: Building a REST API with Node.js and Express](https://dev.to/m-a-h-b-u-b/from-zero-to-production-building-a-rest-api-with-nodejs-and-express-1el6)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-55ob)
-- [Everything about Docker – Basics, MCPs, and more...](https://dev.to/shreyastaware/everything-about-docker-560i)
-- [How I Built an AI-Powered Personal Chatbot That Represents Me Professionally &lpar;And How You Can Too&rpar;](https://dev.to/rohit7890/how-i-built-an-ai-powered-personal-chatbot-that-represents-me-professionally-and-how-you-can-too-fhk)
-- [A Deep Dive Into Python Dictionaries](https://dev.to/bhavesh_kukreja/a-deep-dive-into-python-dictionaries-4758)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-4cp2)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4n5k)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-1om6)
+- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-273i)
+- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-20p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
