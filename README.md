@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best WP Rocket Alternatives for WordPress Performance Optimization](https://dev.to/andreialba/best-wp-rocket-alternatives-for-wordpress-performance-optimization-4cp9)
-- [Why Engineering Retention Isn&#39;t About Money &lpar;And What Our Year-Long Hiring Overhaul Taught Us&rpar;](https://dev.to/razoorka/why-engineering-retention-isnt-about-money-and-what-our-year-long-hiring-overhaul-taught-us-2298)
-- [Transactions, Deadlocks &amp; Log Based Recovery](https://dev.to/harshitha_s_c436fb6552a2a/transactions-deadlocks-log-based-recovery-28jn)
-- [Best English to Korean Document Translation Software](https://dev.to/jennamitchell/best-english-to-korean-document-translation-software-32gh)
-- [What is a Chatbot? Enterprise Use Cases and Benefits](https://dev.to/cyfutureai/what-is-a-chatbot-enterprise-use-cases-and-benefits-241)
+- [We made an opensource project, check it out!](https://dev.to/gunner_andersen_36e65c71e/we-made-an-opensource-project-check-it-out-3moc)
+- [Tired of Rewriting Web3 Integrations? Help us grow M3S, the New Modular Open-Source Standard](https://dev.to/gunner_andersen_36e65c71e/tired-of-rewriting-web3-integrations-help-us-grow-m3s-the-new-modular-open-source-standard-bkj)
+- [Rising AI Workloads Are Reshaping Asia Pacific Data Centers](https://dev.to/michael_keller_9d83ef0ce5/rising-ai-workloads-are-reshaping-asia-pacific-data-centers-48km)
+- [Building a simple TCP port scanner in C](https://dev.to/qms85/building-a-simple-tcp-port-scanner-in-c-3a6o)
+- [C# tips: string.IsNullOrEmpty vs string.IsNullOrWhiteSpace](https://dev.to/mariemoalla/c-tips-stringisnullorempty-vs-stringisnullorwhitespace-13ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
