@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔒 Node.js Security Best Practices](https://dev.to/rohit_singh_ee84e64941db7/nodejs-security-best-practices-84d)
-- [Hindsight at Bethpage: The Principles Keegan Looked Past](https://dev.to/ben/hindsight-at-bethpage-the-principles-keegan-usa-looked-past-j8k)
-- [Tired of AI Hallucinations? I Built a RAG App to Keep My Research Grounded.](https://dev.to/noel_alex_b235542c0cfc62a/tired-of-ai-hallucinations-i-built-a-rag-app-to-keep-my-research-grounded-40k3)
-- [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-27d6)
-- [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-46gi)
+- [Grafana &#39;no pg_hba.conf entry for host&#39; error](https://dev.to/victorcosta/grafana-no-pghbaconf-entry-for-host-error-2836)
+- [How to Stay Productive as a Digital Nomad: Real Tips for Working Anywhere](https://dev.to/nomadas/how-to-stay-productive-as-a-digital-nomad-real-tips-for-working-anywhere-4flo)
+- [Database Normalization in Livesql](https://dev.to/harshitha_s_c436fb6552a2a/database-normalization-in-livesql-42lf)
+- [Database Normalization](https://dev.to/harshitha_s_c436fb6552a2a/database-normalization-2d7o)
+- [NestJS Expert Series &lpar;Part 2&rpar;: Database Integration with Prisma &amp; TypeORM](https://dev.to/devto_with_yog/nestjs-expert-series-part-2-database-integration-with-prisma-typeorm-ica)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
