@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Filtering &lpar;Date, Month, Year, Week&rpar; and API Requests in React 19 &amp; Next.js &lpar;App Router&rpar;](https://dev.to/skipperhoa/laravel-filtering-date-month-year-week-and-api-requests-in-react-19-nextjs-app-router-5360)
-- [How AI is Changing the Future of Photo Editing](https://dev.to/hassan_3bbb2ffd268a7bcf0b/how-ai-is-changing-the-future-of-photo-editing-5bc9)
-- [What Building Open Source Fetch Tools Taught Me - And What They Make Me Wanna Forget](https://dev.to/gkoos/what-building-open-source-fetch-tools-taught-me-and-what-they-make-me-wanna-forget-1b0d)
-- [Scaling Spring Boot with Auto Scaling Group &lpar;ASG&rpar; + Elastic Load Balancer &lpar;ELB&rpar;](https://dev.to/techeazy_consulting/scaling-spring-boot-with-auto-scaling-group-asg-elastic-load-balancer-elb-1293)
-- [A Guide to Securely Exposing Ollama on Colab via Pinggy](https://dev.to/lightningdev123/a-guide-to-securely-exposing-ollama-on-colab-via-pinggy-612)
+- [I curated LeetCode problems into 90+ patterns &lpar;helped me crack 25+ coding rounds at Salesforce, Google, Microsoft, Intuit etc&rpar;](https://dev.to/swati_ahuja_1d311a643a19e/i-curated-leetcode-problems-into-90-patterns-helped-me-crack-25-coding-rounds-at-salesforce-1idj)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-5hck)
+- [One App to Replace Slack, Zoom &amp; Notion: Inside Nexy’s AI Workspace](https://dev.to/nexy/one-app-to-replace-slack-zoom-notion-inside-nexys-ai-workspace-2f7p)
+- [Sake Spritz Ingredients in Detail UK | SeltSake](https://dev.to/seltsake/sake-spritz-ingredients-in-detail-uk-seltsake-1ba)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_06022d8b/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-28ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
