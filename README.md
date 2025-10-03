@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Game-Changing Tools Reshaping Frontend Engineering 🤩](https://dev.to/martygo/game-changing-tools-reshaping-frontend-engineering-7oi)
-- [Understanding APIs: Basics, Types, and Architectures Explained Simply](https://dev.to/kpeale/understanding-apis-basics-types-and-architectures-explained-simply-38i7)
-- [Sistema de Archivos &lpar;fs&rpar; en Node.js](https://dev.to/pwalvarado/sistema-de-archivos-fs-en-nodejs-1li2)
-- [How to Implement Rust’s Result Type in Dart Programming Language.](https://dev.to/mykhailokrainik/how-to-implement-rusts-result-type-in-dart-programming-language-1100)
-- [Essential Composer CLI Commands Cheat Sheet](https://dev.to/bhaidar/essential-composer-cli-commands-cheat-sheet-4eko)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-4d8h)
+- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-mi6)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3a3l)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-54l2)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-540i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
