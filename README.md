@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nice article to read](https://dev.to/collinzo2022/nice-article-to-read-3j3l)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_f8c307c5/security-is-not-a-feature-its-a-foundation-e6f)
+- [`formfield_for_foreignkey&lpar;&rpar;` in Django Admin: A Complete Guide](https://dev.to/atifwattoo/formfieldforforeignkey-in-django-admin-a-complete-guide-4586)
+- [Technical Debt Grows from “Just for Now” — A Real-World Code Walkthrough](https://dev.to/nyaomaru/technical-debt-grows-from-just-for-now-a-real-world-code-walkthrough-5997)
 - [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-456k)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-401)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4m6i)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-42p3)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3f39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
