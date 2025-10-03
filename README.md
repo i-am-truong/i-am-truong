@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating A Lambda Function in AWS](https://dev.to/devzeuz/creating-a-lambda-function-in-aws-1di0)
-- [Leveraging MLOps for Scalable AI Deployment](https://dev.to/taniya1004/leveraging-mlops-for-scalable-ai-deployment-27kl)
-- [Green Technology: Building a Sustainable Tomorrow](https://dev.to/phoneexits/green-technology-building-a-sustainable-tomorrow-57ka)
-- [A Practical Guide to Chrome DevTools MCP in AI Agents](https://dev.to/proflead/a-practical-guide-to-chrome-devtools-mcp-in-ai-agents-hpf)
-- [A Step-by-Step Guide to Chrome DevTools MCP for AI Assistants](https://dev.to/proflead/a-step-by-step-guide-to-chrome-devtools-mcp-for-ai-assistants-337f)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-456k)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-401)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4m6i)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-42p3)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3f39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
