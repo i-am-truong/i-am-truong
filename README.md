@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-4cp2)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4n5k)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-1om6)
-- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-273i)
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-20p8)
+- [Do Código que Funciona ao Código Eficiente: Big O na Prática com C#](https://dev.to/brunompp/do-codigo-que-funciona-ao-codigo-eficiente-big-o-na-pratica-com-c-37a2)
+- [I Created an AI Assistant That Reads the Fine Print for You](https://dev.to/utkarsh_malaiya_2707/i-created-an-ai-assistant-that-reads-the-fine-print-for-you-5422)
+- [awsui：A modern Textual-powered AWS CLI TUI](https://dev.to/jasper_go/awsuia-modern-textual-powered-aws-cli-tui-5894)
+- [suggestions 🚀 ffuf Tool Explained: Finding Hidden Doors on the Web](https://dev.to/natarajan_c_k/suggestions-ffuf-tool-explained-finding-hidden-doors-on-the-web-5dmk)
+- [Revolutionizing Office Automation with WorkEase: Powered by LLMWare](https://dev.to/varshith_kumarreddymeda/revolutionizing-office-automation-with-workease-powered-by-llmware-3h70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
