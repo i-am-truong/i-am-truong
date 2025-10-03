@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React 2025 Full Course – Build a Netflix Clone with Tailwind, TanStack Router, TanStack Query &amp; Zustand](https://dev.to/shrutikapoor08/react-2025-full-course-build-a-netflix-clone-with-tailwind-tanstack-router-tanstack-query--4ehc)
-- [Implementing Zero Trust Security for Network Protection](https://dev.to/jnevins1/implementing-zero-trust-security-for-network-protection-4lce)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-mg9)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-300e)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-3g87)
+- [What It’s Like Moving from TD to Chase](https://dev.to/kareem_itani_e51fee03fb7a/what-its-like-moving-from-td-to-chase-559h)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_06022d8b/your-projects-a-mess-its-not-you-its-your-frameworks-fault-2bp9)
+- [How to Use Test Data Management Strategies for Effective Testing](https://dev.to/misterankit/how-to-use-test-data-management-strategies-for-effective-testing-778)
+- [Dynamic Feature Management with Firebase Remote Config in React](https://dev.to/debajit13/dynamic-feature-management-with-firebase-remote-config-in-react-4n49)
+- [Why Use FlatList Instead of Traditional Map in React Native?](https://dev.to/aman_hussain_shaikh/why-use-flatlist-instead-of-traditional-map-in-react-native-2k9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
