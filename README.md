@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I curated LeetCode problems into 90+ patterns &lpar;helped me crack 25+ coding rounds at Salesforce, Google, Microsoft, Intuit etc&rpar;](https://dev.to/swati_ahuja_1d311a643a19e/i-curated-leetcode-problems-into-90-patterns-helped-me-crack-25-coding-rounds-at-salesforce-1idj)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-5hck)
-- [One App to Replace Slack, Zoom &amp; Notion: Inside Nexy’s AI Workspace](https://dev.to/nexy/one-app-to-replace-slack-zoom-notion-inside-nexys-ai-workspace-2f7p)
-- [Sake Spritz Ingredients in Detail UK | SeltSake](https://dev.to/seltsake/sake-spritz-ingredients-in-detail-uk-seltsake-1ba)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_06022d8b/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-28ge)
+- [Ruby and Cybersecurity: Essential Security Practices for Modern Applications](https://dev.to/daviducolo/ruby-and-cybersecurity-essential-security-practices-for-modern-applications-4166)
+- [Animation Start/Done? Dead. Long Live CSS + DOM Events](https://dev.to/brianmtreese/animation-startdone-dead-long-live-css-dom-events-47hj)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_f8c307c5/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4oah)
+- [Master Process Management with PM2: A Complete Guide for Node.js Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/master-process-management-with-pm2-a-complete-guide-for-nodejs-developers-20l7)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-7li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
