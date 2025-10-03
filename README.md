@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-4d8h)
-- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-mi6)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3a3l)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-54l2)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-540i)
+- [Getting to Know SQL Views &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/getting-to-know-sql-views-bite-size-article-2c03)
+- [Difference Between Template Kits and Themes in WordPress](https://dev.to/faizancheema893/difference-between-template-kits-and-themes-in-wordpress-4cm6)
+- [BLoC &lpar;Business Logic Component&rpar; in Rust](https://dev.to/mykhailokrainik/bloc-business-logic-component-in-rust-12ba)
+- [Adapter Design Pattern in Rust](https://dev.to/mykhailokrainik/adapter-design-pattern-in-rust-1i4k)
+- [How to Deploy a PostgreSQL Database on AWS RDS &lpar;Step-by-Step&rpar;](https://dev.to/jimmybillz/how-to-deploy-a-postgresql-database-on-aws-rds-step-by-step-1dj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
