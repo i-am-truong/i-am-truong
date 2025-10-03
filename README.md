@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built an AI-Powered Personal Chatbot That Represents Me Professionally &lpar;And How You Can Too&rpar;](https://dev.to/rohit7890/how-i-built-an-ai-powered-personal-chatbot-that-represents-me-professionally-and-how-you-can-too-fhk)
+- [A Deep Dive Into Python Dictionaries](https://dev.to/bhavesh_kukreja/a-deep-dive-into-python-dictionaries-4758)
+- [Flag namespace in Opencode codebase.](https://dev.to/ramunarasinga-11/flag-namespace-in-opencode-codebase-4cl4)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_f8c307c5/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-32dk)
 - [YouTube Data Processing Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/youtube-data-processing-pipeline-10e0)
-- [Unreal or Unity?](https://dev.to/rusandu_dewm_galhena/unreal-or-unity-1bag)
-- [10 Frontend Principles That Work in Any Framework](https://dev.to/jsdev01/10-frontend-principles-that-work-in-any-framework-1kon)
-- [🏈⚽🏀 From Side Project to Pro Sports: Contribute to a Library Used by NBA, NFL &amp; Premier League Coaches](https://dev.to/hichamelbsi/from-side-project-to-pro-sports-contribute-to-a-library-used-by-nba-nfl-premier-league-1hna)
-- [How Artists Are Selling More Work Through Personal Websites &lpar;Not Marketplaces&rpar;](https://dev.to/kamruljpi/how-artists-are-selling-more-work-through-personal-websites-not-marketplaces-ah3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
