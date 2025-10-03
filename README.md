@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unreal or Unity?](https://dev.to/rusandu_dewm_galhena/unreal-or-unity-1bag)
+- [10 Frontend Principles That Work in Any Framework](https://dev.to/jsdev01/10-frontend-principles-that-work-in-any-framework-1kon)
+- [🏈⚽🏀 From Side Project to Pro Sports: Contribute to a Library Used by NBA, NFL &amp; Premier League Coaches](https://dev.to/hichamelbsi/from-side-project-to-pro-sports-contribute-to-a-library-used-by-nba-nfl-premier-league-1hna)
+- [How Artists Are Selling More Work Through Personal Websites &lpar;Not Marketplaces&rpar;](https://dev.to/kamruljpi/how-artists-are-selling-more-work-through-personal-websites-not-marketplaces-ah3)
 - [Text Cleaning in Python](https://dev.to/nazanin_ashrafi/text-cleaning-in-python-3ogf)
-- [Quest about Suspense](https://dev.to/rajib18197/quest-about-suspense-41n7)
-- [ACID Properties with SQL Transactions in DBMS](https://dev.to/sugesh_appu_54958a343aaf5/acid-properties-with-sql-transactions-in-dbms-4lpa)
-- [What Exactly Is Product Management? A Simple Guide for Everyone](https://dev.to/azirotechnologies/what-exactly-is-product-management-a-simple-guide-for-everyone-3mn4)
-- [git init ~/repos/cathedral](https://dev.to/bwfiq/git-init-reposcathedral-4efe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
