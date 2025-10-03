@@ -81,9 +81,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [50 Most Useful React Snippets](https://dev.to/jsdev01/50-most-useful-react-snippets-20oc)
 - [Why HTML Comments Are More Important Than You Think](https://dev.to/ernesto_malave_285068a60e/why-html-comments-are-more-important-than-you-think-5do6)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_f8c307c5/beyond-env-a-grown-ups-guide-to-application-configuration-2gpj)
 - [How I Made My First Successful Hacktoberfest Pull Request](https://dev.to/elsad_humbetli_0971c995ce/how-i-made-my-first-successful-hacktoberfest-pull-request-50a2)
 - [Supabase config in your Expo project - the proper way](https://dev.to/cathylai/supabase-config-in-your-expo-project-the-proper-way-kp0)
+- [Adding a New TOML Feature, using Git Remotes and Merges on a repository.](https://dev.to/cynthia_f/adding-a-new-toml-feature-using-git-remotes-and-merges-on-a-repository-2mjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
