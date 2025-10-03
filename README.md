@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Transactions, Deadlocks &amp; Log-Based Recovery in MySQL](https://dev.to/atheeba_parveenja24cb0/transactions-deadlocks-log-based-recovery-in-mysql-4kfh)
+- [I Built a .gitignore Behavior Checker App with React](https://dev.to/a-k-0047/i-built-a-gitignore-behavior-checker-app-with-react-a31)
 - [My Insights from Extract Austin](https://dev.to/extractdata/my-insights-from-extract-austin-2ml1)
 - [🧮 Mastering the Math Class in Java](https://dev.to/mohamad_mhana/mastering-the-math-class-in-java-5ad4)
 - [Part-107: Kubernetes Ingress in Google Kubernetes Engine](https://dev.to/latchudevops/part-107-kubernetes-ingress-in-google-kubernetes-engine-121f)
-- [How to Set Up Recurring Payments in Your Online Business](https://dev.to/flutterwaveeng/how-to-set-up-recurring-payments-in-your-online-business-b6k)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1ln4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
