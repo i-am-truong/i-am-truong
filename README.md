@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Do Código que Funciona ao Código Eficiente: Big O na Prática com C#](https://dev.to/brunompp/do-codigo-que-funciona-ao-codigo-eficiente-big-o-na-pratica-com-c-37a2)
-- [I Created an AI Assistant That Reads the Fine Print for You](https://dev.to/utkarsh_malaiya_2707/i-created-an-ai-assistant-that-reads-the-fine-print-for-you-5422)
-- [awsui：A modern Textual-powered AWS CLI TUI](https://dev.to/jasper_go/awsuia-modern-textual-powered-aws-cli-tui-5894)
-- [suggestions 🚀 ffuf Tool Explained: Finding Hidden Doors on the Web](https://dev.to/natarajan_c_k/suggestions-ffuf-tool-explained-finding-hidden-doors-on-the-web-5dmk)
-- [Revolutionizing Office Automation with WorkEase: Powered by LLMWare](https://dev.to/varshith_kumarreddymeda/revolutionizing-office-automation-with-workease-powered-by-llmware-3h70)
+- [Hindsight at Bethpage: The Principles Keegan Looked Past](https://dev.to/ben/hindsight-at-bethpage-the-principles-keegan-usa-looked-past-j8k)
+- [Tired of AI Hallucinations? I Built a RAG App to Keep My Research Grounded.](https://dev.to/noel_alex_b235542c0cfc62a/tired-of-ai-hallucinations-i-built-a-rag-app-to-keep-my-research-grounded-40k3)
+- [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-27d6)
+- [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-46gi)
+- [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-340c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
