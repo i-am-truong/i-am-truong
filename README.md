@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting to Know SQL Views &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/getting-to-know-sql-views-bite-size-article-2c03)
-- [Difference Between Template Kits and Themes in WordPress](https://dev.to/faizancheema893/difference-between-template-kits-and-themes-in-wordpress-4cm6)
-- [BLoC &lpar;Business Logic Component&rpar; in Rust](https://dev.to/mykhailokrainik/bloc-business-logic-component-in-rust-12ba)
-- [Adapter Design Pattern in Rust](https://dev.to/mykhailokrainik/adapter-design-pattern-in-rust-1i4k)
-- [How to Deploy a PostgreSQL Database on AWS RDS &lpar;Step-by-Step&rpar;](https://dev.to/jimmybillz/how-to-deploy-a-postgresql-database-on-aws-rds-step-by-step-1dj6)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-28g)
+- [How Developers Can Use the American Airlines API for Flight Data](https://dev.to/rameshchauhan/how-developers-can-use-the-american-airlines-api-for-flight-data-38ao)
+- [Flask vs. Django: Which Framework Should You Choose For Your Project?](https://dev.to/gloriasilver/flask-vs-django-which-framework-should-you-choose-for-your-project-3def)
+- [A Guide on how to run a Complete CI/CD Pipeline with Node.js, Docker, and Kubernetes.](https://dev.to/oludamilola/a-guide-on-how-to-run-a-complete-cicd-pipeline-with-nodejs-docker-and-kubernetes-2emk)
+- [CloudFront Signed URL vs Signed Cookie vs Field-Level Encryption](https://dev.to/wakeup_flower_8591a6cb6a9/cloudfront-signed-url-vs-signed-cookie-vs-field-level-encryption-12fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
