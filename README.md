@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why an API Weather Key Matters for Reliable Weather Data](https://dev.to/rameshchauhan/why-an-api-weather-key-matters-for-reliable-weather-data-2od)
+- [Sistema de Archivos &lpar;fs&rpar; en Node.js](https://dev.to/pwalvarado/sistema-de-archivos-fs-en-nodejs-1li2)
+- [How to Implement Rust’s Result Type in Dart Programming Language.](https://dev.to/mykhailokrainik/how-to-implement-rusts-result-type-in-dart-programming-language-1100)
+- [Essential Composer CLI Commands Cheat Sheet](https://dev.to/bhaidar/essential-composer-cli-commands-cheat-sheet-4eko)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_f8c307c5/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-3jdc)
 - [Is Excel still relevant in the era of Power Bi and Python?](https://dev.to/kepha_gitau/is-excel-still-relevant-in-the-era-of-power-bi-and-python-7kp)
-- [IDENTITY PROVIDERS](https://dev.to/ntsezenelvis/identity-providers-18ka)
-- [Should a web development beginner focus on building a complete project or learn individual technologies?](https://dev.to/hxccoder/should-a-web-development-beginner-focus-on-building-a-complete-project-or-learn-individual-3bd5)
-- [cPanel in 2025 — Still the King of Hosting, or Time to Move On?](https://dev.to/hugovalters/cpanel-in-2025-still-the-king-of-hosting-or-time-to-move-on-3j1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
