@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This was one of several recent performance improvements. Under the hood, we did some interesting memory-first caching as well.](https://dev.to/ben/this-was-one-of-several-recent-performance-improvements-under-the-hood-we-did-some-interesting-1o49)
-- [Generate Docs with Amp Code](https://dev.to/srujana_maddula_0d5657ea2/generate-docs-with-amp-code-4im6)
-- [Preloading the DEV &lpar;and Forem&rpar; home feed and sidebar for substantial performance benefits](https://dev.to/devteam/preloading-the-dev-and-forem-home-feed-and-sidebar-for-substantial-performance-benefits-2cg8)
-- [Planning a conference? Check this list!](https://dev.to/dzienisz/planning-a-conference-check-this-list-358b)
-- [Persisting data in Rust with Heave](https://dev.to/kate_korsaro/persisting-data-in-rust-with-heave-3h3d)
+- [Running Effect-TS in Cloudflare Workers Without the Pain](https://dev.to/mmmoli/running-effect-ts-in-cloudflare-workers-without-the-pain-40a0)
+- [Your Roadmap to Becoming a Frontend Developer in 2025](https://dev.to/hashbyt/your-roadmap-to-becoming-a-frontend-developer-in-2025-kdl)
+- [TAURI vs. Electron &lpar;WTH???&rpar;](https://dev.to/marco5dev/tauri-vs-electron-wth-1000)
+- [Hacktoberfest Beginner-Friendly Repositories: Find and Contribute to Open Source Projects](https://dev.to/avinash201199/hacktoberfest-beginner-friendly-repositories-find-and-contribute-to-open-source-projects-1p03)
+- [I think we&#39;re definitely going to want to support inline markdown syntax like backticks for code snippets etc.
+
+But we *don&#39;t* want to *fully* support markdown as we have full posts for rich content. But doing all this in a non-confusing way is key.](https://dev.to/ben/i-think-were-definitely-going-to-want-to-support-inline-markdown-syntax-like-backticks-for-code-3dj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
