@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Normalization in DBMS with SQL Examples &lpar;1NF 2NF 3NF&rpar;](https://dev.to/deepana_ee9087276132ad19f/normalization-in-dbms-with-sql-examples-1nf-2nf-3nf-3o6g)
-- [The Trust-First Engineering Playbook: How to Ship Software People Actually Believe](https://dev.to/sonia_bobrik_1939cdddd79d/the-trust-first-engineering-playbook-how-to-ship-software-people-actually-believe-3g0k)
-- [When AI Moved Into My Editor: Faster… and Weirdly Slower](https://dev.to/treagod/when-ai-moved-into-my-editor-faster-and-weirdly-slower-f89)
-- [Which Crypto API is the Best? Complete 2025 Comparison Guide for Developers and Traders](https://dev.to/saira_zeeshan_35fc05971fd/which-crypto-api-is-the-best-complete-2025-comparison-guide-for-developers-and-traders-2jff)
-- [How I Built a MongoDB Archiving System for Crawled Data](https://dev.to/pradippanjiyar/how-i-built-a-mongodb-archiving-system-for-crawled-data-30o7)
+- [From Dream Project to Portfolio Piece: How My &#39;Failed&#39; Game Became My Biggest Asset](https://dev.to/yousef0m/from-dream-project-to-portfolio-piece-how-my-failed-game-became-my-biggest-asset-1hpe)
+- [Where can I download a Markdown document editor for free?](https://dev.to/shruti_mishra_c510cc7d673/where-can-i-download-a-markdown-document-editor-for-free-2mdf)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2faf)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-3h4o)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-h5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
