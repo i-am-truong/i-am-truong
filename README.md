@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Security Tools Find Critical curl Vulnerabilities](https://dev.to/klement_gunndu_e16216829c/ai-security-tools-find-critical-curl-vulnerabilities-4mhe)
-- [How a Scope Management Plan Ensures Project Success](https://dev.to/writegenic/how-a-scope-management-plan-ensures-project-success-l5k)
-- [Moloch the judger of social credit](https://dev.to/leon_lin_s/moloch-the-judger-of-social-credit-2ioe)
-- [Game Dev Digest — Issue #300 - PSA, VFX, Analysis, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-300-psa-vfx-analysis-and-more-29h7)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-35mm)
+- [Text Cleaning in Python](https://dev.to/nazanin_ashrafi/text-cleaning-in-python-3ogf)
+- [Quest about Suspense](https://dev.to/rajib18197/quest-about-suspense-41n7)
+- [ACID Properties with SQL Transactions in DBMS](https://dev.to/sugesh_appu_54958a343aaf5/acid-properties-with-sql-transactions-in-dbms-4lpa)
+- [What Exactly Is Product Management? A Simple Guide for Everyone](https://dev.to/azirotechnologies/what-exactly-is-product-management-a-simple-guide-for-everyone-3mn4)
+- [git init ~/repos/cathedral](https://dev.to/bwfiq/git-init-reposcathedral-4efe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
