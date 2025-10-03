@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔒 Node.js Security Best Practices](https://dev.to/rohit_singh_ee84e64941db7/nodejs-security-best-practices-84d)
 - [Hindsight at Bethpage: The Principles Keegan Looked Past](https://dev.to/ben/hindsight-at-bethpage-the-principles-keegan-usa-looked-past-j8k)
 - [Tired of AI Hallucinations? I Built a RAG App to Keep My Research Grounded.](https://dev.to/noel_alex_b235542c0cfc62a/tired-of-ai-hallucinations-i-built-a-rag-app-to-keep-my-research-grounded-40k3)
 - [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-27d6)
 - [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-46gi)
-- [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-340c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
