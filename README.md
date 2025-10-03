@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [C# Developer làm gì khi làm việc với PLC đã lập trình sẵn?](https://dev.to/kimhieuwork/c-developer-lam-gi-khi-lam-viec-voi-plc-da-lap-trinh-san-42m8)
-- [Chat with My Digital Twin: How I Built a Personal Website With a Local AI Chatbot!](https://dev.to/aws-builders/chat-with-my-digital-twin-how-i-built-a-personal-website-with-a-local-ai-chatbot-55m2)
-- [Why I Still Choose C# &lpar;Even After Trying Everything Else&rpar;](https://dev.to/csharp-programming/why-i-still-choose-c-even-after-trying-everything-else-4o53)
-- [Setting Up an Express TypeScript Server: A Step-by-Step Guide](https://dev.to/justwonder/setting-up-an-express-typescript-server-a-step-by-step-guide-gic)
-- [Is Excel Still Relevant in the Era of Power BI and Python? &lpar;Spoiler: It&#39;s Complicated&rpar;](https://dev.to/mercy_muema/is-excel-still-relevant-in-the-era-of-power-bi-and-python-spoiler-its-complicated-3im0)
+- [Krypto-Onboarding für Entwickler: Warum UX wichtiger ist als der Preis](https://dev.to/piwa_lin_8b3155c3dd85f0f9/krypto-onboarding-fur-entwickler-warum-ux-wichtiger-ist-als-der-preis-3b33)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1if8)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-5b68)
+- [COLORS: Jon Batiste - LEAN ON MY LOVE | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-lean-on-my-love-a-colors-show-3462)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-hi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
