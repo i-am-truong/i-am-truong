@@ -81,9 +81,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Cómo gestionar la memoria de ChatGPT sin borrar tus chats](https://dev.to/samvuc/como-gestionar-la-memoria-de-chatgpt-sin-borrar-tus-chats-3cim)
 - [Automating My Pinterest Content Pipeline with n8n + AI &lpar;Free Setup&rpar;](https://dev.to/medpydev/automating-my-pinterest-content-pipeline-with-n8n-ai-free-setup-20nm)
+- [[Boost]](https://dev.to/oludamilola/-28lo)
+- [I Built a Tool to Parse SEC Dividend Data &lpar;And Actually Shipped It&rpar;](https://dev.to/chonito7919/i-built-a-tool-to-parse-sec-dividend-data-and-actually-shipped-it-327g)
 - [Deploying a Full-Stack App with Vercel vs Render: What You Need to Know](https://dev.to/wahee/deploying-a-full-stack-app-with-vercel-vs-render-what-you-need-to-know-3lm8)
-- [Learning Rust with Dev Containers and Rustlings](https://dev.to/florianheringa/learning-rust-with-dev-containers-and-rustlings-2g1p)
-- [Ethics &amp; AI: Why It’s Not Optional](https://dev.to/synergy_shock/ethics-ai-why-its-not-optional-1ifb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
