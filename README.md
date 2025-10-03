@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Votre site charge-t-il en moins de 2 s ?](https://dev.to/jmegnidro/votre-site-charge-t-il-en-moins-de-2-s--4mdd)
-- [C# &lpar;Maybe&rpar; Joins the Motia Family: Building Multi-Language Workflows with .NET 9](https://dev.to/solutionsjon/c-maybe-joins-the-motia-family-building-multi-language-workflows-with-net-9-5h2l)
-- [Day 1248 : Open Fields](https://dev.to/dwane/day-1248-open-fields-1fl4)
-- [Automate YouTube Engagement with youtube-bot](https://dev.to/zegham_ali_87389465b32f38/automate-youtube-engagement-with-youtube-bot-2oa2)
-- [Security news weekly round-up - 3rd October 2025](https://dev.to/ziizium/security-news-weekly-round-up-3rd-october-2025-56pg)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3ocb)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-4op8)
+- [Zero to Production with AI Agentic Workflows – Free Hands-On Course](https://dev.to/pulumi/zero-to-production-with-ai-agentic-workflows-free-hands-on-course-21nn)
+- [First/Last per Group: PostgreSQL DISTINCT ON and MongoDB DISTINCT_SCAN Performance](https://dev.to/franckpachot/firstlast-per-group-postgresql-distinct-on-and-mongodb-distinctscan-performance-1e9d)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-1cm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
