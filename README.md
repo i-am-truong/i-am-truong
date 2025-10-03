@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Normalization in DBMS with SQL Examples &lpar;1NF 2NF 3NF&rpar;](https://dev.to/deepana_ee9087276132ad19f/normalization-in-dbms-with-sql-examples-1nf-2nf-3nf-3o6g)
+- [The Trust-First Engineering Playbook: How to Ship Software People Actually Believe](https://dev.to/sonia_bobrik_1939cdddd79d/the-trust-first-engineering-playbook-how-to-ship-software-people-actually-believe-3g0k)
 - [When AI Moved Into My Editor: Faster… and Weirdly Slower](https://dev.to/treagod/when-ai-moved-into-my-editor-faster-and-weirdly-slower-f89)
 - [Which Crypto API is the Best? Complete 2025 Comparison Guide for Developers and Traders](https://dev.to/saira_zeeshan_35fc05971fd/which-crypto-api-is-the-best-complete-2025-comparison-guide-for-developers-and-traders-2jff)
 - [How I Built a MongoDB Archiving System for Crawled Data](https://dev.to/pradippanjiyar/how-i-built-a-mongodb-archiving-system-for-crawled-data-30o7)
-- [Mounting an EBS Volume on EC2](https://dev.to/ritesh355/mounting-an-ebs-volume-on-ec2-45n5)
-- [Stop Chasing Keywords. Start Engineering Authority: A B2B Dev&#39;s Guide to SEO.](https://dev.to/michaelaiglobal/stop-chasing-keywords-start-engineering-authority-a-b2b-devs-guide-to-seo-2b31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
