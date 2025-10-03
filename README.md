@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Game-Changing Tools Reshaping Frontend Engineering 🤩](https://dev.to/martygo/game-changing-tools-reshaping-frontend-engineering-7oi)
+- [Understanding APIs: Basics, Types, and Architectures Explained Simply](https://dev.to/kpeale/understanding-apis-basics-types-and-architectures-explained-simply-38i7)
 - [Sistema de Archivos &lpar;fs&rpar; en Node.js](https://dev.to/pwalvarado/sistema-de-archivos-fs-en-nodejs-1li2)
 - [How to Implement Rust’s Result Type in Dart Programming Language.](https://dev.to/mykhailokrainik/how-to-implement-rusts-result-type-in-dart-programming-language-1100)
 - [Essential Composer CLI Commands Cheat Sheet](https://dev.to/bhaidar/essential-composer-cli-commands-cheat-sheet-4eko)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_f8c307c5/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-3jdc)
-- [Is Excel still relevant in the era of Power Bi and Python?](https://dev.to/kepha_gitau/is-excel-still-relevant-in-the-era-of-power-bi-and-python-7kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
