@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#DAY 8 &amp; 9: Cross-Platform Monitoring - Adding a Windows Host](https://dev.to/samueladeduntan/day-8-9-cross-platform-monitoring-adding-a-windows-host-ojc)
-- [Understanding Hadoop Architecture in Big Data](https://dev.to/bharathprasad/understanding-hadoop-architecture-in-big-data-42g9)
-- [It&#39;s not too late to improve how you handle npm dependencies](https://dev.to/urbanisierung/how-to-measure-the-impact-of-ai-in-engineering-5d4a)
-- [Transactions, Deadlocks &amp; Log Based Recovery in SQL](https://dev.to/naveens_k_403279738dbcab6/transactions-deadlocks-log-based-recovery-in-sql-5cdj)
-- [Open Source Contribution](https://dev.to/winnie90734015/open-source-contribution-3pgg)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-564j)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-pk9)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-18h6)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-4cm0)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-5c8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
