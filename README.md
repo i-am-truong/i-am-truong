@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get and use free PVS-Studio license. Part 3: working with report and warnings](https://dev.to/pvsdev/how-to-get-and-use-free-pvs-studio-license-part-3-working-with-report-and-warnings-2345)
 - [ETL Made Easy: Integrating Multi-Source Data with AWS Glue](https://dev.to/sushanta_paudel/etl-made-easy-integrating-multi-source-data-with-aws-glue-29p1)
+- [Transactions, Deadlocks &amp; Log Based Recovery](https://dev.to/sai_cf536f1c0eefb673310c5/transactions-deadlocks-log-based-recovery-52mp)
+- [Deploying My First NGINX Web Server on AWS EC2: A Beginner-Friendly Walkthrough](https://dev.to/odinkemelu_innocent_3b2f5/deploying-my-first-nginx-web-server-on-aws-ec2-a-beginner-friendly-walkthrough-2dg0)
 - [How do you get your dev team to shift left by themselves for real?](https://dev.to/owasp/how-do-you-get-your-dev-team-to-shift-left-by-themselves-for-real-3eap)
-- [Building and Growing PS Handyman Singapore: Challenges, Insights, and Future Goals](https://dev.to/trustedhandymanx/building-and-growing-ps-handyman-singapore-challenges-insights-and-future-goals-23ib)
-- [DevOps Tools Landscape &lpar;GitLab, CircleCI, etc.&rpar;](https://dev.to/godofgeeks/devops-tools-landscape-gitlab-circleci-etc-398c)
-- [The Technical Genius Behind PBJ The Musical Apple Award Win](https://dev.to/lobyloyloy/the-technical-genius-behind-pbj-the-musical-apple-award-win-40lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
