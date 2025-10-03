@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using A/B Testing to Build Better Buyer Personas](https://dev.to/dipti_moryani_185c244d578/using-ab-testing-to-build-better-buyer-personas-4ooa)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-246i)
-- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-3m79)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-324o)
-- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-40dd)
+- [AI Security Tools Find Critical curl Vulnerabilities](https://dev.to/klement_gunndu_e16216829c/ai-security-tools-find-critical-curl-vulnerabilities-4mhe)
+- [How a Scope Management Plan Ensures Project Success](https://dev.to/writegenic/how-a-scope-management-plan-ensures-project-success-l5k)
+- [Moloch the judger of social credit](https://dev.to/leon_lin_s/moloch-the-judger-of-social-credit-2ioe)
+- [Game Dev Digest — Issue #300 - PSA, VFX, Analysis, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-300-psa-vfx-analysis-and-more-29h7)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-35mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
