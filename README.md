@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trust-by-Design: A Practical Playbook for Shipping AI Features Without Burning Your Users](https://dev.to/sonia_bobrik_1939cdddd79d/trust-by-design-a-practical-playbook-for-shipping-ai-features-without-burning-your-users-57c5)
+- [11. Container With Most Water](https://dev.to/mdarifulhaque/11-container-with-most-water-10kn)
 - [Transactions,Deadlocks and Log Based Recovery](https://dev.to/sanchayaa_s24cb052_9f4dd/transactionsdeadlocks-and-log-based-recovery-32i1)
 - [AWS Certified Machine Learning Engineer Core Concepts](https://dev.to/aws-heroes/aws-certified-machine-learning-engineer-core-concepts-5ekg)
 - [Python. Project Structure &lpar;III&rpar;](https://dev.to/elferrer/python-project-structure-iii-4gib)
-- [Introduction to Playwright.](https://dev.to/nelson_orina_a538ba52e9ed/introduction-to-playwright-10b8)
-- [WedidIT.in : Voices of a better tomorrow.](https://dev.to/rohit_roy_e5a8ce9a2579faf/wediditin-voices-of-a-better-tomorrow-2l6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
