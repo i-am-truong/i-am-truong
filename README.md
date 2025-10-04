@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Machines Learn: Understanding the Core Concepts of Neural Networks](https://dev.to/programmerraja/how-machines-learn-understanding-the-core-concepts-of-neural-networks-3a9j)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-4bih)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2laj)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-263m)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-23ec)
+- [Understanding ACID Properties in SQL Transactions: A Step-by-Step Guide](https://dev.to/thushitha_tk_ffd2acfb6067/understanding-acid-properties-in-sql-transactions-a-step-by-step-guide-4djj)
+- [WTF is OpenTelemetry?](https://dev.to/dailybugle33/wtf-is-opentelemetry-4cb6)
+- [Story of AWS Storage - Understanding by asking and answering!](https://dev.to/sumbul_naqvi/story-of-aws-storage-understanding-by-asking-and-answering-1jm7)
+- [SQL Cursor and Trigger Implementation](https://dev.to/sashmitha_g24cb054_f8624/sql-cursor-and-trigger-implementation-49a7)
+- [🚀 Deploying a Full-Stack App &lpar;Next.js + Express + MongoDB&rpar; on a Single AWS EC2 Instance](https://dev.to/kuldeepg3/deploying-a-full-stack-app-nextjs-express-mongodb-on-a-single-aws-ec2-instance-5ec1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
