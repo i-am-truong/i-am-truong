@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dinner Plans &amp; Distributed Systems : A Fun Guide to Consensus](https://dev.to/sumana10/dinner-plans-distributed-systems-a-fun-guide-to-consensus-3694)
-- [Day 4 of 30 Days of Solidity Challenge: Build a Basic Auction Smart Contract](https://dev.to/sauravkumar8178/day-4-of-30-days-of-solidity-challenge-build-a-basic-auction-smart-contract-1kdp)
-- [Database Fundamentals](https://dev.to/gilbert_korir/database-fundamentals-4m0j)
-- [I Tested Claude 4.5 Against GPT-4 for 48 Hours. Here&#39;s What Nobody&#39;s Telling You.](https://dev.to/klement_gunndu_e16216829c/i-tested-claude-45-against-gpt-4-for-48-hours-heres-what-nobodys-telling-you-ldm)
-- [wyr: Typesafe Dependency Injection for TypeScript &lpar;and why I built it&rpar;](https://dev.to/caeus/wyr-typesafe-dependency-injection-for-typescript-and-why-i-built-it-45kh)
+- [💬 The Art of Writing Comments: How to Talk to the Future You &lpar;and Everyone Else&rpar;](https://dev.to/charan_gutti_cf60c6185074/the-art-of-writing-comments-how-to-talk-to-the-future-you-and-everyone-else-2hi)
+- [🚀 Build a Sleek, Real-Time Dashboard in WPF using Data Binding and ItemsControl &lpar;C# .NET&rpar;](https://dev.to/vectoart_a497c516fac199bd/build-a-sleek-real-time-dashboard-in-wpf-using-data-binding-and-itemscontrol-c-net-3ddm)
+- [Why Automation Testing Fails Without the Right QA Mindset](https://dev.to/mahadi_uptech/why-automation-testing-fails-without-the-right-qa-mindset-3jpi)
+- [Flashcard Application Idea &lpar;Post 0&rpar;](https://dev.to/michael-stucki/flashcard-application-idea-post-0-479a)
+- [Full-Stack 3-Tier Web Application Deployment on AWS](https://dev.to/devmastermind/full-stack-3-tier-web-application-deployment-on-aws-5bih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
