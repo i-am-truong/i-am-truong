@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create a new crud project](https://dev.to/sak_up_37a199dee68e412c0c/create-a-new-crud-project-b4j)
-- [Respect Content Negotiation to serve Markdown instead of HTML to LLMs](https://dev.to/skeptrune/respect-content-negotiation-to-serve-markdown-instead-of-html-to-llms-2ldn)
-- [Building Smarter Apps: Why Developers Should Embrace AI APIs in 2025](https://dev.to/keya_khatun_b0884129bc101/building-smarter-apps-why-developers-should-embrace-ai-apis-in-2025-2kbk)
-- [Cursor +Trigger](https://dev.to/deepak_kumarb24cb007_7e/cursor-trigger-2f6c)
-- [SQL Cursors and Triggers](https://dev.to/ilakkiya_99033c7a7246d48b/sql-cursors-and-triggers-30f0)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2h65)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5bnj)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-dg1)
+- [The Game Theorists: Game Theory: FINALLY Reacting To Your FNAF Theories](https://dev.to/gg_news/the-game-theorists-game-theory-finally-reacting-to-your-fnaf-theories-21e1)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-3lhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
