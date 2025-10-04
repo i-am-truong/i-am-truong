@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Week 10 Build Log: Code Tracker AI Progress](https://dev.to/monahidalgo/week-10-build-log-code-tracker-ai-progress-1cno)
+- [How to Build a Modular AI Agent with LangGraph in NestJS &amp; TypeScript](https://dev.to/d_akhil_kumar/how-to-build-a-modular-ai-agent-with-langgraph-in-nestjs-typescript-3m9f)
 - [Understanding Authentication That Actually Makes Sense](https://dev.to/sakshamverma_08_cc20bb7de/understanding-authentication-that-actually-makes-sense-2be1)
 - [Building Real-Time Data Pipelines from PostgreSQL Using Flink CDC](https://dev.to/lakshminarayan_r_6f07f9c0/building-real-time-data-pipelines-from-postgresql-using-flink-cdc-1m56)
 - [Transforma tu flujo de trabajo de YouTube con subidas impulsadas por IA](https://dev.to/ahmed_hisham_8f0ea5e51cd8/transforma-tu-flujo-de-trabajo-de-youtube-con-subidas-impulsadas-por-ia-1ihi)
-- [YouTube Smart AI Uploader: Automating Content Publishing with AI](https://dev.to/ahmed_hisham_8f0ea5e51cd8/youtube-smart-ai-uploader-automating-content-publishing-with-ai-54l7)
-- [S3 Bucket policy encryption key enforcement](https://dev.to/wakeup_flower_8591a6cb6a9/s3-bucket-policy-encryption-key-enforcement-1758)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
