@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQL Indexing, Hashing &amp; Query Optimization with a Students Table](https://dev.to/sashmitha_g24cb054_f8624/sql-indexing-hashing-query-optimization-with-a-students-table-30a0)
-- [Decorator Design Pattern: Adding Flexibility Without Changing Code!](https://dev.to/priyankbhardwaj1199/decorator-design-pattern-adding-flexibility-without-changing-code-3c87)
-- [WHMCS in 2025 — The Ultimate Automation Tool for Hosting Businesses](https://dev.to/hugovalters/whmcs-in-2025-the-ultimate-automation-tool-for-hosting-businesses-2kbc)
-- [TRIGGER AND CURSORS IN DBMS](https://dev.to/diksha_p24cb010_53ab7ba6/trigger-and-cursors-in-dbms-33cn)
-- [How We Built an AI Mock Interview System in 30 Days](https://dev.to/karmsakha/how-we-built-an-ai-mock-interview-system-in-30-days-2geh)
+- [IGN: Mexican Ninja - Official Demo Launch Teaser Trailer](https://dev.to/gg_news/ign-mexican-ninja-official-demo-launch-teaser-trailer-14ga)
+- [IGN: Kaiju No. 8 The Game - Official Soshiro Hoshina Character Trailer](https://dev.to/gg_news/ign-kaiju-no-8-the-game-official-soshiro-hoshina-character-trailer-3f0n)
+- [IGN: R.L. Stine&#39;s Pumpkinhead - Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-rl-stines-pumpkinhead-official-trailer-2025-77a)
+- [IGN: Liminal Point - Official Gameplay Trailer](https://dev.to/gg_news/ign-liminal-point-official-gameplay-trailer-1pmo)
+- [IGN: What Pokemon Reveals About Peacemaker&#39;s Earth-X - IGN Daily Fix](https://dev.to/gg_news/ign-what-pokemon-reveals-about-peacemakers-earth-x-ign-daily-fix-1khh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
