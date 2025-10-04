@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a multi-tenant PaaS application: Part 1 &lpar;Architecture &amp; Initial Design&rpar;](https://dev.to/ahnafzamil/building-a-multi-tenant-paas-application-part-1-architecture-initial-design-4d49)
+- [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
+- [🚀 JavaScript Optional Chaining &lpar;`?.`&rpar; – A Beginner’s Note](https://dev.to/usama_dev/javascript-optional-chaining-a-beginners-note-1o30)
+- [&quot;AI makes it cheaper, right?&quot; - Is this happening in your country too?](https://dev.to/_768dd7ab130016ab8b0a/ai-makes-it-cheaper-right-is-this-happening-in-your-country-too-4lgk)
 - [Configuring Multi-Language Website SEO with Hugo](https://dev.to/rosgluk/configuring-multi-language-website-seo-with-hugo-50ae)
-- [launch.json solved](https://dev.to/ziad_z3tar/launchjson-solved-2pdm)
-- [Make Your GoHighLevel Pages Feel Premium with Smooth Scrolling](https://dev.to/samee-ullah/make-your-gohighlevel-pages-feel-premium-with-smooth-scrolling-3k66)
-- [Hands-On MongoDB CRUD Operations with a College Student Schema](https://dev.to/sashmitha_g24cb054_f8624/hands-on-mongodb-crud-operations-with-a-college-student-schema-3onj)
-- [💾Database Reliability Explained: Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/thushitha_tk_ffd2acfb6067/database-reliability-explained-transactions-deadlocks-log-based-recovery-3kle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
