@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Indexing, Hashing &amp; Query Optimization with a Students Table](https://dev.to/sashmitha_g24cb054_f8624/sql-indexing-hashing-query-optimization-with-a-students-table-30a0)
+- [Decorator Design Pattern: Adding Flexibility Without Changing Code!](https://dev.to/priyankbhardwaj1199/decorator-design-pattern-adding-flexibility-without-changing-code-3c87)
+- [WHMCS in 2025 — The Ultimate Automation Tool for Hosting Businesses](https://dev.to/hugovalters/whmcs-in-2025-the-ultimate-automation-tool-for-hosting-businesses-2kbc)
 - [TRIGGER AND CURSORS IN DBMS](https://dev.to/diksha_p24cb010_53ab7ba6/trigger-and-cursors-in-dbms-33cn)
 - [How We Built an AI Mock Interview System in 30 Days](https://dev.to/karmsakha/how-we-built-an-ai-mock-interview-system-in-30-days-2geh)
-- [React’s Leaner Twin? A Deep Dive into Preact](https://dev.to/nandan-parmar/reacts-leaner-twin-a-deep-dive-into-preact-4ilf)
-- [Let&#39;s &lpar;try to *&rpar; understand AI first.](https://dev.to/konfydev/lets-try-to-understand-ai-first-4kk9)
-- [Augmented Reality &lpar;AR&rpar;: Blending the Digital and Real Worlds](https://dev.to/rapidcellphone/augmented-reality-ar-blending-the-digital-and-real-worlds-2ijb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
