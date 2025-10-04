@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Cloud Incident Response is Critical for DevOps and IT Teams](https://dev.to/fahimfba/why-cloud-incident-response-is-critical-for-devops-and-it-teams-3foa)
+- [Cursor and Trigger in DBMS](https://dev.to/jerlin_vanessavincentpa/cursor-and-trigger-in-dbms-418b)
 - [Stop Mixing Them Up: Tailwind’s Space vs Gap Explained](https://dev.to/goldenekpendu/stop-mixing-them-up-tailwinds-space-vs-gap-explained-44m7)
-- [7 BlazeMeter Alternatives for Advanced Load and Performance Testing](https://dev.to/liam_smith_4be389080a2577/7-blazemeter-alternatives-for-advanced-load-and-performance-testing-30ma)
-- [Keep Julia Awake: NoSleep.jl](https://dev.to/metelkin/keep-julia-awake-nosleepjl-4pko)
-- [Understanding the Latent Space in LLMs: A Deep Dive](https://dev.to/kuldeep_paul/understanding-the-latent-space-in-llms-a-deep-dive-7e5)
-- [JavaScript Arrow Functions Explained: Guide to ES6+ Syntax](https://dev.to/om_u101/javascript-arrow-functions-explained-guide-to-es6-syntax-17i4)
+- [Building Custom Evaluators for AI Applications: A Technical Guide to AI Quality Assessment](https://dev.to/kuldeep_paul/building-custom-evaluators-for-ai-applications-a-technical-guide-to-ai-quality-assessment-28i3)
+- [Azure Container Instances](https://dev.to/godofgeeks/azure-container-instances-3pa0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
