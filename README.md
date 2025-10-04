@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Latent Space in LLMs: A Deep Dive](https://dev.to/kuldeep_paul/understanding-the-latent-space-in-llms-a-deep-dive-7e5)
+- [JavaScript Arrow Functions Explained: Guide to ES6+ Syntax](https://dev.to/om_u101/javascript-arrow-functions-explained-guide-to-es6-syntax-17i4)
+- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/jerlin_vanessavincentpa/indexing-hashing-query-optimization-in-dbms-61m)
+- [Excel in the Era of Power BI &amp; Python](https://dev.to/maureenmuthonihue/excel-in-the-era-of-power-bi-python-o1a)
 - [Running Goose in Containers &lpar;Without Losing Your Mind&rpar;](https://dev.to/agasta/running-goose-in-containers-without-losing-your-mind-3m8)
-- [Bringing Digital Flavor: My Qdoba-Style Interactive Menu](https://dev.to/checkermenu_673e7cf13ec85/bringing-digital-flavor-my-qdoba-style-interactive-menu-346g)
-- [Automating Client Proposal Generation with Google Forms, Sheets, and Apps Script &lpar;Step-by-Step Guide&rpar;](https://dev.to/kangjessy/automating-client-proposal-generation-with-google-forms-sheets-and-apps-script-step-by-step-59aj)
-- [Introduction to Cloud Computing and AWS](https://dev.to/olymahmud/introduction-to-cloud-computing-and-aws-29li)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-e3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
