@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Feature Flags Shouldn’t Be an Enterprise-Only Tool](https://dev.to/koreflags/why-feature-flags-shouldnt-be-an-enterprise-only-tool-51il)
-- [[Boost]](https://dev.to/jasper_go/-38b7)
-- [Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/ilakkiya_99033c7a7246d48b/transactions-deadlocks-log-based-recovery-in-sql-42nm)
-- [CSS Cheat Sheet: Everything You Need to Know in One Place](https://dev.to/tenelabs/css-cheat-sheet-everything-you-need-to-know-in-one-place-12no)
-- [# Medical RAG Architecture Overview #llmszoomcamp](https://dev.to/abdelrahman_adnan/-medical-rag-architecture-overview-llmszoomcamp-7h)
+- [Manual Indexing Explained: Getting Your Page into Google Faster](https://dev.to/rijultp/manual-indexing-explained-getting-your-page-into-google-faster-g4g)
+- [**Measuring Success in Reinforcement Learning: Unpacking the](https://dev.to/drcarlosruizviquez/measuring-success-in-reinforcement-learning-unpacking-the-1ce8)
+- [**Unlock the Power of Emotional Anchoring in AI Models** In](https://dev.to/drcarlosruizviquez/unlock-the-power-of-emotional-anchoring-in-ai-modelsin-9fe)
+- [How I Use Google NotebookLM to Create Flashcards, Quizzes, Mind Maps, and AI Podcasts](https://dev.to/paras_builds/how-i-use-google-notebooklm-to-create-flashcards-quizzes-mind-maps-and-ai-podcasts-bff)
+- [𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽’𝘀 𝗝𝗮𝘃𝗮 𝘀𝘁𝗮𝗰𝗸 𝗳𝗼𝗿 𝗹𝗼𝘄-𝗹𝗮𝘁𝗲𝗻𝗰𝘆 𝗺𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝘁 𝘀𝗰𝗮𝗹𝗲 &lpar;𝘄𝗵𝗮𝘁 𝗶𝘁 𝘄𝗼𝘂𝗹𝗱 𝘁𝗮𝗸𝗲&rpar;](https://dev.to/narednra_reddyyadama_d64/--527o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
