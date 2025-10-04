@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4el2)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-5187)
-- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-35kj)
-- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-58ld)
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-50da)
+- [Dinner Plans &amp; Distributed Systems : A Fun Guide to Consensus](https://dev.to/sumana10/dinner-plans-distributed-systems-a-fun-guide-to-consensus-3694)
+- [Day 4 of 30 Days of Solidity Challenge: Build a Basic Auction Smart Contract](https://dev.to/sauravkumar8178/day-4-of-30-days-of-solidity-challenge-build-a-basic-auction-smart-contract-1kdp)
+- [Database Fundamentals](https://dev.to/gilbert_korir/database-fundamentals-4m0j)
+- [I Tested Claude 4.5 Against GPT-4 for 48 Hours. Here&#39;s What Nobody&#39;s Telling You.](https://dev.to/klement_gunndu_e16216829c/i-tested-claude-45-against-gpt-4-for-48-hours-heres-what-nobodys-telling-you-ldm)
+- [wyr: Typesafe Dependency Injection for TypeScript &lpar;and why I built it&rpar;](https://dev.to/caeus/wyr-typesafe-dependency-injection-for-typescript-and-why-i-built-it-45kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
