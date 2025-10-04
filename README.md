@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Database Normalization Explained with SQL Examples &lpar;1NF, 2NF, 3NF&rpar;](https://dev.to/sanchayaa_s24cb052_9f4dd/database-normalization-explained-with-sql-examples-1nf-2nf-3nf-4121)
 - [How to Use Postman Scripts and Dynamic Variables for Faster Testing](https://dev.to/og_wunderkind/how-to-use-postman-scripts-and-dynamic-variables-for-faster-testing-25lc)
 - [✍️ Drafting the TenK Manifesto](https://dev.to/soasme/drafting-the-tenk-manifesto-2llm)
 - [Building a multi-tenant PaaS application: Part 1 &lpar;Architecture &amp; Initial Design&rpar;](https://dev.to/ahnafzamil/building-a-multi-tenant-paas-application-part-1-architecture-initial-design-4d49)
 - [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
-- [🚀 JavaScript Optional Chaining &lpar;`?.`&rpar; – A Beginner’s Note](https://dev.to/usama_dev/javascript-optional-chaining-a-beginners-note-1o30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
