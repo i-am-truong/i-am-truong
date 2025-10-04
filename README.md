@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database Normalization](https://dev.to/jerlin_vanessavincentpa/database-normalization-b6j)
-- [gRPC with Node.js Explained: A Deep Dive into Modern API Development](https://dev.to/satyam_gupta_0d1ff2152dcc/grpc-with-nodejs-explained-a-deep-dive-into-modern-api-development-4283)
-- [CISPR 25 Compliance: EMC Field Mapping Strategy That Works](https://dev.to/gighz/cispr-25-compliance-emc-field-mapping-strategy-that-works-35ea)
-- [Data is Life: The Unseen Force Driving Nigeria’s Progress and the Urgent Need for Quality Insights](https://dev.to/ridjad/data-is-life-the-unseen-force-driving-nigerias-progress-and-the-urgent-need-for-quality-insights-m8m)
-- [Python. Project Structure &lpar;II&rpar;](https://dev.to/elferrer/python-estructurar-un-proyecto-ii-5d28)
+- [💡 Curious about Power Apps, Power Automate, Power BI, and Power Pages? I just published a beginner-friendly guide on why Microsoft Power Platform is reshaping the future of work. Check it out 👉](https://dev.to/phylis/-45pd)
+- [Why Everyone Is Talking About Microsoft Power Platform](https://dev.to/phylis/why-everyone-is-talking-about-microsoft-power-platform-4fjj)
+- [Node.js &amp; Type Script: A Match Made for Modern Web Development](https://dev.to/satyam_gupta_0d1ff2152dcc/nodejs-type-script-a-match-made-for-modern-web-development-hnk)
+- [Handling Large JSON Files in Python: Efficient Read, Write, and Update Strategies](https://dev.to/lovestaco/handling-large-json-files-in-python-efficient-read-write-and-update-strategies-3jgg)
+- [Build Powerful CLI Tools with Node.js: A Complete Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/build-powerful-cli-tools-with-nodejs-a-complete-guide-for-developers-56k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
