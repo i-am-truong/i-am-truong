@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [why excel is still relevant in the era of power bi and python](https://dev.to/enock_kipngetich/why-excel-is-still-relevant-in-the-era-of-power-bi-and-python-d40)
+- [Why Flutter is the Go-To for Multi-Platform Apps in 2025](https://dev.to/techwithsam/why-flutter-is-the-go-to-for-multi-platform-apps-in-2025-2g3j)
+- [C# Tutorial: Build Your First Application with .NET Easily](https://dev.to/tpointtechblog/c-tutorial-build-your-first-application-with-net-easily-3da2)
+- [From Callback Hell to Coroutines: An Evolutionary History of Android Concurrency](https://dev.to/kavearhasi_viswanathan/from-callback-hell-to-coroutines-an-evolutionary-history-of-android-concurrency-55kj)
 - [Database Normalization Explained with SQL Examples &lpar;1NF, 2NF, 3NF&rpar;](https://dev.to/sanchayaa_s24cb052_9f4dd/database-normalization-explained-with-sql-examples-1nf-2nf-3nf-4121)
-- [How to Use Postman Scripts and Dynamic Variables for Faster Testing](https://dev.to/og_wunderkind/how-to-use-postman-scripts-and-dynamic-variables-for-faster-testing-25lc)
-- [✍️ Drafting the TenK Manifesto](https://dev.to/soasme/drafting-the-tenk-manifesto-2llm)
-- [Building a multi-tenant PaaS application: Part 1 &lpar;Architecture &amp; Initial Design&rpar;](https://dev.to/ahnafzamil/building-a-multi-tenant-paas-application-part-1-architecture-initial-design-4d49)
-- [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
