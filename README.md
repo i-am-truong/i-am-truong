@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Odoo Pricing in Germany: Everything You Should Know](https://dev.to/vibha_05/odoo-pricing-in-germany-everything-you-should-know-db7)
-- [🚀 Mastering NestJS Concepts: Decorators, Dependency Injection, DTOs &amp; More](https://dev.to/fazal_mansuri_/mastering-nestjs-concepts-decorators-dependency-injection-dtos-more-2c1f)
-- [BIG NEWS: Oxbow UI is now free &amp; MIT! Tailwind CSS &amp; Alpine JS blocks and components.](https://dev.to/mike_andreuzza/big-news-oxbow-ui-is-now-free-mit-tailwind-css-alpine-js-blocks-and-components-5g9m)
-- [The Backbone of Database Reliability: Exploring ACID in Action with SQL Transactions A Step-by-Step Guide](https://dev.to/thushitha_tk_ffd2acfb6067/understanding-acid-properties-in-sql-transactions-a-step-by-step-guide-4djj)
-- [WTF is OpenTelemetry?](https://dev.to/dailybugle33/wtf-is-opentelemetry-4cb6)
+- [The Secure Network Automation Playbook: Using Ansible, Python, and GitOps for Security](https://dev.to/gagreatprogrammer/the-secure-network-automation-playbook-using-ansible-python-and-gitops-for-security-457j)
+- [How to Sell Services Directly from Your Portfolio Without Third-Party Platforms](https://dev.to/imtaslim/how-to-sell-services-directly-from-your-portfolio-without-third-party-platforms-4mnf)
+- [Understanding Google Maps Grounding with ADK &lpar;Part 2/5&rpar;](https://dev.to/greyisheepai/understanding-google-maps-grounding-with-adk-part-25-476)
+- [DBMS – Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/sugesh_appu_54958a343aaf5/dbms-transactions-deadlocks-log-based-recovery-3c4j)
+- [🚀 Day 34 of My Data Journey](https://dev.to/_adii3107/day-34-of-my-data-journey-55a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
