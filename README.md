@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Architecture That Lets Us Sleep: Scalable Uploads with S3 presigned URLs](https://dev.to/oliverke/the-architecture-that-lets-us-sleep-scalable-uploads-with-s3-presigned-urls-1jf3)
-- [Top 50 Java Interview Questions and Answers](https://dev.to/narednra_reddyyadama_d64/top-50-java-interview-questions-and-answers-3e12)
-- [Cybersecurity Awareness Month: The Year in Breach](https://dev.to/toxsec/cybersecurity-awareness-month-the-year-in-breach-toxsec-68f)
-- [printed hello world, lol](https://dev.to/sammy_24/first-accomplishment-3737)
-- [PostgreSQL Backup the quick Way](https://dev.to/eddiegulay/postgresql-backup-the-quick-way-aii)
+- [Stop Using useEffect for Data Fetching](https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl)
+- [Understanding and Verifying JWT Authentication in Spring Boot](https://dev.to/varunpatil1709/understanding-and-verifying-jwt-authentication-in-spring-boot-4i2h)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-32fa)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4j6b)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-mej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
