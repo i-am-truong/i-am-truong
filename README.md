@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding ACID Properties in SQL Transactions: A Step-by-Step Guide](https://dev.to/thushitha_tk_ffd2acfb6067/understanding-acid-properties-in-sql-transactions-a-step-by-step-guide-4djj)
+- [Odoo Pricing in Germany: Everything You Should Know](https://dev.to/vibha_05/odoo-pricing-in-germany-everything-you-should-know-db7)
+- [🚀 Mastering NestJS Concepts: Decorators, Dependency Injection, DTOs &amp; More](https://dev.to/fazal_mansuri_/mastering-nestjs-concepts-decorators-dependency-injection-dtos-more-2c1f)
+- [BIG NEWS: Oxbow UI is now free &amp; MIT! Tailwind CSS &amp; Alpine JS blocks and components.](https://dev.to/mike_andreuzza/big-news-oxbow-ui-is-now-free-mit-tailwind-css-alpine-js-blocks-and-components-5g9m)
+- [The Backbone of Database Reliability: Exploring ACID in Action with SQL Transactions A Step-by-Step Guide](https://dev.to/thushitha_tk_ffd2acfb6067/understanding-acid-properties-in-sql-transactions-a-step-by-step-guide-4djj)
 - [WTF is OpenTelemetry?](https://dev.to/dailybugle33/wtf-is-opentelemetry-4cb6)
-- [Story of AWS Storage - Understanding by asking and answering!](https://dev.to/sumbul_naqvi/story-of-aws-storage-understanding-by-asking-and-answering-1jm7)
-- [SQL Cursor and Trigger Implementation](https://dev.to/sashmitha_g24cb054_f8624/sql-cursor-and-trigger-implementation-49a7)
-- [🚀 Deploying a Full-Stack App &lpar;Next.js + Express + MongoDB&rpar; on a Single AWS EC2 Instance](https://dev.to/kuldeepg3/deploying-a-full-stack-app-nextjs-express-mongodb-on-a-single-aws-ec2-instance-5ec1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
