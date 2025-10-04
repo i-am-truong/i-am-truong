@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2h65)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5bnj)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-dg1)
-- [The Game Theorists: Game Theory: FINALLY Reacting To Your FNAF Theories](https://dev.to/gg_news/the-game-theorists-game-theory-finally-reacting-to-your-fnaf-theories-21e1)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-3lhj)
+- [🐍 Revisiting Snake in Java with Clprolf — From Clear Code to Clear Game](https://dev.to/charles_koffler_bcabc582b/revisiting-snake-in-java-with-clprolf-from-clear-code-to-clear-game-2336)
+- [Connecting Gemini CLI to Docker MCP — Build Your Own AI Tool Ecosystem](https://dev.to/coderanger08/connecting-gemini-cli-to-docker-mcp-build-your-own-ai-tool-ecosystem-7ef)
+- [# Comprehensive Monitoring &amp; Observability #llmszoomcamp](https://dev.to/abdelrahman_adnan/-comprehensive-monitoring-observability-llmszoomcamp-3985)
+- [# Medical RAG Architecture Overview #llmszoomcamp](https://dev.to/abdelrahman_adnan/-medical-rag-architecture-overview-llmszoomcamp-3mob)
+- [Preparing for a React interview](https://dev.to/04anilr/preparing-for-a-react-interview-3e27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
