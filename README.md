@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 The Complete Guide to Validations in Rails](https://dev.to/bibimbop123/the-complete-guide-to-validations-in-rails-1o60)
-- [⚡ Mastering Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/sanchayaa_s24cb052_9f4dd/mastering-indexing-hashing-query-optimization-in-sql-87o)
-- [Tanzeem file](https://dev.to/md_tanzeemalam_c91f93ca6/tanzeem-file-1m9l)
-- [Trust-by-Design: A Practical Playbook for Shipping AI Features Without Burning Your Users](https://dev.to/sonia_bobrik_1939cdddd79d/trust-by-design-a-practical-playbook-for-shipping-ai-features-without-burning-your-users-57c5)
-- [11. Container With Most Water](https://dev.to/mdarifulhaque/11-container-with-most-water-10kn)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3cn1)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3c32)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2f2k)
+- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-mhn)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-57bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
