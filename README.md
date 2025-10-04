@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a Polyglot Stack &lpar;Spring Boot + FastAPI&rpar; on GCP with Cloud Run, Cloud SQL, and Memorystore](https://dev.to/mrmajed7/deploy-a-polyglot-stack-spring-boot-fastapi-on-gcp-with-cloud-run-cloud-sql-and-redis-5ag7)
-- [MCP Server for Accessing Official Language Docs from AI Editors](https://dev.to/katsukatsu/mcp-server-for-accessing-official-language-docs-from-ai-editors-2d3i)
-- [Building Your First AI Agent in PHP with Symfony’s New AI Component and Ollama](https://dev.to/robertobutti/building-your-first-ai-agent-in-php-with-symfonys-new-ai-component-and-ollama-399a)
-- [A practical guide to relative paths on solution mapping files](https://dev.to/_neronotte/a-practical-guide-to-relative-paths-on-solution-mapping-files-hkm)
-- [Python. Project Structure &lpar;VIII&rpar;](https://dev.to/elferrer/python-project-structure-viii-17ha)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4el2)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-5187)
+- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-35kj)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-58ld)
+- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-50da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
