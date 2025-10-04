@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Awareness Month: The Year in Breach](https://dev.to/toxsec/cybersecurity-awareness-month-the-year-in-breach-toxsec-68f)
+- [printed hello world, lol](https://dev.to/sammy_24/first-accomplishment-3737)
+- [PostgreSQL Backup the quick Way](https://dev.to/eddiegulay/postgresql-backup-the-quick-way-aii)
+- [Digital Ethics: The Dark Reality of Deepfakes](https://dev.to/sumit_shingolebtechcse/digital-ethics-the-dark-reality-of-deepfakes-4e9k)
 - [Manual Indexing Explained: Getting Your Page into Google Faster](https://dev.to/rijultp/manual-indexing-explained-getting-your-page-into-google-faster-g4g)
-- [**Measuring Success in Reinforcement Learning: Unpacking the](https://dev.to/drcarlosruizviquez/measuring-success-in-reinforcement-learning-unpacking-the-1ce8)
-- [**Unlock the Power of Emotional Anchoring in AI Models** In](https://dev.to/drcarlosruizviquez/unlock-the-power-of-emotional-anchoring-in-ai-modelsin-9fe)
-- [How I Use Google NotebookLM to Create Flashcards, Quizzes, Mind Maps, and AI Podcasts](https://dev.to/paras_builds/how-i-use-google-notebooklm-to-create-flashcards-quizzes-mind-maps-and-ai-podcasts-bff)
-- [𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽’𝘀 𝗝𝗮𝘃𝗮 𝘀𝘁𝗮𝗰𝗸 𝗳𝗼𝗿 𝗹𝗼𝘄-𝗹𝗮𝘁𝗲𝗻𝗰𝘆 𝗺𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝘁 𝘀𝗰𝗮𝗹𝗲 &lpar;𝘄𝗵𝗮𝘁 𝗶𝘁 𝘄𝗼𝘂𝗹𝗱 𝘁𝗮𝗸𝗲&rpar;](https://dev.to/narednra_reddyyadama_d64/--527o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
