@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Architecture That Lets Us Sleep: Scalable Uploads with S3 presigned URLs](https://dev.to/oliverke/the-architecture-that-lets-us-sleep-scalable-uploads-with-s3-presigned-urls-1jf3)
 - [Top 50 Java Interview Questions and Answers](https://dev.to/narednra_reddyyadama_d64/top-50-java-interview-questions-and-answers-3e12)
 - [Cybersecurity Awareness Month: The Year in Breach](https://dev.to/toxsec/cybersecurity-awareness-month-the-year-in-breach-toxsec-68f)
 - [printed hello world, lol](https://dev.to/sammy_24/first-accomplishment-3737)
 - [PostgreSQL Backup the quick Way](https://dev.to/eddiegulay/postgresql-backup-the-quick-way-aii)
-- [Digital Ethics: The Dark Reality of Deepfakes](https://dev.to/sumit_shingolebtechcse/digital-ethics-the-dark-reality-of-deepfakes-4e9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
