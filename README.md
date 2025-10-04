@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Quantum Future: How AI is Redefining Possibility](https://dev.to/quantumshell/the-quantum-future-how-ai-is-redefining-possibility-4p08)
+- [The Secret Bottleneck Blocking Enterprise AI Agents—And the Surprising Fix](https://dev.to/aiwithapex/the-secret-bottleneck-blocking-enterprise-ai-agents-and-the-surprising-fix-2jph)
 - [🚀 Vyoma is Launching on Product Hunt this October 10th!](https://dev.to/pjdeveloper896/vyoma-is-launching-on-product-hunt-this-october-10th-3nh)
 - [Never Miss a Downtime: AWS Website Uptime Monitor with Terraform](https://dev.to/hasan_ashab/never-miss-a-downtime-aws-website-uptime-monitor-with-terraform-5f2o)
-- [Why Web Scraping is the Backbone of Modern Business Intelligence](https://dev.to/tagxdata/why-web-scraping-is-the-backbone-of-modern-business-intelligence-48ki)
 - [Will the Web Survive When AI Becomes the Default Interface?](https://dev.to/dct_technology/will-the-web-survive-when-ai-becomes-the-default-interface-k0c)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3df0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
