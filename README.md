@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using useEffect for Data Fetching](https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl)
-- [Understanding and Verifying JWT Authentication in Spring Boot](https://dev.to/varunpatil1709/understanding-and-verifying-jwt-authentication-in-spring-boot-4i2h)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-32fa)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4j6b)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-mej)
+- [5 Free Books for Data Science &amp; Machine Learning](https://dev.to/anesmeftah/5-free-books-for-data-science-machine-learning-7ne)
+- [React Keep-Alive: The Complete Guide Every Developer Needs 🚀](https://dev.to/serifcolakel/react-keep-alive-the-complete-guide-every-developer-needs-1c2m)
+- [Small Id Generator](https://dev.to/sebk69/small-id-generator-4cek)
+- [Release workflow for sole developer](https://dev.to/cathylai/release-workflow-for-sole-developer-nel)
+- [Understanding Anxiety and Panic Disorders](https://dev.to/nutritionthree/understanding-anxiety-and-panic-disorders-4o8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
