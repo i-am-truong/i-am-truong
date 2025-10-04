@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Complete AWS VPC with Load Balancer: A Step-by-Step Journey](https://dev.to/deepanshub09/building-a-complete-aws-vpc-with-load-balancer-a-step-by-step-journey-2oj8)
+- [Managing Prompts Without the Chaos: Simplifying AI Agent Development with Dakora](https://dev.to/mihai_lucianandrone_7564/managing-prompts-without-the-chaos-simplifying-ai-agent-development-with-dakora-l3n)
+- [Ingest data with a pipeline in Microsoft Fabric](https://dev.to/lotanna_obianefo/ingest-data-with-a-pipeline-in-microsoft-fabric-2cfo)
 - [#DAY 10:Adding an API JSON Query Monitor in Uptime Kuma](https://dev.to/samueladeduntan/day-10adding-an-api-json-query-monitor-in-uptime-kuma-5ggm)
 - [5 Free Books for Data Science &amp; Machine Learning](https://dev.to/anesmeftah/5-free-books-for-data-science-machine-learning-7ne)
-- [React Keep-Alive: The Complete Guide Every Developer Needs 🚀](https://dev.to/serifcolakel/react-keep-alive-the-complete-guide-every-developer-needs-1c2m)
-- [Small Id Generator](https://dev.to/sebk69/small-id-generator-4cek)
-- [Release workflow for sole developer](https://dev.to/cathylai/release-workflow-for-sole-developer-nel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
