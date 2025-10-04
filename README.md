@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mi primera experiencia con WPGraphQL](https://dev.to/xavieroromay/mi-primera-experiencia-con-wpgraphql-1jlo)
-- [50 Most Useful React Snippets](https://dev.to/jsdev01/50-most-useful-react-snippets-20oc)
-- [Why HTML Comments Are More Important Than You Think](https://dev.to/ernesto_malave_285068a60e/why-html-comments-are-more-important-than-you-think-5do6)
-- [How I Made My First Successful Hacktoberfest Pull Request](https://dev.to/elsad_humbetli_0971c995ce/how-i-made-my-first-successful-hacktoberfest-pull-request-50a2)
-- [Supabase config in your Expo project - the proper way](https://dev.to/cathylai/supabase-config-in-your-expo-project-the-proper-way-kp0)
+- [🎼 From Container Chaos to Compose Harmony: A DevOps Love Story](https://dev.to/tavernetech/from-container-chaos-to-compose-harmony-a-devops-love-story-5bjc)
+- [Mastering Routing in Express with TypeScript](https://dev.to/justwonder/mastering-routing-in-express-with-typescript-4el7)
+- [Building on LangChain, FAISS, and Next.js, I turned my mother‑in‑law’s Mexican recipes into SazónBot—a bilingual AI chef that scales dishes, offers substitutions, and even embeds cooking videos. Check out the journey!](https://dev.to/yosolita1978/building-on-langchain-faiss-and-nextjs-i-turned-my-mother-in-laws-mexican-recipes-into-pmg)
+- [Unlocking Productivity: How to Leverage AI Tools for Enhanced Development Workflows](https://dev.to/mikeover/unlocking-productivity-how-to-leverage-ai-tools-for-enhanced-development-workflows-4ng2)
+- [Building SazónBot: A Journey from Family Recipes to AI Chatbot](https://dev.to/yosolita1978/building-sazonbot-a-journey-from-family-recipes-to-ai-chatbot-3096)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
