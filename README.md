@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Postman Scripts and Dynamic Variables for Faster Testing](https://dev.to/og_wunderkind/how-to-use-postman-scripts-and-dynamic-variables-for-faster-testing-25lc)
+- [✍️ Drafting the TenK Manifesto](https://dev.to/soasme/drafting-the-tenk-manifesto-2llm)
 - [Building a multi-tenant PaaS application: Part 1 &lpar;Architecture &amp; Initial Design&rpar;](https://dev.to/ahnafzamil/building-a-multi-tenant-paas-application-part-1-architecture-initial-design-4d49)
 - [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
 - [🚀 JavaScript Optional Chaining &lpar;`?.`&rpar; – A Beginner’s Note](https://dev.to/usama_dev/javascript-optional-chaining-a-beginners-note-1o30)
-- [&quot;AI makes it cheaper, right?&quot; - Is this happening in your country too?](https://dev.to/_768dd7ab130016ab8b0a/ai-makes-it-cheaper-right-is-this-happening-in-your-country-too-4lgk)
-- [Configuring Multi-Language Website SEO with Hugo](https://dev.to/rosgluk/configuring-multi-language-website-seo-with-hugo-50ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
