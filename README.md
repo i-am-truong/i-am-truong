@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Indexing, Hashing &amp; Query Optimization in SQL &lpar;with Examples&rpar;](https://dev.to/prian_ss24cb042_1006e0f/indexing-hashing-query-optimization-in-sql-with-examples-9ik)
-- [Lessons from a MySQL Migration: What We Learned and How to Do It Better Next Time](https://dev.to/adityasatrio/lessons-from-a-mysql-migration-what-we-learned-and-how-to-do-it-better-next-time-4j1h)
-- [Mastering TypeScript: Tips, Tricks, and Best Practices](https://dev.to/suraj_kumar_fb57ae0928df2/mastering-typescript-tips-tricks-and-best-practices-5e93)
-- [How I Taught Myself to Code in 6 Months and Built Fuel My Work — An India-First Creator Platform](https://dev.to/rahulbabar/how-i-taught-myself-to-code-in-6-months-and-built-fuel-my-work-an-india-first-creator-platform-51n6)
-- [The Strategic Importance of SAP in Modern Business Operations](https://dev.to/ashwin_pps_365864ef843ec2/the-strategic-importance-of-sap-in-modern-business-operations-hoc)
+- [Automating Client Proposal Generation with Google Forms, Sheets, and Apps Script &lpar;Step-by-Step Guide&rpar;](https://dev.to/kangjessy/automating-client-proposal-generation-with-google-forms-sheets-and-apps-script-step-by-step-59aj)
+- [Introduction to Cloud Computing and AWS](https://dev.to/olymahmud/introduction-to-cloud-computing-and-aws-29li)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-5ah4)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-39jf)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-e3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
