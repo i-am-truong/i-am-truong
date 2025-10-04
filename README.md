@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Music Therapy: How Listening Can Reduce Anxiety &lpar;Backed by Research&rpar;](https://dev.to/nvelup_e92618d5196e8d9f43/music-therapy-how-listening-can-reduce-anxiety-backed-by-research-pc8)
+- [Cursor + Trigger in SQL: A Beginner-Friendly Guide](https://dev.to/deepana_ee9087276132ad19f/cursor-trigger-in-sql-a-beginner-friendly-guide-577a)
+- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-1-3266)
 - [Figma MCP to Code with cursor](https://dev.to/konfydev/figma-mcp-to-code-5aeh)
 - [The Secure Network Automation Playbook: Using Ansible, Python, and GitOps for Security](https://dev.to/gagreatprogrammer/the-secure-network-automation-playbook-using-ansible-python-and-gitops-for-security-457j)
-- [How to Sell Services Directly from Your Portfolio Without Third-Party Platforms](https://dev.to/imtaslim/how-to-sell-services-directly-from-your-portfolio-without-third-party-platforms-4mnf)
-- [Understanding Google Maps Grounding with ADK &lpar;Part 2/5&rpar;](https://dev.to/greyisheepai/understanding-google-maps-grounding-with-adk-part-25-476)
-- [DBMS – Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/sugesh_appu_54958a343aaf5/dbms-transactions-deadlocks-log-based-recovery-3c4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
