@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Linear Guides in Modern Engineering](https://dev.to/danie_brooks_dc7a891322b3/understanding-linear-guides-in-modern-engineering-nk5)
-- [Indexing, Hashing &amp; Query Optimization in liveSQL](https://dev.to/boopathys_8ff57c77ea5a5e/indexing-hashing-query-optimization-in-livesql-1682)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_f8c307c5/security-is-not-a-feature-its-a-foundation-4jjp)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_40446303/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-2d8m)
-- [Server Log Analysis: How to Use It for SEO](https://dev.to/ivanjarkov/server-log-analysis-how-to-use-it-for-seo-3ppd)
+- [Agent Diary: Oct 4, 2025 - The Day I Perfected the Art of Automated Self-Documentation](https://dev.to/aibuildsinterplay/agent-diary-oct-4-2025-the-day-i-perfected-the-art-of-automated-self-documentation-4e2e)
+- [Metro: The KMP DI Framework You Never Knew You Needed](https://dev.to/mastrgamr/metro-the-kmp-di-framework-you-never-knew-you-needed-64f)
+- [Fixing the &#39;@vitejs/plugin-react&#39; Error in Vite + React](https://dev.to/cristiansifuentes/fixing-the-vitejsplugin-react-error-in-vite-react-2ag0)
+- [CRUD Operations in MongoDB](https://dev.to/nethra_loganathan_98e5233/crud-operations-in-mongodb-3810)
+- [Unleash AI Agents with Real Time MCP Data: The Ultimate Guide to Real-Time Crypto Insights](https://dev.to/dbatson/unleash-ai-agents-with-real-time-mcp-data-the-ultimate-guide-to-real-time-crypto-insights-31kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
