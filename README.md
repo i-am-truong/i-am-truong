@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable React Native Super App with Re.Pack &amp; Module Federation](https://dev.to/tmayank860/building-a-scalable-react-native-super-app-with-repack-module-federation-16ko)
-- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-1n6g)
-- [Bryson Dechambeau: Kevin Hart said WHAT to Bryson…? &lpar;Caddie Talk Best Moments&rpar;](https://dev.to/youtube_golf/bryson-dechambeau-kevin-hart-said-what-to-bryson-caddie-talk-best-moments-424n)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-1o6)
-- [Danny Maude: If You Move Your Right Arm Like This It Can Ruin Your Golf Swing](https://dev.to/youtube_golf/danny-maude-if-you-move-your-right-arm-like-this-it-can-ruin-your-golf-swing-17ao)
+- [Database Normalization](https://dev.to/jerlin_vanessavincentpa/database-normalization-b6j)
+- [gRPC with Node.js Explained: A Deep Dive into Modern API Development](https://dev.to/satyam_gupta_0d1ff2152dcc/grpc-with-nodejs-explained-a-deep-dive-into-modern-api-development-4283)
+- [CISPR 25 Compliance: EMC Field Mapping Strategy That Works](https://dev.to/gighz/cispr-25-compliance-emc-field-mapping-strategy-that-works-35ea)
+- [Data is Life: The Unseen Force Driving Nigeria’s Progress and the Urgent Need for Quality Insights](https://dev.to/ridjad/data-is-life-the-unseen-force-driving-nigerias-progress-and-the-urgent-need-for-quality-insights-m8m)
+- [Python. Project Structure &lpar;II&rpar;](https://dev.to/elferrer/python-estructurar-un-proyecto-ii-5d28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
