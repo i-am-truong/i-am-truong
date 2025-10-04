@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Learn .NET: Benefits, Features, and Community](https://dev.to/alexnicolascode/why-you-should-learn-net-benefits-features-and-community-22f6)
-- [When to Use a Message Broker: Tips for Scalability and Performance](https://dev.to/alexnicolascode/when-to-use-a-message-broker-tips-for-scalability-and-performance-44m)
-- [Node.js Core Concepts — Understand Easily &lpar;Bengali&rpar;](https://dev.to/mehedihasan1102/nodejs-core-concepts-shjbhaabe-bujhe-nin-3em7)
-- [80% of JavaScript code comes from 20% of its features?](https://dev.to/rfranr/80-of-javascript-code-comes-from-20-of-its-features-3bpe)
-- [Nvidia&#39;s AI Kill Chain](https://dev.to/toxsec/nvidias-ai-kill-chain-4flo)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-4gh7)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-5bpo)
+- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-6l4)
+- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-4f8p)
+- [IGN: What Pokemon Reveals About Peacemaker&#39;s Earth-X - IGN Daily Fix](https://dev.to/gg_news/ign-what-pokemon-reveals-about-peacemakers-earth-x-ign-daily-fix-1ch7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
