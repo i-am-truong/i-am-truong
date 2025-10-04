@@ -121,10 +121,11 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Textos y fragmentos contenido relevante en tu web](https://dev.to/dezkareid/textos-y-fragmentos-contenido-relevante-en-tu-web-5h80)
+- [Struggling to make LangGraph agents work in a strict NestJS &amp; TypeScript environment? I spent my weekend fighting through the documentation gap so you don&#39;t have to.
+Here’s the complete guide to building a modular, tool-using AI agent from scratch.](https://dev.to/d_akhil_kumar/struggling-to-make-langgraph-agents-work-in-a-strict-nestjs-typescript-environment-i-spent-my-1bhf)
 - [Publishing My First NuGet Package: StrongResult - A Weekend Learning Project](https://dev.to/saulhdez/publishing-my-first-nuget-package-strongresult-a-weekend-learning-project-3oce)
 - [🧠 Week 10 Build Log: Code Tracker AI Progress](https://dev.to/monahidalgo/week-10-build-log-code-tracker-ai-progress-1cno)
 - [How to Build a Modular AI Agent with LangGraph in NestJS &amp; TypeScript](https://dev.to/d_akhil_kumar/how-to-build-a-modular-ai-agent-with-langgraph-in-nestjs-typescript-3m9f)
-- [Understanding Authentication That Actually Makes Sense](https://dev.to/sakshamverma_08_cc20bb7de/understanding-authentication-that-actually-makes-sense-2be1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
