@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Transactions,Deadlocks and Log Based Recovery](https://dev.to/sanchayaa_s24cb052_9f4dd/transactionsdeadlocks-and-log-based-recovery-32i1)
+- [AWS Certified Machine Learning Engineer Core Concepts](https://dev.to/aws-heroes/aws-certified-machine-learning-engineer-core-concepts-5ekg)
+- [Python. Project Structure &lpar;III&rpar;](https://dev.to/elferrer/python-project-structure-iii-4gib)
 - [Introduction to Playwright.](https://dev.to/nelson_orina_a538ba52e9ed/introduction-to-playwright-10b8)
-- [💡 Curious about Power Apps, Power Automate, Power BI, and Power Pages? I just published a beginner-friendly guide on why Microsoft Power Platform is reshaping the future of work. Check it out 👉](https://dev.to/phylis/-45pd)
-- [Why Everyone Is Talking About Microsoft Power Platform](https://dev.to/phylis/why-everyone-is-talking-about-microsoft-power-platform-4fjj)
-- [Node.js &amp; Type Script: A Match Made for Modern Web Development](https://dev.to/satyam_gupta_0d1ff2152dcc/nodejs-type-script-a-match-made-for-modern-web-development-hnk)
-- [Handling Large JSON Files in Python: Efficient Read, Write, and Update Strategies](https://dev.to/lovestaco/handling-large-json-files-in-python-efficient-read-write-and-update-strategies-3jgg)
+- [WedidIT.in : Voices of a better tomorrow.](https://dev.to/rohit_roy_e5a8ce9a2579faf/wediditin-voices-of-a-better-tomorrow-2l6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
