@@ -80,10 +80,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Make Your GoHighLevel Pages Feel Premium with Smooth Scrolling](https://dev.to/samee-ullah/make-your-gohighlevel-pages-feel-premium-with-smooth-scrolling-3k66)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4o9a)
+- [Hands-On MongoDB CRUD Operations with a College Student Schema](https://dev.to/sashmitha_g24cb054_f8624/hands-on-mongodb-crud-operations-with-a-college-student-schema-3onj)
+- [💾Database Reliability Explained: Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/thushitha_tk_ffd2acfb6067/database-reliability-explained-transactions-deadlocks-log-based-recovery-3kle)
 - [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-12o6)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-5934)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-3113)
+- [Understanding RS256: A Deep Dive into Asymmetric Encryption](https://dev.to/curious83635101/understanding-rs256-a-deep-dive-into-asymmetric-encryption-5ccb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
