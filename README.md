@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Figma MCP to Code with cursor](https://dev.to/konfydev/figma-mcp-to-code-5aeh)
 - [The Secure Network Automation Playbook: Using Ansible, Python, and GitOps for Security](https://dev.to/gagreatprogrammer/the-secure-network-automation-playbook-using-ansible-python-and-gitops-for-security-457j)
 - [How to Sell Services Directly from Your Portfolio Without Third-Party Platforms](https://dev.to/imtaslim/how-to-sell-services-directly-from-your-portfolio-without-third-party-platforms-4mnf)
 - [Understanding Google Maps Grounding with ADK &lpar;Part 2/5&rpar;](https://dev.to/greyisheepai/understanding-google-maps-grounding-with-adk-part-25-476)
 - [DBMS – Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/sugesh_appu_54958a343aaf5/dbms-transactions-deadlocks-log-based-recovery-3c4j)
-- [🚀 Day 34 of My Data Journey](https://dev.to/_adii3107/day-34-of-my-data-journey-55a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
