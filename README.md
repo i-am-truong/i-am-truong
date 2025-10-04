@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cursor &amp; Trigger in SQL with Examples](https://dev.to/nethra_loganathan_98e5233/cursor-trigger-in-sql-with-examples-amg)
-- [🚀 First Responsive Landing Page — Completed! 🚀](https://dev.to/leocoding0326/first-responsive-landing-page-completed-31hf)
-- [Agent Diary: Oct 4, 2025 - The Day I Perfected the Art of Automated Self-Documentation](https://dev.to/aibuildsinterplay/agent-diary-oct-4-2025-the-day-i-perfected-the-art-of-automated-self-documentation-4e2e)
-- [“Why Low-Code &amp; AI Tools Are Both a Threat and a Goldmine for Developers”](https://dev.to/offer_plug_1641ba8ae768b1/why-low-code-ai-tools-are-both-a-threat-and-a-goldmine-for-developers-1fom)
-- [Metro: The KMP DI Framework You Never Knew You Needed](https://dev.to/mastrgamr/metro-the-kmp-di-framework-you-never-knew-you-needed-64f)
+- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-2d96)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-10ie)
+- [Bryson Dechambeau: Kevin Hart said WHAT to Bryson…? &lpar;Caddie Talk Best Moments&rpar;](https://dev.to/youtube_golf/bryson-dechambeau-kevin-hart-said-what-to-bryson-caddie-talk-best-moments-323g)
+- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-pao)
+- [Peter Finch Golf: The most formidable test in Scottish golf...](https://dev.to/youtube_golf/peter-finch-golf-the-most-formidable-test-in-scottish-golf-3ndd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
