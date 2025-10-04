@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎼 From Container Chaos to Compose Harmony: A DevOps Love Story](https://dev.to/tavernetech/from-container-chaos-to-compose-harmony-a-devops-love-story-5bjc)
-- [Mastering Routing in Express with TypeScript](https://dev.to/justwonder/mastering-routing-in-express-with-typescript-4el7)
-- [Building on LangChain, FAISS, and Next.js, I turned my mother‑in‑law’s Mexican recipes into SazónBot—a bilingual AI chef that scales dishes, offers substitutions, and even embeds cooking videos. Check out the journey!](https://dev.to/yosolita1978/building-on-langchain-faiss-and-nextjs-i-turned-my-mother-in-laws-mexican-recipes-into-pmg)
-- [Unlocking Productivity: How to Leverage AI Tools for Enhanced Development Workflows](https://dev.to/mikeover/unlocking-productivity-how-to-leverage-ai-tools-for-enhanced-development-workflows-4ng2)
-- [Building SazónBot: A Journey from Family Recipes to AI Chatbot](https://dev.to/yosolita1978/building-sazonbot-a-journey-from-family-recipes-to-ai-chatbot-3096)
+- [Git is powerful, but it’s also a pain point for many developers. Here is how I use ChatGPT to manage my Git Workflows:](https://dev.to/jaideepparashar/git-is-powerful-but-its-also-a-pain-point-for-many-developers-here-is-how-i-use-chatgpt-to-44g8)
+- [How I Use AI to Manage Version Control &amp; Git Workflows](https://dev.to/jaideepparashar/how-i-use-ai-to-manage-version-control-git-workflows-bf3)
+- [Understanding ACID Properties with SQL Transactions](https://dev.to/boopathys_8ff57c77ea5a5e/understanding-acid-properties-with-sql-transactions-43k5)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-35oj)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4647)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
