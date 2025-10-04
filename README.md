@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🐍 Revisiting Snake in Java with Clprolf — From Clear Code to Clear Game](https://dev.to/charles_koffler_bcabc582b/revisiting-snake-in-java-with-clprolf-from-clear-code-to-clear-game-2336)
-- [Connecting Gemini CLI to Docker MCP — Build Your Own AI Tool Ecosystem](https://dev.to/coderanger08/connecting-gemini-cli-to-docker-mcp-build-your-own-ai-tool-ecosystem-7ef)
-- [# Comprehensive Monitoring &amp; Observability #llmszoomcamp](https://dev.to/abdelrahman_adnan/-comprehensive-monitoring-observability-llmszoomcamp-3985)
-- [# Medical RAG Architecture Overview #llmszoomcamp](https://dev.to/abdelrahman_adnan/-medical-rag-architecture-overview-llmszoomcamp-3mob)
-- [Preparing for a React interview](https://dev.to/04anilr/preparing-for-a-react-interview-3e27)
+- [Why Feature Flags Shouldn’t Be an Enterprise-Only Tool](https://dev.to/koreflags/why-feature-flags-shouldnt-be-an-enterprise-only-tool-51il)
+- [[Boost]](https://dev.to/jasper_go/-38b7)
+- [Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/ilakkiya_99033c7a7246d48b/transactions-deadlocks-log-based-recovery-in-sql-42nm)
+- [CSS Cheat Sheet: Everything You Need to Know in One Place](https://dev.to/tenelabs/css-cheat-sheet-everything-you-need-to-know-in-one-place-12no)
+- [# Medical RAG Architecture Overview #llmszoomcamp](https://dev.to/abdelrahman_adnan/-medical-rag-architecture-overview-llmszoomcamp-7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
