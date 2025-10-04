@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 50 Java Interview Questions and Answers](https://dev.to/narednra_reddyyadama_d64/top-50-java-interview-questions-and-answers-3e12)
 - [Cybersecurity Awareness Month: The Year in Breach](https://dev.to/toxsec/cybersecurity-awareness-month-the-year-in-breach-toxsec-68f)
 - [printed hello world, lol](https://dev.to/sammy_24/first-accomplishment-3737)
 - [PostgreSQL Backup the quick Way](https://dev.to/eddiegulay/postgresql-backup-the-quick-way-aii)
 - [Digital Ethics: The Dark Reality of Deepfakes](https://dev.to/sumit_shingolebtechcse/digital-ethics-the-dark-reality-of-deepfakes-4e9k)
-- [Manual Indexing Explained: Getting Your Page into Google Faster](https://dev.to/rijultp/manual-indexing-explained-getting-your-page-into-google-faster-g4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
