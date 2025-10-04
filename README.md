@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [why excel is still relevant in the era of power bi and python](https://dev.to/enock_kipngetich/why-excel-is-still-relevant-in-the-era-of-power-bi-and-python-d40)
-- [Why Flutter is the Go-To for Multi-Platform Apps in 2025](https://dev.to/techwithsam/why-flutter-is-the-go-to-for-multi-platform-apps-in-2025-2g3j)
-- [C# Tutorial: Build Your First Application with .NET Easily](https://dev.to/tpointtechblog/c-tutorial-build-your-first-application-with-net-easily-3da2)
-- [From Callback Hell to Coroutines: An Evolutionary History of Android Concurrency](https://dev.to/kavearhasi_viswanathan/from-callback-hell-to-coroutines-an-evolutionary-history-of-android-concurrency-55kj)
-- [Database Normalization Explained with SQL Examples &lpar;1NF, 2NF, 3NF&rpar;](https://dev.to/sanchayaa_s24cb052_9f4dd/database-normalization-explained-with-sql-examples-1nf-2nf-3nf-4121)
+- [Building a Scalable React Native Super App with Re.Pack &amp; Module Federation](https://dev.to/tmayank860/building-a-scalable-react-native-super-app-with-repack-module-federation-16ko)
+- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-1n6g)
+- [Bryson Dechambeau: Kevin Hart said WHAT to Bryson…? &lpar;Caddie Talk Best Moments&rpar;](https://dev.to/youtube_golf/bryson-dechambeau-kevin-hart-said-what-to-bryson-caddie-talk-best-moments-424n)
+- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-1o6)
+- [Danny Maude: If You Move Your Right Arm Like This It Can Ruin Your Golf Swing](https://dev.to/youtube_golf/danny-maude-if-you-move-your-right-arm-like-this-it-can-ruin-your-golf-swing-17ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
