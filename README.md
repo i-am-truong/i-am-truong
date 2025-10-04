@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a Polyglot Stack &lpar;Spring Boot + FastAPI&rpar; on GCP with Cloud Run, Cloud SQL, and Memorystore](https://dev.to/mrmajed7/deploy-a-polyglot-stack-spring-boot-fastapi-on-gcp-with-cloud-run-cloud-sql-and-redis-5ag7)
+- [MCP Server for Accessing Official Language Docs from AI Editors](https://dev.to/katsukatsu/mcp-server-for-accessing-official-language-docs-from-ai-editors-2d3i)
+- [Building Your First AI Agent in PHP with Symfony’s New AI Component and Ollama](https://dev.to/robertobutti/building-your-first-ai-agent-in-php-with-symfonys-new-ai-component-and-ollama-399a)
 - [A practical guide to relative paths on solution mapping files](https://dev.to/_neronotte/a-practical-guide-to-relative-paths-on-solution-mapping-files-hkm)
 - [Python. Project Structure &lpar;VIII&rpar;](https://dev.to/elferrer/python-project-structure-viii-17ha)
-- [Shift-left doesn&#39;t start with scanning the code for security vulnerabilities; it begins with designing it. Play yourself secure with OWASP Cornucopia Website Edition v2.2](https://dev.to/sydseter/shift-left-doesnt-start-with-scanning-the-code-for-security-vulnerabilities-it-begins-with-3cf8)
-- [Is Odin Just a More Boring C](https://dev.to/dayvster/is-odin-just-a-more-boring-c-9j7)
-- [Python. Project Structure &lpar;VII&rpar;](https://dev.to/elferrer/python-project-structure-vii-2ggd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
