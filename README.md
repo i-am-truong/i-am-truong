@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔑 NestJS Expert Series &lpar;Part 3&rpar;: Authentication &amp; Authorization with JWT and Guards your](https://dev.to/devto_with_yog/nestjs-expert-series-part-3-authentication-authorization-with-jwt-and-guards-your-1cgo)
 - [Python. Project Structure &lpar;V&rpar;](https://dev.to/elferrer/python-project-structure-v-h72)
 - [I Built a Complete Booking SaaS in Flask - Lessons Learned &lpar;and it&#39;s for sale&rpar;](https://dev.to/freddy_adeoye_59823132389/i-built-a-complete-booking-saas-in-flask-lessons-learned-and-its-for-sale-4o6n)
 - [Avoid the Temptation of bool](https://dev.to/pauljlucas/avoid-the-temptation-of-bool-5g31)
 - [💡 Ideias de SaaS Baseadas nas Tendências: coritiba x botafogo sp, leeds x tottenham, athletic x amazonas fc](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-coritiba-x-botafogo-sp-leeds-x-tottenham-athletic-x-4eam)
-- [💾 Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/prian_ss24cb042_1006e0f/transactions-deadlocks-log-based-recovery-in-sql-1a24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
