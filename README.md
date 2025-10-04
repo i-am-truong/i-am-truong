@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cursor + Trigger in MySQL](https://dev.to/atheeba_parveenja24cb0/cursor-trigger-in-mysql-1epg)
 - [🧾 Transactions, Deadlocks &amp; Log-Based Recovery in DBMS – A Practical Guide](https://dev.to/deepana_ee9087276132ad19f/transactions-deadlocks-log-based-recovery-in-dbms-a-practical-guide-22j1)
 - [AI in Retail: How to Forecast Demand and Reduce Dead Stock](https://dev.to/alepilot/ai-in-retail-how-to-forecast-demand-and-reduce-dead-stock-6nl)
 - [Observer Design Pattern](https://dev.to/alamfatima1999/observer-design-pattern-2kak)
-- [💬 The Art of Writing Comments: How to Talk to the Future You &lpar;and Everyone Else&rpar;](https://dev.to/charan_gutti_cf60c6185074/the-art-of-writing-comments-how-to-talk-to-the-future-you-and-everyone-else-2hi)
-- [🚀 Build a Sleek, Real-Time Dashboard in WPF using Data Binding and ItemsControl &lpar;C# .NET&rpar;](https://dev.to/vectoart_a497c516fac199bd/build-a-sleek-real-time-dashboard-in-wpf-using-data-binding-and-itemscontrol-c-net-3ddm)
+- [Strategy Design Pattern](https://dev.to/alamfatima1999/strategy-design-pattern-29jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
