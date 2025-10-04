@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Mexican Ninja - Official Demo Launch Teaser Trailer](https://dev.to/gg_news/ign-mexican-ninja-official-demo-launch-teaser-trailer-14ga)
-- [IGN: Kaiju No. 8 The Game - Official Soshiro Hoshina Character Trailer](https://dev.to/gg_news/ign-kaiju-no-8-the-game-official-soshiro-hoshina-character-trailer-3f0n)
-- [IGN: R.L. Stine&#39;s Pumpkinhead - Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-rl-stines-pumpkinhead-official-trailer-2025-77a)
-- [IGN: Liminal Point - Official Gameplay Trailer](https://dev.to/gg_news/ign-liminal-point-official-gameplay-trailer-1pmo)
-- [IGN: What Pokemon Reveals About Peacemaker&#39;s Earth-X - IGN Daily Fix](https://dev.to/gg_news/ign-what-pokemon-reveals-about-peacemakers-earth-x-ign-daily-fix-1khh)
+- [Make Your GoHighLevel Pages Feel Premium with Smooth Scrolling](https://dev.to/samee-ullah/make-your-gohighlevel-pages-feel-premium-with-smooth-scrolling-3k66)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4o9a)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-12o6)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-5934)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-3113)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
