@@ -79,16 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python. Project Structure &lpar;VII&rpar;](https://dev.to/elferrer/python-project-structure-vii-2ggd)
+- [When a Plugin Update Wiped Out Our Site — and Taught Us a Painful Lesson](https://dev.to/volixta/when-a-plugin-update-wiped-out-our-site-and-taught-us-a-painful-lesson-823)
+- [Bring CSS Colors to Your Terminal with Named Truecolors](https://dev.to/webdiscus/bring-css-colors-to-your-terminal-with-named-truecolors-4503)
+- [Automating AWS RDS Failover Alerts with Terraform and Lambda](https://dev.to/copubah/automating-aws-rds-failover-alerts-with-terraform-and-lambda-39a9)
 - [Python. Project Structure &lpar;VI&rpar;](https://dev.to/elferrer/python-project-structure-vi-5a00)
-- [Example Online Postgre – Rune + RedBean CLI Application](https://dev.to/anwarachilles/example-online-postgre-rune-redbean-cli-application-5b0p)
-- [Find the Maximum Area possible given different vertical lines on X-Axis &lpar;Leetcode Problem Analysis&rpar;](https://dev.to/bjorndonald_bassey_c126c/find-the-maximum-area-possible-given-different-vertical-lines-on-x-axis-leetcode-problem-analysis-2h9o)
-- [Never asked JavaScript interview question 🤪
-How will you create an object of class from other object 
-Normal way - 
-const jack = new Person&lpar;&rpar;; //using class name
-
-find a way to create tom object without using class name Person](https://dev.to/randhavevaibhav/never-asked-javascript-interview-question-how-will-you-create-an-object-of-class-from-other-37pb)
-- [NORMALIZATION](https://dev.to/sriram_pg_91a5c6c4af2ce74/normalization-58kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
