@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia&#39;s AI Kill Chain](https://dev.to/toxsec/nvidias-ai-kill-chain-4flo)
+- [My DevOps Journey: Part 7 - Mastering Networking for DevOps Engineers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-7-mastering-networking-for-devops-engineers-3eo8)
 - [Building a Complete AWS VPC with Load Balancer: A Step-by-Step Journey](https://dev.to/deepanshub09/building-a-complete-aws-vpc-with-load-balancer-a-step-by-step-journey-2oj8)
 - [Managing Prompts Without the Chaos: Simplifying AI Agent Development with Dakora](https://dev.to/mihai_lucianandrone_7564/managing-prompts-without-the-chaos-simplifying-ai-agent-development-with-dakora-l3n)
 - [Ingest data with a pipeline in Microsoft Fabric](https://dev.to/lotanna_obianefo/ingest-data-with-a-pipeline-in-microsoft-fabric-2cfo)
-- [#DAY 10:Adding an API JSON Query Monitor in Uptime Kuma](https://dev.to/samueladeduntan/day-10adding-an-api-json-query-monitor-in-uptime-kuma-5ggm)
-- [5 Free Books for Data Science &amp; Machine Learning](https://dev.to/anesmeftah/5-free-books-for-data-science-machine-learning-7ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
