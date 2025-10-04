@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cursor + Trigger in MySQL](https://dev.to/atheeba_parveenja24cb0/cursor-trigger-in-mysql-1epg)
-- [🧾 Transactions, Deadlocks &amp; Log-Based Recovery in DBMS – A Practical Guide](https://dev.to/deepana_ee9087276132ad19f/transactions-deadlocks-log-based-recovery-in-dbms-a-practical-guide-22j1)
-- [AI in Retail: How to Forecast Demand and Reduce Dead Stock](https://dev.to/alepilot/ai-in-retail-how-to-forecast-demand-and-reduce-dead-stock-6nl)
-- [Observer Design Pattern](https://dev.to/alamfatima1999/observer-design-pattern-2kak)
-- [Strategy Design Pattern](https://dev.to/alamfatima1999/strategy-design-pattern-29jo)
+- [Cursor +Trigger](https://dev.to/deepak_kumarb24cb007_7e/cursor-trigger-2f6c)
+- [SQL Cursors and Triggers](https://dev.to/ilakkiya_99033c7a7246d48b/sql-cursors-and-triggers-30f0)
+- [Quick Framework e algumas Melhorias de Performance](https://dev.to/jeffotoni/quick-framework-algumas-melhorias-de-performance-42af)
+- [Clickbait Detection with Machine Learning: A Complete Python Tutorial](https://dev.to/deviprasadshetty/clickbait-detection-with-machine-learning-a-complete-python-tutorial-hf8)
+- [Everyday Answers: React, JavaScript &amp; Frontend Explained Like Real Life &lpar;With Friendly Code &amp; Comments!&rpar;](https://dev.to/mourya_modugula/everyday-answers-react-javascript-frontend-explained-like-real-life-with-friendly-code--5co1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
