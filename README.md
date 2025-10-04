@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git is powerful, but it’s also a pain point for many developers. Here is how I use ChatGPT to manage my Git Workflows:](https://dev.to/jaideepparashar/git-is-powerful-but-its-also-a-pain-point-for-many-developers-here-is-how-i-use-chatgpt-to-44g8)
-- [How I Use AI to Manage Version Control &amp; Git Workflows](https://dev.to/jaideepparashar/how-i-use-ai-to-manage-version-control-git-workflows-bf3)
-- [Understanding ACID Properties with SQL Transactions](https://dev.to/boopathys_8ff57c77ea5a5e/understanding-acid-properties-with-sql-transactions-43k5)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-35oj)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4647)
+- [Understanding Linear Guides in Modern Engineering](https://dev.to/danie_brooks_dc7a891322b3/understanding-linear-guides-in-modern-engineering-nk5)
+- [Indexing, Hashing &amp; Query Optimization in liveSQL](https://dev.to/boopathys_8ff57c77ea5a5e/indexing-hashing-query-optimization-in-livesql-1682)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_f8c307c5/security-is-not-a-feature-its-a-foundation-4jjp)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_40446303/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-2d8m)
+- [Server Log Analysis: How to Use It for SEO](https://dev.to/ivanjarkov/server-log-analysis-how-to-use-it-for-seo-3ppd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
