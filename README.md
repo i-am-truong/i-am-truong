@@ -80,10 +80,15 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Secret Bottleneck Blocking Enterprise AI Agents—And the Surprising Fix](https://dev.to/aiwithapex/the-secret-bottleneck-blocking-enterprise-ai-agents-and-the-surprising-fix-2jph)
+- [Will AI Make Frontend Development a Conversation, Not a Job?](https://dev.to/dct_technology/will-ai-make-frontend-development-a-conversation-not-a-job-5jc)
+- [Database Normalization in SQL — 1NF, 2NF, and 3NF Explained &lpar;Student–Course Case Study&rpar;](https://dev.to/thushitha_tk_ffd2acfb6067/database-normalization-in-sql-1nf-2nf-and-3nf-explained-student-course-4oee)
+- [#Spring Boot Learning program - Week1
+Spring MVC Architecture, IOC Theory
+Set up IntelliJ IDE &amp; Maven
+Creating new project using Spring Initializer 
+Logging types in Spring Boot &lpar;DEBUG,INFO,WARN,ERROR&rpar;
+Build Custom Logger](https://dev.to/kamalesh_baskar_1d47d23a8/spring-boot-learning-program-week1-spring-mvc-architecture-ioc-theory-set-up-intellij-ide--4o58)
 - [🚀 Vyoma is Launching on Product Hunt this October 10th!](https://dev.to/pjdeveloper896/vyoma-is-launching-on-product-hunt-this-october-10th-3nh)
-- [Never Miss a Downtime: AWS Website Uptime Monitor with Terraform](https://dev.to/hasan_ashab/never-miss-a-downtime-aws-website-uptime-monitor-with-terraform-5f2o)
-- [Will the Web Survive When AI Becomes the Default Interface?](https://dev.to/dct_technology/will-the-web-survive-when-ai-becomes-the-default-interface-k0c)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3df0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
