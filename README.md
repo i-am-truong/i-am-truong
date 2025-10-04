@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [80% of JavaScript code comes from 20% of its features?](https://dev.to/rfranr/80-of-javascript-code-comes-from-20-of-its-features-3bpe)
 - [Nvidia&#39;s AI Kill Chain](https://dev.to/toxsec/nvidias-ai-kill-chain-4flo)
 - [My DevOps Journey: Part 7 - Mastering Networking for DevOps Engineers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-7-mastering-networking-for-devops-engineers-3eo8)
 - [Building a Complete AWS VPC with Load Balancer: A Step-by-Step Journey](https://dev.to/deepanshub09/building-a-complete-aws-vpc-with-load-balancer-a-step-by-step-journey-2oj8)
 - [Managing Prompts Without the Chaos: Simplifying AI Agent Development with Dakora](https://dev.to/mihai_lucianandrone_7564/managing-prompts-without-the-chaos-simplifying-ai-agent-development-with-dakora-l3n)
-- [Ingest data with a pipeline in Microsoft Fabric](https://dev.to/lotanna_obianefo/ingest-data-with-a-pipeline-in-microsoft-fabric-2cfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
