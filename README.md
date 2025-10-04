@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Music Therapy: How Listening Can Reduce Anxiety &lpar;Backed by Research&rpar;](https://dev.to/nvelup_e92618d5196e8d9f43/music-therapy-how-listening-can-reduce-anxiety-backed-by-research-pc8)
-- [Cursor + Trigger in SQL: A Beginner-Friendly Guide](https://dev.to/deepana_ee9087276132ad19f/cursor-trigger-in-sql-a-beginner-friendly-guide-577a)
-- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-1-3266)
-- [Figma MCP to Code with cursor](https://dev.to/konfydev/figma-mcp-to-code-5aeh)
-- [The Secure Network Automation Playbook: Using Ansible, Python, and GitOps for Security](https://dev.to/gagreatprogrammer/the-secure-network-automation-playbook-using-ansible-python-and-gitops-for-security-457j)
+- [TRIGGER AND CURSORS IN DBMS](https://dev.to/diksha_p24cb010_53ab7ba6/trigger-and-cursors-in-dbms-33cn)
+- [How We Built an AI Mock Interview System in 30 Days](https://dev.to/karmsakha/how-we-built-an-ai-mock-interview-system-in-30-days-2geh)
+- [React’s Leaner Twin? A Deep Dive into Preact](https://dev.to/nandan-parmar/reacts-leaner-twin-a-deep-dive-into-preact-4ilf)
+- [Let&#39;s &lpar;try to *&rpar; understand AI first.](https://dev.to/konfydev/lets-try-to-understand-ai-first-4kk9)
+- [Augmented Reality &lpar;AR&rpar;: Blending the Digital and Real Worlds](https://dev.to/rapidcellphone/augmented-reality-ar-blending-the-digital-and-real-worlds-2ijb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
