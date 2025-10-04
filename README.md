@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-4848)
-- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-1p64)
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2g40)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-35bg)
-- [IGN: Hollow Knight: Silksong - All Flea Locations | Fleafriend Achievement Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-all-flea-locations-fleafriend-achievement-guide-43in)
+- [How Machines Learn: Understanding the Core Concepts of Neural Networks](https://dev.to/programmerraja/how-machines-learn-understanding-the-core-concepts-of-neural-networks-3a9j)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-4bih)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2laj)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-263m)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-23ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
