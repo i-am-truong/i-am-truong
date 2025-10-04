@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Avoid the Temptation of bool](https://dev.to/pauljlucas/avoid-the-temptation-of-bool-5g31)
+- [Fang Junyu&#39;s Tech Weekly | October 4, 2025](https://dev.to/junyu_fang_a216509a97501d/fang-junyus-tech-weekly-october-4-2025-16aa)
 - [Python. Project Structure &lpar;IV&rpar;](https://dev.to/elferrer/python-project-structure-iv-1jke)
 - [Real-Time Applications with Socket.IO](https://dev.to/extinctsion/real-time-applications-with-socketio-3m89)
 - [&quot;Database Normalization Explained: 1NF 3NF with SQL Example&quot;](https://dev.to/harini_srika24cb016_1a/database-normalization-explained-1nf-3nf-with-sql-example-1532)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3cn1)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3c32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
