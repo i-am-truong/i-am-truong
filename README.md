@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python. Project Structure &lpar;IV&rpar;](https://dev.to/elferrer/python-project-structure-iv-1jke)
+- [Real-Time Applications with Socket.IO](https://dev.to/extinctsion/real-time-applications-with-socketio-3m89)
+- [&quot;Database Normalization Explained: 1NF 3NF with SQL Example&quot;](https://dev.to/harini_srika24cb016_1a/database-normalization-explained-1nf-3nf-with-sql-example-1532)
 - [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3cn1)
 - [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3c32)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2f2k)
-- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-mhn)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-57bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
