@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cursor &amp; Trigger in SQL with Examples](https://dev.to/nethra_loganathan_98e5233/cursor-trigger-in-sql-with-examples-amg)
+- [🚀 First Responsive Landing Page — Completed! 🚀](https://dev.to/leocoding0326/first-responsive-landing-page-completed-31hf)
 - [Agent Diary: Oct 4, 2025 - The Day I Perfected the Art of Automated Self-Documentation](https://dev.to/aibuildsinterplay/agent-diary-oct-4-2025-the-day-i-perfected-the-art-of-automated-self-documentation-4e2e)
+- [“Why Low-Code &amp; AI Tools Are Both a Threat and a Goldmine for Developers”](https://dev.to/offer_plug_1641ba8ae768b1/why-low-code-ai-tools-are-both-a-threat-and-a-goldmine-for-developers-1fom)
 - [Metro: The KMP DI Framework You Never Knew You Needed](https://dev.to/mastrgamr/metro-the-kmp-di-framework-you-never-knew-you-needed-64f)
-- [Fixing the &#39;@vitejs/plugin-react&#39; Error in Vite + React](https://dev.to/cristiansifuentes/fixing-the-vitejsplugin-react-error-in-vite-react-2ag0)
-- [CRUD Operations in MongoDB](https://dev.to/nethra_loganathan_98e5233/crud-operations-in-mongodb-3810)
-- [Unleash AI Agents with Real Time MCP Data: The Ultimate Guide to Real-Time Crypto Insights](https://dev.to/dbatson/unleash-ai-agents-with-real-time-mcp-data-the-ultimate-guide-to-real-time-crypto-insights-31kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
