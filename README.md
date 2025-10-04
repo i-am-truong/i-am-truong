@@ -79,10 +79,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Goose in Containers &lpar;Without Losing Your Mind&rpar;](https://dev.to/agasta/running-goose-in-containers-without-losing-your-mind-3m8)
+- [Bringing Digital Flavor: My Qdoba-Style Interactive Menu](https://dev.to/checkermenu_673e7cf13ec85/bringing-digital-flavor-my-qdoba-style-interactive-menu-346g)
 - [Automating Client Proposal Generation with Google Forms, Sheets, and Apps Script &lpar;Step-by-Step Guide&rpar;](https://dev.to/kangjessy/automating-client-proposal-generation-with-google-forms-sheets-and-apps-script-step-by-step-59aj)
 - [Introduction to Cloud Computing and AWS](https://dev.to/olymahmud/introduction-to-cloud-computing-and-aws-29li)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-5ah4)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-39jf)
 - [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-e3b)
 <!-- BLOG-POST-LIST:END -->
 
