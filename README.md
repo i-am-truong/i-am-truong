@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Crud Operation Using MongoDB](https://dev.to/dharaneeshtr007_971ede718/crud-operation-using-mongodb-4jk5)
 - [Why Cloud Incident Response is Critical for DevOps and IT Teams](https://dev.to/fahimfba/why-cloud-incident-response-is-critical-for-devops-and-it-teams-3foa)
 - [Cursor and Trigger in DBMS](https://dev.to/jerlin_vanessavincentpa/cursor-and-trigger-in-dbms-418b)
-- [Stop Mixing Them Up: Tailwind’s Space vs Gap Explained](https://dev.to/goldenekpendu/stop-mixing-them-up-tailwinds-space-vs-gap-explained-44m7)
-- [Building Custom Evaluators for AI Applications: A Technical Guide to AI Quality Assessment](https://dev.to/kuldeep_paul/building-custom-evaluators-for-ai-applications-a-technical-guide-to-ai-quality-assessment-28i3)
-- [Azure Container Instances](https://dev.to/godofgeeks/azure-container-instances-3pa0)
+- [Threat Intelligence Feeds Are Broken — And We’re Fixing the Trust Problem No One Talks About](https://dev.to/greykaizen/threat-intelligence-feeds-are-broken-and-were-fixing-the-trust-problem-no-one-talks-about-2eba)
+- [Lesson 8: Strategy Batch Comparison](https://dev.to/henry_lin_3ac6363747f45b4/lesson-8-strategy-batch-comparison-587i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
