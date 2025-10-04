@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Crud Operation Using MongoDB](https://dev.to/dharaneeshtr007_971ede718/crud-operation-using-mongodb-4jk5)
-- [Why Cloud Incident Response is Critical for DevOps and IT Teams](https://dev.to/fahimfba/why-cloud-incident-response-is-critical-for-devops-and-it-teams-3foa)
-- [Cursor and Trigger in DBMS](https://dev.to/jerlin_vanessavincentpa/cursor-and-trigger-in-dbms-418b)
-- [Threat Intelligence Feeds Are Broken — And We’re Fixing the Trust Problem No One Talks About](https://dev.to/greykaizen/threat-intelligence-feeds-are-broken-and-were-fixing-the-trust-problem-no-one-talks-about-2eba)
-- [Lesson 8: Strategy Batch Comparison](https://dev.to/henry_lin_3ac6363747f45b4/lesson-8-strategy-batch-comparison-587i)
+- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-4848)
+- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-1p64)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2g40)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-35bg)
+- [IGN: Hollow Knight: Silksong - All Flea Locations | Fleafriend Achievement Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-all-flea-locations-fleafriend-achievement-guide-43in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
