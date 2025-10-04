@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A practical guide to relative paths on solution mapping files](https://dev.to/_neronotte/a-practical-guide-to-relative-paths-on-solution-mapping-files-hkm)
+- [Python. Project Structure &lpar;VIII&rpar;](https://dev.to/elferrer/python-project-structure-viii-17ha)
+- [Shift-left doesn&#39;t start with scanning the code for security vulnerabilities; it begins with designing it. Play yourself secure with OWASP Cornucopia Website Edition v2.2](https://dev.to/sydseter/shift-left-doesnt-start-with-scanning-the-code-for-security-vulnerabilities-it-begins-with-3cf8)
+- [Is Odin Just a More Boring C](https://dev.to/dayvster/is-odin-just-a-more-boring-c-9j7)
 - [Python. Project Structure &lpar;VII&rpar;](https://dev.to/elferrer/python-project-structure-vii-2ggd)
-- [When a Plugin Update Wiped Out Our Site — and Taught Us a Painful Lesson](https://dev.to/volixta/when-a-plugin-update-wiped-out-our-site-and-taught-us-a-painful-lesson-823)
-- [Bring CSS Colors to Your Terminal with Named Truecolors](https://dev.to/webdiscus/bring-css-colors-to-your-terminal-with-named-truecolors-4503)
-- [Automating AWS RDS Failover Alerts with Terraform and Lambda](https://dev.to/copubah/automating-aws-rds-failover-alerts-with-terraform-and-lambda-39a9)
-- [Python. Project Structure &lpar;VI&rpar;](https://dev.to/elferrer/python-project-structure-vi-5a00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
