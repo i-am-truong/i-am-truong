@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Smart Contact Routing System Using GoHighLevel, Aloware, and Make](https://dev.to/rodgayacao01/smart-contact-routing-system-using-gohighlevel-aloware-and-make-4p53)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_f8c307c5/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-3mdn)
+- [How to sync iOS build numbers &lpar;Expo + EAS + App Store Connect&rpar;](https://dev.to/cathylai/how-to-sync-ios-build-numbers-expo-eas-app-store-connect-2ldg)
 - [What is a Cronjob and understanding syntax](https://dev.to/aasik_20409e3305686b324ec/what-is-a-cronjob-and-understanding-syntax-2p6p)
 - [How Nexy Makes Sure Nothing Slips Through the Cracks](https://dev.to/nexy/how-nexy-makes-sure-nothing-slips-through-the-cracks-lpk)
-- [Day 3 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-3-of-100-days-dsa-coding-challenge-3280)
-- [The Secret Bottleneck Blocking Enterprise AI Agents—And the Surprising Fix](https://dev.to/aiwithapex/the-secret-bottleneck-blocking-enterprise-ai-agents-and-the-surprising-fix-2jph)
-- [Will AI Make Frontend Development a Conversation, Not a Job?](https://dev.to/dct_technology/will-ai-make-frontend-development-a-conversation-not-a-job-5jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
