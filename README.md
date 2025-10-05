@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI in Regulated Industries: Challenges and Opportunities](https://dev.to/himani_0b4c9fc3c2ab3a1700/ai-in-regulated-industries-challenges-and-opportunities-2lg0)
+- [I made an open-source, ad-free content downloader that simply works](https://dev.to/prassamin/i-made-an-open-source-ad-free-content-downloader-that-simply-works-3j5c)
+- [The Silent Co-Pilot: How AI is redefining the Network and the Network Engineer](https://dev.to/ksujan/the-silent-co-pilot-how-ai-is-redefining-the-network-and-the-network-engineer-4l4o)
+- [Почему нейросети врут, забывают промт и контекст диалога?](https://dev.to/yojikzubrowsky_5a87b91785/pochiemu-nieirosieti-vrut-zabyvaiut-promt-i-kontiekst-dialogha-dag)
 - [selenium](https://dev.to/gokila_selvaraj_8a3278587/selenium-5271)
-- [🎪 The Great DevOps Circus: How I Deployed a Full-Stack App Without Losing My Mind &lpar;A Beginner&#39;s Survival Guide&rpar;.](https://dev.to/c_6b7a8e65d067ddc62/the-great-devops-circus-how-i-deployed-a-full-stack-app-without-losing-my-mind-a-beginners-4jfc)
-- [Artificial Intelligence in Music Composition: Unlocking Human Creativity](https://dev.to/pushkar_gautamaryan_ca/artificial-intelligence-in-music-composition-unlocking-human-creativity-2i5)
-- [Uma hipótese para os layoffs do Itaú](https://dev.to/talking-about-testing/uma-hipotese-para-os-layoffs-do-itau-304f)
-- [🎲 Build a Dice Rolling Simulator in Java](https://dev.to/mohamad_mhana/build-a-dice-rolling-simulator-in-java-2gmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
