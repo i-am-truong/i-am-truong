@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [🐈💀 When My AIs Died: The Rise and Fall of Lynqbit &amp; BarnOwl](https://dev.to/puneetkumar2010/when-my-ais-died-the-rise-and-fall-of-lynqbit-barnowl-4b9p)
 - [How to Automate Extracting Documents from MS Access OLE Object Columns](https://dev.to/intellicon/how-to-automate-extracting-documents-from-ms-access-ole-object-columns-ko7)
+- [MCP vs API: What&#39;s the Difference? Will MCP Replace APIs in AI-Driven Systems?](https://dev.to/manonaga2188/mcp-vs-api-whats-the-difference-will-mcp-replace-apis-in-ai-driven-systems-24ao)
+- [From the Ghetto to Web3: How I Taught Myself to Build Smart Contracts and AI powered Saas](https://dev.to/jamaicanphilomath/from-the-ghetto-to-web3-how-i-taught-myself-to-build-smart-contracts-and-ai-powered-saas-22if)
 - [Stop Fighting Sanity&#39;s Portable Text - Here&#39;s How to Use Markdown Instead](https://dev.to/setasena_randata_1cfa30f4/stop-fighting-sanitys-portable-text-heres-how-to-use-markdown-instead-47cb)
-- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/reshma_devi_ba32b2f54397d/indexing-hashing-query-optimization-in-dbms-965)
-- [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
