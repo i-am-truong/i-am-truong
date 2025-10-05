@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Send Emails in Node.js with Nodemailer: A 2025 Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/how-to-send-emails-in-nodejs-with-nodemailer-a-2025-guide-1k09)
+- [Deep Dive into AWS Cloud WAN Core Network Policy: Configuration, Examples, and Strategy](https://dev.to/masakiokuda/deep-dive-into-aws-cloud-wan-core-network-policy-configuration-examples-and-strategy-30eo)
+- [How to Convert AWS Clicks into CDK/CloudFormation &lpar;The EASY Way&rpar;](https://dev.to/aws-builders/how-to-convert-aws-clicks-into-cdkcloudformation-the-easy-way-14lg)
 - [🧙‍♂️ The Ultimate Git Wizard Guide — Time-Saving Tricks, Hidden Powers &amp; Tools That Make You Unstoppable](https://dev.to/charan_gutti_cf60c6185074/the-ultimate-git-wizard-guide-time-saving-tricks-hidden-powers-tools-that-make-you-2l9e)
 - [Angular Create App Loader Directive](https://dev.to/adamclayd/angular-create-app-loader-directive-4gm2)
-- [React 19.2&#39;s useEffectEvent vs our Custom useEventCallback](https://dev.to/hashcode01/react-192s-useeffectevent-vs-our-custom-useeventcallback-i45)
-- [Share us your project for Hacktoberfest 2025! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2025-59h2)
-- [The Power Platform – An Introduction for Beginners](https://dev.to/jocke_sjlin_4ca0d80beae0/the-power-platform-an-introduction-for-beginners-4d6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
