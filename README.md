@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB](https://dev.to/terera_faithtanaka24cb0/mongodb-2oo3)
+- [Circuit Breaker In Javascript](https://dev.to/2devyank/circuit-breaker-in-javascript-359h)
+- [📊 Exploring SQL Transactions, Deadlocks &amp; Log Based Recovery](https://dev.to/rohith_95/exploring-sql-transactions-deadlocks-log-based-recovery-4hli)
+- [Wireless Earbuds: The Future of Portable Audio](https://dev.to/phoneexits/wireless-earbuds-the-future-of-portable-audio-1e3g)
 - [The Tools That Make My Terminal WorK](https://dev.to/josephschmitt/the-tools-that-make-my-terminal-work-3ka6)
-- [Whats next?](https://dev.to/pooch1e/whats-next-1mpg)
-- [Data Table From Scratch. Part 9: Delete Rows](https://dev.to/morewings/data-table-from-scratch-part-9-delete-rows-3a93)
-- [Shipping Without the Slop: A Receipts-First Workflow for Marketing Copy](https://dev.to/viablemedia/shipping-without-the-slop-a-receipts-first-workflow-for-marketing-copy-nao)
-- [Introducing the AWS EKS best practices Mindmap](https://dev.to/aws-builders/introducing-the-aws-eks-best-practices-mindmap-30lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
