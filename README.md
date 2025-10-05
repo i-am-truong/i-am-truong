@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🪨 Realistic Rocks &amp; Cliffs Pack – Natural Terrain Assets for Roblox](https://dev.to/castle_crafts_dc94a18fcac/realistic-rocks-cliffs-pack-natural-terrain-assets-for-roblox-ldd)
+- [❄️ Snowy Forest Showcase – A Stunning Winter Environment for Roblox](https://dev.to/castle_crafts_dc94a18fcac/snowy-forest-showcase-a-stunning-winter-environment-for-roblox-5hm5)
+- [🏙️ Troica — A Versatile Roblox Asset by KW Studio](https://dev.to/castle_crafts_dc94a18fcac/troica-a-versatile-roblox-asset-by-kw-studio-1fnh)
 - [AI in Regulated Industries: Challenges and Opportunities](https://dev.to/himani_0b4c9fc3c2ab3a1700/ai-in-regulated-industries-challenges-and-opportunities-2lg0)
 - [I made an open-source, ad-free content downloader that simply works](https://dev.to/prassamin/i-made-an-open-source-ad-free-content-downloader-that-simply-works-3j5c)
-- [The Silent Co-Pilot: How AI is redefining the Network and the Network Engineer](https://dev.to/ksujan/the-silent-co-pilot-how-ai-is-redefining-the-network-and-the-network-engineer-4l4o)
-- [Почему нейросети врут, забывают промт и контекст диалога?](https://dev.to/yojikzubrowsky_5a87b91785/pochiemu-nieirosieti-vrut-zabyvaiut-promt-i-kontiekst-dialogha-dag)
-- [selenium](https://dev.to/gokila_selvaraj_8a3278587/selenium-5271)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
