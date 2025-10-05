@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Laravel Lifecycle &lpar;Explained for Beginners&rpar;](https://dev.to/arafatweb/understanding-the-laravel-lifecycle-explained-for-beginners-dc6)
+- [REST Pagination techniques](https://dev.to/kanakos01/rest-pagination-techniques-p9b)
 - [I Built a Subscription Tracker in 14 Days Using Angular 20 &lpar;And Made $0… Yet&rpar;](https://dev.to/karol_modelski/i-built-a-subscription-tracker-in-14-days-using-angular-20-and-made-0-yet-2hid)
 - [📖 Understanding Uniface 10.4 Help Texts: A Simple Guide](https://dev.to/petercode/understanding-uniface-104-help-texts-a-simple-guide-1g62)
 - [Reflections on Designing a Search Autocomplete System](https://dev.to/andersontsai/reflections-on-designing-a-search-autocomplete-system-2j87)
-- [📝 Working with Messages in Uniface 10.4: A Simple Guide](https://dev.to/petercode/working-with-messages-in-uniface-104-a-simple-guide-5h72)
-- [📝 Understanding Messages in Uniface 10.4: Building Multilingual Applications](https://dev.to/petercode/understanding-messages-in-uniface-104-building-multilingual-applications-1m4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
