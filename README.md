@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Serve Multiple Themes in Rails Using Sass and esbuild](https://dev.to/hersoftsyntax/how-to-serve-multiple-themes-in-rails-using-sass-and-esbuild-5a68)
+- [Sleek &amp; Modern WPF: Build a Real-Time Word Counter Dashboard &lpar;C# Tutorial&rpar;](https://dev.to/vectoart_a497c516fac199bd/sleek-modern-wpf-build-a-real-time-word-counter-dashboard-c-tutorial-58dh)
+- [Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/understanding-transactions-deadlocks-log-based-recovery-in-sql-1m83)
 - [SvelteKit RPC with Hono](https://dev.to/tolu/sveltekit-rpc-with-hono-mje)
 - [Complete Guide: ComfyUI WAN 2.2 on RunPod](https://dev.to/shahtab_mohtasin_a5e8388d/complete-guide-comfyui-wan-22-on-runpod-5ge7)
-- [Understanding Solidity: My Line-by-Line Explanation](https://dev.to/ekong_jemimah_419fb2fc084/understanding-solidity-my-line-by-line-explanation-1fpe)
-- [Understanding ACID Properties in SQL with Examples](https://dev.to/vishnupriya_k_678c3b9ea11/understanding-acid-properties-in-sql-with-examples-24l4)
-- [Building a Multi-Agent Candidate Search System with Azure AI Foundry](https://dev.to/sreeni5018/building-a-multi-agent-candidate-search-system-with-azure-ai-foundry-5gcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
