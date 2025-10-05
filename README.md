@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Jules: Always on My Radar, But Never Quite the Star](https://dev.to/pinishv/google-jules-always-on-my-radar-but-never-quite-the-star-3gba)
-- [Cursor + Trigger — SQL Practice](https://dev.to/harini_srika24cb016_1a/cursor-trigger-sql-practice-ko8)
-- [03. Struktur Folder React Native](https://dev.to/sandatya_widhi_ce7cb1c809/03-struktur-folder-react-native-1ik1)
-- [🪨 Realistic Rocks &amp; Cliffs Pack – Natural Terrain Assets for Roblox](https://dev.to/castle_crafts_dc94a18fcac/realistic-rocks-cliffs-pack-natural-terrain-assets-for-roblox-ldd)
-- [❄️ Snowy Forest Showcase – A Stunning Winter Environment for Roblox](https://dev.to/castle_crafts_dc94a18fcac/snowy-forest-showcase-a-stunning-winter-environment-for-roblox-5hm5)
+- [🚀 Uploading Your Code with Arduino IDE](https://dev.to/mohamed_ahmed_dev/uploading-your-code-with-arduino-ide-3k29)
+- [Stop Fighting Circular Imports](https://dev.to/nicocrm/stop-fighting-circular-imports-5312)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-43ok)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3mal)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3861)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
