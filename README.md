@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Razen v1.1-preview.0 Release](https://dev.to/prathmesh_pro/razen-v11-preview0-release-29mj)
-- [Building My Smart 2nd Brain, Part 3: API and UI Explained](https://dev.to/jimmyhott/building-my-smart-2nd-brain-part-3-api-and-ui-explained-4gip)
-- [🐈💀 When My AIs Died: The Rise and Fall of Lynqbit &amp; BarnOwl](https://dev.to/puneetkumar2010/when-my-ais-died-the-rise-and-fall-of-lynqbit-barnowl-4b9p)
-- [How to Automate Extracting Documents from MS Access OLE Object Columns](https://dev.to/intellicon/how-to-automate-extracting-documents-from-ms-access-ole-object-columns-ko7)
-- [MCP vs API: What&#39;s the Difference? Will MCP Replace APIs in AI-Driven Systems?](https://dev.to/manonaga2188/mcp-vs-api-whats-the-difference-will-mcp-replace-apis-in-ai-driven-systems-24ao)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4ofa)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-58o0)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-1fc7)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2f51)
+- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-2ieb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
