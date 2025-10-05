@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Jules: Always on My Radar, But Never Quite the Star](https://dev.to/pinishv/google-jules-always-on-my-radar-but-never-quite-the-star-3gba)
+- [Cursor + Trigger — SQL Practice](https://dev.to/harini_srika24cb016_1a/cursor-trigger-sql-practice-ko8)
+- [03. Struktur Folder React Native](https://dev.to/sandatya_widhi_ce7cb1c809/03-struktur-folder-react-native-1ik1)
 - [🪨 Realistic Rocks &amp; Cliffs Pack – Natural Terrain Assets for Roblox](https://dev.to/castle_crafts_dc94a18fcac/realistic-rocks-cliffs-pack-natural-terrain-assets-for-roblox-ldd)
 - [❄️ Snowy Forest Showcase – A Stunning Winter Environment for Roblox](https://dev.to/castle_crafts_dc94a18fcac/snowy-forest-showcase-a-stunning-winter-environment-for-roblox-5hm5)
-- [🏙️ Troica — A Versatile Roblox Asset by KW Studio](https://dev.to/castle_crafts_dc94a18fcac/troica-a-versatile-roblox-asset-by-kw-studio-1fnh)
-- [AI in Regulated Industries: Challenges and Opportunities](https://dev.to/himani_0b4c9fc3c2ab3a1700/ai-in-regulated-industries-challenges-and-opportunities-2lg0)
-- [I made an open-source, ad-free content downloader that simply works](https://dev.to/prassamin/i-made-an-open-source-ad-free-content-downloader-that-simply-works-3j5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
