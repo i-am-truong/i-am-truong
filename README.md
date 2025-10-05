@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Engineering Scalability Crisis: Why Standard Code Structures Matter More Than Ever](https://dev.to/siy/the-engineering-scalability-crisis-why-standard-code-structures-matter-more-than-ever-37e8)
 - [Orchestro: Trello for Claude Code — with a built-in Scrum Master](https://dev.to/dpelleri/orchestro-trello-for-claude-code-with-a-built-in-scrum-master-1e3e)
 - [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-11i7)
 - [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1i62)
 - [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2kbk)
-- [Lambda function scaling vs aws batch](https://dev.to/wakeup_flower_8591a6cb6a9/lambda-function-scaling-vs-aws-batch-46pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
