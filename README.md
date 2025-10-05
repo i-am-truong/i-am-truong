@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cursor and Trigger in DBMS](https://dev.to/reshma_devi_ba32b2f54397d/cursor-and-trigger-in-dbms-4pp2)
-- [From Scrum to Extreme Scrum: How to Supercharge Agile Teams](https://dev.to/aziziyazit/from-scrum-to-extreme-scrum-how-to-supercharge-agile-teams-5ddg)
-- [Database Normalization](https://dev.to/reshma_devi_ba32b2f54397d/database-normalization-5213)
-- [Build Your First MCP Server Using Spring Boot](https://dev.to/porass/create-your-first-mcp-server-in-spring-boot-1lpp)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-ao7)
+- [DBMS - Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/reshma_devi_ba32b2f54397d/dbms-transactions-deadlocks-log-based-recovery-4173)
+- [Your Smart Home is Betraying You: How to Secure IoT Devices &lpar;Cameras, Speakers, Kettles&rpar;](https://dev.to/yanix_yanix_d22423595186a/your-smart-home-is-betraying-you-how-to-secure-iot-devices-cameras-speakers-kettles-34hg)
+- [I Spent 6 Hours Per Blog Post Until I Built This AI Content Platform](https://dev.to/setasena_randata_1cfa30f4/i-spent-6-hours-per-blog-post-until-i-built-this-ai-content-platform-2m14)
+- [🎨 Django Templates &amp; Static Files – Building Dynamic HTML](https://dev.to/gopal_ghate_5bda01b730e45/django-templates-static-files-building-dynamic-html-article-5-41cb)
+- [FlexColorScheme in Flutter: The Smarter Way to Theme Your Apps](https://dev.to/bestaoui_aymen/flexcolorscheme-in-flutter-the-smarter-way-to-theme-your-apps-3fml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
