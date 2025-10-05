@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ASP .NET Core FluentValidation](https://dev.to/karenpayneoregon/aspnet-core-fluentvalidation-16nc)
-- [100 Days of DevOps: Day 62.](https://dev.to/wycliffealphus/100-days-of-devops-day-62-31he)
-- [Hack&#39;spire25 on top 💥🔥](https://dev.to/debaditya_saha_5b45172210/hackspire25-on-top-4lco)
-- [100 Days of DevOps: Day 62](https://dev.to/wycliffealphus/100-days-of-devops-day-63-20bi)
-- [Explorando o Java 25: O Que Há de Novo na Última Versão LTS do Java](https://dev.to/ikauedev/explorando-o-java-25-o-que-ha-de-novo-na-ultima-versao-lts-do-java-50gj)
+- [Post 2/10 — Reliability by Design: Probes, PodDisruptionBudgets, and Topology Spread Constraints](https://dev.to/cloud-sky-ops/post-210-reliability-by-design-probes-poddisruptionbudgets-and-topology-spread-constraints-473d)
+- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/ilakkiya_99033c7a7246d48b/indexing-hashing-query-optimization-in-sql-5ell)
+- [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://dev.to/technoblogger14o3/proofofthought-llm-based-reasoning-using-z3-theorem-proving-1jkh)
+- [Testing the product as an end user.](https://dev.to/saikrishna_oggu/testing-the-product-as-an-end-user-2hll)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
