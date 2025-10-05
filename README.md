@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Secret to Secure Cloud Access from Restricted Regions: Reverse Proxy Everything](https://dev.to/salim_adedeji_233f2fcf315/the-secret-to-secure-cloud-access-from-restricted-regions-reverse-proxy-everything-15lc)
+- [How I Built a Reminder System for Senior Care Centers Using Raspberry Pi and RFID](https://dev.to/bragadheshwaran_kk_0a9839/how-i-built-a-reminder-system-for-senior-care-centers-using-raspberry-pi-and-rfid-5g3n)
+- [How the Internet Works &lpar;Simplified for Developers&rpar;](https://dev.to/abdul_basitmuhyideen_278/how-the-internet-works-simplified-for-developers-3078)
+- [Why I&#39;m Learning 3D Graphics After 20 Years in Tech](https://dev.to/emilioacevedodev/why-im-learning-3d-graphics-after-20-years-in-tech-35c8)
 - [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/indexing-hashing-query-optimization-in-sql-2cnn)
-- [How to Serve Multiple Themes in Rails Using Sass and esbuild](https://dev.to/hersoftsyntax/how-to-serve-multiple-themes-in-rails-using-sass-and-esbuild-5a68)
-- [Sleek &amp; Modern WPF: Build a Real-Time Word Counter Dashboard &lpar;C# Tutorial&rpar;](https://dev.to/vectoart_a497c516fac199bd/sleek-modern-wpf-build-a-real-time-word-counter-dashboard-c-tutorial-58dh)
-- [Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/understanding-transactions-deadlocks-log-based-recovery-in-sql-1m83)
-- [SvelteKit RPC with Hono](https://dev.to/tolu/sveltekit-rpc-with-hono-mje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
