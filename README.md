@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Scrum to Extreme Scrum: How to Supercharge Agile Teams](https://dev.to/aziziyazit/from-scrum-to-extreme-scrum-how-to-supercharge-agile-teams-5ddg)
+- [Database Normalization](https://dev.to/reshma_devi_ba32b2f54397d/database-normalization-5213)
 - [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-311p)
 - [Build Your First MCP Server Using Spring Boot](https://dev.to/porass/create-your-first-mcp-server-in-spring-boot-1lpp)
 - [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-32l8)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4jib)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-ao7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
