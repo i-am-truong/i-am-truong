@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
 - [How to Deploy n8n with Defang](https://dev.to/toki_hossain/how-to-deploy-n8n-with-defang-34n5)
 - [🛠️ Hacktoberfest 2025 — 17 Pull Requests in One Day, for the Love of Clean Code 😅🤖🧠](https://dev.to/boly38/hacktoberfest-2025-17-pull-requests-en-une-journee-par-amour-du-code-propre-1hp4)
 - [O que é o Método RED para Observabilidade](https://dev.to/rafaelbonilha/o-que-e-o-metodo-red-para-observabilidade-3l0i)
 - [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-ld)
-- [How to draw province borders](https://dev.to/edmondkeaton/how-to-draw-province-borders-3ao7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
