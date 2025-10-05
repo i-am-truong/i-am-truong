@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mr Sunday Movies: The Mummy 2017 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-mummy-2017-caravan-of-garbage-m59)
+- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/arun_prasath_fa013c5e6085/indexing-hashing-query-optimization-in-dbms-b9p)
 - [DBMS - Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/arun_prasath_fa013c5e6085/dbms-transactions-deadlocks-log-based-recovery-26g7)
 - [Database Normalization in Oracle SQL — From 1NF to 3NF with Example](https://dev.to/nethra_loganathan_98e5233/database-normalization-in-oracle-sql-from-1nf-to-3nf-with-example-4202)
 - [“𝗘𝗧𝗟 𝗶𝘀 𝗘𝘃𝗼𝗹𝘃𝗶𝗻𝗴 — 𝗔𝗿𝗲 𝗬𝗼𝘂?”](https://dev.to/supraja_tangella_b7f0738e/--53p1)
-- [Understanding the Laravel Lifecycle &lpar;Explained for Beginners&rpar;](https://dev.to/arafatweb/understanding-the-laravel-lifecycle-explained-for-beginners-dc6)
-- [How to Secure Your ASP.NET Web API with JWT Bearer Authentication &lpar;Step-by-Step Guide&rpar;](https://dev.to/shahed1bd/how-to-secure-your-aspnet-web-api-with-jwt-bearer-authentication-step-by-step-guide-35h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
