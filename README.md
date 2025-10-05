@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Must-Read OOP, UML, and Design Patterns Books for Software Engineers](https://dev.to/somadevtoo/5-must-read-oop-uml-and-design-patterns-books-for-software-engineers-38id)
+- [Switching Me Softly: Zero‑Downtime PostgreSQL 12 17 at Fresha](https://dev.to/borzoni/switching-me-softly-zero-downtime-postgresql-12-17-at-fresha-3ia7)
+- [range&lpar;&rpar; in python](https://dev.to/hyperkai/range-in-python-1imj)
+- [Devoxx: Hello &lpar;Virtual&rpar; World by Keren Kenzi](https://dev.to/scale_youtube/devoxx-hello-virtual-world-by-keren-kenzi-5hb9)
 - [Ovi: An Open Source Alternative To Veo 3 &amp; Sora 2 that can generate AI Videos with Audio](https://dev.to/firethering/ovi-an-open-source-alternative-to-veo-3-sora-2-that-can-generate-ai-videos-with-audio-hea)
-- [MongoDB in Action: Building a Smart Student Database with CRUD Operations](https://dev.to/thushitha_tk_ffd2acfb6067/mongodb-in-action-building-a-smart-student-database-with-crud-operations-2n9j)
-- [The Future is Composable: Orchestrating Multiple APIs with FastServe MCP Servers](https://dev.to/parthasarathy_20760c4a03a/the-future-is-composable-orchestrating-multiple-apis-with-fastserve-mcp-servers-54p6)
-- [Exploring the Mysteries of the Universe with AI and Astro Quantum](https://dev.to/quantumshell/exploring-the-mysteries-of-the-universe-with-ai-and-astro-quantum-25e5)
-- [JS: The underrated Font Load API](https://dev.to/spo0q/js-the-underrated-font-load-api-3dmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
