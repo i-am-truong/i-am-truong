@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Post 2/10 — Reliability by Design: Probes, PodDisruptionBudgets, and Topology Spread Constraints](https://dev.to/cloud-sky-ops/post-210-reliability-by-design-probes-poddisruptionbudgets-and-topology-spread-constraints-473d)
-- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/ilakkiya_99033c7a7246d48b/indexing-hashing-query-optimization-in-sql-5ell)
-- [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://dev.to/technoblogger14o3/proofofthought-llm-based-reasoning-using-z3-theorem-proving-1jkh)
-- [Testing the product as an end user.](https://dev.to/saikrishna_oggu/testing-the-product-as-an-end-user-2hll)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1c8)
+- [Some reflections after passing the AWS Certified Machine Learning Engineer - Associate exam:](https://dev.to/camille_chang/some-reflections-after-passing-the-aws-certified-machine-learning-engineer-associate-exam-kn4)
+- [50 Most Useful TypeScript Snippets](https://dev.to/softwaredeveloper01/50-most-useful-typescript-snippets-5c1p)
+- [Most developers end up spending time on repetitive tasks, while the best developers focus on optimisation. If you are not optimising, you are leaving space for creative work.](https://dev.to/jaideepparashar/most-developers-end-up-spending-time-on-repetitive-tasks-while-the-best-developers-focus-on-jol)
+- [Scaling Projects: How AI Transforms DevOps &amp; Continuous Integration](https://dev.to/jaideepparashar/scaling-projects-how-ai-transforms-devops-continuous-integration-45p)
+- [What Hetzner Is &lpar;and Why Developers Love It&rpar;](https://dev.to/thekarlesi/what-hetzner-is-and-why-developers-love-it-l35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
