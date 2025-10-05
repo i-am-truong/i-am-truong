@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎧 Cómo hice un recortador de audio MP3 online con FastAPI + FFmpeg](https://dev.to/whario/como-hice-un-recortador-de-audio-mp3-online-con-fastapi-ffmpeg-4m3o)
 - [How to Create an IoT App in Kotlin Multiplatform](https://dev.to/koral/how-to-create-an-iot-app-in-kotlin-multiplatform-204m)
 - [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
 - [AI Agents for Marketing: A Real-World Content Automation Case Study](https://dev.to/jucelinux/ai-agents-for-marketing-a-real-world-content-automation-case-study-24kn)
 - [How to Deploy n8n with Defang](https://dev.to/toki_hossain/how-to-deploy-n8n-with-defang-34n5)
-- [Devoxx: Hello &lpar;Virtual&rpar; World by Keren Kenzi](https://dev.to/scale_youtube/devoxx-hello-virtual-world-by-keren-kenzi-1jn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
