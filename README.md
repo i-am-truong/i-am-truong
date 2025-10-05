@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix audio not working on Ubuntu 24.04.3 &lpar;at least in my case&rpar;](https://dev.to/cheulong/fix-audio-not-working-on-ubuntu-24043-at-least-in-my-case-1e4j)
+- [SplitWire-Turkey Kurulumu ve Discord İçin DPI Aşımı Yöntemleri](https://dev.to/eagledfc/splitwire-turkey-kurulum-rehberi-alternatif-araclar-2aj)
 - [🚀 Uploading Your Code with Arduino IDE](https://dev.to/mohamed_ahmed_dev/uploading-your-code-with-arduino-ide-3k29)
 - [Stop Fighting Circular Imports](https://dev.to/nicocrm/stop-fighting-circular-imports-5312)
 - [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-43ok)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3mal)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3861)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
