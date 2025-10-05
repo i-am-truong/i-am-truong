@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Modern Network Observability Stack: Combining Prometheus, Grafana, and Loki for Deep Insight](https://dev.to/gagreatprogrammer/building-a-modern-network-observability-stack-combining-prometheus-grafana-and-loki-for-deep-43f5)
+- [10 Cool CodePen Demos &lpar;September 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2025-2i7h)
 - [I think you should let AI write your code](https://dev.to/koladev/i-think-you-should-let-ai-write-your-code-2jgj)
 - [If You Know These 30 JavaScript One-Liners, You’re Fast](https://dev.to/ssukhpinder/if-you-know-these-30-javascript-one-liners-youre-fast-41lk)
 - [Build a Real-Time Chat App: A Complete Node.js &amp; Socket.IO Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/build-a-real-time-chat-app-a-complete-nodejs-socketio-guide-40pl)
-- [How to Send Emails in Node.js with Nodemailer: A 2025 Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/how-to-send-emails-in-nodejs-with-nodemailer-a-2025-guide-1k09)
-- [Deep Dive into AWS Cloud WAN Core Network Policy: Configuration, Examples, and Strategy](https://dev.to/masakiokuda/deep-dive-into-aws-cloud-wan-core-network-policy-configuration-examples-and-strategy-30eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
