@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Engineering Scalability Crisis: Why Standard Code Structures Matter More Than Ever](https://dev.to/siy/the-engineering-scalability-crisis-why-standard-code-structures-matter-more-than-ever-37e8)
-- [Orchestro: Trello for Claude Code — with a built-in Scrum Master](https://dev.to/dpelleri/orchestro-trello-for-claude-code-with-a-built-in-scrum-master-1e3e)
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-11i7)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1i62)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2kbk)
+- [SvelteKit RPC with Hono](https://dev.to/tolu/sveltekit-rpc-with-hono-mje)
+- [Complete Guide: ComfyUI WAN 2.2 on RunPod](https://dev.to/shahtab_mohtasin_a5e8388d/complete-guide-comfyui-wan-22-on-runpod-5ge7)
+- [Understanding Solidity: My Line-by-Line Explanation](https://dev.to/ekong_jemimah_419fb2fc084/understanding-solidity-my-line-by-line-explanation-1fpe)
+- [Understanding ACID Properties in SQL with Examples](https://dev.to/vishnupriya_k_678c3b9ea11/understanding-acid-properties-in-sql-with-examples-24l4)
+- [Building a Multi-Agent Candidate Search System with Azure AI Foundry](https://dev.to/sreeni5018/building-a-multi-agent-candidate-search-system-with-azure-ai-foundry-5gcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
