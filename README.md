@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Open-Source Apps I Recommend to Everyone Starting with Self-Hosting](https://dev.to/shiva_shanker_k/7-open-source-apps-i-recommend-to-everyone-starting-with-self-hosting-2h82)
+- [Quick Framework and some Performance Improvements](https://dev.to/jeffotoni/quick-framework-and-some-performance-improvements-1949)
 - [Golang เรื่องที่อาจผิดพลาดกับ Array, Slice และ Map](https://dev.to/jameinprogress/golang-eruuengthiiaacchphidphlaadkab-array-slice-aela-map-42gc)
 - [Showcase skill icons badge for GitHub README profile](https://dev.to/thuongtruong/showcase-skill-icons-badge-for-github-readme-profile-8bg)
 - [The Day I Automated Web Check-in: A Tale of Wonder and Worry](https://dev.to/ankur_bansal_d7487ae561e7/the-day-i-automated-web-check-in-a-tale-of-wonder-and-worry-3fem)
-- [LUXARG](https://dev.to/amzy31/luxarg-2efb)
-- [Simple College Student Schema](https://dev.to/mbewe_catherine24cb068_6/simple-college-student-schema-3egi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
