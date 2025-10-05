@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Secret to Secure Cloud Access from Restricted Regions: Reverse Proxy Everything](https://dev.to/salim_adedeji_233f2fcf315/the-secret-to-secure-cloud-access-from-restricted-regions-reverse-proxy-everything-15lc)
-- [How I Built a Reminder System for Senior Care Centers Using Raspberry Pi and RFID](https://dev.to/bragadheshwaran_kk_0a9839/how-i-built-a-reminder-system-for-senior-care-centers-using-raspberry-pi-and-rfid-5g3n)
-- [How the Internet Works &lpar;Simplified for Developers&rpar;](https://dev.to/abdul_basitmuhyideen_278/how-the-internet-works-simplified-for-developers-3078)
-- [Why I&#39;m Learning 3D Graphics After 20 Years in Tech](https://dev.to/emilioacevedodev/why-im-learning-3d-graphics-after-20-years-in-tech-35c8)
-- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/indexing-hashing-query-optimization-in-sql-2cnn)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-ld)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1o7)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-466a)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3eod)
+- [I Wasn&#39;t Born a Developer — I Became One the Hard Way](https://dev.to/blarzhernandez/i-wasnt-born-a-developer-i-became-one-the-hard-way-35e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
