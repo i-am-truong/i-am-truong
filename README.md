@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Java Constructors: Types, Execution, and Differences from Methods](https://dev.to/nishanthan-k/understanding-java-constructors-types-execution-and-differences-from-methods-35cm)
+- [Beyond the Proxy: Building a Secure, Observable Serverless API with Amazon API Gateway](https://dev.to/harshhp/beyond-the-proxy-building-a-secure-observable-serverless-api-with-amazon-api-gateway-di2)
+- [DevOps by Doing: Deploying NGINX on Azure Kubernetes Service &lpar;AKS&rpar; with Terraform](https://dev.to/johnogbonna/devops-by-doing-deploying-nginx-on-azure-kubernetes-service-aks-with-terraform-2an0)
+- [Fundamentals metrics for Software Engineering derived from Math Statistics](https://dev.to/optiklab/fundamentals-metrics-for-software-engineering-derived-from-math-statistics-38g4)
 - [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-j5j)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2lia)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-4fhe)
-- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-157h)
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-5gd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
