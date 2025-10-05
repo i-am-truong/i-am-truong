@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Structured output comparison across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock](https://dev.to/rosgluk/structured-output-comparison-across-popular-llm-providers-openai-gemini-anthropic-mistral-and-k26)
-- [Python. Project Structure &lpar;IX&rpar;](https://dev.to/elferrer/python-project-structure-ix-3d80)
-- [The Django-CFG Manifesto — or, How I Stopped Worshiping settings.py and Let AI Build My Apps](https://dev.to/markin/the-django-cfg-manifesto-or-how-i-stopped-worshiping-settingspy-and-let-ai-build-my-apps-3n0d)
-- [Water Intake Tracker – A Small but Impactful React Project](https://dev.to/himanshna/water-intake-tracker-a-small-but-impactful-react-project-3cnf)
-- [Desvendando o Sistema de Plugins do WordPress: Um Guia Prático para Desenvolvedores](https://dev.to/matheussesso/desvendando-o-sistema-de-plugins-do-wordpress-um-guia-pratico-para-desenvolvedores-2ncp)
+- [🌐 Django Views – Function-Based Views &lpar;FBVs&rpar; Explained &lpar;Article 4&rpar;](https://dev.to/gopal_ghate_5bda01b730e45/django-views-function-based-views-fbvs-explained-article-4-42ld)
+- [Predicting Survival on the Titanic: A Machine Learning Approach](https://dev.to/loi2008/predicting-survival-on-the-titanic-a-machine-learning-approach-24a5)
+- [揭秘 Telegram 数据库的奥秘与应用](https://dev.to/tgdatabase/jie-mi-telegram-shu-ju-ku-de-ao-mi-yu-ying-yong-35eb)
+- [Build a Perfect Blog with FastAPI: Reply Comment](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-reply-comment-312n)
+- [Telegram 筛查——效率工具还是隐私雷区？](https://dev.to/tgdatabase/telegram-shai-cha-xiao-lu-gong-ju-huan-shi-yin-si-lei-qu--cn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
