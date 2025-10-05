@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang เรื่องที่อาจผิดพลาดกับ Array, Slice และ Map](https://dev.to/jameinprogress/golang-eruuengthiiaacchphidphlaadkab-array-slice-aela-map-42gc)
 - [Showcase skill icons badge for GitHub README profile](https://dev.to/thuongtruong/showcase-skill-icons-badge-for-github-readme-profile-8bg)
 - [The Day I Automated Web Check-in: A Tale of Wonder and Worry](https://dev.to/ankur_bansal_d7487ae561e7/the-day-i-automated-web-check-in-a-tale-of-wonder-and-worry-3fem)
 - [LUXARG](https://dev.to/amzy31/luxarg-2efb)
 - [Simple College Student Schema](https://dev.to/mbewe_catherine24cb068_6/simple-college-student-schema-3egi)
-- [How To Create A Digital Clock Using JavaScript](https://dev.to/henry_messiahtmt_099ca84/how-to-create-a-digital-clock-using-javascript-4fec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
