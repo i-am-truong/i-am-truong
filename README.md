@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🛠️ Hacktoberfest 2025 — 17 Pull Requests in One Day, for the Love of Clean Code 😅🤖🧠](https://dev.to/boly38/hacktoberfest-2025-17-pull-requests-en-une-journee-par-amour-du-code-propre-1hp4)
+- [O que é o Método RED para Observabilidade](https://dev.to/rafaelbonilha/o-que-e-o-metodo-red-para-observabilidade-3l0i)
 - [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-ld)
+- [How to draw province borders](https://dev.to/edmondkeaton/how-to-draw-province-borders-3ao7)
 - [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1o7)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-466a)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3eod)
-- [I Wasn&#39;t Born a Developer — I Became One the Hard Way](https://dev.to/blarzhernandez/i-wasnt-born-a-developer-i-became-one-the-hard-way-35e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
