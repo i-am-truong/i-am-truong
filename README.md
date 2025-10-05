@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database Normalization](https://dev.to/arun_prasath_fa013c5e6085/database-normalization-1l1m)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-2e81)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1bpi)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3n58)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2jk7)
+- [🚀 Understanding Global Objects in Uniface 10.4](https://dev.to/petercode/understanding-global-objects-in-uniface-104-5egp)
+- [📚 Creating Libraries for Global Objects in Uniface 10.4](https://dev.to/petercode/creating-libraries-for-global-objects-in-uniface-104-2o74)
+- [📚 Understanding Uniface 10.4 Runtime Libraries: A Simple Guide](https://dev.to/petercode/understanding-uniface-104-runtime-libraries-a-simple-guide-1acm)
+- [WordPress Plugin Guard: File-Integrity Meets Swarm Autonomy](https://dev.to/matrixswarm/wordpress-plugin-guard-file-integrity-meets-swarm-autonomy-1807)
+- [🚀 Running Your Uniface 10.4 Applications: A Simple Guide](https://dev.to/petercode/running-your-uniface-104-applications-a-simple-guide-d4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
