@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From LLMs to Liability: How Agents Grow Up](https://dev.to/narednra_reddyyadama_d64/from-llms-to-liability-how-agents-grow-up-3ndi)
+- [Working with Cursors and Triggers in Oracle Live SQL](https://dev.to/lohita_blue_d6409977eec4c/working-with-cursors-and-triggers-in-oracle-live-sql-i72)
+- [&quot;this&quot; Key word in java script](https://dev.to/arokiya_kithiyon_1f2bad36/this-key-word-in-java-script-gda)
+- [GitHub with Git: The Dynamic Duo of Developer Dreams 🚀](https://dev.to/manishpcp/github-with-git-the-dynamic-duo-of-developer-dreams-5055)
 - [Automate Your Go Project: Best Practices &amp; CI/CD with GitHub Actions](https://dev.to/ticatwolves/automate-your-go-project-best-practices-cicd-with-github-actions-4bo4)
-- [🚀 The Magic of Composable APIs: Building a Weather-Aware Pet Adoption Platform with FastServe](https://dev.to/parthasarathy_20760c4a03a/the-magic-of-composable-apis-building-a-weather-aware-pet-adoption-platform-with-fastserve-4nfk)
-- [Running QEMU VMs on ARM64: UEFI Requirements](https://dev.to/krjakbrjak/running-qemu-vms-on-arm64-uefi-requirements-5c9e)
-- [Docker - Basics](https://dev.to/ayush_gupta_70e4746734c34/docker-basics-8fo)
-- [What&#39;s your tips for deep work ?](https://dev.to/bertrandr_dev/whats-your-tips-for-deep-work--dm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
