@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fix audio not working on Ubuntu 24.04.3 &lpar;at least in my case&rpar;](https://dev.to/cheulong/fix-audio-not-working-on-ubuntu-24043-at-least-in-my-case-1e4j)
-- [SplitWire-Turkey Kurulumu ve Discord İçin DPI Aşımı Yöntemleri](https://dev.to/eagledfc/splitwire-turkey-kurulum-rehberi-alternatif-araclar-2aj)
-- [🚀 Uploading Your Code with Arduino IDE](https://dev.to/mohamed_ahmed_dev/uploading-your-code-with-arduino-ide-3k29)
-- [Stop Fighting Circular Imports](https://dev.to/nicocrm/stop-fighting-circular-imports-5312)
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-43ok)
+- [Indexing, Hashing, and Query](https://dev.to/dharaneeshtr007_971ede718/indexing-hashing-and-query-4dem)
+- [Python. Project Structure &lpar;&amp; X&rpar;](https://dev.to/elferrer/python-project-structure-x-82d)
+- [TRANSACTION IN DBMS](https://dev.to/sakthi_sreens24cb051_b/transaction-in-dbms-38ja)
+- [Building My Modern Portfolio: A Journey Through Web Development](https://dev.to/muhammad-huzaifa/building-my-modern-portfolio-a-journey-through-web-development-4ck0)
+- [Mastering the Art of Software Development: Lessons from the Reddit Community](https://dev.to/mikeover/mastering-the-art-of-software-development-lessons-from-the-reddit-community-4bf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
