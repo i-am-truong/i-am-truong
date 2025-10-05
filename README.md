@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Indexing, Hashing, and Query](https://dev.to/dharaneeshtr007_971ede718/indexing-hashing-and-query-4dem)
-- [Python. Project Structure &lpar;&amp; X&rpar;](https://dev.to/elferrer/python-project-structure-x-82d)
-- [TRANSACTION IN DBMS](https://dev.to/sakthi_sreens24cb051_b/transaction-in-dbms-38ja)
-- [Building My Modern Portfolio: A Journey Through Web Development](https://dev.to/muhammad-huzaifa/building-my-modern-portfolio-a-journey-through-web-development-4ck0)
-- [Mastering the Art of Software Development: Lessons from the Reddit Community](https://dev.to/mikeover/mastering-the-art-of-software-development-lessons-from-the-reddit-community-4bf9)
+- [Showcase skill icons badge for GitHub README profile](https://dev.to/thuongtruong/showcase-skill-icons-badge-for-github-readme-profile-8bg)
+- [The Day I Automated Web Check-in: A Tale of Wonder and Worry](https://dev.to/ankur_bansal_d7487ae561e7/the-day-i-automated-web-check-in-a-tale-of-wonder-and-worry-3fem)
+- [LUXARG](https://dev.to/amzy31/luxarg-2efb)
+- [Simple College Student Schema](https://dev.to/mbewe_catherine24cb068_6/simple-college-student-schema-3egi)
+- [How To Create A Digital Clock Using JavaScript](https://dev.to/henry_messiahtmt_099ca84/how-to-create-a-digital-clock-using-javascript-4fec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
