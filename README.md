@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 I Replaced Go’s Scheduler — And You Should Too &lpar;Here’s How&rpar;](https://dev.to/jiil07/i-replaced-gos-scheduler-and-you-should-too-heres-how-5f1l)
+- [Stop the Mess: Structuring Your First Node.js Application](https://dev.to/salehahmedmahin/stop-the-mess-structuring-your-first-nodejs-application-3131)
 - [Cursor and Trigger in DBMS](https://dev.to/mbewe_catherine24cb068_6/cursor-and-trigger-in-dbms-4fl3)
 - [Wtf is Docker🐳?](https://dev.to/erlan_akbar/wtf-is-docker-2bej)
 - [Publishing Your Java Library to Maven Central](https://dev.to/selmaguedidi/publishing-your-java-library-to-maven-central-15in)
-- [Indexing, Hashing, and Query](https://dev.to/srivishal_b2975898351fa2b/indexing-hashing-and-query-177m)
-- [💎 Day 5 of 30 Days of Solidity — Build a Treasure Chest Contract](https://dev.to/sauravkumar8178/day-5-of-30-days-of-solidity-build-a-treasure-chest-contract-4a71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
