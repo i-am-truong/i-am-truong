@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2276)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4b4f)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4koe)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1jpf)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-10jk)
+- [Ovi: An Open Source Alternative To Veo 3 &amp; Sora 2 that can generate AI Videos with Audio](https://dev.to/firethering/ovi-an-open-source-alternative-to-veo-3-sora-2-that-can-generate-ai-videos-with-audio-hea)
+- [MongoDB in Action: Building a Smart Student Database with CRUD Operations](https://dev.to/thushitha_tk_ffd2acfb6067/mongodb-in-action-building-a-smart-student-database-with-crud-operations-2n9j)
+- [The Future is Composable: Orchestrating Multiple APIs with FastServe MCP Servers](https://dev.to/parthasarathy_20760c4a03a/the-future-is-composable-orchestrating-multiple-apis-with-fastserve-mcp-servers-54p6)
+- [Exploring the Mysteries of the Universe with AI and Astro Quantum](https://dev.to/quantumshell/exploring-the-mysteries-of-the-universe-with-ai-and-astro-quantum-25e5)
+- [JS: The underrated Font Load API](https://dev.to/spo0q/js-the-underrated-font-load-api-3dmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
