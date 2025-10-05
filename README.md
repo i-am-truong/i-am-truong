@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Made Simple: How Your Browser Talks to Servers](https://dev.to/parthi_rp/http-made-simple-how-your-browser-talks-to-servers-2f60)
 - [🚀 I Replaced Go’s Scheduler — And You Should Too &lpar;Here’s How&rpar;](https://dev.to/jiil07/i-replaced-gos-scheduler-and-you-should-too-heres-how-5f1l)
 - [Stop the Mess: Structuring Your First Node.js Application](https://dev.to/salehahmedmahin/stop-the-mess-structuring-your-first-nodejs-application-3131)
 - [Cursor and Trigger in DBMS](https://dev.to/mbewe_catherine24cb068_6/cursor-and-trigger-in-dbms-4fl3)
 - [Wtf is Docker🐳?](https://dev.to/erlan_akbar/wtf-is-docker-2bej)
-- [Publishing Your Java Library to Maven Central](https://dev.to/selmaguedidi/publishing-your-java-library-to-maven-central-15in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
