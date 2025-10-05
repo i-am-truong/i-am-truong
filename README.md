@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ACID PROPERTIES](https://dev.to/srivishal_b2975898351fa2b/acid-properties-551h)
+- [Understanding Deep Learning: The Basics of Neural Networks](https://dev.to/hammadishaq/understanding-deep-learning-the-basics-of-neural-networks-4le3)
+- [Forgotten Email Accounts: The Hidden Security Trap Developers Overlook](https://dev.to/devtechinsights/forgotten-email-accounts-the-hidden-security-trap-developers-overlook-3j3g)
+- [Microsoft’s “Agent Mode” in Office: The Start of Vibe Working](https://dev.to/nikhilwagh/microsofts-agent-mode-in-office-the-start-of-vibe-working-5c8o)
 - [MongoDB](https://dev.to/terera_faithtanaka24cb0/mongodb-2oo3)
-- [Circuit Breaker In Javascript](https://dev.to/2devyank/circuit-breaker-in-javascript-359h)
-- [📊 Exploring SQL Transactions, Deadlocks &amp; Log Based Recovery](https://dev.to/rohith_95/exploring-sql-transactions-deadlocks-log-based-recovery-4hli)
-- [Wireless Earbuds: The Future of Portable Audio](https://dev.to/phoneexits/wireless-earbuds-the-future-of-portable-audio-1e3g)
-- [The Tools That Make My Terminal WorK](https://dev.to/josephschmitt/the-tools-that-make-my-terminal-work-3ka6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
