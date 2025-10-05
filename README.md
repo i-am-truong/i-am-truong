@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The State of Security Protocols in Agent 2 Agent&lpar;A2A&rpar; Systems.](https://dev.to/sten/the-state-of-security-protocols-in-agent-2-agenta2a-systems-29km)
-- [Understanding SSL/TLS](https://dev.to/parthi_rp/understanding-ssltls-3obh)
-- [What DAW are you using?](https://dev.to/highcenburg/what-daw-are-you-using-2cl4)
-- [Why You Should Use AWS Backup Instead of Custom Lambda Solutions](https://dev.to/hasan_ashab/why-you-should-use-aws-backup-instead-of-custom-lambda-solutions-3n02)
-- [Apache Gravitino 1.0.0 — From Metadata Management to Contextual Engineering](https://dev.to/datastrato/apache-gravitino-100-from-metadata-management-to-contextual-engineering-47kb)
+- [Database Normalization](https://dev.to/arun_prasath_fa013c5e6085/database-normalization-1l1m)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-2e81)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1bpi)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3n58)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2jk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
