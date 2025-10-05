@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Must-Read OOP, UML, and Design Patterns Books for Software Engineers](https://dev.to/somadevtoo/5-must-read-oop-uml-and-design-patterns-books-for-software-engineers-38id)
-- [Switching Me Softly: Zero‑Downtime PostgreSQL 12 17 at Fresha](https://dev.to/borzoni/switching-me-softly-zero-downtime-postgresql-12-17-at-fresha-3ia7)
-- [range&lpar;&rpar; in python](https://dev.to/hyperkai/range-in-python-1imj)
-- [Devoxx: Hello &lpar;Virtual&rpar; World by Keren Kenzi](https://dev.to/scale_youtube/devoxx-hello-virtual-world-by-keren-kenzi-5hb9)
-- [Ovi: An Open Source Alternative To Veo 3 &amp; Sora 2 that can generate AI Videos with Audio](https://dev.to/firethering/ovi-an-open-source-alternative-to-veo-3-sora-2-that-can-generate-ai-videos-with-audio-hea)
+- [Automate Your Go Project: Best Practices &amp; CI/CD with GitHub Actions](https://dev.to/ticatwolves/automate-your-go-project-best-practices-cicd-with-github-actions-4bo4)
+- [🚀 The Magic of Composable APIs: Building a Weather-Aware Pet Adoption Platform with FastServe](https://dev.to/parthasarathy_20760c4a03a/the-magic-of-composable-apis-building-a-weather-aware-pet-adoption-platform-with-fastserve-4nfk)
+- [Running QEMU VMs on ARM64: UEFI Requirements](https://dev.to/krjakbrjak/running-qemu-vms-on-arm64-uefi-requirements-5c9e)
+- [Docker - Basics](https://dev.to/ayush_gupta_70e4746734c34/docker-basics-8fo)
+- [What&#39;s your tips for deep work ?](https://dev.to/bertrandr_dev/whats-your-tips-for-deep-work--dm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
