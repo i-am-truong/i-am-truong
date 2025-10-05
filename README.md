@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Python for AI and Machine Learning](https://dev.to/parthadeori/getting-started-with-python-for-ai-and-machine-learning-9pf)
-- [CURSOR AND TRIGGER](https://dev.to/mathan-s/cursor-and-trigger-d8p)
-- [NORMALIZATION](https://dev.to/srivishal_b2975898351fa2b/normalization-gnp)
-- [📱 React Native at Scale: Lessons from 100K+ Users](https://dev.to/nilava_chowdhury_0b70e116/react-native-at-scale-lessons-from-100k-users-1of)
-- [🔐 PCI DSS Compliance in Mobile Payment Systems](https://dev.to/nilava_chowdhury_0b70e116/pci-dss-compliance-in-mobile-payment-systems-5bbn)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-j5j)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2lia)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-4fhe)
+- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-157h)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-5gd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
