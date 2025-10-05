@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Polkadot API &lpar;PAPI&rpar;: Building a Balance Checker](https://dev.to/mulandi_cecilia/getting-started-with-polkadot-api-papi-building-a-balance-checker-41o5)
 - [10 Frontend Principles That Work in Any Framework](https://dev.to/softwaredeveloper01/10-frontend-principles-that-work-in-any-framework-48a0)
 - [🎧 Cómo hice un recortador de audio MP3 online con FastAPI + FFmpeg](https://dev.to/whario/como-hice-un-recortador-de-audio-mp3-online-con-fastapi-ffmpeg-4m3o)
 - [How to Create an IoT App in Kotlin Multiplatform](https://dev.to/koral/how-to-create-an-iot-app-in-kotlin-multiplatform-204m)
 - [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
-- [AI Agents for Marketing: A Real-World Content Automation Case Study](https://dev.to/jucelinux/ai-agents-for-marketing-a-real-world-content-automation-case-study-24kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
