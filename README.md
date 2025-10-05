@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 4 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-4-of-100-days-dsa-coding-challenge-54hk)
-- [An Introduction to PL/SQL: How It Works with SQL and Oracle Database](https://dev.to/ayako_yk/an-introduction-to-plsql-how-it-works-with-sql-and-oracle-database-34cm)
-- [Factory method design pattern](https://dev.to/chinnolla_koteshwar/factory-method-design-pattern-207p)
-- [Some reflections after passing the AWS Certified Machine Learning Engineer - Associate exam:](https://dev.to/camille_chang/some-reflections-after-passing-the-aws-certified-machine-learning-engineer-associate-exam-kn4)
-- [50 Most Useful TypeScript Snippets](https://dev.to/softwaredeveloper01/50-most-useful-typescript-snippets-5c1p)
+- [MongoDB CRUD Operations — A Hands-On Guide with Student Data](https://dev.to/ilakkiya_99033c7a7246d48b/mongodb-crud-operations-a-hands-on-guide-with-student-data-3hkd)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-ghm)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3a55)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-3g2a)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-44hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
