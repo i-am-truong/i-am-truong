@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hollow Knight: Silksong - All Mask Shard Locations](https://dev.to/gg_news/ign-hollow-knight-silksong-all-mask-shard-locations-3h9j)
-- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-328g)
-- [IGN: Lost Contact: UFOs After Wartime - Official Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-lost-contact-ufos-after-wartime-official-trailer-2025-documentary-2eo9)
-- [IGN: Your Host - Official Trailer #2 &lpar;2025&rpar; Jackie Earle Haley, Ella-Rae Smith](https://dev.to/gg_news/ign-your-host-official-trailer-2-2025-jackie-earle-haley-ella-rae-smith-2cke)
-- [IGN: Stitch Head - Official Teaser Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-stitch-head-official-teaser-trailer-2025-4a57)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-311p)
+- [Build Your First MCP Server Using Spring Boot](https://dev.to/porass/create-your-first-mcp-server-in-spring-boot-1lpp)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-32l8)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4jib)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-ao7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
