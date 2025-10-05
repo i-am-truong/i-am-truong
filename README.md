@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ACID PROPERTIES](https://dev.to/srivishal_b2975898351fa2b/acid-properties-551h)
-- [Understanding Deep Learning: The Basics of Neural Networks](https://dev.to/hammadishaq/understanding-deep-learning-the-basics-of-neural-networks-4le3)
-- [Forgotten Email Accounts: The Hidden Security Trap Developers Overlook](https://dev.to/devtechinsights/forgotten-email-accounts-the-hidden-security-trap-developers-overlook-3j3g)
-- [Microsoft’s “Agent Mode” in Office: The Start of Vibe Working](https://dev.to/nikhilwagh/microsofts-agent-mode-in-office-the-start-of-vibe-working-5c8o)
-- [MongoDB](https://dev.to/terera_faithtanaka24cb0/mongodb-2oo3)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-11i7)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1i62)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2kbk)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-4cdb)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-1ig1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
