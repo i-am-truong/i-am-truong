@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibecoding with Codex &amp; GitHub Copilot](https://dev.to/imdj/vibecoding-with-codex-github-copilot-303l)
-- [Textos y fragmentos contenido relevante en tu web](https://dev.to/dezkareid/textos-y-fragmentos-contenido-relevante-en-tu-web-5h80)
-- [Struggling to make LangGraph agents work in a strict NestJS &amp; TypeScript environment? I spent my weekend fighting through the documentation gap so you don&#39;t have to.
-Here’s the complete guide to building a modular, tool-using AI agent from scratch.](https://dev.to/d_akhil_kumar/struggling-to-make-langgraph-agents-work-in-a-strict-nestjs-typescript-environment-i-spent-my-1bhf)
-- [Publishing My First NuGet Package: StrongResult - A Weekend Learning Project](https://dev.to/saulhdez/publishing-my-first-nuget-package-strongresult-a-weekend-learning-project-3oce)
-- [🧠 Week 10 Build Log: Code Tracker AI Progress](https://dev.to/monahidalgo/week-10-build-log-code-tracker-ai-progress-1cno)
+- [ASP .NET Core FluentValidation](https://dev.to/karenpayneoregon/aspnet-core-fluentvalidation-16nc)
+- [100 Days of DevOps: Day 62.](https://dev.to/wycliffealphus/100-days-of-devops-day-62-31he)
+- [Hack&#39;spire25 on top 💥🔥](https://dev.to/debaditya_saha_5b45172210/hackspire25-on-top-4lco)
+- [100 Days of DevOps: Day 62](https://dev.to/wycliffealphus/100-days-of-devops-day-63-20bi)
+- [Explorando o Java 25: O Que Há de Novo na Última Versão LTS do Java](https://dev.to/ikauedev/explorando-o-java-25-o-que-ha-de-novo-na-ultima-versao-lts-do-java-50gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
