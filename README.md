@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 4 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-4-of-100-days-dsa-coding-challenge-54hk)
+- [An Introduction to PL/SQL: How It Works with SQL and Oracle Database](https://dev.to/ayako_yk/an-introduction-to-plsql-how-it-works-with-sql-and-oracle-database-34cm)
+- [Factory method design pattern](https://dev.to/chinnolla_koteshwar/factory-method-design-pattern-207p)
 - [Some reflections after passing the AWS Certified Machine Learning Engineer - Associate exam:](https://dev.to/camille_chang/some-reflections-after-passing-the-aws-certified-machine-learning-engineer-associate-exam-kn4)
 - [50 Most Useful TypeScript Snippets](https://dev.to/softwaredeveloper01/50-most-useful-typescript-snippets-5c1p)
-- [Most developers end up spending time on repetitive tasks, while the best developers focus on optimisation. If you are not optimising, you are leaving space for creative work.](https://dev.to/jaideepparashar/most-developers-end-up-spending-time-on-repetitive-tasks-while-the-best-developers-focus-on-jol)
-- [Scaling Projects: How AI Transforms DevOps &amp; Continuous Integration](https://dev.to/jaideepparashar/scaling-projects-how-ai-transforms-devops-continuous-integration-45p)
-- [What Hetzner Is &lpar;and Why Developers Love It&rpar;](https://dev.to/thekarlesi/what-hetzner-is-and-why-developers-love-it-l35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
