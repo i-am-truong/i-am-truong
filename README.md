@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/indexing-hashing-query-optimization-in-sql-2cnn)
 - [How to Serve Multiple Themes in Rails Using Sass and esbuild](https://dev.to/hersoftsyntax/how-to-serve-multiple-themes-in-rails-using-sass-and-esbuild-5a68)
 - [Sleek &amp; Modern WPF: Build a Real-Time Word Counter Dashboard &lpar;C# Tutorial&rpar;](https://dev.to/vectoart_a497c516fac199bd/sleek-modern-wpf-build-a-real-time-word-counter-dashboard-c-tutorial-58dh)
 - [Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/understanding-transactions-deadlocks-log-based-recovery-in-sql-1m83)
 - [SvelteKit RPC with Hono](https://dev.to/tolu/sveltekit-rpc-with-hono-mje)
-- [Complete Guide: ComfyUI WAN 2.2 on RunPod](https://dev.to/shahtab_mohtasin_a5e8388d/complete-guide-comfyui-wan-22-on-runpod-5ge7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
