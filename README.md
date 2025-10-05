@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript’da var, let va const](https://dev.to/davlatov/javascriptda-var-let-va-const-173o)
-- [Automating AWS Cost Monitoring with Terraform, Lambda, and Slack](https://dev.to/copubah/automating-aws-cost-monitoring-with-terraform-lambda-and-slack-cem)
-- [Agents go brrrrrrr](https://dev.to/ankit_kpandey_296fb5773b/agents-go-brrrrrrr-46j4)
-- [Check it out](https://dev.to/masterdevsabith/check-it-out-18kg)
-- [🔁 Idempotency in System Design](https://dev.to/nk_sk_6f24fdd730188b284bf/idempotency-in-system-design-2jcj)
+- [The State of Security Protocols in Agent 2 Agent&lpar;A2A&rpar; Systems.](https://dev.to/sten/the-state-of-security-protocols-in-agent-2-agenta2a-systems-29km)
+- [Understanding SSL/TLS](https://dev.to/parthi_rp/understanding-ssltls-3obh)
+- [What DAW are you using?](https://dev.to/highcenburg/what-daw-are-you-using-2cl4)
+- [Why You Should Use AWS Backup Instead of Custom Lambda Solutions](https://dev.to/hasan_ashab/why-you-should-use-aws-backup-instead-of-custom-lambda-solutions-3n02)
+- [Apache Gravitino 1.0.0 — From Metadata Management to Contextual Engineering](https://dev.to/datastrato/apache-gravitino-100-from-metadata-management-to-contextual-engineering-47kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
