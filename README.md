@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern Network Observability Stack: Combining Prometheus, Grafana, and Loki for Deep Insight](https://dev.to/gagreatprogrammer/building-a-modern-network-observability-stack-combining-prometheus-grafana-and-loki-for-deep-43f5)
-- [10 Cool CodePen Demos &lpar;September 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2025-2i7h)
-- [I think you should let AI write your code](https://dev.to/koladev/i-think-you-should-let-ai-write-your-code-2jgj)
-- [If You Know These 30 JavaScript One-Liners, You’re Fast](https://dev.to/ssukhpinder/if-you-know-these-30-javascript-one-liners-youre-fast-41lk)
-- [Build a Real-Time Chat App: A Complete Node.js &amp; Socket.IO Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/build-a-real-time-chat-app-a-complete-nodejs-socketio-guide-40pl)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2276)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4b4f)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4koe)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1jpf)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-10jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
