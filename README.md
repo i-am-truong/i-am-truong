@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript’da var, let va const](https://dev.to/davlatov/javascriptda-var-let-va-const-173o)
+- [Automating AWS Cost Monitoring with Terraform, Lambda, and Slack](https://dev.to/copubah/automating-aws-cost-monitoring-with-terraform-lambda-and-slack-cem)
+- [Agents go brrrrrrr](https://dev.to/ankit_kpandey_296fb5773b/agents-go-brrrrrrr-46j4)
 - [Check it out](https://dev.to/masterdevsabith/check-it-out-18kg)
 - [🔁 Idempotency in System Design](https://dev.to/nk_sk_6f24fdd730188b284bf/idempotency-in-system-design-2jcj)
-- [Custom AI Solutions vs Off-the-Shelf AI: Which Is Right for You?](https://dev.to/nayeem79/custom-ai-solutions-vs-off-the-shelf-ai-which-is-right-for-you-5ffj)
-- [#DAY 11: High Availability – Deploying a Reverse Proxy &lpar;Nginx&rpar;](https://dev.to/samueladeduntan/day-11-high-availability-deploying-a-reverse-proxy-nginx-mn4)
-- [Hands-On MongoDB CRUD Operations with a College Student Sche](https://dev.to/pjn_b_e25b30362b3f8ceef1d/hands-on-mongodb-crud-operations-with-a-college-student-sche-1gg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
