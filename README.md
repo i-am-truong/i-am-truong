@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Diffium found 4 great Golang contributors during Hacktoberfest!](https://dev.to/kubeden/diffium-found-4-great-golang-contributors-during-hacktoberfest-2f94)
-- [1000+ Free APIs For Developers](https://dev.to/we-the-developers/1000-free-apis-for-developers-49kc)
-- [Project Ideas](https://dev.to/muhammad_ammar_42be750b7c/project-ideas-12cb)
-- [Go Microservices Boilerplate Series: From Hello World to Production &lpar;Part 1&rpar;](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-from-hello-world-to-production-part-1-46k5)
-- [Review and Secure a Lambda Function with an IAM Least Privilege Based Security Policy: CloudTrail and Athena Approach](https://dev.to/aws-builders/review-and-secure-a-lambda-function-with-an-iam-least-privilege-based-security-policy-cloudtrail-adm)
+- [Structured output comparison across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock](https://dev.to/rosgluk/structured-output-comparison-across-popular-llm-providers-openai-gemini-anthropic-mistral-and-k26)
+- [Python. Project Structure &lpar;IX&rpar;](https://dev.to/elferrer/python-project-structure-ix-3d80)
+- [The Django-CFG Manifesto — or, How I Stopped Worshiping settings.py and Let AI Build My Apps](https://dev.to/markin/the-django-cfg-manifesto-or-how-i-stopped-worshiping-settingspy-and-let-ai-build-my-apps-3n0d)
+- [Water Intake Tracker – A Small but Impactful React Project](https://dev.to/himanshna/water-intake-tracker-a-small-but-impactful-react-project-3cnf)
+- [Desvendando o Sistema de Plugins do WordPress: Um Guia Prático para Desenvolvedores](https://dev.to/matheussesso/desvendando-o-sistema-de-plugins-do-wordpress-um-guia-pratico-para-desenvolvedores-2ncp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
