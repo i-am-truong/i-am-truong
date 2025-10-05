@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From LLMs to Liability: How Agents Grow Up](https://dev.to/narednra_reddyyadama_d64/from-llms-to-liability-how-agents-grow-up-3ndi)
-- [Working with Cursors and Triggers in Oracle Live SQL](https://dev.to/lohita_blue_d6409977eec4c/working-with-cursors-and-triggers-in-oracle-live-sql-i72)
-- [&quot;this&quot; Key word in java script](https://dev.to/arokiya_kithiyon_1f2bad36/this-key-word-in-java-script-gda)
-- [GitHub with Git: The Dynamic Duo of Developer Dreams 🚀](https://dev.to/manishpcp/github-with-git-the-dynamic-duo-of-developer-dreams-5055)
-- [Automate Your Go Project: Best Practices &amp; CI/CD with GitHub Actions](https://dev.to/ticatwolves/automate-your-go-project-best-practices-cicd-with-github-actions-4bo4)
+- [selenium](https://dev.to/gokila_selvaraj_8a3278587/selenium-5271)
+- [🎪 The Great DevOps Circus: How I Deployed a Full-Stack App Without Losing My Mind &lpar;A Beginner&#39;s Survival Guide&rpar;.](https://dev.to/c_6b7a8e65d067ddc62/the-great-devops-circus-how-i-deployed-a-full-stack-app-without-losing-my-mind-a-beginners-4jfc)
+- [Artificial Intelligence in Music Composition: Unlocking Human Creativity](https://dev.to/pushkar_gautamaryan_ca/artificial-intelligence-in-music-composition-unlocking-human-creativity-2i5)
+- [Uma hipótese para os layoffs do Itaú](https://dev.to/talking-about-testing/uma-hipotese-para-os-layoffs-do-itau-304f)
+- [🎲 Build a Dice Rolling Simulator in Java](https://dev.to/mohamad_mhana/build-a-dice-rolling-simulator-in-java-2gmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
