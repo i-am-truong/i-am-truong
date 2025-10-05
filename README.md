@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🐈💀 When My AIs Died: The Rise and Fall of Lynqbit &amp; BarnOwl](https://dev.to/puneetkumar2010/when-my-ais-died-the-rise-and-fall-of-lynqbit-barnowl-4b9p)
+- [How to Automate Extracting Documents from MS Access OLE Object Columns](https://dev.to/intellicon/how-to-automate-extracting-documents-from-ms-access-ole-object-columns-ko7)
 - [Stop Fighting Sanity&#39;s Portable Text - Here&#39;s How to Use Markdown Instead](https://dev.to/setasena_randata_1cfa30f4/stop-fighting-sanitys-portable-text-heres-how-to-use-markdown-instead-47cb)
 - [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/reshma_devi_ba32b2f54397d/indexing-hashing-query-optimization-in-dbms-965)
 - [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
-- [The Trust-First Playbook for Web3 Communications &lpar;That Actually Works&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-trust-first-playbook-for-web3-communications-that-actually-works-54ih)
-- [The Password is Dead. Long Live the Password? A Look at FIDO2, Passkeys, and the Post-SMS Future](https://dev.to/yanix_yanix_d22423595186a/the-password-is-dead-long-live-the-password-a-look-at-fido2-passkeys-and-the-post-sms-future-5fnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
