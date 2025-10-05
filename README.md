@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: The Mummy 2017 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-mummy-2017-caravan-of-garbage-m59)
-- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/arun_prasath_fa013c5e6085/indexing-hashing-query-optimization-in-dbms-b9p)
-- [DBMS - Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/arun_prasath_fa013c5e6085/dbms-transactions-deadlocks-log-based-recovery-26g7)
-- [Database Normalization in Oracle SQL — From 1NF to 3NF with Example](https://dev.to/nethra_loganathan_98e5233/database-normalization-in-oracle-sql-from-1nf-to-3nf-with-example-4202)
-- [“𝗘𝗧𝗟 𝗶𝘀 𝗘𝘃𝗼𝗹𝘃𝗶𝗻𝗴 — 𝗔𝗿𝗲 𝗬𝗼𝘂?”](https://dev.to/supraja_tangella_b7f0738e/--53p1)
+- [Review and Secure a Lambda Function with an IAM Least Privilege Based Security Policy: CloudTrail and Athena Approach](https://dev.to/aws-builders/review-and-secure-a-lambda-function-with-an-iam-least-privilege-based-security-policy-cloudtrail-adm)
+- [certificate authority &lpar; ca &rpar; config for fedora distro](https://dev.to/zhanghengming/certificate-authority-ca-config-for-fedora-distro-37i2)
+- [JavaScript Core Fundamentals: var, let, const, Scope, and Closures](https://dev.to/tsedid/javascript-core-fundamentals-var-let-const-scope-and-closures-1pe9)
+- [Empowering Minds: How Online Learning Platforms Enhance Students&#39; Critical Thinking Skills](https://dev.to/ghummantech/empowering-minds-how-online-learning-platforms-enhance-students-critical-thinking-skills-3o8p)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-2fgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
