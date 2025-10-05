@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DBMS - Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/arun_prasath_fa013c5e6085/dbms-transactions-deadlocks-log-based-recovery-26g7)
+- [Database Normalization in Oracle SQL — From 1NF to 3NF with Example](https://dev.to/nethra_loganathan_98e5233/database-normalization-in-oracle-sql-from-1nf-to-3nf-with-example-4202)
+- [“𝗘𝗧𝗟 𝗶𝘀 𝗘𝘃𝗼𝗹𝘃𝗶𝗻𝗴 — 𝗔𝗿𝗲 𝗬𝗼𝘂?”](https://dev.to/supraja_tangella_b7f0738e/--53p1)
 - [Understanding the Laravel Lifecycle &lpar;Explained for Beginners&rpar;](https://dev.to/arafatweb/understanding-the-laravel-lifecycle-explained-for-beginners-dc6)
-- [REST Pagination techniques](https://dev.to/kanakos01/rest-pagination-techniques-p9b)
-- [I Built a Subscription Tracker in 14 Days Using Angular 20 &lpar;And Made $0… Yet&rpar;](https://dev.to/karol_modelski/i-built-a-subscription-tracker-in-14-days-using-angular-20-and-made-0-yet-2hid)
-- [📖 Understanding Uniface 10.4 Help Texts: A Simple Guide](https://dev.to/petercode/understanding-uniface-104-help-texts-a-simple-guide-1g62)
-- [Reflections on Designing a Search Autocomplete System](https://dev.to/andersontsai/reflections-on-designing-a-search-autocomplete-system-2j87)
+- [How to Secure Your ASP.NET Web API with JWT Bearer Authentication &lpar;Step-by-Step Guide&rpar;](https://dev.to/shahed1bd/how-to-secure-your-aspnet-web-api-with-jwt-bearer-authentication-step-by-step-guide-35h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
