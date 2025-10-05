@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Tools That Make My Terminal WorK](https://dev.to/josephschmitt/the-tools-that-make-my-terminal-work-3ka6)
 - [Whats next?](https://dev.to/pooch1e/whats-next-1mpg)
 - [Data Table From Scratch. Part 9: Delete Rows](https://dev.to/morewings/data-table-from-scratch-part-9-delete-rows-3a93)
 - [Shipping Without the Slop: A Receipts-First Workflow for Marketing Copy](https://dev.to/viablemedia/shipping-without-the-slop-a-receipts-first-workflow-for-marketing-copy-nao)
 - [Introducing the AWS EKS best practices Mindmap](https://dev.to/aws-builders/introducing-the-aws-eks-best-practices-mindmap-30lc)
-- [Stop Hitting Runtime Errors: Why TypeScript Is the Full-Stack Developer&#39;s Secret Weapon](https://dev.to/kennedy01crypto/stop-hitting-runtime-errors-why-typescript-is-the-full-stack-developers-secret-weapon-3mo8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
