@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Django Views – Function-Based Views &lpar;FBVs&rpar; Explained &lpar;Article 4&rpar;](https://dev.to/gopal_ghate_5bda01b730e45/django-views-function-based-views-fbvs-explained-article-4-42ld)
-- [Predicting Survival on the Titanic: A Machine Learning Approach](https://dev.to/loi2008/predicting-survival-on-the-titanic-a-machine-learning-approach-24a5)
-- [揭秘 Telegram 数据库的奥秘与应用](https://dev.to/tgdatabase/jie-mi-telegram-shu-ju-ku-de-ao-mi-yu-ying-yong-35eb)
-- [Build a Perfect Blog with FastAPI: Reply Comment](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-reply-comment-312n)
-- [Telegram 筛查——效率工具还是隐私雷区？](https://dev.to/tgdatabase/telegram-shai-cha-xiao-lu-gong-ju-huan-shi-yin-si-lei-qu--cn9)
+- [IGN: Hollow Knight: Silksong - All Mask Shard Locations](https://dev.to/gg_news/ign-hollow-knight-silksong-all-mask-shard-locations-3h9j)
+- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-328g)
+- [IGN: Lost Contact: UFOs After Wartime - Official Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-lost-contact-ufos-after-wartime-official-trailer-2025-documentary-2eo9)
+- [IGN: Your Host - Official Trailer #2 &lpar;2025&rpar; Jackie Earle Haley, Ella-Rae Smith](https://dev.to/gg_news/ign-your-host-official-trailer-2-2025-jackie-earle-haley-ella-rae-smith-2cke)
+- [IGN: Stitch Head - Official Teaser Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-stitch-head-official-teaser-trailer-2025-4a57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
