@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DBMS - Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/reshma_devi_ba32b2f54397d/dbms-transactions-deadlocks-log-based-recovery-4173)
-- [Your Smart Home is Betraying You: How to Secure IoT Devices &lpar;Cameras, Speakers, Kettles&rpar;](https://dev.to/yanix_yanix_d22423595186a/your-smart-home-is-betraying-you-how-to-secure-iot-devices-cameras-speakers-kettles-34hg)
-- [I Spent 6 Hours Per Blog Post Until I Built This AI Content Platform](https://dev.to/setasena_randata_1cfa30f4/i-spent-6-hours-per-blog-post-until-i-built-this-ai-content-platform-2m14)
-- [🎨 Django Templates &amp; Static Files – Building Dynamic HTML](https://dev.to/gopal_ghate_5bda01b730e45/django-templates-static-files-building-dynamic-html-article-5-41cb)
-- [FlexColorScheme in Flutter: The Smarter Way to Theme Your Apps](https://dev.to/bestaoui_aymen/flexcolorscheme-in-flutter-the-smarter-way-to-theme-your-apps-3fml)
+- [Stop Fighting Sanity&#39;s Portable Text - Here&#39;s How to Use Markdown Instead](https://dev.to/setasena_randata_1cfa30f4/stop-fighting-sanitys-portable-text-heres-how-to-use-markdown-instead-47cb)
+- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/reshma_devi_ba32b2f54397d/indexing-hashing-query-optimization-in-dbms-965)
+- [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
+- [The Trust-First Playbook for Web3 Communications &lpar;That Actually Works&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-trust-first-playbook-for-web3-communications-that-actually-works-54ih)
+- [The Password is Dead. Long Live the Password? A Look at FIDO2, Passkeys, and the Post-SMS Future](https://dev.to/yanix_yanix_d22423595186a/the-password-is-dead-long-live-the-password-a-look-at-fido2-passkeys-and-the-post-sms-future-5fnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
