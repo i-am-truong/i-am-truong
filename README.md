@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#DAY 11: High Availability – Deploying a Reverse Proxy &lpar;Nginx&rpar;](https://dev.to/samueladeduntan/day-11-high-availability-deploying-a-reverse-proxy-nginx-mn4)
+- [Hands-On MongoDB CRUD Operations with a College Student Sche](https://dev.to/pjn_b_e25b30362b3f8ceef1d/hands-on-mongodb-crud-operations-with-a-college-student-sche-1gg5)
+- [🚀 1000+ Public APIs That Every Developer Should Use ✨](https://dev.to/we-the-developers/1000-public-apis-that-every-developer-should-use-1kk6)
+- [⚙️ How to Set Up a LEMP Server at Home &lpar;Step-by-Step Guide&rpar;](https://dev.to/alanvarghese-dev/how-to-set-up-a-lemp-server-at-home-step-by-step-guide-228m)
 - [Choosing the Right AI Model for Stock Prediction](https://dev.to/dbolotov/choosing-the-right-ai-model-for-stock-prediction-13pi)
-- [MongoDB CRUD Operations](https://dev.to/ilakkiya_99033c7a7246d48b/mongodb-crud-operations-a-hands-on-guide-with-student-data-3hkd)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-ghm)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3a55)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-3g2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
