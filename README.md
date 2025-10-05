@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create an IoT App in Kotlin Multiplatform](https://dev.to/koral/how-to-create-an-iot-app-in-kotlin-multiplatform-204m)
 - [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
+- [AI Agents for Marketing: A Real-World Content Automation Case Study](https://dev.to/jucelinux/ai-agents-for-marketing-a-real-world-content-automation-case-study-24kn)
 - [How to Deploy n8n with Defang](https://dev.to/toki_hossain/how-to-deploy-n8n-with-defang-34n5)
-- [🛠️ Hacktoberfest 2025 — 17 Pull Requests in One Day, for the Love of Clean Code 😅🤖🧠](https://dev.to/boly38/hacktoberfest-2025-17-pull-requests-en-une-journee-par-amour-du-code-propre-1hp4)
-- [O que é o Método RED para Observabilidade](https://dev.to/rafaelbonilha/o-que-e-o-metodo-red-para-observabilidade-3l0i)
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-ld)
+- [Devoxx: Hello &lpar;Virtual&rpar; World by Keren Kenzi](https://dev.to/scale_youtube/devoxx-hello-virtual-world-by-keren-kenzi-1jn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
