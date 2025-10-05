@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧙‍♂️ The Ultimate Git Wizard Guide — Time-Saving Tricks, Hidden Powers &amp; Tools That Make You Unstoppable](https://dev.to/charan_gutti_cf60c6185074/the-ultimate-git-wizard-guide-time-saving-tricks-hidden-powers-tools-that-make-you-2l9e)
+- [Angular Create App Loader Directive](https://dev.to/adamclayd/angular-create-app-loader-directive-4gm2)
 - [React 19.2&#39;s useEffectEvent vs our Custom useEventCallback](https://dev.to/hashcode01/react-192s-useeffectevent-vs-our-custom-useeventcallback-i45)
 - [Share us your project for Hacktoberfest 2025! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2025-59h2)
 - [The Power Platform – An Introduction for Beginners](https://dev.to/jocke_sjlin_4ca0d80beae0/the-power-platform-an-introduction-for-beginners-4d6o)
-- [How I Built PageRadar: The SEO Alert Tracker](https://dev.to/samir_belabbes_ac480c34ab/how-i-built-pageradar-the-seo-alert-tracker-54ef)
-- [How to Set Up WebSocket Communication Between a Chrome Extension and a Node.js Server](https://dev.to/orieasy1/how-to-set-up-websocket-communication-between-a-chrome-extension-and-a-nodejs-server-1ad2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
