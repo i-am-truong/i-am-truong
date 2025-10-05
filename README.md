@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Java Constructors: Types, Execution, and Differences from Methods](https://dev.to/nishanthan-k/understanding-java-constructors-types-execution-and-differences-from-methods-35cm)
-- [Beyond the Proxy: Building a Secure, Observable Serverless API with Amazon API Gateway](https://dev.to/harshhp/beyond-the-proxy-building-a-secure-observable-serverless-api-with-amazon-api-gateway-di2)
-- [DevOps by Doing: Deploying NGINX on Azure Kubernetes Service &lpar;AKS&rpar; with Terraform](https://dev.to/johnogbonna/devops-by-doing-deploying-nginx-on-azure-kubernetes-service-aks-with-terraform-2an0)
-- [Fundamentals metrics for Software Engineering derived from Math Statistics](https://dev.to/optiklab/fundamentals-metrics-for-software-engineering-derived-from-math-statistics-38g4)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-j5j)
+- [Cursor and Trigger in DBMS](https://dev.to/mbewe_catherine24cb068_6/cursor-and-trigger-in-dbms-4fl3)
+- [Wtf is Docker🐳?](https://dev.to/erlan_akbar/wtf-is-docker-2bej)
+- [Publishing Your Java Library to Maven Central](https://dev.to/selmaguedidi/publishing-your-java-library-to-maven-central-15in)
+- [Indexing, Hashing, and Query](https://dev.to/srivishal_b2975898351fa2b/indexing-hashing-and-query-177m)
+- [💎 Day 5 of 30 Days of Solidity — Build a Treasure Chest Contract](https://dev.to/sauravkumar8178/day-5-of-30-days-of-solidity-build-a-treasure-chest-contract-4a71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
