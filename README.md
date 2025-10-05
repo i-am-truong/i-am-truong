@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diffium found 4 great Golang contributors during Hacktoberfest!](https://dev.to/kubeden/diffium-found-4-great-golang-contributors-during-hacktoberfest-2f94)
+- [1000+ Free APIs For Developers](https://dev.to/we-the-developers/1000-free-apis-for-developers-49kc)
 - [Project Ideas](https://dev.to/muhammad_ammar_42be750b7c/project-ideas-12cb)
 - [Go Microservices Boilerplate Series: From Hello World to Production &lpar;Part 1&rpar;](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-from-hello-world-to-production-part-1-46k5)
 - [Review and Secure a Lambda Function with an IAM Least Privilege Based Security Policy: CloudTrail and Athena Approach](https://dev.to/aws-builders/review-and-secure-a-lambda-function-with-an-iam-least-privilege-based-security-policy-cloudtrail-adm)
-- [certificate authority &lpar; ca &rpar; config for fedora distro](https://dev.to/zhanghengming/certificate-authority-ca-config-for-fedora-distro-37i2)
-- [JavaScript Core Fundamentals: var, let, const, Scope, and Closures](https://dev.to/tsedid/javascript-core-fundamentals-var-let-const-scope-and-closures-1pe9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
