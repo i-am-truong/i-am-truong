@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4ofa)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-58o0)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-1fc7)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2f51)
-- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-2ieb)
+- [🧠Why OrKa-Reasoning: what orcas can teach us about building smart agent teams 🐋](https://dev.to/marcosomma/why-orka-reasoning-what-orcas-can-teach-us-about-building-smart-agent-teams-10hj)
+- [Equillar: Open-Source Fintech Foundation for Blockchain Investment Platforms](https://dev.to/icolomina/equillar-open-source-fintech-foundation-for-blockchain-investment-platforms-59a3)
+- [Sunday morning thoughts 🌤️](https://dev.to/howard_shaw_3c36a3a6cb900/sunday-morning-thoughts-5ko)
+- [🚀 1500+ Free Resources For Web Development 🤯🤩](https://dev.to/we-the-developers/1500-free-resources-for-web-development-nle)
+- [Mixture of Experts Implementation using Granite4: Harnessing Specialization with the Latest Granite Family Model](https://dev.to/aairom/mixture-of-experts-implementation-using-granite4-harnessing-specialization-with-the-latest-granite-5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
