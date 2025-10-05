@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I think you should let AI write your code](https://dev.to/koladev/i-think-you-should-let-ai-write-your-code-2jgj)
+- [If You Know These 30 JavaScript One-Liners, You’re Fast](https://dev.to/ssukhpinder/if-you-know-these-30-javascript-one-liners-youre-fast-41lk)
+- [Build a Real-Time Chat App: A Complete Node.js &amp; Socket.IO Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/build-a-real-time-chat-app-a-complete-nodejs-socketio-guide-40pl)
 - [How to Send Emails in Node.js with Nodemailer: A 2025 Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/how-to-send-emails-in-nodejs-with-nodemailer-a-2025-guide-1k09)
 - [Deep Dive into AWS Cloud WAN Core Network Policy: Configuration, Examples, and Strategy](https://dev.to/masakiokuda/deep-dive-into-aws-cloud-wan-core-network-policy-configuration-examples-and-strategy-30eo)
-- [How to Convert AWS Clicks into CDK/CloudFormation &lpar;The EASY Way&rpar;](https://dev.to/aws-builders/how-to-convert-aws-clicks-into-cdkcloudformation-the-easy-way-14lg)
-- [🧙‍♂️ The Ultimate Git Wizard Guide — Time-Saving Tricks, Hidden Powers &amp; Tools That Make You Unstoppable](https://dev.to/charan_gutti_cf60c6185074/the-ultimate-git-wizard-guide-time-saving-tricks-hidden-powers-tools-that-make-you-2l9e)
-- [Angular Create App Loader Directive](https://dev.to/adamclayd/angular-create-app-loader-directive-4gm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
