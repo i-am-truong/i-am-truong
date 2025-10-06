@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why GraphQL Is Gaining Adoption](https://dev.to/daslaw/why-graphql-is-gaining-adoption-33jl)
-- [Why We Need a Simple Portfolio with the Best UX](https://dev.to/mahfuzurrahman01/why-we-need-a-simple-portfolio-with-the-best-ux-5158)
-- [React Question &amp; Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-kap)
-- [Top 10 Admin Templates Under $50: A Developer’s Guide](https://dev.to/vaibhavg/top-10-admin-templates-under-50-a-developers-guide-15d2)
-- [Building a Cross-Account S3 to Azure Backup System with ECS Fargate](https://dev.to/clarizalooktech/building-a-cross-account-s3-to-azure-backup-system-with-ecs-fargate-3dbh)
+- [Understanding Database Normalization &lpar;1NF 2NF 3NF&rpar; with Oracle SQL — Step-by-Step Example](https://dev.to/rithika07032007/understanding-database-normalization-1nf-2nf-3nf-with-oracle-sql-step-by-step-example-5chi)
+- [Create a &quot;Digital Business Card App&quot; with React and Supabase!](https://dev.to/kazutora_hattori_66972c88/create-a-digital-business-card-app-with-react-and-supabase-3okg)
+- [Joshua Lintz and Talentcrowd defrauded the United States government, creditors, and employees. How long will it take before real accountability comes?](https://dev.to/regalroyale/joshua-lintz-and-talentcrowd-defrauded-the-united-states-government-creditors-and-employees-how-52da)
+- [AAID: Augmented AI Development](https://dev.to/dawiddahl/aaid-augmented-ai-development-50c9)
+- [Share ComfyUI Anywhere Using Colab and Pinggy](https://dev.to/lightningdev123/share-comfyui-anywhere-using-colab-and-pinggy-2ooa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
