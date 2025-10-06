@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaling AI-Assisted Development: How Scaffolding Solved My Monorepo Chaos](https://dev.to/vuong_ngo/scaling-ai-assisted-development-how-scaffolding-solved-my-monorepo-chaos-1g1k)
-- [Volant — Spin up real microVMs in 10 seconds](https://dev.to/ccheshirecat/volant-spin-up-real-microvms-in-10-seconds-3i69)
-- [Getting Started with Polkadot API &lpar;PAPI&rpar;: Building a Balance Checker](https://dev.to/mulandi_cecilia/getting-started-with-polkadot-api-papi-building-a-balance-checker-41o5)
-- [10 Frontend Principles That Work in Any Framework](https://dev.to/softwaredeveloper01/10-frontend-principles-that-work-in-any-framework-48a0)
-- [🎧 Cómo hice un recortador de audio MP3 online con FastAPI + FFmpeg](https://dev.to/whario/como-hice-un-recortador-de-audio-mp3-online-con-fastapi-ffmpeg-4m3o)
+- [Your 2025 AI Upgrade, Minus the Noise](https://dev.to/theainews/your-2025-ai-upgrade-minus-the-noise-13a5)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2078)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-50g2)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-1e36)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-2m0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
