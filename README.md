@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Refactor Smart Today, Move Faster Tomorrow — Bonus Pack: 4 Lessons to Refactor Smarter](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-bonus-pack-4-lessons-to-refactor-smarter-2jpb)
-- [Scratch your own itch: How to Build and Ship](https://dev.to/lirena00/scratch-your-own-itch-how-to-build-and-ship-50a9)
-- [Εισαγωγή στα SQL JOINs με Παραδείγματα](https://dev.to/__b63657/eisagoge-sta-sql-joins-me-paradeigmata-3e97)
-- [Anthropic: Brilliant Models, Bullshit Pricing](https://dev.to/pranta/anthropic-brilliant-models-bullshit-pricing-3m0h)
-- [Mastering React Suspense: Loading States Done Right](https://dev.to/cristiansifuentes/mastering-react-suspense-loading-states-done-right-4083)
+- [Mastering Spring Annotations: The Ultimate Guide for Beginners](https://dev.to/arunagri82/mastering-spring-annotations-the-ultimate-guide-for-beginners-38nh)
+- [LLMs … keep your self a float, learn and grow.](https://dev.to/gnrlbzik/llms-keep-your-self-a-float-learn-and-grow-14jd)
+- [Decoding the AI Index 2025: What Every Developer Needs to Know About the State of AI](https://dev.to/shifa_noorulain_2c5f713e9/decoding-the-ai-index-2025-what-every-developer-needs-to-know-about-the-state-of-ai-3gj5)
+- [String, Bytes &amp; Bytearray functions in Python](https://dev.to/hyperkai/string-bytes-bytearray-functions-in-python-23pm)
+- [Ethereum Integration in PHP for Wallets and Transfers](https://dev.to/edgaras/ethereum-integration-in-php-for-wallets-and-transfers-11d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
