@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Testing Tools and System Integration Testing &lpar;SIT&rpar;: A Complete Guide for Modern QA Teams](https://dev.to/keploy/ai-powered-testing-tools-and-system-integration-testing-sit-a-complete-guide-for-modern-qa-teams-hgn)
+- [How AI Virtual Assistants Are Revolutionizing SMB Operations](https://dev.to/agentia_support_2ba39b45a/how-ai-virtual-assistants-are-revolutionizing-smb-operations-5195)
 - [Async systems don’t stop during silence they compound.](https://dev.to/koni_jang/async-systems-dont-stop-during-silence-they-compound-547p)
 - [Understanding the Agentic Commerce Protocol: Your Guide to Selling on ChatGPT](https://dev.to/snikidev/understanding-the-agentic-commerce-protocol-your-guide-to-selling-on-chatgpt-2jeh)
 - [Agentic AI: Redefining Automation for Developers](https://dev.to/techcompass/agentic-ai-redefining-automation-for-developers-4b01)
-- [What Happens Behind the Scenes When You Run Python Code](https://dev.to/vishal_more_02990955c9358/what-happens-behind-the-scenes-when-you-run-python-code-3gfd)
-- [DBMS - Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/madhumitha_ganesan_/dbms-transactions-deadlocks-log-based-recovery-40k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
