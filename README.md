@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy and Trigger No-Code AI Workflows with Docker, Webhooks, and Messaging Apps](https://dev.to/brains_behind_bots/how-to-deploy-and-trigger-no-code-ai-workflows-with-docker-webhooks-and-messaging-apps-25n3)
-- [The Most Powerful Code You’ll Ever Write Is Mental](https://dev.to/leena_malhotra/the-most-powerful-code-youll-ever-write-is-mental-3apb)
-- [Build a Browser-Based Endless Runner Game in TypeScript: Step-by-Step Guide for Beginners](https://dev.to/m-a-h-b-u-b/build-a-browser-based-endless-runner-game-in-typescript-step-by-step-guide-for-beginners-4k4n)
-- [NORMALIZATION IN DBMS](https://dev.to/varsha_g_2eb27885a542cc8c/normalization-in-dbms-n7e)
-- [🚀 I built Beat The Boss, an HTML game, with Vibe Coding — give it a spin!](https://dev.to/arun1989ninja/i-built-beat-the-boss-an-html-game-with-vibe-coding-give-it-a-spin-4i0m)
+- [ACID PROPERTY](https://dev.to/varsha_g_2eb27885a542cc8c/acid-property-3fkm)
+- [Writing a Shopify A-Z brands page](https://dev.to/orfeo/writing-a-shopify-a-z-brands-page-4baf)
+- [Building Better Dev Habits with devKataCLI: A Terminal-Based Practice Routin](https://dev.to/fern_d3v/building-better-dev-habits-with-devkatacli-a-terminal-based-practice-routin-4ojc)
+- [JavaScript qanday ishlaydi?](https://dev.to/mkhasanov/javascript-qanday-ishlaydi-4onb)
+- [CURSOR AND TRIGGER](https://dev.to/varsha_g_2eb27885a542cc8c/cursor-and-trigger-51c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
