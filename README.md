@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to access shared folders in UTM Ubuntu VM](https://dev.to/ajeebkp23/how-to-access-shared-folders-in-utm-ubuntu-vm-590n)
-- [INDEXING - HASHING - AND -QUERY](https://dev.to/nidheesh_/indexing-hashing-and-query-3g4l)
-- [LangGraph.js AI Agent Template: production-ready Next.js framework for building AI agents](https://dev.to/jqueryscript/langgraphjs-ai-agent-template-production-ready-nextjs-framework-for-building-ai-agents-49hl)
-- [Transactions, Deadlocks &amp; Log Based Recovery](https://dev.to/nidheesh_/transactions-deadlocks-log-based-recovery-20bm)
-- [Deploying to Firebase Hosting + Firestore from GitHub actions](https://dev.to/dchaley/deploying-to-firebase-hosting-firestore-from-github-actions-5g52)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-31ha)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-5e4)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-30b2)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1pa0)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5akb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
