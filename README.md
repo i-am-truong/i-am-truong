@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI broke the DRY principle — and why that’s a good thing](https://dev.to/alisa_plays_1455c6e6766d0/how-ai-broke-the-dry-principle-and-why-thats-a-good-thing-4ch9)
-- [What Is IPS Display Technology: Advantages and Industrial Applications](https://dev.to/tonyhe8688/what-is-ips-display-technology-advantages-and-industrial-applications-3d10)
-- [The Geography of Innovation: Why St. Louis is the Perfect Testbed for Remote AI](https://dev.to/mcleanforresterllc/the-geography-of-innovation-why-st-louis-is-the-perfect-testbed-for-remote-ai-e7i)
-- [KillPort Advanced v2.0:Evolution of a Port Management Tool for macOS](https://dev.to/antoniodem/killport-advanced-v20evolution-of-a-port-management-tool-for-macos-2l82)
-- [Organizing Cursor Rules &amp; Commands Across Projects with Symlinks](https://dev.to/avmadhukiran/organizing-cursor-rules-commands-across-projects-with-symlinks-9li)
+- [Are Linked Lists necessary?](https://dev.to/karimdevelops/are-linked-lists-necessary-2ckl)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-od8)
+- [KEXP: NewDad - Pretty &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-pretty-live-on-kexp-4enb)
+- [KEXP: NewDad - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-full-performance-live-on-kexp-1do5)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3pbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
