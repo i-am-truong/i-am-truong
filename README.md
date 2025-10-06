@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We don&#39;t need GoldenLap, We got Golden Lap at home](https://dev.to/sebs/we-dont-need-goldenlap-we-got-golden-lap-at-home-ndb)
+- [Day 1 Internship Report](https://dev.to/navashub/day-1-internship-report-jci)
+- [XRPL Batch Transactions Testing Report](https://dev.to/anodos/xrpl-batch-transactions-testing-report-3p1n)
 - [Optimizing React Performance: useMemo, useCallback, and Beyond](https://dev.to/augustin_ven/optimizing-react-performance-usememo-usecallback-and-beyond-nnl)
 - [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_40446303/that-real-time-headache-its-not-the-websockets-its-your-framework-129m)
-- [SOLID Principles σε C#](https://dev.to/__b63657/solid-principles-se-c-2h26)
-- [The Redux Mystery: Why Does It Feel So Hard?](https://dev.to/salehahmedmahin/the-redux-mystery-why-does-it-feel-so-hard-31do)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_f8c307c5/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-5a43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
