@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RDS Multi-AZ DB clusters Vs Amazon Aurora Global Database](https://dev.to/wakeup_flower_8591a6cb6a9/rds-multi-az-db-clusters-vs-amazon-aurora-global-database-3flb)
+- [Power BI and DAX- Understanding data](https://dev.to/lilian_awuor/power-bi-and-dax-understanding-data-2pc)
 - [🔐 How to Set Up SSH Access for a Private GitLab Repository](https://dev.to/augustin_ven/how-to-set-up-ssh-access-for-a-private-gitlab-repository-4n4l)
 - [How Everything Makes File Search on Windows Blazingly Fast &lpar;5 Tips + Setup Guide&rpar;](https://dev.to/saadmaqsood/how-everything-makes-file-search-on-windows-blazingly-fast-5-tips-setup-guide-5147)
 - [How to Build Semantic Search in ASP.NET Core using PostgreSQL](https://dev.to/ohalay/how-to-build-semantic-search-in-aspnet-core-using-postgresql-28m8)
-- [My Motivation for Being Part of AWS Communities](https://dev.to/afu_tsechainiz_b865026/my-motivation-for-being-part-of-aws-communities-4d04)
-- [CVE-2010-3765: Mozilla Multiple Products Remote Code Execution Vulnerability](https://dev.to/freedom-coder/cve-2010-3765-mozilla-multiple-products-remote-code-execution-vulnerability-2fb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
