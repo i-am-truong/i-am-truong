@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UI Optimista: El Secreto de las Apps que se Sienten Instantáneas](https://dev.to/dariohg/ui-optimista-el-secreto-de-las-apps-que-se-sienten-instantaneas-2i5d)
 - [# Cloud Resume Challenge &lpar;Azure&rpar; - Part 2: Hosting My Resume Website](https://dev.to/jic/-cloud-resume-challenge-azure-part-2-hosting-my-resume-website-51pl)
 - [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_f8c307c5/your-projects-a-mess-its-not-you-its-your-frameworks-fault-4nhf)
 - [Beginner’s Guide #2: When to Use forEach, map, for...of, and entries&lpar;&rpar; — Explained Like You’re Five](https://dev.to/sylwia-lask/when-to-use-foreach-map-forof-and-entries-explained-like-youre-five-3i7p)
 - [The Function Modification Station: Basic Decorator Mechanics](https://dev.to/aaron_rose_0787cc8b4775a0/the-function-modification-station-basic-decorator-mechanics-39i)
-- [[Boost]](https://dev.to/dariohg/-4lii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
