@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Quit a 6-Figure Freelance Gig for a Lower-Paying Data Science Job](https://dev.to/aiwithapex/why-i-quit-a-6-figure-freelance-gig-for-a-lower-paying-data-science-job-108f)
 - [Flexi Dev Studio; journey of Ogunbiyi Jesutomisin](https://dev.to/flexi_dev_4c0ce990523a164/flexi-dev-studio-journey-of-ogunbiyi-jesutomisin-32cg)
 - [A Scenario-Based Exploration of Responsible AI Development](https://dev.to/balagmadhu/a-scenario-based-exploration-of-responsible-ai-development-5ekh)
 - [🔐Back to the Roots: Nostalgic Journey to University CTF Battles of the Early 2010s](https://dev.to/d3one/back-to-the-roots-nostalgic-journey-to-university-ctf-battles-of-the-early-2010s-3c87)
 - [CRUD Operations in MongoDB Atlas – A Beginner’s Guide with Student Database Example](https://dev.to/reshma_devi_ba32b2f54397d/crud-operations-in-mongodb-atlas-a-beginners-guide-with-student-database-example-2nkn)
-- [How Joshua Lintz and Talentcrowd Were Involved in Defrauding the United States Government](https://dev.to/yvesthebest/how-joshua-lintz-and-talentcrowd-were-involved-in-defrauding-the-united-states-government-4o0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
