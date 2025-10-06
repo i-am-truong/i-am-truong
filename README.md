@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥Top 10 Make alternatives for building AI automation 🤖](https://dev.to/composiodev/top-10-make-alternatives-for-building-ai-automation-1jgc)
-- [แก้ปัญหาภาษาไทยใน Git Log | Git Diff](https://dev.to/anuchito/aekpayhaaphaasaaaithyain-git-log-git-diff-4d14)
-- [React: Effective UI Practices - State Management](https://dev.to/gokulnathp/react-effective-ui-practices-3h82)
-- [Need advice on improving filtering page performance NEXT](https://dev.to/mastermindlegion/need-advice-on-improving-filtering-page-performance-next-460n)
-- [Geolocating History with AI: How Large Language Models are Mapping Colonial Virginia Land Grants](https://dev.to/shifa_noorulain_2c5f713e9/geolocating-history-with-ai-how-large-language-models-are-mapping-colonial-virginia-land-grants-2ol4)
+- [I Asked an AI to Build a Mobile App. It Chose Ionic Capacitor and Surprised Me](https://dev.to/aaronksaunders/i-asked-an-ai-to-build-a-mobile-app-it-chose-ionic-capacitor-and-surprised-me-44op)
+- [The Compiler&#39;s Secret: How Coroutines Actually Work](https://dev.to/kavearhasi_viswanathan/the-compilers-secret-how-coroutines-actually-work-1a62)
+- [Hacktoberfest 2025: Create Discord Features or Videos to Win Rewards 🎉](https://dev.to/waveplay/hacktoberfest-2025-create-discord-features-or-videos-to-win-rewards-2d48)
+- [Introduction to Python Module Two Part Four Data Types](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-four-data-types-ecp)
+- [Information Extraction &lpar;Tests on a Beta API&rpar; from Docling](https://dev.to/aairom/information-extraction-tests-on-a-beta-api-from-docling-4co7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
