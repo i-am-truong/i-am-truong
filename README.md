@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Caching in Vector Database: What You Need to Know](https://dev.to/anthcunny/caching-in-vector-database-what-you-need-to-know-1pkj)
-- [Fraudulent court orders were used as weapons by Joshua Lintz and Amanda Frye to dismantle Topdevs and steal everything of value.](https://dev.to/saucery/fraudulent-court-orders-were-used-as-weapons-by-joshua-lintz-and-amanda-frye-to-dismantle-topdevs-2i02)
-- [Exposing Private Load Balancers with CloudFront VPC Origins](https://dev.to/u11d/exposing-private-load-balancers-with-cloudfront-vpc-origins-4ffo)
-- [Understanding Database Normalization &lpar;1NF 2NF 3NF&rpar; with Oracle SQL — Step-by-Step Example](https://dev.to/rithika07032007/understanding-database-normalization-1nf-2nf-3nf-with-oracle-sql-step-by-step-example-5chi)
-- [Create a &quot;Digital Business Card App&quot; with React and Supabase!](https://dev.to/kazutora_hattori_66972c88/create-a-digital-business-card-app-with-react-and-supabase-3okg)
+- [Async systems don’t stop during silence they compound.](https://dev.to/koni_jang/async-systems-dont-stop-during-silence-they-compound-547p)
+- [Understanding the Agentic Commerce Protocol: Your Guide to Selling on ChatGPT](https://dev.to/snikidev/understanding-the-agentic-commerce-protocol-your-guide-to-selling-on-chatgpt-2jeh)
+- [Agentic AI: Redefining Automation for Developers](https://dev.to/techcompass/agentic-ai-redefining-automation-for-developers-4b01)
+- [What Happens Behind the Scenes When You Run Python Code](https://dev.to/vishal_more_02990955c9358/what-happens-behind-the-scenes-when-you-run-python-code-3gfd)
+- [DBMS - Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/madhumitha_ganesan_/dbms-transactions-deadlocks-log-based-recovery-40k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
