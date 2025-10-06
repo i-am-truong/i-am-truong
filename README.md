@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI and Attorney-Client Privilege: Hidden Cloud Risks and How to Keep Confidentiality Safe](https://dev.to/heyjoshlee/ai-and-attorney-client-privilege-hidden-cloud-risks-and-how-to-keep-confidentiality-safe-2dh)
-- [µs Human-Readable IDs: A Performance Journey](https://dev.to/sergei_fedorovzmij_613/us-human-readable-ids-a-performance-journey-455c)
-- [I Made My ENS Domain Searchable on Google &lpar;85% Knowledge Panel Probability&rpar;](https://dev.to/ookyet/i-made-my-ens-domain-searchable-on-google-85-knowledge-panel-probability-2d5)
-- [🔄 Real-World Migration Steps from Tailwind CSS v3 to v4](https://dev.to/mridudixit15/real-world-migration-steps-from-tailwind-css-v3-to-v4-1nn3)
-- [Building the Future of Aircon Servicing with C++](https://dev.to/tintclarityanalyst/building-the-future-of-aircon-servicing-with-c-h29)
+- [Unlocking Azure Blob Storage: A Developer’s Journey, Comparisons &amp; C# in Action](https://dev.to/abhishek_adhav_22ab0c2463/unlocking-azure-blob-storage-a-developers-journey-comparisons-c-in-action-1pdl)
+- [InstaTrack: Track Your Instagram Followers &amp; Following &lpar;Privacy-First, Open Source&rpar;](https://dev.to/njoylab/instatrack-track-your-instagram-followers-following-privacy-first-open-source-5291)
+- [I Thought My Backups Were Safe - Until I Tried Restoring One](https://dev.to/highflyer910/i-thought-my-backups-were-safe-until-i-tried-restoring-one-387i)
+- [Automating Text-to-Video Pipelines with Sora 2 and n8n](https://dev.to/alifar/automating-text-to-video-pipelines-with-sora-2-and-n8n-lh0)
+- [Part-111: 🧱Understanding Kubernetes StatefulSets — The Right Way!](https://dev.to/latchudevops/part-111-understanding-kubernetes-statefulsets-the-right-way-331l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
