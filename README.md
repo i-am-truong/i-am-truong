@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-19l8)
-- [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-1dha)
-- [AI in Cloud Cost Optimization: The Ultimate Guide to Smarter Spending](https://dev.to/satyam_gupta_0d1ff2152dcc/ai-in-cloud-cost-optimization-the-ultimate-guide-to-smarter-spending-4lf9)
-- [Comunidade é a nova infraestrutura](https://dev.to/angelo_matias/comunidade-e-a-nova-infraestrutura-1p0i)
-- [Amazon Bedrock AgentCore Runtime - Part 7 Using AgentCore long-term Memory with Strands Agents SDK](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-7-using-agentcore-long-term-memory-with-strands-agents-sdk-lb2)
+- [What are your goals for the week? #147](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-147-2ooe)
+- [Decoding the AI Index: Key Trends and What They Mean for Developers](https://dev.to/shifa_noorulain_2c5f713e9/decoding-the-ai-index-key-trends-and-what-they-mean-for-developers-3od9)
+- [DBMS: TRANSACTIONS,DEADLOCKS &amp; LOG- BASED RECOVERY](https://dev.to/rithika07032007/dbms-transactionsdeadlocks-log-based-recovery-4gcb)
+- [6 Different Data Formats Commonly Used in Data Analytics](https://dev.to/aadhitya_dev_/6-different-data-formats-commonly-used-in-data-analytics-243n)
+- [🧠 “Data Formats: The Avengers of Analytics” &lpar;And Who’s the Real Hero?&rpar;](https://dev.to/prabakaran_sr_f514523561/data-formats-the-avengers-of-analytics-and-whos-the-real-hero-5111)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
