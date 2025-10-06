@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We don&#39;t need GoldenLap, We got Golden Lap at home](https://dev.to/sebs/we-dont-need-goldenlap-we-got-golden-lap-at-home-ndb)
-- [Day 1 Internship Report](https://dev.to/navashub/day-1-internship-report-jci)
-- [XRPL Batch Transactions Testing Report](https://dev.to/anodos/xrpl-batch-transactions-testing-report-3p1n)
-- [Optimizing React Performance: useMemo, useCallback, and Beyond](https://dev.to/augustin_ven/optimizing-react-performance-usememo-usecallback-and-beyond-nnl)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_40446303/that-real-time-headache-its-not-the-websockets-its-your-framework-129m)
+- [The Function Modification Station: Basic Decorator Mechanics](https://dev.to/aaron_rose_0787cc8b4775a0/the-function-modification-station-basic-decorator-mechanics-39i)
+- [[Boost]](https://dev.to/dariohg/-4lii)
+- [Install NUT on RaspberryPi with AlmaLinux](https://dev.to/kubenetic/install-nut-on-raspberrypi-with-almalinux-1dk8)
+- [Browse your AWS Data Lake tables in your JetBrains IDE, with IAM Identity Center authentication](https://dev.to/aws-builders/browse-your-aws-data-lake-tables-in-your-jetbrains-ide-with-iam-identity-center-authentication-1182)
+- [Object Pooling en Flutter: Cuando Reutilizar es Mejor que Recrear](https://dev.to/julio_perez_000dc5f855f18/object-pooling-en-flutter-cuando-reutilizar-es-mejor-que-recrear-h60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
