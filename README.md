@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How MedAI Will Transform Hospitals and Patient Care by 2035: My Predictions](https://dev.to/canro91/how-medai-will-transform-hospitals-and-patient-care-by-2035-my-predictions-3e1a)
+- [💥 Myth #13: You must model everything in detail](https://dev.to/tmorin/myth-13-you-must-model-everything-in-detail-10c5)
+- [ACID Properties in Database](https://dev.to/harish_t_aa27d59c9c2493a5/acid-properties-in-database-27be)
+- [Day 02 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-02-of-my-ai-data-mastery-journey-from-python-to-generative-ai-30lk)
 - [Data Formats](https://dev.to/vignesh_k_165855f8c465905/data-formats-217i)
-- [Unit Testing is Overrated and Won&#39;t Help You Write Better Code](https://dev.to/teamcamp/unit-testing-is-overrated-and-wont-help-you-write-better-code-347p)
-- [Perl 🐪 Weekly #741 - Money to TPRF 💰](https://dev.to/szabgab/perl-weekly-741-money-to-tprf-17p6)
-- [Why I Quit a 6-Figure Freelance Gig for a Lower-Paying Data Science Job](https://dev.to/aiwithapex/why-i-quit-a-6-figure-freelance-gig-for-a-lower-paying-data-science-job-108f)
-- [Flexi Dev Studio; journey of Ogunbiyi Jesutomisin](https://dev.to/flexi_dev_4c0ce990523a164/flexi-dev-studio-journey-of-ogunbiyi-jesutomisin-32cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
