@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Mastering Spring Annotations: The Ultimate Guide for Beginners](https://dev.to/arunagri82/mastering-spring-annotations-the-ultimate-guide-for-beginners-38nh)
 - [LLMs … keep your self a float, learn and grow.](https://dev.to/gnrlbzik/llms-keep-your-self-a-float-learn-and-grow-14jd)
-- [Decoding the AI Index 2025: What Every Developer Needs to Know About the State of AI](https://dev.to/shifa_noorulain_2c5f713e9/decoding-the-ai-index-2025-what-every-developer-needs-to-know-about-the-state-of-ai-3gj5)
 - [String, Bytes &amp; Bytearray functions in Python](https://dev.to/hyperkai/string-bytes-bytearray-functions-in-python-23pm)
 - [Ethereum Integration in PHP for Wallets and Transfers](https://dev.to/edgaras/ethereum-integration-in-php-for-wallets-and-transfers-11d2)
+- [# Building Production-Ready LLM Applications: Introducing llama-app-generator](https://dev.to/pooriayousefi/-building-production-ready-llm-applications-introducing-llama-app-generator-2kjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
