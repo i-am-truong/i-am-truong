@@ -120,13 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 How Linux Helped Me Overcome Procrastination &lpar;and Rediscover My Focus&rpar;](https://dev.to/oscar-ruinz/how-linux-helped-me-overcome-procrastination-and-rediscover-my-focus-mpk)
 - [AI and the Future of Transportation Systems](https://dev.to/maurizio_morri_f7f4bd128c/ai-and-the-future-of-transportation-systems-j5n)
 - [List in Python &lpar;5&rpar;](https://dev.to/hyperkai/list-in-python-4-coa)
 - [What can go wrong when using database transactions?](https://dev.to/alejandro_du/what-can-go-wrong-when-using-database-transactions-40p6)
 - [&quot;Effective September 1, 2020, certificates valid for more than 398 days will not be trusted.&quot;
 
 No vote. No consensus. Just done.](https://dev.to/toddhgardner/effective-september-1-2020-certificates-valid-for-more-than-398-days-will-not-be-trusted-no-2o67)
-- [Fixing CSS not updating in production &lpar;Laravel + Blade&rpar;](https://dev.to/tahsin000/fixing-css-not-updating-in-production-laravel-blade-2ncp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
