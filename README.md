@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Are Linked Lists necessary?](https://dev.to/karimdevelops/are-linked-lists-necessary-2ckl)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-od8)
-- [KEXP: NewDad - Pretty &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-pretty-live-on-kexp-4enb)
-- [KEXP: NewDad - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-full-performance-live-on-kexp-1do5)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3pbj)
+- [Managing multiple databases in Docker without having 50 commands saved in Notion](https://dev.to/abians/managing-multiple-databases-in-docker-without-having-50-commands-saved-in-notion-486c)
+- [Announcing Lustra: a Postgres ORM for Crystal](https://dev.to/mamantoha/announcing-lustra-a-postgres-orm-for-crystal-2pdm)
+- [Gestionar múltiples bases de datos en Docker sin tener 50 comandos guardados en Notion](https://dev.to/abians/gestionar-multiples-bases-de-datos-en-docker-sin-tener-50-comandos-guardados-en-notion-2pbe)
+- [How I Turned a Simple Habit Tracker Into a $15K/Month App](https://dev.to/diwakarkashyap/how-i-turned-a-simple-habit-tracker-into-a-15kmonth-app-lmc)
+- [Mastering React Components — Named vs Default Exports, PropTypes vs TypeScript, and Production-Ready Patterns](https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-4abj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
