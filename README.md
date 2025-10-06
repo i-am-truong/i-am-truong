@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [# Cloud Resume Challenge &lpar;Azure&rpar; - Part 2: Hosting My Resume Website](https://dev.to/jic/-cloud-resume-challenge-azure-part-2-hosting-my-resume-website-51pl)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_f8c307c5/your-projects-a-mess-its-not-you-its-your-frameworks-fault-4nhf)
+- [Beginner’s Guide #2: When to Use forEach, map, for...of, and entries&lpar;&rpar; — Explained Like You’re Five](https://dev.to/sylwia-lask/when-to-use-foreach-map-forof-and-entries-explained-like-youre-five-3i7p)
 - [The Function Modification Station: Basic Decorator Mechanics](https://dev.to/aaron_rose_0787cc8b4775a0/the-function-modification-station-basic-decorator-mechanics-39i)
 - [[Boost]](https://dev.to/dariohg/-4lii)
-- [Install NUT on RaspberryPi with AlmaLinux](https://dev.to/kubenetic/install-nut-on-raspberrypi-with-almalinux-1dk8)
-- [Browse your AWS Data Lake tables in your JetBrains IDE, with IAM Identity Center authentication](https://dev.to/aws-builders/browse-your-aws-data-lake-tables-in-your-jetbrains-ide-with-iam-identity-center-authentication-1182)
-- [Object Pooling en Flutter: Cuando Reutilizar es Mejor que Recrear](https://dev.to/julio_perez_000dc5f855f18/object-pooling-en-flutter-cuando-reutilizar-es-mejor-que-recrear-h60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
