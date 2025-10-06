@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Array: Why Normalized Maps and Sets Supercharge Your Frontend Performance](https://dev.to/it-wibrc/beyond-the-array-why-normalized-maps-and-sets-supercharge-your-frontend-performance-12k9)
 - [OOMKilled Pods: A guide to troubleshooting.](https://dev.to/vijayendrahunasgi/oomkilled-pods-a-guide-to-troubleshooting-2c03)
 - [Mi motivación para estar en las comunidades AWS](https://dev.to/afu_tsechainiz_b865026/mi-motivacion-para-estar-en-las-comunidades-aws-4lho)
 - [React 19.2 and Server/Actions: how it works together with OneEntry Low-Code integrations](https://dev.to/oneentry/react-192-and-serveractions-how-it-works-together-with-oneentry-low-code-integrations-2698)
-- [Week 3: Mongoose and the Basics of JWT Authentication](https://dev.to/nikhilsharma6/week-3-mongoose-and-the-basics-of-jwt-authentication-4bnl)
-- [NestJS Expert Series – Part 5: API Gateway and Service Communication](https://dev.to/devto_with_yog/nestjs-expert-series-part-5-api-gateway-and-service-communication-o10)
+- [Vibe Coding a Real-Time Pixel Collaboration App 🎨](https://dev.to/taubyte/vibe-coding-a-real-time-pixel-collaboration-app-41b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
