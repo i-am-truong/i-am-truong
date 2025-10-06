@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: 31 Minutos: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-31-minutos-tiny-desk-concert-4i4e)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-552c)
-- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-13ao)
-- [Family Adventure on the Manaslu Circuit: A Himalayan Trek for All Ages](https://dev.to/joywinter90/family-adventure-on-the-manaslu-circuit-a-himalayan-trek-for-all-ages-3gi9)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-eo0)
+- [Building Intelligent Research Agents with OpenAI&#39;s Agents Framework](https://dev.to/bogdanpi/building-intelligent-research-agents-with-openais-agents-framework-2j1)
+- [Automate Disaster Recovery Plan Validation in OCI Using a Custom Precheck Tool](https://dev.to/amoubarak/automate-disaster-recovery-plan-validation-in-oci-using-a-custom-precheck-tool-1omo)
+- [Is SQL BETWEEN Inclusive or Exclusive?](https://dev.to/mayallo/is-sql-between-inclusive-or-exclusive-22b0)
+- [CRUD &lpar;Create, Read, Update, Delete&rpar;](https://dev.to/tharani_tharan_d35086d3b9/crud-create-read-update-delete-4mhl)
+- [# Building CodeGenie: A Local AI Coding Agent &lpar;100% Offline &amp; Private&rpar;](https://dev.to/vision2030/-building-codegenie-a-local-ai-coding-agent-100-offline-private-4dm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
