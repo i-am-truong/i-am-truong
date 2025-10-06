@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/brian_dussault/-4hkj)
-- [**Generative AI Showdown: VAEs vs Diffusers** In the ever-e](https://dev.to/drcarlosruizviquez/generative-ai-showdown-vaes-vs-diffusersin-the-ever-e-22im)
-- [CRUD Operation in MongoDB](https://dev.to/nidheesh_/crud-operation-in-mongodb-24gh)
-- [**Unleash the Creative Potential of Magenta: A TensorFlow-Ba](https://dev.to/drcarlosruizviquez/unleash-the-creative-potential-of-magenta-a-tensorflow-ba-2640)
-- [**Revolutionizing Personalized Content with AI: The Rise of](https://dev.to/drcarlosruizviquez/revolutionizing-personalized-content-with-ai-the-rise-of-n0d)
+- [**Unlocking the Power of Personalization: How Netflix&#39;s AI D](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-personalization-how-netflixs-ai-d-403j)
+- [🔹 CRUD Operations in MongoDB – A Hands-on College Student Example](https://dev.to/deepana_ee9087276132ad19f/crud-operations-in-mongodb-a-hands-on-college-student-example-3gjg)
+- [⚠️ **Overfitting to Data with Temporal Correlations: A Perva](https://dev.to/drcarlosruizviquez/overfitting-to-data-with-temporal-correlations-a-perva-6g1)
+- [My DevOps Journey: Part 8 - Network Security and DevSecOps: Protecting What Connects](https://dev.to/sheershsinha/my-devops-journey-part-8-network-security-and-devsecops-protecting-what-connects-3gna)
+- [Bootstrapped my own Link-in-Bio](https://dev.to/omarambat/bootstrapped-my-own-link-in-bio-hj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
