@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Formats](https://dev.to/vignesh_k_165855f8c465905/data-formats-217i)
+- [Unit Testing is Overrated and Won&#39;t Help You Write Better Code](https://dev.to/teamcamp/unit-testing-is-overrated-and-wont-help-you-write-better-code-347p)
+- [Perl 🐪 Weekly #741 - Money to TPRF 💰](https://dev.to/szabgab/perl-weekly-741-money-to-tprf-17p6)
 - [Why I Quit a 6-Figure Freelance Gig for a Lower-Paying Data Science Job](https://dev.to/aiwithapex/why-i-quit-a-6-figure-freelance-gig-for-a-lower-paying-data-science-job-108f)
 - [Flexi Dev Studio; journey of Ogunbiyi Jesutomisin](https://dev.to/flexi_dev_4c0ce990523a164/flexi-dev-studio-journey-of-ogunbiyi-jesutomisin-32cg)
-- [A Scenario-Based Exploration of Responsible AI Development](https://dev.to/balagmadhu/a-scenario-based-exploration-of-responsible-ai-development-5ekh)
-- [🔐Back to the Roots: Nostalgic Journey to University CTF Battles of the Early 2010s](https://dev.to/d3one/back-to-the-roots-nostalgic-journey-to-university-ctf-battles-of-the-early-2010s-3c87)
-- [CRUD Operations in MongoDB Atlas – A Beginner’s Guide with Student Database Example](https://dev.to/reshma_devi_ba32b2f54397d/crud-operations-in-mongodb-atlas-a-beginners-guide-with-student-database-example-2nkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
