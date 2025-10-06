@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How AI broke the DRY principle — and why that’s a good thing](https://dev.to/alisa_plays_1455c6e6766d0/how-ai-broke-the-dry-principle-and-why-thats-a-good-thing-4ch9)
+- [What Is IPS Display Technology: Advantages and Industrial Applications](https://dev.to/tonyhe8688/what-is-ips-display-technology-advantages-and-industrial-applications-3d10)
 - [The Geography of Innovation: Why St. Louis is the Perfect Testbed for Remote AI](https://dev.to/mcleanforresterllc/the-geography-of-innovation-why-st-louis-is-the-perfect-testbed-for-remote-ai-e7i)
+- [KillPort Advanced v2.0:Evolution of a Port Management Tool for macOS](https://dev.to/antoniodem/killport-advanced-v20evolution-of-a-port-management-tool-for-macos-2l82)
 - [Organizing Cursor Rules &amp; Commands Across Projects with Symlinks](https://dev.to/avmadhukiran/organizing-cursor-rules-commands-across-projects-with-symlinks-9li)
-- [How I Created My First MongoDB Cluster and Connected It with Compass](https://dev.to/aksharaal_13/how-i-created-my-first-mongodb-cluster-and-connected-it-with-compass-43d8)
-- [I Asked an AI to Build a Mobile App. It Chose Ionic Capacitor and Surprised Me](https://dev.to/aaronksaunders/i-asked-an-ai-to-build-a-mobile-app-it-chose-ionic-capacitor-and-surprised-me-44op)
-- [The Compiler&#39;s Secret: How Coroutines Actually Work](https://dev.to/kavearhasi_viswanathan/the-compilers-secret-how-coroutines-actually-work-1a62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
