@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a React Native Project &lpar;bun + Expo development built&rpar;](https://dev.to/cathylai/create-a-react-native-project-bun-expo-development-built-4mc4)
+- [IAM in AWS](https://dev.to/jumptotech/iam-in-aws-4bf3)
 - [Automated Backup System Using n8n: Dropbox to Google Drive](https://dev.to/aihacks/automated-backup-system-using-n8n-dropbox-to-google-drive-g7k)
 - [[Boost]](https://dev.to/mutindakioko/-3no0)
 - [DSPy-ReAct-Machina: An Alternative Multi-Turn ReAct Module for DSPy](https://dev.to/armoucar/dspy-react-machina-an-alternative-multi-turn-react-module-for-dspy-2ee9)
-- [My Hands-On Experience with Network Monitoring Using PRTG](https://dev.to/samueladeduntan/my-hands-on-experience-with-network-monitoring-using-prtg-3j1m)
-- [Inspiring Google Developers video retrospective](https://dev.to/wescpy/inspiring-google-developers-video-retrospective-4c15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
