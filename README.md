@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding Challenge Practice - Question 22](https://dev.to/tomivan/coding-challenge-practice-question-22-4pb8)
+- [Real Results, Not Battlecard Bloat: The Outcomes Playwise HQ Delivers](https://dev.to/paultowers/real-results-not-battlecard-bloat-the-outcomes-playwise-hq-delivers-37ec)
+- [50 Most Useful Node.js Snippets](https://dev.to/softwaredeveloper01/50-most-useful-nodejs-snippets-54do)
 - [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-42ac)
 - [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-i1m)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-57g5)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-4gk7)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-21jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
