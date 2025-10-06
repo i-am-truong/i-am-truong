@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Agents: Planner, Generator, and Healer in Action](https://dev.to/playwright/playwright-agents-planner-generator-and-healer-in-action-5ajh)
-- [logbloglogbloglogblog](https://dev.to/arjunmukeshh/logbloglogbloglogblog-mgh)
-- [Expert Session: MongoDB](https://dev.to/deechanya_sj_672e4b61bd62/expert-session-mongodb-21o1)
-- [How Small Businesses Can Safeguard Themselves Against Cyberattacks](https://dev.to/guardingpearsoftware/how-small-businesses-can-safeguard-themselves-against-cyberattacks-1fhc)
-- [Optimizing Python Loops for Speed and Memory Efficiency with Generators](https://dev.to/rigalpatel001/optimizing-python-loops-for-speed-and-memory-efficiency-with-generators-5gm0)
+- [Refactor Smart Today, Move Faster Tomorrow — Bonus Pack: 4 Lessons to Refactor Smarter](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-bonus-pack-4-lessons-to-refactor-smarter-2jpb)
+- [Scratch your own itch: How to Build and Ship](https://dev.to/lirena00/scratch-your-own-itch-how-to-build-and-ship-50a9)
+- [Εισαγωγή στα SQL JOINs με Παραδείγματα](https://dev.to/__b63657/eisagoge-sta-sql-joins-me-paradeigmata-3e97)
+- [Anthropic: Brilliant Models, Bullshit Pricing](https://dev.to/pranta/anthropic-brilliant-models-bullshit-pricing-3m0h)
+- [Mastering React Suspense: Loading States Done Right](https://dev.to/cristiansifuentes/mastering-react-suspense-loading-states-done-right-4083)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
