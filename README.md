@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Use the Apps Script project dashboard](https://dev.to/googleworkspace/use-the-apps-script-project-dashboard-1e0j)
-- [Event Handling: Automatic Event Bootstrapping](https://dev.to/maksim_matlakhov/event-handling-automatic-event-bootstrapping-5epl)
-- [Plotting a Sine function in Python using Matplotlib and NumPy, and adding Grid lines.](https://dev.to/onaolapo11/plotting-a-sine-function-in-python-using-matplotlib-and-numpy-and-adding-grid-lines-43o7)
-- [🎃 Contribute to a Go REST API Boilerplate — Perfect for Hacktoberfest Beginners!](https://dev.to/vahiiiid/contribute-to-a-go-rest-api-boilerplate-perfect-for-hacktoberfest-beginners-19co)
-- [Normalization](https://dev.to/rokesh_s_8c34404217ded3/normalization-15fd)
+- [🔥Top 10 Make alternatives for building AI automation 🤖](https://dev.to/composiodev/top-10-make-alternatives-for-building-ai-automation-1jgc)
+- [แก้ปัญหาภาษาไทยใน Git Log | Git Diff](https://dev.to/anuchito/aekpayhaaphaasaaaithyain-git-log-git-diff-4d14)
+- [React: Effective UI Practices - State Management](https://dev.to/gokulnathp/react-effective-ui-practices-3h82)
+- [Need advice on improving filtering page performance NEXT](https://dev.to/mastermindlegion/need-advice-on-improving-filtering-page-performance-next-460n)
+- [Geolocating History with AI: How Large Language Models are Mapping Colonial Virginia Land Grants](https://dev.to/shifa_noorulain_2c5f713e9/geolocating-history-with-ai-how-large-language-models-are-mapping-colonial-virginia-land-grants-2ol4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
