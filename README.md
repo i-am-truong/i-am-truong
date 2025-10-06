@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Array: Why Normalized Maps and Sets Supercharge Your Frontend Performance](https://dev.to/it-wibrc/beyond-the-array-why-normalized-maps-and-sets-supercharge-your-frontend-performance-12k9)
-- [OOMKilled Pods: A guide to troubleshooting.](https://dev.to/vijayendrahunasgi/oomkilled-pods-a-guide-to-troubleshooting-2c03)
-- [Mi motivación para estar en las comunidades AWS](https://dev.to/afu_tsechainiz_b865026/mi-motivacion-para-estar-en-las-comunidades-aws-4lho)
-- [React 19.2 and Server/Actions: how it works together with OneEntry Low-Code integrations](https://dev.to/oneentry/react-192-and-serveractions-how-it-works-together-with-oneentry-low-code-integrations-2698)
-- [Vibe Coding a Real-Time Pixel Collaboration App 🎨](https://dev.to/taubyte/vibe-coding-a-real-time-pixel-collaboration-app-41b2)
+- [Playwright Agents: Planner, Generator, and Healer in Action](https://dev.to/playwright/playwright-agents-planner-generator-and-healer-in-action-5ajh)
+- [logbloglogbloglogblog](https://dev.to/arjunmukeshh/logbloglogbloglogblog-mgh)
+- [Expert Session: MongoDB](https://dev.to/deechanya_sj_672e4b61bd62/expert-session-mongodb-21o1)
+- [How Small Businesses Can Safeguard Themselves Against Cyberattacks](https://dev.to/guardingpearsoftware/how-small-businesses-can-safeguard-themselves-against-cyberattacks-1fhc)
+- [Optimizing Python Loops for Speed and Memory Efficiency with Generators](https://dev.to/rigalpatel001/optimizing-python-loops-for-speed-and-memory-efficiency-with-generators-5gm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
