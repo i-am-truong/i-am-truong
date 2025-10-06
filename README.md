@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #147](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-147-2ooe)
-- [Decoding the AI Index: Key Trends and What They Mean for Developers](https://dev.to/shifa_noorulain_2c5f713e9/decoding-the-ai-index-key-trends-and-what-they-mean-for-developers-3od9)
-- [DBMS: TRANSACTIONS,DEADLOCKS &amp; LOG- BASED RECOVERY](https://dev.to/rithika07032007/dbms-transactionsdeadlocks-log-based-recovery-4gcb)
-- [6 Different Data Formats Commonly Used in Data Analytics](https://dev.to/aadhitya_dev_/6-different-data-formats-commonly-used-in-data-analytics-243n)
-- [🧠 “Data Formats: The Avengers of Analytics” &lpar;And Who’s the Real Hero?&rpar;](https://dev.to/prabakaran_sr_f514523561/data-formats-the-avengers-of-analytics-and-whos-the-real-hero-5111)
+- [Use the Apps Script project dashboard](https://dev.to/googleworkspace/use-the-apps-script-project-dashboard-1e0j)
+- [Event Handling: Automatic Event Bootstrapping](https://dev.to/maksim_matlakhov/event-handling-automatic-event-bootstrapping-5epl)
+- [Plotting a Sine function in Python using Matplotlib and NumPy, and adding Grid lines.](https://dev.to/onaolapo11/plotting-a-sine-function-in-python-using-matplotlib-and-numpy-and-adding-grid-lines-43o7)
+- [🎃 Contribute to a Go REST API Boilerplate — Perfect for Hacktoberfest Beginners!](https://dev.to/vahiiiid/contribute-to-a-go-rest-api-boilerplate-perfect-for-hacktoberfest-beginners-19co)
+- [Normalization](https://dev.to/rokesh_s_8c34404217ded3/normalization-15fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
