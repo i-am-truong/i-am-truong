@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fraudulent court orders were used as weapons by Joshua Lintz and Amanda Frye to dismantle Topdevs and steal everything of value.](https://dev.to/saucery/fraudulent-court-orders-were-used-as-weapons-by-joshua-lintz-and-amanda-frye-to-dismantle-topdevs-2i02)
+- [Exposing Private Load Balancers with CloudFront VPC Origins](https://dev.to/u11d/exposing-private-load-balancers-with-cloudfront-vpc-origins-4ffo)
 - [Understanding Database Normalization &lpar;1NF 2NF 3NF&rpar; with Oracle SQL — Step-by-Step Example](https://dev.to/rithika07032007/understanding-database-normalization-1nf-2nf-3nf-with-oracle-sql-step-by-step-example-5chi)
 - [Create a &quot;Digital Business Card App&quot; with React and Supabase!](https://dev.to/kazutora_hattori_66972c88/create-a-digital-business-card-app-with-react-and-supabase-3okg)
 - [Joshua Lintz and Talentcrowd defrauded the United States government, creditors, and employees. How long will it take before real accountability comes?](https://dev.to/regalroyale/joshua-lintz-and-talentcrowd-defrauded-the-united-states-government-creditors-and-employees-how-52da)
-- [AAID: Augmented AI Development](https://dev.to/dawiddahl/aaid-augmented-ai-development-50c9)
-- [Share ComfyUI Anywhere Using Colab and Pinggy](https://dev.to/lightningdev123/share-comfyui-anywhere-using-colab-and-pinggy-2ooa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
