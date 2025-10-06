@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Athentication session &amp; Application session](https://dev.to/wakeup_flower_8591a6cb6a9/athentication-session-application-session-40jo)
-- [Criando Salesforce Sanboxes](https://dev.to/lizvidotti/criando-salesforce-sanboxes-l36)
-- [Indexing, Hashing &amp; Query Optimization](https://dev.to/rohivarshini_saravanan_29/indexing-hashing-query-optimization-2799)
-- [⚡ Tailwind CSS Essentials, Tools &amp; VS Code Extensions You’ll Wish You Knew Earlier](https://dev.to/charan_gutti_cf60c6185074/tailwind-css-essentials-tools-vs-code-extensions-youll-wish-you-knew-earlier-3888)
-- [HTML,CSS, JavaScript only - Free Websites to deploy](https://dev.to/coding_agent_007/htmlcss-javascript-only-free-websites-to-deploy-49b)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-19l8)
+- [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-1dha)
+- [AI in Cloud Cost Optimization: The Ultimate Guide to Smarter Spending](https://dev.to/satyam_gupta_0d1ff2152dcc/ai-in-cloud-cost-optimization-the-ultimate-guide-to-smarter-spending-4lf9)
+- [Comunidade é a nova infraestrutura](https://dev.to/angelo_matias/comunidade-e-a-nova-infraestrutura-1p0i)
+- [Amazon Bedrock AgentCore Runtime - Part 7 Using AgentCore long-term Memory with Strands Agents SDK](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-7-using-agentcore-long-term-memory-with-strands-agents-sdk-lb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
