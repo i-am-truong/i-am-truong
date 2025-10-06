@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UI Optimista: El Secreto de las Apps que se Sienten Instantáneas](https://dev.to/dariohg/ui-optimista-el-secreto-de-las-apps-que-se-sienten-instantaneas-2i5d)
-- [# Cloud Resume Challenge &lpar;Azure&rpar; - Part 2: Hosting My Resume Website](https://dev.to/jic/-cloud-resume-challenge-azure-part-2-hosting-my-resume-website-51pl)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_f8c307c5/your-projects-a-mess-its-not-you-its-your-frameworks-fault-4nhf)
-- [Beginner’s Guide #2: When to Use forEach, map, for...of, and entries&lpar;&rpar; — Explained Like You’re Five](https://dev.to/sylwia-lask/when-to-use-foreach-map-forof-and-entries-explained-like-youre-five-3i7p)
-- [The Function Modification Station: Basic Decorator Mechanics](https://dev.to/aaron_rose_0787cc8b4775a0/the-function-modification-station-basic-decorator-mechanics-39i)
+- [What can go wrong when using database transactions?](https://dev.to/alejandro_du/what-can-go-wrong-when-using-database-transactions-40p6)
+- [&quot;Effective September 1, 2020, certificates valid for more than 398 days will not be trusted.&quot;
+
+No vote. No consensus. Just done.](https://dev.to/toddhgardner/effective-september-1-2020-certificates-valid-for-more-than-398-days-will-not-be-trusted-no-2o67)
+- [Fixing CSS not updating in production &lpar;Laravel + Blade&rpar;](https://dev.to/tahsin000/fixing-css-not-updating-in-production-laravel-blade-2ncp)
+- [Apple vs. The CAs: The Day One Company Changed Internet Security Forever](https://dev.to/certkit/apple-vs-the-cas-the-day-one-company-changed-internet-security-forever-2bc4)
+- [The Parameter Laboratory: Decorators with Arguments](https://dev.to/aaron_rose_0787cc8b4775a0/the-parameter-laboratory-decorators-with-arguments-40mp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
