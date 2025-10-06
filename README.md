@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Postman Alternative Guide: Which API Client is Right for You in 2025?](https://dev.to/amrishkhan05/the-postman-alternative-guide-which-api-client-is-right-for-you-in-2025-2p0b)
-- [Machine Learning Zoomcamp Week 2](https://dev.to/ladys/machine-learning-zoomcamp-week-2-1lp5)
-- [From Zero to Production: Creating ReceiptFlow Pro in 10 Hours Using AI-Powered Development](https://dev.to/adityadhakane/from-zero-to-production-creating-receiptflow-pro-in-10-hours-using-ai-powered-development-3p5k)
-- [GitHub Actions 101: Your First Step Into CI/CD](https://dev.to/miannemendoza/github-actions-101-your-first-step-into-cicd-674)
-- [Shopify App: October 2025 Updates](https://dev.to/jordanfinners/shopify-app-october-2025-updates-4c5a)
+- [Convex - an alternative to Firebase and Supabase](https://dev.to/noyan_alim/convex-an-alternative-to-firebase-and-supabase-3n9e)
+- [The Stack Unpacked Episode 4: to Query or Not to Query](https://dev.to/shaq_attack/the-stack-unpacked-episode-4-to-query-or-not-to-query-4jcp)
+- [My Journey with Pipecat + Attendee &lpar;And Hacking the Infrastructure&rpar;](https://dev.to/angad_2002/my-journey-with-pipecat-attendee-and-hacking-the-infrastructure-3cea)
+- [Part-110: 🗄️Deploying PVC and PV with Pods in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-110-deploying-pvc-and-pv-with-pods-in-google-kubernetes-engine-gke-280h)
+- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-3n3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
