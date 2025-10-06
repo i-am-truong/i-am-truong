@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing multiple databases in Docker without having 50 commands saved in Notion](https://dev.to/abians/managing-multiple-databases-in-docker-without-having-50-commands-saved-in-notion-486c)
-- [Announcing Lustra: a Postgres ORM for Crystal](https://dev.to/mamantoha/announcing-lustra-a-postgres-orm-for-crystal-2pdm)
-- [Gestionar múltiples bases de datos en Docker sin tener 50 comandos guardados en Notion](https://dev.to/abians/gestionar-multiples-bases-de-datos-en-docker-sin-tener-50-comandos-guardados-en-notion-2pbe)
-- [How I Turned a Simple Habit Tracker Into a $15K/Month App](https://dev.to/diwakarkashyap/how-i-turned-a-simple-habit-tracker-into-a-15kmonth-app-lmc)
-- [Mastering React Components — Named vs Default Exports, PropTypes vs TypeScript, and Production-Ready Patterns](https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-4abj)
+- [[Boost]](https://dev.to/brian_dussault/-4hkj)
+- [**Generative AI Showdown: VAEs vs Diffusers** In the ever-e](https://dev.to/drcarlosruizviquez/generative-ai-showdown-vaes-vs-diffusersin-the-ever-e-22im)
+- [CRUD Operation in MongoDB](https://dev.to/nidheesh_/crud-operation-in-mongodb-24gh)
+- [**Unleash the Creative Potential of Magenta: A TensorFlow-Ba](https://dev.to/drcarlosruizviquez/unleash-the-creative-potential-of-magenta-a-tensorflow-ba-2640)
+- [**Revolutionizing Personalized Content with AI: The Rise of](https://dev.to/drcarlosruizviquez/revolutionizing-personalized-content-with-ai-the-rise-of-n0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
