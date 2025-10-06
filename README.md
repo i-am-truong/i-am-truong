@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your 2025 AI Upgrade, Minus the Noise](https://dev.to/theainews/your-2025-ai-upgrade-minus-the-noise-13a5)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2078)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-50g2)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-1e36)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-2m0p)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-49nj)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-1i0a)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2nh4)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-59in)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-26pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
