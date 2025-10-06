@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How MedAI Will Transform Hospitals and Patient Care by 2035: My Predictions](https://dev.to/canro91/how-medai-will-transform-hospitals-and-patient-care-by-2035-my-predictions-3e1a)
-- [💥 Myth #13: You must model everything in detail](https://dev.to/tmorin/myth-13-you-must-model-everything-in-detail-10c5)
-- [ACID Properties in Database](https://dev.to/harish_t_aa27d59c9c2493a5/acid-properties-in-database-27be)
-- [Day 02 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-02-of-my-ai-data-mastery-journey-from-python-to-generative-ai-30lk)
-- [Data Formats](https://dev.to/vignesh_k_165855f8c465905/data-formats-217i)
+- [Build a Browser-Based Endless Runner Game in TypeScript: Step-by-Step Guide for Beginners](https://dev.to/m-a-h-b-u-b/build-a-browser-based-endless-runner-game-in-typescript-step-by-step-guide-for-beginners-4k4n)
+- [NORMALIZATION IN DBMS](https://dev.to/varsha_g_2eb27885a542cc8c/normalization-in-dbms-n7e)
+- [🚀 I built Beat The Boss, an HTML game, with Vibe Coding — give it a spin!](https://dev.to/arun1989ninja/i-built-beat-the-boss-an-html-game-with-vibe-coding-give-it-a-spin-4i0m)
+- [I started a small pet project for experimenting with agentic frameworks, on-device Edge AI and AI concepts in general. Hope you enjoy! :&rpar;](https://dev.to/monda8am/i-started-a-small-pet-project-for-experimenting-with-agentic-frameworks-on-device-edge-ai-and-ai-2369)
+- [O Segredo do Sucesso: Gerando Leads Qualificados e Éticos para o Telemarketing](https://dev.to/fantodata/o-segredo-do-sucesso-gerando-leads-qualificados-e-eticos-para-o-telemarketing-46am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
