@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ACID PROPERTY](https://dev.to/varsha_g_2eb27885a542cc8c/acid-property-3fkm)
-- [Writing a Shopify A-Z brands page](https://dev.to/orfeo/writing-a-shopify-a-z-brands-page-4baf)
-- [Building Better Dev Habits with devKataCLI: A Terminal-Based Practice Routin](https://dev.to/fern_d3v/building-better-dev-habits-with-devkatacli-a-terminal-based-practice-routin-4ojc)
-- [JavaScript qanday ishlaydi?](https://dev.to/mkhasanov/javascript-qanday-ishlaydi-4onb)
-- [CURSOR AND TRIGGER](https://dev.to/varsha_g_2eb27885a542cc8c/cursor-and-trigger-51c2)
+- [Day 5 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-5-of-100-days-dsa-coding-challenge-2h59)
+- [What is Apache Kafka? A Beginner’s Guide](https://dev.to/suraj_kumar_fb57ae0928df2/what-is-apache-kafka-a-beginners-guide-4p4m)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3a7c)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4h1p)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-40e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
