@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing React Performance: useMemo, useCallback, and Beyond](https://dev.to/augustin_ven/optimizing-react-performance-usememo-usecallback-and-beyond-nnl)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_40446303/that-real-time-headache-its-not-the-websockets-its-your-framework-129m)
+- [SOLID Principles σε C#](https://dev.to/__b63657/solid-principles-se-c-2h26)
 - [The Redux Mystery: Why Does It Feel So Hard?](https://dev.to/salehahmedmahin/the-redux-mystery-why-does-it-feel-so-hard-31do)
-- [RDS Multi-AZ DB clusters Vs Amazon Aurora Global Database](https://dev.to/wakeup_flower_8591a6cb6a9/rds-multi-az-db-clusters-vs-amazon-aurora-global-database-3flb)
-- [Power BI and DAX- Understanding data](https://dev.to/lilian_awuor/power-bi-and-dax-understanding-data-2pc)
-- [🔐 How to Set Up SSH Access for a Private GitLab Repository](https://dev.to/augustin_ven/how-to-set-up-ssh-access-for-a-private-gitlab-repository-4n4l)
-- [How Everything Makes File Search on Windows Blazingly Fast &lpar;5 Tips + Setup Guide&rpar;](https://dev.to/saadmaqsood/how-everything-makes-file-search-on-windows-blazingly-fast-5-tips-setup-guide-5147)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_f8c307c5/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-5a43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
