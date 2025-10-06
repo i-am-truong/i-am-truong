@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chat Smarter, Not Harder: Building an AI Chat Interface in Your Angular App](https://dev.to/sunny7899/chat-smarter-not-harder-building-an-ai-chat-interface-in-your-angular-app-57hf)
-- [List in Python &lpar;2&rpar;](https://dev.to/hyperkai/list-in-python-2-3jji)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-39nd)
-- [🧠 Cómo Linux me ayudó a vencer la procrastinación &lpar;y reencontrar el enfoque&rpar;](https://dev.to/oscar-ruinz/como-linux-me-ayudo-a-vencer-la-procrastinacion-y-reencontrar-el-enfoque-498m)
-- [🧠 How Linux Helped Me Overcome Procrastination &lpar;and Rediscover My Focus&rpar;](https://dev.to/oscar-ruinz/how-linux-helped-me-overcome-procrastination-and-rediscover-my-focus-mpk)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-46jb)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2bob)
+- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-2ama)
+- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-500e)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-5030)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
