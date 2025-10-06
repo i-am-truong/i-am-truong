@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Geography of Innovation: Why St. Louis is the Perfect Testbed for Remote AI](https://dev.to/mcleanforresterllc/the-geography-of-innovation-why-st-louis-is-the-perfect-testbed-for-remote-ai-e7i)
+- [Organizing Cursor Rules &amp; Commands Across Projects with Symlinks](https://dev.to/avmadhukiran/organizing-cursor-rules-commands-across-projects-with-symlinks-9li)
+- [How I Created My First MongoDB Cluster and Connected It with Compass](https://dev.to/aksharaal_13/how-i-created-my-first-mongodb-cluster-and-connected-it-with-compass-43d8)
 - [I Asked an AI to Build a Mobile App. It Chose Ionic Capacitor and Surprised Me](https://dev.to/aaronksaunders/i-asked-an-ai-to-build-a-mobile-app-it-chose-ionic-capacitor-and-surprised-me-44op)
 - [The Compiler&#39;s Secret: How Coroutines Actually Work](https://dev.to/kavearhasi_viswanathan/the-compilers-secret-how-coroutines-actually-work-1a62)
-- [Hacktoberfest 2025: Create Discord Features or Videos to Win Rewards 🎉](https://dev.to/waveplay/hacktoberfest-2025-create-discord-features-or-videos-to-win-rewards-2d48)
-- [Introduction to Python Module Two Part Four Data Types](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-four-data-types-ecp)
-- [Information Extraction &lpar;Tests on a Beta API&rpar; from Docling](https://dev.to/aairom/information-extraction-tests-on-a-beta-api-from-docling-4co7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
