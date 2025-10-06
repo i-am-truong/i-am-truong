@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Failure Modes in Circuits and Software](https://dev.to/wale1202/failure-modes-in-circuits-and-software-114a)
+- [⚽ The Data XI: Building a Modern Football Data Platform — Chapter 1: Taming the Data Beast](https://dev.to/leosuky/the-data-xi-building-a-modern-football-data-platform-chapter-1-taming-the-data-beast-5bg7)
 - [Building Intelligent Research Agents with OpenAI&#39;s Agents Framework](https://dev.to/bogdanpi/building-intelligent-research-agents-with-openais-agents-framework-2j1)
 - [Automate Disaster Recovery Plan Validation in OCI Using a Custom Precheck Tool](https://dev.to/amoubarak/automate-disaster-recovery-plan-validation-in-oci-using-a-custom-precheck-tool-1omo)
 - [Is SQL BETWEEN Inclusive or Exclusive?](https://dev.to/mayallo/is-sql-between-inclusive-or-exclusive-22b0)
-- [CRUD &lpar;Create, Read, Update, Delete&rpar;](https://dev.to/tharani_tharan_d35086d3b9/crud-create-read-update-delete-4mhl)
-- [# Building CodeGenie: A Local AI Coding Agent &lpar;100% Offline &amp; Private&rpar;](https://dev.to/vision2030/-building-codegenie-a-local-ai-coding-agent-100-offline-private-4dm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
