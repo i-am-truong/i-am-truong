@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Spring Annotations: The Ultimate Guide for Beginners](https://dev.to/arunagri82/mastering-spring-annotations-the-ultimate-guide-for-beginners-38nh)
-- [LLMs … keep your self a float, learn and grow.](https://dev.to/gnrlbzik/llms-keep-your-self-a-float-learn-and-grow-14jd)
-- [String, Bytes &amp; Bytearray functions in Python](https://dev.to/hyperkai/string-bytes-bytearray-functions-in-python-23pm)
-- [Ethereum Integration in PHP for Wallets and Transfers](https://dev.to/edgaras/ethereum-integration-in-php-for-wallets-and-transfers-11d2)
-- [# Building Production-Ready LLM Applications: Introducing llama-app-generator](https://dev.to/pooriayousefi/-building-production-ready-llm-applications-introducing-llama-app-generator-2kjf)
+- [🔐 How to Set Up SSH Access for a Private GitLab Repository](https://dev.to/augustin_ven/how-to-set-up-ssh-access-for-a-private-gitlab-repository-4n4l)
+- [How Everything Makes File Search on Windows Blazingly Fast &lpar;5 Tips + Setup Guide&rpar;](https://dev.to/saadmaqsood/how-everything-makes-file-search-on-windows-blazingly-fast-5-tips-setup-guide-5147)
+- [How to Build Semantic Search in ASP.NET Core using PostgreSQL](https://dev.to/ohalay/how-to-build-semantic-search-in-aspnet-core-using-postgresql-28m8)
+- [My Motivation for Being Part of AWS Communities](https://dev.to/afu_tsechainiz_b865026/my-motivation-for-being-part-of-aws-communities-4d04)
+- [CVE-2010-3765: Mozilla Multiple Products Remote Code Execution Vulnerability](https://dev.to/freedom-coder/cve-2010-3765-mozilla-multiple-products-remote-code-execution-vulnerability-2fb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
