@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌐 Understanding the Client–Server Model, HTTP, and State Management in Web Apps](https://dev.to/digvijay-bhakuni/understanding-the-client-server-model-http-and-state-management-in-web-apps-3ogj)
+- [The Science of Speed Reading: What Happens to Your Comprehension?](https://dev.to/brain_athlete/the-science-of-speed-reading-what-happens-to-your-comprehension-23b9)
+- [A Beginner&#39;s Guide to AWS MSK: From Cluster Setup to Your First Message](https://dev.to/aws-builders/a-beginners-guide-to-aws-msk-from-cluster-setup-to-your-first-message-3j05)
 - [Files file manager: folder full of bugs](https://dev.to/pvsdev/files-file-manager-folder-full-of-bugs-58a0)
-- [ShieldX - A Vietnamese developer&#39;s dream to make enterprise security accessible](https://dev.to/shieldxbot/shieldx-a-vietnamese-developers-dream-to-make-enterprise-security-accessible-1n2o)
-- [Hello! — My First Post](https://dev.to/angad_2002/hello-my-first-post-2300)
-- [FastAPI &amp; PostgreSQL Sharding: A Step-by-Step Guide &lpar;Part 1&rpar; - Theory](https://dev.to/artemooon/fastapi-postgresql-sharding-a-step-by-step-guide-part-1-theory-45l1)
-- [🚀 Indexing, Hashing &amp; Query Optimization in SQL &lpar;with Examples&rpar;](https://dev.to/saifulhaq/indexing-hashing-query-optimization-in-sql-with-examples-39hm)
+- [MangoDB CRUD](https://dev.to/varsha_g_2eb27885a542cc8c/mangodb-crud-5406)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
