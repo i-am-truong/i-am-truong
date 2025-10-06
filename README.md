@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Smart AI Prompts Supercharge Your Code](https://dev.to/sanjaynaker/how-smart-ai-prompts-supercharge-your-code-2kno)
-- [# ⚡ Popular AI Websites in 2025 for Developers](https://dev.to/abinasharma001/-popular-ai-websites-in-2025-for-developers-4f75)
-- [Why Small Coding Habits Matter for Developers](https://dev.to/shubhradev/why-small-coding-habits-matter-for-developers-32mo)
-- [Build Your First Simple API with Node.js and Express &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/esraanasr92/build-your-first-simple-api-with-nodejs-and-express-beginner-friendly-guide-32ko)
-- [How to create a TUI utility on GO](https://dev.to/deniskorbakov/how-to-create-a-tui-utility-on-go-1la5)
+- [#DAY 12: My Project Summary &amp; Learning Journey.](https://dev.to/samueladeduntan/day-12-my-project-summary-learning-journey-4585)
+- [Understanding the Passive High Pass Filter: Functionality and Applications](https://dev.to/mahi_sharma_9276bacff998d/understanding-the-passive-high-pass-filter-functionality-and-applications-3kf0)
+- [Build a Perfect Blog with FastAPI: Upload Image](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-upload-image-oe8)
+- [Shadcn Vue – Elegant, Customizable UI Components for Modern Vue Apps](https://dev.to/jacobandrewsky/shadcn-vue-elegant-customizable-ui-components-for-modern-vue-apps-cd)
+- [Understanding Data Formats in Cloud &amp; Data Analytics](https://dev.to/prakalya_sambathkumar_54e/understanding-data-formats-in-cloud-data-analytics-3cpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
