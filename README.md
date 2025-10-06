@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 5 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-5-of-100-days-dsa-coding-challenge-2h59)
-- [What is Apache Kafka? A Beginner’s Guide](https://dev.to/suraj_kumar_fb57ae0928df2/what-is-apache-kafka-a-beginners-guide-4p4m)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3a7c)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4h1p)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-40e4)
+- [Linkedin: AI Automated Workflow](https://dev.to/yashrajverma/linkedin-ai-automated-workflow-h19)
+- [Extracting the Benefits of the Dynamic Duo: Tableau and R](https://dev.to/anshuman_816f8012be0c9b6c/extracting-the-benefits-of-the-dynamic-duo-tableau-and-r-5078)
+- [How to Delete a Code Wiki in Azure DevOps](https://dev.to/truelime/how-to-delete-a-code-wiki-in-azure-devops-4lf2)
+- [Include product body field in Shopify drawer search results](https://dev.to/orfeo/include-product-body-field-in-shopify-drawer-search-results-315j)
+- [Using @mixin for referencing in traits in PHP &lpar;Laravel example&rpar;](https://dev.to/orfeo/using-mixin-for-referencing-in-traits-in-php-laravel-example-dm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
