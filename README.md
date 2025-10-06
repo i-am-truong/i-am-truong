@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Failure Modes in Circuits and Software](https://dev.to/wale1202/failure-modes-in-circuits-and-software-114a)
-- [⚽ The Data XI: Building a Modern Football Data Platform — Chapter 1: Taming the Data Beast](https://dev.to/leosuky/the-data-xi-building-a-modern-football-data-platform-chapter-1-taming-the-data-beast-5bg7)
-- [Building Intelligent Research Agents with OpenAI&#39;s Agents Framework](https://dev.to/bogdanpi/building-intelligent-research-agents-with-openais-agents-framework-2j1)
-- [Automate Disaster Recovery Plan Validation in OCI Using a Custom Precheck Tool](https://dev.to/amoubarak/automate-disaster-recovery-plan-validation-in-oci-using-a-custom-precheck-tool-1omo)
-- [Is SQL BETWEEN Inclusive or Exclusive?](https://dev.to/mayallo/is-sql-between-inclusive-or-exclusive-22b0)
+- [Deconstructing the B2B Webinar: A Developer&#39;s Checklist for High-Signal Lead Gen](https://dev.to/michaelaiglobal/deconstructing-the-b2b-webinar-a-developers-checklist-for-high-signal-lead-gen-4e57)
+- [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
+- [Ansible Register: How to Store and Reuse Task Output](https://dev.to/spacelift/ansible-register-how-to-store-and-reuse-task-output-15c0)
+- [Badkamer renovatie Utrecht: Wat zijn de kosten per type afwerking?](https://dev.to/wwloodgietersbedrijf/badkamer-renovatie-utrecht-wat-zijn-de-kosten-per-type-afwerking-394j)
+- [Trust Engineering for Builders: A No-Fluff PR Playbook That Actually Works](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-builders-a-no-fluff-pr-playbook-that-actually-works-2eal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
