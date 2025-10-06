@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 90-Day Trial That Predicts Who Thrives &lpar;And Who Fails&rpar;](https://dev.to/razoorka/the-90-day-trial-that-predicts-who-thrives-and-who-fails-1n9g)
-- [Interface Usage Golang vs Java](https://dev.to/vibhordubey333/interface-usage-golang-vs-java-36gd)
-- [From 15 Minutes to 30 Seconds: Cutting Build Time in a Large .NET Project](https://dev.to/bargan/from-15-minutes-to-30-seconds-cutting-build-time-in-a-large-net-project-4m83)
-- [Africa Needs Human-Led AI Research](https://dev.to/alexander_gichangimaina_/africa-needs-human-led-ai-research-4j55)
-- [Hola, mundo!](https://dev.to/annar_8c3fd51124/hola-mundo-56db)
+- [MindsDB Knowledge Bases: Revolutionizing AI-Powered Data Queries with SQL Algebra](https://dev.to/mindsdb/mindsdb-knowledge-bases-revolutionizing-ai-powered-data-queries-with-sql-algebra-1fie)
+- [11 Best Java Courses to Master the Language in 2026](https://dev.to/stack_overflowed/11-best-java-courses-to-master-the-language-in-2026-4fk7)
+- [4 Major Types of API Architectural Styles](https://dev.to/victoria_adesanmi/4-major-types-of-api-architectural-styles-35co)
+- [AGENCE DE VOYAGE ABOU AZIZA](https://dev.to/loukhmane_khalid_ceb0d2f9/agence-de-voyage-abou-aziza-5a2d)
+- [Guiding Struggling Companies Toward a Clear Path of Recovery](https://dev.to/michel_rich_ae8831903e0c6/guiding-struggling-companies-toward-a-clear-path-of-recovery-4bkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
