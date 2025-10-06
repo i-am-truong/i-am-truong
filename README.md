@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Linkedin: AI Automated Workflow](https://dev.to/yashrajverma/linkedin-ai-automated-workflow-h19)
-- [Extracting the Benefits of the Dynamic Duo: Tableau and R](https://dev.to/anshuman_816f8012be0c9b6c/extracting-the-benefits-of-the-dynamic-duo-tableau-and-r-5078)
-- [How to Delete a Code Wiki in Azure DevOps](https://dev.to/truelime/how-to-delete-a-code-wiki-in-azure-devops-4lf2)
-- [Include product body field in Shopify drawer search results](https://dev.to/orfeo/include-product-body-field-in-shopify-drawer-search-results-315j)
-- [Using @mixin for referencing in traits in PHP &lpar;Laravel example&rpar;](https://dev.to/orfeo/using-mixin-for-referencing-in-traits-in-php-laravel-example-dm9)
+- [How Smart AI Prompts Supercharge Your Code](https://dev.to/sanjaynaker/how-smart-ai-prompts-supercharge-your-code-2kno)
+- [# ⚡ Popular AI Websites in 2025 for Developers](https://dev.to/abinasharma001/-popular-ai-websites-in-2025-for-developers-4f75)
+- [Why Small Coding Habits Matter for Developers](https://dev.to/shubhradev/why-small-coding-habits-matter-for-developers-32mo)
+- [Build Your First Simple API with Node.js and Express &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/esraanasr92/build-your-first-simple-api-with-nodejs-and-express-beginner-friendly-guide-32ko)
+- [How to create a TUI utility on GO](https://dev.to/deniskorbakov/how-to-create-a-tui-utility-on-go-1la5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
