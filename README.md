@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Zero to Production: Creating ReceiptFlow Pro in 10 Hours Using AI-Powered Development](https://dev.to/adityadhakane/from-zero-to-production-creating-receiptflow-pro-in-10-hours-using-ai-powered-development-3p5k)
+- [GitHub Actions 101: Your First Step Into CI/CD](https://dev.to/miannemendoza/github-actions-101-your-first-step-into-cicd-674)
+- [Shopify App: October 2025 Updates](https://dev.to/jordanfinners/shopify-app-october-2025-updates-4c5a)
 - [MindsDB Knowledge Bases: Revolutionizing AI-Powered Data Queries with SQL Algebra](https://dev.to/mindsdb/mindsdb-knowledge-bases-revolutionizing-ai-powered-data-queries-with-sql-algebra-1fie)
-- [11 Best Java Courses to Master the Language in 2026](https://dev.to/stack_overflowed/11-best-java-courses-to-master-the-language-in-2026-4fk7)
-- [4 Major Types of API Architectural Styles](https://dev.to/victoria_adesanmi/4-major-types-of-api-architectural-styles-35co)
-- [AGENCE DE VOYAGE ABOU AZIZA](https://dev.to/loukhmane_khalid_ceb0d2f9/agence-de-voyage-abou-aziza-5a2d)
-- [Guiding Struggling Companies Toward a Clear Path of Recovery](https://dev.to/michel_rich_ae8831903e0c6/guiding-struggling-companies-toward-a-clear-path-of-recovery-4bkk)
+- [From Metallurgy to Data Science, From HSBC to 100-Member Startup](https://dev.to/rajat_singh_91c8144b17fbe/from-metallurgy-to-data-science-from-hsbc-to-100-member-startup-3ggh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
