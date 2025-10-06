@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 22](https://dev.to/tomivan/coding-challenge-practice-question-22-4pb8)
-- [Real Results, Not Battlecard Bloat: The Outcomes Playwise HQ Delivers](https://dev.to/paultowers/real-results-not-battlecard-bloat-the-outcomes-playwise-hq-delivers-37ec)
-- [50 Most Useful Node.js Snippets](https://dev.to/softwaredeveloper01/50-most-useful-nodejs-snippets-54do)
-- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-42ac)
-- [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-i1m)
+- [My Hands-On Experience with Network Monitoring Using PRTG](https://dev.to/samueladeduntan/my-hands-on-experience-with-network-monitoring-using-prtg-3j1m)
+- [Inspiring Google Developers video retrospective](https://dev.to/wescpy/inspiring-google-developers-video-retrospective-4c15)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_f8c307c5/your-error-handling-is-a-mess-and-its-costing-you--4k1d)
+- [Mastering TCJSGame Audio System: Creating Immersive Soundscapes](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-audio-system-creating-immersive-soundscapes-og2)
+- [The Rust Advantage: Building Bulletproof Systems When AI Writes Half Your Code](https://dev.to/masteringbackend/the-rust-advantage-building-bulletproof-systems-when-ai-writes-half-your-code-2e74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
