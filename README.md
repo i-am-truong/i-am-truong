@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-31ha)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-5e4)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-30b2)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1pa0)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5akb)
+- [Flexi Dev Studio; journey of Ogunbiyi Jesutomisin](https://dev.to/flexi_dev_4c0ce990523a164/flexi-dev-studio-journey-of-ogunbiyi-jesutomisin-32cg)
+- [A Scenario-Based Exploration of Responsible AI Development](https://dev.to/balagmadhu/a-scenario-based-exploration-of-responsible-ai-development-5ekh)
+- [🔐Back to the Roots: Nostalgic Journey to University CTF Battles of the Early 2010s](https://dev.to/d3one/back-to-the-roots-nostalgic-journey-to-university-ctf-battles-of-the-early-2010s-3c87)
+- [CRUD Operations in MongoDB Atlas – A Beginner’s Guide with Student Database Example](https://dev.to/reshma_devi_ba32b2f54397d/crud-operations-in-mongodb-atlas-a-beginners-guide-with-student-database-example-2nkn)
+- [How Joshua Lintz and Talentcrowd Were Involved in Defrauding the United States Government](https://dev.to/yvesthebest/how-joshua-lintz-and-talentcrowd-were-involved-in-defrauding-the-united-states-government-4o0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
