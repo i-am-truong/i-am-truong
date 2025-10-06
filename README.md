@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Understanding the Client–Server Model, HTTP, and State Management in Web Apps](https://dev.to/digvijay-bhakuni/understanding-the-client-server-model-http-and-state-management-in-web-apps-3ogj)
-- [The Science of Speed Reading: What Happens to Your Comprehension?](https://dev.to/brain_athlete/the-science-of-speed-reading-what-happens-to-your-comprehension-23b9)
-- [A Beginner&#39;s Guide to AWS MSK: From Cluster Setup to Your First Message](https://dev.to/aws-builders/a-beginners-guide-to-aws-msk-from-cluster-setup-to-your-first-message-3j05)
-- [Files file manager: folder full of bugs](https://dev.to/pvsdev/files-file-manager-folder-full-of-bugs-58a0)
-- [MangoDB CRUD](https://dev.to/varsha_g_2eb27885a542cc8c/mangodb-crud-5406)
+- [NPR Music: 31 Minutos: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-31-minutos-tiny-desk-concert-4i4e)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-552c)
+- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-13ao)
+- [Family Adventure on the Manaslu Circuit: A Himalayan Trek for All Ages](https://dev.to/joywinter90/family-adventure-on-the-manaslu-circuit-a-himalayan-trek-for-all-ages-3gi9)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-eo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
