@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Weeks of Learning: Week 3](https://dev.to/akshitaexe/5-weeks-of-learning-week-3-46id)
-- [Effortless File Conversion for Developers: Free Online Tools You’ll Actually Use](https://dev.to/formalex/effortless-file-conversion-for-developers-free-online-tools-youll-actually-use-476f)
-- [💬 Waaku: Manage Multiple WhatsApp Sessions with One Dashboard](https://dev.to/ilhamsabir/waaku-manage-multiple-whatsapp-sessions-with-one-dashboard-1d54)
-- [Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/codies-cognitive-chronicals-3kd8)
-- [CSS Sizing Units: The Complete Guide to Numbers, Percentages, and Relative Lengths](https://dev.to/er-raj-aryan/css-sizing-units-the-complete-guide-to-numbers-percentages-and-relative-lengths-14dl)
+- [How to access shared folders in UTM Ubuntu VM](https://dev.to/ajeebkp23/how-to-access-shared-folders-in-utm-ubuntu-vm-590n)
+- [INDEXING - HASHING - AND -QUERY](https://dev.to/nidheesh_/indexing-hashing-and-query-3g4l)
+- [LangGraph.js AI Agent Template: production-ready Next.js framework for building AI agents](https://dev.to/jqueryscript/langgraphjs-ai-agent-template-production-ready-nextjs-framework-for-building-ai-agents-49hl)
+- [Transactions, Deadlocks &amp; Log Based Recovery](https://dev.to/nidheesh_/transactions-deadlocks-log-based-recovery-20bm)
+- [Deploying to Firebase Hosting + Firestore from GitHub actions](https://dev.to/dchaley/deploying-to-firebase-hosting-firestore-from-github-actions-5g52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
