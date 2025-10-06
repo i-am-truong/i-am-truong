@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Testing Tools and System Integration Testing &lpar;SIT&rpar;: A Complete Guide for Modern QA Teams](https://dev.to/keploy/ai-powered-testing-tools-and-system-integration-testing-sit-a-complete-guide-for-modern-qa-teams-hgn)
-- [How AI Virtual Assistants Are Revolutionizing SMB Operations](https://dev.to/agentia_support_2ba39b45a/how-ai-virtual-assistants-are-revolutionizing-smb-operations-5195)
-- [Async systems don’t stop during silence they compound.](https://dev.to/koni_jang/async-systems-dont-stop-during-silence-they-compound-547p)
-- [Understanding the Agentic Commerce Protocol: Your Guide to Selling on ChatGPT](https://dev.to/snikidev/understanding-the-agentic-commerce-protocol-your-guide-to-selling-on-chatgpt-2jeh)
-- [Agentic AI: Redefining Automation for Developers](https://dev.to/techcompass/agentic-ai-redefining-automation-for-developers-4b01)
+- [Files file manager: folder full of bugs](https://dev.to/pvsdev/files-file-manager-folder-full-of-bugs-58a0)
+- [ShieldX - A Vietnamese developer&#39;s dream to make enterprise security accessible](https://dev.to/shieldxbot/shieldx-a-vietnamese-developers-dream-to-make-enterprise-security-accessible-1n2o)
+- [Hello! — My First Post](https://dev.to/angad_2002/hello-my-first-post-2300)
+- [FastAPI &amp; PostgreSQL Sharding: A Step-by-Step Guide &lpar;Part 1&rpar; - Theory](https://dev.to/artemooon/fastapi-postgresql-sharding-a-step-by-step-guide-part-1-theory-45l1)
+- [🚀 Indexing, Hashing &amp; Query Optimization in SQL &lpar;with Examples&rpar;](https://dev.to/saifulhaq/indexing-hashing-query-optimization-in-sql-with-examples-39hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
