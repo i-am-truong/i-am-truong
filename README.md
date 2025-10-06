@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Convex - an alternative to Firebase and Supabase](https://dev.to/noyan_alim/convex-an-alternative-to-firebase-and-supabase-3n9e)
-- [The Stack Unpacked Episode 4: to Query or Not to Query](https://dev.to/shaq_attack/the-stack-unpacked-episode-4-to-query-or-not-to-query-4jcp)
-- [My Journey with Pipecat + Attendee &lpar;And Hacking the Infrastructure&rpar;](https://dev.to/angad_2002/my-journey-with-pipecat-attendee-and-hacking-the-infrastructure-3cea)
-- [Part-110: 🗄️Deploying PVC and PV with Pods in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-110-deploying-pvc-and-pv-with-pods-in-google-kubernetes-engine-gke-280h)
-- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-3n3l)
+- [AI and Attorney-Client Privilege: Hidden Cloud Risks and How to Keep Confidentiality Safe](https://dev.to/heyjoshlee/ai-and-attorney-client-privilege-hidden-cloud-risks-and-how-to-keep-confidentiality-safe-2dh)
+- [µs Human-Readable IDs: A Performance Journey](https://dev.to/sergei_fedorovzmij_613/us-human-readable-ids-a-performance-journey-455c)
+- [I Made My ENS Domain Searchable on Google &lpar;85% Knowledge Panel Probability&rpar;](https://dev.to/ookyet/i-made-my-ens-domain-searchable-on-google-85-knowledge-panel-probability-2d5)
+- [🔄 Real-World Migration Steps from Tailwind CSS v3 to v4](https://dev.to/mridudixit15/real-world-migration-steps-from-tailwind-css-v3-to-v4-1nn3)
+- [Building the Future of Aircon Servicing with C++](https://dev.to/tintclarityanalyst/building-the-future-of-aircon-servicing-with-c-h29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
