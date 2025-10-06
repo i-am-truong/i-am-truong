@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Criando Salesforce Sanboxes](https://dev.to/lizvidotti/criando-salesforce-sanboxes-l36)
+- [Indexing, Hashing &amp; Query Optimization](https://dev.to/rohivarshini_saravanan_29/indexing-hashing-query-optimization-2799)
+- [⚡ Tailwind CSS Essentials, Tools &amp; VS Code Extensions You’ll Wish You Knew Earlier](https://dev.to/charan_gutti_cf60c6185074/tailwind-css-essentials-tools-vs-code-extensions-youll-wish-you-knew-earlier-3888)
+- [HTML,CSS, JavaScript only - Free Websites to deploy](https://dev.to/coding_agent_007/htmlcss-javascript-only-free-websites-to-deploy-49b)
 - [Unlocking Azure Blob Storage: A Developer’s Journey, Comparisons &amp; C# in Action](https://dev.to/abhishek_adhav_22ab0c2463/unlocking-azure-blob-storage-a-developers-journey-comparisons-c-in-action-1pdl)
-- [InstaTrack: Track Your Instagram Followers &amp; Following &lpar;Privacy-First, Open Source&rpar;](https://dev.to/njoylab/instatrack-track-your-instagram-followers-following-privacy-first-open-source-5291)
-- [I Thought My Backups Were Safe - Until I Tried Restoring One](https://dev.to/highflyer910/i-thought-my-backups-were-safe-until-i-tried-restoring-one-387i)
-- [Automating Text-to-Video Pipelines with Sora 2 and n8n](https://dev.to/alifar/automating-text-to-video-pipelines-with-sora-2-and-n8n-lh0)
-- [Part-111: 🧱Understanding Kubernetes StatefulSets — The Right Way!](https://dev.to/latchudevops/part-111-understanding-kubernetes-statefulsets-the-right-way-331l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
