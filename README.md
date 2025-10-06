@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why We Need a Simple Portfolio with the Best UX](https://dev.to/mahfuzurrahman01/why-we-need-a-simple-portfolio-with-the-best-ux-5158)
+- [React Question &amp; Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-kap)
+- [Top 10 Admin Templates Under $50: A Developer’s Guide](https://dev.to/vaibhavg/top-10-admin-templates-under-50-a-developers-guide-15d2)
+- [Building a Cross-Account S3 to Azure Backup System with ECS Fargate](https://dev.to/clarizalooktech/building-a-cross-account-s3-to-azure-backup-system-with-ecs-fargate-3dbh)
 - [Build a simple endless music composition Sprunki Retake game](https://dev.to/sprunkiretake/build-a-simple-endless-music-composition-sprunki-retake-game-i9c)
-- [调用Deepseek API](https://dev.to/dragon72463399/diao-yong-deepseek-api-2kgc)
-- [URDplay: India’s Fast-Growing Hub for Apps and AI Tools](https://dev.to/urd_play_e4cdd9f7257ff53c/urdplay-indias-fast-growing-hub-for-apps-and-ai-tools-2l7a)
-- [Node.js Streams in Production](https://dev.to/godofgeeks/nodejs-streams-in-production-2lph)
-- [#DAY 12: My Project Summary &amp; Learning Journey.](https://dev.to/samueladeduntan/day-12-my-project-summary-learning-journey-4585)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
