@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Postman Alternative Guide: Which API Client is Right for You in 2025?](https://dev.to/amrishkhan05/the-postman-alternative-guide-which-api-client-is-right-for-you-in-2025-2p0b)
+- [Machine Learning Zoomcamp Week 2](https://dev.to/ladys/machine-learning-zoomcamp-week-2-1lp5)
 - [From Zero to Production: Creating ReceiptFlow Pro in 10 Hours Using AI-Powered Development](https://dev.to/adityadhakane/from-zero-to-production-creating-receiptflow-pro-in-10-hours-using-ai-powered-development-3p5k)
 - [GitHub Actions 101: Your First Step Into CI/CD](https://dev.to/miannemendoza/github-actions-101-your-first-step-into-cicd-674)
 - [Shopify App: October 2025 Updates](https://dev.to/jordanfinners/shopify-app-october-2025-updates-4c5a)
-- [MindsDB Knowledge Bases: Revolutionizing AI-Powered Data Queries with SQL Algebra](https://dev.to/mindsdb/mindsdb-knowledge-bases-revolutionizing-ai-powered-data-queries-with-sql-algebra-1fie)
-- [From Metallurgy to Data Science, From HSBC to 100-Member Startup](https://dev.to/rajat_singh_91c8144b17fbe/from-metallurgy-to-data-science-from-hsbc-to-100-member-startup-3ggh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
