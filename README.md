@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deconstructing the B2B Webinar: A Developer&#39;s Checklist for High-Signal Lead Gen](https://dev.to/michaelaiglobal/deconstructing-the-b2b-webinar-a-developers-checklist-for-high-signal-lead-gen-4e57)
-- [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
-- [Ansible Register: How to Store and Reuse Task Output](https://dev.to/spacelift/ansible-register-how-to-store-and-reuse-task-output-15c0)
-- [Badkamer renovatie Utrecht: Wat zijn de kosten per type afwerking?](https://dev.to/wwloodgietersbedrijf/badkamer-renovatie-utrecht-wat-zijn-de-kosten-per-type-afwerking-394j)
-- [Trust Engineering for Builders: A No-Fluff PR Playbook That Actually Works](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-builders-a-no-fluff-pr-playbook-that-actually-works-2eal)
+- [The 90-Day Trial That Predicts Who Thrives &lpar;And Who Fails&rpar;](https://dev.to/razoorka/the-90-day-trial-that-predicts-who-thrives-and-who-fails-1n9g)
+- [Interface Usage Golang vs Java](https://dev.to/vibhordubey333/interface-usage-golang-vs-java-36gd)
+- [From 15 Minutes to 30 Seconds: Cutting Build Time in a Large .NET Project](https://dev.to/bargan/from-15-minutes-to-30-seconds-cutting-build-time-in-a-large-net-project-4m83)
+- [Africa Needs Human-Led AI Research](https://dev.to/alexander_gichangimaina_/africa-needs-human-led-ai-research-4j55)
+- [Hola, mundo!](https://dev.to/annar_8c3fd51124/hola-mundo-56db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
