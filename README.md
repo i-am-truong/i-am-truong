@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a simple endless music composition Sprunki Retake game](https://dev.to/sprunkiretake/build-a-simple-endless-music-composition-sprunki-retake-game-i9c)
+- [调用Deepseek API](https://dev.to/dragon72463399/diao-yong-deepseek-api-2kgc)
+- [URDplay: India’s Fast-Growing Hub for Apps and AI Tools](https://dev.to/urd_play_e4cdd9f7257ff53c/urdplay-indias-fast-growing-hub-for-apps-and-ai-tools-2l7a)
+- [Node.js Streams in Production](https://dev.to/godofgeeks/nodejs-streams-in-production-2lph)
 - [#DAY 12: My Project Summary &amp; Learning Journey.](https://dev.to/samueladeduntan/day-12-my-project-summary-learning-journey-4585)
-- [Understanding the Passive High Pass Filter: Functionality and Applications](https://dev.to/mahi_sharma_9276bacff998d/understanding-the-passive-high-pass-filter-functionality-and-applications-3kf0)
-- [Build a Perfect Blog with FastAPI: Upload Image](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-upload-image-oe8)
-- [Shadcn Vue – Elegant, Customizable UI Components for Modern Vue Apps](https://dev.to/jacobandrewsky/shadcn-vue-elegant-customizable-ui-components-for-modern-vue-apps-cd)
-- [Understanding Data Formats in Cloud &amp; Data Analytics](https://dev.to/prakalya_sambathkumar_54e/understanding-data-formats-in-cloud-data-analytics-3cpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
