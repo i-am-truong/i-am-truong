@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Your First &lpar;or Next&rpar; MCP Server with the TypeScript MCP Template](https://dev.to/nickytonline/build-your-first-or-next-mcp-server-with-the-typescript-mcp-template-3k3f)
+- [Multiprocessing: Interview Questions and Practice Problems](https://dev.to/imsushant12/multiprocessing-interview-questions-and-practice-problems-287i)
+- [🧠 Top 7 Mistakes Beginner Web Developers Make with JavaScript &amp; How to Avoid Them](https://dev.to/pjdeveloper896/top-7-mistakes-beginner-web-developers-make-with-javascript-how-to-avoid-them-1k0i)
 - [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-43h5)
 - [The Anti-Corruption Layer: Your Application&#39;s Bouncer Against Legacy Chaos](https://dev.to/igornosatov_15/the-anti-corruption-layer-your-applications-bouncer-against-legacy-chaos-14l3)
-- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-moj)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-pih)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4jf3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
