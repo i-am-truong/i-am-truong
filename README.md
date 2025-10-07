@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Picking Your Automation: Zapier, Make, or n8n?](https://dev.to/aadarsh-nagrath/picking-your-automation-zapier-make-or-n8n-3h0a)
+- [Building a RAG from Scratch: A Beginner&#39;s Guide &lpar;Part 1: The Basic Pipeline&rpar;](https://dev.to/hadywalied/building-a-rag-from-scratch-a-beginners-guide-part-1-the-basic-pipeline-17b0)
 - [MLZC25-15. Usando el Modelo: Del Laboratorio al Mundo Real](https://dev.to/jesus_oviedoriquelme_084/mlzc25-15-usando-el-modelo-del-laboratorio-al-mundo-real-11jj)
 - [MLZC25-14. Regularización y Tuning del Modelo: La Batalla contra el Sobreajuste](https://dev.to/jesus_oviedoriquelme_084/mlzc25-14-regularizacion-y-tuning-del-modelo-la-batalla-contra-el-sobreajuste-4hd2)
 - [MLZC25-13. Ingeniería de Características y Variables Categóricas: El Arte de Transformar Datos](https://dev.to/jesus_oviedoriquelme_084/mlzc25-13-ingenieria-de-caracteristicas-y-variables-categoricas-el-arte-de-transformar-datos-2kk1)
-- [MLZC25-12. RMSE y Modelo Baseline: El Termómetro de tu Modelo](https://dev.to/jesus_oviedoriquelme_084/mlzc25-12-rmse-y-modelo-baseline-el-termometro-de-tu-modelo-52p1)
-- [MLZC25-11. Regresión Lineal: El ABC del Machine Learning](https://dev.to/jesus_oviedoriquelme_084/mlzc25-11-regresion-lineal-el-abc-del-machine-learning-5bhm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
