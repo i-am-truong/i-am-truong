@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Push Docker Image to AWS ECR](https://dev.to/kmsaifullah/push-docker-image-to-aws-ecr-i5j)
-- [Baseline - ported to Go](https://dev.to/jonasbn/baseline-ported-to-go-4pep)
-- [Mastering SQL: A Practical Guide to Cursors and Triggers in Oracle](https://dev.to/haresh_511/mastering-sql-a-practical-guide-to-cursors-and-triggers-in-oracle-4f7)
-- [Build Better UIs: A Practical Guide to Atomic Design](https://dev.to/homayunmmdy/build-better-uis-a-practical-guide-to-atomic-design-389b)
-- [Guide to Containerizing a Modern JavaScript SPA &lpar;Vue/Vite/React&rpar; with a Multi-Stage Nginx Build 🚀](https://dev.to/it-wibrc/guide-to-containerizing-a-modern-javascript-spa-vuevitereact-with-a-multi-stage-nginx-build-1lma)
+- [React.js Question 1](https://dev.to/sathish_k_7c5712d0008c914/reactjs-question-1-1985)
+- [Generating Realistic Fake Data in Java with Quarkus, DataFaker &amp; EasyRandom](https://dev.to/wallaceespindola/generating-realistic-fake-data-in-java-with-quarkus-datafaker-easyrandom-5gi8)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cen)
+- [unleashing the potential of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-5e2f)
+- [CDEvents in Action #3: Direct CI/CD Pipeline Integration](https://dev.to/davidb31/cdevents-in-action-3-direct-cicd-pipeline-integration-564a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
