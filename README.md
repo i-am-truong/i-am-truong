@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Way to Grasp Dependency Injection](https://dev.to/duskoperic/a-simple-way-to-grasp-dependency-injection-41ef)
+- [ปลดล็อกพลัง ElizaOS: สร้างปลั๊กอิน AI แปลงข้อความเป็นวิดีโอ &lpar;ฉบับรวบรัด&rpar;](https://dev.to/ubinix_warun/pldlkphlang-elizaos-sraangplakin-ai-aeplngkhkhwaamepnwidiio-chbabrwbrad-47oo)
+- [CRUD Operations in MongoDB for Beginners](https://dev.to/iniko/crud-operations-in-mongodb-for-beginners-58h9)
+- [The TenK Manifesto — Why Indie Founders Need a Movement](https://dev.to/soasme/the-tenk-manifesto-why-indie-founders-need-a-movement-11bk)
 - [How to mention users &lpar;and @Everyone&rpar; in a Teams group chat from Power Automate](https://dev.to/wilchindipolog/how-to-mention-users-and-everyone-in-a-teams-group-chat-from-power-automate-oal)
-- [IT Asset Disposal &amp; E-Waste Management in 2025](https://dev.to/teresa_tran/it-asset-disposal-e-waste-management-in-2025-1gn1)
-- [The Space Between Intention and Impact](https://dev.to/remejuan/the-space-between-intention-and-impact-19g2)
-- [AWS Cloud Tutorial | Build and Deploy Your First Application](https://dev.to/tpointtechblog/aws-cloud-tutorial-build-and-deploy-your-first-application-3a0e)
-- [How to: Use a Bitmask-Based Rights System for Cookie Consent](https://dev.to/iamrule/how-to-use-a-bitmask-based-rights-system-for-cookie-consent-38pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
