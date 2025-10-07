@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React.js Question 1](https://dev.to/sathish_k_7c5712d0008c914/reactjs-question-1-1985)
-- [Generating Realistic Fake Data in Java with Quarkus, DataFaker &amp; EasyRandom](https://dev.to/wallaceespindola/generating-realistic-fake-data-in-java-with-quarkus-datafaker-easyrandom-5gi8)
-- [Indexing, Hashing &amp; Query Optimization](https://dev.to/dartybaby/indexing-hashing-query-optimization-3kan)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cen)
-- [What’s this global-metadata.dat thing and why does it matter?](https://dev.to/guardingpearsoftware/whats-this-global-metadatadat-thing-and-why-does-it-matter-50ch)
+- [Pipe operator is coming to PHP !](https://dev.to/thicha0/pipe-operator-is-coming-to-php--2838)
+- [JSON Schema in the Wild: Real World Applications &amp; HAL 🌍](https://dev.to/vishdevwork/json-schema-in-the-wild-real-world-applications-hal-3m1l)
+- [Build a Perfect Blog with FastAPI: Full-Text Search for Posts](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-full-text-search-for-posts-3955)
+- [💸 Day 7: Building an On-Chain IOU System with Solidity — Track and Settle Debts Securely](https://dev.to/sauravkumar8178/day-7-building-an-on-chain-iou-system-with-solidity-track-and-settle-debts-securely-9lm)
+- [Building a Portfolio as well as an Elementor Library](https://dev.to/rio_akram_m_653866db/building-a-portfolio-as-well-as-an-elementor-library-3c6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
