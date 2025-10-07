@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tired of Juggling Multiple Projects? I Built a Framework to Automate It All.](https://dev.to/chahuadev/tired-of-juggling-multiple-projects-i-built-a-framework-to-automate-it-all-20h3)
+- [[따배쿠] 1. 쿠버네티스](https://dev.to/youjung-hong/ddabaeku-1-kubeonetiseu-3h11)
 - [🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles](https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3)
 - [Camadas de aplicação e transporte](https://dev.to/andresdossantos/camadas-de-aplicacao-e-transporte-2doi)
 - [Automate Your Database Design Audits](https://dev.to/nasrulhazim/automate-your-database-design-audits-42c2)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-368n)
-- [Who owns Express VPN, Nord, Surfshark? VPN relationships explained &lpar;2024&rpar;](https://dev.to/technoblogger14o3/who-owns-express-vpn-nord-surfshark-vpn-relationships-explained-2024-36o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
