@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [React.js Question 1](https://dev.to/sathish_k_7c5712d0008c914/reactjs-question-1-1985)
 - [Generating Realistic Fake Data in Java with Quarkus, DataFaker &amp; EasyRandom](https://dev.to/wallaceespindola/generating-realistic-fake-data-in-java-with-quarkus-datafaker-easyrandom-5gi8)
+- [Indexing, Hashing &amp; Query Optimization](https://dev.to/dartybaby/indexing-hashing-query-optimization-3kan)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cen)
-- [unleashing the potential of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-5e2f)
-- [CDEvents in Action #3: Direct CI/CD Pipeline Integration](https://dev.to/davidb31/cdevents-in-action-3-direct-cicd-pipeline-integration-564a)
+- [What’s this global-metadata.dat thing and why does it matter?](https://dev.to/guardingpearsoftware/whats-this-global-metadatadat-thing-and-why-does-it-matter-50ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
