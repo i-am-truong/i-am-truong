@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Procurement Logic Goes in Circles](https://dev.to/bid_solution/when-procurement-logic-goes-in-circles-2j7c)
+- [How to Build a Custom Node in n8n? The Guide No One Shares with Founders](https://dev.to/ciphernutz/how-to-build-a-custom-node-in-n8n-the-guide-no-one-shares-with-founders-2a5p)
+- [What’s one small change at work that made a huge difference in your productivity?](https://dev.to/clariti_22_6e89b280ccd102/whats-one-small-change-at-work-that-made-a-huge-difference-in-your-productivity-1kb6)
 - [Latency vs. Accuracy for LLM Apps — How to Choose and How a Memory Layer Lets You Win Both](https://dev.to/gervaisamoah/latency-vs-accuracy-for-llm-apps-how-to-choose-and-how-a-memory-layer-lets-you-win-both-d6g)
 - [Top Reporting Tools for Selenium Automation](https://dev.to/jignect-technologies/top-reporting-tools-for-selenium-automation-366)
-- [The 3 C# PDF Libraries Every Developer Must Know](https://dev.to/antonmartyniuk/the-3-c-pdf-libraries-every-developer-must-know-30de)
-- [Bible Verses for Athletes: How to Build Mental Strength and Faith with Speed Memory Training](https://dev.to/brain_athlete/bible-verses-for-athletes-how-to-build-mental-strength-and-faith-with-speed-memory-training-123)
-- [An AI Video Transcriber Tool That Developers Actually Use &lpar;800+ Stars and 100+ Forks&rpar;](https://dev.to/wendy7756/an-ai-video-transcriber-tool-that-developers-actually-use-800-stars-and-100-forks-5da9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
