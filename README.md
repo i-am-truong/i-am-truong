@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 03 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-03-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3c6f)
+- [L&#39;outil IA pour trouver un nom de projet rapidement](https://dev.to/nazario/loutil-ia-pour-trouver-un-nom-de-projet-rapidement-1gfp)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_f8c307c5/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-5gch)
 - [AI Code Assistants Are Making Developers Lazy That&#39;s Actually Good&rpar;](https://dev.to/pratham_naik_project_manager/ai-code-assistants-are-making-developers-lazy-thats-actually-good-4efd)
 - [AI Code Assistants Are Making Developers Lazy &lpar;And That&#39;s Actually Good&rpar;](https://dev.to/teamcamp/ai-code-assistants-are-making-developers-lazy-and-thats-actually-good-50cj)
-- [Build Your First &lpar;or Next&rpar; MCP Server with the TypeScript MCP Template](https://dev.to/nickytonline/build-your-first-or-next-mcp-server-with-the-typescript-mcp-template-3k3f)
-- [Multiprocessing: Interview Questions and Practice Problems](https://dev.to/imsushant12/multiprocessing-interview-questions-and-practice-problems-287i)
-- [RimStone](https://dev.to/rimstone/rimstone-a1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
