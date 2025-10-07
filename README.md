@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering has levels to it:](https://dev.to/narednra_reddyyadama_d64/software-engineering-has-levels-to-it-2b0e)
-- [Why Enterprise AI Needs Agentic Messaging Platforms](https://dev.to/johnjvester/why-enterprise-ai-needs-agentic-messaging-platforms-12nd)
-- [Good evening guys, any tips for a beginner in the programming field? I&#39;m in my first year of college, studying SOFTWARE ENGINEERING and I&#39;m focusing on the JAVA programming language and Spring Boot &lt;3 ....](https://dev.to/edison_travain_20f036a01a/good-evening-guys-any-tips-for-a-beginner-in-the-programming-field-im-in-my-first-year-of-1n9e)
-- [The Invisible Engine Powering Every Java Application. 🧑🏻‍💻](https://dev.to/narednra_reddyyadama_d64/the-invisible-engine-powering-every-java-application-9mb)
-- [Mastering the Art of Code Reviews: Best Practices and Tools Every Developer Should Know](https://dev.to/mikeover/mastering-the-art-of-code-reviews-best-practices-and-tools-every-developer-should-know-1oh7)
+- [🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles](https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3)
+- [Camadas de aplicação e transporte](https://dev.to/andresdossantos/camadas-de-aplicacao-e-transporte-2doi)
+- [Automate Your Database Design Audits](https://dev.to/nasrulhazim/automate-your-database-design-audits-42c2)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-368n)
+- [Who owns Express VPN, Nord, Surfshark? VPN relationships explained &lpar;2024&rpar;](https://dev.to/technoblogger14o3/who-owns-express-vpn-nord-surfshark-vpn-relationships-explained-2024-36o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
