@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SN 114: Our Side of the Story](https://dev.to/level_114/sn-114-our-side-of-the-story-58hc)
 - [Understanding Codecs, Containers, and Bitrates: What Every Developer Using FFmpeg Should Know](https://dev.to/willem_janssen_ca51a0bfba/understanding-codecs-containers-and-bitrates-what-every-developer-using-ffmpeg-should-know-2m5)
 - [Continuums as a tool for understanding](https://dev.to/measuredco/continuums-as-a-tool-for-understanding-305k)
 - [From Figma to Production: How I Optimized Frontend Development Time by 70%](https://dev.to/envitab/from-figma-to-production-how-i-optimized-frontend-development-time-by-70-2obk)
 - [AI will replace everyone but you](https://dev.to/nhumrich/ai-will-replace-everyone-but-you-34h9)
-- [Optimising Node.js for High-Performance Processing](https://dev.to/pmbanugo/-4fbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
