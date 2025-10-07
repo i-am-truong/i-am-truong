@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Who wants to build an admin UI?](https://dev.to/aaronblondeau/who-wants-to-build-an-admin-ui-55b9)
-- [Workload Discovery &amp; free alternatives](https://dev.to/wakeup_flower_8591a6cb6a9/workload-discovery-free-alternatives-445j)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-nkn)
-- [Navigating AI and AI Agents: A Developer&#39;s Guide](https://dev.to/gautammanak1/navigating-ai-and-ai-agents-a-developers-guide-44fh)
-- [Building Cryptographic Guardrails for AI-Assisted Coding](https://dev.to/bewakerai/building-cryptographic-guardrails-for-ai-assisted-coding-ong)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-72)
+- [HWID Spoofer: A Developer&#39;s Guide](https://dev.to/mina_tremblay_9ae0fef8e42/hwid-spoofer-a-developers-guide-1k0n)
+- [Hyper-Accurate Time Series: Bridging the Prediction Gap with Glocal Learning by Arvind Sundararajan](https://dev.to/arvind_sundararajan/hyper-accurate-time-series-bridging-the-prediction-gap-with-glocal-learning-by-arvind-sundararajan-5d0i)
+- [IGN: Glowing Lamps - Official Reveal Trailer](https://dev.to/gg_news/ign-glowing-lamps-official-reveal-trailer-55od)
+- [We Fixed React&#39;s Context API: Introducing react-signal-context](https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
