@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Way to Grasp Dependency Injection](https://dev.to/duskoperic/a-simple-way-to-grasp-dependency-injection-41ef)
-- [ปลดล็อกพลัง ElizaOS: สร้างปลั๊กอิน AI แปลงข้อความเป็นวิดีโอ &lpar;ฉบับรวบรัด&rpar;](https://dev.to/ubinix_warun/pldlkphlang-elizaos-sraangplakin-ai-aeplngkhkhwaamepnwidiio-chbabrwbrad-47oo)
-- [CRUD Operations in MongoDB for Beginners](https://dev.to/iniko/crud-operations-in-mongodb-for-beginners-58h9)
-- [The TenK Manifesto — Why Indie Founders Need a Movement](https://dev.to/soasme/the-tenk-manifesto-why-indie-founders-need-a-movement-11bk)
-- [How to mention users &lpar;and @Everyone&rpar; in a Teams group chat from Power Automate](https://dev.to/wilchindipolog/how-to-mention-users-and-everyone-in-a-teams-group-chat-from-power-automate-oal)
+- [RAG Chunking Strategies That Actually Work &lpar;and Why Most Don’t&rpar;](https://dev.to/rajinh24/rag-chunking-strategies-that-actually-work-and-why-most-dont-49n2)
+- [We built Scout QA - an AI Quality Companion for AI-native developers &lpar;and just launched on Product Hunt&rpar;](https://dev.to/huy_tieu/we-built-scout-qa-an-ai-quality-companion-for-ai-native-developers-and-just-launched-on-product-23bh)
+- [Redesignr.ai: Instantly Upgrade Your Website Design with AI](https://dev.to/web5lab_938e9096be8dc3e78/redesignrai-instantly-upgrade-your-website-design-with-ai-1e62)
+- [Hacktoberfest 2025 - First post](https://dev.to/musaddiq625/hacktoberfest-2025-first-post-363m)
+- [The Freelancer’s Secret: Automating Follow-Ups with VisitFolio Tools](https://dev.to/imtaslim/the-freelancers-secret-automating-follow-ups-with-visitfolio-tools-55lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
