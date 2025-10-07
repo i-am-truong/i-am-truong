@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Melhorando a performance em Kotlin com concatenação de strings](https://dev.to/gabrielcodesolutions/melhorando-a-performance-em-kotlin-com-concatenacao-de-strings-m44)
-- [What happened after I posted Daffodil&#39;s Show HN Post](https://dev.to/damienwebdev/what-happened-after-i-posted-daffodils-show-hn-post-4d5o)
-- [A Beginner&#39;s GAN Adventure with Digits](https://dev.to/anikchand461/a-beginners-gan-adventure-with-digits-54g4)
-- [How Do You Actually Send an EVM Write Transaction? Building a Robust Client for ABI Encoding, Gas &lpar;EIP‑1559&rpar;, and Verification](https://dev.to/onlineproxy/how-do-you-actually-send-an-evm-write-transaction-building-a-robust-client-for-abi-encoding-gas-1pp8)
-- [Building a Poetry Auction Smart Contract on Polkadot with ink!](https://dev.to/chri5_kalul3/building-a-poetry-auction-smart-contract-on-polkadot-with-ink-4aj9)
+- [Workload Discovery &amp; free alternatives](https://dev.to/wakeup_flower_8591a6cb6a9/workload-discovery-free-alternatives-445j)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-nkn)
+- [Navigating AI and AI Agents: A Developer&#39;s Guide](https://dev.to/gautammanak1/navigating-ai-and-ai-agents-a-developers-guide-44fh)
+- [Building Cryptographic Guardrails for AI-Assisted Coding](https://dev.to/bewakerai/building-cryptographic-guardrails-for-ai-assisted-coding-ong)
+- [Making a Daily meme generator in html css and js!](https://dev.to/crazybrad77/making-a-daily-meme-generator-in-html-css-and-js-mgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
