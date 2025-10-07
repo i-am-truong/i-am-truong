@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Touch Effects in Mobile Games. Implementation via Unity Shaders + AI](https://dev.to/octanta_studio/touch-effects-in-mobile-games-implementation-via-unity-shaders-ai-19f9)
+- [Fixing no space left on device for Docker when /run is full &lpar;Ubuntu&rpar;](https://dev.to/jefferyhus/fixing-no-space-left-on-device-for-docker-when-run-is-full-ubuntu-1n0c)
 - [AWS CDK Unit Testing Guide: When and How to Use Different Test Types](https://dev.to/aws-heroes/aws-cdk-unit-testing-guide-when-and-how-to-use-different-test-types-331g)
 - [How Startups Can Simplify SOC 2 Certification &lpar;Without Breaking the Bank&rpar;](https://dev.to/abhinavkumar128/how-startups-can-simplify-soc-2-certification-without-breaking-the-bank-1jkj)
 - [💡 From PowerPoint to Smart Contracts: How $BTC and Web3 Are Rewriting the Rules of Work](https://dev.to/tanelith/from-powerpoint-to-smart-contracts-how-btc-and-web3-are-rewriting-the-rules-of-work-mab)
-- [KPH Group: The Best Partner for Tested Electrical Hardware](https://dev.to/shobha_a11bb8ac4e462af254/kph-group-the-best-partner-for-tested-electrical-hardware-1j4p)
-- [Building a Voice Agent Using n8n, Twilio, and SIP Integration](https://dev.to/tanaka_chindakuda_2b2c903/building-a-voice-agent-using-n8n-twilio-and-sip-integration-2ce6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
