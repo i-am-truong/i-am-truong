@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Next Developer Skill: Knowing What NOT to Automate](https://dev.to/marxon/the-next-developer-skill-knowing-what-not-to-automate-2hh9)
+- [Unlocking the Power of Continuous Integration: Enhancing Your Development Workflow](https://dev.to/mikeover/unlocking-the-power-of-continuous-integration-enhancing-your-development-workflow-2hgj)
+- [Building a Real Free GIF Generator — No Logins, No Watermarks, No Tricks](https://dev.to/sysmaya/building-a-real-free-gif-generator-no-logins-no-watermarks-no-tricks-1pal)
 - [🔍 SVAR React Filter: Open-Source Query Builder for React](https://dev.to/olga_tash/svar-react-filter-open-source-query-builder-for-react-1fd0)
 - [Fixing Tailwind CSS Autocomplete in RubyMine &lpar;Rails 8 + Tailwind CSS 4&rpar;](https://dev.to/geekmaros/fixing-tailwind-css-autocomplete-in-rubymine-rails-8-tailwind-css-4-1n5l)
-- [**Netflix Movie Recommendation using Multi-Armed Bandit Algo](https://dev.to/drcarlosruizviquez/netflix-movie-recommendation-using-multi-armed-bandit-algo-fkj)
-- [Announcing Forge — self-hosted community software](https://dev.to/railsdesigner/announcing-forge-self-hosted-community-software-4ip6)
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-2n2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
