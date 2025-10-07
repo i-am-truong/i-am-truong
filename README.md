@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Context vs Redux for Theme Management in React Native: Which One Should You Choose?](https://dev.to/amina_taariq/context-vs-redux-for-theme-management-in-react-native-which-one-should-you-choose-153h)
-- [🧑‍💻 How I Fell in Love with the MERN Stack &lpar;and What I Learned So Far&rpar;](https://dev.to/anandhu_asokans_5b7e1432/how-i-fell-in-love-with-the-mern-stack-and-what-i-learned-so-far-536o)
-- [[Beta Open] One-click 3D optimization in your browser — PM AutoTwin &lpar;Free&rpar;](https://dev.to/pmautotwin/beta-open-one-click-3d-optimization-in-your-browser-pm-autotwin-free-2c6e)
-- [GEO + SEO for Devs: Make Your Content Discoverable in Google and AI Engines](https://dev.to/digitaldominationmktg/geo-seo-for-devs-make-your-content-discoverable-in-google-and-ai-engines-41lg)
-- [What is Proxmox VE?](https://dev.to/rosgluk/what-is-proxmox-ve-231l)
+- [Creating a realtime voice agent using OpenAI&#39;s new gpt-realtime speech-to-speech model](https://dev.to/matthewmascord/creating-a-realtime-voice-agent-using-openais-new-gpt-realtime-speech-to-speech-model-2ehb)
+- [Proactive Agents: Making AI self-engage in conversation](https://dev.to/leomariga/proactive-agents-making-ai-self-engage-in-conversation-1m89)
+- [⚡ Ready-to-Use React Admin eCommerce Dashboard – Plug &amp; Play, See It Live!](https://dev.to/santhosh_majji_02b732ed0c/ready-to-use-react-admin-ecommerce-dashboard-plug-play-see-it-live-b4p)
+- [Rent GPU Server: Empowering High-Performance Computing for Businesses in 2026](https://dev.to/cyfutureai/rent-gpu-server-empowering-high-performance-computing-for-businesses-in-2026-16i7)
+- [Why Are External Barn Doors a Stylish Choice for Homes?](https://dev.to/nanakdoors_5326bc1d4cad2e/why-are-external-barn-doors-a-stylish-choice-for-homes-34i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
