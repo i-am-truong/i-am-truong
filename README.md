@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MLZC25-10. Análisis Exploratorio de Datos y Marco de Validación: El Detective de Datos](https://dev.to/jesus_oviedoriquelme_084/mlzc25-10-analisis-exploratorio-de-datos-y-marco-de-validacion-el-detective-de-datos-482o)
-- [How to Log S3 Event Notifications to CloudWatch Logs with EventBridge using the CLI and PowerShell](https://dev.to/ken_langley_854029413ad01/how-to-log-s3-event-notifications-to-cloudwatch-logs-with-eventbridge-using-the-cli-and-powershell-337g)
-- [Perplexity Comet: Advanced Agentic Automation Playbook](https://dev.to/with_attitude/perplexity-comet-advanced-agentic-automation-playbook-142h)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_06022d8b/your-projects-a-mess-its-not-you-its-your-frameworks-fault-2p07)
-- [Accidentally Made a Zig dotenv Parser](https://dev.to/dayvster/accidentally-made-a-zig-dotenv-parser-311f)
+- [MLZC25-15. Usando el Modelo: Del Laboratorio al Mundo Real](https://dev.to/jesus_oviedoriquelme_084/mlzc25-15-usando-el-modelo-del-laboratorio-al-mundo-real-11jj)
+- [MLZC25-14. Regularización y Tuning del Modelo: La Batalla contra el Sobreajuste](https://dev.to/jesus_oviedoriquelme_084/mlzc25-14-regularizacion-y-tuning-del-modelo-la-batalla-contra-el-sobreajuste-4hd2)
+- [MLZC25-13. Ingeniería de Características y Variables Categóricas: El Arte de Transformar Datos](https://dev.to/jesus_oviedoriquelme_084/mlzc25-13-ingenieria-de-caracteristicas-y-variables-categoricas-el-arte-de-transformar-datos-2kk1)
+- [MLZC25-12. RMSE y Modelo Baseline: El Termómetro de tu Modelo](https://dev.to/jesus_oviedoriquelme_084/mlzc25-12-rmse-y-modelo-baseline-el-termometro-de-tu-modelo-52p1)
+- [MLZC25-11. Regresión Lineal: El ABC del Machine Learning](https://dev.to/jesus_oviedoriquelme_084/mlzc25-11-regresion-lineal-el-abc-del-machine-learning-5bhm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
