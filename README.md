@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WinForms in 2025? Here&#39;s the Slick MSSQL Monitoring App I Built](https://dev.to/abeamar/winforms-in-2025-heres-the-slick-mssql-monitoring-app-i-built-3epf)
+- [Coding Challenge Practice - Question 23](https://dev.to/tomivan/coding-challenge-practice-question-23-2fn6)
 - [Padrão Mediator](https://dev.to/yuripeixinho/padrao-mediator-45g4)
 - [IP addresses](https://dev.to/jumptotech/ip-addresses-18de)
 - [How to Interact with a Pizza Charity ink! Smart Contract with PAPI and Reactive DOT](https://dev.to/aliyuadeniji/how-to-interact-with-a-pizza-charity-ink-smart-contract-with-papi-and-reactive-dot-3eg3)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_06022d8b/that-real-time-headache-its-not-the-websockets-its-your-framework-5hi4)
-- [HWID Spoofer: A Developer&#39;s Guide](https://dev.to/mina_tremblay_9ae0fef8e42/hwid-spoofer-a-developers-guide-1k0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
