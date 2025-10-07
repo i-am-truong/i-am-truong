@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2890)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2760)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5dbc)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4kh4)
-- [Peter Finch Golf: Playing my favourite course before it falls into the sea...](https://dev.to/youtube_golf/peter-finch-golf-playing-my-favourite-course-before-it-falls-into-the-sea-1a)
+- [UX Engineering: From the Eyes of a Field Pioneer &lpar;2026 Edition&rpar;](https://dev.to/d2d_danny/ux-engineering-from-the-eyes-of-a-field-pioneer-1ehe)
+- [horcrux: Split files into encrypted fragments for Node &amp; React Native &lpar;TypeScript library&rpar;](https://dev.to/nchika/horcrux-split-files-into-encrypted-fragments-for-node-react-native-typescript-library-6h6)
+- [Optimizing AWS DevOps Workflows Through Smarter CI/CD and Version Control](https://dev.to/vishal_more_02990955c9358/optimizing-aws-devops-workflows-through-smarter-cicd-and-version-control-4406)
+- [React Questions](https://dev.to/vidya_varshini/react-questions-1ppk)
+- [Don’t Tear Down the Fence: Why Understanding Comes Before Change](https://dev.to/hardikidea/dont-tear-down-the-fence-why-understanding-comes-before-change-2bd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
