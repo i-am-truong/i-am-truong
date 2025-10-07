@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI will replace everyone but you](https://dev.to/nhumrich/ai-will-replace-everyone-but-you-34h9)
+- [Optimising Node.js for High-Performance Processing](https://dev.to/pmbanugo/-4fbf)
+- [Node.js Performance: Processing 14GB Files 78% Faster with Buffer Optimization](https://dev.to/pmbanugo/nodejs-performance-processing-14gb-files-78-faster-with-buffer-optimization-540i)
 - [How Game Simulations are Reshaping Military Strategy](https://dev.to/gamepill/how-game-simulations-are-reshaping-military-strategy-5h7i)
 - [How MySQL Actually Works: A Deep Dive into Database Internals](https://dev.to/mush1e/how-mysql-actually-works-a-deep-dive-into-database-internals-4o16)
-- [Network Monitoring with PRTG](https://dev.to/samueladeduntan/network-monitoring-with-prtg-3fd5)
-- [MCP servers have issues, so I built &#39;lootbox&#39; &lpar;inspired by Cloudflare&#39;s Code Mode&rpar;](https://dev.to/jm-codes/mcp-servers-have-issues-so-i-built-lootbox-inspired-by-cloudflares-code-mode-16gb)
-- [Mobile tables](https://dev.to/rossangus/mobile-tables-fj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
