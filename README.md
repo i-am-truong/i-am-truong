@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Golang Dependency Inversion — A Java Developer&#39;s Point of View](https://dev.to/kirekov/golang-dependency-inversion-a-java-developers-point-of-view-pj4)
-- [Automating EC2 Instance Management with Go](https://dev.to/copubah/automating-ec2-instance-management-with-go-10nh)
-- [5 Tools That Make My Life Instantly Better 🚀](https://dev.to/lovestaco/5-tools-that-make-my-life-instantly-better-2i5l)
-- [Pipe operator is coming to PHP !](https://dev.to/thicha0/pipe-operator-is-coming-to-php--2838)
-- [JSON Schema in the Wild: Real World Applications &amp; HAL 🌍](https://dev.to/vishdevwork/json-schema-in-the-wild-real-world-applications-hal-3m1l)
+- [MLZC25-10. Análisis Exploratorio de Datos y Marco de Validación: El Detective de Datos](https://dev.to/jesus_oviedoriquelme_084/mlzc25-10-analisis-exploratorio-de-datos-y-marco-de-validacion-el-detective-de-datos-482o)
+- [How to Log S3 Event Notifications to CloudWatch Logs with EventBridge using the CLI and PowerShell](https://dev.to/ken_langley_854029413ad01/how-to-log-s3-event-notifications-to-cloudwatch-logs-with-eventbridge-using-the-cli-and-powershell-337g)
+- [Perplexity Comet: Advanced Agentic Automation Playbook](https://dev.to/with_attitude/perplexity-comet-advanced-agentic-automation-playbook-142h)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_06022d8b/your-projects-a-mess-its-not-you-its-your-frameworks-fault-2p07)
+- [Accidentally Made a Zig dotenv Parser](https://dev.to/dayvster/accidentally-made-a-zig-dotenv-parser-311f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
