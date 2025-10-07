@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create a React Native Project &lpar;bun + Expo development built&rpar;](https://dev.to/cathylai/create-a-react-native-project-bun-expo-development-built-4mc4)
-- [IAM in AWS](https://dev.to/jumptotech/iam-in-aws-4bf3)
-- [Automated Backup System Using n8n: Dropbox to Google Drive](https://dev.to/aihacks/automated-backup-system-using-n8n-dropbox-to-google-drive-g7k)
-- [[Boost]](https://dev.to/mutindakioko/-3no0)
-- [DSPy-ReAct-Machina: An Alternative Multi-Turn ReAct Module for DSPy](https://dev.to/armoucar/dspy-react-machina-an-alternative-multi-turn-react-module-for-dspy-2ee9)
+- [Software Engineering has levels to it:](https://dev.to/narednra_reddyyadama_d64/software-engineering-has-levels-to-it-2b0e)
+- [Why Enterprise AI Needs Agentic Messaging Platforms](https://dev.to/johnjvester/why-enterprise-ai-needs-agentic-messaging-platforms-12nd)
+- [Good evening guys, any tips for a beginner in the programming field? I&#39;m in my first year of college, studying SOFTWARE ENGINEERING and I&#39;m focusing on the JAVA programming language and Spring Boot &lt;3 ....](https://dev.to/edison_travain_20f036a01a/good-evening-guys-any-tips-for-a-beginner-in-the-programming-field-im-in-my-first-year-of-1n9e)
+- [The Invisible Engine Powering Every Java Application. 🧑🏻‍💻](https://dev.to/narednra_reddyyadama_d64/the-invisible-engine-powering-every-java-application-9mb)
+- [Mastering the Art of Code Reviews: Best Practices and Tools Every Developer Should Know](https://dev.to/mikeover/mastering-the-art-of-code-reviews-best-practices-and-tools-every-developer-should-know-1oh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
