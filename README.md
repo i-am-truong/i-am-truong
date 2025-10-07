@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Melhorando a performance em Kotlin com concatenação de strings](https://dev.to/gabrielcodesolutions/melhorando-a-performance-em-kotlin-com-concatenacao-de-strings-m44)
 - [What happened after I posted Daffodil&#39;s Show HN Post](https://dev.to/damienwebdev/what-happened-after-i-posted-daffodils-show-hn-post-4d5o)
 - [A Beginner&#39;s GAN Adventure with Digits](https://dev.to/anikchand461/a-beginners-gan-adventure-with-digits-54g4)
 - [How Do You Actually Send an EVM Write Transaction? Building a Robust Client for ABI Encoding, Gas &lpar;EIP‑1559&rpar;, and Verification](https://dev.to/onlineproxy/how-do-you-actually-send-an-evm-write-transaction-building-a-robust-client-for-abi-encoding-gas-1pp8)
 - [Building a Poetry Auction Smart Contract on Polkadot with ink!](https://dev.to/chri5_kalul3/building-a-poetry-auction-smart-contract-on-polkadot-with-ink-4aj9)
-- [Kusto Query Language &lpar;KQL&rpar; — A Practical, No‑BS Guide for Engineers &lpar;with SQL mapping, recipes, and gotchas&rpar;](https://dev.to/cristiansifuentes/kusto-query-language-kql-a-practical-no-bs-guide-for-engineers-with-sql-mapping-recipes-and-n81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
