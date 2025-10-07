@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a realtime voice agent using OpenAI&#39;s new gpt-realtime speech-to-speech model](https://dev.to/matthewmascord/creating-a-realtime-voice-agent-using-openais-new-gpt-realtime-speech-to-speech-model-2ehb)
-- [Proactive Agents: Making AI self-engage in conversation](https://dev.to/leomariga/proactive-agents-making-ai-self-engage-in-conversation-1m89)
-- [⚡ Ready-to-Use React Admin eCommerce Dashboard – Plug &amp; Play, See It Live!](https://dev.to/santhosh_majji_02b732ed0c/ready-to-use-react-admin-ecommerce-dashboard-plug-play-see-it-live-b4p)
-- [Rent GPU Server: Empowering High-Performance Computing for Businesses in 2026](https://dev.to/cyfutureai/rent-gpu-server-empowering-high-performance-computing-for-businesses-in-2026-16i7)
-- [Why Are External Barn Doors a Stylish Choice for Homes?](https://dev.to/nanakdoors_5326bc1d4cad2e/why-are-external-barn-doors-a-stylish-choice-for-homes-34i)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2890)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2760)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5dbc)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4kh4)
+- [Peter Finch Golf: Playing my favourite course before it falls into the sea...](https://dev.to/youtube_golf/peter-finch-golf-playing-my-favourite-course-before-it-falls-into-the-sea-1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
