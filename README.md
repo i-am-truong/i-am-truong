@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-26ej)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2eij)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-7on)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-o93)
-- [How to Add a Wishlist Count Bubble to Your Shopify Theme &lpar;No JavaScript Needed&rpar;?](https://dev.to/sebbanfa/how-to-add-a-wishlist-count-bubble-to-your-shopify-theme-no-javascript-needed-3ej9)
+- [Custom Image Markers in Quadrant Charts — JS Chart Tips](https://dev.to/anychart/custom-image-markers-in-quadrant-charts-js-chart-tips-2e76)
+- [Day 25 of 90 day python series..](https://dev.to/momina_raheelmoona_c59/day-25-of-90-day-python-series-2e0n)
+- [Playwright v1.56: Introducing AI-Powered Testing Agents](https://dev.to/testrig/playwright-v156-introducing-ai-powered-testing-agents-3ncj)
+- [How to Write an ATS-Friendly CV: A Complete Guide](https://dev.to/glnurltn/how-to-write-an-ats-friendly-cv-a-complete-guide-3mk1)
+- [New article alert! 🚀 I&#39;ve written a detailed piece on building an Enterprise Data Access Layer. It&#39;s a must-read for architects and engineers.
+
+#programming #databases #softwareengineering #devblog](https://dev.to/gigaherz/new-article-alert-ive-written-a-detailed-piece-on-building-an-enterprise-data-access-layer-5c84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
