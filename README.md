@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Modern Web UIs with Eldora UI — Animated, Functional, and Beautiful](https://dev.to/karthikmudunuri/building-modern-web-uis-with-eldora-ui-animated-functional-and-beautiful-2j22)
-- [sidecar container in ECS](https://dev.to/wakeup_flower_8591a6cb6a9/sidecar-container-in-ecs-5hh4)
-- [ACLs vs Security Groups in AWS](https://dev.to/wakeup_flower_8591a6cb6a9/acls-vs-security-groups-in-aws-536c)
-- [Every Developer Is Essentially Always On-Call](https://dev.to/thatsoftwaredude/every-developer-is-essentially-always-on-call-4lnl)
-- [Web Accessibility for Startups: 5 Small Wins That Scale](https://dev.to/palakjain21/web-accessibility-for-startups-5-small-wins-that-scale-3jp6)
+- [Building a Poetry Auction Smart Contract on Polkadot with ink!](https://dev.to/chri5_kalul3/building-a-poetry-auction-smart-contract-on-polkadot-with-ink-4aj9)
+- [Kusto Query Language &lpar;KQL&rpar; — A Practical, No‑BS Guide for Engineers &lpar;with SQL mapping, recipes, and gotchas&rpar;](https://dev.to/cristiansifuentes/kusto-query-language-kql-a-practical-no-bs-guide-for-engineers-with-sql-mapping-recipes-and-n81)
+- [Fly.io](https://dev.to/apondiart/flyio-7np)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_06022d8b/beyond-env-a-grown-ups-guide-to-application-configuration-4nk6)
+- [[PT-BR] Primeiros passos: Observabilidade em .NET](https://dev.to/viniverse/primeiros-passos-observabilidade-em-net-5c67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
