@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Modern Web UIs with Eldora UI — Animated, Functional, and Beautiful](https://dev.to/karthikmudunuri/building-modern-web-uis-with-eldora-ui-animated-functional-and-beautiful-2j22)
+- [sidecar container in ECS](https://dev.to/wakeup_flower_8591a6cb6a9/sidecar-container-in-ecs-5hh4)
 - [ACLs vs Security Groups in AWS](https://dev.to/wakeup_flower_8591a6cb6a9/acls-vs-security-groups-in-aws-536c)
 - [Every Developer Is Essentially Always On-Call](https://dev.to/thatsoftwaredude/every-developer-is-essentially-always-on-call-4lnl)
 - [Web Accessibility for Startups: 5 Small Wins That Scale](https://dev.to/palakjain21/web-accessibility-for-startups-5-small-wins-that-scale-3jp6)
-- [React Reconciliation, Fiber, and Virtual DOM Explained &lpar;Without the Jargon&rpar;](https://dev.to/ad99526/react-reconciliation-fiber-and-virtual-dom-explained-without-the-jargon-51ng)
-- [Step-by-Step Guide to M-Pesa STK Push in React Native with Daraja API](https://dev.to/james_mugambi_494c7da2b07/step-by-step-guide-to-m-pesa-stk-push-in-react-native-with-daraja-api-1ao7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
