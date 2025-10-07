@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dubai Tourism-Pocket Watch](https://dev.to/vamsi_nakireddi_711f6ecd0/dubai-tourism-pocket-watch-44fg)
-- [Thailand Tourism Website](https://dev.to/vamsi_nakireddi_711f6ecd0/thailand-tourism-website-2m02)
-- [Instancio : la révolution dans la gestion des jeux de données pour les tests en Java](https://dev.to/onepoint/instancio-la-revolution-dans-la-gestion-des-jeux-de-donnees-pour-les-tests-en-java-1bg7)
-- [Understanding ACID Properties in SQL with Examples](https://dev.to/abitha_n24cb001_9847d321/understanding-acid-properties-in-sql-with-examples-4263)
-- [EF Core DBContext Entities configuration refactoring](https://dev.to/igor_sh_dev/ef-core-dbcontext-entities-configuration-refactoring-4bm8)
+- [10 Best Feature Flag Tools to Release New Features with Confidence](https://dev.to/samlongbottom/10-best-feature-flag-tools-to-release-new-features-with-confidence-o64)
+- [1–10 Must CSS Layout Rules &lpar;Safari + Responsive Safe&rpar;](https://dev.to/raielly/1-10-must-css-layout-rules-safari-responsive-safe-4pn8)
+- [⚡ The Future is on Your Thumb: Decoding ThumbPay, India&#39;s Boldest New UPI Concept](https://dev.to/friesforlife/the-future-is-on-your-thumb-decoding-thumbpay-indias-boldest-new-upi-concept-m7i)
+- [Women’s Health: 10 Vital Tips to Strengthen Your Physical and Mental Well-Being](https://dev.to/jhanvi_shukla/womens-health-10-vital-tips-to-strengthen-your-physical-and-mental-well-being-1856)
+- [Understanding ACID Properties in SQL with Examples](https://dev.to/kani-l/understanding-acid-properties-in-sql-with-examples-1302)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
