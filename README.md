@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Touch Effects in Mobile Games. Implementation via Unity Shaders + AI](https://dev.to/octanta_studio/touch-effects-in-mobile-games-implementation-via-unity-shaders-ai-19f9)
-- [Fixing no space left on device for Docker when /run is full &lpar;Ubuntu&rpar;](https://dev.to/jefferyhus/fixing-no-space-left-on-device-for-docker-when-run-is-full-ubuntu-1n0c)
-- [AWS CDK Unit Testing Guide: When and How to Use Different Test Types](https://dev.to/aws-heroes/aws-cdk-unit-testing-guide-when-and-how-to-use-different-test-types-331g)
-- [How Startups Can Simplify SOC 2 Certification &lpar;Without Breaking the Bank&rpar;](https://dev.to/abhinavkumar128/how-startups-can-simplify-soc-2-certification-without-breaking-the-bank-1jkj)
-- [💡 From PowerPoint to Smart Contracts: How $BTC and Web3 Are Rewriting the Rules of Work](https://dev.to/tanelith/from-powerpoint-to-smart-contracts-how-btc-and-web3-are-rewriting-the-rules-of-work-mab)
+- [What AI Taught Me About Sharing Context With Humans](https://dev.to/saxmanjes/what-ai-taught-me-about-sharing-context-with-humans-1djc)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1jnc)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4hcg)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-4kn1)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Carousel &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-carousel-live-on-kexp-1h1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
