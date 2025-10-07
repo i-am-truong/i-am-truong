@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Medium-Rare Brain Understanding the Essential Tools of Modern Cryptography Part 1](https://dev.to/ayda_ma04a645d96526b/a-medium-rare-brain-understanding-the-essential-tools-of-modern-cryptography-part-1-2nc8)
-- [Stop Writing &quot;fix bug&quot;. Clean Up Your Commits With This VS Code Extension](https://dev.to/prismcoder/stop-writing-fix-bug-clean-up-your-commits-with-this-vs-code-extension-jof)
-- [El Futuro de la Mensajería Privada | Análisis Completo y Guía de Uso](https://dev.to/oliverholiveros/el-futuro-de-la-mensajeria-privada-analisis-completo-y-guia-de-uso-3b84)
-- [Quick Debugging Techniques for Playwright Tests](https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg)
-- [please give it a read](https://dev.to/guna01/please-give-it-a-read-3n8b)
+- [Mastering SQL: A Practical Guide to Cursors and Triggers in Oracle](https://dev.to/haresh_511/mastering-sql-a-practical-guide-to-cursors-and-triggers-in-oracle-4f7)
+- [Build Better UIs: A Practical Guide to Atomic Design](https://dev.to/homayunmmdy/build-better-uis-a-practical-guide-to-atomic-design-389b)
+- [Guide to Containerizing a Modern JavaScript SPA &lpar;Vue/Vite/React&rpar; with a Multi-Stage Nginx Build 🚀](https://dev.to/it-wibrc/guide-to-containerizing-a-modern-javascript-spa-vuevitereact-with-a-multi-stage-nginx-build-1lma)
+- [☕ coffee.tmux: A Modern tmux Plugin Manager](https://dev.to/praaneshselvaraj/coffeetmux-a-modern-tmux-plugin-manager-3jo8)
+- [Mastering Kubernetes Services: ClusterIP, NodePort, and LoadBalancer Explained.](https://dev.to/abhishek_korde_31/mastering-kubernetes-services-clusterip-nodeport-and-loadbalancer-explained-1iep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
