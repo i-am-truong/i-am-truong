@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How I Built a Bridge Between VS Code and My Phone — VSCoder Copilot](https://dev.to/kalinux/how-i-built-a-bridge-between-vs-code-and-my-phone-vscoder-copilot-2jk0)
-- [Saving Game Data in Unity — Part 1: PlayerPrefs](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-1-playerprefs-22hb)
-- [Stream Postgres WAL to AWS SQS: A Lightweight Approach](https://dev.to/alik-pgwalk/stream-postgres-wal-to-aws-sqs-a-lightweight-approach-2dgm)
-- [Building the Enterprise DAL Foundation: Database Structure and ULIDs](https://dev.to/gigaherz/building-the-enterprise-dal-foundation-database-structure-and-ulids-5b80)
-- [Understanding Kubernetes Networking: ClusterIP, NodePort, and LoadBalancer Services](https://dev.to/klaus82/understanding-kubernetes-networking-clusterip-nodeport-and-loadbalancer-services-1m21)
+- [🔍 Syncing SharePoint with Azure Blob Storage using Logic Apps &amp; Azure Functions for Azure AI Search](https://dev.to/imdj/syncing-sharepoint-with-azure-blob-storage-using-logic-apps-azure-functions-for-azure-ai-search-250j)
+- [# Managing CRUD Operations in React using Context API &amp; TypeScript](https://dev.to/dharmesh_ab1dc022d7b2472c/-managing-crud-operations-in-react-using-context-api-typescript-19ib)
+- [Bun-ffi - Getting started with C++ and Bun](https://dev.to/calumk/bun-ffi-getting-started-with-c-and-bun-47ea)
+- [Stop Wasting Hours: Docker Skills Every Front-End Engineer Needs](https://dev.to/devflex-pro/stop-wasting-hours-docker-skills-every-front-end-engineer-needs-2779)
+- [The unreasonable effectiveness of Postgres range types](https://dev.to/mcadariu/the-unreasonable-effectiveness-of-postgres-range-types-1ine)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
