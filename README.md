@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Senior to Staff: What Actually Changes &lpar;and How to Get There&rpar;](https://dev.to/jcmartinezdev/from-senior-to-staff-what-actually-changes-and-how-to-get-there-5a53)
+- [CSS Display and Positioning Basics](https://dev.to/sharique_siddiqui_8242dad/css-display-and-positioning-basics-5b6l)
+- [Everyone’s Suddenly Talking About AI Agents and MCP Here’s What I Learned](https://dev.to/trojanmocx/everyones-suddenly-talking-about-ai-agents-and-mcp-heres-what-i-learned-320g)
 - [AWS Cloud Practitioner Questions | Serverless Overview from a Solutions Architect Perspective](https://dev.to/minoltan/aws-cloud-practitioner-questions-serverless-overview-from-a-solutions-architect-perspective-2555)
 - [Enhance Your Cloud Development Workflow with Amazon Q CLI and MCP Servers](https://dev.to/aws-builders/enhance-your-cloud-development-workflow-with-amazon-q-cli-and-mcp-servers-1bbh)
-- [Automate Your AWS MSK Kafka Cluster with Terraform: A Complete Guide](https://dev.to/aws-builders/automate-your-aws-msk-kafka-cluster-with-terraform-a-complete-guide-18li)
-- [Angular Addicts #42: Signal Forms API, AI powered apps with Angular &amp; more](https://dev.to/this-is-angular/angular-addicts-42-signal-forms-api-ai-powered-apps-with-angular-more-477n)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-4kaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
