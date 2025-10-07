@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Juggling Multiple Projects? I Built a Framework to Automate It All.](https://dev.to/chahuadev/tired-of-juggling-multiple-projects-i-built-a-framework-to-automate-it-all-20h3)
-- [[따배쿠] 1. 쿠버네티스](https://dev.to/youjung-hong/ddabaeku-1-kubeonetiseu-3h11)
-- [🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles](https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3)
-- [Camadas de aplicação e transporte](https://dev.to/andresdossantos/camadas-de-aplicacao-e-transporte-2doi)
-- [Automate Your Database Design Audits](https://dev.to/nasrulhazim/automate-your-database-design-audits-42c2)
+- [Preparation of Perfection](https://dev.to/nikolaspablo92prog/preparation-of-perfection-3ejo)
+- [React Question &amp; Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-352m)
+- [How to create a ChatGPT app with OpenAI&#39;s Apps SDK](https://dev.to/lingodotdev/how-to-create-a-chatgpt-app-with-openais-apps-sdk-1213)
+- [We have released #MermaidXP , you can contribute in our repo https://github.com/ccvass/mermaidxp and try here https://mxp.apulab.com](https://dev.to/alfonsodg/we-have-released-mermaidxp-you-can-contribute-in-our-repo-httpsgithubcomccvassmermaidxp-4l0h)
+- [How Sleep Impacts Your Health: Back Pain, Stress, Immunity &amp; More](https://dev.to/sleepezzy/how-sleep-impacts-your-health-back-pain-stress-immunity-more-6j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
