@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Picking Your Automation: Zapier, Make, or n8n?](https://dev.to/aadarsh-nagrath/picking-your-automation-zapier-make-or-n8n-3h0a)
-- [Building a RAG from Scratch: A Beginner&#39;s Guide &lpar;Part 1: The Basic Pipeline&rpar;](https://dev.to/hadywalied/building-a-rag-from-scratch-a-beginners-guide-part-1-the-basic-pipeline-17b0)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_f8c307c5/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-329j)
-- [MLZC25-15. Usando el Modelo: Del Laboratorio al Mundo Real](https://dev.to/jesus_oviedoriquelme_084/mlzc25-15-usando-el-modelo-del-laboratorio-al-mundo-real-11jj)
-- [MLZC25-14. Regularización y Tuning del Modelo: La Batalla contra el Sobreajuste](https://dev.to/jesus_oviedoriquelme_084/mlzc25-14-regularizacion-y-tuning-del-modelo-la-batalla-contra-el-sobreajuste-4hd2)
+- [ACLs vs Security Groups in AWS](https://dev.to/wakeup_flower_8591a6cb6a9/acls-vs-security-groups-in-aws-536c)
+- [Every Developer Is Essentially Always On-Call](https://dev.to/thatsoftwaredude/every-developer-is-essentially-always-on-call-4lnl)
+- [Web Accessibility for Startups: 5 Small Wins That Scale](https://dev.to/palakjain21/web-accessibility-for-startups-5-small-wins-that-scale-3jp6)
+- [React Reconciliation, Fiber, and Virtual DOM Explained &lpar;Without the Jargon&rpar;](https://dev.to/ad99526/react-reconciliation-fiber-and-virtual-dom-explained-without-the-jargon-51ng)
+- [Step-by-Step Guide to M-Pesa STK Push in React Native with Daraja API](https://dev.to/james_mugambi_494c7da2b07/step-by-step-guide-to-m-pesa-stk-push-in-react-native-with-daraja-api-1ao7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
