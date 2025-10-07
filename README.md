@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UX Engineering: From the Eyes of a Field Pioneer &lpar;2026 Edition&rpar;](https://dev.to/d2d_danny/ux-engineering-from-the-eyes-of-a-field-pioneer-1ehe)
-- [horcrux: Split files into encrypted fragments for Node &amp; React Native &lpar;TypeScript library&rpar;](https://dev.to/nchika/horcrux-split-files-into-encrypted-fragments-for-node-react-native-typescript-library-6h6)
-- [Optimizing AWS DevOps Workflows Through Smarter CI/CD and Version Control](https://dev.to/vishal_more_02990955c9358/optimizing-aws-devops-workflows-through-smarter-cicd-and-version-control-4406)
-- [React Questions](https://dev.to/vidya_varshini/react-questions-1ppk)
-- [Don’t Tear Down the Fence: Why Understanding Comes Before Change](https://dev.to/hardikidea/dont-tear-down-the-fence-why-understanding-comes-before-change-2bd2)
+- [Dubai Tourism-Pocket Watch](https://dev.to/vamsi_nakireddi_711f6ecd0/dubai-tourism-pocket-watch-44fg)
+- [Thailand Tourism Website](https://dev.to/vamsi_nakireddi_711f6ecd0/thailand-tourism-website-2m02)
+- [Instancio : la révolution dans la gestion des jeux de données pour les tests en Java](https://dev.to/onepoint/instancio-la-revolution-dans-la-gestion-des-jeux-de-donnees-pour-les-tests-en-java-1bg7)
+- [Understanding ACID Properties in SQL with Examples](https://dev.to/abitha_n24cb001_9847d321/understanding-acid-properties-in-sql-with-examples-4263)
+- [EF Core DBContext Entities configuration refactoring](https://dev.to/igor_sh_dev/ef-core-dbcontext-entities-configuration-refactoring-4bm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
