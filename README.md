@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FinOps with AI using Snowflake across multi-clouds](https://dev.to/aws-builders/finops-with-ai-using-snowflake-across-multi-clouds-kj)
+- [Secure PHP API](https://dev.to/subhash_periyasawmy_7a201/secure-php-api-2cgc)
 - [File and Code Transfer: Local Machine Cloud Server](https://dev.to/aws-builders/file-and-code-transfer-local-machine-cloud-server-513l)
 - [Concatenate observation with received messages](https://dev.to/rikinptl/concatenate-observation-with-received-messages-eic)
 - [GPU Performance Comparison: RTX 50 Series vs Jetson Modules](https://dev.to/cag000/gpu-performance-comparison-rtx-50-series-vs-jetson-modules-2dp4)
-- [View Cluster Details](https://dev.to/aravinlinux/view-cluster-details-585d)
-- [Building AI Voicebots? Your Legacy VoIP System Might Be the Problem](https://dev.to/jackmorris10/building-ai-voicebots-your-legacy-voip-system-might-be-the-problem-dad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
