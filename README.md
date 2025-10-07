@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Feature Flag Tools to Release New Features with Confidence](https://dev.to/samlongbottom/10-best-feature-flag-tools-to-release-new-features-with-confidence-o64)
-- [1–10 Must CSS Layout Rules &lpar;Safari + Responsive Safe&rpar;](https://dev.to/raielly/1-10-must-css-layout-rules-safari-responsive-safe-4pn8)
-- [⚡ The Future is on Your Thumb: Decoding ThumbPay, India&#39;s Boldest New UPI Concept](https://dev.to/friesforlife/the-future-is-on-your-thumb-decoding-thumbpay-indias-boldest-new-upi-concept-m7i)
-- [Women’s Health: 10 Vital Tips to Strengthen Your Physical and Mental Well-Being](https://dev.to/jhanvi_shukla/womens-health-10-vital-tips-to-strengthen-your-physical-and-mental-well-being-1856)
-- [Understanding ACID Properties in SQL with Examples](https://dev.to/kani-l/understanding-acid-properties-in-sql-with-examples-1302)
+- [AWS Cloud Practitioner Questions | Serverless Overview from a Solutions Architect Perspective](https://dev.to/minoltan/aws-cloud-practitioner-questions-serverless-overview-from-a-solutions-architect-perspective-2555)
+- [Enhance Your Cloud Development Workflow with Amazon Q CLI and MCP Servers](https://dev.to/aws-builders/enhance-your-cloud-development-workflow-with-amazon-q-cli-and-mcp-servers-1bbh)
+- [Automate Your AWS MSK Kafka Cluster with Terraform: A Complete Guide](https://dev.to/aws-builders/automate-your-aws-msk-kafka-cluster-with-terraform-a-complete-guide-18li)
+- [Angular Addicts #42: Signal Forms API, AI powered apps with Angular &amp; more](https://dev.to/this-is-angular/angular-addicts-42-signal-forms-api-ai-powered-apps-with-angular-more-477n)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-4kaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
