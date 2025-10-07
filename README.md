@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang Dependency Inversion — A Java Developer&#39;s Point of View](https://dev.to/kirekov/golang-dependency-inversion-a-java-developers-point-of-view-pj4)
 - [Automating EC2 Instance Management with Go](https://dev.to/copubah/automating-ec2-instance-management-with-go-10nh)
 - [5 Tools That Make My Life Instantly Better 🚀](https://dev.to/lovestaco/5-tools-that-make-my-life-instantly-better-2i5l)
 - [Pipe operator is coming to PHP !](https://dev.to/thicha0/pipe-operator-is-coming-to-php--2838)
 - [JSON Schema in the Wild: Real World Applications &amp; HAL 🌍](https://dev.to/vishdevwork/json-schema-in-the-wild-real-world-applications-hal-3m1l)
-- [The Ultimate Guide to PDF SDKs for Powerful Document Processing](https://dev.to/xeshan6981/the-ultimate-guide-to-pdf-sdks-for-powerful-document-processing-3mi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
