@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building AI Voicebots? Your Legacy VoIP System Might Be the Problem](https://dev.to/jackmorris10/building-ai-voicebots-your-legacy-voip-system-might-be-the-problem-dad)
+- [Automatic resource cleanup in Jetpack ViewModels using AutoCloseable](https://dev.to/rockandnull/automatic-resource-cleanup-in-jetpack-viewmodels-using-autocloseable-kbb)
+- [Checkout this Article on Understanding and Dealing with Multicollinearity in R: Origins, Real-Life Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-understanding-and-dealing-with-multicollinearity-in-r-origins-real-life-30aa)
+- [A Developer&#39;s Guide to FCC, CE, PTCRB, and GCF Certifications for IoT Devices](https://dev.to/applekoiot/a-developers-guide-to-fcc-ce-ptcrb-and-gcf-certifications-for-iot-devices-4999)
 - [RAG Chunking Strategies That Actually Work &lpar;and Why Most Don’t&rpar;](https://dev.to/rajinh24/rag-chunking-strategies-that-actually-work-and-why-most-dont-49n2)
-- [We built Scout QA - an AI Quality Companion for AI-native developers &lpar;and just launched on Product Hunt&rpar;](https://dev.to/huy_tieu/we-built-scout-qa-an-ai-quality-companion-for-ai-native-developers-and-just-launched-on-product-23bh)
-- [Redesignr.ai: Instantly Upgrade Your Website Design with AI](https://dev.to/web5lab_938e9096be8dc3e78/redesignrai-instantly-upgrade-your-website-design-with-ai-1e62)
-- [Hacktoberfest 2025 - First post](https://dev.to/musaddiq625/hacktoberfest-2025-first-post-363m)
-- [The Freelancer’s Secret: Automating Follow-Ups with VisitFolio Tools](https://dev.to/imtaslim/the-freelancers-secret-automating-follow-ups-with-visitfolio-tools-55lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
