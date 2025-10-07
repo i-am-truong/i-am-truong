@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chronos Vault Trinity Protocol Now Live on Testnet: Revolutionizing Multi-Chain Security](https://dev.to/chronosvault/chronos-vault-trinity-protocol-now-live-on-testnet-revolutionizing-multi-chain-security-4ak5)
-- [Truth and documentation build trust. The Talentcrowd filings remind us that openness is the best protection against misinformation.](https://dev.to/regalroyale/truth-and-documentation-build-trust-the-talentcrowd-filings-remind-us-that-openness-is-the-best-16om)
-- [Transparent AI for SMBs: Why Explainability Isn’t Just Nice-to-Have — It’s Mission-Critical](https://dev.to/artyom_mukhopad_a9444ed6d/transparent-ai-for-smbs-why-explainability-isnt-just-nice-to-have-its-mission-critical-52c6)
-- [电报数据库：信息安全与数据结构的深度解析](https://dev.to/tgdatabase3/dian-bao-shu-ju-ku-xin-xi-an-quan-yu-shu-ju-jie-gou-de-shen-du-jie-xi-183p)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2jca)
+- [How to mention users &lpar;and @Everyone&rpar; in a Teams group chat from Power Automate](https://dev.to/wilchindipolog/how-to-mention-users-and-everyone-in-a-teams-group-chat-from-power-automate-oal)
+- [IT Asset Disposal &amp; E-Waste Management in 2025](https://dev.to/teresa_tran/it-asset-disposal-e-waste-management-in-2025-1gn1)
+- [The Space Between Intention and Impact](https://dev.to/remejuan/the-space-between-intention-and-impact-19g2)
+- [AWS Cloud Tutorial | Build and Deploy Your First Application](https://dev.to/tpointtechblog/aws-cloud-tutorial-build-and-deploy-your-first-application-3a0e)
+- [How to: Use a Bitmask-Based Rights System for Cookie Consent](https://dev.to/iamrule/how-to-use-a-bitmask-based-rights-system-for-cookie-consent-38pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
