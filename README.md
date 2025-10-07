@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Preparation of Perfection](https://dev.to/nikolaspablo92prog/preparation-of-perfection-3ejo)
-- [React Question &amp; Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-352m)
-- [How to create a ChatGPT app with OpenAI&#39;s Apps SDK](https://dev.to/lingodotdev/how-to-create-a-chatgpt-app-with-openais-apps-sdk-1213)
-- [We have released #MermaidXP , you can contribute in our repo https://github.com/ccvass/mermaidxp and try here https://mxp.apulab.com](https://dev.to/alfonsodg/we-have-released-mermaidxp-you-can-contribute-in-our-repo-httpsgithubcomccvassmermaidxp-4l0h)
-- [How Sleep Impacts Your Health: Back Pain, Stress, Immunity &amp; More](https://dev.to/sleepezzy/how-sleep-impacts-your-health-back-pain-stress-immunity-more-6j7)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-43h5)
+- [The Anti-Corruption Layer: Your Application&#39;s Bouncer Against Legacy Chaos](https://dev.to/igornosatov_15/the-anti-corruption-layer-your-applications-bouncer-against-legacy-chaos-14l3)
+- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-moj)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-pih)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4jf3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
