@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape Google Maps Reviews for London&#39;s Best Roast Dinner! &lpar;Part 1&rpar;](https://dev.to/roi_driscoll_ef3c6a196a21/scrape-google-maps-reviews-for-londons-best-roast-dinner-part-1-nle)
+- [Scaling Cron Job Performance from a Few Thousands to Millions Of Process](https://dev.to/drbenzene/scaling-cron-job-performance-from-a-few-thousands-to-millions-of-process-5165)
 - [Custom Image Markers in Quadrant Charts — JS Chart Tips](https://dev.to/anychart/custom-image-markers-in-quadrant-charts-js-chart-tips-2e76)
 - [Day 25 of 90 day python series..](https://dev.to/momina_raheelmoona_c59/day-25-of-90-day-python-series-2e0n)
 - [Playwright v1.56: Introducing AI-Powered Testing Agents](https://dev.to/testrig/playwright-v156-introducing-ai-powered-testing-agents-3ncj)
-- [How to Write an ATS-Friendly CV: A Complete Guide](https://dev.to/glnurltn/how-to-write-an-ats-friendly-cv-a-complete-guide-3mk1)
-- [New article alert! 🚀 I&#39;ve written a detailed piece on building an Enterprise Data Access Layer. It&#39;s a must-read for architects and engineers.
-
-#programming #databases #softwareengineering #devblog](https://dev.to/gigaherz/new-article-alert-ive-written-a-detailed-piece-on-building-an-enterprise-data-access-layer-5c84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
