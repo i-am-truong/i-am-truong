@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Beta Open] One-click 3D optimization in your browser — PM AutoTwin &lpar;Free&rpar;](https://dev.to/pmautotwin/beta-open-one-click-3d-optimization-in-your-browser-pm-autotwin-free-2c6e)
+- [GEO + SEO for Devs: Make Your Content Discoverable in Google and AI Engines](https://dev.to/digitaldominationmktg/geo-seo-for-devs-make-your-content-discoverable-in-google-and-ai-engines-41lg)
+- [What is Proxmox VE?](https://dev.to/rosgluk/what-is-proxmox-ve-231l)
 - [Day 03 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-03-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3c6f)
 - [L&#39;outil IA pour trouver un nom de projet rapidement](https://dev.to/nazario/loutil-ia-pour-trouver-un-nom-de-projet-rapidement-1gfp)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_f8c307c5/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-5gch)
-- [AI Code Assistants Are Making Developers Lazy That&#39;s Actually Good&rpar;](https://dev.to/pratham_naik_project_manager/ai-code-assistants-are-making-developers-lazy-thats-actually-good-4efd)
-- [AI Code Assistants Are Making Developers Lazy &lpar;And That&#39;s Actually Good&rpar;](https://dev.to/teamcamp/ai-code-assistants-are-making-developers-lazy-and-thats-actually-good-50cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
