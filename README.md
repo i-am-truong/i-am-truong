@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WinForms in 2025? Here&#39;s the Slick MSSQL Monitoring App I Built](https://dev.to/abeamar/winforms-in-2025-heres-the-slick-mssql-monitoring-app-i-built-3epf)
-- [Coding Challenge Practice - Question 23](https://dev.to/tomivan/coding-challenge-practice-question-23-2fn6)
-- [Padrão Mediator](https://dev.to/yuripeixinho/padrao-mediator-45g4)
-- [IP addresses](https://dev.to/jumptotech/ip-addresses-18de)
-- [How to Interact with a Pizza Charity ink! Smart Contract with PAPI and Reactive DOT](https://dev.to/aliyuadeniji/how-to-interact-with-a-pizza-charity-ink-smart-contract-with-papi-and-reactive-dot-3eg3)
+- [I looked at the subplot&lpar;&rpar; function in Matplotlib](https://dev.to/onaolapo11/i-looked-at-the-subplot-function-in-matplotlib-1398)
+- [🧩 Advanced Prompting for QA Engineers: How I Turned AI Into My Testing Partner](https://dev.to/dasha_tsion_31379cfb51dd7/advanced-prompting-for-qa-engineers-how-i-turned-ai-into-my-testing-partner-34h)
+- [Atomic Primitives in Rust: You don’t need a mutex](https://dev.to/masteringbackend/atomic-primitives-in-rust-you-dont-need-a-mutex-1937)
+- [TCJSGame Performance Optimization: Making Your Games Run Buttery Smooth](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-performance-optimization-making-your-games-run-buttery-smooth-3cfg)
+- [Day 31 of coding games on my phone: learned collisions and physics today](https://dev.to/calchiwo/day-31-of-coding-games-on-my-phone-learned-collisions-and-physics-today-1bii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
