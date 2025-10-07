@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating EC2 Instance Management with Go](https://dev.to/copubah/automating-ec2-instance-management-with-go-10nh)
+- [5 Tools That Make My Life Instantly Better 🚀](https://dev.to/lovestaco/5-tools-that-make-my-life-instantly-better-2i5l)
 - [Pipe operator is coming to PHP !](https://dev.to/thicha0/pipe-operator-is-coming-to-php--2838)
 - [JSON Schema in the Wild: Real World Applications &amp; HAL 🌍](https://dev.to/vishdevwork/json-schema-in-the-wild-real-world-applications-hal-3m1l)
-- [Build a Perfect Blog with FastAPI: Full-Text Search for Posts](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-full-text-search-for-posts-3955)
-- [💸 Day 7: Building an On-Chain IOU System with Solidity — Track and Settle Debts Securely](https://dev.to/sauravkumar8178/day-7-building-an-on-chain-iou-system-with-solidity-track-and-settle-debts-securely-9lm)
-- [Building a Portfolio as well as an Elementor Library](https://dev.to/rio_akram_m_653866db/building-a-portfolio-as-well-as-an-elementor-library-3c6a)
+- [The Ultimate Guide to PDF SDKs for Powerful Document Processing](https://dev.to/xeshan6981/the-ultimate-guide-to-pdf-sdks-for-powerful-document-processing-3mi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
