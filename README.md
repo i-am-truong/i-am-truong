@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Medical Chatbots with RAG](https://dev.to/emmanuel_mensah_7361e9ad2/medical-chatbots-with-rag-36o7)
+- [Claude Sonnet 4.5 vs. GPT-5 Codex: Best model for agentic coding](https://dev.to/composiodev/claude-sonnet-45-vs-gpt-5-codex-best-model-for-agentic-coding-9o2)
+- [💱 Build a Simple Currency Converter in Java](https://dev.to/mohamad_mhana/build-a-simple-currency-converter-in-java-19dk)
 - [Frontend vs. Backend in 2025: Key Differences, Trends, and Skills You Need](https://dev.to/hashbyt/frontend-vs-backend-in-2025-key-differences-trends-and-skills-you-need-4kbi)
 - [Evolving Our UI Library: From Custom Components to a Hybrid Radix Approach](https://dev.to/subito/evolving-our-ui-library-from-custom-components-to-a-hybrid-radix-approach-448f)
-- [Introducing Pure DI: Lightweight, Dependency Injection for Dart Without Compromise](https://dev.to/suhail_5174a94aa879d67478/introducing-pure-di-lightweight-dependency-injection-for-dart-without-compromise-4jin)
-- [From MySQL to PostgreSQL: My Django Migration Story &lpar;and a Tool to Help&rpar;](https://dev.to/trivedivatsal/from-mysql-to-postgresql-my-django-migration-story-and-a-tool-to-help-1k8m)
-- [First Steps into Darkness: My First Malware Analysis Experience](https://dev.to/aliaryani-security/first-steps-into-darkness-my-first-malware-analysis-experience-5h7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
