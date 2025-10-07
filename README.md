@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FinOps with AI using Snowflake across multi-clouds](https://dev.to/aws-builders/finops-with-ai-using-snowflake-across-multi-clouds-kj)
-- [Secure PHP API](https://dev.to/subhash_periyasawmy_7a201/secure-php-api-2cgc)
-- [File and Code Transfer: Local Machine Cloud Server](https://dev.to/aws-builders/file-and-code-transfer-local-machine-cloud-server-513l)
-- [Concatenate observation with received messages](https://dev.to/rikinptl/concatenate-observation-with-received-messages-eic)
-- [GPU Performance Comparison: RTX 50 Series vs Jetson Modules](https://dev.to/cag000/gpu-performance-comparison-rtx-50-series-vs-jetson-modules-2dp4)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-26ej)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2eij)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-7on)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-o93)
+- [How to Add a Wishlist Count Bubble to Your Shopify Theme &lpar;No JavaScript Needed&rpar;?](https://dev.to/sebbanfa/how-to-add-a-wishlist-count-bubble-to-your-shopify-theme-no-javascript-needed-3ej9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
