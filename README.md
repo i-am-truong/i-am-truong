@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-113: ⚙️ Google Kubernetes Engine &lpar;GKE&rpar; Cluster Autoscaler Explained](https://dev.to/latchudevops/part-113-google-kubernetes-engine-gke-cluster-autoscaler-explained-103)
+- [Wolverine PS5 Game: Insomniac’s Marvel Hit](https://dev.to/sanjaynaker/wolverine-ps5-game-insomniacs-marvel-hit-30d8)
+- [Mahindra Treo vs. Youdha EPOD: Which Electric 3-Wheeler Reigns Supreme in 2025?](https://dev.to/sia_negi21/mahindra-treo-vs-youdha-epod-which-electric-3-wheeler-reigns-supreme-in-2025-1288)
+- [AWS User Group Chennai Meetup - Session 3: A Serverless AI-Powered e-Learning Assistant](https://dev.to/aws-builders/aws-user-group-chennai-meetup-session-3-a-serverless-ai-powered-e-learning-assistant-15lo)
 - [From Senior to Staff: What Actually Changes &lpar;and How to Get There&rpar;](https://dev.to/jcmartinezdev/from-senior-to-staff-what-actually-changes-and-how-to-get-there-5a53)
-- [CSS Display and Positioning Basics](https://dev.to/sharique_siddiqui_8242dad/css-display-and-positioning-basics-5b6l)
-- [Everyone’s Suddenly Talking About AI Agents and MCP Here’s What I Learned](https://dev.to/trojanmocx/everyones-suddenly-talking-about-ai-agents-and-mcp-heres-what-i-learned-320g)
-- [AWS Cloud Practitioner Questions | Serverless Overview from a Solutions Architect Perspective](https://dev.to/minoltan/aws-cloud-practitioner-questions-serverless-overview-from-a-solutions-architect-perspective-2555)
-- [Enhance Your Cloud Development Workflow with Amazon Q CLI and MCP Servers](https://dev.to/aws-builders/enhance-your-cloud-development-workflow-with-amazon-q-cli-and-mcp-servers-1bbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
