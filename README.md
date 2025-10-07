@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When Procurement Logic Goes in Circles](https://dev.to/bid_solution/when-procurement-logic-goes-in-circles-2j7c)
-- [How to Build a Custom Node in n8n? The Guide No One Shares with Founders](https://dev.to/ciphernutz/how-to-build-a-custom-node-in-n8n-the-guide-no-one-shares-with-founders-2a5p)
-- [What’s one small change at work that made a huge difference in your productivity?](https://dev.to/clariti_22_6e89b280ccd102/whats-one-small-change-at-work-that-made-a-huge-difference-in-your-productivity-1kb6)
-- [Latency vs. Accuracy for LLM Apps — How to Choose and How a Memory Layer Lets You Win Both](https://dev.to/gervaisamoah/latency-vs-accuracy-for-llm-apps-how-to-choose-and-how-a-memory-layer-lets-you-win-both-d6g)
-- [Top Reporting Tools for Selenium Automation](https://dev.to/jignect-technologies/top-reporting-tools-for-selenium-automation-366)
+- [AWS CDK Unit Testing Guide: When and How to Use Different Test Types](https://dev.to/aws-heroes/aws-cdk-unit-testing-guide-when-and-how-to-use-different-test-types-331g)
+- [How Startups Can Simplify SOC 2 Certification &lpar;Without Breaking the Bank&rpar;](https://dev.to/abhinavkumar128/how-startups-can-simplify-soc-2-certification-without-breaking-the-bank-1jkj)
+- [💡 From PowerPoint to Smart Contracts: How $BTC and Web3 Are Rewriting the Rules of Work](https://dev.to/tanelith/from-powerpoint-to-smart-contracts-how-btc-and-web3-are-rewriting-the-rules-of-work-mab)
+- [KPH Group: The Best Partner for Tested Electrical Hardware](https://dev.to/shobha_a11bb8ac4e462af254/kph-group-the-best-partner-for-tested-electrical-hardware-1j4p)
+- [Building a Voice Agent Using n8n, Twilio, and SIP Integration](https://dev.to/tanaka_chindakuda_2b2c903/building-a-voice-agent-using-n8n-twilio-and-sip-integration-2ce6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
