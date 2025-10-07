@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [IP addresses](https://dev.to/jumptotech/ip-addresses-18de)
 - [How to Interact with a Pizza Charity ink! Smart Contract with PAPI and Reactive DOT](https://dev.to/aliyuadeniji/how-to-interact-with-a-pizza-charity-ink-smart-contract-with-papi-and-reactive-dot-3eg3)
 - [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_06022d8b/that-real-time-headache-its-not-the-websockets-its-your-framework-5hi4)
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-72)
+- [HWID Spoofer: A Developer&#39;s Guide](https://dev.to/mina_tremblay_9ae0fef8e42/hwid-spoofer-a-developers-guide-1k0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
