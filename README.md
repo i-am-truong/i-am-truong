@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Transactions, Deadlocks &amp; Log Based Recovery in SQL](https://dev.to/jai_surya_5807ee4b64b3a5e/transactions-deadlocks-log-based-recovery-in-sql-3eia)
-- [Mastering Laravel Cursor Pagination](https://dev.to/devtalk94/mastering-laravel-cursor-pagination-m23)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4i6h)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-26n)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3f7p)
+- [Cards, Queues, and Karma: Engineering Front-End Submissions on WordPress](https://dev.to/avry_mcgarvey_9c5eded0525/cards-queues-and-karma-engineering-front-end-submissions-on-wordpress-5dcm)
+- [Do Caos à Clareza: o poder estratégico do monolito modular](https://dev.to/danielcamucatto/do-caos-a-clareza-o-poder-estrategico-do-monolito-modular-319o)
+- [From Software Engineer to Startup CEO: What Really Changes](https://dev.to/ludofleury/from-software-engineer-to-startup-ceo-what-really-changes-4hkk)
+- [Day 1 of Learning Linux](https://dev.to/nivethithaa_saravanavel_3/day-1-of-learning-linux-1n6k)
+- [Tired of data dashboards that are beautiful but complex? Or powerful but impossible to use?](https://dev.to/ryan_pat/tired-of-data-dashboards-that-are-beautiful-but-complex-or-powerful-but-impossible-to-use-3o2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
