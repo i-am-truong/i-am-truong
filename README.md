@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring Without Restarting: What 6 Months of Rebuilding My CodeIgniter App Taught Me About Growth](https://dev.to/gilads-otiannoh24/refactoring-without-restarting-what-6-months-of-rebuilding-my-codeigniter-app-taught-me-about-1ahg)
+- [How to Get Started with React JS in 2025](https://dev.to/cole_ruche/how-to-get-started-with-react-js-in-2025-egp)
+- [I want to learn to code, how do I do it?](https://dev.to/salvatorepolise/i-want-to-learn-to-code-how-do-i-do-it-1j2k)
 - [I looked at the subplot&lpar;&rpar; function in Matplotlib](https://dev.to/onaolapo11/i-looked-at-the-subplot-function-in-matplotlib-1398)
 - [🧩 Advanced Prompting for QA Engineers: How I Turned AI Into My Testing Partner](https://dev.to/dasha_tsion_31379cfb51dd7/advanced-prompting-for-qa-engineers-how-i-turned-ai-into-my-testing-partner-34h)
-- [Atomic Primitives in Rust: You don’t need a mutex](https://dev.to/masteringbackend/atomic-primitives-in-rust-you-dont-need-a-mutex-1937)
-- [TCJSGame Performance Optimization: Making Your Games Run Buttery Smooth](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-performance-optimization-making-your-games-run-buttery-smooth-3cfg)
-- [Day 31 of coding games on my phone: learned collisions and physics today](https://dev.to/calchiwo/day-31-of-coding-games-on-my-phone-learned-collisions-and-physics-today-1bii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
