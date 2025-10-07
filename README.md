@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Next Developer Skill: Knowing What NOT to Automate](https://dev.to/marxon/the-next-developer-skill-knowing-what-not-to-automate-2hh9)
-- [Unlocking the Power of Continuous Integration: Enhancing Your Development Workflow](https://dev.to/mikeover/unlocking-the-power-of-continuous-integration-enhancing-your-development-workflow-2hgj)
-- [Building a Real Free GIF Generator — No Logins, No Watermarks, No Tricks](https://dev.to/sysmaya/building-a-real-free-gif-generator-no-logins-no-watermarks-no-tricks-1pal)
-- [🔍 SVAR React Filter: Open-Source Query Builder for React](https://dev.to/olga_tash/svar-react-filter-open-source-query-builder-for-react-1fd0)
-- [Fixing Tailwind CSS Autocomplete in RubyMine &lpar;Rails 8 + Tailwind CSS 4&rpar;](https://dev.to/geekmaros/fixing-tailwind-css-autocomplete-in-rubymine-rails-8-tailwind-css-4-1n5l)
+- [A Medium-Rare Brain Understanding the Essential Tools of Modern Cryptography Part 1](https://dev.to/ayda_ma04a645d96526b/a-medium-rare-brain-understanding-the-essential-tools-of-modern-cryptography-part-1-2nc8)
+- [Stop Writing &quot;fix bug&quot;. Clean Up Your Commits With This VS Code Extension](https://dev.to/prismcoder/stop-writing-fix-bug-clean-up-your-commits-with-this-vs-code-extension-jof)
+- [El Futuro de la Mensajería Privada | Análisis Completo y Guía de Uso](https://dev.to/oliverholiveros/el-futuro-de-la-mensajeria-privada-analisis-completo-y-guia-de-uso-3b84)
+- [Quick Debugging Techniques for Playwright Tests](https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg)
+- [please give it a read](https://dev.to/guna01/please-give-it-a-read-3n8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
