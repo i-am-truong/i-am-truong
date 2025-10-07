@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Syncing SharePoint with Azure Blob Storage using Logic Apps &amp; Azure Functions for Azure AI Search](https://dev.to/imdj/syncing-sharepoint-with-azure-blob-storage-using-logic-apps-azure-functions-for-azure-ai-search-250j)
-- [# Managing CRUD Operations in React using Context API &amp; TypeScript](https://dev.to/dharmesh_ab1dc022d7b2472c/-managing-crud-operations-in-react-using-context-api-typescript-19ib)
-- [Bun-ffi - Getting started with C++ and Bun](https://dev.to/calumk/bun-ffi-getting-started-with-c-and-bun-47ea)
-- [Stop Wasting Hours: Docker Skills Every Front-End Engineer Needs](https://dev.to/devflex-pro/stop-wasting-hours-docker-skills-every-front-end-engineer-needs-2779)
-- [The unreasonable effectiveness of Postgres range types](https://dev.to/mcadariu/the-unreasonable-effectiveness-of-postgres-range-types-1ine)
+- [Frontend vs. Backend in 2025: Key Differences, Trends, and Skills You Need](https://dev.to/hashbyt/frontend-vs-backend-in-2025-key-differences-trends-and-skills-you-need-4kbi)
+- [Evolving Our UI Library: From Custom Components to a Hybrid Radix Approach](https://dev.to/subito/evolving-our-ui-library-from-custom-components-to-a-hybrid-radix-approach-448f)
+- [Introducing Pure DI: Lightweight, Dependency Injection for Dart Without Compromise](https://dev.to/suhail_5174a94aa879d67478/introducing-pure-di-lightweight-dependency-injection-for-dart-without-compromise-4jin)
+- [From MySQL to PostgreSQL: My Django Migration Story &lpar;and a Tool to Help&rpar;](https://dev.to/trivedivatsal/from-mysql-to-postgresql-my-django-migration-story-and-a-tool-to-help-1k8m)
+- [First Steps into Darkness: My First Malware Analysis Experience](https://dev.to/aliaryani-security/first-steps-into-darkness-my-first-malware-analysis-experience-5h7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
