@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Game Simulations are Reshaping Military Strategy](https://dev.to/gamepill/how-game-simulations-are-reshaping-military-strategy-5h7i)
+- [How MySQL Actually Works: A Deep Dive into Database Internals](https://dev.to/mush1e/how-mysql-actually-works-a-deep-dive-into-database-internals-4o16)
+- [Network Monitoring with PRTG](https://dev.to/samueladeduntan/network-monitoring-with-prtg-3fd5)
+- [MCP servers have issues, so I built &#39;lootbox&#39; &lpar;inspired by Cloudflare&#39;s Code Mode&rpar;](https://dev.to/jm-codes/mcp-servers-have-issues-so-i-built-lootbox-inspired-by-cloudflares-code-mode-16gb)
 - [Mobile tables](https://dev.to/rossangus/mobile-tables-fj8)
-- [Build Voice Agents Faster with ElevenLabs UI Components](https://dev.to/jqueryscript/build-voice-agents-faster-with-elevenlabs-ui-components-62d)
-- [How I Used TPM for Key Encryption in Rust &lpar;Using Windows APIs&rpar;](https://dev.to/tsuruko12/how-i-used-tpm-for-key-encryption-in-rust-using-windows-apis-33n0)
-- [Google Removed num=100: How SEO Professionals and Developers Can Adapt While Keeping the DEV Community Thriving](https://dev.to/auyeungdavid_2847435260/google-removed-num100-how-seo-professionals-and-developers-can-adapt-while-keeping-the-dev-2ja)
-- [Introduction to MongoDB &amp; Laravel-MongoDB Setup](https://dev.to/mongodb/introduction-to-mongodb-laravel-mongodb-setup-3pb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
