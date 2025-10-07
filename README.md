@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cards, Queues, and Karma: Engineering Front-End Submissions on WordPress](https://dev.to/avry_mcgarvey_9c5eded0525/cards-queues-and-karma-engineering-front-end-submissions-on-wordpress-5dcm)
-- [Do Caos à Clareza: o poder estratégico do monolito modular](https://dev.to/danielcamucatto/do-caos-a-clareza-o-poder-estrategico-do-monolito-modular-319o)
-- [From Software Engineer to Startup CEO: What Really Changes](https://dev.to/ludofleury/from-software-engineer-to-startup-ceo-what-really-changes-4hkk)
-- [Day 1 of Learning Linux](https://dev.to/nivethithaa_saravanavel_3/day-1-of-learning-linux-1n6k)
-- [Tired of data dashboards that are beautiful but complex? Or powerful but impossible to use?](https://dev.to/ryan_pat/tired-of-data-dashboards-that-are-beautiful-but-complex-or-powerful-but-impossible-to-use-3o2e)
+- [Mobile tables](https://dev.to/rossangus/mobile-tables-fj8)
+- [Build Voice Agents Faster with ElevenLabs UI Components](https://dev.to/jqueryscript/build-voice-agents-faster-with-elevenlabs-ui-components-62d)
+- [How I Used TPM for Key Encryption in Rust &lpar;Using Windows APIs&rpar;](https://dev.to/tsuruko12/how-i-used-tpm-for-key-encryption-in-rust-using-windows-apis-33n0)
+- [Google Removed num=100: How SEO Professionals and Developers Can Adapt While Keeping the DEV Community Thriving](https://dev.to/auyeungdavid_2847435260/google-removed-num100-how-seo-professionals-and-developers-can-adapt-while-keeping-the-dev-2ja)
+- [Introduction to MongoDB &amp; Laravel-MongoDB Setup](https://dev.to/mongodb/introduction-to-mongodb-laravel-mongodb-setup-3pb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
