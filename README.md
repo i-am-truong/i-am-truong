@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Who wants to build an admin UI?](https://dev.to/aaronblondeau/who-wants-to-build-an-admin-ui-55b9)
 - [Workload Discovery &amp; free alternatives](https://dev.to/wakeup_flower_8591a6cb6a9/workload-discovery-free-alternatives-445j)
 - [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-nkn)
 - [Navigating AI and AI Agents: A Developer&#39;s Guide](https://dev.to/gautammanak1/navigating-ai-and-ai-agents-a-developers-guide-44fh)
 - [Building Cryptographic Guardrails for AI-Assisted Coding](https://dev.to/bewakerai/building-cryptographic-guardrails-for-ai-assisted-coding-ong)
-- [Making a Daily meme generator in html css and js!](https://dev.to/crazybrad77/making-a-daily-meme-generator-in-html-css-and-js-mgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
