@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔍 SVAR React Filter: Open-Source Query Builder for React](https://dev.to/olga_tash/svar-react-filter-open-source-query-builder-for-react-1fd0)
+- [Fixing Tailwind CSS Autocomplete in RubyMine &lpar;Rails 8 + Tailwind CSS 4&rpar;](https://dev.to/geekmaros/fixing-tailwind-css-autocomplete-in-rubymine-rails-8-tailwind-css-4-1n5l)
+- [**Netflix Movie Recommendation using Multi-Armed Bandit Algo](https://dev.to/drcarlosruizviquez/netflix-movie-recommendation-using-multi-armed-bandit-algo-fkj)
+- [Announcing Forge — self-hosted community software](https://dev.to/railsdesigner/announcing-forge-self-hosted-community-software-4ip6)
 - [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-2n2a)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-full-performance-live-on-kexp-dd4)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2lg2)
-- [Top Social Media Trends in 2025: What Every Brand Needs to Know](https://dev.to/orvian-tech/top-social-media-trends-in-2025-what-every-brand-needs-to-know-2gc9)
-- [🤯 This One Feature in React Native Will Make You Rethink Mobile Development!](https://dev.to/ekwoster/this-one-feature-in-react-native-will-make-you-rethink-mobile-development-6lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
