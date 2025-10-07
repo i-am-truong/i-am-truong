@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [File and Code Transfer: Local Machine Cloud Server](https://dev.to/aws-builders/file-and-code-transfer-local-machine-cloud-server-513l)
+- [Concatenate observation with received messages](https://dev.to/rikinptl/concatenate-observation-with-received-messages-eic)
+- [GPU Performance Comparison: RTX 50 Series vs Jetson Modules](https://dev.to/cag000/gpu-performance-comparison-rtx-50-series-vs-jetson-modules-2dp4)
+- [View Cluster Details](https://dev.to/aravinlinux/view-cluster-details-585d)
 - [Building AI Voicebots? Your Legacy VoIP System Might Be the Problem](https://dev.to/jackmorris10/building-ai-voicebots-your-legacy-voip-system-might-be-the-problem-dad)
-- [Automatic resource cleanup in Jetpack ViewModels using AutoCloseable](https://dev.to/rockandnull/automatic-resource-cleanup-in-jetpack-viewmodels-using-autocloseable-kbb)
-- [Checkout this Article on Understanding and Dealing with Multicollinearity in R: Origins, Real-Life Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-understanding-and-dealing-with-multicollinearity-in-r-origins-real-life-30aa)
-- [A Developer&#39;s Guide to FCC, CE, PTCRB, and GCF Certifications for IoT Devices](https://dev.to/applekoiot/a-developers-guide-to-fcc-ce-ptcrb-and-gcf-certifications-for-iot-devices-4999)
-- [RAG Chunking Strategies That Actually Work &lpar;and Why Most Don’t&rpar;](https://dev.to/rajinh24/rag-chunking-strategies-that-actually-work-and-why-most-dont-49n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
