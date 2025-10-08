@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Skills for Resume for Freshers: The Ultimate Guide &lpar;With Examples&rpar;](https://dev.to/sakshi_singh_1011d1325082/skills-for-resume-for-freshers-the-ultimate-guide-with-examples-58e3)
+- [Evals and Observability for AI Product Managers: A Practical, End-to-End Playbook](https://dev.to/kuldeep_paul/evals-and-observability-for-ai-product-managers-a-practical-end-to-end-playbook-4cch)
+- [What an IT career will look like in 5 years](https://dev.to/squardtech/what-an-it-career-will-look-like-in-5-years-550p)
+- [Building AI Applications for Production: A Practical Playbook for Reliability, Observability, and Evals](https://dev.to/kuldeep_paul/building-ai-applications-for-production-a-practical-playbook-for-reliability-observability-and-4koe)
 - [Everyone Is Building a Wrapper in 2025 - Here’s Why You Should Care About Evals](https://dev.to/kuldeep_paul/everyone-is-building-a-wrapper-in-2025-heres-why-you-should-care-about-evals-49k6)
-- [Why Learning Data Analytics in 2025 Is a Career Game-Changer](https://dev.to/pratibha_singh_419eea044e/why-learning-data-analytics-in-2025-is-a-career-game-changer-4ae7)
-- [Rebuild #1.1: When Quick and Easy Became A Learning Moment](https://dev.to/raworiginal/rebuild-11-when-quick-and-easy-became-a-learning-moment-326l)
-- [Centralizing code quality commands in PHP projects: composer scripts vs Makefile](https://dev.to/robertobutti/centralizing-code-quality-commands-in-php-projects-composer-scripts-vs-makefile-30k1)
-- [How AI Quality and Reliability Become Your Moat in 2025 — Practical Examples and Engineering Playbooks](https://dev.to/kuldeep_paul/how-ai-quality-and-reliability-become-your-moat-in-2025-practical-examples-and-engineering-2pp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
