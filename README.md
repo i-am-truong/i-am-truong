@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker in a Nutshell: Security](https://dev.to/leesha_lois/docker-in-a-nutshell-security-2bjp)
-- [SQL Commands Guide](https://dev.to/anthonybanion/sql-commands-guide-1f4c)
-- [MangoDB CRUD](https://dev.to/nishanth_moorthi24cb036_/mangodb-crud-5d28)
-- [Acid Property with SQL Transactions](https://dev.to/kausi_tarun_77e6874368465/acid-property-with-sql-transactions-3c62)
-- [ACCOUNT &amp; ROOT MANAGEMENT](https://dev.to/ntsezenelvis/account-root-management-2oo)
+- [🔎 Seraphix: The Secret Scanner Toolkit Built for Speed, Scale, and Bug Bounties](https://dev.to/amedeov/seraphix-the-secret-scanner-toolkit-built-for-speed-scale-and-bug-bounties-5f0l)
+- [Best TinyPNG Alternatives for WordPress Image Optimization](https://dev.to/andreialba/best-tinypng-alternatives-for-wordpress-image-optimization-272d)
+- [Dealing with Vim errors during Git operations](https://dev.to/nvahalik/dealing-with-vim-errors-during-git-operations-4k31)
+- [Reinventing Code Review: How Vault.fm Eliminated Major Outages with PullFlow](https://dev.to/pullflow/reinventing-code-review-how-vaultfm-eliminated-major-outages-with-pullflow-24mf)
+- [Sora 2 / Sora 2 Pro Python CLI](https://dev.to/abdibrokhim/sora-2-sora-2-pro-python-cli-4iim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
