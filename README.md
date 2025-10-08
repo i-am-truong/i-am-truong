@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡ 5 Python Productivity Tricks You Should Be Using](https://dev.to/destinytch/5-python-productivity-tricks-you-should-be-using-48ik)
-- [Jest Cheatsheets](https://dev.to/cathylai/jest-101-404g)
-- [How to Store and Protect Your Photo Film](https://dev.to/orwoshop/how-to-store-and-protect-your-photo-film-4cof)
-- [Getting Started with Jest](https://dev.to/cathylai/getting-started-with-jest-1h4o)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_40446303/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-55l1)
+- [Thinking of moving from AlmaLinux to CloudLinux - but worried about downtime or breaking things?](https://dev.to/web_learning_4de0b1e0557/thinking-of-moving-from-almalinux-to-cloudlinux-but-worried-about-downtime-or-breaking-things-1nko)
+- [Do Frontend Devs Need to Start Thinking Like Cinematographers?](https://dev.to/dct_technology/do-frontend-devs-need-to-start-thinking-like-cinematographers-322m)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1b0f)
+- [Want to see how your VPS stacks up under real load?](https://dev.to/web_learning_4de0b1e0557/want-to-see-how-your-vps-stacks-up-under-real-load-3l20)
+- [How to Design Railway Speakers using 3D CAD Software](https://dev.to/julia970/how-to-design-railway-speakers-using-3d-cad-software-30bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
