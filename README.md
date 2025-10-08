@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Express Auth — A Clean Architecture Boilerplate for Modern APIs](https://dev.to/francemazzi/create-express-auth-a-clean-architecture-boilerplate-for-modern-apis-l04)
 - [How to Set Up a Secure WordPress Website on AWS using LEMP Stack and Let’s Encrypt SSL](https://dev.to/alanvarghese-dev/how-to-set-up-a-secure-wordpress-website-on-aws-using-lemp-stack-and-lets-encrypt-ssl-118o)
 - [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_40446303/your-error-handling-is-a-mess-and-its-costing-you--335i)
 - [Database Magic: Automating Tasks with Cursor and Trigger✨](https://dev.to/poorvika_n/database-magic-automating-tasks-with-cursor-and-trigger-kp5)
 - [5 caching strategies](https://dev.to/wakeup_flower_8591a6cb6a9/5-caching-strategies-4pn)
-- [Database Normalisation](https://dev.to/kausi_tarun_77e6874368465/database-normalisation-2lbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
