@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Skills for Resume for Freshers: The Ultimate Guide &lpar;With Examples&rpar;](https://dev.to/sakshi_singh_1011d1325082/skills-for-resume-for-freshers-the-ultimate-guide-with-examples-58e3)
-- [Evals and Observability for AI Product Managers: A Practical, End-to-End Playbook](https://dev.to/kuldeep_paul/evals-and-observability-for-ai-product-managers-a-practical-end-to-end-playbook-4cch)
-- [What an IT career will look like in 5 years](https://dev.to/squardtech/what-an-it-career-will-look-like-in-5-years-550p)
-- [Building AI Applications for Production: A Practical Playbook for Reliability, Observability, and Evals](https://dev.to/kuldeep_paul/building-ai-applications-for-production-a-practical-playbook-for-reliability-observability-and-4koe)
-- [Everyone Is Building a Wrapper in 2025 - Here’s Why You Should Care About Evals](https://dev.to/kuldeep_paul/everyone-is-building-a-wrapper-in-2025-heres-why-you-should-care-about-evals-49k6)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2573)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-2big)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-8mh)
+- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-30ii)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-80i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
