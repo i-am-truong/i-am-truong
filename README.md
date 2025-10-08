@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Start Low-Level Programming: Why Zig Teaches Better, C++ Pays Better](https://dev.to/sfundomhlungu/start-low-level-programming-why-zig-teaches-better-c-pays-better-2991)
-- [State in API Mocking: Introducing Beeceptor&#39;s No-Code Stateful Mocking](https://dev.to/moonlit1151/state-in-api-mocking-introducing-beeceptors-no-code-stateful-mocking-1gi4)
-- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-4gi7)
-- [20+ Portfolio websites for developers](https://dev.to/shreyvijayvargiya/20-portfolio-websites-for-developers-2jh9)
-- [A Guide to Microsoft Azure&#39;s Scalable and Secure Cloud Solutions](https://dev.to/teleglobalintermational/a-guide-to-microsoft-azures-scalable-and-secure-cloud-solutions-4i68)
+- [Mastering C++ Templates: Why Generic Programming Beats Code Duplication](https://dev.to/sfundomhlungu/mastering-c-templates-why-generic-programming-beats-code-duplication-1i31)
+- [Understanding page.locator&lpar;&rpar;.click&lpar;&rpar; in Playwright](https://dev.to/the_wise_06d8114f1ee73fe8/understanding-pagelocatorclick-in-playwright-1d1m)
+- [Overview of Black Box Testing vs White Box Testing: Complete Comparison Document](https://dev.to/keploy/overview-of-black-box-testing-vs-white-box-testing-complete-comparison-document-30)
+- [Automating Database Logic with Triggers + Cursors in Oracle SQL](https://dev.to/randhir_gupta_fb4150dd063/automating-database-logic-with-triggers-cursors-in-oracle-sql-4n39)
+- [Reasonable Link Management &lpar;shortener&rpar; Service](https://dev.to/aleks_91/reasonable-link-management-shortener-service-3bc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
