@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your first painless EVM reads in Python: an async-first blueprint with traps, fixes, and a mental model that sticks](https://dev.to/onlineproxy/your-first-painless-evm-reads-in-python-an-async-first-blueprint-with-traps-fixes-and-a-mental-2794)
+- [Human Creativity vs Generative AI: Why Developers Still Have the Edge](https://dev.to/devtechinsights/human-creativity-vs-generative-ai-why-developers-still-have-the-edge-1p4i)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fjn)
+- [JIT vs. AOT Compilation in Java: A Comparative Analysis with Benchmarks](https://dev.to/adrian_nowosielski_7bd282/jit-vs-aot-compilation-in-java-a-comparative-analysis-with-benchmarks-4152)
 - [CRUD &lpar;Create, Read, Update, Delete&rpar; operations in MongoDB using a simple college student schema.](https://dev.to/lohita_blue_d6409977eec4c/crud-create-read-update-delete-operations-in-mongodb-using-a-simple-college-student-schema-4lj8)
-- [Sealed Classes in Java 21 – Controlling Class Hierarchies](https://dev.to/adrian_nowosielski_7bd282/sealed-classes-in-java-21-controlling-class-hierarchies-1moo)
-- [AWS CloudFront Security Implementation Guide](https://dev.to/harshhp/aws-cloudfront-security-implementation-guide-bjm)
-- [Thinking to return on dev.to](https://dev.to/sehgalspandan/thinking-to-return-on-devto-3jlf)
-- [SOLID in React #2 — The Open/Closed Principle](https://dev.to/nielssoholm/solid-in-react-2-the-openclosed-principle-1onl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
