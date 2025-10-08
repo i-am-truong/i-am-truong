@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [SecureBitchat — Fast, Encrypted P2P Calls in Your Browser](https://dev.to/securebitchat/securebitchat-fast-encrypted-p2p-calls-in-your-browser-1dke)
 - [Angular&#39;s Edge: Unpacking 2025&#39;s Innovations &amp; Future Trends](https://dev.to/softwaredeveloper01/angulars-edge-unpacking-2025s-innovations-future-trends-494n)
 - [Beyond the Dogma: A Pragmatic Hybrid MVVM Architecture in WPF**](https://dev.to/neopotato/beyond-the-dogma-a-pragmatic-hybrid-mvvm-architecture-in-wpf-3ncm)
+- [[Tips] [Podman] What to do if you get an &quot;insufficient space&quot; error when loading an image](https://dev.to/masakiokuda/tips-podman-what-to-do-if-you-get-an-insufficient-space-error-when-loading-an-image-32mp)
 - [An Introduction to Remote Procedural Call &lpar;RPC&rpar; Nodes in Blockchains](https://dev.to/davidekete/an-introduction-to-remote-procedural-call-rpc-nodes-in-blockchain-p88)
-- [Building a Modern Image Cropper in React with CropperJS 2.x](https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
