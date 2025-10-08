@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Adaptive Gas Pricing | Using AI to Predict Network Congestion Before It Happens](https://dev.to/umang_suthar_9bad6f345a8a/adaptive-gas-pricing-using-ai-to-predict-network-congestion-before-it-happens-24d9)
-- [Mastering B-Tree, B+Tree, and Hash Indexes](https://dev.to/hareesh_e8fcfb0dd54290b4d/mastering-b-tree-btree-and-hash-indexes-jj0)
-- [How I Built BestCampingInRishikesh.com: A WordPress Travel Site That Actually Ranks](https://dev.to/bestcampinginrishikesh/how-i-built-bestcampinginrishikeshcom-a-wordpress-travel-site-that-actually-ranks-1bcl)
-- [Bridging BNB Chain &lpar;BSC&rpar; Solana: A Comprehensive Guide](https://dev.to/houdiniswap/bridging-bnb-chain-bsc-solana-a-comprehensive-guide-554m)
-- [HTML Tutorial 2025: Learn Web Development Fast](https://dev.to/tpointtechblog/html-tutorial-2025-learn-web-development-fast-48fe)
+- [What Happens if We Get Hacked? A Transparent Look at the Musical Chairs Security Model](https://dev.to/crow004/what-happens-if-we-get-hacked-a-transparent-look-at-the-musical-chairs-security-model-4mip)
+- [Zustand — no need to manually write the store interface anymore!](https://dev.to/suhaotian/zustand-no-need-to-manually-write-the-store-interface-anymore-4m6)
+- [What Devs Are Actually Learning in 2025 &lpar;Stack Overflow + DORA Insights&rpar;](https://dev.to/dhruvjoshi9/what-devs-are-actually-learning-in-2025-stack-overflow-dora-insights-17j3)
+- [Build a Powerful AI Chatbot UI in Minutes with Next.js](https://dev.to/buildandcodewithraman/build-a-powerful-ai-chatbot-ui-in-minutes-with-nextjs-511j)
+- [Dictionary in Python &lpar;3&rpar;](https://dev.to/hyperkai/dictionary-in-python-3-42e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
