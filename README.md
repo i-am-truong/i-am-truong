@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a High-Performance Booking Platform: Reducing API Calls by 66%](https://dev.to/blocool/building-a-high-performance-booking-platform-reducing-api-calls-by-66-5eic)
+- [Secure AI Agent with Auth0: Modular Identity for Intelligent Automation](https://dev.to/jramone3/secure-ai-agent-with-auth0-modular-identity-for-intelligent-automation-1pl4)
 - [Client vs Server-Side Encryption: The Real Meaning of End-to-End Security](https://dev.to/samowolabi/client-vs-server-side-encryption-the-real-meaning-of-end-to-end-security-2kg5)
 - [Will Developers Survive AI Takeover? Part 1: Equalizer vs Amplifier](https://dev.to/georgekobaidze/will-developers-survive-ai-takeover-part-1-equalizer-vs-amplifier-2jfo)
 - [Is the Internet a Junkyard?](https://dev.to/figsify/is-the-internet-a-junkyard-540n)
-- [My Journey Into Cloud Computing &lpar;Aws&rpar;](https://dev.to/victorcompute/my-journey-into-cloud-computing-aws-1ako)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
