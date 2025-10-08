@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Getting Rekt to Building a Shield: Why I&#39;m Battling Smart Contract Scams](https://dev.to/moiz_ali_d0b9834932357ad2/from-getting-rekt-to-building-a-shield-why-im-battling-smart-contract-scams-3b3o)
-- [How AI is Transforming the Future of Work in 2025](https://dev.to/ryan-mathews/how-ai-is-transforming-the-future-of-work-in-2025-36g1)
-- [Cursor and Trigger](https://dev.to/balaji_5384626fc05c543d2f/cursor-and-trigger-5eep)
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-5d94)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-57e9)
+- [Part-115: 🚀Google Kubernetes Engine &lpar;GKE&rpar; — Horizontal Pod Autoscaling &lpar;HPA&rpar;](https://dev.to/latchudevops/part-115-google-kubernetes-engine-gke-horizontal-pod-autoscaling-hpa-57ef)
+- [Building Smarter Workflows: How Tech Teams Can Optimize Office Space Like Their Code](https://dev.to/grynzhn/building-smarter-workflows-how-tech-teams-can-optimize-office-space-like-their-code-1a37)
+- [DBMS- Transactions,Deadlock &amp;Log -Based Recovery](https://dev.to/shrieya-s/acid-property-with-sql-transactions-19ek)
+- [Claude Sonnet 4.5: 61% Reliability Is Enough To Win](https://dev.to/aiwithapex/claude-sonnet-45-61-reliability-is-enough-to-win-536a)
+- [HASHING](https://dev.to/balaji_5384626fc05c543d2f/hashing-6hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
