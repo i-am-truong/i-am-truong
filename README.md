@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Power BI and DAX: Making Data Easy to Understand](https://dev.to/teresa_kungu_a8d91b0b7e13/power-bi-and-dax-making-data-easy-to-understand-5agg)
-- [neverthrow - tutorial &lpar;with a bit of &quot;byethrow&quot;&rpar;](https://dev.to/dj_nuo/neverthrow-tutorial-with-a-bit-of-byethrow-2poa)
-- [How to send Automated Personalized Cold Emails with n8n to Boost Response Rates](https://dev.to/backendbro/how-to-send-automated-personalized-cold-emails-with-n8n-to-boost-response-rates-i3k)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-19a6)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-51ka)
+- [WarpSynk Protocol: Taking Back Digital Identity and Data Ownership](https://dev.to/elam_antony_c3be42eac11c0/warpsynk-protocol-taking-back-digital-identity-and-data-ownership-2p8g)
+- [My Second PR: How I Bounced Back and Contributed to Scikit-learn](https://dev.to/jongwan93/my-second-pr-how-i-bounced-back-and-contributed-to-scikit-learn-3a51)
+- [Understanding the Modern Web Stack: WebAssembly&lpar;WASM&rpar;, Web Workers, and the V8 Engine](https://dev.to/harsh_jha_ff2e2c5509de458/understanding-the-modern-web-stack-webassemblywasm-web-workers-and-the-v8-engine-36ed)
+- [My Azure Cloud Resume Challenge Journey](https://dev.to/olasz/my-azure-cloud-resume-challenge-journey-4ho4)
+- [Gemini Agents: Unlocking Transformative Potential with Google&#39;s Advanced AI](https://dev.to/rgbos/gemini-agents-unlocking-transformative-potential-with-googles-advanced-ai-1ggo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
