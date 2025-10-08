@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [### The Art and Science of Ads: How Advertisements Shape Our World](https://dev.to/thegamersbaxechief/-the-art-and-science-of-ads-how-advertisements-shape-our-world-58gb)
-- [Boosting SQL Performance: Indexing &amp; Query Optimization Using a Students Table](https://dev.to/ramya_ae121b08c2e0f9e215c/boosting-sql-performance-indexing-query-optimization-using-a-students-table-2l87)
-- [When Claude’s &#39;Help&#39; Turns Harmful: A Developer’s Cautionary Tale](https://dev.to/michal_harcejnanomagic/when-claudes-help-turns-harmful-a-developers-cautionary-tale-3790)
-- [Understanding Data Formats for Analytics: A Practical Guide](https://dev.to/_arviiindd/understanding-data-formats-for-analytics-a-practical-guide-480f)
-- [Transactions, Deadlocks &amp; Log-Based Recovery in Oracle SQL](https://dev.to/lohita_blue_d6409977eec4c/transactions-deadlocks-log-based-recovery-in-oracle-sql-558p)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-p0i)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-1j5f)
+- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-o4i)
+- [IGN: Ghost of Yotei - Final Takezo Duel Lethal Difficulty Zero Damage](https://dev.to/gg_news/ign-ghost-of-yotei-final-takezo-duel-lethal-difficulty-zero-damage-5g4)
+- [IGN: Battlefield 6 - Official NVIDIA DLSS 4 Reveal Trailer](https://dev.to/gg_news/ign-battlefield-6-official-nvidia-dlss-4-reveal-trailer-38lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
