@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔎 Seraphix: The Secret Scanner Toolkit Built for Speed, Scale, and Bug Bounties](https://dev.to/amedeov/seraphix-the-secret-scanner-toolkit-built-for-speed-scale-and-bug-bounties-5f0l)
-- [Best TinyPNG Alternatives for WordPress Image Optimization](https://dev.to/andreialba/best-tinypng-alternatives-for-wordpress-image-optimization-272d)
-- [Dealing with Vim errors during Git operations](https://dev.to/nvahalik/dealing-with-vim-errors-during-git-operations-4k31)
-- [Reinventing Code Review: How Vault.fm Eliminated Major Outages with PullFlow](https://dev.to/pullflow/reinventing-code-review-how-vaultfm-eliminated-major-outages-with-pullflow-24mf)
-- [Sora 2 / Sora 2 Pro Python CLI](https://dev.to/abdibrokhim/sora-2-sora-2-pro-python-cli-4iim)
+- [ACID properties with SQL transactions](https://dev.to/deepana_ee9087276132ad19f/acid-properties-with-sql-transactions-2a6n)
+- [Indexing, Hashing &amp; Query Optimization](https://dev.to/lohita_blue_d6409977eec4c/indexing-hashing-query-optimization-2imk)
+- [ติดตั้ง Realtek R8125 บน AlmaLinux 10](https://dev.to/pramoth/tidtang-realtek-r8125-bn-almalinux-10-1bon)
+- [[Boost]](https://dev.to/uliyahoo/-1d1c)
+- [“Mastering Database Normalization: Step-by-Step Guide with SQL &lpar;1NF 3NF&rpar;”](https://dev.to/yazhini_m24cb063_c76b657/mastering-database-normalization-step-by-step-guide-with-sql-1nf-3nf-d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
