@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [neobrutalism-vue: Brutalist UI Component Library for Vue.js](https://dev.to/jqueryscript/neobrutalism-vue-brutalist-ui-component-library-for-vuejs-5ce9)
-- [How to Build a Prop Trading Firm: A Beginner&#39;s Guide](https://dev.to/propfirmhunters/how-to-build-a-prop-trading-firm-a-beginners-guide-374j)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-25kg)
-- [Cost of Web Application Development: Factors You Should Know](https://dev.to/johany_wick_b3151d51fdf6a/cost-of-web-application-development-factors-you-should-know-3bmb)
-- [How to Optimize Your WordPress Website for SEO](https://dev.to/seokgntech/how-to-optimize-your-wordpress-website-for-seo-2l5o)
+- [Creating Python Libraries &amp; Reusable Modules](https://dev.to/godofgeeks/creating-python-libraries-reusable-modules-1mbi)
+- [React Router](https://dev.to/saravanan_s_0fd4b60fc6b20/react-router-nah)
+- [Vibe Coding Meets AI Testing - How I Ship With Confidence](https://dev.to/qatech/vibe-coding-meets-ai-testing-how-i-ship-with-confidence-k81)
+- [A Dive into Apache Iceberg™&#39;s Metadata](https://dev.to/thedanicafine/a-dive-into-apache-icebergs-metadata-gpp)
+- [The Human Element: Why Employees Are Still the Weakest Link in Cybersecurity](https://dev.to/chrizfasa/the-human-element-why-employees-are-still-the-weakest-link-in-cybersecurity-4aog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
