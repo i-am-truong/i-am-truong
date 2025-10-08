@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CRUD &lpar;Create, Read, Update, Delete&rpar; operations in MongoDB using a simple college student schema.](https://dev.to/lohita_blue_d6409977eec4c/crud-create-read-update-delete-operations-in-mongodb-using-a-simple-college-student-schema-4lj8)
 - [Sealed Classes in Java 21 – Controlling Class Hierarchies](https://dev.to/adrian_nowosielski_7bd282/sealed-classes-in-java-21-controlling-class-hierarchies-1moo)
 - [AWS CloudFront Security Implementation Guide](https://dev.to/harshhp/aws-cloudfront-security-implementation-guide-bjm)
+- [Thinking to return on dev.to](https://dev.to/sehgalspandan/thinking-to-return-on-devto-3jlf)
 - [SOLID in React #2 — The Open/Closed Principle](https://dev.to/nielssoholm/solid-in-react-2-the-openclosed-principle-1onl)
-- [Set New Branch in Git](https://dev.to/ralvaracode/set-new-branch-in-git-31gc)
-- [Dictionary functions in Python &lpar;3&rpar;](https://dev.to/hyperkai/dictionary-functions-in-python-3-1m0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
