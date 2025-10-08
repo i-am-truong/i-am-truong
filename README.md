@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Abandonware of the web: did you know that there is an HTML tables API?](https://dev.to/codepo8/abandonware-of-the-web-did-you-know-that-there-is-an-html-tables-api-1efn)
-- [Untitled](https://dev.to/lt07kel7kanaya_fitriani/untitled-148i)
-- [Generate readable and efficient logging methods](https://dev.to/costinmanda/generate-readable-and-efficient-logging-methods-473n)
-- [Capstone Project: PCI DSS Online Payment Website](https://dev.to/christiana_orji/capstone-project-pci-dss-online-payment-website-3ic7)
-- [The Tech Behind Recovery: How Infrared Sauna Fortitude Valley Uses Science to Boost Post-Workout Healing](https://dev.to/amelia_brown04/the-tech-behind-recovery-how-infrared-sauna-fortitude-valley-uses-science-to-boost-post-workout-33lb)
+- [ACID](https://dev.to/nishanth_moorthi24cb036_/acid-kjj)
+- [Wednesday Links - Edition 2025-10-08](https://dev.to/wyhasany/wednesday-links-edition-2025-10-08-3jdf)
+- [GitHub Code Setup: Choosing Your Workflow &lpar;HTTPS, SSH, Terminal, &amp; Desktop&rpar;](https://dev.to/amrishkhan05/github-code-setup-choosing-your-workflow-https-ssh-terminal-desktop-7op)
+- [Cursor And Trigger](https://dev.to/nishanth_moorthi24cb036_/cursor-and-trigger-45o8)
+- [Creating an AI App with Genkit and Gemini: A Beginner’s Guide](https://dev.to/odinga71/creating-an-ai-app-with-genkit-and-gemini-a-beginners-guide-48md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
