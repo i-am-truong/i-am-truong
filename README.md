@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Clicking, Start Coding: The Ultimate Visual Studio Shortcuts Cheatsheet](https://dev.to/prismcoder/stop-clicking-start-coding-the-ultimate-visual-studio-shortcuts-cheatsheet-4mn6)
-- [These Three CSS Tools Will Save You Hours !!](https://dev.to/hashbyt/these-three-css-tools-will-save-you-hours--5f48)
-- [Advanced Prompt Techniques for the Next Level of Vibe Coding](https://dev.to/vuhung16au/advanced-prompt-techniques-for-the-next-level-of-vibe-coding-2dbb)
-- [কেন Stripe Date-Based API Versioning ব্যবহার করে? &lpar;কেন Traditional Versioning করে না&rpar;](https://dev.to/fahimahammed/ken-stripe-date-based-api-versioning-bybhaar-kre-ken-traditional-versioning-kre-naa-1j9)
-- [HYBRID ENCODING SYSTEM USING BIGINT AND TOTP FOR TEXTUAL DATA PROTECTION](https://dev.to/paulo_srgiodeandrade_c/hybrid-encoding-system-using-bigint-and-totp-for-textual-data-protection-2j55)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-27bn)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-3fo6)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-2gh1)
+- [Cursor and Trigger in DBMS](https://dev.to/kausi_tarun_77e6874368465/cursor-and-trigger-in-dbms-f08)
+- [IGN: 2XKO Early Access Review](https://dev.to/gg_news/ign-2xko-early-access-review-4apm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
