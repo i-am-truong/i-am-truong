@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-p0i)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-1j5f)
-- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-o4i)
-- [IGN: Ghost of Yotei - Final Takezo Duel Lethal Difficulty Zero Damage](https://dev.to/gg_news/ign-ghost-of-yotei-final-takezo-duel-lethal-difficulty-zero-damage-5g4)
-- [IGN: Battlefield 6 - Official NVIDIA DLSS 4 Reveal Trailer](https://dev.to/gg_news/ign-battlefield-6-official-nvidia-dlss-4-reveal-trailer-38lc)
+- [Sealed Classes in Java 21 – Controlling Class Hierarchies](https://dev.to/adrian_nowosielski_7bd282/sealed-classes-in-java-21-controlling-class-hierarchies-1moo)
+- [AWS CloudFront Security Implementation Guide](https://dev.to/harshhp/aws-cloudfront-security-implementation-guide-bjm)
+- [SOLID in React #2 — The Open/Closed Principle](https://dev.to/nielssoholm/solid-in-react-2-the-openclosed-principle-1onl)
+- [Set New Branch in Git](https://dev.to/ralvaracode/set-new-branch-in-git-31gc)
+- [Dictionary functions in Python &lpar;3&rpar;](https://dev.to/hyperkai/dictionary-functions-in-python-3-1m0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
