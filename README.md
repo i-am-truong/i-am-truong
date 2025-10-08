@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Remi - Create Web-Based GUI Apps in Pure Python](https://dev.to/imrrobot/remi-create-web-based-gui-apps-in-pure-python-4l72)
+- [☕ Mastering Java Streams: Intermediate, Terminal, and Short-Circuiting Operations](https://dev.to/nk_sk_6f24fdd730188b284bf/mastering-java-streams-intermediate-terminal-and-short-circuiting-operations-2cpc)
+- [RTSP: The Real-Time Streaming Protocol. What is RTSP and How Does It Work?](https://dev.to/akeel_almas_9a2ada3db4257/rtsp-the-real-time-streaming-protocol-what-is-rtsp-and-how-does-it-work-2597)
 - [Mastering C++ Templates: Why Generic Programming Beats Code Duplication](https://dev.to/sfundomhlungu/mastering-c-templates-why-generic-programming-beats-code-duplication-1i31)
-- [Understanding page.locator&lpar;&rpar;.click&lpar;&rpar; in Playwright](https://dev.to/the_wise_06d8114f1ee73fe8/understanding-pagelocatorclick-in-playwright-1d1m)
-- [Overview of Black Box Testing vs White Box Testing: Complete Comparison Document](https://dev.to/keploy/overview-of-black-box-testing-vs-white-box-testing-complete-comparison-document-30)
-- [Automating Database Logic with Triggers + Cursors in Oracle SQL](https://dev.to/randhir_gupta_fb4150dd063/automating-database-logic-with-triggers-cursors-in-oracle-sql-4n39)
-- [Reasonable Link Management &lpar;shortener&rpar; Service](https://dev.to/aleks_91/reasonable-link-management-shortener-service-3bc4)
+- [Top 10 Cucumber Alternatives of 2025](https://dev.to/testsigma_3090ec39824cd9d/top-10-cucumber-alternatives-of-2025-2ih5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
