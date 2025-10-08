@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ACID properties with SQL transactions](https://dev.to/deepana_ee9087276132ad19f/acid-properties-with-sql-transactions-2a6n)
-- [Indexing, Hashing &amp; Query Optimization](https://dev.to/lohita_blue_d6409977eec4c/indexing-hashing-query-optimization-2imk)
-- [ติดตั้ง Realtek R8125 บน AlmaLinux 10](https://dev.to/pramoth/tidtang-realtek-r8125-bn-almalinux-10-1bon)
-- [[Boost]](https://dev.to/uliyahoo/-1d1c)
-- [“Mastering Database Normalization: Step-by-Step Guide with SQL &lpar;1NF 3NF&rpar;”](https://dev.to/yazhini_m24cb063_c76b657/mastering-database-normalization-step-by-step-guide-with-sql-1nf-3nf-d)
+- [Unlocking the Power of AI in Performance Testing](https://dev.to/jamescantor38/unlocking-the-power-of-ai-in-performance-testing-2d98)
+- [EXPLORING NORMALIZATION](https://dev.to/ramya_ae121b08c2e0f9e215c/exploring-normalization-28gb)
+- [Raw string literals in .NET, both useful and entertaining](https://dev.to/costinmanda/raw-string-literals-in-net-both-useful-and-entertaining-1o7f)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_40446303/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5adn)
+- [Normalisation](https://dev.to/rajalakshmi_943aa111ee5c0/normalisation-hjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
