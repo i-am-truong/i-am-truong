@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Task-Running AI Agent with the New ChatGPT AgentKit: A Step-by-Step Guide](https://dev.to/dhruvjoshi9/build-a-task-running-ai-agent-with-the-new-chatgpt-agentkit-a-step-by-step-guide-55nd)
-- [Practical AI Use Cases That Are Actually Transforming Law Firms With Real Examples and Measurable ROI](https://dev.to/heyjoshlee/practical-ai-use-cases-that-are-actually-transforming-law-firms-with-real-examples-and-measurable-31og)
-- [Devlog: Building the **Price Pipeline Health** Card &lpar;so you know when data is fresh or fallback&rpar;](https://dev.to/pocketportfolioapp/devlog-building-the-price-pipeline-health-card-so-you-know-when-data-is-fresh-or-fallback-57p2)
-- [How to Find, Prevent And Solve Java.lang.NullPointerException in Mobile Apps](https://dev.to/shubham_joshi_expert/how-to-find-prevent-and-solve-javalangnullpointerexception-in-mobile-apps-4304)
-- [From Plain Functions to Reactive Streams: a mindset change with a thousand benefits](https://dev.to/dariomannu/from-plain-functions-to-reactive-streams-a-mindset-change-with-a-thousand-benefits-aoa)
+- [কেন Stripe Date-Based API Versioning ব্যবহার করে? &lpar;কেন Traditional Versioning করে না&rpar;](https://dev.to/fahimahammed/ken-stripe-date-based-api-versioning-bybhaar-kre-ken-traditional-versioning-kre-naa-1j9)
+- [HYBRID ENCODING SYSTEM USING BIGINT AND TOTP FOR TEXTUAL DATA PROTECTION](https://dev.to/paulo_srgiodeandrade_c/hybrid-encoding-system-using-bigint-and-totp-for-textual-data-protection-2j55)
+- [From Dev to Dairy - Production Testing, Real Bugs, and Lessons for Fellow Vibe Coders](https://dev.to/dishankg/from-dev-to-dairy-production-testing-real-bugs-and-lessons-for-fellow-vibe-coders-2d5)
+- [Angular Signals Effect&lpar;&rpar;: Why 90% of Developers Use It Wrong](https://dev.to/codewithrajat/angular-signals-effect-why-90-of-developers-use-it-wrong-4pl4)
+- [Developers Who Don&#39;t Code in Their Spare Time Will Never Become Truly Great](https://dev.to/teamcamp/developers-who-dont-code-in-their-spare-time-will-never-become-truly-great-4k13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
