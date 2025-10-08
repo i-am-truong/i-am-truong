@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Project Commercial Benchmarking: Technical Solution Comparison Between Litho and DeepWiki](https://dev.to/sopaco/open-source-project-commercial-benchmarking-technical-solution-comparison-between-litho-and-40b1)
-- [From Rust to Multi-Language: Litho&#39;s Plugin-Based Extensible Architecture Design](https://dev.to/sopaco/from-rust-to-multi-language-lithos-plugin-based-extensible-architecture-design-b8b)
-- [Cost-Controllable AI Applications: Litho&#39;s Cache Optimization and Cost Control Strategies](https://dev.to/sopaco/cost-controllable-ai-applications-lithos-cache-optimization-and-cost-control-strategies-2291)
-- [[Book Review] Build a Large Language Model &lpar;From Scratch&rpar; by Sebastian Raschka](https://dev.to/uponthesky/book-review-build-a-large-language-model-from-scratch-by-sebastian-raschka-1286)
-- [Thinking About Switching to Omarchy — Is It Worth It?](https://dev.to/shaq_attack/thinking-about-switching-to-omarchy-is-it-worth-it-3c3o)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_40446303/beyond-env-a-grown-ups-guide-to-application-configuration-2aai)
+- [Beyond Speed: Why Quality Code is as Critical as Efficiency in Software Development](https://dev.to/rgbos/beyond-speed-why-quality-code-is-as-critical-as-efficiency-in-software-development-4ajj)
+- [🚀 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐂𝐡𝐚𝐭𝐊𝐢𝐭 𝐰𝐢𝐭𝐡 𝐅𝐚𝐬𝐭𝐀𝐏𝐈: 𝐀 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐡𝐚𝐭 𝐀𝐠𝐞𝐧𝐭𝐬](https://dev.to/rajeev_3ce9f280cbae73b234/--3hhn)
+- [AI-Driven Data Engineering: Building Real-Time Intelligence Pipelines](https://dev.to/harsh9410/ai-driven-data-engineering-building-real-time-intelligence-pipelines-5an6)
+- [A Quick Look at OpenAI’s New Visual Agent Toolkit 🚀](https://dev.to/adit/a-quick-look-at-openais-new-visual-agent-toolkit-2152)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
