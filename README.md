@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [QA in the Era of Self-Building Software](https://dev.to/dct_technology/qa-in-the-era-of-self-building-software-2hhn)
+- [AIMFM &lpar;Artificial Intelligence Multi-Featured Miracle&rpar;: An AI-Based Feedback and Suggestion Framework for Engineers](https://dev.to/pushkar_gautamaryan_ca/aimfm-artificial-intelligence-multi-featured-miracle-an-ai-based-feedback-and-suggestion-1ibh)
+- [Angular Change Detection: The 3 Triggers &lpar;A Simplified Guide for Developers&rpar;](https://dev.to/devhabib/angular-change-detection-the-3-triggers-a-simplified-guide-for-developers-5h86)
 - [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_06022d8b/security-is-not-a-feature-its-a-foundation-2aj2)
 - [10 Reasons Why Microsoft Azure and Dynamics 365 Work Better Together](https://dev.to/piya__c204c9e90/10-reasons-why-microsoft-azure-and-dynamics-365-work-better-together-nkm)
-- [JavaScript Try...Catch Explained: A Beginner&#39;s Guide to Error Handling](https://dev.to/wisdomudo/javascript-trycatch-explained-a-beginners-guide-to-error-handling-2kf6)
-- [Stuffing Deno and a pnpm workspace into a Docker image](https://dev.to/brendonovich/stuffing-deno-and-a-pnpm-workspace-into-a-docker-image-ani)
-- [Fine-tuning SmolAgents using Tools with Reinforcement Learning](https://dev.to/thanh_lamhoang_08519e041/fine-tuning-smolagents-using-tools-with-reinforcement-learning-3mng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
