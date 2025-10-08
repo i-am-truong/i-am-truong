@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use ChatGPT to Build AI Voice Agents Effectively](https://dev.to/marksantiago02/how-to-use-chatgpt-to-build-ai-voice-agents-effectively-jd9)
 - [ACID PROPERTIES WITH SQL TRNSACTIONS](https://dev.to/lohita_blue_d6409977eec4c/acid-properties-with-sql-trnsactions-4ji8)
 - [I Built an Offline Voice Typing App for Linux - Speak to AI](https://dev.to/ashbuk/i-built-an-offline-voice-typing-app-for-linux-speak-to-ai-3ab5)
 - [Why Developers Should Care About AI Workflow Automation in 2025](https://dev.to/amanda_brooks_62bc9e0d44d/why-developers-should-care-about-ai-workflow-automation-in-2025-5g5a)
 - [Weekly Update #12](https://dev.to/abytebybyte/weekly-update-12-2d65)
-- [Database System Internals — Transactions, Deadlocks, Recovery &amp; Indexing Explained with SQL Examples](https://dev.to/iniya_iniya_ad2d13520531c/database-system-internals-transactions-deadlocks-recovery-indexing-explained-with-sql-examples-l5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
