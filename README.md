@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jest 101](https://dev.to/cathylai/jest-101-404g)
 - [FHIR MCP Server: Empowering Healthcare with Natural Language Interfaces](https://dev.to/momentumai/fhir-mcp-server-empowering-healthcare-with-natural-language-interfaces-3nn1)
 - [🔴 Live: QA.tech 1.0 on Product Hunt](https://dev.to/fmerian/live-qatech-10-on-product-hunt-2152)
 - [IoT Platform Update: New Features and Enhancements](https://dev.to/palo/iot-platform-update-new-features-and-enhancements-3p8h)
 - [Rezi.ai Review: Worth the Hype or Just Another AI Resume Builder?](https://dev.to/nitinfab/reziai-review-worth-the-hype-or-just-another-ai-resume-builder-198a)
-- [Rezi.ai Review: Worth the Hype or Just Another AI Resume Builder?](https://dev.to/nitinfab/reziai-review-worth-the-hype-or-just-another-ai-resume-builder-amm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
