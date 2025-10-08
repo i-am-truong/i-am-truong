@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Clicking, Start Coding: The Ultimate Visual Studio Shortcuts Cheatsheet](https://dev.to/prismcoder/stop-clicking-start-coding-the-ultimate-visual-studio-shortcuts-cheatsheet-4mn6)
+- [These Three CSS Tools Will Save You Hours !!](https://dev.to/hashbyt/these-three-css-tools-will-save-you-hours--5f48)
+- [Advanced Prompt Techniques for the Next Level of Vibe Coding](https://dev.to/vuhung16au/advanced-prompt-techniques-for-the-next-level-of-vibe-coding-2dbb)
 - [কেন Stripe Date-Based API Versioning ব্যবহার করে? &lpar;কেন Traditional Versioning করে না&rpar;](https://dev.to/fahimahammed/ken-stripe-date-based-api-versioning-bybhaar-kre-ken-traditional-versioning-kre-naa-1j9)
 - [HYBRID ENCODING SYSTEM USING BIGINT AND TOTP FOR TEXTUAL DATA PROTECTION](https://dev.to/paulo_srgiodeandrade_c/hybrid-encoding-system-using-bigint-and-totp-for-textual-data-protection-2j55)
-- [From Dev to Dairy - Production Testing, Real Bugs, and Lessons for Fellow Vibe Coders](https://dev.to/dishankg/from-dev-to-dairy-production-testing-real-bugs-and-lessons-for-fellow-vibe-coders-2d5)
-- [Angular Signals Effect&lpar;&rpar;: Why 90% of Developers Use It Wrong](https://dev.to/codewithrajat/angular-signals-effect-why-90-of-developers-use-it-wrong-4pl4)
-- [Developers Who Don&#39;t Code in Their Spare Time Will Never Become Truly Great](https://dev.to/teamcamp/developers-who-dont-code-in-their-spare-time-will-never-become-truly-great-4k13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
