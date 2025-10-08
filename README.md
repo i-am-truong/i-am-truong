@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WarpSynk Protocol: Taking Back Digital Identity and Data Ownership](https://dev.to/elam_antony_c3be42eac11c0/warpsynk-protocol-taking-back-digital-identity-and-data-ownership-2p8g)
+- [Beyond Cost: Lessons from our Migration to Hetzner](https://dev.to/nonsoamadi10/beyond-cost-lessons-from-our-migration-to-hetzner-4pcd)
 - [My Second PR: How I Bounced Back and Contributed to Scikit-learn](https://dev.to/jongwan93/my-second-pr-how-i-bounced-back-and-contributed-to-scikit-learn-3a51)
 - [Understanding the Modern Web Stack: WebAssembly&lpar;WASM&rpar;, Web Workers, and the V8 Engine](https://dev.to/harsh_jha_ff2e2c5509de458/understanding-the-modern-web-stack-webassemblywasm-web-workers-and-the-v8-engine-36ed)
 - [My Azure Cloud Resume Challenge Journey](https://dev.to/olasz/my-azure-cloud-resume-challenge-journey-4ho4)
