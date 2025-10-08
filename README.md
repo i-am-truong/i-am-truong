@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Thinking of moving from AlmaLinux to CloudLinux - but worried about downtime or breaking things?](https://dev.to/web_learning_4de0b1e0557/thinking-of-moving-from-almalinux-to-cloudlinux-but-worried-about-downtime-or-breaking-things-1nko)
-- [Do Frontend Devs Need to Start Thinking Like Cinematographers?](https://dev.to/dct_technology/do-frontend-devs-need-to-start-thinking-like-cinematographers-322m)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1b0f)
-- [Want to see how your VPS stacks up under real load?](https://dev.to/web_learning_4de0b1e0557/want-to-see-how-your-vps-stacks-up-under-real-load-3l20)
-- [How to Design Railway Speakers using 3D CAD Software](https://dev.to/julia970/how-to-design-railway-speakers-using-3d-cad-software-30bj)
+- [Understanding Cyber Risks with Seqrite’s 2025 threat report India](https://dev.to/seqrite/understanding-cyber-risks-with-seqrites-2025-threat-report-india-5aji)
+- [Medusa Tax Automation: Complete Guide to Integrating Avalara AvaTax for E-Commerce Compliance](https://dev.to/u11d/medusa-tax-automation-complete-guide-to-integrating-avalara-avatax-for-e-commerce-compliance-21h2)
+- [CSS Simplified: Build Beautiful Websites](https://dev.to/suraj_kumar_fb57ae0928df2/css-simplified-build-beautiful-websites-44d6)
+- [Boosting Teamwork Skills: The Surprising Role of Online Learning Platforms](https://dev.to/ghummantech/boosting-teamwork-skills-the-surprising-role-of-online-learning-platforms-n0p)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-47kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
