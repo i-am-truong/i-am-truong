@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite Frontend Setup Libraries &lpar;Project Foundation Edition&rpar;](https://dev.to/nyaomaru/my-favorite-frontend-setup-libraries-project-foundation-edition-2j4k)
+- [Ultimate Laravel Migrations Guide 2025](https://dev.to/laracopilot/what-is-laravel-migrations-2cbe)
+- [Netex Server ve Netex Sensör kurulumu](https://dev.to/aciklab/netex-server-ve-netex-sensor-kurulumu-4010)
 - [Why is 0.1 + 0.2 != 0.3 in Java?](https://dev.to/vipulkumarsviit/why-is-01-02-03-in-java-16jk)
-- [How Office Complexes Benefit from Architectural Laser Scanning Documentation?](https://dev.to/reetielubana/how-office-complexes-benefit-from-architectural-laser-scanning-documentation-5cm1)
-- [Not All OSS Is Created Equal](https://dev.to/dejanualex/not-all-oss-is-created-equal-5fci)
-- [Data in the Cloud: 6 Common Data Formats](https://dev.to/sahana_s_723583d985050944/data-in-the-cloud-6-common-data-formats-10pd)
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-ln0)
+- [Day 26 of My 90 Days Python Series – Age Calculator 🧮](https://dev.to/momina_raheelmoona_c59/day-26-of-my-90-days-python-series-age-calculator-2bnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
