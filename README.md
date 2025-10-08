@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Human Creativity vs Generative AI: Why Developers Still Have the Edge](https://dev.to/devtechinsights/human-creativity-vs-generative-ai-why-developers-still-have-the-edge-1p4i)
 - [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fjn)
 - [JIT vs. AOT Compilation in Java: A Comparative Analysis with Benchmarks](https://dev.to/adrian_nowosielski_7bd282/jit-vs-aot-compilation-in-java-a-comparative-analysis-with-benchmarks-4152)
-- [CRUD &lpar;Create, Read, Update, Delete&rpar; operations in MongoDB using a simple college student schema.](https://dev.to/lohita_blue_d6409977eec4c/crud-create-read-update-delete-operations-in-mongodb-using-a-simple-college-student-schema-4lj8)
+- [I Built a VS Code Extension to Simplify .NET Project Creation](https://dev.to/bdonald/i-built-a-vs-code-extension-to-simplify-net-project-creation-5efa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
