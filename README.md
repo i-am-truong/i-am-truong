@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating Python Libraries &amp; Reusable Modules](https://dev.to/godofgeeks/creating-python-libraries-reusable-modules-1mbi)
-- [React Router](https://dev.to/saravanan_s_0fd4b60fc6b20/react-router-nah)
-- [Vibe Coding Meets AI Testing - How I Ship With Confidence](https://dev.to/qatech/vibe-coding-meets-ai-testing-how-i-ship-with-confidence-k81)
-- [A Dive into Apache Iceberg™&#39;s Metadata](https://dev.to/thedanicafine/a-dive-into-apache-icebergs-metadata-gpp)
-- [The Human Element: Why Employees Are Still the Weakest Link in Cybersecurity](https://dev.to/chrizfasa/the-human-element-why-employees-are-still-the-weakest-link-in-cybersecurity-4aog)
+- [FHIR MCP Server: Empowering Healthcare with Natural Language Interfaces](https://dev.to/momentumai/fhir-mcp-server-empowering-healthcare-with-natural-language-interfaces-3nn1)
+- [🔴 Live: QA.tech 1.0 on Product Hunt](https://dev.to/fmerian/live-qatech-10-on-product-hunt-2152)
+- [IoT Platform Update: New Features and Enhancements](https://dev.to/palo/iot-platform-update-new-features-and-enhancements-3p8h)
+- [Rezi.ai Review: Worth the Hype or Just Another AI Resume Builder?](https://dev.to/nitinfab/reziai-review-worth-the-hype-or-just-another-ai-resume-builder-198a)
+- [Rezi.ai Review: Worth the Hype or Just Another AI Resume Builder?](https://dev.to/nitinfab/reziai-review-worth-the-hype-or-just-another-ai-resume-builder-amm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
