@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Stacking PRs &amp; Squashing Merges](https://dev.to/sleepingpotato/stacking-prs-squashing-merges-4ogg)
-- [💾Ensuring Database Stability: Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/prabavathy_balagurusamy_2/ensuring-database-stability-transactions-deadlocks-log-based-recovery-4g3m)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-32ng)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1a0i)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-5gpc)
+- [The Hidden Parallels Between Office Licensing and Web App Authentication](https://dev.to/_eb7ede481eac3d7c3/the-hidden-parallels-between-office-licensing-and-web-app-authentication-3f60)
+- [How I Build Interactive Web Applications with React, Tailwind CSS, and GSAP](https://dev.to/mohammadzakariya-dev/how-i-build-interactive-web-applications-with-react-tailwind-css-and-gsap-3bo7)
+- [أخبار انمي العالم](https://dev.to/fatiha_fa9ir_71474e299b62/khbr-nmy-llm-40ah)
+- [Repetitve Play Console Termination](https://dev.to/zeerak_gillani_7e0f68f682/repetitve-play-console-termination-1h4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
