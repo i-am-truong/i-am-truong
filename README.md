@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HSBC Quantum Trading Echoes 1970s Tech Revolution](https://dev.to/vikramlingam/hsbc-quantum-trading-echoes-1970s-tech-revolution-1767)
-- [Fixing “MongoDB Service Not Starting &lpar;Error 1067&rpar;” on Windows](https://dev.to/msubhro/fixing-mongodb-service-not-starting-error-1067-on-windows-28fg)
-- [Integrating Ollama with Python: REST API and Python Client Examples](https://dev.to/rosgluk/integrating-ollama-with-python-rest-api-and-python-client-examples-56hk)
-- [¿Dónde está mi dinero?](https://dev.to/baltasarq/donde-esta-mi-dinero-2j9c)
-- [Automating CI/CD Pipelines Using GitHub Actions for Faster Releases](https://dev.to/ryan-mathews/automating-cicd-pipelines-using-github-actions-for-faster-releases-mij)
+- [Deploy to Azure Kubernetes Service &lpar;AKS&rpar; using Azure Pipelines](https://dev.to/akash_roy_3bc76e473db5e40/deploy-to-azure-kubernetes-service-aks-using-azure-pipelines-3127)
+- [Stop Over-Engineering: Use Tampermonkey for Rapid UI Prototyping &amp; Debugging](https://dev.to/saadmaqsood/stop-over-engineering-use-tampermonkey-for-rapid-ui-prototyping-debugging-365)
+- [[Boost]](https://dev.to/srivenkatareddy/-3c6j)
+- [linux - cd,ls,Hard&amp;Soft Link](https://dev.to/nivethithaa_saravanavel_3/linux-cdlshardsoft-link-330g)
+- [Reflections from a Developer in Progress](https://dev.to/5uig3n3ris/reflections-from-a-developer-in-progress-3dc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
