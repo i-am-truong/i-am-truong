@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [n8n and OpenAI API: Creating Simple Text Processing Automations](https://dev.to/addwebsolutionpvtltd/n8n-and-openai-api-creating-simple-text-processing-automations-1i0f)
 - [How Vijil built a trust layer for my first AI agent](https://dev.to/ngrok/how-vijil-built-a-trust-layer-for-my-first-ai-agent-2fki)
 - [My Favorite Frontend Setup Libraries &lpar;Project Foundation Edition&rpar;](https://dev.to/nyaomaru/my-favorite-frontend-setup-libraries-project-foundation-edition-2j4k)
 - [Ultimate Laravel Migrations Guide 2025](https://dev.to/laracopilot/what-is-laravel-migrations-2cbe)
 - [Netex Server ve Netex Sensör kurulumu](https://dev.to/aciklab/netex-server-ve-netex-sensor-kurulumu-4010)
-- [Why is 0.1 + 0.2 != 0.3 in Java?](https://dev.to/vipulkumarsviit/why-is-01-02-03-in-java-16jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
