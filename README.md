@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing HMAC Signatures Online — A Free Developer Tool](https://dev.to/authgear/testing-hmac-signatures-online-a-free-developer-tool-51mk)
-- [Claude API: Complete Guide to Anthropic&#39;s AI Platform in 2025](https://dev.to/hamd_writer_8c77d9c88c188/claude-api-complete-guide-to-anthropics-ai-platform-in-2025-2pmj)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4j6l)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-2eg8)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-1h5e)
+- [ACID PROPERTIES WITH SQL TRNSACTIONS](https://dev.to/lohita_blue_d6409977eec4c/acid-properties-with-sql-trnsactions-4ji8)
+- [I Built an Offline Voice Typing App for Linux - Speak to AI](https://dev.to/ashbuk/i-built-an-offline-voice-typing-app-for-linux-speak-to-ai-3ab5)
+- [Why Developers Should Care About AI Workflow Automation in 2025](https://dev.to/amanda_brooks_62bc9e0d44d/why-developers-should-care-about-ai-workflow-automation-in-2025-5g5a)
+- [Weekly Update #12](https://dev.to/abytebybyte/weekly-update-12-2d65)
+- [Database System Internals — Transactions, Deadlocks, Recovery &amp; Indexing Explained with SQL Examples](https://dev.to/iniya_iniya_ad2d13520531c/database-system-internals-transactions-deadlocks-recovery-indexing-explained-with-sql-examples-l5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
