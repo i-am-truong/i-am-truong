@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [QA in the Era of Self-Building Software](https://dev.to/dct_technology/qa-in-the-era-of-self-building-software-2hhn)
-- [AIMFM &lpar;Artificial Intelligence Multi-Featured Miracle&rpar;: An AI-Based Feedback and Suggestion Framework for Engineers](https://dev.to/pushkar_gautamaryan_ca/aimfm-artificial-intelligence-multi-featured-miracle-an-ai-based-feedback-and-suggestion-1ibh)
-- [Angular Change Detection: The 3 Triggers &lpar;A Simplified Guide for Developers&rpar;](https://dev.to/devhabib/angular-change-detection-the-3-triggers-a-simplified-guide-for-developers-5h86)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_06022d8b/security-is-not-a-feature-its-a-foundation-2aj2)
-- [10 Reasons Why Microsoft Azure and Dynamics 365 Work Better Together](https://dev.to/piya__c204c9e90/10-reasons-why-microsoft-azure-and-dynamics-365-work-better-together-nkm)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-eaa)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1i89)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2234)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-123k)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-2kpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
