@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-156c)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-40bo)
-- [IGN: Dragon Raja 2: The Mourner&#39;s Eyes - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-dragon-raja-2-the-mourners-eyes-official-trailer-english-subtitles-4960)
-- [IGN: World of Tanks Blitz - Official &#39;The Walking Dead&#39; Collaboration Trailer](https://dev.to/gg_news/ign-world-of-tanks-blitz-official-the-walking-dead-collaboration-trailer-3ohf)
-- [IGN: Tojima Wants to Be a Kamen Rider - Official Trailer 2 &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-tojima-wants-to-be-a-kamen-rider-official-trailer-2-english-subtitles-160o)
+- [From Getting Rekt to Building a Shield: Why I&#39;m Battling Smart Contract Scams](https://dev.to/moiz_ali_d0b9834932357ad2/from-getting-rekt-to-building-a-shield-why-im-battling-smart-contract-scams-3b3o)
+- [How AI is Transforming the Future of Work in 2025](https://dev.to/ryan-mathews/how-ai-is-transforming-the-future-of-work-in-2025-36g1)
+- [Cursor and Trigger](https://dev.to/balaji_5384626fc05c543d2f/cursor-and-trigger-5eep)
+- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-5d94)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-57e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
