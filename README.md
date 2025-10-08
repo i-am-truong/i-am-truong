@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jest 101](https://dev.to/cathylai/jest-101-404g)
-- [FHIR MCP Server: Empowering Healthcare with Natural Language Interfaces](https://dev.to/momentumai/fhir-mcp-server-empowering-healthcare-with-natural-language-interfaces-3nn1)
-- [🔴 Live: QA.tech 1.0 on Product Hunt](https://dev.to/fmerian/live-qatech-10-on-product-hunt-2152)
-- [IoT Platform Update: New Features and Enhancements](https://dev.to/palo/iot-platform-update-new-features-and-enhancements-3p8h)
-- [Rezi.ai Review: Worth the Hype or Just Another AI Resume Builder?](https://dev.to/nitinfab/reziai-review-worth-the-hype-or-just-another-ai-resume-builder-198a)
+- [⚡ 5 Python Productivity Tricks You Should Be Using](https://dev.to/destinytch/5-python-productivity-tricks-you-should-be-using-48ik)
+- [Jest Cheatsheets](https://dev.to/cathylai/jest-101-404g)
+- [How to Store and Protect Your Photo Film](https://dev.to/orwoshop/how-to-store-and-protect-your-photo-film-4cof)
+- [Getting Started with Jest](https://dev.to/cathylai/getting-started-with-jest-1h4o)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_40446303/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-55l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
