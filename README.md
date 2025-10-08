@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-27bn)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-3fo6)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-2gh1)
-- [Cursor and Trigger in DBMS](https://dev.to/kausi_tarun_77e6874368465/cursor-and-trigger-in-dbms-f08)
-- [IGN: 2XKO Early Access Review](https://dev.to/gg_news/ign-2xko-early-access-review-4apm)
+- [Abandonware of the web: did you know that there is an HTML tables API?](https://dev.to/codepo8/abandonware-of-the-web-did-you-know-that-there-is-an-html-tables-api-1efn)
+- [Untitled](https://dev.to/lt07kel7kanaya_fitriani/untitled-148i)
+- [Generate readable and efficient logging methods](https://dev.to/costinmanda/generate-readable-and-efficient-logging-methods-473n)
+- [Capstone Project: PCI DSS Online Payment Website](https://dev.to/christiana_orji/capstone-project-pci-dss-online-payment-website-3ic7)
+- [The Tech Behind Recovery: How Infrared Sauna Fortitude Valley Uses Science to Boost Post-Workout Healing](https://dev.to/amelia_brown04/the-tech-behind-recovery-how-infrared-sauna-fortitude-valley-uses-science-to-boost-post-workout-33lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
