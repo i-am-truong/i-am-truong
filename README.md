@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SecureBitchat — Fast, Encrypted P2P Calls in Your Browser](https://dev.to/securebitchat/securebitchat-fast-encrypted-p2p-calls-in-your-browser-1dke)
+- [Angular&#39;s Edge: Unpacking 2025&#39;s Innovations &amp; Future Trends](https://dev.to/softwaredeveloper01/angulars-edge-unpacking-2025s-innovations-future-trends-494n)
 - [Beyond the Dogma: A Pragmatic Hybrid MVVM Architecture in WPF**](https://dev.to/neopotato/beyond-the-dogma-a-pragmatic-hybrid-mvvm-architecture-in-wpf-3ncm)
 - [An Introduction to Remote Procedural Call &lpar;RPC&rpar; Nodes in Blockchains](https://dev.to/davidekete/an-introduction-to-remote-procedural-call-rpc-nodes-in-blockchain-p88)
 - [Building a Modern Image Cropper in React with CropperJS 2.x](https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1)
-- [Trying to understand Pointers in c++](https://dev.to/prasadg/trying-to-understand-pointers-in-c-l4d)
-- [Cloud Resume Challenge &lpar;Azure&rpar; — Part 3: Setting Up HTTPS and Understanding Azure CDN](https://dev.to/jic/cloud-resume-challenge-azure-part-3-setting-up-https-and-understanding-azure-cdn-2mbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
