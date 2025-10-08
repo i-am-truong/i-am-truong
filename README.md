@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [neobrutalism-vue: Brutalist UI Component Library for Vue.js](https://dev.to/jqueryscript/neobrutalism-vue-brutalist-ui-component-library-for-vuejs-5ce9)
 - [How to Build a Prop Trading Firm: A Beginner&#39;s Guide](https://dev.to/propfirmhunters/how-to-build-a-prop-trading-firm-a-beginners-guide-374j)
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-4h17)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4apb)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-36j3)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-2pj9)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-25kg)
+- [Cost of Web Application Development: Factors You Should Know](https://dev.to/johany_wick_b3151d51fdf6a/cost-of-web-application-development-factors-you-should-know-3bmb)
+- [How to Optimize Your WordPress Website for SEO](https://dev.to/seokgntech/how-to-optimize-your-wordpress-website-for-seo-2l5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
