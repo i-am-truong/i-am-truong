@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Cyber Risks with Seqrite’s 2025 threat report India](https://dev.to/seqrite/understanding-cyber-risks-with-seqrites-2025-threat-report-india-5aji)
-- [Medusa Tax Automation: Complete Guide to Integrating Avalara AvaTax for E-Commerce Compliance](https://dev.to/u11d/medusa-tax-automation-complete-guide-to-integrating-avalara-avatax-for-e-commerce-compliance-21h2)
-- [CSS Simplified: Build Beautiful Websites](https://dev.to/suraj_kumar_fb57ae0928df2/css-simplified-build-beautiful-websites-44d6)
-- [Boosting Teamwork Skills: The Surprising Role of Online Learning Platforms](https://dev.to/ghummantech/boosting-teamwork-skills-the-surprising-role-of-online-learning-platforms-n0p)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-47kh)
+- [HSBC Quantum Trading Echoes 1970s Tech Revolution](https://dev.to/vikramlingam/hsbc-quantum-trading-echoes-1970s-tech-revolution-1767)
+- [Fixing “MongoDB Service Not Starting &lpar;Error 1067&rpar;” on Windows](https://dev.to/msubhro/fixing-mongodb-service-not-starting-error-1067-on-windows-28fg)
+- [Integrating Ollama with Python: REST API and Python Client Examples](https://dev.to/rosgluk/integrating-ollama-with-python-rest-api-and-python-client-examples-56hk)
+- [¿Dónde está mi dinero?](https://dev.to/baltasarq/donde-esta-mi-dinero-2j9c)
+- [Automating CI/CD Pipelines Using GitHub Actions for Faster Releases](https://dev.to/ryan-mathews/automating-cicd-pipelines-using-github-actions-for-faster-releases-mij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
