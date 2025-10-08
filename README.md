@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG from Scratch: A Beginner&#39;s Guide &lpar;Part 2: Building a Web API&rpar;](https://dev.to/hadywalied/building-a-rag-from-scratch-a-beginners-guide-part-2-building-a-web-api-332a)
-- [Multi‑AI Agents: The Good, the Bad, and the Ugly](https://dev.to/kuldeep_paul/multi-ai-agents-the-good-the-bad-and-the-ugly-1pph)
-- [Your first painless EVM reads in Python: an async-first blueprint with traps, fixes, and a mental model that sticks](https://dev.to/onlineproxy/your-first-painless-evm-reads-in-python-an-async-first-blueprint-with-traps-fixes-and-a-mental-2794)
-- [Human Creativity vs Generative AI: Why Developers Still Have the Edge](https://dev.to/devtechinsights/human-creativity-vs-generative-ai-why-developers-still-have-the-edge-1p4i)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fjn)
+- [Everyone Is Building a Wrapper in 2025 - Here’s Why You Should Care About Evals](https://dev.to/kuldeep_paul/everyone-is-building-a-wrapper-in-2025-heres-why-you-should-care-about-evals-49k6)
+- [Why Learning Data Analytics in 2025 Is a Career Game-Changer](https://dev.to/pratibha_singh_419eea044e/why-learning-data-analytics-in-2025-is-a-career-game-changer-4ae7)
+- [Rebuild #1.1: When Quick and Easy Became A Learning Moment](https://dev.to/raworiginal/rebuild-11-when-quick-and-easy-became-a-learning-moment-326l)
+- [Centralizing code quality commands in PHP projects: composer scripts vs Makefile](https://dev.to/robertobutti/centralizing-code-quality-commands-in-php-projects-composer-scripts-vs-makefile-30k1)
+- [How AI Quality and Reliability Become Your Moat in 2025 — Practical Examples and Engineering Playbooks](https://dev.to/kuldeep_paul/how-ai-quality-and-reliability-become-your-moat-in-2025-practical-examples-and-engineering-2pp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
