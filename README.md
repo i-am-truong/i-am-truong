@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [☕ Unsolicited Wisdom from My Ceramic Life Coach](https://dev.to/sagi0312/unsolicited-wisdom-from-my-ceramic-life-coach-1m04)
+- [GraphQL Security: Protecting Queries and Mutations](https://dev.to/vanessamadison/graphql-security-protecting-queries-and-mutations-36ak)
 - [Designing Simplicity: How Developers Can Bridge the UX Gap in Crypto](https://dev.to/chikieabby/designing-simplicity-how-developers-can-bridge-the-ux-gap-in-crypto-j1a)
 - [Arquitetura em Camadas &lpar;Layered architecture&rpar;](https://dev.to/yuripeixinho/arquitetura-em-camadas-layered-architecture-a68)
 - [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_06022d8b/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-kab)
-- [Code Reviews with AI: Making Feedback Fast, Fair, and Effective](https://dev.to/jaideepparashar/code-reviews-with-ai-making-feedback-fast-fair-and-effective-4aa8)
-- [RISC-V Lockstep Co-Simulation: Retirement-Level Step-and-Compare for Faster Verification &amp; Debug](https://dev.to/alpinumblogs/risc-v-lockstep-co-simulation-retirement-level-step-and-compare-for-faster-verification-debug-gpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
