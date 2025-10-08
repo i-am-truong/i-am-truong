@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Without Restarting: What 6 Months of Rebuilding My CodeIgniter App Taught Me About Growth](https://dev.to/gilads-otiannoh24/refactoring-without-restarting-what-6-months-of-rebuilding-my-codeigniter-app-taught-me-about-1ahg)
-- [How to Get Started with React JS in 2025](https://dev.to/cole_ruche/how-to-get-started-with-react-js-in-2025-egp)
-- [I want to learn to code, how do I do it?](https://dev.to/salvatorepolise/i-want-to-learn-to-code-how-do-i-do-it-1j2k)
-- [I looked at the subplot&lpar;&rpar; function in Matplotlib](https://dev.to/onaolapo11/i-looked-at-the-subplot-function-in-matplotlib-1398)
-- [🧩 Advanced Prompting for QA Engineers: How I Turned AI Into My Testing Partner](https://dev.to/dasha_tsion_31379cfb51dd7/advanced-prompting-for-qa-engineers-how-i-turned-ai-into-my-testing-partner-34h)
+- [Open Source Project Commercial Benchmarking: Technical Solution Comparison Between Litho and DeepWiki](https://dev.to/sopaco/open-source-project-commercial-benchmarking-technical-solution-comparison-between-litho-and-40b1)
+- [From Rust to Multi-Language: Litho&#39;s Plugin-Based Extensible Architecture Design](https://dev.to/sopaco/from-rust-to-multi-language-lithos-plugin-based-extensible-architecture-design-b8b)
+- [Cost-Controllable AI Applications: Litho&#39;s Cache Optimization and Cost Control Strategies](https://dev.to/sopaco/cost-controllable-ai-applications-lithos-cache-optimization-and-cost-control-strategies-2291)
+- [[Book Review] Build a Large Language Model &lpar;From Scratch&rpar; by Sebastian Raschka](https://dev.to/uponthesky/book-review-build-a-large-language-model-from-scratch-by-sebastian-raschka-1286)
+- [Thinking About Switching to Omarchy — Is It Worth It?](https://dev.to/shaq_attack/thinking-about-switching-to-omarchy-is-it-worth-it-3c3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
