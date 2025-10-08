@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Remi - Create Web-Based GUI Apps in Pure Python](https://dev.to/imrrobot/remi-create-web-based-gui-apps-in-pure-python-4l72)
-- [☕ Mastering Java Streams: Intermediate, Terminal, and Short-Circuiting Operations](https://dev.to/nk_sk_6f24fdd730188b284bf/mastering-java-streams-intermediate-terminal-and-short-circuiting-operations-2cpc)
-- [RTSP: The Real-Time Streaming Protocol. What is RTSP and How Does It Work?](https://dev.to/akeel_almas_9a2ada3db4257/rtsp-the-real-time-streaming-protocol-what-is-rtsp-and-how-does-it-work-2597)
-- [Mastering C++ Templates: Why Generic Programming Beats Code Duplication](https://dev.to/sfundomhlungu/mastering-c-templates-why-generic-programming-beats-code-duplication-1i31)
-- [Top 10 Cucumber Alternatives of 2025](https://dev.to/testsigma_3090ec39824cd9d/top-10-cucumber-alternatives-of-2025-2ih5)
+- [Why is 0.1 + 0.2 != 0.3 in Java?](https://dev.to/vipulkumarsviit/why-is-01-02-03-in-java-16jk)
+- [How Office Complexes Benefit from Architectural Laser Scanning Documentation?](https://dev.to/reetielubana/how-office-complexes-benefit-from-architectural-laser-scanning-documentation-5cm1)
+- [Not All OSS Is Created Equal](https://dev.to/dejanualex/not-all-oss-is-created-equal-5fci)
+- [Data in the Cloud: 6 Common Data Formats](https://dev.to/sahana_s_723583d985050944/data-in-the-cloud-6-common-data-formats-10pd)
+- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-ln0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
