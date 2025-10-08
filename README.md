@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [n8n and OpenAI API: Creating Simple Text Processing Automations](https://dev.to/addwebsolutionpvtltd/n8n-and-openai-api-creating-simple-text-processing-automations-1i0f)
-- [How Vijil built a trust layer for my first AI agent](https://dev.to/ngrok/how-vijil-built-a-trust-layer-for-my-first-ai-agent-2fki)
-- [My Favorite Frontend Setup Libraries &lpar;Project Foundation Edition&rpar;](https://dev.to/nyaomaru/my-favorite-frontend-setup-libraries-project-foundation-edition-2j4k)
-- [Ultimate Laravel Migrations Guide 2025](https://dev.to/laracopilot/what-is-laravel-migrations-2cbe)
-- [Netex Server ve Netex Sensör kurulumu](https://dev.to/aciklab/netex-server-ve-netex-sensor-kurulumu-4010)
+- [How to Set Up a Secure WordPress Website on AWS using LEMP Stack and Let’s Encrypt SSL](https://dev.to/alanvarghese-dev/how-to-set-up-a-secure-wordpress-website-on-aws-using-lemp-stack-and-lets-encrypt-ssl-118o)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_40446303/your-error-handling-is-a-mess-and-its-costing-you--335i)
+- [Database Magic: Automating Tasks with Cursor and Trigger✨](https://dev.to/poorvika_n/database-magic-automating-tasks-with-cursor-and-trigger-kp5)
+- [5 caching strategies](https://dev.to/wakeup_flower_8591a6cb6a9/5-caching-strategies-4pn)
+- [Database Normalisation](https://dev.to/kausi_tarun_77e6874368465/database-normalisation-2lbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
