@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use ChatGPT to Build AI Voice Agents Effectively](https://dev.to/marksantiago02/how-to-use-chatgpt-to-build-ai-voice-agents-effectively-jd9)
-- [ACID PROPERTIES WITH SQL TRNSACTIONS](https://dev.to/lohita_blue_d6409977eec4c/acid-properties-with-sql-trnsactions-4ji8)
-- [I Built an Offline Voice Typing App for Linux - Speak to AI](https://dev.to/ashbuk/i-built-an-offline-voice-typing-app-for-linux-speak-to-ai-3ab5)
-- [Why Developers Should Care About AI Workflow Automation in 2025](https://dev.to/amanda_brooks_62bc9e0d44d/why-developers-should-care-about-ai-workflow-automation-in-2025-5g5a)
-- [Weekly Update #12](https://dev.to/abytebybyte/weekly-update-12-2d65)
+- [When Claude’s &#39;Help&#39; Turns Harmful: A Developer’s Cautionary Tale](https://dev.to/michal_harcejnanomagic/when-claudes-help-turns-harmful-a-developers-cautionary-tale-3790)
+- [Understanding Data Formats for Analytics: A Practical Guide](https://dev.to/_arviiindd/understanding-data-formats-for-analytics-a-practical-guide-480f)
+- [Transactions, Deadlocks &amp; Log-Based Recovery in Oracle SQL](https://dev.to/lohita_blue_d6409977eec4c/transactions-deadlocks-log-based-recovery-in-oracle-sql-558p)
+- [SQL Essentials: Transactions, Deadlocks, and Recovery Explained](https://dev.to/ramya_ae121b08c2e0f9e215c/sql-essentials-transactions-deadlocks-and-recovery-explained-3nc1)
+- [Understanding Unicode: How Computers Handle Text from A to 🙂](https://dev.to/rijultp/understanding-unicode-how-computers-handle-text-from-a-to-56p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
