@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕ Unsolicited Wisdom from My Ceramic Life Coach](https://dev.to/sagi0312/unsolicited-wisdom-from-my-ceramic-life-coach-1m04)
-- [GraphQL Security: Protecting Queries and Mutations](https://dev.to/vanessamadison/graphql-security-protecting-queries-and-mutations-36ak)
-- [Designing Simplicity: How Developers Can Bridge the UX Gap in Crypto](https://dev.to/chikieabby/designing-simplicity-how-developers-can-bridge-the-ux-gap-in-crypto-j1a)
-- [Arquitetura em Camadas &lpar;Layered architecture&rpar;](https://dev.to/yuripeixinho/arquitetura-em-camadas-layered-architecture-a68)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_06022d8b/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-kab)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-156c)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-40bo)
+- [IGN: Dragon Raja 2: The Mourner&#39;s Eyes - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-dragon-raja-2-the-mourners-eyes-official-trailer-english-subtitles-4960)
+- [IGN: World of Tanks Blitz - Official &#39;The Walking Dead&#39; Collaboration Trailer](https://dev.to/gg_news/ign-world-of-tanks-blitz-official-the-walking-dead-collaboration-trailer-3ohf)
+- [IGN: Tojima Wants to Be a Kamen Rider - Official Trailer 2 &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-tojima-wants-to-be-a-kamen-rider-official-trailer-2-english-subtitles-160o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
