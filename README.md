@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of AI in Performance Testing](https://dev.to/jamescantor38/unlocking-the-power-of-ai-in-performance-testing-2d98)
-- [EXPLORING NORMALIZATION](https://dev.to/ramya_ae121b08c2e0f9e215c/exploring-normalization-28gb)
-- [Raw string literals in .NET, both useful and entertaining](https://dev.to/costinmanda/raw-string-literals-in-net-both-useful-and-entertaining-1o7f)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_40446303/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5adn)
-- [Normalisation](https://dev.to/rajalakshmi_943aa111ee5c0/normalisation-hjj)
+- [Testing HMAC Signatures Online — A Free Developer Tool](https://dev.to/authgear/testing-hmac-signatures-online-a-free-developer-tool-51mk)
+- [Claude API: Complete Guide to Anthropic&#39;s AI Platform in 2025](https://dev.to/hamd_writer_8c77d9c88c188/claude-api-complete-guide-to-anthropics-ai-platform-in-2025-2pmj)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4j6l)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-2eg8)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-1h5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
