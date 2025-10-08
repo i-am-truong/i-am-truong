@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [### The Art and Science of Ads: How Advertisements Shape Our World](https://dev.to/thegamersbaxechief/-the-art-and-science-of-ads-how-advertisements-shape-our-world-58gb)
 - [Boosting SQL Performance: Indexing &amp; Query Optimization Using a Students Table](https://dev.to/ramya_ae121b08c2e0f9e215c/boosting-sql-performance-indexing-query-optimization-using-a-students-table-2l87)
 - [When Claude’s &#39;Help&#39; Turns Harmful: A Developer’s Cautionary Tale](https://dev.to/michal_harcejnanomagic/when-claudes-help-turns-harmful-a-developers-cautionary-tale-3790)
 - [Understanding Data Formats for Analytics: A Practical Guide](https://dev.to/_arviiindd/understanding-data-formats-for-analytics-a-practical-guide-480f)
 - [Transactions, Deadlocks &amp; Log-Based Recovery in Oracle SQL](https://dev.to/lohita_blue_d6409977eec4c/transactions-deadlocks-log-based-recovery-in-oracle-sql-558p)
-- [SQL Essentials: Transactions, Deadlocks, and Recovery Explained](https://dev.to/ramya_ae121b08c2e0f9e215c/sql-essentials-transactions-deadlocks-and-recovery-explained-3nc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
