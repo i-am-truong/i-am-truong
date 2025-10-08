@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a High-Performance Booking Platform: Reducing API Calls by 66%](https://dev.to/blocool/building-a-high-performance-booking-platform-reducing-api-calls-by-66-5eic)
-- [Secure AI Agent with Auth0: Modular Identity for Intelligent Automation](https://dev.to/jramone3/secure-ai-agent-with-auth0-modular-identity-for-intelligent-automation-1pl4)
-- [Client vs Server-Side Encryption: The Real Meaning of End-to-End Security](https://dev.to/samowolabi/client-vs-server-side-encryption-the-real-meaning-of-end-to-end-security-2kg5)
-- [Will Developers Survive AI Takeover? Part 1: Equalizer vs Amplifier](https://dev.to/georgekobaidze/will-developers-survive-ai-takeover-part-1-equalizer-vs-amplifier-2jfo)
-- [Is the Internet a Junkyard?](https://dev.to/figsify/is-the-internet-a-junkyard-540n)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2gd6)
+- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-2k8p)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-3448)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-1iih)
+- [IGN: Ghost of Yotei - Official Director Modes Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-director-modes-trailer-53om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
