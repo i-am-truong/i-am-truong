@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚙️ Adaptive Gas Pricing | Using AI to Predict Network Congestion Before It Happens](https://dev.to/umang_suthar_9bad6f345a8a/adaptive-gas-pricing-using-ai-to-predict-network-congestion-before-it-happens-24d9)
+- [Mastering B-Tree, B+Tree, and Hash Indexes](https://dev.to/hareesh_e8fcfb0dd54290b4d/mastering-b-tree-btree-and-hash-indexes-jj0)
+- [How I Built BestCampingInRishikesh.com: A WordPress Travel Site That Actually Ranks](https://dev.to/bestcampinginrishikesh/how-i-built-bestcampinginrishikeshcom-a-wordpress-travel-site-that-actually-ranks-1bcl)
 - [Bridging BNB Chain &lpar;BSC&rpar; Solana: A Comprehensive Guide](https://dev.to/houdiniswap/bridging-bnb-chain-bsc-solana-a-comprehensive-guide-554m)
 - [HTML Tutorial 2025: Learn Web Development Fast](https://dev.to/tpointtechblog/html-tutorial-2025-learn-web-development-fast-48fe)
-- [Building Trustworthy AI Agents: A Practical Playbook for Builders and Leaders](https://dev.to/sonia_bobrik_1939cdddd79d/building-trustworthy-ai-agents-a-practical-playbook-for-builders-and-leaders-11hn)
-- [MongoDB - Blog - dev.to + LinkedIn Post](https://dev.to/gwede_williamrukudzo24c/mongodb-blog-devto-linkedin-post-2bb7)
-- [Playwright Vs Selenium: Best Choice For Testing In 2025](https://dev.to/keploy/playwright-vs-selenium-best-choice-for-testing-in-2025-4b3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
