@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ACID](https://dev.to/nishanth_moorthi24cb036_/acid-kjj)
-- [Wednesday Links - Edition 2025-10-08](https://dev.to/wyhasany/wednesday-links-edition-2025-10-08-3jdf)
-- [GitHub Code Setup: Choosing Your Workflow &lpar;HTTPS, SSH, Terminal, &amp; Desktop&rpar;](https://dev.to/amrishkhan05/github-code-setup-choosing-your-workflow-https-ssh-terminal-desktop-7op)
-- [Cursor And Trigger](https://dev.to/nishanth_moorthi24cb036_/cursor-and-trigger-45o8)
-- [Creating an AI App with Genkit and Gemini: A Beginner’s Guide](https://dev.to/odinga71/creating-an-ai-app-with-genkit-and-gemini-a-beginners-guide-48md)
+- [Docker in a Nutshell: Security](https://dev.to/leesha_lois/docker-in-a-nutshell-security-2bjp)
+- [SQL Commands Guide](https://dev.to/anthonybanion/sql-commands-guide-1f4c)
+- [MangoDB CRUD](https://dev.to/nishanth_moorthi24cb036_/mangodb-crud-5d28)
+- [Acid Property with SQL Transactions](https://dev.to/kausi_tarun_77e6874368465/acid-property-with-sql-transactions-3c62)
+- [ACCOUNT &amp; ROOT MANAGEMENT](https://dev.to/ntsezenelvis/account-root-management-2oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
