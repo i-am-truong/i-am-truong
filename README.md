@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Cost: Lessons from our Migration to Hetzner](https://dev.to/nonsoamadi10/beyond-cost-lessons-from-our-migration-to-hetzner-4pcd)
-- [My Second PR: How I Bounced Back and Contributed to Scikit-learn](https://dev.to/jongwan93/my-second-pr-how-i-bounced-back-and-contributed-to-scikit-learn-3a51)
-- [Understanding the Modern Web Stack: WebAssembly&lpar;WASM&rpar;, Web Workers, and the V8 Engine](https://dev.to/harsh_jha_ff2e2c5509de458/understanding-the-modern-web-stack-webassemblywasm-web-workers-and-the-v8-engine-36ed)
-- [My Azure Cloud Resume Challenge Journey](https://dev.to/olasz/my-azure-cloud-resume-challenge-journey-4ho4)
-- [Gemini Agents: Unlocking Transformative Potential with Google&#39;s Advanced AI](https://dev.to/rgbos/gemini-agents-unlocking-transformative-potential-with-googles-advanced-ai-1ggo)
+- [Beyond Autocomplete: A practical guide to AI-Assisted Development](https://dev.to/jackmarchant/beyond-autocomplete-a-practical-guide-to-ai-assisted-development-ldb)
+- [🚀 Looking for collaborators to create something truly unique. Not a startup for money — a project for meaning.](https://dev.to/skyerfore/looking-for-collaborators-to-create-something-truly-unique-not-a-startup-for-money-a-project-18po)
+- [TCJSGame Advanced Architecture: Building Scalable, Maintainable Games](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-advanced-architecture-building-scalable-maintainable-games-1c5k)
+- [Understanding From and Into Traits in Rust](https://dev.to/masteringbackend/understanding-from-and-into-traits-in-rust-2mgi)
+- [From Quote to Shipment in Business Central: Are You Being Replaced?](https://dev.to/insight_works/from-quote-to-shipment-in-business-central-are-you-being-replaced-4i21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
