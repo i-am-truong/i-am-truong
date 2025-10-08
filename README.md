@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2573)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-2big)
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-8mh)
-- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-30ii)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-80i)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-364h)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-435h)
+- [KEXP: Babe Rainbow - What is ashwagandha &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-what-is-ashwagandha-live-on-kexp-56aa)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-32ng)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1a0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
