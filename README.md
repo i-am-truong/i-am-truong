@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TRANSACTION](https://dev.to/balaji_5384626fc05c543d2f/transaction-3c82)
-- [JavaScript &lpar;Datatype and variable&rpar;](https://dev.to/hayesvincent14/javascript-datatype-and-variable-1no6)
-- [Building Smart Workflows with the Microsoft Agent Framework-Part -I](https://dev.to/sreeni5018/building-smart-workflows-with-the-microsoft-agent-framework-part-i-2fej)
-- [Mastering DBMS: A Practical Guide to Indexing, Hashing, and Query Optimization](https://dev.to/haresh_511/mastering-dbms-a-practical-guide-to-indexing-hashing-and-query-optimization-35p4)
-- [AI-Powered Incident Resolution Assistant: Reducing MTTR and Elevating ServiceNow Operations](https://dev.to/sip_mjb/ai-powered-incident-resolution-assistant-reducing-mttr-and-elevating-servicenow-operations-9)
+- [Stuffing Deno and a pnpm workspace into a Docker image](https://dev.to/brendonovich/stuffing-deno-and-a-pnpm-workspace-into-a-docker-image-ani)
+- [Fine-tuning SmolAgents using Tools with Reinforcement Learning](https://dev.to/thanh_lamhoang_08519e041/fine-tuning-smolagents-using-tools-with-reinforcement-learning-3mng)
+- [1NF , 2NF, 3NF in DBMS...](https://dev.to/raksh__e858eea76f8f29ed/1nf-2nf-3nf-in-dbms-5789)
+- [Secure Your AWS Account: Automate IAM Expiry Notifications with Lambda + SNS](https://dev.to/kalyani_uppara/secure-your-aws-account-automate-iam-expiry-notifications-with-lambda-sns-45j0)
+- [Privacy-Friendly Web3 Analytics: A Guide to User Privacy for Onchain Apps and Protocols](https://dev.to/yos/privacy-friendly-web3-analytics-a-guide-to-user-privacy-for-onchain-apps-and-protocols-1a3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
