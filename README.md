@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Start Low-Level Programming: Why Zig Teaches Better, C++ Pays Better](https://dev.to/sfundomhlungu/start-low-level-programming-why-zig-teaches-better-c-pays-better-2991)
+- [State in API Mocking: Introducing Beeceptor&#39;s No-Code Stateful Mocking](https://dev.to/moonlit1151/state-in-api-mocking-introducing-beeceptors-no-code-stateful-mocking-1gi4)
+- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-4gi7)
+- [20+ Portfolio websites for developers](https://dev.to/shreyvijayvargiya/20-portfolio-websites-for-developers-2jh9)
 - [A Guide to Microsoft Azure&#39;s Scalable and Secure Cloud Solutions](https://dev.to/teleglobalintermational/a-guide-to-microsoft-azures-scalable-and-secure-cloud-solutions-4i68)
-- [Why async systems outlast the rush](https://dev.to/koni_jang/why-async-systems-outlast-the-rush-4kk)
-- [I Built an AI Prompt to Debug My Post-Holiday Brain Fog—Here&#39;s How It Works](https://dev.to/huizhudev/i-built-an-ai-prompt-to-debug-my-post-holiday-brain-fog-heres-how-it-works-57km)
-- [Ethereum Foundation on Interop, Cardano x NEAR Intents, Bitget Wallet’s Gassless UX, SWIFT Confirms Linea for On-chain Payments](https://dev.to/etherspot/ethereum-foundation-on-interop-cardano-x-near-intents-bitget-wallets-gassless-ux-swift-confirms-gp9)
-- [Is SOC 2 Compliance Worth It? Here’s How It Transforms Your Company’s Future](https://dev.to/kibe_christine_bc01e93c1a/is-soc-2-compliance-worth-it-heres-how-it-transforms-your-companys-future-oh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
