@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fully Configurable Open Source Audio Spectrum Analyzer](https://dev.to/sylwekkominek/fully-configurable-open-source-audio-spectrum-analyzer-25h5)
+- [Cloud Run Full Screen Test](https://dev.to/ben/cloud-run-full-screen-test-2ee0)
+- [Guía rápida SDKMAN!](https://dev.to/gekyzo/sdkman-ioe)
 - [Stacking PRs &amp; Squashing Merges](https://dev.to/sleepingpotato/stacking-prs-squashing-merges-4ogg)
 - [The Hidden Parallels Between Office Licensing and Web App Authentication](https://dev.to/_eb7ede481eac3d7c3/the-hidden-parallels-between-office-licensing-and-web-app-authentication-3f60)
-- [How I Build Interactive Web Applications with React, Tailwind CSS, and GSAP](https://dev.to/mohammadzakariya-dev/how-i-build-interactive-web-applications-with-react-tailwind-css-and-gsap-3bo7)
-- [أخبار انمي العالم](https://dev.to/fatiha_fa9ir_71474e299b62/khbr-nmy-llm-40ah)
-- [Repetitve Play Console Termination](https://dev.to/zeerak_gillani_7e0f68f682/repetitve-play-console-termination-1h4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
