@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a RAG from Scratch: A Beginner&#39;s Guide &lpar;Part 2: Building a Web API&rpar;](https://dev.to/hadywalied/building-a-rag-from-scratch-a-beginners-guide-part-2-building-a-web-api-332a)
+- [Multi‑AI Agents: The Good, the Bad, and the Ugly](https://dev.to/kuldeep_paul/multi-ai-agents-the-good-the-bad-and-the-ugly-1pph)
 - [Your first painless EVM reads in Python: an async-first blueprint with traps, fixes, and a mental model that sticks](https://dev.to/onlineproxy/your-first-painless-evm-reads-in-python-an-async-first-blueprint-with-traps-fixes-and-a-mental-2794)
 - [Human Creativity vs Generative AI: Why Developers Still Have the Edge](https://dev.to/devtechinsights/human-creativity-vs-generative-ai-why-developers-still-have-the-edge-1p4i)
 - [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fjn)
-- [JIT vs. AOT Compilation in Java: A Comparative Analysis with Benchmarks](https://dev.to/adrian_nowosielski_7bd282/jit-vs-aot-compilation-in-java-a-comparative-analysis-with-benchmarks-4152)
-- [I Built a VS Code Extension to Simplify .NET Project Creation](https://dev.to/bdonald/i-built-a-vs-code-extension-to-simplify-net-project-creation-5efa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
