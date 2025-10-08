@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-115: 🚀Google Kubernetes Engine &lpar;GKE&rpar; — Horizontal Pod Autoscaling &lpar;HPA&rpar;](https://dev.to/latchudevops/part-115-google-kubernetes-engine-gke-horizontal-pod-autoscaling-hpa-57ef)
-- [Building Smarter Workflows: How Tech Teams Can Optimize Office Space Like Their Code](https://dev.to/grynzhn/building-smarter-workflows-how-tech-teams-can-optimize-office-space-like-their-code-1a37)
-- [DBMS- Transactions,Deadlock &amp;Log -Based Recovery](https://dev.to/shrieya-s/acid-property-with-sql-transactions-19ek)
-- [Claude Sonnet 4.5: 61% Reliability Is Enough To Win](https://dev.to/aiwithapex/claude-sonnet-45-61-reliability-is-enough-to-win-536a)
-- [HASHING](https://dev.to/balaji_5384626fc05c543d2f/hashing-6hj)
+- [TRANSACTION](https://dev.to/balaji_5384626fc05c543d2f/transaction-3c82)
+- [JavaScript &lpar;Datatype and variable&rpar;](https://dev.to/hayesvincent14/javascript-datatype-and-variable-1no6)
+- [Building Smart Workflows with the Microsoft Agent Framework-Part -I](https://dev.to/sreeni5018/building-smart-workflows-with-the-microsoft-agent-framework-part-i-2fej)
+- [Mastering DBMS: A Practical Guide to Indexing, Hashing, and Query Optimization](https://dev.to/haresh_511/mastering-dbms-a-practical-guide-to-indexing-hashing-and-query-optimization-35p4)
+- [AI-Powered Incident Resolution Assistant: Reducing MTTR and Elevating ServiceNow Operations](https://dev.to/sip_mjb/ai-powered-incident-resolution-assistant-reducing-mttr-and-elevating-servicenow-operations-9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
