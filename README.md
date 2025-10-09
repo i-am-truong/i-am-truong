@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I helped Revamp an Organization&#39;s Online Presence](https://dev.to/fullstackhoward/how-i-helped-revamp-an-organizations-online-presence-5b9l)
-- [Keys, Queues, and Quiet UIs: A Rental Website Blueprint That Converts](https://dev.to/yojaira_finkle_c0f32b18b1/keys-queues-and-quiet-uis-a-rental-website-blueprint-that-converts-fc5)
-- [Junie Starter’s Pack: AI Coding Agent Explained](https://dev.to/jetbrains/junie-starters-pack-ai-coding-agent-explained-2hjf)
-- [💡 Ideias de SaaS Baseadas nas Tendências: atlético-mg x sport recife, restaurante jamile, cuiabá x novorizontino](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-atletico-mg-x-sport-recife-restaurante-jamile-cuiaba-x-58kn)
-- [That Time a Fraternity Asked Me to Revamp Their Website...](https://dev.to/fullstackhoward/that-time-a-fraternity-asked-me-to-revamp-their-website-e3e)
+- [Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos](https://dev.to/antoniocardenas/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e)
+- [Ghosts in the Code: A Memorial Grove for Deleted AI](https://dev.to/beverley_williams_091cb75/ghosts-in-the-code-a-memorial-grove-for-deleted-ai-3a8e)
+- [How to Inject Service from DI Container to Marten Async Projection](https://dev.to/juliashevchenko/how-to-inject-service-from-di-container-to-marten-async-projection-4f77)
+- [Parametric and Non-Parametric tests](https://dev.to/roy_b5001e0ff9a27dea39641/parametric-and-non-parametric-tests-c40)
+- [Building Self-Correcting Database Agents with Meta&#39;s Llama-4-Scout: From Natural Language to SQL Insights](https://dev.to/angu10/building-self-correcting-database-agents-with-metas-llama-4-scout-from-natural-language-to-sql-2k0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
