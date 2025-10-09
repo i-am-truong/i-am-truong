@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Governments are spending billions on their own ‘sovereign’ AI technologies – is it a big waste of money?](https://dev.to/mabualzait/governments-are-spending-billions-on-their-own-sovereign-ai-technologies-is-it-a-big-waste-of-m37)
+- [Why stubborn bugs waste days](https://dev.to/csharp-programming/why-stubborn-bugs-waste-days-1g09)
+- [A Custom Reusable Delete Confirmation Modal Hook in ReactJS.](https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic)
 - [Working with SQL Date Comparisons](https://dev.to/dbvismarketing/working-with-sql-date-comparisons-4a9e)
 - [Free JSON to Dart Model Generator for Flutter Developers Save Hours of Coding](https://dev.to/maulikthakrar/free-json-to-dart-model-generator-for-flutter-developers-save-hours-of-coding-24a7)
-- [Indexing, Hashing](https://dev.to/mugiil_b_dc9b71601cba396/indexing-hashing-4j0i)
-- [ListOn - Directory &amp; Listing HTML Template](https://dev.to/packmycode/liston-directory-listing-html-template-dhc)
-- [New Here: Sharing a Small Hack That Finally Fixed My Reading Chaos](https://dev.to/readsoon/new-here-sharing-a-small-hack-that-finally-fixed-my-reading-chaos-37ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
