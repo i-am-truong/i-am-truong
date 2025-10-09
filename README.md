@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos](https://dev.to/antoniocardenas/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e)
+- [Grafana component in Meshery codebase.](https://dev.to/ramunarasinga-11/grafana-component-in-meshery-codebase-fk9)
+- [Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos](https://dev.to/angularfirebase/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e)
 - [Ghosts in the Code: A Memorial Grove for Deleted AI](https://dev.to/beverley_williams_091cb75/ghosts-in-the-code-a-memorial-grove-for-deleted-ai-3a8e)
 - [How to Inject Service from DI Container to Marten Async Projection](https://dev.to/juliashevchenko/how-to-inject-service-from-di-container-to-marten-async-projection-4f77)
 - [Parametric and Non-Parametric tests](https://dev.to/roy_b5001e0ff9a27dea39641/parametric-and-non-parametric-tests-c40)
-- [Building Self-Correcting Database Agents with Meta&#39;s Llama-4-Scout: From Natural Language to SQL Insights](https://dev.to/angu10/building-self-correcting-database-agents-with-metas-llama-4-scout-from-natural-language-to-sql-2k0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
