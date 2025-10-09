@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NetAssist App – A Free TCP/IP Network Debugging Tool for IoT Developers](https://dev.to/zediot/netassist-app-a-free-tcpip-network-debugging-tool-for-iot-developers-24mp)
-- [Apps SDK Tutorial](https://dev.to/akamite/apps-sdk-tutorial-4081)
-- [A Node.js Audit via Github Action to augment PR&#39;s](https://dev.to/boly38/a-nodejs-audit-via-github-action-to-augment-prs-3l2g)
-- [How to activate simple electronics with a Raspberry Pi?](https://dev.to/carolineee/how-to-activate-simple-electronics-with-a-raspberry-pi-3gip)
-- [Configuring ESP8266 Wi-Fi Network Connection Through A Web Page](https://dev.to/ibrahimgunduz34/configuring-esp8266-wi-fi-network-connection-through-a-web-page-562l)
+- [Building Scalable Multi-Agent Systems in a Day](https://dev.to/brains_behind_bots/building-scalable-multi-agent-systems-in-a-day-230k)
+- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-1e52)
+- [The Linux Programming Interface - Memory Mappings](https://dev.to/cangulmez/the-linux-programming-interface-memory-mappings-5f4h)
+- [Getting into the Virtual Environments: Dependency Isolation Like a Pro](https://dev.to/samcodes984/getting-into-the-virtual-environments-dependency-isolation-like-a-pro-5hkj)
+- [Building Elbow Arrows in Excalidraw &lpar;Part 1&rpar;](https://dev.to/marktolmacs/building-elbow-arrows-in-excalidraw-part-1-4h9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
