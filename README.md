@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DEV.to API v1 自动发布测试](https://dev.to/_85a948a4d50d6306d7ea9/devto-api-v1-zi-dong-fa-bu-ce-shi-fk5)
-- [Part-117: 🚀 Google Kubernetes Engine &lpar;GKE&rpar; — Vertical Pod Autoscaling &lpar;VPA&rpar;](https://dev.to/latchudevops/part-117-google-kubernetes-engine-gke-vertical-pod-autoscaling-vpa-3750)
-- [🚀 Why Docker, Kubernetes, and Microservices Are the Foundation of Scalable Applications](https://dev.to/steven_nguyen/why-docker-kubernetes-and-microservices-are-the-foundation-of-scalable-applications-291p)
-- [Improving Security with .NET Aspire](https://dev.to/ihonchar/improving-security-with-net-aspire-41m3)
-- [Neural Network-Based Anomaly Detection in CI/CD Pipelines: A Technical Overview](https://dev.to/lakshmi_prasadrongali_60/neural-network-based-anomaly-detection-in-cicd-pipelines-a-technical-overview-215l)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-54kd)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-12e3)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-3136)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-622)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-53ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
