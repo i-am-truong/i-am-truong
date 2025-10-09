@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌱 Introduction: Why Open Source Is the Soil We Grow In](https://dev.to/softwaredeveloper01/introduction-why-open-source-is-the-soil-we-grow-in-57cd)
+- [Universal LLM Agent Prompt Injection](https://dev.to/omarambat/universal-llm-agent-prompt-injection-4k5)
 - [PR-01 at Hacktoberfest: Google Maps E2E Testing — for hackathon-starter](https://dev.to/andersontsai/pr-01-at-hacktoberfest-google-maps-e2e-testing-for-hackathon-starter-15dk)
 - [Letting go PHP database migrations](https://dev.to/xwero/letting-go-php-database-migrations-5cpa)
 - [TCJSGame Speed.js: The 60 FPS Game Loop Revolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-speedjs-the-60-fps-game-loop-revolution-1ffo)
-- [My Journey As A Data Analyst](https://dev.to/oluwole_akinyele_/my-journey-as-a-data-analyst-37nj)
-- [How to Sync Git Repositories: A Complete Guide to Syncing Between Different Remote Repositories](https://dev.to/knitesh/how-to-sync-git-repositories-a-complete-guide-to-syncing-between-different-remote-repositories-2m0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
