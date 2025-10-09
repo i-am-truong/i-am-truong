@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Custom Alarm Codes: Creating Your Own Exceptions](https://dev.to/aaron_rose_0787cc8b4775a0/the-custom-alarm-codes-creating-your-own-exceptions-8oo)
+- [Is Web Development Fragmenting Into Too Many Stacks?](https://dev.to/lamri_abdellahramdane_15/is-web-development-fragmenting-into-too-many-stacks-3949)
+- [Sobre os critérios a serem usados na decomposição de Interfaces em Componentes e Módulos](https://dev.to/gurigraphics/sobre-os-criterios-a-serem-usados-na-decomposicao-de-interfaces-em-componentes-e-modulos-111a)
+- [Cómo usar Telegram y Discord para participar en airdrops de forma segura](https://dev.to/xavieroromay/como-usar-telegram-y-discord-para-participar-en-airdrops-de-forma-segura-ogj)
 - [On the Criteria To Be Used in Decomposing Interfaces into Components and Modules](https://dev.to/gurigraphics/on-the-criteria-to-be-used-in-decomposing-interfaces-into-components-and-modules-556m)
-- [How can you build great things and still feel UNSATISFIED? - my first startup experience](https://dev.to/mrezanahi_f133292cb4695d/how-can-you-build-great-things-and-still-feel-unsatisfied-my-first-startup-experience-2fjg)
-- [🧠 G1 vs ZGC vs Shenandoah: The Best Java Garbage Collector for Large Heaps &lpar;2025 Guide&rpar;](https://dev.to/theo_ezellwebmethodman/g1-vs-zgc-vs-shenandoah-the-best-java-garbage-collector-for-large-heaps-2025-guide-n1i)
-- [Anatomy of a package: @vanilla-extract/css](https://dev.to/ziyadshaikh013/anatomy-of-a-package-vanilla-extractcss-588e)
-- [How I safely tested a TurnKey CCTV appliance &lpar;lab workflow + mitigation playbook&rpar;](https://dev.to/seifeldienahmad/how-i-safely-tested-a-turnkey-cctv-appliance-lab-workflow-mitigation-playbook-141j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
