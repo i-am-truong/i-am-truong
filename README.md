@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
+- [Organizing Tests with Clarity: the Unfolding Tests Technique](https://dev.to/augustohub-br/organizing-tests-with-clarity-the-unfolding-tests-technique-195d)
 - [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-4b43)
 - [Organizando testes com clareza: a técnica do Unfolding Tests](https://dev.to/augustohub-br/pt-br-organizando-testes-com-clareza-a-tecnica-do-unfolding-tests-26d3)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1jhp)
 - [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-52k1)
-- [KEXP: Babe Rainbow - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-full-performance-live-on-kexp-3m06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
