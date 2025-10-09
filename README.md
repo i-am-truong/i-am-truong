@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Autonomous SDLC: How Specialised AI Agents are Unlocking the Future of Software Engineering](https://dev.to/kamlesh_soni_22251590c6b4/the-autonomous-sdlc-how-specialised-ai-agents-are-unlocking-the-future-of-software-engineering-30mj)
-- [Implementing Astro Pagination for Large Data](https://dev.to/lovestaco/implementing-astro-pagination-for-large-data-2jmk)
-- [TypeScript Important Concepts Every Developer Should Know](https://dev.to/srashtigupta/typescript-important-concepts-every-developer-should-know-4jma)
-- [Create a Kanban board with Rails and Hotwire](https://dev.to/railsdesigner/create-a-kanban-board-with-rails-and-hotwire-lcb)
-- [International technical standards that seek compliance in blockchain](https://dev.to/humbertoromanojr/international-technical-standards-that-seek-compliance-in-blockchain-2gjf)
+- [🤖 AI as Your QA Pair Buddy](https://dev.to/qa-leaders/ai-as-your-qa-pair-buddy-35h6)
+- [What’s your biggest pain when building APIs?](https://dev.to/jamal_omotoyosi_e056e574e/whats-your-biggest-pain-when-building-apis-4bdp)
+- [Can Blockchain Stop Online Fraud? Here’s Why It Still Falls Short](https://dev.to/juicyscore/can-blockchain-stop-online-fraud-heres-why-it-still-falls-short-44ig)
+- [Pair programming with Claude Code: using output styles](https://dev.to/shipyard/pair-programming-with-claude-code-using-output-styles-1l5j)
+- [Less is More: Building Beautiful Websites with Minimal CSS &lpar;A Developer&#39;s Guide to Semantic Simplicity&rpar;](https://dev.to/pullflow/less-is-more-building-beautiful-websites-with-minimal-css-a-developers-guide-to-semantic-3489)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
