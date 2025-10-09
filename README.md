@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of AI in Software Development: Strategies for Success](https://dev.to/mikeover/unlocking-the-power-of-ai-in-software-development-strategies-for-success-51mp)
-- [Golf.com: Tiger Encounters, Solheim Bets and Hot Golf Takes | Megan Khang on THE SCOOP](https://dev.to/youtube_golf/golfcom-tiger-encounters-solheim-bets-and-hot-golf-takes-megan-khang-on-the-scoop-1dja)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-g81)
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-3ibo)
-- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-5e5l)
+- [NVIDIA &lpar;NVDA&rpar; Stock Analysis: Is the AI Chip Leader Still a Smart Buy in 2025?](https://dev.to/safdar_meyka_012ecf3f1605/why-nvidias-nvda-stock-could-continue-to-soar-as-ai-and-data-center-demand-grow-1g81)
+- [The Asynchronous Request-Reply Pattern: Your Guide to Not Waiting Around Like a Chump](https://dev.to/igornosatov_15/the-asynchronous-request-reply-pattern-your-guide-to-not-waiting-around-like-a-chump-2k8h)
+- [Rendering Patterns in Next.js: CSR, SSR, SSG, ISR, RSC, PPR, and DPR](https://dev.to/farzankln/rendering-patterns-in-nextjs-csr-ssr-ssg-isr-rsc-ppr-and-dpr-3244)
+- [I built Clarion, an opensource AI Agent &amp; Context Engineering software](https://dev.to/ali_ghaedrahmat_8c538bdeb/i-built-clarion-an-opensource-ai-agent-context-engineering-software-1jai)
+- [从零到一：用“小模型 + 好数据”落地 AI 应用（2025 实战清单）](https://dev.to/_85a948a4d50d6306d7ea9/cong-ling-dao-yong-xiao-mo-xing-hao-shu-ju-luo-di-ai-ying-yong-2025-shi-zhan-qing-dan--9fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
