@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Compress Your JSON Data with DevUtilX JSON Minifier ⚙️](https://dev.to/akashbijwe/compress-your-json-data-with-devutilx-json-minifier-18cp)
-- [Time Tracking Software for Developers: The Ultimate Guide](https://dev.to/tmetric_timer_2b3a575fc8b/time-tracking-software-for-developers-the-ultimate-guide-313a)
-- [What technologies do you use for Android app development?](https://dev.to/maxtratechnology/what-technologies-do-you-use-for-android-app-development-76b)
-- [Building Perceptual Color Similarity Search with Amazon OpenSearch Service](https://dev.to/vidanov/building-perceptual-color-similarity-search-with-amazon-opensearch-service-4ph)
-- [How Hard is it to Learn Html? Debunking 7 Myths](https://dev.to/metana/how-hard-is-it-to-learn-html-debunking-7-myths-4ohh)
+- [There&#39;s a Whole Suite of Free, Open-Source Android Apps You Probably Didn&#39;t Know About](https://dev.to/shiva_shanker_k/theres-a-whole-suite-of-free-open-source-android-apps-you-probably-didnt-know-about-onc)
+- [Why People Say “F*** LeetCode”: Difficulty, Fairness, Real-World Value — and a Better Way](https://dev.to/alex_hunter_44f4c9ed6671e/why-people-say-f-leetcode-difficulty-fairness-real-world-value-and-a-better-way-1i80)
+- [CRUD Operations in MongoDB — Student Management System](https://dev.to/prabavathy_balagurusamy_2/crud-operations-in-mongodb-student-management-system-3m85)
+- [HELLO](https://dev.to/hellomaryamolaitan/hello-1j4g)
+- [Maximizing Lead Generation and Agent Productivity with Outbound Call Center Software](https://dev.to/deepijatelecom1/maximizing-lead-generation-and-agent-productivity-with-outbound-call-center-software-2on4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
