@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚨𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗙𝗿𝗮𝘂𝗱 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 𝗶𝗻 𝗝𝗮𝘃𝗮 — 𝗥𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 𝗗𝗲𝗳𝗲𝗻𝘀𝗲 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗠𝗼𝗱𝗲𝗿𝗻 𝗙𝗶𝗻𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸](https://dev.to/narednra_reddyyadama_d64/--26dd)
-- [CVE-2023-43770: Roundcube Webmail Persistent Cross-Site Scripting &lpar;XSS&rpar; Vulnerability](https://dev.to/freedom-coder/cve-2023-43770-roundcube-webmail-persistent-cross-site-scripting-xss-vulnerability-3nn8)
-- [The React Pattern That Changed How I Build Reusable Components](https://dev.to/priyankachettri/the-react-pattern-that-changed-how-i-build-reusable-components-k2o)
-- [CVE-2024-37383: RoundCube Webmail Cross-Site Scripting &lpar;XSS&rpar; Vulnerability](https://dev.to/freedom-coder/cve-2024-37383-roundcube-webmail-cross-site-scripting-xss-vulnerability-4oib)
-- [From “Defense” to “War”: The Software Engineer’s Guide to Rebranding Chaos](https://dev.to/hotfixhero/from-defense-to-war-the-software-engineers-guide-to-rebranding-chaos-4i4b)
+- [B2B Service](https://dev.to/arjun_pandit_d2609ad8e672/b2b-service-16n5)
+- [Boekenkasten met ladder: Praktisch en stijlvol voor hoge muren](https://dev.to/wehebbenallesinhuis/boekenkasten-met-ladder-praktisch-en-stijlvol-voor-hoge-muren-dkn)
+- [Unlocking the Power of GenAI in Enterprise Analytics](https://dev.to/ravi_teja_4/unlocking-the-power-of-genai-in-enterprise-analytics-2h1o)
+- [Is Your Fridge About to Become a Mind Reader? Welcome to the World of Generative AI!](https://dev.to/karthik_n/is-your-fridge-about-to-become-a-mind-reader-welcome-to-the-world-of-generative-ai-5600)
+- [How I Built a Free Online Carcassonne Game Alt You Can Play in the Browser](https://dev.to/erol4/how-i-built-a-free-online-carcassonne-game-alt-you-can-play-in-the-browser-2mgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
