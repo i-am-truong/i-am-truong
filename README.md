@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [pyaction reached 8 million pulls from the GitHub Container Registry](https://dev.to/cicirello/pyaction-reached-8-million-pulls-from-the-github-container-registry-1bk4)
+- [# 🧩 Next.js 16 Simplified: Understanding the `.next/dev` Folder](https://dev.to/saurav_dev_2022/-nextjs-16-simplified-understanding-the-nextdev-folder-4g0l)
+- [Coding Challenge Practice - Question 24](https://dev.to/tomivan/coding-challenge-practice-question-24-5a4j)
+- [Bring your own knowledge base: Agent Studio meets SurrealDB](https://dev.to/surrealdb/bring-your-own-knowledge-base-agent-studio-meets-surrealdb-32cm)
 - [When Disaster Strikes, Be the First Call: Branding Lessons for Restoration Pros](https://dev.to/angela_ash_6da09e1fd957c1/when-disaster-strikes-be-the-first-call-branding-lessons-for-restoration-pros-25cl)
-- [Google Veo 3.1 is on the way...](https://dev.to/ahmetmertugrul/google-veo-31-is-on-the-way-4jd0)
-- [Silence Can Be Golden &lpar;If You Learn How To Paint&rpar;](https://dev.to/duplessisvanaswegen/silence-can-be-golden-if-you-learn-how-to-paint-4eb4)
-- [5 Essential Command-Line Tools for Cybersecurity Beginners](https://dev.to/orioninsist/5-essential-command-line-tools-for-cybersecurity-beginners-4nh3)
-- [🚀 Blinter The Linter - A Cross Platform Batch Script Linter](https://dev.to/tboy1337/blinter-the-linter-a-cross-platform-batch-script-linter-158b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
