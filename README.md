@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Custom Alarm Codes: Creating Your Own Exceptions](https://dev.to/aaron_rose_0787cc8b4775a0/the-custom-alarm-codes-creating-your-own-exceptions-8oo)
-- [Is Web Development Fragmenting Into Too Many Stacks?](https://dev.to/lamri_abdellahramdane_15/is-web-development-fragmenting-into-too-many-stacks-3949)
-- [Sobre os critérios a serem usados na decomposição de Interfaces em Componentes e Módulos](https://dev.to/gurigraphics/sobre-os-criterios-a-serem-usados-na-decomposicao-de-interfaces-em-componentes-e-modulos-111a)
-- [Cómo usar Telegram y Discord para participar en airdrops de forma segura](https://dev.to/xavieroromay/como-usar-telegram-y-discord-para-participar-en-airdrops-de-forma-segura-ogj)
-- [On the Criteria To Be Used in Decomposing Interfaces into Components and Modules](https://dev.to/gurigraphics/on-the-criteria-to-be-used-in-decomposing-interfaces-into-components-and-modules-556m)
+- [PR-01 at Hacktoberfest: Google Maps E2E Testing — for hackathon-starter](https://dev.to/andersontsai/pr-01-at-hacktoberfest-google-maps-e2e-testing-for-hackathon-starter-15dk)
+- [Letting go PHP database migrations](https://dev.to/xwero/letting-go-php-database-migrations-5cpa)
+- [TCJSGame Speed.js: The 60 FPS Game Loop Revolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-speedjs-the-60-fps-game-loop-revolution-1ffo)
+- [My Journey As A Data Analyst](https://dev.to/oluwole_akinyele_/my-journey-as-a-data-analyst-37nj)
+- [How to Sync Git Repositories: A Complete Guide to Syncing Between Different Remote Repositories](https://dev.to/knitesh/how-to-sync-git-repositories-a-complete-guide-to-syncing-between-different-remote-repositories-2m0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
