@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DEV.to API v1 自动发布测试](https://dev.to/_85a948a4d50d6306d7ea9/devto-api-v1-zi-dong-fa-bu-ce-shi-fk5)
 - [Part-117: 🚀 Google Kubernetes Engine &lpar;GKE&rpar; — Vertical Pod Autoscaling &lpar;VPA&rpar;](https://dev.to/latchudevops/part-117-google-kubernetes-engine-gke-vertical-pod-autoscaling-vpa-3750)
+- [🚀 Why Docker, Kubernetes, and Microservices Are the Foundation of Scalable Applications](https://dev.to/steven_nguyen/why-docker-kubernetes-and-microservices-are-the-foundation-of-scalable-applications-291p)
+- [Improving Security with .NET Aspire](https://dev.to/ihonchar/improving-security-with-net-aspire-41m3)
 - [Neural Network-Based Anomaly Detection in CI/CD Pipelines: A Technical Overview](https://dev.to/lakshmi_prasadrongali_60/neural-network-based-anomaly-detection-in-cicd-pipelines-a-technical-overview-215l)
-- [Building a source-inspired game engine from scratch in C++ – Project32](https://dev.to/retroboi64/building-a-source-inspired-game-engine-from-scratch-in-c-project32-2k93)
-- [🏢 Why Spring Boot, Kafka, Oracle, and Tomcat Still Power the Enterprise in 2025](https://dev.to/steven_nguyen/why-spring-boot-kafka-oracle-and-tomcat-still-power-the-enterprise-in-2025-2pie)
-- [AI&#39;s Rapid Evolution: Models, Markets, and Mounting Ethical Concerns](https://dev.to/antony_brahin_f47b663f3a0/ais-rapid-evolution-models-markets-and-mounting-ethical-concerns-2hj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
