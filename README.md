@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3ko3)
-- [A Universal File Format N Times Faster Than CSV](https://dev.to/esproc_spl/a-universal-file-format-n-times-faster-than-csv-3k2b)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5472)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-ga3)
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-3a9k)
+- [Cursor + Trigger](https://dev.to/nava_nava_9da1144487604/cursor-trigger-432n)
+- [From Zero to 373 Days: How Daily LeetCode Challenges Transformed My Programming Journey 🔥](https://dev.to/hadil/from-zero-to-373-days-how-daily-leetcode-challenges-transformed-my-programming-journey-47o9)
+- [AI Marketing That Actually Works: A Senior Playbook for Automating, Accelerating, and Amplifying Results](https://dev.to/dakrsize/ai-marketing-that-actually-works-a-senior-playbook-for-automating-accelerating-and-amplifying-4kjd)
+- [How AI Chatbots Are Transforming Customer Support in 2025](https://dev.to/ryan-mathews/how-ai-chatbots-are-transforming-customer-support-in-2025-c0i)
+- [How to Choose the Right Automated Testing Tools for Your Tech Stack?](https://dev.to/sophielane/how-to-choose-the-right-automated-testing-tools-for-your-tech-stack-189)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
