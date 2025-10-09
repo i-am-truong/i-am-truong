@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Shopping, Better Deals: Why a Flipkart Data Extractor Matters to Everyday Shoppers](https://dev.to/mcatee/smarter-shopping-better-deals-why-a-flipkart-data-extractor-matters-to-everyday-shoppers-3n26)
-- [How to Build an Auction App MVP in 30 Days](https://dev.to/aartijangid23/how-to-build-an-auction-app-mvp-in-30-days-hd8)
-- [从零到一：用“小模型 + 好数据”落地 AI 应用（2025 实战清单）](https://dev.to/_85a948a4d50d6306d7ea9/cong-ling-dao-yong-xiao-mo-xing-hao-shu-ju-luo-di-ai-ying-yong-2025-shi-zhan-qing-dan--4gk0)
-- [Security Awareness Training: Empowering Employees to Defend Against Cyber Threats](https://dev.to/writegenic/security-awareness-training-empowering-employees-to-defend-against-cyber-threats-1ch1)
-- [Your Digital Life is About to Get a Major Upgrade: 4 Revelations from the Coming Web4 Identity System UIID](https://dev.to/web4/your-digital-life-is-about-to-get-a-major-upgrade-4-revelations-from-the-coming-web4-identity-1iio)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-481j)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-16jg)
+- [Golf.com: Tiger Encounters, Solheim Bets and Hot Golf Takes | Megan Khang on THE SCOOP](https://dev.to/youtube_golf/golfcom-tiger-encounters-solheim-bets-and-hot-golf-takes-megan-khang-on-the-scoop-1dja)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-g81)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-3ibo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
