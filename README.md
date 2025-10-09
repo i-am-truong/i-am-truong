@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_40446303/that-real-time-headache-its-not-the-websockets-its-your-framework-1hg3)
+- [ReScript 2025 — The Top JavaScript Alternative &lpar;Tech Deep Dive&rpar;](https://dev.to/cristiansifuentes/rescript-2025-the-top-javascript-alternative-tech-deep-dive-d0g)
+- [🌍 My Journey with React Leaflet: Learning to Build an Interactive Map](https://dev.to/minoosh/my-journey-with-react-leaflet-learning-to-build-an-interactive-map-ef9)
+- [11+ Best All-in-One AI Platforms for Developers and Teams](https://dev.to/vinishbhaskar/11-best-all-in-one-ai-platforms-for-developers-and-teams-319l)
 - [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3b59)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-313h)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-5foh)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-daa)
-- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-3ih8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
