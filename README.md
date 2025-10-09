@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a RAG from Scratch: A Beginner&#39;s Guide &lpar;Part 3: Dockerization and Flexible Configuration&rpar;](https://dev.to/hadywalied/building-a-rag-from-scratch-a-beginners-guide-part-3-dockerization-and-flexible-configuration-33kb)
+- [Bolt vs. Lovable vs. Kombai: Which AI Agent Is Best for Production-Ready Frontend?](https://dev.to/cesscode/bolt-vs-lovable-vs-kombai-which-ai-agent-is-best-for-production-ready-frontend-4og7)
+- [Deploying n8n to AWS with Defang](https://dev.to/toki_hossain/deploying-n8n-to-aws-with-defang-2056)
+- [Ng-News 25/40: Q&amp;A on Zoneless, @angular/aria &lpar;???&rpar;](https://dev.to/this-is-angular/ng-news-2540-qa-on-zoneless-angulararia--1ocm)
 - [Heroku &quot;Back to School&quot; AI Challenge: Winner Announcement Delayed](https://dev.to/devteam/heroku-back-to-school-ai-challenge-winner-announcement-delayed-1h4b)
-- [Free Developer Portfolio Template — Build Your Personal Website in Minutes &lpar;2026 Edition&rpar;](https://dev.to/aureathemes/free-developer-portfolio-template-build-your-personal-website-in-minutes-2026-edition-fkm)
-- [10 Most Common Terminal Commands Explained To A Beginner 😎](https://dev.to/kevmongare/10-most-common-terminal-commands-explained-to-a-beginner-2i78)
-- [Anonio — Anonymous E2E Chat with Voice &amp; Video](https://dev.to/m6jo9/anonio-anonymous-e2e-chat-with-voice-video-56ki)
-- [Smartwatch vs Fitness Tracker: Making the Right Choice](https://dev.to/phoneexits/smartwatch-vs-fitness-tracker-making-the-right-choice-4ai2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
