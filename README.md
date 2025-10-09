@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried NativeMind, a Local Browser AI That Speeds Up Research and Keeps My Data Private](https://dev.to/nitinfab/i-tried-nativemind-a-local-browser-ai-that-speeds-up-research-and-keeps-my-data-private-3kf8)
-- [Hardware ID Spoofer: What is an HWID Spoofer?](https://dev.to/duongoman/hardware-id-spoofer-what-is-an-hwid-spoofer-2eoi)
-- [React Conf 2025 resumo: 10 anos, 4M downloads semanais e muita coisa nova](https://dev.to/tuliocalil/react-conf-2025-resumo-10-anos-4m-downloads-semanais-e-muita-coisa-nova-362h)
-- [🧠 What’s New in Red Hat OpenShift 4.19: Deep Dive into the Future of AI &amp; Hybrid Cloud](https://dev.to/sindhuja_ns_1e491ce1088d/whats-new-in-red-hat-openshift-419-deep-dive-into-the-future-of-ai-hybrid-cloud-1fge)
-- [CockroachDB Graceful Shutdowns](https://dev.to/cockroachlabs/cockroachdb-graceful-shutdowns-4dn)
+- [LLPY-04: Vectorización y Embeddings - Preparando Datos para RAG](https://dev.to/jesus_oviedoriquelme_084/llpy-04-vectorizacion-y-embeddings-preparando-datos-para-rag-3o40)
+- [HTTP status VS response body](https://dev.to/epigene/http-status-vs-response-body-1f8c)
+- [Day 2: Understanding Client-Server Architecture &amp; How Websites Work](https://dev.to/bblackwind/day-2-understanding-client-server-architecture-how-websites-work-5dgc)
+- [AWS just launched Skills Profile on AWS Skill Builder.](https://dev.to/kraisorn_prasoetsang/aws-just-launched-skills-profile-on-aws-skill-builder-5460)
+- [@LazySorted - Collections that optimize themselves. How useful?](https://dev.to/tao_dad_6e07b6dbc1fda07bd/lazysorted-collections-that-optimize-themselves-how-useful-33pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
