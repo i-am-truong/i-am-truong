@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [B2B Service](https://dev.to/arjun_pandit_d2609ad8e672/b2b-service-16n5)
-- [Boekenkasten met ladder: Praktisch en stijlvol voor hoge muren](https://dev.to/wehebbenallesinhuis/boekenkasten-met-ladder-praktisch-en-stijlvol-voor-hoge-muren-dkn)
-- [Unlocking the Power of GenAI in Enterprise Analytics](https://dev.to/ravi_teja_4/unlocking-the-power-of-genai-in-enterprise-analytics-2h1o)
-- [Is Your Fridge About to Become a Mind Reader? Welcome to the World of Generative AI!](https://dev.to/karthik_n/is-your-fridge-about-to-become-a-mind-reader-welcome-to-the-world-of-generative-ai-5600)
-- [How I Built a Free Online Carcassonne Game Alt You Can Play in the Browser](https://dev.to/erol4/how-i-built-a-free-online-carcassonne-game-alt-you-can-play-in-the-browser-2mgd)
+- [Successfully made my first pull request today for Rocjet Technologies Ltd](https://dev.to/calchiwo/successfully-made-my-first-pull-request-today-for-rocjet-technologies-ltd-35mg)
+- [Day 32 of me coding games on my phone](https://dev.to/calchiwo/day-32-of-me-coding-games-on-my-phone-4jfb)
+- [Food distribution portal](https://dev.to/rushikesh_pundkar_913318c/food-distribution-portal-5h30)
+- [Building Smarter Virtual Wallets: The Next Frontier for Fintech Developers](https://dev.to/rejoice_shalomagtagma_1c/building-smarter-virtual-wallets-the-next-frontier-for-fintech-developers-3e1e)
+- [Linux Commands — nohup, Zip &amp; Disk Management](https://dev.to/nivethithaa_saravanavel_3/linux-commands-nohup-zip-disk-management-209b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
