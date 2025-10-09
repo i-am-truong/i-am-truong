@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day - 4 of Web development](https://dev.to/prakash_b/day-4-of-web-development-47hf)
-- [How EHRs Are Building Trust and Transparency Between Hospitals and Patients](https://dev.to/riomed_ltd_f8eba49b10521f/how-ehrs-are-building-trust-and-transparency-between-hospitals-and-patients-4ekp)
-- [Why Brute Force Attacks Fail More Often Today](https://dev.to/terminaltools/why-brute-force-attacks-fail-more-often-today-224b)
-- [🎯 CSS Trick: Center Anything Perfectly &lpar;No More Headaches!&rpar;](https://dev.to/devhabib/css-trick-center-anything-perfectly-no-more-headaches-76p)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_06022d8b/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1bp3)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3ko3)
+- [A Universal File Format N Times Faster Than CSV](https://dev.to/esproc_spl/a-universal-file-format-n-times-faster-than-csv-3k2b)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5472)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-ga3)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-3a9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
