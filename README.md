@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/aryan_panwala/-1fg0)
-- [[Boost]](https://dev.to/nikhil_sachapara/-38ag)
-- [LLM 서빙, 왜 Ray 여야만 했을까?](https://dev.to/shingyeongseon/llm-seobing-wae-ray-yeoyaman-haesseulgga-2noa)
-- [I Tried 500+ New AI Tools, and Honestly, These Will Blow Your Mind](https://dev.to/nitinfab/i-tried-500-new-ai-tools-and-honestly-these-will-blow-your-mind-230h)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_40446303/that-real-time-headache-its-not-the-websockets-its-your-framework-1hg3)
+- [Pair programming with AI isn’t about outsourcing your thinking; it’s about enhancing your creativity.
+
+It gives you more mental bandwidth to focus on architecture, design, and problem-solving while automating the boring parts.](https://dev.to/jaideepparashar/pair-programming-with-ai-isnt-about-outsourcing-your-thinking-its-about-enhancing-your-3llg)
+- [AI-Powered Pair Programming: How I Code Faster and Learn More with ChatGPT](https://dev.to/jaideepparashar/ai-powered-pair-programming-how-i-code-faster-and-learn-more-with-chatgpt-2lj3)
+- [Envisioning SagaV: a Tarot-Themed Mocktail Brand](https://dev.to/paaaarv/envisioning-sagav-a-tarot-themed-mocktail-brand-1dkp)
+- [Cursor +Trigger](https://dev.to/mugiil_b_dc9b71601cba396/cursor-trigger-2b55)
+- [The Hidden Backdoor in Your App: Fixing API Security Before It&#39;s Too Late](https://dev.to/vaibhav_shakya_e6b352bfc4/the-hidden-backdoor-in-your-app-fixing-api-security-before-its-too-late-15gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
