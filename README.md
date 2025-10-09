@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLPY-04: Vectorización y Embeddings - Preparando Datos para RAG](https://dev.to/jesus_oviedoriquelme_084/llpy-04-vectorizacion-y-embeddings-preparando-datos-para-rag-3o40)
-- [HTTP status VS response body](https://dev.to/epigene/http-status-vs-response-body-1f8c)
-- [Day 2: Understanding Client-Server Architecture &amp; How Websites Work](https://dev.to/bblackwind/day-2-understanding-client-server-architecture-how-websites-work-5dgc)
-- [AWS just launched Skills Profile on AWS Skill Builder.](https://dev.to/kraisorn_prasoetsang/aws-just-launched-skills-profile-on-aws-skill-builder-5460)
-- [@LazySorted - Collections that optimize themselves. How useful?](https://dev.to/tao_dad_6e07b6dbc1fda07bd/lazysorted-collections-that-optimize-themselves-how-useful-33pm)
+- [How I helped Revamp an Organization&#39;s Online Presence](https://dev.to/fullstackhoward/how-i-helped-revamp-an-organizations-online-presence-5b9l)
+- [Keys, Queues, and Quiet UIs: A Rental Website Blueprint That Converts](https://dev.to/yojaira_finkle_c0f32b18b1/keys-queues-and-quiet-uis-a-rental-website-blueprint-that-converts-fc5)
+- [Junie Starter’s Pack: AI Coding Agent Explained](https://dev.to/jetbrains/junie-starters-pack-ai-coding-agent-explained-2hjf)
+- [💡 Ideias de SaaS Baseadas nas Tendências: atlético-mg x sport recife, restaurante jamile, cuiabá x novorizontino](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-atletico-mg-x-sport-recife-restaurante-jamile-cuiaba-x-58kn)
+- [That Time a Fraternity Asked Me to Revamp Their Website...](https://dev.to/fullstackhoward/that-time-a-fraternity-asked-me-to-revamp-their-website-e3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
