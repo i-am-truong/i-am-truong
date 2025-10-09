@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day - 4 of Web development](https://dev.to/prakash_b/day-4-of-web-development-47hf)
+- [How EHRs Are Building Trust and Transparency Between Hospitals and Patients](https://dev.to/riomed_ltd_f8eba49b10521f/how-ehrs-are-building-trust-and-transparency-between-hospitals-and-patients-4ekp)
 - [Why Brute Force Attacks Fail More Often Today](https://dev.to/terminaltools/why-brute-force-attacks-fail-more-often-today-224b)
-- [Access HubSpot Marketing Webinars Instantly via iTunes in 2025](https://dev.to/gooday_marlon_5cf7e1f4841/access-hubspot-marketing-webinars-instantly-via-itunes-in-2025-5c3n)
-- [When Frontend Becomes a Feeling, Not a Framework](https://dev.to/dct_technology/when-frontend-becomes-a-feeling-not-a-framework-3pfi)
-- [When Frontend Becomes a Feeling, Not a Framework](https://dev.to/dct_technology/when-frontend-becomes-a-feeling-not-a-framework-4ph)
-- [.](https://dev.to/sahil_kumar_fca803a0f3c8c/-47do)
+- [🎯 CSS Trick: Center Anything Perfectly &lpar;No More Headaches!&rpar;](https://dev.to/devhabib/css-trick-center-anything-perfectly-no-more-headaches-76p)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_06022d8b/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1bp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
