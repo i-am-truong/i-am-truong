@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [6 Features You Can Deliver Instantly with HTML Editor Software](https://dev.to/ideradevtools/6-features-you-can-deliver-instantly-with-html-editor-software-287a)
-- [Learning Next.js by building my own project](https://dev.to/fullstackhoward/learning-nextjs-by-building-my-own-project-4231)
-- [Tying It All Together: Your Map to Better Go Architecture](https://dev.to/jfeliu007/tying-it-all-together-your-map-to-better-go-architecture-8l2)
-- [Hacktoberfest 2025 is Live – Start Contributing Now! 🚀](https://dev.to/hariompandit/hacktoberfest-2025-is-live-start-contributing-now-4i0m)
-- [My Dev Journey Began with a Music Site](https://dev.to/fullstackhoward/my-dev-journey-began-with-a-music-site-5g1k)
+- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-4b43)
+- [Organizando testes com clareza: a técnica do Unfolding Tests](https://dev.to/augustohub-br/pt-br-organizando-testes-com-clareza-a-tecnica-do-unfolding-tests-26d3)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1jhp)
+- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-52k1)
+- [KEXP: Babe Rainbow - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-full-performance-live-on-kexp-3m06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
