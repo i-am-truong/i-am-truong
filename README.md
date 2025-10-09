@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG from Scratch: A Beginner&#39;s Guide &lpar;Part 3: Dockerization and Flexible Configuration&rpar;](https://dev.to/hadywalied/building-a-rag-from-scratch-a-beginners-guide-part-3-dockerization-and-flexible-configuration-33kb)
-- [Bolt vs. Lovable vs. Kombai: Which AI Agent Is Best for Production-Ready Frontend?](https://dev.to/cesscode/bolt-vs-lovable-vs-kombai-which-ai-agent-is-best-for-production-ready-frontend-4og7)
-- [Deploying n8n to AWS with Defang](https://dev.to/toki_hossain/deploying-n8n-to-aws-with-defang-2056)
-- [Ng-News 25/40: Q&amp;A on Zoneless, @angular/aria &lpar;???&rpar;](https://dev.to/this-is-angular/ng-news-2540-qa-on-zoneless-angulararia--1ocm)
-- [Heroku &quot;Back to School&quot; AI Challenge: Winner Announcement Delayed](https://dev.to/devteam/heroku-back-to-school-ai-challenge-winner-announcement-delayed-1h4b)
+- [The Right Way to Handle 404s in Angular SPAs with Nginx](https://dev.to/uwancha/the-right-way-to-handle-404s-in-angular-spas-with-nginx-10cd)
+- [Set &amp; Frozenset functions in Python &lpar;7&rpar;](https://dev.to/hyperkai/set-frozenset-functions-in-python-7-409i)
+- [Set &amp; Frozenset functions in Python &lpar;6&rpar;](https://dev.to/hyperkai/set-frozenset-functions-in-python-6-1g54)
+- [tcount](https://dev.to/query_filter_591122b53770/tcount-14fm)
+- [Set &amp; Frozenset functions in Python &lpar;5&rpar;](https://dev.to/hyperkai/set-frozenset-functions-in-python-5-5gm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
