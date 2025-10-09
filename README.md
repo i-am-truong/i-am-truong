@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java OutOfMemoryError: Causes, Prevention, and Solutions](https://dev.to/shubham_joshi_expert/java-outofmemoryerror-causes-prevention-and-solutions-56no)
-- [Governments are spending billions on their own ‘sovereign’ AI technologies – is it a big waste of money?](https://dev.to/mabualzait/governments-are-spending-billions-on-their-own-sovereign-ai-technologies-is-it-a-big-waste-of-m37)
-- [Why stubborn bugs waste days](https://dev.to/csharp-programming/why-stubborn-bugs-waste-days-1g09)
-- [A Custom Reusable Delete Confirmation Modal Hook in ReactJS.](https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic)
-- [Working with SQL Date Comparisons](https://dev.to/dbvismarketing/working-with-sql-date-comparisons-4a9e)
+- [The Magic of Client &amp; Server Validation : How Your App Knows You Typed Your Email Wrong](https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p)
+- [Building a Multi-Protocol IoT Gateway with OpenMQTTGateway and ESP32](https://dev.to/zediot/building-a-multi-protocol-iot-gateway-with-openmqttgateway-and-esp32-52dg)
+- [Earn Passive Income Selling Prompts: A Senior Playbook That Actually Works](https://dev.to/tsaplina_elena/earn-passive-income-selling-prompts-a-senior-playbook-that-actually-works-17ad)
+- [CSS Layout Techniques: Block, Inline, and Inline-Block](https://dev.to/sharique_siddiqui_8242dad/css-layout-techniques-block-inline-and-inline-block-2pb5)
+- [Vibe Coding: AI Gives You Expert Hands, Not Expert Judgment](https://dev.to/emirbelkahia/vibe-coding-ai-gives-you-expert-hands-not-expert-judgment-4em2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
