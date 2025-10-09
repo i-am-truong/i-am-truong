@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Successfully made my first pull request today for Rocjet Technologies Ltd](https://dev.to/calchiwo/successfully-made-my-first-pull-request-today-for-rocjet-technologies-ltd-35mg)
-- [Day 32 of me coding games on my phone](https://dev.to/calchiwo/day-32-of-me-coding-games-on-my-phone-4jfb)
-- [Food distribution portal](https://dev.to/rushikesh_pundkar_913318c/food-distribution-portal-5h30)
-- [Building Smarter Virtual Wallets: The Next Frontier for Fintech Developers](https://dev.to/rejoice_shalomagtagma_1c/building-smarter-virtual-wallets-the-next-frontier-for-fintech-developers-3e1e)
-- [Linux Commands — nohup, Zip &amp; Disk Management](https://dev.to/nivethithaa_saravanavel_3/linux-commands-nohup-zip-disk-management-209b)
+- [The Adventures of Blink S4e6: Blink vs. The Gilded Rose: Briefing](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e6-blink-vs-the-gilded-rose-briefing-403p)
+- [Introducing Sora 2 AI: Revolutionizing Video Creation with Advanced AI Technology](https://dev.to/c_jordi_666570f401c202c50/introducing-sora-2-ai-revolutionizing-video-creation-with-advanced-ai-technology-18f0)
+- [My War with AI Agents: When 1000-Line Prompts Met Reality](https://dev.to/xor01/my-war-with-ai-agents-when-1000-line-prompts-met-reality-j5n)
+- [Problem with flutter webview on Android - I cannot create dynamically iframes](https://dev.to/chingiz_i_d177cab3ed5d28f/problem-with-flutter-webview-on-android-i-cannot-create-dynamically-iframes-2dna)
+- [Why Corporate Alumni &amp; Retiree Networks Are a 2025 Must-Have](https://dev.to/shalom_guillermo_ecc62079/why-corporate-alumni-retiree-networks-are-a-2025-must-have-31h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
