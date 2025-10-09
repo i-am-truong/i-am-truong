@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Disaster Strikes, Be the First Call: Branding Lessons for Restoration Pros](https://dev.to/angela_ash_6da09e1fd957c1/when-disaster-strikes-be-the-first-call-branding-lessons-for-restoration-pros-25cl)
+- [Google Veo 3.1 is on the way...](https://dev.to/ahmetmertugrul/google-veo-31-is-on-the-way-4jd0)
+- [Silence Can Be Golden &lpar;If You Learn How To Paint&rpar;](https://dev.to/duplessisvanaswegen/silence-can-be-golden-if-you-learn-how-to-paint-4eb4)
 - [5 Essential Command-Line Tools for Cybersecurity Beginners](https://dev.to/orioninsist/5-essential-command-line-tools-for-cybersecurity-beginners-4nh3)
 - [🚀 Blinter The Linter - A Cross Platform Batch Script Linter](https://dev.to/tboy1337/blinter-the-linter-a-cross-platform-batch-script-linter-158b)
-- [FSM_API: The Pure C# Core That Decouples Your Logic from Any Engine](https://dev.to/trent_best_ca8617e4911baf/fsmapi-the-pure-c-core-that-decouples-your-logic-from-any-engine-1d0j)
-- [Manipulative UX: How Design Tricks Quietly Shape Your Choices](https://dev.to/devtechinsights/manipulative-ux-how-design-tricks-quietly-shape-your-choices-2458)
-- [&quot;Unlocking the Future of Language: A Leap Forward in AI-Powe](https://dev.to/drcarlosruizviquez/unlocking-the-future-of-language-a-leap-forward-in-ai-powe-49il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
