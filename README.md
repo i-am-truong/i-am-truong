@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building a Serverless TODO App with AWS + Vercel — My First End-to-End Project](https://dev.to/balaji_sivakumar_e7a4b07a/building-a-serverless-todo-app-with-aws-vercel-my-first-end-to-end-project-51bj)
-- [Jest is mocking you](https://dev.to/betofrega/jest-is-mocking-you-1egg)
-- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-2d5j)
-- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-3kle)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-1l97)
+- [How can you build great things and still feel UNSATISFIED? - my first startup experience](https://dev.to/mrezanahi_f133292cb4695d/how-can-you-build-great-things-and-still-feel-unsatisfied-my-first-startup-experience-2fjg)
+- [🧠 G1 vs ZGC vs Shenandoah: The Best Java Garbage Collector for Large Heaps &lpar;2025 Guide&rpar;](https://dev.to/theo_ezellwebmethodman/g1-vs-zgc-vs-shenandoah-the-best-java-garbage-collector-for-large-heaps-2025-guide-n1i)
+- [Anatomy of a package: @vanilla-extract/css](https://dev.to/ziyadshaikh013/anatomy-of-a-package-vanilla-extractcss-588e)
+- [Tutorial: Despliega una web estática en AWS con CDK](https://dev.to/chainiz/tutorial-despliega-una-web-estatica-en-aws-con-cdk-15l7)
+- [50 Most Useful Angular Snippets](https://dev.to/softwaredeveloper01/50-most-useful-angular-snippets-37h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
