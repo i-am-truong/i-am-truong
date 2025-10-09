@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-481j)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-16jg)
+- [Unlocking the Power of AI in Software Development: Strategies for Success](https://dev.to/mikeover/unlocking-the-power-of-ai-in-software-development-strategies-for-success-51mp)
 - [Golf.com: Tiger Encounters, Solheim Bets and Hot Golf Takes | Megan Khang on THE SCOOP](https://dev.to/youtube_golf/golfcom-tiger-encounters-solheim-bets-and-hot-golf-takes-megan-khang-on-the-scoop-1dja)
 - [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-g81)
 - [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-3ibo)
+- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-5e5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
