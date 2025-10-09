@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Spreadsheet App with React, NestJS](https://dev.to/steven_nguyen_a71cdaca6cc/how-i-built-a-collaborative-excel-sheet-app-with-react-handsontable-nestjs-graphql-and-mongodb-4ah6)
-- [Title: iOS 26 Beta Compatibility: Which iPhones Can Download It Today?](https://dev.to/yagyaraj_sharma_6cd410179/title-ios-26-beta-compatibility-which-iphones-can-download-it-today-11kf)
-- [When applying the subplot&lpar;&rpar; function in Matplotlib, its position is important](https://dev.to/onaolapo11/when-applying-the-subplot-function-in-matplotlib-its-position-is-important-1a10)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-5896)
-- [Title: Best Practices for Variable Naming in Python](https://dev.to/yagyaraj_sharma_6cd410179/title-best-practices-for-variable-naming-in-python-dc4)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-4mfe)
+- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-4fm)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-14f6)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-ei8)
+- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-2jk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
