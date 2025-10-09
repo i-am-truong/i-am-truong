@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Right Way to Handle 404s in Angular SPAs with Nginx](https://dev.to/uwancha/the-right-way-to-handle-404s-in-angular-spas-with-nginx-10cd)
-- [Set &amp; Frozenset functions in Python &lpar;7&rpar;](https://dev.to/hyperkai/set-frozenset-functions-in-python-7-409i)
-- [Set &amp; Frozenset functions in Python &lpar;6&rpar;](https://dev.to/hyperkai/set-frozenset-functions-in-python-6-1g54)
-- [tcount](https://dev.to/query_filter_591122b53770/tcount-14fm)
-- [Set &amp; Frozenset functions in Python &lpar;5&rpar;](https://dev.to/hyperkai/set-frozenset-functions-in-python-5-5gm1)
+- [MRZ on Passports &amp; Driver’s Licenses: A Practical Privacy &amp; Security Guide &lpar;2025&rpar;](https://dev.to/editable_templates_1228a8/mrz-on-passports-drivers-licenses-a-practical-privacy-security-guide-2025-1amb)
+- [Networking Basics: IP, TPS, and Beyond 🌐](https://dev.to/stasxreal/networking-basics-ip-tps-and-beyond-4g28)
+- [Creating and Restoring Disk Images on macOS: A Guide to Using dd and diskutil](https://dev.to/maxim_radugin/creating-and-restoring-disk-images-on-macos-a-guide-to-using-dd-and-diskutil-34a7)
+- [What are LLMs and Why They’re Changing Dev Work](https://dev.to/stasxreal/what-are-llms-and-why-theyre-changing-dev-work-2gm4)
+- [How to install tailscale on your Unifi router &lpar;UDM&rpar;](https://dev.to/coltonidle/how-to-install-tailscale-on-your-unifi-router-udm-5a35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
