@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Conditions Diagnosed with an EEG: Discover What This Test Can Detect](https://dev.to/shadab_shaikh_7ba6481c1ae/10-conditions-diagnosed-with-an-eeg-discover-what-this-test-can-detect-5epc)
+- [How Modular Architecture Simplifies the Development of Modern Slot Games](https://dev.to/bob_packer_7c9018a4d1a1f1/how-modular-architecture-simplifies-the-development-of-modern-slot-games-333c)
+- [How to Create a Video Streaming App Like Netflix: Features, Tech Stack &amp; Growth Strategy](https://dev.to/hiphype_co_0a139c177aa4ca/how-to-create-a-video-streaming-app-like-netflix-features-tech-stack-growth-strategy-1bco)
 - [How to Upgrade AWS EKS Node Groups Without Downtime &lpar;Step-by-Step Guide&rpar;](https://dev.to/ifedayo/how-to-upgrade-aws-eks-node-groups-without-downtime-step-by-step-guide-4lgm)
 - [MVVM para Iniciantes: Desvendando o Padrão de Arquitetura](https://dev.to/gabrielteixeira44/mvvm-para-iniciantes-desvendando-o-padrao-de-arquitetura-2dna)
-- [The Adventures of Blink S4e6: Blink vs. The Gilded Rose: Briefing](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e6-blink-vs-the-gilded-rose-briefing-403p)
-- [Introducing Sora 2 AI: Revolutionizing Video Creation with Advanced AI Technology](https://dev.to/c_jordi_666570f401c202c50/introducing-sora-2-ai-revolutionizing-video-creation-with-advanced-ai-technology-18f0)
-- [My War with AI Agents: When 1000-Line Prompts Met Reality](https://dev.to/xor01/my-war-with-ai-agents-when-1000-line-prompts-met-reality-j5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
