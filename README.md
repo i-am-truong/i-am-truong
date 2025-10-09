@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MRZ on Passports &amp; Driver’s Licenses: A Practical Privacy &amp; Security Guide &lpar;2025&rpar;](https://dev.to/editable_templates_1228a8/mrz-on-passports-drivers-licenses-a-practical-privacy-security-guide-2025-1amb)
-- [Networking Basics: IP, TPS, and Beyond 🌐](https://dev.to/stasxreal/networking-basics-ip-tps-and-beyond-4g28)
-- [Creating and Restoring Disk Images on macOS: A Guide to Using dd and diskutil](https://dev.to/maxim_radugin/creating-and-restoring-disk-images-on-macos-a-guide-to-using-dd-and-diskutil-34a7)
-- [What are LLMs and Why They’re Changing Dev Work](https://dev.to/stasxreal/what-are-llms-and-why-theyre-changing-dev-work-2gm4)
-- [How to install tailscale on your Unifi router &lpar;UDM&rpar;](https://dev.to/coltonidle/how-to-install-tailscale-on-your-unifi-router-udm-5a35)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4ip9)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-31h)
+- [KEXP: Hunx and His Punx - Wild Boys &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-wild-boys-live-on-kexp-4fm4)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4jbp)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-5eg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
