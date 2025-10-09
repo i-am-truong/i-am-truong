@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What technologies do you use for Android app development?](https://dev.to/maxtratechnology/what-technologies-do-you-use-for-android-app-development-76b)
+- [Building Perceptual Color Similarity Search with Amazon OpenSearch Service](https://dev.to/vidanov/building-perceptual-color-similarity-search-with-amazon-opensearch-service-4ph)
+- [How Hard is it to Learn Html? Debunking 7 Myths](https://dev.to/metana/how-hard-is-it-to-learn-html-debunking-7-myths-4ohh)
 - [Building Scalable Multi-Agent Systems in a Day](https://dev.to/brains_behind_bots/building-scalable-multi-agent-systems-in-a-day-230k)
 - [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-1e52)
-- [The Linux Programming Interface - Memory Mappings](https://dev.to/cangulmez/the-linux-programming-interface-memory-mappings-5f4h)
-- [Getting into the Virtual Environments: Dependency Isolation Like a Pro](https://dev.to/samcodes984/getting-into-the-virtual-environments-dependency-isolation-like-a-pro-5hkj)
-- [Building Elbow Arrows in Excalidraw &lpar;Part 1&rpar;](https://dev.to/marktolmacs/building-elbow-arrows-in-excalidraw-part-1-4h9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
