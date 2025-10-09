@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-4mfe)
-- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-4fm)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-14f6)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-ei8)
-- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-2jk3)
+- [React Question &amp; Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-234l)
+- [Building Vajra: My Journey Creating an AI Coding Assistant](https://dev.to/ashish_sharda_a540db2e50e/building-vajra-my-journey-creating-an-ai-coding-assistant-4i08)
+- [I Create Classic CSS Framework 🎉 🎉](https://dev.to/we-the-developers/i-create-classic-css-framework-l00)
+- [From Intelligence Expert to AI Business Leader: A Surprising Path](https://dev.to/adam-knitli/from-intelligence-expert-to-ai-business-leader-a-surprising-path-4gj7)
+- [How I created a Java e-commerce platform when I just wanted to help my brother](https://dev.to/ruslan5t/how-i-created-a-java-e-commerce-platform-when-i-just-wanted-to-help-my-brother-3pmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
