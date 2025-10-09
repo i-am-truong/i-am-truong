@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Nationwide Bowling Directory with Replit, Next.js, and AI](https://dev.to/gbae420/how-i-built-a-nationwide-bowling-directory-with-replit-nextjs-and-ai-3968)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_40446303/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-5h6)
-- [The Python Web Stack You&#39;ve Never Heard Of: Building Apps Without Frontend Code](https://dev.to/daisyauma/the-python-web-stack-youve-never-heard-of-building-apps-without-frontend-code-4oj5)
-- [Hi everyone, 
-
-I&#39;m Siddarth, and I&#39;m new here. I&#39;m currently learning DevOps tools and, as an enthusiast, looking to contribute to a few open-source projects. Could anyone please recommend some projects to me here?](https://dev.to/siddarthareddy_chitiki_c2/hi-everyone-im-siddarth-and-im-new-here-im-currently-learning-devops-tools-and-as-an-1cpi)
-- [💸 $200 Free Credits for GPT-5, Claude Sonnet 4.5 &amp; GLM-4+ APIs – No Card Needed!](https://dev.to/agentrouter/200-free-credits-for-gpt-5-claude-sonnet-45-glm-4-apis-no-card-needed-50of)
+- [Implementing Astro Pagination for Large Data](https://dev.to/lovestaco/implementing-astro-pagination-for-large-data-2jmk)
+- [TypeScript Important Concepts Every Developer Should Know](https://dev.to/srashtigupta/typescript-important-concepts-every-developer-should-know-4jma)
+- [Create a Kanban board with Rails and Hotwire](https://dev.to/railsdesigner/create-a-kanban-board-with-rails-and-hotwire-lcb)
+- [International technical standards that seek compliance in blockchain](https://dev.to/humbertoromanojr/international-technical-standards-that-seek-compliance-in-blockchain-2gjf)
+- [Building Faster with V0 and Claude Code: Lessons Learned from Vibe Coding](https://dev.to/strapi/building-faster-with-v0-and-claude-code-lessons-learned-from-vibe-coding-ca1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
