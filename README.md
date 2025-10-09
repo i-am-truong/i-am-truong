@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [On the Criteria To Be Used in Decomposing Interfaces into Components and Modules](https://dev.to/gurigraphics/on-the-criteria-to-be-used-in-decomposing-interfaces-into-components-and-modules-556m)
 - [How can you build great things and still feel UNSATISFIED? - my first startup experience](https://dev.to/mrezanahi_f133292cb4695d/how-can-you-build-great-things-and-still-feel-unsatisfied-my-first-startup-experience-2fjg)
 - [🧠 G1 vs ZGC vs Shenandoah: The Best Java Garbage Collector for Large Heaps &lpar;2025 Guide&rpar;](https://dev.to/theo_ezellwebmethodman/g1-vs-zgc-vs-shenandoah-the-best-java-garbage-collector-for-large-heaps-2025-guide-n1i)
 - [Anatomy of a package: @vanilla-extract/css](https://dev.to/ziyadshaikh013/anatomy-of-a-package-vanilla-extractcss-588e)
-- [Tutorial: Despliega una web estática en AWS con CDK](https://dev.to/chainiz/tutorial-despliega-una-web-estatica-en-aws-con-cdk-15l7)
-- [50 Most Useful Angular Snippets](https://dev.to/softwaredeveloper01/50-most-useful-angular-snippets-37h3)
+- [How I safely tested a TurnKey CCTV appliance &lpar;lab workflow + mitigation playbook&rpar;](https://dev.to/seifeldienahmad/how-i-safely-tested-a-turnkey-cctv-appliance-lab-workflow-mitigation-playbook-141j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
