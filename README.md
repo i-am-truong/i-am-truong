@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Brute Force Attacks Fail More Often Today](https://dev.to/terminaltools/why-brute-force-attacks-fail-more-often-today-224b)
 - [Access HubSpot Marketing Webinars Instantly via iTunes in 2025](https://dev.to/gooday_marlon_5cf7e1f4841/access-hubspot-marketing-webinars-instantly-via-itunes-in-2025-5c3n)
 - [When Frontend Becomes a Feeling, Not a Framework](https://dev.to/dct_technology/when-frontend-becomes-a-feeling-not-a-framework-3pfi)
-- [How to Translate XML Files Online](https://dev.to/liamcorwin/how-to-translate-xml-files-online-4m42)
-- [A More Efficient Way to Build with Google Workspace](https://dev.to/googleworkspace/a-more-efficient-way-to-build-with-google-workspace-2hhm)
-- [Securing LangChain APIs with AWS SSO and Active Directory](https://dev.to/moni121189/securing-langchain-apis-with-aws-sso-and-active-directory-3lhj)
+- [When Frontend Becomes a Feeling, Not a Framework](https://dev.to/dct_technology/when-frontend-becomes-a-feeling-not-a-framework-4ph)
+- [.](https://dev.to/sahil_kumar_fca803a0f3c8c/-47do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
