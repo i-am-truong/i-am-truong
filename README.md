@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Autonomous SDLC: How Specialised AI Agents are Unlocking the Future of Software Engineering](https://dev.to/kamlesh_soni_22251590c6b4/the-autonomous-sdlc-how-specialised-ai-agents-are-unlocking-the-future-of-software-engineering-30mj)
 - [Implementing Astro Pagination for Large Data](https://dev.to/lovestaco/implementing-astro-pagination-for-large-data-2jmk)
 - [TypeScript Important Concepts Every Developer Should Know](https://dev.to/srashtigupta/typescript-important-concepts-every-developer-should-know-4jma)
 - [Create a Kanban board with Rails and Hotwire](https://dev.to/railsdesigner/create-a-kanban-board-with-rails-and-hotwire-lcb)
 - [International technical standards that seek compliance in blockchain](https://dev.to/humbertoromanojr/international-technical-standards-that-seek-compliance-in-blockchain-2gjf)
-- [Building Faster with V0 and Claude Code: Lessons Learned from Vibe Coding](https://dev.to/strapi/building-faster-with-v0-and-claude-code-lessons-learned-from-vibe-coding-ca1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
