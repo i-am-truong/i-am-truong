@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SecureBitchat — Fast, Encrypted P2P Calls in Your Browser](https://dev.to/securebitchat/securebitchat-fast-encrypted-p2p-calls-in-your-browser-1dke)
-- [Angular&#39;s Edge: Unpacking 2025&#39;s Innovations &amp; Future Trends](https://dev.to/softwaredeveloper01/angulars-edge-unpacking-2025s-innovations-future-trends-494n)
-- [Beyond the Dogma: A Pragmatic Hybrid MVVM Architecture in WPF**](https://dev.to/neopotato/beyond-the-dogma-a-pragmatic-hybrid-mvvm-architecture-in-wpf-3ncm)
-- [[Tips] [Podman] What to do if you get an &quot;insufficient space&quot; error when loading an image](https://dev.to/masakiokuda/tips-podman-what-to-do-if-you-get-an-insufficient-space-error-when-loading-an-image-32mp)
-- [An Introduction to Remote Procedural Call &lpar;RPC&rpar; Nodes in Blockchains](https://dev.to/davidekete/an-introduction-to-remote-procedural-call-rpc-nodes-in-blockchain-p88)
+- [Building a Real-Time Spreadsheet App with React, NestJS](https://dev.to/steven_nguyen_a71cdaca6cc/how-i-built-a-collaborative-excel-sheet-app-with-react-handsontable-nestjs-graphql-and-mongodb-4ah6)
+- [Title: iOS 26 Beta Compatibility: Which iPhones Can Download It Today?](https://dev.to/yagyaraj_sharma_6cd410179/title-ios-26-beta-compatibility-which-iphones-can-download-it-today-11kf)
+- [When applying the subplot&lpar;&rpar; function in Matplotlib, its position is important](https://dev.to/onaolapo11/when-applying-the-subplot-function-in-matplotlib-its-position-is-important-1a10)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-5896)
+- [Title: Best Practices for Variable Naming in Python](https://dev.to/yagyaraj_sharma_6cd410179/title-best-practices-for-variable-naming-in-python-dc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
