@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NVIDIA &lpar;NVDA&rpar; Stock Analysis: Is the AI Chip Leader Still a Smart Buy in 2025?](https://dev.to/safdar_meyka_012ecf3f1605/why-nvidias-nvda-stock-could-continue-to-soar-as-ai-and-data-center-demand-grow-1g81)
-- [The Asynchronous Request-Reply Pattern: Your Guide to Not Waiting Around Like a Chump](https://dev.to/igornosatov_15/the-asynchronous-request-reply-pattern-your-guide-to-not-waiting-around-like-a-chump-2k8h)
-- [Rendering Patterns in Next.js: CSR, SSR, SSG, ISR, RSC, PPR, and DPR](https://dev.to/farzankln/rendering-patterns-in-nextjs-csr-ssr-ssg-isr-rsc-ppr-and-dpr-3244)
-- [I built Clarion, an opensource AI Agent &amp; Context Engineering software](https://dev.to/ali_ghaedrahmat_8c538bdeb/i-built-clarion-an-opensource-ai-agent-context-engineering-software-1jai)
-- [从零到一：用“小模型 + 好数据”落地 AI 应用（2025 实战清单）](https://dev.to/_85a948a4d50d6306d7ea9/cong-ling-dao-yong-xiao-mo-xing-hao-shu-ju-luo-di-ai-ying-yong-2025-shi-zhan-qing-dan--9fo)
+- [NetAssist App – A Free TCP/IP Network Debugging Tool for IoT Developers](https://dev.to/zediot/netassist-app-a-free-tcpip-network-debugging-tool-for-iot-developers-24mp)
+- [Apps SDK Tutorial](https://dev.to/akamite/apps-sdk-tutorial-4081)
+- [A Node.js Audit via Github Action to augment PR&#39;s](https://dev.to/boly38/a-nodejs-audit-via-github-action-to-augment-prs-3l2g)
+- [How to activate simple electronics with a Raspberry Pi?](https://dev.to/carolineee/how-to-activate-simple-electronics-with-a-raspberry-pi-3gip)
+- [Configuring ESP8266 Wi-Fi Network Connection Through A Web Page](https://dev.to/ibrahimgunduz34/configuring-esp8266-wi-fi-network-connection-through-a-web-page-562l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
