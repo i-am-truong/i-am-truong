@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pair programming with AI isn’t about outsourcing your thinking; it’s about enhancing your creativity.
-
-It gives you more mental bandwidth to focus on architecture, design, and problem-solving while automating the boring parts.](https://dev.to/jaideepparashar/pair-programming-with-ai-isnt-about-outsourcing-your-thinking-its-about-enhancing-your-3llg)
-- [AI-Powered Pair Programming: How I Code Faster and Learn More with ChatGPT](https://dev.to/jaideepparashar/ai-powered-pair-programming-how-i-code-faster-and-learn-more-with-chatgpt-2lj3)
-- [Envisioning SagaV: a Tarot-Themed Mocktail Brand](https://dev.to/paaaarv/envisioning-sagav-a-tarot-themed-mocktail-brand-1dkp)
-- [Cursor +Trigger](https://dev.to/mugiil_b_dc9b71601cba396/cursor-trigger-2b55)
-- [The Hidden Backdoor in Your App: Fixing API Security Before It&#39;s Too Late](https://dev.to/vaibhav_shakya_e6b352bfc4/the-hidden-backdoor-in-your-app-fixing-api-security-before-its-too-late-15gd)
+- [Access HubSpot Marketing Webinars Instantly via iTunes in 2025](https://dev.to/gooday_marlon_5cf7e1f4841/access-hubspot-marketing-webinars-instantly-via-itunes-in-2025-5c3n)
+- [When Frontend Becomes a Feeling, Not a Framework](https://dev.to/dct_technology/when-frontend-becomes-a-feeling-not-a-framework-3pfi)
+- [How to Translate XML Files Online](https://dev.to/liamcorwin/how-to-translate-xml-files-online-4m42)
+- [A More Efficient Way to Build with Google Workspace](https://dev.to/googleworkspace/a-more-efficient-way-to-build-with-google-workspace-2hhm)
+- [Securing LangChain APIs with AWS SSO and Active Directory](https://dev.to/moni121189/securing-langchain-apis-with-aws-sso-and-active-directory-3lhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
