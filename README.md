@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cursor + Trigger](https://dev.to/nava_nava_9da1144487604/cursor-trigger-432n)
-- [From Zero to 373 Days: How Daily LeetCode Challenges Transformed My Programming Journey 🔥](https://dev.to/hadil/from-zero-to-373-days-how-daily-leetcode-challenges-transformed-my-programming-journey-47o9)
-- [AI Marketing That Actually Works: A Senior Playbook for Automating, Accelerating, and Amplifying Results](https://dev.to/dakrsize/ai-marketing-that-actually-works-a-senior-playbook-for-automating-accelerating-and-amplifying-4kjd)
-- [How AI Chatbots Are Transforming Customer Support in 2025](https://dev.to/ryan-mathews/how-ai-chatbots-are-transforming-customer-support-in-2025-c0i)
-- [How to Choose the Right Automated Testing Tools for Your Tech Stack?](https://dev.to/sophielane/how-to-choose-the-right-automated-testing-tools-for-your-tech-stack-189)
+- [ListOn - Directory &amp; Listing HTML Template](https://dev.to/packmycode/liston-directory-listing-html-template-dhc)
+- [New Here: Sharing a Small Hack That Finally Fixed My Reading Chaos](https://dev.to/readsoon/new-here-sharing-a-small-hack-that-finally-fixed-my-reading-chaos-37ic)
+- [What’s Changing in NFT Development Services in 2025?](https://dev.to/whitmanmark/whats-changing-in-nft-development-services-in-2025-jf1)
+- [Veo 3.1 is Coming: Feature Upgrades and Innovation Analysis](https://dev.to/juddiy/veo-31-is-coming-feature-upgrades-and-innovation-analysis-1alp)
+- [ACID](https://dev.to/mugiil_b_dc9b71601cba396/acid-4fip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
