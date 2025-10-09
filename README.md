@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Conditions Diagnosed with an EEG: Discover What This Test Can Detect](https://dev.to/shadab_shaikh_7ba6481c1ae/10-conditions-diagnosed-with-an-eeg-discover-what-this-test-can-detect-5epc)
-- [How Modular Architecture Simplifies the Development of Modern Slot Games](https://dev.to/bob_packer_7c9018a4d1a1f1/how-modular-architecture-simplifies-the-development-of-modern-slot-games-333c)
-- [How to Create a Video Streaming App Like Netflix: Features, Tech Stack &amp; Growth Strategy](https://dev.to/hiphype_co_0a139c177aa4ca/how-to-create-a-video-streaming-app-like-netflix-features-tech-stack-growth-strategy-1bco)
-- [How to Upgrade AWS EKS Node Groups Without Downtime &lpar;Step-by-Step Guide&rpar;](https://dev.to/ifedayo/how-to-upgrade-aws-eks-node-groups-without-downtime-step-by-step-guide-4lgm)
-- [MVVM para Iniciantes: Desvendando o Padrão de Arquitetura](https://dev.to/gabrielteixeira44/mvvm-para-iniciantes-desvendando-o-padrao-de-arquitetura-2dna)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4me2)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-1l3c)
+- [KEXP: Hunx and His Punx - Wild Boys &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-wild-boys-live-on-kexp-9em)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4174)
+- [KEXP: Hunx and His Punx - Mud In Your Eyes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-mud-in-your-eyes-live-on-kexp-5b22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
