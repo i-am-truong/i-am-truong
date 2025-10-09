@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Essential Command-Line Tools for Cybersecurity Beginners](https://dev.to/orioninsist/5-essential-command-line-tools-for-cybersecurity-beginners-4nh3)
 - [🚀 Blinter The Linter - A Cross Platform Batch Script Linter](https://dev.to/tboy1337/blinter-the-linter-a-cross-platform-batch-script-linter-158b)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4ip9)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-31h)
-- [KEXP: Hunx and His Punx - Wild Boys &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-wild-boys-live-on-kexp-4fm4)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-5eg5)
+- [FSM_API: The Pure C# Core That Decouples Your Logic from Any Engine](https://dev.to/trent_best_ca8617e4911baf/fsmapi-the-pure-c-core-that-decouples-your-logic-from-any-engine-1d0j)
+- [Manipulative UX: How Design Tricks Quietly Shape Your Choices](https://dev.to/devtechinsights/manipulative-ux-how-design-tricks-quietly-shape-your-choices-2458)
+- [&quot;Unlocking the Future of Language: A Leap Forward in AI-Powe](https://dev.to/drcarlosruizviquez/unlocking-the-future-of-language-a-leap-forward-in-ai-powe-49il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
