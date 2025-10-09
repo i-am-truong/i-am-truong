@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: Balancing the Score](https://dev.to/simongreennet/weekly-challenge-balancing-the-score-38kd)
-- [How Does MODPA&#39;s Approach to Sensitive Data Differ from Other State Laws?](https://dev.to/mehwish_malik_4f29ff7fb04/how-does-modpas-approach-to-sensitive-data-differ-from-other-state-laws-35ej)
-- [Typing the untypable: generating Python .pyi stubs](https://dev.to/art_vasilyev/typing-the-untypable-generating-python-pyi-stubs-23ci)
-- [Stop Writing API Docs Twice: Introducing @restdocs for Next.js](https://dev.to/charlie_1bafbc034dd4d9b0d/stop-writing-api-docs-twice-introducing-restdocs-for-nextjs-270k)
-- [Your Complete Event Sourcing Toolkit: The Genesis DB VS Code Extension](https://dev.to/patriceckhart/your-complete-event-sourcing-toolkit-the-genesis-db-vs-code-extension-36d2)
+- [I Tried NativeMind, a Local Browser AI That Speeds Up Research and Keeps My Data Private](https://dev.to/nitinfab/i-tried-nativemind-a-local-browser-ai-that-speeds-up-research-and-keeps-my-data-private-3kf8)
+- [Hardware ID Spoofer: What is an HWID Spoofer?](https://dev.to/duongoman/hardware-id-spoofer-what-is-an-hwid-spoofer-2eoi)
+- [React Conf 2025 resumo: 10 anos, 4M downloads semanais e muita coisa nova](https://dev.to/tuliocalil/react-conf-2025-resumo-10-anos-4m-downloads-semanais-e-muita-coisa-nova-362h)
+- [🧠 What’s New in Red Hat OpenShift 4.19: Deep Dive into the Future of AI &amp; Hybrid Cloud](https://dev.to/sindhuja_ns_1e491ce1088d/whats-new-in-red-hat-openshift-419-deep-dive-into-the-future-of-ai-hybrid-cloud-1fge)
+- [CockroachDB Graceful Shutdowns](https://dev.to/cockroachlabs/cockroachdb-graceful-shutdowns-4dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
