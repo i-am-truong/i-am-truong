@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s a Whole Suite of Free, Open-Source Android Apps You Probably Didn&#39;t Know About](https://dev.to/shiva_shanker_k/theres-a-whole-suite-of-free-open-source-android-apps-you-probably-didnt-know-about-onc)
-- [Why People Say “F*** LeetCode”: Difficulty, Fairness, Real-World Value — and a Better Way](https://dev.to/alex_hunter_44f4c9ed6671e/why-people-say-f-leetcode-difficulty-fairness-real-world-value-and-a-better-way-1i80)
-- [CRUD Operations in MongoDB — Student Management System](https://dev.to/prabavathy_balagurusamy_2/crud-operations-in-mongodb-student-management-system-3m85)
-- [HELLO](https://dev.to/hellomaryamolaitan/hello-1j4g)
-- [Maximizing Lead Generation and Agent Productivity with Outbound Call Center Software](https://dev.to/deepijatelecom1/maximizing-lead-generation-and-agent-productivity-with-outbound-call-center-software-2on4)
+- [🚨𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗙𝗿𝗮𝘂𝗱 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 𝗶𝗻 𝗝𝗮𝘃𝗮 — 𝗥𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 𝗗𝗲𝗳𝗲𝗻𝘀𝗲 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗠𝗼𝗱𝗲𝗿𝗻 𝗙𝗶𝗻𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸](https://dev.to/narednra_reddyyadama_d64/--26dd)
+- [CVE-2023-43770: Roundcube Webmail Persistent Cross-Site Scripting &lpar;XSS&rpar; Vulnerability](https://dev.to/freedom-coder/cve-2023-43770-roundcube-webmail-persistent-cross-site-scripting-xss-vulnerability-3nn8)
+- [The React Pattern That Changed How I Build Reusable Components](https://dev.to/priyankachettri/the-react-pattern-that-changed-how-i-build-reusable-components-k2o)
+- [Grok Code Fast 1 is Now Available in Visual Studio Code—And It&#39;s Actually Pretty Good](https://dev.to/shiva_shanker_k/grok-code-fast-1-is-now-available-in-visual-studio-code-and-its-actually-pretty-good-3jdp)
+- [How Cypress will revolutionize the use of AI in testing with cy.prompt&lpar;&rpar;](https://dev.to/marcelo_sqe/how-cypress-will-revolutionize-the-use-of-ai-in-testing-with-cyprompt-fe9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
