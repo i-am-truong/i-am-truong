@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Magic of Client &amp; Server Validation : How Your App Knows You Typed Your Email Wrong](https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p)
-- [Building a Multi-Protocol IoT Gateway with OpenMQTTGateway and ESP32](https://dev.to/zediot/building-a-multi-protocol-iot-gateway-with-openmqttgateway-and-esp32-52dg)
-- [Earn Passive Income Selling Prompts: A Senior Playbook That Actually Works](https://dev.to/tsaplina_elena/earn-passive-income-selling-prompts-a-senior-playbook-that-actually-works-17ad)
-- [CSS Layout Techniques: Block, Inline, and Inline-Block](https://dev.to/sharique_siddiqui_8242dad/css-layout-techniques-block-inline-and-inline-block-2pb5)
-- [Vibe Coding: AI Gives You Expert Hands, Not Expert Judgment](https://dev.to/emirbelkahia/vibe-coding-ai-gives-you-expert-hands-not-expert-judgment-4em2)
+- [Smarter Shopping, Better Deals: Why a Flipkart Data Extractor Matters to Everyday Shoppers](https://dev.to/mcatee/smarter-shopping-better-deals-why-a-flipkart-data-extractor-matters-to-everyday-shoppers-3n26)
+- [How to Build an Auction App MVP in 30 Days](https://dev.to/aartijangid23/how-to-build-an-auction-app-mvp-in-30-days-hd8)
+- [从零到一：用“小模型 + 好数据”落地 AI 应用（2025 实战清单）](https://dev.to/_85a948a4d50d6306d7ea9/cong-ling-dao-yong-xiao-mo-xing-hao-shu-ju-luo-di-ai-ying-yong-2025-shi-zhan-qing-dan--4gk0)
+- [Security Awareness Training: Empowering Employees to Defend Against Cyber Threats](https://dev.to/writegenic/security-awareness-training-empowering-employees-to-defend-against-cyber-threats-1ch1)
+- [Your Digital Life is About to Get a Major Upgrade: 4 Revelations from the Coming Web4 Identity System UIID](https://dev.to/web4/your-digital-life-is-about-to-get-a-major-upgrade-4-revelations-from-the-coming-web4-identity-1iio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
