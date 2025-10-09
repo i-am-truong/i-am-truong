@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Compress Your JSON Data with DevUtilX JSON Minifier ⚙️](https://dev.to/akashbijwe/compress-your-json-data-with-devutilx-json-minifier-18cp)
+- [Time Tracking Software for Developers: The Ultimate Guide](https://dev.to/tmetric_timer_2b3a575fc8b/time-tracking-software-for-developers-the-ultimate-guide-313a)
 - [What technologies do you use for Android app development?](https://dev.to/maxtratechnology/what-technologies-do-you-use-for-android-app-development-76b)
 - [Building Perceptual Color Similarity Search with Amazon OpenSearch Service](https://dev.to/vidanov/building-perceptual-color-similarity-search-with-amazon-opensearch-service-4ph)
 - [How Hard is it to Learn Html? Debunking 7 Myths](https://dev.to/metana/how-hard-is-it-to-learn-html-debunking-7-myths-4ohh)
-- [Building Scalable Multi-Agent Systems in a Day](https://dev.to/brains_behind_bots/building-scalable-multi-agent-systems-in-a-day-230k)
-- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-1e52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
