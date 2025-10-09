@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Grafana component in Meshery codebase.](https://dev.to/ramunarasinga-11/grafana-component-in-meshery-codebase-fk9)
-- [Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos](https://dev.to/angularfirebase/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e)
-- [Ghosts in the Code: A Memorial Grove for Deleted AI](https://dev.to/beverley_williams_091cb75/ghosts-in-the-code-a-memorial-grove-for-deleted-ai-3a8e)
-- [How to Inject Service from DI Container to Marten Async Projection](https://dev.to/juliashevchenko/how-to-inject-service-from-di-container-to-marten-async-projection-4f77)
-- [Parametric and Non-Parametric tests](https://dev.to/roy_b5001e0ff9a27dea39641/parametric-and-non-parametric-tests-c40)
+- [6 Features You Can Deliver Instantly with HTML Editor Software](https://dev.to/ideradevtools/6-features-you-can-deliver-instantly-with-html-editor-software-287a)
+- [Learning Next.js by building my own project](https://dev.to/fullstackhoward/learning-nextjs-by-building-my-own-project-4231)
+- [Tying It All Together: Your Map to Better Go Architecture](https://dev.to/jfeliu007/tying-it-all-together-your-map-to-better-go-architecture-8l2)
+- [Hacktoberfest 2025 is Live – Start Contributing Now! 🚀](https://dev.to/hariompandit/hacktoberfest-2025-is-live-start-contributing-now-4i0m)
+- [My Dev Journey Began with a Music Site](https://dev.to/fullstackhoward/my-dev-journey-began-with-a-music-site-5g1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
