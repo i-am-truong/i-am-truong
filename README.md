@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Windows: container Windows + container Linux &lpar;&amp; VI&rpar;](https://dev.to/elferrer/windows-container-windows-container-linux-vi-1bjg)
-- [Windows: container Windows + container Linux &lpar;V&rpar;](https://dev.to/elferrer/windows-container-windows-container-linux-v-2bcn)
-- [Windows: container Windows + container Linux &lpar;IV&rpar;](https://dev.to/elferrer/windows-container-windows-container-linux-iv-51eo)
-- [Windows: container Windows + container Linux &lpar;III&rpar;](https://dev.to/elferrer/windows-container-windows-container-linux-iii-4np9)
-- [Windows: container Windows + container Linux &lpar;II&rpar;](https://dev.to/elferrer/windows-container-windows-container-linux-ii-5bhg)
+- [Weekly Challenge: Balancing the Score](https://dev.to/simongreennet/weekly-challenge-balancing-the-score-38kd)
+- [How Does MODPA&#39;s Approach to Sensitive Data Differ from Other State Laws?](https://dev.to/mehwish_malik_4f29ff7fb04/how-does-modpas-approach-to-sensitive-data-differ-from-other-state-laws-35ej)
+- [Typing the untypable: generating Python .pyi stubs](https://dev.to/art_vasilyev/typing-the-untypable-generating-python-pyi-stubs-23ci)
+- [Stop Writing API Docs Twice: Introducing @restdocs for Next.js](https://dev.to/charlie_1bafbc034dd4d9b0d/stop-writing-api-docs-twice-introducing-restdocs-for-nextjs-270k)
+- [Your Complete Event Sourcing Toolkit: The Genesis DB VS Code Extension](https://dev.to/patriceckhart/your-complete-event-sourcing-toolkit-the-genesis-db-vs-code-extension-36d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
