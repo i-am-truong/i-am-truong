@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤖 AI as Your QA Pair Buddy](https://dev.to/qa-leaders/ai-as-your-qa-pair-buddy-35h6)
-- [What’s your biggest pain when building APIs?](https://dev.to/jamal_omotoyosi_e056e574e/whats-your-biggest-pain-when-building-apis-4bdp)
-- [Can Blockchain Stop Online Fraud? Here’s Why It Still Falls Short](https://dev.to/juicyscore/can-blockchain-stop-online-fraud-heres-why-it-still-falls-short-44ig)
-- [Pair programming with Claude Code: using output styles](https://dev.to/shipyard/pair-programming-with-claude-code-using-output-styles-1l5j)
-- [Less is More: Building Beautiful Websites with Minimal CSS &lpar;A Developer&#39;s Guide to Semantic Simplicity&rpar;](https://dev.to/pullflow/less-is-more-building-beautiful-websites-with-minimal-css-a-developers-guide-to-semantic-3489)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-31)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-1k8h)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-3o9j)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-2d1k)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-kb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
