@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How static analysis encourages developers to refactor code: Another look at Source SDK](https://dev.to/pvsdev/how-static-analysis-encourages-developers-to-refactor-code-another-look-at-source-sdk-2mjn)
 - [RecGen: a powerful tool to create recommendation systems](https://dev.to/rec_gen_project/recgen-a-powerful-tool-to-create-recommendation-systems-2h5m)
 - [Which AI Website Builder has impressed you the most ?](https://dev.to/amananandrai/which-ai-website-builder-has-impressed-you-the-most--4ml8)
 - [Securing Autonomous AI Agents with Auth0 – DEV Challenge Submission](https://dev.to/aniruddhaadak/securing-autonomous-ai-agents-with-auth0-dev-challenge-submission-3cd2)
 - [Build-less manga scanlation workflow: vertical OCR, translation, and layout-preserving typesetting in the browser](https://dev.to/digiplan_pro_52d07cbd0f1a/build-less-manga-scanlation-workflow-vertical-ocr-translation-and-layout-preserving-typesetting-lki)
-- [🚀 The Startup Technical Guide to Building AI Agents &lpar;with Google Cloud&rpar;](https://dev.to/sauravkumar8178/the-startup-technical-guide-to-building-ai-agents-with-google-cloud-4epi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
