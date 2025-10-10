@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Made it free because interview prep is stressful enough!](https://dev.to/anjandutta/made-it-free-because-interview-prep-is-stressful-enough-29b4)
-- [🚀 The Biggest AI Releases of September 2025](https://dev.to/aniruddhaadak/the-biggest-ai-releases-of-september-2025-m49)
-- [AlphaApollo: The Self-Evolving AI Dream Team](https://dev.to/naresh_007/alphaapollo-the-self-evolving-ai-dream-team-26ng)
-- [OSD600 Lab 5](https://dev.to/bhchen24/osd600-lab-5-16hk)
-- [🐍 I&#39;m Learning Python — My Journey So Far](https://dev.to/parthadeori/im-learning-python-my-journey-so-far-5c1n)
+- [IGN: Why Xbox Can’t Give Up on Hardware - Next-Gen Console Watch](https://dev.to/gg_news/ign-why-xbox-cant-give-up-on-hardware-next-gen-console-watch-3n1g)
+- [IGN: Fortnite Reload - Official Nitemare Island Trailer](https://dev.to/gg_news/ign-fortnite-reload-official-nitemare-island-trailer-4bfe)
+- [Fortalecendo a Integridade de Aplicações Android: Uma abordagem multicamadas sobre Detecção de Root, Dev Mode e Emuladores.](https://dev.to/renandamasceno/fortalecendo-a-integridade-de-aplicacoes-android-uma-abordagem-multicamadas-sobre-deteccao-de-45p4)
+- [IGN: Chicken Run: Eggstraction - Official Pre-Order Trailer](https://dev.to/gg_news/ign-chicken-run-eggstraction-official-pre-order-trailer-3o51)
+- [IGN: Battlefield 6 - All Campaign Dogtag Locations &lpar;With Timecodes&rpar;](https://dev.to/gg_news/ign-battlefield-6-all-campaign-dogtag-locations-with-timecodes-4ne5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
