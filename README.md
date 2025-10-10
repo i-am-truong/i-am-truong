@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Back to Work After Vacation? This AI Prompt Helps You Transition Smoothly](https://dev.to/huizhudev/back-to-work-after-vacation-this-ai-prompt-helps-you-transition-smoothly-519e)
-- [How to Translate PDF Document Text to Another Language](https://dev.to/colinreed/how-to-translate-pdf-document-text-to-another-language-1kje)
-- [Building a Streaming Data Pipeline with Kafka and Spark: Real-Time Analytics Implementation Guide](https://dev.to/dowerdev/building-a-streaming-data-pipeline-with-kafka-and-spark-real-time-analytics-implementation-guide-e51)
-- [Combining Async and Sync Code in Python](https://dev.to/mcheremnov/combining-async-and-sync-code-in-python-595j)
-- [The `tree` Command in Ubuntu](https://dev.to/siswoyo/the-tree-command-in-ubuntu-42g8)
+- [My Top 10 AI Code Review Tools You Can Actually Use in 2025](https://dev.to/therealmrmumba/my-top-10-ai-code-review-tools-you-can-actually-use-in-2025-paf)
+- [&quot;Wait, YOU&#39;RE the developer?&quot; - Being a woman in tech](https://dev.to/mydmoov/wait-youre-the-developer-being-a-woman-in-tech-13kf)
+- [Building a Streaming Data Pipeline with Kafka and Spark: Real-Time Analytics Implementation Guide](https://dev.to/dowerdev/building-a-streaming-data-pipeline-with-kafka-and-spark-real-time-analytics-implementation-guide-1f6d)
+- [Gadget chains in Java: how unsafe deserialization leads to RCE?](https://dev.to/pvsdev/gadget-chains-in-java-how-unsafe-deserialization-leads-to-rce-1bg9)
+- [WTF is Artificial Intelligence of Things &lpar;AIoT&rpar;?](https://dev.to/dailybugle33/wtf-is-artificial-intelligence-of-things-aiot-4dfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
