@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [50 Most Useful CSS3 Snippets](https://dev.to/softwaredeveloper01/50-most-useful-css3-snippets-17g4)
-- [IGN: Why Xbox Can’t Give Up on Hardware - Next-Gen Console Watch](https://dev.to/gg_news/ign-why-xbox-cant-give-up-on-hardware-next-gen-console-watch-34id)
-- [IGN: Little Nightmares 3 - Official &#39;Hold My Hand&#39; Launch Trailer](https://dev.to/gg_news/ign-little-nightmares-3-official-hold-my-hand-launch-trailer-4625)
-- [mx: Turn Your Documentation into Executable Tasks](https://dev.to/harehare/mx-turn-your-documentation-into-executable-tasks-58g7)
-- [Implementing a Basic MCP Server and Two Communicating Agents in Python](https://dev.to/aairom/implementing-a-basic-mcp-server-and-two-communicating-agents-in-python-1lk4)
+- [RecGen: a powerful tool to create recommendation systems](https://dev.to/rec_gen_project/recgen-a-powerful-tool-to-create-recommendation-systems-2h5m)
+- [Which AI Website Builder has impressed you the most ?](https://dev.to/amananandrai/which-ai-website-builder-has-impressed-you-the-most--4ml8)
+- [Securing Autonomous AI Agents with Auth0 – DEV Challenge Submission](https://dev.to/aniruddhaadak/securing-autonomous-ai-agents-with-auth0-dev-challenge-submission-3cd2)
+- [Build-less manga scanlation workflow: vertical OCR, translation, and layout-preserving typesetting in the browser](https://dev.to/digiplan_pro_52d07cbd0f1a/build-less-manga-scanlation-workflow-vertical-ocr-translation-and-layout-preserving-typesetting-lki)
+- [🚀 The Startup Technical Guide to Building AI Agents &lpar;with Google Cloud&rpar;](https://dev.to/sauravkumar8178/the-startup-technical-guide-to-building-ai-agents-with-google-cloud-4epi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
