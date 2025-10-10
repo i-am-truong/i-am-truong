@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Memorizing Scripture May Be Doing the Opposite of What You Think](https://dev.to/brain_athlete/why-memorizing-scripture-may-be-doing-the-opposite-of-what-you-think-ji7)
+- [pgps_u1_a2_zajh](https://dev.to/jimenz2/pgpsu1a2zajh-e4k)
+- [WriteFreely subscription vs hosting costs](https://dev.to/rosgluk/writefreely-subscription-vs-hosting-costs-4knl)
+- [Building a Chess App: Efficient Real-time Move Validation Using Bitboards in React Native](https://dev.to/dowerdev/building-a-chess-app-efficient-real-time-move-validation-using-bitboards-in-react-native-1dja)
 - [What is Jenkins?](https://dev.to/e77/what-is-jenkins-3lb5)
-- [🚀 Upcoming Webinar: Working with Sentinel-1 Data in EOPF Zarr Format](https://dev.to/esthermillet/upcoming-webinar-working-with-sentinel-1-data-in-eopf-zarr-format-207p)
-- [What are the emotional aspects of choosing a sperm donor?](https://dev.to/ashika_chandran_857549718/what-are-the-emotional-aspects-of-choosing-a-sperm-donor-4kg)
-- [Deepfake Defense: Emergency Guide for Filipino Firms Against AI Fraud in 2025](https://dev.to/alvinveroy/deepfake-defense-emergency-guide-for-filipino-firms-against-ai-fraud-in-2025-48p3)
-- [Unlocking Agricultural Insights: The Power of BI and DAX in Data Analysis](https://dev.to/kenyansa/unlocking-agricultural-insights-the-power-of-bi-and-dax-in-data-analysis-4co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
