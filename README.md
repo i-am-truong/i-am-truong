@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Don’t Think About It&quot;: Why the Brain Thinks the Opposite &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/dont-think-about-it-why-the-brain-thinks-the-opposite-bite-size-article-1ah6)
-- [The Solo Developer&#39;s Product Stack: 4 Things I Wish I&#39;d Set Up From Day One](https://dev.to/shayy/the-solo-developers-product-stack-4-things-i-wish-id-set-up-from-day-one-158j)
-- [Book Review — The Creative Act: A Way of Being by Rick Rubin](https://dev.to/aileenvl/book-review-the-creative-act-a-way-of-being-by-rick-rubin-5eeb)
-- [Data in Everyday Life](https://dev.to/mubby042/data-in-everyday-life-15j1)
-- [🐼 Pandas DataFrame Selection, Filtering &amp; Cleaning — Hands-on Practice.](https://dev.to/ashok_kumar_564581944e3ef/pandas-dataframe-selection-filtering-cleaning-hands-on-practice-309i)
+- [Capitulo 2 | Estructuras de datos y algoritmos | Parte 1](https://dev.to/unapauli/capitulo-2-estructuras-de-datos-y-algoritmos-parte-1-nh7)
+- [Master Regex for Free: 3 Fun and Interactive Sites Every Dev Should Know](https://dev.to/werliton/master-regex-for-free-3-fun-and-interactive-sites-every-dev-should-know-13jl)
+- [Livewire without Livewire, Inertia without Inertia, GraphQL without GraphQL. And all with plain Laravel](https://dev.to/raheelshan/livewire-without-livewire-inertia-without-inertia-graphql-without-graphql-and-all-with-plain-3bic)
+- [Building a True Dual-Destination Analytics Pipeline: Real-Time Streaming with S3 Backup and Recovery](https://dev.to/gurudev_prasadteketi/building-a-true-dual-destination-analytics-pipeline-real-time-streaming-with-s3-backup-and-recovery-php)
+- [Building A Real-Time Communication System Using Go and WebSocket](https://dev.to/ashisrahman/building-a-real-time-communication-system-using-go-and-websocket-3ocf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
