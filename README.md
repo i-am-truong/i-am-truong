@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-52no)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-381l)
-- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-265l)
-- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-16ln)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4jg)
+- [AI Reddit Sensational Video Summarizer &amp; Shorts Extractor:](https://dev.to/ryanboscobanze/ai-reddit-sensational-video-summarizer-shorts-extractor-if2)
+- [From Programmer to AI Code Supervisor](https://dev.to/mteheran/from-programmer-to-ai-code-supervisor-18i6)
+- [Day 4 of documentating my learning journey](https://dev.to/james_kabuga/day-4-of-documentating-my-learning-journey-3ohe)
+- [URL Image Uploader for Filament — Upload from Anywhere in Seconds](https://dev.to/amjadiqbal/url-image-uploader-for-filament-upload-from-anywhere-in-seconds-hfk)
+- [A Beginner’s Roadmap to the AI Development Lifecycle in 2025](https://dev.to/nayeem79/a-beginners-roadmap-to-the-ai-development-lifecycle-in-2025-5f79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
