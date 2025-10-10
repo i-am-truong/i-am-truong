@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WPA2 Lab Walkthrough — Capture, Analyze, and Harden &lpar;Simulated Only&rpar;](https://dev.to/seifeldienahmad/wpa2-lab-walkthrough-capture-analyze-and-harden-simulated-only-2506)
 - [English - the hottest programming language of the future](https://dev.to/migrosonline/english-the-hottest-programming-language-of-the-future-a8n)
+- [Ursina - Game Engine for Python](https://dev.to/imrrobot/ursina-game-engine-for-python-2dmj)
 - [Social media on scratch](https://dev.to/keani_maruy_be35cce06ee95/social-media-on-scratch-404h)
 - [🏋️ Day 10 of #30DaysOfSolidity — Building a Decentralized Fitness Tracker with Events &amp; Milestones](https://dev.to/sauravkumar8178/day-10-of-30daysofsolidity-building-a-decentralized-fitness-tracker-with-events-milestones-lbo)
-- [How PROMPT FIX Brings NanoBanana , Seedream, ComfyUI and Qwen Image Edit 2509 Directly Into Photoshop](https://dev.to/shaaraa/how-prompt-fix-brings-nanobanana-seedream-comfyui-and-qwen-image-edit-2509-directly-into-50jk)
-- [First time on!](https://dev.to/keani_maruy_be35cce06ee95/first-time-on-3ipo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
