@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning the Hard Way: A New Developer&#39;s Tale of AI and Self-Discovery](https://dev.to/namaneetha/learning-the-hard-way-a-new-developers-tale-of-ai-and-self-discovery-403e)
+- [Stop Guessing Your Exceptions](https://dev.to/ssukhpinder/stop-guessing-your-exceptions-4hc8)
+- [From Hype to Fundamentals: What It Really Takes to Build a Lasting Product](https://dev.to/howard_shaw_3c36a3a6cb900/from-hype-to-fundamentals-what-it-really-takes-to-build-a-lasting-product-2i4)
+- [The Day the CEO of Meta Stopped to Like My Vision](https://dev.to/sampseiol1/the-day-the-ceo-of-meta-stopped-to-like-my-vision-4oii)
 - [🚀 From Rejection to Reinvention: How I Built an AI That Finds My Jobs](https://dev.to/kareemblessed/from-rejection-to-reinvention-how-i-built-an-ai-that-finds-my-jobs-1dgm)
-- [Ditch the Monolith: Build Scalable AI Teams with Solace Agent Mesh](https://dev.to/githubopensource/ditch-the-monolith-build-scalable-ai-teams-with-solace-agent-mesh-2jb6)
-- [Hotelboxsprings: De stille kracht achter positieve gastenreviews](https://dev.to/bremafa/hotelboxsprings-de-stille-kracht-achter-positieve-gastenreviews-514n)
-- [Shopify + Triochat](https://dev.to/triochat_io/shopify-triochat-4en7)
-- [Billing and Subscription](https://dev.to/triochat_io/billing-and-subscription-5f97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
