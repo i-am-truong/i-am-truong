@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Analysis: &quot;Attention Is All You Need&quot;](https://dev.to/sandeep_salwan/analysis-attention-is-all-you-need-i9i)
-- [In-Depth Analysis: &quot;Attention Is All You Need&quot;](https://dev.to/sandeep_salwan/in-depth-analysis-attention-is-all-you-need-267n)
-- [🧠 Como criar uma Fluent API no TypeORM &lpar;igual ao Entity Framework&rpar;](https://dev.to/jhonesgoncalves/como-criar-uma-fluent-api-no-typeorm-igual-ao-entity-framework-5ed)
-- [8 Mistakes New Freelance Engineers Make and How to Fix Them](https://dev.to/remotebranch/8-mistakes-new-freelance-engineers-make-and-how-to-fix-them-1ng2)
-- [Sorting encrypted data without decryption: a practical trick](https://dev.to/artabramov/sorting-encrypted-data-without-decryption-a-practical-trick-1118)
+- [Simplest and quickest blog website](https://dev.to/shreyvijayvargiya/simplest-and-quickest-blog-website-51i3)
+- [From Sitemap to Word Docs &lpar;Fast!&rpar;: A Friendly, Non-Tech Guide](https://dev.to/zigma/from-sitemap-to-word-docs-fast-a-friendly-non-tech-guide-1800)
+- [INLINE vs. NORMAL FUNCTIONS: What&#39;s Really Happening in Assembly?](https://dev.to/dima853/inline-vs-normal-functions-whats-really-happening-in-assembly-31l0)
+- [A Reproducible Way to Size Ultra-Thin Solid-State Film Batteries for GPT48-X / GPT50](https://dev.to/applekoiot/a-reproducible-way-to-size-ultra-thin-solid-state-film-batteries-for-gpt48-x-gpt50-4a4e)
+- [⚡ Turn On or Off Fast Startup in Windows 11](https://dev.to/kasuken/turn-on-or-off-fast-startup-in-windows-11-4pgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
