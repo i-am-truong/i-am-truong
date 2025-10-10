@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring My Own Code: A Tale of Code Crumbles](https://dev.to/jongwan93/refactoring-my-own-code-a-tale-of-code-crumbles-4m4e)
-- [🌱 Introduction: Why Open Source Is the Soil We Grow In](https://dev.to/softwaredeveloper01/introduction-why-open-source-is-the-soil-we-grow-in-57cd)
-- [Universal LLM Agent Prompt Injection](https://dev.to/omarambat/universal-llm-agent-prompt-injection-4k5)
-- [PR-01 at Hacktoberfest: Google Maps E2E Testing — for hackathon-starter](https://dev.to/andersontsai/pr-01-at-hacktoberfest-google-maps-e2e-testing-for-hackathon-starter-15dk)
-- [Letting go PHP database migrations](https://dev.to/xwero/letting-go-php-database-migrations-5cpa)
+- [The Library Method: Understanding @cache](https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-cache-57l1)
+- [Hacktoberfest Week 1](https://dev.to/kphero/hacktoberfest-week-1-53mh)
+- [Understanding `&#39;PropsWithChildren&#39;` and `verbatimModuleSyntax` in React + TypeScript 5](https://dev.to/cristiansifuentes/understanding-propswithchildren-and-verbatimmodulesyntax-in-react-typescript-5-5fie)
+- [Stress Testing Go Memory: A Practical Guide to High-Load Scenarios](https://dev.to/jones_charles_ad50858dbc0/stress-testing-go-memory-a-practical-guide-to-high-load-scenarios-349c)
+- [Refactoring My Code and Rewriting Git History](https://dev.to/oleksandrakordonets/refactoring-my-code-and-rewriting-git-history-d2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
