@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is GEO &lpar;Generative Engine Optimization&rpar; — and Why You Should Care as a Web Designer &amp; SEO Specialist](https://dev.to/rishikumar_yadav_06b014b5/what-is-geo-generative-engine-optimization-and-why-you-should-care-as-a-web-designer-seo-2dpo)
 - [Supporting Offline Payments in Low-Connectivity Areas](https://dev.to/flutterwaveeng/supporting-offline-payments-in-low-connectivity-areas-5065)
 - [From Idea to App in a Day: How Low-Code Platforms Are Accelerating Business Innovation](https://dev.to/softyflow/from-idea-to-app-in-a-day-how-low-code-platforms-are-accelerating-business-innovation-1fij)
 - [Which PayPal System Design interview platform will help you get hired?](https://dev.to/dev_loops/which-paypal-system-design-interview-platform-will-help-you-get-hired-2110)
 - [The Party Wall Act 1996 Simplified: Rights and Responsibilities](https://dev.to/jason-edworthy/the-party-wall-act-1996-simplified-rights-and-responsibilities-5eoh)
-- [Practical Introduction to Angular Signals](https://dev.to/pmbanugo/practical-introduction-to-angular-signals-9n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
