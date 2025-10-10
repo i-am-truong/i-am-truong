@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 From Rejection to Reinvention: How I Built an AI That Finds My Jobs](https://dev.to/kareemblessed/from-rejection-to-reinvention-how-i-built-an-ai-that-finds-my-jobs-1dgm)
+- [Ditch the Monolith: Build Scalable AI Teams with Solace Agent Mesh](https://dev.to/githubopensource/ditch-the-monolith-build-scalable-ai-teams-with-solace-agent-mesh-2jb6)
+- [Hotelboxsprings: De stille kracht achter positieve gastenreviews](https://dev.to/bremafa/hotelboxsprings-de-stille-kracht-achter-positieve-gastenreviews-514n)
 - [Shopify + Triochat](https://dev.to/triochat_io/shopify-triochat-4en7)
 - [Billing and Subscription](https://dev.to/triochat_io/billing-and-subscription-5f97)
-- [🧩 Day 9 of #30DaysOfSolidity — Contract-to-Contract Interaction](https://dev.to/sauravkumar8178/day-9-of-30daysofsolidity-contract-to-contract-interaction-5hnh)
-- [Fast Map Development: Using Context7 + Claude CLI with MapMetrics-GL](https://dev.to/mapmetrics/fast-map-development-using-context7-claude-cli-with-mapmetrics-gl-47eo)
-- [End-to-End YouTube Channel Analytics Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/end-to-end-youtube-channel-analytics-pipeline-4b6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
