@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Will clean code principles remain relevant in the AI era](https://dev.to/massimo_deiana_ccce73063a/will-clean-code-principles-remain-relevant-in-the-ai-era-bf7)
+- [Will clean code principles remain relevant in the AI era?](https://dev.to/massimo_deiana_ccce73063a/will-clean-code-principles-remain-relevant-in-the-ai-era-bf7)
 - [Simplifying SwiftUI Navigation with SnazzyRouter: A Modern Approach to Routing](https://dev.to/dubon-yaar/simplifying-swiftui-navigation-with-snazzyrouter-a-modern-approach-to-routing-3d71)
 - [Your AI Chatbot Just Leaked Customer Data to OpenAI. Here’s How it Happened and How to Prevent it](https://dev.to/fintechbro/your-ai-chatbot-just-leaked-customer-data-to-openai-heres-how-it-happened-and-how-to-prevent-it-i5f)
 - [Scaling Your UI with Component-Driven Development in 2025 🚀](https://dev.to/tahamjp/scaling-your-ui-with-component-driven-development-in-2025-40k7)
