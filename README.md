@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an HTTP Server from Scratch in C: A Journey into Network Programming](https://dev.to/ethan_ac5ca38abc559d950c9/building-an-http-server-from-scratch-in-c-a-journey-into-network-programming-19oa)
+- [Autotools Introduction](https://dev.to/pauljlucas/autotools-introduction-p9b)
+- [Building Trust for AI Agents — ISM-X: A Privacy-Preserving Identity Layer &lpar;with demo&rpar;](https://dev.to/damjan_akelj_be1aab4a715/building-trust-for-ai-agents-ism-x-a-privacy-preserving-identity-layer-with-demo-4ifj)
+- [What a Load Balancer Really Does &lpar;and Why It Matters&rpar;](https://dev.to/thekarlesi/what-a-load-balancer-really-does-and-why-it-matters-14bl)
 - [JavaScript Fundamentals: Variables and Data Types](https://dev.to/hardik_kanajariya/javascript-fundamentals-variables-and-data-types-5gab)
-- [OpenAI&#39;s ChatGPT Instant Checkout: Transforming E-Commerce with AI-Powered Conversations](https://dev.to/spano_benja_14a928166ec22/openais-chatgpt-instant-checkout-transforming-e-commerce-with-ai-powered-conversations-3pfb)
-- [I’m busy for Hacktoberfest 2025 after work PRs, aren’t you?](https://dev.to/fedtti/im-busy-for-hacktoberfest-2025-after-work-prs-arent-you-393l)
-- [Understanding DAX Functions in Power BI](https://dev.to/beatrice_njagi/understanding-dax-functions-in-power-bi-59bm)
-- [Recommended Approaches for Loading Many Large Images on the Web](https://dev.to/rijultp/recommended-approaches-for-loading-many-large-images-on-the-web-5997)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
