@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize AI Model &amp; Bot Training Services](https://dev.to/emilyg/how-to-optimize-ai-model-bot-training-services-47ba)
-- [Implementing Efficient Data Synchronization for Offline-First Mobile Applications](https://dev.to/elratto21/implementing-efficient-data-synchronization-for-offline-first-mobile-applications-525c)
-- [How to Use Terraform Tolist Function](https://dev.to/spacelift/how-to-use-terraform-tolist-function-28j1)
-- [Best AI meeting assistants for small teams](https://dev.to/isabellerad/best-ai-meeting-assistants-for-small-teams-5285)
-- [Building a Simple API with Node.js and Express](https://dev.to/ofodile/building-a-simple-api-with-nodejs-and-express-3ngk)
+- [Back to Work After Vacation? This AI Prompt Helps You Transition Smoothly](https://dev.to/huizhudev/back-to-work-after-vacation-this-ai-prompt-helps-you-transition-smoothly-519e)
+- [How to Translate PDF Document Text to Another Language](https://dev.to/colinreed/how-to-translate-pdf-document-text-to-another-language-1kje)
+- [Building a Streaming Data Pipeline with Kafka and Spark: Real-Time Analytics Implementation Guide](https://dev.to/dowerdev/building-a-streaming-data-pipeline-with-kafka-and-spark-real-time-analytics-implementation-guide-e51)
+- [Combining Async and Sync Code in Python](https://dev.to/mcheremnov/combining-async-and-sync-code-in-python-595j)
+- [The `tree` Command in Ubuntu](https://dev.to/siswoyo/the-tree-command-in-ubuntu-42g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
