@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Observation processing network](https://dev.to/rikinptl/observation-processing-network-2m8j)
+- [How to Approach an AI Chatbot Development for Your Organization](https://dev.to/secuodsoft/how-to-approach-an-ai-chatbot-development-for-your-organization-31jj)
+- [[Boost]](https://dev.to/helena_figueiredocosta_d/-57gg)
 - [Unlocking Momentum: My Vibe Coding Journey with AI Tools](https://dev.to/pravin_niceguy/unlocking-momentum-my-vibe-coding-journey-with-ai-tools-408o)
-- [7 Best Zapier Alternatives: No-Code Workflow Automation in 2025](https://dev.to/riwa/7-best-zapier-alternatives-no-code-workflow-automation-in-2025-1o3p)
-- [PikaPods: Quick Hosting for Open-Source Apps Developers Actually Use](https://dev.to/pikapods/pikapods-quick-hosting-for-open-source-apps-developers-actually-use-lj2)
-- [Git GUI Tools - Simplifying Version Control for Test Engineers](https://dev.to/jignect-technologies/git-gui-tools-simplifying-version-control-for-test-engineers-4h3a)
-- [Setting up &lpar;vite+react&rpar; project with shadcn ui.](https://dev.to/limoh653/setting-up-vitereact-project-with-shadcn-ui-2hmn)
+- [java introduction](https://dev.to/manikandan_m_16/java-introduction-1531)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
