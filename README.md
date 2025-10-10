@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Top 10 AI Code Review Tools You Can Actually Use in 2025](https://dev.to/therealmrmumba/my-top-10-ai-code-review-tools-you-can-actually-use-in-2025-paf)
-- [&quot;Wait, YOU&#39;RE the developer?&quot; - Being a woman in tech](https://dev.to/mydmoov/wait-youre-the-developer-being-a-woman-in-tech-13kf)
-- [Building a Streaming Data Pipeline with Kafka and Spark: Real-Time Analytics Implementation Guide](https://dev.to/dowerdev/building-a-streaming-data-pipeline-with-kafka-and-spark-real-time-analytics-implementation-guide-1f6d)
-- [Gadget chains in Java: how unsafe deserialization leads to RCE?](https://dev.to/pvsdev/gadget-chains-in-java-how-unsafe-deserialization-leads-to-rce-1bg9)
-- [WTF is Artificial Intelligence of Things &lpar;AIoT&rpar;?](https://dev.to/dailybugle33/wtf-is-artificial-intelligence-of-things-aiot-4dfd)
+- [Unlocking Momentum: My Vibe Coding Journey with AI Tools](https://dev.to/pravin_niceguy/unlocking-momentum-my-vibe-coding-journey-with-ai-tools-408o)
+- [7 Best Zapier Alternatives: No-Code Workflow Automation in 2025](https://dev.to/riwa/7-best-zapier-alternatives-no-code-workflow-automation-in-2025-1o3p)
+- [PikaPods: Quick Hosting for Open-Source Apps Developers Actually Use](https://dev.to/pikapods/pikapods-quick-hosting-for-open-source-apps-developers-actually-use-lj2)
+- [Git GUI Tools - Simplifying Version Control for Test Engineers](https://dev.to/jignect-technologies/git-gui-tools-simplifying-version-control-for-test-engineers-4h3a)
+- [Setting up &lpar;vite+react&rpar; project with shadcn ui.](https://dev.to/limoh653/setting-up-vitereact-project-with-shadcn-ui-2hmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
