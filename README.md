@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Why Xbox Can’t Give Up on Hardware - Next-Gen Console Watch](https://dev.to/gg_news/ign-why-xbox-cant-give-up-on-hardware-next-gen-console-watch-3n1g)
-- [IGN: Fortnite Reload - Official Nitemare Island Trailer](https://dev.to/gg_news/ign-fortnite-reload-official-nitemare-island-trailer-4bfe)
-- [Fortalecendo a Integridade de Aplicações Android: Uma abordagem multicamadas sobre Detecção de Root, Dev Mode e Emuladores.](https://dev.to/renandamasceno/fortalecendo-a-integridade-de-aplicacoes-android-uma-abordagem-multicamadas-sobre-deteccao-de-45p4)
-- [IGN: Chicken Run: Eggstraction - Official Pre-Order Trailer](https://dev.to/gg_news/ign-chicken-run-eggstraction-official-pre-order-trailer-3o51)
-- [IGN: Battlefield 6 - All Campaign Dogtag Locations &lpar;With Timecodes&rpar;](https://dev.to/gg_news/ign-battlefield-6-all-campaign-dogtag-locations-with-timecodes-4ne5)
+- [Manifest and Service Workers in PWAs](https://dev.to/lucaspereiradesouzat/manifest-and-service-workers-in-pwas-5dmc)
+- [Your First Rhino Contribution: Making MVP Development Even Faster](https://dev.to/codalio/your-first-rhino-contribution-making-mvp-development-even-faster-17dc)
+- [Manifest e service workers em PWA](https://dev.to/lucaspereiradesouzat/manifest-e-service-workers-em-pwa-1m7f)
+- [Can You Really Trust Code-Generation Tools?](https://dev.to/talweezy/can-you-really-trust-code-generation-tools-4jo8)
+- [Say Goodbye to Reading and Forgetting: 7 Tried-and-True Methods That Helped My ADHD Brain Fall in Love with Reading](https://dev.to/bev_c_f315db9dd78d629cd4a/say-goodbye-to-reading-and-forgetting-7-tried-and-true-methods-that-helped-my-adhd-brain-fall-in-i79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
