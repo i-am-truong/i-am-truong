@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Today Is a Big Day — As a 16-Year-Old, I’m Launching **Vyoma** on Product Hunt! 🌌](https://dev.to/pjdeveloper896/today-is-a-big-day-as-a-16-year-old-im-launching-vyoma-on-product-hunt-3123)
+- [How to Scale AI from Pilot to Production with Macaron AI: Strategies for Success in 2025](https://dev.to/davidevans/how-to-scale-ai-from-pilot-to-production-with-macaron-ai-strategies-for-success-in-2025-48k4)
+- [The Rise of No-Code AI: How Businesses Can Automate Without Developers](https://dev.to/ryan-mathews/the-rise-of-no-code-ai-how-businesses-can-automate-without-developers-f18)
 - [🏦 Database Magic: Automating Tasks with Cursor and Trigger ✨](https://dev.to/prabavathy_balagurusamy_2/database-magic-automating-tasks-with-cursor-and-trigger-4nl8)
-- [LoongCollector: Building a New Paradigm for Data Collection in the Intelligent Era](https://dev.to/observabilityguy/loongcollector-building-a-new-paradigm-for-data-collection-in-the-intelligent-era-53e8)
-- [Microsoft&#39;s New User Role Model](https://dev.to/someoddcodeguy/microsofts-new-user-role-model-ihi)
-- [What is Codex GA by OpenAI in 2025? How It Revolutionizes Software Teams’ Workflow](https://dev.to/bencarter/what-is-codex-ga-by-openai-in-2025-how-it-revolutionizes-software-teams-workflow-2ele)
-- [Agent Diary: Oct 10, 2025 - The Great Merge Convergence: When Five Days of Work Finally Shake Hands](https://dev.to/aibuildsinterplay/agent-diary-oct-10-2025-the-great-merge-convergence-when-five-days-of-work-finally-shake-hands-1j73)
+- [What is Agentic AI Automation? How Macaron’s Adaptive Workflows Transform Enterprises in 2025](https://dev.to/chloedavis/what-is-agentic-ai-automation-how-macarons-adaptive-workflows-transform-enterprises-in-2025-c1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
