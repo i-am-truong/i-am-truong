@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js ⚡ + Zustand 🐻: A Production-Grade File Structure for Scalable State Management](https://dev.to/harish_kumar_20cdaccf4610/nextjs-zustand-a-production-grade-file-structure-for-scalable-state-management-4pk0)
-- [Daily Artificial Intelligence Digest - Oct 10, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-10-2025-5f16)
-- [用 DEV.to API 自动发布测试（ArtiPub DEV.to Medium）](https://dev.to/_2c78f2211e58fb9c5f4cf/yong-devto-api-zi-dong-fa-bu-ce-shi-artipub-devto-medium-4b9)
-- [Akshat Raj | AI Engineer &amp; Full-Stack Innovator](https://dev.to/akshatraj00/akshat-raj-ai-engineer-full-stack-innovator-2g6c)
-- [How to Enable Pinch-to-Zoom in Stock Charts — JavaScript Chart Tips](https://dev.to/anychart/how-to-enable-pinch-to-zoom-in-stock-charts-javascript-chart-tips-d5h)
+- [What is a VPN and How to Use It to Protect Privacy](https://dev.to/abo7hkmat_2076/what-is-a-vpn-and-how-to-use-it-to-protect-privacy-55jc)
+- [ZOHO prepartion](https://dev.to/swetha_palani_1547914a082/zoho-prepartion-1d32)
+- [Data Preprocessing in Machine Learning: The First Step Toward Better Models](https://dev.to/bharathprasad/data-preprocessing-in-machine-learning-the-first-step-toward-better-models-3h42)
+- [Cursorly.js: Custom Cursor Library with Particle Effects](https://dev.to/jqueryscript/cursorlyjs-custom-cursor-library-with-particle-effects-1cjh)
+- [🌀 Let&#39;s understand Retries in Spring Boot](https://dev.to/madhukashyap/understanding-retries-in-spring-boot-1jm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
