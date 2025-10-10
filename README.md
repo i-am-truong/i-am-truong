@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Your UI with Component-Driven Development in 2025 🚀](https://dev.to/tahamjp/scaling-your-ui-with-component-driven-development-in-2025-40k7)
+- [Best Practices for Deploying Ruby on Rails Apps to Cloud Platforms](https://dev.to/hardik_2011/best-practices-for-deploying-ruby-on-rails-apps-to-cloud-platforms-4g3o)
+- [🔮 When AI Meets Money: Why Gold Might Fade, But Bitcoin Shines Brighter](https://dev.to/tanelith/when-ai-meets-money-why-gold-might-fade-but-bitcoin-shines-brighter-5bgb)
 - [Why Your GitHub Profile Isn&#39;t Enough: Building a Developer Brand That Actually Opens Doors](https://dev.to/sonia_bobrik_1939cdddd79d/why-your-github-profile-isnt-enough-building-a-developer-brand-that-actually-opens-doors-al3)
 - [10,000 Failed Scripts Later: 5 Python Antipatterns to Avoid](https://dev.to/franklinmayoyo/10000-failed-scripts-later-5-python-antipatterns-to-avoid-3ii2)
-- [How I Used AI to Escape My 9–5 and Earn $197,076/Year — My Full Automation Blueprint](https://dev.to/glorioustechs/how-i-used-ai-to-escape-my-9-5-and-earn-197076year-my-full-automation-blueprint-56hn)
-- [In-Depth Sealsq Stock Analysis Report 2025: Expert Forecast, Future Trends, and Market Evaluation](https://dev.to/safdar_meyka_012ecf3f1605/in-depth-sealsq-stock-analysis-report-2025-expert-forecast-future-trends-and-market-evaluation-4ddk)
-- [What Happens When Your Competitor Moves and You Don&#39;t?](https://dev.to/tracksimple/what-happens-when-your-competitor-moves-and-you-dont-4oj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
