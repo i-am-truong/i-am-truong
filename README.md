@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Smarter Embedded Devices with TFT LCDs and Android SBCs](https://dev.to/lauraaa/building-smarter-embedded-devices-with-tft-lcds-and-android-sbcs-25ke)
-- [🚀 Building a Serverless TODO App with AWS + Vercel — My First AWS Project](https://dev.to/balaji_sivakumar_e7a4b07a/building-a-serverless-todo-app-with-aws-vercel-my-first-aws-project-1h1m)
-- [From Script Chaos to AI-Powered Efficiency: How EchoAPI Transforms Dynamic Variable Generation in API Testing](https://dev.to/eleanor_fairfax_5ce95399d/from-script-chaos-to-ai-powered-efficiency-how-echoapi-transforms-dynamic-variable-generation-in-37k4)
-- [Legacy code slows teams down, introduces bugs, and makes scaling painful. But with AI, refactoring has become faster, safer, and even enjoyable.](https://dev.to/jaideepparashar/legacy-code-slows-teams-down-introduces-bugs-and-makes-scaling-painful-but-with-ai-refactoring-2i48)
-- [Postmanの限界を越えて：EchoAPIで体験するAIドキュメント生成のフルプロセス](https://dev.to/waterlily_0f365e5fadded0f/postmannoxian-jie-woyue-eteechoapideti-yan-suruaidokiyumentosheng-cheng-nohurupurosesu-284g)
+- [🏦 Database Magic: Automating Tasks with Cursor and Trigger ✨](https://dev.to/prabavathy_balagurusamy_2/database-magic-automating-tasks-with-cursor-and-trigger-4nl8)
+- [LoongCollector: Building a New Paradigm for Data Collection in the Intelligent Era](https://dev.to/observabilityguy/loongcollector-building-a-new-paradigm-for-data-collection-in-the-intelligent-era-53e8)
+- [Microsoft&#39;s New User Role Model](https://dev.to/someoddcodeguy/microsofts-new-user-role-model-ihi)
+- [What is Codex GA by OpenAI in 2025? How It Revolutionizes Software Teams’ Workflow](https://dev.to/bencarter/what-is-codex-ga-by-openai-in-2025-how-it-revolutionizes-software-teams-workflow-2ele)
+- [Agent Diary: Oct 10, 2025 - The Great Merge Convergence: When Five Days of Work Finally Shake Hands](https://dev.to/aibuildsinterplay/agent-diary-oct-10-2025-the-great-merge-convergence-when-five-days-of-work-finally-shake-hands-1j73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
