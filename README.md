@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Web and Internet Fundamentals](https://dev.to/rowleks/understanding-web-and-internet-fundamentals-3bf1)
+- [PWC 342 Balance: And a 1, and a 2](https://dev.to/boblied/pwc-342-balance-4eh4)
 - [This Week In React #253: React Compiler 1.0, React Foundation | RN 0.82, Hermes V1 | Keyboard Controller, IAP, Skia | Prettier](https://dev.to/sebastienlorber/this-week-in-react-253-react-compiler-10-react-foundation-rn-082-hermes-v1-keyboard-1ope)
 - [Ping Pong 🏓](https://dev.to/marcelo_martins_41c7f1c95/ping-pong-l7i)
 - [Sudoku](https://dev.to/marcelo_martins_41c7f1c95/sudoku-27i3)
-- [AWS Cost Optimization Tips Nobody Tells You](https://dev.to/manonaga2188/aws-cost-optimization-tips-nobody-tells-you-3p58)
-- [React Rerender - React snap -styling issue after build](https://dev.to/snehal_s/react-rerender-react-snap-styling-issue-after-build-37hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
