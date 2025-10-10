@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Capitulo 2 | Estructuras de datos y algoritmos | Parte 1](https://dev.to/unapauli/capitulo-2-estructuras-de-datos-y-algoritmos-parte-1-nh7)
+- [Interfacing 2.4&quot; SSD1309 SPI OLED Display With ESP8266](https://dev.to/ibrahimgunduz34/interfacing-24-ssd1309-spi-oled-display-with-esp8266-42bm)
+- [Why I Built an Open-Source Kit to Help Demystify OWASP ASVS Compliance](https://dev.to/kaademos/why-i-built-an-open-source-kit-to-help-demystify-owasp-asvs-compliance-4cjg)
 - [Master Regex for Free: 3 Fun and Interactive Sites Every Dev Should Know](https://dev.to/werliton/master-regex-for-free-3-fun-and-interactive-sites-every-dev-should-know-13jl)
 - [Livewire without Livewire, Inertia without Inertia, GraphQL without GraphQL. And all with plain Laravel](https://dev.to/raheelshan/livewire-without-livewire-inertia-without-inertia-graphql-without-graphql-and-all-with-plain-3bic)
-- [Building a True Dual-Destination Analytics Pipeline: Real-Time Streaming with S3 Backup and Recovery](https://dev.to/gurudev_prasadteketi/building-a-true-dual-destination-analytics-pipeline-real-time-streaming-with-s3-backup-and-recovery-php)
-- [Building A Real-Time Communication System Using Go and WebSocket](https://dev.to/ashisrahman/building-a-real-time-communication-system-using-go-and-websocket-3ocf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
