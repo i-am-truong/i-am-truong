@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Will clean code principles remain relevant in the AI era?](https://dev.to/massimo_deiana_ccce73063a/will-clean-code-principles-remain-relevant-in-the-ai-era-bf7)
-- [Simplifying SwiftUI Navigation with SnazzyRouter: A Modern Approach to Routing](https://dev.to/dubon-yaar/simplifying-swiftui-navigation-with-snazzyrouter-a-modern-approach-to-routing-3d71)
-- [Your AI Chatbot Just Leaked Customer Data to OpenAI. Here’s How it Happened and How to Prevent it](https://dev.to/fintechbro/your-ai-chatbot-just-leaked-customer-data-to-openai-heres-how-it-happened-and-how-to-prevent-it-i5f)
-- [Scaling Your UI with Component-Driven Development in 2025 🚀](https://dev.to/tahamjp/scaling-your-ui-with-component-driven-development-in-2025-40k7)
-- [Best Practices for Deploying Ruby on Rails Apps to Cloud Platforms](https://dev.to/hardik_2011/best-practices-for-deploying-ruby-on-rails-apps-to-cloud-platforms-4g3o)
+- [This Week In React #253: React Compiler 1.0, React Foundation | RN 0.82, Hermes V1 | Keyboard Controller, IAP, Skia | Prettier](https://dev.to/sebastienlorber/this-week-in-react-253-react-compiler-10-react-foundation-rn-082-hermes-v1-keyboard-1ope)
+- [Ping Pong 🏓](https://dev.to/marcelo_martins_41c7f1c95/ping-pong-l7i)
+- [Sudoku](https://dev.to/marcelo_martins_41c7f1c95/sudoku-27i3)
+- [AWS Cost Optimization Tips Nobody Tells You](https://dev.to/manonaga2188/aws-cost-optimization-tips-nobody-tells-you-3p58)
+- [React Rerender - React snap -styling issue after build](https://dev.to/snehal_s/react-rerender-react-snap-styling-issue-after-build-37hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
