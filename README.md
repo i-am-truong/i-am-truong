@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ C in Action: Real Projects You Can Build to Master It](https://dev.to/charan_gutti_cf60c6185074/c-in-action-real-projects-you-can-build-to-master-it-3cm2)
-- [Remote AI Coding with Claude Code and ShellHub](https://dev.to/gustavosbarreto/remote-ai-coding-with-claude-code-and-shellhub-25)
-- [Create OHLC Candles with Python &lpar;Pandas + Plotly&rpar;](https://dev.to/gonzalezlrjesus/create-ohlc-candles-with-python-pandas-plotly-kal)
-- [How to Integrate AI APIs into Your Flutter App - Google ML Kit.](https://dev.to/techwithsam/how-to-integrate-ai-apis-into-your-flutter-app-google-ml-kit-44g2)
-- [Meshery uses Playwright for e2e testing.](https://dev.to/ramunarasinga-11/meshery-uses-playwright-for-e2e-testing-30pk)
+- [Made it free because interview prep is stressful enough!](https://dev.to/anjandutta/made-it-free-because-interview-prep-is-stressful-enough-29b4)
+- [🚀 The Biggest AI Releases of September 2025](https://dev.to/aniruddhaadak/the-biggest-ai-releases-of-september-2025-m49)
+- [AlphaApollo: The Self-Evolving AI Dream Team](https://dev.to/naresh_007/alphaapollo-the-self-evolving-ai-dream-team-26ng)
+- [OSD600 Lab 5](https://dev.to/bhchen24/osd600-lab-5-16hk)
+- [🐍 I&#39;m Learning Python — My Journey So Far](https://dev.to/parthadeori/im-learning-python-my-journey-so-far-5c1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
