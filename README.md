@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [English - the hottest programming language of the future](https://dev.to/migrosonline/english-the-hottest-programming-language-of-the-future-a8n)
+- [Social media on scratch](https://dev.to/keani_maruy_be35cce06ee95/social-media-on-scratch-404h)
+- [🏋️ Day 10 of #30DaysOfSolidity — Building a Decentralized Fitness Tracker with Events &amp; Milestones](https://dev.to/sauravkumar8178/day-10-of-30daysofsolidity-building-a-decentralized-fitness-tracker-with-events-milestones-lbo)
 - [How PROMPT FIX Brings NanoBanana , Seedream, ComfyUI and Qwen Image Edit 2509 Directly Into Photoshop](https://dev.to/shaaraa/how-prompt-fix-brings-nanobanana-seedream-comfyui-and-qwen-image-edit-2509-directly-into-50jk)
 - [First time on!](https://dev.to/keani_maruy_be35cce06ee95/first-time-on-3ipo)
-- [Trust Math, Not Humans: Building the World&#39;s First Mathematically Provable Security Vault](https://dev.to/chronosvault/trust-math-not-humans-building-the-worlds-first-mathematically-provable-security-vault-3bk1)
-- [How I Built My Own Next.js Template Store &lpar;And What I Learned&rpar;](https://dev.to/mohamed_djoudir/how-i-built-my-own-nextjs-template-store-and-what-i-learned-53la)
-- [Cloud-Agnostic Replication Fabric: The Future of Real-Time Data Movement &lpar;and Where Helyx Fits In&rpar;](https://dev.to/pokhraj_das_oracle/cloud-agnostic-replication-fabric-the-future-of-real-time-data-movement-and-where-helyx-fits-in-2p9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
