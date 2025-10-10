@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aurora cross region replica or global database ?](https://dev.to/wakeup_flower_8591a6cb6a9/aurora-cross-region-replica-or-global-database--5911)
+- [🧭 Runbook: Como Rodar um Playbook Ansible com Pipeline CI/CD e SSH via Bastion](https://dev.to/filipi_souza_9aefcab771a7/runbook-como-rodar-um-playbook-ansible-com-pipeline-cicd-e-ssh-via-bastion-9fn)
 - [WPA2 Lab Walkthrough — Capture, Analyze, and Harden &lpar;Simulated Only&rpar;](https://dev.to/seifeldienahmad/wpa2-lab-walkthrough-capture-analyze-and-harden-simulated-only-2506)
 - [English - the hottest programming language of the future](https://dev.to/migrosonline/english-the-hottest-programming-language-of-the-future-a8n)
 - [Ursina - Game Engine for Python](https://dev.to/imrrobot/ursina-game-engine-for-python-2dmj)
-- [Social media on scratch](https://dev.to/keani_maruy_be35cce06ee95/social-media-on-scratch-404h)
-- [🏋️ Day 10 of #30DaysOfSolidity — Building a Decentralized Fitness Tracker with Events &amp; Milestones](https://dev.to/sauravkumar8178/day-10-of-30daysofsolidity-building-a-decentralized-fitness-tracker-with-events-milestones-lbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
