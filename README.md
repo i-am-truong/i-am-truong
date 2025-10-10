@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Developers Are Building the Backbone of Digital Finance](https://dev.to/rejoice_shalomagtagma_1c/how-developers-are-building-the-backbone-of-digital-finance-1e1m)
-- [💡 El auge de la inversión en criptomonedas en 2025: lo que los desarrolladores deben tener en cuenta](https://dev.to/paddy_e4d3d274ebc7/el-auge-de-la-inversion-en-criptomonedas-en-2025-lo-que-los-desarrolladores-deben-tener-en-cuenta-pdg)
-- [⚙️ Behind Every API: The Role of a Backend Developer](https://dev.to/sandeep_03j/behind-every-api-the-role-of-a-backend-developer-4756)
-- [Do Websites Need Memory to Truly Understand Users?](https://dev.to/dct_technology/do-websites-need-memory-to-truly-understand-users-524a)
-- [Part 4: Advanced MCP Patterns and Tool Chaining](https://dev.to/techstuff/part-4-advanced-mcp-patterns-and-tool-chaining-4ll7)
+- [Learn JavaScript in 30 Days: A Practical Coding Guide](https://dev.to/suraj_kumar_fb57ae0928df2/learn-javascript-in-30-days-a-practical-coding-guide-176a)
+- [The Future Full Stack Isn’t Code — It’s Coordination](https://dev.to/dct_technology/the-future-full-stack-isnt-code-its-coordination-b9k)
+- [How to Secure Retail Membership Programs in 2025: Building Trust Through Data Protection](https://dev.to/nicenicdomainserver/how-to-secure-retail-membership-programs-in-2025-building-trust-through-data-protection-18a8)
+- [Skyrocket Your Career: Why a Data Analytics Course is Your Path to a Data-Driven Future](https://dev.to/ashutosh_3703b28fc6e669bd/skyrocket-your-career-why-a-data-analytics-course-is-your-path-to-a-data-driven-future-n49)
+- [Rayven is solving the challenge of delivering apps](https://dev.to/adelheid_siegmund_ff17f8a/rayven-is-solving-the-challenge-of-delivering-apps-1n88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
