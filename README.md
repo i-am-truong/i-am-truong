@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Web and Internet Fundamentals](https://dev.to/rowleks/understanding-web-and-internet-fundamentals-3bf1)
-- [PWC 342 Balance: And a 1, and a 2](https://dev.to/boblied/pwc-342-balance-4eh4)
-- [This Week In React #253: React Compiler 1.0, React Foundation | RN 0.82, Hermes V1 | Keyboard Controller, IAP, Skia | Prettier](https://dev.to/sebastienlorber/this-week-in-react-253-react-compiler-10-react-foundation-rn-082-hermes-v1-keyboard-1ope)
-- [Ping Pong 🏓](https://dev.to/marcelo_martins_41c7f1c95/ping-pong-l7i)
-- [Sudoku](https://dev.to/marcelo_martins_41c7f1c95/sudoku-27i3)
+- [Shopify + Triochat](https://dev.to/triochat_io/shopify-triochat-4en7)
+- [Billing and Subscription](https://dev.to/triochat_io/billing-and-subscription-5f97)
+- [🧩 Day 9 of #30DaysOfSolidity — Contract-to-Contract Interaction](https://dev.to/sauravkumar8178/day-9-of-30daysofsolidity-contract-to-contract-interaction-5hnh)
+- [Fast Map Development: Using Context7 + Claude CLI with MapMetrics-GL](https://dev.to/mapmetrics/fast-map-development-using-context7-claude-cli-with-mapmetrics-gl-47eo)
+- [End-to-End YouTube Channel Analytics Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/end-to-end-youtube-channel-analytics-pipeline-4b6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
