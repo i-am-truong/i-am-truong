@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Data Pipelines Need Streaming — Isn’t Batch Processing Enough?](https://dev.to/__354f265b41dafa0d901b/why-do-data-pipelines-need-streaming-isnt-batch-processing-enough-17l4)
-- [I Tried an AI Tool That Turns Any Content Into a Mind Map So You Actually Remember Stuff](https://dev.to/nitinfab/i-tried-an-ai-tool-that-turns-any-content-into-a-mind-map-so-you-actually-remember-stuff-1p1f)
-- [I Built a Free Online Video Compressor in 2 Weeks](https://dev.to/chris_howe/i-built-a-free-online-video-compressor-in-2-weeks-49id)
-- [Blackbird: The AI-Powered OSINT Account Enumeration Tool](https://dev.to/adityapidurkar/blackbird-the-ai-powered-osint-account-enumeration-tool-4382)
-- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-hdm)
+- [Part-120: 🚀Build, Push, and Deploy a Docker Image to Google Artifact Registry on Google Kubernetes Engine](https://dev.to/latchudevops/part-120-build-push-and-deploy-a-docker-image-to-google-artifact-registry-on-google-kubernetes-1n1d)
+- [ACID Properties in DBMS](https://dev.to/nahuleswaran_s24cb031_b4/acid-properties-in-dbms-2o13)
+- [Claude Sonnet 4.5: 61% Reliable AI Agent - Copilot, Not Autopilot](https://dev.to/aiwithapex/claude-sonnet-45-61-reliable-ai-agent-copilot-not-autopilot-m46)
+- [How I&#39;m Fighting My Gaming Addiction with Work](https://dev.to/fbgfh_fjff_e9d9cd5bcc1ed8/how-im-fighting-my-gaming-addiction-with-work-4d7j)
+- [Day 06 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-06-of-my-ai-data-mastery-journey-from-python-to-generative-ai-4emh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
