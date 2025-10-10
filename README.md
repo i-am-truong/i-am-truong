@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-447k)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-44p1)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3bg9)
-- [Wallet-as-a-Service: The Secret Weapon Web3 Founders Can’t Ignore](https://dev.to/k_wilson/wallet-as-a-service-the-secret-weapon-web3-founders-cant-ignore-43m2)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-lej)
+- [50 Most Useful CSS3 Snippets](https://dev.to/softwaredeveloper01/50-most-useful-css3-snippets-17g4)
+- [IGN: Why Xbox Can’t Give Up on Hardware - Next-Gen Console Watch](https://dev.to/gg_news/ign-why-xbox-cant-give-up-on-hardware-next-gen-console-watch-34id)
+- [IGN: Little Nightmares 3 - Official &#39;Hold My Hand&#39; Launch Trailer](https://dev.to/gg_news/ign-little-nightmares-3-official-hold-my-hand-launch-trailer-4625)
+- [mx: Turn Your Documentation into Executable Tasks](https://dev.to/harehare/mx-turn-your-documentation-into-executable-tasks-58g7)
+- [Implementing a Basic MCP Server and Two Communicating Agents in Python](https://dev.to/aairom/implementing-a-basic-mcp-server-and-two-communicating-agents-in-python-1lk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
