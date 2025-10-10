@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Reddit Sensational Video Summarizer &amp; Shorts Extractor:](https://dev.to/ryanboscobanze/ai-reddit-sensational-video-summarizer-shorts-extractor-if2)
-- [From Programmer to AI Code Supervisor](https://dev.to/mteheran/from-programmer-to-ai-code-supervisor-18i6)
-- [Day 4 of documentating my learning journey](https://dev.to/james_kabuga/day-4-of-documentating-my-learning-journey-3ohe)
-- [URL Image Uploader for Filament — Upload from Anywhere in Seconds](https://dev.to/amjadiqbal/url-image-uploader-for-filament-upload-from-anywhere-in-seconds-hfk)
-- [A Beginner’s Roadmap to the AI Development Lifecycle in 2025](https://dev.to/nayeem79/a-beginners-roadmap-to-the-ai-development-lifecycle-in-2025-5f79)
+- [Laragon’s Best Alternative in 2025: Why ServBay Is Redefining Local Dev Environments](https://dev.to/lamri_abdellahramdane_15/laragons-best-alternative-in-2025-why-servbay-is-redefining-local-dev-environments-2pm8)
+- [🧠 Real-Time Smart Speech Assistant with Python, Whisper &amp; LLMs](https://dev.to/ryanboscobanze/real-time-smart-speech-assistant-with-python-whisper-llms-5c38)
+- [My 5-year development journey - From kid to bachelor student with 4 years of work experience](https://dev.to/jarne/my-5-year-development-journey-from-kid-to-bachelor-student-with-4-years-of-work-experience-pk7)
+- [Refactoring with git rebase](https://dev.to/slyang08/refactoring-with-git-rebase-e94)
+- [Moving from PostgreSQL to SQLite in Django: Handling Locale-Aware Sorting](https://dev.to/valasek/moving-from-postgresql-to-sqlite-in-django-handling-locale-aware-sorting-48e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
