@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python basics - Day 01](https://dev.to/ian_b838138a27a917398d181/python-basics-day-01-222m)
+- [How to Build, Tag, and Push Docker Images to Docker Hub](https://dev.to/theodora_e6f61d02577a5f06/how-to-build-tag-and-push-docker-images-to-docker-hub-1660)
+- [Css styling, Cards grid and overlay effect! thanks to cursor ai!](https://dev.to/lain/css-styling-cards-grid-and-overlay-effect-thanks-to-cursor-ai-2i47)
 - [Rebuild #1.2: Just use F***ing use HTML](https://dev.to/raworiginal/rebuild-12-just-use-fing-use-html-3jld)
-- [How My AI Projects Hit the Jackpot in Hacktoberfest - A Maintainer&#39;s Tale](https://dev.to/shraddharao_/how-my-ai-projects-hit-the-jackpot-in-hacktoberfest-a-maintainers-tale-33no)
-- [How I Learned to Embrace my Chaotic Brain](https://dev.to/bmejias/how-i-learned-to-embrace-my-chaotic-brain-4m3e)
-- [🏌️‍♂️ How I Built a Golf Swing Analyzer in Python Using AI Pose Detection &lpar;That Actually Works&rpar;](https://dev.to/ryanboscobanze/how-i-built-a-golf-swing-analyzer-in-python-using-ai-pose-detection-that-actually-works-3jc5)
-- [Building a Production Server from Scratch: The Ultimate Guide](https://dev.to/arhamrumi/building-a-production-server-from-scratch-the-ultimate-guide-5ep6)
+- [Why Microservices and Why not ?](https://dev.to/harsh_jha_ff2e2c5509de458/why-microservices-and-why-not--4he5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
