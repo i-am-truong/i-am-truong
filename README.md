@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [11 Best App Development Courses to Take in 2026](https://dev.to/stack_overflowed/11-best-app-development-courses-to-take-in-2026-54m4)
-- [Cursor +Trigger](https://dev.to/nahuleswaran_s24cb031_b4/cursor-trigger-18mj)
-- [Picking the Right Data Format for Your Workflow](https://dev.to/haresh_kn_/picking-the-right-data-format-for-your-workflow-2ffm)
-- [Block S3 Website with Terraform &lpar;Keep IP Access Ready&rpar;](https://dev.to/jajera/block-s3-website-with-terraform-keep-ip-access-ready-5ema)
-- [AWS Control Tower: Create Your First Landing Zone](https://dev.to/jajera/aws-control-tower-create-your-first-landing-zone-3i6j)
+- [My experience with Hardware: HWID Spoofers and BANS!](https://dev.to/mina_tremblay_9ae0fef8e42/my-experience-with-hardware-hwid-spoofers-and-bans-59g4)
+- [Database Normalization: From 1NF to 3NF](https://dev.to/nahuleswaran_s24cb031_b4/database-normalization-from-1nf-to-3nf-1mog)
+- [Part-2: AWS Global Infrastructure | Amazon Web Services](https://dev.to/olymahmud/part-2-aws-global-infrastructure-amazon-web-services-2n2f)
+- [How We Built KudiPod - A Fast, Modern Business Management App for Everyday Entrepreneurs](https://dev.to/cizonet/how-we-built-kudipod-a-fast-modern-business-management-app-for-everyday-entrepreneurs-54a6)
+- [Why QA Should Be Involved Early in the Software Development Lifecycle](https://dev.to/misterankit/why-qa-should-be-involved-early-in-the-software-development-lifecycle-169g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
