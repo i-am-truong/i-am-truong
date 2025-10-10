@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Library Method: Understanding @cache](https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-cache-57l1)
-- [Hacktoberfest Week 1](https://dev.to/kphero/hacktoberfest-week-1-53mh)
-- [Understanding `&#39;PropsWithChildren&#39;` and `verbatimModuleSyntax` in React + TypeScript 5](https://dev.to/cristiansifuentes/understanding-propswithchildren-and-verbatimmodulesyntax-in-react-typescript-5-5fie)
-- [Stress Testing Go Memory: A Practical Guide to High-Load Scenarios](https://dev.to/jones_charles_ad50858dbc0/stress-testing-go-memory-a-practical-guide-to-high-load-scenarios-349c)
-- [Refactoring My Code and Rewriting Git History](https://dev.to/oleksandrakordonets/refactoring-my-code-and-rewriting-git-history-d2e)
+- [smartsence - siddhi](https://dev.to/sidatgithubcode/smartsence-siddhi-4cgo)
+- [Converting HEIC image extension in Node.js with the sharp library](https://dev.to/ilyasa1211/converting-heic-image-extension-in-nodejs-with-the-sharp-library-39mg)
+- [My Journey Refactoring Code and Rebase with Git](https://dev.to/hsachdeva9/my-journey-refactoring-code-and-rebase-with-git-3hek)
+- [Postman vs EchoAPI：AIとノーコードでアサーションをもっとラクにした話](https://dev.to/waterlily_0f365e5fadded0f/postman-vs-echoapiaitonokododeasasiyonwomotutorakunisitahua-4k24)
+- [In 2025, your resume is not for humans.](https://dev.to/jnelken/in-2025-your-resume-is-not-for-humans-1od0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
