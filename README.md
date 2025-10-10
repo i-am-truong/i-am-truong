@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python basics - Day 01](https://dev.to/ian_b838138a27a917398d181/python-basics-day-01-222m)
-- [How to Build, Tag, and Push Docker Images to Docker Hub](https://dev.to/theodora_e6f61d02577a5f06/how-to-build-tag-and-push-docker-images-to-docker-hub-1660)
-- [Css styling, Cards grid and overlay effect! thanks to cursor ai!](https://dev.to/lain/css-styling-cards-grid-and-overlay-effect-thanks-to-cursor-ai-2i47)
-- [Rebuild #1.2: Just use F***ing use HTML](https://dev.to/raworiginal/rebuild-12-just-use-fing-use-html-3jld)
-- [Why Microservices and Why not ?](https://dev.to/harsh_jha_ff2e2c5509de458/why-microservices-and-why-not--4he5)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-566b)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-19ib)
+- [Security news weekly round-up - 10th October 2025](https://dev.to/ziizium/security-news-weekly-round-up-10th-october-2025-1khb)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-lkk)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-4g8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
