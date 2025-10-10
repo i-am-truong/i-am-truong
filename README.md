@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Observation processing network](https://dev.to/rikinptl/observation-processing-network-2m8j)
-- [How to Approach an AI Chatbot Development for Your Organization](https://dev.to/secuodsoft/how-to-approach-an-ai-chatbot-development-for-your-organization-31jj)
-- [[Boost]](https://dev.to/helena_figueiredocosta_d/-57gg)
-- [Unlocking Momentum: My Vibe Coding Journey with AI Tools](https://dev.to/pravin_niceguy/unlocking-momentum-my-vibe-coding-journey-with-ai-tools-408o)
-- [java introduction](https://dev.to/manikandan_m_16/java-introduction-1531)
+- [What is Jenkins?](https://dev.to/e77/what-is-jenkins-3lb5)
+- [🚀 Upcoming Webinar: Working with Sentinel-1 Data in EOPF Zarr Format](https://dev.to/esthermillet/upcoming-webinar-working-with-sentinel-1-data-in-eopf-zarr-format-207p)
+- [What are the emotional aspects of choosing a sperm donor?](https://dev.to/ashika_chandran_857549718/what-are-the-emotional-aspects-of-choosing-a-sperm-donor-4kg)
+- [Deepfake Defense: Emergency Guide for Filipino Firms Against AI Fraud in 2025](https://dev.to/alvinveroy/deepfake-defense-emergency-guide-for-filipino-firms-against-ai-fraud-in-2025-48p3)
+- [Unlocking Agricultural Insights: The Power of BI and DAX in Data Analysis](https://dev.to/kenyansa/unlocking-agricultural-insights-the-power-of-bi-and-dax-in-data-analysis-4co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
