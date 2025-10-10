@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is a Large Language Model &lpar;LLM&rpar;](https://dev.to/snehalkadwe/what-is-a-large-language-model-llm-2gca)
-- [Building a Production-Ready LMS Platform: A Complete Guide to Modern EdTech Architecture](https://dev.to/nadim_ch0wdhury/building-a-production-ready-lms-platform-a-complete-guide-to-modern-edtech-architecture-16ek)
-- [Streams o que são e como usar no NodeJS](https://dev.to/matheusgondra/streams-o-que-sao-e-como-usar-no-nodejs-373d)
-- [schema session](https://dev.to/query_filter_591122b53770/schema-session-9lf)
-- [From RNNs to ChatGPT: The Paper That Changed How AI Thinks 🤖](https://dev.to/yuktisays/from-rnns-to-chatgpt-the-paper-that-changed-how-ai-thinks-3ke3)
+- [How PROMPT FIX Brings NanoBanana , Seedream, ComfyUI and Qwen Image Edit 2509 Directly Into Photoshop](https://dev.to/shaaraa/how-prompt-fix-brings-nanobanana-seedream-comfyui-and-qwen-image-edit-2509-directly-into-50jk)
+- [First time on!](https://dev.to/keani_maruy_be35cce06ee95/first-time-on-3ipo)
+- [Trust Math, Not Humans: Building the World&#39;s First Mathematically Provable Security Vault](https://dev.to/chronosvault/trust-math-not-humans-building-the-worlds-first-mathematically-provable-security-vault-3bk1)
+- [How I Built My Own Next.js Template Store &lpar;And What I Learned&rpar;](https://dev.to/mohamed_djoudir/how-i-built-my-own-nextjs-template-store-and-what-i-learned-53la)
+- [Cloud-Agnostic Replication Fabric: The Future of Real-Time Data Movement &lpar;and Where Helyx Fits In&rpar;](https://dev.to/pokhraj_das_oracle/cloud-agnostic-replication-fabric-the-future-of-real-time-data-movement-and-where-helyx-fits-in-2p9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
