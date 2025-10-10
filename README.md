@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b16)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-26oj)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-37mb)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4ehn)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-50o6)
+- [Next.js ⚡ + Zustand 🐻: A Production-Grade File Structure for Scalable State Management](https://dev.to/harish_kumar_20cdaccf4610/nextjs-zustand-a-production-grade-file-structure-for-scalable-state-management-4pk0)
+- [Daily Artificial Intelligence Digest - Oct 10, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-10-2025-5f16)
+- [用 DEV.to API 自动发布测试（ArtiPub DEV.to Medium）](https://dev.to/_2c78f2211e58fb9c5f4cf/yong-devto-api-zi-dong-fa-bu-ce-shi-artipub-devto-medium-4b9)
+- [Akshat Raj | AI Engineer &amp; Full-Stack Innovator](https://dev.to/akshatraj00/akshat-raj-ai-engineer-full-stack-innovator-2g6c)
+- [How to Enable Pinch-to-Zoom in Stock Charts — JavaScript Chart Tips](https://dev.to/anychart/how-to-enable-pinch-to-zoom-in-stock-charts-javascript-chart-tips-d5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
