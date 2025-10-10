@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Don’t Think About It&quot;: Why the Brain Thinks the Opposite &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/dont-think-about-it-why-the-brain-thinks-the-opposite-bite-size-article-1ah6)
+- [The Solo Developer&#39;s Product Stack: 4 Things I Wish I&#39;d Set Up From Day One](https://dev.to/shayy/the-solo-developers-product-stack-4-things-i-wish-id-set-up-from-day-one-158j)
+- [Book Review — The Creative Act: A Way of Being by Rick Rubin](https://dev.to/aileenvl/book-review-the-creative-act-a-way-of-being-by-rick-rubin-5eeb)
 - [Data in Everyday Life](https://dev.to/mubby042/data-in-everyday-life-15j1)
 - [🐼 Pandas DataFrame Selection, Filtering &amp; Cleaning — Hands-on Practice.](https://dev.to/ashok_kumar_564581944e3ef/pandas-dataframe-selection-filtering-cleaning-hands-on-practice-309i)
-- [Building an HTTP Server from Scratch in C: A Journey into Network Programming](https://dev.to/ethan_ac5ca38abc559d950c9/building-an-http-server-from-scratch-in-c-a-journey-into-network-programming-19oa)
-- [Autotools Introduction](https://dev.to/pauljlucas/autotools-introduction-p9b)
-- [Building Trust for AI Agents — ISM-X: A Privacy-Preserving Identity Layer &lpar;with demo&rpar;](https://dev.to/damjan_akelj_be1aab4a715/building-trust-for-ai-agents-ism-x-a-privacy-preserving-identity-layer-with-demo-4ifj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
