@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Memorizing Scripture May Be Doing the Opposite of What You Think](https://dev.to/brain_athlete/why-memorizing-scripture-may-be-doing-the-opposite-of-what-you-think-ji7)
-- [pgps_u1_a2_zajh](https://dev.to/jimenz2/pgpsu1a2zajh-e4k)
-- [WriteFreely subscription vs hosting costs](https://dev.to/rosgluk/writefreely-subscription-vs-hosting-costs-4knl)
-- [Building a Chess App: Efficient Real-time Move Validation Using Bitboards in React Native](https://dev.to/dowerdev/building-a-chess-app-efficient-real-time-move-validation-using-bitboards-in-react-native-1dja)
-- [What is Jenkins?](https://dev.to/e77/what-is-jenkins-3lb5)
+- [Is DevRel Just About Events, or Something Deeper?](https://dev.to/pratikmahalle/is-devrel-just-about-events-or-something-deeper-40fc)
+- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-5hfl)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-569p)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2e9b)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4co9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
