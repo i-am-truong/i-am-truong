@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is GEO &lpar;Generative Engine Optimization&rpar; — and Why You Should Care as a Web Designer &amp; SEO Specialist](https://dev.to/rishikumar_yadav_06b014b5/what-is-geo-generative-engine-optimization-and-why-you-should-care-as-a-web-designer-seo-2dpo)
-- [Supporting Offline Payments in Low-Connectivity Areas](https://dev.to/flutterwaveeng/supporting-offline-payments-in-low-connectivity-areas-5065)
-- [From Idea to App in a Day: How Low-Code Platforms Are Accelerating Business Innovation](https://dev.to/softyflow/from-idea-to-app-in-a-day-how-low-code-platforms-are-accelerating-business-innovation-1fij)
-- [Which PayPal System Design interview platform will help you get hired?](https://dev.to/dev_loops/which-paypal-system-design-interview-platform-will-help-you-get-hired-2110)
-- [The Party Wall Act 1996 Simplified: Rights and Responsibilities](https://dev.to/jason-edworthy/the-party-wall-act-1996-simplified-rights-and-responsibilities-5eoh)
+- [How to Migrate from Sanity to Strapi: Complete Step-by-Step Guide](https://dev.to/strapi/how-to-migrate-from-sanity-to-strapi-complete-step-by-step-guide-16nm)
+- [Building Scalable Multi-Tenant Integrations: Lessons from Real-World SaaS Projects](https://dev.to/genesis_technologies/building-scalable-multi-tenant-integrations-lessons-from-real-world-saas-projects-43cl)
+- [An AI Literally Attempted Murder To Avoid Shutdown:](https://dev.to/dehemi_fabio/an-ai-literally-attempted-murder-to-avoid-shutdown-716)
+- [How to Create and Configure Virtual Networks in Azure](https://dev.to/adeyemo/how-to-create-and-configure-virtual-networks-in-azure-2ga6)
+- [Tired of Passwords? Meet Passkeys: Your Keychain to a Passwordless Future](https://dev.to/karthik_n/tired-of-passwords-meet-passkeys-your-keychain-to-a-passwordless-future-3fhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
