@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplest and quickest blog website](https://dev.to/shreyvijayvargiya/simplest-and-quickest-blog-website-51i3)
-- [From Sitemap to Word Docs &lpar;Fast!&rpar;: A Friendly, Non-Tech Guide](https://dev.to/zigma/from-sitemap-to-word-docs-fast-a-friendly-non-tech-guide-1800)
-- [INLINE vs. NORMAL FUNCTIONS: What&#39;s Really Happening in Assembly?](https://dev.to/dima853/inline-vs-normal-functions-whats-really-happening-in-assembly-31l0)
-- [A Reproducible Way to Size Ultra-Thin Solid-State Film Batteries for GPT48-X / GPT50](https://dev.to/applekoiot/a-reproducible-way-to-size-ultra-thin-solid-state-film-batteries-for-gpt48-x-gpt50-4a4e)
-- [⚡ Turn On or Off Fast Startup in Windows 11](https://dev.to/kasuken/turn-on-or-off-fast-startup-in-windows-11-4pgh)
+- [⚙️ C in Action: Real Projects You Can Build to Master It](https://dev.to/charan_gutti_cf60c6185074/c-in-action-real-projects-you-can-build-to-master-it-3cm2)
+- [Remote AI Coding with Claude Code and ShellHub](https://dev.to/gustavosbarreto/remote-ai-coding-with-claude-code-and-shellhub-25)
+- [Create OHLC Candles with Python &lpar;Pandas + Plotly&rpar;](https://dev.to/gonzalezlrjesus/create-ohlc-candles-with-python-pandas-plotly-kal)
+- [How to Integrate AI APIs into Your Flutter App - Google ML Kit.](https://dev.to/techwithsam/how-to-integrate-ai-apis-into-your-flutter-app-google-ml-kit-44g2)
+- [Meshery uses Playwright for e2e testing.](https://dev.to/ramunarasinga-11/meshery-uses-playwright-for-e2e-testing-30pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
