@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Efficient Data Synchronization for Offline-First Mobile Applications](https://dev.to/elratto21/implementing-efficient-data-synchronization-for-offline-first-mobile-applications-1bbg)
-- [Go Coding with Asparagos: Lemon Squeezy, Dynamic Easy](https://dev.to/asparagos/go-coding-with-asparagos-lemon-squeezy-dynamic-easy-12lc)
-- [Docker: A Beginner&#39;s Guide](https://dev.to/saswat10/docker-a-beginners-guide-1138)
-- [[Solved] How to Fix &quot;InvalidKey/AuthFailure&quot; Error in Google Maps API &lpar;React + Vite&rpar;](https://dev.to/kazutora_hattori_66972c88/solved-how-to-fix-invalidkeyauthfailure-error-in-google-maps-api-react-vite-4n5j)
-- [The Missing Bridge: Running Java Seamlessly Inside Your Node.js App](https://dev.to/mauro_mazzocchetti_300073/the-missing-bridge-running-java-seamlessly-inside-your-nodejs-app-43oc)
+- [How to Optimize AI Model &amp; Bot Training Services](https://dev.to/emilyg/how-to-optimize-ai-model-bot-training-services-47ba)
+- [Implementing Efficient Data Synchronization for Offline-First Mobile Applications](https://dev.to/elratto21/implementing-efficient-data-synchronization-for-offline-first-mobile-applications-525c)
+- [How to Use Terraform Tolist Function](https://dev.to/spacelift/how-to-use-terraform-tolist-function-28j1)
+- [Best AI meeting assistants for small teams](https://dev.to/isabellerad/best-ai-meeting-assistants-for-small-teams-5285)
+- [Building a Simple API with Node.js and Express](https://dev.to/ofodile/building-a-simple-api-with-nodejs-and-express-3ngk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
