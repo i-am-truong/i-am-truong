@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ZKP](https://dev.to/nairsreya/zkp-2o8j)
-- [5 Most Used Excel Functions by Data Analysts &lpar;And Why You Should Master Them&rpar;](https://dev.to/imliami0dev/5-most-used-excel-functions-by-data-analysts-and-why-you-should-master-them-3ahp)
-- [My First PR into the Hactoberfest...](https://dev.to/hsachdeva9/my-first-pr-into-the-hactoberfest-3da3)
-- [LatamBoard: Building Open, Transparent AI Evaluation for Latin America](https://dev.to/mauro_ibaez_f9e7f91f932a/latamboard-building-open-transparent-ai-evaluation-for-latin-america-2kp7)
-- [Reduce Variability and Optimize Routing Accuracy in Business Central](https://dev.to/insight_works/reduce-variability-and-optimize-routing-accuracy-in-business-central-4kdb)
+- [How My AI Projects Hit the Jackpot in Hacktoberfest - A Maintainer&#39;s Tale](https://dev.to/shraddharao_/how-my-ai-projects-hit-the-jackpot-in-hacktoberfest-a-maintainers-tale-33no)
+- [How I Learned to Embrace my Chaotic Brain](https://dev.to/bmejias/how-i-learned-to-embrace-my-chaotic-brain-4m3e)
+- [🏌️‍♂️ How I Built a Golf Swing Analyzer in Python Using AI Pose Detection &lpar;That Actually Works&rpar;](https://dev.to/ryanboscobanze/how-i-built-a-golf-swing-analyzer-in-python-using-ai-pose-detection-that-actually-works-3jc5)
+- [Building a Production Server from Scratch: The Ultimate Guide](https://dev.to/arhamrumi/building-a-production-server-from-scratch-the-ultimate-guide-5ep6)
+- [From Prototype to Production: Lessons Scaling an AI Interview Platform](https://dev.to/ambalogun/from-prototype-to-production-lessons-scaling-an-ai-interview-platform-na7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
