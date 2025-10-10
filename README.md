@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ZKP](https://dev.to/nairsreya/zkp-2o8j)
+- [5 Most Used Excel Functions by Data Analysts &lpar;And Why You Should Master Them&rpar;](https://dev.to/imliami0dev/5-most-used-excel-functions-by-data-analysts-and-why-you-should-master-them-3ahp)
+- [My First PR into the Hactoberfest...](https://dev.to/hsachdeva9/my-first-pr-into-the-hactoberfest-3da3)
 - [Laragon’s Best Alternative in 2025: Why ServBay Is Redefining Local Dev Environments](https://dev.to/lamri_abdellahramdane_15/laragons-best-alternative-in-2025-why-servbay-is-redefining-local-dev-environments-2pm8)
 - [🧠 Real-Time Smart Speech Assistant with Python, Whisper &amp; LLMs](https://dev.to/ryanboscobanze/real-time-smart-speech-assistant-with-python-whisper-llms-5c38)
-- [My 5-year development journey - From kid to bachelor student with 4 years of work experience](https://dev.to/jarne/my-5-year-development-journey-from-kid-to-bachelor-student-with-4-years-of-work-experience-pk7)
-- [Refactoring with git rebase](https://dev.to/slyang08/refactoring-with-git-rebase-e94)
-- [Moving from PostgreSQL to SQLite in Django: Handling Locale-Aware Sorting](https://dev.to/valasek/moving-from-postgresql-to-sqlite-in-django-handling-locale-aware-sorting-48e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
