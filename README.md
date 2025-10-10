@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My experience with Hardware: HWID Spoofers and BANS!](https://dev.to/mina_tremblay_9ae0fef8e42/my-experience-with-hardware-hwid-spoofers-and-bans-59g4)
-- [Database Normalization: From 1NF to 3NF](https://dev.to/nahuleswaran_s24cb031_b4/database-normalization-from-1nf-to-3nf-1mog)
-- [Part-2: AWS Global Infrastructure | Amazon Web Services](https://dev.to/olymahmud/part-2-aws-global-infrastructure-amazon-web-services-2n2f)
-- [How We Built KudiPod - A Fast, Modern Business Management App for Everyday Entrepreneurs](https://dev.to/cizonet/how-we-built-kudipod-a-fast-modern-business-management-app-for-everyday-entrepreneurs-54a6)
-- [Why QA Should Be Involved Early in the Software Development Lifecycle](https://dev.to/misterankit/why-qa-should-be-involved-early-in-the-software-development-lifecycle-169g)
+- [How Developers Are Building the Backbone of Digital Finance](https://dev.to/rejoice_shalomagtagma_1c/how-developers-are-building-the-backbone-of-digital-finance-1e1m)
+- [💡 El auge de la inversión en criptomonedas en 2025: lo que los desarrolladores deben tener en cuenta](https://dev.to/paddy_e4d3d274ebc7/el-auge-de-la-inversion-en-criptomonedas-en-2025-lo-que-los-desarrolladores-deben-tener-en-cuenta-pdg)
+- [⚙️ Behind Every API: The Role of a Backend Developer](https://dev.to/sandeep_03j/behind-every-api-the-role-of-a-backend-developer-4756)
+- [Do Websites Need Memory to Truly Understand Users?](https://dev.to/dct_technology/do-websites-need-memory-to-truly-understand-users-524a)
+- [Part 4: Advanced MCP Patterns and Tool Chaining](https://dev.to/techstuff/part-4-advanced-mcp-patterns-and-tool-chaining-4ll7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
