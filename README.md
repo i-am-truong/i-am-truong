@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Migrate from Sanity to Strapi: Complete Step-by-Step Guide](https://dev.to/strapi/how-to-migrate-from-sanity-to-strapi-complete-step-by-step-guide-16nm)
-- [Building Scalable Multi-Tenant Integrations: Lessons from Real-World SaaS Projects](https://dev.to/genesis_technologies/building-scalable-multi-tenant-integrations-lessons-from-real-world-saas-projects-43cl)
-- [An AI Literally Attempted Murder To Avoid Shutdown:](https://dev.to/dehemi_fabio/an-ai-literally-attempted-murder-to-avoid-shutdown-716)
-- [How to Create and Configure Virtual Networks in Azure](https://dev.to/adeyemo/how-to-create-and-configure-virtual-networks-in-azure-2ga6)
-- [Tired of Passwords? Meet Passkeys: Your Keychain to a Passwordless Future](https://dev.to/karthik_n/tired-of-passwords-meet-passkeys-your-keychain-to-a-passwordless-future-3fhd)
+- [Why Your GitHub Profile Isn&#39;t Enough: Building a Developer Brand That Actually Opens Doors](https://dev.to/sonia_bobrik_1939cdddd79d/why-your-github-profile-isnt-enough-building-a-developer-brand-that-actually-opens-doors-al3)
+- [10,000 Failed Scripts Later: 5 Python Antipatterns to Avoid](https://dev.to/franklinmayoyo/10000-failed-scripts-later-5-python-antipatterns-to-avoid-3ii2)
+- [How I Used AI to Escape My 9–5 and Earn $197,076/Year — My Full Automation Blueprint](https://dev.to/glorioustechs/how-i-used-ai-to-escape-my-9-5-and-earn-197076year-my-full-automation-blueprint-56hn)
+- [In-Depth Sealsq Stock Analysis Report 2025: Expert Forecast, Future Trends, and Market Evaluation](https://dev.to/safdar_meyka_012ecf3f1605/in-depth-sealsq-stock-analysis-report-2025-expert-forecast-future-trends-and-market-evaluation-4ddk)
+- [What Happens When Your Competitor Moves and You Don&#39;t?](https://dev.to/tracksimple/what-happens-when-your-competitor-moves-and-you-dont-4oj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
