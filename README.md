@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Today Is a Big Day — As a 16-Year-Old, I’m Launching **Vyoma** on Product Hunt! 🌌](https://dev.to/pjdeveloper896/today-is-a-big-day-as-a-16-year-old-im-launching-vyoma-on-product-hunt-3123)
-- [How to Scale AI from Pilot to Production with Macaron AI: Strategies for Success in 2025](https://dev.to/davidevans/how-to-scale-ai-from-pilot-to-production-with-macaron-ai-strategies-for-success-in-2025-48k4)
-- [The Rise of No-Code AI: How Businesses Can Automate Without Developers](https://dev.to/ryan-mathews/the-rise-of-no-code-ai-how-businesses-can-automate-without-developers-f18)
-- [🏦 Database Magic: Automating Tasks with Cursor and Trigger ✨](https://dev.to/prabavathy_balagurusamy_2/database-magic-automating-tasks-with-cursor-and-trigger-4nl8)
-- [What is Agentic AI Automation? How Macaron’s Adaptive Workflows Transform Enterprises in 2025](https://dev.to/chloedavis/what-is-agentic-ai-automation-how-macarons-adaptive-workflows-transform-enterprises-in-2025-c1d)
+- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-hdm)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-a2m)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2b3o)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-50e7)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-531g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
