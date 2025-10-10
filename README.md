@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn JavaScript in 30 Days: A Practical Coding Guide](https://dev.to/suraj_kumar_fb57ae0928df2/learn-javascript-in-30-days-a-practical-coding-guide-176a)
-- [The Future Full Stack Isn’t Code — It’s Coordination](https://dev.to/dct_technology/the-future-full-stack-isnt-code-its-coordination-b9k)
-- [How to Secure Retail Membership Programs in 2025: Building Trust Through Data Protection](https://dev.to/nicenicdomainserver/how-to-secure-retail-membership-programs-in-2025-building-trust-through-data-protection-18a8)
-- [Skyrocket Your Career: Why a Data Analytics Course is Your Path to a Data-Driven Future](https://dev.to/ashutosh_3703b28fc6e669bd/skyrocket-your-career-why-a-data-analytics-course-is-your-path-to-a-data-driven-future-n49)
-- [Rayven is solving the challenge of delivering apps](https://dev.to/adelheid_siegmund_ff17f8a/rayven-is-solving-the-challenge-of-delivering-apps-1n88)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b16)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-26oj)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-37mb)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4ehn)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-50o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
