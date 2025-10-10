@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is DevRel Just About Events, or Something Deeper?](https://dev.to/pratikmahalle/is-devrel-just-about-events-or-something-deeper-40fc)
-- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-5hfl)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-569p)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2e9b)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4co9)
+- [Supporting Offline Payments in Low-Connectivity Areas](https://dev.to/flutterwaveeng/supporting-offline-payments-in-low-connectivity-areas-5065)
+- [From Idea to App in a Day: How Low-Code Platforms Are Accelerating Business Innovation](https://dev.to/softyflow/from-idea-to-app-in-a-day-how-low-code-platforms-are-accelerating-business-innovation-1fij)
+- [Which PayPal System Design interview platform will help you get hired?](https://dev.to/dev_loops/which-paypal-system-design-interview-platform-will-help-you-get-hired-2110)
+- [The Party Wall Act 1996 Simplified: Rights and Responsibilities](https://dev.to/jason-edworthy/the-party-wall-act-1996-simplified-rights-and-responsibilities-5eoh)
+- [Practical Introduction to Angular Signals](https://dev.to/pmbanugo/practical-introduction-to-angular-signals-9n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
