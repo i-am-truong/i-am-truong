@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-120: 🚀Build, Push, and Deploy a Docker Image to Google Artifact Registry on Google Kubernetes Engine](https://dev.to/latchudevops/part-120-build-push-and-deploy-a-docker-image-to-google-artifact-registry-on-google-kubernetes-1n1d)
-- [ACID Properties in DBMS](https://dev.to/nahuleswaran_s24cb031_b4/acid-properties-in-dbms-2o13)
-- [Claude Sonnet 4.5: 61% Reliable AI Agent - Copilot, Not Autopilot](https://dev.to/aiwithapex/claude-sonnet-45-61-reliable-ai-agent-copilot-not-autopilot-m46)
-- [How I&#39;m Fighting My Gaming Addiction with Work](https://dev.to/fbgfh_fjff_e9d9cd5bcc1ed8/how-im-fighting-my-gaming-addiction-with-work-4d7j)
-- [Day 06 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-06-of-my-ai-data-mastery-journey-from-python-to-generative-ai-4emh)
+- [11 Best App Development Courses to Take in 2026](https://dev.to/stack_overflowed/11-best-app-development-courses-to-take-in-2026-54m4)
+- [Cursor +Trigger](https://dev.to/nahuleswaran_s24cb031_b4/cursor-trigger-18mj)
+- [Picking the Right Data Format for Your Workflow](https://dev.to/haresh_kn_/picking-the-right-data-format-for-your-workflow-2ffm)
+- [Block S3 Website with Terraform &lpar;Keep IP Access Ready&rpar;](https://dev.to/jajera/block-s3-website-with-terraform-keep-ip-access-ready-5ema)
+- [AWS Control Tower: Create Your First Landing Zone](https://dev.to/jajera/aws-control-tower-create-your-first-landing-zone-3i6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
