@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Destructive Optimization Problem in Large Language Model Assistance](https://dev.to/michal_harcej/the-destructive-optimization-problem-in-large-language-model-assistance-46ei)
+- [Behind the Scenes: How I Built ResumeMatcher’s RAG Pipeline](https://dev.to/esdk/behind-the-scenes-how-i-built-resumematchers-rag-pipeline-38go)
+- [Coding Challenge Practice - Question 25](https://dev.to/tomivan/coding-challenge-practice-question-25-275b)
+- [If the function plt.axis&lpar;&rpar; is called without arguments, the current axis limits are returned by it.](https://dev.to/onaolapo11/if-the-function-pltaxis-is-called-without-arguments-the-current-axis-limits-are-returned-by-it-5e26)
 - [[Fix] Burp Suite crashing on Kali ARM64 &lpar;Apple Silicon / QEMU&rpar;](https://dev.to/yarkhan02/fix-burp-suite-crashing-on-kali-arm64-apple-silicon-qemu-3d99)
-- [Splitting a Number into Digits](https://dev.to/ayush_mishra_be0655d6b0d6/splitting-a-number-into-digits-3a4m)
-- [50 Most Useful SASS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-sass-snippets-3m8o)
-- [Getting Started with Docker Compose: A Hands-On Guide to Multi-Container Applications](https://dev.to/theodora_e6f61d02577a5f06/getting-started-with-docker-compose-a-hands-on-guide-to-multi-container-applications-4lom)
-- [Automatiser le rebalancement de portefeuille avec une API &lpar;exemple pratique&rpar;](https://dev.to/joachimdi/automatiser-le-rebalancement-de-portefeuille-avec-une-api-exemple-pratique-56ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
