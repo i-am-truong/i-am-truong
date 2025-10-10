@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is a Large Language Model &lpar;LLM&rpar;](https://dev.to/snehalkadwe/what-is-a-large-language-model-llm-2gca)
+- [Building a Production-Ready LMS Platform: A Complete Guide to Modern EdTech Architecture](https://dev.to/nadim_ch0wdhury/building-a-production-ready-lms-platform-a-complete-guide-to-modern-edtech-architecture-16ek)
+- [Streams o que são e como usar no NodeJS](https://dev.to/matheusgondra/streams-o-que-sao-e-como-usar-no-nodejs-373d)
+- [schema session](https://dev.to/query_filter_591122b53770/schema-session-9lf)
 - [From RNNs to ChatGPT: The Paper That Changed How AI Thinks 🤖](https://dev.to/yuktisays/from-rnns-to-chatgpt-the-paper-that-changed-how-ai-thinks-3ke3)
-- [Building A Real-Time Communication System Using Go and WebSocket](https://dev.to/olymahmud/building-a-real-time-communication-system-using-go-and-websocket-19n5)
-- [Compare Any Two Texts Instantly on Linux &lpar;Clipboard + Selection Hack&rpar;](https://dev.to/m-hosseinpour/compare-any-two-texts-instantly-on-linux-clipboard-selection-hack-2e6f)
-- [OSD600 Release 0.2 Week 1 &lpar;Updated&rpar;](https://dev.to/bhchen24/osd600-release-02-week-1-updated-3p28)
-- [Manifest and Service Workers in PWAs](https://dev.to/lucaspereiradesouzat/manifest-and-service-workers-in-pwas-5dmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
