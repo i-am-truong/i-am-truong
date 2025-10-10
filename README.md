@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [ZKP](https://dev.to/nairsreya/zkp-2o8j)
 - [5 Most Used Excel Functions by Data Analysts &lpar;And Why You Should Master Them&rpar;](https://dev.to/imliami0dev/5-most-used-excel-functions-by-data-analysts-and-why-you-should-master-them-3ahp)
 - [My First PR into the Hactoberfest...](https://dev.to/hsachdeva9/my-first-pr-into-the-hactoberfest-3da3)
-- [Laragon’s Best Alternative in 2025: Why ServBay Is Redefining Local Dev Environments](https://dev.to/lamri_abdellahramdane_15/laragons-best-alternative-in-2025-why-servbay-is-redefining-local-dev-environments-2pm8)
-- [🧠 Real-Time Smart Speech Assistant with Python, Whisper &amp; LLMs](https://dev.to/ryanboscobanze/real-time-smart-speech-assistant-with-python-whisper-llms-5c38)
+- [LatamBoard: Building Open, Transparent AI Evaluation for Latin America](https://dev.to/mauro_ibaez_f9e7f91f932a/latamboard-building-open-transparent-ai-evaluation-for-latin-america-2kp7)
+- [Reduce Variability and Optimize Routing Accuracy in Business Central](https://dev.to/insight_works/reduce-variability-and-optimize-routing-accuracy-in-business-central-4kdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
