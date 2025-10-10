@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [smartsence - siddhi](https://dev.to/sidatgithubcode/smartsence-siddhi-4cgo)
-- [Converting HEIC image extension in Node.js with the sharp library](https://dev.to/ilyasa1211/converting-heic-image-extension-in-nodejs-with-the-sharp-library-39mg)
-- [My Journey Refactoring Code and Rebase with Git](https://dev.to/hsachdeva9/my-journey-refactoring-code-and-rebase-with-git-3hek)
-- [Postman vs EchoAPI：AIとノーコードでアサーションをもっとラクにした話](https://dev.to/waterlily_0f365e5fadded0f/postman-vs-echoapiaitonokododeasasiyonwomotutorakunisitahua-4k24)
-- [In 2025, your resume is not for humans.](https://dev.to/jnelken/in-2025-your-resume-is-not-for-humans-1od0)
+- [Building Smarter Embedded Devices with TFT LCDs and Android SBCs](https://dev.to/lauraaa/building-smarter-embedded-devices-with-tft-lcds-and-android-sbcs-25ke)
+- [🚀 Building a Serverless TODO App with AWS + Vercel — My First AWS Project](https://dev.to/balaji_sivakumar_e7a4b07a/building-a-serverless-todo-app-with-aws-vercel-my-first-aws-project-1h1m)
+- [From Script Chaos to AI-Powered Efficiency: How EchoAPI Transforms Dynamic Variable Generation in API Testing](https://dev.to/eleanor_fairfax_5ce95399d/from-script-chaos-to-ai-powered-efficiency-how-echoapi-transforms-dynamic-variable-generation-in-37k4)
+- [Legacy code slows teams down, introduces bugs, and makes scaling painful. But with AI, refactoring has become faster, safer, and even enjoyable.](https://dev.to/jaideepparashar/legacy-code-slows-teams-down-introduces-bugs-and-makes-scaling-painful-but-with-ai-refactoring-2i48)
+- [Postmanの限界を越えて：EchoAPIで体験するAIドキュメント生成のフルプロセス](https://dev.to/waterlily_0f365e5fadded0f/postmannoxian-jie-woyue-eteechoapideti-yan-suruaidokiyumentosheng-cheng-nohurupurosesu-284g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
