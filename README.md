@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How static analysis encourages developers to refactor code: Another look at Source SDK](https://dev.to/pvsdev/how-static-analysis-encourages-developers-to-refactor-code-another-look-at-source-sdk-2mjn)
-- [RecGen: a powerful tool to create recommendation systems](https://dev.to/rec_gen_project/recgen-a-powerful-tool-to-create-recommendation-systems-2h5m)
-- [Which AI Website Builder has impressed you the most ?](https://dev.to/amananandrai/which-ai-website-builder-has-impressed-you-the-most--4ml8)
-- [Securing Autonomous AI Agents with Auth0 – DEV Challenge Submission](https://dev.to/aniruddhaadak/securing-autonomous-ai-agents-with-auth0-dev-challenge-submission-3cd2)
-- [Build-less manga scanlation workflow: vertical OCR, translation, and layout-preserving typesetting in the browser](https://dev.to/digiplan_pro_52d07cbd0f1a/build-less-manga-scanlation-workflow-vertical-ocr-translation-and-layout-preserving-typesetting-lki)
+- [Analysis: &quot;Attention Is All You Need&quot;](https://dev.to/sandeep_salwan/analysis-attention-is-all-you-need-i9i)
+- [In-Depth Analysis: &quot;Attention Is All You Need&quot;](https://dev.to/sandeep_salwan/in-depth-analysis-attention-is-all-you-need-267n)
+- [🧠 Como criar uma Fluent API no TypeORM &lpar;igual ao Entity Framework&rpar;](https://dev.to/jhonesgoncalves/como-criar-uma-fluent-api-no-typeorm-igual-ao-entity-framework-5ed)
+- [8 Mistakes New Freelance Engineers Make and How to Fix Them](https://dev.to/remotebranch/8-mistakes-new-freelance-engineers-make-and-how-to-fix-them-1ng2)
+- [Sorting encrypted data without decryption: a practical trick](https://dev.to/artabramov/sorting-encrypted-data-without-decryption-a-practical-trick-1118)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
