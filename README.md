@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2025: Open Source Celebration With Cloudinary](https://dev.to/cloudinary/hacktoberfest-2025-open-source-celebration-with-cloudinary-1il)
+- [Building an AI-Powered Lead Gen Workflow with n8n, Apify, and Gemini](https://dev.to/medpydev/building-an-ai-powered-lead-gen-workflow-with-n8n-apify-and-gemini-22ck)
+- [Ending Tribalism and Social Division: The Role of Traditional Leadership in Modern Africa](https://dev.to/mft_journal_553c27e287583/ending-tribalism-and-social-division-the-role-of-traditional-leadership-in-modern-africa-1b72)
 - [Aurora cross region replica or global database ?](https://dev.to/wakeup_flower_8591a6cb6a9/aurora-cross-region-replica-or-global-database--5911)
 - [🧭 Runbook: Como Rodar um Playbook Ansible com Pipeline CI/CD e SSH via Bastion](https://dev.to/filipi_souza_9aefcab771a7/runbook-como-rodar-um-playbook-ansible-com-pipeline-cicd-e-ssh-via-bastion-9fn)
-- [WPA2 Lab Walkthrough — Capture, Analyze, and Harden &lpar;Simulated Only&rpar;](https://dev.to/seifeldienahmad/wpa2-lab-walkthrough-capture-analyze-and-harden-simulated-only-2506)
-- [English - the hottest programming language of the future](https://dev.to/migrosonline/english-the-hottest-programming-language-of-the-future-a8n)
-- [Ursina - Game Engine for Python](https://dev.to/imrrobot/ursina-game-engine-for-python-2dmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
