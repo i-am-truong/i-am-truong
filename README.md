@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Will clean code principles remain relevant in the AI era](https://dev.to/massimo_deiana_ccce73063a/will-clean-code-principles-remain-relevant-in-the-ai-era-bf7)
+- [Simplifying SwiftUI Navigation with SnazzyRouter: A Modern Approach to Routing](https://dev.to/dubon-yaar/simplifying-swiftui-navigation-with-snazzyrouter-a-modern-approach-to-routing-3d71)
 - [Your AI Chatbot Just Leaked Customer Data to OpenAI. Here’s How it Happened and How to Prevent it](https://dev.to/fintechbro/your-ai-chatbot-just-leaked-customer-data-to-openai-heres-how-it-happened-and-how-to-prevent-it-i5f)
 - [Scaling Your UI with Component-Driven Development in 2025 🚀](https://dev.to/tahamjp/scaling-your-ui-with-component-driven-development-in-2025-40k7)
 - [Best Practices for Deploying Ruby on Rails Apps to Cloud Platforms](https://dev.to/hardik_2011/best-practices-for-deploying-ruby-on-rails-apps-to-cloud-platforms-4g3o)
-- [🔮 When AI Meets Money: Why Gold Might Fade, But Bitcoin Shines Brighter](https://dev.to/tanelith/when-ai-meets-money-why-gold-might-fade-but-bitcoin-shines-brighter-5bgb)
-- [Why Your GitHub Profile Isn&#39;t Enough: Building a Developer Brand That Actually Opens Doors](https://dev.to/sonia_bobrik_1939cdddd79d/why-your-github-profile-isnt-enough-building-a-developer-brand-that-actually-opens-doors-al3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
