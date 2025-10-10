@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning the Hard Way: A New Developer&#39;s Tale of AI and Self-Discovery](https://dev.to/namaneetha/learning-the-hard-way-a-new-developers-tale-of-ai-and-self-discovery-403e)
-- [Stop Guessing Your Exceptions](https://dev.to/ssukhpinder/stop-guessing-your-exceptions-4hc8)
-- [From Hype to Fundamentals: What It Really Takes to Build a Lasting Product](https://dev.to/howard_shaw_3c36a3a6cb900/from-hype-to-fundamentals-what-it-really-takes-to-build-a-lasting-product-2i4)
-- [The Day the CEO of Meta Stopped to Like My Vision](https://dev.to/sampseiol1/the-day-the-ceo-of-meta-stopped-to-like-my-vision-4oii)
-- [🚀 From Rejection to Reinvention: How I Built an AI That Finds My Jobs](https://dev.to/kareemblessed/from-rejection-to-reinvention-how-i-built-an-ai-that-finds-my-jobs-1dgm)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-447k)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-44p1)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3bg9)
+- [Wallet-as-a-Service: The Secret Weapon Web3 Founders Can’t Ignore](https://dev.to/k_wilson/wallet-as-a-service-the-secret-weapon-web3-founders-cant-ignore-43m2)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-lej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
