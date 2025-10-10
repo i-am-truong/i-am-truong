@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2025: Open Source Celebration With Cloudinary](https://dev.to/cloudinary/hacktoberfest-2025-open-source-celebration-with-cloudinary-1il)
-- [Building an AI-Powered Lead Gen Workflow with n8n, Apify, and Gemini](https://dev.to/medpydev/building-an-ai-powered-lead-gen-workflow-with-n8n-apify-and-gemini-22ck)
-- [Ending Tribalism and Social Division: The Role of Traditional Leadership in Modern Africa](https://dev.to/mft_journal_553c27e287583/ending-tribalism-and-social-division-the-role-of-traditional-leadership-in-modern-africa-1b72)
-- [Aurora cross region replica or global database ?](https://dev.to/wakeup_flower_8591a6cb6a9/aurora-cross-region-replica-or-global-database--5911)
-- [🧭 Runbook: Como Rodar um Playbook Ansible com Pipeline CI/CD e SSH via Bastion](https://dev.to/filipi_souza_9aefcab771a7/runbook-como-rodar-um-playbook-ansible-com-pipeline-cicd-e-ssh-via-bastion-9fn)
+- [JavaScript Fundamentals: Variables and Data Types](https://dev.to/hardik_kanajariya/javascript-fundamentals-variables-and-data-types-5gab)
+- [OpenAI&#39;s ChatGPT Instant Checkout: Transforming E-Commerce with AI-Powered Conversations](https://dev.to/spano_benja_14a928166ec22/openais-chatgpt-instant-checkout-transforming-e-commerce-with-ai-powered-conversations-3pfb)
+- [I’m busy for Hacktoberfest 2025 after work PRs, aren’t you?](https://dev.to/fedtti/im-busy-for-hacktoberfest-2025-after-work-prs-arent-you-393l)
+- [Understanding DAX Functions in Power BI](https://dev.to/beatrice_njagi/understanding-dax-functions-in-power-bi-59bm)
+- [Recommended Approaches for Loading Many Large Images on the Web](https://dev.to/rijultp/recommended-approaches-for-loading-many-large-images-on-the-web-5997)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
