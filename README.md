@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From RNNs to ChatGPT: The Paper That Changed How AI Thinks 🤖](https://dev.to/yuktisays/from-rnns-to-chatgpt-the-paper-that-changed-how-ai-thinks-3ke3)
+- [Building A Real-Time Communication System Using Go and WebSocket](https://dev.to/olymahmud/building-a-real-time-communication-system-using-go-and-websocket-19n5)
+- [Compare Any Two Texts Instantly on Linux &lpar;Clipboard + Selection Hack&rpar;](https://dev.to/m-hosseinpour/compare-any-two-texts-instantly-on-linux-clipboard-selection-hack-2e6f)
+- [OSD600 Release 0.2 Week 1 &lpar;Updated&rpar;](https://dev.to/bhchen24/osd600-release-02-week-1-updated-3p28)
 - [Manifest and Service Workers in PWAs](https://dev.to/lucaspereiradesouzat/manifest-and-service-workers-in-pwas-5dmc)
-- [Your First Rhino Contribution: Making MVP Development Even Faster](https://dev.to/codalio/your-first-rhino-contribution-making-mvp-development-even-faster-17dc)
-- [Manifest e service workers em PWA](https://dev.to/lucaspereiradesouzat/manifest-e-service-workers-em-pwa-1m7f)
-- [Can You Really Trust Code-Generation Tools?](https://dev.to/talweezy/can-you-really-trust-code-generation-tools-4jo8)
-- [Say Goodbye to Reading and Forgetting: 7 Tried-and-True Methods That Helped My ADHD Brain Fall in Love with Reading](https://dev.to/bev_c_f315db9dd78d629cd4a/say-goodbye-to-reading-and-forgetting-7-tried-and-true-methods-that-helped-my-adhd-brain-fall-in-i79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
