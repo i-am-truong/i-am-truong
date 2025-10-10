@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Do Data Pipelines Need Streaming — Isn’t Batch Processing Enough?](https://dev.to/__354f265b41dafa0d901b/why-do-data-pipelines-need-streaming-isnt-batch-processing-enough-17l4)
+- [I Tried an AI Tool That Turns Any Content Into a Mind Map So You Actually Remember Stuff](https://dev.to/nitinfab/i-tried-an-ai-tool-that-turns-any-content-into-a-mind-map-so-you-actually-remember-stuff-1p1f)
+- [I Built a Free Online Video Compressor in 2 Weeks](https://dev.to/chris_howe/i-built-a-free-online-video-compressor-in-2-weeks-49id)
+- [Blackbird: The AI-Powered OSINT Account Enumeration Tool](https://dev.to/adityapidurkar/blackbird-the-ai-powered-osint-account-enumeration-tool-4382)
 - [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-hdm)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-a2m)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2b3o)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-50e7)
-- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-531g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
