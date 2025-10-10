@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data in Everyday Life](https://dev.to/mubby042/data-in-everyday-life-15j1)
+- [🐼 Pandas DataFrame Selection, Filtering &amp; Cleaning — Hands-on Practice.](https://dev.to/ashok_kumar_564581944e3ef/pandas-dataframe-selection-filtering-cleaning-hands-on-practice-309i)
 - [Building an HTTP Server from Scratch in C: A Journey into Network Programming](https://dev.to/ethan_ac5ca38abc559d950c9/building-an-http-server-from-scratch-in-c-a-journey-into-network-programming-19oa)
 - [Autotools Introduction](https://dev.to/pauljlucas/autotools-introduction-p9b)
 - [Building Trust for AI Agents — ISM-X: A Privacy-Preserving Identity Layer &lpar;with demo&rpar;](https://dev.to/damjan_akelj_be1aab4a715/building-trust-for-ai-agents-ism-x-a-privacy-preserving-identity-layer-with-demo-4ifj)
-- [What a Load Balancer Really Does &lpar;and Why It Matters&rpar;](https://dev.to/thekarlesi/what-a-load-balancer-really-does-and-why-it-matters-14bl)
-- [JavaScript Fundamentals: Variables and Data Types](https://dev.to/hardik_kanajariya/javascript-fundamentals-variables-and-data-types-5gab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
