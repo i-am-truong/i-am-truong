@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Full AI-Powered Personal Finance App… at 18](https://dev.to/muhammed_mufinuddinafraz/built-a-complete-personal-finance-app-with-ai-at-18-2mig)
-- [Clarity works faster than speed ever could](https://dev.to/koni_jang/clarity-works-faster-than-speed-ever-could-b02)
-- [untitled](https://dev.to/_2c78f2211e58fb9c5f4cf/untitled-3la8)
-- [Go Microservices Boilerplate Series: From Hello World to Production &lpar;Part 2&rpar;](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-from-hello-world-to-production-part-2-428b)
-- [AI Just Killed Traditional Coding - Here&#39;s What&#39;s Next](https://dev.to/_2c78f2211e58fb9c5f4cf/ai-just-killed-traditional-coding-heres-whats-next-1hci)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4bgj)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-20a1)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-5147)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-32o4)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-dnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
