@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MadicalScrabs](https://dev.to/madical_scrabs_71dbcec16d/madicalscrabs-c89)
+- [Blockchain Technology: Revolutionizing the Way We Share and Secure Data](https://dev.to/rapidcellphone/blockchain-technology-revolutionizing-the-way-we-share-and-secure-data-197o)
 - [Basic Mail Automation in Python](https://dev.to/nazanin_ashrafi/basic-mail-automation-in-python-22ll)
 - [The Tech Stack That&#39;s Dying in 2025 &lpar;Stop Wasting Time on It&rpar;](https://dev.to/zakriakhanx/the-tech-stack-thats-dying-in-2025-stop-wasting-time-on-it-1k57)
 - [Understanding Latent Space: How Meaning Is Represented by AI](https://dev.to/kaanrkaraman/understanding-latent-space-how-meaning-is-represented-by-ai-35ci)
-- [ML Learning #1 : Linear Regression](https://dev.to/thatmlguy/ml-learning-1-linear-regression-hm0)
-- [Analysis of Python Web Development Challenges](https://dev.to/ayoubzulfiqar/analysis-of-python-web-development-challenges-1kbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
