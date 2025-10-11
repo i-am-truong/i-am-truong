@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Finally Understood CSS Grid &lpar;with Real Examples&rpar;](https://dev.to/ofodile/how-i-finally-understood-css-grid-with-real-examples-34p8)
-- [An oldie, but a goodie!](https://dev.to/canro91/an-oldie-but-a-goodie-3750)
-- [Building My Movie Discovery App: A Full-Stack Journey of Challenges, Tools, and Growth](https://dev.to/webziro/building-my-movie-discovery-app-a-full-stack-journey-of-challenges-tools-and-growth-2di8)
-- [The Day I Almost Backed Out: Being the Only Woman Speaker at AWS Cloud Day Philippines&#39; Developer Lounge](https://dev.to/urielalonso/the-day-i-almost-backed-out-being-the-only-woman-speaker-at-aws-cloud-day-philippines-developer-2jb)
-- [What makes this hackathon unique &lpar;HackSpire’25&rpar; 🚀](https://dev.to/debkanta_dey_09b98f7eebb9/what-makes-this-hackathon-unique-hackspire25-4nhf)
+- [Weekly #41-2025: Dotter, Claude Code, Regex, and Startup Insights](https://dev.to/weekly/weekly-41-2025-dotter-claude-code-regex-and-startup-insights-260i)
+- [**Unlocking AI Success: The Power of Information Density Rat](https://dev.to/drcarlosruizviquez/unlocking-ai-success-the-power-of-information-density-rat-265m)
+- [DevOps Week 16: Kubernetes RBAC Hands-On — Securing Cluster Access](https://dev.to/azmatahmed/devops-week-16-kubernetes-rbac-hands-on-securing-cluster-access-44c2)
+- [Uncovering the Secret Behind My Side Project Journey](https://dev.to/pravin_niceguy/uncovering-the-secret-behind-my-side-project-journey-2kck)
+- [DApps — The Decentralized Future of Applications](https://dev.to/omniradhanexus/dapps-the-decentralized-future-of-applications-2n06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
