@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is Downloading SlideShare Presentations Legal? &lpar;Complete Guide 2025&rpar;](https://dev.to/slidedownloaders/is-downloading-slideshare-presentations-legal-complete-guide-2025-28bd)
-- [Rahul Patil appointed Chief Technology Officer at Anthropic to advance AI safety and research initiatives](https://dev.to/ytosko/rahul-patil-appointed-chief-technology-officer-at-anthropic-to-advance-ai-safety-and-research-1a62)
-- [Spin Up, Explore, and Destroy: A Complete Beginner’s Guide to Using Vagrant with Ubuntu &lpar;Visual Walkthrough&rpar;](https://dev.to/fikalz/spin-up-explore-and-destroy-a-complete-beginners-guide-to-using-vagrant-with-ubuntu-visual-37k7)
-- [Building a Scalable Laravel Application with Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/blamsa0mine/building-a-scalable-laravel-application-with-domain-driven-design-ddd-42j6)
-- [Prompt Engineering](https://dev.to/zeroshotanu/prompt-engineering-52in)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4bi0)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1bdg)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1hb1)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-38n4)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-n55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
