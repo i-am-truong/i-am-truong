@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spin Up, Explore, and Destroy: A Complete Beginner’s Guide to Using Vagrant with Ubuntu &lpar;Visual Walkthrough&rpar;](https://dev.to/fikalz/spin-up-explore-and-destroy-a-complete-beginners-guide-to-using-vagrant-with-ubuntu-visual-37k7)
+- [Building a Scalable Laravel Application with Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/blamsa0mine/building-a-scalable-laravel-application-with-domain-driven-design-ddd-42j6)
 - [Prompt Engineering](https://dev.to/zeroshotanu/prompt-engineering-52in)
-- [MERN Stack Handwritten Notes &amp; Interview Questions](https://dev.to/avinash201199/mern-stack-handwritten-notes-interview-questions-25pn)
 - [50 Most Useful LESS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-less-snippets-3blo)
 - [🧭Beginner’s &lpar;and Not-So-Beginner’s&rpar; Guide #3 — const vs let &lpar;and a bit about var&rpar;: What Developers Keep Getting Wrong](https://dev.to/sylwia-lask/beginners-and-not-so-beginners-guide-3-const-vs-let-and-a-bit-about-var-what-developers-40h)
-- [Desplegando Backend + Frontend con Nginx](https://dev.to/erickvasm/desplegando-backend-frontend-con-nginx-1l7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
