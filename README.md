@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why RapidSSL Is the Smartest Choice for Startups and Small Business Websites](https://dev.to/hardy_mervana/why-rapidssl-is-the-smartest-choice-for-startups-and-small-business-websites-3jip)
-- [Communication: The Skill Every Developer Needs](https://dev.to/araldhafeeri/communication-the-skill-every-developer-needs-2gob)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-26eh)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-12aj)
+- [From Dashboards to Decisions: Building Self Service BI That Scales with AI](https://dev.to/laxmivanam/from-dashboards-to-decisions-building-self-service-bi-that-scales-with-ai-2ica)
+- [Understanding Callbacks in JavaScript: A Beginner’s Guide to Asynchronous Programming](https://dev.to/wisdomudo/understanding-callbacks-in-javascript-a-beginners-guide-to-asynchronous-programming-5hb6)
+- [[Boost]](https://dev.to/dyfet/-626)
+- [Object in java](https://dev.to/2021_cse_gayathrir_e733/object-in-java-48np)
+- [Beyond the Pipeline: Evolving Continuous Testing into a Production Bug-Killer in 2025](https://dev.to/asadurrahman7890/beyond-the-pipeline-evolving-continuous-testing-into-a-production-bug-killer-in-2025-3ing)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
