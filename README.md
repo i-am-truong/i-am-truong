@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Persistent Solana Docker Environment on Windows &lpar;Without WSL&rpar;](https://dev.to/heyradcode/building-a-persistent-solana-docker-environment-on-windows-without-wsl-388l)
-- [Securing the DevOps Pipeline: Best Practices for DevSecOps in 2025](https://dev.to/ryan-mathews/securing-the-devops-pipeline-best-practices-for-devsecops-in-2025-84)
-- [Refactoring Codes for Maintainability](https://dev.to/denisc96/refactoring-codes-for-maintainability-4gj7)
-- [From Development to Deployment: How DevOps Automation Is Speeding Up Software Releases](https://dev.to/ryan-mathews/from-development-to-deployment-how-devops-automation-is-speeding-up-software-releases-59d1)
-- [Untitled](https://dev.to/jayson_wang_10f488e99ba30/untitled-g7o)
+- [🚀 From Rejection to Reinvention: How I Built an AI That Finds My Jobs](https://dev.to/_2c78f2211e58fb9c5f4cf/from-rejection-to-reinvention-how-i-built-an-ai-that-finds-my-jobs-56oc)
+- [The Conveyor Belt Protocol: Understanding Iterators](https://dev.to/aaron_rose_0787cc8b4775a0/the-conveyor-belt-protocol-understanding-iterators-4lf6)
+- [From Permanent Access to Just-in-Time: A Startup&#39;s IAM Journey Part 1](https://dev.to/_2c78f2211e58fb9c5f4cf/from-permanent-access-to-just-in-time-a-startups-iam-journey-part-1-lci)
+- [How to Create ROI Calculators for QA Prospects](https://dev.to/radha_4c842d8e4362a7cdd9c/how-to-create-roi-calculators-for-qa-prospects-579f)
+- [Day-104 Understanding JPA, Hibernate, and JpaRepository in Spring Boot](https://dev.to/tamilselvan1812/day-104-understanding-jpa-hibernate-and-jparepository-in-spring-boot-1l04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
