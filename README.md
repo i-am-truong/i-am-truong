@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1g7h)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4fcg)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4fp5)
+- [Why RapidSSL Is the Smartest Choice for Startups and Small Business Websites](https://dev.to/hardy_mervana/why-rapidssl-is-the-smartest-choice-for-startups-and-small-business-websites-3jip)
+- [Communication: The Skill Every Developer Needs](https://dev.to/araldhafeeri/communication-the-skill-every-developer-needs-2gob)
 - [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna)
 - [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-26eh)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-12aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
