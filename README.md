@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍⚖️ Building a Saudi Labor Law AI Assistant — Bilingual, Semantic, and Context-Aware](https://dev.to/zainalabdeen/building-a-saudi-labor-law-ai-assistant-bilingual-semantic-and-context-aware-597e)
-- [Why I&#39;m Building My Own Distributed Database](https://dev.to/namanvashistha/why-im-building-my-own-distributed-database-3lj)
-- [The Nytril Programming Language](https://dev.to/shawn_mccreight_3b07b3a16/the-nytril-programming-language-434c)
-- [HoneyDrunk.Pipelines — Treat Your CI/CD as Infrastructure](https://dev.to/tatted_dev/honeydrunkpipelines-treat-your-cicd-as-infrastructure-38p2)
-- [[Boost]](https://dev.to/fmerian/-n16)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4kl1)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-27kf)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-5ejl)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-i03)
+- [IGN: Tekken 8 - Armor King Early Look and Starter Guide](https://dev.to/gg_news/ign-tekken-8-armor-king-early-look-and-starter-guide-22n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
