@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-1geb)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-18o1)
-- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-30hb)
-- [KEXP: Wet Leg - catch these fists &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-catch-these-fists-live-on-kexp-3347)
-- [KEXP: Wet Leg - CPR &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-cpr-live-on-kexp-k57)
+- [Securing the DevOps Pipeline: Best Practices for DevSecOps in 2025](https://dev.to/ryan-mathews/securing-the-devops-pipeline-best-practices-for-devsecops-in-2025-84)
+- [Refactoring Codes for Maintainability](https://dev.to/denisc96/refactoring-codes-for-maintainability-4gj7)
+- [After building several projects and breaking authentication in creative ways, I finally figured out a setup that actually works and doesn&#39;t make me want to throw my laptop out the window.](https://dev.to/realcw_bishop/after-building-several-projects-and-breaking-authentication-in-creative-ways-i-finally-figured-out-2eca)
+- [Untitled](https://dev.to/mohamed_fathy_d65bb3c365c/untitled-1j4n)
+- [How I Handle JWT Authentication in Express.js &lpar;Without the Headaches&rpar;](https://dev.to/realcw_bishop/how-i-handle-jwt-authentication-in-expressjs-without-the-headaches-2np3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
