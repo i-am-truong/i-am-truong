@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PHP 8.4 Performance Optimization — A Practical, Repeatable Guide](https://dev.to/blamsa0mine/php-84-performance-optimization-a-practical-repeatable-guide-1jp4)
-- [💸 A Stack pra Ganhar Dinheiro em 2025/2026](https://dev.to/duquedotdev/a-stack-pra-ganhar-dinheiro-em-20252026-4mj0)
-- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-1k7f)
-- [How I Stay Productive and Keep Learning as a Software Engineer &lpar;Even Without a Full-Time Job&rpar;](https://dev.to/aymen-hammami/how-i-stay-productive-and-keep-learning-as-a-software-engineer-even-without-a-full-time-job-3map)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4373)
+- [2025 Voice AI Guide: How to Make Your Own Real-Time Voice Agent &lpar;Part-2&rpar;](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-2-1288)
+- [Leveraging Android Jetpack for Scalable and Future-Proof App Development](https://dev.to/shubham_joshi_expert/leveraging-android-jetpack-for-scalable-and-future-proof-app-development-18a1)
+- [🎙️ What Building the AI Interview Analyzer Taught Me About Production ML](https://dev.to/marcusmayo/what-building-the-ai-interview-analyzer-taught-me-about-production-ml-26ij)
+- [Introduction to Streams](https://dev.to/priyankbhardwaj1199/introduction-to-streams-5fce)
+- [🚀 Mastering Asynchronous API Calls with Spring WebClient](https://dev.to/pallavi_kamble_07/mastering-asynchronous-api-calls-with-spring-webclient-28p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
