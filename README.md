@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing Wine Industry Technology: Why Micro Frontends Require Specialized Expertise](https://dev.to/maksym_mosiura_7dd1c98618/revolutionizing-wine-industry-technology-why-micro-frontends-require-specialized-expertise-3gmp)
 - [Dia 4: 🧩 Principio de Sustitución de Liskov &lpar;LSP&rpar; en C#](https://dev.to/sadel_fortunato_00791b587/dia-4-principio-de-sustitucion-de-liskov-lsp-en-c-16n4)
 - [Golang For PHP Developer : Testing &amp; Deployment](https://dev.to/dosenngoding/golang-for-php-developer-testing-deployment-1f20)
 - [Handling 100+ Website Scrapers with Python&#39;s asyncio](https://dev.to/pradippanjiyar/handling-100-website-scrapers-with-pythons-asyncio-4905)
 - [Tutorial: Selenium WebDriver + Reqnroll](https://dev.to/emmanuelsalazar92/tutorial-selenium-webdriver-reqnroll-186i)
-- [The World’s Most Popular Anime Streaming Apps: A Complete Guide](https://dev.to/abdaat/the-worlds-most-popular-anime-streaming-apps-a-complete-guide-11il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
