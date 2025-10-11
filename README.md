@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
-- [Battle-Tested Coroutines: Advanced Tactics &amp; Common Traps](https://dev.to/kavearhasi_viswanathan/battle-tested-coroutines-advanced-tactics-common-traps-31e9)
-- [From Dashboards to Decisions: Building Self Service BI That Scales with AI](https://dev.to/laxmivanam/from-dashboards-to-decisions-building-self-service-bi-that-scales-with-ai-2ica)
-- [Understanding Callbacks in JavaScript: A Beginner’s Guide to Asynchronous Programming](https://dev.to/wisdomudo/understanding-callbacks-in-javascript-a-beginners-guide-to-asynchronous-programming-5hb6)
-- [[Boost]](https://dev.to/dyfet/-626)
+- [Supercharge Cursor IDE with Chrome DevTools MCP — Real Browser Debugging for Your AI Assistant](https://dev.to/ochapple/supercharge-cursor-ide-with-chrome-devtools-mcp-real-browser-debugging-for-your-ai-assistant-39l7)
+- [Docker for Beginners: The Shipping Container for Code](https://dev.to/manonaga2188/docker-for-beginners-the-shipping-container-for-code-4801)
+- [The Little Prince’s Glucose Garden: Tiny Guardians of Sweetness 🌸](https://dev.to/ersajay/the-little-princes-glucose-garden-tiny-guardians-of-sweetness-3ka2)
+- [Hemi the Cat Concierge: Building a Personality-Driven AI for Formant](https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago)
+- [Big Data Processing &lpar;Hadoop, Spark&rpar;](https://dev.to/godofgeeks/big-data-processing-hadoop-spark-47ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
