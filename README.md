@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to Best Website](https://dev.to/bestwebsite/welcome-to-best-website-31a2)
+- [🧑‍⚖️ Building a Saudi Labor Law AI Assistant — Bilingual, Semantic, and Context-Aware](https://dev.to/zainalabdeen/building-a-saudi-labor-law-ai-assistant-bilingual-semantic-and-context-aware-597e)
 - [Why I&#39;m Building My Own Distributed Database](https://dev.to/namanvashistha/why-im-building-my-own-distributed-database-3lj)
 - [The Nytril Programming Language](https://dev.to/shawn_mccreight_3b07b3a16/the-nytril-programming-language-434c)
 - [HoneyDrunk.Pipelines — Treat Your CI/CD as Infrastructure](https://dev.to/tatted_dev/honeydrunkpipelines-treat-your-cicd-as-infrastructure-38p2)
