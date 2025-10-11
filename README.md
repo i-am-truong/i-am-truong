@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Operators Explained: A Complete Guide for Beginners &amp; Pros](https://dev.to/satyam_gupta_0d1ff2152dcc/java-operators-explained-a-complete-guide-for-beginners-pros-3245)
-- [Java Type Casting Explained: A Beginner&#39;s Guide to Data Type Conversion](https://dev.to/satyam_gupta_0d1ff2152dcc/java-type-casting-explained-a-beginners-guide-to-data-type-conversion-46c1)
-- [How I Scaled My AWS Side Project from Local Lambdas to Full Infrastructure with Terraform and AWS Amplify](https://dev.to/mate32/how-i-scaled-my-aws-side-project-from-local-lambdas-to-full-infrastructure-with-terraform-and-aws-4k7i)
-- [Why TypeScript Is Changing the Way We Write JavaScript](https://dev.to/foma98/why-typescript-is-changing-the-way-we-write-javascript-50i5)
-- [Java Data Types: A Beginner&#39;s Guide to the Building Blocks of Code](https://dev.to/satyam_gupta_0d1ff2152dcc/java-data-types-a-beginners-guide-to-the-building-blocks-of-code-497j)
+- [Listen First, Code Later: Case Study of a Dental App](https://dev.to/zendev2112/listen-first-code-later-case-study-of-a-dental-app-1d74)
+- [The Disco Build 🪩 Week 1: MVP Sprint](https://dev.to/saminarp/the-disco-build-week-1-mvp-sprint-154o)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3jn1)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4c1)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-5aie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
