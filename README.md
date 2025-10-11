@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Under the Hood: HTTPS Explained](https://dev.to/zacharylee/under-the-hood-https-explained-49mn)
 - [🚀 Node.js + TypeScript + Hono.js — Enterprise-Grade Native Architecture](https://dev.to/mrmeaow/nodejs-typescript-honojs-enterprise-grade-native-architecture-4f3f)
+- [🎨 CSS Mastery: Practical Rules, Tips &amp; Mindsets for Modern Frontend Developers](https://dev.to/charan_gutti_cf60c6185074/css-mastery-practical-rules-tips-mindsets-for-modern-frontend-developers-5f63)
+- [IBM HR Analytics Dashboard — Power BI + Python Project](https://dev.to/niveshbansal07/ibm-hr-analytics-dashboard-power-bi-python-project-4gmk)
 - [Modernize Open Source Nuxt.js Admin Dashboard: A Comprehensive Overview](https://dev.to/vaibhavg/modernize-open-source-nuxtjs-admin-dashboard-a-comprehensive-overview-2j19)
-- [String in Python &lpar;2&rpar;](https://dev.to/hyperkai/string-in-python-2-2382)
-- [Introducing Bite Genie: Turn Restaurant Photos Into Recipes You Can Actually Cook](https://dev.to/shelby_zinter_f6028766b44/introducing-bite-genie-turn-restaurant-photos-into-recipes-you-can-actually-cook-2pcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
