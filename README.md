@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2025 Voice AI Guide: How to Make Your Own Real-Time Voice Agent &lpar;Part-2&rpar;](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-2-1288)
-- [Leveraging Android Jetpack for Scalable and Future-Proof App Development](https://dev.to/shubham_joshi_expert/leveraging-android-jetpack-for-scalable-and-future-proof-app-development-18a1)
-- [🎙️ What Building the AI Interview Analyzer Taught Me About Production ML](https://dev.to/marcusmayo/what-building-the-ai-interview-analyzer-taught-me-about-production-ml-26ij)
-- [Introduction to Streams](https://dev.to/priyankbhardwaj1199/introduction-to-streams-5fce)
-- [🚀 Mastering Asynchronous API Calls with Spring WebClient](https://dev.to/pallavi_kamble_07/mastering-asynchronous-api-calls-with-spring-webclient-28p5)
+- [Unify Your AI Stack: Meet the Universal Gateway That Tames REST, MCP, and More](https://dev.to/githubopensource/unify-your-ai-stack-meet-the-universal-gateway-that-tames-rest-mcp-and-more-1je6)
+- [Blog-Only CMS vs Full CMS: What Developers Actually Need in 2025](https://dev.to/nagendra402/blog-only-cms-vs-full-cms-what-developers-actually-need-in-2025-5159)
+- [3186. Maximum Total Damage With Spell Casting](https://dev.to/mdarifulhaque/3186-maximum-total-damage-with-spell-casting-3l3k)
+- [Stopping Bad Actors: Inside 1Password’s Security Model](https://dev.to/edeckers/stopping-bad-actors-inside-1passwords-security-model-14c)
+- [🌐 Understanding Container Networking: Podman, Docker, and the CNI Model](https://dev.to/it-wibrc/understanding-container-networking-podman-docker-and-the-cni-model-3208)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
