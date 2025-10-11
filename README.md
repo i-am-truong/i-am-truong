@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OSD600: Lab 5](https://dev.to/kphero/osd600-lab-5-1n4m)
-- [Managing Global Settings in React Native: A Clean Context API Approach](https://dev.to/cathylai/managing-global-settings-in-react-native-a-clean-context-api-approach-4b20)
-- [Stop Using SSH Keys in GitHub Actions &lpar;Here&#39;s What to Use Instead&rpar;](https://dev.to/alpacax/stop-using-ssh-keys-in-github-actions-heres-what-to-use-instead-1mbe)
-- [Easy Rent Bali Case Study: Building a Luxury UX with React &amp; SSR](https://dev.to/andrizmitnick/easy-rent-bali-case-study-building-a-luxury-ux-with-react-ssr-bo9)
-- [How to Set Up NativeWind &lpar;Tailwind CSS&rpar; in Your Expo React Native App](https://dev.to/cathylai/how-to-set-up-nativewind-tailwind-css-in-your-expo-react-native-app-5g23)
+- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-1geb)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-18o1)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-30hb)
+- [KEXP: Wet Leg - catch these fists &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-catch-these-fists-live-on-kexp-3347)
+- [KEXP: Wet Leg - CPR &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-cpr-live-on-kexp-k57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
