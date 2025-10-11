@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-20a1)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-5147)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-32o4)
-- [Danny Maude: Everyone Is Bad at Chipping…Until They Learn This](https://dev.to/youtube_golf/danny-maude-everyone-is-bad-at-chippinguntil-they-learn-this-6j9)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-dnl)
+- [Is Your Dinner Plate About to Get a Tech Upgrade? Let&#39;s Talk About Vertical Farming!](https://dev.to/karthik_n/is-your-dinner-plate-about-to-get-a-tech-upgrade-lets-talk-about-vertical-farming-52f3)
+- [📘 System Design Trade-Off: Push vs Pull Based Architecture](https://dev.to/nk_sk_6f24fdd730188b284bf/system-design-trade-off-push-vs-pull-based-architecture-lej)
+- [Building a Multi-Chain Security Vault with Mathematical Guarantees](https://dev.to/chronosvault/building-a-multi-chain-security-vault-with-mathematical-guarantees-39fo)
+- [Filament: Form Select append extra option](https://dev.to/johndivam/filament-form-select-append-extra-option-23f5)
+- [‎💥 Load Testing: How to Ensure Your Web Application Thrives Under Pressure](https://dev.to/okoye_ndidiamaka_5e3b7d30/load-testing-how-to-ensure-your-web-application-thrives-under-pressure-2kap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
