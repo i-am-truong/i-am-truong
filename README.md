@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Hooks &amp; Performance Concepts](https://dev.to/yashi_srivastava_9166487c/react-hooks-performance-concepts-3blf)
 - [Sentient Config is a Code Smell](https://dev.to/rpalo/sentient-config-is-a-code-smell-3593)
+- [Understanding the Basics of Linux Operating System](https://dev.to/eden_wetende/understanding-the-basics-of-linux-operating-system-39c2)
 - [The Symphony of Scale: A Case Study on Conducting 10x Traffic](https://dev.to/alex_aslam/the-symphony-of-scale-a-case-study-on-conducting-10x-traffic-3pd0)
 - [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-35h4)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-1p0e)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-5c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
