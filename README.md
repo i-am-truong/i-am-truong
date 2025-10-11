@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SecureDoc AI Assistant - Intelligent Document Management with Auth0 for AI Agents](https://dev.to/depapp/securedoc-ai-assistant-intelligent-document-management-with-auth0-for-ai-agents-5208)
+- [Building an Infinite-Scroll dev.to Reader in the Stream-Oriented Paradigm](https://dev.to/dariomannu/building-an-infinite-scroll-devto-reader-in-the-stream-oriented-paradigm-1c8)
 - [Top 10+ E-Commerce Dashboard Templates](https://dev.to/wrap-pixel/top-10-e-commerce-dashboard-templates-4a83)
 - [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
 - [Groups in Filament v4](https://dev.to/johndivam/groups-in-filament-v4-3m6k)
-- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-2-5a3f)
-- [Building a clean Energy Data Pipeline for Africa&lpar; from raw CSVs to MongoDB&rpar;](https://dev.to/anangwemike/building-a-clean-energy-data-pipeline-for-africa-from-raw-csvs-to-mongodb-23l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
