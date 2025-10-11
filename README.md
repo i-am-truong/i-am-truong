@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tool-Calling AI From Scratch, and Here&#39;s What the Bugs Taught Me](https://dev.to/bharathbattu/i-built-a-tool-calling-ai-from-scratch-and-heres-what-the-bugs-taught-me-23ip)
-- [Data in the Cloud: Understanding 6 Common Data Formats in Analytics](https://dev.to/aishwarya_m23it007_c5d8e/data-in-the-cloud-understanding-6-common-data-formats-in-analytics-46bi)
-- [The Conveyor Belt Protocol: Understanding Iterators](https://dev.to/aaron_rose_0787cc8b4775a0/the-conveyor-belt-protocol-understanding-iterators-4lf6)
-- [From Permanent Access to Just-in-Time: A Startup&#39;s IAM Journey Part 1](https://dev.to/_2c78f2211e58fb9c5f4cf/from-permanent-access-to-just-in-time-a-startups-iam-journey-part-1-lci)
-- [How to Create ROI Calculators for QA Prospects](https://dev.to/radha_4c842d8e4362a7cdd9c/how-to-create-roi-calculators-for-qa-prospects-579f)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2af)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-21jn)
+- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-2cjm)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5d9k)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-58dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
