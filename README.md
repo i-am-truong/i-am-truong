@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Want to write about AI in Testing? Join AI &amp; QA Leaders!](https://dev.to/qa-leaders/want-to-write-about-ai-in-testing-join-ai-qa-leaders-3clf)
-- [I Just Made My YouTube Downloader 2x Faster 🚀](https://dev.to/rolan_r_n_r/i-just-made-my-youtube-downloader-2x-faster-hki)
-- [Top Business Growth Strategies for 2024: Proven Methods for Success](https://dev.to/movin/top-business-growth-strategies-for-2024-proven-methods-for-success-2lp9)
-- [100 new ideas](https://dev.to/parthadeori/100-new-ideas-4i77)
-- [CRUD, reps, repeat - My Database Grind](https://dev.to/codebyblazej/crud-reps-repeat-my-database-grind-4lce)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-35h4)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-1p0e)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-5c9)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-1pha)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-k24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
