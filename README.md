@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built Vitality — An AI Wellness App That Actually Feels Useful](https://dev.to/kapillamba4/built-vitality-an-ai-wellness-app-that-actually-feels-useful-3m99)
-- [PSHCkS ARTICLES BY FLEXI DEV STUDIO ;TRUTH HACKS](https://dev.to/flexi_dev_4c0ce990523a164/pshcks-articles-by-flexi-dev-studio-truth-hacks-ill)
-- [FlexGlance; The weather reimagined✨](https://dev.to/flexi_dev_4c0ce990523a164/flexglance-the-weather-reimagined-36a)
-- [When I tell people I&#39;ve written 42 AI books using ChatGPT as my co-pilot, their first reaction is usually:
-
-“Which tool did you use?”
-
-But here’s the truth: &quot;The tool doesn’t matter. The prompting system does.&quot;](https://dev.to/jaideepparashar/when-i-tell-people-ive-written-42-ai-books-using-chatgpt-as-my-co-pilot-their-first-reaction-is-3cn7)
-- [I Wrote 42 Books Using ChatGPT: Here&#39;s What I Learned About Prompting](https://dev.to/jaideepparashar/i-wrote-42-books-using-chatgpt-heres-what-i-learned-about-prompting-5fc8)
+- [Securing Frontend Apps from Lodash Issues](https://dev.to/explorer1699/securing-frontend-apps-from-lodash-issues-3dip)
+- [One Place to Read Engineering Blogs from Netflix, Google, Meta &amp; More 🚀](https://dev.to/animishp/one-place-to-read-engineering-blogs-from-netflix-google-meta-more-4421)
+- [npm-ai-hooks: Inject LLM behavior into any TS function with one line](https://dev.to/ateebnoone/npm-ai-hooks-inject-llm-behavior-into-any-ts-function-with-one-line-4e2o)
+- [An Introduction to Commonly Used PL/SQL Data Types](https://dev.to/ayako_yk/an-introduction-to-commonly-used-plsql-data-types-598c)
+- [Check out the guide on - Why Learning Tableau Can Transform Your Career](https://dev.to/thedatageek/check-out-the-guide-on-why-learning-tableau-can-transform-your-career-ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
