@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 3 – Understanding HTTP &amp; HTTPS: The Backbone of the Web](https://dev.to/bblackwind/day-3-understanding-http-https-the-backbone-of-the-web-34ad)
+- [How to Read EXIF Capture Time from HEIC/HEIF Photos in Ruby on Rails](https://dev.to/sushilsubedi/how-to-read-exif-capture-time-from-heicheif-photos-in-ruby-on-rails-324b)
+- [The Custom Conveyor: Building Your Own Iterators](https://dev.to/aaron_rose_0787cc8b4775a0/the-custom-conveyor-building-your-own-iterators-4l87)
 - [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2af)
 - [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-21jn)
-- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-2cjm)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5d9k)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-58dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
