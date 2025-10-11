@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Honey Nudger, and Why We&#39;re Launching with a Founder&#39;s Circle](https://dev.to/honeynudger/introducing-honey-nudger-and-why-were-launching-with-a-founders-circle-2o1c)
-- [Wild and Dangling Pointers in C](https://dev.to/godinhojoao/wild-and-dangling-pointers-in-c-3kj5)
-- [Day 3 – Understanding HTTP &amp; HTTPS: The Backbone of the Web](https://dev.to/bblackwind/day-3-understanding-http-https-the-backbone-of-the-web-34ad)
-- [How to Read EXIF Capture Time from HEIC/HEIF Photos in Ruby on Rails](https://dev.to/sushilsubedi/how-to-read-exif-capture-time-from-heicheif-photos-in-ruby-on-rails-324b)
-- [The Custom Conveyor: Building Your Own Iterators](https://dev.to/aaron_rose_0787cc8b4775a0/the-custom-conveyor-building-your-own-iterators-4l87)
+- [Google’s 16 KB Rule Explained: Step-by-Step Fixes for Legacy React Native Projects](https://dev.to/josephnwanna/googles-16-kb-rule-explained-step-by-step-fixes-for-legacy-react-native-projects-3ae9)
+- [Modernize Open Source Nuxt.js Admin Dashboard: A Comprehensive Overview](https://dev.to/vaibhavg/modernize-open-source-nuxtjs-admin-dashboard-a-comprehensive-overview-2j19)
+- [String in Python &lpar;2&rpar;](https://dev.to/hyperkai/string-in-python-2-2382)
+- [Introducing Bite Genie: Turn Restaurant Photos Into Recipes You Can Actually Cook](https://dev.to/shelby_zinter_f6028766b44/introducing-bite-genie-turn-restaurant-photos-into-recipes-you-can-actually-cook-2pcg)
+- [[Boost]](https://dev.to/ujjavala/-4j2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
