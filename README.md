@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Weekly #41-2025: Dotter, Claude Code, Regex, and Startup Insights](https://dev.to/weekly/weekly-41-2025-dotter-claude-code-regex-and-startup-insights-260i)
 - [**Unlocking AI Success: The Power of Information Density Rat](https://dev.to/drcarlosruizviquez/unlocking-ai-success-the-power-of-information-density-rat-265m)
+- [How the AWS Community Inspires Growth, Connection, and Change](https://dev.to/urielalonso/how-the-aws-community-inspires-growth-connection-and-change-4fjd)
 - [DevOps Week 16: Kubernetes RBAC Hands-On — Securing Cluster Access](https://dev.to/azmatahmed/devops-week-16-kubernetes-rbac-hands-on-securing-cluster-access-44c2)
 - [Uncovering the Secret Behind My Side Project Journey](https://dev.to/pravin_niceguy/uncovering-the-secret-behind-my-side-project-journey-2kck)
-- [DApps — The Decentralized Future of Applications](https://dev.to/omniradhanexus/dapps-the-decentralized-future-of-applications-2n06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
