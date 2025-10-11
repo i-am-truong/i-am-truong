@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10+ E-Commerce Dashboard Templates](https://dev.to/wrap-pixel/top-10-e-commerce-dashboard-templates-4a83)
+- [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
 - [Groups in Filament v4](https://dev.to/johndivam/groups-in-filament-v4-3m6k)
 - [AltSchool Of Engineering Tinyuka’24 Month 8 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-2-5a3f)
 - [Building a clean Energy Data Pipeline for Africa&lpar; from raw CSVs to MongoDB&rpar;](https://dev.to/anangwemike/building-a-clean-energy-data-pipeline-for-africa-from-raw-csvs-to-mongodb-23l2)
-- [How AI Is Transforming Oral Care: Inside the BrushO Smart Toothbrush](https://dev.to/zainting/how-ai-is-transforming-oral-care-inside-the-brusho-smart-toothbrush-3e3b)
-- [AWS Instance Scheduler](https://dev.to/wakeup_flower_8591a6cb6a9/aws-instance-scheduler-ohn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
