@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [مدیر پروژه خوب بودن یعنی چه؟ نگاه انسانی‌تر به مدیریت](https://dev.to/parizad/mdyr-prwjh-khwb-bwdn-yny-chh-ngh-nsnytr-bh-mdyryt-41k5)
+- [WebAssembly in Modern Development: Analysis 2024-2025](https://dev.to/hashbyt/webassembly-in-modern-development-analysis-2024-2025-3k2i)
 - [Unify Your AI Stack: Meet the Universal Gateway That Tames REST, MCP, and More](https://dev.to/githubopensource/unify-your-ai-stack-meet-the-universal-gateway-that-tames-rest-mcp-and-more-1je6)
 - [Blog-Only CMS vs Full CMS: What Developers Actually Need in 2025](https://dev.to/nagendra402/blog-only-cms-vs-full-cms-what-developers-actually-need-in-2025-5159)
 - [3186. Maximum Total Damage With Spell Casting](https://dev.to/mdarifulhaque/3186-maximum-total-damage-with-spell-casting-3l3k)
-- [Stopping Bad Actors: Inside 1Password’s Security Model](https://dev.to/edeckers/stopping-bad-actors-inside-1passwords-security-model-14c)
-- [🌐 Understanding Container Networking: Podman, Docker, and the CNI Model](https://dev.to/it-wibrc/understanding-container-networking-podman-docker-and-the-cni-model-3208)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
