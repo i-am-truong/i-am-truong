@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 From Rejection to Reinvention: How I Built an AI That Finds My Jobs](https://dev.to/_2c78f2211e58fb9c5f4cf/from-rejection-to-reinvention-how-i-built-an-ai-that-finds-my-jobs-56oc)
+- [I Built a Tool-Calling AI From Scratch, and Here&#39;s What the Bugs Taught Me](https://dev.to/bharathbattu/i-built-a-tool-calling-ai-from-scratch-and-heres-what-the-bugs-taught-me-23ip)
+- [Data in the Cloud: Understanding 6 Common Data Formats in Analytics](https://dev.to/aishwarya_m23it007_c5d8e/data-in-the-cloud-understanding-6-common-data-formats-in-analytics-46bi)
 - [The Conveyor Belt Protocol: Understanding Iterators](https://dev.to/aaron_rose_0787cc8b4775a0/the-conveyor-belt-protocol-understanding-iterators-4lf6)
 - [From Permanent Access to Just-in-Time: A Startup&#39;s IAM Journey Part 1](https://dev.to/_2c78f2211e58fb9c5f4cf/from-permanent-access-to-just-in-time-a-startups-iam-journey-part-1-lci)
 - [How to Create ROI Calculators for QA Prospects](https://dev.to/radha_4c842d8e4362a7cdd9c/how-to-create-roi-calculators-for-qa-prospects-579f)
-- [Day-104 Understanding JPA, Hibernate, and JpaRepository in Spring Boot](https://dev.to/tamilselvan1812/day-104-understanding-jpa-hibernate-and-jparepository-in-spring-boot-1l04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
