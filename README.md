@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-i53)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2mkf)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-3fg4)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-52k1)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-3f43)
+- [Unleash Your Creativity with Dripo.ai: The Ultimate AI Video &amp; Image Generator](https://dev.to/jane_bush_afef563bc39d529/unleash-your-creativity-with-dripoai-the-ultimate-ai-video-image-generator-3c6)
+- [NocoBase Enters German University Classrooms](https://dev.to/nocobase/nocobase-enters-german-university-classrooms-38p6)
+- [Root Access: Upgrading Your Mind and Your Digital Ecosystem](https://dev.to/numbpill3d/root-access-upgrading-your-mind-and-your-digital-ecosystem-46fo)
+- [AI Infrastructure Agent: A Smarter Way to Manage AWS](https://dev.to/prithiviraj_rengarajan/ai-infrastructure-agent-a-smarter-way-to-manage-aws-2ejp)
+- [Angular Development &amp; AI](https://dev.to/sunny7899/angular-development-ai-4011)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
