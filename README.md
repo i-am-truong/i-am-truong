@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Tutorial] Procedural Voronoi Texture generation in WGPU](https://dev.to/the_lone_engineer/tutorial-procedural-voronoi-texture-generation-in-wgpu-1b3k)
-- [Making Kafka 7,658x slower for the Lulz](https://dev.to/mrgoodmorning1/making-kafka-7658x-slower-for-the-lulz-2g6b)
-- [Why MCP Matters in the AI Ecosystem](https://dev.to/manonaga2188/why-mcp-matters-in-the-ai-ecosystem-1850)
-- [Supercharge Cursor IDE with Chrome DevTools MCP — Real Browser Debugging for Your AI Assistant](https://dev.to/ochapple/supercharge-cursor-ide-with-chrome-devtools-mcp-real-browser-debugging-for-your-ai-assistant-39l7)
-- [Docker for Beginners: The Shipping Container for Code](https://dev.to/manonaga2188/docker-for-beginners-the-shipping-container-for-code-4801)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-i53)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2mkf)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-3fg4)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-52k1)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-3f43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
