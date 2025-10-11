@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
+- [Battle-Tested Coroutines: Advanced Tactics &amp; Common Traps](https://dev.to/kavearhasi_viswanathan/battle-tested-coroutines-advanced-tactics-common-traps-31e9)
 - [From Dashboards to Decisions: Building Self Service BI That Scales with AI](https://dev.to/laxmivanam/from-dashboards-to-decisions-building-self-service-bi-that-scales-with-ai-2ica)
 - [Understanding Callbacks in JavaScript: A Beginner’s Guide to Asynchronous Programming](https://dev.to/wisdomudo/understanding-callbacks-in-javascript-a-beginners-guide-to-asynchronous-programming-5hb6)
 - [[Boost]](https://dev.to/dyfet/-626)
-- [Object in java](https://dev.to/2021_cse_gayathrir_e733/object-in-java-48np)
-- [Beyond the Pipeline: Evolving Continuous Testing into a Production Bug-Killer in 2025](https://dev.to/asadurrahman7890/beyond-the-pipeline-evolving-continuous-testing-into-a-production-bug-killer-in-2025-3ing)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
