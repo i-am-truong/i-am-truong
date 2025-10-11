@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Basic Linux Command Using Ubuntu terminal environment.](https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie)
-- [Tome in the Valley](https://dev.to/shepherd_1ec15ed8e8d85ced/tome-in-the-valley-2f5a)
-- [Web Check CI: Catch Browser Compatibility Issues Before They Break Production](https://dev.to/mrmemory/web-check-ci-catch-browser-compatibility-issues-before-they-break-production-273)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1f6d)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4jg8)
+- [Dia 4: 🧩 Principio de Sustitución de Liskov &lpar;LSP&rpar; en C#](https://dev.to/sadel_fortunato_00791b587/dia-4-principio-de-sustitucion-de-liskov-lsp-en-c-16n4)
+- [Golang For PHP Developer : Testing &amp; Deployment](https://dev.to/dosenngoding/golang-for-php-developer-testing-deployment-1f20)
+- [Handling 100+ Website Scrapers with Python&#39;s asyncio](https://dev.to/pradippanjiyar/handling-100-website-scrapers-with-pythons-asyncio-4905)
+- [Tutorial: Selenium WebDriver + Reqnroll](https://dev.to/emmanuelsalazar92/tutorial-selenium-webdriver-reqnroll-186i)
+- [The World’s Most Popular Anime Streaming Apps: A Complete Guide](https://dev.to/abdaat/the-worlds-most-popular-anime-streaming-apps-a-complete-guide-11il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
