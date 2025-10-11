@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Persistent Solana Docker Environment on Windows &lpar;Without WSL&rpar;](https://dev.to/heyradcode/building-a-persistent-solana-docker-environment-on-windows-without-wsl-388l)
 - [Securing the DevOps Pipeline: Best Practices for DevSecOps in 2025](https://dev.to/ryan-mathews/securing-the-devops-pipeline-best-practices-for-devsecops-in-2025-84)
 - [Refactoring Codes for Maintainability](https://dev.to/denisc96/refactoring-codes-for-maintainability-4gj7)
-- [After building several projects and breaking authentication in creative ways, I finally figured out a setup that actually works and doesn&#39;t make me want to throw my laptop out the window.](https://dev.to/realcw_bishop/after-building-several-projects-and-breaking-authentication-in-creative-ways-i-finally-figured-out-2eca)
-- [Untitled](https://dev.to/mohamed_fathy_d65bb3c365c/untitled-1j4n)
-- [How I Handle JWT Authentication in Express.js &lpar;Without the Headaches&rpar;](https://dev.to/realcw_bishop/how-i-handle-jwt-authentication-in-expressjs-without-the-headaches-2np3)
+- [From Development to Deployment: How DevOps Automation Is Speeding Up Software Releases](https://dev.to/ryan-mathews/from-development-to-deployment-how-devops-automation-is-speeding-up-software-releases-59d1)
+- [Untitled](https://dev.to/jayson_wang_10f488e99ba30/untitled-g7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
