@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Multi-Region Disaster Recovery Setup on AWS with Terraform](https://dev.to/copubah/building-a-multi-region-disaster-recovery-setup-on-aws-with-terraform-l69)
 - [Modern Bundlers Are Moving Beyond Webpack](https://dev.to/ad99526/modern-bundlers-are-moving-beyond-webpack-3pj6)
 - [Selectorless Components in Angular 20+: The Secret Agents of the Modern Framework](https://dev.to/nurrehman/selectorless-components-in-angular-20-the-secret-agents-of-the-modern-framework-4dfk)
 - [Add composer package using path for development](https://dev.to/orfeo/add-composer-package-using-path-for-development-795)
 - [🧠 How to Optimize Search in JavaScript with Debouncing](https://dev.to/saurav_dev_2022/how-to-optimize-search-in-javascript-with-debouncing-14cl)
-- [Defensa por Capas: Seguridad INTEGRAL en la nube de AWS 🔐](https://dev.to/pangoro24/defensa-por-capas-seguridad-integral-en-la-nube-de-aws-6f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
