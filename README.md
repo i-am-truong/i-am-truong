@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Go Is Now in Sri Lanka — Here’s How It Stacks Up Against Plus, Pro &amp; Free](https://dev.to/dthiwanka/chatgpt-go-is-now-in-sri-lanka-heres-how-it-stacks-up-against-plus-pro-free-3bpk)
-- [How to Optimize the Performance of Your React Website](https://dev.to/izmroen/how-to-optimize-the-performance-of-your-react-website-130)
-- [frontend website development](https://dev.to/afreen_abid_fdb8fd5f82bb9/frontend-website-development-5bbo)
-- [VectorXone is now optimized for mobile phones!](https://dev.to/aspxone-official/vectorxone-is-now-optimized-for-mobile-phones-bfp)
-- [Why Game Developers are Building Anti-Cheat on the Foundation of TPM](https://dev.to/cng_on_2c8a3358eb166a/why-game-developers-are-building-anti-cheat-on-the-foundation-of-tpm-36ec)
+- [PHP 8.4 Performance Optimization — A Practical, Repeatable Guide](https://dev.to/blamsa0mine/php-84-performance-optimization-a-practical-repeatable-guide-1jp4)
+- [💸 A Stack pra Ganhar Dinheiro em 2025/2026](https://dev.to/duquedotdev/a-stack-pra-ganhar-dinheiro-em-20252026-4mj0)
+- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-1k7f)
+- [How I Stay Productive and Keep Learning as a Software Engineer &lpar;Even Without a Full-Time Job&rpar;](https://dev.to/aymen-hammami/how-i-stay-productive-and-keep-learning-as-a-software-engineer-even-without-a-full-time-job-3map)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4373)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
