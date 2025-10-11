@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest - The First Pull Request](https://dev.to/denisc96/hacktoberfest-the-first-pull-request-4ek7)
+- [Unlocking the Power of Topic: Strategies for Success](https://dev.to/movin/unlocking-the-power-of-topic-strategies-for-success-41h9)
+- [Discover the Latest Insights on Topic: Expert Guide &amp; Tips](https://dev.to/movin/discover-the-latest-insights-on-topic-expert-guide-tips-16el)
 - [MadicalScrabs](https://dev.to/madical_scrabs_71dbcec16d/madicalscrabs-c89)
 - [Blockchain Technology: Revolutionizing the Way We Share and Secure Data](https://dev.to/rapidcellphone/blockchain-technology-revolutionizing-the-way-we-share-and-secure-data-197o)
-- [Basic Mail Automation in Python](https://dev.to/nazanin_ashrafi/basic-mail-automation-in-python-22ll)
-- [The Tech Stack That&#39;s Dying in 2025 &lpar;Stop Wasting Time on It&rpar;](https://dev.to/zakriakhanx/the-tech-stack-thats-dying-in-2025-stop-wasting-time-on-it-1k57)
-- [Understanding Latent Space: How Meaning Is Represented by AI](https://dev.to/kaanrkaraman/understanding-latent-space-how-meaning-is-represented-by-ai-35ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
