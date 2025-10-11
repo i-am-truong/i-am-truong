@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [مدیر پروژه خوب بودن یعنی چه؟ نگاه انسانی‌تر به مدیریت](https://dev.to/parizad/mdyr-prwjh-khwb-bwdn-yny-chh-ngh-nsnytr-bh-mdyryt-41k5)
-- [WebAssembly in Modern Development: Analysis 2024-2025](https://dev.to/hashbyt/webassembly-in-modern-development-analysis-2024-2025-3k2i)
-- [Unify Your AI Stack: Meet the Universal Gateway That Tames REST, MCP, and More](https://dev.to/githubopensource/unify-your-ai-stack-meet-the-universal-gateway-that-tames-rest-mcp-and-more-1je6)
-- [Blog-Only CMS vs Full CMS: What Developers Actually Need in 2025](https://dev.to/nagendra402/blog-only-cms-vs-full-cms-what-developers-actually-need-in-2025-5159)
-- [3186. Maximum Total Damage With Spell Casting](https://dev.to/mdarifulhaque/3186-maximum-total-damage-with-spell-casting-3l3k)
+- [How I Scaled My AWS Side Project from Local Lambdas to Full Infrastructure with Terraform and AWS Amplify](https://dev.to/mate32/how-i-scaled-my-aws-side-project-from-local-lambdas-to-full-infrastructure-with-terraform-and-aws-4k7i)
+- [Why TypeScript Is Changing the Way We Write JavaScript](https://dev.to/foma98/why-typescript-is-changing-the-way-we-write-javascript-50i5)
+- [Java Data Types: A Beginner&#39;s Guide to the Building Blocks of Code](https://dev.to/satyam_gupta_0d1ff2152dcc/java-data-types-a-beginners-guide-to-the-building-blocks-of-code-497j)
+- [Taming Chaos in the Cloud: How Platform Engineering Solves Modern Tech’s Biggest Headaches](https://dev.to/naveens16/taming-chaos-in-the-cloud-how-platform-engineering-solves-modern-techs-biggest-headaches-24fb)
+- [Building an AI-Powered Function Orchestrator: When AI Becomes Your Code Planner](https://dev.to/ravgeetdhillon/building-an-ai-powered-function-orchestrator-when-ai-becomes-your-code-planner-5d6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
