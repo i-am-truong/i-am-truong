@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Businesses Rely on Professional Software Development Services to Scale](https://dev.to/nayeem79/why-businesses-rely-on-professional-software-development-services-to-scale-40p3)
-- [MachIDE: Building a Native macOS IDE for Mach-O Decompilation from Scratch](https://dev.to/kawacu_kent_e23c24ef7c143/machide-building-a-native-macos-ide-for-mach-o-decompilation-from-scratch-1ak)
-- [npm vs npx: Understanding the Difference](https://dev.to/tenelabs/npm-vs-npx-understanding-the-difference-1jjl)
-- [Building Your First React Application: A Step-by-Step Tutorial](https://dev.to/hardik_kanajariya/building-your-first-react-application-a-step-by-step-tutorial-551o)
-- [TLDR; Deploy ReactJS project to Cloudflare Pages](https://dev.to/thechaudhrysab/tldr-deploy-reactjs-project-to-cloudflare-pages-3ib1)
+- [Basic Mail Automation in Python](https://dev.to/nazanin_ashrafi/basic-mail-automation-in-python-22ll)
+- [The Tech Stack That&#39;s Dying in 2025 &lpar;Stop Wasting Time on It&rpar;](https://dev.to/zakriakhanx/the-tech-stack-thats-dying-in-2025-stop-wasting-time-on-it-1k57)
+- [Understanding Latent Space: How Meaning Is Represented by AI](https://dev.to/kaanrkaraman/understanding-latent-space-how-meaning-is-represented-by-ai-35ci)
+- [ML Learning #1 : Linear Regression](https://dev.to/thatmlguy/ml-learning-1-linear-regression-hm0)
+- [Analysis of Python Web Development Challenges](https://dev.to/ayoubzulfiqar/analysis-of-python-web-development-challenges-1kbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
