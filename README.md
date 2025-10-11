@@ -120,15 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Built Vitality — An AI Wellness App That Actually Feels Useful](https://dev.to/kapillamba4/built-vitality-an-ai-wellness-app-that-actually-feels-useful-3m99)
+- [PSHCkS ARTICLES BY FLEXI DEV STUDIO ;TRUTH HACKS](https://dev.to/flexi_dev_4c0ce990523a164/pshcks-articles-by-flexi-dev-studio-truth-hacks-ill)
+- [FlexGlance; The weather reimagined✨](https://dev.to/flexi_dev_4c0ce990523a164/flexglance-the-weather-reimagined-36a)
 - [When I tell people I&#39;ve written 42 AI books using ChatGPT as my co-pilot, their first reaction is usually:
 
 “Which tool did you use?”
 
 But here’s the truth: &quot;The tool doesn’t matter. The prompting system does.&quot;](https://dev.to/jaideepparashar/when-i-tell-people-ive-written-42-ai-books-using-chatgpt-as-my-co-pilot-their-first-reaction-is-3cn7)
 - [I Wrote 42 Books Using ChatGPT: Here&#39;s What I Learned About Prompting](https://dev.to/jaideepparashar/i-wrote-42-books-using-chatgpt-heres-what-i-learned-about-prompting-5fc8)
-- [Unleash Your Creativity with Dripo.ai: The Ultimate AI Video &amp; Image Generator](https://dev.to/jane_bush_afef563bc39d529/unleash-your-creativity-with-dripoai-the-ultimate-ai-video-image-generator-3c6)
-- [NocoBase Enters German University Classrooms](https://dev.to/nocobase/nocobase-enters-german-university-classrooms-38p6)
-- [Root Access: Upgrading Your Mind and Your Digital Ecosystem](https://dev.to/numbpill3d/root-access-upgrading-your-mind-and-your-digital-ecosystem-46fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
