@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Kafka 7,658x slower for the Lulz](https://dev.to/mrgoodmorning1/making-kafka-7658x-slower-for-the-lulz-2g6b)
 - [Why MCP Matters in the AI Ecosystem](https://dev.to/manonaga2188/why-mcp-matters-in-the-ai-ecosystem-1850)
 - [Supercharge Cursor IDE with Chrome DevTools MCP — Real Browser Debugging for Your AI Assistant](https://dev.to/ochapple/supercharge-cursor-ide-with-chrome-devtools-mcp-real-browser-debugging-for-your-ai-assistant-39l7)
 - [Docker for Beginners: The Shipping Container for Code](https://dev.to/manonaga2188/docker-for-beginners-the-shipping-container-for-code-4801)
 - [The Little Prince’s Glucose Garden: Tiny Guardians of Sweetness 🌸](https://dev.to/ersajay/the-little-princes-glucose-garden-tiny-guardians-of-sweetness-3ka2)
-- [Hemi the Cat Concierge: Building a Personality-Driven AI for Formant](https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
