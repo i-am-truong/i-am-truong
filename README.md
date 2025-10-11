@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Backend Folder Structure: A Beginner’s Guide](https://dev.to/jps27cse/understanding-backend-folder-structure-a-beginners-guide-8a7)
-- [How I Built a Self-Merging PR System for Git-Gang](https://dev.to/sashankbhamidi/building-a-self-merging-pr-system-for-github-4i79)
-- [SecureDoc AI Assistant - Intelligent Document Management with Auth0 for AI Agents](https://dev.to/depapp/securedoc-ai-assistant-intelligent-document-management-with-auth0-for-ai-agents-5208)
-- [Building an Infinite-Scroll dev.to Reader in the Stream-Oriented Paradigm](https://dev.to/dariomannu/building-an-infinite-scroll-devto-reader-in-the-stream-oriented-paradigm-1c8)
-- [Top 10+ E-Commerce Dashboard Templates](https://dev.to/wrap-pixel/top-10-e-commerce-dashboard-templates-4a83)
+- [ChatGPT Go Is Now in Sri Lanka — Here’s How It Stacks Up Against Plus, Pro &amp; Free](https://dev.to/dthiwanka/chatgpt-go-is-now-in-sri-lanka-heres-how-it-stacks-up-against-plus-pro-free-3bpk)
+- [How to Optimize the Performance of Your React Website](https://dev.to/izmroen/how-to-optimize-the-performance-of-your-react-website-130)
+- [frontend website development](https://dev.to/afreen_abid_fdb8fd5f82bb9/frontend-website-development-5bbo)
+- [VectorXone is now optimized for mobile phones!](https://dev.to/aspxone-official/vectorxone-is-now-optimized-for-mobile-phones-bfp)
+- [Why Game Developers are Building Anti-Cheat on the Foundation of TPM](https://dev.to/cng_on_2c8a3358eb166a/why-game-developers-are-building-anti-cheat-on-the-foundation-of-tpm-36ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
