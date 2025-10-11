@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #41-2025: Dotter, Claude Code, Regex, and Startup Insights](https://dev.to/weekly/weekly-41-2025-dotter-claude-code-regex-and-startup-insights-260i)
-- [**Unlocking AI Success: The Power of Information Density Rat](https://dev.to/drcarlosruizviquez/unlocking-ai-success-the-power-of-information-density-rat-265m)
-- [How the AWS Community Inspires Growth, Connection, and Change](https://dev.to/urielalonso/how-the-aws-community-inspires-growth-connection-and-change-4fjd)
-- [DevOps Week 16: Kubernetes RBAC Hands-On — Securing Cluster Access](https://dev.to/azmatahmed/devops-week-16-kubernetes-rbac-hands-on-securing-cluster-access-44c2)
-- [Uncovering the Secret Behind My Side Project Journey](https://dev.to/pravin_niceguy/uncovering-the-secret-behind-my-side-project-journey-2kck)
+- [TLDR; Deploy ReactJS project to Cloudflare Pages](https://dev.to/thechaudhrysab/tldr-deploy-reactjs-project-to-cloudflare-pages-3ib1)
+- [🔒 Vulnerability Remediation &lpar;Cybersecurity Patch&rpar; 🛠️ by Avoiding Broken Access Control 🚫](https://dev.to/hassamdev/vulnerability-remediation-cybersecurity-patch-by-avoiding-broken-access-control-3lc8)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-5437)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-m4c)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4gpn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
