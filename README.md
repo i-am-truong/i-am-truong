@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I&#39;m Building My Own Distributed Database](https://dev.to/namanvashistha/why-im-building-my-own-distributed-database-3lj)
+- [The Nytril Programming Language](https://dev.to/shawn_mccreight_3b07b3a16/the-nytril-programming-language-434c)
+- [HoneyDrunk.Pipelines — Treat Your CI/CD as Infrastructure](https://dev.to/tatted_dev/honeydrunkpipelines-treat-your-cicd-as-infrastructure-38p2)
 - [[Boost]](https://dev.to/fmerian/-n16)
-- [Why I&#39;m Building My Own Distributed Database &lpar;And Why You Should Too&rpar;](https://dev.to/namanvashistha/why-im-building-my-own-distributed-database-and-why-you-should-too-32p5)
 - [Leveling Up in Back-End Development with Meta’s Coursera Course 🚀](https://dev.to/thiyagu26v/leveling-up-in-back-end-development-with-metas-coursera-course-37h0)
-- [Simplifiez vos workflows DevOps avec Task, le &quot;Makefile&quot; moderne](https://dev.to/laformulenuagique/simplifiez-vos-workflows-devops-avec-task-le-makefile-moderne-1coa)
-- [The Sculptor&#39;s Studio: YAGNI, KISSS, and DRY as Tools of the Trade](https://dev.to/alex_aslam/the-sculptors-studio-yagni-kisss-and-dry-as-tools-of-the-trade-ekm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
