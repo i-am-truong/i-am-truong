@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Full AI-Powered Personal Finance App… at 18](https://dev.to/muhammed_mufinuddinafraz/built-a-complete-personal-finance-app-with-ai-at-18-2mig)
+- [Clarity works faster than speed ever could](https://dev.to/koni_jang/clarity-works-faster-than-speed-ever-could-b02)
+- [untitled](https://dev.to/_2c78f2211e58fb9c5f4cf/untitled-3la8)
 - [Go Microservices Boilerplate Series: From Hello World to Production &lpar;Part 2&rpar;](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-from-hello-world-to-production-part-2-428b)
-- [Securing Frontend Apps from Lodash Issues](https://dev.to/explorer1699/securing-frontend-apps-from-lodash-issues-3dip)
-- [One Place to Read Engineering Blogs from Netflix, Google, Meta &amp; More 🚀](https://dev.to/animishp/one-place-to-read-engineering-blogs-from-netflix-google-meta-more-4421)
-- [npm-ai-hooks: Inject LLM behavior into any TS function with one line](https://dev.to/ateebnoone/npm-ai-hooks-inject-llm-behavior-into-any-ts-function-with-one-line-4e2o)
-- [An Introduction to Commonly Used PL/SQL Data Types](https://dev.to/ayako_yk/an-introduction-to-commonly-used-plsql-data-types-598c)
+- [AI Just Killed Traditional Coding - Here&#39;s What&#39;s Next](https://dev.to/_2c78f2211e58fb9c5f4cf/ai-just-killed-traditional-coding-heres-whats-next-1hci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
