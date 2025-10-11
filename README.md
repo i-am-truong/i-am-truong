@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google’s 16 KB Rule Explained: Step-by-Step Fixes for Legacy React Native Projects](https://dev.to/josephnwanna/googles-16-kb-rule-explained-step-by-step-fixes-for-legacy-react-native-projects-3ae9)
 - [Modernize Open Source Nuxt.js Admin Dashboard: A Comprehensive Overview](https://dev.to/vaibhavg/modernize-open-source-nuxtjs-admin-dashboard-a-comprehensive-overview-2j19)
 - [String in Python &lpar;2&rpar;](https://dev.to/hyperkai/string-in-python-2-2382)
 - [Introducing Bite Genie: Turn Restaurant Photos Into Recipes You Can Actually Cook](https://dev.to/shelby_zinter_f6028766b44/introducing-bite-genie-turn-restaurant-photos-into-recipes-you-can-actually-cook-2pcg)
 - [[Boost]](https://dev.to/ujjavala/-4j2h)
+- [AI Just Killed Traditional Coding - Here&#39;s What&#39;s Next](https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-just-killed-traditional-coding-heres-whats-next-4pia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
