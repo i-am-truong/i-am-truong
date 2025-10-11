@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks &amp; Performance Concepts](https://dev.to/yashi_srivastava_9166487c/react-hooks-performance-concepts-3blf)
-- [Sentient Config is a Code Smell](https://dev.to/rpalo/sentient-config-is-a-code-smell-3593)
-- [Understanding the Basics of Linux Operating System](https://dev.to/eden_wetende/understanding-the-basics-of-linux-operating-system-39c2)
-- [The Symphony of Scale: A Case Study on Conducting 10x Traffic](https://dev.to/alex_aslam/the-symphony-of-scale-a-case-study-on-conducting-10x-traffic-3pd0)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-35h4)
+- [[Boost]](https://dev.to/fmerian/-n16)
+- [Why I&#39;m Building My Own Distributed Database &lpar;And Why You Should Too&rpar;](https://dev.to/namanvashistha/why-im-building-my-own-distributed-database-and-why-you-should-too-32p5)
+- [Leveling Up in Back-End Development with Meta’s Coursera Course 🚀](https://dev.to/thiyagu26v/leveling-up-in-back-end-development-with-metas-coursera-course-37h0)
+- [Simplifiez vos workflows DevOps avec Task, le &quot;Makefile&quot; moderne](https://dev.to/laformulenuagique/simplifiez-vos-workflows-devops-avec-task-le-makefile-moderne-1coa)
+- [The Sculptor&#39;s Studio: YAGNI, KISSS, and DRY as Tools of the Trade](https://dev.to/alex_aslam/the-sculptors-studio-yagni-kisss-and-dry-as-tools-of-the-trade-ekm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
