@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Listen First, Code Later: Case Study of a Dental App](https://dev.to/zendev2112/listen-first-code-later-case-study-of-a-dental-app-1d74)
-- [The Disco Build 🪩 Week 1: MVP Sprint](https://dev.to/saminarp/the-disco-build-week-1-mvp-sprint-154o)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3jn1)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4c1)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-5aie)
+- [LLM&#39;ler neyi yapmakta iyiler?](https://dev.to/cihad/llmler-neyi-yapmakta-iyiler-4k7d)
+- [Switch case in Java](https://dev.to/murali_rajendran_8c84570f/switch-case-in-java-437b)
+- [🎯 Understanding Enums in Java — The Smart Way to Represent Constants](https://dev.to/mohamad_mhana/understanding-enums-in-java-the-smart-way-to-represent-constants-19e2)
+- [Thinking of Learning Google Cloud? Start Here](https://dev.to/saurabhahuja/thinking-of-learning-google-cloud-start-here-5hjd)
+- [Data Types](https://dev.to/murali_rajendran_8c84570f/data-types-47hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
