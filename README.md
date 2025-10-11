@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Destructive Optimization Problem in Large Language Model Assistance](https://dev.to/michal_harcej/the-destructive-optimization-problem-in-large-language-model-assistance-46ei)
-- [Behind the Scenes: How I Built ResumeMatcher’s RAG Pipeline](https://dev.to/esdk/behind-the-scenes-how-i-built-resumematchers-rag-pipeline-38go)
-- [Coding Challenge Practice - Question 25](https://dev.to/tomivan/coding-challenge-practice-question-25-275b)
-- [If the function plt.axis&lpar;&rpar; is called without arguments, the current axis limits are returned by it.](https://dev.to/onaolapo11/if-the-function-pltaxis-is-called-without-arguments-the-current-axis-limits-are-returned-by-it-5e26)
-- [[Fix] Burp Suite crashing on Kali ARM64 &lpar;Apple Silicon / QEMU&rpar;](https://dev.to/yarkhan02/fix-burp-suite-crashing-on-kali-arm64-apple-silicon-qemu-3d99)
+- [OSD600: Lab 5](https://dev.to/kphero/osd600-lab-5-1n4m)
+- [Managing Global Settings in React Native: A Clean Context API Approach](https://dev.to/cathylai/managing-global-settings-in-react-native-a-clean-context-api-approach-4b20)
+- [Stop Using SSH Keys in GitHub Actions &lpar;Here&#39;s What to Use Instead&rpar;](https://dev.to/alpacax/stop-using-ssh-keys-in-github-actions-heres-what-to-use-instead-1mbe)
+- [Easy Rent Bali Case Study: Building a Luxury UX with React &amp; SSR](https://dev.to/andrizmitnick/easy-rent-bali-case-study-building-a-luxury-ux-with-react-ssr-bo9)
+- [How to Set Up NativeWind &lpar;Tailwind CSS&rpar; in Your Expo React Native App](https://dev.to/cathylai/how-to-set-up-nativewind-tailwind-css-in-your-expo-react-native-app-5g23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
