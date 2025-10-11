@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Finally Understood CSS Grid &lpar;with Real Examples&rpar;](https://dev.to/ofodile/how-i-finally-understood-css-grid-with-real-examples-34p8)
 - [An oldie, but a goodie!](https://dev.to/canro91/an-oldie-but-a-goodie-3750)
+- [Building My Movie Discovery App: A Full-Stack Journey of Challenges, Tools, and Growth](https://dev.to/webziro/building-my-movie-discovery-app-a-full-stack-journey-of-challenges-tools-and-growth-2di8)
 - [The Day I Almost Backed Out: Being the Only Woman Speaker at AWS Cloud Day Philippines&#39; Developer Lounge](https://dev.to/urielalonso/the-day-i-almost-backed-out-being-the-only-woman-speaker-at-aws-cloud-day-philippines-developer-2jb)
 - [What makes this hackathon unique &lpar;HackSpire’25&rpar; 🚀](https://dev.to/debkanta_dey_09b98f7eebb9/what-makes-this-hackathon-unique-hackspire25-4nhf)
-- [Building a Multi-Region Disaster Recovery Setup on AWS with Terraform](https://dev.to/copubah/building-a-multi-region-disaster-recovery-setup-on-aws-with-terraform-l69)
-- [Modern Bundlers Are Moving Beyond Webpack](https://dev.to/ad99526/modern-bundlers-are-moving-beyond-webpack-3pj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
