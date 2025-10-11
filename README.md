@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is Your Dinner Plate About to Get a Tech Upgrade? Let&#39;s Talk About Vertical Farming!](https://dev.to/karthik_n/is-your-dinner-plate-about-to-get-a-tech-upgrade-lets-talk-about-vertical-farming-52f3)
-- [📘 System Design Trade-Off: Push vs Pull Based Architecture](https://dev.to/nk_sk_6f24fdd730188b284bf/system-design-trade-off-push-vs-pull-based-architecture-lej)
-- [Building a Multi-Chain Security Vault with Mathematical Guarantees](https://dev.to/chronosvault/building-a-multi-chain-security-vault-with-mathematical-guarantees-39fo)
-- [Filament: Form Select append extra option](https://dev.to/johndivam/filament-form-select-append-extra-option-23f5)
-- [‎💥 Load Testing: How to Ensure Your Web Application Thrives Under Pressure](https://dev.to/okoye_ndidiamaka_5e3b7d30/load-testing-how-to-ensure-your-web-application-thrives-under-pressure-2kap)
+- [Groups in Filament v4](https://dev.to/johndivam/groups-in-filament-v4-3m6k)
+- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-2-5a3f)
+- [Building a clean Energy Data Pipeline for Africa&lpar; from raw CSVs to MongoDB&rpar;](https://dev.to/anangwemike/building-a-clean-energy-data-pipeline-for-africa-from-raw-csvs-to-mongodb-23l2)
+- [How AI Is Transforming Oral Care: Inside the BrushO Smart Toothbrush](https://dev.to/zainting/how-ai-is-transforming-oral-care-inside-the-brusho-smart-toothbrush-3e3b)
+- [AWS Instance Scheduler](https://dev.to/wakeup_flower_8591a6cb6a9/aws-instance-scheduler-ohn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
