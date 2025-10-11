@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Native Web Components](https://dev.to/lucaspereiradesouzat/native-web-components-gm6)
+- [Web Components nativos](https://dev.to/lucaspereiradesouzat/web-components-nativos-1811)
+- [4 Shocking AI Career Truths: A 47% Salary Boost, 40% Skill Disruption, and What to Do Next](https://dev.to/businesshub360/4-shocking-ai-career-truths-a-47-salary-boost-40-skill-disruption-and-what-to-do-next-1lm)
+- [Why 99% of Web Developers Are Using NoSQL All Wrong — And How to Fix It](https://dev.to/ekwoster/why-99-of-web-developers-are-using-nosql-all-wrong-and-how-to-fix-it-3eeh)
 - [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4bi0)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1bdg)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1hb1)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-38n4)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-n55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
