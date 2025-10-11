@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Under the Hood: HTTPS Explained](https://dev.to/zacharylee/under-the-hood-https-explained-49mn)
+- [🚀 Node.js + TypeScript + Hono.js — Enterprise-Grade Native Architecture](https://dev.to/mrmeaow/nodejs-typescript-honojs-enterprise-grade-native-architecture-4f3f)
 - [Modernize Open Source Nuxt.js Admin Dashboard: A Comprehensive Overview](https://dev.to/vaibhavg/modernize-open-source-nuxtjs-admin-dashboard-a-comprehensive-overview-2j19)
 - [String in Python &lpar;2&rpar;](https://dev.to/hyperkai/string-in-python-2-2382)
 - [Introducing Bite Genie: Turn Restaurant Photos Into Recipes You Can Actually Cook](https://dev.to/shelby_zinter_f6028766b44/introducing-bite-genie-turn-restaurant-photos-into-recipes-you-can-actually-cook-2pcg)
-- [[Boost]](https://dev.to/ujjavala/-4j2h)
-- [AI Just Killed Traditional Coding - Here&#39;s What&#39;s Next](https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-just-killed-traditional-coding-heres-whats-next-4pia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
