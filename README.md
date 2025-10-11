@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What the Heck is AI Search &lpar;AEO or GEO&rpar; and Is SEO Dead for Developers?](https://dev.to/asad1/what-the-heck-is-ai-search-aeo-or-geo-and-is-seo-dead-for-developers-218l)
-- [Hacktoberfest - The First Pull Request](https://dev.to/denisc96/hacktoberfest-the-first-pull-request-4ek7)
-- [Discover the Latest Insights on Topic: Expert Guide &amp; Tips](https://dev.to/movin/discover-the-latest-insights-on-topic-expert-guide-tips-16el)
-- [MadicalScrabs](https://dev.to/madical_scrabs_71dbcec16d/madicalscrabs-c89)
-- [Blockchain Technology: Revolutionizing the Way We Share and Secure Data](https://dev.to/rapidcellphone/blockchain-technology-revolutionizing-the-way-we-share-and-secure-data-197o)
+- [🧠 Want to write about AI in Testing? Join AI &amp; QA Leaders!](https://dev.to/qa-leaders/want-to-write-about-ai-in-testing-join-ai-qa-leaders-3clf)
+- [I Just Made My YouTube Downloader 2x Faster 🚀](https://dev.to/rolan_r_n_r/i-just-made-my-youtube-downloader-2x-faster-hki)
+- [Top Business Growth Strategies for 2024: Proven Methods for Success](https://dev.to/movin/top-business-growth-strategies-for-2024-proven-methods-for-success-2lp9)
+- [100 new ideas](https://dev.to/parthadeori/100-new-ideas-4i77)
+- [CRUD, reps, repeat - My Database Grind](https://dev.to/codebyblazej/crud-reps-repeat-my-database-grind-4lce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
