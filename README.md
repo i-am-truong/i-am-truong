@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Basic Linux Command Using Ubuntu terminal environment.](https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie)
+- [Tome in the Valley](https://dev.to/shepherd_1ec15ed8e8d85ced/tome-in-the-valley-2f5a)
 - [Web Check CI: Catch Browser Compatibility Issues Before They Break Production](https://dev.to/mrmemory/web-check-ci-catch-browser-compatibility-issues-before-they-break-production-273)
 - [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1f6d)
 - [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4jg8)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-2p4a)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1n32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
