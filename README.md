@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Honey Nudger, and Why We&#39;re Launching with a Founder&#39;s Circle](https://dev.to/honeynudger/introducing-honey-nudger-and-why-were-launching-with-a-founders-circle-2o1c)
+- [Wild and Dangling Pointers in C](https://dev.to/godinhojoao/wild-and-dangling-pointers-in-c-3kj5)
 - [Day 3 – Understanding HTTP &amp; HTTPS: The Backbone of the Web](https://dev.to/bblackwind/day-3-understanding-http-https-the-backbone-of-the-web-34ad)
 - [How to Read EXIF Capture Time from HEIC/HEIF Photos in Ruby on Rails](https://dev.to/sushilsubedi/how-to-read-exif-capture-time-from-heicheif-photos-in-ruby-on-rails-324b)
 - [The Custom Conveyor: Building Your Own Iterators](https://dev.to/aaron_rose_0787cc8b4775a0/the-custom-conveyor-building-your-own-iterators-4l87)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2af)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-21jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
