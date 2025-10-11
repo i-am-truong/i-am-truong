@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Downloading SlideShare Presentations Legal? &lpar;Complete Guide 2025&rpar;](https://dev.to/slidedownloaders/is-downloading-slideshare-presentations-legal-complete-guide-2025-28bd)
+- [Rahul Patil appointed Chief Technology Officer at Anthropic to advance AI safety and research initiatives](https://dev.to/ytosko/rahul-patil-appointed-chief-technology-officer-at-anthropic-to-advance-ai-safety-and-research-1a62)
 - [Spin Up, Explore, and Destroy: A Complete Beginner’s Guide to Using Vagrant with Ubuntu &lpar;Visual Walkthrough&rpar;](https://dev.to/fikalz/spin-up-explore-and-destroy-a-complete-beginners-guide-to-using-vagrant-with-ubuntu-visual-37k7)
 - [Building a Scalable Laravel Application with Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/blamsa0mine/building-a-scalable-laravel-application-with-domain-driven-design-ddd-42j6)
 - [Prompt Engineering](https://dev.to/zeroshotanu/prompt-engineering-52in)
-- [50 Most Useful LESS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-less-snippets-3blo)
-- [🧭Beginner’s &lpar;and Not-So-Beginner’s&rpar; Guide #3 — const vs let &lpar;and a bit about var&rpar;: What Developers Keep Getting Wrong](https://dev.to/sylwia-lask/beginners-and-not-so-beginners-guide-3-const-vs-let-and-a-bit-about-var-what-developers-40h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
