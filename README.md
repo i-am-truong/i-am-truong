@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Native Web Components](https://dev.to/lucaspereiradesouzat/native-web-components-gm6)
-- [Web Components nativos](https://dev.to/lucaspereiradesouzat/web-components-nativos-1811)
-- [4 Shocking AI Career Truths: A 47% Salary Boost, 40% Skill Disruption, and What to Do Next](https://dev.to/businesshub360/4-shocking-ai-career-truths-a-47-salary-boost-40-skill-disruption-and-what-to-do-next-1lm)
-- [Why 99% of Web Developers Are Using NoSQL All Wrong — And How to Fix It](https://dev.to/ekwoster/why-99-of-web-developers-are-using-nosql-all-wrong-and-how-to-fix-it-3eeh)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4bi0)
+- [Modern Bundlers Are Moving Beyond Webpack](https://dev.to/ad99526/modern-bundlers-are-moving-beyond-webpack-3pj6)
+- [Selectorless Components in Angular 20+: The Secret Agents of the Modern Framework](https://dev.to/nurrehman/selectorless-components-in-angular-20-the-secret-agents-of-the-modern-framework-4dfk)
+- [Add composer package using path for development](https://dev.to/orfeo/add-composer-package-using-path-for-development-795)
+- [🧠 How to Optimize Search in JavaScript with Debouncing](https://dev.to/saurav_dev_2022/how-to-optimize-search-in-javascript-with-debouncing-14cl)
+- [Defensa por Capas: Seguridad INTEGRAL en la nube de AWS 🔐](https://dev.to/pangoro24/defensa-por-capas-seguridad-integral-en-la-nube-de-aws-6f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
