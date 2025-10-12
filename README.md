@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Latest Software Development News: Mid-October 2025 Roundup](https://dev.to/om_shree_0709/latest-software-development-news-mid-october-2025-roundup-md3)
 - [How to Prune Networks in Pytorch in 2025?](https://dev.to/anna_golubkova/how-to-prune-networks-in-pytorch-in-2025-fam)
 - [Convert Tensorflow to Pytorch Model. in 2025?](https://dev.to/puratabla/convert-tensorflow-to-pytorch-model-in-2025-4ak)
 - [Code Deconstruction: The Counting Lambda](https://dev.to/aaron_rose_0787cc8b4775a0/code-deconstruction-the-counting-lambda-4hl3)
 - [Guia arquitetônico de ponta para a construção de uma plataforma de dados](https://dev.to/_richardson_/guia-arquitetonico-de-ponta-para-a-construcao-de-uma-plataforma-de-dados-2h54)
-- [Decoding the Book&#39;s &quot;ID Card&quot;: A Complete Guide to the ISBN](https://dev.to/qlittleboy/decoding-the-books-id-card-a-complete-guide-to-the-isbn-281d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
