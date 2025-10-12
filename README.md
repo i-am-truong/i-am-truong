@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How End-to-End Encryption Really Works: Understanding the Diffie–Hellman Key Exchange](https://dev.to/arnavsharma2711/how-end-to-end-encryption-really-works-understanding-the-diffie-hellman-key-exchange-1b3f)
+- [Outil de Cybersécurité du Jour - Oct 12, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-oct-12-2025-5dpm)
+- [When rhythm builds reach faster than speed](https://dev.to/koni_jang/when-rhythm-builds-reach-faster-than-speed-1ph5)
 - [Compass](https://dev.to/frosty_fucker_7d06058f3d8/compass-3mnm)
 - [WTF is WebRTC?](https://dev.to/dailybugle33/wtf-is-webrtc-53e1)
-- [Software Safety Consent Declaration – A simple security standard for developers](https://dev.to/yahiagaming495/software-safety-consent-declaration-a-simple-security-standard-for-developers-6bn)
-- [Why “Not Enough” Kills SaaS Growth](https://dev.to/sonu_goswami/why-not-enough-kills-saas-growth-374g)
-- [Simply Order &lpar;Part 4&rpar; — Reliable Events with the Outbox Pattern &lpar;Concepts&rpar;](https://dev.to/hassan314159/simply-order-part-4-reliable-events-with-the-outbox-pattern-concepts-55ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
