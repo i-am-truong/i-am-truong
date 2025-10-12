@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-4ee7)
-- [CinemaSins: Everything Wrong With Lilo &amp; Stitch &lpar;2025&rpar; In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-lilo-stitch-2025-in-17-minutes-or-less-1di4)
-- [Mr Sunday Movies: Tron - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-caravan-of-garbage-52nl)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-1jfi)
-- [80 Days, 80 Python Challenges: The Project That Will Turn Me Into a Better Coder! 🐍 &lpar;My First Post&rpar;](https://dev.to/shahrouzlogs/80-days-80-python-challenges-the-project-that-will-turn-me-into-a-better-coder-my-first-post-3mo1)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1e6c)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-3gmg)
+- [Mr Sunday Movies: The Mummy 2017 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-mummy-2017-caravan-of-garbage-13n8)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-5aak)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-3m1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
