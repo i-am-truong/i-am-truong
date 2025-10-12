@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Python&#39;s Iteration Protocol: Iterables, Iterators, and Generators](https://dev.to/somedood/mastering-pythons-iteration-protocol-iterables-iterators-and-generators-f9e)
-- [📚 Should I Bunk?](https://dev.to/nikunj_maheshwari/should-i-bunk-4jph)
-- [VibeAlive: Cleaning Up the Code Chaos of AI-Assisted Development](https://dev.to/skullzarmy/vibealive-cleaning-up-the-code-chaos-of-ai-assisted-development-100l)
-- [🚀 OSMEA — Open Source Flutter Architecture for Modern E-commerce](https://dev.to/nurhayat_yurtaslan_d3d456/osmea-open-source-flutter-architecture-for-modern-e-commerce-5fn0)
-- [🧠 Beginner in DataOps? Here’s Your Startup Guide 🚀
-
-DataOps isn’t just a buzzword — it’s how modern data teams build reliable, automated, and scalable pipelines.](https://dev.to/aineahsimiyu/beginner-in-dataops-heres-your-startup-guide-dataops-isnt-just-a-buzzword-its-how-3f3d)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1cbi)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-21ep)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3ifk)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-25m7)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2fd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
