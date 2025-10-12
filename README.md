@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Currency APIs Are Powering the Future of Global Fintech](https://dev.to/techdust/how-currency-apis-are-powering-the-future-of-global-fintech-13h7)
+- [Run n8n for Free in Production - Full Guide](https://dev.to/thesohailjafri/run-n8n-for-free-in-production-full-guide-58lg)
+- [Stop Writing Bad Reports: Steal This Battle-Tested AI Prompt for Executive Summaries](https://dev.to/huizhudev/stop-writing-bad-reports-steal-this-battle-tested-ai-prompt-for-executive-summaries-49kh)
 - [From Idea to AI Launch: How Devs Can Build Projects Like Serial Founder](https://dev.to/mukul_sharma/from-idea-to-ai-launch-how-devs-can-build-projects-like-serial-founder-4jl2)
 - [Mastering Java Booleans: A Complete Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-java-booleans-a-complete-guide-for-developers-gbn)
-- [Master Java Math: Your In-Depth Guide to Methods, Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-math-your-in-depth-guide-to-methods-examples-best-practices-3p8b)
-- [Supercharge Your Bun Workflow with bun-tasks](https://dev.to/gxy_gomi_316f14abb66c18e9/supercharge-your-bun-workflow-with-bun-tasks-4lp2)
-- [Universal multi-language runner and smart REPL written in Rust.](https://dev.to/esubaalew/universal-multi-language-runner-and-smart-repl-written-in-rust-2ij6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
