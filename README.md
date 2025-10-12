@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Determining the Maximum Decimal Digits at Compile-Time](https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb)
-- [Everyone wants prompt templates, and most developers ask AI for answers. Few ask AI for structure, clarity, frameworks, and thought direction.
-
-That’s the difference between regular ChatGPT users &amp; Expert ChatGPT users.](https://dev.to/jaideepparashar/everyone-wants-prompt-templates-and-most-developers-ask-ai-for-answers-few-ask-ai-for-structure-pla)
-- [Introducing Varkit: Dynamic CSS Variables for React with TypeScript](https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f)
-- [The 9 Best CLIs with Artificial Intelligence](https://dev.to/nube_colectiva_nc/the-9-best-clis-with-artificial-intelligence-3lim)
-- [The Hidden Power of ChatGPT Prompts Nobody Talks About](https://dev.to/jaideepparashar/the-hidden-power-of-chatgpt-prompts-nobody-talks-about-558f)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1a74)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4pfl)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-km9)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-573m)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4chc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
