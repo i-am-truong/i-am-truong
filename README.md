@@ -120,13 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Python&#39;s Iteration Protocol: Iterables, Iterators, and Generators](https://dev.to/somedood/mastering-pythons-iteration-protocol-iterables-iterators-and-generators-f9e)
+- [📚 Should I Bunk?](https://dev.to/nikunj_maheshwari/should-i-bunk-4jph)
+- [VibeAlive: Cleaning Up the Code Chaos of AI-Assisted Development](https://dev.to/skullzarmy/vibealive-cleaning-up-the-code-chaos-of-ai-assisted-development-100l)
+- [🚀 OSMEA — Open Source Flutter Architecture for Modern E-commerce](https://dev.to/nurhayat_yurtaslan_d3d456/osmea-open-source-flutter-architecture-for-modern-e-commerce-5fn0)
 - [🧠 Beginner in DataOps? Here’s Your Startup Guide 🚀
 
 DataOps isn’t just a buzzword — it’s how modern data teams build reliable, automated, and scalable pipelines.](https://dev.to/aineahsimiyu/beginner-in-dataops-heres-your-startup-guide-dataops-isnt-just-a-buzzword-its-how-3f3d)
-- [Data Engineering with Docker: A Hands-On Guide to Containerization](https://dev.to/aineahsimiyu/data-engineering-with-docker-a-hands-on-guide-to-containerization-1kbc)
-- [🚀 Deploy Node.js Apps on AWS EC2 - Complete Guide](https://dev.to/abdallateef_sa/deploy-nodejs-apps-on-aws-ec2-complete-guide-46p9)
-- [Nested List Series: AI Agent Workflows &amp; GraphRAG Architectures on Modern Graph DBs](https://dev.to/yigit-konur/a-comparative-analysis-of-graph-databases-for-ai-agent-workflows-and-graphrag-architectures-1lia)
-- [Leitura de arquivos CSV com k6](https://dev.to/marlo2222/leitura-de-arquivos-csv-com-k6-36lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
