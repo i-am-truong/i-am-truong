@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Fundamentals: Puerta a la Inteligencia Artificial](https://dev.to/karinaaquinoc/ai-fundamentals-puerta-a-la-inteligencia-artificial-5b4g)
 - [Building a Redis Clone in Zig—Part 1](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-1-3fk)
-- [Interactive Liquid Glass Animation](https://dev.to/mubarek57/interactive-liquid-glass-animation-f0g)
-- [🚨If You Have an npm Package, Read This Before November 2025](https://dev.to/hichemtab-tech/if-you-have-an-npm-package-read-this-before-november-2025-525h)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2bi3)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1cbi)
+- [What Building Employee Atlas Taught Me About Real Full-Stack Development](https://dev.to/haris_sejmenovic/what-building-employee-atlas-taught-me-about-real-full-stack-development-2a83)
+- [Day 1 — Understanding Generative AI: A Simple Start for Beginners](https://dev.to/shiv_darshanrathore_402a/day-1-understanding-generative-ai-a-simple-start-for-beginners-539c)
+- [🚀 100 Most Useful ChatGPT Prompt Snippets for Software Development](https://dev.to/softwaredeveloper01/100-most-useful-chatgpt-prompt-snippets-for-software-development-nh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
