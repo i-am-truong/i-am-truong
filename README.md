@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Currency APIs Are Powering the Future of Global Fintech](https://dev.to/techdust/how-currency-apis-are-powering-the-future-of-global-fintech-13h7)
-- [Run n8n for Free in Production - Full Guide](https://dev.to/thesohailjafri/run-n8n-for-free-in-production-full-guide-58lg)
-- [Stop Writing Bad Reports: Steal This Battle-Tested AI Prompt for Executive Summaries](https://dev.to/huizhudev/stop-writing-bad-reports-steal-this-battle-tested-ai-prompt-for-executive-summaries-49kh)
-- [From Idea to AI Launch: How Devs Can Build Projects Like Serial Founder](https://dev.to/mukul_sharma/from-idea-to-ai-launch-how-devs-can-build-projects-like-serial-founder-4jl2)
-- [Mastering Java Booleans: A Complete Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-java-booleans-a-complete-guide-for-developers-gbn)
+- [Python basics - Day 03](https://dev.to/ian_b838138a27a917398d181/python-basics-day-03-3j3o)
+- [Why Cogoma: Go Implementation of Codama IDL Ecosystem](https://dev.to/xiaodao/why-cogoma-go-implementation-of-codama-idl-ecosystem-k0j)
+- [Understanding React Hooks: Simplifying State and Logic &lpar;Without Losing Your Mind&rpar;](https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4i20)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4o30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
