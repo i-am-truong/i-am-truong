@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Latest Software Development News: Mid-October 2025 Roundup](https://dev.to/om_shree_0709/latest-software-development-news-mid-october-2025-roundup-md3)
-- [How to Prune Networks in Pytorch in 2025?](https://dev.to/anna_golubkova/how-to-prune-networks-in-pytorch-in-2025-fam)
-- [Convert Tensorflow to Pytorch Model. in 2025?](https://dev.to/puratabla/convert-tensorflow-to-pytorch-model-in-2025-4ak)
-- [Code Deconstruction: The Counting Lambda](https://dev.to/aaron_rose_0787cc8b4775a0/code-deconstruction-the-counting-lambda-4hl3)
-- [Guia arquitetônico de ponta para a construção de uma plataforma de dados](https://dev.to/_richardson_/guia-arquitetonico-de-ponta-para-a-construcao-de-uma-plataforma-de-dados-2h54)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-27p9)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-26p7)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-48ie)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3n30)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-25mb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
