@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Unlocking Productivity: AI Tools Every Angular Developer Should Know](https://dev.to/karol_modelski/unlocking-productivity-ai-tools-every-angular-developer-should-know-1fj)
+- [Parallel PHP SOAP Client Requests](https://dev.to/andreistsiapanau/parallel-php-soap-client-requests-5glg)
+- [Evaluating Network Security With Amazon VPC Network Access Analyzer](https://dev.to/aws-builders/evaluating-network-security-with-amazon-vpc-network-access-analyzer-2h41)
+- [🚀 From Excel to Web App: How I Built a Smart Assignment Management System for 125 Students](https://dev.to/anticoder03/from-excel-to-web-app-how-i-built-a-smart-assignment-management-system-for-125-students-3jac)
 - [🌿 How My Winter Garden Inspires Better UI Design](https://dev.to/shubhradev/how-my-winter-garden-inspires-better-ui-design-4b48)
-- [Pusher Composables - حل شامل للمحادثات والإشعارات الفورية](https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j)
-- [Go 1.25 release - what&#39;s new](https://dev.to/rosgluk/go-125-release-whats-new-hbf)
-- [The Man Who Spoke to Machines: How Dennis Ritchie Changed My Life](https://dev.to/agunechemba/the-man-who-spoke-to-machines-how-dennis-ritchie-changed-my-life-331i)
-- [Systems As Mirrors](https://dev.to/interstelios/systems-as-mirrors-3g5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
