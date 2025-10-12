@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Data Structures &amp; Algorithms: Becoming a Smarter Programmer](https://dev.to/devtechinsights/mastering-data-structures-algorithms-becoming-a-smarter-programmer-446g)
-- [Pakistan Strikes Back: When Terror Groups Cross the Wrong Border](https://dev.to/skye_wright_1443d44f7b6d1/pakistan-strikes-back-when-terror-groups-cross-the-wrong-border-20pe)
-- [Spring Framework Explained Simply: Why It Finally Made Sense to Me published](https://dev.to/thedivyaojha/spring-framework-explained-simply-why-it-finally-made-sense-to-mepublished-2lpa)
-- [Business Intelligence Fundamentals Part 2: Intro to Tableau and Product Suite](https://dev.to/chinemerem_okpara_9f0dbbc/business-intelligence-fundamentals-part-2-intro-to-tableau-and-product-suite-2e94)
-- [Build Intelligent Document Processing with AWS Lambda and Bedrock Data Automation](https://dev.to/lamkhac/build-intelligent-document-processing-with-aws-lambda-and-bedrock-data-automation-45b0)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-pm9)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3ogl)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-nmb)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-467d)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-21kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
