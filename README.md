@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Web Search Workflow Using Microsoft Agent Framework &lpar;Without Any AI Services&rpar; -Part II](https://dev.to/sreeni5018/building-a-web-search-workflow-using-microsoft-agent-framework-without-any-ai-services-part-ii-50l3)
+- [Сюрприз](https://dev.to/__ddbc9bfd19c5/siurpriz-4neb)
+- [Why HackSpire’25 Is the Event I’m Most Excited About](https://dev.to/debkanta_dey_09b98f7eebb9/why-hackspire25-is-the-event-im-most-excited-about-54o8)
+- [Challenging n8n AI Agent with a personal productivity flow](https://dev.to/kaiwalter/challenging-n8n-ai-agent-with-a-personal-productivity-flow-2a17)
 - [Why Global Companies Are Turning to AI LATAM Partners for Innovation](https://dev.to/nayeem79/why-global-companies-are-turning-to-ai-latam-partners-for-innovation-mag)
-- [Creating Web Components](https://dev.to/lucaspereiradesouzat/creating-web-components-mjh)
-- [Criando Web Components](https://dev.to/lucaspereiradesouzat/criando-web-components-4moh)
-- [🔥 MicroPython on ESP32: Build a Smart Sensor in 15 Minutes Without Writing C! 😱](https://dev.to/ekwoster/micropython-on-esp32-build-a-smart-sensor-in-15-minutes-without-writing-c-2bak)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4dg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
