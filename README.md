@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Litho Project Architecture Analysis: How the Four-Stage Pipeline Enables Automated Documentation Generation](https://dev.to/sopaco/litho-project-architecture-analysis-how-the-four-stage-pipeline-enables-automated-documentation-37fa)
-- [Part-123: 🚀Create a GKE Autopilot Cluster and Deploy an Application](https://dev.to/latchudevops/part-123-create-a-gke-autopilot-cluster-and-deploy-an-application-17oo)
-- [The Vakhnin Algorithm: Left-Side Tree Traversal with O&lpar;1&rpar; Memory](https://dev.to/vakhnin/the-vakhnin-algorithm-left-side-tree-traversal-with-o1-memory-13g0)
-- [PR-02 at Hacktoberfest: From Issue to Pull Request: Adding Windows Network Monitoring to SysMood](https://dev.to/andersontsai/pr-02-at-hacktoberfest-from-issue-to-pull-request-adding-windows-network-monitoring-to-sysmood-1ibf)
-- [Range functions in Python](https://dev.to/hyperkai/range-functions-in-python-83f)
+- [Researching Litho&#39;s Intelligent Caching and Performance Optimization Strategies](https://dev.to/sopaco/researching-lithos-intelligent-caching-and-performance-optimization-strategies-5h5p)
+- [The Human Algorithm: Why Our Next Code Will Be Emotional](https://dev.to/vvvnetwork/the-human-algorithm-why-our-next-code-will-be-emotional-4e86)
+- [Can AI Tools Implement Designs Perfectly?](https://dev.to/oikon/can-ai-tools-implement-designs-perfectly-h36)
+- [🧭 Programming Philosophies Explained &lpar;How to Think Like a Polyglot Developer&rpar;](https://dev.to/bibimbop123/programming-philosophies-explained-how-to-think-like-a-polyglot-developer-49f6)
+- [Day 11 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-11-of-100-days-dsa-coding-challenge-3cph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
