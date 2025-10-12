@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Engineering with Docker: A Hands-On Guide to Containerization](https://dev.to/aineahsimiyu/data-engineering-with-docker-a-hands-on-guide-to-containerization-1kbc)
+- [🚀 Deploy Node.js Apps on AWS EC2 - Complete Guide](https://dev.to/abdallateef_sa/deploy-nodejs-apps-on-aws-ec2-complete-guide-46p9)
+- [Nested List Series: AI Agent Workflows &amp; GraphRAG Architectures on Modern Graph DBs](https://dev.to/yigit-konur/a-comparative-analysis-of-graph-databases-for-ai-agent-workflows-and-graphrag-architectures-1lia)
 - [Leitura de arquivos CSV com k6](https://dev.to/marlo2222/leitura-de-arquivos-csv-com-k6-36lo)
 - [Keep Your Server Clean Using Python’s Context Managers](https://dev.to/nafees_madni_7feef5b049ab/keep-your-server-clean-using-pythons-context-managers-np9)
-- [🚦 What is Throttling in JavaScript?](https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e)
-- [Understanding Garbage Collection in JavaScript](https://dev.to/md_isfaruddin_65557809e/understanding-garbage-collection-in-javascript-3p1a)
-- [React useFormStatus Hook , Complete Guide &lpar;Beginner to Advanced&rpar;](https://dev.to/homayunmmdy/react-useformstatus-hook-complete-guide-beginner-to-advanced-3gcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
