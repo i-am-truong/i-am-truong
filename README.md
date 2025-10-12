@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Local Laptop to Team Collaboration: How Remote Git Repositories Work](https://dev.to/swathi_macha/from-local-laptop-to-team-collaboration-how-remote-git-repositories-work-21mk)
 - [The Growing Relevance of Operating Systems in Today’s Tech Landscape 💻✨](https://dev.to/karthikkorrayi/the-growing-relevance-of-operating-systems-in-todays-tech-landscape-2o09)
 - [Building a Web Search Workflow Using Microsoft Agent Framework &lpar;Without Any AI Services&rpar; -Part II](https://dev.to/sreeni5018/building-a-web-search-workflow-using-microsoft-agent-framework-without-any-ai-services-part-ii-50l3)
 - [Сюрприз](https://dev.to/__ddbc9bfd19c5/siurpriz-4neb)
 - [Why HackSpire’25 Is the Event I’m Most Excited About](https://dev.to/debkanta_dey_09b98f7eebb9/why-hackspire25-is-the-event-im-most-excited-about-54o8)
-- [Challenging n8n AI Agent with a personal productivity flow](https://dev.to/kaiwalter/challenging-n8n-ai-agent-with-a-personal-productivity-flow-2a17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
