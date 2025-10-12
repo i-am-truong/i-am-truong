@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌩️ Smart Cloud Computing: How AI and ML Are Transforming Cloud Cost Optimization](https://dev.to/23aditi/smart-cloud-computing-how-ai-and-ml-are-transforming-cloud-cost-optimization-bek)
-- [Things i have learned from my creating my First ever game](https://dev.to/haris_sejmenovic/things-i-have-learned-from-my-creating-my-first-ever-game-2afj)
-- [My Siemens Interview Experience — Honest Reflections, Learnings, and Tips](https://dev.to/23aditi/my-siemens-interview-experience-honest-reflections-learnings-and-tips-48i9)
-- [Top Common AI Integration Errors in Android Apps and How to Fix Them](https://dev.to/shubham_joshi_expert/top-common-ai-integration-errors-in-android-apps-and-how-to-fix-them-5g07)
-- [Inside Google Jobs Series &lpar;Part 1&rpar;: Cloud AI &amp; Data Engineering](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-1-cloud-ai-data-engineering-26l4)
+- [When Floating-Point Failed Catastrophically](https://dev.to/cfir_aguston_f751a11907c2/when-floating-point-failed-catastrophically-pid)
+- [The Car That Would Not Stop](https://dev.to/cfir_aguston_f751a11907c2/the-car-that-would-not-stop-1hem)
+- [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
+- [The Journey That Just Began — From Feeling Like a Beginner to Receiving My First Stipend](https://dev.to/23aditi/the-journey-that-just-began-from-feeling-like-a-beginner-to-receiving-my-first-stipend-njn)
+- [Day 29 of python code series..](https://dev.to/momina_raheelmoona_c59/day-29-of-python-code-series-5die)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
