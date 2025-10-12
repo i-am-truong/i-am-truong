@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1ei2)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-565e)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-17pp)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-589p)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1d8m)
+- [REST API Design Best Practices for Modern Web Applications](https://dev.to/hardik_kanajariya/rest-api-design-best-practices-for-modern-web-applications-2iaa)
+- [How to Manage Translations With &lpar;and Without&rpar; Artificial Intelligence](https://dev.to/fedtti/how-to-manage-translations-with-and-without-artificial-intelligence-54jk)
+- [The Agentic Era: From Artificial Intelligence to Cognitive Infrastructure](https://dev.to/pillin/the-agentic-era-from-artificial-intelligence-to-cognitive-infrastructure-3k7l)
+- [The Basics of Data Sockets on Local Machines and System Resource Management](https://dev.to/rijultp/the-basics-of-data-sockets-on-local-machines-and-system-resource-management-52ce)
+- [How AI Helped Me Find the Joy in Product Management Again](https://dev.to/bcornils/how-ai-helped-me-find-the-joy-in-product-management-again-20cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
