@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌩️ Smart Cloud Computing: How AI and ML Are Transforming Cloud Cost Optimization](https://dev.to/23aditi/smart-cloud-computing-how-ai-and-ml-are-transforming-cloud-cost-optimization-bek)
+- [Things i have learned from my creating my First ever game](https://dev.to/haris_sejmenovic/things-i-have-learned-from-my-creating-my-first-ever-game-2afj)
+- [My Siemens Interview Experience — Honest Reflections, Learnings, and Tips](https://dev.to/23aditi/my-siemens-interview-experience-honest-reflections-learnings-and-tips-48i9)
 - [Top Common AI Integration Errors in Android Apps and How to Fix Them](https://dev.to/shubham_joshi_expert/top-common-ai-integration-errors-in-android-apps-and-how-to-fix-them-5g07)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-47ff)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-118a)
-- [Side project: T2Client – Trying to make MongoDB access easier, would love your thoughts](https://dev.to/tech2cool/side-project-t2client-trying-to-make-mongodb-access-easier-would-love-your-thoughts-358b)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4544)
+- [Inside Google Jobs Series &lpar;Part 1&rpar;: Cloud AI &amp; Data Engineering](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-1-cloud-ai-data-engineering-26l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
