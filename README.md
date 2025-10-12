@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [K8 Monitoring](https://dev.to/vb_nair/k8-monitoring-16m7)
-- [Como criar um menu hambúrguer acessível com a &quot;armadilha de foco&quot; &lpar;Focus Trap&rpar;](https://dev.to/carol8fml/como-criar-um-menu-hamburguer-acessivel-com-a-armadilha-de-foco-focus-trap-2l5i)
-- [Finished Knights Travails while I was AWOL](https://dev.to/codecara/finished-knights-travails-while-i-was-awol-kio)
-- [Build a Custom No-Code App in 90 Minutes](https://dev.to/codingcatdev/build-a-custom-no-code-app-in-90-minutes-21f9)
-- [The 64 KB Challenge: Teaching a Tiny Net to Play Pong](https://dev.to/ruben_ghafadaryan/the-64-kb-challenge-teaching-a-tiny-net-to-play-pong-1m70)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4dg5)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-7lp)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-54il)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-323b)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
