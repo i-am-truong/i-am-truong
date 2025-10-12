@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fuzzing Bitcoin Core using AFL++ on Apple Silicon](https://dev.to/stringintech/fuzzing-bitcoin-core-using-afl-on-apple-silicon-23n)
-- [DORA Oversight Guide 2025: What JET Will Check](https://dev.to/pentest_testing_corp/dora-oversight-guide-2025-what-jet-will-check-3kai)
-- [When Floating-Point Failed Catastrophically](https://dev.to/cfir_aguston_f751a11907c2/when-floating-point-failed-catastrophically-pid)
-- [The Car That Would Not Stop](https://dev.to/cfir_aguston_f751a11907c2/the-car-that-would-not-stop-1hem)
-- [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
+- [From Idea to AI Launch: How Devs Can Build Projects Like Serial Founder](https://dev.to/mukul_sharma/from-idea-to-ai-launch-how-devs-can-build-projects-like-serial-founder-4jl2)
+- [Mastering Java Booleans: A Complete Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-java-booleans-a-complete-guide-for-developers-gbn)
+- [Master Java Math: Your In-Depth Guide to Methods, Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-math-your-in-depth-guide-to-methods-examples-best-practices-3p8b)
+- [Supercharge Your Bun Workflow with bun-tasks](https://dev.to/gxy_gomi_316f14abb66c18e9/supercharge-your-bun-workflow-with-bun-tasks-4lp2)
+- [Universal multi-language runner and smart REPL written in Rust.](https://dev.to/esubaalew/universal-multi-language-runner-and-smart-repl-written-in-rust-2ij6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
