@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌿 How My Winter Garden Inspires Better UI Design](https://dev.to/shubhradev/how-my-winter-garden-inspires-better-ui-design-4b48)
+- [Pusher Composables - حل شامل للمحادثات والإشعارات الفورية](https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j)
+- [Go 1.25 release - what&#39;s new](https://dev.to/rosgluk/go-125-release-whats-new-hbf)
 - [The Man Who Spoke to Machines: How Dennis Ritchie Changed My Life](https://dev.to/agunechemba/the-man-who-spoke-to-machines-how-dennis-ritchie-changed-my-life-331i)
 - [Systems As Mirrors](https://dev.to/interstelios/systems-as-mirrors-3g5n)
-- [Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead](https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8d1)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-49cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
