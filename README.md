@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Litho Project Architecture Analysis: How the Four-Stage Pipeline Enables Automated Documentation Generation](https://dev.to/sopaco/litho-project-architecture-analysis-how-the-four-stage-pipeline-enables-automated-documentation-37fa)
 - [Part-123: 🚀Create a GKE Autopilot Cluster and Deploy an Application](https://dev.to/latchudevops/part-123-create-a-gke-autopilot-cluster-and-deploy-an-application-17oo)
 - [The Vakhnin Algorithm: Left-Side Tree Traversal with O&lpar;1&rpar; Memory](https://dev.to/vakhnin/the-vakhnin-algorithm-left-side-tree-traversal-with-o1-memory-13g0)
+- [PR-02 at Hacktoberfest: From Issue to Pull Request: Adding Windows Network Monitoring to SysMood](https://dev.to/andersontsai/pr-02-at-hacktoberfest-from-issue-to-pull-request-adding-windows-network-monitoring-to-sysmood-1ibf)
 - [Range functions in Python](https://dev.to/hyperkai/range-functions-in-python-83f)
-- [From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming](https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg)
-- [range in Python &lpar;2&rpar;](https://dev.to/hyperkai/range-in-python-2-12g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
