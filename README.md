@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet AI: Introduction to the World of Artificial Intelligence](https://dev.to/mariustechie/meet-ai-introduction-to-the-world-of-artificial-intelligence-284d)
+- [How to Build Modular AI Personalities with LuminoraCore v1.0](https://dev.to/rulyaltamirano/how-to-build-modular-ai-personalities-with-luminoracore-v10-1k14)
+- [Become a 1% Developer: Create a REST API Without Any Framework &lpar;No Spring Boot, No Spring!&rpar;](https://dev.to/ritik_kumar_9883dbfcef054/become-a-1-developer-create-a-rest-api-without-any-framework-no-spring-boot-no-spring-445g)
+- [Understanding Degrees of Freedom: Why They Matter in Statistics](https://dev.to/dilan_bosire/understanding-degrees-of-freedom-why-they-matter-in-statistics-438o)
 - [How I built Jaabz — a simple job aggregator for visa-sponsored tech roles](https://dev.to/jaabz_1791fce4d7bb42c93ef/how-i-built-jaabz-a-simple-job-aggregator-for-visa-sponsored-tech-roles-405c)
-- [Issue and Pull Request Conventions](https://dev.to/brazenbraden/issue-and-pull-request-conventions-372p)
-- [Detecting File Changes in 2 Seconds: Python File Integrity Monitoring](https://dev.to/pkdev23/detecting-file-changes-in-2-seconds-python-file-integrity-monitoring-3mo0)
-- [How End-to-End Encryption Really Works: Understanding the Diffie–Hellman Key Exchange](https://dev.to/arnavsharma2711/how-end-to-end-encryption-really-works-understanding-the-diffie-hellman-key-exchange-1b3f)
-- [When rhythm builds reach faster than speed](https://dev.to/koni_jang/when-rhythm-builds-reach-faster-than-speed-1ph5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
