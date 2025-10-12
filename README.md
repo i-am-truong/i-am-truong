@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Redis Clone in Zig—Part 1](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-1-3fk)
+- [Interactive Liquid Glass Animation](https://dev.to/mubarek57/interactive-liquid-glass-animation-f0g)
 - [🚨If You Have an npm Package, Read This Before November 2025](https://dev.to/hichemtab-tech/if-you-have-an-npm-package-read-this-before-november-2025-525h)
-- [Earth Programming for Aliens: A Book](https://dev.to/davidcanhelp/earth-programming-for-aliens-a-book-32i3)
 - [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2bi3)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-551n)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-3ga2)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1cbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
