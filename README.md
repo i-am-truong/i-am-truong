@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Face Detection in Python Using OpenCV HAAR CASCADE Method](https://dev.to/ddebajyati/face-detection-in-python-using-opencv-haar-cascade-method-1iml)
-- [3 Common Frontend Interview Questions🚀](https://dev.to/yaldakhoshpey/3-common-frontend-interview-questions-1dhf)
-- [Unlocking True Parallelism: A Developer&#39;s Guide to Free-Threaded Python 3.14](https://dev.to/mechcloud_academy/unlocking-true-parallelism-a-developers-guide-to-free-threaded-python-314-175i)
-- [Building a Font Generator Tool — Looking for Insights](https://dev.to/devid_lee_8bbc341756027c2/building-a-font-generator-tool-looking-for-insights-3jpa)
-- [🧩 Windows 11 in Law Firms Despite “Incompatible” Hardware](https://dev.to/thomasdelfing_de/windows-11-in-law-firms-despite-incompatible-hardware-8a3)
+- [Vibe Coding Assistant - Combining NoCode with AI Generation](https://dev.to/dennis_heine_718cc4afaa05/vibe-coding-assistant-combining-nocode-with-ai-generation-27pn)
+- [How to Design a Rate Limiter on a System Design Interview?](https://dev.to/somadevtoo/how-to-design-a-rate-limiter-on-a-system-design-interview-epc)
+- [Algo entre o VARCHAR2 e o CLOB: VARCHAR2 com esteróides [MAX_STRING_SIZE]](https://dev.to/valter_filho_24448308265f/algo-entre-o-varchar2-e-o-clob-varchar2-com-esteroides-maxstringsize-266j)
+- [🚀 I Just Launched My Interactive Developer Portfolio!](https://dev.to/shivam_nilay/i-just-launched-my-interactive-developer-portfolio-4nj7)
+- [HackSpire’25: 25 Hours, Infinite Possibilities 🚀✨](https://dev.to/tousif_azim_69a80788bc467/hackspire25-25-hours-infinite-possibilities-12ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
