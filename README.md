@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Além da Lista de Funcionalidades: 4 Verdades Surpreendentes Sobre Requisitos de Software](https://dev.to/dev-sigo/alem-da-lista-de-funcionalidades-4-verdades-surpreendentes-sobre-requisitos-de-software-5blk)
 - [Pod Identity: The Authentication Revolution Kubernetes Needed 🔐](https://dev.to/omarmfathy219/pod-identity-the-authentication-revolution-kubernetes-needed-33ph)
 - [Rescript is truly a game changer for web development. Types are great, but types shine when you can rely on a sound type system, typed errors, and easy to use variant types.](https://dev.to/jderochervlk/rescript-is-truly-a-game-changer-for-web-development-types-are-great-but-types-shine-when-you-can-590m)
+- [Como Integrar Diferentes Linguagens de Programação em um Projeto: A Abordagem Multilíngue](https://dev.to/pedrofernandss/como-integrar-diferentes-linguagens-de-programacao-em-um-projeto-a-abordagem-multilingue-43j5)
 - [Running the Cloud on Your Desktop with LocalStack](https://dev.to/codingcatdev/running-the-cloud-on-your-desktop-with-localstack-3f76)
-- [Why use LogLayer as the logger for your SDK](https://dev.to/theogravity/why-use-loglayer-as-the-logger-for-your-sdk-56mn)
-- [How to Set Up Reactotron to Debug AsyncStorage in React Native](https://dev.to/cathylai/how-to-set-up-reactotron-to-debug-asyncstorage-in-react-native-1idp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
