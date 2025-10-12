@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Your Work and Free Your Time](https://dev.to/codingcatdev/how-to-automate-your-work-and-free-your-time-4nad)
-- [Best AI Rank Tracking Tool](https://dev.to/furkan_yaman_47be00fb2e21/best-ai-rank-tracking-tool-5glk)
-- [Understanding AWS Load Balancer: The Ultimate Guide to Scalable and Reliable Applications](https://dev.to/kmsaifullah/understanding-aws-load-balancer-the-ultimate-guide-to-scalable-and-reliable-applications-2bj2)
-- [I Built Git from Scratch to Finally Understand What I&#39;ve Been Using for Years](https://dev.to/kayleecodez/i-built-git-from-scratch-to-finally-understand-what-ive-been-using-for-years-37a9)
-- [A Personal Guide to Setting Up React Native on Mac: My Journey](https://dev.to/tech_nexa_8e64b11ae4f24f9/a-personal-guide-to-setting-up-react-native-on-mac-my-journey-2o62)
+- [K8 Monitoring](https://dev.to/vb_nair/k8-monitoring-16m7)
+- [Como criar um menu hambúrguer acessível com a &quot;armadilha de foco&quot; &lpar;Focus Trap&rpar;](https://dev.to/carol8fml/como-criar-um-menu-hamburguer-acessivel-com-a-armadilha-de-foco-focus-trap-2l5i)
+- [Finished Knights Travails while I was AWOL](https://dev.to/codecara/finished-knights-travails-while-i-was-awol-kio)
+- [Build a Custom No-Code App in 90 Minutes](https://dev.to/codingcatdev/build-a-custom-no-code-app-in-90-minutes-21f9)
+- [The 64 KB Challenge: Teaching a Tiny Net to Play Pong](https://dev.to/ruben_ghafadaryan/the-64-kb-challenge-teaching-a-tiny-net-to-play-pong-1m70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
