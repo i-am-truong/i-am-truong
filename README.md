@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leitura de arquivos CSV com k6](https://dev.to/marlo2222/leitura-de-arquivos-csv-com-k6-36lo)
+- [Keep Your Server Clean Using Python’s Context Managers](https://dev.to/nafees_madni_7feef5b049ab/keep-your-server-clean-using-pythons-context-managers-np9)
+- [🚦 What is Throttling in JavaScript?](https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e)
+- [Understanding Garbage Collection in JavaScript](https://dev.to/md_isfaruddin_65557809e/understanding-garbage-collection-in-javascript-3p1a)
 - [React useFormStatus Hook , Complete Guide &lpar;Beginner to Advanced&rpar;](https://dev.to/homayunmmdy/react-useformstatus-hook-complete-guide-beginner-to-advanced-3gcg)
-- [Concurrency and Row Versioning - Part 1](https://dev.to/arturampilogov/concurrency-and-row-versioning-part-1-39hn)
-- [The Ultimate Betrayal: How Pakistan’s 50-Year Friendship Backfired Spectacularly](https://dev.to/mariasaleh/the-ultimate-betrayal-how-pakistans-50-year-friendship-backfired-spectacularly-apg)
-- [What&#39;s &quot;AWS Local Zones&quot;](https://dev.to/wakeup_flower_8591a6cb6a9/whats-aws-local-zones-474)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-pm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
