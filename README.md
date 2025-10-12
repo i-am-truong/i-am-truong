@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cheat Sheet for Git](https://dev.to/jsha/cheat-sheet-for-git-59i7)
-- [ถ้าข้อมูลเปลี่ยนบ่อยใน useAsyncData — ควรจัดการยังไงดี? ⚡](https://dev.to/tanaratsudjai/thaakhmuulepliiynbyain-useasyncdata-khwrcchadkaaryangaingdii-5hm2)
-- [A Neat Example of Practical Python Automation](https://dev.to/shahrouzlogs/this-tutorial-by-nazaninashrafi-explains-the-logic-behind-automating-personalized-emails-in-2f14)
-- [What’s the difference between AddScoped, AddTransient, and AddSingleton in dependency injection?](https://dev.to/sachin_ghatage/whats-the-difference-between-addscoped-addtransient-and-addsingleton-in-dependency-injection-221i)
-- [AI Keeps Breaking Your Architectural Patterns. Documentation Won&#39;t Fix It.](https://dev.to/vuong_ngo/ai-keeps-breaking-your-architectural-patterns-documentation-wont-fix-it-4dgj)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-45km)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-3gki)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-c8f)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4c63)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-ki0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
