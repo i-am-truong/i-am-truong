@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet AI: Introduction to the World of Artificial Intelligence](https://dev.to/mariustechie/meet-ai-introduction-to-the-world-of-artificial-intelligence-284d)
-- [How to Build Modular AI Personalities with LuminoraCore v1.0](https://dev.to/rulyaltamirano/how-to-build-modular-ai-personalities-with-luminoracore-v10-1k14)
-- [Become a 1% Developer: Create a REST API Without Any Framework &lpar;No Spring Boot, No Spring!&rpar;](https://dev.to/ritik_kumar_9883dbfcef054/become-a-1-developer-create-a-rest-api-without-any-framework-no-spring-boot-no-spring-445g)
-- [Understanding Degrees of Freedom: Why They Matter in Statistics](https://dev.to/dilan_bosire/understanding-degrees-of-freedom-why-they-matter-in-statistics-438o)
-- [How I built Jaabz — a simple job aggregator for visa-sponsored tech roles](https://dev.to/jaabz_1791fce4d7bb42c93ef/how-i-built-jaabz-a-simple-job-aggregator-for-visa-sponsored-tech-roles-405c)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-47ff)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-118a)
+- [Side project: T2Client – Trying to make MongoDB access easier, would love your thoughts](https://dev.to/tech2cool/side-project-t2client-trying-to-make-mongodb-access-easier-would-love-your-thoughts-358b)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4544)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-2f64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
