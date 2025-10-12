@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Assistant - Combining NoCode with AI Generation](https://dev.to/dennis_heine_718cc4afaa05/vibe-coding-assistant-combining-nocode-with-ai-generation-27pn)
-- [How to Design a Rate Limiter on a System Design Interview?](https://dev.to/somadevtoo/how-to-design-a-rate-limiter-on-a-system-design-interview-epc)
-- [Algo entre o VARCHAR2 e o CLOB: VARCHAR2 com esteróides [MAX_STRING_SIZE]](https://dev.to/valter_filho_24448308265f/algo-entre-o-varchar2-e-o-clob-varchar2-com-esteroides-maxstringsize-266j)
-- [🚀 I Just Launched My Interactive Developer Portfolio!](https://dev.to/shivam_nilay/i-just-launched-my-interactive-developer-portfolio-4nj7)
-- [HackSpire’25: 25 Hours, Infinite Possibilities 🚀✨](https://dev.to/tousif_azim_69a80788bc467/hackspire25-25-hours-infinite-possibilities-12ha)
+- [CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-4ee7)
+- [CinemaSins: Everything Wrong With Lilo &amp; Stitch &lpar;2025&rpar; In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-lilo-stitch-2025-in-17-minutes-or-less-1di4)
+- [Mr Sunday Movies: Tron - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-caravan-of-garbage-52nl)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-1jfi)
+- [80 Days, 80 Python Challenges: The Project That Will Turn Me Into a Better Coder! 🐍 &lpar;My First Post&rpar;](https://dev.to/shahrouzlogs/80-days-80-python-challenges-the-project-that-will-turn-me-into-a-better-coder-my-first-post-3mo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
