@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-122: 🚀Step-by-Step Guide: Create a GKE Private Cluster with Cloud NAT and Deploy an App](https://dev.to/latchudevops/part-122-step-by-step-guide-create-a-gke-private-cluster-with-cloud-nat-and-deploy-an-app-17je)
-- [October 2025 Crypto Pulse: Bullish Vibes, DeFi Surges, and Market Shifts](https://dev.to/om_shree_0709/october-2025-crypto-pulse-bullish-vibes-defi-surges-and-market-shifts-48i8)
-- [October 2025 Forem Core Update: Hacktoberfest Momentum, PR Cleanups, and Self-Hosting Tweaks](https://dev.to/om_shree_0709/october-2025-forem-core-update-hacktoberfest-momentum-pr-cleanups-and-self-hosting-tweaks-ii2)
-- [October 2025 Scale Engineering Digest: AI Shifts, Event Buzz, and SRE Evolutions](https://dev.to/om_shree_0709/october-2025-scale-engineering-digest-ai-shifts-event-buzz-and-sre-evolutions-5cdf)
-- [Ballerina vs Node.js: Building Modern APIs &lpar;Plus macOS Setup Tips&rpar;](https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k)
+- [Range functions in Python](https://dev.to/hyperkai/range-functions-in-python-83f)
+- [From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming](https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg)
+- [range in Python &lpar;2&rpar;](https://dev.to/hyperkai/range-in-python-2-12g6)
+- [Fully-Typed HTTP Router for AWS Lambda with Middy and Zod](https://dev.to/silviuglv/fully-typed-http-router-for-aws-lambda-with-middy-and-zod-3ch6)
+- [Ultimate Media Downloader: Download from 1000+ Platforms with One Command](https://dev.to/nitish_b1395fcf408eb8b30e/ultimate-media-downloader-download-from-1000-platforms-with-one-command-29h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
