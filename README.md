@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Personal Guide to Setting Up React Native on Mac: My Journey](https://dev.to/tech_nexa_8e64b11ae4f24f9/a-personal-guide-to-setting-up-react-native-on-mac-my-journey-2o62)
 - [Amazon Q Developer – My Lab Experiment with AI-Driven Infrastructure](https://dev.to/aws-builders/amazon-q-developer-my-lab-experiment-with-ai-driven-infrastructure-1ian)
 - [High-Performance Golang WebSocket Server: Complete Production-Ready Implementation Guide](https://dev.to/aaravjoshi/high-performance-golang-websocket-server-complete-production-ready-implementation-guide-14od)
 - [🚀Meet Dataverse DevTools MCP Server — Dataverse in Your Copilot 🧠⚡](https://dev.to/vignaesh_ram/meet-dataverse-devtools-mcp-server-dataverse-in-your-copilot-i58)
-- [Google AI Plus vs ChatGPT Plus — What’s the Difference?](https://dev.to/cody_scott_0a35c388a5814b/google-ai-plus-vs-chatgpt-plus-whats-the-difference-54mo)
-- [Best VPNs for Turkey: Secure Access and Unblocking in 2025](https://dev.to/disiplin_forml_e60c4755/best-vpns-for-turkey-secure-access-and-unblocking-in-2025-3d5g)
+- [Integration: Vaadin OAuth2 Authentication with Keycloak](https://dev.to/aissam_assouik/integration-vaadin-oauth2-authentication-with-keycloak-194f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
