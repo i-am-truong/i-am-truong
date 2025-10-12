@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Global Companies Are Turning to AI LATAM Partners for Innovation](https://dev.to/nayeem79/why-global-companies-are-turning-to-ai-latam-partners-for-innovation-mag)
+- [Creating Web Components](https://dev.to/lucaspereiradesouzat/creating-web-components-mjh)
+- [Criando Web Components](https://dev.to/lucaspereiradesouzat/criando-web-components-4moh)
+- [🔥 MicroPython on ESP32: Build a Smart Sensor in 15 Minutes Without Writing C! 😱](https://dev.to/ekwoster/micropython-on-esp32-build-a-smart-sensor-in-15-minutes-without-writing-c-2bak)
 - [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4dg5)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-7lp)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-54il)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-323b)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
