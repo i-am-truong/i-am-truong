@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DORA Oversight Guide 2025: What JET Will Check](https://dev.to/pentest_testing_corp/dora-oversight-guide-2025-what-jet-will-check-3kai)
 - [When Floating-Point Failed Catastrophically](https://dev.to/cfir_aguston_f751a11907c2/when-floating-point-failed-catastrophically-pid)
 - [The Car That Would Not Stop](https://dev.to/cfir_aguston_f751a11907c2/the-car-that-would-not-stop-1hem)
 - [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
 - [The Journey That Just Began — From Feeling Like a Beginner to Receiving My First Stipend](https://dev.to/23aditi/the-journey-that-just-began-from-feeling-like-a-beginner-to-receiving-my-first-stipend-njn)
-- [Day 29 of python code series..](https://dev.to/momina_raheelmoona_c59/day-29-of-python-code-series-5die)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
