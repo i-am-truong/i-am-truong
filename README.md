@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running the Cloud on Your Desktop with LocalStack](https://dev.to/codingcatdev/running-the-cloud-on-your-desktop-with-localstack-3f76)
+- [Why use LogLayer as the logger for your SDK](https://dev.to/theogravity/why-use-loglayer-as-the-logger-for-your-sdk-56mn)
+- [How to Set Up Reactotron to Debug AsyncStorage in React Native](https://dev.to/cathylai/how-to-set-up-reactotron-to-debug-asyncstorage-in-react-native-1idp)
+- [3 Free Tools I Built Because I Couldn&#39;t Find Good Ones](https://dev.to/kristjan_retter_9f19b3176/3-free-tools-i-built-because-i-couldnt-find-good-ones-5ebk)
 - [AI Fundamentals: Puerta a la Inteligencia Artificial](https://dev.to/karinaaquinoc/ai-fundamentals-puerta-a-la-inteligencia-artificial-5b4g)
-- [Building a Redis Clone in Zig—Part 1](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-1-3fk)
-- [What Building Employee Atlas Taught Me About Real Full-Stack Development](https://dev.to/haris_sejmenovic/what-building-employee-atlas-taught-me-about-real-full-stack-development-2a83)
-- [Day 1 — Understanding Generative AI: A Simple Start for Beginners](https://dev.to/shiv_darshanrathore_402a/day-1-understanding-generative-ai-a-simple-start-for-beginners-539c)
-- [🚀 100 Most Useful ChatGPT Prompt Snippets for Software Development](https://dev.to/softwaredeveloper01/100-most-useful-chatgpt-prompt-snippets-for-software-development-nh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
