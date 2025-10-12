@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security Roadmap: Building a Strategic Path to Cyber Resilience](https://dev.to/writegenic/security-roadmap-building-a-strategic-path-to-cyber-resilience-51ng)
-- [🪙 Day 12 of #30DaysOfSolidity — Build Your Own ERC-20 Token using Foundry](https://dev.to/sauravkumar8178/day-12-of-30daysofsolidity-build-your-own-erc-20-token-using-foundry-51l9)
-- [Mastering Go Project Structure: Build Scalable &amp; Maintainable Go Apps](https://dev.to/ctrix/mastering-go-project-structure-build-scalable-maintainable-go-apps-30i5)
-- [I Spent $127K on AWS Before Realizing We Could Run on $8/Month](https://dev.to/vision2030/i-spent-127k-on-aws-before-realizing-we-could-run-on-8month-1313)
-- [What are Core Web Vitals?](https://dev.to/lovestaco/what-are-core-web-vitals-3a20)
+- [The Data Trinity: The Three Files Powering My GNSS Engine](https://dev.to/pederzoli/the-data-trinity-the-three-files-powering-my-gnss-engine-313o)
+- [🐍 Day 1: Mastering the Two-Pointer String Reversal](https://dev.to/shahrouzlogs/day-1-mastering-the-two-pointer-string-reversal-2p14)
+- [Demystifying Kubernetes: Your First Cluster Made Easy](https://dev.to/tavernetech/demystifying-kubernetes-your-first-cluster-made-easy-2n9)
+- [Build an Offline-First Web App with Service Workers](https://dev.to/taiwocodes/build-an-offline-first-web-app-with-service-workers-2ml7)
+- [calculator using html,css and js](https://dev.to/tejas_khanolkar_473f3ed1a/calculator-using-htmlcss-and-js-1k7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
