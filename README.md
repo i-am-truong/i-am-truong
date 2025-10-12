@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simply Order &lpar;Part 4&rpar; — Reliable Events with the Outbox Pattern &lpar;Concepts&rpar;](https://dev.to/hassan314159/simply-order-part-4-reliable-events-with-the-outbox-pattern-concepts-55ko)
+- [How AI Resume Builders Are Changing the Hiring Game in 2025](https://dev.to/aicvgenius/how-ai-resume-builders-are-changing-the-hiring-game-in-2025-8j2)
 - [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-45km)
 - [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-3gki)
 - [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-c8f)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4c63)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-ki0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
