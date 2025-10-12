@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I built Jaabz — a simple job aggregator for visa-sponsored tech roles](https://dev.to/jaabz_1791fce4d7bb42c93ef/how-i-built-jaabz-a-simple-job-aggregator-for-visa-sponsored-tech-roles-405c)
+- [Issue and Pull Request Conventions](https://dev.to/brazenbraden/issue-and-pull-request-conventions-372p)
 - [Detecting File Changes in 2 Seconds: Python File Integrity Monitoring](https://dev.to/pkdev23/detecting-file-changes-in-2-seconds-python-file-integrity-monitoring-3mo0)
 - [How End-to-End Encryption Really Works: Understanding the Diffie–Hellman Key Exchange](https://dev.to/arnavsharma2711/how-end-to-end-encryption-really-works-understanding-the-diffie-hellman-key-exchange-1b3f)
-- [Outil de Cybersécurité du Jour - Oct 12, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-oct-12-2025-5dpm)
 - [When rhythm builds reach faster than speed](https://dev.to/koni_jang/when-rhythm-builds-reach-faster-than-speed-1ph5)
-- [CLI for creating full stack websites &lpar;create-nextpy-app&rpar;](https://dev.to/amanbig/cli-for-creating-full-stack-websites-create-nextpy-app-500o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
