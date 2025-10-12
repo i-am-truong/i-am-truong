@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This tutorial by @nazanin_ashrafi explains the logic behind automating personalized emails in Python with simple file handling and string replacement, no external libraries, just clean core Python.
-A great example of how you can turn small scripts into us](https://dev.to/shahrouzlogs/this-tutorial-by-nazaninashrafi-explains-the-logic-behind-automating-personalized-emails-in-2f14)
+- [Cheat Sheet for Git](https://dev.to/jsha/cheat-sheet-for-git-59i7)
+- [ถ้าข้อมูลเปลี่ยนบ่อยใน useAsyncData — ควรจัดการยังไงดี? ⚡](https://dev.to/tanaratsudjai/thaakhmuulepliiynbyain-useasyncdata-khwrcchadkaaryangaingdii-5hm2)
+- [A Neat Example of Practical Python Automation](https://dev.to/shahrouzlogs/this-tutorial-by-nazaninashrafi-explains-the-logic-behind-automating-personalized-emails-in-2f14)
 - [What’s the difference between AddScoped, AddTransient, and AddSingleton in dependency injection?](https://dev.to/sachin_ghatage/whats-the-difference-between-addscoped-addtransient-and-addsingleton-in-dependency-injection-221i)
 - [AI Keeps Breaking Your Architectural Patterns. Documentation Won&#39;t Fix It.](https://dev.to/vuong_ngo/ai-keeps-breaking-your-architectural-patterns-documentation-wont-fix-it-4dgj)
-- [Title: How I built a lightweight runtime stability layer for AI agents](https://dev.to/damjan_akelj_be1aab4a715/title-how-i-built-a-lightweight-runtime-stability-layer-for-ai-agents-49i8)
-- [SOS🆘 SOS: Firebase Dashboard Auth Works — Need Help Wiring Panels Project: Westminster Dashboard](https://dev.to/kaitlin_leung_8a38bdf81b0/sos-sos-firebase-dashboard-auth-works-need-help-wiring-panelsproject-westminster-dashboard-356f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
