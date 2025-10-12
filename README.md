@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [3539. Find Sum of Array Product of Magical Sequences](https://dev.to/mdarifulhaque/3539-find-sum-of-array-product-of-magical-sequences-1g5)
 - [Using Power BI and DAX Functions for Data Analysis: A Case Study in the Agricultural Sector.](https://dev.to/kepha_gitau/using-power-bi-and-dax-functions-for-data-analysis-a-case-study-in-the-agricultural-sector-5gf1)
 - [Level Up Your Career with Salesforce: Why You Should Try the Trailblazer Quest – Get Started as a Commerce Developer](https://dev.to/sunny7899/level-up-your-career-with-salesforce-why-you-should-try-the-trailblazer-quest-get-started-as-a-f9e)
+- [Collecting Africa’s Energy Insights:](https://dev.to/evlyn_njagi_a32f3ab6c984/building-the-africa-energy-coverage-data-extractor-2000-2022-22pk)
 - [Optimizing C++ Fibonacci Performance, Fixing C++14 Bugs, and Singleton Design: 5 Hands-On Labs](https://dev.to/labex/optimizing-c-fibonacci-performance-fixing-c14-bugs-and-singleton-design-5-hands-on-labs-1f6e)
-- [Day 51 of My Data Analytics Journey !](https://dev.to/ramyacse/day-51-of-my-data-analytics-journey--2og3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
