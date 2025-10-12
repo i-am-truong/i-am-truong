@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Researching Litho&#39;s Intelligent Caching and Performance Optimization Strategies](https://dev.to/sopaco/researching-lithos-intelligent-caching-and-performance-optimization-strategies-5h5p)
-- [The Human Algorithm: Why Our Next Code Will Be Emotional](https://dev.to/vvvnetwork/the-human-algorithm-why-our-next-code-will-be-emotional-4e86)
-- [Can AI Tools Implement Designs Perfectly?](https://dev.to/oikon/can-ai-tools-implement-designs-perfectly-h36)
-- [🧭 Programming Philosophies Explained &lpar;How to Think Like a Polyglot Developer&rpar;](https://dev.to/bibimbop123/programming-philosophies-explained-how-to-think-like-a-polyglot-developer-49f6)
-- [Day 11 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-11-of-100-days-dsa-coding-challenge-3cph)
+- [The Man Who Spoke to Machines: How Dennis Ritchie Changed My Life](https://dev.to/agunechemba/the-man-who-spoke-to-machines-how-dennis-ritchie-changed-my-life-331i)
+- [Systems As Mirrors](https://dev.to/interstelios/systems-as-mirrors-3g5n)
+- [Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead](https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8d1)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-49cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
