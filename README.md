@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Data Structures &amp; Algorithms: Becoming a Smarter Programmer](https://dev.to/devtechinsights/mastering-data-structures-algorithms-becoming-a-smarter-programmer-446g)
+- [Pakistan Strikes Back: When Terror Groups Cross the Wrong Border](https://dev.to/skye_wright_1443d44f7b6d1/pakistan-strikes-back-when-terror-groups-cross-the-wrong-border-20pe)
+- [Spring Framework Explained Simply: Why It Finally Made Sense to Me published](https://dev.to/thedivyaojha/spring-framework-explained-simply-why-it-finally-made-sense-to-mepublished-2lpa)
 - [Business Intelligence Fundamentals Part 2: Intro to Tableau and Product Suite](https://dev.to/chinemerem_okpara_9f0dbbc/business-intelligence-fundamentals-part-2-intro-to-tableau-and-product-suite-2e94)
 - [Build Intelligent Document Processing with AWS Lambda and Bedrock Data Automation](https://dev.to/lamkhac/build-intelligent-document-processing-with-aws-lambda-and-bedrock-data-automation-45b0)
-- [The Data Trinity: The Three Files Powering My GNSS Engine](https://dev.to/pederzoli/the-data-trinity-the-three-files-powering-my-gnss-engine-313o)
-- [🐍 Day 1: Mastering the Two-Pointer String Reversal](https://dev.to/shahrouzlogs/day-1-mastering-the-two-pointer-string-reversal-2p14)
-- [Demystifying Kubernetes: Your First Cluster Made Easy](https://dev.to/tavernetech/demystifying-kubernetes-your-first-cluster-made-easy-2n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
