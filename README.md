@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What are Core Web Vitals?](https://dev.to/lovestaco/what-are-core-web-vitals-3a20)
+- [MonoUI – A Tailwind CSS Component Library](https://dev.to/zukey/monoui-a-tailwind-css-component-library-g4e)
 - [REST API Design Best Practices for Modern Web Applications](https://dev.to/hardik_kanajariya/rest-api-design-best-practices-for-modern-web-applications-2iaa)
 - [How to Manage Translations With &lpar;and Without&rpar; Artificial Intelligence](https://dev.to/fedtti/how-to-manage-translations-with-and-without-artificial-intelligence-54jk)
 - [The Agentic Era: From Artificial Intelligence to Cognitive Infrastructure](https://dev.to/pillin/the-agentic-era-from-artificial-intelligence-to-cognitive-infrastructure-3k7l)
-- [The Basics of Data Sockets on Local Machines and System Resource Management](https://dev.to/rijultp/the-basics-of-data-sockets-on-local-machines-and-system-resource-management-52ce)
-- [How AI Helped Me Find the Joy in Product Management Again](https://dev.to/bcornils/how-ai-helped-me-find-the-joy-in-product-management-again-20cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
