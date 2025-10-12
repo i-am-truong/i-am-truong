@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Agent Framework &lpar;MAF&rpar;: The New Era of Intelligent Agents](https://dev.to/samira_talebi_cca34ce28b8/microsoft-agent-framework-maf-the-new-era-of-intelligent-agents-846)
+- [OpenAI Just Unleashed the Agent Apocalypse — AI Startups, Watch Out](https://dev.to/jefreesujit/openai-just-unleashed-the-agent-apocalypse-ai-startups-watch-out-27do)
+- [Creating and Maintaining Chroot Environments](https://dev.to/godofgeeks/creating-and-maintaining-chroot-environments-172l)
+- [Modern Software Practices](https://dev.to/nouribram/modern-software-practices-267d)
 - [🚀 Unlocking Productivity: AI Tools Every Angular Developer Should Know](https://dev.to/karol_modelski/unlocking-productivity-ai-tools-every-angular-developer-should-know-1fj)
-- [Parallel PHP SOAP Client Requests](https://dev.to/andreistsiapanau/parallel-php-soap-client-requests-5glg)
-- [Evaluating Network Security With Amazon VPC Network Access Analyzer](https://dev.to/aws-builders/evaluating-network-security-with-amazon-vpc-network-access-analyzer-2h41)
-- [🚀 From Excel to Web App: How I Built a Smart Assignment Management System for 125 Students](https://dev.to/anticoder03/from-excel-to-web-app-how-i-built-a-smart-assignment-management-system-for-125-students-3jac)
-- [🌿 How My Winter Garden Inspires Better UI Design](https://dev.to/shubhradev/how-my-winter-garden-inspires-better-ui-design-4b48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
