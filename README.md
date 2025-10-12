@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pod Identity: The Authentication Revolution Kubernetes Needed 🔐](https://dev.to/omarmfathy219/pod-identity-the-authentication-revolution-kubernetes-needed-33ph)
+- [Rescript is truly a game changer for web development. Types are great, but types shine when you can rely on a sound type system, typed errors, and easy to use variant types.](https://dev.to/jderochervlk/rescript-is-truly-a-game-changer-for-web-development-types-are-great-but-types-shine-when-you-can-590m)
 - [Running the Cloud on Your Desktop with LocalStack](https://dev.to/codingcatdev/running-the-cloud-on-your-desktop-with-localstack-3f76)
 - [Why use LogLayer as the logger for your SDK](https://dev.to/theogravity/why-use-loglayer-as-the-logger-for-your-sdk-56mn)
 - [How to Set Up Reactotron to Debug AsyncStorage in React Native](https://dev.to/cathylai/how-to-set-up-reactotron-to-debug-asyncstorage-in-react-native-1idp)
-- [3 Free Tools I Built Because I Couldn&#39;t Find Good Ones](https://dev.to/kristjan_retter_9f19b3176/3-free-tools-i-built-because-i-couldnt-find-good-ones-5ebk)
-- [AI Fundamentals: Puerta a la Inteligencia Artificial](https://dev.to/karinaaquinoc/ai-fundamentals-puerta-a-la-inteligencia-artificial-5b4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
