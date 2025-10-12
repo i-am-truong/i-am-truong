@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-27p9)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-26p7)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-48ie)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3n30)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-25mb)
+- [October 2025 Maker Roundup: Big Mergers, Cool Builds, and Fresh Kits](https://dev.to/om_shree_0709/october-2025-maker-roundup-big-mergers-cool-builds-and-fresh-kits-2gpi)
+- [Build a Private AI Chatbot for Your PDFs with Genkit and Gaia](https://dev.to/harishkotra/build-a-private-ai-chatbot-for-your-pdfs-with-genkit-and-gaia-5ah1)
+- [October 2025 Golf Buzz: Tour Wins, Tech Drops, and Woods&#39; Latest Hurdle](https://dev.to/om_shree_0709/october-2025-golf-buzz-tour-wins-tech-drops-and-woods-latest-hurdle-4dp)
+- [Fresh Trends Shaping Web and Graphic Design in Fall 2025](https://dev.to/om_shree_0709/fresh-trends-shaping-web-and-graphic-design-in-fall-2025-5bi6)
+- [Mid-October 2025 Dumb Dev Roundup: Memes, Shitposts, and Dev Life Laughs](https://dev.to/om_shree_0709/mid-october-2025-dumb-dev-roundup-memes-shitposts-and-dev-life-laughs-4o7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
