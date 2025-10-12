@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [October 2025 Scale Engineering Digest: AI Shifts, Event Buzz, and SRE Evolutions](https://dev.to/om_shree_0709/october-2025-scale-engineering-digest-ai-shifts-event-buzz-and-sre-evolutions-5cdf)
+- [Ballerina vs Node.js: Building Modern APIs &lpar;Plus macOS Setup Tips&rpar;](https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k)
+- [I Created CFMan, Cloudflare Wrangler Multi Account Manager](https://dev.to/codeideal/i-created-cfman-cloudflare-wrangler-multi-account-manager-11mh)
+- [October 2025 Security Scoop: AI in Attacks, Fresh Vulns, and Career Boosts](https://dev.to/om_shree_0709/october-2025-security-scoop-ai-in-attacks-fresh-vulns-and-career-boosts-50md)
 - [October 2025 Maker Roundup: Big Mergers, Cool Builds, and Fresh Kits](https://dev.to/om_shree_0709/october-2025-maker-roundup-big-mergers-cool-builds-and-fresh-kits-2gpi)
-- [Build a Private AI Chatbot for Your PDFs with Genkit and Gaia](https://dev.to/harishkotra/build-a-private-ai-chatbot-for-your-pdfs-with-genkit-and-gaia-5ah1)
-- [October 2025 Golf Buzz: Tour Wins, Tech Drops, and Woods&#39; Latest Hurdle](https://dev.to/om_shree_0709/october-2025-golf-buzz-tour-wins-tech-drops-and-woods-latest-hurdle-4dp)
-- [Fresh Trends Shaping Web and Graphic Design in Fall 2025](https://dev.to/om_shree_0709/fresh-trends-shaping-web-and-graphic-design-in-fall-2025-5bi6)
-- [Mid-October 2025 Dumb Dev Roundup: Memes, Shitposts, and Dev Life Laughs](https://dev.to/om_shree_0709/mid-october-2025-dumb-dev-roundup-memes-shitposts-and-dev-life-laughs-4o7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
