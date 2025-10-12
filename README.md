@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Business Intelligence Fundamentals Part 2: Intro to Tableau and Product Suite](https://dev.to/chinemerem_okpara_9f0dbbc/business-intelligence-fundamentals-part-2-intro-to-tableau-and-product-suite-2e94)
+- [Build Intelligent Document Processing with AWS Lambda and Bedrock Data Automation](https://dev.to/lamkhac/build-intelligent-document-processing-with-aws-lambda-and-bedrock-data-automation-45b0)
 - [The Data Trinity: The Three Files Powering My GNSS Engine](https://dev.to/pederzoli/the-data-trinity-the-three-files-powering-my-gnss-engine-313o)
 - [🐍 Day 1: Mastering the Two-Pointer String Reversal](https://dev.to/shahrouzlogs/day-1-mastering-the-two-pointer-string-reversal-2p14)
 - [Demystifying Kubernetes: Your First Cluster Made Easy](https://dev.to/tavernetech/demystifying-kubernetes-your-first-cluster-made-easy-2n9)
-- [Build an Offline-First Web App with Service Workers](https://dev.to/taiwocodes/build-an-offline-first-web-app-with-service-workers-2ml7)
-- [calculator using html,css and js](https://dev.to/tejas_khanolkar_473f3ed1a/calculator-using-htmlcss-and-js-1k7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
