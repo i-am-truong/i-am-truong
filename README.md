@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Concurrency and Row Versioning - Part 1](https://dev.to/arturampilogov/concurrency-and-row-versioning-part-1-39hn)
 - [The Ultimate Betrayal: How Pakistan’s 50-Year Friendship Backfired Spectacularly](https://dev.to/mariasaleh/the-ultimate-betrayal-how-pakistans-50-year-friendship-backfired-spectacularly-apg)
 - [What&#39;s &quot;AWS Local Zones&quot;](https://dev.to/wakeup_flower_8591a6cb6a9/whats-aws-local-zones-474)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4ifh)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-2en8)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-pm9)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-2mg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
