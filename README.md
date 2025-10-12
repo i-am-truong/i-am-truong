@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Master Hackerrank Rust Tests in 2025?](https://dev.to/cristianalex_17/how-to-master-hackerrank-rust-tests-in-2025-438n)
-- [Revolutionizing Wine Industry Technology: Why Micro Frontends Require Specialized Expertise](https://dev.to/maksym_mosiura_7dd1c98618/revolutionizing-wine-industry-technology-why-micro-frontends-require-specialized-expertise-3gmp)
-- [Dia 4: 🧩 Principio de Sustitución de Liskov &lpar;LSP&rpar; en C#](https://dev.to/sadel_fortunato_00791b587/dia-4-principio-de-sustitucion-de-liskov-lsp-en-c-16n4)
-- [Golang For PHP Developer : Testing &amp; Deployment](https://dev.to/dosenngoding/golang-for-php-developer-testing-deployment-1f20)
-- [Handling 100+ Website Scrapers with Python&#39;s asyncio](https://dev.to/pradippanjiyar/handling-100-website-scrapers-with-pythons-asyncio-4905)
+- [Determining the Maximum Decimal Digits at Compile-Time](https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb)
+- [Everyone wants prompt templates, and most developers ask AI for answers. Few ask AI for structure, clarity, frameworks, and thought direction.
+
+That’s the difference between regular ChatGPT users &amp; Expert ChatGPT users.](https://dev.to/jaideepparashar/everyone-wants-prompt-templates-and-most-developers-ask-ai-for-answers-few-ask-ai-for-structure-pla)
+- [Introducing Varkit: Dynamic CSS Variables for React with TypeScript](https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f)
+- [The 9 Best CLIs with Artificial Intelligence](https://dev.to/nube_colectiva_nc/the-9-best-clis-with-artificial-intelligence-3lim)
+- [The Hidden Power of ChatGPT Prompts Nobody Talks About](https://dev.to/jaideepparashar/the-hidden-power-of-chatgpt-prompts-nobody-talks-about-558f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
