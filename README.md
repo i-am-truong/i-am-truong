@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Automate Your Work and Free Your Time](https://dev.to/codingcatdev/how-to-automate-your-work-and-free-your-time-4nad)
+- [Best AI Rank Tracking Tool](https://dev.to/furkan_yaman_47be00fb2e21/best-ai-rank-tracking-tool-5glk)
+- [Understanding AWS Load Balancer: The Ultimate Guide to Scalable and Reliable Applications](https://dev.to/kmsaifullah/understanding-aws-load-balancer-the-ultimate-guide-to-scalable-and-reliable-applications-2bj2)
+- [I Built Git from Scratch to Finally Understand What I&#39;ve Been Using for Years](https://dev.to/kayleecodez/i-built-git-from-scratch-to-finally-understand-what-ive-been-using-for-years-37a9)
 - [A Personal Guide to Setting Up React Native on Mac: My Journey](https://dev.to/tech_nexa_8e64b11ae4f24f9/a-personal-guide-to-setting-up-react-native-on-mac-my-journey-2o62)
-- [Amazon Q Developer – My Lab Experiment with AI-Driven Infrastructure](https://dev.to/aws-builders/amazon-q-developer-my-lab-experiment-with-ai-driven-infrastructure-1ian)
-- [High-Performance Golang WebSocket Server: Complete Production-Ready Implementation Guide](https://dev.to/aaravjoshi/high-performance-golang-websocket-server-complete-production-ready-implementation-guide-14od)
-- [🚀Meet Dataverse DevTools MCP Server — Dataverse in Your Copilot 🧠⚡](https://dev.to/vignaesh_ram/meet-dataverse-devtools-mcp-server-dataverse-in-your-copilot-i58)
-- [Integration: Vaadin OAuth2 Authentication with Keycloak](https://dev.to/aissam_assouik/integration-vaadin-oauth2-authentication-with-keycloak-194f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
