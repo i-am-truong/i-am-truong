@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Face Detection in Python Using OpenCV HAAR CASCADE Method](https://dev.to/ddebajyati/face-detection-in-python-using-opencv-haar-cascade-method-1iml)
+- [3 Common Frontend Interview Questions🚀](https://dev.to/yaldakhoshpey/3-common-frontend-interview-questions-1dhf)
 - [Unlocking True Parallelism: A Developer&#39;s Guide to Free-Threaded Python 3.14](https://dev.to/mechcloud_academy/unlocking-true-parallelism-a-developers-guide-to-free-threaded-python-314-175i)
 - [Building a Font Generator Tool — Looking for Insights](https://dev.to/devid_lee_8bbc341756027c2/building-a-font-generator-tool-looking-for-insights-3jpa)
 - [🧩 Windows 11 in Law Firms Despite “Incompatible” Hardware](https://dev.to/thomasdelfing_de/windows-11-in-law-firms-despite-incompatible-hardware-8a3)
-- [&quot;Why Learn C&quot; Book Released](https://dev.to/pauljlucas/why-learn-c-book-released-41c1)
-- [Making JSON Compression Searchable — SEE &lpar;Schema-Aware Encoding&rpar;](https://dev.to/kodomonocch1/making-json-compression-searchable-see-schema-aware-encoding-4ojk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
