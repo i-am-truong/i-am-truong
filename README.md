@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python 3.14 Has Arrived: A Deep Dive into the New Features](https://dev.to/mechcloud_academy/python-314-has-arrived-a-deep-dive-into-the-new-features-56pn)
-- [Backwards Clock Fever Dream](https://dev.to/orvillechomer/backwards-clock-fever-dream-4g7m)
-- [Microsoft only lets you opt out of AI photo scanning 3x a year](https://dev.to/technoblogger14o3/microsoft-only-lets-you-opt-out-of-ai-photo-scanning-3x-a-year-92l)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1a74)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4pfl)
+- [How to Prune Networks in Pytorch in 2025?](https://dev.to/anna_golubkova/how-to-prune-networks-in-pytorch-in-2025-fam)
+- [Convert Tensorflow to Pytorch Model. in 2025?](https://dev.to/puratabla/convert-tensorflow-to-pytorch-model-in-2025-4ak)
+- [Code Deconstruction: The Counting Lambda](https://dev.to/aaron_rose_0787cc8b4775a0/code-deconstruction-the-counting-lambda-4hl3)
+- [Guia arquitetônico de ponta para a construção de uma plataforma de dados](https://dev.to/_richardson_/guia-arquitetonico-de-ponta-para-a-construcao-de-uma-plataforma-de-dados-2h54)
+- [Decoding the Book&#39;s &quot;ID Card&quot;: A Complete Guide to the ISBN](https://dev.to/qlittleboy/decoding-the-books-id-card-a-complete-guide-to-the-isbn-281d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
