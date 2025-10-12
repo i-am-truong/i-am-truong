@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This tutorial by @nazanin_ashrafi explains the logic behind automating personalized emails in Python with simple file handling and string replacement, no external libraries, just clean core Python.
+A great example of how you can turn small scripts into us](https://dev.to/shahrouzlogs/this-tutorial-by-nazaninashrafi-explains-the-logic-behind-automating-personalized-emails-in-2f14)
+- [What’s the difference between AddScoped, AddTransient, and AddSingleton in dependency injection?](https://dev.to/sachin_ghatage/whats-the-difference-between-addscoped-addtransient-and-addsingleton-in-dependency-injection-221i)
+- [AI Keeps Breaking Your Architectural Patterns. Documentation Won&#39;t Fix It.](https://dev.to/vuong_ngo/ai-keeps-breaking-your-architectural-patterns-documentation-wont-fix-it-4dgj)
+- [Title: How I built a lightweight runtime stability layer for AI agents](https://dev.to/damjan_akelj_be1aab4a715/title-how-i-built-a-lightweight-runtime-stability-layer-for-ai-agents-49i8)
 - [SOS🆘 SOS: Firebase Dashboard Auth Works — Need Help Wiring Panels Project: Westminster Dashboard](https://dev.to/kaitlin_leung_8a38bdf81b0/sos-sos-firebase-dashboard-auth-works-need-help-wiring-panelsproject-westminster-dashboard-356f)
-- [Microsoft Agent Framework &lpar;MAF&rpar;: The New Era of Intelligent Agents](https://dev.to/samira_talebi_cca34ce28b8/microsoft-agent-framework-maf-the-new-era-of-intelligent-agents-846)
-- [OpenAI Just Unleashed the Agent Apocalypse — AI Startups, Watch Out](https://dev.to/jefreesujit/openai-just-unleashed-the-agent-apocalypse-ai-startups-watch-out-27do)
-- [Creating and Maintaining Chroot Environments](https://dev.to/godofgeeks/creating-and-maintaining-chroot-environments-172l)
-- [Modern Software Practices](https://dev.to/nouribram/modern-software-practices-267d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
