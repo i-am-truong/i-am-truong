@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-123: 🚀Create a GKE Autopilot Cluster and Deploy an Application](https://dev.to/latchudevops/part-123-create-a-gke-autopilot-cluster-and-deploy-an-application-17oo)
+- [The Vakhnin Algorithm: Left-Side Tree Traversal with O&lpar;1&rpar; Memory](https://dev.to/vakhnin/the-vakhnin-algorithm-left-side-tree-traversal-with-o1-memory-13g0)
 - [Range functions in Python](https://dev.to/hyperkai/range-functions-in-python-83f)
 - [From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming](https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg)
 - [range in Python &lpar;2&rpar;](https://dev.to/hyperkai/range-in-python-2-12g6)
-- [Fully-Typed HTTP Router for AWS Lambda with Middy and Zod](https://dev.to/silviuglv/fully-typed-http-router-for-aws-lambda-with-middy-and-zod-3ch6)
-- [Ultimate Media Downloader: Download from 1000+ Platforms with One Command](https://dev.to/nitish_b1395fcf408eb8b30e/ultimate-media-downloader-download-from-1000-platforms-with-one-command-29h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
