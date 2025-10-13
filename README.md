@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Will Developers Survive AI Takeover? Part 2: Don&#39;t Be Ashamed to Use AI, Even Iron Man Did](https://dev.to/georgekobaidze/will-developers-survive-ai-takeover-part-2-dont-be-ashamed-to-use-ai-even-iron-man-did-3l7a)
-- [[Boost]](https://dev.to/fmerian/-53fj)
-- [The JavaScript Runtime Showdown: Node.js vs Deno vs Bun](https://dev.to/iyadhgallah/the-javascript-runtime-showdown-nodejs-vs-deno-vs-bun-4mdj)
-- [The PHP Project That Inspired React](https://dev.to/mirnatul/the-php-project-that-inspired-react-5bb9)
-- [The Journey Begins!](https://dev.to/wbartlomiej/the-journey-begins-4ig8)
+- [Move Your Repository to a New GitHub Repo on a VPS Hosting Site](https://dev.to/raielly/move-your-repository-to-a-new-github-repo-on-a-vps-hosting-site-14a7)
+- [How to Start a Career as a Private Investigator: Step-by-Step Guide](https://dev.to/russwantz/how-to-start-a-career-as-a-private-investigator-step-by-step-guide-1fkg)
+- [The $50M Difference Between AI-Synthesized and AI-Generated Content](https://dev.to/talweezy/the-50m-difference-between-ai-synthesized-and-ai-generated-content-3604)
+- [🧠 Shrink Your Text Like Magic with DevUtilX’s Text Compressor ✨](https://dev.to/akashbijwe/shrink-your-text-like-magic-with-devutilxs-text-compressor-i28)
+- [🌱 Understanding Prop Drilling and How to Avoid It in React](https://dev.to/yashi_srivastava_9166487c/understanding-prop-drilling-and-how-to-avoid-it-in-react-59e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
