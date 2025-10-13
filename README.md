@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RAG Systems 101: Build Your First Retrieval-Augmented Generation System 🚀](https://dev.to/echsee/rag-systems-101-build-your-first-retrieval-augmented-generation-system-1675)
+- [Using AWS CloudFront to enhance the performance, Security &amp; Availability of your application](https://dev.to/aws-builders/using-aws-cloudfront-to-enhance-the-performance-security-availability-of-your-application-3i26)
+- [Dev Diaries Ep.6 | Launch Day](https://dev.to/stellar/dev-diaries-ep6-launch-day-33ni)
+- [Reflections on Learning, Mentorship, and Growth](https://dev.to/fiveace_merill/reflections-on-learning-mentorship-and-growth-9hj)
 - [🤖 The Super Contributor Ascent: Code, Commitment, and the Chronicle of 13 Days](https://dev.to/ngtduc693/the-super-contributor-ascent-code-commitment-and-the-chronicle-of-13-days-8gn)
-- [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
-- [Discomfort isn’t the enemy: Lessons from 3 times I cried at work](https://dev.to/dvddpl/discomfort-isnt-the-enemy-lessons-from-3-times-i-cried-at-work-h51)
-- [ChatGPT Alternative for SQL Query Optimization](https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi)
-- [Understand __name__==&#39;main&#39; with two python files](https://dev.to/srinivasuluparanduru/understand-namemain-with-two-python-files-141d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
