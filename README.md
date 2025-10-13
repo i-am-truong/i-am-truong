@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 5: Production Deployment and Enterprise Architecture](https://dev.to/techstuff/part-5-production-deployment-and-enterprise-architecture-a2c)
+- [nim, LLMs and me: finding a balance between pragmatism and the joy of programming](https://dev.to/abathargh/nim-llms-and-me-finding-a-balance-between-pragmatism-and-the-joy-of-programming-3pbg)
+- [How to Fix Vue Hydration Mismatch](https://dev.to/jacobandrewsky/how-to-fix-vue-hydration-mismatch-47eg)
 - [Google Sheets x BigQuery Sync using Google Apps Script](https://dev.to/charlottetowell/google-sheets-x-bigquery-sync-using-google-apps-script-1d2a)
 - [How Midgen AI&#39;s &#39;Show, Don&#39;t Tell&#39; Converter Elevates Storytelling](https://dev.to/mdsiaofficial/how-midgen-ais-show-dont-tell-converter-elevates-storytelling-49m4)
-- [Bikes, Big Data, and Better Cities: How Tech is Reshaping Urban Mobility](https://dev.to/ahmmrizv9/bikes-big-data-and-better-cities-how-tech-is-reshaping-urban-mobility-4pom)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mno)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-55pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
