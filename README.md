@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Image to URL Service Comparison - Ultimate Drag-and-Drop Convenience](https://dev.to/tony_chase_83955825282edc/image-to-url-service-comparison-ultimate-drag-and-drop-convenience-4a6m)
-- [TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh)
-- [AdapTive-LeArning Speculator System &lpar;ATLAS&rpar;: Faster LLM inference](https://dev.to/technoblogger14o3/adaptive-learning-speculator-system-atlas-faster-llm-inference-468h)
-- [Hands-On: Despliega una base de datos PostgreSQL + Bastion + VPC con AWS CDK y Python](https://dev.to/chainiz/hands-on-despliega-una-base-de-datos-postgresql-bastion-vpc-con-aws-cdk-y-python-1a38)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-54jp)
+- [Strands Agents: A Model-First SDK for Building Autonomous AI on AWS and Beyond](https://dev.to/sreeni5018/strands-agents-a-model-first-sdk-for-building-autonomous-ai-on-aws-and-beyond-3lbg)
+- [Understanding MoE Offloading](https://dev.to/someoddcodeguy/understanding-moe-offloading-5co6)
+- [Docker Images: A Developer&#39;s Guide](https://dev.to/mush1e/docker-images-a-developers-guide-26bl)
+- [Dia 5: 🧩 Principio de Segregación de Interfaces &lpar;ISP&rpar; en C#](https://dev.to/sadel_fortunato_00791b587/dia-5-principio-de-segregacion-de-interfaces-isp-en-c-41f1)
+- [CanKit: a unified c# API for CAN bus &lpar;looking for testers &amp; feedback&rpar;](https://dev.to/pkuyo/cankit-a-unified-c-api-for-can-bus-looking-for-testers-feedback-2m8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
