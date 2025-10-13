@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the C# Dispose Pattern](https://dev.to/ivankahl/mastering-the-c-dispose-pattern-35m1)
+- [Top Developer Productivity Tools 2025](https://dev.to/sonalisood14/top-developer-productivity-tools-2025-31n3)
 - [I Built DevSheets.io - A Modern Cheat Sheet Site for Developers &lpar;And Why We Still Need Them&rpar;](https://dev.to/bradtraversy/i-built-devsheetsio-a-modern-cheat-sheet-site-for-developers-and-why-we-still-need-them-31bp)
-- [I Scanned 9 Popular AI Coding Tools for Security Issues. Here&#39;s What Every Developer Should Know.](https://dev.to/johncferguson/i-scanned-9-popular-ai-coding-tools-for-security-issues-heres-what-every-developer-should-know-517p)
-- [🧩 Reliable Messaging in .NET: Domain Events and the Outbox Pattern with EF Core Interceptors](https://dev.to/stevsharp/reliable-messaging-in-net-domain-events-and-the-outbox-pattern-with-ef-core-interceptors-pjp)
-- [RAG Systems 101: Build Your First Retrieval-Augmented Generation System 🚀](https://dev.to/echsee/rag-systems-101-build-your-first-retrieval-augmented-generation-system-1675)
-- [Using AWS CloudFront to enhance the performance, Security &amp; Availability of your application](https://dev.to/aws-builders/using-aws-cloudfront-to-enhance-the-performance-security-availability-of-your-application-3i26)
+- [Understanding app.config.ts in Angular 19 Standalone Applications — A Complete Guide](https://dev.to/prateek_kr/understanding-appconfigts-in-angular-19-standalone-applications-a-complete-guide-5coh)
+- [Build a Perfect Blog with FastAPI: Filter by Tag](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-filter-by-tag-ngo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
