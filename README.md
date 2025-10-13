@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Day 9 — Back After 34 Days! Restarting My DSA + System Design Journey 🚀](https://dev.to/ik_8a78062fd65be769dd835/day-9-back-after-34-days-restarting-my-dsa-system-design-journey-4c97)
-- [Distributed Cache in .NET: How to Configure and Use Redis](https://dev.to/joaooliveiratech/distributed-cache-in-net-how-to-configure-and-use-redis-3ehj)
-- [No Magic: How Spring, Lombok, and Mockito Actually Work Under the JVM Hood](https://dev.to/aleksandr_tyurin_0592c37b/no-magic-how-spring-lombok-and-mockito-actually-work-under-the-jvm-hood-476j)
-- [FIX Protocol System-Level Implementation: Session Management Deep Dive](https://dev.to/mrkandreev/fix-protocol-system-level-implementation-session-management-deep-dive-kjp)
-- [The React Foundation — A New Era for Open Collaboration](https://dev.to/cristiansifuentes/the-react-foundation-a-new-era-for-open-collaboration-5fjh)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-2f1d)
+- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-4d7n)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-23j0)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-5cgj)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-12mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
