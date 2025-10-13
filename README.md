@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Image blur detection using scipy](https://dev.to/tejaspatilblogs/image-blur-detection-using-scipy-1ilf)
+- [Day 12 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-12-of-100-days-dsa-coding-challenge-8co)
+- [Boost Response Clarity in Copilot Studio](https://dev.to/balagmadhu/boost-response-clarity-in-copilot-studio-36j1)
+- [Threads Explained: Simplest Manner.](https://dev.to/banuofficial/threads-explained-simplest-manner-4joh)
 - [CISO 101: What the Terms Mean—and How to Use Them With the Business](https://dev.to/d3one/ciso-101-what-the-terms-mean-and-how-to-use-them-with-the-business-3ikn)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4lme)
-- [What’s the Difference Between NVLink and SLI in NVIDIA Multi-GPU Configurations?](https://dev.to/irender_gpu_cloud/whats-the-difference-between-nvlink-and-sli-in-nvidia-multi-gpu-configurations-3e6j)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-590b)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4edh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
