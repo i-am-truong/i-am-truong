@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your React App Breaks When You Refresh on Vercel &lpar;And the 2-Minute Fix&rpar;](https://dev.to/abrahambishopcodes/why-your-react-app-breaks-when-you-refresh-on-vercel-and-the-2-minute-fix-1991)
+- [How do developers estimate the cost of modifying existing software for new use cases?](https://dev.to/andrew_murphy_ffa4011bec3/how-do-developers-estimate-the-cost-of-modifying-existing-software-for-new-use-cases-469i)
 - [Entendendo o uso de record e DTO com java](https://dev.to/gregoriohd/entendendo-o-uso-de-record-e-dto-com-java-1f8k)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_7be3cb2a/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-4bam)
 - [wisu: a fast, minimalist directory tree viewer with an interactive TUI &lpar;written in Rust&rpar;](https://dev.to/sh1zen/wisu-a-fast-minimalist-directory-tree-viewer-with-an-interactive-tui-written-in-rust-583h)
-- [Cómo implementar AWS Network Firewall en una arquitectura multicuenta utilizando Transit Gateway](https://dev.to/cbecerra/como-implementar-aws-network-firewall-en-una-arquitectura-multicuenta-utilizando-transit-gateway-g1c)
-- [How to Implement AWS Network Firewall in a Multi-Account Architecture Using Transit Gateway](https://dev.to/cbecerra/how-to-implement-aws-network-firewall-in-a-multi-account-architecture-using-transit-gateway-2nam)
-- [It&#39;s early days for Agents](https://dev.to/jldec/its-early-days-for-agents-3bl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
