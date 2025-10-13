@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Day 9 — Back After 34 Days! Restarting My DSA + System Design Journey 🚀](https://dev.to/ik_8a78062fd65be769dd835/day-9-back-after-34-days-restarting-my-dsa-system-design-journey-4c97)
+- [Distributed Cache in .NET: How to Configure and Use Redis](https://dev.to/joaooliveiratech/distributed-cache-in-net-how-to-configure-and-use-redis-3ehj)
 - [No Magic: How Spring, Lombok, and Mockito Actually Work Under the JVM Hood](https://dev.to/aleksandr_tyurin_0592c37b/no-magic-how-spring-lombok-and-mockito-actually-work-under-the-jvm-hood-476j)
 - [FIX Protocol System-Level Implementation: Session Management Deep Dive](https://dev.to/mrkandreev/fix-protocol-system-level-implementation-session-management-deep-dive-kjp)
 - [The React Foundation — A New Era for Open Collaboration](https://dev.to/cristiansifuentes/the-react-foundation-a-new-era-for-open-collaboration-5fjh)
-- [I Built a Free n8n Template Library with 2,641+ Automation Workflows 🚀](https://dev.to/allanninal/i-built-a-free-n8n-template-library-with-2641-automation-workflows-3a50)
-- [Cybersecurity Best Practices 2025: Essential Guide for Developers and Businesses](https://dev.to/codehustlet_tech/cybersecurity-best-practices-2025-essential-guide-for-developers-and-businesses-3ocl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
