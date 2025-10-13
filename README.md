@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meme War and Existential Dread: What Developers Are Talking About on October 13, 2025](https://dev.to/om_shree_0709/meme-war-and-existential-dread-what-developers-are-talking-about-on-october-13-2025-4f50)
-- [How to use your network to get a job](https://dev.to/launchdarkly/how-to-use-your-network-to-get-a-job-4j08)
-- [Packet-Level Security: How to Monitor and Detect Network Attacks with Nmap and Wireshark](https://dev.to/seifeldienahmad/packet-level-security-how-to-monitor-and-detect-network-attacks-with-nmap-and-wireshark-476o)
-- [POJO - Plain Old JavaScript Object](https://dev.to/josejuarezjunior/pojo-plain-old-javascript-object-1478)
-- [The Creative Flow: Vibe Coding Tools and the Human Element on October 13, 2025](https://dev.to/om_shree_0709/the-creative-flow-vibe-coding-tools-and-the-human-element-on-october-13-2025-5eck)
+- [JavaScript: Array Iteration and DOM Manipulation in Game Development](https://dev.to/michaellarocca/javascript-array-iteration-and-dom-manipulation-in-game-development-2bb9)
+- [Flake8 – Python Linting and Style Enforcement](https://dev.to/imrrobot/flake8-python-linting-and-style-enforcement-l1)
+- [AI Agents, Language Evolution, and the Security Shift on October 13, 2025](https://dev.to/om_shree_0709/ai-agents-language-evolution-and-the-security-shift-on-october-13-2025-2icc)
+- [JavaScript | Classe](https://dev.to/josejuarezjunior/javascript-classe-36fh)
+- [JavaScript | Dados e funcionalidades](https://dev.to/josejuarezjunior/javascript-dados-e-funcionalidades-20aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
