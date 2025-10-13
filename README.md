@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #211: 13 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-211-13-oct-2025-19g8)
-- [Understanding Subqueries in SQL and Building JSON Directly in PostgreSQL](https://dev.to/og_wunderkind/understanding-subqueries-in-sql-and-building-json-directly-in-postgresql-56d3)
-- [# Coginesux : Faire péter les neurones et les algorithmes 😎](https://dev.to/khadidja_bounadja_21df7d2/-coginesux-faire-peter-les-neurones-et-les-algorithmes-3dpj)
-- [Crypto Trading Myths Every Developer Should Know](https://dev.to/tradelinkpro/crypto-trading-myths-every-developer-should-know-abd)
-- [When you can&#39;t use serverless DMS](https://dev.to/wakeup_flower_8591a6cb6a9/when-you-cant-use-serverless-dms-430j)
+- [Stop drifting around in the dark when using &quot;any&quot; and &quot;unknown&quot; TypeScript types](https://dev.to/this-is-learning/stop-drifting-around-in-the-dark-when-using-any-and-unknown-typescript-types-1p47)
+- [Your Enterprise is Drowning in Complexity. It is Time for an Agentic AI Lifeline.](https://dev.to/mcleanforresterllc/your-enterprise-is-drowning-in-complexity-it-is-time-for-an-agentic-ai-lifeline-a7e)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_7be3cb2a/beyond-env-a-grown-ups-guide-to-application-configuration-4poh)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_02ee41d0/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-2d09)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_c329f31b/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-6ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
