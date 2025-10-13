@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍💻 How a Simple Idea Turned Into One of the Most Important Projects of My Journey — The Story Behind Backend Challenges](https://dev.to/wesleybertipaglia/how-a-simple-idea-turned-into-one-of-the-most-important-projects-of-my-journey-the-story-133n)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5c89)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-3jbk)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-2ce)
-- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-36in)
+- [FLET VS KIVY: WHICH ONE SHOULD YOU USE FOR YOUR NEXT PYTHON GUI APP](https://dev.to/arseytech/flet-vs-kivy-which-one-should-you-use-for-your-next-python-gui-app-2ak4)
+- [Humans still win: why frontend basics matter — even with Gemini, GPT, and Claude](https://dev.to/rajibola/humans-still-win-why-frontend-basics-matter-even-with-gemini-gpt-and-claude-1efl)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-39d3)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2bak)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-e6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
