@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built DevSheets.io - A Modern Cheat Sheet Site for Developers &lpar;And Why We Still Need Them&rpar;](https://dev.to/bradtraversy/i-built-devsheetsio-a-modern-cheat-sheet-site-for-developers-and-why-we-still-need-them-31bp)
+- [I Scanned 9 Popular AI Coding Tools for Security Issues. Here&#39;s What Every Developer Should Know.](https://dev.to/johncferguson/i-scanned-9-popular-ai-coding-tools-for-security-issues-heres-what-every-developer-should-know-517p)
+- [🧩 Reliable Messaging in .NET: Domain Events and the Outbox Pattern with EF Core Interceptors](https://dev.to/stevsharp/reliable-messaging-in-net-domain-events-and-the-outbox-pattern-with-ef-core-interceptors-pjp)
 - [RAG Systems 101: Build Your First Retrieval-Augmented Generation System 🚀](https://dev.to/echsee/rag-systems-101-build-your-first-retrieval-augmented-generation-system-1675)
 - [Using AWS CloudFront to enhance the performance, Security &amp; Availability of your application](https://dev.to/aws-builders/using-aws-cloudfront-to-enhance-the-performance-security-availability-of-your-application-3i26)
-- [Dev Diaries Ep.6 | Launch Day](https://dev.to/stellar/dev-diaries-ep6-launch-day-33ni)
-- [Reflections on Learning, Mentorship, and Growth](https://dev.to/fiveace_merill/reflections-on-learning-mentorship-and-growth-9hj)
-- [🤖 The Super Contributor Ascent: Code, Commitment, and the Chronicle of 13 Days](https://dev.to/ngtduc693/the-super-contributor-ascent-code-commitment-and-the-chronicle-of-13-days-8gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
