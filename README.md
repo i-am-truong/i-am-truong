@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Concurrency and Transactional Row Versioning - Part 2](https://dev.to/arturampilogov/concurrency-and-transactional-row-versioning-part-2-2cbn)
+- [Disse alcune cose imbarazzanti, dopodiché la trasmissione venne interrotta.](https://dev.to/ciphermatrixxx/disse-alcune-cose-imbarazzanti-dopodiche-la-trasmissione-venne-interrotta-3f9c)
+- [JavaScript | Herança básica](https://dev.to/josejuarezjunior/javascript-heranca-basica-3488)
 - [Securing Printers with CUPS Why It Matters](https://dev.to/sebos/securing-printers-with-cups-why-it-matters-1345)
 - [Week 1 — My First Contribution to Hacktoberfest 2025](https://dev.to/kkrishnan10/week-1-my-first-open-source-contribution-hacktoberfest-2025-28pk)
-- [Python basics - Day 05](https://dev.to/ian_b838138a27a917398d181/python-basics-day-05-37i7)
-- [The Anonymous Workers: Lambda Functions Explained](https://dev.to/aaron_rose_0787cc8b4775a0/the-anonymous-workers-lambda-functions-explained-3m9f)
-- [Unlocking the Oracle ACE Program: From Contribution to Recognition](https://dev.to/demasy/unlocking-the-oracle-ace-program-from-contribution-to-recognition-4731)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
