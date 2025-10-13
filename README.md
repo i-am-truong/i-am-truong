@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [More Than a T-Shirt: My 3-Year Battle to Win Hacktoberfest](https://dev.to/bdhamithkumara/more-than-a-t-shirt-my-3-year-battle-to-win-hacktoberfest-41no)
+- [Visualizing Trust in Multi-Agent Systems — The Swarm-ISM-X Public Demo &lpar;v2&rpar;](https://dev.to/damjan_akelj_be1aab4a715/visualizing-trust-in-multi-agent-systems-the-swarm-ism-x-public-demo-v2-io8)
 - [MyPy – Static Type Checker for Python](https://dev.to/imrrobot/mypy-static-type-checker-for-python-d1m)
 - [Vizzu – Animated Data Visualization Library for Python](https://dev.to/imrrobot/vizzu-animated-data-visualization-library-for-python-3aig)
 - [📰 Major Tech News: Oct 13th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-13th-2025-1pi)
-- [Black – The Uncompromising Python Code Formatter](https://dev.to/imrrobot/black-the-uncompromising-python-code-formatter-4fki)
-- [JavaScript: Array Iteration and DOM Manipulation in Game Development](https://dev.to/michaellarocca/javascript-array-iteration-and-dom-manipulation-in-game-development-2bb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
