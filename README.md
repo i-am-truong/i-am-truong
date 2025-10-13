@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [wisu: a fast, minimalist directory tree viewer with an interactive TUI &lpar;written in Rust&rpar;](https://dev.to/sh1zen/wisu-a-fast-minimalist-directory-tree-viewer-with-an-interactive-tui-written-in-rust-583h)
+- [Cómo implementar AWS Network Firewall en una arquitectura multicuenta utilizando Transit Gateway](https://dev.to/cbecerra/como-implementar-aws-network-firewall-en-una-arquitectura-multicuenta-utilizando-transit-gateway-g1c)
+- [How to Implement AWS Network Firewall in a Multi-Account Architecture Using Transit Gateway](https://dev.to/cbecerra/how-to-implement-aws-network-firewall-in-a-multi-account-architecture-using-transit-gateway-2nam)
 - [It&#39;s early days for Agents](https://dev.to/jldec/its-early-days-for-agents-3bl2)
 - [Why is Finding Bottleneck Important?](https://dev.to/tool_works_d3c5d34009b4b6/why-is-finding-bottleneck-important-4mhg)
-- [The Functional Toolkit: Map, Filter, and Reduce](https://dev.to/aaron_rose_0787cc8b4775a0/the-functional-toolkit-map-filter-and-reduce-2c4f)
-- [10 Essential JavaScript Performance Optimization Techniques That Every Developer Should Know](https://dev.to/boris_churzin_8418a23918c/10-essential-javascript-performance-optimization-techniques-that-every-developer-should-know-53ak)
-- [The Invisible Orchestra: Is Serverless the Conductor We&#39;ve Been Waiting For?](https://dev.to/alex_aslam/the-invisible-orchestra-is-serverless-the-conductor-weve-been-waiting-for-9pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
