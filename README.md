@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 5: Production Deployment and Enterprise Architecture](https://dev.to/techstuff/part-5-production-deployment-and-enterprise-architecture-a2c)
-- [nim, LLMs and me: finding a balance between pragmatism and the joy of programming](https://dev.to/abathargh/nim-llms-and-me-finding-a-balance-between-pragmatism-and-the-joy-of-programming-3pbg)
-- [How to Fix Vue Hydration Mismatch](https://dev.to/jacobandrewsky/how-to-fix-vue-hydration-mismatch-47eg)
-- [Google Sheets x BigQuery Sync using Google Apps Script](https://dev.to/charlottetowell/google-sheets-x-bigquery-sync-using-google-apps-script-1d2a)
-- [How Midgen AI&#39;s &#39;Show, Don&#39;t Tell&#39; Converter Elevates Storytelling](https://dev.to/mdsiaofficial/how-midgen-ais-show-dont-tell-converter-elevates-storytelling-49m4)
+- [Web3 Analytics: Key Challenges, Use Cases &amp; How to Unlock Onchain Growth](https://dev.to/yos/web3-analytics-key-challenges-use-cases-how-to-unlock-onchain-growth-25hh)
+- [The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`](https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23)
+- [AI and the UK Workforce: Navigating the &quot;Job-pocalypse&quot; with Purpose](https://dev.to/sanjaynaker/ai-and-the-uk-workforce-navigating-the-job-pocalypse-with-purpose-5gka)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-3g3k)
+- [Unlock Hidden Insights: How YouTube Transcript Extraction Reveals Audience Sentiment and Brand Perception](https://dev.to/mcatee/unlock-hidden-insights-how-youtube-transcript-extraction-reveals-audience-sentiment-and-brand-2dag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
