@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MyPy – Static Type Checker for Python](https://dev.to/imrrobot/mypy-static-type-checker-for-python-d1m)
+- [Vizzu – Animated Data Visualization Library for Python](https://dev.to/imrrobot/vizzu-animated-data-visualization-library-for-python-3aig)
+- [📰 Major Tech News: Oct 13th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-13th-2025-1pi)
+- [Black – The Uncompromising Python Code Formatter](https://dev.to/imrrobot/black-the-uncompromising-python-code-formatter-4fki)
 - [JavaScript: Array Iteration and DOM Manipulation in Game Development](https://dev.to/michaellarocca/javascript-array-iteration-and-dom-manipulation-in-game-development-2bb9)
-- [Flake8 – Python Linting and Style Enforcement](https://dev.to/imrrobot/flake8-python-linting-and-style-enforcement-l1)
-- [AI Agents, Language Evolution, and the Security Shift on October 13, 2025](https://dev.to/om_shree_0709/ai-agents-language-evolution-and-the-security-shift-on-october-13-2025-2icc)
-- [JavaScript | Classe](https://dev.to/josejuarezjunior/javascript-classe-36fh)
-- [JavaScript | Dados e funcionalidades](https://dev.to/josejuarezjunior/javascript-dados-e-funcionalidades-20aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
