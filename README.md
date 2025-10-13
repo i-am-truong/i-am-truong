@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Engineers Try HTTP for Streaming — And Where It Breaks](https://dev.to/__354f265b41dafa0d901b/why-engineers-try-http-for-streaming-and-where-it-breaks-1blg)
-- [Python Packages &amp; Sub Packages](https://dev.to/srinivasuluparanduru/python-packages-sub-packages-3bff)
-- [💡 “Stop Copying Regex!” — Manage, Validate, and Extract All Your Regex with regex-center](https://dev.to/jamie_wang_5a76e661ad80fa/stop-copying-regex-manage-validate-and-extract-all-your-regex-with-regex-center-3o91)
-- [Why Tech Professionals Are Choosing European Winter Retreats: From Burnout to Intentional Mobility](https://dev.to/__5dd6ed6694d/why-tech-professionals-are-choosing-european-winter-retreats-from-burnout-to-intentional-mobility-3113)
-- [Monolith First, Services Later: A Phased Architecture Playbook](https://dev.to/igor_a_voronin/monolith-first-services-later-a-phased-architecture-playbook-k36)
+- [7 CSCP Exam Time Traps to Avoid | Pass Your Test](https://dev.to/nancy_smith/7-cscp-exam-time-traps-to-avoid-pass-your-test-428o)
+- [How I Stopped Fighting My AI Code Assistant and Started Building Better Software](https://dev.to/argonauta/how-i-stopped-fighting-my-ai-code-assistant-and-started-building-better-software-485n)
+- [Stop Using resize! You Might Be Missing Out on ResizeObserver](https://dev.to/jamie_wang_5a76e661ad80fa/stop-using-resize-you-might-be-missing-out-on-resizeobserver-4b0g)
+- [Mastering Optional in Java: Avoid NullPointerExceptions with Best Practices](https://dev.to/munaf_badarpura_3811f0ab1/mastering-optional-in-java-avoid-nullpointerexceptions-with-best-practices-3bnf)
+- [Building a Performance-Optimization Toolkit for Gamers — TechCalc Case Study](https://dev.to/naimesh_parikh_9295e7fa36/building-a-performance-optimization-toolkit-for-gamers-techcalc-case-study-4ei0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
