@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing Printers with CUPS Why It Matters](https://dev.to/sebos/securing-printers-with-cups-why-it-matters-1345)
+- [Week 1 — My First Contribution to Hacktoberfest 2025](https://dev.to/kkrishnan10/week-1-my-first-open-source-contribution-hacktoberfest-2025-28pk)
+- [Python basics - Day 05](https://dev.to/ian_b838138a27a917398d181/python-basics-day-05-37i7)
+- [The Anonymous Workers: Lambda Functions Explained](https://dev.to/aaron_rose_0787cc8b4775a0/the-anonymous-workers-lambda-functions-explained-3m9f)
 - [Unlocking the Oracle ACE Program: From Contribution to Recognition](https://dev.to/demasy/unlocking-the-oracle-ace-program-from-contribution-to-recognition-4731)
-- [AWS Cost Reporting: Why Parquet Data Doesn&#39;t Match Your Console &lpar;And How to Fix It&rpar;](https://dev.to/gurudev_prasadteketi/aws-cost-reporting-why-parquet-data-doesnt-match-your-console-and-how-to-fix-it-5dlh)
-- [How I Built a Mini C Compiler to Understand How Compilers Work](https://dev.to/ironrinox/how-i-built-a-mini-c-compiler-to-understand-how-compilers-work-1jb7)
-- [Did you know that a well-crafted prompt can make AI models m](https://dev.to/drcarlosruizviquez/did-you-know-that-a-well-crafted-prompt-can-make-ai-models-m-4ecb)
-- [JWT Authentication: How a 10,000-Year-Old Mesopotamian Wisdom Became Your Login System](https://dev.to/ariyaan/jwt-authentication-how-a-10000-year-old-mesopotamian-wisdom-became-your-login-system-3i4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
