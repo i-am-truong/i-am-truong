@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Architecting for system reliability and scalability demands clean foundational code.](https://dev.to/usmanzahidcode/architecting-for-system-reliability-and-scalability-demands-clean-foundational-code-51l7)
+- [Implement effective API versioning strategies for your evolving services.](https://dev.to/usmanzahidcode/implement-effective-api-versioning-strategies-for-your-evolving-services-23ge)
 - [Building Production-Grade Multi-Tier Web Infrastructure on AWS with CDK &amp; CLI Only](https://dev.to/asimmakes/building-production-grade-multi-tier-web-infrastructure-on-aws-with-cdk-cli-only-4ej8)
 - [What are Terraform Stacks? Setup &amp; Use Cases](https://dev.to/spacelift/what-are-terraform-stacks-setup-use-cases-232m)
-- [How small can an FPGA get?](https://dev.to/carolineee/how-small-can-an-fpga-get-2kpb)
-- [Cybersecurity: The Foundation of a Secure Digital Future in 2025](https://dev.to/bitetehcsol/cybersecurity-the-foundation-of-a-secure-digital-future-in-2025-31he)
-- [[Boost]](https://dev.to/lynn_mikami_e94e5b9ad7daf/-odk)
+- [🚀 Last Week in My Data Analytics Journey !](https://dev.to/ramyacse/last-week-in-my-data-analytics-journey--20oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
