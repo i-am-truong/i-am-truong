@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlocking Data with Natural Language: Introducing QueryCraftAI](https://dev.to/abhi9720/unlocking-data-with-natural-language-introducing-querycraftai-amc)
-- [Why do you need react query ?](https://dev.to/manas_1/why-do-you-need-react-query--1pfa)
-- [I built a Terraform Navigator because I was sick of looking for resources](https://dev.to/owenrumney/i-built-a-terraform-navigator-because-i-was-sick-of-looking-for-resources-16kj)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_c329f31b/your-error-handling-is-a-mess-and-its-costing-you--288g)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_7be3cb2a/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-2k66)
+- [Meme War and Existential Dread: What Developers Are Talking About on October 13, 2025](https://dev.to/om_shree_0709/meme-war-and-existential-dread-what-developers-are-talking-about-on-october-13-2025-4f50)
+- [How to use your network to get a job](https://dev.to/launchdarkly/how-to-use-your-network-to-get-a-job-4j08)
+- [Packet-Level Security: How to Monitor and Detect Network Attacks with Nmap and Wireshark](https://dev.to/seifeldienahmad/packet-level-security-how-to-monitor-and-detect-network-attacks-with-nmap-and-wireshark-476o)
+- [POJO - Plain Old JavaScript Object](https://dev.to/josejuarezjunior/pojo-plain-old-javascript-object-1478)
+- [The Creative Flow: Vibe Coding Tools and the Human Element on October 13, 2025](https://dev.to/om_shree_0709/the-creative-flow-vibe-coding-tools-and-the-human-element-on-october-13-2025-5eck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
