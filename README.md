@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 26](https://dev.to/tomivan/coding-challenge-practice-question-26-295j)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_7be3cb2a/security-is-not-a-feature-its-a-foundation-g26)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_c329f31b/files-are-not-just-data-a-guide-to-robust-file-handling-14hm)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_02ee41d0/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-49n4)
-- [🧠 The Agent Mesh: Building the Integration Layer for the AI Renaissance](https://dev.to/webmethodman/the-agent-mesh-building-the-integration-layer-for-the-ai-renaissance-5io)
+- [🧑‍💻 How a Simple Idea Turned Into One of the Most Important Projects of My Journey — The Story Behind Backend Challenges](https://dev.to/wesleybertipaglia/how-a-simple-idea-turned-into-one-of-the-most-important-projects-of-my-journey-the-story-133n)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5c89)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-3jbk)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-2ce)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-36in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
