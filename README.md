@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-lp)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-31go)
-- [🔥 How I Built a High-Performance AI-Powered Chatbot with Deno and No Frameworks &lpar;Seriously!&rpar; 👨‍💻🤯](https://dev.to/ekwoster/how-i-built-a-high-performance-ai-powered-chatbot-with-deno-and-no-frameworks-seriously-5h4g)
-- [🌎 “i18n Demystified: How to Make Your App Speak Any Language Effortlessly”](https://dev.to/charan_gutti_cf60c6185074/i18n-demystified-how-to-make-your-app-speak-any-language-effortlessly-2bl8)
-- [Know the History of AI: Build Your Own Rule-Based Expert System in C#](https://dev.to/auyeungdavid_2847435260/know-the-history-of-ai-build-your-own-rule-based-expert-system-in-c-490a)
+- [Will Developers Survive AI Takeover? Part 2: Don&#39;t Be Ashamed to Use AI, Even Iron Man Did](https://dev.to/georgekobaidze/will-developers-survive-ai-takeover-part-2-dont-be-ashamed-to-use-ai-even-iron-man-did-3l7a)
+- [[Boost]](https://dev.to/fmerian/-53fj)
+- [The JavaScript Runtime Showdown: Node.js vs Deno vs Bun](https://dev.to/iyadhgallah/the-javascript-runtime-showdown-nodejs-vs-deno-vs-bun-4mdj)
+- [The PHP Project That Inspired React](https://dev.to/mirnatul/the-php-project-that-inspired-react-5bb9)
+- [The Journey Begins!](https://dev.to/wbartlomiej/the-journey-begins-4ig8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
