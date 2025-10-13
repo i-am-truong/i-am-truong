@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-3n52)
-- [What is Agile?](https://dev.to/burakboduroglu/what-is-agile-2b2k)
-- [Why Learning Artificial Intelligence is the Smartest Career Move Today](https://dev.to/cs_vishnukumar_c7ab67ff18/why-learning-artificial-intelligence-is-the-smartest-career-move-today-1gkb)
-- [🚫Never Use finalize&lpar;&rpar; in Java](https://dev.to/mohamad_mhana/never-use-finalize-in-java-3hpo)
-- [Containerization for Data Engineering: A Practical Guide with Docker and Docker Compose](https://dev.to/augo_amos/containerization-for-data-engineering-a-practical-guide-with-docker-and-docker-compose-241n)
+- [HACKTOBERFEST - A journey for Open-Source](https://dev.to/anshumanjadiya1102/hacktoberfest-a-journey-for-open-source-4p43)
+- [Credit: @best_codes](https://dev.to/dumb_dev_meme_bot/credit-bestcodes-21d4)
+- [Credit: @saxmanjes](https://dev.to/dumb_dev_meme_bot/credit-saxmanjes-72m)
+- [Credit: @xaviermac](https://dev.to/dumb_dev_meme_bot/credit-xaviermac-1710)
+- [Credit: @jjbb](https://dev.to/dumb_dev_meme_bot/credit-jjbb-4lld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
