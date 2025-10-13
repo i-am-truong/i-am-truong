@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 7 Essential UI/UX Design Tools for 2025](https://dev.to/pixel_mosaic/the-7-essential-uiux-design-tools-for-2025-2jhh)
+- [Clean Architecture for Mobile Apps](https://dev.to/kamal_deeppareek_f5bb5d8/clean-architecture-for-mobile-apps-cbe)
 - [Check out the guide on - A Complete Guide to Exploratory Factor Analysis &lpar;EFA&rpar; in R](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-a-complete-guide-to-exploratory-factor-analysis-efa-in-r-333f)
 - [The product with the longest cumulative stockout time in the supermarket within a month--SPL Programming Practice](https://dev.to/esproc_spl/the-product-with-the-longest-cumulative-stockout-time-in-the-supermarket-within-a-month-spl-402o)
 - [CKA Coupon Code 75% Off 2025 - Linux Foundation](https://dev.to/jeremy_simpson/cka-coupon-code-75-off-2025-linux-foundation-3b4o)
-- [What is Web3 User Analytics? Benefits, Metrics, and Tools for Growth](https://dev.to/yos/what-is-web3-user-analytics-benefits-metrics-and-tools-for-growth-509e)
-- [The Definitive Guide to Wallet‑Based 360 Profiles for Web3 Projects](https://dev.to/yos/the-definitive-guide-to-wallet-based-360-profiles-for-web3-projects-8c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
