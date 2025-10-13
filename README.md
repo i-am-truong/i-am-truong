@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Essential JavaScript Performance Optimization Techniques That Every Developer Should Know](https://dev.to/boris_churzin_8418a23918c/10-essential-javascript-performance-optimization-techniques-that-every-developer-should-know-53ak)
+- [The Invisible Orchestra: Is Serverless the Conductor We&#39;ve Been Waiting For?](https://dev.to/alex_aslam/the-invisible-orchestra-is-serverless-the-conductor-weve-been-waiting-for-9pm)
 - [FLET VS KIVY: WHICH ONE SHOULD YOU USE FOR YOUR NEXT PYTHON GUI APP](https://dev.to/arseytech/flet-vs-kivy-which-one-should-you-use-for-your-next-python-gui-app-2ak4)
 - [Humans still win: why frontend basics matter — even with Gemini, GPT, and Claude](https://dev.to/rajibola/humans-still-win-why-frontend-basics-matter-even-with-gemini-gpt-and-claude-1efl)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-39d3)
 - [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2bak)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-e6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
