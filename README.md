@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The React Foundation — A New Era for Open Collaboration](https://dev.to/cristiansifuentes/the-react-foundation-a-new-era-for-open-collaboration-5fjh)
 - [I Built a Free n8n Template Library with 2,641+ Automation Workflows 🚀](https://dev.to/allanninal/i-built-a-free-n8n-template-library-with-2641-automation-workflows-3a50)
 - [Cybersecurity Best Practices 2025: Essential Guide for Developers and Businesses](https://dev.to/codehustlet_tech/cybersecurity-best-practices-2025-essential-guide-for-developers-and-businesses-3ocl)
 - [From building a voice AI widget to mapping the entire Voice AI ecosystem &lpar;Introducing echostack&rpar;](https://dev.to/ayoolasolomon/from-building-a-voice-ai-widget-to-mapping-the-entire-voice-ai-ecosystem-introducing-echostack-ceo)
 - [Dark Mode Meets Light Mode—Live with Chroma Chameleon](https://dev.to/marcrossmann/dark-mode-meets-light-mode-live-with-chroma-chameleon-302p)
-- [Best Expert Guide to Logistics Software Development for Business](https://dev.to/cleverdevsoftware/best-expert-guide-to-logistics-software-development-for-business-5ga0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
