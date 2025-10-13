@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency and Transactional Row Versioning - Part 2](https://dev.to/arturampilogov/concurrency-and-transactional-row-versioning-part-2-2cbn)
-- [Disse alcune cose imbarazzanti, dopodiché la trasmissione venne interrotta.](https://dev.to/ciphermatrixxx/disse-alcune-cose-imbarazzanti-dopodiche-la-trasmissione-venne-interrotta-3f9c)
-- [JavaScript | Herança básica](https://dev.to/josejuarezjunior/javascript-heranca-basica-3488)
-- [Securing Printers with CUPS Why It Matters](https://dev.to/sebos/securing-printers-with-cups-why-it-matters-1345)
-- [Week 1 — My First Contribution to Hacktoberfest 2025](https://dev.to/kkrishnan10/week-1-my-first-open-source-contribution-hacktoberfest-2025-28pk)
+- [Coding Challenge Practice - Question 26](https://dev.to/tomivan/coding-challenge-practice-question-26-295j)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_7be3cb2a/security-is-not-a-feature-its-a-foundation-g26)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_c329f31b/files-are-not-just-data-a-guide-to-robust-file-handling-14hm)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_02ee41d0/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-49n4)
+- [🧠 The Agent Mesh: Building the Integration Layer for the AI Renaissance](https://dev.to/webmethodman/the-agent-mesh-building-the-integration-layer-for-the-ai-renaissance-5io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
