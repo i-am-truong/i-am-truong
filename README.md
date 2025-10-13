@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Move Your Repository to a New GitHub Repo on a VPS Hosting Site](https://dev.to/raielly/move-your-repository-to-a-new-github-repo-on-a-vps-hosting-site-14a7)
-- [How to Start a Career as a Private Investigator: Step-by-Step Guide](https://dev.to/russwantz/how-to-start-a-career-as-a-private-investigator-step-by-step-guide-1fkg)
-- [The $50M Difference Between AI-Synthesized and AI-Generated Content](https://dev.to/talweezy/the-50m-difference-between-ai-synthesized-and-ai-generated-content-3604)
-- [🧠 Shrink Your Text Like Magic with DevUtilX’s Text Compressor ✨](https://dev.to/akashbijwe/shrink-your-text-like-magic-with-devutilxs-text-compressor-i28)
-- [🌱 Understanding Prop Drilling and How to Avoid It in React](https://dev.to/yashi_srivastava_9166487c/understanding-prop-drilling-and-how-to-avoid-it-in-react-59e3)
+- [🚀 Unlocking Data with Natural Language: Introducing QueryCraftAI](https://dev.to/abhi9720/unlocking-data-with-natural-language-introducing-querycraftai-amc)
+- [Why do you need react query ?](https://dev.to/manas_1/why-do-you-need-react-query--1pfa)
+- [I built a Terraform Navigator because I was sick of looking for resources](https://dev.to/owenrumney/i-built-a-terraform-navigator-because-i-was-sick-of-looking-for-resources-16kj)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_c329f31b/your-error-handling-is-a-mess-and-its-costing-you--288g)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_7be3cb2a/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-2k66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
