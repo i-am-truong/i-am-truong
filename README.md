@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Entendendo o uso de record e DTO com java](https://dev.to/gregoriohd/entendendo-o-uso-de-record-e-dto-com-java-1f8k)
 - [wisu: a fast, minimalist directory tree viewer with an interactive TUI &lpar;written in Rust&rpar;](https://dev.to/sh1zen/wisu-a-fast-minimalist-directory-tree-viewer-with-an-interactive-tui-written-in-rust-583h)
 - [Cómo implementar AWS Network Firewall en una arquitectura multicuenta utilizando Transit Gateway](https://dev.to/cbecerra/como-implementar-aws-network-firewall-en-una-arquitectura-multicuenta-utilizando-transit-gateway-g1c)
 - [How to Implement AWS Network Firewall in a Multi-Account Architecture Using Transit Gateway](https://dev.to/cbecerra/how-to-implement-aws-network-firewall-in-a-multi-account-architecture-using-transit-gateway-2nam)
 - [It&#39;s early days for Agents](https://dev.to/jldec/its-early-days-for-agents-3bl2)
-- [Why is Finding Bottleneck Important?](https://dev.to/tool_works_d3c5d34009b4b6/why-is-finding-bottleneck-important-4mhg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
