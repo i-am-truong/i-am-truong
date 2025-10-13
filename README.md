@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Join My Office Dashboard Project for Hacktoberfest 2025 — Perfect for Beginners!](https://dev.to/hirushi_nethmini_41168bb8/join-my-office-dashboard-project-for-hacktoberfest-2025-perfect-for-beginners-47ai)
-- [Best AI Mobile App Builders for Designers in 2025: Create Stunning Apps Without Coding](https://dev.to/luisabecker/best-ai-mobile-app-builders-for-designers-in-2025-create-stunning-apps-without-coding-17hk)
-- [What Is PCI DSS Level 4 and Who Does It Apply To?](https://dev.to/kibe_christine_bc01e93c1a/what-is-pci-dss-level-4-and-who-does-it-apply-to-569p)
-- [GitHub Copilot: great assistant, terrible architect](https://dev.to/brunofpinheiro/github-copilot-great-assistant-terrible-architect-174a)
-- [Inside the Fortune 500 AI Revolution: How Giants Turn Data into Knowledge](https://dev.to/devstark_media/inside-the-fortune-500-ai-revolution-how-giants-turn-data-into-knowledge-5acg)
+- [Containerization for Data Engineering: A Practical Guide with Docker and Docker Compose](https://dev.to/eric_kahindi_cfbfda3bd0f7/containerization-for-data-engineering-a-practical-guide-with-docker-and-docker-compose-3fb4)
+- [Top 5 AI Test Case Generation Tools to Boost Your API Testing in 2025](https://dev.to/therealmrmumba/top-5-ai-test-case-generation-tools-to-boost-your-api-testing-in-2025-3l4n)
+- [Cause and solution of the Supabase &quot;supabaseKey is required&quot; error [Vite + React]](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-of-the-supabase-supabasekey-is-required-error-vite-react-44og)
+- [WTF is Privacy-Enhanced Computation?](https://dev.to/dailybugle33/wtf-is-privacy-enhanced-computation-3217)
+- [Launching. Need feedback](https://dev.to/vino123/launching-need-feedback-i1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
