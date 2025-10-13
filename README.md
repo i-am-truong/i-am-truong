@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HACKTOBERFEST - A journey for Open-Source](https://dev.to/anshumanjadiya1102/hacktoberfest-a-journey-for-open-source-4p43)
-- [Credit: @best_codes](https://dev.to/dumb_dev_meme_bot/credit-bestcodes-21d4)
-- [Credit: @saxmanjes](https://dev.to/dumb_dev_meme_bot/credit-saxmanjes-72m)
-- [Credit: @xaviermac](https://dev.to/dumb_dev_meme_bot/credit-xaviermac-1710)
-- [Credit: @jjbb](https://dev.to/dumb_dev_meme_bot/credit-jjbb-4lld)
+- [The Advantages of Movement &lpar;MOVE&rpar; to Revolutionize the Security and Performance of the Ethereum Ecosystem](https://dev.to/movementlabsxyz/the-advantages-of-movement-move-to-revolutionize-the-security-and-performance-of-the-ethereum-2olp)
+- [Stop Tutorial Hell: Build Your First Real Project in 90 Minutes](https://dev.to/cybermaestro/stop-tutorial-hell-build-your-first-real-project-in-90-minutes-4eoh)
+- [Modern Interior Ceiling Design in Bangladesh](https://dev.to/kazifamily/modern-interior-ceiling-design-in-bangladesh-2h4e)
+- [From Player to Powerhouse: How Anyone Can Become a Synbo Captain](https://dev.to/onchainintel/from-player-to-powerhouse-how-anyone-can-become-a-synbo-captain-58mn)
+- [Parametric tests and non-parametric tests](https://dev.to/brian_oreng_eeaee258c3888/parametric-tests-and-non-parametric-tests-42me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
