@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Advantages of Movement &lpar;MOVE&rpar; to Revolutionize the Security and Performance of the Ethereum Ecosystem](https://dev.to/movementlabsxyz/the-advantages-of-movement-move-to-revolutionize-the-security-and-performance-of-the-ethereum-2olp)
-- [Stop Tutorial Hell: Build Your First Real Project in 90 Minutes](https://dev.to/cybermaestro/stop-tutorial-hell-build-your-first-real-project-in-90-minutes-4eoh)
-- [Modern Interior Ceiling Design in Bangladesh](https://dev.to/kazifamily/modern-interior-ceiling-design-in-bangladesh-2h4e)
-- [From Player to Powerhouse: How Anyone Can Become a Synbo Captain](https://dev.to/onchainintel/from-player-to-powerhouse-how-anyone-can-become-a-synbo-captain-58mn)
-- [Parametric tests and non-parametric tests](https://dev.to/brian_oreng_eeaee258c3888/parametric-tests-and-non-parametric-tests-42me)
+- [Build Your First MCP Server with Notion and OpenAI - A Developer&#39;s Guide](https://dev.to/cuongnp/build-your-first-mcp-server-with-notion-and-openai-a-developers-guide-24ai)
+- [How I Built a Real-Time Dashboard in .NET to Catch Bugs Before Users Did](https://dev.to/umerfarooqofficial/how-i-built-a-real-time-dashboard-in-net-to-catch-bugs-before-users-did-1bc9)
+- [🛰️ Construyendo un Marco Explicable de Anomalías Satelitales Multidominio: De la Sismología a la Agricultura en 48 Horas](https://dev.to/luciernagasabionda/construyendo-un-marco-explicable-de-anomalias-satelitales-multidominio-de-la-sismologia-a-la-4fi7)
+- [Building a Scalable Authentication Layer That Cuts Development Time by 60% ⚡](https://dev.to/ilsa_shaikh_089e2bfab0bf4/building-a-scalable-authentication-layer-that-cuts-development-time-by-60-6hc)
+- [Kafka | everything you need to get started](https://dev.to/zorous/kafka-everything-you-need-to-get-started-19c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
