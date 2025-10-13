@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OSD600 Lab 5: Git rebases](https://dev.to/david_rivera_8d845b35931e/osd600-lab-5-git-rebases-2o4f)
+- [[Boost]](https://dev.to/bemvasion/-35n9)
+- [Machine Translation &lpar;MT&rpar;: Your Guide to the Basics](https://dev.to/testjace/machine-translation-mt-your-guide-to-the-basics-370n)
 - [💥 Myth #15: Internal priorities are all that matter](https://dev.to/tmorin/myth-15-internal-priorities-are-all-that-matter-2ea2)
-- [3 Code Reading Techniques No Course Will Teach You](https://dev.to/canro91/3-code-reading-techniques-no-course-will-teach-you-12in)
 - [The Power of Shared Definitions](https://dev.to/branden-hernandez/the-power-of-shared-definitions-3j3p)
-- [Revisiting an Old Project — and the Endless Spiral of Dependencies](https://dev.to/olegelantsev/revisiting-an-old-project-and-the-endless-spiral-of-dependencies-4gf6)
-- [The AI Workflow Hack That Saves Agencies 15 Hours Per Week](https://dev.to/teamcamp/the-ai-workflow-hack-that-saves-agencies-15-hours-per-week-5208)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
