@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cost Reporting: Why Parquet Data Doesn&#39;t Match Your Console &lpar;And How to Fix It&rpar;](https://dev.to/gurudev_prasadteketi/aws-cost-reporting-why-parquet-data-doesnt-match-your-console-and-how-to-fix-it-5dlh)
 - [Did you know that a well-crafted prompt can make AI models m](https://dev.to/drcarlosruizviquez/did-you-know-that-a-well-crafted-prompt-can-make-ai-models-m-4ecb)
 - [JWT Authentication: How a 10,000-Year-Old Mesopotamian Wisdom Became Your Login System](https://dev.to/ariyaan/jwt-authentication-how-a-10000-year-old-mesopotamian-wisdom-became-your-login-system-3i4m)
 - [**The Hidden Dangers of Oversimplification in AI Sports Coac](https://dev.to/drcarlosruizviquez/the-hidden-dangers-of-oversimplification-in-ai-sports-coac-o0c)
 - [Building Hyperskill: My Story as a Developer](https://dev.to/hyperskill_academy/building-hyperskill-my-story-as-a-developer-c47)
-- [Volunteer Developers Wanted for Open-Source Cross-Platform Art App &lpar;Remote-US/Canada Only&rpar;](https://dev.to/lisa_ramos_8195b1b9c44c60/volunteer-developers-wanted-for-open-source-cross-platform-art-app-remote-uscanada-only-2fkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
