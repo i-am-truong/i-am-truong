@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Docker development environment for Filestash](https://dev.to/migsarnavarro/a-docker-development-environment-for-filestash-4m7n)
-- [Updates to the Gmail API, the Reports API, Chat app capabilities, and more!](https://dev.to/googleworkspace/updates-to-the-gmail-api-the-reports-api-chat-app-capabilities-and-more-4k78)
-- [Python 3.14 Unleashed: Template Strings &amp; Modern Exception Handling &lpar;Part 1 - Chapter 2/3&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/python-314-unleashed-template-strings-modern-exception-handling-part-1-chapter-23-4ob8)
-- [Architecting for system reliability and scalability demands clean foundational code.](https://dev.to/usmanzahidcode/architecting-for-system-reliability-and-scalability-demands-clean-foundational-code-51l7)
-- [Implement effective API versioning strategies for your evolving services.](https://dev.to/usmanzahidcode/implement-effective-api-versioning-strategies-for-your-evolving-services-23ge)
+- [Why Engineers Try HTTP for Streaming — And Where It Breaks](https://dev.to/__354f265b41dafa0d901b/why-engineers-try-http-for-streaming-and-where-it-breaks-1blg)
+- [Python Packages &amp; Sub Packages](https://dev.to/srinivasuluparanduru/python-packages-sub-packages-3bff)
+- [💡 “Stop Copying Regex!” — Manage, Validate, and Extract All Your Regex with regex-center](https://dev.to/jamie_wang_5a76e661ad80fa/stop-copying-regex-manage-validate-and-extract-all-your-regex-with-regex-center-3o91)
+- [Why Tech Professionals Are Choosing European Winter Retreats: From Burnout to Intentional Mobility](https://dev.to/__5dd6ed6694d/why-tech-professionals-are-choosing-european-winter-retreats-from-burnout-to-intentional-mobility-3113)
+- [Monolith First, Services Later: A Phased Architecture Playbook](https://dev.to/igor_a_voronin/monolith-first-services-later-a-phased-architecture-playbook-k36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
