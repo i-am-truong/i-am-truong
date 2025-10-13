@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Containerization for Data Engineering: A Practical Guide with Docker and Docker Compose](https://dev.to/eric_kahindi_cfbfda3bd0f7/containerization-for-data-engineering-a-practical-guide-with-docker-and-docker-compose-3fb4)
-- [Top 5 AI Test Case Generation Tools to Boost Your API Testing in 2025](https://dev.to/therealmrmumba/top-5-ai-test-case-generation-tools-to-boost-your-api-testing-in-2025-3l4n)
-- [Cause and solution of the Supabase &quot;supabaseKey is required&quot; error [Vite + React]](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-of-the-supabase-supabasekey-is-required-error-vite-react-44og)
-- [WTF is Privacy-Enhanced Computation?](https://dev.to/dailybugle33/wtf-is-privacy-enhanced-computation-3217)
-- [Launching. Need feedback](https://dev.to/vino123/launching-need-feedback-i1n)
+- [Building Production-Grade Multi-Tier Web Infrastructure on AWS with CDK &amp; CLI Only](https://dev.to/asimmakes/building-production-grade-multi-tier-web-infrastructure-on-aws-with-cdk-cli-only-4ej8)
+- [What are Terraform Stacks? Setup &amp; Use Cases](https://dev.to/spacelift/what-are-terraform-stacks-setup-use-cases-232m)
+- [How small can an FPGA get?](https://dev.to/carolineee/how-small-can-an-fpga-get-2kpb)
+- [Cybersecurity: The Foundation of a Secure Digital Future in 2025](https://dev.to/bitetehcsol/cybersecurity-the-foundation-of-a-secure-digital-future-in-2025-31he)
+- [[Boost]](https://dev.to/lynn_mikami_e94e5b9ad7daf/-odk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
