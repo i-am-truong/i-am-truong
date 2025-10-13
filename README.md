@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Simple to Complex: How ZWJs Build the Emojis We Use Every Day](https://dev.to/rijultp/from-simple-to-complex-how-zwjs-build-the-emojis-we-use-every-day-2eo6)
-- [Authentication &amp; Authorization in Backend Development](https://dev.to/riteshkokam/authentication-authorization-in-backend-development-4go)
-- [FFStudio - a node-based FFmpeg frontend](https://dev.to/azfino/ffstudio-a-node-based-ffmpeg-frontend-3899)
-- [Building a Smart Hardware Inventory System That Actually Works](https://dev.to/ravgeetdhillon/building-a-smart-hardware-inventory-system-that-actually-works-ngg)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_7be3cb2a/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1hed)
+- [Linux Fundamentals for DevOps](https://dev.to/whispernet/linux-fundamentals-for-devops-44ca)
+- [Portfolio First, Social Media Second: Why Platforms Come and Go but Your Website Stays](https://dev.to/imtaslim/portfolio-first-social-media-second-why-platforms-come-and-go-but-your-website-stays-4d8d)
+- [SSR vs CSR: Why Your Website Loads Like a Potato &lpar;and How to Fix It&rpar;](https://dev.to/lucasbrdt268/ssr-vs-csr-why-your-website-loads-like-a-potato-and-how-to-fix-it-1bo)
+- [Orbitalink at India Mobile Congress 2025 — A Step Closer to the Cosmos](https://dev.to/orbitalink/orbitalink-at-india-mobile-congress-2025-a-step-closer-to-the-cosmos-3m7)
+- [Rich – Beautiful and Interactive Console Output with python](https://dev.to/imrrobot/rich-beautiful-and-interactive-console-output-with-python-2no6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
