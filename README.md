@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On: Deploying a PostgreSQL + Bastion + VPC Stack Using AWS CDK + Python](https://dev.to/chainiz/hands-on-deploying-a-postgresql-bastion-vpc-stack-using-aws-cdk-python-3lm5)
-- [IPS Display in 3D Printers: Enhancing Control and Visualization](https://dev.to/tonyhe8688/ips-display-in-3d-printers-enhancing-control-and-visualization-4hfe)
-- [How I Built a Free AI Learning Resource Hub from Scratch](https://dev.to/boss_324388ee1a85bd1222d0/how-i-built-a-free-ai-learning-resource-hub-from-scratch-19f)
-- [How I Fixed My Own Mistake: The TCJSgame Speed.js Story](https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-my-own-mistake-the-tcjsgame-speedjs-story-3noe)
-- [Reimagine Libraries management as Apps using Agentic Executable framework](https://dev.to/arenukvern/reimagine-libraries-management-as-apps-using-agentic-executable-framework-ami)
+- [Image to URL Service Comparison - Ultimate Drag-and-Drop Convenience](https://dev.to/tony_chase_83955825282edc/image-to-url-service-comparison-ultimate-drag-and-drop-convenience-4a6m)
+- [TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh)
+- [AdapTive-LeArning Speculator System &lpar;ATLAS&rpar;: Faster LLM inference](https://dev.to/technoblogger14o3/adaptive-learning-speculator-system-atlas-faster-llm-inference-468h)
+- [Hands-On: Despliega una base de datos PostgreSQL + Bastion + VPC con AWS CDK y Python](https://dev.to/chainiz/hands-on-despliega-una-base-de-datos-postgresql-bastion-vpc-con-aws-cdk-y-python-1a38)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-54jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
