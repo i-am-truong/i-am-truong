@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First MCP Server with Notion and OpenAI - A Developer&#39;s Guide](https://dev.to/cuongnp/build-your-first-mcp-server-with-notion-and-openai-a-developers-guide-24ai)
-- [How I Built a Real-Time Dashboard in .NET to Catch Bugs Before Users Did](https://dev.to/umerfarooqofficial/how-i-built-a-real-time-dashboard-in-net-to-catch-bugs-before-users-did-1bc9)
-- [🛰️ Construyendo un Marco Explicable de Anomalías Satelitales Multidominio: De la Sismología a la Agricultura en 48 Horas](https://dev.to/luciernagasabionda/construyendo-un-marco-explicable-de-anomalias-satelitales-multidominio-de-la-sismologia-a-la-4fi7)
-- [Building a Scalable Authentication Layer That Cuts Development Time by 60% ⚡](https://dev.to/ilsa_shaikh_089e2bfab0bf4/building-a-scalable-authentication-layer-that-cuts-development-time-by-60-6hc)
-- [Kafka | everything you need to get started](https://dev.to/zorous/kafka-everything-you-need-to-get-started-19c4)
+- [Best Smush Alternatives for WordPress Image Optimization](https://dev.to/andreialba/best-smush-alternatives-for-wordpress-image-optimization-5hdn)
+- [GameSpot: 3D Vampire Survivors? YES PLEASE | Megabonk](https://dev.to/gg_news/gamespot-3d-vampire-survivors-yes-please-megabonk-47ei)
+- [IGN: Code Vein 2 Preview: New Moon, Same Blood](https://dev.to/gg_news/ign-code-vein-2-preview-new-moon-same-blood-37hb)
+- [IGN: The Running Man - Official Trailer #2 &lpar;2025&rpar; Glen Powell, William H. Macy, Lee Pace](https://dev.to/gg_news/ign-the-running-man-official-trailer-2-2025-glen-powell-william-h-macy-lee-pace-563l)
+- [Deploy n8n with Coolify: Self-Hosted Automation in Minutes](https://dev.to/jaskarandeogan/deploy-n8n-with-coolify-self-hosted-automation-in-minutes-457g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
