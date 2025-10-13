@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Revisiting an Old Project — and the Endless Spiral of Dependencies](https://dev.to/olegelantsev/revisiting-an-old-project-and-the-endless-spiral-of-dependencies-4gf6)
+- [The AI Workflow Hack That Saves Agencies 15 Hours Per Week](https://dev.to/teamcamp/the-ai-workflow-hack-that-saves-agencies-15-hours-per-week-5208)
 - [Image blur detection using scipy](https://dev.to/tejaspatilblogs/image-blur-detection-using-scipy-1ilf)
 - [Day 12 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-12-of-100-days-dsa-coding-challenge-8co)
 - [Boost Response Clarity in Copilot Studio](https://dev.to/balagmadhu/boost-response-clarity-in-copilot-studio-36j1)
-- [Threads Explained: Simplest Manner.](https://dev.to/banuofficial/threads-explained-simplest-manner-4joh)
-- [CISO 101: What the Terms Mean—and How to Use Them With the Business](https://dev.to/d3one/ciso-101-what-the-terms-mean-and-how-to-use-them-with-the-business-3ikn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
