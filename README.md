@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DB Connection on Asp.net core](https://dev.to/ayusclg_/db-connection-on-aspnet-core-364a)
+- [Amazon Braket - Quantum Linguistic Security: Finnish Agglutinative Morphology Meets AI Defense](https://dev.to/aws-builders/amazon-braket-quantum-linguistic-security-finnish-agglutinative-morphology-meets-ai-defense-4oeg)
 - [Google Knows More About You Than You Think](https://dev.to/nightmare-lynx/google-knows-more-about-you-than-you-think-14g8)
 - [Reactive, Strongly-Typed Configuration in .NET: Introducing Cocoar.Configuration v3.0](https://dev.to/cocoar/reactive-strongly-typed-configuration-in-net-introducing-cocoarconfiguration-v30-3gbn)
 - [Why “Hackers Are Criminals” Is an Outdated View](https://dev.to/nightmare-lynx/why-hackers-are-criminals-is-an-outdated-view-11hf)
-- [Random number generator in java script](https://dev.to/arun_kumar_98/random-number-generator-in-java-script-4gmi)
-- [Machine Learning Applications: The Smart Technology Behind Everyday Life](https://dev.to/phoneexits/machine-learning-applications-the-smart-technology-behind-everyday-life-3oho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
