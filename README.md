@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-43ef)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3536)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-57jn)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-560j)
-- [🚀 Introducing G$HIT-Django: Build Django Apps Instantly — No Setup, No Stress](https://dev.to/gshit/introducing-ghit-django-build-django-apps-instantly-no-setup-no-stress-141f)
+- [🌟 Join My Office Dashboard Project for Hacktoberfest 2025 — Perfect for Beginners!](https://dev.to/hirushi_nethmini_41168bb8/join-my-office-dashboard-project-for-hacktoberfest-2025-perfect-for-beginners-47ai)
+- [Best AI Mobile App Builders for Designers in 2025: Create Stunning Apps Without Coding](https://dev.to/luisabecker/best-ai-mobile-app-builders-for-designers-in-2025-create-stunning-apps-without-coding-17hk)
+- [What Is PCI DSS Level 4 and Who Does It Apply To?](https://dev.to/kibe_christine_bc01e93c1a/what-is-pci-dss-level-4-and-who-does-it-apply-to-569p)
+- [GitHub Copilot: great assistant, terrible architect](https://dev.to/brunofpinheiro/github-copilot-great-assistant-terrible-architect-174a)
+- [Inside the Fortune 500 AI Revolution: How Giants Turn Data into Knowledge](https://dev.to/devstark_media/inside-the-fortune-500-ai-revolution-how-giants-turn-data-into-knowledge-5acg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
