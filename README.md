@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-13ca)
 - [Linux Fundamentals for DevOps](https://dev.to/whispernet/linux-fundamentals-for-devops-44ca)
 - [Portfolio First, Social Media Second: Why Platforms Come and Go but Your Website Stays](https://dev.to/imtaslim/portfolio-first-social-media-second-why-platforms-come-and-go-but-your-website-stays-4d8d)
 - [SSR vs CSR: Why Your Website Loads Like a Potato &lpar;and How to Fix It&rpar;](https://dev.to/lucasbrdt268/ssr-vs-csr-why-your-website-loads-like-a-potato-and-how-to-fix-it-1bo)
 - [Orbitalink at India Mobile Congress 2025 — A Step Closer to the Cosmos](https://dev.to/orbitalink/orbitalink-at-india-mobile-congress-2025-a-step-closer-to-the-cosmos-3m7)
-- [Rich – Beautiful and Interactive Console Output with python](https://dev.to/imrrobot/rich-beautiful-and-interactive-console-output-with-python-2no6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
