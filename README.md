@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Connect to EC2 without SSH](https://dev.to/wakeup_flower_8591a6cb6a9/connect-to-ec2-without-ssh-34cg)
+- [What are your goals for the week? # 148](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-148-3585)
 - [Amazon Bedrock AgentCore Runtime - Part 8 AgentCore Memory Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-8-agentcore-memory-observability-32pc)
 - [MongoDB Pagination: IXSCAN vs COLLSCAN and Building Efficient Page Bookmarks](https://dev.to/devaaai/mongodb-pagination-ixscan-vs-collscan-and-building-efficient-page-bookmarks-2087)
 - [Congrats to the Heroku &quot;Back to School&quot; AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-heroku-back-to-school-ai-challenge-winners-303h)
-- [WP Rocket Alternatives You Probably Never Heard Of &lpar;But Should Try&rpar;](https://dev.to/biancarus/wp-rocket-alternatives-you-probably-never-heard-of-but-should-try-1ecj)
-- [Hash Checker – A Lightweight Cross-Platform File Integrity Verification Tool](https://dev.to/tamld/hash-checker-a-lightweight-cross-platform-file-integrity-verification-tool-611)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
