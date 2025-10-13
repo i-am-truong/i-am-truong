@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🐾 Building a Secure Comment System in Laravel &lpar;with ID Authentication and Arithmetic CAPTCHA&rpar;](https://dev.to/aulate/building-a-secure-comment-system-in-laravel-with-id-authentication-and-arithmetic-captcha-ggb)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3h0b)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-42bb)
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-2i46)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-2f1d)
+- [Did you know that a well-crafted prompt can make AI models m](https://dev.to/drcarlosruizviquez/did-you-know-that-a-well-crafted-prompt-can-make-ai-models-m-4ecb)
+- [JWT Authentication: How a 10,000-Year-Old Mesopotamian Wisdom Became Your Login System](https://dev.to/ariyaan/jwt-authentication-how-a-10000-year-old-mesopotamian-wisdom-became-your-login-system-3i4m)
+- [**The Hidden Dangers of Oversimplification in AI Sports Coac](https://dev.to/drcarlosruizviquez/the-hidden-dangers-of-oversimplification-in-ai-sports-coac-o0c)
+- [Building Hyperskill: My Story as a Developer](https://dev.to/hyperskill_academy/building-hyperskill-my-story-as-a-developer-c47)
+- [Volunteer Developers Wanted for Open-Source Cross-Platform Art App &lpar;Remote-US/Canada Only&rpar;](https://dev.to/lisa_ramos_8195b1b9c44c60/volunteer-developers-wanted-for-open-source-cross-platform-art-app-remote-uscanada-only-2fkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
