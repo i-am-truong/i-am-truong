@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MedSecureAI: Revolutionary Healthcare AI - From Patient Privacy to Enterprise Compliance](https://dev.to/alphonsekazadi/medsecureai-revolutionary-healthcare-ai-from-patient-privacy-to-enterprise-compliance-24ej)
-- [Are Heat Pumps Good for Both Summer and Winter?](https://dev.to/heat-pumps/are-heat-pumps-good-for-both-summer-and-winter-3dhk)
-- [How AI Powers Better Search: Semantic Understanding, Vectors and Context](https://dev.to/wisdomplexus_70a379ff4482/how-ai-powers-better-search-semantic-understanding-vectors-and-context-1mk6)
-- [Untitled](https://dev.to/arshia_razmgir_a685ce42ed/untitled-4knp)
-- [Connect to EC2 without SSH](https://dev.to/wakeup_flower_8591a6cb6a9/connect-to-ec2-without-ssh-34cg)
+- [All Data and AI Weekly #211: 13 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-211-13-oct-2025-19g8)
+- [Understanding Subqueries in SQL and Building JSON Directly in PostgreSQL](https://dev.to/og_wunderkind/understanding-subqueries-in-sql-and-building-json-directly-in-postgresql-56d3)
+- [# Coginesux : Faire péter les neurones et les algorithmes 😎](https://dev.to/khadidja_bounadja_21df7d2/-coginesux-faire-peter-les-neurones-et-les-algorithmes-3dpj)
+- [Crypto Trading Myths Every Developer Should Know](https://dev.to/tradelinkpro/crypto-trading-myths-every-developer-should-know-abd)
+- [When you can&#39;t use serverless DMS](https://dev.to/wakeup_flower_8591a6cb6a9/when-you-cant-use-serverless-dms-430j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
