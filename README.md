@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [💥 Myth #15: Internal priorities are all that matter](https://dev.to/tmorin/myth-15-internal-priorities-are-all-that-matter-2ea2)
+- [3 Code Reading Techniques No Course Will Teach You](https://dev.to/canro91/3-code-reading-techniques-no-course-will-teach-you-12in)
+- [The Power of Shared Definitions](https://dev.to/branden-hernandez/the-power-of-shared-definitions-3j3p)
 - [Revisiting an Old Project — and the Endless Spiral of Dependencies](https://dev.to/olegelantsev/revisiting-an-old-project-and-the-endless-spiral-of-dependencies-4gf6)
 - [The AI Workflow Hack That Saves Agencies 15 Hours Per Week](https://dev.to/teamcamp/the-ai-workflow-hack-that-saves-agencies-15-hours-per-week-5208)
-- [Image blur detection using scipy](https://dev.to/tejaspatilblogs/image-blur-detection-using-scipy-1ilf)
-- [Day 12 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-12-of-100-days-dsa-coding-challenge-8co)
-- [Boost Response Clarity in Copilot Studio](https://dev.to/balagmadhu/boost-response-clarity-in-copilot-studio-36j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
