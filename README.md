@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Smush Alternatives for WordPress Image Optimization](https://dev.to/andreialba/best-smush-alternatives-for-wordpress-image-optimization-5hdn)
-- [GameSpot: 3D Vampire Survivors? YES PLEASE | Megabonk](https://dev.to/gg_news/gamespot-3d-vampire-survivors-yes-please-megabonk-47ei)
-- [IGN: Code Vein 2 Preview: New Moon, Same Blood](https://dev.to/gg_news/ign-code-vein-2-preview-new-moon-same-blood-37hb)
-- [IGN: The Running Man - Official Trailer #2 &lpar;2025&rpar; Glen Powell, William H. Macy, Lee Pace](https://dev.to/gg_news/ign-the-running-man-official-trailer-2-2025-glen-powell-william-h-macy-lee-pace-563l)
-- [Deploy n8n with Coolify: Self-Hosted Automation in Minutes](https://dev.to/jaskarandeogan/deploy-n8n-with-coolify-self-hosted-automation-in-minutes-457g)
+- [Amazon Bedrock AgentCore Runtime - Part 8 AgentCore Memory Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-8-agentcore-memory-observability-32pc)
+- [MongoDB Pagination: IXSCAN vs COLLSCAN and Building Efficient Page Bookmarks](https://dev.to/devaaai/mongodb-pagination-ixscan-vs-collscan-and-building-efficient-page-bookmarks-2087)
+- [Congrats to the Heroku &quot;Back to School&quot; AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-heroku-back-to-school-ai-challenge-winners-303h)
+- [WP Rocket Alternatives You Probably Never Heard Of &lpar;But Should Try&rpar;](https://dev.to/biancarus/wp-rocket-alternatives-you-probably-never-heard-of-but-should-try-1ecj)
+- [Hash Checker – A Lightweight Cross-Platform File Integrity Verification Tool](https://dev.to/tamld/hash-checker-a-lightweight-cross-platform-file-integrity-verification-tool-611)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
