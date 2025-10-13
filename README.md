@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code বনাম Cursor: ডেভেলপারদের জন্য সম্পূর্ণ তুলনা](https://dev.to/junaaid96/claude-code-bnaam-cursor-ddebhelpaarder-jny-smpuurnn-tulnaa-2a65)
 - [OSD600 Lab 5: Git rebases](https://dev.to/david_rivera_8d845b35931e/osd600-lab-5-git-rebases-2o4f)
 - [[Boost]](https://dev.to/bemvasion/-35n9)
 - [Machine Translation &lpar;MT&rpar;: Your Guide to the Basics](https://dev.to/testjace/machine-translation-mt-your-guide-to-the-basics-370n)
-- [💥 Myth #15: Internal priorities are all that matter](https://dev.to/tmorin/myth-15-internal-priorities-are-all-that-matter-2ea2)
-- [The Power of Shared Definitions](https://dev.to/branden-hernandez/the-power-of-shared-definitions-3j3p)
+- [3 Code Reading Techniques No Course Will Teach You](https://dev.to/canro91/3-code-reading-techniques-no-course-will-teach-you-12in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
