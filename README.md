@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 CSCP Exam Time Traps to Avoid | Pass Your Test](https://dev.to/nancy_smith/7-cscp-exam-time-traps-to-avoid-pass-your-test-428o)
-- [How I Stopped Fighting My AI Code Assistant and Started Building Better Software](https://dev.to/argonauta/how-i-stopped-fighting-my-ai-code-assistant-and-started-building-better-software-485n)
-- [Stop Using resize! You Might Be Missing Out on ResizeObserver](https://dev.to/jamie_wang_5a76e661ad80fa/stop-using-resize-you-might-be-missing-out-on-resizeobserver-4b0g)
-- [Mastering Optional in Java: Avoid NullPointerExceptions with Best Practices](https://dev.to/munaf_badarpura_3811f0ab1/mastering-optional-in-java-avoid-nullpointerexceptions-with-best-practices-3bnf)
-- [Building a Performance-Optimization Toolkit for Gamers — TechCalc Case Study](https://dev.to/naimesh_parikh_9295e7fa36/building-a-performance-optimization-toolkit-for-gamers-techcalc-case-study-4ei0)
+- [🤖 The Super Contributor Ascent: Code, Commitment, and the Chronicle of 13 Days](https://dev.to/ngtduc693/the-super-contributor-ascent-code-commitment-and-the-chronicle-of-13-days-8gn)
+- [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
+- [Discomfort isn’t the enemy: Lessons from 3 times I cried at work](https://dev.to/dvddpl/discomfort-isnt-the-enemy-lessons-from-3-times-i-cried-at-work-h51)
+- [ChatGPT Alternative for SQL Query Optimization](https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi)
+- [Understand __name__==&#39;main&#39; with two python files](https://dev.to/srinivasuluparanduru/understand-namemain-with-two-python-files-141d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
