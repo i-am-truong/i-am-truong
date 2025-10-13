@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DB Connection on Asp.net core](https://dev.to/ayusclg_/db-connection-on-aspnet-core-364a)
-- [Amazon Braket - Quantum Linguistic Security: Finnish Agglutinative Morphology Meets AI Defense](https://dev.to/aws-builders/amazon-braket-quantum-linguistic-security-finnish-agglutinative-morphology-meets-ai-defense-4oeg)
-- [Google Knows More About You Than You Think](https://dev.to/nightmare-lynx/google-knows-more-about-you-than-you-think-14g8)
-- [Reactive, Strongly-Typed Configuration in .NET: Introducing Cocoar.Configuration v3.0](https://dev.to/cocoar/reactive-strongly-typed-configuration-in-net-introducing-cocoarconfiguration-v30-3gbn)
-- [Why “Hackers Are Criminals” Is an Outdated View](https://dev.to/nightmare-lynx/why-hackers-are-criminals-is-an-outdated-view-11hf)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-lp)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-31go)
+- [🔥 How I Built a High-Performance AI-Powered Chatbot with Deno and No Frameworks &lpar;Seriously!&rpar; 👨‍💻🤯](https://dev.to/ekwoster/how-i-built-a-high-performance-ai-powered-chatbot-with-deno-and-no-frameworks-seriously-5h4g)
+- [🌎 “i18n Demystified: How to Make Your App Speak Any Language Effortlessly”](https://dev.to/charan_gutti_cf60c6185074/i18n-demystified-how-to-make-your-app-speak-any-language-effortlessly-2bl8)
+- [Know the History of AI: Build Your Own Rule-Based Expert System in C#](https://dev.to/auyeungdavid_2847435260/know-the-history-of-ai-build-your-own-rule-based-expert-system-in-c-490a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
