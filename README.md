@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop drifting around in the dark when using &quot;any&quot; and &quot;unknown&quot; TypeScript types](https://dev.to/this-is-learning/stop-drifting-around-in-the-dark-when-using-any-and-unknown-typescript-types-1p47)
-- [Your Enterprise is Drowning in Complexity. It is Time for an Agentic AI Lifeline.](https://dev.to/mcleanforresterllc/your-enterprise-is-drowning-in-complexity-it-is-time-for-an-agentic-ai-lifeline-a7e)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_7be3cb2a/beyond-env-a-grown-ups-guide-to-application-configuration-4poh)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_02ee41d0/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-2d09)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_c329f31b/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-6ho)
+- [Google Knows More About You Than You Think](https://dev.to/nightmare-lynx/google-knows-more-about-you-than-you-think-14g8)
+- [Reactive, Strongly-Typed Configuration in .NET: Introducing Cocoar.Configuration v3.0](https://dev.to/cocoar/reactive-strongly-typed-configuration-in-net-introducing-cocoarconfiguration-v30-3gbn)
+- [Why “Hackers Are Criminals” Is an Outdated View](https://dev.to/nightmare-lynx/why-hackers-are-criminals-is-an-outdated-view-11hf)
+- [Random number generator in java script](https://dev.to/arun_kumar_98/random-number-generator-in-java-script-4gmi)
+- [Machine Learning Applications: The Smart Technology Behind Everyday Life](https://dev.to/phoneexits/machine-learning-applications-the-smart-technology-behind-everyday-life-3oho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
