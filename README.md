@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the C# Dispose Pattern](https://dev.to/ivankahl/mastering-the-c-dispose-pattern-35m1)
-- [Top Developer Productivity Tools 2025](https://dev.to/sonalisood14/top-developer-productivity-tools-2025-31n3)
-- [I Built DevSheets.io - A Modern Cheat Sheet Site for Developers &lpar;And Why We Still Need Them&rpar;](https://dev.to/bradtraversy/i-built-devsheetsio-a-modern-cheat-sheet-site-for-developers-and-why-we-still-need-them-31bp)
-- [Understanding app.config.ts in Angular 19 Standalone Applications — A Complete Guide](https://dev.to/prateek_kr/understanding-appconfigts-in-angular-19-standalone-applications-a-complete-guide-5coh)
-- [Build a Perfect Blog with FastAPI: Filter by Tag](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-filter-by-tag-ngo)
+- [How to analyse an image with GPT 5 — a practical, production-ready guide](https://dev.to/prateek_kr/how-to-analyse-an-image-with-gpt-5-a-practical-production-ready-guide-5b51)
+- [A Complete Guide to Building Enterprise-Grade AI Assistants on Google Cloud &lpar;No-Code&rpar;](https://dev.to/valiavl/a-complete-guide-to-building-enterprise-grade-ai-assistants-on-google-cloud-no-code-316p)
+- [How to think like a software architect?](https://dev.to/tecnovy_academy/how-to-think-like-a-software-architect-2f51)
+- [Why Are AI Voice Agents Becoming the New Normal in 2025?](https://dev.to/infutrix/why-are-ai-voice-agents-becoming-the-new-normal-in-2025-18d3)
+- [TUGAS &lpar;komponen dasar&rpar;](https://dev.to/sandatya_widhi_ce7cb1c809/latihan-soal-komponen-dasar-k2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
