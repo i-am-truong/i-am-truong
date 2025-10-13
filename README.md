@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to analyse an image with GPT 5 — a practical, production-ready guide](https://dev.to/prateek_kr/how-to-analyse-an-image-with-gpt-5-a-practical-production-ready-guide-5b51)
-- [A Complete Guide to Building Enterprise-Grade AI Assistants on Google Cloud &lpar;No-Code&rpar;](https://dev.to/valiavl/a-complete-guide-to-building-enterprise-grade-ai-assistants-on-google-cloud-no-code-316p)
-- [How to think like a software architect?](https://dev.to/tecnovy_academy/how-to-think-like-a-software-architect-2f51)
-- [Why Are AI Voice Agents Becoming the New Normal in 2025?](https://dev.to/infutrix/why-are-ai-voice-agents-becoming-the-new-normal-in-2025-18d3)
-- [TUGAS &lpar;komponen dasar&rpar;](https://dev.to/sandatya_widhi_ce7cb1c809/latihan-soal-komponen-dasar-k2a)
+- [Meme Monday](https://dev.to/ben/meme-monday-3n52)
+- [What is Agile?](https://dev.to/burakboduroglu/what-is-agile-2b2k)
+- [Why Learning Artificial Intelligence is the Smartest Career Move Today](https://dev.to/cs_vishnukumar_c7ab67ff18/why-learning-artificial-intelligence-is-the-smartest-career-move-today-1gkb)
+- [🚫Never Use finalize&lpar;&rpar; in Java](https://dev.to/mohamad_mhana/never-use-finalize-in-java-3hpo)
+- [Containerization for Data Engineering: A Practical Guide with Docker and Docker Compose](https://dev.to/augo_amos/containerization-for-data-engineering-a-practical-guide-with-docker-and-docker-compose-241n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
