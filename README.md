@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Mastering the Dictionary, Counting Character Frequency](https://dev.to/shahrouzlogs/day-3-mastering-the-dictionary-counting-character-frequency-43f)
-- [From Giants to Minis - The Emergence of Small Language Models](https://dev.to/rijultp/from-giants-to-minis-the-emergence-of-small-language-models-1mg4)
-- [Record, Class και Struct στη C# — Αναλυτική Επεξήγηση με Παραδείγματα](https://dev.to/__b63657/record-class-kai-struct-ste-c-analutike-epexegese-me-paradeigmata-1il5)
-- [GitHub Actions: Why You Should Pin Your Actions to a Specific Version](https://dev.to/ciberconscientes/github-actions-why-you-should-pin-your-actions-to-a-specific-version-1513)
-- [While Loop](https://dev.to/arun_kumar_98/while-loop-igk)
+- [🧠 Comunicando o Entity Framework .NET com LLM](https://dev.to/daniloopinheiro/comunicando-o-entity-framework-net-com-llm-5352)
+- [Introducing RCParsing - brand new .NET framework for DSLs and data scrapers](https://dev.to/romecore/introducing-rcparsing-brand-new-net-framework-for-dsls-and-data-scrapers-29ko)
+- [Python basics - Day 06](https://dev.to/ian_b838138a27a917398d181/python-basics-day-06-50i)
+- [Building a Reusable AWS Governance Library with CDK: Constructs, Blueprints, and Aspects](https://dev.to/andreparis/building-a-reusable-aws-governance-library-with-cdk-constructs-blueprints-and-aspects-5dl8)
+- [Hello World Has Entered the Chat: Engineering a Scalable Chatroom with gRPC &lpar;Part 1 - Foundations&rpar;](https://dev.to/frederikoadr/hello-world-has-entered-the-chat-engineering-a-scalable-chatroom-with-grpc-part-1-foundations-27e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
