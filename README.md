@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mock REST APIs in 2 minutes](https://dev.to/mockapihub/mock-rest-apis-in-2-minutes-ep9)
-- [12 Free Developer Tools I Built For Developers &lpar;No Sign-Up Required&rpar;](https://dev.to/glockx/12-free-developer-tools-i-built-for-developers-no-sign-up-required-1hjc)
-- [The frequency of feeling — why sound hits deeper than words?](https://dev.to/gift_song_9c89f7551b1c29f/the-frequency-of-feeling-why-sound-hits-deeper-than-words-2j9f)
-- [Auto-Blog: AI Blog Generator with Next.js and Local AI](https://dev.to/jqueryscript/auto-blog-ai-blog-generator-with-nextjs-and-local-ai-5d3a)
-- [&lpar;basic&rpar; Provision VirtualBox Ubuntu VM Server on MacOS](https://dev.to/halton-zhou/basic-provision-virtualbox-ubuntu-vm-server-on-macos-46lk)
+- [Making Sense of Azure API Center: Discoverability with Guardrails](https://dev.to/adaptivanz/making-sense-of-azure-api-center-discoverability-with-guardrails-4o7)
+- [How I Escaped the 8-Hour Editing Grind and Found My Creative Joy Again](https://dev.to/15minutes/how-i-escaped-the-8-hour-editing-grind-and-found-my-creative-joy-again-674)
+- [The Agent Mesh &amp; the Integration Renaissance](https://dev.to/webmethodman/the-agent-mesh-the-integration-renaissance-593p)
+- [Why “Faster Time to Market” Is the Best QA Sales Promise](https://dev.to/radha_4c842d8e4362a7cdd9c/why-faster-time-to-market-is-the-best-qa-sales-promise-4nd0)
+- [Exploring Dynamic Visual Effects in CSS with Transform and Animation](https://dev.to/jamie_wang_5a76e661ad80fa/exploring-dynamic-visual-effects-in-css-with-transform-and-animation-2522)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
