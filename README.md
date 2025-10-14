@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your React App Breaks When You Refresh on Vercel &lpar;And the 2-Minute Fix&rpar;](https://dev.to/abrahambishopcodes/why-your-react-app-breaks-when-you-refresh-on-vercel-and-the-2-minute-fix-1991)
-- [How do developers estimate the cost of modifying existing software for new use cases?](https://dev.to/andrew_murphy_ffa4011bec3/how-do-developers-estimate-the-cost-of-modifying-existing-software-for-new-use-cases-469i)
-- [Entendendo o uso de record e DTO com java](https://dev.to/gregoriohd/entendendo-o-uso-de-record-e-dto-com-java-1f8k)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_7be3cb2a/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-4bam)
-- [wisu: a fast, minimalist directory tree viewer with an interactive TUI &lpar;written in Rust&rpar;](https://dev.to/sh1zen/wisu-a-fast-minimalist-directory-tree-viewer-with-an-interactive-tui-written-in-rust-583h)
+- [Mock REST APIs in 2 minutes](https://dev.to/mockapihub/mock-rest-apis-in-2-minutes-ep9)
+- [12 Free Developer Tools I Built For Developers &lpar;No Sign-Up Required&rpar;](https://dev.to/glockx/12-free-developer-tools-i-built-for-developers-no-sign-up-required-1hjc)
+- [The frequency of feeling — why sound hits deeper than words?](https://dev.to/gift_song_9c89f7551b1c29f/the-frequency-of-feeling-why-sound-hits-deeper-than-words-2j9f)
+- [Auto-Blog: AI Blog Generator with Next.js and Local AI](https://dev.to/jqueryscript/auto-blog-ai-blog-generator-with-nextjs-and-local-ai-5d3a)
+- [&lpar;basic&rpar; Provision VirtualBox Ubuntu VM Server on MacOS](https://dev.to/halton-zhou/basic-provision-virtualbox-ubuntu-vm-server-on-macos-46lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
