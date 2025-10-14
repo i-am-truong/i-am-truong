@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a complete media center on Nanocl](https://dev.to/0xle0ne/deploy-a-complete-media-center-on-nanocl-23kc)
+- [The State of Apache Iceberg v4 - October 2025 Edition](https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-v4-october-2025-edition-3c4i)
+- [10 Global Problems AI Can Solve and Why the Future Needs Us to Build Responsibly](https://dev.to/aws-builders/10-global-problems-ai-can-solve-and-why-the-future-needs-us-to-build-responsibly-4g10)
+- [𝗪𝗵𝘆 𝗔𝗜 𝗪𝗼𝗻’𝘁 𝗥𝗲𝗽𝗹𝗮𝗰𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 &lpar;at least until ~2030–2033&rpar;](https://dev.to/omarambat/-at-least-until-2030-2033-4e1o)
 - [What&#39;s your biggest Docker pain point? Have you tried multi-stage builds? Drop your optimization tips below! 👇](https://dev.to/saheed_ea3f3e90be19db2eac/whats-your-biggest-docker-pain-point-have-you-tried-multi-stage-builds-drop-your-optimization-1n1o)
-- [How Does the Ahrefs Backlink Checker Work and What Data Does It Provide?](https://dev.to/mai_vyly_ee49a19af579f4d/how-does-the-ahrefs-backlink-checker-work-and-what-data-does-it-provide-2fbe)
-- [Looking for Feedback on my .NET library - CliInvoke](https://dev.to/alastairlundy/looking-for-feedback-on-my-net-library-cliinvoke-12i4)
-- [Green Growth: How SMEs Can Lead in Sustainable Plastics Recycling](https://dev.to/daniel-sparks/green-growth-how-smes-can-lead-in-sustainable-plastics-recycling-5bog)
-- [The Systems That Survive: Four Years of War and the Math of Crisis Leadership](https://dev.to/razoorka/the-systems-that-survive-four-years-of-war-and-the-math-of-crisis-leadership-469l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
