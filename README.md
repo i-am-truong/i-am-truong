@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Asyncio Architecture in Python: Event Loops, Tasks, and Futures Explained](https://dev.to/imsushant12/asyncio-architecture-in-python-event-loops-tasks-and-futures-explained-4pn3)
 - [The Future of IoT Monitoring: Key Features Every Dashboard Should Have](https://dev.to/william_smith/the-future-of-iot-monitoring-key-features-every-dashboard-should-have-49dh)
 - [🚀How I released my App for Free &lpar;💪🧠Muscle Brain&rpar;](https://dev.to/webdeveloperhyper/how-i-released-my-app-for-free-muscle-brain-44p8)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2p40)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-m2k)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-ghk)
+- [Mocking APIs in Azure: An Overview with Practical Examples](https://dev.to/adaptivanz/mocking-apis-in-azure-an-overview-with-practical-examples-442b)
+- [E2E Test: Oxide CMS to Dev.to Integration](https://dev.to/richet/e2e-test-oxide-cms-to-devto-integration-3jl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
