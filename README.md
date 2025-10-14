@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Front-End Development: Component-Driven in 2025 and Beyond 🌐](https://dev.to/tahamjp/the-future-of-front-end-development-component-driven-in-2025-and-beyond-4mni)
 - [How to Use Prisma ORM with Astro](https://dev.to/amanvarshney01/how-to-use-prisma-orm-with-astro-1m0p)
+- [Seamless OTA Upgrades with RAUC on OK8MM Linux](https://dev.to/ronnie_r_152dc2151d9449c6/seamless-ota-upgrades-with-rauc-on-ok8mm-linux-3bec)
 - [Building a High-Performance Keccak-256 Extension for PHP: 14-16 Faster](https://dev.to/buildcoreworks/building-a-high-performance-keccak-256-extension-for-php-14-16-faster-57il)
 - [🧠 Usability Testing: The Secret to Creating Web Interfaces People Actually Love Using](https://dev.to/okoye_ndidiamaka_5e3b7d30/usability-testing-the-secret-to-creating-web-interfaces-people-actually-love-using-6i4)
-- [⚡️ Surviving Azure’s Cloud Maze: DevOps Disaster Recovery, Network Wizardry &amp; Bare-Metal Deployments [Week-6] 🌩️](https://dev.to/suvrajeet/surviving-azures-cloud-maze-devops-disaster-recovery-network-wizardry-bare-metal-41d5)
-- [Happy to share in the current era of AI and Zero Carbonization](https://dev.to/jottyjohn/happy-to-share-in-the-current-era-of-ai-and-zero-carbonization-218c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
