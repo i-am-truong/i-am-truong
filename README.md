@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Start with a slice: 7 steps to get your new design system moving](https://dev.to/measuredco/start-with-a-slice-7-steps-to-get-your-new-design-system-moving-4951)
 - [learning Erlang step by step[2]](https://dev.to/sengseng/learning-erlangstep-by-step2-2401)
 - [【Minecraft BE】Proximity Voice Chat Advanced Settings](https://dev.to/kkr1212/minecraft-be-proximity-voice-chat-advanced-settings-598e)
 - [Effortless Data Mapping in Symfony: A Deep Dive into the ObjectMapper!](https://dev.to/mattleads/effortless-data-mapping-in-symfony-a-deep-dive-into-the-objectmapper-26am)
 - [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_fafe1668/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-2hck)
-- [Building the “Confidence Layer” in an Indian Used Car Marketplace: Why It Matters &amp; How We’re Doing It](https://dev.to/viktoriaholikova/building-the-confidence-layer-in-an-indian-used-car-marketplace-why-it-matters-how-were-doing-2nmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
