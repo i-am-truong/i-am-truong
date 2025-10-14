@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [What&#39;s your biggest Docker pain point? Have you tried multi-stage builds? Drop your optimization tips below! 👇](https://dev.to/saheed_ea3f3e90be19db2eac/whats-your-biggest-docker-pain-point-have-you-tried-multi-stage-builds-drop-your-optimization-1n1o)
+- [How Does the Ahrefs Backlink Checker Work and What Data Does It Provide?](https://dev.to/mai_vyly_ee49a19af579f4d/how-does-the-ahrefs-backlink-checker-work-and-what-data-does-it-provide-2fbe)
 - [Looking for Feedback on my .NET library - CliInvoke](https://dev.to/alastairlundy/looking-for-feedback-on-my-net-library-cliinvoke-12i4)
 - [Green Growth: How SMEs Can Lead in Sustainable Plastics Recycling](https://dev.to/daniel-sparks/green-growth-how-smes-can-lead-in-sustainable-plastics-recycling-5bog)
 - [The Systems That Survive: Four Years of War and the Math of Crisis Leadership](https://dev.to/razoorka/the-systems-that-survive-four-years-of-war-and-the-math-of-crisis-leadership-469l)
-- [Selecting the appropriate Docker base image](https://dev.to/u11d/selecting-the-appropriate-docker-base-image-2126)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
