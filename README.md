@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Translation Industry Trends](https://dev.to/qa_expert/top-10-translation-industry-trends-286g)
-- [One Platform. Total Context. The Secret Behind Clariti’s Seamless Team Collaboration](https://dev.to/clariti_22_6e89b280ccd102/one-platform-total-context-the-secret-behind-claritis-seamless-team-collaboration-43mp)
-- [ShockWave Therapy — full guide to the technology, how it works, uses, risks and practical details](https://dev.to/dot_clinics/shockwave-therapy-full-guide-to-the-technology-how-it-works-uses-risks-and-practical-details-53nh)
-- [How Oracle SQL and PL/SQL Power Real-World Enterprise Solutions](https://dev.to/vishal_more_02990955c9358/how-oracle-sql-and-plsql-power-real-world-enterprise-solutions-3ife)
-- [How I Streamlined My Research and Writing Workflow](https://dev.to/derek_fowler_8efe8716c3fe/how-i-streamlined-my-research-and-writing-workflow-kbi)
+- [Offline AI in React Native: Smarter Apps Without the Cloud](https://dev.to/ripenapps-technologies/offline-ai-in-react-native-smarter-apps-without-the-cloud-5cpm)
+- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-1le9)
+- [Stop Clunky Web3 Onboarding &lpar;2025 Update&rpar;](https://dev.to/estelleatthenook/stop-clunky-web3-onboarding-2025-update-169c)
+- [Automate Homebrew Updates on macOS &lpar;Once a Day, Silently&rpar;](https://dev.to/achal_rajyaguru_693e42d79/automate-homebrew-updates-on-macos-once-a-day-silently-2b7a)
+- [How I Integrate LangGraph with Other AI Tools](https://dev.to/ciphernutz/how-i-integrate-langgraph-with-other-ai-tools-3578)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
