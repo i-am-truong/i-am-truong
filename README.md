@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 2: Troubleshooting Real-World Issues](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-2-troubleshooting-real-world-429d)
-- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 1: Complete Setup Guide](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-1-complete-setup-guide-lgd)
-- [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
-- [Refactoring 035 - Separate Exception Types](https://dev.to/mcsee/refactoring-035-separate-exception-types-179j)
-- [Modern Warfare 2 HWID Spoofer: DON&#39;T Use One Before You Read This!](https://dev.to/tun_hunh_6164f4c1d2daf6/modern-warfare-2-hwid-spoofer-dont-use-one-before-you-read-this-f9o)
+- [Building the “Confidence Layer” in an Indian Used Car Marketplace: Why It Matters &amp; How We’re Doing It](https://dev.to/viktoriaholikova/building-the-confidence-layer-in-an-indian-used-car-marketplace-why-it-matters-how-were-doing-2nmb)
+- [AI for Coding: Transforming Software Development in 2025](https://dev.to/alok_kumar_6b77341922cec2/ai-for-coding-transforming-software-development-in-2025-19bh)
+- [Code for a Better Planet: Hacking UN SDGs 7-12 with Big Data](https://dev.to/vitalisorenko/code-for-a-better-planet-hacking-un-sdgs-7-12-with-big-data-53hk)
+- [From Petabytes to Progress: Hacking the UN&#39;s Sustainable Development Goals](https://dev.to/zhangwei42/from-petabytes-to-progress-hacking-the-uns-sustainable-development-goals-5cpn)
+- [Hacking the Classroom: How Big Data &amp; Real-Time Analytics Can Fix Education](https://dev.to/ahmmrizv9/hacking-the-classroom-how-big-data-real-time-analytics-can-fix-education-5aea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
