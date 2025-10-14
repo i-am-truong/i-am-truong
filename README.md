@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a complete media center on Nanocl](https://dev.to/0xle0ne/deploy-a-complete-media-center-on-nanocl-23kc)
-- [The State of Apache Iceberg v4 - October 2025 Edition](https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-v4-october-2025-edition-3c4i)
-- [10 Global Problems AI Can Solve and Why the Future Needs Us to Build Responsibly](https://dev.to/aws-builders/10-global-problems-ai-can-solve-and-why-the-future-needs-us-to-build-responsibly-4g10)
-- [𝗪𝗵𝘆 𝗔𝗜 𝗪𝗼𝗻’𝘁 𝗥𝗲𝗽𝗹𝗮𝗰𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 &lpar;at least until ~2030–2033&rpar;](https://dev.to/omarambat/-at-least-until-2030-2033-4e1o)
-- [What&#39;s your biggest Docker pain point? Have you tried multi-stage builds? Drop your optimization tips below! 👇](https://dev.to/saheed_ea3f3e90be19db2eac/whats-your-biggest-docker-pain-point-have-you-tried-multi-stage-builds-drop-your-optimization-1n1o)
+- [Hidden Gems in Azure SQL: Useful Commands, Functions &amp; Keywords You Should Know](https://dev.to/sanjay_bhujbal_533cfed9b6/hidden-gems-in-azure-sql-useful-commands-functions-keywords-you-should-know-33fo)
+- [Bug fixes for neural web](https://dev.to/okerew/bug-fixes-for-neural-web-1inm)
+- [TinyGo Magic: Build Lightning-Fast IoT Apps with Only 512KB RAM!](https://dev.to/ekwoster/tinygo-magic-build-lightning-fast-iot-apps-with-only-512kb-ram-29im)
+- [3 Pitfalls Most Developers Fall Into When Using AI for Code, and How I Fix Them with Crevo](https://dev.to/crevo_team/3-pitfalls-most-developers-fall-into-when-using-ai-for-code-and-how-i-fix-them-with-crevo-4e6c)
+- [RealFi is the financial revolution we need](https://dev.to/bydotun/realfi-is-the-financial-revolution-we-need-4ad6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
