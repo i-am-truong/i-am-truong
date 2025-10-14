@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌀 I Built a Naruto Fighting Game in Python - You Can Make Your Own Story!](https://dev.to/don_c_37136a93373a30b00fa/i-built-a-naruto-fighting-game-in-python-and-you-can-make-your-own-story-2e1h)
+- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-1a9)
+- [Rick Beato: Justin Hawkins And Rick Beato Ride Again!](https://dev.to/music_youtube/rick-beato-justin-hawkins-and-rick-beato-ride-again-5b5h)
 - [IGN: Black Phone 2 Review](https://dev.to/gg_news/ign-black-phone-2-review-phm)
 - [IGN: Send Help - Official Trailer &lpar;2026&rpar; Rachel McAdams, Dylan O&#39;Brien](https://dev.to/gg_news/ign-send-help-official-trailer-2026-rachel-mcadams-dylan-obrien-5318)
-- [Bridging Worlds: AI&#39;s Breakthrough in Nepali Sign Language](https://dev.to/arvind_sundararajan/bridging-worlds-ais-breakthrough-in-nepali-sign-language-2c5l)
-- [Dynamic Styling with calc&lpar;&rpar; in TailwindCSS](https://dev.to/devarshishimpi/dynamic-styling-with-calc-in-tailwindcss-5pp)
-- [Ringer Movies: ‘Sneakers’ With Bill Simmons, Kyle Brandt, and Joanna Robinson](https://dev.to/popcorn_movies/ringer-movies-sneakers-with-bill-simmons-kyle-brandt-and-joanna-robinson-3hd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
