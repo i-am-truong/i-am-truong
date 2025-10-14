@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MySQL vs PostgreSQL: Understanding the differences](https://dev.to/harry_do/mysql-vs-postgresql-understanding-the-differences-167k)
+- [learning Erlang step by step[1]](https://dev.to/sengseng/learning-erlang-step-by-step1-16fe)
+- [How a quartz crystal works in a microcontroller?](https://dev.to/carolineee/how-a-quartz-crystal-works-in-a-microcontroller-4lhf)
 - [Offline AI in React Native: Smarter Apps Without the Cloud](https://dev.to/ripenapps-technologies/offline-ai-in-react-native-smarter-apps-without-the-cloud-5cpm)
-- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-1le9)
-- [Stop Clunky Web3 Onboarding &lpar;2025 Update&rpar;](https://dev.to/estelleatthenook/stop-clunky-web3-onboarding-2025-update-169c)
-- [Automate Homebrew Updates on macOS &lpar;Once a Day, Silently&rpar;](https://dev.to/achal_rajyaguru_693e42d79/automate-homebrew-updates-on-macos-once-a-day-silently-2b7a)
-- [How I Integrate LangGraph with Other AI Tools](https://dev.to/ciphernutz/how-i-integrate-langgraph-with-other-ai-tools-3578)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_02ee41d0/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-5ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
