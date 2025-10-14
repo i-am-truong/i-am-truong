@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI: The Next Evolution of Autonomous Intelligence](https://dev.to/aziro_tech_8cf3f347e4e95b/agentic-ai-the-next-evolution-of-autonomous-intelligence-4ki7)
-- [10 things to do before you release a new API version for external consumers](https://dev.to/reshab_agarwal/10-things-to-do-before-you-release-a-new-api-version-for-external-consumers-5fme)
-- [Getting started with Goose on Windows](https://dev.to/lymah/getting-started-with-goose-on-windows-30bh)
-- [🛠 How to Approach Building Software](https://dev.to/mohamad_mhana/how-to-approach-building-software-373i)
-- [Start with a slice: 7 steps to get your new design system moving](https://dev.to/measuredco/start-with-a-slice-7-steps-to-get-your-new-design-system-moving-4951)
+- [A Programmer&#39;s Guide to Logging Best Practices](https://dev.to/dash0/a-programmers-guide-to-logging-best-practices-25m8)
+- [10 Fixes to Boost Your Ranking &amp; Performance of Static Site 🚀](https://dev.to/lovestaco/10-fixes-to-boost-your-ranking-performance-of-static-site-216g)
+- [Building and Using Crypto Portfolio Tracking Apps: A Developer’s Perspective](https://dev.to/tradelinkpro/building-and-using-crypto-portfolio-tracking-apps-a-developers-perspective-16k3)
+- [Google Cloud Platform &lpar;GCP&rpar; quick Introduction to unlock the cloud](https://dev.to/teleglobalintermational/google-cloud-platform-gcp-quick-introduction-to-unlock-the-cloud-20d1)
+- [Building a Production-Ready URL Shortener with NestJS, Supabase, and Redis: A Complete Journey](https://dev.to/jeremiah_ankucoblah_e1d5/building-a-production-ready-url-shortener-with-nestjs-supabase-and-redis-a-complete-journey-2ogb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
