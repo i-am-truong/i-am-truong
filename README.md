@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 08 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-08-of-my-ai-data-mastery-journey-from-python-to-generative-ai-2pnd)
+- [Small Beats Big: The Tiny Recursive Model Outsmarting Giants](https://dev.to/aiwithapex/small-beats-big-the-tiny-recursive-model-outsmarting-giants-4dnk)
+- [Telegram 数据库的奥秘与应用](https://dev.to/tgdatabaseset/telegram-shu-ju-ku-de-ao-mi-yu-ying-yong-17nm)
 - [Asyncio Architecture in Python: Event Loops, Tasks, and Futures Explained](https://dev.to/imsushant12/asyncio-architecture-in-python-event-loops-tasks-and-futures-explained-4pn3)
-- [The Future of IoT Monitoring: Key Features Every Dashboard Should Have](https://dev.to/william_smith/the-future-of-iot-monitoring-key-features-every-dashboard-should-have-49dh)
-- [🚀How I released my App for Free &lpar;💪🧠Muscle Brain&rpar;](https://dev.to/webdeveloperhyper/how-i-released-my-app-for-free-muscle-brain-44p8)
-- [Mocking APIs in Azure: An Overview with Practical Examples](https://dev.to/adaptivanz/mocking-apis-in-azure-an-overview-with-practical-examples-442b)
-- [E2E Test: Oxide CMS to Dev.to Integration](https://dev.to/richet/e2e-test-oxide-cms-to-devto-integration-3jl4)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_7be3cb2a/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4pp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
