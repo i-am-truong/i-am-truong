@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making Sense of Azure API Center: Discoverability with Guardrails](https://dev.to/adaptivanz/making-sense-of-azure-api-center-discoverability-with-guardrails-4o7)
-- [How I Escaped the 8-Hour Editing Grind and Found My Creative Joy Again](https://dev.to/15minutes/how-i-escaped-the-8-hour-editing-grind-and-found-my-creative-joy-again-674)
-- [The Agent Mesh &amp; the Integration Renaissance](https://dev.to/webmethodman/the-agent-mesh-the-integration-renaissance-593p)
-- [Why “Faster Time to Market” Is the Best QA Sales Promise](https://dev.to/radha_4c842d8e4362a7cdd9c/why-faster-time-to-market-is-the-best-qa-sales-promise-4nd0)
-- [Exploring Dynamic Visual Effects in CSS with Transform and Animation](https://dev.to/jamie_wang_5a76e661ad80fa/exploring-dynamic-visual-effects-in-css-with-transform-and-animation-2522)
+- [Daily Artificial Intelligence Digest - Oct 14, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-14-2025-1ba1)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_fafe1668/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-9o4)
+- [The Cryptocurrency Market: Lessons from Downturns and Fundamentals](https://dev.to/krikri2025/the-cryptocurrency-market-lessons-from-downturns-and-fundamentals-474m)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_02ee41d0/your-projects-a-mess-its-not-you-its-your-frameworks-fault-ogc)
+- [Success Story: Abhishek Chavan’s Learning Journey with 101 Blockchains - 101 Blockchains #262223](https://dev.to/calgo_62400343865ec0ae72a/success-story-abhishek-chavans-learning-journey-with-101-blockchains-101-blockchains-262223-2jmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
