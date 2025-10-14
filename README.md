@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Setting Up Prisma + PostgreSQL in a Monorepo &lpar;TurboRepo + PNPM + Node.js&rpar;](https://dev.to/wasimadildev/setting-up-prisma-postgresql-in-a-monorepo-turborepo-pnpm-nodejs-30ah)
 - [Setting Up Prisma + PostgreSQL in a Monorepo &lpar;TurboRepo + PNPM + Node.js&rpar;](https://dev.to/wasimadildev/setting-up-prisma-postgresql-in-a-monorepo-turborepo-pnpm-nodejs-4knd)
+- [Run html from codespace 🔥](https://dev.to/ritumka/run-html-from-codespace-1n5i)
 - [Depurando um crash de use-after-free no meniOS](https://dev.to/pbalduino/depurando-um-crash-de-use-after-free-no-menios-2140)
 - [Building High-Availability Web Apps on AWS: Auto Scaling, ALB, and Private Subnets](https://dev.to/shreyas_yadav_e6fbf9ad3f6/building-high-availability-web-apps-on-aws-auto-scaling-alb-and-private-subnets-48a9)
-- [🌀 I Built a Naruto Fighting Game in Python - You Can Make Your Own Story!](https://dev.to/don_c_37136a93373a30b00fa/i-built-a-naruto-fighting-game-in-python-and-you-can-make-your-own-story-2e1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
