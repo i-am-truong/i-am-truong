@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Banning Kids From Social Media Will Fail &lpar;And What We Should Do Instead&rpar;](https://dev.to/web4/why-banning-kids-from-social-media-will-fail-and-what-we-should-do-instead-3glk)
+- [I cannot believe this case hasn’t made national headlines yet. The scale of deception and the strength of the founder deserve public attention.](https://dev.to/ciarraverse/i-cannot-believe-this-case-hasnt-made-national-headlines-yet-the-scale-of-deception-and-the-ckb)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_c329f31b/that-real-time-headache-its-not-the-websockets-its-your-framework-347f)
 - [Search Engines Are Dead, Meet Answer Engines](https://dev.to/dct_technology/search-engines-are-dead-meet-answer-engines-3mil)
-- [Explaining the PACELC theorem to new hires](https://dev.to/fahimulhaq/explaining-the-pacelc-theorem-to-new-hires-2de2)
-- [🧠Introducing OrKa Cloud API](https://dev.to/marcosomma/introducing-orka-cloud-api-5pl)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_02ee41d0/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1ccc)
-- [Making AWS Event-bridge Cron Expressions Configurable with Azure DevOps and CDKTF](https://dev.to/lokesh_vangari_a671430724/making-aws-event-bridge-cron-expressions-configurable-with-azure-devops-and-cdktf-3hh4)
+- [Eric Albuja on How Sustainable Tech Is Shaping the Future of Luxury Tourism](https://dev.to/ericalbujadallastx/eric-albuja-on-how-sustainable-tech-is-shaping-the-future-of-luxury-tourism-3cdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
