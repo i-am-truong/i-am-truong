@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [learning Erlang step by step[2]](https://dev.to/sengseng/learning-erlangstep-by-step2-2401)
+- [【Minecraft BE】Proximity Voice Chat Advanced Settings](https://dev.to/kkr1212/minecraft-be-proximity-voice-chat-advanced-settings-598e)
+- [Effortless Data Mapping in Symfony: A Deep Dive into the ObjectMapper!](https://dev.to/mattleads/effortless-data-mapping-in-symfony-a-deep-dive-into-the-objectmapper-26am)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_fafe1668/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-2hck)
 - [Building the “Confidence Layer” in an Indian Used Car Marketplace: Why It Matters &amp; How We’re Doing It](https://dev.to/viktoriaholikova/building-the-confidence-layer-in-an-indian-used-car-marketplace-why-it-matters-how-were-doing-2nmb)
-- [AI for Coding: Transforming Software Development in 2025](https://dev.to/alok_kumar_6b77341922cec2/ai-for-coding-transforming-software-development-in-2025-19bh)
-- [Code for a Better Planet: Hacking UN SDGs 7-12 with Big Data](https://dev.to/vitalisorenko/code-for-a-better-planet-hacking-un-sdgs-7-12-with-big-data-53hk)
-- [From Petabytes to Progress: Hacking the UN&#39;s Sustainable Development Goals](https://dev.to/zhangwei42/from-petabytes-to-progress-hacking-the-uns-sustainable-development-goals-5cpn)
-- [Hacking the Classroom: How Big Data &amp; Real-Time Analytics Can Fix Education](https://dev.to/ahmmrizv9/hacking-the-classroom-how-big-data-real-time-analytics-can-fix-education-5aea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
