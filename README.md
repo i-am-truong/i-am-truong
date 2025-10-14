@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🏦 Day 14 of #30DaysOfSolidity — Building a Smart Bank with Modular Deposit Boxes &lpar;Interface + Foundry&rpar;](https://dev.to/sauravkumar8178/day-14-of-30daysofsolidity-building-a-smart-bank-with-modular-deposit-boxes-interface--4hok)
 - [Session: Deconstructing the Future of Private Messaging - Is This Truly the Most Secure Messenger?](https://dev.to/bryan_ignaciocastro_6c96/session-deconstructing-the-future-of-private-messaging-is-this-truly-the-most-secure-messenger-17pp)
 - [Autonomous AI Employee](https://dev.to/kolomeitsev/autonomous-ai-employee-15pp)
 - [Synthetic Data for RAG: Safe Generation, Deduplication, and Drift-Aware Curation in 2025](https://dev.to/kuldeep_paul/synthetic-data-for-rag-safe-generation-deduplication-and-drift-aware-curation-in-2025-3298)
 - [💡Idea: Using VPN-Type Virtual Links for Secure IoT Data Flow](https://dev.to/hassamdev/idea-using-vpn-type-virtual-links-for-secure-iot-data-flow-4f29)
-- [International Travel with Toddlers: Car Seat &lpar;or vest!&rpar; Considerations](https://dev.to/jess/international-travel-with-toddlers-car-seat-or-vest-considerations-p51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
