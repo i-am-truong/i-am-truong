@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Are you hacked?](https://dev.to/shivakshi_rawat_e69cf6990/are-you-hacked-1e1h)
+- [Fixing the Half-Transaction Problem in Real-Time CDC](https://dev.to/__354f265b41dafa0d901b/fixing-the-half-transaction-problem-in-real-time-cdc-57o4)
 - [Reading the filings made me angry and sad at the same time. The law is supposed to protect, not destroy. Attorney Ed Hays’ actions are a disgrace to his profession.](https://dev.to/darlenefayever/reading-the-filings-made-me-angry-and-sad-at-the-same-time-the-law-is-supposed-to-protect-not-2kb7)
 - [Java Add or Remove Worksheet from Excel](https://dev.to/lu_liu_e3fc806354d9a952b7/java-add-or-remove-worksheet-from-excel-5ha4)
 - [Kickstart Your Hacktoberfest: The Best Web Dev Projects to Contribute To in 2025](https://dev.to/aayush_prajapati/kickstart-your-hacktoberfest-the-best-web-dev-projects-to-contribute-to-in-2025-280b)
-- [LEARNING BASIC DART](https://dev.to/raphael_kihiro_eaf9fda00e/learning-basic-dart-41nd)
-- [Insights for Developers on Multiplayer &amp; Slot Mechanics](https://dev.to/bob_packer_7c9018a4d1a1f1/insights-for-developers-on-multiplayer-slot-mechanics-4il6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
