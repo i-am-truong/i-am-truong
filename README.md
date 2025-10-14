@@ -120,13 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [If you&#39;re just starting, don’t aim to master AI overnight. Start by mastering prompt thinking then systems then automation.
-
-That’s how you go from developer AI augmented engineer.](https://dev.to/jaideepparashar/if-youre-just-starting-dont-aim-to-master-ai-overnight-start-by-mastering-prompt-thinking--2kmc)
-- [10 Git commands every developers Must Know,](https://dev.to/pranesh_patel/10-git-commands-every-developers-must-know-47n9)
-- [[Boost]](https://dev.to/bhavy_k_5a3b6c88887b58c92/-8p3)
-- [Zero to AI-Powered Developer: A Beginner’s Prompting Guide](https://dev.to/jaideepparashar/zero-to-ai-powered-developer-a-beginners-prompting-guide-3ddd)
-- [Top 10 Git Commands which every developers should be know](https://dev.to/pratham_naik_project_manager/top-10-git-commands-which-every-developers-should-be-know-1mg)
+- [FlashFuzz ⚡Quick URL Fuzzing &amp; Secret Scanning, straight from your browser](https://dev.to/ademkouki/flashfuzz-quick-url-fuzzing-secret-scanning-straight-from-your-browser-4f54)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-37ld)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-50eo)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-3onf)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-54he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
