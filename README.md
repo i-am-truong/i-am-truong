@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Expanding Your Infrastructure Automation Across the Lifecycle Using Puppet Edge](https://dev.to/jasonstcyr/expanding-your-infrastructure-automation-across-the-lifecycle-using-puppet-edge-533f)
+- [Java Class, Object and Variables](https://dev.to/dev_anantharul_1746a25af/java-class-object-and-variables-27j6)
 - [Building InnerJoin: A SQL Practice Platform in 3 Months](https://dev.to/nick_lisauskas_658b6bfd3a/building-innerjoin-a-sql-practice-platform-in-3-months-3o3p)
 - [Break Free from Data Silos: How Cloud-Agnostic Fabric is Revolutionizing Real-Time Data synchronization](https://dev.to/pokhraj_das_oracle/break-free-from-data-silos-how-cloud-agnostic-fabric-is-revolutionizing-real-time-data-3b5m)
 - [🚀 Smarter Debouncing in React — Introducing `@er-raj-aryan/use-smart-debounce`](https://dev.to/er-raj-aryan/smarter-debouncing-in-react-introducing-er-raj-aryanuse-smart-debounce-g4g)
-- [The Complete Guide to Reducing LLM Costs Without Sacrificing Quality](https://dev.to/kuldeep_paul/the-complete-guide-to-reducing-llm-costs-without-sacrificing-quality-4gp3)
-- [Automate Your API Docs Like a Pro with @nestjs/swagger](https://dev.to/navidrez/automate-your-api-docs-like-a-pro-with-nestjsswagger-4j1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
