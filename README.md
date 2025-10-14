@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🏦 Day 14 of #30DaysOfSolidity — Building a Smart Bank with Modular Deposit Boxes &lpar;Interface + Foundry&rpar;](https://dev.to/sauravkumar8178/day-14-of-30daysofsolidity-building-a-smart-bank-with-modular-deposit-boxes-interface--4hok)
-- [Session: Deconstructing the Future of Private Messaging - Is This Truly the Most Secure Messenger?](https://dev.to/bryan_ignaciocastro_6c96/session-deconstructing-the-future-of-private-messaging-is-this-truly-the-most-secure-messenger-17pp)
-- [Autonomous AI Employee](https://dev.to/kolomeitsev/autonomous-ai-employee-15pp)
-- [Synthetic Data for RAG: Safe Generation, Deduplication, and Drift-Aware Curation in 2025](https://dev.to/kuldeep_paul/synthetic-data-for-rag-safe-generation-deduplication-and-drift-aware-curation-in-2025-3298)
-- [💡Idea: Using VPN-Type Virtual Links for Secure IoT Data Flow](https://dev.to/hassamdev/idea-using-vpn-type-virtual-links-for-secure-iot-data-flow-4f29)
+- [Postgres Column Tetris: neatly packing your tables for fun and profit](https://dev.to/mcadariu/postgres-column-tetris-neatly-packing-your-tables-for-fun-and-profit-1j6g)
+- [Looking for a kind developer to guide me with my talking 3D robot project &lpar;free collaboration&rpar;](https://dev.to/islam_tv_c0e1abf81fb88cd8/looking-for-a-kind-developer-to-guide-me-with-my-talking-3d-robot-project-free-collaboration-3f4e)
+- [Configure ArgoCD Ingress on GCP with Custom Domain and Auto TLS via cert-manager](https://dev.to/durrello/configure-argocd-ingress-on-gcp-with-custom-domain-and-auto-tls-via-cert-manager-4h3l)
+- [**Unraveling the Mysteries of AI Blindspots: The Unseen Gaps](https://dev.to/drcarlosruizviquez/unraveling-the-mysteries-of-ai-blindspots-the-unseen-gaps-db6)
+- [**Reimagining AI: Beyond Fine-Tuning with Augmentation** Th](https://dev.to/drcarlosruizviquez/reimagining-ai-beyond-fine-tuning-with-augmentationth-1lna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
