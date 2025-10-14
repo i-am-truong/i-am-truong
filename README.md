@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with PydanticAI: Basics for AI Agents in Python](https://dev.to/hamluk/getting-started-with-pydanticai-basics-for-ai-agents-in-python-4jlo)
-- [How to create a grouped checkbox tree with Alpine.js and Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-grouped-checkbox-tree-with-alpinejs-and-tailwind-css-453m)
-- [The Complete Guide to React.js Internal Workings: From Code to Browser](https://dev.to/rohith_nag/the-complete-guide-to-reactjs-internal-workings-from-code-to-browser-2dl0)
-- [The Complete Guide to React.js Internal Workings: From Code to Browser](https://dev.to/rohith_nag/the-complete-guide-to-reactjs-internal-workings-from-code-to-browser-aod)
-- [Creating an Api generator plugin for Claude Code](https://dev.to/claudye/creating-an-api-generator-plugin-for-claude-code-256e)
+- [How to Use Prisma ORM with Astro](https://dev.to/amanvarshney01/how-to-use-prisma-orm-with-astro-1m0p)
+- [Building a High-Performance Keccak-256 Extension for PHP: 14-16 Faster](https://dev.to/buildcoreworks/building-a-high-performance-keccak-256-extension-for-php-14-16-faster-57il)
+- [🧠 Usability Testing: The Secret to Creating Web Interfaces People Actually Love Using](https://dev.to/okoye_ndidiamaka_5e3b7d30/usability-testing-the-secret-to-creating-web-interfaces-people-actually-love-using-6i4)
+- [⚡️ Surviving Azure’s Cloud Maze: DevOps Disaster Recovery, Network Wizardry &amp; Bare-Metal Deployments [Week-6] 🌩️](https://dev.to/suvrajeet/surviving-azures-cloud-maze-devops-disaster-recovery-network-wizardry-bare-metal-41d5)
+- [Happy to share in the current era of AI and Zero Carbonization](https://dev.to/jottyjohn/happy-to-share-in-the-current-era-of-ai-and-zero-carbonization-218c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
