@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Programmer&#39;s Guide to Logging Best Practices](https://dev.to/dash0/a-programmers-guide-to-logging-best-practices-25m8)
-- [10 Fixes to Boost Your Ranking &amp; Performance of Static Site 🚀](https://dev.to/lovestaco/10-fixes-to-boost-your-ranking-performance-of-static-site-216g)
-- [Building and Using Crypto Portfolio Tracking Apps: A Developer’s Perspective](https://dev.to/tradelinkpro/building-and-using-crypto-portfolio-tracking-apps-a-developers-perspective-16k3)
-- [Google Cloud Platform &lpar;GCP&rpar; quick Introduction to unlock the cloud](https://dev.to/teleglobalintermational/google-cloud-platform-gcp-quick-introduction-to-unlock-the-cloud-20d1)
-- [Building a Production-Ready URL Shortener with NestJS, Supabase, and Redis: A Complete Journey](https://dev.to/jeremiah_ankucoblah_e1d5/building-a-production-ready-url-shortener-with-nestjs-supabase-and-redis-a-complete-journey-2ogb)
+- [LLM&#39;ler &quot;Soru Cevaplama&quot; konusunda kabiliyetlidirler](https://dev.to/cihad/an-example-about-structuring-data-progress-by-ai-1en8)
+- [Essential Strategies for Building Accessible Web Applications That Welcome All Users](https://dev.to/aaravjoshi/essential-strategies-for-building-accessible-web-applications-that-welcome-all-users-3hfd)
+- [Best Time Tracking Software to Stay Productive](https://dev.to/tmetric_timer_2b3a575fc8b/best-time-tracking-software-to-stay-productive-5h97)
+- [🚀 Introducing JPlus – The Java Superset Language You&#39;ve Been Waiting For!](https://dev.to/cheol_jeon_9e29b98fdb7e1e/introducing-jplus-the-java-superset-language-youve-been-waiting-for-248)
+- [Polymorphic Todo App](https://dev.to/abdullah_ayasrah_4c9195da/polymorphic-todo-app-26g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
