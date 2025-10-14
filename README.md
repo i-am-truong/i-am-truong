@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Are Notorious: A $200 Lesson in Autonomous Systems](https://dev.to/anup_singh_6b996557db208a/ai-agents-are-notorious-a-200-lesson-in-autonomous-systems-3k3o)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-2fn)
-- [Practical Bitwise Operations and Bitmasks in Unity](https://dev.to/sky_noc__16618949385255bd/practical-bitwise-operations-and-bitmasks-in-unity-5h6d)
-- [PUBG HWID Ban: The Nightmare No One Warns You About](https://dev.to/trng_ng_d1cc358626b58/pubg-hwid-ban-the-nightmare-no-one-warns-you-about-580c)
-- [Modals and accessibility](https://dev.to/miasalazar/modals-and-accessibility-111e)
+- [How to back up and sync your terminal configuration with a GitHub dotfiles repo](https://dev.to/walodja1987/how-to-back-up-and-sync-your-terminal-configuration-with-a-github-dotfiles-repo-4p17)
+- [Implementation and Application of the Composite Pattern in Unity](https://dev.to/sky_noc__16618949385255bd/implementation-and-application-of-the-composite-pattern-in-unity-2pm0)
+- [AppSec Q and A](https://dev.to/lynxfelony1/appsec-q-and-a-bd9)
+- [Metin 2 HWID Ban: What It Is, Why It Happens &amp; How to Appeal](https://dev.to/cng_on_2c8a3358eb166a/metin-2-hwid-ban-what-it-is-why-it-happens-how-to-appeal-b87)
+- [Marvel Rivals HWID Ban Explained: What Players Need to Know](https://dev.to/cng_on_2c8a3358eb166a/marvel-rivals-hwid-ban-explained-what-players-need-to-know-15gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
