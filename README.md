@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lake Formation workflow of RDS &amp; S3](https://dev.to/wakeup_flower_8591a6cb6a9/lake-formation-workflow-of-rds-s3-5g7f)
-- [Python 3.14 Deep Dive: Revolutionary Error Messages &amp; Advanced Debugging &lpar;Part 2 - Chapter 2/3&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/python-314-deep-dive-revolutionary-error-messages-advanced-debugging-part-2-chapter-23-1med)
-- [The Future of Front-End Development: Component-Driven in 2025 and Beyond 🌐](https://dev.to/tahamjp/the-future-of-front-end-development-component-driven-in-2025-and-beyond-4mni)
-- [How to Use Prisma ORM with Astro](https://dev.to/amanvarshney01/how-to-use-prisma-orm-with-astro-1m0p)
-- [Seamless OTA Upgrades with RAUC on OK8MM Linux](https://dev.to/ronnie_r_152dc2151d9449c6/seamless-ota-upgrades-with-rauc-on-ok8mm-linux-3bec)
+- [Top 10 Translation Industry Trends](https://dev.to/qa_expert/top-10-translation-industry-trends-286g)
+- [One Platform. Total Context. The Secret Behind Clariti’s Seamless Team Collaboration](https://dev.to/clariti_22_6e89b280ccd102/one-platform-total-context-the-secret-behind-claritis-seamless-team-collaboration-43mp)
+- [ShockWave Therapy — full guide to the technology, how it works, uses, risks and practical details](https://dev.to/dot_clinics/shockwave-therapy-full-guide-to-the-technology-how-it-works-uses-risks-and-practical-details-53nh)
+- [How Oracle SQL and PL/SQL Power Real-World Enterprise Solutions](https://dev.to/vishal_more_02990955c9358/how-oracle-sql-and-plsql-power-real-world-enterprise-solutions-3ife)
+- [How I Streamlined My Research and Writing Workflow](https://dev.to/derek_fowler_8efe8716c3fe/how-i-streamlined-my-research-and-writing-workflow-kbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
