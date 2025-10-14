@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧪 The Anatomy of a Successful A/B Test at Scale](https://dev.to/mujtabat/the-anatomy-of-a-successful-ab-test-at-scale-371e)
 - [When You Don’t Need AI - Just Maths &amp; Statistics](https://dev.to/audaciatechnology/when-you-dont-need-ai-just-maths-statistics-43dn)
 - [How I Secured User File Access Using ACL and Chroot Jail: A Step-by-Step Guide](https://dev.to/vray/how-i-secured-user-file-access-using-acl-and-chroot-jail-a-step-by-step-guide-4g1m)
 - [How Extension Methods Unlock LINQ’s Magic in C#](https://dev.to/reenanms/how-extension-methods-unlock-linqs-magic-in-c-1jmd)
 - [Introducing JSON Toolaska — The Fastest Way to Format, Validate &amp; Beautify JSON Online](https://dev.to/praveen_d014d4935eef7c793/introducing-json-toolaska-the-fastest-way-to-format-validate-beautify-json-online-42l6)
-- [What is an SEO Backlink Generator and How Does It Help Improve Rankings?](https://dev.to/mai_vyly_ee49a19af579f4d/what-is-an-seo-backlink-generator-and-how-does-it-help-improve-rankings-18k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
