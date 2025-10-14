@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Portable Power Stations: Power on the Go](https://dev.to/eveliamaya/understanding-portable-power-stations-power-on-the-go-531b)
+- [Part 1 - MySQL vs PostgreSQL: Connection Architecture](https://dev.to/harry_do/part-1-mysql-vs-postgresql-connection-architecture-1nk9)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_c329f31b/your-error-handling-is-a-mess-and-its-costing-you--4ii3)
 - [MySQL vs PostgreSQL: Understanding the differences](https://dev.to/harry_do/mysql-vs-postgresql-understanding-the-differences-167k)
 - [learning Erlang step by step[1]](https://dev.to/sengseng/learning-erlang-step-by-step1-16fe)
-- [How a quartz crystal works in a microcontroller?](https://dev.to/carolineee/how-a-quartz-crystal-works-in-a-microcontroller-4lhf)
-- [Offline AI in React Native: Smarter Apps Without the Cloud](https://dev.to/ripenapps-technologies/offline-ai-in-react-native-smarter-apps-without-the-cloud-5cpm)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_02ee41d0/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-5ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
