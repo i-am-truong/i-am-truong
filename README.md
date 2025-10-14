@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to write Arduino Uno code with Python?](https://dev.to/pikotutorial/how-to-write-arduino-code-with-python-540c)
-- [eBPF Tutorial: Energy Monitoring for Process-Level Power Analysis](https://dev.to/yunwei37/ebpf-tutorial-energy-monitoring-for-process-level-power-analysis-3082)
-- [Threat Hunting: Strategies &amp; Tools](https://dev.to/godofgeeks/threat-hunting-strategies-tools-2m0f)
-- [Destiny 2 HWID Ban: What It Means &amp; Next Steps](https://dev.to/hng_khng_8253b9de3df1/destiny-2-hwid-ban-what-it-means-next-steps-14lk)
-- [Delta Force HWID Ban Exposed: What Players Need to Know](https://dev.to/hng_khng_8253b9de3df1/delta-force-hwid-ban-exposed-what-players-need-to-know-4kjk)
+- [AI Agents Are Notorious: A $200 Lesson in Autonomous Systems](https://dev.to/anup_singh_6b996557db208a/ai-agents-are-notorious-a-200-lesson-in-autonomous-systems-3k3o)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-2fn)
+- [Practical Bitwise Operations and Bitmasks in Unity](https://dev.to/sky_noc__16618949385255bd/practical-bitwise-operations-and-bitmasks-in-unity-5h6d)
+- [PUBG HWID Ban: The Nightmare No One Warns You About](https://dev.to/trng_ng_d1cc358626b58/pubg-hwid-ban-the-nightmare-no-one-warns-you-about-580c)
+- [Modals and accessibility](https://dev.to/miasalazar/modals-and-accessibility-111e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
