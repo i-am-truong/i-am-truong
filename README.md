@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧪 The Anatomy of a Successful A/B Test at Scale](https://dev.to/mujtabat/the-anatomy-of-a-successful-ab-test-at-scale-371e)
-- [When You Don’t Need AI - Just Maths &amp; Statistics](https://dev.to/audaciatechnology/when-you-dont-need-ai-just-maths-statistics-43dn)
-- [How I Secured User File Access Using ACL and Chroot Jail: A Step-by-Step Guide](https://dev.to/vray/how-i-secured-user-file-access-using-acl-and-chroot-jail-a-step-by-step-guide-4g1m)
-- [How Extension Methods Unlock LINQ’s Magic in C#](https://dev.to/reenanms/how-extension-methods-unlock-linqs-magic-in-c-1jmd)
-- [Introducing JSON Toolaska — The Fastest Way to Format, Validate &amp; Beautify JSON Online](https://dev.to/praveen_d014d4935eef7c793/introducing-json-toolaska-the-fastest-way-to-format-validate-beautify-json-online-42l6)
+- [The Systems That Survive: Four Years of War and the Math of Crisis Leadership](https://dev.to/razoorka/the-systems-that-survive-four-years-of-war-and-the-math-of-crisis-leadership-469l)
+- [Selecting the appropriate Docker base image](https://dev.to/u11d/selecting-the-appropriate-docker-base-image-2126)
+- [Recuperando dados no Oracle com FlashBack Query](https://dev.to/valter_filho_24448308265f/recuperando-dados-no-oracle-com-flashback-query-o44)
+- [From 1.57GB to 189MB: How I Slashed My Docker Image Size by 88%](https://dev.to/saheed_ea3f3e90be19db2eac/from-157gb-to-189mb-how-i-slashed-my-docker-image-size-by-88-2b5l)
+- [I Cut My API Response Time from 1.9s to 200ms - Here&#39;s How](https://dev.to/amaresh_adak/i-cut-my-api-response-time-from-19s-to-200ms-heres-how-5g2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
