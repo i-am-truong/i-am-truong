@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello Dev Community! I’m Jacob, a Senior Web Developer Exploring What It Means to Build Well ✌️](https://dev.to/byjacobbyers/hello-dev-community-im-jacob-a-senior-web-developer-exploring-what-it-means-to-build-well-2g0i)
-- [Orbit v0.3.0 - Next-Generation Version Control System](https://dev.to/passadis/orbit-v030-next-generation-version-control-system-1034)
-- [10 Production Deployment Mistakes Alex Will Never Make Again &lpar;and How You Can Avoid Them&rpar;](https://dev.to/tech_girllll/10-production-deployment-mistakes-alex-will-never-make-again-and-how-you-can-avoid-them-2ki0)
-- [🧠 Comunicando o Entity Framework .NET com LLM](https://dev.to/daniloopinheiro/comunicando-o-entity-framework-net-com-llm-5352)
-- [Introducing RCParsing - brand new .NET framework for DSLs and data scrapers](https://dev.to/romecore/introducing-rcparsing-brand-new-net-framework-for-dsls-and-data-scrapers-29ko)
+- [Synthetic Data for RAG: Safe Generation, Deduplication, and Drift-Aware Curation in 2025](https://dev.to/kuldeep_paul/synthetic-data-for-rag-safe-generation-deduplication-and-drift-aware-curation-in-2025-3298)
+- [💡Idea: Using VPN-Type Virtual Links for Secure IoT Data Flow](https://dev.to/hassamdev/idea-using-vpn-type-virtual-links-for-secure-iot-data-flow-4f29)
+- [International Travel with Toddlers: Car Seat &lpar;or vest!&rpar; Considerations](https://dev.to/jess/international-travel-with-toddlers-car-seat-or-vest-considerations-p51)
+- [I built a React admin template in the age of AI slop!](https://dev.to/ariflogs/i-built-a-react-admin-template-in-the-age-of-ai-slop-2bp4)
+- [AI-Powered Test Automation: How Playwright Agents Plan, Write, and Fix Tests for Us](https://dev.to/ndenic/ai-powered-test-automation-how-playwright-agents-plan-write-and-fix-tests-for-us-4256)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
