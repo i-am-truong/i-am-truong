@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a bookmark manager app with search and filter functionality](https://dev.to/frontendmentor/build-a-bookmark-manager-app-with-search-and-filter-functionality-2n1i)
-- [How I Built a Custom AI Voice Agent by Combining Deepgram, OpenAI, and ElevenLabs](https://dev.to/chaitrali_kakde/how-i-built-a-custom-ai-voice-agent-by-combining-deepgram-openai-and-elevenlabs-1l4m)
-- [Part 2 - MySQL vs PostgreSQL: Storage Architecture](https://dev.to/harry_do/part-2-mysql-vs-postgresql-storage-architecture-2ki1)
-- [OpenAI Agent Builder: The No-Code Way to Put AI on Your Website](https://dev.to/fourixai/openai-agent-builder-the-no-code-way-to-put-ai-on-your-website-4ack)
-- [Figma vs Adobe XD: Which One Should You Learn in 2025?](https://dev.to/pixel_mosaic/figma-vs-adobe-xd-which-one-should-you-learn-in-2025-13i)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_c329f31b/security-is-not-a-feature-its-a-foundation-109o)
+- [Destiny 2 HWID Spoofer: Don&#39;t use one!](https://dev.to/bnh_trnh_7fb1aa2962bbbe/destiny-2-hwid-spoofer-dont-use-one-4ef9)
+- [Tired of Endless Scrolling? Dive into the World of *Decentralized Social Media*!](https://dev.to/karthik_n/tired-of-endless-scrolling-dive-into-the-world-of-decentralized-social-media-4b66)
+- [Delta Force HWID Spoofer: The Truth Behind the Hype](https://dev.to/cng_hong_db38d8431cd42/delta-force-hwid-spoofer-the-truth-behind-the-hype-hmf)
+- [Dead by Daylight HWID Spoofer: Risks, Myths &amp; Facts](https://dev.to/cng_hong_db38d8431cd42/dead-by-daylight-hwid-spoofer-risks-myths-facts-52f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
