@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part-124: 🌥️Understanding Google Cloud Resource Hierarchy — Made Simple](https://dev.to/latchudevops/part-124-understanding-google-cloud-resource-hierarchy-made-simple-2nnj)
+- [We’ve Automated Everything Except the 40% That Still Wastes Our Time](https://dev.to/wehadit/weve-automated-everything-except-the-40-that-still-wastes-our-time-1pa4)
+- [E2E Test: Oxide CMS to Dev.to Integration](https://dev.to/richet/e2e-test-oxide-cms-to-devto-integration-2ifl)
 - [Daily Artificial Intelligence Digest - Oct 14, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-14-2025-1ba1)
 - [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_fafe1668/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-9o4)
-- [The Cryptocurrency Market: Lessons from Downturns and Fundamentals](https://dev.to/krikri2025/the-cryptocurrency-market-lessons-from-downturns-and-fundamentals-474m)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_02ee41d0/your-projects-a-mess-its-not-you-its-your-frameworks-fault-ogc)
-- [Success Story: Abhishek Chavan’s Learning Journey with 101 Blockchains - 101 Blockchains #262223](https://dev.to/calgo_62400343865ec0ae72a/success-story-abhishek-chavans-learning-journey-with-101-blockchains-101-blockchains-262223-2jmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
