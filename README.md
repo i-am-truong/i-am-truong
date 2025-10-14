@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-124: 🌥️Understanding Google Cloud Resource Hierarchy — Made Simple](https://dev.to/latchudevops/part-124-understanding-google-cloud-resource-hierarchy-made-simple-2nnj)
-- [We’ve Automated Everything Except the 40% That Still Wastes Our Time](https://dev.to/wehadit/weve-automated-everything-except-the-40-that-still-wastes-our-time-1pa4)
-- [E2E Test: Oxide CMS to Dev.to Integration](https://dev.to/richet/e2e-test-oxide-cms-to-devto-integration-2ifl)
-- [Daily Artificial Intelligence Digest - Oct 14, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-14-2025-1ba1)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_fafe1668/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-9o4)
+- [The Future of IoT Monitoring: Key Features Every Dashboard Should Have](https://dev.to/william_smith/the-future-of-iot-monitoring-key-features-every-dashboard-should-have-49dh)
+- [🚀How I released my App for Free &lpar;💪🧠Muscle Brain&rpar;](https://dev.to/webdeveloperhyper/how-i-released-my-app-for-free-muscle-brain-44p8)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2p40)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-m2k)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-ghk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
