@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Prisma + PostgreSQL in a Monorepo &lpar;TurboRepo + PNPM + Node.js&rpar;](https://dev.to/wasimadildev/setting-up-prisma-postgresql-in-a-monorepo-turborepo-pnpm-nodejs-30ah)
-- [Setting Up Prisma + PostgreSQL in a Monorepo &lpar;TurboRepo + PNPM + Node.js&rpar;](https://dev.to/wasimadildev/setting-up-prisma-postgresql-in-a-monorepo-turborepo-pnpm-nodejs-4knd)
-- [Run html from codespace 🔥](https://dev.to/ritumka/run-html-from-codespace-1n5i)
-- [Depurando um crash de use-after-free no meniOS](https://dev.to/pbalduino/depurando-um-crash-de-use-after-free-no-menios-2140)
-- [Building High-Availability Web Apps on AWS: Auto Scaling, ALB, and Private Subnets](https://dev.to/shreyas_yadav_e6fbf9ad3f6/building-high-availability-web-apps-on-aws-auto-scaling-alb-and-private-subnets-48a9)
+- [Coding as Poetry: Why Every Engineer Should Write Readable Code](https://dev.to/themustaphatijani/coding-as-poetry-why-every-engineer-should-write-readable-code-4j91)
+- [The Art of the Map: Navigating the Modern ORM Landscape](https://dev.to/alex_aslam/the-art-of-the-map-navigating-the-modern-orm-landscape-3ijc)
+- [Sharing TypeScript Types in a Monorepo/BFF](https://dev.to/wantedhorizon1/sharing-typescript-types-in-a-monorepobff-2k8a)
+- [The Artisan&#39;s Journey: Sculpting JSON in Rails](https://dev.to/alex_aslam/the-artisans-journey-sculpting-json-in-rails-32ei)
+- [Building a Redis Clone in Zig—Part 2](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-2-49of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
