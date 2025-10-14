@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Are you hacked?](https://dev.to/shivakshi_rawat_e69cf6990/are-you-hacked-1e1h)
-- [Fixing the Half-Transaction Problem in Real-Time CDC](https://dev.to/__354f265b41dafa0d901b/fixing-the-half-transaction-problem-in-real-time-cdc-57o4)
-- [Reading the filings made me angry and sad at the same time. The law is supposed to protect, not destroy. Attorney Ed Hays’ actions are a disgrace to his profession.](https://dev.to/darlenefayever/reading-the-filings-made-me-angry-and-sad-at-the-same-time-the-law-is-supposed-to-protect-not-2kb7)
-- [Java Add or Remove Worksheet from Excel](https://dev.to/lu_liu_e3fc806354d9a952b7/java-add-or-remove-worksheet-from-excel-5ha4)
-- [Kickstart Your Hacktoberfest: The Best Web Dev Projects to Contribute To in 2025](https://dev.to/aayush_prajapati/kickstart-your-hacktoberfest-the-best-web-dev-projects-to-contribute-to-in-2025-280b)
+- [How to write Arduino Uno code with Python?](https://dev.to/pikotutorial/how-to-write-arduino-code-with-python-540c)
+- [eBPF Tutorial: Energy Monitoring for Process-Level Power Analysis](https://dev.to/yunwei37/ebpf-tutorial-energy-monitoring-for-process-level-power-analysis-3082)
+- [Threat Hunting: Strategies &amp; Tools](https://dev.to/godofgeeks/threat-hunting-strategies-tools-2m0f)
+- [Destiny 2 HWID Ban: What It Means &amp; Next Steps](https://dev.to/hng_khng_8253b9de3df1/destiny-2-hwid-ban-what-it-means-next-steps-14lk)
+- [Delta Force HWID Ban Exposed: What Players Need to Know](https://dev.to/hng_khng_8253b9de3df1/delta-force-hwid-ban-exposed-what-players-need-to-know-4kjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
