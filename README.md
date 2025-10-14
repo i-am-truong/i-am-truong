@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part-126: 🔐Understanding Google Cloud IAM — Roles, Permissions, and Access Explained](https://dev.to/latchudevops/part-126-understanding-google-cloud-iam-roles-permissions-and-access-explained-2li3)
-- [CSS Animations Tutorial: A Beginner&#39;s Guide](https://dev.to/themrsami/css-animations-tutorial-a-beginners-guide-1e4j)
-- [Have you tried the latest real time collaboration updates? How do they impact your team?](https://dev.to/emma_schmidt_/have-you-tried-the-latest-real-time-collaboration-updates-how-do-they-impact-your-team-230n)
-- [12 Best Shadcn Block Libraries for 2025](https://dev.to/coderamrin/12-best-shadcn-block-libraries-for-2025-3l34)
-- [Mastering DBMS: A Complete Guide for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/mastering-dbms-a-complete-guide-for-beginners-48ii)
+- [🧠Introducing OrKa Cloud API](https://dev.to/marcosomma/introducing-orka-cloud-api-5pl)
+- [Making AWS Event-bridge Cron Expressions Configurable with Azure DevOps and CDKTF](https://dev.to/lokesh_vangari_a671430724/making-aws-event-bridge-cron-expressions-configurable-with-azure-devops-and-cdktf-3hh4)
+- [Understanding ORDS Pre-Hook Functions](https://dev.to/rajesh_vohra_e75f579b7888/understanding-ords-pre-hook-functions-1oof)
+- [Beyond Workarounds: A Journey to Refine Reactive Data Models](https://dev.to/tobi_augenstein/beyond-workarounds-a-journey-to-refine-reactive-data-models-3gdb)
+- [The Unspoken Truths of Dev Work: How I Wrestled My Data Science Project onto GitHub &lpar;and learned some secrets&rpar;](https://dev.to/daniel_githinji_6e1e402c3/the-unspoken-truths-of-dev-work-how-i-wrestled-my-data-science-project-onto-github-and-learned-5g5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
