@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Compiler for &quot;Easy&quot; language from &quot;Etudes for Programmers&quot; book &lpar;1978&rpar;](https://dev.to/begoon/compiler-for-easy-language-from-etudes-for-programmers-book-1978-4nb1)
-- [Master Node.js &amp; Express.js: A Comprehensive Collection of Coding Challenges](https://dev.to/mohinsheikh/master-nodejs-expressjs-a-comprehensive-collection-of-coding-challenges-4aba)
-- [From Raw Leads to Predictive Insights: My Logistic Regression Assignment Journey](https://dev.to/vinanoliefo/from-raw-leads-to-predictive-insights-my-logistic-regression-assignment-journey-4dm2)
-- [Welcome to Parenting!](https://dev.to/jess/welcome-to-parenting-4afm)
-- [Securing Applications with Spring Boot and Spring Security](https://dev.to/abhishek_batra_ebc778e729/securing-applications-with-spring-boot-and-spring-security-52bf)
+- [Using Cilium to reduce cross-AZ costs on AWS](https://dev.to/hstiwana/using-cilium-to-reduce-cross-az-costs-on-aws-5138)
+- [Building an API Layer That Works for You - More Axios vs Fetch](https://dev.to/limacodes/beyond-fetch-vs-axios-building-an-api-layer-that-works-for-you-pce)
+- [Installing Oracle AI Database 26ai Free on Oracle Linux 9](https://dev.to/vahidusefzadeh/installing-oracle-ai-database-26ai-free-on-oracle-linux-9-33dk)
+- [Pawn Appétit: Professional Chess Analysis, Zero Cost](https://dev.to/gaspar_limarc_f1e8bca9ee/pawn-appetit-professional-chess-analysis-zero-cost-1c6d)
+- [What really Repository is in Asp.Net Core ?](https://dev.to/ayusclg_/what-really-repository-is-in-aspnet-core--4n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
