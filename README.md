@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lake Formation workflow of RDS &amp; S3](https://dev.to/wakeup_flower_8591a6cb6a9/lake-formation-workflow-of-rds-s3-5g7f)
+- [Python 3.14 Deep Dive: Revolutionary Error Messages &amp; Advanced Debugging &lpar;Part 2 - Chapter 2/3&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/python-314-deep-dive-revolutionary-error-messages-advanced-debugging-part-2-chapter-23-1med)
 - [The Future of Front-End Development: Component-Driven in 2025 and Beyond 🌐](https://dev.to/tahamjp/the-future-of-front-end-development-component-driven-in-2025-and-beyond-4mni)
 - [How to Use Prisma ORM with Astro](https://dev.to/amanvarshney01/how-to-use-prisma-orm-with-astro-1m0p)
 - [Seamless OTA Upgrades with RAUC on OK8MM Linux](https://dev.to/ronnie_r_152dc2151d9449c6/seamless-ota-upgrades-with-rauc-on-ok8mm-linux-3bec)
-- [Building a High-Performance Keccak-256 Extension for PHP: 14-16 Faster](https://dev.to/buildcoreworks/building-a-high-performance-keccak-256-extension-for-php-14-16-faster-57il)
-- [🧠 Usability Testing: The Secret to Creating Web Interfaces People Actually Love Using](https://dev.to/okoye_ndidiamaka_5e3b7d30/usability-testing-the-secret-to-creating-web-interfaces-people-actually-love-using-6i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
