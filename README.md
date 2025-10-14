@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rural Software Developers](https://dev.to/chbrown13/rural-software-developers-2dkc)
-- [Sonia — Local AI music generator for Android &lpar;no cloud, private, one-time purchase&rpar;](https://dev.to/regodefies/sonia-local-ai-music-generator-for-android-no-cloud-private-one-time-purchase-1mn)
-- [Building Distributed Systems with Ray—Just Like Running a Restaurant](https://dev.to/n451m/building-distributed-systems-with-ray-just-like-running-a-restaurant-1gjo)
-- [Title: Unlocking the Power of Automation: How Developers Can Streamline Workflows](https://dev.to/mikeover/title-unlocking-the-power-of-automation-how-developers-can-streamline-workflows-58o9)
-- [A Beginner&#39;s Guide to Building Web Pages](https://dev.to/vidya_cdd37fca763a53a10e2/a-beginners-guide-to-building-web-pages-4ahg)
+- [Compiler for &quot;Easy&quot; language from &quot;Etudes for Programmers&quot; book &lpar;1978&rpar;](https://dev.to/begoon/compiler-for-easy-language-from-etudes-for-programmers-book-1978-4nb1)
+- [Master Node.js &amp; Express.js: A Comprehensive Collection of Coding Challenges](https://dev.to/mohinsheikh/master-nodejs-expressjs-a-comprehensive-collection-of-coding-challenges-4aba)
+- [From Raw Leads to Predictive Insights: My Logistic Regression Assignment Journey](https://dev.to/vinanoliefo/from-raw-leads-to-predictive-insights-my-logistic-regression-assignment-journey-4dm2)
+- [Welcome to Parenting!](https://dev.to/jess/welcome-to-parenting-4afm)
+- [Securing Applications with Spring Boot and Spring Security](https://dev.to/abhishek_batra_ebc778e729/securing-applications-with-spring-boot-and-spring-security-52bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
