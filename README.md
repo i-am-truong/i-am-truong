@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Session: Deconstructing the Future of Private Messaging - Is This Truly the Most Secure Messenger?](https://dev.to/bryan_ignaciocastro_6c96/session-deconstructing-the-future-of-private-messaging-is-this-truly-the-most-secure-messenger-17pp)
+- [Autonomous AI Employee](https://dev.to/kolomeitsev/autonomous-ai-employee-15pp)
 - [Synthetic Data for RAG: Safe Generation, Deduplication, and Drift-Aware Curation in 2025](https://dev.to/kuldeep_paul/synthetic-data-for-rag-safe-generation-deduplication-and-drift-aware-curation-in-2025-3298)
 - [💡Idea: Using VPN-Type Virtual Links for Secure IoT Data Flow](https://dev.to/hassamdev/idea-using-vpn-type-virtual-links-for-secure-iot-data-flow-4f29)
 - [International Travel with Toddlers: Car Seat &lpar;or vest!&rpar; Considerations](https://dev.to/jess/international-travel-with-toddlers-car-seat-or-vest-considerations-p51)
-- [I built a React admin template in the age of AI slop!](https://dev.to/ariflogs/i-built-a-react-admin-template-in-the-age-of-ai-slop-2bp4)
-- [AI-Powered Test Automation: How Playwright Agents Plan, Write, and Fix Tests for Us](https://dev.to/ndenic/ai-powered-test-automation-how-playwright-agents-plan-write-and-fix-tests-for-us-4256)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
