@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What’s the Difference Between Paid and Free Backlink Generator Tools?](https://dev.to/mai_vyly_ee49a19af579f4d/whats-the-difference-between-paid-and-free-backlink-generator-tools-nd1)
-- [CORS Almost Broke Me But Preflight Saved the Day](https://dev.to/techwithhari/cors-almost-broke-me-but-preflight-saved-the-day-21mk)
-- [Development of Real-Time Remote Desktop App](https://dev.to/yukiohira0416/development-of-real-time-remote-desktop-app-4eak)
-- [7 Stunning Prompt Examples for OpenAI’s Sora 2 to Make Video](https://dev.to/_37bbf0c253c0b3edec531e/7-stunning-prompt-examples-for-openais-sora-2-to-make-video-28mb)
-- [What Is a Backlink Generator and How Does It Create Backlinks Automatically?](https://dev.to/mai_vyly_ee49a19af579f4d/what-is-a-backlink-generator-and-how-does-it-create-backlinks-automatically-42n8)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-2le9)
+- [How to Create a Telegram Bot and Send Messages Using Laravel 12](https://dev.to/akramghaleb/how-to-create-a-telegram-bot-and-send-messages-using-laravel-12-10f)
+- [Quick Tip: Fix Android Emulator DNS Issues in Arch/Linux](https://dev.to/tuliocalil/quick-tip-fix-android-emulator-dns-issues-in-archlinux-gck)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4i02)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-5bdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
