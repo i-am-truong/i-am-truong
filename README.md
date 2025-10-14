@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_c329f31b/security-is-not-a-feature-its-a-foundation-109o)
-- [Destiny 2 HWID Spoofer: Don&#39;t use one!](https://dev.to/bnh_trnh_7fb1aa2962bbbe/destiny-2-hwid-spoofer-dont-use-one-4ef9)
-- [Tired of Endless Scrolling? Dive into the World of *Decentralized Social Media*!](https://dev.to/karthik_n/tired-of-endless-scrolling-dive-into-the-world-of-decentralized-social-media-4b66)
-- [Delta Force HWID Spoofer: The Truth Behind the Hype](https://dev.to/cng_hong_db38d8431cd42/delta-force-hwid-spoofer-the-truth-behind-the-hype-hmf)
-- [Dead by Daylight HWID Spoofer: Risks, Myths &amp; Facts](https://dev.to/cng_hong_db38d8431cd42/dead-by-daylight-hwid-spoofer-risks-myths-facts-52f6)
+- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 2: Troubleshooting Real-World Issues](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-2-troubleshooting-real-world-429d)
+- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 1: Complete Setup Guide](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-1-complete-setup-guide-lgd)
+- [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
+- [Refactoring 035 - Separate Exception Types](https://dev.to/mcsee/refactoring-035-separate-exception-types-179j)
+- [Modern Warfare 2 HWID Spoofer: DON&#39;T Use One Before You Read This!](https://dev.to/tun_hunh_6164f4c1d2daf6/modern-warfare-2-hwid-spoofer-dont-use-one-before-you-read-this-f9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
