@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Search Engines Are Dead, Meet Answer Engines](https://dev.to/dct_technology/search-engines-are-dead-meet-answer-engines-3mil)
+- [Explaining the PACELC theorem to new hires](https://dev.to/fahimulhaq/explaining-the-pacelc-theorem-to-new-hires-2de2)
 - [🧠Introducing OrKa Cloud API](https://dev.to/marcosomma/introducing-orka-cloud-api-5pl)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_02ee41d0/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1ccc)
 - [Making AWS Event-bridge Cron Expressions Configurable with Azure DevOps and CDKTF](https://dev.to/lokesh_vangari_a671430724/making-aws-event-bridge-cron-expressions-configurable-with-azure-devops-and-cdktf-3hh4)
-- [Understanding ORDS Pre-Hook Functions](https://dev.to/rajesh_vohra_e75f579b7888/understanding-ords-pre-hook-functions-1oof)
-- [Beyond Workarounds: A Journey to Refine Reactive Data Models](https://dev.to/tobi_augenstein/beyond-workarounds-a-journey-to-refine-reactive-data-models-3gdb)
-- [The Unspoken Truths of Dev Work: How I Wrestled My Data Science Project onto GitHub &lpar;and learned some secrets&rpar;](https://dev.to/daniel_githinji_6e1e402c3/the-unspoken-truths-of-dev-work-how-i-wrestled-my-data-science-project-onto-github-and-learned-5g5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
