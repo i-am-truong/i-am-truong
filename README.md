@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello Dev Community! I’m Jacob, a Senior Web Developer Exploring What It Means to Build Well ✌️](https://dev.to/byjacobbyers/hello-dev-community-im-jacob-a-senior-web-developer-exploring-what-it-means-to-build-well-2g0i)
+- [Orbit v0.3.0 - Next-Generation Version Control System](https://dev.to/passadis/orbit-v030-next-generation-version-control-system-1034)
+- [10 Production Deployment Mistakes Alex Will Never Make Again &lpar;and How You Can Avoid Them&rpar;](https://dev.to/tech_girllll/10-production-deployment-mistakes-alex-will-never-make-again-and-how-you-can-avoid-them-2ki0)
 - [🧠 Comunicando o Entity Framework .NET com LLM](https://dev.to/daniloopinheiro/comunicando-o-entity-framework-net-com-llm-5352)
 - [Introducing RCParsing - brand new .NET framework for DSLs and data scrapers](https://dev.to/romecore/introducing-rcparsing-brand-new-net-framework-for-dsls-and-data-scrapers-29ko)
-- [Python basics - Day 06](https://dev.to/ian_b838138a27a917398d181/python-basics-day-06-50i)
-- [Building a Reusable AWS Governance Library with CDK: Constructs, Blueprints, and Aspects](https://dev.to/andreparis/building-a-reusable-aws-governance-library-with-cdk-constructs-blueprints-and-aspects-5dl8)
-- [Hello World Has Entered the Chat: Engineering a Scalable Chatroom with gRPC &lpar;Part 1 - Foundations&rpar;](https://dev.to/frederikoadr/hello-world-has-entered-the-chat-engineering-a-scalable-chatroom-with-grpc-part-1-foundations-27e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
