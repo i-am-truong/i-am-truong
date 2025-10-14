@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [What’s the Difference Between Paid and Free Backlink Generator Tools?](https://dev.to/mai_vyly_ee49a19af579f4d/whats-the-difference-between-paid-and-free-backlink-generator-tools-nd1)
 - [CORS Almost Broke Me But Preflight Saved the Day](https://dev.to/techwithhari/cors-almost-broke-me-but-preflight-saved-the-day-21mk)
 - [Development of Real-Time Remote Desktop App](https://dev.to/yukiohira0416/development-of-real-time-remote-desktop-app-4eak)
-- [React State Management in 2025: Why I&#39;m Ditching Zustand for ZenBox](https://dev.to/del-wang/react-state-management-in-2025-why-im-ditching-zustand-for-zenbox-38c1)
-- [Angular’s Game-Changing Dynamic Component Features: inputBinding&lpar;&rpar;, outputBinding&lpar;&rpar;, and twoWayBinding&lpar;&rpar;](https://dev.to/codewithrajat/angulars-game-changing-dynamic-component-features-inputbinding-outputbinding-and-1aof)
+- [7 Stunning Prompt Examples for OpenAI’s Sora 2 to Make Video](https://dev.to/_37bbf0c253c0b3edec531e/7-stunning-prompt-examples-for-openais-sora-2-to-make-video-28mb)
+- [What Is a Backlink Generator and How Does It Create Backlinks Automatically?](https://dev.to/mai_vyly_ee49a19af579f4d/what-is-a-backlink-generator-and-how-does-it-create-backlinks-automatically-42n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
