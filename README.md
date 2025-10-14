@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 08 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-08-of-my-ai-data-mastery-journey-from-python-to-generative-ai-2pnd)
-- [Small Beats Big: The Tiny Recursive Model Outsmarting Giants](https://dev.to/aiwithapex/small-beats-big-the-tiny-recursive-model-outsmarting-giants-4dnk)
-- [Telegram 数据库的奥秘与应用](https://dev.to/tgdatabaseset/telegram-shu-ju-ku-de-ao-mi-yu-ying-yong-17nm)
-- [Asyncio Architecture in Python: Event Loops, Tasks, and Futures Explained](https://dev.to/imsushant12/asyncio-architecture-in-python-event-loops-tasks-and-futures-explained-4pn3)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_7be3cb2a/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4pp7)
+- [Part-126: 🔐Understanding Google Cloud IAM — Roles, Permissions, and Access Explained](https://dev.to/latchudevops/part-126-understanding-google-cloud-iam-roles-permissions-and-access-explained-2li3)
+- [CSS Animations Tutorial: A Beginner&#39;s Guide](https://dev.to/themrsami/css-animations-tutorial-a-beginners-guide-1e4j)
+- [Have you tried the latest real time collaboration updates? How do they impact your team?](https://dev.to/emma_schmidt_/have-you-tried-the-latest-real-time-collaboration-updates-how-do-they-impact-your-team-230n)
+- [12 Best Shadcn Block Libraries for 2025](https://dev.to/coderamrin/12-best-shadcn-block-libraries-for-2025-3l34)
+- [Mastering DBMS: A Complete Guide for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/mastering-dbms-a-complete-guide-for-beginners-48ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
