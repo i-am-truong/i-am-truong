@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FlashFuzz ⚡Quick URL Fuzzing &amp; Secret Scanning, straight from your browser](https://dev.to/ademkouki/flashfuzz-quick-url-fuzzing-secret-scanning-straight-from-your-browser-4f54)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-37ld)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-50eo)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-3onf)
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-54he)
+- [Reading the filings made me angry and sad at the same time. The law is supposed to protect, not destroy. Attorney Ed Hays’ actions are a disgrace to his profession.](https://dev.to/darlenefayever/reading-the-filings-made-me-angry-and-sad-at-the-same-time-the-law-is-supposed-to-protect-not-2kb7)
+- [Java Add or Remove Worksheet from Excel](https://dev.to/lu_liu_e3fc806354d9a952b7/java-add-or-remove-worksheet-from-excel-5ha4)
+- [Kickstart Your Hacktoberfest: The Best Web Dev Projects to Contribute To in 2025](https://dev.to/aayush_prajapati/kickstart-your-hacktoberfest-the-best-web-dev-projects-to-contribute-to-in-2025-280b)
+- [LEARNING BASIC DART](https://dev.to/raphael_kihiro_eaf9fda00e/learning-basic-dart-41nd)
+- [Insights for Developers on Multiplayer &amp; Slot Mechanics](https://dev.to/bob_packer_7c9018a4d1a1f1/insights-for-developers-on-multiplayer-slot-mechanics-4il6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
