@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering LVM: From Basics to Advanced Migration, Backup &amp; Recovery](https://dev.to/mohideen_sahib_79f5f9e8de/mastering-lvm-from-basics-to-advanced-migration-backup-recovery-464c)
 - [How RSA Works &lpar;for Dummies&rpar;](https://dev.to/rayjay/how-rsa-works-for-dummies-43ja)
 - [GOOD](https://dev.to/reuben_barr_250e68e131938/good-3585)
 - [The Subtle but Critical Difference: `process.nextTick&lpar;&rpar;` vs. `setImmediate&lpar;&rpar;`](https://dev.to/alex_aslam/the-subtle-but-critical-difference-processnexttick-vs-setimmediate-28c1)
 - [The Art of the Chisel: Crafting Pluggable Business Rules with the Strategy Pattern](https://dev.to/alex_aslam/the-art-of-the-chisel-crafting-pluggable-business-rules-with-the-strategy-pattern-22k6)
-- [Coding as Poetry: Why Every Engineer Should Write Readable Code](https://dev.to/themustaphatijani/coding-as-poetry-why-every-engineer-should-write-readable-code-4j91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
