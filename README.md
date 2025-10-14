@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with PydanticAI: Basics for AI Agents in Python](https://dev.to/hamluk/getting-started-with-pydanticai-basics-for-ai-agents-in-python-4jlo)
+- [How to create a grouped checkbox tree with Alpine.js and Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-grouped-checkbox-tree-with-alpinejs-and-tailwind-css-453m)
+- [The Complete Guide to React.js Internal Workings: From Code to Browser](https://dev.to/rohith_nag/the-complete-guide-to-reactjs-internal-workings-from-code-to-browser-2dl0)
+- [The Complete Guide to React.js Internal Workings: From Code to Browser](https://dev.to/rohith_nag/the-complete-guide-to-reactjs-internal-workings-from-code-to-browser-aod)
 - [Creating an Api generator plugin for Claude Code](https://dev.to/claudye/creating-an-api-generator-plugin-for-claude-code-256e)
-- [The Finals HWID Ban: Are You at Risk?](https://dev.to/hng_nguyn_4572de3c99e6/the-finals-hwid-ban-are-you-at-risk-5247)
-- [Team Fortress 2 HWID Ban: What It Means and Why It Happens](https://dev.to/hng_nguyn_4572de3c99e6/team-fortress-2-hwid-ban-what-it-means-and-why-it-happens-dl3)
-- [Rainbow Six Siege HWID Ban: Causes, Consequences &amp; Prevention](https://dev.to/hng_nguyn_4572de3c99e6/rainbow-six-siege-hwid-ban-causes-consequences-prevention-di2)
-- [How to back up and sync your terminal configuration with a GitHub dotfiles repo](https://dev.to/walodja1987/how-to-back-up-and-sync-your-terminal-configuration-with-a-github-dotfiles-repo-4p17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
