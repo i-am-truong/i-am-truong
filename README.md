@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s your biggest Docker pain point? Have you tried multi-stage builds? Drop your optimization tips below! 👇](https://dev.to/saheed_ea3f3e90be19db2eac/whats-your-biggest-docker-pain-point-have-you-tried-multi-stage-builds-drop-your-optimization-1n1o)
+- [Looking for Feedback on my .NET library - CliInvoke](https://dev.to/alastairlundy/looking-for-feedback-on-my-net-library-cliinvoke-12i4)
+- [Green Growth: How SMEs Can Lead in Sustainable Plastics Recycling](https://dev.to/daniel-sparks/green-growth-how-smes-can-lead-in-sustainable-plastics-recycling-5bog)
 - [The Systems That Survive: Four Years of War and the Math of Crisis Leadership](https://dev.to/razoorka/the-systems-that-survive-four-years-of-war-and-the-math-of-crisis-leadership-469l)
 - [Selecting the appropriate Docker base image](https://dev.to/u11d/selecting-the-appropriate-docker-base-image-2126)
-- [Recuperando dados no Oracle com FlashBack Query](https://dev.to/valter_filho_24448308265f/recuperando-dados-no-oracle-com-flashback-query-o44)
-- [From 1.57GB to 189MB: How I Slashed My Docker Image Size by 88%](https://dev.to/saheed_ea3f3e90be19db2eac/from-157gb-to-189mb-how-i-slashed-my-docker-image-size-by-88-2b5l)
-- [I Cut My API Response Time from 1.9s to 200ms - Here&#39;s How](https://dev.to/amaresh_adak/i-cut-my-api-response-time-from-19s-to-200ms-heres-how-5g2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
