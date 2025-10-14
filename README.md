@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Gems in Azure SQL: Useful Commands, Functions &amp; Keywords You Should Know](https://dev.to/sanjay_bhujbal_533cfed9b6/hidden-gems-in-azure-sql-useful-commands-functions-keywords-you-should-know-33fo)
-- [Bug fixes for neural web](https://dev.to/okerew/bug-fixes-for-neural-web-1inm)
-- [TinyGo Magic: Build Lightning-Fast IoT Apps with Only 512KB RAM!](https://dev.to/ekwoster/tinygo-magic-build-lightning-fast-iot-apps-with-only-512kb-ram-29im)
-- [3 Pitfalls Most Developers Fall Into When Using AI for Code, and How I Fix Them with Crevo](https://dev.to/crevo_team/3-pitfalls-most-developers-fall-into-when-using-ai-for-code-and-how-i-fix-them-with-crevo-4e6c)
-- [RealFi is the financial revolution we need](https://dev.to/bydotun/realfi-is-the-financial-revolution-we-need-4ad6)
+- [Rural Software Developers](https://dev.to/chbrown13/rural-software-developers-2dkc)
+- [Sonia — Local AI music generator for Android &lpar;no cloud, private, one-time purchase&rpar;](https://dev.to/regodefies/sonia-local-ai-music-generator-for-android-no-cloud-private-one-time-purchase-1mn)
+- [Building Distributed Systems with Ray—Just Like Running a Restaurant](https://dev.to/n451m/building-distributed-systems-with-ray-just-like-running-a-restaurant-1gjo)
+- [Title: Unlocking the Power of Automation: How Developers Can Streamline Workflows](https://dev.to/mikeover/title-unlocking-the-power-of-automation-how-developers-can-streamline-workflows-58o9)
+- [A Beginner&#39;s Guide to Building Web Pages](https://dev.to/vidya_cdd37fca763a53a10e2/a-beginners-guide-to-building-web-pages-4ahg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
