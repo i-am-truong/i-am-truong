@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agentic AI: The Next Evolution of Autonomous Intelligence](https://dev.to/aziro_tech_8cf3f347e4e95b/agentic-ai-the-next-evolution-of-autonomous-intelligence-4ki7)
+- [10 things to do before you release a new API version for external consumers](https://dev.to/reshab_agarwal/10-things-to-do-before-you-release-a-new-api-version-for-external-consumers-5fme)
+- [Getting started with Goose on Windows](https://dev.to/lymah/getting-started-with-goose-on-windows-30bh)
+- [🛠 How to Approach Building Software](https://dev.to/mohamad_mhana/how-to-approach-building-software-373i)
 - [Start with a slice: 7 steps to get your new design system moving](https://dev.to/measuredco/start-with-a-slice-7-steps-to-get-your-new-design-system-moving-4951)
-- [learning Erlang step by step[2]](https://dev.to/sengseng/learning-erlangstep-by-step2-2401)
-- [【Minecraft BE】Proximity Voice Chat Advanced Settings](https://dev.to/kkr1212/minecraft-be-proximity-voice-chat-advanced-settings-598e)
-- [Effortless Data Mapping in Symfony: A Deep Dive into the ObjectMapper!](https://dev.to/mattleads/effortless-data-mapping-in-symfony-a-deep-dive-into-the-objectmapper-26am)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_fafe1668/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-2hck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
