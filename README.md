@@ -120,14 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Clueoai Because Every AI App Is a Security Nightmare Waiting to Happen](https://dev.to/blackocra/i-built-clueoai-because-every-ai-app-is-a-security-nightmare-waiting-to-happen-na3)
-- [Building With Patterns: Document Versioning for Financial Services](https://dev.to/mongodb/building-with-patterns-document-versioning-for-financial-services-3d0p)
-- [I built this to simplify date range selection in Angular 17+.
-If you’re an Angular dev, try it out and let me know what features you’d love next!
-Star it on GitHub if you’d like to support the project ❤️
-🔗 https://github.com/toozuuu/ngxsmk-datepicker](https://dev.to/toozuuu/i-built-this-to-simplify-date-range-selection-in-angular-17-if-youre-an-angular-dev-try-it-out-4c26)
-- [Micronaut Native vs JAR: How Going Native Saves Costs and Improves Scalability on AWS](https://dev.to/artem_peshkov_3366f0e871b/micronaut-native-vs-jar-how-going-native-saves-costs-and-improves-scalability-on-aws-1ng1)
-- [Interacting with EVM Networks in Python: From RPC Node to Smart Contract Calls](https://dev.to/onlineproxy/interacting-with-evm-networks-in-python-from-rpc-node-to-smart-contract-calls-4n7j)
+- [Game Engine 3 — A Shell for Visual Game Programming in Python](https://dev.to/artyom7777/game-engine-3-a-shell-for-visual-game-programming-in-python-3497)
+- [Understanding APIs: A Beginner&#39;s Guide to Making Your First API Call](https://dev.to/bellagirlmaker/understanding-apis-a-beginners-guide-to-making-your-first-api-call-4ab5)
+- [💥 Polars vs. Pandas: Why Your Next ETL Pipeline Should Run on Rust &lpar;Part 1/5&rpar;](https://dev.to/narayan_f8f2c91c99dfd33e6/polars-vs-pandas-why-your-next-etl-pipeline-should-run-on-rust-part-15-536o)
+- [How YouTube Tracks Your Location Even with GPS and History Turned Off](https://dev.to/aman_kumar_bdd40f1b711c15/how-youtube-tracks-your-location-even-with-gps-and-history-turned-off-1gk)
+- [What is Hoisting in JavaScript? Explained for Beginners](https://dev.to/saurav_dev_2022/what-is-hoisting-in-javascript-explained-for-beginners-1147)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
