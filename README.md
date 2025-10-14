@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Was Told Linux Was Outdated in 2023. Here&#39;s What Actually Happened.](https://dev.to/arbythecoder/i-was-told-linux-was-outdated-in-2023-heres-what-actually-happened-4499)
-- [Ten Failure Modes of RAG Nobody Talks About &lpar;And How to Detect Them Systematically&rpar;](https://dev.to/kuldeep_paul/ten-failure-modes-of-rag-nobody-talks-about-and-how-to-detect-them-systematically-7i4)
-- [My first blackjack game](https://dev.to/santiago_snchez_3c08434f/my-first-blackjack-game-1ohf)
-- [The RAG Debugging Playbook: A Step-by-Step Guide to Trace-Level Failures and Fixes](https://dev.to/kuldeep_paul/the-rag-debugging-playbook-a-step-by-step-guide-to-trace-level-failures-and-fixes-56pa)
-- [Custom Select-File in react...???](https://dev.to/tahir_rafique/custom-select-file-in-react-2756)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-3i6f)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3470)
+- [Micronaut Native vs JAR: How Going Native Saves Costs and Improves Scalability on AWS](https://dev.to/artem_peshkov_3366f0e871b/micronaut-native-vs-jar-how-going-native-saves-costs-and-improves-scalability-on-aws-1ng1)
+- [Interacting with EVM Networks in Python: From RPC Node to Smart Contract Calls](https://dev.to/onlineproxy/interacting-with-evm-networks-in-python-from-rpc-node-to-smart-contract-calls-4n7j)
+- [Como Automatizei a Publicação de Pacotes no GitHub Packages](https://dev.to/marcos_vile/como-automatizei-a-publicacao-de-pacotes-no-github-packages-10ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
