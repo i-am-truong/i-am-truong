@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Supercharging Serverless Development with LocalStack, CDK, TypeScript, and Lambda Hot Reload](https://dev.to/firepho92/supercharging-serverless-development-with-localstack-cdk-typescript-and-lambda-hot-reload-2g8)
 - [From Prompt to Practical: Evolving HandyFEM’s User Flow with Claude.ai + Mermaid.live](https://dev.to/constanza_diaz_dev/from-prompt-to-practical-evolving-handyfems-user-flow-with-claudeai-mermaidlive-kg2)
 - [Rust-Style Error Handling in C# - Why SharpResults Makes Your Code Bulletproof](https://dev.to/safwan_abdulghani_bb5c534/rust-style-error-handling-in-c-why-sharpresults-makes-your-code-bulletproof-din)
 - [What Will Shape the Next Wave of Frontend Development in 2026 &lpar;Backed by Experts + Data&rpar;](https://dev.to/blarzhernandez/what-will-shape-the-next-wave-of-frontend-development-in-2026-backed-by-experts-data-52h3)
 - [MCP Streaming HTTP Deep Dive](https://dev.to/varungujarathi9/mcp-streaming-http-deep-dive-1n5e)
-- [Stop Fighting React State: 5 Normalization Rules That Changed Everything](https://dev.to/khaledmsalem/stop-fighting-react-state-5-normalization-rules-that-changed-everything-46bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
