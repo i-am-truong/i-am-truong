@@ -120,11 +120,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Banning Kids From Social Media Will Fail &lpar;And What We Should Do Instead&rpar;](https://dev.to/web4/why-banning-kids-from-social-media-will-fail-and-what-we-should-do-instead-3glk)
-- [I cannot believe this case hasn’t made national headlines yet. The scale of deception and the strength of the founder deserve public attention.](https://dev.to/ciarraverse/i-cannot-believe-this-case-hasnt-made-national-headlines-yet-the-scale-of-deception-and-the-ckb)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_c329f31b/that-real-time-headache-its-not-the-websockets-its-your-framework-347f)
-- [Search Engines Are Dead, Meet Answer Engines](https://dev.to/dct_technology/search-engines-are-dead-meet-answer-engines-3mil)
-- [Eric Albuja on How Sustainable Tech Is Shaping the Future of Luxury Tourism](https://dev.to/ericalbujadallastx/eric-albuja-on-how-sustainable-tech-is-shaping-the-future-of-luxury-tourism-3cdf)
+- [If you&#39;re just starting, don’t aim to master AI overnight. Start by mastering prompt thinking then systems then automation.
+
+That’s how you go from developer AI augmented engineer.](https://dev.to/jaideepparashar/if-youre-just-starting-dont-aim-to-master-ai-overnight-start-by-mastering-prompt-thinking--2kmc)
+- [10 Git commands every developers Must Know,](https://dev.to/pranesh_patel/10-git-commands-every-developers-must-know-47n9)
+- [[Boost]](https://dev.to/bhavy_k_5a3b6c88887b58c92/-8p3)
+- [Zero to AI-Powered Developer: A Beginner’s Prompting Guide](https://dev.to/jaideepparashar/zero-to-ai-powered-developer-a-beginners-prompting-guide-3ddd)
+- [Top 10 Git Commands which every developers should be know](https://dev.to/pratham_naik_project_manager/top-10-git-commands-which-every-developers-should-be-know-1mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
