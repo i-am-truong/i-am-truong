@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-cn0)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-40an)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-19fn)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-pc)
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-n1n)
+- [Build a bookmark manager app with search and filter functionality](https://dev.to/frontendmentor/build-a-bookmark-manager-app-with-search-and-filter-functionality-2n1i)
+- [How I Built a Custom AI Voice Agent by Combining Deepgram, OpenAI, and ElevenLabs](https://dev.to/chaitrali_kakde/how-i-built-a-custom-ai-voice-agent-by-combining-deepgram-openai-and-elevenlabs-1l4m)
+- [Part 2 - MySQL vs PostgreSQL: Storage Architecture](https://dev.to/harry_do/part-2-mysql-vs-postgresql-storage-architecture-2ki1)
+- [OpenAI Agent Builder: The No-Code Way to Put AI on Your Website](https://dev.to/fourixai/openai-agent-builder-the-no-code-way-to-put-ai-on-your-website-4ack)
+- [Figma vs Adobe XD: Which One Should You Learn in 2025?](https://dev.to/pixel_mosaic/figma-vs-adobe-xd-which-one-should-you-learn-in-2025-13i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
