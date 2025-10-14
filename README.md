@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating an Api generator plugin for Claude Code](https://dev.to/claudye/creating-an-api-generator-plugin-for-claude-code-256e)
+- [The Finals HWID Ban: Are You at Risk?](https://dev.to/hng_nguyn_4572de3c99e6/the-finals-hwid-ban-are-you-at-risk-5247)
+- [Team Fortress 2 HWID Ban: What It Means and Why It Happens](https://dev.to/hng_nguyn_4572de3c99e6/team-fortress-2-hwid-ban-what-it-means-and-why-it-happens-dl3)
+- [Rainbow Six Siege HWID Ban: Causes, Consequences &amp; Prevention](https://dev.to/hng_nguyn_4572de3c99e6/rainbow-six-siege-hwid-ban-causes-consequences-prevention-di2)
 - [How to back up and sync your terminal configuration with a GitHub dotfiles repo](https://dev.to/walodja1987/how-to-back-up-and-sync-your-terminal-configuration-with-a-github-dotfiles-repo-4p17)
-- [Implementation and Application of the Composite Pattern in Unity](https://dev.to/sky_noc__16618949385255bd/implementation-and-application-of-the-composite-pattern-in-unity-2pm0)
-- [AppSec Q and A](https://dev.to/lynxfelony1/appsec-q-and-a-bd9)
-- [Metin 2 HWID Ban: What It Is, Why It Happens &amp; How to Appeal](https://dev.to/cng_on_2c8a3358eb166a/metin-2-hwid-ban-what-it-is-why-it-happens-how-to-appeal-b87)
-- [Marvel Rivals HWID Ban Explained: What Players Need to Know](https://dev.to/cng_on_2c8a3358eb166a/marvel-rivals-hwid-ban-explained-what-players-need-to-know-15gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
