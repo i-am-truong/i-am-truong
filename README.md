@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MCP Streaming HTTP Deep Dive](https://dev.to/varungujarathi9/mcp-streaming-http-deep-dive-1n5e)
+- [Stop Fighting React State: 5 Normalization Rules That Changed Everything](https://dev.to/khaledmsalem/stop-fighting-react-state-5-normalization-rules-that-changed-everything-46bi)
 - [Explore Code Security Feature as GitLab and GitHub Source Connect in Amazon Inspector](https://dev.to/aws-builders/explore-code-security-feature-as-gitlab-and-github-source-connect-in-amazon-inspector-3h9a)
 - [A Deep Dive into the Rhino Framework: Part 2 &lpar; Authorization and the CrudController&rpar;](https://dev.to/itsalireza/a-deep-dive-into-the-rhino-framework-part-2-authorization-and-the-crudcontroller-3lm1)
 - [Game Engine 3 — A Shell for Visual Game Programming in Python](https://dev.to/artyom7777/game-engine-3-a-shell-for-visual-game-programming-in-python-3497)
-- [Understanding APIs: A Beginner&#39;s Guide to Making Your First API Call](https://dev.to/bellagirlmaker/understanding-apis-a-beginners-guide-to-making-your-first-api-call-4ab5)
-- [💥 Polars vs. Pandas: Why Your Next ETL Pipeline Should Run on Rust &lpar;Part 1/5&rpar;](https://dev.to/narayan_f8f2c91c99dfd33e6/polars-vs-pandas-why-your-next-etl-pipeline-should-run-on-rust-part-15-536o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
