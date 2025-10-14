@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Prisma + PostgreSQL in a Monorepo &lpar;TurboRepo + PNPM + Node.js&rpar;](https://dev.to/wasimadildev/setting-up-prisma-postgresql-in-a-monorepo-turborepo-pnpm-nodejs-30ah)
+- [Setting Up Prisma + PostgreSQL in a Monorepo &lpar;TurboRepo + PNPM + Node.js&rpar;](https://dev.to/wasimadildev/setting-up-prisma-postgresql-in-a-monorepo-turborepo-pnpm-nodejs-4knd)
+- [Depurando um crash de use-after-free no meniOS](https://dev.to/pbalduino/depurando-um-crash-de-use-after-free-no-menios-2140)
+- [Building High-Availability Web Apps on AWS: Auto Scaling, ALB, and Private Subnets](https://dev.to/shreyas_yadav_e6fbf9ad3f6/building-high-availability-web-apps-on-aws-auto-scaling-alb-and-private-subnets-48a9)
 - [🌀 I Built a Naruto Fighting Game in Python - You Can Make Your Own Story!](https://dev.to/don_c_37136a93373a30b00fa/i-built-a-naruto-fighting-game-in-python-and-you-can-make-your-own-story-2e1h)
-- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-1a9)
-- [Rick Beato: Justin Hawkins And Rick Beato Ride Again!](https://dev.to/music_youtube/rick-beato-justin-hawkins-and-rick-beato-ride-again-5b5h)
-- [IGN: Black Phone 2 Review](https://dev.to/gg_news/ign-black-phone-2-review-phm)
-- [IGN: Send Help - Official Trailer &lpar;2026&rpar; Rachel McAdams, Dylan O&#39;Brien](https://dev.to/gg_news/ign-send-help-official-trailer-2026-rachel-mcadams-dylan-obrien-5318)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
