@@ -122,12 +122,12 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [I Built Clueoai Because Every AI App Is a Security Nightmare Waiting to Happen](https://dev.to/blackocra/i-built-clueoai-because-every-ai-app-is-a-security-nightmare-waiting-to-happen-na3)
 - [Building With Patterns: Document Versioning for Financial Services](https://dev.to/mongodb/building-with-patterns-document-versioning-for-financial-services-3d0p)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-1i2)
 - [I built this to simplify date range selection in Angular 17+.
 If you’re an Angular dev, try it out and let me know what features you’d love next!
 Star it on GitHub if you’d like to support the project ❤️
 🔗 https://github.com/toozuuu/ngxsmk-datepicker](https://dev.to/toozuuu/i-built-this-to-simplify-date-range-selection-in-angular-17-if-youre-an-angular-dev-try-it-out-4c26)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3470)
+- [Micronaut Native vs JAR: How Going Native Saves Costs and Improves Scalability on AWS](https://dev.to/artem_peshkov_3366f0e871b/micronaut-native-vs-jar-how-going-native-saves-costs-and-improves-scalability-on-aws-1ng1)
+- [Interacting with EVM Networks in Python: From RPC Node to Smart Contract Calls](https://dev.to/onlineproxy/interacting-with-evm-networks-in-python-from-rpc-node-to-smart-contract-calls-4n7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
