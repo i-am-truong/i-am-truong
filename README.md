@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Postgres Column Tetris: neatly packing your tables for fun and profit](https://dev.to/mcadariu/postgres-column-tetris-neatly-packing-your-tables-for-fun-and-profit-1j6g)
-- [Looking for a kind developer to guide me with my talking 3D robot project &lpar;free collaboration&rpar;](https://dev.to/islam_tv_c0e1abf81fb88cd8/looking-for-a-kind-developer-to-guide-me-with-my-talking-3d-robot-project-free-collaboration-3f4e)
-- [Configure ArgoCD Ingress on GCP with Custom Domain and Auto TLS via cert-manager](https://dev.to/durrello/configure-argocd-ingress-on-gcp-with-custom-domain-and-auto-tls-via-cert-manager-4h3l)
-- [**Unraveling the Mysteries of AI Blindspots: The Unseen Gaps](https://dev.to/drcarlosruizviquez/unraveling-the-mysteries-of-ai-blindspots-the-unseen-gaps-db6)
-- [**Reimagining AI: Beyond Fine-Tuning with Augmentation** Th](https://dev.to/drcarlosruizviquez/reimagining-ai-beyond-fine-tuning-with-augmentationth-1lna)
+- [I Was Told Linux Was Outdated in 2023. Here&#39;s What Actually Happened.](https://dev.to/arbythecoder/i-was-told-linux-was-outdated-in-2023-heres-what-actually-happened-4499)
+- [Ten Failure Modes of RAG Nobody Talks About &lpar;And How to Detect Them Systematically&rpar;](https://dev.to/kuldeep_paul/ten-failure-modes-of-rag-nobody-talks-about-and-how-to-detect-them-systematically-7i4)
+- [My first blackjack game](https://dev.to/santiago_snchez_3c08434f/my-first-blackjack-game-1ohf)
+- [The RAG Debugging Playbook: A Step-by-Step Guide to Trace-Level Failures and Fixes](https://dev.to/kuldeep_paul/the-rag-debugging-playbook-a-step-by-step-guide-to-trace-level-failures-and-fixes-56pa)
+- [Custom Select-File in react...???](https://dev.to/tahir_rafique/custom-select-file-in-react-2756)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
