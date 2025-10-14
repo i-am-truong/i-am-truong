@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Cilium to reduce cross-AZ costs on AWS](https://dev.to/hstiwana/using-cilium-to-reduce-cross-az-costs-on-aws-5138)
-- [Building an API Layer That Works for You - More Axios vs Fetch](https://dev.to/limacodes/beyond-fetch-vs-axios-building-an-api-layer-that-works-for-you-pce)
-- [Installing Oracle AI Database 26ai Free on Oracle Linux 9](https://dev.to/vahidusefzadeh/installing-oracle-ai-database-26ai-free-on-oracle-linux-9-33dk)
-- [Pawn Appétit: Professional Chess Analysis, Zero Cost](https://dev.to/gaspar_limarc_f1e8bca9ee/pawn-appetit-professional-chess-analysis-zero-cost-1c6d)
-- [What really Repository is in Asp.Net Core ?](https://dev.to/ayusclg_/what-really-repository-is-in-aspnet-core--4n8)
+- [The Complete Guide to Reducing LLM Costs Without Sacrificing Quality](https://dev.to/kuldeep_paul/the-complete-guide-to-reducing-llm-costs-without-sacrificing-quality-4gp3)
+- [Automate Your API Docs Like a Pro with @nestjs/swagger](https://dev.to/navidrez/automate-your-api-docs-like-a-pro-with-nestjsswagger-4j1j)
+- [Day 1 of Solving LeetCode Problems: Tackling Problem #3](https://dev.to/ashwat_rk_9d3b3dfa5c2a03b/day-1-of-solving-leetcode-problems-tackling-problem-3-4gb4)
+- [Building Reliable Compound AI Systems: Architecture, Evaluation, and Observability](https://dev.to/kuldeep_paul/building-reliable-compound-ai-systems-architecture-evaluation-and-observability-1fg2)
+- [Eviction Policy: Where Redis Decides Who Gets Kicked Out 🚪](https://dev.to/igornosatov_15/eviction-policy-where-redis-decides-who-gets-kicked-out-8mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
