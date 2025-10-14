@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Serverless Development with LocalStack, CDK, TypeScript, and Lambda Hot Reload](https://dev.to/firepho92/supercharging-serverless-development-with-localstack-cdk-typescript-and-lambda-hot-reload-2g8)
-- [From Prompt to Practical: Evolving HandyFEM’s User Flow with Claude.ai + Mermaid.live](https://dev.to/constanza_diaz_dev/from-prompt-to-practical-evolving-handyfems-user-flow-with-claudeai-mermaidlive-kg2)
-- [Rust-Style Error Handling in C# - Why SharpResults Makes Your Code Bulletproof](https://dev.to/safwan_abdulghani_bb5c534/rust-style-error-handling-in-c-why-sharpresults-makes-your-code-bulletproof-din)
-- [What Will Shape the Next Wave of Frontend Development in 2026 &lpar;Backed by Experts + Data&rpar;](https://dev.to/blarzhernandez/what-will-shape-the-next-wave-of-frontend-development-in-2026-backed-by-experts-data-52h3)
-- [MCP Streaming HTTP Deep Dive](https://dev.to/varungujarathi9/mcp-streaming-http-deep-dive-1n5e)
+- [IGN: Black Phone 2 Review](https://dev.to/gg_news/ign-black-phone-2-review-phm)
+- [IGN: Send Help - Official Trailer &lpar;2026&rpar; Rachel McAdams, Dylan O&#39;Brien](https://dev.to/gg_news/ign-send-help-official-trailer-2026-rachel-mcadams-dylan-obrien-5318)
+- [Bridging Worlds: AI&#39;s Breakthrough in Nepali Sign Language](https://dev.to/arvind_sundararajan/bridging-worlds-ais-breakthrough-in-nepali-sign-language-2c5l)
+- [Dynamic Styling with calc&lpar;&rpar; in TailwindCSS](https://dev.to/devarshishimpi/dynamic-styling-with-calc-in-tailwindcss-5pp)
+- [Ringer Movies: ‘Sneakers’ With Bill Simmons, Kyle Brandt, and Joanna Robinson](https://dev.to/popcorn_movies/ringer-movies-sneakers-with-bill-simmons-kyle-brandt-and-joanna-robinson-3hd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
