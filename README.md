@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What do you do when your kids won&#39;t wear weather appropriate clothes?](https://dev.to/jennyli/what-do-you-do-when-your-kids-wont-wear-weather-appropriate-clothes-222k)
-- [Expanding Your Infrastructure Automation Across the Lifecycle Using Puppet Edge](https://dev.to/jasonstcyr/expanding-your-infrastructure-automation-across-the-lifecycle-using-puppet-edge-533f)
-- [Java Class, Object and Variables](https://dev.to/dev_anantharul_1746a25af/java-class-object-and-variables-27j6)
-- [Building InnerJoin: A SQL Practice Platform in 3 Months](https://dev.to/nick_lisauskas_658b6bfd3a/building-innerjoin-a-sql-practice-platform-in-3-months-3o3p)
-- [Break Free from Data Silos: How Cloud-Agnostic Fabric is Revolutionizing Real-Time Data synchronization](https://dev.to/pokhraj_das_oracle/break-free-from-data-silos-how-cloud-agnostic-fabric-is-revolutionizing-real-time-data-3b5m)
+- [Day 3: Mastering the Dictionary, Counting Character Frequency](https://dev.to/shahrouzlogs/day-3-mastering-the-dictionary-counting-character-frequency-43f)
+- [From Giants to Minis - The Emergence of Small Language Models](https://dev.to/rijultp/from-giants-to-minis-the-emergence-of-small-language-models-1mg4)
+- [Record, Class και Struct στη C# — Αναλυτική Επεξήγηση με Παραδείγματα](https://dev.to/__b63657/record-class-kai-struct-ste-c-analutike-epexegese-me-paradeigmata-1il5)
+- [GitHub Actions: Why You Should Pin Your Actions to a Specific Version](https://dev.to/ciberconscientes/github-actions-why-you-should-pin-your-actions-to-a-specific-version-1513)
+- [While Loop](https://dev.to/arun_kumar_98/while-loop-igk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
