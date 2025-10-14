@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building InnerJoin: A SQL Practice Platform in 3 Months](https://dev.to/nick_lisauskas_658b6bfd3a/building-innerjoin-a-sql-practice-platform-in-3-months-3o3p)
+- [Break Free from Data Silos: How Cloud-Agnostic Fabric is Revolutionizing Real-Time Data synchronization](https://dev.to/pokhraj_das_oracle/break-free-from-data-silos-how-cloud-agnostic-fabric-is-revolutionizing-real-time-data-3b5m)
+- [🚀 Smarter Debouncing in React — Introducing `@er-raj-aryan/use-smart-debounce`](https://dev.to/er-raj-aryan/smarter-debouncing-in-react-introducing-er-raj-aryanuse-smart-debounce-g4g)
 - [The Complete Guide to Reducing LLM Costs Without Sacrificing Quality](https://dev.to/kuldeep_paul/the-complete-guide-to-reducing-llm-costs-without-sacrificing-quality-4gp3)
 - [Automate Your API Docs Like a Pro with @nestjs/swagger](https://dev.to/navidrez/automate-your-api-docs-like-a-pro-with-nestjsswagger-4j1j)
-- [Day 1 of Solving LeetCode Problems: Tackling Problem #3](https://dev.to/ashwat_rk_9d3b3dfa5c2a03b/day-1-of-solving-leetcode-problems-tackling-problem-3-4gb4)
-- [Building Reliable Compound AI Systems: Architecture, Evaluation, and Observability](https://dev.to/kuldeep_paul/building-reliable-compound-ai-systems-architecture-evaluation-and-observability-1fg2)
-- [Eviction Policy: Where Redis Decides Who Gets Kicked Out 🚪](https://dev.to/igornosatov_15/eviction-policy-where-redis-decides-who-gets-kicked-out-8mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
