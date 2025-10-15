@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Docker Becoming Too Heavy for Everyday Development?](https://dev.to/lamri_abdellahramdane_15/is-docker-becoming-too-heavy-for-everyday-development-3nnp)
+- [Why Every Microservice Should Have Its Own Database](https://dev.to/cathylai/why-every-microservice-should-have-its-own-database-jc0)
 - [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-54mi)
 - [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-3h7e)
 - [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-a7)
-- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-2i58)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-bap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
