@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Data-Driven System for Turning Clicks into Profit](https://dev.to/onlineproxy/the-data-driven-system-for-turning-clicks-into-profit-2agh)
-- [Generated Content](https://dev.to/iankhanfuturist/generated-content-1oco)
-- [What is Backlink Monitoring Software and How Does it Help Maintain SEO Performance?](https://dev.to/anadil_khalil_977fa4834cf/what-is-backlink-monitoring-software-and-how-does-it-help-maintain-seo-performance-2f0g)
-- [What is a Backlink Management Tool and Why is it Essential for SEO?](https://dev.to/anadil_khalil_977fa4834cf/what-is-a-backlink-management-tool-and-why-is-it-essential-for-seo-8np)
-- [Which are the primary technologies used for building your product?](https://dev.to/dev-tngsh/which-are-the-primary-technologies-used-for-building-your-product-28e6)
+- [🔐 Supercharge Your Test Stability with cy.ensurePageIsReady&lpar;&rpar; in Cypress.io](https://dev.to/mohamedsaidibrahim/supercharge-your-test-stability-with-cyensurepageisready-in-cypressio-103l)
+- [Rethinking Identity Infrastructure for Autonomous Systems](https://dev.to/deepakgupta/rethinking-identity-infrastructure-for-autonomous-systems-2lp4)
+- [🧪 How to Test Angular Components with Cypress Component Testing &lpar;CT&rpar;](https://dev.to/mohamedsaidibrahim/how-to-test-angular-components-with-cypress-component-testing-ct-3fei)
+- [What is Content Compliance &amp; Why Does it Matter](https://dev.to/getstreamhq/what-is-content-compliance-why-does-it-matter-21ah)
+- [Database analytics: Query your source of truth](https://dev.to/quadraticai/database-analytics-query-your-source-of-truth-3l4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
