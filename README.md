@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Extending Pydantic AI Agents with Dependencies — Adding Context to Your AI Agents](https://dev.to/hamluk/extending-pydantic-ai-agents-with-dependencies-adding-context-to-your-ai-agents-3f8o)
+- [The Artisan&#39;s Guide to PostgreSQL: Sculpting Data with JSONB, Arrays, and Full-Text Search](https://dev.to/alex_aslam/the-artisans-guide-to-postgresql-sculpting-data-with-jsonb-arrays-and-full-text-search-1khg)
 - [The Art of the Data Fetch: A Journey Through `pluck`, `select`, and `map`](https://dev.to/alex_aslam/the-art-of-the-data-fetch-a-journey-through-pluck-select-and-map-5dhh)
 - [5 Important Things to Secure Your Backend API &lpar;for Beginners&rpar;](https://dev.to/wasimadildev/5-important-things-to-secure-your-backend-api-for-beginners-1ick)
 - [The Nested Patterns: Advanced Comprehension Techniques](https://dev.to/aaron_rose_0787cc8b4775a0/the-nested-patterns-advanced-comprehension-techniques-kdk)
-- [👋 Hey Dev Community! I&#39;m Rohit — The Mind Behind CodeWithLucifer 💻](https://dev.to/rohitahirwal/hey-dev-community-im-rohit-the-mind-behind-codewithlucifer-37mi)
-- [The Invisible Conveyor Belt: A Journey into the Microtask Queue](https://dev.to/alex_aslam/the-invisible-conveyor-belt-a-journey-into-the-microtask-queue-3jd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
