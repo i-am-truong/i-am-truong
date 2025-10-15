@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build vs. Buy: Pre-Built Templates vs. Custom Middleware for SAP-Salesforce Integration](https://dev.to/buildert/build-vs-buy-pre-built-templates-vs-custom-middleware-for-sap-salesforce-integration-2fg1)
 - [Using zstandard on-the-fly &lpar;de&rpar;compression in Elixir](https://dev.to/ndrean/using-zstandard-on-the-fly-decompression-in-elixir-84k)
+- [Orchestrating and Observing Data Pipelines with Airflow, PostgreSQL, and Polar](https://dev.to/ctrix/orchestrating-and-observing-data-pipelines-with-airflow-postgresql-and-polar-nig)
+- [Unlocking the Power of AI in Software Development: A Comprehensive Guide](https://dev.to/mikeover/unlocking-the-power-of-ai-in-software-development-a-comprehensive-guide-7n9)
 - [n8n VPS Comparison: Hostinger vs Railway vs DigitalOcean vs Render](https://dev.to/thesohailjafri/n8n-vps-comparison-hostinger-vs-railway-vs-digitalocean-vs-render-3phn)
-- [How to make your app indefinitely lazy – Part 4: Preload in Advance](https://dev.to/yoskutik/how-to-make-your-app-indefinitely-lazy-part-4-preload-in-advance-2go1)
-- [How to make your app indefinitely lazy – Part 3: Vendors and Cache](https://dev.to/yoskutik/how-to-make-your-app-indefinitely-lazy-part-3-vendors-and-cache-49k9)
-- [How to make your app indefinitely lazy – Part 2: Dependency Graphs](https://dev.to/yoskutik/how-to-make-your-app-indefinitely-lazy-part-2-dependency-graphs-2bi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
