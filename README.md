@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Join our latest Frontend Challenge: Halloween Edition 🦇](https://dev.to/devteam/join-our-latest-frontend-challenge-halloween-edition-55oi)
+- [First Publication!](https://dev.to/tochi_/first-publication-5b38)
+- [Scaling GitLab CI/CD with reusable templates](https://dev.to/yoriiis/scaling-gitlab-cicd-with-reusable-templates-5ho0)
 - [OSI model](https://dev.to/jumptotech/osi-model-4ia)
 - [What is network protocol](https://dev.to/jumptotech/what-is-network-protocol-5bdm)
-- [Deconstructing B2B Marketing ROI: The Formulas &amp; Code You Actually Need](https://dev.to/michaelaiglobal/deconstructing-b2b-marketing-roi-the-formulas-code-you-actually-need-f0o)
-- [My DevOps Journey: Part 9 - Into the Cloud &lpar;Cloud Computing, IAM, and AWS Foundations&rpar;](https://dev.to/sheershsinha/my-devops-journey-part-9-into-the-cloud-cloud-computing-iam-and-aws-foundations-5dl1)
-- [SDLC](https://dev.to/jumptotech/sdlc-1bk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
