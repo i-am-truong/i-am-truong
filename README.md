@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Common Mistakes I Made as a Junior Backend Developer](https://dev.to/salah_elbouhlali_66fa9a7/common-mistakes-i-made-as-a-junior-backend-developer-l61)
-- [Conquering Cypress Test Failures: A Comprehensive Guide to Common Errors &amp; Automated Reporting](https://dev.to/mohamedsaidibrahim/conquering-cypress-test-failures-a-comprehensive-guide-to-common-errors-automated-reporting-8ah)
-- [** &quot;AI&#39;s Double-Edged Sword: How Goldman Sachs Job Cuts and AppFolio&#39;s Breakthrough Signal the Future of Work](https://dev.to/iankhanfuturist/-ais-double-edged-sword-how-goldman-sachs-job-cuts-and-appfolios-breakthrough-signal-the-2bep)
-- [🔥 Supercharge Your Angular E2E Testing with Cypress — Introducing cypress-angular-commands](https://dev.to/mohamedsaidibrahim/supercharge-your-angular-e2e-testing-with-cypress-introducing-cypress-angular-commands-2n25)
-- [🔐 Supercharge Your Test Stability with cy.ensurePageIsReady&lpar;&rpar; in Cypress.io](https://dev.to/mohamedsaidibrahim/supercharge-your-test-stability-with-cyensurepageisready-in-cypressio-103l)
+- [Brotli vs. Gzip for Web Performance In Static Sites](https://dev.to/lovestaco/brotli-vs-gzip-for-web-performance-in-static-sites-2nhk)
+- [WEBSOCKETS](https://dev.to/renam_singla_fb52a400f07e/websockets-2ehb)
+- [The enigma of Python Enums](https://dev.to/kristofbcoding/the-enigma-of-python-enums-19k0)
+- [Ng-News 25/41: Future Testing Framework: Vitest or Jest?](https://dev.to/this-is-angular/ng-news-2541-future-testing-framework-vitest-or-jest-3cpc)
+- [Understanding Engine for Your Codebase](https://dev.to/claire_rosenfeld_e29a8e1a/understanding-engine-for-your-codebase-dka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
