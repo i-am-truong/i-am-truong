@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Vite + React App to Firebase with Staging and Production Environments](https://dev.to/aqibnawazdev/deploying-vite-react-app-to-firebase-with-staging-and-production-environments-4ekm)
-- [Lessons Learnt Building a Frontend Mentor Project](https://dev.to/kansoldev/lessons-learnt-building-a-frontend-mentor-project-1mhh)
-- [How I Hosted a WordPress Blog on a Subdomain While Keeping My Main Domain on Render](https://dev.to/haastrupea/how-i-hosted-a-wordpress-blog-on-a-subdomain-while-keeping-my-main-domain-on-render-4h9d)
-- [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
-- [🦋 Design with intent. Emotionally smart colours in your UI.](https://dev.to/adam/design-with-intent-emotionally-smart-colours-in-your-ui-2oaj)
+- [Why Every Startup Needs a Scalable Tech Stack Before Raising Funding &lpar;or Risk Losing It All&rpar;](https://dev.to/davidcode/why-every-startup-needs-a-scalable-tech-stack-before-raising-funding-or-risk-losing-it-all-7li)
+- [Building Type Guards Like LEGO Blocks: Making Reusable Logic with is-kit](https://dev.to/nyaomaru/building-type-guards-like-lego-blocks-making-reusable-logic-with-is-kit-48e4)
+- [How to Design a Door Slam Lock using 3D CAD Software](https://dev.to/julia970/how-to-design-a-door-slam-lock-using-3d-cad-software-1i2m)
+- [Styling by State: How to make CSS do JS](https://dev.to/hairy-styles/styling-by-state-how-to-make-css-do-js-aen)
+- [Build an E-commerce Website with Django and Stripe Payments](https://dev.to/djamware_tutorial_eba1a61/build-an-e-commerce-website-with-django-and-stripe-payments-54pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
