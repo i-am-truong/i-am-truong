@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is SPL more difficult or easier than SQL?](https://dev.to/esproc_spl/is-spl-more-difficult-or-easier-than-sql-510j)
+- [150+ AI Prompts for WordPress Devs [Get the Free PDF]](https://dev.to/medha_bhatt_21b7dc4cc53e7/150-ai-prompts-for-wordpress-devs-get-the-free-pdf-33p3)
 - [Post 4/10 — Smart Scaling &amp; Cost Control: HPA/KEDA + Cluster Autoscaler vs Karpenter](https://dev.to/cloud-sky-ops/post-410-smart-scaling-cost-control-hpakeda-cluster-autoscaler-vs-karpenter-hm3)
 - [Unified Authentication and Key Distribution Scheme for Apps Without Human-Device Interaction](https://dev.to/lunarecho/unified-authentication-and-key-distribution-scheme-for-apps-without-human-device-interaction-5h41)
-- [Crash Dumps in Linux Kernel &amp; Application Deep Dive](https://dev.to/mohideen_sahib_79f5f9e8de/crash-dumps-in-linux-kernel-application-deep-dive-3ng0)
-- [Which Unreal Engine 5 Plugins Are Most Useful for Creators in 2025?](https://dev.to/irender_gpu_cloud/which-unreal-engine-5-plugins-are-most-useful-for-creators-in-2025-mi7)
-- [90% of Software Engineers Building with LLMs Are Still Writing Unit Tests](https://dev.to/klement_gunndu_e16216829c/90-of-software-engineers-building-with-llms-are-still-writing-unit-tests-5dn6)
+- [PatentScan.ai Pricing: Understanding Prior Art Search Cost](https://dev.to/patentscanai/patentscanai-pricing-understanding-prior-art-search-cost-2d2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
