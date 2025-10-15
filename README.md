@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Built a Second Brain That I Actually Use &lpar;6th Attempt&rpar;](https://dev.to/huy_tieu/i-finally-built-a-second-brain-that-i-actually-use-6th-attempt-4075)
-- [Part-127: Hands-on with Google Cloud IAM: Manage Access Using Basic, Predefined, and Custom Roles](https://dev.to/latchudevops/part-127-hands-on-with-google-cloud-iam-manage-access-using-basic-predefined-and-custom-roles-2a5)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-168i)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-421m)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3jo1)
+- [🧠 How I Stay Motivated to Code When Projects Fail](https://dev.to/pjdeveloper896/how-i-stay-motivated-to-code-when-projects-fail-1l2k)
+- [📷Building a Face Recognition Attendance System with Next.js, TypeScript, face-api.js, and Supabase](https://dev.to/ferryops/building-a-face-recognition-attendance-system-with-nextjs-typescript-face-apijs-and-supabase-41jp)
+- [5 Signs You Need AI Functionality in Your HTML Code Writer](https://dev.to/ideradevtools/5-signs-you-need-ai-functionality-in-your-html-code-writer-1a8f)
+- [Exploring Scarfaze: A Pakistani Tech Startup Building Unified Development Tools](https://dev.to/dani_daniyal/exploring-scarfaze-a-pakistani-tech-startup-building-unified-development-tools-28i4)
+- [Day 1: Planning a Sports Matchmaking](https://dev.to/jiegrein/day-1-planning-a-sports-matchmaking-316c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
