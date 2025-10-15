@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Bedrock Powered VPC Flow Log Analyzer 🔍](https://dev.to/aws-builders/aws-bedrock-vpc-flow-log-analyzer-3gi1)
-- [Why Startups Should Build MVPs, Not Full Products](https://dev.to/linwood_matthews_221/why-startups-should-build-mvps-not-full-products-5g26)
-- [AI in Education: Will AI Replace Teachers?](https://dev.to/amttawsik/ai-in-education-will-ai-replace-teachers-1pg6)
-- [Why Every Startup Needs a Scalable Tech Stack Before Raising Funding &lpar;or Risk Losing It All&rpar;](https://dev.to/davidcode/why-every-startup-needs-a-scalable-tech-stack-before-raising-funding-or-risk-losing-it-all-7li)
-- [Building Type Guards Like LEGO Blocks: Making Reusable Logic with is-kit](https://dev.to/nyaomaru/building-type-guards-like-lego-blocks-making-reusable-logic-with-is-kit-48e4)
+- [Full Guide on Snowflake Salesforce Integration](https://dev.to/doriansabitov/full-guide-on-snowflake-salesforce-integration-10pb)
+- [Automating Deployment of Your Vue.js App to Firebase Hosting with GitHub Actions](https://dev.to/udara_dananjaya/-automating-deployment-of-your-vuejs-app-to-firebase-hosting-with-github-actions-4l6g)
+- [What is Agentic Commerce and How Macaron&#39;s AI-Powered Checkout Can Transform E-Commerce in 2025](https://dev.to/banelygalan/what-is-agentic-commerce-and-how-macarons-ai-powered-checkout-can-transform-e-commerce-in-2025-12h3)
+- [10 Tricks to Write Super Clean Code in TypeScript](https://dev.to/marcellin/10-tricks-to-write-super-clean-code-in-typescript-10k9)
+- [From Prompt to Practical: Evolving HandyFEM’s User Flow with Claude.ai + Mermaid.live](https://dev.to/constanza_diaz_dev/from-prompt-to-practical-evolving-handyfems-user-flow-with-claudeai-mermaidlive-fj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
