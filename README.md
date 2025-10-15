@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shipixy.com – Fast, Transparent, and Smarter Shipping for Everyone](https://dev.to/michael_rigney_aeaad1ab1f/shipixycom-fast-transparent-and-smarter-shipping-for-everyone-54a5)
+- [What is Type of?](https://dev.to/aj_arul/what-is-type-of-50h9)
+- [Untitled](https://dev.to/spotify_artist_00a5349d54/untitled-17f3)
 - [🧩 Understanding npm, Yarn, Bun &amp; Deno — The Secret Life of Package Managers &lpar;and Why Vite Loves Them&rpar;](https://dev.to/charan_gutti_cf60c6185074/understanding-npm-yarn-bun-deno-the-secret-life-of-package-managers-and-why-vite-loves-gdk)
 - [The Rivalland Files &lpar;Part 1 of 7&rpar;: The Untold Story of Quiet Influence in Mauritius](https://dev.to/marketingweb/the-rivalland-files-part-1-of-7-the-untold-story-of-quiet-influence-in-mauritius-27p)
-- [HTML](https://dev.to/vidya_cdd37fca763a53a10e2/html-291m)
-- [The $440,000 Architecture Mistake: Why Deloitte&#39;s AI Failed &lpar;And How to Prevent It&rpar;](https://dev.to/fintechbro/the-440000-architecture-mistake-why-deloittes-ai-failed-and-how-to-prevent-it-4ap2)
-- [💡 How the “Human” Side of Development Still Shapes Great Tech](https://dev.to/smartplayoficial_e4f6f60b/how-the-human-side-of-development-still-shapes-great-tech-2g7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
