@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Announcing InsForge’s Hacktoberfest 2025 — Contribute, build, and win](https://dev.to/hang_huang/announcing-insforges-hacktoberfest-2025-contribute-build-and-win-1cl2)
-- [Day 1251 : I need a break](https://dev.to/dwane/day-1251-i-need-a-break-k71)
-- [How I Accidentally Made My npm Package 324MB &lpar;and Fixed It&rpar;](https://dev.to/karthikng14/how-i-accidentally-made-my-npm-package-324mb-and-fixed-it-1p14)
-- [RESTful Services 101 — A Practical Guide for Frontend and Backend Developers](https://dev.to/cathylai/restful-services-101-a-practical-guide-for-frontend-and-backend-developers-2kj7)
-- [Building a ChatGPT App with VoltAgent and the Apps SDK](https://dev.to/ekimcem/building-a-chatgpt-app-with-voltagent-and-the-apps-sdk-4j21)
+- [Tuple in Python &lpar;5&rpar;](https://dev.to/hyperkai/tuple-in-python-5-4jaa)
+- [Precise Data Extraction: Pattern-Based Partitioning for Structured Extraction](https://dev.to/tensorlake/precise-data-extraction-pattern-based-partitioning-for-structured-extraction-2fi5)
+- [O Valor do Qualis na Ciência Brasileira: Uma Doença Coletiva? &lpar;episódio de 2023&rpar;](https://dev.to/fronteirases/o-valor-do-qualis-na-ciencia-brasileira-uma-doenca-coletiva-episodio-de-2023-3mh5)
+- [Working with Tokens on Solana using Native Rust](https://dev.to/davidekete/working-with-tokens-on-solana-using-native-rust-1cdk)
+- [How to Perform Image Processing in Matlab in 2025?](https://dev.to/jordankeurope/how-to-perform-image-processing-in-matlab-in-2025-2dje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
