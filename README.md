@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Secure FinTech App Using React Native](https://dev.to/aartijangid23/how-to-build-a-secure-fintech-app-using-react-native-30n4)
-- [🧠 The Hidden Layer: How Databases Power the Backend World](https://dev.to/sandeep_03j/the-hidden-layer-how-databases-power-the-backend-world-1fjn)
-- [🐶Spring Boot, but Every Exception Is a Dog Breed](https://dev.to/madhukashyap/spring-boot-but-every-exception-is-a-dog-breed-4lja)
-- [Buying apps and installing them: The fast track and risk zone for mobile marketing on Google Play and Apple Store](https://dev.to/youou/buying-apps-and-installing-them-the-fast-track-and-risk-zone-for-mobile-marketing-on-google-play-4e8n)
-- [Build Video Call App with ZEGOCLOUD | 1-on-1 &amp; Group Video Chat using HTML, CSS &amp; JS in 10 Minutes](https://dev.to/sharathchandark/build-video-call-app-with-zegocloud-1-on-1-group-video-chat-using-html-css-js-in-10-minutes-2b79)
+- [Artisan Keycaps: Why Can a Tiny Resin Keycap Cost So Much?](https://dev.to/mysticcoder/artisan-keycaps-why-can-a-tiny-resin-keycap-cost-so-much-1fao)
+- [Why SOM Matters More Than TAM: MVP Experiments to Validate Your Target Market](https://dev.to/yaseen_tech/why-som-matters-more-than-tam-mvp-experiments-to-validate-your-target-market-7aa)
+- [How to Make Modal Popup Responsive in Bootstrap? 🚀](https://dev.to/theme_selection/how-to-make-modal-popup-responsive-in-bootstrap-25lm)
+- [The Future of AI Marketing Funnels](https://dev.to/qwegle_insights/the-future-of-ai-marketing-funnels-7n7)
+- [Automating Repetitive Dev Tasks with AI: Boost Your Productivity](https://dev.to/pixel_mosaic/automating-repetitive-dev-tasks-with-ai-boost-your-productivity-64a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
