@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Senior Developer&#39;s guide to Stream-Oriented Programming](https://dev.to/dariomannu/a-senior-developers-guide-to-stream-oriented-programming-3j24)
-- [Is Native iOS Development with Swift Still Worth It in 2025?](https://dev.to/divyesh_vekariya/is-native-ios-development-with-swift-still-worth-it-in-2025-3b0c)
-- [Why Copilots Are the New Shadow IT](https://dev.to/talweezy/why-copilots-are-the-new-shadow-it-596m)
-- [AI-Powered Code Assistants for Faster Mobile App Development: A Comparative Study](https://dev.to/iprogrammer_solutionspvt/ai-powered-code-assistants-for-faster-mobile-app-development-a-comparative-study-26fp)
-- [Firefox and Chrome Extension - Crypto Address Generator](https://dev.to/jonkwheeler/firefox-and-chrome-extension-crypto-address-generator-25ha)
+- [How the hash was won](https://dev.to/luc4587/how-the-hash-was-won-3elb)
+- [Simplifying Auth and Role-Based Routing with Stack.Protected in Expo Router](https://dev.to/aaronksaunders/simplifying-auth-and-role-based-routing-with-stackprotected-in-expo-router-592m)
+- [Learning OpenGL Part 3:](https://dev.to/noticeablesmeh/opengl-part-3-4f05)
+- [Hiring in the Age of Agents: Why Culture Fit Will Be Decided by AI](https://dev.to/dassh_ai_d7d1d9701f089432/hiring-in-the-age-of-agents-why-culture-fit-will-be-decided-by-ai-n4k)
+- [Automation with Playwright: Building a Scalable Testing Architecture](https://dev.to/gustavomeilus/automation-with-playwright-building-a-scalable-testing-architecture-4cbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
