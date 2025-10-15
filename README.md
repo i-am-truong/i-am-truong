@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Agents: Or Once Again About AI Taking Away Our Job](https://dev.to/iryna_k_d5aabe217736fefe7/playwright-agents-or-once-again-about-ai-taking-away-our-job-ch6)
-- [7 Productivity Hacks That Changed My Life &lpar;And Will Change Yours Too&rpar;](https://dev.to/adhikareeprayush/7-productivity-hacks-that-changed-my-life-and-will-change-yours-too-19ne)
-- [I’m still shocked after reading how the entire workforce of Topdevs &lpar;a thriving tech company&rpar; was transferred into Talentcrowd overnight. This is organized corporate theft disguised as a merger.](https://dev.to/techtalk/im-still-shocked-after-reading-how-the-entire-workforce-of-topdevs-a-thriving-tech-company-was-4n40)
-- [Understanding Authentication: Methods and Best Practices](https://dev.to/ciberconscientes/understanding-authentication-methods-and-best-practices-ncj)
-- [LangChain Observability: Monitoring Guide for Production Apps](https://dev.to/uptrace/langchain-observability-monitoring-guide-for-production-apps-1m6m)
+- [Using zstandard on-the-fly &lpar;de&rpar;compression in Elixir](https://dev.to/ndrean/using-zstandard-on-the-fly-decompression-in-elixir-84k)
+- [n8n VPS Comparison: Hostinger vs Railway vs DigitalOcean vs Render](https://dev.to/thesohailjafri/n8n-vps-comparison-hostinger-vs-railway-vs-digitalocean-vs-render-3phn)
+- [How to make your app indefinitely lazy – Part 4: Preload in Advance](https://dev.to/yoskutik/how-to-make-your-app-indefinitely-lazy-part-4-preload-in-advance-2go1)
+- [How to make your app indefinitely lazy – Part 3: Vendors and Cache](https://dev.to/yoskutik/how-to-make-your-app-indefinitely-lazy-part-3-vendors-and-cache-49k9)
+- [How to make your app indefinitely lazy – Part 2: Dependency Graphs](https://dev.to/yoskutik/how-to-make-your-app-indefinitely-lazy-part-2-dependency-graphs-2bi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
