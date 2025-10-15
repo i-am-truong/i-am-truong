@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MGA Insurance Software Guide: Faster Product Launch](https://dev.to/openkoda/mga-insurance-software-guide-faster-product-launch-3fe1)
-- [How to Design a Nutcracker Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-nutcracker-using-3d-cad-software-3415)
-- [🤖 Automating AI Newsletters with n8n: The Newsletter Agent Workflow](https://dev.to/techstuff/automating-ai-newsletters-with-n8n-the-newsletter-agent-workflow-2agj)
-- [Technology and Democracy: Rethinking Citizen Engagement](https://dev.to/andrinirina_aimeugne_6/technology-and-democracy-rethinking-citizen-engagement-dk5)
-- [The Most Common FinTech App Security Weaknesses You Can’t Overlook](https://dev.to/sambishop/the-most-common-fintech-app-security-weaknesses-you-cant-overlook-5c6)
+- [Deploying Vite + React App to Firebase with Staging and Production Environments](https://dev.to/aqibnawazdev/deploying-vite-react-app-to-firebase-with-staging-and-production-environments-4ekm)
+- [Lessons Learnt Building a Frontend Mentor Project](https://dev.to/kansoldev/lessons-learnt-building-a-frontend-mentor-project-1mhh)
+- [How I Hosted a WordPress Blog on a Subdomain While Keeping My Main Domain on Render](https://dev.to/haastrupea/how-i-hosted-a-wordpress-blog-on-a-subdomain-while-keeping-my-main-domain-on-render-4h9d)
+- [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
+- [🦋 Design with intent. Emotionally smart colours in your UI.](https://dev.to/adam/design-with-intent-emotionally-smart-colours-in-your-ui-2oaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
