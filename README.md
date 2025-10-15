@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Centralized Authentication Service for Multi-Domain Apps](https://dev.to/skillmx_2025/building-a-centralized-authentication-service-for-multi-domain-apps-1jib)
-- [Construye Agentes de IA que Nunca Olvidan: Amazon S3 Vectors + Strands Agent](https://dev.to/aws-espanol/construye-agentes-de-ia-que-nunca-olvidan-amazon-s3-vectors-strands-agent-5gch)
-- [Behind the Scenes: Volunteering at AWS Community Day Mumbai 2025](https://dev.to/yashgkar/behind-the-scenes-volunteering-at-aws-community-day-mumbai-2025-3a83)
-- [SPL Token vs. Token Extensions on Solana](https://dev.to/arvie_carlos_961023/spl-token-vs-token-extensions-on-solana-19c9)
-- [What is an Automatic Backlink Indexer and How Does It Work?](https://dev.to/anadil_khalil_977fa4834cf/what-is-an-automatic-backlink-indexer-and-how-does-it-work-4fc7)
+- [Why and How to Write Minimal and Valid HTML, a Link Guide](https://dev.to/j9t/why-and-how-to-write-minimal-and-valid-html-a-link-guide-2b4p)
+- [Apple Clips social video app killed after eight years](https://dev.to/logicverse_2025/apple-clips-social-video-app-killed-after-eight-years-55jf)
+- [The Agent Mesh: Building Smarter Integration Workflows with AI Agents](https://dev.to/webmethodman/the-agent-mesh-building-smarter-integration-workflows-with-ai-agents-51ae)
+- [DevOpsWay Mini #1 - Vagrant](https://dev.to/wbartlomiej/devopsway-mini-1-vagrant-5203)
+- [Building a Centralized Authentication Service for Multi-Domain Apps](https://dev.to/logicverse_2025/building-a-centralized-authentication-service-for-multi-domain-apps-1jib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
