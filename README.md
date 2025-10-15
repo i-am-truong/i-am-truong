@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stoplight Alternatives Developers Actually Work with](https://dev.to/apilover/stoplight-alternatives-developers-actually-work-with-24c5)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4h3i)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2n3l)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-130h)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-pf4)
+- [Technology and Democracy: Rethinking Citizen Engagement](https://dev.to/andrinirina_aimeugne_6/technology-and-democracy-rethinking-citizen-engagement-dk5)
+- [The Most Common FinTech App Security Weaknesses You Can’t Overlook](https://dev.to/sambishop/the-most-common-fintech-app-security-weaknesses-you-cant-overlook-5c6)
+- [Transforming and Querying JSON Data in AWS S3 with Glue and Athena](https://dev.to/aws-builders/transforming-and-querying-json-data-in-aws-s3-with-glue-and-athena-15ep)
+- [MdBin: Share Beautiful Rendered Markdown Instead of Raw Code](https://dev.to/sivarampg/mdbin-share-beautiful-rendered-markdown-instead-of-raw-code-5e9j)
+- [What kind of day is this ‘day’? — Naming Tips That Won’t Confuse Your Readers](https://dev.to/a-k-0047/what-kind-of-day-is-this-day-naming-tips-that-wont-confuse-your-readers-21kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
