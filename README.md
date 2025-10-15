@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Billion Parameters vs One Shoe: Taming FLUX.1 Kontext AI for E-commerce](https://dev.to/igornosatov_15/12-billion-parameters-vs-one-shoe-taming-flux1-kontext-ai-for-e-commerce-4b24)
+- [🤖 Convert XML to JSON Instantly — Because Who Has Time for Angle Brackets? ⚙️](https://dev.to/akashbijwe/convert-xml-to-json-instantly-because-who-has-time-for-angle-brackets-554j)
+- [What is a Backlink Tracking Tool and Why is it Important for SEO?](https://dev.to/anadil_khalil_977fa4834cf/what-is-a-backlink-tracking-tool-and-why-is-it-important-for-seo-4pjh)
+- [How Recursion Actually Works](https://dev.to/aditi_deshmukh/how-recursion-actually-works-1bn)
 - [From Docker to AWS: Step-by-Step Guide — Push to ECR and Deploy on ECS](https://dev.to/oncloud7/from-docker-to-aws-step-by-step-guide-push-to-ecr-and-deploy-on-ecs-3l78)
-- [Introducción a Grafana](https://dev.to/jjoc007/introduccion-a-grafana-5a4g)
-- [Being A Great Developer Is More Than Just Code Output - Collaboration — Non-Devs roles in your team matter as much](https://dev.to/cgarza/being-a-great-developer-is-more-than-just-code-output-collaboration-non-devs-roles-in-your-team-18ek)
-- [Building FatAdvisor: A .NET Nutrition AI Agent. Part 1: Building the Foundation](https://dev.to/doctornick42/building-fatadvisor-a-net-nutrition-ai-agent-part-1-building-the-foundation-1402)
-- [Weekly Update #13](https://dev.to/abytebybyte/weekly-update-13-55a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
