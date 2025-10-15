@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering LVM: From Basics to Advanced Migration, Backup &amp; Recovery](https://dev.to/mohideen_sahib_79f5f9e8de/mastering-lvm-from-basics-to-advanced-migration-backup-recovery-464c)
-- [How RSA Works &lpar;for Dummies&rpar;](https://dev.to/rayjay/how-rsa-works-for-dummies-43ja)
-- [GOOD](https://dev.to/reuben_barr_250e68e131938/good-3585)
-- [The Subtle but Critical Difference: `process.nextTick&lpar;&rpar;` vs. `setImmediate&lpar;&rpar;`](https://dev.to/alex_aslam/the-subtle-but-critical-difference-processnexttick-vs-setimmediate-28c1)
-- [The Art of the Chisel: Crafting Pluggable Business Rules with the Strategy Pattern](https://dev.to/alex_aslam/the-art-of-the-chisel-crafting-pluggable-business-rules-with-the-strategy-pattern-22k6)
+- [Dual Write and the Transactional Outbox Pattern](https://dev.to/igor_grieder/dual-write-and-the-transactional-outbox-pattern-aid)
+- [: Issues with APIs for soccer stats and CORS when using API](https://dev.to/samuel_pea_923ed4db2832b/-issues-with-apis-for-soccer-stats-and-cors-when-using-api-64d)
+- [Integrating Bitbucket with ArgoCD](https://dev.to/durrello/integrating-bitbucket-with-argocd-114a)
+- [Unlocking the Power of Open Source: How Collaboration Fuels Innovation in Software Development](https://dev.to/mikeover/unlocking-the-power-of-open-source-how-collaboration-fuels-innovation-in-software-development-2dcn)
+- [AI Isn&#39;t Weak-It&#39;s Underused: How PromptNova Unlocks Its True Potential](https://dev.to/naresh_007/ai-isnt-weak-its-underused-how-promptnova-unlocks-its-true-potential-2fnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
