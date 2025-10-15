@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cara Debouncing di React untuk Pemula](https://dev.to/dhena_azara_746f46d52a511/cara-debouncing-di-react-untuk-pemula-fd8)
-- [Magento 2.4.8: Features and Enhancements of the Latest Magento Update](https://dev.to/ziffity_solutionsllc_353/magento-248-features-and-enhancements-of-the-latest-magento-update-5ej3)
-- [How to control DC motor with Arduino?](https://dev.to/carolineee/how-to-control-dc-motor-with-arduino-pki)
-- [Ship Without Drama: The Minimum Reliable Product for Small Teams](https://dev.to/sonia_bobrik_1939cdddd79d/ship-without-drama-the-minimum-reliable-product-for-small-teams-52e8)
-- [Troubleshooting Nginx 400 Bad Request Error Messages](https://dev.to/devin-rosario/troubleshooting-nginx-400-bad-request-error-messages-ma5)
+- [7 New Shadcn Components That Will Level Up Your App UI](https://dev.to/coderamrin/7-new-shadcn-components-that-will-level-up-your-app-ui-2p3g)
+- [How I Learned to Redeploy Applications on k3s with GitLab CI/CD – Step by Step](https://dev.to/giveitatry/how-i-learned-to-redeploy-applications-on-k3s-with-gitlab-cicd-step-by-step-4845)
+- [Version Control and Collaboration Best Practices](https://dev.to/th33k/version-control-and-collaboration-best-practices-1ljh)
+- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-17k1)
+- [A very basic plugin for Filestash](https://dev.to/migsarnavarro/a-very-basic-plugin-for-filestash-1elf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
