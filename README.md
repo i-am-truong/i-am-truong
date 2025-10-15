@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔐 10 Core Concepts Every Developer Should Know About Data Security](https://dev.to/kasra10/10-core-concepts-every-developer-should-know-about-data-security-o9d)
-- [Building an AI-Powered CV Screening System with Explainable Scoring](https://dev.to/nesnyx/building-an-ai-powered-cv-screening-system-with-explainable-scoring-20o)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-oej)
-- [Ensemble Learning in Machine Learning: Why Multiple Models Outperform One](https://dev.to/bharathprasad/ensemble-learning-in-machine-learning-why-multiple-models-outperform-one-59dp)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-14k9)
+- [🩺 Best Varicose Vein Treatment in Delhi: Discover Advanced Vascular Care with Dr. Tapish Sahu](https://dev.to/vascularcareindia/best-varicose-vein-treatment-in-delhi-discover-advanced-vascular-care-with-dr-tapish-sahu-19h9)
+- [Why ‘Pulses’ Beat Channels: Rethinking Digital Collaboration from the Ground Up](https://dev.to/nexy/why-pulses-beat-channels-rethinking-digital-collaboration-from-the-ground-up-2da9)
+- [Round TFT LCDs: What They Are and Why Designers Are Choosing Them](https://dev.to/liz_chen_8b314fa53cedea52/round-tft-lcds-what-they-are-and-why-designers-are-choosing-them-2f90)
+- [AI Video Conferencing Tools – Revolutionizing Remote Work](https://dev.to/theaisurf_422fbd7a2613901/ai-video-conferencing-tools-revolutionizing-remote-work-1906)
+- [Cybersecurity in Banking: Career Scope for Graduates](https://dev.to/srmsb_cd0f78a319dc2480bc2/cybersecurity-in-banking-career-scope-for-graduates-bkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
