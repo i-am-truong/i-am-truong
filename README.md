@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Days Philadelphia 2025: Security As A Control Loop, Resilience, Runtime Risks, And How AI Is Changing It](https://dev.to/gitguardian/devops-days-philadelphia-2025-security-as-a-control-loop-resilience-runtime-risks-and-how-ai-is-404g)
-- [Explore Chrome 140: Modern CSS Counters, Variable Fonts &amp; Popover Events](https://dev.to/raviranjan98210/explore-chrome-140-modern-css-counters-variable-fonts-popover-events-57ii)
-- [Kotlin Coroutines Cheat Sheet](https://dev.to/bpivoto/kotlin-coroutines-cheat-sheet-a95)
-- [Serving the World: Why CDNs Are Essential for Global Audiences](https://dev.to/rijultp/serving-the-world-why-cdns-are-essential-for-global-audiences-4meb)
-- [How I Learned to Love the Legacy Dental PMS: A Developer&#39;s Guide](https://dev.to/lake22traillady/how-i-learned-to-love-the-legacy-dental-pms-a-developers-guide-372k)
+- [🍒 The Cherry on Top of The Deadline](https://dev.to/ashbuk/the-cherry-on-top-of-the-deadline-4glb)
+- [Implementing Parallel PDF Batch Processing in Rust](https://dev.to/bytaro/implementing-parallel-pdf-batch-processing-in-rust-330j)
+- [The Pattern Looms: List and Dict Comprehensions](https://dev.to/aaron_rose_0787cc8b4775a0/the-pattern-looms-list-and-dict-comprehensions-536h)
+- [Giving non-code contributions the recognition they deserve](https://dev.to/adiatiayu/giving-non-code-contributions-the-recognition-they-deserve-2phj)
+- [AI Project Manager with Auth0 for AI Agents](https://dev.to/srijan-xi/ai-project-manager-with-auth0-for-ai-agents-6ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
