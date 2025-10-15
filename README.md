@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shout out to a little Gemini tie-in here https://youtu.be/mluOWlA6GGo?si=--rASL01BZzGo_H7&amp;t=1980](https://dev.to/ben/shout-out-to-a-little-gemini-tie-in-here-httpsyoutubemluowla6ggosi-rasl01bzzgoh7t1980-42n7)
+- [Legacy Maintenance Under Compression](https://dev.to/queelius/legacy-maintenance-under-compression-464a)
+- [Suffering, Eternity, and the Shape of Value](https://dev.to/queelius/suffering-eternity-and-the-shape-of-value-168b)
 - [Python basics - Day 07](https://dev.to/ian_b838138a27a917398d181/python-basics-day-07-2h96)
 - [🧩 Runtime Snapshots #3 — QA That Speaks JSON](https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-3-qa-that-speaks-json-3d10)
-- [🍒 The Cherry on Top of The Deadline](https://dev.to/ashbuk/the-cherry-on-top-of-the-deadline-4glb)
-- [Implementing Parallel PDF Batch Processing in Rust](https://dev.to/bytaro/implementing-parallel-pdf-batch-processing-in-rust-330j)
-- [The Pattern Looms: List and Dict Comprehensions](https://dev.to/aaron_rose_0787cc8b4775a0/the-pattern-looms-list-and-dict-comprehensions-536h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
