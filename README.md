@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OSI model](https://dev.to/jumptotech/osi-model-4ia)
+- [What is network protocol](https://dev.to/jumptotech/what-is-network-protocol-5bdm)
+- [Deconstructing B2B Marketing ROI: The Formulas &amp; Code You Actually Need](https://dev.to/michaelaiglobal/deconstructing-b2b-marketing-roi-the-formulas-code-you-actually-need-f0o)
+- [My DevOps Journey: Part 9 - Into the Cloud &lpar;Cloud Computing, IAM, and AWS Foundations&rpar;](https://dev.to/sheershsinha/my-devops-journey-part-9-into-the-cloud-cloud-computing-iam-and-aws-foundations-5dl1)
 - [SDLC](https://dev.to/jumptotech/sdlc-1bk1)
-- [Brotli vs. Gzip for Web Performance In Static Sites](https://dev.to/lovestaco/brotli-vs-gzip-for-web-performance-in-static-sites-2nhk)
-- [WEBSOCKETS](https://dev.to/renam_singla_fb52a400f07e/websockets-2ehb)
-- [The enigma of Python Enums](https://dev.to/kristofbcoding/the-enigma-of-python-enums-19k0)
-- [Ng-News 25/41: Future Testing Framework: Vitest or Jest?](https://dev.to/this-is-angular/ng-news-2541-future-testing-framework-vitest-or-jest-3cpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
