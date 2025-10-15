@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 New Shadcn Components That Will Level Up Your App UI](https://dev.to/coderamrin/7-new-shadcn-components-that-will-level-up-your-app-ui-2p3g)
-- [How I Learned to Redeploy Applications on k3s with GitLab CI/CD – Step by Step](https://dev.to/giveitatry/how-i-learned-to-redeploy-applications-on-k3s-with-gitlab-cicd-step-by-step-4845)
-- [Version Control and Collaboration Best Practices](https://dev.to/th33k/version-control-and-collaboration-best-practices-1ljh)
-- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-17k1)
-- [A very basic plugin for Filestash](https://dev.to/migsarnavarro/a-very-basic-plugin-for-filestash-1elf)
+- [If you could build the perfect productivity tool, what’s the first feature you’d add?](https://dev.to/clariti_22_6e89b280ccd102/if-you-could-build-the-perfect-productivity-tool-whats-the-first-feature-youd-add-29d5)
+- [How to Send GitLab CI/CD Pipeline Notifications to Telegram](https://dev.to/giveitatry/how-to-send-gitlab-cicd-pipeline-notifications-to-telegram-3hc1)
+- [A Complete Guide to Building Enterprise-Grade AI Assistants on Google Cloud &lpar;No-Code&rpar;](https://dev.to/agileactors/a-complete-guide-to-building-enterprise-grade-ai-assistants-on-google-cloud-no-code-29ha)
+- [DBMCP Updated! – the online instant MCP server for your DB now supports MongoDB, PostgreSQL and MySQL.](https://dev.to/shoomkloom/dbmcp-updated-the-online-instant-mcp-server-for-your-db-now-supports-mongodb-postgresql-and-5gmh)
+- [Let&#39;s Talk About Accessibility &lpar;Without the Headache&rpar; 🧠😅](https://dev.to/devbyrayray/lets-talk-about-accessibility-without-the-headache-1mp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
