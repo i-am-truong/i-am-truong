@@ -79,13 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I really want the Nova launch monitor to fully and properly get to market. Seems to be happening now — rooting for it.
-
-https://openlaunch.io/products/nova-golf-entertainment-system](https://dev.to/ben/i-really-want-the-nova-launch-monitor-to-fully-and-properly-get-to-market-seems-to-be-happening-55mj)
-- [Legacy Maintenance Under Compression](https://dev.to/queelius/legacy-maintenance-under-compression-464a)
-- [Suffering, Eternity, and the Shape of Value](https://dev.to/queelius/suffering-eternity-and-the-shape-of-value-168b)
-- [Python basics - Day 07](https://dev.to/ian_b838138a27a917398d181/python-basics-day-07-2h96)
-- [🧩 Runtime Snapshots #3 — QA That Speaks JSON](https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-3-qa-that-speaks-json-3d10)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3k8c)
+- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-4hf0)
+- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-2ono)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-3lfo)
+- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-2dc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
