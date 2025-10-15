@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing AI Agents Like a Pro: A Complete Guide to Rogue 🔍](https://dev.to/drorivry/testing-ai-agents-like-a-pro-a-complete-guide-to-rogue-4npb)
-- [Local IIS and IIS Express Can&#39;t Run Localhost After Windows Update 2025-10](https://dev.to/senadmeskin/local-iis-and-iis-express-cant-run-localhost-after-windows-update-2025-10-51m6)
-- [How I stopped overthinking logos and built a tool to make them in seconds](https://dev.to/gadgetyouin_7e4cdeb1211290828/how-i-stopped-overthinking-logos-and-built-a-tool-to-make-them-in-seconds-467)
-- [PHARMACEUTICAL SALES PERFORMANCE ANALYSIS.](https://dev.to/faybeth_robina/pharmaceutical-sales-performance-analysis-2k31)
-- [Redis Explained: The Secret Ingredient Behind Fast Apps &amp; Smooth DevOps](https://dev.to/threshika_vijayakumar_bb9/redis-explained-the-secret-ingredient-behind-fast-apps-smooth-devops-1p9n)
+- [DevOps Days Philadelphia 2025: Security As A Control Loop, Resilience, Runtime Risks, And How AI Is Changing It](https://dev.to/gitguardian/devops-days-philadelphia-2025-security-as-a-control-loop-resilience-runtime-risks-and-how-ai-is-404g)
+- [Explore Chrome 140: Modern CSS Counters, Variable Fonts &amp; Popover Events](https://dev.to/raviranjan98210/explore-chrome-140-modern-css-counters-variable-fonts-popover-events-57ii)
+- [Kotlin Coroutines Cheat Sheet](https://dev.to/bpivoto/kotlin-coroutines-cheat-sheet-a95)
+- [Serving the World: Why CDNs Are Essential for Global Audiences](https://dev.to/rijultp/serving-the-world-why-cdns-are-essential-for-global-audiences-4meb)
+- [How I Learned to Love the Legacy Dental PMS: A Developer&#39;s Guide](https://dev.to/lake22traillady/how-i-learned-to-love-the-legacy-dental-pms-a-developers-guide-372k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
