@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python basics - Day 07](https://dev.to/ian_b838138a27a917398d181/python-basics-day-07-2h96)
+- [🧩 Runtime Snapshots #3 — QA That Speaks JSON](https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-3-qa-that-speaks-json-3d10)
 - [🍒 The Cherry on Top of The Deadline](https://dev.to/ashbuk/the-cherry-on-top-of-the-deadline-4glb)
 - [Implementing Parallel PDF Batch Processing in Rust](https://dev.to/bytaro/implementing-parallel-pdf-batch-processing-in-rust-330j)
 - [The Pattern Looms: List and Dict Comprehensions](https://dev.to/aaron_rose_0787cc8b4775a0/the-pattern-looms-list-and-dict-comprehensions-536h)
-- [Giving non-code contributions the recognition they deserve](https://dev.to/adiatiayu/giving-non-code-contributions-the-recognition-they-deserve-2phj)
-- [AI Project Manager with Auth0 for AI Agents](https://dev.to/srijan-xi/ai-project-manager-with-auth0-for-ai-agents-6ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
