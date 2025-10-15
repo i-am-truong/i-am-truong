@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Transcoding and How Does It Work? Why is It Important for Streaming?](https://dev.to/mohammad_owaisk_e95f45c/what-is-transcoding-and-how-does-it-work-why-is-it-important-for-streaming-3cj0)
-- [When Starship Reaches Space, Is Your AI Avatar Still ‘Amnesic’?](https://dev.to/xu_pengfei_5bd5de28bc9419/when-starship-reaches-space-is-your-ai-avatar-still-amnesic-4p9m)
-- [How to create our own cryptocurrency like Bitcoin](https://dev.to/sunny7899/how-to-create-our-own-cryptocurrency-like-bitcoin-53c1)
-- [If you could build the perfect productivity tool, what’s the first feature you’d add?](https://dev.to/clariti_22_6e89b280ccd102/if-you-could-build-the-perfect-productivity-tool-whats-the-first-feature-youd-add-29d5)
-- [How to Send GitLab CI/CD Pipeline Notifications to Telegram](https://dev.to/giveitatry/how-to-send-gitlab-cicd-pipeline-notifications-to-telegram-3hc1)
+- [Stoplight Alternatives Developers Actually Work with](https://dev.to/apilover/stoplight-alternatives-developers-actually-work-with-24c5)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4h3i)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2n3l)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-130h)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-pf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
