@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Feature Flag Tool &lpar;Here&#39;s What I Learned&rpar;](https://dev.to/el_yt/i-built-a-feature-flag-tool-heres-what-i-learned-3n5e)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-n0n)
-- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-ipc)
-- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-38m6)
-- [IGN: Plants vs. Zombies: Replanted - Official Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-plants-vs-zombies-replanted-official-gameplay-deep-dive-trailer-3oe3)
+- [A Senior Developer&#39;s guide to Stream-Oriented Programming](https://dev.to/dariomannu/a-senior-developers-guide-to-stream-oriented-programming-3j24)
+- [Is Native iOS Development with Swift Still Worth It in 2025?](https://dev.to/divyesh_vekariya/is-native-ios-development-with-swift-still-worth-it-in-2025-3b0c)
+- [Why Copilots Are the New Shadow IT](https://dev.to/talweezy/why-copilots-are-the-new-shadow-it-596m)
+- [AI-Powered Code Assistants for Faster Mobile App Development: A Comparative Study](https://dev.to/iprogrammer_solutionspvt/ai-powered-code-assistants-for-faster-mobile-app-development-a-comparative-study-26fp)
+- [Firefox and Chrome Extension - Crypto Address Generator](https://dev.to/jonkwheeler/firefox-and-chrome-extension-crypto-address-generator-25ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
