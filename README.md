@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🩺 Best Varicose Vein Treatment in Delhi: Discover Advanced Vascular Care with Dr. Tapish Sahu](https://dev.to/vascularcareindia/best-varicose-vein-treatment-in-delhi-discover-advanced-vascular-care-with-dr-tapish-sahu-19h9)
-- [Why ‘Pulses’ Beat Channels: Rethinking Digital Collaboration from the Ground Up](https://dev.to/nexy/why-pulses-beat-channels-rethinking-digital-collaboration-from-the-ground-up-2da9)
-- [Round TFT LCDs: What They Are and Why Designers Are Choosing Them](https://dev.to/liz_chen_8b314fa53cedea52/round-tft-lcds-what-they-are-and-why-designers-are-choosing-them-2f90)
-- [AI Video Conferencing Tools – Revolutionizing Remote Work](https://dev.to/theaisurf_422fbd7a2613901/ai-video-conferencing-tools-revolutionizing-remote-work-1906)
-- [Cybersecurity in Banking: Career Scope for Graduates](https://dev.to/srmsb_cd0f78a319dc2480bc2/cybersecurity-in-banking-career-scope-for-graduates-bkb)
+- [How to Build a Secure FinTech App Using React Native](https://dev.to/aartijangid23/how-to-build-a-secure-fintech-app-using-react-native-30n4)
+- [🧠 The Hidden Layer: How Databases Power the Backend World](https://dev.to/sandeep_03j/the-hidden-layer-how-databases-power-the-backend-world-1fjn)
+- [🐶Spring Boot, but Every Exception Is a Dog Breed](https://dev.to/madhukashyap/spring-boot-but-every-exception-is-a-dog-breed-4lja)
+- [Buying apps and installing them: The fast track and risk zone for mobile marketing on Google Play and Apple Store](https://dev.to/youou/buying-apps-and-installing-them-the-fast-track-and-risk-zone-for-mobile-marketing-on-google-play-4e8n)
+- [Build Video Call App with ZEGOCLOUD | 1-on-1 &amp; Group Video Chat using HTML, CSS &amp; JS in 10 Minutes](https://dev.to/sharathchandark/build-video-call-app-with-zegocloud-1-on-1-group-video-chat-using-html-css-js-in-10-minutes-2b79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
