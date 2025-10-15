@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Transcoding and How Does It Work? Why is It Important for Streaming?](https://dev.to/mohammad_owaisk_e95f45c/what-is-transcoding-and-how-does-it-work-why-is-it-important-for-streaming-3cj0)
+- [When Starship Reaches Space, Is Your AI Avatar Still ‘Amnesic’?](https://dev.to/xu_pengfei_5bd5de28bc9419/when-starship-reaches-space-is-your-ai-avatar-still-amnesic-4p9m)
+- [How to create our own cryptocurrency like Bitcoin](https://dev.to/sunny7899/how-to-create-our-own-cryptocurrency-like-bitcoin-53c1)
 - [If you could build the perfect productivity tool, what’s the first feature you’d add?](https://dev.to/clariti_22_6e89b280ccd102/if-you-could-build-the-perfect-productivity-tool-whats-the-first-feature-youd-add-29d5)
 - [How to Send GitLab CI/CD Pipeline Notifications to Telegram](https://dev.to/giveitatry/how-to-send-gitlab-cicd-pipeline-notifications-to-telegram-3hc1)
-- [A Complete Guide to Building Enterprise-Grade AI Assistants on Google Cloud &lpar;No-Code&rpar;](https://dev.to/agileactors/a-complete-guide-to-building-enterprise-grade-ai-assistants-on-google-cloud-no-code-29ha)
-- [DBMCP Updated! – the online instant MCP server for your DB now supports MongoDB, PostgreSQL and MySQL.](https://dev.to/shoomkloom/dbmcp-updated-the-online-instant-mcp-server-for-your-db-now-supports-mongodb-postgresql-and-5gmh)
-- [Let&#39;s Talk About Accessibility &lpar;Without the Headache&rpar; 🧠😅](https://dev.to/devbyrayray/lets-talk-about-accessibility-without-the-headache-1mp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
