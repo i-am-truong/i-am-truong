@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding The 3-tier Web Application Architecture on AWS and Building One in 5 minutes](https://dev.to/alex_qu_5a79e160e51d453ea/understanding-the-3-tier-web-application-architecture-on-aws-and-building-one-in-5-minutes-51b0)
-- [Presentation: Building Scalable Data Pipelines with Docker and Docker Compose](https://dev.to/lagat_josiah_f024a2c855bc/presentation-building-scalable-data-pipelines-with-docker-and-docker-compose-2j32)
-- [Artisan Keycaps: Why Can a Tiny Resin Keycap Cost So Much?](https://dev.to/mysticcoder/artisan-keycaps-why-can-a-tiny-resin-keycap-cost-so-much-1fao)
-- [Why SOM Matters More Than TAM: MVP Experiments to Validate Your Target Market](https://dev.to/yaseen_tech/why-som-matters-more-than-tam-mvp-experiments-to-validate-your-target-market-7aa)
-- [How to Make Modal Popup Responsive in Bootstrap? 🚀](https://dev.to/theme_selection/how-to-make-modal-popup-responsive-in-bootstrap-25lm)
+- [Playwright Agents: Or Once Again About AI Taking Away Our Job](https://dev.to/iryna_k_d5aabe217736fefe7/playwright-agents-or-once-again-about-ai-taking-away-our-job-ch6)
+- [7 Productivity Hacks That Changed My Life &lpar;And Will Change Yours Too&rpar;](https://dev.to/adhikareeprayush/7-productivity-hacks-that-changed-my-life-and-will-change-yours-too-19ne)
+- [I’m still shocked after reading how the entire workforce of Topdevs &lpar;a thriving tech company&rpar; was transferred into Talentcrowd overnight. This is organized corporate theft disguised as a merger.](https://dev.to/techtalk/im-still-shocked-after-reading-how-the-entire-workforce-of-topdevs-a-thriving-tech-company-was-4n40)
+- [Understanding Authentication: Methods and Best Practices](https://dev.to/ciberconscientes/understanding-authentication-methods-and-best-practices-ncj)
+- [LangChain Observability: Monitoring Guide for Production Apps](https://dev.to/uptrace/langchain-observability-monitoring-guide-for-production-apps-1m6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
