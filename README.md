@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build vs. Buy: Pre-Built Templates vs. Custom Middleware for SAP-Salesforce Integration](https://dev.to/buildert/build-vs-buy-pre-built-templates-vs-custom-middleware-for-sap-salesforce-integration-2fg1)
-- [Using zstandard on-the-fly &lpar;de&rpar;compression in Elixir](https://dev.to/ndrean/using-zstandard-on-the-fly-decompression-in-elixir-84k)
-- [Orchestrating and Observing Data Pipelines with Airflow, PostgreSQL, and Polar](https://dev.to/ctrix/orchestrating-and-observing-data-pipelines-with-airflow-postgresql-and-polar-nig)
-- [Unlocking the Power of AI in Software Development: A Comprehensive Guide](https://dev.to/mikeover/unlocking-the-power-of-ai-in-software-development-a-comprehensive-guide-7n9)
-- [n8n VPS Comparison: Hostinger vs Railway vs DigitalOcean vs Render](https://dev.to/thesohailjafri/n8n-vps-comparison-hostinger-vs-railway-vs-digitalocean-vs-render-3phn)
+- [Cara Debouncing di React untuk Pemula](https://dev.to/dhena_azara_746f46d52a511/cara-debouncing-di-react-untuk-pemula-fd8)
+- [Magento 2.4.8: Features and Enhancements of the Latest Magento Update](https://dev.to/ziffity_solutionsllc_353/magento-248-features-and-enhancements-of-the-latest-magento-update-5ej3)
+- [How to control DC motor with Arduino?](https://dev.to/carolineee/how-to-control-dc-motor-with-arduino-pki)
+- [Ship Without Drama: The Minimum Reliable Product for Small Teams](https://dev.to/sonia_bobrik_1939cdddd79d/ship-without-drama-the-minimum-reliable-product-for-small-teams-52e8)
+- [Troubleshooting Nginx 400 Bad Request Error Messages](https://dev.to/devin-rosario/troubleshooting-nginx-400-bad-request-error-messages-ma5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
