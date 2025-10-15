@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Common Mistakes I Made as a Junior Backend Developer](https://dev.to/salah_elbouhlali_66fa9a7/common-mistakes-i-made-as-a-junior-backend-developer-l61)
+- [Conquering Cypress Test Failures: A Comprehensive Guide to Common Errors &amp; Automated Reporting](https://dev.to/mohamedsaidibrahim/conquering-cypress-test-failures-a-comprehensive-guide-to-common-errors-automated-reporting-8ah)
+- [** &quot;AI&#39;s Double-Edged Sword: How Goldman Sachs Job Cuts and AppFolio&#39;s Breakthrough Signal the Future of Work](https://dev.to/iankhanfuturist/-ais-double-edged-sword-how-goldman-sachs-job-cuts-and-appfolios-breakthrough-signal-the-2bep)
+- [🔥 Supercharge Your Angular E2E Testing with Cypress — Introducing cypress-angular-commands](https://dev.to/mohamedsaidibrahim/supercharge-your-angular-e2e-testing-with-cypress-introducing-cypress-angular-commands-2n25)
 - [🔐 Supercharge Your Test Stability with cy.ensurePageIsReady&lpar;&rpar; in Cypress.io](https://dev.to/mohamedsaidibrahim/supercharge-your-test-stability-with-cyensurepageisready-in-cypressio-103l)
-- [Rethinking Identity Infrastructure for Autonomous Systems](https://dev.to/deepakgupta/rethinking-identity-infrastructure-for-autonomous-systems-2lp4)
-- [🧪 How to Test Angular Components with Cypress Component Testing &lpar;CT&rpar;](https://dev.to/mohamedsaidibrahim/how-to-test-angular-components-with-cypress-component-testing-ct-3fei)
-- [What is Content Compliance &amp; Why Does it Matter](https://dev.to/getstreamhq/what-is-content-compliance-why-does-it-matter-21ah)
-- [Database analytics: Query your source of truth](https://dev.to/quadraticai/database-analytics-query-your-source-of-truth-3l4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
