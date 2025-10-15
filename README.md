@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is SPL more difficult or easier than SQL?](https://dev.to/esproc_spl/is-spl-more-difficult-or-easier-than-sql-510j)
-- [150+ AI Prompts for WordPress Devs [Get the Free PDF]](https://dev.to/medha_bhatt_21b7dc4cc53e7/150-ai-prompts-for-wordpress-devs-get-the-free-pdf-33p3)
-- [Post 4/10 — Smart Scaling &amp; Cost Control: HPA/KEDA + Cluster Autoscaler vs Karpenter](https://dev.to/cloud-sky-ops/post-410-smart-scaling-cost-control-hpakeda-cluster-autoscaler-vs-karpenter-hm3)
-- [Unified Authentication and Key Distribution Scheme for Apps Without Human-Device Interaction](https://dev.to/lunarecho/unified-authentication-and-key-distribution-scheme-for-apps-without-human-device-interaction-5h41)
-- [PatentScan.ai Pricing: Understanding Prior Art Search Cost](https://dev.to/patentscanai/patentscanai-pricing-understanding-prior-art-search-cost-2d2c)
+- [I Finally Built a Second Brain That I Actually Use &lpar;6th Attempt&rpar;](https://dev.to/huy_tieu/i-finally-built-a-second-brain-that-i-actually-use-6th-attempt-4075)
+- [Part-127: Hands-on with Google Cloud IAM: Manage Access Using Basic, Predefined, and Custom Roles](https://dev.to/latchudevops/part-127-hands-on-with-google-cloud-iam-manage-access-using-basic-predefined-and-custom-roles-2a5)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-168i)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-421m)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3jo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
