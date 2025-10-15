@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧩 Understanding npm, Yarn, Bun &amp; Deno — The Secret Life of Package Managers &lpar;and Why Vite Loves Them&rpar;](https://dev.to/charan_gutti_cf60c6185074/understanding-npm-yarn-bun-deno-the-secret-life-of-package-managers-and-why-vite-loves-gdk)
+- [The Rivalland Files &lpar;Part 1 of 7&rpar;: The Untold Story of Quiet Influence in Mauritius](https://dev.to/marketingweb/the-rivalland-files-part-1-of-7-the-untold-story-of-quiet-influence-in-mauritius-27p)
 - [HTML](https://dev.to/vidya_cdd37fca763a53a10e2/html-291m)
 - [The $440,000 Architecture Mistake: Why Deloitte&#39;s AI Failed &lpar;And How to Prevent It&rpar;](https://dev.to/fintechbro/the-440000-architecture-mistake-why-deloittes-ai-failed-and-how-to-prevent-it-4ap2)
 - [💡 How the “Human” Side of Development Still Shapes Great Tech](https://dev.to/smartplayoficial_e4f6f60b/how-the-human-side-of-development-still-shapes-great-tech-2g7h)
-- [[Boost]](https://dev.to/rodger_cuddington_4047f7c/-55fi)
-- [Dosificarse: la estrategia que me salvó del burnout trabajando en remoto](https://dev.to/aletorres1102/dosificarse-la-estrategia-que-me-salvo-del-burnout-trabajando-en-remoto-4a34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
