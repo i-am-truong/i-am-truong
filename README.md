@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Startups Should Build MVPs, Not Full Products](https://dev.to/linwood_matthews_221/why-startups-should-build-mvps-not-full-products-5g26)
+- [AI in Education: Will AI Replace Teachers?](https://dev.to/amttawsik/ai-in-education-will-ai-replace-teachers-1pg6)
 - [Why Every Startup Needs a Scalable Tech Stack Before Raising Funding &lpar;or Risk Losing It All&rpar;](https://dev.to/davidcode/why-every-startup-needs-a-scalable-tech-stack-before-raising-funding-or-risk-losing-it-all-7li)
 - [Building Type Guards Like LEGO Blocks: Making Reusable Logic with is-kit](https://dev.to/nyaomaru/building-type-guards-like-lego-blocks-making-reusable-logic-with-is-kit-48e4)
 - [How to Design a Door Slam Lock using 3D CAD Software](https://dev.to/julia970/how-to-design-a-door-slam-lock-using-3d-cad-software-1i2m)
-- [Styling by State: How to make CSS do JS](https://dev.to/hairy-styles/styling-by-state-how-to-make-css-do-js-aen)
-- [Build an E-commerce Website with Django and Stripe Payments](https://dev.to/djamware_tutorial_eba1a61/build-an-e-commerce-website-with-django-and-stripe-payments-54pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
