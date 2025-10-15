@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Fell in Love with My First App &lpar;and Why It Took Forever to Launch&rpar;](https://dev.to/ernkerr/why-i-fell-in-love-with-my-first-app-and-why-it-took-forever-to-launch-49ki)
-- [Tuple in Python &lpar;5&rpar;](https://dev.to/hyperkai/tuple-in-python-5-4jaa)
-- [Precise Data Extraction: Pattern-Based Partitioning for Structured Extraction](https://dev.to/tensorlake/precise-data-extraction-pattern-based-partitioning-for-structured-extraction-2fi5)
-- [O Valor do Qualis na Ciência Brasileira: Uma Doença Coletiva? &lpar;episódio de 2023&rpar;](https://dev.to/fronteirases/o-valor-do-qualis-na-ciencia-brasileira-uma-doenca-coletiva-episodio-de-2023-3mh5)
-- [Working with Tokens on Solana using Native Rust](https://dev.to/davidekete/working-with-tokens-on-solana-using-native-rust-1cdk)
+- [The Art of the Data Fetch: A Journey Through `pluck`, `select`, and `map`](https://dev.to/alex_aslam/the-art-of-the-data-fetch-a-journey-through-pluck-select-and-map-5dhh)
+- [5 Important Things to Secure Your Backend API &lpar;for Beginners&rpar;](https://dev.to/wasimadildev/5-important-things-to-secure-your-backend-api-for-beginners-1ick)
+- [The Nested Patterns: Advanced Comprehension Techniques](https://dev.to/aaron_rose_0787cc8b4775a0/the-nested-patterns-advanced-comprehension-techniques-kdk)
+- [👋 Hey Dev Community! I&#39;m Rohit — The Mind Behind CodeWithLucifer 💻](https://dev.to/rohitahirwal/hey-dev-community-im-rohit-the-mind-behind-codewithlucifer-37mi)
+- [The Invisible Conveyor Belt: A Journey into the Microtask Queue](https://dev.to/alex_aslam/the-invisible-conveyor-belt-a-journey-into-the-microtask-queue-3jd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
