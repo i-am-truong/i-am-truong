@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a “How Many People Share Your Name” Tool and Would Like Your Feedback](https://dev.to/magen/i-built-a-how-many-people-share-your-name-tool-and-would-like-your-feedback-hj8)
+- [Performance Boost: Ditching Heavy JS Libraries for Native CSS `@keyframes`](https://dev.to/devhabib/performance-boost-ditching-heavy-js-libraries-for-native-css-keyframes-fi4)
+- [The Best Diagramming Software for Consultants in 2025](https://dev.to/ishmam_jahan_4269b6f13ba5/the-best-diagramming-software-for-consultants-in-2025-22ga)
+- [How We Engineered Smarter Backyard Playgrounds for Kids](https://dev.to/yx123/how-we-engineered-smarter-backyard-playgrounds-for-kids-35ke)
 - [Part 6: Disaster Recovery, Cost Management, and Future-Proofing](https://dev.to/techstuff/part-6-disaster-recovery-cost-management-and-future-proofing-13fm)
-- [AI-Powered Code Review: How Machine Learning Improves Code Quality](https://dev.to/ryan-mathews/ai-powered-code-review-how-machine-learning-improves-code-quality-4knn)
-- [The Science of First Impressions in UX Design](https://dev.to/dct_technology/the-science-of-first-impressions-in-ux-design-3lo1)
-- [GBQ Talentcrowd Fraud Investigation: What the Public Needs to Know](https://dev.to/techbyfelix/gbq-talentcrowd-fraud-investigation-what-the-public-needs-to-know-581f)
-- [Think Agile: Build a Smart QA Testing Strategy](https://dev.to/jignect-technologies/think-agile-build-a-smart-qa-testing-strategy-1a70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
