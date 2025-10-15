@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why We Built Another AI Framework &lpar;And Why You Might Care&rpar;](https://dev.to/federico_raffoni_e79e7db6/why-we-built-another-ai-framework-and-why-you-might-care-4d1f)
-- [Master Angular Performance: 10 Essential Lazy Loading, Route Guards &amp; Resolvers Techniques Every Developer Must Know](https://dev.to/codewithrajat/master-angular-performance-10-essential-lazy-loading-route-guards-resolvers-techniques-every-4hl1)
-- [Did AI Erase Attribution? Your Git History Is Missing a Co-Author](https://dev.to/anchildress1/did-ai-erase-attribution-your-git-history-is-missing-a-co-author-1m2l)
-- [Unleash the Power of In-Browser Media Processing with Mediabunny](https://dev.to/githubopensource/unleash-the-power-of-in-browser-media-processing-with-mediabunny-43c2)
-- [Will DevOps Survive the AI Era? A Look at the Next 5 Years](https://dev.to/addwebsolutionpvtltd/will-devops-survive-the-ai-era-a-look-at-the-next-5-years-1mg5)
+- [I Built a Feature Flag Tool &lpar;Here&#39;s What I Learned&rpar;](https://dev.to/el_yt/i-built-a-feature-flag-tool-heres-what-i-learned-3n5e)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-n0n)
+- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-ipc)
+- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-38m6)
+- [IGN: Plants vs. Zombies: Replanted - Official Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-plants-vs-zombies-replanted-official-gameplay-deep-dive-trailer-3oe3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
