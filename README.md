@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Next.js in Modern Frontend Technology with Tailwind CSS](https://dev.to/sunny_sahu_f5201e84adb64a/nextjs-in-modern-frontend-technology-with-tailwind-css-2g2d)
-- [My First Dev Project](https://dev.to/marcin_zgola_b14ff1d580dc/my-first-dev-project-1e3a)
-- [How Stripe ToS Violations Can Quietly Kill Your SaaS &lpar;and How to Avoid It&rpar;](https://dev.to/stefant/how-stripe-tos-violations-can-quietly-kill-your-saas-and-how-to-avoid-it-4744)
-- [AI pump energy-saving control](https://dev.to/allen_liu_e88acb5147122d1/ai-pump-energy-saving-control-2ggl)
-- [Unpacking the Math: Building a Custom Miniature-Style DoF in UE with HLSL](https://dev.to/taku25/unpacking-the-math-building-a-custom-miniature-style-dof-in-ue-with-hlsl-2118)
+- [Post 4/10 — Smart Scaling &amp; Cost Control: HPA/KEDA + Cluster Autoscaler vs Karpenter](https://dev.to/cloud-sky-ops/post-410-smart-scaling-cost-control-hpakeda-cluster-autoscaler-vs-karpenter-hm3)
+- [Unified Authentication and Key Distribution Scheme for Apps Without Human-Device Interaction](https://dev.to/lunarecho/unified-authentication-and-key-distribution-scheme-for-apps-without-human-device-interaction-5h41)
+- [Crash Dumps in Linux Kernel &amp; Application Deep Dive](https://dev.to/mohideen_sahib_79f5f9e8de/crash-dumps-in-linux-kernel-application-deep-dive-3ng0)
+- [Which Unreal Engine 5 Plugins Are Most Useful for Creators in 2025?](https://dev.to/irender_gpu_cloud/which-unreal-engine-5-plugins-are-most-useful-for-creators-in-2025-mi7)
+- [90% of Software Engineers Building with LLMs Are Still Writing Unit Tests](https://dev.to/klement_gunndu_e16216829c/90-of-software-engineers-building-with-llms-are-still-writing-unit-tests-5dn6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
