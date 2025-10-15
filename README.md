@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Science of First Impressions in UX Design](https://dev.to/dct_technology/the-science-of-first-impressions-in-ux-design-3lo1)
+- [GBQ Talentcrowd Fraud Investigation: What the Public Needs to Know](https://dev.to/techbyfelix/gbq-talentcrowd-fraud-investigation-what-the-public-needs-to-know-581f)
+- [Think Agile: Build a Smart QA Testing Strategy](https://dev.to/jignect-technologies/think-agile-build-a-smart-qa-testing-strategy-1a70)
 - [Day 09 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-09-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3oi2)
 - [🧠 How I Stay Motivated to Code When Projects Fail](https://dev.to/pjdeveloper896/how-i-stay-motivated-to-code-when-projects-fail-1l2k)
-- [📷Building a Face Recognition Attendance System with Next.js, TypeScript, face-api.js, and Supabase](https://dev.to/ferryops/building-a-face-recognition-attendance-system-with-nextjs-typescript-face-apijs-and-supabase-41jp)
-- [5 Signs You Need AI Functionality in Your HTML Code Writer](https://dev.to/ideradevtools/5-signs-you-need-ai-functionality-in-your-html-code-writer-1a8f)
-- [Exploring Scarfaze: A Pakistani Tech Startup Building Unified Development Tools](https://dev.to/dani_daniyal/exploring-scarfaze-a-pakistani-tech-startup-building-unified-development-tools-28i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
