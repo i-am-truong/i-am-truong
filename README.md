@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why We Built Another AI Framework &lpar;And Why You Might Care&rpar;](https://dev.to/federico_raffoni_e79e7db6/why-we-built-another-ai-framework-and-why-you-might-care-4d1f)
 - [Master Angular Performance: 10 Essential Lazy Loading, Route Guards &amp; Resolvers Techniques Every Developer Must Know](https://dev.to/codewithrajat/master-angular-performance-10-essential-lazy-loading-route-guards-resolvers-techniques-every-4hl1)
 - [Did AI Erase Attribution? Your Git History Is Missing a Co-Author](https://dev.to/anchildress1/did-ai-erase-attribution-your-git-history-is-missing-a-co-author-1m2l)
 - [Unleash the Power of In-Browser Media Processing with Mediabunny](https://dev.to/githubopensource/unleash-the-power-of-in-browser-media-processing-with-mediabunny-43c2)
 - [Will DevOps Survive the AI Era? A Look at the Next 5 Years](https://dev.to/addwebsolutionpvtltd/will-devops-survive-the-ai-era-a-look-at-the-next-5-years-1mg5)
-- [MCP for WordPress: Write and Publish Posts from Your AI Assistant](https://dev.to/rnaga/mcp-for-wordpress-write-and-publish-posts-from-your-ai-assistant-lmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
