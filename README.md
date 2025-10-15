@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create Cinematic AI Video Ads in Seconds with AdClip](https://dev.to/agustn_favelis_768cf4fdd/create-cinematic-ai-video-ads-in-seconds-with-adclip-3g5d)
-- [Java ThreadLocal Memory Leaks](https://dev.to/faangmaster/java-thread-local-memory-leaks-2d28)
-- [Rubber Ducky clone with Pro Micro micro controller](https://dev.to/avniemini/rubber-ducky-clone-with-pro-micro-micro-controller-5352)
-- [Im undertaking learning OpenGL.](https://dev.to/noticeablesmeh/-53bf)
-- [How AI Pair Programming Is Changing My Development Workflow](https://dev.to/grokai/how-ai-pair-programming-is-changing-my-development-workflow-482c)
+- [HTML](https://dev.to/vidya_cdd37fca763a53a10e2/html-291m)
+- [The $440,000 Architecture Mistake: Why Deloitte&#39;s AI Failed &lpar;And How to Prevent It&rpar;](https://dev.to/fintechbro/the-440000-architecture-mistake-why-deloittes-ai-failed-and-how-to-prevent-it-4ap2)
+- [💡 How the “Human” Side of Development Still Shapes Great Tech](https://dev.to/smartplayoficial_e4f6f60b/how-the-human-side-of-development-still-shapes-great-tech-2g7h)
+- [[Boost]](https://dev.to/rodger_cuddington_4047f7c/-55fi)
+- [Dosificarse: la estrategia que me salvó del burnout trabajando en remoto](https://dev.to/aletorres1102/dosificarse-la-estrategia-que-me-salvo-del-burnout-trabajando-en-remoto-4a34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
