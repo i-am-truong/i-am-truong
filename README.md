@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MGA Insurance Software Guide: Faster Product Launch](https://dev.to/openkoda/mga-insurance-software-guide-faster-product-launch-3fe1)
+- [How to Design a Nutcracker Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-nutcracker-using-3d-cad-software-3415)
+- [🤖 Automating AI Newsletters with n8n: The Newsletter Agent Workflow](https://dev.to/techstuff/automating-ai-newsletters-with-n8n-the-newsletter-agent-workflow-2agj)
 - [Technology and Democracy: Rethinking Citizen Engagement](https://dev.to/andrinirina_aimeugne_6/technology-and-democracy-rethinking-citizen-engagement-dk5)
 - [The Most Common FinTech App Security Weaknesses You Can’t Overlook](https://dev.to/sambishop/the-most-common-fintech-app-security-weaknesses-you-cant-overlook-5c6)
-- [Transforming and Querying JSON Data in AWS S3 with Glue and Athena](https://dev.to/aws-builders/transforming-and-querying-json-data-in-aws-s3-with-glue-and-athena-15ep)
-- [MdBin: Share Beautiful Rendered Markdown Instead of Raw Code](https://dev.to/sivarampg/mdbin-share-beautiful-rendered-markdown-instead-of-raw-code-5e9j)
-- [What kind of day is this ‘day’? — Naming Tips That Won’t Confuse Your Readers](https://dev.to/a-k-0047/what-kind-of-day-is-this-day-naming-tips-that-wont-confuse-your-readers-21kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
