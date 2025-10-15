@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Architecture](https://dev.to/dev_anantharul_1746a25af/java-architecture-1iel)
-- [Node.js-Steps for building your first server❗](https://dev.to/cristea_theodora_6200140b/nodejs-steps-for-building-your-first-server-547f)
-- [Why and How to Write Minimal and Valid HTML, a Link Guide](https://dev.to/j9t/why-and-how-to-write-minimal-and-valid-html-a-link-guide-2b4p)
-- [Apple Clips social video app killed after eight years](https://dev.to/logicverse_2025/apple-clips-social-video-app-killed-after-eight-years-55jf)
-- [The Agent Mesh: Building Smarter Integration Workflows with AI Agents](https://dev.to/webmethodman/the-agent-mesh-building-smarter-integration-workflows-with-ai-agents-51ae)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-86c)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4g07)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-55oh)
+- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-578l)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - After Sunrise &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-414)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
