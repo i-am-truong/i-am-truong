@@ -79,7 +79,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shout out to a little Gemini tie-in here https://youtu.be/mluOWlA6GGo?si=--rASL01BZzGo_H7&amp;t=1980](https://dev.to/ben/shout-out-to-a-little-gemini-tie-in-here-httpsyoutubemluowla6ggosi-rasl01bzzgoh7t1980-42n7)
+- [I really want the Nova launch monitor to fully and properly get to market. Seems to be happening now — rooting for it.
+
+https://openlaunch.io/products/nova-golf-entertainment-system](https://dev.to/ben/i-really-want-the-nova-launch-monitor-to-fully-and-properly-get-to-market-seems-to-be-happening-55mj)
 - [Legacy Maintenance Under Compression](https://dev.to/queelius/legacy-maintenance-under-compression-464a)
 - [Suffering, Eternity, and the Shape of Value](https://dev.to/queelius/suffering-eternity-and-the-shape-of-value-168b)
 - [Python basics - Day 07](https://dev.to/ian_b838138a27a917398d181/python-basics-day-07-2h96)
