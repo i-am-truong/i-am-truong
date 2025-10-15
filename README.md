@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing InsForge’s Hacktoberfest 2025 — Contribute, build, and win](https://dev.to/hang_huang/announcing-insforges-hacktoberfest-2025-contribute-build-and-win-1cl2)
+- [Day 1251 : I need a break](https://dev.to/dwane/day-1251-i-need-a-break-k71)
+- [How I Accidentally Made My npm Package 324MB &lpar;and Fixed It&rpar;](https://dev.to/karthikng14/how-i-accidentally-made-my-npm-package-324mb-and-fixed-it-1p14)
 - [RESTful Services 101 — A Practical Guide for Frontend and Backend Developers](https://dev.to/cathylai/restful-services-101-a-practical-guide-for-frontend-and-backend-developers-2kj7)
 - [Building a ChatGPT App with VoltAgent and the Apps SDK](https://dev.to/ekimcem/building-a-chatgpt-app-with-voltagent-and-the-apps-sdk-4j21)
-- [Stack memory e Heap memory](https://dev.to/reishenrique/stack-memory-vs-heap-memory-183n)
-- [Is Docker Becoming Too Heavy for Everyday Development?](https://dev.to/lamri_abdellahramdane_15/is-docker-becoming-too-heavy-for-everyday-development-3nnp)
-- [Why Every Microservice Should Have Its Own Database](https://dev.to/cathylai/why-every-microservice-should-have-its-own-database-jc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
