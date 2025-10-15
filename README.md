@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 6: Disaster Recovery, Cost Management, and Future-Proofing](https://dev.to/techstuff/part-6-disaster-recovery-cost-management-and-future-proofing-13fm)
+- [AI-Powered Code Review: How Machine Learning Improves Code Quality](https://dev.to/ryan-mathews/ai-powered-code-review-how-machine-learning-improves-code-quality-4knn)
 - [The Science of First Impressions in UX Design](https://dev.to/dct_technology/the-science-of-first-impressions-in-ux-design-3lo1)
 - [GBQ Talentcrowd Fraud Investigation: What the Public Needs to Know](https://dev.to/techbyfelix/gbq-talentcrowd-fraud-investigation-what-the-public-needs-to-know-581f)
 - [Think Agile: Build a Smart QA Testing Strategy](https://dev.to/jignect-technologies/think-agile-build-a-smart-qa-testing-strategy-1a70)
-- [Day 09 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-09-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3oi2)
-- [🧠 How I Stay Motivated to Code When Projects Fail](https://dev.to/pjdeveloper896/how-i-stay-motivated-to-code-when-projects-fail-1l2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
