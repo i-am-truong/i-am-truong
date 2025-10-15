@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dual Write and the Transactional Outbox Pattern](https://dev.to/igor_grieder/dual-write-and-the-transactional-outbox-pattern-aid)
-- [: Issues with APIs for soccer stats and CORS when using API](https://dev.to/samuel_pea_923ed4db2832b/-issues-with-apis-for-soccer-stats-and-cors-when-using-api-64d)
-- [Integrating Bitbucket with ArgoCD](https://dev.to/durrello/integrating-bitbucket-with-argocd-114a)
-- [Unlocking the Power of Open Source: How Collaboration Fuels Innovation in Software Development](https://dev.to/mikeover/unlocking-the-power-of-open-source-how-collaboration-fuels-innovation-in-software-development-2dcn)
-- [AI Isn&#39;t Weak-It&#39;s Underused: How PromptNova Unlocks Its True Potential](https://dev.to/naresh_007/ai-isnt-weak-its-underused-how-promptnova-unlocks-its-true-potential-2fnc)
+- [WTH is openFGA and implementing Role-Based Access Control in GO servers.](https://dev.to/yashraj10/wth-is-openfga-and-implementing-role-based-access-control-in-go-servers-5ahj)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-36nn)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2h85)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-44bk)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-489b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
