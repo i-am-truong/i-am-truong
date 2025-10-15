@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SDLC](https://dev.to/jumptotech/sdlc-1bk1)
 - [Brotli vs. Gzip for Web Performance In Static Sites](https://dev.to/lovestaco/brotli-vs-gzip-for-web-performance-in-static-sites-2nhk)
 - [WEBSOCKETS](https://dev.to/renam_singla_fb52a400f07e/websockets-2ehb)
 - [The enigma of Python Enums](https://dev.to/kristofbcoding/the-enigma-of-python-enums-19k0)
 - [Ng-News 25/41: Future Testing Framework: Vitest or Jest?](https://dev.to/this-is-angular/ng-news-2541-future-testing-framework-vitest-or-jest-3cpc)
-- [Understanding Engine for Your Codebase](https://dev.to/claire_rosenfeld_e29a8e1a/understanding-engine-for-your-codebase-dka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
