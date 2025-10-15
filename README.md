@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Full Guide on Snowflake Salesforce Integration](https://dev.to/doriansabitov/full-guide-on-snowflake-salesforce-integration-10pb)
-- [Automating Deployment of Your Vue.js App to Firebase Hosting with GitHub Actions](https://dev.to/udara_dananjaya/-automating-deployment-of-your-vuejs-app-to-firebase-hosting-with-github-actions-4l6g)
-- [What is Agentic Commerce and How Macaron&#39;s AI-Powered Checkout Can Transform E-Commerce in 2025](https://dev.to/banelygalan/what-is-agentic-commerce-and-how-macarons-ai-powered-checkout-can-transform-e-commerce-in-2025-12h3)
-- [10 Tricks to Write Super Clean Code in TypeScript](https://dev.to/marcellin/10-tricks-to-write-super-clean-code-in-typescript-10k9)
-- [From Prompt to Practical: Evolving HandyFEM’s User Flow with Claude.ai + Mermaid.live](https://dev.to/constanza_diaz_dev/from-prompt-to-practical-evolving-handyfems-user-flow-with-claudeai-mermaidlive-fj7)
+- [The Linux Programming Interface - Time](https://dev.to/cangulmez/the-linux-programming-interface-time-2hbk)
+- [The #1 Cloud Security Mistake Law Firms Make: Not Protecting Client Data](https://dev.to/heyjoshlee/the-1-cloud-security-mistake-law-firms-make-protect-client-data-3i03)
+- [📰 Major Tech News: Oct 15th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-15th-2025-2g52)
+- [Generated Content](https://dev.to/iankhanfuturist/generated-content-34lp)
+- [Pacote de dados](https://dev.to/doccaio/pacote-de-dados-52de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
