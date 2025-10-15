@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WTH is openFGA and implementing Role-Based Access Control in GO servers.](https://dev.to/yashraj10/wth-is-openfga-and-implementing-role-based-access-control-in-go-servers-5ahj)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-36nn)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2h85)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-44bk)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-489b)
+- [Next.js in Modern Frontend Technology with Tailwind CSS](https://dev.to/sunny_sahu_f5201e84adb64a/nextjs-in-modern-frontend-technology-with-tailwind-css-2g2d)
+- [My First Dev Project](https://dev.to/marcin_zgola_b14ff1d580dc/my-first-dev-project-1e3a)
+- [How Stripe ToS Violations Can Quietly Kill Your SaaS &lpar;and How to Avoid It&rpar;](https://dev.to/stefant/how-stripe-tos-violations-can-quietly-kill-your-saas-and-how-to-avoid-it-4744)
+- [AI pump energy-saving control](https://dev.to/allen_liu_e88acb5147122d1/ai-pump-energy-saving-control-2ggl)
+- [Unpacking the Math: Building a Custom Miniature-Style DoF in UE with HLSL](https://dev.to/taku25/unpacking-the-math-building-a-custom-miniature-style-dof-in-ue-with-hlsl-2118)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
