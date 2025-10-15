@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evalúa y Mejora Tus Agentes: Evaluación Automatizada con RAGAS para Agentes de Producción](https://dev.to/aws-espanol/evalua-y-mejora-tus-agentes-evaluacion-automatizada-con-ragas-para-agentes-de-produccion-el8)
+- [Despliega Agentes de IA a Producción en 15 Minutos &lpar;Sin Docker, Sin Kubernetes, Sin Dolor de Cabeza&rpar;](https://dev.to/aws-espanol/despliega-agentes-de-ia-a-produccion-en-15-minutos-sin-docker-sin-kubernetes-sin-dolor-de-cabeza-fmf)
+- [🧠 Deep Understanding of JSX in React](https://dev.to/usama_dev/deep-understanding-of-jsx-in-react-2n9p)
+- [Monitorea Tus Agentes en Tiempo Real: Implementando Observabilidad con LangFuse en Strands Agents](https://dev.to/aws-espanol/monitorea-tus-agentes-en-tiempo-real-implementando-observabilidad-con-langfuse-en-strands-agents-412)
 - [12 Billion Parameters vs One Shoe: Taming FLUX.1 Kontext AI for E-commerce](https://dev.to/igornosatov_15/12-billion-parameters-vs-one-shoe-taming-flux1-kontext-ai-for-e-commerce-4b24)
-- [🤖 Convert XML to JSON Instantly — Because Who Has Time for Angle Brackets? ⚙️](https://dev.to/akashbijwe/convert-xml-to-json-instantly-because-who-has-time-for-angle-brackets-554j)
-- [What is a Backlink Tracking Tool and Why is it Important for SEO?](https://dev.to/anadil_khalil_977fa4834cf/what-is-a-backlink-tracking-tool-and-why-is-it-important-for-seo-4pjh)
-- [How Recursion Actually Works](https://dev.to/aditi_deshmukh/how-recursion-actually-works-1bn)
-- [From Docker to AWS: Step-by-Step Guide — Push to ECR and Deploy on ECS](https://dev.to/oncloud7/from-docker-to-aws-step-by-step-guide-push-to-ecr-and-deploy-on-ecs-3l78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
