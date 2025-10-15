@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Fell in Love with My First App &lpar;and Why It Took Forever to Launch&rpar;](https://dev.to/ernkerr/why-i-fell-in-love-with-my-first-app-and-why-it-took-forever-to-launch-49ki)
 - [Tuple in Python &lpar;5&rpar;](https://dev.to/hyperkai/tuple-in-python-5-4jaa)
 - [Precise Data Extraction: Pattern-Based Partitioning for Structured Extraction](https://dev.to/tensorlake/precise-data-extraction-pattern-based-partitioning-for-structured-extraction-2fi5)
 - [O Valor do Qualis na Ciência Brasileira: Uma Doença Coletiva? &lpar;episódio de 2023&rpar;](https://dev.to/fronteirases/o-valor-do-qualis-na-ciencia-brasileira-uma-doenca-coletiva-episodio-de-2023-3mh5)
 - [Working with Tokens on Solana using Native Rust](https://dev.to/davidekete/working-with-tokens-on-solana-using-native-rust-1cdk)
-- [How to Perform Image Processing in Matlab in 2025?](https://dev.to/jordankeurope/how-to-perform-image-processing-in-matlab-in-2025-2dje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
