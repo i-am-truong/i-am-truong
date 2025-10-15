@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHARMACEUTICAL SALES PERFORMANCE ANALYSIS.](https://dev.to/faybeth_robina/pharmaceutical-sales-performance-analysis-2k31)
+- [Simplify Your Laravel Code with Route Model Binding!](https://dev.to/yone3/simplify-your-laravel-code-with-route-model-binding-347o)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4pij)
 - [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-86c)
 - [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4g07)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-55oh)
-- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-578l)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - After Sunrise &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-414)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
