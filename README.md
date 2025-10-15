@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Evalúa y Mejora Tus Agentes: Evaluación Automatizada con RAGAS para Agentes de Producción](https://dev.to/aws-espanol/evalua-y-mejora-tus-agentes-evaluacion-automatizada-con-ragas-para-agentes-de-produccion-el8)
-- [Despliega Agentes de IA a Producción en 15 Minutos &lpar;Sin Docker, Sin Kubernetes, Sin Dolor de Cabeza&rpar;](https://dev.to/aws-espanol/despliega-agentes-de-ia-a-produccion-en-15-minutos-sin-docker-sin-kubernetes-sin-dolor-de-cabeza-fmf)
-- [🧠 Deep Understanding of JSX in React](https://dev.to/usama_dev/deep-understanding-of-jsx-in-react-2n9p)
-- [Monitorea Tus Agentes en Tiempo Real: Implementando Observabilidad con LangFuse en Strands Agents](https://dev.to/aws-espanol/monitorea-tus-agentes-en-tiempo-real-implementando-observabilidad-con-langfuse-en-strands-agents-412)
-- [12 Billion Parameters vs One Shoe: Taming FLUX.1 Kontext AI for E-commerce](https://dev.to/igornosatov_15/12-billion-parameters-vs-one-shoe-taming-flux1-kontext-ai-for-e-commerce-4b24)
+- [Building a Centralized Authentication Service for Multi-Domain Apps](https://dev.to/skillmx_2025/building-a-centralized-authentication-service-for-multi-domain-apps-1jib)
+- [Construye Agentes de IA que Nunca Olvidan: Amazon S3 Vectors + Strands Agent](https://dev.to/aws-espanol/construye-agentes-de-ia-que-nunca-olvidan-amazon-s3-vectors-strands-agent-5gch)
+- [Behind the Scenes: Volunteering at AWS Community Day Mumbai 2025](https://dev.to/yashgkar/behind-the-scenes-volunteering-at-aws-community-day-mumbai-2025-3a83)
+- [SPL Token vs. Token Extensions on Solana](https://dev.to/arvie_carlos_961023/spl-token-vs-token-extensions-on-solana-19c9)
+- [What is an Automatic Backlink Indexer and How Does It Work?](https://dev.to/anadil_khalil_977fa4834cf/what-is-an-automatic-backlink-indexer-and-how-does-it-work-4fc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
