@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Linux Programming Interface - Time](https://dev.to/cangulmez/the-linux-programming-interface-time-2hbk)
-- [The #1 Cloud Security Mistake Law Firms Make: Not Protecting Client Data](https://dev.to/heyjoshlee/the-1-cloud-security-mistake-law-firms-make-protect-client-data-3i03)
-- [📰 Major Tech News: Oct 15th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-15th-2025-2g52)
-- [Generated Content](https://dev.to/iankhanfuturist/generated-content-34lp)
-- [Pacote de dados](https://dev.to/doccaio/pacote-de-dados-52de)
+- [Master Angular Performance: 10 Essential Lazy Loading, Route Guards &amp; Resolvers Techniques Every Developer Must Know](https://dev.to/codewithrajat/master-angular-performance-10-essential-lazy-loading-route-guards-resolvers-techniques-every-4hl1)
+- [Did AI Erase Attribution? Your Git History Is Missing a Co-Author](https://dev.to/anchildress1/did-ai-erase-attribution-your-git-history-is-missing-a-co-author-1m2l)
+- [Unleash the Power of In-Browser Media Processing with Mediabunny](https://dev.to/githubopensource/unleash-the-power-of-in-browser-media-processing-with-mediabunny-43c2)
+- [Will DevOps Survive the AI Era? A Look at the Next 5 Years](https://dev.to/addwebsolutionpvtltd/will-devops-survive-the-ai-era-a-look-at-the-next-5-years-1mg5)
+- [MCP for WordPress: Write and Publish Posts from Your AI Assistant](https://dev.to/rnaga/mcp-for-wordpress-write-and-publish-posts-from-your-ai-assistant-lmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
