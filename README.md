@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a “How Many People Share Your Name” Tool and Would Like Your Feedback](https://dev.to/magen/i-built-a-how-many-people-share-your-name-tool-and-would-like-your-feedback-hj8)
-- [Performance Boost: Ditching Heavy JS Libraries for Native CSS `@keyframes`](https://dev.to/devhabib/performance-boost-ditching-heavy-js-libraries-for-native-css-keyframes-fi4)
-- [The Best Diagramming Software for Consultants in 2025](https://dev.to/ishmam_jahan_4269b6f13ba5/the-best-diagramming-software-for-consultants-in-2025-22ga)
-- [How We Engineered Smarter Backyard Playgrounds for Kids](https://dev.to/yx123/how-we-engineered-smarter-backyard-playgrounds-for-kids-35ke)
-- [Part 6: Disaster Recovery, Cost Management, and Future-Proofing](https://dev.to/techstuff/part-6-disaster-recovery-cost-management-and-future-proofing-13fm)
+- [🔐 10 Core Concepts Every Developer Should Know About Data Security](https://dev.to/kasra10/10-core-concepts-every-developer-should-know-about-data-security-o9d)
+- [Building an AI-Powered CV Screening System with Explainable Scoring](https://dev.to/nesnyx/building-an-ai-powered-cv-screening-system-with-explainable-scoring-20o)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-oej)
+- [Ensemble Learning in Machine Learning: Why Multiple Models Outperform One](https://dev.to/bharathprasad/ensemble-learning-in-machine-learning-why-multiple-models-outperform-one-59dp)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-14k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
