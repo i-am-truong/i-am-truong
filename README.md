@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Architecture](https://dev.to/dev_anantharul_1746a25af/java-architecture-1iel)
+- [Node.js-Steps for building your first server❗](https://dev.to/cristea_theodora_6200140b/nodejs-steps-for-building-your-first-server-547f)
 - [Why and How to Write Minimal and Valid HTML, a Link Guide](https://dev.to/j9t/why-and-how-to-write-minimal-and-valid-html-a-link-guide-2b4p)
 - [Apple Clips social video app killed after eight years](https://dev.to/logicverse_2025/apple-clips-social-video-app-killed-after-eight-years-55jf)
 - [The Agent Mesh: Building Smarter Integration Workflows with AI Agents](https://dev.to/webmethodman/the-agent-mesh-building-smarter-integration-workflows-with-ai-agents-51ae)
-- [DevOpsWay Mini #1 - Vagrant](https://dev.to/wbartlomiej/devopsway-mini-1-vagrant-5203)
-- [Building a Centralized Authentication Service for Multi-Domain Apps](https://dev.to/logicverse_2025/building-a-centralized-authentication-service-for-multi-domain-apps-1jib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
