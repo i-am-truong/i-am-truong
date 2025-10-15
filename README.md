@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing AI Agents Like a Pro: A Complete Guide to Rogue 🔍](https://dev.to/drorivry/testing-ai-agents-like-a-pro-a-complete-guide-to-rogue-4npb)
+- [Local IIS and IIS Express Can&#39;t Run Localhost After Windows Update 2025-10](https://dev.to/senadmeskin/local-iis-and-iis-express-cant-run-localhost-after-windows-update-2025-10-51m6)
+- [How I stopped overthinking logos and built a tool to make them in seconds](https://dev.to/gadgetyouin_7e4cdeb1211290828/how-i-stopped-overthinking-logos-and-built-a-tool-to-make-them-in-seconds-467)
 - [PHARMACEUTICAL SALES PERFORMANCE ANALYSIS.](https://dev.to/faybeth_robina/pharmaceutical-sales-performance-analysis-2k31)
-- [Simplify Your Laravel Code with Route Model Binding!](https://dev.to/yone3/simplify-your-laravel-code-with-route-model-binding-347o)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4pij)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-86c)
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4g07)
+- [Redis Explained: The Secret Ingredient Behind Fast Apps &amp; Smooth DevOps](https://dev.to/threshika_vijayakumar_bb9/redis-explained-the-secret-ingredient-behind-fast-apps-smooth-devops-1p9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
