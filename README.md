@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CrossUI — A Reusable UI Component Library for Vue, React, Nuxt, and Next.js](https://dev.to/rahimipouria/crossui-a-reusable-ui-component-library-for-vue-react-nuxt-and-nextjs-lak)
+- [🔗 Cómo los desarrolladores están impulsando la próxima ola de adopción cripto en 2025](https://dev.to/paddy_e4d3d274ebc7/como-los-desarrolladores-estan-impulsando-la-proxima-ola-de-adopcion-cripto-en-2025-3j5a)
+- [How Agent Observability Ensures AI Agent Reliability](https://dev.to/kamya_shah_e69d5dd78f831c/how-agent-observability-ensures-ai-agent-reliability-3g0b)
 - [Start Safe: Terragrunt Import for Multi-Account AWS](https://dev.to/terraformmonkey/start-safe-terragrunt-import-for-multi-account-aws-197p)
 - [Day 1252 : Flush](https://dev.to/dwane/day-1252-flush-hao)
-- [🎮 Introducing Pixalo — A Lightweight, Developer-Friendly 2D Game Engine for JavaScript](https://dev.to/salarizadi/introducing-pixalo-a-lightweight-developer-friendly-2d-game-engine-for-javascript-3e73)
-- [Tools Make the Dev: 9 Python Productivity Tools You Shouldn’t Miss](https://dev.to/lamri_abdellahramdane_15/tools-make-the-dev-9-python-productivity-tools-you-shouldnt-miss-1d4p)
-- [The Role of Cybersecurity in Digital Transformation by Highly Skilled IT Professionals such as Jeremy Nevins](https://dev.to/jnevins1/the-role-of-cybersecurity-in-digital-transformation-by-highly-skilled-it-professionals-such-as-2jca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
