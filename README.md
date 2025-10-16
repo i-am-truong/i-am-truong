@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Real-Time Project Profitability Is Essential for Modern Contractors](https://dev.to/kapusto/why-real-time-project-profitability-is-essential-for-modern-contractors-48mp)
-- [The Art of Defense: A Senior Developer&#39;s Journey Through the OWASP Top 10 for Node.js](https://dev.to/alex_aslam/the-art-of-defense-a-senior-developers-journey-through-the-owasp-top-10-for-nodejs-2ifn)
-- [From Chaos to Clarity: The Artistic Evolution of Async JavaScript](https://dev.to/alex_aslam/from-chaos-to-clarity-the-artistic-evolution-of-async-javascript-27hm)
-- [I was tired of “free” PDF editors that upload files and add watermarks — so I built a client-side one](https://dev.to/techrex/i-was-tired-of-free-pdf-editors-that-upload-files-and-add-watermarks-so-i-built-a-client-side-7jm)
-- [🚖 Building a Scalable Frontend Mock Architecture with MSW, Factories, and Services &lpar;Uber-Like Example&rpar;](https://dev.to/mrajaeim/building-a-scalable-frontend-mock-architecture-with-msw-factories-and-services-uber-like-3kgi)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-pnb)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-19ha)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-2a1b)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-4ekd)
+- [KEXP: Jorja Smith - On My Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-129g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
