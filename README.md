@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of Green AI: How Sustainable Artificial Intelligence Is Shaping the Future](https://dev.to/zoe_lane_4e892a3b68b5ef61/the-rise-of-green-ai-how-sustainable-artificial-intelligence-is-shaping-the-future-ha)
+- [How to Automate HubSpot CRM Using OpenAI Agent Builder](https://dev.to/composiodev/how-to-automate-hubspot-crm-using-openai-agent-builder-5666)
 - [From Brilliant Interns to Reliable Experts: Why Enterprises Are Betting Big on RAG Systems](https://dev.to/riya_sangwan_810e6c213082/from-brilliant-interns-to-reliable-experts-why-enterprises-are-betting-big-on-rag-systems-56mk)
 - [Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/flutter-flavors-guia-completa-de-implementacion-para-proyectos-multicliente-en-android-e-ios-1409)
 - [Micronaut 4 application on AWS Lambda- Part 5 Measuring Lambda cold and warm starts with GraalVM Native Image](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-5-measuring-lambda-cold-and-warm-starts-with-graalvm-3ci8)
-- [New Release: Visual Studio Code Plugin For All the Busy Devs](https://dev.to/dev-tngsh/new-release-visual-studio-code-plugin-for-all-the-busy-devs-4bek)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2jp0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
