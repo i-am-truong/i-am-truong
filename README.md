@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🗄️DB Performance 101: A Practical Deep Dive into Backend Database Optimization⚡](https://dev.to/ari-ghosh/db-performance-101-a-practical-deep-dive-into-backend-database-optimization-4cag)
+- [Building a ChatGPT movie app with the OpenAI Apps SDK](https://dev.to/gadgetdev/building-a-chatgpt-movie-app-with-the-openai-apps-sdk-eab)
+- [Building in Public with GitHub Actions &lpar;No More Manual Posting&rpar;](https://dev.to/brilliantmakanju/building-in-public-with-github-actions-no-more-manual-posting-4ja9)
+- [Prerequisites for Using the Instagram API with Python](https://dev.to/mirfa_zainab_8b97d351bc0f/prerequisites-for-using-the-instagram-api-with-python-3h66)
 - [DNS Records Explained: Types, Purpose, and Failure Scenarios](https://dev.to/rijultp/dns-records-explained-types-purpose-and-failure-scenarios-139g)
-- [[Boost]](https://dev.to/rshivakumar/-9b)
-- [The Case Study as an API: A Developer&#39;s Blueprint for Converting B2B Leads](https://dev.to/michaelaiglobal/the-case-study-as-an-api-a-developers-blueprint-for-converting-b2b-leads-hnh)
-- [i made this](https://dev.to/aelshennawy/i-made-this-c8k)
-- [OpenAI AgentKit vs Google ADK vs Inngest: Complete 2025 Comparison](https://dev.to/rshivakumar/openai-agentkit-vs-google-adk-vs-inngest-complete-2025-comparison-3b5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
