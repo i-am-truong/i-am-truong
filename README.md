@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Silent API Failures in Production](https://dev.to/trackjs/the-hidden-cost-of-silent-api-failures-in-production-1gg5)
-- [Argo CD: Previewing Pull Requests changes in SECONDS! 🥵⚡️⏰](https://dev.to/dag-andersen/argo-cd-previewing-pull-requests-changes-in-seconds-241g)
-- [From Chaos to Clarity: How I Finally Stopped Hating State Management](https://dev.to/sepehrshapouri/from-chaos-to-clarity-how-i-finally-stopped-hating-state-management-2m87)
-- [Python Projects With Less Pain: Beginner&#39;s Guide to Virtual Environments](https://dev.to/julielinx/python-projects-with-less-pain-beginners-guide-to-virtual-environments-4o5a)
-- [What are the Javascript Data Types?](https://dev.to/aj_arul/what-are-the-javascript-data-types-1f5h)
+- [Make Your App Grow Painlessly: How I Escaped Repetitive Code Thanks to the Provider Pattern](https://dev.to/abians/make-your-app-grow-painlessly-how-i-escaped-repetitive-code-thanks-to-the-provider-pattern-47en)
+- [Top 5 Prompt Engineering Techniques for LLMs in 2025](https://dev.to/neha/top-5-prompt-engineering-techniques-for-llms-in-2025-1gb4)
+- [Python basics - Day 08](https://dev.to/ian_b838138a27a917398d181/python-basics-day-08-5o1)
+- [**Unlocking Secure AI Processing at the Edge with Federated](https://dev.to/drcarlosruizviquez/unlocking-secure-ai-processing-at-the-edge-with-federated-20f5)
+- [Haz que tu app crezca sin dolor: Así escapé del código repetido gracias al patrón Provider](https://dev.to/abians/haz-que-tu-app-crezca-sin-dolor-asi-escape-del-codigo-repetido-gracias-al-patron-provider-202n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
