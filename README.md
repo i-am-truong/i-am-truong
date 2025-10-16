@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Green AI: How Sustainable Artificial Intelligence Is Shaping the Future](https://dev.to/zoe_lane_4e892a3b68b5ef61/the-rise-of-green-ai-how-sustainable-artificial-intelligence-is-shaping-the-future-ha)
-- [How to Automate HubSpot CRM Using OpenAI Agent Builder](https://dev.to/composiodev/how-to-automate-hubspot-crm-using-openai-agent-builder-5666)
-- [From Brilliant Interns to Reliable Experts: Why Enterprises Are Betting Big on RAG Systems](https://dev.to/riya_sangwan_810e6c213082/from-brilliant-interns-to-reliable-experts-why-enterprises-are-betting-big-on-rag-systems-56mk)
-- [Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/flutter-flavors-guia-completa-de-implementacion-para-proyectos-multicliente-en-android-e-ios-1409)
-- [Micronaut 4 application on AWS Lambda- Part 5 Measuring Lambda cold and warm starts with GraalVM Native Image](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-5-measuring-lambda-cold-and-warm-starts-with-graalvm-3ci8)
+- [ORIZYN TECH is hiring builders — Equity-only roles &lpar;Mobile Lead, Telemetry Backend, Frontend Mobile, DevOps&rpar;](https://dev.to/orizyn_tech_ac80fc47a3f56/orizyn-tech-is-hiring-builders-equity-only-roles-mobile-lead-telemetry-backend-frontend-4j53)
+- [Do Prompt ao Deploy: Construindo um Projeto Python Automatizado com GPT-5 e GitHub Copilot](https://dev.to/marcos_vile/do-prompt-ao-deploy-construindo-um-projeto-python-automatizado-com-gpt-5-e-github-copilot-3hdg)
+- [Upgrading Our Raspberry Pi Kubernetes Cluster: From v1.29 to v1.34 &amp; ETCD Backup Guide](https://dev.to/mahinshanazeer/upgrading-our-raspberry-pi-kubernetes-cluster-from-v129-to-v134-etcd-backup-guide-28)
+- [IA com propósito: como construir seu próprio ChatGPT usando RAG + OpenAI &lpar;Como ensinar a IA a falar a língua da sua organização&rpar;](https://dev.to/rafael_scheidt_d4be592651/ia-com-proposito-como-construir-seu-proprio-chatgpt-usando-rag-openai-como-ensinar-a-ia-a-falar-1boi)
+- [Non Custodial Crypto Wallets, Done Right](https://dev.to/estelleatthenook/non-custodial-crypto-wallets-done-right-2b1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
