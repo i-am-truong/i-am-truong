@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From String Soup to Fluent Code: Reinventing XPath in Java with XPathy 🚀](https://dev.to/volta_jebaprashanth_ac7af/from-string-soup-to-fluent-code-reinventing-xpath-in-java-with-xpathy-5eng)
-- [Evolução da linguagem Java &lpar;parte 4&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-4-39a0)
-- [JavaFX In Action #21 with Vlad Protsenko, Combining Clojure with JavaFX for Game Development with Defold](https://dev.to/fdelporte/javafx-in-action-21-with-vlad-protsenko-combining-clojure-with-javafx-for-game-development-with-341e)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4dok)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - After Sunrise &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-51ag)
+- [[Boost]](https://dev.to/rshivakumar/-9b)
+- [The Case Study as an API: A Developer&#39;s Blueprint for Converting B2B Leads](https://dev.to/michaelaiglobal/the-case-study-as-an-api-a-developers-blueprint-for-converting-b2b-leads-hnh)
+- [i made this](https://dev.to/aelshennawy/i-made-this-c8k)
+- [I have nothing to wear… again](https://dev.to/oreoluwabs/i-have-nothing-to-wear-again-h8i)
+- [The Automated Tester&#39;s Secret Weapon: Build Robust XPaths in Seconds, Not Minutes &lpar;With XPathy&rpar;](https://dev.to/volta_jebaprashanth_ac7af/the-automated-testers-secret-weapon-build-robust-xpaths-in-seconds-not-minutes-with-xpathy-984)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
