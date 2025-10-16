@@ -123,8 +123,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Qt + CMake: Modern Approach to Managing icons.qrc](https://dev.to/alexander_movchan_f11a820/qt-cmake-modern-approach-to-managing-iconsqrc-1n1e)
 - [Find Exercises](https://dev.to/reuben_barr_250e68e131938/find-exercises-5gmm)
 - [GOOD](https://dev.to/reuben_barr_250e68e131938/good-179h)
-- [Unpacking Udacity&#39;s $5K AI Master’s Degree](https://dev.to/udacity/unpacking-udacitys-5k-ai-masters-degree-2m5l)
 - [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-pnb)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-4ekd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
