@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DNS Records Explained: Types, Purpose, and Failure Scenarios](https://dev.to/rijultp/dns-records-explained-types-purpose-and-failure-scenarios-139g)
 - [[Boost]](https://dev.to/rshivakumar/-9b)
 - [The Case Study as an API: A Developer&#39;s Blueprint for Converting B2B Leads](https://dev.to/michaelaiglobal/the-case-study-as-an-api-a-developers-blueprint-for-converting-b2b-leads-hnh)
 - [i made this](https://dev.to/aelshennawy/i-made-this-c8k)
-- [I have nothing to wear… again](https://dev.to/oreoluwabs/i-have-nothing-to-wear-again-h8i)
-- [The Automated Tester&#39;s Secret Weapon: Build Robust XPaths in Seconds, Not Minutes &lpar;With XPathy&rpar;](https://dev.to/volta_jebaprashanth_ac7af/the-automated-testers-secret-weapon-build-robust-xpaths-in-seconds-not-minutes-with-xpathy-984)
+- [OpenAI AgentKit vs Google ADK vs Inngest: Complete 2025 Comparison](https://dev.to/rshivakumar/openai-agentkit-vs-google-adk-vs-inngest-complete-2025-comparison-3b5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
