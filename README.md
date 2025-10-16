@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency and API Protection](https://dev.to/arturampilogov/concurrency-and-api-protection-24kc)
-- [I remember applying for a PPP loan for my small business and being denied. Reading that Mason Builders got theirs forgiven after diverting funds is infuriating.](https://dev.to/zaramercer89/i-remember-applying-for-a-ppp-loan-for-my-small-business-and-being-denied-reading-that-mason-4g39)
-- [You’re a Real JavaScript Developer Only If...](https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c)
-- [How to Choose a Deployment Platform for a Next.js Project?](https://dev.to/c1avie_60b7853948e3d4/how-to-choose-a-deployment-platform-for-a-nextjs-project-3bbl)
-- [Why Traditional BI Tools Fail Non-Tech Users and How Lumenn AI Bridges the Gap](https://dev.to/ravi_teja_4/why-traditional-bi-tools-fail-non-tech-users-and-how-lumenn-ai-bridges-the-gap-1o9a)
+- [Complete Guide to Jest.spyOn for Unit Testing](https://dev.to/devin-rosario/complete-guide-to-jestspyon-for-unit-testing-4io6)
+- [Design Patterns for a Multi-Agent Future](https://dev.to/rohit_gavali_0c2ad84fe4e0/design-patterns-for-a-multi-agent-future-3jpe)
+- [Java Architecture](https://dev.to/dharshinieswaran/java-architecture-81l)
+- [How I Built My Website for Free Using GitHub Pages](https://dev.to/inzammam_ulhaq_794681107/how-i-built-my-website-for-free-using-github-pages-56ed)
+- [ANOVA or Analysis Of Variance](https://dev.to/gregory42266270/anova-or-analysis-of-variance-493f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
