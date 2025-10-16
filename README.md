@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use AI to assist you, not to replace you.](https://dev.to/canro91/use-ai-to-assist-you-not-to-replace-you-a36)
 - [From one CSRF case to see handling third-party cookie blocking in browser](https://dev.to/cheedge_lee/from-one-csrf-case-to-see-handling-third-party-cookie-blocking-in-browser-1k2j)
 - [Como ter um modelo de IA utilizando GPU na Magalu Cloud](https://dev.to/magalucloud/como-ter-um-modelo-de-ia-utilizando-gpu-na-magalu-cloud-75b)
 - [My Honest Experience Using CodeRabbit for Code Reviews](https://dev.to/tienchinh21/my-honest-experience-using-coderabbit-for-code-reviews-2i20)
 - [Just launched AroraBuild &lpar;https://arorabuild.site/&rpar; — a platform helping devs get real help for their tech doubts.](https://dev.to/venkatesh_eedupuganti_6b9/just-launched-arorabuild-httpsarorabuildsite-a-platform-helping-devs-get-real-help-for-5895)
-- [Building a Secure WebRTC P2P Network with Advanced ECDH, DTLS, and SAS Verification](https://dev.to/securebitchat/building-a-secure-webrtc-p2p-network-with-advanced-ecdh-dtls-and-sas-verification-27p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
