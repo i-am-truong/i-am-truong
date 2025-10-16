@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-35fk)
-- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-4d9h)
-- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-42l0)
-- [GameSpot: Anno 117: Pax Romana - Official Game Overview Walkthrough Trailer](https://dev.to/gg_news/gamespot-anno-117-pax-romana-official-game-overview-walkthrough-trailer-4lhp)
-- [IGN: Pokemon Legends: Z-A - Which Starter Should You Choose?](https://dev.to/gg_news/ign-pokemon-legends-z-a-which-starter-should-you-choose-3n25)
+- [From String Soup to Fluent Code: Reinventing XPath in Java with XPathy 🚀](https://dev.to/volta_jebaprashanth_ac7af/from-string-soup-to-fluent-code-reinventing-xpath-in-java-with-xpathy-5eng)
+- [Evolução da linguagem Java &lpar;parte 4&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-4-39a0)
+- [JavaFX In Action #21 with Vlad Protsenko, Combining Clojure with JavaFX for Game Development with Defold](https://dev.to/fdelporte/javafx-in-action-21-with-vlad-protsenko-combining-clojure-with-javafx-for-game-development-with-341e)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4dok)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - After Sunrise &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-51ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
