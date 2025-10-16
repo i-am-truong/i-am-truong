@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Real Costs of ETL and How MindsDB Eliminates Them](https://dev.to/mindsdb/the-real-costs-of-etl-and-how-mindsdb-eliminates-them-2nd7)
 - [Use AI to assist you, not to replace you.](https://dev.to/canro91/use-ai-to-assist-you-not-to-replace-you-a36)
+- [Key - كي](https://dev.to/tkeyg/key-ky-4ca7)
+- [LLPY-06: FastAPI - Construyendo una API REST Robusta para RAG](https://dev.to/jesus_oviedoriquelme_084/llpy-06-fastapi-construyendo-una-api-rest-robusta-para-rag-2ph6)
 - [From one CSRF case to see handling third-party cookie blocking in browser](https://dev.to/cheedge_lee/from-one-csrf-case-to-see-handling-third-party-cookie-blocking-in-browser-1k2j)
-- [Como ter um modelo de IA utilizando GPU na Magalu Cloud](https://dev.to/magalucloud/como-ter-um-modelo-de-ia-utilizando-gpu-na-magalu-cloud-75b)
-- [My Honest Experience Using CodeRabbit for Code Reviews](https://dev.to/tienchinh21/my-honest-experience-using-coderabbit-for-code-reviews-2i20)
-- [Just launched AroraBuild &lpar;https://arorabuild.site/&rpar; — a platform helping devs get real help for their tech doubts.](https://dev.to/venkatesh_eedupuganti_6b9/just-launched-arorabuild-httpsarorabuildsite-a-platform-helping-devs-get-real-help-for-5895)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
