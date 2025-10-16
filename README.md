@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An Open Source OpenTelemetry APM \| SigNoz](https://dev.to/signoz/an-open-source-opentelemetry-apm-signoz-29ka)
-- [Secrets Management: Keeping API Keys and Credentials Safe](https://dev.to/vanessamadison/secrets-management-keeping-api-keys-and-credentials-safe-140h)
-- [Automatically change the theme in Ubuntu based on the time of day](https://dev.to/irvirty/automatically-change-the-theme-in-ubuntu-based-on-the-time-of-day-3023)
-- [11 Best Node.js Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-nodejs-courses-to-learn-in-2026-27mn)
-- [A Docker Trick I Wish I Knew Sooner](https://dev.to/joybtw/a-docker-trick-i-wish-i-knew-sooner-23of)
+- [How to Connect MySQL Database with Selenium Tests in C#](https://dev.to/jignect-technologies/how-to-connect-mysql-database-with-selenium-tests-in-c-4p91)
+- [One Functional Prototype is Better Than a Thousand Wireframes](https://dev.to/sreejith1976/one-functional-prototype-is-better-than-a-thousand-wireframes-1o04)
+- [Authentication Flows: Implementing Secure Session Management](https://dev.to/vanessamadison/authentication-flows-implementing-secure-session-management-35m9)
+- [Check out the guide on - How to Perform Reinforcement Learning with R](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-how-to-perform-reinforcement-learning-with-r-4edo)
+- [OpenTelemetry vs. New Relic - Which Monitoring Tool Fits You?](https://dev.to/signoz/opentelemetry-vs-new-relic-which-monitoring-tool-fits-you-44oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
