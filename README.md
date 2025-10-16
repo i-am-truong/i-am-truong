@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🐞 My QA Bug Report Project — Testing the Delve.fun Web Application](https://dev.to/loveline/my-qa-bug-report-project-testing-the-delvefun-web-application-60a)
+- [Dnd-Master: Lightweight, Powerful Drag-and-Drop for Svelte](https://dev.to/retrotheft/dnd-master-lightweight-powerful-drag-and-drop-for-svelte-1bhj)
+- [How to Use Multiple GitHub Accounts on One Computer &lpar;Step-by-Step Guide&rpar;](https://dev.to/jahid02/how-to-use-multiple-github-accounts-on-one-computer-step-by-step-guide-ln3)
 - [I posted this over a year ago, and unfortunately, it&#39;s still relevant. Please take time to consider your mental health and take a minute to appreciate the things you have accomplished.](https://dev.to/jgdevelops/i-posted-this-over-a-year-ago-and-unfortunately-its-still-relevant-please-take-time-to-consider-3d7h)
 - [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-ma8)
-- [COLORS: Dear Silas | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-a-colors-show-2pf0)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-g45)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-k7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
