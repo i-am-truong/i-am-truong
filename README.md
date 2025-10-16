@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4920)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4ehg)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-288o)
-- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-32bi)
-- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-3hb0)
+- [Concurrency and API Protection](https://dev.to/arturampilogov/concurrency-and-api-protection-24kc)
+- [I remember applying for a PPP loan for my small business and being denied. Reading that Mason Builders got theirs forgiven after diverting funds is infuriating.](https://dev.to/zaramercer89/i-remember-applying-for-a-ppp-loan-for-my-small-business-and-being-denied-reading-that-mason-4g39)
+- [You’re a Real JavaScript Developer Only If...](https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c)
+- [How to Choose a Deployment Platform for a Next.js Project?](https://dev.to/c1avie_60b7853948e3d4/how-to-choose-a-deployment-platform-for-a-nextjs-project-3bbl)
+- [Why Traditional BI Tools Fail Non-Tech Users and How Lumenn AI Bridges the Gap](https://dev.to/ravi_teja_4/why-traditional-bi-tools-fail-non-tech-users-and-how-lumenn-ai-bridges-the-gap-1o9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
