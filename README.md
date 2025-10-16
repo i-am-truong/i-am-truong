@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An Open Source OpenTelemetry APM \| SigNoz](https://dev.to/signoz/an-open-source-opentelemetry-apm-signoz-29ka)
+- [Secrets Management: Keeping API Keys and Credentials Safe](https://dev.to/vanessamadison/secrets-management-keeping-api-keys-and-credentials-safe-140h)
 - [Automatically change the theme in Ubuntu based on the time of day](https://dev.to/irvirty/automatically-change-the-theme-in-ubuntu-based-on-the-time-of-day-3023)
+- [11 Best Node.js Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-nodejs-courses-to-learn-in-2026-27mn)
 - [A Docker Trick I Wish I Knew Sooner](https://dev.to/joybtw/a-docker-trick-i-wish-i-knew-sooner-23of)
-- [💥 Myth #16: Technical constraints are decided later](https://dev.to/tmorin/myth-16-technical-constraints-are-decided-later-28ha)
-- [Day 15 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-15-of-100-days-dsa-coding-challenge-36aj)
-- [Day 10 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-10-of-my-ai-data-mastery-journey-from-python-to-generative-ai-287)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
