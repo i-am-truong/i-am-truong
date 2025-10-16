@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why every developer needs a portfolio](https://dev.to/egledigital/why-every-developer-needs-a-portfolio-393m)
+- [EZ Mother Devlog #3](https://dev.to/longchau/ez-mother-devlog-3-1oda)
+- [🚀 DTOs, Entidades y JPA: El Trío Dinámico de la Persistencia en Java ☕](https://dev.to/orli/dtos-entidades-y-jpa-el-trio-dinamico-de-la-persistencia-en-java-28n0)
+- [&quot;The Future of Generative AI: Beyond Mimicry, Towards Amplif](https://dev.to/drcarlosruizviquez/the-future-of-generative-ai-beyond-mimicry-towards-amplif-5c4n)
 - [Make Your App Grow Painlessly: How I Escaped Repetitive Code Thanks to the Provider Pattern](https://dev.to/abians/make-your-app-grow-painlessly-how-i-escaped-repetitive-code-thanks-to-the-provider-pattern-47en)
-- [Top 5 Prompt Engineering Techniques for LLMs in 2025](https://dev.to/neha/top-5-prompt-engineering-techniques-for-llms-in-2025-1gb4)
-- [Python basics - Day 08](https://dev.to/ian_b838138a27a917398d181/python-basics-day-08-5o1)
-- [**Unlocking Secure AI Processing at the Edge with Federated](https://dev.to/drcarlosruizviquez/unlocking-secure-ai-processing-at-the-edge-with-federated-20f5)
-- [Haz que tu app crezca sin dolor: Así escapé del código repetido gracias al patrón Provider](https://dev.to/abians/haz-que-tu-app-crezca-sin-dolor-asi-escape-del-codigo-repetido-gracias-al-patron-provider-202n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
