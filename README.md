@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why every developer needs a portfolio](https://dev.to/egledigital/why-every-developer-needs-a-portfolio-393m)
-- [EZ Mother Devlog #3](https://dev.to/longchau/ez-mother-devlog-3-1oda)
-- [🚀 DTOs, Entidades y JPA: El Trío Dinámico de la Persistencia en Java ☕](https://dev.to/orli/dtos-entidades-y-jpa-el-trio-dinamico-de-la-persistencia-en-java-28n0)
-- [&quot;The Future of Generative AI: Beyond Mimicry, Towards Amplif](https://dev.to/drcarlosruizviquez/the-future-of-generative-ai-beyond-mimicry-towards-amplif-5c4n)
-- [Make Your App Grow Painlessly: How I Escaped Repetitive Code Thanks to the Provider Pattern](https://dev.to/abians/make-your-app-grow-painlessly-how-i-escaped-repetitive-code-thanks-to-the-provider-pattern-47en)
+- [COLORS: Dear Silas | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-a-colors-show-397g)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-518o)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-1hig)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-2mn4)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3dgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
