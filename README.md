@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Day Learning Log — Styling &amp; React Components Revision](https://dev.to/usama_dev/day-learning-log-styling-react-components-revision-4i1o)
-- [My 1st post on Dev.to!](https://dev.to/codemasterx20/my-1st-post-on-devto-3gh7)
-- [Advanced CSS Animations: How to Bring Your Web Designs to Life with Motion and Meaning](https://dev.to/okoye_ndidiamaka_5e3b7d30/advanced-css-animations-how-to-bring-your-web-designs-to-life-with-motion-and-meaning-4jlg)
-- [checkout this article on Unleashing the Power of Tableau: Origins, Applications, and Benefits of Learning Data Visualization](https://dev.to/dipti26810/checkout-this-article-on-unleashing-the-power-of-tableau-origins-applications-and-benefits-of-57co)
-- [Intelligent Message Filtering and How It Keeps Your Inbox Organized](https://dev.to/ethanblake352q/intelligent-message-filtering-and-how-it-keeps-your-inbox-organized-49oe)
+- [Microsoft Clarity&#39;s Consent V2: Code Snippets, Pitfalls, and the Smarter Approach](https://dev.to/mehwish_malik_4f29ff7fb04/microsoft-claritys-consent-v2-code-snippets-pitfalls-and-the-smarter-approach-4ekn)
+- [Beyond Vibe Coding: How I Use AI as a Tech Lead to Stay in Control](https://dev.to/devbyrayray/beyond-vibe-coding-how-i-use-ai-as-a-tech-lead-to-stay-in-control-3cb0)
+- [The Different ways to Style Your React App](https://dev.to/ddebajyati/the-different-ways-to-style-your-react-app-34kn)
+- [What’s the Best Foot Traffic Data Source for Investors?](https://dev.to/james_williams_b696b30fec/whats-the-best-foot-traffic-data-source-for-investors-364i)
+- [ANOVA](https://dev.to/njeri_kimaru/anova-4jlj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
