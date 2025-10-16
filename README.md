@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧩 YAML to JSON Converter — Because Indentation Shouldn’t Be a Life-or-Death Matter 😅](https://dev.to/akashbijwe/yaml-to-json-converter-because-indentation-shouldnt-be-a-life-or-death-matter-236p)
+- [Chat apps can format text with Markdown](https://dev.to/googleworkspace/chat-apps-can-format-text-with-markdown-3ml4)
+- [SVAR React DataGrid v2.3 — A Free Alternative for Complex React Tables](https://dev.to/olga_tash/svar-react-datagrid-v23-a-free-alternative-for-complex-react-tables-14a3)
 - [Setting Up NGINX as A Reverse Proxy for your Nest JS Microservices](https://dev.to/cedar_daniel_1d95c709d304/setting-up-nginx-as-a-reverse-proxy-for-your-nest-js-microservices-5bk7)
 - [Unlocking the Power of Caching: Strategies for Developers](https://dev.to/mikeover/unlocking-the-power-of-caching-strategies-for-developers-2ofl)
-- [.NET &lpar;dotnet&rpar; Development Certificates on Void Linux](https://dev.to/cezarlamann/net-dotnet-development-certificates-on-void-linux-dfm)
-- [Need a Professional Web Developer for Your Next Project?](https://dev.to/umair_awan_3cc4b1ecb320c1/need-a-professional-web-developer-for-your-next-project-429j)
-- [Automating AWS Infrastructure for a FastAPI Application with Terraform](https://dev.to/fredmunjogu/automating-aws-infrastructure-for-a-fastapi-application-with-terraform-58lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
