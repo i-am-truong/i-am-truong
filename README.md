@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Next.js for Maximum Performance](https://dev.to/devops-make-it-run/optimizing-nextjs-for-maximum-performance-3634)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-f2e)
-- [How UVM Verification Enhances Functional Coverage in Chip Design](https://dev.to/fidus_systems/how-uvm-verification-enhances-functional-coverage-in-chip-design-4jc2)
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-20fa)
-- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-3oe5)
+- [Exploring the ADO MCP Server: A Smart Assistant for Smarter Development](https://dev.to/tmcd054/exploring-the-ado-mcp-server-a-smart-assistant-for-smarter-development-2pen)
+- [Understanding Django, Gunicorn, and Database Connections](https://dev.to/ticatwolves/understanding-django-gunicorn-and-database-connections-5g50)
+- [TeeChart for .NET at Diablo Analytical: Real-Time Charting for Mass Spectrometry &amp; Gas Analysis](https://dev.to/steema/teechart-for-net-at-diablo-analytical-real-time-charting-for-mass-spectrometry-gas-analysis-326b)
+- [checkout this article on How to Use A/B Testing to Create Accurate Buyer Personas](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-how-to-use-ab-testing-to-create-accurate-buyer-personas-5568)
+- [Building an Online Store Using Only HTML, CSS, and JavaScript — My First Practical Coding Project](https://dev.to/devmahmoudadel/building-an-online-store-using-only-html-css-and-javascript-my-first-practical-coding-project-57nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
