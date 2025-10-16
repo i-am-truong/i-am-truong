@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Adventures of Blink S4e7: The Gilded Rose: The Test Vault](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e7-the-gilded-rose-the-test-vault-ek6)
+- [Detecting Sales Anomalies with ML.NET — Razor Dashboard + SQL Integration](https://dev.to/reshma_p_f93cbf8b077366c6/detecting-sales-anomalies-with-mlnet-razor-dashboard-sql-integration-3gp9)
+- [Convert HTML to Word in Java | HTML Files or Strings to Editable Word Documents](https://dev.to/leondavis1991/convert-html-to-word-in-java-html-files-or-strings-to-editable-word-documents-3hn3)
 - [MCP vs API](https://dev.to/apideck/mcp-vs-api-40a8)
 - [Best IDE for Flutter Development in 2025: Detailed Comparison and Recommendations](https://dev.to/shubham_joshi_expert/best-ide-for-flutter-development-in-2025-detailed-comparison-and-recommendations-41hh)
-- [Docker NGINX + WordPress + MariaDB Tutorial - Inception42](https://dev.to/alejiri/docker-nginx-wordpress-mariadb-tutorial-inception42-1eok)
-- [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
-- [Distributed Applications. Part 1 - Overview](https://dev.to/lostghost/distributed-applications-part-1-overview-6g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
