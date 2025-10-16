@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-24lj)
-- [Flip Your CI Like a Switch: Instantly Toggle Flags with GitHub Actions Variables](https://dev.to/codenamegrant/flip-your-ci-like-a-switch-instantly-toggle-flags-with-github-actions-variables-2go9)
-- [Best English to Arabic Document Translation Software](https://dev.to/testjace/best-english-to-arabic-document-translation-software-i90)
-- [Pxxl App: The Best Nigerian and African Alternative to Vercel, Render, and Netlify](https://dev.to/honour_5dfc0a78dcc0e0fd91/pxxl-app-the-best-nigerian-and-african-alternative-to-vercel-render-and-netlify-344k)
-- [What is a Domain Authority Checker and How Does It Measure Website Strength?](https://dev.to/anadil_khalil_b75a8464d97/what-is-a-domain-authority-checker-and-how-does-it-measure-website-strength-4d8f)
+- [Building a Morse Code Translator with Next.js 15 and Web Audio API](https://dev.to/xjtumj/building-a-morse-code-translator-with-nextjs-15-and-web-audio-api-4j7l)
+- [Stumbling block for AI: UTF\-8](https://dev.to/pvsdev/stumbling-block-for-ai-utf-8-5eik)
+- [Podman on GitLab CI: Fast, Efficient Container Builds — No DinD Required](https://dev.to/justlig/podman-on-gitlab-ci-fast-efficient-container-builds-no-dind-required-e2e)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4221)
+- [Oracle Cloud Infrastructure: Compartment Quotas and Service Limits Management](https://dev.to/derrickryangiggs/oracle-cloud-infrastructure-compartment-quotas-and-service-limits-management-5a6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
