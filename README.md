@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧩 YAML to JSON Converter — Because Indentation Shouldn’t Be a Life-or-Death Matter 😅](https://dev.to/akashbijwe/yaml-to-json-converter-because-indentation-shouldnt-be-a-life-or-death-matter-236p)
-- [Chat apps can format text with Markdown](https://dev.to/googleworkspace/chat-apps-can-format-text-with-markdown-3ml4)
-- [SVAR React DataGrid v2.3 — A Free Alternative for Complex React Tables](https://dev.to/olga_tash/svar-react-datagrid-v23-a-free-alternative-for-complex-react-tables-14a3)
-- [Setting Up NGINX as A Reverse Proxy for your Nest JS Microservices](https://dev.to/cedar_daniel_1d95c709d304/setting-up-nginx-as-a-reverse-proxy-for-your-nest-js-microservices-5bk7)
-- [Unlocking the Power of Caching: Strategies for Developers](https://dev.to/mikeover/unlocking-the-power-of-caching-strategies-for-developers-2ofl)
+- [Just launched AroraBuild &lpar;https://arorabuild.site/&rpar; — a platform helping devs get real help for their tech doubts.](https://dev.to/venkatesh_eedupuganti_6b9/just-launched-arorabuild-httpsarorabuildsite-a-platform-helping-devs-get-real-help-for-5895)
+- [Building a Secure WebRTC P2P Network with Advanced ECDH, DTLS, and SAS Verification](https://dev.to/securebitchat/building-a-secure-webrtc-p2p-network-with-advanced-ecdh-dtls-and-sas-verification-27p7)
+- [How I Built a Blog for SynkPay with Next.js and BlogNow &lpar;and Went from 85 to 100 on PageSpeed&rpar;](https://dev.to/nagendra402/how-i-built-a-blog-for-synkpay-with-nextjs-and-blognow-and-went-from-85-to-100-on-pagespeed-2ie8)
+- [How Much Do We Really Lose to Video Game Piracy?](https://dev.to/guardingpearsoftware/how-much-do-we-really-lose-to-video-game-piracy-b22)
+- [Personal Wallet Warning Signal – Stopping Crypto Scams Before They Happen](https://dev.to/umirzokabduraxmanov606dotcom/personal-wallet-warning-signal-stopping-crypto-scams-before-they-happen-go7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
