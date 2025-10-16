@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Traditional vs. AI-Assisted Trading: A Comparative Analysis](https://dev.to/globridge-tech/traditional-vs-ai-assisted-trading-a-comparative-analysis-h5f)
-- [Optimizing Next.js for Maximum Performance](https://dev.to/devops-make-it-run/optimizing-nextjs-for-maximum-performance-2gek)
-- [How much does it cost to build a travel booking website?](https://dev.to/henrydavid/how-much-does-it-cost-to-build-a-travel-booking-website-g5p)
-- [OpenAI&#39;s Chip Revolution and the Global Digital Transformation Accelerating Our Future](https://dev.to/iankhanfuturist/openais-chip-revolution-and-the-global-digital-transformation-accelerating-our-future-3697)
-- [Is there a way to get Copilot metrics per individual user, such as number of suggestions shown / accepted, last activity, or usage by IDE / language?](https://dev.to/jathiswar_5530e5b380cf910/is-there-a-way-to-get-copilot-metrics-per-individual-user-such-as-number-of-suggestions-shown--3j6h)
+- [Optimizing Next.js for Maximum Performance](https://dev.to/devops-make-it-run/optimizing-nextjs-for-maximum-performance-3634)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-f2e)
+- [How UVM Verification Enhances Functional Coverage in Chip Design](https://dev.to/fidus_systems/how-uvm-verification-enhances-functional-coverage-in-chip-design-4jc2)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-20fa)
+- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-3oe5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
