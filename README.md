@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Modern Browser Storage And Data Sharing Capabilities](https://dev.to/mrajaeim/a-guide-to-modern-browser-storage-and-data-sharing-capabilities-4eb8)
-- [How File Transfer Works: From Packets to Protocols](https://dev.to/lovestaco/how-file-transfer-works-from-packets-to-protocols-18f8)
-- [What Happens When You Click a Link](https://dev.to/aditi_deshmukh/what-happens-when-you-click-a-link-3ca5)
-- [Intro to Playwright &amp; Cypress: Choosing the Right Tool](https://dev.to/walltech/intro-to-playwright-cypress-choosing-the-right-tool-4kjp)
-- [No App is an Island: How APIs Connect Our Digital World](https://dev.to/lkendi003/no-app-is-an-island-how-apis-connect-our-digital-world-2a7o)
+- [The Caching Pyramid: A Sculptor&#39;s Guide to Performance](https://dev.to/alex_aslam/the-caching-pyramid-a-sculptors-guide-to-performance-3m6p)
+- [Coding Challenge Practice - Question 29](https://dev.to/tomivan/coding-challenge-practice-question-29-45pn)
+- [&quot;Learning by Doing: The auto_uploader Experience&quot;](https://dev.to/mohammadreza_mahdian_3841/learning-by-doing-the-autouploader-experience-a98)
+- [Requirements for M-Pesa Online Payment Setup in Kenya &lpar;2025 Guide&rpar;](https://dev.to/eric_muturi/requirements-for-m-pesa-online-payment-setup-in-kenya-2025-guide-2bjl)
+- [**Busting the Myth: Federated Learning Beyond Labeled Data**](https://dev.to/drcarlosruizviquez/busting-the-myth-federated-learning-beyond-labeled-data-14ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
