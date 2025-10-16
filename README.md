@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Repomix: How a Simple `--style` Flag Powers Multiple Output Formats](https://dev.to/jongwan93/a-deep-dive-into-repomix-how-a-simple-style-flag-powers-multiple-output-formats-1caa)
-- [Favorite Git Things](https://dev.to/aaiezza/favorite-git-things-36n2)
-- [Data Democracy in Action: How Power BI Upskilling Empowers Every Employee for Enterprise Success](https://dev.to/skillboosttrainer/data-democracy-in-action-how-power-bi-upskilling-empowers-every-employee-for-enterprise-success-1p6b)
-- [Books on Leadership That Highlight Women’s Rise in the Corporate World: Colin Maxwell’s Insights](https://dev.to/henrymatthewgraham/books-on-leadership-that-highlight-womens-rise-in-the-corporate-world-colin-maxwells-insights-2659)
-- [Beyond localhost:3000: How to Finally Connect Your Frontend and Backend](https://dev.to/r_deepti_6ef855c6b6cca0dc/beyond-localhost3000-how-to-finally-connect-your-frontend-and-backend-5hka)
+- [I posted this over a year ago, and unfortunately, it&#39;s still relevant. Please take time to consider your mental health and take a minute to appreciate the things you have accomplished.](https://dev.to/jgdevelops/i-posted-this-over-a-year-ago-and-unfortunately-its-still-relevant-please-take-time-to-consider-3d7h)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-ma8)
+- [COLORS: Dear Silas | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-a-colors-show-2pf0)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-g45)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-k7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
