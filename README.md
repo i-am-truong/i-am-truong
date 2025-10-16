@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Day Learning Log — Styling &amp; React Components Revision](https://dev.to/usama_dev/day-learning-log-styling-react-components-revision-4i1o)
+- [My 1st post on Dev.to!](https://dev.to/codemasterx20/my-1st-post-on-devto-3gh7)
 - [Advanced CSS Animations: How to Bring Your Web Designs to Life with Motion and Meaning](https://dev.to/okoye_ndidiamaka_5e3b7d30/advanced-css-animations-how-to-bring-your-web-designs-to-life-with-motion-and-meaning-4jlg)
 - [checkout this article on Unleashing the Power of Tableau: Origins, Applications, and Benefits of Learning Data Visualization](https://dev.to/dipti26810/checkout-this-article-on-unleashing-the-power-of-tableau-origins-applications-and-benefits-of-57co)
 - [Intelligent Message Filtering and How It Keeps Your Inbox Organized](https://dev.to/ethanblake352q/intelligent-message-filtering-and-how-it-keeps-your-inbox-organized-49oe)
-- [The Adventures of Blink S4e7: The Gilded Rose: The Test Vault](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e7-the-gilded-rose-the-test-vault-ek6)
-- [Detecting Sales Anomalies with ML.NET — Razor Dashboard + SQL Integration](https://dev.to/reshma_p_f93cbf8b077366c6/detecting-sales-anomalies-with-mlnet-razor-dashboard-sql-integration-3gp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
