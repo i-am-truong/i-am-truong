@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HNG13: My First Steps](https://dev.to/jesseekoh/hng13-my-first-steps-34b9)
-- [BAYESIAN AND FREQUENTISTS](https://dev.to/njeri_kimaru/bayesian-and-frequentists-o98)
-- [OpenAI Codex Launch: The Era of Workflow-Native Coding Agents](https://dev.to/kielp_riche_79dd07697340c/openai-codex-launch-the-era-of-workflow-native-coding-agents-2hhk)
-- [🧠 SnapMind — Bringing AI to One Keystroke](https://dev.to/louis7/snapmind-bringing-ai-to-one-keystroke-fmg)
-- [Been building AI agents for a year… but this small script blew my mind🫨👏](https://dev.to/chaitrali_kakde/been-building-ai-agents-for-a-year-but-this-small-script-blew-my-mind-1kpk)
+- [MVI interview Questions - 1](https://dev.to/vigneshwaralingam/mvi-interview-questions-1-31i9)
+- [Why Am I a SWE?](https://dev.to/busycaesar/why-am-i-a-swe-1246)
+- [CodePen #Challenge Halloween Time: Building a Pivot Table with Horror Movies using WebDataRocks](https://dev.to/daria_filozop_bfe6aa68940/codepen-challenge-halloween-time-building-a-pivot-table-with-horror-movies-using-webdatarocks-2m94)
+- [Build a NEXT-GEN Cloud Storage App with AI Features: React + Appwrite + ShadCN + ImageKit!](https://dev.to/codewithsadee/build-a-next-gen-cloud-storage-app-with-ai-features-react-appwrite-shadcn-imagekit-2ipp)
+- [Deploy a scalable web application on AWS, demonstrating full Infrastructure as Code &lpar;IaC&rpar; principles.](https://dev.to/saiminthu/deploy-a-scalable-web-application-on-aws-demonstrating-full-infrastructure-as-code-iac-5c8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
