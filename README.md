@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatically change the theme in Ubuntu based on the time of day](https://dev.to/irvirty/automatically-change-the-theme-in-ubuntu-based-on-the-time-of-day-3023)
 - [A Docker Trick I Wish I Knew Sooner](https://dev.to/joybtw/a-docker-trick-i-wish-i-knew-sooner-23of)
 - [💥 Myth #16: Technical constraints are decided later](https://dev.to/tmorin/myth-16-technical-constraints-are-decided-later-28ha)
 - [Day 15 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-15-of-100-days-dsa-coding-challenge-36aj)
 - [Day 10 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-10-of-my-ai-data-mastery-journey-from-python-to-generative-ai-287)
-- [My personal blog built with Go and React](https://dev.to/joybtw/my-personal-blog-built-with-go-and-react-1pg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
