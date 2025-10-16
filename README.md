@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Real Costs of ETL and How MindsDB Eliminates Them](https://dev.to/mindsdb/the-real-costs-of-etl-and-how-mindsdb-eliminates-them-2nd7)
-- [Use AI to assist you, not to replace you.](https://dev.to/canro91/use-ai-to-assist-you-not-to-replace-you-a36)
-- [Key - كي](https://dev.to/tkeyg/key-ky-4ca7)
-- [LLPY-06: FastAPI - Construyendo una API REST Robusta para RAG](https://dev.to/jesus_oviedoriquelme_084/llpy-06-fastapi-construyendo-una-api-rest-robusta-para-rag-2ph6)
-- [From one CSRF case to see handling third-party cookie blocking in browser](https://dev.to/cheedge_lee/from-one-csrf-case-to-see-handling-third-party-cookie-blocking-in-browser-1k2j)
+- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-35fk)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-4d9h)
+- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-42l0)
+- [GameSpot: Anno 117: Pax Romana - Official Game Overview Walkthrough Trailer](https://dev.to/gg_news/gamespot-anno-117-pax-romana-official-game-overview-walkthrough-trailer-4lhp)
+- [IGN: Pokemon Legends: Z-A - Which Starter Should You Choose?](https://dev.to/gg_news/ign-pokemon-legends-z-a-which-starter-should-you-choose-3n25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
