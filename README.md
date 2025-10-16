@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Modern Browser Storage And Data Sharing Capabilities](https://dev.to/mrajaeim/a-guide-to-modern-browser-storage-and-data-sharing-capabilities-4eb8)
+- [How File Transfer Works: From Packets to Protocols](https://dev.to/lovestaco/how-file-transfer-works-from-packets-to-protocols-18f8)
 - [What Happens When You Click a Link](https://dev.to/aditi_deshmukh/what-happens-when-you-click-a-link-3ca5)
 - [Intro to Playwright &amp; Cypress: Choosing the Right Tool](https://dev.to/walltech/intro-to-playwright-cypress-choosing-the-right-tool-4kjp)
 - [No App is an Island: How APIs Connect Our Digital World](https://dev.to/lkendi003/no-app-is-an-island-how-apis-connect-our-digital-world-2a7o)
-- [our Next Facebook Ban Should Be a Minor Inconvenience, Not a Catastrophe](https://dev.to/onlineproxy/our-next-facebook-ban-should-be-a-minor-inconvenience-not-a-catastrophe-46ol)
-- [Made some changes regarding Strapi cloud offering.](https://dev.to/nagendra402/made-some-changes-regarding-strapi-cloud-offering-2n1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
