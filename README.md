@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Clarity&#39;s Consent V2: Code Snippets, Pitfalls, and the Smarter Approach](https://dev.to/mehwish_malik_4f29ff7fb04/microsoft-claritys-consent-v2-code-snippets-pitfalls-and-the-smarter-approach-4ekn)
-- [Beyond Vibe Coding: How I Use AI as a Tech Lead to Stay in Control](https://dev.to/devbyrayray/beyond-vibe-coding-how-i-use-ai-as-a-tech-lead-to-stay-in-control-3cb0)
-- [The Different ways to Style Your React App](https://dev.to/ddebajyati/the-different-ways-to-style-your-react-app-34kn)
-- [What’s the Best Foot Traffic Data Source for Investors?](https://dev.to/james_williams_b696b30fec/whats-the-best-foot-traffic-data-source-for-investors-364i)
-- [ANOVA](https://dev.to/njeri_kimaru/anova-4jlj)
+- [HNG13: My First Steps](https://dev.to/jesseekoh/hng13-my-first-steps-34b9)
+- [BAYESIAN AND FREQUENTISTS](https://dev.to/njeri_kimaru/bayesian-and-frequentists-o98)
+- [OpenAI Codex Launch: The Era of Workflow-Native Coding Agents](https://dev.to/kielp_riche_79dd07697340c/openai-codex-launch-the-era-of-workflow-native-coding-agents-2hhk)
+- [🧠 SnapMind — Bringing AI to One Keystroke](https://dev.to/louis7/snapmind-bringing-ai-to-one-keystroke-fmg)
+- [Been building AI agents for a year… but this small script blew my mind🫨👏](https://dev.to/chaitrali_kakde/been-building-ai-agents-for-a-year-but-this-small-script-blew-my-mind-1kpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
