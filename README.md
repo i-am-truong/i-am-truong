@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qt + CMake: Modern Approach to Managing icons.qrc](https://dev.to/alexander_movchan_f11a820/qt-cmake-modern-approach-to-managing-iconsqrc-1n1e)
+- [Find Exercises](https://dev.to/reuben_barr_250e68e131938/find-exercises-5gmm)
+- [GOOD](https://dev.to/reuben_barr_250e68e131938/good-179h)
+- [Unpacking Udacity&#39;s $5K AI Master’s Degree](https://dev.to/udacity/unpacking-udacitys-5k-ai-masters-degree-2m5l)
 - [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-pnb)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-19ha)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-2a1b)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-4ekd)
-- [KEXP: Jorja Smith - On My Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-129g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
