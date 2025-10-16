@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Single-tenant vs Multi-tenant: What I Wish I Knew When I Started](https://dev.to/highflyer910/single-tenant-vs-multi-tenant-what-i-wish-i-knew-when-i-started-1hem)
+- [🐱 My HNG 13 Stage 0 Task — Building a Simple Cat Facts API with FastAPI](https://dev.to/john_afariogun_e2351c78af/my-hng-13-stage-0-task-building-a-simple-cat-facts-api-with-fastapi-hj7)
+- [How to write HAL &lpar;Hardware Abstraction Layer&rpar; Library for MCUs?](https://dev.to/cangulmez/how-to-write-hal-hardware-abstraction-layer-library-for-mcus-843)
+- [Wait a minute, Mr POSTman](https://dev.to/duffee/wait-a-minute-mr-postman-3l3f)
 - [Exploring the ADO MCP Server: A Smart Assistant for Smarter Development](https://dev.to/tmcd054/exploring-the-ado-mcp-server-a-smart-assistant-for-smarter-development-2pen)
-- [Understanding Django, Gunicorn, and Database Connections](https://dev.to/ticatwolves/understanding-django-gunicorn-and-database-connections-5g50)
-- [TeeChart for .NET at Diablo Analytical: Real-Time Charting for Mass Spectrometry &amp; Gas Analysis](https://dev.to/steema/teechart-for-net-at-diablo-analytical-real-time-charting-for-mass-spectrometry-gas-analysis-326b)
-- [checkout this article on How to Use A/B Testing to Create Accurate Buyer Personas](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-how-to-use-ab-testing-to-create-accurate-buyer-personas-5568)
-- [Building an Online Store Using Only HTML, CSS, and JavaScript — My First Practical Coding Project](https://dev.to/devmahmoudadel/building-an-online-store-using-only-html-css-and-javascript-my-first-practical-coding-project-57nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
