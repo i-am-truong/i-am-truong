@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Defense: A Senior Developer&#39;s Journey Through the OWASP Top 10 for Node.js](https://dev.to/alex_aslam/the-art-of-defense-a-senior-developers-journey-through-the-owasp-top-10-for-nodejs-2ifn)
+- [🚖 Building a Scalable Frontend Mock Architecture with MSW, Factories, and Services &lpar;Uber-Like Example&rpar;](https://dev.to/mrajaeim/building-a-scalable-frontend-mock-architecture-with-msw-factories-and-services-uber-like-3kgi)
+- [Cross-domain Cookies: Building Less Annoying Consent Solutions](https://dev.to/jack0lantern/cross-domain-cookies-building-less-annoying-consent-solutions-5hli)
 - [⚠️ Warning: &quot;Optimism Bias&quot; in Reinforcement Learning 🚨 Whe](https://dev.to/drcarlosruizviquez/warning-optimism-bias-in-reinforcement-learning-whe-3m3b)
 - [Did you know that AI&#39;s carbon footprint could be significant](https://dev.to/drcarlosruizviquez/did-you-know-that-ais-carbon-footprint-could-be-significant-1gkj)
-- [The Caching Pyramid: A Sculptor&#39;s Guide to Performance](https://dev.to/alex_aslam/the-caching-pyramid-a-sculptors-guide-to-performance-3m6p)
-- [Coding Challenge Practice - Question 29](https://dev.to/tomivan/coding-challenge-practice-question-29-45pn)
-- [&quot;Learning by Doing: The auto_uploader Experience&quot;](https://dev.to/mohammadreza_mahdian_3841/learning-by-doing-the-autouploader-experience-a98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
