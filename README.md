@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker NGINX + WordPress + MariaDB Tutorial - Inception42](https://dev.to/alejiri/docker-nginx-wordpress-mariadb-tutorial-inception42-1eok)
+- [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
+- [Distributed Applications. Part 1 - Overview](https://dev.to/lostghost/distributed-applications-part-1-overview-6g8)
 - [Handling Challenges in Cloud Migration: Tools for Ensuring Data Integrity and Speed](https://dev.to/oli_john_087e42c8f84/handling-challenges-in-cloud-migration-tools-for-ensuring-data-integrity-and-speed-3962)
 - [🎬 VORAvideo: How We Turn Text, Images &amp; Speech Into Cinematic Videos](https://dev.to/nico_hayes_f441fd59f0b0ff/voravideo-how-we-turn-text-images-speech-into-cinematic-videos-6l5)
-- [20 AI Coding Assistants: Smarter, Faster, More Secure](https://dev.to/roobia/20-ai-coding-assistants-smarter-faster-more-secure-24be)
-- [Single-tenant vs Multi-tenant: What I Wish I Knew When I Started](https://dev.to/highflyer910/single-tenant-vs-multi-tenant-what-i-wish-i-knew-when-i-started-1hem)
-- [Is Your CSS a Mess? Discover the Power of Utility-First CSS!](https://dev.to/karthik_n/is-your-css-a-mess-discover-the-power-of-utility-first-css-4l7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
