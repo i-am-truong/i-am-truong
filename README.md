@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Seamlessly Convert Word to XML in C# and VB.NET: A Practical Guide with Spire.Doc](https://dev.to/yahey/seamlessly-convert-word-to-xml-in-c-and-vbnet-a-practical-guide-with-spiredoc-4g41)
+- [☁️ AWS GameDay: From Breach to Fix](https://dev.to/lokesh_vangari_a671430724/aws-gameday-from-breach-to-fix-3o9c)
 - [Top 10 Key Takeaways in Software Testing from 2025](https://dev.to/vishal_more_02990955c9358/top-10-key-takeaways-in-software-testing-from-2025-1dnc)
 - [How to remote connect to Raspberry Pi?](https://dev.to/carolineee/how-to-remote-connect-to-raspberry-pi-3nf2)
-- [On dependencies in objects](https://dev.to/nfrankel/on-dependencies-in-objects-2m2k)
-- [Multiple role-based authentication in Laravel](https://dev.to/masteringbackend/multiple-role-based-authentication-in-laravel-29e0)
-- [Why Your Drag-and-Drop Editor Feels Clunky](https://dev.to/ideradevtools/why-your-drag-and-drop-editor-feels-clunky-4km3)
+- [Java Data Types](https://dev.to/lakshmi_g_74c225d5ca0b272/java-data-types-21km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
