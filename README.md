@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🛠️ I Built a Free Temporary Email Tool to Keep My Inbox Clean — Meet TempMail4U](https://dev.to/temp_mail_d184fba4c6c6cb3/i-built-a-free-temporary-email-tool-to-keep-my-inbox-clean-meet-tempmail4u-1bgo)
+- [How to Create a Secure VPC on AWS- STEP BY STEP](https://dev.to/oluwatobiloba_oludare1/how-to-create-a-secure-vpc-on-aws-step-by-step-32ai)
+- [How I Manage a Technical Team of Over 100 People](https://dev.to/tripcat/how-i-manage-a-technical-team-of-over-100-people-j2f)
+- [Beginner&#39;s Complete Guide to Search Engine Optimization](https://dev.to/bytes_vibe/beginners-complete-guide-to-search-engine-optimization-5g8)
 - [MVI interview Questions - 1](https://dev.to/vigneshwaralingam/mvi-interview-questions-1-31i9)
-- [Why Am I a SWE?](https://dev.to/busycaesar/why-am-i-a-swe-1246)
-- [CodePen #Challenge Halloween Time: Building a Pivot Table with Horror Movies using WebDataRocks](https://dev.to/daria_filozop_bfe6aa68940/codepen-challenge-halloween-time-building-a-pivot-table-with-horror-movies-using-webdatarocks-2m94)
-- [Build a NEXT-GEN Cloud Storage App with AI Features: React + Appwrite + ShadCN + ImageKit!](https://dev.to/codewithsadee/build-a-next-gen-cloud-storage-app-with-ai-features-react-appwrite-shadcn-imagekit-2ipp)
-- [Deploy a scalable web application on AWS, demonstrating full Infrastructure as Code &lpar;IaC&rpar; principles.](https://dev.to/saiminthu/deploy-a-scalable-web-application-on-aws-demonstrating-full-infrastructure-as-code-iac-5c8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
