@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ORIZYN TECH is hiring builders — Equity-only roles &lpar;Mobile Lead, Telemetry Backend, Frontend Mobile, DevOps&rpar;](https://dev.to/orizyn_tech_ac80fc47a3f56/orizyn-tech-is-hiring-builders-equity-only-roles-mobile-lead-telemetry-backend-frontend-4j53)
-- [Do Prompt ao Deploy: Construindo um Projeto Python Automatizado com GPT-5 e GitHub Copilot](https://dev.to/marcos_vile/do-prompt-ao-deploy-construindo-um-projeto-python-automatizado-com-gpt-5-e-github-copilot-3hdg)
-- [Upgrading Our Raspberry Pi Kubernetes Cluster: From v1.29 to v1.34 &amp; ETCD Backup Guide](https://dev.to/mahinshanazeer/upgrading-our-raspberry-pi-kubernetes-cluster-from-v129-to-v134-etcd-backup-guide-28)
-- [IA com propósito: como construir seu próprio ChatGPT usando RAG + OpenAI &lpar;Como ensinar a IA a falar a língua da sua organização&rpar;](https://dev.to/rafael_scheidt_d4be592651/ia-com-proposito-como-construir-seu-proprio-chatgpt-usando-rag-openai-como-ensinar-a-ia-a-falar-1boi)
-- [Non Custodial Crypto Wallets, Done Right](https://dev.to/estelleatthenook/non-custodial-crypto-wallets-done-right-2b1f)
+- [Python Projects With Less Pain: Beginner&#39;s Guide to Virtual Environments](https://dev.to/julielinx/python-projects-with-less-pain-beginners-guide-to-virtual-environments-4o5a)
+- [What are the Javascript Data Types?](https://dev.to/aj_arul/what-are-the-javascript-data-types-1f5h)
+- [Simplifying SAML Authentication with ForgeRock IDM Integration](https://dev.to/iamdevbox/simplifying-saml-authentication-with-forgerock-idm-integration-4of5)
+- [Review of the Query News in 2019](https://dev.to/leon_lin_s/review-of-the-query-news-in-2019-1nfp)
+- [I&#39;m using this pattern since half a year now, and I just love how easy it is to make my UI reactive to the data.](https://dev.to/yoannfleurydev/im-using-this-pattern-since-half-a-year-now-and-i-just-love-how-easy-it-is-to-make-my-ui-reactive-1meh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
