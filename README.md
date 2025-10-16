@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Extending Pydantic AI Agents with Function Tools — Reading and Updating Project Data in Python](https://dev.to/hamluk/extending-pydantic-ai-agents-with-function-tools-reading-and-updating-project-data-in-python-33d1)
-- [Uptrace v2.0: The Future of Observability is Here](https://dev.to/uptrace/uptrace-v20-the-future-of-observability-is-here-2h1h)
-- [Monitoring Polyglot Microservices: Python, Node.js, and Go with OpenTelemetry](https://dev.to/uptrace/monitoring-polyglot-microservices-python-nodejs-and-go-with-opentelemetry-32lf)
-- [Microservices Architecture: Patterns, Design Principles, and Observability](https://dev.to/uptrace/microservices-architecture-patterns-design-principles-and-observability-5hn2)
-- [Kubernetes Microservices Monitoring and Observability with OpenTelemetry](https://dev.to/uptrace/kubernetes-microservices-monitoring-and-observability-with-opentelemetry-5aa)
+- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-24lj)
+- [Flip Your CI Like a Switch: Instantly Toggle Flags with GitHub Actions Variables](https://dev.to/codenamegrant/flip-your-ci-like-a-switch-instantly-toggle-flags-with-github-actions-variables-2go9)
+- [Best English to Arabic Document Translation Software](https://dev.to/testjace/best-english-to-arabic-document-translation-software-i90)
+- [Pxxl App: The Best Nigerian and African Alternative to Vercel, Render, and Netlify](https://dev.to/honour_5dfc0a78dcc0e0fd91/pxxl-app-the-best-nigerian-and-african-alternative-to-vercel-render-and-netlify-344k)
+- [What is a Domain Authority Checker and How Does It Measure Website Strength?](https://dev.to/anadil_khalil_b75a8464d97/what-is-a-domain-authority-checker-and-how-does-it-measure-website-strength-4d8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
