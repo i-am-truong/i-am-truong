@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌍 Quote.Vote — An Open-Source Public Square for Respectful Dialogue &lpar;Hacktoberfest 2025&rpar;](https://dev.to/quotevote/quotevote-an-open-source-public-square-for-respectful-dialogue-hacktoberfest-2025-295i)
+- [LLM Structured JSON: Building Production-Ready AI Features with Schema-Enforced Outputs](https://dev.to/dthompsondev/llm-structured-json-building-production-ready-ai-features-with-schema-enforced-outputs-4j2j)
+- [My new portfoliii. Check it,](https://dev.to/devd-medi-19/my-new-portfoliii-check-it-5abk)
 - [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-9gi)
 - [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4he7)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3473)
-- [NPR Music: Silvana Estrada: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-silvana-estrada-tiny-desk-concert-4636)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1io5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
