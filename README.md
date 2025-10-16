@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚠️ Warning: &quot;Optimism Bias&quot; in Reinforcement Learning 🚨 Whe](https://dev.to/drcarlosruizviquez/warning-optimism-bias-in-reinforcement-learning-whe-3m3b)
+- [Did you know that AI&#39;s carbon footprint could be significant](https://dev.to/drcarlosruizviquez/did-you-know-that-ais-carbon-footprint-could-be-significant-1gkj)
 - [The Caching Pyramid: A Sculptor&#39;s Guide to Performance](https://dev.to/alex_aslam/the-caching-pyramid-a-sculptors-guide-to-performance-3m6p)
 - [Coding Challenge Practice - Question 29](https://dev.to/tomivan/coding-challenge-practice-question-29-45pn)
 - [&quot;Learning by Doing: The auto_uploader Experience&quot;](https://dev.to/mohammadreza_mahdian_3841/learning-by-doing-the-autouploader-experience-a98)
-- [Requirements for M-Pesa Online Payment Setup in Kenya &lpar;2025 Guide&rpar;](https://dev.to/eric_muturi/requirements-for-m-pesa-online-payment-setup-in-kenya-2025-guide-2bjl)
-- [**Busting the Myth: Federated Learning Beyond Labeled Data**](https://dev.to/drcarlosruizviquez/busting-the-myth-federated-learning-beyond-labeled-data-14ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
