@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ I Built a Free Temporary Email Tool to Keep My Inbox Clean — Meet TempMail4U](https://dev.to/temp_mail_d184fba4c6c6cb3/i-built-a-free-temporary-email-tool-to-keep-my-inbox-clean-meet-tempmail4u-1bgo)
-- [How to Create a Secure VPC on AWS- STEP BY STEP](https://dev.to/oluwatobiloba_oludare1/how-to-create-a-secure-vpc-on-aws-step-by-step-32ai)
-- [How I Manage a Technical Team of Over 100 People](https://dev.to/tripcat/how-i-manage-a-technical-team-of-over-100-people-j2f)
-- [Beginner&#39;s Complete Guide to Search Engine Optimization](https://dev.to/bytes_vibe/beginners-complete-guide-to-search-engine-optimization-5g8)
-- [MVI interview Questions - 1](https://dev.to/vigneshwaralingam/mvi-interview-questions-1-31i9)
+- [From Brilliant Interns to Reliable Experts: Why Enterprises Are Betting Big on RAG Systems](https://dev.to/riya_sangwan_810e6c213082/from-brilliant-interns-to-reliable-experts-why-enterprises-are-betting-big-on-rag-systems-56mk)
+- [Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/flutter-flavors-guia-completa-de-implementacion-para-proyectos-multicliente-en-android-e-ios-1409)
+- [Micronaut 4 application on AWS Lambda- Part 5 Measuring Lambda cold and warm starts with GraalVM Native Image](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-5-measuring-lambda-cold-and-warm-starts-with-graalvm-3ci8)
+- [New Release: Visual Studio Code Plugin For All the Busy Devs](https://dev.to/dev-tngsh/new-release-visual-studio-code-plugin-for-all-the-busy-devs-4bek)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2jp0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
