@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building FirstTx: A Different Approach to CSR Performance](https://dev.to/joseph0926/building-firsttx-a-different-approach-to-csr-performance-1eel)
-- [2025 Year-End Review: The Best 8 AI Image and Video Generation Tools](https://dev.to/nolan_0714/2025-year-end-review-the-best-8-ai-image-and-video-generation-tools-poc)
-- [**Understanding *args and kwargs in Python: The Complete Beginner’s Guide](https://dev.to/nomidlseo/understanding-args-and-kwargs-in-python-the-complete-beginners-guide-5dgj)
-- [🌍 Quote.Vote — An Open-Source Public Square for Respectful Dialogue &lpar;Hacktoberfest 2025&rpar;](https://dev.to/quotevote/quotevote-an-open-source-public-square-for-respectful-dialogue-hacktoberfest-2025-295i)
-- [LLM Structured JSON: Building Production-Ready AI Features with Schema-Enforced Outputs](https://dev.to/dthompsondev/llm-structured-json-building-production-ready-ai-features-with-schema-enforced-outputs-4j2j)
+- [A Docker Trick I Wish I Knew Sooner](https://dev.to/joybtw/a-docker-trick-i-wish-i-knew-sooner-23of)
+- [💥 Myth #16: Technical constraints are decided later](https://dev.to/tmorin/myth-16-technical-constraints-are-decided-later-28ha)
+- [Day 15 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-15-of-100-days-dsa-coding-challenge-36aj)
+- [Day 10 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-10-of-my-ai-data-mastery-journey-from-python-to-generative-ai-287)
+- [My personal blog built with Go and React](https://dev.to/joybtw/my-personal-blog-built-with-go-and-react-1pg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
