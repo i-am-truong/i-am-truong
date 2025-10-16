@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Working with the SQL STUFF Function in SQL Server](https://dev.to/dbvismarketing/working-with-the-sql-stuff-function-in-sql-server-5e75)
-- [Complete Guide to Jest.spyOn for Unit Testing](https://dev.to/devin-rosario/complete-guide-to-jestspyon-for-unit-testing-4io6)
-- [Design Patterns for a Multi-Agent Future](https://dev.to/rohit_gavali_0c2ad84fe4e0/design-patterns-for-a-multi-agent-future-3jpe)
-- [Java Architecture](https://dev.to/dharshinieswaran/java-architecture-81l)
-- [How I Built My Website for Free Using GitHub Pages](https://dev.to/inzammam_ulhaq_794681107/how-i-built-my-website-for-free-using-github-pages-56ed)
+- [Certified Fraud Examiner &lpar;CFE&rpar; Salary, Scope, and Career Growth 2025](https://dev.to/aiaofficial/certified-fraud-examiner-cfe-salary-scope-and-career-growth-2025-oo9)
+- [What is a Competitor Backlink Tool and How Does It Help in SEO Strategy?](https://dev.to/anadil_khalil_b75a8464d97/what-is-a-competitor-backlink-tool-and-how-does-it-help-in-seo-strategy-3f14)
+- [Chinese DBA&#39;s Story: Hu Zhonghao - The Journey of Becoming a DBA for Domestic Distributed Databases](https://dev.to/tripcat/chinese-dbas-story-hu-zhonghao-the-journey-of-becoming-a-dba-for-domestic-distributed-databases-22m1)
+- [🚀 50DaysTo1K — Building a SaaS to $1,000 MRR in 50 Days](https://dev.to/gecschool/50daysto1k-building-a-saas-to-1000-mrr-in-50-days-20bp)
+- [What Is Offshore Software Development? – Key Insights for Global Companies](https://dev.to/saigontechnologycompany/what-is-offshore-software-development-key-insights-for-global-companies-15e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
