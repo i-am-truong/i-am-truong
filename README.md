@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Morse Code Translator with Next.js 15 and Web Audio API](https://dev.to/xjtumj/building-a-morse-code-translator-with-nextjs-15-and-web-audio-api-4j7l)
-- [Stumbling block for AI: UTF\-8](https://dev.to/pvsdev/stumbling-block-for-ai-utf-8-5eik)
-- [Podman on GitLab CI: Fast, Efficient Container Builds — No DinD Required](https://dev.to/justlig/podman-on-gitlab-ci-fast-efficient-container-builds-no-dind-required-e2e)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4221)
-- [Oracle Cloud Infrastructure: Compartment Quotas and Service Limits Management](https://dev.to/derrickryangiggs/oracle-cloud-infrastructure-compartment-quotas-and-service-limits-management-5a6c)
+- [12 Innovative Data Science Projects for 2024: Transforming Ideas into Reality](https://dev.to/directdata_education_83e6/12-innovative-data-science-projects-for-2024-transforming-ideas-into-reality-3kcm)
+- [Lessons from Working with the OpenTelemetry Collector [Part 3]](https://dev.to/tomjohnson3/lessons-from-working-with-the-opentelemetry-collector-part-3-551l)
+- [Angular CLI MCP Server Guide](https://dev.to/this-is-angular/angular-cli-mcp-server-guide-3jj5)
+- [WTF is Embedded Machine Learning?](https://dev.to/dailybugle33/wtf-is-embedded-machine-learning-bhg)
+- [EF’s Kohaku wallet SDK, Etherspot JAW smart wallet, Rhinestone’s chain-agnostic intents](https://dev.to/etherspot/efs-kohaku-wallet-sdk-etherspot-jaw-smart-wallet-rhinestones-chain-agnostic-intents-29c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
