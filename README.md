@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Qt + CMake: Modern Approach to Managing icons.qrc](https://dev.to/alexander_movchan_f11a820/qt-cmake-modern-approach-to-managing-iconsqrc-1n1e)
-- [Find Exercises](https://dev.to/reuben_barr_250e68e131938/find-exercises-5gmm)
-- [GOOD](https://dev.to/reuben_barr_250e68e131938/good-179h)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-pnb)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-4ekd)
+- [Start Safe: Terragrunt Import for Multi-Account AWS](https://dev.to/terraformmonkey/start-safe-terragrunt-import-for-multi-account-aws-197p)
+- [Day 1252 : Flush](https://dev.to/dwane/day-1252-flush-hao)
+- [🎮 Introducing Pixalo — A Lightweight, Developer-Friendly 2D Game Engine for JavaScript](https://dev.to/salarizadi/introducing-pixalo-a-lightweight-developer-friendly-2d-game-engine-for-javascript-3e73)
+- [Tools Make the Dev: 9 Python Productivity Tools You Shouldn’t Miss](https://dev.to/lamri_abdellahramdane_15/tools-make-the-dev-9-python-productivity-tools-you-shouldnt-miss-1d4p)
+- [The Role of Cybersecurity in Digital Transformation by Highly Skilled IT Professionals such as Jeremy Nevins](https://dev.to/jnevins1/the-role-of-cybersecurity-in-digital-transformation-by-highly-skilled-it-professionals-such-as-2jca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
