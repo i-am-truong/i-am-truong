@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Dear Silas | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-a-colors-show-397g)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-518o)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-1hig)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-2mn4)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3dgb)
+- [Setting Up NGINX as A Reverse Proxy for your Nest JS Microservices](https://dev.to/cedar_daniel_1d95c709d304/setting-up-nginx-as-a-reverse-proxy-for-your-nest-js-microservices-5bk7)
+- [Unlocking the Power of Caching: Strategies for Developers](https://dev.to/mikeover/unlocking-the-power-of-caching-strategies-for-developers-2ofl)
+- [.NET &lpar;dotnet&rpar; Development Certificates on Void Linux](https://dev.to/cezarlamann/net-dotnet-development-certificates-on-void-linux-dfm)
+- [Need a Professional Web Developer for Your Next Project?](https://dev.to/umair_awan_3cc4b1ecb320c1/need-a-professional-web-developer-for-your-next-project-429j)
+- [Automating AWS Infrastructure for a FastAPI Application with Terraform](https://dev.to/fredmunjogu/automating-aws-infrastructure-for-a-fastapi-application-with-terraform-58lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
