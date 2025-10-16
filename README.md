@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Cost of Silent API Failures in Production](https://dev.to/trackjs/the-hidden-cost-of-silent-api-failures-in-production-1gg5)
+- [Argo CD: Previewing Pull Requests changes in SECONDS! 🥵⚡️⏰](https://dev.to/dag-andersen/argo-cd-previewing-pull-requests-changes-in-seconds-241g)
+- [From Chaos to Clarity: How I Finally Stopped Hating State Management](https://dev.to/sepehrshapouri/from-chaos-to-clarity-how-i-finally-stopped-hating-state-management-2m87)
 - [Python Projects With Less Pain: Beginner&#39;s Guide to Virtual Environments](https://dev.to/julielinx/python-projects-with-less-pain-beginners-guide-to-virtual-environments-4o5a)
 - [What are the Javascript Data Types?](https://dev.to/aj_arul/what-are-the-javascript-data-types-1f5h)
-- [Simplifying SAML Authentication with ForgeRock IDM Integration](https://dev.to/iamdevbox/simplifying-saml-authentication-with-forgerock-idm-integration-4of5)
-- [Review of the Query News in 2019](https://dev.to/leon_lin_s/review-of-the-query-news-in-2019-1nfp)
-- [I&#39;m using this pattern since half a year now, and I just love how easy it is to make my UI reactive to the data.](https://dev.to/yoannfleurydev/im-using-this-pattern-since-half-a-year-now-and-i-just-love-how-easy-it-is-to-make-my-ui-reactive-1meh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
