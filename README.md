@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced CSS Animations: How to Bring Your Web Designs to Life with Motion and Meaning](https://dev.to/okoye_ndidiamaka_5e3b7d30/advanced-css-animations-how-to-bring-your-web-designs-to-life-with-motion-and-meaning-4jlg)
+- [checkout this article on Unleashing the Power of Tableau: Origins, Applications, and Benefits of Learning Data Visualization](https://dev.to/dipti26810/checkout-this-article-on-unleashing-the-power-of-tableau-origins-applications-and-benefits-of-57co)
+- [Intelligent Message Filtering and How It Keeps Your Inbox Organized](https://dev.to/ethanblake352q/intelligent-message-filtering-and-how-it-keeps-your-inbox-organized-49oe)
 - [The Adventures of Blink S4e7: The Gilded Rose: The Test Vault](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e7-the-gilded-rose-the-test-vault-ek6)
 - [Detecting Sales Anomalies with ML.NET — Razor Dashboard + SQL Integration](https://dev.to/reshma_p_f93cbf8b077366c6/detecting-sales-anomalies-with-mlnet-razor-dashboard-sql-integration-3gp9)
-- [Convert HTML to Word in Java | HTML Files or Strings to Editable Word Documents](https://dev.to/leondavis1991/convert-html-to-word-in-java-html-files-or-strings-to-editable-word-documents-3hn3)
-- [MCP vs API](https://dev.to/apideck/mcp-vs-api-40a8)
-- [Best IDE for Flutter Development in 2025: Detailed Comparison and Recommendations](https://dev.to/shubham_joshi_expert/best-ide-for-flutter-development-in-2025-detailed-comparison-and-recommendations-41hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
