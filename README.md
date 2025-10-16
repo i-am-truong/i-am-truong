@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Seamlessly Convert Word to XML in C# and VB.NET: A Practical Guide with Spire.Doc](https://dev.to/yahey/seamlessly-convert-word-to-xml-in-c-and-vbnet-a-practical-guide-with-spiredoc-4g41)
-- [☁️ AWS GameDay: From Breach to Fix](https://dev.to/lokesh_vangari_a671430724/aws-gameday-from-breach-to-fix-3o9c)
-- [Top 10 Key Takeaways in Software Testing from 2025](https://dev.to/vishal_more_02990955c9358/top-10-key-takeaways-in-software-testing-from-2025-1dnc)
-- [How to remote connect to Raspberry Pi?](https://dev.to/carolineee/how-to-remote-connect-to-raspberry-pi-3nf2)
-- [Java Data Types](https://dev.to/lakshmi_g_74c225d5ca0b272/java-data-types-21km)
+- [Traditional vs. AI-Assisted Trading: A Comparative Analysis](https://dev.to/globridge-tech/traditional-vs-ai-assisted-trading-a-comparative-analysis-h5f)
+- [Optimizing Next.js for Maximum Performance](https://dev.to/devops-make-it-run/optimizing-nextjs-for-maximum-performance-2gek)
+- [How much does it cost to build a travel booking website?](https://dev.to/henrydavid/how-much-does-it-cost-to-build-a-travel-booking-website-g5p)
+- [OpenAI&#39;s Chip Revolution and the Global Digital Transformation Accelerating Our Future](https://dev.to/iankhanfuturist/openais-chip-revolution-and-the-global-digital-transformation-accelerating-our-future-3697)
+- [Is there a way to get Copilot metrics per individual user, such as number of suggestions shown / accepted, last activity, or usage by IDE / language?](https://dev.to/jathiswar_5530e5b380cf910/is-there-a-way-to-get-copilot-metrics-per-individual-user-such-as-number-of-suggestions-shown--3j6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
