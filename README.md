@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Fantasy Football Team Name Generator with Next.js](https://dev.to/wwx516/building-a-fantasy-football-team-name-generator-with-nextjs-3f7g)
-- [Inside the Code: Building Scalable Casino Game Engines for the Modern Web](https://dev.to/bob_packer_7c9018a4d1a1f1/inside-the-code-building-scalable-casino-game-engines-for-the-modern-web-3ij9)
-- [Beyond REST: Microservices, Resilience, and Real-World Teamwork](https://dev.to/cathylai/beyond-rest-microservices-resilience-and-real-world-teamwork-478)
-- [Playdate-Inspired Portfolio Template Using Next.js and TypeScript](https://dev.to/jqueryscript/playdate-inspired-portfolio-template-using-nextjs-and-typescript-3nhj)
-- [Native Mapping in .NET: Take Control with Extension Methods](https://dev.to/joaooliveiratech/native-mapping-in-net-take-control-with-extension-methods-21dh)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-9gi)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4he7)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3473)
+- [NPR Music: Silvana Estrada: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-silvana-estrada-tiny-desk-concert-4636)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1io5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
