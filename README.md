@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect MySQL Database with Selenium Tests in C#](https://dev.to/jignect-technologies/how-to-connect-mysql-database-with-selenium-tests-in-c-4p91)
-- [One Functional Prototype is Better Than a Thousand Wireframes](https://dev.to/sreejith1976/one-functional-prototype-is-better-than-a-thousand-wireframes-1o04)
-- [Authentication Flows: Implementing Secure Session Management](https://dev.to/vanessamadison/authentication-flows-implementing-secure-session-management-35m9)
-- [Check out the guide on - How to Perform Reinforcement Learning with R](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-how-to-perform-reinforcement-learning-with-r-4edo)
-- [OpenTelemetry vs. New Relic - Which Monitoring Tool Fits You?](https://dev.to/signoz/opentelemetry-vs-new-relic-which-monitoring-tool-fits-you-44oi)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4920)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4ehg)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-288o)
+- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-32bi)
+- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-3hb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
