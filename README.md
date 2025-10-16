@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MCP vs API](https://dev.to/apideck/mcp-vs-api-40a8)
+- [Best IDE for Flutter Development in 2025: Detailed Comparison and Recommendations](https://dev.to/shubham_joshi_expert/best-ide-for-flutter-development-in-2025-detailed-comparison-and-recommendations-41hh)
 - [Docker NGINX + WordPress + MariaDB Tutorial - Inception42](https://dev.to/alejiri/docker-nginx-wordpress-mariadb-tutorial-inception42-1eok)
 - [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
 - [Distributed Applications. Part 1 - Overview](https://dev.to/lostghost/distributed-applications-part-1-overview-6g8)
-- [Handling Challenges in Cloud Migration: Tools for Ensuring Data Integrity and Speed](https://dev.to/oli_john_087e42c8f84/handling-challenges-in-cloud-migration-tools-for-ensuring-data-integrity-and-speed-3962)
-- [🎬 VORAvideo: How We Turn Text, Images &amp; Speech Into Cinematic Videos](https://dev.to/nico_hayes_f441fd59f0b0ff/voravideo-how-we-turn-text-images-speech-into-cinematic-videos-6l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
