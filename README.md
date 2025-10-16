@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🗄️DB Performance 101: A Practical Deep Dive into Backend Database Optimization⚡](https://dev.to/ari-ghosh/db-performance-101-a-practical-deep-dive-into-backend-database-optimization-4cag)
-- [Building a ChatGPT movie app with the OpenAI Apps SDK](https://dev.to/gadgetdev/building-a-chatgpt-movie-app-with-the-openai-apps-sdk-eab)
-- [Reflection – COIL](https://dev.to/pong7772/reflection-coil-1pl4)
-- [Prerequisites for Using the Instagram API with Python](https://dev.to/mirfa_zainab_8b97d351bc0f/prerequisites-for-using-the-instagram-api-with-python-3h66)
-- [Building an AI Chat Terminal That Routes Private Data to Local AI](https://dev.to/falk_maria_zeitsprung/building-an-ai-chat-terminal-that-routes-private-data-to-local-ai-5g6a)
+- [A Deep Dive into Repomix: How a Simple `--style` Flag Powers Multiple Output Formats](https://dev.to/jongwan93/a-deep-dive-into-repomix-how-a-simple-style-flag-powers-multiple-output-formats-1caa)
+- [Favorite Git Things](https://dev.to/aaiezza/favorite-git-things-36n2)
+- [Data Democracy in Action: How Power BI Upskilling Empowers Every Employee for Enterprise Success](https://dev.to/skillboosttrainer/data-democracy-in-action-how-power-bi-upskilling-empowers-every-employee-for-enterprise-success-1p6b)
+- [Books on Leadership That Highlight Women’s Rise in the Corporate World: Colin Maxwell’s Insights](https://dev.to/henrymatthewgraham/books-on-leadership-that-highlight-womens-rise-in-the-corporate-world-colin-maxwells-insights-2659)
+- [Beyond localhost:3000: How to Finally Connect Your Frontend and Backend](https://dev.to/r_deepti_6ef855c6b6cca0dc/beyond-localhost3000-how-to-finally-connect-your-frontend-and-backend-5hka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
