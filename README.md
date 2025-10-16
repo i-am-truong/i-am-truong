@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Extending Pydantic AI Agents with Dependencies — Adding Context to Your AI Agents](https://dev.to/hamluk/extending-pydantic-ai-agents-with-dependencies-adding-context-to-your-ai-agents-3f8o)
-- [The Artisan&#39;s Guide to PostgreSQL: Sculpting Data with JSONB, Arrays, and Full-Text Search](https://dev.to/alex_aslam/the-artisans-guide-to-postgresql-sculpting-data-with-jsonb-arrays-and-full-text-search-1khg)
-- [The Art of the Data Fetch: A Journey Through `pluck`, `select`, and `map`](https://dev.to/alex_aslam/the-art-of-the-data-fetch-a-journey-through-pluck-select-and-map-5dhh)
-- [5 Important Things to Secure Your Backend API &lpar;for Beginners&rpar;](https://dev.to/wasimadildev/5-important-things-to-secure-your-backend-api-for-beginners-1ick)
-- [The Nested Patterns: Advanced Comprehension Techniques](https://dev.to/aaron_rose_0787cc8b4775a0/the-nested-patterns-advanced-comprehension-techniques-kdk)
+- [Don’t Learn DevOps Before Understanding Web Development](https://dev.to/hasan_ashab/dont-learn-devops-before-understanding-web-development-g67)
+- [Keep Calm and Use Docker Volumes](https://dev.to/tshenolo/keep-calm-and-use-docker-volumes-35p6)
+- [You’re Not Alone — You Have an Army](https://dev.to/adegiamb/youre-not-alone-you-have-an-army-328e)
+- [Share Your Dev Projects Smarter, Not Harder](https://dev.to/rishi_gupta_978b32690ee39/share-your-dev-projects-smarter-not-harder-1614)
+- [From Manual API to AI Agent: Automating High-Stakes Art Storage Brokerage](https://dev.to/stockage-oeuvres-dart/from-manual-api-to-ai-agent-automating-high-stakes-art-storage-brokerage-203m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
