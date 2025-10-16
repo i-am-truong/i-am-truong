@@ -83,7 +83,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Inside the Code: Building Scalable Casino Game Engines for the Modern Web](https://dev.to/bob_packer_7c9018a4d1a1f1/inside-the-code-building-scalable-casino-game-engines-for-the-modern-web-3ij9)
 - [Beyond REST: Microservices, Resilience, and Real-World Teamwork](https://dev.to/cathylai/beyond-rest-microservices-resilience-and-real-world-teamwork-478)
 - [Playdate-Inspired Portfolio Template Using Next.js and TypeScript](https://dev.to/jqueryscript/playdate-inspired-portfolio-template-using-nextjs-and-typescript-3nhj)
-- [Aimslate：Ai Image Translator](https://dev.to/demetrius_hilpert/aimslateai-image-translator-2lah)
+- [Native Mapping in .NET: Take Control with Extension Methods](https://dev.to/joaooliveiratech/native-mapping-in-net-take-control-with-extension-methods-21dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
