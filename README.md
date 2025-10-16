@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building FirstTx: A Different Approach to CSR Performance](https://dev.to/joseph0926/building-firsttx-a-different-approach-to-csr-performance-1eel)
+- [2025 Year-End Review: The Best 8 AI Image and Video Generation Tools](https://dev.to/nolan_0714/2025-year-end-review-the-best-8-ai-image-and-video-generation-tools-poc)
+- [**Understanding *args and kwargs in Python: The Complete Beginner’s Guide](https://dev.to/nomidlseo/understanding-args-and-kwargs-in-python-the-complete-beginners-guide-5dgj)
 - [🌍 Quote.Vote — An Open-Source Public Square for Respectful Dialogue &lpar;Hacktoberfest 2025&rpar;](https://dev.to/quotevote/quotevote-an-open-source-public-square-for-respectful-dialogue-hacktoberfest-2025-295i)
 - [LLM Structured JSON: Building Production-Ready AI Features with Schema-Enforced Outputs](https://dev.to/dthompsondev/llm-structured-json-building-production-ready-ai-features-with-schema-enforced-outputs-4j2j)
-- [My new portfoliii. Check it,](https://dev.to/devd-medi-19/my-new-portfoliii-check-it-5abk)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-9gi)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4he7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
