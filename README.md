@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🐞 My QA Bug Report Project — Testing the Delve.fun Web Application](https://dev.to/loveline/my-qa-bug-report-project-testing-the-delvefun-web-application-60a)
-- [Dnd-Master: Lightweight, Powerful Drag-and-Drop for Svelte](https://dev.to/retrotheft/dnd-master-lightweight-powerful-drag-and-drop-for-svelte-1bhj)
-- [How to Use Multiple GitHub Accounts on One Computer &lpar;Step-by-Step Guide&rpar;](https://dev.to/jahid02/how-to-use-multiple-github-accounts-on-one-computer-step-by-step-guide-ln3)
-- [I posted this over a year ago, and unfortunately, it&#39;s still relevant. Please take time to consider your mental health and take a minute to appreciate the things you have accomplished.](https://dev.to/jgdevelops/i-posted-this-over-a-year-ago-and-unfortunately-its-still-relevant-please-take-time-to-consider-3d7h)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-ma8)
+- [What Happens When You Click a Link](https://dev.to/aditi_deshmukh/what-happens-when-you-click-a-link-3ca5)
+- [Intro to Playwright &amp; Cypress: Choosing the Right Tool](https://dev.to/walltech/intro-to-playwright-cypress-choosing-the-right-tool-4kjp)
+- [No App is an Island: How APIs Connect Our Digital World](https://dev.to/lkendi003/no-app-is-an-island-how-apis-connect-our-digital-world-2a7o)
+- [our Next Facebook Ban Should Be a Minor Inconvenience, Not a Catastrophe](https://dev.to/onlineproxy/our-next-facebook-ban-should-be-a-minor-inconvenience-not-a-catastrophe-46ol)
+- [Made some changes regarding Strapi cloud offering.](https://dev.to/nagendra402/made-some-changes-regarding-strapi-cloud-offering-2n1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
