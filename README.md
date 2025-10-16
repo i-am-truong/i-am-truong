@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Certified Fraud Examiner &lpar;CFE&rpar; Salary, Scope, and Career Growth 2025](https://dev.to/aiaofficial/certified-fraud-examiner-cfe-salary-scope-and-career-growth-2025-oo9)
-- [What is a Competitor Backlink Tool and How Does It Help in SEO Strategy?](https://dev.to/anadil_khalil_b75a8464d97/what-is-a-competitor-backlink-tool-and-how-does-it-help-in-seo-strategy-3f14)
-- [Chinese DBA&#39;s Story: Hu Zhonghao - The Journey of Becoming a DBA for Domestic Distributed Databases](https://dev.to/tripcat/chinese-dbas-story-hu-zhonghao-the-journey-of-becoming-a-dba-for-domestic-distributed-databases-22m1)
-- [🚀 50DaysTo1K — Building a SaaS to $1,000 MRR in 50 Days](https://dev.to/gecschool/50daysto1k-building-a-saas-to-1000-mrr-in-50-days-20bp)
-- [What Is Offshore Software Development? – Key Insights for Global Companies](https://dev.to/saigontechnologycompany/what-is-offshore-software-development-key-insights-for-global-companies-15e)
+- [Extending Pydantic AI Agents with Function Tools — Reading and Updating Project Data in Python](https://dev.to/hamluk/extending-pydantic-ai-agents-with-function-tools-reading-and-updating-project-data-in-python-33d1)
+- [Uptrace v2.0: The Future of Observability is Here](https://dev.to/uptrace/uptrace-v20-the-future-of-observability-is-here-2h1h)
+- [Monitoring Polyglot Microservices: Python, Node.js, and Go with OpenTelemetry](https://dev.to/uptrace/monitoring-polyglot-microservices-python-nodejs-and-go-with-opentelemetry-32lf)
+- [Microservices Architecture: Patterns, Design Principles, and Observability](https://dev.to/uptrace/microservices-architecture-patterns-design-principles-and-observability-5hn2)
+- [Kubernetes Microservices Monitoring and Observability with OpenTelemetry](https://dev.to/uptrace/kubernetes-microservices-monitoring-and-observability-with-opentelemetry-5aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
