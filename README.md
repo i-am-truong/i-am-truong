@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [🗄️DB Performance 101: A Practical Deep Dive into Backend Database Optimization⚡](https://dev.to/ari-ghosh/db-performance-101-a-practical-deep-dive-into-backend-database-optimization-4cag)
 - [Building a ChatGPT movie app with the OpenAI Apps SDK](https://dev.to/gadgetdev/building-a-chatgpt-movie-app-with-the-openai-apps-sdk-eab)
-- [Building in Public with GitHub Actions &lpar;No More Manual Posting&rpar;](https://dev.to/brilliantmakanju/building-in-public-with-github-actions-no-more-manual-posting-4ja9)
+- [Reflection – COIL](https://dev.to/pong7772/reflection-coil-1pl4)
 - [Prerequisites for Using the Instagram API with Python](https://dev.to/mirfa_zainab_8b97d351bc0f/prerequisites-for-using-the-instagram-api-with-python-3h66)
-- [DNS Records Explained: Types, Purpose, and Failure Scenarios](https://dev.to/rijultp/dns-records-explained-types-purpose-and-failure-scenarios-139g)
+- [Building an AI Chat Terminal That Routes Private Data to Local AI](https://dev.to/falk_maria_zeitsprung/building-an-ai-chat-terminal-that-routes-private-data-to-local-ai-5g6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
