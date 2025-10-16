@@ -79,11 +79,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [12 Innovative Data Science Projects for 2024: Transforming Ideas into Reality](https://dev.to/directdata_education_83e6/12-innovative-data-science-projects-for-2024-transforming-ideas-into-reality-3kcm)
-- [Lessons from Working with the OpenTelemetry Collector [Part 3]](https://dev.to/tomjohnson3/lessons-from-working-with-the-opentelemetry-collector-part-3-551l)
-- [Angular CLI MCP Server Guide](https://dev.to/this-is-angular/angular-cli-mcp-server-guide-3jj5)
-- [WTF is Embedded Machine Learning?](https://dev.to/dailybugle33/wtf-is-embedded-machine-learning-bhg)
-- [EF’s Kohaku wallet SDK, Etherspot JAW smart wallet, Rhinestone’s chain-agnostic intents](https://dev.to/etherspot/efs-kohaku-wallet-sdk-etherspot-jaw-smart-wallet-rhinestones-chain-agnostic-intents-29c5)
+- [Top 10 Key Takeaways in Software Testing from 2025](https://dev.to/vishal_more_02990955c9358/top-10-key-takeaways-in-software-testing-from-2025-1dnc)
+- [How to remote connect to Raspberry Pi?](https://dev.to/carolineee/how-to-remote-connect-to-raspberry-pi-3nf2)
+- [On dependencies in objects](https://dev.to/nfrankel/on-dependencies-in-objects-2m2k)
+- [Multiple role-based authentication in Laravel](https://dev.to/masteringbackend/multiple-role-based-authentication-in-laravel-29e0)
+- [Why Your Drag-and-Drop Editor Feels Clunky](https://dev.to/ideradevtools/why-your-drag-and-drop-editor-feels-clunky-4km3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
