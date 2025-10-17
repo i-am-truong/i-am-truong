@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring API-First Approach: The Future of SaaS Development](https://dev.to/lollypopdesign/exploring-api-first-approach-the-future-of-saas-development-4g0j)
+- [Harry Potter’s Magic Guide to Blood Pressure Monitors 🧙♂️](https://dev.to/ersajay/harry-potters-magic-guide-to-blood-pressure-monitors-22h0)
+- [We Built a Free Website Analyzer with 40+ Automated Checks. Here&#39;s What We Learned From Analyzing 1,000+ Sites.](https://dev.to/pikasso_studio/we-built-a-free-website-analyzer-with-40-automated-checks-heres-what-we-learned-from-analyzing-5be0)
 - [⚡Meet Ballerina: The Language that Makes Integration Beautiful](https://dev.to/sarthak_rana/meet-ballerina-the-language-that-makes-integration-beautiful-33jp)
 - [Automating Large-Scale Data Processing with GCP Dataflow and Spanner](https://dev.to/pavankumar_hittalamani_28/automating-large-scale-data-processing-with-gcp-dataflow-and-spanner-1ma9)
-- [What Does an IT Asset Management Analyst Do?](https://dev.to/teresa_tran/what-does-an-it-asset-management-analyst-do-mn2)
-- [When Smart People Clash: What Engineering Taught Me About NVC](https://dev.to/joseph_sanjaya_6838683d12/when-smart-people-clash-what-engineering-taught-me-about-nvc-4c7d)
-- [Beyond Chat Apps: What It Means to Be Truly AI-Native](https://dev.to/nexy/beyond-chat-apps-what-it-means-to-be-truly-ai-native-4ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
