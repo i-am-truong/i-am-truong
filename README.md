@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Unity Revolutionized Game Development](https://dev.to/guardingpearsoftware/how-unity-revolutionized-game-development-4i32)
-- [How Modern EDI Software is Simplifying Data Integration for Developers and Businesses](https://dev.to/anthony_palomo_f1a9ce7699/how-modern-edi-software-is-simplifying-data-integration-for-developers-and-businesses-1k8i)
-- [From Repetitive to Revolutionary: How AI is Transforming the Project Management Process](https://dev.to/alexrodovit/from-repetitive-to-revolutionary-how-ai-is-transforming-the-project-management-process-4jl3)
-- [Config-Aware Rules in .NET — The Power Feature of Cocoar.Configuration &lpar;Part 2&rpar;](https://dev.to/bwi/config-aware-rules-in-net-the-power-feature-of-cocoarconfiguration-part-2-2ibk)
-- [From Lynqbit to Elf Owl AI: My Journey Building Talking AIs 🐱🦉](https://dev.to/puneetkumar2010/from-lynqbit-to-elf-owl-ai-my-journey-building-talking-ais-46g)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3mjc)
+- [Long Long Ago — The History of Generative AI](https://dev.to/neha/long-long-ago-the-history-of-generative-ai-5dmm)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1h8k)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-4l19)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-5f4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
