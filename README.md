@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Truthy and Falsy Values in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-truthy-and-falsy-values-in-javascript-beginners-guide-318k)
-- [Java Modifiers Explained: A Deep Dive into Access &amp; Non-Access Specifiers](https://dev.to/satyam_gupta_0d1ff2152dcc/java-modifiers-explained-a-deep-dive-into-access-non-access-specifiers-114)
-- [What to Do When Your GitHub Scraper Breaks Due to Instagram Changes](https://dev.to/mirfa_zainab_8b97d351bc0f/what-to-do-when-your-github-scraper-breaks-due-to-instagram-changes-5792)
-- [Demystifying the &#39;this&#39; Keyword in Java: A Complete Guide with Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/demystifying-the-this-keyword-in-java-a-complete-guide-with-examples-2afc)
-- [WTF is Service Mesh?](https://dev.to/dailybugle33/wtf-is-service-mesh-1fnn)
+- [Decorators in Python](https://dev.to/srinivasuluparanduru/decorators-in-python-1bd3)
+- [Understanding ADHD Coaching: A Path to Clarity, Confidence, and Control](https://dev.to/alif_tgm_f8980739e4e9dfda/understanding-adhd-coaching-a-path-to-clarity-confidence-and-control-360c)
+- [Best Platform to Learn Vue.js If You’re Done Copy-Pasting From Stack Overflow](https://dev.to/dev_loops/best-platform-to-learn-vuejs-if-youre-done-copy-pasting-from-stack-overflow-13nb)
+- [Balancing Confidence and Imposter Syndrome](https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-3aa7)
+- [Implementing Terraform Drift Detection in Your Workflow](https://dev.to/devin-rosario/implementing-terraform-drift-detection-in-your-workflow-56op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
