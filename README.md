@@ -120,16 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Standing Desk Hacks for a Clutter-Free Setup](https://dev.to/rashedalmaktoum/standing-desk-hacks-for-a-clutter-free-setup-111f)
-- [📌 What you&#39;ll learn: 
-- ⚙️ Why micro-frontends lost their hype 
-- 🧩 When they still make sense in 2025 
-- 🚀 Modular monolith vs micro-frontend 
-- 🛠️ Tooling: Nx, Vite &amp; Module Federation 
-- 📊 Real takeaways for scaling smart](https://dev.to/tahamjp/what-youll-learn-why-micro-frontends-lost-their-hype-when-they-still-make-sense-3ddb)
-- [⚡ Micro-Frontends in 2025: Are They Still Worth It?](https://dev.to/tahamjp/micro-frontends-in-2025-are-they-still-worth-it-23lp)
-- [Did You Run Today?](https://dev.to/tripcat/did-you-run-today-42fp)
-- [MVI interview Questions - 2](https://dev.to/vigneshwaralingam/mvi-interview-questions-2-3e8a)
+- [We Built Formo for Onchain Builders](https://dev.to/yos/we-built-formo-for-onchain-builders-1nj1)
+- [Building a Simple RESTful API Endpoint with Node.js and Express](https://dev.to/ambogo2/building-a-simple-restful-api-endpoint-with-nodejs-and-express-1i5d)
+- [Ten Behaviors of Bad Programmers](https://dev.to/tripcat/ten-behaviors-of-bad-programmers-4733)
+- [Builders Over Buzz: How to Squeeze Real Value from a Web3 Conference](https://dev.to/sonia_bobrik_1939cdddd79d/builders-over-buzz-how-to-squeeze-real-value-from-a-web3-conference-35do)
+- [Seamless Event Coordination with Reliable Palo Alto Shuttle Bus Rentals](https://dev.to/john_martin_a48c8bdfeaa29/seamless-event-coordination-with-reliable-palo-alto-shuttle-bus-rentals-op5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
