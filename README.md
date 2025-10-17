@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RESTful API endpoint with Java/Spring Boot](https://dev.to/veranyagaka/restful-api-endpoint-with-javaspring-boot-3pd6)
+- [5 Shocking Truths About Germany&#39;s Mandatory Media Fee—And The Decentralized Escape](https://dev.to/web4/5-shocking-truths-about-germanys-mandatory-media-fee-and-the-decentralized-escape-4735)
 - [Exploring API-First Approach: The Future of SaaS Development](https://dev.to/lollypopdesign/exploring-api-first-approach-the-future-of-saas-development-4g0j)
+- [The Secret to Building a Winning Portfolio for Students](https://dev.to/whoozit_in_82812c2fd22a09/the-secret-to-building-a-winning-portfolio-for-students-39c6)
 - [Harry Potter’s Magic Guide to Blood Pressure Monitors 🧙♂️](https://dev.to/ersajay/harry-potters-magic-guide-to-blood-pressure-monitors-22h0)
-- [We Built a Free Website Analyzer with 40+ Automated Checks. Here&#39;s What We Learned From Analyzing 1,000+ Sites.](https://dev.to/pikasso_studio/we-built-a-free-website-analyzer-with-40-automated-checks-heres-what-we-learned-from-analyzing-5be0)
-- [⚡Meet Ballerina: The Language that Makes Integration Beautiful](https://dev.to/sarthak_rana/meet-ballerina-the-language-that-makes-integration-beautiful-33jp)
-- [Automating Large-Scale Data Processing with GCP Dataflow and Spanner](https://dev.to/pavankumar_hittalamani_28/automating-large-scale-data-processing-with-gcp-dataflow-and-spanner-1ma9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
