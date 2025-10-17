@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HNG 13 Backend Stage 0 – Building a Simple API with Node.js and Express](https://dev.to/trayshmhirk/hng-13-backend-stage-0-building-a-simple-api-with-nodejs-and-express-3k55)
+- [Medical Billing Attorneys: How They Fight Unfair Charges, Denials, and Debt](https://dev.to/alicemare/medical-billing-attorneys-how-they-fight-unfair-charges-denials-and-debt-195f)
+- [Introduction to Pytorch](https://dev.to/thatmlguy/introduction-to-pytorch-4k4o)
+- [From AI chaos to clean code](https://dev.to/croffasia/from-ai-chaos-to-clean-code-f39)
 - [How do you decide whether a new tool is worth adopting for your team?](https://dev.to/clariti_22_6e89b280ccd102/how-do-you-decide-whether-a-new-tool-is-worth-adopting-for-your-team-1d6a)
-- [10 Useful Python Scripts to Automate Your Daily Tasks](https://dev.to/djamware_tutorial_eba1a61/10-useful-python-scripts-to-automate-your-daily-tasks-3b6m)
-- [Connect App: The Future of Real, Meaningful Connections for Gen Z](https://dev.to/tobijerry441817/connect-app-the-future-of-real-meaningful-connections-for-gen-z-188c)
-- [Day-105 Building a Full-Stack Student Management System with React, Spring Boot, and PostgreSQL](https://dev.to/tamilselvan1812/building-a-full-stack-student-management-system-with-react-spring-boot-and-postgresql-4igb)
-- [Master the Prompt: Key Engineering Tactics for Developers in the AI Era](https://dev.to/harsh8088/master-the-prompt-key-engineering-tactics-for-developers-in-the-ai-era-2p83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
