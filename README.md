@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inglorious Store: a Redux-compatible state manager inspired by ECS](https://dev.to/iceonfire/inglorious-store-a-redux-compatible-state-manager-inspired-by-ecs-58j0)
-- [Microkernel Architecture — Design Pattern](https://dev.to/kishalay_pandey_d5d0cae01f00/microkernel-architecture-design-pattern-n79)
-- [Updates in Python 3.14 Every Developer Should Know](https://dev.to/daya_r1/updates-in-python-314-every-developer-should-know-4on2)
-- [Can I Download Instagram Images in Bulk?](https://dev.to/mirfa_zainab_8b97d351bc0f/can-i-download-instagram-images-in-bulk-4780)
-- [What Type of Data Can I Download from Instagram?](https://dev.to/mirfa_zainab_8b97d351bc0f/what-type-of-data-can-i-download-from-instagram-187l)
+- [Why Can’t I Download Some Instagram Images?](https://dev.to/mirfa_zainab_8b97d351bc0f/why-cant-i-download-some-instagram-images-17i0)
+- [Supercharge Your Laravel App: Caching, Queues &amp; Performance](https://dev.to/devtalk94/supercharge-your-laravel-app-caching-queues-performance-4435)
+- [Rank your design options, get A/B feedback, and collect real testimonials](https://dev.to/pablo_santana/rank-your-design-options-get-ab-feedback-and-collect-real-testimonials-4e35)
+- [Will the Quality of Photos and Videos Be Reduced When Downloading from Instagram?](https://dev.to/mirfa_zainab_8b97d351bc0f/will-the-quality-of-photos-and-videos-be-reduced-when-downloading-from-instagram-5500)
+- [Getting Started with Tamagui: A Complete Guide to Modern React Native Styling](https://dev.to/cathylai/getting-started-with-tamagui-a-complete-guide-to-modern-react-native-styling-3fff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
