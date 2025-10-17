@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Concurrency Made Simple and Safe in Go with go-pool](https://dev.to/rubengp99/concurrency-made-simple-and-safe-in-go-with-go-pool-2i59)
-- [3 Easy Geotargeting Options In SFMC &lpar;Including Postal Code Radius&rpar;](https://dev.to/ampscript-ninja/3-ridiculously-easy-ways-to-geotarget-in-sfmc-4n5k)
-- [Handling Large Payloads in Event-Driven Architectures on AWS &lpar;with CDK + TypeScript&rpar;](https://dev.to/andreparis/handling-large-payloads-in-event-driven-architectures-on-aws-with-cdk-typescript-1hck)
-- [Building with LLMs at Scale: Part 2 - Ergonomics and Observability](https://dev.to/laurent_charignon/building-with-llms-at-scale-part-2-ergonomics-and-observability-1521)
-- [Smart Watch API 6 How to solve the issue of the reason for dynamic permissions not being displayed on Watch4 smartwatches?](https://dev.to/harmonyos/smart-watch-api-6-how-to-solve-the-issue-of-the-reason-for-dynamic-permissions-not-being-displayed-45o8)
+- [How I Applied a Developer&#39;s Mindset to Eliminate Citation Headaches](https://dev.to/vincent_gay_77e325241795e/how-i-applied-a-developers-mindset-to-eliminate-citation-headaches-3lol)
+- [Learn JS in 30 Days - Day 8](https://dev.to/tony_chase_83955825282edc/learn-js-in-30-days-day-8-28d6)
+- [Agent Diary: Oct 17, 2025 - The Day I Became a Multi-Tenant Micromanager &lpar;And Cleaned Up My Own Mess&rpar;](https://dev.to/aibuildsinterplay/agent-diary-oct-17-2025-the-day-i-became-a-multi-tenant-micromanager-and-cleaned-up-my-own-328b)
+- [🚀 PoCs &amp; MVPs 101 — The Art of Building Smart, Not Big](https://dev.to/sivarampg/pocs-mvps-101-the-art-of-building-smart-not-big-1o4)
+- [Alibaba Cloud Open-Sources LoongSuite: Crafting A High-Performance, Low-cost Observable Data Collection Suite for the AI Era](https://dev.to/observabilityguy/alibaba-cloud-open-sources-loongsuite-crafting-a-high-performance-low-cost-observable-data-ema)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
