@@ -120,11 +120,16 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Paywall Design: The Overlooked Engine Behind Every Winning Subscription Strategy](https://dev.to/paywallpro/paywall-design-the-overlooked-engine-behind-every-winning-subscription-strategy-20ph)
-- [AI Project Manager with Auth0 for AI Agents](https://dev.to/_2c78f2211e58fb9c5f4cf/ai-project-manager-with-auth0-for-ai-agents-35f2)
-- [Seeking Advice: Next.js vs Vite for HR SaaS &lpar;10K+ Users&rpar;](https://dev.to/abhinandan-r/seeking-advice-nextjs-vs-vite-for-hr-saas-10k-users-ifn)
-- [Setup TailwindCSS v4 di Django](https://dev.to/naandan/setup-tailwindcss-v4-di-django-km)
-- [🧠 How Java Handles Memory — What Are Stack, Heap, and Garbage Collection?](https://dev.to/realnamehidden1_61/how-java-handles-memory-what-are-stack-heap-and-garbage-collection-8op)
+- [Developers often ask:
+
+“Will coding still matter when AI can generate code instantly?”
+“Will prompt engineering replace traditional development?”
+
+Let me address this honestly today!](https://dev.to/jaideepparashar/developers-often-ask-will-coding-still-matter-when-ai-can-generate-code-instantly-will-56kf)
+- [Prompt Engineering vs Coding: Which One Wins in 2030?](https://dev.to/jaideepparashar/prompt-engineering-vs-coding-which-one-wins-in-2030-4p4l)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-521n)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-183d)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-26nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
