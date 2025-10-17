@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rotate PDF in Python | PDF Page Rotation](https://dev.to/leondavis1991/rotate-pdf-in-python-pdf-page-rotation-5hl3)
-- [Why every student needs a good friend](https://dev.to/shree_garimavidyamandir/why-every-student-needs-a-good-friend-hi)
-- [Integrating Stripe Payments in Spring Boot: Step-by-Step Beginner’s Guide &lpar;2025&rpar;](https://dev.to/munaf_badarpura_3811f0ab1/integrating-stripe-payments-in-spring-boot-step-by-step-beginners-guide-2025-40oe)
-- [Spring Boot File Upload with Multipart Support: Complete Guide](https://dev.to/munaf_badarpura_3811f0ab1/spring-boot-file-upload-with-multipart-support-complete-guide-o68)
-- [Spring Boot Caching with Redis: Boost Performance with Fast Operations &lpar;2025&rpar;](https://dev.to/munaf_badarpura_3811f0ab1/spring-boot-caching-with-redis-boost-performance-with-fast-operations-2025-1844)
+- [How do you decide whether a new tool is worth adopting for your team?](https://dev.to/clariti_22_6e89b280ccd102/how-do-you-decide-whether-a-new-tool-is-worth-adopting-for-your-team-1d6a)
+- [10 Useful Python Scripts to Automate Your Daily Tasks](https://dev.to/djamware_tutorial_eba1a61/10-useful-python-scripts-to-automate-your-daily-tasks-3b6m)
+- [Connect App: The Future of Real, Meaningful Connections for Gen Z](https://dev.to/tobijerry441817/connect-app-the-future-of-real-meaningful-connections-for-gen-z-188c)
+- [Day-105 Building a Full-Stack Student Management System with React, Spring Boot, and PostgreSQL](https://dev.to/tamilselvan1812/building-a-full-stack-student-management-system-with-react-spring-boot-and-postgresql-4igb)
+- [Master the Prompt: Key Engineering Tactics for Developers in the AI Era](https://dev.to/harsh8088/master-the-prompt-key-engineering-tactics-for-developers-in-the-ai-era-2p83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
