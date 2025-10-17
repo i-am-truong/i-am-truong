@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Website: Diving into Immersive Experiences with WebXR](https://dev.to/karthik_n/level-up-your-website-diving-into-immersive-experiences-with-webxr-1b0j)
-- [C# for the Web: How Microsoft is Reshaping Modern Web Development](https://dev.to/iteyonikservices/c-for-the-web-how-microsoft-is-reshaping-modern-web-development-bfc)
-- [The AI Co-worker: How Generative AI is Reshaping the Modern Workplace](https://dev.to/sia_negi21/the-ai-co-worker-how-generative-ai-is-reshaping-the-modern-workplace-afh)
-- [How to Build a Content Marketing Strategy That Actually Works](https://dev.to/hiphype_co_0a139c177aa4ca/how-to-build-a-content-marketing-strategy-that-actually-works-2chp)
-- [checkout this article on Unlocking the Power of Interactive Data Visualization with Plotly](https://dev.to/dipti26810/checkout-this-article-on-unlocking-the-power-of-interactive-data-visualization-with-plotly-afc)
+- [Why every student needs a good friend](https://dev.to/shree_garimavidyamandir/why-every-student-needs-a-good-friend-hi)
+- [Integrating Stripe Payments in Spring Boot: Step-by-Step Beginner’s Guide &lpar;2025&rpar;](https://dev.to/munaf_badarpura_3811f0ab1/integrating-stripe-payments-in-spring-boot-step-by-step-beginners-guide-2025-40oe)
+- [Spring Boot File Upload with Multipart Support: Complete Guide](https://dev.to/munaf_badarpura_3811f0ab1/spring-boot-file-upload-with-multipart-support-complete-guide-o68)
+- [Spring Boot Caching with Redis: Boost Performance with Fast Operations &lpar;2025&rpar;](https://dev.to/munaf_badarpura_3811f0ab1/spring-boot-caching-with-redis-boost-performance-with-fast-operations-2025-1844)
+- [Optimizing Cloud-Native Apps with Effective Kubernetes Deployment Strategies](https://dev.to/supratipb/optimizing-cloud-native-apps-with-effective-kubernetes-deployment-strategies-1gfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
