@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Be Best Consultants Vijayawada](https://dev.to/sai_rishitha_25a309bf68e1/be-best-consultants-vijayawada-3j86)
-- [🧩 Simplify Your Dev Life with TrueFormatter — Your All-in-One Dev Tool Hub](https://dev.to/abhijeet_singh_cf3f1d1595/simplify-your-dev-life-with-trueformatter-your-all-in-one-dev-tool-hub-2d1g)
-- [Edge Rendering — Because Apparently the Server Wasn’t Close Enough](https://dev.to/lucasbrdt268/edge-rendering-because-apparently-the-server-wasnt-close-enough-54jj)
-- [The End of an Era? Why AI-Assisted Review is the New Gold Standard for Code Quality](https://dev.to/taniya1004/the-end-of-an-era-why-ai-assisted-review-is-the-new-gold-standard-for-code-quality-ejb)
-- [Database index tutorial with MYSQL](https://dev.to/sadiul_hakim/database-index-tutorial-with-mysql-4j09)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mc1)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - After Sunrise &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-25i)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2gfp)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-i3)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-1fkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
