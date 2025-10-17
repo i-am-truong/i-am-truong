@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with GQLoom - Building GraphQL Server Applications with Zod + Drizzle](https://dev.to/xcfox/getting-started-with-gqloom-building-graphql-server-applications-with-zod-drizzle-423o)
-- [When “Just Routing” Wasted 2 Days My Multi-Region Lesson](https://dev.to/techwithhari/when-just-routing-wasted-2-days-my-multi-region-lesson-5gl1)
-- [How Developers Can Maximize Productivity in 2025?](https://dev.to/anuj_tomar_8a2d1eb5069642/how-developers-can-maximize-productivity-in-2025-4a3g)
-- [[Boost]](https://dev.to/hadil/-1cfe)
-- [Lukas Niessen: From Architect to Founder to Reinventor - The Lukas Niessen Story and Lessons for Indian Startups](https://dev.to/sundardragai/lukas-niessen-from-architect-to-founder-to-reinventor-the-lukas-niessen-story-and-lessons-for-20hc)
+- [What I Learned From Shutting Down My VC-Backed Startup](https://dev.to/jamie_davenport/what-i-learned-from-shutting-down-my-vc-backed-startup-2je0)
+- [From Grappling with AI to Commanding a Digital Workforce: Agentic AI on AWS](https://dev.to/taiwoadeleke12/from-grappling-with-ai-to-commanding-a-digital-workforce-agentic-ai-on-aws-1cji)
+- [The &quot;Shift-Left&quot; Imperative: Implementing Data Contracts in CI/CD Pipeline](https://dev.to/nabindebnath/the-shift-left-imperative-implementing-data-contracts-in-cicd-pipeline-40cl)
+- [Docker Zootopia Networking](https://dev.to/manuartero/docker-zootopia-networking-4h1l)
+- [Navigating Semiconductor Compliance: Key Regulations](https://dev.to/peter-thompson/navigating-semiconductor-compliance-key-regulations-411f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
