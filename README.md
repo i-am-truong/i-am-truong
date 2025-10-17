@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2754)
-- [IGN: Call of Duty vs. Battlefield: The Last Great Gaming Rivalry](https://dev.to/gg_news/ign-call-of-duty-vs-battlefield-the-last-great-gaming-rivalry-4lod)
-- [Swarm Intelligence: Unlocking AI Understanding Through Mimicry](https://dev.to/arvind_sundararajan/swarm-intelligence-unlocking-ai-understanding-through-mimicry-ei3)
-- [Build an AI Concierge App in ChatGPT](https://dev.to/gabeb03/build-an-ai-concierge-app-in-chatgpt-4gei)
-- [Understanding SSL and TLS Certificates, Verification, and Exportable Certificates](https://dev.to/rijultp/understanding-ssl-and-tls-certificates-verification-and-exportable-certificates-4k4i)
+- [🚀 Introducing Gojang: a modern, batteries-included web framework in Go + HTMX](https://dev.to/itsharrykim/introducing-gojang-a-modern-batteries-included-web-framework-in-go-htmx-28kn)
+- [Couchbase Weekly Updates - October 17, 2025](https://dev.to/couchbase/couchbase-weekly-updates-october-17-2025-2f7)
+- [Why I Built a C++ Linux System Monitor &lpar;And Why You Should Too&rpar;](https://dev.to/echtoplasm/why-i-built-a-c-linux-system-monitor-and-why-you-should-too-kjb)
+- [Designing a Centralized Rate Limiter for Java Microservices — The Why, The How, and The Lessons](https://dev.to/krithika_subramaniyan_5b6/designing-a-centralized-rate-limiter-for-java-microservices-the-why-the-how-and-the-lessons-25nl)
+- [Scaling Your Playwright Tests: A Fixture for Multi-User, Multi-Context Worlds](https://dev.to/gustavomeilus/scaling-your-playwright-tests-a-fixture-for-multi-user-multi-context-worlds-53i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
