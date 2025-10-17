@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Edge Rendering — Because Apparently the Server Wasn’t Close Enough](https://dev.to/lucasbrdt268/edge-rendering-because-apparently-the-server-wasnt-close-enough-54jj)
+- [Database index tutorial with MYSQL](https://dev.to/sadiul_hakim/database-index-tutorial-with-mysql-4j09)
+- [Use Barometric Pressure Sensor module on DEBIX](https://dev.to/debix_computers/use-barometric-pressure-sensor-module-on-debix-1060)
+- [🤖 Automating AI Newsletters with n8n: The Newsletter Agent Workflow](https://dev.to/techstuff/automating-ai-newsletters-with-n8n-the-newsletter-agent-workflow-1cad)
 - [A Complete Guide to the WordPress REST API: How to Get All Posts Easily](https://dev.to/medha_bhatt_21b7dc4cc53e7/a-complete-guide-to-the-wordpress-rest-api-how-to-get-all-posts-easily-581m)
-- [&quot;The Architecture Behind Uber Live Tracking&quot; ⚡](https://dev.to/meeth_gangwar_f56b17f5aff/the-architecture-behind-uber-live-tracking-5bbm)
-- [The Blurred Line Between Developer and Designer in the AI Era](https://dev.to/dct_technology/the-blurred-line-between-developer-and-designer-in-the-ai-era-51mh)
-- [Data Engineering 101: Understanding Databases, Storage, and Security](https://dev.to/sajjadrahman56/data-engineering-101-understanding-databases-storage-and-security-46ih)
-- [Data is fuel, nowadays](https://dev.to/abir17/data-is-fuel-nowadays-46ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
