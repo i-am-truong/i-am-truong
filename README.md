@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LLPY-13: CI/CD con GitHub Actions - Automatización Completa](https://dev.to/jesus_oviedoriquelme_084/llpy-13-cicd-con-github-actions-automatizacion-completa-ij6)
-- [LLPY-12: Docker y Containerización - De Desarrollo a Producción](https://dev.to/jesus_oviedoriquelme_084/llpy-12-docker-y-containerizacion-de-desarrollo-a-produccion-1fpm)
-- [LLPY-11: Terraform - Infraestructura como Código](https://dev.to/jesus_oviedoriquelme_084/llpy-11-terraform-infraestructura-como-codigo-57dp)
-- [Running Evals on LangChain Applications: A Practical, End-to-End Guide with Maxim AI](https://dev.to/kuldeep_paul/running-evals-on-langchain-applications-a-practical-end-to-end-guide-with-maxim-ai-3e67)
-- [LLPY-09: Phoenix y OpenTelemetry - Observabilidad Completa](https://dev.to/jesus_oviedoriquelme_084/llpy-09-phoenix-y-opentelemetry-observabilidad-completa-2egc)
+- [The life of a software dev girl: nos bastidores de quase 5 anos no mundo da tecnologia.](https://dev.to/sisouza/the-life-of-a-software-dev-girl-nos-bastidores-de-quase-5-anos-no-mundo-da-tecnologia-1nje)
+- [What You’re Getting Wrong When Building AI Applications in 2025](https://dev.to/kuldeep_paul/what-youre-getting-wrong-when-building-ai-applications-in-2025-360k)
+- [Running Rust Binaries on Shared Hosting: A Practical Approach to Type Safety on a Budget](https://dev.to/andreamancuso/running-rust-binaries-on-shared-hosting-a-practical-approach-to-type-safety-on-a-budget-jmb)
+- [Meet XPathy: The Fluent Java API That Makes Raw XPath Obsolete](https://dev.to/volta_jebaprashanth_ac7af/meet-xpathy-the-fluent-java-api-that-makes-raw-xpath-obsolete-1bnm)
+- [LLPY-14: Evaluación y Métricas de Calidad - Midiendo el Éxito del RAG](https://dev.to/jesus_oviedoriquelme_084/llpy-14-evaluacion-y-metricas-de-calidad-midiendo-el-exito-del-rag-o3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
