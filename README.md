@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Day 2 — The MVP is Alive](https://dev.to/gecschool/day-2-the-mvp-is-alive-1ja2)
-- [Data Fetching in Nuxt 3 — The Ultimate Guide](https://dev.to/gervaisamoah/data-fetching-in-nuxt-3-the-ultimate-guide-1o41)
-- [💻 Today’s Win: Completed My First HNG Frontend Task 🚀](https://dev.to/cjetronite/todays-win-completed-my-first-hng-frontend-task-1im)
-- [Node.js Malware Protection: 10 Best Practices That Protected Our Applications Against Stealit](https://dev.to/mehul_budasana/nodejs-malware-protection-10-best-practices-that-protected-our-applications-against-stealit-27de)
-- [Can Follower Lookup Tools Detect Fake Followers?](https://dev.to/mirfa_zainab_8b97d351bc0f/can-follower-lookup-tools-detect-fake-followers-4f3e)
+- [LLPY-13: CI/CD con GitHub Actions - Automatización Completa](https://dev.to/jesus_oviedoriquelme_084/llpy-13-cicd-con-github-actions-automatizacion-completa-ij6)
+- [LLPY-12: Docker y Containerización - De Desarrollo a Producción](https://dev.to/jesus_oviedoriquelme_084/llpy-12-docker-y-containerizacion-de-desarrollo-a-produccion-1fpm)
+- [LLPY-11: Terraform - Infraestructura como Código](https://dev.to/jesus_oviedoriquelme_084/llpy-11-terraform-infraestructura-como-codigo-57dp)
+- [Running Evals on LangChain Applications: A Practical, End-to-End Guide with Maxim AI](https://dev.to/kuldeep_paul/running-evals-on-langchain-applications-a-practical-end-to-end-guide-with-maxim-ai-3e67)
+- [LLPY-09: Phoenix y OpenTelemetry - Observabilidad Completa](https://dev.to/jesus_oviedoriquelme_084/llpy-09-phoenix-y-opentelemetry-observabilidad-completa-2egc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
