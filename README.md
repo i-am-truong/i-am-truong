@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RESTful API endpoint with Java/Spring Boot](https://dev.to/veranyagaka/restful-api-endpoint-with-javaspring-boot-3pd6)
-- [5 Shocking Truths About Germany&#39;s Mandatory Media Fee—And The Decentralized Escape](https://dev.to/web4/5-shocking-truths-about-germanys-mandatory-media-fee-and-the-decentralized-escape-4735)
-- [Exploring API-First Approach: The Future of SaaS Development](https://dev.to/lollypopdesign/exploring-api-first-approach-the-future-of-saas-development-4g0j)
-- [The Secret to Building a Winning Portfolio for Students](https://dev.to/whoozit_in_82812c2fd22a09/the-secret-to-building-a-winning-portfolio-for-students-39c6)
-- [Harry Potter’s Magic Guide to Blood Pressure Monitors 🧙♂️](https://dev.to/ersajay/harry-potters-magic-guide-to-blood-pressure-monitors-22h0)
+- [How to write reviewer-friendly pull requests](https://dev.to/nicooprat/how-to-write-reviewer-friendly-pull-requests-16aj)
+- [Stakeholder Engagement Plan: Ensuring Collaboration and Transparency](https://dev.to/writegenic/stakeholder-engagement-plan-ensuring-collaboration-and-transparency-11ei)
+- [🚀 Supermaker ai — Build AI-Powered Apps in Minutes, Not Weeks](https://dev.to/juddiy/supermaker-ai-build-ai-powered-apps-in-minutes-not-weeks-3nen)
+- [Enhancing Efficiency: The Importance of Freight Logistics Services](https://dev.to/ayesha-diaz/enhancing-efficiency-the-importance-of-freight-logistics-services-4l0b)
+- [Kubernetes Capacity Planning Kubernetes Capacity Planning Playbook: How to Balance Performance, Stability, and Cost](https://dev.to/cloudpilot-ai/kubernetes-capacity-planning-kubernetes-capacity-planning-playbook-how-to-balance-performance-45o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
