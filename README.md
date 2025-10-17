@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Git Branching Strategies: Finding the Right Fit for Your Team](https://dev.to/trinitezinsou/mastering-git-branching-strategies-finding-the-right-fit-for-your-team-4p2n)
 - [Improving Binary Security in Mobile Application: A Deep Dive into Obfuscation](https://dev.to/jocanola/improving-binary-security-in-mobile-application-a-deep-dive-into-obfuscation-58n2)
 - [🔥🚨 Global Crypto Regulations Are Heating Up!💥](https://dev.to/endeo/global-crypto-regulations-are-heating-up-33c5)
 - [Adding a new feature to vscode-pets project](https://dev.to/oleksandrakordonets/adding-a-new-feature-to-vscode-pets-project-221f)
 - [I Built My Own Service Using Neural Networks Without Knowing Code](https://dev.to/paul_molyanov/i-built-my-own-service-using-neural-networks-without-knowing-code-52ja)
-- [I Just Started Learning to Code — Here&#39;s How I Built My First ‘Vibe Project’](https://dev.to/nomadfounder/i-just-started-learning-to-code-heres-how-i-built-my-first-vibe-project-2847)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
