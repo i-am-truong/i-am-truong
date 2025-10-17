@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Best Export for Instagram: Simplifying Data Management with the Instagram Export Tool](https://dev.to/mirfa_zainab_8b97d351bc0f/the-best-export-for-instagram-simplifying-data-management-with-the-instagram-export-tool-73h)
-- [🧠🤖 LangGraph4j Deep Agents &lpar;Agent 2.0&rpar;](https://dev.to/bsorrentino/langgraph4j-deep-agents-agent-20-1d74)
-- [LobeChat: Where Bots Write 23% of the Code and Reviews Take 42 Seconds](https://dev.to/pullflow/lobechat-where-bots-write-23-of-the-code-and-reviews-take-42-seconds-25in)
-- [Amazon Athena: análises SQL diretas no S3 – quando usar, quanto custa e quais os limites](https://dev.to/thiagosagara/amazon-athena-analises-sql-diretas-no-s3-quando-usar-quanto-custa-e-quais-os-limites-4lie)
-- [AI Chatbot Developers: What&#39;s the &quot;Other Safety&quot; We Should Be Thinking About Now? User Protection.](https://dev.to/_768dd7ab130016ab8b0a/ai-chatbot-developers-whats-the-other-safety-we-should-be-thinking-about-now-user-protection-38pa)
+- [`ultrahtml` library in Nitro codebase.](https://dev.to/ramunarasinga-11/ultrahtml-library-in-nitro-codebase-4mb1)
+- [The chronicles of bind method](https://dev.to/amanbhoria/the-chronicles-of-bind-method-1on9)
+- [Confident Refactoring When Money Is on the Line](https://dev.to/_2c78f2211e58fb9c5f4cf/confident-refactoring-when-money-is-on-the-line-fmh)
+- [Gemma 3 + macOS Shortcuts: AI at the Press of a Hotkey](https://dev.to/marta_winiewska_861b124b/gemma-3-macos-shortcuts-ai-at-the-press-of-a-hotkey-4hij)
+- [How to install Git on Ubuntu and push your first repository to GitHub](https://dev.to/walodja1987/how-to-install-git-on-ubuntu-and-push-your-first-repository-to-github-21gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
