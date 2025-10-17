@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned From Shutting Down My VC-Backed Startup](https://dev.to/jamie_davenport/what-i-learned-from-shutting-down-my-vc-backed-startup-2je0)
-- [From Grappling with AI to Commanding a Digital Workforce: Agentic AI on AWS](https://dev.to/taiwoadeleke12/from-grappling-with-ai-to-commanding-a-digital-workforce-agentic-ai-on-aws-1cji)
-- [The &quot;Shift-Left&quot; Imperative: Implementing Data Contracts in CI/CD Pipeline](https://dev.to/nabindebnath/the-shift-left-imperative-implementing-data-contracts-in-cicd-pipeline-40cl)
-- [Docker Zootopia Networking](https://dev.to/manuartero/docker-zootopia-networking-4h1l)
-- [Navigating Semiconductor Compliance: Key Regulations](https://dev.to/peter-thompson/navigating-semiconductor-compliance-key-regulations-411f)
+- [MySQL Performance Comparison Between Hetzner and AWS Focusing on Storage Options](https://dev.to/devops-make-it-run/mysql-performance-comparison-between-hetzner-and-aws-focusing-on-storage-options-5f96)
+- [Building an AI-Powered Content Curator in C#: Automating Artificial Intelligence with Artificial Intelligence](https://dev.to/antony_brahin_f47b663f3a0/building-an-ai-powered-content-curator-in-c-automating-intelligence-with-intelligence-1k55)
+- [I Built a CLI to Test Supabase RLS Policies](https://dev.to/rodrigotari1/i-built-a-cli-to-test-supabase-rls-policies-30aa)
+- [Bytearray in Python &lpar;3&rpar;](https://dev.to/hyperkai/bytearray-in-python-3-5h57)
+- [LLPY-09: Phoenix y OpenTelemetry - Observabilidad Completa](https://dev.to/jesus_oviedoriquelme_084/llpy-09-phoenix-y-opentelemetry-observabilidad-completa-1kn3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
