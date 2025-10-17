@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [O Que É NGINX e Como Ele Funciona?](https://dev.to/ikauedev/o-que-e-nginx-e-como-ele-funciona-1727)
+- [The Future Isn&#39;t Machines. It&#39;s Algorithms](https://dev.to/marikinyo/the-future-isnt-machines-its-algorithms-3d74)
 - [My First API Just Broke &lpar;And That Was the Point&rpar;](https://dev.to/titilola_olaitan/my-first-api-just-broke-and-that-was-the-point-337k)
+- [Untitled](https://dev.to/dennis_bc46e72066dfbe72a4/untitled-5om)
 - [Why Darkweb Marketplace Reviews Cannot Always Be Trusted](https://dev.to/tor_bbb/why-darkweb-marketplace-reviews-cannot-always-be-trusted-dga)
-- [HNG Internship Stage 0: Building a Profile API with Cat Facts](https://dev.to/abisoyeo/hng-internship-stage-0-building-a-profile-api-with-cat-facts-58ak)
-- [Hi, guys! I&#39;m happy to introduce you my first series of articles about Kotlin!
-I&#39;d like to ask you to read it and give me feedback how do you feel about it ;D](https://dev.to/4wl2d/hi-guys-im-happy-to-introduce-you-my-first-series-of-articles-about-kotlin-id-like-to-ask-you-4bj7)
-- [Kotlin Efficiency: Code Smarter, Not Harder - Typealias](https://dev.to/4wl2d/kotlin-efficiency-code-smarter-not-harder-typealias-5c3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
