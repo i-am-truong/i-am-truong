@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Boredom to Building: My First Task at HNG13](https://dev.to/emer/from-boredom-to-building-my-first-task-at-hng13-19c8)
-- [CrossUI — A Reusable UI Component Library for Vue, React, Nuxt, and Next.js](https://dev.to/rahimipouria/crossui-a-reusable-ui-component-library-for-vue-react-nuxt-and-nextjs-lak)
-- [🔗 Cómo los desarrolladores están impulsando la próxima ola de adopción cripto en 2025](https://dev.to/paddy_e4d3d274ebc7/como-los-desarrolladores-estan-impulsando-la-proxima-ola-de-adopcion-cripto-en-2025-3j5a)
-- [How Agent Observability Ensures AI Agent Reliability](https://dev.to/kamya_shah_e69d5dd78f831c/how-agent-observability-ensures-ai-agent-reliability-3g0b)
-- [Start Safe: Terragrunt Import for Multi-Account AWS](https://dev.to/terraformmonkey/start-safe-terragrunt-import-for-multi-account-aws-197p)
+- [Sign your AWS Lambda Code](https://dev.to/shajam/sign-your-aws-lambda-code-5cdh)
+- [Here&#39;s How to Change GNOME Fractal&#39;s Font Size](https://dev.to/archerallstars/heres-how-to-change-gnome-fractals-font-size-392j)
+- [Daily Artificial Intelligence Digest - Oct 17, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-17-2025-1p2e)
+- [🧠OrKa docs grew up: a YAML-first reference for Agents, Nodes, and Tools](https://dev.to/marcosomma/orka-docs-grew-up-a-yaml-first-reference-for-agents-nodes-and-tools-51ed)
+- [Building a Robust Express API with TypeScript and express-validator](https://dev.to/justwonder/building-a-robust-express-api-with-typescript-and-express-validator-3i75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
