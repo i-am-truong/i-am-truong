@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4pl7)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-mnh)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-4m5f)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3ni2)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-5f8d)
+- [📰 Major Tech News: Oct 17th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-17th-2025-462b)
+- [Automation of Multi-Cloud &amp; Hybrid Challenge with Multi Tool](https://dev.to/neamanahmed/automation-of-multi-cloud-hybrid-challenge-with-multi-tool-4f9j)
+- [From Pain Points to Practice: Monorepo Architecture in PawHaven](https://dev.to/aoda-zhang/from-pain-points-to-practice-monorepo-architecture-in-pawhaven-70d)
+- [How I Lost Sleep, Sanity, and My Weekend Deploying a Project That “Worked on My PC” 😭💻](https://dev.to/rolan_r_n_r/how-i-lost-sleep-sanity-and-my-weekend-deploying-a-project-that-worked-on-my-pc-i4l)
+- [How I Finally Understood CSS in Just 7 Days](https://dev.to/ofodile/how-i-finally-understood-css-in-just-7-days-2iic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
