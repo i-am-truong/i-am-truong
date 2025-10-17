@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Truthy and Falsy Values in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-truthy-and-falsy-values-in-javascript-beginners-guide-318k)
+- [Java Modifiers Explained: A Deep Dive into Access &amp; Non-Access Specifiers](https://dev.to/satyam_gupta_0d1ff2152dcc/java-modifiers-explained-a-deep-dive-into-access-non-access-specifiers-114)
+- [What to Do When Your GitHub Scraper Breaks Due to Instagram Changes](https://dev.to/mirfa_zainab_8b97d351bc0f/what-to-do-when-your-github-scraper-breaks-due-to-instagram-changes-5792)
+- [Demystifying the &#39;this&#39; Keyword in Java: A Complete Guide with Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/demystifying-the-this-keyword-in-java-a-complete-guide-with-examples-2afc)
 - [WTF is Service Mesh?](https://dev.to/dailybugle33/wtf-is-service-mesh-1fnn)
-- [Getting Started Building a Data Platform](https://dev.to/jorinvo/getting-started-building-a-data-platform-2kfe)
-- [Untitled](https://dev.to/dev_chauhan_f572a5aba850b/untitled-7lp)
-- [How to Convert a docker-compose file to K8S manifest](https://dev.to/sahithi_v_ea2d0f17149bf0a/how-to-convert-a-docker-compose-file-to-k8s-manifest-2hch)
-- [Mastering the Art of Code Reviews: Strategies for Developers](https://dev.to/mikeover/mastering-the-art-of-code-reviews-strategies-for-developers-5cdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
