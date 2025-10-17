@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Reading Speed Secret That Helps You Remember Jiu Jitsu Moves](https://dev.to/brain_athlete/the-reading-speed-secret-that-helps-you-remember-jiu-jitsu-moves-1d1p)
-- [The 10 Best Interview Copilot Tools for 2026 🤖](https://dev.to/finalroundai/the-10-best-interview-copilot-tools-for-2026-4a8j)
-- [Cause and solution for &quot;Too many re-renders&quot; in useEffect](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-too-many-re-renders-in-useeffect-5hcl)
-- [Balancing Confidence and Imposter Syndrome](https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-311o)
-- [Qlib - 下载数据实操 Download data](https://dev.to/mangoquant/qlib-xia-zai-shu-ju-shi-cao-download-data-52gh)
+- [⚡Meet Ballerina: The Language that Makes Integration Beautiful](https://dev.to/sarthak_rana/meet-ballerina-the-language-that-makes-integration-beautiful-33jp)
+- [Automating Large-Scale Data Processing with GCP Dataflow and Spanner](https://dev.to/pavankumar_hittalamani_28/automating-large-scale-data-processing-with-gcp-dataflow-and-spanner-1ma9)
+- [What Does an IT Asset Management Analyst Do?](https://dev.to/teresa_tran/what-does-an-it-asset-management-analyst-do-mn2)
+- [When Smart People Clash: What Engineering Taught Me About NVC](https://dev.to/joseph_sanjaya_6838683d12/when-smart-people-clash-what-engineering-taught-me-about-nvc-4c7d)
+- [Beyond Chat Apps: What It Means to Be Truly AI-Native](https://dev.to/nexy/beyond-chat-apps-what-it-means-to-be-truly-ai-native-4ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
