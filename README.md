@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Improving Binary Security in Mobile Application: A Deep Dive into Obfuscation](https://dev.to/jocanola/improving-binary-security-in-mobile-application-a-deep-dive-into-obfuscation-58n2)
+- [🔥🚨 Global Crypto Regulations Are Heating Up!💥](https://dev.to/endeo/global-crypto-regulations-are-heating-up-33c5)
+- [Adding a new feature to vscode-pets project](https://dev.to/oleksandrakordonets/adding-a-new-feature-to-vscode-pets-project-221f)
 - [I Built My Own Service Using Neural Networks Without Knowing Code](https://dev.to/paul_molyanov/i-built-my-own-service-using-neural-networks-without-knowing-code-52ja)
 - [I Just Started Learning to Code — Here&#39;s How I Built My First ‘Vibe Project’](https://dev.to/nomadfounder/i-just-started-learning-to-code-heres-how-i-built-my-first-vibe-project-2847)
-- [The Symphony of One: Conducting Node.js Monorepos with Lerna, Nx, and Turborepo](https://dev.to/alex_aslam/the-symphony-of-one-conducting-nodejs-monorepos-with-lerna-nx-and-turborepo-53pf)
-- [Hitting the Ground Running with HNG Backend Stage 0 🚀](https://dev.to/joshteflon/hitting-the-ground-running-with-hng-backend-stage-0-2a0m)
-- [The Sculptor&#39;s Studio: Carving Modularity from the Rails Monolith](https://dev.to/alex_aslam/the-sculptors-studio-carving-modularity-from-the-rails-monolith-bdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
