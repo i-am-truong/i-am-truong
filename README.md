@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Day 2 — The MVP is Alive](https://dev.to/gecschool/day-2-the-mvp-is-alive-1ja2)
+- [Data Fetching in Nuxt 3 — The Ultimate Guide](https://dev.to/gervaisamoah/data-fetching-in-nuxt-3-the-ultimate-guide-1o41)
+- [💻 Today’s Win: Completed My First HNG Frontend Task 🚀](https://dev.to/cjetronite/todays-win-completed-my-first-hng-frontend-task-1im)
 - [Node.js Malware Protection: 10 Best Practices That Protected Our Applications Against Stealit](https://dev.to/mehul_budasana/nodejs-malware-protection-10-best-practices-that-protected-our-applications-against-stealit-27de)
 - [Can Follower Lookup Tools Detect Fake Followers?](https://dev.to/mirfa_zainab_8b97d351bc0f/can-follower-lookup-tools-detect-fake-followers-4f3e)
-- [Day 7 of documentating my learning journey](https://dev.to/james_kabuga/day-7-of-documentating-my-learning-journey-21lc)
-- [How Does Scraping Instagram Help in Marketing?](https://dev.to/mirfa_zainab_8b97d351bc0f/how-does-scraping-instagram-help-in-marketing-e32)
-- [What Is a Storage Bucket in Cloud Computing? Explained with a Simple Analogy](https://dev.to/natarajan_c_k/what-is-a-storage-bucket-in-cloud-computing-explained-with-a-simple-analogy-1g5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
