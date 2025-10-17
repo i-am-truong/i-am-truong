@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Built Formo for Onchain Builders](https://dev.to/yos/we-built-formo-for-onchain-builders-1nj1)
-- [Building a Simple RESTful API Endpoint with Node.js and Express](https://dev.to/ambogo2/building-a-simple-restful-api-endpoint-with-nodejs-and-express-1i5d)
-- [Ten Behaviors of Bad Programmers](https://dev.to/tripcat/ten-behaviors-of-bad-programmers-4733)
-- [Builders Over Buzz: How to Squeeze Real Value from a Web3 Conference](https://dev.to/sonia_bobrik_1939cdddd79d/builders-over-buzz-how-to-squeeze-real-value-from-a-web3-conference-35do)
-- [Seamless Event Coordination with Reliable Palo Alto Shuttle Bus Rentals](https://dev.to/john_martin_a48c8bdfeaa29/seamless-event-coordination-with-reliable-palo-alto-shuttle-bus-rentals-op5)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3nca)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3l6i)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2of3)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1nhj)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-2ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
