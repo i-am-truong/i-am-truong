@@ -120,6 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLM Brand Visibility Analyzer: Making AI Search Transparency Accessible to Every Brand](https://dev.to/pratham_naik_project_manager/llm-brand-visibility-analyzer-making-ai-search-transparency-accessible-to-every-brand-3g2j)
+- [Manage WordPress Plugin Licenses Seamlessly While Hosting on GitHub with WooPress License Hub](https://dev.to/reygcalantaol/manage-wordpress-plugin-licenses-seamlessly-while-hosting-on-github-with-woopress-license-hub-3lg7)
 - [Developers often ask:
 
 “Will coding still matter when AI can generate code instantly?”
@@ -128,8 +130,6 @@ Python                   1 repo              █░░░░░░░░░░�
 Let me address this honestly today!](https://dev.to/jaideepparashar/developers-often-ask-will-coding-still-matter-when-ai-can-generate-code-instantly-will-56kf)
 - [Prompt Engineering vs Coding: Which One Wins in 2030?](https://dev.to/jaideepparashar/prompt-engineering-vs-coding-which-one-wins-in-2030-4p4l)
 - [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-521n)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-183d)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-26nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
