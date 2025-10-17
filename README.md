@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Libras Recognizer with Artificial Intelligence and Teachable Machine](https://dev.to/giovanni786/creating-a-libras-recognizer-with-artificial-intelligence-and-teachable-machine-4npa)
-- [Excelize 2.10.0 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-2100-released-powerful-open-source-library-for-spreadsheet-excel-document-4pb7)
-- [Day 11 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-11-of-my-ai-data-mastery-journey-from-python-to-generative-ai-395m)
-- [Nuxt 3 + Supabase: targetUserId undefined in Chat Component](https://dev.to/zyppon/nuxt-3-supabase-targetuserid-undefined-in-chat-component-2a1f)
-- [LLM Brand Visibility Analyzer: Making AI Search Transparency Accessible to Every Brand](https://dev.to/pratham_naik_project_manager/llm-brand-visibility-analyzer-making-ai-search-transparency-accessible-to-every-brand-3g2j)
+- [A Complete Guide to the WordPress REST API: How to Get All Posts Easily](https://dev.to/medha_bhatt_21b7dc4cc53e7/a-complete-guide-to-the-wordpress-rest-api-how-to-get-all-posts-easily-581m)
+- [&quot;The Architecture Behind Uber Live Tracking&quot; ⚡](https://dev.to/meeth_gangwar_f56b17f5aff/the-architecture-behind-uber-live-tracking-5bbm)
+- [The Blurred Line Between Developer and Designer in the AI Era](https://dev.to/dct_technology/the-blurred-line-between-developer-and-designer-in-the-ai-era-51mh)
+- [Data Engineering 101: Understanding Databases, Storage, and Security](https://dev.to/sajjadrahman56/data-engineering-101-understanding-databases-storage-and-security-46ih)
+- [Data is fuel, nowadays](https://dev.to/abir17/data-is-fuel-nowadays-46ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
