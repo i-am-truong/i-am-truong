@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing Gojang: a modern, batteries-included web framework in Go + HTMX](https://dev.to/itsharrykim/introducing-gojang-a-modern-batteries-included-web-framework-in-go-htmx-28kn)
-- [Couchbase Weekly Updates - October 17, 2025](https://dev.to/couchbase/couchbase-weekly-updates-october-17-2025-2f7)
-- [Why I Built a C++ Linux System Monitor &lpar;And Why You Should Too&rpar;](https://dev.to/echtoplasm/why-i-built-a-c-linux-system-monitor-and-why-you-should-too-kjb)
-- [Designing a Centralized Rate Limiter for Java Microservices — The Why, The How, and The Lessons](https://dev.to/krithika_subramaniyan_5b6/designing-a-centralized-rate-limiter-for-java-microservices-the-why-the-how-and-the-lessons-25nl)
-- [Scaling Your Playwright Tests: A Fixture for Multi-User, Multi-Context Worlds](https://dev.to/gustavomeilus/scaling-your-playwright-tests-a-fixture-for-multi-user-multi-context-worlds-53i4)
+- [I Just Started Learning to Code — Here&#39;s How I Built My First ‘Vibe Project’](https://dev.to/nomadfounder/i-just-started-learning-to-code-heres-how-i-built-my-first-vibe-project-2847)
+- [The Symphony of One: Conducting Node.js Monorepos with Lerna, Nx, and Turborepo](https://dev.to/alex_aslam/the-symphony-of-one-conducting-nodejs-monorepos-with-lerna-nx-and-turborepo-53pf)
+- [Hitting the Ground Running with HNG Backend Stage 0 🚀](https://dev.to/joshteflon/hitting-the-ground-running-with-hng-backend-stage-0-2a0m)
+- [The Sculptor&#39;s Studio: Carving Modularity from the Rails Monolith](https://dev.to/alex_aslam/the-sculptors-studio-carving-modularity-from-the-rails-monolith-bdf)
+- [My First Dev.to Post: Building Beautiful iOS Apps with SwiftUI](https://dev.to/mirsadra/my-first-devto-post-building-beautiful-ios-apps-with-swiftui-2kgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
