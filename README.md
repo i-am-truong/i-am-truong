@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Wow. This investigation exposes how PPP loan fraud has gone unchecked for too long. Tyler Davis and those involved should be held accountable for misusing taxpayer money.](https://dev.to/kierwolf20/wow-this-investigation-exposes-how-ppp-loan-fraud-has-gone-unchecked-for-too-long-tyler-davis-pgf)
-- [Retirement Planning In Pasadena, CA: A Clear, Local Guide You Can Actually Use](https://dev.to/markwayns/retirement-planning-in-pasadena-ca-a-clear-local-guide-you-can-actually-use-48)
-- [Spatial Data Science: A New Way to Solve Problems](https://dev.to/gisfromscratch/spatial-data-science-a-new-way-to-solve-problems-1cim)
-- [Angular Datepicker v1.3.6: Popovers, Smooth Transitions, and a Pluggable Holiday System! 🎁](https://dev.to/toozuuu/angular-datepicker-v110-popovers-smooth-transitions-and-a-pluggable-holiday-system-4dj9)
-- [Hierarchical Clustering in R: Concepts, Methods, and Real-World Insights](https://dev.to/thedatageek/hierarchical-clustering-in-r-concepts-methods-and-real-world-insights-2kcc)
+- [The Reading Speed Secret That Helps You Remember Jiu Jitsu Moves](https://dev.to/brain_athlete/the-reading-speed-secret-that-helps-you-remember-jiu-jitsu-moves-1d1p)
+- [The 10 Best Interview Copilot Tools for 2026 🤖](https://dev.to/finalroundai/the-10-best-interview-copilot-tools-for-2026-4a8j)
+- [Cause and solution for &quot;Too many re-renders&quot; in useEffect](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-too-many-re-renders-in-useeffect-5hcl)
+- [Balancing Confidence and Imposter Syndrome](https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-311o)
+- [Qlib - 下载数据实操 Download data](https://dev.to/mangoquant/qlib-xia-zai-shu-ju-shi-cao-download-data-52gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
