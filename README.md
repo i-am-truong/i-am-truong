@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Co-worker: How Generative AI is Reshaping the Modern Workplace](https://dev.to/sia_negi21/the-ai-co-worker-how-generative-ai-is-reshaping-the-modern-workplace-afh)
+- [How to Build a Content Marketing Strategy That Actually Works](https://dev.to/hiphype_co_0a139c177aa4ca/how-to-build-a-content-marketing-strategy-that-actually-works-2chp)
 - [Top Claude MCP server integrations you can set up right now](https://dev.to/dronahq/top-claude-mcp-server-integrations-you-can-set-up-right-now-4hhc)
 - [Add Binary Leet Code JavaScript Solution](https://dev.to/abhishek-nexgen-dev/add-binary-leet-code-javascript-solution-2p2c)
 - [How async rhythm replaces the need for constant speed](https://dev.to/koni_jang/how-async-rhythm-replaces-the-need-for-constant-speed-2dc9)
-- [AI forward deployed engineers: The force powering real-world AI adoption](https://dev.to/dronahq/ai-forward-deployed-engineers-the-force-powering-real-world-ai-adoption-3oeo)
-- [Corteiz and the Streetwear Revolution: The Rise of the Corteiz Fleece](https://dev.to/corteiz3332/corteiz-and-the-streetwear-revolution-the-rise-of-the-corteiz-fleece-43fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
