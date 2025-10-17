@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built My Own Service Using Neural Networks Without Knowing Code](https://dev.to/paul_molyanov/i-built-my-own-service-using-neural-networks-without-knowing-code-52ja)
 - [I Just Started Learning to Code — Here&#39;s How I Built My First ‘Vibe Project’](https://dev.to/nomadfounder/i-just-started-learning-to-code-heres-how-i-built-my-first-vibe-project-2847)
 - [The Symphony of One: Conducting Node.js Monorepos with Lerna, Nx, and Turborepo](https://dev.to/alex_aslam/the-symphony-of-one-conducting-nodejs-monorepos-with-lerna-nx-and-turborepo-53pf)
 - [Hitting the Ground Running with HNG Backend Stage 0 🚀](https://dev.to/joshteflon/hitting-the-ground-running-with-hng-backend-stage-0-2a0m)
 - [The Sculptor&#39;s Studio: Carving Modularity from the Rails Monolith](https://dev.to/alex_aslam/the-sculptors-studio-carving-modularity-from-the-rails-monolith-bdf)
-- [My First Dev.to Post: Building Beautiful iOS Apps with SwiftUI](https://dev.to/mirsadra/my-first-devto-post-building-beautiful-ios-apps-with-swiftui-2kgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
