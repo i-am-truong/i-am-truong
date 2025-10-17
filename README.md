@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [`ultrahtml` library in Nitro codebase.](https://dev.to/ramunarasinga-11/ultrahtml-library-in-nitro-codebase-4mb1)
-- [The chronicles of bind method](https://dev.to/amanbhoria/the-chronicles-of-bind-method-1on9)
-- [Confident Refactoring When Money Is on the Line](https://dev.to/_2c78f2211e58fb9c5f4cf/confident-refactoring-when-money-is-on-the-line-fmh)
-- [Gemma 3 + macOS Shortcuts: AI at the Press of a Hotkey](https://dev.to/marta_winiewska_861b124b/gemma-3-macos-shortcuts-ai-at-the-press-of-a-hotkey-4hij)
-- [How to install Git on Ubuntu and push your first repository to GitHub](https://dev.to/walodja1987/how-to-install-git-on-ubuntu-and-push-your-first-repository-to-github-21gl)
+- [Config-Aware Rules in .NET — The Power Feature of Cocoar.Configuration &lpar;Part 2&rpar;](https://dev.to/bwi/config-aware-rules-in-net-the-power-feature-of-cocoarconfiguration-part-2-2ibk)
+- [From Lynqbit to Elf Owl AI: My Journey Building Talking AIs 🐱🦉](https://dev.to/puneetkumar2010/from-lynqbit-to-elf-owl-ai-my-journey-building-talking-ais-46g)
+- [Building a Robust API with Laravel, Clean Architecture, and SOLID Principles](https://dev.to/lfrichter/building-a-robust-api-with-laravel-clean-architecture-and-solid-principles-3jb5)
+- [Blood, Sweat and Tears - When Systems Leave an Entire Generation Behind They Invent Their Own IWU or Law Ecosystem](https://dev.to/okpalan/blood-sweat-and-tears-when-systems-leave-an-entire-generation-behind-they-invent-their-own-iwu-1den)
+- [GeoTeach](https://dev.to/tofu_tofufu_bc1d982db75e0/geoteach-5hnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
