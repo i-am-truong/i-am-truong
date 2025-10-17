@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Developers Can Learn from GameApps.cc: A Technical Teardown](https://dev.to/mufeng/what-developers-can-learn-from-gameappscc-a-technical-teardown-14g6)
-- [Built a CLI app to automate complex daily GIT workflows](https://dev.to/rafmardev/built-a-cli-app-to-automate-complex-daily-git-workflows-2437)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-12mp)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-20fh)
-- [KEXP: Jorja Smith - On My Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-1hj6)
+- [WTF is Service Mesh?](https://dev.to/dailybugle33/wtf-is-service-mesh-1fnn)
+- [Getting Started Building a Data Platform](https://dev.to/jorinvo/getting-started-building-a-data-platform-2kfe)
+- [Untitled](https://dev.to/dev_chauhan_f572a5aba850b/untitled-7lp)
+- [How to Convert a docker-compose file to K8S manifest](https://dev.to/sahithi_v_ea2d0f17149bf0a/how-to-convert-a-docker-compose-file-to-k8s-manifest-2hch)
+- [Mastering the Art of Code Reviews: Strategies for Developers](https://dev.to/mikeover/mastering-the-art-of-code-reviews-strategies-for-developers-5cdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
