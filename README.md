@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Unity Revolutionized Game Development](https://dev.to/guardingpearsoftware/how-unity-revolutionized-game-development-4i32)
+- [How Modern EDI Software is Simplifying Data Integration for Developers and Businesses](https://dev.to/anthony_palomo_f1a9ce7699/how-modern-edi-software-is-simplifying-data-integration-for-developers-and-businesses-1k8i)
+- [From Repetitive to Revolutionary: How AI is Transforming the Project Management Process](https://dev.to/alexrodovit/from-repetitive-to-revolutionary-how-ai-is-transforming-the-project-management-process-4jl3)
 - [Config-Aware Rules in .NET — The Power Feature of Cocoar.Configuration &lpar;Part 2&rpar;](https://dev.to/bwi/config-aware-rules-in-net-the-power-feature-of-cocoarconfiguration-part-2-2ibk)
 - [From Lynqbit to Elf Owl AI: My Journey Building Talking AIs 🐱🦉](https://dev.to/puneetkumar2010/from-lynqbit-to-elf-owl-ai-my-journey-building-talking-ais-46g)
-- [Building a Robust API with Laravel, Clean Architecture, and SOLID Principles](https://dev.to/lfrichter/building-a-robust-api-with-laravel-clean-architecture-and-solid-principles-3jb5)
-- [Blood, Sweat and Tears - When Systems Leave an Entire Generation Behind They Invent Their Own IWU or Law Ecosystem](https://dev.to/okpalan/blood-sweat-and-tears-when-systems-leave-an-entire-generation-behind-they-invent-their-own-iwu-1den)
-- [GeoTeach](https://dev.to/tofu_tofufu_bc1d982db75e0/geoteach-5hnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
