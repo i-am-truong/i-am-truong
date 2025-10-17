@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to do AE and ToneMapping synchronization](https://dev.to/soraye/how-to-do-ae-and-tonemapping-synchronization-27jp)
+- [Balancing Confidence and Imposter Syndrome](https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-4a26)
 - [Decorators in Python](https://dev.to/srinivasuluparanduru/decorators-in-python-1bd3)
 - [Understanding ADHD Coaching: A Path to Clarity, Confidence, and Control](https://dev.to/alif_tgm_f8980739e4e9dfda/understanding-adhd-coaching-a-path-to-clarity-confidence-and-control-360c)
 - [Best Platform to Learn Vue.js If You’re Done Copy-Pasting From Stack Overflow](https://dev.to/dev_loops/best-platform-to-learn-vuejs-if-youre-done-copy-pasting-from-stack-overflow-13nb)
-- [Balancing Confidence and Imposter Syndrome](https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-3aa7)
-- [Implementing Terraform Drift Detection in Your Workflow](https://dev.to/devin-rosario/implementing-terraform-drift-detection-in-your-workflow-56op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
