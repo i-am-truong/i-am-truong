@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity Campus Partner](https://dev.to/prit_patel_3847364eb3f973/perplexity-campus-partner-2ndf)
+- [How To Set Up QR Code Payments in Your App](https://dev.to/flutterwaveeng/how-to-set-up-qr-code-payments-in-your-app-5bja)
 - [📰 Major Tech News: Oct 17th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-17th-2025-462b)
-- [Automation of Multi-Cloud &amp; Hybrid Challenge with Multi Tool](https://dev.to/neamanahmed/automation-of-multi-cloud-hybrid-challenge-with-multi-tool-4f9j)
-- [From Pain Points to Practice: Monorepo Architecture in PawHaven](https://dev.to/aoda-zhang/from-pain-points-to-practice-monorepo-architecture-in-pawhaven-70d)
-- [How I Lost Sleep, Sanity, and My Weekend Deploying a Project That “Worked on My PC” 😭💻](https://dev.to/rolan_r_n_r/how-i-lost-sleep-sanity-and-my-weekend-deploying-a-project-that-worked-on-my-pc-i4l)
-- [How I Finally Understood CSS in Just 7 Days](https://dev.to/ofodile/how-i-finally-understood-css-in-just-7-days-2iic)
+- [Day 66 : Terraform Hands-on project](https://dev.to/udoh_deborah_b1e484c474bf/day-66-terraform-hands-on-project-1kn3)
+- [Interest is the Primary Driving Force](https://dev.to/tripcat/interest-is-the-primary-driving-force-j2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
