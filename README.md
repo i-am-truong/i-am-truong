@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your Website: Diving into Immersive Experiences with WebXR](https://dev.to/karthik_n/level-up-your-website-diving-into-immersive-experiences-with-webxr-1b0j)
+- [C# for the Web: How Microsoft is Reshaping Modern Web Development](https://dev.to/iteyonikservices/c-for-the-web-how-microsoft-is-reshaping-modern-web-development-bfc)
 - [The AI Co-worker: How Generative AI is Reshaping the Modern Workplace](https://dev.to/sia_negi21/the-ai-co-worker-how-generative-ai-is-reshaping-the-modern-workplace-afh)
 - [How to Build a Content Marketing Strategy That Actually Works](https://dev.to/hiphype_co_0a139c177aa4ca/how-to-build-a-content-marketing-strategy-that-actually-works-2chp)
-- [Top Claude MCP server integrations you can set up right now](https://dev.to/dronahq/top-claude-mcp-server-integrations-you-can-set-up-right-now-4hhc)
-- [Add Binary Leet Code JavaScript Solution](https://dev.to/abhishek-nexgen-dev/add-binary-leet-code-javascript-solution-2p2c)
-- [How async rhythm replaces the need for constant speed](https://dev.to/koni_jang/how-async-rhythm-replaces-the-need-for-constant-speed-2dc9)
+- [checkout this article on Unlocking the Power of Interactive Data Visualization with Plotly](https://dev.to/dipti26810/checkout-this-article-on-unlocking-the-power-of-interactive-data-visualization-with-plotly-afc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
