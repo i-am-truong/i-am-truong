@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2754)
+- [IGN: Call of Duty vs. Battlefield: The Last Great Gaming Rivalry](https://dev.to/gg_news/ign-call-of-duty-vs-battlefield-the-last-great-gaming-rivalry-4lod)
+- [Swarm Intelligence: Unlocking AI Understanding Through Mimicry](https://dev.to/arvind_sundararajan/swarm-intelligence-unlocking-ai-understanding-through-mimicry-ei3)
 - [Build an AI Concierge App in ChatGPT](https://dev.to/gabeb03/build-an-ai-concierge-app-in-chatgpt-4gei)
-- [Kiro Did It! – From Prompt to Customer API &amp; UI Using Vibe Coding!](https://dev.to/bhatiagirish/kiro-did-it-from-prompt-to-customer-api-ui-using-vibe-coding-og0)
-- [How to Study Machine Learning with Two Variables](https://dev.to/naur_io/how-to-study-machine-learning-with-two-variables-534p)
-- [Vulnerability Remediation &lpar;Cybersecurity Patch&rpar; by Strengthening Cryptography &amp; Data Protection &lpar;OWASP A02&rpar;](https://dev.to/hassamdev/vulnerability-remediation-cybersecurity-patch-by-strengthening-cryptography-data-protection-17fd)
-- [What is Generative AI For AWS and What is Amazon Bedrock Service? &lpar;Part 1&rpar;](https://dev.to/aws-builders/what-is-generative-ai-for-aws-and-what-is-amazon-bedrock-service-part-1-2m4e)
+- [Understanding SSL and TLS Certificates, Verification, and Exportable Certificates](https://dev.to/rijultp/understanding-ssl-and-tls-certificates-verification-and-exportable-certificates-4k4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
