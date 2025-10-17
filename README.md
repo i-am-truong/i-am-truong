@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The life of a software dev girl: nos bastidores de quase 5 anos no mundo da tecnologia.](https://dev.to/sisouza/the-life-of-a-software-dev-girl-nos-bastidores-de-quase-5-anos-no-mundo-da-tecnologia-1nje)
-- [What You’re Getting Wrong When Building AI Applications in 2025](https://dev.to/kuldeep_paul/what-youre-getting-wrong-when-building-ai-applications-in-2025-360k)
-- [Running Rust Binaries on Shared Hosting: A Practical Approach to Type Safety on a Budget](https://dev.to/andreamancuso/running-rust-binaries-on-shared-hosting-a-practical-approach-to-type-safety-on-a-budget-jmb)
-- [Meet XPathy: The Fluent Java API That Makes Raw XPath Obsolete](https://dev.to/volta_jebaprashanth_ac7af/meet-xpathy-the-fluent-java-api-that-makes-raw-xpath-obsolete-1bnm)
-- [LLPY-14: Evaluación y Métricas de Calidad - Midiendo el Éxito del RAG](https://dev.to/jesus_oviedoriquelme_084/llpy-14-evaluacion-y-metricas-de-calidad-midiendo-el-exito-del-rag-o3k)
+- [Why January 1, 1970 Is the Most Important Date in programming &lpar;And You&#39;ve Probably Never Heard of It&rpar;](https://dev.to/abrahambishopcodes/why-january-1-1970-is-the-most-important-date-in-programming-and-youve-probably-never-heard-of-414i)
+- [Day 17 of #30DaysOfSolidity — Build an Upgradeable Subscription Manager for Your SaaS dApp](https://dev.to/sauravkumar8178/day-17-of-30daysofsolidity-build-an-upgradeable-subscription-manager-for-your-saas-dapp-4egc)
+- [PYTHON BASICS DAY 01](https://dev.to/nazimzizou/python-basics-day-01-49oh)
+- [What Does a Production Support Engineer Actually Do ?](https://dev.to/thekaizen/what-does-a-production-support-engineer-actually-do--20n8)
+- [Things I thought I didn&#39;t need while learning web development &lpar;part 1&rpar;](https://dev.to/holoflash/things-i-thought-i-didnt-need-while-learning-web-development-part-1-25pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
