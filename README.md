@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microkernel Architecture Design Pattern – A First-Person Perspective Introduction](https://dev.to/kishalay_pandey_d5d0cae01f00/microkernel-architecture-design-pattern-a-first-person-perspective-introduction-45g5)
+- [Updates in Python 3.14 Every Developer Should Know](https://dev.to/daya_r1/updates-in-python-314-every-developer-should-know-4on2)
+- [Can I Download Instagram Images in Bulk?](https://dev.to/mirfa_zainab_8b97d351bc0f/can-i-download-instagram-images-in-bulk-4780)
+- [What Type of Data Can I Download from Instagram?](https://dev.to/mirfa_zainab_8b97d351bc0f/what-type-of-data-can-i-download-from-instagram-187l)
 - [Inside Google Jobs Series &lpar;Part 2&rpar;: Cloud Infrastructure &amp; Platforms](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-2-cloud-infrastructure-platforms-3im5)
 - [Spooky CSS Art: A Halloween Haunted House 🎃👻](https://dev.to/aniruddhaadak/spooky-css-art-a-halloween-haunted-house-2dp9)
-- [Auth0 for AI Agents Challenge: Deadline Extended by 1-Week!](https://dev.to/devteam/auth0-for-ai-agents-challenge-deadline-extended-by-1-week-4knk)
-- [Building Together: Celebrating Open Source Community in Hacktoberfest 2025](https://dev.to/aniruddhaadak/building-together-celebrating-open-source-community-in-hacktoberfest-2025-3a5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
