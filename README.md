@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why January 1, 1970 Is the Most Important Date in programming &lpar;And You&#39;ve Probably Never Heard of It&rpar;](https://dev.to/abrahambishopcodes/why-january-1-1970-is-the-most-important-date-in-programming-and-youve-probably-never-heard-of-414i)
-- [Day 17 of #30DaysOfSolidity — Build an Upgradeable Subscription Manager for Your SaaS dApp](https://dev.to/sauravkumar8178/day-17-of-30daysofsolidity-build-an-upgradeable-subscription-manager-for-your-saas-dapp-4egc)
-- [PYTHON BASICS DAY 01](https://dev.to/nazimzizou/python-basics-day-01-49oh)
-- [What Does a Production Support Engineer Actually Do ?](https://dev.to/thekaizen/what-does-a-production-support-engineer-actually-do--20n8)
-- [Things I thought I didn&#39;t need while learning web development &lpar;part 1&rpar;](https://dev.to/holoflash/things-i-thought-i-didnt-need-while-learning-web-development-part-1-25pb)
+- [🚀 Awesome Resources For Learning About System Design ⚡](https://dev.to/truongpx396/awesome-resources-for-learning-about-system-design-4m2n)
+- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-51o4)
+- [Understanding Large Language Models &lpar;LLMs&rpar; and Their Business Applications](https://dev.to/pruthviraj_mahalunge_8090/understanding-large-language-models-llms-and-their-business-applications-4d0h)
+- [Omniscience &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/omniscience-bite-size-article-5fc8)
+- [How I Fixed Lighthouse Score Drops Caused by Google Tag Manager &amp; Analytics](https://dev.to/lovestaco/how-i-fixed-lighthouse-score-drops-caused-by-google-tag-manager-analytics-2anm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
