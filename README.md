@@ -120,11 +120,16 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to do AE and ToneMapping synchronization](https://dev.to/soraye/how-to-do-ae-and-tonemapping-synchronization-27jp)
-- [Balancing Confidence and Imposter Syndrome](https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-4a26)
-- [Decorators in Python](https://dev.to/srinivasuluparanduru/decorators-in-python-1bd3)
-- [Understanding ADHD Coaching: A Path to Clarity, Confidence, and Control](https://dev.to/alif_tgm_f8980739e4e9dfda/understanding-adhd-coaching-a-path-to-clarity-confidence-and-control-360c)
-- [Best Platform to Learn Vue.js If You’re Done Copy-Pasting From Stack Overflow](https://dev.to/dev_loops/best-platform-to-learn-vuejs-if-youre-done-copy-pasting-from-stack-overflow-13nb)
+- [Standing Desk Hacks for a Clutter-Free Setup](https://dev.to/rashedalmaktoum/standing-desk-hacks-for-a-clutter-free-setup-111f)
+- [📌 What you&#39;ll learn: 
+- ⚙️ Why micro-frontends lost their hype 
+- 🧩 When they still make sense in 2025 
+- 🚀 Modular monolith vs micro-frontend 
+- 🛠️ Tooling: Nx, Vite &amp; Module Federation 
+- 📊 Real takeaways for scaling smart](https://dev.to/tahamjp/what-youll-learn-why-micro-frontends-lost-their-hype-when-they-still-make-sense-3ddb)
+- [⚡ Micro-Frontends in 2025: Are They Still Worth It?](https://dev.to/tahamjp/micro-frontends-in-2025-are-they-still-worth-it-23lp)
+- [Did You Run Today?](https://dev.to/tripcat/did-you-run-today-42fp)
+- [MVI interview Questions - 2](https://dev.to/vigneshwaralingam/mvi-interview-questions-2-3e8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
