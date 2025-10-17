@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rotate PDF in Python | PDF Page Rotation](https://dev.to/leondavis1991/rotate-pdf-in-python-pdf-page-rotation-5hl3)
 - [Why every student needs a good friend](https://dev.to/shree_garimavidyamandir/why-every-student-needs-a-good-friend-hi)
 - [Integrating Stripe Payments in Spring Boot: Step-by-Step Beginner’s Guide &lpar;2025&rpar;](https://dev.to/munaf_badarpura_3811f0ab1/integrating-stripe-payments-in-spring-boot-step-by-step-beginners-guide-2025-40oe)
 - [Spring Boot File Upload with Multipart Support: Complete Guide](https://dev.to/munaf_badarpura_3811f0ab1/spring-boot-file-upload-with-multipart-support-complete-guide-o68)
 - [Spring Boot Caching with Redis: Boost Performance with Fast Operations &lpar;2025&rpar;](https://dev.to/munaf_badarpura_3811f0ab1/spring-boot-caching-with-redis-boost-performance-with-fast-operations-2025-1844)
-- [Optimizing Cloud-Native Apps with Effective Kubernetes Deployment Strategies](https://dev.to/supratipb/optimizing-cloud-native-apps-with-effective-kubernetes-deployment-strategies-1gfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
