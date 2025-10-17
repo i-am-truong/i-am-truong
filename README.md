@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity Campus Partner](https://dev.to/prit_patel_3847364eb3f973/perplexity-campus-partner-2ndf)
-- [How To Set Up QR Code Payments in Your App](https://dev.to/flutterwaveeng/how-to-set-up-qr-code-payments-in-your-app-5bja)
-- [📰 Major Tech News: Oct 17th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-17th-2025-462b)
-- [Day 66 : Terraform Hands-on project](https://dev.to/udoh_deborah_b1e484c474bf/day-66-terraform-hands-on-project-1kn3)
-- [Interest is the Primary Driving Force](https://dev.to/tripcat/interest-is-the-primary-driving-force-j2f)
+- [The Best Export for Instagram: Simplifying Data Management with the Instagram Export Tool](https://dev.to/mirfa_zainab_8b97d351bc0f/the-best-export-for-instagram-simplifying-data-management-with-the-instagram-export-tool-73h)
+- [🧠🤖 LangGraph4j Deep Agents &lpar;Agent 2.0&rpar;](https://dev.to/bsorrentino/langgraph4j-deep-agents-agent-20-1d74)
+- [LobeChat: Where Bots Write 23% of the Code and Reviews Take 42 Seconds](https://dev.to/pullflow/lobechat-where-bots-write-23-of-the-code-and-reviews-take-42-seconds-25in)
+- [Amazon Athena: análises SQL diretas no S3 – quando usar, quanto custa e quais os limites](https://dev.to/thiagosagara/amazon-athena-analises-sql-diretas-no-s3-quando-usar-quanto-custa-e-quais-os-limites-4lie)
+- [AI Chatbot Developers: What&#39;s the &quot;Other Safety&quot; We Should Be Thinking About Now? User Protection.](https://dev.to/_768dd7ab130016ab8b0a/ai-chatbot-developers-whats-the-other-safety-we-should-be-thinking-about-now-user-protection-38pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
