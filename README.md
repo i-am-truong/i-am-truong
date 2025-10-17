@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bytearray in Python &lpar;4&rpar;](https://dev.to/hyperkai/bytearray-in-python-4-504h)
+- [Customer Workflow Redesign Update 1](https://dev.to/fingerguns-on-the-keyboard/customer-workflow-redesign-update-1-3mif)
 - [Python basics - Day 09](https://dev.to/ian_b838138a27a917398d181/python-basics-day-09-1go9)
 - [O Que É NGINX e Como Ele Funciona?](https://dev.to/ikauedev/o-que-e-nginx-e-como-ele-funciona-1727)
 - [The Future Isn&#39;t Machines. It&#39;s Algorithms](https://dev.to/marikinyo/the-future-isnt-machines-its-algorithms-3d74)
-- [My First API Just Broke &lpar;And That Was the Point&rpar;](https://dev.to/titilola_olaitan/my-first-api-just-broke-and-that-was-the-point-337k)
-- [Untitled](https://dev.to/dennis_bc46e72066dfbe72a4/untitled-5om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
