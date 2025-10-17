@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3mjc)
-- [Long Long Ago — The History of Generative AI](https://dev.to/neha/long-long-ago-the-history-of-generative-ai-5dmm)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1h8k)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-4l19)
-- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-5f4n)
+- [Microkernel Architecture Design Pattern – A First-Person Perspective Introduction](https://dev.to/kishalay_pandey_d5d0cae01f00/microkernel-architecture-design-pattern-a-first-person-perspective-introduction-45g5)
+- [Inside Google Jobs Series &lpar;Part 2&rpar;: Cloud Infrastructure &amp; Platforms](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-2-cloud-infrastructure-platforms-3im5)
+- [Spooky CSS Art: A Halloween Haunted House 🎃👻](https://dev.to/aniruddhaadak/spooky-css-art-a-halloween-haunted-house-2dp9)
+- [Auth0 for AI Agents Challenge: Deadline Extended by 1-Week!](https://dev.to/devteam/auth0-for-ai-agents-challenge-deadline-extended-by-1-week-4knk)
+- [Building Together: Celebrating Open Source Community in Hacktoberfest 2025](https://dev.to/aniruddhaadak/building-together-celebrating-open-source-community-in-hacktoberfest-2025-3a5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
