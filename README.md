@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎓 Building a Smart LMS Assistant: RAG System with Pinecone for Multi-Source Learning Data](https://dev.to/qvfagundes/building-a-smart-lms-assistant-rag-system-with-pinecone-for-multi-source-learning-data-320k)
+- [on device models and how they work in the browser thanks to web assembly and webgpu](https://dev.to/aileenvl/on-device-models-and-how-they-work-in-the-browser-thanks-to-web-assembly-and-webgpu-5bo6)
 - [🚀 Awesome Resources For Learning About System Design ⚡](https://dev.to/truongpx396/awesome-resources-for-learning-about-system-design-4m2n)
 - [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-51o4)
 - [Understanding Large Language Models &lpar;LLMs&rpar; and Their Business Applications](https://dev.to/pruthviraj_mahalunge_8090/understanding-large-language-models-llms-and-their-business-applications-4d0h)
-- [Omniscience &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/omniscience-bite-size-article-5fc8)
-- [How I Fixed Lighthouse Score Drops Caused by Google Tag Manager &amp; Analytics](https://dev.to/lovestaco/how-i-fixed-lighthouse-score-drops-caused-by-google-tag-manager-analytics-2anm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
