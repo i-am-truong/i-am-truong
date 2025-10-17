@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Git Through Real Practice, Not Simulators](https://dev.to/gitpathdev/learn-git-through-real-practice-not-simulators-2o5i)
-- [🎓 Building a Smart LMS Assistant: RAG System with Pinecone for Multi-Source Learning Data](https://dev.to/qvfagundes/building-a-smart-lms-assistant-rag-system-with-pinecone-for-multi-source-learning-data-320k)
-- [on device models and how they work in the browser thanks to web assembly and webgpu](https://dev.to/aileenvl/on-device-models-and-how-they-work-in-the-browser-thanks-to-web-assembly-and-webgpu-5bo6)
-- [🚀 Awesome Resources For Learning About System Design ⚡](https://dev.to/truongpx396/awesome-resources-for-learning-about-system-design-4m2n)
-- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-51o4)
+- [Kiro Did It! – From Prompt to Customer API &amp; UI Using Vibe Coding!](https://dev.to/bhatiagirish/kiro-did-it-from-prompt-to-customer-api-ui-using-vibe-coding-og0)
+- [How to Study Machine Learning with Two Variables](https://dev.to/naur_io/how-to-study-machine-learning-with-two-variables-534p)
+- [Vulnerability Remediation &lpar;Cybersecurity Patch&rpar; by Strengthening Cryptography &amp; Data Protection &lpar;OWASP A02&rpar;](https://dev.to/hassamdev/vulnerability-remediation-cybersecurity-patch-by-strengthening-cryptography-data-protection-17fd)
+- [What is Generative AI For AWS and What is Amazon Bedrock Service? &lpar;Part 1&rpar;](https://dev.to/aws-builders/what-is-generative-ai-for-aws-and-what-is-amazon-bedrock-service-part-1-2m4e)
+- [Iterators - A Deep Dive into Lazy, Composable Processing](https://dev.to/rpunkfu/iterators-a-deep-dive-into-lazy-composable-processing-4p7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
