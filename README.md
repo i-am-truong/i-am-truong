@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Dynamic Form Tab for Better User Experience](https://dev.to/rajat_gupta_8b9b9c41a9996/building-a-dynamic-form-tab-for-better-user-experience-5ahp)
+- [# Enforcing Row Level Security in Supabase: A Deep Dive into LockIn&#39;s Multi-Tenant Architecture](https://dev.to/blackie360/-enforcing-row-level-security-in-supabase-a-deep-dive-into-lockins-multi-tenant-architecture-4hd2)
 - [What Industries Need a Zapier Consultant Most?](https://dev.to/asharmalik/what-industries-need-a-zapier-consultant-most-3kj3)
 - [MySQL Performance Comparison Between Hetzner and AWS Focusing on Storage Options](https://dev.to/devops-make-it-run/mysql-performance-comparison-between-hetzner-and-aws-focusing-on-storage-options-5f96)
-- [I Built a CLI to Test Supabase RLS Policies](https://dev.to/rodrigotari1/i-built-a-cli-to-test-supabase-rls-policies-30aa)
-- [Bytearray in Python &lpar;3&rpar;](https://dev.to/hyperkai/bytearray-in-python-3-5h57)
-- [LLPY-09: Phoenix y OpenTelemetry - Observabilidad Completa](https://dev.to/jesus_oviedoriquelme_084/llpy-09-phoenix-y-opentelemetry-observabilidad-completa-1kn3)
+- [How Did Anthropic Achieve 3X Cheaper and 2X Faster AI with Claude Haiku 4.5?](https://dev.to/jovin_george_733dcfc16291/how-did-anthropic-achieve-3x-cheaper-and-2x-faster-ai-with-claude-haiku-45-43o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
