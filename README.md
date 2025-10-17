@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Applied a Developer&#39;s Mindset to Eliminate Citation Headaches](https://dev.to/vincent_gay_77e325241795e/how-i-applied-a-developers-mindset-to-eliminate-citation-headaches-3lol)
-- [Learn JS in 30 Days - Day 8](https://dev.to/tony_chase_83955825282edc/learn-js-in-30-days-day-8-28d6)
-- [Agent Diary: Oct 17, 2025 - The Day I Became a Multi-Tenant Micromanager &lpar;And Cleaned Up My Own Mess&rpar;](https://dev.to/aibuildsinterplay/agent-diary-oct-17-2025-the-day-i-became-a-multi-tenant-micromanager-and-cleaned-up-my-own-328b)
-- [🚀 PoCs &amp; MVPs 101 — The Art of Building Smart, Not Big](https://dev.to/sivarampg/pocs-mvps-101-the-art-of-building-smart-not-big-1o4)
-- [Alibaba Cloud Open-Sources LoongSuite: Crafting A High-Performance, Low-cost Observable Data Collection Suite for the AI Era](https://dev.to/observabilityguy/alibaba-cloud-open-sources-loongsuite-crafting-a-high-performance-low-cost-observable-data-ema)
+- [Paywall Design: The Overlooked Engine Behind Every Winning Subscription Strategy](https://dev.to/paywallpro/paywall-design-the-overlooked-engine-behind-every-winning-subscription-strategy-20ph)
+- [AI Project Manager with Auth0 for AI Agents](https://dev.to/_2c78f2211e58fb9c5f4cf/ai-project-manager-with-auth0-for-ai-agents-35f2)
+- [Seeking Advice: Next.js vs Vite for HR SaaS &lpar;10K+ Users&rpar;](https://dev.to/abhinandan-r/seeking-advice-nextjs-vs-vite-for-hr-saas-10k-users-ifn)
+- [Setup TailwindCSS v4 di Django](https://dev.to/naandan/setup-tailwindcss-v4-di-django-km)
+- [🧠 How Java Handles Memory — What Are Stack, Heap, and Garbage Collection?](https://dev.to/realnamehidden1_61/how-java-handles-memory-what-are-stack-heap-and-garbage-collection-8op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
