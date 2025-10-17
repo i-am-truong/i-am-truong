@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to write reviewer-friendly pull requests](https://dev.to/nicooprat/how-to-write-reviewer-friendly-pull-requests-16aj)
-- [Stakeholder Engagement Plan: Ensuring Collaboration and Transparency](https://dev.to/writegenic/stakeholder-engagement-plan-ensuring-collaboration-and-transparency-11ei)
-- [🚀 Supermaker ai — Build AI-Powered Apps in Minutes, Not Weeks](https://dev.to/juddiy/supermaker-ai-build-ai-powered-apps-in-minutes-not-weeks-3nen)
-- [Enhancing Efficiency: The Importance of Freight Logistics Services](https://dev.to/ayesha-diaz/enhancing-efficiency-the-importance-of-freight-logistics-services-4l0b)
-- [Kubernetes Capacity Planning Kubernetes Capacity Planning Playbook: How to Balance Performance, Stability, and Cost](https://dev.to/cloudpilot-ai/kubernetes-capacity-planning-kubernetes-capacity-planning-playbook-how-to-balance-performance-45o9)
+- [What Developers Can Learn from GameApps.cc: A Technical Teardown](https://dev.to/mufeng/what-developers-can-learn-from-gameappscc-a-technical-teardown-14g6)
+- [Built a CLI app to automate complex daily GIT workflows](https://dev.to/rafmardev/built-a-cli-app-to-automate-complex-daily-git-workflows-2437)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-12mp)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-20fh)
+- [KEXP: Jorja Smith - On My Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-1hj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
