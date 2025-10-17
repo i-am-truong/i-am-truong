@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HNG 13 Backend Stage 0 – Building a Simple API with Node.js and Express](https://dev.to/trayshmhirk/hng-13-backend-stage-0-building-a-simple-api-with-nodejs-and-express-3k55)
-- [Medical Billing Attorneys: How They Fight Unfair Charges, Denials, and Debt](https://dev.to/alicemare/medical-billing-attorneys-how-they-fight-unfair-charges-denials-and-debt-195f)
-- [Introduction to Pytorch](https://dev.to/thatmlguy/introduction-to-pytorch-4k4o)
-- [From AI chaos to clean code](https://dev.to/croffasia/from-ai-chaos-to-clean-code-f39)
-- [How do you decide whether a new tool is worth adopting for your team?](https://dev.to/clariti_22_6e89b280ccd102/how-do-you-decide-whether-a-new-tool-is-worth-adopting-for-your-team-1d6a)
+- [Getting Started with GQLoom - Building GraphQL Server Applications with Zod + Drizzle](https://dev.to/xcfox/getting-started-with-gqloom-building-graphql-server-applications-with-zod-drizzle-423o)
+- [When “Just Routing” Wasted 2 Days My Multi-Region Lesson](https://dev.to/techwithhari/when-just-routing-wasted-2-days-my-multi-region-lesson-5gl1)
+- [How Developers Can Maximize Productivity in 2025?](https://dev.to/anuj_tomar_8a2d1eb5069642/how-developers-can-maximize-productivity-in-2025-4a3g)
+- [[Boost]](https://dev.to/hadil/-1cfe)
+- [Lukas Niessen: From Architect to Founder to Reinventor - The Lukas Niessen Story and Lessons for Indian Startups](https://dev.to/sundardragai/lukas-niessen-from-architect-to-founder-to-reinventor-the-lukas-niessen-story-and-lessons-for-20hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
