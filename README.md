@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Dynamic Form Tab for Better User Experience](https://dev.to/rajat_gupta_8b9b9c41a9996/building-a-dynamic-form-tab-for-better-user-experience-5ahp)
-- [# Enforcing Row Level Security in Supabase: A Deep Dive into LockIn&#39;s Multi-Tenant Architecture](https://dev.to/blackie360/-enforcing-row-level-security-in-supabase-a-deep-dive-into-lockins-multi-tenant-architecture-4hd2)
-- [What Industries Need a Zapier Consultant Most?](https://dev.to/asharmalik/what-industries-need-a-zapier-consultant-most-3kj3)
-- [MySQL Performance Comparison Between Hetzner and AWS Focusing on Storage Options](https://dev.to/devops-make-it-run/mysql-performance-comparison-between-hetzner-and-aws-focusing-on-storage-options-5f96)
-- [How Did Anthropic Achieve 3X Cheaper and 2X Faster AI with Claude Haiku 4.5?](https://dev.to/jovin_george_733dcfc16291/how-did-anthropic-achieve-3x-cheaper-and-2x-faster-ai-with-claude-haiku-45-43o8)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4pl7)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-mnh)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-4m5f)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3ni2)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-5f8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
