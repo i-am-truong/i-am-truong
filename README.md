@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Applications. Part 2 - Distributed Design Patterns](https://dev.to/lostghost/distributed-applications-part-2-distributed-design-patterns-2f38)
 - [Why Can’t I Download Some Instagram Images?](https://dev.to/mirfa_zainab_8b97d351bc0f/why-cant-i-download-some-instagram-images-17i0)
 - [Supercharge Your Laravel App: Caching, Queues &amp; Performance](https://dev.to/devtalk94/supercharge-your-laravel-app-caching-queues-performance-4435)
 - [Rank your design options, get A/B feedback, and collect real testimonials](https://dev.to/pablo_santana/rank-your-design-options-get-ab-feedback-and-collect-real-testimonials-4e35)
 - [Will the Quality of Photos and Videos Be Reduced When Downloading from Instagram?](https://dev.to/mirfa_zainab_8b97d351bc0f/will-the-quality-of-photos-and-videos-be-reduced-when-downloading-from-instagram-5500)
-- [Getting Started with Tamagui: A Complete Guide to Modern React Native Styling](https://dev.to/cathylai/getting-started-with-tamagui-a-complete-guide-to-modern-react-native-styling-3fff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
