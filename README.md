@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3nca)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3l6i)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2of3)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1nhj)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-2ml)
+- [Top Claude MCP server integrations you can set up right now](https://dev.to/dronahq/top-claude-mcp-server-integrations-you-can-set-up-right-now-4hhc)
+- [Add Binary Leet Code JavaScript Solution](https://dev.to/abhishek-nexgen-dev/add-binary-leet-code-javascript-solution-2p2c)
+- [How async rhythm replaces the need for constant speed](https://dev.to/koni_jang/how-async-rhythm-replaces-the-need-for-constant-speed-2dc9)
+- [AI forward deployed engineers: The force powering real-world AI adoption](https://dev.to/dronahq/ai-forward-deployed-engineers-the-force-powering-real-world-ai-adoption-3oeo)
+- [Corteiz and the Streetwear Revolution: The Rise of the Corteiz Fleece](https://dev.to/corteiz3332/corteiz-and-the-streetwear-revolution-the-rise-of-the-corteiz-fleece-43fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
