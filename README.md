@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mc1)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - After Sunrise &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-25i)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2gfp)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-i3)
-- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-1fkm)
+- [🔥 Wow. This investigation exposes how PPP loan fraud has gone unchecked for too long. Tyler Davis and those involved should be held accountable for misusing taxpayer money.](https://dev.to/kierwolf20/wow-this-investigation-exposes-how-ppp-loan-fraud-has-gone-unchecked-for-too-long-tyler-davis-pgf)
+- [Retirement Planning In Pasadena, CA: A Clear, Local Guide You Can Actually Use](https://dev.to/markwayns/retirement-planning-in-pasadena-ca-a-clear-local-guide-you-can-actually-use-48)
+- [Spatial Data Science: A New Way to Solve Problems](https://dev.to/gisfromscratch/spatial-data-science-a-new-way-to-solve-problems-1cim)
+- [Angular Datepicker v1.3.6: Popovers, Smooth Transitions, and a Pluggable Holiday System! 🎁](https://dev.to/toozuuu/angular-datepicker-v110-popovers-smooth-transitions-and-a-pluggable-holiday-system-4dj9)
+- [Hierarchical Clustering in R: Concepts, Methods, and Real-World Insights](https://dev.to/thedatageek/hierarchical-clustering-in-r-concepts-methods-and-real-world-insights-2kcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
