@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Libras Recognizer with Artificial Intelligence and Teachable Machine](https://dev.to/giovanni786/creating-a-libras-recognizer-with-artificial-intelligence-and-teachable-machine-4npa)
 - [Excelize 2.10.0 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-2100-released-powerful-open-source-library-for-spreadsheet-excel-document-4pb7)
+- [Day 11 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-11-of-my-ai-data-mastery-journey-from-python-to-generative-ai-395m)
+- [Nuxt 3 + Supabase: targetUserId undefined in Chat Component](https://dev.to/zyppon/nuxt-3-supabase-targetuserid-undefined-in-chat-component-2a1f)
 - [LLM Brand Visibility Analyzer: Making AI Search Transparency Accessible to Every Brand](https://dev.to/pratham_naik_project_manager/llm-brand-visibility-analyzer-making-ai-search-transparency-accessible-to-every-brand-3g2j)
-- [Manage WordPress Plugin Licenses Seamlessly While Hosting on GitHub with WooPress License Hub](https://dev.to/reygcalantaol/manage-wordpress-plugin-licenses-seamlessly-while-hosting-on-github-with-woopress-license-hub-3lg7)
-- [Prompt Engineering vs Coding: Which One Wins in 2030?](https://dev.to/jaideepparashar/prompt-engineering-vs-coding-which-one-wins-in-2030-4p4l)
-- [Solo Founder of AIKTP &lpar;AI SEO &amp; Content Automation&rpar;](https://dev.to/openaicookbook/solo-founder-of-aiktp-ai-seo-content-automation-3c50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
