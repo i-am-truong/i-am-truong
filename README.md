@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I don&#39;t understand why my Minimal API doesn&#39;t bring up swagger](https://dev.to/rodf/i-dont-understand-why-my-minimal-api-doesnt-bring-up-swagger-ldc)
-- [Comment télécharger facilement des workflows n8n gratuitement](https://dev.to/babi_mumba_e6269fe8949856/comment-telecharger-facilement-des-workflows-n8n-gratuitement-3h08)
-- [KEXP: Car Seat Headrest - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-full-performance-live-on-kexp-4c1h)
-- [IGN: Vampire: The Masquerade - Bloodlines 2: First 12 Minutes of Gameplay](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2-first-12-minutes-of-gameplay-4nh4)
-- [Unlocking Model Fusion: Sharper Merges Through Subspace Purification](https://dev.to/arvind_sundararajan/unlocking-model-fusion-sharper-merges-through-subspace-purification-29o9)
+- [My First API Just Broke &lpar;And That Was the Point&rpar;](https://dev.to/titilola_olaitan/my-first-api-just-broke-and-that-was-the-point-337k)
+- [Why Darkweb Marketplace Reviews Cannot Always Be Trusted](https://dev.to/tor_bbb/why-darkweb-marketplace-reviews-cannot-always-be-trusted-dga)
+- [HNG Internship Stage 0: Building a Profile API with Cat Facts](https://dev.to/abisoyeo/hng-internship-stage-0-building-a-profile-api-with-cat-facts-58ak)
+- [Hi, guys! I&#39;m happy to introduce you my first series of articles about Kotlin!
+I&#39;d like to ask you to read it and give me feedback how do you feel about it ;D](https://dev.to/4wl2d/hi-guys-im-happy-to-introduce-you-my-first-series-of-articles-about-kotlin-id-like-to-ask-you-4bj7)
+- [Kotlin Efficiency: Code Smarter, Not Harder - Typealias](https://dev.to/4wl2d/kotlin-efficiency-code-smarter-not-harder-typealias-5c3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
