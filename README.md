@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I don&#39;t understand why my Minimal API doesn&#39;t bring up swagger](https://dev.to/rodf/i-dont-understand-why-my-minimal-api-doesnt-bring-up-swagger-ldc)
 - [Comment télécharger facilement des workflows n8n gratuitement](https://dev.to/babi_mumba_e6269fe8949856/comment-telecharger-facilement-des-workflows-n8n-gratuitement-3h08)
 - [KEXP: Car Seat Headrest - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-full-performance-live-on-kexp-4c1h)
 - [IGN: Vampire: The Masquerade - Bloodlines 2: First 12 Minutes of Gameplay](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2-first-12-minutes-of-gameplay-4nh4)
 - [Unlocking Model Fusion: Sharper Merges Through Subspace Purification](https://dev.to/arvind_sundararajan/unlocking-model-fusion-sharper-merges-through-subspace-purification-29o9)
-- [Why I Rewrote Nocta CLI in Rust &lpar;Even Though I Didn&#39;t Need To&rpar;](https://dev.to/66hex/why-i-rewrote-nocta-cli-in-rust-even-though-i-didnt-need-to-1hmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
