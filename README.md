@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Applications. Part 2 - Distributed Design Patterns](https://dev.to/lostghost/distributed-applications-part-2-distributed-design-patterns-2f38)
-- [Why Can’t I Download Some Instagram Images?](https://dev.to/mirfa_zainab_8b97d351bc0f/why-cant-i-download-some-instagram-images-17i0)
-- [Supercharge Your Laravel App: Caching, Queues &amp; Performance](https://dev.to/devtalk94/supercharge-your-laravel-app-caching-queues-performance-4435)
-- [Rank your design options, get A/B feedback, and collect real testimonials](https://dev.to/pablo_santana/rank-your-design-options-get-ab-feedback-and-collect-real-testimonials-4e35)
-- [Will the Quality of Photos and Videos Be Reduced When Downloading from Instagram?](https://dev.to/mirfa_zainab_8b97d351bc0f/will-the-quality-of-photos-and-videos-be-reduced-when-downloading-from-instagram-5500)
+- [Node.js Malware Protection: 10 Best Practices That Protected Our Applications Against Stealit](https://dev.to/mehul_budasana/nodejs-malware-protection-10-best-practices-that-protected-our-applications-against-stealit-27de)
+- [Can Follower Lookup Tools Detect Fake Followers?](https://dev.to/mirfa_zainab_8b97d351bc0f/can-follower-lookup-tools-detect-fake-followers-4f3e)
+- [Day 7 of documentating my learning journey](https://dev.to/james_kabuga/day-7-of-documentating-my-learning-journey-21lc)
+- [How Does Scraping Instagram Help in Marketing?](https://dev.to/mirfa_zainab_8b97d351bc0f/how-does-scraping-instagram-help-in-marketing-e32)
+- [What Is a Storage Bucket in Cloud Computing? Explained with a Simple Analogy](https://dev.to/natarajan_c_k/what-is-a-storage-bucket-in-cloud-computing-explained-with-a-simple-analogy-1g5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
