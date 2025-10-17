@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Git Branching Strategies: Finding the Right Fit for Your Team](https://dev.to/trinitezinsou/mastering-git-branching-strategies-finding-the-right-fit-for-your-team-4p2n)
-- [Improving Binary Security in Mobile Application: A Deep Dive into Obfuscation](https://dev.to/jocanola/improving-binary-security-in-mobile-application-a-deep-dive-into-obfuscation-58n2)
-- [🔥🚨 Global Crypto Regulations Are Heating Up!💥](https://dev.to/endeo/global-crypto-regulations-are-heating-up-33c5)
-- [Adding a new feature to vscode-pets project](https://dev.to/oleksandrakordonets/adding-a-new-feature-to-vscode-pets-project-221f)
-- [I Built My Own Service Using Neural Networks Without Knowing Code](https://dev.to/paul_molyanov/i-built-my-own-service-using-neural-networks-without-knowing-code-52ja)
+- [IGN: Vampire: The Masquerade - Bloodlines 2: First 12 Minutes of Gameplay](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2-first-12-minutes-of-gameplay-4nh4)
+- [IGN: Call of Duty: Black Ops 6 and Warzone - Official The Haunting: Predator Badlands Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-6-and-warzone-official-the-haunting-predator-badlands-trailer-4hn1)
+- [Unlocking Model Fusion: Sharper Merges Through Subspace Purification](https://dev.to/arvind_sundararajan/unlocking-model-fusion-sharper-merges-through-subspace-purification-29o9)
+- [Why I Rewrote Nocta CLI in Rust &lpar;Even Though I Didn&#39;t Need To&rpar;](https://dev.to/66hex/why-i-rewrote-nocta-cli-in-rust-even-though-i-didnt-need-to-1hmd)
+- [Moving a Domain to Another Registrar](https://dev.to/djangotricks/moving-a-domain-to-another-registrar-e5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
