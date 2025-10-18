@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Redis Commander with Docker and Apple Silicon](https://dev.to/darkmavis1980/redis-commander-with-docker-and-apple-silicon-2a5m)
-- [How to Deploy a Laravel API Easily Using Render](https://dev.to/version_control_dev/how-to-deploy-a-laravel-api-easily-using-render-59lh)
-- [🌿 About Me — Huynh Nhan Quoc](https://dev.to/huynhnhanquoc/about-me-huynh-nhan-quoc-4p7g)
-- [Cómo diseñar una API – guía práctica y escalable](https://dev.to/arturoatomplay/como-disenar-una-api-guia-practica-y-escalable-4ano)
-- [Are You Using Interfaces the Right Way?](https://dev.to/minuth/are-you-using-interfaces-the-right-way-24f7)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-1b9o)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-10ok)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-45l1)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5dbc)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-3a76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
