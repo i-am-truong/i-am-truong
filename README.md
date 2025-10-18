@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s been an amazing journey learning HTML, Tailwind CSS, and JavaScript. Looking forward to building more experience on my journey as a UI/UX developer.](https://dev.to/chiamaka_nwankwo_3704a3bf/its-been-an-amazing-journey-learning-html-tailwind-css-and-javascript-looking-forward-to-2dlh)
 - [I Was a 21-Year-Old CTO: Here&#39;s Why I Walked Away](https://dev.to/franciscolunadev82/i-was-a-21-year-old-cto-heres-why-i-walked-away-2eci)
 - [FastAPI &amp; PostgreSQL Sharding: A Step-by-Step Guide &lpar;Part 2&rpar; - Step-by-Step Implementation](https://dev.to/artemooon/fastapi-postgresql-sharding-a-step-by-step-guide-part-2-step-by-step-implementation-49k6)
 - [API-Mocker Hits 5.38K Downloads: The Open Source API Development Platform That&#39;s Changing How Developers Mock APIs](https://dev.to/vision2030/api-mocker-hits-538k-downloads-the-open-source-api-development-platform-thats-changing-how-24il)
 - [You&#39;re Making Your HTTP Requests Wrong in Laravel &lpar;And It&#39;s Costing You Performance&rpar;](https://dev.to/devtalk94/youre-making-your-http-requests-wrong-in-laravel-and-its-costing-you-performance-48md)
-- [Dev Log 33 - Liquid Entry &amp; Landing Page](https://dev.to/asx/dev-log-33-liquid-entry-landing-page-1nld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
