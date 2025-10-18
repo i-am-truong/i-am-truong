@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Applying Object Relational Mapping &lpar;ORM&rpar; on a C# .NET application](https://dev.to/raziq_din_bd0274cc2ac748b/applying-object-relational-mapping-orm-on-a-c-net-application-54g1)
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-53l0)
-- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-57hd)
-- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-573)
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Aged, But Still A Fine Wine - Review](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-aged-but-still-a-fine-wine-review-2c9o)
+- [AI Checkout and Agent Commerce: The Future of How We Shop](https://dev.to/gruve_abby_2bb4e7e1499283/ai-checkout-and-agent-commerce-the-future-of-how-we-shop-4a45)
+- [Beyond the Follow: 5 Surprising Truths About Building a True Brand Community](https://dev.to/web4/beyond-the-follow-5-surprising-truths-about-building-a-true-brand-community-4cil)
+- [Day 7: Tracking the Final Floor, Up, Down, and Logic All Around!](https://dev.to/shahrouzlogs/day-7-tracking-the-final-floor-up-down-and-logic-all-around-48f2)
+- [Have you ever struggled with generating invoices programmatically?](https://dev.to/kiran_vora_77ab80ddc6fbf1/have-you-ever-struggled-with-generating-invoices-programmatically-5c1a)
+- [Mastering Rsync: Your Essential Guide to Linux File Synchronization](https://dev.to/shahjalalbu/mastering-rsync-your-essential-guide-to-linux-file-synchronization-jno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
