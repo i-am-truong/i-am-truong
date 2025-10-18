@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎲 How I Built &quot;Game 21 — Cheburashka &amp; Gena&quot; in Python + Tkinter](https://dev.to/devforge/how-i-built-game-21-cheburashka-gena-in-python-tkinter-21mh)
+- [I have started learning C#](https://dev.to/yloa/i-have-started-learning-c-4ck)
+- [Understanding CSRF: How Cross‑Site Request Forgery Works and How to Prevent It](https://dev.to/samleung/web-security-101-understanding-csrf-how-cross-site-request-forgery-works-and-how-to-prevent-it-3a06)
+- [Running a Redis Sandbox Entirely in Your Browser](https://dev.to/weboont/running-a-redis-sandbox-entirely-in-your-browser-36l4)
+- [🎲 Game 21 — Cheburashka &amp; Gena](https://dev.to/devforge/how-i-built-game-21-cheburashka-gena-in-python-tkinter-21mh)
 - [AWS Resource Tagging - A Practical Blog for Developers](https://dev.to/kishore_karumanchi_acbc18/aws-resource-tagging-a-practical-blog-for-developers-4j7m)
-- [Stop Undervaluing Your Work: Let AI Price Your Projects Right 💡](https://dev.to/shahdeep/stop-undervaluing-your-work-let-ai-price-your-projects-right-b47)
-- [Getting Started with Laravel.](https://dev.to/nelson_orina_a538ba52e9ed/getting-started-with-laravel-4l9l)
-- [I built a Next.js + AI app that turns any book into a character map](https://dev.to/olivier_delfosse_6df9f498/i-built-a-nextjs-ai-app-that-turns-any-book-into-a-character-map-49h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
