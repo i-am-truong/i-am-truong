@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Efficient Database Caching Strategies for High-Traffic Web Applications](https://dev.to/dowerdev/implementing-efficient-database-caching-strategies-for-high-traffic-web-applications-3n4j)
-- [Understanding Type Coercion in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-type-coercion-in-javascript-beginners-guide-18oh)
-- [Taming Folder Chaos: Building a Simple Python CLI for Auto File Organization](https://dev.to/ahmedul_kabir_a24bca9546f/taming-folder-chaos-building-a-simple-python-cli-for-auto-file-organization-1hne)
-- [Automating Jasmine Tests with GitHub Actions for Continuous Integration](https://dev.to/henry_messiahtmt_099ca84/automating-jasmine-tests-with-github-actions-for-continuous-integration-53gn)
-- [From Portfolio to Working Room: shipping client work in one place](https://dev.to/harris_do_a856314aea4024d/from-portfolio-to-working-room-shipping-client-work-in-one-place-4pim)
+- [🎲 How I Built &quot;Game 21 — Cheburashka &amp; Gena&quot; in Python + Tkinter](https://dev.to/devforge/how-i-built-game-21-cheburashka-gena-in-python-tkinter-21mh)
+- [AWS Resource Tagging - A Practical Blog for Developers](https://dev.to/kishore_karumanchi_acbc18/aws-resource-tagging-a-practical-blog-for-developers-4j7m)
+- [Stop Undervaluing Your Work: Let AI Price Your Projects Right 💡](https://dev.to/shahdeep/stop-undervaluing-your-work-let-ai-price-your-projects-right-b47)
+- [Getting Started with Laravel.](https://dev.to/nelson_orina_a538ba52e9ed/getting-started-with-laravel-4l9l)
+- [I built a Next.js + AI app that turns any book into a character map](https://dev.to/olivier_delfosse_6df9f498/i-built-a-nextjs-ai-app-that-turns-any-book-into-a-character-map-49h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
