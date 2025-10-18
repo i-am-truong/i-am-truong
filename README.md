@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Tech &amp; Coding Journey](https://dev.to/ekopteach/my-tech-coding-journey-1ad3)
+- [🗂️ Accessing Remote Files Seamlessly with SSHFS](https://dev.to/ernesto_malave_285068a60e/accessing-remote-files-seamlessly-with-sshfs-46bl)
+- [Team project 1](https://dev.to/johnphan2408/team-project-1-6c1)
 - [The Special Protocols Room: Magic Methods and Operator Overloading](https://dev.to/aaron_rose_0787cc8b4775a0/the-special-protocols-room-magic-methods-and-operator-overloading-4amk)
 - [Cross-posting to DEV responsibly: canonical + summary + image SEO &lpar;quick playbook&rpar;](https://dev.to/champetsfamily/cross-posting-to-dev-responsibly-canonical-summary-image-seo-quick-playbook-53o0)
-- [Enforcing API Correctness: Automated Contract Testing with OpenAPI and Dredd](https://dev.to/r3d_cr0wn/enforcing-api-correctness-automated-contract-testing-with-openapi-and-dredd-2212)
-- [Building Roblox Games with Kiro: A Spec-Driven Development Approach](https://dev.to/kirodotdev/building-roblox-games-with-kiro-a-spec-driven-development-approach-3c8p)
-- [Understanding OLED Displays: How They Work and Why They Matter in Modern Devices](https://dev.to/kevinzhang109/understanding-oled-displays-how-they-work-and-why-they-matter-in-modern-devices-5j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
