@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Was a 21-Year-Old CTO: Here&#39;s Why I Walked Away](https://dev.to/franciscolunadev82/i-was-a-21-year-old-cto-heres-why-i-walked-away-2eci)
 - [FastAPI &amp; PostgreSQL Sharding: A Step-by-Step Guide &lpar;Part 2&rpar; - Step-by-Step Implementation](https://dev.to/artemooon/fastapi-postgresql-sharding-a-step-by-step-guide-part-2-step-by-step-implementation-49k6)
-- [🧠 Building an Accessible Currency Detector for the Sri Lankan Visually Impaired with YOLOv8, ESP32-CAM &amp; Audio Feedback](https://dev.to/mohamed-riham/building-an-accessible-currency-detector-for-the-sri-lankan-visually-impaired-with-yolov8-3flc)
-- [Level Up Your DTOs: Pro Techniques for the Symfony ObjectMapper](https://dev.to/mattleads/level-up-your-dtos-pro-techniques-for-the-symfony-objectmapper-5c1a)
-- [I Tried Dozens of Udemy Python Courses — These 5 Instructors Are the Best](https://dev.to/somadevtoo/i-tried-dozens-of-udemy-python-courses-these-5-instructors-are-the-best-22bd)
-- [What I self host](https://dev.to/fredrikmeyer/what-i-self-host-ani)
+- [API-Mocker Hits 5.38K Downloads: The Open Source API Development Platform That&#39;s Changing How Developers Mock APIs](https://dev.to/vision2030/api-mocker-hits-538k-downloads-the-open-source-api-development-platform-thats-changing-how-24il)
+- [You&#39;re Making Your HTTP Requests Wrong in Laravel &lpar;And It&#39;s Costing You Performance&rpar;](https://dev.to/devtalk94/youre-making-your-http-requests-wrong-in-laravel-and-its-costing-you-performance-48md)
+- [Dev Log 33 - Liquid Entry &amp; Landing Page](https://dev.to/asx/dev-log-33-liquid-entry-landing-page-1nld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
