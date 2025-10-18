@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Short Python Tutorial[2]](https://dev.to/sengseng/learning-python2-e0p)
+- [Say Goodbye to console.time&lpar;&rpar; and Hello to performance.mark&lpar;&rpar;!](https://dev.to/greenteaisgreat/say-goodbye-to-consoletime-and-hello-to-performancemark-5eom)
+- [Children with Autism: Powerful Ways to Support Them](https://dev.to/junecool/children-with-autism-powerful-ways-to-support-them-4kgj)
 - [Building a Real-Time Aircraft Landing Tracker for Kisumu Airport with AWS and OpenSky API](https://dev.to/copubah/building-a-real-time-aircraft-landing-tracker-for-kisumu-airport-with-aws-and-opensky-api-d9g)
 - [How DRBench Stress-Tests AI Agents for Real-World Enterprise Research](https://dev.to/aiwithapex/how-drbench-stress-tests-ai-agents-for-real-world-enterprise-research-d9)
-- [Day 17 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-17-of-100-days-dsa-coding-challenge-36be)
-- [Day 5 of My Coding Journey: Git Push &amp; Pull – The Real Tug of War](https://dev.to/bblackwind/day-5-of-my-coding-journey-git-push-pull-the-real-tug-of-war-2hoj)
-- [The AI Overconfidence Paradox: Are Our Models Too Sure of Themselves? by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-ai-overconfidence-paradox-are-our-models-too-sure-of-themselves-by-arvind-sundararajan-3dnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
