@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
-- [Full-Stack mobile developer](https://dev.to/techwithsam/full-stack-mobile-developer-3f9b)
-- [Ontstopping Utrecht: waarom regelmatig onderhoud essentieel is](https://dev.to/wwloodgietersbedrijf/ontstopping-utrecht-waarom-regelmatig-onderhoud-essentieel-is-4ig3)
-- [**Master Rust Testing: Build Bulletproof Code with Unit, Integration, and Property-Based Testing**](https://dev.to/aaravjoshi/master-rust-testing-build-bulletproof-code-with-unit-integration-and-property-based-testing-2g33)
-- [#1 Way to Simplify Your App Development: Server-Driven UI](https://dev.to/karthik_n/1-way-to-simplify-your-app-development-server-driven-ui-20m4)
+- [My Hackathon Experience: Building Blaut and Pushing My Limits](https://dev.to/canhamzacode/my-hackathon-experience-building-blaut-and-pushing-my-limits-34m0)
+- [Starting to Learn Full-Stack Dev.](https://dev.to/inuzawa/starting-to-learn-full-stack-dev-1o49)
+- [Is iSAQB certification worth it?](https://dev.to/tecnovy_academy/is-isaqb-certification-worth-it-3mnf)
+- [Basic Data Types in Python](https://dev.to/muraliairody/basic-data-types-in-python-50fe)
+- [When Your Competitor&#39;s Website Changes and You&#39;re the Last to Know](https://dev.to/tracksimple/when-your-competitors-website-changes-and-youre-the-last-to-know-2kdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
