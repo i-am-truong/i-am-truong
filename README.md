@@ -121,7 +121,7 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hourglass Concord — Scientific Hypothesis](https://dev.to/it_junior_theory_new/hourglass-concord-scientific-hypothesis-4o11)
-- [Linear regression Algorithm](https://dev.to/likhitha_manikonda_ed511d/classification-of-machine-learning-algorithms-53ac)
+- [Linear regression Algorithm](https://dev.to/learningml/classification-of-machine-learning-algorithms-53ac)
 - [How I Built My Developer Portfolio — Step by Step](https://dev.to/fabianlou1s/how-i-built-my-developer-portfolio-step-by-step-21kc)
 - [AI Checkout and Agent Commerce: The Future of How We Shop](https://dev.to/gruve_abby_2bb4e7e1499283/ai-checkout-and-agent-commerce-the-future-of-how-we-shop-4a45)
 - [Beyond the Follow: 5 Surprising Truths About Building a True Brand Community](https://dev.to/web4/beyond-the-follow-5-surprising-truths-about-building-a-true-brand-community-4cil)
