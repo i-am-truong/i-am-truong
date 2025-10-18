@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Финальный тест обложки 987654321](https://dev.to/api_troll/finalnyi-tiest-oblozhki-987654321-368k)
+- [Frontend Developer Survival Kit 2025: Tools, Skills &amp; Trends You Need](https://dev.to/frontendtoolstech/frontend-developer-survival-kit-2025-tools-skills-trends-you-need-1bn3)
 - [I have started learning C#](https://dev.to/yloa/i-have-started-learning-c-4ck)
 - [Understanding CSRF: How Cross‑Site Request Forgery Works and How to Prevent It](https://dev.to/samleung/web-security-101-understanding-csrf-how-cross-site-request-forgery-works-and-how-to-prevent-it-3a06)
 - [Running a Redis Sandbox Entirely in Your Browser](https://dev.to/weboont/running-a-redis-sandbox-entirely-in-your-browser-36l4)
-- [🎲 Game 21 — Cheburashka &amp; Gena](https://dev.to/devforge/how-i-built-game-21-cheburashka-gena-in-python-tkinter-21mh)
-- [AWS Resource Tagging - A Practical Blog for Developers](https://dev.to/kishore_karumanchi_acbc18/aws-resource-tagging-a-practical-blog-for-developers-4j7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
