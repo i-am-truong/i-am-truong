@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [tRPC 11 Setup for Next.js App router 2025](https://dev.to/matowang/trpc-11-setup-for-nextjs-app-router-2025-33fo)
-- [Web Security 101- From SOP to CORS: Understanding the Web’s Cross‑Origin Security Model](https://dev.to/samleung/web-security-101-from-sop-to-cors-understanding-the-webs-cross-origin-security-model-38dh)
-- [Go Memory Optimization Strategies: Reduce Heap Allocations and GC Pressure by 85%](https://dev.to/aaravjoshi/go-memory-optimization-strategies-reduce-heap-allocations-and-gc-pressure-by-85-3big)
-- [HNG 13 STAGE-0, MY REDEMPTION ARC!!](https://dev.to/devkanmi/hng-13-stage-0-my-redemption-arc-2cd3)
-- [From Data to Decision: How Coaches Use AI Insights in Real Time](https://dev.to/thenextkick2025/from-data-to-decision-how-coaches-use-ai-insights-in-real-time-4cj2)
+- [Building BowlingAlleys.io — How I’m Outranking Big Brands &lpar;One Alley at a Time&rpar;](https://dev.to/gbae420/building-bowlingalleysio-how-im-outranking-big-brands-one-alley-at-a-time-jf9)
+- [[Boost]](https://dev.to/hadil/-3c9a)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-18hl)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1ded)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-46d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
