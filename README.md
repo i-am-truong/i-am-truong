@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Playbook do Micro SaaS](https://dev.to/jucelinux/playbook-do-micro-saas-2k63)
+- [📚 Recent breakthroughs in AI efficiency research have unveil](https://dev.to/drcarlosruizviquez/recent-breakthroughs-in-ai-efficiency-research-have-unveil-485d)
+- [**BREAKTHROUGH ALERT 🚀: Revolutionizing Prompt Engineering w](https://dev.to/drcarlosruizviquez/breakthrough-alert-revolutionizing-prompt-engineering-w-49pi)
 - [Event Loop Deep Dive: What Every Frontend Dev Should Know — Timers, Microtasks, and Real Examples](https://dev.to/abhishek_mishra_2002/event-loop-deep-dive-what-every-frontend-dev-should-know-timers-microtasks-and-real-examples-dma)
 - [The notion that AI in advertising solely relies on personal](https://dev.to/drcarlosruizviquez/the-notion-that-ai-in-advertising-solely-relies-on-personal-1dfd)
-- [Amplop digital](https://dev.to/yohana_gunartiyonart_5/amplop-digital-1ijm)
-- [What I would give for some new hardware starting to feel like Dr Frankenstein](https://dev.to/brandon_folkhoundhiggi/what-i-would-give-for-some-new-hardware-starting-to-feel-like-dr-frankenstein-2ndg)
-- [Deploying LimeDB with Docker: New Official Guide &amp; Container Specs](https://dev.to/namanvashistha/deploying-limedb-with-docker-new-official-guide-container-specs-4io3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
