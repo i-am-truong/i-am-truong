@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wyndham Heaven](https://dev.to/elghaly/wyndham-heaven-2l2i)
-- [My Journey Completing the HNG Internship Stage 0 Backend Task 🚀🐱](https://dev.to/ali-peter/my-journey-completing-the-hng-internship-stage-0-backend-task-113l)
-- [FastForge: A Modern FastAPI Boilerplate for Authentication-Driven Applications](https://dev.to/justjayzee/fastforge-a-modern-fastapi-boilerplate-for-authentication-driven-applications-2f57)
-- [Oracle Autonomous Database Connectivity: Secure Connections with TLS and mTLS](https://dev.to/derrickryangiggs/oracle-autonomous-database-connectivity-secure-connections-with-tls-and-mtls-ibh)
-- [Wandpanelen badkamer laten plaatsen: Onderhoudsarme luxe voor vochtige ruimtes](https://dev.to/wallandceilingexpertise/wandpanelen-badkamer-laten-plaatsen-onderhoudsarme-luxe-voor-vochtige-ruimtes-4mg2)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-1j9m)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-47k9)
+- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-3a0f)
+- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-26fl)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Aged, But Still A Fine Wine - Review](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-aged-but-still-a-fine-wine-review-2884)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
