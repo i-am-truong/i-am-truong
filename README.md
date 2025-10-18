@@ -120,11 +120,14 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An introduction about myself](https://dev.to/gilbert_dami/an-introduction-about-myself-47mh)
-- [Inside Google Jobs Series &lpar;Part 3&rpar;: Networking &amp; Security](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-3-networking-security-c1i)
-- [Bytearray in Python &lpar;4&rpar;](https://dev.to/hyperkai/bytearray-in-python-4-504h)
-- [Customer Workflow Redesign Update 1](https://dev.to/fingerguns-on-the-keyboard/customer-workflow-redesign-update-1-3mif)
-- [Python basics - Day 09](https://dev.to/ian_b838138a27a917398d181/python-basics-day-09-1go9)
+- [QubesOS A Hypervisor as a Desktop](https://dev.to/sebos/qubesos-a-hypervisor-as-a-desktop-4972)
+- [The future developer is not just a coder; they are an AI Operator.
+Someone who thinks in systems, speaks in prompts, and ships earlier.
+
+If you start building this identity now, you’ll be years ahead of the majority of the industry.](https://dev.to/jaideepparashar/the-future-developer-is-not-just-a-coder-they-are-an-ai-operator-someone-who-thinks-in-systems-2m5e)
+- [CodeHUB](https://dev.to/alexandre_braatzjunior_9/codehub-2el8)
+- [From Developer to AI Operator](https://dev.to/jaideepparashar/from-developer-to-ai-operator-48c5)
+- [Diagonal Background Pattern with TailwindCSS](https://dev.to/tonyedgal/diagonal-background-pattern-with-tailwindcss-4i5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
