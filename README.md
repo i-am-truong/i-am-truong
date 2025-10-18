@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate SQL Server Cron Expression Validator — Fast, Accurate, Battle-Tested](https://dev.to/ukrguru/the-ultimate-sql-server-cron-expression-validator-fast-accurate-battle-tested-42dg)
-- [GitOps with Argo CD](https://dev.to/godofgeeks/gitops-with-argo-cd-98d)
-- [Has anyone tried Scaleway cloud serverless offerings &lpar;db/functions&rpar;? What are your thoughts if so?](https://dev.to/valeriavg/has-anyone-tried-scaleway-cloud-serverless-offerings-dbfunctions-what-are-your-thoughts-if-so-m2)
-- [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
-- [🐱 I Built a Profile API That Returns Random Cat Facts](https://dev.to/rishi_00000000000000/i-built-a-profile-api-that-returns-random-cat-facts-359h)
+- [PyLlamaUI Update](https://dev.to/bhuvaneshm_dev/pyllamaui-update-1fmh)
+- [Revisiting the Fundamentals: My Learning Plan](https://dev.to/miguelhdz/revisiting-the-fundamentals-my-learning-plan-43bk)
+- [Qlib - 模型训练和预测&lpar;Model Training &amp; Prediction&rpar;](https://dev.to/mangoquant/qlib-mo-xing-xun-lian-he-yu-ce-model-training-prediction-4p20)
+- [React Components, Props &amp; State](https://dev.to/nouribram/react-components-props-state-51d)
+- [Fasal-Saathi Aawaz](https://dev.to/adarsh_yadav_050626/fasal-saathi-aawaz-45nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
