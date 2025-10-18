@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Common Git Mistakes &lpar;and How to Fix Them Like a Pro&rpar;](https://dev.to/gitpathdev/5-common-git-mistakes-and-how-to-fix-them-like-a-pro-b84)
-- [**The Two Approaches to AI Governance: Regulatory Governance](https://dev.to/drcarlosruizviquez/the-two-approaches-to-ai-governance-regulatory-governance-5cl8)
-- [**The Dark Side of Computer Vision: How Adversarial Examples](https://dev.to/drcarlosruizviquez/the-dark-side-of-computer-vision-how-adversarial-examples-6e1)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3c4l)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-2147)
+- [Why curl and Your Browser Sometimes See Different Results](https://dev.to/rijultp/why-curl-and-your-browser-sometimes-see-different-results-3h2l)
+- [Building a Self-Healing Parking Detection System: MLOps on Autopilot 🚗](https://dev.to/kareemblessed/building-a-self-healing-parking-detection-system-mlops-on-autopilot-2gd8)
+- [🏆Sure AI — Winning the Meta Track at FutureStack GenAI Hackathon by WeMakeDevs](https://dev.to/hibino_reddy/sure-ai-winning-the-meta-track-at-futurestack-genai-hackathon-by-wemakedevs-5h4)
+- [Building a Smart Auth0 AI Agent for Dev](https://dev.to/elghaly/building-a-smart-auth0-ai-agent-for-dev-2c03)
+- [RAG Architecture for HR Applications: Building Context-Aware Interview Systems](https://dev.to/ambalogun/-rag-architecture-for-hr-applications-building-context-aware-interview-systems-1aep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
