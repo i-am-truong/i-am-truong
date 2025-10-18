@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quick C# Challenges to Keep Your Coding Skills Fresh 3.&quot;FizzBuzz &quot;](https://dev.to/__b63657/quick-c-challenges-to-keep-your-coding-skills-fresh-3fizzbuzz--523f)
-- [Why Accurate Job Costing Is Essential for Project-Based Businesses](https://dev.to/kapusto/why-accurate-job-costing-is-essential-for-project-based-businesses-5age)
-- [4 Técnicas de Elicitação que Grandes Times de Software Usam e Você Também Pode](https://dev.to/dev-sigo/alem-do-que-o-usuario-te-diz-4-tecnicas-poderosas-para-descobrir-requisitos-de-software-ocultos-1mmf)
-- [🐱 Building a Minimal /me Endpoint with Pure Node.js &lpar;No Frameworks&rpar; - HNG Internship Stage 0](https://dev.to/tundealabi/building-a-minimal-me-endpoint-with-pure-nodejs-no-frameworks-hng-internship-stage-0-1760)
-- [# Cloud Resume Challenge &lpar;Azure&rpar; — PArt 3: Setting Up HTTPS and Understanding Azure CDN](https://dev.to/jic/-cloud-resume-challenge-azure-part-3-setting-up-https-and-understanding-azure-cdn-503g)
+- [AI as Your Coding Coach: How Prompt Engineering Transforms Developers Into Lifelong Learners &lpar;with Research&rpar;](https://dev.to/alvinveroy/ai-as-your-coding-coach-how-prompt-engineering-transforms-developers-into-lifelong-learners-with-4bfi)
+- [Implementing a Secure Data Governance Architecture on AWS with S3, Glue, Athena, and Lake Formation](https://dev.to/davidshaek/implementing-a-secure-data-governance-architecture-on-aws-with-s3-glue-athena-and-lake-formation-30gb)
+- [Deploying a simple **NGINX web server** on a Azure and hosting a custom web page](https://dev.to/jic/deploying-a-simple-nginx-web-server-on-a-azure-and-hosting-a-custom-web-page-4aig)
+- [Analyzing Python Code Quality via MCP](https://dev.to/daisukeyoda/analyzing-python-code-quality-via-mcp-4oi3)
+- [The Hidden Risks of NTLM Authentication in Modern Environments](https://dev.to/kapusto/the-hidden-risks-of-ntlm-authentication-in-modern-environments-44op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
