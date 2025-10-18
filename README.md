@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Talent War Myth: Why Great IT Recruiters Are Building Communities, Not Hunting Candidates](https://dev.to/alex-john/the-talent-war-myth-why-great-it-recruiters-are-building-communities-not-hunting-candidates-527)
+- [Beyond the Layer: Unveiling the Power of a Well-Chosen Men&#39;s Coat](https://dev.to/keira_henry/beyond-the-layer-unveiling-the-power-of-a-well-chosen-mens-coat-327e)
 - [Introducing AWS Bedrock AgentCore: A Modular Platform for Deploying AI Agents at Enterprise Scale -Part I](https://dev.to/sreeni5018/introducing-aws-bedrock-agentcore-a-modular-platform-for-deploying-ai-agents-at-enterprise-scale-369p)
 - [🧩 Diseñar un Design System &lpar;y no morir en el intento... o si&rpar;](https://dev.to/juankicr/disenar-un-design-system-y-no-morir-en-el-intento-o-si-5dd2)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4ein)
 - [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2emf)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2on1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
