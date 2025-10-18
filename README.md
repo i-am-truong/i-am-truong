@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Developer Should Try Cursor AI in 2025](https://dev.to/eva_clari_289d85ecc68da48/why-every-developer-should-try-cursor-ai-in-2025-4pem)
-- [Mylinux: a minimalist linux disro by a 13 year old](https://dev.to/prabodh_waichal_906c90024/mylinux-a-minimalist-linux-disro-by-a-13-year-old-3jcj)
-- [Mastering Docker Commands: A Comprehensive Guide for Developers](https://dev.to/ctrix/mastering-docker-commands-a-comprehensive-guide-for-developers-2pkc)
-- [FCP_FGT_AD-7.6 Exam Prep: Common Mistakes &amp; How to Fix Them](https://dev.to/aakruthi_singh_ef9a32b0ab/fcpfgtad-76-exam-prep-common-mistakes-how-to-fix-them-3p69)
-- [🔥 Introducing PACT: A Better Way to Design APIs That Think Like Users](https://dev.to/vikyw89/introducing-pact-a-better-way-to-design-apis-that-think-like-users-259b)
+- [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
+- [🐱 I Built a Profile API That Returns Random Cat Facts](https://dev.to/rishi_00000000000000/i-built-a-profile-api-that-returns-random-cat-facts-359h)
+- [Why Do Content Creators Choose Sora 2 or Veo 3.1 for Social Clips?](https://dev.to/jovin_george_733dcfc16291/why-do-content-creators-choose-sora-2-or-veo-31-for-social-clips-3p1b)
+- [Series Week 5/52 — TAB in Action: Preventing Patching Pitfalls](https://dev.to/nabhaas/series-week-552-tab-in-action-preventing-patching-pitfalls-nm1)
+- [Pagination — Architecture Series: Part 1](https://dev.to/usman_awan/pagination-architecture-series-part-1-g8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
