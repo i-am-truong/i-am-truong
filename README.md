@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [🌿 About Me — Huynh Nhan Quoc](https://dev.to/huynhnhanquoc/about-me-huynh-nhan-quoc-4p7g)
+- [Cómo diseñar una API – guía práctica y escalable](https://dev.to/arturoatomplay/como-disenar-una-api-guia-practica-y-escalable-4ano)
+- [Are You Using Interfaces the Right Way?](https://dev.to/minuth/are-you-using-interfaces-the-right-way-24f7)
 - [The Introvert&#39;s Survival Guide to GitHub Universe &lpar;And Every Other Tech Conference](https://dev.to/shiva_shanker_k/the-introverts-survival-guide-to-github-universe-and-every-other-tech-conference-2okp)
 - [Part 3 - MySQL vs PostgreSQL: Features &amp; Capabilities Comparison](https://dev.to/harry_do/part-3-mysql-vs-postgresql-features-capabilities-comparison-13gj)
-- [We Had Scrum Masters. Get Ready for the &#39;Code Vibe Checker&#39;](https://dev.to/aws-builders/we-had-scrum-masters-get-ready-for-the-code-vibe-checker-3na4)
-- [Understanding Azure Service Bus: How to Manage Routing, Sessions, and Atomicity](https://dev.to/harnoorpuniyani/understanding-azure-service-bus-how-to-manage-routing-sessions-and-atomicity-4539)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
