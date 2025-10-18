@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Design a Multilingual Database Structure | A Practical Guide](https://dev.to/adnanbabakan/how-to-design-a-multilingual-database-structure-a-practical-guide-35nf)
+- [K8s for Mortals: Orchestration Without Tears](https://dev.to/tavernetech/k8s-for-mortals-orchestration-without-tears-4pcp)
 - [The Ultimate Sprint Planning Agenda &lpar;Built for Remote Teams&rpar;](https://dev.to/gsauzande/the-ultimate-sprint-planning-agenda-built-for-remote-teams-8ob)
+- [🛠️ Fixing a Deployment Error &lpar;404 - Page not found&rpar;](https://dev.to/usama_dev/fixing-a-deployment-error-404-page-not-found-52cn)
 - [Building My Smart 2nd Brain, Part 4: The Art of Documents Searching](https://dev.to/jimmyhott/building-my-smart-2nd-brain-part-4-the-art-of-documents-searching-oid)
-- [Unit Testing in PHP: How to Catch Bugs Before They Bite](https://dev.to/codecraft_diary_3d13677fb/unit-testing-in-php-how-to-catch-bugs-before-they-bite-2l6e)
-- [My HNG 13 Journey Begins — Creating a Dynamic Profile Endpoint](https://dev.to/kratos-hash/my-hng-13-journey-begins-creating-a-dynamic-profile-endpoint-26im)
-- [Refactoring &amp; Design Patterns](https://dev.to/codecraft_diary_3d13677fb/refactoring-design-patterns-3h50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
