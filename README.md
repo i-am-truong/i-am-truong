@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Redis Commander with Docker and Apple Silicon](https://dev.to/darkmavis1980/redis-commander-with-docker-and-apple-silicon-2a5m)
+- [How to Deploy a Laravel API Easily Using Render](https://dev.to/version_control_dev/how-to-deploy-a-laravel-api-easily-using-render-59lh)
 - [🌿 About Me — Huynh Nhan Quoc](https://dev.to/huynhnhanquoc/about-me-huynh-nhan-quoc-4p7g)
 - [Cómo diseñar una API – guía práctica y escalable](https://dev.to/arturoatomplay/como-disenar-una-api-guia-practica-y-escalable-4ano)
 - [Are You Using Interfaces the Right Way?](https://dev.to/minuth/are-you-using-interfaces-the-right-way-24f7)
-- [The Introvert&#39;s Survival Guide to GitHub Universe &lpar;And Every Other Tech Conference](https://dev.to/shiva_shanker_k/the-introverts-survival-guide-to-github-universe-and-every-other-tech-conference-2okp)
-- [Part 3 - MySQL vs PostgreSQL: Features &amp; Capabilities Comparison](https://dev.to/harry_do/part-3-mysql-vs-postgresql-features-capabilities-comparison-13gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
