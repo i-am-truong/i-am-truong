@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cognee with ollama](https://dev.to/chinmay_bhosale_9ceed796b/cognee-with-ollama-3pp8)
+- [🚀 5 Things Every Beginner in Cybersecurity Should Know](https://dev.to/trytonottry/5-things-every-beginner-in-cybersecurity-should-know-4on4)
+- [Why Logic Still Matters in the Age of AI](https://dev.to/thinking_healer/why-logic-still-matters-in-the-age-of-ai-1kac)
 - [AltSchool Of Engineering Tinyuka’24 Month 8 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-3-48l2)
 - [Outil de Cybersécurité du Jour - Oct 18, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-oct-18-2025-51f7)
-- [Ontstopping Utrecht: Waarom regelmatig onderhoud essentieel is](https://dev.to/wallandceilingexpertise/ontstopping-utrecht-waarom-regelmatig-onderhoud-essentieel-is-34n7)
-- [HTML5 Semantic Elements You Should Be Using &lpar;and Why They Matter&rpar;](https://dev.to/ofodile/html5-semantic-elements-you-should-be-using-and-why-they-matter-155l)
-- [Sora and the Future of Consumer AI: Is OpenAI Building the Next Digital Ecosystem?](https://dev.to/spano_benja_14a928166ec22/sora-and-the-future-of-consumer-ai-is-openai-building-the-next-digital-ecosystem-5am0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
