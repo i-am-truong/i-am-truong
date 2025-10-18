@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PyLlamaUI Update](https://dev.to/bhuvaneshm_dev/pyllamaui-update-1fmh)
-- [Revisiting the Fundamentals: My Learning Plan](https://dev.to/miguelhdz/revisiting-the-fundamentals-my-learning-plan-43bk)
-- [Qlib - 模型训练和预测&lpar;Model Training &amp; Prediction&rpar;](https://dev.to/mangoquant/qlib-mo-xing-xun-lian-he-yu-ce-model-training-prediction-4p20)
-- [React Components, Props &amp; State](https://dev.to/nouribram/react-components-props-state-51d)
-- [Fasal-Saathi Aawaz](https://dev.to/adarsh_yadav_050626/fasal-saathi-aawaz-45nb)
+- [Applying Object Relational Mapping &lpar;ORM&rpar; on a C# .NET application](https://dev.to/raziq_din_bd0274cc2ac748b/applying-object-relational-mapping-orm-on-a-c-net-application-54g1)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-53l0)
+- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-57hd)
+- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-573)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Aged, But Still A Fine Wine - Review](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-aged-but-still-a-fine-wine-review-2c9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
