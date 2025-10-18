@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Memory Optimization Strategies: Reduce Heap Allocations and GC Pressure by 85%](https://dev.to/aaravjoshi/go-memory-optimization-strategies-reduce-heap-allocations-and-gc-pressure-by-85-3big)
 - [My Hackathon Experience: Building Blaut and Pushing My Limits](https://dev.to/canhamzacode/my-hackathon-experience-building-blaut-and-pushing-my-limits-34m0)
 - [Starting to Learn Full-Stack Dev.](https://dev.to/inuzawa/starting-to-learn-full-stack-dev-1o49)
 - [Is iSAQB certification worth it?](https://dev.to/tecnovy_academy/is-isaqb-certification-worth-it-3mnf)
 - [Basic Data Types in Python](https://dev.to/muraliairody/basic-data-types-in-python-50fe)
-- [When Your Competitor&#39;s Website Changes and You&#39;re the Last to Know](https://dev.to/tracksimple/when-your-competitors-website-changes-and-youre-the-last-to-know-2kdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
