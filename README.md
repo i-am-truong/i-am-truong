@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity 101 : data sanitization](https://dev.to/hexfloor/cybersecurity-101-data-sanitization-cgo)
-- [Invisible Tech: The Stuff You Don&#39;t See but Can&#39;t Live Without](https://dev.to/iste-vit/invisible-tech-the-stuff-you-dont-see-but-cant-live-without-n5o)
-- [Workwear Washing Guide: Correct Temperature, Detergent, and Care Steps](https://dev.to/disiplin_forml_e60c4755/workwear-washing-guide-correct-temperature-detergent-and-care-steps-59gp)
-- [Inside Google Jobs Series &lpar;Part 6&rpar;: AI &amp; Machine Learning Research](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-6-ai-machine-learning-research-4h63)
-- [Inside Google Jobs Series &lpar;Part 5&rpar;: Search &amp; Core Product Engineering](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-5-search-core-product-engineering-39h3)
+- [FastAPI &amp; PostgreSQL Sharding: A Step-by-Step Guide &lpar;Part 2&rpar; - Step-by-Step Implementation](https://dev.to/artemooon/fastapi-postgresql-sharding-a-step-by-step-guide-part-2-step-by-step-implementation-49k6)
+- [🧠 Building an Accessible Currency Detector for the Sri Lankan Visually Impaired with YOLOv8, ESP32-CAM &amp; Audio Feedback](https://dev.to/mohamed-riham/building-an-accessible-currency-detector-for-the-sri-lankan-visually-impaired-with-yolov8-3flc)
+- [Level Up Your DTOs: Pro Techniques for the Symfony ObjectMapper](https://dev.to/mattleads/level-up-your-dtos-pro-techniques-for-the-symfony-objectmapper-5c1a)
+- [I Tried Dozens of Udemy Python Courses — These 5 Instructors Are the Best](https://dev.to/somadevtoo/i-tried-dozens-of-udemy-python-courses-these-5-instructors-are-the-best-22bd)
+- [What I self host](https://dev.to/fredrikmeyer/what-i-self-host-ani)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
