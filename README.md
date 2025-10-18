@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About Machine Learning Most Experts Won&#39;t Tell You](https://dev.to/vikramlingam/the-truth-about-machine-learning-most-experts-wont-tell-you-n2j)
-- [Building Better YouTube Scripts: A Structured Prompt for AI Writing Assistants](https://dev.to/huizhudev/building-better-youtube-scripts-a-structured-prompt-for-ai-writing-assistants-3eb6)
-- [🚀 Building a Dynamic Profile API — My HNG Backend Internship Stage 0 Experience](https://dev.to/queen_codes/building-a-dynamic-profile-api-my-hng-backend-internship-stage-0-experience-2e9c)
-- [A Token of My Affliction: The Hidden Pain Behind Every LLM](https://dev.to/learnwithadvi/a-token-of-my-affliction-the-hidden-pain-behind-every-llm-3ecl)
-- [Andrej Karpathy – It will take a decade to work through the issues with agents](https://dev.to/technoblogger14o3/andrej-karpathy-it-will-take-a-decade-to-work-through-the-issues-with-agents-315a)
+- [The Ultimate Sprint Planning Agenda &lpar;Built for Remote Teams&rpar;](https://dev.to/gsauzande/the-ultimate-sprint-planning-agenda-built-for-remote-teams-8ob)
+- [Building My Smart 2nd Brain, Part 4: The Art of Documents Searching](https://dev.to/jimmyhott/building-my-smart-2nd-brain-part-4-the-art-of-documents-searching-oid)
+- [Unit Testing in PHP: How to Catch Bugs Before They Bite](https://dev.to/codecraft_diary_3d13677fb/unit-testing-in-php-how-to-catch-bugs-before-they-bite-2l6e)
+- [My HNG 13 Journey Begins — Creating a Dynamic Profile Endpoint](https://dev.to/kratos-hash/my-hng-13-journey-begins-creating-a-dynamic-profile-endpoint-26im)
+- [Refactoring &amp; Design Patterns](https://dev.to/codecraft_diary_3d13677fb/refactoring-design-patterns-3h50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
