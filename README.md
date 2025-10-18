@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cognee with ollama](https://dev.to/chinmay_bhosale_9ceed796b/cognee-with-ollama-3pp8)
-- [🚀 5 Things Every Beginner in Cybersecurity Should Know](https://dev.to/trytonottry/5-things-every-beginner-in-cybersecurity-should-know-4on4)
-- [Why Logic Still Matters in the Age of AI](https://dev.to/thinking_healer/why-logic-still-matters-in-the-age-of-ai-1kac)
-- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-3-48l2)
-- [Outil de Cybersécurité du Jour - Oct 18, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-oct-18-2025-51f7)
+- [🌿 About Me — Huynh Nhan Quoc](https://dev.to/huynhnhanquoc/about-me-huynh-nhan-quoc-4p7g)
+- [The Introvert&#39;s Survival Guide to GitHub Universe &lpar;And Every Other Tech Conference](https://dev.to/shiva_shanker_k/the-introverts-survival-guide-to-github-universe-and-every-other-tech-conference-2okp)
+- [Part 3 - MySQL vs PostgreSQL: Features &amp; Capabilities Comparison](https://dev.to/harry_do/part-3-mysql-vs-postgresql-features-capabilities-comparison-13gj)
+- [We Had Scrum Masters. Get Ready for the &#39;Code Vibe Checker&#39;](https://dev.to/aws-builders/we-had-scrum-masters-get-ready-for-the-code-vibe-checker-3na4)
+- [Understanding Azure Service Bus: How to Manage Routing, Sessions, and Atomicity](https://dev.to/harnoorpuniyani/understanding-azure-service-bus-how-to-manage-routing-sessions-and-atomicity-4539)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
