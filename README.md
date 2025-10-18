@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Microservices Architecture — From Monolith to Modern Scalability](https://dev.to/jps27cse/understanding-microservices-architecture-from-monolith-to-modern-scalability-1644)
-- [Jack-O&#39;-Lantern 3D Interactive](https://dev.to/cutieyunnytech/jack-o-lantern-3d-interactive-5f2h)
-- [Understanding terminal specifications to help with TUI development](https://dev.to/bmf_san/understanding-terminal-specifications-to-help-with-tui-development-749)
-- [Numerical Integration in Python](https://dev.to/sengseng/learning-python2-e0p)
-- [Say Goodbye to console.time&lpar;&rpar; and Hello to performance.mark&lpar;&rpar;!](https://dev.to/greenteaisgreat/say-goodbye-to-consoletime-and-hello-to-performancemark-5eom)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-2f7p)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-4co7)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-30mo)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-57b8)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-ne3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
