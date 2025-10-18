@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What happens when u click google.com - Computer Networks](https://dev.to/algon31/what-happens-when-u-click-googlecom-computer-networks-pmh)
+- [SIM Bank: Legal and Illegal Uses, and Detection through Digital Forensics](https://dev.to/piyush_bhadane/sim-bank-legal-and-illegal-uses-and-detection-through-digital-forensics-411h)
 - [🚀 Join the CDSA Developer Challenge Hub — Learn, Build &amp; Win Experience!](https://dev.to/cdsa/join-the-cdsa-developer-challenge-hub-learn-build-win-experience-40p2)
 - [Master Java Packages: A Complete Guide to Organizing Your Code](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-packages-a-complete-guide-to-organizing-your-code-3jea)
 - [Top Mobile Game Development Companies 2025](https://dev.to/aditya_godara_2e8468386f0/top-mobile-game-development-companies-2025-3k2k)
-- [Java Encapsulation Explained: A Beginner&#39;s Guide to Secure &amp; Robust Code](https://dev.to/satyam_gupta_0d1ff2152dcc/java-encapsulation-explained-a-beginners-guide-to-secure-robust-code-2h3g)
-- [Introducing Serverless Kube Watch Trigger: Declarative Event Triggers for Kubernetes](https://dev.to/mhmxs/introducing-serverless-kube-watch-trigger-declarative-event-triggers-for-kubernetes-mdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
