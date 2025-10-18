@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Has anyone tried Scaleway cloud serverless offerings &lpar;db/functions&rpar;? What are your thoughts if so?](https://dev.to/valeriavg/has-anyone-tried-scaleway-cloud-serverless-offerings-dbfunctions-what-are-your-thoughts-if-so-m2)
 - [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
 - [🐱 I Built a Profile API That Returns Random Cat Facts](https://dev.to/rishi_00000000000000/i-built-a-profile-api-that-returns-random-cat-facts-359h)
 - [Why Do Content Creators Choose Sora 2 or Veo 3.1 for Social Clips?](https://dev.to/jovin_george_733dcfc16291/why-do-content-creators-choose-sora-2-or-veo-31-for-social-clips-3p1b)
 - [Series Week 5/52 — TAB in Action: Preventing Patching Pitfalls](https://dev.to/nabhaas/series-week-552-tab-in-action-preventing-patching-pitfalls-nm1)
-- [Pagination — Architecture Series: Part 1](https://dev.to/usman_awan/pagination-architecture-series-part-1-g8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
