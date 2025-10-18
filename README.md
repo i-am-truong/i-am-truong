@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building BowlingAlleys.io — How I’m Outranking Big Brands &lpar;One Alley at a Time&rpar;](https://dev.to/gbae420/building-bowlingalleysio-how-im-outranking-big-brands-one-alley-at-a-time-jf9)
-- [[Boost]](https://dev.to/hadil/-3c9a)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-18hl)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1ded)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-46d)
+- [The Truth About Machine Learning Most Experts Won&#39;t Tell You](https://dev.to/vikramlingam/the-truth-about-machine-learning-most-experts-wont-tell-you-n2j)
+- [Building Better YouTube Scripts: A Structured Prompt for AI Writing Assistants](https://dev.to/huizhudev/building-better-youtube-scripts-a-structured-prompt-for-ai-writing-assistants-3eb6)
+- [🚀 Building a Dynamic Profile API — My HNG Backend Internship Stage 0 Experience](https://dev.to/queen_codes/building-a-dynamic-profile-api-my-hng-backend-internship-stage-0-experience-2e9c)
+- [A Token of My Affliction: The Hidden Pain Behind Every LLM](https://dev.to/learnwithadvi/a-token-of-my-affliction-the-hidden-pain-behind-every-llm-3ecl)
+- [Andrej Karpathy – It will take a decade to work through the issues with agents](https://dev.to/technoblogger14o3/andrej-karpathy-it-will-take-a-decade-to-work-through-the-issues-with-agents-315a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
