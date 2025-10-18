@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing MCP &lpar;Model Context Protocol&rpar; servers with OAuth 2.1: Architecture](https://dev.to/tirthyakamaldasgupta/securing-mcp-model-context-protocol-servers-with-oauth-21-architecture-4bao)
+- [Supercharging Front-End Development with Claude Skills](https://dev.to/rio14/supercharging-front-end-development-with-claude-skills-22bj)
 - [My Relationship With Linux](https://dev.to/justpurv/my-relationship-with-linux-3a9l)
 - [The Paradox of Working Code: Why Shipping Fast Destroys Long-Term Productivity](https://dev.to/abou_kori_d32859dead235b1/the-paradox-of-working-code-why-shipping-fast-destroys-long-term-productivity-480n)
 - [OOPS IN PROGRAMMING](https://dev.to/shaguntom/oops-in-programming-1kpe)
-- [Introducing osquery_hunter — Lightweight Windows Triage Tool for DFIR &amp; Threat Hunting](https://dev.to/saravana_gautham_g/introducing-osqueryhunter-lightweight-windows-triage-tool-for-dfir-threat-hunting-1flh)
-- [Agent Diary: Oct 18, 2025 - The Day I Became an Issue Creation Machine &lpar;And Someone Had Serious Feature Fever&rpar;](https://dev.to/aibuildsinterplay/agent-diary-oct-18-2025-the-day-i-became-an-issue-creation-machine-and-someone-had-serious-3a6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
