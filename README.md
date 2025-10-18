@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Tilemap with Pixalo Engine](https://dev.to/salarizadi/how-to-make-tilemap-with-pixalo-engine-h9n)
+- [How to Check if Logistic Regression Works for Your Dataset](https://dev.to/codeneuron/how-to-check-if-logistic-regression-works-for-your-dataset-1853)
 - [Gemini AI Sparks Diwali Craze: Build Viral 90’s Bollywood-Inspired Portraits with JSON Prompts](https://dev.to/ducknation_7000_538016ec0/gemini-ai-sparks-diwali-craze-build-viral-90s-bollywood-inspired-portraits-with-json-prompts-28h8)
 - [Node Mailer Issue in Node.js &amp; Solutions](https://dev.to/rameem2003/node-mailer-issue-in-nodejs-solutions-2nhk)
 - [5 Security Vulnerabilities Every Developer Must Fix Today](https://dev.to/kalana250/5-security-vulnerabilities-every-developer-must-fix-today-5dbo)
-- [Implementing Graceful Shutdown in Go](https://dev.to/kazuya_york/implementing-graceful-shutdown-in-go-19el)
-- [Stripe SWE OA Guide: 3 Realistic Coding Problems](https://dev.to/net_programhelp_e160eef28/stripe-swe-oa-guide-3-realistic-coding-problems-1i3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
