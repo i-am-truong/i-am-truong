@@ -120,9 +120,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2iol)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3k9c)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1m9m)
+- [5 Common Git Mistakes &lpar;and How to Fix Them Like a Pro&rpar;](https://dev.to/gitpathdev/5-common-git-mistakes-and-how-to-fix-them-like-a-pro-b84)
+- [**The Two Approaches to AI Governance: Regulatory Governance](https://dev.to/drcarlosruizviquez/the-two-approaches-to-ai-governance-regulatory-governance-5cl8)
+- [**The Dark Side of Computer Vision: How Adversarial Examples](https://dev.to/drcarlosruizviquez/the-dark-side-of-computer-vision-how-adversarial-examples-6e1)
 - [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3c4l)
 - [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-2147)
 <!-- BLOG-POST-LIST:END -->
