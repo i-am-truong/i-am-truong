@@ -120,14 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [QubesOS A Hypervisor as a Desktop](https://dev.to/sebos/qubesos-a-hypervisor-as-a-desktop-4972)
-- [The future developer is not just a coder; they are an AI Operator.
-Someone who thinks in systems, speaks in prompts, and ships earlier.
-
-If you start building this identity now, you’ll be years ahead of the majority of the industry.](https://dev.to/jaideepparashar/the-future-developer-is-not-just-a-coder-they-are-an-ai-operator-someone-who-thinks-in-systems-2m5e)
-- [CodeHUB](https://dev.to/alexandre_braatzjunior_9/codehub-2el8)
-- [From Developer to AI Operator](https://dev.to/jaideepparashar/from-developer-to-ai-operator-48c5)
-- [Diagonal Background Pattern with TailwindCSS](https://dev.to/tonyedgal/diagonal-background-pattern-with-tailwindcss-4i5k)
+- [The Special Protocols Room: Magic Methods and Operator Overloading](https://dev.to/aaron_rose_0787cc8b4775a0/the-special-protocols-room-magic-methods-and-operator-overloading-4amk)
+- [Cross-posting to DEV responsibly: canonical + summary + image SEO &lpar;quick playbook&rpar;](https://dev.to/champetsfamily/cross-posting-to-dev-responsibly-canonical-summary-image-seo-quick-playbook-53o0)
+- [Enforcing API Correctness: Automated Contract Testing with OpenAPI and Dredd](https://dev.to/r3d_cr0wn/enforcing-api-correctness-automated-contract-testing-with-openapi-and-dredd-2212)
+- [Building Roblox Games with Kiro: A Spec-Driven Development Approach](https://dev.to/kirodotdev/building-roblox-games-with-kiro-a-spec-driven-development-approach-3c8p)
+- [Understanding OLED Displays: How They Work and Why They Matter in Modern Devices](https://dev.to/kevinzhang109/understanding-oled-displays-how-they-work-and-why-they-matter-in-modern-devices-5j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
