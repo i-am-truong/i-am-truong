@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Securing MCP &lpar;Model Context Protocol&rpar; servers with OAuth 2.1: Architecture](https://dev.to/tirthyakamaldasgupta/securing-mcp-model-context-protocol-servers-with-oauth-21-architecture-4bao)
-- [Supercharging Front-End Development with Claude Skills](https://dev.to/rio14/supercharging-front-end-development-with-claude-skills-22bj)
-- [My Relationship With Linux](https://dev.to/justpurv/my-relationship-with-linux-3a9l)
-- [The Paradox of Working Code: Why Shipping Fast Destroys Long-Term Productivity](https://dev.to/abou_kori_d32859dead235b1/the-paradox-of-working-code-why-shipping-fast-destroys-long-term-productivity-480n)
-- [OOPS IN PROGRAMMING](https://dev.to/shaguntom/oops-in-programming-1kpe)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-31pd)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4l92)
+- [Day 5 of My Coding Journey: Git Push &amp; Pull – The Real Tug of War](https://dev.to/bblackwind/day-5-of-my-coding-journey-git-push-pull-the-real-tug-of-war-2hoj)
+- [IGN: Rooster Fighter - Official Anime Opening &lpar;What&#39;s a Hero? by Daruma ROLLIN&#39;&rpar;](https://dev.to/gg_news/ign-rooster-fighter-official-anime-opening-whats-a-hero-by-daruma-rollin-2215)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-4b4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
