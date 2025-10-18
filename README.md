@@ -120,11 +120,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Финальный тест обложки 987654321](https://dev.to/api_troll/finalnyi-tiest-oblozhki-987654321-368k)
-- [Frontend Developer Survival Kit 2025: Tools, Skills &amp; Trends You Need](https://dev.to/frontendtoolstech/frontend-developer-survival-kit-2025-tools-skills-trends-you-need-1bn3)
-- [I have started learning C#](https://dev.to/yloa/i-have-started-learning-c-4ck)
-- [Understanding CSRF: How Cross‑Site Request Forgery Works and How to Prevent It](https://dev.to/samleung/web-security-101-understanding-csrf-how-cross-site-request-forgery-works-and-how-to-prevent-it-3a06)
-- [Running a Redis Sandbox Entirely in Your Browser](https://dev.to/weboont/running-a-redis-sandbox-entirely-in-your-browser-36l4)
+- [Decision Trees Algorithm](https://dev.to/codeneuron/decision-trees-algorithm-19ec)
+- [Warp Support Engineer Simulation
+A mini lab replicating real-world troubleshooting workflows &lpar;permissions, SSH timeout, etc.&rpar; inside an agentic terminal context using Warp.](https://dev.to/daretechie/warp-support-engineer-simulation-a-mini-lab-replicating-real-world-troubleshooting-workflows-3o8k)
+- [Exploring Warp: Building the Future of Agentic Support Engineering](https://dev.to/daretechie/exploring-warp-building-the-future-of-agentic-support-engineering-2c68)
+- [Gulp + Nunjucks Automation: Modern Frontend Build Workflow](https://dev.to/bek-dev/gulp-nunjucks-automation-modern-frontend-build-workflow-f90)
+- [List Comprehension in Python: Syntax, Examples, and When to Use Regular For Loops](https://dev.to/beatrisilieva/list-comprehension-in-python-syntax-examples-and-when-to-use-regular-for-loops-279k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
