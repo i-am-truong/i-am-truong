@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean Architecture &lpar;Arquitetura Limpa&rpar;](https://dev.to/yuripeixinho/clean-architecture-arquitetura-limpa-33e1)
 - [Mistakes Were Made](https://dev.to/johannesmogashoa/mistakes-were-made-2p8n)
 - [What is Front-End Development and Why It’s the Core of Modern Web Design | Z5 CODE](https://dev.to/z5code/what-is-front-end-development-and-why-its-the-core-of-modern-web-design-z5-code-j38)
 - [JWT Authentication Explained: Access vs Refresh Tokens](https://dev.to/shehzaib_a6fe18283b24772c/jwt-authentication-explained-access-vs-refresh-tokens-4bic)
 - [Day 9 of Documenting my Learning Journey](https://dev.to/james_kabuga/day-9-of-documenting-my-learning-journey-59la)
-- [Implementing a Language Server with Language Server Protocol - Basic Completion &lpar;Part 5&rpar;](https://dev.to/mistrysamvid/implementing-a-language-server-with-language-server-protocol-basic-completion-part-5-2apd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
