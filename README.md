@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Security 101- From SOP to CORS: Understanding the Web’s Cross‑Origin Security Model](https://dev.to/samleung/web-security-101-from-sop-to-cors-understanding-the-webs-cross-origin-security-model-38dh)
 - [Go Memory Optimization Strategies: Reduce Heap Allocations and GC Pressure by 85%](https://dev.to/aaravjoshi/go-memory-optimization-strategies-reduce-heap-allocations-and-gc-pressure-by-85-3big)
+- [HNG 13 STAGE-0, MY REDEMPTION ARC!!](https://dev.to/devkanmi/hng-13-stage-0-my-redemption-arc-2cd3)
+- [From Data to Decision: How Coaches Use AI Insights in Real Time](https://dev.to/thenextkick2025/from-data-to-decision-how-coaches-use-ai-insights-in-real-time-4cj2)
 - [My Hackathon Experience: Building Blaut and Pushing My Limits](https://dev.to/canhamzacode/my-hackathon-experience-building-blaut-and-pushing-my-limits-34m0)
-- [Starting to Learn Full-Stack Dev.](https://dev.to/inuzawa/starting-to-learn-full-stack-dev-1o49)
-- [Is iSAQB certification worth it?](https://dev.to/tecnovy_academy/is-isaqb-certification-worth-it-3mnf)
-- [Basic Data Types in Python](https://dev.to/muraliairody/basic-data-types-in-python-50fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
