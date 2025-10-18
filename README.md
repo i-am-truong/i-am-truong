@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Microservices Architecture — From Monolith to Modern Scalability](https://dev.to/jps27cse/understanding-microservices-architecture-from-monolith-to-modern-scalability-1644)
+- [Jack-O&#39;-Lantern 3D Interactive](https://dev.to/cutieyunnytech/jack-o-lantern-3d-interactive-5f2h)
+- [Understanding terminal specifications to help with TUI development](https://dev.to/bmf_san/understanding-terminal-specifications-to-help-with-tui-development-749)
 - [Numerical Integration in Python](https://dev.to/sengseng/learning-python2-e0p)
 - [Say Goodbye to console.time&lpar;&rpar; and Hello to performance.mark&lpar;&rpar;!](https://dev.to/greenteaisgreat/say-goodbye-to-consoletime-and-hello-to-performancemark-5eom)
-- [Children with Autism: Powerful Ways to Support Them](https://dev.to/junecool/children-with-autism-powerful-ways-to-support-them-4kgj)
-- [Building a Real-Time Aircraft Landing Tracker for Kisumu Airport with AWS and OpenSky API](https://dev.to/copubah/building-a-real-time-aircraft-landing-tracker-for-kisumu-airport-with-aws-and-opensky-api-d9g)
-- [How DRBench Stress-Tests AI Agents for Real-World Enterprise Research](https://dev.to/aiwithapex/how-drbench-stress-tests-ai-agents-for-real-world-enterprise-research-d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
