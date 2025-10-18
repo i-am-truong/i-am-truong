@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Short Python Tutorial[2]](https://dev.to/sengseng/learning-python2-e0p)
+- [Numerical Integration in Python](https://dev.to/sengseng/learning-python2-e0p)
 - [Say Goodbye to console.time&lpar;&rpar; and Hello to performance.mark&lpar;&rpar;!](https://dev.to/greenteaisgreat/say-goodbye-to-consoletime-and-hello-to-performancemark-5eom)
 - [Children with Autism: Powerful Ways to Support Them](https://dev.to/junecool/children-with-autism-powerful-ways-to-support-them-4kgj)
 - [Building a Real-Time Aircraft Landing Tracker for Kisumu Airport with AWS and OpenSky API](https://dev.to/copubah/building-a-real-time-aircraft-landing-tracker-for-kisumu-airport-with-aws-and-opensky-api-d9g)
