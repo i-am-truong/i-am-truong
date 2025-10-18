@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Interrupt Management in ARM Cortex-M](https://dev.to/cangulmez/interrupt-management-in-arm-cortex-m-5g1g)
-- [Explore Canvas and Templates in AWS Infrastructure Composer](https://dev.to/aws-builders/explore-canvas-and-templates-in-aws-infrastructure-composer-ji5)
-- [How to Overcome the Frustrations of Multi-Platform Publishing](https://dev.to/pravin_niceguy/how-to-overcome-the-frustrations-of-multi-platform-publishing-2iak)
-- [I Tried an AI Selfie Generator — and Took a Picture with Messi!](https://dev.to/timur_kurbanov_9526e234f3/i-tried-an-ai-selfie-generator-and-took-a-picture-with-messi-4b5k)
-- [🔒 Database System Design: Transaction Isolation Levels](https://dev.to/sajjadrahman56/database-system-design-transaction-isolation-levels-14fp)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2iol)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3k9c)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1m9m)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3c4l)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-2147)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
