@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Tilemap with Pixalo Engine](https://dev.to/salarizadi/how-to-make-tilemap-with-pixalo-engine-h9n)
-- [How to Check if Logistic Regression Works for Your Dataset](https://dev.to/codeneuron/how-to-check-if-logistic-regression-works-for-your-dataset-1853)
-- [Gemini AI Sparks Diwali Craze: Build Viral 90’s Bollywood-Inspired Portraits with JSON Prompts](https://dev.to/ducknation_7000_538016ec0/gemini-ai-sparks-diwali-craze-build-viral-90s-bollywood-inspired-portraits-with-json-prompts-28h8)
-- [Node Mailer Issue in Node.js &amp; Solutions](https://dev.to/rameem2003/node-mailer-issue-in-nodejs-solutions-2nhk)
-- [5 Security Vulnerabilities Every Developer Must Fix Today](https://dev.to/kalana250/5-security-vulnerabilities-every-developer-must-fix-today-5dbo)
+- [Automating Jasmine Tests with GitHub Actions for Continuous Integration](https://dev.to/henry_messiahtmt_099ca84/automating-jasmine-tests-with-github-actions-for-continuous-integration-53gn)
+- [From Portfolio to Working Room: shipping client work in one place](https://dev.to/harris_do_a856314aea4024d/from-portfolio-to-working-room-shipping-client-work-in-one-place-4pim)
+- [Why React Native Will Outrun Native Development in 2024 &lpar;and How to Ride the Wave&rpar;](https://dev.to/ekwoster/why-react-native-will-outrun-native-development-in-2024-and-how-to-ride-the-wave-1o1e)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-156g)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3lml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
