@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Real-Time Aircraft Landing Tracker for Kisumu Airport with AWS and OpenSky API](https://dev.to/copubah/building-a-real-time-aircraft-landing-tracker-for-kisumu-airport-with-aws-and-opensky-api-d9g)
+- [How DRBench Stress-Tests AI Agents for Real-World Enterprise Research](https://dev.to/aiwithapex/how-drbench-stress-tests-ai-agents-for-real-world-enterprise-research-d9)
 - [Day 17 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-17-of-100-days-dsa-coding-challenge-36be)
 - [Day 5 of My Coding Journey: Git Push &amp; Pull – The Real Tug of War](https://dev.to/bblackwind/day-5-of-my-coding-journey-git-push-pull-the-real-tug-of-war-2hoj)
-- [Turning a 10.1&quot; netbook to a somewhat usable PC.](https://dev.to/joepornillos/turning-a-101-netbook-to-a-somewhat-usable-pc-3mb)
-- [Flexbox &amp; Grid Playground – Master CSS Layouts Visually in 2025](https://dev.to/frontendtoolstech/flexbox-grid-playground-master-css-layouts-visually-in-2025-1l4h)
-- [Java — Tradução de Máscara de Bits &lpar;BitMask&rpar;](https://dev.to/henriqueotogami/java-traducao-de-mascara-de-bits-bitmask-1pof)
+- [The AI Overconfidence Paradox: Are Our Models Too Sure of Themselves? by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-ai-overconfidence-paradox-are-our-models-too-sure-of-themselves-by-arvind-sundararajan-3dnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
