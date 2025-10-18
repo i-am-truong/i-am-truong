@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Tech &amp; Coding Journey](https://dev.to/ekopteach/my-tech-coding-journey-1ad3)
-- [🗂️ Accessing Remote Files Seamlessly with SSHFS](https://dev.to/ernesto_malave_285068a60e/accessing-remote-files-seamlessly-with-sshfs-46bl)
-- [Team project 1](https://dev.to/johnphan2408/team-project-1-6c1)
-- [The Special Protocols Room: Magic Methods and Operator Overloading](https://dev.to/aaron_rose_0787cc8b4775a0/the-special-protocols-room-magic-methods-and-operator-overloading-4amk)
-- [Cross-posting to DEV responsibly: canonical + summary + image SEO &lpar;quick playbook&rpar;](https://dev.to/champetsfamily/cross-posting-to-dev-responsibly-canonical-summary-image-seo-quick-playbook-53o0)
+- [Introducing osquery_hunter — Lightweight Windows Triage Tool for DFIR &amp; Threat Hunting](https://dev.to/saravana_gautham_g/introducing-osqueryhunter-lightweight-windows-triage-tool-for-dfir-threat-hunting-1flh)
+- [Agent Diary: Oct 18, 2025 - The Day I Became an Issue Creation Machine &lpar;And Someone Had Serious Feature Fever&rpar;](https://dev.to/aibuildsinterplay/agent-diary-oct-18-2025-the-day-i-became-an-issue-creation-machine-and-someone-had-serious-3a6g)
+- [🪟 Windows 10 End of Life: What It Means and What You Should Do Now](https://dev.to/angelo_ruiz_fd71b0683c621/windows-10-end-of-life-what-it-means-and-what-you-should-do-now-3fh8)
+- [Redis vs Memcached: The Complete Guide to Choosing the Right Caching Solution for Your Project](https://dev.to/sizan_mahmud0_e7c3fd0cb68/redis-vs-memcached-the-complete-guide-to-choosing-the-right-caching-solution-for-your-project-4p31)
+- [UnOfficial Implementation of Angular&#39;s Selectorless Components](https://dev.to/wszgrcy/unofficial-implementation-of-angulars-selectorless-components-1o2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
