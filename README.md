@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 30](https://dev.to/tomivan/coding-challenge-practice-question-30-4mic)
-- [Xilinx/AMD Vivado SoC FPGA Development and Debug Workflow](https://dev.to/joshrothe/xilinxamd-vivado-soc-fpga-development-and-debug-workflow-3mnp)
-- [Practical Next.js Form Validation with @teonord/validator](https://dev.to/jeanduppont/practical-nextjs-form-validation-with-teonordvalidator-30hl)
-- [Supercharge Your Power Query Transformations: A Flexible Function for Changing Column Types](https://dev.to/essam404/supercharge-your-power-query-transformations-a-flexible-function-for-changing-column-types-4e4e)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4aoh)
+- [Quick C# Challenges to Keep Your Coding Skills Fresh 3.&quot;FizzBuzz &quot;](https://dev.to/__b63657/quick-c-challenges-to-keep-your-coding-skills-fresh-3fizzbuzz--523f)
+- [Why Accurate Job Costing Is Essential for Project-Based Businesses](https://dev.to/kapusto/why-accurate-job-costing-is-essential-for-project-based-businesses-5age)
+- [4 Técnicas de Elicitação que Grandes Times de Software Usam e Você Também Pode](https://dev.to/dev-sigo/alem-do-que-o-usuario-te-diz-4-tecnicas-poderosas-para-descobrir-requisitos-de-software-ocultos-1mmf)
+- [🐱 Building a Minimal /me Endpoint with Pure Node.js &lpar;No Frameworks&rpar; - HNG Internship Stage 0](https://dev.to/tundealabi/building-a-minimal-me-endpoint-with-pure-nodejs-no-frameworks-hng-internship-stage-0-1760)
+- [# Cloud Resume Challenge &lpar;Azure&rpar; — PArt 3: Setting Up HTTPS and Understanding Azure CDN](https://dev.to/jic/-cloud-resume-challenge-azure-part-3-setting-up-https-and-understanding-azure-cdn-503g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
