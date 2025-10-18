@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Orion Kit: Production-Ready TypeScript Monorepo for Modern SaaS Applications](https://dev.to/martinpersson/orion-kit-production-ready-typescript-monorepo-for-modern-saas-applications-27pj)
-- [Azure MFA Enforcement and Service Principal Migration](https://dev.to/suvankit/azure-mfa-enforcement-and-service-principal-migration-5caa)
-- [Templating Columns in dbt: Helpful path to forward](https://dev.to/chaets/templating-columns-in-dbt-helpful-path-to-forward-2g3l)
-- [Terratags v0.6.0: Remote Configuration and Google Cloud Support](https://dev.to/quixoticmonk/terratags-v060-remote-configuration-and-google-cloud-support-3gd0)
-- [Streamlining Eloquent Events with Laravel Observers](https://dev.to/devtalk94/streamlining-eloquent-events-with-laravel-observers-4n3)
+- [Cybersecurity 101 : data sanitization](https://dev.to/hexfloor/cybersecurity-101-data-sanitization-cgo)
+- [Invisible Tech: The Stuff You Don&#39;t See but Can&#39;t Live Without](https://dev.to/iste-vit/invisible-tech-the-stuff-you-dont-see-but-cant-live-without-n5o)
+- [Workwear Washing Guide: Correct Temperature, Detergent, and Care Steps](https://dev.to/disiplin_forml_e60c4755/workwear-washing-guide-correct-temperature-detergent-and-care-steps-59gp)
+- [Inside Google Jobs Series &lpar;Part 6&rpar;: AI &amp; Machine Learning Research](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-6-ai-machine-learning-research-4h63)
+- [Inside Google Jobs Series &lpar;Part 5&rpar;: Search &amp; Core Product Engineering](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-5-search-core-product-engineering-39h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
