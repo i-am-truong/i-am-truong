@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Orion Kit: Production-Ready TypeScript Monorepo for Modern SaaS Applications](https://dev.to/martinpersson/orion-kit-production-ready-typescript-monorepo-for-modern-saas-applications-27pj)
 - [Azure MFA Enforcement and Service Principal Migration](https://dev.to/suvankit/azure-mfa-enforcement-and-service-principal-migration-5caa)
 - [Templating Columns in dbt: Helpful path to forward](https://dev.to/chaets/templating-columns-in-dbt-helpful-path-to-forward-2g3l)
-- [Building a Full-Stack File Upload System with Laravel, Vue.js, and S3](https://dev.to/hafiz619/building-a-full-stack-file-upload-system-with-laravel-vuejs-and-s3-305o)
-- [Dynamic Profile Endpoint &lpar;Express/Nodejs/Typescript&rpar;](https://dev.to/ideategudy/dynamic-profile-endpoint-expressnodejstypescript-52c3)
-- [Logistic Regression](https://dev.to/codeneuron/logistic-regression-4mlc)
+- [Terratags v0.6.0: Remote Configuration and Google Cloud Support](https://dev.to/quixoticmonk/terratags-v060-remote-configuration-and-google-cloud-support-3gd0)
+- [Streamlining Eloquent Events with Laravel Observers](https://dev.to/devtalk94/streamlining-eloquent-events-with-laravel-observers-4n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
