@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Design a Multilingual Database Structure | A Practical Guide](https://dev.to/adnanbabakan/how-to-design-a-multilingual-database-structure-a-practical-guide-35nf)
-- [K8s for Mortals: Orchestration Without Tears](https://dev.to/tavernetech/k8s-for-mortals-orchestration-without-tears-4pcp)
-- [The Ultimate Sprint Planning Agenda &lpar;Built for Remote Teams&rpar;](https://dev.to/gsauzande/the-ultimate-sprint-planning-agenda-built-for-remote-teams-8ob)
-- [🛠️ Fixing a Deployment Error &lpar;404 - Page not found&rpar;](https://dev.to/usama_dev/fixing-a-deployment-error-404-page-not-found-52cn)
-- [Building My Smart 2nd Brain, Part 4: The Art of Documents Searching](https://dev.to/jimmyhott/building-my-smart-2nd-brain-part-4-the-art-of-documents-searching-oid)
+- [FastForge: A Modern FastAPI Boilerplate for Authentication-Driven Applications](https://dev.to/justjayzee/fastforge-a-modern-fastapi-boilerplate-for-authentication-driven-applications-2f57)
+- [Oracle Autonomous Database Connectivity: Secure Connections with TLS and mTLS](https://dev.to/derrickryangiggs/oracle-autonomous-database-connectivity-secure-connections-with-tls-and-mtls-ibh)
+- [Wandpanelen badkamer laten plaatsen: Onderhoudsarme luxe voor vochtige ruimtes](https://dev.to/wallandceilingexpertise/wandpanelen-badkamer-laten-plaatsen-onderhoudsarme-luxe-voor-vochtige-ruimtes-4mg2)
+- [The Four Facets of Determinism in Large Language Models: Numerical, Computational, Syntactic, and Semantic](https://dev.to/jurien_vegter_dev/the-four-facets-of-determinism-in-large-language-models-numerical-computational-syntactic-and-4io4)
+- [What is link builder ?](https://dev.to/e77/what-is-link-builder--10ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
