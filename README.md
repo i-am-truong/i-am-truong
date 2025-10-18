@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What happens when u click google.com - Computer Networks](https://dev.to/algon31/what-happens-when-u-click-googlecom-computer-networks-pmh)
-- [SIM Bank: Legal and Illegal Uses, and Detection through Digital Forensics](https://dev.to/piyush_bhadane/sim-bank-legal-and-illegal-uses-and-detection-through-digital-forensics-411h)
-- [🚀 Join the CDSA Developer Challenge Hub — Learn, Build &amp; Win Experience!](https://dev.to/cdsa/join-the-cdsa-developer-challenge-hub-learn-build-win-experience-40p2)
-- [Master Java Packages: A Complete Guide to Organizing Your Code](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-packages-a-complete-guide-to-organizing-your-code-3jea)
-- [Top Mobile Game Development Companies 2025](https://dev.to/aditya_godara_2e8468386f0/top-mobile-game-development-companies-2025-3k2k)
+- [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
+- [Full-Stack mobile developer](https://dev.to/techwithsam/full-stack-mobile-developer-3f9b)
+- [Ontstopping Utrecht: waarom regelmatig onderhoud essentieel is](https://dev.to/wwloodgietersbedrijf/ontstopping-utrecht-waarom-regelmatig-onderhoud-essentieel-is-4ig3)
+- [**Master Rust Testing: Build Bulletproof Code with Unit, Integration, and Property-Based Testing**](https://dev.to/aaravjoshi/master-rust-testing-build-bulletproof-code-with-unit-integration-and-property-based-testing-2g33)
+- [#1 Way to Simplify Your App Development: Server-Driven UI](https://dev.to/karthik_n/1-way-to-simplify-your-app-development-server-driven-ui-20m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
