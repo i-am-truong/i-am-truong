@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-31pd)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4l92)
+- [Day 17 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-17-of-100-days-dsa-coding-challenge-36be)
 - [Day 5 of My Coding Journey: Git Push &amp; Pull – The Real Tug of War](https://dev.to/bblackwind/day-5-of-my-coding-journey-git-push-pull-the-real-tug-of-war-2hoj)
-- [IGN: Rooster Fighter - Official Anime Opening &lpar;What&#39;s a Hero? by Daruma ROLLIN&#39;&rpar;](https://dev.to/gg_news/ign-rooster-fighter-official-anime-opening-whats-a-hero-by-daruma-rollin-2215)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-4b4p)
+- [Turning a 10.1&quot; netbook to a somewhat usable PC.](https://dev.to/joepornillos/turning-a-101-netbook-to-a-somewhat-usable-pc-3mb)
+- [Flexbox &amp; Grid Playground – Master CSS Layouts Visually in 2025](https://dev.to/frontendtoolstech/flexbox-grid-playground-master-css-layouts-visually-in-2025-1l4h)
+- [Java — Tradução de Máscara de Bits &lpar;BitMask&rpar;](https://dev.to/henriqueotogami/java-traducao-de-mascara-de-bits-bitmask-1pof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
