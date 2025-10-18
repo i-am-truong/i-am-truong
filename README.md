@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure MFA Enforcement and Service Principal Migration](https://dev.to/suvankit/azure-mfa-enforcement-and-service-principal-migration-5caa)
+- [Templating Columns in dbt: Helpful path to forward](https://dev.to/chaets/templating-columns-in-dbt-helpful-path-to-forward-2g3l)
 - [Building a Full-Stack File Upload System with Laravel, Vue.js, and S3](https://dev.to/hafiz619/building-a-full-stack-file-upload-system-with-laravel-vuejs-and-s3-305o)
 - [Dynamic Profile Endpoint &lpar;Express/Nodejs/Typescript&rpar;](https://dev.to/ideategudy/dynamic-profile-endpoint-expressnodejstypescript-52c3)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-1gc2)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-45no)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-39e8)
+- [Logistic Regression](https://dev.to/codeneuron/logistic-regression-4mlc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
