@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wyndham Heaven](https://dev.to/elghaly/wyndham-heaven-2l2i)
+- [My Journey Completing the HNG Internship Stage 0 Backend Task 🚀🐱](https://dev.to/ali-peter/my-journey-completing-the-hng-internship-stage-0-backend-task-113l)
 - [FastForge: A Modern FastAPI Boilerplate for Authentication-Driven Applications](https://dev.to/justjayzee/fastforge-a-modern-fastapi-boilerplate-for-authentication-driven-applications-2f57)
 - [Oracle Autonomous Database Connectivity: Secure Connections with TLS and mTLS](https://dev.to/derrickryangiggs/oracle-autonomous-database-connectivity-secure-connections-with-tls-and-mtls-ibh)
 - [Wandpanelen badkamer laten plaatsen: Onderhoudsarme luxe voor vochtige ruimtes](https://dev.to/wallandceilingexpertise/wandpanelen-badkamer-laten-plaatsen-onderhoudsarme-luxe-voor-vochtige-ruimtes-4mg2)
-- [The Four Facets of Determinism in Large Language Models: Numerical, Computational, Syntactic, and Semantic](https://dev.to/jurien_vegter_dev/the-four-facets-of-determinism-in-large-language-models-numerical-computational-syntactic-and-4io4)
-- [What is link builder ?](https://dev.to/e77/what-is-link-builder--10ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
