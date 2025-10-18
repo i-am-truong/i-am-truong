@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Playbook do Micro SaaS](https://dev.to/jucelinux/playbook-do-micro-saas-2k63)
-- [📚 Recent breakthroughs in AI efficiency research have unveil](https://dev.to/drcarlosruizviquez/recent-breakthroughs-in-ai-efficiency-research-have-unveil-485d)
-- [**BREAKTHROUGH ALERT 🚀: Revolutionizing Prompt Engineering w](https://dev.to/drcarlosruizviquez/breakthrough-alert-revolutionizing-prompt-engineering-w-49pi)
-- [Event Loop Deep Dive: What Every Frontend Dev Should Know — Timers, Microtasks, and Real Examples](https://dev.to/abhishek_mishra_2002/event-loop-deep-dive-what-every-frontend-dev-should-know-timers-microtasks-and-real-examples-dma)
-- [The notion that AI in advertising solely relies on personal](https://dev.to/drcarlosruizviquez/the-notion-that-ai-in-advertising-solely-relies-on-personal-1dfd)
+- [Introducing AWS Bedrock AgentCore: A Modular Platform for Deploying AI Agents at Enterprise Scale -Part I](https://dev.to/sreeni5018/introducing-aws-bedrock-agentcore-a-modular-platform-for-deploying-ai-agents-at-enterprise-scale-369p)
+- [🧩 Diseñar un Design System &lpar;y no morir en el intento... o si&rpar;](https://dev.to/juankicr/disenar-un-design-system-y-no-morir-en-el-intento-o-si-5dd2)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4ein)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2emf)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2on1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
