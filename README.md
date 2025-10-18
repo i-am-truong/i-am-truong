@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing a Language Server with Language Server Protocol - Basic Completion &lpar;Part 5&rpar;](https://dev.to/mistrysamvid/implementing-a-language-server-with-language-server-protocol-basic-completion-part-5-2apd)
 - [The Talent War Myth: Why Great IT Recruiters Are Building Communities, Not Hunting Candidates](https://dev.to/alex-john/the-talent-war-myth-why-great-it-recruiters-are-building-communities-not-hunting-candidates-527)
 - [Beyond the Layer: Unveiling the Power of a Well-Chosen Men&#39;s Coat](https://dev.to/keira_henry/beyond-the-layer-unveiling-the-power-of-a-well-chosen-mens-coat-327e)
+- [How Your Website Updates Automatically When You Push to GitHub](https://dev.to/designndev/how-your-website-updates-automatically-when-you-push-to-github-2hmc)
 - [Introducing AWS Bedrock AgentCore: A Modular Platform for Deploying AI Agents at Enterprise Scale -Part I](https://dev.to/sreeni5018/introducing-aws-bedrock-agentcore-a-modular-platform-for-deploying-ai-agents-at-enterprise-scale-369p)
-- [🧩 Diseñar un Design System &lpar;y no morir en el intento... o si&rpar;](https://dev.to/juankicr/disenar-un-design-system-y-no-morir-en-el-intento-o-si-5dd2)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2emf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
