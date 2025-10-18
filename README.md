@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Every Developer Should Try Cursor AI in 2025](https://dev.to/eva_clari_289d85ecc68da48/why-every-developer-should-try-cursor-ai-in-2025-4pem)
+- [Mylinux: a minimalist linux disro by a 13 year old](https://dev.to/prabodh_waichal_906c90024/mylinux-a-minimalist-linux-disro-by-a-13-year-old-3jcj)
+- [Mastering Docker Commands: A Comprehensive Guide for Developers](https://dev.to/ctrix/mastering-docker-commands-a-comprehensive-guide-for-developers-2pkc)
+- [FCP_FGT_AD-7.6 Exam Prep: Common Mistakes &amp; How to Fix Them](https://dev.to/aakruthi_singh_ef9a32b0ab/fcpfgtad-76-exam-prep-common-mistakes-how-to-fix-them-3p69)
 - [🔥 Introducing PACT: A Better Way to Design APIs That Think Like Users](https://dev.to/vikyw89/introducing-pact-a-better-way-to-design-apis-that-think-like-users-259b)
-- [I’m SO Looking Forward to Not Needing a Build System Again](https://dev.to/raheelshan/im-so-looking-forward-to-not-needing-a-build-system-again-a57)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-1b8b)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-30cc)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-42oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
