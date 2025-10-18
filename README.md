@@ -120,12 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decision Trees Algorithm](https://dev.to/codeneuron/decision-trees-algorithm-19ec)
-- [Warp Support Engineer Simulation
-A mini lab replicating real-world troubleshooting workflows &lpar;permissions, SSH timeout, etc.&rpar; inside an agentic terminal context using Warp.](https://dev.to/daretechie/warp-support-engineer-simulation-a-mini-lab-replicating-real-world-troubleshooting-workflows-3o8k)
-- [Exploring Warp: Building the Future of Agentic Support Engineering](https://dev.to/daretechie/exploring-warp-building-the-future-of-agentic-support-engineering-2c68)
-- [Gulp + Nunjucks Automation: Modern Frontend Build Workflow](https://dev.to/bek-dev/gulp-nunjucks-automation-modern-frontend-build-workflow-f90)
-- [List Comprehension in Python: Syntax, Examples, and When to Use Regular For Loops](https://dev.to/beatrisilieva/list-comprehension-in-python-syntax-examples-and-when-to-use-regular-for-loops-279k)
+- [Interrupt Management in ARM Cortex-M](https://dev.to/cangulmez/interrupt-management-in-arm-cortex-m-5g1g)
+- [Explore Canvas and Templates in AWS Infrastructure Composer](https://dev.to/aws-builders/explore-canvas-and-templates-in-aws-infrastructure-composer-ji5)
+- [How to Overcome the Frustrations of Multi-Platform Publishing](https://dev.to/pravin_niceguy/how-to-overcome-the-frustrations-of-multi-platform-publishing-2iak)
+- [I Tried an AI Selfie Generator — and Took a Picture with Messi!](https://dev.to/timur_kurbanov_9526e234f3/i-tried-an-ai-selfie-generator-and-took-a-picture-with-messi-4b5k)
+- [🔒 Database System Design: Transaction Isolation Levels](https://dev.to/sajjadrahman56/database-system-design-transaction-isolation-levels-14fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
