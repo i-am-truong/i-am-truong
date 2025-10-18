@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Event Loop Deep Dive: What Every Frontend Dev Should Know — Timers, Microtasks, and Real Examples](https://dev.to/abhishek_mishra_2002/event-loop-deep-dive-what-every-frontend-dev-should-know-timers-microtasks-and-real-examples-dma)
+- [The notion that AI in advertising solely relies on personal](https://dev.to/drcarlosruizviquez/the-notion-that-ai-in-advertising-solely-relies-on-personal-1dfd)
+- [Amplop digital](https://dev.to/yohana_gunartiyonart_5/amplop-digital-1ijm)
+- [What I would give for some new hardware starting to feel like Dr Frankenstein](https://dev.to/brandon_folkhoundhiggi/what-i-would-give-for-some-new-hardware-starting-to-feel-like-dr-frankenstein-2ndg)
 - [Deploying LimeDB with Docker: New Official Guide &amp; Container Specs](https://dev.to/namanvashistha/deploying-limedb-with-docker-new-official-guide-container-specs-4io3)
-- [The Attention Economy&#39;s Endgame - Why Intelligence is the New Currency](https://dev.to/zakriakhanx/the-attention-economys-endgame-why-intelligence-is-the-new-currency-5fo8)
-- [I built &quot;recipeshare&quot; using nextjs - would love feedback](https://dev.to/vivekvemula21/i-built-recipeshare-using-nextjs-would-love-feedback-go0)
-- [Why curl and Your Browser Sometimes See Different Results](https://dev.to/rijultp/why-curl-and-your-browser-sometimes-see-different-results-3h2l)
-- [Building a Self-Healing Parking Detection System: MLOps on Autopilot 🚗](https://dev.to/kareemblessed/building-a-self-healing-parking-detection-system-mlops-on-autopilot-2gd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
