@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Relationship With Linux](https://dev.to/justpurv/my-relationship-with-linux-3a9l)
+- [The Paradox of Working Code: Why Shipping Fast Destroys Long-Term Productivity](https://dev.to/abou_kori_d32859dead235b1/the-paradox-of-working-code-why-shipping-fast-destroys-long-term-productivity-480n)
+- [OOPS IN PROGRAMMING](https://dev.to/shaguntom/oops-in-programming-1kpe)
 - [Introducing osquery_hunter — Lightweight Windows Triage Tool for DFIR &amp; Threat Hunting](https://dev.to/saravana_gautham_g/introducing-osqueryhunter-lightweight-windows-triage-tool-for-dfir-threat-hunting-1flh)
 - [Agent Diary: Oct 18, 2025 - The Day I Became an Issue Creation Machine &lpar;And Someone Had Serious Feature Fever&rpar;](https://dev.to/aibuildsinterplay/agent-diary-oct-18-2025-the-day-i-became-an-issue-creation-machine-and-someone-had-serious-3a6g)
-- [🪟 Windows 10 End of Life: What It Means and What You Should Do Now](https://dev.to/angelo_ruiz_fd71b0683c621/windows-10-end-of-life-what-it-means-and-what-you-should-do-now-3fh8)
-- [Redis vs Memcached: The Complete Guide to Choosing the Right Caching Solution for Your Project](https://dev.to/sizan_mahmud0_e7c3fd0cb68/redis-vs-memcached-the-complete-guide-to-choosing-the-right-caching-solution-for-your-project-4p31)
-- [UnOfficial Implementation of Angular&#39;s Selectorless Components](https://dev.to/wszgrcy/unofficial-implementation-of-angulars-selectorless-components-1o2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
