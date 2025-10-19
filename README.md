@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your RAG System is Failing: The Graph Database Secret That Boosted Our Retrieval Accuracy by 60%](https://dev.to/suraj_khaitan_f893c243958/why-your-rag-system-is-failing-the-graph-database-secret-that-boosted-our-retrieval-accuracy-by-60-36d4)
-- [How to optimize tube ice machine industrial standardization for better productivity?](https://dev.to/hielotubo_connect/how-to-optimize-tube-ice-machine-industrial-standardization-for-better-productivity-1d13)
-- [Story of Vox](https://dev.to/jamie_davenport/story-of-vox-4dae)
-- [I&#39;m building an open-source AI ATC for flight sims &lpar;and looking for like-minded devs&rpar;](https://dev.to/itssrubberduck/im-building-an-open-source-ai-atc-for-flight-sims-and-looking-for-like-minded-devs-2ii5)
-- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-15e8)
+- [Why is industrial application crucial when choosing a tube ice machine?](https://dev.to/maqtubohielo_auto/why-is-industrial-application-crucial-when-choosing-a-tube-ice-machine-1mca)
+- [3 Free Online Text Tools That Make Writing and Coding Easier](https://dev.to/converttext/3-free-online-text-tools-that-make-writing-and-coding-easier-b6g)
+- [Why I built a Direct-To-Consumer SMS Marketing Platform By Myself &lpar;and why it&#39;s open source now&rpar;](https://dev.to/junothreadborne/why-i-built-a-direct-to-consumer-sms-marketing-platform-by-myself-and-why-its-open-source-now-3135)
+- [RAG for Laymen: Making Sense of Retrieval-Augmented Generation](https://dev.to/siddharth_hefa_ccc5bc9455/rag-for-laymen-making-sense-of-retrieval-augmented-generation-3jai)
+- [Drawing with CSS: Let the Chaos Commence!! &lpar;with Video&rpar;](https://dev.to/alvaromontoro/drawing-with-css-let-the-chaos-commence-with-video-236g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
