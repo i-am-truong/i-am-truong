@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-5904)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-5b9a)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-474p)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-5ajf)
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-37ch)
+- [How to Install Ubuntu on Your Laptop or Desktop: A Step-by-Step Guide](https://dev.to/james_mugambi_494c7da2b07/how-to-install-ubuntu-on-your-laptop-or-desktop-a-step-by-step-guide-39kk)
+- [L’intervista che ha fatto aspettare un Paese è uscita adesso.](https://dev.to/sara_puglisi_/lintervista-che-ha-fatto-aspettare-un-paese-e-uscita-adesso-4a6a)
+- [Integrate Automated AI Code Reviews to Raise Quality &lpar;and Morale&rpar;](https://dev.to/vousmeevoyez/integrate-automated-ai-code-reviews-to-raise-quality-and-morale-2l2b)
+- [Integrating my AI app in Discord](https://dev.to/miojoester/integrating-my-ai-app-in-discord-18di)
+- [Overburdened with Test Case Disorganized Structure: Here&#39;s How AgileTest Manages all your Test Cases](https://dev.to/kayson_2025/overburdened-with-test-case-disorganized-structure-heres-how-agiletest-manages-all-your-test-cases-cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
