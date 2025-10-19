@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How LLMs Will Always Praise Your Code, Even When It’s Absurd](https://dev.to/dev-tngsh/how-llms-will-always-praise-your-code-even-when-its-absurd-2017)
+- [Ο όρος reconciliation σε χρηματοοικονομικά, λογιστικά και IT/επιχειρησιακά πλαίσια](https://dev.to/__b63657/o-oros-reconciliation-se-khrematooikonomika-logistika-kai-itepikheiresiaka-plaisia-1n42)
+- [Higher Order Functions — Powering Modern JavaScript Magic](https://dev.to/roydevashish/higher-order-functions-powering-modern-javascript-magic-26hi)
+- [From Frontend Playbook to Activation Fixes: 5 Lessons for Better Developer Experience](https://dev.to/_eb7ede481eac3d7c3/from-frontend-playbook-to-activation-fixes-5-lessons-for-better-developer-experience-4hch)
 - [💡 Simplify Every Conversion Instantly with “UnitConverters on Chrome” – The Fastest Way to Convert Units While Browsing](https://dev.to/rohan2596/simplify-every-conversion-instantly-with-unitconverters-on-chrome-the-fastest-way-to-convert-2g5n)
-- [Secure License Flows in the Browser: Lessons from Windows Activation for JS](https://dev.to/_eb7ede481eac3d7c3/secure-license-flows-in-the-browser-lessons-from-windows-activation-for-js-51ic)
-- [5 Lessons from Web Development That Apply to Windows Activation UX](https://dev.to/_eb7ede481eac3d7c3/5-lessons-from-web-development-that-apply-to-windows-activation-ux-2cmk)
-- [How We Saved 7.6GB and Fixed 99.95% Database Bloat in Our Django Logistics Platform](https://dev.to/syedharis/how-we-saved-76gb-and-fixed-9995-database-bloat-in-our-django-logistics-platform-4e84)
-- [Oracle AI Database 26ai: Filtering Analytic Function Results with the QUALIFY Clause](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-filtering-analytic-function-results-with-the-qualify-clause-497)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
