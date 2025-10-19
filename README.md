@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #42-2025: Code That Proves, Agents That Think, Systems That Last](https://dev.to/weekly/weekly-42-2025-code-that-proves-agents-that-think-systems-that-last-2kin)
-- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2)
-- [Daily Artificial Intelligence Digest - Oct 19, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-19-2025-3kb8)
-- [Writing Clean Code Without Losing Your Mind](https://dev.to/gold_roger_667d8242695024/writing-clean-code-without-losing-your-mind-136e)
-- [How I Automated Membership Fee Collection Using Stripe and Google Services](https://dev.to/yo-shi/how-i-automated-membership-fee-collection-using-stripe-and-google-services-2gd4)
+- [Simulador do Setun, o computador Soviético Ternário Balanceado](https://dev.to/robsoncassiano-software/simulador-do-setun-o-computador-sovietico-ternario-balanceado-3j7b)
+- [Day 1: Introduction to PostgreSQL - Your Journey Begins](https://dev.to/hardik_kanajariya/day-1-introduction-to-postgresql-your-journey-begins-hn7)
+- [When you opened a screen shot of a video in Paint, the video was playing in it](https://dev.to/technoblogger14o3/when-you-opened-a-screen-shot-of-a-video-in-paint-the-video-was-playing-in-it-2g2j)
+- [Understanding the Event Loop and Concurrency in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-the-event-loop-and-concurrency-in-javascript-beginners-guide-5ob)
+- [Laughing Through the Code: Dev&#39;s Guide to October 19&#39;s Tech Qwirks](https://dev.to/om_shree_0709/laughing-through-the-code-devs-guide-to-october-19s-tech-qwirks-1h1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
