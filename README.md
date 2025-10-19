@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🗂️ Clprolf Directory Explorer — When Breadth-First Becomes Intuitive](https://dev.to/charles_koffler_bcabc582b/clprolf-directory-explorer-when-breadth-first-becomes-intuitive-5a0f)
+- [Building The Apothecary: Learning Database Versioning Through Medieval Fantasy](https://dev.to/rami_gharbi/building-the-apothecary-learning-database-versioning-through-medieval-fantasy-4d2l)
+- [Generated Content](https://dev.to/iankhanfuturist/generated-content-4ae)
+- [Day 6 | 50 Projects in 50 Days](https://dev.to/augusta08/day-6-50-projects-in-50-days-40h7)
 - [SREday SF 2025: Human Centered SRE In An AI World](https://dev.to/dwayne_mcdaniel/sreday-sf-2025-human-centered-sre-in-an-ai-world-4a6k)
-- [Web Development Discord Server](https://dev.to/faraba2000_8c9cacc0f8d3ae/web-development-discord-server-4m0j)
-- [Generated Content](https://dev.to/iankhanfuturist/generated-content-44b1)
-- [Multi-Agent Systems with Strands Agents](https://dev.to/aws/multi-agent-systems-with-strands-agents-from-theory-to-swarm-intelligence-1nm6)
-- [The AI Era: New Prompt Engineering is Just the Start: The Real Skill Developers Need is AI Product Leadership](https://dev.to/marikinyo/the-ai-era-new-prompt-engineering-is-just-the-start-the-real-skill-developers-need-is-ai-product-41jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
