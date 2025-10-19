@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building My First RESTful API: Backend Wizards Stage 0 Journey 🚀](https://dev.to/luvie/building-my-first-restful-api-backend-wizards-stage-0-journey-2n51)
-- [Nevatal Joins Hacktoberfest 2025: Build the Future of AI Functions Hub 🚀](https://dev.to/thirza258/nevatal-joins-hacktoberfest-2025-build-the-future-of-ai-functions-hub-49ai)
-- [Volunteer Backend Developer &lpar;PHP + Containers&rpar; for Volt Europa Academy](https://dev.to/ilario_truppa_dbcb71bd104/volunteer-backend-developer-php-containers-for-volt-europa-academy-42n1)
-- [Privacy Is Broken in Everyday Tools — But the Browser Can Fix It](https://dev.to/anandaverma/privacy-is-broken-in-everyday-tools-but-the-browser-can-fix-it-42e5)
-- [Building and Deploying a Django REST API on AWS EC2: A Complete Guide](https://dev.to/ursulaonyi/building-and-deploying-a-django-rest-api-on-aws-ec2-a-complete-guide-2ba4)
+- [💻Building and Deploying My First Express API - HNG Stage 0 Task](https://dev.to/fiona_nyadero_0b288495ccc/building-and-deploying-my-first-express-api-hng-stage-0-task-1h6e)
+- [From Web Developer to AI + IoT Research Engineer: My Transition Journey Begins](https://dev.to/rhjoyofficial/from-web-developer-to-ai-iot-research-engineer-my-transition-journey-begins-2nb5)
+- [Building Smart TV Apps Just Got Easier](https://dev.to/foridpathan/building-smart-tv-apps-just-got-easier-2lae)
+- [Why migrate from SAP Hybris to Adobe Commerce?](https://dev.to/ziffity_solutionsllc_353/why-migrate-from-sap-hybris-to-adobe-commerce-1ah7)
+- [Day 6 of My Web Dev Journey – Exploring HTML Tags](https://dev.to/bblackwind/day-6-of-my-web-dev-journey-exploring-html-tags-g9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
