@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reputation-Driven Launches: A Practical PR Playbook for Tech Startups](https://dev.to/sonia_bobrik_1939cdddd79d/reputation-driven-launches-a-practical-pr-playbook-for-tech-startups-4b56)
-- [Trust-First Launch: A Practical PR Playbook for Tech Products &lpar;No Hype, Just Outcomes&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/trust-first-launch-a-practical-pr-playbook-for-tech-products-no-hype-just-outcomes-1ho6)
-- [Building a Self-Hosted Netlify/Vercel Alternative in Rust: An Architectural Crossroad](https://dev.to/architthegreat/building-a-self-hosted-netlifyvercel-alternative-in-rust-an-architectural-crossroad-2ge5)
-- [Make Your Brand Newsworthy in 2025: A Straight-Talking Playbook for PR That Actually Moves the Needle](https://dev.to/sonia_bobrik_1939cdddd79d/make-your-brand-newsworthy-in-2025-a-straight-talking-playbook-for-pr-that-actually-moves-the-dhj)
-- [Git for DevOps: The Essential Guide to Version Control](https://dev.to/whispernet/git-for-devops-the-essential-guide-to-version-control-5a26)
+- [95% Accurate Wake Word Detection: Low-Power CNN + MFCC Guide](https://dev.to/m-a-h-b-u-b/95-accurate-wake-word-detection-low-power-cnn-mfcc-guide-3377)
+- [Async vs Multithreading στο C# .NET](https://dev.to/__b63657/async-vs-multithreading-sto-c-net-5h8)
+- [📘 How to Know if Your Data is Linear, Non-Linear, or Complex](https://dev.to/codeneuron/how-to-know-if-your-data-is-linear-non-linear-or-complex-mdl)
+- [How to optimize tube ice machine temperature control for better productivity?](https://dev.to/hielotubo_connect/how-to-optimize-tube-ice-machine-temperature-control-for-better-productivity-567k)
+- [🛡️ Launching Cyber Security Guard Defense Stack – AI-Powered &amp; Open Source](https://dev.to/alaamahm0ud/launching-cyber-security-guard-defense-stack-ai-powered-open-source-42d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
