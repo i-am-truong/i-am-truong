@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [** &quot;Ian Khan - Top Keynote Speaker in Jeddah, Saudi Arabia](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-jeddah-saudi-arabia-m84)
+- [The Fuck Up Ratio: A Measure of Unexpected Risk in Financial Assets and Its Application to Portfolio Allocation](https://dev.to/ryo_suwito/the-fuck-up-ratio-a-measure-of-unexpected-risk-in-financial-assets-and-its-application-to-5ho3)
 - [🚫 Dopamine Detox - How I Rewired My Brain for Focus 💻](https://dev.to/nurthedev/dopamine-detox-how-i-rewired-my-brain-for-focus-553j)
 - [Trump&#39;s Surreal AI Video Sparks Debate on Deepfake Limitations](https://dev.to/mabualzait/trumps-surreal-ai-video-sparks-debate-on-deepfake-limitations-54jh)
 - [Praying to the Machines: How AI is Redefining Faith and Code](https://dev.to/mabualzait/praying-to-the-machines-how-ai-is-redefining-faith-and-code-55jb)
-- [How to optimize tube ice machine industrial innovation for better productivity?](https://dev.to/tubofrio_plus/how-to-optimize-tube-ice-machine-industrial-innovation-for-better-productivity-4g86)
-- [** &quot;Ian Khan - Top Keynote Speaker in Casablanca, Morocco](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-casablanca-morocco-m87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
