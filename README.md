@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing AWS Lambda: A Complete Guide to Performance and Cost Efficiency](https://dev.to/zareen/optimizing-aws-lambda-a-complete-guide-to-performance-and-cost-efficiency-29j6)
+- [The Wedding Photo Retouching Process: Step-by-Step Guide](https://dev.to/shivam_rattan_52ec42175ba/the-wedding-photo-retouching-process-step-by-step-guide-2aca)
+- [[2023-07-05 Sun] :emacs: I fixed displaying of links in #Notmuch #email client](https://dev.to/anoncheg/2023-07-05-sun-emacs-i-fixed-displaying-of-links-in-notmuch-email-client-2k1l)
 - [DevSecOps Pipeline | Jenkins, Terraform, Docker, Trivy, AWS](https://dev.to/ritesh355/devsecops-pipeline-jenkins-terraform-docker-trivy-aws-3ien)
 - [Observability vs. Monitoring](https://dev.to/godofgeeks/observability-vs-monitoring-18ol)
-- [AngularJS to Angular: A Guide for Hassle-free Migration](https://dev.to/hashbyt/angularjs-to-angular-a-guide-for-hassle-free-migration-57mg)
-- [Day 26 - Alert Component Part 5 - Extract logic and component from Alert Bar](https://dev.to/railsstudent/day-26-alert-component-part-4-extract-logic-and-component-from-alert-bar-1in5)
-- [Code Yourself](https://dev.to/glen_talking_cat/code-yourself-1071)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
