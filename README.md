@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to Ollama Cloud Models](https://dev.to/coderforfun/a-beginners-guide-to-ollama-cloud-models-3lc2)
+- [** &quot;Cerabyte&#39;s Glass Storage Breakthrough: Why Data Preservation Matters in the AI Revolution](https://dev.to/iankhanfuturist/-cerabytes-glass-storage-breakthrough-why-data-preservation-matters-in-the-ai-revolution-lig)
+- [Generative AI in Fintech : A PPT](https://dev.to/kaustubhyerkade/generative-ai-in-fintech-a-ppt-57j8)
 - [How to generate revenue from Open Source](https://dev.to/softwaredeveloper01/how-to-generate-revenue-from-open-source-3ek8)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-381)
 - [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-591o)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5bdg)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5gj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
