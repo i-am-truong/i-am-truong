@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monólito vs. Microsserviços: Um Guia Detalhado para Entender a Arquitetura de Software](https://dev.to/a_audrey/monolito-vs-microsservicos-um-guia-detalhado-para-entender-a-arquitetura-de-software-1l9i)
+- [Being Agile in AI-Native Software Development](https://dev.to/ankudear/being-agile-in-ai-native-software-development-1mhj)
+- [Chat With Any Document Instantly — Meet Pidoca 🚀](https://dev.to/devabusayed/chat-with-any-document-instantly-meet-pidoca-450k)
+- [Die Zukunft von Krypto entscheidet sich über UX — nicht über den nächsten Bullrun](https://dev.to/piwa_lin_8b3155c3dd85f0f9/die-zukunft-von-krypto-entscheidet-sich-uber-ux-nicht-uber-den-nachsten-bullrun-4abl)
 - [ASP .NET Core modals](https://dev.to/karenpayneoregon/asp-net-core-modals-3dlj)
-- [De User Story a Test Case en minutos: microservicio IA &lpar;FastAPI + Gemini + Langfuse&rpar; para QA](https://dev.to/stevenayal/de-user-story-a-test-case-en-minutos-microservicio-ia-fastapi-gemini-langfuse-para-qa-3l14)
-- [How to Use AI in Brand Journalism with Gemini to Transform Digital Information into Strategic Editorial Content?](https://dev.to/r_elena_mendez_escobar/how-to-use-ai-in-brand-journalism-with-gemini-to-transform-digital-information-into-strategic-akl)
-- [** &quot;CES 2026: The Dawn of Ambient AI and the Invisible Interface](https://dev.to/iankhanfuturist/-ces-2026-the-dawn-of-ambient-ai-and-the-invisible-interface-pi9)
-- [This Could Be the Next Devops : Platform Engineering, AIOps &amp; Cloud-Native Automation](https://dev.to/kaustubhyerkade/the-new-devops-platform-engineering-aiops-cloud-native-automation-2711)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
