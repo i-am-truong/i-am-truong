@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Resume AI Creator: Building an Intelligent Resume Platform with MCP and Auth0](https://dev.to/uratmangun/resume-ai-creator-building-an-intelligent-resume-platform-with-mcp-and-auth0-4039)
-- [Deep dive Tainted Grail [3] - Medusa - blazing fast cliffs rendering](https://dev.to/kamilvdono/deep-dive-tainted-grail-3-medusa-blazing-fast-cliffs-rendering-4pi1)
-- [Chinese Love Story &lpar;Part 1&rpar; — To Know Each Other Yet Be Unable to Fall in Love: What a Pain It Is](https://dev.to/tripcat/chinese-love-story-part-1-to-know-each-other-yet-be-unable-to-fall-in-love-what-a-pain-it-is-1hem)
-- [I Built 50+ Free SEO Tools in 1 Week - Here&#39;s What I Learned](https://dev.to/dev_coder91/i-built-50-free-seo-tools-in-1-week-heres-what-i-learned-3h1k)
-- [Ubuntuでイヤフォン、スピーカーから音が出ない](https://dev.to/kiyamk/ubuntudeiyahuon-supikakarayin-gachu-nai-37g5)
+- [Building Advanced AI Agents with AgentQL, LangChain, and LlamaIndex](https://dev.to/paras_test/building-advanced-ai-agents-with-agentql-langchain-and-llamaindex-33hp)
+- [Took me 4hr to build Frontend of AI SPA ..](https://dev.to/naveen_anonymous_4cf6c35f/took-me-4hr-to-build-frontend-of-ai-spa--1n2c)
+- [branded background generator for video calls](https://dev.to/paladinic/branded-background-generator-for-video-calls-2bje)
+- [Kubernetes Scaling with KEDA: Zero-Loss Data Processing at Scale](https://dev.to/mamta_jha_6b088156e86369a/kubernetes-scaling-with-keda-zero-loss-data-processing-at-scale-3fca)
+- [If AI scares you, learn software architecture](https://dev.to/koladev/if-ai-scares-you-learn-software-architecture-1nie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
