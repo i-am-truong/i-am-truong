@@ -120,15 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to optimize tube ice machine durability for better productivity?](https://dev.to/tubohielo_com/how-to-optimize-tube-ice-machine-durability-for-better-productivity-3fkp)
-- [FinOps in Kubernetes with OpenCost](https://dev.to/kartikdudeja21/finops-in-kubernetes-with-opencost-166b)
-- [You Can Build Scalable Javascript Video Calling App in 10 Minutes🙀🔥🤩](https://dev.to/chaitrali_kakde/you-can-build-scalable-javascript-video-calling-app-in-10-minutes-1o3g)
-- [** &quot;Ian Khan - Top Keynote Speaker in Cape Town, South Africa](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-cape-town-south-africa-5c6f)
-- [Wrote my thought process on redesigning my tiny CLI tool.
-
-https://akhy.my.id/posts/fixing-nested-shells-ksw-kubeconfig-switcher/
-
-#go #kubectl #unix](https://dev.to/akhy/wrote-my-thought-process-on-redesigning-my-tiny-cli-tool-5a6d)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-465e)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-ck9)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-27bo)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3jma)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-39gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
