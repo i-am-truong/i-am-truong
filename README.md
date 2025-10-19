@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HPC &amp; Apollo Tyres Deep Dive | AWS Summit Bangalore 2025](https://dev.to/aws-builders/hpc-apollo-tyres-deep-dive-aws-summit-bangalore-2025-6ig)
-- [Public CSS Custom Properties in the Shadow DOM](https://dev.to/michaelwarren1106/public-css-custom-properties-in-the-shadow-dom-4hc6)
-- [How I Boosted My Nuxt 3 Portfolio Speed by 3x &lpar;4.5s 1.4s&rpar;](https://dev.to/ojaswiat/how-i-boosted-my-nuxt-3-portfolio-speed-by-3x-45s-14s-5025)
-- [What Sets Turkish Hair-Transplant Clinics Apart in 2025](https://dev.to/disiplin_forml_e60c4755/what-sets-turkish-hair-transplant-clinics-apart-in-2025-46o4)
-- [Why I Built IntentQL: A Protocol for AI Agents to Use the Web Natively](https://dev.to/lee_manley_1f3040d70e4caf/why-i-built-intentql-a-protocol-for-ai-agents-to-use-the-web-natively-1pdg)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4e33)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1jdj)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1o95)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2kii)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-4592)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
