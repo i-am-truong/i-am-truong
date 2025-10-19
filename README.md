@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Saved 7.6GB and Fixed 99.95% Database Bloat in Our Django Logistics Platform](https://dev.to/syedharis/how-we-saved-76gb-and-fixed-9995-database-bloat-in-our-django-logistics-platform-4e84)
+- [Oracle AI Database 26ai: Filtering Analytic Function Results with the QUALIFY Clause](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-filtering-analytic-function-results-with-the-qualify-clause-497)
 - [95% Accurate Wake Word Detection: Low-Power CNN + MFCC Guide](https://dev.to/m-a-h-b-u-b/95-accurate-wake-word-detection-low-power-cnn-mfcc-guide-3377)
 - [Async vs Multithreading στο C# .NET](https://dev.to/__b63657/async-vs-multithreading-sto-c-net-5h8)
 - [📘 How to Know if Your Data is Linear, Non-Linear, or Complex](https://dev.to/codeneuron/how-to-know-if-your-data-is-linear-non-linear-or-complex-mdl)
-- [How to optimize tube ice machine temperature control for better productivity?](https://dev.to/hielotubo_connect/how-to-optimize-tube-ice-machine-temperature-control-for-better-productivity-567k)
-- [🛡️ Launching Cyber Security Guard Defense Stack – AI-Powered &amp; Open Source](https://dev.to/alaamahm0ud/launching-cyber-security-guard-defense-stack-ai-powered-open-source-42d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
