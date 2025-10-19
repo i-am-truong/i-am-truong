@@ -124,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [A Voyage through Algorithms using Javascript - Radix Sort](https://dev.to/humblecoder00/a-voyage-through-algorithms-using-javascript-radix-sort-4ga8)
 - [API Monitoring: Checking uptime vs checking if your response actually works](https://dev.to/dam84/api-monitoring-checking-uptime-vs-checking-if-your-response-actually-works-3l46)
 - [Generics as a Design Tool, Not Just a Language Feature](https://dev.to/ibrahimgunduz34/generics-as-a-design-tool-not-just-a-language-feature-1fml)
-- [Usando a opção &#39;hint&#39; para adicionar frases de contexto no anki](https://dev.to/jackson_primo/usando-a-opcao-hint-para-adicionar-frases-de-contexto-no-anki-4hlk)
+- [My Learnings from the Rental Car Power App Guided Project &lpar;Coursera&rpar;](https://dev.to/vishaka_nr_/my-learnings-from-the-rental-car-power-app-guided-project-coursera-500g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
