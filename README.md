@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Look at Me, I&#39;m the iOS Developer Now](https://dev.to/asvid/look-at-me-im-the-ios-developer-now-icj)
-- [Building a Dynamic Profile Endpoint](https://dev.to/ayokunle_olaakande_e8831/building-a-dynamic-profile-endpoint-1l48)
-- [⚡ Mastering Multithreading in Java](https://dev.to/mohamad_mhana/mastering-multithreading-in-java-4i6m)
-- [My First Line of Code Changed Everything 👩🏽‍💻](https://dev.to/ikejidorcas/my-first-line-of-code-changed-everything-3on8)
-- [🧩 Minha Primeira Comunicação com MCP e .NET – Parte 3](https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-3-1432)
+- [The AI Era: New Prompt Engineering is Just the Start: The Real Skill Developers Need is AI Product Leadership](https://dev.to/marikinyo/the-ai-era-new-prompt-engineering-is-just-the-start-the-real-skill-developers-need-is-ai-product-41jo)
+- [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-5cnh)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-57e2)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1pji)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5dli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
