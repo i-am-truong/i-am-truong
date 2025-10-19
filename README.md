@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How TCP and UDP Protocols Work: Understanding Their Critical Role in Internet Communication](https://dev.to/ganesh-kumar/how-tcp-and-udp-protocols-work-understanding-their-critical-role-in-internet-communication-4iah)
+- [HAPPY DIWALI](https://dev.to/lg_yoko_e8089785993faf486/happy-diwali-520)
 - [Apache Spark সহজভাবে জানি](https://dev.to/sajjadrahman56/apache-spark-shjbhaabe-jaani-2jo6)
 - [Building Advanced AI Agents with AgentQL, LangChain, and LlamaIndex](https://dev.to/paras_test/building-advanced-ai-agents-with-agentql-langchain-and-llamaindex-33hp)
 - [Took me 4hr to build Frontend of AI SPA ..](https://dev.to/naveen_btech/took-me-4hr-to-build-frontend-of-ai-spa--1n2c)
