@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [11 INSANE Use Cases of Perplexity Comet Browser &lpar;With Demo Video&rpar; — Why You Need to Sign Up Now!](https://dev.to/nish2005karsh/11-insane-use-cases-of-perplexity-comet-browser-with-demo-video-why-you-need-to-sign-up-now-51fm)
-- [Building Voice-Enabled Flutter Apps using LLMs: A Practical Multimodal GUI Architecture](https://dev.to/hans_vandam_d4bf45a4565e/building-voice-enabled-flutter-apps-using-llms-a-practical-multimodal-gui-architecture-10on)
-- [The story of how RLS was the cause of data retrieval issues in Supabase [React x Supabase]](https://dev.to/kazutora_hattori_66972c88/the-story-of-how-rls-was-the-cause-of-data-retrieval-issues-in-supabase-react-x-supabase-58fm)
-- [How To Do Page Transitions In Vue.js](https://dev.to/pooya_goodarzi_93d9398f01/how-to-do-page-transitions-in-vuejs-4nce)
-- [10 ComfyUI Mistakes Beginners Make &lpar;And How to Fix Them&rpar;](https://dev.to/studio_angry_shark/10-comfyui-mistakes-beginners-make-and-how-to-fix-them-25k1)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3f88)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-1e05)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-3d16)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-2dke)
+- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-2mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
