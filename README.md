@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Dataverse Solutions Deserve Better Builds &lpar;Here’s How&rpar;](https://dev.to/_neronotte/your-dataverse-solutions-deserve-better-builds-heres-how-3po9)
+- [I Built an AI That Predicts LinkedIn Post Virality Before You Hit Publish &lpar;Here&#39;s What I Learned Analyzing 500+ Posts&rpar;](https://dev.to/sumanthchary/i-built-an-ai-that-predicts-linkedin-post-virality-before-you-hit-publish-heres-what-i-learned-1jm7)
 - [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4e33)
 - [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1jdj)
 - [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1o95)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2kii)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-4592)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
