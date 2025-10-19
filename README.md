@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generics as a Design Tool, Not Just a Language Feature](https://dev.to/ibrahimgunduz34/generics-as-a-design-tool-not-just-a-language-feature-1fml)
 - [Usando a opção &#39;hint&#39; para adicionar frases de contexto no anki](https://dev.to/jackson_primo/usando-a-opcao-hint-para-adicionar-frases-de-contexto-no-anki-4hlk)
 - [Low performers do not exist](https://dev.to/s44d/low-performers-do-not-exist-40ag)
 - [A first Experience with LLaMA.CPP](https://dev.to/aairom/a-first-experience-with-llamacpp-3h5p)
 - [Docker Fundamentals: Understanding Containers and the Docker Ecosystem 🐳](https://dev.to/techwithhari/docker-fundamentals-understanding-containers-and-the-docker-ecosystem-3oe6)
-- [# Clara 4.0 – Community Edition: Framework open source para asistentes de IA 🚀](https://dev.to/carmenmanzanoestshipit/-clara-40-community-edition-framework-open-source-para-asistentes-de-ia-fpl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
