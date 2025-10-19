@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✨ STAFF FRONTEND ENGINEER &lpar;USA ONLY&rpar; 🇺🇸](https://dev.to/codetodeploy/staff-frontend-engineer-usa-only-2o67)
-- [What makes tube ice machines ideal for automation upgrade industries?](https://dev.to/maqhielotubo_port/what-makes-tube-ice-machines-ideal-for-automation-upgrade-industries-5fgc)
-- [This is a test post for dev.to](https://dev.to/jaydenhe/this-is-a-test-post-for-devto-3del)
-- [Technical Showcase: Breakable Glass](https://dev.to/justind/technical-showcase-breakable-glass-4k5h)
-- [AWS Lambda Reload](https://dev.to/zareen/aws-lambda-reload-5bn3)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-5904)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-5b9a)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-474p)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-5ajf)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-37ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
