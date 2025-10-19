@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Windows Shortcuts Plan Mode/Edit Mode](https://dev.to/adzhydra/claude-code-windows-shortcuts-plan-modeedit-mode-85d)
-- [🗂️ Clprolf Directory Explorer — When Breadth-First Becomes Intuitive](https://dev.to/charles_koffler_bcabc582b/clprolf-directory-explorer-when-breadth-first-becomes-intuitive-5a0f)
-- [Building The Apothecary: Learning Database Versioning Through Medieval Fantasy](https://dev.to/rami_gharbi/building-the-apothecary-learning-database-versioning-through-medieval-fantasy-4d2l)
-- [Day 6 | 50 Projects in 50 Days](https://dev.to/augusta08/day-6-50-projects-in-50-days-40h7)
-- [Improving Responsively App Documentation – Week 2 of Hacktoberfest](https://dev.to/kkrishnan10/improving-responsively-app-documentation-week-2-of-hacktoberfest-2c60)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-e6)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-306g)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3mg)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-ioh)
+- [Mr Sunday Movies: Why is Tron: Ares bombing?](https://dev.to/popcorn_movies/mr-sunday-movies-why-is-tron-ares-bombing-1735)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
