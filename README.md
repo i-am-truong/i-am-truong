@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Permanent Access to Just-in-Time: A Startup&#39;s IAM Journey Part 3](https://dev.to/ccscaesar/from-permanent-access-to-just-in-time-a-startups-iam-journey-part-3-5c5a)
-- [HC05 / XBee First Steps](https://dev.to/danielmx/hc05-xbee-first-steps-3h48)
-- [Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰](https://dev.to/rohit_singh_ee84e64941db7/unlocking-javascript-prototypes-a-real-world-guide-with-a-tasty-example-2bc2)
-- [Simulador do Setun, o computador Soviético Ternário Balanceado](https://dev.to/robsoncassiano-software/simulador-do-setun-o-computador-sovietico-ternario-balanceado-3j7b)
-- [Day 1: Introduction to PostgreSQL - Your Journey Begins](https://dev.to/hardik_kanajariya/day-1-introduction-to-postgresql-your-journey-begins-hn7)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1mp6)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-2fkg)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3l8j)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-4nff)
+- [Mr Sunday Movies: Why is Tron: Ares bombing?](https://dev.to/popcorn_movies/mr-sunday-movies-why-is-tron-ares-bombing-5fhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
