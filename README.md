@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apriori Algorithm: Unlocking Hidden Patterns in Your Data](https://dev.to/simranshaikh20_50/apriori-algorithm-unlocking-hidden-patterns-in-your-data-3l2f)
-- [HAPPY DIWALI](https://dev.to/lg_yoko_e8089785993faf486/happy-diwali-520)
-- [Apache Spark সহজভাবে জানি](https://dev.to/sajjadrahman56/apache-spark-shjbhaabe-jaani-2jo6)
-- [Building Advanced AI Agents with AgentQL, LangChain, and LlamaIndex](https://dev.to/paras_test/building-advanced-ai-agents-with-agentql-langchain-and-llamaindex-33hp)
-- [Took me 4hr to build Frontend of AI SPA ..](https://dev.to/naveen_btech/took-me-4hr-to-build-frontend-of-ai-spa--1n2c)
+- [“Clara 4.0 – Community Edition: Framework open source para asistentes de IA”](https://dev.to/carmenmanzanoestshipit/clara-40-community-edition-framework-open-source-para-asistentes-de-ia-271p)
+- [Level Up Your CSS Skills with These 5 Fun &amp; Interactive Games](https://dev.to/homayunmmdy/level-up-your-css-skills-with-these-5-fun-interactive-games-2cki)
+- [starting with machine learning? this open source package might help you understand the process of data preprocessing! 🎆](https://dev.to/rushedcomet/starting-with-machine-learning-this-open-source-package-might-help-you-understand-the-process-of-3gap)
+- [👘 I Built an AI That Suggests Japanese Outfits Based on Weather &lpar;Using Auth0 &amp; GPT-4&rpar;](https://dev.to/leopaul29/i-built-an-ai-that-suggests-japanese-outfits-based-on-weather-using-auth0-gpt-4-cdj)
+- [Event-Driven Control Planes That Scale | AWS Summit Bangalore 2025](https://dev.to/aws-builders/event-driven-control-planes-that-scale-aws-summit-bangalore-2025-3gg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
