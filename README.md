@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel APP_KEY vs Password Hashing: What Every Developer Should Know About Encryption &amp; Hashing.](https://dev.to/eldeeno/laravel-appkey-vs-password-hashing-what-every-developer-should-know-about-encryption-hashing-2d7d)
-- [I Tried Beating LeetCode Like a Game. It Actually Worked.](https://dev.to/trojanmocx/i-tried-beating-leetcode-like-a-game-it-actually-worked-2dh3)
-- [📰 Major Tech News: Oct 19th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-19th-2025-3o9d)
-- [UI Finder: The One-Stop Solution for Finding UI Libraries](https://dev.to/alexovn/ui-finder-the-one-stop-solution-for-finding-ui-libraries-25f)
-- [Quick C# Challenges to Keep Your Coding Skills Fresh 4.&quot;CountVowels&quot;](https://dev.to/__b63657/quick-c-challenges-to-keep-your-coding-skills-fresh-4countvowels-ggj)
+- [Usando a opção &#39;hint&#39; para adicionar frases de contexto no anki](https://dev.to/jackson_primo/usando-a-opcao-hint-para-adicionar-frases-de-contexto-no-anki-4hlk)
+- [Low performers do not exist](https://dev.to/s44d/low-performers-do-not-exist-40ag)
+- [A first Experience with LLaMA.CPP](https://dev.to/aairom/a-first-experience-with-llamacpp-3h5p)
+- [Docker Fundamentals: Understanding Containers and the Docker Ecosystem 🐳](https://dev.to/techwithhari/docker-fundamentals-understanding-containers-and-the-docker-ecosystem-3oe6)
+- [# Clara 4.0 – Community Edition: Framework open source para asistentes de IA 🚀](https://dev.to/carmenmanzanoestshipit/-clara-40-community-edition-framework-open-source-para-asistentes-de-ia-fpl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
