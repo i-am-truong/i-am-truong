@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate AI Assistant for Web Productivity](https://dev.to/nish2005karsh/the-ultimate-ai-assistant-for-web-productivity-1dpb)
-- [How I Built My Portfolio Using Next.js — Gaurav Kumawat](https://dev.to/gauravkumawat/how-i-built-my-portfolio-using-nextjs-gaurav-kumawat-30o4)
-- [How I Built My Portfolio Using Next.js — Gaurav Kumawat](https://dev.to/gauravkumawat/how-i-built-my-portfolio-using-nextjs-gaurav-kumawat-19gd)
-- [Important Update: LimeDB&#39;s Transition from Java to Go &lpar;README Notice&rpar;](https://dev.to/namanvashistha/important-update-limedbs-transition-from-java-to-go-readme-notice-f08)
-- [Introducing Varwolf 🐺 - Dynamic CSS Variables for React](https://dev.to/kunaltanwar/introducing-varwolf-dynamic-css-variables-for-react-3kfo)
+- [11 INSANE Use Cases of Perplexity Comet Browser &lpar;With Demo Video&rpar; — Why You Need to Sign Up Now!](https://dev.to/nish2005karsh/11-insane-use-cases-of-perplexity-comet-browser-with-demo-video-why-you-need-to-sign-up-now-51fm)
+- [Building Voice-Enabled Flutter Apps using LLMs: A Practical Multimodal GUI Architecture](https://dev.to/hans_vandam_d4bf45a4565e/building-voice-enabled-flutter-apps-using-llms-a-practical-multimodal-gui-architecture-10on)
+- [The story of how RLS was the cause of data retrieval issues in Supabase [React x Supabase]](https://dev.to/kazutora_hattori_66972c88/the-story-of-how-rls-was-the-cause-of-data-retrieval-issues-in-supabase-react-x-supabase-58fm)
+- [How To Do Page Transitions In Vue.js](https://dev.to/pooya_goodarzi_93d9398f01/how-to-do-page-transitions-in-vuejs-4nce)
+- [10 ComfyUI Mistakes Beginners Make &lpar;And How to Fix Them&rpar;](https://dev.to/studio_angry_shark/10-comfyui-mistakes-beginners-make-and-how-to-fix-them-25k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
