@@ -120,11 +120,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is the beverage industry crucial when choosing a tube ice machine?](https://dev.to/tubohielo_fast/why-is-the-beverage-industry-crucial-when-choosing-a-tube-ice-machine-4476)
-- [** &quot;Ian Khan - Top Keynote Speaker in Addis Ababa, Ethiopia](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-addis-ababa-ethiopia-1kl7)
+- [Wrote my thought process on redesigning my tiny CLI tool.
+
+https://akhy.my.id/posts/fixing-nested-shells-ksw-kubeconfig-switcher/
+
+#go #kubectl #unix](https://dev.to/akhy/wrote-my-thought-process-on-redesigning-my-tiny-cli-tool-5a6d)
 - [Day 18 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-18-of-100-days-dsa-coding-challenge-3apj)
-- [** &quot;Ian Khan - Top Keynote Speaker in Berlin, Germany](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-berlin-germany-4n8)
-- [What are the latest trends in tube ice machine maintenance?](https://dev.to/maqhielotubo_prem/what-are-the-latest-trends-in-tube-ice-machine-maintenance-4lno)
+- [The Fuck Up Ratio: A Measure of Unexpected Risk in Financial Assets and Its Application to Portfolio Allocation](https://dev.to/ryo_suwito/the-fuck-up-ratio-a-measure-of-unexpected-risk-in-financial-assets-and-its-application-to-5ho3)
+- [🚫 Dopamine Detox - How I Rewired My Brain for Focus 💻](https://dev.to/nurthedev/dopamine-detox-how-i-rewired-my-brain-for-focus-553j)
+- [Trump&#39;s Surreal AI Video Sparks Debate on Deepfake Limitations](https://dev.to/mabualzait/trumps-surreal-ai-video-sparks-debate-on-deepfake-limitations-54jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
