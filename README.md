@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Saturday Morning Call: How I Stopped a Fintech Exploit in Real-Time](https://dev.to/daniel_agoziem_c8e6af75dc/the-saturday-morning-call-how-i-stopped-a-fintech-exploit-in-real-time-21po)
-- [My First Next.js Project - Developer Portfolio Website](https://dev.to/alexandru-ene-dev/my-first-nextjs-project-developer-portfolio-website-4ol8)
-- [From HTTP1.1 to HTTP3: The Evolution of Web Communication](https://dev.to/rijultp/from-http11-to-http3-the-evolution-of-web-communication-31mm)
-- [🧩 Minha Primeira Comunicação com MCP e .NET – Parte 2](https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-2-262h)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a)
+- [Debugging in Go with Delve](https://dev.to/migsarnavarro/debugging-in-go-with-delve-32a3)
+- [GPT-5 সম্পর্কে সংক্ষিপ্ত তথ্য:👇](https://dev.to/younus_devto/gpt-5-smprke-snkssipt-tthy-59l)
+- [A Handy All-in-One Web Tool That Makes Daily File and Image Tasks Super Easy](https://dev.to/foxpink/a-handy-all-in-one-web-tool-that-makes-daily-file-and-image-tasks-super-easy-2bdi)
+- [Building a Dynamic Profile API in ASP.NET Core for HNGi Stage 0 🐱💻](https://dev.to/michealanazodo/building-a-dynamic-profile-api-in-aspnet-core-for-hngi-stage-0-12pc)
+- [Can tube ice machines reduce costs through better ice size uniformity?](https://dev.to/maqhielotubo_port/can-tube-ice-machines-reduce-costs-through-better-ice-size-uniformity-596g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
