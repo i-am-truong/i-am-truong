@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How LLMs Will Always Praise Your Code, Even When It’s Absurd](https://dev.to/dev-tngsh/how-llms-will-always-praise-your-code-even-when-its-absurd-2017)
-- [Ο όρος reconciliation σε χρηματοοικονομικά, λογιστικά και IT/επιχειρησιακά πλαίσια](https://dev.to/__b63657/o-oros-reconciliation-se-khrematooikonomika-logistika-kai-itepikheiresiaka-plaisia-1n42)
-- [Higher Order Functions — Powering Modern JavaScript Magic](https://dev.to/roydevashish/higher-order-functions-powering-modern-javascript-magic-26hi)
-- [From Frontend Playbook to Activation Fixes: 5 Lessons for Better Developer Experience](https://dev.to/_eb7ede481eac3d7c3/from-frontend-playbook-to-activation-fixes-5-lessons-for-better-developer-experience-4hch)
-- [💡 Simplify Every Conversion Instantly with “UnitConverters on Chrome” – The Fastest Way to Convert Units While Browsing](https://dev.to/rohan2596/simplify-every-conversion-instantly-with-unitconverters-on-chrome-the-fastest-way-to-convert-2g5n)
+- [Why Your RAG System is Failing: The Graph Database Secret That Boosted Our Retrieval Accuracy by 60%](https://dev.to/suraj_khaitan_f893c243958/why-your-rag-system-is-failing-the-graph-database-secret-that-boosted-our-retrieval-accuracy-by-60-36d4)
+- [How to optimize tube ice machine industrial standardization for better productivity?](https://dev.to/hielotubo_connect/how-to-optimize-tube-ice-machine-industrial-standardization-for-better-productivity-1d13)
+- [Story of Vox](https://dev.to/jamie_davenport/story-of-vox-4dae)
+- [I&#39;m building an open-source AI ATC for flight sims &lpar;and looking for like-minded devs&rpar;](https://dev.to/itssrubberduck/im-building-an-open-source-ai-atc-for-flight-sims-and-looking-for-like-minded-devs-2ii5)
+- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-15e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
