@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mohsenshahbazi/-40lj)
-- [What role does energy efficiency play in the performance of tube ice machines?](https://dev.to/maqhielotubo_prem/what-role-does-energy-efficiency-play-in-the-performance-of-tube-ice-machines-5gl3)
-- [Article 2: Start Live Trading or Paper Trading? Freqtrade trade Command Explained](https://dev.to/itrade_icu_ae8778833e3e8c/article-2-start-live-trading-or-paper-trading-freqtrade-trade-command-explained-586k)
-- [[2023-06-25 Sun] I learned how to write tests in pytest](https://dev.to/anoncheg/2023-06-25-sun-i-learned-how-to-write-tests-in-pytest-47e7)
-- [Day 25 - Alert Component Part 4 - Update the Alert Bar to reopen closed alerts](https://dev.to/railsstudent/day-25-alert-component-part-4-update-the-alert-bar-to-reopen-closed-alerts-50f9)
+- [DevSecOps Pipeline | Jenkins, Terraform, Docker, Trivy, AWS](https://dev.to/ritesh355/devsecops-pipeline-jenkins-terraform-docker-trivy-aws-3ien)
+- [Observability vs. Monitoring](https://dev.to/godofgeeks/observability-vs-monitoring-18ol)
+- [AngularJS to Angular: A Guide for Hassle-free Migration](https://dev.to/hashbyt/angularjs-to-angular-a-guide-for-hassle-free-migration-57mg)
+- [Day 26 - Alert Component Part 5 - Extract logic and component from Alert Bar](https://dev.to/railsstudent/day-26-alert-component-part-4-extract-logic-and-component-from-alert-bar-1in5)
+- [Code Yourself](https://dev.to/glen_talking_cat/code-yourself-1071)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
