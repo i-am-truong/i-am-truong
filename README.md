@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [💡 Simplify Every Conversion Instantly with “UnitConverters on Chrome” – The Fastest Way to Convert Units While Browsing](https://dev.to/rohan2596/simplify-every-conversion-instantly-with-unitconverters-on-chrome-the-fastest-way-to-convert-2g5n)
+- [Secure License Flows in the Browser: Lessons from Windows Activation for JS](https://dev.to/_eb7ede481eac3d7c3/secure-license-flows-in-the-browser-lessons-from-windows-activation-for-js-51ic)
+- [5 Lessons from Web Development That Apply to Windows Activation UX](https://dev.to/_eb7ede481eac3d7c3/5-lessons-from-web-development-that-apply-to-windows-activation-ux-2cmk)
 - [How We Saved 7.6GB and Fixed 99.95% Database Bloat in Our Django Logistics Platform](https://dev.to/syedharis/how-we-saved-76gb-and-fixed-9995-database-bloat-in-our-django-logistics-platform-4e84)
 - [Oracle AI Database 26ai: Filtering Analytic Function Results with the QUALIFY Clause](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-filtering-analytic-function-results-with-the-qualify-clause-497)
-- [95% Accurate Wake Word Detection: Low-Power CNN + MFCC Guide](https://dev.to/m-a-h-b-u-b/95-accurate-wake-word-detection-low-power-cnn-mfcc-guide-3377)
-- [Async vs Multithreading στο C# .NET](https://dev.to/__b63657/async-vs-multithreading-sto-c-net-5h8)
-- [📘 How to Know if Your Data is Linear, Non-Linear, or Complex](https://dev.to/codeneuron/how-to-know-if-your-data-is-linear-non-linear-or-complex-mdl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
