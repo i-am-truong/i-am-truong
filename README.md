@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧹 How I Freed Up Half My Mac Storage as a React Native Developer](https://dev.to/ajmal_hasan/how-i-freed-up-half-my-mac-storage-as-a-react-native-developer-8fj)
-- [Trying to think like &lpar;a&rpar; Git](https://dev.to/codecara/trying-to-think-like-a-git-2m1)
-- [Future of AI...🤖](https://dev.to/ankit_rattan/future-of-ai-4o5f)
-- [Why Tracking Status Transition Duration in Jira Matters](https://dev.to/rvs_softek_8a5aa726850639/why-tracking-status-transition-duration-in-jira-matters-46j6)
-- [Static Typing - Ruby&#39;s missing tools](https://dev.to/aeremin/static-typing-rubys-missing-tools-4n1f)
+- [Laravel APP_KEY vs Password Hashing: What Every Developer Should Know About Encryption &amp; Hashing.](https://dev.to/eldeeno/laravel-appkey-vs-password-hashing-what-every-developer-should-know-about-encryption-hashing-2d7d)
+- [I Tried Beating LeetCode Like a Game. It Actually Worked.](https://dev.to/trojanmocx/i-tried-beating-leetcode-like-a-game-it-actually-worked-2dh3)
+- [📰 Major Tech News: Oct 19th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-19th-2025-3o9d)
+- [UI Finder: The One-Stop Solution for Finding UI Libraries](https://dev.to/alexovn/ui-finder-the-one-stop-solution-for-finding-ui-libraries-25f)
+- [Quick C# Challenges to Keep Your Coding Skills Fresh 4.&quot;CountVowels&quot;](https://dev.to/__b63657/quick-c-challenges-to-keep-your-coding-skills-fresh-4countvowels-ggj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
