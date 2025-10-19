@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Chain with LangChain](https://dev.to/bernardkibathi/how-to-build-an-ai-chain-with-langchain-18k4)
-- [How to Set Up &amp; Use Laravel Telescope for Debugging and Monitoring](https://dev.to/rana_saha_c704959d8988cf0/how-to-set-up-use-laravel-telescope-for-debugging-and-monitoring-b07)
-- [Your Dataverse Solutions Deserve Better Builds &lpar;Here’s How&rpar;](https://dev.to/_neronotte/your-dataverse-solutions-deserve-better-builds-heres-how-3po9)
-- [I Analyzed 500+ Startup Contracts and Built an AI to Catch the Traps Founders Miss &lpar;The Patterns Were Terrifying&rpar;](https://dev.to/sumanthchary/i-analyzed-500-startup-contracts-and-built-an-ai-to-catch-the-traps-founders-miss-the-patterns-34k8)
-- [I Built an AI That Predicts LinkedIn Post Virality Before You Hit Publish &lpar;Here&#39;s What I Learned Analyzing 500+ Posts&rpar;](https://dev.to/sumanthchary/i-built-an-ai-that-predicts-linkedin-post-virality-before-you-hit-publish-heres-what-i-learned-1jm7)
+- [Resume AI Creator: Building an Intelligent Resume Platform with MCP and Auth0](https://dev.to/uratmangun/resume-ai-creator-building-an-intelligent-resume-platform-with-mcp-and-auth0-4039)
+- [Deep dive Tainted Grail [3] - Medusa - blazing fast cliffs rendering](https://dev.to/kamilvdono/deep-dive-tainted-grail-3-medusa-blazing-fast-cliffs-rendering-4pi1)
+- [Chinese Love Story &lpar;Part 1&rpar; — To Know Each Other Yet Be Unable to Fall in Love: What a Pain It Is](https://dev.to/tripcat/chinese-love-story-part-1-to-know-each-other-yet-be-unable-to-fall-in-love-what-a-pain-it-is-1hem)
+- [I Built 50+ Free SEO Tools in 1 Week - Here&#39;s What I Learned](https://dev.to/dev_coder91/i-built-50-free-seo-tools-in-1-week-heres-what-i-learned-3h1k)
+- [Ubuntuでイヤフォン、スピーカーから音が出ない](https://dev.to/kiyamk/ubuntudeiyahuon-supikakarayin-gachu-nai-37g5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
