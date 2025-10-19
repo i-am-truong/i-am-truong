@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an AI Chain with LangChain](https://dev.to/bernardkibathi/how-to-build-an-ai-chain-with-langchain-18k4)
+- [How to Set Up &amp; Use Laravel Telescope for Debugging and Monitoring](https://dev.to/rana_saha_c704959d8988cf0/how-to-set-up-use-laravel-telescope-for-debugging-and-monitoring-b07)
 - [Your Dataverse Solutions Deserve Better Builds &lpar;Here’s How&rpar;](https://dev.to/_neronotte/your-dataverse-solutions-deserve-better-builds-heres-how-3po9)
+- [I Analyzed 500+ Startup Contracts and Built an AI to Catch the Traps Founders Miss &lpar;The Patterns Were Terrifying&rpar;](https://dev.to/sumanthchary/i-analyzed-500-startup-contracts-and-built-an-ai-to-catch-the-traps-founders-miss-the-patterns-34k8)
 - [I Built an AI That Predicts LinkedIn Post Virality Before You Hit Publish &lpar;Here&#39;s What I Learned Analyzing 500+ Posts&rpar;](https://dev.to/sumanthchary/i-built-an-ai-that-predicts-linkedin-post-virality-before-you-hit-publish-heres-what-i-learned-1jm7)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4e33)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1jdj)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1o95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
