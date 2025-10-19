@@ -120,9 +120,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-465e)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-ck9)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-27bo)
+- [Azure Bicep: Extension and local deploy](https://dev.to/omiossec/azure-bicep-extension-and-local-deploy-45l1)
+- [Part 4: MySQL vs PostgreSQL - Transaction Processing and ACID Compliance](https://dev.to/harry_do/part-4-mysql-vs-postgresql-transaction-processing-and-acid-compliance-4of2)
+- [“Debugging 101: How to Read and Understand Python Error Messages”](https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon)
 - [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3jma)
 - [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-39gh)
 <!-- BLOG-POST-LIST:END -->
