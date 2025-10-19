@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Visit Rwanda — A Beautiful Travel Companion App Built with React Native](https://dev.to/revis047/visit-rwanda-a-beautiful-travel-companion-app-built-with-react-native-428b)
+- [Why Building an Alumni Network Is the Smartest Move for Modern Companies](https://dev.to/rejoice_shalomagtagma_1c/why-building-an-alumni-network-is-the-smartest-move-for-modern-companies-5079)
+- [Build Your Own Forum with FastAPI: Step 2 - Integrating Database](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-2-integrating-database-2h9c)
 - [Monólito vs. Microsserviços: Um Guia Detalhado para Entender a Arquitetura de Software](https://dev.to/a_audrey/monolito-vs-microsservicos-um-guia-detalhado-para-entender-a-arquitetura-de-software-1l9i)
 - [Being Agile in AI-Native Software Development](https://dev.to/ankudear/being-agile-in-ai-native-software-development-1mhj)
-- [Chat With Any Document Instantly — Meet Pidoca 🚀](https://dev.to/devabusayed/chat-with-any-document-instantly-meet-pidoca-450k)
-- [Die Zukunft von Krypto entscheidet sich über UX — nicht über den nächsten Bullrun](https://dev.to/piwa_lin_8b3155c3dd85f0f9/die-zukunft-von-krypto-entscheidet-sich-uber-ux-nicht-uber-den-nachsten-bullrun-4abl)
-- [ASP .NET Core modals](https://dev.to/karenpayneoregon/asp-net-core-modals-3dlj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
