@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nuxt DevTools &quot;Toggle Component Inspector&quot;](https://dev.to/optocode/nuxt-devtools-toggle-component-inspector-15nd)
-- [“Clara 4.0 – Community Edition: Framework open source para asistentes de IA”](https://dev.to/carmenmanzanoestshipit/clara-40-community-edition-framework-open-source-para-asistentes-de-ia-271p)
-- [Level Up Your CSS Skills with These 5 Fun &amp; Interactive Games](https://dev.to/homayunmmdy/level-up-your-css-skills-with-these-5-fun-interactive-games-2cki)
-- [👘 I Built an AI That Suggests Japanese Outfits Based on Weather &lpar;Using Auth0 &amp; GPT-4&rpar;](https://dev.to/leopaul29/i-built-an-ai-that-suggests-japanese-outfits-based-on-weather-using-auth0-gpt-4-cdj)
-- [Event-Driven Control Planes That Scale | AWS Summit Bangalore 2025](https://dev.to/aws-builders/event-driven-control-planes-that-scale-aws-summit-bangalore-2025-3gg6)
+- [🧹 How I Freed Up Half My Mac Storage as a React Native Developer](https://dev.to/ajmal_hasan/how-i-freed-up-half-my-mac-storage-as-a-react-native-developer-8fj)
+- [Trying to think like &lpar;a&rpar; Git](https://dev.to/codecara/trying-to-think-like-a-git-2m1)
+- [Future of AI...🤖](https://dev.to/ankit_rattan/future-of-ai-4o5f)
+- [Why Tracking Status Transition Duration in Jira Matters](https://dev.to/rvs_softek_8a5aa726850639/why-tracking-status-transition-duration-in-jira-matters-46j6)
+- [Static Typing - Ruby&#39;s missing tools](https://dev.to/aeremin/static-typing-rubys-missing-tools-4n1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
