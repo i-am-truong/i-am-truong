@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-e6)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-306g)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3mg)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-ioh)
-- [Mr Sunday Movies: Why is Tron: Ares bombing?](https://dev.to/popcorn_movies/mr-sunday-movies-why-is-tron-ares-bombing-1735)
+- [How to generate revenue from Open Source](https://dev.to/softwaredeveloper01/how-to-generate-revenue-from-open-source-3ek8)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-381)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-591o)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5bdg)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5gj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
