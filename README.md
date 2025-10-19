@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apriori Algorithm: Unlocking Hidden Patterns in Your Data](https://dev.to/simranshaikh20_50/apriori-algorithm-unlocking-hidden-patterns-in-your-data-3l2f)
 - [HAPPY DIWALI](https://dev.to/lg_yoko_e8089785993faf486/happy-diwali-520)
 - [Apache Spark সহজভাবে জানি](https://dev.to/sajjadrahman56/apache-spark-shjbhaabe-jaani-2jo6)
 - [Building Advanced AI Agents with AgentQL, LangChain, and LlamaIndex](https://dev.to/paras_test/building-advanced-ai-agents-with-agentql-langchain-and-llamaindex-33hp)
 - [Took me 4hr to build Frontend of AI SPA ..](https://dev.to/naveen_btech/took-me-4hr-to-build-frontend-of-ai-spa--1n2c)
-- [branded background generator for video calls](https://dev.to/paladinic/branded-background-generator-for-video-calls-2bje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
