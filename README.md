@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ASP .NET Core modals](https://dev.to/karenpayneoregon/asp-net-core-modals-3dlj)
+- [De User Story a Test Case en minutos: microservicio IA &lpar;FastAPI + Gemini + Langfuse&rpar; para QA](https://dev.to/stevenayal/de-user-story-a-test-case-en-minutos-microservicio-ia-fastapi-gemini-langfuse-para-qa-3l14)
+- [How to Use AI in Brand Journalism with Gemini to Transform Digital Information into Strategic Editorial Content?](https://dev.to/r_elena_mendez_escobar/how-to-use-ai-in-brand-journalism-with-gemini-to-transform-digital-information-into-strategic-akl)
+- [** &quot;CES 2026: The Dawn of Ambient AI and the Invisible Interface](https://dev.to/iankhanfuturist/-ces-2026-the-dawn-of-ambient-ai-and-the-invisible-interface-pi9)
 - [This Could Be the Next Devops : Platform Engineering, AIOps &amp; Cloud-Native Automation](https://dev.to/kaustubhyerkade/the-new-devops-platform-engineering-aiops-cloud-native-automation-2711)
-- [How I Built “Project Access” — My Mission to Get My First Laptop as a Cybersecurity Student.](https://dev.to/karlnova/how-i-built-project-access-my-mission-to-get-my-first-laptop-as-a-cybersecurity-student-1heb)
-- [A Beginner&#39;s Guide to Ollama Cloud Models](https://dev.to/coderforfun/a-beginners-guide-to-ollama-cloud-models-3lc2)
-- [** &quot;Cerabyte&#39;s Glass Storage Breakthrough: Why Data Preservation Matters in the AI Revolution](https://dev.to/iankhanfuturist/-cerabytes-glass-storage-breakthrough-why-data-preservation-matters-in-the-ai-revolution-lig)
-- [Generative AI in Fintech : A PPT](https://dev.to/kaustubhyerkade/generative-ai-in-fintech-a-ppt-57j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
