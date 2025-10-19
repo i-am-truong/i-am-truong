@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building My First RESTful API: Backend Wizards Stage 0 Journey 🚀](https://dev.to/luvie/building-my-first-restful-api-backend-wizards-stage-0-journey-2n51)
+- [Nevatal Joins Hacktoberfest 2025: Build the Future of AI Functions Hub 🚀](https://dev.to/thirza258/nevatal-joins-hacktoberfest-2025-build-the-future-of-ai-functions-hub-49ai)
+- [Volunteer Backend Developer &lpar;PHP + Containers&rpar; for Volt Europa Academy](https://dev.to/ilario_truppa_dbcb71bd104/volunteer-backend-developer-php-containers-for-volt-europa-academy-42n1)
+- [Privacy Is Broken in Everyday Tools — But the Browser Can Fix It](https://dev.to/anandaverma/privacy-is-broken-in-everyday-tools-but-the-browser-can-fix-it-42e5)
 - [Building and Deploying a Django REST API on AWS EC2: A Complete Guide](https://dev.to/ursulaonyi/building-and-deploying-a-django-rest-api-on-aws-ec2-a-complete-guide-2ba4)
-- [WTF is Machine Learning Engineering?](https://dev.to/dailybugle33/wtf-is-machine-learning-engineering-4eog)
-- [Integrating IoT Sensors with Vitrified CBN Wheel in CNC](https://dev.to/toll_iris_ed89577c4fa6d0c/integrating-iot-sensors-with-vitrified-cbn-wheel-in-cnc-19c6)
-- [The Ultimate Guide to Top 150 LeetCode Problems: Your Path to Acing Technical Interviews](https://dev.to/soham0047/the-ultimate-guide-to-top-150-leetcode-problems-your-path-to-acing-technical-interviews-30h1)
-- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-4km9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
