@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Firebase Firestore vs. Data Connect: Unlocking Your Data&#39;s Full Potential](https://dev.to/codingcatdev/firebase-firestore-vs-data-connect-unlocking-your-datas-full-potential-1kf)
+- [My First RESTful API: A Beginner&#39;s Journey](https://dev.to/victorion0/my-first-restful-api-a-beginners-journey-cbo)
 - [Visit Rwanda — A Beautiful Travel Companion App Built with React Native](https://dev.to/revis047/visit-rwanda-a-beautiful-travel-companion-app-built-with-react-native-428b)
 - [Why Building an Alumni Network Is the Smartest Move for Modern Companies](https://dev.to/rejoice_shalomagtagma_1c/why-building-an-alumni-network-is-the-smartest-move-for-modern-companies-5079)
 - [Build Your Own Forum with FastAPI: Step 2 - Integrating Database](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-2-integrating-database-2h9c)
-- [Monólito vs. Microsserviços: Um Guia Detalhado para Entender a Arquitetura de Software](https://dev.to/a_audrey/monolito-vs-microsservicos-um-guia-detalhado-para-entender-a-arquitetura-de-software-1l9i)
-- [Being Agile in AI-Native Software Development](https://dev.to/ankudear/being-agile-in-ai-native-software-development-1mhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
