@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Essential Wins: DORA Compliance Cybersecurity 2025](https://dev.to/pentest_testing_corp/7-essential-wins-dora-compliance-cybersecurity-2025-3hhk)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-341p)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3e8c)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-hej)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3f88)
+- [Building and Deploying a Django REST API on AWS EC2: A Complete Guide](https://dev.to/ursulaonyi/building-and-deploying-a-django-rest-api-on-aws-ec2-a-complete-guide-2ba4)
+- [WTF is Machine Learning Engineering?](https://dev.to/dailybugle33/wtf-is-machine-learning-engineering-4eog)
+- [Integrating IoT Sensors with Vitrified CBN Wheel in CNC](https://dev.to/toll_iris_ed89577c4fa6d0c/integrating-iot-sensors-with-vitrified-cbn-wheel-in-cnc-19c6)
+- [The Ultimate Guide to Top 150 LeetCode Problems: Your Path to Acing Technical Interviews](https://dev.to/soham0047/the-ultimate-guide-to-top-150-leetcode-problems-your-path-to-acing-technical-interviews-30h1)
+- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-4km9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
