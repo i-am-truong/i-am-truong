@@ -122,9 +122,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [🗂️ Clprolf Directory Explorer — When Breadth-First Becomes Intuitive](https://dev.to/charles_koffler_bcabc582b/clprolf-directory-explorer-when-breadth-first-becomes-intuitive-5a0f)
 - [Building The Apothecary: Learning Database Versioning Through Medieval Fantasy](https://dev.to/rami_gharbi/building-the-apothecary-learning-database-versioning-through-medieval-fantasy-4d2l)
-- [Generated Content](https://dev.to/iankhanfuturist/generated-content-4ae)
 - [Day 6 | 50 Projects in 50 Days](https://dev.to/augusta08/day-6-50-projects-in-50-days-40h7)
-- [SREday SF 2025: Human Centered SRE In An AI World](https://dev.to/dwayne_mcdaniel/sreday-sf-2025-human-centered-sre-in-an-ai-world-4a6k)
+- [Improving Responsively App Documentation – Week 2 of Hacktoberfest](https://dev.to/kkrishnan10/improving-responsively-app-documentation-week-2-of-hacktoberfest-2c60)
+- [Join the Auth0 for AI Agents Challenge: $3,000 in Prizes!](https://dev.to/pablosp/join-the-auth0-for-ai-agents-challenge-3000-in-prizes-pm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
