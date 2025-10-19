@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generated Content](https://dev.to/iankhanfuturist/generated-content-44b1)
+- [Multi-Agent Systems with Strands Agents](https://dev.to/aws/multi-agent-systems-with-strands-agents-from-theory-to-swarm-intelligence-1nm6)
 - [The AI Era: New Prompt Engineering is Just the Start: The Real Skill Developers Need is AI Product Leadership](https://dev.to/marikinyo/the-ai-era-new-prompt-engineering-is-just-the-start-the-real-skill-developers-need-is-ai-product-41jo)
 - [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-5cnh)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-57e2)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1pji)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5dli)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-2pad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
