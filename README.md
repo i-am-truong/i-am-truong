@@ -120,9 +120,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nuxt DevTools &quot;Toggle Component Inspector&quot;](https://dev.to/optocode/nuxt-devtools-toggle-component-inspector-15nd)
 - [“Clara 4.0 – Community Edition: Framework open source para asistentes de IA”](https://dev.to/carmenmanzanoestshipit/clara-40-community-edition-framework-open-source-para-asistentes-de-ia-271p)
 - [Level Up Your CSS Skills with These 5 Fun &amp; Interactive Games](https://dev.to/homayunmmdy/level-up-your-css-skills-with-these-5-fun-interactive-games-2cki)
-- [starting with machine learning? this open source package might help you understand the process of data preprocessing! 🎆](https://dev.to/rushedcomet/starting-with-machine-learning-this-open-source-package-might-help-you-understand-the-process-of-3gap)
 - [👘 I Built an AI That Suggests Japanese Outfits Based on Weather &lpar;Using Auth0 &amp; GPT-4&rpar;](https://dev.to/leopaul29/i-built-an-ai-that-suggests-japanese-outfits-based-on-weather-using-auth0-gpt-4-cdj)
 - [Event-Driven Control Planes That Scale | AWS Summit Bangalore 2025](https://dev.to/aws-builders/event-driven-control-planes-that-scale-aws-summit-bangalore-2025-3gg6)
 <!-- BLOG-POST-LIST:END -->
