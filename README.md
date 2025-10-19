@@ -121,7 +121,7 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Building Advanced AI Agents with AgentQL, LangChain, and LlamaIndex](https://dev.to/paras_test/building-advanced-ai-agents-with-agentql-langchain-and-llamaindex-33hp)
-- [Took me 4hr to build Frontend of AI SPA ..](https://dev.to/naveen_anonymous_4cf6c35f/took-me-4hr-to-build-frontend-of-ai-spa--1n2c)
+- [Took me 4hr to build Frontend of AI SPA ..](https://dev.to/naveen_btech/took-me-4hr-to-build-frontend-of-ai-spa--1n2c)
 - [branded background generator for video calls](https://dev.to/paladinic/branded-background-generator-for-video-calls-2bje)
 - [Kubernetes Scaling with KEDA: Zero-Loss Data Processing at Scale](https://dev.to/mamta_jha_6b088156e86369a/kubernetes-scaling-with-keda-zero-loss-data-processing-at-scale-3fca)
 - [If AI scares you, learn software architecture](https://dev.to/koladev/if-ai-scares-you-learn-software-architecture-1nie)
