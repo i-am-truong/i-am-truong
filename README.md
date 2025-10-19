@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Ubuntu on Your Laptop or Desktop: A Step-by-Step Guide](https://dev.to/james_mugambi_494c7da2b07/how-to-install-ubuntu-on-your-laptop-or-desktop-a-step-by-step-guide-39kk)
-- [L’intervista che ha fatto aspettare un Paese è uscita adesso.](https://dev.to/sara_puglisi_/lintervista-che-ha-fatto-aspettare-un-paese-e-uscita-adesso-4a6a)
-- [Integrate Automated AI Code Reviews to Raise Quality &lpar;and Morale&rpar;](https://dev.to/vousmeevoyez/integrate-automated-ai-code-reviews-to-raise-quality-and-morale-2l2b)
-- [Integrating my AI app in Discord](https://dev.to/miojoester/integrating-my-ai-app-in-discord-18di)
-- [Overburdened with Test Case Disorganized Structure: Here&#39;s How AgileTest Manages all your Test Cases](https://dev.to/kayson_2025/overburdened-with-test-case-disorganized-structure-heres-how-agiletest-manages-all-your-test-cases-cg)
+- [Level Up Your Coding: Build Your Own AI Assistant!](https://dev.to/karthik_n/level-up-your-coding-build-your-own-ai-assistant-33f2)
+- [Building My First Backend API: A Dynamic Profile Endpoint HNG 13](https://dev.to/iyktech22/building-my-first-backend-api-a-dynamic-profile-endpoint-hng-13-3mjm)
+- [Getting Started with Blazor WebAssembly in ASP.NET Core 10](https://dev.to/djamware_tutorial_eba1a61/getting-started-with-blazor-webassembly-in-aspnet-core-10-40a0)
+- [Encapsulation in Java Explained: Write Clean and Secure OOP Code](https://dev.to/vivek_singh_9db1493216a36/encapsulation-in-java-explained-write-clean-and-secure-oop-code-4o50)
+- [SaaS Truths No One Talks About: PLG, Churn, and Getting Users That Stick &lpar;Part 1&rpar;](https://dev.to/mukul_sharma/saas-truths-no-one-talks-about-plg-churn-and-getting-users-that-stick-part-1-2mgk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
