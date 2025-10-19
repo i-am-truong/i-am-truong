@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [This Could Be the Next Devops : Platform Engineering, AIOps &amp; Cloud-Native Automation](https://dev.to/kaustubhyerkade/the-new-devops-platform-engineering-aiops-cloud-native-automation-2711)
+- [How I Built “Project Access” — My Mission to Get My First Laptop as a Cybersecurity Student.](https://dev.to/karlnova/how-i-built-project-access-my-mission-to-get-my-first-laptop-as-a-cybersecurity-student-1heb)
 - [A Beginner&#39;s Guide to Ollama Cloud Models](https://dev.to/coderforfun/a-beginners-guide-to-ollama-cloud-models-3lc2)
 - [** &quot;Cerabyte&#39;s Glass Storage Breakthrough: Why Data Preservation Matters in the AI Revolution](https://dev.to/iankhanfuturist/-cerabytes-glass-storage-breakthrough-why-data-preservation-matters-in-the-ai-revolution-lig)
 - [Generative AI in Fintech : A PPT](https://dev.to/kaustubhyerkade/generative-ai-in-fintech-a-ppt-57j8)
-- [How to generate revenue from Open Source](https://dev.to/softwaredeveloper01/how-to-generate-revenue-from-open-source-3ek8)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-591o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
