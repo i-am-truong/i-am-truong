@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [✨ STAFF FRONTEND ENGINEER &lpar;USA ONLY&rpar; 🇺🇸](https://dev.to/codetodeploy/staff-frontend-engineer-usa-only-2o67)
 - [What makes tube ice machines ideal for automation upgrade industries?](https://dev.to/maqhielotubo_port/what-makes-tube-ice-machines-ideal-for-automation-upgrade-industries-5fgc)
 - [This is a test post for dev.to](https://dev.to/jaydenhe/this-is-a-test-post-for-devto-3del)
 - [Technical Showcase: Breakable Glass](https://dev.to/justind/technical-showcase-breakable-glass-4k5h)
 - [AWS Lambda Reload](https://dev.to/zareen/aws-lambda-reload-5bn3)
-- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-4hmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
