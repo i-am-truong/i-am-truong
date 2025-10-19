@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Essential Wins: DORA Compliance Cybersecurity 2025](https://dev.to/pentest_testing_corp/7-essential-wins-dora-compliance-cybersecurity-2025-3hhk)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-341p)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3e8c)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-hej)
 - [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3f88)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-1e05)
-- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-3d16)
-- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-2dke)
-- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-2mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
