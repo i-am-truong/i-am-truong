@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Saturday Morning Call: How I Stopped a Fintech Exploit in Real-Time](https://dev.to/daniel_agoziem_c8e6af75dc/the-saturday-morning-call-how-i-stopped-a-fintech-exploit-in-real-time-21po)
+- [My First Next.js Project - Developer Portfolio Website](https://dev.to/alexandru-ene-dev/my-first-nextjs-project-developer-portfolio-website-4ol8)
 - [From HTTP1.1 to HTTP3: The Evolution of Web Communication](https://dev.to/rijultp/from-http11-to-http3-the-evolution-of-web-communication-31mm)
 - [🧩 Minha Primeira Comunicação com MCP e .NET – Parte 2](https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-2-262h)
 - [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a)
-- [🛡️ Day 19 of #30DaysOfSolidity — Signature-Based Web3 Authentication for Private Events](https://dev.to/sauravkumar8178/day-19-of-30daysofsolidity-signature-based-web3-authentication-for-private-events-59eh)
-- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-1067)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
