@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Windows Shortcuts Plan Mode/Edit Mode](https://dev.to/adzhydra/claude-code-windows-shortcuts-plan-modeedit-mode-85d)
 - [🗂️ Clprolf Directory Explorer — When Breadth-First Becomes Intuitive](https://dev.to/charles_koffler_bcabc582b/clprolf-directory-explorer-when-breadth-first-becomes-intuitive-5a0f)
 - [Building The Apothecary: Learning Database Versioning Through Medieval Fantasy](https://dev.to/rami_gharbi/building-the-apothecary-learning-database-versioning-through-medieval-fantasy-4d2l)
 - [Day 6 | 50 Projects in 50 Days](https://dev.to/augusta08/day-6-50-projects-in-50-days-40h7)
 - [Improving Responsively App Documentation – Week 2 of Hacktoberfest](https://dev.to/kkrishnan10/improving-responsively-app-documentation-week-2-of-hacktoberfest-2c60)
-- [Join the Auth0 for AI Agents Challenge: $3,000 in Prizes!](https://dev.to/pablosp/join-the-auth0-for-ai-agents-challenge-3000-in-prizes-pm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
