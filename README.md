@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Look at Me, I&#39;m the iOS Developer Now](https://dev.to/asvid/look-at-me-im-the-ios-developer-now-icj)
+- [Building a Dynamic Profile Endpoint](https://dev.to/ayokunle_olaakande_e8831/building-a-dynamic-profile-endpoint-1l48)
+- [⚡ Mastering Multithreading in Java](https://dev.to/mohamad_mhana/mastering-multithreading-in-java-4i6m)
 - [My First Line of Code Changed Everything 👩🏽‍💻](https://dev.to/ikejidorcas/my-first-line-of-code-changed-everything-3on8)
 - [🧩 Minha Primeira Comunicação com MCP e .NET – Parte 3](https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-3-1432)
-- [My Hacktoberfest 2025 Journey: Contribution Chronicles](https://dev.to/neha_kurian_cfe0bd6a45c17/my-hacktoberfest-2025-journey-contribution-chronicles-5dhi)
-- [Understanding Astro Components - The Heart of Static Site Generation](https://dev.to/lovestaco/understanding-astro-components-the-heart-of-static-site-generation-7ea)
-- [Как сделать и настроить свой VPN](https://dev.to/ovpn/kak-sdielat-i-nastroit-svoi-vpn-56l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
