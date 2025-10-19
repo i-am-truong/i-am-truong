@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[2023-07-13 Thu] I learned about two major debuggers in #Emacs: The Lisp](https://dev.to/anoncheg/i-learned-about-two-major-debuggers-in-emacs-the-lisp-debuggerdebug-and-5f85)
-- [[2023-07-07 Fri] I was preparing for interview and recall: NLP, Transformer architecture, unsupervised](https://dev.to/anoncheg/2023-07-07-fri-i-was-preparing-for-interview-and-recall-nlp-transformer-architecture-5e5l)
-- [Optimizing AWS Lambda: A Complete Guide to Performance and Cost Efficiency](https://dev.to/zareen/optimizing-aws-lambda-a-complete-guide-to-performance-and-cost-efficiency-29j6)
-- [[2023-07-05 Sun] :emacs: I fixed displaying of links in #Notmuch #email client](https://dev.to/anoncheg/2023-07-05-sun-emacs-i-fixed-displaying-of-links-in-notmuch-email-client-2k1l)
-- [DevSecOps Pipeline | Jenkins, Terraform, Docker, Trivy, AWS](https://dev.to/ritesh355/devsecops-pipeline-jenkins-terraform-docker-trivy-aws-3ien)
+- [The Ultimate AI Assistant for Web Productivity](https://dev.to/nish2005karsh/the-ultimate-ai-assistant-for-web-productivity-1dpb)
+- [How I Built My Portfolio Using Next.js — Gaurav Kumawat](https://dev.to/gauravkumawat/how-i-built-my-portfolio-using-nextjs-gaurav-kumawat-30o4)
+- [How I Built My Portfolio Using Next.js — Gaurav Kumawat](https://dev.to/gauravkumawat/how-i-built-my-portfolio-using-nextjs-gaurav-kumawat-19gd)
+- [Important Update: LimeDB&#39;s Transition from Java to Go &lpar;README Notice&rpar;](https://dev.to/namanvashistha/important-update-limedbs-transition-from-java-to-go-readme-notice-f08)
+- [Introducing Varwolf 🐺 - Dynamic CSS Variables for React](https://dev.to/kunaltanwar/introducing-varwolf-dynamic-css-variables-for-react-3kfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
