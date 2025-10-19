@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VR-Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning](https://dev.to/paperium/vr-thinker-boosting-video-reward-models-through-thinking-with-image-reasoning-2a7l)
-- [What are the latest trends in tube ice machine ice storage?](https://dev.to/tubohielo_com/what-are-the-latest-trends-in-tube-ice-machine-ice-storage-2gii)
-- [SEO untuk Developer: Panduan Lengkap dari Nol](https://dev.to/jeremy_defoe_7ad3a5492490/seo-untuk-developer-panduan-lengkap-dari-nol-595e)
-- [The Naive Bayes Classifier](https://dev.to/carlosrambles/the-naive-bayes-classifier-30kl)
-- [Αρχές Ομαδικής Συνεργασίας και Προϋποθέσεις Προσωπικής Συμμετοχής: Ενίσχυση της Ομαδικότητας και της Αυτοβελτίωσης](https://dev.to/__b63657/arkhes-omadikes-sunergasias-kai-proupotheseis-prosopikes-summetokhes-eniskhuse-tes-omadikotetas-kai-ege)
+- [Architectural Patterns - MVC | MVP | MVVM](https://dev.to/kumar111222rohit/architectural-patterns-mvc-mvp-mvvm-1h59)
+- [The Web Dev Way: 5 Principles for Robust Windows Activation Telemetry &amp; Analytics](https://dev.to/_eb7ede481eac3d7c3/the-web-dev-way-5-principles-for-robust-windows-activation-telemetry-analytics-92f)
+- [JavaScript Design Patterns](https://dev.to/kumar111222rohit/javascript-design-patterns-394g)
+- [Happy Diwali](https://dev.to/lg_yoko_e8089785993faf486/happy-diwali-2kco)
+- [AI Development Roundup: Plugin Distribution, Custom Chips, and Cinematic Video Control](https://dev.to/rafaelpierre/ai-development-roundup-plugin-distribution-custom-chips-and-cinematic-video-control-3bo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
