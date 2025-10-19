@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 8: Chasing Words, Finding the Longest One!](https://dev.to/shahrouzlogs/day-8-chasing-words-finding-the-longest-one-4mal)
-- [A Voyage through Algorithms using Javascript - Radix Sort](https://dev.to/humblecoder00/a-voyage-through-algorithms-using-javascript-radix-sort-4ga8)
-- [API Monitoring: Checking uptime vs checking if your response actually works](https://dev.to/dam84/api-monitoring-checking-uptime-vs-checking-if-your-response-actually-works-3l46)
-- [Generics as a Design Tool, Not Just a Language Feature](https://dev.to/ibrahimgunduz34/generics-as-a-design-tool-not-just-a-language-feature-1fml)
-- [My Learnings from the Rental Car Power App Guided Project &lpar;Coursera&rpar;](https://dev.to/vishaka_nr_/my-learnings-from-the-rental-car-power-app-guided-project-coursera-500g)
+- [From HTTP1.1 to HTTP3: The Evolution of Web Communication](https://dev.to/rijultp/from-http11-to-http3-the-evolution-of-web-communication-31mm)
+- [🧩 Minha Primeira Comunicação com MCP e .NET – Parte 2](https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-2-262h)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1798)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3gik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
