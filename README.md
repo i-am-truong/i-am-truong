@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 25 - Alert Component Part 4 - Update the Alert Bar to reopen closed alerts](https://dev.to/railsstudent/day-25-alert-component-part-4-update-the-alert-bar-to-reopen-closed-alerts-50f9)
 - [Azure Bicep: Extension and local deploy](https://dev.to/omiossec/azure-bicep-extension-and-local-deploy-45l1)
 - [Part 4: MySQL vs PostgreSQL - Transaction Processing and ACID Compliance](https://dev.to/harry_do/part-4-mysql-vs-postgresql-transaction-processing-and-acid-compliance-4of2)
 - [“Debugging 101: How to Read and Understand Python Error Messages”](https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon)
 - [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3jma)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-39gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
