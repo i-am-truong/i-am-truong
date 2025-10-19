@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What makes tube ice machines ideal for automation upgrade industries?](https://dev.to/maqhielotubo_port/what-makes-tube-ice-machines-ideal-for-automation-upgrade-industries-5fgc)
+- [This is a test post for dev.to](https://dev.to/jaydenhe/this-is-a-test-post-for-devto-3del)
 - [Technical Showcase: Breakable Glass](https://dev.to/justind/technical-showcase-breakable-glass-4k5h)
-- [💻Building and Deploying My First Express API - HNG Stage 0 Task](https://dev.to/fiona_nyadero_0b288495ccc/building-and-deploying-my-first-express-api-hng-stage-0-task-1h6e)
-- [From Web Developer to AI + IoT Research Engineer: My Transition Journey Begins](https://dev.to/rhjoyofficial/from-web-developer-to-ai-iot-research-engineer-my-transition-journey-begins-2nb5)
-- [Building Smart TV Apps Just Got Easier](https://dev.to/foridpathan/building-smart-tv-apps-just-got-easier-2lae)
-- [Why migrate from SAP Hybris to Adobe Commerce?](https://dev.to/ziffity_solutionsllc_353/why-migrate-from-sap-hybris-to-adobe-commerce-1ah7)
+- [AWS Lambda Reload](https://dev.to/zareen/aws-lambda-reload-5bn3)
+- [Emergent Communication Protocols in Multi-Agent Reinforcement Learning Systems](https://dev.to/rikinptl/emergent-communication-protocols-in-multi-agent-reinforcement-learning-systems-4hmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
