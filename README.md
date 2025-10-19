@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Coding: Build Your Own AI Assistant!](https://dev.to/karthik_n/level-up-your-coding-build-your-own-ai-assistant-33f2)
-- [Building My First Backend API: A Dynamic Profile Endpoint HNG 13](https://dev.to/iyktech22/building-my-first-backend-api-a-dynamic-profile-endpoint-hng-13-3mjm)
-- [Getting Started with Blazor WebAssembly in ASP.NET Core 10](https://dev.to/djamware_tutorial_eba1a61/getting-started-with-blazor-webassembly-in-aspnet-core-10-40a0)
-- [Encapsulation in Java Explained: Write Clean and Secure OOP Code](https://dev.to/vivek_singh_9db1493216a36/encapsulation-in-java-explained-write-clean-and-secure-oop-code-4o50)
-- [SaaS Truths No One Talks About: PLG, Churn, and Getting Users That Stick &lpar;Part 1&rpar;](https://dev.to/mukul_sharma/saas-truths-no-one-talks-about-plg-churn-and-getting-users-that-stick-part-1-2mgk)
+- [Reputation-Driven Launches: A Practical PR Playbook for Tech Startups](https://dev.to/sonia_bobrik_1939cdddd79d/reputation-driven-launches-a-practical-pr-playbook-for-tech-startups-4b56)
+- [Trust-First Launch: A Practical PR Playbook for Tech Products &lpar;No Hype, Just Outcomes&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/trust-first-launch-a-practical-pr-playbook-for-tech-products-no-hype-just-outcomes-1ho6)
+- [Building a Self-Hosted Netlify/Vercel Alternative in Rust: An Architectural Crossroad](https://dev.to/architthegreat/building-a-self-hosted-netlifyvercel-alternative-in-rust-an-architectural-crossroad-2ge5)
+- [Make Your Brand Newsworthy in 2025: A Straight-Talking Playbook for PR That Actually Moves the Needle](https://dev.to/sonia_bobrik_1939cdddd79d/make-your-brand-newsworthy-in-2025-a-straight-talking-playbook-for-pr-that-actually-moves-the-dhj)
+- [Git for DevOps: The Essential Guide to Version Control](https://dev.to/whispernet/git-for-devops-the-essential-guide-to-version-control-5a26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
