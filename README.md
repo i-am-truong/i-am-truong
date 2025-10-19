@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/mohsenshahbazi/-40lj)
+- [What role does energy efficiency play in the performance of tube ice machines?](https://dev.to/maqhielotubo_prem/what-role-does-energy-efficiency-play-in-the-performance-of-tube-ice-machines-5gl3)
+- [Article 2: Start Live Trading or Paper Trading? Freqtrade trade Command Explained](https://dev.to/itrade_icu_ae8778833e3e8c/article-2-start-live-trading-or-paper-trading-freqtrade-trade-command-explained-586k)
+- [[2023-06-25 Sun] I learned how to write tests in pytest](https://dev.to/anoncheg/2023-06-25-sun-i-learned-how-to-write-tests-in-pytest-47e7)
 - [Day 25 - Alert Component Part 4 - Update the Alert Bar to reopen closed alerts](https://dev.to/railsstudent/day-25-alert-component-part-4-update-the-alert-bar-to-reopen-closed-alerts-50f9)
-- [Azure Bicep: Extension and local deploy](https://dev.to/omiossec/azure-bicep-extension-and-local-deploy-45l1)
-- [Part 4: MySQL vs PostgreSQL - Transaction Processing and ACID Compliance](https://dev.to/harry_do/part-4-mysql-vs-postgresql-transaction-processing-and-acid-compliance-4of2)
-- [“Debugging 101: How to Read and Understand Python Error Messages”](https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3jma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
