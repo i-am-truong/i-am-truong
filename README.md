@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SREday SF 2025: Human Centered SRE In An AI World](https://dev.to/dwayne_mcdaniel/sreday-sf-2025-human-centered-sre-in-an-ai-world-4a6k)
+- [Web Development Discord Server](https://dev.to/faraba2000_8c9cacc0f8d3ae/web-development-discord-server-4m0j)
 - [Generated Content](https://dev.to/iankhanfuturist/generated-content-44b1)
 - [Multi-Agent Systems with Strands Agents](https://dev.to/aws/multi-agent-systems-with-strands-agents-from-theory-to-swarm-intelligence-1nm6)
 - [The AI Era: New Prompt Engineering is Just the Start: The Real Skill Developers Need is AI Product Leadership](https://dev.to/marikinyo/the-ai-era-new-prompt-engineering-is-just-the-start-the-real-skill-developers-need-is-ai-product-41jo)
-- [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-5cnh)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-2pad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
