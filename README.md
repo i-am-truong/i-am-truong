@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Patterns - MVC | MVP | MVVM](https://dev.to/kumar111222rohit/architectural-patterns-mvc-mvp-mvvm-1h59)
-- [The Web Dev Way: 5 Principles for Robust Windows Activation Telemetry &amp; Analytics](https://dev.to/_eb7ede481eac3d7c3/the-web-dev-way-5-principles-for-robust-windows-activation-telemetry-analytics-92f)
-- [JavaScript Design Patterns](https://dev.to/kumar111222rohit/javascript-design-patterns-394g)
-- [Happy Diwali](https://dev.to/lg_yoko_e8089785993faf486/happy-diwali-2kco)
-- [AI Development Roundup: Plugin Distribution, Custom Chips, and Cinematic Video Control](https://dev.to/rafaelpierre/ai-development-roundup-plugin-distribution-custom-chips-and-cinematic-video-control-3bo5)
+- [HPC &amp; Apollo Tyres Deep Dive | AWS Summit Bangalore 2025](https://dev.to/aws-builders/hpc-apollo-tyres-deep-dive-aws-summit-bangalore-2025-6ig)
+- [Public CSS Custom Properties in the Shadow DOM](https://dev.to/michaelwarren1106/public-css-custom-properties-in-the-shadow-dom-4hc6)
+- [How I Boosted My Nuxt 3 Portfolio Speed by 3x &lpar;4.5s 1.4s&rpar;](https://dev.to/ojaswiat/how-i-boosted-my-nuxt-3-portfolio-speed-by-3x-45s-14s-5025)
+- [What Sets Turkish Hair-Transplant Clinics Apart in 2025](https://dev.to/disiplin_forml_e60c4755/what-sets-turkish-hair-transplant-clinics-apart-in-2025-46o4)
+- [Why I Built IntentQL: A Protocol for AI Agents to Use the Web Natively](https://dev.to/lee_manley_1f3040d70e4caf/why-i-built-intentql-a-protocol-for-ai-agents-to-use-the-web-natively-1pdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
