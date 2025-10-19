@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is industrial application crucial when choosing a tube ice machine?](https://dev.to/maqtubohielo_auto/why-is-industrial-application-crucial-when-choosing-a-tube-ice-machine-1mca)
-- [3 Free Online Text Tools That Make Writing and Coding Easier](https://dev.to/converttext/3-free-online-text-tools-that-make-writing-and-coding-easier-b6g)
-- [Why I built a Direct-To-Consumer SMS Marketing Platform By Myself &lpar;and why it&#39;s open source now&rpar;](https://dev.to/junothreadborne/why-i-built-a-direct-to-consumer-sms-marketing-platform-by-myself-and-why-its-open-source-now-3135)
-- [RAG for Laymen: Making Sense of Retrieval-Augmented Generation](https://dev.to/siddharth_hefa_ccc5bc9455/rag-for-laymen-making-sense-of-retrieval-augmented-generation-3jai)
-- [Drawing with CSS: Let the Chaos Commence!! &lpar;with Video&rpar;](https://dev.to/alvaromontoro/drawing-with-css-let-the-chaos-commence-with-video-236g)
+- [SEO untuk Developer: Panduan Lengkap dari Nol](https://dev.to/jeremy_defoe_7ad3a5492490/seo-untuk-developer-panduan-lengkap-dari-nol-595e)
+- [The Naive Bayes Classifier](https://dev.to/carlosrambles/the-naive-bayes-classifier-30kl)
+- [Αρχές Ομαδικής Συνεργασίας και Προϋποθέσεις Προσωπικής Συμμετοχής: Ενίσχυση της Ομαδικότητας και της Αυτοβελτίωσης](https://dev.to/__b63657/arkhes-omadikes-sunergasias-kai-proupotheseis-prosopikes-summetokhes-eniskhuse-tes-omadikotetas-kai-ege)
+- [How to Build an Agent &lpar;in JavaScript&rpar;](https://dev.to/murthyug/how-to-build-an-agent-in-javascript-5hgp)
+- [Learning Chinese Philosophy the Tech Way: A Practical Approach to the I Ching &lpar;易經&rpar; - Concepts, Culture, and a C# Console App3](https://dev.to/auyeungdavid_2847435260/learning-chinese-philosophy-the-tech-way-a-practical-approach-to-the-i-ching-yi-jing-concepts-4f5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
