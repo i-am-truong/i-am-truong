@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI as Your Coding Coach: How Prompt Engineering Transforms Developers Into Lifelong Learners &lpar;with Research&rpar;](https://dev.to/alvinveroy/ai-as-your-coding-coach-how-prompt-engineering-transforms-developers-into-lifelong-learners-with-4bfi)
-- [Implementing a Secure Data Governance Architecture on AWS with S3, Glue, Athena, and Lake Formation](https://dev.to/davidshaek/implementing-a-secure-data-governance-architecture-on-aws-with-s3-glue-athena-and-lake-formation-30gb)
-- [Deploying a simple **NGINX web server** on a Azure and hosting a custom web page](https://dev.to/jic/deploying-a-simple-nginx-web-server-on-a-azure-and-hosting-a-custom-web-page-4aig)
-- [Analyzing Python Code Quality via MCP](https://dev.to/daisukeyoda/analyzing-python-code-quality-via-mcp-4oi3)
-- [The Hidden Risks of NTLM Authentication in Modern Environments](https://dev.to/kapusto/the-hidden-risks-of-ntlm-authentication-in-modern-environments-44op)
+- [Weekly #42-2025: Code That Proves, Agents That Think, Systems That Last](https://dev.to/weekly/weekly-42-2025-code-that-proves-agents-that-think-systems-that-last-2kin)
+- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2)
+- [Daily Artificial Intelligence Digest - Oct 19, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-19-2025-3kb8)
+- [Writing Clean Code Without Losing Your Mind](https://dev.to/gold_roger_667d8242695024/writing-clean-code-without-losing-your-mind-136e)
+- [How I Automated Membership Fee Collection Using Stripe and Google Services](https://dev.to/yo-shi/how-i-automated-membership-fee-collection-using-stripe-and-google-services-2gd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
