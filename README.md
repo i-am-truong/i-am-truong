@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to AI-Powered Development Tools](https://dev.to/pravin_niceguy/the-ultimate-guide-to-ai-powered-development-tools-4p79)
-- [BuildGo WordPress Theme Review: Setup, Speed, and Practical SEO](https://dev.to/yojaira_finkle_c0f32b18b1/buildgo-wordpress-theme-review-setup-speed-and-practical-seo-5b66)
-- [Building Mindryx: From Local AWS Emulation to Production SaaS AI Quiz Generator](https://dev.to/humza_inam/building-mindryx-from-local-aws-emulation-to-production-saas-ai-quiz-generator-38eo)
-- [How do you know you are moving forward?](https://dev.to/daniloab/how-do-you-know-you-are-moving-forward-47ce)
-- [Mitigating the risk of a global public cloud outage](https://dev.to/aws-builders/mitigating-the-risk-of-a-global-public-cloud-outage-29mk)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3an5)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-568d)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5a9i)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5213)
+- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-2g7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
