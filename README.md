@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Debounce and Throttle in JavaScript &lpar;Beginner’s Guide to Performance Optimization&rpar;](https://dev.to/wisdomudo/understanding-debounce-and-throttle-in-javascript-beginners-guide-to-performance-optimization-4cjf)
-- [[Boost]](https://dev.to/hadil/-37fi)
-- [connect-two-laptop](https://dev.to/irshad_alam_4416767d67e74/connect-two-laptop-1fng)
-- [Tuya SDK App Migration Guide 2025: How to Move from Tuya OEM App to a Custom SDK App](https://dev.to/zediot/tuya-sdk-app-migration-guide-2025-how-to-move-from-tuya-oem-app-to-a-custom-sdk-app-16jp)
-- [Building a real-time sports data pipeline with AWS Fargate and AppSync](https://dev.to/dobeerman/building-a-real-time-sports-data-pipeline-with-aws-fargate-and-appsync-4hee)
+- [Power Automate - The 5 Power Actions](https://dev.to/wyattdave/power-automate-the-5-power-actions-12lm)
+- [This story on Joshua Lintz is eye opening. Talentcrowd’s success is built on stolen contracts and manipulation.](https://dev.to/francisco_pana_8a21c947b7/this-story-on-joshua-lintz-is-eye-opening-talentcrowds-success-is-built-on-stolen-contracts-and-2jea)
+- [Huralya: Building Private AI Assistants on Oasis](https://dev.to/rollingindo/huralya-building-private-ai-assistants-on-oasis-4coo)
+- [Microsoft Recall Features Explained: Pros and Cons](https://dev.to/recallassist/microsoft-recall-features-explained-pros-and-cons-23p2)
+- [Cloud Consulting for Healthcare Startups: From Idea to Implementation](https://dev.to/oli_john_087e42c8f84/cloud-consulting-for-healthcare-startups-from-idea-to-implementation-50pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
