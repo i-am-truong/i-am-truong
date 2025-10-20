@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Building a CRUD API with Express, TypeScript, and Mongoose](https://dev.to/justwonder/a-beginners-guide-to-building-a-crud-api-with-express-typescript-and-mongoose-2np0)
-- [Understanding Vectors and Vector Search: How Vector Search Understands What You Really Mean](https://dev.to/kalio/understanding-vectors-and-vector-search-how-vector-search-understands-what-you-really-mean-19dk)
-- [What is a PDF Form?](https://dev.to/idrsolutions/what-is-a-pdf-form-2pbe)
-- [Each agent gets a partial view of the state](https://dev.to/rikinptl/each-agent-gets-a-partial-view-of-the-state-3i04)
-- [CI/CD Pipelines: Automating Your Development Workflow](https://dev.to/th33k/cicd-pipelines-automating-your-development-workflow-59no)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-kn8)
+- [KEXP: Car Seat Headrest - Planet Desperation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-planet-desperation-live-on-kexp-25j7)
+- [NPR Music: Kokoroko: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-kokoroko-tiny-desk-concert-4jb2)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-3251)
+- [Building Scalable Applications with Micro-Frontends: A Practical Guide](https://dev.to/hemant_singh_17817ad00a62/building-scalable-applications-with-micro-frontends-a-practical-guide-87n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
