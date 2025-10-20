@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source Productivity Apps in 2025: A Careful Comparison](https://dev.to/johannesjo/open-source-productivity-apps-in-2025-a-careful-comparison-2hfe)
-- [Tips dan Trik Penamaan Kode Variabel, Fungsi, File, dan Folder yang Baik](https://dev.to/naandan/tips-dan-trik-penamaan-kode-variabel-fungsi-file-dan-folder-yang-baik-5cia)
-- [Why Most Developers Misunderstand Clean Architecture](https://dev.to/amirsaeed_skomjani/why-most-developers-misunderstand-clean-architecture-e5p)
-- [Top 3 No-Code Documentation Tools in 2025](https://dev.to/zeddd/top-3-no-code-documentation-tools-in-2025-31gk)
-- [NameMin – Free Domain Name Generator &lpar;Made by a Developer, for Developers&rpar;](https://dev.to/mudassar-shakeel/namemin-free-domain-name-generator-made-by-a-developer-for-developers-1gbm)
+- [There’s a difference between being respected and being liked. But there’s a special kind of power in being both.](https://dev.to/themustaphatijani/theres-a-difference-between-being-respected-and-being-liked-but-theres-a-special-kind-of-power-357i)
+- [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
+- [¿Herencia múltiple?](https://dev.to/baltasarq/herencia-multiple-497l)
+- [Unlocking the Market: The Rise and Rationale of AI White-labels #ai #saas #webdev #startup](https://dev.to/lester_mbunga_0f0d35d7f5c/unlocking-the-market-the-rise-and-rationale-of-ai-white-labelsai-saas-webdev-startup-3c7a)
+- [SOC 1 vs SOC 2 vs SOC 3: What’s the Real Difference and Which One Do You Need?](https://dev.to/kibe_christine_bc01e93c1a/soc-1-vs-soc-2-vs-soc-3-whats-the-real-difference-and-which-one-do-you-need-1oc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
