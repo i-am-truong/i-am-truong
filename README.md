@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Layer Cinematic Scroll Scene in Pure CSS](https://dev.to/prahalad/multi-layer-cinematic-scroll-scene-in-pure-css-11dk)
-- [Introduction of Dynamic Programming](https://dev.to/rubenhtun/introduction-of-dynamic-programming-1i18)
-- [Day 68 — Scaling with Terraform](https://dev.to/udoh_deborah_b1e484c474bf/day-68-scaling-with-terraform-4ig1)
-- [Why Clean Code Matters: Lessons from Uncle Bob](https://dev.to/dionarodrigues/why-clean-code-matters-lessons-from-uncle-bob-137l)
-- [Kan [கண்] is an intelligent eye health monitoring application](https://dev.to/qainsights/kan-knn-is-an-intelligent-eye-health-monitoring-application-3mic)
+- [We built an AI fashion generator - is this actually useful or just hype?](https://dev.to/teglos/we-built-an-ai-fashion-generator-is-this-actually-useful-or-just-hype-26e5)
+- [High-Availability Schema Changes: Rolling Updates with Flyway and Spring Boot](https://dev.to/ijuren/high-availability-schema-changes-rolling-updates-with-flyway-and-spring-boot-4gpa)
+- [Week 5: Dipping into React🎨](https://dev.to/nikhilsharma6/week-5-dipping-into-react-209a)
+- [Οδηγός Clean Code για C# 35 παραδείγματα.](https://dev.to/__b63657/odegos-clean-code-gia-c-35-paradeigmata-5f80)
+- [Building an AI Agent for Django with Zero-Token AST Intelligence: My 8-Month Journey](https://dev.to/vebgen/building-an-ai-agent-for-django-with-zero-token-ast-intelligence-my-8-month-journey-66p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
