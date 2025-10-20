@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [There’s a difference between being respected and being liked. But there’s a special kind of power in being both.](https://dev.to/themustaphatijani/theres-a-difference-between-being-respected-and-being-liked-but-theres-a-special-kind-of-power-357i)
-- [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
-- [¿Herencia múltiple?](https://dev.to/baltasarq/herencia-multiple-497l)
-- [Unlocking the Market: The Rise and Rationale of AI White-labels #ai #saas #webdev #startup](https://dev.to/lester_mbunga_0f0d35d7f5c/unlocking-the-market-the-rise-and-rationale-of-ai-white-labelsai-saas-webdev-startup-3c7a)
-- [SOC 1 vs SOC 2 vs SOC 3: What’s the Real Difference and Which One Do You Need?](https://dev.to/kibe_christine_bc01e93c1a/soc-1-vs-soc-2-vs-soc-3-whats-the-real-difference-and-which-one-do-you-need-1oc4)
+- [Zentropy for Laravel: The High-Performance Redis Alternative for Scalable Apps](https://dev.to/arshidkv12/zentropy-for-laravel-the-high-performance-redis-alternative-for-scalable-apps-57n7)
+- [Building a High-Availability Vault Cluster with Docker and Raft Storage](https://dev.to/k5y/building-a-high-availability-vault-cluster-with-docker-and-raft-storage-1931)
+- [The Indispensable Practice of Abstraction: Decoupling Your Frontend Logic from External Libraries](https://dev.to/it-wibrc/the-indispensable-practice-of-abstraction-decoupling-your-frontend-logic-from-external-libraries-40b7)
+- [LATIHAN ANTARMUKA](https://dev.to/sandatya_widhi_ce7cb1c809/latihan-antarmuka-4gdm)
+- [Check out the guide on - Understanding Propensity Score Matching in R](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-understanding-propensity-score-matching-in-r-2cp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
