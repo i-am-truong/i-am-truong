@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Messy Docs to Testing Harmony: How Modern API Tools Bridge the Dev Collaboration Gap](https://dev.to/eleanor_fairfax_5ce95399d/from-messy-docs-to-testing-harmony-how-modern-api-tools-bridge-the-dev-collaboration-gap-33ee)
 - [Power Automate - The 5 Power Actions](https://dev.to/wyattdave/power-automate-the-5-power-actions-12lm)
 - [Mastering Data Cleanup: Unleash the Power of OpenRefine](https://dev.to/saptarshisarkar/mastering-data-cleanup-unleash-the-power-of-openrefine-gpj)
 - [The Little Prince’s Guide to Conec: Tiny Links, Big Magic ✨](https://dev.to/ersajay/the-little-princes-guide-to-conec-tiny-links-big-magic-27k)
 - [This story on Joshua Lintz is eye opening. Talentcrowd’s success is built on stolen contracts and manipulation.](https://dev.to/francisco_pana_8a21c947b7/this-story-on-joshua-lintz-is-eye-opening-talentcrowds-success-is-built-on-stolen-contracts-and-2jea)
-- [“反向成长”风潮兴起：小学生嫌弃的，对于成年人刚刚好？-心理中国-中国网](https://dev.to/_2c78f2211e58fb9c5f4cf/fan-xiang-cheng-chang-feng-chao-xing-qi-xiao-xue-sheng-xian-qi-de-dui-yu-cheng-nian-ren-gang-gang-hao-xin-li-zhong-guo-zhong-guo-wang-2b9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
