@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Use Claude Code on My Phone with Termux and Tailscale](https://dev.to/skeptrune/how-i-use-claude-code-on-my-phone-with-termux-and-tailscale-nge)
+- [Why Engine Mount Inspections Matter in Aviation](https://dev.to/acornwelding_ca_4fb63d76c/why-engine-mount-inspections-matter-in-aviation-37io)
 - [Automating Network Devices with NETCONF and YANG in Puppet Edge](https://dev.to/puppet/automating-network-devices-with-netconf-and-yang-in-puppet-edge-3f04)
-- [Exploring K-NN Data: A Beginner’s Guide to EDA and Feature Selection](https://dev.to/julielinx/exploring-k-nn-data-a-beginners-guide-to-eda-and-feature-selection-2659)
-- [SDLC Automation: A Complete Guide](https://dev.to/jamescantor38/sdlc-automation-a-complete-guide-2ce7)
-- [The Future of Search: Is Google’s AI Revolution Just Beginning? Introduction](https://dev.to/6haz_games_f5157b46c5254f/the-future-of-search-is-googles-ai-revolution-just-beginning-introduction-4ef6)
-- [Beyond the Diff: How Deep Context Analysis Caught a Critical Bug in a 20K-Star Open Source Project](https://dev.to/jet_xu/beyond-the-diff-how-deep-context-analysis-caught-a-critical-bug-in-a-20k-star-open-source-project-5hce)
+- [Why I’m Starting My Debt-Free Journey &lpar;While Learning to Code&rpar;](https://dev.to/gurpreet_d921f9fff6fa7442/why-im-starting-my-debt-free-journey-while-learning-to-code-2g6p)
+- [MemMamba: Rethinking Memory Patterns in State Space Model](https://dev.to/paperium/memmamba-rethinking-memory-patterns-in-state-space-model-2pe1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
