@@ -120,11 +120,17 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pages Services In-Depth Analysis: Why Regional Niche Providers Might Be Better for You](https://dev.to/tony_chase_83955825282edc/pages-services-in-depth-analysis-why-regional-niche-providers-might-be-better-for-you-36c)
-- [Transition from Angular to Flutter](https://dev.to/beo_dan_4b44e99852f48ddb3/transition-from-angular-to-flutter-11gj)
-- [Daily Artificial Intelligence Digest - Oct 20, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-20-2025-4an6)
-- [requestPermissionsFromUser&lpar;&rpar; does not work or directly returns without asking the user.](https://dev.to/harmonyos/requestpermissionsfromuser-does-not-work-or-directly-returns-without-asking-the-user-mdn)
-- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-5ae3)
+- [Decoding Strategy&#39;s Bitcoin Signals: NJTRX Technical Analysis of Corporate Accumulation Patterns](https://dev.to/njtrx/decoding-strategys-bitcoin-signals-njtrx-technical-analysis-of-corporate-accumulation-patterns-1db)
+- [Integration Debt is Not Technical Debt: A 5-Pillar Framework to Quantify Architectural Risk](https://dev.to/webmethodman/integration-debt-is-not-technical-debt-a-5-pillar-framework-to-quantify-architectural-risk-9h0)
+- [05. Mengenal Fungsi Dasar Interaksi dan Struktur Antarmuka di React Native](https://dev.to/sandatya_widhi_ce7cb1c809/05-mengenal-fungsi-dasar-interaksi-dan-struktur-antarmuka-di-react-native-12dk)
+- [gRPC vs. REST: A Comprehensive Technical Guide to Performance and Implementation in High-Complexity Java Environments](https://dev.to/yara_oliveira_8d416fa3ea9/grpc-vs-rest-a-comprehensive-technical-guide-to-performance-and-implementation-in-high-complexity-947)
+- [Every time I speak with developers, freelancers, or tech professionals, I hear the same concern:
+
+“Will AI take my job?”
+
+The real shift isn&#39;t AI vs Humans: it’s AI-empowered humans vs humans who refuse to adapt.
+
+Let’s break this down clearly.](https://dev.to/jaideepparashar/every-time-i-speak-with-developers-freelancers-or-tech-professionals-i-hear-the-same-concern-23j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
