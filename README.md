@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Released Test2::Plugin::SubtestFilter which filters tests by subtest name.](https://dev.to/kfly8/released-test2pluginsubtestfilter-which-filters-tests-by-subtest-name-18mh)
 - [SVG: Image Editing and Convertion with Python](https://dev.to/letstalkoss/svg-image-editing-and-convertion-with-python-3482)
 - [AWS Security certificate SCS-C03 updates](https://dev.to/camille_chang/aws-security-certificate-scs-c03-updates-32e0)
 - [QA Docs - The Hidden Backbone of QA](https://dev.to/lkendi003/qa-docs-the-hidden-backbone-of-qa-12fe)
 - [Modern Ways to Tame GitHub Action Workflows](https://dev.to/jlarky/modern-ways-to-tame-github-action-workflows-4006)
-- [Discriminated unions in C#](https://dev.to/ivansphoto/discriminated-unions-in-c-2gn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
