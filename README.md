@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekend Rec Build: cifs-watch](https://dev.to/ksolomon/weekend-rec-build-cifs-watch-4pb7)
+- [JavaScript Essentials: How to Use .includes&lpar;&rpar; for Array Searches](https://dev.to/michaellarocca/javascript-essentials-how-to-use-includes-for-array-searches-2k1c)
 - [Better Late Than Never: Tackling the 2022 Cloud Portfolio Challenge in 2025 &lpar;With a Modern Twist&rpar;](https://dev.to/wheeleruniverse/better-late-than-never-tackling-the-2022-cloud-portfolio-challenge-in-2025-with-a-modern-twist-3gde)
 - [🚀 Costruiamo soluzioni intelligenti per un mondo più semplice](https://dev.to/ebsoluzioni/costruiamo-soluzioni-intelligenti-per-un-mondo-piu-semplice-2l1g)
 - [How to use infer keyword in Typescript](https://dev.to/muszynov/how-to-use-infer-keyword-in-typescript-5dl2)
-- [The Code Review That Changed Everything](https://dev.to/elvissautet/the-code-review-that-changed-everything-1dp2)
-- [How Compression Works on the Web with Gzip and Brotli](https://dev.to/rijultp/how-compression-works-on-the-web-with-gzip-and-brotli-4nn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
