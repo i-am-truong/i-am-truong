@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Basic Chunks: Supercharge Your RAG with Docling and OpenSearch](https://dev.to/aairom/beyond-basic-chunks-supercharge-your-rag-with-docling-and-opensearch-294b)
-- [🧠 RAG &lpar;Retrieval-Augmented Generation&rpar;: The Secret Sauce Behind Smarter AI](https://dev.to/charan_gutti_cf60c6185074/rag-retrieval-augmented-generation-the-secret-sauce-behind-smarter-ai-4gdb)
-- [Merging Minds: Mastering Joins and Data Blending in Tableau](https://dev.to/dipti_m_2e7ba36c478d1a48a/merging-minds-mastering-joins-and-data-blending-in-tableau-5gd1)
-- [🌐 The Future of Trustless On-Chain Agents Is Taking Shape](https://dev.to/adityasingh2824/the-future-of-trustless-on-chain-agents-is-taking-shape-2ipa)
-- [Ditch the Clutter: Instantly Copy Any Webpage as Clean Markdown with cpdown](https://dev.to/githubopensource/ditch-the-clutter-instantly-copy-any-webpage-as-clean-markdown-with-cpdown-3oaf)
+- [NPR Music: Kokoroko: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-kokoroko-tiny-desk-concert-2fgh)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-4741)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-knp)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-fho)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-4jjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
