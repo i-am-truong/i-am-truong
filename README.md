@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Weekend Rec Build: cifs-watch](https://dev.to/ksolomon/weekend-rec-build-cifs-watch-4pb7)
-- [JavaScript Essentials: How to Use .includes&lpar;&rpar; for Array Searches](https://dev.to/michaellarocca/javascript-essentials-how-to-use-includes-for-array-searches-2k1c)
-- [Better Late Than Never: Tackling the 2022 Cloud Portfolio Challenge in 2025 &lpar;With a Modern Twist&rpar;](https://dev.to/wheeleruniverse/better-late-than-never-tackling-the-2022-cloud-portfolio-challenge-in-2025-with-a-modern-twist-3gde)
-- [🚀 Costruiamo soluzioni intelligenti per un mondo più semplice](https://dev.to/ebsoluzioni/costruiamo-soluzioni-intelligenti-per-un-mondo-piu-semplice-2l1g)
-- [How to use infer keyword in Typescript](https://dev.to/muszynov/how-to-use-infer-keyword-in-typescript-5dl2)
+- [Caída de AWS en US-EAST-1: Explicación Detallada y Sencilla](https://dev.to/franciscojeg78/caida-de-aws-en-us-east-1-explicacion-detallada-y-sencilla-1gpb)
+- [Building AI Workflow and Project Context: From Memory Banks to Simple Markdown](https://dev.to/shinomontaz/building-ai-workflow-and-project-context-from-memory-banks-to-simple-markdown-27np)
+- [🧩 Minha Primeira Comunicação com MCP e .NET – Parte 4](https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-4-4cib)
+- [What Sets Ethereum Apart From Other Smart Contract Platforms?](https://dev.to/keira_henry/what-sets-ethereum-apart-from-other-smart-contract-platforms-5c1o)
+- [From Scope Creep to Scope Control: Managing Client Expectations in Digital Projects](https://dev.to/michelle_turner/from-scope-creep-to-scope-control-managing-client-expectations-in-digital-projects-2ak0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
