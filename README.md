@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Costruiamo soluzioni intelligenti per un mondo più semplice](https://dev.to/ebsoluzioni/costruiamo-soluzioni-intelligenti-per-un-mondo-piu-semplice-2l1g)
+- [How to use infer keyword in Typescript](https://dev.to/muszynov/how-to-use-infer-keyword-in-typescript-5dl2)
+- [The Code Review That Changed Everything](https://dev.to/elvissautet/the-code-review-that-changed-everything-1dp2)
 - [How Compression Works on the Web with Gzip and Brotli](https://dev.to/rijultp/how-compression-works-on-the-web-with-gzip-and-brotli-4nn0)
 - [🚀 New AWS Certification Incoming: AWS Certified Generative AI Developer – Professional &lpar;BETA launches November 18th&rpar;](https://dev.to/matisantoro/new-aws-certification-incoming-aws-certified-generative-ai-developer-professional-beta-4h)
-- [From Data to Physics: Building the GNSS Measurement Engine](https://dev.to/pederzoli/from-data-to-physics-building-the-gnss-measurement-engine-2en4)
-- [The Great AWS Outage of October 2025: When the Internet&#39;s Backbone Buckled](https://dev.to/1geek/the-great-aws-outage-of-october-2025-when-the-internets-backbone-buckled-207n)
-- [👋 Hey devs!](https://dev.to/msbala007/hey-devs-3h2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
