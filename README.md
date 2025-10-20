@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-kn8)
-- [KEXP: Car Seat Headrest - Planet Desperation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-planet-desperation-live-on-kexp-25j7)
-- [NPR Music: Kokoroko: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-kokoroko-tiny-desk-concert-4jb2)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-3251)
-- [Building Scalable Applications with Micro-Frontends: A Practical Guide](https://dev.to/hemant_singh_17817ad00a62/building-scalable-applications-with-micro-frontends-a-practical-guide-87n)
+- [When AWS us-east-1 Sneezes, the Internet Catches a Cold](https://dev.to/copubah/when-aws-us-east-1-sneezes-the-internet-catches-a-cold-1n68)
+- [🚀 Why Everyone Uses localhost:3000 - The History of Dev Ports &lpar;3000, 8000, 8080, 5173&rpar;](https://dev.to/safvantsy/why-everyone-uses-localhost3000-the-history-of-dev-ports-3000-8000-8080-5173-llg)
+- [Strategic PR for Startups: A No-Fluff Playbook to Earn Trust and Compound Growth](https://dev.to/sonia_bobrik_1939cdddd79d/strategic-pr-for-startups-a-no-fluff-playbook-to-earn-trust-and-compound-growth-1961)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-jib)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-3cf3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
