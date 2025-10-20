@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Caída de AWS en US-EAST-1: Explicación Detallada y Sencilla](https://dev.to/franciscojeg78/caida-de-aws-en-us-east-1-explicacion-detallada-y-sencilla-1gpb)
-- [Building AI Workflow and Project Context: From Memory Banks to Simple Markdown](https://dev.to/shinomontaz/building-ai-workflow-and-project-context-from-memory-banks-to-simple-markdown-27np)
-- [🧩 Minha Primeira Comunicação com MCP e .NET – Parte 4](https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-4-4cib)
-- [What Sets Ethereum Apart From Other Smart Contract Platforms?](https://dev.to/keira_henry/what-sets-ethereum-apart-from-other-smart-contract-platforms-5c1o)
-- [From Scope Creep to Scope Control: Managing Client Expectations in Digital Projects](https://dev.to/michelle_turner/from-scope-creep-to-scope-control-managing-client-expectations-in-digital-projects-2ak0)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-ckl)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-mgp)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-42ep)
+- [KEXP: Car Seat Headrest - Planet Desperation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-planet-desperation-live-on-kexp-49pm)
+- [KEXP: Adrian Quesada - No Juego/ Ídolo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-adrian-quesada-no-juego-idolo-live-on-kexp-32hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
