@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [atlas ocean voyages cancellation policy](https://dev.to/gppglr_ba3201c03e1b844ce5/atlas-ocean-voyages-cancellation-policy-256)
-- [Building an AI-Powered Recommendation System with .NET Core and ML.NET](https://dev.to/hamza_zeryouh/building-an-ai-powered-recommendation-system-with-net-core-and-mlnet-ok1)
-- [Processing 10 Million Records with AI on a $1,500 Budget](https://dev.to/itsmstfbysl/processing-10-million-records-with-ai-on-a-1500-budget-222a)
-- [Looking for User #12](https://dev.to/liquidcode/looking-for-user-12-2065)
-- [The Silent Breach: Why Most Developers Still Underestimate Cybersecurity](https://dev.to/securebitchat/the-silent-breach-why-most-developers-still-underestimate-cybersecurity-2j15)
+- [Why Clean Code Matters: Lessons from Uncle Bob](https://dev.to/dionarodrigues/why-clean-code-matters-lessons-from-uncle-bob-137l)
+- [Kan [கண்] is an intelligent eye health monitoring application](https://dev.to/qainsights/kan-knn-is-an-intelligent-eye-health-monitoring-application-3mic)
+- [Improving Network Performance with Custom eBPF-based Schedulers](https://dev.to/ianchen0119/improving-network-performance-with-custom-ebpf-based-schedulers-2akc)
+- [How Vue Mixins Ensure Consistent Functionality Across Multiple Business Applications](https://dev.to/paloma_kingsley_8f28c45cb/how-vue-mixins-ensure-consistent-functionality-across-multiple-business-applications-204p)
+- [How Data Formatting &lpar;Line Breaks and Indentation&rpar; Affects LLM Response Accuracy in RAG](https://dev.to/shibayu36/how-data-formatting-line-breaks-and-indentation-affects-llm-response-accuracy-in-rag-47pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
