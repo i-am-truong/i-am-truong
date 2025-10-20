@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-5h32)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-997)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-2e8c)
-- [[Boost]](https://dev.to/shinomontaz/-25de)
-- [🌍 From Campus to Community: My Unexpected Journey into Tech Leadership](https://dev.to/pavan_kumarmukkera_527ab/from-campus-to-community-my-unexpected-journey-into-tech-leadership-4g3)
+- [132 Lines of Python That Give Birth to a Mathematical Hyper-Monster](https://dev.to/artur_homoastricus_f05461/132-lines-of-python-that-give-birth-to-a-mathematical-hyper-monster-366a)
+- [🚀 AI-Powered Development &amp; Automation: How AI Is Transforming the Dev Workflow](https://dev.to/softwaredeveloper01/ai-powered-development-automation-how-ai-is-transforming-the-dev-workflow-49hn)
+- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-15f9)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3ifh)
+- [COLORS: UMI - 10AM | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-10am-a-colors-show-28l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
