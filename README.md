@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Doesn’t My API Call Wait? — Understanding Promises &amp; Async/Await in JavaScript](https://dev.to/saurav_dev_2022/why-doesnt-my-api-call-wait-understanding-promises-asyncawait-in-javascript-24kf)
-- [Learning CSS feels like learning magic ✨](https://dev.to/surya_13/learning-css-feels-like-learning-magic-4ji2)
-- [ServeSense — Windows SFTP/FTPS/FTP Server with Least-Privilege Setup &lpar;No Admin Needed&rpar;](https://dev.to/ngtduc693/servesense-windows-sftpftpsftp-server-with-least-privilege-setup-no-admin-needed-6k)
-- [AI Absolution: Are Companies Using Automation as a Cop-Out?](https://dev.to/mabualzait/ai-absolution-are-companies-using-automation-as-a-cop-out-fil)
-- [Meet Hector: A Declarative AI Agent Platform in Go &lpar;Built on A2A&rpar;](https://dev.to/kadir_pekel_3277e6819e5b9/meet-hector-a-declarative-ai-agent-platform-in-go-40j2)
+- [For those who&#39;ve contributed to open source, how did you find your first issue?](https://dev.to/subham_sagar_dev/for-those-whove-contributed-to-open-source-how-did-you-find-your-first-issue-17hk)
+- [🐱 Building a Dynamic API with Spring Boot and Cat Facts #SpringBoot` `#Java` `#API` `#CatFacts` `#BackendDevelopment`](https://dev.to/balogun_dayo_c4bdaf777a85/building-a-dynamic-api-with-spring-boot-and-cat-facts-springboot-java-api-catfacts-1lnk)
+- [SwiftMocking: Rethinking Test Doubles with Modern Swift](https://dev.to/danielcardonarojas/swiftmocking-rethinking-test-doubles-with-modern-swift-3hoa)
+- [&quot;Debugging 102:&quot;Stack Trace &lpar;JavaScript&rpar; — How to Read It Like a Pro](https://dev.to/mithukr/debugging-102stack-trace-javascript-how-to-read-it-like-a-pro-cn4)
+- [Stop Over-Engineering: A 100-line bash script that saved my servers](https://dev.to/sgumz/stop-over-engineering-a-100-line-bash-script-that-saved-my-servers-134g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
