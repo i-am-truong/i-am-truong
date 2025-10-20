@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating and Deploying a Custom Docker Image with Azure Container Registry and Azure Container Instances](https://dev.to/theodora_e6f61d02577a5f06/creating-and-deploying-a-custom-docker-image-with-azure-container-registry-and-azure-container-3d80)
+- [Meetup: Refactor Like a Pro: Clean Code Meets DDD](https://dev.to/getjv/meetup-refactor-like-a-pro-clean-code-meets-ddd-5fkn)
+- [Testing](https://dev.to/processoverprofit/testing-3m34)
+- [Proving ROI with Data-Driven AI Agent Experiments](https://dev.to/launchdarkly/proving-roi-with-data-driven-ai-agent-experiments-76b)
 - [OpenAI dévoile les Prompt Packs : plus de 300 prompts pour booster votre productivité avec ChatGPT](https://dev.to/babi_mumba_e6269fe8949856/openai-devoile-les-prompt-packs-plus-de-300-prompts-pour-booster-votre-productivite-avec-chatgpt-4p5i)
-- [Dev Log 34 - Tooltip Resurrection](https://dev.to/asx/dev-log-34-tooltip-resurrection-2jgg)
-- [The Illusions of Quality — Episode 9: 🔨 The Toolsmith, Not the Tool: A Tester&#39;s Role in Modern DevOps](https://dev.to/abdulosman/the-illusions-of-quality-episode-9-the-toolsmith-not-the-tool-a-testers-role-in-3fc8)
-- [React Query, Part 1 — The Mental Model &lpar;with running JS examples&rpar;](https://dev.to/picciniuscodes/react-query-part-1-the-mental-model-with-running-js-examples-32e2)
-- [Learning Azure Networking Through Code: My Spring Boot + Terraform Journey](https://dev.to/humza_inam/learning-azure-networking-through-code-my-spring-boot-terraform-journey-4kij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
