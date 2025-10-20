@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Composition Workshop: Building with &quot;Has-A&quot; Relationships](https://dev.to/aaron_rose_0787cc8b4775a0/the-composition-workshop-building-with-has-a-relationships-3iah)
+- [**Unlocking Efficiency: AI-Powered Predictive Maintenance at](https://dev.to/drcarlosruizviquez/unlocking-efficiency-ai-powered-predictive-maintenance-at-2535)
+- [**Approach Showdown: Modular vs](https://dev.to/drcarlosruizviquez/approach-showdown-modular-vs-19ao)
 - [The prospect of AI-powered cybersecurity systems combating i](https://dev.to/drcarlosruizviquez/the-prospect-of-ai-powered-cybersecurity-systems-combating-i-719)
 - [**Unlock the Power of Customized Text Generation with T5X**](https://dev.to/drcarlosruizviquez/unlock-the-power-of-customized-text-generation-with-t5x-485i)
-- [Get ready for liftoff! 🚀 Researchers have developed a ground](https://dev.to/drcarlosruizviquez/get-ready-for-liftoff-researchers-have-developed-a-ground-l09)
-- [My Python Toolbox — The Secret to No Overtime](https://dev.to/lamri_abdellahramdane_15/my-python-toolbox-the-secret-to-no-overtime-71i)
-- [132 Lines of Python That Give Birth to a Mathematical Hyper-Monster](https://dev.to/artur_homoastricus_f05461/132-lines-of-python-that-give-birth-to-a-mathematical-hyper-monster-366a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
