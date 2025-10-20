@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Each agent gets a partial view of the state](https://dev.to/rikinptl/each-agent-gets-a-partial-view-of-the-state-3i04)
-- [The root causes of uncertainty in large language model &lpar;LLM&rpar; reasoning](https://dev.to/monica_nilo_f052146621536/the-root-causes-of-uncertainty-in-large-language-model-llm-reasoning-2mj6)
+- [CI/CD Pipelines: Automating Your Development Workflow](https://dev.to/th33k/cicd-pipelines-automating-your-development-workflow-59no)
+- [Relational vs Non-Relational Databases: Choosing the Right One for Your Dream Project 🚀](https://dev.to/hamidrazadev/relational-vs-non-relational-databases-choosing-the-right-one-for-your-dream-project-3a94)
+- [How to Use Data-Driven Marketing to Scale Your SaaS Business](https://dev.to/alex_swift1234/how-to-use-data-driven-marketing-to-scale-your-saas-business-2k20)
 - [Automating React App Deployment to GitHub Pages using GitHub Actions](https://dev.to/allename_dev/automating-react-app-deployment-to-github-pages-using-github-actions-103b)
-- [100 Days of DevOps: Day 73](https://dev.to/wycliffealphus/100-days-of-devops-day-73-2o7i)
-- [Transforming Ceramic Manufacturing: A Case Study in Automation and Efficiency](https://dev.to/victor-lang/transforming-ceramic-manufacturing-a-case-study-in-automation-and-efficiency-17n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
