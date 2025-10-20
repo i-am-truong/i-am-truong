@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We built an AI fashion generator - is this actually useful or just hype?](https://dev.to/teglos/we-built-an-ai-fashion-generator-is-this-actually-useful-or-just-hype-26e5)
-- [High-Availability Schema Changes: Rolling Updates with Flyway and Spring Boot](https://dev.to/ijuren/high-availability-schema-changes-rolling-updates-with-flyway-and-spring-boot-4gpa)
-- [Week 5: Dipping into React🎨](https://dev.to/nikhilsharma6/week-5-dipping-into-react-209a)
-- [Οδηγός Clean Code για C# 35 παραδείγματα.](https://dev.to/__b63657/odegos-clean-code-gia-c-35-paradeigmata-5f80)
-- [Building an AI Agent for Django with Zero-Token AST Intelligence: My 8-Month Journey](https://dev.to/vebgen/building-an-ai-agent-for-django-with-zero-token-ast-intelligence-my-8-month-journey-66p)
+- [How do you know you are moving forward?](https://dev.to/daniloab/how-do-you-know-you-are-moving-forward-47ce)
+- [Mitigating the risk of a global public cloud outage](https://dev.to/aws-builders/mitigating-the-risk-of-a-global-public-cloud-outage-29mk)
+- [Debugging Astro — Practical Tips &amp; Tricks](https://dev.to/lovestaco/debugging-astro-practical-tips-tricks-ope)
+- [Building SafeScript: Our Journey Creating a Security Tool for AI-Generated Code](https://dev.to/humza_inam/building-safescript-our-journey-creating-a-security-tool-for-ai-generated-code-2hk7)
+- [We Built an AI Fashion Photography Platform - Real Feedback Needed from Industry Professionals](https://dev.to/teglos/we-built-an-ai-fashion-generator-is-this-actually-useful-or-just-hype-26e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
