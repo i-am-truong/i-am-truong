@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Speed Up AWS CodeBuild Docker Builds by 25% or more Using ECR as a Remote Cache](https://dev.to/aws-builders/how-to-speed-up-aws-codebuild-docker-builds-by-25-or-more-using-ecr-as-a-remote-cache-1a8m)
-- [Turning Pandas Dataframes into Hypercubes, Meet Cube Alchemy](https://dev.to/juandelmonte/turning-pandas-dataframes-into-hypercubes-meet-cube-alchemy-hcj)
-- [🧱 Lesson 2A— Creating the base solution, API project, folder structure, dependency injection, environment configuration.](https://dev.to/farrukh_rehman/lesson-2a-creating-the-base-solution-api-project-folder-structure-dependency-injection-3b2g)
-- [What are your goals for the week? #149](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-149-3k8c)
-- [🧱 Lesson 1— Deep Dive into Architecture Diagrams: Clean Architecture, Layered Design, and Separation of Concerns for Scalability](https://dev.to/farrukh_rehman/lesson-1-deep-dive-into-architecture-diagrams-clean-architecture-layered-design-and-2hp4)
+- [🌐 Instantly Check Your IP — Meet “What Is My IP Address on Chrome”](https://dev.to/rohan2596/instantly-check-your-ip-meet-what-is-my-ip-address-on-chrome-1oo9)
+- [18 Innovative App Ideas to Combat Food Shortages: Insights from Thought Leaders](https://dev.to/dev-articles/18-innovative-app-ideas-to-combat-food-shortages-insights-from-thought-leaders-1fgo)
+- [Day 10 of documentating my learning journey](https://dev.to/james_kabuga/day-10-of-documentating-my-learning-journey-37k4)
+- [Command Line Essentials: Terminal Commands Every Developer Should Know](https://dev.to/bellagirlmaker/command-line-essentials-terminal-commands-every-developer-should-know-5263)
+- [Python basics - Day 10](https://dev.to/ian_b838138a27a917398d181/python-basics-day-10-1j1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
