@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Ready String Analyzer API with Node.js and EC2](https://dev.to/ursulaonyi/building-a-production-ready-string-analyzer-api-with-nodejs-and-ec2-5dmk)
 - [AI Answer Governance for Developers](https://dev.to/alifar/ai-answer-governance-for-developers-17a1)
 - [How We Built VOLIXTA — A Professional Booking Plugin That Replaces 10 WordPress Addons](https://dev.to/volixta-plugin/how-we-built-volixta-a-professional-booking-plugin-that-replaces-10-wordpress-addons-1ob4)
-- [Check out the guide on - Implementing Parallel Processing in R: Boosting Speed, Efficiency, and Scalability in Data Analytics](https://dev.to/thedatageek/check-out-the-guide-on-implementing-parallel-processing-in-r-boosting-speed-efficiency-and-5bi6)
+- [Implementing Parallel Processing in R: Boosting Speed, Efficiency, and Scalability in Data Analytics](https://dev.to/thedatageek/implementing-parallel-processing-in-r-boosting-speed-efficiency-and-scalability-in-data-analytics-5d82)
 - [Zentropy for Laravel: The High-Performance Redis Alternative for Scalable Apps](https://dev.to/arshidkv12/zentropy-for-laravel-the-high-performance-redis-alternative-for-scalable-apps-57n7)
-- [Building a High-Availability Vault Cluster with Docker and Raft Storage](https://dev.to/k5y/building-a-high-availability-vault-cluster-with-docker-and-raft-storage-1931)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
