@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SVG: Image Editing and Convertion with Python](https://dev.to/letstalkoss/svg-image-editing-and-convertion-with-python-3482)
+- [AWS Security certificate SCS-C03 updates](https://dev.to/camille_chang/aws-security-certificate-scs-c03-updates-32e0)
+- [QA Docs - The Hidden Backbone of QA](https://dev.to/lkendi003/qa-docs-the-hidden-backbone-of-qa-12fe)
 - [Modern Ways to Tame GitHub Action Workflows](https://dev.to/jlarky/modern-ways-to-tame-github-action-workflows-4006)
 - [Discriminated unions in C#](https://dev.to/ivansphoto/discriminated-unions-in-c-2gn2)
-- [Understanding Constructors in Java](https://dev.to/masteringbackend/understanding-constructors-in-java-4p1g)
-- [The Final Showdown: Choosing the Right Rendering Strategy Without Losing Your Mind](https://dev.to/lucasbrdt268/the-final-showdown-choosing-the-right-rendering-strategy-without-losing-your-mind-15i9)
-- [The Composition Workshop: Building with &quot;Has-A&quot; Relationships](https://dev.to/aaron_rose_0787cc8b4775a0/the-composition-workshop-building-with-has-a-relationships-3iah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
