@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to AI-Powered Development Tools](https://dev.to/pravin_niceguy/the-ultimate-guide-to-ai-powered-development-tools-4p79)
+- [BuildGo WordPress Theme Review: Setup, Speed, and Practical SEO](https://dev.to/yojaira_finkle_c0f32b18b1/buildgo-wordpress-theme-review-setup-speed-and-practical-seo-5b66)
+- [Building Mindryx: From Local AWS Emulation to Production SaaS AI Quiz Generator](https://dev.to/humza_inam/building-mindryx-from-local-aws-emulation-to-production-saas-ai-quiz-generator-38eo)
 - [How do you know you are moving forward?](https://dev.to/daniloab/how-do-you-know-you-are-moving-forward-47ce)
 - [Mitigating the risk of a global public cloud outage](https://dev.to/aws-builders/mitigating-the-risk-of-a-global-public-cloud-outage-29mk)
-- [Debugging Astro — Practical Tips &amp; Tricks](https://dev.to/lovestaco/debugging-astro-practical-tips-tricks-ope)
-- [Building SafeScript: Our Journey Creating a Security Tool for AI-Generated Code](https://dev.to/humza_inam/building-safescript-our-journey-creating-a-security-tool-for-ai-generated-code-2hk7)
-- [We Built an AI Fashion Photography Platform - Real Feedback Needed from Industry Professionals](https://dev.to/teglos/we-built-an-ai-fashion-generator-is-this-actually-useful-or-just-hype-26e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
