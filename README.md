@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [For those who&#39;ve contributed to open source, how did you find your first issue?](https://dev.to/subham_sagar_dev/for-those-whove-contributed-to-open-source-how-did-you-find-your-first-issue-17hk)
-- [🐱 Building a Dynamic API with Spring Boot and Cat Facts #SpringBoot` `#Java` `#API` `#CatFacts` `#BackendDevelopment`](https://dev.to/balogun_dayo_c4bdaf777a85/building-a-dynamic-api-with-spring-boot-and-cat-facts-springboot-java-api-catfacts-1lnk)
-- [SwiftMocking: Rethinking Test Doubles with Modern Swift](https://dev.to/danielcardonarojas/swiftmocking-rethinking-test-doubles-with-modern-swift-3hoa)
-- [&quot;Debugging 102:&quot;Stack Trace &lpar;JavaScript&rpar; — How to Read It Like a Pro](https://dev.to/mithukr/debugging-102stack-trace-javascript-how-to-read-it-like-a-pro-cn4)
-- [Stop Over-Engineering: A 100-line bash script that saved my servers](https://dev.to/sgumz/stop-over-engineering-a-100-line-bash-script-that-saved-my-servers-134g)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-53p2)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1jnm)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-n2p)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1jcn)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-cco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
