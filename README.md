@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-51g2)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-3i6c)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1104)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-8cf)
-- [The Next Frontier in AI: Decentralized Compute Marketplaces for Agentic, Spec-Driven Systems](https://dev.to/p3ngu1nzz/the-next-frontier-in-ai-decentralized-compute-marketplaces-for-agentic-spec-driven-systems-58pc)
+- [Pages Services In-Depth Analysis: Why Regional Niche Providers Might Be Better for You](https://dev.to/tony_chase_83955825282edc/pages-services-in-depth-analysis-why-regional-niche-providers-might-be-better-for-you-36c)
+- [Transition from Angular to Flutter](https://dev.to/beo_dan_4b44e99852f48ddb3/transition-from-angular-to-flutter-11gj)
+- [Daily Artificial Intelligence Digest - Oct 20, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-20-2025-4an6)
+- [requestPermissionsFromUser&lpar;&rpar; does not work or directly returns without asking the user.](https://dev.to/harmonyos/requestpermissionsfromuser-does-not-work-or-directly-returns-without-asking-the-user-mdn)
+- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-5ae3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
