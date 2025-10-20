@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Instantly Check Your IP — Meet “What Is My IP Address on Chrome”](https://dev.to/rohan2596/instantly-check-your-ip-meet-what-is-my-ip-address-on-chrome-1oo9)
-- [18 Innovative App Ideas to Combat Food Shortages: Insights from Thought Leaders](https://dev.to/dev-articles/18-innovative-app-ideas-to-combat-food-shortages-insights-from-thought-leaders-1fgo)
-- [Day 10 of documentating my learning journey](https://dev.to/james_kabuga/day-10-of-documentating-my-learning-journey-37k4)
-- [Command Line Essentials: Terminal Commands Every Developer Should Know](https://dev.to/bellagirlmaker/command-line-essentials-terminal-commands-every-developer-should-know-5263)
-- [Python basics - Day 10](https://dev.to/ian_b838138a27a917398d181/python-basics-day-10-1j1g)
+- [The Future of Search: Is Google’s AI Revolution Just Beginning? Introduction](https://dev.to/6haz_games_f5157b46c5254f/the-future-of-search-is-googles-ai-revolution-just-beginning-introduction-4ef6)
+- [DeepSeek Does It Again: From MoE to DSA, The New Era of LLM Efficiency](https://dev.to/thedavestack/deepseek-does-it-again-from-moe-to-dsa-the-new-era-of-llm-efficiency-o9h)
+- [Neovim and Unreal Engine Workflow](https://dev.to/thgnommy/neovim-and-unreal-engine-workflow-22p6)
+- [If you are preparing for SAA-C03 exam this is for you a complete IAM guide](https://dev.to/nishath_jp/if-you-are-preparing-for-saa-c03-exam-this-is-for-you-a-complete-iam-guide-2kf5)
+- [💎 Introducing round_robin_assignment: A Reliable Round-Robin Assignment Gem for Rails](https://dev.to/mustafa_duranovic_b25293f/introducing-roundrobinassignment-a-reliable-round-robin-assignment-gem-for-rails-1dmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
