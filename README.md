@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3fll)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-16ah)
-- [COLORS: UMI - 10AM | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-10am-a-colors-show-e25)
-- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-40m4)
-- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-3fca)
+- [atlas ocean voyages cancellation policy](https://dev.to/gppglr_ba3201c03e1b844ce5/atlas-ocean-voyages-cancellation-policy-256)
+- [Building an AI-Powered Recommendation System with .NET Core and ML.NET](https://dev.to/hamza_zeryouh/building-an-ai-powered-recommendation-system-with-net-core-and-mlnet-ok1)
+- [Processing 10 Million Records with AI on a $1,500 Budget](https://dev.to/itsmstfbysl/processing-10-million-records-with-ai-on-a-1500-budget-222a)
+- [Looking for User #12](https://dev.to/liquidcode/looking-for-user-12-2065)
+- [The Silent Breach: Why Most Developers Still Underestimate Cybersecurity](https://dev.to/securebitchat/the-silent-breach-why-most-developers-still-underestimate-cybersecurity-2j15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
