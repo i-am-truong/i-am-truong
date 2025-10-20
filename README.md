@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get ready for liftoff! 🚀 Researchers have developed a ground](https://dev.to/drcarlosruizviquez/get-ready-for-liftoff-researchers-have-developed-a-ground-l09)
+- [My Python Toolbox — The Secret to No Overtime](https://dev.to/lamri_abdellahramdane_15/my-python-toolbox-the-secret-to-no-overtime-71i)
 - [132 Lines of Python That Give Birth to a Mathematical Hyper-Monster](https://dev.to/artur_homoastricus_f05461/132-lines-of-python-that-give-birth-to-a-mathematical-hyper-monster-366a)
 - [🚀 AI-Powered Development &amp; Automation: How AI Is Transforming the Dev Workflow](https://dev.to/softwaredeveloper01/ai-powered-development-automation-how-ai-is-transforming-the-dev-workflow-49hn)
 - [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-15f9)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3ifh)
-- [COLORS: UMI - 10AM | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-10am-a-colors-show-28l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
