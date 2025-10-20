@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My first ink! full-stack project: From smart contract to frontend connection with PAPI.](https://dev.to/rampop/my-first-ink-full-stack-project-from-smart-contract-to-frontend-connection-with-papi-18k8)
-- [Retrieval-Augmented Generation &lpar;RAG&rpar;: Making AI More Knowledgeable](https://dev.to/aps-181/retrieval-augmented-generation-rag-making-ai-more-knowledgeable-bfk)
-- [Outil de Cybersécurité du Jour - Oct 20, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-oct-20-2025-aic)
-- [🧩 Understanding the Object Class in Java](https://dev.to/mohamad_mhana/understanding-the-object-class-in-java-37ki)
-- [Attracting Talent: Trends in Mining Talent Acquisition](https://dev.to/shawn-fisher/attracting-talent-trends-in-mining-talent-acquisition-5akf)
+- [AWS Transform: Automating Legacy Migration Using Agentic AI](https://dev.to/sudoconsultants/aws-transform-automating-legacy-migration-using-agentic-ai-2g9f)
+- [From Engineer to Developer: Building FEAScript for Browser-Based FEM](https://dev.to/nikoscham/from-engineer-to-developer-building-feascript-for-browser-based-fem-3cf6)
+- [Laravel Blade Partial API Pattern with HTMX](https://dev.to/raheelshan/laravel-blade-partial-api-pattern-with-htmx-3aj)
+- [How Attackers Are Using Blockchains to Hide Malware](https://dev.to/guardingpearsoftware/how-attackers-are-using-blockchains-to-hide-malware-47m3)
+- [The Future of Creation: Exploring the Power and Potential of the 3D Printer](https://dev.to/370/the-future-of-creation-exploring-the-power-and-potential-of-the-3d-printer-5g9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
