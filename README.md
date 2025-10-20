@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Things to do when bored for parents at a party](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-parents-at-a-party-2b35)
+- [Things to do when bored for college students when you are camping](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-college-students-when-you-are-camping-48c8)
+- [Things to do when bored for seniors in the office](https://dev.to/trang_khanh_1a4456cf74e34/things-to-do-when-bored-for-seniors-in-the-office-5bjc)
+- [Things to do when bored for kids in a city](https://dev.to/trang_khanh_1a4456cf74e34/things-to-do-when-bored-for-kids-in-a-city-1280)
 - [Released Test2::Plugin::SubtestFilter which filters tests by subtest name.](https://dev.to/kfly8/released-test2pluginsubtestfilter-which-filters-tests-by-subtest-name-18mh)
-- [SVG: Image Editing and Convertion with Python](https://dev.to/letstalkoss/svg-image-editing-and-convertion-with-python-3482)
-- [AWS Security certificate SCS-C03 updates](https://dev.to/camille_chang/aws-security-certificate-scs-c03-updates-32e0)
-- [QA Docs - The Hidden Backbone of QA](https://dev.to/lkendi003/qa-docs-the-hidden-backbone-of-qa-12fe)
-- [Modern Ways to Tame GitHub Action Workflows](https://dev.to/jlarky/modern-ways-to-tame-github-action-workflows-4006)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
