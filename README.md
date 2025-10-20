@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Event Loop](https://dev.to/whataboutcoding/event-loop-1ppp)
-- [Meta’s Early Experience Trains AI Without Rewards—and Outsmarts Imitation Learning](https://dev.to/aiwithapex/metas-early-experience-trains-ai-without-rewards-and-outsmarts-imitation-learning-2f5l)
-- [HashCodex — Building a Distributed, Secure Code Execution Platform Like LeetCode](https://dev.to/shahrohit/hashcodex-building-a-distributed-secure-code-execution-platform-like-leetcode-2gpp)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3582)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-298j)
+- [ServeSense — Windows SFTP/FTPS/FTP Server with Least-Privilege Setup &lpar;No Admin Needed&rpar;](https://dev.to/ngtduc693/servesense-windows-sftpftpsftp-server-with-least-privilege-setup-no-admin-needed-6k)
+- [Meet Hector: A Declarative AI Agent Platform in Go &lpar;Built on A2A&rpar;](https://dev.to/kadir_pekel_3277e6819e5b9/meet-hector-a-declarative-ai-agent-platform-in-go-40j2)
+- [The One Lesson I Wish I&#39;d Known 10 Years Ago to Become a Better Developer](https://dev.to/canro91/the-one-lesson-i-wish-id-known-10-years-ago-to-become-a-better-developer-5a8b)
+- [Using a Non-Deterministic System to Find Climate Patterns](https://dev.to/bcornils/using-a-non-deterministic-system-to-find-climate-patterns-4l43)
+- [One Dev, Infinite Agents: The Final Sprint](https://dev.to/p3ngu1nzz/one-dev-infinite-agents-the-final-sprint-2i2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
