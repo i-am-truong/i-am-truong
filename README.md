@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [All Data and AI Weekly #212: 20 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-212-20-oct-2025-3h6k)
 - [How I Use Claude Code on My Phone with Termux and Tailscale](https://dev.to/skeptrune/how-i-use-claude-code-on-my-phone-with-termux-and-tailscale-nge)
 - [Why Engine Mount Inspections Matter in Aviation](https://dev.to/acornwelding_ca_4fb63d76c/why-engine-mount-inspections-matter-in-aviation-37io)
 - [Automating Network Devices with NETCONF and YANG in Puppet Edge](https://dev.to/puppet/automating-network-devices-with-netconf-and-yang-in-puppet-edge-3f04)
 - [Why I’m Starting My Debt-Free Journey &lpar;While Learning to Code&rpar;](https://dev.to/gurpreet_d921f9fff6fa7442/why-im-starting-my-debt-free-journey-while-learning-to-code-2g6p)
-- [MemMamba: Rethinking Memory Patterns in State Space Model](https://dev.to/paperium/memmamba-rethinking-memory-patterns-in-state-space-model-2pe1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
