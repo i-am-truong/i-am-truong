@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When AWS us-east-1 Sneezes, the Internet Catches a Cold](https://dev.to/copubah/when-aws-us-east-1-sneezes-the-internet-catches-a-cold-1n68)
-- [🚀 Why Everyone Uses localhost:3000 - The History of Dev Ports &lpar;3000, 8000, 8080, 5173&rpar;](https://dev.to/safvantsy/why-everyone-uses-localhost3000-the-history-of-dev-ports-3000-8000-8080-5173-llg)
-- [Strategic PR for Startups: A No-Fluff Playbook to Earn Trust and Compound Growth](https://dev.to/sonia_bobrik_1939cdddd79d/strategic-pr-for-startups-a-no-fluff-playbook-to-earn-trust-and-compound-growth-1961)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-jib)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-3cf3)
+- [Open-Source Productivity Apps in 2025: A Careful Comparison](https://dev.to/johannesjo/open-source-productivity-apps-in-2025-a-careful-comparison-2hfe)
+- [Tips dan Trik Penamaan Kode Variabel, Fungsi, File, dan Folder yang Baik](https://dev.to/naandan/tips-dan-trik-penamaan-kode-variabel-fungsi-file-dan-folder-yang-baik-5cia)
+- [Why Most Developers Misunderstand Clean Architecture](https://dev.to/amirsaeed_skomjani/why-most-developers-misunderstand-clean-architecture-e5p)
+- [Top 3 No-Code Documentation Tools in 2025](https://dev.to/zeddd/top-3-no-code-documentation-tools-in-2025-31gk)
+- [NameMin – Free Domain Name Generator &lpar;Made by a Developer, for Developers&rpar;](https://dev.to/mudassar-shakeel/namemin-free-domain-name-generator-made-by-a-developer-for-developers-1gbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
