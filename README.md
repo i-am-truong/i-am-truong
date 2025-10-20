@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Shorebird Works: Breaking Down Flutter’s Over-the-Air Update Engine](https://dev.to/kiddo4lyf/how-shorebird-works-breaking-down-flutters-over-the-air-update-engine-4lc5)
+- [AIReview in Practice: Accelerating Code Reviews with AI](https://dev.to/wosledon/aireview-in-practice-accelerating-code-reviews-with-ai-30fc)
 - [One Dataset, Many Formats: DeepFabric&#39;s Approach to Training Format Flexibility](https://dev.to/lukehinds/one-dataset-many-formats-deepfabrics-approach-to-training-format-flexibility-m30)
 - [How to Track New Employee Equipment?](https://dev.to/teresa_tran/how-to-track-new-employee-equipment-5544)
 - [Week 3 – Adding a New API to the Public APIs Repository](https://dev.to/kkrishnan10/week-3-adding-a-new-api-to-the-public-apis-repository-11p)
-- [Take Control: The Best Cloud Storage Alternatives to Own Your Files](https://dev.to/matilda_smith_13e07f45833/take-control-the-best-cloud-storage-alternatives-to-own-your-files-1j78)
-- [Are Software Asset Management Tools Worth the Investment?](https://dev.to/jennifer_devsamurai/are-software-asset-management-tools-worth-the-investment-1fih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
