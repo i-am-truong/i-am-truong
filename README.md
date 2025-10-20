@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cache](https://dev.to/igor_grieder/cache-21mg)
+- [🧩 Busco equipo joven para crear un proyecto de software 💻](https://dev.to/lynadeveloper/busco-equipo-joven-para-crear-un-proyecto-de-software-2d5p)
 - [My First Data Engineering Project: Building a Real-Time IoT Pipeline on Azure](https://dev.to/humza_inam/my-first-data-engineering-project-building-a-real-time-iot-pipeline-on-azure-2kho)
 - [I am an AI Engineer](https://dev.to/snikidev/i-am-an-ai-engineer-1i95)
 - [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-ckl)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-mgp)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-42ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
