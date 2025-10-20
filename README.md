@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Linear to Systems Thinking: Solving Complex Tech Challenges](https://dev.to/danielphilipjohnson/from-linear-to-systems-thinking-solving-complex-tech-challenges-4nik)
+- [How to Use AI in Brand Journalism with Gemini to Transform Digital Information into Strategic Editorial Content?](https://dev.to/r_elena_mendez_escobar/how-to-use-ai-in-brand-journalism-with-gemini-to-transform-digital-information-into-strategic-4al3)
 - [Introducing GMSSH: AI-Powered Visual Server Ops – Ditch CLI for Desktop Magic via SSH](https://dev.to/gmssh_opstool/introducing-gmssh-ai-powered-visual-server-ops-ditch-cli-for-desktop-magic-via-ssh-44o4)
 - [Bytearray functions in Python &lpar;2&rpar;](https://dev.to/hyperkai/bytearray-functions-in-python-2-32kf)
 - [[Release] boundary.nvim – Visualize &#39;use client&#39; boundaries in your React code directly inside Neovim](https://dev.to/kenzowada/release-boundarynvim-visualize-use-client-boundaries-in-your-react-code-directly-inside-153e)
-- [Data Products: Build vs Buy](https://dev.to/audaciatechnology/data-products-build-vs-buy-1c39)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-49il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
