@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Transform: Automating Legacy Migration Using Agentic AI](https://dev.to/sudoconsultants/aws-transform-automating-legacy-migration-using-agentic-ai-2g9f)
-- [From Engineer to Developer: Building FEAScript for Browser-Based FEM](https://dev.to/nikoscham/from-engineer-to-developer-building-feascript-for-browser-based-fem-3cf6)
-- [Laravel Blade Partial API Pattern with HTMX](https://dev.to/raheelshan/laravel-blade-partial-api-pattern-with-htmx-3aj)
-- [How Attackers Are Using Blockchains to Hide Malware](https://dev.to/guardingpearsoftware/how-attackers-are-using-blockchains-to-hide-malware-47m3)
-- [The Future of Creation: Exploring the Power and Potential of the 3D Printer](https://dev.to/370/the-future-of-creation-exploring-the-power-and-potential-of-the-3d-printer-5g9e)
+- [Deploy a Next.js app to an Infomaniak Ubuntu VPS](https://dev.to/julienbrg/deploy-a-nextjs-app-to-an-infomaniak-ubuntu-vps-2nod)
+- [Application Security with AI SAST: How AI SAST is making the Future Proactive](https://dev.to/clouddefenseai/application-security-with-ai-sast-how-ai-sast-is-making-the-future-proactive-a2b)
+- [DevCaliber: Redefining Technical Hiring with Auth0 Authenticated AI Agents and Verified GitHub Talent](https://dev.to/divyasinghdev/devcaliber-redefining-technical-hiring-with-auth0-authenticated-ai-agents-and-verified-github-39p7)
+- [Turn Google Docs Into an AI Agent Hub: Integrate ADK Agents in Google Workspace](https://dev.to/aryanirani123/turn-google-docs-into-an-ai-agent-hub-integrate-adk-agents-in-google-workspace-4l6e)
+- [Agentic Workflows inside Google Workspace: Build a Google Docs Agent with ADK](https://dev.to/aryanirani123/agentic-workflows-inside-google-workspace-build-a-google-docs-agent-with-adk-56dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
