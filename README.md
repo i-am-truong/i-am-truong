@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #212: 20 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-212-20-oct-2025-3h6k)
-- [How I Use Claude Code on My Phone with Termux and Tailscale](https://dev.to/skeptrune/how-i-use-claude-code-on-my-phone-with-termux-and-tailscale-nge)
-- [Why Engine Mount Inspections Matter in Aviation](https://dev.to/acornwelding_ca_4fb63d76c/why-engine-mount-inspections-matter-in-aviation-37io)
-- [Automating Network Devices with NETCONF and YANG in Puppet Edge](https://dev.to/puppet/automating-network-devices-with-netconf-and-yang-in-puppet-edge-3f04)
-- [Why I’m Starting My Debt-Free Journey &lpar;While Learning to Code&rpar;](https://dev.to/gurpreet_d921f9fff6fa7442/why-im-starting-my-debt-free-journey-while-learning-to-code-2g6p)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3fll)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-16ah)
+- [COLORS: UMI - 10AM | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-10am-a-colors-show-e25)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-40m4)
+- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-3fca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
