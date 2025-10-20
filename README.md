@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Building a CRUD API with Express, TypeScript, and Mongoose](https://dev.to/justwonder/a-beginners-guide-to-building-a-crud-api-with-express-typescript-and-mongoose-2np0)
+- [Understanding Vectors and Vector Search: How Vector Search Understands What You Really Mean](https://dev.to/kalio/understanding-vectors-and-vector-search-how-vector-search-understands-what-you-really-mean-19dk)
+- [What is a PDF Form?](https://dev.to/idrsolutions/what-is-a-pdf-form-2pbe)
 - [Each agent gets a partial view of the state](https://dev.to/rikinptl/each-agent-gets-a-partial-view-of-the-state-3i04)
 - [CI/CD Pipelines: Automating Your Development Workflow](https://dev.to/th33k/cicd-pipelines-automating-your-development-workflow-59no)
-- [Relational vs Non-Relational Databases: Choosing the Right One for Your Dream Project 🚀](https://dev.to/hamidrazadev/relational-vs-non-relational-databases-choosing-the-right-one-for-your-dream-project-3a94)
-- [How to Use Data-Driven Marketing to Scale Your SaaS Business](https://dev.to/alex_swift1234/how-to-use-data-driven-marketing-to-scale-your-saas-business-2k20)
-- [Automating React App Deployment to GitHub Pages using GitHub Actions](https://dev.to/allename_dev/automating-react-app-deployment-to-github-pages-using-github-actions-103b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
