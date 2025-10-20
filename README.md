@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating and Deploying a Custom Docker Image with Azure Container Registry and Azure Container Instances](https://dev.to/theodora_e6f61d02577a5f06/creating-and-deploying-a-custom-docker-image-with-azure-container-registry-and-azure-container-3d80)
-- [Meetup: Refactor Like a Pro: Clean Code Meets DDD](https://dev.to/getjv/meetup-refactor-like-a-pro-clean-code-meets-ddd-5fkn)
-- [Testing](https://dev.to/processoverprofit/testing-3m34)
-- [Proving ROI with Data-Driven AI Agent Experiments](https://dev.to/launchdarkly/proving-roi-with-data-driven-ai-agent-experiments-76b)
-- [OpenAI dévoile les Prompt Packs : plus de 300 prompts pour booster votre productivité avec ChatGPT](https://dev.to/babi_mumba_e6269fe8949856/openai-devoile-les-prompt-packs-plus-de-300-prompts-pour-booster-votre-productivite-avec-chatgpt-4p5i)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-5h32)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-997)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-2e8c)
+- [[Boost]](https://dev.to/shinomontaz/-25de)
+- [🌍 From Campus to Community: My Unexpected Journey into Tech Leadership](https://dev.to/pavan_kumarmukkera_527ab/from-campus-to-community-my-unexpected-journey-into-tech-leadership-4g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
