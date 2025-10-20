@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Python Module Three Part One: Control Flow](https://dev.to/theoriginalbpc/introduction-to-python-module-three-part-one-control-flow-52pj)
+- [iFlow CLI](https://dev.to/with_attitude/iflow-cli-232i)
+- [Welcome to My post](https://dev.to/kuldeep_kuldeep/welcome-to-my-post-1f2c)
 - [Docker for Content Pipelines: A Pragmatic Playbook for Small Teams](https://dev.to/sonia_bobrik_1939cdddd79d/docker-for-content-pipelines-a-pragmatic-playbook-for-small-teams-1ma9)
 - [Open Source Has Limits: The Case of Contributor License Agreements &lpar;CLAs&rpar;](https://dev.to/fedtti/open-source-has-limits-the-case-of-contributor-license-agreements-clas-565d)
-- [Build a Personal Operating System for Work &lpar;That Survives Real Life&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/build-a-personal-operating-system-for-work-that-survives-real-life-5fmo)
-- [Paper, Pixels, and the Hybrid Office: Building a Smarter Document Stack in 2025](https://dev.to/sonia_bobrik_1939cdddd79d/paper-pixels-and-the-hybrid-office-building-a-smarter-document-stack-in-2025-406o)
-- [When Every Word Matters: A Practical Guide to Crisis Communication for Public Institutions](https://dev.to/sonia_bobrik_1939cdddd79d/when-every-word-matters-a-practical-guide-to-crisis-communication-for-public-institutions-1fa1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
