@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python Module Three Part One: Control Flow](https://dev.to/theoriginalbpc/introduction-to-python-module-three-part-one-control-flow-52pj)
-- [iFlow CLI](https://dev.to/with_attitude/iflow-cli-232i)
-- [Welcome to My post](https://dev.to/kuldeep_kuldeep/welcome-to-my-post-1f2c)
-- [Docker for Content Pipelines: A Pragmatic Playbook for Small Teams](https://dev.to/sonia_bobrik_1939cdddd79d/docker-for-content-pipelines-a-pragmatic-playbook-for-small-teams-1ma9)
-- [Open Source Has Limits: The Case of Contributor License Agreements &lpar;CLAs&rpar;](https://dev.to/fedtti/open-source-has-limits-the-case-of-contributor-license-agreements-clas-565d)
+- [How Compression Works on the Web with Gzip and Brotli](https://dev.to/rijultp/how-compression-works-on-the-web-with-gzip-and-brotli-4nn0)
+- [🚀 New AWS Certification Incoming: AWS Certified Generative AI Developer – Professional &lpar;BETA launches November 18th&rpar;](https://dev.to/matisantoro/new-aws-certification-incoming-aws-certified-generative-ai-developer-professional-beta-4h)
+- [From Data to Physics: Building the GNSS Measurement Engine](https://dev.to/pederzoli/from-data-to-physics-building-the-gnss-measurement-engine-2en4)
+- [The Great AWS Outage of October 2025: When the Internet&#39;s Backbone Buckled](https://dev.to/1geek/the-great-aws-outage-of-october-2025-when-the-internets-backbone-buckled-207n)
+- [👋 Hey devs!](https://dev.to/msbala007/hey-devs-3h2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
