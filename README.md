@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[MATERIAL]- Taller Manos a la obra con git y github](https://dev.to/doncarmone/material-taller-manos-a-la-obra-con-git-y-github-4hfj)
-- [Longest amount of time on any project?](https://dev.to/raddevus/longest-amount-of-time-on-any-project-420c)
-- [Cache](https://dev.to/igor_grieder/cache-21mg)
-- [Orientation Under Pressure: Notes on a Life Lived](https://dev.to/pseller4991/orientation-under-pressure-notes-on-a-life-lived-o46)
-- [🧩 Busco equipo joven para crear un proyecto de software 💻](https://dev.to/lynadeveloper/busco-equipo-joven-para-crear-un-proyecto-de-software-2d5p)
+- [The Illusions of Quality — Episode 9: 🔨 The Toolsmith, Not the Tool: A Tester&#39;s Role in Modern DevOps](https://dev.to/abdulosman/the-illusions-of-quality-episode-9-the-toolsmith-not-the-tool-a-testers-role-in-3fc8)
+- [React Query, Part 1 — The Mental Model &lpar;with running JS examples&rpar;](https://dev.to/picciniuscodes/react-query-part-1-the-mental-model-with-running-js-examples-32e2)
+- [Learning Azure Networking Through Code: My Spring Boot + Terraform Journey](https://dev.to/humza_inam/learning-azure-networking-through-code-my-spring-boot-terraform-journey-4kij)
+- [Smart AI Agent Targeting with MCP Tools](https://dev.to/launchdarkly/smart-ai-agent-targeting-with-mcp-tools-hdn)
+- [Why Converting Design Files Improves Workflow and Collaboration](https://dev.to/sky_rankers_9d6515d5aa32d/why-converting-design-files-improves-workflow-and-collaboration-1c3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
