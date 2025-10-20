@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Event Loop](https://dev.to/whataboutcoding/event-loop-1ppp)
+- [Meta’s Early Experience Trains AI Without Rewards—and Outsmarts Imitation Learning](https://dev.to/aiwithapex/metas-early-experience-trains-ai-without-rewards-and-outsmarts-imitation-learning-2f5l)
 - [HashCodex — Building a Distributed, Secure Code Execution Platform Like LeetCode](https://dev.to/shahrohit/hashcodex-building-a-distributed-secure-code-execution-platform-like-leetcode-2gpp)
 - [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3582)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-58o3)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-m45)
 - [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-298j)
 <!-- BLOG-POST-LIST:END -->
 
