@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Ways to Tame GitHub Action Workflows](https://dev.to/jlarky/modern-ways-to-tame-github-action-workflows-4006)
+- [Discriminated unions in C#](https://dev.to/ivansphoto/discriminated-unions-in-c-2gn2)
+- [Understanding Constructors in Java](https://dev.to/masteringbackend/understanding-constructors-in-java-4p1g)
+- [The Final Showdown: Choosing the Right Rendering Strategy Without Losing Your Mind](https://dev.to/lucasbrdt268/the-final-showdown-choosing-the-right-rendering-strategy-without-losing-your-mind-15i9)
 - [The Composition Workshop: Building with &quot;Has-A&quot; Relationships](https://dev.to/aaron_rose_0787cc8b4775a0/the-composition-workshop-building-with-has-a-relationships-3iah)
-- [**Unlocking Efficiency: AI-Powered Predictive Maintenance at](https://dev.to/drcarlosruizviquez/unlocking-efficiency-ai-powered-predictive-maintenance-at-2535)
-- [**Approach Showdown: Modular vs](https://dev.to/drcarlosruizviquez/approach-showdown-modular-vs-19ao)
-- [The prospect of AI-powered cybersecurity systems combating i](https://dev.to/drcarlosruizviquez/the-prospect-of-ai-powered-cybersecurity-systems-combating-i-719)
-- [**Unlock the Power of Customized Text Generation with T5X**](https://dev.to/drcarlosruizviquez/unlock-the-power-of-customized-text-generation-with-t5x-485i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
