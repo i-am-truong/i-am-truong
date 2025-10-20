@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Doesn’t My API Call Wait? — Understanding Promises &amp; Async/Await in JavaScript](https://dev.to/saurav_dev_2022/why-doesnt-my-api-call-wait-understanding-promises-asyncawait-in-javascript-24kf)
+- [Learning CSS feels like learning magic ✨](https://dev.to/surya_13/learning-css-feels-like-learning-magic-4ji2)
 - [ServeSense — Windows SFTP/FTPS/FTP Server with Least-Privilege Setup &lpar;No Admin Needed&rpar;](https://dev.to/ngtduc693/servesense-windows-sftpftpsftp-server-with-least-privilege-setup-no-admin-needed-6k)
+- [AI Absolution: Are Companies Using Automation as a Cop-Out?](https://dev.to/mabualzait/ai-absolution-are-companies-using-automation-as-a-cop-out-fil)
 - [Meet Hector: A Declarative AI Agent Platform in Go &lpar;Built on A2A&rpar;](https://dev.to/kadir_pekel_3277e6819e5b9/meet-hector-a-declarative-ai-agent-platform-in-go-40j2)
-- [The One Lesson I Wish I&#39;d Known 10 Years Ago to Become a Better Developer](https://dev.to/canro91/the-one-lesson-i-wish-id-known-10-years-ago-to-become-a-better-developer-5a8b)
-- [Using a Non-Deterministic System to Find Climate Patterns](https://dev.to/bcornils/using-a-non-deterministic-system-to-find-climate-patterns-4l43)
-- [One Dev, Infinite Agents: The Final Sprint](https://dev.to/p3ngu1nzz/one-dev-infinite-agents-the-final-sprint-2i2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
