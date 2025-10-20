@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Shorebird Works: Breaking Down Flutter’s Over-the-Air Update Engine](https://dev.to/kiddo4lyf/how-shorebird-works-breaking-down-flutters-over-the-air-update-engine-4lc5)
-- [AIReview in Practice: Accelerating Code Reviews with AI](https://dev.to/wosledon/aireview-in-practice-accelerating-code-reviews-with-ai-30fc)
-- [One Dataset, Many Formats: DeepFabric&#39;s Approach to Training Format Flexibility](https://dev.to/lukehinds/one-dataset-many-formats-deepfabrics-approach-to-training-format-flexibility-m30)
-- [How to Track New Employee Equipment?](https://dev.to/teresa_tran/how-to-track-new-employee-equipment-5544)
-- [Week 3 – Adding a New API to the Public APIs Repository](https://dev.to/kkrishnan10/week-3-adding-a-new-api-to-the-public-apis-repository-11p)
+- [Understanding Debounce and Throttle in JavaScript &lpar;Beginner’s Guide to Performance Optimization&rpar;](https://dev.to/wisdomudo/understanding-debounce-and-throttle-in-javascript-beginners-guide-to-performance-optimization-4cjf)
+- [[Boost]](https://dev.to/hadil/-37fi)
+- [connect-two-laptop](https://dev.to/irshad_alam_4416767d67e74/connect-two-laptop-1fng)
+- [Tuya SDK App Migration Guide 2025: How to Move from Tuya OEM App to a Custom SDK App](https://dev.to/zediot/tuya-sdk-app-migration-guide-2025-how-to-move-from-tuya-oem-app-to-a-custom-sdk-app-16jp)
+- [Building a real-time sports data pipeline with AWS Fargate and AppSync](https://dev.to/dobeerman/building-a-real-time-sports-data-pipeline-with-aws-fargate-and-appsync-4hee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
