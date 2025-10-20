@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Basic Chunks: Supercharge Your RAG with Docling and OpenSearch](https://dev.to/aairom/beyond-basic-chunks-supercharge-your-rag-with-docling-and-opensearch-294b)
+- [🧠 RAG &lpar;Retrieval-Augmented Generation&rpar;: The Secret Sauce Behind Smarter AI](https://dev.to/charan_gutti_cf60c6185074/rag-retrieval-augmented-generation-the-secret-sauce-behind-smarter-ai-4gdb)
+- [Merging Minds: Mastering Joins and Data Blending in Tableau](https://dev.to/dipti_m_2e7ba36c478d1a48a/merging-minds-mastering-joins-and-data-blending-in-tableau-5gd1)
+- [🌐 The Future of Trustless On-Chain Agents Is Taking Shape](https://dev.to/adityasingh2824/the-future-of-trustless-on-chain-agents-is-taking-shape-2ipa)
 - [Ditch the Clutter: Instantly Copy Any Webpage as Clean Markdown with cpdown](https://dev.to/githubopensource/ditch-the-clutter-instantly-copy-any-webpage-as-clean-markdown-with-cpdown-3oaf)
-- [从Hyperliquid获取交易数据，计算Sharpe 和 Profit Factor](https://dev.to/dragon72463399/cong-hyperliquidhuo-qu-jiao-yi-shu-ju-ji-suan-sharpe-he-profit-factor-3f3m)
-- [Building a Dynamic Profile API with FastAPI: My HNG Stage 0 Experience](https://dev.to/afeh/building-a-dynamic-profile-api-with-fastapi-my-hng-stage-0-experience-4an4)
-- [🐝 Why Hive Exists - And Why Its Complexity Is Actually Necessary](https://dev.to/mohhddhassan/why-hive-exists-and-why-its-complexity-is-actually-necessary-n92)
-- [[Boost]](https://dev.to/devall/-5695)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
