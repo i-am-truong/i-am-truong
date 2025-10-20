@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Firebase Firestore vs. Data Connect: Unlocking Your Data&#39;s Full Potential](https://dev.to/codingcatdev/firebase-firestore-vs-data-connect-unlocking-your-datas-full-potential-1kf)
-- [My First RESTful API: A Beginner&#39;s Journey](https://dev.to/victorion0/my-first-restful-api-a-beginners-journey-cbo)
-- [Visit Rwanda — A Beautiful Travel Companion App Built with React Native](https://dev.to/revis047/visit-rwanda-a-beautiful-travel-companion-app-built-with-react-native-428b)
-- [Why Building an Alumni Network Is the Smartest Move for Modern Companies](https://dev.to/rejoice_shalomagtagma_1c/why-building-an-alumni-network-is-the-smartest-move-for-modern-companies-5079)
-- [Build Your Own Forum with FastAPI: Step 2 - Integrating Database](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-2-integrating-database-2h9c)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-51g2)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-3i6c)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1104)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-8cf)
+- [The Next Frontier in AI: Decentralized Compute Marketplaces for Agentic, Spec-Driven Systems](https://dev.to/p3ngu1nzz/the-next-frontier-in-ai-decentralized-compute-marketplaces-for-agentic-spec-driven-systems-58pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
