@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The prospect of AI-powered cybersecurity systems combating i](https://dev.to/drcarlosruizviquez/the-prospect-of-ai-powered-cybersecurity-systems-combating-i-719)
+- [**Unlock the Power of Customized Text Generation with T5X**](https://dev.to/drcarlosruizviquez/unlock-the-power-of-customized-text-generation-with-t5x-485i)
 - [Get ready for liftoff! 🚀 Researchers have developed a ground](https://dev.to/drcarlosruizviquez/get-ready-for-liftoff-researchers-have-developed-a-ground-l09)
 - [My Python Toolbox — The Secret to No Overtime](https://dev.to/lamri_abdellahramdane_15/my-python-toolbox-the-secret-to-no-overtime-71i)
 - [132 Lines of Python That Give Birth to a Mathematical Hyper-Monster](https://dev.to/artur_homoastricus_f05461/132-lines-of-python-that-give-birth-to-a-mathematical-hyper-monster-366a)
-- [🚀 AI-Powered Development &amp; Automation: How AI Is Transforming the Dev Workflow](https://dev.to/softwaredeveloper01/ai-powered-development-automation-how-ai-is-transforming-the-dev-workflow-49hn)
-- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-15f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
