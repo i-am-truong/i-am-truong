@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Kokoroko: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-kokoroko-tiny-desk-concert-2fgh)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-4741)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-knp)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-fho)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-4jjd)
+- [How to Speed Up AWS CodeBuild Docker Builds by 25% or more Using ECR as a Remote Cache](https://dev.to/aws-builders/how-to-speed-up-aws-codebuild-docker-builds-by-25-or-more-using-ecr-as-a-remote-cache-1a8m)
+- [Turning Pandas Dataframes into Hypercubes, Meet Cube Alchemy](https://dev.to/juandelmonte/turning-pandas-dataframes-into-hypercubes-meet-cube-alchemy-hcj)
+- [🧱 Lesson 2A— Creating the base solution, API project, folder structure, dependency injection, environment configuration.](https://dev.to/farrukh_rehman/lesson-2a-creating-the-base-solution-api-project-folder-structure-dependency-injection-3b2g)
+- [What are your goals for the week? #149](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-149-3k8c)
+- [🧱 Lesson 1— Deep Dive into Architecture Diagrams: Clean Architecture, Layered Design, and Separation of Concerns for Scalability](https://dev.to/farrukh_rehman/lesson-1-deep-dive-into-architecture-diagrams-clean-architecture-layered-design-and-2hp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
