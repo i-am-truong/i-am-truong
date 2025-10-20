@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Messy Docs to Testing Harmony: How Modern API Tools Bridge the Dev Collaboration Gap](https://dev.to/eleanor_fairfax_5ce95399d/from-messy-docs-to-testing-harmony-how-modern-api-tools-bridge-the-dev-collaboration-gap-33ee)
-- [Power Automate - The 5 Power Actions](https://dev.to/wyattdave/power-automate-the-5-power-actions-12lm)
-- [Mastering Data Cleanup: Unleash the Power of OpenRefine](https://dev.to/saptarshisarkar/mastering-data-cleanup-unleash-the-power-of-openrefine-gpj)
-- [The Little Prince’s Guide to Conec: Tiny Links, Big Magic ✨](https://dev.to/ersajay/the-little-princes-guide-to-conec-tiny-links-big-magic-27k)
-- [This story on Joshua Lintz is eye opening. Talentcrowd’s success is built on stolen contracts and manipulation.](https://dev.to/francisco_pana_8a21c947b7/this-story-on-joshua-lintz-is-eye-opening-talentcrowds-success-is-built-on-stolen-contracts-and-2jea)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-49il)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-4f8l)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3k3d)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4o55)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-cn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
