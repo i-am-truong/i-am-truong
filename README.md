@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Perl 🐪 Weekly #743 - Writing Perl with LLMs](https://dev.to/szabgab/perl-weekly-743-writing-perl-with-llms-3d7o)
+- [Fundamentals of Document Databases](https://dev.to/danielphilipjohnson/fundamentals-of-document-databases-41dk)
+- [Manage Multiple Terraform Versions with tfswitch](https://dev.to/sahithi_v_ea2d0f17149bf0a/manage-multiple-terraform-versions-with-tfswitch-339n)
 - [From Linear to Systems Thinking: Solving Complex Tech Challenges](https://dev.to/danielphilipjohnson/from-linear-to-systems-thinking-solving-complex-tech-challenges-4nik)
-- [How to Use AI in Brand Journalism with Gemini to Transform Digital Information into Strategic Editorial Content?](https://dev.to/r_elena_mendez_escobar/how-to-use-ai-in-brand-journalism-with-gemini-to-transform-digital-information-into-strategic-4al3)
-- [Introducing GMSSH: AI-Powered Visual Server Ops – Ditch CLI for Desktop Magic via SSH](https://dev.to/gmssh_opstool/introducing-gmssh-ai-powered-visual-server-ops-ditch-cli-for-desktop-magic-via-ssh-44o4)
-- [Bytearray functions in Python &lpar;2&rpar;](https://dev.to/hyperkai/bytearray-functions-in-python-2-32kf)
-- [[Release] boundary.nvim – Visualize &#39;use client&#39; boundaries in your React code directly inside Neovim](https://dev.to/kenzowada/release-boundarynvim-visualize-use-client-boundaries-in-your-react-code-directly-inside-153e)
+- [Cooking Without Burning: My DevOps Doings in the Past Few Years](https://dev.to/aws-builders/cooking-without-burning-my-devops-doings-in-the-past-few-years-34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
