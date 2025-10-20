@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-53p2)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1jnm)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-n2p)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1jcn)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-cco)
+- [One Dataset, Many Formats: DeepFabric&#39;s Approach to Training Format Flexibility](https://dev.to/lukehinds/one-dataset-many-formats-deepfabrics-approach-to-training-format-flexibility-m30)
+- [How to Track New Employee Equipment?](https://dev.to/teresa_tran/how-to-track-new-employee-equipment-5544)
+- [Week 3 – Adding a New API to the Public APIs Repository](https://dev.to/kkrishnan10/week-3-adding-a-new-api-to-the-public-apis-repository-11p)
+- [Take Control: The Best Cloud Storage Alternatives to Own Your Files](https://dev.to/matilda_smith_13e07f45833/take-control-the-best-cloud-storage-alternatives-to-own-your-files-1j78)
+- [Are Software Asset Management Tools Worth the Investment?](https://dev.to/jennifer_devsamurai/are-software-asset-management-tools-worth-the-investment-1fih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
