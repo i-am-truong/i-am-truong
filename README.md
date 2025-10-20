@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #743 - Writing Perl with LLMs](https://dev.to/szabgab/perl-weekly-743-writing-perl-with-llms-3d7o)
-- [Fundamentals of Document Databases](https://dev.to/danielphilipjohnson/fundamentals-of-document-databases-41dk)
-- [Manage Multiple Terraform Versions with tfswitch](https://dev.to/sahithi_v_ea2d0f17149bf0a/manage-multiple-terraform-versions-with-tfswitch-339n)
-- [From Linear to Systems Thinking: Solving Complex Tech Challenges](https://dev.to/danielphilipjohnson/from-linear-to-systems-thinking-solving-complex-tech-challenges-4nik)
-- [Cooking Without Burning: My DevOps Doings in the Past Few Years](https://dev.to/aws-builders/cooking-without-burning-my-devops-doings-in-the-past-few-years-34)
+- [Each agent gets a partial view of the state](https://dev.to/rikinptl/each-agent-gets-a-partial-view-of-the-state-3i04)
+- [The root causes of uncertainty in large language model &lpar;LLM&rpar; reasoning](https://dev.to/monica_nilo_f052146621536/the-root-causes-of-uncertainty-in-large-language-model-llm-reasoning-2mj6)
+- [Automating React App Deployment to GitHub Pages using GitHub Actions](https://dev.to/allename_dev/automating-react-app-deployment-to-github-pages-using-github-actions-103b)
+- [100 Days of DevOps: Day 73](https://dev.to/wycliffealphus/100-days-of-devops-day-73-2o7i)
+- [Transforming Ceramic Manufacturing: A Case Study in Automation and Efficiency](https://dev.to/victor-lang/transforming-ceramic-manufacturing-a-case-study-in-automation-and-efficiency-17n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
