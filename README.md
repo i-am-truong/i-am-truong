@@ -120,17 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Strategy&#39;s Bitcoin Signals: NJTRX Technical Analysis of Corporate Accumulation Patterns](https://dev.to/njtrx/decoding-strategys-bitcoin-signals-njtrx-technical-analysis-of-corporate-accumulation-patterns-1db)
-- [Integration Debt is Not Technical Debt: A 5-Pillar Framework to Quantify Architectural Risk](https://dev.to/webmethodman/integration-debt-is-not-technical-debt-a-5-pillar-framework-to-quantify-architectural-risk-9h0)
-- [05. Mengenal Fungsi Dasar Interaksi dan Struktur Antarmuka di React Native](https://dev.to/sandatya_widhi_ce7cb1c809/05-mengenal-fungsi-dasar-interaksi-dan-struktur-antarmuka-di-react-native-12dk)
-- [gRPC vs. REST: A Comprehensive Technical Guide to Performance and Implementation in High-Complexity Java Environments](https://dev.to/yara_oliveira_8d416fa3ea9/grpc-vs-rest-a-comprehensive-technical-guide-to-performance-and-implementation-in-high-complexity-947)
-- [Every time I speak with developers, freelancers, or tech professionals, I hear the same concern:
-
-“Will AI take my job?”
-
-The real shift isn&#39;t AI vs Humans: it’s AI-empowered humans vs humans who refuse to adapt.
-
-Let’s break this down clearly.](https://dev.to/jaideepparashar/every-time-i-speak-with-developers-freelancers-or-tech-professionals-i-hear-the-same-concern-23j7)
+- [HashCodex — Building a Distributed, Secure Code Execution Platform Like LeetCode](https://dev.to/shahrohit/hashcodex-building-a-distributed-secure-code-execution-platform-like-leetcode-2gpp)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3582)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-58o3)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-m45)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-298j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
