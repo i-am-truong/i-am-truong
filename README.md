@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Complex Business Concepts Simple with AI Whiteboard for EMBA Courses](https://dev.to/ishmam_jahan_4269b6f13ba5/making-complex-business-concepts-simple-with-ai-whiteboard-for-emba-courses-3g7o)
 - [[Boost]](https://dev.to/hadil/-3poi)
 - [Is Excel Still Relevant in the Era of Power BI and Python?](https://dev.to/ed_njeru_1858edde63d4c81e/is-excel-still-relevant-in-the-era-of-power-bi-and-python-cn7)
 - [Can You Automate Threat Response Without Losing Control?](https://dev.to/terminaltools/can-you-automate-threat-response-without-losing-control-31ao)
 - [Understanding and Addressing Self-Harm in Adolescents](https://dev.to/_2c78f2211e58fb9c5f4cf/understanding-and-addressing-self-harm-in-adolescents-4emn)
-- [Node.js v22.21.0 is Out — What&#39;s New and How to Apply It.](https://dev.to/code_2/nodejs-v22210-is-out-whats-new-and-how-to-apply-it-521k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
