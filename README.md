@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Tackle Numpy Matrix Operations in 2025?](https://dev.to/rociogarciavf/how-to-tackle-numpy-matrix-operations-in-2025-35g6)
+- [Common Naming Case Types](https://dev.to/michael-gokey/common-naming-case-types-14bo)
 - [A Straightforward Guide for B+Trees](https://dev.to/eyochen/a-straightforward-guide-for-btrees-33h9)
 - [Feedback wanted for VDI open source project](https://dev.to/andres_b_26dabd6ea99769a/feedback-wanted-for-vdi-open-source-project-39jc)
 - [How to Land Your First Software Engineering Job in the USA](https://dev.to/abhishekdesikan/how-to-land-your-first-software-engineering-job-in-the-usa-3nln)
-- [🐸⚔️ [Release] Kaeru Hero: Episode 1 — dark procedural platformer now live](https://dev.to/regodefies/release-kaeru-hero-episode-1-dark-procedural-platformer-now-live-5hje)
-- [Power Patterns: Where Capability Composition Shines](https://dev.to/bwi/power-patterns-where-capability-composition-shines-5671)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
