@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como Usar Meta Campos &lpar;Metafields&rpar; no Shopify para Turbinar suas Páginas de Produto. Guia Definitivo](https://dev.to/rogeriorioli/como-usar-meta-campos-metafields-no-shopify-para-turbinar-suas-paginas-de-produto-guia-4mcd)
+- [I Built a Privacy-First Diff Checker Chrome Extension – Here&#39;s What I Learned published](https://dev.to/trustfish/i-built-a-privacy-first-diff-checker-chrome-extension-heres-what-i-learned-published-1odh)
 - [Create Deal Card via the Gmail API](https://dev.to/googleworkspace/create-deal-card-via-the-gmail-api-4af5)
 - [From Concept Art to Shipping Product: A Practical Pipeline for Builders in 2025](https://dev.to/sonia_bobrik_1939cdddd79d/from-concept-art-to-shipping-product-a-practical-pipeline-for-builders-in-2025-1ogl)
 - [Building AI GPU Systems in 2025: A Developer’s Field Manual](https://dev.to/sonia_bobrik_1939cdddd79d/building-ai-gpu-systems-in-2025-a-developers-field-manual-26me)
-- [How I Built an AI Product Recommendation App in React Native Using Google Gemini](https://dev.to/kiran_kumar_bd5897c125e94/how-i-built-an-ai-product-recommendation-app-in-react-native-using-google-gemini-4cbb)
-- [Fine-Tuning with GRPO Datasets: A Developer&#39;s Guide to DeepFabric&#39;s GRPO Formatter](https://dev.to/lukehinds/fine-tuning-with-grpo-datasets-a-developers-guide-to-deepfabrics-grpo-formatter-245h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
