@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Impostor Syndrome to Mentorship: How “WHAT” Shaped My Growth as an Engineer](https://dev.to/jack0lantern/from-impostor-syndrome-to-mentorship-how-what-shaped-my-growth-as-an-engineer-1kak)
-- [A Day in My C++ Learning Journey: My First Mini Project is Stone, Paper, Scissor Game](https://dev.to/moalialamoudi/a-day-in-my-c-learning-journey-my-first-mini-project-is-stone-paper-scissor-game-1alb)
-- [AWS Lambda + Secrets Manager](https://dev.to/eudu4rdo/aws-lambda-secrets-manager-2o6f)
-- [Coding Challenge Practice - Question 32](https://dev.to/tomivan/coding-challenge-practice-question-32-4k85)
-- [How We Achieved 40% Gas Savings with Formal Verification and Merkle Proofs](https://dev.to/chronosvault/how-we-achieved-40-gas-savings-with-formal-verification-and-merkle-proofs-127c)
+- [Building My First ML Data Pipeline: Three Days, One Deployed Dashboard, and a Lesson About Letting Data Drive Business Questions](https://dev.to/dave_bean/building-my-first-ml-data-pipeline-three-days-one-deployed-dashboard-and-a-lesson-about-letting-2dif)
+- [Implementing Dark Mode in a React App](https://dev.to/samanthalaine/implementing-dark-mode-in-a-react-app-3k1a)
+- [An Exploration of the Commercial Iceberg Catalog Ecosystem](https://dev.to/alexmercedcoder/an-exploration-of-the-commercial-iceberg-catalog-ecosystem-4a1i)
+- [Simply Order &lpar;Part 5&rpar; — Hands-On: Building the Outbox Pattern for Reliable Event](https://dev.to/hassan314159/simply-order-part-5-hands-on-building-the-outbox-pattern-for-reliable-event-60n)
+- [Automata Alchemists: Transmuting Reinforcement Learning into State Machines by Arvind Sundararajan](https://dev.to/arvind_sundararajan/automata-alchemists-transmuting-reinforcement-learning-into-state-machines-by-arvind-sundararajan-4pjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
