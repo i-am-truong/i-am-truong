@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CanKit early preview: capability discovery, a ready-to-run CAN demo](https://dev.to/pkuyo/cankit-early-preview-capability-discovery-a-ready-to-run-can-demo-285k)
-- [ZOTmusic](https://dev.to/nizix/zotmusic-lnm)
-- [Run Jupyter Notebook on Android with Termux – Full Setup Guide](https://dev.to/akshay_934ed5e8ed8d13d653/run-jupyter-notebook-on-android-with-termux-full-setup-guide-55b5)
-- [Embodied AI in Action: From Seeing to Imagining to Doing](https://dev.to/esdk/embodied-ai-in-action-from-seeing-to-imagining-to-doing-4i50)
-- [AWS Glue for ETL](https://dev.to/godofgeeks/aws-glue-for-etl-41kf)
+- [Understanding and Addressing Self-Harm in Adolescents](https://dev.to/_2c78f2211e58fb9c5f4cf/understanding-and-addressing-self-harm-in-adolescents-34e2)
+- [Throwing The TEE Gauntlet - A Turnabout Security Challenge](https://dev.to/dc600/throwing-the-tee-gauntlet-a-turnabout-security-challenge-41jf)
+- [Chrome DevTools MCP Server Guide](https://dev.to/this-is-angular/chrome-devtools-mcp-server-guide-24fa)
+- [Clean Architecture approach in the frontend, a practical example](https://dev.to/rangulo27/clean-architecture-approach-in-the-frontend-a-practical-example-5ih)
+- [Full-Stack Development Roadmap from Zero to Hero](https://dev.to/oyetech3/full-stack-development-roadmap-from-zero-to-hero-466b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
