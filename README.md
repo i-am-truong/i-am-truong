@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Leveling Up with Supabase RPC — My “Sell Honey” Transaction Journey](https://dev.to/workfromhome130/leveling-up-with-supabase-rpc-my-sell-honey-transaction-journey-24l0)
+- [Methods and Functions in Java](https://dev.to/masteringbackend/methods-and-functions-in-java-5fo9)
+- [It&#39;s Okay If Your Biggest Hobby Isn&#39;t Coding](https://dev.to/_boweii/its-okay-if-your-biggest-hobby-isnt-coding-4bk2)
 - [Crea tu propio chat con Claude en AWS Bedrock usando AWS CDK &lpar;guía paso a paso para principiantes&rpar;](https://dev.to/chainiz/crea-tu-propio-chat-con-claude-en-aws-bedrock-usando-aws-cdk-guia-paso-a-paso-para-principiantes-20ag)
 - [Understanding Model Evaluation in Lead Scoring: A Practical Walkthrough](https://dev.to/techkene/understanding-model-evaluation-in-lead-scoring-a-practical-walkthrough-14lm)
-- [The Proxy Pattern: A Masterpiece of Control and Illusion in Node.js](https://dev.to/alex_aslam/the-proxy-pattern-a-masterpiece-of-control-and-illusion-in-nodejs-6dg)
-- [Spooky CSS Scene](https://dev.to/alexandermelde/spooky-css-scene-2maf)
-- [Building My First ML Data Pipeline](https://dev.to/dave_bean/building-my-first-ml-data-pipeline-three-days-one-deployed-dashboard-and-a-lesson-about-letting-2dif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
