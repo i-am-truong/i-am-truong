@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-243d)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-27ef)
-- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-5efe)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2jh3)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-55lp)
+- [Git Bits: Symbols](https://dev.to/oculus42/git-bits-symbols-15ck)
+- [Deploying Containerized Application on AWS LightSail with OpenRouter Integration](https://dev.to/ibshafique/deploying-containerized-application-on-aws-lightsail-with-openrouter-integration-103b)
+- [How Zapier Developers Support Digital Growth?](https://dev.to/asharmalik/how-zapier-developers-support-digital-growth-38bd)
+- [App in the Cloud Series: Ep. 4 — Boosting Performance with Redis Cache on Azure](https://dev.to/osvaldofa/app-in-the-cloud-series-ep-4-boosting-performance-with-redis-cache-on-azure-f32)
+- [what are intersection type?](https://dev.to/omkar_garde_c2555540edf29/what-are-intersection-type-2fgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
