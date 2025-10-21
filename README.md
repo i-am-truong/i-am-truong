@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como Usar Meta Campos &lpar;Metafields&rpar; no Shopify para Turbinar suas Páginas de Produto. Guia Definitivo](https://dev.to/rogeriorioli/como-usar-meta-campos-metafields-no-shopify-para-turbinar-suas-paginas-de-produto-guia-4mcd)
-- [I Built a Privacy-First Diff Checker Chrome Extension – Here&#39;s What I Learned published](https://dev.to/trustfish/i-built-a-privacy-first-diff-checker-chrome-extension-heres-what-i-learned-published-1odh)
-- [Create Deal Card via the Gmail API](https://dev.to/googleworkspace/create-deal-card-via-the-gmail-api-4af5)
-- [From Concept Art to Shipping Product: A Practical Pipeline for Builders in 2025](https://dev.to/sonia_bobrik_1939cdddd79d/from-concept-art-to-shipping-product-a-practical-pipeline-for-builders-in-2025-1ogl)
-- [Building AI GPU Systems in 2025: A Developer’s Field Manual](https://dev.to/sonia_bobrik_1939cdddd79d/building-ai-gpu-systems-in-2025-a-developers-field-manual-26me)
+- [The Future Is Walkable: How to Design Streets, Apps, and Policies That Put People First](https://dev.to/sonia_bobrik_1939cdddd79d/the-future-is-walkable-how-to-design-streets-apps-and-policies-that-put-people-first-1oh1)
+- [Understanding Path Analysis in R: Origins, Applications, and Real-World Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/understanding-path-analysis-in-r-origins-applications-and-real-world-case-studies-3g2e)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-35p8)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-4pi3)
+- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-1lnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
