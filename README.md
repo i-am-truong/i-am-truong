@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SendGrid Killed Their Free Plan So I Built a $1/Month SendGrid Alternative Instead](https://dev.to/babu_munavarbasha/sendgrid-killed-their-free-plan-so-i-built-a-1month-sendgrid-alternative-instead-5750)
-- [Complete guide for router and controller with debugging](https://dev.to/nimra_kosar_9885e391ac9a2/complete-guide-for-router-and-controller-with-debugging-kp9)
-- [Writing Your First LLVM Plugin Pass: Counting Add Instructions](https://dev.to/cppchedy/writing-your-first-llvm-plugin-pass-add-instruction-counter-25ib)
-- [Radial Explosion Zoom Gallery Effect](https://dev.to/prahalad/radial-explosion-zoom-gallery-effect-4fg5)
-- [i18n Check: Tips &amp; Tricks for Comparing Localization Files](https://dev.to/this-is-learning/i18n-check-tips-tricks-for-comparing-localization-files-2mih)
+- [An Introduction to API Documentation for Beginners: From Confusion to Clarity](https://dev.to/nuccithegreat/an-introduction-to-api-documentation-for-beginners-from-confusion-to-clarity-139f)
+- [How I Built and Launched a SaaS Template Using Only HTML, CSS, and Vanilla JS](https://dev.to/emrans99/how-i-built-and-launched-a-saas-template-using-only-html-css-and-vanilla-js-2e2k)
+- [Building Rynex: A 175KB TypeScript Framework Without Virtual DOM](https://dev.to/prathmesh_pro/building-rynex-a-175kb-typescript-framework-without-virtual-dom-5gki)
+- [Mastering Amazon EKS Auto Mode: Let Your Cluster Drive Itself &lpar;So You Can Work on the Fun Stuff&rpar;](https://dev.to/aws-builders/mastering-amazon-eks-auto-mode-let-your-cluster-drive-itself-so-you-can-work-on-the-fun-stuff-279k)
+- [[Boost]](https://dev.to/sivakumar_e/-6pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
