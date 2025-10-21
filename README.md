@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CanKit early preview: capability discovery, a ready-to-run CAN demo](https://dev.to/pkuyo/cankit-early-preview-capability-discovery-a-ready-to-run-can-demo-285k)
 - [ZOTmusic](https://dev.to/nizix/zotmusic-lnm)
 - [Run Jupyter Notebook on Android with Termux – Full Setup Guide](https://dev.to/akshay_934ed5e8ed8d13d653/run-jupyter-notebook-on-android-with-termux-full-setup-guide-55b5)
-- [Modern Angular State Management with Signals and Dependency Injection](https://dev.to/nhannguyenuri/modern-angular-state-management-with-signals-and-dependency-injection-391p)
-- [Is DeepSeek-OCR&#39;s 10x Token Breakthrough Making RAG Obsolete for AI Agents?](https://dev.to/jovin_george_733dcfc16291/is-deepseek-ocrs-10x-token-breakthrough-making-rag-obsolete-for-ai-agents-17l5)
-- [Cryptography: The Hidden Engine Powering Web3](https://dev.to/muhsindev/cryptography-the-hidden-engine-powering-web3-7m5)
+- [Embodied AI in Action: From Seeing to Imagining to Doing](https://dev.to/esdk/embodied-ai-in-action-from-seeing-to-imagining-to-doing-4i50)
+- [AWS Glue for ETL](https://dev.to/godofgeeks/aws-glue-for-etl-41kf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
