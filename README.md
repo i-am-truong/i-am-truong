@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Was Vibe Coding Before It Was Cool](https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75)
+- [Learning OpenGL Part 5: Lighting](https://dev.to/noticeablesmeh/learning-opengl-part-5-lightinting-2be7)
 - [When AWS Went Down: Lessons in Cloud Resilience from the Real World](https://dev.to/chioma_nwosu_99d57862fb18/when-aws-went-down-lessons-in-cloud-resilience-from-the-real-world-1a4k)
 - [How Distributed Tracing Really Works](https://dev.to/agardnerit/how-distributed-tracing-really-works-15b8)
 - [MySQL Connection Error 1130: Host &#39;192.168.7.7&#39; Is Not Allowed to Connect](https://dev.to/tahsin000/mysql-connection-error-1130-host-19216877-is-not-allowed-to-connect-23a2)
-- [The Architectural Shift of the Model Context Protocol](https://dev.to/onlineproxy/the-architectural-shift-of-the-model-context-protocol-1ao2)
-- [Untitled](https://dev.to/eren_ymrk_07a82a9fca5164c/untitled-4ah8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
