@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git Bits: Symbols](https://dev.to/oculus42/git-bits-symbols-15ck)
-- [Deploying Containerized Application on AWS LightSail with OpenRouter Integration](https://dev.to/ibshafique/deploying-containerized-application-on-aws-lightsail-with-openrouter-integration-103b)
-- [How Zapier Developers Support Digital Growth?](https://dev.to/asharmalik/how-zapier-developers-support-digital-growth-38bd)
-- [App in the Cloud Series: Ep. 4 — Boosting Performance with Redis Cache on Azure](https://dev.to/osvaldofa/app-in-the-cloud-series-ep-4-boosting-performance-with-redis-cache-on-azure-f32)
-- [what are intersection type?](https://dev.to/omkar_garde_c2555540edf29/what-are-intersection-type-2fgc)
+- [Angular Signals: 5+ Critical Mistakes That Could Break Your App &lpar;And How to Fix Them&rpar;](https://dev.to/codewithrajat/angular-signals-5-critical-mistakes-that-could-break-your-app-and-how-to-fix-them-389g)
+- [MCP server: A step-by-step guide to building from scratch](https://dev.to/chaitrali_kakde/mcp-server-a-step-by-step-guide-to-building-from-scratch-349h)
+- [人为何不能躺平](https://dev.to/woodyxin/ren-wei-he-bu-neng-tang-ping-1ohp)
+- [🎨 My React.js Portfolio Journey: From Learning to Doing](https://dev.to/thiyagu26v/my-reactjs-portfolio-journey-from-learning-to-doing-922)
+- [AWS : une panne « mondiale » ?](https://dev.to/aws-builders/aws-une-panne-mondiale--37n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
