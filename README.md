@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Remote Job Hunt: Action‑Ready Strategies for Landing Your Next Role From Anywhere 🌍](https://dev.to/stormdjent/mastering-the-remote-job-hunt-action-ready-strategies-for-landing-your-next-role-from-anywhere-15fc)
+- [what are template literals types and what are template literals?](https://dev.to/omkar_garde_c2555540edf29/what-are-template-literals-types-and-what-are-template-literals-5e22)
+- [⚡️One click, dozens of API tests: can AI finally end the case-writing?](https://dev.to/fallon_jimmy/one-click-dozens-of-api-tests-can-ai-finally-end-the-case-writing-1m97)
 - [The Future Is Walkable: How to Design Streets, Apps, and Policies That Put People First](https://dev.to/sonia_bobrik_1939cdddd79d/the-future-is-walkable-how-to-design-streets-apps-and-policies-that-put-people-first-1oh1)
 - [SQL Query Optimization for Beginners](https://dev.to/kurmapu_hymavathi_9e47877/sql-query-optimization-for-beginners-548a)
-- [checkout this article on Understanding Path Analysis in R: Origins, Applications, and Real-World Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-understanding-path-analysis-in-r-origins-applications-and-real-world-2lae)
-- [Understanding Path Analysis in R: Origins, Applications, and Real-World Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/understanding-path-analysis-in-r-origins-applications-and-real-world-case-studies-3g2e)
-- [OpenTelemetry in TanStack Start with Better Stack](https://dev.to/jamie_davenport/opentelemetry-in-tanstack-start-with-better-stack-5d89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
