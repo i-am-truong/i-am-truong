@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡10 JavaScript Concepts You Thought You Knew &lpar;But Didn’t&rpar;](https://dev.to/kushyarr7/10-javascript-concepts-you-thought-you-knew-but-didnt-23mb)
-- [[Boost]](https://dev.to/bekalu_adane_20c3cc020599/-1c0k)
-- [Understanding the Arduino IDE build process](https://dev.to/embeddedk8/understanding-the-arduino-ide-build-process-step-by-step-g61)
-- [AI can transform the way we developers think, build, and grow.](https://dev.to/jaideepparashar/ai-can-transform-the-way-we-developers-think-build-and-grow-3a5m)
-- [My 6-Week Dev.to Plan for Building Authority as an AI Writer](https://dev.to/jaideepparashar/my-6-week-devto-plan-for-building-authority-as-an-ai-writer-4afd)
+- [ZOTmusic](https://dev.to/nizix/zotmusic-lnm)
+- [Run Jupyter Notebook on Android with Termux – Full Setup Guide](https://dev.to/akshay_934ed5e8ed8d13d653/run-jupyter-notebook-on-android-with-termux-full-setup-guide-55b5)
+- [Modern Angular State Management with Signals and Dependency Injection](https://dev.to/nhannguyenuri/modern-angular-state-management-with-signals-and-dependency-injection-391p)
+- [Is DeepSeek-OCR&#39;s 10x Token Breakthrough Making RAG Obsolete for AI Agents?](https://dev.to/jovin_george_733dcfc16291/is-deepseek-ocrs-10x-token-breakthrough-making-rag-obsolete-for-ai-agents-17l5)
+- [Cryptography: The Hidden Engine Powering Web3](https://dev.to/muhsindev/cryptography-the-hidden-engine-powering-web3-7m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
