@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-3do)
-- [Nahre Sol: How to Write Beautifully Nostalgic Music](https://dev.to/music_youtube/nahre-sol-how-to-write-beautifully-nostalgic-music-2pa8)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-34ba)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-1c6i)
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-23e8)
+- [🚀 Hosting ChatGPT Apps on the Cloud](https://dev.to/hani__8725b7a/hosting-chatgpt-apps-on-the-cloud-37jm)
+- [Juuuust about getting too cold for golf around here](https://dev.to/ben/juuuust-about-getting-too-cold-for-golf-around-here-318g)
+- [How I Removed Persistent Adware Pop-Ups from Android Phone Without a Factory Reset](https://dev.to/mustafaelhelbawy/how-i-removed-persistent-adware-pop-ups-from-my-samsung-phone-without-a-factory-reset-1g5p)
+- [Oh Just Wait Until LLMs Get to All the Recent Vibecoded &quot;Breakthrough&quot; Projects on GitHub](https://dev.to/dev-tngsh/oh-just-wait-until-llms-get-to-all-the-recent-vibecoded-breakthrough-projects-on-github-1j4g)
+- [Share your Coding &lpar;Programming&rpar; journey ..](https://dev.to/illuminati/share-your-coding-programming-journey--1ba9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
