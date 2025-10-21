@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding XSS &lpar;Cross‑Site Scripting&rpar;: How Attackers Inject Code Into Your Website](https://dev.to/samleung/understanding-xss-cross-site-scripting-how-attackers-inject-code-into-your-website-38ac)
+- [How Termux Is Leaving Heavy IDEs Behind](https://dev.to/terminaltools/how-termux-is-leaving-heavy-ides-behind-331e)
 - [A Practical Guide to .NET CLR, Managed and Unmanaged Code, and Interop](https://dev.to/fakestandard/a-practical-guide-to-net-clr-managed-and-unmanaged-code-and-interop-4774)
 - [Best Practices for Writing Clean Code](https://dev.to/spink_gaming_e651c62852ae/best-practices-for-writing-clean-code-1i8h)
-- [Beyond the Pod: Why wasmCloud and WebAssembly Might Be the Next Evolution of the Platform](https://dev.to/ipt/beyond-the-pod-why-wasmcloud-and-webassembly-might-be-the-next-evolution-of-the-platform-1i3e)
-- [React Server Components Are Breaking Production Apps &lpar;And Nobody&#39;s Talking About It&rpar;](https://dev.to/elvissautet/react-server-components-are-breaking-production-apps-and-nobodys-talking-about-it-1dme)
-- [Top Termux Trends to Watch in 2025](https://dev.to/terminaltools/top-termux-trends-to-watch-in-2025-1057)
+- [The Black Box Approach to Parenting: Transforming Mistakes into Growth Opportunities](https://dev.to/_2c78f2211e58fb9c5f4cf/the-black-box-approach-to-parenting-transforming-mistakes-into-growth-opportunities-18d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
