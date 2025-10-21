@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building my Personal Portfolio with Tailwind CSS](https://dev.to/sufalthakre/building-my-personal-portfolio-with-tailwind-css-3gkl)
-- [I Was Tired of Awful Online Cipher Tools, So I Built the One I Always Wanted](https://dev.to/jerre/i-was-tired-of-awful-online-cipher-tools-so-i-built-the-one-i-always-wanted-ga)
-- [How does HTTPS work](https://dev.to/zacharylee/how-does-https-work-2i68)
-- [Testing AGENTS.md Across Three Agentic Coding Platforms: Universal Context Has Arrived](https://dev.to/jason_peterson_607e54abf5/testing-agentsmd-across-three-agentic-coding-platforms-universal-context-has-arrived-1lg0)
-- [Merge Multiple Images into a Single PDF in C#](https://dev.to/codingco/merge-multiple-images-into-a-single-pdf-in-c-275a)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-1pop)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-3gko)
+- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-24h)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-cec)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-lf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
