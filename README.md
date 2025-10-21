@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡10 JavaScript Concepts You Thought You Knew &lpar;But Didn’t&rpar;](https://dev.to/kushyarr7/10-javascript-concepts-you-thought-you-knew-but-didnt-23mb)
 - [[Boost]](https://dev.to/bekalu_adane_20c3cc020599/-1c0k)
 - [Understanding the Arduino IDE build process](https://dev.to/embeddedk8/understanding-the-arduino-ide-build-process-step-by-step-g61)
 - [AI can transform the way we developers think, build, and grow.](https://dev.to/jaideepparashar/ai-can-transform-the-way-we-developers-think-build-and-grow-3a5m)
 - [My 6-Week Dev.to Plan for Building Authority as an AI Writer](https://dev.to/jaideepparashar/my-6-week-devto-plan-for-building-authority-as-an-ai-writer-4afd)
-- [Sleep Patterns Predict Mental Health Episodes 3-7 Days Ahead: Building SleepMind.ai](https://dev.to/alex_chen_3a43ce352a43d3d/sleep-patterns-predict-mental-health-episodes-3-7-days-ahead-building-sleepmindai-2icn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
