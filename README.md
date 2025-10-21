@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On ACID in PostgreSQL : Part-1](https://dev.to/sajjadrahman56/hands-on-acid-in-postgresql-part-1-4g1l)
-- [🚀 La Evolución de los Pagos con Criptomonedas: Por Qué el 2025 Se Trata de Integración, No de Especulación](https://dev.to/paddy_e4d3d274ebc7/la-evolucion-de-los-pagos-con-criptomonedas-por-que-el-2025-se-trata-de-integracion-no-de-15c5)
-- [A Complete Guide to Unit Testing in .NET Core &lpar;with xUnit, Moq, and FluentAssertions&rpar;](https://dev.to/morteza-jangjoo/a-complete-guide-to-unit-testing-in-net-core-with-xunit-moq-and-fluentassertions-3lkb)
-- [#01 - Me reciclando como dev](https://dev.to/whoisclebs/01-me-reciclando-como-dev-3f8a)
-- [Warum sich Krypto-Apps noch immer „kaputt“ anfühlen – und wie wir das als Entwickler ändern können](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-sich-krypto-apps-noch-immer-kaputt-anfuhlen-und-wie-wir-das-als-entwickler-andern-konnen-1ohi)
+- [Building my Personal Portfolio with Tailwind CSS](https://dev.to/sufalthakre/building-my-personal-portfolio-with-tailwind-css-3gkl)
+- [I Was Tired of Awful Online Cipher Tools, So I Built the One I Always Wanted](https://dev.to/jerre/i-was-tired-of-awful-online-cipher-tools-so-i-built-the-one-i-always-wanted-ga)
+- [How does HTTPS work](https://dev.to/zacharylee/how-does-https-work-2i68)
+- [Testing AGENTS.md Across Three Agentic Coding Platforms: Universal Context Has Arrived](https://dev.to/jason_peterson_607e54abf5/testing-agentsmd-across-three-agentic-coding-platforms-universal-context-has-arrived-1lg0)
+- [Merge Multiple Images into a Single PDF in C#](https://dev.to/codingco/merge-multiple-images-into-a-single-pdf-in-c-275a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
