@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Peanuts engineering: A practical guide to build fast and scale effectively. Part 0: The philosophy](https://dev.to/mjnz/peanuts-engineering-a-practical-guide-to-build-fast-and-scale-effectively-part-0-the-philosophy-jb)
+- [Traditional RAG vs Agentic RAG: How AI is Learning to Think for Itself](https://dev.to/aquibpy/traditional-rag-vs-agentic-rag-how-ai-is-learning-to-think-for-itself-g0h)
 - [Understanding and Addressing Self-Harm in Adolescents](https://dev.to/_2c78f2211e58fb9c5f4cf/understanding-and-addressing-self-harm-in-adolescents-34e2)
 - [Throwing The TEE Gauntlet - A Turnabout Security Challenge](https://dev.to/dc600/throwing-the-tee-gauntlet-a-turnabout-security-challenge-41jf)
 - [Chrome DevTools MCP Server Guide](https://dev.to/this-is-angular/chrome-devtools-mcp-server-guide-24fa)
-- [Clean Architecture approach in the frontend, a practical example](https://dev.to/rangulo27/clean-architecture-approach-in-the-frontend-a-practical-example-5ih)
-- [Full-Stack Development Roadmap from Zero to Hero](https://dev.to/oyetech3/full-stack-development-roadmap-from-zero-to-hero-466b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
