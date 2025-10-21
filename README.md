@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hands-On ACID in PostgreSQL : Part-1](https://dev.to/sajjadrahman56/hands-on-acid-in-postgresql-part-1-4g1l)
+- [🚀 La Evolución de los Pagos con Criptomonedas: Por Qué el 2025 Se Trata de Integración, No de Especulación](https://dev.to/paddy_e4d3d274ebc7/la-evolucion-de-los-pagos-con-criptomonedas-por-que-el-2025-se-trata-de-integracion-no-de-15c5)
+- [A Complete Guide to Unit Testing in .NET Core &lpar;with xUnit, Moq, and FluentAssertions&rpar;](https://dev.to/morteza-jangjoo/a-complete-guide-to-unit-testing-in-net-core-with-xunit-moq-and-fluentassertions-3lkb)
 - [#01 - Me reciclando como dev](https://dev.to/whoisclebs/01-me-reciclando-como-dev-3f8a)
 - [Warum sich Krypto-Apps noch immer „kaputt“ anfühlen – und wie wir das als Entwickler ändern können](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-sich-krypto-apps-noch-immer-kaputt-anfuhlen-und-wie-wir-das-als-entwickler-andern-konnen-1ohi)
-- [10 XAML Binding Pitfalls That Trip Up Even Experienced .NET Developers](https://dev.to/uno-platform/10-xaml-binding-pitfalls-that-trip-up-even-experienced-net-developers-3d3p)
-- [🚀 From DevOps Executors to Platform Enablers](https://dev.to/danielschmidtdo/from-devops-executors-to-platform-enablers-2l0l)
-- [Daily Artificial Intelligence Digest - Oct 21, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-21-2025-3jke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
