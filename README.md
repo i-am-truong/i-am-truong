@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Local Storage and Session Storage in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-local-storage-and-session-storage-in-javascript-beginners-guide-8d3)
-- [Performance Optimization &amp; Caching](https://dev.to/nouribram/performance-optimization-caching-b5)
-- [We Replaced Our RPC Layer With eRPC](https://dev.to/estelleatthenook/we-replaced-our-rpc-layer-with-erpc-55f3)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-16dp)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-3gkl)
+- [My Phone Does My Work Now — Ai Termux Automation Story 😏](https://dev.to/saadmaqsood/my-phone-does-my-work-now-ai-termux-automation-story-ca9)
+- [I Built FRIDAY on My Phone to Stop Me From Scrolling. Devlog #1](https://dev.to/jackalgoespro/i-built-friday-on-my-phone-to-stop-me-from-scrolling-devlog-1-49fm)
+- [Ho visto abbastanza per capire che mi mancava un pezzo](https://dev.to/francesca_d_ami/ho-visto-abbastanza-per-capire-che-mi-mancava-un-pezzo-4322)
+- [AWS re/Start – My Week 10 Experience](https://dev.to/ijay/aws-restart-my-week-10-experience-12jb)
+- [What is Adobe Experience Manager &lpar;AEM&rpar;?](https://dev.to/viktorlazar/what-is-adobe-experience-manager-aem-316i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
