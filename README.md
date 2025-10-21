@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Slaydover: Responsive Overlay &amp; Drawer Component for Vue and Nuxt](https://dev.to/jqueryscript/slaydover-responsive-overlay-drawer-component-for-vue-and-nuxt-1i63)
-- [How to Structure Your Spring Boot Project for Clean, Scalable Code](https://dev.to/hbetabessi/how-to-structure-your-spring-boot-project-for-clean-scalable-code-2oha)
-- [Understanding the Repomix Compress Feature](https://dev.to/oleksandrakordonets/code-reading-analysis-understanding-the-repomix-compress-feature-264p)
-- [Integración PayPal-NEQUI: Análisis Técnico y Arquitectura de Pagos](https://dev.to/huyen_hanhpham_11b4f63234/integracion-paypal-nequi-analisis-tecnico-y-arquitectura-de-pagos-6hh)
-- [Finding and Updating Items in React Arrays](https://dev.to/philrez/finding-and-updating-items-in-react-arrays-4afa)
+- [#01 - Me reciclando como dev](https://dev.to/whoisclebs/01-me-reciclando-como-dev-3f8a)
+- [Warum sich Krypto-Apps noch immer „kaputt“ anfühlen – und wie wir das als Entwickler ändern können](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-sich-krypto-apps-noch-immer-kaputt-anfuhlen-und-wie-wir-das-als-entwickler-andern-konnen-1ohi)
+- [10 XAML Binding Pitfalls That Trip Up Even Experienced .NET Developers](https://dev.to/uno-platform/10-xaml-binding-pitfalls-that-trip-up-even-experienced-net-developers-3d3p)
+- [🚀 From DevOps Executors to Platform Enablers](https://dev.to/danielschmidtdo/from-devops-executors-to-platform-enablers-2l0l)
+- [Daily Artificial Intelligence Digest - Oct 21, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-21-2025-3jke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
