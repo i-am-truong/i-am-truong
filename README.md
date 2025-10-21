@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Scoring Agent: Step-By-Step](https://dev.to/jessesbyers/building-an-ai-scoring-agent-step-by-step-3cbn)
+- [Analyzing the Best Diagramming Tools for the LLM Age Based on Token Efficiency](https://dev.to/_768dd7ab130016ab8b0a/analyzing-the-best-diagramming-tools-for-the-llm-age-based-on-token-efficiency-5891)
 - [Choosing Tech Stack in 2025: A Practical Guide](https://dev.to/dimeloper/choosing-tech-stack-in-2025-a-practical-guide-4gll)
 - [🐱How I Built a Simple Go API to Return My Profile and a Random Cat Fact For my HNG13 stage 0 backend task](https://dev.to/i_ce_u/how-i-built-a-simple-go-api-to-return-my-profile-and-a-random-cat-fact-for-my-hng13-stage-0-2n81)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-294d)
-- [Enhancing FHIR Data Exploration with Local LLMs: Integrating IRIS and Ollama](https://dev.to/intersystems/enhancing-fhir-data-exploration-with-local-llms-integrating-iris-and-ollama-59fg)
-- [Building a FHIR Vector Repository with InterSystems IRIS and Python through the IRIStool module](https://dev.to/intersystems/building-a-fhir-vector-repository-with-intersystems-iris-and-python-through-the-iristool-module-38ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
