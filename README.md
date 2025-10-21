@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Hosting ChatGPT Apps on the Cloud](https://dev.to/hani__8725b7a/hosting-chatgpt-apps-on-the-cloud-37jm)
-- [Juuuust about getting too cold for golf around here](https://dev.to/ben/juuuust-about-getting-too-cold-for-golf-around-here-318g)
-- [How I Removed Persistent Adware Pop-Ups from Android Phone Without a Factory Reset](https://dev.to/mustafaelhelbawy/how-i-removed-persistent-adware-pop-ups-from-my-samsung-phone-without-a-factory-reset-1g5p)
-- [Oh Just Wait Until LLMs Get to All the Recent Vibecoded &quot;Breakthrough&quot; Projects on GitHub](https://dev.to/dev-tngsh/oh-just-wait-until-llms-get-to-all-the-recent-vibecoded-breakthrough-projects-on-github-1j4g)
-- [Share your Coding &lpar;Programming&rpar; journey ..](https://dev.to/illuminati/share-your-coding-programming-journey--1ba9)
+- [How to Build a Thread-Safe Rate Limiter with FastAPI and Atomic Redis](https://dev.to/aris_georgatos/how-to-build-a-thread-safe-rate-limiter-with-fastapi-and-atomic-redis-454f)
+- [Build a Physics-Based RagDoll with Pixalo Engine](https://dev.to/salarizadi/build-a-physics-based-ragdoll-with-pixalo-engine-38ng)
+- [My Top Cursor Tips &lpar;Oct 2025&rpar;](https://dev.to/heymarkkop/my-top-cursor-tips-oct-2025-3bi2)
+- [Implementing Azure Web Apps: From Setup to Scaling Your Cloud Applications](https://dev.to/sudaisib/implementing-azure-web-apps-from-setup-to-scaling-your-cloud-applications-3ie8)
+- [Cloud Security Myths](https://dev.to/ciberconscientes/cloud-security-myths-57ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
