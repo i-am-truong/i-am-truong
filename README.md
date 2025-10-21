@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kickstarting Our DSA Journey: Learning and Growing Together](https://dev.to/we_are_broken_compilers/kickstarting-our-dsa-journey-learning-and-growing-together-2pf9)
-- [Node.js fetch with proxy](https://dev.to/tincastle/nodejs-fetch-with-proxy-16nl)
-- [Monitoramento de aplicações frontend com RUM.js e Kibana](https://dev.to/umovme/monitoramento-de-aplicacoes-frontend-com-rumjs-e-kibana-295j)
-- [🚀 Building a Production-Ready PHP REST API Framework &lpar;Open Source&rpar;](https://dev.to/mrzstack/building-a-production-ready-php-rest-api-framework-open-source-3jo)
-- [Setup GitHub SSH Access on a Machine](https://dev.to/iamsonukushwaha/setup-github-ssh-access-on-a-machine-33mk)
+- [A Practical Guide to .NET CLR, Managed and Unmanaged Code, and Interop](https://dev.to/fakestandard/a-practical-guide-to-net-clr-managed-and-unmanaged-code-and-interop-4774)
+- [Best Practices for Writing Clean Code](https://dev.to/spink_gaming_e651c62852ae/best-practices-for-writing-clean-code-1i8h)
+- [Beyond the Pod: Why wasmCloud and WebAssembly Might Be the Next Evolution of the Platform](https://dev.to/ipt/beyond-the-pod-why-wasmcloud-and-webassembly-might-be-the-next-evolution-of-the-platform-1i3e)
+- [React Server Components Are Breaking Production Apps &lpar;And Nobody&#39;s Talking About It&rpar;](https://dev.to/elvissautet/react-server-components-are-breaking-production-apps-and-nobodys-talking-about-it-1dme)
+- [Top Termux Trends to Watch in 2025](https://dev.to/terminaltools/top-termux-trends-to-watch-in-2025-1057)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
