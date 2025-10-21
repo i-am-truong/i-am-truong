@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making Complex Business Concepts Simple with AI Whiteboard for EMBA Courses](https://dev.to/ishmam_jahan_4269b6f13ba5/making-complex-business-concepts-simple-with-ai-whiteboard-for-emba-courses-3g7o)
-- [[Boost]](https://dev.to/hadil/-3poi)
-- [Is Excel Still Relevant in the Era of Power BI and Python?](https://dev.to/ed_njeru_1858edde63d4c81e/is-excel-still-relevant-in-the-era-of-power-bi-and-python-cn7)
-- [Can You Automate Threat Response Without Losing Control?](https://dev.to/terminaltools/can-you-automate-threat-response-without-losing-control-31ao)
-- [Understanding and Addressing Self-Harm in Adolescents](https://dev.to/_2c78f2211e58fb9c5f4cf/understanding-and-addressing-self-harm-in-adolescents-4emn)
+- [&quot;#1 Understanding Scope in JavaScript — The Invisible Boundaries of Your Code&quot;](https://dev.to/mithukr/understanding-scope-in-javascript-the-invisible-boundaries-of-your-code-29b2)
+- [Evidence-Based Engineering: How Research Shapes My Full Stack Development Process](https://dev.to/sain_bux_dev/evidence-based-engineering-how-research-shapes-my-full-stack-development-process-44dl)
+- [Best Free Image to Music AI Generator: Transform Photos into Songs with Music Maker AI](https://dev.to/music_maker_0ba7ab4493cd9/best-free-image-to-music-ai-generator-transform-photos-into-songs-with-music-maker-ai-3756)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3k2n)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-1l3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
