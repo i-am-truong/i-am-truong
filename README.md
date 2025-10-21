@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a GPT Action System to Ship Components 10x Faster](https://dev.to/philrez/how-i-built-a-gpt-action-system-to-ship-components-10x-faster-4hdk)
-- [🎃 Hacktoberfest 2023 Contributor Story 🍁](https://dev.to/mdarifulhaque/hacktoberfest-2023-contributor-story-1137)
-- [ChatGPT Atlas: A Smarter Way to Browse and Work Online](https://dev.to/alifar/chatgpt-atlas-a-smarter-way-to-browse-and-work-online-28nm)
-- [Smarter Health Checks for Zero-Downtime Deployments](https://dev.to/pomerium/smarter-health-checks-for-zero-downtime-deployments-4h15)
-- [🎃 Hacktoberfest 2023 — My Journey as a Maintainer 🍁](https://dev.to/mdarifulhaque/placeholder-maintainer-20k4)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-2p3d)
+- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-4h7a)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2401)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-10b2)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5bge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
