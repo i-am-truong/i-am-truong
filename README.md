@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-2p3d)
-- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-4h7a)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2401)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-10b2)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5bge)
+- [Choosing Tech Stack in 2025: A Practical Guide](https://dev.to/dimeloper/choosing-tech-stack-in-2025-a-practical-guide-4gll)
+- [🐱How I Built a Simple Go API to Return My Profile and a Random Cat Fact For my HNG13 stage 0 backend task](https://dev.to/i_ce_u/how-i-built-a-simple-go-api-to-return-my-profile-and-a-random-cat-fact-for-my-hng13-stage-0-2n81)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-294d)
+- [Enhancing FHIR Data Exploration with Local LLMs: Integrating IRIS and Ollama](https://dev.to/intersystems/enhancing-fhir-data-exploration-with-local-llms-integrating-iris-and-ollama-59fg)
+- [Building a FHIR Vector Repository with InterSystems IRIS and Python through the IRIStool module](https://dev.to/intersystems/building-a-fhir-vector-repository-with-intersystems-iris-and-python-through-the-iristool-module-38ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
