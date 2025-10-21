@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Ice Cream Illusion: How Founders Confuse Product Delivery With Performance](https://dev.to/yaseen_tech/the-ice-cream-illusion-how-founders-confuse-product-delivery-with-performance-4k4d)
-- [Smarter Descriptions, Cleaner Data: How Generative AI is Fixing the Product Data Crisis in PLM &amp; MDM](https://dev.to/rapidflowinc/smarter-descriptions-cleaner-data-how-generative-ai-is-fixing-the-product-data-crisis-in-plm-mdm-3f27)
-- [Building a Decentralized Search API for X, Reddit, and the Web](https://dev.to/chkhikvadze/building-desearch-an-ai-search-api-for-x-twitter-reddit-and-web-lck)
-- [ServiceNow Cuts Handoffs by 60% With One Connected Platform](https://dev.to/sip_mjb/servicenow-cuts-handoffs-by-60-with-one-connected-platform-b8p)
-- [🧶 LESS to CSS Converter — Make Your Styles *LESS* Messy &amp; More Classy 💅✨](https://dev.to/akashbijwe/less-to-css-converter-make-your-styles-less-messy-more-classy-4kpg)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-243d)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-27ef)
+- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-5efe)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2jh3)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-55lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
