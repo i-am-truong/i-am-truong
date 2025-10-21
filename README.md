@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-51gk)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-423p)
-- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-4n7b)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1oc4)
-- [KEXP: Adrian Quesada - El Muchacho De Los Ojos Tristes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-adrian-quesada-el-muchacho-de-los-ojos-tristes-live-on-kexp-55ob)
+- [C#’s Hidden Gem: How Yield Return Makes Iterators Simple](https://dev.to/reenanms/cs-hidden-gem-how-yield-return-makes-iterators-simple-kno)
+- [Keywords Meet Vectors: Hybrid Search on MongoDB](https://dev.to/mongodb/keywords-meet-vectors-hybrid-search-on-mongodb-3781)
+- [VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches viaIn-Context Conditioning](https://dev.to/paperium/videocanvas-unified-video-completion-from-arbitrary-spatiotemporal-patches-viain-context-268n)
+- [From Zero to MCP: Building a Model Context Protocol Server with TypeScript and the Star Wars API](https://dev.to/glaucia86/from-zero-to-mcp-building-a-model-context-protocol-server-with-typescript-and-the-star-wars-api-1kdi)
+- [I Can&#39;t Believe It&#39;s Not CSS - Styling Websites with SQL](https://dev.to/codypearce/i-cant-believe-its-not-css-styling-websites-with-sql-3i2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
