@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Launch Your Startup MVP in 5 Weeks in 2025: A Step-by-Step Guide](https://dev.to/eulerhive/how-to-launch-your-startup-mvp-in-5-weeks-in-2025-a-step-by-step-guide-9ld)
-- [Our Git Workflow for Client Projects: Branching Strategy for Agencies](https://dev.to/michelle_turner/our-git-workflow-for-client-projects-branching-strategy-for-agencies-21ag)
-- [Simulating MRI Physics with the Bloch Equations](https://dev.to/glcsblog/simulating-mri-physics-with-the-bloch-equations-3n72)
-- [AWS Went Down. The Internet Panicked. Here&#39;s What It Means for All of Us.](https://dev.to/marxon/aws-went-down-the-internet-panicked-heres-what-it-means-for-all-of-us-1cmm)
-- [Realtime Event-Driven Applications with AppSync Events and EventBridge Pipes](https://dev.to/ianbrumby/realtime-event-driven-applications-with-appsync-events-and-eventbridge-pipes-1b27)
+- [KEXP: Adrian Quesada - No Juego/ Ídolo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-adrian-quesada-no-juego-idolo-live-on-kexp-3bp6)
+- [The Architectural Shift of the Model Context Protocol](https://dev.to/onlineproxy/the-architectural-shift-of-the-model-context-protocol-1ao2)
+- [Untitled](https://dev.to/eren_ymrk_07a82a9fca5164c/untitled-4ah8)
+- [Step-by-Step Guide to Capture Heap Snapshots in Node.js on Kubernetes](https://dev.to/alessandro-grosselle/step-by-step-guide-to-capture-heap-snapshots-in-nodejs-on-kubernetes-1i2h)
+- [Actions, Not Just Chat](https://dev.to/philrez/actions-not-just-chat-14n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
