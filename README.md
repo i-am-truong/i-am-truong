@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 20 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-20-of-100-days-dsa-coding-challenge-13ad)
+- [SimpleW](https://dev.to/stratdev_99e0066103e51dc1/simplew-fog)
 - [How to Build a Thread-Safe Rate Limiter with FastAPI and Atomic Redis](https://dev.to/aris_georgatos/how-to-build-a-thread-safe-rate-limiter-with-fastapi-and-atomic-redis-454f)
 - [Build a Physics-Based RagDoll with Pixalo Engine](https://dev.to/salarizadi/build-a-physics-based-ragdoll-with-pixalo-engine-38ng)
 - [My Top Cursor Tips &lpar;Oct 2025&rpar;](https://dev.to/heymarkkop/my-top-cursor-tips-oct-2025-3bi2)
-- [Implementing Azure Web Apps: From Setup to Scaling Your Cloud Applications](https://dev.to/sudaisib/implementing-azure-web-apps-from-setup-to-scaling-your-cloud-applications-3ie8)
-- [Cloud Security Myths](https://dev.to/ciberconscientes/cloud-security-myths-57ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
