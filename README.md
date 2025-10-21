@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Here’s to find and fix your unused dependencies.](https://dev.to/ramunarasinga-11/heres-to-find-and-fix-your-unused-dependencies-ha5)
-- [[Boost]](https://dev.to/p3ngu1nzz/-4g0a)
-- [Stop the Command-Line Grind: Boost Your Productivity with IntelliShell](https://dev.to/lasantosr/stop-the-command-line-grind-boost-your-productivity-with-intellishell-2h2o)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_4890a1e6/beyond-env-a-grown-ups-guide-to-application-configuration-4d66)
-- [🚀 Introducing Agentic Postgres: The First &amp; Free Database Built for Agents](https://dev.to/tigerdata/introducing-agentic-postgres-the-first-free-database-built-for-agents-50i7)
+- [We built an AI code assistant that actually understands your repo. Looking for testers](https://dev.to/enric-ai/we-built-an-ai-code-assistant-that-actually-understands-your-repo-looking-for-testers-19f8)
+- [🤖 PromptOps Policy Coach — From Metrics to Mechanisms You Can Trust](https://dev.to/marcusmayo/promptops-policy-coach-from-metrics-to-mechanisms-you-can-trust-14p0)
+- [Features of Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/features-of-java-4fo0)
+- [Making secure file storage, part 1: basics](https://dev.to/artabramov/making-secure-file-storage-part-1-basics-2o56)
+- [Deep Dive into goose&#39;s Extension System and Model Context Protocol &lpar;MCP&rpar;](https://dev.to/lymah/deep-dive-into-gooses-extension-system-and-model-context-protocol-mcp-3ehl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
