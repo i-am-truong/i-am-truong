@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Achieved 40% Gas Savings with Formal Verification and Merkle Proofs](https://dev.to/chronosvault/how-we-achieved-40-gas-savings-with-formal-verification-and-merkle-proofs-127c)
+- [Untitled](https://dev.to/jair_figueroa_bfbc2fb355e/untitled-1n0l)
+- [Génération de Leads pour Startups Africaines : Pourquoi notre pipeline n&#39;a pas besoin de Salesforce et repose sur WhatsApp](https://dev.to/maxime_dossou_77bbeb5bcc4/generation-de-leads-pour-startups-africaines-pourquoi-notre-pipeline-na-pas-besoin-de-salesforce-1mmf)
 - [I Was Vibe Coding Before It Was Cool](https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75)
 - [Learning OpenGL Part 5: Lighting](https://dev.to/noticeablesmeh/learning-opengl-part-5-lightinting-2be7)
-- [When AWS Went Down: Lessons in Cloud Resilience from the Real World](https://dev.to/chioma_nwosu_99d57862fb18/when-aws-went-down-lessons-in-cloud-resilience-from-the-real-world-1a4k)
-- [How Distributed Tracing Really Works](https://dev.to/agardnerit/how-distributed-tracing-really-works-15b8)
-- [MySQL Connection Error 1130: Host &#39;192.168.7.7&#39; Is Not Allowed to Connect](https://dev.to/tahsin000/mysql-connection-error-1130-host-19216877-is-not-allowed-to-connect-23a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
