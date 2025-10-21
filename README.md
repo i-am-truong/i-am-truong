@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Desearch — an AI Search API for X &lpar;Twitter&rpar;, Reddit, and Web](https://dev.to/chkhikvadze/building-desearch-an-ai-search-api-for-x-twitter-reddit-and-web-lck)
+- [The Ice Cream Illusion: How Founders Confuse Product Delivery With Performance](https://dev.to/yaseen_tech/the-ice-cream-illusion-how-founders-confuse-product-delivery-with-performance-4k4d)
+- [Smarter Descriptions, Cleaner Data: How Generative AI is Fixing the Product Data Crisis in PLM &amp; MDM](https://dev.to/rapidflowinc/smarter-descriptions-cleaner-data-how-generative-ai-is-fixing-the-product-data-crisis-in-plm-mdm-3f27)
+- [Building a Decentralized Search API for X, Reddit, and the Web](https://dev.to/chkhikvadze/building-desearch-an-ai-search-api-for-x-twitter-reddit-and-web-lck)
 - [ServiceNow Cuts Handoffs by 60% With One Connected Platform](https://dev.to/sip_mjb/servicenow-cuts-handoffs-by-60-with-one-connected-platform-b8p)
 - [🧶 LESS to CSS Converter — Make Your Styles *LESS* Messy &amp; More Classy 💅✨](https://dev.to/akashbijwe/less-to-css-converter-make-your-styles-less-messy-more-classy-4kpg)
-- [Mastering GitHub from Scratch - Beginner&#39;s Guide #1: Introduction to GitHub and Account Creation](https://dev.to/parklabo/mastering-github-from-scratch-beginners-guide-1-introduction-to-github-and-account-creation-130m)
-- [Day 8 | 50 Projects in 50 Days](https://dev.to/augusta08/day-8-50-projects-in-50-days-5ek2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
