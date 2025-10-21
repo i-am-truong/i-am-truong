@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Phone Does My Work Now — Ai Termux Automation Story 😏](https://dev.to/saadmaqsood/my-phone-does-my-work-now-ai-termux-automation-story-ca9)
-- [I Built FRIDAY on My Phone to Stop Me From Scrolling. Devlog #1](https://dev.to/jackalgoespro/i-built-friday-on-my-phone-to-stop-me-from-scrolling-devlog-1-49fm)
-- [Ho visto abbastanza per capire che mi mancava un pezzo](https://dev.to/francesca_d_ami/ho-visto-abbastanza-per-capire-che-mi-mancava-un-pezzo-4322)
-- [AWS re/Start – My Week 10 Experience](https://dev.to/ijay/aws-restart-my-week-10-experience-12jb)
-- [What is Adobe Experience Manager &lpar;AEM&rpar;?](https://dev.to/viktorlazar/what-is-adobe-experience-manager-aem-316i)
+- [Building AI GPU Systems in 2025: A Developer’s Field Manual](https://dev.to/sonia_bobrik_1939cdddd79d/building-ai-gpu-systems-in-2025-a-developers-field-manual-26me)
+- [How I Built an AI Product Recommendation App in React Native Using Google Gemini](https://dev.to/kiran_kumar_bd5897c125e94/how-i-built-an-ai-product-recommendation-app-in-react-native-using-google-gemini-4cbb)
+- [Fine-Tuning with GRPO Datasets: A Developer&#39;s Guide to DeepFabric&#39;s GRPO Formatter](https://dev.to/lukehinds/fine-tuning-with-grpo-datasets-a-developers-guide-to-deepfabrics-grpo-formatter-245h)
+- [The Quiet Revolution Powering Modern AI: Understanding the Mixture of Experts &lpar;MoE&rpar; Architecture](https://dev.to/lightningdev123/the-quiet-revolution-powering-modern-ai-understanding-the-mixture-of-experts-moe-architecture-4npn)
+- [Generate passwords from CLI](https://dev.to/agonza05/generate-passwords-from-cli-276d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
