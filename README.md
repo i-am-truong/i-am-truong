@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FTC Safeguards Rule: MFA Compliance for Non-Bank Financial Institutions](https://dev.to/corbado/ftc-safeguards-rule-mfa-compliance-for-non-bank-financial-institutions-3koe)
-- [The Only SaaS Metrics That Actually Matter &lpar;and How to Track Them Right&rpar;](https://dev.to/sonu_goswami/the-only-saas-metrics-that-actually-matter-and-how-to-track-them-right-3mk5)
-- [Why Personal Trainers Need a Website With Booking Tools in 2025](https://dev.to/kamruljpi/why-personal-trainers-need-a-website-with-booking-tools-in-2025-5hc7)
-- [Article 3: 🛠️ Starting from Scratch! A Detailed Guide to the Freqtrade `download-data` Command and Docker Usage](https://dev.to/itrade_icu_ae8778833e3e8c/article-3-starting-from-scratch-a-detailed-guide-to-the-freqtrade-download-data-command-and-2b8d)
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-hcb)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-16dp)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-3gkl)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-h72)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1p6o)
+- [COLORS: UMI - 10AM | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-10am-a-colors-show-55f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
