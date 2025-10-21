@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a GPT Action System to Ship Components 10x Faster](https://dev.to/philrez/how-i-built-a-gpt-action-system-to-ship-components-10x-faster-4hdk)
+- [ChatGPT Atlas: A Smarter Way to Browse and Work Online](https://dev.to/alifar/chatgpt-atlas-a-smarter-way-to-browse-and-work-online-28nm)
+- [Smarter Health Checks for Zero-Downtime Deployments](https://dev.to/pomerium/smarter-health-checks-for-zero-downtime-deployments-4h15)
 - [Setting Up a WireGuard VPN Server on Google Cloud Platform](https://dev.to/gamedev90/setting-up-a-wireguard-vpn-server-on-google-cloud-platform-bc2)
-- [New Product Development Company: Turning Innovative Ideas into Market-Ready Solutions](https://dev.to/product_siddha_cc0ac9c14b/new-product-development-company-turning-innovative-ideas-into-market-ready-solutions-h96)
 - [💀 “When the pumpkin bursts, the night begins...” 🌌](https://dev.to/arun_shree_f1f5aaeb31d362/when-the-pumpkin-bursts-the-night-begins-b7f)
-- [Scikit-Learn 4-Step Path: Mastering Classification with Naive Bayes, SVM, and Essential Metrics](https://dev.to/labex/scikit-learn-4-step-path-mastering-classification-with-naive-bayes-svm-and-essential-metrics-p8i)
-- [The Programmer’s Nightmare: How to Deal with Legacy Code?](https://dev.to/lamri_abdellahramdane_15/the-programmers-nightmare-how-to-deal-with-legacy-code-5ek0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
