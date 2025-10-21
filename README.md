@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 20 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-20-of-100-days-dsa-coding-challenge-13ad)
-- [SimpleW](https://dev.to/stratdev_99e0066103e51dc1/simplew-fog)
-- [How to Build a Thread-Safe Rate Limiter with FastAPI and Atomic Redis](https://dev.to/aris_georgatos/how-to-build-a-thread-safe-rate-limiter-with-fastapi-and-atomic-redis-454f)
-- [Build a Physics-Based RagDoll with Pixalo Engine](https://dev.to/salarizadi/build-a-physics-based-ragdoll-with-pixalo-engine-38ng)
-- [My Top Cursor Tips &lpar;Oct 2025&rpar;](https://dev.to/heymarkkop/my-top-cursor-tips-oct-2025-3bi2)
+- [Setting Up a WireGuard VPN Server on Google Cloud Platform](https://dev.to/gamedev90/setting-up-a-wireguard-vpn-server-on-google-cloud-platform-bc2)
+- [New Product Development Company: Turning Innovative Ideas into Market-Ready Solutions](https://dev.to/product_siddha_cc0ac9c14b/new-product-development-company-turning-innovative-ideas-into-market-ready-solutions-h96)
+- [💀 “When the pumpkin bursts, the night begins...” 🌌](https://dev.to/arun_shree_f1f5aaeb31d362/when-the-pumpkin-bursts-the-night-begins-b7f)
+- [Scikit-Learn 4-Step Path: Mastering Classification with Naive Bayes, SVM, and Essential Metrics](https://dev.to/labex/scikit-learn-4-step-path-mastering-classification-with-naive-bayes-svm-and-essential-metrics-p8i)
+- [The Programmer’s Nightmare: How to Deal with Legacy Code?](https://dev.to/lamri_abdellahramdane_15/the-programmers-nightmare-how-to-deal-with-legacy-code-5ek0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
