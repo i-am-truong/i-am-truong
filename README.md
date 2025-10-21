@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built an AI Recruiter That Automates First-Round Interviews](https://dev.to/matthew-talentsprout/how-i-built-an-ai-recruiter-that-automates-first-round-interviews-gch)
 - [The `concerns/` Folder: A Loom of Architecture or a Digital Junk Drawer?](https://dev.to/alex_aslam/the-concerns-folder-a-loom-of-architecture-or-a-digital-junk-drawer-293p)
 - [🚀 Leveling Up with Supabase RPC — My “Sell Honey” Transaction Journey](https://dev.to/workfromhome130/leveling-up-with-supabase-rpc-my-sell-honey-transaction-journey-24l0)
 - [It&#39;s Okay If Your Biggest Hobby Isn&#39;t Coding](https://dev.to/_boweii/its-okay-if-your-biggest-hobby-isnt-coding-4bk2)
 - [Crea tu propio chat con Claude en AWS Bedrock usando AWS CDK &lpar;guía paso a paso para principiantes&rpar;](https://dev.to/chainiz/crea-tu-propio-chat-con-claude-en-aws-bedrock-usando-aws-cdk-guia-paso-a-paso-para-principiantes-20ag)
-- [Understanding Model Evaluation in Lead Scoring: A Practical Walkthrough](https://dev.to/techkene/understanding-model-evaluation-in-lead-scoring-a-practical-walkthrough-14lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
