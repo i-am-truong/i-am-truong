@@ -119,9 +119,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Realtime Event-Driven Applications with AppSync Events and EventBridge Pipes](https://dev.to/ianbrumby/realtime-event-driven-applications-with-appsync-events-and-eventbridge-pipes-1b27)
 - [Hanno tagliato il pezzo più scomodo.](https://dev.to/beatrice_neri_/hanno-tagliato-il-pezzo-piu-scomodo-3aok)
 - [Why Postmortems Fail and How to Make Them Drive Real Change](https://dev.to/phoenix-incidents/why-postmortems-fail-and-how-to-make-them-drive-real-change-4pkn)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_4890a1e6/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4oe7)
 - [Best way to learn a programming language](https://dev.to/king_praiseuduogwu_b320f/best-way-to-learn-a-programming-language-3j76)
 - [Building an AI Scoring Agent: Step-By-Step](https://dev.to/jessesbyers/building-an-ai-scoring-agent-step-by-step-3cbn)
 <!-- BLOG-POST-LIST:END -->
