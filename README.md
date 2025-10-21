@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simulating MRI Physics with the Bloch Equations](https://dev.to/glcsblog/simulating-mri-physics-with-the-bloch-equations-3n72)
+- [AWS Went Down. The Internet Panicked. Here&#39;s What It Means for All of Us.](https://dev.to/marxon/aws-went-down-the-internet-panicked-heres-what-it-means-for-all-of-us-1cmm)
 - [Realtime Event-Driven Applications with AppSync Events and EventBridge Pipes](https://dev.to/ianbrumby/realtime-event-driven-applications-with-appsync-events-and-eventbridge-pipes-1b27)
 - [Hanno tagliato il pezzo più scomodo.](https://dev.to/beatrice_neri_/hanno-tagliato-il-pezzo-piu-scomodo-3aok)
 - [Why Postmortems Fail and How to Make Them Drive Real Change](https://dev.to/phoenix-incidents/why-postmortems-fail-and-how-to-make-them-drive-real-change-4pkn)
-- [Best way to learn a programming language](https://dev.to/king_praiseuduogwu_b320f/best-way-to-learn-a-programming-language-3j76)
-- [Building an AI Scoring Agent: Step-By-Step](https://dev.to/jessesbyers/building-an-ai-scoring-agent-step-by-step-3cbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
