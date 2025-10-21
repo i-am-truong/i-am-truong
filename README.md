@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Local Storage and Session Storage in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-local-storage-and-session-storage-in-javascript-beginners-guide-8d3)
+- [Performance Optimization &amp; Caching](https://dev.to/nouribram/performance-optimization-caching-b5)
+- [We Replaced Our RPC Layer With eRPC](https://dev.to/estelleatthenook/we-replaced-our-rpc-layer-with-erpc-55f3)
 - [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-16dp)
 - [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-3gkl)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-h72)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1p6o)
-- [COLORS: UMI - 10AM | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-10am-a-colors-show-55f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
