@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Desearch — an AI Search API for X &lpar;Twitter&rpar;, Reddit, and Web](https://dev.to/chkhikvadze/building-desearch-an-ai-search-api-for-x-twitter-reddit-and-web-lck)
+- [ServiceNow Cuts Handoffs by 60% With One Connected Platform](https://dev.to/sip_mjb/servicenow-cuts-handoffs-by-60-with-one-connected-platform-b8p)
+- [🧶 LESS to CSS Converter — Make Your Styles *LESS* Messy &amp; More Classy 💅✨](https://dev.to/akashbijwe/less-to-css-converter-make-your-styles-less-messy-more-classy-4kpg)
+- [Mastering GitHub from Scratch - Beginner&#39;s Guide #1: Introduction to GitHub and Account Creation](https://dev.to/parklabo/mastering-github-from-scratch-beginners-guide-1-introduction-to-github-and-account-creation-130m)
 - [Day 8 | 50 Projects in 50 Days](https://dev.to/augusta08/day-8-50-projects-in-50-days-5ek2)
-- [An Introduction to API Documentation for Beginners: From Confusion to Clarity](https://dev.to/nuccithegreat/an-introduction-to-api-documentation-for-beginners-from-confusion-to-clarity-139f)
-- [How I Built and Launched a SaaS Template Using Only HTML, CSS, and Vanilla JS](https://dev.to/emrans99/how-i-built-and-launched-a-saas-template-using-only-html-css-and-vanilla-js-2e2k)
-- [Building Rynex: A 175KB TypeScript Framework Without Virtual DOM](https://dev.to/prathmesh_pro/building-rynex-a-175kb-typescript-framework-without-virtual-dom-5gki)
-- [Why Do You Push Code During Work Hours?&quot; - How an Interview Question Led Me to Build a Delayed Commit Feature](https://dev.to/thanhphuchuynh/why-do-you-push-code-during-work-hours-how-an-interview-question-led-me-to-build-a-delayed-4e4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
