@@ -121,10 +121,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Future Is Walkable: How to Design Streets, Apps, and Policies That Put People First](https://dev.to/sonia_bobrik_1939cdddd79d/the-future-is-walkable-how-to-design-streets-apps-and-policies-that-put-people-first-1oh1)
+- [SQL Query Optimization for Beginners](https://dev.to/kurmapu_hymavathi_9e47877/sql-query-optimization-for-beginners-548a)
+- [checkout this article on Understanding Path Analysis in R: Origins, Applications, and Real-World Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-understanding-path-analysis-in-r-origins-applications-and-real-world-2lae)
 - [Understanding Path Analysis in R: Origins, Applications, and Real-World Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/understanding-path-analysis-in-r-origins-applications-and-real-world-case-studies-3g2e)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-35p8)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-4pi3)
-- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-1lnl)
+- [OpenTelemetry in TanStack Start with Better Stack](https://dev.to/jamie_davenport/opentelemetry-in-tanstack-start-with-better-stack-5d89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
