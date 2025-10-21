@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We built an AI code assistant that actually understands your repo. Looking for testers](https://dev.to/enric-ai/we-built-an-ai-code-assistant-that-actually-understands-your-repo-looking-for-testers-19f8)
-- [🤖 PromptOps Policy Coach — From Metrics to Mechanisms You Can Trust](https://dev.to/marcusmayo/promptops-policy-coach-from-metrics-to-mechanisms-you-can-trust-14p0)
-- [Features of Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/features-of-java-4fo0)
-- [Making secure file storage, part 1: basics](https://dev.to/artabramov/making-secure-file-storage-part-1-basics-2o56)
-- [Deep Dive into goose&#39;s Extension System and Model Context Protocol &lpar;MCP&rpar;](https://dev.to/lymah/deep-dive-into-gooses-extension-system-and-model-context-protocol-mcp-3ehl)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-3do)
+- [Nahre Sol: How to Write Beautifully Nostalgic Music](https://dev.to/music_youtube/nahre-sol-how-to-write-beautifully-nostalgic-music-2pa8)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-34ba)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-1c6i)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-23e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
