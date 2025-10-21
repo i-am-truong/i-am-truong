@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making Sense of Asyncio: Tasks, Futures, and Timeouts Simplified](https://dev.to/imsushant12/making-sense-of-asyncio-tasks-futures-and-timeouts-simplified-10if)
-- [Which are the best companies to provide Angular developers for hire in USA 2025?](https://dev.to/rajesh_patel_68e5dd6c9a4f/which-are-the-best-companies-to-provide-angular-developers-for-hire-in-usa-2025-4dk3)
-- [Understanding Bitcoin Fundamentals: From Transactions to Consensus](https://dev.to/_56d7718cea8fe00ec1610/understanding-bitcoin-fundamentals-from-transactions-to-consensus-1pkk)
-- [4D Entropic Chaos Theory: A Dimensional Framework for Market Operations](https://dev.to/ryo_suwito/4d-entropic-chaos-theory-a-dimensional-framework-for-market-operations-40gn)
-- [They Don&#39;t Have the Money &lpar;And Neither Do You&rpar;: The Coming Era of Small Models](https://dev.to/aronchick/they-dont-have-the-money-and-neither-do-you-the-coming-era-of-small-models-3oi2)
+- [Kickstarting Our DSA Journey: Learning and Growing Together](https://dev.to/we_are_broken_compilers/kickstarting-our-dsa-journey-learning-and-growing-together-2pf9)
+- [Node.js fetch with proxy](https://dev.to/tincastle/nodejs-fetch-with-proxy-16nl)
+- [Monitoramento de aplicações frontend com RUM.js e Kibana](https://dev.to/umovme/monitoramento-de-aplicacoes-frontend-com-rumjs-e-kibana-295j)
+- [🚀 Building a Production-Ready PHP REST API Framework &lpar;Open Source&rpar;](https://dev.to/mrzstack/building-a-production-ready-php-rest-api-framework-open-source-3jo)
+- [Setup GitHub SSH Access on a Machine](https://dev.to/iamsonukushwaha/setup-github-ssh-access-on-a-machine-33mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
