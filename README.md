@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Peanuts engineering: A practical guide to build fast and scale effectively. Part 0: The philosophy](https://dev.to/mjnz/peanuts-engineering-a-practical-guide-to-build-fast-and-scale-effectively-part-0-the-philosophy-jb)
-- [Traditional RAG vs Agentic RAG: How AI is Learning to Think for Itself](https://dev.to/aquibpy/traditional-rag-vs-agentic-rag-how-ai-is-learning-to-think-for-itself-g0h)
-- [Understanding and Addressing Self-Harm in Adolescents](https://dev.to/_2c78f2211e58fb9c5f4cf/understanding-and-addressing-self-harm-in-adolescents-34e2)
-- [Throwing The TEE Gauntlet - A Turnabout Security Challenge](https://dev.to/dc600/throwing-the-tee-gauntlet-a-turnabout-security-challenge-41jf)
-- [Chrome DevTools MCP Server Guide](https://dev.to/this-is-angular/chrome-devtools-mcp-server-guide-24fa)
+- [FTC Safeguards Rule: MFA Compliance for Non-Bank Financial Institutions](https://dev.to/corbado/ftc-safeguards-rule-mfa-compliance-for-non-bank-financial-institutions-3koe)
+- [The Only SaaS Metrics That Actually Matter &lpar;and How to Track Them Right&rpar;](https://dev.to/sonu_goswami/the-only-saas-metrics-that-actually-matter-and-how-to-track-them-right-3mk5)
+- [Why Personal Trainers Need a Website With Booking Tools in 2025](https://dev.to/kamruljpi/why-personal-trainers-need-a-website-with-booking-tools-in-2025-5hc7)
+- [Article 3: 🛠️ Starting from Scratch! A Detailed Guide to the Freqtrade `download-data` Command and Docker Usage](https://dev.to/itrade_icu_ae8778833e3e8c/article-3-starting-from-scratch-a-detailed-guide-to-the-freqtrade-download-data-command-and-2b8d)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-hcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
