@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Things to do when bored for parents at a party](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-parents-at-a-party-2b35)
-- [Things to do when bored for college students when you are camping](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-college-students-when-you-are-camping-48c8)
-- [Things to do when bored for seniors in the office](https://dev.to/trang_khanh_1a4456cf74e34/things-to-do-when-bored-for-seniors-in-the-office-5bjc)
-- [Things to do when bored for kids in a city](https://dev.to/trang_khanh_1a4456cf74e34/things-to-do-when-bored-for-kids-in-a-city-1280)
-- [Released Test2::Plugin::SubtestFilter which filters tests by subtest name.](https://dev.to/kfly8/released-test2pluginsubtestfilter-which-filters-tests-by-subtest-name-18mh)
+- [Slaydover: Responsive Overlay &amp; Drawer Component for Vue and Nuxt](https://dev.to/jqueryscript/slaydover-responsive-overlay-drawer-component-for-vue-and-nuxt-1i63)
+- [How to Structure Your Spring Boot Project for Clean, Scalable Code](https://dev.to/hbetabessi/how-to-structure-your-spring-boot-project-for-clean-scalable-code-2oha)
+- [Understanding the Repomix Compress Feature](https://dev.to/oleksandrakordonets/code-reading-analysis-understanding-the-repomix-compress-feature-264p)
+- [Integración PayPal-NEQUI: Análisis Técnico y Arquitectura de Pagos](https://dev.to/huyen_hanhpham_11b4f63234/integracion-paypal-nequi-analisis-tecnico-y-arquitectura-de-pagos-6hh)
+- [Finding and Updating Items in React Arrays](https://dev.to/philrez/finding-and-updating-items-in-react-arrays-4afa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
