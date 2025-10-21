@@ -120,11 +120,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Remote Job Hunt: Action‑Ready Strategies for Landing Your Next Role From Anywhere 🌍](https://dev.to/stormdjent/mastering-the-remote-job-hunt-action-ready-strategies-for-landing-your-next-role-from-anywhere-15fc)
-- [what are template literals types and what are template literals?](https://dev.to/omkar_garde_c2555540edf29/what-are-template-literals-types-and-what-are-template-literals-5e22)
-- [⚡️One click, dozens of API tests: can AI finally end the case-writing?](https://dev.to/fallon_jimmy/one-click-dozens-of-api-tests-can-ai-finally-end-the-case-writing-1m97)
-- [The Future Is Walkable: How to Design Streets, Apps, and Policies That Put People First](https://dev.to/sonia_bobrik_1939cdddd79d/the-future-is-walkable-how-to-design-streets-apps-and-policies-that-put-people-first-1oh1)
-- [SQL Query Optimization for Beginners](https://dev.to/kurmapu_hymavathi_9e47877/sql-query-optimization-for-beginners-548a)
+- [SendGrid Killed Their Free Plan So I Built a $1/Month SendGrid Alternative Instead](https://dev.to/babu_munavarbasha/sendgrid-killed-their-free-plan-so-i-built-a-1month-sendgrid-alternative-instead-5750)
+- [Complete guide for router and controller with debugging](https://dev.to/nimra_kosar_9885e391ac9a2/complete-guide-for-router-and-controller-with-debugging-kp9)
+- [Writing Your First LLVM Plugin Pass: Counting Add Instructions](https://dev.to/cppchedy/writing-your-first-llvm-plugin-pass-add-instruction-counter-25ib)
+- [Radial Explosion Zoom Gallery Effect](https://dev.to/prahalad/radial-explosion-zoom-gallery-effect-4fg5)
+- [i18n Check: Tips &amp; Tricks for Comparing Localization Files](https://dev.to/this-is-learning/i18n-check-tips-tricks-for-comparing-localization-files-2mih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
