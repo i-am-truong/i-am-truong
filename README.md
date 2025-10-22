@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Hype: 5 Counter-Intuitive Truths About AI from Andrej Karpathy](https://dev.to/amananandrai/beyond-the-hype-5-counter-intuitive-truths-about-ai-from-andrej-karpathy-afk)
 - [What better way to understand deeply media apis provided by modern browsers than to build something cool?](https://dev.to/professor12/what-better-way-to-understand-deeply-media-apis-provided-by-modern-browsers-than-to-build-something-1733)
 - [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-395)
+- [Testing Oxide CMS to Dev.to Integration](https://dev.to/richet/testing-oxide-cms-to-devto-integration-2o6k)
 - [The Hidden Bottleneck in AI Development &lpar;and How We Removed It&rpar;](https://dev.to/buildwithxano/the-hidden-bottleneck-in-ai-development-and-how-we-removed-it-3kg8)
-- [How to Change a Logged-In User’s Password and Log Out All Active Sessions in Supabase](https://dev.to/shams_farabii/how-to-change-a-logged-in-users-password-and-log-out-all-active-sessions-in-supabase-429d)
-- [How I added Parallel Routing to React Router v6 — Introducing parallel-router 🚀](https://dev.to/imsalekin/how-i-added-parallel-routing-to-react-router-v6-introducing-parallel-router-30aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
