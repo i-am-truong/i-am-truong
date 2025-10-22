@@ -119,10 +119,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Delete N Nodes After M Nodes of a Linked List](https://dev.to/we_are_broken_compilers/delete-n-nodes-after-m-nodes-of-a-linked-list-2h71)
 - [The Magic Behind Instant Lookups: Understanding Hashing and Java&#39;s HashMap](https://dev.to/gurpreet_d921f9fff6fa7442/the-magic-behind-instant-lookups-understanding-hashing-and-javas-hashmap-16ab)
 - [🚀 How I Built My Developer Portfolio — and What I Learned Along the Way](https://dev.to/nithiin7/how-i-built-my-developer-portfolio-and-what-i-learned-along-the-way-2bea)
 - [Genesis DB MCP Server: AI meets Event Sourcing - a love story](https://dev.to/patriceckhart/genesis-db-mcp-server-ai-meets-event-sourcing-a-love-story-224e)
-- [otonomalabs.com](https://dev.to/otonoma-dev/otonomalabscom-15ec)
 - [How I was naive in my job hunt](https://dev.to/amandamayfield/how-i-was-naive-in-my-job-hunt-4k4)
 <!-- BLOG-POST-LIST:END -->
 
