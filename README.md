@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How the Model Context Protocol Turns Your LLM From a Digital Oracle Into a Local Agent](https://dev.to/onlineproxy/how-the-model-context-protocol-turns-your-llm-from-a-digital-oracle-into-a-local-agent-43d3)
-- [Kubernetes Storage: Trading a Ferrari for a Reliable Minivan.](https://dev.to/adebayoomolumo/kubernetes-storage-trading-a-ferrari-for-a-reliable-minivan-4hfg)
-- [React &lt;Activity /&gt; component](https://dev.to/sensorario/react-component-26h3)
-- [8 Things You Should Know About Responsive Web Design](https://dev.to/rafsan-jany-ratul/8-things-you-should-know-about-responsive-web-design-34g2)
-- [Learning](https://dev.to/maccus440/learning-2i14)
+- [The Best Vegetarian Sources of Protein](https://dev.to/nutritionthree/the-best-vegetarian-sources-of-protein-7hp)
+- [Servo: The Exp Web Browser Engine Written in Rust](https://dev.to/lovestaco/servo-the-exp-web-browser-engine-written-in-rust-4ehe)
+- [Δυναμική Εφαρμογή Επιχειρησιακών Κανόνων σε C# με JSON και Func](https://dev.to/__b63657/dunamike-epharmoge-epikheiresiakon-kanonon-se-c-me-json-kai-func-46ml)
+- [Designing the User Experience](https://dev.to/eliona_salihu_08d2b246767/designing-the-user-experience-4fj8)
+- [The Beginning of Event Hub 2025](https://dev.to/eliona_salihu_08d2b246767/the-beginning-of-event-hub-2025-4i2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
