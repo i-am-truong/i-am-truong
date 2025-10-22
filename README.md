@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Analysis &amp; Visualization with Python: Bank Marketing Dataset Tutorial &lpar;Part 1&rpar;](https://dev.to/franklinmayoyo/data-analysis-visualization-with-python-bank-marketing-dataset-tutorial-part-1-4jj)
+- [Java Try-With-Resources: Stop Messy Code &amp; Master Clean Resource Management](https://dev.to/satyam_gupta_0d1ff2152dcc/java-try-with-resources-stop-messy-code-master-clean-resource-management-b85)
+- [Automating MySQL Backups and Imports in Laravel with Artisan Commands](https://dev.to/edgaras/automating-mysql-backups-and-imports-in-laravel-with-artisan-commands-1fcn)
 - [Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh)
 - [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
-- [What Are the Common Risks Businesses Face and How Can Risk Management Keep You Compliant?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-common-risks-businesses-face-and-how-can-risk-management-keep-you-compliant-444)
-- [[Boost]](https://dev.to/adamthedeveloper/-mj8)
-- [A Runtime-Typed Reference-Counted Smart Pointer and Concurrent Programming tools.](https://dev.to/sh1zen/a-runtime-typed-reference-counted-smart-pointer-and-concurrent-programming-tools-5anh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
