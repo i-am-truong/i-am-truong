@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Networking: Transit Gateway](https://dev.to/aws-builders/aws-networking-transit-gateway-g4c)
-- [The Ultimate Guide to Offline API Testing: 10 Tools That Work Without Internet](https://dev.to/apilover/the-ultimate-guide-to-offline-api-testing-10-tools-that-work-without-internet-pka)
-- [🌕 How I Used Perplexity + Comet Browser to Watch the Moon Landing—AI Did It All for Me!](https://dev.to/nish2005karsh/how-i-used-perplexity-comet-browser-to-watch-the-moon-landing-ai-did-it-all-for-me-187p)
-- [Hi, I was a codeschool dropout](https://dev.to/codeschooldropout/hi-i-was-a-codeschool-dropout--1n11)
-- [How TeeChart for .NET Helps Walter + Bai Visualize the Strength of Materials](https://dev.to/steema/how-teechart-for-net-helps-walter-bai-visualize-the-strength-of-materials-nmh)
+- [Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh)
+- [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
+- [What Are the Common Risks Businesses Face and How Can Risk Management Keep You Compliant?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-common-risks-businesses-face-and-how-can-risk-management-keep-you-compliant-444)
+- [[Boost]](https://dev.to/adamthedeveloper/-mj8)
+- [A Runtime-Typed Reference-Counted Smart Pointer and Concurrent Programming tools.](https://dev.to/sh1zen/a-runtime-typed-reference-counted-smart-pointer-and-concurrent-programming-tools-5anh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
