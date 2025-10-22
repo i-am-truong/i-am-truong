@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How the Model Context Protocol Turns Your LLM From a Digital Oracle Into a Local Agent](https://dev.to/onlineproxy/how-the-model-context-protocol-turns-your-llm-from-a-digital-oracle-into-a-local-agent-43d3)
+- [Kubernetes Storage: Trading a Ferrari for a Reliable Minivan.](https://dev.to/adebayoomolumo/kubernetes-storage-trading-a-ferrari-for-a-reliable-minivan-4hfg)
 - [React &lt;Activity /&gt; component](https://dev.to/sensorario/react-component-26h3)
 - [8 Things You Should Know About Responsive Web Design](https://dev.to/rafsan-jany-ratul/8-things-you-should-know-about-responsive-web-design-34g2)
 - [Learning](https://dev.to/maccus440/learning-2i14)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4nfj)
-- [Spring Boot Database Connection — From JDBC to Production Best Practices](https://dev.to/gaurbprajapati/spring-boot-database-connection-from-jdbc-to-production-best-practices-3n07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
