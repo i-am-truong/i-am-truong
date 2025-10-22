@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Release: The Complete Dashboard Template for Modern Angular Applications](https://dev.to/ngmaterialdev/new-release-the-complete-dashboard-template-for-modern-angular-applications-11ho)
 - [AWS Outage of October 2025: How a DNS Failure Brought the Internet to a Standstill](https://dev.to/shivakshi_rawat_e69cf6990/aws-outage-of-october-2025-how-a-dns-failure-brought-the-internet-to-a-standstill-59g3)
 - [Common Challenges in TDD Software Testing and How to Overcome Them](https://dev.to/carl_max007/common-challenges-in-tdd-software-testing-and-how-to-overcome-them-1ilp)
 - [MCGS-MSME for Women Entrepreneurs: Building Financial Access Through Smart Credit Design](https://dev.to/gov01/mcgs-msme-for-women-entrepreneurs-building-financial-access-through-smart-credit-design-3fb4)
 - [Build Your Own AWS DevOps CLI with Python &amp; Boto3](https://dev.to/aws-builders/build-your-own-aws-devops-cli-with-python-boto3-1cbc)
-- [Integrating Amazon EFS with Amazon EKS Using Terraform](https://dev.to/santanu_das_b3cbe9395d510/integrating-amazon-efs-with-amazon-eks-using-terraform-4f5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
