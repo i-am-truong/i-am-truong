@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Khủng hoảng nghề nghiệp tuổi 30](https://dev.to/kelvynthai/khung-hoang-nghe-nghiep-tuoi-30-1e8g)
-- [El lenguaje de programación perfecto](https://dev.to/baltasarq/el-lenguaje-de-programacion-perfecto-2e1l)
-- [Machine Learning Zoomcamp Week 4](https://dev.to/ladys/machine-learning-zoomcamp-week-4-5cil)
-- [Realtime Event-Driven Applications with AppSync Events and EventBridge Pipes](https://dev.to/ianbrumby/-49io)
-- [AI Scoring Agent Behavior: The Good, The Bad, and The Ugly](https://dev.to/jessesbyers/ai-scoring-agent-behavior-the-good-the-bad-and-the-ugly-281l)
+- [[Help] How to collect multi-platform game pricing data &lpar;Steam, PlayStation, Nintendo eShop&rpar;](https://dev.to/hyeongkeun_park_1da913a46/help-how-to-collect-multi-platform-game-pricing-data-steam-playstation-nintendo-eshop-je9)
+- [We started a new routine called &#39;highs and lows&#39; to get our kids to open up more!](https://dev.to/jess/we-started-a-new-routine-called-highs-and-lows-to-get-our-kids-to-open-up-more-3dd8)
+- [Building an Automated Data Pipeline: Injuries vs Performance in the Premier League](https://dev.to/james_kariuki/building-an-automated-data-pipeline-injuries-vs-performance-in-the-premier-league-53c7)
+- [The Top &quot;Contrarian&quot; JavaScript Frameworks](https://dev.to/dariomannu/3-contrarian-js-frameworks-58fm)
+- [What if GraphQL Was Your Database?](https://dev.to/flyingrobots/what-if-graphql-was-your-database-2ekc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
