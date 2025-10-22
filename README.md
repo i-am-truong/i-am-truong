@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Timestamp Difference between shutdown and systemctl poweroff](https://dev.to/mkt/understanding-timestamp-difference-between-shutdown-and-systemctl-poweroff-4a5l)
-- [🚀 Simplify ZKTeco Biometric Device Integration in PHP — No SDK Needed!](https://dev.to/mrzstack/simplify-zkteco-biometric-device-integration-in-php-no-sdk-needed-5f9b)
-- [Beyond Human Bias](https://dev.to/vesta12389/beyond-human-bias-230c)
-- [Build a Portfolio That Wins Real Opportunities](https://dev.to/sonia_bobrik_1939cdddd79d/build-a-portfolio-that-wins-real-opportunities-52ad)
-- [Run n8n Locally with Google Sign-In Authentication](https://dev.to/lightningdev123/run-n8n-locally-with-google-sign-in-authentication-gbe)
+- [Create systemd unit timers](https://dev.to/agonza05/create-systemd-unit-timers-3ble)
+- [Why Application Performance Monitoring &lpar;APM&rpar; Should Be Your DevOps Priority?](https://dev.to/olivia_madison_b0ad7090ad/why-application-performance-monitoring-apm-should-be-your-devops-priority-51oi)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-2j83)
+- [how i built a remote linux dev environment [homelab series p1]](https://dev.to/ashercarneiro/how-i-built-a-remote-linux-dev-environment-homelab-series-p1-114f)
+- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-394p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
