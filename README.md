@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A tiny Spring Boot &#39;profile&#39; microservice — Stage‑0 HNG backend](https://dev.to/sherif_san/a-tiny-spring-boot-profile-microservice-stage-0-hng-backend-26k1)
-- [The Centralized Core of Decentralization: Rethinking Web3’s Infrastructure](https://dev.to/rohit_bhardwaj_94db62db7b/the-centralized-core-of-decentralization-rethinking-web3s-infrastructure-40da)
-- [Stop Waiting for the Alarm: Why You Need to Go Hunting for Hackers Yourself](https://dev.to/terminaltools/stop-waiting-for-the-alarm-why-you-need-to-go-hunting-for-hackers-yourself-2ef0)
-- [Advanced Query Capabilities 👉🏻 aggregation pipelines](https://dev.to/franckpachot/advanced-query-capabilities-aggregation-pipelines-137m)
-- [Why Zig + Qt Feels Like Doing the Impossible Right](https://dev.to/dayvster/why-zig-qt-feels-like-doing-the-impossible-right-2ibn)
+- [React &lt;Activity /&gt; component](https://dev.to/sensorario/react-component-26h3)
+- [8 Things You Should Know About Responsive Web Design](https://dev.to/rafsan-jany-ratul/8-things-you-should-know-about-responsive-web-design-34g2)
+- [Learning](https://dev.to/maccus440/learning-2i14)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4nfj)
+- [Spring Boot Database Connection — From JDBC to Production Best Practices](https://dev.to/gaurbprajapati/spring-boot-database-connection-from-jdbc-to-production-best-practices-3n07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
