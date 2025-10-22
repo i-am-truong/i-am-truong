@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding npm Versioning: A Guide to Semantic Versioning and Version Operators](https://dev.to/geraldhamiltonwicks/understanding-npm-versioning-a-guide-to-semantic-versioning-and-version-operators-5mn)
 - [Announcing Kiponos Python SDK v0.1.2: Real-Time Config as a Service for Python Developers](https://dev.to/kiponos/announcing-kiponos-python-sdk-v012-real-time-config-as-a-service-for-python-developers-2nd8)
 - [Building Crypto Bot](https://dev.to/vasto_lorde/building-crypto-bot-201m)
+- [Hello, Dev.to — I&#39;m aash0x 🌙](https://dev.to/aash0x/hello-devto-im-aash0x-42b4)
 - [Why Rust&#39;s Binary Protection Actually Matters &lpar;Yes, Even For You&rpar;](https://dev.to/dev-tngsh/why-rusts-binary-protection-actually-matters-yes-even-for-you-4f8g)
-- [Frontend architecture. Introduction.](https://dev.to/nefedov-dm/frontend-architecture-introduction-408f)
-- [Meta-Awareness Enhances Reasoning Models: Self-Alignment Reinforcement Learning](https://dev.to/paperium/meta-awareness-enhances-reasoning-models-self-alignment-reinforcement-learning-3ok0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
