@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Auth Explained &lpar;Part 1&rpar;: ID vs Access vs Refresh tokens — 🤔what they ACTUALLY do &lpar;and why localStorage is a trap&rpar;](https://dev.to/sylwia-lask/auth-explained-part-1-id-vs-access-vs-refresh-tokens-what-they-actually-do-and-why-2l1)
-- [How to Ensure Cross-Browser Compatibility With Open Source Testing Tools?](https://dev.to/sophielane/how-to-ensure-cross-browser-compatibility-with-open-source-testing-tools-371c)
-- [The Return of Assembly: When LLMs No Longer Need High-Level Languages](https://dev.to/ionionascu/the-return-of-assembly-when-llms-no-longer-need-high-level-languages-1dak)
-- [DOCKER RUN İLE SSL SERTİFİKALI KEYCLOAK KURMA](https://dev.to/emine_nurarc_ca7d62402/docker-run-ile-ssl-sertifikali-keycloak-kurma-38e4)
-- [Simple queue system](https://dev.to/brendon_oneill__/simple-queue-system-1lnk)
+- [From 3 Hours of Debugging to 8 Lines of Code: How I Built and Upgraded OpenLoom for Java File I/O](https://dev.to/raghul-tech/from-3-hours-of-debugging-to-8-lines-of-code-how-i-built-and-upgraded-openloom-for-java-file-io-1bn8)
+- [This Free Rails Pre-Upgrade Checklist Might Save Your Next Release](https://dev.to/raisa_kanagaraj/this-free-rails-pre-upgrade-checklist-might-save-your-next-release-cl2)
+- [Premium Courses You Can Access for Free as a Student](https://dev.to/connectalamin/premium-courses-you-can-access-for-free-as-a-student-37lh)
+- [How to Duplicate Pages in a PDF in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-duplicate-pages-in-a-pdf-in-java-tutorial-4i87)
+- [Copilot Premium Requests—More Than Asked, Exactly What You Need 💸](https://dev.to/anchildress1/copilot-premium-requests-more-than-asked-exactly-what-you-need-8ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
