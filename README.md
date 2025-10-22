@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Frappe/ERPNext on Windows with WSL — A Web Developer’s Perspective](https://dev.to/aditorito/running-frappeerpnext-on-windows-with-wsl-a-web-developers-perspective-2ami)
+- [Using Claude Code with GitHub Copilot Subscription](https://dev.to/allentcm/using-claude-code-with-github-copilot-subscription-2obj)
+- [Open-Source Cypress Testing Project – 40+ UI Test Cases!](https://dev.to/masaid_zeb_a57995c342d96b/open-source-cypress-testing-project-40-ui-test-cases-3d76)
 - [New universal drivers for IoT Platform](https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe)
 - [Build and push Docker images to Amazon ECR using Terraform](https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67)
-- [#2 Lexical Scoping &amp;&amp; Closure in JavaScript --](https://dev.to/mithukr/2-lexical-scoping-closure-in-javascript--48pa)
-- [Translating Requirements into Test Plan &amp; Strategy: My HNGi13 QA Journey](https://dev.to/amidat_sule_6ba4feb8bcbe2/translating-requirements-into-test-plan-strategy-my-hngi13-qa-journey-59hc)
-- [Bryan Bros Golf: We Took Jason Day to a 1 Star Course](https://dev.to/youtube_golf/bryan-bros-golf-we-took-jason-day-to-a-1-star-course-235j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
