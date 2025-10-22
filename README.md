@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [US-East-1: When the Titanic Sinks](https://dev.to/solegaonkar/us-east-1-when-the-titanic-sinks-hie)
+- [Ok RAG, but what about data extraction from documents?](https://dev.to/andev789/ok-rag-but-what-about-data-extraction-from-documents-5d94)
+- [How to Start a Front Software Project from Scratch &lpar;in less than 5 minutes&rpar;](https://dev.to/naur_io/how-to-start-a-software-project-from-scratch-in-less-than-5-minutes-2d31)
+- [CVE-2025-61932: Motex LANSCOPE Endpoint Manager Improper Verification of Source of a Communication Channel Vulnerability](https://dev.to/freedom-coder/cve-2025-61932-motex-lanscope-endpoint-manager-improper-verification-of-source-of-a-communication-3ab7)
 - [Why Your GitHub Commits Are A Goldmine For Social Media &lpar;But You&#39;re Doing It Wrong&rpar;](https://dev.to/brilliantmakanju/why-your-github-commits-are-a-goldmine-for-social-media-but-youre-doing-it-wrong-3j2)
-- [Modules, and Java, and Windows, Oh My!](https://dev.to/leeca/modules-and-java-and-windows-oh-my-2o94)
-- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-4d3h)
-- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-40fb)
-- [Building Custom Elementor Widgets with React &amp; the WordPress REST API — a Practical Guide](https://dev.to/nimafadaei/building-custom-elementor-widgets-with-react-the-wordpress-rest-api-a-practical-guide-3m2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
