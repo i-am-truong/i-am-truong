@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What better way to understand deeply media apis provided by modern browsers than to build something cool?](https://dev.to/professor12/what-better-way-to-understand-deeply-media-apis-provided-by-modern-browsers-than-to-build-something-1733)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-395)
+- [The Hidden Bottleneck in AI Development &lpar;and How We Removed It&rpar;](https://dev.to/buildwithxano/the-hidden-bottleneck-in-ai-development-and-how-we-removed-it-3kg8)
+- [How to Change a Logged-In User’s Password and Log Out All Active Sessions in Supabase](https://dev.to/shams_farabii/how-to-change-a-logged-in-users-password-and-log-out-all-active-sessions-in-supabase-429d)
 - [How I added Parallel Routing to React Router v6 — Introducing parallel-router 🚀](https://dev.to/imsalekin/how-i-added-parallel-routing-to-react-router-v6-introducing-parallel-router-30aj)
-- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-49o5)
-- [From Dev to DevOps](https://dev.to/leading-edje/from-dev-to-devops-ib2)
-- [Monólito vs Microsserviços: Quando Usar Cada Arquitetura](https://dev.to/alexnicolascode/monolito-vs-microsservicos-quando-usar-cada-arquitetura-o0n)
-- [Python basics - Day 12](https://dev.to/ian_b838138a27a917398d181/python-basics-day-12-53kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
