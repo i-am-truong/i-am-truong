@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Modify Docker-Compose.Yaml](https://dev.to/lagat_josiah_f024a2c855bc/why-modify-docker-composeyaml-88c)
-- [How to UNDO a GIT PUSH FORCE?](https://dev.to/pierre/how-to-undo-a-git-push-force-3ijo)
-- [MariaDB User? Share Your Experience in Community Survey](https://dev.to/robert_silen_mariadb/mariadb-users-share-your-experience-in-community-survey-37he)
-- [How to Set Up Google Analytics 4 &lpar;GA4&rpar; for Your Website in 10 Minutes](https://dev.to/jijo_jose_59033fd633c1504/how-to-set-up-google-analytics-4-ga4-for-your-website-in-10-minutes-58o7)
-- [The Day the Internet Broke: 4 Critical Lessons from the 2025 AWS Crash and the New Web It Inspired](https://dev.to/web4/the-day-the-internet-broke-4-critical-lessons-from-the-2025-aws-crash-and-the-new-web-it-inspired-4ai8)
+- [@Value Annotation in Spring boot](https://dev.to/gaurbprajapati/value-annotation-in-spring-boot-1clf)
+- [Angular Library Linking Made Easy: Paths, Workspaces, and Symlinks](https://dev.to/sumthedeveloperwastaken/angular-library-linking-made-easy-paths-workspaces-and-symlinks-284d)
+- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-2oal)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-l7h)
+- [Goliat Dashboard: Mi nueva aventura en la gestión de recursos Cloud](https://dev.to/danieljsaldana/goliat-dashboard-mi-nueva-aventura-en-la-gestion-de-recursos-cloud-27gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
