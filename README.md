@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Flame of Creation](https://dev.to/anticoder03/the-flame-of-creation-bcj)
+- [My Java / Spring Boot Journey — Part 1 &lpar;Containerized App with Hot Reload&rpar;](https://dev.to/jackfajardo/my-java-spring-boot-journey-part-1-containerized-app-with-hot-reload-4p71)
+- [🚀 EngageSwap — A Free Platform to Promote Your Website and Earn Coins](https://dev.to/md_abubakar_bec10fd88e289/engageswap-a-free-platform-to-promote-your-website-and-earn-coins-51d8)
+- [Block AI Scrapers with SafeLine](https://dev.to/carrie_luo1/block-ai-scrapers-with-safeline-3ce5)
 - [🧠 Two “AllowedHosts” Every Developer Should Know](https://dev.to/kleinhouzin/two-allowedhosts-every-developer-should-know-ehe)
-- [Optimistic Superposition: A Quantum Leap for AI?](https://dev.to/arvind_sundararajan/optimistic-superposition-a-quantum-leap-for-ai-4me3)
-- [Welcome Thread - v348](https://dev.to/devteam/welcome-thread-v348-29i2)
-- [How to use a non-mac mouse to move between spaces and open Mission Control on MacOS](https://dev.to/husteadrobert/how-to-use-a-non-mac-mouse-to-move-between-spaces-and-open-mission-control-on-macos-3pe7)
-- [Banana Pi — Como Habilitar o SSH no Raspbian](https://dev.to/henriqueotogami/banana-pi-como-habilitar-o-ssh-no-raspbian-15n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
