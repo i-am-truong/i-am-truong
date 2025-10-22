@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Addressing Limitations in Azure Storage Mover](https://dev.to/piya__c204c9e90/addressing-limitations-in-azure-storage-mover-2bpi)
-- [⚠️ Warning: The &quot;Overfitting to a Single Data Point&quot; Pitfall](https://dev.to/drcarlosruizviquez/warning-the-overfitting-to-a-single-data-point-pitfall-1i3e)
-- [**A Solar Revolution from Space: How AI-Driven Space-Based S](https://dev.to/drcarlosruizviquez/a-solar-revolution-from-space-how-ai-driven-space-based-s-4dlo)
-- [How to control the log level of application](https://dev.to/naimulkarim/how-to-control-the-log-level-of-application-139g)
-- [Como construí um Sistema de Controle Financeiro usando APENAS S3 &lpar;sem PostgreSQL!&rpar;](https://dev.to/mcruvinel/como-construi-um-sistema-de-controle-financeiro-usando-apenas-s3-sem-postgresql-2iec)
+- [Are Large Language Models the Steam Engine of My Time? And, if so, am I the John Henry of this tale?](https://dev.to/skullzarmy/are-large-language-models-the-steam-engine-of-my-time-and-if-so-am-i-the-john-henry-of-this-tale-45gi)
+- [The Stained-Glass Artisan: Composing UIs with Turbo Frames](https://dev.to/alex_aslam/the-stained-glass-artisan-composing-uis-with-turbo-frames-171f)
+- [Day 1256 : Place To Be](https://dev.to/dwane/day-1256-place-to-be-1mj9)
+- [The Cartographer&#39;s Guide to Rails: Mapping Domains with Bounded Contexts](https://dev.to/alex_aslam/the-cartographers-guide-to-rails-mapping-domains-with-bounded-contexts-4982)
+- [The Artisan&#39;s Trail: Maintaining a Legacy Node.js Monolith with the Boy Scout Rule](https://dev.to/alex_aslam/the-artisans-trail-maintaining-a-legacy-nodejs-monolith-with-the-boy-scout-rule-pnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
