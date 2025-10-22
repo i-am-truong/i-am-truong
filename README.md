@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Best Self-Hosted Web Application Firewalls &lpar;WAFs&rpar; in 2026](https://dev.to/carrie_luo1/the-best-self-hosted-web-application-firewalls-wafs-in-2026-4gnj)
-- [Polymorphic Relationships Matter &lpar;and My ADHD Agrees&rpar;](https://dev.to/develaper/polymorphic-relationships-matter-and-my-adhd-agrees-236f)
-- [📯Introducing CUGA](https://dev.to/aairom/introducing-cuga-1p3k)
-- [Unraveling the Power of API Design: Best Practices for Developers](https://dev.to/mikeover/unraveling-the-power-of-api-design-best-practices-for-developers-40g1)
-- [Webinar: Embed eSignature Workflows in Your .NET App](https://dev.to/boldsign/webinar-embed-esignature-workflows-in-your-net-app-56cd)
+- [🚨 Why Production-Grade Logging Isn’t Optional: A Technical Deep Dive 🔍](https://dev.to/ajayagrawal/why-production-grade-logging-isnt-optional-a-technical-deep-dive-1m93)
+- [The 24-Hour SaaS Breach Playbook, Powered by AI &lpar;But Rooted in Operational Discipline&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-24-hour-saas-breach-playbook-powered-by-ai-but-rooted-in-operational-discipline-5c2m)
+- [Understanding Chrome Extensions: A Developer&#39;s Guide to Manifest V3](https://dev.to/javediqbal8381/understanding-chrome-extensions-a-developers-guide-to-manifest-v3-233l)
+- [C#: Split Excel Worksheet into Multiple Files](https://dev.to/yahey/c-split-excel-worksheet-into-multiple-files-4gk4)
+- [Convert PDF to Excel Using Python: The Smart Way to Automate Data Extraction](https://dev.to/jelizaveta/convert-pdf-to-excel-using-python-the-smart-way-to-automate-data-extraction-229m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
