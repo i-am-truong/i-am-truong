@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [@Value Annotation in Spring boot](https://dev.to/gaurbprajapati/value-annotation-in-spring-boot-1clf)
-- [Angular Library Linking Made Easy: Paths, Workspaces, and Symlinks](https://dev.to/sumthedeveloperwastaken/angular-library-linking-made-easy-paths-workspaces-and-symlinks-284d)
-- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-2oal)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-l7h)
-- [Goliat Dashboard: Mi nueva aventura en la gestión de recursos Cloud](https://dev.to/danieljsaldana/goliat-dashboard-mi-nueva-aventura-en-la-gestion-de-recursos-cloud-27gc)
+- [Polymorphic Relationships Matter &lpar;and My ADHD Agrees&rpar;](https://dev.to/develaper/polymorphic-relationships-matter-and-my-adhd-agrees-236f)
+- [📯Introducing CUGA](https://dev.to/aairom/introducing-cuga-1p3k)
+- [Unraveling the Power of API Design: Best Practices for Developers](https://dev.to/mikeover/unraveling-the-power-of-api-design-best-practices-for-developers-40g1)
+- [Webinar: Embed eSignature Workflows in Your .NET App](https://dev.to/boldsign/webinar-embed-esignature-workflows-in-your-net-app-56cd)
+- [My First Deep Dive into DSA: Solving Problems Step by Step](https://dev.to/lakshmi_meghanachennupal/my-first-deep-dive-into-dsa-solving-problems-step-by-step-l3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
