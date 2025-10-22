@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Building Memarya: A Free, Open-Source E-Learning](https://dev.to/dawaman43/im-building-memarya-a-free-open-source-e-learning-17i6)
-- [Save time by turning your daily messages into smart shortcuts 🚀](https://dev.to/slashitapp/save-time-by-turning-your-daily-messages-into-smart-shortcuts-2ngp)
-- [How to Solve Top Coding Algorithm Questions Fast in 2025?](https://dev.to/cristianalex_17/how-to-solve-top-coding-algorithm-questions-fast-in-2025-16mn)
-- [Evaluating KNN: From Training Field to Scoreboard](https://dev.to/julielinx/evaluating-knn-from-training-field-to-scoreboard-4o5j)
-- [logger in storybook codebase.](https://dev.to/ramunarasinga-11/logger-in-storybook-codebase-6la)
+- [How I added Parallel Routing to React Router v6 — Introducing parallel-router 🚀](https://dev.to/imsalekin/how-i-added-parallel-routing-to-react-router-v6-introducing-parallel-router-30aj)
+- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-49o5)
+- [From Dev to DevOps](https://dev.to/leading-edje/from-dev-to-devops-ib2)
+- [Monólito vs Microsserviços: Quando Usar Cada Arquitetura](https://dev.to/alexnicolascode/monolito-vs-microsservicos-quando-usar-cada-arquitetura-o0n)
+- [Python basics - Day 12](https://dev.to/ian_b838138a27a917398d181/python-basics-day-12-53kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
