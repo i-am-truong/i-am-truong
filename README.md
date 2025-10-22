@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Flame of Creation](https://dev.to/anticoder03/the-flame-of-creation-bcj)
-- [My Java / Spring Boot Journey — Part 1 &lpar;Containerized App with Hot Reload&rpar;](https://dev.to/jackfajardo/my-java-spring-boot-journey-part-1-containerized-app-with-hot-reload-4p71)
-- [🚀 EngageSwap — A Free Platform to Promote Your Website and Earn Coins](https://dev.to/md_abubakar_bec10fd88e289/engageswap-a-free-platform-to-promote-your-website-and-earn-coins-51d8)
-- [Block AI Scrapers with SafeLine](https://dev.to/carrie_luo1/block-ai-scrapers-with-safeline-3ce5)
-- [🧠 Two “AllowedHosts” Every Developer Should Know](https://dev.to/kleinhouzin/two-allowedhosts-every-developer-should-know-ehe)
+- [Blockchain et Développement Sécurisé : Pourquoi les Développeurs Deviennent les Nouveaux Gardiens de la Confiance Numérique](https://dev.to/nicomiayo/blockchain-et-developpement-securise-pourquoi-les-developpeurs-deviennent-les-nouveaux-gardiens-4gjg)
+- [A Beginner’s Guide to Building a Complete Application: From Idea to Deployment](https://dev.to/mahmud-r-farhan/a-beginners-guide-to-building-a-complete-application-from-idea-to-deployment-mbb)
+- [Can We Tame the Beast? Royal Couple Joins Push for AI Superintelligenve Morat...](https://dev.to/mabualzait/can-we-tame-the-beast-royal-couple-joins-push-for-ai-superintelligenve-morat-5ek5)
+- [Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity](https://dev.to/shostarsson/reclaim-your-tech-why-microsofts-windows-10-eol-is-linuxs-golden-opportunity-6mh)
+- [Simplifying API Testing — Why Sometimes You Don’t Need Postman](https://dev.to/javediqbal8381/simplifying-api-testing-why-sometimes-you-dont-need-postman-598g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
