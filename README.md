@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Outage of October 2025: How a DNS Failure Brought the Internet to a Standstill](https://dev.to/shivakshi_rawat_e69cf6990/aws-outage-of-october-2025-how-a-dns-failure-brought-the-internet-to-a-standstill-59g3)
+- [Common Challenges in TDD Software Testing and How to Overcome Them](https://dev.to/carl_max007/common-challenges-in-tdd-software-testing-and-how-to-overcome-them-1ilp)
+- [MCGS-MSME for Women Entrepreneurs: Building Financial Access Through Smart Credit Design](https://dev.to/gov01/mcgs-msme-for-women-entrepreneurs-building-financial-access-through-smart-credit-design-3fb4)
 - [Build Your Own AWS DevOps CLI with Python &amp; Boto3](https://dev.to/aws-builders/build-your-own-aws-devops-cli-with-python-boto3-1cbc)
 - [Integrating Amazon EFS with Amazon EKS Using Terraform](https://dev.to/santanu_das_b3cbe9395d510/integrating-amazon-efs-with-amazon-eks-using-terraform-4f5l)
-- [Master Java Write to Files: A 2025 Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-write-to-files-a-2025-guide-for-developers-2lg6)
-- [Java Create Files: Your No-Fluff Guide to File Handling in 2025](https://dev.to/satyam_gupta_0d1ff2152dcc/java-create-files-your-no-fluff-guide-to-file-handling-in-2025-30ib)
-- [Data Analysis &amp; Visualization with Python: Bank Marketing Dataset Tutorial &lpar;Part 1&rpar;](https://dev.to/franklinmayoyo/data-analysis-visualization-with-python-bank-marketing-dataset-tutorial-part-1-4jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
