@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own AWS DevOps CLI with Python &amp; Boto3](https://dev.to/aws-builders/build-your-own-aws-devops-cli-with-python-boto3-1cbc)
+- [Integrating Amazon EFS with Amazon EKS Using Terraform](https://dev.to/santanu_das_b3cbe9395d510/integrating-amazon-efs-with-amazon-eks-using-terraform-4f5l)
+- [Master Java Write to Files: A 2025 Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-write-to-files-a-2025-guide-for-developers-2lg6)
+- [Java Create Files: Your No-Fluff Guide to File Handling in 2025](https://dev.to/satyam_gupta_0d1ff2152dcc/java-create-files-your-no-fluff-guide-to-file-handling-in-2025-30ib)
 - [Data Analysis &amp; Visualization with Python: Bank Marketing Dataset Tutorial &lpar;Part 1&rpar;](https://dev.to/franklinmayoyo/data-analysis-visualization-with-python-bank-marketing-dataset-tutorial-part-1-4jj)
-- [Java Try-With-Resources: Stop Messy Code &amp; Master Clean Resource Management](https://dev.to/satyam_gupta_0d1ff2152dcc/java-try-with-resources-stop-messy-code-master-clean-resource-management-b85)
-- [Automating MySQL Backups and Imports in Laravel with Artisan Commands](https://dev.to/edgaras/automating-mysql-backups-and-imports-in-laravel-with-artisan-commands-1fcn)
-- [Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh)
-- [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
