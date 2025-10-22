@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_4890a1e6/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-10ac)
-- [Evolution of Processing: SPL One-Click Acceleration for Log-to-Metric Conversion](https://dev.to/observabilityguy/evolution-of-processing-spl-one-click-acceleration-for-log-to-metric-conversion-2g5j)
-- [Day 4: Inserting Data and Basic CRUD Operations](https://dev.to/hardik_kanajariya/day-4-inserting-data-and-basic-crud-operations-3h04)
-- [ChatGPT Atlas](https://dev.to/technoblogger14o3/chatgpt-atlas-49eo)
-- [🌍 AI OS — The First Operating System Built by Humanity, for Humanity](https://dev.to/rohit19060/ai-os-the-first-operating-system-built-by-humanity-for-humanity-1okf)
+- [Which Graphics Card Is Best for Lumion 2025?](https://dev.to/irender_gpu_cloud/which-graphics-card-is-best-for-lumion-2025-1mja)
+- [Building a High-Quality Software Product: A Step-by-Step Guide](https://dev.to/defremont/building-a-high-quality-software-product-a-step-by-step-guide-5ff2)
+- [A Tribute to the Java Pioneers: You Built the Foundation We Stand On](https://dev.to/adamthedeveloper/a-tribute-to-the-java-pioneers-you-built-the-foundation-we-stand-on-1k30)
+- [Blockchain in 2025: Evolving Beyond Cryptocurrencies](https://dev.to/defremont/blockchain-in-2025-evolving-beyond-cryptocurrencies-185m)
+- [3347. Maximum Frequency of an Element After Performing Operations II](https://dev.to/mdarifulhaque/3347-maximum-frequency-of-an-element-after-performing-operations-ii-2nd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
