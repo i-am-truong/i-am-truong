@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Postman: The Unsung Hero of Everyday API Development](https://dev.to/nuccithegreat/postman-the-unsung-hero-of-everyday-api-development-273h)
-- [AlgoSync — a new social media platform for developers, founders, and tech creators](https://dev.to/kevv_ly/algosync-a-new-social-media-platform-for-developers-founders-and-tech-creators-1i6c)
-- [IntelliNode Generate HTML Pages Directly from the browser](https://dev.to/barqawiz/intellinode-generate-html-pages-directly-from-the-browser-3n9j)
-- [Dev Log 35 - Equip Hands Tooltips](https://dev.to/asx/dev-log-35-equip-hands-tooltips-2k51)
-- [API-First Development 2025 — The Future of Scalable Web Architecture](https://dev.to/sain_bux_dev/api-first-development-2025-the-future-of-scalable-web-architecture-mpn)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-gck)
+- [Como construí um Sistema de Controle Financeiro usando APENAS S3 &lpar;sem PostgreSQL!&rpar;](https://dev.to/mcruvinel/como-construi-um-sistema-de-controle-financeiro-usando-apenas-s3-sem-postgresql-2iec)
+- [Apache Doris 4.0: One Engine for Analytics, Full-Text Search, and Vector Search](https://dev.to/apachedoris/apache-doris-40-one-engine-for-analytics-full-text-search-and-vector-search-4g2o)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-311m)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1opg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
