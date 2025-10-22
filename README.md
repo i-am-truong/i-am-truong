@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing Oxide CMS to Dev.to Integration](https://dev.to/richet/testing-oxide-cms-to-devto-integration-3ba9)
-- [When Murphy Meets Terraform: The Tale of a Simple Guard That Saved My Friday](https://dev.to/mobilitydata/when-murphy-meets-terraform-the-tale-of-a-simple-guard-that-saved-my-friday-23gg)
-- [Decoupling at Scale: My Deep Dive into AWS Event-Driven Architecture &lpar;API Gateway, EventBridge, SQS&rpar;](https://dev.to/asimmakes/decoupling-at-scale-my-deep-dive-into-aws-event-driven-architecture-api-gateway-eventbridge-sqs-4a90)
-- [Windows in 2025 for Work and Creativity: How to Build a Fast, Secure, and Comfortable System](https://dev.to/_eb7ede481eac3d7c3/windows-in-2025-for-work-and-creativity-how-to-build-a-fast-secure-and-comfortable-system-1f0a)
-- [Going Beyond Accuracy: Understanding the Balanced Accuracy, Precision, Recall and F1-score.](https://dev.to/juniorcl/going-beyond-accuracy-understanding-the-balanced-accuracy-precision-recall-and-f1-score-4kl2)
+- [The Magic Behind Instant Lookups: Understanding Hashing and Java&#39;s HashMap](https://dev.to/gurpreet_d921f9fff6fa7442/the-magic-behind-instant-lookups-understanding-hashing-and-javas-hashmap-16ab)
+- [🚀 How I Built My Developer Portfolio — and What I Learned Along the Way](https://dev.to/nithiin7/how-i-built-my-developer-portfolio-and-what-i-learned-along-the-way-2bea)
+- [Genesis DB MCP Server: AI meets Event Sourcing - a love story](https://dev.to/patriceckhart/genesis-db-mcp-server-ai-meets-event-sourcing-a-love-story-224e)
+- [otonomalabs.com](https://dev.to/otonoma-dev/otonomalabscom-15ec)
+- [How I was naive in my job hunt](https://dev.to/amandamayfield/how-i-was-naive-in-my-job-hunt-4k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
