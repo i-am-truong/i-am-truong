@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From 3 Hours of Debugging to 8 Lines of Code: How I Built and Upgraded OpenLoom for Java File I/O](https://dev.to/raghul-tech/from-3-hours-of-debugging-to-8-lines-of-code-how-i-built-and-upgraded-openloom-for-java-file-io-1bn8)
-- [This Free Rails Pre-Upgrade Checklist Might Save Your Next Release](https://dev.to/raisa_kanagaraj/this-free-rails-pre-upgrade-checklist-might-save-your-next-release-cl2)
-- [Premium Courses You Can Access for Free as a Student](https://dev.to/connectalamin/premium-courses-you-can-access-for-free-as-a-student-37lh)
-- [How to Duplicate Pages in a PDF in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-duplicate-pages-in-a-pdf-in-java-tutorial-4i87)
-- [Copilot Premium Requests—More Than Asked, Exactly What You Need 💸](https://dev.to/anchildress1/copilot-premium-requests-more-than-asked-exactly-what-you-need-8ph)
+- [Beyond Prompts: Are AI Agents Like Auto-GPT the Future of Software Development?](https://dev.to/friesforlife/beyond-prompts-are-ai-agents-like-auto-gpt-the-future-of-software-development-13m8)
+- [Why Do We Use `target=&quot;_blank&quot;` Instead of Something Clearer Like `newTab=&quot;yes&quot;`?](https://dev.to/alaasyed_/why-do-we-use-targetblank-instead-of-something-clearer-like-newtabyes-1koc)
+- [PARE DE TESTAR SEU CÓDIGO DE FORMA BURRA](https://dev.to/danielcamucatto/pare-de-testar-seu-codigo-de-forma-burra-46i9)
+- [Make your feature specs 69%™ more stable](https://dev.to/epigene/make-your-feature-specs-69-more-stable-5dhp)
+- [RAG vs Memory for AI Agents: What’s the Difference](https://dev.to/bobur/rag-vs-memory-for-ai-agents-whats-the-difference-2ad0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
