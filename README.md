@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: 5 Counter-Intuitive Truths About AI from Andrej Karpathy](https://dev.to/amananandrai/beyond-the-hype-5-counter-intuitive-truths-about-ai-from-andrej-karpathy-afk)
-- [What better way to understand deeply media apis provided by modern browsers than to build something cool?](https://dev.to/professor12/what-better-way-to-understand-deeply-media-apis-provided-by-modern-browsers-than-to-build-something-1733)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-395)
-- [Testing Oxide CMS to Dev.to Integration](https://dev.to/richet/testing-oxide-cms-to-devto-integration-2o6k)
-- [The Hidden Bottleneck in AI Development &lpar;and How We Removed It&rpar;](https://dev.to/buildwithxano/the-hidden-bottleneck-in-ai-development-and-how-we-removed-it-3kg8)
+- [Testing Oxide CMS to Dev.to Integration](https://dev.to/richet/testing-oxide-cms-to-devto-integration-3ba9)
+- [When Murphy Meets Terraform: The Tale of a Simple Guard That Saved My Friday](https://dev.to/mobilitydata/when-murphy-meets-terraform-the-tale-of-a-simple-guard-that-saved-my-friday-23gg)
+- [Decoupling at Scale: My Deep Dive into AWS Event-Driven Architecture &lpar;API Gateway, EventBridge, SQS&rpar;](https://dev.to/asimmakes/decoupling-at-scale-my-deep-dive-into-aws-event-driven-architecture-api-gateway-eventbridge-sqs-4a90)
+- [Windows in 2025 for Work and Creativity: How to Build a Fast, Secure, and Comfortable System](https://dev.to/_eb7ede481eac3d7c3/windows-in-2025-for-work-and-creativity-how-to-build-a-fast-secure-and-comfortable-system-1f0a)
+- [Going Beyond Accuracy: Understanding the Balanced Accuracy, Precision, Recall and F1-score.](https://dev.to/juniorcl/going-beyond-accuracy-understanding-the-balanced-accuracy-precision-recall-and-f1-score-4kl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
