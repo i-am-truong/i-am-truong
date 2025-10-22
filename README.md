@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why Comet Browser + Perplexity Is the Smartest Combo for AI-Powered Browsing](https://dev.to/nish2005karsh/why-comet-browser-perplexity-is-the-smartest-combo-for-ai-powered-browsing-4h1a)
-- [Mystic Writer : An Experiment on Agentic Development 🤖⚡](https://dev.to/abiji-2020/mystic-writer-an-experiment-on-agentic-development-194)
-- [Is Your OpenAI Bill Giving You Nightmares? I Built a Tool to Help](https://dev.to/jrmromao/is-your-openai-bill-giving-you-nightmares-i-built-a-tool-to-help-4pnn)
-- [Why Choosing the Fastest WordPress Hosting Is Crucial for Performance and Security](https://dev.to/roconpaas/why-choosing-the-fastest-wordpress-hosting-is-crucial-for-performance-and-security-haa)
-- [Understanding the Core Principles of Effective SaaS UI/UX Design](https://dev.to/lollypopdesign/understanding-the-core-principles-of-effective-saas-uiux-design-1o92)
+- [AWS Networking: Transit Gateway](https://dev.to/aws-builders/aws-networking-transit-gateway-g4c)
+- [The Ultimate Guide to Offline API Testing: 10 Tools That Work Without Internet](https://dev.to/apilover/the-ultimate-guide-to-offline-api-testing-10-tools-that-work-without-internet-pka)
+- [🌕 How I Used Perplexity + Comet Browser to Watch the Moon Landing—AI Did It All for Me!](https://dev.to/nish2005karsh/how-i-used-perplexity-comet-browser-to-watch-the-moon-landing-ai-did-it-all-for-me-187p)
+- [Hi, I was a codeschool dropout](https://dev.to/codeschooldropout/hi-i-was-a-codeschool-dropout--1n11)
+- [How TeeChart for .NET Helps Walter + Bai Visualize the Strength of Materials](https://dev.to/steema/how-teechart-for-net-helps-walter-bai-visualize-the-strength-of-materials-nmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
