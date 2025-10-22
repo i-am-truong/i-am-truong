@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [equals, hashcode, hashmap](https://dev.to/jaumdev1/equals-hashcode-hashmap-5ah2)
-- [&quot;Contextualized Embeddings&quot; have revolutionized text represe](https://dev.to/drcarlosruizviquez/contextualized-embeddings-have-revolutionized-text-represe-2c31)
-- [Froala Shortcut Secrets That Supercharge Your Productivity](https://dev.to/froala_e3824d66439393cbce/froala-shortcut-secrets-that-supercharge-your-productivity-fkn)
-- [Designing Agentic Workflows: Lessons from Orchestration, Context, and UX](https://dev.to/eabait/designing-agentic-workflows-lessons-from-orchestration-context-and-ux-13j)
-- [**The Future of Explainable Edge AI: Revolutionizing Real-Ti](https://dev.to/drcarlosruizviquez/the-future-of-explainable-edge-ai-revolutionizing-real-ti-1pi0)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_4890a1e6/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-10ac)
+- [Evolution of Processing: SPL One-Click Acceleration for Log-to-Metric Conversion](https://dev.to/observabilityguy/evolution-of-processing-spl-one-click-acceleration-for-log-to-metric-conversion-2g5j)
+- [Day 4: Inserting Data and Basic CRUD Operations](https://dev.to/hardik_kanajariya/day-4-inserting-data-and-basic-crud-operations-3h04)
+- [ChatGPT Atlas](https://dev.to/technoblogger14o3/chatgpt-atlas-49eo)
+- [🌍 AI OS — The First Operating System Built by Humanity, for Humanity](https://dev.to/rohit19060/ai-os-the-first-operating-system-built-by-humanity-for-humanity-1okf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
