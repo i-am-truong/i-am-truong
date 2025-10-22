@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Timestamp Difference between shutdown and systemctl poweroff](https://dev.to/mkt/understanding-timestamp-difference-between-shutdown-and-systemctl-poweroff-4a5l)
+- [🚀 Simplify ZKTeco Biometric Device Integration in PHP — No SDK Needed!](https://dev.to/mrzstack/simplify-zkteco-biometric-device-integration-in-php-no-sdk-needed-5f9b)
 - [Beyond Human Bias](https://dev.to/vesta12389/beyond-human-bias-230c)
 - [Build a Portfolio That Wins Real Opportunities](https://dev.to/sonia_bobrik_1939cdddd79d/build-a-portfolio-that-wins-real-opportunities-52ad)
 - [Run n8n Locally with Google Sign-In Authentication](https://dev.to/lightningdev123/run-n8n-locally-with-google-sign-in-authentication-gbe)
-- [🚨 Why Production-Grade Logging Isn’t Optional: A Technical Deep Dive 🔍](https://dev.to/ajayagrawal/why-production-grade-logging-isnt-optional-a-technical-deep-dive-1m93)
-- [The 24-Hour SaaS Breach Playbook, Powered by AI &lpar;But Rooted in Operational Discipline&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-24-hour-saas-breach-playbook-powered-by-ai-but-rooted-in-operational-discipline-5c2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
