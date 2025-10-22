@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use JWT instead of sessions in Node js](https://dev.to/jahongir2007/how-to-use-jwt-instead-of-sessions-in-node-js-18ai)
 - [Cursor AI meets design-aware context](https://dev.to/knowis/cursor-ai-meets-design-aware-context-29ij)
 - [“Don’t Chain Yourself Down — Graph It Out! 🔗 &lpar;LangGraph, Memory, and the Future of AI Workflows&rpar;”](https://dev.to/bhankee/dont-chain-yourself-down-graph-it-out-langgraph-memory-and-the-future-of-ai-workflows-1i4f)
 - [Close Those 20 Browser Tabs: How MCP Servers Bring Documentation into VS Code](https://dev.to/glaucia86/close-those-20-browser-tabs-how-mcp-servers-bring-documentation-into-vs-code-435f)
 - [Rowboat: The open-source alternative to Notion&#39;s new custom agents with native MCP support](https://dev.to/arjun_m_10e75b369465a68b7/the-open-source-alternative-to-notions-new-custom-agents-with-native-mcp-support-2og2)
-- [Marketing Forecasting Methods for 2025: Budgeting and ROI](https://dev.to/ryansiney1/marketing-forecasting-methods-for-2025-budgeting-and-roi-2jf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
