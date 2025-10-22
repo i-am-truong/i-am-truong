@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Transforming AI Monetization: The Future of LLM-Powered Applications](https://dev.to/monetzly/transforming-ai-monetization-the-future-of-llm-powered-applications-4i2g)
-- [🔗 Why Crypto Exchange APIs Matter: A Developer’s Perspective](https://dev.to/dan_keller/why-crypto-exchange-apis-matter-a-developers-perspective-1eo6)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_4890a1e6/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-3chg)
-- [useeffect on react](https://dev.to/anaol216/useeffect-on-react-1kjb)
-- [Terminology Management in Translation: Your Guide to the Essentials [2025]](https://dev.to/jennamitchell/terminology-management-in-translation-your-guide-to-the-essentials-2025-10kp)
+- [Khủng hoảng nghề nghiệp tuổi 30](https://dev.to/kelvynthai/khung-hoang-nghe-nghiep-tuoi-30-1e8g)
+- [El lenguaje de programación perfecto](https://dev.to/baltasarq/el-lenguaje-de-programacion-perfecto-2e1l)
+- [Machine Learning Zoomcamp Week 4](https://dev.to/ladys/machine-learning-zoomcamp-week-4-5cil)
+- [Realtime Event-Driven Applications with AppSync Events and EventBridge Pipes](https://dev.to/ianbrumby/-49io)
+- [AI Scoring Agent Behavior: The Good, The Bad, and The Ugly](https://dev.to/jessesbyers/ai-scoring-agent-behavior-the-good-the-bad-and-the-ugly-281l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
