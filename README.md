@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Something Could Double the Development Efficiency of Java Programmers](https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-3md)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_4890a1e6/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1266)
 - [TubeSubs — AI Tools to Help YouTube Creators Reach a Global Audience](https://dev.to/tubesubs/tubesubs-ai-tools-to-help-youtube-creators-reach-a-global-audience-45bd)
 - [How I Built a Free AnyDesk Alternative Using Sunshine, Moonlight &amp; Tailscale](https://dev.to/thevenice/how-i-built-a-free-anydesk-alternative-using-sunshine-moonlight-tailscale-3lh8)
 - [Building Robust Offline Functionality in React Native: A Complete Guide](https://dev.to/oghenetega_adiri/building-robust-offline-functionality-in-react-native-a-complete-guide-4174)
-- [What Is a Static Site? The Complete Guide to Fast, Secure, and Scalable Web Hosting](https://dev.to/neerajsohal/what-is-a-static-site-the-complete-guide-to-fast-secure-and-scalable-web-hosting-1jjf)
-- [I code, therefore I am.](https://dev.to/alaasyed_/i-code-therefore-i-am-3l5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
