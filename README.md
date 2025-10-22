@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚠️ Warning: The &quot;Overfitting to a Single Data Point&quot; Pitfall](https://dev.to/drcarlosruizviquez/warning-the-overfitting-to-a-single-data-point-pitfall-1i3e)
 - [**A Solar Revolution from Space: How AI-Driven Space-Based S](https://dev.to/drcarlosruizviquez/a-solar-revolution-from-space-how-ai-driven-space-based-s-4dlo)
 - [Como construí um Sistema de Controle Financeiro usando APENAS S3 &lpar;sem PostgreSQL!&rpar;](https://dev.to/mcruvinel/como-construi-um-sistema-de-controle-financeiro-usando-apenas-s3-sem-postgresql-2iec)
 - [Apache Doris 4.0: One Engine for Analytics, Full-Text Search, and Vector Search](https://dev.to/apachedoris/apache-doris-40-one-engine-for-analytics-full-text-search-and-vector-search-4g2o)
 - [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-311m)
-- [Unlock AI Power with Weak Signals: Learning from Positive Groups by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-ai-power-with-weak-signals-learning-from-positive-groups-by-arvind-sundararajan-1poa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
