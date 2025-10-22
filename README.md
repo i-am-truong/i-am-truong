@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Built an AI Multimodal R&amp;D Platform in Days — with NocoBase](https://dev.to/nocobase/built-an-ai-multimodal-rd-platform-in-days-with-nocobase-11aa)
+- [Hybrid Cloud Stack: Balancing Aurora PostgreSQL and DynamoDB for Optimal Performance](https://dev.to/voskan89/hybrid-cloud-stack-balancing-aurora-postgresql-and-dynamodb-for-optimal-performance-1ddn)
+- [Daily Artificial Intelligence Digest - Oct 22, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-22-2025-elh)
+- [Digital Waste: An In-Depth Study](https://dev.to/defremont/digital-waste-an-in-depth-study-4f92)
 - [Which Graphics Card Is Best for Lumion 2025?](https://dev.to/irender_gpu_cloud/which-graphics-card-is-best-for-lumion-2025-1mja)
-- [Building a High-Quality Software Product: A Step-by-Step Guide](https://dev.to/defremont/building-a-high-quality-software-product-a-step-by-step-guide-5ff2)
-- [A Tribute to the Java Pioneers: You Built the Foundation We Stand On](https://dev.to/adamthedeveloper/a-tribute-to-the-java-pioneers-you-built-the-foundation-we-stand-on-1k30)
-- [Blockchain in 2025: Evolving Beyond Cryptocurrencies](https://dev.to/defremont/blockchain-in-2025-evolving-beyond-cryptocurrencies-185m)
-- [3347. Maximum Frequency of an Element After Performing Operations II](https://dev.to/mdarifulhaque/3347-maximum-frequency-of-an-element-after-performing-operations-ii-2nd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
