@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your GitHub Commits Are A Goldmine For Social Media &lpar;But You&#39;re Doing It Wrong&rpar;](https://dev.to/brilliantmakanju/why-your-github-commits-are-a-goldmine-for-social-media-but-youre-doing-it-wrong-3j2)
+- [Modules, and Java, and Windows, Oh My!](https://dev.to/leeca/modules-and-java-and-windows-oh-my-2o94)
 - [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-4d3h)
-- [Join the Agentic Postgres Challenge with Tiger Data: $3,000 in Prizes!](https://dev.to/devteam/join-the-agentic-postgres-challenge-with-tiger-data-3000-in-prizes-17ip)
-- [Let&#39;s try Managed ECS Instances](https://dev.to/aws-builders/lets-try-managed-ecs-instances-3fl4)
-- [What Is Perplexity? The AI Search Engine That Actually Answers Your Questions](https://dev.to/usefulai/what-is-perplexity-the-ai-search-engine-that-actually-answers-your-questions-35ab)
-- [A Complete Guide to Building a Payment System with Payload CMS and Lemon Squeezy](https://dev.to/aaronksaunders/a-complete-guide-to-building-a-payment-system-with-payload-cms-and-lemon-squeezy-3n9n)
+- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-40fb)
+- [Building Custom Elementor Widgets with React &amp; the WordPress REST API — a Practical Guide](https://dev.to/nimafadaei/building-custom-elementor-widgets-with-react-the-wordpress-rest-api-a-practical-guide-3m2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
