@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Lesson 2E  - Implementing Controllers &lpar;API Layer&rpar;](https://dev.to/farrukh_rehman/lesson-2e-implementing-controllers-api-layer-5d6n)
-- [My First Video Tutorials Contribution for Hacktoberfest](https://dev.to/adiatiayu/my-first-video-tutorials-contribution-for-hacktoberfest-3blg)
-- [I&#39;m a Senior Developer and I Still Google Everything &lpar;And That&#39;s Perfectly Normal&rpar;](https://dev.to/elvissautet/im-a-senior-developer-and-i-still-google-everything-and-thats-perfectly-normal-21a2)
-- [🚀 Doppelganger AGA Pro — The AI Music Suite Where Every Song Thinks, Feels, and Remembers](https://dev.to/ghostking314/doppelganger-aga-pro-the-ai-music-suite-where-every-song-thinks-feels-and-remembers-53ef)
-- [Alternative Oracle Database Reporting Tool](https://dev.to/combit/alternative-oracle-database-reporting-tool-cg4)
+- [Why Modify Docker-Compose.Yaml](https://dev.to/lagat_josiah_f024a2c855bc/why-modify-docker-composeyaml-88c)
+- [How to UNDO a GIT PUSH FORCE?](https://dev.to/pierre/how-to-undo-a-git-push-force-3ijo)
+- [MariaDB User? Share Your Experience in Community Survey](https://dev.to/robert_silen_mariadb/mariadb-users-share-your-experience-in-community-survey-37he)
+- [How to Set Up Google Analytics 4 &lpar;GA4&rpar; for Your Website in 10 Minutes](https://dev.to/jijo_jose_59033fd633c1504/how-to-set-up-google-analytics-4-ga4-for-your-website-in-10-minutes-58o7)
+- [The Day the Internet Broke: 4 Critical Lessons from the 2025 AWS Crash and the New Web It Inspired](https://dev.to/web4/the-day-the-internet-broke-4-critical-lessons-from-the-2025-aws-crash-and-the-new-web-it-inspired-4ai8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
