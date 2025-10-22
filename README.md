@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Self-Hosted Web Application Firewalls &lpar;WAFs&rpar; in 2026](https://dev.to/carrie_luo1/the-best-self-hosted-web-application-firewalls-wafs-in-2026-4gnj)
 - [Polymorphic Relationships Matter &lpar;and My ADHD Agrees&rpar;](https://dev.to/develaper/polymorphic-relationships-matter-and-my-adhd-agrees-236f)
 - [📯Introducing CUGA](https://dev.to/aairom/introducing-cuga-1p3k)
 - [Unraveling the Power of API Design: Best Practices for Developers](https://dev.to/mikeover/unraveling-the-power-of-api-design-best-practices-for-developers-40g1)
 - [Webinar: Embed eSignature Workflows in Your .NET App](https://dev.to/boldsign/webinar-embed-esignature-workflows-in-your-net-app-56cd)
-- [My First Deep Dive into DSA: Solving Problems Step by Step](https://dev.to/lakshmi_meghanachennupal/my-first-deep-dive-into-dsa-solving-problems-step-by-step-l3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
