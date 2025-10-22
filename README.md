@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TubeSubs — AI Tools to Help YouTube Creators Reach a Global Audience](https://dev.to/tubesubs/tubesubs-ai-tools-to-help-youtube-creators-reach-a-global-audience-45bd)
+- [How I Built a Free AnyDesk Alternative Using Sunshine, Moonlight &amp; Tailscale](https://dev.to/thevenice/how-i-built-a-free-anydesk-alternative-using-sunshine-moonlight-tailscale-3lh8)
+- [Building Robust Offline Functionality in React Native: A Complete Guide](https://dev.to/oghenetega_adiri/building-robust-offline-functionality-in-react-native-a-complete-guide-4174)
+- [What Is a Static Site? The Complete Guide to Fast, Secure, and Scalable Web Hosting](https://dev.to/neerajsohal/what-is-a-static-site-the-complete-guide-to-fast-secure-and-scalable-web-hosting-1jjf)
 - [I code, therefore I am.](https://dev.to/alaasyed_/i-code-therefore-i-am-3l5l)
-- [Building Wallet Peep: A Real-Time Blockchain Wallet Tracker on Telegram Using Polkadot API &lpar;PAPI&rpar;](https://dev.to/0xtemi/building-wallet-peep-a-real-time-blockchain-wallet-tracker-on-telegram-using-polkadot-api-papi-33b7)
-- [The Beta-Rho Orthogonality &lpar;BRO&rpar; Score: A Framework for Detecting Regime Stationarity and Structural Relationships](https://dev.to/ryo_suwito/the-beta-rho-orthogonality-bro-score-a-framework-for-detecting-regime-stationarity-and-4aam)
-- [How to actually Create a Portfolio That Gets You Hired &lpar;Even Without Experience&rpar;](https://dev.to/golden_builds/how-to-actually-create-a-portfolio-that-gets-you-hired-even-without-experience-1pf1)
-- [11 Best Kotlin Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-kotlin-courses-to-learn-in-2026-5a80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
