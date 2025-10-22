@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Postman: The Unsung Hero of Everyday API Development](https://dev.to/nuccithegreat/postman-the-unsung-hero-of-everyday-api-development-273h)
+- [AlgoSync — a new social media platform for developers, founders, and tech creators](https://dev.to/kevv_ly/algosync-a-new-social-media-platform-for-developers-founders-and-tech-creators-1i6c)
+- [IntelliNode Generate HTML Pages Directly from the browser](https://dev.to/barqawiz/intellinode-generate-html-pages-directly-from-the-browser-3n9j)
 - [Dev Log 35 - Equip Hands Tooltips](https://dev.to/asx/dev-log-35-equip-hands-tooltips-2k51)
 - [API-First Development 2025 — The Future of Scalable Web Architecture](https://dev.to/sain_bux_dev/api-first-development-2025-the-future-of-scalable-web-architecture-mpn)
-- [Understanding npm Versioning: A Guide to Semantic Versioning and Version Operators](https://dev.to/geraldhamiltonwicks/understanding-npm-versioning-a-guide-to-semantic-versioning-and-version-operators-5mn)
-- [Announcing Kiponos Python SDK v0.1.2: Real-Time Config as a Service for Python Developers](https://dev.to/kiponos/announcing-kiponos-python-sdk-v012-real-time-config-as-a-service-for-python-developers-2nd8)
-- [Building Crypto Bot](https://dev.to/vasto_lorde/building-crypto-bot-201m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
