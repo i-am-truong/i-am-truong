@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain et Développement Sécurisé : Pourquoi les Développeurs Deviennent les Nouveaux Gardiens de la Confiance Numérique](https://dev.to/nicomiayo/blockchain-et-developpement-securise-pourquoi-les-developpeurs-deviennent-les-nouveaux-gardiens-4gjg)
-- [A Beginner’s Guide to Building a Complete Application: From Idea to Deployment](https://dev.to/mahmud-r-farhan/a-beginners-guide-to-building-a-complete-application-from-idea-to-deployment-mbb)
-- [Can We Tame the Beast? Royal Couple Joins Push for AI Superintelligenve Morat...](https://dev.to/mabualzait/can-we-tame-the-beast-royal-couple-joins-push-for-ai-superintelligenve-morat-5ek5)
-- [Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity](https://dev.to/shostarsson/reclaim-your-tech-why-microsofts-windows-10-eol-is-linuxs-golden-opportunity-6mh)
-- [Simplifying API Testing — Why Sometimes You Don’t Need Postman](https://dev.to/javediqbal8381/simplifying-api-testing-why-sometimes-you-dont-need-postman-598g)
+- [I code, therefore I am.](https://dev.to/alaasyed_/i-code-therefore-i-am-3l5l)
+- [Building Wallet Peep: A Real-Time Blockchain Wallet Tracker on Telegram Using Polkadot API &lpar;PAPI&rpar;](https://dev.to/0xtemi/building-wallet-peep-a-real-time-blockchain-wallet-tracker-on-telegram-using-polkadot-api-papi-33b7)
+- [The Beta-Rho Orthogonality &lpar;BRO&rpar; Score: A Framework for Detecting Regime Stationarity and Structural Relationships](https://dev.to/ryo_suwito/the-beta-rho-orthogonality-bro-score-a-framework-for-detecting-regime-stationarity-and-4aam)
+- [How to actually Create a Portfolio That Gets You Hired &lpar;Even Without Experience&rpar;](https://dev.to/golden_builds/how-to-actually-create-a-portfolio-that-gets-you-hired-even-without-experience-1pf1)
+- [11 Best Kotlin Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-kotlin-courses-to-learn-in-2026-5a80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
