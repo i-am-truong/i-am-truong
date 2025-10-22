@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Human Bias](https://dev.to/vesta12389/beyond-human-bias-230c)
+- [Build a Portfolio That Wins Real Opportunities](https://dev.to/sonia_bobrik_1939cdddd79d/build-a-portfolio-that-wins-real-opportunities-52ad)
+- [Run n8n Locally with Google Sign-In Authentication](https://dev.to/lightningdev123/run-n8n-locally-with-google-sign-in-authentication-gbe)
 - [🚨 Why Production-Grade Logging Isn’t Optional: A Technical Deep Dive 🔍](https://dev.to/ajayagrawal/why-production-grade-logging-isnt-optional-a-technical-deep-dive-1m93)
 - [The 24-Hour SaaS Breach Playbook, Powered by AI &lpar;But Rooted in Operational Discipline&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-24-hour-saas-breach-playbook-powered-by-ai-but-rooted-in-operational-discipline-5c2m)
-- [Understanding Chrome Extensions: A Developer&#39;s Guide to Manifest V3](https://dev.to/javediqbal8381/understanding-chrome-extensions-a-developers-guide-to-manifest-v3-233l)
-- [C#: Split Excel Worksheet into Multiple Files](https://dev.to/yahey/c-split-excel-worksheet-into-multiple-files-4gk4)
-- [Convert PDF to Excel Using Python: The Smart Way to Automate Data Extraction](https://dev.to/jelizaveta/convert-pdf-to-excel-using-python-the-smart-way-to-automate-data-extraction-229m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
