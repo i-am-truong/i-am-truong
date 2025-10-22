@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta-RL Project SSM-MetaRL-TestCompute: A Production-Ready Framework](https://dev.to/stargatekr13/meta-rl-project-needs-ssm-metarl-testcompute-a-production-ready-framework-6g9)
 - [Are Large Language Models the Steam Engine of My Time? And, if so, am I the John Henry of this tale?](https://dev.to/skullzarmy/are-large-language-models-the-steam-engine-of-my-time-and-if-so-am-i-the-john-henry-of-this-tale-45gi)
 - [The Stained-Glass Artisan: Composing UIs with Turbo Frames](https://dev.to/alex_aslam/the-stained-glass-artisan-composing-uis-with-turbo-frames-171f)
 - [Day 1256 : Place To Be](https://dev.to/dwane/day-1256-place-to-be-1mj9)
 - [The Cartographer&#39;s Guide to Rails: Mapping Domains with Bounded Contexts](https://dev.to/alex_aslam/the-cartographers-guide-to-rails-mapping-domains-with-bounded-contexts-4982)
-- [The Artisan&#39;s Trail: Maintaining a Legacy Node.js Monolith with the Boy Scout Rule](https://dev.to/alex_aslam/the-artisans-trail-maintaining-a-legacy-nodejs-monolith-with-the-boy-scout-rule-pnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
