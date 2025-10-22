@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring EDB BigAnimal console](https://dev.to/aravinlinux/monitoring-edb-biganimal-console-2fec)
+- [Google Maps pins not updating in React? Causes and solutions](https://dev.to/kazutora_hattori_66972c88/google-maps-pins-not-updating-in-react-causes-and-solutions-46gj)
 - [Running Frappe/ERPNext on Windows with WSL — A Web Developer’s Perspective](https://dev.to/aditorito/running-frappeerpnext-on-windows-with-wsl-a-web-developers-perspective-2ami)
 - [Using Claude Code with GitHub Copilot Subscription](https://dev.to/allentcm/using-claude-code-with-github-copilot-subscription-2obj)
 - [Open-Source Cypress Testing Project – 40+ UI Test Cases!](https://dev.to/masaid_zeb_a57995c342d96b/open-source-cypress-testing-project-40-ui-test-cases-3d76)
-- [New universal drivers for IoT Platform](https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe)
-- [Build and push Docker images to Amazon ECR using Terraform](https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
