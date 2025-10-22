@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A &quot;Speed Bump&quot; for the Endless Scroll: About YouTube&#39;s New Shorts Timer](https://dev.to/isaac29/a-speed-bump-for-the-endless-scroll-about-youtubes-new-shorts-timer-5d9l)
+- [AtomixGlass — Bringing Liquid Glass to the Web with React + WebGL](https://dev.to/limonkhan669/atomixglass-bringing-liquid-glass-to-the-web-with-react-webgl-3l38)
+- [🧱 Progress Shared Compounds Faster Than Progress Hidden](https://dev.to/soasme/progress-shared-compounds-faster-than-progress-hidden-nm1)
 - [US-East-1: When the Titanic Sinks](https://dev.to/solegaonkar/us-east-1-when-the-titanic-sinks-hie)
 - [Ok RAG, but what about data extraction from documents?](https://dev.to/andev789/ok-rag-but-what-about-data-extraction-from-documents-5d94)
-- [How to Start a Front Software Project from Scratch &lpar;in less than 5 minutes&rpar;](https://dev.to/naur_io/how-to-start-a-software-project-from-scratch-in-less-than-5-minutes-2d31)
-- [CVE-2025-61932: Motex LANSCOPE Endpoint Manager Improper Verification of Source of a Communication Channel Vulnerability](https://dev.to/freedom-coder/cve-2025-61932-motex-lanscope-endpoint-manager-improper-verification-of-source-of-a-communication-3ab7)
-- [Why Your GitHub Commits Are A Goldmine For Social Media &lpar;But You&#39;re Doing It Wrong&rpar;](https://dev.to/brilliantmakanju/why-your-github-commits-are-a-goldmine-for-social-media-but-youre-doing-it-wrong-3j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
