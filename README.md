@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Delete N Nodes After M Nodes of a Linked List](https://dev.to/we_are_broken_compilers/delete-n-nodes-after-m-nodes-of-a-linked-list-2h71)
-- [The Magic Behind Instant Lookups: Understanding Hashing and Java&#39;s HashMap](https://dev.to/gurpreet_d921f9fff6fa7442/the-magic-behind-instant-lookups-understanding-hashing-and-javas-hashmap-16ab)
-- [🚀 How I Built My Developer Portfolio — and What I Learned Along the Way](https://dev.to/nithiin7/how-i-built-my-developer-portfolio-and-what-i-learned-along-the-way-2bea)
-- [Genesis DB MCP Server: AI meets Event Sourcing - a love story](https://dev.to/patriceckhart/genesis-db-mcp-server-ai-meets-event-sourcing-a-love-story-224e)
-- [How I was naive in my job hunt](https://dev.to/amandamayfield/how-i-was-naive-in-my-job-hunt-4k4)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-50hm)
+- [Bring AI agents with Long-Term memory into production in minutes](https://dev.to/aws/bring-ai-agents-with-long-term-memory-into-production-in-minutes-338l)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-5a38)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-dol)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5fe3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
