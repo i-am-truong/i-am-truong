@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-4d3h)
+- [Join the Agentic Postgres Challenge with Tiger Data: $3,000 in Prizes!](https://dev.to/devteam/join-the-agentic-postgres-challenge-with-tiger-data-3000-in-prizes-17ip)
+- [Let&#39;s try Managed ECS Instances](https://dev.to/aws-builders/lets-try-managed-ecs-instances-3fl4)
+- [What Is Perplexity? The AI Search Engine That Actually Answers Your Questions](https://dev.to/usefulai/what-is-perplexity-the-ai-search-engine-that-actually-answers-your-questions-35ab)
 - [A Complete Guide to Building a Payment System with Payload CMS and Lemon Squeezy](https://dev.to/aaronksaunders/a-complete-guide-to-building-a-payment-system-with-payload-cms-and-lemon-squeezy-3n9n)
-- [Despliega Agentes de IA con memoria a largo plazo a Producción en 15 Minutos &lpar;Sin Docker, Sin Kubernetes, Sin Dolor de Cabeza&rpar;](https://dev.to/aws-espanol/despliega-agentes-de-ia-con-memoria-a-largo-plazo-a-produccion-en-15-minutos-sin-docker-sin-1l5c)
-- [Fight the Future: The Anti-AI Reflex](https://dev.to/p3ngu1nzz/fight-the-future-the-anti-ai-reflex-6db)
-- [AI-Powered Git Commits: Alternative for GitHub Copilot with Mistral codestral](https://dev.to/d-oit/ai-powered-git-commits-alternative-for-github-copilot-with-mistral-codestral-502n)
-- [Testing Oxide CMS to Dev.to Integration](https://dev.to/richet/testing-oxide-cms-to-devto-integration-1h1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
