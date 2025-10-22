@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Release: The Complete Dashboard Template for Modern Angular Applications](https://dev.to/ngmaterialdev/new-release-the-complete-dashboard-template-for-modern-angular-applications-11ho)
-- [AWS Outage of October 2025: How a DNS Failure Brought the Internet to a Standstill](https://dev.to/shivakshi_rawat_e69cf6990/aws-outage-of-october-2025-how-a-dns-failure-brought-the-internet-to-a-standstill-59g3)
-- [Common Challenges in TDD Software Testing and How to Overcome Them](https://dev.to/carl_max007/common-challenges-in-tdd-software-testing-and-how-to-overcome-them-1ilp)
-- [MCGS-MSME for Women Entrepreneurs: Building Financial Access Through Smart Credit Design](https://dev.to/gov01/mcgs-msme-for-women-entrepreneurs-building-financial-access-through-smart-credit-design-3fb4)
-- [Build Your Own AWS DevOps CLI with Python &amp; Boto3](https://dev.to/aws-builders/build-your-own-aws-devops-cli-with-python-boto3-1cbc)
+- [Auth Explained &lpar;Part 1&rpar;: ID vs Access vs Refresh tokens — 🤔what they ACTUALLY do &lpar;and why localStorage is a trap&rpar;](https://dev.to/sylwia-lask/auth-explained-part-1-id-vs-access-vs-refresh-tokens-what-they-actually-do-and-why-2l1)
+- [How to Ensure Cross-Browser Compatibility With Open Source Testing Tools?](https://dev.to/sophielane/how-to-ensure-cross-browser-compatibility-with-open-source-testing-tools-371c)
+- [The Return of Assembly: When LLMs No Longer Need High-Level Languages](https://dev.to/ionionascu/the-return-of-assembly-when-llms-no-longer-need-high-level-languages-1dak)
+- [DOCKER RUN İLE SSL SERTİFİKALI KEYCLOAK KURMA](https://dev.to/emine_nurarc_ca7d62402/docker-run-ile-ssl-sertifikali-keycloak-kurma-38e4)
+- [Simple queue system](https://dev.to/brendon_oneill__/simple-queue-system-1lnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
