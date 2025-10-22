@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A &quot;Speed Bump&quot; for the Endless Scroll: About YouTube&#39;s New Shorts Timer](https://dev.to/isaac29/a-speed-bump-for-the-endless-scroll-about-youtubes-new-shorts-timer-5d9l)
-- [AtomixGlass — Bringing Liquid Glass to the Web with React + WebGL](https://dev.to/limonkhan669/atomixglass-bringing-liquid-glass-to-the-web-with-react-webgl-3l38)
-- [🧱 Progress Shared Compounds Faster Than Progress Hidden](https://dev.to/soasme/progress-shared-compounds-faster-than-progress-hidden-nm1)
-- [US-East-1: When the Titanic Sinks](https://dev.to/solegaonkar/us-east-1-when-the-titanic-sinks-hie)
-- [Ok RAG, but what about data extraction from documents?](https://dev.to/andev789/ok-rag-but-what-about-data-extraction-from-documents-5d94)
+- [A tiny Spring Boot &#39;profile&#39; microservice — Stage‑0 HNG backend](https://dev.to/sherif_san/a-tiny-spring-boot-profile-microservice-stage-0-hng-backend-26k1)
+- [The Centralized Core of Decentralization: Rethinking Web3’s Infrastructure](https://dev.to/rohit_bhardwaj_94db62db7b/the-centralized-core-of-decentralization-rethinking-web3s-infrastructure-40da)
+- [Stop Waiting for the Alarm: Why You Need to Go Hunting for Hackers Yourself](https://dev.to/terminaltools/stop-waiting-for-the-alarm-why-you-need-to-go-hunting-for-hackers-yourself-2ef0)
+- [Advanced Query Capabilities 👉🏻 aggregation pipelines](https://dev.to/franckpachot/advanced-query-capabilities-aggregation-pipelines-137m)
+- [Why Zig + Qt Feels Like Doing the Impossible Right](https://dev.to/dayvster/why-zig-qt-feels-like-doing-the-impossible-right-2ibn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
