@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create systemd unit timers](https://dev.to/agonza05/create-systemd-unit-timers-3ble)
-- [Why Application Performance Monitoring &lpar;APM&rpar; Should Be Your DevOps Priority?](https://dev.to/olivia_madison_b0ad7090ad/why-application-performance-monitoring-apm-should-be-your-devops-priority-51oi)
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-2j83)
-- [how i built a remote linux dev environment [homelab series p1]](https://dev.to/ashercarneiro/how-i-built-a-remote-linux-dev-environment-homelab-series-p1-114f)
-- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-394p)
+- [🚀 Why Comet Browser + Perplexity Is the Smartest Combo for AI-Powered Browsing](https://dev.to/nish2005karsh/why-comet-browser-perplexity-is-the-smartest-combo-for-ai-powered-browsing-4h1a)
+- [Mystic Writer : An Experiment on Agentic Development 🤖⚡](https://dev.to/abiji-2020/mystic-writer-an-experiment-on-agentic-development-194)
+- [Is Your OpenAI Bill Giving You Nightmares? I Built a Tool to Help](https://dev.to/jrmromao/is-your-openai-bill-giving-you-nightmares-i-built-a-tool-to-help-4pnn)
+- [Why Choosing the Fastest WordPress Hosting Is Crucial for Performance and Security](https://dev.to/roconpaas/why-choosing-the-fastest-wordpress-hosting-is-crucial-for-performance-and-security-haa)
+- [Understanding the Core Principles of Effective SaaS UI/UX Design](https://dev.to/lollypopdesign/understanding-the-core-principles-of-effective-saas-uiux-design-1o92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
