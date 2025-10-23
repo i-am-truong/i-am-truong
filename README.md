@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Artisan&#39;s Forge: Extending Node.js with the Power of Native Addons](https://dev.to/alex_aslam/the-artisans-forge-extending-nodejs-with-the-power-of-native-addons-5hk1)
-- [Web Design in the AI Era &lpar;2025&rpar;: Trends, Tools &amp; How We Can Help](https://dev.to/badhonaub/web-design-in-the-ai-era-2025-trends-tools-how-we-can-help-102o)
-- [The Artisan&#39;s Pursuit: Conquering the Silent Performance Killer in GraphQL and REST](https://dev.to/alex_aslam/the-artisans-pursuit-conquering-the-silent-performance-killer-in-graphql-and-rest-316m)
-- [If we want to distinguish multiple plots in the same figure in matplotlib, we use the legend function&lpar;&rpar;](https://dev.to/onaolapo11/if-we-want-to-distinguish-multiple-plots-in-the-same-figure-in-matplotlib-we-use-the-legend-98n)
-- [I vibe-coded a 30 chapter book on regex](https://dev.to/davidcanhelp/i-vibe-coded-a-30-chapter-book-on-regex-2l59)
+- [Create a cloud-backed IDE for development](https://dev.to/aws-builders/create-a-cloud-backed-ide-for-development-1f64)
+- [Building Explainable Fraud Detection With Amazon Sagemaker and Bedrock](https://dev.to/victorpinzon1988eng/building-explainable-fraud-detection-with-amazon-sagemaker-and-bedrock-11i)
+- [Why Most AI Agents Will Fail: The Orchestration Problem Nobody&#39;s Solving](https://dev.to/hadywalied/why-most-ai-agents-will-fail-the-orchestration-problem-nobodys-solving-1d00)
+- [HNG QA Strategy: Your Test Plan as a Governance Contract](https://dev.to/uziman-qa/hng-qa-strategy-your-test-plan-as-a-governance-contract-124h)
+- [WebAssembly &amp; High-Performance Web Apps: The Future of Blazing-Fast Browser Experiences](https://dev.to/softwaredeveloper01/webassembly-high-performance-web-apps-the-future-of-blazing-fast-browser-experiences-4ino)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
