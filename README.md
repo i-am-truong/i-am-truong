@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [print tree4](https://dev.to/query_filter_591122b53770/print-tree4-45ma)
+- [Optimizing IT Performance Through ITOM](https://dev.to/kevinasutton/optimizing-it-performance-through-itom-3ffl)
 - [print tree3](https://dev.to/query_filter_591122b53770/print-tree3-3795)
 - [print tree2](https://dev.to/query_filter_591122b53770/print-tree2-2pjc)
 - [5 Resume Mistakes You MUST Avoid](https://dev.to/thenishantmodi/5-resume-mistakes-you-must-avoid-18a0)
-- [Supercomputers: The Giants of Computation Driving Our Future](https://dev.to/sergio_snchezfuentes_6a/supercomputers-the-giants-of-computation-driving-our-future-m43)
-- [Git Branch Comparison — A Senior Dev’s Playbook &lpar;Concise Expert&rpar;](https://dev.to/cristiansifuentes/git-branch-comparison-a-senior-devs-playbook-concise-expert-2bbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
