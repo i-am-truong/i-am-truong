@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [💾 Serialization in Unity — The Invisible System Saving Your Data](https://dev.to/syntacticsugardaddy/serialization-in-unity-the-invisible-system-saving-your-data-4m8k)
+- [ts-dedent library in Storybook codebase.](https://dev.to/ramunarasinga-11/ts-dedent-library-in-storybook-codebase-h71)
+- [How UX in 2025 became more about intent than interaction](https://dev.to/egledigital/how-ux-in-2025-became-more-about-intent-than-interaction-55mh)
 - [Hello World](https://dev.to/jundata/hello-3boe)
 - [Solving the NY Times &quot;Pips&quot; game with F#](https://dev.to/shimmer/solving-the-ny-times-pips-game-with-f-5bbe)
-- [I deployed 108 MVPs in 2025. Here&#39;s the deployment platform data you actually need](https://dev.to/alex_chen_3a43ce352a43d3d/i-deployed-108-mvps-in-2025-heres-the-deployment-platform-data-you-actually-need-dfo)
-- [Announcing Enthusiast 1.4: AI Agents Meet E-commerce Workflows](https://dev.to/chrisywz/announcing-enthusiast-14-ai-agents-meet-e-commerce-workflows-3gkk)
-- [Web Scrapping Project](https://dev.to/makenakinyua/web-scrapping-project-3bnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
