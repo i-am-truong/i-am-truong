@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lessons learned from AWS outage - what can you do?](https://dev.to/shajam/lessons-learned-from-aws-outage-what-can-you-do-c47)
+- [The Future of Memarya: Our Roadmap and How You Can Help Build It](https://dev.to/dawaman43/the-future-of-memarya-our-roadmap-and-how-you-can-help-build-it-g28)
+- [How I Built a Minimalist SaaS Landing Page That Scores 99 on PageSpeed](https://dev.to/harsh-web/how-i-built-a-minimalist-saas-landing-page-that-scores-99-on-pagespeed-50k5)
+- [What&#39;s something AI code generators are surprisingly good at vs surprisingly bad at?](https://dev.to/emma_schmidt_/whats-something-ai-code-generators-are-surprisingly-good-at-vs-surprisingly-bad-at-57og)
 - [🧩 Introducing svg-sprite: A Developer-Friendly SVG Sprite Generator for .NET](https://dev.to/dotmake/introducing-svg-sprite-a-developer-friendly-svg-sprite-generator-for-net-2ie5)
-- [Chat With Your Files And Database Locally, Open Source](https://dev.to/assistantengine/chat-with-your-files-and-database-locally-open-source-2b1j)
-- [How I Recovered an Entire Project After a Drive Crash &lpar;and What I Learned About Data Recovery&rpar;](https://dev.to/arasso_boula_fdbd092d3af7/how-i-recovered-an-entire-project-after-a-drive-crash-and-what-i-learned-about-data-recovery-19bi)
-- [Error Handling and Logging: The Things That Save Your Backend](https://dev.to/sandeep_03j/error-handling-and-logging-the-things-that-save-your-backend-3ggo)
-- [FREE EBOOK: Master Linux File Permissions 🐧](https://dev.to/nedtechie/free-ebook-master-linux-file-permissions-4n50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
