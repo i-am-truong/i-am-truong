@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Show/Hide Form Fields Conditionally with Form Show If Component](https://dev.to/jqueryscript/showhide-form-fields-conditionally-with-form-show-if-component-2bph)
 - [S3 fileExists &lpar;HeadObject&rpar; fails only in Alpine Docker &lpar;PHP-FPM&rpar; with &quot;Error parsing XML&quot;, but GetObject works](https://dev.to/nidhin_np_3149cf667964a3c/s3-fileexists-headobject-fails-only-in-alpine-docker-php-fpm-with-error-parsing-xml-but-176m)
 - [Create a PROMPT.md](https://dev.to/ydnaklementine/create-a-promptmd-e2f)
 - [Day 21 — Build Digital Collectibles &lpar;ERC-721 NFTs&rpar; — Full tutorial &lpar;Foundry + React&rpar;](https://dev.to/sauravkumar8178/day-21-build-digital-collectibles-erc-721-nfts-full-tutorial-foundry-react-2367)
 - [Learning Web Development Entirely from Mobile — My Journey Begins](https://dev.to/rooqidev/learning-web-development-entirely-from-mobile-my-journey-begins-1850)
-- [: 🚀 What Is SEO for Developers and Why It Matters](https://dev.to/alexpeteray/-what-is-seo-for-developers-and-why-it-matters-1nng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
