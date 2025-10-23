@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [print tree5](https://dev.to/query_filter_591122b53770/print-tree5-21cp)
-- [**Unlocking the Power of Prompt Engineering for Creative Sto](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-prompt-engineering-for-creative-sto-14k1)
-- [🌐 Historia y Funcionamiento de Internet](https://dev.to/ruiiz_dev/historia-y-funcionamiento-de-internet-44f9)
-- [The 10 Essential VS Code Extensions Frontend Devs Need in 2025](https://dev.to/ilham-bouktir/the-10-essential-vs-code-extensions-frontend-devs-need-in-2025-5h83)
-- [print tree4](https://dev.to/query_filter_591122b53770/print-tree4-45ma)
+- [CLI Story from Our AI Agents](https://dev.to/vitramir/cli-story-from-our-ai-agents-31bn)
+- [Getting Started with AWS Config: Monitor, Detect, and Remediate Non-Compliant Resources](https://dev.to/harshhp/getting-started-with-aws-config-monitor-detect-and-remediate-non-compliant-resources-439l)
+- [# Does IPTV Work Internationally? A Complete Technical Guide for Developers](https://dev.to/iptv_aussie_a3ad3593c505b/-does-iptv-work-internationally-a-complete-technical-guide-for-developers-kjd)
+- [Call-to-Actions Done Right: The Ultimate CTA Guide for More Engagement](https://dev.to/per-starke-642/call-to-actions-done-right-the-ultimate-cta-guide-for-more-engagement-5cml)
+- [Your Sports Coaching Website Doesn’t Work For You?](https://dev.to/per-starke-642/your-sports-coaching-website-doesnt-work-for-you-k3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
