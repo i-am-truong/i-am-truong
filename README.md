@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Micronaut 4 application on AWS Lambda- Part 6 REST API application](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-6-rest-api-application-h42)
+- [What if your bookshelf could reveal how your ideas connect? I built BookGraph to turn my reading list into a living map of knowledge — and it changed how I think about books forever.](https://dev.to/noelie_roux/what-if-your-bookshelf-could-reveal-how-your-ideas-connect-i-built-bookgraph-to-turn-my-reading-1g7n)
+- [Affordable Yet Reliable: Finding the Right Mobile App Developers in San Francisco](https://dev.to/appinginenewyork/affordable-yet-reliable-finding-the-right-mobile-app-developers-in-san-francisco-4012)
 - [Arbitrum Adds Native EIP-7702, Fusaka Cell Proofs, CZ x YZI Oracle, and Tether’s WDK](https://dev.to/etherspot/arbitrum-adds-native-eip-7702-fusaka-cell-proofs-cz-x-yzi-oracle-and-tethers-wdk-e6)
-- [Actions — delegates that return void](https://dev.to/eli77rhm/actions-delegates-that-return-void-4pkb)
-- [MLOps: The Secret Weapon for Supercharging Your Machine Learning](https://dev.to/karthik_n/mlops-the-secret-weapon-for-supercharging-your-machine-learning-22bg)
-- [Inside TekBreed&#39;s Engineering: Why Monorepo Architecture with Turborepo Powers Our Platform](https://dev.to/codingsimba/inside-tekbreeds-engineering-why-monorepo-architecture-with-turborepo-powers-our-platform-5efi)
-- [I Analyzed 100 Claude MCP Servers and Found Critical Security Flaws in 43% of Them](https://dev.to/amir_mironi/i-analyzed-100-claude-mcp-servers-and-found-critical-security-flaws-in-43-of-them-ikj)
+- [I built BookGraph to map the hidden connections between my books](https://dev.to/noelie_roux/i-built-bookgraph-to-map-the-hidden-connections-between-my-books-4bhf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
