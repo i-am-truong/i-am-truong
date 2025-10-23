@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AgroVisionSecureAI+: Intelligent Crop Analysis with Auth0 Authentication](https://dev.to/alphonsekazadi/agrovisionsecureai-intelligent-crop-analysis-with-auth0-authentication-e0g)
+- [Mid-Sized Machinery Companies in the US: A Regional Guide to Growth](https://dev.to/ayesha-diaz/mid-sized-machinery-companies-in-the-us-a-regional-guide-to-growth-536j)
+- [Cybersecurity Trends: What’s Changing in Online Safety](https://dev.to/jnevins1/cybersecurity-trends-whats-changing-in-online-safety-h65)
 - [𝐓𝐡𝐞 𝐒𝐎𝐋𝐈𝐃 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 — 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐓𝐡𝐚𝐭 𝐒𝐭𝐚𝐧𝐝𝐬 𝐭𝐡𝐞 𝐓𝐞𝐬𝐭 𝐨𝐟 𝐓𝐢𝐦𝐞](https://dev.to/zamirul_kabir/--4nmb)
 - [From Tutorial Hell to Clarity: How I Knew I Was Leveling Up as a Developer🚀](https://dev.to/yaldakhoshpey/from-tutorial-hell-to-clarity-how-i-knew-i-was-leveling-up-as-a-developer-1iab)
-- [Working with Relative Time in Swift](https://dev.to/luisfpedroso/working-with-relative-time-in-swift-43pg)
-- [Unlock Google Cloud Mastery with this 6-Month Arcade Plan](https://dev.to/sagar_grv/unlock-google-cloud-mastery-with-this-6-month-arcade-plan-3p27)
-- [Does Instagram Listen to Our Conversations? — What Really Drives Those Creepy Reels.](https://dev.to/faizan_siddiqui_bd6577cce/does-instagram-listen-to-our-conversations-what-really-drives-those-creepy-reels-20ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
