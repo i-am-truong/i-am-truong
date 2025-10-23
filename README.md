@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Text-to-Baby-Talk Translator for the CLI in Python](https://dev.to/fedtti/how-to-build-a-text-to-baby-talk-translator-for-the-cli-in-python-53h1)
-- [**Evaluating AI Sports Coaching Approaches: Rules-Based Syst](https://dev.to/drcarlosruizviquez/evaluating-ai-sports-coaching-approaches-rules-based-syst-5bp6)
-- [Generative AI for QA: 5 Ways Synthetic Data Solves Privacy and Coverage Gaps](https://dev.to/rg3819034/generative-ai-for-qa-5-ways-synthetic-data-solves-privacy-and-coverage-gaps-269n)
-- [Architecture of Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/architecture-of-java-2cdc)
-- [💡 Using Language Models for Climate Action: Harnessing AI fo](https://dev.to/drcarlosruizviquez/using-language-models-for-climate-action-harnessing-ai-fo-3eah)
+- [We Rebuilt Our Onboarding Around MCP: The Result, 3X SDK Installs](https://dev.to/devcycle/we-rebuilt-our-onboarding-around-mcp-the-result-3x-sdk-installs-1hem)
+- [Building My First Web3 Application: A Journey into Decentralized Message Signing](https://dev.to/kumar111222rohit/building-my-first-web3-application-a-journey-into-decentralized-message-signing-1352)
+- [Music Moodboard Assistant &lpar; Auth0 AI + Spotify &rpar;](https://dev.to/akashb5/music-moodboard-assistant-auth0-ai-spotify--2apm)
+- [Centralizing SVG Handling in Angular Applications](https://dev.to/yshashi30/centralizing-svg-handling-in-angular-applications-1jno)
+- [Speed Up Your Frontend Work: AI-Powered n8n Workflows That Write Code and Save You Time](https://dev.to/yahav10/speed-up-your-frontend-work-ai-powered-n8n-workflows-that-write-code-and-save-you-time-4c7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
