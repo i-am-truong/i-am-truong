@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧩 Two Minor UI Glitches I Came Across on DEV 🙂](https://dev.to/usman_awan/two-minor-ui-glitches-i-came-across-on-dev-af2)
+- [Unlocking Seamless &amp; Secure Access: Introducing Generalized OIDC Authentication in Apache DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/unlocking-seamless-secure-access-introducing-generalized-oidc-authentication-in-apache-4ol7)
+- [CVE-2024-34102: Adobe Commerce and Magento Open Source Improper Restriction of XML External Entity Reference &lpar;XXE&rpar; Vulnerability](https://dev.to/freedom-coder/cve-2024-34102-adobe-commerce-and-magento-open-source-improper-restriction-of-xml-external-entity-3i6l)
+- [What is HTML?](https://dev.to/21csa31/what-is-html-40mp)
 - [Event-Driven Architecture in Production: Designing with AWS EventBridge and Go](https://dev.to/voskan89/event-driven-architecture-in-production-designing-with-aws-eventbridge-and-go-306b)
-- [ASP.NET Core Dependency Injection From Scopes &amp; Lifetimes to .NET 9 Source Generators](https://dev.to/oguzhan-agir-02/aspnet-core-dependency-injection-from-scopes-lifetimes-to-net-9-source-generators-3f06)
-- [Google SWE Intern Interview Experience — The Key to Nailing Both Rounds](https://dev.to/net_programhelp_e160eef28/google-swe-intern-interview-experience-the-key-to-nailing-both-rounds-5465)
-- [Tuya Module Selection and Hardware Development Guide: WiFi, BLE, and Zigbee Comparison](https://dev.to/zediot/tuya-module-selection-and-hardware-development-guide-wifi-ble-and-zigbee-comparison-2kl9)
-- [Taming the Cloud Cost Beast: A Crawl, Walk, Run Guide to Enterprise FinOps](https://dev.to/taniya1004/taming-the-cloud-cost-beast-a-crawl-walk-run-guide-to-enterprise-finops-3151)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
