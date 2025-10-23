@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-30fe)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-52p8)
-- [TIL: DB constraints for column values in Rails](https://dev.to/epigene/til-db-constraints-for-column-values-in-rails-aoh)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2g94)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-43f9)
+- [Unlocking the Power of Automated Workflow: A Developers Guide to Efficiency](https://dev.to/mikeover/unlocking-the-power-of-automated-workflow-a-developers-guide-to-efficiency-47ag)
+- [Hey, I did a thing, you might like it! Java JSpecify Exercise](https://dev.to/ijuren/hey-i-did-a-thing-you-might-like-it-java-jspecify-exercise-1gam)
+- [How to Integrate AI Chatbots with WhatsApp Business](https://dev.to/ethan_clarke_0e14fa6f8e00/how-to-integrate-ai-chatbots-with-whatsapp-business-1pb5)
+- [We Need to Talk About How Toxic Dev Culture Has Become &lpar;And How We Fix It&rpar;](https://dev.to/elvissautet/we-need-to-talk-about-how-toxic-dev-culture-has-become-and-how-we-fix-it-1gi1)
+- [Does Your Site Need a /ai Page?](https://dev.to/rpalo/does-your-site-need-a-ai-page-2hkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
