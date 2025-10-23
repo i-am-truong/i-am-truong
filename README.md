@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Contribute to Pixalo — A Lightweight 2D Game Engine Built for Speed](https://dev.to/salarizadi/how-to-contribute-to-pixalo-a-lightweight-2d-game-engine-built-for-speed-ecf)
 - [Create a cloud-backed IDE for development](https://dev.to/aws-builders/create-a-cloud-backed-ide-for-development-1f64)
 - [Building Explainable Fraud Detection With Amazon Sagemaker and Bedrock](https://dev.to/victorpinzon1988eng/building-explainable-fraud-detection-with-amazon-sagemaker-and-bedrock-11i)
 - [Why Most AI Agents Will Fail: The Orchestration Problem Nobody&#39;s Solving](https://dev.to/hadywalied/why-most-ai-agents-will-fail-the-orchestration-problem-nobodys-solving-1d00)
 - [HNG QA Strategy: Your Test Plan as a Governance Contract](https://dev.to/uziman-qa/hng-qa-strategy-your-test-plan-as-a-governance-contract-124h)
-- [WebAssembly &amp; High-Performance Web Apps: The Future of Blazing-Fast Browser Experiences](https://dev.to/softwaredeveloper01/webassembly-high-performance-web-apps-the-future-of-blazing-fast-browser-experiences-4ino)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
