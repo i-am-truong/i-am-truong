@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Artisan&#39;s Forge: Extending Node.js with the Power of Native Addons](https://dev.to/alex_aslam/the-artisans-forge-extending-nodejs-with-the-power-of-native-addons-5hk1)
+- [Web Design in the AI Era &lpar;2025&rpar;: Trends, Tools &amp; How We Can Help](https://dev.to/badhonaub/web-design-in-the-ai-era-2025-trends-tools-how-we-can-help-102o)
 - [The Artisan&#39;s Pursuit: Conquering the Silent Performance Killer in GraphQL and REST](https://dev.to/alex_aslam/the-artisans-pursuit-conquering-the-silent-performance-killer-in-graphql-and-rest-316m)
 - [If we want to distinguish multiple plots in the same figure in matplotlib, we use the legend function&lpar;&rpar;](https://dev.to/onaolapo11/if-we-want-to-distinguish-multiple-plots-in-the-same-figure-in-matplotlib-we-use-the-legend-98n)
 - [I vibe-coded a 30 chapter book on regex](https://dev.to/davidcanhelp/i-vibe-coded-a-30-chapter-book-on-regex-2l59)
-- [The Conductor&#39;s Baton: Orchestrating Real-Time UIs with Turbo Streams](https://dev.to/alex_aslam/the-conductors-baton-orchestrating-real-time-uis-with-turbo-streams-n0e)
-- [List in Python &lpar;2&rpar;](https://dev.to/hyperkai/list-in-python-2-2pj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
