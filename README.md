@@ -119,11 +119,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 33](https://dev.to/tomivan/coding-challenge-practice-question-33-442n)
-- [Instalar DBeaver no Linux Mint com atualização automática](https://dev.to/brayanmonteiroo/instalar-dbeaver-no-linux-mint-com-atualizacao-automatica-4co3)
-- [Meta-RL Project SSM-MetaRL-TestCompute: A Production-Ready Framework](https://dev.to/stargatekr13/meta-rl-project-needs-ssm-metarl-testcompute-a-production-ready-framework-6g9)
-- [Are Large Language Models the Steam Engine of My Time? And, if so, am I the John Henry of this tale?](https://dev.to/skullzarmy/are-large-language-models-the-steam-engine-of-my-time-and-if-so-am-i-the-john-henry-of-this-tale-45gi)
-- [The Stained-Glass Artisan: Composing UIs with Turbo Frames](https://dev.to/alex_aslam/the-stained-glass-artisan-composing-uis-with-turbo-frames-171f)
+- [RISC-V Test Generation: Using Random and Directed Stimulus to Achieve Coverage Closure](https://dev.to/alpinumblogs/risc-v-test-generation-using-random-and-directed-stimulus-to-achieve-coverage-closure-221d)
+- [When you train AI to think with your logic, you don’t just save time; you multiply your focus across industries.
+
+AI isn’t replacing assistants; it’s redefining what one assistant can achieve.](https://dev.to/jaideepparashar/when-you-train-ai-to-think-with-your-logic-you-dont-just-save-time-you-multiply-your-focus-blm)
+- [How I Run 3 Brands With 1 AI Assistant: My ChatGPT Workflow](https://dev.to/jaideepparashar/how-i-run-3-brands-with-1-ai-assistant-my-chatgpt-workflow-3dka)
+- [Mengenal Protokol Komunikasi pada Aplikasi Modern](https://dev.to/naandan/mengenal-protokol-komunikasi-pada-aplikasi-modern-15n1)
+- [Build Your Own Forum with FastAPI: Step 3 - HTML Template](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-3-html-template-4gf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
