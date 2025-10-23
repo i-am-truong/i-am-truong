@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink S4e8: Blink vs. The Gilded Rose: The Refactor Gambit](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e8-blink-vs-the-gilded-rose-the-refactor-gambit-4lj1)
-- [Coding is 10% Writing Code and 90% Error Handling What You Just Forgot.](https://dev.to/melchizedek_amos_90899930/coding-is-10-writing-code-and-90-error-handling-what-you-just-forgot-469m)
-- [SearcherO - Find Your Dream Job](https://dev.to/codewizard123/searchero-find-your-dream-job-269h)
-- [Building Enterprise-Level Monitoring: From Prometheus to Grafana Dashboards](https://dev.to/cyberscoper/building-enterprise-level-monitoring-from-prometheus-to-grafana-dashboards-3pge)
-- [Next Greater Element &lpar;Right&rpar; using Stack](https://dev.to/we_are_broken_compilers/next-greater-element-right-using-stack-3ngn)
+- [Modified Binary Search](https://dev.to/techxved/modified-binary-search-51km)
+- [7 Man-in-the-Middle &lpar;MitM&rpar; Attacks to Look Out For](https://dev.to/markcontent/7-man-in-the-middle-mitm-attacks-to-look-out-for-1lc5)
+- [The doings 💯](https://dev.to/adekunle_emmanuel_fefd557/the-doings-34pg)
+- [2 Most Popular free Android Apps of the week](https://dev.to/david_18/2-most-popular-free-android-apps-of-the-week-5035)
+- [Perplexity Comet vs ChatGPT Atlas: Which Browser Makes Research Easier?](https://dev.to/jovin_george_733dcfc16291/perplexity-comet-vs-chatgpt-atlas-which-browser-makes-research-easier-3d43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
