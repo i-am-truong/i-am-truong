@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FLOWCHART: REPRESENTASI VISUAL ALGORITMA](https://dev.to/ahmadasroni38/flowchart-representasi-visual-algoritma-hgl)
+- [Event Modeling: Visible Issues and My Vision](https://dev.to/maksim_matlakhov/event-modeling-visible-issues-and-my-vision-34en)
 - [Secure No-Code AI: How to Host Open-Source Tools Safely with Docker and Local LLMs](https://dev.to/brains_behind_bots/secure-no-code-ai-how-to-host-open-source-tools-safely-with-docker-and-local-llms-269f)
 - [How I switched from ruby to elixir and to learn it better — built a product](https://dev.to/avdept/how-i-switched-from-ruby-to-elixir-and-to-learn-it-better-built-a-product-35m2)
 - [Trigger.dev is on Product Hunt today. Join the fun!](https://dev.to/fmerian/triggerdev-is-on-product-hunt-today-join-the-fun-4mln)
-- [Late Nights, Cold Coffee, and the Secret Life of Twitter Viewers](https://dev.to/jenny_wei_4c0cd46995b0786/late-nights-cold-coffee-and-the-secret-life-of-twitter-viewers-45kd)
-- [Automating API Testing with Open Source Testing Tools: Best Practices and Tips](https://dev.to/sophielane/automating-api-testing-with-open-source-testing-tools-best-practices-and-tips-2b2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
