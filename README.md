@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 9 | 50 Projects in 50 Days](https://dev.to/augusta08/day-9-50-projects-in-50-days-2ih1)
+- [Automating Transit Gateway Attachment Tagging Using EventBridge and Lambda](https://dev.to/santanu_das/automating-transit-gateway-attachment-tagging-using-eventbridge-and-lambda-10lh)
+- [Part 4: Payments and Ticket Issuance](https://dev.to/sumedhbala/part-4-payments-and-ticket-issuance-3h7h)
 - [Contribution Chronicles: My Hacktoberfest 2025 Journey](https://dev.to/pratik_12b3f8bf3b50e48bae/contribution-chronicles-my-hacktoberfest-2025-journey-236e)
 - [Why JavaScript Blocks the HTML Parser — and How It Affects the Critical Rendering Path](https://dev.to/lovestaco/why-javascript-blocks-the-html-parser-and-how-it-affects-the-critical-rendering-path-3mog)
-- [Part 2: Event Discovery](https://dev.to/sumedhbala/part-2-event-discovery-32o5)
-- [✍️ Text Case Converter Online Free Tool &lpar;2025&rpar;](https://dev.to/foxpink/text-case-converter-online-free-tool-2025-2n5l)
-- [✂️ Remove Background from Images Online Free &lpar;2025&rpar;](https://dev.to/foxpink/remove-background-from-images-online-free-2025-7m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
