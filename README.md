@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Check out the guide on - Building Regression Models in R using Support Vector Regression &lpar;SVR&rpar;](https://dev.to/thedatageek/check-out-the-guide-on-building-regression-models-in-r-using-support-vector-regression-svr-4fb0)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-492n)
-- [100 Days of DevOps: Day 76](https://dev.to/wycliffealphus/100-days-of-devops-day-76-1fi7)
-- [How AI Noise Cancellation for Call Centers Builds Real-Time Voice Fluency and Harmonization?](https://dev.to/allandermot/how-ai-noise-cancellation-for-call-centers-builds-real-time-voice-fluency-and-harmonization-5cfc)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-10ll)
+- [Event-Driven Architecture in Production: Designing with AWS EventBridge and Go](https://dev.to/voskan89/event-driven-architecture-in-production-designing-with-aws-eventbridge-and-go-306b)
+- [ASP.NET Core Dependency Injection From Scopes &amp; Lifetimes to .NET 9 Source Generators](https://dev.to/oguzhan-agir-02/aspnet-core-dependency-injection-from-scopes-lifetimes-to-net-9-source-generators-3f06)
+- [Google SWE Intern Interview Experience — The Key to Nailing Both Rounds](https://dev.to/net_programhelp_e160eef28/google-swe-intern-interview-experience-the-key-to-nailing-both-rounds-5465)
+- [Tuya Module Selection and Hardware Development Guide: WiFi, BLE, and Zigbee Comparison](https://dev.to/zediot/tuya-module-selection-and-hardware-development-guide-wifi-ble-and-zigbee-comparison-2kl9)
+- [Taming the Cloud Cost Beast: A Crawl, Walk, Run Guide to Enterprise FinOps](https://dev.to/taniya1004/taming-the-cloud-cost-beast-a-crawl-walk-run-guide-to-enterprise-finops-3151)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
