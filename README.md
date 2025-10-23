@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Não falo português, só estou postando para dar o pontapé inicial. Por favor, perdoe qualquer erro. 😭](https://dev.to/ben/nao-falo-portugues-so-estou-postando-para-dar-o-pontape-inicial-por-favor-perdoe-qualquer-erro-3605)
-- [Tudo o que é publicado neste espaço é facilmente descoberto no ecossistema DEV, mas esperamos que este possa ser um espaço para servir mais diretamente esta comunidade!](https://dev.to/ben/tudo-o-que-e-publicado-neste-espaco-e-facilmente-descoberto-no-ecossistema-dev-mas-esperamos-que-3794)
-- [olá mundo](https://dev.to/ben/ola-mundo-3b3g)
-- [Scaling Coupyn: Handling Millions of Requests a Day on $50 Using Cloudflare Edge Caching](https://dev.to/coupyn/scaling-coupyn-handling-millions-of-requests-a-day-on-50-using-cloudflare-edge-caching-3o46)
-- [Building XMLtoMD: Real-Time XML Validation with Monaco Editor in React](https://dev.to/muhammad_yousuf_83c011ea8/building-xmltomd-real-time-xml-validation-with-monaco-editor-in-react-41la)
+- [How to Build a Text-to-Baby-Talk Translator for the CLI in Python](https://dev.to/fedtti/how-to-build-a-text-to-baby-talk-translator-for-the-cli-in-python-53h1)
+- [**Evaluating AI Sports Coaching Approaches: Rules-Based Syst](https://dev.to/drcarlosruizviquez/evaluating-ai-sports-coaching-approaches-rules-based-syst-5bp6)
+- [Generative AI for QA: 5 Ways Synthetic Data Solves Privacy and Coverage Gaps](https://dev.to/rg3819034/generative-ai-for-qa-5-ways-synthetic-data-solves-privacy-and-coverage-gaps-269n)
+- [Architecture of Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/architecture-of-java-2cdc)
+- [💡 Using Language Models for Climate Action: Harnessing AI fo](https://dev.to/drcarlosruizviquez/using-language-models-for-climate-action-harnessing-ai-fo-3eah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
