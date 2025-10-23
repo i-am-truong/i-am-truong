@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI assistance is only making coders dumb, lazy and prone to replacement](https://dev.to/prahladyeri/ai-assistance-is-only-making-coders-dumb-lazy-and-prone-to-replacement-2954)
+- [🔥 Pug to HTML Converter — Because You Deserve Pretty Markup Without the Typing Pain 😎](https://dev.to/akashbijwe/pug-to-html-converter-because-you-deserve-pretty-markup-without-the-typing-pain-28g0)
+- [✨ My QA Journey So Far: Requirement Review &amp; Test Planning with HNGi13 ✨](https://dev.to/ayomide_popoola_d2af359e7/my-qa-journey-so-far-requirement-review-test-planning-with-hngi13-4pco)
+- [How to Fix Vue Hydration Mismatch](https://dev.to/ahmed_niazy/how-to-fix-vue-hydration-mismatch-1dl)
 - [Understanding Random Variables in Python: Discrete vs Continuous](https://dev.to/rigalpatel001/understanding-random-variables-in-python-discrete-vs-continuous-1p4n)
-- [CSS Positioning Explained: Static, Relative, Absolute, Fixed, and Sticky](https://dev.to/sharique_siddiqui_8242dad/css-positioning-explained-static-relative-absolute-fixed-and-sticky-55j3)
-- [Agile Project Management in Software Development Teams](https://dev.to/marksantiago02/agile-project-management-in-software-development-teams-20bl)
-- [Clocked JK Flip Flop: Universal Building Block for Digital Logic — Circuit Design, Applications, and Practical Guide](https://dev.to/messin_tom/clocked-jk-flip-flop-universal-building-block-for-digital-logic-circuit-design-applications-1kmh)
-- [A Step-by-step guide to Javascript Unit Testing](https://dev.to/markcontent/a-step-by-step-guide-to-javascript-unit-testing-166n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
