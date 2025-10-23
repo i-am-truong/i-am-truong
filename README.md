@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CLI Story from Our AI Agents](https://dev.to/vitramir/cli-story-from-our-ai-agents-31bn)
-- [Getting Started with AWS Config: Monitor, Detect, and Remediate Non-Compliant Resources](https://dev.to/harshhp/getting-started-with-aws-config-monitor-detect-and-remediate-non-compliant-resources-439l)
-- [# Does IPTV Work Internationally? A Complete Technical Guide for Developers](https://dev.to/iptv_aussie_a3ad3593c505b/-does-iptv-work-internationally-a-complete-technical-guide-for-developers-kjd)
-- [Call-to-Actions Done Right: The Ultimate CTA Guide for More Engagement](https://dev.to/per-starke-642/call-to-actions-done-right-the-ultimate-cta-guide-for-more-engagement-5cml)
-- [Your Sports Coaching Website Doesn’t Work For You?](https://dev.to/per-starke-642/your-sports-coaching-website-doesnt-work-for-you-k3k)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-2bpc)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-8ba)
+- [Angular 20: Querying Data with `rxResource` — from `request/loader` to `params/stream`](https://dev.to/cristiansifuentes/angular-20-querying-data-with-rxresource-from-requestloader-to-paramsstream-ond)
+- [AI Skills Every QA Should Learn in 2026](https://dev.to/dasha_tsion/ai-skills-every-qa-should-learn-in-2026-1f91)
+- [Decision Trees Evolved: Faster, Smarter Reinforcement Learning by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decision-trees-evolved-faster-smarter-reinforcement-learning-by-arvind-sundararajan-2cpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
