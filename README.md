@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python bytearray](https://dev.to/sengseng/python-bytearray-51cc)
+- [The key to picking your first language &lpar;without the stress&rpar;](https://dev.to/fahimulhaq/the-key-to-picking-your-first-language-without-the-stress-38jc)
+- [fast-json-format: Format JSON Without Data Loss](https://dev.to/jqueryscript/fast-json-format-format-json-without-data-loss-33cj)
+- [11 Best iOS Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-ios-development-courses-to-learn-in-2026-2iho)
 - [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-21n9)
-- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-59ok)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-3o1d)
-- [Docker Compose for Multi-Container Applications: A Practical Guide](https://dev.to/ctrix/docker-compose-for-multi-container-applications-a-practical-guide-1aa7)
-- [⚙️ How Cloud Computing Powers Modern Apps](https://dev.to/alexpeteray/how-cloud-computing-powers-modern-apps-3b7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
