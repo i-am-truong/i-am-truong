@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Two Minor UI Glitches I Came Across on DEV 🙂](https://dev.to/usman_awan/two-minor-ui-glitches-i-came-across-on-dev-af2)
-- [Unlocking Seamless &amp; Secure Access: Introducing Generalized OIDC Authentication in Apache DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/unlocking-seamless-secure-access-introducing-generalized-oidc-authentication-in-apache-4ol7)
-- [CVE-2024-34102: Adobe Commerce and Magento Open Source Improper Restriction of XML External Entity Reference &lpar;XXE&rpar; Vulnerability](https://dev.to/freedom-coder/cve-2024-34102-adobe-commerce-and-magento-open-source-improper-restriction-of-xml-external-entity-3i6l)
-- [What is HTML?](https://dev.to/21csa31/what-is-html-40mp)
-- [Event-Driven Architecture in Production: Designing with AWS EventBridge and Go](https://dev.to/voskan89/event-driven-architecture-in-production-designing-with-aws-eventbridge-and-go-306b)
+- [Behind the Scenes: Building a Secure Trading Platform](https://dev.to/globridge-tech/behind-the-scenes-building-a-secure-trading-platform-5c9e)
+- [Power Your Vision with LiPower Your Vision with Linux VPS Servernux VPS Server](https://dev.to/kartik_work_02e8841c5fbeb/power-your-vision-with-lipower-your-vision-with-linux-vps-servernux-vps-server-4h3b)
+- [September 2025: Review of learning records](https://dev.to/kazutora_hattori_66972c88/september-2025-review-of-learning-records-25cg)
+- [From Idea to Action: Building Practical AI Agents on AWS-Chapter-1](https://dev.to/saitejab/from-idea-to-action-building-practical-ai-agents-on-aws-chapter-1-37n)
+- [PostgreSQL: How to Show Tables Using PSQL or SQL Queries](https://dev.to/dbvismarketing/postgresql-how-to-show-tables-using-psql-or-sql-queries-2mni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
