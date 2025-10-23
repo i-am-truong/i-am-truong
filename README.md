@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Arbitrum Adds Native EIP-7702, Fusaka Cell Proofs, CZ x YZI Oracle, and Tether’s WDK](https://dev.to/etherspot/arbitrum-adds-native-eip-7702-fusaka-cell-proofs-cz-x-yzi-oracle-and-tethers-wdk-e6)
+- [Actions — delegates that return void](https://dev.to/eli77rhm/actions-delegates-that-return-void-4pkb)
+- [MLOps: The Secret Weapon for Supercharging Your Machine Learning](https://dev.to/karthik_n/mlops-the-secret-weapon-for-supercharging-your-machine-learning-22bg)
+- [Inside TekBreed&#39;s Engineering: Why Monorepo Architecture with Turborepo Powers Our Platform](https://dev.to/codingsimba/inside-tekbreeds-engineering-why-monorepo-architecture-with-turborepo-powers-our-platform-5efi)
 - [I Analyzed 100 Claude MCP Servers and Found Critical Security Flaws in 43% of Them](https://dev.to/amir_mironi/i-analyzed-100-claude-mcp-servers-and-found-critical-security-flaws-in-43-of-them-ikj)
-- [Navigating Modern Website Security Challenges in 2025](https://dev.to/carrie_luo1/navigating-modern-website-security-challenges-in-2025-48l)
-- [How I developed my very own Portfolio Website using HTML, CSS, and JavaScript](https://dev.to/syedishtiyaqahmed/how-i-developed-my-very-own-portfolio-website-using-html-css-and-javascript-35e7)
-- [Winston-Salem vs Greensboro](https://dev.to/thenorthcarolinabeat/winston-salem-vs-greensboro-3n2g)
-- [How to Implement Dynamic Island for iOS — and Live Notifications + Now Bar on Android](https://dev.to/forge-stackobea/how-to-implement-dynamic-island-for-ios-and-live-notifications-now-bar-on-android-155b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
