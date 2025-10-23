@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PWC 344, Task 2: Pick Up the Pieces](https://dev.to/boblied/pwc-344-task-2-pick-up-the-pieces-3391)
+- [React Tiny Store](https://dev.to/anirudhchintha95/react-tiny-store-2b8)
+- [Frontendda debouncing va throttling. Qachon qaysi biridan foydalanish kerak?](https://dev.to/azizbek_usmonov_112e1ddc8/frontendda-debouncing-va-throttling-qachon-qaysi-biridan-foydalanish-kerak-1c5n)
 - [Introducing devtool for running and benchmarking AI on-device](https://dev.to/embedl-hub/introducing-devtool-for-running-and-benchmarking-ai-on-device-4hi5)
 - [Learning Cryptography with ChatGPT: Building Assetspan, a Zero-Knowledge Secrets Manager](https://dev.to/degecko/learning-cryptography-with-chatgpt-building-assetspan-a-zero-knowledge-secrets-manager-23gn)
-- [🌟 Maintainer Spotlight: Solving LeetCode Challenges in PHP — One Problem at a Time!](https://dev.to/mdarifulhaque/maintainer-spotlight-solving-leetcode-challenges-in-php-one-problem-at-a-time-5a8b)
-- [From Code to Campaign: Turning Your Open‑Source Project into a Marketing Powerhouse](https://dev.to/stormdjent/from-code-to-campaign-turning-your-open-source-project-into-a-marketing-powerhouse-455p)
-- [Building Features Won&#39;t Save Your Product &lpar;But This Will&rpar;](https://dev.to/shayy/building-features-wont-save-your-product-but-this-will-3hf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
