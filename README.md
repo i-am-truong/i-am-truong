@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Load testing vs stress testing: How to scale performance practices with confidence](https://dev.to/gatling/load-testing-vs-stress-testing-how-to-scale-performance-practices-with-confidence-1cpl)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3lkm)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-41ek)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2bgo)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2eko)
+- [Build Your Own Offline AI Voiceover Tool in Python — No APIs, No Limits](https://dev.to/n3on/build-your-own-offline-ai-voiceover-tool-in-python-no-apis-no-limits-16g8)
+- [I Built a Go CLI to Find AWS Cloud Waste &amp; Security Risks in 60 Seconds](https://dev.to/abdul_herbli_4e2bece5e77a/i-built-a-go-cli-to-find-aws-security-holes-in-60-seconds-116j)
+- [The Retail Revolution: How AI Is Quietly Rebuilding the Shopping Experience](https://dev.to/yallogroup/the-retail-revolution-how-ai-is-quietly-rebuilding-the-shopping-experience-5453)
+- [Why agent orchestration is harder than kubernetes - Lessons while building Agentflow](https://dev.to/siddhantkcode/why-agent-orchestration-is-harder-than-kubernetes-lessons-while-building-agentflow-4jm3)
+- [JDBC Connectivity in Java &lpar;Java Database Connectivity&rpar;](https://dev.to/manikandan_a8f99e0153ef77/jdbc-connectivity-in-java-java-database-connectivity-312o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
