@@ -119,11 +119,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Rebuilt Our Onboarding Around MCP: The Result, 3X SDK Installs](https://dev.to/devcycle/we-rebuilt-our-onboarding-around-mcp-the-result-3x-sdk-installs-1hem)
-- [Building My First Web3 Application: A Journey into Decentralized Message Signing](https://dev.to/kumar111222rohit/building-my-first-web3-application-a-journey-into-decentralized-message-signing-1352)
-- [Music Moodboard Assistant &lpar; Auth0 AI + Spotify &rpar;](https://dev.to/akashb5/music-moodboard-assistant-auth0-ai-spotify--2apm)
-- [Centralizing SVG Handling in Angular Applications](https://dev.to/yshashi30/centralizing-svg-handling-in-angular-applications-1jno)
-- [Speed Up Your Frontend Work: AI-Powered n8n Workflows That Write Code and Save You Time](https://dev.to/yahav10/speed-up-your-frontend-work-ai-powered-n8n-workflows-that-write-code-and-save-you-time-4c7c)
+- [Realised vs Unrealised P/L — Money in Your Pocket vs Money on Paper](https://dev.to/pocketportfolioapp/realised-vs-unrealised-pl-money-in-your-pocket-vs-money-on-paper-4p50)
+- [Building an Azure Key Vault Multi-Region Sync Solution](https://dev.to/anderson_leite/building-an-azure-key-vault-multi-region-sync-solution-3ca7)
+- [Deploy Your Shopify App to Heroku in Seconds](https://dev.to/imohamadnashaat/deploy-your-shopify-app-to-heroku-in-seconds-ln)
+- [Agora um espaço para falar sobre #Clojure em português &lt;3 
+
+Quer conhecer mais sobre Clojure? https://clojurebrasil.com.br/](https://dev.to/afucher/agora-um-espaco-para-falar-sobre-clojure-em-portugues-3-quer-conhecer-mais-sobre-clojure-30cj)
+- [API-Led Connectivity - Practical Questions Answered - Part II](https://dev.to/shandor_sharvari/api-led-connectivity-practical-questions-answered-part-ii-5f81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
