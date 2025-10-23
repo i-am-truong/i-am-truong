@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Tiny Hero: A Text-Based RPG Adventure with Python for Beginners and Intermediates](https://dev.to/shahrouzlogs/building-tiny-hero-a-text-based-rpg-adventure-with-python-for-beginners-and-intermediates-36kn)
+- [features of Angular 20](https://dev.to/lobogomes/features-of-angular-20-3p62)
+- [ITSM Knowledge Management: Building Smarter, More Connected IT Operations](https://dev.to/kapusto/itsm-knowledge-management-building-smarter-more-connected-it-operations-47ab)
 - [Your AI Can’t Save a File. Here’s How to Give It Superpowers.](https://dev.to/onlineproxy/your-ai-cant-save-a-file-heres-how-to-give-it-superpowers-1d01)
-- [Lessons from building a full-stack web application](https://dev.to/excelsior2021/lessons-from-building-a-full-stack-web-application-9eh)
-- [Strengthening the Grid: Building Effective NERC CIP Compliance Programs for Cybersecurity Resilience](https://dev.to/kapusto/strengthening-the-grid-building-effective-nerc-cip-compliance-programs-for-cybersecurity-resilience-l0k)
-- [From Frustration to Automation: Building a Squash Court Availability App](https://dev.to/aws-builders/from-frustration-to-automation-building-a-squash-court-availability-app-54f6)
-- [The Hidden Dangers of Smart Devices: Understanding IoT Vulnerabilities and Security Risks](https://dev.to/kapusto/the-hidden-dangers-of-smart-devices-understanding-iot-vulnerabilities-and-security-risks-220l)
+- [Non Human Identity Management: The New Frontier of Enterprise Security](https://dev.to/kapusto/non-human-identity-management-the-new-frontier-of-enterprise-security-42a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
