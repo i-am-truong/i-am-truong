@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FlakyHunter: Revolutionizing How You Detect and Fix Flaky Tests](https://dev.to/n3on/flakyhunter-revolutionizing-how-you-detect-and-fix-flaky-tests-41c9)
-- [RNG-Aliasing: Synthetic DVFS-Driven RNG Obfuscation](https://dev.to/raghubathi_rajatk_6f274/rng-aliasing-synthetic-dvfs-driven-rng-obfuscation-5d58)
-- [Building Digital Sovereignty in the Philippines: Open-Source Solutions for Transparent, Secure Government](https://dev.to/alvinveroy/building-digital-sovereignty-in-the-philippines-open-source-solutions-for-transparent-secure-23c9)
-- [🧩 Testing Feature Support for Modern CSS — The Smart Developer’s Guide](https://dev.to/er-raj-aryan/testing-feature-support-for-modern-css-the-smart-developers-guide-56h4)
-- [**Revolutionizing Entertainment: The Rise of AI-Powered &#39;Dre](https://dev.to/drcarlosruizviquez/revolutionizing-entertainment-the-rise-of-ai-powered-dre-228m)
+- [Announcing Attractive.js, a new JavaScript-free JavaScript library](https://dev.to/railsdesigner/announcing-attractivejs-a-new-javascript-free-javascript-library-1lno)
+- [Why experiments belong inside feature flags, not beside them](https://dev.to/miraan/why-experiments-belong-inside-feature-flags-not-beside-them-3i1i)
+- [I built MathHacks - a weekend mathathon, now live!](https://dev.to/vulcanwm/i-built-mathhacks-a-weekend-mathathon-now-live-3lo1)
+- [Solving “Browser Back Resets Infinite Scroll” with a Next.js URL-Addressable Modal](https://dev.to/derarion/solving-browser-back-resets-infinite-scroll-with-a-nextjs-url-addressable-modal-1doa)
+- [FastAPI deployment Heroku vs AWS / GCP with Defang](https://dev.to/defanglabs/fastapi-deployment-heroku-vs-defang-fgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
