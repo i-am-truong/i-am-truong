@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-2bpc)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-8ba)
 - [Angular 20: Querying Data with `rxResource` — from `request/loader` to `params/stream`](https://dev.to/cristiansifuentes/angular-20-querying-data-with-rxresource-from-requestloader-to-paramsstream-ond)
 - [AI Skills Every QA Should Learn in 2026](https://dev.to/dasha_tsion/ai-skills-every-qa-should-learn-in-2026-1f91)
 - [Decision Trees Evolved: Faster, Smarter Reinforcement Learning by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decision-trees-evolved-faster-smarter-reinforcement-learning-by-arvind-sundararajan-2cpm)
+- [Mastering MRI Bloch Simulations with BlochSim.jl in Julia](https://dev.to/glcsblog/mastering-mri-bloch-simulations-with-blochsimjl-in-julia-25bf)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-5987)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
