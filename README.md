@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Halloween challenge](https://dev.to/amananandrai/halloween-challenge-ak1)
-- [Selling SaaS Down-Market: What Real Growth Looks Like Now](https://dev.to/sonu_goswami/selling-saas-down-market-what-real-growth-looks-like-now-49aj)
-- [Modified Binary Search](https://dev.to/techxved/modified-binary-search-51km)
-- [7 Man-in-the-Middle &lpar;MitM&rpar; Attacks to Look Out For](https://dev.to/markcontent/7-man-in-the-middle-mitm-attacks-to-look-out-for-1lc5)
-- [The doings 💯](https://dev.to/adekunle_emmanuel_fefd557/the-doings-34pg)
+- [Organizing and Improving Message Production and Consumption in Azure Service Bus with AsbFlow](https://dev.to/felipemattioli/organizing-and-improving-message-production-and-consumption-in-azure-service-bus-with-asbflow-3pi7)
+- [Why Product Hunt No Longer Works for Indie Founders](https://dev.to/indiehackerksa/why-product-hunt-no-longer-works-for-indie-founders-aom)
+- [AGHORMI.game](https://dev.to/teen_waiting_d263dab7007c/aghormigame-4311)
+- [No-Nonsense Web3 PR: How to Stop Wasting Everyone’s Time and Start Building Proof](https://dev.to/sonia_bobrik_1939cdddd79d/no-nonsense-web3-pr-how-to-stop-wasting-everyones-time-and-start-building-proof-1l17)
+- [The Practical Playbook for Trustworthy AI Agents in Production](https://dev.to/sonia_bobrik_1939cdddd79d/the-practical-playbook-for-trustworthy-ai-agents-in-production-3fdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
