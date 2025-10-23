@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Tiny Hero: A Text-Based RPG Adventure with Python for Beginners and Intermediates](https://dev.to/shahrouzlogs/building-tiny-hero-a-text-based-rpg-adventure-with-python-for-beginners-and-intermediates-36kn)
-- [features of Angular 20](https://dev.to/lobogomes/features-of-angular-20-3p62)
-- [ITSM Knowledge Management: Building Smarter, More Connected IT Operations](https://dev.to/kapusto/itsm-knowledge-management-building-smarter-more-connected-it-operations-47ab)
-- [Your AI Can’t Save a File. Here’s How to Give It Superpowers.](https://dev.to/onlineproxy/your-ai-cant-save-a-file-heres-how-to-give-it-superpowers-1d01)
-- [Non Human Identity Management: The New Frontier of Enterprise Security](https://dev.to/kapusto/non-human-identity-management-the-new-frontier-of-enterprise-security-42a)
+- [print tree3](https://dev.to/query_filter_591122b53770/print-tree3-3795)
+- [print tree2](https://dev.to/query_filter_591122b53770/print-tree2-2pjc)
+- [5 Resume Mistakes You MUST Avoid](https://dev.to/thenishantmodi/5-resume-mistakes-you-must-avoid-18a0)
+- [Supercomputers: The Giants of Computation Driving Our Future](https://dev.to/sergio_snchezfuentes_6a/supercomputers-the-giants-of-computation-driving-our-future-m43)
+- [Git Branch Comparison — A Senior Dev’s Playbook &lpar;Concise Expert&rpar;](https://dev.to/cristiansifuentes/git-branch-comparison-a-senior-devs-playbook-concise-expert-2bbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
