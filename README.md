@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lessons learned from AWS outage - what can you do?](https://dev.to/shajam/lessons-learned-from-aws-outage-what-can-you-do-c47)
-- [The Future of Memarya: Our Roadmap and How You Can Help Build It](https://dev.to/dawaman43/the-future-of-memarya-our-roadmap-and-how-you-can-help-build-it-g28)
-- [How I Built a Minimalist SaaS Landing Page That Scores 99 on PageSpeed](https://dev.to/harsh-web/how-i-built-a-minimalist-saas-landing-page-that-scores-99-on-pagespeed-50k5)
-- [What&#39;s something AI code generators are surprisingly good at vs surprisingly bad at?](https://dev.to/emma_schmidt_/whats-something-ai-code-generators-are-surprisingly-good-at-vs-surprisingly-bad-at-57og)
-- [🧩 Introducing svg-sprite: A Developer-Friendly SVG Sprite Generator for .NET](https://dev.to/dotmake/introducing-svg-sprite-a-developer-friendly-svg-sprite-generator-for-net-2ie5)
+- [Check out the guide on - Building Regression Models in R using Support Vector Regression &lpar;SVR&rpar;](https://dev.to/thedatageek/check-out-the-guide-on-building-regression-models-in-r-using-support-vector-regression-svr-4fb0)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-492n)
+- [100 Days of DevOps: Day 76](https://dev.to/wycliffealphus/100-days-of-devops-day-76-1fi7)
+- [How AI Noise Cancellation for Call Centers Builds Real-Time Voice Fluency and Harmonization?](https://dev.to/allandermot/how-ai-noise-cancellation-for-call-centers-builds-real-time-voice-fluency-and-harmonization-5cfc)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-10ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
