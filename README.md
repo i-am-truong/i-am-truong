@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing Developer Potential: Balancing Cognitive Load for Peak Productivity](https://dev.to/george_udonte/unleashing-developer-potential-balancing-cognitive-load-for-peak-productivity-1636)
+- [Building a Season-Smart Ramen Chef Agent with Ruby + OpenAI](https://dev.to/stevenwallace/building-a-season-smart-ramen-chef-agent-with-ruby-openai-43ei)
 - [FLOWCHART: REPRESENTASI VISUAL ALGORITMA](https://dev.to/ahmadasroni38/flowchart-representasi-visual-algoritma-hgl)
 - [Event Modeling: Visible Issues and My Vision](https://dev.to/maksim_matlakhov/event-modeling-visible-issues-and-my-vision-34en)
-- [Secure No-Code AI: How to Host Open-Source Tools Safely with Docker and Local LLMs](https://dev.to/brains_behind_bots/secure-no-code-ai-how-to-host-open-source-tools-safely-with-docker-and-local-llms-269f)
-- [How I switched from ruby to elixir and to learn it better — built a product](https://dev.to/avdept/how-i-switched-from-ruby-to-elixir-and-to-learn-it-better-built-a-product-35m2)
-- [Trigger.dev is on Product Hunt today. Join the fun!](https://dev.to/fmerian/triggerdev-is-on-product-hunt-today-join-the-fun-4mln)
+- [Communication encoding network](https://dev.to/rikinptl/communication-encoding-network-113h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
