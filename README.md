@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [print tree5](https://dev.to/query_filter_591122b53770/print-tree5-21cp)
+- [**Unlocking the Power of Prompt Engineering for Creative Sto](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-prompt-engineering-for-creative-sto-14k1)
+- [🌐 Historia y Funcionamiento de Internet](https://dev.to/ruiiz_dev/historia-y-funcionamiento-de-internet-44f9)
 - [The 10 Essential VS Code Extensions Frontend Devs Need in 2025](https://dev.to/ilham-bouktir/the-10-essential-vs-code-extensions-frontend-devs-need-in-2025-5h83)
 - [print tree4](https://dev.to/query_filter_591122b53770/print-tree4-45ma)
-- [print tree3](https://dev.to/query_filter_591122b53770/print-tree3-3795)
-- [print tree2](https://dev.to/query_filter_591122b53770/print-tree2-2pjc)
-- [5 Resume Mistakes You MUST Avoid](https://dev.to/thenishantmodi/5-resume-mistakes-you-must-avoid-18a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
