@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python bytearray](https://dev.to/sengseng/python-bytearray-51cc)
-- [The key to picking your first language &lpar;without the stress&rpar;](https://dev.to/fahimulhaq/the-key-to-picking-your-first-language-without-the-stress-38jc)
-- [fast-json-format: Format JSON Without Data Loss](https://dev.to/jqueryscript/fast-json-format-format-json-without-data-loss-33cj)
-- [11 Best iOS Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-ios-development-courses-to-learn-in-2026-2iho)
-- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-21n9)
+- [🧩 Introducing svg-sprite: A Developer-Friendly SVG Sprite Generator for .NET](https://dev.to/dotmake/introducing-svg-sprite-a-developer-friendly-svg-sprite-generator-for-net-2ie5)
+- [Chat With Your Files And Database Locally, Open Source](https://dev.to/assistantengine/chat-with-your-files-and-database-locally-open-source-2b1j)
+- [How I Recovered an Entire Project After a Drive Crash &lpar;and What I Learned About Data Recovery&rpar;](https://dev.to/arasso_boula_fdbd092d3af7/how-i-recovered-an-entire-project-after-a-drive-crash-and-what-i-learned-about-data-recovery-19bi)
+- [Error Handling and Logging: The Things That Save Your Backend](https://dev.to/sandeep_03j/error-handling-and-logging-the-things-that-save-your-backend-3ggo)
+- [FREE EBOOK: Master Linux File Permissions 🐧](https://dev.to/nedtechie/free-ebook-master-linux-file-permissions-4n50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
