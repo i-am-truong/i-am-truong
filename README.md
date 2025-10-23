@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Organizing and Improving Message Production and Consumption in Azure Service Bus with AsbFlow](https://dev.to/felipemattioli/organizing-and-improving-message-production-and-consumption-in-azure-service-bus-with-asbflow-3pi7)
-- [Why Product Hunt No Longer Works for Indie Founders](https://dev.to/indiehackerksa/why-product-hunt-no-longer-works-for-indie-founders-aom)
-- [AGHORMI.game](https://dev.to/teen_waiting_d263dab7007c/aghormigame-4311)
-- [No-Nonsense Web3 PR: How to Stop Wasting Everyone’s Time and Start Building Proof](https://dev.to/sonia_bobrik_1939cdddd79d/no-nonsense-web3-pr-how-to-stop-wasting-everyones-time-and-start-building-proof-1l17)
-- [The Practical Playbook for Trustworthy AI Agents in Production](https://dev.to/sonia_bobrik_1939cdddd79d/the-practical-playbook-for-trustworthy-ai-agents-in-production-3fdo)
+- [Being professional goes beyond just technical skills; demonstrating professionalism in behavior is equally, if not more, important. Be kind.](https://dev.to/westernal/being-professional-goes-beyond-just-technical-skills-demonstrating-professionalism-in-behavior-is-4g74)
+- [The `match` Expression in PHP](https://dev.to/ashallendesign/the-match-expression-in-php-1c99)
+- [Secure API Routes in Next.js with Middleware and JWT](https://dev.to/djamware_tutorial_eba1a61/secure-api-routes-in-nextjs-with-middleware-and-jwt-5anb)
+- [🤩 My Lightbulb Moment: Understanding React State the Right Way](https://dev.to/usama_dev/my-lightbulb-moment-understanding-react-state-the-right-way-49pp)
+- [The out Parameter in Turbine: A Markdown-like Scripting Language](https://dev.to/tsubo164/the-out-parameter-in-turbine-a-markdown-like-scripting-language-53ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
