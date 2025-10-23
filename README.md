@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ERC-8004: Building Trustless Autonomous Agents with TEEs](https://dev.to/caerlower/erc-8004-building-trustless-autonomous-agents-with-tees-3iea)
-- [How Fingerprints Identify You: The Algorithm Beneath the Biometric](https://dev.to/iste-vit/how-fingerprints-identify-you-the-algorithm-beneath-the-biometric-3gg1)
-- [A Usabilidade no Back-End](https://dev.to/dev-araujo/a-usabilidade-no-back-end-12ll)
-- [The Best FREE AI App Builder? FREE Lovable AI Alternative](https://dev.to/proflead/the-best-free-ai-app-builder-free-lovable-ai-alternative-21nm)
-- [Oasis Launches “TEE Break Challenge”, One Bitcoin Bounty for Breaking Their Secure Enclave](https://dev.to/caerlower/oasis-launches-tee-break-challenge-one-bitcoin-bounty-for-breaking-their-secure-enclave-2ea8)
+- [𝐓𝐡𝐞 𝐒𝐎𝐋𝐈𝐃 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 — 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐓𝐡𝐚𝐭 𝐒𝐭𝐚𝐧𝐝𝐬 𝐭𝐡𝐞 𝐓𝐞𝐬𝐭 𝐨𝐟 𝐓𝐢𝐦𝐞](https://dev.to/zamirul_kabir/--4nmb)
+- [From Tutorial Hell to Clarity: How I Knew I Was Leveling Up as a Developer🚀](https://dev.to/yaldakhoshpey/from-tutorial-hell-to-clarity-how-i-knew-i-was-leveling-up-as-a-developer-1iab)
+- [Working with Relative Time in Swift](https://dev.to/luisfpedroso/working-with-relative-time-in-swift-43pg)
+- [Unlock Google Cloud Mastery with this 6-Month Arcade Plan](https://dev.to/sagar_grv/unlock-google-cloud-mastery-with-this-6-month-arcade-plan-3p27)
+- [Does Instagram Listen to Our Conversations? — What Really Drives Those Creepy Reels.](https://dev.to/faizan_siddiqui_bd6577cce/does-instagram-listen-to-our-conversations-what-really-drives-those-creepy-reels-20ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
