@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Offline AI Voiceover Tool in Python — No APIs, No Limits](https://dev.to/n3on/build-your-own-offline-ai-voiceover-tool-in-python-no-apis-no-limits-16g8)
-- [I Built a Go CLI to Find AWS Cloud Waste &amp; Security Risks in 60 Seconds](https://dev.to/abdul_herbli_4e2bece5e77a/i-built-a-go-cli-to-find-aws-security-holes-in-60-seconds-116j)
-- [The Retail Revolution: How AI Is Quietly Rebuilding the Shopping Experience](https://dev.to/yallogroup/the-retail-revolution-how-ai-is-quietly-rebuilding-the-shopping-experience-5453)
-- [Why agent orchestration is harder than kubernetes - Lessons while building Agentflow](https://dev.to/siddhantkcode/why-agent-orchestration-is-harder-than-kubernetes-lessons-while-building-agentflow-4jm3)
-- [JDBC Connectivity in Java &lpar;Java Database Connectivity&rpar;](https://dev.to/manikandan_a8f99e0153ef77/jdbc-connectivity-in-java-java-database-connectivity-312o)
+- [Building Digital Sovereignty in the Philippines: Open-Source Solutions for Transparent, Secure Government](https://dev.to/alvinveroy/building-digital-sovereignty-in-the-philippines-open-source-solutions-for-transparent-secure-23c9)
+- [🧩 Testing Feature Support for Modern CSS — The Smart Developer’s Guide](https://dev.to/er-raj-aryan/testing-feature-support-for-modern-css-the-smart-developers-guide-56h4)
+- [**Revolutionizing Entertainment: The Rise of AI-Powered &#39;Dre](https://dev.to/drcarlosruizviquez/revolutionizing-entertainment-the-rise-of-ai-powered-dre-228m)
+- [Graceful API Failure 101 for Data Scientists: A Modern Approach to Robust Error Handling](https://dev.to/devunionx/graceful-api-failure-101-for-data-scientists-a-modern-approach-to-robust-error-handling-173k)
+- [Optimizing Your Codebase for AI Coding Agents](https://dev.to/aarongustafson/optimizing-your-codebase-for-ai-coding-agents-4ndm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
