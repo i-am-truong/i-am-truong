@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💾 Serialization in Unity — The Invisible System Saving Your Data](https://dev.to/syntacticsugardaddy/serialization-in-unity-the-invisible-system-saving-your-data-4m8k)
-- [ts-dedent library in Storybook codebase.](https://dev.to/ramunarasinga-11/ts-dedent-library-in-storybook-codebase-h71)
-- [How UX in 2025 became more about intent than interaction](https://dev.to/egledigital/how-ux-in-2025-became-more-about-intent-than-interaction-55mh)
-- [Hello World](https://dev.to/jundata/hello-3boe)
-- [Solving the NY Times &quot;Pips&quot; game with F#](https://dev.to/shimmer/solving-the-ny-times-pips-game-with-f-5bbe)
+- [Load testing vs stress testing: How to scale performance practices with confidence](https://dev.to/gatling/load-testing-vs-stress-testing-how-to-scale-performance-practices-with-confidence-1cpl)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3lkm)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-41ek)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2bgo)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2eko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
