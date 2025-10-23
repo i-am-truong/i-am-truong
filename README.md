@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Being professional goes beyond just technical skills; demonstrating professionalism in behavior is equally, if not more, important. Be kind.](https://dev.to/westernal/being-professional-goes-beyond-just-technical-skills-demonstrating-professionalism-in-behavior-is-4g74)
-- [The `match` Expression in PHP](https://dev.to/ashallendesign/the-match-expression-in-php-1c99)
-- [Secure API Routes in Next.js with Middleware and JWT](https://dev.to/djamware_tutorial_eba1a61/secure-api-routes-in-nextjs-with-middleware-and-jwt-5anb)
-- [🤩 My Lightbulb Moment: Understanding React State the Right Way](https://dev.to/usama_dev/my-lightbulb-moment-understanding-react-state-the-right-way-49pp)
-- [The out Parameter in Turbine: A Markdown-like Scripting Language](https://dev.to/tsubo164/the-out-parameter-in-turbine-a-markdown-like-scripting-language-53ab)
+- [ERC-8004: Building Trustless Autonomous Agents with TEEs](https://dev.to/caerlower/erc-8004-building-trustless-autonomous-agents-with-tees-3iea)
+- [How Fingerprints Identify You: The Algorithm Beneath the Biometric](https://dev.to/iste-vit/how-fingerprints-identify-you-the-algorithm-beneath-the-biometric-3gg1)
+- [A Usabilidade no Back-End](https://dev.to/dev-araujo/a-usabilidade-no-back-end-12ll)
+- [The Best FREE AI App Builder? FREE Lovable AI Alternative](https://dev.to/proflead/the-best-free-ai-app-builder-free-lovable-ai-alternative-21nm)
+- [Oasis Launches “TEE Break Challenge”, One Bitcoin Bounty for Breaking Their Secure Enclave](https://dev.to/caerlower/oasis-launches-tee-break-challenge-one-bitcoin-bounty-for-breaking-their-secure-enclave-2ea8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
