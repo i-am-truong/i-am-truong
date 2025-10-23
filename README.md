@@ -119,13 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RISC-V Test Generation: Using Random and Directed Stimulus to Achieve Coverage Closure](https://dev.to/alpinumblogs/risc-v-test-generation-using-random-and-directed-stimulus-to-achieve-coverage-closure-221d)
-- [When you train AI to think with your logic, you don’t just save time; you multiply your focus across industries.
-
-AI isn’t replacing assistants; it’s redefining what one assistant can achieve.](https://dev.to/jaideepparashar/when-you-train-ai-to-think-with-your-logic-you-dont-just-save-time-you-multiply-your-focus-blm)
-- [How I Run 3 Brands With 1 AI Assistant: My ChatGPT Workflow](https://dev.to/jaideepparashar/how-i-run-3-brands-with-1-ai-assistant-my-chatgpt-workflow-3dka)
-- [Mengenal Protokol Komunikasi pada Aplikasi Modern](https://dev.to/naandan/mengenal-protokol-komunikasi-pada-aplikasi-modern-15n1)
-- [Build Your Own Forum with FastAPI: Step 3 - HTML Template](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-3-html-template-4gf1)
+- [Android Serial Control Screens: The Smart HMI Solution for Modern Devices](https://dev.to/tonyhe8688/android-serial-control-screens-the-smart-hmi-solution-for-modern-devices-2kn4)
+- [Taming the Wild West of Dental PMS APIs](https://dev.to/lake22traillady/taming-the-wild-west-of-dental-pms-apis-hgc)
+- [Navigasi Lanskap Framework 2025: Dari Tren Terkini, Tantangan, hingga Strategi Memilih Tumpukan &lpar;Stack&rpar; yang Tepat](https://dev.to/dilsdev/navigasi-lanskap-framework-2025-dari-tren-terkini-tantangan-hingga-strategi-memilih-tumpukan-49mg)
+- [What can I do with the MERN Stack by itself?](https://dev.to/ibrohimbek-dev/what-can-i-do-with-the-mern-stack-by-itself-453h)
+- [Day 5: Advanced SELECT Queries and JOINs](https://dev.to/hardik_kanajariya/day-5-advanced-select-queries-and-joins-45ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
