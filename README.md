@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Halloween challenge](https://dev.to/amananandrai/halloween-challenge-ak1)
+- [Selling SaaS Down-Market: What Real Growth Looks Like Now](https://dev.to/sonu_goswami/selling-saas-down-market-what-real-growth-looks-like-now-49aj)
 - [Modified Binary Search](https://dev.to/techxved/modified-binary-search-51km)
 - [7 Man-in-the-Middle &lpar;MitM&rpar; Attacks to Look Out For](https://dev.to/markcontent/7-man-in-the-middle-mitm-attacks-to-look-out-for-1lc5)
 - [The doings 💯](https://dev.to/adekunle_emmanuel_fefd557/the-doings-34pg)
-- [2 Most Popular free Android Apps of the week](https://dev.to/david_18/2-most-popular-free-android-apps-of-the-week-5035)
-- [Perplexity Comet vs ChatGPT Atlas: Which Browser Makes Research Easier?](https://dev.to/jovin_george_733dcfc16291/perplexity-comet-vs-chatgpt-atlas-which-browser-makes-research-easier-3d43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
