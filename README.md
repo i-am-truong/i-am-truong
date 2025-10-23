@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Free AI Tools That Saved Me 20 Hours This Week](https://dev.to/avantek/10-free-ai-tools-that-saved-me-20-hours-this-week-1549)
-- [Made a Hacktoberfest 2025 repo](https://dev.to/xaypanya/made-a-hacktoberfest-2025-repo-321f)
-- [React, Git[Hub], and VS Code for Beginners - Video 2](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-2-485g)
-- [React, Git[Hub], and VS Code for Beginners - Video 1](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-1-18h9)
-- [Remember2Pack](https://dev.to/kuljit_aujla/remember2pack-1dk4)
+- [S3 fileExists &lpar;HeadObject&rpar; fails only in Alpine Docker &lpar;PHP-FPM&rpar; with &quot;Error parsing XML&quot;, but GetObject works](https://dev.to/nidhin_np_3149cf667964a3c/s3-fileexists-headobject-fails-only-in-alpine-docker-php-fpm-with-error-parsing-xml-but-176m)
+- [Create a PROMPT.md](https://dev.to/ydnaklementine/create-a-promptmd-e2f)
+- [Day 21 — Build Digital Collectibles &lpar;ERC-721 NFTs&rpar; — Full tutorial &lpar;Foundry + React&rpar;](https://dev.to/sauravkumar8178/day-21-build-digital-collectibles-erc-721-nfts-full-tutorial-foundry-react-2367)
+- [Learning Web Development Entirely from Mobile — My Journey Begins](https://dev.to/rooqidev/learning-web-development-entirely-from-mobile-my-journey-begins-1850)
+- [: 🚀 What Is SEO for Developers and Why It Matters](https://dev.to/alexpeteray/-what-is-seo-for-developers-and-why-it-matters-1nng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
