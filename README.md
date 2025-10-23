@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Attractive.js, a new JavaScript-free JavaScript library](https://dev.to/railsdesigner/announcing-attractivejs-a-new-javascript-free-javascript-library-1lno)
-- [Why experiments belong inside feature flags, not beside them](https://dev.to/miraan/why-experiments-belong-inside-feature-flags-not-beside-them-3i1i)
-- [I built MathHacks - a weekend mathathon, now live!](https://dev.to/vulcanwm/i-built-mathhacks-a-weekend-mathathon-now-live-3lo1)
-- [Solving “Browser Back Resets Infinite Scroll” with a Next.js URL-Addressable Modal](https://dev.to/derarion/solving-browser-back-resets-infinite-scroll-with-a-nextjs-url-addressable-modal-1doa)
-- [FastAPI deployment Heroku vs AWS / GCP with Defang](https://dev.to/defanglabs/fastapi-deployment-heroku-vs-defang-fgh)
+- [Contribution Chronicles: My Hacktoberfest 2025 Journey](https://dev.to/pratik_12b3f8bf3b50e48bae/contribution-chronicles-my-hacktoberfest-2025-journey-236e)
+- [Why JavaScript Blocks the HTML Parser — and How It Affects the Critical Rendering Path](https://dev.to/lovestaco/why-javascript-blocks-the-html-parser-and-how-it-affects-the-critical-rendering-path-3mog)
+- [Part 2: Event Discovery](https://dev.to/sumedhbala/part-2-event-discovery-32o5)
+- [✍️ Text Case Converter Online Free Tool &lpar;2025&rpar;](https://dev.to/foxpink/text-case-converter-online-free-tool-2025-2n5l)
+- [✂️ Remove Background from Images Online Free &lpar;2025&rpar;](https://dev.to/foxpink/remove-background-from-images-online-free-2025-7m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
