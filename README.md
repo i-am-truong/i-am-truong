@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [সিস্টেম স্কেলিং: এক নজরে বেসিক কনসেপ্ট](https://dev.to/junaaid96/sisttem-skelin-ek-njre-besik-knseptt-44i5)
 - [💡 6 Mistakes That Made Me a Better Leader](https://dev.to/dasha_tsion/6-mistakes-that-made-me-a-better-leader-3lnp)
 - [Love the submissions in this challenge so far!](https://dev.to/ben/love-the-submissions-in-this-challenge-so-far-4n50)
+- [After years - Back to open source](https://dev.to/mathias_berg_47c9d33ef290/after-years-back-to-open-source-1ib4)
 - [Realised vs Unrealised P/L — Money in Your Pocket vs Money on Paper](https://dev.to/pocketportfolioapp/realised-vs-unrealised-pl-money-in-your-pocket-vs-money-on-paper-4p50)
-- [Building an Azure Key Vault Multi-Region Sync Solution](https://dev.to/anderson_leite/building-an-azure-key-vault-multi-region-sync-solution-3ca7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
