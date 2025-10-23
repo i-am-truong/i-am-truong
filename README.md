@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Forget TDD: Are You Accidentally Practicing Fate-Driven Development &lpar;FDD&rpar;?](https://dev.to/burakaykan/forget-tdd-are-you-accidentally-practicing-fate-driven-development-fdd-1h5)
 - [Unlocking the Power of Automated Workflow: A Developers Guide to Efficiency](https://dev.to/mikeover/unlocking-the-power-of-automated-workflow-a-developers-guide-to-efficiency-47ag)
 - [Hey, I did a thing, you might like it! Java JSpecify Exercise](https://dev.to/ijuren/hey-i-did-a-thing-you-might-like-it-java-jspecify-exercise-1gam)
 - [How to Integrate AI Chatbots with WhatsApp Business](https://dev.to/ethan_clarke_0e14fa6f8e00/how-to-integrate-ai-chatbots-with-whatsapp-business-1pb5)
 - [We Need to Talk About How Toxic Dev Culture Has Become &lpar;And How We Fix It&rpar;](https://dev.to/elvissautet/we-need-to-talk-about-how-toxic-dev-culture-has-become-and-how-we-fix-it-1gi1)
-- [Does Your Site Need a /ai Page?](https://dev.to/rpalo/does-your-site-need-a-ai-page-2hkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
