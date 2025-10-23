@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Random Variables in Python: Discrete vs Continuous](https://dev.to/rigalpatel001/understanding-random-variables-in-python-discrete-vs-continuous-1p4n)
+- [CSS Positioning Explained: Static, Relative, Absolute, Fixed, and Sticky](https://dev.to/sharique_siddiqui_8242dad/css-positioning-explained-static-relative-absolute-fixed-and-sticky-55j3)
+- [Agile Project Management in Software Development Teams](https://dev.to/marksantiago02/agile-project-management-in-software-development-teams-20bl)
 - [Clocked JK Flip Flop: Universal Building Block for Digital Logic — Circuit Design, Applications, and Practical Guide](https://dev.to/messin_tom/clocked-jk-flip-flop-universal-building-block-for-digital-logic-circuit-design-applications-1kmh)
-- [Behind the Scenes: Building a Secure Trading Platform](https://dev.to/globridge-tech/behind-the-scenes-building-a-secure-trading-platform-5c9e)
-- [Power Your Vision with LiPower Your Vision with Linux VPS Servernux VPS Server](https://dev.to/kartik_work_02e8841c5fbeb/power-your-vision-with-lipower-your-vision-with-linux-vps-servernux-vps-server-4h3b)
-- [September 2025: Review of learning records](https://dev.to/kazutora_hattori_66972c88/september-2025-review-of-learning-records-25cg)
-- [Measuring Barcode Scanning Performance: Distance vs Module Size with iOS ARKit](https://dev.to/yushulx/measuring-barcode-scanning-performance-distance-vs-module-size-with-ios-arkit-26lh)
+- [A Step-by-step guide to Javascript Unit Testing](https://dev.to/markcontent/a-step-by-step-guide-to-javascript-unit-testing-166n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
