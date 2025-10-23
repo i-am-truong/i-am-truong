@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Reliable Pricing for AI Chatbots](https://dev.to/dbolotov/building-reliable-pricing-for-ai-chatbots-48d9)
-- [iOS App Store Optimization: Growth, Engagement &amp; Localization &lpar;Part 3&rpar;](https://dev.to/arshtechpro/ios-app-store-optimization-growth-engagement-localization-part-3-2hlh)
-- [Team Management Plan: A Complete Guide to Building Effective Teams](https://dev.to/writegenic/team-management-plan-a-complete-guide-to-building-effective-teams-fj5)
-- [Halloween - ghosts](https://dev.to/baarbaracrr/halloween-ghosts-4e6f)
-- [Testing the untestable](https://dev.to/nfrankel/testing-the-untestable-49k4)
+- [Secure No-Code AI: How to Host Open-Source Tools Safely with Docker and Local LLMs](https://dev.to/brains_behind_bots/secure-no-code-ai-how-to-host-open-source-tools-safely-with-docker-and-local-llms-269f)
+- [How I switched from ruby to elixir and to learn it better — built a product](https://dev.to/avdept/how-i-switched-from-ruby-to-elixir-and-to-learn-it-better-built-a-product-35m2)
+- [Trigger.dev is on Product Hunt today. Join the fun!](https://dev.to/fmerian/triggerdev-is-on-product-hunt-today-join-the-fun-4mln)
+- [Late Nights, Cold Coffee, and the Secret Life of Twitter Viewers](https://dev.to/jenny_wei_4c0cd46995b0786/late-nights-cold-coffee-and-the-secret-life-of-twitter-viewers-45kd)
+- [Automating API Testing with Open Source Testing Tools: Best Practices and Tips](https://dev.to/sophielane/automating-api-testing-with-open-source-testing-tools-best-practices-and-tips-2b2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
