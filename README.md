@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular 20: Querying Data with `rxResource` — from `request/loader` to `params/stream`](https://dev.to/cristiansifuentes/angular-20-querying-data-with-rxresource-from-requestloader-to-paramsstream-ond)
-- [AI Skills Every QA Should Learn in 2026](https://dev.to/dasha_tsion/ai-skills-every-qa-should-learn-in-2026-1f91)
-- [Decision Trees Evolved: Faster, Smarter Reinforcement Learning by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decision-trees-evolved-faster-smarter-reinforcement-learning-by-arvind-sundararajan-2cpm)
-- [Mastering MRI Bloch Simulations with BlochSim.jl in Julia](https://dev.to/glcsblog/mastering-mri-bloch-simulations-with-blochsimjl-in-julia-25bf)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-5987)
+- [The Artisan&#39;s Pursuit: Conquering the Silent Performance Killer in GraphQL and REST](https://dev.to/alex_aslam/the-artisans-pursuit-conquering-the-silent-performance-killer-in-graphql-and-rest-316m)
+- [If we want to distinguish multiple plots in the same figure in matplotlib, we use the legend function&lpar;&rpar;](https://dev.to/onaolapo11/if-we-want-to-distinguish-multiple-plots-in-the-same-figure-in-matplotlib-we-use-the-legend-98n)
+- [I vibe-coded a 30 chapter book on regex](https://dev.to/davidcanhelp/i-vibe-coded-a-30-chapter-book-on-regex-2l59)
+- [The Conductor&#39;s Baton: Orchestrating Real-Time UIs with Turbo Streams](https://dev.to/alex_aslam/the-conductors-baton-orchestrating-real-time-uis-with-turbo-streams-n0e)
+- [List in Python &lpar;2&rpar;](https://dev.to/hyperkai/list-in-python-2-2pj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
