@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-21n9)
+- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-59ok)
 - [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-3o1d)
 - [Docker Compose for Multi-Container Applications: A Practical Guide](https://dev.to/ctrix/docker-compose-for-multi-container-applications-a-practical-guide-1aa7)
 - [⚙️ How Cloud Computing Powers Modern Apps](https://dev.to/alexpeteray/how-cloud-computing-powers-modern-apps-3b7k)
-- [🚀 Open Source Project: Introducing QueryCraftAI](https://dev.to/abhi9720/open-source-project-introducing-querycraftai-4ol1)
-- [Structure Angular app with Nx workspace](https://dev.to/beo_dan_4b44e99852f48ddb3/structure-angular-app-with-nx-workspace-5b9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
