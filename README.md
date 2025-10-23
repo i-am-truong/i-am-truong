@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AgroVisionSecureAI+: Intelligent Crop Analysis with Auth0 Authentication](https://dev.to/alphonsekazadi/agrovisionsecureai-intelligent-crop-analysis-with-auth0-authentication-e0g)
-- [Mid-Sized Machinery Companies in the US: A Regional Guide to Growth](https://dev.to/ayesha-diaz/mid-sized-machinery-companies-in-the-us-a-regional-guide-to-growth-536j)
-- [Cybersecurity Trends: What’s Changing in Online Safety](https://dev.to/jnevins1/cybersecurity-trends-whats-changing-in-online-safety-h65)
-- [𝐓𝐡𝐞 𝐒𝐎𝐋𝐈𝐃 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 — 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐓𝐡𝐚𝐭 𝐒𝐭𝐚𝐧𝐝𝐬 𝐭𝐡𝐞 𝐓𝐞𝐬𝐭 𝐨𝐟 𝐓𝐢𝐦𝐞](https://dev.to/zamirul_kabir/--4nmb)
-- [From Tutorial Hell to Clarity: How I Knew I Was Leveling Up as a Developer🚀](https://dev.to/yaldakhoshpey/from-tutorial-hell-to-clarity-how-i-knew-i-was-leveling-up-as-a-developer-1iab)
+- [Mastering Communication &amp; Collaboration in Hybrid Work Environments](https://dev.to/stormdjent/mastering-communication-collaboration-in-hybrid-work-environments-1l7n)
+- [Interoperability: How Cloud Platforms Improve Healthcare Collaboration](https://dev.to/natalya_sokolova/interoperability-how-cloud-platforms-improve-healthcare-collaboration-10b1)
+- [Supercharging Your Product Growth: A Practical Guide for Developers](https://dev.to/stormdjent/supercharging-your-product-growth-a-practical-guide-for-developers-i3)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-39oe)
+- [T-Shaped engineers: the blueprint for building with AI](https://dev.to/rockandnull/t-shaped-engineers-the-blueprint-for-building-with-ai-2d2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
