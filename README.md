@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 9 | 50 Projects in 50 Days](https://dev.to/augusta08/day-9-50-projects-in-50-days-2ih1)
-- [Automating Transit Gateway Attachment Tagging Using EventBridge and Lambda](https://dev.to/santanu_das/automating-transit-gateway-attachment-tagging-using-eventbridge-and-lambda-10lh)
-- [Part 4: Payments and Ticket Issuance](https://dev.to/sumedhbala/part-4-payments-and-ticket-issuance-3h7h)
-- [Contribution Chronicles: My Hacktoberfest 2025 Journey](https://dev.to/pratik_12b3f8bf3b50e48bae/contribution-chronicles-my-hacktoberfest-2025-journey-236e)
-- [Why JavaScript Blocks the HTML Parser — and How It Affects the Critical Rendering Path](https://dev.to/lovestaco/why-javascript-blocks-the-html-parser-and-how-it-affects-the-critical-rendering-path-3mog)
+- [Não falo português, só estou postando para dar o pontapé inicial. Por favor, perdoe qualquer erro. 😭](https://dev.to/ben/nao-falo-portugues-so-estou-postando-para-dar-o-pontape-inicial-por-favor-perdoe-qualquer-erro-3605)
+- [Tudo o que é publicado neste espaço é facilmente descoberto no ecossistema DEV, mas esperamos que este possa ser um espaço para servir mais diretamente esta comunidade!](https://dev.to/ben/tudo-o-que-e-publicado-neste-espaco-e-facilmente-descoberto-no-ecossistema-dev-mas-esperamos-que-3794)
+- [olá mundo](https://dev.to/ben/ola-mundo-3b3g)
+- [Scaling Coupyn: Handling Millions of Requests a Day on $50 Using Cloudflare Edge Caching](https://dev.to/coupyn/scaling-coupyn-handling-millions-of-requests-a-day-on-50-using-cloudflare-edge-caching-3o46)
+- [Building XMLtoMD: Real-Time XML Validation with Monaco Editor in React](https://dev.to/muhammad_yousuf_83c011ea8/building-xmltomd-real-time-xml-validation-with-monaco-editor-in-react-41la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
