@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PWC 344, Task 2: Pick Up the Pieces](https://dev.to/boblied/pwc-344-task-2-pick-up-the-pieces-3391)
-- [React Tiny Store](https://dev.to/anirudhchintha95/react-tiny-store-2b8)
-- [Frontendda debouncing va throttling. Qachon qaysi biridan foydalanish kerak?](https://dev.to/azizbek_usmonov_112e1ddc8/frontendda-debouncing-va-throttling-qachon-qaysi-biridan-foydalanish-kerak-1c5n)
-- [Introducing devtool for running and benchmarking AI on-device](https://dev.to/embedl-hub/introducing-devtool-for-running-and-benchmarking-ai-on-device-4hi5)
-- [Learning Cryptography with ChatGPT: Building Assetspan, a Zero-Knowledge Secrets Manager](https://dev.to/degecko/learning-cryptography-with-chatgpt-building-assetspan-a-zero-knowledge-secrets-manager-23gn)
+- [Announcing Enthusiast 1.4: AI Agents Meet E-commerce Workflows](https://dev.to/chrisywz/announcing-enthusiast-14-ai-agents-meet-e-commerce-workflows-3gkk)
+- [Web Scrapping Project](https://dev.to/makenakinyua/web-scrapping-project-3bnb)
+- [Graceful Shutdown with Kubernetes](https://dev.to/jinghong/graceful-shutdown-with-kubernetes-4bi5)
+- [The Present of Lodash](https://dev.to/benjaminblack/the-present-of-lodash-1ek3)
+- [Open Source Reflections – Hacktoberfest 2025](https://dev.to/mdarifulhaque/open-source-reflections-hacktoberfest-2025-260h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
