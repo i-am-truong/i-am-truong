@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Communication &amp; Collaboration in Hybrid Work Environments](https://dev.to/stormdjent/mastering-communication-collaboration-in-hybrid-work-environments-1l7n)
-- [Interoperability: How Cloud Platforms Improve Healthcare Collaboration](https://dev.to/natalya_sokolova/interoperability-how-cloud-platforms-improve-healthcare-collaboration-10b1)
-- [Supercharging Your Product Growth: A Practical Guide for Developers](https://dev.to/stormdjent/supercharging-your-product-growth-a-practical-guide-for-developers-i3)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-39oe)
-- [T-Shaped engineers: the blueprint for building with AI](https://dev.to/rockandnull/t-shaped-engineers-the-blueprint-for-building-with-ai-2d2a)
+- [Introducing devtool for running and benchmarking AI on-device](https://dev.to/embedl-hub/introducing-devtool-for-running-and-benchmarking-ai-on-device-4hi5)
+- [Learning Cryptography with ChatGPT: Building Assetspan, a Zero-Knowledge Secrets Manager](https://dev.to/degecko/learning-cryptography-with-chatgpt-building-assetspan-a-zero-knowledge-secrets-manager-23gn)
+- [🌟 Maintainer Spotlight: Solving LeetCode Challenges in PHP — One Problem at a Time!](https://dev.to/mdarifulhaque/maintainer-spotlight-solving-leetcode-challenges-in-php-one-problem-at-a-time-5a8b)
+- [From Code to Campaign: Turning Your Open‑Source Project into a Marketing Powerhouse](https://dev.to/stormdjent/from-code-to-campaign-turning-your-open-source-project-into-a-marketing-powerhouse-455p)
+- [Building Features Won&#39;t Save Your Product &lpar;But This Will&rpar;](https://dev.to/shayy/building-features-wont-save-your-product-but-this-will-3hf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
