@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We need to adjust quickie posts to properly not count full URLs for characters. I know Twitter traditionally capped these at 17 chars regardless of length — we&#39;ll want to do something similar along those lines.](https://dev.to/ben/we-need-to-adjust-quickie-posts-to-properly-not-count-full-urls-for-characters-i-know-twitter-j76)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-ie4)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-125n)
-- [Silent Authentication in Next.js](https://dev.to/datarockets/silent-authentication-in-nextjs-55kp)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1a1m)
+- [Your AI Can’t Save a File. Here’s How to Give It Superpowers.](https://dev.to/onlineproxy/your-ai-cant-save-a-file-heres-how-to-give-it-superpowers-1d01)
+- [Lessons from building a full-stack web application](https://dev.to/excelsior2021/lessons-from-building-a-full-stack-web-application-9eh)
+- [Strengthening the Grid: Building Effective NERC CIP Compliance Programs for Cybersecurity Resilience](https://dev.to/kapusto/strengthening-the-grid-building-effective-nerc-cip-compliance-programs-for-cybersecurity-resilience-l0k)
+- [From Frustration to Automation: Building a Squash Court Availability App](https://dev.to/aws-builders/from-frustration-to-automation-building-a-squash-court-availability-app-54f6)
+- [The Hidden Dangers of Smart Devices: Understanding IoT Vulnerabilities and Security Risks](https://dev.to/kapusto/the-hidden-dangers-of-smart-devices-understanding-iot-vulnerabilities-and-security-risks-220l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
