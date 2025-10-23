@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Forget TDD: Are You Accidentally Practicing Fate-Driven Development &lpar;FDD&rpar;?](https://dev.to/burakaykan/forget-tdd-are-you-accidentally-practicing-fate-driven-development-fdd-1h5)
-- [Unlocking the Power of Automated Workflow: A Developers Guide to Efficiency](https://dev.to/mikeover/unlocking-the-power-of-automated-workflow-a-developers-guide-to-efficiency-47ag)
-- [Hey, I did a thing, you might like it! Java JSpecify Exercise](https://dev.to/ijuren/hey-i-did-a-thing-you-might-like-it-java-jspecify-exercise-1gam)
-- [How to Integrate AI Chatbots with WhatsApp Business](https://dev.to/ethan_clarke_0e14fa6f8e00/how-to-integrate-ai-chatbots-with-whatsapp-business-1pb5)
-- [We Need to Talk About How Toxic Dev Culture Has Become &lpar;And How We Fix It&rpar;](https://dev.to/elvissautet/we-need-to-talk-about-how-toxic-dev-culture-has-become-and-how-we-fix-it-1gi1)
+- [Building Reliable Pricing for AI Chatbots](https://dev.to/dbolotov/building-reliable-pricing-for-ai-chatbots-48d9)
+- [iOS App Store Optimization: Growth, Engagement &amp; Localization &lpar;Part 3&rpar;](https://dev.to/arshtechpro/ios-app-store-optimization-growth-engagement-localization-part-3-2hlh)
+- [Team Management Plan: A Complete Guide to Building Effective Teams](https://dev.to/writegenic/team-management-plan-a-complete-guide-to-building-effective-teams-fj5)
+- [Halloween - ghosts](https://dev.to/baarbaracrr/halloween-ghosts-4e6f)
+- [Testing the untestable](https://dev.to/nfrankel/testing-the-untestable-49k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
