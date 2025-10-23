@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [সিস্টেম স্কেলিং: এক নজরে বেসিক কনসেপ্ট](https://dev.to/junaaid96/sisttem-skelin-ek-njre-besik-knseptt-44i5)
-- [💡 6 Mistakes That Made Me a Better Leader](https://dev.to/dasha_tsion/6-mistakes-that-made-me-a-better-leader-3lnp)
-- [Love the submissions in this challenge so far!](https://dev.to/ben/love-the-submissions-in-this-challenge-so-far-4n50)
-- [After years - Back to open source](https://dev.to/mathias_berg_47c9d33ef290/after-years-back-to-open-source-1ib4)
-- [Realised vs Unrealised P/L — Money in Your Pocket vs Money on Paper](https://dev.to/pocketportfolioapp/realised-vs-unrealised-pl-money-in-your-pocket-vs-money-on-paper-4p50)
+- [We need to adjust quickie posts to properly not count full URLs for characters. I know Twitter traditionally capped these at 17 chars regardless of length — we&#39;ll want to do something similar along those lines.](https://dev.to/ben/we-need-to-adjust-quickie-posts-to-properly-not-count-full-urls-for-characters-i-know-twitter-j76)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-ie4)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-125n)
+- [Silent Authentication in Next.js](https://dev.to/datarockets/silent-authentication-in-nextjs-55kp)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1a1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
