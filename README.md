@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Tech Behind Successful Brand Activations Sydney Campaigns: How Data and Digital Tools Drive Engagement](https://dev.to/amelia_brown04/the-tech-behind-successful-brand-activations-sydney-campaigns-how-data-and-digital-tools-drive-cg6)
-- [Top 5 Zendesk Chat Alternatives in 2025: Features, Pricing, and Use Cases](https://dev.to/vamsi_mullapudi_0bd8d1a49/top-5-zendesk-chat-alternatives-in-2025-features-pricing-and-use-cases-85a)
-- [The Semantic Gap in Data Quality: Why Your Monitoring is Lying to You](https://dev.to/vivekjami/the-semantic-gap-in-data-quality-why-your-monitoring-is-lying-to-you-af4)
-- [Debian Technical Committee overrides systemd change](https://dev.to/technoblogger14o3/debian-technical-committee-overrides-systemd-change-1k4m)
-- [Mastering Kubernetes Step by Step Part 2 Pods and Containers Explained](https://dev.to/ridwaneelfilali/mastering-kubernetes-step-by-step-part-2-pods-and-containers-explained-1pj1)
+- [Zero-Downtime Deployment: Master Over-the-Air &lpar;OTA&rpar; Updates in Expo React Native](https://dev.to/jocanola/zero-downtime-deployment-master-over-the-air-ota-updates-in-expo-react-native-4p8a)
+- [From Ocean Waves to Waves of Code](https://dev.to/kato_masato_c5593c81af5c6/from-ocean-waves-to-waves-of-code-69)
+- [How to write GIF image files in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-write-gif-image-files-in-java-tutorial-4io7)
+- [Day 1: Version 1.0 - The Restart I Actually Mean This Time](https://dev.to/casperday11/day-1-version-10-the-restart-i-actually-mean-this-time-bk9)
+- [Stop Guessing: NetAlertX is the Open Source Watchdog Your Home Network Needs](https://dev.to/githubopensource/stop-guessing-netalertx-is-the-open-source-watchdog-your-home-network-needs-244b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
