@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-1i72)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-cgm)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4c8c)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2ijf)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5a3a)
+- [Build a Blazing-Fast TCP Server in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/build-a-blazing-fast-tcp-server-in-go-a-practical-guide-29d)
+- [𝗪𝗵𝘆 𝗨𝘀𝗶𝗻𝗴 𝗮 𝗦𝘁𝗮𝘁𝗶𝗰 𝗗𝗯𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗖𝗮𝗻 𝗕𝗿𝗲𝗮𝗸 𝗬𝗼𝘂𝗿 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻](https://dev.to/supraja_tangella_b7f0738e/-3k7n)
+- [The Link Layer Explained: How Your Data Hops Across Local Networks &lpar;CSMA/CD to CRC&rpar;](https://dev.to/tanishq_sangle_f26270c682/the-link-layer-explained-how-your-data-hops-across-local-networks-csmacd-to-crc-2mp6)
+- [Why Your Mac Software Installation is Broken &lpar;And How to Fix It in 10 Minutes&rpar;](https://dev.to/leonwong282/why-your-mac-software-installation-is-broken-and-how-to-fix-it-in-10-minutes-331d)
+- [Building a Gas Optimization Tool: Technical Deep Dive](https://dev.to/gentian_428090dca51d08f02/building-a-gas-optimization-tool-technical-deep-dive-3cc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
