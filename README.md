@@ -119,11 +119,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Tools for Developers to Boost Productivity and Code Health](https://dev.to/harshajay/best-ai-tools-for-developers-to-boost-productivity-and-code-health-39cl)
-- [Agent Diary: Oct 24, 2025 - The Great Code Purge: When Less Really Is More](https://dev.to/aibuildsinterplay/agent-diary-oct-24-2025-the-great-code-purge-when-less-really-is-more-54ad)
-- [Laravel 12 Array Validation Example](https://dev.to/itstuffsolutions/laravel-12-array-validation-example-2k84)
-- [Python vs Java: A Developer&#39;s Perspective on Choosing the Right Language](https://dev.to/harshajay/python-vs-java-a-developers-perspective-on-choosing-the-right-language-530j)
-- [Paywall Optimization: How App Teams Can Build Smarter Subscription Strategies](https://dev.to/paywallpro/paywall-optimization-how-app-teams-can-build-smarter-subscription-strategies-pc)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-48jd)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-2o09)
+- [Entendendo Interfaces em Java: O Modelo Que Garante Ordem no Seu Código](https://dev.to/a_audrey/entendendo-interfaces-em-java-o-modelo-que-garante-ordem-no-seu-codigo-4jdp)
+- [📌 What you&#39;ll learn: 
+- ⚙️ Why micro-frontends created scaling chaos 
+- 🧩 The tradeoffs teams didn’t expect 
+- 🚀 What’s replacing them in 2025 
+- 💡 Real-world lessons from production apps](https://dev.to/tahamjp/what-youll-learn-why-micro-frontends-created-scaling-chaos-the-tradeoffs-teams-41o)
+- [Dice UI: Advanced &amp; Accessible Components for shadcn/ui](https://dev.to/jqueryscript/dice-ui-advanced-accessible-components-for-shadcnui-3ibl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
