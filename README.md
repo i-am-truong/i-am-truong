@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Meta, AI &amp; the Future of Digital Experiences — Where Are We Heading?](https://dev.to/sandeep_03j/meta-ai-the-future-of-digital-experiences-where-are-we-heading-1ko1)
-- [How Hackers Target Small Businesses — And How to Fight Back](https://dev.to/shivakshi_rawat_e69cf6990/how-hackers-target-small-businesses-and-how-to-fight-back-2il6)
-- [ABM as an Algorithm: A Developer&#39;s Guide to Hacking B2B Sales](https://dev.to/michaelaiglobal/abm-as-an-algorithm-a-developers-guide-to-hacking-b2b-sales-2kgl)
-- [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
-- [Auth0 AI Agent](https://dev.to/sipho_motau_4b58f8ae6caa1/auth0-ai-agent-25kg)
+- [Weather Widgets](https://dev.to/madsstoumann/weather-widgets-4751)
+- [Deep Dive: What Actually Runs When You Write &#39;await&#39; in JavaScript?](https://dev.to/adamthedeveloper/deep-dive-what-actually-runs-when-you-write-await-in-javascript-32dg)
+- [AI Has Gone Physical: Can We Still Keep It Safe?](https://dev.to/abdelghani_alhijawi_499197ca/ai-has-gone-physical-can-we-still-keep-it-safe-2djj)
+- [Beginner’s Guide #5: Mutable vs Immutable in JS — The Silent Bug Factory Nobody Warns You About 😳](https://dev.to/sylwia-lask/beginners-guide-5-mutable-vs-immutable-in-js-the-silent-bug-factory-nobody-warns-you-about-2c7)
+- [TIL: define custom flash types in Rails](https://dev.to/epigene/til-define-custom-flash-types-in-rails-2849)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
