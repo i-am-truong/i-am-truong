@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust Part 1](https://dev.to/masterdevsabith/rust-part-1-ai8)
-- [The Observer Effect in Neural Networks: When Measurement Creates Reality](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-observer-effect-in-neural-networks-when-measurement-creates-reality-c2h)
-- [💔 Love in the Time of Microservices](https://dev.to/madhukashyap/love-in-the-time-of-microservices-3c2n)
-- [Game Dev Digest — Issue #303 - Profiling, Level Design,, Terrain, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-303-profiling-level-design-terrain-and-more-1f4d)
-- [Yemek Ücreti Neden Sadece Bir Yan Hak Değildir?](https://dev.to/ceylin_okuyan_6f50d224269/yemek-ucreti-neden-sadece-bir-yan-hak-degildir-19ll)
+- [Shopify POS Extensions: Connecting the Backend Securely](https://dev.to/dchueri/shopify-pos-extensions-connecting-the-backend-securely-5fld)
+- [Advanced Patterns for Symfony HttpClient: Streaming, Retry, and Resilience](https://dev.to/mattleads/advanced-patterns-for-symfony-httpclient-streaming-retry-and-resilience-2dg)
+- [Introducing Solana Instruction MCP — A Game-Changing Tool for Solana Developers](https://dev.to/0xlivian2581919/introducing-solana-instruction-mcp-a-game-changing-tool-for-solana-developers-336e)
+- [👋 Hey DEV community! I&#39;m a Full Stack Developer from Lahore 🇵🇰 with 12+ years in PHP, JS, and WordPress. Currently exploring Python &amp; ML. Excited to share my experiences and learn from you all! 🚀](https://dev.to/muzammildev/hey-dev-community-im-a-full-stack-developer-from-lahore-with-12-years-in-php-js-and-297a)
+- [Shopify POS Extensions: Conectando o Backend com Segurança](https://dev.to/dchueri/shopify-pos-extensions-conectando-o-backend-com-seguranca-2ljm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
