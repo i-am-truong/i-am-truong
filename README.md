@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create Popular Memes: The Ultimate AI-Powered Meme Generator for Viral Content](https://dev.to/raymond_zhao_2270803eb9c8/create-popular-memes-the-ultimate-ai-powered-meme-generator-for-viral-content-1k92)
-- [[Boost]](https://dev.to/rodcordeiro/-h3j)
-- [The Library Method: Understanding Context Managers](https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-context-managers-4cdp)
-- [List and Tuples are Compound Data types](https://dev.to/onaolapo11/list-and-tuples-are-compound-data-types-34lg)
-- [Why I Built a Free Security Scanner That Makes Sense](https://dev.to/jmogaming/why-i-built-a-free-security-scanner-that-makes-sense-2cn7)
+- [paint pictures like a 5 year old](https://dev.to/fig-rolls/paint-pictures-like-a-5-year-old-3olo)
+- [Getting Started with LambdaTest: A Comprehensive Beginner’s Guide](https://dev.to/henry_messiahtmt_099ca84/getting-started-with-lambdatest-a-comprehensive-beginners-guide-4l2m)
+- [A High-Level overview of Address Spaces: Their Place in ClangIR](https://dev.to/david_rivera_8d845b35931e/a-high-level-overview-of-address-spaces-their-place-in-clangir-5e0k)
+- [How I Built a Complete QA Test Strategy for an AI-Powered Language Learning Game](https://dev.to/samandcode/how-i-built-a-complete-qa-test-strategy-for-an-ai-powered-language-learning-game-1pf4)
+- [95% of BC devs set up OAuth2 the hard way. Here&#39;s the 5% method that actually works.](https://dev.to/jeffreybulanadi/95-of-bc-devs-set-up-oauth2-the-hard-way-heres-the-5-method-that-actually-works-3o0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
