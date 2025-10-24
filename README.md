@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Part 1](https://dev.to/masterdevsabith/rust-part-1-ai8)
+- [The Observer Effect in Neural Networks: When Measurement Creates Reality](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-observer-effect-in-neural-networks-when-measurement-creates-reality-c2h)
 - [💔 Love in the Time of Microservices](https://dev.to/madhukashyap/love-in-the-time-of-microservices-3c2n)
+- [Game Dev Digest — Issue #303 - Profiling, Level Design,, Terrain, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-303-profiling-level-design-terrain-and-more-1f4d)
 - [Yemek Ücreti Neden Sadece Bir Yan Hak Değildir?](https://dev.to/ceylin_okuyan_6f50d224269/yemek-ucreti-neden-sadece-bir-yan-hak-degildir-19ll)
-- [100 Days of DevOps: Day 77](https://dev.to/wycliffealphus/100-days-of-devops-day-77-48d8)
-- [Window and linux guide](https://dev.to/sachin841/window-and-linux-guide-3hli)
-- [Python basics - Day 14](https://dev.to/ian_b838138a27a917398d181/python-basics-day-14-1n00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
