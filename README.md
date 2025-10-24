@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Compete. Learn. Grow.](https://dev.to/ml318097/compete-learn-grow-g27)
-- [Understanding the Math Object and Utility Functions in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-the-math-object-and-utility-functions-in-javascript-beginners-guide-3l1n)
-- [Load secrets automatically with 1password and direnv](https://dev.to/agonza05/load-secrets-automatically-with-1password-and-direnv-pn0)
-- [The Top 5 HIPAA Slip-Ups in Healthcare Software &lpar;And How to Avoid Them&rpar;](https://dev.to/champsoft/the-top-5-hipaa-slip-ups-in-healthcare-software-and-how-to-avoid-them-3a8o)
-- [# LHDNS — A Ledger-based, Privacy-Preserving Alternative to DNS 🌐](https://dev.to/twincodesworld/-lhdns-a-ledger-based-privacy-preserving-alternative-to-dns-38ln)
+- [Quick Guide: Seamless Data Integration into Amazon S3 Tables with Apache SeaTunnel](https://dev.to/seatunnel/quick-guide-seamless-data-integration-into-amazon-s3-tables-with-apache-seatunnel-3jdk)
+- [Brilliant, Broken, and Frustrating: My Deep Dive into Amazon’s Kiro AI IDE, the Flawed Junior Developer](https://dev.to/aws-builders/brilliant-broken-and-frustrating-my-deep-dive-into-amazons-kiro-ai-ide-the-flawed-junior-gn5)
+- [Python MySQL create a database and a table](https://dev.to/sven_krmer_6f8a15646f686/python-mysql-create-a-database-and-a-table-dk5)
+- [I Built an AI Teacher&#39;s Assistant with AWS Serverless &amp; Terraform — Here&#39;s the Journey.](https://dev.to/ouzhan_basar_043fbe14a/i-built-an-ai-teachers-assistant-with-aws-serverless-terraform-heres-the-journey-5ip)
+- [Image Annotation: The Easy Guide for Everyone](https://dev.to/sohan_lal_241c2d80b2705e7/image-annotation-the-easy-guide-for-everyone-29b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
