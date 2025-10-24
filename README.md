@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Dynamic Profile Endpoint — GET /me &lpar;Node.js/Express + Cat Facts&rpar;](https://dev.to/yahaiii/building-a-dynamic-profile-endpoint-get-me-nodejsexpress-cat-facts-41e)
-- [Coding Challenge Practice - Question 35](https://dev.to/tomivan/coding-challenge-practice-question-35-4620)
-- [My QA Approach to testing the Delve Mobile Application](https://dev.to/precious_ogunsemore_5b005/my-qa-approach-to-testing-the-delve-mobile-application-682)
-- [Google Cloud Training Paths to Upskill Your Teams in AI, Data, and Cloud](https://dev.to/rohan_jee_085655230/google-cloud-training-paths-to-upskill-your-teams-in-ai-data-and-cloud-4a1c)
-- [We&#39;re All Temporarily Abled](https://dev.to/oxypteros/were-all-temporarily-abled-1m5p)
+- [Building Streaky: Distributed Queue System with Service Bindings &lpar;Part 3&rpar;](https://dev.to/0xrelogic/building-streaky-distributed-queue-system-with-service-bindings-part-3-46f9)
+- [Pygments – Syntax Highlighting for Code and Text in python](https://dev.to/imrrobot/pygments-syntax-highlighting-for-code-and-text-in-python-2n57)
+- [Getting Started with RPG &lpar;and Coffee&rpar;](https://dev.to/gvaneaton/getting-started-with-rpg-and-coffee-8pc)
+- [We are using Augment but not able to use Playwright agents.](https://dev.to/konankiani/we-are-using-augment-but-not-able-to-use-playwright-agents-328c)
+- [Secure Crypto Payments Just Got Easier: Introducing the Official Payra SDK for Laravel](https://dev.to/payracash/secure-crypto-payments-just-got-easier-introducing-the-official-payra-sdk-for-laravel-3k91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
