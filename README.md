@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking African Trade: The Rise of Regional Integration and Digital Transformation](https://dev.to/gloriousmarketing/unlocking-african-trade-the-rise-of-regional-integration-and-digital-transformation-4a5j)
-- [Why I&#39;m Building in Public &lpar;And Why You Should Too&rpar;](https://dev.to/shalenmathew/why-im-building-in-public-and-why-you-should-too-4hkp)
-- [Smart Homes for Smart Cats: The Next Era of Pet Technology](https://dev.to/janani_devi_9677e4f34ea4c/smart-homes-for-smart-cats-the-next-era-of-pet-technology-5dkm)
-- [The Complete Guide to Integrating a Geolocation API with JavaScript](https://dev.to/rameshchauhan/the-complete-guide-to-integrating-a-geolocation-api-with-javascript-1kb1)
-- [Building Long-Term Memory in Agentic AI: A Practical Guide 🚀](https://dev.to/techstuff/building-long-term-memory-in-agentic-ai-a-practical-guide-e91)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-1i72)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-cgm)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4c8c)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2ijf)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5a3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
