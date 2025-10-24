@@ -119,6 +119,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How AI and Automation Are Transforming Web App Testing](https://dev.to/misterankit/how-ai-and-automation-are-transforming-web-app-testing-505d)
 - [Building A Keyboard-First Video Player with Svelte &amp; Rust](https://dev.to/lofifounder/building-a-keyboard-first-video-player-with-svelte-rust-dk7)
 - [⚔️ I Built “Dev Battle” — a Real-Time Coding Challenge Platform Using Next.js + Firebase + socket](https://dev.to/parag_bhosale/i-built-dev-battle-a-real-time-coding-challenge-platform-using-nextjs-firebase-socket-56gl)
 - [Entendendo Interfaces em Java: O Modelo Que Garante Ordem no Seu Código](https://dev.to/a_audrey/entendendo-interfaces-em-java-o-modelo-que-garante-ordem-no-seu-codigo-4jdp)
@@ -127,7 +128,6 @@ Python                   1 repo              █░░░░░░░░░░�
 - 🧩 The tradeoffs teams didn’t expect 
 - 🚀 What’s replacing them in 2025 
 - 💡 Real-world lessons from production apps](https://dev.to/tahamjp/what-youll-learn-why-micro-frontends-created-scaling-chaos-the-tradeoffs-teams-41o)
-- [Dice UI: Advanced &amp; Accessible Components for shadcn/ui](https://dev.to/jqueryscript/dice-ui-advanced-accessible-components-for-shadcnui-3ibl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
