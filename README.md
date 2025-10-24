@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You Don’t Hate Coding — You Just Hate When It Doesn’t Obey You.](https://dev.to/melchizedek_amos_90899930/you-dont-hate-coding-you-just-hate-when-it-doesnt-obey-you-33en)
-- [🧠 Mastering the Functional Resume: A Comprehensive Guide](https://dev.to/hey_rishabh/mastering-the-functional-resume-a-comprehensive-guide-4930)
-- [Navigating the AI Shift in Software Development: Rearchitecting for Trust](https://dev.to/justinsaran/navigating-the-ai-shift-in-software-development-rearchitecting-for-trust-1o7)
-- [How End-to-End Payment Tracking Helps Institutions Tackle Fraud and Regulatory Risks](https://dev.to/nikunjgundaniya/how-end-to-end-payment-tracking-helps-institutions-tackle-fraud-and-regulatory-risks-3dbo)
-- [#1 A small app which use OpenAI API](https://dev.to/koichi_yoshikawa_dbd33319/1-a-small-app-which-use-openai-api-5dbh)
+- [VS Code Dev Days 2025 - Unlocking AI Powered Dev Workflows with GitHub Copilot](https://dev.to/pwd9000/vs-code-dev-days-2025-unlocking-ai-powered-dev-workflows-with-github-copilot-2mg9)
+- [From Data Silos to Interoperability: How Cloud Platforms Improve Healthcare Collaboration](https://dev.to/sciencesoft/from-data-silos-to-interoperability-how-cloud-platforms-improve-healthcare-collaboration-1cij)
+- [Each agent contributes based on their expertise](https://dev.to/rikinptl/each-agent-contributes-based-on-their-expertise-4ele)
+- [Check out the guide on -- Feature Selection Techniques with R: Choosing the Right Predictors for Smarter Models](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-feature-selection-techniques-with-r-choosing-the-right-predictors-for-35c8)
+- [The Future of Web UI: Trends in React, Vue &amp; Svelte](https://dev.to/obiwanpelosi/the-future-of-web-ui-trends-in-react-vue-svelte-7l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
