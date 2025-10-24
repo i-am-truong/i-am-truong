@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Css](https://dev.to/s_sarumathi_a1de306480d33/what-is-css-353n)
-- [Adaptive Branding: How Logos and Colors Will Evolve with AI](https://dev.to/dct_technology/adaptive-branding-how-logos-and-colors-will-evolve-with-ai-4pcd)
-- [Designing and Building X2SeaTunnel through AI Coding](https://dev.to/seatunnel/designing-and-building-x2seatunnel-through-ai-coding-5b4a)
-- [&gt;ISO 27001 Lead Auditor Certification Online – EAS](https://dev.to/amos_beau_2c16e5aa36cb8f9/iso-27001-lead-auditor-certification-online-eas-108g)
-- [What is Basic of Prompt Engineering?](https://dev.to/e77/what-is-basic-of-prompt-engineering-21om)
+- [RKE2&#39;de Liman MYS &amp; Keycloak Kurulumu: Longhorn ve Docker Hub Hata Çözümleri Dahil Tam Rehber](https://dev.to/aciklab/rke2de-liman-mys-keycloak-kurulumu-longhorn-ve-docker-hub-hata-cozumleri-dahil-tam-rehber-4nfe)
+- [Optimizing Vue.js Component Library Bundle Size: A Real-World Case Study](https://dev.to/phumbie/optimizing-vuejs-component-library-bundle-size-a-real-world-case-study-2980)
+- [Data Analysis with Python — Beginner Friendly Guide 📊🐍](https://dev.to/codeneuron/data-analysis-with-python-beginner-friendly-guide-52d4)
+- [How to Upgrade to The New Ubuntu 25.10 “Questing Quokka”](https://dev.to/rowleks/how-to-upgrade-to-the-new-ubuntu-2510-questing-quokka-38ik)
+- [Fixing Page Freeze After Closing a shadcn/ui Dialog, Sheet, DropdownMenu, and Popover in React](https://dev.to/allename_dev/fixing-page-freeze-after-closing-a-shadcnui-dialog-sheet-dropdownmenu-and-popover-in-react-5ejp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
