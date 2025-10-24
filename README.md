@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Next.js; A Game Changer](https://dev.to/lexycon002/nextjs-a-game-changer-12f2)
+- [Using Chonkie](https://dev.to/aairom/using-chonkie-4glg)
 - [VS Code Dev Days 2025 - Unlocking AI Powered Dev Workflows with GitHub Copilot](https://dev.to/pwd9000/vs-code-dev-days-2025-unlocking-ai-powered-dev-workflows-with-github-copilot-2mg9)
-- [From Data Silos to Interoperability: How Cloud Platforms Improve Healthcare Collaboration](https://dev.to/sciencesoft/from-data-silos-to-interoperability-how-cloud-platforms-improve-healthcare-collaboration-1cij)
-- [Each agent contributes based on their expertise](https://dev.to/rikinptl/each-agent-contributes-based-on-their-expertise-4ele)
-- [Check out the guide on -- Feature Selection Techniques with R: Choosing the Right Predictors for Smarter Models](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-feature-selection-techniques-with-r-choosing-the-right-predictors-for-35c8)
-- [The Future of Web UI: Trends in React, Vue &amp; Svelte](https://dev.to/obiwanpelosi/the-future-of-web-ui-trends-in-react-vue-svelte-7l8)
+- [Day 13: Finding Mutual Friends with Python Sets – Fast, Clean, and Surprisingly Useful](https://dev.to/shahrouzlogs/day-13-finding-mutual-friends-with-python-sets-fast-clean-and-surprisingly-useful-151i)
+- [How to connect to WiFi and turn on VNC on Raspberry Pi without mointor?](https://dev.to/carolineee/how-to-connect-to-wifi-and-turn-on-vnc-on-raspberry-pi-without-mointor-3en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
