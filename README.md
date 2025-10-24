@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Ditched React &lpar;And Why You Should Too&rpar;: A Self-Taught Dev&#39;s Rant](https://dev.to/dev_michael/why-i-ditched-react-and-why-you-should-too-a-self-taught-devs-rant-dj3)
 - [Starting My API Journey 🚀](https://dev.to/soma_mathew_f5fe0e6eb1ef5/starting-my-api-journey-5dc)
 - [Quick Guide: Seamless Data Integration into Amazon S3 Tables with Apache SeaTunnel](https://dev.to/seatunnel/quick-guide-seamless-data-integration-into-amazon-s3-tables-with-apache-seatunnel-3jdk)
 - [Brilliant, Broken, and Frustrating: My Deep Dive into Amazon’s Kiro AI IDE, the Flawed Junior Developer](https://dev.to/aws-builders/brilliant-broken-and-frustrating-my-deep-dive-into-amazons-kiro-ai-ide-the-flawed-junior-gn5)
 - [Python MySQL create a database and a table](https://dev.to/sven_krmer_6f8a15646f686/python-mysql-create-a-database-and-a-table-dk5)
-- [I Built an AI Teacher&#39;s Assistant with AWS Serverless &amp; Terraform — Here&#39;s the Journey.](https://dev.to/oguzkhan80/i-built-an-ai-teachers-assistant-with-aws-serverless-terraform-heres-the-journey-5ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
