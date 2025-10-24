@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is LLM‑as‑a‑Judge? A Practical, Reliable Path to Evaluating AI Systems](https://dev.to/kuldeep_paul/what-is-llm-as-a-judge-a-practical-reliable-path-to-evaluating-ai-systems-50e4)
-- [What Are Automated Evals? A Practical Guide to Measuring AI Quality at Scale](https://dev.to/kuldeep_paul/what-are-automated-evals-a-practical-guide-to-measuring-ai-quality-at-scale-27j3)
-- [AI-Powered Cover Letter Generator](https://dev.to/earthcomfy/ai-powered-cover-letter-generator-2d3g)
-- [Taming the Chaos: A Python Guide to Beating Race Conditions in Multithreading](https://dev.to/aris_georgatos/taming-the-chaos-a-python-guide-to-beating-race-conditions-in-multithreading-3gd3)
-- [O que é GEMBA?](https://dev.to/luiscruzcwb/o-que-e-gemba-211d)
+- [Decorators: The Programming World’s Fancy Wrappers &lpar;And Why Your Code Needs a Makeover&rpar;](https://dev.to/dev-tngsh/decorators-the-programming-worlds-fancy-wrappers-and-why-your-code-needs-a-makeover-g7k)
+- [Understanding Access Control Vulnerabilities in Smart Contracts](https://dev.to/0xfujin/understanding-access-control-vulnerabilities-in-smart-contracts-45eo)
+- [Unified XJPath &lpar;Dansharp&rpar; Viewer](https://dev.to/imdj/unified-xjpath-dansharp-viewer-c1o)
+- [Why We Need AI Observability](https://dev.to/kuldeep_paul/why-we-need-ai-observability-2b72)
+- [RAG vs. AI Agents: What’s the Real Difference and When to Use Each](https://dev.to/kuldeep_paul/rag-vs-ai-agents-whats-the-real-difference-and-when-to-use-each-45eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
