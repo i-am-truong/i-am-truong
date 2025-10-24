@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Email Validation and SMTP Handshake With Go](https://dev.to/joybtw/email-validation-and-smtp-handshake-with-go-39gp)
-- [Writing and Running Unit Tests in Autotools](https://dev.to/pauljlucas/writing-and-running-unit-tests-in-autotools-1ob2)
-- [Master Java Read Files: Your No-Fluff Guide to File Handling in Java](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-read-files-your-no-fluff-guide-to-file-handling-in-java-a37)
-- [DNS Block‑Rate Report](https://dev.to/jundata/dns-block-rate-report-594g)
-- [This Week In React #255 : Next.js, RSC, shadcn, TanStack, 3D, Fumadocs | Solito, Expo, MMKV, ImGui | Node.js, Vitest](https://dev.to/sebastienlorber/this-week-in-react-255-nextjs-rsc-shadcn-tanstack-3d-fumadocs-solito-expo-mmkv-imgui-1m40)
+- [The Tech Behind Successful Brand Activations Sydney Campaigns: How Data and Digital Tools Drive Engagement](https://dev.to/amelia_brown04/the-tech-behind-successful-brand-activations-sydney-campaigns-how-data-and-digital-tools-drive-cg6)
+- [Top 5 Zendesk Chat Alternatives in 2025: Features, Pricing, and Use Cases](https://dev.to/vamsi_mullapudi_0bd8d1a49/top-5-zendesk-chat-alternatives-in-2025-features-pricing-and-use-cases-85a)
+- [The Semantic Gap in Data Quality: Why Your Monitoring is Lying to You](https://dev.to/vivekjami/the-semantic-gap-in-data-quality-why-your-monitoring-is-lying-to-you-af4)
+- [Debian Technical Committee overrides systemd change](https://dev.to/technoblogger14o3/debian-technical-committee-overrides-systemd-change-1k4m)
+- [Mastering Kubernetes Step by Step Part 2 Pods and Containers Explained](https://dev.to/ridwaneelfilali/mastering-kubernetes-step-by-step-part-2-pods-and-containers-explained-1pj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
