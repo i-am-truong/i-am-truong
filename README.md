@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Get the Most Out of My AI Agent](https://dev.to/bekahhw/how-i-get-the-most-out-of-my-ai-agent-47bm)
-- [Free vs Paid Football APIs: Choosing the right option for your project](https://dev.to/sportmonks/free-vs-paid-football-apis-choosing-the-right-option-for-your-project-c1a)
-- [Building an AI-Powered Expense Dashboard with Gemini and Google Sheets](https://dev.to/ahmettkartal/building-an-ai-powered-expense-dashboard-with-gemini-and-google-sheets-hp3)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2gcl)
-- [Ringer Movies: ‘Springsteen: Deliver Me From Nowhere’ and the ‘Music Biopic’ Mount Rushmore](https://dev.to/popcorn_movies/ringer-movies-springsteen-deliver-me-from-nowhere-and-the-music-biopic-mount-rushmore-5a5f)
+- [💔 Love in the Time of Microservices](https://dev.to/madhukashyap/love-in-the-time-of-microservices-3c2n)
+- [Yemek Ücreti Neden Sadece Bir Yan Hak Değildir?](https://dev.to/ceylin_okuyan_6f50d224269/yemek-ucreti-neden-sadece-bir-yan-hak-degildir-19ll)
+- [100 Days of DevOps: Day 77](https://dev.to/wycliffealphus/100-days-of-devops-day-77-48d8)
+- [Window and linux guide](https://dev.to/sachin841/window-and-linux-guide-3hli)
+- [Python basics - Day 14](https://dev.to/ian_b838138a27a917398d181/python-basics-day-14-1n00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
