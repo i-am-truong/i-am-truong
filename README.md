@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [What is Css](https://dev.to/s_sarumathi_a1de306480d33/what-is-css-353n)
 - [Adaptive Branding: How Logos and Colors Will Evolve with AI](https://dev.to/dct_technology/adaptive-branding-how-logos-and-colors-will-evolve-with-ai-4pcd)
-- [What Are CNC Tools and How Do They Work?](https://dev.to/sumitjaibros/what-are-cnc-tools-and-how-do-they-work-3p02)
 - [Designing and Building X2SeaTunnel through AI Coding](https://dev.to/seatunnel/designing-and-building-x2seatunnel-through-ai-coding-5b4a)
 - [&gt;ISO 27001 Lead Auditor Certification Online – EAS](https://dev.to/amos_beau_2c16e5aa36cb8f9/iso-27001-lead-auditor-certification-online-eas-108g)
+- [What is Basic of Prompt Engineering?](https://dev.to/e77/what-is-basic-of-prompt-engineering-21om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
