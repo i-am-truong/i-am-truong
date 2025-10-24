@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tokenization vs. Encryption for Payment Data Security](https://dev.to/flutterwaveeng/tokenization-vs-encryption-for-payment-data-security-1185)
-- [Releasing LightningChart .NET 12.4.1](https://dev.to/omar_lightningchart/releasing-lightningchart-net-1241-28dm)
-- [Users could act as both Buyers and Sellers — and they could switch roles instantly from the navbar](https://dev.to/shawon0c/users-could-act-as-both-buyers-and-sellers-and-they-could-switch-roles-instantly-from-the-navbar-4olh)
-- [Building a zero-knowledge secrets manager with zero crypto knowledge](https://dev.to/degecko/building-a-zero-knowledge-secrets-manager-with-zero-crypto-knowledge-3kne)
-- [Next.js; A Game Changer](https://dev.to/lexycon002/nextjs-a-game-changer-12f2)
+- [What is Css](https://dev.to/s_sarumathi_a1de306480d33/what-is-css-353n)
+- [Adaptive Branding: How Logos and Colors Will Evolve with AI](https://dev.to/dct_technology/adaptive-branding-how-logos-and-colors-will-evolve-with-ai-4pcd)
+- [What Are CNC Tools and How Do They Work?](https://dev.to/sumitjaibros/what-are-cnc-tools-and-how-do-they-work-3p02)
+- [Designing and Building X2SeaTunnel through AI Coding](https://dev.to/seatunnel/designing-and-building-x2seatunnel-through-ai-coding-5b4a)
+- [&gt;ISO 27001 Lead Auditor Certification Online – EAS](https://dev.to/amos_beau_2c16e5aa36cb8f9/iso-27001-lead-auditor-certification-online-eas-108g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
