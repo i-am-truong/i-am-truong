@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DynamoDB Outage: Why Multi-Cloud Fails Startups &lpar;And Real DR Wins&rpar;](https://dev.to/aws-builders/dynamodb-outage-why-multi-cloud-fails-startups-and-real-dr-wins-15cb)
 - [Zero-Downtime Deployment: Master Over-the-Air &lpar;OTA&rpar; Updates in Expo React Native](https://dev.to/jocanola/zero-downtime-deployment-master-over-the-air-ota-updates-in-expo-react-native-4p8a)
 - [From Ocean Waves to Waves of Code](https://dev.to/kato_masato_c5593c81af5c6/from-ocean-waves-to-waves-of-code-69)
 - [How to write GIF image files in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-write-gif-image-files-in-java-tutorial-4io7)
 - [Day 1: Version 1.0 - The Restart I Actually Mean This Time](https://dev.to/casperday11/day-1-version-10-the-restart-i-actually-mean-this-time-bk9)
-- [Stop Guessing: NetAlertX is the Open Source Watchdog Your Home Network Needs](https://dev.to/githubopensource/stop-guessing-netalertx-is-the-open-source-watchdog-your-home-network-needs-244b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
