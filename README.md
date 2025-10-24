@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RKE2&#39;de Liman MYS &amp; Keycloak Kurulumu: Longhorn ve Docker Hub Hata Çözümleri Dahil Tam Rehber](https://dev.to/aciklab/rke2de-liman-mys-keycloak-kurulumu-longhorn-ve-docker-hub-hata-cozumleri-dahil-tam-rehber-4nfe)
-- [Optimizing Vue.js Component Library Bundle Size: A Real-World Case Study](https://dev.to/phumbie/optimizing-vuejs-component-library-bundle-size-a-real-world-case-study-2980)
-- [Data Analysis with Python — Beginner Friendly Guide 📊🐍](https://dev.to/codeneuron/data-analysis-with-python-beginner-friendly-guide-52d4)
-- [How to Upgrade to The New Ubuntu 25.10 “Questing Quokka”](https://dev.to/rowleks/how-to-upgrade-to-the-new-ubuntu-2510-questing-quokka-38ik)
-- [Fixing Page Freeze After Closing a shadcn/ui Dialog, Sheet, DropdownMenu, and Popover in React](https://dev.to/allename_dev/fixing-page-freeze-after-closing-a-shadcnui-dialog-sheet-dropdownmenu-and-popover-in-react-5ejp)
+- [Meta, AI &amp; the Future of Digital Experiences — Where Are We Heading?](https://dev.to/sandeep_03j/meta-ai-the-future-of-digital-experiences-where-are-we-heading-1ko1)
+- [How Hackers Target Small Businesses — And How to Fight Back](https://dev.to/shivakshi_rawat_e69cf6990/how-hackers-target-small-businesses-and-how-to-fight-back-2il6)
+- [ABM as an Algorithm: A Developer&#39;s Guide to Hacking B2B Sales](https://dev.to/michaelaiglobal/abm-as-an-algorithm-a-developers-guide-to-hacking-b2b-sales-2kgl)
+- [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
+- [Auth0 AI Agent](https://dev.to/sipho_motau_4b58f8ae6caa1/auth0-ai-agent-25kg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
