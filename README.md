@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI in eCommerce: Unlocking the Future of Online Retail](https://dev.to/0-0-jyo-0-0/generative-ai-in-ecommerce-unlocking-the-future-of-online-retail-12oc)
-- [Tailwind CSS + SASS Workflow: Can You Use Them Together?](https://dev.to/djamware_tutorial_eba1a61/tailwind-css-sass-workflow-can-you-use-them-together-5883)
-- [Converting Excel to TXT and TXT to Excel in Python](https://dev.to/leondavis1991/converting-excel-to-txt-and-txt-to-excel-in-python-5h33)
-- [Can We Really Trust AI? Lies, Poison, and the Need for Responsible AI](https://dev.to/iuliaferoli/can-we-really-trust-ai-lies-poison-and-the-need-for-responsible-ai-4hjg)
-- [🚀 Building Smarter Tools with MCP Server – A Step Toward AI-Driven Automation](https://dev.to/dominatora/building-smarter-tools-with-mcp-server-a-step-toward-ai-driven-automation-3gnb)
+- [Email Validation and SMTP Handshake With Go](https://dev.to/joybtw/email-validation-and-smtp-handshake-with-go-39gp)
+- [Writing and Running Unit Tests in Autotools](https://dev.to/pauljlucas/writing-and-running-unit-tests-in-autotools-1ob2)
+- [Master Java Read Files: Your No-Fluff Guide to File Handling in Java](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-read-files-your-no-fluff-guide-to-file-handling-in-java-a37)
+- [DNS Block‑Rate Report](https://dev.to/jundata/dns-block-rate-report-594g)
+- [This Week In React #255 : Next.js, RSC, shadcn, TanStack, 3D, Fumadocs | Solito, Expo, MMKV, ImGui | Node.js, Vitest](https://dev.to/sebastienlorber/this-week-in-react-255-nextjs-rsc-shadcn-tanstack-3d-fumadocs-solito-expo-mmkv-imgui-1m40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
