@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Highly Available Architecture on AWS](https://dev.to/prince_dumuhere_1f9367af5/building-a-highly-available-architecture-on-aws-4k24)
 - [Python with Microservices &lpar;FastAPI&rpar;](https://dev.to/godofgeeks/python-with-microservices-fastapi-2gl3)
 - [The Art of Knowing When to Upgrade](https://dev.to/ijuren/the-art-of-knowing-when-to-upgrade-59jg)
 - [BINFLOW: Authenticated AI Agents for a Living Web3 Data Economy](https://dev.to/p_thabiwa_0ca34c2f83/binflow-authenticated-ai-agents-for-a-living-web3-data-economy-4lp1)
 - [Mastering Prompt Engineering: Patterns for Effective AI Interaction](https://dev.to/ddhanushka/mastering-prompt-engineering-patterns-for-effective-ai-interaction-5ei)
-- [ERC-8004: Enabling Trustless Autonomous Agents onchain &amp; offchain](https://dev.to/rollingindo/erc-8004-enabling-trustless-autonomous-agents-onchain-offchain-4024)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
