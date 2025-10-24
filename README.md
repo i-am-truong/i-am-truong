@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Smart Homes for Smart Cats: The Next Era of Pet Technology](https://dev.to/janani_devi_9677e4f34ea4c/smart-homes-for-smart-cats-the-next-era-of-pet-technology-5dkm)
+- [Securing AWS Credentials with Secrets Manager after Sanitizing Git History](https://dev.to/chrisp007/securing-aws-credentials-with-secrets-manager-after-sanitizing-git-history-55m4)
+- [Render Dependency Graph &lpar;RDG&rpar;](https://dev.to/seongcheoljeon/render-dependency-graph-rdg-m50)
 - [TPUs Hit Peak Performance: A Decade of Fine-Tuning AI&#39;s Secret Sauce](https://dev.to/mabualzait/tpus-hit-peak-performance-a-decade-of-fine-tuning-ais-secret-sauce-163f)
 - [Document Chat: Open Source AI-Powered Document Management](https://dev.to/nzouat/document-chat-open-source-ai-powered-document-management-5ba7)
-- [My First Time Vibe Coding: A Skeptic&#39;s Journey](https://dev.to/herber/my-first-time-vibe-coding-a-skeptics-journey-30gd)
-- [11 Best Android Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-android-development-courses-to-learn-in-2026-c6h)
-- [Java Architecture](https://dev.to/swetha_palani_1547914a082/java-architecture-174d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
