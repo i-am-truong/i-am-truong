@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Wisdom of Not Knowing &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/the-wisdom-of-not-knowing-bite-size-article-1a31)
+- [&quot;Create an AWS IAM User: A Quick Beginner’s Guide&quot;](https://dev.to/dj_orchido/create-an-aws-iam-user-a-quick-beginners-guide-37of)
 - [My Software Career So Far: An Unapologetic Recap](https://dev.to/anonymousdev/my-software-career-so-far-an-unapologetic-recap-40k4)
 - [MySQL commands](https://dev.to/jumptotech/mysql-commands-g53)
 - [How to Create a One-Time Payment Link and Secure Webhook Integration with Stripe](https://dev.to/canhamzacode/how-to-create-a-one-time-payment-link-and-secure-webhook-integration-with-stripe-2l4d)
-- [Inside AWS&#39;s outage - and What it teaches Developers.](https://dev.to/shimork/inside-awss-outage-and-what-it-teaches-developers-3h8a)
-- [If I Had to Learn JavaScript Again: The Real Journey From 2017 to Today](https://dev.to/elvissautet/if-i-had-to-learn-javascript-again-the-real-journey-from-2017-to-today-28fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
