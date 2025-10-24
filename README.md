@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Set up an open-source AI analyst for PostgreSQL in 2 minutes](https://dev.to/bagofwords/set-up-an-open-source-ai-analyst-for-postgresql-in-2-minutes-3b5l)
-- [Serverless vs Containers: The Real Battle for Modern Deployments](https://dev.to/addwebsolutionpvtltd/serverless-vs-containers-the-real-battle-for-modern-deployments-25nd)
-- [Go Beyond Basics: Closures, Interfaces, and Why Go Has No Inheritance](https://dev.to/saksham_malhotra_27/go-beyond-basics-closures-interfaces-and-why-go-has-no-inheritance-20a9)
-- [React and the City ⚔️ Part 3: Return of the MCP](https://dev.to/sagi0312/react-and-the-city-part-3-return-of-the-mcp-1ede)
-- [[Neovim] Unreal Engine Plugin Weekly Update &lpar;2025/10/24&rpar;](https://dev.to/taku25/neovim-unreal-engine-plugin-weekly-update-20251024-28dg)
+- [🚀 Compete. Learn. Grow.](https://dev.to/ml318097/compete-learn-grow-g27)
+- [Understanding the Math Object and Utility Functions in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-the-math-object-and-utility-functions-in-javascript-beginners-guide-3l1n)
+- [Load secrets automatically with 1password and direnv](https://dev.to/agonza05/load-secrets-automatically-with-1password-and-direnv-pn0)
+- [The Top 5 HIPAA Slip-Ups in Healthcare Software &lpar;And How to Avoid Them&rpar;](https://dev.to/champsoft/the-top-5-hipaa-slip-ups-in-healthcare-software-and-how-to-avoid-them-3a8o)
+- [# LHDNS — A Ledger-based, Privacy-Preserving Alternative to DNS 🌐](https://dev.to/twincodesworld/-lhdns-a-ledger-based-privacy-preserving-alternative-to-dns-38ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
