@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We have four DEV Challenges for you to dive into this weekend!](https://dev.to/devteam/we-have-four-dev-challenges-for-you-to-dive-into-this-weekend-6be)
-- [PHPDocs for Laravel relationships](https://dev.to/giacomomasseron/phpdocs-for-laravel-relationships-16mh)
-- [Introducing the DevCycle MCP Server: Ship Flags Faster, Safely with AI Coding Agents](https://dev.to/devcycle/introducing-the-devcycle-mcp-server-ship-flags-faster-safely-with-ai-coding-agents-44d9)
-- [The Importance of Meta Tags on Websites: Why Developers Should Care](https://dev.to/victoriaonu23/the-importance-of-meta-tags-on-websites-why-developers-should-care-2j6a)
-- [Things to do when bored for kids at a party](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-kids-at-a-party-2ceh)
+- [BoltJS: pure JavaScript, components, and zero compilation](https://dev.to/michalczerski/boltjs-pure-javascript-components-and-zero-compilation-17lm)
+- [Hackoctoberfest experience](https://dev.to/dipika_vamankantappapoo/hackoctoberfest-experience-o00)
+- [Introducing Lara SMS – A Flexible Laravel SMS Gateway Package](https://dev.to/yasserelgammal/introducing-lara-sms-a-flexible-laravel-sms-gateway-package-2gd1)
+- [ResearchHub AI: Secure Academic Research Assistant with Auth0 for AI Agents](https://dev.to/hulyamasharipov/researchhub-ai-secure-academic-research-assistant-with-auth0-for-ai-agents-2ejl)
+- [Big update: 3 SaaS growth courses already live](https://dev.to/bibhash_dutta_099/big-update-3-saas-growth-courses-already-live-459b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
