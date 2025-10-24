@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Cartographer&#39;s Compass: Navigating the PostgreSQL Query Planner](https://dev.to/alex_aslam/the-cartographers-compass-navigating-the-postgresql-query-planner-311)
+- [From Forecast to Flow: How the Enhanced Planning Worksheet Bridges Demand and Supply in Business Central](https://dev.to/insight_works/from-forecast-to-flow-how-the-enhanced-planning-worksheet-bridges-demand-and-supply-in-business-c15)
+- [Mine Artisan&#39;s Workshop: Evolving Service Objects into Policies, Forms, and Queries](https://dev.to/alex_aslam/mine-artisans-workshop-evolving-service-objects-into-policies-forms-and-queries-106g)
 - [Is this a good way to represent systems architecture or am i missing anything?](https://dev.to/tech_withthiru_6384c189c/is-this-a-good-way-to-represent-systems-architecture-or-am-i-missing-anything-45jb)
 - [How I Deployed a StartBootstrap Site to AWS EC2](https://dev.to/cyberhack08/how-i-deployed-a-startbootstrap-site-to-aws-ec2-4d8a)
-- [The Architect&#39;s Blueprint: A Journey into Node.js&#39;s Module Soul](https://dev.to/alex_aslam/the-architects-blueprint-a-journey-into-nodejss-module-soul-2f4d)
-- [The Artisan&#39;s Return: AdonisJS and the Quest for a Cohesive Node.js](https://dev.to/alex_aslam/the-artisans-return-adonisjs-and-the-quest-for-a-cohesive-nodejs-3b3)
-- [🚀 How to Add Dynamic Blog Content to Your AI Email Builder &lpar;Laravel + React&rpar;](https://dev.to/gurindersingh/how-to-add-dynamic-blog-content-to-your-ai-email-builder-laravel-react-12pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
