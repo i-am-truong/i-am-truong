@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SoraStrip: Building a Sora Watermark Removal Tool with API-First Architecture](https://dev.to/aadarsh-nagrath/sorastrip-building-a-sora-watermark-removal-tool-with-api-first-architecture-563c)
-- [Come strutturare un&#39;app Angular scalabile nel 2025](https://dev.to/fedecroletti/come-strutturare-unapp-angular-scalabile-nel-2025-4a7c)
-- [A Dashboard That Grows With Me](https://dev.to/humairamuhyiddeen/a-dashboard-that-grows-with-me-40hk)
-- [EFS Data Across Multiple EKS Applications Using Terraform](https://dev.to/santanu_das/efs-data-across-multiple-eks-applications-using-terraform-3mpj)
-- [Como inicializar o mariadb no archlinux](https://dev.to/makimo/como-inicializar-o-mariadb-no-archlinux-1efn)
+- [My Software Career So Far: An Unapologetic Recap](https://dev.to/anonymousdev/my-software-career-so-far-an-unapologetic-recap-40k4)
+- [MySQL commands](https://dev.to/jumptotech/mysql-commands-g53)
+- [How to Create a One-Time Payment Link and Secure Webhook Integration with Stripe](https://dev.to/canhamzacode/how-to-create-a-one-time-payment-link-and-secure-webhook-integration-with-stripe-2l4d)
+- [Inside AWS&#39;s outage - and What it teaches Developers.](https://dev.to/shimork/inside-awss-outage-and-what-it-teaches-developers-3h8a)
+- [If I Had to Learn JavaScript Again: The Real Journey From 2017 to Today](https://dev.to/elvissautet/if-i-had-to-learn-javascript-again-the-real-journey-from-2017-to-today-28fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
