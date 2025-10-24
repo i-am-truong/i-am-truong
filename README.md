@@ -119,15 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5bje)
-- [“The Movement is not a chain — it’s a living ecosystem.”
-
-The Movement Network is built not just to connect chains, but to connect purpose.
-Each builder is a heartbeat. Each node, a breath.
-Our ecosystem thrives on collaboration, not control.](https://dev.to/kokyat/the-movement-is-not-a-chain-its-a-living-ecosystem-the-movement-network-is-built-not-just-to-4jj7)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-kk4)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1l1f)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-25g1)
+- [EFS Data Across Multiple EKS Applications Using Terraform](https://dev.to/santanu_das/efs-data-across-multiple-eks-applications-using-terraform-3mpj)
+- [Como inicializar o mariadb no archlinux](https://dev.to/makimo/como-inicializar-o-mariadb-no-archlinux-1efn)
+- [Introducing... JS FUNdamentals! 🥳](https://dev.to/isiomatalabi/introducing-js-fundamentals-3fne)
+- [Testing Agentic SEO: How AI Search Engines Discover Content](https://dev.to/md_saadgodikat_139abc8e4/testing-agentic-seo-how-ai-search-engines-discover-content-2g7o)
+- [I Spent 3 Days Making App Store Screenshots &lpar;So I Built a Tool That Does It in 15 Minutes&rpar;](https://dev.to/mateusz_b9/i-spent-3-days-making-app-store-screenshots-so-i-built-a-tool-that-does-it-in-15-minutes-39cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
