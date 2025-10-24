@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Highly Available Architecture on AWS](https://dev.to/prince_dumuhere_1f9367af5/building-a-highly-available-architecture-on-aws-4k24)
-- [Python with Microservices &lpar;FastAPI&rpar;](https://dev.to/godofgeeks/python-with-microservices-fastapi-2gl3)
-- [The Art of Knowing When to Upgrade](https://dev.to/ijuren/the-art-of-knowing-when-to-upgrade-59jg)
-- [BINFLOW: Authenticated AI Agents for a Living Web3 Data Economy](https://dev.to/p_thabiwa_0ca34c2f83/binflow-authenticated-ai-agents-for-a-living-web3-data-economy-4lp1)
-- [Mastering Prompt Engineering: Patterns for Effective AI Interaction](https://dev.to/ddhanushka/mastering-prompt-engineering-patterns-for-effective-ai-interaction-5ei)
+- [Go Beyond Basics: Closures, Interfaces, and Why Go Has No Inheritance](https://dev.to/saksham_malhotra_27/go-beyond-basics-closures-interfaces-and-why-go-has-no-inheritance-20a9)
+- [React and the City ⚔️ Part 3: Return of the MCP](https://dev.to/sagi0312/react-and-the-city-part-3-return-of-the-mcp-1ede)
+- [[Neovim] Unreal Engine Plugin Weekly Update &lpar;2025/10/24&rpar;](https://dev.to/taku25/neovim-unreal-engine-plugin-weekly-update-20251024-28dg)
+- [Manjaro, Manjaro](https://dev.to/ash_ketchum_ab8cd8dbbf2fe/manjaro-manjaro-dce)
+- [Liman Zabbix Bildirimleri](https://dev.to/aciklab/liman-zabbix-bildirimleri-2mba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
