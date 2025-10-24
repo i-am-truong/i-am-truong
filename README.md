@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI in eCommerce: Unlocking the Future of Online Retail](https://dev.to/0-0-jyo-0-0/generative-ai-in-ecommerce-unlocking-the-future-of-online-retail-12oc)
+- [Tailwind CSS + SASS Workflow: Can You Use Them Together?](https://dev.to/djamware_tutorial_eba1a61/tailwind-css-sass-workflow-can-you-use-them-together-5883)
 - [Converting Excel to TXT and TXT to Excel in Python](https://dev.to/leondavis1991/converting-excel-to-txt-and-txt-to-excel-in-python-5h33)
 - [Can We Really Trust AI? Lies, Poison, and the Need for Responsible AI](https://dev.to/iuliaferoli/can-we-really-trust-ai-lies-poison-and-the-need-for-responsible-ai-4hjg)
 - [🚀 Building Smarter Tools with MCP Server – A Step Toward AI-Driven Automation](https://dev.to/dominatora/building-smarter-tools-with-mcp-server-a-step-toward-ai-driven-automation-3gnb)
-- [Should AI Have Rights? A Philosophical Take](https://dev.to/yashvoids/should-ai-have-rights-a-philosophical-take-3aa0)
-- [Weather Widgets](https://dev.to/madsstoumann/weather-widgets-4751)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
