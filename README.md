@@ -119,13 +119,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎃 Haunted Halloween Bash 2025 - A Spooky Interactive Landing Page](https://dev.to/simranshaikh20_50/haunted-halloween-bash-2025-a-spooky-interactive-landing-page-3c9g)
+- [SVAR React Gantt v2.3: Modern Project Timelines for React 19](https://dev.to/olga_tash/svar-react-gantt-v23-modern-project-timelines-for-react-19-e7f)
 - [💥 A Bit of Pain — or Why Architecture Is About Product Survival](https://dev.to/frontart/a-bit-of-pain-or-why-architecture-is-about-product-survival-350h)
 - [Never Use Your Website Hosting Server for Email Marketing](https://dev.to/charlesmudy/never-use-your-website-hosting-server-for-email-marketing-3m27)
 - [&gt; Deploy, Scale, and Own Your Web Apps. No Vendor Lock-In.
 
 Honestly that&#39;s a pretty incredible value proposition!](https://dev.to/ben/-deploy-scale-and-own-your-web-apps-no-vendor-lock-in-honestly-thats-a-pretty-incredible-5eg)
-- [sanitizeEnvVars function in Storybook codebase.](https://dev.to/ramunarasinga-11/sanitizeenvvars-function-in-storybook-codebase-39nf)
-- [KNN: The Importance of Being Scaled](https://dev.to/julielinx/the-importance-of-being-scaled-4mef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
