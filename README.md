@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is this a good way to represent systems architecture or am i missing anything?](https://dev.to/tech_withthiru_6384c189c/is-this-a-good-way-to-represent-systems-architecture-or-am-i-missing-anything-45jb)
+- [How I Deployed a StartBootstrap Site to AWS EC2](https://dev.to/cyberhack08/how-i-deployed-a-startbootstrap-site-to-aws-ec2-4d8a)
+- [The Architect&#39;s Blueprint: A Journey into Node.js&#39;s Module Soul](https://dev.to/alex_aslam/the-architects-blueprint-a-journey-into-nodejss-module-soul-2f4d)
+- [The Artisan&#39;s Return: AdonisJS and the Quest for a Cohesive Node.js](https://dev.to/alex_aslam/the-artisans-return-adonisjs-and-the-quest-for-a-cohesive-nodejs-3b3)
 - [🚀 How to Add Dynamic Blog Content to Your AI Email Builder &lpar;Laravel + React&rpar;](https://dev.to/gurindersingh/how-to-add-dynamic-blog-content-to-your-ai-email-builder-laravel-react-12pi)
-- [paint pictures like a 5 year old](https://dev.to/fig-rolls/paint-pictures-like-a-5-year-old-3olo)
-- [Diving Into Design Patterns via Hacktoberfest](https://dev.to/elsad_humbetli_0971c995ce/diving-into-design-patterns-via-hacktoberfest-1gd1)
-- [Getting Started with LambdaTest: A Comprehensive Beginner’s Guide](https://dev.to/henry_messiahtmt_099ca84/getting-started-with-lambdatest-a-comprehensive-beginners-guide-4l2m)
-- [A High-Level overview of Address Spaces: Their Place in ClangIR](https://dev.to/david_rivera_8d845b35931e/a-high-level-overview-of-address-spaces-their-place-in-clangir-5e0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
