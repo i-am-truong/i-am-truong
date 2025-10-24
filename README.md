@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We have four DEV Challenges for you to dive into this weekend!](https://dev.to/devteam/we-have-four-dev-challenges-for-you-to-dive-into-this-weekend-6be)
+- [PHPDocs for Laravel relationships](https://dev.to/giacomomasseron/phpdocs-for-laravel-relationships-16mh)
+- [Introducing the DevCycle MCP Server: Ship Flags Faster, Safely with AI Coding Agents](https://dev.to/devcycle/introducing-the-devcycle-mcp-server-ship-flags-faster-safely-with-ai-coding-agents-44d9)
 - [The Importance of Meta Tags on Websites: Why Developers Should Care](https://dev.to/victoriaonu23/the-importance-of-meta-tags-on-websites-why-developers-should-care-2j6a)
 - [Things to do when bored for kids at a party](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-kids-at-a-party-2ceh)
-- [Things to do when bored for students when it is sunny](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-students-when-it-is-sunny-568c)
-- [Things to do when bored for students when it is cold](https://dev.to/trang_khanh_1a4456cf74e34/things-to-do-when-bored-for-students-when-it-is-cold-1a9e)
-- [What the F**k is Git](https://dev.to/jeffrey_payne_19b04db1d78/what-the-fk-is-git-5ch3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
