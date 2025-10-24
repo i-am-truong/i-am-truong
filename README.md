@@ -119,11 +119,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shopify POS Extensions: Connecting the Backend Securely](https://dev.to/dchueri/shopify-pos-extensions-connecting-the-backend-securely-5fld)
-- [Advanced Patterns for Symfony HttpClient: Streaming, Retry, and Resilience](https://dev.to/mattleads/advanced-patterns-for-symfony-httpclient-streaming-retry-and-resilience-2dg)
-- [Introducing Solana Instruction MCP — A Game-Changing Tool for Solana Developers](https://dev.to/0xlivian2581919/introducing-solana-instruction-mcp-a-game-changing-tool-for-solana-developers-336e)
-- [👋 Hey DEV community! I&#39;m a Full Stack Developer from Lahore 🇵🇰 with 12+ years in PHP, JS, and WordPress. Currently exploring Python &amp; ML. Excited to share my experiences and learn from you all! 🚀](https://dev.to/muzammildev/hey-dev-community-im-a-full-stack-developer-from-lahore-with-12-years-in-php-js-and-297a)
-- [Shopify POS Extensions: Conectando o Backend com Segurança](https://dev.to/dchueri/shopify-pos-extensions-conectando-o-backend-com-seguranca-2ljm)
+- [💥 A Bit of Pain — or Why Architecture Is About Product Survival](https://dev.to/frontart/a-bit-of-pain-or-why-architecture-is-about-product-survival-350h)
+- [Never Use Your Website Hosting Server for Email Marketing](https://dev.to/charlesmudy/never-use-your-website-hosting-server-for-email-marketing-3m27)
+- [&gt; Deploy, Scale, and Own Your Web Apps. No Vendor Lock-In.
+
+Honestly that&#39;s a pretty incredible value proposition!](https://dev.to/ben/-deploy-scale-and-own-your-web-apps-no-vendor-lock-in-honestly-thats-a-pretty-incredible-5eg)
+- [sanitizeEnvVars function in Storybook codebase.](https://dev.to/ramunarasinga-11/sanitizeenvvars-function-in-storybook-codebase-39nf)
+- [KNN: The Importance of Being Scaled](https://dev.to/julielinx/the-importance-of-being-scaled-4mef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
