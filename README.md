@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 How to Add Dynamic Blog Content to Your AI Email Builder &lpar;Laravel + React&rpar;](https://dev.to/gurindersingh/how-to-add-dynamic-blog-content-to-your-ai-email-builder-laravel-react-12pi)
 - [paint pictures like a 5 year old](https://dev.to/fig-rolls/paint-pictures-like-a-5-year-old-3olo)
+- [Diving Into Design Patterns via Hacktoberfest](https://dev.to/elsad_humbetli_0971c995ce/diving-into-design-patterns-via-hacktoberfest-1gd1)
 - [Getting Started with LambdaTest: A Comprehensive Beginner’s Guide](https://dev.to/henry_messiahtmt_099ca84/getting-started-with-lambdatest-a-comprehensive-beginners-guide-4l2m)
 - [A High-Level overview of Address Spaces: Their Place in ClangIR](https://dev.to/david_rivera_8d845b35931e/a-high-level-overview-of-address-spaces-their-place-in-clangir-5e0k)
-- [How I Built a Complete QA Test Strategy for an AI-Powered Language Learning Game](https://dev.to/samandcode/how-i-built-a-complete-qa-test-strategy-for-an-ai-powered-language-learning-game-1pf4)
-- [95% of BC devs set up OAuth2 the hard way. Here&#39;s the 5% method that actually works.](https://dev.to/jeffreybulanadi/95-of-bc-devs-set-up-oauth2-the-hard-way-heres-the-5-method-that-actually-works-3o0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
