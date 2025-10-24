@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Contribute to Pixalo — A Lightweight 2D Game Engine Built for Speed](https://dev.to/salarizadi/how-to-contribute-to-pixalo-a-lightweight-2d-game-engine-built-for-speed-ecf)
-- [Create a cloud-backed IDE for development](https://dev.to/aws-builders/create-a-cloud-backed-ide-for-development-1f64)
-- [Building Explainable Fraud Detection With Amazon Sagemaker and Bedrock](https://dev.to/victorpinzon1988eng/building-explainable-fraud-detection-with-amazon-sagemaker-and-bedrock-11i)
-- [Why Most AI Agents Will Fail: The Orchestration Problem Nobody&#39;s Solving](https://dev.to/hadywalied/why-most-ai-agents-will-fail-the-orchestration-problem-nobodys-solving-1d00)
-- [HNG QA Strategy: Your Test Plan as a Governance Contract](https://dev.to/uziman-qa/hng-qa-strategy-your-test-plan-as-a-governance-contract-124h)
+- [The Future of Backend: How Serverless and Edge Functions Are Changing the Game](https://dev.to/softwaredeveloper01/the-future-of-backend-how-serverless-and-edge-functions-are-changing-the-game-3go1)
+- [OpenStreetMap&#39;s software ecosystem and tools](https://dev.to/tylerlwsmith/openstreetmaps-software-ecosystem-and-tools-m09)
+- [💡 Discovering `CustomMultiChildLayout` in Flutter: A Personal Journey](https://dev.to/artkinx/discovering-custommultichildlayout-in-flutter-a-personal-journey-1fi5)
+- [GitScroll I: The Unbroken Line](https://dev.to/flyingrobots/gitscroll-i-the-unbroken-line-5ba0)
+- [Tool Calling dando mãos e olhos aos modelos de linguagem &lpar;LLMs&rpar;](https://dev.to/wandealves/tool-calling-dando-maos-e-olhos-aos-modelos-de-linguagem-llms-275b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
