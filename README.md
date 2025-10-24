@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Are We Relying Too Much on AI for Creativity?](https://dev.to/n3on/are-we-relying-too-much-on-ai-for-creativity-4254)
-- [Longest Substring Without Repeating Characters](https://dev.to/gurpreet_d921f9fff6fa7442/longest-substring-without-repeating-characters-306o)
-- [Evolução da linguagem Java &lpar;parte 5&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-5-5cl2)
-- [PaddleOCR VL + RAG: Revolutionize Complex Data Extraction &lpar;Open-Source&rpar;](https://dev.to/gaodalie_ai/paddleocr-vl-rag-revolutionize-complex-data-extraction-open-source-lja)
-- [Gang of Three: Pragmatic Operations Design Patterns](https://dev.to/rosesecurity/gang-of-three-pragmatic-operations-design-patterns-a40)
+- [Building a Dynamic Profile Endpoint — GET /me &lpar;Node.js/Express + Cat Facts&rpar;](https://dev.to/yahaiii/building-a-dynamic-profile-endpoint-get-me-nodejsexpress-cat-facts-41e)
+- [Coding Challenge Practice - Question 35](https://dev.to/tomivan/coding-challenge-practice-question-35-4620)
+- [My QA Approach to testing the Delve Mobile Application](https://dev.to/precious_ogunsemore_5b005/my-qa-approach-to-testing-the-delve-mobile-application-682)
+- [Google Cloud Training Paths to Upskill Your Teams in AI, Data, and Cloud](https://dev.to/rohan_jee_085655230/google-cloud-training-paths-to-upskill-your-teams-in-ai-data-and-cloud-4a1c)
+- [We&#39;re All Temporarily Abled](https://dev.to/oxypteros/were-all-temporarily-abled-1m5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
