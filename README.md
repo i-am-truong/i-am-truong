@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Set up an open-source AI analyst for PostgreSQL in 2 minutes](https://dev.to/bagofwords/set-up-an-open-source-ai-analyst-for-postgresql-in-2-minutes-3b5l)
+- [Serverless vs Containers: The Real Battle for Modern Deployments](https://dev.to/addwebsolutionpvtltd/serverless-vs-containers-the-real-battle-for-modern-deployments-25nd)
 - [Go Beyond Basics: Closures, Interfaces, and Why Go Has No Inheritance](https://dev.to/saksham_malhotra_27/go-beyond-basics-closures-interfaces-and-why-go-has-no-inheritance-20a9)
 - [React and the City ⚔️ Part 3: Return of the MCP](https://dev.to/sagi0312/react-and-the-city-part-3-return-of-the-mcp-1ede)
 - [[Neovim] Unreal Engine Plugin Weekly Update &lpar;2025/10/24&rpar;](https://dev.to/taku25/neovim-unreal-engine-plugin-weekly-update-20251024-28dg)
-- [Manjaro, Manjaro](https://dev.to/ash_ketchum_ab8cd8dbbf2fe/manjaro-manjaro-dce)
-- [Liman Zabbix Bildirimleri](https://dev.to/aciklab/liman-zabbix-bildirimleri-2mba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
