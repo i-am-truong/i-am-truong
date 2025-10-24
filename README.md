@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking African Trade: The Rise of Regional Integration and Digital Transformation](https://dev.to/gloriousmarketing/unlocking-african-trade-the-rise-of-regional-integration-and-digital-transformation-4a5j)
 - [Why I&#39;m Building in Public &lpar;And Why You Should Too&rpar;](https://dev.to/shalenmathew/why-im-building-in-public-and-why-you-should-too-4hkp)
 - [Smart Homes for Smart Cats: The Next Era of Pet Technology](https://dev.to/janani_devi_9677e4f34ea4c/smart-homes-for-smart-cats-the-next-era-of-pet-technology-5dkm)
 - [The Complete Guide to Integrating a Geolocation API with JavaScript](https://dev.to/rameshchauhan/the-complete-guide-to-integrating-a-geolocation-api-with-javascript-1kb1)
 - [Building Long-Term Memory in Agentic AI: A Practical Guide 🚀](https://dev.to/techstuff/building-long-term-memory-in-agentic-ai-a-practical-guide-e91)
-- [Securing AWS Credentials with Secrets Manager after Sanitizing Git History](https://dev.to/chrisp007/securing-aws-credentials-with-secrets-manager-after-sanitizing-git-history-55m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
