@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Get the Most Out of My AI Agent](https://dev.to/bekahhw/how-i-get-the-most-out-of-my-ai-agent-47bm)
+- [Free vs Paid Football APIs: Choosing the right option for your project](https://dev.to/sportmonks/free-vs-paid-football-apis-choosing-the-right-option-for-your-project-c1a)
+- [Building an AI-Powered Expense Dashboard with Gemini and Google Sheets](https://dev.to/ahmettkartal/building-an-ai-powered-expense-dashboard-with-gemini-and-google-sheets-hp3)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2gcl)
 - [Ringer Movies: ‘Springsteen: Deliver Me From Nowhere’ and the ‘Music Biopic’ Mount Rushmore](https://dev.to/popcorn_movies/ringer-movies-springsteen-deliver-me-from-nowhere-and-the-music-biopic-mount-rushmore-5a5f)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-bi4)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4p1i)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-16do)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-3lod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
