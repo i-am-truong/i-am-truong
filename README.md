@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TPUs Hit Peak Performance: A Decade of Fine-Tuning AI&#39;s Secret Sauce](https://dev.to/mabualzait/tpus-hit-peak-performance-a-decade-of-fine-tuning-ais-secret-sauce-163f)
+- [Document Chat: Open Source AI-Powered Document Management](https://dev.to/nzouat/document-chat-open-source-ai-powered-document-management-5ba7)
 - [My First Time Vibe Coding: A Skeptic&#39;s Journey](https://dev.to/herber/my-first-time-vibe-coding-a-skeptics-journey-30gd)
 - [11 Best Android Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-android-development-courses-to-learn-in-2026-c6h)
 - [Java Architecture](https://dev.to/swetha_palani_1547914a082/java-architecture-174d)
-- [React Native Memory Leaks: How to Find and Fix Your App&#39;s Biggest Performance Issue](https://dev.to/rushilbhuptani/react-native-memory-leaks-how-to-find-and-fix-your-apps-biggest-performance-issue-1pak)
-- [How AI and Automation Are Transforming Web App Testing](https://dev.to/misterankit/how-ai-and-automation-are-transforming-web-app-testing-505d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
