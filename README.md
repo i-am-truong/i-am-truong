@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is LLM‑as‑a‑Judge? A Practical, Reliable Path to Evaluating AI Systems](https://dev.to/kuldeep_paul/what-is-llm-as-a-judge-a-practical-reliable-path-to-evaluating-ai-systems-50e4)
+- [What Are Automated Evals? A Practical Guide to Measuring AI Quality at Scale](https://dev.to/kuldeep_paul/what-are-automated-evals-a-practical-guide-to-measuring-ai-quality-at-scale-27j3)
+- [AI-Powered Cover Letter Generator](https://dev.to/earthcomfy/ai-powered-cover-letter-generator-2d3g)
 - [Taming the Chaos: A Python Guide to Beating Race Conditions in Multithreading](https://dev.to/aris_georgatos/taming-the-chaos-a-python-guide-to-beating-race-conditions-in-multithreading-3gd3)
-- [Web3 Gaming&#39;s Dirty Secret: Why On-Chain Games Leak Everything &lpar;And How to Fix It&rpar;](https://dev.to/savvysid/web3-gamings-dirty-secret-why-on-chain-games-leak-everything-and-how-to-fix-it-239l)
-- [Meet Claude Desktop - A Lightweight, Distraction-Free Way to Use Claude AI](https://dev.to/prevailexcellent/meet-claude-desktop-a-lightweight-distraction-free-way-to-use-claude-ai-295c)
-- [🎃 Contribute to a Go REST API Boilerplate — Perfect for Hacktoberfest Beginners!](https://dev.to/vahiiiid/contribute-to-a-go-rest-api-boilerplate-perfect-for-hacktoberfest-beginners-30b0)
-- [How Crypto Payment Gateways Work: A Developer’s Deep Dive](https://dev.to/jason_mitchell_ee24ceae69/how-crypto-payment-gateways-work-a-developers-deep-dive-2eo3)
+- [O que é GEMBA?](https://dev.to/luiscruzcwb/o-que-e-gemba-211d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
