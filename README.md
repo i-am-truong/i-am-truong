@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Streaky: Distributed Queue System with Service Bindings &lpar;Part 3&rpar;](https://dev.to/0xrelogic/building-streaky-distributed-queue-system-with-service-bindings-part-3-46f9)
-- [Pygments – Syntax Highlighting for Code and Text in python](https://dev.to/imrrobot/pygments-syntax-highlighting-for-code-and-text-in-python-2n57)
-- [Getting Started with RPG &lpar;and Coffee&rpar;](https://dev.to/gvaneaton/getting-started-with-rpg-and-coffee-8pc)
-- [We are using Augment but not able to use Playwright agents.](https://dev.to/konankiani/we-are-using-augment-but-not-able-to-use-playwright-agents-328c)
-- [Secure Crypto Payments Just Got Easier: Introducing the Official Payra SDK for Laravel](https://dev.to/payracash/secure-crypto-payments-just-got-easier-introducing-the-official-payra-sdk-for-laravel-3k91)
+- [The Cost of Clarity: Building Libraries For Artists](https://dev.to/bekalah/the-cost-of-clarity-building-libraries-for-artists-50g3)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-54h9)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-2ob6)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1ihc)
+- [Detect Linux Server Intrusions](https://dev.to/tshenolo/detect-linux-server-intrusions-4f3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
