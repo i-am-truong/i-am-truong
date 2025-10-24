@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Blazing-Fast TCP Server in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/build-a-blazing-fast-tcp-server-in-go-a-practical-guide-29d)
-- [𝗪𝗵𝘆 𝗨𝘀𝗶𝗻𝗴 𝗮 𝗦𝘁𝗮𝘁𝗶𝗰 𝗗𝗯𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗖𝗮𝗻 𝗕𝗿𝗲𝗮𝗸 𝗬𝗼𝘂𝗿 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻](https://dev.to/supraja_tangella_b7f0738e/-3k7n)
-- [The Link Layer Explained: How Your Data Hops Across Local Networks &lpar;CSMA/CD to CRC&rpar;](https://dev.to/tanishq_sangle_f26270c682/the-link-layer-explained-how-your-data-hops-across-local-networks-csmacd-to-crc-2mp6)
-- [Why Your Mac Software Installation is Broken &lpar;And How to Fix It in 10 Minutes&rpar;](https://dev.to/leonwong282/why-your-mac-software-installation-is-broken-and-how-to-fix-it-in-10-minutes-331d)
-- [Building a Gas Optimization Tool: Technical Deep Dive](https://dev.to/gentian_428090dca51d08f02/building-a-gas-optimization-tool-technical-deep-dive-3cc9)
+- [Python with Microservices &lpar;FastAPI&rpar;](https://dev.to/godofgeeks/python-with-microservices-fastapi-2gl3)
+- [The Art of Knowing When to Upgrade](https://dev.to/ijuren/the-art-of-knowing-when-to-upgrade-59jg)
+- [BINFLOW: Authenticated AI Agents for a Living Web3 Data Economy](https://dev.to/p_thabiwa_0ca34c2f83/binflow-authenticated-ai-agents-for-a-living-web3-data-economy-4lp1)
+- [Mastering Prompt Engineering: Patterns for Effective AI Interaction](https://dev.to/ddhanushka/mastering-prompt-engineering-patterns-for-effective-ai-interaction-5ei)
+- [ERC-8004: Enabling Trustless Autonomous Agents onchain &amp; offchain](https://dev.to/rollingindo/erc-8004-enabling-trustless-autonomous-agents-onchain-offchain-4024)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
