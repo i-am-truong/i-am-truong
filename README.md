@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Ditched React &lpar;And Why You Should Too&rpar;: A Self-Taught Dev&#39;s Rant](https://dev.to/dev_michael/why-i-ditched-react-and-why-you-should-too-a-self-taught-devs-rant-dj3)
-- [Starting My API Journey 🚀](https://dev.to/soma_mathew_f5fe0e6eb1ef5/starting-my-api-journey-5dc)
-- [Quick Guide: Seamless Data Integration into Amazon S3 Tables with Apache SeaTunnel](https://dev.to/seatunnel/quick-guide-seamless-data-integration-into-amazon-s3-tables-with-apache-seatunnel-3jdk)
-- [Brilliant, Broken, and Frustrating: My Deep Dive into Amazon’s Kiro AI IDE, the Flawed Junior Developer](https://dev.to/aws-builders/brilliant-broken-and-frustrating-my-deep-dive-into-amazons-kiro-ai-ide-the-flawed-junior-gn5)
-- [Python MySQL create a database and a table](https://dev.to/sven_krmer_6f8a15646f686/python-mysql-create-a-database-and-a-table-dk5)
+- [You Don’t Hate Coding — You Just Hate When It Doesn’t Obey You.](https://dev.to/melchizedek_amos_90899930/you-dont-hate-coding-you-just-hate-when-it-doesnt-obey-you-33en)
+- [🧠 Mastering the Functional Resume: A Comprehensive Guide](https://dev.to/hey_rishabh/mastering-the-functional-resume-a-comprehensive-guide-4930)
+- [Navigating the AI Shift in Software Development: Rearchitecting for Trust](https://dev.to/justinsaran/navigating-the-ai-shift-in-software-development-rearchitecting-for-trust-1o7)
+- [How End-to-End Payment Tracking Helps Institutions Tackle Fraud and Regulatory Risks](https://dev.to/nikunjgundaniya/how-end-to-end-payment-tracking-helps-institutions-tackle-fraud-and-regulatory-risks-3dbo)
+- [#1 A small app which use OpenAI API](https://dev.to/koichi_yoshikawa_dbd33319/1-a-small-app-which-use-openai-api-5dbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
