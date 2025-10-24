@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tokenization vs. Encryption for Payment Data Security](https://dev.to/flutterwaveeng/tokenization-vs-encryption-for-payment-data-security-1185)
+- [Releasing LightningChart .NET 12.4.1](https://dev.to/omar_lightningchart/releasing-lightningchart-net-1241-28dm)
+- [Users could act as both Buyers and Sellers — and they could switch roles instantly from the navbar](https://dev.to/shawon0c/users-could-act-as-both-buyers-and-sellers-and-they-could-switch-roles-instantly-from-the-navbar-4olh)
+- [Building a zero-knowledge secrets manager with zero crypto knowledge](https://dev.to/degecko/building-a-zero-knowledge-secrets-manager-with-zero-crypto-knowledge-3kne)
 - [Next.js; A Game Changer](https://dev.to/lexycon002/nextjs-a-game-changer-12f2)
-- [Using Chonkie](https://dev.to/aairom/using-chonkie-4glg)
-- [VS Code Dev Days 2025 - Unlocking AI Powered Dev Workflows with GitHub Copilot](https://dev.to/pwd9000/vs-code-dev-days-2025-unlocking-ai-powered-dev-workflows-with-github-copilot-2mg9)
-- [Day 13: Finding Mutual Friends with Python Sets – Fast, Clean, and Surprisingly Useful](https://dev.to/shahrouzlogs/day-13-finding-mutual-friends-with-python-sets-fast-clean-and-surprisingly-useful-151i)
-- [How to connect to WiFi and turn on VNC on Raspberry Pi without mointor?](https://dev.to/carolineee/how-to-connect-to-wifi-and-turn-on-vnc-on-raspberry-pi-without-mointor-3en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
