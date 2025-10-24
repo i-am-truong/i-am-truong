@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [BoltJS: pure JavaScript, components, and zero compilation](https://dev.to/michalczerski/boltjs-pure-javascript-components-and-zero-compilation-17lm)
-- [Hackoctoberfest experience](https://dev.to/dipika_vamankantappapoo/hackoctoberfest-experience-o00)
-- [Introducing Lara SMS – A Flexible Laravel SMS Gateway Package](https://dev.to/yasserelgammal/introducing-lara-sms-a-flexible-laravel-sms-gateway-package-2gd1)
-- [ResearchHub AI: Secure Academic Research Assistant with Auth0 for AI Agents](https://dev.to/hulyamasharipov/researchhub-ai-secure-academic-research-assistant-with-auth0-for-ai-agents-2ejl)
-- [Big update: 3 SaaS growth courses already live](https://dev.to/bibhash_dutta_099/big-update-3-saas-growth-courses-already-live-459b)
+- [Are We Relying Too Much on AI for Creativity?](https://dev.to/n3on/are-we-relying-too-much-on-ai-for-creativity-4254)
+- [Longest Substring Without Repeating Characters](https://dev.to/gurpreet_d921f9fff6fa7442/longest-substring-without-repeating-characters-306o)
+- [Evolução da linguagem Java &lpar;parte 5&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-5-5cl2)
+- [PaddleOCR VL + RAG: Revolutionize Complex Data Extraction &lpar;Open-Source&rpar;](https://dev.to/gaodalie_ai/paddleocr-vl-rag-revolutionize-complex-data-extraction-open-source-lja)
+- [Gang of Three: Pragmatic Operations Design Patterns](https://dev.to/rosesecurity/gang-of-three-pragmatic-operations-design-patterns-a40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
