@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌍 My QA Journey Testing Delve.fun — What I Learned from the Experience](https://dev.to/chinonye_victoria/my-qa-journey-testing-delvefun-what-i-learned-from-the-experience-3e15)
-- [Further updates](https://dev.to/okerew/further-updates-2fp9)
-- [Rust Mastery Curriculum](https://dev.to/cargodev/rust-mastery-curriculum-1mg8)
-- [The Wisdom of Not Knowing &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/the-wisdom-of-not-knowing-bite-size-article-1a31)
-- [&quot;Create an AWS IAM User: A Quick Beginner’s Guide&quot;](https://dev.to/dj_orchido/create-an-aws-iam-user-a-quick-beginners-guide-37of)
+- [Five Games for the Halloween Season 🎃](https://dev.to/gem_hell/five-games-for-the-halloween-season-47mh)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3of1)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3pce)
+- [Day 1258 : Street Clothes](https://dev.to/dwane/day-1258-street-clothes-1kna)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-m7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
