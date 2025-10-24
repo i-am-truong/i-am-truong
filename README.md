@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I&#39;m Building in Public &lpar;And Why You Should Too&rpar;](https://dev.to/shalenmathew/why-im-building-in-public-and-why-you-should-too-4hkp)
 - [Smart Homes for Smart Cats: The Next Era of Pet Technology](https://dev.to/janani_devi_9677e4f34ea4c/smart-homes-for-smart-cats-the-next-era-of-pet-technology-5dkm)
+- [The Complete Guide to Integrating a Geolocation API with JavaScript](https://dev.to/rameshchauhan/the-complete-guide-to-integrating-a-geolocation-api-with-javascript-1kb1)
+- [Building Long-Term Memory in Agentic AI: A Practical Guide 🚀](https://dev.to/techstuff/building-long-term-memory-in-agentic-ai-a-practical-guide-e91)
 - [Securing AWS Credentials with Secrets Manager after Sanitizing Git History](https://dev.to/chrisp007/securing-aws-credentials-with-secrets-manager-after-sanitizing-git-history-55m4)
-- [Render Dependency Graph &lpar;RDG&rpar;](https://dev.to/seongcheoljeon/render-dependency-graph-rdg-m50)
-- [TPUs Hit Peak Performance: A Decade of Fine-Tuning AI&#39;s Secret Sauce](https://dev.to/mabualzait/tpus-hit-peak-performance-a-decade-of-fine-tuning-ais-secret-sauce-163f)
-- [Document Chat: Open Source AI-Powered Document Management](https://dev.to/nzouat/document-chat-open-source-ai-powered-document-management-5ba7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
