@@ -119,13 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎃 Haunted Halloween Bash 2025 - A Spooky Interactive Landing Page](https://dev.to/simranshaikh20_50/haunted-halloween-bash-2025-a-spooky-interactive-landing-page-3c9g)
-- [SVAR React Gantt v2.3: Modern Project Timelines for React 19](https://dev.to/olga_tash/svar-react-gantt-v23-modern-project-timelines-for-react-19-e7f)
-- [💥 A Bit of Pain — or Why Architecture Is About Product Survival](https://dev.to/frontart/a-bit-of-pain-or-why-architecture-is-about-product-survival-350h)
-- [Never Use Your Website Hosting Server for Email Marketing](https://dev.to/charlesmudy/never-use-your-website-hosting-server-for-email-marketing-3m27)
-- [&gt; Deploy, Scale, and Own Your Web Apps. No Vendor Lock-In.
-
-Honestly that&#39;s a pretty incredible value proposition!](https://dev.to/ben/-deploy-scale-and-own-your-web-apps-no-vendor-lock-in-honestly-thats-a-pretty-incredible-5eg)
+- [The Importance of Meta Tags on Websites: Why Developers Should Care](https://dev.to/victoriaonu23/the-importance-of-meta-tags-on-websites-why-developers-should-care-2j6a)
+- [Things to do when bored for kids at a party](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-kids-at-a-party-2ceh)
+- [Things to do when bored for students when it is sunny](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-students-when-it-is-sunny-568c)
+- [Things to do when bored for students when it is cold](https://dev.to/trang_khanh_1a4456cf74e34/things-to-do-when-bored-for-students-when-it-is-cold-1a9e)
+- [What the F**k is Git](https://dev.to/jeffrey_payne_19b04db1d78/what-the-fk-is-git-5ch3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
