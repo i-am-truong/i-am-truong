@@ -119,15 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Time Vibe Coding: A Skeptic&#39;s Journey](https://dev.to/herber/my-first-time-vibe-coding-a-skeptics-journey-30gd)
+- [11 Best Android Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-android-development-courses-to-learn-in-2026-c6h)
+- [Java Architecture](https://dev.to/swetha_palani_1547914a082/java-architecture-174d)
+- [React Native Memory Leaks: How to Find and Fix Your App&#39;s Biggest Performance Issue](https://dev.to/rushilbhuptani/react-native-memory-leaks-how-to-find-and-fix-your-apps-biggest-performance-issue-1pak)
 - [How AI and Automation Are Transforming Web App Testing](https://dev.to/misterankit/how-ai-and-automation-are-transforming-web-app-testing-505d)
-- [Building A Keyboard-First Video Player with Svelte &amp; Rust](https://dev.to/lofifounder/building-a-keyboard-first-video-player-with-svelte-rust-dk7)
-- [⚔️ I Built “Dev Battle” — a Real-Time Coding Challenge Platform Using Next.js + Firebase + socket](https://dev.to/parag_bhosale/i-built-dev-battle-a-real-time-coding-challenge-platform-using-nextjs-firebase-socket-56gl)
-- [Entendendo Interfaces em Java: O Modelo Que Garante Ordem no Seu Código](https://dev.to/a_audrey/entendendo-interfaces-em-java-o-modelo-que-garante-ordem-no-seu-codigo-4jdp)
-- [📌 What you&#39;ll learn: 
-- ⚙️ Why micro-frontends created scaling chaos 
-- 🧩 The tradeoffs teams didn’t expect 
-- 🚀 What’s replacing them in 2025 
-- 💡 Real-world lessons from production apps](https://dev.to/tahamjp/what-youll-learn-why-micro-frontends-created-scaling-chaos-the-tradeoffs-teams-41o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
