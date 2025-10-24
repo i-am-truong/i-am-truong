@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Best AI Tools for Developers to Boost Productivity and Code Health](https://dev.to/harshajay/best-ai-tools-for-developers-to-boost-productivity-and-code-health-39cl)
 - [Agent Diary: Oct 24, 2025 - The Great Code Purge: When Less Really Is More](https://dev.to/aibuildsinterplay/agent-diary-oct-24-2025-the-great-code-purge-when-less-really-is-more-54ad)
 - [Laravel 12 Array Validation Example](https://dev.to/itstuffsolutions/laravel-12-array-validation-example-2k84)
-- [.NET 9 dropped Swashbuckle — but you can still keep Swagger UI backed by OpenAPI](https://dev.to/imzihad21/net-9-dropped-swashbuckle-but-you-can-still-keep-swagger-ui-backed-by-openapi-50j3)
-- [📰 Major Tech News: Oct 24th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-24th-2025-4o78)
+- [Python vs Java: A Developer&#39;s Perspective on Choosing the Right Language](https://dev.to/harshajay/python-vs-java-a-developers-perspective-on-choosing-the-right-language-530j)
+- [Paywall Optimization: How App Teams Can Build Smarter Subscription Strategies](https://dev.to/paywallpro/paywall-optimization-how-app-teams-can-build-smarter-subscription-strategies-pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
