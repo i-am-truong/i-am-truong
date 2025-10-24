@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet Claude Desktop - A Lightweight, Distraction-Free Way to Use Claude AI](https://dev.to/prevailexcellent/meet-claude-desktop-a-lightweight-distraction-free-way-to-use-claude-ai-295c)
+- [🎃 Contribute to a Go REST API Boilerplate — Perfect for Hacktoberfest Beginners!](https://dev.to/vahiiiid/contribute-to-a-go-rest-api-boilerplate-perfect-for-hacktoberfest-beginners-30b0)
 - [How Crypto Payment Gateways Work: A Developer’s Deep Dive](https://dev.to/jason_mitchell_ee24ceae69/how-crypto-payment-gateways-work-a-developers-deep-dive-2eo3)
 - [the best way to learn react](https://dev.to/ashedm/the-best-way-to-learn-react-46f1)
 - [HadisKu: Membawa Perpustakaan Hadits ke Era Digital](https://dev.to/cas8398/hadisku-membawa-perpustakaan-hadits-ke-era-digital-2419)
-- [AEO, GEO, and LLMO: The New Frontier of SEO in the Age of AI](https://dev.to/lovestaco/aeo-geo-and-llmo-the-new-frontier-of-seo-in-the-age-of-ai-4bbj)
-- [Micro Office WordPress Theme: A Pragmatic Intranet Build](https://dev.to/yojaira_finkle_c0f32b18b1/micro-office-wordpress-theme-a-pragmatic-intranet-build-nem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
