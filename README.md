@@ -119,8 +119,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-48jd)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-2o09)
+- [Building A Keyboard-First Video Player with Svelte &amp; Rust](https://dev.to/lofifounder/building-a-keyboard-first-video-player-with-svelte-rust-dk7)
+- [⚔️ I Built “Dev Battle” — a Real-Time Coding Challenge Platform Using Next.js + Firebase + socket](https://dev.to/parag_bhosale/i-built-dev-battle-a-real-time-coding-challenge-platform-using-nextjs-firebase-socket-56gl)
 - [Entendendo Interfaces em Java: O Modelo Que Garante Ordem no Seu Código](https://dev.to/a_audrey/entendendo-interfaces-em-java-o-modelo-que-garante-ordem-no-seu-codigo-4jdp)
 - [📌 What you&#39;ll learn: 
 - ⚙️ Why micro-frontends created scaling chaos 
