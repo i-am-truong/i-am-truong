@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Protege tu aplicación web On-Premises con AWS WAF: Guía paso a paso](https://dev.to/cbecerra/protege-tu-aplicacion-web-on-premises-con-aws-waf-guia-paso-a-paso-11pj)
-- [Protect Your On-Premises Web Application with AWS WAF: A Step-by-Step Guide](https://dev.to/cbecerra/protect-your-on-premises-web-application-with-aws-waf-a-step-by-step-guide-50om)
-- [DeepSeek-OCR: The New &#39;Black Tech&#39; in AI, How It&#39;s Changing Our Interaction with AI Models?](https://dev.to/baboon/deepseek-ocr-the-new-black-tech-in-ai-how-its-changing-our-interaction-with-ai-models-15mh)
-- [Check out this text-code blogs](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-text-code-blogs-9nb)
-- [From Static to Stunning: Interactive Charts in R using Plotly](https://dev.to/dipti_m_2e7ba36c478d1a48a/from-static-to-stunning-interactive-charts-in-r-using-plotly-4c2i)
+- [Best AI Tools for Developers to Boost Productivity and Code Health](https://dev.to/harshajay/best-ai-tools-for-developers-to-boost-productivity-and-code-health-39cl)
+- [Agent Diary: Oct 24, 2025 - The Great Code Purge: When Less Really Is More](https://dev.to/aibuildsinterplay/agent-diary-oct-24-2025-the-great-code-purge-when-less-really-is-more-54ad)
+- [Laravel 12 Array Validation Example](https://dev.to/itstuffsolutions/laravel-12-array-validation-example-2k84)
+- [.NET 9 dropped Swashbuckle — but you can still keep Swagger UI backed by OpenAPI](https://dev.to/imzihad21/net-9-dropped-swashbuckle-but-you-can-still-keep-swagger-ui-backed-by-openapi-50j3)
+- [📰 Major Tech News: Oct 24th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-24th-2025-4o78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
