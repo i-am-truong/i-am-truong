@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Converting Excel to TXT and TXT to Excel in Python](https://dev.to/leondavis1991/converting-excel-to-txt-and-txt-to-excel-in-python-5h33)
+- [Can We Really Trust AI? Lies, Poison, and the Need for Responsible AI](https://dev.to/iuliaferoli/can-we-really-trust-ai-lies-poison-and-the-need-for-responsible-ai-4hjg)
+- [🚀 Building Smarter Tools with MCP Server – A Step Toward AI-Driven Automation](https://dev.to/dominatora/building-smarter-tools-with-mcp-server-a-step-toward-ai-driven-automation-3gnb)
+- [Should AI Have Rights? A Philosophical Take](https://dev.to/yashvoids/should-ai-have-rights-a-philosophical-take-3aa0)
 - [Weather Widgets](https://dev.to/madsstoumann/weather-widgets-4751)
-- [Deep Dive: What Actually Runs When You Write &#39;await&#39; in JavaScript?](https://dev.to/adamthedeveloper/deep-dive-what-actually-runs-when-you-write-await-in-javascript-32dg)
-- [AI Has Gone Physical: Can We Still Keep It Safe?](https://dev.to/abdelghani_alhijawi_499197ca/ai-has-gone-physical-can-we-still-keep-it-safe-2djj)
-- [Beginner’s Guide #5: Mutable vs Immutable in JS — The Silent Bug Factory Nobody Warns You About 😳](https://dev.to/sylwia-lask/beginners-guide-5-mutable-vs-immutable-in-js-the-silent-bug-factory-nobody-warns-you-about-2c7)
-- [TIL: define custom flash types in Rails](https://dev.to/epigene/til-define-custom-flash-types-in-rails-2849)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
