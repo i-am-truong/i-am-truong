@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [60 Days of JavaScript: A Complete Journey from Beginner to Intermediate](https://dev.to/wisdomudo/60-days-of-javascript-a-complete-journey-from-beginner-to-intermediate-5fo1)
-- [Player Retention: The Real Game Behind the Game](https://dev.to/guardingpearsoftware/player-retention-the-real-game-behind-the-game-3ea)
-- [Tackling API Reliability at Scale: Lessons for No-Code Founders and Indie SaaS Developers](https://dev.to/dr_curl_3a42bfe4ae95ce023/tackling-api-reliability-at-scale-lessons-for-no-code-founders-and-indie-saas-developers-477p)
-- [Securing Your Ubuntu Server: SSH Two-Factor Authentication with Google Authenticator](https://dev.to/caffinecoder54/securing-your-ubuntu-server-ssh-two-factor-authentication-with-google-authenticator-38oo)
-- [15 Landing Pages Code and Design](https://dev.to/shreyvijayvargiya/15-landing-pages-code-and-design-5ep0)
+- [How Game Dev Assets Supercharged My Workflow — and Why Low-Poly 3D Packs Are a Game Changer](https://dev.to/ahmedamirdev/how-game-dev-assets-supercharged-my-workflow-and-why-low-poly-3d-packs-are-a-game-changer-341o)
+- [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
+- [10 Essential AI Prompts Every SEO Needs to Master](https://dev.to/natepatel/10-essential-ai-prompts-every-seo-needs-to-master-bpn)
+- [Top 10 SaaS Development Companies in 2025](https://dev.to/technource/top-10-saas-development-companies-in-2025-4153)
+- [🚀 Optimizing Meta Data Retrieval with ThingsDB 1.7.6](https://dev.to/joente/optimizing-meta-data-retrieval-with-thingsdb-176-205k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
