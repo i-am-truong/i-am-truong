@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Your First Investment Portfolio](https://dev.to/globridge-tech/getting-started-with-your-first-investment-portfolio-4596)
 - [🎮 Building a Classic Breakout Game in Godot — Step by Step](https://dev.to/sababg/building-a-classic-breakout-game-in-godot-step-by-step-2m5g)
 - [Why Mini Micro](https://dev.to/sebnozzi/why-mini-micro-4a1o)
 - [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--3l3d)
 - [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1p17)
-- [Observation processing network](https://dev.to/rikinptl/observation-processing-network-353l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
