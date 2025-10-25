@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect Salesforce to OpenAI Agent Builder](https://dev.to/composiodev/how-to-connect-salesforce-to-openai-agent-builder-526o)
-- [⚡️ Redux Toolkit vs Quo.js: Why Granular State Beats the Global Reducer Model](https://dev.to/quojs_dev/redux-toolkit-vs-quojs-why-granular-state-beats-the-global-reducer-model-1lk8)
-- [How to Clean and Normalize Shopee Dataset for Accurate Insights](https://dev.to/easydata123/how-to-clean-and-normalize-shopee-dataset-for-accurate-insights-2jp5)
-- [gage.html](https://dev.to/robin_lee_98adb3abed49d38/gagehtml-1onc)
-- [format.html](https://dev.to/robin_lee_98adb3abed49d38/formathtml-2mi9)
+- [Automating Addressing Pull Request Comments with AI](https://dev.to/bwca/automating-addressing-pull-request-comments-with-ai-35mg)
+- [Unlocking SaaS Growth: Hidden Revenue Streams, Cold Outreach &amp; Real Retention &lpar;Part 2&rpar;](https://dev.to/mukul_sharma/unlocking-saas-growth-hidden-revenue-streams-cold-outreach-real-retention-part-2-1l09)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3aho)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-473h)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-ifi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
