@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2mke)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_875c0744/beyond-env-a-grown-ups-guide-to-application-configuration-3j5h)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-11f4)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-3537)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5059)
+- [Business Manager Software for Circular &amp; Green Growth](https://dev.to/sendmega/business-manager-software-for-circular-green-growth-510n)
+- [Check out the guide on - Tableau Sales Dashboard Performance: The Art of Turning Data into Decisions](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-tableau-sales-dashboard-performance-the-art-of-turning-data-into-32on)
+- [Unlocking AI Monetization: Dual Revenue Streams for LLM Developers with Monetzly](https://dev.to/monetzly/unlocking-ai-monetization-dual-revenue-streams-for-llm-developers-with-monetzly-d38)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--58mp)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_ece4a271/security-is-not-a-feature-its-a-foundation-4b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
