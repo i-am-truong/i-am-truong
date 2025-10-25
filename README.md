@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
-- [Haunted Loop: A Pure-CSS Halloween Scene](https://dev.to/p_thabiwa_0ca34c2f83/haunted-loop-a-pure-css-halloween-scene-5bam)
-- [[Boost]](https://dev.to/nefedov-dm/-1fo3)
-- [BINLFOW Quantum-Inspired Cloud ML Framework &lpar;Expanded Edition&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/binlfow-quantum-inspired-cloud-ml-framework-expanded-edition-4lil)
-- [Built an API that translates text to Gen Z slang &lpar;works in any language&rpar;](https://dev.to/dziulatex/built-an-api-that-translates-text-to-gen-z-slang-works-in-any-language-3le8)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4abo)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_3bfe2e68/files-are-not-just-data-a-guide-to-robust-file-handling-5f30)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_083ff294/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-14ld)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_875c0744/your-projects-a-mess-its-not-you-its-your-frameworks-fault-3oeg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
