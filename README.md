@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-47kg)
 - [Understanding Cache Control and Policies in Nginx](https://dev.to/rijultp/understanding-cache-control-and-policies-in-nginx-4bk7)
 - [Bulletproof LLMs](https://dev.to/joaoalissonsilva/bulletproof-llms-36g5)
 - [CSS Blossoming Flowers at Magical Night](https://dev.to/member_calatayud_8d9abeb4/css-blossoming-flowers-at-magical-night-3h58)
-- [How I Monitor My Career Performance](https://dev.to/behnamrhp/how-i-monitor-my-career-performance-1f5f)
-- [Why the Internet Broke: Understanding AWS&#39;s US-East-1 and Building True Resilience](https://dev.to/taiwoadeleke12/why-the-internet-broke-understanding-awss-us-east-1-and-building-true-resilience-2o99)
+- [ACI Protocol isn’t just a submission — it’s a foundation for the next era of the internet.](https://dev.to/p_thabiwa_0ca34c2f83/aci-protocol-isnt-just-a-submission-its-a-foundation-for-the-next-era-of-the-internet-27pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
