@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Διαφορές μεταξύ IEnumerable, IQueryable και List σε Απόδοση και Χρήση](https://dev.to/__b63657/diaphores-metaxu-ienumerable-iqueryable-kai-list-se-apodose-kai-khrese-3m7n)
-- [AI-Hallucinated Code Dependencies: The Emerging Software Supply Chain Risk](https://dev.to/guardingpearsoftware/ai-hallucinated-code-dependencies-the-emerging-software-supply-chain-risk-4a85)
-- [I built MyWebUtils — 80+ free developer tools &amp; mini-games, all in one place](https://dev.to/devendra_singh_f5e85b1362/i-built-mywebutils-80-free-developer-tools-mini-games-all-in-one-place-2lde)
-- [Paginação Simples e Eficiente com Spring Data 🧙‍♂️](https://dev.to/a_audrey/paginacao-simples-e-eficiente-com-spring-data-51h5)
-- [The Modern E-commerce Tech Stack: Building for Scalability](https://dev.to/abdlhamit_kanca_b718fc98/the-modern-e-commerce-tech-stack-building-for-scalability-ecn)
+- [Mastodon Ops Report](https://dev.to/jundata/mastodon-ops-report-3egf)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4p9d)
+- [Boxing και Unboxing](https://dev.to/__b63657/boxing-8cn)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4e93)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3ab1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
