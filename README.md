@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [REST API: A Complete Guide to Modern Web Service Design](https://dev.to/hamd_writer_8c77d9c88c188/rest-api-a-complete-guide-to-modern-web-service-design-43a9)
 - [🔥 JavaScript Interview Series&lpar;10&rpar;: Functional Programming — map, reduce, filter Explained](https://dev.to/jackm_345442a09fb53b/javascript-interview-series10-functional-programming-map-reduce-filter-explained-258)
 - [Nahre Sol: How to Write Beautifully Nostalgic Music](https://dev.to/music_youtube/nahre-sol-how-to-write-beautifully-nostalgic-music-4bda)
 - [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-9d7)
 - [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3hdl)
-- [AI&#39;s Microscopic Eye: Seeing the Unseen in Manufacturing](https://dev.to/arvind_sundararajan/ais-microscopic-eye-seeing-the-unseen-in-manufacturing-51g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
