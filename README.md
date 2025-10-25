@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔐 OTP CLI Utils — A Simple and Powerful CLI tool for TOTP Codes](https://dev.to/dilanka-rathnasiri/otp-cli-utils-a-simple-and-powerful-cli-tool-for-totp-codes-197p)
-- [Task, Thread και async/await στο .NET](https://dev.to/__b63657/task-thread-kai-asyncawait-sto-net-m07)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_083ff294/you-might-not-need-websockets-the-simple-power-of-server-sent-events-e69)
-- [Web Developer Travis McCracken on Using GitHub Actions for Rust CI](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-4ddp)
-- [Java Architecture](https://dev.to/vidya_varshini/java-architecture-550e)
+- [Span και Memory](https://dev.to/__b63657/span-kai-memory-181c)
+- [Unlocking free WiFi on British Airways](https://dev.to/technoblogger14o3/unlocking-free-wifi-on-british-airways-28e)
+- [Securely Deleting Data on Linux: rm, shred, blkdiscard, and hdparm Secure Erase Explained](https://dev.to/lovestaco/securely-deleting-data-on-linux-rm-shred-blkdiscard-and-hdparm-secure-erase-explained-3ofi)
+- [Bad CSS-Dad Jokes &lpar;IV&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-iv-nib)
+- [🏖️ Building My First React Packing List App — Learning Layouts &amp; Rendering Lists](https://dev.to/usama_dev/building-my-first-react-packing-list-app-learning-layouts-rendering-lists-21j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
