@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Own Workflow Engine in C#: Designing Flexible E-Shop Systems](https://dev.to/auyeungdavid_2847435260/your-own-workflow-engine-in-c-designing-flexible-e-shop-systems-2n1c)
-- [Hacktoberfest 2025: A Journey Through Multiple Perspectives](https://dev.to/mcruvinel/hacktoberfest-2025-a-journey-through-multiple-perspectives-51l6)
-- [📰 Major Tech News: Oct 25th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-25th-2025-3pc2)
-- [3 مسیر ورود به اقتصاد خالقان محتوا](https://dev.to/dorify/3-msyr-wrwd-bh-qtsd-khlqn-mhtw-2b0o)
-- [Accelerating Cloud App Development: Render&#39;s Implementation of the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/om_shree_0709/accelerating-cloud-app-development-renders-implementation-of-the-model-context-protocol-mcp-2bdo)
+- [How to Clean and Normalize Shopee Dataset for Accurate Insights](https://dev.to/easydata123/how-to-clean-and-normalize-shopee-dataset-for-accurate-insights-2jp5)
+- [gage.html](https://dev.to/robin_lee_98adb3abed49d38/gagehtml-1onc)
+- [format.html](https://dev.to/robin_lee_98adb3abed49d38/formathtml-2mi9)
+- [Dolphin switches from .directory to extended attributes](https://dev.to/svhl/dolphin-switches-from-directory-to-extended-attributes-jpj)
+- [Daily Artificial Intelligence Digest - Oct 25, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-25-2025-3l0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
