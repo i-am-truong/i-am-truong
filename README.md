@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [1716. Calculate Money in Leetcode Bank](https://dev.to/mdarifulhaque/1716-calculate-money-in-leetcode-bank-33eb)
-- [What is an API? A Beginner&#39;s Guide](https://dev.to/yogeshhiranii/what-is-an-api-a-beginners-guide-1lbk)
-- [Java Record basics](https://dev.to/shelner/java-record-basics-507)
-- [Social Media&lpar;Facebook, Instagram, Linkedin&rpar; Auto-Posting with n8n based on niche!](https://dev.to/sabbschow/social-mediafacebook-instagram-linkedin-auto-posting-with-n8n-based-on-niche-4k71)
-- [🧩 Diseño Modular en QA: el camino hacia equipos escalables, mantenibles y sostenibles](https://dev.to/stevenayal/diseno-modular-en-qa-el-camino-hacia-equipos-escalables-mantenibles-y-sostenibles-3apl)
+- [Διαφορές μεταξύ IEnumerable, IQueryable και List σε Απόδοση και Χρήση](https://dev.to/__b63657/diaphores-metaxu-ienumerable-iqueryable-kai-list-se-apodose-kai-khrese-3m7n)
+- [AI-Hallucinated Code Dependencies: The Emerging Software Supply Chain Risk](https://dev.to/guardingpearsoftware/ai-hallucinated-code-dependencies-the-emerging-software-supply-chain-risk-4a85)
+- [I built MyWebUtils — 80+ free developer tools &amp; mini-games, all in one place](https://dev.to/devendra_singh_f5e85b1362/i-built-mywebutils-80-free-developer-tools-mini-games-all-in-one-place-2lde)
+- [Paginação Simples e Eficiente com Spring Data 🧙‍♂️](https://dev.to/a_audrey/paginacao-simples-e-eficiente-com-spring-data-51h5)
+- [The Modern E-commerce Tech Stack: Building for Scalability](https://dev.to/abdlhamit_kanca_b718fc98/the-modern-e-commerce-tech-stack-building-for-scalability-ecn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
