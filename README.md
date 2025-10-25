@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Animated Vampire Lady](https://dev.to/annavi11arrea1/animated-vampire-lady-48db)
-- [The AI Command Line War: Claude Code vs Gemini CLI vs Codex CLI](https://dev.to/sivasai_nadella_941a8d122/the-ai-command-line-war-claude-code-vs-gemini-cli-vs-codex-cli-4fk5)
-- [Build Your Own Forum with FastAPI: Step 6 - Comments and Replies](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-6-comments-and-replies-5ag0)
-- [BotticelliBundle: Simplified Deployment of Chatbots using Docker](https://dev.to/botticellibots/botticellibundle-simplified-deployment-of-chatbots-using-docker-4i4o)
-- [ASP .NET Core Bootstrap Toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-1k5j)
+- [Mensagem de commit?](https://dev.to/dwildt/mensagem-de-commit-52o8)
+- [CyberTemp.xyz – Fast, Private &amp; Developer-Friendly Temporary Email Service](https://dev.to/narereti/cybertempxyz-fast-private-developer-friendly-temporary-email-service-4lkc)
+- [O S3: Classes de Armazenamento da AWS](https://dev.to/fcd007/o-s3-classes-de-armazenamento-da-aws-1g64)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_3bfe2e68/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-4i1j)
+- [Building a Food Classifier: What I Learned from Overfitting](https://dev.to/mahidhiman12/building-a-food-classifier-what-i-learned-from-overfitting-g9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
