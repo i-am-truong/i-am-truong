@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What makes SkillWint’s training different from other platforms?](https://dev.to/nikolai_6b/what-makes-skillwints-training-different-from-other-platforms-16og)
+- [Let&#39;s find Peace](https://dev.to/lets_findpeace_7f21c25c/lets-find-peace-5fi9)
 - [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-21gp)
 - [The Man Who Thought He Was Smarter Than Time](https://dev.to/nirajkvinit1/the-man-who-thought-he-was-smarter-than-time-38hp)
 - [Sometimes small ideas teach you the biggest lessons.](https://dev.to/satyam_shree_087caef77512/sometimes-small-ideas-teach-you-the-biggest-lessons-356m)
-- [XState `ActorProvider` bug](https://dev.to/tonadev/xstate-actorprovider-bug-aco)
-- [How Machine Learning is Shaping the Future of Web Development](https://dev.to/softwaredeveloper01/how-machine-learning-is-shaping-the-future-of-web-development-386k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
