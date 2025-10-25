@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack](https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm)
-- [My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2)
-- [Unleashing the Power of Collaboration: How to Harness the Right Tools for Developer Teams](https://dev.to/mikeover/unleashing-the-power-of-collaboration-how-to-harness-the-right-tools-for-developer-teams-224f)
-- [an introduction to Dask](https://dev.to/sengseng/an-introduction-to-dask-4kgi)
-- [New in BC 2024 Wave 2: Production Scrap Report for Manufacturing Teams](https://dev.to/jeffreybulanadi/new-in-bc-2024-wave-2-production-scrap-report-for-manufacturing-teams-2h5h)
+- [TIL - How to Fix Flaky macOS Screen Capture on OBS](https://dev.to/bwfiq/til-how-to-fix-flaky-macos-screen-capture-on-obs-46dg)
+- [Build Your Own Forum with FastAPI: Step 5 - Editing Posts](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-5-editing-posts-3jl1)
+- [Day 7: Subqueries and Nested Queries](https://dev.to/hardik_kanajariya/day-7-subqueries-and-nested-queries-goh)
+- [Applying API testing frameworks: real-world code examples](https://dev.to/brant_antonychatachoque/applying-api-testing-frameworks-real-world-code-examples-9g7)
+- [Study: MRI contrast agent causes harmful metal buildup in some patients](https://dev.to/technoblogger14o3/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients-2kc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
