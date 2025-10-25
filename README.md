@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Website Design and Development for FlairGlass](https://dev.to/narrative/website-design-and-development-for-flairglass-13fk)
-- [☕🌙Dark Mode and Coffee: The Real Fuel of Developers](https://dev.to/manish_bansal/dark-mode-and-coffee-the-real-fuel-of-developers-1247)
-- [Auth Series #5: Authorization implementation with Passport.js](https://dev.to/shreelaxmihegde/auth-series-5-authorization-implementation-with-passportjs-362)
-- [My First Portfolio &lpar;Not yet official&rpar;](https://dev.to/mra1k3r0/my-first-portfolio-not-yet-official-4ed9)
-- [Auth Series #4: Understanding Cookies and Sessions.](https://dev.to/shreelaxmihegde/auth-series-4-understanding-cookies-and-sessions-1ajg)
+- [Diwali Special Offer: Light Up Your Career with Flutter App Development!](https://dev.to/ekantiktechnologies/diwali-special-offer-light-up-your-career-with-flutter-app-development-gl1)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_083ff294/your-error-handling-is-a-mess-and-its-costing-you--1moa)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-10ll)
+- [🤖How to make AI follow your instructions more for free &lpar;OpenSpec&rpar;📝](https://dev.to/webdeveloperhyper/how-to-make-ai-follow-your-instructions-more-for-free-openspec-2c85)
+- [AIとGitHub Actionsで“マルチ投稿ブログ”を自動化してみた（第1回）](https://dev.to/beachone1155/aitogithub-actionsdemarutitou-gao-buroguwozi-dong-hua-sitemitadi-1hui--496j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
