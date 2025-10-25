@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤖📊My Machine Learning Series 🧠📈💡](https://dev.to/codeneuron/my-machine-learning-series-5bb9)
-- [Downcast Trait in Rust for Testing](https://dev.to/riadyan/downcast-trait-in-rust-for-testing-jkj)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_3bfe2e68/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5a86)
-- [🧭 My Python Learning Series](https://dev.to/codeneuron/my-python-learning-series-38j)
-- [How You can Earned Your GitHub Certification; Lessons, Resources &amp; the Story Behind Mona the Octocat](https://dev.to/majdizlitni/how-you-can-earned-your-github-certification-lessons-resources-the-story-behind-mona-the-octocat-hhh)
+- [Nobody taught me this lesson about coding. Probably you&#39;re not going to like it](https://dev.to/canro91/nobody-taught-me-this-lesson-about-coding-probably-youre-not-going-to-like-it-19bm)
+- [Why Language Tech Matters: Developing AI Tools for Small Languages](https://dev.to/servin_osmanov/why-language-tech-matters-developing-ai-tools-for-small-languages-583h)
+- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-17c3)
+- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-2i6o)
+- [[Boost]](https://dev.to/joaovjo/-5ad5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
