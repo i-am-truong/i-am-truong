@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Play-to-Own: Is Web3 Gaming Actually the Future, or Just a Gimmick for Developers?](https://dev.to/friesforlife/play-to-own-is-web3-gaming-actually-the-future-or-just-a-gimmick-for-developers-50on)
-- [Business Manager Software for Circular &amp; Green Growth](https://dev.to/sendmega/business-manager-software-for-circular-green-growth-510n)
-- [Check out the guide on - Tableau Sales Dashboard Performance: The Art of Turning Data into Decisions](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-tableau-sales-dashboard-performance-the-art-of-turning-data-into-32on)
-- [Unlocking AI Monetization: Dual Revenue Streams for LLM Developers with Monetzly](https://dev.to/monetzly/unlocking-ai-monetization-dual-revenue-streams-for-llm-developers-with-monetzly-d38)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--58mp)
+- [Haunted Halloween | Frontend Challenge](https://dev.to/deepak_singh_fa1c5e26bd82/haunted-halloween-frontend-challenge-4e92)
+- [ChatGPT Atlas: The Beginning of AI-Powered Browsing](https://dev.to/ibne_sabidsaikat_1443282/chatgpt-atlas-the-beginning-of-ai-powered-browsing-498d)
+- [Understanding the Difference Between “window.addEventListener” and “document.addEventListener”](https://dev.to/natarajan_c_k/understanding-the-difference-between-windowaddeventlistener-and-documentaddeventlistener-3066)
+- [Automated Deployment Bash Script: Deploying a Flask App to AWS](https://dev.to/maven_h/automated-deployment-bash-script-deploying-a-flask-app-to-aws-4lgh)
+- [What Is Azure Data Engineer? A Complete Guide for 2025](https://dev.to/smartnet_8dafe5747e99946b/what-is-azure-data-engineer-a-complete-guide-for-2025-2cc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
