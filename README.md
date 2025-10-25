@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What makes SkillWint’s training different from other platforms?](https://dev.to/nikolai_6b/what-makes-skillwints-training-different-from-other-platforms-16og)
-- [Let&#39;s find Peace](https://dev.to/lets_findpeace_7f21c25c/lets-find-peace-5fi9)
-- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-21gp)
-- [The Man Who Thought He Was Smarter Than Time](https://dev.to/nirajkvinit1/the-man-who-thought-he-was-smarter-than-time-38hp)
-- [Sometimes small ideas teach you the biggest lessons.](https://dev.to/satyam_shree_087caef77512/sometimes-small-ideas-teach-you-the-biggest-lessons-356m)
+- [Auth Series #5: Authorization implementation with Passport.js](https://dev.to/shreelaxmihegde/auth-series-5-authorization-implementation-with-passportjs-362)
+- [My First Portfolio &lpar;Not yet official&rpar;](https://dev.to/mra1k3r0/my-first-portfolio-not-yet-official-4ed9)
+- [Auth Series #4: Understanding Cookies and Sessions.](https://dev.to/shreelaxmihegde/auth-series-4-understanding-cookies-and-sessions-1ajg)
+- [Day 24 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-24-of-100-days-dsa-coding-challenge-555i)
+- [A Beginner&#39;s Guide to Data Analysis with Python: Using Pandas and NumPy](https://dev.to/saint2706/a-beginners-guide-to-data-analysis-with-python-using-pandas-and-numpy-3gne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
