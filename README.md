@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 29 of #30DaysOfCode](https://dev.to/justacoder_0x/day-29-of-30daysofcode-1n39)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_083ff294/your-projects-a-mess-its-not-you-its-your-frameworks-fault-c7c)
 - [🚀 Mastering Data Structures in Java — Part 2: ArrayList](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-2-arraylist-1co5)
 - [How to Deploy and Connect to an Azure VMSS](https://dev.to/jic/how-to-deploy-and-connect-to-an-azure-vmss-5271)
 - [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_25c2e834/files-are-not-just-data-a-guide-to-robust-file-handling-2p20)
-- [Boundary Value Analysis&lpar;BVA&rpar;](https://dev.to/rajya_shree_0c5bc00f701b1/boundary-value-analysisbva-2f6o)
-- [AI is killing syntax — and that’s a good thing](https://dev.to/alisa_plays_1455c6e6766d0/ai-is-killing-syntax-and-thats-a-good-thing-l0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
