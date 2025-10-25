@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-4-41le)
+- [Daily DSA and System Design Journal - 11](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-11-51m0)
 - [StateFlow vs. SharedFlow: Thinking in &quot;State&quot; vs. &quot;Event&quot;](https://dev.to/kavearhasi_viswanathan/stateflow-vs-sharedflow-thinking-in-state-vs-event-2jdb)
 - [🔥 JavaScript Interview Series&lpar;9&rpar;: Working with Arrays and Objects Like a Pro](https://dev.to/jackm_345442a09fb53b/javascript-interview-series9-working-with-arrays-and-objects-like-a-pro-5c5i)
 - [C# Record Type](https://dev.to/gulsenkeskin/c-record-type-bne)
-- [Built a username checker which lets you check availability of a username across popular sites.](https://dev.to/kaifcodec/built-a-username-checker-which-lets-you-check-availability-of-a-username-across-popular-sites-43f)
-- [Bridging Cloud and On-Prem: Running On-Prem Jobs from Apache Airflow in AWS using ssh-rsa key pair.](https://dev.to/vedant_vyas_1510/bridging-cloud-and-on-prem-running-on-prem-jobsfrom-apache-airflow-in-aws-using-ssh-rsa-key-pair-3h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
