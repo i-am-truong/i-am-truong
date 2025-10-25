@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cartographer&#39;s Compass: Navigating the PostgreSQL Query Planner](https://dev.to/alex_aslam/the-cartographers-compass-navigating-the-postgresql-query-planner-311)
-- [From Forecast to Flow: How the Enhanced Planning Worksheet Bridges Demand and Supply in Business Central](https://dev.to/insight_works/from-forecast-to-flow-how-the-enhanced-planning-worksheet-bridges-demand-and-supply-in-business-c15)
-- [Mine Artisan&#39;s Workshop: Evolving Service Objects into Policies, Forms, and Queries](https://dev.to/alex_aslam/mine-artisans-workshop-evolving-service-objects-into-policies-forms-and-queries-106g)
-- [Is this a good way to represent systems architecture or am i missing anything?](https://dev.to/tech_withthiru_6384c189c/is-this-a-good-way-to-represent-systems-architecture-or-am-i-missing-anything-45jb)
-- [How I Deployed a StartBootstrap Site to AWS EC2](https://dev.to/cyberhack08/how-i-deployed-a-startbootstrap-site-to-aws-ec2-4d8a)
+- [Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack](https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm)
+- [My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2)
+- [Unleashing the Power of Collaboration: How to Harness the Right Tools for Developer Teams](https://dev.to/mikeover/unleashing-the-power-of-collaboration-how-to-harness-the-right-tools-for-developer-teams-224f)
+- [an introduction to Dask](https://dev.to/sengseng/an-introduction-to-dask-4kgi)
+- [New in BC 2024 Wave 2: Production Scrap Report for Manufacturing Teams](https://dev.to/jeffreybulanadi/new-in-bc-2024-wave-2-production-scrap-report-for-manufacturing-teams-2h5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
