@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generative Pages: The Right Hype, for the Wrong Reason](https://dev.to/_neronotte/generative-pages-the-right-hype-for-the-wrong-reason-3ho)
-- [Nobody taught me this lesson about coding. Probably you&#39;re not going to like it](https://dev.to/canro91/nobody-taught-me-this-lesson-about-coding-probably-youre-not-going-to-like-it-19bm)
-- [Why Language Tech Matters: Developing AI Tools for Small Languages](https://dev.to/servin_osmanov/why-language-tech-matters-developing-ai-tools-for-small-languages-583h)
-- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-17c3)
-- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-2i6o)
+- [Why Using Emojis in Logs and Status Messages Is a Good Idea](https://dev.to/fedtti/why-using-emojis-in-logs-and-status-messages-is-a-good-idea-1bac)
+- [Let&#39;s rethink Work: Building an Application That Replaces Salaries With Stock Market Intelligence.](https://dev.to/rethabilebridgetvelelo/lets-rethink-work-building-an-application-that-replaces-salaries-with-stock-market-intelligence-49kc)
+- [Will AI Agents Rule 2026? 8 Must-Know Trends, Use Cases &amp; SEO Strategies](https://dev.to/giyeon_kim_f31b30e77be04d/will-ai-agents-rule-2026-8-must-know-trends-use-cases-seo-strategies-poe)
+- [I’ve Just Launched a DNS Server in 🦀 Rust!](https://dev.to/eduardobaginskicosta/ive-just-launched-a-dns-server-in-rust-1989)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-iko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
