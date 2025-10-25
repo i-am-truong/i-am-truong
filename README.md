@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hey Laravel users — are you using Plural / Singular!?](https://dev.to/yone3/hey-laravel-users-are-you-using-plural-singular-78b)
+- [How Excel Transforms Real-World Data Analysis](https://dev.to/codewiithmaytor/how-excel-transforms-real-world-data-analysis-3mgd)
+- [🖥️ My Remote Desktop Journey: From TeamViewer to HopToDesk](https://dev.to/codefalconx/my-remote-desktop-journey-from-teamviewer-to-hoptodesk-3ndf)
 - [VSCode: Gain space by customizing the line number column](https://dev.to/vuong/vscode-tips-gain-spaces-by-customize-the-line-numbers-column-1o9g)
 - [Crypto Trading Bots and Node Infrastructure: Ensuring Low Latency](https://dev.to/instanodesio/crypto-trading-bots-and-node-infrastructure-ensuring-low-latency-m1o)
-- [How Mixfood Works with Customer Reviews](https://dev.to/mixfood/how-mixfood-works-with-customer-reviews-2p1g)
-- [How Your LLM Costs 5X More If You Don&#39;t Speak English](https://dev.to/programmerraja/why-your-llm-costs-5x-more-if-you-dont-speak-english-2d0e)
-- [[Boost]](https://dev.to/unsungnovelty/-18ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
