@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Container Networking Demystified: A Deep Dive into Linux Network Namespaces](https://dev.to/ajinkya_singh_2c02bd40423/container-networking-demystified-a-deep-dive-into-linux-network-namespaces-3gll)
+- [💬 Talkdo — Talk to Your Tasks, Right from Your Terminal](https://dev.to/vision2030/talkdo-talk-to-your-tasks-right-from-your-terminal-1cip)
 - [Breaking the Monolith: How We Split a Node.js Backend into Go Microservices on AWS ECS-Without Stopping the World](https://dev.to/voskan89/breaking-the-monolith-how-we-split-a-nodejs-backend-into-go-microservices-on-aws-ecs-without-1okg)
 - [🌊 Week 3 — Pure Cascade now measures your CSS quality](https://dev.to/__23aca6dca/week-3-pure-cascade-now-measures-your-css-quality-2o7o)
 - [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_ece4a271/security-is-not-a-feature-its-a-foundation-3429)
-- [Understanding Database Relationships in Flask-SQLAlchemy: `db.relationship` and `association_proxy`](https://dev.to/areyekayo/understanding-database-relationships-in-flask-sqlalchemy-dbrelationship-and-associationproxy-2pjh)
-- [🫖 Thinking in patterns not features](https://dev.to/nevnet99/thinking-in-patterns-not-features-2fo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
