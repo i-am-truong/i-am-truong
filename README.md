@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Diwali Special Offer: Light Up Your Career with Flutter App Development!](https://dev.to/ekantiktechnologies/diwali-special-offer-light-up-your-career-with-flutter-app-development-gl1)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_083ff294/your-error-handling-is-a-mess-and-its-costing-you--1moa)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-10ll)
-- [🤖How to make AI follow your instructions more for free &lpar;OpenSpec&rpar;📝](https://dev.to/webdeveloperhyper/how-to-make-ai-follow-your-instructions-more-for-free-openspec-2c85)
-- [AIとGitHub Actionsで“マルチ投稿ブログ”を自動化してみた（第1回）](https://dev.to/beachone1155/aitogithub-actionsdemarutitou-gao-buroguwozi-dong-hua-sitemitadi-1hui--496j)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2mke)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_875c0744/beyond-env-a-grown-ups-guide-to-application-configuration-3j5h)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-11f4)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-3537)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5059)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
