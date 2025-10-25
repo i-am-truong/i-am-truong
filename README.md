@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Protege los orígenes de Amazon CloudFront con funcionalidades de seguridad integradas: Mejores prácticas de AWS](https://dev.to/cbecerra/protege-los-origenes-de-amazon-cloudfront-con-funcionalidades-de-seguridad-integradas-mejores-57ll)
+- [Protect Amazon CloudFront Origins with Built-in Security Features: AWS Best Practices](https://dev.to/cbecerra/protect-amazon-cloudfront-origins-with-built-in-security-features-aws-best-practices-4pln)
+- [Qubes OS A Journey to a “Reasonably Secure Operating System”](https://dev.to/sebos/qubes-os-a-journey-to-a-reasonably-secure-operating-system-4j25)
+- [How Exelare’s Applicant Tracking Software Helps You Hire Faster](https://dev.to/sharon_jack_10f3b7a64ab58/how-exelares-applicant-tracking-software-helps-you-hire-faster-3khm)
 - [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-47kg)
-- [Understanding Cache Control and Policies in Nginx](https://dev.to/rijultp/understanding-cache-control-and-policies-in-nginx-4bk7)
-- [Bulletproof LLMs](https://dev.to/joaoalissonsilva/bulletproof-llms-36g5)
-- [CSS Blossoming Flowers at Magical Night](https://dev.to/member_calatayud_8d9abeb4/css-blossoming-flowers-at-magical-night-3h58)
-- [ACI Protocol isn’t just a submission — it’s a foundation for the next era of the internet.](https://dev.to/p_thabiwa_0ca34c2f83/aci-protocol-isnt-just-a-submission-its-a-foundation-for-the-next-era-of-the-internet-27pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
