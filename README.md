@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Robot Localization: The Key to Indoor Navigation](https://dev.to/robotisim_76f72fc9b6cb/understanding-robot-localization-the-key-to-indoor-navigation-2fh8)
-- [Day 29 of #30DaysOfCode](https://dev.to/justacoder_0x/day-29-of-30daysofcode-1n39)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_083ff294/your-projects-a-mess-its-not-you-its-your-frameworks-fault-c7c)
-- [🚀 Mastering Data Structures in Java — Part 2: ArrayList](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-2-arraylist-1co5)
-- [How to Deploy and Connect to an Azure VMSS](https://dev.to/jic/how-to-deploy-and-connect-to-an-azure-vmss-5271)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2ooc)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak)
+- [ApexQuest: Architecting Trust - Where Every AI Agent is Authenticated by Auth0](https://dev.to/divyasinghdev/apexquest-architecting-trust-where-every-ai-agent-is-authenticated-by-auth0-23l9)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-54h3)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-245l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
