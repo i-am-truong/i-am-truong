@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building the Future: How to Deploy AI Agent Teams That Scale to Millions Using AWS Lambda and Crew AI](https://dev.to/suraj_khaitan_f893c243958/building-the-future-how-to-deploy-ai-agent-teams-that-scale-to-millions-using-aws-lambda-and-crew-5d79)
+- [🎨 Data Visualization with Seaborn – A Beginner’s Guide](https://dev.to/codeneuron/data-visualization-with-seaborn-a-beginners-guide-32p1)
 - [How a Game Designer and a Programmer сan build what can’t be done alone?](https://dev.to/nickkeepkind/how-a-game-designer-and-a-programmer-san-build-what-cant-be-done-alone-34jd)
 - [Master TypeScript: A Complete Tutorial for Developers | Tpoint Tech](https://dev.to/tpointtechblog/master-typescript-a-complete-tutorial-for-developers-tpoint-tech-4j90)
 - [Making Claude 4.5&#39;s Reflection Magic Your Side Business Goldmine](https://dev.to/raushan_singh_4ef90ca681a/making-claude-45s-reflection-magic-your-side-business-goldmine-547k)
-- [How Game Dev Assets Supercharged My Workflow — and Why Low-Poly 3D Packs Are a Game Changer](https://dev.to/ahmedamirdev/how-game-dev-assets-supercharged-my-workflow-and-why-low-poly-3d-packs-are-a-game-changer-341o)
-- [Your Tech Blog is Leaking Leads: 7 High-Signal B2B Content Formats That Actually Convert](https://dev.to/michaelaiglobal/your-tech-blog-is-leaking-leads-7-high-signal-b2b-content-formats-that-actually-convert-1nfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
