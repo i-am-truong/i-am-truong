@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Cache Control and Policies in Nginx](https://dev.to/rijultp/understanding-cache-control-and-policies-in-nginx-4bk7)
+- [Bulletproof LLMs](https://dev.to/joaoalissonsilva/bulletproof-llms-36g5)
+- [CSS Blossoming Flowers at Magical Night](https://dev.to/member_calatayud_8d9abeb4/css-blossoming-flowers-at-magical-night-3h58)
+- [How I Monitor My Career Performance](https://dev.to/behnamrhp/how-i-monitor-my-career-performance-1f5f)
 - [Why the Internet Broke: Understanding AWS&#39;s US-East-1 and Building True Resilience](https://dev.to/taiwoadeleke12/why-the-internet-broke-understanding-awss-us-east-1-and-building-true-resilience-2o99)
-- [[Boost]](https://dev.to/leee_rodgers1/-eim)
-- [Wait, Why Are Devs Still Invisible Online?](https://dev.to/brilliantmakanju/wait-why-are-devs-still-invisible-online-37p9)
-- [IELTS 7.5 until step-by-step](https://dev.to/elshoddev/ielts-75-until-step-by-step-1ld)
-- [📢 HMPL v3.1: New major update!](https://dev.to/hmpljs/hmpl-v31-new-major-update-124p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
