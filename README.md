@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Robot Localization: The Key to Indoor Navigation](https://dev.to/robotisim_76f72fc9b6cb/understanding-robot-localization-the-key-to-indoor-navigation-2fh8)
 - [Day 29 of #30DaysOfCode](https://dev.to/justacoder_0x/day-29-of-30daysofcode-1n39)
 - [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_083ff294/your-projects-a-mess-its-not-you-its-your-frameworks-fault-c7c)
 - [🚀 Mastering Data Structures in Java — Part 2: ArrayList](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-2-arraylist-1co5)
 - [How to Deploy and Connect to an Azure VMSS](https://dev.to/jic/how-to-deploy-and-connect-to-an-azure-vmss-5271)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_25c2e834/files-are-not-just-data-a-guide-to-robust-file-handling-2p20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
