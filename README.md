@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Cryptocurrency Data Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/real-time-cryptocurrency-data-pipeline-29bp)
-- [M2M API Integration Guide](https://dev.to/prema_ananda/m2m-api-integration-guide-4k3h)
-- [🚀 AgentBounty User Guide](https://dev.to/prema_ananda/agentbounty-user-guide-454o)
-- [Building Cost Monitoring with AWS Strands Hooks: A Complete Guide](https://dev.to/sreeni5018/building-cost-monitoring-with-aws-strands-hooks-a-complete-guide-2il1)
-- [Building a Pay-Per-Use AI Agent Marketplace with Auth0 + Web3](https://dev.to/prema_ananda/building-a-pay-per-use-ai-agent-marketplace-with-auth0-web3-5al0)
+- [60 Days of JavaScript: A Complete Journey from Beginner to Intermediate](https://dev.to/wisdomudo/60-days-of-javascript-a-complete-journey-from-beginner-to-intermediate-5fo1)
+- [Player Retention: The Real Game Behind the Game](https://dev.to/guardingpearsoftware/player-retention-the-real-game-behind-the-game-3ea)
+- [Tackling API Reliability at Scale: Lessons for No-Code Founders and Indie SaaS Developers](https://dev.to/dr_curl_3a42bfe4ae95ce023/tackling-api-reliability-at-scale-lessons-for-no-code-founders-and-indie-saas-developers-477p)
+- [Securing Your Ubuntu Server: SSH Two-Factor Authentication with Google Authenticator](https://dev.to/caffinecoder54/securing-your-ubuntu-server-ssh-two-factor-authentication-with-google-authenticator-38oo)
+- [15 Landing Pages Code and Design](https://dev.to/shreyvijayvargiya/15-landing-pages-code-and-design-5ep0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
