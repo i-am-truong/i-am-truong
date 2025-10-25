@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Play-to-Own: Is Web3 Gaming Actually the Future, or Just a Gimmick for Developers?](https://dev.to/friesforlife/play-to-own-is-web3-gaming-actually-the-future-or-just-a-gimmick-for-developers-50on)
 - [Business Manager Software for Circular &amp; Green Growth](https://dev.to/sendmega/business-manager-software-for-circular-green-growth-510n)
 - [Check out the guide on - Tableau Sales Dashboard Performance: The Art of Turning Data into Decisions](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-tableau-sales-dashboard-performance-the-art-of-turning-data-into-32on)
 - [Unlocking AI Monetization: Dual Revenue Streams for LLM Developers with Monetzly](https://dev.to/monetzly/unlocking-ai-monetization-dual-revenue-streams-for-llm-developers-with-monetzly-d38)
 - [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--58mp)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_ece4a271/security-is-not-a-feature-its-a-foundation-4b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
