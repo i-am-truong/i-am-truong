@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TCS34725 RGB Color Sensor: Precision Color Detection for IoT &amp; Embedded Systems](https://dev.to/graham_ad39d948da72c53e4a/tcs34725-rgb-color-sensor-precision-color-detection-for-iot-embedded-systems-42p2)
 - [How We Handle Concurrency Control in Financial Systems](https://dev.to/harry_do/how-we-handle-concurrency-control-in-financial-systems-3cd9)
 - [WTF is Low-Code Development?](https://dev.to/dailybugle33/wtf-is-low-code-development-2ho3)
 - [Understanding xsl:message in XSLT](https://dev.to/imdj/understanding-xslmessage-in-xslt-2nk4)
 - [How to Make Money with AI as a Teenager in India 2025: 5 Practical Methods That Work](https://dev.to/avyaay_rathi_6520c44aeb79/how-to-make-money-with-ai-as-a-teenager-in-india-2025-5-practical-methods-that-work-4e5h)
-- [Real-time Auction Architecture on AWS: Redis + Socket.IO blueprint with costs and benchmarks](https://dev.to/services_hls_c165b1106947/real-time-auction-architecture-on-aws-redis-socketio-blueprint-with-costs-and-benchmarks-4nmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
