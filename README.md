@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TIL - How to Fix Flaky macOS Screen Capture on OBS](https://dev.to/bwfiq/til-how-to-fix-flaky-macos-screen-capture-on-obs-46dg)
-- [Build Your Own Forum with FastAPI: Step 5 - Editing Posts](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-5-editing-posts-3jl1)
-- [Day 7: Subqueries and Nested Queries](https://dev.to/hardik_kanajariya/day-7-subqueries-and-nested-queries-goh)
-- [Applying API testing frameworks: real-world code examples](https://dev.to/brant_antonychatachoque/applying-api-testing-frameworks-real-world-code-examples-9g7)
-- [Study: MRI contrast agent causes harmful metal buildup in some patients](https://dev.to/technoblogger14o3/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients-2kc7)
+- [Your Own Workflow Engine in C#: Designing Flexible E-Shop Systems](https://dev.to/auyeungdavid_2847435260/your-own-workflow-engine-in-c-designing-flexible-e-shop-systems-2n1c)
+- [Hacktoberfest 2025: A Journey Through Multiple Perspectives](https://dev.to/mcruvinel/hacktoberfest-2025-a-journey-through-multiple-perspectives-51l6)
+- [📰 Major Tech News: Oct 25th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-25th-2025-3pc2)
+- [3 مسیر ورود به اقتصاد خالقان محتوا](https://dev.to/dorify/3-msyr-wrwd-bh-qtsd-khlqn-mhtw-2b0o)
+- [Accelerating Cloud App Development: Render&#39;s Implementation of the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/om_shree_0709/accelerating-cloud-app-development-renders-implementation-of-the-model-context-protocol-mcp-2bdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
