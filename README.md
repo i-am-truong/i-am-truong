@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mensagem de commit?](https://dev.to/dwildt/mensagem-de-commit-52o8)
-- [CyberTemp.xyz – Fast, Private &amp; Developer-Friendly Temporary Email Service](https://dev.to/narereti/cybertempxyz-fast-private-developer-friendly-temporary-email-service-4lkc)
-- [O S3: Classes de Armazenamento da AWS](https://dev.to/fcd007/o-s3-classes-de-armazenamento-da-aws-1g64)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_3bfe2e68/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-4i1j)
-- [Building a Food Classifier: What I Learned from Overfitting](https://dev.to/mahidhiman12/building-a-food-classifier-what-i-learned-from-overfitting-g9h)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--4ep0)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-3ana)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_875c0744/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-3n2g)
+- [Trying to start using graphql and psql using pytthon to start a website](https://dev.to/vatsalya_rabari_2ad492f38/trying-to-start-using-graphql-and-psql-using-pytthon-to-start-a-website-32in)
+- [How I Performance Optimised My Next.js App](https://dev.to/rumendimov/how-i-performance-optimised-my-nextjs-app-3d56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
