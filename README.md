@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Data Structures Decoded: A No-BS Guide for Modern Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/java-data-structures-decoded-a-no-bs-guide-for-modern-developers-1b9b)
-- [Master Java BufferedWriter: A No-Fluff Guide to Efficient File Handling](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-bufferedwriter-a-no-fluff-guide-to-efficient-file-handling-2m76)
-- [Templating with Go&#39;s html/template and text/template](https://dev.to/godofgeeks/templating-with-gos-htmltemplate-and-texttemplate-1bm5)
-- [Lesson 3  - Integrating MySQL &lpar;First Database&rpar;](https://dev.to/farrukh_rehman/lesson-3-integrating-mysql-first-database-b9m)
-- [Master Java BufferedReader: A No-BS Guide to Faster, Smarter File Reading](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-bufferedreader-a-no-bs-guide-to-faster-smarter-file-reading-2860)
+- [How Mixfood Works with Customer Reviews](https://dev.to/mixfood/how-mixfood-works-with-customer-reviews-2p1g)
+- [How Your LLM Costs 5X More If You Don&#39;t Speak English](https://dev.to/programmerraja/why-your-llm-costs-5x-more-if-you-dont-speak-english-2d0e)
+- [[Boost]](https://dev.to/unsungnovelty/-18ce)
+- [JWT Implementation with Spring Security: A Beginner&#39;s Guide](https://dev.to/amrut_p_51ca0dd7c54b9/jwt-implementation-with-spring-security-a-beginners-guide-30an)
+- [Why 2025 Belongs to Smart Teams Nailing COTS Product Implementation](https://dev.to/techind/why-2025-belongs-to-smart-teams-nailing-cots-product-implementation-4gpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
