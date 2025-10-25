@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [1716. Calculate Money in Leetcode Bank](https://dev.to/mdarifulhaque/1716-calculate-money-in-leetcode-bank-33eb)
+- [What is an API? A Beginner&#39;s Guide](https://dev.to/yogeshhiranii/what-is-an-api-a-beginners-guide-1lbk)
+- [Java Record basics](https://dev.to/shelner/java-record-basics-507)
 - [Social Media&lpar;Facebook, Instagram, Linkedin&rpar; Auto-Posting with n8n based on niche!](https://dev.to/sabbschow/social-mediafacebook-instagram-linkedin-auto-posting-with-n8n-based-on-niche-4k71)
 - [🧩 Diseño Modular en QA: el camino hacia equipos escalables, mantenibles y sostenibles](https://dev.to/stevenayal/diseno-modular-en-qa-el-camino-hacia-equipos-escalables-mantenibles-y-sostenibles-3apl)
-- [De &quot;Faça uma Casa&quot; a um Blueprint Perfeito: 5 Maneiras de Extrair Requisitos Claros de Stakeholders Indecisos](https://dev.to/dev-sigo/de-faca-uma-casa-a-um-blueprint-perfeito-5-maneiras-de-extrair-requisitos-claros-de-stakeholders-1c2b)
-- [Perl Weekly Challenge: 344](https://dev.to/vinodk89/perl-weekly-challenge-344-1god)
-- [Span και Memory](https://dev.to/__b63657/span-kai-memory-181c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
