@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Social Media&lpar;Facebook, Instagram, Linkedin&rpar; Auto-Posting with n8n based on niche!](https://dev.to/sabbschow/social-mediafacebook-instagram-linkedin-auto-posting-with-n8n-based-on-niche-4k71)
+- [🧩 Diseño Modular en QA: el camino hacia equipos escalables, mantenibles y sostenibles](https://dev.to/stevenayal/diseno-modular-en-qa-el-camino-hacia-equipos-escalables-mantenibles-y-sostenibles-3apl)
+- [De &quot;Faça uma Casa&quot; a um Blueprint Perfeito: 5 Maneiras de Extrair Requisitos Claros de Stakeholders Indecisos](https://dev.to/dev-sigo/de-faca-uma-casa-a-um-blueprint-perfeito-5-maneiras-de-extrair-requisitos-claros-de-stakeholders-1c2b)
+- [Perl Weekly Challenge: 344](https://dev.to/vinodk89/perl-weekly-challenge-344-1god)
 - [Span και Memory](https://dev.to/__b63657/span-kai-memory-181c)
-- [Unlocking free WiFi on British Airways](https://dev.to/technoblogger14o3/unlocking-free-wifi-on-british-airways-28e)
-- [Securely Deleting Data on Linux: rm, shred, blkdiscard, and hdparm Secure Erase Explained](https://dev.to/lovestaco/securely-deleting-data-on-linux-rm-shred-blkdiscard-and-hdparm-secure-erase-explained-3ofi)
-- [Bad CSS-Dad Jokes &lpar;IV&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-iv-nib)
-- [🏖️ Building My First React Packing List App — Learning Layouts &amp; Rendering Lists](https://dev.to/usama_dev/building-my-first-react-packing-list-app-learning-layouts-rendering-lists-21j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
