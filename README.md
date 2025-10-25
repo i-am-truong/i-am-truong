@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Python Class Variables Aren’t Behaving the Way You Think | Lumir S Vinod](https://dev.to/lumirysm/why-your-python-class-variables-arent-behaving-the-way-you-think-lumir-s-vinod-224k)
-- [🧩 Debugging XSLT Made Easy in VS Code](https://dev.to/imdj/debugging-xslt-made-easy-in-vs-code-56fi)
-- [Pure CSS Focus Follower](https://dev.to/prahalad/pure-css-focus-follower-639)
-- [Complete Guide to AWS X-Ray Tracing](https://dev.to/devin-rosario/complete-guide-to-aws-x-ray-tracing-16ic)
-- [Detailed Guide: Virtualenv vs Conda](https://dev.to/devin-rosario/detailed-guide-virtualenv-vs-conda-5gln)
+- [🎮 Building a Classic Breakout Game in Godot — Step by Step](https://dev.to/sababg/building-a-classic-breakout-game-in-godot-step-by-step-2m5g)
+- [Why Mini Micro](https://dev.to/sebnozzi/why-mini-micro-4a1o)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--3l3d)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1p17)
+- [Observation processing network](https://dev.to/rikinptl/observation-processing-network-353l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
