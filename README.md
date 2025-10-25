@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Self-Healing Blue/Green Deployment with Nginx &amp; Docker](https://dev.to/destinyobs/building-a-self-healing-bluegreen-deployment-with-nginx-docker-3k12)
-- [MedHack](https://dev.to/agastya_khati_f72c89077c8/medhack-4pdl)
-- [Pandas Series – Part 3: The Power of groupby&lpar;&rpar;](https://dev.to/satyam_gupta/pandas-series-part-3-the-power-of-groupby-4m83)
-- [Data Manipulation With Pandas And Numpy](https://dev.to/codeneuron/data-manipulation-with-pandas-and-numpy-2p76)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_25c2e834/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-34g0)
+- [How We Handle Concurrency Control in Financial Systems](https://dev.to/harry_do/how-we-handle-concurrency-control-in-financial-systems-3cd9)
+- [WTF is Low-Code Development?](https://dev.to/dailybugle33/wtf-is-low-code-development-2ho3)
+- [Understanding xsl:message in XSLT](https://dev.to/imdj/understanding-xslmessage-in-xslt-2nk4)
+- [How to Make Money with AI as a Teenager in India 2025: 5 Practical Methods That Work](https://dev.to/avyaay_rathi_6520c44aeb79/how-to-make-money-with-ai-as-a-teenager-in-india-2025-5-practical-methods-that-work-4e5h)
+- [Real-time Auction Architecture on AWS: Redis + Socket.IO blueprint with costs and benchmarks](https://dev.to/services_hls_c165b1106947/real-time-auction-architecture-on-aws-redis-socketio-blueprint-with-costs-and-benchmarks-4nmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
