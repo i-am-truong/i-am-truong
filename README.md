@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Networks of Thought: Finding Your Research Niche in the Age of LLMs](https://dev.to/queelius/networks-of-thought-finding-your-research-niche-in-the-age-of-llms-47m9)
+- [Introducing AgentHelm: Production-Ready Orchestration for AI Agents](https://dev.to/hadywalied/introducing-agenthelm-production-ready-orchestration-for-ai-agents-2gb1)
+- [Building a Cybersecurity Lab: Project Overview 🗺️](https://dev.to/ethan_ac5ca38abc559d950c9/building-a-cybersecurity-lab-project-overview-58gp)
+- [BINLFOW is a time-labeled binary framework for AI, EVs, and neurotech, projecting $215B impact.](https://dev.to/p_thabiwa_0ca34c2f83/binlfow-is-a-time-labeled-binary-framework-for-ai-evs-and-neurotech-projecting-215b-impact-1982)
 - [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4abo)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_3bfe2e68/files-are-not-just-data-a-guide-to-robust-file-handling-5f30)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_083ff294/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-14ld)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_875c0744/your-projects-a-mess-its-not-you-its-your-frameworks-fault-3oeg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
