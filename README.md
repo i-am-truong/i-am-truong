@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New in Vue - October 2025](https://dev.to/aloisseckar/new-in-vue-october-2025-6i7)
+- [Learning to Code like Crafting in an MMORPG](https://dev.to/skriptmonkey/learning-to-code-like-crafting-in-an-mmorpg-1ckl)
+- [Angular 20: Real-World Auth &amp; Data Patterns with `rxResource`, Tailwind v4 &amp; daisyUI 5](https://dev.to/cristiansifuentes/angular-20-real-world-auth-data-patterns-with-rxresource-tailwind-v4-daisyui-5-4dm2)
 - [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-gde)
 - [A refactoração é uma tarefa complexa](https://dev.to/ortizdavid/a-refactoracao-e-uma-tarefa-complexa-2igi)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-5c2f)
-- [Echo Intelligence: Mapping Sound with Acoustic Reciprocity](https://dev.to/arvind_sundararajan/echo-intelligence-mapping-sound-with-acoustic-reciprocity-1ecp)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-58j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
