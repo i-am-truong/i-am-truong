@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [XState `ActorProvider` bug](https://dev.to/tonadev/xstate-actorprovider-bug-aco)
+- [How Machine Learning is Shaping the Future of Web Development](https://dev.to/softwaredeveloper01/how-machine-learning-is-shaping-the-future-of-web-development-386k)
 - [Building a Chat App: From Monolith Mindset to Microservices &amp; Consistency](https://dev.to/joepaulvilsan_7/building-a-chat-app-from-monolith-mindset-to-microservices-consistency-39j4)
 - [Automating Addressing Pull Request Comments with AI](https://dev.to/bwca/automating-addressing-pull-request-comments-with-ai-35mg)
 - [Unlocking SaaS Growth: Hidden Revenue Streams, Cold Outreach &amp; Real Retention &lpar;Part 2&rpar;](https://dev.to/mukul_sharma/unlocking-saas-growth-hidden-revenue-streams-cold-outreach-real-retention-part-2-1l09)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3aho)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-473h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
