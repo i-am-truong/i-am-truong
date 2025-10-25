@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ASP .NET Core Bootstrap Toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-1k5j)
+- [Fun, simple, NOT scalable background worker based on Django Cache](https://dev.to/climentea/fun-simple-not-scalable-background-worker-based-on-django-cache-7f5)
 - [Modern JavaScript Concurrency - 2025 Edition](https://dev.to/gkoos/modern-javascript-concurrency-2025-edition-h84)
 - [New in Vue - October 2025](https://dev.to/aloisseckar/new-in-vue-october-2025-6i7)
 - [Learning to Code like Crafting in an MMORPG](https://dev.to/skriptmonkey/learning-to-code-like-crafting-in-an-mmorpg-1ckl)
-- [Angular 20: Real-World Auth &amp; Data Patterns with `rxResource`, Tailwind v4 &amp; daisyUI 5](https://dev.to/cristiansifuentes/angular-20-real-world-auth-data-patterns-with-rxresource-tailwind-v4-daisyui-5-4dm2)
-- [LLMs Learn from &quot;Pseudoscientific Papers&quot; Too - Quality Control for AI Developers](https://dev.to/_768dd7ab130016ab8b0a/llms-learn-from-pseudoscientific-papers-too-quality-control-for-ai-developers-1nh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
