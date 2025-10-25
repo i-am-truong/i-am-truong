@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Case Study: Gravity Forms Google Sheets Automation](https://dev.to/itsmstfbysl/case-study-gravity-forms-google-sheets-automation-4l1o)
-- [🌊 Week 2 — Pure Cascade now actually analyzes your CSS](https://dev.to/__23aca6dca/week-2-pure-cascade-now-actually-analyzes-your-css-2n10)
-- [Provisioning Cloud Resources with Crossplane on Kubernetes🚀](https://dev.to/navyaarora01/provisioning-cloud-resources-with-crossplane-on-kubernetes-2h49)
-- [Getting Started with Java](https://dev.to/vidya_varshini/getting-started-with-java-4djf)
-- [Dependency Injection στο .NET Core: Τι είναι και πώς εφαρμόζεται](https://dev.to/__b63657/dependency-injection-sto-net-core-ti-einai-kai-pos-epharmozetai-45l7)
+- [🔐 OTP CLI Utils — A Simple and Powerful CLI tool for TOTP Codes](https://dev.to/dilanka-rathnasiri/otp-cli-utils-a-simple-and-powerful-cli-tool-for-totp-codes-197p)
+- [Task, Thread και async/await στο .NET](https://dev.to/__b63657/task-thread-kai-asyncawait-sto-net-m07)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_083ff294/you-might-not-need-websockets-the-simple-power-of-server-sent-events-e69)
+- [Web Developer Travis McCracken on Using GitHub Actions for Rust CI](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-4ddp)
+- [Java Architecture](https://dev.to/vidya_varshini/java-architecture-550e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
