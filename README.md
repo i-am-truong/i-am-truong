@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-21gp)
+- [The Man Who Thought He Was Smarter Than Time](https://dev.to/nirajkvinit1/the-man-who-thought-he-was-smarter-than-time-38hp)
+- [Sometimes small ideas teach you the biggest lessons.](https://dev.to/satyam_shree_087caef77512/sometimes-small-ideas-teach-you-the-biggest-lessons-356m)
 - [XState `ActorProvider` bug](https://dev.to/tonadev/xstate-actorprovider-bug-aco)
 - [How Machine Learning is Shaping the Future of Web Development](https://dev.to/softwaredeveloper01/how-machine-learning-is-shaping-the-future-of-web-development-386k)
-- [Building a Chat App: From Monolith Mindset to Microservices &amp; Consistency](https://dev.to/joepaulvilsan_7/building-a-chat-app-from-monolith-mindset-to-microservices-consistency-39j4)
-- [Automating Addressing Pull Request Comments with AI](https://dev.to/bwca/automating-addressing-pull-request-comments-with-ai-35mg)
-- [Unlocking SaaS Growth: Hidden Revenue Streams, Cold Outreach &amp; Real Retention &lpar;Part 2&rpar;](https://dev.to/mukul_sharma/unlocking-saas-growth-hidden-revenue-streams-cold-outreach-real-retention-part-2-1l09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
