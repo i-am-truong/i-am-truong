@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Connect Salesforce to OpenAI Agent Builder](https://dev.to/composiodev/how-to-connect-salesforce-to-openai-agent-builder-526o)
+- [⚡️ Redux Toolkit vs Quo.js: Why Granular State Beats the Global Reducer Model](https://dev.to/quojs_dev/redux-toolkit-vs-quojs-why-granular-state-beats-the-global-reducer-model-1lk8)
 - [How to Clean and Normalize Shopee Dataset for Accurate Insights](https://dev.to/easydata123/how-to-clean-and-normalize-shopee-dataset-for-accurate-insights-2jp5)
 - [gage.html](https://dev.to/robin_lee_98adb3abed49d38/gagehtml-1onc)
 - [format.html](https://dev.to/robin_lee_98adb3abed49d38/formathtml-2mi9)
-- [Dolphin switches from .directory to extended attributes](https://dev.to/svhl/dolphin-switches-from-directory-to-extended-attributes-jpj)
-- [Daily Artificial Intelligence Digest - Oct 25, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-25-2025-3l0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
