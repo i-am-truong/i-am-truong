@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Mood Gradient Generator: Colors &amp; Quotes That Match Your Feelings](https://dev.to/naman_sachdeva/mood-gradient-generator-colors-quotes-that-match-your-feelings-57g4)
-- [💻 Leveling Up My Python Skills – 3 Weeks, 150 Problems!](https://dev.to/thiyagu26v/leveling-up-my-python-skills-3-weeks-150-problems-35gp)
-- [Linux Scripting in 10 Minutes](https://dev.to/frank_a_64393c6f49a90e428/linux-scripting-in-10-minutes-1719)
-- [Getting Started with Your First Investment Portfolio](https://dev.to/globridge-tech/getting-started-with-your-first-investment-portfolio-4596)
-- [🎮 Building a Classic Breakout Game in Godot — Step by Step](https://dev.to/sababg/building-a-classic-breakout-game-in-godot-step-by-step-2m5g)
+- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-88c)
+- [A Python library that lets you switch email providers without changing your code](https://dev.to/radomir_brkovic_954abae53/a-python-library-that-lets-you-switch-email-providers-without-changing-your-code-c41)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_875c0744/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-2b2b)
+- [Integrating AI into Web Applications: How to Make Your Websites Smarter, Faster, and More Human](https://dev.to/okoye_ndidiamaka_5e3b7d30/integrating-ai-into-web-applications-how-to-make-your-websites-smarter-faster-and-more-human-5a4o)
+- [The AI Arms Race: Next-Gen DDoS Attacks &amp; Adaptive Defenses](https://dev.to/arvind_sundararajan/the-ai-arms-race-next-gen-ddos-attacks-adaptive-defenses-hn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
