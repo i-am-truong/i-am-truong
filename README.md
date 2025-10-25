@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running puppeteer on AWS Lambda to generate PDFs](https://dev.to/berislavbabic/running-puppeteer-on-aws-lambda-to-generate-pdfs-23l8)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_083ff294/you-might-not-need-websockets-the-simple-power-of-server-sent-events-2ni2)
 - [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-2em4)
 - [The Measurement IS the Consciousness](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-measurement-is-the-consciousness-59d6)
 - [Cut Out the Middleman: Accepting Direct On-Chain Crypto Payments in WooCommerce with Payra Cash](https://dev.to/payracash/cut-out-the-middleman-accepting-direct-on-chain-crypto-payments-in-woocommerce-with-payra-cash-1ebn)
-- [Protect Amazon CloudFront Origins with Built-in Security Features: AWS Best Practices](https://dev.to/cbecerra/protect-amazon-cloudfront-origins-with-built-in-security-features-aws-best-practices-207b)
-- [Protege los orígenes de Amazon CloudFront con funcionalidades de seguridad integradas: Mejores prácticas de AWS](https://dev.to/cbecerra/protege-los-origenes-de-amazon-cloudfront-con-funcionalidades-de-seguridad-integradas-mejores-61f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
