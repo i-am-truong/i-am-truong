@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Protege los orígenes de Amazon CloudFront con funcionalidades de seguridad integradas: Mejores prácticas de AWS](https://dev.to/cbecerra/protege-los-origenes-de-amazon-cloudfront-con-funcionalidades-de-seguridad-integradas-mejores-57ll)
-- [Protect Amazon CloudFront Origins with Built-in Security Features: AWS Best Practices](https://dev.to/cbecerra/protect-amazon-cloudfront-origins-with-built-in-security-features-aws-best-practices-4pln)
-- [Qubes OS A Journey to a “Reasonably Secure Operating System”](https://dev.to/sebos/qubes-os-a-journey-to-a-reasonably-secure-operating-system-4j25)
-- [How Exelare’s Applicant Tracking Software Helps You Hire Faster](https://dev.to/sharon_jack_10f3b7a64ab58/how-exelares-applicant-tracking-software-helps-you-hire-faster-3khm)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-47kg)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-gde)
+- [A refactoração é uma tarefa complexa](https://dev.to/ortizdavid/a-refactoracao-e-uma-tarefa-complexa-2igi)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-5c2f)
+- [Echo Intelligence: Mapping Sound with Acoustic Reciprocity](https://dev.to/arvind_sundararajan/echo-intelligence-mapping-sound-with-acoustic-reciprocity-1ecp)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-58j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
