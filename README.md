@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_ece4a271/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-3d43)
-- [A Social Contract for AI](https://dev.to/rikulauttia/a-social-contract-for-ai-lah)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_25c2e834/you-might-not-need-websockets-the-simple-power-of-server-sent-events-29je)
-- [Part IV — The Builder’s Stack](https://dev.to/p_thabiwa_0ca34c2f83/part-iv-the-builders-stack-bc1)
-- [Εισαγωγή στο Clean Architecture](https://dev.to/__b63657/eisagoge-sto-clean-architecture-1d36)
+- [AWS Strands Multi-Agent Patterns for the Enterprise Part-I](https://dev.to/sreeni5018/aws-strands-multi-agent-patterns-for-the-enterprise-part-i-3jna)
+- [Why I Built an Audit Tool for Developers Who Care](https://dev.to/buildwithnumen/why-i-built-an-audit-tool-for-developers-who-care-2ik9)
+- [Mistakes to Avoid When Monetizing a Mobile App](https://dev.to/emilia-novak/mistakes-to-avoid-when-monetizing-a-mobile-app-dpf)
+- [Understanding Lucene: The Engine Behind Elasticsearch&#39;s Magic](https://dev.to/heisenberg60/understanding-lucene-the-engine-behind-elasticsearchs-magic-4ke8)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_083ff294/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-170h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
