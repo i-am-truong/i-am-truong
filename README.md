@@ -119,10 +119,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agent-Ledger: Proof of Leverage on Agentic Postgres &lpar;BINFLOW x Tiger&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/agent-ledger-proof-of-leverage-on-agentic-postgres-binflow-x-tiger-41n3)
 - [Networks of Thought: Finding Your Research Niche in the Age of LLMs](https://dev.to/queelius/networks-of-thought-finding-your-research-niche-in-the-age-of-llms-47m9)
 - [Introducing AgentHelm: Production-Ready Orchestration for AI Agents](https://dev.to/hadywalied/introducing-agenthelm-production-ready-orchestration-for-ai-agents-2gb1)
 - [Building a Cybersecurity Lab: Project Overview 🗺️](https://dev.to/ethan_ac5ca38abc559d950c9/building-a-cybersecurity-lab-project-overview-58gp)
-- [BINLFOW is a time-labeled binary framework for AI, EVs, and neurotech, projecting $215B impact.](https://dev.to/p_thabiwa_0ca34c2f83/binlfow-is-a-time-labeled-binary-framework-for-ai-evs-and-neurotech-projecting-215b-impact-1982)
 - [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
 <!-- BLOG-POST-LIST:END -->
 
