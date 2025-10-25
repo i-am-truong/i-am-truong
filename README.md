@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastodon Ops Report](https://dev.to/jundata/mastodon-ops-report-3egf)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4p9d)
-- [Boxing και Unboxing](https://dev.to/__b63657/boxing-8cn)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4e93)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3ab1)
+- [Understanding Database Relationships in Flask-SQLAlchemy: `db.relationship` and `association_proxy`](https://dev.to/areyekayo/understanding-database-relationships-in-flask-sqlalchemy-dbrelationship-and-associationproxy-2pjh)
+- [Open-Source Productivity Apps in 2025: A Careful Comparison](https://dev.to/johannesjo/open-source-productivity-apps-in-2025-a-careful-comparison-4l8e)
+- [The Difference Between AI Assistants and AI Agents &lpar;And Why It Matters&rpar;](https://dev.to/utopiality/the-difference-between-ai-assistants-and-ai-agents-and-why-it-matters-2e7)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_875c0744/security-is-not-a-feature-its-a-foundation-49a5)
+- [Shadow Properties στο EF Core](https://dev.to/__b63657/shadow-properties-sto-ef-core-38c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
