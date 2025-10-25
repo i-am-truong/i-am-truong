@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Breaking the Monolith: How We Split a Node.js Backend into Go Microservices on AWS ECS-Without Stopping the World](https://dev.to/voskan89/breaking-the-monolith-how-we-split-a-nodejs-backend-into-go-microservices-on-aws-ecs-without-1okg)
+- [🌊 Week 3 — Pure Cascade now measures your CSS quality](https://dev.to/__23aca6dca/week-3-pure-cascade-now-measures-your-css-quality-2o7o)
 - [Understanding Database Relationships in Flask-SQLAlchemy: `db.relationship` and `association_proxy`](https://dev.to/areyekayo/understanding-database-relationships-in-flask-sqlalchemy-dbrelationship-and-associationproxy-2pjh)
 - [Open-Source Productivity Apps in 2025: A Careful Comparison](https://dev.to/johannesjo/open-source-productivity-apps-in-2025-a-careful-comparison-4l8e)
 - [The Difference Between AI Assistants and AI Agents &lpar;And Why It Matters&rpar;](https://dev.to/utopiality/the-difference-between-ai-assistants-and-ai-agents-and-why-it-matters-2e7)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_875c0744/security-is-not-a-feature-its-a-foundation-49a5)
-- [Shadow Properties στο EF Core](https://dev.to/__b63657/shadow-properties-sto-ef-core-38c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
