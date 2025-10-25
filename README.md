@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Chat App: From Monolith Mindset to Microservices &amp; Consistency](https://dev.to/joepaulvilsan_7/building-a-chat-app-from-monolith-mindset-to-microservices-consistency-39j4)
 - [Automating Addressing Pull Request Comments with AI](https://dev.to/bwca/automating-addressing-pull-request-comments-with-ai-35mg)
 - [Unlocking SaaS Growth: Hidden Revenue Streams, Cold Outreach &amp; Real Retention &lpar;Part 2&rpar;](https://dev.to/mukul_sharma/unlocking-saas-growth-hidden-revenue-streams-cold-outreach-real-retention-part-2-1l09)
 - [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3aho)
 - [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-473h)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-ifi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
