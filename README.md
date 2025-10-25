@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
 - [Haunted Loop: A Pure-CSS Halloween Scene](https://dev.to/p_thabiwa_0ca34c2f83/haunted-loop-a-pure-css-halloween-scene-5bam)
 - [[Boost]](https://dev.to/nefedov-dm/-1fo3)
 - [BINLFOW Quantum-Inspired Cloud ML Framework &lpar;Expanded Edition&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/binlfow-quantum-inspired-cloud-ml-framework-expanded-edition-4lil)
 - [Built an API that translates text to Gen Z slang &lpar;works in any language&rpar;](https://dev.to/dziulatex/built-an-api-that-translates-text-to-gen-z-slang-works-in-any-language-3le8)
-- [REST API: A Complete Guide to Modern Web Service Design](https://dev.to/hamd_writer_8c77d9c88c188/rest-api-a-complete-guide-to-modern-web-service-design-43a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
