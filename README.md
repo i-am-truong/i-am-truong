@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Using Emojis in Logs and Status Messages Is a Good Idea](https://dev.to/fedtti/why-using-emojis-in-logs-and-status-messages-is-a-good-idea-1bac)
-- [Let&#39;s rethink Work: Building an Application That Replaces Salaries With Stock Market Intelligence.](https://dev.to/rethabilebridgetvelelo/lets-rethink-work-building-an-application-that-replaces-salaries-with-stock-market-intelligence-49kc)
-- [Will AI Agents Rule 2026? 8 Must-Know Trends, Use Cases &amp; SEO Strategies](https://dev.to/giyeon_kim_f31b30e77be04d/will-ai-agents-rule-2026-8-must-know-trends-use-cases-seo-strategies-poe)
-- [I’ve Just Launched a DNS Server in 🦀 Rust!](https://dev.to/eduardobaginskicosta/ive-just-launched-a-dns-server-in-rust-1989)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-iko)
+- [StateFlow vs. SharedFlow: Thinking in &quot;State&quot; vs. &quot;Event&quot;](https://dev.to/kavearhasi_viswanathan/stateflow-vs-sharedflow-thinking-in-state-vs-event-2jdb)
+- [🔥 JavaScript Interview Series&lpar;9&rpar;: Working with Arrays and Objects Like a Pro](https://dev.to/jackm_345442a09fb53b/javascript-interview-series9-working-with-arrays-and-objects-like-a-pro-5c5i)
+- [C# Record Type](https://dev.to/gulsenkeskin/c-record-type-bne)
+- [Built a username checker which lets you check availability of a username across popular sites.](https://dev.to/kaifcodec/built-a-username-checker-which-lets-you-check-availability-of-a-username-across-popular-sites-43f)
+- [Bridging Cloud and On-Prem: Running On-Prem Jobs from Apache Airflow in AWS using ssh-rsa key pair.](https://dev.to/vedant_vyas_1510/bridging-cloud-and-on-prem-running-on-prem-jobsfrom-apache-airflow-in-aws-using-ssh-rsa-key-pair-3h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
