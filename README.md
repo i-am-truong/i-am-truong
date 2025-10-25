@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My creation🦉 Elf Owl AI — The Little AI That Could &lpar;and Sometimes Couldn’t&rpar;](https://dev.to/puneetkumar2010/my-creation-elf-owl-ai-the-little-ai-that-could-and-sometimes-couldnt-15ll)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_ece4a271/beyond-env-a-grown-ups-guide-to-application-configuration-3gc0)
-- [Decommissioning the Dinosaur: A 4-Phase Playbook for Migrating Your Legacy Data Warehouse to Databricks](https://dev.to/shubhojeet2001/decommissioning-the-dinosaur-a-4-phase-playbook-for-migrating-your-legacy-data-warehouse-to-4j4g)
-- [GHOSTFIELD: Pure HTML5 Canvas Game &lpar;8-Day Build Log&rpar;](https://dev.to/web_dev-usman/ghostfield-pure-html5-canvas-game-8-day-build-log-44f8)
-- [Learning resources I used, where to practice your knowledge and how you can earned your GitHub cert too.](https://dev.to/majdizlitni/learning-resources-i-used-where-to-practice-your-knowledge-and-how-you-can-earned-your-github-cert-3o0d)
+- [🚀 Mastering Data Structures in Java — Part 2: ArrayList](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-2-arraylist-1co5)
+- [How to Deploy and Connect to an Azure VMSS](https://dev.to/jic/how-to-deploy-and-connect-to-an-azure-vmss-5271)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_25c2e834/files-are-not-just-data-a-guide-to-robust-file-handling-2p20)
+- [Boundary Value Analysis&lpar;BVA&rpar;](https://dev.to/rajya_shree_0c5bc00f701b1/boundary-value-analysisbva-2f6o)
+- [AI is killing syntax — and that’s a good thing](https://dev.to/alisa_plays_1455c6e6766d0/ai-is-killing-syntax-and-thats-a-good-thing-l0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
