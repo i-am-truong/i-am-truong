@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Database troubleshooting for Umami](https://dev.to/huijing/database-troubleshooting-for-umami-74i)
+- [What are the most essential engineering tools every mechanical engineer should have in 2025?](https://dev.to/robertgchase/what-are-the-most-essential-engineering-tools-every-mechanical-engineer-should-have-in-2025-4fhg)
 - [Building ShenDesk: a self-hostable real-time chat system for web &amp; mobile apps](https://dev.to/iccb1013/building-shendesk-a-self-hostable-real-time-chat-system-for-web-mobile-apps-3g7k)
 - [Simulating An Event-Driven Python Shopping App with Kafka on AWS For Real-Time Processing.](https://dev.to/aws-builders/simulating-an-event-driven-python-shopping-app-with-kafka-on-aws-for-real-time-processing-465a)
 - [Estrategias y Factores a tener en cuenta antes de implementar IA en QA](https://dev.to/stevenayal/estrategias-y-factores-a-tener-en-cuenta-antes-de-implementar-ia-en-qa-330o)
-- [Building the Future: How to Deploy AI Agent Teams That Scale to Millions Using AWS Lambda and Crew AI](https://dev.to/suraj_khaitan_f893c243958/building-the-future-how-to-deploy-ai-agent-teams-that-scale-to-millions-using-aws-lambda-and-crew-5d79)
-- [🎨 Data Visualization with Seaborn – A Beginner’s Guide](https://dev.to/codeneuron/data-visualization-with-seaborn-a-beginners-guide-32p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
