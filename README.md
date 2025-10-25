@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python &amp; Django Full Course – Master Web Development &lpar;Hindi&rpar; | Mohit Decodes](https://dev.to/mohitdecodes/python-django-full-course-master-web-development-hindi-mohit-decodes-1i9e)
-- [Beyond the Like Button: 5 Surprising Truths About Building Your Own Digital Community](https://dev.to/web4/beyond-the-like-button-5-surprising-truths-about-building-your-own-digital-community-4o27)
-- [Building Gulf Heritage AI Studio: A Serverless GenAI Experience](https://dev.to/aws-builders/building-gulf-heritage-ai-studio-a-serverless-genai-experience-o48)
-- [Create Inline Charts with Sparklines.js](https://dev.to/jqueryscript/create-inline-charts-with-sparklinesjs-3af7)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-24ml)
+- [Building a Self-Healing Blue/Green Deployment with Nginx &amp; Docker](https://dev.to/destinyobs/building-a-self-healing-bluegreen-deployment-with-nginx-docker-3k12)
+- [MedHack](https://dev.to/agastya_khati_f72c89077c8/medhack-4pdl)
+- [Pandas Series – Part 3: The Power of groupby&lpar;&rpar;](https://dev.to/satyam_gupta/pandas-series-part-3-the-power-of-groupby-4m83)
+- [Data Manipulation With Pandas And Numpy](https://dev.to/codeneuron/data-manipulation-with-pandas-and-numpy-2p76)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_25c2e834/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-34g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
