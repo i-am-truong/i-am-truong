@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Εισαγωγή στο Clean Architecture](https://dev.to/__b63657/eisagoge-sto-clean-architecture-1d36)
+- [🧑🏻‍🚀My Hacktoberfest 2025 Journey: From Bug Fixes to Full-Stack Features](https://dev.to/rishabhrawat05/my-hacktoberfest-2025-journey-from-bug-fixes-to-full-stack-features-2261)
+- [Why Your Authentication Architecture Is Your Biggest Security Blind Spot](https://dev.to/abraham_arellanotavara_7/why-your-authentication-architecture-is-your-biggest-security-blind-spot-2b3)
 - [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2ooc)
 - [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak)
-- [ApexQuest: Architecting Trust - Where Every AI Agent is Authenticated by Auth0](https://dev.to/divyasinghdev/apexquest-architecting-trust-where-every-ai-agent-is-authenticated-by-auth0-23l9)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-54h3)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-245l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
