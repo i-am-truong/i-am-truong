@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-4-41le)
-- [Daily DSA and System Design Journal - 11](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-11-51m0)
-- [StateFlow vs. SharedFlow: Thinking in &quot;State&quot; vs. &quot;Event&quot;](https://dev.to/kavearhasi_viswanathan/stateflow-vs-sharedflow-thinking-in-state-vs-event-2jdb)
-- [🔥 JavaScript Interview Series&lpar;9&rpar;: Working with Arrays and Objects Like a Pro](https://dev.to/jackm_345442a09fb53b/javascript-interview-series9-working-with-arrays-and-objects-like-a-pro-5c5i)
-- [C# Record Type](https://dev.to/gulsenkeskin/c-record-type-bne)
+- [My creation🦉 Elf Owl AI — The Little AI That Could &lpar;and Sometimes Couldn’t&rpar;](https://dev.to/puneetkumar2010/my-creation-elf-owl-ai-the-little-ai-that-could-and-sometimes-couldnt-15ll)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_ece4a271/beyond-env-a-grown-ups-guide-to-application-configuration-3gc0)
+- [Decommissioning the Dinosaur: A 4-Phase Playbook for Migrating Your Legacy Data Warehouse to Databricks](https://dev.to/shubhojeet2001/decommissioning-the-dinosaur-a-4-phase-playbook-for-migrating-your-legacy-data-warehouse-to-4j4g)
+- [GHOSTFIELD: Pure HTML5 Canvas Game &lpar;8-Day Build Log&rpar;](https://dev.to/web_dev-usman/ghostfield-pure-html5-canvas-game-8-day-build-log-44f8)
+- [Learning resources I used, where to practice your knowledge and how you can earned your GitHub cert too.](https://dev.to/majdizlitni/learning-resources-i-used-where-to-practice-your-knowledge-and-how-you-can-earned-your-github-cert-3o0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
