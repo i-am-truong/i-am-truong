@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker Architecture and Installation: Getting Started with Docker 🏗️](https://dev.to/techwithhari/docker-architecture-and-installation-getting-started-with-docker-49cf)
-- [Use ChatGPT Like This to Ace Your Next Software Engineer Interview](https://dev.to/jps27cse/use-chatgpt-like-this-to-ace-your-next-software-engineer-interview-4k42)
-- [Browser vs Mobile Agents: Which one is better?](https://dev.to/priya_negi_9ffd29931ea408/browser-vs-mobile-agents-which-one-is-better-4l94)
-- [Hey Laravel users — are you using Plural / Singular!?](https://dev.to/yone3/hey-laravel-users-are-you-using-plural-singular-78b)
-- [How Excel Transforms Real-World Data Analysis](https://dev.to/codewiithmaytor/how-excel-transforms-real-world-data-analysis-3mgd)
+- [Python &amp; Django Full Course – Master Web Development &lpar;Hindi&rpar; | Mohit Decodes](https://dev.to/mohitdecodes/python-django-full-course-master-web-development-hindi-mohit-decodes-1i9e)
+- [Beyond the Like Button: 5 Surprising Truths About Building Your Own Digital Community](https://dev.to/web4/beyond-the-like-button-5-surprising-truths-about-building-your-own-digital-community-4o27)
+- [Building Gulf Heritage AI Studio: A Serverless GenAI Experience](https://dev.to/aws-builders/building-gulf-heritage-ai-studio-a-serverless-genai-experience-o48)
+- [Create Inline Charts with Sparklines.js](https://dev.to/jqueryscript/create-inline-charts-with-sparklinesjs-3af7)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-24ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
