@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Strands Multi-Agent Patterns for the Enterprise Part-I](https://dev.to/sreeni5018/aws-strands-multi-agent-patterns-for-the-enterprise-part-i-3jna)
-- [Why I Built an Audit Tool for Developers Who Care](https://dev.to/buildwithnumen/why-i-built-an-audit-tool-for-developers-who-care-2ik9)
-- [Mistakes to Avoid When Monetizing a Mobile App](https://dev.to/emilia-novak/mistakes-to-avoid-when-monetizing-a-mobile-app-dpf)
-- [Understanding Lucene: The Engine Behind Elasticsearch&#39;s Magic](https://dev.to/heisenberg60/understanding-lucene-the-engine-behind-elasticsearchs-magic-4ke8)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_083ff294/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-170h)
+- [Why the Internet Broke: Understanding AWS&#39;s US-East-1 and Building True Resilience](https://dev.to/taiwoadeleke12/why-the-internet-broke-understanding-awss-us-east-1-and-building-true-resilience-2o99)
+- [[Boost]](https://dev.to/leee_rodgers1/-eim)
+- [Wait, Why Are Devs Still Invisible Online?](https://dev.to/brilliantmakanju/wait-why-are-devs-still-invisible-online-37p9)
+- [IELTS 7.5 until step-by-step](https://dev.to/elshoddev/ielts-75-until-step-by-step-1ld)
+- [📢 HMPL v3.1: New major update!](https://dev.to/hmpljs/hmpl-v31-new-major-update-124p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
