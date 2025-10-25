@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Running puppeteer on AWS Lambda to generate PDFs](https://dev.to/berislavbabic/running-puppeteer-on-aws-lambda-to-generate-pdfs-23l8)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_083ff294/you-might-not-need-websockets-the-simple-power-of-server-sent-events-2ni2)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-2em4)
-- [The Measurement IS the Consciousness](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-measurement-is-the-consciousness-59d6)
-- [Cut Out the Middleman: Accepting Direct On-Chain Crypto Payments in WooCommerce with Payra Cash](https://dev.to/payracash/cut-out-the-middleman-accepting-direct-on-chain-crypto-payments-in-woocommerce-with-payra-cash-1ebn)
+- [🤖📊My Machine Learning Series 🧠📈💡](https://dev.to/codeneuron/my-machine-learning-series-5bb9)
+- [Downcast Trait in Rust for Testing](https://dev.to/riadyan/downcast-trait-in-rust-for-testing-jkj)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_3bfe2e68/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5a86)
+- [🧭 My Python Learning Series](https://dev.to/codeneuron/my-python-learning-series-38j)
+- [How You can Earned Your GitHub Certification; Lessons, Resources &amp; the Story Behind Mona the Octocat](https://dev.to/majdizlitni/how-you-can-earned-your-github-certification-lessons-resources-the-story-behind-mona-the-octocat-hhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
