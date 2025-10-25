@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-88c)
-- [A Python library that lets you switch email providers without changing your code](https://dev.to/radomir_brkovic_954abae53/a-python-library-that-lets-you-switch-email-providers-without-changing-your-code-c41)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_875c0744/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-2b2b)
-- [Integrating AI into Web Applications: How to Make Your Websites Smarter, Faster, and More Human](https://dev.to/okoye_ndidiamaka_5e3b7d30/integrating-ai-into-web-applications-how-to-make-your-websites-smarter-faster-and-more-human-5a4o)
-- [The AI Arms Race: Next-Gen DDoS Attacks &amp; Adaptive Defenses](https://dev.to/arvind_sundararajan/the-ai-arms-race-next-gen-ddos-attacks-adaptive-defenses-hn5)
+- [Real-Time Cryptocurrency Data Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/real-time-cryptocurrency-data-pipeline-29bp)
+- [M2M API Integration Guide](https://dev.to/prema_ananda/m2m-api-integration-guide-4k3h)
+- [🚀 AgentBounty User Guide](https://dev.to/prema_ananda/agentbounty-user-guide-454o)
+- [Building Cost Monitoring with AWS Strands Hooks: A Complete Guide](https://dev.to/sreeni5018/building-cost-monitoring-with-aws-strands-hooks-a-complete-guide-2il1)
+- [Building a Pay-Per-Use AI Agent Marketplace with Auth0 + Web3](https://dev.to/prema_ananda/building-a-pay-per-use-ai-agent-marketplace-with-auth0-web3-5al0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
