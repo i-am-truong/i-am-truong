@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Haunted Halloween | Frontend Challenge](https://dev.to/deepak_singh_fa1c5e26bd82/haunted-halloween-frontend-challenge-4e92)
-- [ChatGPT Atlas: The Beginning of AI-Powered Browsing](https://dev.to/ibne_sabidsaikat_1443282/chatgpt-atlas-the-beginning-of-ai-powered-browsing-498d)
-- [Understanding the Difference Between “window.addEventListener” and “document.addEventListener”](https://dev.to/natarajan_c_k/understanding-the-difference-between-windowaddeventlistener-and-documentaddeventlistener-3066)
-- [Automated Deployment Bash Script: Deploying a Flask App to AWS](https://dev.to/maven_h/automated-deployment-bash-script-deploying-a-flask-app-to-aws-4lgh)
-- [What Is Azure Data Engineer? A Complete Guide for 2025](https://dev.to/smartnet_8dafe5747e99946b/what-is-azure-data-engineer-a-complete-guide-for-2025-2cc3)
+- [Java Data Structures Decoded: A No-BS Guide for Modern Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/java-data-structures-decoded-a-no-bs-guide-for-modern-developers-1b9b)
+- [Master Java BufferedWriter: A No-Fluff Guide to Efficient File Handling](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-bufferedwriter-a-no-fluff-guide-to-efficient-file-handling-2m76)
+- [Templating with Go&#39;s html/template and text/template](https://dev.to/godofgeeks/templating-with-gos-htmltemplate-and-texttemplate-1bm5)
+- [Lesson 3  - Integrating MySQL &lpar;First Database&rpar;](https://dev.to/farrukh_rehman/lesson-3-integrating-mysql-first-database-b9m)
+- [Master Java BufferedReader: A No-BS Guide to Faster, Smarter File Reading](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-bufferedreader-a-no-bs-guide-to-faster-smarter-file-reading-2860)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
