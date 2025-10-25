@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VSCode: Gain space by customizing the line number column](https://dev.to/vuong/vscode-tips-gain-spaces-by-customize-the-line-numbers-column-1o9g)
+- [Crypto Trading Bots and Node Infrastructure: Ensuring Low Latency](https://dev.to/instanodesio/crypto-trading-bots-and-node-infrastructure-ensuring-low-latency-m1o)
 - [How Mixfood Works with Customer Reviews](https://dev.to/mixfood/how-mixfood-works-with-customer-reviews-2p1g)
 - [How Your LLM Costs 5X More If You Don&#39;t Speak English](https://dev.to/programmerraja/why-your-llm-costs-5x-more-if-you-dont-speak-english-2d0e)
 - [[Boost]](https://dev.to/unsungnovelty/-18ce)
-- [JWT Implementation with Spring Security: A Beginner&#39;s Guide](https://dev.to/amrut_p_51ca0dd7c54b9/jwt-implementation-with-spring-security-a-beginners-guide-30an)
-- [Why 2025 Belongs to Smart Teams Nailing COTS Product Implementation](https://dev.to/techind/why-2025-belongs-to-smart-teams-nailing-cots-product-implementation-4gpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
