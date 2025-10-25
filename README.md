@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_ece4a271/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-3d43)
+- [A Social Contract for AI](https://dev.to/rikulauttia/a-social-contract-for-ai-lah)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_25c2e834/you-might-not-need-websockets-the-simple-power-of-server-sent-events-29je)
+- [Part IV — The Builder’s Stack](https://dev.to/p_thabiwa_0ca34c2f83/part-iv-the-builders-stack-bc1)
 - [Εισαγωγή στο Clean Architecture](https://dev.to/__b63657/eisagoge-sto-clean-architecture-1d36)
-- [🧑🏻‍🚀My Hacktoberfest 2025 Journey: From Bug Fixes to Full-Stack Features](https://dev.to/rishabhrawat05/my-hacktoberfest-2025-journey-from-bug-fixes-to-full-stack-features-2261)
-- [Why Your Authentication Architecture Is Your Biggest Security Blind Spot](https://dev.to/abraham_arellanotavara_7/why-your-authentication-architecture-is-your-biggest-security-blind-spot-2b3)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2ooc)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
