@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Container Networking Demystified: A Deep Dive into Linux Network Namespaces](https://dev.to/ajinkya_singh_2c02bd40423/container-networking-demystified-a-deep-dive-into-linux-network-namespaces-3gll)
-- [💬 Talkdo — Talk to Your Tasks, Right from Your Terminal](https://dev.to/vision2030/talkdo-talk-to-your-tasks-right-from-your-terminal-1cip)
-- [Breaking the Monolith: How We Split a Node.js Backend into Go Microservices on AWS ECS-Without Stopping the World](https://dev.to/voskan89/breaking-the-monolith-how-we-split-a-nodejs-backend-into-go-microservices-on-aws-ecs-without-1okg)
-- [🌊 Week 3 — Pure Cascade now measures your CSS quality](https://dev.to/__23aca6dca/week-3-pure-cascade-now-measures-your-css-quality-2o7o)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_ece4a271/security-is-not-a-feature-its-a-foundation-3429)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-2em4)
+- [The Measurement IS the Consciousness](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-measurement-is-the-consciousness-59d6)
+- [Cut Out the Middleman: Accepting Direct On-Chain Crypto Payments in WooCommerce with Payra Cash](https://dev.to/payracash/cut-out-the-middleman-accepting-direct-on-chain-crypto-payments-in-woocommerce-with-payra-cash-1ebn)
+- [Protect Amazon CloudFront Origins with Built-in Security Features: AWS Best Practices](https://dev.to/cbecerra/protect-amazon-cloudfront-origins-with-built-in-security-features-aws-best-practices-207b)
+- [Protege los orígenes de Amazon CloudFront con funcionalidades de seguridad integradas: Mejores prácticas de AWS](https://dev.to/cbecerra/protege-los-origenes-de-amazon-cloudfront-con-funcionalidades-de-seguridad-integradas-mejores-61f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
