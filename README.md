@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🎨 Mood Gradient Generator: Colors &amp; Quotes That Match Your Feelings](https://dev.to/naman_sachdeva/mood-gradient-generator-colors-quotes-that-match-your-feelings-57g4)
+- [💻 Leveling Up My Python Skills – 3 Weeks, 150 Problems!](https://dev.to/thiyagu26v/leveling-up-my-python-skills-3-weeks-150-problems-35gp)
+- [Linux Scripting in 10 Minutes](https://dev.to/frank_a_64393c6f49a90e428/linux-scripting-in-10-minutes-1719)
 - [Getting Started with Your First Investment Portfolio](https://dev.to/globridge-tech/getting-started-with-your-first-investment-portfolio-4596)
 - [🎮 Building a Classic Breakout Game in Godot — Step by Step](https://dev.to/sababg/building-a-classic-breakout-game-in-godot-step-by-step-2m5g)
-- [Why Mini Micro](https://dev.to/sebnozzi/why-mini-micro-4a1o)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--3l3d)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1p17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
