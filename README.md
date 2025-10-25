@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Animated Vampire Lady](https://dev.to/annavi11arrea1/animated-vampire-lady-48db)
+- [The AI Command Line War: Claude Code vs Gemini CLI vs Codex CLI](https://dev.to/sivasai_nadella_941a8d122/the-ai-command-line-war-claude-code-vs-gemini-cli-vs-codex-cli-4fk5)
+- [Build Your Own Forum with FastAPI: Step 6 - Comments and Replies](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-6-comments-and-replies-5ag0)
+- [BotticelliBundle: Simplified Deployment of Chatbots using Docker](https://dev.to/botticellibots/botticellibundle-simplified-deployment-of-chatbots-using-docker-4i4o)
 - [ASP .NET Core Bootstrap Toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-1k5j)
-- [Fun, simple, NOT scalable background worker based on Django Cache](https://dev.to/climentea/fun-simple-not-scalable-background-worker-based-on-django-cache-7f5)
-- [Modern JavaScript Concurrency - 2025 Edition](https://dev.to/gkoos/modern-javascript-concurrency-2025-edition-h84)
-- [New in Vue - October 2025](https://dev.to/aloisseckar/new-in-vue-october-2025-6i7)
-- [Learning to Code like Crafting in an MMORPG](https://dev.to/skriptmonkey/learning-to-code-like-crafting-in-an-mmorpg-1ckl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
