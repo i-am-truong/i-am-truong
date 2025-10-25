@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database troubleshooting for Umami](https://dev.to/huijing/database-troubleshooting-for-umami-74i)
-- [What are the most essential engineering tools every mechanical engineer should have in 2025?](https://dev.to/robertgchase/what-are-the-most-essential-engineering-tools-every-mechanical-engineer-should-have-in-2025-4fhg)
-- [Building ShenDesk: a self-hostable real-time chat system for web &amp; mobile apps](https://dev.to/iccb1013/building-shendesk-a-self-hostable-real-time-chat-system-for-web-mobile-apps-3g7k)
-- [Simulating An Event-Driven Python Shopping App with Kafka on AWS For Real-Time Processing.](https://dev.to/aws-builders/simulating-an-event-driven-python-shopping-app-with-kafka-on-aws-for-real-time-processing-465a)
-- [Estrategias y Factores a tener en cuenta antes de implementar IA en QA](https://dev.to/stevenayal/estrategias-y-factores-a-tener-en-cuenta-antes-de-implementar-ia-en-qa-330o)
+- [Case Study: Gravity Forms Google Sheets Automation](https://dev.to/itsmstfbysl/case-study-gravity-forms-google-sheets-automation-4l1o)
+- [🌊 Week 2 — Pure Cascade now actually analyzes your CSS](https://dev.to/__23aca6dca/week-2-pure-cascade-now-actually-analyzes-your-css-2n10)
+- [Provisioning Cloud Resources with Crossplane on Kubernetes🚀](https://dev.to/navyaarora01/provisioning-cloud-resources-with-crossplane-on-kubernetes-2h49)
+- [Getting Started with Java](https://dev.to/vidya_varshini/getting-started-with-java-4djf)
+- [Dependency Injection στο .NET Core: Τι είναι και πώς εφαρμόζεται](https://dev.to/__b63657/dependency-injection-sto-net-core-ti-einai-kai-pos-epharmozetai-45l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
