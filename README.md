@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Haunted Loop: A Pure-CSS Halloween Scene](https://dev.to/p_thabiwa_0ca34c2f83/haunted-loop-a-pure-css-halloween-scene-5bam)
+- [[Boost]](https://dev.to/nefedov-dm/-1fo3)
+- [BINLFOW Quantum-Inspired Cloud ML Framework &lpar;Expanded Edition&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/binlfow-quantum-inspired-cloud-ml-framework-expanded-edition-4lil)
+- [Built an API that translates text to Gen Z slang &lpar;works in any language&rpar;](https://dev.to/dziulatex/built-an-api-that-translates-text-to-gen-z-slang-works-in-any-language-3le8)
 - [REST API: A Complete Guide to Modern Web Service Design](https://dev.to/hamd_writer_8c77d9c88c188/rest-api-a-complete-guide-to-modern-web-service-design-43a9)
-- [🔥 JavaScript Interview Series&lpar;10&rpar;: Functional Programming — map, reduce, filter Explained](https://dev.to/jackm_345442a09fb53b/javascript-interview-series10-functional-programming-map-reduce-filter-explained-258)
-- [Nahre Sol: How to Write Beautifully Nostalgic Music](https://dev.to/music_youtube/nahre-sol-how-to-write-beautifully-nostalgic-music-4bda)
-- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-9d7)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3hdl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
