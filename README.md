@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Profile Viewer](https://dev.to/mahmud-r-farhan/github-profile-viewer-4dbo)
-- [Repo Tree Preview](https://dev.to/p_thabiwa_0ca34c2f83/repo-tree-preview-5gnc)
-- [Why Your RAG System Hallucinations Start at Ingestion, Not the LLM](https://dev.to/ali_ismail/why-your-rag-system-hallucinations-start-at-ingestion-not-the-llm-303k)
-- [SERIES: “The Polyglot Library — When Data Starts to Think in Motion” 6](https://dev.to/p_thabiwa_0ca34c2f83/series-the-polyglot-library-when-data-starts-to-think-in-motion-6-l6m)
-- [Zero-Trust in Practice: Enforcing Time-Bound RoleBindings with Kyverno](https://dev.to/jai_sandesh_ls/zero-trust-in-practice-enforcing-time-bound-rolebindings-with-kyverno-5hl5)
+- [Reducing Request Counts in Static Astro Sites: A Guide for Heavy Websites](https://dev.to/lovestaco/reducing-request-counts-in-static-astro-sites-a-guide-for-heavy-websites-4k0c)
+- [How an HTTP Session Works](https://dev.to/iarchitsharma/how-an-http-session-works-4p6f)
+- [LeafWiki - Finding Clarity in Open Source](https://dev.to/perber/leafwiki-finding-clarity-in-open-source-39pc)
+- [🧠 Mastering Data Structures in Java: LinkedList - Part 3](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-linkedlist-part-3-3dmm)
+- [How to Get Featured in AI Overviews: 60-Minute SEO Checklist &lpar;2025&rpar;](https://dev.to/bezal_benny_68a567103f98c/how-to-get-featured-in-ai-overviews-60-minute-seo-checklist-2025-4g6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
