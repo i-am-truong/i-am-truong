@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Dockerized Web Application to Azure Using Terraform &lpar;Manual Docker Build and Push&rpar;](https://dev.to/theodora_e6f61d02577a5f06/deploying-a-dockerized-web-application-to-azure-using-terraform-manual-docker-build-and-push-3pmp)
-- [🔱 Trinity Protocol HTLC Atomic Swaps - What We Built Here&#39;s what we shipped to the world:](https://dev.to/chronosvault/trinity-protocol-htlc-atomic-swaps-what-we-builtheres-what-we-shipped-to-the-world-23nh)
-- [Best Cloud Managed Service Providers in Vancouver in 2025](https://dev.to/fionacampbell/best-cloud-managed-service-providers-in-vancouver-in-2025-1j02)
-- [I Built a Newsletter Prompt That Actually Works &lpar;Here’s the Complete Template&rpar;](https://dev.to/huizhudev/i-built-a-newsletter-prompt-that-actually-works-heres-the-complete-template-1f8o)
-- [Why I Switched from H2 to MongoDB in My Growing Spring Boot App](https://dev.to/shreeprabha_bhat/why-i-switched-from-h2-to-mongodb-in-my-growing-spring-boot-app-2c3a)
+- [Test Automation Architecture: Data Management, Execution &amp; Orchestration in Hybrid Environments - Part 4 of 4](https://dev.to/hariomlabs/test-automation-architecture-data-management-execution-orchestration-in-hybrid-environments--217h)
+- [Running a Strands Agent on Lambda to Tag Product Reviews](https://dev.to/aws-builders/running-a-strands-agent-on-lambda-to-tag-product-reviews-131o)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4bna)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1bd8)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-42gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
