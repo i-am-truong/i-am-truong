@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning OpenGL Part: The End - Model loading](https://dev.to/noticeablesmeh/learning-opengl-part-the-end-model-loading-3ck5)
 - [AI-assisted Test Driven Development Experiment Quick Takes](https://dev.to/shaman-apprentice/ai-assisted-test-driven-development-experiment-quick-takes-17fe)
 - [Building Smarter Tree UIs: A Deep Dive into Legoblock&#39;s Headless Renderer](https://dev.to/pappijx/building-smarter-tree-uis-a-deep-dive-into-legoblocks-headless-renderer-22gp)
 - [Getting started with C# as a programming language.](https://dev.to/onyemuche/getting-started-with-c-as-a-programming-language-4h82)
 - [🐳 Working with Docker? Don’t Let Your Disk Explode!](https://dev.to/sara_hajbi/working-with-docker-dont-let-your-disk-explode-35lb)
-- [DeepSeek-OCR: When a Picture Is Actually Worth 10 Fewer Tokens](https://dev.to/0xrelogic/deepseek-ocr-when-a-picture-is-actually-worth-10x-fewer-tokens-19p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
