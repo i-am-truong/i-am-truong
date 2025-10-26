@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Gilded Rose Kata: Composition Over Inheritance](https://dev.to/the-software-s-journey/the-gilded-rose-kata-composition-over-inheritance-537p)
-- [Goravel v1.17 Preview: Add Process facade, simpler to call system commands](https://dev.to/goravel/goravel-v117-preview-add-process-facade-simpler-to-call-system-commands-882)
-- [Your Infrastructure Will Never Be Idempotent &lpar;and That&#39;s OK&rpar;](https://dev.to/rawveg/your-infrastructure-will-never-be-idempotent-and-thats-ok-3k6h)
-- [Bryan Bros Golf: We Took Jason Day to a 1 Star Course](https://dev.to/youtube_golf/bryan-bros-golf-we-took-jason-day-to-a-1-star-course-jpp)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-8nj)
+- [WTF is Open-source HCI &lpar;Human-Computer Interaction&rpar; Frameworks?](https://dev.to/dailybugle33/wtf-is-open-source-hci-human-computer-interaction-frameworks-3flf)
+- [Three months ago, I wanted to train my own LLM. The tutorials were a mess. So I built the tool I wish existed.](https://dev.to/theaniketgiri/three-months-ago-i-wanted-to-train-my-own-llm-the-tutorials-were-a-mess-so-i-built-the-tool-i-3296)
+- [PR-06 at Hacktoberfest: Applying E2E Testing Lessons to Chart.js + Alpha Vantage](https://dev.to/andersontsai/pr-06-at-hacktoberfest-applying-e2e-testing-lessons-to-chartjs-alpha-vantage-1bl1)
+- [2043. Simple Bank System](https://dev.to/mdarifulhaque/2043-simple-bank-system-139h)
+- [Understanding the difference between &lt;a&gt; and &lt;Link&gt; in React Router](https://dev.to/kazutora_hattori_66972c88/understanding-the-difference-between-and-in-react-router-4og3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
