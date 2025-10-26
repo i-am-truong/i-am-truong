@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fl0)
-- [Anyone Can Commit Code as You on GitHub &lpar;Here&#39;s How to Stop Them&rpar;](https://dev.to/nickytonline/anyone-can-commit-code-as-you-on-github-heres-how-to-stop-them-2in7)
-- [Helloween AI chat agent](https://dev.to/rogeriorioli/helloween-ai-chat-agent-1o8j)
-- [5 lines of code = OTP login system in Telegram 🤯](https://dev.to/jahongir2007/5-lines-of-code-otp-login-system-in-telegram-p82)
-- [🚀 Meet the NextPWA Starter: Your Shortcut to Building Modern Web Apps](https://dev.to/hamidrazadev/meet-the-nextpwa-starter-your-shortcut-to-building-modern-web-apps-4fo7)
+- [🎃 My Hacktoberfest 2025 Journey: Discovering the Power of Documentation](https://dev.to/makendrang/my-hacktoberfest-2025-journey-discovering-the-power-of-documentation-bk6)
+- [A worker fell into a nuclear reactor pool](https://dev.to/technoblogger14o3/a-worker-fell-into-a-nuclear-reactor-pool-10f9)
+- [One Dockerfile to Rule Them All: Building a DevSecOps Container You&#39;ll Actually Love](https://dev.to/jaydeep_gohel_d5e2b6d1144/one-dockerfile-to-rule-them-all-building-a-devsecops-container-youll-actually-love-hfi)
+- [Iterator in Python &lpar;3&rpar;](https://dev.to/hyperkai/iterator-in-python-3-3g88)
+- [🧩 Building a Powerful Multi-Threaded PDF Downloader with Tkinter and Python](https://dev.to/srijan-xi/building-a-powerful-multi-threaded-pdf-downloader-with-tkinter-and-python-14mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
