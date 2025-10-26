@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We Just Launched Our Chrome Extension – And It&#39;s Completely Free! 🎉](https://dev.to/wordcounterplusapp/we-just-launched-our-chrome-extension-and-its-completely-free-4f06)
-- [Security Considerations for Multi-Cluster Cloud Architecture &lpar;HA EKS with Databases&rpar;](https://dev.to/aws-builders/security-considerations-for-multi-cluster-cloud-architecture-ha-eks-with-databases-1edp)
-- [Phantom.Coin – an absolutely deterministic, rule-based L1 &lpar;DAG + aBFT, eUTXO&rpar;. First building block of an open ecosystem.](https://dev.to/hakan_onder/phantomcoin-an-absolutely-deterministic-rule-based-l1-dag-abft-eutxo-first-building-block-1id5)
-- [Looking for a Startup-Oriented Teammate for Microsoft Imagine Cup 2026](https://dev.to/mlwithharsh/looking-for-a-startup-oriented-teammate-for-microsoft-imagine-cup-2026-1b9k)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_3bfe2e68/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-5j1)
+- [Understanding Angular Signals with Real Examples &lpar;বাংলায় সহজভাবে&rpar;](https://dev.to/joydippaul/understanding-angular-signals-with-real-examples-baanlaayy-shjbhaabe-4p5g)
+- [prepare python environment](https://dev.to/clara1123/prepare-python-environment-1id3)
+- [React Interview Prep — Real Questions, Clear Answers](https://dev.to/codeymaze/react-interview-prep-real-questions-clear-answers-5c2e)
+- [Spooky Halloween!](https://dev.to/trickell/spooky-halloween-2je7)
+- [From Manual Execution to Cloud Automation — How BatchSubmit Simplified Data Analysis](https://dev.to/omni_tiger_75ee04e39e40df/from-manual-execution-to-cloud-automation-how-batchsubmit-simplified-data-analysis-50al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
