@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_25c2e834/you-might-not-need-websockets-the-simple-power-of-server-sent-events-103m)
-- [How to Get Featured in AI Overviews: 60-Minute SEO Checklist &lpar;2025&rpar;](https://dev.to/bezal_benny_68a567103f98c/how-to-get-featured-in-ai-overviews-60-minute-seo-checklist-2025-37fl)
-- [Efficiently Building App Permission Flows with the Compose Permission Request Template](https://dev.to/cat_dogrunning_in_the_s/efficiently-building-app-permission-flows-with-the-compose-permission-request-template-4gfe)
-- [Building DreamSpace: A Modern Interior Design Website 🏠](https://dev.to/jitheshpoojari/building-dreamspace-a-modern-interior-design-website-492g)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_ece4a271/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-18pj)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-8nj)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-2i97)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1ofl)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-epi)
+- [Lazy Loading Like a Pro: Angular&#39;s Secrets to Blazing Performance](https://dev.to/karol_modelski/lazy-loading-like-a-pro-angulars-secrets-to-blazing-performance-423m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
