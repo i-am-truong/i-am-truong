@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-o8g)
+- [A lightweight secrets scanner that catches exposed keys before they reach GitHub](https://dev.to/amosfinds/a-lightweight-secrets-scanner-that-catches-exposed-keys-before-they-reach-github-3cpp)
+- [Don’t Make Assumptions About Assertions: Even with AI you still have to write your unit tests](https://dev.to/lizzzzz/dont-make-assumptions-about-assertions-even-with-ai-you-still-have-to-write-your-unit-tests-4053)
+- [How Rust&#39;s Concurrency Primitives Eliminate Data Races and Transform Parallel Programming](https://dev.to/aaravjoshi/how-rusts-concurrency-primitives-eliminate-data-races-and-transform-parallel-programming-547l)
 - [Very insightful!](https://dev.to/willchrisjr/very-insightful-1dc1)
-- [Aliasing and Cloning can be carried out with list](https://dev.to/onaolapo11/aliasing-and-cloning-can-be-carried-out-with-list-43ad)
-- [Top 5 Privacy-Focused Alternatives to Facebook](https://dev.to/destinytch001/top-5-privacy-focused-alternatives-to-facebook-mpl)
-- [Mastering Lock-Free Data Structures in Go: Ring Buffers, Queues, and Performance Optimization](https://dev.to/aaravjoshi/mastering-lock-free-data-structures-in-go-ring-buffers-queues-and-performance-optimization-2f2d)
-- [Ship Small, Learn Big—Staged Rollouts Strengthen Your Product](https://dev.to/tom-takeru/ship-small-learn-big-staged-rollouts-strengthen-your-product-4ip9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
