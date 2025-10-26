@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Common Manual Testing Techniques](https://dev.to/ritik_kumarsingh_3632c2d/common-manual-testing-techniques-3e6d)
-- [How I Saved My Cloud Costs Before Spending a Dime - When I built a simple café website on AWS for practice, everything looked perfect until I asked myself a question no cloud engineer should ignore: “How much will this architecture cost me every month?”](https://dev.to/saheed_ea3f3e90be19db2eac/how-i-saved-my-cloud-costs-before-spending-a-dime-when-i-built-a-simple-cafe-website-on-aws-for-3ab3)
-- [Day 72 : Grafana](https://dev.to/udoh_deborah_b1e484c474bf/day-72-grafana-3j6n)
-- [Comparing Page Transition Strategies in Next.js: A Performance Study](https://dev.to/alessandro-grosselle/comparing-page-transition-strategies-in-nextjs-a-performance-study-19i0)
-- [LLMZ25-4 Review : Mejorando React + TailwindCSS](https://dev.to/jesus_oviedoriquelme_084/llmz25-4-review-mejorando-react-tailwindcss-2mc9)
+- [We Just Launched Our Chrome Extension – And It&#39;s Completely Free! 🎉](https://dev.to/wordcounterplusapp/we-just-launched-our-chrome-extension-and-its-completely-free-4f06)
+- [Security Considerations for Multi-Cluster Cloud Architecture &lpar;HA EKS with Databases&rpar;](https://dev.to/aws-builders/security-considerations-for-multi-cluster-cloud-architecture-ha-eks-with-databases-1edp)
+- [Phantom.Coin – an absolutely deterministic, rule-based L1 &lpar;DAG + aBFT, eUTXO&rpar;. First building block of an open ecosystem.](https://dev.to/hakan_onder/phantomcoin-an-absolutely-deterministic-rule-based-l1-dag-abft-eutxo-first-building-block-1id5)
+- [Looking for a Startup-Oriented Teammate for Microsoft Imagine Cup 2026](https://dev.to/mlwithharsh/looking-for-a-startup-oriented-teammate-for-microsoft-imagine-cup-2026-1b9k)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_3bfe2e68/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-5j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
