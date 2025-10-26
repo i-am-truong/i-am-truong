@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning OpenGL Part: The End - Model loading](https://dev.to/noticeablesmeh/learning-opengl-part-the-end-model-loading-3ck5)
-- [AI-assisted Test Driven Development Experiment Quick Takes](https://dev.to/shaman-apprentice/ai-assisted-test-driven-development-experiment-quick-takes-17fe)
-- [Building Smarter Tree UIs: A Deep Dive into Legoblock&#39;s Headless Renderer](https://dev.to/pappijx/building-smarter-tree-uis-a-deep-dive-into-legoblocks-headless-renderer-22gp)
-- [Getting started with C# as a programming language.](https://dev.to/onyemuche/getting-started-with-c-as-a-programming-language-4h82)
-- [🐳 Working with Docker? Don’t Let Your Disk Explode!](https://dev.to/sara_hajbi/working-with-docker-dont-let-your-disk-explode-35lb)
+- [Day 15 of documenting my learning journey](https://dev.to/james_kabuga/day-15-of-documenting-my-learning-journey-29dl)
+- [JARVIS](https://dev.to/angadchhikara12/jarvis-5de0)
+- [Master Index – My Dev.to Articles](https://dev.to/imdj/master-index-my-devto-articles-3hci)
+- [Introducing @small-project/collection](https://dev.to/sebk69/introducing-small-projectcollection-27fa)
+- [learning OpenGl - My journey through LearnOpenGL website is done, now its time to make something.](https://dev.to/noticeablesmeh/learning-opengl-my-journey-through-learnopengl-website-is-done-now-its-time-to-make-something-4m99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
