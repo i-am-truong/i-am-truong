@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What are Agents: Combining LLMs, semantic search and RAG into conversational AI](https://dev.to/iuliaferoli/what-are-agents-combining-llms-semantic-search-and-rag-into-conversational-ai-2pef)
-- [BINFLOW Content Flowchart Universe](https://dev.to/p_thabiwa_0ca34c2f83/binflow-content-flowchart-universe-4f77)
-- [The Age of Flow — How Web4 Evolves Beyond Web3**](https://dev.to/p_thabiwa_0ca34c2f83/the-age-of-flow-how-web4-evolves-beyond-web3-jef)
-- [WarehouseFlow - Spring Boot Project for Corporate Use](https://dev.to/mentalillness/warehouseflow-spring-boot-project-for-corporate-use-909)
-- [Real-Time Streaming Challenges: What I Learned Building at Scale](https://dev.to/vijaya_bhaskarv_ba95adf9/real-time-streaming-challenges-what-i-learned-building-at-scale-olg)
+- [I Spent 24 Hours Hardening My Stack &lpar;and Somehow Made It Friendlier Too&rpar;](https://dev.to/formantaudio/i-spent-24-hours-hardening-my-stack-and-somehow-made-it-friendlier-too-3aj5)
+- [Telegram Mini App Template How To: Build and Launch Faster in 2025](https://dev.to/victorgold/telegram-mini-app-template-how-to-build-and-launch-faster-in-2025-gbc)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3lgg)
+- [Build Your Own Forum with FastAPI: Step 7 - Permissions](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-7-permissions-155k)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-16ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
