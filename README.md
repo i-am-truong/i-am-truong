@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Playbook for Crypto-Tech Startups: How to Earn Trust, Cut Noise, and Ship Real Value in 2025](https://dev.to/sonia_bobrik_1939cdddd79d/the-playbook-for-crypto-tech-startups-how-to-earn-trust-cut-noise-and-ship-real-value-in-2025-74d)
-- [Why Builders Still Fly to Conferences: A Field Guide to Turning Hallway Chats into Product Velocity](https://dev.to/sonia_bobrik_1939cdddd79d/why-builders-still-fly-to-conferences-a-field-guide-to-turning-hallway-chats-into-product-velocity-498l)
-- [The Uncomfortable Truth About PR for Web3 Builders &lpar;and How to Make It Actually Work&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-uncomfortable-truth-about-pr-for-web3-builders-and-how-to-make-it-actually-work-2bjm)
-- [Trust Engineering for Developers: A Pragmatic Playbook for Building Software People Actually Rely On](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-developers-a-pragmatic-playbook-for-building-software-people-actually-rely-2ijn)
-- [Rent GPU Server: Empowering High-Performance Computing for Businesses in 2026](https://dev.to/cyfutureai/rent-gpu-server-empowering-high-performance-computing-for-businesses-in-2026-44od)
+- [Why Every Business Needs Professional Web Development &amp; Design in 2025](https://dev.to/long_wolf_6d5090baeedb10e/why-every-business-needs-professional-web-development-design-in-2025-1n39)
+- [5 Common Mistakes Beginners Make with React Hooks](https://dev.to/tilakjain123/5-common-mistakes-beginners-make-with-react-hooks-31e2)
+- [Step Into the Future with Lucy AI](https://dev.to/rajguru_yadav_56d13a7b8fc/step-into-the-future-with-lucy-ai-3cm8)
+- [C# for Beginners: Master the .NET Ecosystem Step by Step](https://dev.to/neeraj_sharma_1135657c7f6/c-for-beginners-master-the-net-ecosystem-step-by-step-1kp9)
+- [The Hidden Work of Shipping AI: A Practical Playbook for GPU-First Teams](https://dev.to/sonia_bobrik_1939cdddd79d/the-hidden-work-of-shipping-ai-a-practical-playbook-for-gpu-first-teams-58o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
