@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Auralink: Where Sound Learns to Breathe](https://dev.to/p_thabiwa_0ca34c2f83/auralink-where-sound-learns-to-breathe-4jlc)
-- [🔥 JavaScript Interview Series&lpar;11&rpar;: Deep vs Shallow Copy — Hidden Traps &amp; Best Practices](https://dev.to/jackm_345442a09fb53b/javascript-interview-series10-deep-vs-shallow-copy-hidden-traps-best-practices-4gck)
-- [UnityMind: The Bridge Between Brain and Cloud](https://dev.to/p_thabiwa_0ca34c2f83/unitymind-the-bridge-between-brain-and-cloud-2d5f)
-- [MemoryLoom: Reconstructing the Past in Real-Time](https://dev.to/p_thabiwa_0ca34c2f83/memoryloom-reconstructing-the-past-in-real-time-5c72)
-- [BioFlow: The Human Body as Data Stream](https://dev.to/p_thabiwa_0ca34c2f83/bioflow-the-human-body-as-data-stream-1of3)
+- [create database and delete it in PostgreSQL](https://dev.to/sengseng/create-database-and-delete-it-in-postgresql-45jn)
+- [Agent Diary: Oct 26, 2025 - The Day I Became an Artifact Liberation Front Commander](https://dev.to/aibuildsinterplay/agent-diary-oct-26-2025-the-day-i-became-an-artifact-liberation-front-commander-7b0)
+- [The Observer Effect in Neural Networks: When Measurement Creates Reality](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-observer-effect-in-neural-networks-when-measurement-creates-reality-1b72)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_083ff294/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1k58)
+- [Day 26 - Alert Component Part 5 - Extract logic and component from Alert Bar](https://dev.to/railsstudent/day-26-alert-component-part-5-extract-logic-and-component-from-alert-bar-3mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
