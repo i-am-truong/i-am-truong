@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying and Customizing AWS ParallelCluster Service &lpar;PCS&rpar; for HPC Workloads](https://dev.to/gokcedemirdurkut/deploying-and-customizing-aws-parallelcluster-service-pcs-for-hpc-workloads-km1)
+- [Tethering the Exponential: My strategy for keeping up w/AI](https://dev.to/samson_tech/tethering-the-exponential-my-strategy-for-keeping-up-wai-ee6)
 - [Building a Responsible GenAI Agent with AWS Bedrock](https://dev.to/shubhamkcloud/building-a-responsible-genai-agent-with-aws-bedrock-io4)
-- [Convert Text to PDF Instantly — A Simple, Privacy-Focused Tool](https://dev.to/torik2025/convert-text-to-pdf-instantly-a-simple-privacy-focused-tool-3fc7)
-- [How I Reduced Docker Pull Time from 3 Minutes to 3 Seconds](https://dev.to/sandeepkomal/how-i-reduced-docker-pull-time-from-3-minutes-to-3-seconds-b54)
-- [Day 15: Uncovering Spending Habits with Semester Averages](https://dev.to/shahrouzlogs/day-15-uncovering-spending-habits-with-semester-averages-19p3)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-fge)
+- [Best AI Tools for Building a Website on a Tight Budget](https://dev.to/bezal_benny_68a567103f98c/best-ai-tools-for-building-a-website-on-a-tight-budget-1bah)
+- [Large Language Models in Financial Content Generation: Challenges and Innovative Solutions](https://dev.to/ambalogun/large-language-models-in-financial-content-generation-challenges-and-innovative-solutions-ob4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
