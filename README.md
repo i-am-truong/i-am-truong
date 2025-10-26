@@ -119,7 +119,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Business Needs Professional Web Development &amp; Design in 2025](https://dev.to/long_wolf_6d5090baeedb10e/why-every-business-needs-professional-web-development-design-in-2025-1n39)
+- [Explain the AI bubble like I&#39;m five.](https://dev.to/hr21don/explain-the-ai-bubble-like-im-five-91h)
 - [5 Common Mistakes Beginners Make with React Hooks](https://dev.to/tilakjain123/5-common-mistakes-beginners-make-with-react-hooks-31e2)
 - [Step Into the Future with Lucy AI](https://dev.to/rajguru_yadav_56d13a7b8fc/step-into-the-future-with-lucy-ai-3cm8)
 - [C# for Beginners: Master the .NET Ecosystem Step by Step](https://dev.to/neeraj_sharma_1135657c7f6/c-for-beginners-master-the-net-ecosystem-step-by-step-1kp9)
