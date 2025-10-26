@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLMZ25-4 Review : Mejorando React + TailwindCSS](https://dev.to/jesus_oviedoriquelme_084/llmz25-4-review-mejorando-react-tailwindcss-2mc9)
+- [Build Your Own Gmail AI Agent: A Step-by-Step Guide](https://dev.to/varshithvhegde/build-your-own-gmail-ai-agent-a-step-by-step-guide-1g1g)
+- [Distributed Applications. Part 1.5 - Network API](https://dev.to/lostghost/distributed-applications-part-15-api-design-36al)
+- [LLMZ25-3 Review : Construyendo Interfaces Modernas con React y TailwindCSS](https://dev.to/jesus_oviedoriquelme_084/llmz25-3-review-construyendo-interfaces-modernas-con-react-y-tailwindcss-49n1)
 - [I Spent 24 Hours Hardening My Stack &lpar;and Somehow Made It Friendlier Too&rpar;](https://dev.to/formantaudio/i-spent-24-hours-hardening-my-stack-and-somehow-made-it-friendlier-too-3aj5)
-- [Telegram Mini App Template How To: Build and Launch Faster in 2025](https://dev.to/victorgold/telegram-mini-app-template-how-to-build-and-launch-faster-in-2025-gbc)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3lgg)
-- [Build Your Own Forum with FastAPI: Step 7 - Permissions](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-7-permissions-155k)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-16ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
