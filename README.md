@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TFT-LCD Interfaces: Technical Comparison for Embedded and Industrial Applications](https://dev.to/danie_brooks_dc7a891322b3/tft-lcd-interfaces-technical-comparison-for-embedded-and-industrial-applications-4o9m)
-- [AI Session Memory: How Far Should It Go Before Privacy Breaks?](https://dev.to/alifar/ai-session-memory-how-far-should-it-go-before-privacy-breaks-3ao7)
-- [Real-Time Streaming Platform with Pulsar, Flink &amp; ClickHouse](https://dev.to/vijaya_bhaskarv_ba95adf9/real-time-streaming-platform-with-pulsar-flink-clickhouse-1oac)
-- [Merge Two Sorted Linked Lists](https://dev.to/we_are_broken_compilers/merge-two-sorted-linked-lists-6il)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_083ff294/that-real-time-headache-its-not-the-websockets-its-your-framework-4n9l)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2lfo)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3647)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-533j)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-551b)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-1p4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
