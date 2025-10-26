@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Changing the How, Not the Why of Development](https://dev.to/tlorent/ai-is-changing-the-how-not-the-why-of-development-49ca)
-- [SERIES: “The Polyglot Library — When Data Starts to Think in Motion”](https://dev.to/p_thabiwa_0ca34c2f83/series-the-polyglot-library-when-data-starts-to-think-in-motion-742)
-- [AI Agents: The Future of Automation – A Comprehensive Guide](https://dev.to/wajiha_majid_ad68715c92c3/ai-agents-the-future-of-automation-a-comprehensive-guide-58fh)
-- [Docker HTTPS Automation: 7-Step Guide to Free SSL Certificates with Nginx &amp; Certbot](https://dev.to/mdarifulhaque/docker-https-automation-7-step-guide-to-free-ssl-certificates-with-nginx-certbot-20j9)
-- [5 Hands-On Redis Labs: Sorted Sets, Pub/Sub Messaging, Transactions, and Security Configuration](https://dev.to/labex/5-hands-on-redis-labs-sorted-sets-pubsub-messaging-transactions-and-security-configuration-15d6)
+- [GitHub Profile Viewer](https://dev.to/mahmud-r-farhan/github-profile-viewer-4dbo)
+- [Repo Tree Preview](https://dev.to/p_thabiwa_0ca34c2f83/repo-tree-preview-5gnc)
+- [Why Your RAG System Hallucinations Start at Ingestion, Not the LLM](https://dev.to/ali_ismail/why-your-rag-system-hallucinations-start-at-ingestion-not-the-llm-303k)
+- [SERIES: “The Polyglot Library — When Data Starts to Think in Motion” 6](https://dev.to/p_thabiwa_0ca34c2f83/series-the-polyglot-library-when-data-starts-to-think-in-motion-6-l6m)
+- [Zero-Trust in Practice: Enforcing Time-Bound RoleBindings with Kyverno](https://dev.to/jai_sandesh_ls/zero-trust-in-practice-enforcing-time-bound-rolebindings-with-kyverno-5hl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
