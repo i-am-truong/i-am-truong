@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_083ff294/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1f2f)
-- [AWS EKS Enterprise Deployment: Real-Time Data Streaming Platform - 1 Million Events/Sec](https://dev.to/vijaya_bhaskarv_ba95adf9/aws-eks-enterprise-deployment-real-time-data-streaming-platform-1-million-eventssec-p2g)
-- [[Boost]](https://dev.to/tu_nguyenquang_074177947/-4506)
-- [One Package, Two Formats: Publishing npm Libraries with Nx](https://dev.to/sudokar/one-package-two-formats-publishing-npm-libraries-with-nx-3hho)
-- [#1: Stop Doing Chores: AI-Powered Automation for DevOps Beginners](https://dev.to/karthik_n/1-stop-doing-chores-ai-powered-automation-for-devops-beginners-4gcc)
+- [The Playbook for Crypto-Tech Startups: How to Earn Trust, Cut Noise, and Ship Real Value in 2025](https://dev.to/sonia_bobrik_1939cdddd79d/the-playbook-for-crypto-tech-startups-how-to-earn-trust-cut-noise-and-ship-real-value-in-2025-74d)
+- [Why Builders Still Fly to Conferences: A Field Guide to Turning Hallway Chats into Product Velocity](https://dev.to/sonia_bobrik_1939cdddd79d/why-builders-still-fly-to-conferences-a-field-guide-to-turning-hallway-chats-into-product-velocity-498l)
+- [The Uncomfortable Truth About PR for Web3 Builders &lpar;and How to Make It Actually Work&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-uncomfortable-truth-about-pr-for-web3-builders-and-how-to-make-it-actually-work-2bjm)
+- [Trust Engineering for Developers: A Pragmatic Playbook for Building Software People Actually Rely On](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-developers-a-pragmatic-playbook-for-building-software-people-actually-rely-2ijn)
+- [Rent GPU Server: Empowering High-Performance Computing for Businesses in 2026](https://dev.to/cyfutureai/rent-gpu-server-empowering-high-performance-computing-for-businesses-in-2026-44od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
