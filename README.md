@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent-Ledger: Proof of Leverage on Agentic Postgres &lpar;BINFLOW x Tiger&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/agent-ledger-proof-of-leverage-on-agentic-postgres-binflow-x-tiger-41n3)
-- [Networks of Thought: Finding Your Research Niche in the Age of LLMs](https://dev.to/queelius/networks-of-thought-finding-your-research-niche-in-the-age-of-llms-47m9)
-- [Introducing AgentHelm: Production-Ready Orchestration for AI Agents](https://dev.to/hadywalied/introducing-agenthelm-production-ready-orchestration-for-ai-agents-2gb1)
-- [Building a Cybersecurity Lab: Project Overview 🗺️](https://dev.to/ethan_ac5ca38abc559d950c9/building-a-cybersecurity-lab-project-overview-58gp)
-- [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
+- [📰 Major Tech News: Oct 26th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-26th-2025-jn6)
+- [Automating Infrastructure Provisioning with Terraform, AWS S3 Remote Backend, and GitHub Actions](https://dev.to/keneojiteli/automating-infrastructure-provisioning-with-terraform-aws-s3-remote-backend-and-github-actions-2k5b)
+- [Rust for JavaScript Developers: A Complete Roadmap](https://dev.to/mayu2008/rust-for-javascript-developers-a-complete-roadmap-232p)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-29b8)
+- [Presento GozoLite — un Code Executor modular que ejecuta 29 lenguajes reales, hecho por TotyLabs](https://dev.to/darkbyte01/presento-gozolite-un-code-executor-modular-que-ejecuta-29-lenguajes-reales-hecho-por-totylabs-2amd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
