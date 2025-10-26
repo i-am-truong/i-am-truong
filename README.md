@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Sourcing Health Tracker Reports: A Privacy-First Health App Built with AI Assistance](https://dev.to/mandar_nilange_03a372dcc1/open-sourcing-health-tracker-reports-a-privacy-first-health-app-built-with-ai-assistance-5hio)
-- [Sessões e cookies no Node.js](https://dev.to/lucaspereiradesouzat/sessoes-e-cookies-no-nodejs-60n)
-- [Server vs Virtual Machine: Understanding the Difference](https://dev.to/prathamesh_gawade_16/server-vs-virtual-machine-understanding-the-difference-40dp)
-- [Keycloak: The Open-Source Hero Behind Secure Logins](https://dev.to/threshika_vijayakumar_bb9/keycloak-the-open-source-hero-behind-secure-logins-43n5)
-- [I Built Quality Control Into an AI Tool&#39;s Architecture—Here&#39;s What It Generated](https://dev.to/narnaiezzsshaa_truong/i-built-quality-control-into-an-ai-tools-architecture-heres-what-it-generated-14c)
+- [RouteWise AI](https://dev.to/binarygarage/routewise-ai-590)
+- [RouteWise AI](https://dev.to/binarygarage/routewise-ai-5310)
+- [Why Your AI Agent Needs MCP &lpar;And When It Doesn&#39;t&rpar;](https://dev.to/herber/why-your-ai-agent-needs-mcp-and-when-it-doesnt-5bjg)
+- [🚀 Meet the NextPWA Starter: Your Shortcut to Building Modern Web Apps](https://dev.to/hamidrazadev/meet-the-nextpwa-starter-your-shortcut-to-building-modern-web-apps-4d2d)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_ece4a271/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-307h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
