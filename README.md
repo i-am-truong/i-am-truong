@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WTF is Open-source HCI &lpar;Human-Computer Interaction&rpar; Frameworks?](https://dev.to/dailybugle33/wtf-is-open-source-hci-human-computer-interaction-frameworks-3flf)
-- [Three months ago, I wanted to train my own LLM. The tutorials were a mess. So I built the tool I wish existed.](https://dev.to/theaniketgiri/three-months-ago-i-wanted-to-train-my-own-llm-the-tutorials-were-a-mess-so-i-built-the-tool-i-3296)
-- [PR-06 at Hacktoberfest: Applying E2E Testing Lessons to Chart.js + Alpha Vantage](https://dev.to/andersontsai/pr-06-at-hacktoberfest-applying-e2e-testing-lessons-to-chartjs-alpha-vantage-1bl1)
-- [2043. Simple Bank System](https://dev.to/mdarifulhaque/2043-simple-bank-system-139h)
-- [Understanding the difference between &lt;a&gt; and &lt;Link&gt; in React Router](https://dev.to/kazutora_hattori_66972c88/understanding-the-difference-between-and-in-react-router-4og3)
+- [Building a Responsible GenAI Agent with AWS Bedrock](https://dev.to/shubhamkcloud/building-a-responsible-genai-agent-with-aws-bedrock-io4)
+- [Convert Text to PDF Instantly — A Simple, Privacy-Focused Tool](https://dev.to/torik2025/convert-text-to-pdf-instantly-a-simple-privacy-focused-tool-3fc7)
+- [How I Reduced Docker Pull Time from 3 Minutes to 3 Seconds](https://dev.to/sandeepkomal/how-i-reduced-docker-pull-time-from-3-minutes-to-3-seconds-b54)
+- [Day 15: Uncovering Spending Habits with Semester Averages](https://dev.to/shahrouzlogs/day-15-uncovering-spending-habits-with-semester-averages-19p3)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-fge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
