@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IELTS step-by-step](https://dev.to/elshod_ibodullayev_c4cbdc/ielts-step-by-step-kaa)
+- [Book Reading vs AI](https://dev.to/jaideepparashar/book-reading-vs-ai-4i9n)
+- [Goravel v1.16.4 has been released](https://dev.to/goravel/goravel-v1164-has-been-released-1adp)
 - [How a Misconfigured CloudFront Cache Can Lead to Personal Data Leaks - Understanding and Securing API Caching](https://dev.to/kazuya_york/how-a-misconfigured-cloudfront-cache-can-lead-to-personal-data-leaks-understanding-and-securing-m8m)
 - [Remote Sensing for Urban Green Cover: My Research Journey with Melbourne](https://dev.to/ramkumar_yaragarla_f76592/remote-sensing-for-urban-green-cover-my-research-journey-with-melbourne-if5)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-43ph)
-- [Sessions and cookies in Node.js](https://dev.to/lucaspereiradesouzat/sessions-and-cookies-in-nodejs-5cic)
-- [Sessões e cookies no Node.js](https://dev.to/lucaspereiradesouzat/sessoes-e-cookies-no-nodejs-2gpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
