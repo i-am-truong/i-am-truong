@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Context Engineering: A Complete Guide to Stanford&#39;s Self-Learning Agent Framework](https://dev.to/kayba/agentic-context-engineering-a-complete-guide-to-stanfords-self-learning-agent-framework-2p02)
 - [10 Lombok Annotations Every Java Developer Should Know](https://dev.to/gianfcop98/10-lombok-annotations-every-java-developer-should-know-pcd)
 - [throw error vs throw new error? Error handling the right way](https://dev.to/emann/throw-error-vs-throw-new-error-error-handling-the-right-way-48k6)
 - [Implementing Token Count Optimization in repo-contextr](https://dev.to/dharam_ghevariya_0d946c37/implementing-token-count-optimization-in-repo-contextr-1bkg)
 - [How ChatGPT Was Made: Behind the Scenes of a Large Language Model](https://dev.to/mhamadelitawi/how-chatgpt-was-made-behind-the-scenes-of-a-large-language-model-38gd)
-- [String Analysis RESTful API](https://dev.to/ameh_mathias/string-analysis-restful-api-1fgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
