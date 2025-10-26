@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Draw a Spiral with JavaScript](https://dev.to/codingdudecom/how-to-draw-a-spiral-with-javascript-4n9a)
-- [How a Freelance Graphic Designer Streamlined Her Business Operations with Free Digital Tools](https://dev.to/royalaccount_24fe3bccf48d/how-a-freelance-graphic-designer-streamlined-her-business-operations-with-free-digital-tools-cec)
-- [&quot;It’s easy to get discouraged when your projects feel small. But here’s the secret: those small projects are not wasted time. They’re your grind. They’re your XP.&quot;](https://dev.to/dejavuudev/its-easy-to-get-discouraged-when-your-projects-feel-small-but-heres-the-secret-those-small-2efd)
-- [RouteWise AI](https://dev.to/binarygarage/routewise-ai-590)
-- [RouteWise AI](https://dev.to/binarygarage/routewise-ai-5310)
+- [AI Is Changing the How, Not the Why of Development](https://dev.to/tlorent/ai-is-changing-the-how-not-the-why-of-development-49ca)
+- [SERIES: “The Polyglot Library — When Data Starts to Think in Motion”](https://dev.to/p_thabiwa_0ca34c2f83/series-the-polyglot-library-when-data-starts-to-think-in-motion-742)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_875c0744/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-23lg)
+- [AI Agents: The Future of Automation – A Comprehensive Guide](https://dev.to/wajiha_majid_ad68715c92c3/ai-agents-the-future-of-automation-a-comprehensive-guide-58fh)
+- [Docker HTTPS Automation: 7-Step Guide to Free SSL Certificates with Nginx &amp; Certbot](https://dev.to/mdarifulhaque/docker-https-automation-7-step-guide-to-free-ssl-certificates-with-nginx-certbot-20j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
