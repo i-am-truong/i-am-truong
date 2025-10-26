@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [AI Is Changing the How, Not the Why of Development](https://dev.to/tlorent/ai-is-changing-the-how-not-the-why-of-development-49ca)
 - [SERIES: “The Polyglot Library — When Data Starts to Think in Motion”](https://dev.to/p_thabiwa_0ca34c2f83/series-the-polyglot-library-when-data-starts-to-think-in-motion-742)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_875c0744/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-23lg)
 - [AI Agents: The Future of Automation – A Comprehensive Guide](https://dev.to/wajiha_majid_ad68715c92c3/ai-agents-the-future-of-automation-a-comprehensive-guide-58fh)
 - [Docker HTTPS Automation: 7-Step Guide to Free SSL Certificates with Nginx &amp; Certbot](https://dev.to/mdarifulhaque/docker-https-automation-7-step-guide-to-free-ssl-certificates-with-nginx-certbot-20j9)
+- [5 Hands-On Redis Labs: Sorted Sets, Pub/Sub Messaging, Transactions, and Security Configuration](https://dev.to/labex/5-hands-on-redis-labs-sorted-sets-pubsub-messaging-transactions-and-security-configuration-15d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
