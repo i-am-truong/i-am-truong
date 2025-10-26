@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kuku FM se 499 cut jaaye to kya Karen](https://dev.to/munna_kumar_a4c97c55d2ee2/kuku-fm-se-499-cut-jaaye-to-kya-karen-ldp)
+- [How to upload the object in S3 | How to public the object | How to access the object](https://dev.to/sachin841/how-to-upload-the-object-in-s3-how-to-public-the-object-how-to-access-the-object-5g8h)
+- [Master Your Social Media Marketing Strategy in 2025: The Ultimate Guide](https://dev.to/gooday_marlon_5cf7e1f4841/master-your-social-media-marketing-strategy-in-2025-the-ultimate-guide-44m8)
 - [IELTS step-by-step](https://dev.to/elshod_ibodullayev_c4cbdc/ielts-step-by-step-kaa)
 - [Book Reading vs AI](https://dev.to/jaideepparashar/book-reading-vs-ai-4i9n)
-- [Goravel v1.16.4 has been released](https://dev.to/goravel/goravel-v1164-has-been-released-1adp)
-- [How a Misconfigured CloudFront Cache Can Lead to Personal Data Leaks - Understanding and Securing API Caching](https://dev.to/kazuya_york/how-a-misconfigured-cloudfront-cache-can-lead-to-personal-data-leaks-understanding-and-securing-m8m)
-- [Remote Sensing for Urban Green Cover: My Research Journey with Melbourne](https://dev.to/ramkumar_yaragarla_f76592/remote-sensing-for-urban-green-cover-my-research-journey-with-melbourne-if5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
