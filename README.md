@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🏡 Why I Built My Own Homelab to Run Kubernetes](https://dev.to/hkhelil/why-i-built-my-own-homelab-to-run-kubernetes-ke9)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-16ha)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-3baa)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mba)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_25c2e834/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-2h6m)
+- [Optimizing Cloud Infrastructure Performance Through Open-Source Innovation](https://dev.to/kapusto/optimizing-cloud-infrastructure-performance-through-open-source-innovation-f9p)
+- [Automated Identity Management: Strengthening Security and Efficiency in Healthcare IT](https://dev.to/kapusto/automated-identity-management-strengthening-security-and-efficiency-in-healthcare-it-72h)
+- [Predictive Cost Forecasting: Turning Financial Data into a Competitive Advantage](https://dev.to/kapusto/predictive-cost-forecasting-turning-financial-data-into-a-competitive-advantage-2mmp)
+- [How Data Deduplication Enhances Backup Efficiency and Reduces Storage Costs](https://dev.to/kapusto/how-data-deduplication-enhances-backup-efficiency-and-reduces-storage-costs-5d2j)
+- [Seamless CJS and ESM: Building Dual-Format Packages with Nx](https://dev.to/sudokar/seamless-cjs-and-esm-building-dual-format-packages-with-nx-lda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
