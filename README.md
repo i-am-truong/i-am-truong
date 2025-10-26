@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Gilded Rose Kata: Composition Over Inheritance](https://dev.to/the-software-s-journey/the-gilded-rose-kata-composition-over-inheritance-537p)
+- [Goravel v1.17 Preview: Add Process facade, simpler to call system commands](https://dev.to/goravel/goravel-v117-preview-add-process-facade-simpler-to-call-system-commands-882)
+- [Your Infrastructure Will Never Be Idempotent &lpar;and That&#39;s OK&rpar;](https://dev.to/rawveg/your-infrastructure-will-never-be-idempotent-and-thats-ok-3k6h)
+- [Bryan Bros Golf: We Took Jason Day to a 1 Star Course](https://dev.to/youtube_golf/bryan-bros-golf-we-took-jason-day-to-a-1-star-course-jpp)
 - [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-8nj)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-2i97)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1ofl)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-epi)
-- [Lazy Loading Like a Pro: Angular&#39;s Secrets to Blazing Performance](https://dev.to/karol_modelski/lazy-loading-like-a-pro-angulars-secrets-to-blazing-performance-423m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
