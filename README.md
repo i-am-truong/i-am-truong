@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Test Automation Architecture: Data Management, Execution &amp; Orchestration in Hybrid Environments - Part 4 of 4](https://dev.to/hariomlabs/test-automation-architecture-data-management-execution-orchestration-in-hybrid-environments--217h)
-- [Running a Strands Agent on Lambda to Tag Product Reviews](https://dev.to/aws-builders/running-a-strands-agent-on-lambda-to-tag-product-reviews-131o)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4bna)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1bd8)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-42gj)
+- [Open Sourcing Health Tracker Reports: A Privacy-First Health App Built with AI Assistance](https://dev.to/mandar_nilange_03a372dcc1/open-sourcing-health-tracker-reports-a-privacy-first-health-app-built-with-ai-assistance-5hio)
+- [Sessões e cookies no Node.js](https://dev.to/lucaspereiradesouzat/sessoes-e-cookies-no-nodejs-60n)
+- [Server vs Virtual Machine: Understanding the Difference](https://dev.to/prathamesh_gawade_16/server-vs-virtual-machine-understanding-the-difference-40dp)
+- [Keycloak: The Open-Source Hero Behind Secure Logins](https://dev.to/threshika_vijayakumar_bb9/keycloak-the-open-source-hero-behind-secure-logins-43n5)
+- [I Built Quality Control Into an AI Tool&#39;s Architecture—Here&#39;s What It Generated](https://dev.to/narnaiezzsshaa_truong/i-built-quality-control-into-an-ai-tools-architecture-heres-what-it-generated-14c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
