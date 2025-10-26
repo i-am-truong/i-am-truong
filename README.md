@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLMZ25-5 Review : Arquitectura RAG del Proyecto Ziweidoushu](https://dev.to/jesus_oviedoriquelme_084/llmz25-5-review-arquitectura-rag-del-proyecto-ziweidoushu-5cck)
+- [We Built a Self-Hosted AI Meeting Note Taker Because Every Cloud Solution Failed Our Privacy Requirements](https://dev.to/zackriya/we-built-a-self-hosted-ai-meeting-note-taker-because-every-cloud-solution-failed-our-privacy-1eml)
+- [Part 1: Understanding AWS Identity and Access Management &lpar;IAM&rpar;](https://dev.to/ciberconscientes/part-1-understanding-aws-identity-and-access-management-iam-2826)
 - [What Testing a Real App Taught Me About Building One](https://dev.to/divyansh_kumar_1/what-testing-a-real-app-taught-me-about-building-one-2ifm)
 - [6 months CSE - The System Suite](https://dev.to/cz_writes/6-months-cse-the-system-suite-3l23)
-- [🚀 Just Launched — My Personal Cloud &amp; DevOps Portfolio! 🌩️](https://dev.to/swapi123/just-launched-my-personal-cloud-devops-portfolio-20ni)
-- [NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints](https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej)
-- [How to Write Clean DTO &amp; Entity Mappers in Java &lpar;with Spring Boot&rpar;](https://dev.to/gianfcop98/how-to-write-clean-dto-entity-mappers-in-java-with-spring-boot-5ac6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
