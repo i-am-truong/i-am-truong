@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Steam Game Idler — an Open-Source Alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master.](https://dev.to/zevnda/how-i-built-an-open-source-alternative-to-archisteamfarm-and-why-you-should-care-37od)
-- [Understanding Angular Signals with Real Examples &lpar;বাংলায় সহজভাবে&rpar;](https://dev.to/joydippaul/understanding-angular-signals-with-real-examples-baanlaayy-shjbhaabe-4p5g)
-- [prepare python environment](https://dev.to/clara1123/prepare-python-environment-1id3)
-- [React Interview Prep — Real Questions, Clear Answers](https://dev.to/codeymaze/react-interview-prep-real-questions-clear-answers-5c2e)
-- [Spooky Halloween!](https://dev.to/trickell/spooky-halloween-2je7)
+- [Deploying a Dockerized Web Application to Azure Using Terraform &lpar;Manual Docker Build and Push&rpar;](https://dev.to/theodora_e6f61d02577a5f06/deploying-a-dockerized-web-application-to-azure-using-terraform-manual-docker-build-and-push-3pmp)
+- [🔱 Trinity Protocol HTLC Atomic Swaps - What We Built Here&#39;s what we shipped to the world:](https://dev.to/chronosvault/trinity-protocol-htlc-atomic-swaps-what-we-builtheres-what-we-shipped-to-the-world-23nh)
+- [Best Cloud Managed Service Providers in Vancouver in 2025](https://dev.to/fionacampbell/best-cloud-managed-service-providers-in-vancouver-in-2025-1j02)
+- [I Built a Newsletter Prompt That Actually Works &lpar;Here’s the Complete Template&rpar;](https://dev.to/huizhudev/i-built-a-newsletter-prompt-that-actually-works-heres-the-complete-template-1f8o)
+- [Why I Switched from H2 to MongoDB in My Growing Spring Boot App](https://dev.to/shreeprabha_bhat/why-i-switched-from-h2-to-mongodb-in-my-growing-spring-boot-app-2c3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
