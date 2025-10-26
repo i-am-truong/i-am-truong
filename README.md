@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with C# as a programming language.](https://dev.to/onyemuche/getting-started-with-c-as-a-programming-language-4h82)
+- [🐳 Working with Docker? Don’t Let Your Disk Explode!](https://dev.to/sara_hajbi/working-with-docker-dont-let-your-disk-explode-35lb)
+- [DeepSeek-OCR: When a Picture Is Actually Worth 10 Fewer Tokens](https://dev.to/0xrelogic/deepseek-ocr-when-a-picture-is-actually-worth-10x-fewer-tokens-19p6)
 - [Optimizing Cloud Infrastructure Performance Through Open-Source Innovation](https://dev.to/kapusto/optimizing-cloud-infrastructure-performance-through-open-source-innovation-f9p)
 - [Automated Identity Management: Strengthening Security and Efficiency in Healthcare IT](https://dev.to/kapusto/automated-identity-management-strengthening-security-and-efficiency-in-healthcare-it-72h)
-- [Predictive Cost Forecasting: Turning Financial Data into a Competitive Advantage](https://dev.to/kapusto/predictive-cost-forecasting-turning-financial-data-into-a-competitive-advantage-2mmp)
-- [How Data Deduplication Enhances Backup Efficiency and Reduces Storage Costs](https://dev.to/kapusto/how-data-deduplication-enhances-backup-efficiency-and-reduces-storage-costs-5d2j)
-- [Seamless CJS and ESM: Building Dual-Format Packages with Nx](https://dev.to/sudokar/seamless-cjs-and-esm-building-dual-format-packages-with-nx-lda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
