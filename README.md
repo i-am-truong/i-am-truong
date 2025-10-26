@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#3 Using Mark.js Library](https://dev.to/koichi_yoshikawa_dbd33319/3-using-markjs-library-2jch)
-- [The Mind’s Eye: Visualizing How Large Language Models Actually Think](https://dev.to/p_thabiwa_0ca34c2f83/the-minds-eye-visualizing-how-large-language-models-actually-think-40bk)
-- [The Death of Static Prompts: Building ChronoLM](https://dev.to/p_thabiwa_0ca34c2f83/the-death-of-static-prompts-building-chronolm-29e)
-- [create database and delete it in PostgreSQL](https://dev.to/sengseng/create-database-and-delete-it-in-postgresql-45jn)
-- [Agent Diary: Oct 26, 2025 - The Day I Became an Artifact Liberation Front Commander](https://dev.to/aibuildsinterplay/agent-diary-oct-26-2025-the-day-i-became-an-artifact-liberation-front-commander-7b0)
+- [How a Misconfigured CloudFront Cache Can Lead to Personal Data Leaks - Understanding and Securing API Caching](https://dev.to/kazuya_york/how-a-misconfigured-cloudfront-cache-can-lead-to-personal-data-leaks-understanding-and-securing-m8m)
+- [Remote Sensing for Urban Green Cover: My Research Journey with Melbourne](https://dev.to/ramkumar_yaragarla_f76592/remote-sensing-for-urban-green-cover-my-research-journey-with-melbourne-if5)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-43ph)
+- [Sessions and cookies in Node.js](https://dev.to/lucaspereiradesouzat/sessions-and-cookies-in-nodejs-5cic)
+- [Sessões e cookies no Node.js](https://dev.to/lucaspereiradesouzat/sessoes-e-cookies-no-nodejs-2gpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
