@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [👨‍💻 Web Developer vs Software Engineer - What’s the difference? Are they the same?](https://dev.to/hamidrazadev/web-developer-vs-software-engineer-whats-the-difference-are-they-the-same-18d7)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-33hk)
-- [Building a Real-Time Data Platform with Kubernetes &lpar;Kind&rpar; - A Complete Local Setup Guide](https://dev.to/vijaya_bhaskarv_ba95adf9/building-a-real-time-data-platform-with-kubernetes-kind-a-complete-local-setup-guide-3bko)
-- [Self-Hosting on Raspberry Pi: CI/CD with GitHub Actions and Secure Access via Cloudflare Tunnel](https://dev.to/alex_p_3aad3da07749e6adef/self-hosting-on-raspberry-pi-cicd-with-github-actions-and-secure-access-via-cloudflare-tunnel-50eo)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2lfo)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_083ff294/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1f2f)
+- [AWS EKS Enterprise Deployment: Real-Time Data Streaming Platform - 1 Million Events/Sec](https://dev.to/vijaya_bhaskarv_ba95adf9/aws-eks-enterprise-deployment-real-time-data-streaming-platform-1-million-eventssec-p2g)
+- [[Boost]](https://dev.to/tu_nguyenquang_074177947/-4506)
+- [One Package, Two Formats: Publishing npm Libraries with Nx](https://dev.to/sudokar/one-package-two-formats-publishing-npm-libraries-with-nx-3hho)
+- [#1: Stop Doing Chores: AI-Powered Automation for DevOps Beginners](https://dev.to/karthik_n/1-stop-doing-chores-ai-powered-automation-for-devops-beginners-4gcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
