@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What are Agents: Combining LLMs, semantic search and RAG into conversational AI](https://dev.to/iuliaferoli/what-are-agents-combining-llms-semantic-search-and-rag-into-conversational-ai-2pef)
+- [WarehouseFlow - Spring Boot Project for Corporate Use](https://dev.to/mentalillness/warehouseflow-spring-boot-project-for-corporate-use-909)
+- [Real-Time Streaming Challenges: What I Learned Building at Scale](https://dev.to/vijaya_bhaskarv_ba95adf9/real-time-streaming-challenges-what-i-learned-building-at-scale-olg)
 - [Best Practices of JSON Prompting for Video Generation Models &lpar;+Examples for Veo 3.1&rpar;](https://dev.to/yigit-konur/best-practices-of-json-prompting-for-video-generation-models-examples-for-veo-31-1mc0)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_083ff294/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-2h46)
-- [Weekly #43-2025: WS Outage Breakdown, Digital Immortality, Junior Devs, Werner Vogels &amp; Spotify System Design](https://dev.to/weekly/weekly-43-2025-ws-outage-breakdown-digital-immortality-junior-devs-werner-vogels-spotify-58b2)
-- [Maintenance Releases 0.53.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/maintenance-releases-0530-of-the-github-action-for-checking-spelling-23fk)
-- [🎃 My Hacktoberfest 2025 Journey: Discovering the Power of Documentation](https://dev.to/makendrang/my-hacktoberfest-2025-journey-discovering-the-power-of-documentation-bk6)
+- [Real-Time Data Streaming Platform: How We Built a Self-Hosted Platform with 90% Cost Reduction vs AWS Managed Services](https://dev.to/vijaya_bhaskarv_ba95adf9/real-time-data-streaming-platform-how-we-built-a-self-hosted-platform-with-90-cost-reduction-vs-1aif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
