@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Common Manual Testing Techniques](https://dev.to/ritik_kumarsingh_3632c2d/common-manual-testing-techniques-3e6d)
+- [How I Saved My Cloud Costs Before Spending a Dime - When I built a simple café website on AWS for practice, everything looked perfect until I asked myself a question no cloud engineer should ignore: “How much will this architecture cost me every month?”](https://dev.to/saheed_ea3f3e90be19db2eac/how-i-saved-my-cloud-costs-before-spending-a-dime-when-i-built-a-simple-cafe-website-on-aws-for-3ab3)
+- [Day 72 : Grafana](https://dev.to/udoh_deborah_b1e484c474bf/day-72-grafana-3j6n)
+- [Comparing Page Transition Strategies in Next.js: A Performance Study](https://dev.to/alessandro-grosselle/comparing-page-transition-strategies-in-nextjs-a-performance-study-19i0)
 - [LLMZ25-4 Review : Mejorando React + TailwindCSS](https://dev.to/jesus_oviedoriquelme_084/llmz25-4-review-mejorando-react-tailwindcss-2mc9)
-- [Build Your Own Gmail AI Agent: A Step-by-Step Guide](https://dev.to/varshithvhegde/build-your-own-gmail-ai-agent-a-step-by-step-guide-1g1g)
-- [Distributed Applications. Part 1.5 - Network API](https://dev.to/lostghost/distributed-applications-part-15-api-design-36al)
-- [LLMZ25-3 Review : Construyendo Interfaces Modernas con React y TailwindCSS](https://dev.to/jesus_oviedoriquelme_084/llmz25-3-review-construyendo-interfaces-modernas-con-react-y-tailwindcss-49n1)
-- [I Spent 24 Hours Hardening My Stack &lpar;and Somehow Made It Friendlier Too&rpar;](https://dev.to/formantaudio/i-spent-24-hours-hardening-my-stack-and-somehow-made-it-friendlier-too-3aj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
