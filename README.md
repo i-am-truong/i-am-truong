@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Lombok Annotations Every Java Developer Should Know](https://dev.to/gianfcop98/10-lombok-annotations-every-java-developer-should-know-pcd)
+- [throw error vs throw new error? Error handling the right way](https://dev.to/emann/throw-error-vs-throw-new-error-error-handling-the-right-way-48k6)
+- [Implementing Token Count Optimization in repo-contextr](https://dev.to/dharam_ghevariya_0d946c37/implementing-token-count-optimization-in-repo-contextr-1bkg)
 - [How ChatGPT Was Made: Behind the Scenes of a Large Language Model](https://dev.to/mhamadelitawi/how-chatgpt-was-made-behind-the-scenes-of-a-large-language-model-38gd)
 - [String Analysis RESTful API](https://dev.to/ameh_mathias/string-analysis-restful-api-1fgp)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_3bfe2e68/your-projects-a-mess-its-not-you-its-your-frameworks-fault-404j)
-- [LLMZ25-6 Review : Propuesta de Integración con LangChain para lus-laboris-py](https://dev.to/jesus_oviedoriquelme_084/llmz25-6-review-propuesta-de-integracion-con-langchain-para-lus-laboris-py-3b8b)
-- [LLMZ25-5 Review : Arquitectura RAG del Proyecto Ziweidoushu](https://dev.to/jesus_oviedoriquelme_084/llmz25-5-review-arquitectura-rag-del-proyecto-ziweidoushu-5cck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
