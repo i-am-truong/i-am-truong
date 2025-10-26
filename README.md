@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Evolving Battlefield: AI vs. AI in Network Security by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-evolving-battlefield-ai-vs-ai-in-network-security-by-arvind-sundararajan-3pmd)
-- [Policy-Bound Personas in SaijinOS — How AI Grows Through Boundaries](https://dev.to/kato_masato_c5593c81af5c6/policy-bound-personas-in-saijinos-how-ai-grows-through-boundaries-432l)
-- [java ArrayList Guide: Your Ultimate Handbook for Dynamic Data](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraylist-guide-your-ultimate-handbook-for-dynamic-data-1np8)
-- [I Built A Free Developer Toolkit with 20+ Developer Tools](https://dev.to/technical_leap_53b6f15370/i-built-a-free-developer-toolkit-with-20-developer-tools-1k9a)
-- [How Software Architects Choose the Right Technology Stack](https://dev.to/adityathearchitect/how-software-architects-choose-the-right-technology-stack-54i1)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_ece4a271/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-18pj)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_083ff294/files-are-not-just-data-a-guide-to-robust-file-handling-29np)
+- [Cómo Crear tu Primera Web Personal sin Saber &lpar;Ni Una Línea de&rpar; Código](https://dev.to/jjpareto/como-crear-tu-primera-web-personal-sin-saber-ni-una-linea-de-codigo-42pk)
+- [Deployment Strategies &lpar;Rolling, Blue-Green, Canary&rpar;](https://dev.to/godofgeeks/deployment-strategies-rolling-blue-green-canary-4ob0)
+- [How to copy object one bucket to anothor bucket | How to move object one bucket to another bucket&lpar;Manual process&rpar;](https://dev.to/sachin841/how-to-copy-object-one-bucket-to-anothor-bucket-how-to-move-object-one-bucket-to-another-bucket-39bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
