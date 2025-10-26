@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Explain the AI bubble like I&#39;m five.](https://dev.to/hr21don/explain-the-ai-bubble-like-im-five-91h)
-- [5 Common Mistakes Beginners Make with React Hooks](https://dev.to/tilakjain123/5-common-mistakes-beginners-make-with-react-hooks-31e2)
-- [Step Into the Future with Lucy AI](https://dev.to/rajguru_yadav_56d13a7b8fc/step-into-the-future-with-lucy-ai-3cm8)
-- [C# for Beginners: Master the .NET Ecosystem Step by Step](https://dev.to/neeraj_sharma_1135657c7f6/c-for-beginners-master-the-net-ecosystem-step-by-step-1kp9)
-- [The Hidden Work of Shipping AI: A Practical Playbook for GPU-First Teams](https://dev.to/sonia_bobrik_1939cdddd79d/the-hidden-work-of-shipping-ai-a-practical-playbook-for-gpu-first-teams-58o7)
+- [Cool Dev Mode on website, copy the React code directly](https://dev.to/shreyvijayvargiya/cool-dev-mode-on-website-copy-the-react-code-directly-2nbp)
+- [MCP for Bulk Lead/Email Verification!✅](https://dev.to/rege/mcp-for-bulk-leademail-verification-154b)
+- [Virtual Cognitive Agents: AI Models for Studying Human Decision-Making](https://dev.to/natali282/virtual-cognitive-agents-ai-models-for-studying-human-decision-making-4ccm)
+- [Use MCP to Automate Brainstorming Domain Names](https://dev.to/rege/use-mcp-to-automate-brainstorming-domain-names-1pik)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_ece4a271/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-16d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
