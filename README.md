@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 15 of documenting my learning journey](https://dev.to/james_kabuga/day-15-of-documenting-my-learning-journey-29dl)
-- [JARVIS](https://dev.to/angadchhikara12/jarvis-5de0)
-- [Master Index – My Dev.to Articles](https://dev.to/imdj/master-index-my-devto-articles-3hci)
-- [Introducing @small-project/collection](https://dev.to/sebk69/introducing-small-projectcollection-27fa)
-- [learning OpenGl - My journey through LearnOpenGL website is done, now its time to make something.](https://dev.to/noticeablesmeh/learning-opengl-my-journey-through-learnopengl-website-is-done-now-its-time-to-make-something-4m99)
+- [Samba on Linux - File Sharing for Mixed Environments](https://dev.to/sebos/samba-on-linux-file-sharing-for-mixed-environments-5022)
+- [How we test NPM packages before publishing with npm pack](https://dev.to/yoriiis/how-we-test-npm-packages-before-publishing-with-npm-pack-57bo)
+- [Building Agentic Workflow: Auto Banking Customer Service with MindsDB](https://dev.to/jiaqicheng1998/building-agentic-workflow-auto-banking-customer-service-with-mindsdb-484p)
+- [Scripts: Super speed [ES]](https://dev.to/matiluk/scripts-super-velocidad-32c3)
+- [Day 16 of documentating my learning journey](https://dev.to/james_kabuga/day-16-of-documentating-my-learning-journey-2j0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
