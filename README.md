@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;It’s easy to get discouraged when your projects feel small. But here’s the secret: those small projects are not wasted time. They’re your grind. They’re your XP.&quot;](https://dev.to/dejavuudev/its-easy-to-get-discouraged-when-your-projects-feel-small-but-heres-the-secret-those-small-2efd)
 - [RouteWise AI](https://dev.to/binarygarage/routewise-ai-590)
 - [RouteWise AI](https://dev.to/binarygarage/routewise-ai-5310)
 - [Why Your AI Agent Needs MCP &lpar;And When It Doesn&#39;t&rpar;](https://dev.to/herber/why-your-ai-agent-needs-mcp-and-when-it-doesnt-5bjg)
 - [🚀 Meet the NextPWA Starter: Your Shortcut to Building Modern Web Apps](https://dev.to/hamidrazadev/meet-the-nextpwa-starter-your-shortcut-to-building-modern-web-apps-4d2d)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_ece4a271/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-307h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
