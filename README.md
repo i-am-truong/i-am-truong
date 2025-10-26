@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turso, a Bright Future for SQLite Written From Scratch in Rust](https://dev.to/fedtti/turso-a-bright-future-for-sqlite-written-from-scratch-in-rust-22ij)
+- [Decoding the Mystery Behind %20 and Other Strange URL Characters](https://dev.to/rijultp/decoding-the-mystery-behind-20-and-other-strange-url-characters-3eh6)
 - [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-4c2p)
 - [💺 The Real Reason Scalable Booking Systems Don’t Update Seat Tables Directly](https://dev.to/deepak_kumar_e0700e0a26e9/the-real-reason-scalable-booking-systems-dont-update-seat-tables-directly-4ed6)
 - [## 🌍 Scenario Overview: Two Users + Eight Phase-Sync Repositories](https://dev.to/p_thabiwa_0ca34c2f83/-scenario-overview-two-users-eight-phase-sync-repositories-264e)
-- [Agentic Context Engineering: A Complete Guide to Stanford&#39;s Self-Learning Agent Framework](https://dev.to/kayba/agentic-context-engineering-a-complete-guide-to-stanfords-self-learning-agent-framework-2p02)
-- [CapsuleBay: Hybrid CI/CD for People Who Like Their Containers a Little Too Much](https://dev.to/gustavothethird/capsulebay-hybrid-cicd-for-people-who-like-their-containers-a-little-too-much-5gc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
