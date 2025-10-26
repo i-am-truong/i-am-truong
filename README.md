@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Steam Game Idler — an Open-Source Alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master.](https://dev.to/zevnda/how-i-built-an-open-source-alternative-to-archisteamfarm-and-why-you-should-care-37od)
 - [Understanding Angular Signals with Real Examples &lpar;বাংলায় সহজভাবে&rpar;](https://dev.to/joydippaul/understanding-angular-signals-with-real-examples-baanlaayy-shjbhaabe-4p5g)
 - [prepare python environment](https://dev.to/clara1123/prepare-python-environment-1id3)
 - [React Interview Prep — Real Questions, Clear Answers](https://dev.to/codeymaze/react-interview-prep-real-questions-clear-answers-5c2e)
 - [Spooky Halloween!](https://dev.to/trickell/spooky-halloween-2je7)
-- [From Manual Execution to Cloud Automation — How BatchSubmit Simplified Data Analysis](https://dev.to/omni_tiger_75ee04e39e40df/from-manual-execution-to-cloud-automation-how-batchsubmit-simplified-data-analysis-50al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
