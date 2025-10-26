@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_083ff294/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-2h46)
+- [Weekly #43-2025: WS Outage Breakdown, Digital Immortality, Junior Devs, Werner Vogels &amp; Spotify System Design](https://dev.to/weekly/weekly-43-2025-ws-outage-breakdown-digital-immortality-junior-devs-werner-vogels-spotify-58b2)
+- [Maintenance Releases 0.53.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/maintenance-releases-0530-of-the-github-action-for-checking-spelling-23fk)
 - [🎃 My Hacktoberfest 2025 Journey: Discovering the Power of Documentation](https://dev.to/makendrang/my-hacktoberfest-2025-journey-discovering-the-power-of-documentation-bk6)
 - [A worker fell into a nuclear reactor pool](https://dev.to/technoblogger14o3/a-worker-fell-into-a-nuclear-reactor-pool-10f9)
-- [One Dockerfile to Rule Them All: Building a DevSecOps Container You&#39;ll Actually Love](https://dev.to/jaydeep_gohel_d5e2b6d1144/one-dockerfile-to-rule-them-all-building-a-devsecops-container-youll-actually-love-hfi)
-- [Iterator in Python &lpar;3&rpar;](https://dev.to/hyperkai/iterator-in-python-3-3g88)
-- [🧩 Building a Powerful Multi-Threaded PDF Downloader with Tkinter and Python](https://dev.to/srijan-xi/building-a-powerful-multi-threaded-pdf-downloader-with-tkinter-and-python-14mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
