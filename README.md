@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Driven Drug Discovery: Predicting Protein Structures to Accelerate New Medicine Development](https://dev.to/natali282/ai-driven-drug-discovery-predicting-protein-structures-to-accelerate-new-medicine-development-4jco)
+- [ТРИЗ против неоднозначности: почему знак «+» — это не просто сложение](https://dev.to/alexey_ivanensky_35ce7503/triz-protiv-nieodnoznachnosti-pochiemu-znak-eto-nie-prosto-slozhieniie-2ac)
 - [Deploying and Customizing AWS ParallelCluster Service &lpar;PCS&rpar; for HPC Workloads](https://dev.to/gokcedemirdurkut/deploying-and-customizing-aws-parallelcluster-service-pcs-for-hpc-workloads-km1)
 - [Tethering the Exponential: My strategy for keeping up w/AI](https://dev.to/samson_tech/tethering-the-exponential-my-strategy-for-keeping-up-wai-ee6)
 - [Building a Responsible GenAI Agent with AWS Bedrock](https://dev.to/shubhamkcloud/building-a-responsible-genai-agent-with-aws-bedrock-io4)
-- [Best AI Tools for Building a Website on a Tight Budget](https://dev.to/bezal_benny_68a567103f98c/best-ai-tools-for-building-a-website-on-a-tight-budget-1bah)
-- [Large Language Models in Financial Content Generation: Challenges and Innovative Solutions](https://dev.to/ambalogun/large-language-models-in-financial-content-generation-challenges-and-innovative-solutions-ob4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
