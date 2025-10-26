@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📰 Major Tech News: Oct 26th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-26th-2025-jn6)
-- [Automating Infrastructure Provisioning with Terraform, AWS S3 Remote Backend, and GitHub Actions](https://dev.to/keneojiteli/automating-infrastructure-provisioning-with-terraform-aws-s3-remote-backend-and-github-actions-2k5b)
-- [Rust for JavaScript Developers: A Complete Roadmap](https://dev.to/mayu2008/rust-for-javascript-developers-a-complete-roadmap-232p)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-29b8)
-- [Presento GozoLite — un Code Executor modular que ejecuta 29 lenguajes reales, hecho por TotyLabs](https://dev.to/darkbyte01/presento-gozolite-un-code-executor-modular-que-ejecuta-29-lenguajes-reales-hecho-por-totylabs-2amd)
+- [Auralink: Where Sound Learns to Breathe](https://dev.to/p_thabiwa_0ca34c2f83/auralink-where-sound-learns-to-breathe-4jlc)
+- [🔥 JavaScript Interview Series&lpar;11&rpar;: Deep vs Shallow Copy — Hidden Traps &amp; Best Practices](https://dev.to/jackm_345442a09fb53b/javascript-interview-series10-deep-vs-shallow-copy-hidden-traps-best-practices-4gck)
+- [UnityMind: The Bridge Between Brain and Cloud](https://dev.to/p_thabiwa_0ca34c2f83/unitymind-the-bridge-between-brain-and-cloud-2d5f)
+- [MemoryLoom: Reconstructing the Past in Real-Time](https://dev.to/p_thabiwa_0ca34c2f83/memoryloom-reconstructing-the-past-in-real-time-5c72)
+- [BioFlow: The Human Body as Data Stream](https://dev.to/p_thabiwa_0ca34c2f83/bioflow-the-human-body-as-data-stream-1of3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
