@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Driven Drug Discovery: Predicting Protein Structures to Accelerate New Medicine Development](https://dev.to/natali282/ai-driven-drug-discovery-predicting-protein-structures-to-accelerate-new-medicine-development-4jco)
-- [ТРИЗ против неоднозначности: почему знак «+» — это не просто сложение](https://dev.to/alexey_ivanensky_35ce7503/triz-protiv-nieodnoznachnosti-pochiemu-znak-eto-nie-prosto-slozhieniie-2ac)
-- [Deploying and Customizing AWS ParallelCluster Service &lpar;PCS&rpar; for HPC Workloads](https://dev.to/gokcedemirdurkut/deploying-and-customizing-aws-parallelcluster-service-pcs-for-hpc-workloads-km1)
-- [Tethering the Exponential: My strategy for keeping up w/AI](https://dev.to/samson_tech/tethering-the-exponential-my-strategy-for-keeping-up-wai-ee6)
-- [Building a Responsible GenAI Agent with AWS Bedrock](https://dev.to/shubhamkcloud/building-a-responsible-genai-agent-with-aws-bedrock-io4)
+- [TFT-LCD Interfaces: Technical Comparison for Embedded and Industrial Applications](https://dev.to/danie_brooks_dc7a891322b3/tft-lcd-interfaces-technical-comparison-for-embedded-and-industrial-applications-4o9m)
+- [AI Session Memory: How Far Should It Go Before Privacy Breaks?](https://dev.to/alifar/ai-session-memory-how-far-should-it-go-before-privacy-breaks-3ao7)
+- [Real-Time Streaming Platform with Pulsar, Flink &amp; ClickHouse](https://dev.to/vijaya_bhaskarv_ba95adf9/real-time-streaming-platform-with-pulsar-flink-clickhouse-1oac)
+- [Merge Two Sorted Linked Lists](https://dev.to/we_are_broken_compilers/merge-two-sorted-linked-lists-6il)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_083ff294/that-real-time-headache-its-not-the-websockets-its-your-framework-4n9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
