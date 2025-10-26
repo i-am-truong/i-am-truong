@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Samba on Linux - File Sharing for Mixed Environments](https://dev.to/sebos/samba-on-linux-file-sharing-for-mixed-environments-5022)
-- [How we test NPM packages before publishing with npm pack](https://dev.to/yoriiis/how-we-test-npm-packages-before-publishing-with-npm-pack-57bo)
-- [Building Agentic Workflow: Auto Banking Customer Service with MindsDB](https://dev.to/jiaqicheng1998/building-agentic-workflow-auto-banking-customer-service-with-mindsdb-484p)
-- [Scripts: Super speed [ES]](https://dev.to/matiluk/scripts-super-velocidad-32c3)
-- [Day 16 of documentating my learning journey](https://dev.to/james_kabuga/day-16-of-documentating-my-learning-journey-2j0k)
+- [How to Integrate MTN Mobile Money in PHP - Complete Guide](https://dev.to/lepresk/how-to-integrate-mtn-mobile-money-in-php-complete-guide-j81)
+- [The First AI-Powered URL Shortener - Shrinkify](https://dev.to/jordan_t/the-first-ai-powered-url-shortener-shrinkify-mah)
+- [Free Developer Growth Masterclass &lpar;Yes, Really!&rpar;](https://dev.to/tlorent/free-developer-growth-masterclass-yes-really-1a65)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-44a4)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-4h4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
