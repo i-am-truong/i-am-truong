@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [On living through AI](https://dev.to/samson_tech/on-living-through-ai-noo)
+- [Configuring goose for Team Environments and Shared Workflows](https://dev.to/lymah/configuring-goose-for-team-environments-and-shared-workflows-5ehn)
+- [Understanding Asyncio and Multithreading in Python](https://dev.to/shreshthajit_das_1a7b40f5/understanding-asyncio-and-multithreading-in-python-663)
+- [⚙️ Building SaijinOS — Boot Sequence and Routing Logic Part 2 of the SaijinOS Series](https://dev.to/kato_masato_c5593c81af5c6/building-saijinos-boot-sequence-and-routing-logic-part-2-of-the-saijinos-p6o)
 - [Building SaijinOS — Boot Sequence and Routing Logic](https://dev.to/kato_masato_c5593c81af5c6/building-saijinos-boot-sequence-and-routing-logic-3b75)
-- [3D Scanning Revolution: Reconstruct Anything, Anywhere, No Markers Required!](https://dev.to/arvind_sundararajan/3d-scanning-revolution-reconstruct-anything-anywhere-no-markers-required-45p7)
-- [Agent Snape - your GitHub manager](https://dev.to/itsmefminsaf/agent-snape-your-github-manager-o63)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-29dc)
-- [How to upload the object in S3 | How to public the object | How to access the object](https://dev.to/sachin841/how-to-upload-the-object-in-s3-how-to-public-the-object-how-to-access-the-object-5g8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
