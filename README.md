@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lucy AI: Intelligence Meets Elegance](https://dev.to/rajguru_yadav_56d13a7b8fc/lucy-ai-intelligence-meets-elegance-52bn)
-- [Cool Dev Mode on website, copy the React code directly](https://dev.to/shreyvijayvargiya/cool-dev-mode-on-website-copy-the-react-code-directly-2nbp)
-- [MCP for Bulk Lead/Email Verification!✅](https://dev.to/rege/mcp-for-bulk-leademail-verification-154b)
-- [Virtual Cognitive Agents: AI Models for Studying Human Decision-Making](https://dev.to/natali282/virtual-cognitive-agents-ai-models-for-studying-human-decision-making-4ccm)
-- [Use MCP to Automate Brainstorming Domain Names](https://dev.to/rege/use-mcp-to-automate-brainstorming-domain-names-1pik)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fl0)
+- [Anyone Can Commit Code as You on GitHub &lpar;Here&#39;s How to Stop Them&rpar;](https://dev.to/nickytonline/anyone-can-commit-code-as-you-on-github-heres-how-to-stop-them-2in7)
+- [Helloween AI chat agent](https://dev.to/rogeriorioli/helloween-ai-chat-agent-1o8j)
+- [5 lines of code = OTP login system in Telegram 🤯](https://dev.to/jahongir2007/5-lines-of-code-otp-login-system-in-telegram-p82)
+- [🚀 Meet the NextPWA Starter: Your Shortcut to Building Modern Web Apps](https://dev.to/hamidrazadev/meet-the-nextpwa-starter-your-shortcut-to-building-modern-web-apps-4fo7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
