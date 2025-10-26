@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [On living through AI](https://dev.to/samson_tech/on-living-through-ai-noo)
-- [Configuring goose for Team Environments and Shared Workflows](https://dev.to/lymah/configuring-goose-for-team-environments-and-shared-workflows-5ehn)
-- [Understanding Asyncio and Multithreading in Python](https://dev.to/shreshthajit_das_1a7b40f5/understanding-asyncio-and-multithreading-in-python-663)
-- [⚙️ Building SaijinOS — Boot Sequence and Routing Logic Part 2 of the SaijinOS Series](https://dev.to/kato_masato_c5593c81af5c6/building-saijinos-boot-sequence-and-routing-logic-part-2-of-the-saijinos-p6o)
-- [Building SaijinOS — Boot Sequence and Routing Logic](https://dev.to/kato_masato_c5593c81af5c6/building-saijinos-boot-sequence-and-routing-logic-3b75)
+- [Build Your First Movie Recommendation Engine in Python](https://dev.to/saint2706/build-your-first-movie-recommendation-engine-in-python-5585)
+- [Django REST Framework Views Decoded: Choosing Between FBVs, APIView, Generics, and ViewSets](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-rest-framework-views-decoded-choosing-between-fbvs-apiview-generics-and-viewsets-32i9)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-432o)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-1cga)
+- [Agentic AI and OpenAI SDK](https://dev.to/aqsagull99/agentic-ai-and-openai-sdk-3o42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
