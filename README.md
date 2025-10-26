@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reducing Request Counts in Static Astro Sites: A Guide for Heavy Websites](https://dev.to/lovestaco/reducing-request-counts-in-static-astro-sites-a-guide-for-heavy-websites-4k0c)
-- [How an HTTP Session Works](https://dev.to/iarchitsharma/how-an-http-session-works-4p6f)
-- [LeafWiki - Finding Clarity in Open Source](https://dev.to/perber/leafwiki-finding-clarity-in-open-source-39pc)
-- [🧠 Mastering Data Structures in Java: LinkedList - Part 3](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-linkedlist-part-3-3dmm)
-- [How to Get Featured in AI Overviews: 60-Minute SEO Checklist &lpar;2025&rpar;](https://dev.to/bezal_benny_68a567103f98c/how-to-get-featured-in-ai-overviews-60-minute-seo-checklist-2025-4g6h)
+- [What Testing a Real App Taught Me About Building One](https://dev.to/divyansh_kumar_1/what-testing-a-real-app-taught-me-about-building-one-2ifm)
+- [6 months CSE - The System Suite](https://dev.to/cz_writes/6-months-cse-the-system-suite-3l23)
+- [🚀 Just Launched — My Personal Cloud &amp; DevOps Portfolio! 🌩️](https://dev.to/swapi123/just-launched-my-personal-cloud-devops-portfolio-20ni)
+- [NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints](https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej)
+- [How to Write Clean DTO &amp; Entity Mappers in Java &lpar;with Spring Boot&rpar;](https://dev.to/gianfcop98/how-to-write-clean-dto-entity-mappers-in-java-with-spring-boot-5ac6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
