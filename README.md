@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kuku FM se 499 cut jaaye to kya Karen](https://dev.to/munna_kumar_a4c97c55d2ee2/kuku-fm-se-499-cut-jaaye-to-kya-karen-ldp)
+- [Building SaijinOS — Boot Sequence and Routing Logic](https://dev.to/kato_masato_c5593c81af5c6/building-saijinos-boot-sequence-and-routing-logic-3b75)
+- [3D Scanning Revolution: Reconstruct Anything, Anywhere, No Markers Required!](https://dev.to/arvind_sundararajan/3d-scanning-revolution-reconstruct-anything-anywhere-no-markers-required-45p7)
+- [Agent Snape - your GitHub manager](https://dev.to/itsmefminsaf/agent-snape-your-github-manager-o63)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-29dc)
 - [How to upload the object in S3 | How to public the object | How to access the object](https://dev.to/sachin841/how-to-upload-the-object-in-s3-how-to-public-the-object-how-to-access-the-object-5g8h)
-- [Master Your Social Media Marketing Strategy in 2025: The Ultimate Guide](https://dev.to/gooday_marlon_5cf7e1f4841/master-your-social-media-marketing-strategy-in-2025-the-ultimate-guide-44m8)
-- [IELTS step-by-step](https://dev.to/elshod_ibodullayev_c4cbdc/ielts-step-by-step-kaa)
-- [Book Reading vs AI](https://dev.to/jaideepparashar/book-reading-vs-ai-4i9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
