@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How ChatGPT Was Made: Behind the Scenes of a Large Language Model](https://dev.to/mhamadelitawi/how-chatgpt-was-made-behind-the-scenes-of-a-large-language-model-38gd)
+- [String Analysis RESTful API](https://dev.to/ameh_mathias/string-analysis-restful-api-1fgp)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_3bfe2e68/your-projects-a-mess-its-not-you-its-your-frameworks-fault-404j)
+- [LLMZ25-6 Review : Propuesta de Integración con LangChain para lus-laboris-py](https://dev.to/jesus_oviedoriquelme_084/llmz25-6-review-propuesta-de-integracion-con-langchain-para-lus-laboris-py-3b8b)
 - [LLMZ25-5 Review : Arquitectura RAG del Proyecto Ziweidoushu](https://dev.to/jesus_oviedoriquelme_084/llmz25-5-review-arquitectura-rag-del-proyecto-ziweidoushu-5cck)
-- [We Built a Self-Hosted AI Meeting Note Taker Because Every Cloud Solution Failed Our Privacy Requirements](https://dev.to/zackriya/we-built-a-self-hosted-ai-meeting-note-taker-because-every-cloud-solution-failed-our-privacy-1eml)
-- [Part 1: Understanding AWS Identity and Access Management &lpar;IAM&rpar;](https://dev.to/ciberconscientes/part-1-understanding-aws-identity-and-access-management-iam-2826)
-- [What Testing a Real App Taught Me About Building One](https://dev.to/divyansh_kumar_1/what-testing-a-real-app-taught-me-about-building-one-2ifm)
-- [6 months CSE - The System Suite](https://dev.to/cz_writes/6-months-cse-the-system-suite-3l23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
