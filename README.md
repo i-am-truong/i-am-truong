@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-4c2p)
+- [💺 The Real Reason Scalable Booking Systems Don’t Update Seat Tables Directly](https://dev.to/deepak_kumar_e0700e0a26e9/the-real-reason-scalable-booking-systems-dont-update-seat-tables-directly-4ed6)
+- [## 🌍 Scenario Overview: Two Users + Eight Phase-Sync Repositories](https://dev.to/p_thabiwa_0ca34c2f83/-scenario-overview-two-users-eight-phase-sync-repositories-264e)
 - [Agentic Context Engineering: A Complete Guide to Stanford&#39;s Self-Learning Agent Framework](https://dev.to/kayba/agentic-context-engineering-a-complete-guide-to-stanfords-self-learning-agent-framework-2p02)
-- [10 Lombok Annotations Every Java Developer Should Know](https://dev.to/gianfcop98/10-lombok-annotations-every-java-developer-should-know-pcd)
-- [throw error vs throw new error? Error handling the right way](https://dev.to/emann/throw-error-vs-throw-new-error-error-handling-the-right-way-48k6)
-- [Implementing Token Count Optimization in repo-contextr](https://dev.to/dharam_ghevariya_0d946c37/implementing-token-count-optimization-in-repo-contextr-1bkg)
-- [How ChatGPT Was Made: Behind the Scenes of a Large Language Model](https://dev.to/mhamadelitawi/how-chatgpt-was-made-behind-the-scenes-of-a-large-language-model-38gd)
+- [CapsuleBay: Hybrid CI/CD for People Who Like Their Containers a Little Too Much](https://dev.to/gustavothethird/capsulebay-hybrid-cicd-for-people-who-like-their-containers-a-little-too-much-5gc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
