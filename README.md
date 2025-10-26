@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL Java API Optimization: 5 Proven Techniques for Performance and Scalability](https://dev.to/aaravjoshi/graphql-java-api-optimization-5-proven-techniques-for-performance-and-scalability-4ch1)
 - [Very insightful!](https://dev.to/willchrisjr/very-insightful-1dc1)
 - [Aliasing and Cloning can be carried out with list](https://dev.to/onaolapo11/aliasing-and-cloning-can-be-carried-out-with-list-43ad)
 - [Top 5 Privacy-Focused Alternatives to Facebook](https://dev.to/destinytch001/top-5-privacy-focused-alternatives-to-facebook-mpl)
 - [Mastering Lock-Free Data Structures in Go: Ring Buffers, Queues, and Performance Optimization](https://dev.to/aaravjoshi/mastering-lock-free-data-structures-in-go-ring-buffers-queues-and-performance-optimization-2f2d)
+- [Ship Small, Learn Big—Staged Rollouts Strengthen Your Product](https://dev.to/tom-takeru/ship-small-learn-big-staged-rollouts-strengthen-your-product-4ip9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
