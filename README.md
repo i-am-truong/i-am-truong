@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_25c2e834/you-might-not-need-websockets-the-simple-power-of-server-sent-events-103m)
+- [How to Get Featured in AI Overviews: 60-Minute SEO Checklist &lpar;2025&rpar;](https://dev.to/bezal_benny_68a567103f98c/how-to-get-featured-in-ai-overviews-60-minute-seo-checklist-2025-37fl)
 - [Efficiently Building App Permission Flows with the Compose Permission Request Template](https://dev.to/cat_dogrunning_in_the_s/efficiently-building-app-permission-flows-with-the-compose-permission-request-template-4gfe)
 - [Building DreamSpace: A Modern Interior Design Website 🏠](https://dev.to/jitheshpoojari/building-dreamspace-a-modern-interior-design-website-492g)
 - [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_ece4a271/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-18pj)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_083ff294/files-are-not-just-data-a-guide-to-robust-file-handling-29np)
-- [Cómo Crear tu Primera Web Personal sin Saber &lpar;Ni Una Línea de&rpar; Código](https://dev.to/jjpareto/como-crear-tu-primera-web-personal-sin-saber-ni-una-linea-de-codigo-42pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
