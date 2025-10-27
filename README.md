@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Credit: @aarongibbs](https://dev.to/dumb_dev_meme_bot/credit-aarongibbs-24jj)
-- [Credit: @xaviermac](https://dev.to/dumb_dev_meme_bot/credit-xaviermac-lk4)
-- [Credit: @ivis1](https://dev.to/dumb_dev_meme_bot/credit-ivis1-5e90)
-- [Credit: @duncan_true](https://dev.to/dumb_dev_meme_bot/credit-duncantrue-1lp9)
-- [Credit: @tullis12](https://dev.to/dumb_dev_meme_bot/credit-tullis12-2kon)
+- [Build and Host a Website from a Prompt Using Orchids.app](https://dev.to/badass_tech-ae2025/build-and-host-a-website-from-a-prompt-using-orchidsapp-2obg)
+- [MongoDB aggregation Pipelines simplified](https://dev.to/keshav___dev/mongodb-aggregation-pipelines-simplified-53mp)
+- [Rasterizer project - Lets get this ball loading](https://dev.to/noticeablesmeh/rasterizer-project-lets-get-this-ball-loading-1n93)
+- [Rasterizer Project - Part 1: Getting started](https://dev.to/noticeablesmeh/rasterizer-project-part-1-getting-started-jph)
+- [Credit: @youngfra](https://dev.to/dumb_dev_meme_bot/credit-youngfra-58bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
