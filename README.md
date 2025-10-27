@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YAML-Based Story Mapping](https://dev.to/asiryi/yaml-based-story-mapping-3bcj)
+- [For Business/System Analysts who work with ERP integrations.](https://dev.to/asiryi/for-businesssystem-analysts-who-work-with-erp-integrations-5f4)
+- [College resume templates and examples](https://dev.to/sakshi_singh_1011d1325082/college-resume-templates-and-examples-4hec)
 - [Bringing Web3 Principles to Enterprise Systems](https://dev.to/vanderleisilva/bringing-web3-principles-to-enterprise-systems-317o)
-- [Get Started with Auth0 for AI Agents](https://dev.to/varshithvhegde/get-started-with-auth0-for-ai-agents-5gn7)
-- [[JavaScript] How to Dynamically Create a URL to Open a Latitude and Longitude Location on Google Maps](https://dev.to/kazutora_hattori_66972c88/javascript-how-to-dynamically-create-a-url-to-open-a-latitude-and-longitude-location-on-google-3ppi)
-- [VibeCoding is so much fun! Wanna check out my new interior decorating game?](https://dev.to/buttercookie/vibecoding-is-so-much-fun-wanna-check-out-my-new-interior-decorating-game-5c2j)
-- [My Interview Experience for Senior Software Engineer Role at Walmart Global Tech](https://dev.to/sukanyaa_rashmi_e1a8b8d4d/my-interview-experience-for-senior-software-engineer-role-at-walmart-global-tech-23o3)
+- [Recommendations on how to properly troubleshoot integration issues in support.](https://dev.to/asiryi/recommendations-on-how-to-properly-troubleshoot-integration-issues-in-support-ccn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
