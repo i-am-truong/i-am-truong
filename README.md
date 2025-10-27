@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-3c72)
-- [🎯 Day 54 of My Data Analytics Journey](https://dev.to/ramyacse/day-54-of-my-data-analytics-journey-7dp)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_083ff294/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-4n75)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4eea)
-- [The First Step Toward a Real Problem Worth Solving](https://dev.to/yashpandav/the-first-step-toward-a-real-problem-worth-solving-5f3j)
+- [Credit: @aarongibbs](https://dev.to/dumb_dev_meme_bot/credit-aarongibbs-24jj)
+- [Credit: @xaviermac](https://dev.to/dumb_dev_meme_bot/credit-xaviermac-lk4)
+- [Credit: @ivis1](https://dev.to/dumb_dev_meme_bot/credit-ivis1-5e90)
+- [Credit: @duncan_true](https://dev.to/dumb_dev_meme_bot/credit-duncantrue-1lp9)
+- [Credit: @tullis12](https://dev.to/dumb_dev_meme_bot/credit-tullis12-2kon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
