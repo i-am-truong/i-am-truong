@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Task0 - AI task manager](https://dev.to/itsmefminsaf/task0-ai-task-manager-181a)
-- [Check out the guide on - The Power of Grouping in Tableau](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-power-of-grouping-in-tableau-k74)
-- [The Power of Grouping in Tableau](https://dev.to/dipti_moryani_185c244d578/the-power-of-grouping-in-tableau-2ejp)
-- [Hashicorp Vault CLI Part 1: Initialization, Authentication &amp; Plugin Management](https://dev.to/admantium/hashicorp-vault-cli-part-1-initialization-authentication-plugin-management-2ndl)
-- [Why I Replaced My Dev Stack With One AI Workspace](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-i-replaced-my-dev-stack-with-one-ai-workspace-e2f)
+- [Building an Enhanced Squoosh: High-Performance Local Image Compression with libimagequant-wasm](https://dev.to/alixwang/building-an-enhanced-squoosh-high-performance-local-image-compression-with-libimagequant-wasm-2ja6)
+- [JS + DSA Roadmap &lpar;3–4 Months&rpar;](https://dev.to/nitinmalviy/js-dsa-roadmap-3-4-months-4c1)
+- [SECURE AI AGENT FOR BUILDING SAXY LOOKING APPS](https://dev.to/suvo-dev/secure-ai-agent-for-building-saxy-looking-apps-37m8)
+- [Greetings guy&#39;s!](https://dev.to/badal_8900/greetings-guys-4ij9)
+- [Frontend &amp; Java script Interview Questions](https://dev.to/nitinmalviy/frontend-java-script-interview-questions-1f9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
