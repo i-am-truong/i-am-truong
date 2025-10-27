@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python Module Three Part Two: Loops](https://dev.to/theoriginalbpc/introduction-to-python-module-three-part-two-loops-klk)
-- [Swift SDK for Android is Here: Build Native Android Apps with Swift](https://dev.to/arshtechpro/swift-sdk-for-android-is-here-build-native-android-apps-with-swift-1372)
-- [The Dangers of Dynamic Method Calls in PHP](https://dev.to/ashallendesign/the-dangers-of-dynamic-method-calls-in-php-5amn)
-- [Front End Meta Course](https://dev.to/hughbenmoore/front-end-meta-course-4d1p)
-- [Les développeurs au cœur de la révolution blockchain : du code à la confiance](https://dev.to/nicomiayo/les-developpeurs-au-coeur-de-la-revolution-blockchain-du-code-a-la-confiance-alm)
+- [How I built a movie suggestion app with zero ML experience](https://dev.to/dbho/how-i-built-a-movie-suggestion-app-with-zero-ml-experience-4ihe)
+- [Building a Cost Explorer Alternative: Architecture Decisions and Tradeoffs](https://dev.to/cloudwiseteam/building-a-cost-explorer-alternative-architecture-decisions-and-tradeoffs-46fd)
+- [What if the Internet had been built differently?](https://dev.to/tech_girllll/what-if-the-internet-had-been-built-differently-5chk)
+- [JavaScript](https://dev.to/vidya_cdd37fca763a53a10e2/javascript-1j09)
+- [🚀 30 Days of Red Team — A Hands-On Ethical Hacking Journey](https://dev.to/maxwellcross/30-days-of-red-team-a-hands-on-ethical-hacking-journey-2e1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
