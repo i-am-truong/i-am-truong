@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Developer Revenue: The Dual-Earning Path for AI and LLM Apps](https://dev.to/monetzly/unlocking-developer-revenue-the-dual-earning-path-for-ai-and-llm-apps-1nnf)
-- [Learning to Route LLMs from Bandit Feedback: One Policy, Many Trade-offs](https://dev.to/paperium/learning-to-route-llms-from-bandit-feedback-one-policy-many-trade-offs-266d)
-- [From Binary to Brilliance: How Compilers Learned to Write Compilers a.k.a Bootstrapping](https://dev.to/biswasprasana001/from-binary-to-brilliance-how-compilers-learned-to-write-compilers-aka-bootstrapping-3ef3)
-- [Day 26 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-26-of-100-days-dsa-coding-challenge-3lp4)
-- [How my day went](https://dev.to/devmarsh/how-my-day-went-1poh)
+- [Your Next Pull Request Will Come From a Product Manager](https://dev.to/signadot/your-next-pull-request-will-come-from-a-product-manager-2odk)
+- [New feature with token count](https://dev.to/slyang08/new-feature-with-token-count-3ic)
+- [Modular, API-First SaaS: What DevOps Engineers Must Know Now](https://dev.to/artyom_mukhopad_a9444ed6d/modular-api-first-saas-what-devops-engineers-must-know-now-2nj)
+- [Physical &amp; Digital Setups &lpar;what you actually deploy&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/physical-digital-setups-what-you-actually-deploy-427p)
+- [🧠 Mastering Data Structures in Java — Part 3: Stack](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-3-stack-3p7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
