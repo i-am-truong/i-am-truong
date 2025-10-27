@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Em Dash Trap: How a Tiny Symbol Can Outsmart Your AI Cover | Lumir S Vinod](https://dev.to/lumirysm/the-em-dash-trap-how-a-tiny-symbol-can-outsmart-your-ai-cover-lumir-s-vinod-1do0)
+- [Making AI sound like a human should be illegal](https://dev.to/wickathou/making-ai-sound-like-a-human-should-be-illegal-448l)
 - [From 12 Days to 1: How AI Is Reshaping the Entire Architectural Design Workflow](https://dev.to/futureform_lab/from-12-days-to-1-how-ai-is-reshaping-the-entire-architectural-design-workflow-5e8b)
-- [Check out the interview Taylor from Lucid Software](https://dev.to/googleworkspace/check-out-the-interview-taylor-from-lucid-software-566d)
-- [How I Created a Semantic Cache Library for AI](https://dev.to/vcalproject/how-i-created-a-semantic-cache-library-for-ai-863)
-- [SSH Port Forwarding: The Developer’s Hidden Superpower](https://dev.to/lightningdev123/ssh-port-forwarding-the-developers-hidden-superpower-3ble)
-- [Key legal requirements for launching an app internationally](https://dev.to/legarithm/key-legal-requirements-for-launching-an-app-internationally-187h)
+- [Fixing ASUS ROG Flow Z13 &lpar;2025&rpar; Keyboard Lid Wakeup Issue on Fedora Linux](https://dev.to/ankk98/fixing-asus-rog-flow-z13-2025-keyboard-lid-wakeup-issue-on-fedora-linux-4bcf)
+- [Why Smart SMBs Are Moving to Cloud ERP](https://dev.to/jackryan365/why-smart-smbs-are-moving-to-cloud-erp-5380)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
