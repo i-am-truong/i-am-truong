@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [humble turtlesim](https://dev.to/naguballa77/humble-turtlesim-4916)
-- [YAML-Based Story Mapping](https://dev.to/asiryi/yaml-based-story-mapping-3bcj)
-- [For Business/System Analysts who work with ERP integrations.](https://dev.to/asiryi/for-businesssystem-analysts-who-work-with-erp-integrations-5f4)
-- [College resume templates and examples](https://dev.to/sakshi_singh_1011d1325082/college-resume-templates-and-examples-4hec)
-- [Bringing Web3 Principles to Enterprise Systems](https://dev.to/vanderleisilva/bringing-web3-principles-to-enterprise-systems-317o)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-f47)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-5aj5)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5f0a)
+- [Beyond MVC: A Deep Dive into the Codigger Application Framework&#39;s Performance Engine and Full-Stack Playbook](https://dev.to/codigger/beyond-mvc-a-deep-dive-into-the-codigger-application-frameworks-performance-engine-and-full-stack-5gdf)
+- [WPML Plugin Setup: Translate WordPress Sites Fast](https://dev.to/serveravatar/wpml-plugin-setup-translate-wordpress-sites-fast-1do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
