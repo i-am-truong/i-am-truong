@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 1: Training a Neural Network to Detect Coffee First Crack from Audio - An Agentic Development Journey with Warp](https://dev.to/syamaner/part-1-training-a-neural-network-to-detect-coffee-first-crack-from-audio-an-agentic-development-1jei)
+- [GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations](https://dev.to/paperium/gyroswin-5d-surrogates-for-gyrokinetic-plasma-turbulence-simulations-27i8)
 - [Async Programming in C#](https://dev.to/eli77rhm/async-programming-in-c-13jg)
+- [I created a website to learn Morse code in a simple way. I hope its helpful](https://dev.to/palmaner_7d9672e05163ac85/i-created-a-website-to-learn-morse-code-in-a-simple-way-i-hope-its-helpful-7hb)
 - [Proper Key Derivation and Cryptographic Session Setup: Best Practices for Secure Communication](https://dev.to/securebitchat/proper-key-derivation-and-cryptographic-session-setup-best-practices-for-secure-communication-he2)
-- [Too Many Em Dashes, Not Enough Sense](https://dev.to/ikhaledabdelfattah/too-many-em-dashes-not-enough-sense-d44)
-- [Type-Checked Host Bindings in Angular—what it is, why it matters, and how it works behind the scenes.](https://dev.to/sunny7899/type-checked-host-bindings-in-angular-what-it-is-why-it-matters-and-how-it-works-behind-the-1bdp)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-4c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
