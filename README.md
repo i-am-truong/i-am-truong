@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unifying Enterprise Knowledge Search with MindsDB](https://dev.to/prasanna_fdb846e8c3a99074/unifying-enterprise-knowledge-search-with-mindsdb-2cho)
-- [🧠 The Death of Manual Email Campaigns: Automating Newsletters with AI](https://dev.to/surajai/the-death-of-manual-email-campaigns-automating-newsletters-with-ai-n74)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-44di)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-8ca)
-- [When to Use OpenAI + Tools vs a Workflow Runtime](https://dev.to/js402/when-to-use-openai-tools-vs-a-workflow-runtime-1n6f)
+- [Filtering 221 AI Prompts to Find the Most Useful Ones for My Obsidian Notes](https://dev.to/trkaplan/filtering-221-ai-prompts-to-find-the-most-useful-ones-for-my-obsidian-notes-pkk)
+- [Online Tech Accessories Store: Redefining the Way You Shop for Gadgets](https://dev.to/rapidcellphone/online-tech-accessories-store-redefining-the-way-you-shop-for-gadgets-6an)
+- [Customer Insights: Using A/B Testing to Build Accurate Buyer Personas](https://dev.to/dipti_m_2e7ba36c478d1a48a/customer-insights-using-ab-testing-to-build-accurate-buyer-personas-1767)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_083ff294/you-might-not-need-websockets-the-simple-power-of-server-sent-events-55f7)
+- [Code Reading Analysis – Repomix Ignore Feature](https://dev.to/kkrishnan10/code-reading-analysis-repomix-ignore-feature-mem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
