@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Most Dangerous Problem With Using AI for Coding](https://dev.to/canro91/the-most-dangerous-problem-with-using-ai-for-coding-m3l)
-- [Introducing LinuxCommandHub: Your Free Guide to Linux Mastery](https://dev.to/bdoftech/introducing-linuxcommandhub-your-free-guide-to-linux-mastery-42j0)
-- [Vibing with Side Projects.](https://dev.to/surajfale/vibing-with-side-projects-507c)
-- [Real-Time Blockchain Analytics Dashboard for Dynex Holder Incentive Program](https://dev.to/logicencoder/real-time-blockchain-analytics-dashboard-for-dynex-holder-incentive-program-487h)
-- [Complete Guide: Automating Deployment with GitHub Webhooks, Nginx, and Shell Scripts](https://dev.to/udara_dananjaya/complete-guide-automating-deployment-with-github-webhooks-nginx-and-shell-scripts-gp0)
+- [How your compiler finds the data that is stored inside the variable &lpar;Symbol table&rpar;](https://dev.to/aanand_4d81b59bb2a50beb70/how-your-compiler-finds-the-data-that-is-stored-inside-the-variable-symbol-table-48c6)
+- [An Object Composition System for Reactive Worlds: BOCS](https://dev.to/halfcomplete/an-object-composition-system-for-reactive-worlds-bocs-449h)
+- [React Js](https://dev.to/yaswanth_krishna_81faee1e/react-oi5)
+- [5 Key Benefits Driving the Rise of Data Automation Across Industries](https://dev.to/professorpacketsniffer/5-key-benefits-driving-the-rise-of-data-automation-across-industries-2a67)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_875c0744/files-are-not-just-data-a-guide-to-robust-file-handling-2hpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
