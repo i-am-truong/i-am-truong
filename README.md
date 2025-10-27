@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java LinkedHashSet Explained: The Ordered &amp; Unique Collection](https://dev.to/satyam_gupta_0d1ff2152dcc/java-linkedhashset-explained-the-ordered-unique-collection-27lb)
-- [Java HashSet Demystified: Your Ultimate Guide to Unordered, Unique Collections](https://dev.to/satyam_gupta_0d1ff2152dcc/java-hashset-demystified-your-ultimate-guide-to-unordered-unique-collections-62i)
-- [Understanding Docker multi-stage builds](https://dev.to/u11d/understanding-docker-multi-stage-builds-572n)
-- [Beyond Hacktoberfest: Building a True Open Source Journey](https://dev.to/adiatiayu/beyond-hacktoberfest-building-a-true-open-source-journey-3pci)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1poj)
+- [From 12 Days to 1: How AI Is Reshaping the Entire Architectural Design Workflow](https://dev.to/futureform_lab/from-12-days-to-1-how-ai-is-reshaping-the-entire-architectural-design-workflow-5e8b)
+- [Check out the interview Taylor from Lucid Software](https://dev.to/googleworkspace/check-out-the-interview-taylor-from-lucid-software-566d)
+- [How I Created a Semantic Cache Library for AI](https://dev.to/vcalproject/how-i-created-a-semantic-cache-library-for-ai-863)
+- [SSH Port Forwarding: The Developer’s Hidden Superpower](https://dev.to/lightningdev123/ssh-port-forwarding-the-developers-hidden-superpower-3ble)
+- [Key legal requirements for launching an app internationally](https://dev.to/legarithm/key-legal-requirements-for-launching-an-app-internationally-187h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
