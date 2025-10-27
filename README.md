@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an Enhanced Squoosh: High-Performance Local Image Compression with libimagequant-wasm](https://dev.to/alixwang/building-an-enhanced-squoosh-high-performance-local-image-compression-with-libimagequant-wasm-2ja6)
-- [JS + DSA Roadmap &lpar;3–4 Months&rpar;](https://dev.to/nitinmalviy/js-dsa-roadmap-3-4-months-4c1)
-- [SECURE AI AGENT FOR BUILDING SAXY LOOKING APPS](https://dev.to/suvo-dev/secure-ai-agent-for-building-saxy-looking-apps-37m8)
-- [Greetings guy&#39;s!](https://dev.to/badal_8900/greetings-guys-4ij9)
-- [Frontend &amp; Java script Interview Questions](https://dev.to/nitinmalviy/frontend-java-script-interview-questions-1f9l)
+- [Quark’s Outlines: Python Classes](https://dev.to/mike-vincent/quarks-outlines-python-classes-kk9)
+- [Paywall Optimization: How Better Design Drives Higher Subscription Conversion](https://dev.to/paywallpro/paywall-optimization-how-better-design-drives-higher-subscription-conversion-4moo)
+- [Assistant0 - Secure AI Personal Assistant](https://dev.to/async_dime/assistant0-secure-ai-personal-assistant-l11)
+- [What The Pack - AI Mission Control for D2C Logistics](https://dev.to/rokimiftah/what-the-pack-ai-mission-control-for-d2c-logistics-13a6)
+- [🤖Custom Embeddable Secure Agentic Chatbot for SaaS Applications](https://dev.to/sarahokolo/custom-embeddable-secure-agentic-chatbot-for-saas-applications-2hga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
