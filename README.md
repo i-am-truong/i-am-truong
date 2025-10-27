@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From DevOps to Data Ethics: Why Every Engineer Needs GDPR Training](https://dev.to/mehwish_malik_4f29ff7fb04/from-devops-to-data-ethics-why-every-engineer-needs-gdpr-training-3g0b)
-- [New Year Countdown 2026](https://dev.to/leandro_moraes_640ef8a585/new-year-countdown-2026-3kgn)
-- [Beyond Grep and Vectors: Reimagining Code Retrieval for AI Agents](https://dev.to/akshat_ilen/beyond-grep-and-vectors-reimagining-code-retrieval-for-ai-agents-4pb2)
-- [How AI Sales Execution Platforms Bridge the Gap Between Strategy and Results](https://dev.to/chrispatterson/how-ai-sales-execution-platforms-bridge-the-gap-between-strategy-and-results-4h99)
-- [🔥 10 Mistakes Senior Developers Still Make &lpar;Are You Making Them Too?&rpar;](https://dev.to/sylwia-lask/10-mistakes-senior-developers-still-make-are-you-making-them-too-ndf)
+- [Unlocking Developer Revenue: The Dual-Earning Path for AI and LLM Apps](https://dev.to/monetzly/unlocking-developer-revenue-the-dual-earning-path-for-ai-and-llm-apps-1nnf)
+- [Learning to Route LLMs from Bandit Feedback: One Policy, Many Trade-offs](https://dev.to/paperium/learning-to-route-llms-from-bandit-feedback-one-policy-many-trade-offs-266d)
+- [From Binary to Brilliance: How Compilers Learned to Write Compilers a.k.a Bootstrapping](https://dev.to/biswasprasana001/from-binary-to-brilliance-how-compilers-learned-to-write-compilers-aka-bootstrapping-3ef3)
+- [Day 26 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-26-of-100-days-dsa-coding-challenge-3lp4)
+- [How my day went](https://dev.to/devmarsh/how-my-day-went-1poh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
