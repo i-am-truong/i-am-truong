@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-3o7n)
-- [Stop Overengineering: My 3-Step Framework That Helps Save Weeks of Wasted Work](https://dev.to/mbkhalid23/stop-overengineering-my-3-step-framework-that-helps-save-weeks-of-wasted-work-4hnj)
-- [IELTS 1th 30 days](https://dev.to/elshod_ibodullayev_c4cbdc/ielts-30-days-3n23)
-- [DNSao: Pi-hole alternative looking for tests/feedback](https://dev.to/vitallan/dnsao-pi-hole-alternative-looking-for-testsfeedback-2ema)
-- [Running a lightweight Kubernetes &lpar;K8s&rpar; cluster locally with K3s](https://dev.to/sardinessz/running-local-kubernetes-k8s-cluster-with-k3s-2p8l)
+- [From Anemic Models to Rich Domain: Implementing Clean DDD Architecture in Symfony 6.4](https://dev.to/igornosatov_15/from-anemic-models-to-rich-domain-implementing-clean-ddd-architecture-in-symfony-64-33g7)
+- [Love Cursor but Need Options? 7 AI Tools That Excel Where Cursor Doesn’t](https://dev.to/matt_tanner_f9c36595644ad/love-cursor-but-need-options-7-ai-tools-that-excel-where-cursor-doesnt-49p3)
+- [The Best Idle Games That Will Consume Your Life &lpar;In the Most Delightful Way&rpar;](https://dev.to/pinkcrow/the-best-idle-games-that-will-consume-your-life-in-the-most-delightful-way-4i6h)
+- [The Importance of Cloud-Based General Surgery EHRs for Scalability and Flexibility](https://dev.to/nexusclinical/the-importance-of-cloud-based-general-surgery-ehrs-for-scalability-and-flexibility-1m06)
+- [The Full-Stack Convergence: Strategic Trends and the Content Pillars of Developer Experience &lpar;2025-2026&rpar;](https://dev.to/prashant_sharma_2558e2093/the-full-stack-convergence-strategic-trends-and-the-content-pillars-of-developer-experience-3465)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
