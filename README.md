@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[Boost]](https://dev.to/ben/-3o7n)
+- [Stop Overengineering: My 3-Step Framework That Helps Save Weeks of Wasted Work](https://dev.to/mbkhalid23/stop-overengineering-my-3-step-framework-that-helps-save-weeks-of-wasted-work-4hnj)
 - [IELTS 1th 30 days](https://dev.to/elshod_ibodullayev_c4cbdc/ielts-30-days-3n23)
 - [DNSao: Pi-hole alternative looking for tests/feedback](https://dev.to/vitallan/dnsao-pi-hole-alternative-looking-for-testsfeedback-2ema)
 - [Running a lightweight Kubernetes &lpar;K8s&rpar; cluster locally with K3s](https://dev.to/sardinessz/running-local-kubernetes-k8s-cluster-with-k3s-2p8l)
-- [📝 Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL 💾](https://dev.to/deepana_ee9087276132ad19f/understanding-transactions-deadlocks-log-based-recovery-in-sql-266m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
