@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Next Pull Request Will Come From a Product Manager](https://dev.to/signadot/your-next-pull-request-will-come-from-a-product-manager-2odk)
-- [New feature with token count](https://dev.to/slyang08/new-feature-with-token-count-3ic)
-- [Modular, API-First SaaS: What DevOps Engineers Must Know Now](https://dev.to/artyom_mukhopad_a9444ed6d/modular-api-first-saas-what-devops-engineers-must-know-now-2nj)
-- [Physical &amp; Digital Setups &lpar;what you actually deploy&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/physical-digital-setups-what-you-actually-deploy-427p)
-- [🧠 Mastering Data Structures in Java — Part 3: Stack](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-3-stack-3p7g)
+- [The Rejection Email Hit Different When It Was the Fifth One](https://dev.to/sundance/the-rejection-email-hit-different-when-it-was-the-fifth-one-l1b)
+- [Games design themselves. From RTS to Tactical Strategy game](https://dev.to/terrillo/games-design-themselves-from-rts-to-tactical-strategy-game-3fac)
+- [Day v3: Late Starts, Git Revisions, and the Chaos of Balancing Everything](https://dev.to/casperday11/day-v3-late-starts-git-revisions-and-the-chaos-of-balancing-everything-2n5a)
+- [How I Built a Lightweight Diff Tool with Unlimited Merge - Diff Guru](https://dev.to/diffguru/how-i-built-a-lightweight-diff-tool-with-unlimited-merge-diff-guru-2nhp)
+- [New structured platform for 5-person circles](https://dev.to/goconnect/new-structured-platform-for-5-person-circles-an-alternative-to-noise-35ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
