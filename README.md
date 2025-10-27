@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [eb3/Web4 Manga Stack — with MindsEye, BlueFlow, Binflow &amp; PoF](https://dev.to/p_thabiwa_0ca34c2f83/eb3web4-manga-stack-with-mindseye-blueflow-binflow-pof-53me)
-- [Introducing react-state-custom: A Hook-First State Management Library](https://dev.to/vothanhdat/introducing-react-state-custom-a-hook-first-state-management-library-13g8)
-- [Seamless Data Transformation: Converting CSV to Excel and Excel to CSV in Java](https://dev.to/lu_liu_e3fc806354d9a952b7/seamless-data-transformation-converting-csv-to-excel-and-excel-to-csv-in-java-2e85)
-- [#java](https://dev.to/saraswathi_p_d12f8b88b244/java-3pop)
-- [When async design meets rhythm-driven feedback](https://dev.to/koni_jang/when-async-design-meets-rhythm-driven-feedback-4ihc)
+- [Java LinkedHashSet Explained: The Ordered &amp; Unique Collection](https://dev.to/satyam_gupta_0d1ff2152dcc/java-linkedhashset-explained-the-ordered-unique-collection-27lb)
+- [Java HashSet Demystified: Your Ultimate Guide to Unordered, Unique Collections](https://dev.to/satyam_gupta_0d1ff2152dcc/java-hashset-demystified-your-ultimate-guide-to-unordered-unique-collections-62i)
+- [Understanding Docker multi-stage builds](https://dev.to/u11d/understanding-docker-multi-stage-builds-572n)
+- [Beyond Hacktoberfest: Building a True Open Source Journey](https://dev.to/adiatiayu/beyond-hacktoberfest-building-a-true-open-source-journey-3pci)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1poj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
