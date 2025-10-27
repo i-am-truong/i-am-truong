@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Viewport Units Solve CSS Problems I Used to Have](https://dev.to/taskin_mohammadmubassir_/how-viewport-units-solve-css-problems-i-used-to-have-252l)
-- [How AI Transparency Can Solve the Black-Box Problem](https://dev.to/umang_suthar_9bad6f345a8a/how-ai-transparency-can-solve-the-black-box-problem-593o)
-- [🧩 Mastering the Manager Pattern in Laravel — Build Pluggable, Scalable Architectures](https://dev.to/bhaidar/mastering-the-manager-pattern-in-laravel-build-pluggable-scalable-architectures-47kp)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_ece4a271/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-46mg)
-- [How to set up Jest + RTL on Vite &amp; React](https://dev.to/shelner/how-to-set-up-jest-rtl-on-vite-react-2209)
+- [The Most Effective .NET Core Tip: Master Dependency Injection for Cleaner Code](https://dev.to/mina_golzari_dalir/the-most-effective-net-core-tip-master-dependency-injection-for-cleaner-code-5akm)
+- [AngularJS vs Node.js: Understanding the Core Differences for Modern Web Apps](https://dev.to/lucy1/angularjs-vs-nodejs-understanding-the-core-differences-for-modern-web-apps-143d)
+- [How MIA is Shaping the Future of Conversational AI for Businesses](https://dev.to/supermia/how-mia-is-shaping-the-future-of-conversational-ai-for-businesses-306n)
+- [Why Marketers Who Build Attribution Frameworks Will Shape the Next Decade of Growth](https://dev.to/saka_satish_661/why-marketers-who-build-attribution-frameworks-will-shape-the-next-decade-of-growth-2bo8)
+- [My Experience with GoFr – Building Backend Apps Faster Than Ever!](https://dev.to/kavya_turkar_62fc71116af7/my-experience-with-gofr-building-backend-apps-faster-than-ever-3mmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
