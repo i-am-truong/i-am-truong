@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use behavioral scoring in B2B outbound strategies](https://dev.to/leo_johnson_e34af4a6d9bd9/how-to-use-behavioral-scoring-in-b2b-outbound-strategies-1je6)
-- [FarmSmart Maintainer Spotlight: Your AI-Powered Farming Companion](https://dev.to/braimer/farmsmart-maintainer-spotlight-your-ai-powered-farming-companion-5725)
-- [5 Weeks of Learning: Week4](https://dev.to/akshitaexe/5-weeks-of-learning-week4-1gf6)
-- [AI-Driven Data Mapping: Smarter Field Matching Between SAP &amp; Salesforce](https://dev.to/builderyo/ai-driven-data-mapping-smarter-field-matching-between-sap-salesforce-370a)
-- [Contributing to Ubuntu — Day 2: When I understood the Train 🚂](https://dev.to/geniusmind9999/contributing-to-ubuntu-day-2-when-i-understood-the-train-23cn)
+- [Serverless vs. Containers: Picking the Right Tech for Your 2025 Project](https://dev.to/karthik_n/serverless-vs-containers-picking-the-right-tech-for-your-2025-project-1mdn)
+- [How to Use ClamAV and Malware Scanners on Your Server](https://dev.to/serveravatar/how-to-use-clamav-and-malware-scanners-on-your-server-28hg)
+- [Understanding the Basics of Web Application Architecture](https://dev.to/momen_hq/understanding-the-basics-of-web-application-architecture-9ma)
+- [Why I Switched from New Relic APM to a Simpler Alternative](https://dev.to/noah_anderson_56baac5ad6b/why-i-switched-from-new-relic-apm-to-a-simpler-alternative-fbg)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_25c2e834/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-cf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
