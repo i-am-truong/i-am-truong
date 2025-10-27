@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Seconds to Milliseconds: Fixing Python Cold Starts with SnapStart](https://dev.to/aws-builders/from-seconds-to-milliseconds-fixing-python-cold-starts-with-snapstart-59mn)
-- [What is my way to trace feature in the new project](https://dev.to/whyang9701/what-is-my-way-to-trace-feature-in-the-new-project-39o6)
-- [🧩 Automated Documentation using MkDocs and Python](https://dev.to/xandecodes/automated-documentation-using-mkdocs-and-python-27)
-- [🕒 Automating Periodic Tasks with EventBridge Scheduler, .NET, and CloudFormation](https://dev.to/bassem-hussein/automating-periodic-tasks-with-eventbridge-scheduler-net-and-cloudformation-3njd)
-- [Building an Organized API in Golang Using Fiber](https://dev.to/xandecodes/building-an-organized-api-in-golang-using-fiber-2pb8)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-3lkk)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1fji)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-pkd)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4o65)
+- [Instalación de Brave en Parrot/Kali/Linux](https://dev.to/mister_keto/instalacion-de-brave-en-parrotlinux-4kkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
