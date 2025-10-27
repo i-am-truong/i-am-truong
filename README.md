@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Time Speaking at AWS Community Day UAE 2025 — A Journey to Remember 🎤✨](https://dev.to/aws-builders/my-first-time-speaking-at-aws-community-day-uae-2025-a-journey-to-remember-3155)
 - [How I built a movie suggestion app with zero ML experience](https://dev.to/dbho/how-i-built-a-movie-suggestion-app-with-zero-ml-experience-4ihe)
 - [Building a Cost Explorer Alternative: Architecture Decisions and Tradeoffs](https://dev.to/cloudwiseteam/building-a-cost-explorer-alternative-architecture-decisions-and-tradeoffs-46fd)
 - [What if the Internet had been built differently?](https://dev.to/tech_girllll/what-if-the-internet-had-been-built-differently-5chk)
 - [JavaScript](https://dev.to/vidya_cdd37fca763a53a10e2/javascript-1j09)
-- [🚀 30 Days of Red Team — A Hands-On Ethical Hacking Journey](https://dev.to/maxwellcross/30-days-of-red-team-a-hands-on-ethical-hacking-journey-2e1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
