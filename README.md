@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Serverless vs. Containers: Picking the Right Tech for Your 2025 Project](https://dev.to/karthik_n/serverless-vs-containers-picking-the-right-tech-for-your-2025-project-1mdn)
-- [How to Use ClamAV and Malware Scanners on Your Server](https://dev.to/serveravatar/how-to-use-clamav-and-malware-scanners-on-your-server-28hg)
-- [Understanding the Basics of Web Application Architecture](https://dev.to/momen_hq/understanding-the-basics-of-web-application-architecture-9ma)
-- [Why I Switched from New Relic APM to a Simpler Alternative](https://dev.to/noah_anderson_56baac5ad6b/why-i-switched-from-new-relic-apm-to-a-simpler-alternative-fbg)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_25c2e834/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-cf7)
+- [Content-visibility: Boost Amazon product grid &lpar;or any long grid&rpar; performance with one CSS property](https://dev.to/nefedov-dm/content-visibility-boost-amazon-product-grid-or-any-long-grid-performance-with-one-css-property-1mfg)
+- [Stress testing: How to push software beyond its limits and build unbreakable systems](https://dev.to/gatling/stress-testing-how-to-push-software-beyond-its-limits-and-build-unbreakable-systems-2f5b)
+- [AI’s Trap: Settling for Boilerplate Over Elegant Code](https://dev.to/dayvster/ais-trap-settling-for-boilerplate-over-elegant-code-n32)
+- [Minimal Handmade Rings You’ll Love](https://dev.to/jennifer_thomas/minimal-handmade-rings-youll-love-3bf2)
+- [⚛️ Master React, The Pure Way](https://dev.to/ml318097/master-react-the-pure-way-49l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
