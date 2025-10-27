@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [humble turtlesim](https://dev.to/naguballa77/humble-turtlesim-4916)
 - [YAML-Based Story Mapping](https://dev.to/asiryi/yaml-based-story-mapping-3bcj)
 - [For Business/System Analysts who work with ERP integrations.](https://dev.to/asiryi/for-businesssystem-analysts-who-work-with-erp-integrations-5f4)
 - [College resume templates and examples](https://dev.to/sakshi_singh_1011d1325082/college-resume-templates-and-examples-4hec)
 - [Bringing Web3 Principles to Enterprise Systems](https://dev.to/vanderleisilva/bringing-web3-principles-to-enterprise-systems-317o)
-- [Recommendations on how to properly troubleshoot integration issues in support.](https://dev.to/asiryi/recommendations-on-how-to-properly-troubleshoot-integration-issues-in-support-ccn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
