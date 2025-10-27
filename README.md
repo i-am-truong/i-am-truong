@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using ngIf and ngFor in Angular](https://dev.to/najilouis/why-i-stopped-using-ngif-and-ngfor-in-angular-3m9m)
-- [Project 1 - SE371 Ayaan Ahmed](https://dev.to/ayaan_ahmed_a95071c3fb797/project-1-se371-ayaan-ahmed-oh7)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_3bfe2e68/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-mlp)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-12gf)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_083ff294/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-3pmd)
+- [Como Construí uma Calculadora de Horas e Por Que Todo Freelancer Precisa de Uma](https://dev.to/james-smithh/como-construi-uma-calculadora-de-horas-e-por-que-todo-freelancer-precisa-de-uma-184p)
+- [Rick Beato: The Greatest Guitar Solo...Period](https://dev.to/music_youtube/rick-beato-the-greatest-guitar-soloperiod-4c93)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-462d)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4aee)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-234i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
