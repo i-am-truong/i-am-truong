@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-f47)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-5aj5)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5f0a)
-- [Beyond MVC: A Deep Dive into the Codigger Application Framework&#39;s Performance Engine and Full-Stack Playbook](https://dev.to/codigger/beyond-mvc-a-deep-dive-into-the-codigger-application-frameworks-performance-engine-and-full-stack-5gdf)
-- [WPML Plugin Setup: Translate WordPress Sites Fast](https://dev.to/serveravatar/wpml-plugin-setup-translate-wordpress-sites-fast-1do)
+- [Case Study: Tuya SDK Development for OEM App Migration](https://dev.to/zediot/case-study-tuya-sdk-development-for-oem-app-migration-587l)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_875c0744/that-real-time-headache-its-not-the-websockets-its-your-framework-5429)
+- [🐍 Python Multithreading vs Multiprocessing: A Beginner&#39;s Guide](https://dev.to/codeneuron/python-multithreading-vs-multiprocessing-a-beginners-guide-2fhb)
+- [Secure Embeddable Chatbots for SaaS: Auth &amp; Security Guide](https://dev.to/shubham_joshi_expert/secure-embeddable-chatbots-for-saas-auth-security-guide-2il)
+- [How to Do Annapurna Base Camp Trek](https://dev.to/sahzad_ahmad_30e1878e078e/how-to-do-annapurna-base-camp-trek-5bfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
