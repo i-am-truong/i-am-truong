@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Anemic Models to Rich Domain: Implementing Clean DDD Architecture in Symfony 6.4](https://dev.to/igornosatov_15/from-anemic-models-to-rich-domain-implementing-clean-ddd-architecture-in-symfony-64-33g7)
-- [Love Cursor but Need Options? 7 AI Tools That Excel Where Cursor Doesn’t](https://dev.to/matt_tanner_f9c36595644ad/love-cursor-but-need-options-7-ai-tools-that-excel-where-cursor-doesnt-49p3)
-- [The Best Idle Games That Will Consume Your Life &lpar;In the Most Delightful Way&rpar;](https://dev.to/pinkcrow/the-best-idle-games-that-will-consume-your-life-in-the-most-delightful-way-4i6h)
-- [The Importance of Cloud-Based General Surgery EHRs for Scalability and Flexibility](https://dev.to/nexusclinical/the-importance-of-cloud-based-general-surgery-ehrs-for-scalability-and-flexibility-1m06)
-- [The Full-Stack Convergence: Strategic Trends and the Content Pillars of Developer Experience &lpar;2025-2026&rpar;](https://dev.to/prashant_sharma_2558e2093/the-full-stack-convergence-strategic-trends-and-the-content-pillars-of-developer-experience-3465)
+- [Unifying Enterprise Knowledge Search with MindsDB](https://dev.to/prasanna_fdb846e8c3a99074/unifying-enterprise-knowledge-search-with-mindsdb-2cho)
+- [🧠 The Death of Manual Email Campaigns: Automating Newsletters with AI](https://dev.to/surajai/the-death-of-manual-email-campaigns-automating-newsletters-with-ai-n74)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-44di)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-8ca)
+- [When to Use OpenAI + Tools vs a Workflow Runtime](https://dev.to/js402/when-to-use-openai-tools-vs-a-workflow-runtime-1n6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
