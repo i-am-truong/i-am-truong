@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bytearray in Python &lpar;3&rpar;](https://dev.to/hyperkai/bytearray-in-python-3-4cdp)
-- [How to Use Code Coverage to Identify Untested Code Paths?](https://dev.to/sophielane/how-to-use-code-coverage-to-identify-untested-code-paths-3305)
-- [Vibe Coding: The Good, The Bad, and The Architect&#39;s New Role](https://dev.to/sanjaynaker/vibe-coding-the-good-the-bad-and-the-architects-new-role-1i0n)
-- [Kubernetes GitOps: How to Manage &amp; Automate Deployments](https://dev.to/spacelift/kubernetes-gitops-how-to-manage-automate-deployments-3odl)
-- [How to Integrate Google Sheets API with Shopify Using OAuth 2.0](https://dev.to/lucy1/how-to-integrate-google-sheets-api-with-shopify-using-oauth-20-47nn)
+- [🖥️ Which OS Is Better for Web Development and Why?](https://dev.to/hamidrazadev/which-os-is-better-for-web-development-and-why-50oc)
+- [How to Optimize Mobile Apps for Performance and Battery Life](https://dev.to/lacey_glenn_e95da24922778/how-to-optimize-mobile-apps-for-performance-and-battery-life-14hk)
+- [React Suspense - Me too I can throw Promises if I want...](https://dev.to/isaaacdotdev/react-suspense-me-too-i-can-throw-promises-if-i-want-p1h)
+- [A quiet rewrite of the Web: PureScript on the rooftops of JavaScript](https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61)
+- [Create Animated Borders Using Only CSS.](https://dev.to/bittokks/create-animated-borders-using-only-css-3id3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
