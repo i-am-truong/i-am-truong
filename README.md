@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔁 Logic App Resubmission Behaviour Explained with clientTrackingId and sourceHistoryName](https://dev.to/imdj/logic-app-resubmission-behaviour-explained-with-clienttrackingid-and-sourcehistoryname-22m5)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-535f)
-- [Sprint Workflow: A Beginner&#39;s Guide to Agile Development](https://dev.to/michaellarocca/sprint-workflow-a-beginners-guide-to-agile-development-22pi)
-- [Top AI 7 Agent Supervision Platforms in 2025](https://dev.to/aryankargwal/top-ai-7-agent-supervision-platforms-in-2025-2767)
-- [Swagger: Resumindo minha visão](https://dev.to/oigorrudel/swagger-resumindo-minha-visao-4o1d)
+- [Proper Key Derivation and Cryptographic Session Setup: Best Practices for Secure Communication](https://dev.to/securebitchat/proper-key-derivation-and-cryptographic-session-setup-best-practices-for-secure-communication-he2)
+- [Too Many Em Dashes, Not Enough Sense](https://dev.to/ikhaledabdelfattah/too-many-em-dashes-not-enough-sense-d44)
+- [Bybit вход в личный кабинет: как не ошибиться при авторизации и защитить аккаунт](https://dev.to/quick_snail/bybit-vkhod-v-lichnyi-kabiniet-kak-nie-oshibitsia-pri-avtorizatsii-i-zashchitit-akkaunt-4ghn)
+- [Type-Checked Host Bindings in Angular—what it is, why it matters, and how it works behind the scenes.](https://dev.to/sunny7899/type-checked-host-bindings-in-angular-what-it-is-why-it-matters-and-how-it-works-behind-the-1bdp)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-4c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
