@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Complete MySQL Tutorial &lpar;2025&rpar;: From Basics to Advanced | Tpoint Tech](https://dev.to/tpointtechblog/complete-mysql-tutorial-2025-from-basics-to-advanced-tpoint-tech-1ob6)
-- [When Cron Jobs Fail in Cloud: How I Solved It in Azure App Service](https://dev.to/techwithhari/when-cron-jobs-fail-in-cloud-how-i-solved-it-in-azure-app-service-5873)
-- [🧾 Building “Listo” — My Grocery List App &lpar;Work in Progress&rpar;](https://dev.to/usama_dev/building-listo-my-grocery-list-app-work-in-progress-1c1c)
-- [Debugging a Production KYC System — A Multi-Layer Problem Solving Guide I Wrote After 3 Days of Infrastructure Hell](https://dev.to/wintrover/debugging-a-production-kyc-system-a-multi-layer-problem-solving-guide-i-wrote-after-3-days-of-1k9k)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-481f)
+- [The Most Dangerous Problem With Using AI for Coding](https://dev.to/canro91/the-most-dangerous-problem-with-using-ai-for-coding-m3l)
+- [Introducing LinuxCommandHub: Your Free Guide to Linux Mastery](https://dev.to/bdoftech/introducing-linuxcommandhub-your-free-guide-to-linux-mastery-42j0)
+- [Vibing with Side Projects.](https://dev.to/surajfale/vibing-with-side-projects-507c)
+- [Real-Time Blockchain Analytics Dashboard for Dynex Holder Incentive Program](https://dev.to/logicencoder/real-time-blockchain-analytics-dashboard-for-dynex-holder-incentive-program-487h)
+- [Complete Guide: Automating Deployment with GitHub Webhooks, Nginx, and Shell Scripts](https://dev.to/udara_dananjaya/complete-guide-automating-deployment-with-github-webhooks-nginx-and-shell-scripts-gp0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
