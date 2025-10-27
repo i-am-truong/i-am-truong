@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Seconds to Milliseconds: Fixing Python Cold Starts with SnapStart](https://dev.to/aws-builders/from-seconds-to-milliseconds-fixing-python-cold-starts-with-snapstart-59mn)
+- [What is my way to trace feature in the new project](https://dev.to/whyang9701/what-is-my-way-to-trace-feature-in-the-new-project-39o6)
 - [🧩 Automated Documentation using MkDocs and Python](https://dev.to/xandecodes/automated-documentation-using-mkdocs-and-python-27)
 - [🕒 Automating Periodic Tasks with EventBridge Scheduler, .NET, and CloudFormation](https://dev.to/bassem-hussein/automating-periodic-tasks-with-eventbridge-scheduler-net-and-cloudformation-3njd)
 - [Building an Organized API in Golang Using Fiber](https://dev.to/xandecodes/building-an-organized-api-in-golang-using-fiber-2pb8)
-- [Surprisingly Simple Range Sets with Bisection in Python](https://dev.to/tom65536/surprisingly-simple-range-sets-with-bisection-in-python-20hp)
-- [Docker Compose - Simple Kafka](https://dev.to/xandecodes/docker-compose-simple-kafka-1jp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
