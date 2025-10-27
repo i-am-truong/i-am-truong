@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decompression in C/C++: Virtual Files and Memory I/O Principles and Techniques](https://dev.to/stefor07/decompression-in-c-virtual-files-and-memory-io-principles-and-techniques-1pih)
-- [How to Secure a Legal AI Chatbot So It Doesn’t Leak Client Data With Easy Steps to Protect Your Law Firm](https://dev.to/heyjoshlee/how-to-secure-a-legal-ai-chatbot-so-it-doesnt-leak-client-data-with-easy-steps-to-protect-your-law-3di9)
-- [Implementing Minimax for Game AI: From Basic Algorithm to Optimized Search](https://dev.to/magnitopic/implementing-minimax-for-game-ai-from-basic-algorithm-to-optimized-search-2mmo)
-- [Month 5 Day 121–150 Mock Tests + Speaking Fluency Focus](https://dev.to/elshod_ibodullayev_c4cbdc/month-5-day-121-150-mock-tests-speaking-fluency-focus-58ek)
-- [Month 4 Day 91–120 Full Real Practice &amp; Timing Control](https://dev.to/elshod_ibodullayev_c4cbdc/month-4-day-91-120-full-real-practice-timing-control-51hi)
+- [🔁 Logic App Resubmission Behaviour Explained with clientTrackingId and sourceHistoryName](https://dev.to/imdj/logic-app-resubmission-behaviour-explained-with-clienttrackingid-and-sourcehistoryname-22m5)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-535f)
+- [Sprint Workflow: A Beginner&#39;s Guide to Agile Development](https://dev.to/michaellarocca/sprint-workflow-a-beginners-guide-to-agile-development-22pi)
+- [Top AI 7 Agent Supervision Platforms in 2025](https://dev.to/aryankargwal/top-ai-7-agent-supervision-platforms-in-2025-2767)
+- [Swagger: Resumindo minha visão](https://dev.to/oigorrudel/swagger-resumindo-minha-visao-4o1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
