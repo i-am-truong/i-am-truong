@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Em Dash Trap: How a Tiny Symbol Can Outsmart Your AI Cover | Lumir S Vinod](https://dev.to/lumirysm/the-em-dash-trap-how-a-tiny-symbol-can-outsmart-your-ai-cover-lumir-s-vinod-1do0)
-- [Making AI sound like a human should be illegal](https://dev.to/wickathou/making-ai-sound-like-a-human-should-be-illegal-448l)
-- [From 12 Days to 1: How AI Is Reshaping the Entire Architectural Design Workflow](https://dev.to/futureform_lab/from-12-days-to-1-how-ai-is-reshaping-the-entire-architectural-design-workflow-5e8b)
-- [Fixing ASUS ROG Flow Z13 &lpar;2025&rpar; Keyboard Lid Wakeup Issue on Fedora Linux](https://dev.to/ankk98/fixing-asus-rog-flow-z13-2025-keyboard-lid-wakeup-issue-on-fedora-linux-4bcf)
-- [Why Smart SMBs Are Moving to Cloud ERP](https://dev.to/jackryan365/why-smart-smbs-are-moving-to-cloud-erp-5380)
+- [Understanding Hoisting in JavaScript: A Simple Guide](https://dev.to/taskin_mohammadmubassir_/understanding-hoisting-in-javascript-a-simple-guide-574k)
+- [Compose Beginner 1: Why Jetpack Compose Changed Android Forever](https://dev.to/abizer_r/compose-beginner-1-why-jetpack-compose-changed-android-forever-3jag)
+- [CNCF [Cloud Native Computing Foundation]: Enabling Multi-Cluster Load Balancing with Gateway API and Envoy Gateway](https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-enabling-multi-cluster-load-balancing-with-gateway-api-4dcb)
+- [CNCF [Cloud Native Computing Foundation]: Crossing the border - VM goes on a BGP adventure - Or Mergi](https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-crossing-the-border-vm-goes-on-a-bgp-adventure-or-1acl)
+- [Boost Your Visibility: Why You Need a Specialized Adult SEO Company](https://dev.to/rachelbrown/boost-your-visibility-why-you-need-a-specialized-adult-seo-company-3cmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
