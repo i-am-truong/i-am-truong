@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Rejection Email Hit Different When It Was the Fifth One](https://dev.to/sundance/the-rejection-email-hit-different-when-it-was-the-fifth-one-l1b)
-- [Games design themselves. From RTS to Tactical Strategy game](https://dev.to/terrillo/games-design-themselves-from-rts-to-tactical-strategy-game-3fac)
-- [Day v3: Late Starts, Git Revisions, and the Chaos of Balancing Everything](https://dev.to/casperday11/day-v3-late-starts-git-revisions-and-the-chaos-of-balancing-everything-2n5a)
-- [How I Built a Lightweight Diff Tool with Unlimited Merge - Diff Guru](https://dev.to/diffguru/how-i-built-a-lightweight-diff-tool-with-unlimited-merge-diff-guru-2nhp)
-- [New structured platform for 5-person circles](https://dev.to/goconnect/new-structured-platform-for-5-person-circles-an-alternative-to-noise-35ck)
+- [Introduction to Python Module Three Part Two: Loops](https://dev.to/theoriginalbpc/introduction-to-python-module-three-part-two-loops-klk)
+- [Swift SDK for Android is Here: Build Native Android Apps with Swift](https://dev.to/arshtechpro/swift-sdk-for-android-is-here-build-native-android-apps-with-swift-1372)
+- [The Dangers of Dynamic Method Calls in PHP](https://dev.to/ashallendesign/the-dangers-of-dynamic-method-calls-in-php-5amn)
+- [Front End Meta Course](https://dev.to/hughbenmoore/front-end-meta-course-4d1p)
+- [Les développeurs au cœur de la révolution blockchain : du code à la confiance](https://dev.to/nicomiayo/les-developpeurs-au-coeur-de-la-revolution-blockchain-du-code-a-la-confiance-alm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
