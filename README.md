@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ AgentGuard: Secure and Govern Your AI Agents with Auth0 for AI](https://dev.to/techsplot/agentguard-secure-and-govern-your-ai-agents-with-auth0-for-ai-1gn)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_875c0744/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1ol2)
-- [🚀 Introducing @mcabreradev/filter: SQL-like Array Filtering for TypeScript](https://dev.to/mcabreradev/introducing-mcabreradevfilter-sql-like-array-filtering-for-typescript-2j15)
-- [2125. Number of Laser Beams in a Bank](https://dev.to/mdarifulhaque/2125-number-of-laser-beams-in-a-bank-46pn)
-- [Cracking the Vault: A Nostalgic Hack at Zero Nights 2017 🚪💻](https://dev.to/d3one/cracking-the-vault-a-nostalgic-hack-at-zero-nights-2017-ejk)
+- [Slot](https://dev.to/rk_hacker_7bcabab8c4349c4/slot-29m1)
+- [When Cron Jobs Fail in Cloud: How I Solved It in Azure App Service](https://dev.to/techwithhari/when-cron-jobs-fail-in-cloud-how-i-solved-it-in-azure-app-service-5873)
+- [🧾 Building “Listo” — My Grocery List App &lpar;Work in Progress&rpar;](https://dev.to/usama_dev/building-listo-my-grocery-list-app-work-in-progress-1c1c)
+- [Listing methods for HarmonyOS Apps](https://dev.to/harmonyos/listing-methods-for-harmonyos-apps-1hk)
+- [Entropy Regularizing Activation: Boosting Continuous Control, Large LanguageModels, and Image Classification with Activation as](https://dev.to/paperium/entropy-regularizing-activation-boosting-continuous-control-large-languagemodels-and-image-5gpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
