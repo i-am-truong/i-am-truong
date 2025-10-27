@@ -119,9 +119,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Async Programming in C#](https://dev.to/eli77rhm/async-programming-in-c-13jg)
 - [Proper Key Derivation and Cryptographic Session Setup: Best Practices for Secure Communication](https://dev.to/securebitchat/proper-key-derivation-and-cryptographic-session-setup-best-practices-for-secure-communication-he2)
 - [Too Many Em Dashes, Not Enough Sense](https://dev.to/ikhaledabdelfattah/too-many-em-dashes-not-enough-sense-d44)
-- [Bybit вход в личный кабинет: как не ошибиться при авторизации и защитить аккаунт](https://dev.to/quick_snail/bybit-vkhod-v-lichnyi-kabiniet-kak-nie-oshibitsia-pri-avtorizatsii-i-zashchitit-akkaunt-4ghn)
 - [Type-Checked Host Bindings in Angular—what it is, why it matters, and how it works behind the scenes.](https://dev.to/sunny7899/type-checked-host-bindings-in-angular-what-it-is-why-it-matters-and-how-it-works-behind-the-1bdp)
 - [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-4c6)
 <!-- BLOG-POST-LIST:END -->
