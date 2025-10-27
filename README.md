@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Slot](https://dev.to/rk_hacker_7bcabab8c4349c4/slot-29m1)
+- [Complete MySQL Tutorial &lpar;2025&rpar;: From Basics to Advanced | Tpoint Tech](https://dev.to/tpointtechblog/complete-mysql-tutorial-2025-from-basics-to-advanced-tpoint-tech-1ob6)
 - [When Cron Jobs Fail in Cloud: How I Solved It in Azure App Service](https://dev.to/techwithhari/when-cron-jobs-fail-in-cloud-how-i-solved-it-in-azure-app-service-5873)
 - [🧾 Building “Listo” — My Grocery List App &lpar;Work in Progress&rpar;](https://dev.to/usama_dev/building-listo-my-grocery-list-app-work-in-progress-1c1c)
-- [Listing methods for HarmonyOS Apps](https://dev.to/harmonyos/listing-methods-for-harmonyos-apps-1hk)
-- [Entropy Regularizing Activation: Boosting Continuous Control, Large LanguageModels, and Image Classification with Activation as](https://dev.to/paperium/entropy-regularizing-activation-boosting-continuous-control-large-languagemodels-and-image-5gpd)
+- [Debugging a Production KYC System — A Multi-Layer Problem Solving Guide I Wrote After 3 Days of Infrastructure Hell](https://dev.to/wintrover/debugging-a-production-kyc-system-a-multi-layer-problem-solving-guide-i-wrote-after-3-days-of-1k9k)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-481f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
