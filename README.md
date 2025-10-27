@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned After 8 Days of Living Inside a Digital Twin](https://dev.to/vishwa_anuj_ec6acd59f8670/what-i-learned-after-8-days-of-living-inside-a-digital-twin-16b8)
-- [Nano Banana vs. Seedream 4.0: The Full-Stack Showdown – Which AI Image API Wins for Your Next SaaS Application?](https://dev.to/prashant_sharma_2558e2093/nano-banana-vs-seedream-40-the-full-stack-showdown-which-ai-image-api-wins-for-your-next-saas-k30)
-- [Build Tasks for Network Devices Faster with Code Assistance and Puppet Edge](https://dev.to/puppet/build-tasks-for-network-devices-faster-with-code-assistance-and-puppet-edge-2e8e)
-- [Build and Host a Website from a Prompt Using Orchids.app](https://dev.to/badass_tech-ae2025/build-and-host-a-website-from-a-prompt-using-orchidsapp-2obg)
-- [MongoDB aggregation Pipelines simplified](https://dev.to/keshav___dev/mongodb-aggregation-pipelines-simplified-53mp)
+- [[Boost]](https://dev.to/ben/-3o7n)
+- [IELTS 1th 30 days](https://dev.to/elshod_ibodullayev_c4cbdc/ielts-30-days-3n23)
+- [DNSao: Pi-hole alternative looking for tests/feedback](https://dev.to/vitallan/dnsao-pi-hole-alternative-looking-for-testsfeedback-2ema)
+- [Running a lightweight Kubernetes &lpar;K8s&rpar; cluster locally with K3s](https://dev.to/sardinessz/running-local-kubernetes-k8s-cluster-with-k3s-2p8l)
+- [📝 Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL 💾](https://dev.to/deepana_ee9087276132ad19f/understanding-transactions-deadlocks-log-based-recovery-in-sql-266m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
