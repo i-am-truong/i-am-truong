@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily DSA and System Design Journal - 12](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-12-439i)
 - [Part 1: Training a Neural Network to Detect Coffee First Crack from Audio - An Agentic Development Journey with Warp](https://dev.to/syamaner/part-1-training-a-neural-network-to-detect-coffee-first-crack-from-audio-an-agentic-development-1jei)
+- [The Silent Symphony: Scaling Read-Heavy Rails Apps with Read Replicas](https://dev.to/alex_aslam/the-silent-symphony-scaling-read-heavy-rails-apps-with-read-replicas-5di2)
 - [GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations](https://dev.to/paperium/gyroswin-5d-surrogates-for-gyrokinetic-plasma-turbulence-simulations-27i8)
 - [Async Programming in C#](https://dev.to/eli77rhm/async-programming-in-c-13jg)
-- [I created a website to learn Morse code in a simple way. I hope its helpful](https://dev.to/palmaner_7d9672e05163ac85/i-created-a-website-to-learn-morse-code-in-a-simple-way-i-hope-its-helpful-7hb)
-- [Proper Key Derivation and Cryptographic Session Setup: Best Practices for Secure Communication](https://dev.to/securebitchat/proper-key-derivation-and-cryptographic-session-setup-best-practices-for-secure-communication-he2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
