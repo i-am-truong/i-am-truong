@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Viewport Units Solve CSS Problems I Used to Have](https://dev.to/taskin_mohammadmubassir_/how-viewport-units-solve-css-problems-i-used-to-have-252l)
+- [How AI Transparency Can Solve the Black-Box Problem](https://dev.to/umang_suthar_9bad6f345a8a/how-ai-transparency-can-solve-the-black-box-problem-593o)
+- [🧩 Mastering the Manager Pattern in Laravel — Build Pluggable, Scalable Architectures](https://dev.to/bhaidar/mastering-the-manager-pattern-in-laravel-build-pluggable-scalable-architectures-47kp)
 - [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_ece4a271/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-46mg)
 - [How to set up Jest + RTL on Vite &amp; React](https://dev.to/shelner/how-to-set-up-jest-rtl-on-vite-react-2209)
-- [Day 16: Mapping Connections with Shared Classmates](https://dev.to/shahrouzlogs/day-16-mapping-connections-with-shared-classmates-d0h)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_083ff294/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-5146)
-- [*THESIS TITLE:** ## *“From Agents to Awareness: Re-Architecting the Global Trading Market Through MindsEye and Binflow”*](https://dev.to/p_thabiwa_0ca34c2f83/thesis-title-from-agents-to-awareness-re-architecting-the-global-trading-market-through-5eh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
