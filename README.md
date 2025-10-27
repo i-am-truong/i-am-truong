@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How your compiler finds the data that is stored inside the variable &lpar;Symbol table&rpar;](https://dev.to/aanand_4d81b59bb2a50beb70/how-your-compiler-finds-the-data-that-is-stored-inside-the-variable-symbol-table-48c6)
-- [An Object Composition System for Reactive Worlds: BOCS](https://dev.to/halfcomplete/an-object-composition-system-for-reactive-worlds-bocs-449h)
-- [React Js](https://dev.to/yaswanth_krishna_81faee1e/react-oi5)
-- [5 Key Benefits Driving the Rise of Data Automation Across Industries](https://dev.to/professorpacketsniffer/5-key-benefits-driving-the-rise-of-data-automation-across-industries-2a67)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_875c0744/files-are-not-just-data-a-guide-to-robust-file-handling-2hpe)
+- [11 Best Cloud Computing Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-cloud-computing-courses-to-learn-in-2026-4bcg)
+- [React Props ?](https://dev.to/yaswanth_krishna_81faee1e/react-props--57j9)
+- [Boost Your Go App’s Network Performance with a TCP Connection Pool](https://dev.to/jones_charles_ad50858dbc0/boost-your-go-apps-network-performance-with-a-tcp-connection-pool-90h)
+- [Build Modern Scroll Presentations with SnapRollJS](https://dev.to/jqueryscript/build-modern-scroll-presentations-with-snaprolljs-43eo)
+- [Stop Chasing Frameworks, Start Building With Intention](https://dev.to/leena_malhotra/stop-chasing-frameworks-start-building-with-intention-36pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
