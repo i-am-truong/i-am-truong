@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Media Generation with Go Graphics &lpar;GG Package&rpar;](https://dev.to/beryldev/media-generation-with-go-graphics-gg-package-lj)
+- [Which month is best for Langtang Trek?](https://dev.to/khusi_khan_afb3dcf7fe41e4/which-month-is-best-for-langtang-trek-2ej8)
+- [WTF is DevOps as Code?](https://dev.to/dailybugle33/wtf-is-devops-as-code-1l4i)
+- [How to attach the sensor to a specimen?](https://dev.to/carolineee/how-to-attach-the-sensor-to-a-specimen-4dm9)
 - [Case Study: Tuya SDK Development for OEM App Migration](https://dev.to/zediot/case-study-tuya-sdk-development-for-oem-app-migration-587l)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_875c0744/that-real-time-headache-its-not-the-websockets-its-your-framework-5429)
-- [🐍 Python Multithreading vs Multiprocessing: A Beginner&#39;s Guide](https://dev.to/codeneuron/python-multithreading-vs-multiprocessing-a-beginners-guide-2fhb)
-- [Secure Embeddable Chatbots for SaaS: Auth &amp; Security Guide](https://dev.to/shubham_joshi_expert/secure-embeddable-chatbots-for-saas-auth-security-guide-2il)
-- [How to Do Annapurna Base Camp Trek](https://dev.to/sahzad_ahmad_30e1878e078e/how-to-do-annapurna-base-camp-trek-5bfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
