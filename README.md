@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como Construí uma Calculadora de Horas e Por Que Todo Freelancer Precisa de Uma](https://dev.to/james-smithh/como-construi-uma-calculadora-de-horas-e-por-que-todo-freelancer-precisa-de-uma-184p)
-- [Rick Beato: The Greatest Guitar Solo...Period](https://dev.to/music_youtube/rick-beato-the-greatest-guitar-soloperiod-4c93)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-462d)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4aee)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-234i)
+- [Cracking the Vault: A Nostalgic Hack at Zero Nights 2017 🚪💻](https://dev.to/d3one/cracking-the-vault-a-nostalgic-hack-at-zero-nights-2017-ejk)
+- [Flutter Migration Guide: Preparing Your Android App for Google Play’s 16 KB Page-Size Requirement](https://dev.to/michaelchiew08/flutter-migration-guide-preparing-your-android-app-for-google-plays-16-kb-page-size-requirement-10j0)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_083ff294/security-is-not-a-feature-its-a-foundation-105f)
+- [I Spent 2 Days Migrating to TypeScript So I Could Write JavaScript Anyway](https://dev.to/adamthedeveloper/i-spent-2-days-migrating-to-typescript-so-i-could-write-javascript-anyway-bgc)
+- [Understanding a new feature from Repomix](https://dev.to/slyang08/understanding-a-new-feature-from-repomix-1gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
