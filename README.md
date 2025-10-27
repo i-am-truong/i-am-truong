@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Side Project Remains Unfinished: Burnout Explained](https://dev.to/rubenoalvarado/why-your-side-project-remains-unfinished-burnout-explained-ape)
 - [Making non-atomic actions atomic using intents](https://dev.to/shalvah/making-non-atomic-actions-atomic-using-intents-25lg)
 - [S3](https://dev.to/jumptotech/s3-1mp7)
 - [My favourite Web API - Webgl](https://dev.to/justin_mayhew_eb3e90b50bc/my-favourite-web-api-webgl-519c)
 - [2WHAV: The Executable Prompting Framework Built on LLM-First Principles](https://dev.to/francesco_marconi_282058b/2whav-the-executable-prompting-framework-built-on-llm-first-principles-3760)
-- [Code Analysis - Repomix](https://dev.to/elsad_humbetli_0971c995ce/code-analysis-repomix-3pbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
