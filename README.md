@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Media Generation with Go Graphics &lpar;GG Package&rpar;](https://dev.to/beryldev/media-generation-with-go-graphics-gg-package-lj)
-- [Which month is best for Langtang Trek?](https://dev.to/khusi_khan_afb3dcf7fe41e4/which-month-is-best-for-langtang-trek-2ej8)
-- [WTF is DevOps as Code?](https://dev.to/dailybugle33/wtf-is-devops-as-code-1l4i)
-- [How to attach the sensor to a specimen?](https://dev.to/carolineee/how-to-attach-the-sensor-to-a-specimen-4dm9)
-- [Case Study: Tuya SDK Development for OEM App Migration](https://dev.to/zediot/case-study-tuya-sdk-development-for-oem-app-migration-587l)
+- [eb3/Web4 Manga Stack — with MindsEye, BlueFlow, Binflow &amp; PoF](https://dev.to/p_thabiwa_0ca34c2f83/eb3web4-manga-stack-with-mindseye-blueflow-binflow-pof-53me)
+- [Introducing react-state-custom: A Hook-First State Management Library](https://dev.to/vothanhdat/introducing-react-state-custom-a-hook-first-state-management-library-13g8)
+- [Seamless Data Transformation: Converting CSV to Excel and Excel to CSV in Java](https://dev.to/lu_liu_e3fc806354d9a952b7/seamless-data-transformation-converting-csv-to-excel-and-excel-to-csv-in-java-2e85)
+- [#java](https://dev.to/saraswathi_p_d12f8b88b244/java-3pop)
+- [When async design meets rhythm-driven feedback](https://dev.to/koni_jang/when-async-design-meets-rhythm-driven-feedback-4ihc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
