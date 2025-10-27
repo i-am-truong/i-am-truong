@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quark’s Outlines: Python Classes](https://dev.to/mike-vincent/quarks-outlines-python-classes-kk9)
-- [Paywall Optimization: How Better Design Drives Higher Subscription Conversion](https://dev.to/paywallpro/paywall-optimization-how-better-design-drives-higher-subscription-conversion-4moo)
-- [Assistant0 - Secure AI Personal Assistant](https://dev.to/async_dime/assistant0-secure-ai-personal-assistant-l11)
-- [What The Pack - AI Mission Control for D2C Logistics](https://dev.to/rokimiftah/what-the-pack-ai-mission-control-for-d2c-logistics-13a6)
-- [🤖Custom Embeddable Secure Agentic Chatbot for SaaS Applications](https://dev.to/sarahokolo/custom-embeddable-secure-agentic-chatbot-for-saas-applications-2hga)
+- [Bringing Web3 Principles to Enterprise Systems](https://dev.to/vanderleisilva/bringing-web3-principles-to-enterprise-systems-317o)
+- [Get Started with Auth0 for AI Agents](https://dev.to/varshithvhegde/get-started-with-auth0-for-ai-agents-5gn7)
+- [[JavaScript] How to Dynamically Create a URL to Open a Latitude and Longitude Location on Google Maps](https://dev.to/kazutora_hattori_66972c88/javascript-how-to-dynamically-create-a-url-to-open-a-latitude-and-longitude-location-on-google-3ppi)
+- [VibeCoding is so much fun! Wanna check out my new interior decorating game?](https://dev.to/buttercookie/vibecoding-is-so-much-fun-wanna-check-out-my-new-interior-decorating-game-5c2j)
+- [My Interview Experience for Senior Software Engineer Role at Walmart Global Tech](https://dev.to/sukanyaa_rashmi_e1a8b8d4d/my-interview-experience-for-senior-software-engineer-role-at-walmart-global-tech-23o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
