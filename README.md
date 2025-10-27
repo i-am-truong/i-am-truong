@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Content-visibility: Boost Amazon product grid &lpar;or any long grid&rpar; performance with one CSS property](https://dev.to/nefedov-dm/content-visibility-boost-amazon-product-grid-or-any-long-grid-performance-with-one-css-property-1mfg)
-- [Stress testing: How to push software beyond its limits and build unbreakable systems](https://dev.to/gatling/stress-testing-how-to-push-software-beyond-its-limits-and-build-unbreakable-systems-2f5b)
-- [AI’s Trap: Settling for Boilerplate Over Elegant Code](https://dev.to/dayvster/ais-trap-settling-for-boilerplate-over-elegant-code-n32)
-- [Minimal Handmade Rings You’ll Love](https://dev.to/jennifer_thomas/minimal-handmade-rings-youll-love-3bf2)
-- [⚛️ Master React, The Pure Way](https://dev.to/ml318097/master-react-the-pure-way-49l7)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_ece4a271/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-46mg)
+- [How to set up Jest + RTL on Vite &amp; React](https://dev.to/shelner/how-to-set-up-jest-rtl-on-vite-react-2209)
+- [Day 16: Mapping Connections with Shared Classmates](https://dev.to/shahrouzlogs/day-16-mapping-connections-with-shared-classmates-d0h)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_083ff294/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-5146)
+- [*THESIS TITLE:** ## *“From Agents to Awareness: Re-Architecting the Global Trading Market Through MindsEye and Binflow”*](https://dev.to/p_thabiwa_0ca34c2f83/thesis-title-from-agents-to-awareness-re-architecting-the-global-trading-market-through-5eh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
