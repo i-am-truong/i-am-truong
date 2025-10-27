@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DexNDM: Closing the Reality Gap for Dexterous In-Hand Rotation via Joint-WiseNeural Dynamics Model](https://dev.to/paperium/dexndm-closing-the-reality-gap-for-dexterous-in-hand-rotation-via-joint-wiseneural-dynamics-model-3k9d)
-- [Mount S3 Bucket As Local Drive](https://dev.to/arunez/mount-s3-bucket-as-local-drive-1hei)
-- [The Most Effective .NET Core Tip: Master Dependency Injection for Cleaner Code](https://dev.to/mina_golzari_dalir/the-most-effective-net-core-tip-master-dependency-injection-for-cleaner-code-5akm)
-- [AngularJS vs Node.js: Understanding the Core Differences for Modern Web Apps](https://dev.to/lucy1/angularjs-vs-nodejs-understanding-the-core-differences-for-modern-web-apps-143d)
-- [How MIA is Shaping the Future of Conversational AI for Businesses](https://dev.to/supermia/how-mia-is-shaping-the-future-of-conversational-ai-for-businesses-306n)
+- [Bytearray in Python &lpar;3&rpar;](https://dev.to/hyperkai/bytearray-in-python-3-4cdp)
+- [How to Use Code Coverage to Identify Untested Code Paths?](https://dev.to/sophielane/how-to-use-code-coverage-to-identify-untested-code-paths-3305)
+- [Vibe Coding: The Good, The Bad, and The Architect&#39;s New Role](https://dev.to/sanjaynaker/vibe-coding-the-good-the-bad-and-the-architects-new-role-1i0n)
+- [Kubernetes GitOps: How to Manage &amp; Automate Deployments](https://dev.to/spacelift/kubernetes-gitops-how-to-manage-automate-deployments-3odl)
+- [How to Integrate Google Sheets API with Shopify Using OAuth 2.0](https://dev.to/lucy1/how-to-integrate-google-sheets-api-with-shopify-using-oauth-20-47nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
