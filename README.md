@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧩 Automated Documentation using MkDocs and Python](https://dev.to/xandecodes/automated-documentation-using-mkdocs-and-python-27)
+- [🕒 Automating Periodic Tasks with EventBridge Scheduler, .NET, and CloudFormation](https://dev.to/bassem-hussein/automating-periodic-tasks-with-eventbridge-scheduler-net-and-cloudformation-3njd)
+- [Building an Organized API in Golang Using Fiber](https://dev.to/xandecodes/building-an-organized-api-in-golang-using-fiber-2pb8)
 - [Surprisingly Simple Range Sets with Bisection in Python](https://dev.to/tom65536/surprisingly-simple-range-sets-with-bisection-in-python-20hp)
-- [How to Access Your New Linux Server via SSH](https://dev.to/msnmongare/how-to-access-your-new-linux-server-via-ssh-38ig)
-- [Daily DSA and System Design Journal - 12](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-12-439i)
-- [Part 1: Training a Neural Network to Detect Coffee First Crack from Audio - An Agentic Development Journey with Warp](https://dev.to/syamaner/part-1-training-a-neural-network-to-detect-coffee-first-crack-from-audio-an-agentic-development-1jei)
-- [The Silent Symphony: Scaling Read-Heavy Rails Apps with Read Replicas](https://dev.to/alex_aslam/the-silent-symphony-scaling-read-heavy-rails-apps-with-read-replicas-5di2)
+- [Docker Compose - Simple Kafka](https://dev.to/xandecodes/docker-compose-simple-kafka-1jp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
