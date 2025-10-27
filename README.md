@@ -119,10 +119,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-3lkk)
+- [My favourite Web API - Webgl](https://dev.to/justin_mayhew_eb3e90b50bc/my-favourite-web-api-webgl-519c)
+- [Code Analysis - Repomix](https://dev.to/elsad_humbetli_0971c995ce/code-analysis-repomix-3pbg)
 - [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1fji)
 - [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-pkd)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4o65)
 - [Instalación de Brave en Parrot/Kali/Linux](https://dev.to/mister_keto/instalacion-de-brave-en-parrotlinux-4kkn)
 <!-- BLOG-POST-LIST:END -->
 
