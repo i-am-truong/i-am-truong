@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-o8g)
-- [A lightweight secrets scanner that catches exposed keys before they reach GitHub](https://dev.to/amosfinds/a-lightweight-secrets-scanner-that-catches-exposed-keys-before-they-reach-github-3cpp)
-- [Don’t Make Assumptions About Assertions: Even with AI you still have to write your unit tests](https://dev.to/lizzzzz/dont-make-assumptions-about-assertions-even-with-ai-you-still-have-to-write-your-unit-tests-4053)
-- [How Rust&#39;s Concurrency Primitives Eliminate Data Races and Transform Parallel Programming](https://dev.to/aaravjoshi/how-rusts-concurrency-primitives-eliminate-data-races-and-transform-parallel-programming-547l)
-- [Very insightful!](https://dev.to/willchrisjr/very-insightful-1dc1)
+- [Why I Stopped Using ngIf and ngFor in Angular](https://dev.to/najilouis/why-i-stopped-using-ngif-and-ngfor-in-angular-3m9m)
+- [Project 1 - SE371 Ayaan Ahmed](https://dev.to/ayaan_ahmed_a95071c3fb797/project-1-se371-ayaan-ahmed-oh7)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_3bfe2e68/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-mlp)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-12gf)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_083ff294/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-3pmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
