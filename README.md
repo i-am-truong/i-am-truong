@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From DevOps to Data Ethics: Why Every Engineer Needs GDPR Training](https://dev.to/mehwish_malik_4f29ff7fb04/from-devops-to-data-ethics-why-every-engineer-needs-gdpr-training-3g0b)
+- [New Year Countdown 2026](https://dev.to/leandro_moraes_640ef8a585/new-year-countdown-2026-3kgn)
+- [Beyond Grep and Vectors: Reimagining Code Retrieval for AI Agents](https://dev.to/akshat_ilen/beyond-grep-and-vectors-reimagining-code-retrieval-for-ai-agents-4pb2)
+- [How AI Sales Execution Platforms Bridge the Gap Between Strategy and Results](https://dev.to/chrispatterson/how-ai-sales-execution-platforms-bridge-the-gap-between-strategy-and-results-4h99)
 - [🔥 10 Mistakes Senior Developers Still Make &lpar;Are You Making Them Too?&rpar;](https://dev.to/sylwia-lask/10-mistakes-senior-developers-still-make-are-you-making-them-too-ndf)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-94h)
-- [I Can&#39;t Read Code, So I Had to Give My AI a Perfect Map](https://dev.to/dingowashisnamo/i-cant-read-code-so-i-had-to-give-my-ai-a-perfect-map-i1a)
-- [Coding Shipping](https://dev.to/howard_shaw_3c36a3a6cb900/coding-shipping-2792)
-- [Coding Just Syntax](https://dev.to/omkar_bagul/coding-just-syntax-4in6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
