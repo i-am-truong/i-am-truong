@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🛡️ AgentGuard: Secure and Govern Your AI Agents with Auth0 for AI](https://dev.to/techsplot/agentguard-secure-and-govern-your-ai-agents-with-auth0-for-ai-1gn)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_875c0744/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1ol2)
+- [🚀 Introducing @mcabreradev/filter: SQL-like Array Filtering for TypeScript](https://dev.to/mcabreradev/introducing-mcabreradevfilter-sql-like-array-filtering-for-typescript-2j15)
+- [2125. Number of Laser Beams in a Bank](https://dev.to/mdarifulhaque/2125-number-of-laser-beams-in-a-bank-46pn)
 - [Cracking the Vault: A Nostalgic Hack at Zero Nights 2017 🚪💻](https://dev.to/d3one/cracking-the-vault-a-nostalgic-hack-at-zero-nights-2017-ejk)
-- [Flutter Migration Guide: Preparing Your Android App for Google Play’s 16 KB Page-Size Requirement](https://dev.to/michaelchiew08/flutter-migration-guide-preparing-your-android-app-for-google-plays-16-kb-page-size-requirement-10j0)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_083ff294/security-is-not-a-feature-its-a-foundation-105f)
-- [I Spent 2 Days Migrating to TypeScript So I Could Write JavaScript Anyway](https://dev.to/adamthedeveloper/i-spent-2-days-migrating-to-typescript-so-i-could-write-javascript-anyway-bgc)
-- [Understanding a new feature from Repomix](https://dev.to/slyang08/understanding-a-new-feature-from-repomix-1gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
