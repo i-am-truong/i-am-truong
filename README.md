@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Hoisting in JavaScript: A Simple Guide](https://dev.to/taskin_mohammadmubassir_/understanding-hoisting-in-javascript-a-simple-guide-574k)
-- [Compose Beginner 1: Why Jetpack Compose Changed Android Forever](https://dev.to/abizer_r/compose-beginner-1-why-jetpack-compose-changed-android-forever-3jag)
-- [CNCF [Cloud Native Computing Foundation]: Enabling Multi-Cluster Load Balancing with Gateway API and Envoy Gateway](https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-enabling-multi-cluster-load-balancing-with-gateway-api-4dcb)
-- [CNCF [Cloud Native Computing Foundation]: Crossing the border - VM goes on a BGP adventure - Or Mergi](https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-crossing-the-border-vm-goes-on-a-bgp-adventure-or-1acl)
-- [Boost Your Visibility: Why You Need a Specialized Adult SEO Company](https://dev.to/rachelbrown/boost-your-visibility-why-you-need-a-specialized-adult-seo-company-3cmb)
+- [How to use behavioral scoring in B2B outbound strategies](https://dev.to/leo_johnson_e34af4a6d9bd9/how-to-use-behavioral-scoring-in-b2b-outbound-strategies-1je6)
+- [FarmSmart Maintainer Spotlight: Your AI-Powered Farming Companion](https://dev.to/braimer/farmsmart-maintainer-spotlight-your-ai-powered-farming-companion-5725)
+- [5 Weeks of Learning: Week4](https://dev.to/akshitaexe/5-weeks-of-learning-week4-1gf6)
+- [AI-Driven Data Mapping: Smarter Field Matching Between SAP &amp; Salesforce](https://dev.to/builderyo/ai-driven-data-mapping-smarter-field-matching-between-sap-salesforce-370a)
+- [Contributing to Ubuntu — Day 2: When I understood the Train 🚂](https://dev.to/geniusmind9999/contributing-to-ubuntu-day-2-when-i-understood-the-train-23cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
