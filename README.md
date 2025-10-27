@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Business Literacy Matters for DevRel &lpar;And Why You Can&#39;t Skip This Step&rpar;](https://dev.to/mattstratton/why-business-literacy-matters-for-devrel-and-why-you-cant-skip-this-step-30p1)
+- [Maintaining Arch Linux AUR Packages: Update for python-zfec](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-update-for-python-zfec-2kko)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_25c2e834/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-1i0g)
 - [Filtering 221 AI Prompts to Find the Most Useful Ones for My Obsidian Notes](https://dev.to/trkaplan/filtering-221-ai-prompts-to-find-the-most-useful-ones-for-my-obsidian-notes-pkk)
 - [Online Tech Accessories Store: Redefining the Way You Shop for Gadgets](https://dev.to/rapidcellphone/online-tech-accessories-store-redefining-the-way-you-shop-for-gadgets-6an)
-- [Customer Insights: Using A/B Testing to Build Accurate Buyer Personas](https://dev.to/dipti_m_2e7ba36c478d1a48a/customer-insights-using-ab-testing-to-build-accurate-buyer-personas-1767)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_083ff294/you-might-not-need-websockets-the-simple-power-of-server-sent-events-55f7)
-- [Code Reading Analysis – Repomix Ignore Feature](https://dev.to/kkrishnan10/code-reading-analysis-repomix-ignore-feature-mem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
