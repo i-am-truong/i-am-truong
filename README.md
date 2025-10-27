@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Why Your Side Project Remains Unfinished: Burnout Explained](https://dev.to/rubenoalvarado/why-your-side-project-remains-unfinished-burnout-explained-ape)
 - [Making non-atomic actions atomic using intents](https://dev.to/shalvah/making-non-atomic-actions-atomic-using-intents-25lg)
+- [The Fruit Fly&#39;s Secret to Fault-Tolerant AI: Redundancy Done Right](https://dev.to/arvind_sundararajan/the-fruit-flys-secret-to-fault-tolerant-ai-redundancy-done-right-5bkc)
+- [Exploring Repomix and Learning from Its Feature](https://dev.to/aubreyddd/exploring-repomix-and-learning-from-its-feature-733)
 - [S3](https://dev.to/jumptotech/s3-1mp7)
-- [My favourite Web API - Webgl](https://dev.to/justin_mayhew_eb3e90b50bc/my-favourite-web-api-webgl-519c)
-- [2WHAV: The Executable Prompting Framework Built on LLM-First Principles](https://dev.to/francesco_marconi_282058b/2whav-the-executable-prompting-framework-built-on-llm-first-principles-3760)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
