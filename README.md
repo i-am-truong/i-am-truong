@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DexNDM: Closing the Reality Gap for Dexterous In-Hand Rotation via Joint-WiseNeural Dynamics Model](https://dev.to/paperium/dexndm-closing-the-reality-gap-for-dexterous-in-hand-rotation-via-joint-wiseneural-dynamics-model-3k9d)
+- [Mount S3 Bucket As Local Drive](https://dev.to/arunez/mount-s3-bucket-as-local-drive-1hei)
 - [The Most Effective .NET Core Tip: Master Dependency Injection for Cleaner Code](https://dev.to/mina_golzari_dalir/the-most-effective-net-core-tip-master-dependency-injection-for-cleaner-code-5akm)
 - [AngularJS vs Node.js: Understanding the Core Differences for Modern Web Apps](https://dev.to/lucy1/angularjs-vs-nodejs-understanding-the-core-differences-for-modern-web-apps-143d)
 - [How MIA is Shaping the Future of Conversational AI for Businesses](https://dev.to/supermia/how-mia-is-shaping-the-future-of-conversational-ai-for-businesses-306n)
-- [Why Marketers Who Build Attribution Frameworks Will Shape the Next Decade of Growth](https://dev.to/saka_satish_661/why-marketers-who-build-attribution-frameworks-will-shape-the-next-decade-of-growth-2bo8)
-- [My Experience with GoFr – Building Backend Apps Faster Than Ever!](https://dev.to/kavya_turkar_62fc71116af7/my-experience-with-gofr-building-backend-apps-faster-than-ever-3mmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
