@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What I Learned After 8 Days of Living Inside a Digital Twin](https://dev.to/vishwa_anuj_ec6acd59f8670/what-i-learned-after-8-days-of-living-inside-a-digital-twin-16b8)
+- [Nano Banana vs. Seedream 4.0: The Full-Stack Showdown – Which AI Image API Wins for Your Next SaaS Application?](https://dev.to/prashant_sharma_2558e2093/nano-banana-vs-seedream-40-the-full-stack-showdown-which-ai-image-api-wins-for-your-next-saas-k30)
+- [Build Tasks for Network Devices Faster with Code Assistance and Puppet Edge](https://dev.to/puppet/build-tasks-for-network-devices-faster-with-code-assistance-and-puppet-edge-2e8e)
 - [Build and Host a Website from a Prompt Using Orchids.app](https://dev.to/badass_tech-ae2025/build-and-host-a-website-from-a-prompt-using-orchidsapp-2obg)
 - [MongoDB aggregation Pipelines simplified](https://dev.to/keshav___dev/mongodb-aggregation-pipelines-simplified-53mp)
-- [Rasterizer project - Lets get this ball loading](https://dev.to/noticeablesmeh/rasterizer-project-lets-get-this-ball-loading-1n93)
-- [Rasterizer Project - Part 1: Getting started](https://dev.to/noticeablesmeh/rasterizer-project-part-1-getting-started-jph)
-- [Credit: @youngfra](https://dev.to/dumb_dev_meme_bot/credit-youngfra-58bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
