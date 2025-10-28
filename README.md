@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Multi-Agent Code Review System That&#39;s 4x Faster &lpar;Thanks to Zero-Copy Database Forks!&rpar;](https://dev.to/simranshaikh20_50/i-built-a-multi-agent-code-review-system-thats-4x-faster-thanks-to-zero-copy-database-forks-3bd5)
+- [Azure DevOps PR AI Code Review: Finally, A Simple Solution](https://dev.to/jay_elsheikh_59b14ad67922/azure-devops-pr-ai-code-review-finally-a-simple-solution-3fkm)
+- [Announcing ÆtherCodex — a Hermetic AI Coding Oracle &lpar;TextMate today, portable core&rpar;](https://dev.to/dantiel/announcing-aethercodex-a-hermetic-ai-coding-oracle-textmate-today-portable-core-4658)
+- [📬🔐Sending Emails in Microsoft 365 using OAuth 2.0 &lpar;and SMTP Relay&rpar;](https://dev.to/fonteeboa/sending-emails-in-microsoft-365-using-oauth-20-and-smtp-relay-3nba)
 - [Frontend to Backend: From Vite to Express❗](https://dev.to/cristea_theodora_6200140b/frontend-to-backend-from-vite-to-express-2c83)
-- [Windmenu: A Minimalist Windows Launcher](https://dev.to/gicrisf/windmenu-a-minimalist-windows-launcher-1b4d)
-- [I Added a Chat Interface to My LLM Training Tool &lpar;And You Can Try It Now&rpar;](https://dev.to/theaniketgiri/i-added-a-chat-interface-to-my-llm-training-tool-and-you-can-try-it-now-1kck)
-- [💡 Productivity and Security Tips for Developers](https://dev.to/beeinbox/productivity-and-security-tips-for-developers-2hjb)
-- [The Hidden Work Behind Gzip: How it compresses so well](https://dev.to/rijultp/the-hidden-work-behind-gzip-how-it-compresses-so-well-5ejk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
