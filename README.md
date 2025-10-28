@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking Beyond Cline? Here&#39;s The 7 Best Cline Alternatives to Check Out!](https://dev.to/matt_tanner_f9c36595644ad/looking-beyond-cline-heres-the-7-best-cline-alternatives-to-check-out-43a1)
+- [APIs, Agility, and Edge: Inside the Rise of Product-First Telcos](https://dev.to/rishabhsharma123/apis-agility-and-edge-inside-the-rise-of-product-first-telcos-40a)
+- [Beyond `{firstName}`: Engineering a Scalable B2B Personalization Engine](https://dev.to/michaelaiglobal/beyond-firstname-engineering-a-scalable-b2b-personalization-engine-3h1d)
 - [Prevents storing duplicate files in Laravel with Dedupler](https://dev.to/maxkhim/prevents-storing-duplicate-files-in-laravel-with-dedupler-18o0)
 - [Understanding Better-SQLite3: The Fastest SQLite Library for Node.js](https://dev.to/lovestaco/understanding-better-sqlite3-the-fastest-sqlite-library-for-nodejs-4n8)
-- [How a Simple Race Condition Can Take Down Even the Biggest Systems](https://dev.to/georgekobaidze/how-a-simple-race-condition-can-take-down-even-the-biggest-systems-16l0)
-- [Bringing Data to Life: How to Create Dynamic Tableau Dashboards with GIFs](https://dev.to/dipti_m_2e7ba36c478d1a48a/bringing-data-to-life-how-to-create-dynamic-tableau-dashboards-with-gifs-5b6i)
-- [Ecomerce fullstack platform](https://dev.to/kennethdavid760/ecomerce-fullstack-platform-48f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
