@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize Content Creation: HeyDream&#39;s Free AI Image to Video Generator Powered by Seedance 1.0](https://dev.to/heydream_im/revolutionize-content-creation-heydreams-free-ai-image-to-video-generator-powered-by-seedance-10-18be)
-- [OSD600: Lab 6 — Repomix&#39;s token count tree feature and its prototyping in Rust](https://dev.to/david_rivera_8d845b35931e/osd600-lab-6-repomixs-token-count-tree-feature-and-its-prototyping-in-rust-2a2m)
-- [From Dashboards to Decisions: Building Scalable Self-Service BI for Real Impact](https://dev.to/laxmivanam/from-dashboards-to-decisions-building-scalable-self-service-bi-for-real-impact-a27)
-- [Convert Excel to SVG in Java: A Comprehensive Guide](https://dev.to/lu_liu_e3fc806354d9a952b7/convert-excel-to-svg-in-java-a-comprehensive-guide-41m1)
-- [Secure by Design in the Age of GenAI: How Devs Must Shift Their Software Security Practices in 2025](https://dev.to/ihonchar/secure-by-design-in-the-age-of-genai-how-devs-must-shift-their-software-security-practices-in-2025-1c96)
+- [DAZN Just Rewrote the Rules of Sports Broadcasting &lpar;And Nobody&#39;s Talking About It&rpar;](https://dev.to/jason_jacob_dcfc2408b7557/dazn-just-rewrote-the-rules-of-sports-broadcasting-and-nobodys-talking-about-it-mjk)
+- [The Baba Yaga Protocol - Adaptive Gatekeeping and Pre-Authentication Intelligence](https://dev.to/narnaiezzsshaa_truong/the-baba-yaga-protocol-adaptive-gatekeeping-and-pre-authentication-intelligence-45ci)
+- [Meta&#39;s $75B AI Infrastructure Bet: Inside the Biggest Cloud Deals of 2025](https://dev.to/0xrelogic/metas-75b-ai-infrastructure-bet-inside-the-biggest-cloud-deals-of-2025-1mp7)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_ece4a271/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-36b0)
+- [promptpilot &lpar;v2&rpar; is in beta mode 🚀 &lpar;pprompt.dev&rpar;](https://dev.to/joshthedevguy/promptpilot-v2-is-in-beta-mode-ppromptdev-gbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
