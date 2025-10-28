@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a Profitable Membership Site in WordPress](https://dev.to/serveravatar/build-a-profitable-membership-site-in-wordpress-4o51)
-- [SystemTap and ftrace for debugging](https://dev.to/godofgeeks/systemtap-and-ftrace-for-debugging-1jka)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-ie4)
-- [WebP Converter: The Essential Guide to Modern Image Optimization](https://dev.to/hardik_b2d8f0bca/webp-converter-the-essential-guide-to-modern-image-optimization-51ke)
-- [Code That Drives Success: Build Websites with Clarion’s PHP Web Development Services](https://dev.to/clarion_technologies_50c3/code-that-drives-success-build-websites-with-clarions-php-web-development-services-226m)
+- [Easy Ways to Fix 504 Bad Gateway Timeout Error](https://dev.to/serveravatar/easy-ways-to-fix-504-bad-gateway-timeout-error-23gc)
+- [Getting Started with SmartCheckbox™: Install, Setup, and your First Rule](https://dev.to/aryanirani123/getting-started-with-smartcheckbox-install-setup-and-your-first-rule-42jo)
+- [Robotics for Beginners: A Plain-English Introduction](https://dev.to/junhan_hu_f2c461cd284ee45/robotics-for-beginners-a-plain-english-introduction-28g)
+- [Regex Tester: Mastering Regular Expressions for Modern Development](https://dev.to/hardik_b2d8f0bca/regex-tester-mastering-regular-expressions-for-modern-development-2djf)
+- [Hands-On Tutorial – Build a Content Approval Workflow with SmartCheckbox](https://dev.to/aryanirani123/hands-on-tutorial-build-a-content-approval-workflow-with-smartcheckbox-1mc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
