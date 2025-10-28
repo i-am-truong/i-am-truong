@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding x402: The Protocol Making Internet Payments Actually Work](https://dev.to/priyanshu_rajput_931e8877/understanding-x402-the-protocol-making-internet-payments-actually-work-1m07)
-- [How to find an open source project to contribute to?](https://dev.to/szabgab/how-to-find-an-open-source-project-to-contribute-to-4l02)
-- [Ditch the Specialist Myth: Why I&#39;m a &#39;Master of Integration&#39; in the Age of AI &lpar;And Why Your Team Needs One&rpar;.](https://dev.to/elvin_saruni_a3e70d3459cf/ditch-the-specialist-myth-why-im-a-master-of-integration-in-the-age-of-ai-and-why-your-team-4hek)
-- [[C++] std::forward](https://dev.to/seongcheoljeon/c-stdforward-2l48)
-- [Building Janus: An AI-Powered Helpdesk That Makes Customer Support Smarter](https://dev.to/k0msenapati/building-janus-an-ai-powered-helpdesk-that-makes-customer-support-smarter-h6c)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3eim)
+- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-1m19)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-38e7)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-h9)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-373j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
