@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing “Unable to Create Directory wp-content/uploads” Error in WordPress on macOS &lpar;XAMPP&rpar;🧠](https://dev.to/chaitanyarai3/fixing-unable-to-create-directory-wp-contentuploads-error-in-wordpress-on-macos-xampp-52om)
-- [Registering Schemas for Smarter AI Models](https://dev.to/mabualzait/registering-schemas-for-smarter-ai-models-ph2)
-- [Building a FREE Speech-to-Text App with OpenAI Whisper &lpar;No API Costs!&rpar;](https://dev.to/allanninal/building-a-free-speech-to-text-app-with-openai-whisper-no-api-costs-1a90)
-- [Why You Should Care About Async Context Managers and Iterators](https://dev.to/imsushant12/why-you-should-care-about-async-context-managers-and-iterators-1na)
-- [What I learnt about arrays and pointers in C &lpar;As a refresher&rpar;](https://dev.to/ian_kamande/what-i-learnt-about-arrays-and-pointers-in-c-as-a-refresher-2419)
+- [I Tried This New AI Art Generator… The Results Left Me Speechless!](https://dev.to/mrpraise/i-tried-this-new-ai-art-generator-the-results-left-me-speechless-4in5)
+- [Hoe Hassan Lammou Talent Omzet In Echte Game-Intelligentie](https://dev.to/hassanlammou/hoe-hassan-lammou-talent-omzet-in-echte-game-intelligentie-47bj)
+- [Top 10 Selenium Automation Best Practices for Beginners](https://dev.to/misterankit/top-10-selenium-automation-best-practices-for-beginners-2j9k)
+- [Life got in the way, but now Im restarting my journey here. 41 years old, always had an interest in coding and web development. Im hoping to be able to finish this time around.](https://dev.to/lazyayye_4633e5e47708d56e/life-got-in-the-way-but-now-im-restarting-my-journey-here-41-years-old-always-had-an-interest-3jk3)
+- [Ensuring Software Quality in Microservices Architecture](https://dev.to/jignect-technologies/ensuring-software-quality-in-microservices-architecture-40l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
