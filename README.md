@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From job offer to malware: developers, be cautious!](https://dev.to/perisicnikola37/from-job-offer-to-malware-developers-be-cautious-35dc)
-- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-1amd)
-- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-328i)
-- [This...has not worked the last three nights 😒](https://dev.to/jess/thishas-not-worked-the-last-there-nights-33fj)
-- [Lessons from Volvo and BMW: How Car Companies Really Integrate Their Systems](https://dev.to/asiryi/lessons-from-volvo-and-bmw-how-car-companies-really-integrate-their-systems-114n)
+- [Tags And Elements](https://dev.to/suma_suma/tags-and-elements-1c8)
+- [Fashion Analysis: Understanding Customer Churn in Fashion Industry](https://dev.to/gateru/fashion-analysis-understanding-customer-churn-in-fashion-industry-3jge)
+- [Automating Bluesky for AI Agents — AT Protocol Bot](https://dev.to/p3ngu1nzz/automating-bluesky-for-ai-agents-at-protocol-bot-44k1)
+- [🚀 Why Rails 8’s New Deployment Model Is a Game-Changer](https://dev.to/bibimbop123/why-rails-8s-new-deployment-model-is-a-game-changer-2p1e)
+- [When Should an Analyst Suggest Using Queues in Integrations?](https://dev.to/asiryi/when-should-an-analyst-suggest-using-queues-in-integrations-389c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
