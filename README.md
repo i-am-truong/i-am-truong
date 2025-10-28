@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚫 Divs Are Not Buttons , Here’s Why &lpar;and How to Fix It&rpar;](https://dev.to/homayunmmdy/divs-are-not-buttons-heres-why-and-how-to-fix-it-48lh)
-- [[Boost]](https://dev.to/deftoexplore/-3gb)
-- [Mastering Dispute Resolution with Mastercard Collaboration](https://dev.to/rapyd/mastering-dispute-resolution-with-mastercard-collaboration-5f70)
-- [Run Your AI Agent with InterSystems IRIS and Local Models using Ollama](https://dev.to/intersystems/run-your-ai-agent-with-intersystems-iris-and-local-models-using-ollama-gf5)
-- [**Unlocking Fashion Style Recommendations with LIME-based Ex](https://dev.to/drcarlosruizviquez/unlocking-fashion-style-recommendations-with-lime-based-ex-5fc1)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hn5)
+- [Cut token waste from your AI workflow with the ToolHive MCP Optimizer](https://dev.to/stacklok/cut-token-waste-from-your-ai-workflow-with-the-toolhive-mcp-optimizer-3oo6)
+- [How to Upgrade EKS 1.32: Making the Switch from bootstrap.sh to nodeadm](https://dev.to/hugolesta/how-to-upgrade-eks-132-making-the-switch-from-bootstrapsh-to-nodeadm-9lf)
+- [How Coding Games Improve Problem-Solving Skills in Kids](https://dev.to/alexandra_taylor_fd7a7dc5/how-coding-games-improve-problem-solving-skills-in-kids-401g)
+- [From “Black Box” to “Transparent”: How to Read the Inner Logic of LLMs](https://dev.to/superorange0707/from-black-box-to-transparent-how-to-read-the-inner-logic-of-llms-1k08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
