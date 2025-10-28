@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ghost in the Machine: A Journey into the Floating Promise Pitfall](https://dev.to/alex_aslam/the-ghost-in-the-machine-a-journey-into-the-floating-promise-pitfall-3ck3)
+- [Simplifying Data Persistence in Ballerina: A Deep Dive into `bal persist`](https://dev.to/better-boy/simplifying-data-persistence-in-ballerina-a-deep-dive-into-bal-persist-4f9f)
+- [Tsonnet #25 - Chain me maybe, part 1](https://dev.to/bitmaybewise/tsonnet-25-chain-me-maybe-part-1-29kg)
 - [A Deeper Look at LaunchDarkly Architecture: More than Feature Flags](https://dev.to/alexiskroberson/a-deeper-look-at-launchdarkly-architecture-more-than-feature-flags-2gg0)
 - [The Duet of Real-Time: A Journey Through WebSockets and SSE](https://dev.to/alex_aslam/the-duet-of-real-time-a-journey-through-websockets-and-sse-4ap5)
-- [Coding Scalable UIs In Cursor With Kombai](https://dev.to/cesscode/coding-scalable-uis-in-cursor-with-kombai-475d)
-- [Tools That Make Coding a LOT Easier](https://dev.to/rylan/tools-that-make-coding-a-lot-easier-5017)
-- [Flutter Basics](https://dev.to/ideategudy/flutter-basics-4l2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
