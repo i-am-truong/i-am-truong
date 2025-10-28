@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Apidog for AI Test Case Generation](https://dev.to/therealmrmumba/how-to-use-apidog-for-ai-test-case-generation-1e4h)
-- [🚀 My Journey Learning App Development with Jetpack Compose at 16](https://dev.to/pjdeveloper896/my-journey-learning-app-development-with-jetpack-compose-at-16-3eij)
-- [Introducing the Flora Devnet.](https://dev.to/quionie/introducing-the-flora-devnet-1047)
-- [Why 57% of Agency Clients Leave &lpar;And How to Stop It&rpar;](https://dev.to/teamcamp/why-57-of-agency-clients-leave-and-how-to-stop-it-5amj)
-- [SAA模試の後半バテを防ぐ：65問を集中し切る6つの戦術](https://dev.to/beachone1155/saamo-shi-nohou-ban-batewofang-gu65wen-woji-zhong-siqie-ru6tunozhan-shu-437)
+- [How to find an open source project to contribute to?](https://dev.to/szabgab/how-to-find-an-open-source-project-to-contribute-to-4l02)
+- [Building Janus: An AI-Powered Helpdesk That Makes Customer Support Smarter](https://dev.to/k0msenapati/building-janus-an-ai-powered-helpdesk-that-makes-customer-support-smarter-h6c)
+- [Understanding Akamai GTM: Mirror Failover vs. Weighted Random Load Balancing](https://dev.to/ellapark/understanding-akamai-gtm-mirror-failover-vs-weighted-random-load-balancing-52da)
+- [The Ravana Glyph: Encoding Insider Sovereignty and Forensic Collapse in Cybersecurity](https://dev.to/narnaiezzsshaa_truong/the-ravana-glyph-encoding-insider-sovereignty-and-forensic-collapse-in-cybersecurity-36ic)
+- [⚠️ The SQL Query That Nearly Crashed Our Production Server](https://dev.to/chiragx309/the-sql-query-that-nearly-crashed-our-production-server-51i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
