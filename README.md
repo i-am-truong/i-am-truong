@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing Deployable Voice-AI Playbooks &lpar;p95 &lt; 300 ms, preflight blue/green&rpar;](https://dev.to/ayoolasolomon/designing-deployable-voice-ai-playbooks-p95-300-ms-preflight-bluegreen-55eh)
-- [Automating the Employee Journey: A Guide to Managing the Hire-to-Retire Lifecycle with Power Automate](https://dev.to/shubhojeet2001/automating-the-employee-journey-a-guide-to-managing-the-hire-to-retire-lifecycle-with-power-1iml)
-- [New AI Agent Example](https://dev.to/necatiozmen/new-ai-agent-example-f8i)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-44la)
-- [What can we do while facing the huge difficulty of writing too long, multiple-level nested SQL codes?](https://dev.to/esproc_spl/what-can-we-do-while-facing-the-huge-difficulty-of-writing-too-long-multiple-level-nested-sql-8l)
+- [artifital intellengence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellengence-17ok)
+- [Artifital Intellegence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellegence-4mk8)
+- [How to build a Python email-checker using the Mail7 API &lpar;and spot disposable addresses like TempMailbox&rpar;](https://dev.to/densi/how-to-build-a-python-email-checker-using-the-mail7-api-and-spot-disposable-addresses-like-3bh2)
+- [Agentic AI in Healthcare](https://dev.to/ubaid_ullah_fa7600cc6735d/agentic-ai-in-healthcare-hpm)
+- [Why Customer Journey Management Is the Core of Exceptional Service Experiences](https://dev.to/amtkumar/why-customer-journey-management-is-the-core-of-exceptional-service-experiences-386g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
