@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCUboot: Firmware Application Image Format](https://dev.to/ripan030/mcuboot-firmware-application-image-format-3084)
-- [CloudFront and AWS global accelerator](https://dev.to/jumptotech/cloudfront-and-aws-global-accelerator-48fl)
-- [Before You Learn Closures, Understand Context](https://dev.to/elfaidighassen/before-you-learn-closures-understand-context-gfd)
-- [Classic solutions architecture discussions](https://dev.to/jumptotech/classic-solutions-architecture-discussions-15bb)
-- [Migrating to a Multimodal AI Framework: A Step-by-Step Guide for C# Developers](https://dev.to/lofcz/migrating-to-a-multimodal-ai-framework-a-step-by-step-guide-for-c-developers-4k84)
+- [Quantum-Resistant Federated Learning with Lattice-Based Homomorphic Encryption for Medical Imaging](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-lattice-based-homomorphic-encryption-for-medical-imaging-1jp7)
+- [A Quick Intro to Distributed Systems + CAP/ACID/BASE: First Steps Toward “Exactly-Once”](https://dev.to/ertnbrk/a-quick-intro-to-distributed-systems-capacidbase-first-steps-toward-exactly-once-565m)
+- [# Fixing Playbook Update Drawer Title in OpenCTI](https://dev.to/hsachdeva9/-fixing-playbook-update-drawer-title-in-opencti-371g)
+- [Construir Mi servidor casero. ¿El problema?](https://dev.to/1phiexdric/construir-mi-servidor-casero-el-problema-4ih2)
+- [MongoDB-Style Filtering in TypeScript with @mcabreradev/filter](https://dev.to/mcabreradev/mongodb-style-filtering-in-typescript-with-mcabreradevfilter-4gp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
