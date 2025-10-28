@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-2ab0)
-- [Current Project &lpar;October 2025&rpar;](https://dev.to/jshum5200/current-project-october-2025-126)
-- [AI Didn’t Steal Our Jobs — It Just Gave Us More Code Reviews](https://dev.to/hotfixhero/ai-didnt-steal-our-jobs-it-just-gave-us-more-code-reviews-1368)
-- [ABAC with Open Policy Agent &lpar;OPA&rpar;](https://dev.to/mathew_pregasen_69c61185e/abac-with-open-policy-agent-opa-3f0)
-- [&quot;My Open Source Journey&quot;](https://dev.to/akash_divinor/my-open-source-journey-2bld)
+- [🧱 Lesson 4  - Adding SQL Server Support &lpar;Multi-Database Setup&rpar;](https://dev.to/farrukh_rehman/lesson-4-adding-sql-server-support-multi-database-setup-3i5h)
+- [Termux vs. Full Linux on Android: Pros and Cons Today](https://dev.to/terminaltools/termux-vs-full-linux-on-android-pros-and-cons-today-1na4)
+- [Building the Academic Research Copilot: From ArXiv to Semantic Search in Minutes](https://dev.to/aashish079/building-the-academic-research-copilot-from-arxiv-to-semantic-search-in-minutes-21bc)
+- [SERP Similarity Tool with HasData &amp; Streamlit](https://dev.to/valentina_skakun/serp-similarity-tool-with-hasdata-streamlit-4oe1)
+- [Self-Paced Learning: The Future of Flexible Education](https://dev.to/champion_instructors_94b2/self-paced-learning-the-future-of-flexible-education-2i4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
