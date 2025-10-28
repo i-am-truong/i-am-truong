@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to onboard engineers 10x faster](https://dev.to/gentos/how-to-onboard-engineers-faster-306g)
 - [Quantum-Resistant Federated Learning with Lattice-Based Homomorphic Encryption for Medical Imaging](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-lattice-based-homomorphic-encryption-for-medical-imaging-1jp7)
 - [A Quick Intro to Distributed Systems + CAP/ACID/BASE: First Steps Toward “Exactly-Once”](https://dev.to/ertnbrk/a-quick-intro-to-distributed-systems-capacidbase-first-steps-toward-exactly-once-565m)
 - [# Fixing Playbook Update Drawer Title in OpenCTI](https://dev.to/hsachdeva9/-fixing-playbook-update-drawer-title-in-opencti-371g)
 - [Construir Mi servidor casero. ¿El problema?](https://dev.to/1phiexdric/construir-mi-servidor-casero-el-problema-4ih2)
-- [MongoDB-Style Filtering in TypeScript with @mcabreradev/filter](https://dev.to/mcabreradev/mongodb-style-filtering-in-typescript-with-mcabreradevfilter-4gp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
