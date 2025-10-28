@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Lesson 4  - Adding SQL Server Support &lpar;Multi-Database Setup&rpar;](https://dev.to/farrukh_rehman/lesson-4-adding-sql-server-support-multi-database-setup-3i5h)
-- [Termux vs. Full Linux on Android: Pros and Cons Today](https://dev.to/terminaltools/termux-vs-full-linux-on-android-pros-and-cons-today-1na4)
-- [Building the Academic Research Copilot: From ArXiv to Semantic Search in Minutes](https://dev.to/aashish079/building-the-academic-research-copilot-from-arxiv-to-semantic-search-in-minutes-21bc)
-- [SERP Similarity Tool with HasData &amp; Streamlit](https://dev.to/valentina_skakun/serp-similarity-tool-with-hasdata-streamlit-4oe1)
-- [Self-Paced Learning: The Future of Flexible Education](https://dev.to/champion_instructors_94b2/self-paced-learning-the-future-of-flexible-education-2i4k)
+- [Fault-Tolerant Realtime Data Ingestion with QuestDB Write-Ahead Logs](https://dev.to/nilutpal_/fault-tolerant-realtime-data-ingestion-with-questdb-write-ahead-logs-51e5)
+- [How do I delegate when I can do it faster myself?](https://dev.to/valeriavg/how-do-i-delegate-when-i-can-do-it-faster-myself-5lh)
+- [Role-Based Access Control for AI Development: Managing Prompts, Evals, and Data Securely](https://dev.to/kuldeep_paul/role-based-access-control-for-ai-development-managing-prompts-evals-and-data-securely-1a66)
+- [The Model Context Protocol &lpar;MCP&rpar;: A Foundational Standard for Agentic AI Systems](https://dev.to/lucash_ribeiro_dev/the-model-context-protocol-mcp-a-foundational-standard-for-agentic-ai-systems-4dg)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--1o6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
