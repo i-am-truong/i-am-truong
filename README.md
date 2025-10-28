@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend to Backend: From Vite to Express❗](https://dev.to/cristea_theodora_6200140b/frontend-to-backend-from-vite-to-express-2c83)
+- [Windmenu: A Minimalist Windows Launcher](https://dev.to/gicrisf/windmenu-a-minimalist-windows-launcher-1b4d)
 - [I Added a Chat Interface to My LLM Training Tool &lpar;And You Can Try It Now&rpar;](https://dev.to/theaniketgiri/i-added-a-chat-interface-to-my-llm-training-tool-and-you-can-try-it-now-1kck)
 - [💡 Productivity and Security Tips for Developers](https://dev.to/beeinbox/productivity-and-security-tips-for-developers-2hjb)
 - [The Hidden Work Behind Gzip: How it compresses so well](https://dev.to/rijultp/the-hidden-work-behind-gzip-how-it-compresses-so-well-5ejk)
-- [Turn off AI code completion](https://dev.to/jarne/turn-off-ai-code-completion-3f9g)
-- [Putting It All Together: Speaking Business as a DevRel Professional](https://dev.to/mattstratton/putting-it-all-together-speaking-business-as-a-devrel-professional-2kfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
