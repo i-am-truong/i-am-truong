@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implement a GitLab CI pipeline to deploy a Spring Boot app.](https://dev.to/uwadon1/implement-a-gitlab-ci-pipeline-to-deploy-a-spring-boot-app-510k)
-- [Text to ASCII Converter: Master Character Encoding for Modern Development](https://dev.to/hardik_b2d8f0bca/text-to-ascii-converter-master-character-encoding-for-modern-development-54a8)
-- [Architectural Drivers: The Complete Guide to Making Better System Design Decisions](https://dev.to/pistacy_io/architectural-drivers-the-complete-guide-to-making-better-system-design-decisions-2gca)
-- [Easy Ways to Fix 504 Bad Gateway Timeout Error](https://dev.to/serveravatar/easy-ways-to-fix-504-bad-gateway-timeout-error-23gc)
-- [Getting Started with SmartCheckbox™: Install, Setup, and your First Rule](https://dev.to/aryanirani123/getting-started-with-smartcheckbox-install-setup-and-your-first-rule-42jo)
+- [JSON Formatter &amp; Validator: Master JSON for Modern APIs](https://dev.to/hardik_b2d8f0bca/json-formatter-validator-master-json-for-modern-apis-2fid)
+- [Ai annovation in health care](https://dev.to/ubaid_ullah_fa7600cc6735d/ai-annovation-in-health-care-3g4g)
+- [How to Fix High CPU Usage Issue in WordPress Site](https://dev.to/serveravatar/how-to-fix-high-cpu-usage-issue-in-wordpress-site-i6i)
+- [Some cool Web APIs](https://dev.to/adetolaesther/some-cool-web-apis-20m2)
+- [Pandas DataFrame into a PostgreSQL Table](https://dev.to/erlan_akbar/pandas-dataframe-into-a-postgresql-table-23o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
