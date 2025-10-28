@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried This New AI Art Generator… The Results Left Me Speechless!](https://dev.to/mrpraise/i-tried-this-new-ai-art-generator-the-results-left-me-speechless-4in5)
-- [Hoe Hassan Lammou Talent Omzet In Echte Game-Intelligentie](https://dev.to/hassanlammou/hoe-hassan-lammou-talent-omzet-in-echte-game-intelligentie-47bj)
-- [Top 10 Selenium Automation Best Practices for Beginners](https://dev.to/misterankit/top-10-selenium-automation-best-practices-for-beginners-2j9k)
-- [Life got in the way, but now Im restarting my journey here. 41 years old, always had an interest in coding and web development. Im hoping to be able to finish this time around.](https://dev.to/lazyayye_4633e5e47708d56e/life-got-in-the-way-but-now-im-restarting-my-journey-here-41-years-old-always-had-an-interest-3jk3)
-- [Ensuring Software Quality in Microservices Architecture](https://dev.to/jignect-technologies/ensuring-software-quality-in-microservices-architecture-40l9)
+- [How to Use Apidog for AI Test Case Generation](https://dev.to/therealmrmumba/how-to-use-apidog-for-ai-test-case-generation-1e4h)
+- [🚀 My Journey Learning App Development with Jetpack Compose at 16](https://dev.to/pjdeveloper896/my-journey-learning-app-development-with-jetpack-compose-at-16-3eij)
+- [Introducing the Flora Devnet.](https://dev.to/quionie/introducing-the-flora-devnet-1047)
+- [Why 57% of Agency Clients Leave &lpar;And How to Stop It&rpar;](https://dev.to/teamcamp/why-57-of-agency-clients-leave-and-how-to-stop-it-5amj)
+- [SAA模試の後半バテを防ぐ：65問を集中し切る6つの戦術](https://dev.to/beachone1155/saamo-shi-nohou-ban-batewofang-gu65wen-woji-zhong-siqie-ru6tunozhan-shu-437)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
