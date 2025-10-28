@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PARE DE USAR POST EM TUDO, JOVEM! &lpar;E Descubra o Superpoder da Idempotência&rpar;](https://dev.to/danielcamucatto/pare-de-usar-post-em-tudo-jovem-e-descubra-o-superpoder-da-idempotencia-2g90)
 - [The Ghost in the Machine: A Journey into the Floating Promise Pitfall](https://dev.to/alex_aslam/the-ghost-in-the-machine-a-journey-into-the-floating-promise-pitfall-3ck3)
 - [Simplifying Data Persistence in Ballerina: A Deep Dive into `bal persist`](https://dev.to/better-boy/simplifying-data-persistence-in-ballerina-a-deep-dive-into-bal-persist-4f9f)
 - [Tsonnet #25 - Chain me maybe, part 1](https://dev.to/bitmaybewise/tsonnet-25-chain-me-maybe-part-1-29kg)
-- [A Deeper Look at LaunchDarkly Architecture: More than Feature Flags](https://dev.to/alexiskroberson/a-deeper-look-at-launchdarkly-architecture-more-than-feature-flags-2gg0)
-- [The Duet of Real-Time: A Journey Through WebSockets and SSE](https://dev.to/alex_aslam/the-duet-of-real-time-a-journey-through-websockets-and-sse-4ap5)
+- [AgentKit vs n8n ⚔️ | Which Side Are You On?](https://dev.to/clickit_devops/agentkit-vs-n8n-which-side-are-you-on-1j4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
