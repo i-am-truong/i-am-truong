@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚫 Divs Are Not Buttons , Here’s Why &lpar;and How to Fix It&rpar;](https://dev.to/homayunmmdy/divs-are-not-buttons-heres-why-and-how-to-fix-it-48lh)
+- [[Boost]](https://dev.to/deftoexplore/-3gb)
 - [Mastering Dispute Resolution with Mastercard Collaboration](https://dev.to/rapyd/mastering-dispute-resolution-with-mastercard-collaboration-5f70)
-- [Don&#39;t Waste Mistakes: Leveraging Negative RL-Groups via Confidence Reweighting](https://dev.to/paperium/dont-waste-mistakes-leveraging-negative-rl-groups-via-confidence-reweighting-43ef)
-- [CloudWise Free Forever: Why We Built AWS Cost](https://dev.to/cloudwiseteam/cloudwise-free-forever-why-we-built-aws-cost-40ka)
-- [How Agentic Browsers Can Break Your Security Model](https://dev.to/rodrigo_fernandez_f69b4ba/how-agentic-browsers-can-break-your-security-model-4jck)
-- [Build a Customer Support AI Agent with smolagents + InterSystems IRIS &lpar;SQL, RAG &amp; Interoperability&rpar;](https://dev.to/intersystems/build-a-customer-support-ai-agent-with-smolagents-intersystems-iris-sql-rag-interoperability-5775)
+- [Run Your AI Agent with InterSystems IRIS and Local Models using Ollama](https://dev.to/intersystems/run-your-ai-agent-with-intersystems-iris-and-local-models-using-ollama-gf5)
+- [**Unlocking Fashion Style Recommendations with LIME-based Ex](https://dev.to/drcarlosruizviquez/unlocking-fashion-style-recommendations-with-lime-based-ex-5fc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
