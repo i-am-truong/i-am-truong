@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [artifital intellengence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellengence-17ok)
-- [Artifital Intellegence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellegence-4mk8)
-- [How to build a Python email-checker using the Mail7 API &lpar;and spot disposable addresses like TempMailbox&rpar;](https://dev.to/densi/how-to-build-a-python-email-checker-using-the-mail7-api-and-spot-disposable-addresses-like-3bh2)
-- [Agentic AI in Healthcare](https://dev.to/ubaid_ullah_fa7600cc6735d/agentic-ai-in-healthcare-hpm)
-- [Why Customer Journey Management Is the Core of Exceptional Service Experiences](https://dev.to/amtkumar/why-customer-journey-management-is-the-core-of-exceptional-service-experiences-386g)
+- [Scrape Data with Selenium in Python](https://dev.to/hasdata_com/scrape-data-with-selenium-in-python-1bbk)
+- [Encode internal state and context](https://dev.to/rikinptl/encode-internal-state-and-context-111n)
+- [Coding vs. Business Analytics: Finding Your True Path 🎯](https://dev.to/sanikatribhuvan/coding-vs-business-analytics-finding-your-true-path-48ho)
+- [How Inventory Check-In How Inventory Check-In Works from Start to Finish](https://dev.to/teresa_tran/how-inventory-check-in-how-inventory-check-in-works-from-start-to-finish-4bnm)
+- [𝐒𝐨𝐥𝐯𝐢𝐧𝐠 𝐂𝐨𝐥𝐝 𝐒𝐭𝐚𝐫𝐭𝐬 𝐢𝐧 𝐀𝐖𝐒 𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 &lpar;𝐋𝐚𝐦𝐛𝐝𝐚&rpar;](https://dev.to/shubhamb/-20bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
