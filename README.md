@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: A Human-Centric Approach to AI in Marketing](https://dev.to/mcleanforresterllc/beyond-the-hype-a-human-centric-approach-to-ai-in-marketing-58bc)
-- [🧩 Building a Complete Learning Path for Generative AI Engineers — From Python to AI Agents](https://dev.to/jaime_lucenaprez_3f7722/building-a-complete-learning-path-for-generative-ai-engineers-from-python-to-ai-agents-4i79)
-- [Marketing 101: Funnels, Campaigns, and What Marketing Actually Means](https://dev.to/mattstratton/marketing-101-funnels-campaigns-and-what-marketing-actually-means-4j81)
-- [Leanding page](https://dev.to/ari_wardanilubis_09c6801/leanding-page-fpo)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--4onl)
+- [Mastering Dispute Resolution with Mastercard Collaboration](https://dev.to/rapyd/mastering-dispute-resolution-with-mastercard-collaboration-5f70)
+- [Don&#39;t Waste Mistakes: Leveraging Negative RL-Groups via Confidence Reweighting](https://dev.to/paperium/dont-waste-mistakes-leveraging-negative-rl-groups-via-confidence-reweighting-43ef)
+- [CloudWise Free Forever: Why We Built AWS Cost](https://dev.to/cloudwiseteam/cloudwise-free-forever-why-we-built-aws-cost-40ka)
+- [How Agentic Browsers Can Break Your Security Model](https://dev.to/rodrigo_fernandez_f69b4ba/how-agentic-browsers-can-break-your-security-model-4jck)
+- [Build a Customer Support AI Agent with smolagents + InterSystems IRIS &lpar;SQL, RAG &amp; Interoperability&rpar;](https://dev.to/intersystems/build-a-customer-support-ai-agent-with-smolagents-intersystems-iris-sql-rag-interoperability-5775)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
