@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Magic behind DDEV &amp; Lando Routing](https://dev.to/mitrakumar/magic-behind-ddev-lando-routing-37m)
+- [Which AI Interview Copilot Boosts Your Job Offers the Most? 🔥](https://dev.to/hadil/which-ai-interview-copilot-boosts-your-job-offers-the-most-4kn1)
+- [Hacktoberfest 2025: Building Open Source Tools That Matter - A Maintainer&#39;s Journey](https://dev.to/extinctsion/hacktoberfest-2025-building-open-source-tools-that-matter-a-maintainers-journey-14pn)
 - [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
 - [What is Laravel Telescope?](https://dev.to/ethanleetech/what-is-laravel-telescope-2iaf)
-- [The Digital Detox Trend: What Developers Can Learn from Slowing Down Through Tarcutta Tourist Activities](https://dev.to/amelia_brown04/the-digital-detox-trend-what-developers-can-learn-from-slowing-down-through-tarcutta-tourist-259k)
-- [Step-by-Step Guide to Configure OneLogin for SSO in BoldSign](https://dev.to/boldsign/step-by-step-guide-to-configure-onelogin-for-sso-in-boldsign-e62)
-- [Is Your CI/CD Pipeline a Security Risk? &lpar;And How to Fix It!&rpar;](https://dev.to/karthik_n/is-your-cicd-pipeline-a-security-risk-and-how-to-fix-it-57in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
