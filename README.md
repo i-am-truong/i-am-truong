@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [100 Days of DevOps: Day 78](https://dev.to/wycliffealphus/100-days-of-devops-day-78-1i48)
-- [Secure Remote Password &lpar;SRP&rpar; protocol](https://dev.to/tiago_sousa_4baece16501be/secure-remote-password-srp-protocol-18oj)
-- [MCUboot: Secure Boot in Zephyr](https://dev.to/ripan030/mcuboot-secure-boot-in-zephyr-4aoi)
-- [From Tool to Partner: The Rise of Large Model Agents](https://dev.to/superorange0707/from-tool-to-partner-the-rise-of-large-model-agents-444h)
-- [Performance Testing Restaurant Software: Simulating Rush Hour Traffic](https://dev.to/andrewhuntingdon/performance-testing-restaurant-software-simulating-rush-hour-traffic-57oj)
+- [Fixing Type Hints for Callable Objects with Custom Signatures in Dagster](https://dev.to/jongwan93/fixing-type-hints-for-callable-objects-with-custom-signatures-in-dagster-3j73)
+- [No todo código se compila: notas sobre conciencia, tecnología y supervivencia digital](https://dev.to/bernarduriza/no-todo-codigo-se-compila-notas-sobre-conciencia-tecnologia-y-supervivencia-digital-85e)
+- [Your AI won’t save to your desktop—until you teach it how: a senior guide to the Model Context Protocol in Claude Desktop](https://dev.to/onlineproxy/your-ai-wont-save-to-your-desktop-until-you-teach-it-how-a-senior-guide-to-the-model-context-27lj)
+- [Coding Challenge Practice - Question 39](https://dev.to/tomivan/coding-challenge-practice-question-39-44og)
+- [Debugging Recompositions in Jetpack Compose](https://dev.to/mohitrajput987/debugging-recompositions-in-jetpack-compose-5e8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
