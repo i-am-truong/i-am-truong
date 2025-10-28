@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4pli)
-- [Stop writing authorization code for your FHIR-based app](https://dev.to/health_samurai/stop-writing-authorization-code-for-your-fhir-based-app-3flo)
-- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-6ca)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4i72)
-- [Building an Enterprise DAL: Automated Auditing for Data Integrity](https://dev.to/gigaherz/building-an-enterprise-dal-automated-auditing-for-data-integrity-1oj9)
+- [AWS CDK Unit Testing Advanced Tips: Aligning Feature Flags and Skipping Bundling](https://dev.to/aws-heroes/aws-cdk-unit-testing-advanced-tips-aligning-feature-flags-and-skipping-bundling-1fbk)
+- [Unit Testing Our First LINQ-like Methods in C#](https://dev.to/reenanms/unit-testing-our-first-linq-like-methods-in-c-26jp)
+- [When Microservices Don&#39;t Pay Off: The AtroCore Approach](https://dev.to/alex_bott/when-microservices-dont-pay-off-the-atrocore-approach-550d)
+- [Stop copy-pasting from ChatGPT — automate it with Agentillo &lpar;Chrome Extension&rpar;](https://dev.to/madddevman_f13576e6600527/stop-copy-pasting-from-chatgpt-automate-it-with-agentillo-chrome-extension-4o5d)
+- [Python basics - Day 15](https://dev.to/ian_b838138a27a917398d181/python-basics-day-15-kfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
