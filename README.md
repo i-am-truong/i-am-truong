@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Design Thinking Inspires Better Pet Products: The Case of the Custom Dog Collar](https://dev.to/hereyougopup_seo_47fd070b/how-design-thinking-inspires-better-pet-products-the-case-of-the-custom-dog-collar-1lel)
-- [Google Gemini AI Revolutionizes Slide Presentation Creation](https://dev.to/zulnourain_muhammad_4026c/google-gemini-ai-revolutionizes-slide-presentation-creation-3fp2)
-- [Essential Resources for Aspiring ML/AI Engineers in 2025](https://dev.to/rlealz/essential-resources-for-aspiring-mlai-engineers-in-2025-5ce9)
-- [Sales 101: What Your Sales Team Does &lpar;And How DevRel Fits In&rpar;](https://dev.to/mattstratton/sales-101-what-your-sales-team-does-and-how-devrel-fits-in-29d8)
-- [OpenAI will make its ChatGPT Go model free for Indian users for a year](https://dev.to/ekantiktechnologies/openai-will-make-its-chatgpt-go-model-free-for-indian-users-for-a-year-50g9)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4pli)
+- [Stop writing authorization code for your FHIR-based app](https://dev.to/health_samurai/stop-writing-authorization-code-for-your-fhir-based-app-3flo)
+- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-6ca)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4i72)
+- [Building an Enterprise DAL: Automated Auditing for Data Integrity](https://dev.to/gigaherz/building-an-enterprise-dal-automated-auditing-for-data-integrity-1oj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
