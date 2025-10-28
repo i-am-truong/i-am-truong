@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3eim)
-- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-1m19)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-38e7)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-h9)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-373j)
+- [🎮Let’s Build XoX with ArkTS🎮](https://dev.to/harmonyos/lets-build-xox-with-arkts-3811)
+- [The Timeless Art of Black and White Photography: A Modern Guide](https://dev.to/hardik_b2d8f0bca/the-timeless-art-of-black-and-white-photography-a-modern-guide-46ld)
+- [InnovaML: Driving Business Innovation Through Intelligent ML Solutions](https://dev.to/emma_schmidt_/innovaml-driving-business-innovation-through-intelligent-ml-solutions-2c39)
+- [The Rise of Cybercrime-as-a-Service: Inside the Hacker Marketplace](https://dev.to/shivakshi_rawat_e69cf6990/the-rise-of-cybercrime-as-a-service-inside-the-hacker-marketplace-29lg)
+- [Why Image Compression Matters for Your Website &lpar;And How to Do It Right&rpar;](https://dev.to/hardik_b2d8f0bca/why-image-compression-matters-for-your-website-and-how-to-do-it-right-53i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
