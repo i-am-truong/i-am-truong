@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rewind AI vs Microsoft Recall: Detailed Comparison](https://dev.to/nodminger/rewind-ai-vs-microsoft-recall-detailed-comparison-2h7j)
+- [&quot;Go-ing&quot; Crazy? Why This Little Gopher is Your New Best Friend ! 🚀](https://dev.to/akshay_gengaje/go-ing-crazy-why-this-little-gopher-is-your-new-best-friend-42g0)
+- [Perplexity Web Scraper](https://dev.to/oxylabs/perplexity-web-scraper-3kkk)
 - [Tags And Elements](https://dev.to/suma_suma/tags-and-elements-1c8)
 - [Fashion Analysis: Understanding Customer Churn in Fashion Industry](https://dev.to/gateru/fashion-analysis-understanding-customer-churn-in-fashion-industry-3jge)
-- [Automating Bluesky for AI Agents — AT Protocol Bot](https://dev.to/p3ngu1nzz/automating-bluesky-for-ai-agents-at-protocol-bot-44k1)
-- [🚀 Why Rails 8’s New Deployment Model Is a Game-Changer](https://dev.to/bibimbop123/why-rails-8s-new-deployment-model-is-a-game-changer-2p1e)
-- [When Should an Analyst Suggest Using Queues in Integrations?](https://dev.to/asiryi/when-should-an-analyst-suggest-using-queues-in-integrations-389c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
