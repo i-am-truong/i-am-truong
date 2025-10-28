@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Parin Game Engine Devlog – October 2025](https://dev.to/kapendev/parin-game-engine-devlog-october-2025-5dfi)
-- [Halloween Landing Page](https://dev.to/vibhu_khati_701b28b241aa9/halloween-landing-page-467f)
-- [How I Built a Federated FHIR Ecosystem for Indonesia’s Healthcare Network](https://dev.to/chiqors/how-i-built-a-federated-fhir-ecosystem-for-indonesias-healthcare-network-4m74)
-- [Gödel’s Theorem Proves Why AI Medical Diagnosis Will Always Have Fatal Flaws](https://dev.to/thinking_healer/godels-theorem-proves-why-ai-medical-diagnosis-will-always-have-fatal-flaws-4gl4)
-- [Why Python Stands Out as the Jack of All Trades](https://dev.to/tanmayvj10/why-python-still-stands-out-as-the-jack-of-all-trades-523h)
+- [Society need tecnology](https://dev.to/ubaid_ullah_fa7600cc6735d/society-need-tecnology-5gp5)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_083ff294/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1i4e)
+- [Web Developer Travis McCracken on Building a Private API with Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-a-private-api-with-rust-j0o)
+- [What are the most common development and security pitfalls when launching a centralized exchange and how to avoid them?](https://dev.to/zara_fernandes_b02180aa0b/what-are-the-most-common-development-and-security-pitfalls-when-launching-a-centralized-exchange-1e5k)
+- [Usando o Oh My Zsh!](https://dev.to/kbdemiranda/usando-o-oh-my-zsh-489l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
