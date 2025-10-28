@@ -119,15 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 .NET Memory Hacks That Actually Work in 2025](https://dev.to/mehul_budasana/top-6-net-memory-hacks-that-actually-work-in-2025-1f17)
-- [What you’ll learn 👇 
-🔹 When and why to refactor old React apps 
-🔹 How to introduce micro-frontends step by step 
-🔹 Avoiding common refactor pitfalls 
-🔹 Building for scalability and speed](https://dev.to/tahamjp/what-youll-learn-when-and-why-to-refactor-old-react-apps-how-to-introduce-196e)
-- [Why Do Agencies Rely on Zapier Specialists?](https://dev.to/asharmalik/why-do-agencies-rely-on-zapier-specialists-517c)
-- [test_devto](https://dev.to/__f27cfeca2e21de8d2378/testdevto-18pi)
-- [merge jsonschema](https://dev.to/devangular/merge-jsonschema-3667)
+- [Taming Context Windows: Disable Auto-Compact for Better AI](https://dev.to/agentic-engineer/taming-context-windows-disable-auto-compact-for-better-ai-4gbm)
+- [How the group behind me expects me to play https://www.youtube.com/watch?v=ao00KISKV2Q](https://dev.to/ben/how-the-group-behind-me-expects-me-to-play-httpswwwyoutubecomwatchvao00kiskv2q-1a3p)
+- [Can a Sentence Give Orders Without a Speaker?](https://dev.to/agustin_v_startari/can-a-sentence-give-orders-without-a-speaker-5cf7)
+- [Dev Log Backlog](https://dev.to/desertthunder/dev-log-backlog-f38)
+- [Artbitrator Launches!](https://dev.to/adzhydra/artbitrator-launches-2lk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
