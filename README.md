@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Multi-Agent Code Review System That&#39;s 4x Faster &lpar;Thanks to Zero-Copy Database Forks!&rpar;](https://dev.to/simranshaikh20_50/i-built-a-multi-agent-code-review-system-thats-4x-faster-thanks-to-zero-copy-database-forks-3bd5)
-- [Azure DevOps PR AI Code Review: Finally, A Simple Solution](https://dev.to/jay_elsheikh_59b14ad67922/azure-devops-pr-ai-code-review-finally-a-simple-solution-3fkm)
-- [Announcing ÆtherCodex — a Hermetic AI Coding Oracle &lpar;TextMate today, portable core&rpar;](https://dev.to/dantiel/announcing-aethercodex-a-hermetic-ai-coding-oracle-textmate-today-portable-core-4658)
-- [📬🔐Sending Emails in Microsoft 365 using OAuth 2.0 &lpar;and SMTP Relay&rpar;](https://dev.to/fonteeboa/sending-emails-in-microsoft-365-using-oauth-20-and-smtp-relay-3nba)
-- [Frontend to Backend: From Vite to Express❗](https://dev.to/cristea_theodora_6200140b/frontend-to-backend-from-vite-to-express-2c83)
+- [Prevents storing duplicate files in Laravel with Dedupler](https://dev.to/maxkhim/prevents-storing-duplicate-files-in-laravel-with-dedupler-18o0)
+- [Understanding Better-SQLite3: The Fastest SQLite Library for Node.js](https://dev.to/lovestaco/understanding-better-sqlite3-the-fastest-sqlite-library-for-nodejs-4n8)
+- [How a Simple Race Condition Can Take Down Even the Biggest Systems](https://dev.to/georgekobaidze/how-a-simple-race-condition-can-take-down-even-the-biggest-systems-16l0)
+- [Bringing Data to Life: How to Create Dynamic Tableau Dashboards with GIFs](https://dev.to/dipti_m_2e7ba36c478d1a48a/bringing-data-to-life-how-to-create-dynamic-tableau-dashboards-with-gifs-5b6i)
+- [Ecomerce fullstack platform](https://dev.to/kennethdavid760/ecomerce-fullstack-platform-48f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
