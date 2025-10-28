@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rewind AI vs Microsoft Recall: Detailed Comparison](https://dev.to/nodminger/rewind-ai-vs-microsoft-recall-detailed-comparison-2h7j)
-- [&quot;Go-ing&quot; Crazy? Why This Little Gopher is Your New Best Friend ! 🚀](https://dev.to/akshay_gengaje/go-ing-crazy-why-this-little-gopher-is-your-new-best-friend-42g0)
-- [Perplexity Web Scraper](https://dev.to/oxylabs/perplexity-web-scraper-3kkk)
-- [Tags And Elements](https://dev.to/suma_suma/tags-and-elements-1c8)
-- [Fashion Analysis: Understanding Customer Churn in Fashion Industry](https://dev.to/gateru/fashion-analysis-understanding-customer-churn-in-fashion-industry-3jge)
+- [Solving WordPress Security: What If We Just Didn&#39;t Trust Admins?](https://dev.to/wefixitgr/solving-wordpress-security-what-if-we-just-didnt-trust-admins-356n)
+- [[ガイド]Self-hostedのオープンソースTwit*hを爆速でぶっ立てる方法。](https://dev.to/backflip_plush/gaidoself-hostednoopunsosutwithwobao-su-debutuli-terufang-fa--233j)
+- [Installing pandas with uv on windows](https://dev.to/nazanin_ashrafi/installing-pandas-with-uv-on-windows-1nkj)
+- [30 Days Wasted: How AI lies Burned My $198 Azure Trial](https://dev.to/bekalah/30-days-wasted-how-ai-lies-burned-my-198-azure-trial-1amd)
+- [How to Use Veo 3.1 API](https://dev.to/_37bbf0c253c0b3edec531e/how-to-use-veo-31-api-4f3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
