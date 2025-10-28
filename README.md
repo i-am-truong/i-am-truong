@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Solving WordPress Security: What If We Just Didn&#39;t Trust Admins?](https://dev.to/wefixitgr/solving-wordpress-security-what-if-we-just-didnt-trust-admins-356n)
-- [[ガイド]Self-hostedのオープンソースTwit*hを爆速でぶっ立てる方法。](https://dev.to/backflip_plush/gaidoself-hostednoopunsosutwithwobao-su-debutuli-terufang-fa--233j)
-- [Installing pandas with uv on windows](https://dev.to/nazanin_ashrafi/installing-pandas-with-uv-on-windows-1nkj)
-- [30 Days Wasted: How AI lies Burned My $198 Azure Trial](https://dev.to/bekalah/30-days-wasted-how-ai-lies-burned-my-198-azure-trial-1amd)
-- [How to Use Veo 3.1 API](https://dev.to/_37bbf0c253c0b3edec531e/how-to-use-veo-31-api-4f3h)
+- [Beyond the Hype: A Human-Centric Approach to AI in Marketing](https://dev.to/mcleanforresterllc/beyond-the-hype-a-human-centric-approach-to-ai-in-marketing-58bc)
+- [🧩 Building a Complete Learning Path for Generative AI Engineers — From Python to AI Agents](https://dev.to/jaime_lucenaprez_3f7722/building-a-complete-learning-path-for-generative-ai-engineers-from-python-to-ai-agents-4i79)
+- [Marketing 101: Funnels, Campaigns, and What Marketing Actually Means](https://dev.to/mattstratton/marketing-101-funnels-campaigns-and-what-marketing-actually-means-4j81)
+- [Leanding page](https://dev.to/ari_wardanilubis_09c6801/leanding-page-fpo)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--4onl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
