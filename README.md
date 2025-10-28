@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🏢 Enterprise Design Patterns: Building Scalable Systems with Fowler’s Patterns in Go](https://dev.to/cesar_nikolascamacmelen/enterprise-design-patterns-building-scalable-systems-with-fowlers-patterns-in-go-2ckk)
-- [⚡ Stop Explaining Your Project to AI — Let It Learn with Vibe Kit](https://dev.to/nolrm/stop-explaining-your-project-to-ai-let-it-learn-with-vibe-kit-40fh)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_25c2e834/you-might-not-need-websockets-the-simple-power-of-server-sent-events-dan)
-- [Day 10: Indexes and Performance Optimization](https://dev.to/hardik_kanajariya/day-10-indexes-and-performance-optimization-1ajk)
-- [CSS Typography: Advanced Text Styling and Font Features](https://dev.to/sharique_siddiqui_8242dad/css-typography-advanced-text-styling-and-font-features-2kl2)
+- [Revolutionize Content Creation: HeyDream&#39;s Free AI Image to Video Generator Powered by Seedance 1.0](https://dev.to/heydream_im/revolutionize-content-creation-heydreams-free-ai-image-to-video-generator-powered-by-seedance-10-18be)
+- [OSD600: Lab 6 — Repomix&#39;s token count tree feature and its prototyping in Rust](https://dev.to/david_rivera_8d845b35931e/osd600-lab-6-repomixs-token-count-tree-feature-and-its-prototyping-in-rust-2a2m)
+- [From Dashboards to Decisions: Building Scalable Self-Service BI for Real Impact](https://dev.to/laxmivanam/from-dashboards-to-decisions-building-scalable-self-service-bi-for-real-impact-a27)
+- [Convert Excel to SVG in Java: A Comprehensive Guide](https://dev.to/lu_liu_e3fc806354d9a952b7/convert-excel-to-svg-in-java-a-comprehensive-guide-41m1)
+- [Secure by Design in the Age of GenAI: How Devs Must Shift Their Software Security Practices in 2025](https://dev.to/ihonchar/secure-by-design-in-the-age-of-genai-how-devs-must-shift-their-software-security-practices-in-2025-1c96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
