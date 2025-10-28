@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Magic behind DDEV &amp; Lando Routing](https://dev.to/mitrakumar/magic-behind-ddev-lando-routing-37m)
-- [Which AI Interview Copilot Boosts Your Job Offers the Most? 🔥](https://dev.to/hadil/which-ai-interview-copilot-boosts-your-job-offers-the-most-4kn1)
-- [Hacktoberfest 2025: Building Open Source Tools That Matter - A Maintainer&#39;s Journey](https://dev.to/extinctsion/hacktoberfest-2025-building-open-source-tools-that-matter-a-maintainers-journey-14pn)
-- [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
-- [What is Laravel Telescope?](https://dev.to/ethanleetech/what-is-laravel-telescope-2iaf)
+- [Parin Game Engine Devlog – October 2025](https://dev.to/kapendev/parin-game-engine-devlog-october-2025-5dfi)
+- [Halloween Landing Page](https://dev.to/vibhu_khati_701b28b241aa9/halloween-landing-page-467f)
+- [How I Built a Federated FHIR Ecosystem for Indonesia’s Healthcare Network](https://dev.to/chiqors/how-i-built-a-federated-fhir-ecosystem-for-indonesias-healthcare-network-4m74)
+- [Gödel’s Theorem Proves Why AI Medical Diagnosis Will Always Have Fatal Flaws](https://dev.to/thinking_healer/godels-theorem-proves-why-ai-medical-diagnosis-will-always-have-fatal-flaws-4gl4)
+- [Why Python Stands Out as the Jack of All Trades](https://dev.to/tanmayvj10/why-python-still-stands-out-as-the-jack-of-all-trades-523h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
