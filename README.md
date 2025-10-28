@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Autonomous AI Agents in C#: Tips from Real-World Applications](https://dev.to/lofcz/building-autonomous-ai-agents-in-c-tips-from-real-world-applications-4f74)
 - [HactoberFest&#39;s Week 3: Fixing a Type-Casting Issue in Kestra’s Chunk Pebble Filter](https://dev.to/hsachdeva9/hactoberfests-week-3-fixing-a-type-casting-issue-in-kestras-chunk-pebble-filter-124f)
 - [Quantum Circuits: Can AI Design Better Entanglement Networks? by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-circuits-can-ai-design-better-entanglement-networks-by-arvind-sundararajan-4nao)
 - [The Hidden Costs of Common AI SDKs in 2025: What Developers Need to Know](https://dev.to/lofcz/the-hidden-costs-of-common-ai-sdks-in-2025-what-developers-need-to-know-4b0)
 - [Building a Production Kubernetes Cluster for $15/Month In Four Days](https://dev.to/araldhafeeri/building-a-production-kubernetes-cluster-for-15month-in-four-days-5ehf)
-- [How to onboard engineers 10x faster](https://dev.to/gentos/how-to-onboard-engineers-faster-306g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
