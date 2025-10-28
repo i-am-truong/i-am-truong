@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The smartest wallet wins - new trend in crypto UX](https://dev.to/kubo_sk/the-smartest-wallet-wins-new-trend-in-crypto-ux-e43)
-- [Is your React Native app stable or just working &quot;for now&quot;?](https://dev.to/jboteros/is-your-react-native-app-stable-or-just-working-for-now-1la9)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_ece4a271/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-ce4)
-- [O que é Cloud Computing?](https://dev.to/sinngjpeg/o-que-e-cloud-computing-1pjb)
-- [Exporting Individual Tabs from Google Docs as PDFs](https://dev.to/googleworkspace/exporting-individual-tabs-from-google-docs-as-pdfs-2903)
+- [🏢 Enterprise Design Patterns: Building Scalable Systems with Fowler’s Patterns in Go](https://dev.to/cesar_nikolascamacmelen/enterprise-design-patterns-building-scalable-systems-with-fowlers-patterns-in-go-2ckk)
+- [⚡ Stop Explaining Your Project to AI — Let It Learn with Vibe Kit](https://dev.to/nolrm/stop-explaining-your-project-to-ai-let-it-learn-with-vibe-kit-40fh)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_25c2e834/you-might-not-need-websockets-the-simple-power-of-server-sent-events-dan)
+- [Day 10: Indexes and Performance Optimization](https://dev.to/hardik_kanajariya/day-10-indexes-and-performance-optimization-1ajk)
+- [CSS Typography: Advanced Text Styling and Font Features](https://dev.to/sharique_siddiqui_8242dad/css-typography-advanced-text-styling-and-font-features-2kl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
