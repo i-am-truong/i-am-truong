@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s Ethical Stance: AI Bots and Content Boundaries](https://dev.to/kielp_riche_79dd07697340c/microsofts-ethical-stance-ai-bots-and-content-boundaries-4g60)
-- [Deploy with Azure Container Apps](https://dev.to/lenut_ileni_c02e7a2e3e715/deploy-with-azure-container-apps-2271)
-- [[Solo Development] Finding a place to study in Vancouver! Creating a map app with React and Supabase](https://dev.to/kazutora_hattori_66972c88/solo-development-finding-a-place-to-study-in-vancouver-creating-a-map-app-with-react-and-supabase-3ka4)
-- [🚀 4 TypeScript Concepts That Made Me Write Cleaner Code](https://dev.to/mashayeakh_islam_2666f2c3/4-typescript-concepts-that-made-me-write-cleaner-code-42m9)
-- [Estimate cloud costs with Terraform and Infracost](https://dev.to/techielass/estimate-cloud-costs-with-terraform-and-infracost-16kd)
+- [Designing Deployable Voice-AI Playbooks &lpar;p95 &lt; 300 ms, preflight blue/green&rpar;](https://dev.to/ayoolasolomon/designing-deployable-voice-ai-playbooks-p95-300-ms-preflight-bluegreen-55eh)
+- [Automating the Employee Journey: A Guide to Managing the Hire-to-Retire Lifecycle with Power Automate](https://dev.to/shubhojeet2001/automating-the-employee-journey-a-guide-to-managing-the-hire-to-retire-lifecycle-with-power-1iml)
+- [New AI Agent Example](https://dev.to/necatiozmen/new-ai-agent-example-f8i)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-44la)
+- [What can we do while facing the huge difficulty of writing too long, multiple-level nested SQL codes?](https://dev.to/esproc_spl/what-can-we-do-while-facing-the-huge-difficulty-of-writing-too-long-multiple-level-nested-sql-8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
