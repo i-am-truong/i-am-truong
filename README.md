@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing “Unable to Create Directory wp-content/uploads” Error in WordPress on macOS &lpar;XAMPP&rpar;🧠](https://dev.to/chaitanyarai3/fixing-unable-to-create-directory-wp-contentuploads-error-in-wordpress-on-macos-xampp-52om)
+- [Registering Schemas for Smarter AI Models](https://dev.to/mabualzait/registering-schemas-for-smarter-ai-models-ph2)
+- [Building a FREE Speech-to-Text App with OpenAI Whisper &lpar;No API Costs!&rpar;](https://dev.to/allanninal/building-a-free-speech-to-text-app-with-openai-whisper-no-api-costs-1a90)
 - [Why You Should Care About Async Context Managers and Iterators](https://dev.to/imsushant12/why-you-should-care-about-async-context-managers-and-iterators-1na)
 - [What I learnt about arrays and pointers in C &lpar;As a refresher&rpar;](https://dev.to/ian_kamande/what-i-learnt-about-arrays-and-pointers-in-c-as-a-refresher-2419)
-- [The Sun Wukong Framework: Encoding Escalation, Evasion, and Strategic Containment in Cybersecurity](https://dev.to/narnaiezzsshaa_truong/the-sun-wukong-framework-encoding-escalation-evasion-and-strategic-containment-in-cybersecurity-9do)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-m7l)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2c5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
