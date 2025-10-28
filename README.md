@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [100 Days of DevOps: Day 78](https://dev.to/wycliffealphus/100-days-of-devops-day-78-1i48)
+- [Secure Remote Password &lpar;SRP&rpar; protocol](https://dev.to/tiago_sousa_4baece16501be/secure-remote-password-srp-protocol-18oj)
+- [MCUboot: Secure Boot in Zephyr](https://dev.to/ripan030/mcuboot-secure-boot-in-zephyr-4aoi)
+- [From Tool to Partner: The Rise of Large Model Agents](https://dev.to/superorange0707/from-tool-to-partner-the-rise-of-large-model-agents-444h)
 - [Performance Testing Restaurant Software: Simulating Rush Hour Traffic](https://dev.to/andrewhuntingdon/performance-testing-restaurant-software-simulating-rush-hour-traffic-57oj)
-- [API Development: Building the Foundation of Modern Software in 2025](https://dev.to/hamd_writer_8c77d9c88c188/api-development-building-the-foundation-of-modern-software-in-2025-hkp)
-- [StatDeck](https://dev.to/splotdev/statdeck-5021)
-- [Why developers are leaving Next.js for TanStack Start, and loving it](https://dev.to/tessamero/why-developers-are-leaving-nextjs-for-tanstack-start-and-loving-it-459a)
-- [Remote Development Team Building Software for Remote Locations](https://dev.to/richardsandown/remote-development-team-building-software-for-remote-locations-3d45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
