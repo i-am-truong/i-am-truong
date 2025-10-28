@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking Beyond Cline? Here&#39;s The 7 Best Cline Alternatives to Check Out!](https://dev.to/matt_tanner_f9c36595644ad/looking-beyond-cline-heres-the-7-best-cline-alternatives-to-check-out-43a1)
-- [APIs, Agility, and Edge: Inside the Rise of Product-First Telcos](https://dev.to/rishabhsharma123/apis-agility-and-edge-inside-the-rise-of-product-first-telcos-40a)
-- [Beyond `{firstName}`: Engineering a Scalable B2B Personalization Engine](https://dev.to/michaelaiglobal/beyond-firstname-engineering-a-scalable-b2b-personalization-engine-3h1d)
-- [Prevents storing duplicate files in Laravel with Dedupler](https://dev.to/maxkhim/prevents-storing-duplicate-files-in-laravel-with-dedupler-18o0)
-- [Understanding Better-SQLite3: The Fastest SQLite Library for Node.js](https://dev.to/lovestaco/understanding-better-sqlite3-the-fastest-sqlite-library-for-nodejs-4n8)
+- [Performance Testing Restaurant Software: Simulating Rush Hour Traffic](https://dev.to/andrewhuntingdon/performance-testing-restaurant-software-simulating-rush-hour-traffic-57oj)
+- [API Development: Building the Foundation of Modern Software in 2025](https://dev.to/hamd_writer_8c77d9c88c188/api-development-building-the-foundation-of-modern-software-in-2025-hkp)
+- [StatDeck](https://dev.to/splotdev/statdeck-5021)
+- [Why developers are leaving Next.js for TanStack Start, and loving it](https://dev.to/tessamero/why-developers-are-leaving-nextjs-for-tanstack-start-and-loving-it-459a)
+- [Remote Development Team Building Software for Remote Locations](https://dev.to/richardsandown/remote-development-team-building-software-for-remote-locations-3d45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
