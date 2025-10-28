@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Side Project Remains Unfinished: Burnout Explained](https://dev.to/rubenoalvarado/why-your-side-project-remains-unfinished-burnout-explained-ape)
-- [Making non-atomic actions atomic using intents](https://dev.to/shalvah/making-non-atomic-actions-atomic-using-intents-25lg)
-- [The Fruit Fly&#39;s Secret to Fault-Tolerant AI: Redundancy Done Right](https://dev.to/arvind_sundararajan/the-fruit-flys-secret-to-fault-tolerant-ai-redundancy-done-right-5bkc)
-- [Exploring Repomix and Learning from Its Feature](https://dev.to/aubreyddd/exploring-repomix-and-learning-from-its-feature-733)
-- [S3](https://dev.to/jumptotech/s3-1mp7)
+- [The smartest wallet wins - new trend in crypto UX](https://dev.to/kubo_sk/the-smartest-wallet-wins-new-trend-in-crypto-ux-e43)
+- [Is your React Native app stable or just working &quot;for now&quot;?](https://dev.to/jboteros/is-your-react-native-app-stable-or-just-working-for-now-1la9)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_ece4a271/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-ce4)
+- [O que é Cloud Computing?](https://dev.to/sinngjpeg/o-que-e-cloud-computing-1pjb)
+- [Exporting Individual Tabs from Google Docs as PDFs](https://dev.to/googleworkspace/exporting-individual-tabs-from-google-docs-as-pdfs-2903)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
