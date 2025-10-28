@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix VPN Not Connecting Errors: Troubleshooting Guide](https://dev.to/disiplin_forml_e60c4755/how-to-fix-vpn-not-connecting-errors-troubleshooting-guide-583l)
-- [What&#39;s New At Releem - September 2025](https://dev.to/drupaladmin/whats-new-at-releem-september-2025-1dmj)
-- [The Power of Precision in Code: Fixing the href attribute](https://dev.to/tlorent/the-power-of-precision-in-code-1fnl)
-- [Technology](https://dev.to/ubaid_ullah_fa7600cc6735d/technology-4a9c)
-- [Tecnology](https://dev.to/ubaid_ullah_fa7600cc6735d/tecnology-32el)
+- [Contribution Chronicles: From Issue to Impact &lpar;Hacktoberfest&rpar;](https://dev.to/meshv_patel_7126d62eb60de/contribution-chronicles-from-issue-to-impact-hacktoberfest-4el5)
+- [Filament: Hide Submit and Cancel Buttons in wizard](https://dev.to/johndivam/filament-hide-submit-and-cancel-buttons-in-wizard-2bi7)
+- [How to Read Stock Charts: A Visual Guide](https://dev.to/globridge-tech/how-to-read-stock-charts-a-visual-guide-252i)
+- [Society and Tecnology](https://dev.to/ubaid_ullah_fa7600cc6735d/society-and-tecnology-23dl)
+- [AI](https://dev.to/ubaid_ullah_fa7600cc6735d/ai-1a4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
