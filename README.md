@@ -119,10 +119,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Cyber Security Risk Quantification is Key to Creating a Futureproof Security Strategy](https://dev.to/mosek/why-cyber-security-risk-quantification-is-key-to-creating-a-futureproof-security-strategy-k22)
 - [AWS CDK Unit Testing Advanced Tips: Aligning Feature Flags and Skipping Bundling](https://dev.to/aws-heroes/aws-cdk-unit-testing-advanced-tips-aligning-feature-flags-and-skipping-bundling-1fbk)
 - [Unit Testing Our First LINQ-like Methods in C#](https://dev.to/reenanms/unit-testing-our-first-linq-like-methods-in-c-26jp)
 - [When Microservices Don&#39;t Pay Off: The AtroCore Approach](https://dev.to/alex_bott/when-microservices-dont-pay-off-the-atrocore-approach-550d)
-- [Stop copy-pasting from ChatGPT — automate it with Agentillo &lpar;Chrome Extension&rpar;](https://dev.to/madddevman_f13576e6600527/stop-copy-pasting-from-chatgpt-automate-it-with-agentillo-chrome-extension-4o5d)
 - [Python basics - Day 15](https://dev.to/ian_b838138a27a917398d181/python-basics-day-15-kfd)
 <!-- BLOG-POST-LIST:END -->
 
