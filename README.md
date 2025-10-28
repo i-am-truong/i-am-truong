@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a local LLM + Python tool that keeps your folders from turning into chaos](https://dev.to/sukantom/i-built-a-local-llm-python-tool-that-keeps-your-folders-from-turning-into-chaos-2jmb)
-- [Artifital Intellegence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellegence-e5n)
-- [Giving My Dashboard a Voice](https://dev.to/humairamuhyiddeen/giving-my-dashboard-a-voice-hnn)
-- [Artifitial Intellegnce](https://dev.to/ubaid_ullah_fa7600cc6735d/artifitial-intellegnce-3fc5)
-- [How We Built an AI That Transforms Your Photos Into Pixel Art in 10 Seconds &lpar;And Why It Matters for Web3&rpar;](https://dev.to/matias_affolter/how-we-built-an-ai-that-transforms-your-photos-into-pixel-art-in-10-seconds-and-why-it-matters-for-47pk)
+- [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
+- [What is Laravel Telescope?](https://dev.to/ethanleetech/what-is-laravel-telescope-2iaf)
+- [The Digital Detox Trend: What Developers Can Learn from Slowing Down Through Tarcutta Tourist Activities](https://dev.to/amelia_brown04/the-digital-detox-trend-what-developers-can-learn-from-slowing-down-through-tarcutta-tourist-259k)
+- [Step-by-Step Guide to Configure OneLogin for SSO in BoldSign](https://dev.to/boldsign/step-by-step-guide-to-configure-onelogin-for-sso-in-boldsign-e62)
+- [Is Your CI/CD Pipeline a Security Risk? &lpar;And How to Fix It!&rpar;](https://dev.to/karthik_n/is-your-cicd-pipeline-a-security-risk-and-how-to-fix-it-57in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
