@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PARE DE USAR POST EM TUDO, JOVEM! &lpar;E Descubra o Superpoder da Idempotência&rpar;](https://dev.to/danielcamucatto/pare-de-usar-post-em-tudo-jovem-e-descubra-o-superpoder-da-idempotencia-2g90)
-- [The Ghost in the Machine: A Journey into the Floating Promise Pitfall](https://dev.to/alex_aslam/the-ghost-in-the-machine-a-journey-into-the-floating-promise-pitfall-3ck3)
-- [Simplifying Data Persistence in Ballerina: A Deep Dive into `bal persist`](https://dev.to/better-boy/simplifying-data-persistence-in-ballerina-a-deep-dive-into-bal-persist-4f9f)
-- [Tsonnet #25 - Chain me maybe, part 1](https://dev.to/bitmaybewise/tsonnet-25-chain-me-maybe-part-1-29kg)
-- [AgentKit vs n8n ⚔️ | Which Side Are You On?](https://dev.to/clickit_devops/agentkit-vs-n8n-which-side-are-you-on-1j4f)
+- [MCUboot: Firmware Application Image Format](https://dev.to/ripan030/mcuboot-firmware-application-image-format-3084)
+- [CloudFront and AWS global accelerator](https://dev.to/jumptotech/cloudfront-and-aws-global-accelerator-48fl)
+- [Before You Learn Closures, Understand Context](https://dev.to/elfaidighassen/before-you-learn-closures-understand-context-gfd)
+- [Classic solutions architecture discussions](https://dev.to/jumptotech/classic-solutions-architecture-discussions-15bb)
+- [Migrating to a Multimodal AI Framework: A Step-by-Step Guide for C# Developers](https://dev.to/lofcz/migrating-to-a-multimodal-ai-framework-a-step-by-step-guide-for-c-developers-4k84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
