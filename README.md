@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Cyber Security Risk Quantification is Key to Creating a Futureproof Security Strategy](https://dev.to/mosek/why-cyber-security-risk-quantification-is-key-to-creating-a-futureproof-security-strategy-k22)
-- [AWS CDK Unit Testing Advanced Tips: Aligning Feature Flags and Skipping Bundling](https://dev.to/aws-heroes/aws-cdk-unit-testing-advanced-tips-aligning-feature-flags-and-skipping-bundling-1fbk)
-- [Unit Testing Our First LINQ-like Methods in C#](https://dev.to/reenanms/unit-testing-our-first-linq-like-methods-in-c-26jp)
-- [When Microservices Don&#39;t Pay Off: The AtroCore Approach](https://dev.to/alex_bott/when-microservices-dont-pay-off-the-atrocore-approach-550d)
-- [Python basics - Day 15](https://dev.to/ian_b838138a27a917398d181/python-basics-day-15-kfd)
+- [From job offer to malware: developers, be cautious!](https://dev.to/perisicnikola37/from-job-offer-to-malware-developers-be-cautious-35dc)
+- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-1amd)
+- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-328i)
+- [This...has not worked the last three nights 😒](https://dev.to/jess/thishas-not-worked-the-last-there-nights-33fj)
+- [Lessons from Volvo and BMW: How Car Companies Really Integrate Their Systems](https://dev.to/asiryi/lessons-from-volvo-and-bmw-how-car-companies-really-integrate-their-systems-114n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
