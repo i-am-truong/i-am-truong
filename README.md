@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Type Hints for Callable Objects with Custom Signatures in Dagster](https://dev.to/jongwan93/fixing-type-hints-for-callable-objects-with-custom-signatures-in-dagster-3j73)
-- [No todo código se compila: notas sobre conciencia, tecnología y supervivencia digital](https://dev.to/bernarduriza/no-todo-codigo-se-compila-notas-sobre-conciencia-tecnologia-y-supervivencia-digital-85e)
-- [Your AI won’t save to your desktop—until you teach it how: a senior guide to the Model Context Protocol in Claude Desktop](https://dev.to/onlineproxy/your-ai-wont-save-to-your-desktop-until-you-teach-it-how-a-senior-guide-to-the-model-context-27lj)
-- [Coding Challenge Practice - Question 39](https://dev.to/tomivan/coding-challenge-practice-question-39-44og)
-- [Debugging Recompositions in Jetpack Compose](https://dev.to/mohitrajput987/debugging-recompositions-in-jetpack-compose-5e8b)
+- [A Deeper Look at LaunchDarkly Architecture: More than Feature Flags](https://dev.to/alexiskroberson/a-deeper-look-at-launchdarkly-architecture-more-than-feature-flags-2gg0)
+- [The Duet of Real-Time: A Journey Through WebSockets and SSE](https://dev.to/alex_aslam/the-duet-of-real-time-a-journey-through-websockets-and-sse-4ap5)
+- [Coding Scalable UIs In Cursor With Kombai](https://dev.to/cesscode/coding-scalable-uis-in-cursor-with-kombai-475d)
+- [Tools That Make Coding a LOT Easier](https://dev.to/rylan/tools-that-make-coding-a-lot-easier-5017)
+- [Flutter Basics](https://dev.to/ideategudy/flutter-basics-4l2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
