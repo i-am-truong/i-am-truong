@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implement a GitLab CI pipeline to deploy a Spring Boot app.](https://dev.to/uwadon1/implement-a-gitlab-ci-pipeline-to-deploy-a-spring-boot-app-510k)
+- [Text to ASCII Converter: Master Character Encoding for Modern Development](https://dev.to/hardik_b2d8f0bca/text-to-ascii-converter-master-character-encoding-for-modern-development-54a8)
+- [Architectural Drivers: The Complete Guide to Making Better System Design Decisions](https://dev.to/pistacy_io/architectural-drivers-the-complete-guide-to-making-better-system-design-decisions-2gca)
 - [Easy Ways to Fix 504 Bad Gateway Timeout Error](https://dev.to/serveravatar/easy-ways-to-fix-504-bad-gateway-timeout-error-23gc)
 - [Getting Started with SmartCheckbox™: Install, Setup, and your First Rule](https://dev.to/aryanirani123/getting-started-with-smartcheckbox-install-setup-and-your-first-rule-42jo)
-- [Robotics for Beginners: A Plain-English Introduction](https://dev.to/junhan_hu_f2c461cd284ee45/robotics-for-beginners-a-plain-english-introduction-28g)
-- [Regex Tester: Mastering Regular Expressions for Modern Development](https://dev.to/hardik_b2d8f0bca/regex-tester-mastering-regular-expressions-for-modern-development-2djf)
-- [Hands-On Tutorial – Build a Content Approval Workflow with SmartCheckbox](https://dev.to/aryanirani123/hands-on-tutorial-build-a-content-approval-workflow-with-smartcheckbox-1mc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
