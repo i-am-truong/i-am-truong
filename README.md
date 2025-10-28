@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding x402: The Protocol Making Internet Payments Actually Work](https://dev.to/priyanshu_rajput_931e8877/understanding-x402-the-protocol-making-internet-payments-actually-work-1m07)
 - [How to find an open source project to contribute to?](https://dev.to/szabgab/how-to-find-an-open-source-project-to-contribute-to-4l02)
+- [Ditch the Specialist Myth: Why I&#39;m a &#39;Master of Integration&#39; in the Age of AI &lpar;And Why Your Team Needs One&rpar;.](https://dev.to/elvin_saruni_a3e70d3459cf/ditch-the-specialist-myth-why-im-a-master-of-integration-in-the-age-of-ai-and-why-your-team-4hek)
+- [[C++] std::forward](https://dev.to/seongcheoljeon/c-stdforward-2l48)
 - [Building Janus: An AI-Powered Helpdesk That Makes Customer Support Smarter](https://dev.to/k0msenapati/building-janus-an-ai-powered-helpdesk-that-makes-customer-support-smarter-h6c)
-- [Understanding Akamai GTM: Mirror Failover vs. Weighted Random Load Balancing](https://dev.to/ellapark/understanding-akamai-gtm-mirror-failover-vs-weighted-random-load-balancing-52da)
-- [The Ravana Glyph: Encoding Insider Sovereignty and Forensic Collapse in Cybersecurity](https://dev.to/narnaiezzsshaa_truong/the-ravana-glyph-encoding-insider-sovereignty-and-forensic-collapse-in-cybersecurity-36ic)
-- [⚠️ The SQL Query That Nearly Crashed Our Production Server](https://dev.to/chiragx309/the-sql-query-that-nearly-crashed-our-production-server-51i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
