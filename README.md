@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Contribution Chronicles: From Issue to Impact &lpar;Hacktoberfest&rpar;](https://dev.to/meshv_patel_7126d62eb60de/contribution-chronicles-from-issue-to-impact-hacktoberfest-4el5)
-- [Filament: Hide Submit and Cancel Buttons in wizard](https://dev.to/johndivam/filament-hide-submit-and-cancel-buttons-in-wizard-2bi7)
-- [How to Read Stock Charts: A Visual Guide](https://dev.to/globridge-tech/how-to-read-stock-charts-a-visual-guide-252i)
-- [Society and Tecnology](https://dev.to/ubaid_ullah_fa7600cc6735d/society-and-tecnology-23dl)
-- [AI](https://dev.to/ubaid_ullah_fa7600cc6735d/ai-1a4g)
+- [I built a local LLM + Python tool that keeps your folders from turning into chaos](https://dev.to/sukantom/i-built-a-local-llm-python-tool-that-keeps-your-folders-from-turning-into-chaos-2jmb)
+- [Artifital Intellegence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellegence-e5n)
+- [Giving My Dashboard a Voice](https://dev.to/humairamuhyiddeen/giving-my-dashboard-a-voice-hnn)
+- [How We Built an AI That Transforms Your Photos Into Pixel Art in 10 Seconds &lpar;And Why It Matters for Web3&rpar;](https://dev.to/matias_affolter/how-we-built-an-ai-that-transforms-your-photos-into-pixel-art-in-10-seconds-and-why-it-matters-for-47pk)
+- [Society need Agent](https://dev.to/ubaid_ullah_fa7600cc6735d/society-need-agent-3kfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
