@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧰 The Hardware That Powers My Homelab Kubernetes Cluster](https://dev.to/hkhelil/the-hardware-that-powers-my-homelab-kubernetes-cluster-45pb)
-- [Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs](https://dev.to/paperium/multimodal-prompt-optimization-why-not-leverage-multiple-modalities-for-mllms-3dee)
-- [ZTNA vs VPN: Why Zero Trust Is the Future of Secure Access](https://dev.to/jamesdas/ztna-vs-vpn-why-zero-trust-is-the-future-of-secure-access-2nba)
-- [Can you use F# for web development?](https://dev.to/aspxone-official/can-you-use-f-for-web-development-4kp0)
-- [Ai Scoiety](https://dev.to/ubaid_ullah_fa7600cc6735d/ai-scoiety-2emk)
+- [How to Fix VPN Not Connecting Errors: Troubleshooting Guide](https://dev.to/disiplin_forml_e60c4755/how-to-fix-vpn-not-connecting-errors-troubleshooting-guide-583l)
+- [What&#39;s New At Releem - September 2025](https://dev.to/drupaladmin/whats-new-at-releem-september-2025-1dmj)
+- [The Power of Precision in Code: Fixing the href attribute](https://dev.to/tlorent/the-power-of-precision-in-code-1fnl)
+- [Technology](https://dev.to/ubaid_ullah_fa7600cc6735d/technology-4a9c)
+- [Tecnology](https://dev.to/ubaid_ullah_fa7600cc6735d/tecnology-32el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
