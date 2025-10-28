@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Taming Context Windows: Disable Auto-Compact for Better AI](https://dev.to/agentic-engineer/taming-context-windows-disable-auto-compact-for-better-ai-4gbm)
-- [How the group behind me expects me to play https://www.youtube.com/watch?v=ao00KISKV2Q](https://dev.to/ben/how-the-group-behind-me-expects-me-to-play-httpswwwyoutubecomwatchvao00kiskv2q-1a3p)
-- [Can a Sentence Give Orders Without a Speaker?](https://dev.to/agustin_v_startari/can-a-sentence-give-orders-without-a-speaker-5cf7)
-- [Dev Log Backlog](https://dev.to/desertthunder/dev-log-backlog-f38)
-- [Artbitrator Launches!](https://dev.to/adzhydra/artbitrator-launches-2lk7)
+- [How Design Thinking Inspires Better Pet Products: The Case of the Custom Dog Collar](https://dev.to/hereyougopup_seo_47fd070b/how-design-thinking-inspires-better-pet-products-the-case-of-the-custom-dog-collar-1lel)
+- [Google Gemini AI Revolutionizes Slide Presentation Creation](https://dev.to/zulnourain_muhammad_4026c/google-gemini-ai-revolutionizes-slide-presentation-creation-3fp2)
+- [Essential Resources for Aspiring ML/AI Engineers in 2025](https://dev.to/rlealz/essential-resources-for-aspiring-mlai-engineers-in-2025-5ce9)
+- [Sales 101: What Your Sales Team Does &lpar;And How DevRel Fits In&rpar;](https://dev.to/mattstratton/sales-101-what-your-sales-team-does-and-how-devrel-fits-in-29d8)
+- [OpenAI will make its ChatGPT Go model free for Indian users for a year](https://dev.to/ekantiktechnologies/openai-will-make-its-chatgpt-go-model-free-for-indian-users-for-a-year-50g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
