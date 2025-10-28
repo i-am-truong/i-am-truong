@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Begin a Speech Confidently: Expert Techniques for 2025](https://dev.to/chakshu_gupta_07/how-to-begin-a-speech-confidently-expert-techniques-for-2025-239a)
-- [SPF Permerror Solutions: Ensure Your Emails Are Delivered Safely](https://dev.to/inspireme_labs_e6af6b7b69/spf-permerror-solutions-ensure-your-emails-are-delivered-safely-47k2)
-- [Day 17: Converting Numeric Grades to Letters with Robustness and Clarity](https://dev.to/shahrouzlogs/day-17-converting-numeric-grades-to-letters-with-robustness-and-clarity-eal)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-3jnm)
-- [Puppeteer C# vs IronPDF: Best PDF Library for .NET Developers &lpar;With Code Examples&rpar;](https://dev.to/mohammedibrahimlj/puppeteer-c-vs-ironpdf-best-pdf-library-for-net-developers-with-code-examples-4m8e)
+- [Microsoft&#39;s Ethical Stance: AI Bots and Content Boundaries](https://dev.to/kielp_riche_79dd07697340c/microsofts-ethical-stance-ai-bots-and-content-boundaries-4g60)
+- [Deploy with Azure Container Apps](https://dev.to/lenut_ileni_c02e7a2e3e715/deploy-with-azure-container-apps-2271)
+- [[Solo Development] Finding a place to study in Vancouver! Creating a map app with React and Supabase](https://dev.to/kazutora_hattori_66972c88/solo-development-finding-a-place-to-study-in-vancouver-creating-a-map-app-with-react-and-supabase-3ka4)
+- [🚀 4 TypeScript Concepts That Made Me Write Cleaner Code](https://dev.to/mashayeakh_islam_2666f2c3/4-typescript-concepts-that-made-me-write-cleaner-code-42m9)
+- [Estimate cloud costs with Terraform and Infracost](https://dev.to/techielass/estimate-cloud-costs-with-terraform-and-infracost-16kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
