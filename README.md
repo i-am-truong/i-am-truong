@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Action Text](https://dev.to/yet_anotherdev/action-text-3g4o)
-- [Product-Led Growth and What It Means for DevRel](https://dev.to/mattstratton/product-led-growth-and-what-it-means-for-devrel-10mj)
-- [Finance 101: Budgets, P&amp;Ls, and the Language of Money](https://dev.to/mattstratton/finance-101-budgets-pls-and-the-language-of-money-3dp9)
-- [Google Cloud Training Paths to Upskill Your Teams in AI, Data, and Cloud](https://dev.to/rohan_jee_085655230/google-cloud-training-paths-to-upskill-your-teams-in-ai-data-and-cloud-3l7c)
-- [8 Smart Building Features Defining the Future of Construction](https://dev.to/jordonhoe2025/8-smart-building-features-defining-the-future-of-construction-4pkb)
+- [I Added a Chat Interface to My LLM Training Tool &lpar;And You Can Try It Now&rpar;](https://dev.to/theaniketgiri/i-added-a-chat-interface-to-my-llm-training-tool-and-you-can-try-it-now-1kck)
+- [💡 Productivity and Security Tips for Developers](https://dev.to/beeinbox/productivity-and-security-tips-for-developers-2hjb)
+- [The Hidden Work Behind Gzip: How it compresses so well](https://dev.to/rijultp/the-hidden-work-behind-gzip-how-it-compresses-so-well-5ejk)
+- [Turn off AI code completion](https://dev.to/jarne/turn-off-ai-code-completion-3f9g)
+- [Putting It All Together: Speaking Business as a DevRel Professional](https://dev.to/mattstratton/putting-it-all-together-speaking-business-as-a-devrel-professional-2kfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
