@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Care About Async Context Managers and Iterators](https://dev.to/imsushant12/why-you-should-care-about-async-context-managers-and-iterators-1na)
+- [What I learnt about arrays and pointers in C &lpar;As a refresher&rpar;](https://dev.to/ian_kamande/what-i-learnt-about-arrays-and-pointers-in-c-as-a-refresher-2419)
 - [The Sun Wukong Framework: Encoding Escalation, Evasion, and Strategic Containment in Cybersecurity](https://dev.to/narnaiezzsshaa_truong/the-sun-wukong-framework-encoding-escalation-evasion-and-strategic-containment-in-cybersecurity-9do)
 - [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-m7l)
 - [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2c5c)
-- [Unlocking User Value in SaaS by Triggering the Aha Moment](https://dev.to/lollypopdesign/unlocking-user-value-in-saas-by-triggering-the-aha-moment-42ee)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_25c2e834/files-are-not-just-data-a-guide-to-robust-file-handling-4f5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
