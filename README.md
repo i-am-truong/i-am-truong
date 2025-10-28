@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HactoberFest&#39;s Week 3: Fixing a Type-Casting Issue in Kestra’s Chunk Pebble Filter](https://dev.to/hsachdeva9/hactoberfests-week-3-fixing-a-type-casting-issue-in-kestras-chunk-pebble-filter-124f)
+- [Quantum Circuits: Can AI Design Better Entanglement Networks? by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-circuits-can-ai-design-better-entanglement-networks-by-arvind-sundararajan-4nao)
+- [The Hidden Costs of Common AI SDKs in 2025: What Developers Need to Know](https://dev.to/lofcz/the-hidden-costs-of-common-ai-sdks-in-2025-what-developers-need-to-know-4b0)
+- [Building a Production Kubernetes Cluster for $15/Month In Four Days](https://dev.to/araldhafeeri/building-a-production-kubernetes-cluster-for-15month-in-four-days-5ehf)
 - [How to onboard engineers 10x faster](https://dev.to/gentos/how-to-onboard-engineers-faster-306g)
-- [Quantum-Resistant Federated Learning with Lattice-Based Homomorphic Encryption for Medical Imaging](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-lattice-based-homomorphic-encryption-for-medical-imaging-1jp7)
-- [A Quick Intro to Distributed Systems + CAP/ACID/BASE: First Steps Toward “Exactly-Once”](https://dev.to/ertnbrk/a-quick-intro-to-distributed-systems-capacidbase-first-steps-toward-exactly-once-565m)
-- [# Fixing Playbook Update Drawer Title in OpenCTI](https://dev.to/hsachdeva9/-fixing-playbook-update-drawer-title-in-opencti-371g)
-- [Construir Mi servidor casero. ¿El problema?](https://dev.to/1phiexdric/construir-mi-servidor-casero-el-problema-4ih2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
