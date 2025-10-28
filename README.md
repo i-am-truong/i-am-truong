@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [I built a local LLM + Python tool that keeps your folders from turning into chaos](https://dev.to/sukantom/i-built-a-local-llm-python-tool-that-keeps-your-folders-from-turning-into-chaos-2jmb)
 - [Artifital Intellegence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellegence-e5n)
 - [Giving My Dashboard a Voice](https://dev.to/humairamuhyiddeen/giving-my-dashboard-a-voice-hnn)
+- [Artifitial Intellegnce](https://dev.to/ubaid_ullah_fa7600cc6735d/artifitial-intellegnce-3fc5)
 - [How We Built an AI That Transforms Your Photos Into Pixel Art in 10 Seconds &lpar;And Why It Matters for Web3&rpar;](https://dev.to/matias_affolter/how-we-built-an-ai-that-transforms-your-photos-into-pixel-art-in-10-seconds-and-why-it-matters-for-47pk)
-- [Society need Agent](https://dev.to/ubaid_ullah_fa7600cc6735d/society-need-agent-3kfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
