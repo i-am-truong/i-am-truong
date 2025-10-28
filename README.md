@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-2ab0)
+- [Current Project &lpar;October 2025&rpar;](https://dev.to/jshum5200/current-project-october-2025-126)
+- [AI Didn’t Steal Our Jobs — It Just Gave Us More Code Reviews](https://dev.to/hotfixhero/ai-didnt-steal-our-jobs-it-just-gave-us-more-code-reviews-1368)
+- [ABAC with Open Policy Agent &lpar;OPA&rpar;](https://dev.to/mathew_pregasen_69c61185e/abac-with-open-policy-agent-opa-3f0)
 - [&quot;My Open Source Journey&quot;](https://dev.to/akash_divinor/my-open-source-journey-2bld)
-- [Access HTTPS APIs Behind IP Whitelisting Using Nginx Reverse Proxy in Docker](https://dev.to/jaykishan_kapatel/access-https-apis-behind-ip-whitelisting-using-nginx-reverse-proxy-in-docker-4di9)
-- [How Computer network works | Israh Binoj](https://dev.to/israhverse/how-computer-network-works-israh-binoj-1adh)
-- [The Art of Scope Management in Modular Python Design](https://dev.to/hevalhazalkurt/the-art-of-scope-management-in-modular-python-design-2ha8)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
