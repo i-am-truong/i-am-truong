@@ -119,11 +119,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Society need tecnology](https://dev.to/ubaid_ullah_fa7600cc6735d/society-need-tecnology-5gp5)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_083ff294/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1i4e)
-- [Web Developer Travis McCracken on Building a Private API with Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-a-private-api-with-rust-j0o)
-- [What are the most common development and security pitfalls when launching a centralized exchange and how to avoid them?](https://dev.to/zara_fernandes_b02180aa0b/what-are-the-most-common-development-and-security-pitfalls-when-launching-a-centralized-exchange-1e5k)
-- [Usando o Oh My Zsh!](https://dev.to/kbdemiranda/usando-o-oh-my-zsh-489l)
+- [Top 6 .NET Memory Hacks That Actually Work in 2025](https://dev.to/mehul_budasana/top-6-net-memory-hacks-that-actually-work-in-2025-1f17)
+- [What you’ll learn 👇 
+🔹 When and why to refactor old React apps 
+🔹 How to introduce micro-frontends step by step 
+🔹 Avoiding common refactor pitfalls 
+🔹 Building for scalability and speed](https://dev.to/tahamjp/what-youll-learn-when-and-why-to-refactor-old-react-apps-how-to-introduce-196e)
+- [Why Do Agencies Rely on Zapier Specialists?](https://dev.to/asharmalik/why-do-agencies-rely-on-zapier-specialists-517c)
+- [test_devto](https://dev.to/__f27cfeca2e21de8d2378/testdevto-18pi)
+- [merge jsonschema](https://dev.to/devangular/merge-jsonschema-3667)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
