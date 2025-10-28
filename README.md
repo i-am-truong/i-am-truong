@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🎮Let’s Build XoX with ArkTS🎮](https://dev.to/harmonyos/lets-build-xox-with-arkts-3811)
-- [The Timeless Art of Black and White Photography: A Modern Guide](https://dev.to/hardik_b2d8f0bca/the-timeless-art-of-black-and-white-photography-a-modern-guide-46ld)
-- [InnovaML: Driving Business Innovation Through Intelligent ML Solutions](https://dev.to/emma_schmidt_/innovaml-driving-business-innovation-through-intelligent-ml-solutions-2c39)
-- [The Rise of Cybercrime-as-a-Service: Inside the Hacker Marketplace](https://dev.to/shivakshi_rawat_e69cf6990/the-rise-of-cybercrime-as-a-service-inside-the-hacker-marketplace-29lg)
-- [Why Image Compression Matters for Your Website &lpar;And How to Do It Right&rpar;](https://dev.to/hardik_b2d8f0bca/why-image-compression-matters-for-your-website-and-how-to-do-it-right-53i1)
+- [How is Artificial Intelligence Changing the Hospitality Industry?](https://dev.to/infutrix/how-is-artificial-intelligence-changing-the-hospitality-industry-3ikd)
+- [🔍 Introduction to Background Tasks in HarmonyOS Next](https://dev.to/harmonyos/introduction-to-background-tasks-in-harmonyos-next-5hnl)
+- [From Data Chaos to Clarity: How Modern Data Platforms Empower Decision-Makers](https://dev.to/alex_swift1234/from-data-chaos-to-clarity-how-modern-data-platforms-empower-decision-makers-9j7)
+- [JS Live Editor and Preview – A Simple Way to Code and See Results Instantly](https://dev.to/praveen_d014d4935eef7c793/js-live-editor-and-preview-a-simple-way-to-code-and-see-results-instantly-hjc)
+- [PNG to SVG Conversion: When, Why, and How to Vectorize Your Images](https://dev.to/hardik_b2d8f0bca/png-to-svg-conversion-when-why-and-how-to-vectorize-your-images-4eb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
