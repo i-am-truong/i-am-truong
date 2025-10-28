@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fault-Tolerant Realtime Data Ingestion with QuestDB Write-Ahead Logs](https://dev.to/nilutpal_/fault-tolerant-realtime-data-ingestion-with-questdb-write-ahead-logs-51e5)
-- [How do I delegate when I can do it faster myself?](https://dev.to/valeriavg/how-do-i-delegate-when-i-can-do-it-faster-myself-5lh)
-- [Role-Based Access Control for AI Development: Managing Prompts, Evals, and Data Securely](https://dev.to/kuldeep_paul/role-based-access-control-for-ai-development-managing-prompts-evals-and-data-securely-1a66)
-- [The Model Context Protocol &lpar;MCP&rpar;: A Foundational Standard for Agentic AI Systems](https://dev.to/lucash_ribeiro_dev/the-model-context-protocol-mcp-a-foundational-standard-for-agentic-ai-systems-4dg)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--1o6i)
+- [Action Text](https://dev.to/yet_anotherdev/action-text-3g4o)
+- [Product-Led Growth and What It Means for DevRel](https://dev.to/mattstratton/product-led-growth-and-what-it-means-for-devrel-10mj)
+- [Finance 101: Budgets, P&amp;Ls, and the Language of Money](https://dev.to/mattstratton/finance-101-budgets-pls-and-the-language-of-money-3dp9)
+- [Google Cloud Training Paths to Upskill Your Teams in AI, Data, and Cloud](https://dev.to/rohan_jee_085655230/google-cloud-training-paths-to-upskill-your-teams-in-ai-data-and-cloud-3l7c)
+- [8 Smart Building Features Defining the Future of Construction](https://dev.to/jordonhoe2025/8-smart-building-features-defining-the-future-of-construction-4pkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
