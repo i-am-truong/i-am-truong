@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scrape Data with Selenium in Python](https://dev.to/hasdata_com/scrape-data-with-selenium-in-python-1bbk)
-- [Encode internal state and context](https://dev.to/rikinptl/encode-internal-state-and-context-111n)
-- [Coding vs. Business Analytics: Finding Your True Path 🎯](https://dev.to/sanikatribhuvan/coding-vs-business-analytics-finding-your-true-path-48ho)
-- [How Inventory Check-In How Inventory Check-In Works from Start to Finish](https://dev.to/teresa_tran/how-inventory-check-in-how-inventory-check-in-works-from-start-to-finish-4bnm)
-- [𝐒𝐨𝐥𝐯𝐢𝐧𝐠 𝐂𝐨𝐥𝐝 𝐒𝐭𝐚𝐫𝐭𝐬 𝐢𝐧 𝐀𝐖𝐒 𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 &lpar;𝐋𝐚𝐦𝐛𝐝𝐚&rpar;](https://dev.to/shubhamb/-20bc)
+- [🧰 The Hardware That Powers My Homelab Kubernetes Cluster](https://dev.to/hkhelil/the-hardware-that-powers-my-homelab-kubernetes-cluster-45pb)
+- [Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs](https://dev.to/paperium/multimodal-prompt-optimization-why-not-leverage-multiple-modalities-for-mllms-3dee)
+- [ZTNA vs VPN: Why Zero Trust Is the Future of Secure Access](https://dev.to/jamesdas/ztna-vs-vpn-why-zero-trust-is-the-future-of-secure-access-2nba)
+- [Can you use F# for web development?](https://dev.to/aspxone-official/can-you-use-f-for-web-development-4kp0)
+- [Ai Scoiety](https://dev.to/ubaid_ullah_fa7600cc6735d/ai-scoiety-2emk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
