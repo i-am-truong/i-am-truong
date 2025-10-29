@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Could Agentic CLI Be the Next Big Thing in Developer Productivity ?](https://dev.to/kaustubhyerkade/could-agentic-cli-be-the-next-big-thing-in-developer-productivity--1jad)
 - [Stop Turning the Clocks – Why Europe Fails at Daylight Saving Time](https://dev.to/thomasdelfing_de/stop-turning-the-clocks-why-europe-fails-at-daylight-saving-time-10p9)
 - [🧩 Understanding Fluent API in Spring: A Deep Dive](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-fluent-api-in-spring-a-deep-dive-51lh)
 - [Why Your CRM is Making You Slower: The Hidden Cost of Data Entry](https://dev.to/revenue_velocity_lab/why-your-crm-is-making-you-slower-the-hidden-cost-of-data-entry-2eh7)
 - [Salesforce vs Pipedrive 2025: Enterprise Power or Sales Simplicity?](https://dev.to/revenue_velocity_lab/salesforce-vs-pipedrive-2025-enterprise-power-or-sales-simplicity-27ib)
-- [Sales Pipeline Management 101: Complete Guide for SMB Teams &lpar;2025&rpar;](https://dev.to/revenue_velocity_lab/sales-pipeline-management-101-complete-guide-for-smb-teams-2025-48lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
