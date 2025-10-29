@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Testing and Optimization for Agentic LLM Systems: A Practical Framework with Maxim AI](https://dev.to/debmckinney/prompt-testing-and-optimization-for-agentic-llm-systems-a-practical-framework-with-maxim-ai-362k)
-- [18 Best Translation Management System Features [2025]](https://dev.to/jennamitchell/18-best-translation-management-system-features-2025-5c5j)
-- [🌀 React vs Next.js — Which one should you start with?](https://dev.to/mehedihasan1102/react-bnaam-nextjs-konttaa-diye-shuru-krben-1708)
-- [Selling Outcomes, Not Services: A Guide for UK Agencies](https://dev.to/buildwithnumen/selling-outcomes-not-services-a-guide-for-uk-agencies-3ia4)
-- [AI-Native Consumer Linux: A Vision for the Future](https://dev.to/ankk98/ai-native-consumer-linux-a-vision-for-the-future-1jd3)
+- [Best Ways to Use Collection Runners for API Workflows](https://dev.to/requestly/best-ways-to-use-collection-runners-for-api-workflows-2l7k)
+- [Kubernetes at the Edge: Is Your Data Ready to Leave the Nest?](https://dev.to/karthik_n/kubernetes-at-the-edge-is-your-data-ready-to-leave-the-nest-210h)
+- [VLESS Protocol: How It Bypasses Censorship in Russia and Why It Works](https://dev.to/__2ea5fee000c/vless-protocol-how-it-bypasses-censorship-in-russia-and-why-it-works-4o9d)
+- [Crypto to cash backend: Using blockradar + paystack.](https://dev.to/chibuezesamobisike/crypto-to-cash-backend-using-blockradar-paystack-3a31)
+- [What Are n8n Nodes, Triggers, and Workflows: A Beginner’s Guide](https://dev.to/ciphernutz/what-are-n8n-nodes-triggers-and-workflows-a-beginners-guide-46hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
