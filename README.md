@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Power up your integrations: ONLYOFFICE API updates in Docs 9.1 &amp; DocSpace 3.5](https://dev.to/onlyoffice/power-up-your-integrations-onlyoffice-api-updates-in-docs-91-docspace-35-2d1g)
+- [Full-Stack Development Roadmap from Zero to Hero](https://dev.to/oyetech3/full-stack-development-roadmap-from-zero-to-hero-35b9)
+- [Modern EDR Countermeasures: Fundamentals and Practical Guide to User-Mode Function Hooking](https://dev.to/tiger_smith_9f421b9131db5/modern-edr-countermeasures-fundamentals-and-practical-guide-to-user-mode-function-hooking-3a26)
+- [21 Essential Git Commands Every Developer Should Know](https://dev.to/xgare_technologies/21-essential-git-commands-every-developer-should-know-28n2)
 - [Understanding the prepare Callback In Redux Toolkit](https://dev.to/lawrenceagles/understanding-the-prepare-callback-in-redux-toolkit-1ofh)
-- [How to Implement Geofencing Using Python and PostGIS](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-implement-geofencing-using-python-and-postgis-4l61)
-- [Building a Cross-Platform CLI Tool with TypeScript](https://dev.to/adeyomi_lawal_8c61225e087/building-a-cross-platform-cli-tool-with-typescript-3f69)
-- [Frontend Roundup October 2025: Next.js 16, Astro 5.15, Node 22 LTS, CSS View Transitions, and Vite+](https://dev.to/0xrelogic/frontend-roundup-october-2025-nextjs-16-astro-515-node-22-lts-css-view-transitions-and-vite-2lce)
-- [Testing Your AI Agents with Rogue using MCP](https://dev.to/yuvalqf/testing-your-ai-agents-with-rogue-using-mcp-1eb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
