@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-3jb)
-- [[Boost]](https://dev.to/wayne_gakuo/-3jek)
-- [**Content-based Filtering VS Collaborative Filtering: A Netf](https://dev.to/drcarlosruizviquez/content-based-filtering-vs-collaborative-filtering-a-netf-2ane)
-- [[RELEASE] AIS Unit &amp; Scale Doctor — Fix Blender unit/scale issues, profile-aware rulers, and guarded FBX/glTF export](https://dev.to/wilson_anibe_99986ba22102/release-ais-unit-scale-doctor-fix-blender-unitscale-issues-profile-aware-rulers-and-48nb)
-- [**The Dark Side of AI: How Adversarial Noise Can Fool Neural](https://dev.to/drcarlosruizviquez/the-dark-side-of-ai-how-adversarial-noise-can-fool-neural-3lh9)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-p7d)
+- [**Unlocking Efficient Media Processing with Domain Knowledge](https://dev.to/drcarlosruizviquez/unlocking-efficient-media-processing-with-domain-knowledge-3jj7)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-48e7)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 7 - &#39;In The Mood for Love’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-7-in-the-mood-for-love-4j6f)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3hk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
