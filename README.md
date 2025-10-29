@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bun vs Node for Astro Static Site Builds](https://dev.to/lovestaco/bun-vs-node-for-astro-static-site-builds-4okk)
-- [Transport Multiplexing in Mobile Sync: Why Multi-Transport Beats Single-Transport Systems](https://dev.to/biozal/transport-multiplexing-in-mobile-sync-why-multi-transport-beats-single-transport-systems-l37)
-- [From dark data to bright insights: The dawn of smart storage](https://dev.to/googleai/from-dark-data-to-bright-insights-the-dawn-of-smart-storage-1pf4)
-- [SOLID Series #1: Single Responsibility Principle](https://dev.to/mbkhalid23/solid-series-1-single-responsibility-principle-4pbj)
-- [Tag-Based Deployment in Jenkins CI/CD Using GitHub — A Practical Guide](https://dev.to/srinivasamcjf/tag-based-deployment-in-jenkins-cicd-using-github-a-practical-guide-4em)
+- [[RELEASE] AIS Unit &amp; Scale Doctor — Fix Blender unit/scale issues, profile-aware rulers, and guarded FBX/glTF export](https://dev.to/wilson_anibe_99986ba22102/release-ais-unit-scale-doctor-fix-blender-unitscale-issues-profile-aware-rulers-and-48nb)
+- [Can you really learn a new framework in just 2 weeks? Yes! I share my step-by-step guide and Svelte experience to help you do it. Check out the blueprint for rapid learning! #coding #frameworks #webdev #programming #developer](https://dev.to/sneha_sivakumar/can-you-really-learn-a-new-framework-in-just-2-weeks-yes-i-share-my-step-by-step-guide-and-svelte-2ic4)
+- [**Revolutionizing Team Sports with AI: The Tactical Titan Br](https://dev.to/drcarlosruizviquez/revolutionizing-team-sports-with-ai-the-tactical-titan-br-kam)
+- [🏗️ Building the Platform That Empowers Reliability by Design](https://dev.to/gteegela/building-the-platform-that-empowers-reliability-by-design-1kec)
+- [**Decoding Prompt Engineering: The Secret to Unlocking AI&#39;s](https://dev.to/drcarlosruizviquez/decoding-prompt-engineering-the-secret-to-unlocking-ais-432p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
