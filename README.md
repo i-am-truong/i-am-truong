@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Frontend Portfolio - 5 Projects Journey](https://dev.to/quiklydev/my-frontend-portfolio-5-projects-journey-b5b)
-- [Code Review Best Practices: When &lpar;and When Not&rpar; to Use &quot;Request Changes&quot;](https://dev.to/garaujodev/code-review-best-practices-when-and-when-not-to-use-request-changes-p04)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5dp1)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2774)
-- [Agile Seaway: Το Scrum μέσα από τη Θάλασσα](https://dev.to/__b63657/agile-seaway-to-scrum-mesa-apo-te-thalassa-4dlo)
+- [Which AI Interview Copilot Boosts Your Job Offers the Most? 🔥](https://dev.to/hadil/which-ai-interview-copilot-boosts-your-job-offers-the-most-28hl)
+- [Build a Microsoft Teams Meeting Bot with Skribby API &lpar;2025 Dev Guide&rpar;](https://dev.to/lirim_kon/build-a-microsoft-teams-meeting-bot-with-skribby-api-2025-dev-guide-3ob4)
+- [Building Better Documentation: My Journey with DocuMCP and the Model Context Protocol](https://dev.to/tosin2013/building-better-documentation-my-journey-with-documcp-and-the-model-context-protocol-3686)
+- [Managing Sensitive Information in Terraform and Azure](https://dev.to/mikaelkrief2/managing-sensitive-information-in-terraform-and-azure-94m)
+- [A Strategic Guide to Building ChatGPT Apps with the OpenAI Apps SDK](https://dev.to/mahmoudz/a-strategic-guide-to-building-chatgpt-apps-with-the-openai-apps-sdk-13l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
