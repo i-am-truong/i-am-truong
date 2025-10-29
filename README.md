@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Testing and Optimization for Agentic LLM Systems: A Practical Framework with Maxim AI](https://dev.to/debmckinney/prompt-testing-and-optimization-for-agentic-llm-systems-a-practical-framework-with-maxim-ai-362k)
+- [18 Best Translation Management System Features [2025]](https://dev.to/jennamitchell/18-best-translation-management-system-features-2025-5c5j)
+- [🌀 React vs Next.js — Which one should you start with?](https://dev.to/mehedihasan1102/react-bnaam-nextjs-konttaa-diye-shuru-krben-1708)
+- [Selling Outcomes, Not Services: A Guide for UK Agencies](https://dev.to/buildwithnumen/selling-outcomes-not-services-a-guide-for-uk-agencies-3ia4)
 - [AI-Native Consumer Linux: A Vision for the Future](https://dev.to/ankk98/ai-native-consumer-linux-a-vision-for-the-future-1jd3)
-- [50+ Developer Documentation Tools That Will Transform Your Workflow in 2025](https://dev.to/apilover/50-developer-documentation-tools-that-will-transform-your-workflow-in-2025-b1j)
-- [How to Debug Applications Running in Docker Containers](https://dev.to/addwebsolutionpvtltd/how-to-debug-applications-running-in-docker-containers-4ego)
-- [NPR Music: Oklou: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-oklou-tiny-desk-concert-4n5b)
-- [Building Semantica: An AI-Powered Academic Search Platform with MindsDB](https://dev.to/better-boy/building-semantica-an-ai-powered-academic-search-platform-with-mindsdb-596n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
