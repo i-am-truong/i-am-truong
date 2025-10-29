@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of Networking in Your Career](https://dev.to/erinholand321/the-importance-of-networking-in-your-career-1d5d)
+- [Top Open-Source &amp; Commercial Multi-Cloud Management Platforms in 2025](https://dev.to/lightningdev123/top-open-source-commercial-multi-cloud-management-platforms-in-2025-ch8)
+- [100+ Builders Signed Up for the ScrumBuddy Beta - Here’s Why](https://dev.to/scrumbuddyai/100-builders-signed-up-for-the-scrumbuddy-beta-heres-why-47l9)
 - [Best Ways to Use Collection Runners for API Workflows](https://dev.to/requestly/best-ways-to-use-collection-runners-for-api-workflows-2l7k)
 - [Kubernetes at the Edge: Is Your Data Ready to Leave the Nest?](https://dev.to/karthik_n/kubernetes-at-the-edge-is-your-data-ready-to-leave-the-nest-210h)
-- [VLESS Protocol: How It Bypasses Censorship in Russia and Why It Works](https://dev.to/__2ea5fee000c/vless-protocol-how-it-bypasses-censorship-in-russia-and-why-it-works-4o9d)
-- [Crypto to cash backend: Using blockradar + paystack.](https://dev.to/chibuezesamobisike/crypto-to-cash-backend-using-blockradar-paystack-3a31)
-- [What Are n8n Nodes, Triggers, and Workflows: A Beginner’s Guide](https://dev.to/ciphernutz/what-are-n8n-nodes-triggers-and-workflows-a-beginners-guide-46hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
