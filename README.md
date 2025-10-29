@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Universal Standard for Securing Prompts in AI Systems: Introducing UPSS](https://dev.to/alvinveroy/a-universal-standard-for-securing-prompts-in-ai-systems-introducing-upss-224d)
-- [Get in Line: Customizing Column Order in MudBlazor](https://dev.to/the_real_slim_janey/get-in-line-customizing-column-order-in-mudblazor-3ail)
-- [Bra just zil...](https://dev.to/bibimbop123/bra-just-zil-419j)
-- [Elevating Your Excel Reports: Programmatically Setting Backgrounds with Java](https://dev.to/lu_liu_e3fc806354d9a952b7/elevating-your-excel-reports-programmatically-setting-backgrounds-with-java-3l1h)
-- [Descomplicando Simple Factory Method](https://dev.to/yuripeixinho/descomplicando-simple-factory-method-5hfk)
+- [Claude Code is a Beast – Tips from 6 Months of Hardcore Use](https://dev.to/diet-code103/claude-code-is-a-beast-tips-from-6-months-of-hardcore-use-572n)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-186j)
+- [AI Prompt Organizer &lpar;Free and No Sign-up Needed&rpar;](https://dev.to/foxinfotech/ai-prompt-organizer-free-and-no-sign-up-needed-3llg)
+- [How I Vibe Code after researching everything](https://dev.to/v462/how-i-vibe-code-after-researching-everything-2mib)
+- [Cybercrime Trends 2025 &amp; How to Shield Your Startup...](https://dev.to/himantha_bandara/cybercrime-trends-2025-how-to-shield-your-startup-gi2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
