@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Word to the wise](https://dev.to/ben/word-to-the-wise-3ml5)
-- [AWS Cost Anomaly Detection: When machine learning meets your billing](https://dev.to/cloudwiseteam/aws-cost-anomaly-detection-when-machine-learning-meets-your-billing-2cia)
-- [Keyword vs. semantic search with AI](https://dev.to/alejandro_du/keyword-vs-semantic-search-with-ai-c03)
-- [4 Best Power BI &amp; Data Analytics Projects That You Must See!](https://dev.to/niveshbansal07/4-best-power-bi-data-analytics-projects-that-you-must-see-1m1g)
-- [.NET 10: O GC que reduz a memória, mas exige uma escolha dura – Você aceita diminuir o Throughput?](https://dev.to/unhacked/net-10-o-gc-que-reduz-a-memoria-mas-exige-uma-escolha-dura-voce-aceita-diminuir-o-throughput-7fi)
+- [Build ChatGPT apps in hours with Gadget](https://dev.to/gadget/build-chatgpt-apps-in-hours-with-gadget-1be1)
+- [GTAlign: Game-Theoretic Alignment of LLM Assistants for Mutual Welfare](https://dev.to/paperium/gtalign-game-theoretic-alignment-of-llm-assistants-for-mutual-welfare-3kcj)
+- [Mastering Enterprise Data: A Framework for Effective Data Management](https://dev.to/mcleanforresterllc/mastering-enterprise-data-a-framework-for-effective-data-management-3h5l)
+- [How to make OAuth integrated login/registration form in Node.js](https://dev.to/jahongir2007/how-to-make-oauth-integrated-loginregistration-form-in-nodejs-3gmh)
+- [Ethereum’s upgrade Fusaka is officially ready for mainnet](https://dev.to/martin_call/ethereums-upgrade-fusaka-is-officially-ready-for-mainnet-250d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
