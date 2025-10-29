@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Think Game Dev Isn’t My Thing &lpar;And That’s Okay&rpar;](https://dev.to/vulcanwm/i-think-game-dev-isnt-my-thing-and-thats-okay-3h5j)
-- [⏳geol, the cli to efficiently manage EOLs like a boss](https://dev.to/adriens/geol-the-cli-to-efficiently-manage-eols-like-a-boss-3hne)
-- [48 hours date with Kiro IDE](https://dev.to/nishtha_8ff779c03ba37e7d4/48-hours-date-with-kiro-ide-20f7)
-- [🗳️ Day 28 of #30DaysOfSolidity — Build a DAO Voting System &lpar;Decentralized Governance&rpar;](https://dev.to/sauravkumar8178/day-28-of-30daysofsolidity-build-a-dao-voting-system-decentralized-governance-3kg1)
-- [Why the Model Context Protocol is the Future of AI Integration](https://dev.to/onlineproxy/why-the-model-context-protocol-is-the-future-of-ai-integration-4f3i)
+- [🛡️ What Makes Linux Secure &lpar;and Where It&#39;s Weak - Plus How to Fix It&rpar;](https://dev.to/secbyshresth/what-makes-linux-secure-and-where-its-weak-plus-how-to-fix-it-2kpi)
+- [🪙 Day 29 of #30DaysOfSolidity — Building a Collateral-Backed Stablecoin in Solidity — Step-by-Step Guide](https://dev.to/sauravkumar8178/day-29-of-30daysofsolidity-building-a-collateral-backed-stablecoin-in-solidity-step-by-step-6dd)
+- [From Confusion to Creation: My Ongoing Journey in Tech](https://dev.to/bishopkbb/from-confusion-to-creation-my-ongoing-journey-in-tech-36h0)
+- [Debugging AI in Production: Root Cause Analysis with Observability](https://dev.to/kuldeep_paul/debugging-ai-in-production-root-cause-analysis-with-observability-2h83)
+- [Symbolic Alchemy: Transmuting Linear Solvers into Lightning Speed by Arvind Sundararajan](https://dev.to/arvind_sundararajan/symbolic-alchemy-transmuting-linear-solvers-into-lightning-speed-by-arvind-sundararajan-45l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
