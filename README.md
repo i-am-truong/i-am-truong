@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Power up your integrations: ONLYOFFICE API updates in Docs 9.1 &amp; DocSpace 3.5](https://dev.to/onlyoffice/power-up-your-integrations-onlyoffice-api-updates-in-docs-91-docspace-35-2d1g)
-- [Full-Stack Development Roadmap from Zero to Hero](https://dev.to/oyetech3/full-stack-development-roadmap-from-zero-to-hero-35b9)
-- [Modern EDR Countermeasures: Fundamentals and Practical Guide to User-Mode Function Hooking](https://dev.to/tiger_smith_9f421b9131db5/modern-edr-countermeasures-fundamentals-and-practical-guide-to-user-mode-function-hooking-3a26)
-- [21 Essential Git Commands Every Developer Should Know](https://dev.to/xgare_technologies/21-essential-git-commands-every-developer-should-know-28n2)
-- [Understanding the prepare Callback In Redux Toolkit](https://dev.to/lawrenceagles/understanding-the-prepare-callback-in-redux-toolkit-1ofh)
+- [My Frontend Portfolio - 5 Projects Journey](https://dev.to/quiklydev/my-frontend-portfolio-5-projects-journey-b5b)
+- [Code Review Best Practices: When &lpar;and When Not&rpar; to Use &quot;Request Changes&quot;](https://dev.to/garaujodev/code-review-best-practices-when-and-when-not-to-use-request-changes-p04)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5dp1)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2774)
+- [Agile Seaway: Το Scrum μέσα από τη Θάλασσα](https://dev.to/__b63657/agile-seaway-to-scrum-mesa-apo-te-thalassa-4dlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
