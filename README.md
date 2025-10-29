@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Save YouTube Videos Without Losing Quality](https://dev.to/gerrit_cole/save-youtube-videos-without-losing-quality-535j)
+- [Update: 485 downloads in 48 hrs - wild! Drop a comment if you&#39;re using it.](https://dev.to/bright_agyemang_d609f542f/update-485-downloads-in-48-hrs-wild-drop-a-comment-if-youre-using-it-4eah)
 - [Join us at Atlassian&#39;s Developer Day: Bellevue](https://dev.to/livsa/join-us-at-atlassians-developer-day-bellevue-51d5)
 - [[Boost]](https://dev.to/tobilobaogundiyan/-3p0h)
 - [Cryptography for developers](https://dev.to/andres_fernandez_05a8738d/cryptography-for-developers-1aj)
-- [Unlocking Developer Revenue: AI Monetization and Dual Earnings for LLM Apps](https://dev.to/monetzly/unlocking-developer-revenue-ai-monetization-and-dual-earnings-for-llm-apps-2m20)
-- [Building Client-Side PII Protection for LLMs Using Chrome&#39;s Built-in AI](https://dev.to/kanchan_ghosh_ab4fceafe66/building-client-side-pii-protection-for-llms-using-chromes-built-in-ai-l3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
