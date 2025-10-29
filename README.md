@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Could Agentic CLI Be the Next Big Thing in Developer Productivity ?](https://dev.to/kaustubhyerkade/could-agentic-cli-be-the-next-big-thing-in-developer-productivity--1jad)
-- [Stop Turning the Clocks – Why Europe Fails at Daylight Saving Time](https://dev.to/thomasdelfing_de/stop-turning-the-clocks-why-europe-fails-at-daylight-saving-time-10p9)
-- [🧩 Understanding Fluent API in Spring: A Deep Dive](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-fluent-api-in-spring-a-deep-dive-51lh)
-- [Why Your CRM is Making You Slower: The Hidden Cost of Data Entry](https://dev.to/revenue_velocity_lab/why-your-crm-is-making-you-slower-the-hidden-cost-of-data-entry-2eh7)
-- [Salesforce vs Pipedrive 2025: Enterprise Power or Sales Simplicity?](https://dev.to/revenue_velocity_lab/salesforce-vs-pipedrive-2025-enterprise-power-or-sales-simplicity-27ib)
+- [Slicing Through Complexity: Modular Design vs Feature-Sliced Design in Vue 3](https://dev.to/igornosatov_15/slicing-through-complexity-modular-design-vs-feature-sliced-design-in-vue-3-13dh)
+- [Unlock Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlock-developer-revenue-the-future-of-ai-monetization-with-monetzly-2c22)
+- [From Freelancers to Brands: How Everyone Can Benefit from Batch Background Removal](https://dev.to/freepixel11/from-freelancers-to-brands-how-everyone-can-benefit-from-batch-background-removal-5dl0)
+- [The Resume Format That Finally Gets You Past the ATS Filter](https://dev.to/whoozit_in_82812c2fd22a09/the-resume-format-that-finally-gets-you-past-the-ats-filter-4hco)
+- [WebAssembly 3.0 and the Infrastructure We Actually Need](https://dev.to/aronchick/webassembly-30-and-the-infrastructure-we-actually-need-3joa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
