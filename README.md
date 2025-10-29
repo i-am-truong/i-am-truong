@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Mastering AWS Lambda Performance — Real-World Optimization Tips That Actually Work](https://dev.to/miten_motisariya/mastering-aws-lambda-performance-real-world-optimization-tips-that-actually-work-12n)
-- [Analyzing Crime against women in India.](https://dev.to/gateru/analyzing-crime-against-women-in-india-26og)
-- [🚀 Deploying Cognee AI Starter App on AWS ECS Using Terraform](https://dev.to/aws-builders/deploying-cognee-ai-starter-app-on-aws-ecs-using-terraform-4ma9)
-- [Deploying Next.js Projects with Dokploy](https://dev.to/weijunext/deploying-nextjs-projects-with-dokploy-52l6)
-- [🧩 Understanding Custom Resources in Kubernetes: Extending the Power of Your Cluster](https://dev.to/abhishek_korde_31/understanding-custom-resources-in-kubernetes-extending-the-power-of-your-cluster-3nop)
+- [The Complete Remote Work Guide for 2025: What Actually Works Now](https://dev.to/teamcamp/the-complete-remote-work-guide-for-2025-what-actually-works-now-mg3)
+- [Building MindSpark AI: The Future of Smart Learning with Flashcards and Quizzes](https://dev.to/debasis_panda_31e768f5e44/building-mindspark-ai-the-future-of-smart-learning-with-flashcards-and-quizzes-4gp1)
+- [Designing an Efficient, Secure, and Scalable Cloud System: AWS SAP-C02 Exam Study Guide](https://dev.to/jerry_1fd8dc58194335413ae/designing-an-efficient-secure-and-scalable-cloud-system-aws-sap-c02-exam-study-guide-5bh9)
+- [AI in Marketing Automation 2025: The Rise of Intelligent, Intent-Driven Marketing](https://dev.to/shubh_e01f22da2137f1d7b2b/ai-in-marketing-automation-2025-the-rise-of-intelligent-intent-driven-marketing-51d6)
+- [PDF Print Engine - Reliable HTML-to-PDF Conversion for Production](https://dev.to/boilerplate/pdf-print-engine-reliable-html-to-pdf-conversion-for-production-k43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
