@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Which AI Interview Copilot Boosts Your Job Offers the Most? 🔥](https://dev.to/hadil/which-ai-interview-copilot-boosts-your-job-offers-the-most-28hl)
-- [Build a Microsoft Teams Meeting Bot with Skribby API &lpar;2025 Dev Guide&rpar;](https://dev.to/lirim_kon/build-a-microsoft-teams-meeting-bot-with-skribby-api-2025-dev-guide-3ob4)
-- [Building Better Documentation: My Journey with DocuMCP and the Model Context Protocol](https://dev.to/tosin2013/building-better-documentation-my-journey-with-documcp-and-the-model-context-protocol-3686)
-- [Managing Sensitive Information in Terraform and Azure](https://dev.to/mikaelkrief2/managing-sensitive-information-in-terraform-and-azure-94m)
-- [A Strategic Guide to Building ChatGPT Apps with the OpenAI Apps SDK](https://dev.to/mahmoudz/a-strategic-guide-to-building-chatgpt-apps-with-the-openai-apps-sdk-13l0)
+- [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://dev.to/technoblogger14o3/eurollm-llm-made-in-europe-built-to-support-all-24-official-eu-languages-4fcj)
+- [9 Useful Open Source Projects to Simplify Your Life as a Developer 🧑‍💻⚡️](https://dev.to/madza/9-useful-open-source-projects-to-simplify-your-life-as-a-developer-1111)
+- [Hello World!](https://dev.to/lag_lagendary/hello-world-4okg)
+- [Top 10 Cybersecurity Projects You Can’t Miss in 2026](https://dev.to/carrie_luo1/top-10-cybersecurity-projects-you-cant-miss-in-2026-1b5i)
+- [Mastering Froala Helpers for Device Detection, URL Safety, and More](https://dev.to/froala_e3824d66439393cbce/mastering-froala-helpers-for-device-detection-url-safety-and-more-46b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
