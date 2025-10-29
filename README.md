@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-15e8)
-- [Como ajudar as pessoas a contribuirem com seu projeto Open Source](https://dev.to/morgannadev/como-ajudar-as-pessoas-a-contribuirem-com-seu-projeto-open-source-4cjm)
-- [How I Made an MCP Server That Saves Me an Hour per Week](https://dev.to/googlecloud/how-i-made-an-mcp-server-that-saves-me-an-hour-per-week-3k8k)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-lef)
-- [Meetup: Show Your Stack! TypeScript Community](https://dev.to/getjv/meetup-show-your-stack-typescript-community-5587)
+- [How to Create Product Demos &lpar;Even Without a Video Team&rpar;](https://dev.to/sachindas246/how-to-create-product-demos-even-without-a-video-team-4b9n)
+- [10 Tips for Making Better Decisions](https://dev.to/diogodanielsoaresferreira/10-tips-for-making-better-decisions-hp4)
+- [Integration Debt vs. Data Contracts](https://dev.to/webmethodman/integration-debt-vs-data-contracts-nf6)
+- [MCUBoot: Signing and Header Analysis](https://dev.to/ripan030/mcuboot-signing-and-header-analysis-203j)
+- [🧩 Thinking in React: When and Where to Create State &lpar;Explained with a Packing List App&rpar;](https://dev.to/usama_dev/thinking-in-react-when-and-where-to-create-state-explained-with-a-packing-list-app-g2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
