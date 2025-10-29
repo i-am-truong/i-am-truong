@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bun vs Node for Astro Static Site Builds](https://dev.to/lovestaco/bun-vs-node-for-astro-static-site-builds-4okk)
+- [Transport Multiplexing in Mobile Sync: Why Multi-Transport Beats Single-Transport Systems](https://dev.to/biozal/transport-multiplexing-in-mobile-sync-why-multi-transport-beats-single-transport-systems-l37)
 - [From dark data to bright insights: The dawn of smart storage](https://dev.to/googleai/from-dark-data-to-bright-insights-the-dawn-of-smart-storage-1pf4)
 - [SOLID Series #1: Single Responsibility Principle](https://dev.to/mbkhalid23/solid-series-1-single-responsibility-principle-4pbj)
-- [How to Create the &quot;Apple Liquid Glass&quot; Effect with CSS and SVG](https://dev.to/fabiosleal/how-to-create-the-apple-liquid-glass-effect-with-css-and-svg-2o06)
-- [Unlocking Success: Your Ultimate Guide to Shopify Ecommerce](https://dev.to/api_troll/unlocking-success-your-ultimate-guide-to-shopify-ecommerce-1e04)
-- [Master YAML in 2024: Complete Learning Guide for DevOps Engineers](https://dev.to/yuvrajkarna/master-yaml-in-2024-complete-learning-guide-for-devops-engineers-4f4e)
+- [Tag-Based Deployment in Jenkins CI/CD Using GitHub — A Practical Guide](https://dev.to/srinivasamcjf/tag-based-deployment-in-jenkins-cicd-using-github-a-practical-guide-4em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
