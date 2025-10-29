@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Remote Work Guide for 2025: What Actually Works Now](https://dev.to/teamcamp/the-complete-remote-work-guide-for-2025-what-actually-works-now-mg3)
-- [Building MindSpark AI: The Future of Smart Learning with Flashcards and Quizzes](https://dev.to/debasis_panda_31e768f5e44/building-mindspark-ai-the-future-of-smart-learning-with-flashcards-and-quizzes-4gp1)
-- [Designing an Efficient, Secure, and Scalable Cloud System: AWS SAP-C02 Exam Study Guide](https://dev.to/jerry_1fd8dc58194335413ae/designing-an-efficient-secure-and-scalable-cloud-system-aws-sap-c02-exam-study-guide-5bh9)
-- [AI in Marketing Automation 2025: The Rise of Intelligent, Intent-Driven Marketing](https://dev.to/shubh_e01f22da2137f1d7b2b/ai-in-marketing-automation-2025-the-rise-of-intelligent-intent-driven-marketing-51d6)
-- [PDF Print Engine - Reliable HTML-to-PDF Conversion for Production](https://dev.to/boilerplate/pdf-print-engine-reliable-html-to-pdf-conversion-for-production-k43)
+- [🏆 Agile FC: Το Scrum μέσα από το Ποδόσφαιρ](https://dev.to/__b63657/agile-fc-to-scrum-mesa-apo-to-podosphair-30ik)
+- [Day 4: Learning JavaScript by Step By Step](https://dev.to/niladri_banerjee_98/day-4-learning-javascript-by-step-by-step-35n6)
+- [My PGConf EU 2026 experience](https://dev.to/floord/my-pgconf-eu-2026-experience-2li7)
+- [How to work with other Postgres people &lpar;panel on neurodiversity&rpar;](https://dev.to/floord/how-to-work-with-other-postgres-people-panel-on-neurodiversity-46gh)
+- [Unleash AI Performance: How Chiplets and Smart Networks Are Democratizing Custom Silicon by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unleash-ai-performance-how-chiplets-and-smart-networks-are-democratizing-custom-silicon-by-arvind-1p31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
