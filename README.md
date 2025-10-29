@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RAG Explained: How AI Systems Got Smarter by Learning to Look Things Up](https://dev.to/manav_sutar_d86f7312465e6/rag-explained-how-ai-systems-got-smarter-by-learning-to-look-things-up-65k)
 - [Building, Learning, and Growing as a Developer — Hello DEV!](https://dev.to/nandhutee/building-learning-and-growing-as-a-developer-hello-dev-4o0)
 - [Geographic in Zync: PostGIS-Inspired Spatial Utilities for SQL Server](https://dev.to/mirshahreza/geographic-in-zync-postgis-inspired-spatial-utilities-for-sql-server-25gf)
+- [Day 18 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-18-of-my-ai-data-mastery-journey-from-python-to-generative-ai-5b0b)
 - [🚀 Introducing lara-fetch - Laravel Sanctum made SIMPLE &lpar;no tears 😭&rpar;](https://dev.to/bright_agyemang_d609f542f/introducing-lara-fetch-laravel-sanctum-made-simple-no-tears--4n15)
-- [Understanding the Gitignore Feature in Repomix: A Technical Deep Dive](https://dev.to/hsachdeva9/understanding-the-gitignore-feature-in-repomix-a-technical-deep-dive-4lf)
-- [Adding .gitignore Support to share-my-repo: A New Feature to Streamline Repository Analysis](https://dev.to/hsachdeva9/adding-gitignore-support-to-share-my-repo-a-new-feature-to-streamline-repository-analysis-3f95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
