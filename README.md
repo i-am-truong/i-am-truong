@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-3jb)
+- [[Boost]](https://dev.to/wayne_gakuo/-3jek)
+- [**Content-based Filtering VS Collaborative Filtering: A Netf](https://dev.to/drcarlosruizviquez/content-based-filtering-vs-collaborative-filtering-a-netf-2ane)
 - [[RELEASE] AIS Unit &amp; Scale Doctor — Fix Blender unit/scale issues, profile-aware rulers, and guarded FBX/glTF export](https://dev.to/wilson_anibe_99986ba22102/release-ais-unit-scale-doctor-fix-blender-unitscale-issues-profile-aware-rulers-and-48nb)
-- [Can you really learn a new framework in just 2 weeks? Yes! I share my step-by-step guide and Svelte experience to help you do it. Check out the blueprint for rapid learning! #coding #frameworks #webdev #programming #developer](https://dev.to/sneha_sivakumar/can-you-really-learn-a-new-framework-in-just-2-weeks-yes-i-share-my-step-by-step-guide-and-svelte-2ic4)
-- [**Revolutionizing Team Sports with AI: The Tactical Titan Br](https://dev.to/drcarlosruizviquez/revolutionizing-team-sports-with-ai-the-tactical-titan-br-kam)
-- [🏗️ Building the Platform That Empowers Reliability by Design](https://dev.to/gteegela/building-the-platform-that-empowers-reliability-by-design-1kec)
-- [**Decoding Prompt Engineering: The Secret to Unlocking AI&#39;s](https://dev.to/drcarlosruizviquez/decoding-prompt-engineering-the-secret-to-unlocking-ais-432p)
+- [**The Dark Side of AI: How Adversarial Noise Can Fool Neural](https://dev.to/drcarlosruizviquez/the-dark-side-of-ai-how-adversarial-noise-can-fool-neural-3lh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
