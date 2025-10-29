@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⏳geol, the cli to efficiently manage EOLs like a boss](https://dev.to/adriens/geol-the-cli-to-efficiently-manage-eols-like-a-boss-3hne)
+- [48 hours date with Kiro IDE](https://dev.to/nishtha_8ff779c03ba37e7d4/48-hours-date-with-kiro-ide-20f7)
+- [🗳️ Day 28 of #30DaysOfSolidity — Build a DAO Voting System &lpar;Decentralized Governance&rpar;](https://dev.to/sauravkumar8178/day-28-of-30daysofsolidity-build-a-dao-voting-system-decentralized-governance-3kg1)
+- [Why the Model Context Protocol is the Future of AI Integration](https://dev.to/onlineproxy/why-the-model-context-protocol-is-the-future-of-ai-integration-4f3i)
 - [How to Start a Developer Podcast](https://dev.to/transistorfm/how-to-start-a-developer-podcast-56ba)
-- [Designing Data-Intensive Applications — Chapter 1: Reliable, Scalable, and Maintainable Applications](https://dev.to/romario_dasilva_cbef4e6a/designing-data-intensive-applications-chapter-1-foundations-f8o)
-- [Uniqueness constraints](https://dev.to/ben/uniqueness-constraints-1f2d)
-- [When to Automate and When to Test Manually: A QA Leader’s Decision Framework](https://dev.to/qa-leaders/when-to-automate-and-when-to-test-manually-a-qa-leaders-decision-framework-5hnf)
-- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-p7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
