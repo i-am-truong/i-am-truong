@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4fd1)
-- [Why DevSecOps Isn&#39;t a Role. It&#39;s a Responsibility](https://dev.to/anderson_leite/why-devsecops-isnt-a-role-its-a-responsibility-69m)
-- [🛡️ What Makes Linux Secure &lpar;and Where It&#39;s Weak - Plus How to Fix It&rpar;](https://dev.to/secbyshresth/what-makes-linux-secure-and-where-its-weak-plus-how-to-fix-it-2kpi)
-- [🪙 Day 29 of #30DaysOfSolidity — Building a Collateral-Backed Stablecoin in Solidity — Step-by-Step Guide](https://dev.to/sauravkumar8178/day-29-of-30daysofsolidity-building-a-collateral-backed-stablecoin-in-solidity-step-by-step-6dd)
-- [From Confusion to Creation: My Ongoing Journey in Tech](https://dev.to/bishopkbb/from-confusion-to-creation-my-ongoing-journey-in-tech-36h0)
+- [My API Testing &amp; Postman Automation Journey with Gradific API](https://dev.to/loveline/my-api-testing-postman-automation-journey-with-gradific-api-2a6)
+- [🚀 WebForms Core: The First Time You Realize the Web Can Be Simpler, Faster, and Smarter](https://dev.to/elanatframework/webforms-core-the-first-time-you-realize-the-web-can-be-simpler-faster-and-smarter-29ec)
+- [prmt: instant-feeling shell prompts &lpar;sub-millisecond, even over SSH&rpar;](https://dev.to/zenpie/prmt-instant-feeling-shell-prompts-sub-millisecond-even-over-ssh-2dd3)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-1l7f)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1d43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
