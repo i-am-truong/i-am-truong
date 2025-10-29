@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build ChatGPT apps in hours with Gadget](https://dev.to/gadget/build-chatgpt-apps-in-hours-with-gadget-1be1)
-- [GTAlign: Game-Theoretic Alignment of LLM Assistants for Mutual Welfare](https://dev.to/paperium/gtalign-game-theoretic-alignment-of-llm-assistants-for-mutual-welfare-3kcj)
-- [Mastering Enterprise Data: A Framework for Effective Data Management](https://dev.to/mcleanforresterllc/mastering-enterprise-data-a-framework-for-effective-data-management-3h5l)
-- [How to make OAuth integrated login/registration form in Node.js](https://dev.to/jahongir2007/how-to-make-oauth-integrated-loginregistration-form-in-nodejs-3gmh)
-- [Ethereum’s upgrade Fusaka is officially ready for mainnet](https://dev.to/martin_call/ethereums-upgrade-fusaka-is-officially-ready-for-mainnet-250d)
+- [🔥Top 7 Open-Source CLI Tools](https://dev.to/dev_kiran/top-7-open-source-cli-tools-4dnl)
+- [Building Effective Prompts and Workflows for Code Review with goose](https://dev.to/lymah/building-effective-prompts-and-workflows-for-code-review-with-goose-51m1)
+- [Supercharge Your Frontend with @mcabreradev/filter: React, Vue, and Svelte Guide](https://dev.to/mcabreradev/supercharge-your-frontend-with-mcabreradevfilter-react-vue-and-svelte-guide-23pk)
+- [🎓 &quot;Fusion-based multimodal AI&quot; is revolutionizing the field](https://dev.to/drcarlosruizviquez/fusion-based-multimodal-ai-is-revolutionizing-the-field-ncp)
+- [I built Culink — a simple tool to organize and share meaningful links](https://dev.to/elend80/i-built-culink-a-simple-tool-to-organize-and-share-meaningful-links-32dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
