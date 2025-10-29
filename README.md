@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Helps Litigators See the Full Picture: An AI Timeline Generator Built With No Code](https://dev.to/momen_hq/how-ai-helps-litigators-see-the-full-picture-an-ai-timeline-generator-built-with-no-code-4hdh)
-- [Great resource for build awesome projects](https://dev.to/isaactony/great-resource-for-build-awesome-projects-2e2o)
-- [Building a Production-Ready AI Image Generator with Nano Banana and No-Code](https://dev.to/momen_hq/building-a-production-ready-ai-image-generator-with-nano-banana-and-no-code-n72)
-- [From Boredom to Breakthrough: How Curiosity Fuels Learning](https://dev.to/tlorent/from-boredom-to-breakthrough-how-curiosity-fuels-learning-39jf)
-- [Mobile App Development for Regulated Industries: Compliance with HIPAA, GDPR &amp; CCPA](https://dev.to/iprogrammer_solutionspvt/mobile-app-development-for-regulated-industries-compliance-with-hipaa-gdpr-ccpa-2do0)
+- [The 5D Formula: How to Go from Friction to Flow with a Sub-1-Second Frontend](https://dev.to/hashbyt/the-5d-formula-how-to-go-from-friction-to-flow-with-a-sub-1-second-frontend-2afj)
+- [I Analyzed 5,000 Job Postings: Here&#39;s the Real ROI of Prompt Engineering Skills](https://dev.to/tixu_ai/i-analyzed-5000-job-postings-heres-the-real-roi-of-prompt-engineering-skills-1848)
+- [The Silence of the Gateway — When a Single Payment Packet Went Missing](https://dev.to/umut_akbulut_67a2377bc899/the-silence-of-the-gateway-when-a-single-payment-packet-went-missing-4hef)
+- [Mastering Custom DTO Mapping in .NET Core &lpar;with and without AutoMapper&rpar;](https://dev.to/mina_golzari_dalir/mastering-custom-dto-mapping-in-net-core-with-and-without-automapper-dg7)
+- [The Age of Capital in Artificial Intelligence: Has Finance Taken Over Science — and Is This a Collapse in Disguise?](https://dev.to/umut_akbulut_67a2377bc899/the-age-of-capital-in-artificial-intelligence-has-finance-taken-over-science-and-is-this-a-1jj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
