@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run PHPUnit and Pest Tests Without Vite Assets in Laravel](https://dev.to/ashallendesign/run-phpunit-and-pest-tests-without-vite-assets-in-laravel-5a4h)
-- [🚀 ngxsmk-datatable v1.7.0 — Enterprise Edition is here!](https://dev.to/toozuuu/ngxsmk-datatable-v170-enterprise-edition-is-here-2hf1)
-- [Beyond YAML: Building Kubernetes Operators with CRDs and the Reconciliation Loop](https://dev.to/naveens16/beyond-yaml-building-kubernetes-operators-with-crds-and-the-reconciliation-loop-524d)
-- [The Illusions of Quality — Episode 10: 🎨 The Art of the Quality Argument: How to Persuade Managers to Invest in Quality](https://dev.to/abdulosman/the-illusions-of-quality-episode-10-the-art-of-the-quality-argument-how-to-persuade-managers-24k6)
-- [🚀 How I Built a Multi-Agent AI Workflow System with n8n and Python](https://dev.to/roman_60d27e756c682fc5272/how-i-built-a-multi-agent-ai-workflow-system-with-n8n-and-python-41m1)
+- [Wall Street’s Stranglehold on Artificial Intelligence: The Silent Collapse of Innovation](https://dev.to/umut_akbulut_67a2377bc899/wall-streets-stranglehold-on-artificial-intelligence-the-silent-collapse-of-innovation-3fn7)
+- [Tsonnet #26 - Chain me maybe, part 2](https://dev.to/bitmaybewise/tsonnet-26-chain-me-maybe-part-2-2onn)
+- [Why React Uses State Instead of Plain JavaScript Variables](https://dev.to/tajnur/why-react-uses-state-instead-of-plain-javascript-variables-5057)
+- [Wall Street’in Yapay Zekâ Üzerindeki Boğucu Etkisi: Yeniliğin Sessiz Çöküşü](https://dev.to/umut_akbulut_67a2377bc899/wall-streetin-yapay-zeka-uzerindeki-bogucu-etkisi-yeniligin-sessiz-cokusu-2ma4)
+- [Building Tiramisu: An Open-Source Multi-Expert RAG Framework for Marketing Consultancy](https://dev.to/tiramisuframework/building-tiramisu-an-open-source-multi-expert-rag-framework-for-marketing-consultancy-lc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
