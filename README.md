@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New MCP Server: “Kash.click” &lpar;Sales management&rpar;](https://dev.to/simon_cabotse_15943c5120c/new-mcp-server-kashclick-sales-management-4dp0)
-- [Leveling Up AI with JSON Prompts](https://dev.to/benbenjamin/leveling-up-ai-with-json-prompts-265)
-- [RAG Evaluation Metrics: A Practical Guide for Measuring Retrieval-Augmented Generation with Maxim AI](https://dev.to/debmckinney/rag-evaluation-metrics-a-practical-guide-for-measuring-retrieval-augmented-generation-with-maxim-ai-2dkj)
-- [Healing with Heart: The Inspiring Journey of Dr. Rachna Buxani](https://dev.to/rachna_buxani_141bd2c6f1b/healing-with-heart-the-inspiring-journey-of-dr-rachna-buxani-167l)
-- [Automate React App Deployment with AWS CodePipeline &amp; S3 🚀](https://dev.to/julien_muke_af812ff28d550/automate-react-app-deployment-with-aws-codepipeline-s3-4o17)
+- [🚀 Mastering AWS Lambda Performance — Real-World Optimization Tips That Actually Work](https://dev.to/miten_motisariya/mastering-aws-lambda-performance-real-world-optimization-tips-that-actually-work-12n)
+- [Analyzing Crime against women in India.](https://dev.to/gateru/analyzing-crime-against-women-in-india-26og)
+- [🚀 Deploying Cognee AI Starter App on AWS ECS Using Terraform](https://dev.to/aws-builders/deploying-cognee-ai-starter-app-on-aws-ecs-using-terraform-4ma9)
+- [Deploying Next.js Projects with Dokploy](https://dev.to/weijunext/deploying-nextjs-projects-with-dokploy-52l6)
+- [🧩 Understanding Custom Resources in Kubernetes: Extending the Power of Your Cluster](https://dev.to/abhishek_korde_31/understanding-custom-resources-in-kubernetes-extending-the-power-of-your-cluster-3nop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
