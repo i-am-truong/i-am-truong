@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TLDR on Steroids - Meet IntelliShell](https://dev.to/lasantosr/tldr-on-steroids-meet-intellishell-29ih)
+- [I Was a Nerd from the Start &lpar;I Just Didn’t Know It Yet&rpar;](https://dev.to/tlorent/i-was-a-nerd-from-the-start-i-just-didnt-know-it-yet-2g4h)
 - [Investigating Missing Skeletons in RealityKit After Converting UniRig GLB Files](https://dev.to/_4a49fbaa067787556beb/investigating-missing-skeletons-in-realitykit-after-converting-unirig-glb-files-2kfj)
 - [IOS Instagram App Login/Sign Up UI Cloning](https://dev.to/ongang/ios-instagram-app-loginsign-up-ui-cloning-2fjh)
 - [End-to-End Data Workflow: Kestra, Redshift, and dbt Integration](https://dev.to/fredmunjogu/end-to-end-data-workflow-kestra-redshift-and-dbt-integration-3ani)
-- [Day 18: Python Palindrome Checker Tutorial – Ignore Case, Spaces &amp; Punctuation](https://dev.to/shahrouzlogs/day-18-python-palindrome-checker-tutorial-ignore-case-spaces-punctuation-2l0i)
-- [Once You See the Pattern, You Can’t Unsee It — The Stack Story](https://dev.to/drashti_buddhadev_010a46e/once-you-see-the-pattern-you-cant-unsee-it-the-stack-story-42cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
