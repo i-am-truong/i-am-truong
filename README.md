@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AKS DISASTER RECOVERY USING VELERO](https://dev.to/goodluck_ekeoma_2c98866d0/aks-disaster-recovery-using-velero-3o09)
+- [Intro](https://dev.to/chivicks_hazard/intro-2ejf)
+- [WTF is Cognitive Architecture?](https://dev.to/dailybugle33/wtf-is-cognitive-architecture-4p60)
+- [Indexing — Architecture Series: Part 2](https://dev.to/usman_awan/indexing-architecture-series-part-2-25bn)
 - [The 5D Formula: How to Go from Friction to Flow with a Sub-1-Second Frontend](https://dev.to/hashbyt/the-5d-formula-how-to-go-from-friction-to-flow-with-a-sub-1-second-frontend-2afj)
-- [I Analyzed 5,000 Job Postings: Here&#39;s the Real ROI of Prompt Engineering Skills](https://dev.to/tixu_ai/i-analyzed-5000-job-postings-heres-the-real-roi-of-prompt-engineering-skills-1848)
-- [The Silence of the Gateway — When a Single Payment Packet Went Missing](https://dev.to/umut_akbulut_67a2377bc899/the-silence-of-the-gateway-when-a-single-payment-packet-went-missing-4hef)
-- [Mastering Custom DTO Mapping in .NET Core &lpar;with and without AutoMapper&rpar;](https://dev.to/mina_golzari_dalir/mastering-custom-dto-mapping-in-net-core-with-and-without-automapper-dg7)
-- [The Age of Capital in Artificial Intelligence: Has Finance Taken Over Science — and Is This a Collapse in Disguise?](https://dev.to/umut_akbulut_67a2377bc899/the-age-of-capital-in-artificial-intelligence-has-finance-taken-over-science-and-is-this-a-1jj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
