@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello folks, recently I found out about this community would love to be updated on Android tech and will try help others.](https://dev.to/denver1234/hello-folks-recently-i-found-out-about-this-community-would-love-to-be-updated-on-android-tech-and-33i2)
+- [Java Wrapper Classes Explained: Why, How, and When to Use Them](https://dev.to/satyam_gupta_0d1ff2152dcc/java-wrapper-classes-explained-why-how-and-when-to-use-them-2n80)
+- [Mastering the Java Collections Framework: A Senior Developer&#39;s Deep Dive](https://dev.to/amrut_p_51ca0dd7c54b9/mastering-the-java-collections-framework-a-senior-developers-deep-dive-m5l)
+- [The Unreal Arbitrage: 100x Opportunity in the Age of Instant Intelligence](https://dev.to/ankk98/the-unreal-arbitrage-100x-opportunity-in-the-age-of-instant-intelligence-2bf9)
 - [How Does React&#39;s useContext Really Work?](https://dev.to/ctrix/how-does-reacts-usecontext-really-work-32gg)
-- [How transparent should internal communication be across different levels of the company?](https://dev.to/clariti_22_6e89b280ccd102/how-transparent-should-internal-communication-be-across-different-levels-of-the-company-k4j)
-- [Is HP DeskJet an InkJet Printer? Understanding the Difference and Benefits](https://dev.to/pujagothi/is-hp-deskjet-an-inkjet-printer-understanding-the-difference-and-benefits-4203)
-- [ReviewerToo: Should AI Join The Program Committee? A Look At The Future of PeerReview](https://dev.to/paperium/reviewertoo-should-ai-join-the-program-committee-a-look-at-the-future-of-peerreview-ij3)
-- [From Physical Layer to Application: A Practical Guide to LoRa and LoRaWAN for Engineers](https://dev.to/manthink/from-physical-layer-to-application-a-practical-guide-to-lora-and-lorawan-for-engineers-3h7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
