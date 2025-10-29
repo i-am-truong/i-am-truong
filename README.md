@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Writing Unit Tests &lpar;And My Code Got Better&rpar;](https://dev.to/teamcamp/why-i-stopped-writing-unit-tests-and-my-code-got-better-20j0)
-- [⚙️ Resonant Mapping — Part 4 of the SaijinOS Series](https://dev.to/kato_masato_c5593c81af5c6/resonant-mapping-part-4-of-the-saijinos-series-gce)
-- [Best Practices for Using CodeIgniter as Frontend with an Expandable Multi‑Platform Backend](https://dev.to/yusdirman/best-practices-for-using-codeigniter-as-frontend-with-an-expandable-multi-platform-backend-4dbh)
-- [Gathering User Requirements Through Prototyping: Why It Works](https://dev.to/yusdirman/gathering-user-requirements-through-prototyping-why-it-works-2go8)
-- [Why You Should Use 310,000+ Iterations with PBKDF2 in 2025](https://dev.to/securebitchat/why-you-should-use-310000-iterations-with-pbkdf2-in-2025-3o1e)
+- [Building, Learning, and Growing as a Developer — Hello DEV!](https://dev.to/nandhutee/building-learning-and-growing-as-a-developer-hello-dev-4o0)
+- [Geographic in Zync: PostGIS-Inspired Spatial Utilities for SQL Server](https://dev.to/mirshahreza/geographic-in-zync-postgis-inspired-spatial-utilities-for-sql-server-25gf)
+- [🚀 Introducing lara-fetch - Laravel Sanctum made SIMPLE &lpar;no tears 😭&rpar;](https://dev.to/bright_agyemang_d609f542f/introducing-lara-fetch-laravel-sanctum-made-simple-no-tears--4n15)
+- [Understanding the Gitignore Feature in Repomix: A Technical Deep Dive](https://dev.to/hsachdeva9/understanding-the-gitignore-feature-in-repomix-a-technical-deep-dive-4lf)
+- [Adding .gitignore Support to share-my-repo: A New Feature to Streamline Repository Analysis](https://dev.to/hsachdeva9/adding-gitignore-support-to-share-my-repo-a-new-feature-to-streamline-repository-analysis-3f95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
