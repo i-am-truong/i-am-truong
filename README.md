@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [On-Prem Test Intra Tools: The Complete Guide to Self-Hosted Testing Platforms](https://dev.to/jamescantor38/on-prem-test-intra-tools-the-complete-guide-to-self-hosted-testing-platforms-11np)
-- [easy-query: A Modern, Type-Safe ORM for Java That Actually Makes Sense](https://dev.to/dev-jack/easy-query-a-modern-type-safe-orm-for-java-that-actually-makes-sense-19n8)
-- [One of the most underrated skills to stand out as a coder:](https://dev.to/canro91/one-of-the-most-underrated-skills-to-stand-out-as-a-coder-2gkp)
-- [🚀 Introducing the ChatGPT Connection from Gadget](https://dev.to/gadget/introducing-the-chatgpt-connection-from-gadget-12no)
-- [CVE-2022-22947: VMware Spring Cloud Gateway Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2022-22947-vmware-spring-cloud-gateway-code-injection-vulnerability-47f4)
+- [End-to-End Data Workflow: Kestra, Redshift, and dbt Integration](https://dev.to/fredmunjogu/end-to-end-data-workflow-kestra-redshift-and-dbt-integration-3ani)
+- [Day 18: Python Palindrome Checker Tutorial – Ignore Case, Spaces &amp; Punctuation](https://dev.to/shahrouzlogs/day-18-python-palindrome-checker-tutorial-ignore-case-spaces-punctuation-2l0i)
+- [Once You See the Pattern, You Can’t Unsee It — The Stack Story](https://dev.to/drashti_buddhadev_010a46e/once-you-see-the-pattern-you-cant-unsee-it-the-stack-story-42cg)
+- [Can we find calm in a world of chaos?](https://dev.to/ben/can-we-find-calm-in-a-world-of-chaos-34o0)
+- [Introduction of JavaScript](https://dev.to/asfaq/introduction-of-javascript-1phe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
