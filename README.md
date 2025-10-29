@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Slicing Through Complexity: Modular Design vs Feature-Sliced Design in Vue 3](https://dev.to/igornosatov_15/slicing-through-complexity-modular-design-vs-feature-sliced-design-in-vue-3-13dh)
-- [Unlock Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlock-developer-revenue-the-future-of-ai-monetization-with-monetzly-2c22)
-- [From Freelancers to Brands: How Everyone Can Benefit from Batch Background Removal](https://dev.to/freepixel11/from-freelancers-to-brands-how-everyone-can-benefit-from-batch-background-removal-5dl0)
-- [The Resume Format That Finally Gets You Past the ATS Filter](https://dev.to/whoozit_in_82812c2fd22a09/the-resume-format-that-finally-gets-you-past-the-ats-filter-4hco)
-- [WebAssembly 3.0 and the Infrastructure We Actually Need](https://dev.to/aronchick/webassembly-30-and-the-infrastructure-we-actually-need-3joa)
+- [How Does React&#39;s useContext Really Work?](https://dev.to/ctrix/how-does-reacts-usecontext-really-work-32gg)
+- [How transparent should internal communication be across different levels of the company?](https://dev.to/clariti_22_6e89b280ccd102/how-transparent-should-internal-communication-be-across-different-levels-of-the-company-k4j)
+- [Is HP DeskJet an InkJet Printer? Understanding the Difference and Benefits](https://dev.to/pujagothi/is-hp-deskjet-an-inkjet-printer-understanding-the-difference-and-benefits-4203)
+- [ReviewerToo: Should AI Join The Program Committee? A Look At The Future of PeerReview](https://dev.to/paperium/reviewertoo-should-ai-join-the-program-committee-a-look-at-the-future-of-peerreview-ij3)
+- [From Physical Layer to Application: A Practical Guide to LoRa and LoRaWAN for Engineers](https://dev.to/manthink/from-physical-layer-to-application-a-practical-guide-to-lora-and-lorawan-for-engineers-3h7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
