@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Think Game Dev Isn’t My Thing &lpar;And That’s Okay&rpar;](https://dev.to/vulcanwm/i-think-game-dev-isnt-my-thing-and-thats-okay-3h5j)
 - [⏳geol, the cli to efficiently manage EOLs like a boss](https://dev.to/adriens/geol-the-cli-to-efficiently-manage-eols-like-a-boss-3hne)
 - [48 hours date with Kiro IDE](https://dev.to/nishtha_8ff779c03ba37e7d4/48-hours-date-with-kiro-ide-20f7)
 - [🗳️ Day 28 of #30DaysOfSolidity — Build a DAO Voting System &lpar;Decentralized Governance&rpar;](https://dev.to/sauravkumar8178/day-28-of-30daysofsolidity-build-a-dao-voting-system-decentralized-governance-3kg1)
 - [Why the Model Context Protocol is the Future of AI Integration](https://dev.to/onlineproxy/why-the-model-context-protocol-is-the-future-of-ai-integration-4f3i)
-- [How to Start a Developer Podcast](https://dev.to/transistorfm/how-to-start-a-developer-podcast-56ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
