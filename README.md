@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive Guide to Building a Design Kit for Multiple React Projects &lpar;Part 1&rpar;](https://dev.to/muhshahabipour/comprehensive-guide-to-building-a-design-kit-for-multiple-react-projects-part-1-4gjf)
+- [🚀 Supercharge Your VS Code with Cline – The Local AI Coding Assistant](https://dev.to/mrunal77/supercharge-your-vs-code-with-cline-the-local-ai-coding-assistant-3ol3)
+- [🧠 Memory Management in Python: A Beginner’s Guide](https://dev.to/codeneuron/memory-management-in-python-a-beginners-guide-51ko)
+- [How Reliable Are Your AI Agents?](https://dev.to/greyisheepai/how-reliable-are-your-ai-agents-5dd9)
 - [Best Practices for Building a Visually Appealing Zendesk Help Center](https://dev.to/freepixel11/best-practices-for-building-a-visually-appealing-zendesk-help-center-2c58)
-- [Java Annotations Demystified](https://dev.to/satyam_gupta_0d1ff2152dcc/java-annotations-demystified-40dh)
-- [Hello folks, recently I found out about this community would love to be updated on Android tech and will try help others.](https://dev.to/denver1234/hello-folks-recently-i-found-out-about-this-community-would-love-to-be-updated-on-android-tech-and-33i2)
-- [Java Wrapper Classes Explained: Why, How, and When to Use Them](https://dev.to/satyam_gupta_0d1ff2152dcc/java-wrapper-classes-explained-why-how-and-when-to-use-them-2n80)
-- [Mastering the Java Collections Framework: A Senior Developer&#39;s Deep Dive](https://dev.to/amrut_p_51ca0dd7c54b9/mastering-the-java-collections-framework-a-senior-developers-deep-dive-m5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
