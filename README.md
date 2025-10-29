@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://dev.to/technoblogger14o3/eurollm-llm-made-in-europe-built-to-support-all-24-official-eu-languages-4fcj)
-- [9 Useful Open Source Projects to Simplify Your Life as a Developer 🧑‍💻⚡️](https://dev.to/madza/9-useful-open-source-projects-to-simplify-your-life-as-a-developer-1111)
-- [Hello World!](https://dev.to/lag_lagendary/hello-world-4okg)
-- [Top 10 Cybersecurity Projects You Can’t Miss in 2026](https://dev.to/carrie_luo1/top-10-cybersecurity-projects-you-cant-miss-in-2026-1b5i)
-- [Mastering Froala Helpers for Device Detection, URL Safety, and More](https://dev.to/froala_e3824d66439393cbce/mastering-froala-helpers-for-device-detection-url-safety-and-more-46b4)
+- [JPlus – &lpar;Intellij Plugin Demo&rpar; Bringing Modern Language Features to Java Without Leaving Java](https://dev.to/cheol_jeon_9e29b98fdb7e1e/jplus-intellij-plugin-demo-bringing-modern-language-features-to-java-without-leaving-java-27ga)
+- [The Hidden Monopolies That Could Break the Tech World](https://dev.to/vaibhav0460/the-hidden-monopolies-that-could-break-the-tech-world-283i)
+- [What is Compiler?](https://dev.to/aj_arul/what-is-compiler-4hf8)
+- [Weekly Update #15](https://dev.to/abytebybyte/weekly-update-15-4a72)
+- [How I Generated $600k From My First 5 Clients With Content](https://dev.to/remotebranch/how-i-generated-600k-from-my-first-5-clients-with-content-223n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
