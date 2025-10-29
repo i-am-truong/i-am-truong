@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥Top 7 Open-Source CLI Tools](https://dev.to/dev_kiran/top-7-open-source-cli-tools-4dnl)
-- [Building Effective Prompts and Workflows for Code Review with goose](https://dev.to/lymah/building-effective-prompts-and-workflows-for-code-review-with-goose-51m1)
-- [Supercharge Your Frontend with @mcabreradev/filter: React, Vue, and Svelte Guide](https://dev.to/mcabreradev/supercharge-your-frontend-with-mcabreradevfilter-react-vue-and-svelte-guide-23pk)
-- [🎓 &quot;Fusion-based multimodal AI&quot; is revolutionizing the field](https://dev.to/drcarlosruizviquez/fusion-based-multimodal-ai-is-revolutionizing-the-field-ncp)
-- [I built Culink — a simple tool to organize and share meaningful links](https://dev.to/elend80/i-built-culink-a-simple-tool-to-organize-and-share-meaningful-links-32dc)
+- [Keep GitHub Copilot from going off the rails with instructions files](https://dev.to/anyveldt/keep-github-copilot-from-going-off-the-rails-with-instructions-files-2097)
+- [Hopefully releasing a new Forem app with lots of little fixes in the next couple days](https://dev.to/ben/hopefully-releasing-a-new-forem-app-with-lots-of-little-fixes-in-the-next-couple-days-4o0)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-50ga)
+- [Unveiling Hidden Patterns: Understanding Exploratory Factor Analysis in R](https://dev.to/dipti_moryani_9137d0a2e44/unveiling-hidden-patterns-understanding-exploratory-factor-analysis-in-r-1m37)
+- [Why JWT login breaks in WooCommerce — and how to fix it cleanly](https://dev.to/maysker/why-jwt-login-breaks-in-woocommerce-and-how-to-fix-it-cleanly-5m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
