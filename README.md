@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EIP-7702 Infrastructure Launches to Support Account Abstraction for EOAs](https://dev.to/etherspot/eip-7702-infrastructure-launches-to-support-account-abstraction-for-eoas-2ae4)
+- [Professional Translation](https://dev.to/go_haan_5c44754d1d8db9c46/professional-translation-5115)
+- [Spring Boot: Stop Using @Value Everywhere! Discover @ConfigurationProperties](https://dev.to/rachidrabou/spring-boot-stop-using-value-everywhere-discover-configurationproperties-1h93)
+- [Convert PDF to HTML in C#](https://dev.to/codingco/convert-pdf-to-html-in-c-90c)
 - [Wall Street’s Stranglehold on Artificial Intelligence: The Silent Collapse of Innovation](https://dev.to/umut_akbulut_67a2377bc899/wall-streets-stranglehold-on-artificial-intelligence-the-silent-collapse-of-innovation-3fn7)
-- [Tsonnet #26 - Chain me maybe, part 2](https://dev.to/bitmaybewise/tsonnet-26-chain-me-maybe-part-2-2onn)
-- [Why React Uses State Instead of Plain JavaScript Variables](https://dev.to/tajnur/why-react-uses-state-instead-of-plain-javascript-variables-5057)
-- [Wall Street’in Yapay Zekâ Üzerindeki Boğucu Etkisi: Yeniliğin Sessiz Çöküşü](https://dev.to/umut_akbulut_67a2377bc899/wall-streetin-yapay-zeka-uzerindeki-bogucu-etkisi-yeniligin-sessiz-cokusu-2ma4)
-- [Building Tiramisu: An Open-Source Multi-Expert RAG Framework for Marketing Consultancy](https://dev.to/tiramisuframework/building-tiramisu-an-open-source-multi-expert-rag-framework-for-marketing-consultancy-lc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
