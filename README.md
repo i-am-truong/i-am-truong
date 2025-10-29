@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Shift to Synthetic Data Markets: How to Prepare Your C# Applications for 2026](https://dev.to/lofcz/the-shift-to-synthetic-data-markets-how-to-prepare-your-c-applications-for-2026-120d)
-- [The $2 Billion Bet: Inside GTA VI’s Record-Breaking Budget](https://dev.to/creativeambition/the-2-billion-bet-inside-gta-vis-record-breaking-budget-4nej)
-- [When Emotion Becomes The Interface: The Future of AI-Driven Cinematic Immersion](https://dev.to/daymon565/when-emotion-becomes-the-interface-the-future-of-ai-driven-cinematic-immersion-da2)
-- [Building Autonomous AI Agents in C#: Tips from Real-World Applications](https://dev.to/lofcz/building-autonomous-ai-agents-in-c-tips-from-real-world-applications-4f74)
-- [HactoberFest&#39;s Week 3: Fixing a Type-Casting Issue in Kestra’s Chunk Pebble Filter](https://dev.to/hsachdeva9/hactoberfests-week-3-fixing-a-type-casting-issue-in-kestras-chunk-pebble-filter-124f)
+- [A Universal Standard for Securing Prompts in AI Systems: Introducing UPSS](https://dev.to/alvinveroy/a-universal-standard-for-securing-prompts-in-ai-systems-introducing-upss-224d)
+- [Get in Line: Customizing Column Order in MudBlazor](https://dev.to/the_real_slim_janey/get-in-line-customizing-column-order-in-mudblazor-3ail)
+- [Bra just zil...](https://dev.to/bibimbop123/bra-just-zil-419j)
+- [Elevating Your Excel Reports: Programmatically Setting Backgrounds with Java](https://dev.to/lu_liu_e3fc806354d9a952b7/elevating-your-excel-reports-programmatically-setting-backgrounds-with-java-3l1h)
+- [Descomplicando Simple Factory Method](https://dev.to/yuripeixinho/descomplicando-simple-factory-method-5hfk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
