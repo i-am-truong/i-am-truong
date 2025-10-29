@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Start a Developer Podcast](https://dev.to/transistorfm/how-to-start-a-developer-podcast-56ba)
+- [Designing Data-Intensive Applications — Chapter 1: Reliable, Scalable, and Maintainable Applications](https://dev.to/romario_dasilva_cbef4e6a/designing-data-intensive-applications-chapter-1-foundations-f8o)
+- [Uniqueness constraints](https://dev.to/ben/uniqueness-constraints-1f2d)
+- [When to Automate and When to Test Manually: A QA Leader’s Decision Framework](https://dev.to/qa-leaders/when-to-automate-and-when-to-test-manually-a-qa-leaders-decision-framework-5hnf)
 - [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-p7d)
-- [**Unlocking Efficient Media Processing with Domain Knowledge](https://dev.to/drcarlosruizviquez/unlocking-efficient-media-processing-with-domain-knowledge-3jj7)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-48e7)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 7 - &#39;In The Mood for Love’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-7-in-the-mood-for-love-4j6f)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3hk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
