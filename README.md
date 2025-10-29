@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptography for developers](https://dev.to/andres_fernandez_05a8738d/cryptography-for-developers-1aj)
 - [My API Testing &amp; Postman Automation Journey with Gradific API](https://dev.to/loveline/my-api-testing-postman-automation-journey-with-gradific-api-2a6)
 - [🚀 WebForms Core: The First Time You Realize the Web Can Be Simpler, Faster, and Smarter](https://dev.to/elanatframework/webforms-core-the-first-time-you-realize-the-web-can-be-simpler-faster-and-smarter-29ec)
 - [prmt: instant-feeling shell prompts &lpar;sub-millisecond, even over SSH&rpar;](https://dev.to/zenpie/prmt-instant-feeling-shell-prompts-sub-millisecond-even-over-ssh-2dd3)
 - [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-1l7f)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1d43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
