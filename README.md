@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creepy Helloween Party Invitation card - Helloween Css Art](https://dev.to/asifa_azad_codex/creepy-helloween-party-invitation-card-helloween-css-art-46mf)
-- [RAG Explained: How AI Systems Got Smarter by Learning to Look Things Up](https://dev.to/manav_sutar_d86f7312465e6/rag-explained-how-ai-systems-got-smarter-by-learning-to-look-things-up-65k)
-- [Building, Learning, and Growing as a Developer — Hello DEV!](https://dev.to/nandhutee/building-learning-and-growing-as-a-developer-hello-dev-4o0)
-- [Geographic in Zync: PostGIS-Inspired Spatial Utilities for SQL Server](https://dev.to/mirshahreza/geographic-in-zync-postgis-inspired-spatial-utilities-for-sql-server-25gf)
-- [Day 18 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-18-of-my-ai-data-mastery-journey-from-python-to-generative-ai-5b0b)
+- [Stop Turning the Clocks – Why Europe Fails at Daylight Saving Time](https://dev.to/thomasdelfing_de/stop-turning-the-clocks-why-europe-fails-at-daylight-saving-time-10p9)
+- [🧩 Understanding Fluent API in Spring: A Deep Dive](https://dev.to/nk_sk_6f24fdd730188b284bf/understanding-fluent-api-in-spring-a-deep-dive-51lh)
+- [Why Your CRM is Making You Slower: The Hidden Cost of Data Entry](https://dev.to/revenue_velocity_lab/why-your-crm-is-making-you-slower-the-hidden-cost-of-data-entry-2eh7)
+- [Salesforce vs Pipedrive 2025: Enterprise Power or Sales Simplicity?](https://dev.to/revenue_velocity_lab/salesforce-vs-pipedrive-2025-enterprise-power-or-sales-simplicity-27ib)
+- [Sales Pipeline Management 101: Complete Guide for SMB Teams &lpar;2025&rpar;](https://dev.to/revenue_velocity_lab/sales-pipeline-management-101-complete-guide-for-smb-teams-2025-48lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
