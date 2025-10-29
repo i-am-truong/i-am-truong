@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create the &quot;Apple Liquid Glass&quot; Effect with CSS and SVG](https://dev.to/fabiosleal/how-to-create-the-apple-liquid-glass-effect-with-css-and-svg-2o06)
 - [Unlocking Success: Your Ultimate Guide to Shopify Ecommerce](https://dev.to/api_troll/unlocking-success-your-ultimate-guide-to-shopify-ecommerce-1e04)
 - [Master YAML in 2024: Complete Learning Guide for DevOps Engineers](https://dev.to/yuvrajkarna/master-yaml-in-2024-complete-learning-guide-for-devops-engineers-4f4e)
 - [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_25c2e834/files-are-not-just-data-a-guide-to-robust-file-handling-c61)
 - [How to Create Product Demos &lpar;Even Without a Video Team&rpar;](https://dev.to/sachindas246/how-to-create-product-demos-even-without-a-video-team-4b9n)
-- [10 Tips for Making Better Decisions](https://dev.to/diogodanielsoaresferreira/10-tips-for-making-better-decisions-hp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
