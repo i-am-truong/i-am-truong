@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Networking in Your Career](https://dev.to/erinholand321/the-importance-of-networking-in-your-career-1d5d)
-- [Top Open-Source &amp; Commercial Multi-Cloud Management Platforms in 2025](https://dev.to/lightningdev123/top-open-source-commercial-multi-cloud-management-platforms-in-2025-ch8)
-- [100+ Builders Signed Up for the ScrumBuddy Beta - Here’s Why](https://dev.to/scrumbuddyai/100-builders-signed-up-for-the-scrumbuddy-beta-heres-why-47l9)
-- [Best Ways to Use Collection Runners for API Workflows](https://dev.to/requestly/best-ways-to-use-collection-runners-for-api-workflows-2l7k)
-- [Kubernetes at the Edge: Is Your Data Ready to Leave the Nest?](https://dev.to/karthik_n/kubernetes-at-the-edge-is-your-data-ready-to-leave-the-nest-210h)
+- [New MCP Server: “Kash.click” &lpar;Sales management&rpar;](https://dev.to/simon_cabotse_15943c5120c/new-mcp-server-kashclick-sales-management-4dp0)
+- [Leveling Up AI with JSON Prompts](https://dev.to/benbenjamin/leveling-up-ai-with-json-prompts-265)
+- [RAG Evaluation Metrics: A Practical Guide for Measuring Retrieval-Augmented Generation with Maxim AI](https://dev.to/debmckinney/rag-evaluation-metrics-a-practical-guide-for-measuring-retrieval-augmented-generation-with-maxim-ai-2dkj)
+- [Healing with Heart: The Inspiring Journey of Dr. Rachna Buxani](https://dev.to/rachna_buxani_141bd2c6f1b/healing-with-heart-the-inspiring-journey-of-dr-rachna-buxani-167l)
+- [Automate React App Deployment with AWS CodePipeline &amp; S3 🚀](https://dev.to/julien_muke_af812ff28d550/automate-react-app-deployment-with-aws-codepipeline-s3-4o17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
