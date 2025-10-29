@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SpringBoot CAPTCHA Implementation Tutorial: From Custom Development to Hutool Ut](https://dev.to/tiger_smith_9f421b9131db5/springboot-captcha-implementation-tutorial-from-custom-development-to-hutool-ut-n6n)
-- [5 must know open-source repositories to build cool AI apps](https://dev.to/tyaga001/5-must-know-open-source-repositories-to-build-cool-ai-apps-3pn7)
-- [Containerization in Mobile App Development: Accelerating Innovation and Scalability](https://dev.to/shubham_joshi_expert/containerization-in-mobile-app-development-accelerating-innovation-and-scalability-i1e)
-- [Wizarding Wards: Enchanted Electronics of Telehealth](https://dev.to/ersajay/wizarding-wards-enchanted-electronics-of-telehealth-1b88)
-- [The Art and Science of Modern Marketing: When Data Meets Emotion](https://dev.to/trailblazer_visionaries_3/the-art-and-science-of-modern-marketing-when-data-meets-emotion-3938)
+- [How AI Helps Litigators See the Full Picture: An AI Timeline Generator Built With No Code](https://dev.to/momen_hq/how-ai-helps-litigators-see-the-full-picture-an-ai-timeline-generator-built-with-no-code-4hdh)
+- [Great resource for build awesome projects](https://dev.to/isaactony/great-resource-for-build-awesome-projects-2e2o)
+- [Building a Production-Ready AI Image Generator with Nano Banana and No-Code](https://dev.to/momen_hq/building-a-production-ready-ai-image-generator-with-nano-banana-and-no-code-n72)
+- [From Boredom to Breakthrough: How Curiosity Fuels Learning](https://dev.to/tlorent/from-boredom-to-breakthrough-how-curiosity-fuels-learning-39jf)
+- [Mobile App Development for Regulated Industries: Compliance with HIPAA, GDPR &amp; CCPA](https://dev.to/iprogrammer_solutionspvt/mobile-app-development-for-regulated-industries-compliance-with-hipaa-gdpr-ccpa-2do0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
