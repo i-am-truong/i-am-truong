@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EIP-7702 Infrastructure Launches to Support Account Abstraction for EOAs](https://dev.to/etherspot/eip-7702-infrastructure-launches-to-support-account-abstraction-for-eoas-2ae4)
-- [Professional Translation](https://dev.to/go_haan_5c44754d1d8db9c46/professional-translation-5115)
-- [Spring Boot: Stop Using @Value Everywhere! Discover @ConfigurationProperties](https://dev.to/rachidrabou/spring-boot-stop-using-value-everywhere-discover-configurationproperties-1h93)
-- [Convert PDF to HTML in C#](https://dev.to/codingco/convert-pdf-to-html-in-c-90c)
-- [Wall Street’s Stranglehold on Artificial Intelligence: The Silent Collapse of Innovation](https://dev.to/umut_akbulut_67a2377bc899/wall-streets-stranglehold-on-artificial-intelligence-the-silent-collapse-of-innovation-3fn7)
+- [AI-Native Consumer Linux: A Vision for the Future](https://dev.to/ankk98/ai-native-consumer-linux-a-vision-for-the-future-1jd3)
+- [50+ Developer Documentation Tools That Will Transform Your Workflow in 2025](https://dev.to/apilover/50-developer-documentation-tools-that-will-transform-your-workflow-in-2025-b1j)
+- [How to Debug Applications Running in Docker Containers](https://dev.to/addwebsolutionpvtltd/how-to-debug-applications-running-in-docker-containers-4ego)
+- [NPR Music: Oklou: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-oklou-tiny-desk-concert-4n5b)
+- [Building Semantica: An AI-Powered Academic Search Platform with MindsDB](https://dev.to/better-boy/building-semantica-an-ai-powered-academic-search-platform-with-mindsdb-596n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
