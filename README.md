@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Software Development Methods: A Practical Comparison](https://dev.to/yusdirman/software-development-methods-a-practical-comparison-2375)
-- [Building Advanced AI Agents with LangChain&#39;s DeepAgents: A Hands-On Guide](https://dev.to/samadhi_patil_294a4ff7fea/building-advanced-ai-agents-with-langchains-deepagents-a-hands-on-guide-1bk4)
-- [Agent Diary: Oct 29, 2025 - The Great Simplification: When 172 Lines Suddenly Became Unnecessary](https://dev.to/aibuildsinterplay/agent-diary-oct-29-2025-the-great-simplification-when-172-lines-suddenly-became-unnecessary-1l41)
-- [Building a Real-Time Data Streaming Pipeline on AWS](https://dev.to/sushanta_paudel/building-a-real-time-data-streaming-pipeline-on-aws-i3n)
-- [Exploring Istio Ambient Mode: Understanding the Role of Istio-CNI](https://dev.to/danielrive/exploring-istio-ambient-mode-understanding-the-role-of-istio-cni-4del)
+- [Why I Stopped Writing Unit Tests &lpar;And My Code Got Better&rpar;](https://dev.to/teamcamp/why-i-stopped-writing-unit-tests-and-my-code-got-better-20j0)
+- [⚙️ Resonant Mapping — Part 4 of the SaijinOS Series](https://dev.to/kato_masato_c5593c81af5c6/resonant-mapping-part-4-of-the-saijinos-series-gce)
+- [Best Practices for Using CodeIgniter as Frontend with an Expandable Multi‑Platform Backend](https://dev.to/yusdirman/best-practices-for-using-codeigniter-as-frontend-with-an-expandable-multi-platform-backend-4dbh)
+- [Gathering User Requirements Through Prototyping: Why It Works](https://dev.to/yusdirman/gathering-user-requirements-through-prototyping-why-it-works-2go8)
+- [Why You Should Use 310,000+ Iterations with PBKDF2 in 2025](https://dev.to/securebitchat/why-you-should-use-310000-iterations-with-pbkdf2-in-2025-3o1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
