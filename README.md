@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_25c2e834/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-1c9p)
+- [A Small Trick for Smarter, More Reliable Inputs in React](https://dev.to/minoosh/a-small-trick-for-smarter-more-reliable-inputs-in-react-1pbp)
+- [Wuzen Android RAT 2025: The Mobile Spyware Going Viral on Telegram](https://dev.to/ree_aan_e04cb84ff94582e74/wuzen-android-rat-2025-the-mobile-spyware-going-viral-on-telegram-4blb)
+- [From Local Chaos to Container Harmony: Dockerizing a Render Engine for AI Animations](https://dev.to/nandan9/from-local-chaos-to-container-harmony-dockerizing-a-render-engine-for-ai-animations-3e7n)
 - [Neovim Treesitter highlighting with sql generic types &lpar;Typescript&rpar;](https://dev.to/rieljdev/neovim-treesitter-highlighting-with-sql-generic-types-typescript-4lh1)
-- [Python Game - Lemonade Stand Tycoon](https://dev.to/galacticcircuit/python-game-lemonade-stand-tycoon-1pii)
-- [Bracing for Breakers: Quantum-Safe Crypto for the Real World](https://dev.to/arvind_sundararajan/bracing-for-breakers-quantum-safe-crypto-for-the-real-world-hg4)
-- [Save YouTube Videos Without Losing Quality](https://dev.to/gerrit_cole/save-youtube-videos-without-losing-quality-535j)
-- [Update: 485 downloads in 48 hrs - wild! Drop a comment if you&#39;re using it.](https://dev.to/bright_agyemang_d609f542f/update-485-downloads-in-48-hrs-wild-drop-a-comment-if-youre-using-it-4eah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
