@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Save YouTube Videos Without Losing Quality](https://dev.to/gerrit_cole/save-youtube-videos-without-losing-quality-535j)
 - [Update: 485 downloads in 48 hrs - wild! Drop a comment if you&#39;re using it.](https://dev.to/bright_agyemang_d609f542f/update-485-downloads-in-48-hrs-wild-drop-a-comment-if-youre-using-it-4eah)
+- [Neovim Treesitter highlighting with sql generic types &lpar;Typescript&rpar;](https://dev.to/riel_josephbulaybulay_a1/neovim-treesitter-highlighting-with-sql-generic-types-typescript-4ko5)
 - [Join us at Atlassian&#39;s Developer Day: Bellevue](https://dev.to/livsa/join-us-at-atlassians-developer-day-bellevue-51d5)
 - [[Boost]](https://dev.to/tobilobaogundiyan/-3p0h)
-- [Cryptography for developers](https://dev.to/andres_fernandez_05a8738d/cryptography-for-developers-1aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
