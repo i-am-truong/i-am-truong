@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🏆 Agile FC: Το Scrum μέσα από το Ποδόσφαιρ](https://dev.to/__b63657/agile-fc-to-scrum-mesa-apo-to-podosphair-30ik)
-- [Day 4: Learning JavaScript by Step By Step](https://dev.to/niladri_banerjee_98/day-4-learning-javascript-by-step-by-step-35n6)
-- [My PGConf EU 2026 experience](https://dev.to/floord/my-pgconf-eu-2026-experience-2li7)
-- [How to work with other Postgres people &lpar;panel on neurodiversity&rpar;](https://dev.to/floord/how-to-work-with-other-postgres-people-panel-on-neurodiversity-46gh)
-- [Unleash AI Performance: How Chiplets and Smart Networks Are Democratizing Custom Silicon by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unleash-ai-performance-how-chiplets-and-smart-networks-are-democratizing-custom-silicon-by-arvind-1p31)
+- [Understanding the prepare Callback In Redux Toolkit](https://dev.to/lawrenceagles/understanding-the-prepare-callback-in-redux-toolkit-1ofh)
+- [How to Implement Geofencing Using Python and PostGIS](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-implement-geofencing-using-python-and-postgis-4l61)
+- [Building a Cross-Platform CLI Tool with TypeScript](https://dev.to/adeyomi_lawal_8c61225e087/building-a-cross-platform-cli-tool-with-typescript-3f69)
+- [Frontend Roundup October 2025: Next.js 16, Astro 5.15, Node 22 LTS, CSS View Transitions, and Vite+](https://dev.to/0xrelogic/frontend-roundup-october-2025-nextjs-16-astro-515-node-22-lts-css-view-transitions-and-vite-2lce)
+- [Testing Your AI Agents with Rogue using MCP](https://dev.to/yuvalqf/testing-your-ai-agents-with-rogue-using-mcp-1eb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
