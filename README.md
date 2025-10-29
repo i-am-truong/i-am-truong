@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Keep GitHub Copilot from going off the rails with instructions files](https://dev.to/anyveldt/keep-github-copilot-from-going-off-the-rails-with-instructions-files-2097)
-- [Hopefully releasing a new Forem app with lots of little fixes in the next couple days](https://dev.to/ben/hopefully-releasing-a-new-forem-app-with-lots-of-little-fixes-in-the-next-couple-days-4o0)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-50ga)
-- [Unveiling Hidden Patterns: Understanding Exploratory Factor Analysis in R](https://dev.to/dipti_moryani_9137d0a2e44/unveiling-hidden-patterns-understanding-exploratory-factor-analysis-in-r-1m37)
-- [Why JWT login breaks in WooCommerce — and how to fix it cleanly](https://dev.to/maysker/why-jwt-login-breaks-in-woocommerce-and-how-to-fix-it-cleanly-5m2)
+- [On-Prem Test Intra Tools: The Complete Guide to Self-Hosted Testing Platforms](https://dev.to/jamescantor38/on-prem-test-intra-tools-the-complete-guide-to-self-hosted-testing-platforms-11np)
+- [easy-query: A Modern, Type-Safe ORM for Java That Actually Makes Sense](https://dev.to/dev-jack/easy-query-a-modern-type-safe-orm-for-java-that-actually-makes-sense-19n8)
+- [One of the most underrated skills to stand out as a coder:](https://dev.to/canro91/one-of-the-most-underrated-skills-to-stand-out-as-a-coder-2gkp)
+- [🚀 Introducing the ChatGPT Connection from Gadget](https://dev.to/gadget/introducing-the-chatgpt-connection-from-gadget-12no)
+- [CVE-2022-22947: VMware Spring Cloud Gateway Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2022-22947-vmware-spring-cloud-gateway-code-injection-vulnerability-47f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
