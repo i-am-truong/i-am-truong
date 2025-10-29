@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JPlus – &lpar;Intellij Plugin Demo&rpar; Bringing Modern Language Features to Java Without Leaving Java](https://dev.to/cheol_jeon_9e29b98fdb7e1e/jplus-intellij-plugin-demo-bringing-modern-language-features-to-java-without-leaving-java-27ga)
-- [The Hidden Monopolies That Could Break the Tech World](https://dev.to/vaibhav0460/the-hidden-monopolies-that-could-break-the-tech-world-283i)
-- [What is Compiler?](https://dev.to/aj_arul/what-is-compiler-4hf8)
-- [Weekly Update #15](https://dev.to/abytebybyte/weekly-update-15-4a72)
-- [How I Generated $600k From My First 5 Clients With Content](https://dev.to/remotebranch/how-i-generated-600k-from-my-first-5-clients-with-content-223n)
+- [Word to the wise](https://dev.to/ben/word-to-the-wise-3ml5)
+- [AWS Cost Anomaly Detection: When machine learning meets your billing](https://dev.to/cloudwiseteam/aws-cost-anomaly-detection-when-machine-learning-meets-your-billing-2cia)
+- [Keyword vs. semantic search with AI](https://dev.to/alejandro_du/keyword-vs-semantic-search-with-ai-c03)
+- [4 Best Power BI &amp; Data Analytics Projects That You Must See!](https://dev.to/niveshbansal07/4-best-power-bi-data-analytics-projects-that-you-must-see-1m1g)
+- [.NET 10: O GC que reduz a memória, mas exige uma escolha dura – Você aceita diminuir o Throughput?](https://dev.to/unhacked/net-10-o-gc-que-reduz-a-memoria-mas-exige-uma-escolha-dura-voce-aceita-diminuir-o-throughput-7fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
