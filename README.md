@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TLDR on Steroids - Meet IntelliShell](https://dev.to/lasantosr/tldr-on-steroids-meet-intellishell-29ih)
-- [I Was a Nerd from the Start &lpar;I Just Didn’t Know It Yet&rpar;](https://dev.to/tlorent/i-was-a-nerd-from-the-start-i-just-didnt-know-it-yet-2g4h)
-- [Investigating Missing Skeletons in RealityKit After Converting UniRig GLB Files](https://dev.to/_4a49fbaa067787556beb/investigating-missing-skeletons-in-realitykit-after-converting-unirig-glb-files-2kfj)
-- [IOS Instagram App Login/Sign Up UI Cloning](https://dev.to/ongang/ios-instagram-app-loginsign-up-ui-cloning-2fjh)
-- [End-to-End Data Workflow: Kestra, Redshift, and dbt Integration](https://dev.to/fredmunjogu/end-to-end-data-workflow-kestra-redshift-and-dbt-integration-3ani)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-15e8)
+- [Como ajudar as pessoas a contribuirem com seu projeto Open Source](https://dev.to/morgannadev/como-ajudar-as-pessoas-a-contribuirem-com-seu-projeto-open-source-4cjm)
+- [How I Made an MCP Server That Saves Me an Hour per Week](https://dev.to/googlecloud/how-i-made-an-mcp-server-that-saves-me-an-hour-per-week-3k8k)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-lef)
+- [Meetup: Show Your Stack! TypeScript Community](https://dev.to/getjv/meetup-show-your-stack-typescript-community-5587)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
