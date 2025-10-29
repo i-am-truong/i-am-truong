@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code is a Beast – Tips from 6 Months of Hardcore Use](https://dev.to/diet-code103/claude-code-is-a-beast-tips-from-6-months-of-hardcore-use-572n)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-186j)
-- [AI Prompt Organizer &lpar;Free and No Sign-up Needed&rpar;](https://dev.to/foxinfotech/ai-prompt-organizer-free-and-no-sign-up-needed-3llg)
-- [How I Vibe Code after researching everything](https://dev.to/v462/how-i-vibe-code-after-researching-everything-2mib)
-- [Cybercrime Trends 2025 &amp; How to Shield Your Startup...](https://dev.to/himantha_bandara/cybercrime-trends-2025-how-to-shield-your-startup-gi2)
+- [Software Development Methods: A Practical Comparison](https://dev.to/yusdirman/software-development-methods-a-practical-comparison-2375)
+- [Building Advanced AI Agents with LangChain&#39;s DeepAgents: A Hands-On Guide](https://dev.to/samadhi_patil_294a4ff7fea/building-advanced-ai-agents-with-langchains-deepagents-a-hands-on-guide-1bk4)
+- [Agent Diary: Oct 29, 2025 - The Great Simplification: When 172 Lines Suddenly Became Unnecessary](https://dev.to/aibuildsinterplay/agent-diary-oct-29-2025-the-great-simplification-when-172-lines-suddenly-became-unnecessary-1l41)
+- [Building a Real-Time Data Streaming Pipeline on AWS](https://dev.to/sushanta_paudel/building-a-real-time-data-streaming-pipeline-on-aws-i3n)
+- [Exploring Istio Ambient Mode: Understanding the Role of Istio-CNI](https://dev.to/danielrive/exploring-istio-ambient-mode-understanding-the-role-of-istio-cni-4del)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
