@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to Building a Design Kit for Multiple React Projects &lpar;Part 1&rpar;](https://dev.to/muhshahabipour/comprehensive-guide-to-building-a-design-kit-for-multiple-react-projects-part-1-4gjf)
-- [🚀 Supercharge Your VS Code with Cline – The Local AI Coding Assistant](https://dev.to/mrunal77/supercharge-your-vs-code-with-cline-the-local-ai-coding-assistant-3ol3)
-- [🧠 Memory Management in Python: A Beginner’s Guide](https://dev.to/codeneuron/memory-management-in-python-a-beginners-guide-51ko)
-- [How Reliable Are Your AI Agents?](https://dev.to/greyisheepai/how-reliable-are-your-ai-agents-5dd9)
-- [Best Practices for Building a Visually Appealing Zendesk Help Center](https://dev.to/freepixel11/best-practices-for-building-a-visually-appealing-zendesk-help-center-2c58)
+- [SpringBoot CAPTCHA Implementation Tutorial: From Custom Development to Hutool Ut](https://dev.to/tiger_smith_9f421b9131db5/springboot-captcha-implementation-tutorial-from-custom-development-to-hutool-ut-n6n)
+- [5 must know open-source repositories to build cool AI apps](https://dev.to/tyaga001/5-must-know-open-source-repositories-to-build-cool-ai-apps-3pn7)
+- [Containerization in Mobile App Development: Accelerating Innovation and Scalability](https://dev.to/shubham_joshi_expert/containerization-in-mobile-app-development-accelerating-innovation-and-scalability-i1e)
+- [Wizarding Wards: Enchanted Electronics of Telehealth](https://dev.to/ersajay/wizarding-wards-enchanted-electronics-of-telehealth-1b88)
+- [The Art and Science of Modern Marketing: When Data Meets Emotion](https://dev.to/trailblazer_visionaries_3/the-art-and-science-of-modern-marketing-when-data-meets-emotion-3938)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
