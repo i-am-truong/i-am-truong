@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five Game-Changing AI Trends in Q4 2025 Every C# Developer Should Know](https://dev.to/lofcz/five-game-changing-ai-trends-in-q4-2025-every-c-developer-should-know-2c6l)
+- [How Pomelli, Google’s New AI Marketing Tool, Transforms Campaign Creation in 2025](https://dev.to/chloedavis/how-pomelli-googles-new-ai-marketing-tool-transforms-campaign-creation-in-2025-5bpj)
+- [SE 371 Project 2](https://dev.to/mthom2141/se-371-project-2-3eo3)
+- [Unlocking Neural Network Secrets: The Geometric Awakening by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-neural-network-secrets-the-geometric-awakening-by-arvind-sundararajan-3add)
 - [Yet Another AWS AI Certification - AI Professional](https://dev.to/shajam/yet-another-aws-ai-certification-professional-4ogp)
-- [Supercontributor badge from Hacktoberfest](https://dev.to/simplysandeepp/supercontributor-badge-from-hacktoberfest-2fon)
-- [Automating the Gridiron Gaze: Building Tools for Dynamic Depth Chart Analysis](https://dev.to/ffteamnames/automating-the-gridiron-gaze-building-tools-for-dynamic-depth-chart-analysis-313e)
-- [Dynamically Allocating 2D Arrays Efficiently &lpar;and Correctly!&rpar; in C 2.0](https://dev.to/pauljlucas/dynamically-allocating-2d-arrays-efficiently-and-correctly-in-c-20-32pp)
-- [The Tri-Glyph Protocol: Chim Lac, Kitsune, and Anansi in AI/ML Collapse and Editorial Defense](https://dev.to/narnaiezzsshaa_truong/the-tri-glyph-protocol-chim-lac-kitsune-and-anansi-in-aiml-collapse-and-editorial-defense-2l4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
