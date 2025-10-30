@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Spring AOP: Real-World Use Case and Practical Code Samples](https://dev.to/haraf/mastering-spring-aop-real-world-use-case-and-practical-code-samples-5859)
-- [Jailbreaking iPhones in 2025: What Still Works and What Doesn’t](https://dev.to/numbpill3d/jailbreaking-iphones-in-2025-what-still-works-and-what-doesnt-5e1j)
-- [How I finally passed my AWS Cloud Practitioner Exam 🎉](https://dev.to/nernoel/how-i-finally-passed-my-aws-cloud-practitioner-exam-7cf)
-- [Inside Common Crawl: The Dataset Behind AI Models &lpar;and Its Real World Limits&rpar;](https://dev.to/extractdata/inside-common-crawl-the-dataset-behind-ai-models-and-its-real-world-limits-2eo2)
-- [マルチ投稿ブログを自動化してみた（第3回）— Vercel版に広告導入とAB最適化](https://dev.to/beachone1155/marutitou-gao-buroguwozi-dong-hua-sitemitadi-3hui-vercelban-niguang-gao-dao-ru-toabzui-shi-hua-1500)
+- [Check out the guide on - Mastering the Naïve Bayes Classifier in R: From Concept to Real-World Applications](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-mastering-the-naive-bayes-classifier-in-r-from-concept-to-real-world-579j)
+- [🚀 How I Built My Personal AI-Powered Portfolio – surajrana.dev](https://dev.to/suraj_rana_0d6acb0a1adac3/how-i-built-my-personal-ai-powered-portfolio-surajranadev-1ah5)
+- [🧠 Understanding `!==` and Toggling Logic in React &lpar;Simplified Explanation for Beginners&rpar;](https://dev.to/usama_dev/understanding-and-toggling-logic-in-react-simplified-explanation-for-beginners-4ke1)
+- [AiSensy vs DoubleTick vs Gallabox 2025: API Comparison](https://dev.to/kritika_825638b9731559c1e/aisensy-vs-doubletick-vs-gallabox-2025-api-comparison-1n31)
+- [Vanilla Table Enhancer: Add Search &amp; Sort to HTML Tables](https://dev.to/jqueryscript/vanilla-table-enhancer-add-search-sort-to-html-tables-3f85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
