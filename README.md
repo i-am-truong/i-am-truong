@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Instant4D: 4D Gaussian Splatting in Minutes](https://dev.to/paperium/instant4d-4d-gaussian-splatting-in-minutes-4ep8)
-- [Is This the Final Stage of AI? My Journey Toward Building a Digital Mind](https://dev.to/shravani_86c94d4b283541f3/is-this-the-final-stage-of-ai-my-journey-toward-building-a-digital-mind-5642)
-- [From Search Engines to Generative AI: The Many Crawlers Visiting Your Website](https://dev.to/rijultp/from-search-engines-to-generative-ai-the-many-crawlers-visiting-your-website-h9a)
-- [The CPU Cost of Signing NXDOMAINs](https://dev.to/thevilledev/the-cpu-cost-of-signing-nxdomains-bnm)
-- [🛠️ O que chegou de novo no Visual Studio 2026 Insiders](https://dev.to/daniloopinheiro/o-que-chegou-de-novo-no-visual-studio-2026-insiders-15dp)
+- [Stop using pip install... at least not directly. Secure your Python supply chain with pipq.](https://dev.to/livrasand/stop-using-pip-install-at-least-not-directly-secure-your-python-supply-chain-with-pipq-263p)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-3d4p)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4efe)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1l0h)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4965)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
