@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I tracked 7 daily habits for 3 weeks. The data surprised me.](https://dev.to/alex_chen_3a43ce352a43d3d/i-tracked-7-daily-habits-for-3-weeks-the-data-surprised-me-1nba)
-- [This is a test 😀](https://dev.to/ben/this-is-a-test-4mp)
-- [The Era of CPU, GPU, TPU and LPU](https://dev.to/siddhartha_mani_03/the-era-of-cpu-gpu-tpu-and-lpu-1d4j)
-- [✅ Day 56 of My Data Analytics Journey — Deep Dive into Pandas 🐼✨](https://dev.to/ramyacse/day-56-of-my-data-analytics-journey-deep-dive-into-pandas-51b)
-- [What is JavaScript?](https://dev.to/ashwin_vijay_5dbc6d66ea3c/what-is-javascript-1m21)
+- [Learn forms – selected attribute](https://dev.to/marcelinaredocindo/learn-forms-selected-attribute-56af)
+- [What is scripting language?](https://dev.to/ashwin_vijay_5dbc6d66ea3c/what-is-scripting-language-16fo)
+- [Why is authN and AuthZ still the hardest part of building solo?](https://dev.to/admathur/why-is-authn-and-authz-still-the-hardest-part-of-building-solo-6j2)
+- [How to Deploy Jenkins Pipelines on Amazon EKS](https://dev.to/srinivasamcjf/how-to-deploy-jenkins-pipelines-on-amazon-eks-mhf)
+- [Learn forms – checkbox](https://dev.to/marcelinaredocindo/learn-forms-checkbox-e80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
