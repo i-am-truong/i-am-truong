@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I See When I Watch You Build](https://dev.to/dev-tngsh/what-i-see-when-i-watch-you-build-2j4g)
-- [HappyTravel 🌍 — Helping Tourists Find Their Way Comfortably](https://dev.to/d399def9/happytravel-helping-tourists-find-their-way-comfortably-4kb0)
-- [Merge K Sorted Lists](https://dev.to/we_are_broken_compilers/merge-k-sorted-lists-3ah7)
-- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-45e2)
-- [How Google Mistook My Sui Node for a Bitcoin Farm &lpar;And Banned Me&rpar; &lpar;again&rpar;](https://dev.to/simon_morley/how-google-mistook-my-sui-node-for-a-bitcoin-farm-and-banned-me-again-3883)
+- [[Boost]](https://dev.to/velwyn_sam_bd8c14920e351a/-4b61)
+- [Eppie, a new open-source cross-platform email client, on Snap Store🐧](https://dev.to/eppie/eppie-a-new-open-source-cross-platform-email-client-on-snap-store-43d6)
+- [Surviving pnpm + React Native: How I Finally Stopped Metro from Screaming About `@babel/runtime`](https://dev.to/heyradcode/surviving-pnpm-react-native-how-i-finally-stopped-metro-from-screaming-about-babelruntime-493i)
+- [Supercharge Your React App: Introducing Shadix UI - The Missing Components for Shadcn/UI](https://dev.to/gihanrangana/supercharge-your-react-app-introducing-shadix-ui-the-missing-components-for-shadcnui-2i1j)
+- [Stop Rebasing Everything: Your Git History Isn’t That Special](https://dev.to/dolig/stop-rebasing-everything-your-git-history-isnt-that-special-ln3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
