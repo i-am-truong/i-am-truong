@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.9: New Features and What’s Next](https://dev.to/medha_bhatt_21b7dc4cc53e7/wordpress-69-new-features-and-whats-next-2824)
+- [Why Map Lookups Are Slower Than Object Lookups in JavaScript](https://dev.to/mehedibangladeshi/why-map-lookups-are-slower-than-object-lookups-in-javascript-33g8)
+- [A Modern, Immutable, and Zero-Dependency Library for IP Addresses in JavaScript](https://dev.to/shahrad/a-modern-immutable-and-zero-dependency-library-for-ip-addresses-in-javascript-1g1o)
 - [Revolutionizing Code Completion with AI](https://dev.to/mabualzait/revolutionizing-code-completion-with-ai-1en)
 - [How to integrate AI models into production systems?](https://dev.to/smit_gohel/how-to-integrate-ai-models-into-production-systems-4781)
-- [In 11 Months i Tested this 7 Productivity methods and from Only 1 is Worked](https://dev.to/pratham_naik_project_manager/in-11-months-i-tested-this-7-productivity-methods-and-from-only-1-is-worked-1mb0)
-- [How Quantum Computing Will Redefine Programming](https://dev.to/softwaredeveloper01/how-quantum-computing-will-redefine-programming-2aei)
-- [AI-Powered UI Development in Android Studio Narwhal — My Hands-On with Gemini 2.5](https://dev.to/ganesh_tidake/ai-powered-ui-development-in-android-studio-narwhal-my-hands-on-with-gemini-25-1mg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
