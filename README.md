@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [7. Intermediate CSS](https://dev.to/avery_/7-intermediate-css-5808)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_25c2e834/you-might-not-need-websockets-the-simple-power-of-server-sent-events-4hk6)
-- [The Complete Guide to Handling Filestack Webhooks at Scale](https://dev.to/ideradevtools/the-complete-guide-to-handling-filestack-webhooks-at-scale-178o)
-- [Myth-Tech Master Architecture: Cross-Cultural Mapping of Folktales to AI/ML Systems](https://dev.to/narnaiezzsshaa_truong/myth-tech-master-architecture-cross-cultural-mapping-of-folktales-to-aiml-systems-o20)
-- [Deja de usar pip install... al menos no directamente. Asegura tu cadena de suministro de Python con pipq.](https://dev.to/livrasand/deja-de-usar-pip-install-al-menos-no-directamente-asegura-tu-cadena-de-suministro-de-python-con-4nho)
+- [The Future of Home Automation Just Arrived: 1X Technologies NEO Humanoid Robot](https://dev.to/shiva_shanker_k/the-future-of-home-automation-just-arrived-1x-technologies-neo-humanoid-robot-266k)
+- [Oi :3](https://dev.to/pachicodes/oi-3-4ikf)
+- [Using a WebWorker in the browser to create a plug-in architecture](https://dev.to/tracygjg/using-a-webworker-in-the-browser-to-create-a-plug-in-architecture-2i41)
+- [Codex JS: Where Express gets discipline, and Nest loses its chains.](https://dev.to/c1ancy/codex-js-where-express-gets-discipline-and-nest-loses-its-chains-2dec)
+- [Building Prepzilla: How I Made CEED Exam Practice Free for Everyone &lpar;And What I Learned&rpar;](https://dev.to/randomchikbum/building-prepzilla-how-i-made-ceed-exam-practice-free-for-everyone-and-what-i-learned-4n12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
