@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built InvisiBrain — a free, open-source alternative to Cluely and Parakeet AI](https://dev.to/shubham_shinde_cfee287b31/i-built-invisibrain-a-free-open-source-alternative-to-cluely-and-parakeet-ai-1ogg)
-- [HTTP Request and Response explained](https://dev.to/iarchitsharma/http-request-and-response-explained-46l2)
-- [The Adventures of Blink S4e9: The Gilded Rose: The DevEx Patch](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e9-the-gilded-rose-the-devex-patch-5gpf)
-- [The Witch House - Helloween Theme Landing Page](https://dev.to/asifa_azad_codex/the-witch-house-helloween-theme-landing-page-1a22)
-- [Stop &quot;Window Is Not Defined&quot; in Next.js &lpar;2025&rpar;](https://dev.to/devin-rosario/stop-window-is-not-defined-in-nextjs-2025-394j)
+- [What I See When I Watch You Build](https://dev.to/dev-tngsh/what-i-see-when-i-watch-you-build-2j4g)
+- [HappyTravel 🌍 — Helping Tourists Find Their Way Comfortably](https://dev.to/d399def9/happytravel-helping-tourists-find-their-way-comfortably-4kb0)
+- [Merge K Sorted Lists](https://dev.to/we_are_broken_compilers/merge-k-sorted-lists-3ah7)
+- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-45e2)
+- [How Google Mistook My Sui Node for a Bitcoin Farm &lpar;And Banned Me&rpar; &lpar;again&rpar;](https://dev.to/simon_morley/how-google-mistook-my-sui-node-for-a-bitcoin-farm-and-banned-me-again-3883)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
