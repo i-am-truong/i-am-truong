@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Personas Are the Missing Link in Your Requirements Docs &lpar;and Test Strategy&rpar;](https://dev.to/copyleftdev/personas-are-the-missing-link-in-your-requirements-docs-and-test-strategy-m1g)
+- [Actually Agile: Against Performance Theater in Software Development](https://dev.to/pascal_cescato_692b7a8a20/actually-agile-against-performance-theater-in-software-development-1ohi)
+- [🚀 One-Liner Laravel + Vue.js Setup: Skip the Boilerplate, Start Coding!](https://dev.to/theweelab/one-liner-laravel-vuejs-setup-skip-the-boilerplate-start-coding-938)
 - [Asciidoc over Markdown](https://dev.to/nfrankel/asciidoc-over-markdown-4eam)
 - [MUI Search - Smart, Flexible Search for Modern React Apps](https://dev.to/boilerplate/mui-search-smart-flexible-search-for-modern-react-apps-36ba)
-- [🔥 .𝗡𝗘𝗧 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝘃𝘀 .𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 — 𝗞𝗲𝘆 𝗗𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱](https://dev.to/supraja_tangella_b7f0738e/--461a)
-- [AI Recipe Generator: Turn Food Photos into Instant Recipes with AI 🍳✨](https://dev.to/nithiin7/ai-recipe-generator-turn-food-photos-into-instant-recipes-with-ai-1aib)
-- [Stop Rewriting the Same TypeScript Types](https://dev.to/ptheodosiou/stop-rewriting-the-same-typescript-types-34am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
