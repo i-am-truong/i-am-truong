@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RDS vs DynamoDB: When do I Choose Which?](https://dev.to/tuneshman/rds-vs-dynamodb-when-do-i-choose-which-8cf)
-- [🚗 AutoLog.AI — Smart Vehicle Management with AI, OCR &amp; Automation](https://dev.to/saadbinkhalid/autologai-smart-vehicle-management-with-ai-ocr-automation-471i)
-- [My jdBasic Interpreter Just Got True &quot;Edit and Continue&quot; — In VS Code](https://dev.to/atomijd/my-jdbasic-interpreter-just-got-true-edit-and-continue-in-vs-code-39ec)
-- [🐍 Streamlit for Absolute Beginners: Build Web Apps with Just Python](https://dev.to/codeneuron/streamlit-for-absolute-beginners-build-web-apps-with-just-python-4i93)
-- [My homelab keeps dying :&lpar; should I move to cloud](https://dev.to/mediocredevops/my-homelab-keeps-dying-should-i-move-to-cloud-2njl)
+- [Making React Work on Smart TVs: Behind the Scenes of the Sportworld App](https://dev.to/ivan_kuten/making-react-work-on-smart-tvs-behind-the-scenes-of-the-sportworld-app-2ahi)
+- [Quantum Beetle: Making Marketing Smarter with AI](https://dev.to/prerna_gogoi_68aa23d70588/quantum-beetle-making-marketing-smarter-with-ai-3a44)
+- [Building a Cloud-Native Booking System with GCP OAuth, Calendar &amp; Meet APIs](https://dev.to/blackie360/building-a-cloud-native-booking-system-with-gcp-oauth-calendar-meet-apis-23dp)
+- [Formalizing Style in Personal Narratives](https://dev.to/paperium/formalizing-style-in-personal-narratives-3pk0)
+- [How Quantum Beetle AI Transforms Workflow Automation](https://dev.to/rohit_garg_8d6d89f5acf303/how-quantum-beetle-ai-transforms-workflow-automation-jb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
