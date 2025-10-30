@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making React Work on Smart TVs: Behind the Scenes of the Sportworld App](https://dev.to/ivan_kuten/making-react-work-on-smart-tvs-behind-the-scenes-of-the-sportworld-app-2ahi)
-- [Quantum Beetle: Making Marketing Smarter with AI](https://dev.to/prerna_gogoi_68aa23d70588/quantum-beetle-making-marketing-smarter-with-ai-3a44)
-- [Building a Cloud-Native Booking System with GCP OAuth, Calendar &amp; Meet APIs](https://dev.to/blackie360/building-a-cloud-native-booking-system-with-gcp-oauth-calendar-meet-apis-23dp)
-- [Formalizing Style in Personal Narratives](https://dev.to/paperium/formalizing-style-in-personal-narratives-3pk0)
-- [How Quantum Beetle AI Transforms Workflow Automation](https://dev.to/rohit_garg_8d6d89f5acf303/how-quantum-beetle-ai-transforms-workflow-automation-jb6)
+- [This is a test 😀](https://dev.to/ben/this-is-a-test-4mp)
+- [The Era of CPU, GPU, TPU and LPU](https://dev.to/siddhartha_mani_03/the-era-of-cpu-gpu-tpu-and-lpu-1d4j)
+- [✅ Day 56 of My Data Analytics Journey — Deep Dive into Pandas 🐼✨](https://dev.to/ramyacse/day-56-of-my-data-analytics-journey-deep-dive-into-pandas-51b)
+- [What is JavaScript?](https://dev.to/ashwin_vijay_5dbc6d66ea3c/what-is-javascript-1m21)
+- [From Request to Revenue with the New x402 Protocol](https://dev.to/bengreenberg/from-request-to-revenue-with-the-new-x402-protocol-58lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
