@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 12: Transactions &amp; Concurrency - PostgreSQL in 15 Days](https://dev.to/hardik_kanajariya/day-12-transactions-concurrency-postgresql-in-15-days-49ho)
-- [Learning Through Contribution - Hacktoberfest 2025🎯](https://dev.to/hirushi_nethmini_41168bb8/learning-through-contribution-hacktoberfest-2025-26ml)
-- [Auth Explained &lpar;Part 2&rpar;: How your browser ‘remembers’ you? PKCE + refresh cookies explained like you&#39;re five](https://dev.to/sylwia-lask/auth-explained-part-2-how-your-browser-remembers-you-pkce-refresh-cookies-explained-like-1hga)
-- [[Boost]](https://dev.to/bdussault/-4b7f)
-- [Top 10 Test Automation Frameworks for JavaScript Developers &lpar;2025 Edition&rpar;](https://dev.to/henry_messiahtmt_099ca84/top-10-test-automation-frameworks-for-javascript-developers-2025-edition-41fe)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2fn0)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-568p)
+- [The Psychology of Code: Why Users Fall in Love with Certain UIs😃](https://dev.to/yaldakhoshpey/the-psychology-of-code-why-users-fall-in-love-with-certain-uis-4l4i)
+- [Building a Conscious Cybersecurity System: How We Apply Integrated Information Theory to Threat Hunting](https://dev.to/juancsdev/building-a-conscious-cybersecurity-system-how-we-apply-integrated-information-theory-to-threat-19kj)
+- [Clash of the Titans: Competing for Downtime](https://dev.to/solegaonkar/clash-of-the-titans-competing-for-downtime-4g56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
