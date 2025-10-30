@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Check out the guide on - Mastering the Naïve Bayes Classifier in R: From Concept to Real-World Applications](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-mastering-the-naive-bayes-classifier-in-r-from-concept-to-real-world-579j)
-- [🚀 How I Built My Personal AI-Powered Portfolio – surajrana.dev](https://dev.to/suraj_rana_0d6acb0a1adac3/how-i-built-my-personal-ai-powered-portfolio-surajranadev-1ah5)
-- [🧠 Understanding `!==` and Toggling Logic in React &lpar;Simplified Explanation for Beginners&rpar;](https://dev.to/usama_dev/understanding-and-toggling-logic-in-react-simplified-explanation-for-beginners-4ke1)
-- [AiSensy vs DoubleTick vs Gallabox 2025: API Comparison](https://dev.to/kritika_825638b9731559c1e/aisensy-vs-doubletick-vs-gallabox-2025-api-comparison-1n31)
-- [Vanilla Table Enhancer: Add Search &amp; Sort to HTML Tables](https://dev.to/jqueryscript/vanilla-table-enhancer-add-search-sort-to-html-tables-3f85)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2308)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2k9b)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4he1)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-16pb)
+- [My First Post via the DEV API 🚀](https://dev.to/vishal_singhthapa_353965/my-first-post-via-the-dev-api-2omp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
