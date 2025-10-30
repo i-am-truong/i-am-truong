@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Viral Video Code: How to Automate Your Success with ClipsMate AI](https://dev.to/lester_mbunga_0f0d35d7f5c/the-viral-video-code-how-to-automate-your-success-with-clipsmate-ai-4hm9)
-- [🧠 Day 30 of #30DaysOfSolidity — Build a Simple Token Exchange &lpar;AMM&rpar; Using Foundry](https://dev.to/sauravkumar8178/day-30-of-30daysofsolidity-build-a-simple-token-exchange-amm-using-foundry-41nl)
-- [My Journey as a Judge at CBIT Hacktoberfest 2025 — Lessons from the Other Side of the Table](https://dev.to/servin_osmanov/my-journey-as-a-judge-at-cbit-hacktoberfest-2025-lessons-from-the-other-side-of-the-table-78e)
-- [Claves para entender el mundo de las redes y telecomunicaciones](https://dev.to/cdi_euroamericano_f47712c/claves-para-entender-el-mundo-de-las-redes-y-telecomunicaciones-6f9)
-- [How Does the Integration of AI and Automation Enhance Custom Software Development?](https://dev.to/emma_wags_8dd9b74533690da/how-does-the-integration-of-ai-and-automation-enhance-custom-software-development-4pnm)
+- [Leveling with cluster analysis in Python](https://dev.to/hilton_fernandes_eaac26ab/leveling-with-cluster-analysis-in-python-400p)
+- [I Built my own UI Library on Top of shadcn/ui](https://dev.to/akshaywritescode/i-built-my-own-ui-library-on-top-of-shadcnui-2d05)
+- [The data lakehouse evolution](https://dev.to/apachedoris/the-data-lakehouse-evolution-3a7e)
+- [Built AI Agents That Think Like Geopolitical Masters at FinceptTerminal](https://dev.to/rudra_sheth_aeda76ad708e0/built-ai-agents-that-think-like-geopolitical-masters-at-finceptterminal-2kj5)
+- [ME Network’s Modular Architecture: Building the “LEGO-Style” Composable Innovation in Blockchain](https://dev.to/metaearth/me-networks-modular-architecture-building-the-lego-style-composable-innovation-in-blockchain-5dpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
