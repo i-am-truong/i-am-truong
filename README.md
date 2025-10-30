@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Resource Quota: Ensuring Fair Resource Allocation in Multi-Tenant Clusters](https://dev.to/kapusto/kubernetes-resource-quota-ensuring-fair-resource-allocation-in-multi-tenant-clusters-57ib)
+- [The Context Variable Vault: Thread-Safe State Without Globals](https://dev.to/aaron_rose_0787cc8b4775a0/the-context-variable-vault-thread-safe-state-without-globals-2khk)
+- [Bringing Ideas to Life with 3D Design and Smart Performance Tools](https://dev.to/tool_works_d3c5d34009b4b6/bringing-ideas-to-life-with-3d-design-and-smart-performance-tools-16na)
 - [The Future of Home Automation Just Arrived: 1X Technologies NEO Humanoid Robot](https://dev.to/shiva_shanker_k/the-future-of-home-automation-just-arrived-1x-technologies-neo-humanoid-robot-266k)
 - [Oi :3](https://dev.to/pachicodes/oi-3-4ikf)
-- [Using a WebWorker in the browser to create a plug-in architecture](https://dev.to/tracygjg/using-a-webworker-in-the-browser-to-create-a-plug-in-architecture-2i41)
-- [Codex JS: Where Express gets discipline, and Nest loses its chains.](https://dev.to/c1ancy/codex-js-where-express-gets-discipline-and-nest-loses-its-chains-2dec)
-- [Building Prepzilla: How I Made CEED Exam Practice Free for Everyone &lpar;And What I Learned&rpar;](https://dev.to/randomchikbum/building-prepzilla-how-i-made-ceed-exam-practice-free-for-everyone-and-what-i-learned-4n12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
