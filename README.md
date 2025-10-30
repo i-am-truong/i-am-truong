@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1209)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1132)
-- [Evolution in Form Validators: Goodbye customError, Hello Plain Objects](https://dev.to/damiansiredev/evolution-in-form-validators-goodbye-customerror-hello-plain-objects-4c35)
-- [Hacktoberfest - Recap](https://dev.to/denisc96/hacktoberfest-recap-4p9p)
-- [The Network in QubesOS – Architecture, Routing, and Real-World Tests](https://dev.to/sebos/the-network-in-qubesos-architecture-routing-and-real-world-tests-3kjd)
+- [How to upload in chunks to Google Drive with Google Drive API](https://dev.to/firdausai/how-to-upload-in-chunks-to-google-drive-with-google-drive-api-2o68)
+- [Do IoT ao PoT &lpar;Prompt of Things&rpar;: uma nova infraestrutura semântica](https://dev.to/targanski/do-iot-ao-pot-prompt-of-things-uma-nova-infraestrutura-semantica-3bch)
+- [Day 1261 : Gimme Time](https://dev.to/dwane/day-1261-gimme-time-kfi)
+- [Real-Time Data Streaming Made Simple: Server-Sent Events in Ballerina](https://dev.to/better-boy/real-time-data-streaming-made-simple-server-sent-events-in-ballerina-dd2)
+- [I wanted to have a blog but here I am](https://dev.to/joaomirandaxp/i-wanted-to-have-a-blog-but-here-i-am-477j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
