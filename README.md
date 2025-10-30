@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Video Trimmer Tools for Fast Editing](https://dev.to/gerrit_cole/top-10-video-trimmer-tools-for-fast-editing-3c3)
+- [Master Rust Pattern Matching: Build Safer, More Expressive Code with Advanced Techniques](https://dev.to/aaravjoshi/master-rust-pattern-matching-build-safer-more-expressive-code-with-advanced-techniques-5b02)
+- [Top 10 AI Video Makers from YouTube Links](https://dev.to/gerrit_cole/top-10-ai-video-makers-from-youtube-links-70c)
 - [How AI Turned Me from a Copy-Paste Coder into a Confident Full-Stack Developer](https://dev.to/sufian/how-ai-turned-me-from-a-copy-paste-coder-into-a-confident-full-stack-developer-3l36)
 - [How to upload in chunks to Google Drive with Google Drive API](https://dev.to/firdausai/how-to-upload-in-chunks-to-google-drive-with-google-drive-api-2o68)
-- [Do IoT ao PoT &lpar;Prompt of Things&rpar;: uma nova infraestrutura semântica](https://dev.to/targanski/do-iot-ao-pot-prompt-of-things-uma-nova-infraestrutura-semantica-3bch)
-- [Day 1261 : Gimme Time](https://dev.to/dwane/day-1261-gimme-time-kfi)
-- [Real-Time Data Streaming Made Simple: Server-Sent Events in Ballerina](https://dev.to/better-boy/real-time-data-streaming-made-simple-server-sent-events-in-ballerina-dd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
