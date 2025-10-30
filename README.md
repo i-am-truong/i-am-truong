@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Asciidoc over Markdown](https://dev.to/nfrankel/asciidoc-over-markdown-4eam)
+- [MUI Search - Smart, Flexible Search for Modern React Apps](https://dev.to/boilerplate/mui-search-smart-flexible-search-for-modern-react-apps-36ba)
+- [🔥 .𝗡𝗘𝗧 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝘃𝘀 .𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 — 𝗞𝗲𝘆 𝗗𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱](https://dev.to/supraja_tangella_b7f0738e/--461a)
 - [AI Recipe Generator: Turn Food Photos into Instant Recipes with AI 🍳✨](https://dev.to/nithiin7/ai-recipe-generator-turn-food-photos-into-instant-recipes-with-ai-1aib)
 - [Stop Rewriting the Same TypeScript Types](https://dev.to/ptheodosiou/stop-rewriting-the-same-typescript-types-34am)
-- [Equipment Tracking in Construction: Keeping Every Tool on Site](https://dev.to/jennifer_devsamurai/equipment-tracking-in-construction-keeping-every-tool-on-site-681)
-- [Terraform Meets Ansible: Automating Multi-Environment Infrastructure on AWS](https://dev.to/aws-builders/terraform-meets-ansible-automating-multi-environment-infrastructure-on-aws-55i4)
-- [LeetCode #2. Add Two Numbers](https://dev.to/desiato/leetcode-2-add-two-numbers-54f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
