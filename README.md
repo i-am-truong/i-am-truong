@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Spring AOP: Real-World Use Case and Practical Code Samples](https://dev.to/haraf/mastering-spring-aop-real-world-use-case-and-practical-code-samples-5859)
+- [Jailbreaking iPhones in 2025: What Still Works and What Doesn’t](https://dev.to/numbpill3d/jailbreaking-iphones-in-2025-what-still-works-and-what-doesnt-5e1j)
 - [How I finally passed my AWS Cloud Practitioner Exam 🎉](https://dev.to/nernoel/how-i-finally-passed-my-aws-cloud-practitioner-exam-7cf)
 - [Inside Common Crawl: The Dataset Behind AI Models &lpar;and Its Real World Limits&rpar;](https://dev.to/extractdata/inside-common-crawl-the-dataset-behind-ai-models-and-its-real-world-limits-2eo2)
-- [How to Write Clear and Effective Bug Reports that Everyone Loves](https://dev.to/jignect-technologies/how-to-write-clear-and-effective-bug-reports-that-everyone-loves-4b0m)
-- [Integrating Zomato’s MCP Server into Gemini CLI: AI-Powered Food Ordering in Your Terminal](https://dev.to/aryanirani123/integrating-zomatos-mcp-server-into-gemini-cli-ai-powered-food-ordering-in-your-terminal-6fc)
-- [Check out the guide on - How Superstores, Smart Retail, and Changing Lifestyles Are Redefining Shopping Trends](https://dev.to/thedatageek/check-out-the-guide-on-how-superstores-smart-retail-and-changing-lifestyles-are-redefining-13c2)
+- [マルチ投稿ブログを自動化してみた（第3回）— Vercel版に広告導入とAB最適化](https://dev.to/beachone1155/marutitou-gao-buroguwozi-dong-hua-sitemitadi-3hui-vercelban-niguang-gao-dao-ru-toabzui-shi-hua-1500)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
