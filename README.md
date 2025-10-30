@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ultra-Low-Power ESP32-S3 Event-Triggered Vision AI Camera](https://dev.to/dave_chris_64f62ff08e15fe/ultra-low-power-esp32-s3-event-triggered-vision-ai-camera-18ld)
-- [ERP for Travel Agencies: Automate Bookings &amp; Operations](https://dev.to/sigzentechnologies/erp-for-travel-agencies-automate-bookings-operations-ao8)
-- [JavaFX In Action with Matt Coley, diving into byte code and JARs with Recaf and JavaFX libraries](https://dev.to/fdelporte/matt-coley-diving-into-byte-code-and-jars-with-recaf-and-javafx-libraries-5289)
-- [How to Configure Global Settings for Spring RestClient](https://dev.to/ibrahimgunduz34/how-to-configure-global-settings-for-spring-restclient-5a3n)
-- [Telcos Don’t Just Need 5G — They Need Faster Decision Loops](https://dev.to/abdul_shamim/telcos-dont-just-need-5g-they-need-faster-decision-loops-381h)
+- [Inside the Backend: What Really Powers Modern Applications](https://dev.to/gianfcop98/inside-the-backend-what-really-powers-modern-applications-4hhg)
+- [Reliable AI workflow with GitHub Copilot: complete guide with examples](https://dev.to/petrashka/reliable-ai-workflow-with-github-copilot-complete-guide-with-examples-1bho)
+- [Stop Typing JSON Manually: The VS Code Extension That Makes TypeScript Fast ⚡](https://dev.to/haider_mukhtar/stop-typing-json-manually-the-vs-code-extension-that-makes-typescript-fast-32dc)
+- [How to Build an AI Fitness Video Analysis App in Lovable in 30 minutes](https://dev.to/momen_hq/how-to-build-an-ai-fitness-video-analysis-app-in-lovable-in-30-minutes-5263)
+- [CSS Lists and Tables Styling: Enhancing Readability and Visual Appeal](https://dev.to/sharique_siddiqui_8242dad/css-lists-and-tables-styling-enhancing-readability-and-visual-appeal-3pk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
