@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up GitOps with Flux on a Kubernetes Cluster](https://dev.to/shankar_t/setting-up-gitops-with-flux-on-a-kubernetes-cluster-5d8l)
-- [10 Claude Skills that actually changed how I work &lpar;no fluff&rpar;](https://dev.to/varshith_krishna_f772000d/10-claude-skills-that-actually-changed-how-i-work-no-fluff-3ein)
-- [Diagnosing layer sensitivity during post training quantization](https://dev.to/embedl-hub/diagnosing-layer-sensitivity-during-post-training-quantization-115g)
-- [Η Σημασία του README σε Ένα Πρότζεκτ .NET](https://dev.to/__b63657/e-semasia-tou-readme-se-ena-protzekt-net-10kb)
-- [Final Sprint: Just 1 Day Left!](https://dev.to/havilahacademy/final-sprint-just-1-day-left-36np)
+- [More readable failure messages for RSpec #change](https://dev.to/epigene/more-readable-failure-messages-for-rspec-change-24da)
+- [From Zero to GitOps: Building a k3s Homelab on a Raspberry Pi with Flux &amp; SOPS](https://dev.to/shankar_t/from-zero-to-gitops-building-a-k3s-homelab-on-a-raspberry-pi-with-flux-sops-55b7)
+- [Squared2D Game Engine Update](https://dev.to/heldernogueiradev/squared2d-game-engine-update-2nd8)
+- [AgentKit vs n8n: A Deep Dive into Modern Workflow Automation](https://dev.to/alifar/agentkit-vs-n8n-a-deep-dive-into-modern-workflow-automation-2bbi)
+- [Beyond LZ4 Limits, Logging at high speed with on-the-fly compression](https://dev.to/fsg_swl/beyond-lz4-limits-logging-at-high-speed-with-on-the-fly-compression-p0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
