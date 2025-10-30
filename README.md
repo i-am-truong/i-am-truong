@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your GitHub Profile with OpenReadme: Bento-Style Banners, Live Stats, and Open-Source Community](https://dev.to/ravixalgorithm/supercharge-your-github-profile-with-openreadme-bento-style-banners-live-stats-and-open-source-1ha)
-- [My First Hacktoberfest: Discovering the Heart of Open Source](https://dev.to/stoic-ankush/my-first-hacktoberfest-discovering-the-heart-of-open-source-2357)
-- [Important Spring Boot Annotations: What They Do, Why, and How They Work Behind the Scenes](https://dev.to/jps27cse/important-spring-boot-annotations-what-they-do-why-and-how-they-work-behind-the-scenes-dl8)
-- [🎃 Halloween Party 2025: A Responsive Halloween Landing Page for the Dev.to Frontend Challenge 👻](https://dev.to/hadil/halloween-party-2025-a-responsive-halloween-landing-page-for-the-devto-frontend-challenge-3n0n)
-- [📝 Build a To-Do List App with Flask and Jinja2 — A Beginner’s Guide](https://dev.to/codeneuron/build-a-to-do-list-app-with-flask-and-jinja2-a-beginners-guide-38k1)
+- [Pure CSS Pumpkin Patch - Sanjay Naker](https://dev.to/sanjaynaker/pure-css-pumpkin-patch-sanjay-naker-137o)
+- [The Hardest Bug to Fix Is a Misaligned Mindset](https://dev.to/rohit_gavali_0c2ad84fe4e0/the-hardest-bug-to-fix-is-a-misaligned-mindset-h54)
+- [Conversion Optimization: How to Build a Subscription Page That Actually Converts](https://dev.to/paywallpro/conversion-optimization-how-to-build-a-subscription-page-that-actually-converts-2c6a)
+- [Top Free AI Chatbots You Can Try Today — No Coding Required!](https://dev.to/cyfutureai/top-free-ai-chatbots-you-can-try-today-no-coding-required-3clm)
+- [Linux Text Processing: Master grep, awk, sed &amp; jq for Developers](https://dev.to/tiger_smith_9f421b9131db5/linux-text-processing-master-grep-awk-sed-jq-for-developers-3og7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
