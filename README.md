@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to Handling Filestack Webhooks at Scale](https://dev.to/ideradevtools/the-complete-guide-to-handling-filestack-webhooks-at-scale-178o)
+- [Myth-Tech Master Architecture: Cross-Cultural Mapping of Folktales to AI/ML Systems](https://dev.to/narnaiezzsshaa_truong/myth-tech-master-architecture-cross-cultural-mapping-of-folktales-to-aiml-systems-o20)
+- [Deja de usar pip install... al menos no directamente. Asegura tu cadena de suministro de Python con pipq.](https://dev.to/livrasand/deja-de-usar-pip-install-al-menos-no-directamente-asegura-tu-cadena-de-suministro-de-python-con-4nho)
 - [Stop using pip install... at least not directly. Secure your Python supply chain with pipq.](https://dev.to/livrasand/stop-using-pip-install-at-least-not-directly-secure-your-python-supply-chain-with-pipq-263p)
 - [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-3d4p)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4efe)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1l0h)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4965)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
