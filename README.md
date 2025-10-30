@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7. Intermediate CSS](https://dev.to/avery_/7-intermediate-css-5808)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_25c2e834/you-might-not-need-websockets-the-simple-power-of-server-sent-events-4hk6)
 - [The Complete Guide to Handling Filestack Webhooks at Scale](https://dev.to/ideradevtools/the-complete-guide-to-handling-filestack-webhooks-at-scale-178o)
 - [Myth-Tech Master Architecture: Cross-Cultural Mapping of Folktales to AI/ML Systems](https://dev.to/narnaiezzsshaa_truong/myth-tech-master-architecture-cross-cultural-mapping-of-folktales-to-aiml-systems-o20)
 - [Deja de usar pip install... al menos no directamente. Asegura tu cadena de suministro de Python con pipq.](https://dev.to/livrasand/deja-de-usar-pip-install-al-menos-no-directamente-asegura-tu-cadena-de-suministro-de-python-con-4nho)
-- [Stop using pip install... at least not directly. Secure your Python supply chain with pipq.](https://dev.to/livrasand/stop-using-pip-install-at-least-not-directly-secure-your-python-supply-chain-with-pipq-263p)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-3d4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
