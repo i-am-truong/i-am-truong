@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Personas Are the Missing Link in Your Requirements Docs &lpar;and Test Strategy&rpar;](https://dev.to/copyleftdev/personas-are-the-missing-link-in-your-requirements-docs-and-test-strategy-m1g)
-- [Actually Agile: Against Performance Theater in Software Development](https://dev.to/pascal_cescato_692b7a8a20/actually-agile-against-performance-theater-in-software-development-1ohi)
-- [🚀 One-Liner Laravel + Vue.js Setup: Skip the Boilerplate, Start Coding!](https://dev.to/theweelab/one-liner-laravel-vuejs-setup-skip-the-boilerplate-start-coding-938)
-- [Asciidoc over Markdown](https://dev.to/nfrankel/asciidoc-over-markdown-4eam)
-- [MUI Search - Smart, Flexible Search for Modern React Apps](https://dev.to/boilerplate/mui-search-smart-flexible-search-for-modern-react-apps-36ba)
+- [The Power of AI Automation: How Smart Systems Are Transforming Modern Businesses](https://dev.to/ryan-mathews/the-power-of-ai-automation-how-smart-systems-are-transforming-modern-businesses-433m)
+- [How AI Coding Assistants Are Revolutionizing Software Development in 2025](https://dev.to/ryan-mathews/how-ai-coding-assistants-are-revolutionizing-software-development-in-2025-15pc)
+- [What is a Healthcheck and why is it so important in production?](https://dev.to/thetechpreneur/what-is-a-healthcheck-and-why-is-it-so-important-in-production-h3o)
+- [AI in DevOps: How Intelligent Automation Is Redefining Software Delivery](https://dev.to/ryan-mathews/ai-in-devops-how-intelligent-automation-is-redefining-software-delivery-1odj)
+- [How Prompt Engineering Improves Your AI Model&#39;s Performance](https://dev.to/hitechdigital/how-prompt-engineering-improves-your-ai-models-performance-2nam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
