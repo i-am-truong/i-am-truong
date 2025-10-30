@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I tracked 7 daily habits for 3 weeks. The data surprised me.](https://dev.to/alex_chen_3a43ce352a43d3d/i-tracked-7-daily-habits-for-3-weeks-the-data-surprised-me-1nba)
 - [This is a test 😀](https://dev.to/ben/this-is-a-test-4mp)
 - [The Era of CPU, GPU, TPU and LPU](https://dev.to/siddhartha_mani_03/the-era-of-cpu-gpu-tpu-and-lpu-1d4j)
 - [✅ Day 56 of My Data Analytics Journey — Deep Dive into Pandas 🐼✨](https://dev.to/ramyacse/day-56-of-my-data-analytics-journey-deep-dive-into-pandas-51b)
 - [What is JavaScript?](https://dev.to/ashwin_vijay_5dbc6d66ea3c/what-is-javascript-1m21)
-- [From Request to Revenue with the New x402 Protocol](https://dev.to/bengreenberg/from-request-to-revenue-with-the-new-x402-protocol-58lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
