@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1209)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1132)
 - [Evolution in Form Validators: Goodbye customError, Hello Plain Objects](https://dev.to/damiansiredev/evolution-in-form-validators-goodbye-customerror-hello-plain-objects-4c35)
 - [Hacktoberfest - Recap](https://dev.to/denisc96/hacktoberfest-recap-4p9p)
 - [The Network in QubesOS – Architecture, Routing, and Real-World Tests](https://dev.to/sebos/the-network-in-qubesos-architecture-routing-and-real-world-tests-3kjd)
-- [Hacktoberfest Last Pull Request - Writing Test](https://dev.to/denisc96/hacktoberfest-last-pull-request-writing-test-3ljj)
-- [👩‍💻 My Journey into Web Development: From First Lines of Code to Real Projects](https://dev.to/natashaasnani/my-journey-into-web-development-from-first-lines-of-code-to-real-projects-10g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
