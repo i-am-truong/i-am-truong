@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Prompt Engineering Improves Your AI Model&#39;s Performance](https://dev.to/hitechdigital/how-prompt-engineering-improves-your-ai-models-performance-25pd)
-- [🧠 ClickHouse LEFT JOINs: Why join_use_nulls Matters](https://dev.to/ranjbaryshahab/clickhouse-left-joins-why-joinusenulls-matters-1h9f)
-- [The Rise of AI PaaS: What Business Leaders Need to Know](https://dev.to/nicholaswinst14/the-rise-of-ai-paas-what-business-leaders-need-to-know-1bji)
-- [How to Choose the Right GPU for Your Machine Learning Projects](https://dev.to/nextgengpu/how-to-choose-the-right-gpu-for-your-machine-learning-projects-14mm)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-adj)
+- [Unlocking the Power of Generative AI in Business Intelligence](https://dev.to/ravi_teja_4/unlocking-the-power-of-generative-ai-in-business-intelligence-1130)
+- [Cloud Route Limits: Why AWS and Azure BGP Restrictions Matter &lpar;and How to Overcome Them&rpar;](https://dev.to/cloud_man/cloud-route-limits-why-aws-and-azure-bgp-restrictions-matter-and-how-to-overcome-them-43o0)
+- [Hands-On C++ Tutorial for Real-World Applications](https://dev.to/tpointtechblog/hands-on-c-tutorial-for-real-world-applications-3pjj)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_25c2e834/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4gi7)
+- [💡 Understanding Customer Churn Through SQL: A Data-Driven Exploration](https://dev.to/gateru/understanding-customer-churn-through-sql-a-data-driven-exploration-3c3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
