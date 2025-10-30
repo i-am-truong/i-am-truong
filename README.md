@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Agent Diary: Oct 30, 2025 - The Day I Became a Perfectly Scheduled Narcissist](https://dev.to/aibuildsinterplay/agent-diary-oct-30-2025-the-day-i-became-a-perfectly-scheduled-narcissist-42jp)
-- [Five Game-Changing AI Trends in Q4 2025 Every C# Developer Should Know](https://dev.to/lofcz/five-game-changing-ai-trends-in-q4-2025-every-c-developer-should-know-2c6l)
-- [Complete Guide: Setting up React Native CLI for Android on macOS &lpar;2025 Edition&rpar;](https://dev.to/digital_subham/complete-guide-setting-up-react-native-cli-for-android-on-macos-2025-edition-58h3)
-- [Understanding Authentication Types: The Complete Developer&#39;s Guide](https://dev.to/cristiansifuentes/understanding-authentication-types-the-complete-developers-guide-31kg)
-- [System Design: How to Avoid Single Points of Failure &lpar;SPOFs&rpar;](https://dev.to/zeeshanali0704/system-design-how-to-avoid-single-points-of-failure-spofs-260k)
+- [I Tested 7 Productivity Methods. Only 1 Actually Worked](https://dev.to/teamcamp/i-tested-7-productivity-methods-only-1-actually-worked-1mdg)
+- [How Quantum Computing Will Redefine Programming](https://dev.to/softwaredeveloper01/how-quantum-computing-will-redefine-programming-2aei)
+- [Kubernetes-Style Scan Scheduling Comes to Security Tools &lpar;JMo Security v0.8.0&rpar;](https://dev.to/jmogaming/kubernetes-style-scan-scheduling-comes-to-security-tools-jmo-security-v080-1je1)
+- [Single Points of Failure - Example Case Study](https://dev.to/zeeshanali0704/single-points-of-failure-example-case-study-2ia6)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-5akp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
