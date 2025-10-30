@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding Security Headers on Cloudflare](https://dev.to/madsstoumann/adding-security-headers-on-cloudflare-2dag)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-10ni)
 - [Inside the Backend: What Really Powers Modern Applications](https://dev.to/gianfcop98/inside-the-backend-what-really-powers-modern-applications-4hhg)
 - [Reliable AI workflow with GitHub Copilot: complete guide with examples](https://dev.to/petrashka/reliable-ai-workflow-with-github-copilot-complete-guide-with-examples-1bho)
 - [Unleashing the Power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity as well as Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-as-well-4gpf)
-- [Stop Typing JSON Manually: The VS Code Extension That Makes TypeScript Fast ⚡](https://dev.to/haider_mukhtar/stop-typing-json-manually-the-vs-code-extension-that-makes-typescript-fast-32dc)
-- [🎨 HTML `&lt;canvas&gt;` — The Dynamic Drawing Board of the Web](https://dev.to/vishwark/html-the-dynamic-drawing-board-of-the-web-1ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
