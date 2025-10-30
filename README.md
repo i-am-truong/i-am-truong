@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_25c2e834/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-1c9p)
-- [A Small Trick for Smarter, More Reliable Inputs in React](https://dev.to/minoosh/a-small-trick-for-smarter-more-reliable-inputs-in-react-1pbp)
-- [Wuzen Android RAT 2025: The Mobile Spyware Going Viral on Telegram](https://dev.to/ree_aan_e04cb84ff94582e74/wuzen-android-rat-2025-the-mobile-spyware-going-viral-on-telegram-4blb)
-- [From Local Chaos to Container Harmony: Dockerizing a Render Engine for AI Animations](https://dev.to/nandan9/from-local-chaos-to-container-harmony-dockerizing-a-render-engine-for-ai-animations-3e7n)
-- [Neovim Treesitter highlighting with sql generic types &lpar;Typescript&rpar;](https://dev.to/rieljdev/neovim-treesitter-highlighting-with-sql-generic-types-typescript-4lh1)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-25l6)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-31la)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2c0h)
+- [我的第一篇 API 发布文章](https://dev.to/zaki_zaki_6190b1c9c92c066/wo-de-di-pian-api-fa-bu-wen-zhang-9i5)
+- [How to Convert PPT&lpar;X&rpar; to PNG Using Python](https://dev.to/jelizaveta/how-to-convert-pptx-to-png-using-python-fah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
