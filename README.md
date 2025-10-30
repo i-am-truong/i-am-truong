@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best &quot;Get Started&quot; button I&#39;ve ever seen](https://dev.to/mileswk/the-best-get-started-button-ive-ever-seen-16nd)
+- [How to Integrate Shopify with Wix for Your Online Store](https://dev.to/api_troll/how-to-integrate-shopify-with-wix-for-your-online-store-ope)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_25c2e834/that-real-time-headache-its-not-the-websockets-its-your-framework-2fn2)
+- [Extending the Kanban board &lpar;using Rails and Hotwire&rpar;](https://dev.to/railsdesigner/extending-the-kanban-board-using-rails-and-hotwire-5dkn)
 - [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-31ab)
-- [Entra ID: The Beating Heart of Azure](https://dev.to/cristiansifuentes/entra-id-the-beating-heart-of-azure-5eh9)
-- [Securing and Authenticating MCP Connections: A Developer&#39;s Guide &lpar;That Won&#39;t Put You to Sleep&rpar;](https://dev.to/manonaga2188/securing-and-authenticating-mcp-connections-a-developers-guide-that-wont-put-you-to-sleep-p3d)
-- [Carrera de Desarrollo de Software: lo que debes saber antes de elegir](https://dev.to/el_prepreuniversitario_1/carrera-de-desarrollo-de-software-lo-que-debes-saber-antes-de-elegir-1f8m)
-- [My Hacktoberfest Journey: From &quot;Maybe Later&quot; to &quot;Merge Successful!&quot;](https://dev.to/sheefa_nigarsyed_61642e7/my-hacktoberfest-journey-from-maybe-later-to-merge-successful-40hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
