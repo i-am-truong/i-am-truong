@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Overwhelmed to Empowered: My Hacktoberfest 2025 Journey](https://dev.to/codejourney/from-overwhelmed-to-empowered-my-hacktoberfest-2025-journey-f94)
-- [Are Local Virginia Transporters More Reliable Than National Carriers for NJ Delivery?](https://dev.to/autostartransportexpress/are-local-virginia-transporters-more-reliable-than-national-carriers-for-nj-delivery-32g8)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2md4)
-- [Protect Your Software IP with Smart, Automated Licensing Solutions](https://dev.to/soraco_technologies_85385/protect-your-software-ip-with-smart-automated-licensing-solutions-3nfb)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3eap)
+- [The Viral Video Code: How to Automate Your Success with ClipsMate AI](https://dev.to/lester_mbunga_0f0d35d7f5c/the-viral-video-code-how-to-automate-your-success-with-clipsmate-ai-4hm9)
+- [🧠 Day 30 of #30DaysOfSolidity — Build a Simple Token Exchange &lpar;AMM&rpar; Using Foundry](https://dev.to/sauravkumar8178/day-30-of-30daysofsolidity-build-a-simple-token-exchange-amm-using-foundry-41nl)
+- [My Journey as a Judge at CBIT Hacktoberfest 2025 — Lessons from the Other Side of the Table](https://dev.to/servin_osmanov/my-journey-as-a-judge-at-cbit-hacktoberfest-2025-lessons-from-the-other-side-of-the-table-78e)
+- [Claves para entender el mundo de las redes y telecomunicaciones](https://dev.to/cdi_euroamericano_f47712c/claves-para-entender-el-mundo-de-las-redes-y-telecomunicaciones-6f9)
+- [How Does the Integration of AI and Automation Enhance Custom Software Development?](https://dev.to/emma_wags_8dd9b74533690da/how-does-the-integration-of-ai-and-automation-enhance-custom-software-development-4pnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
