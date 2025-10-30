@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect with the HubSpot API](https://dev.to/apideck/how-to-connect-with-the-hubspot-api-8hk)
-- [How to deploy PocketBase on AWS with Docker](https://dev.to/fabienmartin/how-to-deploy-pocketbase-on-aws-with-docker-1o6g)
-- [HTML Selects Are Actually Styleable Now](https://dev.to/salehmubashar/html-selects-are-actually-styleable-now-49bn)
-- [Exploring the new SurrealDB integration with Agno](https://dev.to/surrealdb/exploring-the-new-surrealdb-integration-with-agno-2pid)
-- [From Scholarship to Cloud: My System Design Journey](https://dev.to/supriyathearchitect/from-scholarship-to-cloud-my-system-design-journey-1bel)
+- [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-31ab)
+- [Entra ID: The Beating Heart of Azure](https://dev.to/cristiansifuentes/entra-id-the-beating-heart-of-azure-5eh9)
+- [Securing and Authenticating MCP Connections: A Developer&#39;s Guide &lpar;That Won&#39;t Put You to Sleep&rpar;](https://dev.to/manonaga2188/securing-and-authenticating-mcp-connections-a-developers-guide-that-wont-put-you-to-sleep-p3d)
+- [Carrera de Desarrollo de Software: lo que debes saber antes de elegir](https://dev.to/el_prepreuniversitario_1/carrera-de-desarrollo-de-software-lo-que-debes-saber-antes-de-elegir-1f8m)
+- [My Hacktoberfest Journey: From &quot;Maybe Later&quot; to &quot;Merge Successful!&quot;](https://dev.to/sheefa_nigarsyed_61642e7/my-hacktoberfest-journey-from-maybe-later-to-merge-successful-40hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
