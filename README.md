@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn forms – selected attribute](https://dev.to/marcelinaredocindo/learn-forms-selected-attribute-56af)
-- [What is scripting language?](https://dev.to/ashwin_vijay_5dbc6d66ea3c/what-is-scripting-language-16fo)
-- [Why is authN and AuthZ still the hardest part of building solo?](https://dev.to/admathur/why-is-authn-and-authz-still-the-hardest-part-of-building-solo-6j2)
-- [How to Deploy Jenkins Pipelines on Amazon EKS](https://dev.to/srinivasamcjf/how-to-deploy-jenkins-pipelines-on-amazon-eks-mhf)
-- [Learn forms – checkbox](https://dev.to/marcelinaredocindo/learn-forms-checkbox-e80)
+- [There is no one-size-fits-all solution to API testing tools](https://dev.to/tomjohnson3/there-is-no-one-size-fits-all-solution-to-api-testing-tools-3238)
+- [**Measuring AI-driven Ad Success: Unlocking the Power of Inc](https://dev.to/drcarlosruizviquez/measuring-ai-driven-ad-success-unlocking-the-power-of-inc-3e6o)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-19h8)
+- [Artificial intelligence &lpar;AI&rpar; is revolutionizing the field of](https://dev.to/drcarlosruizviquez/artificial-intelligence-ai-is-revolutionizing-the-field-of-38m1)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3aap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
