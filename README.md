@@ -119,11 +119,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anybody watching the Internet Invitational?](https://dev.to/ben/anybody-watching-the-internet-invitational-aok)
 - [🚀 Build Custom AI Agents with Qodo Command](https://dev.to/dev_kiran/build-custom-ai-agents-with-qodo-command-2j6d)
+- [Renewable Energy Tech: The Innovation Driving a Greener World](https://dev.to/rapidcellphone/renewable-energy-tech-the-innovation-driving-a-greener-world-2a1e)
+- [New blogpost about layer wise PSNR: 
+https://dev.to/embedl-hub/diagnosing-layer-sensitivity-during-post-training-quantization-115g](https://dev.to/elina_norling_embedl/new-blogpost-about-layer-wise-psnr-3mco)
 - [Thoughts? For me it&#39;s a bit busy.](https://dev.to/ben/thoughts-for-me-its-a-bit-busy-21m9)
-- [The Best &quot;Get Started&quot; button I&#39;ve ever seen](https://dev.to/mileswk/the-best-get-started-button-ive-ever-seen-16nd)
-- [How to Integrate Shopify with Wix for Your Online Store](https://dev.to/api_troll/how-to-integrate-shopify-with-wix-for-your-online-store-ope)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_25c2e834/that-real-time-headache-its-not-the-websockets-its-your-framework-2fn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
