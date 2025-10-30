@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#7 Learning Python Functions](https://dev.to/koichi_yoshikawa_dbd33319/7-learning-python-functions-1oei)
-- [5,000+ Stars on GitHub: Our Journey Building Droidun in Public](https://dev.to/priya_negi_9ffd29931ea408/5000-stars-on-github-our-journey-building-droidun-in-public-2j8o)
-- [Why human design still matters in a world obsessed with code.](https://dev.to/luisyanguas/why-human-design-still-matters-in-a-world-obsessed-with-code-19k0)
-- [Hosting a Minecraft Server on Cloudflare Containers](https://dev.to/suminda/hosting-a-minecraft-server-on-cloudflare-containers-1cob)
-- [Understanding JavaScript Closures](https://dev.to/giftintech/understanding-javascript-closures-50ji)
+- [RDS vs DynamoDB: When do I Choose Which?](https://dev.to/tuneshman/rds-vs-dynamodb-when-do-i-choose-which-8cf)
+- [🚗 AutoLog.AI — Smart Vehicle Management with AI, OCR &amp; Automation](https://dev.to/saadbinkhalid/autologai-smart-vehicle-management-with-ai-ocr-automation-471i)
+- [My jdBasic Interpreter Just Got True &quot;Edit and Continue&quot; — In VS Code](https://dev.to/atomijd/my-jdbasic-interpreter-just-got-true-edit-and-continue-in-vs-code-39ec)
+- [🐍 Streamlit for Absolute Beginners: Build Web Apps with Just Python](https://dev.to/codeneuron/streamlit-for-absolute-beginners-build-web-apps-with-just-python-4i93)
+- [My homelab keeps dying :&lpar; should I move to cloud](https://dev.to/mediocredevops/my-homelab-keeps-dying-should-i-move-to-cloud-2njl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
