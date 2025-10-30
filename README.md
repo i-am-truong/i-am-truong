@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI-programming sunk cost fallacy loop, and how to break it.](https://dev.to/samuelfaure/the-ai-programming-sunk-cost-fallacy-loop-and-how-to-break-it-13d6)
-- [11 Best Figma AI Plugins to Try in 2025](https://dev.to/brijesh_dobariya/11-best-figma-ai-plugins-to-try-in-2025-3gek)
-- [Latest AWS Updates in October 2025: Innovations, Outage, and AI Advancements](https://dev.to/cloud_man/latest-aws-updates-in-october-2025-innovations-outage-and-ai-advancements-1k7k)
-- [Streamlining Design Workflows with AI-Powered Batch Background Removal Tools](https://dev.to/arzoo/streamlining-design-workflows-with-ai-powered-batch-background-removal-tools-277c)
-- [Hands-On: Adaptive Forms with Conditional Rendering in React](https://dev.to/pixel_mosaic/hands-on-adaptive-forms-with-conditional-rendering-in-react-ip2)
+- [I built InvisiBrain — a free, open-source alternative to Cluely and Parakeet AI](https://dev.to/shubham_shinde_cfee287b31/i-built-invisibrain-a-free-open-source-alternative-to-cluely-and-parakeet-ai-1ogg)
+- [HTTP Request and Response explained](https://dev.to/iarchitsharma/http-request-and-response-explained-46l2)
+- [The Adventures of Blink S4e9: The Gilded Rose: The DevEx Patch](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e9-the-gilded-rose-the-devex-patch-5gpf)
+- [The Witch House - Helloween Theme Landing Page](https://dev.to/asifa_azad_codex/the-witch-house-helloween-theme-landing-page-1a22)
+- [Stop &quot;Window Is Not Defined&quot; in Next.js &lpar;2025&rpar;](https://dev.to/devin-rosario/stop-window-is-not-defined-in-nextjs-2025-394j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
