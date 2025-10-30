@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2fn0)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-568p)
-- [The Psychology of Code: Why Users Fall in Love with Certain UIs😃](https://dev.to/yaldakhoshpey/the-psychology-of-code-why-users-fall-in-love-with-certain-uis-4l4i)
-- [Building a Conscious Cybersecurity System: How We Apply Integrated Information Theory to Threat Hunting](https://dev.to/juancsdev/building-a-conscious-cybersecurity-system-how-we-apply-integrated-information-theory-to-threat-19kj)
-- [Clash of the Titans: Competing for Downtime](https://dev.to/solegaonkar/clash-of-the-titans-competing-for-downtime-4g56)
+- [#7 Learning Python Functions](https://dev.to/koichi_yoshikawa_dbd33319/7-learning-python-functions-1oei)
+- [5,000+ Stars on GitHub: Our Journey Building Droidun in Public](https://dev.to/priya_negi_9ffd29931ea408/5000-stars-on-github-our-journey-building-droidun-in-public-2j8o)
+- [Why human design still matters in a world obsessed with code.](https://dev.to/luisyanguas/why-human-design-still-matters-in-a-world-obsessed-with-code-19k0)
+- [Hosting a Minecraft Server on Cloudflare Containers](https://dev.to/suminda/hosting-a-minecraft-server-on-cloudflare-containers-1cob)
+- [Understanding JavaScript Closures](https://dev.to/giftintech/understanding-javascript-closures-50ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
