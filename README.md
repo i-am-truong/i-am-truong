@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Recipe Generator: Turn Food Photos into Instant Recipes with AI 🍳✨](https://dev.to/nithiin7/ai-recipe-generator-turn-food-photos-into-instant-recipes-with-ai-1aib)
+- [Stop Rewriting the Same TypeScript Types](https://dev.to/ptheodosiou/stop-rewriting-the-same-typescript-types-34am)
+- [Equipment Tracking in Construction: Keeping Every Tool on Site](https://dev.to/jennifer_devsamurai/equipment-tracking-in-construction-keeping-every-tool-on-site-681)
 - [Terraform Meets Ansible: Automating Multi-Environment Infrastructure on AWS](https://dev.to/aws-builders/terraform-meets-ansible-automating-multi-environment-infrastructure-on-aws-55i4)
 - [LeetCode #2. Add Two Numbers](https://dev.to/desiato/leetcode-2-add-two-numbers-54f8)
-- [Discovering JavaScript&#39;s Hidden Secrets: Understanding String Matching Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-string-matching-algorithms-3d6e)
-- [Discovering JavaScript&#39;s Hidden Secrets: Understanding Numerical Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-numerical-algorithms-40a9)
-- [Advanced Prompt Engineering for goose: A Comprehensive Guide](https://dev.to/better-boy/advanced-prompt-engineering-for-goose-a-comprehensive-guide-3j6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
