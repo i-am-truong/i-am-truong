@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2308)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2k9b)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4he1)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-16pb)
-- [My First Post via the DEV API 🚀](https://dev.to/vishal_singhthapa_353965/my-first-post-via-the-dev-api-2omp)
+- [Supercharge Your GitHub Profile with OpenReadme: Bento-Style Banners, Live Stats, and Open-Source Community](https://dev.to/ravixalgorithm/supercharge-your-github-profile-with-openreadme-bento-style-banners-live-stats-and-open-source-1ha)
+- [My First Hacktoberfest: Discovering the Heart of Open Source](https://dev.to/stoic-ankush/my-first-hacktoberfest-discovering-the-heart-of-open-source-2357)
+- [Important Spring Boot Annotations: What They Do, Why, and How They Work Behind the Scenes](https://dev.to/jps27cse/important-spring-boot-annotations-what-they-do-why-and-how-they-work-behind-the-scenes-dl8)
+- [🎃 Halloween Party 2025: A Responsive Halloween Landing Page for the Dev.to Frontend Challenge 👻](https://dev.to/hadil/halloween-party-2025-a-responsive-halloween-landing-page-for-the-devto-frontend-challenge-3n0n)
+- [📝 Build a To-Do List App with Flask and Jinja2 — A Beginner’s Guide](https://dev.to/codeneuron/build-a-to-do-list-app-with-flask-and-jinja2-a-beginners-guide-38k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
