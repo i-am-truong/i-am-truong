@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Leveling with cluster analysis in Python](https://dev.to/hilton_fernandes_eaac26ab/leveling-with-cluster-analysis-in-python-400p)
-- [I Built my own UI Library on Top of shadcn/ui](https://dev.to/akshaywritescode/i-built-my-own-ui-library-on-top-of-shadcnui-2d05)
-- [The data lakehouse evolution](https://dev.to/apachedoris/the-data-lakehouse-evolution-3a7e)
-- [Built AI Agents That Think Like Geopolitical Masters at FinceptTerminal](https://dev.to/rudra_sheth_aeda76ad708e0/built-ai-agents-that-think-like-geopolitical-masters-at-finceptterminal-2kj5)
-- [ME Network’s Modular Architecture: Building the “LEGO-Style” Composable Innovation in Blockchain](https://dev.to/metaearth/me-networks-modular-architecture-building-the-lego-style-composable-innovation-in-blockchain-5dpb)
+- [The CPU Cost of Signing NXDOMAINs](https://dev.to/thevilledev/the-cpu-cost-of-signing-nxdomains-bnm)
+- [🛠️ O que chegou de novo no Visual Studio 2026 Insiders](https://dev.to/daniloopinheiro/o-que-chegou-de-novo-no-visual-studio-2026-insiders-15dp)
+- [I Thought Becoming a Front-End Developer Was My Dream — Until I Realized I No Longer Enjoyed Coding](https://dev.to/mrezanahi_f133292cb4695d/i-thought-becoming-a-front-end-developer-was-my-dream-until-i-realized-i-no-longer-enjoyed-coding-54al)
+- [CVE-2025-24893: XWiki Platform Eval Injection Vulnerability](https://dev.to/freedom-coder/cve-2025-24893-xwiki-platform-eval-injection-vulnerability-4kd8)
+- [Αρχιτεκτονική Ανάλυση του MySchool System: Από Μονολιθική Προσέγγιση σε Microservices](https://dev.to/__b63657/arkhitektonike-analuse-tou-myschool-system-apo-monolithike-proseggise-se-microservices-33cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
