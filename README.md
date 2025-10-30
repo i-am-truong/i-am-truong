@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Risks of &quot;Secure by Default&quot;: Why Security Contexts in Kubernetes Matter](https://dev.to/anderson_leite/the-hidden-risks-of-secure-by-default-why-security-contexts-in-kubernetes-matter-5429)
-- [Data type in Java](https://dev.to/selvakumar_r_4bac08f5eaa6/data-type-in-java-41d2)
-- [Building Passkey Authentication in SwiftUI: Part 2](https://dev.to/arshtechpro/building-passkey-authentication-in-swiftui-part-2-5a42)
-- [The Cost of Re-Renders: How to Make React Apps Actually Reactive](https://dev.to/maurya-sachin/the-cost-of-re-renders-how-to-make-react-apps-actually-reactive-3mc6)
-- [Kentia Plant: 7 Calm and Elegant Secrets](https://dev.to/easyplantguide/kentia-plant-7-calm-and-elegant-secrets-257m)
+- [How Prompt Engineering Improves Your AI Model&#39;s Performance](https://dev.to/hitechdigital/how-prompt-engineering-improves-your-ai-models-performance-25pd)
+- [🧠 ClickHouse LEFT JOINs: Why join_use_nulls Matters](https://dev.to/ranjbaryshahab/clickhouse-left-joins-why-joinusenulls-matters-1h9f)
+- [The Rise of AI PaaS: What Business Leaders Need to Know](https://dev.to/nicholaswinst14/the-rise-of-ai-paas-what-business-leaders-need-to-know-1bji)
+- [How to Choose the Right GPU for Your Machine Learning Projects](https://dev.to/nextgengpu/how-to-choose-the-right-gpu-for-your-machine-learning-projects-14mm)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-adj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
