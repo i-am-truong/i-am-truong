@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Power of AI Automation: How Smart Systems Are Transforming Modern Businesses](https://dev.to/ryan-mathews/the-power-of-ai-automation-how-smart-systems-are-transforming-modern-businesses-433m)
-- [How AI Coding Assistants Are Revolutionizing Software Development in 2025](https://dev.to/ryan-mathews/how-ai-coding-assistants-are-revolutionizing-software-development-in-2025-15pc)
-- [What is a Healthcheck and why is it so important in production?](https://dev.to/thetechpreneur/what-is-a-healthcheck-and-why-is-it-so-important-in-production-h3o)
-- [AI in DevOps: How Intelligent Automation Is Redefining Software Delivery](https://dev.to/ryan-mathews/ai-in-devops-how-intelligent-automation-is-redefining-software-delivery-1odj)
-- [How Prompt Engineering Improves Your AI Model&#39;s Performance](https://dev.to/hitechdigital/how-prompt-engineering-improves-your-ai-models-performance-2nam)
+- [The Hidden Risks of &quot;Secure by Default&quot;: Why Security Contexts in Kubernetes Matter](https://dev.to/anderson_leite/the-hidden-risks-of-secure-by-default-why-security-contexts-in-kubernetes-matter-5429)
+- [Data type in Java](https://dev.to/selvakumar_r_4bac08f5eaa6/data-type-in-java-41d2)
+- [Building Passkey Authentication in SwiftUI: Part 2](https://dev.to/arshtechpro/building-passkey-authentication-in-swiftui-part-2-5a42)
+- [The Cost of Re-Renders: How to Make React Apps Actually Reactive](https://dev.to/maurya-sachin/the-cost-of-re-renders-how-to-make-react-apps-actually-reactive-3mc6)
+- [Kentia Plant: 7 Calm and Elegant Secrets](https://dev.to/easyplantguide/kentia-plant-7-calm-and-elegant-secrets-257m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
