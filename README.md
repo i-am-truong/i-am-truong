@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WordPress 6.9: New Features and What’s Next](https://dev.to/medha_bhatt_21b7dc4cc53e7/wordpress-69-new-features-and-whats-next-2824)
-- [Why Map Lookups Are Slower Than Object Lookups in JavaScript](https://dev.to/mehedibangladeshi/why-map-lookups-are-slower-than-object-lookups-in-javascript-33g8)
-- [A Modern, Immutable, and Zero-Dependency Library for IP Addresses in JavaScript](https://dev.to/shahrad/a-modern-immutable-and-zero-dependency-library-for-ip-addresses-in-javascript-1g1o)
-- [Revolutionizing Code Completion with AI](https://dev.to/mabualzait/revolutionizing-code-completion-with-ai-1en)
-- [How to integrate AI models into production systems?](https://dev.to/smit_gohel/how-to-integrate-ai-models-into-production-systems-4781)
+- [How I finally passed my AWS Cloud Practitioner Exam 🎉](https://dev.to/nernoel/how-i-finally-passed-my-aws-cloud-practitioner-exam-7cf)
+- [Inside Common Crawl: The Dataset Behind AI Models &lpar;and Its Real World Limits&rpar;](https://dev.to/extractdata/inside-common-crawl-the-dataset-behind-ai-models-and-its-real-world-limits-2eo2)
+- [How to Write Clear and Effective Bug Reports that Everyone Loves](https://dev.to/jignect-technologies/how-to-write-clear-and-effective-bug-reports-that-everyone-loves-4b0m)
+- [Integrating Zomato’s MCP Server into Gemini CLI: AI-Powered Food Ordering in Your Terminal](https://dev.to/aryanirani123/integrating-zomatos-mcp-server-into-gemini-cli-ai-powered-food-ordering-in-your-terminal-6fc)
+- [Check out the guide on - How Superstores, Smart Retail, and Changing Lifestyles Are Redefining Shopping Trends](https://dev.to/thedatageek/check-out-the-guide-on-how-superstores-smart-retail-and-changing-lifestyles-are-redefining-13c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
