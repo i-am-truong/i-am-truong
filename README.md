@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-25l6)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-31la)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2c0h)
-- [我的第一篇 API 发布文章](https://dev.to/zaki_zaki_6190b1c9c92c066/wo-de-di-pian-api-fa-bu-wen-zhang-9i5)
-- [How to Convert PPT&lpar;X&rpar; to PNG Using Python](https://dev.to/jelizaveta/how-to-convert-pptx-to-png-using-python-fah)
+- [Yet Another AWS AI Certification - AI Professional](https://dev.to/shajam/yet-another-aws-ai-certification-professional-4ogp)
+- [Supercontributor badge from Hacktoberfest](https://dev.to/simplysandeepp/supercontributor-badge-from-hacktoberfest-2fon)
+- [Automating the Gridiron Gaze: Building Tools for Dynamic Depth Chart Analysis](https://dev.to/ffteamnames/automating-the-gridiron-gaze-building-tools-for-dynamic-depth-chart-analysis-313e)
+- [Dynamically Allocating 2D Arrays Efficiently &lpar;and Correctly!&rpar; in C 2.0](https://dev.to/pauljlucas/dynamically-allocating-2d-arrays-efficiently-and-correctly-in-c-20-32pp)
+- [The Tri-Glyph Protocol: Chim Lac, Kitsune, and Anansi in AI/ML Collapse and Editorial Defense](https://dev.to/narnaiezzsshaa_truong/the-tri-glyph-protocol-chim-lac-kitsune-and-anansi-in-aiml-collapse-and-editorial-defense-2l4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
