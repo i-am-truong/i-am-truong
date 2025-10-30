@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Silent Sabotage: When Hardware Flaws Poison Medical AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/silent-sabotage-when-hardware-flaws-poison-medical-ai-by-arvind-sundararajan-2aib)
-- [OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs](https://dev.to/paperium/omnivideobench-towards-audio-visual-understanding-evaluation-for-omni-mllms-5f5h)
-- [Top 10 YouTube Short Editors for Creators](https://dev.to/gerrit_cole/top-10-youtube-short-editors-for-creators-4kg4)
-- [Top 10 Video Trimmer Tools for Fast Editing](https://dev.to/gerrit_cole/top-10-video-trimmer-tools-for-fast-editing-3c3)
-- [Top 10 AI Video Makers from YouTube Links](https://dev.to/gerrit_cole/top-10-ai-video-makers-from-youtube-links-70c)
+- [Wuzen 2025 Analysis: The Android RAT That&#39;s Raising the Bar for Mobile Security Threats](https://dev.to/specdev77/wuzen-2025-analysis-the-android-rat-thats-raising-the-bar-for-mobile-security-threats-1oae)
+- [Top 10 Social Media Scheduler Tools for Short Clips](https://dev.to/gerrit_cole/top-10-social-media-scheduler-tools-for-short-clips-30hn)
+- [Wuzen 2025: The Android RAT That&#39;s Changing the Game - And Why It Matters](https://dev.to/specdev77/wuzen-2025-the-android-rat-thats-changing-the-game-and-why-it-matters-1kkp)
+- [Top 10 Free Online Video Editors with AI Precision](https://dev.to/gerrit_cole/top-10-free-online-video-editors-with-ai-precision-f78)
+- [8 Essential Python Configuration Management Techniques for Scalable Applications](https://dev.to/aaravjoshi/8-essential-python-configuration-management-techniques-for-scalable-applications-3p31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
