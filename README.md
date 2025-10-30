@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Meal Planner](https://dev.to/shyam_kumarvn_10f595c2e/ai-meal-planner-1pl)
-- [AI Meal Planner App](https://dev.to/shyam_kumarvn_10f595c2e/ai-meal-planner-app-4196)
-- [Day 19: Python Vowel Counter – Build a Simple Function to Count Vowels in Any Text](https://dev.to/shahrouzlogs/day-19-python-vowel-counter-build-a-simple-function-to-count-vowels-in-any-text-5a5k)
-- [Python Frontier: What Every Dev Needs to Learn Now](https://dev.to/sanjaynaker/python-frontier-what-every-dev-needs-to-learn-now-1ppd)
-- [Pure CSS Pumpkin Patch - Sanjay Naker](https://dev.to/sanjaynaker/pure-css-pumpkin-patch-sanjay-naker-137o)
+- [Ultra-Low-Power ESP32-S3 Event-Triggered Vision AI Camera](https://dev.to/dave_chris_64f62ff08e15fe/ultra-low-power-esp32-s3-event-triggered-vision-ai-camera-18ld)
+- [ERP for Travel Agencies: Automate Bookings &amp; Operations](https://dev.to/sigzentechnologies/erp-for-travel-agencies-automate-bookings-operations-ao8)
+- [JavaFX In Action with Matt Coley, diving into byte code and JARs with Recaf and JavaFX libraries](https://dev.to/fdelporte/matt-coley-diving-into-byte-code-and-jars-with-recaf-and-javafx-libraries-5289)
+- [How to Configure Global Settings for Spring RestClient](https://dev.to/ibrahimgunduz34/how-to-configure-global-settings-for-spring-restclient-5a3n)
+- [Telcos Don’t Just Need 5G — They Need Faster Decision Loops](https://dev.to/abdul_shamim/telcos-dont-just-need-5g-they-need-faster-decision-loops-381h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
