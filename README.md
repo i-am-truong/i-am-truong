@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [More readable failure messages for RSpec #change](https://dev.to/epigene/more-readable-failure-messages-for-rspec-change-24da)
-- [From Zero to GitOps: Building a k3s Homelab on a Raspberry Pi with Flux &amp; SOPS](https://dev.to/shankar_t/from-zero-to-gitops-building-a-k3s-homelab-on-a-raspberry-pi-with-flux-sops-55b7)
-- [Squared2D Game Engine Update](https://dev.to/heldernogueiradev/squared2d-game-engine-update-2nd8)
-- [AgentKit vs n8n: A Deep Dive into Modern Workflow Automation](https://dev.to/alifar/agentkit-vs-n8n-a-deep-dive-into-modern-workflow-automation-2bbi)
-- [Beyond LZ4 Limits, Logging at high speed with on-the-fly compression](https://dev.to/fsg_swl/beyond-lz4-limits-logging-at-high-speed-with-on-the-fly-compression-p0p)
+- [The AI-programming sunk cost fallacy loop, and how to break it.](https://dev.to/samuelfaure/the-ai-programming-sunk-cost-fallacy-loop-and-how-to-break-it-13d6)
+- [11 Best Figma AI Plugins to Try in 2025](https://dev.to/brijesh_dobariya/11-best-figma-ai-plugins-to-try-in-2025-3gek)
+- [Latest AWS Updates in October 2025: Innovations, Outage, and AI Advancements](https://dev.to/cloud_man/latest-aws-updates-in-october-2025-innovations-outage-and-ai-advancements-1k7k)
+- [Streamlining Design Workflows with AI-Powered Batch Background Removal Tools](https://dev.to/arzoo/streamlining-design-workflows-with-ai-powered-batch-background-removal-tools-277c)
+- [Hands-On: Adaptive Forms with Conditional Rendering in React](https://dev.to/pixel_mosaic/hands-on-adaptive-forms-with-conditional-rendering-in-react-ip2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
