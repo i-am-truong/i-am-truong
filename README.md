@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Search Engines to Generative AI: The Many Crawlers Visiting Your Website](https://dev.to/rijultp/from-search-engines-to-generative-ai-the-many-crawlers-visiting-your-website-h9a)
 - [The CPU Cost of Signing NXDOMAINs](https://dev.to/thevilledev/the-cpu-cost-of-signing-nxdomains-bnm)
 - [🛠️ O que chegou de novo no Visual Studio 2026 Insiders](https://dev.to/daniloopinheiro/o-que-chegou-de-novo-no-visual-studio-2026-insiders-15dp)
 - [I Thought Becoming a Front-End Developer Was My Dream — Until I Realized I No Longer Enjoyed Coding](https://dev.to/mrezanahi_f133292cb4695d/i-thought-becoming-a-front-end-developer-was-my-dream-until-i-realized-i-no-longer-enjoyed-coding-54al)
 - [CVE-2025-24893: XWiki Platform Eval Injection Vulnerability](https://dev.to/freedom-coder/cve-2025-24893-xwiki-platform-eval-injection-vulnerability-4kd8)
-- [Αρχιτεκτονική Ανάλυση του MySchool System: Από Μονολιθική Προσέγγιση σε Microservices](https://dev.to/__b63657/arkhitektonike-analuse-tou-myschool-system-apo-monolithike-proseggise-se-microservices-33cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
