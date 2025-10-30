@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Connect with the HubSpot API](https://dev.to/apideck/how-to-connect-with-the-hubspot-api-8hk)
 - [How to deploy PocketBase on AWS with Docker](https://dev.to/fabienmartin/how-to-deploy-pocketbase-on-aws-with-docker-1o6g)
 - [HTML Selects Are Actually Styleable Now](https://dev.to/salehmubashar/html-selects-are-actually-styleable-now-49bn)
 - [Exploring the new SurrealDB integration with Agno](https://dev.to/surrealdb/exploring-the-new-surrealdb-integration-with-agno-2pid)
-- [Daily DSA and System Design Journal - 14](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-14-2hdf)
-- [Let&#39;s Poison Your LLM Application: A Security Wake-Up Call](https://dev.to/auyeungdavid_2847435260/lets-poison-your-llm-application-a-security-wake-up-call-3gle)
+- [From Scholarship to Cloud: My System Design Journey](https://dev.to/supriyathearchitect/from-scholarship-to-cloud-my-system-design-journey-1bel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
