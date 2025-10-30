@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Resource Quota: Ensuring Fair Resource Allocation in Multi-Tenant Clusters](https://dev.to/kapusto/kubernetes-resource-quota-ensuring-fair-resource-allocation-in-multi-tenant-clusters-57ib)
-- [The Context Variable Vault: Thread-Safe State Without Globals](https://dev.to/aaron_rose_0787cc8b4775a0/the-context-variable-vault-thread-safe-state-without-globals-2khk)
-- [Bringing Ideas to Life with 3D Design and Smart Performance Tools](https://dev.to/tool_works_d3c5d34009b4b6/bringing-ideas-to-life-with-3d-design-and-smart-performance-tools-16na)
-- [The Future of Home Automation Just Arrived: 1X Technologies NEO Humanoid Robot](https://dev.to/shiva_shanker_k/the-future-of-home-automation-just-arrived-1x-technologies-neo-humanoid-robot-266k)
-- [Oi :3](https://dev.to/pachicodes/oi-3-4ikf)
+- [Evolution in Form Validators: Goodbye customError, Hello Plain Objects](https://dev.to/damiansiredev/evolution-in-form-validators-goodbye-customerror-hello-plain-objects-4c35)
+- [Hacktoberfest - Recap](https://dev.to/denisc96/hacktoberfest-recap-4p9p)
+- [The Network in QubesOS – Architecture, Routing, and Real-World Tests](https://dev.to/sebos/the-network-in-qubesos-architecture-routing-and-real-world-tests-3kjd)
+- [Hacktoberfest Last Pull Request - Writing Test](https://dev.to/denisc96/hacktoberfest-last-pull-request-writing-test-3ljj)
+- [👩‍💻 My Journey into Web Development: From First Lines of Code to Real Projects](https://dev.to/natashaasnani/my-journey-into-web-development-from-first-lines-of-code-to-real-projects-10g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
