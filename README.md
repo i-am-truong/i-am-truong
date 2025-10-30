@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--21co)
-- [Transforming Industries with Industrial Automation](https://dev.to/sheba-kumari/transforming-industries-with-industrial-automation-180n)
-- [I Built a Podcast Script Prompt That Actually Works—Here&#39;s the Complete Template](https://dev.to/huizhudev/i-built-a-podcast-script-prompt-that-actually-works-heres-the-complete-template-23h1)
-- [Building Organizations Without a Boss: Understanding DAOs in Web3](https://dev.to/omniradhanexus/building-organizations-without-a-boss-understanding-daos-in-web3-48ih)
-- [Mangroves Near Digha – A Hidden Green Paradise](https://dev.to/dip_mondal_2dd6ea5a70ef6c/mangroves-near-digha-a-hidden-green-paradise-20fb)
+- [Day 12: Transactions &amp; Concurrency - PostgreSQL in 15 Days](https://dev.to/hardik_kanajariya/day-12-transactions-concurrency-postgresql-in-15-days-49ho)
+- [Learning Through Contribution - Hacktoberfest 2025🎯](https://dev.to/hirushi_nethmini_41168bb8/learning-through-contribution-hacktoberfest-2025-26ml)
+- [Auth Explained &lpar;Part 2&rpar;: How your browser ‘remembers’ you? PKCE + refresh cookies explained like you&#39;re five](https://dev.to/sylwia-lask/auth-explained-part-2-how-your-browser-remembers-you-pkce-refresh-cookies-explained-like-1hga)
+- [[Boost]](https://dev.to/bdussault/-4b7f)
+- [Top 10 Test Automation Frameworks for JavaScript Developers &lpar;2025 Edition&rpar;](https://dev.to/henry_messiahtmt_099ca84/top-10-test-automation-frameworks-for-javascript-developers-2025-edition-41fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
