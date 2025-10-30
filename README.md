@@ -119,12 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Anybody watching the Internet Invitational?](https://dev.to/ben/anybody-watching-the-internet-invitational-aok)
-- [🚀 Build Custom AI Agents with Qodo Command](https://dev.to/dev_kiran/build-custom-ai-agents-with-qodo-command-2j6d)
-- [Renewable Energy Tech: The Innovation Driving a Greener World](https://dev.to/rapidcellphone/renewable-energy-tech-the-innovation-driving-a-greener-world-2a1e)
-- [New blogpost about layer wise PSNR: 
-https://dev.to/embedl-hub/diagnosing-layer-sensitivity-during-post-training-quantization-115g](https://dev.to/elina_norling_embedl/new-blogpost-about-layer-wise-psnr-3mco)
-- [Thoughts? For me it&#39;s a bit busy.](https://dev.to/ben/thoughts-for-me-its-a-bit-busy-21m9)
+- [From Overwhelmed to Empowered: My Hacktoberfest 2025 Journey](https://dev.to/codejourney/from-overwhelmed-to-empowered-my-hacktoberfest-2025-journey-f94)
+- [Are Local Virginia Transporters More Reliable Than National Carriers for NJ Delivery?](https://dev.to/autostartransportexpress/are-local-virginia-transporters-more-reliable-than-national-carriers-for-nj-delivery-32g8)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2md4)
+- [Protect Your Software IP with Smart, Automated Licensing Solutions](https://dev.to/soraco_technologies_85385/protect-your-software-ip-with-smart-automated-licensing-solutions-3nfb)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3eap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
