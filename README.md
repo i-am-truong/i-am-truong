@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TATIM](https://dev.to/alexey_ivanensky_35ce7503/tatim-3gpk)
 - [Instant4D: 4D Gaussian Splatting in Minutes](https://dev.to/paperium/instant4d-4d-gaussian-splatting-in-minutes-4ep8)
 - [Is This the Final Stage of AI? My Journey Toward Building a Digital Mind](https://dev.to/shravani_86c94d4b283541f3/is-this-the-final-stage-of-ai-my-journey-toward-building-a-digital-mind-5642)
 - [From Search Engines to Generative AI: The Many Crawlers Visiting Your Website](https://dev.to/rijultp/from-search-engines-to-generative-ai-the-many-crawlers-visiting-your-website-h9a)
 - [The CPU Cost of Signing NXDOMAINs](https://dev.to/thevilledev/the-cpu-cost-of-signing-nxdomains-bnm)
+- [🛠️ O que chegou de novo no Visual Studio 2026 Insiders](https://dev.to/daniloopinheiro/o-que-chegou-de-novo-no-visual-studio-2026-insiders-15dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
