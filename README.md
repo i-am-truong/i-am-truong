@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs](https://dev.to/paperium/omnivideobench-towards-audio-visual-understanding-evaluation-for-omni-mllms-5f5h)
 - [Top 10 YouTube Short Editors for Creators](https://dev.to/gerrit_cole/top-10-youtube-short-editors-for-creators-4kg4)
 - [Top 10 Video Trimmer Tools for Fast Editing](https://dev.to/gerrit_cole/top-10-video-trimmer-tools-for-fast-editing-3c3)
-- [Master Rust Pattern Matching: Build Safer, More Expressive Code with Advanced Techniques](https://dev.to/aaravjoshi/master-rust-pattern-matching-build-safer-more-expressive-code-with-advanced-techniques-5b02)
+- [Top 10 AI Video Makers from YouTube Links](https://dev.to/gerrit_cole/top-10-ai-video-makers-from-youtube-links-70c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
