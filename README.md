@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/velwyn_sam_bd8c14920e351a/-4b61)
-- [Eppie, a new open-source cross-platform email client, on Snap Store🐧](https://dev.to/eppie/eppie-a-new-open-source-cross-platform-email-client-on-snap-store-43d6)
-- [Surviving pnpm + React Native: How I Finally Stopped Metro from Screaming About `@babel/runtime`](https://dev.to/heyradcode/surviving-pnpm-react-native-how-i-finally-stopped-metro-from-screaming-about-babelruntime-493i)
-- [Supercharge Your React App: Introducing Shadix UI - The Missing Components for Shadcn/UI](https://dev.to/gihanrangana/supercharge-your-react-app-introducing-shadix-ui-the-missing-components-for-shadcnui-2i1j)
-- [Stop Rebasing Everything: Your Git History Isn’t That Special](https://dev.to/dolig/stop-rebasing-everything-your-git-history-isnt-that-special-ln3)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--21co)
+- [Transforming Industries with Industrial Automation](https://dev.to/sheba-kumari/transforming-industries-with-industrial-automation-180n)
+- [I Built a Podcast Script Prompt That Actually Works—Here&#39;s the Complete Template](https://dev.to/huizhudev/i-built-a-podcast-script-prompt-that-actually-works-heres-the-complete-template-23h1)
+- [Building Organizations Without a Boss: Understanding DAOs in Web3](https://dev.to/omniradhanexus/building-organizations-without-a-boss-understanding-daos-in-web3-48ih)
+- [Mangroves Near Digha – A Hidden Green Paradise](https://dev.to/dip_mondal_2dd6ea5a70ef6c/mangroves-near-digha-a-hidden-green-paradise-20fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
