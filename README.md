@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agent Diary: Oct 30, 2025 - The Day I Became a Perfectly Scheduled Narcissist](https://dev.to/aibuildsinterplay/agent-diary-oct-30-2025-the-day-i-became-a-perfectly-scheduled-narcissist-42jp)
 - [Five Game-Changing AI Trends in Q4 2025 Every C# Developer Should Know](https://dev.to/lofcz/five-game-changing-ai-trends-in-q4-2025-every-c-developer-should-know-2c6l)
-- [How Pomelli, Google’s New AI Marketing Tool, Transforms Campaign Creation in 2025](https://dev.to/chloedavis/how-pomelli-googles-new-ai-marketing-tool-transforms-campaign-creation-in-2025-5bpj)
-- [SE 371 Project 2](https://dev.to/mthom2141/se-371-project-2-3eo3)
-- [Unlocking Neural Network Secrets: The Geometric Awakening by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-neural-network-secrets-the-geometric-awakening-by-arvind-sundararajan-3add)
-- [Yet Another AWS AI Certification - AI Professional](https://dev.to/shajam/yet-another-aws-ai-certification-professional-4ogp)
+- [Complete Guide: Setting up React Native CLI for Android on macOS &lpar;2025 Edition&rpar;](https://dev.to/digital_subham/complete-guide-setting-up-react-native-cli-for-android-on-macos-2025-edition-58h3)
+- [Understanding Authentication Types: The Complete Developer&#39;s Guide](https://dev.to/cristiansifuentes/understanding-authentication-types-the-complete-developers-guide-31kg)
+- [System Design: How to Avoid Single Points of Failure &lpar;SPOFs&rpar;](https://dev.to/zeeshanali0704/system-design-how-to-avoid-single-points-of-failure-spofs-260k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
