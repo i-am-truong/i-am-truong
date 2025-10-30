@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Silent Sabotage: When Hardware Flaws Poison Medical AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/silent-sabotage-when-hardware-flaws-poison-medical-ai-by-arvind-sundararajan-2aib)
+- [OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs](https://dev.to/paperium/omnivideobench-towards-audio-visual-understanding-evaluation-for-omni-mllms-5f5h)
+- [Top 10 YouTube Short Editors for Creators](https://dev.to/gerrit_cole/top-10-youtube-short-editors-for-creators-4kg4)
 - [Top 10 Video Trimmer Tools for Fast Editing](https://dev.to/gerrit_cole/top-10-video-trimmer-tools-for-fast-editing-3c3)
 - [Master Rust Pattern Matching: Build Safer, More Expressive Code with Advanced Techniques](https://dev.to/aaravjoshi/master-rust-pattern-matching-build-safer-more-expressive-code-with-advanced-techniques-5b02)
-- [Top 10 AI Video Makers from YouTube Links](https://dev.to/gerrit_cole/top-10-ai-video-makers-from-youtube-links-70c)
-- [How AI Turned Me from a Copy-Paste Coder into a Confident Full-Stack Developer](https://dev.to/sufian/how-ai-turned-me-from-a-copy-paste-coder-into-a-confident-full-stack-developer-3l36)
-- [How to upload in chunks to Google Drive with Google Drive API](https://dev.to/firdausai/how-to-upload-in-chunks-to-google-drive-with-google-drive-api-2o68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
