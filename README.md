@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Inside the Backend: What Really Powers Modern Applications](https://dev.to/gianfcop98/inside-the-backend-what-really-powers-modern-applications-4hhg)
 - [Reliable AI workflow with GitHub Copilot: complete guide with examples](https://dev.to/petrashka/reliable-ai-workflow-with-github-copilot-complete-guide-with-examples-1bho)
+- [Unleashing the Power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity as well as Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-as-well-4gpf)
 - [Stop Typing JSON Manually: The VS Code Extension That Makes TypeScript Fast ⚡](https://dev.to/haider_mukhtar/stop-typing-json-manually-the-vs-code-extension-that-makes-typescript-fast-32dc)
-- [How to Build an AI Fitness Video Analysis App in Lovable in 30 minutes](https://dev.to/momen_hq/how-to-build-an-ai-fitness-video-analysis-app-in-lovable-in-30-minutes-5263)
-- [CSS Lists and Tables Styling: Enhancing Readability and Visual Appeal](https://dev.to/sharique_siddiqui_8242dad/css-lists-and-tables-styling-enhancing-readability-and-visual-appeal-3pk7)
+- [🎨 HTML `&lt;canvas&gt;` — The Dynamic Drawing Board of the Web](https://dev.to/vishwark/html-the-dynamic-drawing-board-of-the-web-1ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
