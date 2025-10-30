@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Role of GPUs in Accelerating Deep Learning Training](https://dev.to/nextgengpu/the-role-of-gpus-in-accelerating-deep-learning-training-14c3)
-- [I Tested 25+ AI Writing Tools, and This One Writes Better Than Most Humans &lpar;With Results&rpar;](https://dev.to/nitinfab/i-tested-25-ai-writing-tools-and-this-one-writes-better-than-most-humans-with-results-2jnf)
-- [🤖 Introducing ALTK, the open-source agent lifecycle toolkit](https://dev.to/aairom/introducing-altk-the-open-source-agent-lifecycle-toolkit-57of)
-- [Unlocking the Power of Generative AI in Business Intelligence](https://dev.to/ravi_teja_4/unlocking-the-power-of-generative-ai-in-business-intelligence-1130)
-- [Cloud Route Limits: Why AWS and Azure BGP Restrictions Matter &lpar;and How to Overcome Them&rpar;](https://dev.to/cloud_man/cloud-route-limits-why-aws-and-azure-bgp-restrictions-matter-and-how-to-overcome-them-43o0)
+- [Setting Up GitOps with Flux on a Kubernetes Cluster](https://dev.to/shankar_t/setting-up-gitops-with-flux-on-a-kubernetes-cluster-5d8l)
+- [10 Claude Skills that actually changed how I work &lpar;no fluff&rpar;](https://dev.to/varshith_krishna_f772000d/10-claude-skills-that-actually-changed-how-i-work-no-fluff-3ein)
+- [Diagnosing layer sensitivity during post training quantization](https://dev.to/embedl-hub/diagnosing-layer-sensitivity-during-post-training-quantization-115g)
+- [Η Σημασία του README σε Ένα Πρότζεκτ .NET](https://dev.to/__b63657/e-semasia-tou-readme-se-ena-protzekt-net-10kb)
+- [Final Sprint: Just 1 Day Left!](https://dev.to/havilahacademy/final-sprint-just-1-day-left-36np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
