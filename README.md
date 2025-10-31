@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The future of healthcare is undergoing a paradigm shift, dri](https://dev.to/drcarlosruizviquez/the-future-of-healthcare-is-undergoing-a-paradigm-shift-dri-293b)
-- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-da8)
-- [🌳 Mastering Data Structures in Java — Part 8: TreeMap](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-8-treemap-1mb)
-- [Drowning in AI Code Review Noise? A Framework to Measure Signal vs. Noise](https://dev.to/jet_xu/drowning-in-ai-code-review-noise-a-framework-to-measure-signal-vs-noise-304e)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1n08)
+- [How AI Tools Are Changing Code Reviews](https://dev.to/najilouis/how-ai-tools-are-changing-code-reviews-3d6m)
+- [Whisper Menu Bar](https://dev.to/0asa/whisper-menu-bar-3fd4)
+- [Azure MCP Server: Intelligent Cloud Management Through Conversational AI](https://dev.to/gioboa/azure-mcp-server-intelligent-cloud-management-through-conversational-ai-3fb3)
+- [Hallowe&#39;en Unicorn](https://dev.to/djchadderton/halloween-unicorn-3pl3)
+- [As we continue to push the boundaries of generative AI, a pr](https://dev.to/drcarlosruizviquez/as-we-continue-to-push-the-boundaries-of-generative-ai-a-pr-305b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
