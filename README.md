@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VPN, Docker, and a cold coffee](https://dev.to/a2nof/vpn-docker-and-a-cold-coffee-3la6)
-- [Best privacy-compliant analytics tools for 2026](https://dev.to/pambrus/best-privacy-compliant-analytics-tools-for-2026-285h)
-- [Best analytics tools for Mobile Apps in 2026](https://dev.to/pambrus/best-analytics-tools-for-mobile-apps-in-2026-4mme)
-- [Why Dark Mode Isn’t Just About Looking Cool](https://dev.to/hashbyt/why-dark-mode-isnt-just-about-looking-cool-4ol1)
-- [Creating and Optimizing Prompts](https://dev.to/fanama/creating-and-optimizing-prompts-5ei8)
+- [AWS open source newsletter, #215](https://dev.to/aws/aws-open-source-newsletter-215-46im)
+- [How to Debug Hono Applications with Telescope – Laravel Telescope for Bun &amp; Node.js](https://dev.to/jubstaaa/how-to-debug-hono-applications-with-telescope-laravel-telescope-for-bun-nodejs-3mmb)
+- [When Telegram Cocoon Goes Live: The Future of the AI Internet](https://dev.to/skapi_api/when-telegram-cocoon-goes-live-the-future-of-the-ai-internet-2e67)
+- [Agentic AI vs Generative AI: What’s the Real Difference?](https://dev.to/aziro_tech_8cf3f347e4e95b/agentic-ai-vs-generative-ai-whats-the-real-difference-19l6)
+- [The Complete Guide to Sell-In: Strategy, Process, and Optimization](https://dev.to/syeda_khatija_ce3d1f3f681/the-complete-guide-to-sell-in-strategy-process-and-optimization-35f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
