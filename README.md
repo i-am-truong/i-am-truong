@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips and Tricks for Creating a Good Login Page Design](https://dev.to/lollypopdesign/tips-and-tricks-for-creating-a-good-login-page-design-dcd)
+- [如何用代理登录 Facebook、Twitter](https://dev.to/lopezjessicancmxe_e881660/ru-he-yong-dai-li-deng-lu-facebook-twitter-2p9o)
+- [Building AI-Powered APIs in Minutes, Not Months](https://dev.to/mabualzait/building-ai-powered-apis-in-minutes-not-months-3fi7)
+- [安全下载种子资源的代理策略](https://dev.to/lopezjessicancmxe_e881660/an-quan-xia-zai-chong-zi-zi-yuan-de-dai-li-ce-lue-4pbn)
 - [If I had to name one combination that transformed how I build, write, and automate — it’s ChatGPT + GitHub. Together, they’ve become my personal AI-powered development ecosystem!](https://dev.to/jaideepparashar/if-i-had-to-name-one-combination-that-transformed-how-i-build-write-and-automate-its-chatgpt--59m4)
-- [ChatGPT + GitHub: The Duo That Helps Me Create 10x Faster](https://dev.to/jaideepparashar/chatgpt-github-the-duo-that-helps-me-create-10x-faster-24hc)
-- [Rick Beato: Live Tour Update from Norway](https://dev.to/music_youtube/rick-beato-live-tour-update-from-norway-4gm2)
-- [Which APIs or SDKs Work Best for Connecting AI Models with RPA Tools Like UiPath or Automation Anywhere?](https://dev.to/smit_gohel/which-apis-or-sdks-work-best-for-connecting-ai-models-with-rpa-tools-like-uipath-or-automation-2mlc)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-2fg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
