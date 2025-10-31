@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Senior RN Developers in Austin, TX](https://dev.to/potato_potaro/senior-rn-developers-in-austin-tx-1j0o)
+- [Turning 500 Lines of If-Else Into a Config Switch: Strategy Pattern in Go](https://dev.to/aris_georgatos/turning-500-lines-of-if-else-into-a-config-switch-strategy-pattern-in-go-4ebe)
+- [Frontend System Design: What is the Critical Rendering Path &lpar;CRP&rpar;](https://dev.to/zeeshanali0704/frontend-system-design-what-is-the-critical-rendering-path-crp-11bm)
+- [Understanding PyTorch Data Loader: Fundamentals, Features, and Limitations](https://dev.to/kapusto/understanding-pytorch-data-loader-fundamentals-features-and-limitations-4320)
 - [handle text](https://dev.to/query_filter_591122b53770/handle-text-2b6d)
-- [Day 18 of Documentating my learning journey](https://dev.to/james_kabuga/day-18-of-documentating-my-learning-journey-62o)
-- [Tackling Bigger Challenges and Exploring New Repositories in Hacktoberfest](https://dev.to/dharam_ghevariya_0d946c37/tackling-bigger-challenges-and-exploring-new-repositories-in-hacktoberfest-2g37)
-- [Guided Project - Azure Files and Azure Blobs](https://dev.to/daniel_shaibu_49affe8d51e/guided-project-azure-files-and-azure-blobs-3o44)
-- [Why full workspace access turned my AI agent from Toy to Tool](https://dev.to/boulama/why-full-workspace-access-turned-my-ai-agent-from-toy-to-tool-5g70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
