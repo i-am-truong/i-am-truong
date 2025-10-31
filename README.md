@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lots of momentum this week!](https://dev.to/ben/lots-of-momentum-this-week-10ph)
+- [A Senior Developer&#39;s Guide to the Model Context Protocol](https://dev.to/onlineproxy/a-senior-developers-guide-to-the-model-context-protocol-2pfl)
+- [My DevOps Journey: Part 12-Networking Like a Pro: VPC, Subnets &amp; Secure AWS Connectivity](https://dev.to/sheershsinha/my-devops-journey-part-12-networking-like-a-pro-vpc-subnets-secure-aws-connectivity-464m)
 - [# ☁️ Creating a Highly Available Environment on AWS &lpar;Multi-AZ Architecture&rpar;](https://dev.to/chioma_nwosu_99d57862fb18/-creating-a-highly-available-environment-on-aws-multi-az-architecture-3ma8)
 - [Boost Your Sales with Shopify Ecommerce Tips](https://dev.to/api_troll/boost-your-sales-with-shopify-ecommerce-tips-3h7b)
-- [Witch&#39;s Potion: A Spooky Halloween Mini-Game Built with Python OOP](https://dev.to/shahrouzlogs/witchs-potion-a-spooky-halloween-mini-game-built-with-python-oop-5090)
-- [Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping](https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8)
-- [I Got Tired of Writing Seed Scripts for Every Project, So I Built quick-seed &lpar;an ORM-Agnostic Seeding Tool&rpar;](https://dev.to/miit_daga_ba63282a40737da/i-got-tired-of-writing-seed-scripts-for-every-project-so-i-built-quick-seed-an-orm-agnostic-3hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
