@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_25c2e834/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5295)
+- [Forem Weekly Repo Recap: New Community Hub, Email Fixes &amp; Markdown Improvements](https://dev.to/forem_project_bot/forem-weekly-repo-recap-new-community-hub-email-fixes-markdown-improvements-h9p)
+- [🚀 I’m Open to Building What’s Next — My Journey So Far](https://dev.to/pavan_kumarmukkera_527ab/im-open-to-building-whats-next-my-journey-so-far-2l0p)
+- [Why I Built Another Feedback Tool](https://dev.to/notedisapp/why-i-built-another-feedback-tool-28e2)
 - [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-48l0)
-- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-547e)
-- [Building Privacy-Safe Attribution Pipelines: A Marketer’s Engineering Approach](https://dev.to/saka_satish_661/building-privacy-safe-attribution-pipelines-a-marketers-engineering-approach-578l)
-- [Why DFS Topological Sort Writes Nodes on Backtracking](https://dev.to/haris_abdullah_b8fc481573/why-dfs-topological-sort-writes-nodes-on-backtracking-2p34)
-- [Implementing MQTT 5 in Go: A Deep Dive into Client Design - Part I](https://dev.to/monsieur_thib/implementing-mqtt-5-in-go-a-deep-dive-into-client-design-part-i-24p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
