@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Database Migratable Reports--SPL Reporting](https://dev.to/esproc_spl/cross-database-migratable-reports-spl-reporting-56mi)
-- [Cross-Database Migratable Reports--SPL Reporting](https://dev.to/esproc_spl/cross-database-migratable-reports-spl-reporting-2n2d)
-- [I Enabled Strict Mode In Laravel 12 and My Tests Started Failing Everywhere](https://dev.to/chisonm/i-enabled-strict-mode-in-laravel-12-and-my-tests-started-failing-everywhere-2ekh)
-- [A Second Life for CORBA in MCP 2.0 - An example of AI and humans leveraging their combined potential to create new knowledge](https://dev.to/grimch/a-second-life-for-corba-in-mcp-20-an-example-of-ai-and-humans-leveraging-their-combined-3c64)
-- [Implementing JWT Authentication in Rust with Axum.](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-with-axum-22o1)
+- [VPN, Docker, and a cold coffee](https://dev.to/a2nof/vpn-docker-and-a-cold-coffee-3la6)
+- [Best privacy-compliant analytics tools for 2026](https://dev.to/pambrus/best-privacy-compliant-analytics-tools-for-2026-285h)
+- [Best analytics tools for Mobile Apps in 2026](https://dev.to/pambrus/best-analytics-tools-for-mobile-apps-in-2026-4mme)
+- [Why Dark Mode Isn’t Just About Looking Cool](https://dev.to/hashbyt/why-dark-mode-isnt-just-about-looking-cool-4ol1)
+- [Creating and Optimizing Prompts](https://dev.to/fanama/creating-and-optimizing-prompts-5ei8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
