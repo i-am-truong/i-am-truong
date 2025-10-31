@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How the Linux Kernel Expands Its List of Display Vendors](https://dev.to/jasonliu112/how-the-linux-kernel-expands-its-list-of-display-vendors-31e1)
+- [Understanding Primary Keys in Relational Databases: A Key to Data Integrity and Fast Lookups](https://dev.to/pdobadb/understanding-primary-keys-in-relational-databases-a-key-to-data-integrity-and-fast-lookups-2cka)
+- [Managing Goose Configurations Across Multiple Projects: A Practical Guide](https://dev.to/vietbui1999ru/managing-goose-configurations-across-multiple-projects-a-practical-guide-48ei)
+- [External Request Monitoring in APM | Track External Calls](https://dev.to/olivia_madison_b0ad7090ad/external-request-monitoring-in-apm-track-external-calls-9j0)
 - [Upgrading Rails Soon? Here’s What to Watch Out For &lpar;and a Free Checklist to Help You Prepare&rpar;](https://dev.to/railsfactory_sedin/upgrading-rails-soon-heres-what-to-watch-out-for-and-a-free-checklist-to-help-you-prepare-1k0c)
-- [Check out the guide on -Decoding the Language of Data: A Comprehensive Guide to Text Mining in R and Python](https://dev.to/thedatageek/check-out-the-guide-on-decoding-the-language-of-data-a-comprehensive-guide-to-text-mining-in-r-2kha)
-- [Decoding the Language of Data: A Comprehensive Guide to Text Mining in R and Python](https://dev.to/thedatageek/decoding-the-language-of-data-a-comprehensive-guide-to-text-mining-in-r-and-python-41pl)
-- [🌌 Meet Xlorin — The AI That Thinks Like You &lpar;Only Faster&rpar;](https://dev.to/we-the-developers/meet-xlorin-the-ai-that-thinks-like-you-only-faster-4l2h)
-- [Kvart Timer: From Idea to App Store in 2 days](https://dev.to/valeriavg/kvart-timer-from-idea-to-app-store-in-2-days-2c09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
