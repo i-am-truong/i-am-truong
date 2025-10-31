@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [handle text](https://dev.to/query_filter_591122b53770/handle-text-2b6d)
 - [Day 18 of Documentating my learning journey](https://dev.to/james_kabuga/day-18-of-documentating-my-learning-journey-62o)
-- [AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning in 4DScenes](https://dev.to/paperium/adaviewplanner-adapting-video-diffusion-models-for-viewpoint-planning-in-4dscenes-44lh)
-- [I Spent Months Trying to &quot;Revive&quot; Our E2E Tests. Now I&#39;m Building My Own AI Tool.](https://dev.to/aragossa/i-spent-months-trying-to-revive-our-e2e-tests-now-im-building-my-own-ai-tool-57b7)
-- [The End of Creative Blocks: How AI Ad Tools Empower Modern Marketers](https://dev.to/alex_swift1234/the-end-of-creative-blocks-how-ai-ad-tools-empower-modern-marketers-23k1)
-- [Couchbase &quot;Spooktacular Scale&quot; Weekly Updates - October 31, 2025](https://dev.to/couchbase/couchbase-spooktacular-scale-weekly-updates-october-31-2025-g8h)
+- [Tackling Bigger Challenges and Exploring New Repositories in Hacktoberfest](https://dev.to/dharam_ghevariya_0d946c37/tackling-bigger-challenges-and-exploring-new-repositories-in-hacktoberfest-2g37)
+- [Guided Project - Azure Files and Azure Blobs](https://dev.to/daniel_shaibu_49affe8d51e/guided-project-azure-files-and-azure-blobs-3o44)
+- [Why full workspace access turned my AI agent from Toy to Tool](https://dev.to/boulama/why-full-workspace-access-turned-my-ai-agent-from-toy-to-tool-5g70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
