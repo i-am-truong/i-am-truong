@@ -119,13 +119,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Agent&#39;s Hands on AWS: Securing the New Frontier of AI Safety Before It Secures You](https://dev.to/anitha_senthilnathan/the-agents-hands-on-aws-securing-the-new-frontier-of-ai-safety-before-it-secures-you-egb)
 - [The hottest new programming language is English](https://dev.to/marmariadata/the-hottest-new-programming-language-is-english-20n8)
 - [When the Market Takes Weekends Off - Devlog Stocksimpy](https://dev.to/suleyman_sade/when-the-market-takes-weekends-off-devlog-stocksimpy-2c2b)
 - [Old course getting some changes
 
 https://www.forbes.com/sites/mikefore/2025/10/31/old-course-at-st-andrews-slated-for-enhancements-prior-to-2027-open/](https://dev.to/ben/old-course-getting-some-changes-4mcj)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2j95)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-314f)
+- [8-Bit Music Theory: Analyzing why people like funk || Marvel vs Capcom 2](https://dev.to/music_youtube/8-bit-music-theory-analyzing-why-people-like-funk-marvel-vs-capcom-2-mcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
