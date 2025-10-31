@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AWS Outage of October 20, 2025: What Happened, Who Was Affected, and Lessons Learned](https://dev.to/cloud_man/the-aws-outage-of-october-20-2025-what-happened-who-was-affected-and-lessons-learned-5b35)
-- [Beyond the API: Building a Real-time Depth Chart Tracking System with Web Scraping &amp; AI](https://dev.to/ffteamnames/beyond-the-api-building-a-real-time-depth-chart-tracking-system-with-web-scraping-ai-1lpe)
-- [AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://dev.to/paperium/avocado-an-audiovisual-video-captioner-driven-by-temporal-orchestration-19mn)
-- [How choose which Kubernetes Way is Right for You](https://dev.to/kartik_p/how-choose-which-kubernetes-way-is-right-for-you-1jf9)
-- [Practical Guide: How to Quickly Download Online Images to the Gallery in HarmonyOS](https://dev.to/harmonyos/practical-guide-how-to-quickly-download-online-images-to-the-gallery-in-harmonyos-338a)
+- [If I had to name one combination that transformed how I build, write, and automate — it’s ChatGPT + GitHub. Together, they’ve become my personal AI-powered development ecosystem!](https://dev.to/jaideepparashar/if-i-had-to-name-one-combination-that-transformed-how-i-build-write-and-automate-its-chatgpt--59m4)
+- [ChatGPT + GitHub: The Duo That Helps Me Create 10x Faster](https://dev.to/jaideepparashar/chatgpt-github-the-duo-that-helps-me-create-10x-faster-24hc)
+- [Rick Beato: Live Tour Update from Norway](https://dev.to/music_youtube/rick-beato-live-tour-update-from-norway-4gm2)
+- [Which APIs or SDKs Work Best for Connecting AI Models with RPA Tools Like UiPath or Automation Anywhere?](https://dev.to/smit_gohel/which-apis-or-sdks-work-best-for-connecting-ai-models-with-rpa-tools-like-uipath-or-automation-2mlc)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-2fg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
