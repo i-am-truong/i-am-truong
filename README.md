@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The 3-Step System to Learn Any Framework Fast](https://dev.to/rohit_gavali_0c2ad84fe4e0/the-3-step-system-to-learn-any-framework-fast-3o8h)
-- [Imaging having The Witcher on your dev team...](https://dev.to/ajparadith/imaging-having-the-witcher-on-your-dev-team-30p1)
-- [Why Choosing the Right Front End Framework Is a Community Decision, Not Just a Technical One](https://dev.to/thetechinsight/why-choosing-the-right-front-end-framework-is-a-community-decision-not-just-a-technical-one-2kk4)
-- [Hacktoberfest PR: A Tiny Code Change](https://dev.to/aubreyddd/hacktoberfest-pr-a-tiny-code-change-5165)
-- [The Hidden Cost of Bad Caching: Why More Cache Isn&#39;t Always Better](https://dev.to/sizan_mahmud0_e7c3fd0cb68/the-hidden-cost-of-bad-caching-why-more-cache-isnt-always-better-466b)
+- [I Enabled Strict Mode In Laravel 12 and My Tests Started Failing Everywhere](https://dev.to/chisonm/i-enabled-strict-mode-in-laravel-12-and-my-tests-started-failing-everywhere-2ekh)
+- [A Second Life for CORBA in MCP 2.0 - An example of AI and humans leveraging their combined potential to create new knowledge](https://dev.to/grimch/a-second-life-for-corba-in-mcp-20-an-example-of-ai-and-humans-leveraging-their-combined-3c64)
+- [Implementing JWT Authentication in Rust with Axum.](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-with-axum-22o1)
+- [How to use pot to set delay function of Arduino?](https://dev.to/carolineee/how-to-use-pot-to-set-delay-function-of-arduino-ol0)
+- [Adapting to Change: Developers’ Transition from Java 21 to 22 in 2025](https://dev.to/vishal_more_02990955c9358/adapting-to-change-developers-transition-from-java-21-to-22-in-2025-2l08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
