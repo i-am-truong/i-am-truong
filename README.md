@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built an AI Idea Library Using No-Code and Vibe-Code](https://dev.to/cathyliusolo/how-i-built-an-ai-idea-library-using-no-code-and-vibe-code-1a2b)
 - [The Agent&#39;s Hands on AWS: Securing the New Frontier of AI Safety Before It Secures You](https://dev.to/anitha_senthilnathan/the-agents-hands-on-aws-securing-the-new-frontier-of-ai-safety-before-it-secures-you-egb)
 - [Architectural Sanctums: Crafting Mini-Apps with Rails Engines](https://dev.to/alex_aslam/architectural-sanctums-crafting-mini-apps-with-rails-engines-25dc)
 - [Sculpting Monoliths: The Art of Packaging Rails with Components, Gems, and Engines](https://dev.to/alex_aslam/sculpting-monoliths-the-art-of-packaging-rails-with-components-gems-and-engines-1p93)
 - [Stop Focusing on Bigger AI Models—Here’s The Real Breakthrough Everyone’s Missing About Emotional Intelligence in AI](https://dev.to/paul_allen_ccfde9d33a48d5/stop-focusing-on-bigger-ai-models-heres-the-real-breakthrough-everyones-missing-about-emotional-pnh)
-- [Clarity From Chaos: Super-Resolution That Thrives on Noise](https://dev.to/arvind_sundararajan/clarity-from-chaos-super-resolution-that-thrives-on-noise-50do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
