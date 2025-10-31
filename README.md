@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Access Your Local Laravel Project on Your Mobile](https://dev.to/aquibj0/how-to-access-your-local-laravel-project-on-your-mobile-1jk7)
-- [Is Your &quot;Help&quot; Actually Holding Your Team Back?](https://dev.to/remotly/is-your-help-actually-holding-your-team-back-15d0)
-- [What is Responsible AI?](https://dev.to/shivamchamoli18/what-is-responsible-ai-7he)
-- [Build Native Bottom Sheets with Pure Web Bottom Sheet Library](https://dev.to/jqueryscript/build-native-bottom-sheets-with-pure-web-bottom-sheet-library-1egg)
-- [Porting of MobileNetV3 Model and Implementation of Handwritten Digit Recognition Based on OKMX8MP-C &lpar;Linux 5.4.70&rpar;](https://dev.to/forlinx_jason/porting-of-mobilenetv3-model-and-implementation-of-handwritten-digit-recognition-based-on-okmx8mp-c-23ge)
+- [Building My Invoice App – Added File Attachments Today](https://dev.to/sudarshan_s_hosalli/building-my-invoice-app-added-file-attachments-today-1313)
+- [The 90-Minute Sprint Model: How Deep Work Cycles Transform Developer Output](https://dev.to/teamcamp/the-90-minute-sprint-model-how-deep-work-cycles-transform-developer-output-43f1)
+- [Google Rolls Out Merchant Center for Agencies](https://dev.to/me_bhavesh/google-rolls-out-merchant-center-for-agencies-80h)
+- [My ML Learning Journey: From Confusion to Building a Working Model](https://dev.to/cessamaeeee/my-ml-learning-journey-from-confusion-to-building-a-working-model-235p)
+- [5 Ways to Use AI Art for Standout Online Presence](https://dev.to/anachur/5-ways-to-use-ai-art-for-standout-online-presence-4dbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
