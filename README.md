@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Database Migratable Reports--SPL Reporting](https://dev.to/esproc_spl/cross-database-migratable-reports-spl-reporting-56mi)
+- [Cross-Database Migratable Reports--SPL Reporting](https://dev.to/esproc_spl/cross-database-migratable-reports-spl-reporting-2n2d)
 - [I Enabled Strict Mode In Laravel 12 and My Tests Started Failing Everywhere](https://dev.to/chisonm/i-enabled-strict-mode-in-laravel-12-and-my-tests-started-failing-everywhere-2ekh)
 - [A Second Life for CORBA in MCP 2.0 - An example of AI and humans leveraging their combined potential to create new knowledge](https://dev.to/grimch/a-second-life-for-corba-in-mcp-20-an-example-of-ai-and-humans-leveraging-their-combined-3c64)
 - [Implementing JWT Authentication in Rust with Axum.](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-with-axum-22o1)
-- [How to use pot to set delay function of Arduino?](https://dev.to/carolineee/how-to-use-pot-to-set-delay-function-of-arduino-ol0)
-- [Adapting to Change: Developers’ Transition from Java 21 to 22 in 2025](https://dev.to/vishal_more_02990955c9358/adapting-to-change-developers-transition-from-java-21-to-22-in-2025-2l08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
