@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Pharmacist&#39;s Guide to Becoming a Developer: Skills That Transfer](https://dev.to/henry_messiahtmt_099ca84/the-pharmacists-guide-to-becoming-a-developer-skills-that-transfer-3f1l)
+- [What Is a Sortation Facility? Importance, Process, and Benefits Explained](https://dev.to/pujagothi/what-is-a-sortation-facility-importance-process-and-benefits-explained-235l)
+- [Learn Derived State in React with Listo 🛒✨](https://dev.to/usama_dev/learn-derived-state-in-react-with-listo-2cne)
+- [Day 20: Python Knapsack Problem – Solve 0/1 Optimization with Dynamic Programming](https://dev.to/shahrouzlogs/day-20-python-knapsack-problem-solve-01-optimization-with-dynamic-programming-23ln)
 - [This Week In React #256 : Next.js, directives, TanStack | Navigation, EAS, Expo Modules | ArkType, Biome, Svelte, Hono](https://dev.to/sebastienlorber/this-week-in-react-256-nextjs-directives-tanstack-navigation-eas-expo-modules-arktype-2j62)
-- [🎃 Haunted Manor Tours - An Interactive Horror Experience](https://dev.to/meshvpatel18/haunted-manor-tours-an-interactive-horror-experience-248f)
-- [New Feature Alert: Cost Tracker](https://dev.to/cloudwiseteam/new-feature-alert-cost-tracker-1370)
-- [Returning HTTP 404 Responses Instead of 403 for Unauthorised Access](https://dev.to/ashallendesign/returning-http-404-responses-instead-of-403-for-unauthorised-access-22ba)
-- [PET Scan Price in Delhi – Affordable and Transparent](https://dev.to/molecularit_13f33107d8ad1/pet-scan-price-in-delhi-affordable-and-transparent-2f86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
