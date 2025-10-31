@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Access Your Local Laravel Project on Your Mobile](https://dev.to/aquibj0/how-to-access-your-local-laravel-project-on-your-mobile-1jk7)
+- [Small Language Models &lpar;SLMs&rpar;: When Smaller is Better ⁉](https://dev.to/techstuff/small-language-models-slms-when-smaller-is-better--2mb9)
+- [Is Your &quot;Help&quot; Actually Holding Your Team Back?](https://dev.to/remotly/is-your-help-actually-holding-your-team-back-15d0)
+- [What is Responsible AI?](https://dev.to/shivamchamoli18/what-is-responsible-ai-7he)
 - [Real Device Cloud vs Emulator for Mobile App Testing – What Should You Use?](https://dev.to/misterankit/real-device-cloud-vs-emulator-for-mobile-app-testing-what-should-you-use-l9i)
-- [How Website Architecture Impacts SEO Performance](https://dev.to/tehreem_seorankhive_6c6ea/how-website-architecture-impacts-seo-performance-4ca0)
-- [Caching Systems: A Complete Guide](https://dev.to/ashwani_arya_291e758bf74d/caching-systems-a-complete-guide-4k88)
-- [Quantum-Leaping Collateral: AI-Powered Optimization for the Future of Finance](https://dev.to/arvind_sundararajan/quantum-leaping-collateral-ai-powered-optimization-for-the-future-of-finance-39j5)
-- [⚔️ React vs Angular vs Vue: A Senior Developer’s Honest Take in 2025](https://dev.to/anisubhra_sarkar/react-vs-angular-vs-vue-a-senior-developers-honest-take-in-2025-1chn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
