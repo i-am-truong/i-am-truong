@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4ie7)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4nll)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-17ml)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-35cj)
-- [Differences between ArrayList and LinkedList in Java](https://dev.to/realnamehidden1_61/differences-between-arraylist-and-linkedlist-in-java-37mn)
+- [The logical AND operator &lpar;&amp;&amp;&rpar; in JavaScript vs PHP](https://dev.to/debiprasad/the-logical-and-operator-in-javascript-vs-php-l3p)
+- [A Guide to Integrating with the NetSuite REST API](https://dev.to/apideck/a-guide-to-integrating-with-the-netsuite-rest-api-1fch)
+- [DATEV API Integration: A Comprehensive Technical Guide](https://dev.to/apideck/datev-api-integration-a-comprehensive-technical-guide-24l6)
+- [Bank Feeds API Integration: Why You Can’t Afford to Skip This Feature](https://dev.to/apideck/bank-feeds-api-integration-why-you-cant-afford-to-skip-this-feature-f22)
+- [WordPress Learn Vs FreeCodeCamp In 2025: Two Paths To Coding Education](https://dev.to/pullflow/wordpress-learn-vs-freecodecamp-in-2025-two-paths-to-coding-education-163d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
