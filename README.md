@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [QuizCraft: Test Your Knowledge Right from Your Terminal](https://dev.to/dnafication/quizcraft-test-your-knowledge-right-from-your-terminal-1900)
-- [The Hidden Marketing War Inside Public Schools: Why Playing Marketer Might Be Their Only Lifeline](https://dev.to/paul_allen_ccfde9d33a48d5/the-hidden-marketing-war-inside-public-schools-why-playing-marketer-might-be-their-only-lifeline-1mdl)
-- [Freelancing in 2025: Meaning, Types, and Getting Started](https://dev.to/whoozit_in_82812c2fd22a09/freelancing-in-2025-meaning-types-and-getting-started-3eng)
-- [Rick Beato: Live Tour Update from Norway](https://dev.to/music_youtube/rick-beato-live-tour-update-from-norway-2oho)
-- [Introducing Caelus](https://dev.to/rhannequin/introducing-caelus-569h)
+- [Never Forget a Thing: Building AI Agents with Hybrid Memory Using Strands Agents](https://dev.to/aws/never-forget-a-thing-building-ai-agents-with-hybrid-memory-using-strands-agents-2g66)
+- [Mastering Full-Text Search: Why Tools Like OpenSearch, Elasticsearch, and Meilisearch Matter](https://dev.to/bjthecod3r/mastering-full-text-search-why-tools-like-opensearch-elasticsearch-and-meilisearch-matter-31ao)
+- [Build Your Own Forum with FastAPI: Step 8 - Full Text Search](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-8-full-text-search-4lg8)
+- [The Hidden Power of Batch Background Remover Tools for Content Teams](https://dev.to/arzoo/the-hidden-power-of-batch-background-remover-tools-for-content-teams-ph)
+- [OSpark: Building Event-Driven Streaming Responses with MiroMind&#39;s MiroFlow Foundation](https://dev.to/askpaul/osparkapi-building-event-driven-streaming-responses-with-mirominds-miroflow-foundation-3kfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
