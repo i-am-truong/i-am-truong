@@ -119,11 +119,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When the Market Takes Weekends Off - Devlog Stocksimpy](https://dev.to/suleyman_sade/when-the-market-takes-weekends-off-devlog-stocksimpy-2c2b)
+- [Old course getting some changes
+
+https://www.forbes.com/sites/mikefore/2025/10/31/old-course-at-st-andrews-slated-for-enhancements-prior-to-2027-open/](https://dev.to/ben/old-course-getting-some-changes-4mcj)
 - [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2j95)
 - [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-314f)
 - [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1n67)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-33pg)
-- [Day 1262 : Mind Playing Tricks On Me](https://dev.to/dwane/day-1262-mind-playing-tricks-on-me-2gch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
