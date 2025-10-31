@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Beating LeetCode Like a Game. It Actually Worked.](https://dev.to/trojanmocx/i-tried-beating-leetcode-like-a-game-it-actually-worked-47ke)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-522c)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-44jl)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-5elc)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2o4k)
+- [# ☁️ Creating a Highly Available Environment on AWS &lpar;Multi-AZ Architecture&rpar;](https://dev.to/chioma_nwosu_99d57862fb18/-creating-a-highly-available-environment-on-aws-multi-az-architecture-3ma8)
+- [Boost Your Sales with Shopify Ecommerce Tips](https://dev.to/api_troll/boost-your-sales-with-shopify-ecommerce-tips-3h7b)
+- [Witch&#39;s Potion: A Spooky Halloween Mini-Game Built with Python OOP](https://dev.to/shahrouzlogs/witchs-potion-a-spooky-halloween-mini-game-built-with-python-oop-5090)
+- [Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping](https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8)
+- [I Got Tired of Writing Seed Scripts for Every Project, So I Built quick-seed &lpar;an ORM-Agnostic Seeding Tool&rpar;](https://dev.to/miit_daga_ba63282a40737da/i-got-tired-of-writing-seed-scripts-for-every-project-so-i-built-quick-seed-an-orm-agnostic-3hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
