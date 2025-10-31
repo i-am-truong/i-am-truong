@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wuzen 2025 Analysis: The Android RAT That&#39;s Raising the Bar for Mobile Security Threats](https://dev.to/specdev77/wuzen-2025-analysis-the-android-rat-thats-raising-the-bar-for-mobile-security-threats-1oae)
-- [Top 10 Social Media Scheduler Tools for Short Clips](https://dev.to/gerrit_cole/top-10-social-media-scheduler-tools-for-short-clips-30hn)
-- [Wuzen 2025: The Android RAT That&#39;s Changing the Game - And Why It Matters](https://dev.to/specdev77/wuzen-2025-the-android-rat-thats-changing-the-game-and-why-it-matters-1kkp)
-- [Top 10 Free Online Video Editors with AI Precision](https://dev.to/gerrit_cole/top-10-free-online-video-editors-with-ai-precision-f78)
-- [8 Essential Python Configuration Management Techniques for Scalable Applications](https://dev.to/aaravjoshi/8-essential-python-configuration-management-techniques-for-scalable-applications-3p31)
+- [If We Rewrote SpringBoot from Scratch, What Different Choices Would We Make?](https://dev.to/canonical/if-we-rewrote-springboot-from-scratch-what-different-choices-would-we-make-m07)
+- [Four GIS software programs are adapted to different needs and scenarios](https://dev.to/kketria/four-gis-software-programs-are-adapted-to-different-needs-and-scenarios-2p9g)
+- [Create A Resource Group And A Storage Account In Azure](https://dev.to/cmwokocha/create-a-resource-group-and-a-storage-account-in-azure-4a65)
+- [Building Intelligent AI Agents with Modular Reinforcement Learning](https://dev.to/exploredataaiml/building-intelligent-ai-agents-with-modular-reinforcement-learning-323c)
+- [Data-Driven Development: Leveraging Big Data for Smarter Coding](https://dev.to/softwaredeveloper01/data-driven-development-leveraging-big-data-for-smarter-coding-1a4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
