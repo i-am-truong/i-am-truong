@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 18 of Documentating my learning journey](https://dev.to/james_kabuga/day-18-of-documentating-my-learning-journey-62o)
 - [AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning in 4DScenes](https://dev.to/paperium/adaviewplanner-adapting-video-diffusion-models-for-viewpoint-planning-in-4dscenes-44lh)
 - [I Spent Months Trying to &quot;Revive&quot; Our E2E Tests. Now I&#39;m Building My Own AI Tool.](https://dev.to/aragossa/i-spent-months-trying-to-revive-our-e2e-tests-now-im-building-my-own-ai-tool-57b7)
 - [The End of Creative Blocks: How AI Ad Tools Empower Modern Marketers](https://dev.to/alex_swift1234/the-end-of-creative-blocks-how-ai-ad-tools-empower-modern-marketers-23k1)
 - [Couchbase &quot;Spooktacular Scale&quot; Weekly Updates - October 31, 2025](https://dev.to/couchbase/couchbase-spooktacular-scale-weekly-updates-october-31-2025-g8h)
-- [📝My TODO List &lpar;First post&rpar;](https://dev.to/zerome_1001/my-todo-list-remembering-today-every-day-1ef8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
