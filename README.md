@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Aurora DSQL, una alternativa a PostgreSQL](https://dev.to/kcatucuamba/aurora-dsql-una-alternativa-a-postgresql-4i25)
-- [Contribution Chronicles: My Epic Hacktoberfest 2025 Adventure 🚀](https://dev.to/aniruddhaadak/contribution-chronicles-my-epic-hacktoberfest-2025-adventure-4i5d)
-- [Rouille – Rust Programming, in French](https://dev.to/technoblogger14o3/rouille-rust-programming-in-french-5hmk)
-- [What is switch?](https://dev.to/aj_arul/what-is-switch-oec)
-- [Frontend System Design: Facebook News Feed](https://dev.to/zeeshanali0704/frontend-system-design-facebook-news-feed-li3)
+- [7 Systems to Win High-Paying Clients &lpar;and Keep Them!&rpar;](https://dev.to/remotebranch/7-systems-to-win-high-paying-clients-and-keep-them-3ihm)
+- [[Boost]](https://dev.to/ben/-34g2)
+- [Why index.html? The Unexpected Story Behind the Web&#39;s Most Famous Default File](https://dev.to/varshithvhegde/why-indexhtml-the-unexpected-story-behind-the-webs-most-famous-default-file-34f5)
+- [Headless CMS Integration: Building Flexible, API-Driven Digital Infrastructures](https://dev.to/thetechinsight/headless-cms-integration-building-flexible-api-driven-digital-infrastructures-n67)
+- [We&#39;re Automating Humanity Away &lpar;And Burning the Planet Doing It&rpar;](https://dev.to/carpathianai/were-automating-humanity-away-and-burning-the-planet-doing-it-33fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
