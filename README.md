@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Senior RN Developers in Austin, TX](https://dev.to/potato_potaro/senior-rn-developers-in-austin-tx-1j0o)
-- [Turning 500 Lines of If-Else Into a Config Switch: Strategy Pattern in Go](https://dev.to/aris_georgatos/turning-500-lines-of-if-else-into-a-config-switch-strategy-pattern-in-go-4ebe)
-- [Frontend System Design: What is the Critical Rendering Path &lpar;CRP&rpar;](https://dev.to/zeeshanali0704/frontend-system-design-what-is-the-critical-rendering-path-crp-11bm)
-- [Understanding PyTorch Data Loader: Fundamentals, Features, and Limitations](https://dev.to/kapusto/understanding-pytorch-data-loader-fundamentals-features-and-limitations-4320)
-- [handle text](https://dev.to/query_filter_591122b53770/handle-text-2b6d)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-48l0)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-547e)
+- [Building Privacy-Safe Attribution Pipelines: A Marketer’s Engineering Approach](https://dev.to/saka_satish_661/building-privacy-safe-attribution-pipelines-a-marketers-engineering-approach-578l)
+- [Why DFS Topological Sort Writes Nodes on Backtracking](https://dev.to/haris_abdullah_b8fc481573/why-dfs-topological-sort-writes-nodes-on-backtracking-2p34)
+- [Implementing MQTT 5 in Go: A Deep Dive into Client Design - Part I](https://dev.to/monsieur_thib/implementing-mqtt-5-in-go-a-deep-dive-into-client-design-part-i-24p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
