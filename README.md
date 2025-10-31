@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding OWASP M1 &lpar;2024&rpar;: Improper Credential Usage in React Native/Expo and How to Mitigate It](https://dev.to/jocanola/understanding-owasp-m1-2024-improper-credential-usage-in-react-nativeexpo-and-how-to-mitigate-it-2657)
-- [Modernize Go with golangci-lint v2.6.0](https://dev.to/thevilledev/modernize-go-with-golangci-lint-v260-3e6d)
-- [Why Meta’s 1 GW Solar Move Is the Most Ruthless Power Play In Tech &lpar;And Nobody Gets It&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/why-metas-1-gw-solar-move-is-the-most-ruthless-power-play-in-tech-and-nobody-gets-it-4hpb)
-- [The Developer&#39;s Edge: Why Your Trading Needs a Proper Journal More Than Your Code Needs Logging](https://dev.to/mikecodez/the-developers-edge-why-your-trading-needs-a-proper-journal-more-than-your-code-needs-logging-37kg)
-- [SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://dev.to/paperium/spg-sandwiched-policy-gradient-for-masked-diffusion-language-models-16e8)
+- [I Tried Beating LeetCode Like a Game. It Actually Worked.](https://dev.to/trojanmocx/i-tried-beating-leetcode-like-a-game-it-actually-worked-47ke)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-522c)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-44jl)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-5elc)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2o4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
