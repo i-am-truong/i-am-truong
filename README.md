@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Never Forget a Thing: Building AI Agents with Hybrid Memory Using Strands Agents](https://dev.to/aws/never-forget-a-thing-building-ai-agents-with-hybrid-memory-using-strands-agents-2g66)
-- [Mastering Full-Text Search: Why Tools Like OpenSearch, Elasticsearch, and Meilisearch Matter](https://dev.to/bjthecod3r/mastering-full-text-search-why-tools-like-opensearch-elasticsearch-and-meilisearch-matter-31ao)
-- [Build Your Own Forum with FastAPI: Step 8 - Full Text Search](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-8-full-text-search-4lg8)
-- [The Hidden Power of Batch Background Remover Tools for Content Teams](https://dev.to/arzoo/the-hidden-power-of-batch-background-remover-tools-for-content-teams-ph)
-- [OSpark: Building Event-Driven Streaming Responses with MiroMind&#39;s MiroFlow Foundation](https://dev.to/askpaul/osparkapi-building-event-driven-streaming-responses-with-mirominds-miroflow-foundation-3kfc)
+- [🧊 Coolping — Because Ping Should Be Cool 😎](https://dev.to/edris__ranjbar/coolping-because-ping-should-be-cool-2g49)
+- [The Day Your Vendor Invoices Broke the Bank](https://dev.to/tracksimple/the-day-your-vendor-invoices-broke-the-bank-38nb)
+- [Teen Patti 2.0: 5 Disruptive Tech Trends &lpar;AI, Blockchain, AR/VR&rpar; Changing Card Game Development](https://dev.to/alyssa_healy_cf1d9eb7cdf3/teen-patti-20-5-disruptive-tech-trends-ai-blockchain-arvr-changing-card-game-development-2772)
+- [How to Implement Infinite Scroll and Quick View in Shopify Using AJAX API](https://dev.to/lucy1/how-to-implement-infinite-scroll-and-quick-view-in-shopify-using-ajax-api-4ja5)
+- [Code Your Budget: A 20-Minute Python Script That Categorizes Spending from CSV](https://dev.to/adamcooper/code-your-budget-a-20-minute-python-script-that-categorizes-spending-from-csv-4j9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
