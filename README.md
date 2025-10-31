@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RK3568: New Look](https://dev.to/dongpei_liao_8092a14d7c50/rk3568-new-look-2m4h)
-- [How Data Science Shapes Political Campaigns: Inside Modern Party Strategy](https://dev.to/nomidlseo/how-data-science-shapes-political-campaigns-inside-modern-party-strategy-1l39)
-- [Reflection on my Contribution to Open Source in 2025 Hacktoberfest](https://dev.to/laikokwui/reflection-on-my-contribution-to-open-source-in-2025-hacktoberfest-47bm)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--1hhe)
-- [The Hybrid Thinking](https://dev.to/muzammildev/the-hybrid-thinking-mjo)
+- [Beyond the API: Building a Real-time Depth Chart Tracking System with Web Scraping &amp; AI](https://dev.to/ffteamnames/beyond-the-api-building-a-real-time-depth-chart-tracking-system-with-web-scraping-ai-1lpe)
+- [AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://dev.to/paperium/avocado-an-audiovisual-video-captioner-driven-by-temporal-orchestration-19mn)
+- [How choose which Kubernetes Way is Right for You](https://dev.to/kartik_p/how-choose-which-kubernetes-way-is-right-for-you-1jf9)
+- [Practical Guide: How to Quickly Download Online Images to the Gallery in HarmonyOS](https://dev.to/harmonyos/practical-guide-how-to-quickly-download-online-images-to-the-gallery-in-harmonyos-338a)
+- [Generating a Custom Chakra UI v3 Theme from Design Tokens: A Complete Guide](https://dev.to/kiranmantha/generating-a-custom-chakra-ui-v3-theme-from-design-tokens-a-complete-guide-1085)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
