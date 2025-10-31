@@ -34,38 +34,38 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-763.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-745.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 141.4 kB Used in GitHub's Storage 
+> 📦 142.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,054 Contributions in the Year 2025
+> 🏆 1,057 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                683 commits         ████████░░░░░░░░░░░░░░░░░   30.56 % 
-🌆 Daytime                815 commits         █████████░░░░░░░░░░░░░░░░   36.47 % 
-🌃 Evening                620 commits         ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-🌙 Night                  117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+🌞 Morning                683 commits         ████████░░░░░░░░░░░░░░░░░   30.64 % 
+🌆 Daytime                813 commits         █████████░░░░░░░░░░░░░░░░   36.47 % 
+🌃 Evening                618 commits         ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+🌙 Night                  115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   338 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Wednesday                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Thursday                 451 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Friday                   290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Saturday                 338 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Monday                   337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Wednesday                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Thursday                 451 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Friday                   288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Saturday                 337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Sunday                   223 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -103,7 +103,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2025 17:17:35 UTC
+ Last Updated on 31/10/2025 17:17:56 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-truong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
