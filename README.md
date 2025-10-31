@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily DSA and System Design Journal - 15](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-15-4983)
 - [I Took an 18-Month Break from Dev.to to Master AI — Now I’m Back with Real Projects](https://dev.to/sufian/i-took-an-18-month-break-from-devto-to-master-ai-now-im-back-with-real-projects-4dbk)
 - [How Business Central Users Build Their Own Mobile Apps Without Code](https://dev.to/insight_works/how-business-central-users-build-their-own-mobile-apps-without-code-4ph8)
-- [First Golang project I contributed](https://dev.to/slyang08/first-golang-project-i-contributed-aa1)
-- [RepoPulse – AI-powered GitHub analytics dashboard for your repositories](https://dev.to/madhav_suri_19fee014b4f9b/repopulse-ai-powered-github-analytics-dashboard-for-your-repositories-mj2)
-- [Security news weekly round-up - 31st October 2025](https://dev.to/ziizium/security-news-weekly-round-up-31st-october-2025-1j9j)
+- [The Hidden Cloud Power Play: Why AMG’s Leverage Machine Is Outsmarting Everyone &lpar;And What You’re Still Missing&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-hidden-cloud-power-play-why-amgs-leverage-machine-is-outsmarting-everyone-and-what-youre-8mj)
+- [Boost Your Sales with Shopify Ecommerce Tips](https://dev.to/api_troll/boost-your-sales-with-shopify-ecommerce-tips-haa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
