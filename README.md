@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Tools Are Changing Code Reviews](https://dev.to/najilouis/how-ai-tools-are-changing-code-reviews-3d6m)
-- [Whisper Menu Bar](https://dev.to/0asa/whisper-menu-bar-3fd4)
-- [Azure MCP Server: Intelligent Cloud Management Through Conversational AI](https://dev.to/gioboa/azure-mcp-server-intelligent-cloud-management-through-conversational-ai-3fb3)
-- [Hallowe&#39;en Unicorn](https://dev.to/djchadderton/halloween-unicorn-3pl3)
-- [As we continue to push the boundaries of generative AI, a pr](https://dev.to/drcarlosruizviquez/as-we-continue-to-push-the-boundaries-of-generative-ai-a-pr-305b)
+- [Hacktoberfest 2025](https://dev.to/lowla/hacktoberfest-2025-9fj)
+- [**Breaking Free from Bias: AI Revolution Heats Up!** 🚀 The](https://dev.to/drcarlosruizviquez/breaking-free-from-bias-ai-revolution-heats-up-the-5a4g)
+- [7 AWS Architecture Mistakes That Cost My Enterprise Clients $200K+](https://dev.to/carlosinfantes/7-aws-architecture-mistakes-that-cost-my-enterprise-clients-200k-5b8f)
+- [interpreter? hmm...](https://dev.to/fern_d3v/interpreter-hmm-m3g)
+- [AI is changing the way we review code, it&#39;s faster, smarter, and more consistent. Here’s how tools like Copilot and CodeRabbit are shaping the future of code reviews.](https://dev.to/najilouis/ai-is-changing-the-way-we-review-code-its-faster-smarter-and-more-consistent-heres-how-tools-3j3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
