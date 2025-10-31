@@ -120,12 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Agent&#39;s Hands on AWS: Securing the New Frontier of AI Safety Before It Secures You](https://dev.to/anitha_senthilnathan/the-agents-hands-on-aws-securing-the-new-frontier-of-ai-safety-before-it-secures-you-egb)
-- [The hottest new programming language is English](https://dev.to/marmariadata/the-hottest-new-programming-language-is-english-20n8)
-- [When the Market Takes Weekends Off - Devlog Stocksimpy](https://dev.to/suleyman_sade/when-the-market-takes-weekends-off-devlog-stocksimpy-2c2b)
-- [Old course getting some changes
-
-https://www.forbes.com/sites/mikefore/2025/10/31/old-course-at-st-andrews-slated-for-enhancements-prior-to-2027-open/](https://dev.to/ben/old-course-getting-some-changes-4mcj)
-- [8-Bit Music Theory: Analyzing why people like funk || Marvel vs Capcom 2](https://dev.to/music_youtube/8-bit-music-theory-analyzing-why-people-like-funk-marvel-vs-capcom-2-mcm)
+- [Architectural Sanctums: Crafting Mini-Apps with Rails Engines](https://dev.to/alex_aslam/architectural-sanctums-crafting-mini-apps-with-rails-engines-25dc)
+- [Sculpting Monoliths: The Art of Packaging Rails with Components, Gems, and Engines](https://dev.to/alex_aslam/sculpting-monoliths-the-art-of-packaging-rails-with-components-gems-and-engines-1p93)
+- [Stop Focusing on Bigger AI Models—Here’s The Real Breakthrough Everyone’s Missing About Emotional Intelligence in AI](https://dev.to/paul_allen_ccfde9d33a48d5/stop-focusing-on-bigger-ai-models-heres-the-real-breakthrough-everyones-missing-about-emotional-pnh)
+- [Clarity From Chaos: Super-Resolution That Thrives on Noise](https://dev.to/arvind_sundararajan/clarity-from-chaos-super-resolution-that-thrives-on-noise-50do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
