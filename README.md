@@ -119,9 +119,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Building an Enterprise-Grade Grammar API with AI/ML Integration](https://dev.to/vivekjaiswal/building-an-enterprise-grade-grammar-api-with-aiml-integration-d43)
 - [Understanding Hashing: The Backbone of Data Integrity in Cybersecurity](https://dev.to/ciberconscientes/understanding-hashing-the-backbone-of-data-integrity-in-cybersecurity-2078)
 - [Building an Auto-Logout System for Angular Applications: Securing User Sessions with Inactivity Detection](https://dev.to/sanket00123/building-an-auto-logout-system-for-angular-applications-securing-user-sessions-with-inactivity-1oj)
-- [Model the Cost of Fees: A Simple Compounding Calculator in JavaScript](https://dev.to/luketaylor25/model-the-cost-of-fees-a-simple-compounding-calculator-in-javascript-1o0b)
 - [Microfrontends in Large-Scale Projects: Architecture, Monorepo, and a Unified Backend via OneEntry SDK](https://dev.to/oneentry/microfrontends-in-large-scale-projects-architecture-monorepo-and-a-unified-backend-via-oneentry-2e8o)
 - [The Hidden Cost of Manual Asphalt Bidding &amp; How to Fix It](https://dev.to/commander_erp_cf7c5a13333/the-hidden-cost-of-manual-asphalt-bidding-how-to-fix-it-3kim)
 <!-- BLOG-POST-LIST:END -->
