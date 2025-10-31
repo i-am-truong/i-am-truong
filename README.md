@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #215](https://dev.to/aws/aws-open-source-newsletter-215-46im)
-- [How to Debug Hono Applications with Telescope – Laravel Telescope for Bun &amp; Node.js](https://dev.to/jubstaaa/how-to-debug-hono-applications-with-telescope-laravel-telescope-for-bun-nodejs-3mmb)
-- [When Telegram Cocoon Goes Live: The Future of the AI Internet](https://dev.to/skapi_api/when-telegram-cocoon-goes-live-the-future-of-the-ai-internet-2e67)
-- [Agentic AI vs Generative AI: What’s the Real Difference?](https://dev.to/aziro_tech_8cf3f347e4e95b/agentic-ai-vs-generative-ai-whats-the-real-difference-19l6)
-- [The Complete Guide to Sell-In: Strategy, Process, and Optimization](https://dev.to/syeda_khatija_ce3d1f3f681/the-complete-guide-to-sell-in-strategy-process-and-optimization-35f0)
+- [Rick Beato: Live Tour Update from Norway](https://dev.to/music_youtube/rick-beato-live-tour-update-from-norway-2oho)
+- [Introducing Caelus](https://dev.to/rhannequin/introducing-caelus-569h)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1f4o)
+- [How Does React&#39;s useEffect Really Work?](https://dev.to/ctrix/how-does-reacts-useeffect-really-work-4dph)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2bfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
