@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Join the AI Agents Intensive Course Writing Challenge with Google and Kaggle!](https://dev.to/devteam/join-the-ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-1i46)
+- [CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images](https://dev.to/paperium/codeplot-cot-mathematical-visual-reasoning-by-thinking-with-code-driven-images-4eik)
 - [Lots of momentum this week!](https://dev.to/ben/lots-of-momentum-this-week-10ph)
+- [How I Built an Agentic AI Coach That Turns Garmin Data Into a Training Partner](https://dev.to/leonzzz435/how-i-built-an-agentic-ai-coach-that-turns-garmin-data-into-a-training-partner-364h)
 - [A Senior Developer&#39;s Guide to the Model Context Protocol](https://dev.to/onlineproxy/a-senior-developers-guide-to-the-model-context-protocol-2pfl)
-- [My DevOps Journey: Part 12-Networking Like a Pro: VPC, Subnets &amp; Secure AWS Connectivity](https://dev.to/sheershsinha/my-devops-journey-part-12-networking-like-a-pro-vpc-subnets-secure-aws-connectivity-464m)
-- [# ☁️ Creating a Highly Available Environment on AWS &lpar;Multi-AZ Architecture&rpar;](https://dev.to/chioma_nwosu_99d57862fb18/-creating-a-highly-available-environment-on-aws-multi-az-architecture-3ma8)
-- [Boost Your Sales with Shopify Ecommerce Tips](https://dev.to/api_troll/boost-your-sales-with-shopify-ecommerce-tips-3h7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
