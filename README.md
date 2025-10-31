@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Multi-Currency Checkout in 5 Steps](https://dev.to/flutterwaveeng/how-to-build-a-multi-currency-checkout-in-5-steps-4nnd)
-- [Why you should Include Indian Thali in your Daily meals](https://dev.to/sudama_mistri_2161fc1994c/why-you-should-include-indian-thali-in-your-daily-meals-gcf)
-- [How Telecoms Monetize Security Bundles by Adding Password Managers](https://dev.to/world_cyclopedia_3ee2df42/how-telecoms-monetize-security-bundles-by-adding-password-managers-54j7)
-- [How I Used Product Schema to Improve SEO Visibility for an eCommerce Store](https://dev.to/tomdcws01/how-i-used-product-schema-to-improve-seo-visibility-for-an-ecommerce-store-4jan)
-- [Integrating Airflow, dbt, Postgres and Docker: Building a Modern, Scalable Data Workflow](https://dev.to/shivangi_varshney_4dfe1c5/integrating-airflow-dbt-postgres-and-docker-building-a-modern-scalable-data-workflow-168a)
+- [EIP-7702 Infra Goes Live, Bitget’s Gasless Fees, Base’s Global Finance Vision, Thirdweb’s 4337 Wallets on Hyperliquid](https://dev.to/etherspot/eip-7702-infra-goes-live-bitgets-gasless-fees-bases-global-finance-vision-thirdwebs-4337-ef0)
+- [# 🚀 Introducing `vite-plugin-optimize-videos` — Optimize Your Videos at Build Time](https://dev.to/jaymes/-introducing-vite-plugin-optimize-videos-optimize-your-videos-at-build-time-4jil)
+- [💡Open Source, Open Mind: My Hacktoberfest 2025 Reflection as a First-Time Contributor](https://dev.to/tanvirmulla11/open-source-open-mind-my-hacktoberfest-2025-reflection-as-a-first-time-contributor-5446)
+- [OpenAI&#39;s Browser is here… and 7 more things that shipped this week](https://dev.to/fabianfrankwerner/openais-browser-is-here-and-7-more-things-that-shipped-this-week-p2c)
+- [🗂️ Wallet-as-a-Service: Why Building Your Own Wallet Is So 2025](https://dev.to/tanelith/wallet-as-a-service-why-building-your-own-wallet-is-so-2025-3fp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
