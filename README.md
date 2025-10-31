@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Used Product Schema to Improve SEO Visibility for an eCommerce Store](https://dev.to/tomdcws01/how-i-used-product-schema-to-improve-seo-visibility-for-an-ecommerce-store-4jan)
+- [Integrating Airflow, dbt, Postgres and Docker: Building a Modern, Scalable Data Workflow](https://dev.to/shivangi_varshney_4dfe1c5/integrating-airflow-dbt-postgres-and-docker-building-a-modern-scalable-data-workflow-168a)
+- [Digital GGPlay88 dan Negative Nimbus](https://dev.to/ggplay88/digital-ggplay88-dan-negative-nimbus-55m3)
 - [🧠 Building an Enterprise-Grade Grammar API with AI/ML Integration](https://dev.to/vivekjaiswal/building-an-enterprise-grade-grammar-api-with-aiml-integration-d43)
 - [Understanding Hashing: The Backbone of Data Integrity in Cybersecurity](https://dev.to/ciberconscientes/understanding-hashing-the-backbone-of-data-integrity-in-cybersecurity-2078)
-- [Building an Auto-Logout System for Angular Applications: Securing User Sessions with Inactivity Detection](https://dev.to/sanket00123/building-an-auto-logout-system-for-angular-applications-securing-user-sessions-with-inactivity-1oj)
-- [Microfrontends in Large-Scale Projects: Architecture, Monorepo, and a Unified Backend via OneEntry SDK](https://dev.to/oneentry/microfrontends-in-large-scale-projects-architecture-monorepo-and-a-unified-backend-via-oneentry-2e8o)
-- [The Hidden Cost of Manual Asphalt Bidding &amp; How to Fix It](https://dev.to/commander_erp_cf7c5a13333/the-hidden-cost-of-manual-asphalt-bidding-how-to-fix-it-3kim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
