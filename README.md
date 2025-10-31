@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First Golang project I contributed](https://dev.to/slyang08/first-golang-project-i-contributed-aa1)
+- [RepoPulse – AI-powered GitHub analytics dashboard for your repositories](https://dev.to/madhav_suri_19fee014b4f9b/repopulse-ai-powered-github-analytics-dashboard-for-your-repositories-mj2)
+- [Security news weekly round-up - 31st October 2025](https://dev.to/ziizium/security-news-weekly-round-up-31st-october-2025-1j9j)
+- [Beyond the Hype: The Hidden Economics of AI Inference](https://dev.to/arvind_sundararajan/beyond-the-hype-the-hidden-economics-of-ai-inference-1j2a)
 - [Registrars, Name Servers, and DNS Records: How They All Work Together to Serve Your Page](https://dev.to/rijultp/registrars-name-servers-and-dns-records-how-they-all-work-together-to-serve-your-page-5hdo)
-- [From YAML to Glory: Mastering Infrastructure as Code 🎯](https://dev.to/tavernetech/from-yaml-to-glory-mastering-infrastructure-as-code-3eob)
-- [**Caution: Synthetic Data Oversight - Overfitting to Noise**](https://dev.to/drcarlosruizviquez/caution-synthetic-data-oversight-overfitting-to-noise-2m0b)
-- [First contribution in hacktoberfest](https://dev.to/slyang08/first-contribution-in-hacktoberfest-5eh7)
-- [Join the AI Agents Intensive Course Writing Challenge with Google and Kaggle!](https://dev.to/devteam/join-the-ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-1i46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
