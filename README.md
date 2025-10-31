@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding OWASP M1 &lpar;2024&rpar;: Improper Credential Usage in React Native/Expo and How to Mitigate It](https://dev.to/jocanola/understanding-owasp-m1-2024-improper-credential-usage-in-react-nativeexpo-and-how-to-mitigate-it-2657)
 - [Modernize Go with golangci-lint v2.6.0](https://dev.to/thevilledev/modernize-go-with-golangci-lint-v260-3e6d)
 - [Why Meta’s 1 GW Solar Move Is the Most Ruthless Power Play In Tech &lpar;And Nobody Gets It&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/why-metas-1-gw-solar-move-is-the-most-ruthless-power-play-in-tech-and-nobody-gets-it-4hpb)
 - [The Developer&#39;s Edge: Why Your Trading Needs a Proper Journal More Than Your Code Needs Logging](https://dev.to/mikecodez/the-developers-edge-why-your-trading-needs-a-proper-journal-more-than-your-code-needs-logging-37kg)
 - [SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://dev.to/paperium/spg-sandwiched-policy-gradient-for-masked-diffusion-language-models-16e8)
-- [Java 25: Top 3 Features That Redefine Performance, Startup, and Efficiency](https://dev.to/yanev/java-25-top-3-features-that-redefine-performance-startup-and-efficiency-2il9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
