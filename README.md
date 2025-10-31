@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧊 Coolping — Because Ping Should Be Cool 😎](https://dev.to/edris__ranjbar/coolping-because-ping-should-be-cool-2g49)
-- [The Day Your Vendor Invoices Broke the Bank](https://dev.to/tracksimple/the-day-your-vendor-invoices-broke-the-bank-38nb)
-- [Teen Patti 2.0: 5 Disruptive Tech Trends &lpar;AI, Blockchain, AR/VR&rpar; Changing Card Game Development](https://dev.to/alyssa_healy_cf1d9eb7cdf3/teen-patti-20-5-disruptive-tech-trends-ai-blockchain-arvr-changing-card-game-development-2772)
-- [How to Implement Infinite Scroll and Quick View in Shopify Using AJAX API](https://dev.to/lucy1/how-to-implement-infinite-scroll-and-quick-view-in-shopify-using-ajax-api-4ja5)
-- [Code Your Budget: A 20-Minute Python Script That Categorizes Spending from CSV](https://dev.to/adamcooper/code-your-budget-a-20-minute-python-script-that-categorizes-spending-from-csv-4j9b)
+- [Understanding Hashing: The Backbone of Data Integrity in Cybersecurity](https://dev.to/ciberconscientes/understanding-hashing-the-backbone-of-data-integrity-in-cybersecurity-2078)
+- [Building an Auto-Logout System for Angular Applications: Securing User Sessions with Inactivity Detection](https://dev.to/sanket00123/building-an-auto-logout-system-for-angular-applications-securing-user-sessions-with-inactivity-1oj)
+- [Model the Cost of Fees: A Simple Compounding Calculator in JavaScript](https://dev.to/luketaylor25/model-the-cost-of-fees-a-simple-compounding-calculator-in-javascript-1o0b)
+- [Microfrontends in Large-Scale Projects: Architecture, Monorepo, and a Unified Backend via OneEntry SDK](https://dev.to/oneentry/microfrontends-in-large-scale-projects-architecture-monorepo-and-a-unified-backend-via-oneentry-2e8o)
+- [The Hidden Cost of Manual Asphalt Bidding &amp; How to Fix It](https://dev.to/commander_erp_cf7c5a13333/the-hidden-cost-of-manual-asphalt-bidding-how-to-fix-it-3kim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
