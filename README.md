@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My hactoberfest this year](https://dev.to/mannu/my-hactoberfest-this-year-3fii)
+- [Realm: The Dev Environment That Eliminates Terminal Chaos](https://dev.to/wess/realm-the-dev-environment-that-eliminates-terminal-chaos-2c8b)
 - [Pixel-Perfect Designs versus AI](https://dev.to/rfornal/pixel-perfect-designs-versus-ai-278h)
 - [How Wavenet’s Cloud Infrastructure Powers E-Learning in Latin America](https://dev.to/rghigliazza/how-wavenets-cloud-infrastructure-powers-e-learning-in-latin-america-37mk)
 - [Check out what we are currently building to help the community to easily adopt platform engineering](https://dev.to/fredlight/check-out-what-we-are-currently-building-to-help-the-community-to-easily-adopt-platform-engineering-fld)
-- [Start Speaking AI: Easy Explanations for 15 Common Terms](https://dev.to/rupesh_gupta_31e0789dd334/start-speaking-ai-easy-explanations-for-15-common-terms-2d2i)
-- [7 Systems to Win High-Paying Clients &lpar;and Keep Them!&rpar;](https://dev.to/remotebranch/7-systems-to-win-high-paying-clients-and-keep-them-3ihm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
