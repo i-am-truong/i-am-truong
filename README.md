@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aurora DSQL, una alternativa a PostgreSQL](https://dev.to/kcatucuamba/aurora-dsql-una-alternativa-a-postgresql-4i25)
+- [Contribution Chronicles: My Epic Hacktoberfest 2025 Adventure 🚀](https://dev.to/aniruddhaadak/contribution-chronicles-my-epic-hacktoberfest-2025-adventure-4i5d)
+- [Rouille – Rust Programming, in French](https://dev.to/technoblogger14o3/rouille-rust-programming-in-french-5hmk)
+- [What is switch?](https://dev.to/aj_arul/what-is-switch-oec)
 - [Frontend System Design: Facebook News Feed](https://dev.to/zeeshanali0704/frontend-system-design-facebook-news-feed-li3)
-- [Open Source Reflections: My Hacktoberfest 2025 Journey](https://dev.to/aniruddhaadak/open-source-reflections-my-hacktoberfest-2025-journey-3nk4)
-- [The Strategic Role of MSPs in Cybersecurity: What Developers and Tech Leads Should Know in 2025](https://dev.to/donald1981/the-strategic-role-of-msps-in-cybersecurity-what-developers-and-tech-leads-should-know-in-2025-2g84)
-- [The logical AND operator &lpar;&amp;&amp;&rpar; in JavaScript vs PHP](https://dev.to/debiprasad/the-logical-and-operator-in-javascript-vs-php-l3p)
-- [A Guide to Integrating with the NetSuite REST API](https://dev.to/apideck/a-guide-to-integrating-with-the-netsuite-rest-api-1fch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
