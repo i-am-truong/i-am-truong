@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How the Linux Kernel Expands Its List of Display Vendors](https://dev.to/jasonliu112/how-the-linux-kernel-expands-its-list-of-display-vendors-31e1)
-- [Understanding Primary Keys in Relational Databases: A Key to Data Integrity and Fast Lookups](https://dev.to/pdobadb/understanding-primary-keys-in-relational-databases-a-key-to-data-integrity-and-fast-lookups-2cka)
-- [Managing Goose Configurations Across Multiple Projects: A Practical Guide](https://dev.to/vietbui1999ru/managing-goose-configurations-across-multiple-projects-a-practical-guide-48ei)
-- [External Request Monitoring in APM | Track External Calls](https://dev.to/olivia_madison_b0ad7090ad/external-request-monitoring-in-apm-track-external-calls-9j0)
-- [Upgrading Rails Soon? Here’s What to Watch Out For &lpar;and a Free Checklist to Help You Prepare&rpar;](https://dev.to/railsfactory_sedin/upgrading-rails-soon-heres-what-to-watch-out-for-and-a-free-checklist-to-help-you-prepare-1k0c)
+- [Bringing 3d-blockstack to Life](https://dev.to/maitrivv/bringing-3d-blockstack-to-life-4ba4)
+- [Check out the guide on - The Key to Faster, Smarter, and Scalable Analytics](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-the-key-to-faster-smarter-and-scalable-analytics-1n25)
+- [React 19.2: Setting A New Benchmark for Enterprise Web Applications](https://dev.to/paloma_kingsley_8f28c45cb/react-192-setting-a-new-benchmark-for-enterprise-web-applications-2m8k)
+- [How to Convert Excel to PDF with Python](https://dev.to/codingco/how-to-convert-excel-to-pdf-with-python-3b33)
+- [Goodbye FormArray. Hello Signal Forms.](https://dev.to/brianmtreese/goodbye-formarray-hello-signal-forms-2haa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
