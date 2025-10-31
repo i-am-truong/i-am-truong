@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [If We Rewrote SpringBoot from Scratch, What Different Choices Would We Make?](https://dev.to/canonical/if-we-rewrote-springboot-from-scratch-what-different-choices-would-we-make-m07)
-- [Four GIS software programs are adapted to different needs and scenarios](https://dev.to/kketria/four-gis-software-programs-are-adapted-to-different-needs-and-scenarios-2p9g)
-- [Create A Resource Group And A Storage Account In Azure](https://dev.to/cmwokocha/create-a-resource-group-and-a-storage-account-in-azure-4a65)
-- [Building Intelligent AI Agents with Modular Reinforcement Learning](https://dev.to/exploredataaiml/building-intelligent-ai-agents-with-modular-reinforcement-learning-323c)
-- [Data-Driven Development: Leveraging Big Data for Smarter Coding](https://dev.to/softwaredeveloper01/data-driven-development-leveraging-big-data-for-smarter-coding-1a4n)
+- [RK3568: New Look](https://dev.to/dongpei_liao_8092a14d7c50/rk3568-new-look-2m4h)
+- [How Data Science Shapes Political Campaigns: Inside Modern Party Strategy](https://dev.to/nomidlseo/how-data-science-shapes-political-campaigns-inside-modern-party-strategy-1l39)
+- [Reflection on my Contribution to Open Source in 2025 Hacktoberfest](https://dev.to/laikokwui/reflection-on-my-contribution-to-open-source-in-2025-hacktoberfest-47bm)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--1hhe)
+- [The Hybrid Thinking](https://dev.to/muzammildev/the-hybrid-thinking-mjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
