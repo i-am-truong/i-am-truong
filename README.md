@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tips and Tricks for Creating a Good Login Page Design](https://dev.to/lollypopdesign/tips-and-tricks-for-creating-a-good-login-page-design-dcd)
-- [如何用代理登录 Facebook、Twitter](https://dev.to/lopezjessicancmxe_e881660/ru-he-yong-dai-li-deng-lu-facebook-twitter-2p9o)
-- [Building AI-Powered APIs in Minutes, Not Months](https://dev.to/mabualzait/building-ai-powered-apis-in-minutes-not-months-3fi7)
-- [安全下载种子资源的代理策略](https://dev.to/lopezjessicancmxe_e881660/an-quan-xia-zai-chong-zi-zi-yuan-de-dai-li-ce-lue-4pbn)
-- [The 4 Main Elements of Workload Planning: Time, Talent, Tools, and Timing](https://dev.to/taskford/the-4-main-elements-of-workload-planning-time-talent-tools-and-timing-5c2l)
+- [How Website Architecture Impacts SEO Performance](https://dev.to/tehreem_seorankhive_6c6ea/how-website-architecture-impacts-seo-performance-4ca0)
+- [Caching Systems: A Complete Guide](https://dev.to/ashwani_arya_291e758bf74d/caching-systems-a-complete-guide-4k88)
+- [Quantum-Leaping Collateral: AI-Powered Optimization for the Future of Finance](https://dev.to/arvind_sundararajan/quantum-leaping-collateral-ai-powered-optimization-for-the-future-of-finance-39j5)
+- [⚔️ React vs Angular vs Vue: A Senior Developer’s Honest Take in 2025](https://dev.to/anisubhra_sarkar/react-vs-angular-vs-vue-a-senior-developers-honest-take-in-2025-1chn)
+- [Cheaters Beware: Students&#39; AI-Powered Mea Culpa Raises Questions About Accoun...](https://dev.to/mabualzait/cheaters-beware-students-ai-powered-mea-culpa-raises-questions-about-accoun-1gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
