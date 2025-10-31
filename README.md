@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Access Your Local Laravel Project on Your Mobile](https://dev.to/aquibj0/how-to-access-your-local-laravel-project-on-your-mobile-1jk7)
-- [Small Language Models &lpar;SLMs&rpar;: When Smaller is Better ⁉](https://dev.to/techstuff/small-language-models-slms-when-smaller-is-better--2mb9)
 - [Is Your &quot;Help&quot; Actually Holding Your Team Back?](https://dev.to/remotly/is-your-help-actually-holding-your-team-back-15d0)
 - [What is Responsible AI?](https://dev.to/shivamchamoli18/what-is-responsible-ai-7he)
-- [Real Device Cloud vs Emulator for Mobile App Testing – What Should You Use?](https://dev.to/misterankit/real-device-cloud-vs-emulator-for-mobile-app-testing-what-should-you-use-l9i)
+- [Build Native Bottom Sheets with Pure Web Bottom Sheet Library](https://dev.to/jqueryscript/build-native-bottom-sheets-with-pure-web-bottom-sheet-library-1egg)
+- [Porting of MobileNetV3 Model and Implementation of Handwritten Digit Recognition Based on OKMX8MP-C &lpar;Linux 5.4.70&rpar;](https://dev.to/forlinx_jason/porting-of-mobilenetv3-model-and-implementation-of-handwritten-digit-recognition-based-on-okmx8mp-c-23ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
