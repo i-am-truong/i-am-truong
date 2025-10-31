@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Check this Xlorin AI 🤖](https://dev.to/we-the-developers/check-this-xlorin-ai-1pck)
-- [Modern C# Development: Target-Typed `new`](https://dev.to/lovelacecoding/modern-c-development-target-typed-new-468k)
-- [🎃 10 Scary Lines of Code I Wish I Never Wrote 💀](https://dev.to/sylwia-lask/10-scary-lines-of-code-i-wish-i-never-wrote-4h47)
-- [🧠 Learn Flexbox the Fun Way — Flexbox Zombies](https://dev.to/ml318097/learn-flexbox-the-fun-way-flexbox-zombies-5l3)
-- [Hacktoberfest Contribution: Hiero SDK Python](https://dev.to/cynthia_f/hacktoberfest-contribution-hiero-sdk-python-2cg6)
+- [This Week In React #256 : Next.js, directives, TanStack | Navigation, EAS, Expo Modules | ArkType, Biome, Svelte, Hono](https://dev.to/sebastienlorber/this-week-in-react-256-nextjs-directives-tanstack-navigation-eas-expo-modules-arktype-2j62)
+- [🎃 Haunted Manor Tours - An Interactive Horror Experience](https://dev.to/meshvpatel18/haunted-manor-tours-an-interactive-horror-experience-248f)
+- [New Feature Alert: Cost Tracker](https://dev.to/cloudwiseteam/new-feature-alert-cost-tracker-1370)
+- [Returning HTTP 404 Responses Instead of 403 for Unauthorised Access](https://dev.to/ashallendesign/returning-http-404-responses-instead-of-403-for-unauthorised-access-22ba)
+- [PET Scan Price in Delhi – Affordable and Transparent](https://dev.to/molecularit_13f33107d8ad1/pet-scan-price-in-delhi-affordable-and-transparent-2f86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
