@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My hactoberfest this year](https://dev.to/mannu/my-hactoberfest-this-year-3fii)
-- [Realm: The Dev Environment That Eliminates Terminal Chaos](https://dev.to/wess/realm-the-dev-environment-that-eliminates-terminal-chaos-2c8b)
-- [Pixel-Perfect Designs versus AI](https://dev.to/rfornal/pixel-perfect-designs-versus-ai-278h)
-- [How Wavenet’s Cloud Infrastructure Powers E-Learning in Latin America](https://dev.to/rghigliazza/how-wavenets-cloud-infrastructure-powers-e-learning-in-latin-america-37mk)
-- [Check out what we are currently building to help the community to easily adopt platform engineering](https://dev.to/fredlight/check-out-what-we-are-currently-building-to-help-the-community-to-easily-adopt-platform-engineering-fld)
+- [The future of healthcare is undergoing a paradigm shift, dri](https://dev.to/drcarlosruizviquez/the-future-of-healthcare-is-undergoing-a-paradigm-shift-dri-293b)
+- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-da8)
+- [🌳 Mastering Data Structures in Java — Part 8: TreeMap](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-8-treemap-1mb)
+- [Drowning in AI Code Review Noise? A Framework to Measure Signal vs. Noise](https://dev.to/jet_xu/drowning-in-ai-code-review-noise-a-framework-to-measure-signal-vs-noise-304e)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1n08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
