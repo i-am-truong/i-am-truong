@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EIP-7702 Infra Goes Live, Bitget’s Gasless Fees, Base’s Global Finance Vision, Thirdweb’s 4337 Wallets on Hyperliquid](https://dev.to/etherspot/eip-7702-infra-goes-live-bitgets-gasless-fees-bases-global-finance-vision-thirdwebs-4337-ef0)
-- [# 🚀 Introducing `vite-plugin-optimize-videos` — Optimize Your Videos at Build Time](https://dev.to/jaymes/-introducing-vite-plugin-optimize-videos-optimize-your-videos-at-build-time-4jil)
-- [💡Open Source, Open Mind: My Hacktoberfest 2025 Reflection as a First-Time Contributor](https://dev.to/tanvirmulla11/open-source-open-mind-my-hacktoberfest-2025-reflection-as-a-first-time-contributor-5446)
-- [OpenAI&#39;s Browser is here… and 7 more things that shipped this week](https://dev.to/fabianfrankwerner/openais-browser-is-here-and-7-more-things-that-shipped-this-week-p2c)
-- [🗂️ Wallet-as-a-Service: Why Building Your Own Wallet Is So 2025](https://dev.to/tanelith/wallet-as-a-service-why-building-your-own-wallet-is-so-2025-3fp1)
+- [Check this Xlorin AI 🤖](https://dev.to/we-the-developers/check-this-xlorin-ai-1pck)
+- [Modern C# Development: Target-Typed `new`](https://dev.to/lovelacecoding/modern-c-development-target-typed-new-468k)
+- [🎃 10 Scary Lines of Code I Wish I Never Wrote 💀](https://dev.to/sylwia-lask/10-scary-lines-of-code-i-wish-i-never-wrote-4h47)
+- [🧠 Learn Flexbox the Fun Way — Flexbox Zombies](https://dev.to/ml318097/learn-flexbox-the-fun-way-flexbox-zombies-5l3)
+- [Hacktoberfest Contribution: Hiero SDK Python](https://dev.to/cynthia_f/hacktoberfest-contribution-hiero-sdk-python-2cg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
