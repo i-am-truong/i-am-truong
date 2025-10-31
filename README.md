@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modernize Go with golangci-lint v2.6.0](https://dev.to/thevilledev/modernize-go-with-golangci-lint-v260-3e6d)
+- [Why Meta’s 1 GW Solar Move Is the Most Ruthless Power Play In Tech &lpar;And Nobody Gets It&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/why-metas-1-gw-solar-move-is-the-most-ruthless-power-play-in-tech-and-nobody-gets-it-4hpb)
+- [The Developer&#39;s Edge: Why Your Trading Needs a Proper Journal More Than Your Code Needs Logging](https://dev.to/mikecodez/the-developers-edge-why-your-trading-needs-a-proper-journal-more-than-your-code-needs-logging-37kg)
+- [SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://dev.to/paperium/spg-sandwiched-policy-gradient-for-masked-diffusion-language-models-16e8)
 - [Java 25: Top 3 Features That Redefine Performance, Startup, and Efficiency](https://dev.to/yanev/java-25-top-3-features-that-redefine-performance-startup-and-efficiency-2il9)
-- [Your first django PR - from scratch to improved patch](https://dev.to/annalauraw/your-first-django-pr-from-scratch-to-improved-patch-5b2f)
-- [ROS2 Publisher Node.](https://dev.to/naguballa77/ros2-publisher-node-4758)
-- [How to Stop Time from Expanding: The Real Lesson Behind Parkinson’s Law &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-to-stop-time-from-expanding-the-real-lesson-behind-parkinsons-law-bite-size-article-51l4)
-- [Battle Scars from the Cloud Front](https://dev.to/cheetah100/battle-scars-from-the-cloud-front-34g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
