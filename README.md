@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 3-Step System to Learn Any Framework Fast](https://dev.to/rohit_gavali_0c2ad84fe4e0/the-3-step-system-to-learn-any-framework-fast-3o8h)
+- [Imaging having The Witcher on your dev team...](https://dev.to/ajparadith/imaging-having-the-witcher-on-your-dev-team-30p1)
+- [Why Choosing the Right Front End Framework Is a Community Decision, Not Just a Technical One](https://dev.to/thetechinsight/why-choosing-the-right-front-end-framework-is-a-community-decision-not-just-a-technical-one-2kk4)
+- [Hacktoberfest PR: A Tiny Code Change](https://dev.to/aubreyddd/hacktoberfest-pr-a-tiny-code-change-5165)
 - [The Hidden Cost of Bad Caching: Why More Cache Isn&#39;t Always Better](https://dev.to/sizan_mahmud0_e7c3fd0cb68/the-hidden-cost-of-bad-caching-why-more-cache-isnt-always-better-466b)
-- [A Beginner’s Guide to Getting Started with add_messages Reducer in LangGraph](https://dev.to/damilola_oyedunmade/a-beginners-guide-to-getting-started-with-addmessages-reducer-in-langgraph-4gk0)
-- [Mastering Variables and Environments in Requestly: A Hands-On Guide](https://dev.to/shubham_saini_0d5f038957c/mastering-variables-and-environments-in-requestly-a-hands-on-guide-n32)
-- [Error Handling in Rust: From Panic to anyhow and thiserror](https://dev.to/iolivia/error-handling-in-rust-from-panic-to-anyhow-and-thiserror-2km7)
-- [Hacktoberfest Contribution: Feature implement in make-it-oss](https://dev.to/aubreyddd/hacktoberfest-contribution-feature-implement-in-make-it-oss-3dco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
