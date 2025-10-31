@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend System Design: Facebook News Feed](https://dev.to/zeeshanali0704/frontend-system-design-facebook-news-feed-li3)
+- [Open Source Reflections: My Hacktoberfest 2025 Journey](https://dev.to/aniruddhaadak/open-source-reflections-my-hacktoberfest-2025-journey-3nk4)
+- [The Strategic Role of MSPs in Cybersecurity: What Developers and Tech Leads Should Know in 2025](https://dev.to/donald1981/the-strategic-role-of-msps-in-cybersecurity-what-developers-and-tech-leads-should-know-in-2025-2g84)
 - [The logical AND operator &lpar;&amp;&amp;&rpar; in JavaScript vs PHP](https://dev.to/debiprasad/the-logical-and-operator-in-javascript-vs-php-l3p)
 - [A Guide to Integrating with the NetSuite REST API](https://dev.to/apideck/a-guide-to-integrating-with-the-netsuite-rest-api-1fch)
-- [DATEV API Integration: A Comprehensive Technical Guide](https://dev.to/apideck/datev-api-integration-a-comprehensive-technical-guide-24l6)
-- [Bank Feeds API Integration: Why You Can’t Afford to Skip This Feature](https://dev.to/apideck/bank-feeds-api-integration-why-you-cant-afford-to-skip-this-feature-f22)
-- [WordPress Learn Vs FreeCodeCamp In 2025: Two Paths To Coding Education](https://dev.to/pullflow/wordpress-learn-vs-freecodecamp-in-2025-two-paths-to-coding-education-163d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
