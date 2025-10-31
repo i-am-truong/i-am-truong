@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building My Invoice App – Added File Attachments Today](https://dev.to/sudarshan_s_hosalli/building-my-invoice-app-added-file-attachments-today-1313)
-- [The 90-Minute Sprint Model: How Deep Work Cycles Transform Developer Output](https://dev.to/teamcamp/the-90-minute-sprint-model-how-deep-work-cycles-transform-developer-output-43f1)
-- [Google Rolls Out Merchant Center for Agencies](https://dev.to/me_bhavesh/google-rolls-out-merchant-center-for-agencies-80h)
-- [My ML Learning Journey: From Confusion to Building a Working Model](https://dev.to/cessamaeeee/my-ml-learning-journey-from-confusion-to-building-a-working-model-235p)
-- [5 Ways to Use AI Art for Standout Online Presence](https://dev.to/anachur/5-ways-to-use-ai-art-for-standout-online-presence-4dbd)
+- [Upgrading Rails Soon? Here’s What to Watch Out For &lpar;and a Free Checklist to Help You Prepare&rpar;](https://dev.to/railsfactory_sedin/upgrading-rails-soon-heres-what-to-watch-out-for-and-a-free-checklist-to-help-you-prepare-1k0c)
+- [Check out the guide on -Decoding the Language of Data: A Comprehensive Guide to Text Mining in R and Python](https://dev.to/thedatageek/check-out-the-guide-on-decoding-the-language-of-data-a-comprehensive-guide-to-text-mining-in-r-2kha)
+- [Decoding the Language of Data: A Comprehensive Guide to Text Mining in R and Python](https://dev.to/thedatageek/decoding-the-language-of-data-a-comprehensive-guide-to-text-mining-in-r-and-python-41pl)
+- [🌌 Meet Xlorin — The AI That Thinks Like You &lpar;Only Faster&rpar;](https://dev.to/we-the-developers/meet-xlorin-the-ai-that-thinks-like-you-only-faster-4l2h)
+- [Kvart Timer: From Idea to App Store in 2 days](https://dev.to/valeriavg/kvart-timer-from-idea-to-app-store-in-2-days-2c09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
