@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [如何用代理登录 Facebook、Twitter](https://dev.to/lopezjessicancmxe_e881660/ru-he-yong-dai-li-deng-lu-facebook-twitter-2p9o)
 - [Building AI-Powered APIs in Minutes, Not Months](https://dev.to/mabualzait/building-ai-powered-apis-in-minutes-not-months-3fi7)
 - [安全下载种子资源的代理策略](https://dev.to/lopezjessicancmxe_e881660/an-quan-xia-zai-chong-zi-zi-yuan-de-dai-li-ce-lue-4pbn)
-- [If I had to name one combination that transformed how I build, write, and automate — it’s ChatGPT + GitHub. Together, they’ve become my personal AI-powered development ecosystem!](https://dev.to/jaideepparashar/if-i-had-to-name-one-combination-that-transformed-how-i-build-write-and-automate-its-chatgpt--59m4)
+- [The 4 Main Elements of Workload Planning: Time, Talent, Tools, and Timing](https://dev.to/taskford/the-4-main-elements-of-workload-planning-time-talent-tools-and-timing-5c2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
