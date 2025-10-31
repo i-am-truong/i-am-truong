@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Address issues and PRs with AI properly](https://dev.to/gusztavvargadr/address-issues-and-prs-with-ai-properly-3gm3)
+- [Why Your Docker Ubuntu Container Exits Immediately &lpar;and How to Fix It&rpar;🐳](https://dev.to/chaitanyarai3/why-your-docker-ubuntu-container-exits-immediately-and-how-to-fix-it-iim)
 - [Bringing 3d-blockstack to Life](https://dev.to/maitrivv/bringing-3d-blockstack-to-life-4ba4)
 - [Check out the guide on - The Key to Faster, Smarter, and Scalable Analytics](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-the-key-to-faster-smarter-and-scalable-analytics-1n25)
 - [React 19.2: Setting A New Benchmark for Enterprise Web Applications](https://dev.to/paloma_kingsley_8f28c45cb/react-192-setting-a-new-benchmark-for-enterprise-web-applications-2m8k)
-- [How to Convert Excel to PDF with Python](https://dev.to/codingco/how-to-convert-excel-to-pdf-with-python-3b33)
-- [Goodbye FormArray. Hello Signal Forms.](https://dev.to/brianmtreese/goodbye-formarray-hello-signal-forms-2haa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
