@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Registrars, Name Servers, and DNS Records: How They All Work Together to Serve Your Page](https://dev.to/rijultp/registrars-name-servers-and-dns-records-how-they-all-work-together-to-serve-your-page-5hdo)
+- [From YAML to Glory: Mastering Infrastructure as Code 🎯](https://dev.to/tavernetech/from-yaml-to-glory-mastering-infrastructure-as-code-3eob)
+- [**Caution: Synthetic Data Oversight - Overfitting to Noise**](https://dev.to/drcarlosruizviquez/caution-synthetic-data-oversight-overfitting-to-noise-2m0b)
+- [First contribution in hacktoberfest](https://dev.to/slyang08/first-contribution-in-hacktoberfest-5eh7)
 - [Join the AI Agents Intensive Course Writing Challenge with Google and Kaggle!](https://dev.to/devteam/join-the-ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-1i46)
-- [CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images](https://dev.to/paperium/codeplot-cot-mathematical-visual-reasoning-by-thinking-with-code-driven-images-4eik)
-- [Lots of momentum this week!](https://dev.to/ben/lots-of-momentum-this-week-10ph)
-- [How I Built an Agentic AI Coach That Turns Garmin Data Into a Training Partner](https://dev.to/leonzzz435/how-i-built-an-agentic-ai-coach-that-turns-garmin-data-into-a-training-partner-364h)
-- [A Senior Developer&#39;s Guide to the Model Context Protocol](https://dev.to/onlineproxy/a-senior-developers-guide-to-the-model-context-protocol-2pfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
