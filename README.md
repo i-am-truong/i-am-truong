@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Shopify App with the New Shopify Dev Platform — What’s Changed &amp; How to Get Started](https://dev.to/pixel_mosaic/building-a-shopify-app-with-the-new-shopify-dev-platform-whats-changed-how-to-get-started-14go)
-- [Fix ERR SSL Protocol Error: 13 Quick Solutions That Work](https://dev.to/serveravatar/fix-err-ssl-protocol-error-13-quick-solutions-that-work-3eoi)
-- [How to use Gmail MCP with OpenAI Agent Builder ✉️ 🚀](https://dev.to/composiodev/how-to-use-gmail-mcp-with-openai-agent-builder-137e)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-p12)
-- [Address issues and PRs with AI properly](https://dev.to/gusztavvargadr/address-issues-and-prs-with-ai-properly-3gm3)
+- [How to Find and Fix Broken Links: The Complete Guide 2025](https://dev.to/paul_molyanov/how-to-find-and-fix-broken-links-the-complete-guide-2025-591p)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-495g)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-g4h)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3360)
+- [Free Developer Growth Masterclass &lpar;Yes, Really!&rpar;](https://dev.to/tlorent/free-developer-growth-masterclass-yes-really-4ehk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
