@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Multi-Currency Checkout in 5 Steps](https://dev.to/flutterwaveeng/how-to-build-a-multi-currency-checkout-in-5-steps-4nnd)
+- [Why you should Include Indian Thali in your Daily meals](https://dev.to/sudama_mistri_2161fc1994c/why-you-should-include-indian-thali-in-your-daily-meals-gcf)
+- [How Telecoms Monetize Security Bundles by Adding Password Managers](https://dev.to/world_cyclopedia_3ee2df42/how-telecoms-monetize-security-bundles-by-adding-password-managers-54j7)
 - [How I Used Product Schema to Improve SEO Visibility for an eCommerce Store](https://dev.to/tomdcws01/how-i-used-product-schema-to-improve-seo-visibility-for-an-ecommerce-store-4jan)
 - [Integrating Airflow, dbt, Postgres and Docker: Building a Modern, Scalable Data Workflow](https://dev.to/shivangi_varshney_4dfe1c5/integrating-airflow-dbt-postgres-and-docker-building-a-modern-scalable-data-workflow-168a)
-- [Digital GGPlay88 dan Negative Nimbus](https://dev.to/ggplay88/digital-ggplay88-dan-negative-nimbus-55m3)
-- [🧠 Building an Enterprise-Grade Grammar API with AI/ML Integration](https://dev.to/vivekjaiswal/building-an-enterprise-grade-grammar-api-with-aiml-integration-d43)
-- [Understanding Hashing: The Backbone of Data Integrity in Cybersecurity](https://dev.to/ciberconscientes/understanding-hashing-the-backbone-of-data-integrity-in-cybersecurity-2078)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
