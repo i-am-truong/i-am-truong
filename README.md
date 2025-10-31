@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Pharmacist&#39;s Guide to Becoming a Developer: Skills That Transfer](https://dev.to/henry_messiahtmt_099ca84/the-pharmacists-guide-to-becoming-a-developer-skills-that-transfer-3f1l)
-- [What Is a Sortation Facility? Importance, Process, and Benefits Explained](https://dev.to/pujagothi/what-is-a-sortation-facility-importance-process-and-benefits-explained-235l)
-- [Learn Derived State in React with Listo 🛒✨](https://dev.to/usama_dev/learn-derived-state-in-react-with-listo-2cne)
-- [Day 20: Python Knapsack Problem – Solve 0/1 Optimization with Dynamic Programming](https://dev.to/shahrouzlogs/day-20-python-knapsack-problem-solve-01-optimization-with-dynamic-programming-23ln)
-- [This Week In React #256 : Next.js, directives, TanStack | Navigation, EAS, Expo Modules | ArkType, Biome, Svelte, Hono](https://dev.to/sebastienlorber/this-week-in-react-256-nextjs-directives-tanstack-navigation-eas-expo-modules-arktype-2j62)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4ie7)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4nll)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-17ml)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-35cj)
+- [Differences between ArrayList and LinkedList in Java](https://dev.to/realnamehidden1_61/differences-between-arraylist-and-linkedlist-in-java-37mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
