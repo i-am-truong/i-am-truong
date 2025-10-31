@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pixel-Perfect Designs versus AI](https://dev.to/rfornal/pixel-perfect-designs-versus-ai-278h)
+- [How Wavenet’s Cloud Infrastructure Powers E-Learning in Latin America](https://dev.to/rghigliazza/how-wavenets-cloud-infrastructure-powers-e-learning-in-latin-america-37mk)
+- [Check out what we are currently building to help the community to easily adopt platform engineering](https://dev.to/fredlight/check-out-what-we-are-currently-building-to-help-the-community-to-easily-adopt-platform-engineering-fld)
 - [Start Speaking AI: Easy Explanations for 15 Common Terms](https://dev.to/rupesh_gupta_31e0789dd334/start-speaking-ai-easy-explanations-for-15-common-terms-2d2i)
 - [7 Systems to Win High-Paying Clients &lpar;and Keep Them!&rpar;](https://dev.to/remotebranch/7-systems-to-win-high-paying-clients-and-keep-them-3ihm)
-- [Don&#39;t Just Fine-tune the Agent, Tune the Environment](https://dev.to/paperium/dont-just-fine-tune-the-agent-tune-the-environment-16md)
-- [[Boost]](https://dev.to/ben/-34g2)
-- [Why index.html? The Unexpected Story Behind the Web&#39;s Most Famous Default File](https://dev.to/varshithvhegde/why-indexhtml-the-unexpected-story-behind-the-webs-most-famous-default-file-34f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
