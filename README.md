@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [QuizCraft: Test Your Knowledge Right from Your Terminal](https://dev.to/dnafication/quizcraft-test-your-knowledge-right-from-your-terminal-1900)
+- [The Hidden Marketing War Inside Public Schools: Why Playing Marketer Might Be Their Only Lifeline](https://dev.to/paul_allen_ccfde9d33a48d5/the-hidden-marketing-war-inside-public-schools-why-playing-marketer-might-be-their-only-lifeline-1mdl)
+- [Freelancing in 2025: Meaning, Types, and Getting Started](https://dev.to/whoozit_in_82812c2fd22a09/freelancing-in-2025-meaning-types-and-getting-started-3eng)
 - [Rick Beato: Live Tour Update from Norway](https://dev.to/music_youtube/rick-beato-live-tour-update-from-norway-2oho)
 - [Introducing Caelus](https://dev.to/rhannequin/introducing-caelus-569h)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1f4o)
-- [How Does React&#39;s useEffect Really Work?](https://dev.to/ctrix/how-does-reacts-useeffect-really-work-4dph)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2bfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
