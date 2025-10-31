@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Find and Fix Broken Links: The Complete Guide 2025](https://dev.to/paul_molyanov/how-to-find-and-fix-broken-links-the-complete-guide-2025-591p)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-495g)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-g4h)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3360)
-- [Free Developer Growth Masterclass &lpar;Yes, Really!&rpar;](https://dev.to/tlorent/free-developer-growth-masterclass-yes-really-4ehk)
+- [The Hidden Cost of Bad Caching: Why More Cache Isn&#39;t Always Better](https://dev.to/sizan_mahmud0_e7c3fd0cb68/the-hidden-cost-of-bad-caching-why-more-cache-isnt-always-better-466b)
+- [A Beginner’s Guide to Getting Started with add_messages Reducer in LangGraph](https://dev.to/damilola_oyedunmade/a-beginners-guide-to-getting-started-with-addmessages-reducer-in-langgraph-4gk0)
+- [Mastering Variables and Environments in Requestly: A Hands-On Guide](https://dev.to/shubham_saini_0d5f038957c/mastering-variables-and-environments-in-requestly-a-hands-on-guide-n32)
+- [Error Handling in Rust: From Panic to anyhow and thiserror](https://dev.to/iolivia/error-handling-in-rust-from-panic-to-anyhow-and-thiserror-2km7)
+- [Hacktoberfest Contribution: Feature implement in make-it-oss](https://dev.to/aubreyddd/hacktoberfest-contribution-feature-implement-in-make-it-oss-3dco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
