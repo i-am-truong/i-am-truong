@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It’s almost 2026: Why Are We Still Arguing About CSS vs Tailwind](https://dev.to/toboreeee/its-almost-2026-why-are-we-still-arguing-about-css-vs-tailwind-291f)
+- [File Bucketer, a simple CLI tool to organize files into buckets](https://dev.to/maksik997/file-bucketer-a-simple-cli-tool-to-organize-files-into-buckets-2p5l)
+- [Demystifying Normalization in RDBMS: From 1NF to 3NF](https://dev.to/bharanika_a13eab3577eaa21/demystifying-normalization-in-rdbms-from-1nf-to-3nf-3j4b)
 - [🧠 The Simplest &quot;Decision&quot;: Is AI Always Rational?](https://dev.to/rajni_devi_01e94fda5dfa2b/the-simplest-decision-is-ai-always-rational-30om)
 - [Self Hosting Navidrome - Your personal music streaming service](https://dev.to/nuculabs_dev/self-hosting-navidrome-your-personal-music-streaming-service-110k)
-- [Make Brat Style Text Online](https://dev.to/john_smith_f87cb3ddff9956/make-brat-style-text-online-30b6)
-- [I Automated JSON i18n Translation After Hitting the Same Workflow Issues on Every Project](https://dev.to/juliandreas/i-automated-json-i18n-translation-after-hitting-the-same-workflow-issues-on-every-project-28b7)
-- [When Code Feels Personal](https://dev.to/natashaasnani/when-code-feels-personal-38o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
