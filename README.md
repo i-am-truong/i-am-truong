@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 The Simplest &quot;Decision&quot;: Is AI Always Rational?](https://dev.to/rajni_devi_01e94fda5dfa2b/the-simplest-decision-is-ai-always-rational-30om)
+- [Self Hosting Navidrome - Your personal music streaming service](https://dev.to/nuculabs_dev/self-hosting-navidrome-your-personal-music-streaming-service-110k)
+- [Make Brat Style Text Online](https://dev.to/john_smith_f87cb3ddff9956/make-brat-style-text-online-30b6)
 - [I Automated JSON i18n Translation After Hitting the Same Workflow Issues on Every Project](https://dev.to/juliandreas/i-automated-json-i18n-translation-after-hitting-the-same-workflow-issues-on-every-project-28b7)
 - [When Code Feels Personal](https://dev.to/natashaasnani/when-code-feels-personal-38o9)
-- [Clarity from Chaos: Super-Resolution Imaging That Bends the Rules](https://dev.to/arvind_sundararajan/clarity-from-chaos-super-resolution-imaging-that-bends-the-rules-282b)
-- [Outil de Cybersécurité du Jour - Nov 1, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-1-2025-45jm)
-- [🤖 The Secret Lives of AI Agents: What Do They ‘Think’ When You’re Not Looking?](https://dev.to/pracode_2503/the-secret-lives-of-ai-agents-what-do-they-think-when-youre-not-looking-523e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
