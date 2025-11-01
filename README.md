@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [My Hacktoberfest 2025](https://dev.to/xthasunil/my-hacktoberfest-2025-1j22)
 - [Why Solving Coding Exercises Daily Improves Logic Building](https://dev.to/quipoin_a9cb84280f6225b1e/why-solving-coding-exercises-daily-improves-logic-building-48i5)
 - [System Design Explained Like a Human — 25 Core Concepts with Real Examples and Tools Part -2](https://dev.to/adityathearchitect/system-design-explained-like-a-human-25-core-concepts-with-real-examples-and-tools-part-2-57jo)
-- [System Design Explained Like a Human — 25 Core Concepts with Real Examples and Tools Part -1](https://dev.to/adityathearchitect/system-design-explained-like-a-human-25-core-concepts-with-real-examples-and-tools-part-1-51h3)
+- [The Hidden Side of AI: Why Web Developers Must Build Responsibly 🤖⚖️](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-hidden-side-of-ai-why-web-developers-must-build-responsibly-4e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
