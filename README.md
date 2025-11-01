@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML Selects Are Actually Styleable Now](https://dev.to/salehmubashar/html-selects-are-actually-styleable-now-33nk)
+- [NeuroLeveL V 1.02 is under way!](https://dev.to/aniket_kuyate_15acc4e6587/neurolevel-v-102-is-under-way-3648)
+- [Understanding Color Theory in Interface Design](https://dev.to/felbart/understanding-color-theory-in-interface-design-dil)
+- [Linux Filesystem Hierarchy](https://dev.to/sehranrasooljan/linux-filesystem-hierarchy-42nd)
 - [AltSchool Of Engineering Tinyuka’24 Month 9 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-1-h7l)
-- [Asynchronous Loops in JavaScript](https://dev.to/senior-debugger/asynchronous-loops-in-javascript-27cb)
-- [Agentic Browsers Are Dangerous! AI Vulnerabilities: ChatGPT Atlas, Perplexity Comet](https://dev.to/empiree/agentic-browsers-are-dangerous-ai-vulnerabilities-chatgpt-atlas-perplexity-comet-k1b)
-- [How to Enhance Your Jira Test Project Management](https://dev.to/kayson_2025/how-to-enhance-your-jira-test-project-management-2024)
-- [Laravel Blade Partial API Pattern: Fetching Data — The Missing Part](https://dev.to/raheelshan/laravel-blade-partial-api-pattern-fetching-data-the-missing-part-4i24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
