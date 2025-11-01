@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily DSA and System Design Journal - 16](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-16-286n)
+- [Reflections on Open Source — Hacktoberfest 2025](https://dev.to/paulofreitas_py/2025-hacktoberfest-writing-challeng-146o)
+- [Open Source Is Our Operating System](https://dev.to/my_god_4ca6d407c2a1fb6cca/open-source-is-our-operating-system-djn)
+- [Myths and Facts about Thread Pool in Node.js](https://dev.to/boika_boy/myths-and-facts-about-thread-pool-in-nodejs-3dl5)
 - [Evaluating the success of generative AI often involves a cru](https://dev.to/drcarlosruizviquez/evaluating-the-success-of-generative-ai-often-involves-a-cru-5hlm)
-- [💻 How to Create Stunning Websites That Truly Impress &lpar;and Convert&rpar;](https://dev.to/fshinfotech/how-to-create-stunning-websites-that-truly-impress-and-convert-hhn)
-- [How to Get Started with AllPub: A Step-by-Step Guide](https://dev.to/pravin_niceguy/how-to-get-started-with-allpub-a-step-by-step-guide-2k64)
-- [🌱 Contribution Chronicles — Hacktoberfest 2025](https://dev.to/paulofreitas_py/contribution-chronicles-hacktoberfest-2025-23l9)
-- [Building a Privacy-First Log Analyzer for Banking QA: The Technical Architecture](https://dev.to/qa-leaders/building-a-privacy-first-log-analyzer-for-banking-qa-the-technical-architecture-5ef9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
