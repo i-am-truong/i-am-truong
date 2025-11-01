@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2jn5)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3ha3)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-232e)
 - [Excalidraw - Browser based app for hand drawn like diagrams](https://dev.to/akaak/excalidraw-browser-based-app-for-hand-drawn-like-diagrams-248m)
-- [Final Warning - Do not take the mark of the Beast](https://dev.to/renato_bacelardasilveir/final-warning-do-not-take-the-mark-of-the-beast-2pmi)
-- [Startup Skills for Non-Founders: Why Every Business Student Needs Simulation Time](https://dev.to/m_sikandar/startup-skills-for-non-founders-why-every-business-student-needs-simulation-time-2lod)
-- [Christening Gifts UK: Refined, Meaningful Presents for Baptism &amp; Naming Ceremonies](https://dev.to/smithwilliam/christening-gifts-uk-refined-meaningful-presents-for-baptism-naming-ceremonies-3l19)
-- [Vom Rohdaten-Schatz zur intuitiven Navigation: Wie Entwickler Geo-APIs nutzen, um ihre Anwendungen zum Leben zu erwecken](https://dev.to/mapnav_dev_05896c1891e1a36dd5c/vom-rohdaten-schatz-zur-intuitiven-navigation-wie-entwickler-geo-apis-nutzen-um-ihre-anwendungen-3pcn)
+- [A Laravel website not proper render on desktop but fine in mobile](https://dev.to/magic_ofit_5656bd6b1eef2/a-laravel-website-not-proper-render-on-desktop-but-fine-in-mobile-2113)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
