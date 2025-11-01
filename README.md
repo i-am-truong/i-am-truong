@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering `Copy` and `Clone` traits in Rust](https://dev.to/amritsingh183/mastering-copy-and-clone-traits-in-rust-5be0)
+- [Mastering `Copy` and `Clone` traits in Rust](https://dev.to/amritsingh183/mastering-copy-and-clone-traits-in-rust-455e)
 - [A Complete Guide to Rust Variables, Ownership, Lifetimes, and Memory Management](https://dev.to/amritsingh183/a-complete-guide-to-rust-ownership-lifetimes-and-memory-management-4j2a)
-- [Mastering Ownership, Moves, Borrowing, and Lifetimes in Rust](https://dev.to/amritsingh183/mastering-ownership-moves-borrowing-and-lifetimes-in-rust-5077)
-- [Neural Networks in Coding: A Deep Dive into the AI Coding Paradigm](https://dev.to/softwaredeveloper01/neural-networks-in-coding-a-deep-dive-into-the-ai-coding-paradigm-4ie1)
-- [How I Reduced My Dashboard Bundle Size from 1.72 MB to 299 KB for Faster Loading](https://dev.to/naufalyukafi/how-i-reduced-my-dashboard-bundle-size-from-172-mb-to-299-kb-for-faster-loading-3gg5)
-- [AI Agents in 2025: A Practical Guide for Developers](https://dev.to/navyashipsit/ai-agents-in-2025-a-practical-guide-for-developers-32ep)
+- [Rust vs. Go: Type-Safe State Machines Explained Through Star Wars](https://dev.to/amritsingh183/rust-vs-go-type-safe-state-machines-explained-through-star-wars-4eib)
+- [Linked Lists in Rust 1.90.0: A Comprehensive Technical Guide](https://dev.to/amritsingh183/linked-lists-in-rust-1900-a-comprehensive-technical-guide-3965)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
