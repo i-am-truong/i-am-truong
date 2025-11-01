@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Code: Terraform Magic Unleashed ⚡](https://dev.to/tavernetech/infrastructure-as-code-terraform-magic-unleashed-887)
-- [PostgreSQL vs SQLite: Dive into Two Very Different Databases](https://dev.to/lovestaco/postgresql-vs-sqlite-dive-into-two-very-different-databases-5a90)
-- [Creating AI Agents with Mastra and Typescript](https://dev.to/ucodes/creating-ai-agents-with-mastra-and-typescript-4d6o)
-- [How to Get Started with AllPub: A Step-by-Step Guide](https://dev.to/pravin_niceguy/how-to-get-started-with-allpub-a-step-by-step-guide-3blp)
-- [I Built MoodFeed: An AI That Actually Knows When You&#39;re Having a Sh*t Day](https://dev.to/nadim_ch0wdhury/i-built-moodfeed-an-ai-that-actually-knows-when-youre-having-a-sht-day-1hgg)
+- [Big Data, Small Genes: Handling Terabytes of DNA Information](https://dev.to/mubashir1837/big-data-small-genes-handling-terabytes-of-dna-information-14mi)
+- [How can I bind OLSRT to Node.js?](https://dev.to/javadinteger/how-can-i-bind-olsrt-to-nodejs-352m)
+- [🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript](https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91)
+- [MX, SPF, DKIM, and DMARC: The DNS Stack Behind Every Email](https://dev.to/rijultp/mx-spf-dkim-and-dmarc-the-dns-stack-behind-every-email-4351)
+- [Graph Diffusion Transformers are In-Context Molecular Designers](https://dev.to/paperium/graph-diffusion-transformers-are-in-context-molecular-designers-3h0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
