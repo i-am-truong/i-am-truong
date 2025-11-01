@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Vite vs Turbopack — The Present &amp; Future of Frontend Build Tools &lpar;2025 Edition&rpar;](https://dev.to/vishwark/vite-vs-turbopack-the-present-future-of-frontend-build-tools-2025-edition-1iom)
-- [JOURNEY INTO BLOCKCHAIN DEVELOPMENT THE EASY WAY](https://dev.to/codebigint_01/journey-into-blockchain-development-the-easy-way-40jj)
-- [Micronaut Framework: The Next Generation JVM](https://dev.to/rajkundalia/micronaut-framework-the-next-generation-jvm-31l7)
-- [Understanding Agent-Driven Healthcare Chatbots: A Detailed Guide](https://dev.to/junaaid96/understanding-agent-driven-healthcare-chatbots-a-detailed-guide-k3)
-- [Healthy Eating Habits for Kids](https://dev.to/nadeem_sarfraz/healthy-eating-habits-for-kids-2lfe)
+- [Tipos Primitivos em Python](https://dev.to/ryanmarinho/tipos-primitivos-em-python-3h5f)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-33b4)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-5e92)
+- [AI and Data Virtualization: A Symbiotic Relationship For Smart Data Management](https://dev.to/naveen_kolli_a8501e4633c5/ai-and-data-virtualization-a-symbiotic-relationship-for-smart-data-management-2c13)
+- [Why AI Needs a Face: Building Dew, My Duolingo-Inspired AI Character](https://dev.to/uianimation/why-ai-needs-a-face-building-dew-my-duolingo-inspired-ai-character-43go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
