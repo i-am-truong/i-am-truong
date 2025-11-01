@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2025 ChronoEdit: A Complete Guide to Time-Reasoning-Based Image Editing and World Simulation](https://dev.to/czmilo/2025-chronoedit-a-complete-guide-to-time-reasoning-based-image-editing-and-world-simulation-3l78)
-- [How to Install DVWS &lpar;Damn Vulnerable Web Services&rpar; on Nginx](https://dev.to/1amkaizen/how-to-install-dvws-damn-vulnerable-web-services-on-nginx-5110)
-- [The Biggest Challenge in #80DaysOfChallenges… is a Lack of Challenges](https://dev.to/shahrouzlogs/the-biggest-challenge-in-80daysofchallenges-is-a-lack-of-challenges-2m3)
-- [How Seasonal SEO Boosted Traffic for an eCommerce Store: Lessons from the Holiday Rush](https://dev.to/tomdcws01/how-seasonal-seo-boosted-traffic-for-an-ecommerce-store-lessons-from-the-holiday-rush-48gk)
-- [Palindrome Number](https://dev.to/shelner/palindrome-number-24af)
+- [Tetrix vs Claude](https://dev.to/akkii2022/tetrix-vs-claude-4923)
+- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-i99)
+- [How I Ended Up Choosing Cloudflare Workers for My Projects](https://dev.to/ukasyah-dev/how-i-ended-up-choosing-cloudflare-workers-for-my-projects-45a)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mic)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1fdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
