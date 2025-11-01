@@ -119,8 +119,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Deploying a FastAPI Project to an Ubuntu VPS — A Complete Guide for Developers](https://dev.to/1amkaizen/deploying-a-fastapi-project-to-an-ubuntu-vps-a-complete-guide-for-developers-392)
 - [JavaScript Nullish Coalescing Operator &lpar;??&rpar;](https://dev.to/tanvir_ahamed/javascript-nullish-coalescing-operator--7ko)
-- [Next.js vs Remix 2025 — Which One Wins?](https://dev.to/ganesh_tidake/nextjs-vs-remix-2025-which-one-wins-4np5)
 - [Add Image Uploads to Your App in 15 Minutes Using ImageUpload.app API](https://dev.to/cond/add-image-uploads-to-your-app-in-15-minutes-using-imageuploadapp-api-f2f)
 - [Revealing the Unseen: AI-Powered Super-Resolution from Extreme Noise by Arvind Sundararajan](https://dev.to/arvind_sundararajan/revealing-the-unseen-ai-powered-super-resolution-from-extreme-noise-by-arvind-sundararajan-5b4g)
 - [AI-Generated Death Threats: Where Reality Meets Deception](https://dev.to/mabualzait/ai-generated-death-threats-where-reality-meets-deception-1afb)
