@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn forms – focus indicator](https://dev.to/marcelinaredocindo/learn-forms-focus-indicator-gj7)
-- [Learn forms – honeypot spam protection](https://dev.to/marcelinaredocindo/learn-forms-honeypot-spam-protection-2ml4)
-- [The $15 Revolution: How ETHWomen’s Automated Networks Are Breaking Web3’s Gender Barrier &lpar;And What Others Get Wrong&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-15-revolution-how-ethwomens-automated-networks-are-breaking-web3s-gender-barrier-and-what-5ej8)
-- [My Hacktoberfest 2025 Journey](https://dev.to/tajudeen_abdulgafar_e0363/my-hacktoberfest-2025-journey-55n)
-- [Automating Documentation Maintenance with Prodigy: A Real-World Case Study](https://dev.to/entropicdrift/automating-documentation-maintenance-with-prodigy-a-real-world-case-study-2037)
+- [Soporte multilenguaje en WinUI 3](https://dev.to/williamprogramer/soporte-multilenguaje-en-winui-3-jmm)
+- [🧱 I built a customizable Ratings &amp; Reviews dashboard for React](https://dev.to/arvymo/i-built-a-customizable-ratings-reviews-dashboard-for-react-3l5j)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-4f2l)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-15)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-5bm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
