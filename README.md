@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Internship Journey: at Thinkvyne Digital](https://dev.to/godlykmathews/my-first-internship-journey-at-thinkvyne-digital-5e83)
-- [Open-Source Docker Book for Hacktoberfest](https://dev.to/aerabi/open-source-docker-book-for-hacktoberfest-412m)
-- [How I Fixed a Web Audio Echo Problem with a 5-Second Delay](https://dev.to/hamedhajiloo/how-i-fixed-a-web-audio-echo-problem-with-a-5-second-delay-384h)
-- [Bringing Rust &amp; Go-Inspired Functional Error Handling to TypeScript](https://dev.to/veerakumarak/bringing-rust-go-inspired-functional-error-handling-to-typescript-1o80)
-- [Implementing Identity and Access Management &lpar;IAM&rpar; on Jenkins Using the Role-Based Strategy Plugin](https://dev.to/kobbyprincee/implementing-identity-and-access-management-iam-on-jenkins-using-the-role-based-strategy-plugin-51f6)
+- [⚡Auto-Capture in XSLT Debugger](https://dev.to/imdj/auto-capture-in-xslt-debugger-5gb7)
+- [Saga Pattern: Consistência de Dados em Microsserviços de Verdade](https://dev.to/filipi_firmino_dev/saga-pattern-consistencia-de-dados-em-microsservicos-de-verdade-4h34)
+- [Why I Built LogTaskr: The Search for Simpler Productivity](https://dev.to/vjygour/why-i-built-logtaskr-the-search-for-simpler-productivity-lf)
+- [I built a free PowerShell tool to fix common Windows 11 issues &lpar;BSOD, network, audio, login, updates&rpar;](https://dev.to/mentalistops/i-built-a-free-powershell-tool-to-fix-common-windows-11-issues-bsod-network-audio-login-5dfm)
+- [Understanding the Linux Device Tree Vendor Prefix Mechanism](https://dev.to/tonyhe8688/understanding-the-linux-device-tree-vendor-prefix-mechanism-4gdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
