@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure as Code: Terraform Magic Unleashed ⚡](https://dev.to/tavernetech/infrastructure-as-code-terraform-magic-unleashed-887)
 - [PostgreSQL vs SQLite: Dive into Two Very Different Databases](https://dev.to/lovestaco/postgresql-vs-sqlite-dive-into-two-very-different-databases-5a90)
 - [Creating AI Agents with Mastra and Typescript](https://dev.to/ucodes/creating-ai-agents-with-mastra-and-typescript-4d6o)
 - [How to Get Started with AllPub: A Step-by-Step Guide](https://dev.to/pravin_niceguy/how-to-get-started-with-allpub-a-step-by-step-guide-3blp)
-- [Checkout my new post!](https://dev.to/jay_sheth/checkout-my-new-post-1k10)
-- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9)
+- [I Built MoodFeed: An AI That Actually Knows When You&#39;re Having a Sh*t Day](https://dev.to/nadim_ch0wdhury/i-built-moodfeed-an-ai-that-actually-knows-when-youre-having-a-sht-day-1hgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
