@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Smart Reply | Now Available on the Web 🌐](https://dev.to/mahmud-r-farhan/smart-reply-now-available-on-the-web-20jk)
-- [Understanding Layer 1 &amp; Layer 2 in Web3 — For Builders](https://dev.to/omniradhanexus/understanding-layer-1-layer-2-in-web3-for-builders-4330)
-- [[Boost]](https://dev.to/ben/-4gae)
-- [Unlock Dual Revenue: How LLM Apps Can Thrive with AI Monetization Strategies](https://dev.to/monetzly/unlock-dual-revenue-how-llm-apps-can-thrive-with-ai-monetization-strategies-2hg1)
-- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-581d)
+- [My First Internship Journey: at Thinkvyne Digital](https://dev.to/godlykmathews/my-first-internship-journey-at-thinkvyne-digital-5e83)
+- [Open-Source Docker Book for Hacktoberfest](https://dev.to/aerabi/open-source-docker-book-for-hacktoberfest-412m)
+- [How I Fixed a Web Audio Echo Problem with a 5-Second Delay](https://dev.to/hamedhajiloo/how-i-fixed-a-web-audio-echo-problem-with-a-5-second-delay-384h)
+- [Bringing Rust &amp; Go-Inspired Functional Error Handling to TypeScript](https://dev.to/veerakumarak/bringing-rust-go-inspired-functional-error-handling-to-typescript-1o80)
+- [Implementing Identity and Access Management &lpar;IAM&rpar; on Jenkins Using the Role-Based Strategy Plugin](https://dev.to/kobbyprincee/implementing-identity-and-access-management-iam-on-jenkins-using-the-role-based-strategy-plugin-51f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
