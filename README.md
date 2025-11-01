@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an MCP-Powered AI Git Commit Generator &lpar;And Why My Repository Loves Me Now&rpar; 🚀🤖](https://dev.to/surajfale/how-i-built-an-mcp-powered-ai-git-commit-generator-and-why-my-repository-loves-me-now-2o34)
-- [🔍 Transparency Isn&#39;t Just What You Show](https://dev.to/junothreadborne/transparency-isnt-just-what-you-show-odj)
-- [Building a Frontend-Only Authentication System](https://dev.to/tajudeen_abdulgafar_e0363/building-a-frontend-only-authentication-system-knp)
-- [From Stalled Growth to Skyrocketing Impact: How ETHWomen Is Quietly Disrupting U.S. Web3 Inclusion &lpar;And Slashing Costs by 70%&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/from-stalled-growth-to-skyrocketing-impact-how-ethwomen-is-quietly-disrupting-us-web3-inclusion-1jdb)
-- [&quot;IN MEMES WE TRUST, ALL HAIL THE EXPLORER!&quot;](https://dev.to/bibimbop123/in-memes-we-trust-all-hail-the-explorer-2pfd)
+- [Learn forms – focus indicator](https://dev.to/marcelinaredocindo/learn-forms-focus-indicator-gj7)
+- [Learn forms – honeypot spam protection](https://dev.to/marcelinaredocindo/learn-forms-honeypot-spam-protection-2ml4)
+- [The $15 Revolution: How ETHWomen’s Automated Networks Are Breaking Web3’s Gender Barrier &lpar;And What Others Get Wrong&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-15-revolution-how-ethwomens-automated-networks-are-breaking-web3s-gender-barrier-and-what-5ej8)
+- [My Hacktoberfest 2025 Journey](https://dev.to/tajudeen_abdulgafar_e0363/my-hacktoberfest-2025-journey-55n)
+- [Automating Documentation Maintenance with Prodigy: A Real-World Case Study](https://dev.to/entropicdrift/automating-documentation-maintenance-with-prodigy-a-real-world-case-study-2037)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
