@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Agent-Driven Healthcare Chatbots: A Detailed Guide](https://dev.to/junaaid96/understanding-agent-driven-healthcare-chatbots-a-detailed-guide-k3)
+- [How Andon Labs’ Robot Vacuum Reveals the Real AI Constraint &lpar;Hint: It’s Not Data or Computation&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/how-andon-labs-robot-vacuum-reveals-the-real-ai-constraint-hint-its-not-data-or-computation-2nh4)
 - [A comprehensive guide to Map in Java](https://dev.to/ehrbhein/a-comprehensive-guide-to-usage-of-map-in-java-10ja)
-- [Blog Post: Demystifying ZIO&#39;s Dependency Injection: A Practical Guide](https://dev.to/depa_reddy_5e0e3025aa6eed/blog-post-demystifying-zios-dependency-injection-a-practical-guide-5c1g)
-- [⚡Auto-Capture in XSLT Debugger](https://dev.to/imdj/auto-capture-in-xslt-debugger-5gb7)
-- [Saga Pattern: Consistência de Dados em Microsserviços de Verdade](https://dev.to/filipi_firmino_dev/saga-pattern-consistencia-de-dados-em-microsservicos-de-verdade-4h34)
-- [Why I Built LogTaskr: The Search for Simpler Productivity](https://dev.to/vjygour/why-i-built-logtaskr-the-search-for-simpler-productivity-lf)
+- [Udio allows users to download AI songs for 48 hours after backlash over UMGlegal settlement](https://dev.to/ytosko/udio-allows-users-to-download-ai-songs-for-48-hours-after-backlash-over-umglegal-settlement-5018)
+- [Quantum Leaps in Finance: Optimizing Collateral with Quantum-Inspired AI](https://dev.to/arvind_sundararajan/quantum-leaps-in-finance-optimizing-collateral-with-quantum-inspired-ai-2hko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
