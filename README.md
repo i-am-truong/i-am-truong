@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS 2025 Retirements: Charting the Course Through Service Sunsets and Seamless Migrations](https://dev.to/muhammad_zeeshan_6499a22a/aws-2025-retirements-charting-the-course-through-service-sunsets-and-seamless-migrations-n3l)
-- [Master the Java charAt&lpar;&rpar; Method: Your Ultimate Guide with Examples &amp; Use Cases](https://dev.to/satyam_gupta_0d1ff2152dcc/master-the-java-charat-method-your-ultimate-guide-with-examples-use-cases-3742)
-- [Master Java String Methods: The Ultimate Guide with Real-World Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-string-methods-the-ultimate-guide-with-real-world-examples-2ej1)
-- [🧠 Soft Architecture &lpar;Part B&rpar;: Emotional Timers and the Code of Care &lpar;Part 5 of the SaijinOS series&rpar;](https://dev.to/kato_masato_c5593c81af5c6/soft-architecture-part-b-emotional-timers-and-the-code-of-carepart-5-of-the-saijinos-series-25b)
-- [Why 0.1 + 0.2 0.3 in JavaScript: The Truth About Floating-Point Numbers](https://dev.to/zaidrehman/why-01-02-03-in-javascript-the-truth-about-floating-point-numbers-550e)
+- [React Forms with Validation Using Formik and Yup](https://dev.to/djamware_tutorial_eba1a61/react-forms-with-validation-using-formik-and-yup-14dj)
+- [Java Design Patterns Explained with Real-World Examples](https://dev.to/djamware_tutorial_eba1a61/java-design-patterns-explained-with-real-world-examples-pki)
+- [Java&#39;s codePointBefore&lpar;&rpar; Explained: Master Unicode &amp; Text Processing](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-codepointbefore-explained-master-unicode-text-processing-51b8)
+- [Stop Paying Forever: How Armano HR’s Pay-Once Model Destroys SaaS Subscription Headaches](https://dev.to/paul_allen_ccfde9d33a48d5/stop-paying-forever-how-armano-hrs-pay-once-model-destroys-saas-subscription-headaches-91h)
+- [Java codePointAt&lpar;&rpar; Explained: Your Guide to Unicode Character Handling](https://dev.to/satyam_gupta_0d1ff2152dcc/java-codepointat-explained-your-guide-to-unicode-character-handling-17i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
