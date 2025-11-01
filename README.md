@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go Microservices Boilerplate Series Part 3: Redis, Healthchecks, Observability &lpar;Prometheus Metrics, OpenTelemetry Tracing&rpar;](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-part-3-redis-healthchecks-observability-prometheus-metrics-32jo)
-- [React Forms with Validation Using Formik and Yup](https://dev.to/djamware_tutorial_eba1a61/react-forms-with-validation-using-formik-and-yup-14dj)
-- [Java Design Patterns Explained with Real-World Examples](https://dev.to/djamware_tutorial_eba1a61/java-design-patterns-explained-with-real-world-examples-pki)
-- [Stop Paying Forever: How Armano HR’s Pay-Once Model Destroys SaaS Subscription Headaches](https://dev.to/paul_allen_ccfde9d33a48d5/stop-paying-forever-how-armano-hrs-pay-once-model-destroys-saas-subscription-headaches-91h)
-- [Java codePointAt&lpar;&rpar; Explained: Your Guide to Unicode Character Handling](https://dev.to/satyam_gupta_0d1ff2152dcc/java-codepointat-explained-your-guide-to-unicode-character-handling-17i9)
+- [MCP Servers Explained: Why They&#39;re More Than Just APIs for AI](https://dev.to/raghavajoijode/mcp-servers-explained-why-theyre-more-than-just-apis-for-ai-4h57)
+- [Any% Kindness](https://dev.to/junothreadborne/any-kindness-2lc4)
+- [Building “AI Disaster Response Platform” with Google Cloud Run and Gemini](https://dev.to/monishwar_reddyvardiredd/building-ai-disaster-response-platform-with-google-cloud-run-and-gemini-279p)
+- [ScrollForge: Causal Graph Programming — unify state, logic, and style.](https://dev.to/infernusreal/scrollforge-causal-graph-programming-unify-state-logic-and-style-4025)
+- [650+ Frontend Interview Questions &lpar;JavaScript, React, Next.js &amp; More&rpar; — My Complete Prep Journey](https://dev.to/maurya-sachin/650-frontend-interview-questions-javascript-react-nextjs-more-my-complete-prep-journey-12in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
