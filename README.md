@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rasterizer project - Part 3 is up! Its all about 3D math. It was actually quite a fun thing to write about.](https://dev.to/noticeablesmeh/rasterizer-project-part-3-is-up-its-all-about-3d-math-it-was-actually-quite-a-fun-thing-to-66b)
-- [Rasterizer Project - Part 3: Geometry](https://dev.to/noticeablesmeh/rasterizer-project-part-3-geometry-3ek3)
-- [Django Ninja Aio Crud - REST framework](https://dev.to/caspel26/django-ninja-aio-crud-rest-framework-5hej)
-- [Our Lunar Landing Site API goes Live Today!](https://dev.to/irisdatalabs/our-lunar-landing-site-api-goes-live-today-1hig)
-- [AI&#39;s Blind Spot: A Simple Filter for Unlearning Bias](https://dev.to/arvind_sundararajan/ais-blind-spot-a-simple-filter-for-unlearning-bias-22p2)
+- [Stop Struggling with Maps in React Native — Here’s the Complete Guide](https://dev.to/asyncarijit/stop-struggling-with-maps-in-react-native-heres-the-complete-guide-28ii)
+- [You Probably Don&#39;t Need Grafana for GPU Monitoring](https://dev.to/panos_s_38e7dbec806aeb7db/you-probably-dont-need-grafana-for-gpu-monitoring-jc3)
+- [🎛️ Meet Polyfront-Slider – Enterprise-Grade Web Component Slider](https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d)
+- [IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing Assessment](https://dev.to/paperium/ivebench-modern-benchmark-suite-for-instruction-guided-video-editing-assessment-8n3)
+- [Solving Blockchain Coding Challenges Efficiently in 2025?](https://dev.to/cristianalex_17/solving-blockchain-coding-challenges-efficiently-in-2025-1fl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
