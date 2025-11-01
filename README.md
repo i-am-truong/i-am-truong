@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Next.js in 2025: Why It&#39;s the Best React Framework](https://dev.to/devraj_singh_a58b5b5589de/nextjs-in-2025-why-its-the-best-react-framework-3a0c)
+- [My Hacktoberfest 2025](https://dev.to/xthasunil/my-hacktoberfest-2025-1j22)
+- [Why Solving Coding Exercises Daily Improves Logic Building](https://dev.to/quipoin_a9cb84280f6225b1e/why-solving-coding-exercises-daily-improves-logic-building-48i5)
+- [System Design Explained Like a Human — 25 Core Concepts with Real Examples and Tools Part -2](https://dev.to/adityathearchitect/system-design-explained-like-a-human-25-core-concepts-with-real-examples-and-tools-part-2-57jo)
 - [System Design Explained Like a Human — 25 Core Concepts with Real Examples and Tools Part -1](https://dev.to/adityathearchitect/system-design-explained-like-a-human-25-core-concepts-with-real-examples-and-tools-part-1-51h3)
-- [Reflections on the AWS &amp; Azure Outages](https://dev.to/this-is-learning/reflections-on-the-aws-azure-outages-4iok)
-- [📝 Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL 💾](https://dev.to/bharanika_d24cb005_97900/understanding-transactions-deadlocks-log-based-recovery-in-sql-3cd1)
-- [Clarity From Chaos: AI Super-Resolution Redefined](https://dev.to/arvind_sundararajan/clarity-from-chaos-ai-super-resolution-redefined-eko)
-- [Your Startup Is Dying While You Debate Django vs FastAPI](https://dev.to/sizan_mahmud0_e7c3fd0cb68/your-startup-is-dying-while-you-debate-django-vs-fastapi-2hcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
