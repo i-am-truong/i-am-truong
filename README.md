@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL vs SQLite: Dive into Two Very Different Databases](https://dev.to/lovestaco/postgresql-vs-sqlite-dive-into-two-very-different-databases-5a90)
+- [Creating AI Agents with Mastra and Typescript](https://dev.to/ucodes/creating-ai-agents-with-mastra-and-typescript-4d6o)
+- [How to Get Started with AllPub: A Step-by-Step Guide](https://dev.to/pravin_niceguy/how-to-get-started-with-allpub-a-step-by-step-guide-3blp)
 - [Checkout my new post!](https://dev.to/jay_sheth/checkout-my-new-post-1k10)
 - [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9)
-- [🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud &lpar;Step-by-Step with Screenshots&rpar;](https://dev.to/jay_sheth/how-to-set-up-a-global-http-load-balancer-on-google-cloud-step-by-step-with-screenshots-3ghi)
-- [⚡ Why Vite Feels So Fast — and What You No Longer Need to Configure Manually](https://dev.to/vishwark/why-vite-feels-so-fast-and-what-you-no-longer-need-to-configure-manually-5g9b)
-- [Smart Form Submissions: Only Send Changed Data with WebForms Core 2](https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
