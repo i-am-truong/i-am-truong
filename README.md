@@ -119,11 +119,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP Security](https://dev.to/barak_codes/mcp-security-45o8)
-- [📰 Major Tech News: Oct 31, 2025 : Big Tech&#39;s AI Spending Surge, Nvidia&#39;s Chip Partnerships, and OpenAI&#39;s Security Innovation](https://dev.to/om_shree_0709/major-tech-news-oct-31-2025-big-techs-ai-spending-surge-nvidias-chip-partnerships-and-3884)
-- [🎓 &quot;Amodal Completion&quot; in Computer Vision: Unveiling the Powe](https://dev.to/drcarlosruizviquez/amodal-completion-in-computer-vision-unveiling-the-powe-3bpp)
-- [MCP Security: Navigating the Exploit Playbook for Agent](https://dev.to/om_shree_0709/mcp-security-navigating-the-exploit-playbook-for-agent-56m7)
-- [**Unlock the Power of AI-Powered Threat Hunting: Discovering](https://dev.to/drcarlosruizviquez/unlock-the-power-of-ai-powered-threat-hunting-discovering-g7n)
+- [Prompt engineering is evolving fast, and GitHub is where that evolution lives.
+If you’re serious about mastering how AI systems think, these 5 repositories will save you months of trial and error.](https://dev.to/jaideepparashar/prompt-engineering-is-evolving-fast-and-github-is-where-that-evolution-lives-if-youre-serious-34p1)
+- [The 5 GitHub Repositories Every Prompt Engineer Should Bookmark](https://dev.to/jaideepparashar/the-5-github-repositories-every-prompt-engineer-should-bookmark-5777)
+- [Before CI/CD, You Need a Place to Build: Why Provisioning Comes First in DevOps](https://dev.to/srinivasamcjf/before-cicd-you-need-a-place-to-build-why-provisioning-comes-first-in-devops-38jh)
+- [Dictionary in Python &lpar;5&rpar;](https://dev.to/hyperkai/dictionary-in-python-5-3ooo)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-17do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
