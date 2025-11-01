@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Object-oriented Programming in Delphi in 2025?](https://dev.to/rociogarciavf/what-is-object-oriented-programming-in-delphi-in-2025-5g4i)
+- [How to Create AI Agents Using Mastra and TypeScript](https://dev.to/ideategudy/how-to-create-ai-agents-using-mastra-and-typescript-1pai)
+- [Whatsapp Chatbot Multitenant - Whatsapp Cloud API](https://dev.to/juanjefry23/whatsapp-chatbot-multitenant-whatsapp-cloud-api-nfp)
+- [**Mito/Realidad:** Mito: Con la IA/ML, las empresas pueden](https://dev.to/drcarlosruizviquez/mitorealidadmito-con-la-iaml-las-empresas-pueden-3phg)
 - [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-4937)
-- [Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM](https://dev.to/prasadkjose/keeping-linux-responsive-taming-the-oom-killer-with-earlyoom-14ef)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2ai)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4p1m)
-- [Semantic search with embeddings in PHP: a hands-on guide using Neuron AI and Ollama](https://dev.to/robertobutti/semantic-search-with-embeddings-in-php-a-hands-on-guide-using-neuron-ai-and-ollama-16c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
