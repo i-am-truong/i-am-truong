@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTML Selects Are Actually Styleable Now](https://dev.to/salehmubashar/html-selects-are-actually-styleable-now-33nk)
-- [NeuroLeveL V 1.02 is under way!](https://dev.to/aniket_kuyate_15acc4e6587/neurolevel-v-102-is-under-way-3648)
-- [Understanding Color Theory in Interface Design](https://dev.to/felbart/understanding-color-theory-in-interface-design-dil)
-- [Linux Filesystem Hierarchy](https://dev.to/sehranrasooljan/linux-filesystem-hierarchy-42nd)
-- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-1-h7l)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1g60)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-273d)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2pmd)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-7h0)
+- [Part II : Building My First Large Language Model from Scratch](https://dev.to/ujjwall-r/part-ii-building-my-first-large-language-model-from-scratch-46ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
