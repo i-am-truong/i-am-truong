@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [resources.azure.com is deprecated](https://dev.to/andrewelans/resourcesazurecom-is-deprecated-15ch)
-- [How Photo Contests Teach Technical Thinking and Creative Discipline](https://dev.to/michaeltrent/how-photo-contests-teach-technical-thinking-and-creative-discipline-noi)
-- [How to Data Engineer the ETLFunnel Way](https://dev.to/vivekburman/how-to-data-engineer-the-etlfunnel-way-2g9d)
-- [Rate my landing page :&rpar;](https://dev.to/adept_4d69dd481217acd38df/rate-my-landing-page--2ad)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-3ldd)
+- [Evaluating the success of generative AI often involves a cru](https://dev.to/drcarlosruizviquez/evaluating-the-success-of-generative-ai-often-involves-a-cru-5hlm)
+- [💻 How to Create Stunning Websites That Truly Impress &lpar;and Convert&rpar;](https://dev.to/fshinfotech/how-to-create-stunning-websites-that-truly-impress-and-convert-hhn)
+- [How to Get Started with AllPub: A Step-by-Step Guide](https://dev.to/pravin_niceguy/how-to-get-started-with-allpub-a-step-by-step-guide-2k64)
+- [🌱 Contribution Chronicles — Hacktoberfest 2025](https://dev.to/paulofreitas_py/contribution-chronicles-hacktoberfest-2025-23l9)
+- [Building a Privacy-First Log Analyzer for Banking QA: The Technical Architecture](https://dev.to/qa-leaders/building-a-privacy-first-log-analyzer-for-banking-qa-the-technical-architecture-5ef9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
