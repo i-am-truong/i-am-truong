@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Elegant Batch Jobs in Laravel with Clean Architecture](https://dev.to/eashigaev/building-elegant-batch-jobs-in-laravel-with-clean-architecture-431d)
+- [Covering index for $group/$sum in MongoDB aggregation &lpar;with hint&rpar;](https://dev.to/franckpachot/covering-index-for-group-in-mongodb-aggregation-with-hint-4e6m)
 - [What Is Object-oriented Programming in Delphi in 2025?](https://dev.to/rociogarciavf/what-is-object-oriented-programming-in-delphi-in-2025-5g4i)
 - [How to Create AI Agents Using Mastra and TypeScript](https://dev.to/ideategudy/how-to-create-ai-agents-using-mastra-and-typescript-1pai)
-- [Whatsapp Chatbot Multitenant - Whatsapp Cloud API](https://dev.to/juanjefry23/whatsapp-chatbot-multitenant-whatsapp-cloud-api-nfp)
-- [**Mito/Realidad:** Mito: Con la IA/ML, las empresas pueden](https://dev.to/drcarlosruizviquez/mitorealidadmito-con-la-iaml-las-empresas-pueden-3phg)
-- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-4937)
+- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-1bm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
