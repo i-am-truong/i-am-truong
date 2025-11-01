@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-4pme)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-34pf)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4ok9)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1kmp)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-18n1)
+- [Securing Private AWS Environments with a Bastion Host — The DevOps Gateway Explained](https://dev.to/srinivasamcjf/securing-private-aws-environments-with-a-bastion-host-the-devops-gateway-explained-13i1)
+- [Why I Fell in Love with Python at 12, and How That Passion Defined the Architecture of My AI Startup](https://dev.to/kesaru_hasun/why-i-fell-in-love-with-python-at-12-and-how-that-passion-defined-the-architecture-of-my-ai-startup-4elh)
+- [Overdue Payment Reminder and Collection Automation](https://dev.to/sabbschow/overdue-payment-reminder-and-collection-automation-308a)
+- [Hypackel Games: Behind the Developers and Their Gaming Vision](https://dev.to/ray_parker01/hypackel-games-behind-the-developers-and-their-gaming-vision-4i8c)
+- [WTF is Remote Browser Isolation?](https://dev.to/dailybugle33/wtf-is-remote-browser-isolation-36f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
