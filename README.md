@@ -119,9 +119,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Microservices Boilerplate Series Part 3: Redis, Healthchecks, Observability &lpar;Prometheus Metrics, OpenTelemetry Tracing&rpar;](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-part-3-redis-healthchecks-observability-prometheus-metrics-32jo)
 - [React Forms with Validation Using Formik and Yup](https://dev.to/djamware_tutorial_eba1a61/react-forms-with-validation-using-formik-and-yup-14dj)
 - [Java Design Patterns Explained with Real-World Examples](https://dev.to/djamware_tutorial_eba1a61/java-design-patterns-explained-with-real-world-examples-pki)
-- [Java&#39;s codePointBefore&lpar;&rpar; Explained: Master Unicode &amp; Text Processing](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-codepointbefore-explained-master-unicode-text-processing-51b8)
 - [Stop Paying Forever: How Armano HR’s Pay-Once Model Destroys SaaS Subscription Headaches](https://dev.to/paul_allen_ccfde9d33a48d5/stop-paying-forever-how-armano-hrs-pay-once-model-destroys-saas-subscription-headaches-91h)
 - [Java codePointAt&lpar;&rpar; Explained: Your Guide to Unicode Character Handling](https://dev.to/satyam_gupta_0d1ff2152dcc/java-codepointat-explained-your-guide-to-unicode-character-handling-17i9)
 <!-- BLOG-POST-LIST:END -->
