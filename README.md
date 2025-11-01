@@ -32,68 +32,29 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-745.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-907.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 142.0 kB Used in GitHub's Storage 
+> 📦 153.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,057 Contributions in the Year 2025
+> 🏆 1,061 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                683 commits         ████████░░░░░░░░░░░░░░░░░   30.64 % 
-🌆 Daytime                813 commits         █████████░░░░░░░░░░░░░░░░   36.47 % 
-🌃 Evening                618 commits         ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-🌙 Night                  115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Wednesday                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Thursday                 451 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Friday                   288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Sunday                   223 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ████████████░░░░░░░░░░░░░   46.43 % 
-TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JavaScript               14 repos            ████████████░░░░░░░░░░░░░   48.28 % 
+TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -103,7 +64,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i-am-truong/i-am-truong/master/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 17:17:56 UTC
+ Last Updated on 01/11/2025 17:14:08 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-truong&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
