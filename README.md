@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kalman Filter Algorithm: Core Principles, Advantages, Applications, and C Code Implementation](https://dev.to/tiger_smith_9f421b9131db5/kalman-filter-algorithm-core-principles-advantages-applications-and-c-code-implementation-55mf)
-- [Next.js in 2025: Why It&#39;s the Best React Framework](https://dev.to/devraj_singh_a58b5b5589de/nextjs-in-2025-why-its-the-best-react-framework-3a0c)
-- [My Hacktoberfest 2025](https://dev.to/xthasunil/my-hacktoberfest-2025-1j22)
-- [Why Solving Coding Exercises Daily Improves Logic Building](https://dev.to/quipoin_a9cb84280f6225b1e/why-solving-coding-exercises-daily-improves-logic-building-48i5)
-- [System Design Explained Like a Human — 25 Core Concepts with Real Examples and Tools Part -2](https://dev.to/adityathearchitect/system-design-explained-like-a-human-25-core-concepts-with-real-examples-and-tools-part-2-57jo)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-4pme)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-34pf)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4ok9)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1kmp)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-18n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
