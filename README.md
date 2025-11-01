@@ -120,7 +120,7 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Agent-Driven Healthcare Chatbots: A Detailed Guide](https://dev.to/junaaid96/understanding-agent-driven-healthcare-chatbots-a-detailed-guide-k3)
-- [How Andon Labs’ Robot Vacuum Reveals the Real AI Constraint &lpar;Hint: It’s Not Data or Computation&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/how-andon-labs-robot-vacuum-reveals-the-real-ai-constraint-hint-its-not-data-or-computation-2nh4)
+- [Healthy Eating Habits for Kids](https://dev.to/nadeem_sarfraz/healthy-eating-habits-for-kids-2lfe)
 - [A comprehensive guide to Map in Java](https://dev.to/ehrbhein/a-comprehensive-guide-to-usage-of-map-in-java-10ja)
 - [Udio allows users to download AI songs for 48 hours after backlash over UMGlegal settlement](https://dev.to/ytosko/udio-allows-users-to-download-ai-songs-for-48-hours-after-backlash-over-umglegal-settlement-5018)
 - [Quantum Leaps in Finance: Optimizing Collateral with Quantum-Inspired AI](https://dev.to/arvind_sundararajan/quantum-leaps-in-finance-optimizing-collateral-with-quantum-inspired-ai-2hko)
