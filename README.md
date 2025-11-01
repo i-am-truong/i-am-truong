@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [It’s almost 2026: Why Are We Still Arguing About CSS vs Tailwind](https://dev.to/toboreeee/its-almost-2026-why-are-we-still-arguing-about-css-vs-tailwind-291f)
-- [File Bucketer, a simple CLI tool to organize files into buckets](https://dev.to/maksik997/file-bucketer-a-simple-cli-tool-to-organize-files-into-buckets-2p5l)
-- [Demystifying Normalization in RDBMS: From 1NF to 3NF](https://dev.to/bharanika_a13eab3577eaa21/demystifying-normalization-in-rdbms-from-1nf-to-3nf-3j4b)
-- [🧠 The Simplest &quot;Decision&quot;: Is AI Always Rational?](https://dev.to/rajni_devi_01e94fda5dfa2b/the-simplest-decision-is-ai-always-rational-30om)
-- [Self Hosting Navidrome - Your personal music streaming service](https://dev.to/nuculabs_dev/self-hosting-navidrome-your-personal-music-streaming-service-110k)
+- [Create your first MCP server](https://dev.to/petrashka/create-your-first-mcp-server-38d3)
+- [Why I Chose Go as My Main Backend Language — and Why You Might Too](https://dev.to/ahmed112/why-i-chose-go-as-my-main-backend-language-and-why-you-might-too-3h8b)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-2c6l)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-35dc)
+- [How to Build an Ecommerce App in 2025: Features, Cost &amp; Guide](https://dev.to/secuodsoft/how-to-build-an-ecommerce-app-in-2025-features-cost-guide-4f01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
