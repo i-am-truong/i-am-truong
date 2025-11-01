@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Automated JSON i18n Translation After Hitting the Same Workflow Issues on Every Project](https://dev.to/juliandreas/i-automated-json-i18n-translation-after-hitting-the-same-workflow-issues-on-every-project-28b7)
 - [When Code Feels Personal](https://dev.to/natashaasnani/when-code-feels-personal-38o9)
+- [Clarity from Chaos: Super-Resolution Imaging That Bends the Rules](https://dev.to/arvind_sundararajan/clarity-from-chaos-super-resolution-imaging-that-bends-the-rules-282b)
+- [Outil de Cybersécurité du Jour - Nov 1, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-1-2025-45jm)
 - [🤖 The Secret Lives of AI Agents: What Do They ‘Think’ When You’re Not Looking?](https://dev.to/pracode_2503/the-secret-lives-of-ai-agents-what-do-they-think-when-youre-not-looking-523e)
-- [Why You Should Care About Pre-Commit Hooks &lpar;and How Husky Makes It Easier&rpar;](https://dev.to/osalumense/why-you-should-care-about-pre-commit-hooks-and-how-husky-makes-it-easier-4im4)
-- [Securing Private AWS Environments with a Bastion Host — The DevOps Gateway Explained](https://dev.to/srinivasamcjf/securing-private-aws-environments-with-a-bastion-host-the-devops-gateway-explained-13i1)
-- [Why I Fell in Love with Python at 12, and How That Passion Defined the Architecture of My AI Startup](https://dev.to/kesaru_hasun/why-i-fell-in-love-with-python-at-12-and-how-that-passion-defined-the-architecture-of-my-ai-startup-4elh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
