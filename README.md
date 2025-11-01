@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1g60)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-273d)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2pmd)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-7h0)
-- [Part II : Building My First Large Language Model from Scratch](https://dev.to/ujjwall-r/part-ii-building-my-first-large-language-model-from-scratch-46ii)
+- [Data package](https://dev.to/doccaio/data-package-3hcg)
+- [Check out the guide on - The Art of Tableau Performance Optimization: How Smart Logic Reduced a Dashboard Load Time by 98.9%](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-art-of-tableau-performance-optimization-how-smart-logic-reduced-a-j41)
+- [Daily Dev Challenges - Day 01 🚀](https://dev.to/kevinrawal/daily-dev-challenges-day-01-5fl6)
+- [Check out the guide on - Mastering Principal Component Analysis &lpar;PCA&rpar; in R: A Complete Guide from Basics to Business Insights](https://dev.to/thedatageek/check-out-the-guide-on-mastering-principal-component-analysis-pca-in-r-a-complete-guide-from-1kjg)
+- [Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
