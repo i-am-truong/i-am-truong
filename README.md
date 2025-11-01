@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🏁ASPICE Literacy — Episode 9: ASPICE &amp; Functional Safety: Siblings 👫 or Strangers 👥?](https://dev.to/abdulosman/aspice-literacy-episode-9-aspice-functional-safety-siblings-or-strangers--g6j)
-- [CI/CT Quality Automation Tool](https://dev.to/brettstark73/cict-quality-automation-tool-1ei1)
-- [**Transformers in Medical Diagnosis: A Breakthrough at the U](https://dev.to/drcarlosruizviquez/transformers-in-medical-diagnosis-a-breakthrough-at-the-u-4eb8)
-- [From Casual to Corporate: Building a Formalizer Agent with Mastra and Telex.im](https://dev.to/ibrahimabdulquadri101/from-casual-to-corporate-building-a-formalizer-agent-with-mastra-and-telexim-52a2)
-- [How we tried to create a frontend framework which can be learned in 5 minutes and which is the result](https://dev.to/vasille/how-we-tried-to-create-a-frontend-framework-which-can-be-learned-in-5-minutes-and-which-is-the-4je6)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-4937)
+- [Keeping Linux Responsive - Taming the OOM Killer with EarlyOOM](https://dev.to/prasadkjose/keeping-linux-responsive-taming-the-oom-killer-with-earlyoom-14ef)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2ai)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4p1m)
+- [Semantic search with embeddings in PHP: a hands-on guide using Neuron AI and Ollama](https://dev.to/robertobutti/semantic-search-with-embeddings-in-php-a-hands-on-guide-using-neuron-ai-and-ollama-16c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
