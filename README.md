@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Ownership, Moves, Borrowing, and Lifetimes in Rust](https://dev.to/amritsingh183/mastering-ownership-moves-borrowing-and-lifetimes-in-rust-5077)
+- [Neural Networks in Coding: A Deep Dive into the AI Coding Paradigm](https://dev.to/softwaredeveloper01/neural-networks-in-coding-a-deep-dive-into-the-ai-coding-paradigm-4ie1)
+- [How I Reduced My Dashboard Bundle Size from 1.72 MB to 299 KB for Faster Loading](https://dev.to/naufalyukafi/how-i-reduced-my-dashboard-bundle-size-from-172-mb-to-299-kb-for-faster-loading-3gg5)
+- [AI Agents in 2025: A Practical Guide for Developers](https://dev.to/navyashipsit/ai-agents-in-2025-a-practical-guide-for-developers-32ep)
 - [Tetrix vs Claude](https://dev.to/akkii2022/tetrix-vs-claude-4923)
-- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-i99)
-- [How I Ended Up Choosing Cloudflare Workers for My Projects](https://dev.to/ukasyah-dev/how-i-ended-up-choosing-cloudflare-workers-for-my-projects-45a)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mic)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1fdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
