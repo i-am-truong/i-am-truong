@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tipos Primitivos em Python](https://dev.to/ryanmarinho/tipos-primitivos-em-python-3h5f)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-33b4)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-5e92)
-- [AI and Data Virtualization: A Symbiotic Relationship For Smart Data Management](https://dev.to/naveen_kolli_a8501e4633c5/ai-and-data-virtualization-a-symbiotic-relationship-for-smart-data-management-2c13)
-- [Why AI Needs a Face: Building Dew, My Duolingo-Inspired AI Character](https://dev.to/uianimation/why-ai-needs-a-face-building-dew-my-duolingo-inspired-ai-character-43go)
+- [resources.azure.com is deprecated](https://dev.to/andrewelans/resourcesazurecom-is-deprecated-15ch)
+- [How Photo Contests Teach Technical Thinking and Creative Discipline](https://dev.to/michaeltrent/how-photo-contests-teach-technical-thinking-and-creative-discipline-noi)
+- [How to Data Engineer the ETLFunnel Way](https://dev.to/vivekburman/how-to-data-engineer-the-etlfunnel-way-2g9d)
+- [Rate my landing page :&rpar;](https://dev.to/adept_4d69dd481217acd38df/rate-my-landing-page--2ad)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-3ldd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
