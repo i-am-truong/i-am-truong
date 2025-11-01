@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Idea Library Using No-Code and Vibe-Code](https://dev.to/cathyliusolo/how-i-built-an-ai-idea-library-using-no-code-and-vibe-code-1a2b)
-- [The Agent&#39;s Hands on AWS: Securing the New Frontier of AI Safety Before It Secures You](https://dev.to/anitha_senthilnathan/the-agents-hands-on-aws-securing-the-new-frontier-of-ai-safety-before-it-secures-you-egb)
-- [Architectural Sanctums: Crafting Mini-Apps with Rails Engines](https://dev.to/alex_aslam/architectural-sanctums-crafting-mini-apps-with-rails-engines-25dc)
-- [Sculpting Monoliths: The Art of Packaging Rails with Components, Gems, and Engines](https://dev.to/alex_aslam/sculpting-monoliths-the-art-of-packaging-rails-with-components-gems-and-engines-1p93)
-- [Stop Focusing on Bigger AI Models—Here’s The Real Breakthrough Everyone’s Missing About Emotional Intelligence in AI](https://dev.to/paul_allen_ccfde9d33a48d5/stop-focusing-on-bigger-ai-models-heres-the-real-breakthrough-everyones-missing-about-emotional-pnh)
+- [MCP Security](https://dev.to/barak_codes/mcp-security-45o8)
+- [📰 Major Tech News: Oct 31, 2025 : Big Tech&#39;s AI Spending Surge, Nvidia&#39;s Chip Partnerships, and OpenAI&#39;s Security Innovation](https://dev.to/om_shree_0709/major-tech-news-oct-31-2025-big-techs-ai-spending-surge-nvidias-chip-partnerships-and-3884)
+- [🎓 &quot;Amodal Completion&quot; in Computer Vision: Unveiling the Powe](https://dev.to/drcarlosruizviquez/amodal-completion-in-computer-vision-unveiling-the-powe-3bpp)
+- [MCP Security: Navigating the Exploit Playbook for Agent](https://dev.to/om_shree_0709/mcp-security-navigating-the-exploit-playbook-for-agent-56m7)
+- [**Unlock the Power of AI-Powered Threat Hunting: Discovering](https://dev.to/drcarlosruizviquez/unlock-the-power-of-ai-powered-threat-hunting-discovering-g7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
