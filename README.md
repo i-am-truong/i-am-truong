@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-15kf)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4431)
-- [Build Your Own AI Chatbot Like ChatGPT — A Practical Guide with Code](https://dev.to/rajni_ai/build-your-own-ai-chatbot-like-chatgpt-a-practical-guide-with-code-573n)
-- [How To Make Emoticons With Your Keyboard](https://dev.to/emoticonhub/how-to-make-emoticons-with-your-keyboard-kn)
-- [How to Install Gemini CLI](https://dev.to/pritish_academy/how-to-install-gemini-cli-4744)
+- [🚀 Smart Reply | Now Available on the Web 🌐](https://dev.to/mahmud-r-farhan/smart-reply-now-available-on-the-web-20jk)
+- [Understanding Layer 1 &amp; Layer 2 in Web3 — For Builders](https://dev.to/omniradhanexus/understanding-layer-1-layer-2-in-web3-for-builders-4330)
+- [[Boost]](https://dev.to/ben/-4gae)
+- [Unlock Dual Revenue: How LLM Apps Can Thrive with AI Monetization Strategies](https://dev.to/monetzly/unlock-dual-revenue-how-llm-apps-can-thrive-with-ai-monetization-strategies-2hg1)
+- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-581d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
