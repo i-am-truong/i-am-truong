@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Surprising Network Effect Power Play: How ETHWomen Quietly Redefined Web3 Inclusion in America](https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-network-effect-power-play-how-ethwomen-quietly-redefined-web3-inclusion-in-america-13n1)
-- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-51a8)
+- [Azure Data Factory — The Conveyor Belt of Data in the Cloud](https://dev.to/dotnetfullstackdev/azure-data-factory-the-conveyor-belt-of-data-in-the-cloud-2d9d)
+- [The Surprising Reason ETHWomen’s U.S. Playbook Is Reshaping Web3 &lpar;and Why Old Inclusion Models Are Failing&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-reason-ethwomens-us-playbook-is-reshaping-web3-and-why-old-inclusion-models-are-all)
+- [Cracking Code with Quantum: Can Machines Really Understand Us?](https://dev.to/mabualzait/cracking-code-with-quantum-can-machines-really-understand-us-43nh)
+- [The Hidden Network Effect Powering ETHWomen’s US Web3 Expansion &lpar;And Why Old Diversity Models Fall Short&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-hidden-network-effect-powering-ethwomens-us-web3-expansion-and-why-old-diversity-models-fall-47ja)
 - [✨ Add Sorting Feature to Your React Packing List App](https://dev.to/usama_dev/add-sorting-feature-to-your-react-packing-list-app-27h2)
-- [Soporte multilenguaje en WinUI 3](https://dev.to/williamprogramer/soporte-multilenguaje-en-winui-3-jmm)
-- [🧱 I built a customizable Ratings &amp; Reviews dashboard for React](https://dev.to/arvymo/i-built-a-customizable-ratings-reviews-dashboard-for-react-3l5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
