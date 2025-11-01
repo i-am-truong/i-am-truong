@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🏁ASPICE Literacy — Episode 9: ASPICE &amp; Functional Safety: Siblings 👫 or Strangers 👥?](https://dev.to/abdulosman/aspice-literacy-episode-9-aspice-functional-safety-siblings-or-strangers--g6j)
+- [CI/CT Quality Automation Tool](https://dev.to/brettstark73/cict-quality-automation-tool-1ei1)
+- [**Transformers in Medical Diagnosis: A Breakthrough at the U](https://dev.to/drcarlosruizviquez/transformers-in-medical-diagnosis-a-breakthrough-at-the-u-4eb8)
+- [From Casual to Corporate: Building a Formalizer Agent with Mastra and Telex.im](https://dev.to/ibrahimabdulquadri101/from-casual-to-corporate-building-a-formalizer-agent-with-mastra-and-telexim-52a2)
 - [How we tried to create a frontend framework which can be learned in 5 minutes and which is the result](https://dev.to/vasille/how-we-tried-to-create-a-frontend-framework-which-can-be-learned-in-5-minutes-and-which-is-the-4je6)
-- [Building an AI Chat Application with Spring AI and OpenAI](https://dev.to/ayshriv/building-an-ai-chat-application-with-spring-ai-and-openai-40kj)
-- [Day 1 of #LearnInPublic Java Patterns](https://dev.to/aviral_pathak_cbda60e8370/day-1-of-learninpublic-java-patterns-hpi)
-- [AI as Mathematical Muse: Unlocking the Universe&#39;s Secrets Together](https://dev.to/arvind_sundararajan/ai-as-mathematical-muse-unlocking-the-universes-secrets-together-4ccc)
-- [The infrastructure stack is getting faster. Terraform is not.](https://dev.to/josh_pollara_2f8bb369b3f3/the-infrastructure-stack-is-getting-faster-terraform-is-not-4dga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
