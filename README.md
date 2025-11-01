@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Stopped Using Vercel &lpar;And Built My Own Setup Instead&rpar;](https://dev.to/lotfijb/why-i-stopped-using-vercel-and-built-my-own-setup-instead-4b0g)
+- [My First Open Source Journey](https://dev.to/harshaabhi/my-first-open-source-journey-841)
 - [प्रारम्भिक वैदिक काल की राजनीतिक एवं आर्थिक परिस्थितियों का विश्लेषण](https://dev.to/04anilr/praarmbhik-vaidik-kaal-kii-raajniitik-evn-aarthik-pristhitiyon-kaa-vishlessnn-3fja)
 - [भारत की नवपाषाण संस्कृतियों के क्षेत्रीय वितरण तथा विशिष्ट लक्षणों का परीक्षण](https://dev.to/04anilr/bhaart-kii-nvpaassaann-snskrtiyon-ke-kssetriiy-vitrnn-tthaa-vishisstt-lkssnnon-kaa-priikssnn-5bkl)
 - [Emma Mattress Discount Code UK – Huge Savings on Premium Sleep Solutions!](https://dev.to/john_matteo_0e50c378b8155/emma-mattress-discount-code-uk-huge-savings-on-premium-sleep-solutions-1f48)
-- [Starting My Journey on DEV as a Backend Developer](https://dev.to/umutalb/starting-my-journey-on-dev-as-a-backend-developer-1kb2)
-- [सिंधु घाटी सभ्यता के लोगों के सामाजिक और आर्थिक जीवन की मुख्य विशेषताएँ](https://dev.to/04anilr/sindhu-ghaattii-sbhytaa-ke-logon-ke-saamaajik-aur-aarthik-jiivn-kii-mukhy-vishesstaaen-1j7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
