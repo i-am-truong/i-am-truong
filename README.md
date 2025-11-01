@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data package](https://dev.to/doccaio/data-package-3hcg)
-- [Check out the guide on - The Art of Tableau Performance Optimization: How Smart Logic Reduced a Dashboard Load Time by 98.9%](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-art-of-tableau-performance-optimization-how-smart-logic-reduced-a-j41)
-- [Daily Dev Challenges - Day 01 🚀](https://dev.to/kevinrawal/daily-dev-challenges-day-01-5fl6)
-- [Check out the guide on - Mastering Principal Component Analysis &lpar;PCA&rpar; in R: A Complete Guide from Basics to Business Insights](https://dev.to/thedatageek/check-out-the-guide-on-mastering-principal-component-analysis-pca-in-r-a-complete-guide-from-1kjg)
-- [Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f)
+- [AWS 2025 Retirements: Charting the Course Through Service Sunsets and Seamless Migrations](https://dev.to/muhammad_zeeshan_6499a22a/aws-2025-retirements-charting-the-course-through-service-sunsets-and-seamless-migrations-n3l)
+- [Master the Java charAt&lpar;&rpar; Method: Your Ultimate Guide with Examples &amp; Use Cases](https://dev.to/satyam_gupta_0d1ff2152dcc/master-the-java-charat-method-your-ultimate-guide-with-examples-use-cases-3742)
+- [Master Java String Methods: The Ultimate Guide with Real-World Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-string-methods-the-ultimate-guide-with-real-world-examples-2ej1)
+- [🧠 Soft Architecture &lpar;Part B&rpar;: Emotional Timers and the Code of Care &lpar;Part 5 of the SaijinOS series&rpar;](https://dev.to/kato_masato_c5593c81af5c6/soft-architecture-part-b-emotional-timers-and-the-code-of-carepart-5-of-the-saijinos-series-25b)
+- [Why 0.1 + 0.2 0.3 in JavaScript: The Truth About Floating-Point Numbers](https://dev.to/zaidrehman/why-01-02-03-in-javascript-the-truth-about-floating-point-numbers-550e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
