@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Spooky Cozy Haven: explorando CSS, SVGs e interatividade para o Halloween](https://dev.to/dev-sigo/my-spooky-cozy-haven-explorando-css-svgs-e-interatividade-para-o-halloween-5e46)
+- [How to Validate CSV and JSON Files Online with SchemaCheck](https://dev.to/schemacheck/how-to-validate-csv-files-before-importing-stop-broken-data-at-the-source-2fa7)
+- [Building Code Mentor: An AI Agent That Creates Learning Roadmaps Using Mastra &amp; Telex](https://dev.to/queen_codes/building-code-mentor-an-ai-agent-that-creates-learning-roadmaps-using-mastra-telex-1666)
 - [GDG on Campus Graphic Era Dehradun](https://dev.to/gdg-geu/gdg-on-campus-graphic-era-dehradun-557j)
-- [Daily DSA and System Design Journal - 16](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-16-286n)
-- [The Market Move That Shook Prediction Platforms: How Coinbase’s Brian Armstrong Proved Manipulation Is Easier Than You Think](https://dev.to/paul_allen_ccfde9d33a48d5/the-market-move-that-shook-prediction-platforms-how-coinbases-brian-armstrong-proved-manipulation-4h9d)
-- [Hydra Brute-Force: 5 Labs to Crack Telnet, HTTP, and FTP Credentials &lpar;Verify Installation &amp; Speed&rpar;](https://dev.to/labex/hydra-brute-force-5-labs-to-crack-telnet-http-and-ftp-credentials-verify-installation-speed-fn5)
-- [Unleash Code Power: Graph-Based AI for Smarter Code Generation by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unleash-code-power-graph-based-ai-for-smarter-code-generation-by-arvind-sundararajan-e7g)
+- [Built a full Spring Boot 3 + Thymeleaf marketplace &amp; e-commerce template 🚀](https://dev.to/trabelsi_mohamedjaouher_/built-a-full-spring-boot-3-thymeleaf-marketplace-e-commerce-template-2e32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
