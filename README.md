@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering `Copy` and `Clone` traits in Rust](https://dev.to/amritsingh183/mastering-copy-and-clone-traits-in-rust-5be0)
-- [Mastering `Copy` and `Clone` traits in Rust](https://dev.to/amritsingh183/mastering-copy-and-clone-traits-in-rust-455e)
-- [A Complete Guide to Rust Variables, Ownership, Lifetimes, and Memory Management](https://dev.to/amritsingh183/a-complete-guide-to-rust-ownership-lifetimes-and-memory-management-4j2a)
-- [Rust vs. Go: Type-Safe State Machines Explained Through Star Wars](https://dev.to/amritsingh183/rust-vs-go-type-safe-state-machines-explained-through-star-wars-4eib)
-- [Linked Lists in Rust 1.90.0: A Comprehensive Technical Guide](https://dev.to/amritsingh183/linked-lists-in-rust-1900-a-comprehensive-technical-guide-3965)
+- [System Design Explained Like a Human — 25 Core Concepts with Real Examples and Tools Part -1](https://dev.to/adityathearchitect/system-design-explained-like-a-human-25-core-concepts-with-real-examples-and-tools-part-1-51h3)
+- [Reflections on the AWS &amp; Azure Outages](https://dev.to/this-is-learning/reflections-on-the-aws-azure-outages-4iok)
+- [📝 Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL 💾](https://dev.to/bharanika_d24cb005_97900/understanding-transactions-deadlocks-log-based-recovery-in-sql-3cd1)
+- [Clarity From Chaos: AI Super-Resolution Redefined](https://dev.to/arvind_sundararajan/clarity-from-chaos-ai-super-resolution-redefined-eko)
+- [Your Startup Is Dying While You Debate Django vs FastAPI](https://dev.to/sizan_mahmud0_e7c3fd0cb68/your-startup-is-dying-while-you-debate-django-vs-fastapi-2hcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
