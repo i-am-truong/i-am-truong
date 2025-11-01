@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Chat Application with Spring AI and OpenAI](https://dev.to/ayshriv/building-an-ai-chat-application-with-spring-ai-and-openai-40kj)
 - [A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining](https://dev.to/paperium/a-tale-of-llms-and-induced-small-proxies-scalable-agents-for-knowledge-mining-4d8g)
 - [Day 1 of #LearnInPublic Java Patterns](https://dev.to/aviral_pathak_cbda60e8370/day-1-of-learninpublic-java-patterns-hpi)
 - [AI as Mathematical Muse: Unlocking the Universe&#39;s Secrets Together](https://dev.to/arvind_sundararajan/ai-as-mathematical-muse-unlocking-the-universes-secrets-together-4ccc)
 - [The infrastructure stack is getting faster. Terraform is not.](https://dev.to/josh_pollara_2f8bb369b3f3/the-infrastructure-stack-is-getting-faster-terraform-is-not-4dga)
-- [iPlusCode - a small Chrome extension to make Codeforces a bit nicer](https://dev.to/vivekvohra/ipluscode-a-small-chrome-extension-to-make-codeforces-a-bit-nicer-4cme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
