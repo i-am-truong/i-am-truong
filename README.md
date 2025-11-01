@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript bundlers](https://dev.to/whyang9701/javascript-bundlers-1e1k)
 - [My Spooky Cozy Haven: explorando CSS, SVGs e interatividade para o Halloween](https://dev.to/dev-sigo/my-spooky-cozy-haven-explorando-css-svgs-e-interatividade-para-o-halloween-5e46)
+- [Boost Your Sales with Shopify Ecommerce Tips](https://dev.to/api_troll/boost-your-sales-with-shopify-ecommerce-tips-4gh4)
 - [How to Validate CSV and JSON Files Online with SchemaCheck](https://dev.to/schemacheck/how-to-validate-csv-files-before-importing-stop-broken-data-at-the-source-2fa7)
-- [Building Code Mentor: An AI Agent That Creates Learning Roadmaps Using Mastra &amp; Telex](https://dev.to/queen_codes/building-code-mentor-an-ai-agent-that-creates-learning-roadmaps-using-mastra-telex-1666)
-- [GDG on Campus Graphic Era Dehradun](https://dev.to/gdg-geu/gdg-on-campus-graphic-era-dehradun-557j)
-- [Built a full Spring Boot 3 + Thymeleaf marketplace &amp; e-commerce template 🚀](https://dev.to/trabelsi_mohamedjaouher_/built-a-full-spring-boot-3-thymeleaf-marketplace-e-commerce-template-2e32)
+- [J’ai créé mon premier package NPM avec l’aide de l’IA !](https://dev.to/funeste38/jai-cree-mon-premier-package-npm-avec-laide-de-lia--2efl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
