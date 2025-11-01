@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP Servers Explained: Why They&#39;re More Than Just APIs for AI](https://dev.to/raghavajoijode/mcp-servers-explained-why-theyre-more-than-just-apis-for-ai-4h57)
-- [Any% Kindness](https://dev.to/junothreadborne/any-kindness-2lc4)
-- [Building “AI Disaster Response Platform” with Google Cloud Run and Gemini](https://dev.to/monishwar_reddyvardiredd/building-ai-disaster-response-platform-with-google-cloud-run-and-gemini-279p)
-- [ScrollForge: Causal Graph Programming — unify state, logic, and style.](https://dev.to/infernusreal/scrollforge-causal-graph-programming-unify-state-logic-and-style-4025)
-- [650+ Frontend Interview Questions &lpar;JavaScript, React, Next.js &amp; More&rpar; — My Complete Prep Journey](https://dev.to/maurya-sachin/650-frontend-interview-questions-javascript-react-nextjs-more-my-complete-prep-journey-12in)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-15kf)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4431)
+- [Build Your Own AI Chatbot Like ChatGPT — A Practical Guide with Code](https://dev.to/rajni_ai/build-your-own-ai-chatbot-like-chatgpt-a-practical-guide-with-code-573n)
+- [How To Make Emoticons With Your Keyboard](https://dev.to/emoticonhub/how-to-make-emoticons-with-your-keyboard-kn)
+- [How to Install Gemini CLI](https://dev.to/pritish_academy/how-to-install-gemini-cli-4744)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
