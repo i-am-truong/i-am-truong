@@ -119,12 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prompt engineering is evolving fast, and GitHub is where that evolution lives.
-If you’re serious about mastering how AI systems think, these 5 repositories will save you months of trial and error.](https://dev.to/jaideepparashar/prompt-engineering-is-evolving-fast-and-github-is-where-that-evolution-lives-if-youre-serious-34p1)
-- [The 5 GitHub Repositories Every Prompt Engineer Should Bookmark](https://dev.to/jaideepparashar/the-5-github-repositories-every-prompt-engineer-should-bookmark-5777)
-- [Before CI/CD, You Need a Place to Build: Why Provisioning Comes First in DevOps](https://dev.to/srinivasamcjf/before-cicd-you-need-a-place-to-build-why-provisioning-comes-first-in-devops-38jh)
-- [Dictionary in Python &lpar;5&rpar;](https://dev.to/hyperkai/dictionary-in-python-5-3ooo)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-17do)
+- [How I Built an MCP-Powered AI Git Commit Generator &lpar;And Why My Repository Loves Me Now&rpar; 🚀🤖](https://dev.to/surajfale/how-i-built-an-mcp-powered-ai-git-commit-generator-and-why-my-repository-loves-me-now-2o34)
+- [🔍 Transparency Isn&#39;t Just What You Show](https://dev.to/junothreadborne/transparency-isnt-just-what-you-show-odj)
+- [Building a Frontend-Only Authentication System](https://dev.to/tajudeen_abdulgafar_e0363/building-a-frontend-only-authentication-system-knp)
+- [From Stalled Growth to Skyrocketing Impact: How ETHWomen Is Quietly Disrupting U.S. Web3 Inclusion &lpar;And Slashing Costs by 70%&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/from-stalled-growth-to-skyrocketing-impact-how-ethwomen-is-quietly-disrupting-us-web3-inclusion-1jdb)
+- [&quot;IN MEMES WE TRUST, ALL HAIL THE EXPLORER!&quot;](https://dev.to/bibimbop123/in-memes-we-trust-all-hail-the-explorer-2pfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
