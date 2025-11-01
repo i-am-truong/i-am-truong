@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your &quot;Microservices&quot; Are Just a Distributed Monolith &lpar;And Everyone Knows It&rpar;](https://dev.to/adamthedeveloper/your-microservices-are-just-a-distributed-monolith-and-everyone-knows-it-3a05)
-- [Multimodal Policy Internalization for Conversational Agents](https://dev.to/paperium/multimodal-policy-internalization-for-conversational-agents-4k48)
-- [My Spooky Cozy Haven: exploring CSS, SVGs, and interactivity for Halloween](https://dev.to/dev-sigo/my-spooky-cozy-haven-exploring-css-svgs-and-interactivity-for-halloween-4io4)
-- [JavaScript bundlers](https://dev.to/whyang9701/javascript-bundlers-1e1k)
-- [My Spooky Cozy Haven: explorando CSS, SVGs e interatividade para o Halloween](https://dev.to/dev-sigo/my-spooky-cozy-haven-explorando-css-svgs-e-interatividade-para-o-halloween-5e46)
+- [Checkout my new post!](https://dev.to/jay_sheth/checkout-my-new-post-1k10)
+- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9)
+- [🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud &lpar;Step-by-Step with Screenshots&rpar;](https://dev.to/jay_sheth/how-to-set-up-a-global-http-load-balancer-on-google-cloud-step-by-step-with-screenshots-3ghi)
+- [⚡ Why Vite Feels So Fast — and What You No Longer Need to Configure Manually](https://dev.to/vishwark/why-vite-feels-so-fast-and-what-you-no-longer-need-to-configure-manually-5g9b)
+- [Smart Form Submissions: Only Send Changed Data with WebForms Core 2](https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
