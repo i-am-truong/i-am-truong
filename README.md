@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Code Feels Personal](https://dev.to/natashaasnani/when-code-feels-personal-38o9)
+- [🤖 The Secret Lives of AI Agents: What Do They ‘Think’ When You’re Not Looking?](https://dev.to/pracode_2503/the-secret-lives-of-ai-agents-what-do-they-think-when-youre-not-looking-523e)
+- [Why You Should Care About Pre-Commit Hooks &lpar;and How Husky Makes It Easier&rpar;](https://dev.to/osalumense/why-you-should-care-about-pre-commit-hooks-and-how-husky-makes-it-easier-4im4)
 - [Securing Private AWS Environments with a Bastion Host — The DevOps Gateway Explained](https://dev.to/srinivasamcjf/securing-private-aws-environments-with-a-bastion-host-the-devops-gateway-explained-13i1)
 - [Why I Fell in Love with Python at 12, and How That Passion Defined the Architecture of My AI Startup](https://dev.to/kesaru_hasun/why-i-fell-in-love-with-python-at-12-and-how-that-passion-defined-the-architecture-of-my-ai-startup-4elh)
-- [Overdue Payment Reminder and Collection Automation](https://dev.to/sabbschow/overdue-payment-reminder-and-collection-automation-308a)
-- [Hypackel Games: Behind the Developers and Their Gaming Vision](https://dev.to/ray_parker01/hypackel-games-behind-the-developers-and-their-gaming-vision-4i8c)
-- [WTF is Remote Browser Isolation?](https://dev.to/dailybugle33/wtf-is-remote-browser-isolation-36f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
