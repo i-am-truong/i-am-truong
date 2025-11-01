@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [भारत की नवपाषाण संस्कृतियों के क्षेत्रीय वितरण तथा विशिष्ट लक्षणों का परीक्षण](https://dev.to/04anilr/bhaart-kii-nvpaassaann-snskrtiyon-ke-kssetriiy-vitrnn-tthaa-vishisstt-lkssnnon-kaa-priikssnn-5bkl)
 - [Emma Mattress Discount Code UK – Huge Savings on Premium Sleep Solutions!](https://dev.to/john_matteo_0e50c378b8155/emma-mattress-discount-code-uk-huge-savings-on-premium-sleep-solutions-1f48)
 - [Starting My Journey on DEV as a Backend Developer](https://dev.to/umutalb/starting-my-journey-on-dev-as-a-backend-developer-1kb2)
-- [प्राचीन भारतीय इतिहास के पुनर्निर्माण में विभिन्न पुरातात्विक स्रोतों का महत्व](https://dev.to/04anilr/assessment-of-the-importance-of-various-archaeological-sources-for-the-reconstruction-of-ancient-38j6)
+- [सिंधु घाटी सभ्यता के लोगों के सामाजिक और आर्थिक जीवन की मुख्य विशेषताएँ](https://dev.to/04anilr/sindhu-ghaattii-sbhytaa-ke-logon-ke-saamaajik-aur-aarthik-jiivn-kii-mukhy-vishesstaaen-1j7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
