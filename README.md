@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kalman Filter Algorithm: Core Principles, Advantages, Applications, and C Code Implementation](https://dev.to/tiger_smith_9f421b9131db5/kalman-filter-algorithm-core-principles-advantages-applications-and-c-code-implementation-55mf)
 - [Next.js in 2025: Why It&#39;s the Best React Framework](https://dev.to/devraj_singh_a58b5b5589de/nextjs-in-2025-why-its-the-best-react-framework-3a0c)
 - [My Hacktoberfest 2025](https://dev.to/xthasunil/my-hacktoberfest-2025-1j22)
 - [Why Solving Coding Exercises Daily Improves Logic Building](https://dev.to/quipoin_a9cb84280f6225b1e/why-solving-coding-exercises-daily-improves-logic-building-48i5)
 - [System Design Explained Like a Human — 25 Core Concepts with Real Examples and Tools Part -2](https://dev.to/adityathearchitect/system-design-explained-like-a-human-25-core-concepts-with-real-examples-and-tools-part-2-57jo)
-- [The Hidden Side of AI: Why Web Developers Must Build Responsibly 🤖⚖️](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-hidden-side-of-ai-why-web-developers-must-build-responsibly-4e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
