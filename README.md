@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can you save on LLM tokens using images instead of text?](https://dev.to/lpellis/can-you-save-on-llm-tokens-using-images-instead-of-text-1338)
-- [Using MockK library in Jetpack Compose Preview](https://dev.to/mardsoul/using-mockk-library-in-jetpack-compose-preview-nkc)
-- [Developers vs AI: How Smart Tools Make Us Dumber Coders](https://dev.to/marxon/developers-vs-ai-how-smart-tools-make-us-dumber-coders-k51)
-- [Building Archaic - Nostalic memory sharing platform](https://dev.to/designzbyoj/building-archaic-nostalic-memory-sharing-platform-2479)
-- [Can AI systems that optimize for human emotional intelligenc](https://dev.to/drcarlosruizviquez/can-ai-systems-that-optimize-for-human-emotional-intelligenc-4ci7)
+- [A Senior Engineer&#39;s Guide to the Model Context Protocol](https://dev.to/onlineproxy/a-senior-engineers-guide-to-the-model-context-protocol-1g3f)
+- [How to work with nested locale folder structures in Vue](https://dev.to/bcostaaa01/how-to-work-with-nested-locale-folder-structures-in-vue-2bn4)
+- [Modal closing on refresh &lpar;React + Zustand + sessionStorage&rpar;](https://dev.to/sudarshan_s_hosalli/modal-closing-on-refresh-react-zustand-sessionstorage-28ef)
+- [Can AI systems that optimize for human emotional intelligenc](https://dev.to/drcarlosruizviquez/can-ai-systems-that-optimize-for-human-emotional-intelligenc-12d3)
+- [🔥 Black Friday Vue.js Expert: 50% de Desconto + Vagas LIMITADAS](https://dev.to/patrickmonteiro/black-friday-vuejs-expert-50-de-desconto-vagas-limitadas-4ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
