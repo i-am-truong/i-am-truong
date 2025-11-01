@@ -81,10 +81,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [What a Day of RTT Monitoring Reveals: Comparing 6 Public DNS Services &lpar;2025-10-20&rpar;-A Multi-Target Correlation Approach](https://dev.to/taniyama/what-a-day-of-rtt-monitoring-reveals-comparing-6-public-dns-services-2025-10-20-a-multi-target-5428)
-- [Big Data, Small Genes: Handling Terabytes of DNA Information](https://dev.to/mubashir1837/big-data-small-genes-handling-terabytes-of-dna-information-14mi)
 - [How can I bind OLSRT to Node.js?](https://dev.to/javadinteger/how-can-i-bind-olsrt-to-nodejs-352m)
 - [🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript](https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91)
 - [MX, SPF, DKIM, and DMARC: The DNS Stack Behind Every Email](https://dev.to/rijultp/mx-spf-dkim-and-dmarc-the-dns-stack-behind-every-email-4351)
+- [Infrastructure as Code: Terraform Magic Unleashed ⚡](https://dev.to/tavernetech/infrastructure-as-code-terraform-magic-unleashed-887)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
