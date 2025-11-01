@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure Data Factory — The Conveyor Belt of Data in the Cloud](https://dev.to/dotnetfullstackdev/azure-data-factory-the-conveyor-belt-of-data-in-the-cloud-2d9d)
-- [The Importance of Recovery: Why Rest Days Are Just as Crucial as Workouts](https://dev.to/tehreem_seorankhive_6c6ea/the-importance-of-recovery-why-rest-days-are-just-as-crucial-as-workouts-556l)
-- [The Surprising Reason ETHWomen’s U.S. Playbook Is Reshaping Web3 &lpar;and Why Old Inclusion Models Are Failing&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-reason-ethwomens-us-playbook-is-reshaping-web3-and-why-old-inclusion-models-are-all)
-- [Cracking Code with Quantum: Can Machines Really Understand Us?](https://dev.to/mabualzait/cracking-code-with-quantum-can-machines-really-understand-us-43nh)
-- [The Hidden Network Effect Powering ETHWomen’s US Web3 Expansion &lpar;And Why Old Diversity Models Fall Short&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-hidden-network-effect-powering-ethwomens-us-web3-expansion-and-why-old-diversity-models-fall-47ja)
+- [JavaScript Nullish Coalescing Operator &lpar;??&rpar;](https://dev.to/tanvir_ahamed/javascript-nullish-coalescing-operator--7ko)
+- [Next.js vs Remix 2025 — Which One Wins?](https://dev.to/ganesh_tidake/nextjs-vs-remix-2025-which-one-wins-4np5)
+- [Add Image Uploads to Your App in 15 Minutes Using ImageUpload.app API](https://dev.to/cond/add-image-uploads-to-your-app-in-15-minutes-using-imageuploadapp-api-f2f)
+- [Revealing the Unseen: AI-Powered Super-Resolution from Extreme Noise by Arvind Sundararajan](https://dev.to/arvind_sundararajan/revealing-the-unseen-ai-powered-super-resolution-from-extreme-noise-by-arvind-sundararajan-5b4g)
+- [AI-Generated Death Threats: Where Reality Meets Deception](https://dev.to/mabualzait/ai-generated-death-threats-where-reality-meets-deception-1afb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
