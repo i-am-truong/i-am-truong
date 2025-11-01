@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-1-h7l)
+- [Asynchronous Loops in JavaScript](https://dev.to/senior-debugger/asynchronous-loops-in-javascript-27cb)
 - [Agentic Browsers Are Dangerous! AI Vulnerabilities: ChatGPT Atlas, Perplexity Comet](https://dev.to/empiree/agentic-browsers-are-dangerous-ai-vulnerabilities-chatgpt-atlas-perplexity-comet-k1b)
 - [How to Enhance Your Jira Test Project Management](https://dev.to/kayson_2025/how-to-enhance-your-jira-test-project-management-2024)
 - [Laravel Blade Partial API Pattern: Fetching Data — The Missing Part](https://dev.to/raheelshan/laravel-blade-partial-api-pattern-fetching-data-the-missing-part-4i24)
-- [State Management in Flutter with Riverpod](https://dev.to/youssef_mohamed_e636291be/state-management-in-flutter-with-riverpod-1po7)
-- [Why the Oldest, Simplest Algorithms Are Beating AI](https://dev.to/jose_crespo_phd/why-the-oldest-simplest-algorithms-are-beating-ai-1n13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
