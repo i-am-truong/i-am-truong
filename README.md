@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Vite vs Turbopack — The Present &amp; Future of Frontend Build Tools &lpar;2025 Edition&rpar;](https://dev.to/vishwark/vite-vs-turbopack-the-present-future-of-frontend-build-tools-2025-edition-1iom)
+- [JOURNEY INTO BLOCKCHAIN DEVELOPMENT THE EASY WAY](https://dev.to/codebigint_01/journey-into-blockchain-development-the-easy-way-40jj)
+- [Micronaut Framework: The Next Generation JVM](https://dev.to/rajkundalia/micronaut-framework-the-next-generation-jvm-31l7)
 - [Understanding Agent-Driven Healthcare Chatbots: A Detailed Guide](https://dev.to/junaaid96/understanding-agent-driven-healthcare-chatbots-a-detailed-guide-k3)
 - [Healthy Eating Habits for Kids](https://dev.to/nadeem_sarfraz/healthy-eating-habits-for-kids-2lfe)
-- [A comprehensive guide to Map in Java](https://dev.to/ehrbhein/a-comprehensive-guide-to-usage-of-map-in-java-10ja)
-- [Udio allows users to download AI songs for 48 hours after backlash over UMGlegal settlement](https://dev.to/ytosko/udio-allows-users-to-download-ai-songs-for-48-hours-after-backlash-over-umglegal-settlement-5018)
-- [Quantum Leaps in Finance: Optimizing Collateral with Quantum-Inspired AI](https://dev.to/arvind_sundararajan/quantum-leaps-in-finance-optimizing-collateral-with-quantum-inspired-ai-2hko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
