@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sistema de Control de Jobs en Tiempo Real con Channels y Background Services en .NET](https://dev.to/isaacojeda/sistema-de-control-de-jobs-en-tiempo-real-con-channels-y-background-services-en-net-529e)
 - [Building Elegant Batch Jobs in Laravel with Clean Architecture](https://dev.to/eashigaev/building-elegant-batch-jobs-in-laravel-with-clean-architecture-431d)
 - [Covering index for $group/$sum in MongoDB aggregation &lpar;with hint&rpar;](https://dev.to/franckpachot/covering-index-for-group-in-mongodb-aggregation-with-hint-4e6m)
-- [What Is Object-oriented Programming in Delphi in 2025?](https://dev.to/rociogarciavf/what-is-object-oriented-programming-in-delphi-in-2025-5g4i)
-- [How to Create AI Agents Using Mastra and TypeScript](https://dev.to/ideategudy/how-to-create-ai-agents-using-mastra-and-typescript-1pai)
-- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-1bm7)
+- [Unlock Dual Revenue Streams: Monetizing Your LLM Apps with AI Conversations](https://dev.to/monetzly/unlock-dual-revenue-streams-monetizing-your-llm-apps-with-ai-conversations-476d)
+- [Are Large Reasoning Models Interruptible?](https://dev.to/paperium/are-large-reasoning-models-interruptible-1fdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
