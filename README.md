@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Complete Guide to Rust Variables, Ownership, Lifetimes, and Memory Management](https://dev.to/amritsingh183/a-complete-guide-to-rust-ownership-lifetimes-and-memory-management-4j2a)
 - [Mastering Ownership, Moves, Borrowing, and Lifetimes in Rust](https://dev.to/amritsingh183/mastering-ownership-moves-borrowing-and-lifetimes-in-rust-5077)
 - [Neural Networks in Coding: A Deep Dive into the AI Coding Paradigm](https://dev.to/softwaredeveloper01/neural-networks-in-coding-a-deep-dive-into-the-ai-coding-paradigm-4ie1)
 - [How I Reduced My Dashboard Bundle Size from 1.72 MB to 299 KB for Faster Loading](https://dev.to/naufalyukafi/how-i-reduced-my-dashboard-bundle-size-from-172-mb-to-299-kb-for-faster-loading-3gg5)
 - [AI Agents in 2025: A Practical Guide for Developers](https://dev.to/navyashipsit/ai-agents-in-2025-a-practical-guide-for-developers-32ep)
-- [Tetrix vs Claude](https://dev.to/akkii2022/tetrix-vs-claude-4923)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
