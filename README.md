@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2jn5)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3ha3)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-232e)
-- [Excalidraw - Browser based app for hand drawn like diagrams](https://dev.to/akaak/excalidraw-browser-based-app-for-hand-drawn-like-diagrams-248m)
-- [A Laravel website not proper render on desktop but fine in mobile](https://dev.to/magic_ofit_5656bd6b1eef2/a-laravel-website-not-proper-render-on-desktop-but-fine-in-mobile-2113)
+- [Can you save on LLM tokens using images instead of text?](https://dev.to/lpellis/can-you-save-on-llm-tokens-using-images-instead-of-text-1338)
+- [Using MockK library in Jetpack Compose Preview](https://dev.to/mardsoul/using-mockk-library-in-jetpack-compose-preview-nkc)
+- [Developers vs AI: How Smart Tools Make Us Dumber Coders](https://dev.to/marxon/developers-vs-ai-how-smart-tools-make-us-dumber-coders-k51)
+- [Building Archaic - Nostalic memory sharing platform](https://dev.to/designzbyoj/building-archaic-nostalic-memory-sharing-platform-2479)
+- [Can AI systems that optimize for human emotional intelligenc](https://dev.to/drcarlosruizviquez/can-ai-systems-that-optimize-for-human-emotional-intelligenc-4ci7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
