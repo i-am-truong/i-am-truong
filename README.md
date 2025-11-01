@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Senior Engineer&#39;s Guide to the Model Context Protocol](https://dev.to/onlineproxy/a-senior-engineers-guide-to-the-model-context-protocol-1g3f)
-- [How to work with nested locale folder structures in Vue](https://dev.to/bcostaaa01/how-to-work-with-nested-locale-folder-structures-in-vue-2bn4)
-- [Modal closing on refresh &lpar;React + Zustand + sessionStorage&rpar;](https://dev.to/sudarshan_s_hosalli/modal-closing-on-refresh-react-zustand-sessionstorage-28ef)
-- [Can AI systems that optimize for human emotional intelligenc](https://dev.to/drcarlosruizviquez/can-ai-systems-that-optimize-for-human-emotional-intelligenc-12d3)
-- [🔥 Black Friday Vue.js Expert: 50% de Desconto + Vagas LIMITADAS](https://dev.to/patrickmonteiro/black-friday-vuejs-expert-50-de-desconto-vagas-limitadas-4ph)
+- [JavaScript Did not Crash. That Does not Mean It is Fine.](https://dev.to/intelgreatnez/-javascript-didnt-crash-that-doesnt-mean-its-fine-5cnd)
+- [The Digital Inheritance Crisis: A Technical Guide to Passing Crypto Assets &lpar;2026&rpar;](https://dev.to/glorioustechs/the-digital-inheritance-crisis-a-technical-guide-to-passing-crypto-assets-2026-7di)
+- [🛑 CI/CD Security Mistake: Are You Giving Your Build Container Root Access to Your Server? 🥲](https://dev.to/it-wibrc/cicd-security-mistake-are-you-giving-your-build-container-root-access-to-your-server-4ig)
+- [🛑 CI/CD Security Mistake: Are You Giving Your Build Container Root Access to Your Server?](https://dev.to/it-wibrc/cicd-security-mistake-are-you-giving-your-build-container-root-access-to-your-server-2jnm)
+- [Building Archaic - Nostalgic memory sharing platform](https://dev.to/designzbyoj/building-archaic-nostalgic-memory-sharing-platform-5d1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
