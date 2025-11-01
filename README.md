@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your &quot;Microservices&quot; Are Just a Distributed Monolith &lpar;And Everyone Knows It&rpar;](https://dev.to/adamthedeveloper/your-microservices-are-just-a-distributed-monolith-and-everyone-knows-it-3a05)
+- [Multimodal Policy Internalization for Conversational Agents](https://dev.to/paperium/multimodal-policy-internalization-for-conversational-agents-4k48)
+- [My Spooky Cozy Haven: exploring CSS, SVGs, and interactivity for Halloween](https://dev.to/dev-sigo/my-spooky-cozy-haven-exploring-css-svgs-and-interactivity-for-halloween-4io4)
 - [JavaScript bundlers](https://dev.to/whyang9701/javascript-bundlers-1e1k)
 - [My Spooky Cozy Haven: explorando CSS, SVGs e interatividade para o Halloween](https://dev.to/dev-sigo/my-spooky-cozy-haven-explorando-css-svgs-e-interatividade-para-o-halloween-5e46)
-- [Boost Your Sales with Shopify Ecommerce Tips](https://dev.to/api_troll/boost-your-sales-with-shopify-ecommerce-tips-4gh4)
-- [How to Validate CSV and JSON Files Online with SchemaCheck](https://dev.to/schemacheck/how-to-validate-csv-files-before-importing-stop-broken-data-at-the-source-2fa7)
-- [J’ai créé mon premier package NPM avec l’aide de l’IA !](https://dev.to/funeste38/jai-cree-mon-premier-package-npm-avec-laide-de-lia--2efl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
