@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Deploying a FastAPI Project to an Ubuntu VPS — A Complete Guide for Developers](https://dev.to/1amkaizen/deploying-a-fastapi-project-to-an-ubuntu-vps-a-complete-guide-for-developers-392)
-- [JavaScript Nullish Coalescing Operator &lpar;??&rpar;](https://dev.to/tanvir_ahamed/javascript-nullish-coalescing-operator--7ko)
-- [Add Image Uploads to Your App in 15 Minutes Using ImageUpload.app API](https://dev.to/cond/add-image-uploads-to-your-app-in-15-minutes-using-imageuploadapp-api-f2f)
-- [Revealing the Unseen: AI-Powered Super-Resolution from Extreme Noise by Arvind Sundararajan](https://dev.to/arvind_sundararajan/revealing-the-unseen-ai-powered-super-resolution-from-extreme-noise-by-arvind-sundararajan-5b4g)
-- [AI-Generated Death Threats: Where Reality Meets Deception](https://dev.to/mabualzait/ai-generated-death-threats-where-reality-meets-deception-1afb)
+- [2025 ChronoEdit: A Complete Guide to Time-Reasoning-Based Image Editing and World Simulation](https://dev.to/czmilo/2025-chronoedit-a-complete-guide-to-time-reasoning-based-image-editing-and-world-simulation-3l78)
+- [How to Install DVWS &lpar;Damn Vulnerable Web Services&rpar; on Nginx](https://dev.to/1amkaizen/how-to-install-dvws-damn-vulnerable-web-services-on-nginx-5110)
+- [The Biggest Challenge in #80DaysOfChallenges… is a Lack of Challenges](https://dev.to/shahrouzlogs/the-biggest-challenge-in-80daysofchallenges-is-a-lack-of-challenges-2m3)
+- [How Seasonal SEO Boosted Traffic for an eCommerce Store: Lessons from the Holiday Rush](https://dev.to/tomdcws01/how-seasonal-seo-boosted-traffic-for-an-ecommerce-store-lessons-from-the-holiday-rush-48gk)
+- [Palindrome Number](https://dev.to/shelner/palindrome-number-24af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
