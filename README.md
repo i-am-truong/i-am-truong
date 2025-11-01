@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive guide to Map in Java](https://dev.to/ehrbhein/a-comprehensive-guide-to-usage-of-map-in-java-10ja)
+- [Blog Post: Demystifying ZIO&#39;s Dependency Injection: A Practical Guide](https://dev.to/depa_reddy_5e0e3025aa6eed/blog-post-demystifying-zios-dependency-injection-a-practical-guide-5c1g)
 - [⚡Auto-Capture in XSLT Debugger](https://dev.to/imdj/auto-capture-in-xslt-debugger-5gb7)
 - [Saga Pattern: Consistência de Dados em Microsserviços de Verdade](https://dev.to/filipi_firmino_dev/saga-pattern-consistencia-de-dados-em-microsservicos-de-verdade-4h34)
 - [Why I Built LogTaskr: The Search for Simpler Productivity](https://dev.to/vjygour/why-i-built-logtaskr-the-search-for-simpler-productivity-lf)
-- [I built a free PowerShell tool to fix common Windows 11 issues &lpar;BSOD, network, audio, login, updates&rpar;](https://dev.to/mentalistops/i-built-a-free-powershell-tool-to-fix-common-windows-11-issues-bsod-network-audio-login-5dfm)
-- [Understanding the Linux Device Tree Vendor Prefix Mechanism](https://dev.to/tonyhe8688/understanding-the-linux-device-tree-vendor-prefix-mechanism-4gdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
