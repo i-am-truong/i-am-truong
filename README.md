@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using Vercel &lpar;And Built My Own Setup Instead&rpar;](https://dev.to/lotfijb/why-i-stopped-using-vercel-and-built-my-own-setup-instead-4b0g)
-- [My First Open Source Journey](https://dev.to/harshaabhi/my-first-open-source-journey-841)
-- [प्रारम्भिक वैदिक काल की राजनीतिक एवं आर्थिक परिस्थितियों का विश्लेषण](https://dev.to/04anilr/praarmbhik-vaidik-kaal-kii-raajniitik-evn-aarthik-pristhitiyon-kaa-vishlessnn-3fja)
-- [भारत की नवपाषाण संस्कृतियों के क्षेत्रीय वितरण तथा विशिष्ट लक्षणों का परीक्षण](https://dev.to/04anilr/bhaart-kii-nvpaassaann-snskrtiyon-ke-kssetriiy-vitrnn-tthaa-vishisstt-lkssnnon-kaa-priikssnn-5bkl)
-- [Emma Mattress Discount Code UK – Huge Savings on Premium Sleep Solutions!](https://dev.to/john_matteo_0e50c378b8155/emma-mattress-discount-code-uk-huge-savings-on-premium-sleep-solutions-1f48)
+- [State Management in Flutter with Riverpod](https://dev.to/youssef_mohamed_e636291be/state-management-in-flutter-with-riverpod-1po7)
+- [Why the Oldest, Simplest Algorithms Are Beating AI](https://dev.to/jose_crespo_phd/why-the-oldest-simplest-algorithms-are-beating-ai-1n13)
+- [Casino Game Development: How 3D and VR Are Powering the Next-Level Experience](https://dev.to/steven_plessis_bf14e31a66/casino-game-development-how-3d-and-vr-are-powering-the-next-level-experience-36ma)
+- [Generating PDF files with Python](https://dev.to/marvelefe/generating-pdf-files-with-python-57m6)
+- [How to Setup MongoDB with Laravel &lpar;Quick Guide&rpar;](https://dev.to/rana_saha_c704959d8988cf0/how-to-setup-mongodb-with-laravel-quick-guide-115e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
