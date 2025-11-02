@@ -82,9 +82,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Java String codePointCount&lpar;&rpar; Explained: Taming Emojis &amp; Complex Text](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f)
 - [Exploring Next.js 16 File System Conventions](https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-363a)
 - [I&#39;m Building an AI Agent That Automates Competitor Research](https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie)
 - [Building a GPT-5 Telegram Bot with Telegram Stars Monetization](https://dev.to/king_triton/building-a-gpt-5-telegram-bot-with-telegram-stars-monetization-5g7c)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2inh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
