@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go&#39;s New WaitGroup.Go](https://dev.to/joybtw/gos-new-waitgroupgo-ed8)
+- [Untitled](https://dev.to/sakila_dineth_c92619ee8b8/untitled-2cf7)
+- [GCP to GitHub CI/CD Setup Steps](https://dev.to/vkassingh/gcp-to-github-cicd-setup-steps-5nc)
 - [QuickDoodle: Real-Time Drawing &amp; Guessing Game &lpar;with AI Agents Coming Soon!&rpar; – Hacktoberfest 2025 Spotlight](https://dev.to/usman_awan/quickdoodle-real-time-drawing-guessing-game-with-ai-agents-coming-soon-hacktoberfest-2025-3pci)
 - [IaaS vs PaaS vs SaaS — The Cloud Models Every Developer Should Understand 📊](https://dev.to/dev_deepaksen/iaas-vs-paas-vs-saas-the-cloud-models-every-developer-should-understand-57ka)
-- [We Cut 70% Bundle Size: TanStack Query + Zustand at GLINR](https://dev.to/gds_ks_88a98d77fcee948b1/we-cut-70-bundle-size-tanstack-query-zustand-at-glinr-2oj3)
-- [Part 2: Steps for a site Development](https://dev.to/vkassingh/part-2-steps-for-a-site-development-3fdl)
-- [How to Configure Tailwind CSS in React](https://dev.to/geoffrepos/how-to-configure-tailwind-css-in-react-4jjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
