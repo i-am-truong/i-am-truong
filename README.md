@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Climbing the Ranks: My CSSBattle #37 Journey 🏁](https://dev.to/jitheshpoojari/climbing-the-ranks-my-cssbattle-37-journey-3p90)
-- [Glyph Catalog Launches on Product Hunt 🚀](https://dev.to/jitheshpoojari/glyph-catalog-launches-on-product-hunt-4fj2)
-- [A Quick Guide to Uniface&#39;s `lineartime` Data Type ⏱️](https://dev.to/petercode/a-quick-guide-to-unifaces-lineartime-data-type-4b3p)
-- [Uniface 101: A Look at the image Data Type 🖼️](https://dev.to/petercode/uniface-101-a-look-at-the-image-data-type-19cp)
-- [What&#39;s the &quot;handle&quot; on Uniface Handles? 🤔 A Simple Guide](https://dev.to/petercode/whats-the-handle-on-uniface-handles-a-simple-guide-1i7h)
+- [onedraw — a GPU-driven 2D renderer](https://dev.to/geolm/onedraw-a-gpu-driven-2d-renderer-151c)
+- [🕵️‍♂️ Understanding Sybil Attacks: When One User Pretends to Be Many](https://dev.to/m4ze/understanding-sybil-attacks-when-one-user-pretends-to-be-many-547n)
+- [🚀 Leveling Up My React Project — Adding Firebase to Listo 🛒](https://dev.to/usama_dev/leveling-up-my-react-project-adding-firebase-to-listo-5me)
+- [Git &amp; GitHub: What, How, and Why – Everything You Need to Know &lpar;EP-01&rpar;](https://dev.to/himanshu_chauhan_59/git-github-what-how-and-why-everything-you-need-to-know-ep-01-1772)
+- [🧠 What Is the EVM? The Engine That Powers Smart Contracts](https://dev.to/m4ze/what-is-the-evm-the-engine-that-powers-smart-contracts-4fol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
