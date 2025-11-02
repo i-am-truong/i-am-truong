@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Open Source Real-Time Crypto Price Tracker with Bun&#39;s Native WebSocket](https://dev.to/magicnull/building-an-open-source-real-time-crypto-price-tracker-with-buns-native-websocket-2kba)
+- [🚀 Exploring Go’s Core Features in Depth](https://dev.to/ahmed112/exploring-gos-core-features-in-depth-bc6)
 - [onedraw — a GPU-driven 2D renderer](https://dev.to/geolm/onedraw-a-gpu-driven-2d-renderer-151c)
 - [🕵️‍♂️ Understanding Sybil Attacks: When One User Pretends to Be Many](https://dev.to/m4ze/understanding-sybil-attacks-when-one-user-pretends-to-be-many-547n)
 - [🚀 Leveling Up My React Project — Adding Firebase to Listo 🛒](https://dev.to/usama_dev/leveling-up-my-react-project-adding-firebase-to-listo-5me)
-- [Git &amp; GitHub: What, How, and Why – Everything You Need to Know &lpar;EP-01&rpar;](https://dev.to/himanshu_chauhan_59/git-github-what-how-and-why-everything-you-need-to-know-ep-01-1772)
-- [🧠 What Is the EVM? The Engine That Powers Smart Contracts](https://dev.to/m4ze/what-is-the-evm-the-engine-that-powers-smart-contracts-4fol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
