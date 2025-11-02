@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Issue Monitor AI Agent with Mastra](https://dev.to/ibraheembello/github-issue-monitor-ai-agent-with-mastra-334c)
-- [My first AI agent with Mastra Ai](https://dev.to/jesseekoh/my-first-ai-agent-with-mastra-ai-37ih)
-- [How to Sort Arrays in Objective-c in 2025?](https://dev.to/puratabla/how-to-sort-arrays-in-objective-c-in-2025-45l5)
-- [How to Implement a Protocol in Obj-c in 2025?](https://dev.to/rociogarciavf/how-to-implement-a-protocol-in-obj-c-in-2025-3e44)
-- [Preventing Breaking Changes in Event-Driven Systems with Contracts and Validation](https://dev.to/aws-builders/preventing-breaking-changes-in-event-driven-systems-with-contracts-and-validation-4gmk)
+- [How to Create and Publish Your First NPM Package](https://dev.to/danishashko/how-to-create-and-publish-your-first-npm-package-fil)
+- [Writing Your First Compiler - Part 2: What Is a Compiler?](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-2-what-is-a-compiler-2jlh)
+- [Writing Your First Compiler - Part 1: Introduction](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-1-introduction-4j7g)
+- [Let Kiro Do the Work: Automate Your Code and Documentation with Hooks!](https://dev.to/bhatiagirish/let-kiro-do-the-work-automate-your-code-and-documentation-with-hooks-3h6g)
+- [At First, I Asked AI to Write Code. That Was a Mistake](https://dev.to/aragossa/at-first-i-asked-ai-to-write-code-that-was-a-mistake-2ek8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
