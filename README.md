@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Helios Engine v0.3.4](https://dev.to/ammar-alnagar/helios-engine-v034-30pn)
 - [Claude Code for Growth Marketing &lpar;Hell Yeah!&rpar;](https://dev.to/danishashko/claude-code-for-growth-marketing-hell-yeah-i7i)
 - [Reglas Personalizadas en Web Application Firewall nativo AWS](https://dev.to/cyb3rcloud8888/reglas-personalizadas-en-web-application-firewall-nativo-aws-3g19)
 - [Compartilhando props em Compound Components sem usar Context API](https://dev.to/lucaspanizio/compartilhando-props-em-compound-components-sem-usar-context-api-gnp)
 - [Chain of Pattern: Rethink](https://dev.to/nekrjkeee/great-post-title-3coi)
-- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-4c8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
