@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Organized My CLAUDE.md in a Monorepo with Too Many Contexts](https://dev.to/anvodev/how-i-organized-my-claudemd-in-a-monorepo-with-too-many-contexts-37k7)
-- [Recientemente, se publicó en el Diario Oficial de la Federac](https://dev.to/drcarlosruizviquez/recientemente-se-publico-en-el-diario-oficial-de-la-federac-cc7)
-- [A Pull Request to Purpose](https://dev.to/suhanisanskriti28oss/a-pull-request-to-purpose-33g5)
-- [Revolutionizing AI: Scientists merge music &amp; brain signals t](https://dev.to/drcarlosruizviquez/revolutionizing-ai-scientists-merge-music-brain-signals-t-54h2)
-- [Empowering the Future: Building Meaningful Projects with Microsoft Technologies 💡](https://dev.to/sunny7899/empowering-the-future-building-meaningful-projects-with-microsoft-technologies-548i)
+- [I Waited 5 Years for AI to Be Good Enough to Build This: A Fully Automatic Logo Designer](https://dev.to/kamil_uhryn/i-waited-5-years-for-ai-to-be-good-enough-to-build-this-a-fully-automatic-logo-designer-5dhd)
+- [MCUboot: Understanding the Image Trailer and How It Tracks Firmware Update Progress](https://dev.to/ripan030/mcuboot-understanding-the-image-trailer-and-how-it-tracks-firmware-update-progress-4l76)
+- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-2hlc)
+- [Offline-First Kiosk: Lessons from the Field](https://dev.to/drvcodenta/offline-first-kiosk-lessons-from-the-field-86e)
+- [Trace Anything: Representing Any Video in 4D via Trajectory Fields](https://dev.to/paperium/trace-anything-representing-any-video-in-4d-via-trajectory-fields-19fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
