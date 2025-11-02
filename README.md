@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
-- [PHP vs Node.js: A Real-World Performance Comparison](https://dev.to/sureshr/php-vs-nodejs-a-real-world-performance-comparison-l2)
-- [🚀 Hello, Kubernetes! A Hands-On Guide to Deploying Your First App on GKE description](https://dev.to/jay_sheth/hello-kubernetes-a-hands-on-guide-to-deploying-your-first-app-on-gke-description-28gi)
-- [Level Up Your Code: How AI is Changing the Development Game](https://dev.to/karthik_n/level-up-your-code-how-ai-is-changing-the-development-game-2f7f)
-- [Why AI Needs Human Oversight for Architecture: A Real Refactoring Story](https://dev.to/heyradcode/why-ai-needs-human-oversight-for-architecture-a-real-refactoring-story-4l3g)
+- [Check out the guide on - Performing Nonlinear Least Square and Nonlinear Regression in R: A Comprehensive Guide with Real-World Case Studies](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-performing-nonlinear-least-square-and-nonlinear-regression-in-r-a-2j5o)
+- [A Deep Dive into Gorm: Architecture, Workflow, Tips, and Troubleshooting for Go’](https://dev.to/tiger_smith_9f421b9131db5/a-deep-dive-into-gorm-architecture-workflow-tips-and-troubleshooting-for-go-2ld9)
+- [All the News about the New XR Glasses Hitting the Market: Galaxy XR, Oakley Meta Vanguard, Ray-Ban Meta, and More.](https://dev.to/echo3d/all-the-news-about-the-new-xr-glasses-hitting-the-market-galaxy-xr-oakley-meta-vanguard-ray-ban-31om)
+- [🎃 Spooktacular ’25 — A Haunting Event for the Undead](https://dev.to/mdohr07/spooktacular-25-a-haunting-event-for-the-undead-907)
+- [The 120-Hour Blind Spot Killing Your Competitive Edge](https://dev.to/tracksimple/the-120-hour-blind-spot-killing-your-competitive-edge-2008)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
