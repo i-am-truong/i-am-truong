@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-step Installation guide for Ruby](https://dev.to/imlakshay08/step-by-step-installation-guide-for-ruby-3co5)
-- [⚡ Brisk — Text-to-Speech Web App 🗣️ Convert text into natural-sounding speech in seconds.](https://dev.to/sripadh_sujith_1487e8db18/brisk-text-to-speech-web-app-convert-text-into-natural-sounding-speech-in-seconds-d2c)
-- [Terraform Basics – Week 1: Deploying Your First Azure VM](https://dev.to/ozanguner/terraform-basics-week-1-deploying-your-first-azure-vm-1f86)
-- [R2E APIのデモUIを作りました！Next.js + Render でバックエンド連携する実装記](https://dev.to/beachone1155/r2e-apinodemouiwozuo-rimasitanextjs-render-debatukuendolian-xi-surushi-zhuang-ji-2j24)
-- [The 7 Paid Subscriptions I Use in 2025 as a Freelance Software Developer](https://dev.to/nnash/the-7-paid-subscriptions-i-use-in-2025-as-a-freelance-software-developer-285k)
+- [Building Confidence Through Open Source](https://dev.to/elsad_humbetli_0971c995ce/contributing-while-fixing-api-key-validation-3lm3)
+- [AI as Muse: Unlocking Mathematical Secrets Through Collaborative Discovery](https://dev.to/arvind_sundararajan/ai-as-muse-unlocking-mathematical-secrets-through-collaborative-discovery-1ig9)
+- [The Hidden DNA of LLM-Generated JavaScript: Structural Patterns EnableHigh-Accuracy Authorship Attribution](https://dev.to/paperium/the-hidden-dna-of-llm-generated-javascript-structural-patterns-enablehigh-accuracy-authorship-493j)
+- [What Is SCADA? – Block Diagram, and Its Benefits | Poly Notes Hub](https://dev.to/poly_noteshub_bfde70023a/what-is-scada-block-diagram-and-its-benefits-poly-notes-hub-2ige)
+- [Auditing All Shared Files in Google Drive with Apps Script](https://dev.to/terryds/auditing-all-shared-files-in-google-drive-with-apps-script-4c98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
