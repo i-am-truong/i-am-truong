@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real-World Distributed Tracing: Java, OpenTelemetry, and Google Cloud Trace in Production](https://dev.to/cloudengg/real-world-distributed-tracing-java-opentelemetry-and-google-cloud-trace-in-production-2m2l)
-- [Migration Made Easy: Transitioning from Traditional AI Libraries to Low-Code Solutions in Q4 2025](https://dev.to/lofcz/migration-made-easy-transitioning-from-traditional-ai-libraries-to-low-code-solutions-in-q4-2025-5dp7)
-- [Halloween CSS Challenge 2025](https://dev.to/chris407x/halloween-css-challenge-2025-2g1g)
-- [Building a Production-Ready Enterprise AI Assistant with RAG and Security Guardrails](https://dev.to/exploredataaiml/building-a-production-ready-enterprise-ai-assistant-with-rag-and-security-guardrails-45fp)
-- [Building Confidence Through Open Source](https://dev.to/elsad_humbetli_0971c995ce/contributing-while-fixing-api-key-validation-3lm3)
+- [My Cloud Journey Begins: Completing My First Azure Fundamentals Module](https://dev.to/akshathashivakumar/my-cloud-journey-begins-completing-my-first-azure-fundamentals-module-235n)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4o6a)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1okm)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-hgd)
+- [Arrays: What you should know](https://dev.to/vernoc_bom_afdcd3801d494d/arrays-what-you-should-know-fp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
