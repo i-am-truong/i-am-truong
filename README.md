@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Essential Interfaces Every C# Developer Should Know](https://dev.to/rasheedmozaffar/the-essential-interfaces-every-c-developer-should-know-2ma4)
+- [I built a WAF in Golang](https://dev.to/1rhino2/i-built-a-waf-in-golang-3i9e)
 - [Secrets in .NET: Why Strings Are Not Safe &lpar;and What to Do Instead&rpar;](https://dev.to/bwi/secrets-in-net-why-strings-are-not-safe-and-what-to-do-instead-3g3p)
 - [ForkQuest - Zork, but you fork the universe](https://dev.to/datadr1ven/forkquest-zork-but-you-fork-the-universe-2n37)
 - [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-7a)
-- [Python basics - Day 18](https://dev.to/ian_b838138a27a917398d181/python-basics-day-18-20ph)
-- [Coding Challenge Practice - Question 43](https://dev.to/tomivan/coding-challenge-practice-question-43-1704)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
