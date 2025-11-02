@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FlashWorld: High-quality 3D Scene Generation within Seconds](https://dev.to/paperium/flashworld-high-quality-3d-scene-generation-within-seconds-44lk)
-- [Everything You Need to Know About AI — In One Repository](https://dev.to/dhanushnehru/everything-you-need-to-know-about-ai-in-one-repository-2fd5)
-- [Flutter Development Setup for WSL2 + Windows Android Studio &lpar;Complete Guide&rpar;](https://dev.to/abdullahyasir/flutter-development-setup-for-wsl2-windows-android-studio-complete-guide-4493)
-- [Is Microsoft Recall Worth Using in 2025?](https://dev.to/nodminger/is-microsoft-recall-worth-using-in-2025-2m4l)
-- [Your Lead Funnel is Leaking Junk: 7 Engineering Strategies for High-Quality B2B Prospects](https://dev.to/michaelaiglobal/your-lead-funnel-is-leaking-junk-7-engineering-strategies-for-high-quality-b2b-prospects-17o5)
+- [Climbing the Ranks: My CSSBattle #37 Journey 🏁](https://dev.to/jitheshpoojari/climbing-the-ranks-my-cssbattle-37-journey-3p90)
+- [Glyph Catalog Launches on Product Hunt 🚀](https://dev.to/jitheshpoojari/glyph-catalog-launches-on-product-hunt-4fj2)
+- [A Quick Guide to Uniface&#39;s `lineartime` Data Type ⏱️](https://dev.to/petercode/a-quick-guide-to-unifaces-lineartime-data-type-4b3p)
+- [Uniface 101: A Look at the image Data Type 🖼️](https://dev.to/petercode/uniface-101-a-look-at-the-image-data-type-19cp)
+- [What&#39;s the &quot;handle&quot; on Uniface Handles? 🤔 A Simple Guide](https://dev.to/petercode/whats-the-handle-on-uniface-handles-a-simple-guide-1i7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
