@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [THE LEAN MEAN MEME MACHINE](https://dev.to/bibimbop123/lean-mean-meme-machine-1pae)
+- [Calgo Featured in Official Binance Interview - The Mobile Mining Future Chosen by 100,000 Users](https://dev.to/calgo_62400343865ec0ae72a/calgo-featured-in-official-binance-interview-the-mobile-mining-future-chosen-by-100000-users-502g)
+- [Math&#39;s New Muse: AI as a Reasoning Partner](https://dev.to/arvind_sundararajan/maths-new-muse-ai-as-a-reasoning-partner-gc2)
 - [Ensuring Data Resilience in Modern Application Environments](https://dev.to/kapusto/ensuring-data-resilience-in-modern-application-environments-5hfe)
-- [Helios Engine v0.3.4](https://dev.to/ammar-alnagar/helios-engine-v034-30pn)
-- [Deep Integration and the Convergence of Model Architecture and Hardware in AI](https://dev.to/maurizio_morri_f7f4bd128c/deep-integration-and-the-convergence-of-model-architecture-and-hardware-in-ai-4265)
-- [Strengthening Active Directory Security Through Continuous Monitoring and Rapid Recovery](https://dev.to/kapusto/strengthening-active-directory-security-through-continuous-monitoring-and-rapid-recovery-2487)
-- [Claude Code for Growth Marketing &lpar;Hell Yeah!&rpar;](https://dev.to/danishashko/claude-code-for-growth-marketing-hell-yeah-i7i)
+- [Building a Data-Driven Advantage in Commercial Insurance](https://dev.to/kapusto/building-a-data-driven-advantage-in-commercial-insurance-3od2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
