@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Birthday Sahya Noa♥](https://dev.to/setiyowen/birthday-15mp)
-- [AI&#39;s $1B Problem: Can Human Labor Be Replaced for Profit?](https://dev.to/mabualzait/ais-1b-problem-can-human-labor-be-replaced-for-profit-4p8a)
-- [Genesis Code: Seed-Based 3D World Cloning](https://dev.to/arvind_sundararajan/genesis-code-seed-based-3d-world-cloning-1pf6)
-- [🚀 Understanding DevOps: The Bridge Between Development and Operations](https://dev.to/pjdeveloper896/understanding-devops-the-bridge-between-development-and-operations-3ffn)
-- [Hello](https://dev.to/safal_bhandari/hello-2dne)
+- [QuickDoodle: Real-Time Drawing &amp; Guessing Game &lpar;with AI Agents Coming Soon!&rpar; – Hacktoberfest 2025 Spotlight](https://dev.to/usman_awan/quickdoodle-real-time-drawing-guessing-game-with-ai-agents-coming-soon-hacktoberfest-2025-3pci)
+- [IaaS vs PaaS vs SaaS — The Cloud Models Every Developer Should Understand 📊](https://dev.to/dev_deepaksen/iaas-vs-paas-vs-saas-the-cloud-models-every-developer-should-understand-57ka)
+- [We Cut 70% Bundle Size: TanStack Query + Zustand at GLINR](https://dev.to/gds_ks_88a98d77fcee948b1/we-cut-70-bundle-size-tanstack-query-zustand-at-glinr-2oj3)
+- [Part 2: Steps for a site Development](https://dev.to/vkassingh/part-2-steps-for-a-site-development-3fdl)
+- [How to Configure Tailwind CSS in React](https://dev.to/geoffrepos/how-to-configure-tailwind-css-in-react-4jjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
