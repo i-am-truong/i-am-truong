@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project 2](https://dev.to/johnphan2408/project-2-7c9)
 - [Understanding IaaS, PaaS, and SaaS: The Three Pillars of Cloud Computing](https://dev.to/raj_singhal/understanding-iaas-paas-and-saas-the-three-pillars-of-cloud-computing-5in)
-- [CoBia: Constructed Conversations Can Trigger Otherwise Concealed Societal Biasesin LLMs](https://dev.to/paperium/cobia-constructed-conversations-can-trigger-otherwise-concealed-societal-biasesin-llms-440c)
-- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-31fa)
 - [My Cloud Journey Begins: Completing My First Azure Fundamentals Module](https://dev.to/akshathashivakumar/my-cloud-journey-begins-completing-my-first-azure-fundamentals-module-235n)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4o6a)
+- [Arrays: What you should know](https://dev.to/vernoc_bom_afdcd3801d494d/arrays-what-you-should-know-fp3)
+- [IaC in Action: How Terraform &amp; Ansible Deliver a Resilient Flask Application on AWS](https://dev.to/hritikraj8804/iac-in-action-how-terraform-ansible-deliver-a-resilient-flask-application-on-aws-4e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
