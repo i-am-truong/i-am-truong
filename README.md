@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Every Way a Startup Can Fail](https://dev.to/perssondennis/every-way-a-startup-can-fail-46d8)
 - [Diving Deeper into Blockchain and Web3 Product Engineering – Week 1 Learnings](https://dev.to/goodnesskay/diving-deeper-into-blockchain-and-web3-product-engineering-week-1-learnings-2bn8)
 - [Libcrypto Pypi - Generate and converting Crypto Wallet Package](https://dev.to/mr1mmdrza/libcrypto-pypi-generate-and-converting-crypto-wallet-package-p68)
 - [Feeling the Vibes with Verifi](https://dev.to/prince_of_pasta/feeling-the-vibes-with-verifi-152c)
 - [Bright Data vs Browse AI: Choosing the Right Web Scraping Stack Without Regret](https://dev.to/alifar/bright-data-vs-browse-ai-choosing-the-right-web-scraping-stack-without-regret-291d)
-- [Learning to Learn: The Real Skill of a Developer](https://dev.to/yemrealtanay/learning-to-learn-the-real-skill-of-a-developer-1m8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
