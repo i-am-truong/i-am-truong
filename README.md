@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of UI: Why Certain Interfaces Just ‘Feel’ Better](https://dev.to/iste-vit/the-psychology-of-ui-why-certain-interfaces-just-feel-better-4hgn)
-- [How to Build Your Own MCP Server with Python](https://dev.to/manishmshiva/how-to-build-your-own-mcp-server-with-python-9ed)
-- [Build Own Blockchain - 1 episode](https://dev.to/loading_blocks/build-own-blockchain-1-episode-3l5d)
-- [What are the best AI image generators 2026 for business, and which one fits your budget?](https://dev.to/jay_all_day/what-are-the-best-ai-image-generators-2026-for-business-and-which-one-fits-your-budget-j3m)
-- [Check out the guide on - Learn Generalized Linear Models &lpar;GLM&rpar; Using R: A Complete Practical Guide with Real-World Case Studies](https://dev.to/thedatageek/check-out-the-guide-on-learn-generalized-linear-models-glm-using-r-a-complete-practical-guide-1h15)
+- [FlashWorld: High-quality 3D Scene Generation within Seconds](https://dev.to/paperium/flashworld-high-quality-3d-scene-generation-within-seconds-44lk)
+- [Everything You Need to Know About AI — In One Repository](https://dev.to/dhanushnehru/everything-you-need-to-know-about-ai-in-one-repository-2fd5)
+- [Flutter Development Setup for WSL2 + Windows Android Studio &lpar;Complete Guide&rpar;](https://dev.to/abdullahyasir/flutter-development-setup-for-wsl2-windows-android-studio-complete-guide-4493)
+- [Is Microsoft Recall Worth Using in 2025?](https://dev.to/nodminger/is-microsoft-recall-worth-using-in-2025-2m4l)
+- [Your Lead Funnel is Leaking Junk: 7 Engineering Strategies for High-Quality B2B Prospects](https://dev.to/michaelaiglobal/your-lead-funnel-is-leaking-junk-7-engineering-strategies-for-high-quality-b2b-prospects-17o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
