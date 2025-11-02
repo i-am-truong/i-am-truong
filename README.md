@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Project 2](https://dev.to/johnphan2408/project-2-7c9)
-- [Why Are Data Quality and Governance the Real Foundations for Agentic AI Success?](https://dev.to/jay_all_day/why-are-data-quality-and-governance-the-real-foundations-for-agentic-ai-success-7kj)
-- [Understanding IaaS, PaaS, and SaaS: The Three Pillars of Cloud Computing](https://dev.to/raj_singhal/understanding-iaas-paas-and-saas-the-three-pillars-of-cloud-computing-5in)
-- [My Cloud Journey Begins: Completing My First Azure Fundamentals Module](https://dev.to/akshathashivakumar/my-cloud-journey-begins-completing-my-first-azure-fundamentals-module-235n)
-- [Arrays: What you should know](https://dev.to/vernoc_bom_afdcd3801d494d/arrays-what-you-should-know-fp3)
+- [Birthday Sahya Noa♥](https://dev.to/setiyowen/birthday-15mp)
+- [AI&#39;s $1B Problem: Can Human Labor Be Replaced for Profit?](https://dev.to/mabualzait/ais-1b-problem-can-human-labor-be-replaced-for-profit-4p8a)
+- [Genesis Code: Seed-Based 3D World Cloning](https://dev.to/arvind_sundararajan/genesis-code-seed-based-3d-world-cloning-1pf6)
+- [🚀 Understanding DevOps: The Bridge Between Development and Operations](https://dev.to/pjdeveloper896/understanding-devops-the-bridge-between-development-and-operations-3ffn)
+- [Hello](https://dev.to/safal_bhandari/hello-2dne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
