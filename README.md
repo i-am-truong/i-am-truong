@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built Datapizza-AI in PHP on 2011 Raspberry Pi: Edge AI Without GPU](https://dev.to/paolomulas/built-datapizza-ai-in-php-on-2011-raspberry-pi-edge-ai-without-gpu-22ba)
-- [What are the root causes behind AI value remains elusive and how can you fix them for good?](https://dev.to/jay_all_day/what-are-the-root-causes-behind-ai-value-remains-elusive-and-how-can-you-fix-them-for-good-384b)
-- [Uniface Quick Tip: Taming Your Print Layouts with $totlines 📄](https://dev.to/petercode/uniface-quick-tip-taming-your-print-layouts-with-totlines-51ga)
-- [Demystifying Uniface: A Simple Guide to the $totkeys Function ✨](https://dev.to/petercode/demystifying-uniface-a-simple-guide-to-the-totkeys-function-n42)
-- [Demystifying Uniface ProcScript: A Simple Guide to $totdbocc 🚀](https://dev.to/petercode/demystifying-uniface-procscript-a-simple-guide-to-totdbocc-3nl)
+- [MultiCOIN: Multi-Modal COntrollable Video INbetweening](https://dev.to/paperium/multicoin-multi-modal-controllable-video-inbetweening-k16)
+- [How to Read a &quot;Free Painting Quote in Rotorua&quot; And Find the Hidden Costs](https://dev.to/rotoruapainter/how-to-read-a-free-painting-quote-in-rotorua-and-find-the-hidden-costs-1fjm)
+- [When rest builds more structure than effort](https://dev.to/koni_jang/when-rest-builds-more-structure-than-effort-56h2)
+- [From Parrot to Partner - How Reinforcement Learning Taught LLMs to Talk Like Humans](https://dev.to/jiminlee/from-parrot-to-partner-how-reinforcement-learning-taught-llms-to-talk-like-humans-315h)
+- [WTF is Inverse Reinforcement Learning?](https://dev.to/dailybugle33/wtf-is-inverse-reinforcement-learning-3f62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
