@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Struggling with Maps in React Native — Here’s the Complete Guide](https://dev.to/asyncarijit/stop-struggling-with-maps-in-react-native-heres-the-complete-guide-28ii)
-- [You Don&#39;t Always Need Grafana for GPU Monitoring](https://dev.to/panos_s_38e7dbec806aeb7db/you-probably-dont-need-grafana-for-gpu-monitoring-jc3)
-- [🎛️ Meet polyfront slider — The Enterprise-Grade Web Component Slider for Any Framework ✨](https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d)
-- [IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing Assessment](https://dev.to/paperium/ivebench-modern-benchmark-suite-for-instruction-guided-video-editing-assessment-8n3)
-- [Solving Blockchain Coding Challenges Efficiently in 2025?](https://dev.to/cristianalex_17/solving-blockchain-coding-challenges-efficiently-in-2025-1fl5)
+- [Step-by-step Installation guide for Ruby](https://dev.to/imlakshay08/step-by-step-installation-guide-for-ruby-3co5)
+- [⚡ Brisk — Text-to-Speech Web App 🗣️ Convert text into natural-sounding speech in seconds.](https://dev.to/sripadh_sujith_1487e8db18/brisk-text-to-speech-web-app-convert-text-into-natural-sounding-speech-in-seconds-d2c)
+- [Terraform Basics – Week 1: Deploying Your First Azure VM](https://dev.to/ozanguner/terraform-basics-week-1-deploying-your-first-azure-vm-1f86)
+- [R2E APIのデモUIを作りました！Next.js + Render でバックエンド連携する実装記](https://dev.to/beachone1155/r2e-apinodemouiwozuo-rimasitanextjs-render-debatukuendolian-xi-surushi-zhuang-ji-2j24)
+- [The 7 Paid Subscriptions I Use in 2025 as a Freelance Software Developer](https://dev.to/nnash/the-7-paid-subscriptions-i-use-in-2025-as-a-freelance-software-developer-285k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
