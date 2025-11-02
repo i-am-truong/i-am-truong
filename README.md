@@ -81,10 +81,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Project 2](https://dev.to/johnphan2408/project-2-7c9)
+- [Why Are Data Quality and Governance the Real Foundations for Agentic AI Success?](https://dev.to/jay_all_day/why-are-data-quality-and-governance-the-real-foundations-for-agentic-ai-success-7kj)
 - [Understanding IaaS, PaaS, and SaaS: The Three Pillars of Cloud Computing](https://dev.to/raj_singhal/understanding-iaas-paas-and-saas-the-three-pillars-of-cloud-computing-5in)
 - [My Cloud Journey Begins: Completing My First Azure Fundamentals Module](https://dev.to/akshathashivakumar/my-cloud-journey-begins-completing-my-first-azure-fundamentals-module-235n)
 - [Arrays: What you should know](https://dev.to/vernoc_bom_afdcd3801d494d/arrays-what-you-should-know-fp3)
-- [IaC in Action: How Terraform &amp; Ansible Deliver a Resilient Flask Application on AWS](https://dev.to/hritikraj8804/iac-in-action-how-terraform-ansible-deliver-a-resilient-flask-application-on-aws-4e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
