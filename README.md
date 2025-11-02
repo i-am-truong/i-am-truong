@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anamaria/-3dom)
-- [Criar Builds de App RN](https://dev.to/henriquepablo/criar-builds-de-app-rn-27bg)
-- [Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully OpenMLLMs](https://dev.to/paperium/bee-a-high-quality-corpus-and-full-stack-suite-to-unlock-advanced-fully-openmllms-478o)
-- [The Last Four PRs for 2025](https://dev.to/gracieamser/the-last-four-prs-for-2025-389j)
-- [Unicorn Platform Streamlines Web Development with Next-Level AI Assistance](https://dev.to/unicornsblog/unicorn-platform-streamlines-web-development-with-next-level-ai-assistance-9ej)
+- [Semantic search with embeddings in JavaScript: a hands-on example using LangChain and Ollama](https://dev.to/robertobutti/semantic-search-with-embeddings-in-javascript-a-hands-on-example-using-langchain-and-ollama-4b89)
+- [EZ Mother Devlog #4](https://dev.to/longchau/ez-mother-devlog-4-4hgp)
+- [Myth: Fine-tuning LLMs always requires a huge dataset for si](https://dev.to/drcarlosruizviquez/myth-fine-tuning-llms-always-requires-a-huge-dataset-for-si-2k4m)
+- [Creating a High-Availability Storage Account for a Public Website](https://dev.to/ottah_chukwuebuka/creating-a-high-availability-storage-account-for-a-public-website-4l5k)
+- [Comparing images with AVX](https://dev.to/serpent7776/comparing-images-with-avx-3fo2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
