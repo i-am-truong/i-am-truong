@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Lighthouse Performance Monitor: Tracking Web Performance Over Time](https://dev.to/c3nk/building-a-lighthouse-performance-monitor-tracking-web-performance-over-time-8f1)
-- [Building a Resilient API Key Pool System with Health Checks and Multi-Tier Degradation](https://dev.to/diandiancya/building-a-resilient-api-key-pool-system-with-health-checks-and-multi-tier-degradation-3ba)
-- [Zapier vs Gumloop: Which AI-first automation platform is best for enterprise-scale workflows?](https://dev.to/jay_all_day/zapier-vs-gumloop-which-ai-first-automation-platform-is-best-for-enterprise-scale-workflows-4f2)
-- [Quantum-Resistant Federated Learning with Homomorphic Encryption for Medical Imaging Diagnostics](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-homomorphic-encryption-for-medical-imaging-diagnostics-g1)
-- [Securely storing passwords in a database](https://dev.to/aryan_shourie/securely-storing-passwords-in-a-database-25nd)
+- [Migrating from New Relic Drop Rules to Pipeline Cloud Rules: A Terraform Guide](https://dev.to/anderson_leite/migrating-from-new-relic-drop-rules-to-pipeline-cloud-rules-a-terraform-guide-1poe)
+- [6 New React 19 Features Everyone Must Use](https://dev.to/boika_boy/6-new-react-19-features-everyone-must-use-42fn)
+- [Learn how to take full control of select styling using CSS.](https://dev.to/salehmubashar/learn-how-to-take-full-control-of-styling-using-css-53mc)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-j93)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-39ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
