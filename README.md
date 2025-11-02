@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Check out the guide on - Performing Nonlinear Least Square and Nonlinear Regression in R: A Comprehensive Guide with Real-World Case Studies](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-performing-nonlinear-least-square-and-nonlinear-regression-in-r-a-2j5o)
-- [A Deep Dive into Gorm: Architecture, Workflow, Tips, and Troubleshooting for Go’](https://dev.to/tiger_smith_9f421b9131db5/a-deep-dive-into-gorm-architecture-workflow-tips-and-troubleshooting-for-go-2ld9)
-- [All the News about the New XR Glasses Hitting the Market: Galaxy XR, Oakley Meta Vanguard, Ray-Ban Meta, and More.](https://dev.to/echo3d/all-the-news-about-the-new-xr-glasses-hitting-the-market-galaxy-xr-oakley-meta-vanguard-ray-ban-31om)
-- [🎃 Spooktacular ’25 — A Haunting Event for the Undead](https://dev.to/mdohr07/spooktacular-25-a-haunting-event-for-the-undead-907)
-- [The 120-Hour Blind Spot Killing Your Competitive Edge](https://dev.to/tracksimple/the-120-hour-blind-spot-killing-your-competitive-edge-2008)
+- [The Psychology of UI: Why Certain Interfaces Just ‘Feel’ Better](https://dev.to/iste-vit/the-psychology-of-ui-why-certain-interfaces-just-feel-better-4hgn)
+- [How to Build Your Own MCP Server with Python](https://dev.to/manishmshiva/how-to-build-your-own-mcp-server-with-python-9ed)
+- [Build Own Blockchain - 1 episode](https://dev.to/loading_blocks/build-own-blockchain-1-episode-3l5d)
+- [What are the best AI image generators 2026 for business, and which one fits your budget?](https://dev.to/jay_all_day/what-are-the-best-ai-image-generators-2026-for-business-and-which-one-fits-your-budget-j3m)
+- [Check out the guide on - Learn Generalized Linear Models &lpar;GLM&rpar; Using R: A Complete Practical Guide with Real-World Case Studies](https://dev.to/thedatageek/check-out-the-guide-on-learn-generalized-linear-models-glm-using-r-a-complete-practical-guide-1h15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
