@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Lighthouse Performance Monitor: Tracking Web Performance Over Time](https://dev.to/c3nk/building-a-lighthouse-performance-monitor-tracking-web-performance-over-time-8f1)
+- [Building a Resilient API Key Pool System with Health Checks and Multi-Tier Degradation](https://dev.to/diandiancya/building-a-resilient-api-key-pool-system-with-health-checks-and-multi-tier-degradation-3ba)
 - [Zapier vs Gumloop: Which AI-first automation platform is best for enterprise-scale workflows?](https://dev.to/jay_all_day/zapier-vs-gumloop-which-ai-first-automation-platform-is-best-for-enterprise-scale-workflows-4f2)
 - [Quantum-Resistant Federated Learning with Homomorphic Encryption for Medical Imaging Diagnostics](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-homomorphic-encryption-for-medical-imaging-diagnostics-g1)
 - [Securely storing passwords in a database](https://dev.to/aryan_shourie/securely-storing-passwords-in-a-database-25nd)
-- [MySQL HeatWave Architecture: A Complete Guide](https://dev.to/derrickryangiggs/mysql-heatwave-architecture-a-complete-guide-46p8)
-- [Weekly #44-2025: Amazon’s Layoffs, AI Integration, and Modern PHP — Trends Shaping 2025](https://dev.to/weekly/weekly-44-2025-amazons-layoffs-ai-integration-and-modern-php-trends-shaping-2025-2p97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
