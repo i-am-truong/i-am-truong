@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Being Part of a Community Took Me from Hesitant to 5 PRs Merged](https://dev.to/amelia2802/how-being-part-of-a-community-took-me-from-hesitant-to-5-prs-merged-2l0d)
-- [My Laravel Journey – Part 1: Foundation](https://dev.to/ashishtechdev/my-laravel-journey-part-1-foundation-259)
-- [MCUBoot: OTA Update of Firmware](https://dev.to/ripan030/mcuboot-ota-update-of-firmware-44i)
-- [I Waited 5 Years for AI to Be Good Enough to Build This: A Fully Automatic Logo Designer](https://dev.to/kamil_uhryn/i-waited-5-years-for-ai-to-be-good-enough-to-build-this-a-fully-automatic-logo-designer-5dhd)
-- [MCUboot: Understanding the Image Trailer and How It Tracks Firmware Update Progress](https://dev.to/ripan030/mcuboot-understanding-the-image-trailer-and-how-it-tracks-firmware-update-progress-4l76)
+- [Can Your AI Blackmail You? Inside the Security Risk of Agentic Misalignment](https://dev.to/om_shree_0709/can-your-ai-blackmail-you-inside-the-security-risk-of-agentic-misalignment-2488)
+- [The Hidden Cost of Default Hierarchy Template in Kotlin Multiplatform](https://dev.to/rsicarelli/the-hidden-cost-of-default-hierarchy-templates-in-kotlin-multiplatform-256a)
+- [Integrating Amazon SES into a .NET Backend Using Clean Architecture](https://dev.to/gabrielle_eduarda_776996b/integrating-amazon-ses-into-a-net-backend-using-clean-architecture-2l75)
+- [Note-to-future-self: k8s /metrics hanging](https://dev.to/sergejs_l_2c2217f583e9f21/note-to-future-self-k8s-metrics-hanging-j53)
+- [# 🪟 Window Size Class: Migrating from androidx.window to Material 3 Adaptive](https://dev.to/marlonlom/-window-size-class-migrating-from-androidxwindow-to-material-3-adaptive-2g0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
