@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly #44-2025: Amazon’s Layoffs, AI Integration, and Modern PHP — Trends Shaping 2025](https://dev.to/weekly/weekly-44-2025-amazons-layoffs-ai-integration-and-modern-php-trends-shaping-2025-2p97)
+- [AI Fake Filler — Smart Form Autofill for Developers &amp; Testers](https://dev.to/pipyl96/ai-fake-filler-smart-form-autofill-for-developers-testers-564k)
 - [OnePlus Launches OxygenOS 16: A Big Leap in AI, Design &amp; Ecosystem Integration](https://dev.to/logicverse_2025/oneplus-launches-oxygenos-16-a-big-leap-in-ai-design-ecosystem-integration-4hjj)
+- [View this solution on Exercism](https://dev.to/mehrdadkhodaverdi/view-this-solution-on-exercism-25p2)
 - [Building a Full-Stack Stats Utility App with Node, React, Rust, and Python](https://dev.to/stevenwallace/building-a-full-stack-stats-utility-app-with-node-react-rust-and-python-2ii2)
-- [MultiCOIN: Multi-Modal COntrollable Video INbetweening](https://dev.to/paperium/multicoin-multi-modal-controllable-video-inbetweening-k16)
-- [How to Read a &quot;Free Painting Quote in Rotorua&quot; And Find the Hidden Costs](https://dev.to/rotoruapainter/how-to-read-a-free-painting-quote-in-rotorua-and-find-the-hidden-costs-1fjm)
-- [When rest builds more structure than effort](https://dev.to/koni_jang/when-rest-builds-more-structure-than-effort-56h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
