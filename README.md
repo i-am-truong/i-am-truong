@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two Simple Tools to Convert Between PDF and PNG — 100% Free and Online](https://dev.to/owen_ae938ccb2150fbe7f689/two-simple-tools-to-convert-between-pdf-and-png-100-free-and-online-5af6)
-- [Day 19 of Documenting my learning Journey](https://dev.to/james_kabuga/day-19-of-documenting-my-learning-journey-4mg1)
-- [Frontend System Design: Scalable CSS Architecture](https://dev.to/zeeshanali0704/frontend-system-design-scalable-css-architecture-472n)
-- [Building an Open Source Real-Time Crypto Price Tracker with Bun&#39;s Native WebSocket](https://dev.to/magicnull/building-an-open-source-real-time-crypto-price-tracker-with-buns-native-websocket-2kba)
-- [🚀 Exploring Go’s Core Features in Depth](https://dev.to/ahmed112/exploring-gos-core-features-in-depth-bc6)
+- [안드로이드 개발자가 빠르게 적용할 수 있는 Flutter 프로젝트 구성](https://dev.to/kingori/andeuroideu-gaebaljaga-bbareuge-jeogyonghal-su-issneun-flutter-peurojegteu-guseong-1n83)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-5c58)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3bmn)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4i8f)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-21nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
