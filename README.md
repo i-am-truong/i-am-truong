@@ -81,10 +81,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Writer’s Room DB – Multi-Agent Story Generator Powered by Agentic Postgres](https://dev.to/shanny2022/writers-room-db-multi-agent-story-generator-powered-by-agentic-postgres-kep)
+- [High-Performance Java gRPC Implementation Guide for Scalable Microservices Communication](https://dev.to/aaravjoshi/high-performance-java-grpc-implementation-guide-for-scalable-microservices-communication-46l5)
 - [I Built a Nigerian Bank USSD AI Agent](https://dev.to/ahmadanwar/i-built-a-nigerian-bank-ussd-ai-agent-2fna)
+- [Events as State are an Antipattern in MVI and MVVM - Here&#39;s Why](https://dev.to/nek12/events-as-state-are-an-antipattern-in-mvi-and-mvvm-heres-why-15d2)
 - [Hacktoberfest 2025](https://dev.to/rollczi/hacktoberfest-2025-2ba6)
-- [Unlocking AI Potential: Squeezing Giant Models into Tiny Spaces](https://dev.to/arvind_sundararajan/unlocking-ai-potential-squeezing-giant-models-into-tiny-spaces-2ae3)
-- [Introducing Realm9: Solving Enterprise Environment Chaos with AI](https://dev.to/prasadp/introducing-realm9-solving-enterprise-environment-chaos-with-ai-2ke1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
