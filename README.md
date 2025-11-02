@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OnePlus Launches OxygenOS 16: A Big Leap in AI, Design &amp; Ecosystem Integration](https://dev.to/logicverse_2025/oneplus-launches-oxygenos-16-a-big-leap-in-ai-design-ecosystem-integration-4hjj)
+- [Building a Full-Stack Stats Utility App with Node, React, Rust, and Python](https://dev.to/stevenwallace/building-a-full-stack-stats-utility-app-with-node-react-rust-and-python-2ii2)
 - [MultiCOIN: Multi-Modal COntrollable Video INbetweening](https://dev.to/paperium/multicoin-multi-modal-controllable-video-inbetweening-k16)
 - [How to Read a &quot;Free Painting Quote in Rotorua&quot; And Find the Hidden Costs](https://dev.to/rotoruapainter/how-to-read-a-free-painting-quote-in-rotorua-and-find-the-hidden-costs-1fjm)
 - [When rest builds more structure than effort](https://dev.to/koni_jang/when-rest-builds-more-structure-than-effort-56h2)
-- [From Parrot to Partner - How Reinforcement Learning Taught LLMs to Talk Like Humans](https://dev.to/jiminlee/from-parrot-to-partner-how-reinforcement-learning-taught-llms-to-talk-like-humans-315h)
-- [WTF is Inverse Reinforcement Learning?](https://dev.to/dailybugle33/wtf-is-inverse-reinforcement-learning-3f62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
