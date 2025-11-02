@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create and Publish Your First NPM Package](https://dev.to/danishashko/how-to-create-and-publish-your-first-npm-package-fil)
-- [Writing Your First Compiler - Part 2: What Is a Compiler?](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-2-what-is-a-compiler-2jlh)
-- [Writing Your First Compiler - Part 1: Introduction](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-1-introduction-4j7g)
-- [Let Kiro Do the Work: Automate Your Code and Documentation with Hooks!](https://dev.to/bhatiagirish/let-kiro-do-the-work-automate-your-code-and-documentation-with-hooks-3h6g)
-- [At First, I Asked AI to Write Code. That Was a Mistake](https://dev.to/aragossa/at-first-i-asked-ai-to-write-code-that-was-a-mistake-2ek8)
+- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-4c8j)
+- [Managing Terraform Modules with Nx Monorepo](https://dev.to/slashgear_/managing-terraform-modules-with-nx-monorepo-4jfa)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-43j)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3hhg)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4db0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
