@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own Forum with FastAPI: Step 9 - Upload Images](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-9-upload-images-46of)
 - [Java String codePointCount&lpar;&rpar; Explained: Taming Emojis &amp; Complex Text](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f)
 - [Exploring Next.js 16 File System Conventions](https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk)
 - [I&#39;m Building an AI Agent That Automates Competitor Research](https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie)
 - [Building a GPT-5 Telegram Bot with Telegram Stars Monetization](https://dev.to/king_triton/building-a-gpt-5-telegram-bot-with-telegram-stars-monetization-5g7c)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2inh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
