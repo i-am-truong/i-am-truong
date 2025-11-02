@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Secrets in .NET: Why Strings Are Not Safe &lpar;and What to Do Instead&rpar;](https://dev.to/bwi/secrets-in-net-why-strings-are-not-safe-and-what-to-do-instead-3g3p)
+- [ForkQuest - Zork, but you fork the universe](https://dev.to/datadr1ven/forkquest-zork-but-you-fork-the-universe-2n37)
+- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-7a)
+- [Python basics - Day 18](https://dev.to/ian_b838138a27a917398d181/python-basics-day-18-20ph)
 - [Coding Challenge Practice - Question 43](https://dev.to/tomivan/coding-challenge-practice-question-43-1704)
-- [Cousin locators in Playwright](https://dev.to/zoekclegg/cousin-locators-in-playwright-mk9)
-- [AI writes pretty good code these days and it doesn&#39;t really matter](https://dev.to/morganllewellynjones/ai-writes-pretty-good-code-these-days-and-it-doesnt-really-matter-1o0d)
-- [From QA to Indie Dev: My Two Years in Hacktoberfest](https://dev.to/ivan_oranciuc_06d81e3a2ac/from-qa-to-indie-dev-my-two-years-in-hacktoberfest-4e6d)
-- [The Great Unification: A Journey from CommonJS to ES Modules in Node.js](https://dev.to/alex_aslam/the-great-unification-a-journey-from-commonjs-to-es-modules-in-nodejs-5bng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
