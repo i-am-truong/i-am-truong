@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Last Four PRs for 2025](https://dev.to/gracieamser/the-last-four-prs-for-2025-389j)
+- [Deploy Java Apps Like a Pro: WildFly Setup, Tuning &amp; Automation on RHEL &lpar;2025 Edition&rpar;](https://dev.to/kaustubhyerkade/deploy-java-apps-like-a-pro-wildfly-setup-tuning-automation-on-rhel-2025-edition-5fh5)
+- [Unicorn Platform Streamlines Web Development with Next-Level AI Assistance](https://dev.to/unicornsblog/unicorn-platform-streamlines-web-development-with-next-level-ai-assistance-9ej)
+- [Step-by-Step Guide to Upgrading Your React Native Expo Project](https://dev.to/dainyjose/step-by-step-guide-to-upgrading-your-react-native-expo-project-1fio)
 - [Using ActionBlock as a Multithread Recursive Dynamic Queue in .NET](https://dev.to/daniloflorenzano/using-actionblock-as-a-multithread-recursive-dynamic-queue-in-net-2c3m)
-- [MCP standard](https://dev.to/grzegorzgrzegorz/mcp-standard-3hmb)
-- [Looking forward to this when it comes out on streaming. Saw the original when I was a kid. Loved the second one mostly because of Daft Punk’s score &lpar;and cameo&rpar;—so fitting. And this one is scored by NIN! https://youtu.be/YShVEXb7-ic?si=-fxXEV_TERLZRexN](https://dev.to/mikeydorje/looking-forward-to-this-when-it-comes-out-on-streaming-saw-the-original-when-i-was-a-kid-loved-2pl9)
-- [Java&#39;s Agentic Framework Boom is a Code Smell](https://dev.to/avoguru/javas-agentic-framework-boom-is-a-code-smell-5eni)
-- [🚀 TOON &lpar;Token-Oriented Object Notation&rpar; — The Smarter, Lighter JSON for LLMs](https://dev.to/abhilaksharora/toon-token-oriented-object-notation-the-smarter-lighter-json-for-llms-2f05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
