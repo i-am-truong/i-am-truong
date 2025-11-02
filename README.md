@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zapier vs Gumloop: Which AI-first automation platform is best for enterprise-scale workflows?](https://dev.to/jay_all_day/zapier-vs-gumloop-which-ai-first-automation-platform-is-best-for-enterprise-scale-workflows-4f2)
+- [Quantum-Resistant Federated Learning with Homomorphic Encryption for Medical Imaging Diagnostics](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-homomorphic-encryption-for-medical-imaging-diagnostics-g1)
+- [Securely storing passwords in a database](https://dev.to/aryan_shourie/securely-storing-passwords-in-a-database-25nd)
+- [MySQL HeatWave Architecture: A Complete Guide](https://dev.to/derrickryangiggs/mysql-heatwave-architecture-a-complete-guide-46p8)
 - [Weekly #44-2025: Amazon’s Layoffs, AI Integration, and Modern PHP — Trends Shaping 2025](https://dev.to/weekly/weekly-44-2025-amazons-layoffs-ai-integration-and-modern-php-trends-shaping-2025-2p97)
-- [AI Fake Filler — Smart Form Autofill for Developers &amp; Testers](https://dev.to/pipyl96/ai-fake-filler-smart-form-autofill-for-developers-testers-564k)
-- [OnePlus Launches OxygenOS 16: A Big Leap in AI, Design &amp; Ecosystem Integration](https://dev.to/logicverse_2025/oneplus-launches-oxygenos-16-a-big-leap-in-ai-design-ecosystem-integration-4hjj)
-- [View this solution on Exercism](https://dev.to/mehrdadkhodaverdi/view-this-solution-on-exercism-25p2)
-- [Building a Full-Stack Stats Utility App with Node, React, Rust, and Python](https://dev.to/stevenwallace/building-a-full-stack-stats-utility-app-with-node-react-rust-and-python-2ii2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
