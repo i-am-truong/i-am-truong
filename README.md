@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Writer’s Room DB – Multi-Agent Story Generator Powered by Agentic Postgres](https://dev.to/shanny2022/writers-room-db-multi-agent-story-generator-powered-by-agentic-postgres-kep)
+- [I Built a Nigerian Bank USSD AI Agent](https://dev.to/ahmadanwar/i-built-a-nigerian-bank-ussd-ai-agent-2fna)
 - [Hacktoberfest 2025](https://dev.to/rollczi/hacktoberfest-2025-2ba6)
 - [Unlocking AI Potential: Squeezing Giant Models into Tiny Spaces](https://dev.to/arvind_sundararajan/unlocking-ai-potential-squeezing-giant-models-into-tiny-spaces-2ae3)
 - [Introducing Realm9: Solving Enterprise Environment Chaos with AI](https://dev.to/prasadp/introducing-realm9-solving-enterprise-environment-chaos-with-ai-2ke1)
-- [UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning](https://dev.to/paperium/unime-v2-mllm-as-a-judge-for-universal-multimodal-embedding-learning-5hi4)
-- [The Essential Interfaces Every C# Developer Should Know](https://dev.to/rasheedmozaffar/the-essential-interfaces-every-c-developer-should-know-2ma4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
