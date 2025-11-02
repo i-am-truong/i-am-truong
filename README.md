@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Behaviour-based Object Composition in Simulations](https://dev.to/halfcomplete/behaviour-based-object-composition-in-simulations-hhi)
 - [Migrating from New Relic Drop Rules to Pipeline Cloud Rules: A Terraform Guide](https://dev.to/anderson_leite/migrating-from-new-relic-drop-rules-to-pipeline-cloud-rules-a-terraform-guide-1poe)
 - [6 New React 19 Features Everyone Must Use](https://dev.to/boika_boy/6-new-react-19-features-everyone-must-use-42fn)
+- [Brandpix AI](https://dev.to/vincent_lu_568032c4b4968b/brandpix-ai-2k51)
 - [Learn how to take full control of select styling using CSS.](https://dev.to/salehmubashar/learn-how-to-take-full-control-of-styling-using-css-53mc)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-j93)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-39ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
