@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Can We Trust AI Browsers?](https://dev.to/abdelghani_alhijawi_499197ca/can-we-trust-ai-browsers-36hk)
-- [🚀 Understanding $sys\_charset in Uniface 10.4](https://dev.to/petercode/understanding-syscharset-in-uniface-104-f13)
-- [Implementing JWT Authentication in Rust using Axum](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-using-axum-4bm4)
-- [🔍 Understanding the $syntax Function in Uniface 10.4](https://dev.to/petercode/understanding-the-syntax-function-in-uniface-104-4kjg)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-4dd5)
+- [Built Datapizza-AI in PHP on 2011 Raspberry Pi: Edge AI Without GPU](https://dev.to/paolomulas/built-datapizza-ai-in-php-on-2011-raspberry-pi-edge-ai-without-gpu-22ba)
+- [What are the root causes behind AI value remains elusive and how can you fix them for good?](https://dev.to/jay_all_day/what-are-the-root-causes-behind-ai-value-remains-elusive-and-how-can-you-fix-them-for-good-384b)
+- [Uniface Quick Tip: Taming Your Print Layouts with $totlines 📄](https://dev.to/petercode/uniface-quick-tip-taming-your-print-layouts-with-totlines-51ga)
+- [Demystifying Uniface: A Simple Guide to the $totkeys Function ✨](https://dev.to/petercode/demystifying-uniface-a-simple-guide-to-the-totkeys-function-n42)
+- [Demystifying Uniface ProcScript: A Simple Guide to $totdbocc 🚀](https://dev.to/petercode/demystifying-uniface-procscript-a-simple-guide-to-totdbocc-3nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
