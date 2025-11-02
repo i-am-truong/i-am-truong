@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Go&#39;s New WaitGroup.Go](https://dev.to/joybtw/gos-new-waitgroupgo-ed8)
-- [Untitled](https://dev.to/sakila_dineth_c92619ee8b8/untitled-2cf7)
-- [GCP to GitHub CI/CD Setup Steps](https://dev.to/vkassingh/gcp-to-github-cicd-setup-steps-5nc)
-- [QuickDoodle: Real-Time Drawing &amp; Guessing Game &lpar;with AI Agents Coming Soon!&rpar; – Hacktoberfest 2025 Spotlight](https://dev.to/usman_awan/quickdoodle-real-time-drawing-guessing-game-with-ai-agents-coming-soon-hacktoberfest-2025-3pci)
-- [IaaS vs PaaS vs SaaS — The Cloud Models Every Developer Should Understand 📊](https://dev.to/dev_deepaksen/iaas-vs-paas-vs-saas-the-cloud-models-every-developer-should-understand-57ka)
+- [Java String codePointCount&lpar;&rpar; Explained: Taming Emojis &amp; Complex Text](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f)
+- [Exploring Next.js 16 File System Conventions](https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-363a)
+- [I&#39;m Building an AI Agent That Automates Competitor Research](https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie)
+- [Building a GPT-5 Telegram Bot with Telegram Stars Monetization](https://dev.to/king_triton/building-a-gpt-5-telegram-bot-with-telegram-stars-monetization-5g7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
