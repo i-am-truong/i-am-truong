@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Every Way a Startup Can Fail](https://dev.to/perssondennis/every-way-a-startup-can-fail-46d8)
-- [Diving Deeper into Blockchain and Web3 Product Engineering – Week 1 Learnings](https://dev.to/goodnesskay/diving-deeper-into-blockchain-and-web3-product-engineering-week-1-learnings-2bn8)
-- [Libcrypto Pypi - Generate and converting Crypto Wallet Package](https://dev.to/mr1mmdrza/libcrypto-pypi-generate-and-converting-crypto-wallet-package-p68)
-- [Feeling the Vibes with Verifi](https://dev.to/prince_of_pasta/feeling-the-vibes-with-verifi-152c)
-- [Bright Data vs Browse AI: Choosing the Right Web Scraping Stack Without Regret](https://dev.to/alifar/bright-data-vs-browse-ai-choosing-the-right-web-scraping-stack-without-regret-291d)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2702)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-17ao)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-3djd)
+- [Principles of Privacy by Design: Embedding Ethics and Trust into Every System](https://dev.to/jayita_gulati_654f0451382/principles-of-privacy-by-design-embedding-ethics-and-trust-into-every-system-3d9)
+- [ClipTagger-12B VLM: Frame Captioning Tutorial](https://dev.to/thevilledev/cliptagger-12b-vlm-frame-captioning-tutorial-1gkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
