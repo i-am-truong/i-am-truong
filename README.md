@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Preventing Breaking Changes in Event-Driven Systems with Contracts and Validation](https://dev.to/aws-builders/preventing-breaking-changes-in-event-driven-systems-with-contracts-and-validation-4gmk)
 - [Part 2: From $68/month to $5/month - The &quot;Lite&quot; Deployment Strategy](https://dev.to/wheeleruniverse/part-2-from-68month-to-5month-the-lite-deployment-strategy-1lah)
+- [Exploring the Future: Emerging Trends in Software License Protection for Enterprises](https://dev.to/soraco_technologies_85385/exploring-the-future-emerging-trends-in-software-license-protection-for-enterprises-l5a)
+- [Quantum-Powered AI: Revolutionizing Collateral Management by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-powered-ai-revolutionizing-collateral-management-by-arvind-sundararajan-129h)
 - [Symlinks](https://dev.to/walodja1987/symlinks-2gjh)
-- [Resilient APIs: How to Build Failure-Tolerant Backends in .NET and AWS](https://dev.to/gabrielle_eduarda_776996b/resilient-apis-how-to-build-failure-tolerant-backends-in-net-and-aws-5he2)
-- [📰 Major Tech News: November 2nd, 2025: Apple Vision Pro Delay, Meta&#39;s Llama 4 Debate, and EU Probes Amazon&#39;s AI Hiring Tools](https://dev.to/om_shree_0709/major-tech-news-november-2nd-2025-apple-vision-pro-delay-metas-llama-4-debate-and-eu-probes-3k6j)
-- [day 70 of 100k-before-uni: lessons, launches + looking ahead](https://dev.to/vulcanwm/day-70-of-100k-before-uni-lessons-launches-looking-ahead-ja2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
