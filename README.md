@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Building MCP Servers to Control a Home Coffee Roaster - An Agentic Development Journey with Warp Agent](https://dev.to/syamaner/part-2-building-mcp-servers-to-control-a-home-coffee-roaster-an-agentic-development-journey-with-58ik)
-- [The biggest pitfall of React Context - Unwanted re-render](https://dev.to/rdd_d9d31a9bee259e6c/the-biggest-pitfall-of-react-context-unwanted-re-render-2ok0)
-- [AI in Email Marketing: How Artificial Intelligence Is Redefining Customer Communication](https://dev.to/babahakka/ai-in-email-marketing-how-artificial-intelligence-is-redefining-customer-communication-1f53)
-- [How I Crushed Timestamp Storage by 56% with Bit Packing](https://dev.to/danexcodr/how-i-crushed-timestamp-storage-by-56-with-bit-packing-555k)
-- [How I Built My Developer Portfolio with Vite, React, and Bun — Fast, Modern &amp; Fully Customizable](https://dev.to/dainyjose/how-i-built-my-developer-portfolio-with-vite-react-and-bun-fast-modern-fully-customizable-410b)
+- [Feeling the Vibes with Verifi](https://dev.to/prince_of_pasta/feeling-the-vibes-with-verifi-152c)
+- [Bright Data vs Browse AI: Choosing the Right Web Scraping Stack Without Regret](https://dev.to/alifar/bright-data-vs-browse-ai-choosing-the-right-web-scraping-stack-without-regret-291d)
+- [Learning to Learn: The Real Skill of a Developer](https://dev.to/yemrealtanay/learning-to-learn-the-real-skill-of-a-developer-1m8m)
+- [How I Passed the AWS Certified CloudOps Engineer &lpar;SOA-CO3&rpar; Exam — My Honest Preparation Journey](https://dev.to/ravi_prakashsingh_24e356/how-i-passed-the-aws-certified-cloudops-engineer-soa-co3-exam-my-honest-preparation-journey-2o8g)
+- [Unlocking LLMs: The Self-Steering Revolution](https://dev.to/arvind_sundararajan/unlocking-llms-the-self-steering-revolution-4k42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
