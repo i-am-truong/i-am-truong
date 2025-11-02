@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Organized My CLAUDE.md in a Monorepo with Too Many Contexts](https://dev.to/anvodev/how-i-organized-my-claudemd-in-a-monorepo-with-too-many-contexts-37k7)
+- [Recientemente, se publicó en el Diario Oficial de la Federac](https://dev.to/drcarlosruizviquez/recientemente-se-publico-en-el-diario-oficial-de-la-federac-cc7)
+- [A Pull Request to Purpose](https://dev.to/suhanisanskriti28oss/a-pull-request-to-purpose-33g5)
+- [Revolutionizing AI: Scientists merge music &amp; brain signals t](https://dev.to/drcarlosruizviquez/revolutionizing-ai-scientists-merge-music-brain-signals-t-54h2)
 - [Empowering the Future: Building Meaningful Projects with Microsoft Technologies 💡](https://dev.to/sunny7899/empowering-the-future-building-meaningful-projects-with-microsoft-technologies-548i)
-- [I made Lexkit &lpar; Rich Text Editor I wish existed !&rpar;](https://dev.to/codeideal/i-made-lexkit-rich-text-editor-i-wish-existed--1o3n)
-- [Laravel Models &amp; Authentication: Setting Up User Registration &amp; Login](https://dev.to/nelson_orina_a538ba52e9ed/laravel-models-authentication-setting-up-user-registration-login-2c79)
-- [10 Tips for Git Every Developer Should Know in 2025](https://dev.to/priyanshu_buley/10-tips-for-git-every-developer-should-know-in-2025-346l)
-- [Semantic search with embeddings in JavaScript: a hands-on example using LangChain and Ollama](https://dev.to/robertobutti/semantic-search-with-embeddings-in-javascript-a-hands-on-example-using-langchain-and-ollama-4b89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
