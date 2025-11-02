@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Show Report](https://dev.to/dennis_yeh_39c256f37cd897/playwright-show-report-3k8n)
+- [Decoding Autonomy: When AI Learns to Speak for Itself by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-autonomy-when-ai-learns-to-speak-for-itself-by-arvind-sundararajan-1p10)
 - [I Finally Understood This Magic CSS Snippet](https://dev.to/alok38/i-finally-understood-this-magic-css-snippet-5237)
-- [Build Your Own Forum with FastAPI: Step 9 - Upload Images](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-9-upload-images-46of)
-- [Java String codePointCount&lpar;&rpar; Explained: Taming Emojis &amp; Complex Text](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f)
-- [Exploring Next.js 16 File System Conventions](https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk)
-- [I&#39;m Building an AI Agent That Automates Competitor Research](https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie)
+- [AWS Cost Optimization: 10 Strategies to Reduce Your Cloud Bill by 30-60%](https://dev.to/instadevops/aws-cost-optimization-10-strategies-to-reduce-your-cloud-bill-by-30-60-ed)
+- [Will Google’s SGE and Gemini Models Redefine How We Do SEO?](https://dev.to/babamanga/will-googles-sge-and-gemini-models-redefine-how-we-do-seo-33j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
