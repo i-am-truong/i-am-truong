@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Corporate Burnout to Side Hustle: I Shipped DinkySub in 2 Months with an AI Co-Pilot &lpar;and its Terrible Business Ideas&rpar;](https://dev.to/gigaelk/from-corporate-burnout-to-side-hustle-i-shipped-dinkysub-in-2-months-with-an-ai-co-pilot-and-its-2a3h)
-- [🍓 Berry House is Open for Business!](https://dev.to/brennan/berry-house-is-open-for-business-59go)
-- [Docker Registry &lpar;Harbor&rpar; and Private Repositories](https://dev.to/godofgeeks/docker-registry-harbor-and-private-repositories-316o)
-- [Playwright Show Report](https://dev.to/dennis_yeh_39c256f37cd897/playwright-show-report-3k8n)
-- [Decoding Autonomy: When AI Learns to Speak for Itself by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-autonomy-when-ai-learns-to-speak-for-itself-by-arvind-sundararajan-1p10)
+- [Can We Trust AI Browsers?](https://dev.to/abdelghani_alhijawi_499197ca/can-we-trust-ai-browsers-36hk)
+- [🚀 Understanding $sys\_charset in Uniface 10.4](https://dev.to/petercode/understanding-syscharset-in-uniface-104-f13)
+- [Implementing JWT Authentication in Rust using Axum](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-using-axum-4bm4)
+- [🔍 Understanding the $syntax Function in Uniface 10.4](https://dev.to/petercode/understanding-the-syntax-function-in-uniface-104-4kjg)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-4dd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
