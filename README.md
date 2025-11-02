@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding Challenge Practice - Question 43](https://dev.to/tomivan/coding-challenge-practice-question-43-1704)
+- [Cousin locators in Playwright](https://dev.to/zoekclegg/cousin-locators-in-playwright-mk9)
 - [AI writes pretty good code these days and it doesn&#39;t really matter](https://dev.to/morganllewellynjones/ai-writes-pretty-good-code-these-days-and-it-doesnt-really-matter-1o0d)
 - [From QA to Indie Dev: My Two Years in Hacktoberfest](https://dev.to/ivan_oranciuc_06d81e3a2ac/from-qa-to-indie-dev-my-two-years-in-hacktoberfest-4e6d)
 - [The Great Unification: A Journey from CommonJS to ES Modules in Node.js](https://dev.to/alex_aslam/the-great-unification-a-journey-from-commonjs-to-es-modules-in-nodejs-5bng)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-46d5)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2baf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
