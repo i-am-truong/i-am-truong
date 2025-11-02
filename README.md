@@ -80,10 +80,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using ActionBlock as a Multithread Recursive Dynamic Queue in .NET](https://dev.to/daniloflorenzano/using-actionblock-as-a-multithread-recursive-dynamic-queue-in-net-2c3m)
+- [MCP standard](https://dev.to/grzegorzgrzegorz/mcp-standard-3hmb)
 - [Looking forward to this when it comes out on streaming. Saw the original when I was a kid. Loved the second one mostly because of Daft Punk’s score &lpar;and cameo&rpar;—so fitting. And this one is scored by NIN! https://youtu.be/YShVEXb7-ic?si=-fxXEV_TERLZRexN](https://dev.to/mikeydorje/looking-forward-to-this-when-it-comes-out-on-streaming-saw-the-original-when-i-was-a-kid-loved-2pl9)
-- [[Boost]](https://dev.to/sarthakwd_20/-1a9h)
 - [Java&#39;s Agentic Framework Boom is a Code Smell](https://dev.to/avoguru/javas-agentic-framework-boom-is-a-code-smell-5eni)
-- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-33g3)
 - [🚀 TOON &lpar;Token-Oriented Object Notation&rpar; — The Smarter, Lighter JSON for LLMs](https://dev.to/abhilaksharora/toon-token-oriented-object-notation-the-smarter-lighter-json-for-llms-2f05)
 <!-- BLOG-POST-LIST:END -->
 
