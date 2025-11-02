@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend System Design: Scalable CSS Architecture](https://dev.to/zeeshanali0704/frontend-system-design-scalable-css-architecture-472n)
 - [Building an Open Source Real-Time Crypto Price Tracker with Bun&#39;s Native WebSocket](https://dev.to/magicnull/building-an-open-source-real-time-crypto-price-tracker-with-buns-native-websocket-2kba)
 - [🚀 Exploring Go’s Core Features in Depth](https://dev.to/ahmed112/exploring-gos-core-features-in-depth-bc6)
-- [onedraw — a GPU-driven 2D renderer](https://dev.to/geolm/onedraw-a-gpu-driven-2d-renderer-151c)
-- [🕵️‍♂️ Understanding Sybil Attacks: When One User Pretends to Be Many](https://dev.to/m4ze/understanding-sybil-attacks-when-one-user-pretends-to-be-many-547n)
-- [🚀 Leveling Up My React Project — Adding Firebase to Listo 🛒](https://dev.to/usama_dev/leveling-up-my-react-project-adding-firebase-to-listo-5me)
+- [Which platform wins: Zapier vs Gumloop comparison for scalable automation?](https://dev.to/jay_all_day/which-platform-wins-zapier-vs-gumloop-comparison-for-scalable-automation-b9l)
+- [How Generative AI Is Revolutionizing Content Marketing](https://dev.to/arc_support_458635af462f4/how-generative-ai-is-revolutionizing-content-marketing-oce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
