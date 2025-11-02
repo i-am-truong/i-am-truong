@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ensuring Data Resilience in Modern Application Environments](https://dev.to/kapusto/ensuring-data-resilience-in-modern-application-environments-5hfe)
 - [Helios Engine v0.3.4](https://dev.to/ammar-alnagar/helios-engine-v034-30pn)
+- [Deep Integration and the Convergence of Model Architecture and Hardware in AI](https://dev.to/maurizio_morri_f7f4bd128c/deep-integration-and-the-convergence-of-model-architecture-and-hardware-in-ai-4265)
+- [Strengthening Active Directory Security Through Continuous Monitoring and Rapid Recovery](https://dev.to/kapusto/strengthening-active-directory-security-through-continuous-monitoring-and-rapid-recovery-2487)
 - [Claude Code for Growth Marketing &lpar;Hell Yeah!&rpar;](https://dev.to/danishashko/claude-code-for-growth-marketing-hell-yeah-i7i)
-- [Reglas Personalizadas en Web Application Firewall nativo AWS](https://dev.to/cyb3rcloud8888/reglas-personalizadas-en-web-application-firewall-nativo-aws-3g19)
-- [Compartilhando props em Compound Components sem usar Context API](https://dev.to/lucaspanizio/compartilhando-props-em-compound-components-sem-usar-context-api-gnp)
-- [Chain of Pattern: Rethink](https://dev.to/nekrjkeee/great-post-title-3coi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
