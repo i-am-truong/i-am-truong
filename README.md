@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diving Deeper into Blockchain and Web3 Product Engineering – Week 1 Learnings](https://dev.to/goodnesskay/diving-deeper-into-blockchain-and-web3-product-engineering-week-1-learnings-2bn8)
+- [Libcrypto Pypi - Generate and converting Crypto Wallet Package](https://dev.to/mr1mmdrza/libcrypto-pypi-generate-and-converting-crypto-wallet-package-p68)
 - [Feeling the Vibes with Verifi](https://dev.to/prince_of_pasta/feeling-the-vibes-with-verifi-152c)
 - [Bright Data vs Browse AI: Choosing the Right Web Scraping Stack Without Regret](https://dev.to/alifar/bright-data-vs-browse-ai-choosing-the-right-web-scraping-stack-without-regret-291d)
 - [Learning to Learn: The Real Skill of a Developer](https://dev.to/yemrealtanay/learning-to-learn-the-real-skill-of-a-developer-1m8m)
-- [How I Passed the AWS Certified CloudOps Engineer &lpar;SOA-CO3&rpar; Exam — My Honest Preparation Journey](https://dev.to/ravi_prakashsingh_24e356/how-i-passed-the-aws-certified-cloudops-engineer-soa-co3-exam-my-honest-preparation-journey-2o8g)
-- [Unlocking LLMs: The Self-Steering Revolution](https://dev.to/arvind_sundararajan/unlocking-llms-the-self-steering-revolution-4k42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
