@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Needs Human Oversight for Architecture: A Real Refactoring Story](https://dev.to/heyradcode/why-ai-needs-human-oversight-for-architecture-a-real-refactoring-story-4l3g)
+- [Building NailArt AI: A Complete Technical Breakdown](https://dev.to/devanshu_goyal_16893698bd/building-nailart-ai-a-complete-technical-breakdown-3jcd)
 - [Behaviour-based Object Composition in Simulations](https://dev.to/halfcomplete/behaviour-based-object-composition-in-simulations-hhi)
 - [Migrating from New Relic Drop Rules to Pipeline Cloud Rules: A Terraform Guide](https://dev.to/anderson_leite/migrating-from-new-relic-drop-rules-to-pipeline-cloud-rules-a-terraform-guide-1poe)
 - [6 New React 19 Features Everyone Must Use](https://dev.to/boika_boy/6-new-react-19-features-everyone-must-use-42fn)
-- [Brandpix AI](https://dev.to/vincent_lu_568032c4b4968b/brandpix-ai-2k51)
-- [Learn how to take full control of select styling using CSS.](https://dev.to/salehmubashar/learn-how-to-take-full-control-of-styling-using-css-53mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
