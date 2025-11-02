@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [League of Legends MMR Explained - How It Really Works](https://dev.to/ryan_carter/league-of-legends-mmr-explained-how-it-really-works-d47)
 - [안드로이드 개발자가 빠르게 적용할 수 있는 Flutter 프로젝트 구성](https://dev.to/kingori/andeuroideu-gaebaljaga-bbareuge-jeogyonghal-su-issneun-flutter-peurojegteu-guseong-1n83)
 - [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-5c58)
 - [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3bmn)
 - [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4i8f)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-21nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
