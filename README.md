@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Empowering the Future: Building Meaningful Projects with Microsoft Technologies 💡](https://dev.to/sunny7899/empowering-the-future-building-meaningful-projects-with-microsoft-technologies-548i)
+- [I made Lexkit &lpar; Rich Text Editor I wish existed !&rpar;](https://dev.to/codeideal/i-made-lexkit-rich-text-editor-i-wish-existed--1o3n)
+- [Laravel Models &amp; Authentication: Setting Up User Registration &amp; Login](https://dev.to/nelson_orina_a538ba52e9ed/laravel-models-authentication-setting-up-user-registration-login-2c79)
+- [10 Tips for Git Every Developer Should Know in 2025](https://dev.to/priyanshu_buley/10-tips-for-git-every-developer-should-know-in-2025-346l)
 - [Semantic search with embeddings in JavaScript: a hands-on example using LangChain and Ollama](https://dev.to/robertobutti/semantic-search-with-embeddings-in-javascript-a-hands-on-example-using-langchain-and-ollama-4b89)
-- [EZ Mother Devlog #4](https://dev.to/longchau/ez-mother-devlog-4-4hgp)
-- [Myth: Fine-tuning LLMs always requires a huge dataset for si](https://dev.to/drcarlosruizviquez/myth-fine-tuning-llms-always-requires-a-huge-dataset-for-si-2k4m)
-- [Creating a High-Availability Storage Account for a Public Website](https://dev.to/ottah_chukwuebuka/creating-a-high-availability-storage-account-for-a-public-website-4l5k)
-- [Comparing images with AVX](https://dev.to/serpent7776/comparing-images-with-avx-3fo2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
