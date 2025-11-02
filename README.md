@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
+- [PHP vs Node.js: A Real-World Performance Comparison](https://dev.to/sureshr/php-vs-nodejs-a-real-world-performance-comparison-l2)
 - [🚀 Hello, Kubernetes! A Hands-On Guide to Deploying Your First App on GKE description](https://dev.to/jay_sheth/hello-kubernetes-a-hands-on-guide-to-deploying-your-first-app-on-gke-description-28gi)
+- [Level Up Your Code: How AI is Changing the Development Game](https://dev.to/karthik_n/level-up-your-code-how-ai-is-changing-the-development-game-2f7f)
 - [Why AI Needs Human Oversight for Architecture: A Real Refactoring Story](https://dev.to/heyradcode/why-ai-needs-human-oversight-for-architecture-a-real-refactoring-story-4l3g)
-- [Building NailArt AI: A Complete Technical Breakdown](https://dev.to/devanshu_goyal_16893698bd/building-nailart-ai-a-complete-technical-breakdown-3jcd)
-- [Optimizing Software for Extremely Slow Networks &lpar;1KB/s&rpar;](https://dev.to/hungga1711/optimizing-software-for-extremely-slow-networks-1kbs-1hfo)
-- [Behaviour-based Object Composition in Simulations](https://dev.to/halfcomplete/behaviour-based-object-composition-in-simulations-hhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
