@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Corporate Burnout to Side Hustle: I Shipped DinkySub in 2 Months with an AI Co-Pilot &lpar;and its Terrible Business Ideas&rpar;](https://dev.to/gigaelk/from-corporate-burnout-to-side-hustle-i-shipped-dinkysub-in-2-months-with-an-ai-co-pilot-and-its-2a3h)
 - [Playwright Show Report](https://dev.to/dennis_yeh_39c256f37cd897/playwright-show-report-3k8n)
 - [Decoding Autonomy: When AI Learns to Speak for Itself by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-autonomy-when-ai-learns-to-speak-for-itself-by-arvind-sundararajan-1p10)
 - [I Finally Understood This Magic CSS Snippet](https://dev.to/alok38/i-finally-understood-this-magic-css-snippet-5237)
 - [AWS Cost Optimization: 10 Strategies to Reduce Your Cloud Bill by 30-60%](https://dev.to/instadevops/aws-cost-optimization-10-strategies-to-reduce-your-cloud-bill-by-30-60-ed)
-- [Will Google’s SGE and Gemini Models Redefine How We Do SEO?](https://dev.to/babamanga/will-googles-sge-and-gemini-models-redefine-how-we-do-seo-33j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
