@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [League of Legends MMR Explained - How It Really Works](https://dev.to/ryan_carter/league-of-legends-mmr-explained-how-it-really-works-d47)
-- [안드로이드 개발자가 빠르게 적용할 수 있는 Flutter 프로젝트 구성](https://dev.to/kingori/andeuroideu-gaebaljaga-bbareuge-jeogyonghal-su-issneun-flutter-peurojegteu-guseong-1n83)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-5c58)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3bmn)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4i8f)
+- [Visopsys: OS maintained by a single developer since 1997](https://dev.to/technoblogger14o3/visopsys-os-maintained-by-a-single-developer-since-1997-1ikh)
+- [AI in Email Marketing: Delivering Precision, Personalization, and Performance](https://dev.to/babbo_542a1b20fefc/ai-in-email-marketing-delivering-precision-personalization-and-performance-3nod)
+- [InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue](https://dev.to/paperium/interactiveomni-a-unified-omni-modal-model-for-audio-visual-multi-turn-dialogue-24ff)
+- [How can organisations fix AI value remains elusive despite soaring investment and turn it into measurable customer value?](https://dev.to/jay_all_day/how-can-organisations-fix-ai-value-remains-elusive-despite-soaring-investment-and-turn-it-into-38b8)
+- [Building Trinity Protocol™: A Deep Dive into Multi-Chain Consensus Security](https://dev.to/chronosvault/building-trinity-protocol-a-deep-dive-into-multi-chain-consensus-security-jn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
