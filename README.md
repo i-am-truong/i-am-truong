@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Visopsys: OS maintained by a single developer since 1997](https://dev.to/technoblogger14o3/visopsys-os-maintained-by-a-single-developer-since-1997-1ikh)
-- [AI in Email Marketing: Delivering Precision, Personalization, and Performance](https://dev.to/babbo_542a1b20fefc/ai-in-email-marketing-delivering-precision-personalization-and-performance-3nod)
-- [InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue](https://dev.to/paperium/interactiveomni-a-unified-omni-modal-model-for-audio-visual-multi-turn-dialogue-24ff)
-- [How can organisations fix AI value remains elusive despite soaring investment and turn it into measurable customer value?](https://dev.to/jay_all_day/how-can-organisations-fix-ai-value-remains-elusive-despite-soaring-investment-and-turn-it-into-38b8)
-- [Building Trinity Protocol™: A Deep Dive into Multi-Chain Consensus Security](https://dev.to/chronosvault/building-trinity-protocol-a-deep-dive-into-multi-chain-consensus-security-jn5)
+- [Part 2: Building MCP Servers to Control a Home Coffee Roaster - An Agentic Development Journey with Warp Agent](https://dev.to/syamaner/part-2-building-mcp-servers-to-control-a-home-coffee-roaster-an-agentic-development-journey-with-58ik)
+- [The biggest pitfall of React Context - Unwanted re-render](https://dev.to/rdd_d9d31a9bee259e6c/the-biggest-pitfall-of-react-context-unwanted-re-render-2ok0)
+- [AI in Email Marketing: How Artificial Intelligence Is Redefining Customer Communication](https://dev.to/babahakka/ai-in-email-marketing-how-artificial-intelligence-is-redefining-customer-communication-1f53)
+- [How I Crushed Timestamp Storage by 56% with Bit Packing](https://dev.to/danexcodr/how-i-crushed-timestamp-storage-by-56-with-bit-packing-555k)
+- [How I Built My Developer Portfolio with Vite, React, and Bun — Fast, Modern &amp; Fully Customizable](https://dev.to/dainyjose/how-i-built-my-developer-portfolio-with-vite-react-and-bun-fast-modern-fully-customizable-410b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
