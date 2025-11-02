@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [📰 Major Tech News: November 2nd, 2025: Apple Vision Pro Delay, Meta&#39;s Llama 4 Debate, and EU Probes Amazon&#39;s AI Hiring Tools](https://dev.to/om_shree_0709/major-tech-news-november-2nd-2025-apple-vision-pro-delay-metas-llama-4-debate-and-eu-probes-3k6j)
+- [day 70 of 100k-before-uni: lessons, launches + looking ahead](https://dev.to/vulcanwm/day-70-of-100k-before-uni-lessons-launches-looking-ahead-ja2)
+- [The Hidden Cost of Microservices: When Complexity Kills Velocity](https://dev.to/gabrielle_eduarda_776996b/the-hidden-cost-of-microservices-when-complexity-kills-velocity-3mm3)
+- [Wildlife Photography in Udawalawe — Capturing the Spirit of the Wild](https://dev.to/traditionalwindow/wildlife-photography-in-udawalawe-capturing-the-spirit-of-the-wild-429o)
 - [Can Your AI Blackmail You? Inside the Security Risk of Agentic Misalignment](https://dev.to/om_shree_0709/can-your-ai-blackmail-you-inside-the-security-risk-of-agentic-misalignment-2488)
-- [The Hidden Cost of Default Hierarchy Template in Kotlin Multiplatform](https://dev.to/rsicarelli/the-hidden-cost-of-default-hierarchy-templates-in-kotlin-multiplatform-256a)
-- [Integrating Amazon SES into a .NET Backend Using Clean Architecture](https://dev.to/gabrielle_eduarda_776996b/integrating-amazon-ses-into-a-net-backend-using-clean-architecture-2l75)
-- [Note-to-future-self: k8s /metrics hanging](https://dev.to/sergejs_l_2c2217f583e9f21/note-to-future-self-k8s-metrics-hanging-j53)
-- [# 🪟 Window Size Class: Migrating from androidx.window to Material 3 Adaptive](https://dev.to/marlonlom/-window-size-class-migrating-from-androidxwindow-to-material-3-adaptive-2g0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
