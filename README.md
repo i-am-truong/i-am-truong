@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains ReSharper for Visual Studio](https://dev.to/karenpayneoregon/jetbrains-resharper-for-visual-studio-12j0)
+- [What Are Tables in Lua in 2025?](https://dev.to/puratabla/what-are-tables-in-lua-in-2025-4d5o)
 - [Explain Metatables in Lua. in 2025?](https://dev.to/anna_golubkova/explain-metatables-in-lua-in-2025-34ba)
+- [What Is Lua Used for in Programming in 2025?](https://dev.to/nigelsilonero/what-is-lua-used-for-in-programming-in-2025-347a)
 - [THE LEAN MEAN MEME MACHINE](https://dev.to/bibimbop123/lean-mean-meme-machine-1pae)
-- [Math&#39;s New Muse: AI as a Reasoning Partner](https://dev.to/arvind_sundararajan/maths-new-muse-ai-as-a-reasoning-partner-gc2)
-- [Ensuring Data Resilience in Modern Application Environments](https://dev.to/kapusto/ensuring-data-resilience-in-modern-application-environments-5hfe)
-- [Building a Data-Driven Advantage in Commercial Insurance](https://dev.to/kapusto/building-a-data-driven-advantage-in-commercial-insurance-3od2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
