@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Battle of the Lightweight AI Engines: TensorFlow Lite vs ONNX Runtime Web](https://dev.to/m-a-h-b-u-b/battle-of-the-lightweight-ai-engines-tensorflow-lite-vs-onnx-runtime-web-fch)
+- [Building a Scalable API Event Logger using Pub/Sub, and BigQuery](https://dev.to/idrisrampurawala/building-a-scalable-api-event-logger-using-pubsub-and-bigquery-37dg)
+- [20 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;](https://dev.to/__b63657/20-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-2dah)
+- [Teaching an AI to `git commit`: building a tool-aware agent in LangChain.js](https://dev.to/gevik/teaching-an-ai-to-git-commit-building-a-tool-aware-agent-in-langchainjs-4557)
 - [A Complete Beginner’s Guide to Angular: Learn, Understand, and Build with Confidence](https://dev.to/maurice_ombewa_21d073ef7a/a-complete-beginners-guide-to-angular-learn-understand-and-build-with-confidence-1f0n)
-- [Simple Flutter Performance Tips to Build Faster Apps](https://dev.to/anju_sabharwal_8d38e86bc7/simple-flutter-performance-tips-to-build-faster-apps-nec)
-- [3 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;. Τομέας: Δεδομένα &amp; Απόδοση.](https://dev.to/__b63657/3-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-tomeas-dedomena--5cl3)
-- [3 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;. Τομέας: DevOps &amp; Παρακολούθηση.](https://dev.to/__b63657/3-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-tomeas-asphaleia--o9c)
-- [Meme Monday](https://dev.to/ben/meme-monday-4dha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
