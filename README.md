@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Daily Artificial Intelligence Digest - Nov 03, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-03-2025-41me)
-- [Practical Guide to MCP &lpar;Model Context Protocol&rpar; in Python](https://dev.to/m_sea_bass/practical-guide-to-mcp-model-context-protocol-in-python-ijd)
-- [Untitled](https://dev.to/zakariahimi/untitled-1997)
-- [Introducing U-HOP — Universal Hardware Optimization Protocol](https://dev.to/dbisina/introducing-u-hop-universal-hardware-optimization-protocol-2m6i)
-- [Infinite Worlds, Perfect Recall: AI&#39;s Leap in Simulated Reality](https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512)
+- [Finding Today&#39;s Changed Files: A Quick Python Script for File Uploads](https://dev.to/vidyasagarmsc/finding-todays-changed-files-a-quick-python-script-for-file-uploads-13b7)
+- [Pushing Python to 20,000 Requests Sent/Second](https://dev.to/lafftar/pushing-python-to-20000-requests-sentsecond-36d2)
+- [Vercel統合Neonでブランチ制限に達した話と対処方法](https://dev.to/beachone1155/verceltong-he-neondeburantizhi-xian-nida-sitahua-todui-chu-fang-fa-lec)
+- [Building Syllabi – Agentic AI with Vercel AI SDK, Dynamic Tool Loading, and RAG](https://dev.to/achu_shankar_f3dfbb87441f/building-syllabi-agentic-ai-with-vercel-ai-sdk-dynamic-tool-loading-and-rag-2dbc)
+- [Maximizing Crypto Mining Efficiency with Advanced Cooling Solutions](https://dev.to/lianli/maximizing-crypto-mining-efficiency-with-advanced-cooling-solutions-mlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
