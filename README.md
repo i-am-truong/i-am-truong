@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building BrandGenie: An AI-Powered Brand Identity Generator with Mastra and Telex published: true description:](https://dev.to/aladetanife/building-brandgenie-an-ai-powered-brand-identity-generator-with-mastra-and-telex-published-true-p6e)
+- [Whisper Board: Building a Private, Decentralized Messaging Experience with Waku](https://dev.to/bydotun/whisper-board-building-a-private-decentralized-messaging-experience-with-waku-2o79)
+- [The DSA Toolkit: #1 Sliding Window](https://dev.to/vmanav/the-dsa-toolkit-sliding-window-3j1n)
+- [Building BrandGenie: An AI-Powered Brand Identity Generator with Mastra](https://dev.to/aladetanife/building-brandgenie-an-ai-powered-brand-identity-generator-with-mastra-and-telex-published-true-p6e)
+- [Agentic Entropy-Balanced Policy Optimization](https://dev.to/paperium/agentic-entropy-balanced-policy-optimization-38gm)
 - [Building JobInsightAI: An Intelligent Telex Agent for Career Growth — HNG Stage 3 Backend Task](https://dev.to/kweku_annan/building-jobinsightai-an-intelligent-telex-agent-for-career-growth-hng-stage-3-backend-task-1pa6)
-- [Provide storage for the public website](https://dev.to/daniel_shaibu_49affe8d51e/provide-storage-for-the-public-website-3gha)
-- [7 Proven Core Web Vitals Optimization Patterns That Boost Performance and User Experience](https://dev.to/aaravjoshi/7-proven-core-web-vitals-optimization-patterns-that-boost-performance-and-user-experience-5fah)
-- [Building a Visa Guide AI with Django, Gemini API, and Telex A2A](https://dev.to/hafsah_inuwa_725cd4e4556c/building-a-visa-guide-ai-with-django-gemini-api-and-telex-a2a-48di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
