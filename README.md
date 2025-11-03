@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-459f)
-- [Introducing Spira - Making a Shell #0](https://dev.to/toga56784/introducing-spira-making-a-shell-0-3kl8)
-- [In AI, Everything is Meta](https://dev.to/phil-whittaker/in-ai-everything-is-meta-5c22)
-- [FastAPI + PydanticAI + a2a-protocol](https://dev.to/izzyjosh/fastapi-pydanticai-a2a-protocol-2fkb)
-- [How To: Better Serverless Chat on AWS over WebSockets](https://dev.to/aws-builders/how-to-better-serverless-chat-on-aws-over-websockets-5c1e)
+- [Let&#39;s build a test runner in Elixir.](https://dev.to/w3ndo/lets-build-a-test-runner-in-elixir-4cl0)
+- [AI Agents from Prototype to Production: A Free Learning Path with Strands Agents](https://dev.to/aws/ai-agents-from-prototype-to-production-a-free-learning-path-with-strands-agents-481l)
+- [🚀 Introducing VulnFeed - Real-Time Vulnerability Tracking for CISA &amp; Red Hat](https://dev.to/secbyshresth/introducing-vulnfeed-real-time-vulnerability-tracking-for-cisa-red-hat-3h27)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-i1o)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
