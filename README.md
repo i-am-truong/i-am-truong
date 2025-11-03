@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s build a test runner in Elixir.](https://dev.to/w3ndo/lets-build-a-test-runner-in-elixir-4cl0)
-- [AI Agents from Prototype to Production: A Free Learning Path with Strands Agents](https://dev.to/aws/ai-agents-from-prototype-to-production-a-free-learning-path-with-strands-agents-481l)
-- [🚀 Introducing VulnFeed - Real-Time Vulnerability Tracking for CISA &amp; Red Hat](https://dev.to/secbyshresth/introducing-vulnfeed-real-time-vulnerability-tracking-for-cisa-red-hat-3h27)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-i1o)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1i6)
+- [Next version of mobile app is going to be a nice upgrade](https://dev.to/ben/next-version-of-mobile-app-is-going-to-be-a-nice-upgrade-369i)
+- [Test 2](https://dev.to/ben/test-2-i2f)
+- [Test!](https://dev.to/ben/test-3eff)
+- [Building an Airport Info AI Agent with Mastra and Telex](https://dev.to/amiabl_programr/building-an-airport-info-ai-agent-with-mastra-and-telex-hof)
+- [Forecast Genius](https://dev.to/nwazota_chibuike_49464271/forecast-genius-329j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
