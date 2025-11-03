@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MCP Server Architecture: A Developer&#39;s Guide](https://dev.to/danishashko/mcp-server-architecture-a-developers-guide-3m28)
+- [Pure CSS Blob Animation, no svg, no js](https://dev.to/prahalad/pure-css-blob-animation-no-svg-no-js-2f4m)
 - [I built Promptify — A Fun AI Prompt Generator using Next.js](https://dev.to/patadesujal/i-built-promptify-a-fun-ai-prompt-generator-using-nextjs-5ef3)
+- [Learning Python in Public: Why I Started ZeroToPyHero](https://dev.to/superpyduck/learning-python-in-public-why-i-started-zerotopyhero-1agk)
 - [Transparent Time Management in Schools — Lessons from Bremen’s Pilot Project](https://dev.to/thomasdelfing_de/transparent-time-management-in-schools-lessons-from-bremens-pilot-project-4j0m)
-- [How to: Automate Your Next.js Docker App with Render and GitHub Actions](https://dev.to/miannemendoza/how-to-automate-your-nextjs-docker-app-with-render-and-github-actions-51c2)
-- [Google Workspace Development Crash Course in Paris](https://dev.to/googleworkspace/google-workspace-development-crash-course-in-paris-2n9d)
-- [Getting Started with Claude Code &lpar;Super Easy!&rpar;](https://dev.to/danishashko/getting-started-with-claude-code-5elc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
