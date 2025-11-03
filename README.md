@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Battle of the Lightweight AI Engines: TensorFlow Lite vs ONNX Runtime Web](https://dev.to/m-a-h-b-u-b/battle-of-the-lightweight-ai-engines-tensorflow-lite-vs-onnx-runtime-web-fch)
-- [Building a Scalable API Event Logger using Pub/Sub, and BigQuery](https://dev.to/idrisrampurawala/building-a-scalable-api-event-logger-using-pubsub-and-bigquery-37dg)
-- [20 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;](https://dev.to/__b63657/20-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-2dah)
-- [Teaching an AI to `git commit`: building a tool-aware agent in LangChain.js](https://dev.to/gevik/teaching-an-ai-to-git-commit-building-a-tool-aware-agent-in-langchainjs-4557)
-- [A Complete Beginner’s Guide to Angular: Learn, Understand, and Build with Confidence](https://dev.to/maurice_ombewa_21d073ef7a/a-complete-beginners-guide-to-angular-learn-understand-and-build-with-confidence-1f0n)
+- [Ringer Movies: The 1989 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-1989-movie-draft-4lkg)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5fj2)
+- [An Engineering Manifesto](https://dev.to/bitfootco/an-engineering-manifesto-mdk)
+- [What is Load Factor and Initial Capacity in HashMap?](https://dev.to/realnamehidden1_61/what-is-load-factor-and-initial-capacity-in-hashmap-2j11)
+- [Difference between HashMap and ConcurrentHashMap in Java](https://dev.to/realnamehidden1_61/difference-between-hashmap-and-concurrenthashmap-in-java-5cha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
