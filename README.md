@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI: How It’s Changing the Way We Write and Create Code](https://dev.to/softwaredeveloper01/generative-ai-how-its-changing-the-way-we-write-and-create-code-3pa4)
+- [Asthma](https://dev.to/dayana_ko_b3f703a8504bfe/asthma-2ij9)
+- [Freelancer Tax Guide USA 2025: How Self-Employed Professionals Can File Taxes and Claim Deductions](https://dev.to/danyelle09/freelancer-tax-guide-usa-2025-how-self-employed-professionals-can-file-taxes-and-claim-deductions-23ng)
 - [Create Telegram-style Spoiler Text Effects with spoilerjs](https://dev.to/jqueryscript/create-telegram-style-spoiler-text-effects-with-spoilerjs-5bd5)
 - [Orchestrating Chaos: Unleashing the Power of Bio-Inspired AI for Autonomous System Design by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-chaos-unleashing-the-power-of-bio-inspired-ai-for-autonomous-system-design-by-arvind-5a1f)
-- [Consciousness Exclusive: Microsoft&#39;s AI Chief Debunks Neural Net Fictions](https://dev.to/mabualzait/consciousness-exclusive-microsofts-ai-chief-debunks-neural-net-fictions-3fk0)
-- [TIL: Temp table vs CTE](https://dev.to/vishnukn01/til-temp-table-vs-cte-1j25)
-- [Introducing metadata.party: your free and open source metadata API](https://dev.to/mr_m_262f9c3501e842103601/introducing-metadataparty-your-free-and-open-source-metadata-api-lp2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
