@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the ‘O’ in SOLID: Applying the Open/Closed Principle in Real-World Code](https://dev.to/mbkhalid23/mastering-the-o-in-solid-applying-the-openclosed-principle-in-real-world-code-4c7l)
-- [In this post, we’ll build an example RAG-powered voice agent using VideoSDK, ChromaDB, and OpenAI. This demo shows how you can combine real-time audio input and intelligent data retrieval](https://dev.to/chaitrali_kakde/in-this-post-well-build-an-example-rag-powered-voice-agent-using-videosdk-chromadb-and-openai-1gl2)
-- [I Built 8 Projects While Teaching Myself to Code From a BSF Campus in Rural India](https://dev.to/shalinibhavi525sudo/i-built-8-projects-while-teaching-myself-to-code-from-a-bsf-campus-in-rural-india-2l0g)
-- [a](https://dev.to/khoa_hanh_4ea7a77cb4d26f5/a-b8c)
-- [WordPress CMS vs PHP Framework: A Guideline for Startups](https://dev.to/james_dean_2776e211f8fc0f/wordpress-cms-vs-php-framework-a-guideline-for-startups-2dhb)
+- [Steal This Trick to Stop Burning Out on Short-Form Video Content](https://dev.to/henry_hoover_62cda4f8d3b2/steal-this-trick-to-stop-burning-out-on-short-form-video-content-377i)
+- [How I Implemented Search for Audit Logs During My Hacktoberfest Journey](https://dev.to/elsad_humbetli_0971c995ce/how-i-implemented-search-for-audit-logs-during-my-hacktoberfest-journey-121h)
+- [😈 Dare to Commit Secrets to GitHub? With SOPS &amp; GPG, I Do! 🤫](https://dev.to/prateekwayne/dare-to-commit-secrets-to-github-with-sops-gpg-i-do-c7f)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1e3l)
+- [Quark’s Outlines: Python Class Instances](https://dev.to/mike-vincent/quarks-outlines-python-class-instances-23cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
