@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lambda Stubs for unit testing](https://dev.to/aws-builders/aws-lambda-stubs-for-unit-testing-96p)
-- [From Lab PC to Serverless: DNA Sequence Alignment on AWS](https://dev.to/aws-builders/from-lab-pc-to-serverless-dna-sequence-alignment-on-aws-4g19)
-- [The transition property in CSS](https://dev.to/alok38/the-transition-property-in-css-18mp)
-- [2. Why do we add @Module&lpar;&rpar; on the Nest.js app module?](https://dev.to/ivadyhabimana/2-why-do-we-add-module-on-the-nestjs-app-module-3lel)
-- [Is Foundational Programming Knowledge Still Important in the Age of Vibe Coding?](https://dev.to/nagoorkani2393/is-foundational-programming-knowledge-still-important-in-the-age-of-vibe-coding-1g35)
+- [Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager](https://dev.to/latchudevops/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager-27kl)
+- [My AI habit Tracker](https://dev.to/john_otienoh/my-ai-habit-tracker-1l8j)
+- [KT142C Chip – BUSY Pin Idle Voltage Only 0.2V? + Low Power Mode Configuration Guide](https://dev.to/ble-voice-cn/kt142c-chip-busy-pin-idle-voltage-only-02v-low-power-mode-configuration-guide-5f1g)
+- [Consciousness Emerges in Waves: Evidence from Scale-Dependent Resonance](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciousness-emerges-in-waves-evidence-from-scale-dependent-resonance-3cj)
+- [I built ARIA - Adaptive Resonant Intelligent Architecture](https://dev.to/aria_dontmindme/i-built-aria-adaptive-resonant-intelligent-architecture-1a9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
