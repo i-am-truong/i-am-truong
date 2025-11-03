@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡ CQRS &amp; Use Cases: Why Your Service Layer is a Mess &lpar;And How to Fix It&rpar;](https://dev.to/igornosatov_15/cqrs-use-cases-why-your-service-layer-is-a-mess-and-how-to-fix-it-2dnm)
-- [Making Object Properties Optional](https://dev.to/orfeo/making-object-properties-optional-42m6)
-- [💎 Value Objects: Stop Using Strings for Everything &lpar;Your Future Self Will Thank You&rpar;](https://dev.to/igornosatov_15/value-objects-stop-using-strings-for-everything-your-future-self-will-thank-you-1454)
-- [**Tip práctico de cumplimiento PLD en México: Automatización](https://dev.to/drcarlosruizviquez/tip-practico-de-cumplimiento-pld-en-mexico-automatizacion-4j6d)
-- [DDD Design Approach&lpar;PHP&rpar;: Why Your Code Turns Into Spaghetti &lpar;And How to Fix It&rpar;](https://dev.to/igornosatov_15/ddd-design-approachphp-why-your-code-turns-into-spaghetti-and-how-to-fix-it-1ac1)
+- [Week 7: React hooks and more!](https://dev.to/nikhilsharma6/week-7-react-hooks-and-more-36g4)
+- [Being a JavaScript Dev vs. a Framework Dev](https://dev.to/amandamayfield/being-a-javascript-dev-vs-a-framework-dev-2cjh)
+- [🗓 Week 5 Recap — Leveling Up My React Skills!](https://dev.to/usama_dev/week-5-recap-leveling-up-my-react-skills-38b5)
+- [Git LFS: The Developer’s Solution to Large File Chaos](https://dev.to/rijultp/git-lfs-the-developers-solution-to-large-file-chaos-kma)
+- [Cracking the Cube: How Competitive Rubik’s Cube Algorithms Inspire Modern AI and Programming](https://dev.to/gowtham_e9296cf2c1012d9c0/cracking-the-cube-how-competitive-rubiks-cube-algorithms-inspire-modern-ai-and-programming-3m2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
