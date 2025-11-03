@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building We Build Forest: A Side Project to Reforest the Planet - with some JS](https://dev.to/operfildoluiz/building-we-build-forest-a-side-project-to-reforest-the-planet-with-some-js-1mbj)
-- [The Developer&#39;s Guide to Building a Better Trading System](https://dev.to/mikecodez/the-developers-guide-to-building-a-better-trading-system-3h4)
-- [What is SimHash?](https://dev.to/lovestaco/what-is-simhash-58m5)
-- [Day 1 of building Secrin](https://dev.to/jenilsavani_/day-1-of-building-secrin-517n)
-- [Why You Should Think Twice Before Clicking “Unsubscribe”](https://dev.to/stevedefransko/why-you-should-think-twice-before-clicking-unsubscribe-2p16)
+- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-459f)
+- [Introducing Spira - Making a Shell #0](https://dev.to/toga56784/introducing-spira-making-a-shell-0-3kl8)
+- [In AI, Everything is Meta](https://dev.to/phil-whittaker/in-ai-everything-is-meta-5c22)
+- [FastAPI + PydanticAI + a2a-protocol](https://dev.to/izzyjosh/fastapi-pydanticai-a2a-protocol-2fkb)
+- [How To: Better Serverless Chat on AWS over WebSockets](https://dev.to/aws-builders/how-to-better-serverless-chat-on-aws-over-websockets-5c1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
