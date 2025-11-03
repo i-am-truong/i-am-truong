@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Graphing in JavaScript](https://dev.to/eachampagne/graphing-in-javascript-4e86)
+- [Is Your Data Stuck in the Cloud? Edge Computing to the Rescue!](https://dev.to/karthik_n/is-your-data-stuck-in-the-cloud-edge-computing-to-the-rescue-42l5)
+- [Monitor Gemini CLI using OpenTelemetry for realtime usage statistics](https://dev.to/agardnerit/monitor-gemini-cli-using-opentelemetry-for-realtime-usage-statistics-3adi)
+- [CMake study](https://dev.to/minwook/cmake-study-5he3)
 - [The Ultimate AI Duo: ChatGPT + Golpo.AI Made Storytelling Effortless](https://dev.to/badass_tech-ae2025/the-ultimate-ai-duo-chatgpt-golpoai-made-storytelling-effortless-4aje)
-- [Useful tools, libraries and resources for developer to speed up the development](https://dev.to/simcdevv/useful-tools-libraries-and-resources-for-developer-to-speed-up-the-development-1dc0)
-- [useRef in React](https://dev.to/vidya_varshini/useref-in-react-47p9)
-- [💵 Dataverse Exchange Rates 101 💵](https://dev.to/_neronotte/dataverse-exchange-rates-101-3h7h)
-- [Practical Guide: In-Depth Guide to Clipboard Capabilities in HarmonyOS](https://dev.to/harmonyos/practical-guide-in-depth-guide-to-clipboard-capabilities-in-harmonyos-4461)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
