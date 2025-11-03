@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Integration Digest for October 2025](https://dev.to/stn1slv/integration-digest-for-october-2025-19m0)
-- [My First Week Learning NestJS &lpar;Coming from Frontend&rpar;](https://dev.to/tochukwu_dev/my-first-week-learning-nestjs-coming-from-frontend-2nm9)
-- [How to Build a User Authentication System](https://dev.to/momen_hq/how-to-build-a-user-authentication-system-m7g)
-- [The Unexpected Engineering Lessons from Building a WordPress System Design Interview Platform](https://dev.to/dev_loops/the-unexpected-engineering-lessons-from-building-a-wordpress-system-design-interview-platform-i74)
-- [15 Powerful Influencer Synonyms That Instantly Elevate Your Brand](https://dev.to/whoozit_in_82812c2fd22a09/15-powerful-influencer-synonyms-that-instantly-elevate-your-brand-3gjd)
+- [Mastering the ‘O’ in SOLID: Applying the Open/Closed Principle in Real-World Code](https://dev.to/mbkhalid23/mastering-the-o-in-solid-applying-the-openclosed-principle-in-real-world-code-4c7l)
+- [In this post, we’ll build an example RAG-powered voice agent using VideoSDK, ChromaDB, and OpenAI. This demo shows how you can combine real-time audio input and intelligent data retrieval](https://dev.to/chaitrali_kakde/in-this-post-well-build-an-example-rag-powered-voice-agent-using-videosdk-chromadb-and-openai-1gl2)
+- [I Built 8 Projects While Teaching Myself to Code From a BSF Campus in Rural India](https://dev.to/shalinibhavi525sudo/i-built-8-projects-while-teaching-myself-to-code-from-a-bsf-campus-in-rural-india-2l0g)
+- [a](https://dev.to/khoa_hanh_4ea7a77cb4d26f5/a-b8c)
+- [WordPress CMS vs PHP Framework: A Guideline for Startups](https://dev.to/james_dean_2776e211f8fc0f/wordpress-cms-vs-php-framework-a-guideline-for-startups-2dhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
