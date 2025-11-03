@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate AI Duo: ChatGPT + Golpo.AI Made Storytelling Effortless](https://dev.to/badass_tech-ae2025/the-ultimate-ai-duo-chatgpt-golpoai-made-storytelling-effortless-4aje)
+- [Useful tools, libraries and resources for developer to speed up the development](https://dev.to/simcdevv/useful-tools-libraries-and-resources-for-developer-to-speed-up-the-development-1dc0)
+- [useRef in React](https://dev.to/vidya_varshini/useref-in-react-47p9)
+- [💵 Dataverse Exchange Rates 101 💵](https://dev.to/_neronotte/dataverse-exchange-rates-101-3h7h)
 - [Practical Guide: In-Depth Guide to Clipboard Capabilities in HarmonyOS](https://dev.to/harmonyos/practical-guide-in-depth-guide-to-clipboard-capabilities-in-harmonyos-4461)
-- [I couldn&#39;t keep track of project knowledge, so I automated it](https://dev.to/samitries/i-couldnt-keep-track-of-project-knowledge-so-i-automated-it-10p7)
-- [🔱 Trinity Protocol v3.0: 100% Formally Verified - Production Ready!](https://dev.to/chronosvault/trinity-protocol-v30-100-formally-verified-production-ready-mpp)
-- [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://dev.to/0xkoji/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist-4ji)
-- [Official Native Java Support for Docling: Building Better Apps Just Got Easier](https://dev.to/aairom/official-native-java-support-for-docling-building-better-apps-just-got-easier-4n6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
