@@ -81,10 +81,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Preparing for Divorce in Idaho: A Legal Checklist Tailored to Idaho Law](https://dev.to/paulafoxauthor/preparing-for-divorce-in-idaho-a-legal-checklist-tailored-to-idaho-law-23bc)
+- [AI and Brand Empathy Design: Crafting Human-Centered Experiences Through Artificial Intelligence](https://dev.to/princess-ai/ai-and-brand-empathy-design-crafting-human-centered-experiences-through-artificial-intelligence-i81)
 - [Leetcode](https://dev.to/shivi_e441534c4/leetcode-58c8)
 - [[Boost]](https://dev.to/ben/-4gj8)
 - [Building EduSimplify: An AI Agent for Simplifying Educational Topics using Django, DRF, and Telex A2A Protocol](https://dev.to/elkufahn_muhammadahmad_/building-edusimplify-an-ai-agent-for-simplifying-educational-topics-using-django-drf-and-telex-jp9)
-- [Introduction to Python Module Three Part Three: Conditionals](https://dev.to/theoriginalbpc/introduction-to-python-module-three-part-three-conditionals-1m3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
