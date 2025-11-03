@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training](https://dev.to/paperium/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training-4c)
-- [Build a Website Application for Free in 2 Hours with Vibe Coding](https://dev.to/jackynote/build-a-website-application-for-free-in-2-hours-with-vibe-coding-16ci)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4eia)
-- [Escape From Duckov Tote Bag](https://dev.to/_8e4fa938c0e4503b3e67d/escape-from-duckov-tote-bag-5cl1)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2ol9)
+- [Practical Guide: In-Depth Guide to Clipboard Capabilities in HarmonyOS](https://dev.to/harmonyos/practical-guide-in-depth-guide-to-clipboard-capabilities-in-harmonyos-4461)
+- [I couldn&#39;t keep track of project knowledge, so I automated it](https://dev.to/samitries/i-couldnt-keep-track-of-project-knowledge-so-i-automated-it-10p7)
+- [🔱 Trinity Protocol v3.0: 100% Formally Verified - Production Ready!](https://dev.to/chronosvault/trinity-protocol-v30-100-formally-verified-production-ready-mpp)
+- [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://dev.to/0xkoji/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist-4ji)
+- [Official Native Java Support for Docling: Building Better Apps Just Got Easier](https://dev.to/aairom/official-native-java-support-for-docling-building-better-apps-just-got-easier-4n6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
