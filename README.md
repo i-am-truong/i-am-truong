@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Preparing for Divorce in Idaho: A Legal Checklist Tailored to Idaho Law](https://dev.to/paulafoxauthor/preparing-for-divorce-in-idaho-a-legal-checklist-tailored-to-idaho-law-23bc)
-- [AI and Brand Empathy Design: Crafting Human-Centered Experiences Through Artificial Intelligence](https://dev.to/princess-ai/ai-and-brand-empathy-design-crafting-human-centered-experiences-through-artificial-intelligence-i81)
-- [Leetcode](https://dev.to/shivi_e441534c4/leetcode-58c8)
-- [[Boost]](https://dev.to/ben/-4gj8)
-- [Building EduSimplify: An AI Agent for Simplifying Educational Topics using Django, DRF, and Telex A2A Protocol](https://dev.to/elkufahn_muhammadahmad_/building-edusimplify-an-ai-agent-for-simplifying-educational-topics-using-django-drf-and-telex-jp9)
+- [What Are Kubernetes Containers?](https://dev.to/naveen_jayachandran/what-are-kubernetes-containers-2ab2)
+- [Introduction to Kubernetes &lpar;K8s&rpar;](https://dev.to/naveen_jayachandran/introduction-to-kubernetes-k8s-nil)
+- [🔥 Top 5 Trending AI &amp; AGI Articles: September-November 2025](https://dev.to/aniruddhaadak/top-5-trending-ai-agi-articles-september-november-2025-3lo1)
+- [Boosting Wan2.2 I2V Inference on 8 H100s — 2.5 Faster with Sequence Parallelism &amp; Magcache](https://dev.to/muhammad_aliafridi_35ece/boosting-wan22-i2v-inference-on-8-h100s-25-faster-with-sequence-parallelism-magcache-4pfn)
+- [Build Your First Landing Page with Next.js + Tailwind &lpar;No Design Skills Needed&rpar;](https://dev.to/thekarlesi/build-your-first-landing-page-with-nextjs-tailwind-no-design-skills-needed-23jd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
