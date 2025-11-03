@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Graphing in JavaScript](https://dev.to/eachampagne/graphing-in-javascript-4e86)
-- [Is Your Data Stuck in the Cloud? Edge Computing to the Rescue!](https://dev.to/karthik_n/is-your-data-stuck-in-the-cloud-edge-computing-to-the-rescue-42l5)
-- [Monitor Gemini CLI using OpenTelemetry for realtime usage statistics](https://dev.to/agardnerit/monitor-gemini-cli-using-opentelemetry-for-realtime-usage-statistics-3adi)
-- [CMake study](https://dev.to/minwook/cmake-study-5he3)
-- [The Ultimate AI Duo: ChatGPT + Golpo.AI Made Storytelling Effortless](https://dev.to/badass_tech-ae2025/the-ultimate-ai-duo-chatgpt-golpoai-made-storytelling-effortless-4aje)
+- [Is Foundational Programming Knowledge Still Important in the Age of Vibe Coding?](https://dev.to/nagoorkani2393/is-foundational-programming-knowledge-still-important-in-the-age-of-vibe-coding-1g35)
+- [Building an Open Vulnerability Database for Minecraft Servers](https://dev.to/tifix_x_162aa3b2bb4c91b7b/building-an-open-vulnerability-database-for-minecraft-servers-1dmn)
+- [A New Multi-Agent Engine for the Competitive Intelligence Platform](https://dev.to/theweekenddev/a-new-multi-agent-engine-for-the-competitive-intelligence-platform-h4j)
+- [Who&#39;s hiring — November 2025](https://dev.to/fmerian/whos-hiring-november-2025-25ki)
+- [I Built an Open-Source Hosting Control Panel in Laravel &lpar;Meet Laranode&rpar;](https://dev.to/crivion/i-built-an-open-source-hosting-control-panel-in-laravel-meet-laranode-2ig7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
