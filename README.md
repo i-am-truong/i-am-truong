@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Telegram-style Spoiler Text Effects with spoilerjs](https://dev.to/jqueryscript/create-telegram-style-spoiler-text-effects-with-spoilerjs-5bd5)
+- [Orchestrating Chaos: Unleashing the Power of Bio-Inspired AI for Autonomous System Design by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-chaos-unleashing-the-power-of-bio-inspired-ai-for-autonomous-system-design-by-arvind-5a1f)
+- [Consciousness Exclusive: Microsoft&#39;s AI Chief Debunks Neural Net Fictions](https://dev.to/mabualzait/consciousness-exclusive-microsofts-ai-chief-debunks-neural-net-fictions-3fk0)
+- [Introducing metadata.party: your free and open source metadata API](https://dev.to/mr_m_262f9c3501e842103601/introducing-metadataparty-your-free-and-open-source-metadata-api-lp2)
 - [Using GNU toolchain for Windows kernel-mode drivers](https://dev.to/iprosk/using-gnu-toolchain-for-windows-kernel-mode-drivers-5cfd)
-- [Street-Smart Coding—30 Lessons to Help You Code Like a Pro &lpar;My New Book Is Here&rpar;](https://dev.to/canro91/street-smart-coding-30-lessons-to-help-you-code-like-a-pro-my-new-book-is-here-2npd)
-- [One Dockerfile, Two Stages: A 50% Size Reduction Story](https://dev.to/drvcodenta/one-dockerfile-two-stages-a-50-size-reduction-story-l70)
-- [Building a Lightning-Fast Full-Stack App: Spring Boot Native + Angular](https://dev.to/issam1991/building-a-lightning-fast-full-stack-app-spring-boot-native-angular-2bdd)
-- [Boosting Security Excellence: How OKRs Drive Results in Application Security and DevSecOps](https://dev.to/d3one/boosting-security-excellence-how-okrs-drive-results-in-application-security-and-devsecops-1ael)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
