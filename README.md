@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building BrandGenie: An AI-Powered Brand Identity Generator with Mastra and Telex published: true description:](https://dev.to/aladetanife/building-brandgenie-an-ai-powered-brand-identity-generator-with-mastra-and-telex-published-true-p6e)
+- [Building JobInsightAI: An Intelligent Telex Agent for Career Growth — HNG Stage 3 Backend Task](https://dev.to/kweku_annan/building-jobinsightai-an-intelligent-telex-agent-for-career-growth-hng-stage-3-backend-task-1pa6)
 - [Provide storage for the public website](https://dev.to/daniel_shaibu_49affe8d51e/provide-storage-for-the-public-website-3gha)
 - [7 Proven Core Web Vitals Optimization Patterns That Boost Performance and User Experience](https://dev.to/aaravjoshi/7-proven-core-web-vitals-optimization-patterns-that-boost-performance-and-user-experience-5fah)
-- [⛽️ Understanding Gas in Ethereum — The Fuel of Every Transaction](https://dev.to/tlhsec/understanding-gas-in-ethereum-the-fuel-of-every-transaction-25pc)
-- [Learning Reflections: The Age of Perceptual AI](https://dev.to/peacebinflow/learning-reflections-the-age-of-perceptual-ai-58e8)
-- [How I Built an AI Coworker for Telex.im](https://dev.to/i_ce_u/how-i-built-an-ai-coworker-for-telexim-3i24)
+- [Building a Visa Guide AI with Django, Gemini API, and Telex A2A](https://dev.to/hafsah_inuwa_725cd4e4556c/building-a-visa-guide-ai-with-django-gemini-api-and-telex-a2a-48di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
