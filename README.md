@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Security Threat #Blackmailing](https://dev.to/mingzhao/ai-security-threat-blackmailing-58f8)
-- [Optimizing HTML5 Puzzle Games for Speed and Responsiveness](https://dev.to/gamh5games/optimizing-html5-puzzle-games-for-speed-and-responsiveness-390h)
-- [Beyond the Browser: Crafting a Robust Web Scraping Pipeline for Dynamic Sports Data](https://dev.to/ffteamnames/beyond-the-browser-crafting-a-robust-web-scraping-pipeline-for-dynamic-sports-data-3c29)
-- [🧱 Lesson 5  - Working with PostgreSQL &lpar;Multi-Database Setup&rpar;](https://dev.to/farrukh_rehman/lesson-5-working-with-postgresql-multi-database-setup-3ngg)
-- [Understanding the Design of Optimizers with me](https://dev.to/tri_vo/understanding-the-design-of-optimizers-with-me-18f)
+- [One Dockerfile, Two Stages: A 50% Size Reduction Story](https://dev.to/drvcodenta/one-dockerfile-two-stages-a-50-size-reduction-story-l70)
+- [Building a Lightning-Fast Full-Stack App: Spring Boot Native + Angular](https://dev.to/issam1991/building-a-lightning-fast-full-stack-app-spring-boot-native-angular-2bdd)
+- [Boosting Security Excellence: How OKRs Drive Results in Application Security and DevSecOps](https://dev.to/d3one/boosting-security-excellence-how-okrs-drive-results-in-application-security-and-devsecops-1ael)
+- [The Complete Guide to ElevenLabs v3: Master Interactive Voice Experiences with Audio Tags](https://dev.to/yigit-konur/the-complete-guide-to-elevenlabs-v3-master-interactive-voice-experiences-with-audio-tags-3bn2)
+- [Bonds in capital market](https://dev.to/sateesh_biradar_4febb99cd/bonds-in-capital-market-j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
