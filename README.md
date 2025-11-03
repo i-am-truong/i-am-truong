@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Dynamic Dropdown Integration Between SQL Server and Oracle ERP in Joget Using BeanShell](https://dev.to/new_email_f42eef804c083b3/dynamic-dropdown-integration-between-sql-server-and-oracle-erp-in-joget-using-beanshell-46kg)
-- [Building an AI Code Helper Agent with Mastra Framework and Telex.im Integration](https://dev.to/habeeb_olakunle_73b576823/building-an-ai-code-helper-agent-with-mastra-framework-and-telexim-integration-36op)
-- [🧩 Automate Random Password Generation in Joget Using BeanShell Script](https://dev.to/new_email_f42eef804c083b3/automate-random-password-generation-in-joget-using-beanshell-script-8pn)
-- [Are Web Components Finally Ready to Replace Frameworks?](https://dev.to/anisubhra_sarkar/are-web-components-finally-ready-to-replace-frameworks-3fii)
-- [A Tiny Decimal That Caused Big Trouble, Until I Learned About BigDecimal](https://dev.to/marzuk16/a-tiny-decimal-that-caused-big-trouble-until-i-learned-about-bigdecimal-30ji)
+- [Integration Digest for October 2025](https://dev.to/stn1slv/integration-digest-for-october-2025-19m0)
+- [My First Week Learning NestJS &lpar;Coming from Frontend&rpar;](https://dev.to/tochukwu_dev/my-first-week-learning-nestjs-coming-from-frontend-2nm9)
+- [How to Build a User Authentication System](https://dev.to/momen_hq/how-to-build-a-user-authentication-system-m7g)
+- [The Unexpected Engineering Lessons from Building a WordPress System Design Interview Platform](https://dev.to/dev_loops/the-unexpected-engineering-lessons-from-building-a-wordpress-system-design-interview-platform-i74)
+- [15 Powerful Influencer Synonyms That Instantly Elevate Your Brand](https://dev.to/whoozit_in_82812c2fd22a09/15-powerful-influencer-synonyms-that-instantly-elevate-your-brand-3gjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
