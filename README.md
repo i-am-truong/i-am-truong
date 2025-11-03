@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built &quot;Backend Mentor&quot; My First Hands-On Integration with Mastra](https://dev.to/alexander-attoh/how-i-built-backend-mentor-my-first-hands-on-integration-with-mastra-nog)
-- [Kubernetes Namespaces](https://dev.to/naveen_jayachandran/kubernetes-namespaces-1jpa)
-- [Kubernetes Pods: How to Create and Manage Them](https://dev.to/naveen_jayachandran/kubernetes-pods-how-to-create-and-manage-them-28hd)
-- [Kubernetes - Labels &amp; Selectors](https://dev.to/naveen_jayachandran/kubernetes-labels-selectors-43i6)
-- [Kubernetes - Jobs](https://dev.to/naveen_jayachandran/kubernetes-jobs-5dc5)
+- [⚡ CQRS &amp; Use Cases: Why Your Service Layer is a Mess &lpar;And How to Fix It&rpar;](https://dev.to/igornosatov_15/cqrs-use-cases-why-your-service-layer-is-a-mess-and-how-to-fix-it-2dnm)
+- [Making Object Properties Optional](https://dev.to/orfeo/making-object-properties-optional-42m6)
+- [💎 Value Objects: Stop Using Strings for Everything &lpar;Your Future Self Will Thank You&rpar;](https://dev.to/igornosatov_15/value-objects-stop-using-strings-for-everything-your-future-self-will-thank-you-1454)
+- [**Tip práctico de cumplimiento PLD en México: Automatización](https://dev.to/drcarlosruizviquez/tip-practico-de-cumplimiento-pld-en-mexico-automatizacion-4j6d)
+- [DDD Design Approach&lpar;PHP&rpar;: Why Your Code Turns Into Spaghetti &lpar;And How to Fix It&rpar;](https://dev.to/igornosatov_15/ddd-design-approachphp-why-your-code-turns-into-spaghetti-and-how-to-fix-it-1ac1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
