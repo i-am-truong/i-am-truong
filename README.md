@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This tool help me build next js admin only 5-minutes](https://dev.to/kristiansnts/this-tool-help-me-build-next-js-admin-only-5-minutes-3j43)
-- [How the Flex-Basis Property Works in CSS Flexbox](https://dev.to/alok38/how-the-flex-basis-property-works-in-css-flexbox-58on)
-- [What is Aardvark Security Agent Launched by OpenAI?](https://dev.to/metana/what-is-aardvark-security-agent-launched-by-openai-10c3)
-- [[Boost]](https://dev.to/nakiviar/-4ndm)
-- [Sobre la UX en las apps de booking deportivo](https://dev.to/luisyanguas/sobre-la-ux-en-las-apps-de-booking-deportivo-527i)
+- [AI Security Threat #Blackmailing](https://dev.to/mingzhao/ai-security-threat-blackmailing-58f8)
+- [Optimizing HTML5 Puzzle Games for Speed and Responsiveness](https://dev.to/gamh5games/optimizing-html5-puzzle-games-for-speed-and-responsiveness-390h)
+- [Beyond the Browser: Crafting a Robust Web Scraping Pipeline for Dynamic Sports Data](https://dev.to/ffteamnames/beyond-the-browser-crafting-a-robust-web-scraping-pipeline-for-dynamic-sports-data-3c29)
+- [🧱 Lesson 5  - Working with PostgreSQL &lpar;Multi-Database Setup&rpar;](https://dev.to/farrukh_rehman/lesson-5-working-with-postgresql-multi-database-setup-3ngg)
+- [Understanding the Design of Optimizers with me](https://dev.to/tri_vo/understanding-the-design-of-optimizers-with-me-18f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
