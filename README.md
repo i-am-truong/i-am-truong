@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Finding Today&#39;s Changed Files: A Quick Python Script for File Uploads](https://dev.to/vidyasagarmsc/finding-todays-changed-files-a-quick-python-script-for-file-uploads-13b7)
-- [Pushing Python to 20,000 Requests Sent/Second](https://dev.to/lafftar/pushing-python-to-20000-requests-sentsecond-36d2)
-- [Vercel統合Neonでブランチ制限に達した話と対処方法](https://dev.to/beachone1155/verceltong-he-neondeburantizhi-xian-nida-sitahua-todui-chu-fang-fa-lec)
-- [Building Syllabi – Agentic AI with Vercel AI SDK, Dynamic Tool Loading, and RAG](https://dev.to/achu_shankar_f3dfbb87441f/building-syllabi-agentic-ai-with-vercel-ai-sdk-dynamic-tool-loading-and-rag-2dbc)
-- [Maximizing Crypto Mining Efficiency with Advanced Cooling Solutions](https://dev.to/lianli/maximizing-crypto-mining-efficiency-with-advanced-cooling-solutions-mlh)
+- [This tool help me build next js admin only 5-minutes](https://dev.to/kristiansnts/this-tool-help-me-build-next-js-admin-only-5-minutes-3j43)
+- [How the Flex-Basis Property Works in CSS Flexbox](https://dev.to/alok38/how-the-flex-basis-property-works-in-css-flexbox-58on)
+- [What is Aardvark Security Agent Launched by OpenAI?](https://dev.to/metana/what-is-aardvark-security-agent-launched-by-openai-10c3)
+- [[Boost]](https://dev.to/nakiviar/-4ndm)
+- [Sobre la UX en las apps de booking deportivo](https://dev.to/luisyanguas/sobre-la-ux-en-las-apps-de-booking-deportivo-527i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
