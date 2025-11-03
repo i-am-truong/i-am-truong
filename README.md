@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create your first MCP server](https://dev.to/petrashka/create-your-first-mcp-server-44kh)
+- [How I optimize my React Flow application](https://dev.to/tuannq/how-i-optimize-my-react-flow-application-5aoe)
+- [From Mapping Files to Data Plumbing](https://dev.to/shailaputri/from-mapping-files-to-data-plumbing-42om)
 - [My Opinionated VS Code Setup — Fast, Quiet, and Intentional](https://dev.to/ltsyqo/my-opinionated-vs-code-setup-fast-quiet-and-intentional-h81)
 - [Building a Simple and Fair Bill Splitting Web App &lpar;Without Logins, Databases, or Framework Overkill&rpar;](https://dev.to/hashir_sebt/building-a-simple-and-fair-bill-splitting-web-app-without-logins-databases-or-framework-overkill-1n27)
-- [Your ORM is Lying to You About SQL &lpar;CTEs Explained&rpar;](https://dev.to/pascal_cescato_692b7a8a20/your-orm-is-lying-to-you-about-sql-ctes-explained-55bo)
-- [TypeScript: Our Beloved, Overbearing Safety Net](https://dev.to/bluebird2000/typescript-our-beloved-overbearing-safety-net-3mnh)
-- [A Step-by-Step Guide to Build a Multi-Vendor Food Delivery](https://dev.to/abbas_4e556b3ebaa603b1b29/a-step-by-step-guide-to-build-a-multi-vendor-food-delivery-25jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
