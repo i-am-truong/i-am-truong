@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using GNU toolchain for Windows kernel-mode drivers](https://dev.to/iprosk/using-gnu-toolchain-for-windows-kernel-mode-drivers-5cfd)
+- [Street-Smart Coding—30 Lessons to Help You Code Like a Pro &lpar;My New Book Is Here&rpar;](https://dev.to/canro91/street-smart-coding-30-lessons-to-help-you-code-like-a-pro-my-new-book-is-here-2npd)
 - [One Dockerfile, Two Stages: A 50% Size Reduction Story](https://dev.to/drvcodenta/one-dockerfile-two-stages-a-50-size-reduction-story-l70)
 - [Building a Lightning-Fast Full-Stack App: Spring Boot Native + Angular](https://dev.to/issam1991/building-a-lightning-fast-full-stack-app-spring-boot-native-angular-2bdd)
 - [Boosting Security Excellence: How OKRs Drive Results in Application Security and DevSecOps](https://dev.to/d3one/boosting-security-excellence-how-okrs-drive-results-in-application-security-and-devsecops-1ael)
-- [The Complete Guide to ElevenLabs v3: Master Interactive Voice Experiences with Audio Tags](https://dev.to/yigit-konur/the-complete-guide-to-elevenlabs-v3-master-interactive-voice-experiences-with-audio-tags-3bn2)
-- [Bonds in capital market](https://dev.to/sateesh_biradar_4febb99cd/bonds-in-capital-market-j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
