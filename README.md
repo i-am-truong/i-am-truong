@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Change your old methods for writing a JavaScript Code - Shorthand&#39;s for JavaScript Code](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-534h)
-- [From First-Time Contributor to Open Source Enthusiast: My Hacktoberfest Transformation](https://dev.to/nurhasin/from-first-time-contributor-to-open-source-enthusiast-my-hacktoberfest-transformation-107f)
-- [5 Strategies for Random Records from DB](https://dev.to/kinvoki/5-strategies-for-random-records-from-db-46lf)
-- [Valentine&#39;s Day Equation Plotted in Ruby](https://dev.to/kinvoki/valentines-day-equation-plotted-in-ruby-37bp)
-- [Upgrading to GitLab 15.0 CE from GitLab 14.9.3](https://dev.to/kinvoki/upgrading-to-gitlab-150-ce-from-gitlab-1493-5f0n)
+- [⚙️ Dynamic Dropdown Integration Between SQL Server and Oracle ERP in Joget Using BeanShell](https://dev.to/new_email_f42eef804c083b3/dynamic-dropdown-integration-between-sql-server-and-oracle-erp-in-joget-using-beanshell-46kg)
+- [Building an AI Code Helper Agent with Mastra Framework and Telex.im Integration](https://dev.to/habeeb_olakunle_73b576823/building-an-ai-code-helper-agent-with-mastra-framework-and-telexim-integration-36op)
+- [🧩 Automate Random Password Generation in Joget Using BeanShell Script](https://dev.to/new_email_f42eef804c083b3/automate-random-password-generation-in-joget-using-beanshell-script-8pn)
+- [Are Web Components Finally Ready to Replace Frameworks?](https://dev.to/anisubhra_sarkar/are-web-components-finally-ready-to-replace-frameworks-3fii)
+- [A Tiny Decimal That Caused Big Trouble, Until I Learned About BigDecimal](https://dev.to/marzuk16/a-tiny-decimal-that-caused-big-trouble-until-i-learned-about-bigdecimal-30ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
