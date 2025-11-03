@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quando a arquitetura fala mais alto que o código](https://dev.to/andryl_/quando-a-arquitetura-fala-mais-alto-que-o-codigo-4nmp)
-- [🏁 NodeSchool — Learn by Doing, Step by Step](https://dev.to/ml318097/nodeschool-learn-by-doing-step-by-step-24pe)
-- [What is MCP Really?](https://dev.to/semaphore/what-is-mcp-really-545l)
-- [The Complete Guide to Request Cancellation in Web Applications Using Node.js](https://dev.to/silentwatcher_95/the-complete-guide-to-request-cancellation-in-web-applications-using-nodejs-1f6k)
-- [Deepfakes Are on the Rise: How Worried Should We Be?](https://dev.to/guardingpearsoftware/deepfakes-are-on-the-rise-how-worried-should-we-be-5382)
+- [A Complete Beginner’s Guide to Angular: Learn, Understand, and Build with Confidence](https://dev.to/maurice_ombewa_21d073ef7a/a-complete-beginners-guide-to-angular-learn-understand-and-build-with-confidence-1f0n)
+- [Simple Flutter Performance Tips to Build Faster Apps](https://dev.to/anju_sabharwal_8d38e86bc7/simple-flutter-performance-tips-to-build-faster-apps-nec)
+- [3 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;. Τομέας: Δεδομένα &amp; Απόδοση.](https://dev.to/__b63657/3-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-tomeas-dedomena--5cl3)
+- [3 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;. Τομέας: DevOps &amp; Παρακολούθηση.](https://dev.to/__b63657/3-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-tomeas-asphaleia--o9c)
+- [Meme Monday](https://dev.to/ben/meme-monday-4dha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
