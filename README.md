@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microfrontend architecture](https://dev.to/vinit_kotian_b31a215d8ae7/microfrontend-architecture-4ooj)
-- [Stay ahead in web development: latest news, tools, and insights #109](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-109-2844)
-- [99% of People Use AI Wrong — Here’s How I Actually Learn and Remember Faster](https://dev.to/nitinfab/99-of-people-use-ai-wrong-heres-how-i-actually-learn-and-remember-faster-5084)
-- [UI/UX Design Trends for 2026: What Every Designer Should Know](https://dev.to/pixel_mosaic/uiux-design-trends-for-2026-what-every-designer-should-know-4179)
-- [🎃 Quote.Vote Hacktoberfest 2025 — Building Civic Tech, One Pull Request at a Time](https://dev.to/quotevote/quotevote-hacktoberfest-2025-building-civic-tech-one-pull-request-at-a-time-43l1)
+- [5 Strategies for Random Records from DB](https://dev.to/kinvoki/5-strategies-for-random-records-from-db-46lf)
+- [Valentine&#39;s Day Equation Plotted in Ruby](https://dev.to/kinvoki/valentines-day-equation-plotted-in-ruby-37bp)
+- [Upgrading to GitLab 15.0 CE from GitLab 14.9.3](https://dev.to/kinvoki/upgrading-to-gitlab-150-ce-from-gitlab-1493-5f0n)
+- [Lucky is Lightning Fast!](https://dev.to/kinvoki/lucky-is-lightning-fast-3m2c)
+- [When FTP Stands for Frustrating Transfer Problem](https://dev.to/kinvoki/when-ftp-stands-for-frustrating-transfer-problem-1p32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
