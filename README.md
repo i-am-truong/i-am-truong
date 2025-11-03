@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create your first MCP server](https://dev.to/petrashka/create-your-first-mcp-server-44kh)
-- [How I optimize my React Flow application](https://dev.to/tuannq/how-i-optimize-my-react-flow-application-5aoe)
-- [From Mapping Files to Data Plumbing](https://dev.to/shailaputri/from-mapping-files-to-data-plumbing-42om)
-- [My Opinionated VS Code Setup — Fast, Quiet, and Intentional](https://dev.to/ltsyqo/my-opinionated-vs-code-setup-fast-quiet-and-intentional-h81)
-- [Building a Simple and Fair Bill Splitting Web App &lpar;Without Logins, Databases, or Framework Overkill&rpar;](https://dev.to/hashir_sebt/building-a-simple-and-fair-bill-splitting-web-app-without-logins-databases-or-framework-overkill-1n27)
+- [MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training](https://dev.to/paperium/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training-4c)
+- [Build a Website Application for Free in 2 Hours with Vibe Coding](https://dev.to/jackynote/build-a-website-application-for-free-in-2-hours-with-vibe-coding-16ci)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4eia)
+- [Escape From Duckov Tote Bag](https://dev.to/_8e4fa938c0e4503b3e67d/escape-from-duckov-tote-bag-5cl1)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2ol9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
