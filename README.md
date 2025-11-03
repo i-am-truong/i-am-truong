@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deflanderization for Game Dialogue: Balancing Character Authenticity with TaskExecution in LLM-based NPCs](https://dev.to/paperium/deflanderization-for-game-dialogue-balancing-character-authenticity-with-taskexecution-in-2gki)
+- [What are your goals for the week? #151](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-151-hmk)
+- [How many instruments did you have at one point?](https://dev.to/highcenburg/how-many-instruments-did-you-have-at-one-point-2kdh)
+- [Building a Free React Admin Dashboard with TypeScript and Tailwind CSS](https://dev.to/buskari/building-a-free-react-admin-dashboard-with-typescript-and-tailwind-css-2o8m)
 - [A step by step guide on how to create a simple web page using HTML and CSS](https://dev.to/medjiatou_ezechiel_1bc3f6/a-step-by-step-guide-on-how-to-create-a-simple-web-page-using-html-and-css-4g0j)
-- [Set up RAG with Genkit and Firebase in 15 minutes](https://dev.to/denisvalasek/set-up-rag-with-genkit-and-firebase-in-15-minutes-50b2)
-- [This is one way I use AI for coding](https://dev.to/highcenburg/this-is-one-way-i-use-ai-for-coding-110j)
-- [Announcing NocoBase v1.9.0](https://dev.to/nocobase/announcing-nocobase-v190-2286)
-- [Discover Random Pokemon Instantly - Why I Created the Random Pokemon Generator Tool](https://dev.to/muzammilrpg_997ef473fbfc3/discover-random-pokemon-instantly-why-i-created-the-random-pokemon-generator-tool-3df7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
