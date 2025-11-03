@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Basics: A Beginner&#39;s Guide to Naming Conventions](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-naming-conventions-p2j)
 - [Recording My Experiments in Spec-Driven Development](https://dev.to/imdone/recording-my-experiments-in-spec-driven-development-40e0)
 - [How to Onboard a New Team Member in a Tech Company the Right Way](https://dev.to/fedtti/how-to-onboard-a-new-team-member-in-a-tech-company-the-right-way-i5h)
 - [How I Deployed an Express + Prisma + Supabase API on AWS Lambda Using Serverless Framework](https://dev.to/malvinjay/how-i-deployed-an-express-prisma-supabase-api-on-aws-lambda-using-serverless-framework-1ki3)
 - [Building MultiLingo: An AI Translation Agent with Telex Integration](https://dev.to/muazu_idrisy_d30b7a3dec/building-multilingo-an-ai-translation-agent-with-telex-integration-1lon)
-- [Bringing locally running LLM into your NodeJS project](https://dev.to/6akcuk/bringing-locally-running-llm-into-your-nodejs-project-15og)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
