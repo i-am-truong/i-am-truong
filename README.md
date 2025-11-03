@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [3DEXPERIENCE: Lista de Verificación para Eliminación Segura de Drawing &amp; CAD Family](https://dev.to/cadstore/3dexperience-lista-de-verificacion-para-eliminacion-segura-de-drawing-cad-family-5gl0)
-- [3DEXPERIENCE: Safe Deletion Checklist for Drawing &amp; CAD Family](https://dev.to/cadstore/3dexperience-safe-deletion-checklist-for-drawing-cad-family-58ch)
-- [Next version of mobile app is going to be a nice upgrade](https://dev.to/ben/next-version-of-mobile-app-is-going-to-be-a-nice-upgrade-369i)
-- [Test 2](https://dev.to/ben/test-2-i2f)
-- [Test!](https://dev.to/ben/test-3eff)
+- [Writing Your First Compiler - Part 4: Abstract Syntax Trees &amp; Recursive Descent](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-4-abstract-syntax-trees-recursive-descent-3j41)
+- [Building A Storage Account With High Availability For A Company..](https://dev.to/cmwokocha/building-a-storage-account-with-high-availability-for-a-company-1eod)
+- [Building Eunoia: A Mental Wellbeing Companion](https://dev.to/oluwadahunsi_ifeoluwa_79e/building-eunoia-a-mental-wellbeing-companion-gei)
+- [Apache Ignite 3.1.0 is now available](https://dev.to/maglietti/apache-ignite-310-is-now-available-36dn)
+- [Mastering Feature-Sliced Design: Lessons from Real Projects](https://dev.to/arjunsanthosh/mastering-feature-sliced-design-lessons-from-real-projects-2ida)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
