@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Steal This Trick to Stop Burning Out on Short-Form Video Content](https://dev.to/henry_hoover_62cda4f8d3b2/steal-this-trick-to-stop-burning-out-on-short-form-video-content-377i)
-- [How I Implemented Search for Audit Logs During My Hacktoberfest Journey](https://dev.to/elsad_humbetli_0971c995ce/how-i-implemented-search-for-audit-logs-during-my-hacktoberfest-journey-121h)
-- [😈 Dare to Commit Secrets to GitHub? With SOPS &amp; GPG, I Do! 🤫](https://dev.to/prateekwayne/dare-to-commit-secrets-to-github-with-sops-gpg-i-do-c7f)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1e3l)
-- [Quark’s Outlines: Python Class Instances](https://dev.to/mike-vincent/quarks-outlines-python-class-instances-23cn)
+- [Perl 🐪 Weekly #745 - Perl IDE Survey](https://dev.to/szabgab/perl-weekly-745-perl-ide-survey-lj6)
+- [Make Lightweight, Mixed-Source Reports without Logical Data Warehouse--SPL Reporting](https://dev.to/esproc_spl/make-lightweight-mixed-source-reports-without-logical-data-warehouse-spl-reporting-22lk)
+- [Breaking AI Browser Defenses is Easy: Novel Prompt Injection Techniques That Work](https://dev.to/brennan/breaking-ai-browser-defenses-is-easy-novel-prompt-injection-techniques-that-work-2fbj)
+- [Understanding Delegates in C#: The Complete Beginner’s Guide](https://dev.to/gannaosma/understanding-delegates-in-c-the-complete-beginners-guide-3j39)
+- [Why Material UI ?](https://dev.to/rrari504/why-material-ui--1n72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
