@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MCP Server Architecture: A Developer&#39;s Guide](https://dev.to/danishashko/mcp-server-architecture-a-developers-guide-3m28)
-- [Pure CSS Blob Animation, no svg, no js](https://dev.to/prahalad/pure-css-blob-animation-no-svg-no-js-2f4m)
-- [I built Promptify — A Fun AI Prompt Generator using Next.js](https://dev.to/patadesujal/i-built-promptify-a-fun-ai-prompt-generator-using-nextjs-5ef3)
-- [Learning Python in Public: Why I Started ZeroToPyHero](https://dev.to/superpyduck/learning-python-in-public-why-i-started-zerotopyhero-1agk)
-- [Transparent Time Management in Schools — Lessons from Bremen’s Pilot Project](https://dev.to/thomasdelfing_de/transparent-time-management-in-schools-lessons-from-bremens-pilot-project-4j0m)
+- [Creative Tim UI - shadcn/ui blocks ready for v0, Lovable, Replit, Claude, and more.](https://dev.to/creativetim_official/creative-tim-ui-shadcnui-blocks-ready-for-v0-lovable-replit-claude-and-more-n2d)
+- [Music Monday! &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-1ip3)
+- [JaCoCo for Java Developers: Measuring and Improving Code Coverage](https://dev.to/taras_antoniuk_ea6a2fe7ee/java-testing-guide-how-to-measure-and-improve-code-coverage-with-jacoco-3p75)
+- [Another ChatGPT bluff? Would you give GPT access to all your apps, that&#39;s insane](https://dev.to/matiswhattheycall/another-chatgpt-bluff-would-you-give-gpt-access-to-all-your-apps-thats-insane-503e)
+- [Test Leadership as Change Management: Why Your Real Job Isn’t Testing](https://dev.to/cydavid/test-leadership-as-change-management-why-your-real-job-isnt-testing-27mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
