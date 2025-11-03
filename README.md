@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A step by step guide on how to create a simple web page using HTML and CSS](https://dev.to/medjiatou_ezechiel_1bc3f6/a-step-by-step-guide-on-how-to-create-a-simple-web-page-using-html-and-css-4g0j)
+- [Set up RAG with Genkit and Firebase in 15 minutes](https://dev.to/denisvalasek/set-up-rag-with-genkit-and-firebase-in-15-minutes-50b2)
+- [This is one way I use AI for coding](https://dev.to/highcenburg/this-is-one-way-i-use-ai-for-coding-110j)
 - [Announcing NocoBase v1.9.0](https://dev.to/nocobase/announcing-nocobase-v190-2286)
-- [Building an AI Companion for Older Adults Using Mastra and Telex A2A Protocol](https://dev.to/emzyjayyy/building-an-ai-companion-for-older-adults-using-mastra-and-telex-a2a-protocol-276n)
-- [Re-Engineering Education for the Age of AI](https://dev.to/woodyhayday/re-engineering-education-for-the-age-of-ai-5h95)
-- [The Future of Subscription License Management: Trends to Watch](https://dev.to/soraco_technologies_85385/the-future-of-subscription-license-management-trends-to-watch-1d5a)
-- [The minimal setup for OpenVino iGPU](https://dev.to/gordinmitya/the-minimal-setup-for-openvino-igpu-2a4f)
+- [Discover Random Pokemon Instantly - Why I Created the Random Pokemon Generator Tool](https://dev.to/muzammilrpg_997ef473fbfc3/discover-random-pokemon-instantly-why-i-created-the-random-pokemon-generator-tool-3df7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
