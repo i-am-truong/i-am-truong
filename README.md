@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SOC 2 vs. ISO 27001: Which Matters More for Legal Practices and Building Client Trust](https://dev.to/heyjoshlee/soc-2-vs-iso-27001-which-matters-more-for-legal-practices-and-building-client-trust-426a)
-- [Announcing AnalogJS 2.0 ⚡️](https://dev.to/analogjs/announcing-analogjs-20-348d)
-- [Figma MCP Server](https://dev.to/deny_herianto_74302737014/figma-mcp-server-3o8p)
-- [Why Every Engineer Should Learn to Read Research Papers &lpar;And How to Start&rpar;](https://dev.to/usamaa/why-every-engineer-should-learn-to-read-research-papers-and-how-to-start-11n)
-- [All Data and AI Weekly #214: 03-Nov-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-214-03-nov-2025-1k02)
+- [Getting Started with Claude Code &lpar;Super Easy!&rpar;](https://dev.to/danishashko/getting-started-with-claude-code-5elc)
+- [💡How to Build ChatGPT Apps with Widgets using the ChatGPT Apps SDK and Next.js 🥶⚡](https://dev.to/composiodev/how-to-build-chatgpt-apps-with-widgets-using-the-chatgpt-apps-sdk-and-nextjs-104i)
+- [Using Sandboxes with Apollo GraphQL](https://dev.to/signadot/using-sandboxes-with-apollo-graphql-40ob)
+- [How I’m learning smarter with AI — not just faster](https://dev.to/aymanebenhima/how-im-learning-smarter-with-ai-not-just-faster-1858)
+- [Writing Your First Compiler - Part 3: Lexical Analysis](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-3-lexical-analysis-4nn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
