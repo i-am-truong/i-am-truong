@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Provide storage for the public website](https://dev.to/daniel_shaibu_49affe8d51e/provide-storage-for-the-public-website-3gha)
+- [7 Proven Core Web Vitals Optimization Patterns That Boost Performance and User Experience](https://dev.to/aaravjoshi/7-proven-core-web-vitals-optimization-patterns-that-boost-performance-and-user-experience-5fah)
+- [⛽️ Understanding Gas in Ethereum — The Fuel of Every Transaction](https://dev.to/tlhsec/understanding-gas-in-ethereum-the-fuel-of-every-transaction-25pc)
+- [Learning Reflections: The Age of Perceptual AI](https://dev.to/peacebinflow/learning-reflections-the-age-of-perceptual-ai-58e8)
 - [How I Built an AI Coworker for Telex.im](https://dev.to/i_ce_u/how-i-built-an-ai-coworker-for-telexim-3i24)
-- [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-97a)
-- [You Don’t Control the Universe — But God Does](https://dev.to/douglasvandergraph/you-dont-control-the-universe-but-god-does-2dae)
-- [Building AI Agents That Actually Work: The Toronto Dev&#39;s Playbook](https://dev.to/adnanobuz/building-ai-agents-that-actually-work-the-toronto-devs-playbook-3hhp)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3gin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
