@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adnan Obuz: How AgentFold Redefines AI Agents and Opens a Billion Dollar Market Opportunity](https://dev.to/adnanobuz/adnan-obuz-how-agentfold-redefines-ai-agents-and-opens-a-billion-dollar-market-opportunity-46cl)
+- [DSA Fundamentals: Stack - From Theory to LeetCode Practice](https://dev.to/jayk0001/dsa-fundamentals-stack-from-theory-to-leetcode-practice-5bdh)
 - [Whisper Board: Building a Private, Decentralized Messaging Experience with Waku](https://dev.to/bydotun/whisper-board-building-a-private-decentralized-messaging-experience-with-waku-2o79)
+- [OpenVPN userspace with tunsocks &lpar;without TUN devices&rpar;](https://dev.to/albertzeyer/openvpn-userspace-with-tunsocks-without-tun-devices-1d7o)
 - [The DSA Toolkit: #1 Sliding Window](https://dev.to/vmanav/the-dsa-toolkit-sliding-window-3j1n)
-- [Building BrandGenie: An AI-Powered Brand Identity Generator with Mastra](https://dev.to/aladetanife/building-brandgenie-an-ai-powered-brand-identity-generator-with-mastra-and-telex-published-true-p6e)
-- [Agentic Entropy-Balanced Policy Optimization](https://dev.to/paperium/agentic-entropy-balanced-policy-optimization-38gm)
-- [Building JobInsightAI: An Intelligent Telex Agent for Career Growth — HNG Stage 3 Backend Task](https://dev.to/kweku_annan/building-jobinsightai-an-intelligent-telex-agent-for-career-growth-hng-stage-3-backend-task-1pa6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
