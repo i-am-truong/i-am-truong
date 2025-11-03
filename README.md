@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Google Play Store Rating Agent with Mastra and Telex.im](https://dev.to/goldenwriter/building-a-google-play-store-rating-agent-with-mastra-and-telexim-1ffc)
-- [Compose Beginners 2: The Lego Bricks of Android UI](https://dev.to/abizer_r/compose-beginners-2-the-lego-bricks-of-android-ui-28in)
-- [Using AI in Playwright Tests](https://dev.to/philipfong/using-ai-in-playwright-tests-35od)
-- [Writing Your First Compiler - Part 4: Abstract Syntax Trees &amp; Recursive Descent](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-4-abstract-syntax-trees-recursive-descent-3j41)
-- [Building A Storage Account With High Availability For A Company..](https://dev.to/cmwokocha/building-a-storage-account-with-high-availability-for-a-company-1eod)
+- [Coding Challenge Practice - Question 44](https://dev.to/tomivan/coding-challenge-practice-question-44-1ad2)
+- [Another test!](https://dev.to/ben/another-test-cjc)
+- [Building MoodMatch: An AI Agent That Understands Your Emotions](https://dev.to/olaitan34/building-moodmatch-an-ai-agent-that-understands-your-emotions-2m36)
+- [Building PRRover: A FastAPI GitHub PR Reviewer with Telex A2A Integration](https://dev.to/bobbysam/building-prrover-a-fastapi-github-pr-reviewer-with-telex-a2a-integration-113d)
+- [Python basics - Day 19](https://dev.to/ian_b838138a27a917398d181/python-basics-day-19-10in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
