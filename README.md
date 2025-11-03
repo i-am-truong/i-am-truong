@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI: How It’s Changing the Way We Write and Create Code](https://dev.to/softwaredeveloper01/generative-ai-how-its-changing-the-way-we-write-and-create-code-3pa4)
-- [Asthma](https://dev.to/dayana_ko_b3f703a8504bfe/asthma-2ij9)
-- [Freelancer Tax Guide USA 2025: How Self-Employed Professionals Can File Taxes and Claim Deductions](https://dev.to/danyelle09/freelancer-tax-guide-usa-2025-how-self-employed-professionals-can-file-taxes-and-claim-deductions-23ng)
-- [Create Telegram-style Spoiler Text Effects with spoilerjs](https://dev.to/jqueryscript/create-telegram-style-spoiler-text-effects-with-spoilerjs-5bd5)
-- [Orchestrating Chaos: Unleashing the Power of Bio-Inspired AI for Autonomous System Design by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-chaos-unleashing-the-power-of-bio-inspired-ai-for-autonomous-system-design-by-arvind-5a1f)
+- [Microfrontend architecture](https://dev.to/vinit_kotian_b31a215d8ae7/microfrontend-architecture-4ooj)
+- [Stay ahead in web development: latest news, tools, and insights #109](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-109-2844)
+- [99% of People Use AI Wrong — Here’s How I Actually Learn and Remember Faster](https://dev.to/nitinfab/99-of-people-use-ai-wrong-heres-how-i-actually-learn-and-remember-faster-5084)
+- [UI/UX Design Trends for 2026: What Every Designer Should Know](https://dev.to/pixel_mosaic/uiux-design-trends-for-2026-what-every-designer-should-know-4179)
+- [🎃 Quote.Vote Hacktoberfest 2025 — Building Civic Tech, One Pull Request at a Time](https://dev.to/quotevote/quotevote-hacktoberfest-2025-building-civic-tech-one-pull-request-at-a-time-43l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
