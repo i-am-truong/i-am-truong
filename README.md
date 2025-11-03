@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Week 7: React hooks and more!](https://dev.to/nikhilsharma6/week-7-react-hooks-and-more-36g4)
-- [Being a JavaScript Dev vs. a Framework Dev](https://dev.to/amandamayfield/being-a-javascript-dev-vs-a-framework-dev-2cjh)
-- [🗓 Week 5 Recap — Leveling Up My React Skills!](https://dev.to/usama_dev/week-5-recap-leveling-up-my-react-skills-38b5)
-- [Git LFS: The Developer’s Solution to Large File Chaos](https://dev.to/rijultp/git-lfs-the-developers-solution-to-large-file-chaos-kma)
-- [Cracking the Cube: How Competitive Rubik’s Cube Algorithms Inspire Modern AI and Programming](https://dev.to/gowtham_e9296cf2c1012d9c0/cracking-the-cube-how-competitive-rubiks-cube-algorithms-inspire-modern-ai-and-programming-3m2e)
+- [Recording My Experiments in Spec-Driven Development](https://dev.to/imdone/recording-my-experiments-in-spec-driven-development-40e0)
+- [How to Onboard a New Team Member in a Tech Company the Right Way](https://dev.to/fedtti/how-to-onboard-a-new-team-member-in-a-tech-company-the-right-way-i5h)
+- [How I Deployed an Express + Prisma + Supabase API on AWS Lambda Using Serverless Framework](https://dev.to/malvinjay/how-i-deployed-an-express-prisma-supabase-api-on-aws-lambda-using-serverless-framework-1ki3)
+- [Building MultiLingo: An AI Translation Agent with Telex Integration](https://dev.to/muazu_idrisy_d30b7a3dec/building-multilingo-an-ai-translation-agent-with-telex-integration-1lon)
+- [Bringing locally running LLM into your NodeJS project](https://dev.to/6akcuk/bringing-locally-running-llm-into-your-nodejs-project-15og)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
