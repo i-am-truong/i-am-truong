@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 44](https://dev.to/tomivan/coding-challenge-practice-question-44-1ad2)
-- [Another test!](https://dev.to/ben/another-test-cjc)
-- [Building MoodMatch: An AI Agent That Understands Your Emotions](https://dev.to/olaitan34/building-moodmatch-an-ai-agent-that-understands-your-emotions-2m36)
-- [Building PRRover: A FastAPI GitHub PR Reviewer with Telex A2A Integration](https://dev.to/bobbysam/building-prrover-a-fastapi-github-pr-reviewer-with-telex-a2a-integration-113d)
-- [Python basics - Day 19](https://dev.to/ian_b838138a27a917398d181/python-basics-day-19-10in)
+- [How I Built an AI Coworker for Telex.im](https://dev.to/i_ce_u/how-i-built-an-ai-coworker-for-telexim-3i24)
+- [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-97a)
+- [You Don’t Control the Universe — But God Does](https://dev.to/douglasvandergraph/you-dont-control-the-universe-but-god-does-2dae)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3gin)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
