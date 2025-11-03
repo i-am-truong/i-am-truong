@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deflanderization for Game Dialogue: Balancing Character Authenticity with TaskExecution in LLM-based NPCs](https://dev.to/paperium/deflanderization-for-game-dialogue-balancing-character-authenticity-with-taskexecution-in-2gki)
-- [What are your goals for the week? #151](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-151-hmk)
-- [How many instruments did you have at one point?](https://dev.to/highcenburg/how-many-instruments-did-you-have-at-one-point-2kdh)
-- [Building a Free React Admin Dashboard with TypeScript and Tailwind CSS](https://dev.to/buskari/building-a-free-react-admin-dashboard-with-typescript-and-tailwind-css-2o8m)
-- [A step by step guide on how to create a simple web page using HTML and CSS](https://dev.to/medjiatou_ezechiel_1bc3f6/a-step-by-step-guide-on-how-to-create-a-simple-web-page-using-html-and-css-4g0j)
+- [SOC 2 vs. ISO 27001: Which Matters More for Legal Practices and Building Client Trust](https://dev.to/heyjoshlee/soc-2-vs-iso-27001-which-matters-more-for-legal-practices-and-building-client-trust-426a)
+- [Announcing AnalogJS 2.0 ⚡️](https://dev.to/analogjs/announcing-analogjs-20-348d)
+- [Figma MCP Server](https://dev.to/deny_herianto_74302737014/figma-mcp-server-3o8p)
+- [Why Every Engineer Should Learn to Read Research Papers &lpar;And How to Start&rpar;](https://dev.to/usamaa/why-every-engineer-should-learn-to-read-research-papers-and-how-to-start-11n)
+- [All Data and AI Weekly #214: 03-Nov-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-214-03-nov-2025-1k02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
