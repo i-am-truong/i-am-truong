@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Writer’s Room DB – Multi-Agent Story Generator Powered by Agentic Postgres](https://dev.to/shanny2022/writers-room-db-multi-agent-story-generator-powered-by-agentic-postgres-kep)
-- [High-Performance Java gRPC Implementation Guide for Scalable Microservices Communication](https://dev.to/aaravjoshi/high-performance-java-grpc-implementation-guide-for-scalable-microservices-communication-46l5)
-- [I Built a Nigerian Bank USSD AI Agent](https://dev.to/ahmadanwar/i-built-a-nigerian-bank-ussd-ai-agent-2fna)
-- [Events as State are an Antipattern in MVI and MVVM - Here&#39;s Why](https://dev.to/nek12/events-as-state-are-an-antipattern-in-mvi-and-mvvm-heres-why-15d2)
-- [Hacktoberfest 2025](https://dev.to/rollczi/hacktoberfest-2025-2ba6)
+- [Daily Artificial Intelligence Digest - Nov 03, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-03-2025-41me)
+- [Practical Guide to MCP &lpar;Model Context Protocol&rpar; in Python](https://dev.to/m_sea_bass/practical-guide-to-mcp-model-context-protocol-in-python-ijd)
+- [Untitled](https://dev.to/zakariahimi/untitled-1997)
+- [Introducing U-HOP — Universal Hardware Optimization Protocol](https://dev.to/dbisina/introducing-u-hop-universal-hardware-optimization-protocol-2m6i)
+- [Infinite Worlds, Perfect Recall: AI&#39;s Leap in Simulated Reality](https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
