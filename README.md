@@ -80,9 +80,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Introducing domain_extractor: A High-Performance Ruby Gem for URL Parsing and Domain Extraction](https://dev.to/opensite/introducing-domainextractor-a-high-performance-ruby-gem-for-url-parsing-and-domain-extraction-3f4i)
 - [Lightning Network and Node.js](https://dev.to/lucaspereiradesouzat/lightning-network-and-nodejs-1pam)
+- [Lightning Network e Node.js](https://dev.to/lucaspereiradesouzat/lightning-network-e-nodejs-ego)
 - [Building a medical emergency AI agent boot using A2A protocol for HNG backend stage.](https://dev.to/abdulsalamamtech/building-a-medical-emergency-ai-agent-boot-using-a2a-protocol-for-hng-backend-stage-2l99)
 - [🧠 Engineering Truth: My Journey in LAN-Only Cybersecurity Simulation](https://dev.to/catgamer19_e0f89c5c5bdf47/engineering-truth-my-journey-in-lan-only-cybersecurity-simulation-43hc)
-- [DSA Fundamentals: Stack - From Theory to LeetCode Practice](https://dev.to/jayk0001/dsa-fundamentals-stack-from-theory-to-leetcode-practice-5bdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
