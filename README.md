@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adnan Obuz: How AgentFold Redefines AI Agents and Opens a Billion Dollar Market Opportunity](https://dev.to/adnanobuz/adnan-obuz-how-agentfold-redefines-ai-agents-and-opens-a-billion-dollar-market-opportunity-46cl)
+- [Introducing domain_extractor: A High-Performance Ruby Gem for URL Parsing and Domain Extraction](https://dev.to/opensite/introducing-domainextractor-a-high-performance-ruby-gem-for-url-parsing-and-domain-extraction-3f4i)
+- [Lightning Network and Node.js](https://dev.to/lucaspereiradesouzat/lightning-network-and-nodejs-1pam)
+- [Building a medical emergency AI agent boot using A2A protocol for HNG backend stage.](https://dev.to/abdulsalamamtech/building-a-medical-emergency-ai-agent-boot-using-a2a-protocol-for-hng-backend-stage-2l99)
+- [🧠 Engineering Truth: My Journey in LAN-Only Cybersecurity Simulation](https://dev.to/catgamer19_e0f89c5c5bdf47/engineering-truth-my-journey-in-lan-only-cybersecurity-simulation-43hc)
 - [DSA Fundamentals: Stack - From Theory to LeetCode Practice](https://dev.to/jayk0001/dsa-fundamentals-stack-from-theory-to-leetcode-practice-5bdh)
-- [Whisper Board: Building a Private, Decentralized Messaging Experience with Waku](https://dev.to/bydotun/whisper-board-building-a-private-decentralized-messaging-experience-with-waku-2o79)
-- [OpenVPN userspace with tunsocks &lpar;without TUN devices&rpar;](https://dev.to/albertzeyer/openvpn-userspace-with-tunsocks-without-tun-devices-1d7o)
-- [The DSA Toolkit: #1 Sliding Window](https://dev.to/vmanav/the-dsa-toolkit-sliding-window-3j1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
