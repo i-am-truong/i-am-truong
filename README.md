@@ -81,8 +81,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [How I Built an AI Coworker for Telex.im](https://dev.to/i_ce_u/how-i-built-an-ai-coworker-for-telexim-3i24)
 - [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-97a)
 - [You Don’t Control the Universe — But God Does](https://dev.to/douglasvandergraph/you-dont-control-the-universe-but-god-does-2dae)
+- [Building AI Agents That Actually Work: The Toronto Dev&#39;s Playbook](https://dev.to/adnanobuz/building-ai-agents-that-actually-work-the-toronto-devs-playbook-3hhp)
 - [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3gin)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
