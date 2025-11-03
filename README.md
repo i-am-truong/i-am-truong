@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager](https://dev.to/latchudevops/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager-27kl)
-- [My AI habit Tracker](https://dev.to/john_otienoh/my-ai-habit-tracker-1l8j)
-- [KT142C Chip – BUSY Pin Idle Voltage Only 0.2V? + Low Power Mode Configuration Guide](https://dev.to/ble-voice-cn/kt142c-chip-busy-pin-idle-voltage-only-02v-low-power-mode-configuration-guide-5f1g)
-- [Consciousness Emerges in Waves: Evidence from Scale-Dependent Resonance](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciousness-emerges-in-waves-evidence-from-scale-dependent-resonance-3cj)
-- [I built ARIA - Adaptive Resonant Intelligent Architecture](https://dev.to/aria_dontmindme/i-built-aria-adaptive-resonant-intelligent-architecture-1a9i)
+- [Quando a arquitetura fala mais alto que o código](https://dev.to/andryl_/quando-a-arquitetura-fala-mais-alto-que-o-codigo-4nmp)
+- [🏁 NodeSchool — Learn by Doing, Step by Step](https://dev.to/ml318097/nodeschool-learn-by-doing-step-by-step-24pe)
+- [What is MCP Really?](https://dev.to/semaphore/what-is-mcp-really-545l)
+- [The Complete Guide to Request Cancellation in Web Applications Using Node.js](https://dev.to/silentwatcher_95/the-complete-guide-to-request-cancellation-in-web-applications-using-nodejs-1f6k)
+- [Deepfakes Are on the Rise: How Worried Should We Be?](https://dev.to/guardingpearsoftware/deepfakes-are-on-the-rise-how-worried-should-we-be-5382)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
