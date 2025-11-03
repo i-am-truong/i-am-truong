@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3DEXPERIENCE: Lista de Verificación para Eliminación Segura de Drawing &amp; CAD Family](https://dev.to/cadstore/3dexperience-lista-de-verificacion-para-eliminacion-segura-de-drawing-cad-family-5gl0)
+- [3DEXPERIENCE: Safe Deletion Checklist for Drawing &amp; CAD Family](https://dev.to/cadstore/3dexperience-safe-deletion-checklist-for-drawing-cad-family-58ch)
 - [Next version of mobile app is going to be a nice upgrade](https://dev.to/ben/next-version-of-mobile-app-is-going-to-be-a-nice-upgrade-369i)
 - [Test 2](https://dev.to/ben/test-2-i2f)
 - [Test!](https://dev.to/ben/test-3eff)
-- [Building an Airport Info AI Agent with Mastra and Telex](https://dev.to/amiabl_programr/building-an-airport-info-ai-agent-with-mastra-and-telex-hof)
-- [How AI-ready APIs enable faster automation?](https://dev.to/jay_all_day/how-ai-ready-apis-enable-faster-automation-bkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
