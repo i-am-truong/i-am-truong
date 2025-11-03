@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The transition property in CSS](https://dev.to/alok38/the-transition-property-in-css-18mp)
+- [2. Why do we add @Module&lpar;&rpar; on the Nest.js app module?](https://dev.to/ivadyhabimana/2-why-do-we-add-module-on-the-nestjs-app-module-3lel)
 - [Is Foundational Programming Knowledge Still Important in the Age of Vibe Coding?](https://dev.to/nagoorkani2393/is-foundational-programming-knowledge-still-important-in-the-age-of-vibe-coding-1g35)
 - [Building an Open Vulnerability Database for Minecraft Servers](https://dev.to/tifix_x_162aa3b2bb4c91b7b/building-an-open-vulnerability-database-for-minecraft-servers-1dmn)
 - [A New Multi-Agent Engine for the Competitive Intelligence Platform](https://dev.to/theweekenddev/a-new-multi-agent-engine-for-the-competitive-intelligence-platform-h4j)
-- [Who&#39;s hiring — November 2025](https://dev.to/fmerian/whos-hiring-november-2025-25ki)
-- [I Built an Open-Source Hosting Control Panel in Laravel &lpar;Meet Laranode&rpar;](https://dev.to/crivion/i-built-an-open-source-hosting-control-panel-in-laravel-meet-laranode-2ig7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
