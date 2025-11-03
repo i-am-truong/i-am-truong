@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creative Tim UI - shadcn/ui blocks ready for v0, Lovable, Replit, Claude, and more.](https://dev.to/creativetim_official/creative-tim-ui-shadcnui-blocks-ready-for-v0-lovable-replit-claude-and-more-n2d)
-- [Music Monday! &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-1ip3)
-- [JaCoCo for Java Developers: Measuring and Improving Code Coverage](https://dev.to/taras_antoniuk_ea6a2fe7ee/java-testing-guide-how-to-measure-and-improve-code-coverage-with-jacoco-3p75)
-- [Another ChatGPT bluff? Would you give GPT access to all your apps, that&#39;s insane](https://dev.to/matiswhattheycall/another-chatgpt-bluff-would-you-give-gpt-access-to-all-your-apps-thats-insane-503e)
-- [Test Leadership as Change Management: Why Your Real Job Isn’t Testing](https://dev.to/cydavid/test-leadership-as-change-management-why-your-real-job-isnt-testing-27mh)
+- [Preparing for Divorce in Idaho: A Legal Checklist Tailored to Idaho Law](https://dev.to/paulafoxauthor/preparing-for-divorce-in-idaho-a-legal-checklist-tailored-to-idaho-law-23bc)
+- [Leetcode](https://dev.to/shivi_e441534c4/leetcode-58c8)
+- [[Boost]](https://dev.to/ben/-4gj8)
+- [Building EduSimplify: An AI Agent for Simplifying Educational Topics using Django, DRF, and Telex A2A Protocol](https://dev.to/elkufahn_muhammadahmad_/building-edusimplify-an-ai-agent-for-simplifying-educational-topics-using-django-drf-and-telex-jp9)
+- [Introduction to Python Module Three Part Three: Conditionals](https://dev.to/theoriginalbpc/introduction-to-python-module-three-part-three-conditionals-1m3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
