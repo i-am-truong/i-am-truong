@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 1989 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-1989-movie-draft-4lkg)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5fj2)
-- [An Engineering Manifesto](https://dev.to/bitfootco/an-engineering-manifesto-mdk)
-- [What is Load Factor and Initial Capacity in HashMap?](https://dev.to/realnamehidden1_61/what-is-load-factor-and-initial-capacity-in-hashmap-2j11)
-- [Difference between HashMap and ConcurrentHashMap in Java](https://dev.to/realnamehidden1_61/difference-between-hashmap-and-concurrenthashmap-in-java-5cha)
+- [Announcing NocoBase v1.9.0](https://dev.to/nocobase/announcing-nocobase-v190-2286)
+- [Building an AI Companion for Older Adults Using Mastra and Telex A2A Protocol](https://dev.to/emzyjayyy/building-an-ai-companion-for-older-adults-using-mastra-and-telex-a2a-protocol-276n)
+- [Re-Engineering Education for the Age of AI](https://dev.to/woodyhayday/re-engineering-education-for-the-age-of-ai-5h95)
+- [The Future of Subscription License Management: Trends to Watch](https://dev.to/soraco_technologies_85385/the-future-of-subscription-license-management-trends-to-watch-1d5a)
+- [The minimal setup for OpenVino iGPU](https://dev.to/gordinmitya/the-minimal-setup-for-openvino-igpu-2a4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
