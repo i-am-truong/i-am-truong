@@ -80,11 +80,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Change your old methods for writing a JavaScript Code - Shorthand&#39;s for JavaScript Code](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-534h)
+- [From First-Time Contributor to Open Source Enthusiast: My Hacktoberfest Transformation](https://dev.to/nurhasin/from-first-time-contributor-to-open-source-enthusiast-my-hacktoberfest-transformation-107f)
 - [5 Strategies for Random Records from DB](https://dev.to/kinvoki/5-strategies-for-random-records-from-db-46lf)
 - [Valentine&#39;s Day Equation Plotted in Ruby](https://dev.to/kinvoki/valentines-day-equation-plotted-in-ruby-37bp)
 - [Upgrading to GitLab 15.0 CE from GitLab 14.9.3](https://dev.to/kinvoki/upgrading-to-gitlab-150-ce-from-gitlab-1493-5f0n)
-- [Lucky is Lightning Fast!](https://dev.to/kinvoki/lucky-is-lightning-fast-3m2c)
-- [When FTP Stands for Frustrating Transfer Problem](https://dev.to/kinvoki/when-ftp-stands-for-frustrating-transfer-problem-1p32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
