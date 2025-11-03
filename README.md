@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Threat: Visually Triggered AI Hijacking](https://dev.to/arvind_sundararajan/the-silent-threat-visually-triggered-ai-hijacking-1gna)
-- [Building Trinity Protocol v3.1: A Deep Dive into 2-of-3 Multi-Chain Consensus](https://dev.to/chronosvault/building-trinity-protocol-v31-a-deep-dive-into-2-of-3-multi-chain-consensus-139j)
-- [Reflections of Hacktoberfest](https://dev.to/aloisseckar/reflections-of-hacktoberfest-3ef2)
-- [Git Basics: A Beginner&#39;s Guide to Naming Conventions](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-naming-conventions-p2j)
-- [Recording My Experiments in Spec-Driven Development](https://dev.to/imdone/recording-my-experiments-in-spec-driven-development-40e0)
+- [Day 1 of building Secrin](https://dev.to/jenilsavani_/day-1-of-building-secrin-517n)
+- [Why You Should Think Twice Before Clicking “Unsubscribe”](https://dev.to/stevedefransko/why-you-should-think-twice-before-clicking-unsubscribe-2p16)
+- [🚨 The “10x Developer” Myth in the AI Era 🚨](https://dev.to/muhammad_harisbaig_1268d/the-10x-developer-myth-in-the-ai-era-170d)
+- [SANDEVISTAN TOOLKIT](https://dev.to/melvin_petiit/sandevistan-toolkit-3nka)
+- [Part 4: Daily Security Habits](https://dev.to/kinvoki/part-4-daily-security-habits-26ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
