@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Developer&#39;s Guide to Building a Better Trading System](https://dev.to/mikecodez/the-developers-guide-to-building-a-better-trading-system-3h4)
+- [What is SimHash?](https://dev.to/lovestaco/what-is-simhash-58m5)
 - [Day 1 of building Secrin](https://dev.to/jenilsavani_/day-1-of-building-secrin-517n)
 - [Why You Should Think Twice Before Clicking “Unsubscribe”](https://dev.to/stevedefransko/why-you-should-think-twice-before-clicking-unsubscribe-2p16)
 - [🚨 The “10x Developer” Myth in the AI Era 🚨](https://dev.to/muhammad_harisbaig_1268d/the-10x-developer-myth-in-the-ai-era-170d)
-- [SANDEVISTAN TOOLKIT](https://dev.to/melvin_petiit/sandevistan-toolkit-3nka)
-- [Part 4: Daily Security Habits](https://dev.to/kinvoki/part-4-daily-security-habits-26ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
