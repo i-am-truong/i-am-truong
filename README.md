@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Library That You Must Install in Your React Application 2026](https://dev.to/ihda06/5-library-that-you-must-install-on-your-react-application-2026-4eg0)
+- [Kahn’s Algorithm and Cycle Detection in Directed Graphs](https://dev.to/haris_abdullah_b8fc481573/kahns-algorithm-and-cycle-detection-in-directed-graphs-23p6)
 - [Teamcamp vs. Linear: Which Is Right for Your Dev Team?&lpar; Best Linear Alternative &rpar;](https://dev.to/teamcamp/teamcamp-vs-linear-which-is-right-for-your-dev-team-best-linear-alternative--n5h)
 - [A Developer&#39;s Guide to Useful Apache Modules](https://dev.to/edgaras/a-developers-guide-to-useful-apache-modules-2kb7)
 - [Boo Boo Bunnies - Event RSVP Landing page for Halloween](https://dev.to/mayu2008/boo-boo-bunnies-event-rsvp-landing-page-for-halloween-eph)
-- [Asyncio: Interview Questions and Practice Problems](https://dev.to/imsushant12/asyncio-interview-questions-and-practice-problems-3ode)
-- [How to Fix the Copilot Sidebar in Microsoft Edge on Linux](https://dev.to/0xtanzim/how-to-fix-the-copilot-sidebar-in-microsoft-edge-on-linux-efd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
