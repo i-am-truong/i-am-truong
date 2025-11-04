@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Your Command Line Assistant with Google Services &lpar;The Complete Guide&rpar;](https://dev.to/adhikareeprayush/setting-up-your-command-line-assistant-with-google-services-the-complete-guide-3000)
-- [Debugging Memory Leaks in Node.js and PHP 🧠](https://dev.to/chaitanyarai3/debugging-memory-leaks-in-nodejs-and-php-4ofp)
-- [Building an AI Code Helper Agent with Mastra and Telex](https://dev.to/abanicaisse/building-an-ai-code-helper-agent-with-mastra-and-telex-1lii)
-- [The Single Source of Truth: Why Your Billing System Needs to Talk to Your CRM](https://dev.to/johnsaas/the-single-source-of-truth-why-your-billing-system-needs-to-talk-to-your-crm-3gde)
-- [A Beginner’s Guide to Channel Attribution Modeling in Marketing](https://dev.to/anshuman_816f8012be0c9b6c/a-beginners-guide-to-channel-attribution-modeling-in-marketing-2fd7)
+- [Building Resilient Event-Driven Systems: Lessons from the Distributed Trenches](https://dev.to/darnahsan/building-resilient-event-driven-systems-lessons-from-the-distributed-trenches-2akg)
+- [I’ve tried Velo Nicotine Pouches Flavors from TrueDistro, and they’re really smooth and refreshing. The mint hits perfectly, and the citrus adds a clean buzz. Great flavor, long-lasting, and totally tobacco-free!](https://dev.to/jeenifer_beezer/ive-tried-velo-nicotine-pouches-flavors-from-truedistro-and-theyre-really-smooth-and-refreshing-59im)
+- [Kubernetes validating admission policy and admission binding](https://dev.to/maghsood_esmaeili/kubernetes-validating-admission-policy-and-admission-binding-4gii)
+- [Check out the guide on - Mastering Feature Selection Techniques with R](https://dev.to/thedatageek/check-out-the-guide-on-mastering-feature-selection-techniques-with-r-1h8d)
+- [Mastering Feature Selection Techniques with R](https://dev.to/thedatageek/mastering-feature-selection-techniques-with-r-49ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
