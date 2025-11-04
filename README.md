@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Как я разработал фильтр товаров для категории «Промышленные масла» на PiterTrade.ru](https://dev.to/nagibin/kak-ia-razrabotal-filtr-tovarov-dlia-katieghorii-na-pitertraderu-2dc9)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2mh)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-41mk)
+- [China&#39;s AI Diplomacy](https://dev.to/rawveg/chinas-ai-diplomacy-2hf9)
 - [Lesson 19: Freqtrade Visualization Analysis Tools](https://dev.to/henry_lin_3ac6363747f45b4/lesson-19-freqtrade-visualization-analysis-tools-1aej)
-- [Reality check](https://dev.to/jiegrein/reality-check-49go)
-- [Edge Cloud: Where Network Efficiency Meets Customer Experience](https://dev.to/abdul_shamim/edge-cloud-where-network-efficiency-meets-customer-experience-5d72)
-- [TCP vs UDP: Choosing the Right Protocol for Your Node.js Application](https://dev.to/sudiip__17/tcp-vs-udp-choosing-the-right-protocol-for-your-nodejs-application-4j0j)
-- [Component Composition That Worked for Me](https://dev.to/vaisakh_krishnan_60974644/component-composition-that-worked-for-me-2j90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
