@@ -78,12 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Common Challenges in Canary Testing and How to Overcome Them](https://dev.to/carl_max007/common-challenges-in-canary-testing-and-how-to-overcome-them-4m7h)
-- [“From Code to Content: Why I Tested ChatGPT vs Grammarly for My Blog”](https://dev.to/mess_anti_25613b50c3a1161/from-code-to-content-why-i-tested-chatgpt-vs-grammarly-for-my-blog-3m3d)
-- [Why Agentic AI Struggles in the Real World — and How to Fix It](https://dev.to/alexander_russkov_a641a31/why-agentic-ai-struggles-in-the-real-world-and-how-to-fix-it-5948)
-- [JavaScript devs, you don’t need to learn Python before building AI agents anymore
-I just wrote an article on building an AI Summarizer Agent that can summarize long texts and URLs using TypeScript.](https://dev.to/timmydee/javascript-devs-you-dont-need-to-learn-python-before-building-ai-agents-anymore-i-just-wrote-an-eoi)
-- [From AI Chaos to Context Engineering: Lessons from Building Packmind OSS](https://dev.to/arthur_magne/from-ai-chaos-to-context-engineering-lessons-from-building-packmind-oss-38g7)
+- [Code Smell 313 - Workslop Code](https://dev.to/mcsee/code-smell-313-workslop-code-n09)
+- [Things to Avoid in Nainital—Common Tourist Mistakes](https://dev.to/nainitallakeview/things-to-avoid-in-nainital-common-tourist-mistakes-gdk)
+- [Is Quantum Computing the Future? Let&#39;s Demystify It!](https://dev.to/karthik_n/is-quantum-computing-the-future-lets-demystify-it-368d)
+- [Jamie Sinclaire Shares 5 Tips To Build Trust Through Marketing](https://dev.to/jamiesinclaire/jamie-sinclaire-shares-5-tips-to-build-trust-through-marketing-297g)
+- [How to Solve AWS WAF Challenges with Node.js](https://dev.to/ren_joyce_cd41204d5cb261f/how-to-solve-aws-waf-challenges-with-nodejs-2obe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
