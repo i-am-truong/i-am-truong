@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Headless Adventures: From CMS to Frontend Without Losing Your Mind &lpar;2&rpar;](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-2-4k0o)
 - [Top 10 AI Features for Modern WYSIWYG Editors](https://dev.to/froala_e3824d66439393cbce/top-10-ai-features-for-modern-wysiwyg-editors-1bho)
-- [Building PhishNet: An AI Cybersecurity Agent for Detecting Phishing Threats with Mastra](https://dev.to/yazzzzthecreator/building-phishnet-an-ai-cybersecurity-agent-for-detecting-phishing-threats-with-mastra-2nd8)
-- [Hetzner Servers Benchmarks](https://dev.to/xcs/hetzner-servers-benchmarks-28f8)
-- [Unlock clearer Rust dependency insight with dep-insight](https://dev.to/eshanized/unlock-clearer-rust-dependency-insight-with-dep-insight-16kl)
-- [When Your Live Region Isn&#39;t Live: Fixing aria-live in Angular, React, and Vue](https://dev.to/dkoppenhagen/when-your-live-region-isnt-live-fixing-aria-live-in-angular-react-and-vue-1g0j)
+- [Turning Photos Into 3D Gold: The Power of Differentiable Rendering](https://dev.to/arvind_sundararajan/turning-photos-into-3d-gold-the-power-of-differentiable-rendering-36jm)
+- [From Vibe Coding to Informed Development: How Codalio PRD Transforms Your Cursor Workflow](https://dev.to/codalio/from-vibe-coding-to-informed-development-how-codalio-prd-transforms-your-cursor-workflow-2cd2)
+- [El otro Java + Script, o cómo hacer scripting con Java](https://dev.to/gekyzo/el-otro-java-script-o-como-hacer-scripting-con-java-1m1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
