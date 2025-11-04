@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 24: Python Countdown with Boom – Reverse Loop Printing &quot;Boom&quot; on Multiples of 3](https://dev.to/shahrouzlogs/day-24-python-countdown-with-boom-reverse-loop-printing-boom-on-multiples-of-3-32b5)
+- [Transforming Quality Control with Vision-Guided Inspection Systems](https://dev.to/titanteal/transforming-quality-control-with-vision-guided-inspection-systems-367h)
+- [Envar — Centrally manage environment variables to switch per directory](https://dev.to/kakkun61/envar-centrally-manage-environment-variables-to-switch-per-directory-4d2n)
+- [📞 I&#39;m Not a Coder but Used Claude to Build a Free AI Answering Service](https://dev.to/michael_esola_2b72a138c22/im-not-a-coder-but-used-claude-to-build-a-free-ai-answering-service-1ml2)
 - [Using Claude, Perplexity, v0, ChatGPT, etc to Make Tech Apps and Write Content](https://dev.to/vtempest/using-claude-perplexity-v0-chatgpt-etc-to-make-tech-apps-and-write-content-4odo)
-- [Linear Search but recursive](https://dev.to/dshaw0004/linear-search-but-recursive-3756)
-- [Architectural Patterns for Securing Data: At Rest, In Transit, and At Runtime](https://dev.to/rosgluk/architectural-patterns-for-securing-data-at-rest-in-transit-and-at-runtime-8fi)
-- [Spatial Secrets: Unleashing Language Models with Unexpected Masking by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spatial-secrets-unleashing-language-models-with-unexpected-masking-by-arvind-sundararajan-1cpl)
-- [OpenAI&#39;s $38B AWS Coup Drives Amazon to Record High](https://dev.to/mabualzait/openais-38b-aws-coup-drives-amazon-to-record-high-4642)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
