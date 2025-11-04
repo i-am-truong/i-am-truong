@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How an API Monetization Platform Boosts Developer Revenue](https://dev.to/author_shivani_9c765c8db9/how-an-api-monetization-platform-boosts-developer-revenue-4nho)
-- [Level 3: Building the Database Foundation with Rust + PostgreSQL](https://dev.to/manjushaps/level-3-building-the-database-foundation-with-rust-postgresql-3gj6)
-- [🚀 Exploring Kwala: The No-Code Powerhouse for Blockchain Backend Automation](https://dev.to/sauravkumar8178/exploring-kwala-the-no-code-powerhouse-for-blockchain-backend-automation-3db6)
-- [Part 5: Building Station Station - Should You Use Spec-Driven Development?](https://dev.to/koustubh/part-5-building-station-station-should-you-use-spec-driven-development-2i7b)
-- [Part 4: Building Station Station - Where SDD Helped &lpar;and Where It Didn&#39;t&rpar;](https://dev.to/koustubh/part-4-building-station-station-where-sdd-helped-and-where-it-didnt-3f7d)
+- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-3l80)
+- [3 State Management Mistakes I Wish I Knew Earlier — By Bayajit Islam](https://dev.to/bayajitislam/3-state-management-mistakes-i-wish-i-knew-earlier-by-bayajit-islam-4gp3)
+- [🦇 Spooky Night — Halloween CSS Art 🌙✨](https://dev.to/dmsmenula/spooky-night-halloween-css-art-4h0n)
+- [The Software Development Journey](https://dev.to/jedaqsaul/the-software-development-journey-2g6j)
+- [💾 Custom &quot;Save as Draft Without Validation&quot; Button with Auto-Redirect in Joget Forms](https://dev.to/exploringmylifeworks/custom-save-as-draft-without-validation-button-with-auto-redirect-in-joget-forms-1839)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
