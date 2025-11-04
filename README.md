@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Teamcamp vs. Linear: Which Is Right for Your Dev Team?&lpar; Best Linear Alternative &rpar;](https://dev.to/teamcamp/teamcamp-vs-linear-which-is-right-for-your-dev-team-best-linear-alternative--n5h)
+- [A Developer&#39;s Guide to Useful Apache Modules](https://dev.to/edgaras/a-developers-guide-to-useful-apache-modules-2kb7)
+- [Boo Boo Bunnies - Event RSVP Landing page for Halloween](https://dev.to/mayu2008/boo-boo-bunnies-event-rsvp-landing-page-for-halloween-eph)
 - [Asyncio: Interview Questions and Practice Problems](https://dev.to/imsushant12/asyncio-interview-questions-and-practice-problems-3ode)
 - [How to Fix the Copilot Sidebar in Microsoft Edge on Linux](https://dev.to/0xtanzim/how-to-fix-the-copilot-sidebar-in-microsoft-edge-on-linux-efd)
-- [Attention Is All You Need for KV Cache in Diffusion LLMs](https://dev.to/paperium/attention-is-all-you-need-for-kv-cache-in-diffusion-llms-f2e)
-- [在英国以外使用 9Proxy 观看 Channel 4 节目](https://dev.to/lopezjessicancmxe_e881660/zai-ying-guo-yi-wai-shi-yong-9proxy-guan-kan-channel-4-jie-mu-312g)
-- [在任何地方使用 9Proxy 观看 ITVX 独家节目](https://dev.to/lopezjessicancmxe_e881660/zai-ren-he-di-fang-shi-yong-9proxy-guan-kan-itvx-du-jia-jie-mu-2p90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
