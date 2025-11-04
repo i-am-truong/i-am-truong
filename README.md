@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Decoding Kiroween](https://dev.to/brian_mk/decoding-kiroween-4nm)
+- [Optimizing HTML5 Action Games for Mobile Devices](https://dev.to/gamh5games/optimizing-html5-action-games-for-mobile-devices-19ce)
 - [Unleash Your Inner Mad Scientist: A Glimpse into the Kiroween Hackathon](https://dev.to/brian_mk/unleash-your-inner-mad-scientist-a-glimpse-into-the-kiroween-hackathon-11co)
 - [A Practical Guide to Building AI Agents With Java and Spring AI - Part 1 - Create an AI Agent](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-1-create-an-ai-agent-4f4a)
 - [Using Prisma for Schema and Kysely for Queries in a Next.js App](https://dev.to/golamrabbani/using-prisma-for-schema-and-kysely-for-queries-in-a-nextjs-app-39ol)
-- [Automating API Calls Without Losing Control](https://dev.to/nixx/automating-api-calls-without-losing-control-1hk0)
-- [🎯 Frontend Psychology 101: How Design Choices Convert Users in 2025](https://dev.to/tahamjp/frontend-psychology-101-how-design-choices-convert-users-in-2025-518g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
