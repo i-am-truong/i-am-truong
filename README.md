@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What will the OpenAI AWS cloud computing deal change?](https://dev.to/jay_all_day/what-will-the-openai-aws-cloud-computing-deal-change-1fbi)
-- [IT Project Management 360: Methods, Metrics, and Future Trends](https://dev.to/taskford/it-project-management-360-methods-metrics-and-future-trends-46bb)
-- [Angular Authentication with Cookies in 10 minutes](https://dev.to/this-is-angular/angular-authentication-with-cookies-in-10-minutes-41m8)
-- [如何绕过验证码：我的亲身体验](https://dev.to/lopezjessicancmxe_e881660/ru-he-rao-guo-yan-zheng-ma-wo-de-qin-shen-ti-yan-53pd)
-- [I built an open-source AI browser that automates web tasks with natural language](https://dev.to/lsustc/i-built-an-open-source-ai-browser-that-automates-web-tasks-with-natural-language-70h)
+- [🤖 ChatGPT Changed Everything — But What’s Coming Next in AI?](https://dev.to/umaarahmed/chatgpt-changed-everything-but-whats-coming-next-in-ai-n79)
+- [随时随地使用 9Proxy 观看 Sling TV，无限制流媒体体验](https://dev.to/lopezjessicancmxe_e881660/sui-shi-sui-di-shi-yong-9proxy-guan-kan-sling-tvwu-xian-zhi-liu-mei-ti-ti-yan-230p)
+- [Install ISPConfig with Nginx Webserver on Ubuntu 22.04](https://dev.to/siswoyo/install-ispconfig-with-nginx-webserver-on-ubuntu-2204-492f)
+- [畅享 FuboTV 直播体育赛事和节目，无地域限制](https://dev.to/lopezjessicancmxe_e881660/chang-xiang-fubotv-zhi-bo-ti-yu-sai-shi-he-jie-mu-wu-di-yu-xian-zhi-3073)
+- [5 Top Facial Plastic Surgery Clinics](https://dev.to/prayogi_ebrilrio_322fbe4/5-top-facial-plastic-surgery-clinics-5897)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
