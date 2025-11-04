@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Monthly Partitioning and Automatic Rotation of Tables in PostgreSQL &lpar;AWS RDS&rpar;](https://dev.to/ivajofranc/monthly-partitioning-and-automatic-rotation-of-tables-in-postgresql-aws-rds-25pl)
-- [Particionamiento mensual y rotación automática de tablas en PostgreSQL &lpar;AWS RDS&rpar;](https://dev.to/ivajofranc/particionamiento-mensual-y-rotacion-automatica-de-tablas-en-postgresql-aws-rds-2p3c)
-- [Launching LightSpeedUp: Hosting with network isolation - 70% cheaper than AWS](https://dev.to/lightspeedup/launching-lightspeedup-hosting-with-network-isolation-70-cheaper-than-aws-5c6c)
-- [Tool to create free n8n flows without login &lpar;in beta&rpar;](https://dev.to/jawuilp/tool-to-create-free-n8n-flows-without-login-in-beta-3j5i)
-- [Spooky Spider Web Studio](https://dev.to/ignaciah/spooky-spider-web-studio-29m9)
+- [Unlock the Power of GANs: Train with Tiny Datasets!](https://dev.to/arvind_sundararajan/unlock-the-power-of-gans-train-with-tiny-datasets-3ai5)
+- [The Hidden Challenges Startups Face with Cloud Infrastructure &lpar;From a DevOps Engineer’s Perspective&rpar;](https://dev.to/aleksandr_pliev_d30a01b0d/the-hidden-challenges-startups-face-with-cloud-infrastructure-from-a-devops-engineers-perspective-2ek8)
+- [How to Create a Vendor Management Plan: Step-by-Step Process](https://dev.to/writegenic/how-to-create-a-vendor-management-plan-step-by-step-process-1cfo)
+- [Top Tech Upgrades Developers and Project Leads Must Pursue in 2025](https://dev.to/logicverse_2025/top-tech-upgrades-developers-and-project-leads-must-pursue-in-2025-4kip)
+- [GitKarma: Review to Earn. Spend to Merge.](https://dev.to/turutupa/gitkarma-review-to-earn-spend-to-merge-453i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
