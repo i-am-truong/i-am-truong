@@ -81,8 +81,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [What will the OpenAI AWS cloud computing deal change?](https://dev.to/jay_all_day/what-will-the-openai-aws-cloud-computing-deal-change-1fbi)
 - [IT Project Management 360: Methods, Metrics, and Future Trends](https://dev.to/taskford/it-project-management-360-methods-metrics-and-future-trends-46bb)
 - [Angular Authentication with Cookies in 10 minutes](https://dev.to/this-is-angular/angular-authentication-with-cookies-in-10-minutes-41m8)
-- [Flip a Coin Online: The Technology Behind Fair Virtual Coin Tosses](https://dev.to/mramzanofficial/flip-a-coin-online-the-technology-behind-fair-virtual-coin-tosses-151o)
-- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-CompactVision-Language Model](https://dev.to/paperium/paddleocr-vl-boosting-multilingual-document-parsing-via-a-09b-ultra-compactvision-language-model-226l)
+- [如何绕过验证码：我的亲身体验](https://dev.to/lopezjessicancmxe_e881660/ru-he-rao-guo-yan-zheng-ma-wo-de-qin-shen-ti-yan-53pd)
+- [I built an open-source AI browser that automates web tasks with natural language](https://dev.to/lsustc/i-built-an-open-source-ai-browser-that-automates-web-tasks-with-natural-language-70h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
