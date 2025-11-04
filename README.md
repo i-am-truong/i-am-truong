@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [1 billion JSON records, 1-second query response: Apache Doris vs. ClickHouse, Elasticsearch, and PostgreSQL](https://dev.to/apachedoris/1-billion-json-records-1-second-query-response-apache-doris-vs-clickhouse-elasticsearch-and-22m2)
 - [Revamping the Organization Dashboard for OWASP BLT: My GSoC 2025 Journey](https://dev.to/rinkitadhana/revamping-the-organization-dashboard-for-owasp-blt-my-gsoc-2025-journey-29i5)
 - [Grupos de Segurança e Portas Padrão: Entendendo os Firewalls da AWS](https://dev.to/sinngjpeg/grupos-de-seguranca-e-portas-padrao-entendendo-os-firewalls-da-aws-3cje)
 - [Gerenciamento Feature Flag em Azure Functions](https://dev.to/caramelo-ti/gerenciamento-feature-flag-em-azure-functions-1e5n)
 - [Tipos de EC2 Instance](https://dev.to/sinngjpeg/tipos-de-ec2-instance-380b)
-- [Building an AI-Powered Focus Tracker for Telex Using Python and Gemini API](https://dev.to/mcgibson/building-an-ai-powered-focus-tracker-for-telex-using-python-and-gemini-api-4f88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
