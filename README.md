@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get started with Google Workspace Flows](https://dev.to/googleworkspace/get-started-with-google-workspace-flows-36g1)
+- [How to use variables in Workspace Flows](https://dev.to/googleworkspace/how-to-use-variables-in-workspace-flows-27ac)
+- [Security Options in WebForms Core 2](https://dev.to/elanatframework/security-options-in-webforms-core-2-2j1n)
 - [1 billion JSON records, 1-second query response: Apache Doris vs. ClickHouse, Elasticsearch, and PostgreSQL](https://dev.to/apachedoris/1-billion-json-records-1-second-query-response-apache-doris-vs-clickhouse-elasticsearch-and-22m2)
 - [Revamping the Organization Dashboard for OWASP BLT: My GSoC 2025 Journey](https://dev.to/rinkitadhana/revamping-the-organization-dashboard-for-owasp-blt-my-gsoc-2025-journey-29i5)
-- [Grupos de Segurança e Portas Padrão: Entendendo os Firewalls da AWS](https://dev.to/sinngjpeg/grupos-de-seguranca-e-portas-padrao-entendendo-os-firewalls-da-aws-3cje)
-- [Gerenciamento Feature Flag em Azure Functions](https://dev.to/caramelo-ti/gerenciamento-feature-flag-em-azure-functions-1e5n)
-- [Tipos de EC2 Instance](https://dev.to/sinngjpeg/tipos-de-ec2-instance-380b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
