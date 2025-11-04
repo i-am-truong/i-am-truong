@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Your Command Line Assistant with Google Services &lpar;The Complete Guide&rpar;](https://dev.to/adhikareeprayush/setting-up-your-command-line-assistant-with-google-services-the-complete-guide-3000)
 - [Debugging Memory Leaks in Node.js and PHP 🧠](https://dev.to/chaitanyarai3/debugging-memory-leaks-in-nodejs-and-php-4ofp)
 - [Building an AI Code Helper Agent with Mastra and Telex](https://dev.to/abanicaisse/building-an-ai-code-helper-agent-with-mastra-and-telex-1lii)
 - [The Single Source of Truth: Why Your Billing System Needs to Talk to Your CRM](https://dev.to/johnsaas/the-single-source-of-truth-why-your-billing-system-needs-to-talk-to-your-crm-3gde)
-- [Java String getBytes&lpar;&rpar; Explained: Your Ultimate Guide to Character Encoding](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-getbytes-explained-your-ultimate-guide-to-character-encoding-4emn)
-- [Wool Curtains: Which Side Faces Your Winter Window?](https://dev.to/zerogpt_plus/wool-curtains-which-side-faces-your-winter-window-58gj)
+- [Applying API Testing Frameworks: Real-World Examples with Swagger and JUnit](https://dev.to/hashiravc/the-future-of-machine-learning-in-api-testing-a-new-era-of-automation-260h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
