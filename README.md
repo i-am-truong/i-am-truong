@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Multi-Transport Protocol Abstraction in Python](https://dev.to/tosin2013/a-deep-dive-into-multi-transport-protocol-abstraction-in-python-3gp5)
-- [Build Interactive Node-Based Diagrams with fg-next-draw-canvas: A React Developer&#39;s Guide](https://dev.to/fabiangftech/build-interactive-node-based-diagrams-with-fg-next-draw-canvas-a-react-developers-guide-3k5a)
-- [Complete API Authentication with Laravel 12 Sanctum](https://dev.to/ashrakt_amin/complete-api-authentication-with-laravel-12-sanctum-56l3)
-- [Teaching My Team How to Build LINQ from Scratch](https://dev.to/reenanms/teaching-my-team-how-to-build-linq-from-scratch-11p9)
-- [Product 101: Your Secret Weapon for Understanding the Business](https://dev.to/mattstratton/product-101-your-secret-weapon-for-understanding-the-business-2m6j)
+- [Building a Features Bento Grid for My First UI Template](https://dev.to/sushilmagare10/building-a-features-bento-grid-for-my-first-ui-template-220a)
+- [Building &amp; Integrating a Microservice Text Transformer Agent for HNG + Telex.im](https://dev.to/adewaletech/building-integrating-a-microservice-text-transformer-agent-for-hng-telexim-55ib)
+- [Cloud Practitioner Exam Guide](https://dev.to/aws-builders/cloud-practitioner-exam-guide-243h)
+- [Unveiling the Dynamic World of &quot;Social Media Girls&quot;: Influence, Community, and Evolution](https://dev.to/darya_khalifa/unveiling-the-dynamic-world-of-social-media-girls-influence-community-and-evolution-4fj2)
+- [Build Your Own Forum with FastAPI: Step 10 - Categories](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-10-categories-2ecl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
