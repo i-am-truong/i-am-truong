@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recent Research on AML in Mexico: Leveraging AI for Enhanced](https://dev.to/drcarlosruizviquez/recent-research-on-aml-in-mexico-leveraging-ai-for-enhanced-3log)
 - [Introducing domain_extractor: A High-Performance Ruby Gem for URL Parsing and Domain Extraction](https://dev.to/opensite/introducing-domainextractor-a-high-performance-ruby-gem-for-url-parsing-and-domain-extraction-3f4i)
 - [Lightning Network and Node.js](https://dev.to/lucaspereiradesouzat/lightning-network-and-nodejs-1pam)
 - [Lightning Network e Node.js](https://dev.to/lucaspereiradesouzat/lightning-network-e-nodejs-ego)
-- [Building a medical emergency AI agent boot using A2A protocol for HNG backend stage.](https://dev.to/abdulsalamamtech/building-a-medical-emergency-ai-agent-boot-using-a2a-protocol-for-hng-backend-stage-2l99)
-- [🧠 Engineering Truth: My Journey in LAN-Only Cybersecurity Simulation](https://dev.to/catgamer19_e0f89c5c5bdf47/engineering-truth-my-journey-in-lan-only-cybersecurity-simulation-43hc)
+- [The Art of the Do-Over: Designing Idempotent Jobs as a Journey to Peace of Mind](https://dev.to/alex_aslam/the-art-of-the-do-over-designing-idempotent-jobs-as-a-journey-to-peace-of-mind-31pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
