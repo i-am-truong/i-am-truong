@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Resilient Event-Driven Systems: Lessons from the Distributed Trenches](https://dev.to/darnahsan/building-resilient-event-driven-systems-lessons-from-the-distributed-trenches-2akg)
-- [I’ve tried Velo Nicotine Pouches Flavors from TrueDistro, and they’re really smooth and refreshing. The mint hits perfectly, and the citrus adds a clean buzz. Great flavor, long-lasting, and totally tobacco-free!](https://dev.to/jeenifer_beezer/ive-tried-velo-nicotine-pouches-flavors-from-truedistro-and-theyre-really-smooth-and-refreshing-59im)
-- [Kubernetes validating admission policy and admission binding](https://dev.to/maghsood_esmaeili/kubernetes-validating-admission-policy-and-admission-binding-4gii)
-- [Check out the guide on - Mastering Feature Selection Techniques with R](https://dev.to/thedatageek/check-out-the-guide-on-mastering-feature-selection-techniques-with-r-1h8d)
-- [Mastering Feature Selection Techniques with R](https://dev.to/thedatageek/mastering-feature-selection-techniques-with-r-49ke)
+- [Math.random, friend or foe?](https://dev.to/opbright/mathrandom-friend-or-foe-148o)
+- [Math.random, friend or foe?](https://dev.to/opbright/mathrandom-friend-or-foe-38b0)
+- [Vibe Coding Advantages and Drawbacks for Different Types of Users](https://dev.to/momen_hq/vibe-coding-advantages-and-drawbacks-for-different-types-of-users-1fjk)
+- [How We Built the Ultimate AI Content Generator Plugin for PayloadCMS](https://dev.to/mygom/how-we-built-the-ultimate-ai-content-generator-plugin-for-payloadcms-2jb1)
+- [Automating Azure SFTP deployment with Terraform](https://dev.to/techielass/automating-azure-sftp-deployment-with-terraform-4355)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
