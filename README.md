@@ -78,13 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Install MinGW-w64 on Windows 11 &lpar;2025 November&rpar;](https://dev.to/prastha/install-mingw-w64-on-windows-11-2025-november-acg)
-- [Building Resilient Defenses: A Practical Guide to Modern DDoS Attack Mitigation](https://dev.to/jeremygao/building-resilient-defenses-a-practical-guide-to-modern-ddos-attack-mitigation-43a7)
-- [Most AI startups fail within 12–24 months, not because of weak technology, but because of weak foundations.
-
-After building ReThynk AI and observing hundreds of AI founders, here’s what I’ve learned about why they fail!!](https://dev.to/jaideepparashar/most-ai-startups-fail-within-12-24-months-not-because-of-weak-technology-but-because-of-weak-4pi2)
-- [Mastra agent and Telex equals super integration](https://dev.to/frankdev20/mastra-agent-and-telex-equals-super-integration-3149)
-- [SQL: is there a better way to code this?](https://dev.to/david_kershaw_b6916404da6/sql-is-there-a-better-way-to-code-this-3ahg)
+- [What will the OpenAI AWS cloud computing deal change?](https://dev.to/jay_all_day/what-will-the-openai-aws-cloud-computing-deal-change-1fbi)
+- [IT Project Management 360: Methods, Metrics, and Future Trends](https://dev.to/taskford/it-project-management-360-methods-metrics-and-future-trends-46bb)
+- [Angular Authentication with Cookies in 10 minutes](https://dev.to/this-is-angular/angular-authentication-with-cookies-in-10-minutes-41m8)
+- [Flip a Coin Online: The Technology Behind Fair Virtual Coin Tosses](https://dev.to/mramzanofficial/flip-a-coin-online-the-technology-behind-fair-virtual-coin-tosses-151o)
+- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-CompactVision-Language Model](https://dev.to/paperium/paddleocr-vl-boosting-multilingual-document-parsing-via-a-09b-ultra-compactvision-language-model-226l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
