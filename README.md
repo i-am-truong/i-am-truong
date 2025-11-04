@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Recent Research on AML in Mexico: Leveraging AI for Enhanced](https://dev.to/drcarlosruizviquez/recent-research-on-aml-in-mexico-leveraging-ai-for-enhanced-3log)
-- [Introducing domain_extractor: A High-Performance Ruby Gem for URL Parsing and Domain Extraction](https://dev.to/opensite/introducing-domainextractor-a-high-performance-ruby-gem-for-url-parsing-and-domain-extraction-3f4i)
-- [Lightning Network and Node.js](https://dev.to/lucaspereiradesouzat/lightning-network-and-nodejs-1pam)
-- [Lightning Network e Node.js](https://dev.to/lucaspereiradesouzat/lightning-network-e-nodejs-ego)
-- [The Art of the Do-Over: Designing Idempotent Jobs as a Journey to Peace of Mind](https://dev.to/alex_aslam/the-art-of-the-do-over-designing-idempotent-jobs-as-a-journey-to-peace-of-mind-31pd)
+- [How I Use AI to Build Frontend Apps: My Candid, Messy Process](https://dev.to/blackgirlbytes/how-i-use-ai-to-build-frontend-apps-my-candid-messy-process-3ehk)
+- [Serverless Architectures: Simplifying Development with the Cloud](https://dev.to/softwaredeveloper01/serverless-architectures-simplifying-development-with-the-cloud-54fj)
+- [A beginner&#39;s guide to the Any-Comfyui-Workflow model by Comfyui on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-any-comfyui-workflow-model-by-comfyui-on-replicate-165i)
+- [You Don&#39;t Always Need useCallback and useMemo](https://dev.to/danishaft/you-dont-always-need-usecallback-and-usememo-47op)
+- [通过 9Proxy 测试本地化网站，体验前所未有的高精度](https://dev.to/lopezjessicancmxe_e881660/tong-guo-9proxy-ce-shi-ben-di-hua-wang-zhan-ti-yan-qian-suo-wei-you-de-gao-jing-du-27m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
