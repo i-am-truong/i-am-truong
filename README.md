@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Fixed AI Coding Assistants with Real-Time npm &amp; CVE Data &lpar;DevTrends MCP&rpar;](https://dev.to/alejandro_peghin_872eac53/i-fixed-ai-coding-assistants-with-real-time-npm-cve-data-devtrends-mcp-22m8)
-- [💸 MY BANK ACCOUNT LOOKS ILLEGAL... &lpar;The &quot;Sleeping Salesman&quot; That Deposits $382/Day While I Do NOTHING&rpar; 💸](https://dev.to/we-the-developers/my-bank-account-looks-illegal-the-sleeping-salesman-that-deposits-382day-while-i-do-4egf)
-- [API-Led Connectivity - Practical Questions Answered - Part III](https://dev.to/shandor_sharvari/api-led-connectivity-practical-questions-answered-part-iii-6dl)
-- [🤑 THIS IS ILLEGAL... &lpar;How My &quot;Silent Partner&quot; Generates $7,463/Month While I Sleep&rpar; 🤑](https://dev.to/we-the-developers/this-is-illegal-how-my-silent-partner-generates-7463month-while-i-sleep-1b2f)
-- [I Got Tired of Deceptive Casino Bonuses, So I Built a &quot;Truth Calculator&quot; with Vanilla JavaScript. Here&#39;s How You Can Too.](https://dev.to/alexv_data/i-got-tired-of-deceptive-casino-bonuses-so-i-built-a-truth-calculator-with-vanilla-javascript-2jbl)
+- [Modeling Relationships With Hibernate ORM and MongoDB](https://dev.to/mongodb/modeling-relationships-with-hibernate-orm-and-mongodb-23h)
+- [Getting Started With Hibernate ORM and MongoDB](https://dev.to/mongodb/getting-started-with-hibernate-orm-and-mongodb-35lp)
+- [visibilitychange: Ever wondered how your browser knows when you leave a tab?](https://dev.to/pooja_garva/visibilitychange-ever-wondered-how-your-browser-knows-when-you-leave-a-tab-4l3d)
+- [What is the use of span tag?Give an example.](https://dev.to/divya_divya_b18f82b19353a/what-is-the-use-of-span-taggive-an-example-5fpm)
+- [All decisions are wrong, but some are better](https://dev.to/shalvah/all-decisions-are-wrong-but-some-are-better-5gbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
