@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generating Application Specific Go Documentation Using Go AST and Antora](https://dev.to/frosnerd/generating-application-specific-go-documentation-using-go-ast-and-antora-aho)
-- [How Indoor Air Quality Affects Sleep &amp; Productivity](https://dev.to/toby-patrick/how-indoor-air-quality-affects-sleep-productivity-4688)
-- [How Do Zapier Specialists Automate Data Flow?](https://dev.to/asharmalik/how-do-zapier-specialists-automate-data-flow-4cgn)
-- [My Journey Into Cloud Engineering: Why I Decided to Start](https://dev.to/adebayo_ganiyatoladunjoy/my-journey-into-cloud-engineering-why-i-decided-to-start-1n54)
-- [How to build a Heapless Vector using `MaybeUninit&lt;T&gt;` for Better Performance.](https://dev.to/allwelldotdev/how-to-build-a-heapless-vector-using-maybeuninit-for-better-performance-ojo)
+- [Unleash Your Inner Mad Scientist: A Glimpse into the Kiroween Hackathon](https://dev.to/brian_mk/unleash-your-inner-mad-scientist-a-glimpse-into-the-kiroween-hackathon-11co)
+- [A Practical Guide to Building AI Agents With Java and Spring AI - Part 1 - Create an AI Agent](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-1-create-an-ai-agent-4f4a)
+- [Using Prisma for Schema and Kysely for Queries in a Next.js App](https://dev.to/golamrabbani/using-prisma-for-schema-and-kysely-for-queries-in-a-nextjs-app-39ol)
+- [Automating API Calls Without Losing Control](https://dev.to/nixx/automating-api-calls-without-losing-control-1hk0)
+- [🎯 Frontend Psychology 101: How Design Choices Convert Users in 2025](https://dev.to/tahamjp/frontend-psychology-101-how-design-choices-convert-users-in-2025-518g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
