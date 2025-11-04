@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gerenciamento Feature Flag em Azure Functions](https://dev.to/caramelo-ti/gerenciamento-feature-flag-em-azure-functions-1e5n)
+- [Tipos de EC2 Instance](https://dev.to/sinngjpeg/tipos-de-ec2-instance-380b)
+- [Building an AI-Powered Focus Tracker for Telex Using Python and Gemini API](https://dev.to/mcgibson/building-an-ai-powered-focus-tracker-for-telex-using-python-and-gemini-api-4f88)
+- [AI Wrapper Companies: Is This Real or Just API Theater?](https://dev.to/pinishv/ai-wrapper-companies-is-this-real-or-just-api-theater-1822)
 - [Unlock the Power of GANs: Train with Tiny Datasets!](https://dev.to/arvind_sundararajan/unlock-the-power-of-gans-train-with-tiny-datasets-3ai5)
-- [The Hidden Challenges Startups Face with Cloud Infrastructure &lpar;From a DevOps Engineer’s Perspective&rpar;](https://dev.to/aleksandr_pliev_d30a01b0d/the-hidden-challenges-startups-face-with-cloud-infrastructure-from-a-devops-engineers-perspective-2ek8)
-- [How to Create a Vendor Management Plan: Step-by-Step Process](https://dev.to/writegenic/how-to-create-a-vendor-management-plan-step-by-step-process-1cfo)
-- [Top Tech Upgrades Developers and Project Leads Must Pursue in 2025](https://dev.to/logicverse_2025/top-tech-upgrades-developers-and-project-leads-must-pursue-in-2025-4kip)
-- [GitKarma: Review to Earn. Spend to Merge.](https://dev.to/turutupa/gitkarma-review-to-earn-spend-to-merge-453i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
