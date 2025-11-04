@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 I built a full system monitor in Bash — and fought awk along the way 💀](https://dev.to/danlinx2004x/i-built-a-full-system-monitor-in-bash-and-fought-awk-along-the-way-53ge)
+- [Molecular Alchemy: AI-Powered Design of Novel Compounds by Arvind Sundararajan](https://dev.to/arvind_sundararajan/molecular-alchemy-ai-powered-design-of-novel-compounds-by-arvind-sundararajan-23mc)
 - [The Problem Space: Why Modern Banking Infrastructure is Broken](https://dev.to/mharris021/the-problem-space-why-modern-banking-infrastructure-is-broken-5g60)
 - [Effortless PostgreSQL Environment in Docker For Windows](https://dev.to/sandipm03/effortless-postgresql-environment-in-docker-for-windows-3i13)
-- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-41m4)
-- [Devoxx: Inspiring the Next Generations](https://dev.to/scale_youtube/devoxx-inspiring-the-next-generations-4cjc)
-- [Redis](https://dev.to/algon31/redis-4abo)
+- [Laravel AI Agent That Chats with Telex.im](https://dev.to/usenmfon_uko/laravel-ai-agent-that-chats-with-telexim-2elj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
