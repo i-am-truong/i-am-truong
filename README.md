@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Career Doesn&#39;t Have to Be a Straight Line &lpar;And That&#39;s More Than OK&rpar;](https://dev.to/milanlatinovic/your-career-doesnt-have-to-be-a-straight-line-and-thats-more-than-ok-5365)
+- [Create a Text Editor With Go - Setup](https://dev.to/alcb1310/create-a-text-editor-with-go-setup-58ej)
+- [Coding Challenge Practice - Question 45](https://dev.to/tomivan/coding-challenge-practice-question-45-4g6i)
+- [#From Cursor to Kiro: Building Agapai&#39;s AI-Powered WhatsApp Agents for Kiroween 🎃](https://dev.to/aablanquicet27/from-cursor-to-kiro-building-agapais-ai-powered-whatsapp-agents-for-kiroween-4i2c)
 - [🧠 I built a full system monitor in Bash — and fought awk along the way 💀](https://dev.to/danlinx2004x/i-built-a-full-system-monitor-in-bash-and-fought-awk-along-the-way-53ge)
-- [Molecular Alchemy: AI-Powered Design of Novel Compounds by Arvind Sundararajan](https://dev.to/arvind_sundararajan/molecular-alchemy-ai-powered-design-of-novel-compounds-by-arvind-sundararajan-23mc)
-- [The Problem Space: Why Modern Banking Infrastructure is Broken](https://dev.to/mharris021/the-problem-space-why-modern-banking-infrastructure-is-broken-5g60)
-- [Effortless PostgreSQL Environment in Docker For Windows](https://dev.to/sandipm03/effortless-postgresql-environment-in-docker-for-windows-3i13)
-- [Laravel AI Agent That Chats with Telex.im](https://dev.to/usenmfon_uko/laravel-ai-agent-that-chats-with-telexim-2elj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
