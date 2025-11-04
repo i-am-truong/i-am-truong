@@ -78,15 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Every Sunday, I Refactor Old Code and It’s the Smartest Habit I’ve Ever Built](https://dev.to/hadil/every-sunday-i-refactor-old-code-and-its-the-smartest-habit-ive-ever-built-2k7)
-- [Refactoring Mass Push Notifications: From Offset to Cursor Pagination](https://dev.to/sangwoo_rhie/refactoring-mass-push-notifications-from-offset-to-cursor-pagination-52af)
-- [From Zero to AI Agent: How I Built Codexa in 24 Hours with Mastra and Telex.im](https://dev.to/victorion0/from-zero-to-ai-agent-how-i-built-codexa-in-24-hours-with-mastra-and-telexim-424n)
-- [Big news 🚀 Stormkit is now fully open source! This has been my dream for so long, and now it came true! 
-
-Here&#39;s the repo: https://github.com/stormkit-io/stormkit-io
-
-Let&#39;s build together!](https://dev.to/svedova/big-news-stormkit-is-now-fully-open-source-this-has-been-my-dream-for-so-long-and-now-it-came-1pgi)
-- [&lpar;aiohttp &amp; asyncio&rpar; vs Requests: Comparing Python HTTP Libraries](https://dev.to/ashutoshsarangi/aiohttp-asyncio-vs-requests-comparing-python-http-libraries-46j9)
+- [Common LLM Mistakes in Project Management and How to Fix Them](https://dev.to/sahil_aggarwal/common-llm-mistakes-in-project-management-and-how-to-fix-them-2d67)
+- [How JavaScript Works: The Runtime Environment](https://dev.to/adelstiti/how-javascript-works-the-runtime-environment-3e52)
+- [Why Developers Should Study Human Behavior Before Code](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-developers-should-study-human-behavior-before-code-j1n)
+- [A Lightweight Web Component for Building Custom Circular Sliders](https://dev.to/jqueryscript/a-lightweight-web-component-for-building-custom-circular-sliders-3nd4)
+- [[Boost]](https://dev.to/wisdom_emmanuel_c7ccf3411/-2eji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
