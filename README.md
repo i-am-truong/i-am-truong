@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Great Flattening and AI-era middle managers?](https://dev.to/jay_all_day/what-is-great-flattening-and-ai-era-middle-managers-2p5b)
 - [Headless Adventures: From CMS to Frontend Without Losing Your Mind &lpar;2&rpar;](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-2-4k0o)
 - [Top 10 AI Features for Modern WYSIWYG Editors](https://dev.to/froala_e3824d66439393cbce/top-10-ai-features-for-modern-wysiwyg-editors-1bho)
 - [Turning Photos Into 3D Gold: The Power of Differentiable Rendering](https://dev.to/arvind_sundararajan/turning-photos-into-3d-gold-the-power-of-differentiable-rendering-36jm)
 - [From Vibe Coding to Informed Development: How Codalio PRD Transforms Your Cursor Workflow](https://dev.to/codalio/from-vibe-coding-to-informed-development-how-codalio-prd-transforms-your-cursor-workflow-2cd2)
-- [El otro Java + Script, o cómo hacer scripting con Java](https://dev.to/gekyzo/el-otro-java-script-o-como-hacer-scripting-con-java-1m1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
