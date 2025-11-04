@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [👻 Scraping the Specter: Why my Kiroween ghost recorder failed and how I rebooted it](https://dev.to/alexandrammr/scraping-the-specter-why-my-kiroween-ghost-recorder-failed-and-how-i-rebooted-it-3dm4)
+- [Arquitetura da Proteção de Dados: Encoding, Hashing e Criptografia](https://dev.to/jaovitm/arquitetura-da-protecao-de-dados-encoding-hashing-e-criptografia-63k)
 - [What is Great Flattening and AI-era middle managers?](https://dev.to/jay_all_day/what-is-great-flattening-and-ai-era-middle-managers-2p5b)
 - [Headless Adventures: From CMS to Frontend Without Losing Your Mind &lpar;2&rpar;](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-2-4k0o)
 - [Top 10 AI Features for Modern WYSIWYG Editors](https://dev.to/froala_e3824d66439393cbce/top-10-ai-features-for-modern-wysiwyg-editors-1bho)
-- [Turning Photos Into 3D Gold: The Power of Differentiable Rendering](https://dev.to/arvind_sundararajan/turning-photos-into-3d-gold-the-power-of-differentiable-rendering-36jm)
-- [From Vibe Coding to Informed Development: How Codalio PRD Transforms Your Cursor Workflow](https://dev.to/codalio/from-vibe-coding-to-informed-development-how-codalio-prd-transforms-your-cursor-workflow-2cd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
