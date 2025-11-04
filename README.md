@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cheapest cPanel web hosts I tried in 2025 that don&#39;t suck](https://dev.to/gzac/cheapest-cpanel-web-hosts-i-tried-24p1)
+- [Написання власного pet-project: як з&#39;явилася ця прекрасна ідея.](https://dev.to/khrystyna_mykhailiuk_b17e/napisannia-vlasnogho-pet-project-iak-ziavilasia-tsia-priekrasna-idieia-4adk)
+- [Backend Engineer &amp; MLOps Lead &lpar;Temporary Assignment&rpar;](https://dev.to/amy_pruettshewmake_e6634/backend-engineer-mlops-lead-temporary-assignment-2ndc)
+- [AI won’t replace you, but bad AI habits will](https://dev.to/dev_tips/ai-wont-replace-you-but-bad-ai-habits-will-3p95)
 - [Project: “Multi-Web Server + Shared Files + Backup Storage”](https://dev.to/jumptotech/project-multi-web-server-shared-files-backup-storage-4i4p)
-- [Building a Features Bento Grid for My First UI Template](https://dev.to/sushilmagare10/building-a-features-bento-grid-for-my-first-ui-template-220a)
-- [Building &amp; Integrating a Microservice Text Transformer Agent for HNG + Telex.im](https://dev.to/adewaletech/building-integrating-a-microservice-text-transformer-agent-for-hng-telexim-55ib)
-- [useLaunchDarkly hook in Chef codebase.](https://dev.to/ramunarasinga-11/uselaunchdarkly-hook-in-chef-codebase-2440)
-- [Cloud Practitioner Exam Guide](https://dev.to/aws-builders/cloud-practitioner-exam-guide-243h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
