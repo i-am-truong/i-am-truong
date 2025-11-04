@@ -78,11 +78,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Use AI to Build Frontend Apps: My Candid, Messy Process](https://dev.to/blackgirlbytes/how-i-use-ai-to-build-frontend-apps-my-candid-messy-process-3ehk)
-- [Serverless Architectures: Simplifying Development with the Cloud](https://dev.to/softwaredeveloper01/serverless-architectures-simplifying-development-with-the-cloud-54fj)
-- [A beginner&#39;s guide to the Any-Comfyui-Workflow model by Comfyui on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-any-comfyui-workflow-model-by-comfyui-on-replicate-165i)
-- [You Don&#39;t Always Need useCallback and useMemo](https://dev.to/danishaft/you-dont-always-need-usecallback-and-usememo-47op)
-- [通过 9Proxy 测试本地化网站，体验前所未有的高精度](https://dev.to/lopezjessicancmxe_e881660/tong-guo-9proxy-ce-shi-ben-di-hua-wang-zhan-ti-yan-qian-suo-wei-you-de-gao-jing-du-27m3)
+- [Install MinGW-w64 on Windows 11 &lpar;2025 November&rpar;](https://dev.to/prastha/install-mingw-w64-on-windows-11-2025-november-acg)
+- [Building Resilient Defenses: A Practical Guide to Modern DDoS Attack Mitigation](https://dev.to/jeremygao/building-resilient-defenses-a-practical-guide-to-modern-ddos-attack-mitigation-43a7)
+- [Most AI startups fail within 12–24 months, not because of weak technology, but because of weak foundations.
+
+After building ReThynk AI and observing hundreds of AI founders, here’s what I’ve learned about why they fail!!](https://dev.to/jaideepparashar/most-ai-startups-fail-within-12-24-months-not-because-of-weak-technology-but-because-of-weak-4pi2)
+- [Mastra agent and Telex equals super integration](https://dev.to/frankdev20/mastra-agent-and-telex-equals-super-integration-3149)
+- [SQL: is there a better way to code this?](https://dev.to/david_kershaw_b6916404da6/sql-is-there-a-better-way-to-code-this-3ahg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
