@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pure CSS audio visualizer](https://dev.to/prahalad/pure-css-audio-visualizer-114d)
 - [Implementing JWT Authentication in Rust using Axum](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-using-axum-33n0)
 - [The Truth About Generative AI Replacing Data Scientists in 2026](https://dev.to/vishal_more_02990955c9358/the-truth-about-generative-ai-replacing-data-scientists-in-2026-4j0j)
 - [Docker networking: How to connect containers in a full-stack project](https://dev.to/deborahemeni1/docker-networking-how-to-connect-containers-in-a-full-stack-project-3l98)
 - [The Dark Side of Automation: When &quot;Auto&quot; Breaks Your Security Model](https://dev.to/anderson_leite/the-dark-side-of-automation-when-auto-breaks-your-security-model-part-1-1c88)
-- [Spatial Reasoning Unleashed: Causal Language Models for Smarter Spatial Data](https://dev.to/arvind_sundararajan/spatial-reasoning-unleashed-causal-language-models-for-smarter-spatial-data-1mii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
