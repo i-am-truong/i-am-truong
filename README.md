@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Effortless PostgreSQL Environment in Docker For Windows](https://dev.to/sandipm03/effortless-postgresql-environment-in-docker-for-windows-3i13)
 - [How to use SQLite3 in Node.js &lpar;full clear documentation for beginners&rpar;](https://dev.to/jahongir2007/how-to-use-sqlite3-in-nodejs-full-clear-documentation-for-beginners-5epd)
 - [How OAuth, MCP, and the OpenAI Apps SDK, Power the Next Generation of Interactive AI Experiences &lpar;with Stytch &amp; OpenAI&rpar;](https://dev.to/codingcatdev/how-oauth-mcp-and-the-openai-apps-sdk-power-the-next-generation-of-interactive-ai-experiences-1agm)
 - [How Reasoning LLMs Are Challenging Orchestration](https://dev.to/onepoint/how-reasoning-llms-are-challenging-orchestration-42pm)
 - [🚀 A Fun Tour of Go’s Official Website!](https://dev.to/ahmed112/a-fun-tour-of-gos-official-website-47pn)
-- [Modern Card Hover Animations, CSS and JavaScript](https://dev.to/kadenwildauer/modern-card-hover-animations-css-and-javascript-3cg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
