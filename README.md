@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 AI Features for Modern WYSIWYG Editors](https://dev.to/froala_e3824d66439393cbce/top-10-ai-features-for-modern-wysiwyg-editors-1bho)
+- [Building PhishNet: An AI Cybersecurity Agent for Detecting Phishing Threats with Mastra](https://dev.to/yazzzzthecreator/building-phishnet-an-ai-cybersecurity-agent-for-detecting-phishing-threats-with-mastra-2nd8)
 - [Hetzner Servers Benchmarks](https://dev.to/xcs/hetzner-servers-benchmarks-28f8)
 - [Unlock clearer Rust dependency insight with dep-insight](https://dev.to/eshanized/unlock-clearer-rust-dependency-insight-with-dep-insight-16kl)
 - [When Your Live Region Isn&#39;t Live: Fixing aria-live in Angular, React, and Vue](https://dev.to/dkoppenhagen/when-your-live-region-isnt-live-fixing-aria-live-in-angular-react-and-vue-1g0j)
-- [ESODSAKE : The Snake That Trolls Me with AI and Burns My Ego](https://dev.to/0rb1t4lsn4k3r/esodsake-the-snake-that-trolls-me-with-ai-and-burns-my-ego-485)
-- [10 AI Coding Patterns That&#39;ll Make You Look Like a Wizard 🧙‍♂️](https://dev.to/danishashko/10-ai-coding-patterns-thatll-make-you-look-like-a-wizard-56do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
