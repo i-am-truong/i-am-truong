@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 24: Python Countdown with Boom – Reverse Loop Printing &quot;Boom&quot; on Multiples of 3](https://dev.to/shahrouzlogs/day-24-python-countdown-with-boom-reverse-loop-printing-boom-on-multiples-of-3-32b5)
-- [Transforming Quality Control with Vision-Guided Inspection Systems](https://dev.to/titanteal/transforming-quality-control-with-vision-guided-inspection-systems-367h)
-- [Envar — Centrally manage environment variables to switch per directory](https://dev.to/kakkun61/envar-centrally-manage-environment-variables-to-switch-per-directory-4d2n)
-- [📞 I&#39;m Not a Coder but Used Claude to Build a Free AI Answering Service](https://dev.to/michael_esola_2b72a138c22/im-not-a-coder-but-used-claude-to-build-a-free-ai-answering-service-1ml2)
-- [Using Claude, Perplexity, v0, ChatGPT, etc to Make Tech Apps and Write Content](https://dev.to/vtempest/using-claude-perplexity-v0-chatgpt-etc-to-make-tech-apps-and-write-content-4odo)
+- [How an API Monetization Platform Boosts Developer Revenue](https://dev.to/author_shivani_9c765c8db9/how-an-api-monetization-platform-boosts-developer-revenue-4nho)
+- [Level 3: Building the Database Foundation with Rust + PostgreSQL](https://dev.to/manjushaps/level-3-building-the-database-foundation-with-rust-postgresql-3gj6)
+- [🚀 Exploring Kwala: The No-Code Powerhouse for Blockchain Backend Automation](https://dev.to/sauravkumar8178/exploring-kwala-the-no-code-powerhouse-for-blockchain-backend-automation-3db6)
+- [Part 5: Building Station Station - Should You Use Spec-Driven Development?](https://dev.to/koustubh/part-5-building-station-station-should-you-use-spec-driven-development-2i7b)
+- [Part 4: Building Station Station - Where SDD Helped &lpar;and Where It Didn&#39;t&rpar;](https://dev.to/koustubh/part-4-building-station-station-where-sdd-helped-and-where-it-didnt-3f7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
