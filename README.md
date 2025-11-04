@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ESODSAKE : The Snake That Trolls Me with AI and Burns My Ego](https://dev.to/0rb1t4lsn4k3r/esodsake-the-snake-that-trolls-me-with-ai-and-burns-my-ego-485)
+- [10 AI Coding Patterns That&#39;ll Make You Look Like a Wizard 🧙‍♂️](https://dev.to/danishashko/10-ai-coding-patterns-thatll-make-you-look-like-a-wizard-56do)
+- [Run LangChain Locally in 15 Minutes &lpar;Without a Single API Key&rpar;](https://dev.to/fabiothiroki/run-langchain-locally-in-15-minutes-without-a-single-api-key-1j8m)
 - [Making Services Discoverable with ERC-8004: Trustless Agent Registration with Filecoin Pin](https://dev.to/hammertoe/making-services-discoverable-with-erc-8004-trustless-agent-registration-with-filecoin-pin-1al3)
 - [Framework Lock-In: Are you building a product—or just a framework extension?](https://dev.to/amirsaeed_skomjani/framework-lock-in-are-you-building-a-product-or-just-a-framework-extension-1c4f)
-- [Your Career Doesn&#39;t Have to Be a Straight Line &lpar;And That&#39;s More Than OK&rpar;](https://dev.to/milanlatinovic/your-career-doesnt-have-to-be-a-straight-line-and-thats-more-than-ok-5365)
-- [Create a Text Editor With Go - Setup](https://dev.to/alcb1310/create-a-text-editor-with-go-setup-58ej)
-- [Coding Challenge Practice - Question 45](https://dev.to/tomivan/coding-challenge-practice-question-45-4g6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
