@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Math.random, friend or foe?](https://dev.to/opbright/mathrandom-friend-or-foe-148o)
-- [Math.random, friend or foe?](https://dev.to/opbright/mathrandom-friend-or-foe-38b0)
-- [Vibe Coding Advantages and Drawbacks for Different Types of Users](https://dev.to/momen_hq/vibe-coding-advantages-and-drawbacks-for-different-types-of-users-1fjk)
-- [How We Built the Ultimate AI Content Generator Plugin for PayloadCMS](https://dev.to/mygom/how-we-built-the-ultimate-ai-content-generator-plugin-for-payloadcms-2jb1)
-- [Automating Azure SFTP deployment with Terraform](https://dev.to/techielass/automating-azure-sftp-deployment-with-terraform-4355)
+- [MySQL Transactions &amp; Data Integrity in Laravel](https://dev.to/addwebsolutionpvtltd/mysql-transactions-data-integrity-in-laravel-2g65)
+- [Afraid of AI taking your job? Learn svg!](https://dev.to/nikhnp/afraid-of-ai-taking-your-job-learn-svg-5c87)
+- [Ditch the Manual Chore: Automating Releases and Versioning with release-please](https://dev.to/marksie1988/ditch-the-manual-chore-automating-releases-and-versioning-with-release-please-2kp0)
+- [Adaptive Sorting Visualizer](https://dev.to/dheeraj_kumar_99ad161d4e8/adaptive-sorting-visualizer-5b95)
+- [How to Design a Wooden Toy Car using 3D CAD Software](https://dev.to/julia970/how-to-design-a-wooden-toy-car-using-3d-cad-software-5569)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
