@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-2372)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1mco)
-- [How to Prove to Clients That Your Firm’s Cloud Is Secure: Certifications, Audits, and Building Trust](https://dev.to/heyjoshlee/how-to-prove-to-clients-that-your-firms-cloud-is-secure-certifications-audits-and-building-trust-3gl3)
-- [How To Build APIs That Scale Without Burning Out](https://dev.to/toluxx/how-to-build-apis-that-scale-without-burning-out-2n2j)
-- [I Replaced ESLint &amp; Prettier with This ⚡](https://dev.to/thatanjan/i-replaced-eslint-prettier-with-this-fkn)
+- [Level Up Your Terminal Workflow: Helix + Yazi](https://dev.to/albz/level-up-your-terminal-workflow-helix-yazi-1e4)
+- [AI Workflow Integration: From Models to Methods, How Engineering Teams Will Change](https://dev.to/parthibanrajasekaran/ai-workflow-integration-from-models-to-methods-how-engineering-teams-will-change-3aff)
+- [Real-Time Cryptocurrency Data Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/real-time-cryptocurrency-data-pipeline-3dpd)
+- [Building an AI-Powered Recipe Assistant with Agentic Postgres: A Deliciously Data-Driven Adventure 🍳🤖](https://dev.to/aniruddhaadak/building-an-ai-powered-recipe-assistant-with-agentic-postgres-a-deliciously-data-driven-adventure-bcp)
+- [Micro Frontends em Angular: Guia Prático com Module Federation](https://dev.to/ghabryel/micro-frontends-em-angular-guia-pratico-com-module-federation-3jbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
