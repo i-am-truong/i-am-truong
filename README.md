@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Edge Cloud: Where Network Efficiency Meets Customer Experience](https://dev.to/abdul_shamim/edge-cloud-where-network-efficiency-meets-customer-experience-5d72)
+- [TCP vs UDP: Choosing the Right Protocol for Your Node.js Application](https://dev.to/sudiip__17/tcp-vs-udp-choosing-the-right-protocol-for-your-nodejs-application-4j0j)
+- [Component Composition That Worked for Me](https://dev.to/vaisakh_krishnan_60974644/component-composition-that-worked-for-me-2j90)
+- [How Verdent Deck Supercharged My Workflow - Building Apps with Multiple AI Agents in Parallel](https://dev.to/andrewbaisden/how-verdent-deck-supercharged-my-workflow-building-apps-with-multiple-ai-agents-in-parallel-3o5g)
 - [Stop Using jQuery: Master Vanilla JavaScript DOM Manipulation in 2025](https://dev.to/sizan_mahmud0_e7c3fd0cb68/stop-using-jquery-master-vanilla-javascript-dom-manipulation-in-2025-2kf2)
-- [Top 5 Internship Portals Every Student Should Explore](https://dev.to/iteyonikservices/top-5-internship-portals-every-student-should-explore-2ho0)
-- [Why Most DevOps Engineers Only Scratch the Surface of Docker and Kubernetes &lpar;and How to Go Deeper&rpar;](https://dev.to/srinivasamcjf/why-most-devops-engineers-only-scratch-the-surface-of-docker-and-kubernetes-and-how-to-go-deeper-2ach)
-- [Machine Learning Zoomcamp Week 5](https://dev.to/ladys/machine-learning-zoomcamp-week-5-25a3)
-- [Transforming Enterprise Strategy through Decision Intelligence with Lumenn AI](https://dev.to/ravi_teja_4/transforming-enterprise-strategy-through-decision-intelligence-with-lumenn-ai-3ppn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
