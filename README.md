@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Launching LightSpeedUp: Hosting with network isolation - 70% cheaper than AWS](https://dev.to/lightspeedup/launching-lightspeedup-hosting-with-network-isolation-70-cheaper-than-aws-5c6c)
+- [Tool to create free n8n flows without login &lpar;in beta&rpar;](https://dev.to/jawuilp/tool-to-create-free-n8n-flows-without-login-in-beta-3j5i)
+- [Spooky Spider Web Studio](https://dev.to/ignaciah/spooky-spider-web-studio-29m9)
+- [Real-Time Streaming in .NET SignalR — Live Data Like Trading Apps](https://dev.to/morteza-jangjoo/real-time-streaming-in-net-signalr-live-data-like-trading-apps-45h4)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-147c)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-42i0)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-c06)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1jo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
