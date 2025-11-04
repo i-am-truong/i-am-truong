@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project: “Multi-Web Server + Shared Files + Backup Storage”](https://dev.to/jumptotech/project-multi-web-server-shared-files-backup-storage-4i4p)
 - [Building a Features Bento Grid for My First UI Template](https://dev.to/sushilmagare10/building-a-features-bento-grid-for-my-first-ui-template-220a)
 - [Building &amp; Integrating a Microservice Text Transformer Agent for HNG + Telex.im](https://dev.to/adewaletech/building-integrating-a-microservice-text-transformer-agent-for-hng-telexim-55ib)
+- [useLaunchDarkly hook in Chef codebase.](https://dev.to/ramunarasinga-11/uselaunchdarkly-hook-in-chef-codebase-2440)
 - [Cloud Practitioner Exam Guide](https://dev.to/aws-builders/cloud-practitioner-exam-guide-243h)
-- [Unveiling the Dynamic World of &quot;Social Media Girls&quot;: Influence, Community, and Evolution](https://dev.to/darya_khalifa/unveiling-the-dynamic-world-of-social-media-girls-influence-community-and-evolution-4fj2)
-- [Build Your Own Forum with FastAPI: Step 10 - Categories](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-10-categories-2ecl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
