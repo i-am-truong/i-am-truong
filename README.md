@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Как я разработал фильтр товаров для категории «Промышленные масла» на PiterTrade.ru](https://dev.to/nagibin/kak-ia-razrabotal-filtr-tovarov-dlia-katieghorii-na-pitertraderu-2dc9)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2mh)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-41mk)
-- [China&#39;s AI Diplomacy](https://dev.to/rawveg/chinas-ai-diplomacy-2hf9)
-- [Lesson 19: Freqtrade Visualization Analysis Tools](https://dev.to/henry_lin_3ac6363747f45b4/lesson-19-freqtrade-visualization-analysis-tools-1aej)
+- [Generating Application Specific Go Documentation Using Go AST and Antora](https://dev.to/frosnerd/generating-application-specific-go-documentation-using-go-ast-and-antora-aho)
+- [How Indoor Air Quality Affects Sleep &amp; Productivity](https://dev.to/toby-patrick/how-indoor-air-quality-affects-sleep-productivity-4688)
+- [How Do Zapier Specialists Automate Data Flow?](https://dev.to/asharmalik/how-do-zapier-specialists-automate-data-flow-4cgn)
+- [My Journey Into Cloud Engineering: Why I Decided to Start](https://dev.to/adebayo_ganiyatoladunjoy/my-journey-into-cloud-engineering-why-i-decided-to-start-1n54)
+- [How to build a Heapless Vector using `MaybeUninit&lt;T&gt;` for Better Performance.](https://dev.to/allwelldotdev/how-to-build-a-heapless-vector-using-maybeuninit-for-better-performance-ojo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
