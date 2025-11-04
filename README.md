@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monthly Partitioning and Automatic Rotation of Tables in PostgreSQL &lpar;AWS RDS&rpar;](https://dev.to/ivajofranc/monthly-partitioning-and-automatic-rotation-of-tables-in-postgresql-aws-rds-25pl)
+- [Particionamiento mensual y rotación automática de tablas en PostgreSQL &lpar;AWS RDS&rpar;](https://dev.to/ivajofranc/particionamiento-mensual-y-rotacion-automatica-de-tablas-en-postgresql-aws-rds-2p3c)
 - [Launching LightSpeedUp: Hosting with network isolation - 70% cheaper than AWS](https://dev.to/lightspeedup/launching-lightspeedup-hosting-with-network-isolation-70-cheaper-than-aws-5c6c)
 - [Tool to create free n8n flows without login &lpar;in beta&rpar;](https://dev.to/jawuilp/tool-to-create-free-n8n-flows-without-login-in-beta-3j5i)
 - [Spooky Spider Web Studio](https://dev.to/ignaciah/spooky-spider-web-studio-29m9)
-- [Real-Time Streaming in .NET SignalR — Live Data Like Trading Apps](https://dev.to/morteza-jangjoo/real-time-streaming-in-net-signalr-live-data-like-trading-apps-45h4)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
