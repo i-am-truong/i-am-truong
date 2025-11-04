@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Seeking tech-based ideas to address student mental health challenges](https://dev.to/devakesu/seeking-tech-based-ideas-to-address-student-mental-health-challenges-5g97)
+- [From Vulnerable to Production-Ready: A Real-World Security Hardening Journey](https://dev.to/kagin_schulte_1032dccabe4/from-vulnerable-to-production-ready-a-real-world-security-hardening-journey-59ap)
+- [Elevating Standards in Modern Business: The Professional Evolution of Rey Denzo Kazemi](https://dev.to/chrisspence_29a9dd7dd/elevating-standards-in-modern-business-the-professional-evolution-of-rey-denzo-kazemi-p1n)
 - [Modeling Relationships With Hibernate ORM and MongoDB](https://dev.to/mongodb/modeling-relationships-with-hibernate-orm-and-mongodb-23h)
 - [Getting Started With Hibernate ORM and MongoDB](https://dev.to/mongodb/getting-started-with-hibernate-orm-and-mongodb-35lp)
-- [visibilitychange: Ever wondered how your browser knows when you leave a tab?](https://dev.to/pooja_garva/visibilitychange-ever-wondered-how-your-browser-knows-when-you-leave-a-tab-4l3d)
-- [What is the use of span tag?Give an example.](https://dev.to/divya_divya_b18f82b19353a/what-is-the-use-of-span-taggive-an-example-5fpm)
-- [Linux Essentials: Managing Files and Folders in a Simulated Company Setup](https://dev.to/adeyemo/linux-essentials-managing-files-and-folders-in-a-simulated-company-setup-1g3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
