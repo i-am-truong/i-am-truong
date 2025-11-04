@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [Getting Started With Hibernate ORM and MongoDB](https://dev.to/mongodb/getting-started-with-hibernate-orm-and-mongodb-35lp)
 - [visibilitychange: Ever wondered how your browser knows when you leave a tab?](https://dev.to/pooja_garva/visibilitychange-ever-wondered-how-your-browser-knows-when-you-leave-a-tab-4l3d)
 - [What is the use of span tag?Give an example.](https://dev.to/divya_divya_b18f82b19353a/what-is-the-use-of-span-taggive-an-example-5fpm)
-- [All decisions are wrong, but some are better](https://dev.to/shalvah/all-decisions-are-wrong-but-some-are-better-5gbh)
+- [Linux Essentials: Managing Files and Folders in a Simulated Company Setup](https://dev.to/adeyemo/linux-essentials-managing-files-and-folders-in-a-simulated-company-setup-1g3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
