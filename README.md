@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MySQL Transactions &amp; Data Integrity in Laravel](https://dev.to/addwebsolutionpvtltd/mysql-transactions-data-integrity-in-laravel-2g65)
-- [Afraid of AI taking your job? Learn svg!](https://dev.to/nikhnp/afraid-of-ai-taking-your-job-learn-svg-5c87)
-- [Ditch the Manual Chore: Automating Releases and Versioning with release-please](https://dev.to/marksie1988/ditch-the-manual-chore-automating-releases-and-versioning-with-release-please-2kp0)
-- [Adaptive Sorting Visualizer](https://dev.to/dheeraj_kumar_99ad161d4e8/adaptive-sorting-visualizer-5b95)
-- [How to Design a Wooden Toy Car using 3D CAD Software](https://dev.to/julia970/how-to-design-a-wooden-toy-car-using-3d-cad-software-5569)
+- [Eating Low-Hanging Frogs](https://dev.to/ingosteinke/eating-low-hanging-frogs-1boe)
+- [Why Ignoring Temporary Files Can Break Your CI/CD Pipeline](https://dev.to/srinivasamcjf/why-ignoring-temporary-files-can-break-your-cicd-pipeline-n56)
+- [Where&#39;s the notification icon 🤔 I don&#39;t see it anymore.](https://dev.to/srbhr/wheres-the-notification-icon-i-dont-see-it-anymore-3onl)
+- [The Winning Approach to AI: Plan. Prompt. Validate. Refactor.](https://dev.to/tlorent/the-winning-approach-to-ai-plan-prompt-validate-refactor-mi8)
+- [Herodotus &amp; Prime](https://dev.to/dvurechensky/herodotus-prime-9f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
