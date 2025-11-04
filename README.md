@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Library That You Must Install in Your React Application 2026](https://dev.to/ihda06/5-library-that-you-must-install-on-your-react-application-2026-4eg0)
-- [Kahn’s Algorithm and Cycle Detection in Directed Graphs](https://dev.to/haris_abdullah_b8fc481573/kahns-algorithm-and-cycle-detection-in-directed-graphs-23p6)
-- [Teamcamp vs. Linear: Which Is Right for Your Dev Team?&lpar; Best Linear Alternative &rpar;](https://dev.to/teamcamp/teamcamp-vs-linear-which-is-right-for-your-dev-team-best-linear-alternative--n5h)
-- [A Developer&#39;s Guide to Useful Apache Modules](https://dev.to/edgaras/a-developers-guide-to-useful-apache-modules-2kb7)
-- [Boo Boo Bunnies - Event RSVP Landing page for Halloween](https://dev.to/mayu2008/boo-boo-bunnies-event-rsvp-landing-page-for-halloween-eph)
+- [Using Claude, Perplexity, v0, ChatGPT, etc to Make Tech Apps and Write Content](https://dev.to/vtempest/using-claude-perplexity-v0-chatgpt-etc-to-make-tech-apps-and-write-content-4odo)
+- [Linear Search but recursive](https://dev.to/dshaw0004/linear-search-but-recursive-3756)
+- [Architectural Patterns for Securing Data: At Rest, In Transit, and At Runtime](https://dev.to/rosgluk/architectural-patterns-for-securing-data-at-rest-in-transit-and-at-runtime-8fi)
+- [Spatial Secrets: Unleashing Language Models with Unexpected Masking by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spatial-secrets-unleashing-language-models-with-unexpected-masking-by-arvind-sundararajan-1cpl)
+- [OpenAI&#39;s $38B AWS Coup Drives Amazon to Record High](https://dev.to/mabualzait/openais-38b-aws-coup-drives-amazon-to-record-high-4642)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
