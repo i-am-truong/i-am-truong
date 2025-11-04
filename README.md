@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cheapest cPanel web hosts I tried in 2025 that don&#39;t suck](https://dev.to/gzac/cheapest-cpanel-web-hosts-i-tried-24p1)
-- [Написання власного pet-project: як з&#39;явилася ця прекрасна ідея.](https://dev.to/khrystyna_mykhailiuk_b17e/napisannia-vlasnogho-pet-project-iak-ziavilasia-tsia-priekrasna-idieia-4adk)
-- [Backend Engineer &amp; MLOps Lead &lpar;Temporary Assignment&rpar;](https://dev.to/amy_pruettshewmake_e6634/backend-engineer-mlops-lead-temporary-assignment-2ndc)
-- [AI won’t replace you, but bad AI habits will](https://dev.to/dev_tips/ai-wont-replace-you-but-bad-ai-habits-will-3p95)
-- [Project: “Multi-Web Server + Shared Files + Backup Storage”](https://dev.to/jumptotech/project-multi-web-server-shared-files-backup-storage-4i4p)
+- [Top Open Source Tools for Kubernetes ML: From Development to Production](https://dev.to/jozu/top-open-source-tools-for-kubernetes-ml-from-development-to-production-78b)
+- [Get Telegram Notifications from Your Next.js App in Minutes](https://dev.to/danielle_hayes_ad529ec488/get-telegram-notifications-from-your-nextjs-app-in-minutes-28ec)
+- [GitHub API with Node.js](https://dev.to/lucaspereiradesouzat/github-api-with-nodejs-5c)
+- [GitHub API com Node.js](https://dev.to/lucaspereiradesouzat/github-api-com-nodejs-1k57)
+- [4 HTML&amp;CSS tips improve UX of your app](https://dev.to/melnik909/4-htmlcss-tips-improve-ux-of-your-app-cn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
