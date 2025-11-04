@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Terminal Workflow: Helix + Yazi](https://dev.to/albz/level-up-your-terminal-workflow-helix-yazi-1e4)
-- [AI Workflow Integration: From Models to Methods, How Engineering Teams Will Change](https://dev.to/parthibanrajasekaran/ai-workflow-integration-from-models-to-methods-how-engineering-teams-will-change-3aff)
-- [Real-Time Cryptocurrency Data Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/real-time-cryptocurrency-data-pipeline-3dpd)
-- [Building an AI-Powered Recipe Assistant with Agentic Postgres: A Deliciously Data-Driven Adventure 🍳🤖](https://dev.to/aniruddhaadak/building-an-ai-powered-recipe-assistant-with-agentic-postgres-a-deliciously-data-driven-adventure-bcp)
-- [Micro Frontends em Angular: Guia Prático com Module Federation](https://dev.to/ghabryel/micro-frontends-em-angular-guia-pratico-com-module-federation-3jbm)
+- [A Deep Dive into Multi-Transport Protocol Abstraction in Python](https://dev.to/tosin2013/a-deep-dive-into-multi-transport-protocol-abstraction-in-python-3gp5)
+- [Build Interactive Node-Based Diagrams with fg-next-draw-canvas: A React Developer&#39;s Guide](https://dev.to/fabiangftech/build-interactive-node-based-diagrams-with-fg-next-draw-canvas-a-react-developers-guide-3k5a)
+- [Complete API Authentication with Laravel 12 Sanctum](https://dev.to/ashrakt_amin/complete-api-authentication-with-laravel-12-sanctum-56l3)
+- [Teaching My Team How to Build LINQ from Scratch](https://dev.to/reenanms/teaching-my-team-how-to-build-linq-from-scratch-11p9)
+- [Product 101: Your Secret Weapon for Understanding the Business](https://dev.to/mattstratton/product-101-your-secret-weapon-for-understanding-the-business-2m6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
