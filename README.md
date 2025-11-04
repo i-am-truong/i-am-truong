@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 313 - Workslop Code](https://dev.to/mcsee/code-smell-313-workslop-code-n09)
-- [Things to Avoid in Nainital—Common Tourist Mistakes](https://dev.to/nainitallakeview/things-to-avoid-in-nainital-common-tourist-mistakes-gdk)
-- [Is Quantum Computing the Future? Let&#39;s Demystify It!](https://dev.to/karthik_n/is-quantum-computing-the-future-lets-demystify-it-368d)
-- [Jamie Sinclaire Shares 5 Tips To Build Trust Through Marketing](https://dev.to/jamiesinclaire/jamie-sinclaire-shares-5-tips-to-build-trust-through-marketing-297g)
-- [How to Solve AWS WAF Challenges with Node.js](https://dev.to/ren_joyce_cd41204d5cb261f/how-to-solve-aws-waf-challenges-with-nodejs-2obe)
+- [Stop Using jQuery: Master Vanilla JavaScript DOM Manipulation in 2025](https://dev.to/sizan_mahmud0_e7c3fd0cb68/stop-using-jquery-master-vanilla-javascript-dom-manipulation-in-2025-2kf2)
+- [Top 5 Internship Portals Every Student Should Explore](https://dev.to/iteyonikservices/top-5-internship-portals-every-student-should-explore-2ho0)
+- [Why Most DevOps Engineers Only Scratch the Surface of Docker and Kubernetes &lpar;and How to Go Deeper&rpar;](https://dev.to/srinivasamcjf/why-most-devops-engineers-only-scratch-the-surface-of-docker-and-kubernetes-and-how-to-go-deeper-2ach)
+- [Machine Learning Zoomcamp Week 5](https://dev.to/ladys/machine-learning-zoomcamp-week-5-25a3)
+- [Transforming Enterprise Strategy through Decision Intelligence with Lumenn AI](https://dev.to/ravi_teja_4/transforming-enterprise-strategy-through-decision-intelligence-with-lumenn-ai-3ppn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
