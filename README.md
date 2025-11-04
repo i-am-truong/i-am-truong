@@ -78,11 +78,15 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-3l80)
-- [3 State Management Mistakes I Wish I Knew Earlier — By Bayajit Islam](https://dev.to/bayajitislam/3-state-management-mistakes-i-wish-i-knew-earlier-by-bayajit-islam-4gp3)
-- [🦇 Spooky Night — Halloween CSS Art 🌙✨](https://dev.to/dmsmenula/spooky-night-halloween-css-art-4h0n)
-- [The Software Development Journey](https://dev.to/jedaqsaul/the-software-development-journey-2g6j)
-- [💾 Custom &quot;Save as Draft Without Validation&quot; Button with Auto-Redirect in Joget Forms](https://dev.to/exploringmylifeworks/custom-save-as-draft-without-validation-button-with-auto-redirect-in-joget-forms-1839)
+- [Every Sunday, I Refactor Old Code and It’s the Smartest Habit I’ve Ever Built](https://dev.to/hadil/every-sunday-i-refactor-old-code-and-its-the-smartest-habit-ive-ever-built-2k7)
+- [Refactoring Mass Push Notifications: From Offset to Cursor Pagination](https://dev.to/sangwoo_rhie/refactoring-mass-push-notifications-from-offset-to-cursor-pagination-52af)
+- [From Zero to AI Agent: How I Built Codexa in 24 Hours with Mastra and Telex.im](https://dev.to/victorion0/from-zero-to-ai-agent-how-i-built-codexa-in-24-hours-with-mastra-and-telexim-424n)
+- [Big news 🚀 Stormkit is now fully open source! This has been my dream for so long, and now it came true! 
+
+Here&#39;s the repo: https://github.com/stormkit-io/stormkit-io
+
+Let&#39;s build together!](https://dev.to/svedova/big-news-stormkit-is-now-fully-open-source-this-has-been-my-dream-for-so-long-and-now-it-came-1pgi)
+- [&lpar;aiohttp &amp; asyncio&rpar; vs Requests: Comparing Python HTTP Libraries](https://dev.to/ashutoshsarangi/aiohttp-asyncio-vs-requests-comparing-python-http-libraries-46j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
