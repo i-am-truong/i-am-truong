@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Problem Space: Why Modern Banking Infrastructure is Broken](https://dev.to/mharris021/the-problem-space-why-modern-banking-infrastructure-is-broken-5g60)
 - [Effortless PostgreSQL Environment in Docker For Windows](https://dev.to/sandipm03/effortless-postgresql-environment-in-docker-for-windows-3i13)
-- [How to use SQLite3 in Node.js &lpar;full clear documentation for beginners&rpar;](https://dev.to/jahongir2007/how-to-use-sqlite3-in-nodejs-full-clear-documentation-for-beginners-5epd)
-- [How OAuth, MCP, and the OpenAI Apps SDK, Power the Next Generation of Interactive AI Experiences &lpar;with Stytch &amp; OpenAI&rpar;](https://dev.to/codingcatdev/how-oauth-mcp-and-the-openai-apps-sdk-power-the-next-generation-of-interactive-ai-experiences-1agm)
-- [How Reasoning LLMs Are Challenging Orchestration](https://dev.to/onepoint/how-reasoning-llms-are-challenging-orchestration-42pm)
-- [🚀 A Fun Tour of Go’s Official Website!](https://dev.to/ahmed112/a-fun-tour-of-gos-official-website-47pn)
+- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-41m4)
+- [Devoxx: Inspiring the Next Generations](https://dev.to/scale_youtube/devoxx-inspiring-the-next-generations-4cjc)
+- [Redis](https://dev.to/algon31/redis-4abo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
