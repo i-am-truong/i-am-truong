@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [ESODSAKE : The Snake That Trolls Me with AI and Burns My Ego](https://dev.to/0rb1t4lsn4k3r/esodsake-the-snake-that-trolls-me-with-ai-and-burns-my-ego-485)
 - [10 AI Coding Patterns That&#39;ll Make You Look Like a Wizard 🧙‍♂️](https://dev.to/danishashko/10-ai-coding-patterns-thatll-make-you-look-like-a-wizard-56do)
 - [Run LangChain Locally in 15 Minutes &lpar;Without a Single API Key&rpar;](https://dev.to/fabiothiroki/run-langchain-locally-in-15-minutes-without-a-single-api-key-1j8m)
-- [Making Services Discoverable with ERC-8004: Trustless Agent Registration with Filecoin Pin](https://dev.to/hammertoe/making-services-discoverable-with-erc-8004-trustless-agent-registration-with-filecoin-pin-1al3)
+- [CORS and Same-Origin Policy Deep Dive](https://dev.to/omriluz1/cors-and-same-origin-policy-deep-dive-13l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
