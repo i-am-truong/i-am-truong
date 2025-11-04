@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Revamping the Organization Dashboard for OWASP BLT: My GSoC 2025 Journey](https://dev.to/rinkitadhana/revamping-the-organization-dashboard-for-owasp-blt-my-gsoc-2025-journey-29i5)
+- [Grupos de Segurança e Portas Padrão: Entendendo os Firewalls da AWS](https://dev.to/sinngjpeg/grupos-de-seguranca-e-portas-padrao-entendendo-os-firewalls-da-aws-3cje)
 - [Gerenciamento Feature Flag em Azure Functions](https://dev.to/caramelo-ti/gerenciamento-feature-flag-em-azure-functions-1e5n)
 - [Tipos de EC2 Instance](https://dev.to/sinngjpeg/tipos-de-ec2-instance-380b)
 - [Building an AI-Powered Focus Tracker for Telex Using Python and Gemini API](https://dev.to/mcgibson/building-an-ai-powered-focus-tracker-for-telex-using-python-and-gemini-api-4f88)
-- [AI Wrapper Companies: Is This Real or Just API Theater?](https://dev.to/pinishv/ai-wrapper-companies-is-this-real-or-just-api-theater-1822)
-- [Unlock the Power of GANs: Train with Tiny Datasets!](https://dev.to/arvind_sundararajan/unlock-the-power-of-gans-train-with-tiny-datasets-3ai5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
