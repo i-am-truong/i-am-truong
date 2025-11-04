@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Eating Low-Hanging Frogs](https://dev.to/ingosteinke/eating-low-hanging-frogs-1boe)
-- [Why Ignoring Temporary Files Can Break Your CI/CD Pipeline](https://dev.to/srinivasamcjf/why-ignoring-temporary-files-can-break-your-cicd-pipeline-n56)
-- [Where&#39;s the notification icon 🤔 I don&#39;t see it anymore.](https://dev.to/srbhr/wheres-the-notification-icon-i-dont-see-it-anymore-3onl)
-- [The Winning Approach to AI: Plan. Prompt. Validate. Refactor.](https://dev.to/tlorent/the-winning-approach-to-ai-plan-prompt-validate-refactor-mi8)
-- [Herodotus &amp; Prime](https://dev.to/dvurechensky/herodotus-prime-9f0)
+- [Implementing JWT Authentication in Rust using Axum](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-using-axum-33n0)
+- [The Truth About Generative AI Replacing Data Scientists in 2026](https://dev.to/vishal_more_02990955c9358/the-truth-about-generative-ai-replacing-data-scientists-in-2026-4j0j)
+- [Docker networking: How to connect containers in a full-stack project](https://dev.to/deborahemeni1/docker-networking-how-to-connect-containers-in-a-full-stack-project-3l98)
+- [The Dark Side of Automation: When &quot;Auto&quot; Breaks Your Security Model](https://dev.to/anderson_leite/the-dark-side-of-automation-when-auto-breaks-your-security-model-part-1-1c88)
+- [Spatial Reasoning Unleashed: Causal Language Models for Smarter Spatial Data](https://dev.to/arvind_sundararajan/spatial-reasoning-unleashed-causal-language-models-for-smarter-spatial-data-1mii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
