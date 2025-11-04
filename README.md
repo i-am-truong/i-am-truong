@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Get started with Google Workspace Flows](https://dev.to/googleworkspace/get-started-with-google-workspace-flows-36g1)
-- [How to use variables in Workspace Flows](https://dev.to/googleworkspace/how-to-use-variables-in-workspace-flows-27ac)
-- [Security Options in WebForms Core 2](https://dev.to/elanatframework/security-options-in-webforms-core-2-2j1n)
-- [1 billion JSON records, 1-second query response: Apache Doris vs. ClickHouse, Elasticsearch, and PostgreSQL](https://dev.to/apachedoris/1-billion-json-records-1-second-query-response-apache-doris-vs-clickhouse-elasticsearch-and-22m2)
-- [Revamping the Organization Dashboard for OWASP BLT: My GSoC 2025 Journey](https://dev.to/rinkitadhana/revamping-the-organization-dashboard-for-owasp-blt-my-gsoc-2025-journey-29i5)
+- [How OAuth, MCP, and the OpenAI Apps SDK, Power the Next Generation of Interactive AI Experiences &lpar;with Stytch &amp; OpenAI&rpar;](https://dev.to/codingcatdev/how-oauth-mcp-and-the-openai-apps-sdk-power-the-next-generation-of-interactive-ai-experiences-1agm)
+- [How Reasoning LLMs Are Challenging Orchestration](https://dev.to/onepoint/how-reasoning-llms-are-challenging-orchestration-42pm)
+- [🚀 A Fun Tour of Go’s Official Website!](https://dev.to/ahmed112/a-fun-tour-of-gos-official-website-47pn)
+- [Modern Card Hover Animations, CSS and JavaScript](https://dev.to/kadenwildauer/modern-card-hover-animations-css-and-javascript-3cg3)
+- [I Timed It: How I Created a 20-Step E2E Test in 6 Minutes &lpar;Using Debuggo&rpar;](https://dev.to/aragossa/i-timed-it-how-i-created-a-20-step-e2e-test-in-6-minutes-using-debuggo-33e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
