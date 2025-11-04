@@ -78,12 +78,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Common Challenges in Canary Testing and How to Overcome Them](https://dev.to/carl_max007/common-challenges-in-canary-testing-and-how-to-overcome-them-4m7h)
+- [“From Code to Content: Why I Tested ChatGPT vs Grammarly for My Blog”](https://dev.to/mess_anti_25613b50c3a1161/from-code-to-content-why-i-tested-chatgpt-vs-grammarly-for-my-blog-3m3d)
 - [Why Agentic AI Struggles in the Real World — and How to Fix It](https://dev.to/alexander_russkov_a641a31/why-agentic-ai-struggles-in-the-real-world-and-how-to-fix-it-5948)
 - [JavaScript devs, you don’t need to learn Python before building AI agents anymore
 I just wrote an article on building an AI Summarizer Agent that can summarize long texts and URLs using TypeScript.](https://dev.to/timmydee/javascript-devs-you-dont-need-to-learn-python-before-building-ai-agents-anymore-i-just-wrote-an-eoi)
 - [From AI Chaos to Context Engineering: Lessons from Building Packmind OSS](https://dev.to/arthur_magne/from-ai-chaos-to-context-engineering-lessons-from-building-packmind-oss-38g7)
-- [OCR IA 99.8% précis pour extraction factures](https://dev.to/philippe_5e14cfe574186958/ocr-ia-998-precis-pour-extraction-factures-2ck8)
-- [How to Create ‘Bingeable’ Email Campaigns That Keep Subscribers Hooked](https://dev.to/aditya-saasy/how-to-create-bingeable-email-campaigns-that-keep-subscribers-hooked-3m9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
