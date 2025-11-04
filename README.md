@@ -78,11 +78,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Summarizer Agent in TypeScript Using Mastra &lpar;Part 1&rpar;](https://dev.to/timmydee/build-an-ai-summarizer-agent-in-typescript-using-mastra-part-1-51a6)
-- [Going Full-Time NeoHaskell](https://dev.to/neohaskell/going-full-time-neohaskell-1ib)
-- [Gasless Transactions on Solana](https://dev.to/stelmitchay/gaslesstransactions-on-solana-2340)
-- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-56aj)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2de2)
+- [Why Agentic AI Struggles in the Real World — and How to Fix It](https://dev.to/alexander_russkov_a641a31/why-agentic-ai-struggles-in-the-real-world-and-how-to-fix-it-5948)
+- [JavaScript devs, you don’t need to learn Python before building AI agents anymore
+I just wrote an article on building an AI Summarizer Agent that can summarize long texts and URLs using TypeScript.](https://dev.to/timmydee/javascript-devs-you-dont-need-to-learn-python-before-building-ai-agents-anymore-i-just-wrote-an-eoi)
+- [From AI Chaos to Context Engineering: Lessons from Building Packmind OSS](https://dev.to/arthur_magne/from-ai-chaos-to-context-engineering-lessons-from-building-packmind-oss-38g7)
+- [OCR IA 99.8% précis pour extraction factures](https://dev.to/philippe_5e14cfe574186958/ocr-ia-998-precis-pour-extraction-factures-2ck8)
+- [How to Create ‘Bingeable’ Email Campaigns That Keep Subscribers Hooked](https://dev.to/aditya-saasy/how-to-create-bingeable-email-campaigns-that-keep-subscribers-hooked-3m9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
