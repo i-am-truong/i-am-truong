@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Common LLM Mistakes in Project Management and How to Fix Them](https://dev.to/sahil_aggarwal/common-llm-mistakes-in-project-management-and-how-to-fix-them-2d67)
-- [How JavaScript Works: The Runtime Environment](https://dev.to/adelstiti/how-javascript-works-the-runtime-environment-3e52)
-- [Why Developers Should Study Human Behavior Before Code](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-developers-should-study-human-behavior-before-code-j1n)
-- [A Lightweight Web Component for Building Custom Circular Sliders](https://dev.to/jqueryscript/a-lightweight-web-component-for-building-custom-circular-sliders-3nd4)
-- [[Boost]](https://dev.to/wisdom_emmanuel_c7ccf3411/-2eji)
+- [Debugging Memory Leaks in Node.js and PHP 🧠](https://dev.to/chaitanyarai3/debugging-memory-leaks-in-nodejs-and-php-4ofp)
+- [Building an AI Code Helper Agent with Mastra and Telex](https://dev.to/abanicaisse/building-an-ai-code-helper-agent-with-mastra-and-telex-1lii)
+- [The Single Source of Truth: Why Your Billing System Needs to Talk to Your CRM](https://dev.to/johnsaas/the-single-source-of-truth-why-your-billing-system-needs-to-talk-to-your-crm-3gde)
+- [Java String getBytes&lpar;&rpar; Explained: Your Ultimate Guide to Character Encoding](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-getbytes-explained-your-ultimate-guide-to-character-encoding-4emn)
+- [Wool Curtains: Which Side Faces Your Winter Window?](https://dev.to/zerogpt_plus/wool-curtains-which-side-faces-your-winter-window-58gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
