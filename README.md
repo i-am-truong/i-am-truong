@@ -78,11 +78,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pure CSS audio visualizer](https://dev.to/prahalad/pure-css-audio-visualizer-114d)
-- [Implementing JWT Authentication in Rust using Axum](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-using-axum-33n0)
-- [The Truth About Generative AI Replacing Data Scientists in 2026](https://dev.to/vishal_more_02990955c9358/the-truth-about-generative-ai-replacing-data-scientists-in-2026-4j0j)
-- [Docker networking: How to connect containers in a full-stack project](https://dev.to/deborahemeni1/docker-networking-how-to-connect-containers-in-a-full-stack-project-3l98)
-- [The Dark Side of Automation: When &quot;Auto&quot; Breaks Your Security Model](https://dev.to/anderson_leite/the-dark-side-of-automation-when-auto-breaks-your-security-model-part-1-1c88)
+- [Build an AI Summarizer Agent in TypeScript Using Mastra &lpar;Part 1&rpar;](https://dev.to/timmydee/build-an-ai-summarizer-agent-in-typescript-using-mastra-part-1-51a6)
+- [Going Full-Time NeoHaskell](https://dev.to/neohaskell/going-full-time-neohaskell-1ib)
+- [Gasless Transactions on Solana](https://dev.to/stelmitchay/gaslesstransactions-on-solana-2340)
+- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-56aj)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2de2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
