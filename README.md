@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Seeking tech-based ideas to address student mental health challenges](https://dev.to/devakesu/seeking-tech-based-ideas-to-address-student-mental-health-challenges-5g97)
-- [From Vulnerable to Production-Ready: A Real-World Security Hardening Journey](https://dev.to/kagin_schulte_1032dccabe4/from-vulnerable-to-production-ready-a-real-world-security-hardening-journey-59ap)
-- [Elevating Standards in Modern Business: The Professional Evolution of Rey Denzo Kazemi](https://dev.to/chrisspence_29a9dd7dd/elevating-standards-in-modern-business-the-professional-evolution-of-rey-denzo-kazemi-p1n)
-- [Modeling Relationships With Hibernate ORM and MongoDB](https://dev.to/mongodb/modeling-relationships-with-hibernate-orm-and-mongodb-23h)
-- [Getting Started With Hibernate ORM and MongoDB](https://dev.to/mongodb/getting-started-with-hibernate-orm-and-mongodb-35lp)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-147c)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-42i0)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-c06)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1jo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
