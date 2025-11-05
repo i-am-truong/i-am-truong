@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Similarities Between a Stored Procedure in SQL and a Function in Python](https://dev.to/ian_mwangi/similarities-between-a-stored-procedure-in-sql-and-a-function-in-python-36hc)
 - [Mastering End to End testing for Reliable Modern Software](https://dev.to/alok_kumar_6b77341922cec2/mastering-end-to-end-testing-for-reliable-modern-software-2enm)
 - [Understanding the Difference Between Subquery, CTE, and Stored Procedure](https://dev.to/ian_mwangi/understanding-the-difference-between-subquery-cte-and-stored-procedure-1k37)
 - [nderstanding Reverse Proxy with .NET &amp; SignalR &lpar;With Source Code + ZIP&rpar;](https://dev.to/morteza-jangjoo/nderstanding-reverse-proxy-with-net-signalr-with-source-code-zip-4p9)
 - [🖼️ Responsive Images: Serving the Right Image for Every Screen](https://dev.to/okoye_ndidiamaka_5e3b7d30/responsive-images-serving-the-right-image-for-every-screen-3c90)
-- [Production-Grade Python Logging Made Easier with Loguru](https://dev.to/dash0/production-grade-python-logging-made-easier-with-loguru-3bbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
