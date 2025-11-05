@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Grok AI: A Deep Dive into xAI’s Maverick Chatbot](https://dev.to/sanjaynaker/grok-ai-a-deep-dive-into-xais-maverick-chatbot-5gbn)
+- [🔄 Process Migration Between App Versions in Joget](https://dev.to/exploringmylifeworks/process-migration-between-app-versions-in-joget-bok)
+- [🚀 UV, el nuevo estándar para Python](https://dev.to/afr_dt/uv-el-nuevo-estandar-para-python-2j3p)
+- [How to Build a RAG Solution with Llama Index, ChromaDB, and Ollama](https://dev.to/sophyia/how-to-build-a-rag-solution-with-llama-index-chromadb-and-ollama-20lb)
 - [&quot;Melodic Airways Transforming Flight Routes Into Music&quot;](https://dev.to/aviral_srivastava_2c4e212/melodic-airways-transforming-flight-routes-into-music-4l72)
-- [Agentic DevOps: I Let GitHub Copilot Run My Entire CI/CD Pipeline &lpar;And Lived to Tell the Tale&rpar;](https://dev.to/gaikwadshri29/agentic-devops-i-let-github-copilot-run-my-entire-cicd-pipeline-and-lived-to-tell-the-tale-50oh)
-- [How effective is the Sabak Harbor Cybersecurity course for career growth?](https://dev.to/aman_singh_77de21b7c6110c/how-effective-is-the-sabak-harbor-cybersecurity-course-for-career-growth-fbh)
-- [CLI Agent Orchestrator: When One AI Agent Isn&#39;t Enough](https://dev.to/pinishv/cli-agent-orchestrator-when-one-ai-agent-isnt-enough-dc9)
-- [What is the better career choice, UX Design or Web Development?](https://dev.to/aman_singh_77de21b7c6110c/what-is-the-better-career-choice-ux-design-or-web-development-4h9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
