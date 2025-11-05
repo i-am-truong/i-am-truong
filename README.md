@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the `this` Keyword in JavaScript](https://dev.to/giftintech/understanding-the-this-keyword-in-javascript-4ipi)
 - [Before there was Kubernetes, there was Borg......](https://dev.to/kaustubhyerkade/before-there-was-kubernetes-there-was-borg-hfa)
-- [I Launched on Product Hunt With No Network... Here’s What Happened](https://dev.to/isakbuilds/i-launched-on-product-hunt-with-no-network-heres-what-happened-3mcm)
-- [How to send OTP codes with SMS in Node.js](https://dev.to/jahongir2007/how-to-send-otp-codes-with-sms-in-nodejs-3mak)
-- [Everything You Need to Know to Start Your Way as a Programmer](https://dev.to/nedajahanfar/everything-you-need-to-know-to-start-your-way-as-a-programmer-1p01)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-ffg)
+- [To Mars and Beyond: A Coder&#39;s Guide to Modelling the Red Planet&#39;s Ionosphere](https://dev.to/masoomjethwa/to-mars-and-beyond-a-coders-guide-to-modelling-the-red-planets-ionosphere-3pmn)
+- [Are 3 Signs the AI Revolution Is Going Local?](https://dev.to/jay_all_day/are-3-signs-the-ai-revolution-is-going-local-644)
+- [PowerBuilder - Dynamic Search in datawindow](https://dev.to/vjonnagadla/powerbuilder-dynamic-search-in-datawindow-254)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
