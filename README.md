@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How AI Browsers Are the New Hotness and What This Means for Us](https://dev.to/andrewbaisden/how-ai-browsers-are-the-new-hotness-and-what-this-means-for-us-38dp)
-- [The Developer&#39;s Guide to Building a Better Trading System with Scope360](https://dev.to/mikecodez/the-developers-guide-to-building-a-better-trading-system-with-scope360-5ej5)
-- [Microsoft Recall vs Recall Assist: Privacy Comparison](https://dev.to/nodminger/microsoft-recall-vs-recall-assist-privacy-comparison-16oa)
-- [Meetily vs Otter.ai: Privacy-First Alternative for 2025](https://dev.to/zackriya/meetily-vs-otterai-privacy-first-alternative-for-2025-bh5)
-- [Day 1, part II : Call by value](https://dev.to/chhavi_joshi_ede276cfcc06/day-1-part-ii-call-by-value-348p)
+- [⚙️ Digital Drive, Data Theft: The Hidden Danger Inside Your Car](https://dev.to/sybersecure/digital-drive-data-theft-the-hidden-danger-inside-your-car-2n1g)
+- [Quer trabalhar com empresas internacionais?](https://dev.to/andersoncontreira/quer-trabalhar-com-empresas-internacionais-4ckk)
+- [Cuidado com o que você faz na empresa](https://dev.to/andersoncontreira/cuidado-com-o-que-voce-faz-na-empresa-2hco)
+- [Getting to Know Gemini CLI: Your Terminal’s New AI Ally](https://dev.to/muskanfatim/getting-to-know-gemini-cli-your-terminals-new-ai-ally-1moa)
+- [Stop Worshiping Benchmarks: Smarter JS Runtime Picks](https://dev.to/nicholas_fraud_27eb8640e1/stop-worshiping-benchmarks-smarter-js-runtime-picks-5a5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
