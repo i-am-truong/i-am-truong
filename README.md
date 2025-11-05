@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ERD Models](https://dev.to/farlamo/erd-models-41g4)
-- [Telex Weather Agent](https://dev.to/gamey001/telex-weather-agent-d9m)
-- [Okay, ich baue also mein eigenes &quot;Google Maps&quot;. Hier ist mein Plan... und meine Albträume.](https://dev.to/mapnav_dev_05896c1891e1a36dd5c/okay-ich-baue-also-mein-eigenes-google-maps-hier-ist-mein-plan-und-meine-albtraume-7kc)
-- [The Unseen Architecture of Python: Mastering Environments, Typing, and Memory](https://dev.to/onlineproxy/the-unseen-architecture-of-python-mastering-environments-typing-and-memory-32df)
-- [Building a Sustainable On-Call Culture: Escaping Alert Fatigue Before It Breaks You](https://dev.to/anderson_leite/building-a-sustainable-on-call-culture-escaping-alert-fatigue-before-it-breaks-you-275p)
+- [Production-Grade AI Agents: Architecture Patterns That Actually Work](https://dev.to/akshaygupta1996/production-grade-ai-agents-architecture-patterns-that-actually-work-19h)
+- [Feature Release 0.54.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-release-0540-of-the-github-action-for-checking-spelling-10ap)
+- [React Tip: Pass a Function to useState, Don’t Call It](https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5)
+- [Ditch the Config Chaos: Meet Kiponos - the Real-Time Config Revolution You&#39;ve Been Waiting For](https://dev.to/kiponos/ditch-the-config-chaos-meet-kiponos-the-real-time-config-revolution-youve-been-waiting-for-4ac7)
+- [The Orchestrator Pattern: Routing Conversations to Specialized AI Agents](https://dev.to/akshaygupta1996/the-orchestrator-pattern-routing-conversations-to-specialized-ai-agents-33h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
