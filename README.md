@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tune GitHub Copilot Settings in VS Code](https://dev.to/pwd9000/tune-github-copilot-settings-in-vs-code-32kp)
+- [Build 3 Real-World Azure Projects - Problem Statements, Step-by-Step Solutions, and Code &lpar;Developer Focused&rpar;](https://dev.to/careerbytecode/build-3-real-world-azure-projects-problem-statements-step-by-step-solutions-and-code-developer-576c)
 - [Production-Grade AI Agents: Architecture Patterns That Actually Work](https://dev.to/akshaygupta1996/production-grade-ai-agents-architecture-patterns-that-actually-work-19h)
+- [Quantum-Powered Privacy: Securing the IoT with Decentralized Anomaly Detection](https://dev.to/arvind_sundararajan/quantum-powered-privacy-securing-the-iot-with-decentralized-anomaly-detection-3b76)
 - [Feature Release 0.54.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-release-0540-of-the-github-action-for-checking-spelling-10ap)
-- [React Tip: Pass a Function to useState, Don’t Call It](https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5)
-- [Ditch the Config Chaos: Meet Kiponos - the Real-Time Config Revolution You&#39;ve Been Waiting For](https://dev.to/kiponos/ditch-the-config-chaos-meet-kiponos-the-real-time-config-revolution-youve-been-waiting-for-4ac7)
-- [The Orchestrator Pattern: Routing Conversations to Specialized AI Agents](https://dev.to/akshaygupta1996/the-orchestrator-pattern-routing-conversations-to-specialized-ai-agents-33h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
