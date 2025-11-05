@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mid Term Cloud Services - Containerization](https://dev.to/gabriellejeco/cloud-services-containerization-36pl)
-- [🚀Deploying a Node.js App to Google Cloud VM with GitHub Actions CI/CD Setup](https://dev.to/latchudevops/deploying-a-nodejs-app-to-google-cloud-vm-with-github-actions-cicd-setup-nj5)
-- [Cloud-Native Broadcasting Takes Center Stage at APEC 2025: A Technical Analysis](https://dev.to/jason_jacob_dcfc2408b7557/cloud-native-broadcasting-takes-center-stage-at-apec-2025-a-technical-analysis-2ch1)
-- [DORA Metrics: Measuring DevOps Success](https://dev.to/rosgluk/dora-metrics-measuring-devops-success-9fc)
-- [The Invisible Developer: Why Caring Burns You Out](https://dev.to/junothreadborne/the-invisible-developer-why-caring-burns-you-out-p8o)
+- [I built a fast, distraction-free online Image Crop Tool](https://dev.to/guruwant_sharma_013d6ccaa/i-built-a-fast-distraction-free-online-image-crop-tool-3kd1)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5o5)
+- [Mastering Custom Hooks in React: A Developer&#39;s Guide](https://dev.to/ctrix/mastering-custom-hooks-in-react-a-developers-guide-55f1)
+- [Understanding the Impact of Edge Computing on Real-Time Applications](https://dev.to/softwaredeveloper01/understanding-the-impact-of-edge-computing-on-real-time-applications-29k0)
+- [Infrastructure Sovereignty and the AI-Proof Skill Stack: What the OpenAI-AWS Deal Reveals About Future-Proof Careers](https://dev.to/narnaiezzsshaa/infrastructure-sovereignty-and-the-ai-proof-skill-stack-what-the-openai-aws-deal-reveals-about-1049)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
