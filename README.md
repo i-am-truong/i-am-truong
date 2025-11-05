@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como parei de re-renderizar o universo: Uma história de assinaturas atômicas no React](https://dev.to/quojs_dev/como-parei-de-re-renderizar-o-universo-uma-historia-de-assinaturas-atomicas-no-react-g2c)
+- [From a database to a REST API](https://dev.to/nicolasbonnici/from-a-database-to-a-rest-api-3cgf)
 - [Tune GitHub Copilot Settings in VS Code](https://dev.to/pwd9000/tune-github-copilot-settings-in-vs-code-32kp)
 - [Build 3 Real-World Azure Projects - Problem Statements, Step-by-Step Solutions, and Code &lpar;Developer Focused&rpar;](https://dev.to/careerbytecode/build-3-real-world-azure-projects-problem-statements-step-by-step-solutions-and-code-developer-576c)
 - [Production-Grade AI Agents: Architecture Patterns That Actually Work](https://dev.to/akshaygupta1996/production-grade-ai-agents-architecture-patterns-that-actually-work-19h)
-- [Quantum-Powered Privacy: Securing the IoT with Decentralized Anomaly Detection](https://dev.to/arvind_sundararajan/quantum-powered-privacy-securing-the-iot-with-decentralized-anomaly-detection-3b76)
-- [Feature Release 0.54.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-release-0540-of-the-github-action-for-checking-spelling-10ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
