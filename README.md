@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating MCP Tools with AWS Bedrock in an ASP.NET Core Minimal API](https://dev.to/ohalay/integrating-mcp-tools-with-aws-bedrock-in-an-aspnet-core-minimal-api-1p88)
+- [Introduction to SQL using SQLite: Create Table](https://dev.to/otumianempire/introduction-to-sql-using-sqlite-create-table-3cj1)
+- [What I Learned From Working on Legacy Codebases &lpar;And How It Made Me a Better Developer&rpar;](https://dev.to/milx/what-i-learned-from-working-on-legacy-codebases-and-how-it-made-me-a-better-developer-1ldg)
 - [Understanding the `this` Keyword in JavaScript](https://dev.to/giftintech/understanding-the-this-keyword-in-javascript-4ipi)
 - [Before there was Kubernetes, there was Borg......](https://dev.to/kaustubhyerkade/before-there-was-kubernetes-there-was-borg-hfa)
-- [To Mars and Beyond: A Coder&#39;s Guide to Modelling the Red Planet&#39;s Ionosphere](https://dev.to/masoomjethwa/to-mars-and-beyond-a-coders-guide-to-modelling-the-red-planets-ionosphere-3pmn)
-- [Are 3 Signs the AI Revolution Is Going Local?](https://dev.to/jay_all_day/are-3-signs-the-ai-revolution-is-going-local-644)
-- [PowerBuilder - Dynamic Search in datawindow](https://dev.to/vjonnagadla/powerbuilder-dynamic-search-in-datawindow-254)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
