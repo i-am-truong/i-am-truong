@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reviving Smalltalk-80 with LAW-T: Reconstructing the Laws of Object-Oriented Reasoning for the JavaScript Era](https://dev.to/peacebinflow/reviving-smalltalk-80-with-law-t-reconstructing-the-laws-of-object-oriented-reasoning-for-the-i7c)
-- [UnderDoggs*](https://dev.to/musa_excellent_953cf94054/underdoggs-1go4)
-- [Stop Calling LLMs AI](https://dev.to/sagiadinos/stop-calling-llms-ai-1ihk)
-- [About AI and context](https://dev.to/petrashka/about-ai-and-context-323n)
-- [Prompts that work for beginners &lpar;small, clear, and testable&rpar;](https://dev.to/fahimulhaq/prompts-that-work-for-beginners-small-clear-and-testable-3pel)
+- [Unlocking jQuery Mastery: Secrets No One Tells You &lpar;Until Now!&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/unlocking-jquery-mastery-secrets-no-one-tells-you-until-now-5fgk)
+- [Culture](https://dev.to/woahguy1/culture-50h6)
+- [Can a HashMap Have a Null Key? What About ConcurrentHashMap?](https://dev.to/realnamehidden1_61/can-a-hashmap-have-a-null-key-what-about-concurrenthashmap-3cjp)
+- [Java Access Modifiers &amp; Packages](https://dev.to/masteringbackend/java-access-modifiers-packages-51i)
+- [Begrijpen van Pod Pending States: Waarom je Pods niet plannen?](https://dev.to/shubhcloud/begrijpen-van-pod-pending-states-waarom-je-pods-niet-plannen-51b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
