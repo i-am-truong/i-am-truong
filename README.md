@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Angular Signals: A Complete Guide Beyond RxJS](https://dev.to/romain_geffrault_10d88369/mastering-angular-signals-a-complete-guide-beyond-rxjs-30mo)
-- [Building Spexop: A Journey in Design System Development](https://dev.to/olmstedian/building-spexop-a-journey-in-design-system-development-jkm)
-- [Build unsigned iOS ipa to install via Sideloadly!](https://dev.to/oivoodoo/build-unsigned-ios-ipa-to-install-via-sideloadly-236f)
-- [Free Website Uptime API — JSON for Developers and AI Integrations](https://dev.to/saganmarketing/free-website-uptime-api-json-for-developers-and-ai-integrations-519m)
-- [Building a Smart Task Tracker Agent for Telex.im with ASP.NET Core](https://dev.to/precious_adeoye_24027ce73/building-a-smart-task-tracker-agent-for-telexim-with-aspnet-core-27dd)
+- [Top POS System Benefits Every Retailer Should Know in 2025](https://dev.to/ankita_67b0f155bd5cd86af4/top-pos-system-benefits-every-retailer-should-know-in-2025-3jbl)
+- [The State of Apache Iceberg, Polaris, and Arrow: October–November 2025](https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-polaris-and-arrow-october-november-2025-4gmg)
+- [Day 23 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-23-of-my-ai-data-mastery-journey-from-python-to-generative-ai-2891)
+- [Mastering Concurrency in Go: Goroutines, Channels, and Patterns](https://dev.to/djamware_tutorial_eba1a61/mastering-concurrency-in-go-goroutines-channels-and-patterns-4fhk)
+- [Ultimate C# Tutorial &lpar;C Sharp&rpar; for .NET Developers](https://dev.to/tpointtechblog/ultimate-c-tutorial-c-sharp-for-net-developers-lef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
