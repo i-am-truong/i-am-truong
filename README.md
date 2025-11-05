@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Firebase Push Tokens Are Device-Specific, Not User-Specific: A Critical Refactoring](https://dev.to/sangwoo_rhie/firebase-push-tokens-are-device-specific-not-user-specific-a-critical-refactoring-ppi)
-- [Check out the guide on - Ways to Create Groups Efficiently in Tableau](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-ways-to-create-groups-efficiently-in-tableau-4ib0)
-- [The Moat Illusion: Why Modern Defensibility Isn’t in Your Codebase Anymore](https://dev.to/yaseen_tech/the-moat-illusion-why-modern-defensibility-isnt-in-your-codebase-anymore-4lo4)
-- [Learning patience, not skills](https://dev.to/dshaw0004/learning-patience-not-skills-l5o)
-- [Understanding the Rake Roof: Design, Function, and Modern Applications](https://dev.to/seo-dipak-2312/understanding-the-rake-roof-design-function-and-modern-applications-13a0)
+- [AI and the Loss of the Flow](https://dev.to/joacod/ai-and-the-loss-of-the-flow-13hc)
+- [Check out the guide on - Unlocking Data Relationships in Tableau: A Complete Guide to Correlation Analysis for Better Business Decisions](https://dev.to/thedatageek/check-out-the-guide-on-unlocking-data-relationships-in-tableau-a-complete-guide-to-correlation-32ad)
+- [A powerful modular architecture package for Laravel applications](https://dev.to/saeedvir/a-powerful-modular-architecture-package-for-laravel-applications-59m1)
+- [Moving into the AWS Society — A Fun Way to Understand Cloud Networking](https://dev.to/tawkir_ahmed_86539e908d22/moving-into-the-aws-society-a-fun-way-to-understand-cloud-networking-54c4)
+- [Mastering MacOS Recovery Mode: The Complete Guide for Beginners](https://dev.to/seo-dipak-2312/mastering-macos-recovery-mode-the-complete-guide-for-beginners-5dgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
