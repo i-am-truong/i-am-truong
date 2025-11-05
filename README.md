@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own AI Sales Prospecting Tool in 3 Simple Steps](https://dev.to/mygom/build-your-own-ai-sales-prospecting-tool-in-3-simple-steps-11jm)
-- [Master Python Web Scraping with 5 Real-World Projects](https://dev.to/b5119/master-python-web-scraping-with-5-real-world-projects-4gnn)
-- [No, you don’t need Lit, Vite, or TypeScript to Extend the Umbraco Backoffice](https://dev.to/luukpeters/no-you-dont-need-lit-vite-or-typescript-to-extend-the-umbraco-backoffice-2mg6)
-- [Preserve Console Logs in Browser using DevTools 🧠](https://dev.to/pooja_garva/preserve-console-logs-in-browser-using-devtools-5k0)
-- [Cloud Computing Overview: Migrate, Secure, Scale — AD Infosystem](https://dev.to/adinfo_system_92fc2c59a7e/cloud-computing-overview-migrate-secure-scale-ad-infosystem-100j)
+- [How Artificial Intelligence is Reshaping Food Production and Delivery](https://dev.to/mitchelljhonson/how-artificial-intelligence-is-reshaping-food-production-and-delivery-3c7k)
+- [Setting Up Storage for IT Department Testing and Training in Azure](https://dev.to/adebayo_ganiyatoladunjoy/setting-up-storage-for-it-department-testing-and-training-in-azure-428j)
+- [Adding a Custom Context Menu to CanvasJS Charts on Right-Click](https://dev.to/manoj_004d/adding-a-custom-context-menu-to-canvasjs-charts-on-right-click-40k2)
+- [Software Engineering vs Data Science: A Real Talk for Students](https://dev.to/mohamed-riham/software-engineering-vs-data-science-in-2025-a-real-talk-for-students-27c8)
+- [How Self-Attention Actually Works &lpar;Simple Explanation&rpar;](https://dev.to/ajith_kumar_593bb762c09ce/how-self-attention-actually-works-simple-explanation-4086)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
