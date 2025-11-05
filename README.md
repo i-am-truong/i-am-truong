@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a WhatsApp bot that automatically tracks your expenses into Google Sheets — my first public project 🚀](https://dev.to/chrollolw/i-built-a-whatsapp-bot-that-automatically-tracks-your-expenses-into-google-sheets-my-first-public-33ii)
-- [Decentralized Communication System During Disasters – Using LoRa](https://dev.to/afrith_ahamedaj_bd70301/decentralized-communication-system-during-disasters-using-lora-p1b)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-4f3o)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-236l)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3gn4)
+- [Building a Sustainable On-Call Culture: Escaping Alert Fatigue Before It Breaks You](https://dev.to/anderson_leite/building-a-sustainable-on-call-culture-escaping-alert-fatigue-before-it-breaks-you-275p)
+- [Weekly Update #16](https://dev.to/abytebybyte/weekly-update-16-2fnc)
+- [A new language for COBOL workloads, built on GO!](https://dev.to/nikolas_sokratous_ba3dcce/a-new-language-for-cobol-workloads-built-on-go-1gdo)
+- [From AI to NLP: The Four Phases of Language Understanding](https://dev.to/themustaphatijani/from-ai-to-nlp-the-four-phases-of-language-understanding-3gp8)
+- [The joy of Kubernetes](https://dev.to/hedgehog/the-joy-of-kubernetes-4ijl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
