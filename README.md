@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Copilot is gaslighting developers and we’re all pretending it’s fine](https://dev.to/dev_tips/copilot-is-gaslighting-developers-and-were-all-pretending-its-fine-51j9)
-- [The AI Speed Illusion](https://dev.to/dev_tips/the-ai-speed-illusion-467a)
-- [How I Built a Unified Calendar Dashboard with Next.js, Vercel Edge Functions &amp; No Database](https://dev.to/ravgeetdhillon/how-i-built-a-unified-calendar-dashboard-with-nextjs-vercel-edge-functions-no-database-368k)
-- [🧭 Understanding the `man` Command in Linux](https://dev.to/farhad_rahimi_klie/understanding-the-man-command-in-linux-4fl6)
-- [Why Finnish devs outperform silicon valley &lpar;long-term&rpar;: The nordic way of code](https://dev.to/dev_tips/why-finnish-devs-outperform-silicon-valley-long-term-the-nordic-way-of-code-14n7)
+- [React Native, pnpm, and Monorepos: A Dependency Hoisting Journey](https://dev.to/heyradcode/react-native-pnpm-and-monorepos-a-dependency-hoisting-journey-5809)
+- [Building a Production-Ready AI-Powered Robo-Advisor: From Concept to Cloud Deployment](https://dev.to/shubham_thakur_f239e5ee85/building-a-production-ready-ai-powered-robo-advisor-from-concept-to-cloud-deployment-41c2)
+- [The Mind Was Never Meant to Be Debugged](https://dev.to/leena_malhotra/the-mind-was-never-meant-to-be-debugged-1p9f)
+- [Why Gradle Flavors Might Be the Smartest Thing I’ve Read About Android Builds](https://dev.to/olivia-john/why-gradle-flavors-might-be-the-smartest-thing-ive-read-about-android-builds-cih)
+- [Halloween Night Scene - A Spooky CSS Art](https://dev.to/dipanshu447/halloween-night-scene-a-spooky-css-art-3o9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
