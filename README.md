@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Melodic Airways Transforming Flight Routes Into Music&quot;](https://dev.to/aviral_srivastava_2c4e212/melodic-airways-transforming-flight-routes-into-music-4l72)
+- [Agentic DevOps: I Let GitHub Copilot Run My Entire CI/CD Pipeline &lpar;And Lived to Tell the Tale&rpar;](https://dev.to/gaikwadshri29/agentic-devops-i-let-github-copilot-run-my-entire-cicd-pipeline-and-lived-to-tell-the-tale-50oh)
+- [How effective is the Sabak Harbor Cybersecurity course for career growth?](https://dev.to/aman_singh_77de21b7c6110c/how-effective-is-the-sabak-harbor-cybersecurity-course-for-career-growth-fbh)
 - [CLI Agent Orchestrator: When One AI Agent Isn&#39;t Enough](https://dev.to/pinishv/cli-agent-orchestrator-when-one-ai-agent-isnt-enough-dc9)
-- [LeetCode: 1. Two Sum, Solución paso a paso](https://dev.to/luisangelfr/leetcode-1-two-sum-solucion-paso-a-paso-2a5c)
-- [AI and the Loss of the Flow](https://dev.to/joacod/ai-and-the-loss-of-the-flow-13hc)
-- [Master Java indexOf&lpar;&rpar;: Your Ultimate Guide to Finding Strings](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-indexof-your-ultimate-guide-to-finding-strings-1ohd)
-- [Elements in HTML](https://dev.to/s_sarumathi_a1de306480d33/elements-in-html-1ch6)
+- [What is the better career choice, UX Design or Web Development?](https://dev.to/aman_singh_77de21b7c6110c/what-is-the-better-career-choice-ux-design-or-web-development-4h9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
