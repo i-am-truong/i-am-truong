@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the &quot;Vibe Check&quot;: How to Use the Web Codegen Scorer to Master AI-Generated Code](https://dev.to/sunny7899/beyond-the-vibe-check-how-to-use-the-web-codegen-scorer-to-master-ai-generated-code-1k01)
+- [DXG Spark for Local LLM Development](https://dev.to/wachawo/dxg-spark-for-local-llm-development-4g8a)
+- [What Is Critical CSS and Why It Matters for Site Speed](https://dev.to/rijultp/what-is-critical-css-and-why-it-matters-for-site-speed-33cf)
+- [Every way to detect a user&#39;s locale &lpar;from best to worst&rpar;](https://dev.to/lingodotdev/every-way-to-detect-a-users-locale-from-best-to-worst-369i)
 - [Integrating MCP Tools with AWS Bedrock in an ASP.NET Core Minimal API](https://dev.to/ohalay/integrating-mcp-tools-with-aws-bedrock-in-an-aspnet-core-minimal-api-1p88)
-- [Introduction to SQL using SQLite: Create Table](https://dev.to/otumianempire/introduction-to-sql-using-sqlite-create-table-3cj1)
-- [What I Learned From Working on Legacy Codebases &lpar;And How It Made Me a Better Developer&rpar;](https://dev.to/milx/what-i-learned-from-working-on-legacy-codebases-and-how-it-made-me-a-better-developer-1ldg)
-- [Understanding the `this` Keyword in JavaScript](https://dev.to/giftintech/understanding-the-this-keyword-in-javascript-4ipi)
-- [Before there was Kubernetes, there was Borg......](https://dev.to/kaustubhyerkade/before-there-was-kubernetes-there-was-borg-hfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
