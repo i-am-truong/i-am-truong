@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 GitHub Copilot Updates You Actually Need to Know About 💥](https://dev.to/anchildress1/top-10-github-copilot-updates-you-actually-need-to-know-about-297d)
-- [The Day Our Cloud Bill Hit $127K &lpar;And Nobody Knew Why&rpar;](https://dev.to/arbythecoder/the-day-our-cloud-bill-hit-127k-and-nobody-knew-why-5e88)
-- [🧩 Hackathon Recap: Building “API Syncer” — Using AI to Work Smart, Not Hard](https://dev.to/marivicdbp/hackathon-recap-building-api-syncer-using-ai-to-work-smart-not-hard-1pki)
-- [Um desenvolvedor não deve se limitar apenas a escrever código.](https://dev.to/andersoncontreira/um-desenvolvedor-nao-deve-se-limitar-apenas-a-escrever-codigo-56b8)
-- [Você já trabalhou em uma empresa que valorizava mais o hard skill do que o soft skill de algumas pessoas?](https://dev.to/andersoncontreira/voce-ja-trabalhou-em-uma-empresa-que-valorizava-mais-o-hard-skill-do-que-o-soft-skill-de-algumas-5g8i)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3mi2)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-p3o)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-2m2h)
+- [It&#39;s time to start measuring accuracy of data extraction with downstream systems and usability in mind, not just vanity metrics for a marketing slide](https://dev.to/drguthals/its-time-to-start-measuring-accuracy-of-data-extraction-with-downstream-systems-and-usability-in-1a2m)
+- [Optional Is Not Optional in C++ &lpar;and Definitely Not a Pointer&rpar;](https://dev.to/kyrylorud/optional-is-not-optional-in-c-and-definitely-not-a-pointer-34jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
