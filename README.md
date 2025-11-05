@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📢 New Series: Neuro-Symbolic Wednesday](https://dev.to/centaurai/new-series-neuro-symbolic-wednesday-14hb)
-- [🧠 Managed vs Unmanaged Code — Explained for Beginners](https://dev.to/aryaglekshmi/managed-vs-unmanaged-code-explained-for-beginners-16b5)
-- [🏚️ CSS Art: Haunted House with Parallax Layers](https://dev.to/manukumar07/css-art-haunted-house-with-parallax-layers-4d8)
-- [Building Custom Components in Langflow 🛠️](https://dev.to/aairom/building-custom-components-in-langflow-3ncm)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-18fp)
+- [Reviving Smalltalk-80 with LAW-T: Reconstructing the Laws of Object-Oriented Reasoning for the JavaScript Era](https://dev.to/peacebinflow/reviving-smalltalk-80-with-law-t-reconstructing-the-laws-of-object-oriented-reasoning-for-the-i7c)
+- [UnderDoggs*](https://dev.to/musa_excellent_953cf94054/underdoggs-1go4)
+- [Stop Calling LLMs AI](https://dev.to/sagiadinos/stop-calling-llms-ai-1ihk)
+- [About AI and context](https://dev.to/petrashka/about-ai-and-context-323n)
+- [Prompts that work for beginners &lpar;small, clear, and testable&rpar;](https://dev.to/fahimulhaq/prompts-that-work-for-beginners-small-clear-and-testable-3pel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
