@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a fast, distraction-free online Image Crop Tool](https://dev.to/guruwant_sharma_013d6ccaa/i-built-a-fast-distraction-free-online-image-crop-tool-3kd1)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5o5)
-- [Mastering Custom Hooks in React: A Developer&#39;s Guide](https://dev.to/ctrix/mastering-custom-hooks-in-react-a-developers-guide-55f1)
-- [Understanding the Impact of Edge Computing on Real-Time Applications](https://dev.to/softwaredeveloper01/understanding-the-impact-of-edge-computing-on-real-time-applications-29k0)
-- [Infrastructure Sovereignty and the AI-Proof Skill Stack: What the OpenAI-AWS Deal Reveals About Future-Proof Careers](https://dev.to/narnaiezzsshaa/infrastructure-sovereignty-and-the-ai-proof-skill-stack-what-the-openai-aws-deal-reveals-about-1049)
+- [CSS FONT STYLES](https://dev.to/suma_suma/css-font-styles-4e18)
+- [Vibe Coding Vibe Deployment: The Next Big DevOps Shift](https://dev.to/dev_tips/vibe-coding-vibe-deployment-the-next-big-devops-shift-3fkh)
+- [LitmusChaos October Highlights - Hacktoberfest, Meetups &amp; More!](https://dev.to/litmus-chaos/litmuschaos-october-highlights-hacktoberfest-meetups-more-51h6)
+- [Building an AI-Powered E-Commerce Platform with Rich UI Rendering](https://dev.to/exploredataaiml/building-an-ai-powered-e-commerce-platform-with-rich-ui-rendering-11gi)
+- [Menjalankan Aplikasi Python Melalui Platform Menggunakan Docker dan GitHub Actions](https://dev.to/jasnagora_2023_2f2d17834f/menjalankan-aplikasi-python-melalui-platform-menggunakan-docker-dan-github-actions-29oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
