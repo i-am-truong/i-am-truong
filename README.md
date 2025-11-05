@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode - Day 1](https://dev.to/shivi_e441534c4/leetcode-day-1-41k5)
+- [Building Scalable API Test Automation with Postman + Newman — My Gradific API Testing Project](https://dev.to/loveline/building-scalable-api-test-automation-with-postman-newman-my-gradific-api-testing-project-31fp)
 - [Awesome FFmpeg Tricks for Video and Audio Manipulation](https://dev.to/picoable/awesome-ffmpeg-tricks-for-video-and-audio-manipulation-3p08)
 - [FPGA_Part_03](https://dev.to/cevval/fpgapart03-5c1p)
 - [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-44j4)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-328h)
-- [Deleting GitHub Repositories Without Prompt: A Guide to Automated Cleanup](https://dev.to/picoable/deleting-github-repositories-without-prompt-a-guide-to-automated-cleanup-1jeb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
