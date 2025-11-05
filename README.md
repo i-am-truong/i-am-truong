@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vue.js Component Communication Patterns and Best Practices](https://dev.to/addwebsolutionpvtltd/vuejs-component-communication-patterns-and-best-practices-3fi1)
-- [🧩 Track Workflow Activities by Name in Joget Using SQL and DataList Configuration](https://dev.to/exploringmylifeworks/track-workflow-activities-by-name-in-joget-using-sql-and-datalist-configuration-3gkn)
-- [Grok AI: A Deep Dive into xAI’s Maverick Chatbot](https://dev.to/sanjaynaker/grok-ai-a-deep-dive-into-xais-maverick-chatbot-5gbn)
-- [🔄 Process Migration Between App Versions in Joget](https://dev.to/exploringmylifeworks/process-migration-between-app-versions-in-joget-bok)
-- [🚀 UV, el nuevo estándar para Python](https://dev.to/afr_dt/uv-el-nuevo-estandar-para-python-2j3p)
+- [📢 New Series: Neuro-Symbolic Wednesday](https://dev.to/centaurai/new-series-neuro-symbolic-wednesday-14hb)
+- [🧠 Managed vs Unmanaged Code — Explained for Beginners](https://dev.to/aryaglekshmi/managed-vs-unmanaged-code-explained-for-beginners-16b5)
+- [🏚️ CSS Art: Haunted House with Parallax Layers](https://dev.to/manukumar07/css-art-haunted-house-with-parallax-layers-4d8)
+- [Building Custom Components in Langflow 🛠️](https://dev.to/aairom/building-custom-components-in-langflow-3ncm)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-18fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
