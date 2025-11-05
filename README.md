@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Native, pnpm, and Monorepos: A Dependency Hoisting Journey](https://dev.to/heyradcode/react-native-pnpm-and-monorepos-a-dependency-hoisting-journey-5809)
-- [Building a Production-Ready AI-Powered Robo-Advisor: From Concept to Cloud Deployment](https://dev.to/shubham_thakur_f239e5ee85/building-a-production-ready-ai-powered-robo-advisor-from-concept-to-cloud-deployment-41c2)
-- [The Mind Was Never Meant to Be Debugged](https://dev.to/leena_malhotra/the-mind-was-never-meant-to-be-debugged-1p9f)
-- [Why Gradle Flavors Might Be the Smartest Thing I’ve Read About Android Builds](https://dev.to/olivia-john/why-gradle-flavors-might-be-the-smartest-thing-ive-read-about-android-builds-cih)
-- [Halloween Night Scene - A Spooky CSS Art](https://dev.to/dipanshu447/halloween-night-scene-a-spooky-css-art-3o9j)
+- [Europe just dropped a cloud rulebook &lpar;and it’s actually good&rpar;](https://dev.to/dev_tips/europe-just-dropped-a-cloud-rulebook-and-its-actually-good-7m6)
+- [DeepAgent: The Next Generation AI Reasoning Agent for Autonomous Workflows](https://dev.to/techstuff/deepagent-the-next-generation-ai-reasoning-agent-for-autonomous-workflows-1flh)
+- [Sin Containers no hay paraíso.](https://dev.to/jose_muoz_7408dd1b5bd4c9/sin-containers-no-hay-paraiso-3c7c)
+- [Podcastle Podcast: The Ultimate All-in-One Platform for Podcasters](https://dev.to/seo-dipak-2312/podcastle-podcast-the-ultimate-all-in-one-platform-for-podcasters-2j5e)
+- [Building Blocks of the .NET Platform — Explained for Beginners](https://dev.to/aryaglekshmi/building-blocks-of-the-net-platform-explained-for-beginners-2lae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
