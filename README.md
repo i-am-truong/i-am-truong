@@ -119,16 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing a Self-Healing Serverless CICD Pipeline with AWS Developer Tools.](https://dev.to/aws-builders/implementing-a-self-healing-serverless-cicd-pipeline-with-aws-developer-tools-611)
 - [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-3n9d)
 - [Wednesday Links - Edition 2025-11-05](https://dev.to/0xkkocel/wednesday-links-edition-2025-11-05-9d3)
 - [Try it out, and give it a star ⭐ if you liked it.](https://dev.to/masterdevsabith/try-it-out-and-give-it-a-star-if-you-liked-it-2po0)
 - [I built an app using flutter that lets you save any bookmark on any app](https://dev.to/nullvoidkage/i-built-an-app-using-flutter-that-lets-you-save-any-bookmark-on-any-app-4nab)
-- [I&#39;ve recently started using vim as my editor, &lpar;now vim key bindings on vscode.&rpar;
-
-For newcomers, learning vim motions might take some time, so I&#39;ve created a snake game for mastering vim motions.
-
-Here&#39;s the link : 
-https://vim-snake-navy.vercel.app](https://dev.to/masterdevsabith/ive-recently-started-using-vim-as-my-editor-now-vim-key-bindings-on-vscode-for-newcomers-h5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
