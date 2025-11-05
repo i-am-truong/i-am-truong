@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI That Shows Its Work: The Transparent Revolution of PALs](https://dev.to/naresh_007/ai-that-shows-its-work-the-transparent-revolution-of-pals-59ia)
-- [Making Java Code Null-Safe With JPlus](https://dev.to/cheol_jeon_9e29b98fdb7e1e/make-java-code-null-safe-with-jplus-3b9h)
-- [Wix vs Shopify: Which is Better for E-commerce?](https://dev.to/api_troll/wix-vs-shopify-which-is-better-for-e-commerce-lol)
-- [🎙️ Building a Text-to-Speech &lpar;TTS&rpar; GUI with Python](https://dev.to/smoothcode/building-a-text-to-speech-tts-gui-with-python-dhc)
-- [Bloom Filter with Express.js](https://dev.to/speaklouder/bloom-filter-with-expressjs-3b3p)
+- [Dockerize &amp; Deploy Spring Boot + Angular + MySQL | Full Guide](https://dev.to/smoothcode/dockerize-deploy-spring-boot-angular-mysql-full-guide-24fg)
+- [Designing Data-Intensive Applications [Book Review]-The Big Ideas Behind Reliable, Scalable and Maintainable Systems](https://dev.to/hectorw_tt/designing-data-intensive-applications-book-review-the-big-ideas-behind-reliable-scalable-and-298m)
+- [CI/CD Best Practices: Building Robust Deployment Pipelines](https://dev.to/instadevops/cicd-best-practices-building-robust-deployment-pipelines-2jc7)
+- [Infrastructure as Code with Terraform: A Complete Guide](https://dev.to/instadevops/infrastructure-as-code-with-terraform-a-complete-guide-1mm2)
+- [Building an IMU Simulator from the Ground Up: A Journey Through Inertial Navigation](https://dev.to/pederzoli/building-an-imu-simulator-from-the-ground-up-a-journey-through-inertial-navigation-187j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
