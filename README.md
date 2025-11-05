@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [👻 Scraping the Specter: Why my Kiroween ghost recorder failed and how I rebooted it](https://dev.to/alexandrammr/scraping-the-specter-why-my-kiroween-ghost-recorder-failed-and-how-i-rebooted-it-3dm4)
-- [Arquitetura da Proteção de Dados: Encoding, Hashing e Criptografia](https://dev.to/jaovitm/arquitetura-da-protecao-de-dados-encoding-hashing-e-criptografia-63k)
-- [What is Great Flattening and AI-era middle managers?](https://dev.to/jay_all_day/what-is-great-flattening-and-ai-era-middle-managers-2p5b)
-- [Headless Adventures: From CMS to Frontend Without Losing Your Mind &lpar;2&rpar;](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-2-4k0o)
-- [Top 10 AI Features for Modern WYSIWYG Editors](https://dev.to/froala_e3824d66439393cbce/top-10-ai-features-for-modern-wysiwyg-editors-1bho)
+- [Creación de agentes AI con PydanticAI – Introducción](https://dev.to/kuscamara/creacion-de-agentes-ai-con-pydanticai-introduccion-h8)
+- [WSL2 e Docker sem Docker Desktop: configurando NAT e acesso localhost manualmente](https://dev.to/oliverigor27/wsl2-e-docker-sem-docker-desktop-configurando-nat-e-acesso-localhost-manualmente-20f)
+- [Daily Artificial Intelligence Digest - Nov 05, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-05-2025-41le)
+- [Spiking Neural Networks: The Next Leap in AI Power Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spiking-neural-networks-the-next-leap-in-ai-power-efficiency-by-arvind-sundararajan-45n8)
+- [Angular &amp; RxJS in 2025: The Expert’s Playbook &lpar;Signals, RxJS 8, and Interop&rpar;](https://dev.to/cristiansifuentes/angular-rxjs-in-2025-the-experts-playbook-signals-rxjs-8-and-interop-28ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
