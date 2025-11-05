@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How-to use a Custom Start Button Image in Linux Mint](https://dev.to/d4rkd0s/how-to-use-a-custom-start-button-image-in-linux-mint-5d77)
+- [Don’t Be Someone People Have to Work With — Be Someone They Want to Work With](https://dev.to/themustaphatijani/dont-be-someone-people-have-to-work-with-be-someone-they-want-to-work-with-4cb2)
 - [iOS 26.1 Released: What Developers Need to Know](https://dev.to/arshtechpro/ios-261-released-what-developers-need-to-know-45b0)
 - [Creación de Peering Connections en AWS.](https://dev.to/cyb3rcloud8888/creacion-de-peering-connections-en-aws-449k)
 - [Wix vs Shopify: Which is Right for You?](https://dev.to/api_troll/wix-vs-shopify-which-is-right-for-you-472g)
-- [Can security risks of AI browser agents be mitigated?](https://dev.to/jay_all_day/can-security-risks-of-ai-browser-agents-be-mitigated-31b)
-- [Home Lab: Chapter 8 — Kubernetes Storage with Rook-Ceph](https://dev.to/aanogueira/home-lab-chapter-8-kubernetes-storage-with-rook-ceph-338)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
