@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Enable BBR, a Better Network Congestion Control Algorithm From Google on Linux](https://dev.to/archerallstars/enable-bbr-a-better-network-congestion-control-algorithm-from-google-on-linux-2pgl)
-- [Process Bottleneck Breakthrough: AI-Powered Outcome Prediction](https://dev.to/arvind_sundararajan/process-bottleneck-breakthrough-ai-powered-outcome-prediction-55ng)
-- [My DevOps Journey: Part 13 - AWS S3 Essentials: The Backbone of Cloud Storage](https://dev.to/sheershsinha/my-devops-journey-part-13-aws-s3-essentials-the-backbone-of-cloud-storage-10ln)
-- [Don&#39;t nuke your test ENVs](https://dev.to/noelworden/dont-nuke-your-test-envs-4j6j)
-- [Between Rules and Meaning: Building a Website That Understands Language](https://dev.to/peggggykang/between-rules-and-meaning-building-a-website-that-understands-language-3f9g)
+- [Mid Term Cloud Services - Containerization](https://dev.to/gabriellejeco/cloud-services-containerization-36pl)
+- [🚀Deploying a Node.js App to Google Cloud VM with GitHub Actions CI/CD Setup](https://dev.to/latchudevops/deploying-a-nodejs-app-to-google-cloud-vm-with-github-actions-cicd-setup-nj5)
+- [Cloud-Native Broadcasting Takes Center Stage at APEC 2025: A Technical Analysis](https://dev.to/jason_jacob_dcfc2408b7557/cloud-native-broadcasting-takes-center-stage-at-apec-2025-a-technical-analysis-2ch1)
+- [DORA Metrics: Measuring DevOps Success](https://dev.to/rosgluk/dora-metrics-measuring-devops-success-9fc)
+- [The Invisible Developer: Why Caring Burns You Out](https://dev.to/junothreadborne/the-invisible-developer-why-caring-burns-you-out-p8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
