@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CLI Agent Orchestrator: When One AI Agent Isn&#39;t Enough](https://dev.to/pinishv/cli-agent-orchestrator-when-one-ai-agent-isnt-enough-dc9)
+- [LeetCode: 1. Two Sum, Solución paso a paso](https://dev.to/luisangelfr/leetcode-1-two-sum-solucion-paso-a-paso-2a5c)
 - [AI and the Loss of the Flow](https://dev.to/joacod/ai-and-the-loss-of-the-flow-13hc)
-- [Check out the guide on - Unlocking Data Relationships in Tableau: A Complete Guide to Correlation Analysis for Better Business Decisions](https://dev.to/thedatageek/check-out-the-guide-on-unlocking-data-relationships-in-tableau-a-complete-guide-to-correlation-32ad)
-- [A powerful modular architecture package for Laravel applications](https://dev.to/saeedvir/a-powerful-modular-architecture-package-for-laravel-applications-59m1)
-- [Moving into the AWS Society — A Fun Way to Understand Cloud Networking](https://dev.to/tawkir_ahmed_86539e908d22/moving-into-the-aws-society-a-fun-way-to-understand-cloud-networking-54c4)
-- [Mastering MacOS Recovery Mode: The Complete Guide for Beginners](https://dev.to/seo-dipak-2312/mastering-macos-recovery-mode-the-complete-guide-for-beginners-5dgn)
+- [Master Java indexOf&lpar;&rpar;: Your Ultimate Guide to Finding Strings](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-indexof-your-ultimate-guide-to-finding-strings-1ohd)
+- [Elements in HTML](https://dev.to/s_sarumathi_a1de306480d33/elements-in-html-1ch6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
