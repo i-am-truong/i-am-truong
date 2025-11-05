@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Machine Learning in CAD to Detect Design Flaws Before They Become Costly](https://dev.to/alona_instandart/using-machine-learning-in-cad-to-detect-design-flaws-before-they-become-costly-3m44)
-- [Similarities Between a Stored Procedure in SQL and a Function in Python](https://dev.to/ian_mwangi/similarities-between-a-stored-procedure-in-sql-and-a-function-in-python-36hc)
-- [Structured prompts: how YAML cut my LLM costs by 30%](https://dev.to/inozem/structured-prompts-how-yaml-cut-my-llm-costs-by-30-3a56)
-- [Mastering End to End testing for Reliable Modern Software](https://dev.to/alok_kumar_6b77341922cec2/mastering-end-to-end-testing-for-reliable-modern-software-2enm)
-- [How to code MPU-6050 on STM32CubeIDE?](https://dev.to/carolineee/how-to-code-mpu-6050-on-stm32cubeide-1lle)
+- [Top 5 Attendance Management Tools for Dev Teams in 2026](https://dev.to/tmetric_timer_2b3a575fc8b/top-5-attendance-management-tools-for-dev-teams-in-2026-45kj)
+- [Chrome’s new “Split Tabs” -Finally, True multitasking in your browser 💻](https://dev.to/pooja_garva/chromes-new-split-tabs-finally-true-multitasking-in-your-browser-1lbo)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-4fnb)
+- [5 Frontend Frameworks That Will Dominate 2026 &lpar;And Fix Your SaaS UI Problems&rpar;](https://dev.to/hashbyt/5-frontend-frameworks-that-will-dominate-2026-and-fix-your-saas-ui-problems-48hj)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2l28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
