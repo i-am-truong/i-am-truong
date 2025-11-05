@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What actually are .tt files in Ruby?](https://dev.to/sampart/what-actually-are-tt-files-in-ruby-2gi1)
-- [ZentoraOS Receives Global Recognition from Q2B Studio 🇪🇸](https://dev.to/bhuvaneshm_dev/zentoraos-receives-global-recognition-from-q2b-studio-453j)
-- [How I Built a Plugin-Based Architecture in Angular 19+ 💉](https://dev.to/atheodosiou/how-i-built-a-plugin-based-architecture-in-angular-19-1n6o)
-- [Automate Slack workflows with LangGraph](https://dev.to/saif_shines/automate-slack-workflows-with-langgraph-4e62)
-- [FHIR MCP Server: Use Cases for Healthcare Developers](https://dev.to/momentumai/fhir-mcp-server-use-cases-for-healthcare-developers-4c5i)
+- [Top 6 Developer Trends Powering the Future of Web3 Innovation](https://dev.to/chikieabby/top-6-developer-trends-powering-the-future-of-web3-innovation-255m)
+- [jQuery Will Outlive Half of Today’s JavaScript Frameworks - Here&#39;s Why](https://dev.to/sylwia-lask/jquery-will-outlive-half-of-todays-javascript-frameworks-heres-why-2mmd)
+- [KAPLAN — Stealthy Bulk Fetching Over Tor for Red Team Ops](https://dev.to/toxy4ny/kaplan-stealthy-bulk-fetching-over-tor-for-red-team-ops-mnf)
+- [Meeting “mellea” !!!](https://dev.to/aairom/meeting-mellea--4ge2)
+- [[Boost]](https://dev.to/veo3freeai/-4oob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
