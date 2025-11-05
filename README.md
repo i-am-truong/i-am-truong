@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How-to use a Custom Start Button Image in Linux Mint](https://dev.to/d4rkd0s/how-to-use-a-custom-start-button-image-in-linux-mint-5d77)
-- [Don’t Be Someone People Have to Work With — Be Someone They Want to Work With](https://dev.to/themustaphatijani/dont-be-someone-people-have-to-work-with-be-someone-they-want-to-work-with-4cb2)
-- [iOS 26.1 Released: What Developers Need to Know](https://dev.to/arshtechpro/ios-261-released-what-developers-need-to-know-45b0)
-- [Creación de Peering Connections en AWS.](https://dev.to/cyb3rcloud8888/creacion-de-peering-connections-en-aws-449k)
-- [Wix vs Shopify: Which is Right for You?](https://dev.to/api_troll/wix-vs-shopify-which-is-right-for-you-472g)
+- [I built a WhatsApp bot that automatically tracks your expenses into Google Sheets — my first public project 🚀](https://dev.to/chrollolw/i-built-a-whatsapp-bot-that-automatically-tracks-your-expenses-into-google-sheets-my-first-public-33ii)
+- [Decentralized Communication System During Disasters – Using LoRa](https://dev.to/afrith_ahamedaj_bd70301/decentralized-communication-system-during-disasters-using-lora-p1b)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-4f3o)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-236l)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3gn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
