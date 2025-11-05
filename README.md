@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Europe just dropped a cloud rulebook &lpar;and it’s actually good&rpar;](https://dev.to/dev_tips/europe-just-dropped-a-cloud-rulebook-and-its-actually-good-7m6)
-- [DeepAgent: The Next Generation AI Reasoning Agent for Autonomous Workflows](https://dev.to/techstuff/deepagent-the-next-generation-ai-reasoning-agent-for-autonomous-workflows-1flh)
 - [Sin Containers no hay paraíso.](https://dev.to/jose_muoz_7408dd1b5bd4c9/sin-containers-no-hay-paraiso-3c7c)
 - [Podcastle Podcast: The Ultimate All-in-One Platform for Podcasters](https://dev.to/seo-dipak-2312/podcastle-podcast-the-ultimate-all-in-one-platform-for-podcasters-2j5e)
 - [Building Blocks of the .NET Platform — Explained for Beginners](https://dev.to/aryaglekshmi/building-blocks-of-the-net-platform-explained-for-beginners-2lae)
+- [The Weirdest Linux Distros That Shouldn’t Exist &lpar;But Absolutely Do&rpar;](https://dev.to/dev_tips/the-weirdest-linux-distros-that-shouldnt-exist-but-absolutely-do-5bpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
