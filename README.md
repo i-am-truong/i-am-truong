@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Copilot is gaslighting developers and we’re all pretending it’s fine](https://dev.to/dev_tips/copilot-is-gaslighting-developers-and-were-all-pretending-its-fine-51j9)
+- [The AI Speed Illusion](https://dev.to/dev_tips/the-ai-speed-illusion-467a)
+- [How I Built a Unified Calendar Dashboard with Next.js, Vercel Edge Functions &amp; No Database](https://dev.to/ravgeetdhillon/how-i-built-a-unified-calendar-dashboard-with-nextjs-vercel-edge-functions-no-database-368k)
 - [🧭 Understanding the `man` Command in Linux](https://dev.to/farhad_rahimi_klie/understanding-the-man-command-in-linux-4fl6)
 - [Why Finnish devs outperform silicon valley &lpar;long-term&rpar;: The nordic way of code](https://dev.to/dev_tips/why-finnish-devs-outperform-silicon-valley-long-term-the-nordic-way-of-code-14n7)
-- [Deciphering Human Language for Machines: A Developer&#39;s Guide to NLP](https://dev.to/mabualzait/deciphering-human-language-for-machines-a-developers-guide-to-nlp-289a)
-- [CSS FONT STYLES](https://dev.to/suma_suma/css-font-styles-4e18)
-- [Vibe Coding Vibe Deployment: The Next Big DevOps Shift](https://dev.to/dev_tips/vibe-coding-vibe-deployment-the-next-big-devops-shift-3fkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
