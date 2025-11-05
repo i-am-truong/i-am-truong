@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Skeptic&#39;s Guide to Vibe Coding](https://dev.to/mollie_pettit_2fa2a4d10f7/a-skeptics-guide-to-vibe-coding-213p)
-- [Effective Terraforming: Secrets of the Pros](https://dev.to/tavernetech/effective-terraforming-secrets-of-the-pros-54a1)
-- [Laravel Log Cleaner v2.0 - Memory-Efficient Log Management with Compression &amp; Backup](https://dev.to/jiordi_kengne/laravel-log-cleaner-v20-memory-efficient-log-management-with-compression-backup-3643)
-- [Detached agent chains that work like people do](https://dev.to/antti_kaipila/detached-agent-chains-that-work-like-people-do-5h8l)
-- [Why Business Central’s Standard BOM Setup Falls Short for Complex Configurations](https://dev.to/insight_works/why-business-centrals-standard-bom-setup-falls-short-for-complex-configurations-kal)
+- [MultiGit: One repository. Infinite destinations](https://dev.to/eshanized/multigit-one-repository-infinite-destinations-2adj)
+- [StatusGator Alternative in 2025: Why IT Managers Pick IsDown](https://dev.to/isdown/statusgator-alternative-in-2025-why-it-managers-pick-isdown-6h0)
+- [Comment j&#39;ai arrêté de redessiner l&#39;univers : une histoire d&#39;abonnements atomiques dans React](https://dev.to/quojs_dev/comment-jai-arrete-de-redessiner-lunivers-une-histoire-dabonnements-atomiques-dans-react-1kji)
+- [Software Engineering vs AI Engineering](https://dev.to/sentineleye/software-engineering-vs-ai-engineering-4mif)
+- [From Skeptic to Believer: A Process-Driven Approach to Vibe Coding](https://dev.to/mollie_pettit_2fa2a4d10f7/a-skeptics-guide-to-vibe-coding-213p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
