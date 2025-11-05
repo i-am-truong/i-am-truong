@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pular de galho em galho](https://dev.to/andersoncontreira/pular-de-galho-em-galho-3nfm)
+- [Microservices vs. Monoliths: Finding the Right Balance](https://dev.to/aris_georgatos/microservices-vs-monoliths-finding-the-right-balance-38aa)
+- [Frontend System Design: Pinterest](https://dev.to/zeeshanali0704/frontend-system-design-pinterest-3om2)
 - [⚙️ Digital Drive, Data Theft: The Hidden Danger Inside Your Car](https://dev.to/sybersecure/digital-drive-data-theft-the-hidden-danger-inside-your-car-2n1g)
 - [Quer trabalhar com empresas internacionais?](https://dev.to/andersoncontreira/quer-trabalhar-com-empresas-internacionais-4ckk)
-- [Cuidado com o que você faz na empresa](https://dev.to/andersoncontreira/cuidado-com-o-que-voce-faz-na-empresa-2hco)
-- [Getting to Know Gemini CLI: Your Terminal’s New AI Ally](https://dev.to/muskanfatim/getting-to-know-gemini-cli-your-terminals-new-ai-ally-1moa)
-- [Stop Worshiping Benchmarks: Smarter JS Runtime Picks](https://dev.to/nicholas_fraud_27eb8640e1/stop-worshiping-benchmarks-smarter-js-runtime-picks-5a5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
