@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Desvendando os Superpoderes do Elixir: Concorrência e Tolerância a Falhas](https://dev.to/gissandrogama/desvendando-os-superpoderes-do-elixir-concorrencia-e-tolerancia-a-falhas-5f6e)
+- [Cybersecurity in the AI Era: It&#39;s Not a Feature, It&#39;s Genetic Code](https://dev.to/stigadikar/cybersecurity-in-the-ai-era-its-not-a-feature-its-genetic-code-46jk)
 - [MultiGit: One repository. Infinite destinations](https://dev.to/eshanized/multigit-one-repository-infinite-destinations-2adj)
 - [StatusGator Alternative in 2025: Why IT Managers Pick IsDown](https://dev.to/isdown/statusgator-alternative-in-2025-why-it-managers-pick-isdown-6h0)
 - [Comment j&#39;ai arrêté de redessiner l&#39;univers : une histoire d&#39;abonnements atomiques dans React](https://dev.to/quojs_dev/comment-jai-arrete-de-redessiner-lunivers-une-histoire-dabonnements-atomiques-dans-react-1kji)
-- [Software Engineering vs AI Engineering](https://dev.to/sentineleye/software-engineering-vs-ai-engineering-4mif)
-- [From Skeptic to Believer: A Process-Driven Approach to Vibe Coding](https://dev.to/mollie_pettit_2fa2a4d10f7/a-skeptics-guide-to-vibe-coding-213p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
