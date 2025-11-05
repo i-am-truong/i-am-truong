@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧩 Track Workflow Activities by Name in Joget Using SQL and DataList Configuration](https://dev.to/exploringmylifeworks/track-workflow-activities-by-name-in-joget-using-sql-and-datalist-configuration-3gkn)
 - [Grok AI: A Deep Dive into xAI’s Maverick Chatbot](https://dev.to/sanjaynaker/grok-ai-a-deep-dive-into-xais-maverick-chatbot-5gbn)
 - [🔄 Process Migration Between App Versions in Joget](https://dev.to/exploringmylifeworks/process-migration-between-app-versions-in-joget-bok)
 - [🚀 UV, el nuevo estándar para Python](https://dev.to/afr_dt/uv-el-nuevo-estandar-para-python-2j3p)
 - [How to Build a RAG Solution with Llama Index, ChromaDB, and Ollama](https://dev.to/sophyia/how-to-build-a-rag-solution-with-llama-index-chromadb-and-ollama-20lb)
-- [&quot;Melodic Airways Transforming Flight Routes Into Music&quot;](https://dev.to/aviral_srivastava_2c4e212/melodic-airways-transforming-flight-routes-into-music-4l72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
