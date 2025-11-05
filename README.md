@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creación de Peering Connections en AWS.](https://dev.to/cyb3rcloud8888/creacion-de-peering-connections-en-aws-449k)
+- [Home Lab: Chapter 8 — Kubernetes Storage with Rook-Ceph](https://dev.to/aanogueira/home-lab-chapter-8-kubernetes-storage-with-rook-ceph-338)
 - [Beyond the &quot;Vibe Check&quot;: How to Use the Web Codegen Scorer to Master AI-Generated Code](https://dev.to/sunny7899/beyond-the-vibe-check-how-to-use-the-web-codegen-scorer-to-master-ai-generated-code-1k01)
 - [DXG Spark for Local LLM Development](https://dev.to/wachawo/dxg-spark-for-local-llm-development-4g8a)
 - [What Is Critical CSS and Why It Matters for Site Speed](https://dev.to/rijultp/what-is-critical-css-and-why-it-matters-for-site-speed-33cf)
-- [Every way to detect a user&#39;s locale &lpar;from best to worst&rpar;](https://dev.to/lingodotdev/every-way-to-detect-a-users-locale-from-best-to-worst-369i)
-- [Integrating MCP Tools with AWS Bedrock in an ASP.NET Core Minimal API](https://dev.to/ohalay/integrating-mcp-tools-with-aws-bedrock-in-an-aspnet-core-minimal-api-1p88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
