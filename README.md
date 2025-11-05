@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring Data JPA Best Practices: Entity Design Guide](https://dev.to/protsenko/spring-data-jpa-best-practices-entity-design-guide-ad)
-- [AI-Powered Industrial Safety: Real-Time Monitoring Using YOLOv8 and Edge AI](https://dev.to/adharsh_c_07bb4597017fa8d/ai-powered-industrial-safety-real-time-monitoring-using-yolov8-and-edge-ai-g7d)
-- [Understanding Backpressure in web socket](https://dev.to/safal_bhandari/understanding-backpressure-in-web-socket-471m)
-- [I Coded a Digital ID System for 450M People &lpar;Using ONLY My Mom&#39;s Phone &amp; GitHub&rpar;](https://dev.to/shalinibhavi525sudo/i-coded-a-digital-id-system-for-450m-people-using-only-my-moms-phone-github-b0h)
-- [How AGI Will Reshape Human Work, Purpose, and Power](https://dev.to/akshatraj00/how-agi-will-reshape-human-work-purpose-and-power-3038)
+- [How AI Browsers Are the New Hotness and What This Means for Us](https://dev.to/andrewbaisden/how-ai-browsers-are-the-new-hotness-and-what-this-means-for-us-38dp)
+- [The Developer&#39;s Guide to Building a Better Trading System with Scope360](https://dev.to/mikecodez/the-developers-guide-to-building-a-better-trading-system-with-scope360-5ej5)
+- [Microsoft Recall vs Recall Assist: Privacy Comparison](https://dev.to/nodminger/microsoft-recall-vs-recall-assist-privacy-comparison-16oa)
+- [Meetily vs Otter.ai: Privacy-First Alternative for 2025](https://dev.to/zackriya/meetily-vs-otterai-privacy-first-alternative-for-2025-bh5)
+- [Day 1, part II : Call by value](https://dev.to/chhavi_joshi_ede276cfcc06/day-1-part-ii-call-by-value-348p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
