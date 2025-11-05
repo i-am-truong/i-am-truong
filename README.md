@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From student to developer - How open source can launch your career](https://dev.to/tessamero/from-student-to-developer-how-open-source-can-launch-your-career-d2n)
-- [The future of coding: Cursor, AI, and the rise of backend automation with Appwrite](https://dev.to/tessamero/the-future-of-coding-cursor-ai-and-the-rise-of-backend-automation-with-appwrite-14ic)
-- [Dr. Strangepie or: How I Learned to Stop Resisting and Love Expo](https://dev.to/keveightysev/dr-strangepie-or-how-i-learned-to-stop-resisting-and-love-expo-1o7a)
-- [sshOuroboros multiplayer game in goLang with ssh, and the story.](https://dev.to/mshel/sshouroboros-multiplayer-game-in-golang-with-ssh-and-the-story-1399)
-- [I Built an Open-Source Task Timer Widget for Windows — and Published It on Microsoft Store](https://dev.to/melihcelenk/i-built-an-open-source-task-timer-widget-for-windows-and-published-it-on-microsoft-store-4bc5)
+- [Awesome FFmpeg Tricks for Video and Audio Manipulation](https://dev.to/picoable/awesome-ffmpeg-tricks-for-video-and-audio-manipulation-3p08)
+- [FPGA_Part_03](https://dev.to/cevval/fpgapart03-5c1p)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-44j4)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-328h)
+- [Deleting GitHub Repositories Without Prompt: A Guide to Automated Cleanup](https://dev.to/picoable/deleting-github-repositories-without-prompt-a-guide-to-automated-cleanup-1jeb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
