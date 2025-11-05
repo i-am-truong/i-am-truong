@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top POS System Benefits Every Retailer Should Know in 2025](https://dev.to/ankita_67b0f155bd5cd86af4/top-pos-system-benefits-every-retailer-should-know-in-2025-3jbl)
-- [The State of Apache Iceberg, Polaris, and Arrow: October–November 2025](https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-polaris-and-arrow-october-november-2025-4gmg)
-- [Day 23 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-23-of-my-ai-data-mastery-journey-from-python-to-generative-ai-2891)
-- [Mastering Concurrency in Go: Goroutines, Channels, and Patterns](https://dev.to/djamware_tutorial_eba1a61/mastering-concurrency-in-go-goroutines-channels-and-patterns-4fhk)
-- [Ultimate C# Tutorial &lpar;C Sharp&rpar; for .NET Developers](https://dev.to/tpointtechblog/ultimate-c-tutorial-c-sharp-for-net-developers-lef)
+- [What actually are .tt files in Ruby?](https://dev.to/sampart/what-actually-are-tt-files-in-ruby-2gi1)
+- [ZentoraOS Receives Global Recognition from Q2B Studio 🇪🇸](https://dev.to/bhuvaneshm_dev/zentoraos-receives-global-recognition-from-q2b-studio-453j)
+- [How I Built a Plugin-Based Architecture in Angular 19+ 💉](https://dev.to/atheodosiou/how-i-built-a-plugin-based-architecture-in-angular-19-1n6o)
+- [Automate Slack workflows with LangGraph](https://dev.to/saif_shines/automate-slack-workflows-with-langgraph-4e62)
+- [FHIR MCP Server: Use Cases for Healthcare Developers](https://dev.to/momentumai/fhir-mcp-server-use-cases-for-healthcare-developers-4c5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
