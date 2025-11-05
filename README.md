@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iOS 26.1 Released: What Developers Need to Know](https://dev.to/arshtechpro/ios-261-released-what-developers-need-to-know-45b0)
 - [Creación de Peering Connections en AWS.](https://dev.to/cyb3rcloud8888/creacion-de-peering-connections-en-aws-449k)
+- [Wix vs Shopify: Which is Right for You?](https://dev.to/api_troll/wix-vs-shopify-which-is-right-for-you-472g)
+- [Can security risks of AI browser agents be mitigated?](https://dev.to/jay_all_day/can-security-risks-of-ai-browser-agents-be-mitigated-31b)
 - [Home Lab: Chapter 8 — Kubernetes Storage with Rook-Ceph](https://dev.to/aanogueira/home-lab-chapter-8-kubernetes-storage-with-rook-ceph-338)
-- [Beyond the &quot;Vibe Check&quot;: How to Use the Web Codegen Scorer to Master AI-Generated Code](https://dev.to/sunny7899/beyond-the-vibe-check-how-to-use-the-web-codegen-scorer-to-master-ai-generated-code-1k01)
-- [DXG Spark for Local LLM Development](https://dev.to/wachawo/dxg-spark-for-local-llm-development-4g8a)
-- [What Is Critical CSS and Why It Matters for Site Speed](https://dev.to/rijultp/what-is-critical-css-and-why-it-matters-for-site-speed-33cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
