@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking jQuery Mastery: Secrets No One Tells You &lpar;Until Now!&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/unlocking-jquery-mastery-secrets-no-one-tells-you-until-now-5fgk)
-- [Culture](https://dev.to/woahguy1/culture-50h6)
-- [Can a HashMap Have a Null Key? What About ConcurrentHashMap?](https://dev.to/realnamehidden1_61/can-a-hashmap-have-a-null-key-what-about-concurrenthashmap-3cjp)
-- [Java Access Modifiers &amp; Packages](https://dev.to/masteringbackend/java-access-modifiers-packages-51i)
-- [Begrijpen van Pod Pending States: Waarom je Pods niet plannen?](https://dev.to/shubhcloud/begrijpen-van-pod-pending-states-waarom-je-pods-niet-plannen-51b6)
+- [Mastering End to End testing for Reliable Modern Software](https://dev.to/alok_kumar_6b77341922cec2/mastering-end-to-end-testing-for-reliable-modern-software-2enm)
+- [Understanding the Difference Between Subquery, CTE, and Stored Procedure](https://dev.to/ian_mwangi/understanding-the-difference-between-subquery-cte-and-stored-procedure-1k37)
+- [nderstanding Reverse Proxy with .NET &amp; SignalR &lpar;With Source Code + ZIP&rpar;](https://dev.to/morteza-jangjoo/nderstanding-reverse-proxy-with-net-signalr-with-source-code-zip-4p9)
+- [🖼️ Responsive Images: Serving the Right Image for Every Screen](https://dev.to/okoye_ndidiamaka_5e3b7d30/responsive-images-serving-the-right-image-for-every-screen-3c90)
+- [Production-Grade Python Logging Made Easier with Loguru](https://dev.to/dash0/production-grade-python-logging-made-easier-with-loguru-3bbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
