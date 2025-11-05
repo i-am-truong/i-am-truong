@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Build Your Own AI Sales Prospecting Tool in 3 Simple Steps](https://dev.to/mygom/build-your-own-ai-sales-prospecting-tool-in-3-simple-steps-11jm)
+- [Master Python Web Scraping with 5 Real-World Projects](https://dev.to/b5119/master-python-web-scraping-with-5-real-world-projects-4gnn)
 - [No, you don’t need Lit, Vite, or TypeScript to Extend the Umbraco Backoffice](https://dev.to/luukpeters/no-you-dont-need-lit-vite-or-typescript-to-extend-the-umbraco-backoffice-2mg6)
 - [Preserve Console Logs in Browser using DevTools 🧠](https://dev.to/pooja_garva/preserve-console-logs-in-browser-using-devtools-5k0)
 - [Cloud Computing Overview: Migrate, Secure, Scale — AD Infosystem](https://dev.to/adinfo_system_92fc2c59a7e/cloud-computing-overview-migrate-secure-scale-ad-infosystem-100j)
-- [I Published My First NPM Package: create-pwa-boilerplate 🚀](https://dev.to/fadilnatakusumah/i-published-my-first-npm-package-create-pwa-boilerplate-38k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
