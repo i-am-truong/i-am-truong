@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3mi2)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-p3o)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-2m2h)
-- [It&#39;s time to start measuring accuracy of data extraction with downstream systems and usability in mind, not just vanity metrics for a marketing slide](https://dev.to/drguthals/its-time-to-start-measuring-accuracy-of-data-extraction-with-downstream-systems-and-usability-in-1a2m)
-- [Optional Is Not Optional in C++ &lpar;and Definitely Not a Pointer&rpar;](https://dev.to/kyrylorud/optional-is-not-optional-in-c-and-definitely-not-a-pointer-34jp)
+- [Before there was Kubernetes, there was Borg......](https://dev.to/kaustubhyerkade/before-there-was-kubernetes-there-was-borg-hfa)
+- [I Launched on Product Hunt With No Network... Here’s What Happened](https://dev.to/isakbuilds/i-launched-on-product-hunt-with-no-network-heres-what-happened-3mcm)
+- [How to send OTP codes with SMS in Node.js](https://dev.to/jahongir2007/how-to-send-otp-codes-with-sms-in-nodejs-3mak)
+- [Everything You Need to Know to Start Your Way as a Programmer](https://dev.to/nedajahanfar/everything-you-need-to-know-to-start-your-way-as-a-programmer-1p01)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-ffg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
