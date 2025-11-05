@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pular de galho em galho](https://dev.to/andersoncontreira/pular-de-galho-em-galho-3nfm)
-- [Microservices vs. Monoliths: Finding the Right Balance](https://dev.to/aris_georgatos/microservices-vs-monoliths-finding-the-right-balance-38aa)
-- [Frontend System Design: Pinterest](https://dev.to/zeeshanali0704/frontend-system-design-pinterest-3om2)
-- [⚙️ Digital Drive, Data Theft: The Hidden Danger Inside Your Car](https://dev.to/sybersecure/digital-drive-data-theft-the-hidden-danger-inside-your-car-2n1g)
-- [Quer trabalhar com empresas internacionais?](https://dev.to/andersoncontreira/quer-trabalhar-com-empresas-internacionais-4ckk)
+- [Top 10 GitHub Copilot Updates You Actually Need to Know About 💥](https://dev.to/anchildress1/top-10-github-copilot-updates-you-actually-need-to-know-about-297d)
+- [The Day Our Cloud Bill Hit $127K &lpar;And Nobody Knew Why&rpar;](https://dev.to/arbythecoder/the-day-our-cloud-bill-hit-127k-and-nobody-knew-why-5e88)
+- [🧩 Hackathon Recap: Building “API Syncer” — Using AI to Work Smart, Not Hard](https://dev.to/marivicdbp/hackathon-recap-building-api-syncer-using-ai-to-work-smart-not-hard-1pki)
+- [Um desenvolvedor não deve se limitar apenas a escrever código.](https://dev.to/andersoncontreira/um-desenvolvedor-nao-deve-se-limitar-apenas-a-escrever-codigo-56b8)
+- [Você já trabalhou em uma empresa que valorizava mais o hard skill do que o soft skill de algumas pessoas?](https://dev.to/andersoncontreira/voce-ja-trabalhou-em-uma-empresa-que-valorizava-mais-o-hard-skill-do-que-o-soft-skill-de-algumas-5g8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
