@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Attendance Management Tools for Dev Teams in 2026](https://dev.to/tmetric_timer_2b3a575fc8b/top-5-attendance-management-tools-for-dev-teams-in-2026-45kj)
-- [Chrome’s new “Split Tabs” -Finally, True multitasking in your browser 💻](https://dev.to/pooja_garva/chromes-new-split-tabs-finally-true-multitasking-in-your-browser-1lbo)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-4fnb)
-- [5 Frontend Frameworks That Will Dominate 2026 &lpar;And Fix Your SaaS UI Problems&rpar;](https://dev.to/hashbyt/5-frontend-frameworks-that-will-dominate-2026-and-fix-your-saas-ui-problems-48hj)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2l28)
+- [Build Your Own AI Sales Prospecting Tool in 3 Simple Steps](https://dev.to/mygom/build-your-own-ai-sales-prospecting-tool-in-3-simple-steps-11jm)
+- [No, you don’t need Lit, Vite, or TypeScript to Extend the Umbraco Backoffice](https://dev.to/luukpeters/no-you-dont-need-lit-vite-or-typescript-to-extend-the-umbraco-backoffice-2mg6)
+- [Preserve Console Logs in Browser using DevTools 🧠](https://dev.to/pooja_garva/preserve-console-logs-in-browser-using-devtools-5k0)
+- [Cloud Computing Overview: Migrate, Secure, Scale — AD Infosystem](https://dev.to/adinfo_system_92fc2c59a7e/cloud-computing-overview-migrate-secure-scale-ad-infosystem-100j)
+- [I Published My First NPM Package: create-pwa-boilerplate 🚀](https://dev.to/fadilnatakusumah/i-published-my-first-npm-package-create-pwa-boilerplate-38k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
