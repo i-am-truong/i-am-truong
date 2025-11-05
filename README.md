@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ERD Models](https://dev.to/farlamo/erd-models-41g4)
+- [Telex Weather Agent](https://dev.to/gamey001/telex-weather-agent-d9m)
+- [Okay, ich baue also mein eigenes &quot;Google Maps&quot;. Hier ist mein Plan... und meine Albträume.](https://dev.to/mapnav_dev_05896c1891e1a36dd5c/okay-ich-baue-also-mein-eigenes-google-maps-hier-ist-mein-plan-und-meine-albtraume-7kc)
+- [The Unseen Architecture of Python: Mastering Environments, Typing, and Memory](https://dev.to/onlineproxy/the-unseen-architecture-of-python-mastering-environments-typing-and-memory-32df)
 - [Building a Sustainable On-Call Culture: Escaping Alert Fatigue Before It Breaks You](https://dev.to/anderson_leite/building-a-sustainable-on-call-culture-escaping-alert-fatigue-before-it-breaks-you-275p)
-- [Weekly Update #16](https://dev.to/abytebybyte/weekly-update-16-2fnc)
-- [A new language for COBOL workloads, built on GO!](https://dev.to/nikolas_sokratous_ba3dcce/a-new-language-for-cobol-workloads-built-on-go-1gdo)
-- [From AI to NLP: The Four Phases of Language Understanding](https://dev.to/themustaphatijani/from-ai-to-nlp-the-four-phases-of-language-understanding-3gp8)
-- [The joy of Kubernetes](https://dev.to/hedgehog/the-joy-of-kubernetes-4ijl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
