@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Artificial Intelligence is Reshaping Food Production and Delivery](https://dev.to/mitchelljhonson/how-artificial-intelligence-is-reshaping-food-production-and-delivery-3c7k)
-- [Setting Up Storage for IT Department Testing and Training in Azure](https://dev.to/adebayo_ganiyatoladunjoy/setting-up-storage-for-it-department-testing-and-training-in-azure-428j)
-- [Adding a Custom Context Menu to CanvasJS Charts on Right-Click](https://dev.to/manoj_004d/adding-a-custom-context-menu-to-canvasjs-charts-on-right-click-40k2)
-- [Software Engineering vs Data Science: A Real Talk for Students](https://dev.to/mohamed-riham/software-engineering-vs-data-science-in-2025-a-real-talk-for-students-27c8)
-- [How Self-Attention Actually Works &lpar;Simple Explanation&rpar;](https://dev.to/ajith_kumar_593bb762c09ce/how-self-attention-actually-works-simple-explanation-4086)
+- [Mastering Angular Signals: A Complete Guide Beyond RxJS](https://dev.to/romain_geffrault_10d88369/mastering-angular-signals-a-complete-guide-beyond-rxjs-30mo)
+- [Building Spexop: A Journey in Design System Development](https://dev.to/olmstedian/building-spexop-a-journey-in-design-system-development-jkm)
+- [Build unsigned iOS ipa to install via Sideloadly!](https://dev.to/oivoodoo/build-unsigned-ios-ipa-to-install-via-sideloadly-236f)
+- [Free Website Uptime API — JSON for Developers and AI Integrations](https://dev.to/saganmarketing/free-website-uptime-api-json-for-developers-and-ai-integrations-519m)
+- [Building a Smart Task Tracker Agent for Telex.im with ASP.NET Core](https://dev.to/precious_adeoye_24027ce73/building-a-smart-task-tracker-agent-for-telexim-with-aspnet-core-27dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
