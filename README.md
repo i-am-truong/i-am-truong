@@ -119,11 +119,16 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to set up your domain and TLS with PocketBase](https://dev.to/fabienmartin/how-to-set-up-your-domain-and-tls-with-pocketbase-20e0)
-- [How AI Coding Agents Are Reshaping Developer Workflows](https://dev.to/eabait/how-ai-coding-agents-are-reshaping-developer-workflows-3249)
-- [How to Query and Display Nearby Places on a Leaflet Map with the Geoapify Places API](https://dev.to/geoapify-maps-api/how-to-query-and-display-nearby-places-on-a-leaflet-map-with-the-geoapify-places-api-43p8)
-- [🧱 Lesson 6  - Redis Caching for Performance Optimization](https://dev.to/farrukh_rehman/lesson-6-redis-caching-for-performance-optimization-5d12)
-- [Is it worth it, to reinvent the wheel!?](https://dev.to/neosbuilder/is-it-worth-it-to-reinvent-the-wheel-12hb)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-3n9d)
+- [Wednesday Links - Edition 2025-11-05](https://dev.to/0xkkocel/wednesday-links-edition-2025-11-05-9d3)
+- [Try it out, and give it a star ⭐ if you liked it.](https://dev.to/masterdevsabith/try-it-out-and-give-it-a-star-if-you-liked-it-2po0)
+- [I built an app using flutter that lets you save any bookmark on any app](https://dev.to/nullvoidkage/i-built-an-app-using-flutter-that-lets-you-save-any-bookmark-on-any-app-4nab)
+- [I&#39;ve recently started using vim as my editor, &lpar;now vim key bindings on vscode.&rpar;
+
+For newcomers, learning vim motions might take some time, so I&#39;ve created a snake game for mastering vim motions.
+
+Here&#39;s the link : 
+https://vim-snake-navy.vercel.app](https://dev.to/masterdevsabith/ive-recently-started-using-vim-as-my-editor-now-vim-key-bindings-on-vscode-for-newcomers-h5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
