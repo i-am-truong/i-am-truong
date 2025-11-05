@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dockerize &amp; Deploy Spring Boot + Angular + MySQL | Full Guide](https://dev.to/smoothcode/dockerize-deploy-spring-boot-angular-mysql-full-guide-24fg)
-- [Designing Data-Intensive Applications [Book Review]-The Big Ideas Behind Reliable, Scalable and Maintainable Systems](https://dev.to/hectorw_tt/designing-data-intensive-applications-book-review-the-big-ideas-behind-reliable-scalable-and-298m)
-- [CI/CD Best Practices: Building Robust Deployment Pipelines](https://dev.to/instadevops/cicd-best-practices-building-robust-deployment-pipelines-2jc7)
-- [Infrastructure as Code with Terraform: A Complete Guide](https://dev.to/instadevops/infrastructure-as-code-with-terraform-a-complete-guide-1mm2)
-- [Building an IMU Simulator from the Ground Up: A Journey Through Inertial Navigation](https://dev.to/pederzoli/building-an-imu-simulator-from-the-ground-up-a-journey-through-inertial-navigation-187j)
+- [Spring Data JPA Best Practices: Entity Design Guide](https://dev.to/protsenko/spring-data-jpa-best-practices-entity-design-guide-ad)
+- [AI-Powered Industrial Safety: Real-Time Monitoring Using YOLOv8 and Edge AI](https://dev.to/adharsh_c_07bb4597017fa8d/ai-powered-industrial-safety-real-time-monitoring-using-yolov8-and-edge-ai-g7d)
+- [Understanding Backpressure in web socket](https://dev.to/safal_bhandari/understanding-backpressure-in-web-socket-471m)
+- [I Coded a Digital ID System for 450M People &lpar;Using ONLY My Mom&#39;s Phone &amp; GitHub&rpar;](https://dev.to/shalinibhavi525sudo/i-coded-a-digital-id-system-for-450m-people-using-only-my-moms-phone-github-b0h)
+- [How AGI Will Reshape Human Work, Purpose, and Power](https://dev.to/akshatraj00/how-agi-will-reshape-human-work-purpose-and-power-3038)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
