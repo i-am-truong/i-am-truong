@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a Self-Healing Serverless CICD Pipeline with AWS Developer Tools.](https://dev.to/aws-builders/implementing-a-self-healing-serverless-cicd-pipeline-with-aws-developer-tools-611)
-- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-3n9d)
-- [Wednesday Links - Edition 2025-11-05](https://dev.to/0xkkocel/wednesday-links-edition-2025-11-05-9d3)
-- [Try it out, and give it a star ⭐ if you liked it.](https://dev.to/masterdevsabith/try-it-out-and-give-it-a-star-if-you-liked-it-2po0)
-- [I built an app using flutter that lets you save any bookmark on any app](https://dev.to/nullvoidkage/i-built-an-app-using-flutter-that-lets-you-save-any-bookmark-on-any-app-4nab)
+- [Build a fullstack Notes app with Cursor, Appwrite, and TanStack Start](https://dev.to/tessamero/build-a-fullstack-notes-app-with-cursor-appwrite-and-tanstack-start-33eh)
+- [Migrating a Static HTML/CSS/JS Project to React Using Vite - A Step-by-Step Guide](https://dev.to/werliton/migrating-a-static-htmlcssjs-project-to-react-using-vite-a-step-by-step-guide-a7m)
+- [UPS plane crashes near Louisville airport](https://dev.to/technoblogger14o3/ups-plane-crashes-near-louisville-airport-4mlo)
+- [Why You’re Burned Out and What to Stop Doing](https://dev.to/remotebranch/why-youre-burned-out-and-what-to-stop-doing-f46)
+- [OpenAI launched Atlas and I killed it with a Chrome extension](https://dev.to/composiodev/openai-launched-atlas-and-i-killed-it-with-a-chrome-extension-1cfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
