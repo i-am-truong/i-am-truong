@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Writing Java Code Safely and Smartly with Null-Safety Using JPlus](https://dev.to/cheol_jeon_9e29b98fdb7e1e/writing-java-code-safely-and-smartly-with-null-safety-using-jplus-2pcg)
-- [局部变量](https://dev.to/nikimunger/ju-bu-bian-liang-30j3)
-- [Guide to Seamless Data Security in Rails With Mongoid’s Automatic Encryption](https://dev.to/mongodb/guide-to-seamless-data-security-in-rails-with-mongoids-automatic-encryption-33d2)
-- [🤖 Déployer son agent sur Google Vertex AI Agent Engine](https://dev.to/zenika/deployer-son-agent-sur-google-vertex-ai-agent-engine-342l)
-- [Understanding Kafka Lag](https://dev.to/lagat_josiah_f024a2c855bc/understanding-kafka-lag-395b)
+- [AI That Shows Its Work: The Transparent Revolution of PALs](https://dev.to/naresh_007/ai-that-shows-its-work-the-transparent-revolution-of-pals-59ia)
+- [Making Java Code Null-Safe With JPlus](https://dev.to/cheol_jeon_9e29b98fdb7e1e/make-java-code-null-safe-with-jplus-3b9h)
+- [Wix vs Shopify: Which is Better for E-commerce?](https://dev.to/api_troll/wix-vs-shopify-which-is-better-for-e-commerce-lol)
+- [🎙️ Building a Text-to-Speech &lpar;TTS&rpar; GUI with Python](https://dev.to/smoothcode/building-a-text-to-speech-tts-gui-with-python-dhc)
+- [Bloom Filter with Express.js](https://dev.to/speaklouder/bloom-filter-with-expressjs-3b3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
