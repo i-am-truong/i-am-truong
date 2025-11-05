@@ -119,11 +119,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Saving Game Data in Unity — Part 2: JSON/XML files](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-2-jsonxml-files-9gp)
+- [What We Learned from Subjecting LikhaERP to Independent VAPT Testing](https://dev.to/tito-software-dev/what-we-learned-from-subjecting-likhaerp-to-independent-vapt-testing-5097)
+- [Loool
+
+https://www.pcgamer.com/software/security/post-heist-reports-reveal-the-password-for-the-louvres-video-surveillance-was-louvre-and-suddenly-the-dumpster-tier-opsec-of-videogame-npcs-seems-a-lot-less-absurd/](https://dev.to/ben/loool-1200)
+- [Scaling Smart: Lean Manufacturing Principles for Emerging Rail Manufacturing Businesses](https://dev.to/david-pitman/scaling-smart-lean-manufacturing-principles-for-emerging-rail-manufacturing-businesses-53ae)
 - [Top 6 Developer Trends Powering the Future of Web3 Innovation](https://dev.to/chikieabby/top-6-developer-trends-powering-the-future-of-web3-innovation-255m)
-- [jQuery Will Outlive Half of Today’s JavaScript Frameworks - Here&#39;s Why](https://dev.to/sylwia-lask/jquery-will-outlive-half-of-todays-javascript-frameworks-heres-why-2mmd)
-- [KAPLAN — Stealthy Bulk Fetching Over Tor for Red Team Ops](https://dev.to/toxy4ny/kaplan-stealthy-bulk-fetching-over-tor-for-red-team-ops-mnf)
-- [Meeting “mellea” !!!](https://dev.to/aairom/meeting-mellea--4ge2)
-- [[Boost]](https://dev.to/veo3freeai/-4oob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
