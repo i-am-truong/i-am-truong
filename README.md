@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Skeptic&#39;s Guide to Vibe Coding](https://dev.to/mollie_pettit_2fa2a4d10f7/a-skeptics-guide-to-vibe-coding-213p)
+- [Effective Terraforming: Secrets of the Pros](https://dev.to/tavernetech/effective-terraforming-secrets-of-the-pros-54a1)
 - [Laravel Log Cleaner v2.0 - Memory-Efficient Log Management with Compression &amp; Backup](https://dev.to/jiordi_kengne/laravel-log-cleaner-v20-memory-efficient-log-management-with-compression-backup-3643)
 - [Detached agent chains that work like people do](https://dev.to/antti_kaipila/detached-agent-chains-that-work-like-people-do-5h8l)
-- [Why AI infrastructure and multi-platform compute strategy matters now?](https://dev.to/jay_all_day/why-ai-infrastructure-and-multi-platform-compute-strategy-matters-now-40d7)
-- [Unlocking Developer Revenue: How Monetzly Transforms AI App Monetization](https://dev.to/monetzly/unlocking-developer-revenue-how-monetzly-transforms-ai-app-monetization-3ik9)
-- [Project: Serverless Orders + Profiles part 2](https://dev.to/jumptotech/project-serverless-orders-profiles-part-2-jno)
+- [Why Business Central’s Standard BOM Setup Falls Short for Complex Configurations](https://dev.to/insight_works/why-business-centrals-standard-bom-setup-falls-short-for-complex-configurations-kal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
