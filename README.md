@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a fullstack Notes app with Cursor, Appwrite, and TanStack Start](https://dev.to/tessamero/build-a-fullstack-notes-app-with-cursor-appwrite-and-tanstack-start-33eh)
-- [Migrating a Static HTML/CSS/JS Project to React Using Vite - A Step-by-Step Guide](https://dev.to/werliton/migrating-a-static-htmlcssjs-project-to-react-using-vite-a-step-by-step-guide-a7m)
-- [UPS plane crashes near Louisville airport](https://dev.to/technoblogger14o3/ups-plane-crashes-near-louisville-airport-4mlo)
-- [Why You’re Burned Out and What to Stop Doing](https://dev.to/remotebranch/why-youre-burned-out-and-what-to-stop-doing-f46)
-- [OpenAI launched Atlas and I killed it with a Chrome extension](https://dev.to/composiodev/openai-launched-atlas-and-i-killed-it-with-a-chrome-extension-1cfb)
+- [Unlocking the Brain of AI: How Neural Networks Are Changing Everything](https://dev.to/vikramlingam/unlocking-the-brain-of-ai-how-neural-networks-are-changing-everything-2fhf)
+- [7 technologies qui révolutionnent le monde de la crypto au-delà du Bitcoin](https://dev.to/carlvilla/7-technologies-qui-revolutionnent-le-monde-de-la-crypto-au-dela-du-bitcoin-21c2)
+- [RestlessIDE Enters Public Beta](https://dev.to/restlessmike/restlesside-enters-public-beta-21ke)
+- [Playwright com TypeScript: Construindo um Framework de Automação &lpar;Parte 1&rpar;](https://dev.to/rodrigoobc/playwright-com-typescript-construindo-um-framework-de-automacao-parte-1-3k3h)
+- [Cron Jobs: Why They Matter for Developers](https://dev.to/suruliraajan/cron-jobs-why-they-matter-for-developers-407i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
