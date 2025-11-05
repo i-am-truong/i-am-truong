@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧭 Understanding the `man` Command in Linux](https://dev.to/farhad_rahimi_klie/understanding-the-man-command-in-linux-4fl6)
+- [Why Finnish devs outperform silicon valley &lpar;long-term&rpar;: The nordic way of code](https://dev.to/dev_tips/why-finnish-devs-outperform-silicon-valley-long-term-the-nordic-way-of-code-14n7)
+- [Deciphering Human Language for Machines: A Developer&#39;s Guide to NLP](https://dev.to/mabualzait/deciphering-human-language-for-machines-a-developers-guide-to-nlp-289a)
 - [CSS FONT STYLES](https://dev.to/suma_suma/css-font-styles-4e18)
 - [Vibe Coding Vibe Deployment: The Next Big DevOps Shift](https://dev.to/dev_tips/vibe-coding-vibe-deployment-the-next-big-devops-shift-3fkh)
-- [LitmusChaos October Highlights - Hacktoberfest, Meetups &amp; More!](https://dev.to/litmus-chaos/litmuschaos-october-highlights-hacktoberfest-meetups-more-51h6)
-- [Building an AI-Powered E-Commerce Platform with Rich UI Rendering](https://dev.to/exploredataaiml/building-an-ai-powered-e-commerce-platform-with-rich-ui-rendering-11gi)
-- [Menjalankan Aplikasi Python Melalui Platform Menggunakan Docker dan GitHub Actions](https://dev.to/jasnagora_2023_2f2d17834f/menjalankan-aplikasi-python-melalui-platform-menggunakan-docker-dan-github-actions-29oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
