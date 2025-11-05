@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Log Cleaner v2.0 - Memory-Efficient Log Management with Compression &amp; Backup](https://dev.to/jiordi_kengne/laravel-log-cleaner-v20-memory-efficient-log-management-with-compression-backup-3643)
+- [Detached agent chains that work like people do](https://dev.to/antti_kaipila/detached-agent-chains-that-work-like-people-do-5h8l)
 - [Why AI infrastructure and multi-platform compute strategy matters now?](https://dev.to/jay_all_day/why-ai-infrastructure-and-multi-platform-compute-strategy-matters-now-40d7)
-- [Mind the Gap: The API Layer That Shouldn’t Exist](https://dev.to/lake22traillady/mind-the-gap-the-api-layer-that-shouldnt-exist-1n60)
-- [Leetcode - Day 1](https://dev.to/shivi_e441534c4/leetcode-day-1-41k5)
-- [Building Scalable API Test Automation with Postman + Newman — My Gradific API Testing Project](https://dev.to/loveline/building-scalable-api-test-automation-with-postman-newman-my-gradific-api-testing-project-31fp)
-- [Awesome FFmpeg Tricks for Video and Audio Manipulation](https://dev.to/picoable/awesome-ffmpeg-tricks-for-video-and-audio-manipulation-3p08)
+- [Unlocking Developer Revenue: How Monetzly Transforms AI App Monetization](https://dev.to/monetzly/unlocking-developer-revenue-how-monetzly-transforms-ai-app-monetization-3ik9)
+- [Project: Serverless Orders + Profiles part 2](https://dev.to/jumptotech/project-serverless-orders-profiles-part-2-jno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
