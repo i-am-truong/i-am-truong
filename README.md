@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From student to developer - How open source can launch your career](https://dev.to/tessamero/from-student-to-developer-how-open-source-can-launch-your-career-d2n)
+- [The future of coding: Cursor, AI, and the rise of backend automation with Appwrite](https://dev.to/tessamero/the-future-of-coding-cursor-ai-and-the-rise-of-backend-automation-with-appwrite-14ic)
+- [Dr. Strangepie or: How I Learned to Stop Resisting and Love Expo](https://dev.to/keveightysev/dr-strangepie-or-how-i-learned-to-stop-resisting-and-love-expo-1o7a)
+- [sshOuroboros multiplayer game in goLang with ssh, and the story.](https://dev.to/mshel/sshouroboros-multiplayer-game-in-golang-with-ssh-and-the-story-1399)
 - [I Built an Open-Source Task Timer Widget for Windows — and Published It on Microsoft Store](https://dev.to/melihcelenk/i-built-an-open-source-task-timer-widget-for-windows-and-published-it-on-microsoft-store-4bc5)
-- [Como parei de re-renderizar o universo: Uma história de assinaturas atômicas no React](https://dev.to/quojs_dev/como-parei-de-re-renderizar-o-universo-uma-historia-de-assinaturas-atomicas-no-react-g2c)
-- [GoREST turn any database to a production grade REST API](https://dev.to/nicolasbonnici/from-a-database-to-a-rest-api-3cgf)
-- [Tune GitHub Copilot Settings in VS Code](https://dev.to/pwd9000/tune-github-copilot-settings-in-vs-code-32kp)
-- [Build 3 Real-World Azure Projects - Problem Statements, Step-by-Step Solutions, and Code &lpar;Developer Focused&rpar;](https://dev.to/careerbytecode/build-3-real-world-azure-projects-problem-statements-step-by-step-solutions-and-code-developer-576c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
