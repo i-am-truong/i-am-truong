@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Re-Typing Terminal Commands! Boost Your Workflow with IntelliShell](https://dev.to/lasantosr/stop-re-typing-terminal-commands-boost-your-workflow-with-intellishell-530h)
-- [Migrating a Laravel Application From a Relational Database &lpar;PostgreSQL&rpar; to MongoDB](https://dev.to/mongodb/migrating-a-laravel-application-from-a-relational-database-postgresql-to-mongodb-m0m)
-- [Understanding Nodes in Godot &lpar;For Absolute Beginners&rpar;](https://dev.to/jimmymcbride/understanding-nodes-in-godot-for-absolute-beginners-ekk)
-- [Network Topology|Physical and Logical Topology and types in detail| Israh Binoj](https://dev.to/israhverse/network-topologyphysical-and-logical-topology-and-types-in-detail-israh-binoj-57e)
-- [Les Cloud Development Environments &lpar;CDE&rpar; - Embarquement immédiat !](https://dev.to/onepoint/les-cloud-development-environments-cde-embarquement-immediat--729)
+- [Devs: What&#39;s Wasting Your Time on YouTube? Help Me Build a Better Platform &lpar;2-min survey&rpar;](https://dev.to/rishabyd/devs-whats-wasting-your-time-on-youtube-help-me-build-a-better-platform-2-min-survey-100l)
+- [Consensus for Good: The Meta Earth “E” Gesture Lights Up Hope in the Philippines](https://dev.to/metaearth/consensus-for-good-the-meta-earth-e-gesture-lights-up-hope-in-the-philippines-g7k)
+- [⚛ Quantum Computing: The Next Revolution in Technology](https://dev.to/mohansh_technologies_a5e1/quantum-computing-the-next-revolution-in-technology-5dlo)
+- [Not sure whether to use VMs or containers for your next setup?](https://dev.to/web_learning_4de0b1e0557/not-sure-whether-to-use-vms-or-containers-for-your-next-setup-j5o)
+- [My SaaS homepage design journey as a backend developer](https://dev.to/vincentbean/my-saas-homepage-design-journey-as-a-backend-developer-32d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
