@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We think we’re building connection. But maybe we’re just engineering loneliness.](https://dev.to/bibimbop123/we-think-were-building-connection-but-maybe-were-just-engineering-loneliness-2n1l)
+- [Caddy, self-signed certificates and Certificate Authorities for web development](https://dev.to/migsarnavarro/caddy-self-signed-certificates-and-certificate-authorities-for-web-development-653)
+- [Best Internet Options for Rural Communities &amp; Country Homes](https://dev.to/sidra-jefferi/best-internet-options-for-rural-communities-country-homes-3i6p)
 - [Your AI-Powered Hub for Notes &amp; Tasks: Built for Offline-First Productivity](https://dev.to/surajfale/your-ai-powered-hub-for-notes-tasks-built-for-offline-first-productivity-1fgo)
-- [SpotLED GUI](https://dev.to/ordigital/spotled-gui-31mg)
-- [What Is DevOps? A Beginner’s Guide to How Development and Operation Teams Work Together](https://dev.to/pearlicia/what-is-devops-a-beginners-guide-to-how-development-and-operation-teams-work-together-5b3b)
-- [Working Towards Improved PAM: Widening The Scope And Taking Control](https://dev.to/gitguardian/working-towards-improved-pam-widening-the-scope-and-taking-control-fbd)
-- [80 Days of Python Challenges: How I Turned Consistency into Progress](https://dev.to/shahrouzlogs/80-days-of-python-challenges-how-i-turned-consistency-into-progress-1ib2)
+- [MONGODB IN ACTION : BUILDING A SMART STUDENT DATABASE WITH CRUD OPERATIONS](https://dev.to/hari_saravanan_7ddd3f0bbf/mongodb-in-action-building-a-smart-student-database-with-crud-operations-c86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
