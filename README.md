@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python basics - Day 20](https://dev.to/ian_b838138a27a917398d181/python-basics-day-20-416k)
-- [Advanced Linux Administration: User and Permission Control in a Simulated Business Environment](https://dev.to/adeyemo/advanced-linux-administration-user-and-permission-control-in-a-simulated-business-environment-4j3a)
-- [I tried 6 next-gen browsers - here&#39;s what I found](https://dev.to/gruszdev/i-tried-6-next-gen-browsers-heres-what-i-found-5bpf)
-- [Building Custom MCP Servers with Python: A Data Engineer&#39;s Guide 🛠️](https://dev.to/qvfagundes/building-custom-mcp-servers-with-python-a-data-engineers-guide-jdf)
-- [Developer-First Traffic Management: See Live Traffic &amp; Override APIs Instantly](https://dev.to/signadot/developer-first-traffic-management-see-live-traffic-override-apis-instantly-peh)
+- [Understanding monitoring vs observability: core differences](https://dev.to/tomjohnson3/understanding-monitoring-vs-observability-core-differences-8ig)
+- [Smart City Technology: The Future of Urban Innovation](https://dev.to/rapidcellphone/smart-city-technology-the-future-of-urban-innovation-33hk)
+- [Working with dates in JS &lpar;moment.js vs date-fns&rpar;](https://dev.to/lucaspereiradesouzat/working-with-dates-in-js-momentjs-vs-date-fns-2662)
+- [Trabalhando com datas em JS &lpar;moment.js vs date-fns&rpar;](https://dev.to/lucaspereiradesouzat/trabalhando-com-datas-em-js-momentjs-vs-date-fns-2eh0)
+- [Create a MCP server from scratch](https://dev.to/fairen/create-a-mcp-server-from-scratch-4lea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
