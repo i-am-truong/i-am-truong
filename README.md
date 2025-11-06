@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔄 Loop Master: Menguasai Seni Algoritma Perulangan](https://dev.to/ahmadasroni38/loop-master-menguasai-seni-algoritma-perulangan-1e8e)
+- [How to Resolve Tightly Coupled Dependencies in AWS CDK](https://dev.to/geri-superluminar/how-to-resolve-tightly-coupled-dependencies-in-aws-cdk-42cp)
+- [How Modern Applications Accelerate Digital Transformation](https://dev.to/sefaliw/how-modern-applications-accelerate-digital-transformation-2l38)
+- [How Data Analytics Trends Shaped the Year 2025](https://dev.to/vishal_more_02990955c9358/how-data-analytics-trends-shaped-the-year-2025-4861)
 - [7 Top API Design Platforms That Revolutionize Team Collaboration](https://dev.to/roobia/7-top-api-design-platforms-that-revolutionize-team-collaboration-51j8)
-- [Building Reliable AI Agents with MCP: What We Learned Moving Codegen to the Planning Phase](https://dev.to/maybe_ai/building-reliable-ai-agents-with-mcp-what-we-learned-moving-codegen-to-the-planning-phase-mpl)
-- [Inter-Process Communication &lpar;IPC&rpar; in C++: Complete Guide](https://dev.to/cear/inter-process-communication-ipc-in-c-complete-guide-56mg)
-- [AI&#39;s Role in Revolutionizing Team Dynamics](https://dev.to/jean_chou_b0a8ad9c32addbd/ais-role-in-revolutionizing-team-dynamics-bgn)
-- [How I Automated My Client Onboarding — And Saved 10+ Hours Every Week](https://dev.to/gonzo_digitalmarketinga/how-i-automated-my-client-onboarding-and-saved-10-hours-every-week-9do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
