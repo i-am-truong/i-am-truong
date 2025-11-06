@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [💲FLOSS Funding](https://dev.to/galtzo/floss-funding-2cfn)
+- [Make your Applications smarter: Powerful Machine Learning demo](https://dev.to/passadis/make-your-applications-smarter-powerful-machine-learning-demo-264i)
 - [Shadow DOM and Slots in ArcGIS Map Components](https://dev.to/odoenet/shadow-dom-and-slots-in-arcgis-map-components-1klk)
+- [Orbit v0.4.5](https://dev.to/passadis/orbit-v045-3m5b)
 - [Adding Automated Testing to My Project](https://dev.to/jongwan93/adding-automated-testing-to-my-project-1mkj)
-- [Render Response: The Case for Pure React Server Components](https://dev.to/han/render-response-the-case-for-pure-react-server-components-430n)
-- [【A Cynic&#39;s Guide】The Paradox of Selecting Diagramming Tools: Which Tool Transcends Technical Elegance and the &quot;Approval Hurdle&quot;?](https://dev.to/_768dd7ab130016ab8b0a/a-cynics-guide-the-paradox-of-selecting-diagramming-tools-which-tool-transcends-technical-5h6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
