@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Capabilities by Region](https://dev.to/aws-builders/aws-capabilities-by-region-3ffb)
-- [Nah, the Umbraco Community Hasn&#39;t Lost It&#39;s Spark - We Have](https://dev.to/nanokernel/nah-the-umbraco-community-hasnt-lost-its-spark-we-have-1lj9)
-- [Criei um Micro SaaS de Fala em Inglês em Duas Semanas — com R$ 40,00](https://dev.to/lvsouzadev/criei-um-micro-saas-de-fala-em-ingles-em-duas-semanas-com-r-4000-43g0)
-- [Getting Started with Kubernetes: A Complete Guide](https://dev.to/instadevops/getting-started-with-kubernetes-a-complete-guide-16g8)
-- [Building Sustainable Business Models for Pump.fun Projects in 2025](https://dev.to/hamd_writer_8c77d9c88c188/building-sustainable-business-models-for-pumpfun-projects-in-2025-2k9p)
+- [Congrats to the Winners of the Auth0 for AI Agents Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-the-auth0-for-ai-agents-challenge-2jc8)
+- [My Software Journey So Far And Where I&#39;m Going Next](https://dev.to/stennis1/my-software-journey-so-far-and-where-im-going-next-4i4n)
+- [Leveling the Playing Field: Fairer AI with Kernelized Null-Space Projections](https://dev.to/arvind_sundararajan/leveling-the-playing-field-fairer-ai-with-kernelized-null-space-projections-1e88)
+- [SSIS vs Azure Data Factory: A Quick Comparison](https://dev.to/zappysys/ssis-vs-azure-data-factory-a-quick-comparison-5di)
+- [Coding Challenge Practice - Question 47](https://dev.to/tomivan/coding-challenge-practice-question-47-11hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
