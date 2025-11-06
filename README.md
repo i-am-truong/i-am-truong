@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python basics - Day 20](https://dev.to/ian_b838138a27a917398d181/python-basics-day-20-416k)
+- [Advanced Linux Administration: User and Permission Control in a Simulated Business Environment](https://dev.to/adeyemo/advanced-linux-administration-user-and-permission-control-in-a-simulated-business-environment-4j3a)
+- [I tried 6 next-gen browsers - here&#39;s what I found](https://dev.to/gruszdev/i-tried-6-next-gen-browsers-heres-what-i-found-5bpf)
+- [Building Custom MCP Servers with Python: A Data Engineer&#39;s Guide 🛠️](https://dev.to/qvfagundes/building-custom-mcp-servers-with-python-a-data-engineers-guide-jdf)
 - [Developer-First Traffic Management: See Live Traffic &amp; Override APIs Instantly](https://dev.to/signadot/developer-first-traffic-management-see-live-traffic-override-apis-instantly-peh)
-- [How to deploy you NFT on Sepolia - Simple and 100% under control](https://dev.to/sebastien_levy_233585b9a3/how-to-deploy-you-nft-on-sepolia-simple-and-100-under-control-245d)
-- [Stop Just Running mvn test: Build a Jenkins Pipeline That Understands Test Results and Controls Build Promotion Automatically](https://dev.to/srinivasamcjf/stop-just-running-mvn-test-build-a-jenkins-pipeline-that-understands-test-results-and-controls-26p)
-- [🧠🚨 Big update for the AI world 🚨](https://dev.to/servicemda/big-update-for-the-ai-world-h3)
-- [Use Cache In Nextjs](https://dev.to/dev_khaled/use-cache-in-nextjs-5eab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
