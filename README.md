@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Capabilities by Region](https://dev.to/aws-builders/aws-capabilities-by-region-3ffb)
+- [Nah, the Umbraco Community Hasn&#39;t Lost It&#39;s Spark - We Have](https://dev.to/nanokernel/nah-the-umbraco-community-hasnt-lost-its-spark-we-have-1lj9)
+- [Building Sustainable Business Models for Pump.fun Projects in 2025](https://dev.to/hamd_writer_8c77d9c88c188/building-sustainable-business-models-for-pumpfun-projects-in-2025-2k9p)
 - [Nah, the Umbraco Community Hasn&#39;t Lost It&#39;s Spark - We Have](https://dev.to/nanokernel/nah-the-umbraco-community-hasnt-lost-its-spark-we-have-8n)
-- [Check the Bag: The Painfully Obvious Path Forward](https://dev.to/jl03/check-the-bag-the-painfully-obvious-path-forward-po2)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4e0c)
-- [TypeScript Mutually Exclusive Unions: From `?: never` to `ExclusifyUnion`](https://dev.to/ycmjason/typescript-mutually-exclusive-unions-from-never-to-exclusifyunion-3fhm)
-- [Explain the difference between subquery,CTE and stored procedures](https://dev.to/roy_b5001e0ff9a27dea39641/explain-the-difference-between-subquerycte-and-stored-procedures-54cf)
+- [Write a Research Proposal in 2 Hours, Not a Day! ⏱️](https://dev.to/vuhung16au/write-a-research-proposal-in-2-hours-not-a-day-gm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
