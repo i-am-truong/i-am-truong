@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How reliable are AI agents?](https://dev.to/priya_negi_9ffd29931ea408/how-reliable-are-ai-agents-30d1)
-- [⚡ Rethinking Prompt Engineering: How Agent Lightning’s APO Teaches Agents to Write Better Prompts](https://dev.to/bigdata5911/rethinking-prompt-engineering-how-agent-lightnings-apo-teaches-agents-to-write-better-prompts-hon)
-- [We Tested 6 AI Models on 3 Advanced Security Exploits: The Results](https://dev.to/kilocode/we-tested-6-ai-models-on-3-advanced-security-exploits-the-results-ap9)
-- [pygixml — The Fastest XML Parser for Python &lpar;Beating lxml at Its Own Game&rpar;](https://dev.to/mohammadraziei/pygixml-the-fastest-xml-parser-for-python-beating-lxml-at-its-own-game-4lom)
-- [What is the best React-based charting library for interactive plots with large datasets?](https://dev.to/lodhi_ce8730c8129d8b0f508/what-is-the-best-react-based-charting-library-for-interactive-plots-with-large-datasets-16gn)
+- [Part 6B — SaijinOS: Care-Based AI Architecture &lpar;Why an OS Must Learn to Breathe&rpar;](https://dev.to/kato_masato_c5593c81af5c6/part-6b-saijinos-care-based-ai-architecture-why-an-os-must-learn-to-breathe-25af)
+- [The Adventures of Blink S4e10: Blink vs the Gilded Rose: The Rose in Review](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e10-blink-vs-the-gilded-rose-the-rose-in-review-3fe4)
+- [Part 6A — SaijinOS Lightweight: 20-Persona Core, BPM Sync, and a 99.99% Repo Trim](https://dev.to/kato_masato_c5593c81af5c6/part-6a-saijinos-lightweight-20-persona-core-bpm-sync-and-a-9999-repo-trim-36fp)
+- [Parallel AI Development: Can 5 Claude Code Agents Work Independently?](https://dev.to/aviad_rozenhek_cba37e0660/parallel-ai-development-can-5-claude-code-agents-work-independently-4a5)
+- [Build Your Own Niche AI SaaS for AI-Generated B-Roll Videos](https://dev.to/sevimsoffice/build-your-own-niche-ai-saas-for-ai-generated-b-roll-videos-483d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
