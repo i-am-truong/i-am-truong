@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How reliable are AI agents?](https://dev.to/priya_negi_9ffd29931ea408/how-reliable-are-ai-agents-30d1)
+- [⚡ Rethinking Prompt Engineering: How Agent Lightning’s APO Teaches Agents to Write Better Prompts](https://dev.to/bigdata5911/rethinking-prompt-engineering-how-agent-lightnings-apo-teaches-agents-to-write-better-prompts-hon)
 - [We Tested 6 AI Models on 3 Advanced Security Exploits: The Results](https://dev.to/kilocode/we-tested-6-ai-models-on-3-advanced-security-exploits-the-results-ap9)
 - [pygixml — The Fastest XML Parser for Python &lpar;Beating lxml at Its Own Game&rpar;](https://dev.to/mohammadraziei/pygixml-the-fastest-xml-parser-for-python-beating-lxml-at-its-own-game-4lom)
 - [What is the best React-based charting library for interactive plots with large datasets?](https://dev.to/lodhi_ce8730c8129d8b0f508/what-is-the-best-react-based-charting-library-for-interactive-plots-with-large-datasets-16gn)
-- [Advancements in Aerospace Engineering: A Deep Dive](https://dev.to/sheba-kumari/advancements-in-aerospace-engineering-a-deep-dive-4g04)
-- [Day 24 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-24-of-my-ai-data-mastery-journey-from-python-to-generative-ai-f6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
