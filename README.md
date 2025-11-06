@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache SeaTunnel Now Supports Metalake!](https://dev.to/seatunnel/apache-seatunnel-now-supports-metalake-57pc)
+- [Connect MongoDB to Next.JS Like a Pro](https://dev.to/pritish_academy/connect-mongodb-to-nextjs-like-a-pro-2jha)
+- [Complete Guide to MySQL Backup: mysqldump Syntax, Advanced Tips &amp; Restoration Practice](https://dev.to/tiger_smith_9f421b9131db5/complete-guide-to-mysql-backup-mysqldump-syntax-advanced-tips-restoration-practice-ape)
 - [Inside a Tech War Room: What Real Leadership Looks Like During System Outages](https://dev.to/yaseen_tech/inside-a-tech-war-room-what-real-leadership-looks-like-during-system-outages-g39)
-- [5 Ways to Scale FreeSWITCH for High-Performance VoIP Systems](https://dev.to/jackmorris10/5-ways-to-scale-freeswitch-for-high-performance-voip-systems-274i)
-- [Where coding agents excel &lpar;and where they don&#39;t&rpar;](https://dev.to/eelcolos/where-coding-agents-excel-and-where-they-dont-kba)
-- [The Untapped Risk of Water Management in Sustainability](https://dev.to/esg_rating_/the-untapped-risk-of-water-management-in-sustainability-5f8n)
-- [Website Breakdown Highlights Risks of Unmanaged Plugin Updates, Says Asaaju Peter of Phemight Technologies](https://dev.to/phemight_technologies_281/website-breakdown-highlights-risks-of-unmanaged-plugin-updates-says-asaaju-peter-of-phemight-580k)
+- [removesuffix in Python](https://dev.to/hyperkai/removesuffix-in-python-3bem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
