@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL or NoSQL? A Real Story From Building Healthcare Software &lpar;and How FHIR Fits In&rpar;](https://dev.to/ussdlover/sql-or-nosql-a-real-story-from-building-healthcare-software-and-how-fhir-fits-in-2j8e)
 - [The Evolution of AI-First Coding: What It Means for Developers](https://dev.to/softwaredeveloper01/the-evolution-of-ai-first-coding-what-it-means-for-developers-57og)
 - [How Do You Set Up Local Microservices Development with Docker Compose?](https://dev.to/tuskun/how-do-you-set-up-local-microservices-development-with-docker-compose-33ao)
 - [We’re Now in the AI vs AI Resume War](https://dev.to/madsendev/were-now-in-the-ai-vs-ai-resume-war-ik1)
 - [Docker Labs: From Beginner to Advanced on Azure](https://dev.to/sudlo2014/docker-labs-from-beginner-to-advanced-on-azure-54om)
-- [Letting the ducks fly: How we’re switching from Redux to React Query](https://dev.to/wecasa/letting-the-ducks-fly-how-were-switching-from-redux-to-react-query-559c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
