@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemini CLI: Custom Commands Are So Cool](https://dev.to/gioboa/gemini-cli-custom-commands-are-so-cool-1nma)
-- [SQL or NoSQL? A Real Story From Building Healthcare Software &lpar;and How FHIR Fits In&rpar;](https://dev.to/ussdlover/sql-or-nosql-a-real-story-from-building-healthcare-software-and-how-fhir-fits-in-2j8e)
-- [The Evolution of AI-First Coding: What It Means for Developers](https://dev.to/softwaredeveloper01/the-evolution-of-ai-first-coding-what-it-means-for-developers-57og)
-- [How Do You Set Up Local Microservices Development with Docker Compose?](https://dev.to/tuskun/how-do-you-set-up-local-microservices-development-with-docker-compose-33ao)
-- [We’re Now in the AI vs AI Resume War](https://dev.to/madsendev/were-now-in-the-ai-vs-ai-resume-war-ik1)
+- [How I Built a Django Honeypot to Catch Attackers &lpar;and What I Learned&rpar;](https://dev.to/ali_hatami_dfa6ced769235c/how-i-built-a-django-honeypot-to-catch-attackers-and-what-i-learned-22mg)
+- [How Construction Payroll Automation Drives Compliance and Profitability](https://dev.to/kapusto/how-construction-payroll-automation-drives-compliance-and-profitability-489d)
+- [Distributed Media Inferencing with Kafka](https://dev.to/jayash_tripathy_921c22d37/distributed-media-inferencing-with-kafka-48jg)
+- [Building Herctually: An AI Research Agent written in GO](https://dev.to/oreoluwabs/building-herctually-an-ai-research-agent-written-in-go-3a18)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3clh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
