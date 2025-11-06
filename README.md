@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [div diary 20251105](https://dev.to/hirooka_kazuya_d7f37d3cde/div-diary-20251105-595f)
-- [Supercharge Your Pipeline: How to Integrate AI-Powered Code Reviews with GitHub Actions](https://dev.to/picoable/supercharge-your-pipeline-how-to-integrate-ai-powered-code-reviews-with-github-actions-1d61)
-- [How to Create a Simple Automated Backup Script with Bash and rsync](https://dev.to/picoable/how-to-create-a-simple-automated-backup-script-with-bash-and-rsync-pba)
-- [We Need to Stop Calling It &#39;Imposter Syndrome&#39;](https://dev.to/_boweii/we-need-to-stop-calling-it-imposter-syndrome-282i)
-- [Why Was Programming Created? From Passion to Financial Gain](https://dev.to/shamss98/why-was-programming-created-from-passion-to-financial-gain-3bki)
+- [Custom Corporate Holidays with holidays package](https://dev.to/basman/custom-corporate-holidays-with-holidays-package-3fif)
+- [Getting Started with Azure Functions: A Beginner&#39;s Guide](https://dev.to/auyeungdavid_2847435260/getting-started-with-azure-functions-a-beginners-guide-db4)
+- [Why Your AI Agent Needs a Ctrl+Z &lpar;And How I Built It&rpar;](https://dev.to/hadywalied/why-your-ai-agent-needs-a-ctrlz-and-how-i-built-it-ok1)
+- [You may not need pg_vector, sqlite-vss, etc.](https://dev.to/nvahalik/you-may-not-need-pgvector-sqlite-vss-etc-e6j)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-316c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
