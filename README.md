@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Inside a Tech War Room: What Real Leadership Looks Like During System Outages](https://dev.to/yaseen_tech/inside-a-tech-war-room-what-real-leadership-looks-like-during-system-outages-g39)
+- [5 Ways to Scale FreeSWITCH for High-Performance VoIP Systems](https://dev.to/jackmorris10/5-ways-to-scale-freeswitch-for-high-performance-voip-systems-274i)
+- [Where coding agents excel &lpar;and where they don&#39;t&rpar;](https://dev.to/eelcolos/where-coding-agents-excel-and-where-they-dont-kba)
 - [The Untapped Risk of Water Management in Sustainability](https://dev.to/esg_rating_/the-untapped-risk-of-water-management-in-sustainability-5f8n)
-- [MuleSoft - SFTP - Write content to file and upload to server](https://dev.to/elliot518/mulesoft-sftp-write-content-to-file-and-upload-to-server-229n)
-- [Mystery Mansion Mayhem](https://dev.to/ignaciah/mystery-mansion-mayhem-7il)
-- [Complete Guide to Credit Card Fraud Detection: How AI Protects Your Money](https://dev.to/sohan_lal_241c2d80b2705e7/complete-guide-to-credit-card-fraud-detection-how-ai-protects-your-money-4mm9)
-- [Why `rem` Should Be Your Default for Spacing in Modern CSS](https://dev.to/alok38/why-rem-should-be-your-default-for-spacing-in-modern-css-2l9m)
+- [Website Breakdown Highlights Risks of Unmanaged Plugin Updates, Says Asaaju Peter of Phemight Technologies](https://dev.to/phemight_technologies_281/website-breakdown-highlights-risks-of-unmanaged-plugin-updates-says-asaaju-peter-of-phemight-580k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
