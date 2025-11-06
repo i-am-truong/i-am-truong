@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nah, the Umbraco Community Hasn&#39;t Lost It&#39;s Spark - We Have](https://dev.to/nanokernel/nah-the-umbraco-community-hasnt-lost-its-spark-we-have-8n)
 - [Check the Bag: The Painfully Obvious Path Forward](https://dev.to/jl03/check-the-bag-the-painfully-obvious-path-forward-po2)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2fm2)
-- [VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a VideoGenerator](https://dev.to/paperium/vist3a-text-to-3d-by-stitching-a-multi-view-reconstruction-network-to-a-videogenerator-362b)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2874)
 - [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4e0c)
+- [TypeScript Mutually Exclusive Unions: From `?: never` to `ExclusifyUnion`](https://dev.to/ycmjason/typescript-mutually-exclusive-unions-from-never-to-exclusifyunion-3fhm)
+- [Explain the difference between subquery,CTE and stored procedures](https://dev.to/roy_b5001e0ff9a27dea39641/explain-the-difference-between-subquerycte-and-stored-procedures-54cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
