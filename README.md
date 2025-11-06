@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Sortable Tree — A Lightweight Drag &amp; Drop Tree in Vanilla TypeScript](https://dev.to/marcantondahmen/building-sortable-tree-a-lightweight-drag-drop-tree-in-vanilla-typescript-f7l)
-- [🧑‍🚀 Choosing the Right Engine to Launch Your LLM &lpar;LM Studio, Ollama, and vLLM&rpar;](https://dev.to/astronaut27/choosing-the-right-engine-to-launch-your-llm-lm-studio-ollama-and-vllm-195o)
-- [Reminder: EOL for Puppet CD 4.x and Puppet Comply 2.x](https://dev.to/puppet/reminder-eol-for-puppet-cd-4x-and-puppet-comply-2x-27h6)
-- [How Experiential Events Bridge the Gap Between Tech and People](https://dev.to/mmakerscafe/how-experiential-events-bridge-the-gap-between-tech-and-people-1740)
-- [Daily Artificial Intelligence Digest - Nov 07, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-07-2025-220a)
+- [The kgateway vulnerabilities explained &lpar;and why I disagree on its score!&rpar;](https://dev.to/rkatz/the-kgateway-vulnerabilities-explained-and-why-i-disagree-on-its-score-339e)
+- [Why we built a new Project Management Tool &lpar;and Why dependencies matter more than you think&rpar;](https://dev.to/support_support_9bf46a594/why-we-built-a-new-project-management-tool-and-why-dependencies-matter-more-than-you-think-5ego)
+- [The Virtues of Vanilla JavaScript](https://dev.to/davidcanhelp/the-virtues-of-vanilla-javascript-5fb5)
+- [How We Reduced AI Agent Development Time by 70% with Type-Safe Prompt Engineering](https://dev.to/galfrevn/how-we-reduced-ai-agent-development-time-by-70-with-type-safe-prompt-engineering-1i9j)
+- [How to protect Express routes in Node.js](https://dev.to/jahongir2007/how-to-protect-express-routes-in-nodejs-327o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
