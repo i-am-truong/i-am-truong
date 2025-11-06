@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We think we’re building connection. But maybe we’re just engineering loneliness.](https://dev.to/bibimbop123/we-think-were-building-connection-but-maybe-were-just-engineering-loneliness-2n1l)
-- [Caddy, self-signed certificates and Certificate Authorities for web development](https://dev.to/migsarnavarro/caddy-self-signed-certificates-and-certificate-authorities-for-web-development-653)
-- [Best Internet Options for Rural Communities &amp; Country Homes](https://dev.to/sidra-jefferi/best-internet-options-for-rural-communities-country-homes-3i6p)
-- [Your AI-Powered Hub for Notes &amp; Tasks: Built for Offline-First Productivity](https://dev.to/surajfale/your-ai-powered-hub-for-notes-tasks-built-for-offline-first-productivity-1fgo)
-- [MONGODB IN ACTION : BUILDING A SMART STUDENT DATABASE WITH CRUD OPERATIONS](https://dev.to/hari_saravanan_7ddd3f0bbf/mongodb-in-action-building-a-smart-student-database-with-crud-operations-c86)
+- [Como integrar Faceted Search com Interactive Grid no Oracle APEX](https://dev.to/murasb/como-integrar-faceted-search-com-interactive-grid-no-oracle-apex-2jcc)
+- [WTF I Got a Job ?!?!](https://dev.to/andrewhasoneshot/wtf-i-got-a-job--2lgm)
+- [Why We Ditched Next.js for TanStack Start](https://dev.to/lindesvard/why-we-ditched-nextjs-for-tanstack-start-4bp7)
+- [Why 1:1s Are Your Secret Weapon &lpar;Even as an IC&rpar;](https://dev.to/willysvarela/why-11s-are-your-secret-weapon-even-as-an-ic-40fn)
+- [Rick Beato: The Neal Schon Interview: the Riffs, the Solos, and the Soul of Journey](https://dev.to/music_youtube/rick-beato-the-neal-schon-interview-the-riffs-the-solos-and-the-soul-of-journey-2i2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
