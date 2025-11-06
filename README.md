@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ARMS Continuous Profiling Upgrade for Efficient and Accurate Performance Bottleneck Localization](https://dev.to/observabilityguy/arms-continuous-profiling-upgrade-for-efficient-and-accurate-performance-bottleneck-localization-5edb)
+- [Kiroween Hackathon: Resurrecting Punch Cards and Discovering Exciting New Experiences with My Old Friend, Kiro IDE](https://dev.to/pavloicsa/kiroween-hackathon-resurrecting-punch-cards-and-discovering-exciting-new-experiences-with-my-old-4h3)
+- [Extending Pydantic AI Agents with Chat History - Messages and Chat History in Pydantic AI](https://dev.to/hamluk/extending-pydantic-ai-agents-with-chat-history-messages-and-chat-history-in-pydantic-ai-d4f)
 - [CSS Pseudo-classes and Pseudo-elements: Unlocking Hidden Styling Power](https://dev.to/sharique_siddiqui_8242dad/css-pseudo-classes-and-pseudo-elements-unlocking-hidden-styling-power-3a4c)
 - [Apache SeaTunnel Now Supports Metalake!](https://dev.to/seatunnel/apache-seatunnel-now-supports-metalake-57pc)
-- [Connect MongoDB to Next.JS Like a Pro](https://dev.to/pritish_academy/connect-mongodb-to-nextjs-like-a-pro-2jha)
-- [7 Free APIs That Nobody Is Talking About](https://dev.to/simcdevv/7-free-apis-that-nobody-is-talking-about-44o7)
-- [Choose the Best Tech Stack for Web Development: Key Factors to Consider](https://dev.to/dhruvil_joshi14/choose-the-best-tech-stack-for-web-development-key-factors-to-consider-151a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
