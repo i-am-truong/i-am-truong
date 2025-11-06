@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Kubernetes Mistakes That Make It Expensive, and How to Avoid Them](https://dev.to/mehul_budasana/top-10-kubernetes-mistakes-that-make-it-expensive-and-how-to-avoid-them-58h6)
-- [Silent Performance Killer: N+1 Query Problem](https://dev.to/rajusarkar/silent-performance-killer-n1-query-problem-47lk)
-- [My AI Agent Team - 7 AI Tools For Getting Things Done](https://dev.to/andrewbaisden/my-ai-agent-team-7-ai-tools-for-getting-things-done-4551)
-- [The kgateway vulnerabilities explained &lpar;and why I disagree on its score!&rpar;](https://dev.to/rkatz/the-kgateway-vulnerabilities-explained-and-why-i-disagree-on-its-score-339e)
-- [Why we built a new Project Management Tool &lpar;and Why dependencies matter more than you think&rpar;](https://dev.to/support_support_9bf46a594/why-we-built-a-new-project-management-tool-and-why-dependencies-matter-more-than-you-think-5ego)
+- [The Next Era of Databases: When Queries Write Themselves](https://dev.to/logicverse_2025/the-next-era-of-databases-when-queries-write-themselves-3578)
+- [Untitled](https://dev.to/adil_ibrahim_f476901385ab/untitled-7oe)
+- [Transforming Engineering Culture in a 300-Person Company](https://dev.to/gauravratnawat/transforming-engineering-culture-in-a-300-person-company-35l)
+- [Update page title counter with custom turbo streams in Rails](https://dev.to/railsdesigner/update-page-title-counter-with-custom-turbo-streams-in-rails-3e52)
+- [PHP in 2025 Evolving Rapidly](https://dev.to/devops-make-it-run/php-in-2025-evolving-rapidly-1j44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
