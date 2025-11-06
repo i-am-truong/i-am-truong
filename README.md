@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging tests to the terminal in browser tests to help AI find your test results](https://dev.to/nullvoxpopuli/logging-tests-to-the-terminal-in-browser-tests-to-help-ai-find-your-test-results-1bl9)
+- [Building Cross-Language TUIs: One Go Binary to Rule Them All published](https://dev.to/dev-tngsh/building-cross-language-tuis-one-go-binary-to-rule-them-all-published-13a5)
+- [The Rise of the Specialist: Why Small Language Models are the Future of Enterprise AI](https://dev.to/gourav221b/the-rise-of-the-specialist-why-small-language-models-are-the-future-of-enterprise-ai-dbc)
 - [Understanding monitoring vs observability: core differences](https://dev.to/tomjohnson3/understanding-monitoring-vs-observability-core-differences-8ig)
-- [Smart City Technology: The Future of Urban Innovation](https://dev.to/rapidcellphone/smart-city-technology-the-future-of-urban-innovation-33hk)
-- [Working with dates in JS &lpar;moment.js vs date-fns&rpar;](https://dev.to/lucaspereiradesouzat/working-with-dates-in-js-momentjs-vs-date-fns-2662)
-- [Trabalhando com datas em JS &lpar;moment.js vs date-fns&rpar;](https://dev.to/lucaspereiradesouzat/trabalhando-com-datas-em-js-momentjs-vs-date-fns-2eh0)
-- [Create a MCP server from scratch](https://dev.to/fairen/create-a-mcp-server-from-scratch-4lea)
+- [Andrew Huang: S4 2.0 is incredible!](https://dev.to/music_youtube/andrew-huang-s4-20-is-incredible-593i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
