@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding: What we learned from flip-flopping 8 times on a simple formula](https://dev.to/aviad_rozenhek_cba37e0660/vibe-coding-what-we-learned-from-flip-flopping-8-times-on-a-simple-formula-316)
-- [Wix Users Targeted by Sophisticated Email Scam Pretending to Be Official Support — Statement by Asaaju Peter](https://dev.to/phemight_technologies_281/wix-users-targeted-by-sophisticated-email-scam-pretending-to-be-official-support-statement-by-bke)
-- [Physics-Aware Neural Networks: Banishing Simulation Ghosts by Arvind Sundararajan](https://dev.to/arvind_sundararajan/physics-aware-neural-networks-banishing-simulation-ghosts-by-arvind-sundararajan-190n)
-- [Learning an Image Editing Model without Image Editing Pairs](https://dev.to/paperium/learning-an-image-editing-model-without-image-editing-pairs-non)
-- [Communication Protocols for AI Agents That Can&#39;t Talk to Each Other](https://dev.to/aviad_rozenhek_cba37e0660/communication-protocols-for-ai-agents-that-cant-talk-to-each-other-b23)
+- [🧪 Unit Testing Tools in WebForms Core 2](https://dev.to/elanatframework/unit-testing-tools-in-webforms-core-2-3a41)
+- [Leveling with cluster analysis in Python: basic Python concepts](https://dev.to/hilton_fernandes_eaac26ab/leveling-with-cluster-analysis-in-python-basic-python-concepts-1n6)
+- [Impossible Is Nothing: Lessons Building Great Games](https://dev.to/gamepill/impossible-is-nothing-lessons-building-great-games-39kb)
+- [Opal: Google’s No-Code AI App Builder Is Now Global](https://dev.to/alifar/opal-googles-no-code-ai-app-builder-is-now-global-2196)
+- [Development Musical Chairs](https://dev.to/cheetah100/development-musical-chairs-35hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
