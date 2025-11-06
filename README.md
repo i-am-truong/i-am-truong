@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Async Logic in Redux Toolkit with createAsyncThunk](https://dev.to/lawrenceagles/mastering-async-logic-in-redux-toolkit-with-createasyncthunk-3461)
-- [My query languages library pivot](https://dev.to/xwero/my-query-languages-library-pivot-20oh)
-- [Why Software Development Is Not Assembly-Line Work](https://dev.to/leonpennings/why-software-development-is-not-assembly-line-work-1b2p)
-- [Streams in C#](https://dev.to/purejoymind/streams-in-c-2ahh)
-- [Modernizing Python Projects: Converting requirements.txt to uv in One Command](https://dev.to/danilop/modernizing-python-projects-converting-requirementstxt-to-uv-in-one-command-5ali)
+- [Amazon Q Custom Agents: Redefining the Future of Cloud Architecture](https://dev.to/aws-builders/amazon-q-custom-agents-redefining-the-future-of-cloud-architecture-4on)
+- [Stop Writing Long JS Code — Use These 10 Time-Saving One-Liners Instead](https://dev.to/siddheshcodes/stop-writing-long-js-code-use-these-10-time-saving-one-liners-instead-3i6i)
+- [The 5 AWS Services That Secretly Drain Your Budget &lpar;and How to Stop Them&rpar;](https://dev.to/cloudwiseteam/the-5-aws-services-that-secretly-drain-your-budget-and-how-to-stop-them-39nn)
+- [Avoid the N+1 Problem in Laravel Validations](https://dev.to/dazza-dev/avoid-the-n1-problem-in-laravel-validations-1gdi)
+- [Carreira de TI - você escolhe sua trilha](https://dev.to/andersoncontreira/carreira-de-ti-voce-escolhe-sua-trilha-a0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
