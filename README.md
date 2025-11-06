@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Interview Questions and Answers &lpar;My Personal Experience&rpar;](https://dev.to/magi-magificient/playwright-interview-questions-and-answers-my-personal-experience-1l03)
-- [Serving an Astro Static Site with Brotli and Gzip on Nginx: A Complete, Practical Guide](https://dev.to/lovestaco/serving-an-astro-static-site-with-brotli-and-gzip-on-nginx-a-complete-practical-guide-3ef7)
-- [How to Set Up a Laravel Project on Localhost After Cloning From Git](https://dev.to/chiragx309/how-to-set-up-a-laravel-project-on-localhost-after-cloning-from-git-47c2)
-- [Symmetric Reference Counting: How to Eliminate Cycles Without a Garbage Collector](https://dev.to/zerohat/symmetric-reference-counting-how-to-eliminate-cycles-without-a-garbage-collector-151f)
-- [🚀 My First Hackathon Experience: NexTech 1.0 – Odisha’s First Inter-College AI Hackathon](https://dev.to/supriyathearchitect/my-first-hackathon-experience-nextech-10-odishas-first-inter-college-ai-hackathon-28oo)
+- [Simplify validation error handling in Angular with `ng-input-validation`](https://dev.to/bibangjoseph/simplify-validation-error-handling-in-angular-with-ng-input-validation-561j)
+- [AWS S3 Vectors at scale: Real performance numbers at 10 million Vectors](https://dev.to/siddhantkcode/aws-s3-vectors-at-scale-real-performance-numbers-at-10-million-vectors-2lno)
+- [A Guide to the Best Java Machine Learning Libraries](https://dev.to/jeni860/a-guide-to-the-best-java-machine-learning-libraries-a5i)
+- [How AI-Driven Intelligent Document Processing Is Transforming Banking and Finance](https://dev.to/emily_smith_86b5b7960eebb/how-ai-driven-intelligent-document-processing-is-transforming-banking-and-finance-5f8d)
+- [React vs Next.js vs Vue: Which Frontend Framework Wins in 2025?](https://dev.to/ciphernutz/react-vs-nextjs-vs-vue-which-frontend-framework-wins-in-2025-26gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
