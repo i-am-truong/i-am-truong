@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [AWS Capabilities by Region](https://dev.to/aws-builders/aws-capabilities-by-region-3ffb)
 - [Nah, the Umbraco Community Hasn&#39;t Lost It&#39;s Spark - We Have](https://dev.to/nanokernel/nah-the-umbraco-community-hasnt-lost-its-spark-we-have-1lj9)
+- [Criei um Micro SaaS de Fala em Inglês em Duas Semanas — com R$ 40,00](https://dev.to/lvsouzadev/criei-um-micro-saas-de-fala-em-ingles-em-duas-semanas-com-r-4000-43g0)
+- [Getting Started with Kubernetes: A Complete Guide](https://dev.to/instadevops/getting-started-with-kubernetes-a-complete-guide-16g8)
 - [Building Sustainable Business Models for Pump.fun Projects in 2025](https://dev.to/hamd_writer_8c77d9c88c188/building-sustainable-business-models-for-pumpfun-projects-in-2025-2k9p)
-- [Nah, the Umbraco Community Hasn&#39;t Lost It&#39;s Spark - We Have](https://dev.to/nanokernel/nah-the-umbraco-community-hasnt-lost-its-spark-we-have-8n)
-- [Write a Research Proposal in 2 Hours, Not a Day! ⏱️](https://dev.to/vuhung16au/write-a-research-proposal-in-2-hours-not-a-day-gm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
