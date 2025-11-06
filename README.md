@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [The Evolution of AI-First Coding: What It Means for Developers](https://dev.to/softwaredeveloper01/the-evolution-of-ai-first-coding-what-it-means-for-developers-57og)
 - [How Do You Set Up Local Microservices Development with Docker Compose?](https://dev.to/tuskun/how-do-you-set-up-local-microservices-development-with-docker-compose-33ao)
 - [We’re Now in the AI vs AI Resume War](https://dev.to/madsendev/were-now-in-the-ai-vs-ai-resume-war-ik1)
-- [Docker Labs: From Beginner to Advanced on Azure](https://dev.to/sudlo2014/docker-labs-from-beginner-to-advanced-on-azure-54om)
+- [Developers Don&#39;t Need Content Strategies &lpar;or Do They?&rpar;](https://dev.to/brilliantmakanju/developers-dont-need-content-strategies-or-do-they-5cmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
