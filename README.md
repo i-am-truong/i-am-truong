@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the Winners of the Auth0 for AI Agents Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-the-auth0-for-ai-agents-challenge-2jc8)
-- [My Software Journey So Far And Where I&#39;m Going Next](https://dev.to/stennis1/my-software-journey-so-far-and-where-im-going-next-4i4n)
-- [Leveling the Playing Field: Fairer AI with Kernelized Null-Space Projections](https://dev.to/arvind_sundararajan/leveling-the-playing-field-fairer-ai-with-kernelized-null-space-projections-1e88)
-- [SSIS vs Azure Data Factory: A Quick Comparison](https://dev.to/zappysys/ssis-vs-azure-data-factory-a-quick-comparison-5di)
-- [Coding Challenge Practice - Question 47](https://dev.to/tomivan/coding-challenge-practice-question-47-11hd)
+- [💲FLOSS Funding](https://dev.to/galtzo/floss-funding-2cfn)
+- [Shadow DOM and Slots in ArcGIS Map Components](https://dev.to/odoenet/shadow-dom-and-slots-in-arcgis-map-components-1klk)
+- [Adding Automated Testing to My Project](https://dev.to/jongwan93/adding-automated-testing-to-my-project-1mkj)
+- [Render Response: The Case for Pure React Server Components](https://dev.to/han/render-response-the-case-for-pure-react-server-components-430n)
+- [【A Cynic&#39;s Guide】The Paradox of Selecting Diagramming Tools: Which Tool Transcends Technical Elegance and the &quot;Approval Hurdle&quot;?](https://dev.to/_768dd7ab130016ab8b0a/a-cynics-guide-the-paradox-of-selecting-diagramming-tools-which-tool-transcends-technical-5h6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
