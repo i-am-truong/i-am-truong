@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Pseudo-classes and Pseudo-elements: Unlocking Hidden Styling Power](https://dev.to/sharique_siddiqui_8242dad/css-pseudo-classes-and-pseudo-elements-unlocking-hidden-styling-power-3a4c)
 - [Apache SeaTunnel Now Supports Metalake!](https://dev.to/seatunnel/apache-seatunnel-now-supports-metalake-57pc)
 - [Connect MongoDB to Next.JS Like a Pro](https://dev.to/pritish_academy/connect-mongodb-to-nextjs-like-a-pro-2jha)
-- [Complete Guide to MySQL Backup: mysqldump Syntax, Advanced Tips &amp; Restoration Practice](https://dev.to/tiger_smith_9f421b9131db5/complete-guide-to-mysql-backup-mysqldump-syntax-advanced-tips-restoration-practice-ape)
-- [Inside a Tech War Room: What Real Leadership Looks Like During System Outages](https://dev.to/yaseen_tech/inside-a-tech-war-room-what-real-leadership-looks-like-during-system-outages-g39)
-- [removesuffix in Python](https://dev.to/hyperkai/removesuffix-in-python-3bem)
+- [7 Free APIs That Nobody Is Talking About](https://dev.to/simcdevv/7-free-apis-that-nobody-is-talking-about-44o7)
+- [Choose the Best Tech Stack for Web Development: Key Factors to Consider](https://dev.to/dhruvil_joshi14/choose-the-best-tech-stack-for-web-development-key-factors-to-consider-151a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
