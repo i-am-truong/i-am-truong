@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the best React-based charting library for interactive plots with large datasets?](https://dev.to/lodhi_ce8730c8129d8b0f508/what-is-the-best-react-based-charting-library-for-interactive-plots-with-large-datasets-16gn)
+- [How to Stop Selenium Tests from Clicking Before the Page is Ready](https://dev.to/magi-magificient/how-to-stop-selenium-tests-from-clicking-before-the-page-is-ready-1pin)
 - [Legal Research is Changing: How AI Makes Your C# Applications Smarter](https://dev.to/lofcz/legal-research-is-changing-how-ai-makes-your-c-applications-smarter-1bjc)
 - [Making your Java code null-safe without rewriting it](https://dev.to/cheol_jeon_9e29b98fdb7e1e/makes-your-java-code-null-safe-without-rewriting-it-5fe3)
 - [With JPlus, writing Java Code Smartly with Null-Safety](https://dev.to/cheol_jeon_9e29b98fdb7e1e/with-jplus-writing-java-code-smartly-with-null-safety-350)
-- [New Post: Best Free AI Tools for Web Developers in 2025](https://dev.to/djamware_tutorial_eba1a61/new-post-best-free-ai-tools-for-web-developers-in-2025-3m02)
-- [THE BACKBONE OF DATABASE REALIABILITY: EXPLORING ACID IN ACTION WITH SQL TRANSACTION A STEP-STEP-STEP GUIDE](https://dev.to/hari_saravanan_7ddd3f0bbf/the-backbone-of-database-realiability-exploring-acid-in-action-with-sql-transaction-a-1nc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
