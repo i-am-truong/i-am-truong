@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-49ji)
-- [Introducing YasuiJS — A Modern, Minimal REST Framework for Any Runtime](https://dev.to/thomas_barkats_8d0da46be2/introducing-yasuijs-a-modern-minimal-rest-framework-for-any-runtime-4e54)
-- [androidx.navigation:navigation-ui is causing increasing inflation time for each component &lpar;in Java xml project&rpar;?](https://dev.to/nl_p_/androidxnavigationnavigation-ui-is-causing-increasing-inflation-time-for-each-component-12l9)
-- [How does AI infrastructure and automation reshape data centers?](https://dev.to/jay_all_day/how-does-ai-infrastructure-and-automation-reshape-data-centers-2ef3)
-- [Decoding the 100314QI: Efficient Differential Receivers for Embedded Projects](https://dev.to/xecor_company/decoding-the-100314qi-efficient-differential-receivers-for-embedded-projects-39pk)
+- [The AI Stack We Trust: Tools, Frameworks, and Practices We Use in Production](https://dev.to/capestart/the-ai-stack-we-trust-tools-frameworks-and-practices-we-use-in-production-2kn9)
+- [AI for Predictive Monitoring in DevOps Environments](https://dev.to/baskaran_jeyarajan_dc5943/ai-for-predictive-monitoring-in-devops-environments-4pob)
+- [Stream of small fixes — this week&#39;s repo recap is going to be full!](https://dev.to/ben/stream-of-small-fixes-this-weeks-repo-recap-is-going-to-be-full-h30)
+- [Apple Health MCP Server: Use Cases for Developers](https://dev.to/momentumai/apple-health-mcp-server-use-cases-for-developers-kaa)
+- [Review IG Follower Export Tools for 2025/26: Complete Comparison](https://dev.to/max-dev/best-ig-follower-export-tools-for-2026-complete-comparison-169n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
