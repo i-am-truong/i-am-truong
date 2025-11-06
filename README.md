@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your AI-Powered Hub for Notes &amp; Tasks: Built for Offline-First Productivity](https://dev.to/surajfale/your-ai-powered-hub-for-notes-tasks-built-for-offline-first-productivity-1fgo)
+- [SpotLED GUI](https://dev.to/ordigital/spotled-gui-31mg)
 - [What Is DevOps? A Beginner’s Guide to How Development and Operation Teams Work Together](https://dev.to/pearlicia/what-is-devops-a-beginners-guide-to-how-development-and-operation-teams-work-together-5b3b)
 - [Working Towards Improved PAM: Widening The Scope And Taking Control](https://dev.to/gitguardian/working-towards-improved-pam-widening-the-scope-and-taking-control-fbd)
 - [80 Days of Python Challenges: How I Turned Consistency into Progress](https://dev.to/shahrouzlogs/80-days-of-python-challenges-how-i-turned-consistency-into-progress-1ib2)
-- [ERC-20, ERC-721,ERC-1155](https://dev.to/leyutsega_abebaw_b520050a/erc-20-erc-721erc-1155-5gel)
-- [🗺️ Engineering for Emergencies: How to Build a Real-Time Disaster Route Finder with Open Source Mapping](https://dev.to/shalinibhavi525sudo/engineering-for-emergencies-how-to-build-a-real-time-disaster-route-finder-with-open-source-5ep4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
