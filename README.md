@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cost Optimization in Azure: Using the FinOps Toolkit to Save Money](https://dev.to/techielass/cost-optimization-in-azure-using-the-finops-toolkit-to-save-money-3mig)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-kc5)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-45a)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-33d)
-- [🚀 Terraform Workspaces and Multi-Environment Deployments](https://dev.to/aws-builders/terraform-workspaces-and-multi-environment-deployments-12gb)
+- [7 Top API Design Platforms That Revolutionize Team Collaboration](https://dev.to/roobia/7-top-api-design-platforms-that-revolutionize-team-collaboration-51j8)
+- [Building Reliable AI Agents with MCP: What We Learned Moving Codegen to the Planning Phase](https://dev.to/maybe_ai/building-reliable-ai-agents-with-mcp-what-we-learned-moving-codegen-to-the-planning-phase-mpl)
+- [Inter-Process Communication &lpar;IPC&rpar; in C++: Complete Guide](https://dev.to/cear/inter-process-communication-ipc-in-c-complete-guide-56mg)
+- [AI&#39;s Role in Revolutionizing Team Dynamics](https://dev.to/jean_chou_b0a8ad9c32addbd/ais-role-in-revolutionizing-team-dynamics-bgn)
+- [How I Automated My Client Onboarding — And Saved 10+ Hours Every Week](https://dev.to/gonzo_digitalmarketinga/how-i-automated-my-client-onboarding-and-saved-10-hours-every-week-9do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
