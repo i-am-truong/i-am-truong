@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Interview Questions and Answers &lpar;My Personal Experience&rpar;](https://dev.to/magi-magificient/playwright-interview-questions-and-answers-my-personal-experience-1l03)
+- [Serving an Astro Static Site with Brotli and Gzip on Nginx: A Complete, Practical Guide](https://dev.to/lovestaco/serving-an-astro-static-site-with-brotli-and-gzip-on-nginx-a-complete-practical-guide-3ef7)
+- [How to Set Up a Laravel Project on Localhost After Cloning From Git](https://dev.to/chiragx309/how-to-set-up-a-laravel-project-on-localhost-after-cloning-from-git-47c2)
 - [Symmetric Reference Counting: How to Eliminate Cycles Without a Garbage Collector](https://dev.to/zerohat/symmetric-reference-counting-how-to-eliminate-cycles-without-a-garbage-collector-151f)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3hmd)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4gff)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-fab)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4aip)
+- [🚀 My First Hackathon Experience: NexTech 1.0 – Odisha’s First Inter-College AI Hackathon](https://dev.to/supriyathearchitect/my-first-hackathon-experience-nextech-10-odishas-first-inter-college-ai-hackathon-28oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
