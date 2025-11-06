@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌐DevOps and Cloud Project: Static Website Hosting with AWS S3 + CloudFront + CI/CD](https://dev.to/ritesh355/devops-and-cloud-project-static-website-hosting-with-aws-s3-cloudfront-cicd-5hhe)
+- [XPicker - a simple and lightweight color picker for Windows](https://dev.to/fr0stxyz/xpicker-a-simple-and-lightweight-color-picker-for-windows-4p25)
 - [I built a free tool to help you find the right newsletter platform &lpar;and see what successful newsletters use&rpar;](https://dev.to/zackho/i-built-a-free-tool-to-help-you-find-the-right-newsletter-platform-and-see-what-successful-1agn)
 - [WinMacros - Make Windows faster with custom keybinds](https://dev.to/fr0stxyz/winmacros-make-windows-faster-with-custom-keybinds-id1)
 - [The Hidden Power of TypeScript in Large-Scale React Projects](https://dev.to/mehrdadkhodaverdi/the-hidden-power-of-typescript-in-large-scale-react-projects-453d)
-- [Cocaine Sans Regular Font : AtoZ Font](https://dev.to/atoz_font_235689d478c4fdf/cocaine-sans-regular-font-atoz-font-15j7)
-- [🌐Locale Message Updates in Joget Using Beanshell and REST API](https://dev.to/exploringmylifeworks/locale-message-updates-in-joget-using-beanshell-and-rest-api-2i84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
