@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐DevOps and Cloud Project: Static Website Hosting with AWS S3 + CloudFront + CI/CD](https://dev.to/ritesh355/devops-and-cloud-project-static-website-hosting-with-aws-s3-cloudfront-cicd-5hhe)
-- [XPicker - a simple and lightweight color picker for Windows](https://dev.to/fr0stxyz/xpicker-a-simple-and-lightweight-color-picker-for-windows-4p25)
-- [I built a free tool to help you find the right newsletter platform &lpar;and see what successful newsletters use&rpar;](https://dev.to/zackho/i-built-a-free-tool-to-help-you-find-the-right-newsletter-platform-and-see-what-successful-1agn)
-- [WinMacros - Make Windows faster with custom keybinds](https://dev.to/fr0stxyz/winmacros-make-windows-faster-with-custom-keybinds-id1)
-- [The Hidden Power of TypeScript in Large-Scale React Projects](https://dev.to/mehrdadkhodaverdi/the-hidden-power-of-typescript-in-large-scale-react-projects-453d)
+- [Why `rem` Should Be Your Default for Spacing in Modern CSS](https://dev.to/alok38/why-rem-should-be-your-default-for-spacing-in-modern-css-2l9m)
+- [vimconfig: Auto-Setup Vim dengan Backup Otomatis](https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg)
+- [Building a Password Checker with Vanilla JS &lpar;No Frameworks!&rpar;](https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo)
+- [Recommendations for Useful AI Search Tools](https://dev.to/serenepine/recommendations-for-useful-ai-search-tools-1ceg)
+- [Chapter 2 Git使用心得](https://dev.to/jason_liu_606805294b05bf6/chapter-2-gitshi-yong-xin-de-51in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
