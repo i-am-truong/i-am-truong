@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como integrar Faceted Search com Interactive Grid no Oracle APEX](https://dev.to/murasb/como-integrar-faceted-search-com-interactive-grid-no-oracle-apex-2jcc)
-- [WTF I Got a Job ?!?!](https://dev.to/andrewhasoneshot/wtf-i-got-a-job--2lgm)
-- [Why We Ditched Next.js for TanStack Start](https://dev.to/lindesvard/why-we-ditched-nextjs-for-tanstack-start-4bp7)
-- [Why 1:1s Are Your Secret Weapon &lpar;Even as an IC&rpar;](https://dev.to/willysvarela/why-11s-are-your-secret-weapon-even-as-an-ic-40fn)
-- [Rick Beato: The Neal Schon Interview: the Riffs, the Solos, and the Soul of Journey](https://dev.to/music_youtube/rick-beato-the-neal-schon-interview-the-riffs-the-solos-and-the-soul-of-journey-2i2l)
+- [Mastering Async Logic in Redux Toolkit with createAsyncThunk](https://dev.to/lawrenceagles/mastering-async-logic-in-redux-toolkit-with-createasyncthunk-3461)
+- [My query languages library pivot](https://dev.to/xwero/my-query-languages-library-pivot-20oh)
+- [Why Software Development Is Not Assembly-Line Work](https://dev.to/leonpennings/why-software-development-is-not-assembly-line-work-1b2p)
+- [Streams in C#](https://dev.to/purejoymind/streams-in-c-2ahh)
+- [Modernizing Python Projects: Converting requirements.txt to uv in One Command](https://dev.to/danilop/modernizing-python-projects-converting-requirementstxt-to-uv-in-one-command-5ali)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
