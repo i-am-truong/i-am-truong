@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating MongoDB Atlas Cluster Discovery Across All Projects Using PowerShell](https://dev.to/ravindar_karampuri_73408a/automating-mongodb-atlas-cluster-discovery-across-all-projects-using-powershell-36fn)
-- [How Signal&#39;s New Triple Ratchet Protocol Fortifies Your Privacy](https://dev.to/redpanda1014/how-signals-new-triple-ratchet-protocol-fortifies-your-privacy-1beh)
-- [💡 Power BI Storage Mode — সহজ বাংলায় পূর্ণ ধারণা](https://dev.to/sajjadrahman56/power-bi-storage-mode-shj-baanlaayy-puurnn-dhaarnnaa-57b1)
-- [Introducing TokiForge: A Framework-Agnostic Design Token Engine with Runtime Theme Switching](https://dev.to/toozuuu/introducing-tokiforge-a-framework-agnostic-design-token-engine-with-runtime-theme-switching-2e72)
-- [Efficient Laziness at Scale: The Agile Team I Never Needed](https://dev.to/pascal_cescato_692b7a8a20/efficient-laziness-at-scale-the-agile-team-i-never-needed-5052)
+- [Week 3: From 0 to 30 Developers &lpar;Building in Public&rpar;](https://dev.to/liquidcode/week-3-from-0-to-30-developers-building-in-public-2bfi)
+- [AI Evaluation - Future-AGI](https://dev.to/vihardev/ai-evaluation-future-agi-363i)
+- [Expose Your Local Network App the Smart Way: Ngrok + LAN Setup Explained](https://dev.to/haastrupea/expose-your-local-network-app-the-smart-way-ngrok-lan-setup-explained-133d)
+- [Learn CSS Fast: The Only Tutorial You’ll Ever Need](https://dev.to/suraj_kumar_fb57ae0928df2/learn-css-fast-the-only-tutorial-youll-ever-need-l43)
+- [Scraping TikTok Profiles and Videos with Python &lpar;Part 1&rpar;](https://dev.to/hasdata_com/scraping-tiktok-profiles-and-videos-with-python-part-1-4o8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
