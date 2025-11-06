@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍🚀 Mission Accomplished: How an Engineer-Astronaut Prepared Meta’s CRAG Benchmark for Launch in Docker](https://dev.to/astronaut27/mission-accomplished-how-an-engineer-astronaut-prepared-metas-crag-benchmark-for-launch-in-4bl6)
-- [Promptcraft for Play: Endless Conversational Adventures with ChatGPT](https://dev.to/arturormk/promptcraft-for-play-endless-conversational-adventures-with-chatgpt-5dhg)
-- [DotCompute RC2 — Cross-Backend GPU Compute for .NET](https://dev.to/mivertowski/dotcompute-rc2-cross-backend-gpu-compute-for-net-4dh)
-- [Case Study: Improving Developer Productivity with AI Code Detection Solutions](https://dev.to/carl_max007/case-study-improving-developer-productivity-with-ai-code-detection-solutions-3i0p)
-- [Easily Convert your React Native Project To Desktop App](https://dev.to/yhoungbrown/easily-convert-your-react-native-project-to-desktop-app-4l8l)
+- [Legal Research is Changing: How AI Makes Your C# Applications Smarter](https://dev.to/lofcz/legal-research-is-changing-how-ai-makes-your-c-applications-smarter-1bjc)
+- [Making your Java code null-safe without rewriting it](https://dev.to/cheol_jeon_9e29b98fdb7e1e/makes-your-java-code-null-safe-without-rewriting-it-5fe3)
+- [With JPlus, writing Java Code Smartly with Null-Safety](https://dev.to/cheol_jeon_9e29b98fdb7e1e/with-jplus-writing-java-code-smartly-with-null-safety-350)
+- [New Post: Best Free AI Tools for Web Developers in 2025](https://dev.to/djamware_tutorial_eba1a61/new-post-best-free-ai-tools-for-web-developers-in-2025-3m02)
+- [THE BACKBONE OF DATABASE REALIABILITY: EXPLORING ACID IN ACTION WITH SQL TRANSACTION A STEP-STEP-STEP GUIDE](https://dev.to/hari_saravanan_7ddd3f0bbf/the-backbone-of-database-realiability-exploring-acid-in-action-with-sql-transaction-a-1nc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
