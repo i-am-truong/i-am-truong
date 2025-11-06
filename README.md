@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Untapped Risk of Water Management in Sustainability](https://dev.to/esg_rating_/the-untapped-risk-of-water-management-in-sustainability-5f8n)
+- [MuleSoft - SFTP - Write content to file and upload to server](https://dev.to/elliot518/mulesoft-sftp-write-content-to-file-and-upload-to-server-229n)
+- [Mystery Mansion Mayhem](https://dev.to/ignaciah/mystery-mansion-mayhem-7il)
+- [Complete Guide to Credit Card Fraud Detection: How AI Protects Your Money](https://dev.to/sohan_lal_241c2d80b2705e7/complete-guide-to-credit-card-fraud-detection-how-ai-protects-your-money-4mm9)
 - [Why `rem` Should Be Your Default for Spacing in Modern CSS](https://dev.to/alok38/why-rem-should-be-your-default-for-spacing-in-modern-css-2l9m)
-- [vimconfig: Auto-Setup Vim dengan Backup Otomatis](https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg)
-- [Building a Password Checker with Vanilla JS &lpar;No Frameworks!&rpar;](https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo)
-- [Recommendations for Useful AI Search Tools](https://dev.to/serenepine/recommendations-for-useful-ai-search-tools-1ceg)
-- [Chapter 2 Git使用心得](https://dev.to/jason_liu_606805294b05bf6/chapter-2-gitshi-yong-xin-de-51in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
