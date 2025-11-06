@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Treta do Module Federation e Next.js: Uma História de Falta de Colaboração](https://dev.to/albornozrodrigo/a-treta-do-module-federation-e-nextjs-uma-historia-de-falta-de-colaboracao-12dk)
-- [Conditional logic for jQuery formBuilder in 5 minutes](https://dev.to/jaimonorle/conditional-logic-for-jquery-formbuilder-in-5-minutes-2i8n)
-- [3607. Power Grid Maintenance](https://dev.to/mdarifulhaque/3607-power-grid-maintenance-53f3)
-- [Football Betting: Why This Platform Offers a Smarter, Safer, More Exciting Experience](https://dev.to/publish/football-betting-why-this-platform-offers-a-smarter-safer-more-exciting-experience-1bg4)
-- [Asaaju Peter Condemns Unfair Account Suspension Practices On Fiverr, Calls for Digital Rights Protection](https://dev.to/phemight_technologies_281/asaaju-peter-condemns-unfair-account-suspension-practices-on-fiverr-calls-for-digital-rights-1b1)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-49ji)
+- [Introducing YasuiJS — A Modern, Minimal REST Framework for Any Runtime](https://dev.to/thomas_barkats_8d0da46be2/introducing-yasuijs-a-modern-minimal-rest-framework-for-any-runtime-4e54)
+- [androidx.navigation:navigation-ui is causing increasing inflation time for each component &lpar;in Java xml project&rpar;?](https://dev.to/nl_p_/androidxnavigationnavigation-ui-is-causing-increasing-inflation-time-for-each-component-12l9)
+- [How does AI infrastructure and automation reshape data centers?](https://dev.to/jay_all_day/how-does-ai-infrastructure-and-automation-reshape-data-centers-2ef3)
+- [Decoding the 100314QI: Efficient Differential Receivers for Embedded Projects](https://dev.to/xecor_company/decoding-the-100314qi-efficient-differential-receivers-for-embedded-projects-39pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
