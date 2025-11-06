@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Custom Agents: Redefining the Future of Cloud Architecture](https://dev.to/aws-builders/amazon-q-custom-agents-redefining-the-future-of-cloud-architecture-4on)
-- [Stop Writing Long JS Code — Use These 10 Time-Saving One-Liners Instead](https://dev.to/siddheshcodes/stop-writing-long-js-code-use-these-10-time-saving-one-liners-instead-3i6i)
-- [The 5 AWS Services That Secretly Drain Your Budget &lpar;and How to Stop Them&rpar;](https://dev.to/cloudwiseteam/the-5-aws-services-that-secretly-drain-your-budget-and-how-to-stop-them-39nn)
-- [Avoid the N+1 Problem in Laravel Validations](https://dev.to/dazza-dev/avoid-the-n1-problem-in-laravel-validations-1gdi)
-- [Carreira de TI - você escolhe sua trilha](https://dev.to/andersoncontreira/carreira-de-ti-voce-escolhe-sua-trilha-a0i)
+- [Stop Re-Typing Terminal Commands! Boost Your Workflow with IntelliShell](https://dev.to/lasantosr/stop-re-typing-terminal-commands-boost-your-workflow-with-intellishell-530h)
+- [Migrating a Laravel Application From a Relational Database &lpar;PostgreSQL&rpar; to MongoDB](https://dev.to/mongodb/migrating-a-laravel-application-from-a-relational-database-postgresql-to-mongodb-m0m)
+- [Understanding Nodes in Godot &lpar;For Absolute Beginners&rpar;](https://dev.to/jimmymcbride/understanding-nodes-in-godot-for-absolute-beginners-ekk)
+- [Network Topology|Physical and Logical Topology and types in detail| Israh Binoj](https://dev.to/israhverse/network-topologyphysical-and-logical-topology-and-types-in-detail-israh-binoj-57e)
+- [Les Cloud Development Environments &lpar;CDE&rpar; - Embarquement immédiat !](https://dev.to/onepoint/les-cloud-development-environments-cde-embarquement-immediat--729)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
