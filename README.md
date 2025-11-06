@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Logging tests to the terminal in browser tests to help AI find your test results](https://dev.to/nullvoxpopuli/logging-tests-to-the-terminal-in-browser-tests-to-help-ai-find-your-test-results-1bl9)
-- [Building Cross-Language TUIs: One Go Binary to Rule Them All published](https://dev.to/dev-tngsh/building-cross-language-tuis-one-go-binary-to-rule-them-all-published-13a5)
-- [The Rise of the Specialist: Why Small Language Models are the Future of Enterprise AI](https://dev.to/gourav221b/the-rise-of-the-specialist-why-small-language-models-are-the-future-of-enterprise-ai-dbc)
-- [Understanding monitoring vs observability: core differences](https://dev.to/tomjohnson3/understanding-monitoring-vs-observability-core-differences-8ig)
-- [Andrew Huang: S4 2.0 is incredible!](https://dev.to/music_youtube/andrew-huang-s4-20-is-incredible-593i)
+- [Building Sortable Tree — A Lightweight Drag &amp; Drop Tree in Vanilla TypeScript](https://dev.to/marcantondahmen/building-sortable-tree-a-lightweight-drag-drop-tree-in-vanilla-typescript-f7l)
+- [🧑‍🚀 Choosing the Right Engine to Launch Your LLM &lpar;LM Studio, Ollama, and vLLM&rpar;](https://dev.to/astronaut27/choosing-the-right-engine-to-launch-your-llm-lm-studio-ollama-and-vllm-195o)
+- [Reminder: EOL for Puppet CD 4.x and Puppet Comply 2.x](https://dev.to/puppet/reminder-eol-for-puppet-cd-4x-and-puppet-comply-2x-27h6)
+- [How Experiential Events Bridge the Gap Between Tech and People](https://dev.to/mmakerscafe/how-experiential-events-bridge-the-gap-between-tech-and-people-1740)
+- [Daily Artificial Intelligence Digest - Nov 07, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-07-2025-220a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
