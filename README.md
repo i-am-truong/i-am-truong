@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Reality of &quot;Autonomous&quot; Multi-Agent Development](https://dev.to/aviad_rozenhek_cba37e0660/the-reality-of-autonomous-multi-agent-development-266a)
+- [I Built a Modern Jekyll Theme with Tailwind CSS &lpar;Free Template&rpar;](https://dev.to/ali_hatami_dfa6ced769235c/i-built-a-modern-jekyll-theme-with-tailwind-css-free-template-3o9j)
 - [How I Built a Django Honeypot to Catch Attackers &lpar;and What I Learned&rpar;](https://dev.to/ali_hatami_dfa6ced769235c/how-i-built-a-django-honeypot-to-catch-attackers-and-what-i-learned-22mg)
 - [How Construction Payroll Automation Drives Compliance and Profitability](https://dev.to/kapusto/how-construction-payroll-automation-drives-compliance-and-profitability-489d)
 - [Distributed Media Inferencing with Kafka](https://dev.to/jayash_tripathy_921c22d37/distributed-media-inferencing-with-kafka-48jg)
-- [Building Herctually: An AI Research Agent written in GO](https://dev.to/oreoluwabs/building-herctually-an-ai-research-agent-written-in-go-3a18)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3clh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
