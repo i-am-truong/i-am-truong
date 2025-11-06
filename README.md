@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧪 Unit Testing Tools in WebForms Core 2](https://dev.to/elanatframework/unit-testing-tools-in-webforms-core-2-3a41)
-- [Leveling with cluster analysis in Python: basic Python concepts](https://dev.to/hilton_fernandes_eaac26ab/leveling-with-cluster-analysis-in-python-basic-python-concepts-1n6)
-- [Impossible Is Nothing: Lessons Building Great Games](https://dev.to/gamepill/impossible-is-nothing-lessons-building-great-games-39kb)
-- [Opal: Google’s No-Code AI App Builder Is Now Global](https://dev.to/alifar/opal-googles-no-code-ai-app-builder-is-now-global-2196)
-- [Development Musical Chairs](https://dev.to/cheetah100/development-musical-chairs-35hc)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2874)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4e0c)
+- [TypeScript Mutually Exclusive Unions: From `?: never` to `ExclusifyUnion`](https://dev.to/ycmjason/typescript-mutually-exclusive-unions-from-never-to-exclusifyunion-3fhm)
+- [Explain the difference between subquery,CTE and stored procedures](https://dev.to/roy_b5001e0ff9a27dea39641/explain-the-difference-between-subquerycte-and-stored-procedures-54cf)
+- [Secure Apache with SSL in Docker](https://dev.to/tshenolo/secure-apache-with-ssl-in-docker-8k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
