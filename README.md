@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Corporate Holidays with holidays package](https://dev.to/basman/custom-corporate-holidays-with-holidays-package-3fif)
-- [Getting Started with Azure Functions: A Beginner&#39;s Guide](https://dev.to/auyeungdavid_2847435260/getting-started-with-azure-functions-a-beginners-guide-db4)
-- [Why Your AI Agent Needs a Ctrl+Z &lpar;And How I Built It&rpar;](https://dev.to/hadywalied/why-your-ai-agent-needs-a-ctrlz-and-how-i-built-it-ok1)
-- [You may not need pg_vector, sqlite-vss, etc.](https://dev.to/nvahalik/you-may-not-need-pgvector-sqlite-vss-etc-e6j)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-316c)
+- [A Treta do Module Federation e Next.js: Uma História de Falta de Colaboração](https://dev.to/albornozrodrigo/a-treta-do-module-federation-e-nextjs-uma-historia-de-falta-de-colaboracao-12dk)
+- [Conditional logic for jQuery formBuilder in 5 minutes](https://dev.to/jaimonorle/conditional-logic-for-jquery-formbuilder-in-5-minutes-2i8n)
+- [3607. Power Grid Maintenance](https://dev.to/mdarifulhaque/3607-power-grid-maintenance-53f3)
+- [Football Betting: Why This Platform Offers a Smarter, Safer, More Exciting Experience](https://dev.to/publish/football-betting-why-this-platform-offers-a-smarter-safer-more-exciting-experience-1bg4)
+- [Asaaju Peter Condemns Unfair Account Suspension Practices On Fiverr, Calls for Digital Rights Protection](https://dev.to/phemight_technologies_281/asaaju-peter-condemns-unfair-account-suspension-practices-on-fiverr-calls-for-digital-rights-1b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
