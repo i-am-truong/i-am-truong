@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why your genius agent is also brain dead: The tale of 7000 scenarios and the knowledge we almost lost](https://dev.to/aviad_rozenhek_cba37e0660/why-your-genius-agent-is-also-brain-dead-the-tale-of-7000-scenarios-and-the-knowledge-we-almost-1jdi)
 - [The Reality of &quot;Autonomous&quot; Multi-Agent Development](https://dev.to/aviad_rozenhek_cba37e0660/the-reality-of-autonomous-multi-agent-development-266a)
 - [I Built a Modern Jekyll Theme with Tailwind CSS &lpar;Free Template&rpar;](https://dev.to/ali_hatami_dfa6ced769235c/i-built-a-modern-jekyll-theme-with-tailwind-css-free-template-3o9j)
 - [How I Built a Django Honeypot to Catch Attackers &lpar;and What I Learned&rpar;](https://dev.to/ali_hatami_dfa6ced769235c/how-i-built-a-django-honeypot-to-catch-attackers-and-what-i-learned-22mg)
 - [How Construction Payroll Automation Drives Compliance and Profitability](https://dev.to/kapusto/how-construction-payroll-automation-drives-compliance-and-profitability-489d)
-- [Distributed Media Inferencing with Kafka](https://dev.to/jayash_tripathy_921c22d37/distributed-media-inferencing-with-kafka-48jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
