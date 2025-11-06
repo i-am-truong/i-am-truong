@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Week 3: From 0 to 30 Developers &lpar;Building in Public&rpar;](https://dev.to/liquidcode/week-3-from-0-to-30-developers-building-in-public-2bfi)
-- [AI Evaluation - Future-AGI](https://dev.to/vihardev/ai-evaluation-future-agi-363i)
-- [Expose Your Local Network App the Smart Way: Ngrok + LAN Setup Explained](https://dev.to/haastrupea/expose-your-local-network-app-the-smart-way-ngrok-lan-setup-explained-133d)
-- [Learn CSS Fast: The Only Tutorial You’ll Ever Need](https://dev.to/suraj_kumar_fb57ae0928df2/learn-css-fast-the-only-tutorial-youll-ever-need-l43)
-- [Scraping TikTok Profiles and Videos with Python &lpar;Part 1&rpar;](https://dev.to/hasdata_com/scraping-tiktok-profiles-and-videos-with-python-part-1-4o8i)
+- [Symmetric Reference Counting: How to Eliminate Cycles Without a Garbage Collector](https://dev.to/zerohat/symmetric-reference-counting-how-to-eliminate-cycles-without-a-garbage-collector-151f)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3hmd)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4gff)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-fab)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4aip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
