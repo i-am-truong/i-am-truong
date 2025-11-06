@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Future of Healthcare Policy in America](https://dev.to/americasbestinmedicine/understanding-the-future-of-healthcare-policy-in-america-3912)
-- [The Value-Centric Philosophy of Rust](https://dev.to/quadswell/the-value-centric-philosophy-of-rust-4eo7)
-- [How to Justify AI-Driven IT to Your Leadership Turning Automation into a Strategic Advantage](https://dev.to/sip_mjb/how-to-justify-ai-driven-it-to-your-leadershipturning-automation-into-a-strategic-advantage-4opd)
-- [Building Trust and Reliability in Banking Apps with Modern Testing](https://dev.to/misterankit/building-trust-and-reliability-in-banking-apps-with-modern-testing-deb)
-- [Defending AI Email Assistants Against Prompt Injection: A Forensic-First Framework](https://dev.to/narnaiezzsshaa/defending-ai-email-assistants-against-prompt-injection-a-forensic-first-framework-36hg)
+- [WinMacros - Make Windows faster with custom keybinds](https://dev.to/fr0stxyz/winmacros-make-windows-faster-with-custom-keybinds-id1)
+- [The Hidden Power of TypeScript in Large-Scale React Projects](https://dev.to/mehrdadkhodaverdi/the-hidden-power-of-typescript-in-large-scale-react-projects-453d)
+- [Cocaine Sans Regular Font : AtoZ Font](https://dev.to/atoz_font_235689d478c4fdf/cocaine-sans-regular-font-atoz-font-15j7)
+- [🌐Locale Message Updates in Joget Using Beanshell and REST API](https://dev.to/exploringmylifeworks/locale-message-updates-in-joget-using-beanshell-and-rest-api-2i84)
+- [Understanding Logrotate — The Silent Hero of Linux Logs](https://dev.to/sharon_shaji_ef2e9efff8d8/understanding-logrotate-the-silent-hero-of-linux-logs-bdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
