@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Desvendando os Superpoderes do Elixir: Concorrência e Tolerância a Falhas](https://dev.to/gissandrogama/desvendando-os-superpoderes-do-elixir-concorrencia-e-tolerancia-a-falhas-5f6e)
-- [Cybersecurity in the AI Era: It&#39;s Not a Feature, It&#39;s Genetic Code](https://dev.to/stigadikar/cybersecurity-in-the-ai-era-its-not-a-feature-its-genetic-code-46jk)
-- [MultiGit: One repository. Infinite destinations](https://dev.to/eshanized/multigit-one-repository-infinite-destinations-2adj)
-- [StatusGator Alternative in 2025: Why IT Managers Pick IsDown](https://dev.to/isdown/statusgator-alternative-in-2025-why-it-managers-pick-isdown-6h0)
-- [Comment j&#39;ai arrêté de redessiner l&#39;univers : une histoire d&#39;abonnements atomiques dans React](https://dev.to/quojs_dev/comment-jai-arrete-de-redessiner-lunivers-une-histoire-dabonnements-atomiques-dans-react-1kji)
+- [div diary 20251105](https://dev.to/hirooka_kazuya_d7f37d3cde/div-diary-20251105-595f)
+- [Supercharge Your Pipeline: How to Integrate AI-Powered Code Reviews with GitHub Actions](https://dev.to/picoable/supercharge-your-pipeline-how-to-integrate-ai-powered-code-reviews-with-github-actions-1d61)
+- [How to Create a Simple Automated Backup Script with Bash and rsync](https://dev.to/picoable/how-to-create-a-simple-automated-backup-script-with-bash-and-rsync-pba)
+- [We Need to Stop Calling It &#39;Imposter Syndrome&#39;](https://dev.to/_boweii/we-need-to-stop-calling-it-imposter-syndrome-282i)
+- [Why Was Programming Created? From Passion to Financial Gain](https://dev.to/shamss98/why-was-programming-created-from-passion-to-financial-gain-3bki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
