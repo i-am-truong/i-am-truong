@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧪 Selur: Reclaiming the Web Contract—The Pure CSS UI Engine You Didn&#39;t Know You Needed](https://dev.to/tdjdev/selur-reclaiming-the-web-contract-the-pure-css-ui-engine-you-didnt-know-you-needed-4912)
+- [Unlock AI Power with Customizable Language Graphs](https://dev.to/mabualzait/unlock-ai-power-with-customizable-language-graphs-4iih)
+- [Building the World’s First Unlimited AI Resume Builder — The Story of Skillinnovex](https://dev.to/skillinnovex_company_6e74/building-the-worlds-first-unlimited-ai-resume-builder-the-story-of-skillinnovex-3112)
 - [The AI Stack We Trust: Tools, Frameworks, and Practices We Use in Production](https://dev.to/capestart/the-ai-stack-we-trust-tools-frameworks-and-practices-we-use-in-production-2kn9)
 - [AI for Predictive Monitoring in DevOps Environments](https://dev.to/baskaran_jeyarajan_dc5943/ai-for-predictive-monitoring-in-devops-environments-4pob)
-- [Stream of small fixes — this week&#39;s repo recap is going to be full!](https://dev.to/ben/stream-of-small-fixes-this-weeks-repo-recap-is-going-to-be-full-h30)
-- [Apple Health MCP Server: Use Cases for Developers](https://dev.to/momentumai/apple-health-mcp-server-use-cases-for-developers-kaa)
-- [Review IG Follower Export Tools for 2025/26: Complete Comparison](https://dev.to/max-dev/best-ig-follower-export-tools-for-2026-complete-comparison-169n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
