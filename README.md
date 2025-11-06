@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplify validation error handling in Angular with `ng-input-validation`](https://dev.to/bibangjoseph/simplify-validation-error-handling-in-angular-with-ng-input-validation-561j)
-- [AWS S3 Vectors at scale: Real performance numbers at 10 million Vectors](https://dev.to/siddhantkcode/aws-s3-vectors-at-scale-real-performance-numbers-at-10-million-vectors-2lno)
-- [A Guide to the Best Java Machine Learning Libraries](https://dev.to/jeni860/a-guide-to-the-best-java-machine-learning-libraries-a5i)
-- [How AI-Driven Intelligent Document Processing Is Transforming Banking and Finance](https://dev.to/emily_smith_86b5b7960eebb/how-ai-driven-intelligent-document-processing-is-transforming-banking-and-finance-5f8d)
-- [React vs Next.js vs Vue: Which Frontend Framework Wins in 2025?](https://dev.to/ciphernutz/react-vs-nextjs-vs-vue-which-frontend-framework-wins-in-2025-26gj)
+- [🧑‍🚀 Mission Accomplished: How an Engineer-Astronaut Prepared Meta’s CRAG Benchmark for Launch in Docker](https://dev.to/astronaut27/mission-accomplished-how-an-engineer-astronaut-prepared-metas-crag-benchmark-for-launch-in-4bl6)
+- [Promptcraft for Play: Endless Conversational Adventures with ChatGPT](https://dev.to/arturormk/promptcraft-for-play-endless-conversational-adventures-with-chatgpt-5dhg)
+- [DotCompute RC2 — Cross-Backend GPU Compute for .NET](https://dev.to/mivertowski/dotcompute-rc2-cross-backend-gpu-compute-for-net-4dh)
+- [Case Study: Improving Developer Productivity with AI Code Detection Solutions](https://dev.to/carl_max007/case-study-improving-developer-productivity-with-ai-code-detection-solutions-3i0p)
+- [Easily Convert your React Native Project To Desktop App](https://dev.to/yhoungbrown/easily-convert-your-react-native-project-to-desktop-app-4l8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
