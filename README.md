@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Next Era of Databases: When Queries Write Themselves](https://dev.to/logicverse_2025/the-next-era-of-databases-when-queries-write-themselves-3578)
-- [Untitled](https://dev.to/adil_ibrahim_f476901385ab/untitled-7oe)
-- [Transforming Engineering Culture in a 300-Person Company](https://dev.to/gauravratnawat/transforming-engineering-culture-in-a-300-person-company-35l)
-- [Update page title counter with custom turbo streams in Rails](https://dev.to/railsdesigner/update-page-title-counter-with-custom-turbo-streams-in-rails-3e52)
-- [PHP in 2025 Evolving Rapidly](https://dev.to/devops-make-it-run/php-in-2025-evolving-rapidly-1j44)
+- [More Interaction with JavaScript in WebForms Core 2](https://dev.to/elanatframework/more-interaction-with-javascript-in-webforms-core-2-4kdi)
+- [Azure Landing Zone](https://dev.to/droid_ek_74a55643d344c3e2/azure-landing-zone-2k9g)
+- [What are Azure DevOps integration of services ?](https://dev.to/e77/what-are-azure-devops-integration-of-services--4kfj)
+- [Deploy to Google Cloud Run in Minutes](https://dev.to/rashikakarki/deploy-to-google-cloud-run-in-minutes-2anj)
+- [Engineering Enterprise-Grade Context: Making the Model Context Protocol &lpar;MCP&rpar; Viable for Financial Services](https://dev.to/om_shree_0709/engineering-enterprise-grade-context-making-the-model-context-protocol-mcp-viable-for-financial-2pmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
