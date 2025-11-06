@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Layer: How I Completed Our Data Lakehouse Architecture &lpar;When Everyone Else Stopped at Silver&rpar;](https://dev.to/aygul_aksyanova/the-missing-layer-how-i-completed-our-data-lakehouse-architecture-when-everyone-else-stopped-at-56hm)
-- [Why your genius agent is also brain dead: The tale of 7000 scenarios and the knowledge we almost lost](https://dev.to/aviad_rozenhek_cba37e0660/why-your-genius-agent-is-also-brain-dead-the-tale-of-7000-scenarios-and-the-knowledge-we-almost-1jdi)
-- [[Boost]](https://dev.to/tobilobaogundiyan/-15ln)
-- [[Boost]](https://dev.to/tobilobaogundiyan/-2eah)
-- [Rethinking My AWS Admin Access: Lessons Learned From Moving to Single-Sign-On](https://dev.to/tobilobaogundiyan/rethinking-my-aws-admin-access-lessons-learned-from-moving-to-single-sign-on-42gd)
+- [Vibe coding: What we learned from flip-flopping 8 times on a simple formula](https://dev.to/aviad_rozenhek_cba37e0660/vibe-coding-what-we-learned-from-flip-flopping-8-times-on-a-simple-formula-316)
+- [Wix Users Targeted by Sophisticated Email Scam Pretending to Be Official Support — Statement by Asaaju Peter](https://dev.to/phemight_technologies_281/wix-users-targeted-by-sophisticated-email-scam-pretending-to-be-official-support-statement-by-bke)
+- [Physics-Aware Neural Networks: Banishing Simulation Ghosts by Arvind Sundararajan](https://dev.to/arvind_sundararajan/physics-aware-neural-networks-banishing-simulation-ghosts-by-arvind-sundararajan-190n)
+- [Learning an Image Editing Model without Image Editing Pairs](https://dev.to/paperium/learning-an-image-editing-model-without-image-editing-pairs-non)
+- [Communication Protocols for AI Agents That Can&#39;t Talk to Each Other](https://dev.to/aviad_rozenhek_cba37e0660/communication-protocols-for-ai-agents-that-cant-talk-to-each-other-b23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
