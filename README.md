@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ARMS Continuous Profiling Upgrade for Efficient and Accurate Performance Bottleneck Localization](https://dev.to/observabilityguy/arms-continuous-profiling-upgrade-for-efficient-and-accurate-performance-bottleneck-localization-5edb)
-- [Kiroween Hackathon: Resurrecting Punch Cards and Discovering Exciting New Experiences with My Old Friend, Kiro IDE](https://dev.to/pavloicsa/kiroween-hackathon-resurrecting-punch-cards-and-discovering-exciting-new-experiences-with-my-old-4h3)
-- [Extending Pydantic AI Agents with Chat History - Messages and Chat History in Pydantic AI](https://dev.to/hamluk/extending-pydantic-ai-agents-with-chat-history-messages-and-chat-history-in-pydantic-ai-d4f)
-- [CSS Pseudo-classes and Pseudo-elements: Unlocking Hidden Styling Power](https://dev.to/sharique_siddiqui_8242dad/css-pseudo-classes-and-pseudo-elements-unlocking-hidden-styling-power-3a4c)
-- [Apache SeaTunnel Now Supports Metalake!](https://dev.to/seatunnel/apache-seatunnel-now-supports-metalake-57pc)
+- [Cost Optimization in Azure: Using the FinOps Toolkit to Save Money](https://dev.to/techielass/cost-optimization-in-azure-using-the-finops-toolkit-to-save-money-3mig)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-kc5)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-45a)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-33d)
+- [🚀 Terraform Workspaces and Multi-Environment Deployments](https://dev.to/aws-builders/terraform-workspaces-and-multi-environment-deployments-12gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
