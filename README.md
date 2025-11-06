@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Devs: What&#39;s Wasting Your Time on YouTube? Help Me Build a Better Platform &lpar;2-min survey&rpar;](https://dev.to/rishabyd/devs-whats-wasting-your-time-on-youtube-help-me-build-a-better-platform-2-min-survey-100l)
-- [Consensus for Good: The Meta Earth “E” Gesture Lights Up Hope in the Philippines](https://dev.to/metaearth/consensus-for-good-the-meta-earth-e-gesture-lights-up-hope-in-the-philippines-g7k)
-- [⚛ Quantum Computing: The Next Revolution in Technology](https://dev.to/mohansh_technologies_a5e1/quantum-computing-the-next-revolution-in-technology-5dlo)
-- [Not sure whether to use VMs or containers for your next setup?](https://dev.to/web_learning_4de0b1e0557/not-sure-whether-to-use-vms-or-containers-for-your-next-setup-j5o)
-- [My SaaS homepage design journey as a backend developer](https://dev.to/vincentbean/my-saas-homepage-design-journey-as-a-backend-developer-32d4)
+- [Developer-First Traffic Management: See Live Traffic &amp; Override APIs Instantly](https://dev.to/signadot/developer-first-traffic-management-see-live-traffic-override-apis-instantly-peh)
+- [How to deploy you NFT on Sepolia - Simple and 100% under control](https://dev.to/sebastien_levy_233585b9a3/how-to-deploy-you-nft-on-sepolia-simple-and-100-under-control-245d)
+- [Stop Just Running mvn test: Build a Jenkins Pipeline That Understands Test Results and Controls Build Promotion Automatically](https://dev.to/srinivasamcjf/stop-just-running-mvn-test-build-a-jenkins-pipeline-that-understands-test-results-and-controls-26p)
+- [🧠🚨 Big update for the AI world 🚨](https://dev.to/servicemda/big-update-for-the-ai-world-h3)
+- [Use Cache In Nextjs](https://dev.to/dev_khaled/use-cache-in-nextjs-5eab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
