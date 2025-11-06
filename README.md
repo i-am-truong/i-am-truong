@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We Tested 6 AI Models on 3 Advanced Security Exploits: The Results](https://dev.to/kilocode/we-tested-6-ai-models-on-3-advanced-security-exploits-the-results-ap9)
+- [pygixml — The Fastest XML Parser for Python &lpar;Beating lxml at Its Own Game&rpar;](https://dev.to/mohammadraziei/pygixml-the-fastest-xml-parser-for-python-beating-lxml-at-its-own-game-4lom)
 - [What is the best React-based charting library for interactive plots with large datasets?](https://dev.to/lodhi_ce8730c8129d8b0f508/what-is-the-best-react-based-charting-library-for-interactive-plots-with-large-datasets-16gn)
-- [How to Stop Selenium Tests from Clicking Before the Page is Ready](https://dev.to/magi-magificient/how-to-stop-selenium-tests-from-clicking-before-the-page-is-ready-1pin)
-- [Legal Research is Changing: How AI Makes Your C# Applications Smarter](https://dev.to/lofcz/legal-research-is-changing-how-ai-makes-your-c-applications-smarter-1bjc)
-- [Making your Java code null-safe without rewriting it](https://dev.to/cheol_jeon_9e29b98fdb7e1e/makes-your-java-code-null-safe-without-rewriting-it-5fe3)
-- [With JPlus, writing Java Code Smartly with Null-Safety](https://dev.to/cheol_jeon_9e29b98fdb7e1e/with-jplus-writing-java-code-smartly-with-null-safety-350)
+- [Advancements in Aerospace Engineering: A Deep Dive](https://dev.to/sheba-kumari/advancements-in-aerospace-engineering-a-deep-dive-4g04)
+- [Day 24 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-24-of-my-ai-data-mastery-journey-from-python-to-generative-ai-f6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
