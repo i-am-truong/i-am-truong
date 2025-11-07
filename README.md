@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Gemini CLI: The Future of Programming and Reflections on the Impacts of AI](https://dev.to/windmateus/gemini-cli-the-future-of-programming-and-reflections-on-the-impacts-of-ai-jg2)
-- [بهترین اپلیکیشن‌ها برای ادیت ویدیو و ساخت ریلز اینستاگرام](https://dev.to/dorify/bhtryn-plykhyshnh-bry-dyt-wydyw-w-skht-rylz-ynstgrm-5f9l)
-- [Are Your Python Fundamentals as Solid as You Think?](https://dev.to/onlineproxy/are-your-python-fundamentals-as-solid-as-you-think-3499)
-- [[Boost]](https://dev.to/wparad/-5ach)
-- [How do you handle bug reports and QA in your web or mobile app workflow?](https://dev.to/abojorges/how-do-you-handle-bug-reports-and-qa-in-your-web-or-mobile-app-workflow-433b)
+- [Security news weekly round-up - 7th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-7th-november-2025-4h3j)
+- [Unlocking Developer Revenue: The Dual-Earning Model for AI Apps Explained](https://dev.to/monetzly/unlocking-developer-revenue-the-dual-earning-model-for-ai-apps-explained-1ndn)
+- [Ensuring AI Agent Reliability in Production Environments](https://dev.to/debmckinney/ensuring-ai-agent-reliability-in-production-environments-2beh)
+- [Managing Data for AI Agent Evaluation: Best Practices and Tools](https://dev.to/debmckinney/managing-data-for-ai-agent-evaluation-best-practices-and-tools-4epk)
+- [Real-World Applications of RAG in AI Agent Development](https://dev.to/debmckinney/real-world-applications-of-rag-in-ai-agent-development-17cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
