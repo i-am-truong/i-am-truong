@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Fetch data in Dinou with react-enhanced-suspense and Server Functions that return Client Components](https://dev.to/roggc/how-to-fetch-data-in-dinou-with-react-enhanced-suspense-and-server-functions-that-return-client-46mb)
+- [Headless Adventures: From CMS to Frontend Without Losing Your Mind &lpar;4&rpar;](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-4-1e37)
 - [Gemini CLI Custom Slash Commands](https://dev.to/ranand12/gemini-cli-custom-slash-commands-42ja)
 - [🧩 Micro-Frontends 2025: How to Keep Them from Becoming Micro-Frankensteins](https://dev.to/tahamjp/micro-frontends-2025-how-to-keep-them-from-becoming-micro-frankensteins-2ebd)
-- [Syncing Obsidian Notes to Notion by Python Script &lpar;Part 3&rpar; - Auto-Linking Related Databases](https://dev.to/koshirok096/syncing-obsidian-notes-to-notion-by-python-script-part-3-auto-linking-related-databases-35k2)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1m71)
-- [A Practical Guide to Managing Multiple Git Accounts with SSH](https://dev.to/m_s_360/a-practical-guide-to-managing-multiple-git-accounts-with-ssh-3134)
+- [Golf.com: Behind Closed Doors: Sleepy Hollow’s Opulent Home on the Hudson](https://dev.to/youtube_golf/golfcom-behind-closed-doors-sleepy-hollows-opulent-home-on-the-hudson-589c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
