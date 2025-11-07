@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-159c)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-h48)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-40km)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3m11)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4cg0)
+- [Two Shades of Mentoring: Cold &amp; Warm. Which oneTruly Works?](https://dev.to/peggie_7191/two-shades-of-mentoring-cold-warm-which-onetruly-works-50fo)
+- [LeafWiki v0.4.9 – Mermaid Diagrams, Page Copy &amp; Easier Setup 🚀](https://dev.to/perber/leafwiki-v049-mermaid-diagrams-page-copy-easier-setup-47ai)
+- [🧩 REST vs SOAP vs gRPC vs GraphQL vs WebHooks vs WebSockets vs WebRTC — The Ultimate API Showdown.PART&lpar;2&rpar;](https://dev.to/nish2005karsh/rest-vs-soap-vs-grpc-vs-graphql-vs-webhooks-vs-websockets-vs-webrtc-the-ultimate-api-22jc)
+- [Getting Organized with the Synology DS925+: My Honest First NAS Experience](https://dev.to/hardeep_singhajimal_e72e/getting-organized-with-the-synology-ds925-my-honest-first-nas-experience-cp7)
+- [🧩 REST vs SOAP vs gRPC vs GraphQL vs WebHooks vs WebSockets vs WebRTC — The Ultimate API Showdown.PART&lpar;1&rpar;](https://dev.to/nish2005karsh/rest-vs-soap-vs-grpc-vs-graphql-vs-webhooks-vs-websockets-vs-webrtc-the-ultimate-api-32b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
