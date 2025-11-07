@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Better State Machines in Modern C++: CXXStateTree](https://dev.to/zigrazor/building-better-state-machines-in-modern-c-cxxstatetree-3hno)
+- [Apple’s “Big AI Problem”: Lagging Behind in AI Chips and Infrastructure](https://dev.to/logicverse_2025/apples-big-ai-problem-lagging-behind-in-ai-chips-and-infrastructure-4hfo)
+- [🛡️ **2026 Enterprise Cyber Resilience Strategy: AI-Powered, Breach-Proof, Future-Ready** 🛡️](https://dev.to/lavbobba/2026-enterprise-cyber-resilience-strategy-ai-powered-breach-proof-future-ready-2bcj)
+- [Beyond Enums and Arrays: Why Bitwise Flags Are Your Next TypeScript Tool](https://dev.to/thatsembarrassing/beyond-enums-and-arrays-why-bitwise-flags-are-your-next-typescript-tool-580h)
 - [EC2 Instance Purchasing Options: Entendendo as opções de compra da AWS](https://dev.to/sinngjpeg/ec2-instance-purchasing-options-entendendo-as-opcoes-de-compra-da-aws-1m2b)
-- [fantastic!](https://dev.to/click_clicketyclick_b1793/fantastic-3kid)
-- [🌟 My First Hackathon Journey: My Mental Health Buddy at Hackaura 2025](https://dev.to/lavender_77/my-first-hackathon-journey-my-mental-health-buddy-at-hackaura-2025-3i7e)
-- [Zoldiac club](https://dev.to/ashfin-ahmed-kp/zoldiac-club-37oc)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1c6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
