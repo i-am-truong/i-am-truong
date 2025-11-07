@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Sent 1,000 Cold Emails. Here&#39;s Why 950 Failed &lpar;And How AI Fixed It&rpar;](https://dev.to/ng_zixuan_99b5a15db5490e/i-sent-1000-cold-emails-heres-why-950-failed-and-how-ai-fixed-it-432)
 - [CloudFormation change set privilege escalation](https://dev.to/aws-builders/cloudformation-change-set-privilege-escalation-18i6)
 - [🧩 Data Cleaning Challenge with Pandas &lpar;Google Colab&rpar;](https://dev.to/karthik_gt_b2d9a6b518984/data-cleaning-challenge-with-pandas-google-colab-4iom)
 - [Simplify Database Configuration Across Environments &lpar;Dev, Staging, and Production&rpar;💡](https://dev.to/chaitanyarai3/simplify-database-configuration-across-environments-dev-staging-and-production-4kml)
 - [Git Commit Messages that Makes Sense !](https://dev.to/thushar-p/git-commit-messages-that-makes-sense--4kff)
-- [Here is the API Client with Environment and Secret Management Capability](https://dev.to/apilover/here-is-the-api-client-with-environment-and-secret-management-capability-52bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
