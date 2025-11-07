@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FastMinify - Free Client-Side JS/CSS Minifier](https://dev.to/fioul/fastminify-free-client-side-jscss-minifier-2o87)
-- [Mastering CSS Container Queries: Break Free from Viewport Tyranny 👨‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-css-container-queries-break-free-from-viewport-tyranny-2lgo)
-- [First steps with Caddy](https://dev.to/migsarnavarro/first-steps-with-caddy-3bmc)
-- [[Boost]](https://dev.to/oncloud7/-5974)
-- [Understanding Amazon EKS: How Kubernetes Runs on AWS](https://dev.to/oncloud7/understanding-amazon-eks-how-kubernetes-runs-on-aws-13gm)
+- [Zoldiac club](https://dev.to/ashfin-ahmed-kp/zoldiac-club-37oc)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1c6n)
+- [Top AI Coding Assistants Compared: ChatGPT, GitHub Copilot, and Amazon CodeWhisperer](https://dev.to/devops-make-it-run/top-ai-coding-assistants-compared-chatgpt-github-copilot-and-amazon-codewhisperer-4mh9)
+- [How to Handle NULLs in Snowflake: A Complete Guide!](https://dev.to/peggie_7191/how-to-handle-nulls-in-snowflake-a-complete-guide-1p6h)
+- [Building Local AI Agents from Your Terminal with Opperator](https://dev.to/farouqaldori/building-local-ai-agents-from-your-terminal-with-opperator-mcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
