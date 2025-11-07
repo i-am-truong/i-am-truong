@@ -119,11 +119,13 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Speech-02-Turbo model by Minimax on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-speech-02-turbo-model-by-minimax-on-replicate-5gof)
-- [Main Services Behind Proxmox PVE](https://dev.to/seno21/main-services-behind-proxmox-pve-j2h)
-- [How to solve the problem of incorrect output result when using zlip to compress string with gzip](https://dev.to/harmonyos/how-to-solve-the-problem-of-incorrect-output-result-when-using-zlip-to-compress-string-with-gzip-neb)
-- [[Boost]](https://dev.to/halyna_kunta_91107a575e89/-1k7b)
-- [Adding Unit Tests to repo-context-packager](https://dev.to/oleksandrakordonets/adding-unit-tests-to-repo-context-packager-3n2o)
+- [How to Integrate SafeLine WAF with Ingress-Nginx in Kubernetes](https://dev.to/arina_cholee/how-to-integrate-safeline-waf-with-ingress-nginx-in-kubernetes-4661)
+- [Using the Fetch API](https://dev.to/fakestandard/using-the-fetch-api-146l)
+- [Wireframe-UI: UI Components for Rapid Prototyping in Code](https://dev.to/jqueryscript/wireframe-ui-ui-components-for-rapid-prototyping-in-code-1i88)
+- [Why I&#39;m Still Using jQuery in 2025 &lpar;Never gonna give you up&rpar;](https://dev.to/brazenbraden/why-im-still-using-jquery-in-2025-never-gonna-give-you-up-3j91)
+- [Most prompts fail, not because AI is weak, but because our thinking isn’t structured enough.
+
+Most people don’t get bad AI outputs because AI is limited; they get bad outputs because their thinking is limited.](https://dev.to/jaideepparashar/most-prompts-fail-not-because-ai-is-weak-but-because-our-thinking-isnt-structured-enough-3cg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
