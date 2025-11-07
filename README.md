@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Objects won the Battle. Functions might win the Century.](https://dev.to/0x1/objects-won-the-battle-functions-might-win-the-century-2pj0)
-- [This Week In React #257: Navigation API, PPR, directives, micro-frontends | Godot, RCE, iOS filters, Windows | Node LTS, Safari](https://dev.to/sebastienlorber/this-week-in-react-257-navigation-api-ppr-directives-micro-frontends-godot-rce-ios-1e1h)
-- [Improving the BRAT Generator – Ideas &amp; Feedback](https://dev.to/mrmhikel2/improving-the-brat-generator-ideas-feedback-oc9)
-- [Beyond Correctness: Evaluating Subjective Writing Preferences Across Cultures](https://dev.to/paperium/beyond-correctness-evaluating-subjective-writing-preferences-across-cultures-dkg)
-- [Building a Browser-Based RAG System with WebGPU](https://dev.to/emanuelestrazzullo/building-a-browser-based-rag-system-with-webgpu-h2n)
+- [Agent Lagbaja](https://dev.to/lostklan/agent-lagbaja-3c86)
+- [What Does Odoo Migration Really Cost? A Transparent Pricing Breakdown for 2025](https://dev.to/aspire-softserv/what-does-odoo-migration-really-cost-a-transparent-pricing-breakdown-for-2025-48fj)
+- [.NET Digest #9](https://dev.to/pvsdev/net-digest-9-e3e)
+- [🚀 Google Gemini Pro Plan Worth ₹35,100 Is Now FREE for Jio Users — Here’s How to Activate It!](https://dev.to/meshvpatel18/google-gemini-pro-plan-worth-35100-is-now-free-for-jio-users-heres-how-to-activate-it-5279)
+- [Improving Reliability and Quality of AI Agents in Production](https://dev.to/kamya_shah_e69d5dd78f831c/improving-reliability-and-quality-of-ai-agents-in-production-1p49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
