@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Google Gemini: New Frontiers for AI Integration in C# Applications](https://dev.to/lofcz/exploring-google-gemini-new-frontiers-for-ai-integration-in-c-applications-kig)
 - [Mastering Logging in Python](https://dev.to/devasservice/mastering-logging-in-python-5e53)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2mh1)
 - [“Reactive Forms Are Just as Good.” Okay, Watch This.](https://dev.to/brianmtreese/reactive-forms-are-just-as-good-okay-watch-this-3925)
+- [🚫 No Internet? No Problem — How to Build Web Apps That Work Offline Like Magic](https://dev.to/okoye_ndidiamaka_5e3b7d30/no-internet-no-problem-how-to-build-web-apps-that-work-offline-like-magic-l50)
 - [We built an AI Agent on Tiger Cloud](https://dev.to/lin_liang_7f755b0dc2fe65b/we-built-an-ai-agent-on-tiger-cloud-c5b)
-- [Build a YouTube Search &amp; Download API Integration in Minutes &lpar;with RapidAPI&rpar;](https://dev.to/ilyas_yldrm_72e3216f68/build-a-youtube-search-download-api-integration-in-minutes-with-rapidapi-4e26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
