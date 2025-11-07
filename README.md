@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Code Observability: Using eBPF to Auto-Instrument Services with OpenTelemetry](https://dev.to/nabindebnath/zero-code-observability-using-ebpf-to-auto-instrument-services-with-opentelemetry-oki)
-- [Handle Large Place Searches: Chunked and Rate-Limited Search in Leaflet](https://dev.to/geoapify-maps-api/handle-large-place-searches-chunked-and-rate-limited-search-in-leaflet-g73)
-- [How I Actually Use AI to Run My Business &lpar;and Keep My Sanity&rpar;](https://dev.to/kenyata_bird_046052817c08/how-i-actually-use-ai-to-run-my-business-and-keep-my-sanity-c08)
-- [Developing and AI](https://dev.to/gold_roger/developing-and-ai-1ca2)
-- [Java String replaceFirst&lpar;&rpar; Guide: Master Pattern-Based String Replacement](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-replacefirst-guide-master-pattern-based-string-replacement-2eo9)
+- [Tell Me Why My Design Will Fail](https://dev.to/leonpennings/tell-me-why-my-design-will-fail-4ell)
+- [Building a Solar Energy Predictor with React and TensorFlow.js](https://dev.to/tomasdevs/building-a-solar-energy-predictor-with-react-and-tensorflowjs-3hom)
+- [Game Dev Digest — Issue #305 - Game Design and more](https://dev.to/gamedevdigest/game-dev-digest-issue-305-game-design-and-more-n3)
+- [A comprehensive guide to List in Java](https://dev.to/ehrbhein/a-comprehensive-guide-to-lists-in-java-1fa9)
+- [ELK Stack for Developers: Simplifying Logging in Development](https://dev.to/xgare_technologies/elk-stack-for-developers-simplifying-logging-in-development-195)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
