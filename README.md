@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Every Tailor Shop Needs a Tailoring Management System](https://dev.to/ankita_67b0f155bd5cd86af4/why-every-tailor-shop-needs-a-tailoring-management-system-2mfm)
+- [Understanding the HTTP Request-Response Cycle](https://dev.to/arkadiptakundu/understanding-the-http-request-response-cycle-g5b)
+- [Indexing, Hashing &amp; Query Optimization in Databases](https://dev.to/krithik/indexing-hashing-query-optimization-in-databases-2ifc)
 - [RefusalBench: Generative Evaluation of Selective Refusal in Grounded LanguageModels](https://dev.to/paperium/refusalbench-generative-evaluation-of-selective-refusal-in-grounded-languagemodels-jac)
 - [Cursor + Trigger](https://dev.to/krithik/cursor-trigger-32g)
-- [How we build website templates](https://dev.to/shreyvijayvargiya/how-we-build-website-templates-29gi)
-- [Organizador de carpetas hecho en python](https://dev.to/fiedric/organizador-de-carpetas-hecho-en-python-56h8)
-- [positive-only developer recognition tool](https://dev.to/wayneworkman/positive-only-developer-recognition-tool-5d6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
