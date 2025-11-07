@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Inverting Your Colors: The Modern Way to Implement Dark &amp; Light Mode](https://dev.to/vinay_5d249e669fb47d24e2c/stop-inverting-your-colors-the-modern-way-to-implement-dark-light-mode-4p2d)
+- [Step-by-Step Guide to Effective Project Management](https://dev.to/leo_johnson_e34af4a6d9bd9/step-by-step-guide-to-effective-project-management-22ek)
 - [From Repetitive Code to Clean Architecture: How the Decorator Pattern Simplified Activity Logging by 70%](https://dev.to/digvijayjadhav98/from-repetitive-code-to-clean-architecture-how-the-decorator-pattern-simplified-activity-logging-1kb3)
 - [from nothing to something](https://dev.to/johngabriel-bit/from-nothing-to-something-4lcp)
 - [The Real AI Bubble Isn’t in Models. It’s in Your Frontend](https://dev.to/hashbyt/the-real-ai-bubble-isnt-in-models-its-in-your-frontend-5cn9)
-- [Swift Concurrency: Part 2](https://dev.to/nv3212/swift-concurrency-part-2-4cob)
-- [Meet Aissist - your personal AI command line sidekick](https://dev.to/albert_nahas_cdc8469a6ae8/meet-aissist-your-personal-ai-command-line-sidekick-5hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
