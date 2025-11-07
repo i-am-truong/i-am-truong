@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Dev Journal: This week&#39;s progress](https://dev.to/brendon_oneill__/dev-journal-this-weeks-progress-4ae8)
-- [How To Configure Cross Region Replication for an S3 Bucket](https://dev.to/thukhakyawe_cloud/how-to-configure-cross-region-replication-for-an-s3-bucket-3ef)
+- [Why I&#39;m Ditching My Smart Home &lpar;And You Should Too&rpar;](https://dev.to/nadim_ch0wdhury/why-im-ditching-my-smart-home-and-you-should-too-35o9)
+- [Truthful Engineering: How to Build Products People Actually Trust](https://dev.to/sonia_bobrik_1939cdddd79d/truthful-engineering-how-to-build-products-people-actually-trust-3mee)
+- [Waterfall Methodology AI: The Smart Evolution of Traditional Project Management](https://dev.to/writegenic/waterfall-methodology-ai-the-smart-evolution-of-traditional-project-management-3j4b)
 - [Tell Me Why My Design Will Fail](https://dev.to/leonpennings/tell-me-why-my-design-will-fail-4ell)
-- [Building a Solar Energy Predictor with React and TensorFlow.js](https://dev.to/tomasdevs/building-a-solar-energy-predictor-with-react-and-tensorflowjs-3hom)
-- [Game Dev Digest — Issue #305 - Game Design and more](https://dev.to/gamedevdigest/game-dev-digest-issue-305-game-design-and-more-n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
