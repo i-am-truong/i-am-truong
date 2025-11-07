@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git Worktrees: The Power Behind Cursor’s Parallel Agents](https://dev.to/arifszn/git-worktrees-the-power-behind-cursors-parallel-agents-19j1)
-- [Helios Engine v0.4.3 Update — Smarter Tooling and Easier Initialization](https://dev.to/ammar-alnagar/helios-engine-v043-update-smarter-tooling-and-easier-initialization-3i34)
-- [2528. Maximize the Minimum Powered City](https://dev.to/mdarifulhaque/2528-maximize-the-minimum-powered-city-338p)
-- [Building an HTTP Server from TCP Sockets: 250 4,000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
-- [How To Create A macOS 26 Tahoe USB Installation Drive](https://dev.to/dev_neil_a/how-to-create-a-macos-26-tahoe-usb-installation-drive-3fnj)
+- [Objects won the Battle. Functions might win the Century.](https://dev.to/0x1/objects-won-the-battle-functions-might-win-the-century-2pj0)
+- [This Week In React #257: Navigation API, PPR, directives, micro-frontends | Godot, RCE, iOS filters, Windows | Node LTS, Safari](https://dev.to/sebastienlorber/this-week-in-react-257-navigation-api-ppr-directives-micro-frontends-godot-rce-ios-1e1h)
+- [Improving the BRAT Generator – Ideas &amp; Feedback](https://dev.to/mrmhikel2/improving-the-brat-generator-ideas-feedback-oc9)
+- [Beyond Correctness: Evaluating Subjective Writing Preferences Across Cultures](https://dev.to/paperium/beyond-correctness-evaluating-subjective-writing-preferences-across-cultures-dkg)
+- [Building a Browser-Based RAG System with WebGPU](https://dev.to/emanuelestrazzullo/building-a-browser-based-rag-system-with-webgpu-h2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
