@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PowerBuilder - Custom window for DW properties](https://dev.to/vjonnagadla/powerbuilder-custom-window-for-dw-properties-2dee)
-- [Tailwind CSS Won the War... But We&#39;re the Losers](https://dev.to/elvissautet/tailwind-css-won-the-war-but-were-the-losers-4877)
-- [MCUboot: Bootup Journey](https://dev.to/ripan030/mcuboot-bootup-journey-315m)
-- [Designing smarter caches with Valkey 9.0&#39;s numbered databases](https://dev.to/allenheltondev/designing-smarter-caches-with-valkey-90s-numbered-databases-4d18)
-- [Snoop On Your Local Network with tcpdump](https://dev.to/picoable/snoop-on-your-local-network-with-tcpdump-14g1)
+- [How I Built a Secure File Upload API Using FastAPI and AWS S3 Presigned URLs](https://dev.to/copubah/how-i-built-a-secure-file-upload-api-using-fastapi-and-aws-s3-presigned-urls-7eg)
+- [Building a Python @trace Decorator in Rust](https://dev.to/dev-tngsh/building-a-python-trace-decorator-in-rust-2hdg)
+- [Unconventional AI in Advertising: LLaMA for Creative Ad Gene](https://dev.to/drcarlosruizviquez/unconventional-ai-in-advertising-llama-for-creative-ad-gene-3o28)
+- [Smart Contracts on XRPL&#39;s AlphaNet](https://dev.to/dangell7/smart-contracts-on-xrpls-alphanet-1loo)
+- [**Revolutionizing Fashion Design with Generative AI: The Cas](https://dev.to/drcarlosruizviquez/revolutionizing-fashion-design-with-generative-ai-the-cas-3o5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
