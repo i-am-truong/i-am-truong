@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Urdu Poet](https://dev.to/sidranaqvi/best-urdu-poet-2ph1)
+- [TypeScript Generators: A Refresher](https://dev.to/kayis/typescript-generators-a-refresher-4dg3)
 - [How I Streamed Live Binance L2 Order Book Data on AWS for ~$10/Month](https://dev.to/goodiegoody/how-i-streamed-live-binance-l2-order-book-data-on-aws-for-10month-581n)
 - [LeetCode #234. Palindrome Linked List](https://dev.to/desiato/leetcode-234-palindrome-linked-list-1cmg)
-- [Announcing React Native Versatile Modal: One Modal Component to Rule Them All](https://dev.to/nonsobarn/announcing-react-native-versatile-modal-one-modal-component-to-rule-them-all-e4c)
-- [What Are Webhooks, and How Do You Implement Them?](https://dev.to/flutterwaveeng/what-are-webhooks-and-how-do-you-implement-them-15j4)
-- [Why Is My AI Docker Image So Big? A Deep Dive with ‘dive’ tool to Find the Bloat](https://dev.to/latchudevops/why-is-my-ai-docker-image-so-big-a-deep-dive-with-dive-tool-to-find-the-bloat-l18)
+- [Competitor Insights: Analyzing DA &amp; PA with the Moz API](https://dev.to/mcatee/competitor-insights-analyzing-da-pa-with-the-moz-api-2g4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
