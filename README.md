@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m building a Python DataGridView and want to know if it’s useful. Here’s a teaser—what do you think?](https://dev.to/tsgiannis/im-building-a-python-datagridview-and-want-to-know-if-its-useful-heres-a-teaser-what-do-you-2mo9)
+- [🚀 Novidades GitHub Universe 2025](https://dev.to/pachicodes/novidades-github-universe-2025-30mo)
+- [From &#39;Why the F@&amp;k Do I Need This?&#39; to &#39;Oh, That&#39;s Why&#39; - My GAT Journey](https://dev.to/lvc1d/from-why-the-fk-do-i-need-this-to-oh-thats-why-my-gat-journey-1i80)
 - [How I Built a Secure File Upload API Using FastAPI and AWS S3 Presigned URLs](https://dev.to/copubah/how-i-built-a-secure-file-upload-api-using-fastapi-and-aws-s3-presigned-urls-7eg)
-- [Building a Python @trace Decorator in Rust](https://dev.to/dev-tngsh/building-a-python-trace-decorator-in-rust-2hdg)
-- [Unconventional AI in Advertising: LLaMA for Creative Ad Gene](https://dev.to/drcarlosruizviquez/unconventional-ai-in-advertising-llama-for-creative-ad-gene-3o28)
-- [Smart Contracts on XRPL&#39;s AlphaNet](https://dev.to/dangell7/smart-contracts-on-xrpls-alphanet-1loo)
-- [**Revolutionizing Fashion Design with Generative AI: The Cas](https://dev.to/drcarlosruizviquez/revolutionizing-fashion-design-with-generative-ai-the-cas-3o5n)
+- [Eligify v1.4.0: We Made Your Rules Organized &lpar;And Auditable&rpar;](https://dev.to/nasrulhazim/eligify-v140-we-made-your-rules-organized-and-auditable-372a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
