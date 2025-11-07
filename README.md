@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prior Art Search Tutorial: Master Multi-Platform Strategies](https://dev.to/patentscanai/prior-art-search-tutorial-master-multi-platform-strategies-4aj3)
+- [The Secret Life of Python: The String Intern Pool - When Two Strings Are One Object](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-string-intern-pool-when-two-strings-are-one-object-4c9f)
+- [How to Extract Images from PDF Using C# &lpar;Single Page &amp; Full Document&rpar;](https://dev.to/codingco/how-to-extract-images-from-pdf-using-c-single-page-full-document-1np4)
+- [My Bitcoin wallet was compromised in a single, catastrophic transaction, resulting in the irrevocable loss of my Ethereum and Bitcoin holdings. The moment I grasped the magnitude of what had transpired, I was engulfed in a torrent of disbelief and despair.](https://dev.to/joyce_adams_f3463ad6fc2b8/my-bitcoin-wallet-was-compromised-in-a-single-catastrophic-transaction-resulting-in-the-4a7a)
 - [Understanding the CPU: The Brain of the Computer](https://dev.to/farhad_rahimi_klie/understanding-the-cpu-the-brain-of-the-computer-mme)
-- [How to Map Technical Requirements in IT Project Management](https://dev.to/taskford/how-to-map-technical-requirements-in-it-project-management-2oj1)
-- [“ChatGPT Navigation Using Default Keyboard Shortcuts &lpar;No Extensions Needed&rpar;”](https://dev.to/sureshsaragadam/chatgpt-navigation-using-default-keyboard-shortcuts-no-extensions-needed-1kfj)
-- [Repository Pattern in Golang: A Practical Guide](https://dev.to/team3/repository-pattern-in-golang-a-practical-guide-1kla)
-- [How I Overlooked the Problem and Shot Myself in the Foot](https://dev.to/aws-builders/how-i-overlooked-the-problem-and-shot-myself-in-the-foot-2ok8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
