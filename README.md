@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 Pump.fun Livestream Tokens: An Updated, Data-Driven Playbook for Builders and Traders](https://dev.to/hamd_writer_8c77d9c88c188/2025-pumpfun-livestream-tokens-an-updated-data-driven-playbook-for-builders-and-traders-42lp)
+- [The Symphony of Speed: A Journey into Node.js JIT Compilation](https://dev.to/alex_aslam/the-symphony-of-speed-a-journey-into-nodejs-jit-compilation-1k16)
 - [AMI: Entendendo as Amazon Machine Images](https://dev.to/sinngjpeg/ami-entendendo-as-amazon-machine-images-kde)
 - [Template Language in WebForms Core 2](https://dev.to/elanatframework/template-language-in-webforms-core-2-3aef)
-- [Rasterizer Project - The end? is published](https://dev.to/noticeablesmeh/rasterizer-project-the-end-is-published-222k)
-- [Rasterizer Project - Part: BASIC_END](https://dev.to/noticeablesmeh/rasterizer-project-part-basicend-d4i)
-- [What I Learned From Vibe Coding an Entire App](https://dev.to/jordan_green_84b6cec081a5/beyond-the-illusion-of-understanding-coding-in-the-ai-era-4oji)
+- [EBS Snapshots: o poder do backup na AWS](https://dev.to/sinngjpeg/ebs-snapshots-o-poder-do-backup-na-aws-5f58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
