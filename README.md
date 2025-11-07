@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [from nothing to something](https://dev.to/johngabriel-bit/from-nothing-to-something-4lcp)
+- [The Real AI Bubble Isn’t in Models. It’s in Your Frontend](https://dev.to/hashbyt/the-real-ai-bubble-isnt-in-models-its-in-your-frontend-5cn9)
+- [Swift Concurrency: Part 2](https://dev.to/nv3212/swift-concurrency-part-2-4cob)
+- [Meet Aissist - your personal AI command line sidekick](https://dev.to/albert_nahas_cdc8469a6ae8/meet-aissist-your-personal-ai-command-line-sidekick-5hl)
 - [A Toy Django REST API with an Admin Panel](https://dev.to/musatov/a-toy-django-rest-api-with-an-admin-panel-1956)
-- [Python basics - Day 21](https://dev.to/ian_b838138a27a917398d181/python-basics-day-21-3pbl)
-- [How to Use Terraform Concat Function](https://dev.to/spacelift/how-to-use-terraform-concat-function-4ojp)
-- [Automating EC2 Recovery with AWS Lambda and CloudWatch](https://dev.to/sudoconsultants/automating-ec2-recovery-with-aws-lambda-and-cloudwatch-mgf)
-- [How to Convert RTF to PDF in Java: A Step-by-Step Guide](https://dev.to/leondavis1991/how-to-convert-rtf-to-pdf-in-java-a-step-by-step-guide-310l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
