@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Developing and AI](https://dev.to/gold_roger/developing-and-ai-1ca2)
+- [Java regionMatches&lpar;&rpar; Explained: Your Go-To Guide for Smart String Comparison](https://dev.to/satyam_gupta_0d1ff2152dcc/java-regionmatches-explained-your-go-to-guide-for-smart-string-comparison-1f9)
+- [Launching Formgrid: Open-Source, Privacy-Friendly Form Submission Service](https://dev.to/allenarduino/launching-formgrid-open-source-privacy-friendly-form-submission-service-fdi)
+- [Forked A/B Index Optimizer: Making Database Optimization Accessible to Everyone](https://dev.to/hulyamasharipov/forked-ab-index-optimizer-making-database-optimization-accessible-to-everyone-3641)
 - [Agent Lagbaja](https://dev.to/lostklan/agent-lagbaja-3c86)
-- [What Does Odoo Migration Really Cost? A Transparent Pricing Breakdown for 2025](https://dev.to/aspire-softserv/what-does-odoo-migration-really-cost-a-transparent-pricing-breakdown-for-2025-48fj)
-- [.NET Digest #9](https://dev.to/pvsdev/net-digest-9-e3e)
-- [🚀 Google Gemini Pro Plan Worth ₹35,100 Is Now FREE for Jio Users — Here’s How to Activate It!](https://dev.to/meshvpatel18/google-gemini-pro-plan-worth-35100-is-now-free-for-jio-users-heres-how-to-activate-it-5279)
-- [Improving Reliability and Quality of AI Agents in Production](https://dev.to/kamya_shah_e69d5dd78f831c/improving-reliability-and-quality-of-ai-agents-in-production-1p49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
