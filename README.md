@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2025 Pump.fun Livestream Tokens: An Updated, Data-Driven Playbook for Builders and Traders](https://dev.to/hamd_writer_8c77d9c88c188/2025-pumpfun-livestream-tokens-an-updated-data-driven-playbook-for-builders-and-traders-42lp)
-- [The Symphony of Speed: A Journey into Node.js JIT Compilation](https://dev.to/alex_aslam/the-symphony-of-speed-a-journey-into-nodejs-jit-compilation-1k16)
-- [AMI: Entendendo as Amazon Machine Images](https://dev.to/sinngjpeg/ami-entendendo-as-amazon-machine-images-kde)
-- [Template Language in WebForms Core 2](https://dev.to/elanatframework/template-language-in-webforms-core-2-3aef)
-- [EBS Snapshots: o poder do backup na AWS](https://dev.to/sinngjpeg/ebs-snapshots-o-poder-do-backup-na-aws-5f58)
+- [SSLCommerz works with frontend, backend, and database](https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8)
+- [What I Learned Building a Knowledge Graph for AI Agents](https://dev.to/trentbrew/what-i-learned-building-a-knowledge-graph-for-ai-agents-3e65)
+- [Vitest HTML Report](https://dev.to/whyang9701/vitest-html-report-333o)
+- [Building an AI News Digest Agent with Mastra and Telex.im](https://dev.to/ursulaonyi/building-an-ai-news-digest-agent-with-mastra-and-telexim-3p1h)
+- [Introducing Web3-Hooks](https://dev.to/lucascosta1996/introducing-web3-hooks-k5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
