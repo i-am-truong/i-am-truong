@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Image Captioning App with Azure AI Vision and Streamlit](https://dev.to/akash_rameshcbstudent_7/how-to-build-an-ai-image-captioning-app-with-azure-ai-vision-and-streamlit-4206)
-- [Why Every Online Business Needs DDoS Protection in 2025](https://dev.to/ddos_expert/why-every-online-business-needs-ddos-protection-in-2025-31b3)
-- [Exploring Google Gemini: New Frontiers for AI Integration in C# Applications](https://dev.to/lofcz/exploring-google-gemini-new-frontiers-for-ai-integration-in-c-applications-kig)
-- [Mastering Logging in Python](https://dev.to/devasservice/mastering-logging-in-python-5e53)
-- [“Reactive Forms Are Just as Good.” Okay, Watch This.](https://dev.to/brianmtreese/reactive-forms-are-just-as-good-okay-watch-this-3925)
+- [How CSS Modules in Next.js Ensure Consistent and Scalable Web Design](https://dev.to/fiona_blackwood_07/how-css-modules-in-nextjs-ensure-consistent-and-scalable-web-design-1p7a)
+- [Halloween Town Explorer — A Perfect Landing with a Playable 3D Pumpkin Hunt](https://dev.to/charmpic/halloween-town-explorer-a-perfect-landing-with-a-playable-3d-pumpkin-hunt-4mpd)
+- [Achieving Idempotency with the Inbox Pattern](https://dev.to/actor-dev/inbox-pattern-51af)
+- [Garantindo Idempotência com o Padrão Inbox](https://dev.to/actor-dev/garantindo-idempotencia-com-o-padrao-inbox-id1)
+- [Composition vs Inheritance — The Practical Guide Every Developer Should Know](https://dev.to/parthkamal/composition-vs-inheritance-the-practical-guide-every-developer-should-know-3ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
