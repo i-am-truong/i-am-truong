@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Collections Cheat Sheet with Examples](https://dev.to/zeeshanali0704/java-collections-cheat-sheet-with-examples-2jc4)
 - [Why Every Tailor Shop Needs a Tailoring Management System](https://dev.to/ankita_67b0f155bd5cd86af4/why-every-tailor-shop-needs-a-tailoring-management-system-2mfm)
 - [Understanding the HTTP Request-Response Cycle](https://dev.to/arkadiptakundu/understanding-the-http-request-response-cycle-g5b)
 - [Indexing, Hashing &amp; Query Optimization in Databases](https://dev.to/krithik/indexing-hashing-query-optimization-in-databases-2ifc)
 - [RefusalBench: Generative Evaluation of Selective Refusal in Grounded LanguageModels](https://dev.to/paperium/refusalbench-generative-evaluation-of-selective-refusal-in-grounded-languagemodels-jac)
-- [Cursor + Trigger](https://dev.to/krithik/cursor-trigger-32g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
