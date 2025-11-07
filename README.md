@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Collections Cheat Sheet with Examples](https://dev.to/zeeshanali0704/java-collections-cheat-sheet-with-examples-2jc4)
-- [Why Every Tailor Shop Needs a Tailoring Management System](https://dev.to/ankita_67b0f155bd5cd86af4/why-every-tailor-shop-needs-a-tailoring-management-system-2mfm)
-- [Understanding the HTTP Request-Response Cycle](https://dev.to/arkadiptakundu/understanding-the-http-request-response-cycle-g5b)
-- [Indexing, Hashing &amp; Query Optimization in Databases](https://dev.to/krithik/indexing-hashing-query-optimization-in-databases-2ifc)
-- [RefusalBench: Generative Evaluation of Selective Refusal in Grounded LanguageModels](https://dev.to/paperium/refusalbench-generative-evaluation-of-selective-refusal-in-grounded-languagemodels-jac)
+- [Novel idea in vector search: Wormhole vectors](https://dev.to/vectorpodcast/novel-idea-in-vector-search-wormhole-vectors-3dg8)
+- [JavaScript Made Easy: Your First Step into Web Development](https://dev.to/suraj_kumar_fb57ae0928df2/javascript-made-easy-your-first-step-into-web-development-1dk2)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3039)
+- [How Small Retailers Can Use Batch Background Removers to Compete with Big Brands](https://dev.to/freepixel11/how-small-retailers-can-use-batch-background-removers-to-compete-with-big-brands-2dh6)
+- [Beyond Static: Building Interactive Depth Charts with React, D3.js, and Real-time Data](https://dev.to/ffteamnames/beyond-static-building-interactive-depth-charts-with-react-d3js-and-real-time-data-12o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
