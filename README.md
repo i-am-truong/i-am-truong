@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Proven Lead Generation Frameworks Used by Top B2B SaaS Companies](https://dev.to/aayush_sharma_8eb92ed6bbf/5-proven-lead-generation-frameworks-used-by-top-b2b-saas-companies-5hgn)
 - [URL Shortener Using Snowflake IDs and Base62 Encoding](https://dev.to/speaklouder/url-shortener-using-snowflake-ids-and-base62-encoding-4179)
 - [CSS STYLES](https://dev.to/suma_suma/css-styles-2o23)
 - [Debugging Consent: Common Pitfalls in CMP Implementation](https://dev.to/mehwish_malik_4f29ff7fb04/debugging-consent-common-pitfalls-in-cmp-implementation-4hd4)
 - [I Thought I Knew Computers - Until I Read About Supercomputers](https://dev.to/smriti7857/i-thought-i-knew-computers-until-i-read-about-supercomputers-2kg3)
-- [Here&#39;s How I Designed Slack System Design Interview Platform In The Nick of Time](https://dev.to/dev_loops/heres-how-i-designed-slack-system-design-interview-platform-in-the-nick-of-time-2jpl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
