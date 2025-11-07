@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered AWS CloudWatch Alarm Triage Terraform Module](https://dev.to/wayneworkman/ai-powered-aws-cloudwatch-alarm-triage-terraform-module-ac1)
+- [Practical ways to reduce your AWS Lambda bills](https://dev.to/shajam/practical-ways-to-reduce-your-aws-lambda-bills-3i9c)
 - [How I Built Kerminal: A Free, Open-Source Terminal &amp; SSH Manager with Multi-Device Sync](https://dev.to/klpod221/how-i-built-kerminal-a-free-open-source-terminal-ssh-manager-with-multi-device-sync-1f3i)
+- [Kubernetes Network Observability with Calico &lpar;Manifest based&rpar;](https://dev.to/frozenprocess/kubernetes-network-observability-with-calico-manifest-based-164)
 - [This is Part 2 of my 4-part series on Networking Fundamentals for Cloud Engineers.](https://dev.to/stellaacharoiro/this-is-part-2-of-my-4-part-series-on-networking-fundamentals-for-cloud-engineers-4740)
-- [Expert Tips to Pass CCNP Security on the First Attempt](https://dev.to/preethi_lahari_48b969cb3c/expert-tips-to-pass-ccnp-security-on-the-first-attempt-9dn)
-- [How Switches and Routers Actually Work: The Three Tables That Run the Internet](https://dev.to/aws-builders/how-switches-and-routers-actually-work-the-three-tables-that-run-the-internet-nmg)
-- [A Practical Guide to React Suspense and Lazy Loading](https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
