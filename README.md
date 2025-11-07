@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Werewolf? There Wolf.](https://dev.to/jarvisscript/werewolf-there-wolf-2e17)
+- [Develop custom steps for Workspace Flows](https://dev.to/googleworkspace/develop-custom-steps-for-workspace-flows-dej)
 - [I’m building a Python DataGridView and want to know if it’s useful. Here’s a teaser—what do you think?](https://dev.to/tsgiannis/im-building-a-python-datagridview-and-want-to-know-if-its-useful-heres-a-teaser-what-do-you-2mo9)
 - [🚀 Novidades GitHub Universe 2025](https://dev.to/pachicodes/novidades-github-universe-2025-30mo)
 - [From &#39;Why the F@&amp;k Do I Need This?&#39; to &#39;Oh, That&#39;s Why&#39; - My GAT Journey](https://dev.to/lvc1d/from-why-the-fk-do-i-need-this-to-oh-thats-why-my-gat-journey-1i80)
-- [How I Built a Secure File Upload API Using FastAPI and AWS S3 Presigned URLs](https://dev.to/copubah/how-i-built-a-secure-file-upload-api-using-fastapi-and-aws-s3-presigned-urls-7eg)
-- [Eligify v1.4.0: We Made Your Rules Organized &lpar;And Auditable&rpar;](https://dev.to/nasrulhazim/eligify-v140-we-made-your-rules-organized-and-auditable-372a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
