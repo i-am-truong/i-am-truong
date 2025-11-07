@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💲FLOSS Funding](https://dev.to/galtzo/floss-funding-2cfn)
-- [Make your Applications smarter: Powerful Machine Learning demo](https://dev.to/passadis/make-your-applications-smarter-powerful-machine-learning-demo-264i)
-- [Shadow DOM and Slots in ArcGIS Map Components](https://dev.to/odoenet/shadow-dom-and-slots-in-arcgis-map-components-1klk)
-- [Orbit v0.4.5](https://dev.to/passadis/orbit-v045-3m5b)
-- [Adding Automated Testing to My Project](https://dev.to/jongwan93/adding-automated-testing-to-my-project-1mkj)
+- [A beginner&#39;s guide to the Speech-02-Turbo model by Minimax on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-speech-02-turbo-model-by-minimax-on-replicate-5gof)
+- [Main Services Behind Proxmox PVE](https://dev.to/seno21/main-services-behind-proxmox-pve-j2h)
+- [How to solve the problem of incorrect output result when using zlip to compress string with gzip](https://dev.to/harmonyos/how-to-solve-the-problem-of-incorrect-output-result-when-using-zlip-to-compress-string-with-gzip-neb)
+- [[Boost]](https://dev.to/halyna_kunta_91107a575e89/-1k7b)
+- [Adding Unit Tests to repo-context-packager](https://dev.to/oleksandrakordonets/adding-unit-tests-to-repo-context-packager-3n2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
