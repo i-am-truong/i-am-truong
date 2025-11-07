@@ -119,7 +119,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Senior, mas sem experiência real](https://dev.to/andersoncontreira/senior-mas-sem-experiencia-real-41pg)
+- [Sênior, mas sem experiência real](https://dev.to/andersoncontreira/senior-mas-sem-experiencia-real-41pg)
 - [Python 3.14 Free-Threading True Parallelism Without the GIL](https://dev.to/edgar_montano/python-314-free-threading-true-parallelism-without-the-gil-a12)
 - [Myna: monospace font for symbol-first editing experience](https://dev.to/sayyadirfanali/myna-monospace-font-for-symbol-first-editing-experience-5gdj)
 - [Cirque Du Soleil Drummer Hears The Smashing Pumpkins For The First Time](https://dev.to/mikeydorje/cirque-du-soleil-drummer-hears-the-smashing-pumpkins-for-the-first-time-2h98)
