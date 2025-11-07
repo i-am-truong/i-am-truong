@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dev Journal: This week&#39;s progress](https://dev.to/brendon_oneill__/dev-journal-this-weeks-progress-4ae8)
-- [Why I&#39;m Ditching My Smart Home &lpar;And You Should Too&rpar;](https://dev.to/nadim_ch0wdhury/why-im-ditching-my-smart-home-and-you-should-too-35o9)
-- [Truthful Engineering: How to Build Products People Actually Trust](https://dev.to/sonia_bobrik_1939cdddd79d/truthful-engineering-how-to-build-products-people-actually-trust-3mee)
-- [Waterfall Methodology AI: The Smart Evolution of Traditional Project Management](https://dev.to/writegenic/waterfall-methodology-ai-the-smart-evolution-of-traditional-project-management-3j4b)
-- [Tell Me Why My Design Will Fail](https://dev.to/leonpennings/tell-me-why-my-design-will-fail-4ell)
+- [HTML Meta Tags to Improve Sharing of your Webpages &lpar;and SEO&rpar;](https://dev.to/micmath/html-meta-tags-to-improve-sharing-of-your-webpages-and-seo-3j6g)
+- [EC2 Instance Connect: A maneira mais fácil de se conectar à sua instância EC2](https://dev.to/sinngjpeg/ec2-instance-connect-a-maneira-mais-facil-de-se-conectar-a-sua-instancia-ec2-2mec)
+- [Estrutura de um bom CI/CD](https://dev.to/andersoncontreira/estrutura-de-um-bom-cicd-2852)
+- [Automating Executive-Ready AWS Cost Optimization FinOps Reports](https://dev.to/santanu_das/automating-executive-ready-aws-cost-optimization-finops-reports-11oo)
+- [✨ UI.Glass — Free Glassmorphism CSS Generator](https://dev.to/ml318097/uiglass-free-glassmorphism-css-generator-500j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
