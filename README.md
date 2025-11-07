@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Run Hackathon: Building Lexi — a Multi-Agent AI Legal Assistant](https://dev.to/audreyk/google-cloud-run-hackathon-building-lexi-a-multi-agent-ai-legal-assistant-5d1p)
+- [Building Smarter AI Agents with Schema-Guided Reasoning](https://dev.to/bigdata5911/building-smarter-ai-agents-with-schema-guided-reasoning-m3n)
+- [Creating App Store-Compliant App Previews with FFmpeg](https://dev.to/picoable/creating-app-store-compliant-app-previews-with-ffmpeg-54m8)
+- [OpenTelemetry | The Modern Observability](https://dev.to/kaustubhyerkade/opentelemetry-the-modern-observability-2h9)
 - [Why Revenue Retention Defines the Future of Subscription Apps](https://dev.to/paywallpro/why-revenue-retention-defines-the-future-of-subscription-apps-4ej6)
-- [Makita Cordless Trimmer Router – Power and Precision Combined](https://dev.to/hardwarecity_singapore_1a/makita-cordless-trimmer-router-power-and-precision-combined-13no)
-- [I Built a Visual Dashboard for Claude Code &lpar;Because I Was Tired of Managing Text Files&rpar;](https://dev.to/thuongx/i-built-a-visual-dashboard-for-claude-code-because-i-was-tired-of-managing-text-files-4j38)
-- [Why Most Sports Coaching Websites Don’t Work – And How to Fix Yours](https://dev.to/per-starke-642/why-most-sports-coaching-websites-dont-work-and-how-to-fix-yours-424m)
-- [Unlocking AI&#39;s Potential: Beyond the Code, It&#39;s All About the Ecosystem](https://dev.to/arvind_sundararajan/unlocking-ais-potential-beyond-the-code-its-all-about-the-ecosystem-3jdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
