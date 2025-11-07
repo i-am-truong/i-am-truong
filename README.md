@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud Run Hackathon: Building Lexi — a Multi-Agent AI Legal Assistant](https://dev.to/audreyk/google-cloud-run-hackathon-building-lexi-a-multi-agent-ai-legal-assistant-5d1p)
-- [Building Smarter AI Agents with Schema-Guided Reasoning](https://dev.to/bigdata5911/building-smarter-ai-agents-with-schema-guided-reasoning-m3n)
-- [Creating App Store-Compliant App Previews with FFmpeg](https://dev.to/picoable/creating-app-store-compliant-app-previews-with-ffmpeg-54m8)
-- [OpenTelemetry | The Modern Observability](https://dev.to/kaustubhyerkade/opentelemetry-the-modern-observability-2h9)
-- [Why Revenue Retention Defines the Future of Subscription Apps](https://dev.to/paywallpro/why-revenue-retention-defines-the-future-of-subscription-apps-4ej6)
+- [Mastering Logging in Python](https://dev.to/devasservice/mastering-logging-in-python-5e53)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2mh1)
+- [“Reactive Forms Are Just as Good.” Okay, Watch This.](https://dev.to/brianmtreese/reactive-forms-are-just-as-good-okay-watch-this-3925)
+- [We built an AI Agent on Tiger Cloud](https://dev.to/lin_liang_7f755b0dc2fe65b/we-built-an-ai-agent-on-tiger-cloud-c5b)
+- [Build a YouTube Search &amp; Download API Integration in Minutes &lpar;with RapidAPI&rpar;](https://dev.to/ilyas_yldrm_72e3216f68/build-a-youtube-search-download-api-integration-in-minutes-with-rapidapi-4e26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
