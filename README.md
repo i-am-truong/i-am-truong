@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Degrees of Freedom and Their Importance in Statistics](https://dev.to/ian_mwangi/understanding-degrees-of-freedom-and-their-importance-in-statistics-29af)
-- [Building Séance: My Kiroween Hackathon Experience](https://dev.to/victor_bash_128d907e9ba86/building-seance-my-kiroween-hackathon-experience-3pc)
-- [Sênior, mas sem experiência real](https://dev.to/andersoncontreira/senior-mas-sem-experiencia-real-41pg)
-- [Python 3.14 Free-Threading True Parallelism Without the GIL](https://dev.to/edgar_montano/python-314-free-threading-true-parallelism-without-the-gil-a12)
-- [Myna: monospace font for symbol-first editing experience](https://dev.to/sayyadirfanali/myna-monospace-font-for-symbol-first-editing-experience-5gdj)
+- [Healthy Minds - Why It&#39;s The Best Meditation App Available [Opinion]](https://dev.to/mikeydorje/healthy-minds-why-its-the-best-meditation-app-available-opinion-22g)
+- [ServBay for macOS 1.18.0 Update: A Smarter Network &amp; More Stable Experience](https://dev.to/servbay/servbay-for-macos-1180-update-a-smarter-network-more-stable-experience-5hlo)
+- [Agentic Design of Compositional Machines](https://dev.to/paperium/agentic-design-of-compositional-machines-jfl)
+- [SOLIDWORKS PDM: Best Practices für die Cache-Verwaltung](https://dev.to/cadstore/solidworks-pdm-best-practices-fur-die-cache-verwaltung-385p)
+- [SOLIDWORKS PDM: Best Practices for Cache Management](https://dev.to/cadstore/solidworks-pdm-best-practices-for-cache-management-e5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
