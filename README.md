@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Better State Machines in Modern C++: CXXStateTree](https://dev.to/zigrazor/building-better-state-machines-in-modern-c-cxxstatetree-3hno)
-- [Apple’s “Big AI Problem”: Lagging Behind in AI Chips and Infrastructure](https://dev.to/logicverse_2025/apples-big-ai-problem-lagging-behind-in-ai-chips-and-infrastructure-4hfo)
-- [🛡️ **2026 Enterprise Cyber Resilience Strategy: AI-Powered, Breach-Proof, Future-Ready** 🛡️](https://dev.to/lavbobba/2026-enterprise-cyber-resilience-strategy-ai-powered-breach-proof-future-ready-2bcj)
-- [Beyond Enums and Arrays: Why Bitwise Flags Are Your Next TypeScript Tool](https://dev.to/thatsembarrassing/beyond-enums-and-arrays-why-bitwise-flags-are-your-next-typescript-tool-580h)
-- [EC2 Instance Purchasing Options: Entendendo as opções de compra da AWS](https://dev.to/sinngjpeg/ec2-instance-purchasing-options-entendendo-as-opcoes-de-compra-da-aws-1m2b)
+- [PowerBuilder - Custom window for DW properties](https://dev.to/vjonnagadla/powerbuilder-custom-window-for-dw-properties-2dee)
+- [Tailwind CSS Won the War... But We&#39;re the Losers](https://dev.to/elvissautet/tailwind-css-won-the-war-but-were-the-losers-4877)
+- [MCUboot: Bootup Journey](https://dev.to/ripan030/mcuboot-bootup-journey-315m)
+- [Designing smarter caches with Valkey 9.0&#39;s numbered databases](https://dev.to/allenheltondev/designing-smarter-caches-with-valkey-90s-numbered-databases-4d18)
+- [Snoop On Your Local Network with tcpdump](https://dev.to/picoable/snoop-on-your-local-network-with-tcpdump-14g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
