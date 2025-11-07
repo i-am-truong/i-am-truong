@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The CarnEvil of Horrors](https://dev.to/afkjr/the-carnevil-of-horrors-118o)
-- [Automatic Node.js Version Switching Across Projects](https://dev.to/matutetandil/automatic-nodejs-version-switching-across-projects-2dae)
-- [EBS: Entendendo o Armazenamento do EC2](https://dev.to/sinngjpeg/ebs-entendendo-o-armazenamento-do-ec2-2bgf)
-- [Security news weekly round-up - 7th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-7th-november-2025-4h3j)
-- [A Practical Guide to Routes and Routers in Express.js](https://dev.to/msnmongare/a-practical-guide-to-routes-and-routers-in-expressjs-324)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-9af)
+- [🏗️ Mastering Infrastructure as Code: From Manual Chaos to Multi-Cloud Orchestration [Week-7—P1] ⚡](https://dev.to/suvrajeet/mastering-infrastructure-as-code-from-manual-chaos-to-multi-cloud-orchestration-week-7-p1-4gdm)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-5e86)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-52i2)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2nei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
