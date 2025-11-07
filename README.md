@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EC2 Instance Purchasing Options: Entendendo as opções de compra da AWS](https://dev.to/sinngjpeg/ec2-instance-purchasing-options-entendendo-as-opcoes-de-compra-da-aws-1m2b)
+- [fantastic!](https://dev.to/click_clicketyclick_b1793/fantastic-3kid)
+- [🌟 My First Hackathon Journey: My Mental Health Buddy at Hackaura 2025](https://dev.to/lavender_77/my-first-hackathon-journey-my-mental-health-buddy-at-hackaura-2025-3i7e)
 - [Zoldiac club](https://dev.to/ashfin-ahmed-kp/zoldiac-club-37oc)
 - [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1c6n)
-- [Top AI Coding Assistants Compared: ChatGPT, GitHub Copilot, and Amazon CodeWhisperer](https://dev.to/devops-make-it-run/top-ai-coding-assistants-compared-chatgpt-github-copilot-and-amazon-codewhisperer-4mh9)
-- [How to Handle NULLs in Snowflake: A Complete Guide!](https://dev.to/peggie_7191/how-to-handle-nulls-in-snowflake-a-complete-guide-1p6h)
-- [Building Local AI Agents from Your Terminal with Opperator](https://dev.to/farouqaldori/building-local-ai-agents-from-your-terminal-with-opperator-mcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
