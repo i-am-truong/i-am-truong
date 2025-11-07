@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered AWS CloudWatch Alarm Triage Terraform Module](https://dev.to/wayneworkman/ai-powered-aws-cloudwatch-alarm-triage-terraform-module-ac1)
-- [Practical ways to reduce your AWS Lambda bills](https://dev.to/shajam/practical-ways-to-reduce-your-aws-lambda-bills-3i9c)
-- [How I Built Kerminal: A Free, Open-Source Terminal &amp; SSH Manager with Multi-Device Sync](https://dev.to/klpod221/how-i-built-kerminal-a-free-open-source-terminal-ssh-manager-with-multi-device-sync-1f3i)
-- [Kubernetes Network Observability with Calico &lpar;Manifest based&rpar;](https://dev.to/frozenprocess/kubernetes-network-observability-with-calico-manifest-based-164)
-- [This is Part 2 of my 4-part series on Networking Fundamentals for Cloud Engineers.](https://dev.to/stellaacharoiro/this-is-part-2-of-my-4-part-series-on-networking-fundamentals-for-cloud-engineers-4740)
+- [RefusalBench: Generative Evaluation of Selective Refusal in Grounded LanguageModels](https://dev.to/paperium/refusalbench-generative-evaluation-of-selective-refusal-in-grounded-languagemodels-jac)
+- [Cursor + Trigger](https://dev.to/krithik/cursor-trigger-32g)
+- [How we build website templates](https://dev.to/shreyvijayvargiya/how-we-build-website-templates-29gi)
+- [Organizador de carpetas hecho en python](https://dev.to/fiedric/organizador-de-carpetas-hecho-en-python-56h8)
+- [positive-only developer recognition tool](https://dev.to/wayneworkman/positive-only-developer-recognition-tool-5d6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
