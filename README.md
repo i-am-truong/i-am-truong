@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Revenue Retention Defines the Future of Subscription Apps](https://dev.to/paywallpro/why-revenue-retention-defines-the-future-of-subscription-apps-4ej6)
+- [Makita Cordless Trimmer Router – Power and Precision Combined](https://dev.to/hardwarecity_singapore_1a/makita-cordless-trimmer-router-power-and-precision-combined-13no)
+- [I Built a Visual Dashboard for Claude Code &lpar;Because I Was Tired of Managing Text Files&rpar;](https://dev.to/thuongx/i-built-a-visual-dashboard-for-claude-code-because-i-was-tired-of-managing-text-files-4j38)
+- [Why Most Sports Coaching Websites Don’t Work – And How to Fix Yours](https://dev.to/per-starke-642/why-most-sports-coaching-websites-dont-work-and-how-to-fix-yours-424m)
 - [5 Proven Lead Generation Frameworks Used by Top B2B SaaS Companies](https://dev.to/aayush_sharma_8eb92ed6bbf/5-proven-lead-generation-frameworks-used-by-top-b2b-saas-companies-5hgn)
-- [URL Shortener Using Snowflake IDs and Base62 Encoding](https://dev.to/speaklouder/url-shortener-using-snowflake-ids-and-base62-encoding-4179)
-- [CSS STYLES](https://dev.to/suma_suma/css-styles-2o23)
-- [Debugging Consent: Common Pitfalls in CMP Implementation](https://dev.to/mehwish_malik_4f29ff7fb04/debugging-consent-common-pitfalls-in-cmp-implementation-4hd4)
-- [I Thought I Knew Computers - Until I Read About Supercomputers](https://dev.to/smriti7857/i-thought-i-knew-computers-until-i-read-about-supercomputers-2kg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
