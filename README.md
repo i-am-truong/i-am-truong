@@ -119,13 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate SafeLine WAF with Ingress-Nginx in Kubernetes](https://dev.to/arina_cholee/how-to-integrate-safeline-waf-with-ingress-nginx-in-kubernetes-4661)
-- [Using the Fetch API](https://dev.to/fakestandard/using-the-fetch-api-146l)
-- [Wireframe-UI: UI Components for Rapid Prototyping in Code](https://dev.to/jqueryscript/wireframe-ui-ui-components-for-rapid-prototyping-in-code-1i88)
-- [Why I&#39;m Still Using jQuery in 2025 &lpar;Never gonna give you up&rpar;](https://dev.to/brazenbraden/why-im-still-using-jquery-in-2025-never-gonna-give-you-up-3j91)
-- [Most prompts fail, not because AI is weak, but because our thinking isn’t structured enough.
-
-Most people don’t get bad AI outputs because AI is limited; they get bad outputs because their thinking is limited.](https://dev.to/jaideepparashar/most-prompts-fail-not-because-ai-is-weak-but-because-our-thinking-isnt-structured-enough-3cg5)
+- [Understanding the CPU: The Brain of the Computer](https://dev.to/farhad_rahimi_klie/understanding-the-cpu-the-brain-of-the-computer-mme)
+- [How to Map Technical Requirements in IT Project Management](https://dev.to/taskford/how-to-map-technical-requirements-in-it-project-management-2oj1)
+- [“ChatGPT Navigation Using Default Keyboard Shortcuts &lpar;No Extensions Needed&rpar;”](https://dev.to/sureshsaragadam/chatgpt-navigation-using-default-keyboard-shortcuts-no-extensions-needed-1kfj)
+- [Repository Pattern in Golang: A Practical Guide](https://dev.to/team3/repository-pattern-in-golang-a-practical-guide-1kla)
+- [How I Overlooked the Problem and Shot Myself in the Foot](https://dev.to/aws-builders/how-i-overlooked-the-problem-and-shot-myself-in-the-foot-2ok8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
