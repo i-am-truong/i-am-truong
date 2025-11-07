@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev Journal: This week&#39;s progress](https://dev.to/brendon_oneill__/dev-journal-this-weeks-progress-4ae8)
+- [How To Configure Cross Region Replication for an S3 Bucket](https://dev.to/thukhakyawe_cloud/how-to-configure-cross-region-replication-for-an-s3-bucket-3ef)
 - [Tell Me Why My Design Will Fail](https://dev.to/leonpennings/tell-me-why-my-design-will-fail-4ell)
 - [Building a Solar Energy Predictor with React and TensorFlow.js](https://dev.to/tomasdevs/building-a-solar-energy-predictor-with-react-and-tensorflowjs-3hom)
 - [Game Dev Digest — Issue #305 - Game Design and more](https://dev.to/gamedevdigest/game-dev-digest-issue-305-game-design-and-more-n3)
-- [A comprehensive guide to List in Java](https://dev.to/ehrbhein/a-comprehensive-guide-to-lists-in-java-1fa9)
-- [ELK Stack for Developers: Simplifying Logging in Development](https://dev.to/xgare_technologies/elk-stack-for-developers-simplifying-logging-in-development-195)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
