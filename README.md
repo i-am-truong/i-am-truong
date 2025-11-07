@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop Inverting Your Colors: The Modern Way to Implement Dark &amp; Light Mode](https://dev.to/vinay_5d249e669fb47d24e2c/stop-inverting-your-colors-the-modern-way-to-implement-dark-light-mode-4p2d)
-- [Step-by-Step Guide to Effective Project Management](https://dev.to/leo_johnson_e34af4a6d9bd9/step-by-step-guide-to-effective-project-management-22ek)
-- [From Repetitive Code to Clean Architecture: How the Decorator Pattern Simplified Activity Logging by 70%](https://dev.to/digvijayjadhav98/from-repetitive-code-to-clean-architecture-how-the-decorator-pattern-simplified-activity-logging-1kb3)
-- [from nothing to something](https://dev.to/johngabriel-bit/from-nothing-to-something-4lcp)
-- [The Real AI Bubble Isn’t in Models. It’s in Your Frontend](https://dev.to/hashbyt/the-real-ai-bubble-isnt-in-models-its-in-your-frontend-5cn9)
+- [Announcing React Native Versatile Modal: One Modal Component to Rule Them All](https://dev.to/nonsobarn/announcing-react-native-versatile-modal-one-modal-component-to-rule-them-all-e4c)
+- [Why Is My AI Docker Image So Big? A Deep Dive with ‘dive’ tool to Find the Bloat](https://dev.to/latchudevops/why-is-my-ai-docker-image-so-big-a-deep-dive-with-dive-tool-to-find-the-bloat-l18)
+- [🎭 Slopsquatting: The Supply Chain Attack Hiding in Plain Sight](https://dev.to/aditya_tiwari_techo/slopsquatting-the-supply-chain-attack-hiding-in-plain-sight-5ai8)
+- [The Hidden Gotchas When Running a Dockerized .NET App on Google Cloud Run](https://dev.to/avwerosuoghene/the-hidden-gotchas-when-running-a-dockerized-net-app-on-google-cloud-run-efj)
+- [The Changing World of YouTube to MP3 Downloaders: Then and Now](https://dev.to/gremsmith/the-changing-world-of-youtube-to-mp3-downloaders-then-and-now-11gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
