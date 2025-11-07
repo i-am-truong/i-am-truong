@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Healthy Minds - Why It&#39;s The Best Meditation App Available [Opinion]](https://dev.to/mikeydorje/healthy-minds-why-its-the-best-meditation-app-available-opinion-22g)
-- [ServBay for macOS 1.18.0 Update: A Smarter Network &amp; More Stable Experience](https://dev.to/servbay/servbay-for-macos-1180-update-a-smarter-network-more-stable-experience-5hlo)
-- [Agentic Design of Compositional Machines](https://dev.to/paperium/agentic-design-of-compositional-machines-jfl)
-- [SOLIDWORKS PDM: Best Practices für die Cache-Verwaltung](https://dev.to/cadstore/solidworks-pdm-best-practices-fur-die-cache-verwaltung-385p)
-- [SOLIDWORKS PDM: Best Practices for Cache Management](https://dev.to/cadstore/solidworks-pdm-best-practices-for-cache-management-e5a)
+- [Gemini CLI Custom Slash Commands](https://dev.to/ranand12/gemini-cli-custom-slash-commands-42ja)
+- [🧩 Micro-Frontends 2025: How to Keep Them from Becoming Micro-Frankensteins](https://dev.to/tahamjp/micro-frontends-2025-how-to-keep-them-from-becoming-micro-frankensteins-2ebd)
+- [Syncing Obsidian Notes to Notion by Python Script &lpar;Part 3&rpar; - Auto-Linking Related Databases](https://dev.to/koshirok096/syncing-obsidian-notes-to-notion-by-python-script-part-3-auto-linking-related-databases-35k2)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1m71)
+- [A Practical Guide to Managing Multiple Git Accounts with SSH](https://dev.to/m_s_360/a-practical-guide-to-managing-multiple-git-accounts-with-ssh-3134)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
