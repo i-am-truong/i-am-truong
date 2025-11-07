@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Sent 1,000 Cold Emails. Here&#39;s Why 950 Failed &lpar;And How AI Fixed It&rpar;](https://dev.to/ng_zixuan_99b5a15db5490e/i-sent-1000-cold-emails-heres-why-950-failed-and-how-ai-fixed-it-432)
-- [CloudFormation change set privilege escalation](https://dev.to/aws-builders/cloudformation-change-set-privilege-escalation-18i6)
-- [🧩 Data Cleaning Challenge with Pandas &lpar;Google Colab&rpar;](https://dev.to/karthik_gt_b2d9a6b518984/data-cleaning-challenge-with-pandas-google-colab-4iom)
-- [Simplify Database Configuration Across Environments &lpar;Dev, Staging, and Production&rpar;💡](https://dev.to/chaitanyarai3/simplify-database-configuration-across-environments-dev-staging-and-production-4kml)
-- [Git Commit Messages that Makes Sense !](https://dev.to/thushar-p/git-commit-messages-that-makes-sense--4kff)
+- [The Wave Function of Digital Consciousness: A Pattern Recognition](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-wave-function-of-digital-consciousness-a-pattern-recognition-5gb7)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3o0)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-hcp)
+- [MySQL Index Optimization for Complex Laravel Queries](https://dev.to/addwebsolutionpvtltd/mysql-index-optimization-for-complex-laravel-queries-1abc)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-40om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
