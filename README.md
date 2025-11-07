@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gemini CLI: The Future of Programming and Reflections on the Impacts of AI](https://dev.to/windmateus/gemini-cli-the-future-of-programming-and-reflections-on-the-impacts-of-ai-jg2)
+- [بهترین اپلیکیشن‌ها برای ادیت ویدیو و ساخت ریلز اینستاگرام](https://dev.to/dorify/bhtryn-plykhyshnh-bry-dyt-wydyw-w-skht-rylz-ynstgrm-5f9l)
+- [Are Your Python Fundamentals as Solid as You Think?](https://dev.to/onlineproxy/are-your-python-fundamentals-as-solid-as-you-think-3499)
 - [[Boost]](https://dev.to/wparad/-5ach)
 - [How do you handle bug reports and QA in your web or mobile app workflow?](https://dev.to/abojorges/how-do-you-handle-bug-reports-and-qa-in-your-web-or-mobile-app-workflow-433b)
-- [Entendendo o consumo de memória do Gitaly no Kubernetes](https://dev.to/camilacodes/entendendo-o-consumo-de-memoria-do-gitaly-no-kubernetes-2ha2)
-- [Looking for 5 beta merchants for a web3 payment gateway SaaS &lpar;for humans &amp; AI agents&rpar;](https://dev.to/panche-blockia/looking-for-5-beta-merchants-for-a-web3-payment-gateway-saas-for-humans-ai-agents-3fcb)
-- [How to Fetch data in Dinou with react-enhanced-suspense and Server Functions that return Client Components](https://dev.to/roggc/how-to-fetch-data-in-dinou-with-react-enhanced-suspense-and-server-functions-that-return-client-46mb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
