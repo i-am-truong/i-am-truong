@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Fell Down the Rabbit Hole of Dots and Dashes](https://dev.to/chronocoders/how-i-fell-down-the-rabbit-hole-of-dots-and-dashes-46c3)
+- [Self-Improving AI: One Prompt That Makes Claude Learn From Every Mistake](https://dev.to/aviad_rozenhek_cba37e0660/self-improving-ai-one-prompt-that-makes-claude-learn-from-every-mistake-16ek)
+- [Bayesians vs Frequentists: A Beginner&#39;s Guide](https://dev.to/gg001/bayesians-vs-frequentists-a-beginners-guide-593c)
 - [Translating Between CSV Schema Languages](https://dev.to/david_kershaw_b6916404da6/translating-between-csv-schema-languages-1enp)
 - [The Twilio-Stytch Acquisition: A Technical Analysis of Developer CIAM in 2025](https://dev.to/deepakgupta/the-twilio-stytch-acquisition-a-technical-analysis-of-developer-ciam-in-2025-41ff)
-- [The Hidden Cost of JavaScript Frameworks: A 2026 Performance Reality Check](https://dev.to/clevertech88/the-hidden-cost-of-javascript-frameworks-a-2026-performance-reality-check-1dmm)
-- [The Complete 2026 Tech Stack: From Mobile Devices to Smart Home Automation](https://dev.to/clevertech88/the-complete-2026-tech-stack-from-mobile-devices-to-smart-home-automation-17kj)
-- [Leveling Up With Automated Testing](https://dev.to/tajudeen_abdulgafar_e0363/leveling-up-with-automated-testing-2f0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
