@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Werewolf? There Wolf.](https://dev.to/jarvisscript/werewolf-there-wolf-2e17)
-- [Develop custom steps for Workspace Flows](https://dev.to/googleworkspace/develop-custom-steps-for-workspace-flows-dej)
-- [I’m building a Python DataGridView and want to know if it’s useful. Here’s a teaser—what do you think?](https://dev.to/tsgiannis/im-building-a-python-datagridview-and-want-to-know-if-its-useful-heres-a-teaser-what-do-you-2mo9)
-- [🚀 Novidades GitHub Universe 2025](https://dev.to/pachicodes/novidades-github-universe-2025-30mo)
-- [From &#39;Why the F@&amp;k Do I Need This?&#39; to &#39;Oh, That&#39;s Why&#39; - My GAT Journey](https://dev.to/lvc1d/from-why-the-fk-do-i-need-this-to-oh-thats-why-my-gat-journey-1i80)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-159c)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-h48)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-40km)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3m11)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4cg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
