@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prior Art Search Tutorial: Master Multi-Platform Strategies](https://dev.to/patentscanai/prior-art-search-tutorial-master-multi-platform-strategies-4aj3)
-- [The Secret Life of Python: The String Intern Pool - When Two Strings Are One Object](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-string-intern-pool-when-two-strings-are-one-object-4c9f)
-- [How to Extract Images from PDF Using C# &lpar;Single Page &amp; Full Document&rpar;](https://dev.to/codingco/how-to-extract-images-from-pdf-using-c-single-page-full-document-1np4)
-- [My Bitcoin wallet was compromised in a single, catastrophic transaction, resulting in the irrevocable loss of my Ethereum and Bitcoin holdings. The moment I grasped the magnitude of what had transpired, I was engulfed in a torrent of disbelief and despair.](https://dev.to/joyce_adams_f3463ad6fc2b8/my-bitcoin-wallet-was-compromised-in-a-single-catastrophic-transaction-resulting-in-the-4a7a)
-- [Understanding the CPU: The Brain of the Computer](https://dev.to/farhad_rahimi_klie/understanding-the-cpu-the-brain-of-the-computer-mme)
+- [How I Built Kerminal: A Free, Open-Source Terminal &amp; SSH Manager with Multi-Device Sync](https://dev.to/klpod221/how-i-built-kerminal-a-free-open-source-terminal-ssh-manager-with-multi-device-sync-1f3i)
+- [This is Part 2 of my 4-part series on Networking Fundamentals for Cloud Engineers.](https://dev.to/stellaacharoiro/this-is-part-2-of-my-4-part-series-on-networking-fundamentals-for-cloud-engineers-4740)
+- [Expert Tips to Pass CCNP Security on the First Attempt](https://dev.to/preethi_lahari_48b969cb3c/expert-tips-to-pass-ccnp-security-on-the-first-attempt-9dn)
+- [How Switches and Routers Actually Work: The Three Tables That Run the Internet](https://dev.to/aws-builders/how-switches-and-routers-actually-work-the-three-tables-that-run-the-internet-nmg)
+- [A Practical Guide to React Suspense and Lazy Loading](https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
