@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How CSS Modules in Next.js Ensure Consistent and Scalable Web Design](https://dev.to/fiona_blackwood_07/how-css-modules-in-nextjs-ensure-consistent-and-scalable-web-design-1p7a)
-- [Halloween Town Explorer — A Perfect Landing with a Playable 3D Pumpkin Hunt](https://dev.to/charmpic/halloween-town-explorer-a-perfect-landing-with-a-playable-3d-pumpkin-hunt-4mpd)
-- [Achieving Idempotency with the Inbox Pattern](https://dev.to/actor-dev/inbox-pattern-51af)
-- [Garantindo Idempotência com o Padrão Inbox](https://dev.to/actor-dev/garantindo-idempotencia-com-o-padrao-inbox-id1)
-- [Composition vs Inheritance — The Practical Guide Every Developer Should Know](https://dev.to/parthkamal/composition-vs-inheritance-the-practical-guide-every-developer-should-know-3ie)
+- [CloudFormation change set privilege escalation](https://dev.to/aws-builders/cloudformation-change-set-privilege-escalation-18i6)
+- [🧩 Data Cleaning Challenge with Pandas &lpar;Google Colab&rpar;](https://dev.to/karthik_gt_b2d9a6b518984/data-cleaning-challenge-with-pandas-google-colab-4iom)
+- [Simplify Database Configuration Across Environments &lpar;Dev, Staging, and Production&rpar;💡](https://dev.to/chaitanyarai3/simplify-database-configuration-across-environments-dev-staging-and-production-4kml)
+- [Git Commit Messages that Makes Sense !](https://dev.to/thushar-p/git-commit-messages-that-makes-sense--4kff)
+- [Here is the API Client with Environment and Secret Management Capability](https://dev.to/apilover/here-is-the-api-client-with-environment-and-secret-management-capability-52bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
