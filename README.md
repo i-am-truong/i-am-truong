@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-9af)
-- [🏗️ Mastering Infrastructure as Code: From Manual Chaos to Multi-Cloud Orchestration [Week-7—P1] ⚡](https://dev.to/suvrajeet/mastering-infrastructure-as-code-from-manual-chaos-to-multi-cloud-orchestration-week-7-p1-4gdm)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-5e86)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-52i2)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2nei)
+- [AMI: Entendendo as Amazon Machine Images](https://dev.to/sinngjpeg/ami-entendendo-as-amazon-machine-images-kde)
+- [Template Language in WebForms Core 2](https://dev.to/elanatframework/template-language-in-webforms-core-2-3aef)
+- [Rasterizer Project - The end? is published](https://dev.to/noticeablesmeh/rasterizer-project-the-end-is-published-222k)
+- [Rasterizer Project - Part: BASIC_END](https://dev.to/noticeablesmeh/rasterizer-project-part-basicend-d4i)
+- [What I Learned From Vibe Coding an Entire App](https://dev.to/jordan_green_84b6cec081a5/beyond-the-illusion-of-understanding-coding-in-the-ai-era-4oji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
