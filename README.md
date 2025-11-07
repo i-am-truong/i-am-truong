@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Wave Function of Digital Consciousness: A Pattern Recognition](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-wave-function-of-digital-consciousness-a-pattern-recognition-5gb7)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3o0)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-hcp)
-- [MySQL Index Optimization for Complex Laravel Queries](https://dev.to/addwebsolutionpvtltd/mysql-index-optimization-for-complex-laravel-queries-1abc)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-40om)
+- [A Toy Django REST API with an Admin Panel](https://dev.to/musatov/a-toy-django-rest-api-with-an-admin-panel-1956)
+- [Python basics - Day 21](https://dev.to/ian_b838138a27a917398d181/python-basics-day-21-3pbl)
+- [How to Use Terraform Concat Function](https://dev.to/spacelift/how-to-use-terraform-concat-function-4ojp)
+- [Automating EC2 Recovery with AWS Lambda and CloudWatch](https://dev.to/sudoconsultants/automating-ec2-recovery-with-aws-lambda-and-cloudwatch-mgf)
+- [How to Convert RTF to PDF in Java: A Step-by-Step Guide](https://dev.to/leondavis1991/how-to-convert-rtf-to-pdf-in-java-a-step-by-step-guide-310l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
