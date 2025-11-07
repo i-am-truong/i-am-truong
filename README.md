@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/wparad/-5ach)
+- [How do you handle bug reports and QA in your web or mobile app workflow?](https://dev.to/abojorges/how-do-you-handle-bug-reports-and-qa-in-your-web-or-mobile-app-workflow-433b)
+- [Entendendo o consumo de memória do Gitaly no Kubernetes](https://dev.to/camilacodes/entendendo-o-consumo-de-memoria-do-gitaly-no-kubernetes-2ha2)
+- [Looking for 5 beta merchants for a web3 payment gateway SaaS &lpar;for humans &amp; AI agents&rpar;](https://dev.to/panche-blockia/looking-for-5-beta-merchants-for-a-web3-payment-gateway-saas-for-humans-ai-agents-3fcb)
 - [How to Fetch data in Dinou with react-enhanced-suspense and Server Functions that return Client Components](https://dev.to/roggc/how-to-fetch-data-in-dinou-with-react-enhanced-suspense-and-server-functions-that-return-client-46mb)
-- [Headless Adventures: From CMS to Frontend Without Losing Your Mind &lpar;4&rpar;](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-4-1e37)
-- [Gemini CLI Custom Slash Commands](https://dev.to/ranand12/gemini-cli-custom-slash-commands-42ja)
-- [🧩 Micro-Frontends 2025: How to Keep Them from Becoming Micro-Frankensteins](https://dev.to/tahamjp/micro-frontends-2025-how-to-keep-them-from-becoming-micro-frankensteins-2ebd)
-- [Golf.com: Behind Closed Doors: Sleepy Hollow’s Opulent Home on the Hudson](https://dev.to/youtube_golf/golfcom-behind-closed-doors-sleepy-hollows-opulent-home-on-the-hudson-589c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
