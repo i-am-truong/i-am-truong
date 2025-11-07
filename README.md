@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The CarnEvil of Horrors](https://dev.to/afkjr/the-carnevil-of-horrors-118o)
-- [Automatic Node.js Version Switching Across Projects](https://dev.to/matas_emanueldendaserr/automatic-nodejs-version-switching-across-projects-2dae)
+- [Automatic Node.js Version Switching Across Projects](https://dev.to/matutetandil/automatic-nodejs-version-switching-across-projects-2dae)
+- [EBS: Entendendo o Armazenamento do EC2](https://dev.to/sinngjpeg/ebs-entendendo-o-armazenamento-do-ec2-2bgf)
 - [Security news weekly round-up - 7th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-7th-november-2025-4h3j)
-- [Unlocking Developer Revenue: The Dual-Earning Model for AI Apps Explained](https://dev.to/monetzly/unlocking-developer-revenue-the-dual-earning-model-for-ai-apps-explained-1ndn)
-- [Ensuring AI Agent Reliability in Production Environments](https://dev.to/debmckinney/ensuring-ai-agent-reliability-in-production-environments-2beh)
+- [A Practical Guide to Routes and Routers in Express.js](https://dev.to/msnmongare/a-practical-guide-to-routes-and-routers-in-expressjs-324)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
