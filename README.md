@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Twilio-Stytch Acquisition: A Technical Analysis of Developer CIAM in 2025](https://dev.to/deepakgupta/the-twilio-stytch-acquisition-a-technical-analysis-of-developer-ciam-in-2025-41ff)
+- [The Hidden Cost of JavaScript Frameworks: A 2026 Performance Reality Check](https://dev.to/clevertech88/the-hidden-cost-of-javascript-frameworks-a-2026-performance-reality-check-1dmm)
+- [LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent Training](https://dev.to/paperium/llms-as-scalable-general-purpose-simulators-for-evolving-digital-agent-training-jg0)
 - [SSLCommerz works with frontend, backend, and database](https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8)
 - [What I Learned Building a Knowledge Graph for AI Agents](https://dev.to/trentbrew/what-i-learned-building-a-knowledge-graph-for-ai-agents-3e65)
-- [Vitest HTML Report](https://dev.to/whyang9701/vitest-html-report-333o)
-- [Building an AI News Digest Agent with Mastra and Telex.im](https://dev.to/ursulaonyi/building-an-ai-news-digest-agent-with-mastra-and-telexim-3p1h)
-- [Introducing Web3-Hooks](https://dev.to/lucascosta1996/introducing-web3-hooks-k5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
