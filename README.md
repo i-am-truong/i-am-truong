@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FastMinify - Free Client-Side JS/CSS Minifier](https://dev.to/fioul/fastminify-free-client-side-jscss-minifier-2o87)
+- [Mastering CSS Container Queries: Break Free from Viewport Tyranny 👨‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-css-container-queries-break-free-from-viewport-tyranny-2lgo)
 - [First steps with Caddy](https://dev.to/migsarnavarro/first-steps-with-caddy-3bmc)
 - [[Boost]](https://dev.to/oncloud7/-5974)
 - [Understanding Amazon EKS: How Kubernetes Runs on AWS](https://dev.to/oncloud7/understanding-amazon-eks-how-kubernetes-runs-on-aws-13gm)
-- [Multi-Turn Chat to Edit Images with NanoBanana, Angular and Firebase AI Logic](https://dev.to/railsstudent/multi-turn-chat-to-edit-images-with-nanobanana-angular-and-firebase-ai-logic-44ad)
-- [How to Set Up Your Own Google Analytics Alternative Using Umami and Sevalla](https://dev.to/manishmshiva/how-to-set-up-your-own-google-analytics-alternative-using-umami-and-sevalla-5bao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
