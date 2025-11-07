@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Build Content Like an Engineer: Systems, Signals, and Checks That Earn Trust](https://dev.to/sonia_bobrik_1939cdddd79d/build-content-like-an-engineer-systems-signals-and-checks-that-earn-trust-3pb3)
-- [How Airline Group Fares Really Work: The Business &amp; Tech Behind &#39;TBA&#39; Passenger Names](https://dev.to/aman_kumar_bdd40f1b711c15/how-airline-group-fares-really-work-the-business-tech-behind-tba-passenger-names-4mo9)
-- [How To Setup MonoGame for Fsharp](https://dev.to/sabedoesthings/how-to-setup-monogame-for-f-14fg)
-- [💡 Next-Level Deployments in AWS ECS: Step-by-Step Guide to Linear &amp; Canary Releases 🚀](https://dev.to/ahmedadel/next-level-deployments-in-aws-ecs-step-by-step-guide-to-linear-canary-releases-2025-edition-3bbb)
-- [Hudson River Trading VO Interview Experience](https://dev.to/net_programhelp_e160eef28/hudson-river-trading-vo-interview-experience-gch)
+- [Git Worktrees: The Power Behind Cursor’s Parallel Agents](https://dev.to/arifszn/git-worktrees-the-power-behind-cursors-parallel-agents-19j1)
+- [Helios Engine v0.4.3 Update — Smarter Tooling and Easier Initialization](https://dev.to/ammar-alnagar/helios-engine-v043-update-smarter-tooling-and-easier-initialization-3i34)
+- [2528. Maximize the Minimum Powered City](https://dev.to/mdarifulhaque/2528-maximize-the-minimum-powered-city-338p)
+- [Building an HTTP Server from TCP Sockets: 250 4,000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
+- [How To Create A macOS 26 Tahoe USB Installation Drive](https://dev.to/dev_neil_a/how-to-create-a-macos-26-tahoe-usb-installation-drive-3fnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
