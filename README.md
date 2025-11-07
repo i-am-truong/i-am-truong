@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LiveResearchBench: A Live Benchmark for User-Centric Deep Research in the Wild](https://dev.to/paperium/liveresearchbench-a-live-benchmark-for-user-centric-deep-research-in-the-wild-5gok)
-- [Two Shades of Mentoring: Cold &amp; Warm. Which oneTruly Works?](https://dev.to/peggie_7191/two-shades-of-mentoring-cold-warm-which-onetruly-works-50fo)
-- [LeafWiki v0.4.9 – Mermaid Diagrams, Page Copy &amp; Easier Setup 🚀](https://dev.to/perber/leafwiki-v049-mermaid-diagrams-page-copy-easier-setup-47ai)
-- [🧩 REST vs SOAP vs gRPC vs GraphQL vs WebHooks vs WebSockets vs WebRTC — The Ultimate API Showdown.PART&lpar;2&rpar;](https://dev.to/nish2005karsh/rest-vs-soap-vs-grpc-vs-graphql-vs-webhooks-vs-websockets-vs-webrtc-the-ultimate-api-22jc)
-- [Getting Organized with the Synology DS925+: My Honest First NAS Experience](https://dev.to/hardeep_singhajimal_e72e/getting-organized-with-the-synology-ds925-my-honest-first-nas-experience-cp7)
+- [Senior, mas sem experiência real](https://dev.to/andersoncontreira/senior-mas-sem-experiencia-real-41pg)
+- [Python 3.14 Free-Threading True Parallelism Without the GIL](https://dev.to/edgar_montano/python-314-free-threading-true-parallelism-without-the-gil-a12)
+- [Myna: monospace font for symbol-first editing experience](https://dev.to/sayyadirfanali/myna-monospace-font-for-symbol-first-editing-experience-5gdj)
+- [Cirque Du Soleil Drummer Hears The Smashing Pumpkins For The First Time](https://dev.to/mikeydorje/cirque-du-soleil-drummer-hears-the-smashing-pumpkins-for-the-first-time-2h98)
+- [[Boost]](https://dev.to/mikeydorje/-1bk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
