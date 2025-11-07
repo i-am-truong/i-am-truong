@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HTML Meta Tags to Improve Sharing of your Webpages &lpar;and SEO&rpar;](https://dev.to/micmath/html-meta-tags-to-improve-sharing-of-your-webpages-and-seo-3j6g)
-- [EC2 Instance Connect: A maneira mais fácil de se conectar à sua instância EC2](https://dev.to/sinngjpeg/ec2-instance-connect-a-maneira-mais-facil-de-se-conectar-a-sua-instancia-ec2-2mec)
-- [Estrutura de um bom CI/CD](https://dev.to/andersoncontreira/estrutura-de-um-bom-cicd-2852)
-- [Automating Executive-Ready AWS Cost Optimization FinOps Reports](https://dev.to/santanu_das/automating-executive-ready-aws-cost-optimization-finops-reports-11oo)
-- [✨ UI.Glass — Free Glassmorphism CSS Generator](https://dev.to/ml318097/uiglass-free-glassmorphism-css-generator-500j)
+- [First steps with Caddy](https://dev.to/migsarnavarro/first-steps-with-caddy-3bmc)
+- [[Boost]](https://dev.to/oncloud7/-5974)
+- [Understanding Amazon EKS: How Kubernetes Runs on AWS](https://dev.to/oncloud7/understanding-amazon-eks-how-kubernetes-runs-on-aws-13gm)
+- [Multi-Turn Chat to Edit Images with NanoBanana, Angular and Firebase AI Logic](https://dev.to/railsstudent/multi-turn-chat-to-edit-images-with-nanobanana-angular-and-firebase-ai-logic-44ad)
+- [How to Set Up Your Own Google Analytics Alternative Using Umami and Sevalla](https://dev.to/manishmshiva/how-to-set-up-your-own-google-analytics-alternative-using-umami-and-sevalla-5bao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
