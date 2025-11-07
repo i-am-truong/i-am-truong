@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an AI Image Captioning App with Azure AI Vision and Streamlit](https://dev.to/akash_rameshcbstudent_7/how-to-build-an-ai-image-captioning-app-with-azure-ai-vision-and-streamlit-4206)
+- [Why Every Online Business Needs DDoS Protection in 2025](https://dev.to/ddos_expert/why-every-online-business-needs-ddos-protection-in-2025-31b3)
 - [Exploring Google Gemini: New Frontiers for AI Integration in C# Applications](https://dev.to/lofcz/exploring-google-gemini-new-frontiers-for-ai-integration-in-c-applications-kig)
 - [Mastering Logging in Python](https://dev.to/devasservice/mastering-logging-in-python-5e53)
 - [“Reactive Forms Are Just as Good.” Okay, Watch This.](https://dev.to/brianmtreese/reactive-forms-are-just-as-good-okay-watch-this-3925)
-- [🚫 No Internet? No Problem — How to Build Web Apps That Work Offline Like Magic](https://dev.to/okoye_ndidiamaka_5e3b7d30/no-internet-no-problem-how-to-build-web-apps-that-work-offline-like-magic-l50)
-- [We built an AI Agent on Tiger Cloud](https://dev.to/lin_liang_7f755b0dc2fe65b/we-built-an-ai-agent-on-tiger-cloud-c5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
