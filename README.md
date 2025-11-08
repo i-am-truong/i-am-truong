@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Achieving Least Privilege in Docker](https://dev.to/bansikah/achieving-least-privilege-in-docker-33je)
-- [The Evolution and Future of AI Development](https://dev.to/cs_vishnukumar_c7ab67ff18/the-evolution-and-future-of-ai-development-40jp)
-- [[Boost]](https://dev.to/cherryramatis/-33i0)
-- [🤖Building an AI-Powered Digital Receptionist: Automating Business Communication](https://dev.to/inzamam_asghar_a87b39e8df/building-an-ai-powered-digital-receptionist-automating-business-communication-2n6l)
-- [🧠🚀 Announcing helper-utils-ts — A Lightweight Utility Library for Clean Value Checks](https://dev.to/srinidhianand/announcing-helper-utils-ts-a-lightweight-utility-library-for-clean-value-checks-5e7f)
+- [Migrating from RxJS to Angular Signals — A Real-World Perspective from a Frontend Lead](https://dev.to/amrita_19599ff03c75151c80/migrating-from-rxjs-to-angular-signals-a-real-world-perspective-from-a-frontend-lead-dg8)
+- [I hacked time in Chrome for a demo video](https://dev.to/xraytangooscar/i-hacked-time-in-chrome-for-a-demo-video-lg7)
+- [apimock-rs 4.4.0 is released: HTTPS is now supported](https://dev.to/nabbisen/apimock-rs-440-is-released-https-is-now-supported-291e)
+- [layout-manager-react: Highly Customizable React Layout Manager](https://dev.to/ashkan_hooshidar_c507d1ef/layout-manager-react-highly-customizable-react-layout-manager-1i3f)
+- [How to Set Up AWS Cost Explorer &lpar;and Why It’s Not Enough&rpar;](https://dev.to/cloudwiseteam/how-to-set-up-aws-cost-explorer-and-why-its-not-enough-45hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
