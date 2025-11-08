@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from RxJS to Angular Signals — A Real-World Perspective from a Frontend Lead](https://dev.to/amrita_19599ff03c75151c80/migrating-from-rxjs-to-angular-signals-a-real-world-perspective-from-a-frontend-lead-dg8)
-- [I hacked time in Chrome for a demo video](https://dev.to/xraytangooscar/i-hacked-time-in-chrome-for-a-demo-video-lg7)
-- [apimock-rs 4.4.0 is released: HTTPS is now supported](https://dev.to/nabbisen/apimock-rs-440-is-released-https-is-now-supported-291e)
-- [layout-manager-react: Highly Customizable React Layout Manager](https://dev.to/ashkan_hooshidar_c507d1ef/layout-manager-react-highly-customizable-react-layout-manager-1i3f)
-- [How to Set Up AWS Cost Explorer &lpar;and Why It’s Not Enough&rpar;](https://dev.to/cloudwiseteam/how-to-set-up-aws-cost-explorer-and-why-its-not-enough-45hg)
+- [SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel ViewSynthesis](https://dev.to/paperium/scas4d-structural-cascaded-optimization-for-boosting-persistent-4d-novel-viewsynthesis-47ok)
+- [Why the Web cannot beat Screen.Studio!](https://dev.to/sachindas246/why-the-web-cannot-beat-screenstudio-40kl)
+- [Data Cleaning Challenge with Pandas &lpar;Google Colab&rpar;](https://dev.to/abhishek_nm_d45c9eb975fe/data-cleaning-challenge-with-pandas-google-colab-4pfa)
+- [💻 *10 Habits That Make You a Better Programmer* 🚀👨‍💻](https://dev.to/ssekabirarobertsims/10-habits-that-make-you-a-better-programmer-2elh)
+- [Migrating from RxJS to Angular Signals — A Real-World Perspective from a Frontend Lead](https://dev.to/amrita_16030702/migrating-from-rxjs-to-angular-signals-a-real-world-perspective-from-a-frontend-lead-dg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
