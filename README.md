@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Important CNC Tools Every Workshop Should Know](https://dev.to/sumitjaibros/important-cnc-tools-every-workshop-should-know-3h5g)
 - [I wrestled AppSync WebSockets for 4 hours so you don’t have to &lpar;React + GraphQL Subscriptions&rpar;](https://dev.to/manikandan_v_549bdba6219b/i-wrestled-appsync-websockets-for-4-hours-so-you-dont-have-to-react-graphql-subscriptions-obi)
 - [I wrestled AppSync WebSockets for 4 hours so you don’t have to &lpar;React + GraphQL Subscriptions&rpar;](https://dev.to/manikandan_v_549bdba6219b/i-wrestled-appsync-websockets-for-4-hours-so-you-dont-have-to-react-graphql-subscriptions-m8l)
 - [Why Complementary Skills Matter in Co-Founding](https://dev.to/jean_chou_b0a8ad9c32addbd/why-complementary-skills-matter-in-co-founding-3kjl)
-- [Book review: “Build a DeepSeek Model &lpar;From Scratch&rpar;”](https://dev.to/aairom/book-review-build-a-deepseek-model-from-scratch-5gk5)
-- [Outil de Cybersécurité du Jour - Nov 8, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-8-2025-2jae)
+- [Parallel Universe Database - AI Agents Compete Across Instant Database Forks to Find Optimal Solutions](https://dev.to/stellaacharoiro/parallel-universe-database-ai-agents-compete-across-instant-database-forks-to-find-optimal-53lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
