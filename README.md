@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Fell Down the Rabbit Hole of Dots and Dashes](https://dev.to/chronocoders/how-i-fell-down-the-rabbit-hole-of-dots-and-dashes-46c3)
-- [Self-Improving AI: One Prompt That Makes Claude Learn From Every Mistake](https://dev.to/aviad_rozenhek_cba37e0660/self-improving-ai-one-prompt-that-makes-claude-learn-from-every-mistake-16ek)
-- [Bayesians vs Frequentists: A Beginner&#39;s Guide](https://dev.to/gg001/bayesians-vs-frequentists-a-beginners-guide-593c)
-- [Translating Between CSV Schema Languages](https://dev.to/david_kershaw_b6916404da6/translating-between-csv-schema-languages-1enp)
-- [The Twilio-Stytch Acquisition: A Technical Analysis of Developer CIAM in 2025](https://dev.to/deepakgupta/the-twilio-stytch-acquisition-a-technical-analysis-of-developer-ciam-in-2025-41ff)
+- [Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration](https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69)
+- [Dear Devs, This Is a Call to All of Us 💻❤️](https://dev.to/velora_tech_cbfb10dd9eede/dear-devs-this-is-a-call-to-all-of-us-4blp)
+- [たった1枚の引き伸ばされた画像から、AWS Lambdaのコード移行とCI/CD構築に至った話](https://dev.to/kaziusan/tatuta1mei-noyin-kishen-basaretahua-xiang-kara-aws-lambdanokodoyi-xing-tocicdgou-zhu-nizhi-tutahua-252p)
+- [Building a Mini Build System in Go: Understanding How Bazel Works Under the Hood](https://dev.to/tmwakalasya/building-a-mini-build-system-in-go-understanding-how-bazel-works-under-the-hood-3gp6)
+- [Title: The Rise and Fall of ChatGPT: A Tech-Savvy Perspective](https://dev.to/yagyaraj_sharma_6cd410179/title-the-rise-and-fall-of-chatgpt-a-tech-savvy-perspective-600)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
