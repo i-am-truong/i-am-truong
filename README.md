@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Google Drive to Host Your Website](https://dev.to/rezapurnama/how-to-use-google-drive-to-host-your-website-16f9)
+- [TOON vs JSON: A Modern Data Format Showdown](https://dev.to/sreeni5018/toon-vs-json-a-modern-data-format-showdown-2ooc)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2ij3)
+- [im making a Fortnite/roblox game](https://dev.to/sonic_studios_83686951da/im-making-a-fortniteroblox-game-30no)
 - [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-gg9)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-164k)
-- [I want to share the API I&#39;m using, since it&#39;s hosted on CFWork.](https://dev.to/chinese-tingfeng/i-want-to-share-the-api-im-using-since-its-hosted-on-cfwork-1k8p)
-- [How to install n8n locally on Windows](https://dev.to/hbetabessi/how-to-install-n8n-locally-on-windows-306a)
-- [Becoming a Full Stack developer Day 1](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-1-5fhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
