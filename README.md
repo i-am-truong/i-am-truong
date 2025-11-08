@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CheatSheet: Python for DSA](https://dev.to/itzsrikanth/cheatsheet-python-for-dsa-2g3f)
-- [How Do I Balance It All?](https://dev.to/flexi_dev_4c0ce990523a164/how-do-i-balance-it-all-33bf)
-- [Bug fix release 2.07 for the Perl Distribution Workflow](https://dev.to/jonasbn/bug-fix-release-207-for-the-perl-distribution-workflow-2i86)
-- [What happens when you mix code, creativity, and a live audience?](https://dev.to/pimenta/what-happens-when-you-mix-code-creativity-and-a-live-audience-14f7)
-- [Supabase Functions vs Firebase Cloud Functions — Why we Switched for our Eventra Project](https://dev.to/wurldguy/supabase-functions-vs-firebase-cloud-functions-why-we-switched-for-our-eventra-project-230m)
+- [Creating Java Streams](https://dev.to/priyankbhardwaj1199/creating-java-streams-1727)
+- [How to Build a Bookstore App with FARM Stack &lpar;FastAPI, React, and MongoDB&rpar;](https://dev.to/masteringbackend/how-to-build-a-bookstore-app-with-farm-stack-fastapi-react-and-mongodb-544j)
+- [Getting started with SQLite using C#/Microsoft Visual Studio](https://dev.to/strangequark/getting-started-with-sqlite-using-cmicrosoft-visual-studio-226p)
+- [Harnessing the Power of Elementor Countdown Widgets: Drive Urgency and Conversions on WordPress](https://dev.to/artarasaneh2025/harnessing-the-power-of-elementor-countdown-widgets-drive-urgency-and-conversions-on-wordpress-29oi)
+- [Why JavaScript Never Adopted RxJS — It Solved a Problem JavaScript Never Had](https://dev.to/ayush_maurya_/why-javascript-never-adopted-rxjs-it-solved-a-problem-javascript-never-had-418o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
