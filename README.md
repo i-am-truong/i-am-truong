@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EdgeVPN: A Decentralized P2P VPN Solution](https://dev.to/stelixx-insider/edgevpn-a-decentralized-p2p-vpn-solution-39ko)
-- [TelUI: The best UI framework for easy-to-use applications.](https://dev.to/eotterbeep/telui-the-best-ui-framework-for-easy-to-use-applications-b9m)
-- [**Taming the Exploration-Exploitation Tradeoff in Multi-Agen](https://dev.to/drcarlosruizviquez/taming-the-exploration-exploitation-tradeoff-in-multi-agen-5h0h)
-- [Meet SkillHunt - a Career Platform for Developers](https://dev.to/m_midas/meet-skillhunt-a-career-platform-for-developers-1eab)
-- [iOS 26.2 Beta is Here: What Devs Need to Know](https://dev.to/arshtechpro/ios-262-beta-is-here-what-devs-need-to-know-1dpn)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-gg9)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-164k)
+- [I want to share the API I&#39;m using, since it&#39;s hosted on CFWork.](https://dev.to/chinese-tingfeng/i-want-to-share-the-api-im-using-since-its-hosted-on-cfwork-1k8p)
+- [How to install n8n locally on Windows](https://dev.to/hbetabessi/how-to-install-n8n-locally-on-windows-306a)
+- [Becoming a Full Stack developer Day 1](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-1-5fhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
