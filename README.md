@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Launching Your AI Agent on AWS: Bedrock, Lambda &amp; API Gateway](https://dev.to/sergio_esteban_6e7e3ce4e1/ai-agent-on-aws-bedrock-lambda-api-gateway-3cak)
+- [🚀 Building an Express.js API for the Amazon Scraper](https://dev.to/abdullah_ahmed_76eb910dac/building-an-expressjs-api-for-the-amazon-scraper-20eg)
 - [&quot;EnvSecOp: Nix, Recognized: The Strongest Bag Wins&quot;](https://dev.to/jl03/envsecop-nix-recognized-the-strongest-bag-wins-20nm)
 - [“Night of Code &amp; Vibes”: My Techy Halloween Landing Page](https://dev.to/the_duchess_of_hackers/night-of-code-vibes-my-techy-halloween-landing-page-2gd4)
-- [I Built a Recipe App That Sees Your Ingredients with Google Gemini](https://dev.to/makendrang/i-built-a-recipe-app-that-sees-your-ingredients-with-google-gemini-2e3l)
-- [How I captured a real StackOverflowException dump](https://dev.to/imtejassingh/how-i-captured-a-real-stackoverflowexception-dump-2fd6)
-- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-pcl)
+- [Qwen Image Base Model Training vs FLUX SRPO Training 20 images comparison](https://dev.to/furkangozukara/qwen-image-base-model-training-vs-flux-srpo-training-20-images-comparison-3665)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
