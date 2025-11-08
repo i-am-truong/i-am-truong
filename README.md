@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend Challenge - Halloween Edition: The Smiling Jack-O&#39;-Lantern 🎃](https://dev.to/makendrang/frontend-challenge-halloween-edition-the-smiling-jack-o-lantern-15h3)
+- [Use Ripgrep as Default Grep Program in VIM or Neovim](https://dev.to/gokayburuc/use-ripgrep-as-default-grep-program-in-vim-or-neovim-19f2)
 - [Build a Modern Contact Us Page with Next.js + Tailwind CSS &lpar;Component-Based + SEO-Ready&rpar;](https://dev.to/mina_golzari_dalir/build-a-modern-contact-us-page-with-nextjs-tailwind-css-component-based-seo-ready-3jc3)
 - [Número por Extenso: Conversor Online Grátis](https://dev.to/fellipp_mota_55cd042f/o-desafio-surpreendente-de-converter-numeros-em-texto-por-extenso-e-como-resolve-lo-21d1)
 - [How To Create A Storage For A Public Website](https://dev.to/akintoye_gbenga/how-to-create-a-storage-for-a-public-website-440d)
-- [TUF: A Terminal UI for UFW Enhancing Firewall Management](https://dev.to/stelixx-insider/tuf-a-terminal-ui-for-ufw-enhancing-firewall-management-29mi)
-- [Wails as Electron Alternative](https://dev.to/kartik_patel/wails-as-electron-alternative-4dmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
