@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing TOON for Laravel — A Smarter, Token-Efficient Way to Talk to AI](https://dev.to/sbsaga/introducing-toon-for-laravel-a-smarter-token-efficient-way-to-talk-to-ai-36a3)
 - [How to Use Google Drive to Host Your Website](https://dev.to/rezapurnama/how-to-use-google-drive-to-host-your-website-16f9)
+- [Python Data Model exercise](https://dev.to/bterwijn/python-data-model-exercise-5e2e)
 - [TOON vs JSON: A Modern Data Format Showdown](https://dev.to/sreeni5018/toon-vs-json-a-modern-data-format-showdown-2ooc)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2ij3)
 - [im making a Fortnite/roblox game](https://dev.to/sonic_studios_83686951da/im-making-a-fortniteroblox-game-30no)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-gg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
