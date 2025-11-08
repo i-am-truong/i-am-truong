@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About ‘Building in Public’: What No One Tells You](https://dev.to/debuggingwithsim/the-truth-about-building-in-public-what-no-one-tells-you-2o2p)
-- [On Pretraining for Project-Level Code Completion](https://dev.to/paperium/on-pretraining-for-project-level-code-completion-3kg6)
-- [Cut AI Costs Without Losing Capability: The Rise of Small LLMs](https://dev.to/manishmshiva/cut-ai-costs-without-losing-capability-the-rise-of-small-llms-49do)
-- [How to Check if a String is Valid JSON in PHP](https://dev.to/devtalk94/how-to-check-if-a-string-is-valid-json-in-php-7hp)
-- [Line by Line, But HOW Do I Construct A BSP Tree?](https://dev.to/chigbeef_77/line-by-line-but-how-do-i-construct-a-bsp-tree-497n)
+- [Common Manual Testing Techniques](https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43)
+- [🚀 Google &amp; SpaceX Are Building AI Datacenters in Space — Nvidia Hits $5 Trillion](https://dev.to/aivanguard/google-spacex-are-building-ai-datacenters-in-space-nvidia-hits-5-trillion-pnf)
+- [Exploring NoSQL Data Analysis: A Practical Study Using a Kaggle Dataset](https://dev.to/jayanth_anbu_28041adad45b/exploring-nosql-data-analysis-a-practical-study-using-a-kaggle-dataset-1fgn)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-anj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
