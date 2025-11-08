@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-p5e)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-195c)
+- [More Than Skills: The Human Traits That Build Great Teams](https://dev.to/dobrenteiistvan/more-than-skills-the-human-traits-that-build-great-teams-1bfm)
 - [Nugget iOS - I tried this on my iPhone](https://dev.to/mactechschool/nugget-ios-i-tried-this-on-my-iphone-415b)
 - [How much smaller are NixNG container images compared to NixOS, really?](https://dev.to/m15a/how-much-smaller-are-nixng-container-images-compared-to-nixos-really-57k9)
-- [Important CNC Tools Every Workshop Should Know](https://dev.to/sumitjaibros/important-cnc-tools-every-workshop-should-know-3h5g)
-- [Quantum-Resistant Federated Learning with Homomorphic Encryption for Cross-Silo Medical AI Systems](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-homomorphic-encryption-for-cross-silo-medical-ai-systems-1hgl)
-- [Master Express JS: A Complete Guide for Beginners | Tpoint Tech](https://dev.to/tpointtechblog/master-express-js-a-complete-guide-for-beginners-tpoint-tech-gge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
