@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Built a Feature-Rich, Developer-Friendly QR Code Platform](https://dev.to/mementor/how-we-built-a-feature-rich-developer-friendly-qr-code-platform-1iga)
 - [EU Softens the AI Act — Innovation Boost or Ethics Time Bomb?](https://dev.to/adithyasrivatsa/eu-softens-the-ai-act-innovation-boost-or-ethics-time-bomb-1boi)
 - [Similarities Between a Stored Procedure in SQL and a Function in Python](https://dev.to/sharon_ndubai_a6603703f2f/similarities-between-a-stored-procedure-in-sql-and-a-function-in-python-3ijh)
 - [Performance Optimization for JS](https://dev.to/godofgeeks/performance-optimization-for-js-1fc7)
 - [Figma to IDE MCP integration in 2 minutes](https://dev.to/yardenporat/figma-to-ide-integration-in-2-minutes-533i)
-- [Subarray Problem Types](https://dev.to/zeeshanali0704/subarray-problem-types-47l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
