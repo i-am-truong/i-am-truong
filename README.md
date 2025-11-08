@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Truth About ‘Building in Public’: What No One Tells You](https://dev.to/debuggingwithsim/the-truth-about-building-in-public-what-no-one-tells-you-2o2p)
+- [On Pretraining for Project-Level Code Completion](https://dev.to/paperium/on-pretraining-for-project-level-code-completion-3kg6)
+- [Cut AI Costs Without Losing Capability: The Rise of Small LLMs](https://dev.to/manishmshiva/cut-ai-costs-without-losing-capability-the-rise-of-small-llms-49do)
+- [How to Check if a String is Valid JSON in PHP](https://dev.to/devtalk94/how-to-check-if-a-string-is-valid-json-in-php-7hp)
 - [Line by Line, But HOW Do I Construct A BSP Tree?](https://dev.to/chigbeef_77/line-by-line-but-how-do-i-construct-a-bsp-tree-497n)
-- [🧠 The Ultimate Free JSON Formatter Online — Fast, Secure, and Built for Developers](https://dev.to/sorabh_rohila/the-ultimate-free-json-formatter-online-fast-secure-and-built-for-developers-k16)
-- [Show Us Where you Have Done This Before](https://dev.to/bid_solution/show-us-where-you-have-done-this-before-5fih)
-- [Are Time Tracking Apps the Key to Better Work-Life Balance?](https://dev.to/shaik_sajida_8f474e448d50/are-time-tracking-apps-the-key-to-better-work-life-balance-5ef2)
-- [The Proposal Department’s Proposal on How to Make Better Proposals](https://dev.to/bid_solution/the-proposal-departments-proposal-on-how-to-make-better-proposals-3dmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
