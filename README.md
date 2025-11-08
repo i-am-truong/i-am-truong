@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Decision-Making CLI Tool in Rust: &quot;should-i&quot;](https://dev.to/justhiro/building-a-decision-making-cli-tool-in-rust-should-i-3fn3)
 - [💡 How to Write Better Code](https://dev.to/ivan-zaitsev/how-to-write-better-code-59o7)
+- [Series Week 7/52 - Optimizing Bussiness Performance with a Managed Model for Performance](https://dev.to/nabhaas/series-week-752-optimizing-database-performance-with-a-managed-model-30oc)
 - [Unlocking Developer Revenue: Dual-Earning Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-dual-earning-strategies-for-llm-apps-with-monetzly-1029)
 - [Unlocking Out-of-Distribution Generalization in Transformers via RecursiveLatent Space Reasoning](https://dev.to/paperium/unlocking-out-of-distribution-generalization-in-transformers-via-recursivelatent-space-reasoning-3cc5)
-- [Why Your AI Workflow Design Might Be Overcomplicated](https://dev.to/lofcz/why-your-ai-workflow-design-might-be-overcomplicated-1hfb)
-- [Azure DevOps Nedir ?](https://dev.to/suleymanakturk/azure-devops-nedir--2jjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
