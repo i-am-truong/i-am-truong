@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EnvSecOps: What It Actually Is &lpar;And Why DevSecOps Won&#39;t Cut It&rpar;](https://dev.to/jl03/envsecops-what-it-actually-is-and-why-devsecops-wont-cut-it-43nh)
+- [Day 62 of My Data Analytics Journey !](https://dev.to/ramyacse/day-62-of-my-data-analytics-journey--2fi1)
 - [Building a Decision-Making CLI Tool in Rust: &quot;should-i&quot;](https://dev.to/justhiro/building-a-decision-making-cli-tool-in-rust-should-i-3fn3)
+- [Building the Mind’s Eye Hunting Engine — Call for Builders, Dreamers &amp; Systems Thinkers](https://dev.to/peacebinflow/building-the-minds-eye-hunting-engine-call-for-builders-dreamers-systems-thinkers-1op1)
 - [💡 How to Write Better Code](https://dev.to/ivan-zaitsev/how-to-write-better-code-59o7)
-- [Series Week 7/52 - Optimizing Bussiness Performance with a Managed Model for Performance](https://dev.to/nabhaas/series-week-752-optimizing-database-performance-with-a-managed-model-30oc)
-- [Unlocking Developer Revenue: Dual-Earning Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-dual-earning-strategies-for-llm-apps-with-monetzly-1029)
-- [Unlocking Out-of-Distribution Generalization in Transformers via RecursiveLatent Space Reasoning](https://dev.to/paperium/unlocking-out-of-distribution-generalization-in-transformers-via-recursivelatent-space-reasoning-3cc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
