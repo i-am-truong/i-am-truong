@@ -120,8 +120,8 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[Boost]](https://dev.to/cherryramatis/-33i0)
+- [🤖Building an AI-Powered Digital Receptionist: Automating Business Communication](https://dev.to/inzamam_asghar_a87b39e8df/building-an-ai-powered-digital-receptionist-automating-business-communication-2n6l)
 - [🧠🚀 Announcing helper-utils-ts — A Lightweight Utility Library for Clean Value Checks](https://dev.to/srinidhianand/announcing-helper-utils-ts-a-lightweight-utility-library-for-clean-value-checks-5e7f)
-- [Introduction to MLOps](https://dev.to/anusha_kuppili/introduction-to-mlops-3inc)
 - [Introduction to MLOps | Complete End-to-End Guide](https://dev.to/anusha_kuppili/introduction-to-mlops-complete-end-to-end-guide-17e0)
 - [Can You Experience the Beas Kund Trek on a Budget?](https://dev.to/md_tasin_796ae00572dbbd80/can-you-experience-the-beas-kund-trek-on-a-budget-l1d)
 <!-- BLOG-POST-LIST:END -->
