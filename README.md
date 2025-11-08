@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Similarities Between a Stored Procedure in SQL and a Function in Python](https://dev.to/sharon_ndubai_a6603703f2f/similarities-between-a-stored-procedure-in-sql-and-a-function-in-python-3ijh)
+- [Performance Optimization for JS](https://dev.to/godofgeeks/performance-optimization-for-js-1fc7)
+- [BigCommerce Shines with 24 Awards in the 2025 Paradigm B2B Combine for Mid-Market and Enterprise](https://dev.to/danyelle09/bigcommerce-shines-with-24-awards-in-the-2025-paradigm-b2b-combine-for-mid-market-and-enterprise-1olh)
 - [Figma to IDE MCP integration in 2 minutes](https://dev.to/yardenporat/figma-to-ide-integration-in-2-minutes-533i)
 - [Day 11 : C++ Language | String Concatenation | Part -2](https://dev.to/mehfila_parkkulthil_23/day-11-c-language-string-concatenation-part-2-219o)
-- [From DataWareHouses to BigData Systems: What and Why - Questions that nobody asks, but you should!](https://dev.to/denuggets/from-datawarehouses-to-bigdata-systems-what-and-why-questions-that-nobody-asks-but-you-should-4556)
-- [How to Value a Small Business: Your Guide to Smart Acquisitions](https://dev.to/laoli_lantian_ef2d5d83ae8/how-to-value-a-small-business-your-guide-to-smart-acquisitions-200m)
-- [The App You Trust Most Is the One That Spies the Hardest](https://dev.to/sagar_sajwan_a91beb41c861/the-app-you-trust-most-is-the-one-that-spies-the-hardest-poh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
