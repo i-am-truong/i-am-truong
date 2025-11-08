@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Applying API Testing Frameworks with Postman: Real-World Code Examples](https://dev.to/christian_dennishinojosa/applying-api-testing-frameworks-with-postman-real-world-code-examples-j4p)
-- [Don&#39;t be shy, start your own meetup!](https://dev.to/danrot90/dont-be-shy-start-your-own-meetup-2kn)
-- [From Text to Live Video: How We Built a Serverless Multimodal Logistics AI on Google Cloud Run](https://dev.to/michaelinzo/from-text-to-live-video-how-we-built-a-serverless-multimodal-logistics-ai-on-google-cloud-run-590d)
-- [Frontend Challenge - Halloween Edition: The Smiling Jack-O&#39;-Lantern 🎃](https://dev.to/makendrang/frontend-challenge-halloween-edition-the-smiling-jack-o-lantern-15h3)
-- [Use Ripgrep as Default Grep Program in VIM or Neovim](https://dev.to/gokayburuc/use-ripgrep-as-default-grep-program-in-vim-or-neovim-19f2)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-pcl)
+- [Generating Millions of Unique IDs in TypeScript — Fast, Scalable &amp; Collision-Free](https://dev.to/srashtigupta/generating-millions-of-unique-ids-in-typescript-fast-scalable-collision-free-3ik3)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-pc5)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-15fk)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-41n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
