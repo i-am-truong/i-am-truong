@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I’m Aniruddha Adak, And This Is My YouWare Addiction: 27 Apps In 45 Days &lpar;All Built With Zero Code&rpar;](https://dev.to/aniruddhaadak/im-aniruddha-adak-and-this-is-my-youware-addiction-27-apps-in-45-days-all-built-with-zero-code-c0f)
-- [I’m Aniruddha Adak](https://dev.to/aniruddhaadak/im-aniruddha-adak-op8)
-- [OSD600 Lab 7: Testing](https://dev.to/david_rivera_8d845b35931e/osd600-lab-7-testing-4d5j)
-- [⚙️ Ansible Roles Unleashed: From Ad-Hoc Automation to Production-Grade Cloud Deployments [Week-8] 🚀](https://dev.to/suvrajeet/ansible-roles-unleashed-from-ad-hoc-automation-to-production-grade-cloud-deployments-week-8-41mc)
-- [I Doom-Scrolled Every Viral AI Tweet of 2025 So You Don’t Have To &lpar;100 Posts That Broke My Soul&rpar;](https://dev.to/aniruddhaadak/i-doom-scrolled-every-viral-ai-tweet-of-2025-so-you-dont-have-to-100-posts-that-broke-my-soul-4a8i)
+- [Are Time Tracking Apps the Key to Better Work-Life Balance?](https://dev.to/shaik_sajida_8f474e448d50/are-time-tracking-apps-the-key-to-better-work-life-balance-5ef2)
+- [Building a New York Times Connections Solver with Python](https://dev.to/leonardokaprio/building-a-new-york-times-connections-solver-with-python-5b8j)
+- [How to Set Up an S3 Trigger for Lambda — and Kick Off a Step Functions Workflow](https://dev.to/dhavalmojidra/how-to-set-up-an-s3-trigger-for-lambda-and-kick-off-a-step-functions-workflow-6cj)
+- [Fresh graduate 🎓 Need advice on starting my career. Where do I begin? What should I learn first?](https://dev.to/saam_ahmed_5d4623fb5a4063/fresh-graduate-need-advice-on-starting-my-career-where-do-i-begin-what-should-i-learn-first-hg6)
+- [AI Autopilot for AI: Dynamically Scaling Neural Nets on Edge Devices](https://dev.to/arvind_sundararajan/ai-autopilot-for-ai-dynamically-scaling-neural-nets-on-edge-devices-1d25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
