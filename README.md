@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best iPhone Camera in 2026: Which Model Wins? reviews by Tech.Feastloom](https://dev.to/clevertech88/best-iphone-camera-in-2026-which-model-wins-3i8i)
+- [Agentic Bitcoin24](https://dev.to/nadinev/agentic-bitcoin24-3946)
+- [Headless Commerce in 2025: Revolution or Marketing Hype?](https://dev.to/elogic_commerce/headless-commerce-in-2025-revolution-or-marketing-hype-27dk)
 - [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1c95)
 - [Why Hardcoded Values Are Killing Your Tests](https://dev.to/aragossa/why-hardcoded-values-are-killing-your-tests-313h)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1b26)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-18ia)
-- [Find Your Optimal PostgreSQL Connection Pool Size with k6 Load Testing](https://dev.to/manashjb/find-your-optimal-postgresql-connection-pool-size-with-k6-load-testing-3j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
