@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Raspberry Pi Beginner Projects in Python for 2025](https://dev.to/jordankeurope/top-raspberry-pi-beginner-projects-in-python-for-2025-1pm6)
 - [How to Connect Raspberry Pi to a Monitor in 2025?](https://dev.to/nigelsilonero/how-to-connect-raspberry-pi-to-a-monitor-in-2025-44k7)
 - [The Future of Data Pipelines: How AI Is Redefining ETL Forever](https://dev.to/etloss/the-future-of-data-pipelines-how-ai-is-redefining-etl-forever-5d6h)
 - [Flood Alert: How Sparse Sensing and AI are Saving Cities by Arvind Sundararajan](https://dev.to/arvind_sundararajan/flood-alert-how-sparse-sensing-and-ai-are-saving-cities-by-arvind-sundararajan-380f)
 - [HyperMarkets: Fast, Fair, and Fun Prediction Markets on Hyperliquid Perps](https://dev.to/chrisk824/hypermarkets-fast-fair-and-fun-prediction-markets-on-hyperliquid-perps-2no2)
-- [About Taxum, or why I wrote my own NodeJS Framework](https://dev.to/dasprid/about-taxum-or-why-i-wrote-my-own-nodejs-framework-4bom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
