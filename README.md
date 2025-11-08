@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m Aniruddha Adak, And This Is My YouWare Addiction: 27 Apps In 45 Days &lpar;All Built With Zero Code&rpar;](https://dev.to/aniruddhaadak/im-aniruddha-adak-and-this-is-my-youware-addiction-27-apps-in-45-days-all-built-with-zero-code-c0f)
+- [I’m Aniruddha Adak](https://dev.to/aniruddhaadak/im-aniruddha-adak-op8)
+- [OSD600 Lab 7: Testing](https://dev.to/david_rivera_8d845b35931e/osd600-lab-7-testing-4d5j)
 - [⚙️ Ansible Roles Unleashed: From Ad-Hoc Automation to Production-Grade Cloud Deployments [Week-8] 🚀](https://dev.to/suvrajeet/ansible-roles-unleashed-from-ad-hoc-automation-to-production-grade-cloud-deployments-week-8-41mc)
 - [I Doom-Scrolled Every Viral AI Tweet of 2025 So You Don’t Have To &lpar;100 Posts That Broke My Soul&rpar;](https://dev.to/aniruddhaadak/i-doom-scrolled-every-viral-ai-tweet-of-2025-so-you-dont-have-to-100-posts-that-broke-my-soul-4a8i)
-- [Embeddings y RAG en aplicaciones web](https://dev.to/jeanvittory/embeddings-y-rag-en-aplicaciones-web-5dnm)
-- [I Just Spent 7 Days Stalking Everyone on X Who’s Bold Enough to Say “I’m Building AGI” – These 25 Posts Broke My Brain](https://dev.to/aniruddhaadak/i-just-spent-7-days-stalking-everyone-on-x-whos-bold-enough-to-say-im-building-agi-these-25-9ei)
-- [A must-have for TypeScript fans](https://dev.to/vothanhdat/a-must-have-for-typescript-fans-1l16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
