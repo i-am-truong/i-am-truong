@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A pattern matching DSL for modern C++](https://dev.to/byebyyanogawa/a-pattern-matching-dsl-for-modern-c-2fo1)
-- [Lab: Exploiting LLM APIs with excessive agency](https://dev.to/travondatrack/lab-exploiting-llm-apis-with-excessive-agency-2nmp)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-52a7)
-- [Secure File Sharing Apps: Keeping Your Information Safe Online](https://dev.to/rapidcellphone/secure-file-sharing-apps-keeping-your-information-safe-online-dfd)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-p5e)
+- [CheatSheet: Python for DSA](https://dev.to/itzsrikanth/cheatsheet-python-for-dsa-2g3f)
+- [How Do I Balance It All?](https://dev.to/flexi_dev_4c0ce990523a164/how-do-i-balance-it-all-33bf)
+- [Bug fix release 2.07 for the Perl Distribution Workflow](https://dev.to/jonasbn/bug-fix-release-207-for-the-perl-distribution-workflow-2i86)
+- [What happens when you mix code, creativity, and a live audience?](https://dev.to/pimenta/what-happens-when-you-mix-code-creativity-and-a-live-audience-14f7)
+- [Supabase Functions vs Firebase Cloud Functions — Why we Switched for our Eventra Project](https://dev.to/wurldguy/supabase-functions-vs-firebase-cloud-functions-why-we-switched-for-our-eventra-project-230m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
