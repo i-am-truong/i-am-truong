@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration](https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69)
-- [Dear Devs, This Is a Call to All of Us 💻❤️](https://dev.to/velora_tech_cbfb10dd9eede/dear-devs-this-is-a-call-to-all-of-us-4blp)
-- [たった1枚の引き伸ばされた画像から、AWS Lambdaのコード移行とCI/CD構築に至った話](https://dev.to/kaziusan/tatuta1mei-noyin-kishen-basaretahua-xiang-kara-aws-lambdanokodoyi-xing-tocicdgou-zhu-nizhi-tutahua-252p)
-- [Building a Mini Build System in Go: Understanding How Bazel Works Under the Hood](https://dev.to/tmwakalasya/building-a-mini-build-system-in-go-understanding-how-bazel-works-under-the-hood-3gp6)
-- [Title: The Rise and Fall of ChatGPT: A Tech-Savvy Perspective](https://dev.to/yagyaraj_sharma_6cd410179/title-the-rise-and-fall-of-chatgpt-a-tech-savvy-perspective-600)
+- [Inside My AI Workflow: How I Get Real Work Done With Prompts](https://dev.to/jaideepparashar/inside-my-ai-workflow-how-i-get-real-work-done-with-prompts-2k3m)
+- [Why it&#39;s time to ditch UUIDv4 and switch to UUIDv7!](https://dev.to/pierre/why-its-time-to-ditch-uuidv4-and-switch-to-uuidv7-2078)
+- [From Manual Testing to AI Agents: A 90-Day Transformation Roadmap](https://dev.to/qa-leaders/from-manual-testing-to-ai-agents-a-90-day-transformation-roadmap-46l1)
+- [role and permission package for Laravel 11/12](https://dev.to/saeedvir/role-and-permission-package-for-laravel-1112-2gcn)
+- [high-performance shopping cart package](https://dev.to/saeedvir/high-performance-shopping-cart-package-10km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
