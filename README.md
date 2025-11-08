@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Laravel Eloquent Secrets That Will Make You a Better Developer](https://dev.to/hussien_code_fe8e965f770e/5-laravel-eloquent-secrets-that-will-make-you-a-better-developer-2g75)
-- [DataDog Interview Experience | Full Review from Coding to System Design](https://dev.to/net_programhelp_e160eef28/datadog-interview-experience-full-review-from-coding-to-system-design-2572)
-- [Rust Traits and Generics: Build Flexible Code Without Runtime Overhead](https://dev.to/aaravjoshi/rust-traits-and-generics-build-flexible-code-without-runtime-overhead-3o1n)
-- [🫱🏾‍🫲 Quality Experience: How to Introduce QA Practices to Your Organization](https://dev.to/jmosley/quality-experience-how-to-introduce-qa-practices-to-your-organization-1dg9)
-- [The 5 Steps of Threat Modeling in a Startup](https://dev.to/ccscaesar/the-5-steps-of-threat-modeling-in-a-startup-9e)
+- [Series Week 7/52 - Optimizing Database Performance with a Managed Model](https://dev.to/nabhaas/series-week-752-optimizing-database-performance-with-a-managed-model-30oc)
+- [Unlocking Developer Revenue: Dual-Earning Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-dual-earning-strategies-for-llm-apps-with-monetzly-1029)
+- [Unlocking Out-of-Distribution Generalization in Transformers via RecursiveLatent Space Reasoning](https://dev.to/paperium/unlocking-out-of-distribution-generalization-in-transformers-via-recursivelatent-space-reasoning-3cc5)
+- [Why Your AI Workflow Design Might Be Overcomplicated](https://dev.to/lofcz/why-your-ai-workflow-design-might-be-overcomplicated-1hfb)
+- [Azure DevOps Nedir ?](https://dev.to/suleymanakturk/azure-devops-nedir--2jjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
