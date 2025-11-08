@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EU Softens the AI Act — Innovation Boost or Ethics Time Bomb?](https://dev.to/adithyasrivatsa/eu-softens-the-ai-act-innovation-boost-or-ethics-time-bomb-1boi)
 - [Similarities Between a Stored Procedure in SQL and a Function in Python](https://dev.to/sharon_ndubai_a6603703f2f/similarities-between-a-stored-procedure-in-sql-and-a-function-in-python-3ijh)
 - [Performance Optimization for JS](https://dev.to/godofgeeks/performance-optimization-for-js-1fc7)
-- [BigCommerce Shines with 24 Awards in the 2025 Paradigm B2B Combine for Mid-Market and Enterprise](https://dev.to/danyelle09/bigcommerce-shines-with-24-awards-in-the-2025-paradigm-b2b-combine-for-mid-market-and-enterprise-1olh)
 - [Figma to IDE MCP integration in 2 minutes](https://dev.to/yardenporat/figma-to-ide-integration-in-2-minutes-533i)
-- [Day 11 : C++ Language | String Concatenation | Part -2](https://dev.to/mehfila_parkkulthil_23/day-11-c-language-string-concatenation-part-2-219o)
+- [Subarray Problem Types](https://dev.to/zeeshanali0704/subarray-problem-types-47l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
