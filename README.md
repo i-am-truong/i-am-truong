@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First MCP Server: A Practical Guide](https://dev.to/raghavajoijode/building-your-first-mcp-server-a-practical-guide-2gd3)
-- [WTF is Streaming Data Integration?](https://dev.to/dailybugle33/wtf-is-streaming-data-integration-51od)
-- [💬 Real-Time Magic: How to Build Live Chat Applications with WebSockets and Socket.io](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-magic-how-to-build-live-chat-applications-with-websockets-and-socketio-4o32)
-- [The file system rabbit hole: Building FSWatcher in Go](https://dev.to/asoseil/the-file-system-rabbit-hole-building-fswatcher-in-go-136o)
-- [CSS Made Simple: Design Stunning Web Pages](https://dev.to/suraj_kumar_fb57ae0928df2/css-made-simple-design-stunning-web-pages-1ddn)
+- [I wrestled AppSync WebSockets for 4 hours so you don’t have to &lpar;React + GraphQL Subscriptions&rpar;](https://dev.to/manikandan_v_549bdba6219b/i-wrestled-appsync-websockets-for-4-hours-so-you-dont-have-to-react-graphql-subscriptions-obi)
+- [I wrestled AppSync WebSockets for 4 hours so you don’t have to &lpar;React + GraphQL Subscriptions&rpar;](https://dev.to/manikandan_v_549bdba6219b/i-wrestled-appsync-websockets-for-4-hours-so-you-dont-have-to-react-graphql-subscriptions-m8l)
+- [Why Complementary Skills Matter in Co-Founding](https://dev.to/jean_chou_b0a8ad9c32addbd/why-complementary-skills-matter-in-co-founding-3kjl)
+- [Book review: “Build a DeepSeek Model &lpar;From Scratch&rpar;”](https://dev.to/aairom/book-review-build-a-deepseek-model-from-scratch-5gk5)
+- [Outil de Cybersécurité du Jour - Nov 8, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-8-2025-2jae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
