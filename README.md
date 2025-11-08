@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [I Doom-Scrolled Every Viral AI Tweet of 2025 So You Don’t Have To &lpar;100 Posts That Broke My Soul&rpar;](https://dev.to/aniruddhaadak/i-doom-scrolled-every-viral-ai-tweet-of-2025-so-you-dont-have-to-100-posts-that-broke-my-soul-4a8i)
 - [Embeddings y RAG en aplicaciones web](https://dev.to/jeanvittory/embeddings-y-rag-en-aplicaciones-web-5dnm)
 - [I Just Spent 7 Days Stalking Everyone on X Who’s Bold Enough to Say “I’m Building AGI” – These 25 Posts Broke My Brain](https://dev.to/aniruddhaadak/i-just-spent-7-days-stalking-everyone-on-x-whos-bold-enough-to-say-im-building-agi-these-25-9ei)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-oo3)
+- [A must-have for TypeScript fans](https://dev.to/vothanhdat/a-must-have-for-typescript-fans-1l16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
