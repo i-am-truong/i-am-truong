@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Line by Line, But HOW Do I Construct A BSP Tree?](https://dev.to/chigbeef_77/line-by-line-but-how-do-i-construct-a-bsp-tree-497n)
+- [🧠 The Ultimate Free JSON Formatter Online — Fast, Secure, and Built for Developers](https://dev.to/sorabh_rohila/the-ultimate-free-json-formatter-online-fast-secure-and-built-for-developers-k16)
+- [Show Us Where you Have Done This Before](https://dev.to/bid_solution/show-us-where-you-have-done-this-before-5fih)
 - [Are Time Tracking Apps the Key to Better Work-Life Balance?](https://dev.to/shaik_sajida_8f474e448d50/are-time-tracking-apps-the-key-to-better-work-life-balance-5ef2)
-- [Building a New York Times Connections Solver with Python](https://dev.to/leonardokaprio/building-a-new-york-times-connections-solver-with-python-5b8j)
-- [How to Set Up an S3 Trigger for Lambda — and Kick Off a Step Functions Workflow](https://dev.to/dhavalmojidra/how-to-set-up-an-s3-trigger-for-lambda-and-kick-off-a-step-functions-workflow-6cj)
-- [Fresh graduate 🎓 Need advice on starting my career. Where do I begin? What should I learn first?](https://dev.to/saam_ahmed_5d4623fb5a4063/fresh-graduate-need-advice-on-starting-my-career-where-do-i-begin-what-should-i-learn-first-hg6)
-- [AI Autopilot for AI: Dynamically Scaling Neural Nets on Edge Devices](https://dev.to/arvind_sundararajan/ai-autopilot-for-ai-dynamically-scaling-neural-nets-on-edge-devices-1d25)
+- [The Proposal Department’s Proposal on How to Make Better Proposals](https://dev.to/bid_solution/the-proposal-departments-proposal-on-how-to-make-better-proposals-3dmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
