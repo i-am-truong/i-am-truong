@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [About Taxum, or why I wrote my own NodeJS Framework](https://dev.to/dasprid/about-taxum-or-why-i-wrote-my-own-nodejs-framework-4bom)
+- [I Built a VS Code Extension to Stop the Copy-Paste Madness](https://dev.to/couimet/i-built-a-vs-code-extension-to-stop-the-copy-paste-madness-3d7l)
+- [Coding Challenge Practice - Question 49](https://dev.to/tomivan/coding-challenge-practice-question-49-4k46)
 - [Best iPhone Camera in 2026: Which Model Wins? reviews by Tech.Feastloom](https://dev.to/clevertech88/best-iphone-camera-in-2026-which-model-wins-3i8i)
 - [Agentic Bitcoin24](https://dev.to/nadinev/agentic-bitcoin24-3946)
-- [Headless Commerce in 2025: Revolution or Marketing Hype?](https://dev.to/elogic_commerce/headless-commerce-in-2025-revolution-or-marketing-hype-27dk)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1c95)
-- [Why Hardcoded Values Are Killing Your Tests](https://dev.to/aragossa/why-hardcoded-values-are-killing-your-tests-313h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
