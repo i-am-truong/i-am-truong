@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel ViewSynthesis](https://dev.to/paperium/scas4d-structural-cascaded-optimization-for-boosting-persistent-4d-novel-viewsynthesis-47ok)
-- [Why the Web cannot beat Screen.Studio!](https://dev.to/sachindas246/why-the-web-cannot-beat-screenstudio-40kl)
-- [Data Cleaning Challenge with Pandas &lpar;Google Colab&rpar;](https://dev.to/abhishek_nm_d45c9eb975fe/data-cleaning-challenge-with-pandas-google-colab-4pfa)
-- [💻 *10 Habits That Make You a Better Programmer* 🚀👨‍💻](https://dev.to/ssekabirarobertsims/10-habits-that-make-you-a-better-programmer-2elh)
-- [Migrating from RxJS to Angular Signals — A Real-World Perspective from a Frontend Lead](https://dev.to/amrita_16030702/migrating-from-rxjs-to-angular-signals-a-real-world-perspective-from-a-frontend-lead-dg8)
+- [Build a Modern Contact Us Page with Next.js + Tailwind CSS &lpar;Component-Based + SEO-Ready&rpar;](https://dev.to/mina_golzari_dalir/build-a-modern-contact-us-page-with-nextjs-tailwind-css-component-based-seo-ready-3jc3)
+- [Número por Extenso: Conversor Online Grátis](https://dev.to/fellipp_mota_55cd042f/o-desafio-surpreendente-de-converter-numeros-em-texto-por-extenso-e-como-resolve-lo-21d1)
+- [How To Create A Storage For A Public Website](https://dev.to/akintoye_gbenga/how-to-create-a-storage-for-a-public-website-440d)
+- [TUF: A Terminal UI for UFW Enhancing Firewall Management](https://dev.to/stelixx-insider/tuf-a-terminal-ui-for-ufw-enhancing-firewall-management-29mi)
+- [Wails as Electron Alternative](https://dev.to/kartik_patel/wails-as-electron-alternative-4dmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
