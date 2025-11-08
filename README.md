@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HyperMarkets: Fast, Fair, and Fun Prediction Markets on Hyperliquid Perps](https://dev.to/chrisk824/hypermarkets-fast-fair-and-fun-prediction-markets-on-hyperliquid-perps-2no2)
 - [About Taxum, or why I wrote my own NodeJS Framework](https://dev.to/dasprid/about-taxum-or-why-i-wrote-my-own-nodejs-framework-4bom)
 - [I Built a VS Code Extension to Stop the Copy-Paste Madness](https://dev.to/couimet/i-built-a-vs-code-extension-to-stop-the-copy-paste-madness-3d7l)
 - [Coding Challenge Practice - Question 49](https://dev.to/tomivan/coding-challenge-practice-question-49-4k46)
 - [Best iPhone Camera in 2026: Which Model Wins? reviews by Tech.Feastloom](https://dev.to/clevertech88/best-iphone-camera-in-2026-which-model-wins-3i8i)
-- [Agentic Bitcoin24](https://dev.to/nadinev/agentic-bitcoin24-3946)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
