@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring and Enabling fail2ban to mitigate Wordpress authentication theft with Debian 12](https://dev.to/tb-development/configuring-and-enabling-fail2ban-to-mitigate-wordpress-authentication-theft-with-debian-12-f52)
 - [JavaScript Ternary Operator](https://dev.to/megdiv/javascript-ternary-operator-kmo)
 - [Crushing IR-Drop: How Smart Software is Revolutionizing AI Hardware Performance](https://dev.to/arvind_sundararajan/crushing-ir-drop-how-smart-software-is-revolutionizing-ai-hardware-performance-1k6a)
-- [Posso Cancelar a Portabilidade de Energia e Voltar? Guia Completo](https://dev.to/ava_mendes/posso-cancelar-a-portabilidade-de-energia-e-voltar-guia-completo-184g)
 - [Traditional art is shifting, not disappearing](https://dev.to/rapidsingularity/traditional-art-is-shifting-not-disappearing-i42)
-- [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://dev.to/paperium/nano3d-a-training-free-approach-for-efficient-3d-editing-without-masks-2g8a)
+- [How to create and publish your own packages on Packagist](https://dev.to/xxzeroxx/how-to-create-and-publish-your-own-packages-on-packagist-2ho3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
