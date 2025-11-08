@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nugget iOS - I tried this on my iPhone](https://dev.to/mactechschool/nugget-ios-i-tried-this-on-my-iphone-415b)
+- [How much smaller are NixNG container images compared to NixOS, really?](https://dev.to/m15a/how-much-smaller-are-nixng-container-images-compared-to-nixos-really-57k9)
 - [Important CNC Tools Every Workshop Should Know](https://dev.to/sumitjaibros/important-cnc-tools-every-workshop-should-know-3h5g)
 - [Quantum-Resistant Federated Learning with Homomorphic Encryption for Cross-Silo Medical AI Systems](https://dev.to/rikinptl/quantum-resistant-federated-learning-with-homomorphic-encryption-for-cross-silo-medical-ai-systems-1hgl)
 - [Master Express JS: A Complete Guide for Beginners | Tpoint Tech](https://dev.to/tpointtechblog/master-express-js-a-complete-guide-for-beginners-tpoint-tech-gge)
-- [I wrestled AppSync WebSockets for 4 hours so you don’t have to &lpar;React + GraphQL Subscriptions&rpar;](https://dev.to/manikandan_v_549bdba6219b/i-wrestled-appsync-websockets-for-4-hours-so-you-dont-have-to-react-graphql-subscriptions-obi)
-- [I wrestled AppSync WebSockets for 4 hours so you don’t have to &lpar;React + GraphQL Subscriptions&rpar;](https://dev.to/manikandan_v_549bdba6219b/i-wrestled-appsync-websockets-for-4-hours-so-you-dont-have-to-react-graphql-subscriptions-m8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
