@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML Entity Encoder — The Superhero That Saves Your Code From Breaking! 🦸‍♂️💻](https://dev.to/akashbijwe/html-entity-encoder-the-superhero-that-saves-your-code-from-breaking-4moe)
+- [Writing Your First Compiler - Part 6: Extending the Language](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-6-extending-the-language-4e25)
+- [Base64 Encoder — Wrap Your Data in a Cozy Little Blanket 🕵️‍♂️🧣](https://dev.to/akashbijwe/base64-encoder-wrap-your-data-in-a-cozy-little-blanket-3o9n)
 - [Common Manual Testing Techniques](https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp)
 - [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43)
-- [🚀 Google &amp; SpaceX Are Building AI Datacenters in Space — Nvidia Hits $5 Trillion](https://dev.to/aivanguard/google-spacex-are-building-ai-datacenters-in-space-nvidia-hits-5-trillion-pnf)
-- [Exploring NoSQL Data Analysis: A Practical Study Using a Kaggle Dataset](https://dev.to/jayanth_anbu_28041adad45b/exploring-nosql-data-analysis-a-practical-study-using-a-kaggle-dataset-1fgn)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-anj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
