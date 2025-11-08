@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Interfacing with Wasm from Kotlin](https://dev.to/charlietap/interfacing-with-wasm-from-kotlin-2k2c)
 - [I Built an Open-Source SDK to Use Any LLM Provider. Get Started in 2 Minutes.](https://dev.to/undiluted7027/i-built-an-open-source-sdk-to-use-any-llm-provider-get-started-in-2-minutes-3nhg)
 - [SSE in WebForms Core 2 – Real-Time Server-to-Client Communication](https://dev.to/elanatframework/sse-in-webforms-core-2-real-time-server-to-client-communication-fc7)
 - [Building Efficient Stream Processing Pipelines with Backpressure Control in Golang](https://dev.to/aaravjoshi/building-efficient-stream-processing-pipelines-with-backpressure-control-in-golang-549a)
 - [I wrote the guide I wish I had on my journey from junior/mid-level to senior coder. 30 proven lessons to level up your coding skills: Googling, debugging, clear communication, and 27 more... &lpar;Just for this launch week, pay what you want&rpar;](https://dev.to/canro91/i-wrote-the-guide-i-wish-i-had-on-my-journey-from-juniormid-level-to-senior-coder-30-proven-2l6)
-- [CS College Students Tries Real OS &lpar;Omarchy btw&rpar;](https://dev.to/pxtrik/cs-college-students-tries-real-os-omarchy-btw-5816)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
