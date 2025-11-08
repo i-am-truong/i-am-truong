@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Your First MCP Server: A Practical Guide](https://dev.to/raghavajoijode/building-your-first-mcp-server-a-practical-guide-2gd3)
+- [WTF is Streaming Data Integration?](https://dev.to/dailybugle33/wtf-is-streaming-data-integration-51od)
+- [💬 Real-Time Magic: How to Build Live Chat Applications with WebSockets and Socket.io](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-magic-how-to-build-live-chat-applications-with-websockets-and-socketio-4o32)
 - [The file system rabbit hole: Building FSWatcher in Go](https://dev.to/asoseil/the-file-system-rabbit-hole-building-fswatcher-in-go-136o)
-- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-2-3d6e)
-- [Invisible Gatekeepers: How America Really Decides Who Gets Ahead](https://dev.to/bibimbop123/invisible-gatekeepers-how-america-really-decides-who-gets-ahead-42c6)
-- [How To Create a CloudWatch Alarm for CPU Utilization](https://dev.to/thukhakyawe_cloud/how-to-create-a-cloudwatch-alarm-for-cpu-utilization-mmn)
-- [Ethics in AI Programming: Ensuring Fair and Transparent Algorithms](https://dev.to/softwaredeveloperhub01/ethics-in-ai-programming-ensuring-fair-and-transparent-algorithms-4f7l)
+- [CSS Made Simple: Design Stunning Web Pages](https://dev.to/suraj_kumar_fb57ae0928df2/css-made-simple-design-stunning-web-pages-1ddn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
