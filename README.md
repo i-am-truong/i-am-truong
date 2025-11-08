@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From DataWareHouses to BigData Systems: What and Why - Questions that nobody asks, but you should!](https://dev.to/denuggets/from-datawarehouses-to-bigdata-systems-what-and-why-questions-that-nobody-asks-but-you-should-4556)
+- [How to Value a Small Business: Your Guide to Smart Acquisitions](https://dev.to/laoli_lantian_ef2d5d83ae8/how-to-value-a-small-business-your-guide-to-smart-acquisitions-200m)
+- [The App You Trust Most Is the One That Spies the Hardest](https://dev.to/sagar_sajwan_a91beb41c861/the-app-you-trust-most-is-the-one-that-spies-the-hardest-poh)
 - [HTML Entity Encoder — The Superhero That Saves Your Code From Breaking! 🦸‍♂️💻](https://dev.to/akashbijwe/html-entity-encoder-the-superhero-that-saves-your-code-from-breaking-4moe)
-- [Writing Your First Compiler - Part 6: Extending the Language](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-6-extending-the-language-4e25)
-- [Base64 Encoder — Wrap Your Data in a Cozy Little Blanket 🕵️‍♂️🧣](https://dev.to/akashbijwe/base64-encoder-wrap-your-data-in-a-cozy-little-blanket-3o9n)
-- [Common Manual Testing Techniques](https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43)
+- [CDG Hoodie: The Perfect Blend of Streetwear and High Fashion](https://dev.to/comme_desgarcons_9c0e51d/cdg-hoodie-the-perfect-blend-of-streetwear-and-high-fashion-4fk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
