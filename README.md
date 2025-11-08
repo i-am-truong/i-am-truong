@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/cherryramatis/-33i0)
 - [🧠🚀 Announcing helper-utils-ts — A Lightweight Utility Library for Clean Value Checks](https://dev.to/srinidhianand/announcing-helper-utils-ts-a-lightweight-utility-library-for-clean-value-checks-5e7f)
 - [Introduction to MLOps](https://dev.to/anusha_kuppili/introduction-to-mlops-3inc)
 - [Introduction to MLOps | Complete End-to-End Guide](https://dev.to/anusha_kuppili/introduction-to-mlops-complete-end-to-end-guide-17e0)
 - [Can You Experience the Beas Kund Trek on a Budget?](https://dev.to/md_tasin_796ae00572dbbd80/can-you-experience-the-beas-kund-trek-on-a-budget-l1d)
-- [That €15,000 Contract Mistake? It Started with a Single Word Change](https://dev.to/tracksimple/that-eu15000-contract-mistake-it-started-with-a-single-word-change-3nge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
