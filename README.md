@@ -119,9 +119,9 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The file system rabbit hole: Building FSWatcher in Go](https://dev.to/asoseil/the-file-system-rabbit-hole-building-fswatcher-in-go-136o)
 - [AltSchool Of Engineering Tinyuka’24 Month 9 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-2-3d6e)
 - [Invisible Gatekeepers: How America Really Decides Who Gets Ahead](https://dev.to/bibimbop123/invisible-gatekeepers-how-america-really-decides-who-gets-ahead-42c6)
-- [Invisible Gatekeepers: How America Really Decides Who Gets Ahead](https://dev.to/bibimbop123/invisible-gatekeepers-how-america-really-decides-who-gets-ahead-45c2)
 - [How To Create a CloudWatch Alarm for CPU Utilization](https://dev.to/thukhakyawe_cloud/how-to-create-a-cloudwatch-alarm-for-cpu-utilization-mmn)
 - [Ethics in AI Programming: Ensuring Fair and Transparent Algorithms](https://dev.to/softwaredeveloperhub01/ethics-in-ai-programming-ensuring-fair-and-transparent-algorithms-4f7l)
 <!-- BLOG-POST-LIST:END -->
