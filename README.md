@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python Async Patterns: A Comprehensive Guide](https://dev.to/ravidasari/understanding-python-async-patterns-a-comprehensive-guide-1a6h)
-- [🖥️ Step-by-Step Guide: Creating &amp; Connecting to an Azure Virtual Machine](https://dev.to/ottah_chukwuebuka/step-by-step-guide-creating-connecting-to-an-azure-virtual-machine-2218)
-- [🎃 Spooky Season is Here – A Halloween Landing Page Experience](https://dev.to/nitinyadav2455/spooky-season-is-here-a-halloween-landing-page-experience-3kil)
-- [Why We Can&#39;t STOP AI Singularity? The Looming Future of Artificial Intelligence](https://dev.to/aniruddhaadak/why-we-cant-stop-ai-singularity-the-looming-future-of-artificial-intelligence-2llm)
-- [Beyond Regex A Developer&#39;s 5-Step Playbook for Smart Ticket Triage](https://dev.to/michaelaiglobal/beyond-regex-a-developers-5-step-playbook-for-smart-ticket-triage-2721)
+- [Who wants to build an admin UI? Part 2 &lpar;Custom Field Editors&rpar;](https://dev.to/aaronblondeau/who-wants-to-build-an-admin-ui-part-2-custom-field-editors-4eob)
+- [Laravel Models, Migrations, &amp; Relationships: Setting Up The &#39;Post&#39; Feature](https://dev.to/nelson_orina_a538ba52e9ed/laravel-models-migrations-relationships-setting-up-the-post-feature-4i7)
+- [Offline Souls, Online Noise &lpar;Dead Internet&rpar; PART 1](https://dev.to/cir9akovic/offline-souls-online-noise-dead-internet-2a65)
+- [Understanding Preload and Stylesheet Links for Faster CSS Loading](https://dev.to/rijultp/understanding-preload-and-stylesheet-links-for-faster-css-loading-4lng)
+- [Understanding the Logic Behind Two Sum — and Extending It to Three Sum](https://dev.to/we_are_broken_compilers/understanding-the-logic-behind-two-sum-and-extending-it-to-three-sum-838)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
