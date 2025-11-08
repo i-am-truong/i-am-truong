@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Launching Your AI Agent on AWS: Bedrock, Lambda &amp; API Gateway](https://dev.to/sergio_esteban_6e7e3ce4e1/ai-agent-on-aws-bedrock-lambda-api-gateway-3cak)
-- [🚀 Building an Express.js API for the Amazon Scraper](https://dev.to/abdullah_ahmed_76eb910dac/building-an-expressjs-api-for-the-amazon-scraper-20eg)
-- [&quot;EnvSecOp: Nix, Recognized: The Strongest Bag Wins&quot;](https://dev.to/jl03/envsecop-nix-recognized-the-strongest-bag-wins-20nm)
-- [“Night of Code &amp; Vibes”: My Techy Halloween Landing Page](https://dev.to/the_duchess_of_hackers/night-of-code-vibes-my-techy-halloween-landing-page-2gd4)
-- [Qwen Image Base Model Training vs FLUX SRPO Training 20 images comparison](https://dev.to/furkangozukara/qwen-image-base-model-training-vs-flux-srpo-training-20-images-comparison-3665)
+- [Rust Traits and Generics: Build Flexible Code Without Runtime Overhead](https://dev.to/aaravjoshi/rust-traits-and-generics-build-flexible-code-without-runtime-overhead-3o1n)
+- [🫱🏾‍🫲 Quality Experience: How to Introduce QA Practices to Your Organization](https://dev.to/jmosley/quality-experience-how-to-introduce-qa-practices-to-your-organization-1dg9)
+- [The 5 Steps of Threat Modeling in a Startup](https://dev.to/ccscaesar/the-5-steps-of-threat-modeling-in-a-startup-9e)
+- [YouTube Removes Windows 11 Bypass Tutorials, Claims &#39;Risk of Physical Harm&#39;](https://dev.to/technoblogger14o3/youtube-removes-windows-11-bypass-tutorials-claims-risk-of-physical-harm-58n6)
+- [Browser Automation Workflows with Playwright MCP and JavaScript](https://dev.to/shada_daab/browser-automation-workflows-with-playwright-mcp-and-javascript-2n1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
