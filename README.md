@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Who wants to build an admin UI? Part 2 &lpar;Custom Field Editors&rpar;](https://dev.to/aaronblondeau/who-wants-to-build-an-admin-ui-part-2-custom-field-editors-4eob)
-- [Laravel Models, Migrations, &amp; Relationships: Setting Up The &#39;Post&#39; Feature](https://dev.to/nelson_orina_a538ba52e9ed/laravel-models-migrations-relationships-setting-up-the-post-feature-4i7)
-- [Offline Souls, Online Noise &lpar;Dead Internet&rpar; PART 1](https://dev.to/cir9akovic/offline-souls-online-noise-dead-internet-2a65)
-- [Understanding Preload and Stylesheet Links for Faster CSS Loading](https://dev.to/rijultp/understanding-preload-and-stylesheet-links-for-faster-css-loading-4lng)
-- [Understanding the Logic Behind Two Sum — and Extending It to Three Sum](https://dev.to/we_are_broken_compilers/understanding-the-logic-behind-two-sum-and-extending-it-to-three-sum-838)
+- [New modern stack for fullstack apps](https://dev.to/is_bik/new-modern-stack-for-fullstack-apps-3jei)
+- [Docker Was Blocked on My macOS Machine, but I Found an Unexpected Way Around It](https://dev.to/lovestaco/docker-was-blocked-on-my-macos-machine-but-i-found-an-unexpected-way-around-it-1i8i)
+- [When the Internet Sleeps 💤 : BitChat — The Offline Messenger That Promises Freedom &lpar;and Carries Risks&rpar; ☢️ OR 🍩](https://dev.to/thebitforge/when-the-internet-sleeps-bitchat-the-offline-messenger-that-promises-freedom-and-carries-j0)
+- [Experimental Results on Goldbach&#39;s Conjecture](https://dev.to/frank_vega_987689489099bf/experimental-results-on-goldbachs-conjecture-3579)
+- [Real-Time Chart Updates: Using WebSockets To Build Live Dashboards](https://dev.to/byte-sized-news/real-time-chart-updates-using-websockets-to-build-live-dashboards-3hml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
