@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup Raspberry Pi Camera Module 3 on Ubuntu 24.04](https://dev.to/minindu_pasan_8f0e03c1063/how-to-setup-raspberry-pi-camera-module-3-on-ubuntu-2404-4pme)
+- [Building an Event-Driven Architecture on AWS Using EventBridge and SNS for EC2 State Notifications](https://dev.to/marviecodes/building-an-event-driven-architecture-on-aws-using-eventbridge-and-sns-for-ec2-state-notifications-4jmn)
 - [Introducing TOON for Laravel — A Smarter, Token-Efficient Way to Talk to AI](https://dev.to/sbsaga/introducing-toon-for-laravel-a-smarter-token-efficient-way-to-talk-to-ai-36a3)
 - [How to Use Google Drive to Host Your Website](https://dev.to/rezapurnama/how-to-use-google-drive-to-host-your-website-16f9)
 - [Python Data Model exercise](https://dev.to/bterwijn/python-data-model-exercise-5e2e)
-- [TOON vs JSON: A Modern Data Format Showdown](https://dev.to/sreeni5018/toon-vs-json-a-modern-data-format-showdown-2ooc)
-- [im making a Fortnite/roblox game](https://dev.to/sonic_studios_83686951da/im-making-a-fortniteroblox-game-30no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
