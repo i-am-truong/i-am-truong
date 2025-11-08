@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Configuring and Enabling fail2ban to mitigate Wordpress authentication theft with Debian 12](https://dev.to/tb-development/configuring-and-enabling-fail2ban-to-mitigate-wordpress-authentication-theft-with-debian-12-f52)
-- [JavaScript Ternary Operator](https://dev.to/megdiv/javascript-ternary-operator-kmo)
-- [Crushing IR-Drop: How Smart Software is Revolutionizing AI Hardware Performance](https://dev.to/arvind_sundararajan/crushing-ir-drop-how-smart-software-is-revolutionizing-ai-hardware-performance-1k6a)
-- [Traditional art is shifting, not disappearing](https://dev.to/rapidsingularity/traditional-art-is-shifting-not-disappearing-i42)
-- [How to create and publish your own packages on Packagist](https://dev.to/xxzeroxx/how-to-create-and-publish-your-own-packages-on-packagist-2ho3)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1c95)
+- [Why Hardcoded Values Are Killing Your Tests](https://dev.to/aragossa/why-hardcoded-values-are-killing-your-tests-313h)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1b26)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-18ia)
+- [Find Your Optimal PostgreSQL Connection Pool Size with k6 Load Testing](https://dev.to/manashjb/find-your-optimal-postgresql-connection-pool-size-with-k6-load-testing-3j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
