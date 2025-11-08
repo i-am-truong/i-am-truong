@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Achieving Least Privilege in Docker](https://dev.to/bansikah/achieving-least-privilege-in-docker-33je)
+- [The Evolution and Future of AI Development](https://dev.to/cs_vishnukumar_c7ab67ff18/the-evolution-and-future-of-ai-development-40jp)
 - [[Boost]](https://dev.to/cherryramatis/-33i0)
 - [🤖Building an AI-Powered Digital Receptionist: Automating Business Communication](https://dev.to/inzamam_asghar_a87b39e8df/building-an-ai-powered-digital-receptionist-automating-business-communication-2n6l)
 - [🧠🚀 Announcing helper-utils-ts — A Lightweight Utility Library for Clean Value Checks](https://dev.to/srinidhianand/announcing-helper-utils-ts-a-lightweight-utility-library-for-clean-value-checks-5e7f)
-- [Introduction to MLOps | Complete End-to-End Guide](https://dev.to/anusha_kuppili/introduction-to-mlops-complete-end-to-end-guide-17e0)
-- [Can You Experience the Beas Kund Trek on a Budget?](https://dev.to/md_tasin_796ae00572dbbd80/can-you-experience-the-beas-kund-trek-on-a-budget-l1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
