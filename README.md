@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-2-3d6e)
+- [Invisible Gatekeepers: How America Really Decides Who Gets Ahead](https://dev.to/bibimbop123/invisible-gatekeepers-how-america-really-decides-who-gets-ahead-42c6)
+- [Invisible Gatekeepers: How America Really Decides Who Gets Ahead](https://dev.to/bibimbop123/invisible-gatekeepers-how-america-really-decides-who-gets-ahead-45c2)
+- [How To Create a CloudWatch Alarm for CPU Utilization](https://dev.to/thukhakyawe_cloud/how-to-create-a-cloudwatch-alarm-for-cpu-utilization-mmn)
 - [Ethics in AI Programming: Ensuring Fair and Transparent Algorithms](https://dev.to/softwaredeveloperhub01/ethics-in-ai-programming-ensuring-fair-and-transparent-algorithms-4f7l)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-34mk)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2006)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3fp7)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2ef9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
