@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Laravel Eloquent Secrets That Will Make You a Better Developer](https://dev.to/hussien_code_fe8e965f770e/5-laravel-eloquent-secrets-that-will-make-you-a-better-developer-2g75)
+- [DataDog Interview Experience | Full Review from Coding to System Design](https://dev.to/net_programhelp_e160eef28/datadog-interview-experience-full-review-from-coding-to-system-design-2572)
 - [Rust Traits and Generics: Build Flexible Code Without Runtime Overhead](https://dev.to/aaravjoshi/rust-traits-and-generics-build-flexible-code-without-runtime-overhead-3o1n)
 - [🫱🏾‍🫲 Quality Experience: How to Introduce QA Practices to Your Organization](https://dev.to/jmosley/quality-experience-how-to-introduce-qa-practices-to-your-organization-1dg9)
 - [The 5 Steps of Threat Modeling in a Startup](https://dev.to/ccscaesar/the-5-steps-of-threat-modeling-in-a-startup-9e)
-- [YouTube Removes Windows 11 Bypass Tutorials, Claims &#39;Risk of Physical Harm&#39;](https://dev.to/technoblogger14o3/youtube-removes-windows-11-bypass-tutorials-claims-risk-of-physical-harm-58n6)
-- [Browser Automation Workflows with Playwright MCP and JavaScript](https://dev.to/shada_daab/browser-automation-workflows-with-playwright-mcp-and-javascript-2n1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
