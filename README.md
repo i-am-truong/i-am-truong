@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Figma to IDE MCP integration in 2 minutes](https://dev.to/yardenporat/figma-to-ide-integration-in-2-minutes-533i)
+- [Day 11 : C++ Language | String Concatenation | Part -2](https://dev.to/mehfila_parkkulthil_23/day-11-c-language-string-concatenation-part-2-219o)
 - [From DataWareHouses to BigData Systems: What and Why - Questions that nobody asks, but you should!](https://dev.to/denuggets/from-datawarehouses-to-bigdata-systems-what-and-why-questions-that-nobody-asks-but-you-should-4556)
 - [How to Value a Small Business: Your Guide to Smart Acquisitions](https://dev.to/laoli_lantian_ef2d5d83ae8/how-to-value-a-small-business-your-guide-to-smart-acquisitions-200m)
 - [The App You Trust Most Is the One That Spies the Hardest](https://dev.to/sagar_sajwan_a91beb41c861/the-app-you-trust-most-is-the-one-that-spies-the-hardest-poh)
-- [HTML Entity Encoder — The Superhero That Saves Your Code From Breaking! 🦸‍♂️💻](https://dev.to/akashbijwe/html-entity-encoder-the-superhero-that-saves-your-code-from-breaking-4moe)
-- [CDG Hoodie: The Perfect Blend of Streetwear and High Fashion](https://dev.to/comme_desgarcons_9c0e51d/cdg-hoodie-the-perfect-blend-of-streetwear-and-high-fashion-4fk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
