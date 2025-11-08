@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Event-Driven Batch Processing on AWS: From Scheduled Tasks to Auto-Scaling Workloads](https://dev.to/aws-builders/event-driven-batch-processing-on-aws-from-scheduled-tasks-to-auto-scaling-workloads-20a6)
 - [🧩 React Redux Toolkit — A Beginner’s Guide &lpar;Modern Redux Explained Clearly&rpar;](https://dev.to/vishwark/react-redux-toolkit-a-beginners-guide-modern-redux-explained-clearly-4768)
-- [Documentation Debt](https://dev.to/priyanshi_naghera/documentation-debt-3d10)
-- [Interfacing with Wasm from Kotlin](https://dev.to/charlietap/interfacing-with-wasm-from-kotlin-2k2c)
-- [I Built an Open-Source SDK to Use Any LLM Provider. Get Started in 2 Minutes.](https://dev.to/undiluted7027/i-built-an-open-source-sdk-to-use-any-llm-provider-get-started-in-2-minutes-3nhg)
+- [NumPy Array Operations Challenge: Master Indexing, Slicing, and Binary Operations &lpar;3 Hands-On Labs&rpar;](https://dev.to/labex/numpy-array-operations-challenge-master-indexing-slicing-and-binary-operations-3-hands-on-labs-51g3)
+- [LLMs Talking in Secret: Direct Semantic Links for AI Collaboration by Arvind Sundararajan](https://dev.to/arvind_sundararajan/llms-talking-in-secret-direct-semantic-links-for-ai-collaboration-by-arvind-sundararajan-2kgj)
+- [The Future of Backend Development: How AI, Edge Computing, and Serverless Are Reshaping the Modern API Stack](https://dev.to/ilyasgaraad/the-future-of-backend-development-how-ai-edge-computing-and-serverless-are-reshaping-the-modern-1ppg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
