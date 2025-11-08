@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating Java Streams](https://dev.to/priyankbhardwaj1199/creating-java-streams-1727)
-- [How to Build a Bookstore App with FARM Stack &lpar;FastAPI, React, and MongoDB&rpar;](https://dev.to/masteringbackend/how-to-build-a-bookstore-app-with-farm-stack-fastapi-react-and-mongodb-544j)
-- [Getting started with SQLite using C#/Microsoft Visual Studio](https://dev.to/strangequark/getting-started-with-sqlite-using-cmicrosoft-visual-studio-226p)
-- [Harnessing the Power of Elementor Countdown Widgets: Drive Urgency and Conversions on WordPress](https://dev.to/artarasaneh2025/harnessing-the-power-of-elementor-countdown-widgets-drive-urgency-and-conversions-on-wordpress-29oi)
-- [Why JavaScript Never Adopted RxJS — It Solved a Problem JavaScript Never Had](https://dev.to/ayush_maurya_/why-javascript-never-adopted-rxjs-it-solved-a-problem-javascript-never-had-418o)
+- [🧠🚀 Announcing helper-utils-ts — A Lightweight Utility Library for Clean Value Checks](https://dev.to/srinidhianand/announcing-helper-utils-ts-a-lightweight-utility-library-for-clean-value-checks-5e7f)
+- [Introduction to MLOps](https://dev.to/anusha_kuppili/introduction-to-mlops-3inc)
+- [Introduction to MLOps | Complete End-to-End Guide](https://dev.to/anusha_kuppili/introduction-to-mlops-complete-end-to-end-guide-17e0)
+- [Can You Experience the Beas Kund Trek on a Budget?](https://dev.to/md_tasin_796ae00572dbbd80/can-you-experience-the-beas-kund-trek-on-a-budget-l1d)
+- [That €15,000 Contract Mistake? It Started with a Single Word Change](https://dev.to/tracksimple/that-eu15000-contract-mistake-it-started-with-a-single-word-change-3nge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
