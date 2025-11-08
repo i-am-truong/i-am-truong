@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking AI Monetization: How Developers Can Earn with Dual Revenue Streams](https://dev.to/monetzly/unlocking-ai-monetization-how-developers-can-earn-with-dual-revenue-streams-3p0m)
+- [Les nouveaux systèmes de génération IA créative : entre automatisation et précision visuelle](https://dev.to/face_swap_ia_tech/les-nouveaux-systemes-de-generation-ia-creative-entre-automatisation-et-precision-visuelle-1o53)
+- [[Boost]](https://dev.to/windmateus/-ifj)
+- [Unit testing for my CLI tool](https://dev.to/slyang08/unit-testing-for-my-cli-tool-59al)
 - [SafeMigrate: Never Fear Database Migrations Again with AI Agents](https://dev.to/depapp/safemigrate-never-fear-database-migrations-again-with-ai-agents-2aon)
-- [Build A Watch Option for TypeScript Runtime in Rust](https://dev.to/whyang9701/build-a-watch-option-for-typescript-runtime-in-rust-1if1)
-- [The JVM’s Greatest Irony: Brilliant Engineering, Painful Scripting](https://dev.to/anand_jaisy_2f7644a12001b/scripting-in-java-nightmare-2pnj)
-- [Writing and running End-to-End Tests in Autotools](https://dev.to/pauljlucas/writing-and-running-end-to-end-tests-in-autotools-1fm7)
-- [Setting Up Testing for My CLI Tool](https://dev.to/aubreyddd/setting-up-testing-for-my-cli-tool-33j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
