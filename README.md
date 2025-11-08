@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A pattern matching DSL for modern C++](https://dev.to/byebyyanogawa/a-pattern-matching-dsl-for-modern-c-2fo1)
+- [Lab: Exploiting LLM APIs with excessive agency](https://dev.to/travondatrack/lab-exploiting-llm-apis-with-excessive-agency-2nmp)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-52a7)
+- [Secure File Sharing Apps: Keeping Your Information Safe Online](https://dev.to/rapidcellphone/secure-file-sharing-apps-keeping-your-information-safe-online-dfd)
 - [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-p5e)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-195c)
-- [More Than Skills: The Human Traits That Build Great Teams](https://dev.to/dobrenteiistvan/more-than-skills-the-human-traits-that-build-great-teams-1bfm)
-- [Nugget iOS - I tried this on my iPhone](https://dev.to/mactechschool/nugget-ios-i-tried-this-on-my-iphone-415b)
-- [How much smaller are NixNG container images compared to NixOS, really?](https://dev.to/m15a/how-much-smaller-are-nixng-container-images-compared-to-nixos-really-57k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
