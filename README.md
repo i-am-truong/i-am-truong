@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside My AI Workflow: How I Get Real Work Done With Prompts](https://dev.to/jaideepparashar/inside-my-ai-workflow-how-i-get-real-work-done-with-prompts-2k3m)
-- [Why it&#39;s time to ditch UUIDv4 and switch to UUIDv7!](https://dev.to/pierre/why-its-time-to-ditch-uuidv4-and-switch-to-uuidv7-2078)
-- [From Manual Testing to AI Agents: A 90-Day Transformation Roadmap](https://dev.to/qa-leaders/from-manual-testing-to-ai-agents-a-90-day-transformation-roadmap-46l1)
-- [role and permission package for Laravel 11/12](https://dev.to/saeedvir/role-and-permission-package-for-laravel-1112-2gcn)
-- [high-performance shopping cart package](https://dev.to/saeedvir/high-performance-shopping-cart-package-10km)
+- [SafeMigrate: Never Fear Database Migrations Again with AI Agents](https://dev.to/depapp/safemigrate-never-fear-database-migrations-again-with-ai-agents-2aon)
+- [Build A Watch Option for TypeScript Runtime in Rust](https://dev.to/whyang9701/build-a-watch-option-for-typescript-runtime-in-rust-1if1)
+- [The JVM’s Greatest Irony: Brilliant Engineering, Painful Scripting](https://dev.to/anand_jaisy_2f7644a12001b/scripting-in-java-nightmare-2pnj)
+- [Writing and running End-to-End Tests in Autotools](https://dev.to/pauljlucas/writing-and-running-end-to-end-tests-in-autotools-1fm7)
+- [Setting Up Testing for My CLI Tool](https://dev.to/aubreyddd/setting-up-testing-for-my-cli-tool-33j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
