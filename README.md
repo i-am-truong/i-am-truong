@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Batch Processing on AWS: From Scheduled Tasks to Auto-Scaling Workloads](https://dev.to/aws-builders/event-driven-batch-processing-on-aws-from-scheduled-tasks-to-auto-scaling-workloads-20a6)
-- [🧩 React Redux Toolkit — A Beginner’s Guide &lpar;Modern Redux Explained Clearly&rpar;](https://dev.to/vishwark/react-redux-toolkit-a-beginners-guide-modern-redux-explained-clearly-4768)
-- [LLMs Talking in Secret: Direct Semantic Links for AI Collaboration by Arvind Sundararajan](https://dev.to/arvind_sundararajan/llms-talking-in-secret-direct-semantic-links-for-ai-collaboration-by-arvind-sundararajan-2kgj)
-- [The Future of Backend Development: How AI, Edge Computing, and Serverless Are Reshaping the Modern API Stack](https://dev.to/ilyasgaraad/the-future-of-backend-development-how-ai-edge-computing-and-serverless-are-reshaping-the-modern-1ppg)
-- [Documentation Debt](https://dev.to/priyanshi_naghera/documentation-debt-3d10)
+- [Understanding Python Async Patterns: A Comprehensive Guide](https://dev.to/ravidasari/understanding-python-async-patterns-a-comprehensive-guide-1a6h)
+- [🖥️ Step-by-Step Guide: Creating &amp; Connecting to an Azure Virtual Machine](https://dev.to/ottah_chukwuebuka/step-by-step-guide-creating-connecting-to-an-azure-virtual-machine-2218)
+- [🎃 Spooky Season is Here – A Halloween Landing Page Experience](https://dev.to/nitinyadav2455/spooky-season-is-here-a-halloween-landing-page-experience-3kil)
+- [Why We Can&#39;t STOP AI Singularity? The Looming Future of Artificial Intelligence](https://dev.to/aniruddhaadak/why-we-cant-stop-ai-singularity-the-looming-future-of-artificial-intelligence-2llm)
+- [Beyond Regex A Developer&#39;s 5-Step Playbook for Smart Ticket Triage](https://dev.to/michaelaiglobal/beyond-regex-a-developers-5-step-playbook-for-smart-ticket-triage-2721)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
