@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EnvSecOps: What It Actually Is &lpar;And Why DevSecOps Won&#39;t Cut It&rpar;](https://dev.to/jl03/envsecops-what-it-actually-is-and-why-devsecops-wont-cut-it-43nh)
-- [Day 62 of My Data Analytics Journey !](https://dev.to/ramyacse/day-62-of-my-data-analytics-journey--2fi1)
-- [Building a Decision-Making CLI Tool in Rust: &quot;should-i&quot;](https://dev.to/justhiro/building-a-decision-making-cli-tool-in-rust-should-i-3fn3)
-- [Building the Mind’s Eye Hunting Engine — Call for Builders, Dreamers &amp; Systems Thinkers](https://dev.to/peacebinflow/building-the-minds-eye-hunting-engine-call-for-builders-dreamers-systems-thinkers-1op1)
-- [💡 How to Write Better Code](https://dev.to/ivan-zaitsev/how-to-write-better-code-59o7)
+- [Setting Up SonarQube Locally for React Native &amp; MERN Projects](https://dev.to/ajmal_hasan/setting-up-sonarqube-locally-for-react-native-mern-projects-3hgn)
+- [Deploying Local AI Agents In Kubernetes](https://dev.to/thenjdevopsguy/deploying-local-ai-agents-in-kubernetes-3087)
+- [Beyond the Hype: Technologies That Will Outlive the AI Bubble](https://dev.to/araldhafeeri/beyond-the-hype-technologies-that-will-outlive-the-ai-bubble-5eoc)
+- [SemaphoreSlim in .NET, a practical guide with the rest of the toolbox](https://dev.to/stevsharp/semaphoreslim-in-net-a-practical-guide-with-the-rest-of-the-toolbox-1mh7)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-435a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
