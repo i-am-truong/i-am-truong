@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for feedback on something I built for creators](https://dev.to/pauloppereiraa/looking-for-feedback-on-something-i-built-for-creators-4364)
-- [Building Git from Scratch in Go: What I Learned About Version Control Internals](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih)
-- [From TCP Sockets to Thread Pools - Building a Production Grade Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-web-framework-4hl1)
-- [LangGraph: Orchestrating Complex LLM Workflows with State Machines](https://dev.to/aun_aideveloper/langgraph-orchestrating-complex-llm-workflows-with-state-machines-3fo9)
-- [Extract Any Data from PDFs Using AI — Invoices, Tables &amp; More with AIxtract API](https://dev.to/karma_sen_fdfdbe6a5cda221/extract-any-data-from-pdfs-using-ai-invoices-tables-more-with-aixtract-api-7f2)
+- [Agent HQ: Integrating AI Agents Natively into the GitHub Workflow](https://dev.to/stelixx-insider/agent-hq-integrating-ai-agents-natively-into-the-github-workflow-257o)
+- [From Esolang to Numeric Script: Building Formin in Fortran](https://dev.to/capinoldev/from-esolang-to-numeric-script-building-formin-in-fortran-pc9)
+- [Create a Text Editor With Go - Welcome Screen](https://dev.to/alcb1310/create-a-text-editor-with-go-welcome-screen-4hkm)
+- [Alternate reality without open source linux](https://dev.to/shoyeb45/alternate-reality-without-open-source-linux-1fge)
+- [🧹 Data Cleaning Challenge with Pandas &lpar;Google Colab&rpar;](https://dev.to/sujitha_selvaraj_af5010c5/data-cleaning-challenge-with-pandas-google-colab-4558)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
