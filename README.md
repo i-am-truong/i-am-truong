@@ -119,8 +119,8 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular Isn’t Just About Code — It’s About Discipline](https://dev.to/rigole/angular-isnt-just-about-code-its-about-discipline-2k47)
 - [⭐ Scenario #6: Auto-Update ConfigMap Without Restarting the Pod &lpar;Using Volume Mount&rpar;](https://dev.to/latchudevops/scenario-6-auto-update-configmap-without-restarting-the-pod-using-volume-mount-2ggi)
-- [InfiMed-ORBIT: Aligning LLMs on Open-Ended Complex Tasks via Rubric-BasedIncremental Training](https://dev.to/paperium/infimed-orbit-aligning-llms-on-open-ended-complex-tasks-via-rubric-basedincremental-training-1bbl)
 - [Data Visualization with matplotlib &amp; seaborn](https://dev.to/godofgeeks/data-visualization-with-matplotlib-seaborn-ngj)
 - [🚫 Why You Shouldn’t Use Next.js as a Fullstack Framework &lpar;and When You Should&rpar;](https://dev.to/aditya_sharma_e14cafab4af/why-you-shouldnt-use-nextjs-as-a-fullstack-framework-and-when-you-should-49c2)
 - [🚀 The Solo Developer&#39;s Choice: Why I Migrated My Backend from Go to Elixir/Phoenix](https://dev.to/asyncnavi/the-solo-developers-choice-why-i-migrated-my-backend-from-go-to-elixirphoenix-3jf7)
