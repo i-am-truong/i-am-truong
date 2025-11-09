@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Rust Transforms Error Handling: From Crashes to Reliable Software Systems](https://dev.to/aaravjoshi/how-rust-transforms-error-handling-from-crashes-to-reliable-software-systems-3cda)
 - [yourcast! - personalized AI podcast app](https://dev.to/rohan140/yourcast-personalized-ai-podcast-app-3lp4)
 - [From Zero to AI Agent: My 6-Month Journey with LLMs](https://dev.to/lofcz/from-zero-to-ai-agent-my-6-month-journey-with-llms-41a2)
 - [What if 100 agents could optimize your code simultaneously in isolated production environments without copying data?](https://dev.to/vivekjami/what-if-100-agents-could-optimize-your-code-simultaneously-in-isolated-production-environments-4gb4)
 - [Rails 7.1 Framework Defaults 🚧](https://dev.to/hassanahmed/rails-71-framework-defaults-l2f)
-- [From 10 Millions Monthly Orders to Reality: Architecting a Production-Grade E-commerce Platform on Azure Kubernetes](https://dev.to/devaaai/from-30m-daily-orders-to-reality-architecting-a-production-grade-e-commerce-platform-on-azure-2d87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
