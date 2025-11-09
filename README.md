@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on the margins](https://dev.to/rosgluk/notes-on-the-margins-3b2d)
+- [LLMs Talking in Tongues: A New Era of Semantic AI Collaboration?](https://dev.to/arvind_sundararajan/llms-talking-in-tongues-a-new-era-of-semantic-ai-collaboration-8ij)
 - [Building a Scalable Agent-to-Agent &lpar;A2A&rpar; Communication Protocol on AWS](https://dev.to/suraj_khaitan_f893c243958/building-a-scalable-agent-to-agent-a2a-communication-protocol-on-aws-1g0i)
 - [Scenario #2: Multi-container Pod &lpar;Sidecar pattern&rpar; for logging in Kubernetes](https://dev.to/latchudevops/scenario-2-multi-container-pod-sidecar-pattern-for-logging-in-kubernetes-3mj4)
 - [Interpolate a Video from the First and Last Frames with Veo 3.1 and Nano Banana](https://dev.to/railsstudent/interpolate-a-video-from-the-first-and-last-frames-with-veo-31-and-nano-banana-5121)
-- [Application of API Testing Frameworks in Java Introduction](https://dev.to/nicole_lucianarioscohai/application-of-api-testing-frameworks-in-java-introduction-40g6)
-- [Simplifying Prometheus Metrics in Go with prometric-go](https://dev.to/asraful_haque/simplifying-prometheus-metrics-in-go-with-prometric-go-22ef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
