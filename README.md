@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [The Quiet Collapse of $ALTD AltitudeDeFi: A Cautionary Tale of Hype, Silence, and Vanished Hopes](https://dev.to/bitnet4ever/the-quiet-collapse-of-altd-altitudedefi-a-cautionary-tale-of-hype-silence-and-vanished-hopes-386m)
 - [CSS HALLOWEEN ART - by STEFAN DONOSA](https://dev.to/stefan_donosa141714/css-halloween-art-by-stefan-donosa-597c)
 - [Local RAG with Go, Ollama, and Postgres &lpar;pgvector&rpar;: a minimal guide](https://dev.to/francesco_ciannavei_801e8/local-rag-with-go-ollama-and-postgres-pgvector-a-minimal-guide-3d8d)
-- [How to Test Lua Codes in Roblox Studio in 2025?](https://dev.to/anna_golubkova/how-to-test-lua-codes-in-roblox-studio-in-2025-cm4)
-- [PICABench: How Far Are We from Physically Realistic Image Editing?](https://dev.to/paperium/picabench-how-far-are-we-from-physically-realistic-image-editing-4joj)
+- [RAG vs Fine‑Tuning: A Simple, Practical Guide for Beginners](https://dev.to/beginner_007/rag-vs-fine-tuning-a-simple-practical-guide-for-beginners-1peb)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2d81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
