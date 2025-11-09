@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building ClimateSage: An AI-Powered Climate Education Platform](https://dev.to/srikarmk/building-climatesage-an-ai-powered-climate-education-platform-2lcm)
 - [Princípios fundamentais do desenvolvimento de software](https://dev.to/jaksonxavier/principios-fundamentais-do-desenvolvimento-de-software-46a0)
 - [Setting Up a QGIS Plugin Development Environment with Conda and VS Code](https://dev.to/ronitjadhav/setting-up-a-qgis-plugin-development-environment-with-conda-and-vs-code-3fg1)
 - [Why CSS Is So Hard for Generative AIs to Understand?](https://dev.to/asafaeirad/why-css-is-so-hard-for-generative-ais-to-understand-17fo)
 - [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-1g3b)
-- [Building Flipr: a URL shortener, one commit at a time](https://dev.to/edeckers/building-flipr-a-url-shortener-one-commit-at-a-time-gnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
