@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 29 - Add a Loader and Error State](https://dev.to/railsstudent/day-29-add-a-loader-and-error-state-46fl)
+- [Day 28 - Retrieve the Post Author](https://dev.to/railsstudent/day-28-retrieve-the-post-author-3i9j)
+- [Day 27 - Create a simple blog page](https://dev.to/railsstudent/day-27-create-a-simple-blog-page-36i8)
+- [Google NotebookLM: Turn One Interview Prompt Into a Complete Study System](https://dev.to/aiwithapex/google-notebooklm-turn-one-interview-prompt-into-a-complete-study-system-5ej3)
 - [Notes on the margins](https://dev.to/rosgluk/notes-on-the-margins-3b2d)
-- [LLMs Talking in Tongues: A New Era of Semantic AI Collaboration?](https://dev.to/arvind_sundararajan/llms-talking-in-tongues-a-new-era-of-semantic-ai-collaboration-8ij)
-- [Building a Scalable Agent-to-Agent &lpar;A2A&rpar; Communication Protocol on AWS](https://dev.to/suraj_khaitan_f893c243958/building-a-scalable-agent-to-agent-a2a-communication-protocol-on-aws-1g0i)
-- [Scenario #2: Multi-container Pod &lpar;Sidecar pattern&rpar; for logging in Kubernetes](https://dev.to/latchudevops/scenario-2-multi-container-pod-sidecar-pattern-for-logging-in-kubernetes-3mj4)
-- [Interpolate a Video from the First and Last Frames with Veo 3.1 and Nano Banana](https://dev.to/railsstudent/interpolate-a-video-from-the-first-and-last-frames-with-veo-31-and-nano-banana-5121)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
