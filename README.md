@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [✅ Scenario #3: Debugging a Running Container in Kubernetes](https://dev.to/latchudevops/scenario-3-debugging-a-running-container-in-kubernetes-2044)
+- [A Production-Ready Laravel Architecture with Traefik and FrankenPHP](https://dev.to/danielpetrica/a-production-ready-laravel-architecture-with-traefik-and-frankenphp-1led)
+- [Lucro Estratégico — Educação Financeira Que Transforma Conhecimento em Resultados?](https://dev.to/sulababa/lucro-estrategico-educacao-financeira-que-transforma-conhecimento-em-resultados-28p4)
 - [Day 29 - Add a Loader and Error State](https://dev.to/railsstudent/day-29-add-a-loader-and-error-state-46fl)
 - [Day 28 - Retrieve the Post Author](https://dev.to/railsstudent/day-28-retrieve-the-post-author-3i9j)
-- [Day 27 - Create a simple blog page](https://dev.to/railsstudent/day-27-create-a-simple-blog-page-36i8)
-- [Google NotebookLM: Turn One Interview Prompt Into a Complete Study System](https://dev.to/aiwithapex/google-notebooklm-turn-one-interview-prompt-into-a-complete-study-system-5ej3)
-- [Notes on the margins](https://dev.to/rosgluk/notes-on-the-margins-3b2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
