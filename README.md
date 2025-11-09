@@ -122,8 +122,8 @@ Python                   1 repo              █░░░░░░░░░░�
 - [The Case of the Missing Proxy: When Multiple Valtio Instances Broke My App](https://dev.to/heyradcode/the-case-of-the-missing-proxy-when-multiple-valtio-instances-broke-my-app-1ke9)
 - [How I Built a Dynamic Spotify &#39;Now Playing&#39; Banner for My GitHub README using Python and Flask 🐍](https://dev.to/sahooshuvranshu/how-i-built-a-dynamic-spotify-now-playing-banner-for-my-github-readme-using-python-and-flask-3cn1)
 - [A Practical Guide to Structuring Express.js Projects for Scalability and Maintainability](https://dev.to/msnmongare/a-practical-guide-to-structuring-expressjs-projects-for-scalability-and-maintainability-5an4)
-- [Emergent Misalignment via In-Context Learning: Narrow in-context examples canproduce broadly misaligned LLMs](https://dev.to/paperium/emergent-misalignment-via-in-context-learning-narrow-in-context-examples-canproduce-broadly-4p20)
 - [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-28po)
+- [From Student Projects to Real-World Development](https://dev.to/dhinakaranst/from-student-projects-to-real-world-development-22fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
