@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Monads in Haskell](https://dev.to/bekbrace/monads-in-haskell-1p8i)
-- [🎃 Halloween Night: A 3D WebGL Spooktacular Landing Page](https://dev.to/minal_prasad_f335e02dfb29/halloween-night-a-3d-webgl-spooktacular-landing-page-5bn0)
-- [Handling Smart Contract Errors in Equillar. From Rust to PHP](https://dev.to/icolomina/handling-smart-contract-errors-in-equillar-from-rust-to-php-3k7o)
-- [Detecting Logo Similarity: Combining AI Embeddings with Fourier Descriptors](https://dev.to/ruben_ghafadaryan/detecting-logo-similarity-combining-ai-embeddings-with-fourier-descriptors-5eoc)
-- [From TCP to Express: Understanding Request Lifecycles and Cancellation](https://dev.to/silentwatcher_95/from-tcp-to-express-understanding-request-lifecycles-and-cancellation-474c)
+- [Managing LLM Prompts With Snowflake Model Registry](https://dev.to/jhagerer/managing-llm-prompts-with-snowflake-model-registry-1f9d)
+- [Building Your Own Virtual Private Cloud on Linux: A Deep Dive into Network Namespaces](https://dev.to/cypher682/building-your-own-virtual-private-cloud-on-linux-a-deep-dive-into-network-namespaces-1l3e)
+- [Cohere in .NET in 10 Minutes: Microsoft.Extensions.AI + the Cohere.Extensions.AI NuGet Package](https://dev.to/makushevskii/cohere-in-net-in-10-minutes-microsoftextensionsai-the-cohereextensionsai-nuget-package-3c7f)
+- [REMI AuthBridge: A Patrimonial Demonstration of Agentic Connection](https://dev.to/jramone3/remi-authbridge-a-patrimonial-demonstration-of-agentic-connection-30ee)
+- [Terminal UI for .NET .resx Files Because Nothing Else Worked](https://dev.to/nikolaos_protopapas_d3bd6/terminal-ui-for-net-resx-files-because-nothing-else-worked-310)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
