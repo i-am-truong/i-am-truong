@@ -119,11 +119,12 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-5hnc)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-327b)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2nlo)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-57h4)
-- [Optimizing Adventure Games for Mobile and Cross-Device Play](https://dev.to/gamh5games/optimizing-adventure-games-for-mobile-and-cross-device-play-48n8)
+- [Application of API Testing Frameworks in Java Introduction](https://dev.to/nicole_lucianarioscohai/application-of-api-testing-frameworks-in-java-introduction-40g6)
+- [Simplifying Prometheus Metrics in Go with prometric-go](https://dev.to/asraful_haque/simplifying-prometheus-metrics-in-go-with-prometric-go-22ef)
+- [I built Laravel AI Orchestrator a package that makes it easy to orchestrate AI calls across multiple providers, with automatic fallbacks, structured output, and now, contextual memory #laravel 
+https://github.com/sumeetghimire/Laravel-AI-Orchestrator](https://dev.to/sumeet_ghimire_949cb23b3e/i-built-laravel-ai-orchestrator-a-package-that-makes-it-easy-to-orchestrate-ai-calls-across-4i6a)
+- [Laboratorio IAM: Creación segura de cuenta Root y Usuario IAM Administrator en AWS](https://dev.to/figueroaeandres/laboratorio-iam-creacion-segura-de-cuenta-root-y-usuario-iam-administrator-en-aws-49a3)
+- [Day 38 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-38-of-100-days-dsa-coding-challenge-k44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
