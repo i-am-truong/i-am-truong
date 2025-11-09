@@ -119,17 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everyone is obsessed with “prompt tricks.”
-
-They collect templates, copy prompts from Twitter threads.
-
-But after all that, their results still feel… average. Why?
-
-It has everything to do with you and not with your prompts.](https://dev.to/jaideepparashar/everyone-is-obsessed-with-prompt-tricks-they-collect-templates-copy-prompts-from-twitter-5639)
-- [The Prompt Layer Most Beginners Miss](https://dev.to/jaideepparashar/the-prompt-layer-most-beginners-miss-2op1)
-- [How the 2WHAV-Iterative Cycle Turns Uncertainty into Production-Ready Code](https://dev.to/francesco_marconi_282058b/how-the-2whav-iterative-cycle-turns-uncertainty-into-production-ready-code-1dk4)
-- [Lesson 21: Freqtrade-Exchange API Configuration](https://dev.to/henry_lin_3ac6363747f45b4/lesson-21-freqtrade-exchange-api-configuration-246i)
-- [第 21 课：Freqtrade-交易所 API 配置](https://dev.to/henry_lin_3ac6363747f45b4/di-21-ke-freqtrade-jiao-yi-suo-api-pei-zhi-5dgb)
+- [🔥 JavaScript Interview Series&lpar;15&rpar;: Inside the JavaScript Engine: V8 &amp; SpiderMonkey Explained](https://dev.to/jackm_345442a09fb53b/javascript-interview-series15-inside-the-javascript-engine-v8-spidermonkey-explained-1f6c)
+- [MorphoBench: A Benchmark with Difficulty Adaptive to Model Reasoning](https://dev.to/paperium/morphobench-a-benchmark-with-difficulty-adaptive-to-model-reasoning-2lmi)
+- [The New YINI Homepage Is Live — A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/the-yini-homepage-is-live-a-modern-human-friendly-config-format-28al)
+- [Fine-Tune Access, Visibility, and Security](https://dev.to/sebos/fine-tune-access-visibility-and-security-1798)
+- [🔥JavaScript Interview Series（14）: Event Loop, Microtasks &amp; Macrotasks Deep Dive](https://dev.to/jackm_345442a09fb53b/javascript-interview-series14-event-loop-microtasks-macrotasks-deep-dive-3mep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
