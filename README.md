@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scenario #7: Inject sensitive values using Secrets into Pods in Kubernetes](https://dev.to/latchudevops/scenario-7-inject-sensitive-values-using-secrets-into-pods-in-kubernetes-1aah)
+- [Building Advanced Search with PostgreSQL: pg_search on AWS](https://dev.to/r4jeshwar/building-advanced-search-with-postgresql-pgsearch-on-aws-50e1)
 - [Angular Isn’t Just About Code — It’s About Discipline](https://dev.to/rigole/angular-isnt-just-about-code-its-about-discipline-2k47)
 - [⭐ Scenario #6: Auto-Update ConfigMap Without Restarting the Pod &lpar;Using Volume Mount&rpar;](https://dev.to/latchudevops/scenario-6-auto-update-configmap-without-restarting-the-pod-using-volume-mount-2ggi)
 - [Data Visualization with matplotlib &amp; seaborn](https://dev.to/godofgeeks/data-visualization-with-matplotlib-seaborn-ngj)
-- [🚫 Why You Shouldn’t Use Next.js as a Fullstack Framework &lpar;and When You Should&rpar;](https://dev.to/aditya_sharma_e14cafab4af/why-you-shouldnt-use-nextjs-as-a-fullstack-framework-and-when-you-should-49c2)
-- [🚀 The Solo Developer&#39;s Choice: Why I Migrated My Backend from Go to Elixir/Phoenix](https://dev.to/asyncnavi/the-solo-developers-choice-why-i-migrated-my-backend-from-go-to-elixirphoenix-3jf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
