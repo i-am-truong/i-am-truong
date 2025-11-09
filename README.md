@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scenario #7: Inject sensitive values using Secrets into Pods in Kubernetes](https://dev.to/latchudevops/scenario-7-inject-sensitive-values-using-secrets-into-pods-in-kubernetes-1aah)
-- [Building Advanced Search with PostgreSQL: pg_search on AWS](https://dev.to/r4jeshwar/building-advanced-search-with-postgresql-pgsearch-on-aws-50e1)
-- [Angular Isn’t Just About Code — It’s About Discipline](https://dev.to/rigole/angular-isnt-just-about-code-its-about-discipline-2k47)
-- [⭐ Scenario #6: Auto-Update ConfigMap Without Restarting the Pod &lpar;Using Volume Mount&rpar;](https://dev.to/latchudevops/scenario-6-auto-update-configmap-without-restarting-the-pod-using-volume-mount-2ggi)
-- [Data Visualization with matplotlib &amp; seaborn](https://dev.to/godofgeeks/data-visualization-with-matplotlib-seaborn-ngj)
+- [Weekly #45-2025: PHP Tricks, LLM Collaboration, SQL Speedups, and the Future of Web Payments](https://dev.to/weekly/weekly-45-2025-php-tricks-llm-collaboration-sql-speedups-and-the-future-of-web-payments-1pd2)
+- [From TCP Sockets to Thread Pools - Building a Production Grade C++ Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-c-web-framework-24db)
+- [Understanding Dependency Injection with TypeScript, NestJS, and Angular](https://dev.to/shahjalalbu/understanding-dependency-injection-with-typescript-nestjs-and-angular-53n6)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1ldd)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
