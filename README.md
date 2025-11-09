@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How use Laravel Boost with Gemini CLI](https://dev.to/williammeier/how-use-laravel-boost-with-gemini-cli-4i4c)
-- [Stop Copy-Pasting Between Excel and Code: Automate Your Data Workflows with GridScript](https://dev.to/andrea_dattero_fd98e9566/stop-copy-pasting-between-excel-and-code-automate-your-data-workflows-with-gridscript-1mkb)
-- [From Ruby to Swift - Building a Maze Generation Framework](https://dev.to/dchakarov/from-ruby-to-swift-building-a-maze-generation-framework-4ccj)
-- [Trick or Treat: A Spooky CSS Diorama with a Few... Surprises](https://dev.to/rezapurnama/trick-or-treat-a-spooky-css-diorama-with-a-few-surprises-256k)
-- [Modern &amp; Responsive Pricing Card UI | Built with HTML, CSS, and JavaScript](https://dev.to/haripriya_shivakumar_b089/modern-responsive-pricing-card-ui-built-with-html-css-and-javascript-52po)
+- [Monads in Haskell](https://dev.to/bekbrace/monads-in-haskell-1p8i)
+- [🎃 Halloween Night: A 3D WebGL Spooktacular Landing Page](https://dev.to/minal_prasad_f335e02dfb29/halloween-night-a-3d-webgl-spooktacular-landing-page-5bn0)
+- [Handling Smart Contract Errors in Equillar. From Rust to PHP](https://dev.to/icolomina/handling-smart-contract-errors-in-equillar-from-rust-to-php-3k7o)
+- [Detecting Logo Similarity: Combining AI Embeddings with Fourier Descriptors](https://dev.to/ruben_ghafadaryan/detecting-logo-similarity-combining-ai-embeddings-with-fourier-descriptors-5eoc)
+- [From TCP to Express: Understanding Request Lifecycles and Cancellation](https://dev.to/silentwatcher_95/from-tcp-to-express-understanding-request-lifecycles-and-cancellation-474c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
