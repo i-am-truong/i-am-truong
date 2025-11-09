@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tokens: The Invisible Building Blocks of Large Language Models](https://dev.to/jiminlee/what-are-tokens-the-hidden-building-blocks-behind-every-large-language-model-45fc)
+- [apimock-rs features: external interfaces and ipv6 support](https://dev.to/nabbisen/apimock-rs-features-external-interfaces-and-ipv6-support-59j5)
+- [GNSS Fix with RTL-SDR &lpar;in Linux!&rpar;](https://dev.to/patatez/gnss-fix-with-rtl-sdr-in-linux-224d)
 - [A free and production-ready event sourcing database engine: Meet Genesis DB CE](https://dev.to/patriceckhart/a-free-and-production-ready-event-sourcing-database-engine-meet-genesis-db-ce-2nk8)
-- [Design Skeletons by Character Count — Tailwind CSS v4](https://dev.to/t4y3/design-skeletons-by-character-count-tailwind-css-v4-1984)
-- [Hey, I’m Nyells — Let’s Talk Code, Cybersecurity &amp; UI/UX](https://dev.to/nyellie793/hello-world-code-cybersecurity-creativity-49co)
-- [The Genesis Engine: Where AI Agents Debate and Design Your Next Application](https://dev.to/amritkumar06/the-genesis-engine-where-ai-agents-debate-and-design-your-next-application-2i9p)
-- [Navigating the Future: Technical Deep Dive into Modern Automotive Map Data Pipelines](https://dev.to/satnavicareu/navigating-the-future-technical-deep-dive-into-modern-automotive-map-data-pipelines-110a)
+- [The Real AI Startup Stack: $33M Valuations, $1.2K OpenAI Bills](https://dev.to/dev_tips/the-real-ai-startup-stack-33m-valuations-12k-openai-bills-4j1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
