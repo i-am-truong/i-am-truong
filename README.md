@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trick or Treat: A Spooky CSS Diorama with a Few... Surprises](https://dev.to/rezapurnama/trick-or-treat-a-spooky-css-diorama-with-a-few-surprises-256k)
+- [Modern &amp; Responsive Pricing Card UI | Built with HTML, CSS, and JavaScript](https://dev.to/haripriya_shivakumar_b089/modern-responsive-pricing-card-ui-built-with-html-css-and-javascript-52po)
 - [[Boost]](https://dev.to/__00d77320f95/-o73)
 - [[Boost]](https://dev.to/cubent/-4f63)
 - [Virtual Threads - Comparative Analysis](https://dev.to/manojshr/virtual-threads-comparitive-analysis-46)
-- [AWS Route 53 Resolver DNS Firewall — The First Line of Egress Defense](https://dev.to/aws-builders/aws-route-53-resolver-dns-firewall-the-first-line-of-egress-defense-4gba)
-- [AI Isn’t Alchemy: Not Mystical, Just Messy](https://dev.to/iantepoot/ai-isnt-alchemy-not-mystical-just-messy-70g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
