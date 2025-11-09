@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [الشبح اللي فـ الماكينة ديالك](https://dev.to/zakariaessaoudy/-lshbh-lly-f-lmkyn-dylk-imf)
-- [[Boost]](https://dev.to/m_midas/-5dd5)
-- [Theater Alpha - The Rewind Update](https://dev.to/terrillo/theater-alpha-the-rewind-update-10ji)
-- [Your SSR Isn’t Fast — Hydration Is Dragging It Down](https://dev.to/byte-sized-news/your-ssr-isnt-fast-hydration-is-dragging-it-down-4437)
-- [Agentic AI Design Patterns](https://dev.to/hanaa_abdelgawad_1684275d/agentic-ai-design-patterns-168m)
+- [Why CSS Is So Hard for Generative AIs to Understand?](https://dev.to/asafaeirad/why-css-is-so-hard-for-generative-ais-to-understand-17fo)
+- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-1g3b)
+- [Building Flipr: a URL shortener, one commit at a time](https://dev.to/edeckers/building-flipr-a-url-shortener-one-commit-at-a-time-gnb)
+- [REMI AuthBridge: Patrimonial Identity Demo with Auth0 Integration](https://dev.to/jramone3/remi-authbridge-patrimonial-identity-demo-with-auth0-integration-1j1i)
+- [Smart Power: Taming Voltage Drops with Intelligent Hardware](https://dev.to/arvind_sundararajan/smart-power-taming-voltage-drops-with-intelligent-hardware-1olj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
