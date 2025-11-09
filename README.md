@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Rust Transforms Error Handling: From Crashes to Reliable Software Systems](https://dev.to/aaravjoshi/how-rust-transforms-error-handling-from-crashes-to-reliable-software-systems-3cda)
-- [yourcast! - personalized AI podcast app](https://dev.to/rohan140/yourcast-personalized-ai-podcast-app-3lp4)
-- [From Zero to AI Agent: My 6-Month Journey with LLMs](https://dev.to/lofcz/from-zero-to-ai-agent-my-6-month-journey-with-llms-41a2)
-- [What if 100 agents could optimize your code simultaneously in isolated production environments without copying data?](https://dev.to/vivekjami/what-if-100-agents-could-optimize-your-code-simultaneously-in-isolated-production-environments-4gb4)
-- [Rails 7.1 Framework Defaults 🚧](https://dev.to/hassanahmed/rails-71-framework-defaults-l2f)
+- [Cloud Resume Challenge - Chunk 4 - Building the Automation and CI](https://dev.to/tlklein/cloud-resume-challenge-chunk-4-building-the-automation-and-ci-3fbo)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-11p2)
+- [BatchSubmit turn command line legacy programs into web applications](https://dev.to/omni_tiger_75ee04e39e40df/batchsubmit-turn-command-line-legacy-programs-into-web-applications-4pen)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-58hd)
+- [The Art of Absence: A Journey Through `null` and `undefined` in Default Parameters](https://dev.to/alex_aslam/the-art-of-absence-a-journey-through-null-and-undefined-in-default-parameters-h8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
