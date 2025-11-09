@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI-Powered Community Assistant with Google Cloud Platform,Vercel AI SDK, and Calendar API](https://dev.to/blackie360/building-an-ai-powered-community-assistant-with-google-cloud-platform-ai-sdk-and-calendar-api-3opb)
+- [Code Python: Kunci Menguasai Pemrograman Modern](https://dev.to/devrin_anggun_b4716d8f939/code-python-kunci-menguasai-pemrograman-modern-258n)
 - [The Illusion of Language: What Directives Really Are](https://dev.to/lazarv/the-illusion-of-language-what-directives-really-are-445)
 - [AWS SAA to Security Clearance: My Path to Federal Cloud Engineering](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-cloud-engineering-4p0p)
 - [Ring Based deployment](https://dev.to/vkassingh/ring-based-deployment-3g3h)
-- [From Response Time to User Impact: Modern Incident Metrics](https://dev.to/kapusto/from-response-time-to-user-impact-modern-incident-metrics-4lj)
-- [Copier Uptime Without the Drama: A Practical Playbook for Offices That Hate Fire Drills](https://dev.to/sonia_bobrik_1939cdddd79d/copier-uptime-without-the-drama-a-practical-playbook-for-offices-that-hate-fire-drills-jhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
