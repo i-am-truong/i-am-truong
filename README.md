@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Construyendo mi propio IPTV Player en C](https://dev.to/djsurgeon/construyendo-mi-propio-iptv-player-en-c-24jf)
 - [Managing LLM Prompts With Snowflake Model Registry](https://dev.to/jhagerer/managing-llm-prompts-with-snowflake-model-registry-1f9d)
 - [Building Your Own Virtual Private Cloud on Linux: A Deep Dive into Network Namespaces](https://dev.to/cypher682/building-your-own-virtual-private-cloud-on-linux-a-deep-dive-into-network-namespaces-1l3e)
 - [Cohere in .NET in 10 Minutes: Microsoft.Extensions.AI + the Cohere.Extensions.AI NuGet Package](https://dev.to/makushevskii/cohere-in-net-in-10-minutes-microsoftextensionsai-the-cohereextensionsai-nuget-package-3c7f)
 - [REMI AuthBridge: A Patrimonial Demonstration of Agentic Connection](https://dev.to/jramone3/remi-authbridge-a-patrimonial-demonstration-of-agentic-connection-30ee)
-- [Terminal UI for .NET .resx Files Because Nothing Else Worked](https://dev.to/nikolaos_protopapas_d3bd6/terminal-ui-for-net-resx-files-because-nothing-else-worked-310)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
