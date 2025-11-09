@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [الشبح اللي فـ الماكينة ديالك](https://dev.to/zakariaessaoudy/-lshbh-lly-f-lmkyn-dylk-imf)
+- [[Boost]](https://dev.to/m_midas/-5dd5)
+- [Theater Alpha - The Rewind Update](https://dev.to/terrillo/theater-alpha-the-rewind-update-10ji)
 - [Your SSR Isn’t Fast — Hydration Is Dragging It Down](https://dev.to/byte-sized-news/your-ssr-isnt-fast-hydration-is-dragging-it-down-4437)
 - [Agentic AI Design Patterns](https://dev.to/hanaa_abdelgawad_1684275d/agentic-ai-design-patterns-168m)
-- [Foundation JS](https://dev.to/0netheball/foundation-js-5df3)
-- [From JPMorgan&#39;s Trading Desk to Your GitHub: Building a Natural Gas Price Forecasting Engine](https://dev.to/kamaumbuguadev/from-jpmorgans-trading-desk-to-your-github-building-a-natural-gas-price-forecasting-engine-539m)
-- [Cloud Resume Challenge - Chunk 4 - Building the Automation and CI](https://dev.to/tlklein/cloud-resume-challenge-chunk-4-building-the-automation-and-ci-3fbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
