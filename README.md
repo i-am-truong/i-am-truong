@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Check Every Ticket Before Writing Code &lpar;And You Should Too&rpar;](https://dev.to/tlorent/why-i-check-every-ticket-before-writing-code-and-you-should-too-2f29)
+- [Stop Writing Arrays in Your Tests: Laravel Factories for Data Objects](https://dev.to/fbarrento/stop-writing-arrays-in-your-tests-laravel-factories-for-data-objects-1d48)
+- [APIs are the New Sales Demos: The Unfiltered State of B2B Tech in 2024](https://dev.to/michaelaiglobal/apis-are-the-new-sales-demos-the-unfiltered-state-of-b2b-tech-in-2024-34e1)
+- [Stop Debugging Your Bibliography: A Developer’s Guide to Efficient Academic Writing](https://dev.to/vincent_gay_77e325241795e/stop-debugging-your-bibliography-a-developers-guide-to-efficient-academic-writing-38ne)
 - [🐯 Tiger MCP Blew My Mind – Here&#39;s the Visual Layer I&#39;m Building to Complete It 😇](https://dev.to/jacksonkasi/tiger-mcp-blew-my-mind-heres-the-visual-layer-im-building-to-complete-it-30ak)
-- [How to ship apps faster with full-stack Claude Code setup &lpar;Skills, MCP, Plugins&rpar;](https://dev.to/composiodev/how-to-ship-apps-faster-with-full-stack-claude-code-setup-skills-mcp-plugins-516g)
-- [Why AWS Lightsail Container Service is the Secret Weapon for Your Micro-SaaS](https://dev.to/karaniph/why-aws-lightsail-container-service-is-the-secret-weapon-for-your-micro-saas-2g27)
-- [Como acompanhar a evolução da tecnologia sem se perder no caminho no mundo &quot;2x&quot;](https://dev.to/caramelo-ti/como-acompanhar-a-evolucao-da-tecnologia-sem-se-perder-no-caminho-no-mundo-2x-341p)
-- [The Job Market You’re Preparing For… Doesn’t Exist Anymore](https://dev.to/aniruddhaadak/the-job-market-youre-preparing-for-doesnt-exist-anymore-1c4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
