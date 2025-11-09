@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [User Scanner : Find Your Unique &amp; Perfect Username Across All Popular Platforms](https://dev.to/kaifcodec/user-scanner-find-your-unique-perfect-username-across-all-popular-platforms-2pp8)
-- [🧙 LLMs as Dungeon Masters: Can AI Run a Tabletop Game Without Cheating?](https://dev.to/pracode_2503/llms-as-dungeon-masters-can-ai-run-a-tabletop-game-without-cheating-425m)
-- [The Case of the Missing Proxy: When Multiple Valtio Instances Broke My App](https://dev.to/heyradcode/the-case-of-the-missing-proxy-when-multiple-valtio-instances-broke-my-app-1ke9)
-- [How I Built a Dynamic Spotify &#39;Now Playing&#39; Banner for My GitHub README using Python and Flask 🐍](https://dev.to/sahooshuvranshu/how-i-built-a-dynamic-spotify-now-playing-banner-for-my-github-readme-using-python-and-flask-3cn1)
-- [A Practical Guide to Structuring Express.js Projects for Scalability and Maintainability](https://dev.to/msnmongare/a-practical-guide-to-structuring-expressjs-projects-for-scalability-and-maintainability-5an4)
+- [Unlocking PIM Potential: A Software-First Approach to Power Integrity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-pim-potential-a-software-first-approach-to-power-integrity-by-arvind-sundararajan-2pjo)
+- [Cointelegraph reports rise in AI trading bots as experts caution they are notfoolproof for investors](https://dev.to/ytosko/cointelegraph-reports-rise-in-ai-trading-bots-as-experts-caution-they-are-notfoolproof-for-investors-2aii)
+- [🌟](https://dev.to/thebitforge/-43jn)
+- [🧠 Circuit Breaker Patterns in Go Microservices](https://dev.to/serifcolakel/circuit-breaker-patterns-in-go-microservices-n3)
+- [&#39;이 언어&#39;로 코딩테스트 준비하는 취업준비생... 심장병 확률 44%⬆](https://dev.to/algoorgoal/i-eoneoro-kodingteseuteu-junbihaneun-cwieobjunbisaeng-simjangbyeong-hwagryul-44-4mmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
