@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beware the Forgotten Tab: Understanding and Preventing Tabsnabbing](https://dev.to/ciberconscientes/beware-the-forgotten-tab-understanding-and-preventing-tabsnabbing-21jf)
-- [Right Team, Right Funding: The Unseen Connection](https://dev.to/jean_chou_b0a8ad9c32addbd/right-team-right-funding-the-unseen-connection-18ae)
-- [Building a Decision-Making CLI Tool in Rust: &quot;should-i&quot;](https://dev.to/justhiro/building-a-decision-making-cli-tool-in-rust-should-i-1fmn)
-- [🎯 Scenario #8 — Deploy a ReplicaSet and Verify Self-Healing of Pods in Kubernetes](https://dev.to/latchudevops/scenario-8-deploy-a-replicaset-and-verify-self-healing-of-pods-in-kubernetes-4n96)
-- [Dynamic Theming: A Developer’s Guide to Adaptive Color in UI](https://dev.to/mike-at-redspace/dynamic-theming-a-developers-guide-to-adaptive-color-in-ui-53ml)
+- [From Beginner to Pro: The Ultimate Docker Command Cheatsheet 🐳📘](https://dev.to/ritesh355/from-beginner-to-pro-the-ultimate-docker-command-cheatsheet-1gac)
+- [The Real Limits of n8n “Free” Automation: What You Need to Know Before Shipping to Production](https://dev.to/alifar/the-real-limits-of-n8n-free-automation-what-you-need-to-know-before-shipping-to-production-59o6)
+- [🎯 Scenario #9 — Create a Deployment, Roll Out an Updated Version and Rollback](https://dev.to/latchudevops/scenario-9-create-a-deployment-roll-out-an-updated-version-and-rollback-4ijd)
+- [Quantum-Resistant Federated Learning: Securing Distributed Model Training Against Post-Quantum Cryptography Threats](https://dev.to/rikinptl/quantum-resistant-federated-learning-securing-distributed-model-training-against-post-quantum-1lap)
+- [The Agentic Leap: Key Announcements and Demos from the Google I/O 2025 Developer Keynote](https://dev.to/sunny7899/the-agentic-leap-key-announcements-and-demos-from-the-google-io-2025-developer-keynote-51fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
