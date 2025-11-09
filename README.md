@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Interactive Storytelling App with Google Cloud Run](https://dev.to/attahj/building-an-ai-powered-interactive-storytelling-app-with-google-cloud-run-ocl)
-- [Why I Check Every Ticket Before Writing Code &lpar;And You Should Too&rpar;](https://dev.to/tlorent/why-i-check-every-ticket-before-writing-code-and-you-should-too-2f29)
-- [Stop Writing Arrays in Your Tests: Laravel Factories for Data Objects](https://dev.to/fbarrento/stop-writing-arrays-in-your-tests-laravel-factories-for-data-objects-1d48)
-- [APIs are the New Sales Demos: The Unfiltered State of B2B Tech in 2024](https://dev.to/michaelaiglobal/apis-are-the-new-sales-demos-the-unfiltered-state-of-b2b-tech-in-2024-34e1)
-- [Stop Debugging Your Bibliography: A Developer’s Guide to Efficient Academic Writing](https://dev.to/vincent_gay_77e325241795e/stop-debugging-your-bibliography-a-developers-guide-to-efficient-academic-writing-38ne)
+- [[Boost]](https://dev.to/__00d77320f95/-o73)
+- [[Boost]](https://dev.to/cubent/-4f63)
+- [Virtual Threads - Comparative Analysis](https://dev.to/manojshr/virtual-threads-comparitive-analysis-46)
+- [AWS Route 53 Resolver DNS Firewall — The First Line of Egress Defense](https://dev.to/aws-builders/aws-route-53-resolver-dns-firewall-the-first-line-of-egress-defense-4gba)
+- [AI Isn’t Alchemy: Not Mystical, Just Messy](https://dev.to/iantepoot/ai-isnt-alchemy-not-mystical-just-messy-70g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
