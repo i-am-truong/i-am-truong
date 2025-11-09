@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beware the Forgotten Tab: Understanding and Preventing Tabsnabbing](https://dev.to/ciberconscientes/beware-the-forgotten-tab-understanding-and-preventing-tabsnabbing-21jf)
 - [Right Team, Right Funding: The Unseen Connection](https://dev.to/jean_chou_b0a8ad9c32addbd/right-team-right-funding-the-unseen-connection-18ae)
 - [Building a Decision-Making CLI Tool in Rust: &quot;should-i&quot;](https://dev.to/justhiro/building-a-decision-making-cli-tool-in-rust-should-i-1fmn)
 - [🎯 Scenario #8 — Deploy a ReplicaSet and Verify Self-Healing of Pods in Kubernetes](https://dev.to/latchudevops/scenario-8-deploy-a-replicaset-and-verify-self-healing-of-pods-in-kubernetes-4n96)
 - [Dynamic Theming: A Developer’s Guide to Adaptive Color in UI](https://dev.to/mike-at-redspace/dynamic-theming-a-developers-guide-to-adaptive-color-in-ui-53ml)
-- [Choosing the correct IaC tool](https://dev.to/kaustubhyerkade/choosing-the-correct-iac-tool-p57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
