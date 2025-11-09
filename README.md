@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod](https://dev.to/latchudevops/scenario-5-configure-environment-variables-from-configmap-in-a-pod-577h)
-- [TLS For AI Agents? No. Wristbands For The Idiots In Line](https://dev.to/jl03/tls-for-ai-agents-no-wristbands-for-the-idiots-in-line-2cpo)
-- [How to understand large typescript codebase](https://dev.to/vkassingh/how-to-understand-large-typescript-codebase-3e9c)
-- [Create Synthetic Data - A Comprehensive Guideline](https://dev.to/vuhung16au/create-synthetic-data-a-comprehensive-guideline-49bf)
-- [How To Create a CloudWatch Dashboard for EC2 and ELB](https://dev.to/thukhakyawe_cloud/how-to-create-a-cloudwatch-dashboard-for-ec2-and-elb-52b)
+- [⭐ Scenario #6: Auto-Update ConfigMap Without Restarting the Pod &lpar;Using Volume Mount&rpar;](https://dev.to/latchudevops/scenario-6-auto-update-configmap-without-restarting-the-pod-using-volume-mount-2ggi)
+- [InfiMed-ORBIT: Aligning LLMs on Open-Ended Complex Tasks via Rubric-BasedIncremental Training](https://dev.to/paperium/infimed-orbit-aligning-llms-on-open-ended-complex-tasks-via-rubric-basedincremental-training-1bbl)
+- [Data Visualization with matplotlib &amp; seaborn](https://dev.to/godofgeeks/data-visualization-with-matplotlib-seaborn-ngj)
+- [🚫 Why You Shouldn’t Use Next.js as a Fullstack Framework &lpar;and When You Should&rpar;](https://dev.to/aditya_sharma_e14cafab4af/why-you-shouldnt-use-nextjs-as-a-fullstack-framework-and-when-you-should-49c2)
+- [🚀 The Solo Developer&#39;s Choice: Why I Migrated My Backend from Go to Elixir/Phoenix](https://dev.to/asyncnavi/the-solo-developers-choice-why-i-migrated-my-backend-from-go-to-elixirphoenix-3jf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
