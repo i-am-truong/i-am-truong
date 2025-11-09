@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-441k)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-37n8)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4fhf)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-2h4n)
-- [Lexical scope in JavaScript](https://dev.to/beo_dan_4b44e99852f48ddb3/lexical-scope-in-javascript-5559)
+- [The Case of the Missing Proxy: When Multiple Valtio Instances Broke My App](https://dev.to/heyradcode/the-case-of-the-missing-proxy-when-multiple-valtio-instances-broke-my-app-1ke9)
+- [How I Built a Dynamic Spotify &#39;Now Playing&#39; Banner for My GitHub README using Python and Flask 🐍](https://dev.to/sahooshuvranshu/how-i-built-a-dynamic-spotify-now-playing-banner-for-my-github-readme-using-python-and-flask-3cn1)
+- [A Practical Guide to Structuring Express.js Projects for Scalability and Maintainability](https://dev.to/msnmongare/a-practical-guide-to-structuring-expressjs-projects-for-scalability-and-maintainability-5an4)
+- [Emergent Misalignment via In-Context Learning: Narrow in-context examples canproduce broadly misaligned LLMs](https://dev.to/paperium/emergent-misalignment-via-in-context-learning-narrow-in-context-examples-canproduce-broadly-4p20)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-28po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
