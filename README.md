@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TOON vs JSON: The New Format Designed for AI](https://dev.to/akki907/toon-vs-json-the-new-format-designed-for-ai-nk5)
+- [My Open Source Journey with Kestra &lpar;via WeMakeDevs&rpar;](https://dev.to/archu270292/my-open-source-journey-with-kestra-via-wemakedevs-pk4)
+- [SQL: Summing categories](https://dev.to/david_kershaw_b6916404da6/sql-summing-categories-57pp)
+- [Taming Time-Delayed Chaos: Linearizing the Unpredictable](https://dev.to/arvind_sundararajan/taming-time-delayed-chaos-linearizing-the-unpredictable-4b7)
 - [🔥 JavaScript Interview Series&lpar;15&rpar;: Inside the JavaScript Engine: V8 &amp; SpiderMonkey Explained](https://dev.to/jackm_345442a09fb53b/javascript-interview-series15-inside-the-javascript-engine-v8-spidermonkey-explained-1f6c)
-- [MorphoBench: A Benchmark with Difficulty Adaptive to Model Reasoning](https://dev.to/paperium/morphobench-a-benchmark-with-difficulty-adaptive-to-model-reasoning-2lmi)
-- [The New YINI Homepage Is Live — A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/the-yini-homepage-is-live-a-modern-human-friendly-config-format-28al)
-- [Fine-Tune Access, Visibility, and Security](https://dev.to/sebos/fine-tune-access-visibility-and-security-1798)
-- [🔥JavaScript Interview Series（14）: Event Loop, Microtasks &amp; Macrotasks Deep Dive](https://dev.to/jackm_345442a09fb53b/javascript-interview-series14-event-loop-microtasks-macrotasks-deep-dive-3mep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
