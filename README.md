@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Your SSR Isn’t Fast — Hydration Is Dragging It Down](https://dev.to/byte-sized-news/your-ssr-isnt-fast-hydration-is-dragging-it-down-4437)
 - [Agentic AI Design Patterns](https://dev.to/hanaa_abdelgawad_1684275d/agentic-ai-design-patterns-168m)
+- [Foundation JS](https://dev.to/0netheball/foundation-js-5df3)
 - [From JPMorgan&#39;s Trading Desk to Your GitHub: Building a Natural Gas Price Forecasting Engine](https://dev.to/kamaumbuguadev/from-jpmorgans-trading-desk-to-your-github-building-a-natural-gas-price-forecasting-engine-539m)
 - [Cloud Resume Challenge - Chunk 4 - Building the Automation and CI](https://dev.to/tlklein/cloud-resume-challenge-chunk-4-building-the-automation-and-ci-3fbo)
-- [BatchSubmit turn command line legacy programs into web applications](https://dev.to/omni_tiger_75ee04e39e40df/batchsubmit-turn-command-line-legacy-programs-into-web-applications-4pen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
