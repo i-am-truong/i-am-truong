@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bilişim Sektöründe Uzmanlaşmanın İki Yüzü](https://dev.to/yuksektepe/bilisim-sektorunde-uzmanlasmanin-iki-yuzu-o4f)
+- [Deploy Your Web App in 1 Minute](https://dev.to/badass_tech-ae2025/deploy-your-web-app-in-1-minute-3idb)
+- [Getting Started With Queryable Encryption With the MongoDB EF Core Provider](https://dev.to/mongodb/getting-started-with-queryable-encryption-with-the-mongodb-ef-core-provider-5238)
 - [Scanner vs BufferedReader](https://dev.to/erickvasm/scanner-vs-bufferedreader-2m25)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-158e)
 - [Understanding AI: From LLMs to MCP](https://dev.to/anurag112/understanding-ai-from-llms-to-mcp-3268)
-- [Symfony Station Communiqué - ✦ Stardate: 07 November 2025 ✦](https://dev.to/reubenwalker64/symfony-station-communique-stardate-07-november-2025-1ege)
-- [Check out this blog on all device compatible tableau dashboards](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-blog-on-all-device-compatible-tableau-dashboards-515m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
