@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧠 Built a VS Code extension that flags misleading function names in Python &lpar;early access&rpar; - feedback welcome!](https://dev.to/cinesnips_e20f6c3cffabce1/built-a-vs-code-extension-that-flags-misleading-function-names-in-python-early-access--4022)
 - [Agent HQ: Integrating AI Agents Natively into the GitHub Workflow](https://dev.to/stelixx-insider/agent-hq-integrating-ai-agents-natively-into-the-github-workflow-257o)
+- [🧩 Part 1: The Ultimate 2025 SaaS Tech Stack — Build, Launch, and Monetize in Under 10 Minutes](https://dev.to/nish2005karsh/part-1-the-ultimate-2025-saas-tech-stack-build-launch-and-monetize-in-under-10-minutes-1m61)
 - [From Esolang to Numeric Script: Building Formin in Fortran](https://dev.to/capinoldev/from-esolang-to-numeric-script-building-formin-in-fortran-pc9)
 - [Create a Text Editor With Go - Welcome Screen](https://dev.to/alcb1310/create-a-text-editor-with-go-welcome-screen-4hkm)
-- [Alternate reality without open source linux](https://dev.to/shoyeb45/alternate-reality-without-open-source-linux-1fge)
-- [🧹 Data Cleaning Challenge with Pandas &lpar;Google Colab&rpar;](https://dev.to/sujitha_selvaraj_af5010c5/data-cleaning-challenge-with-pandas-google-colab-4558)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
