@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn forms – unstyled select element](https://dev.to/marcelinaredocindo/learn-forms-unstyled-select-element-2lp9)
+- [4 handy Cypress snippets](https://dev.to/ads-bne/4-handy-cypress-snippets-4ogj)
+- [NeuroBase: AI-Powered Conversational Database with Multi-Agent Intelligence](https://dev.to/4n0nn43x/neurobase-ai-powered-conversational-database-with-multi-agent-intelligence-510o)
+- [Η Επανάσταση της Τεχνητής Νοημοσύνης](https://dev.to/__b63657/e-epanastase-tes-tekhnetes-noemosunes-p01)
 - [MammoAI: Transform mammograms into clear diagnoses and actionable care.](https://dev.to/iamceejay/mammoai-transform-mammograms-into-clear-diagnoses-and-actionable-care-1nf2)
-- [The 20 Most Essential Tools for Back-End Development: Supercharge Your Server-Side Skills](https://dev.to/softwaredeveloperhub01/the-20-most-essential-tools-for-back-end-development-supercharge-your-server-side-skills-jia)
-- [Data Extraction from External Files: INI, JSON, and XML in WebForms Core 2](https://dev.to/elanatframework/data-extraction-from-external-files-ini-json-and-xml-in-webforms-core-2-5h9a)
-- [Cross-Modal Knowledge Distillation for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-sustainable-aquaculture-monitoring-systems-with-embodied-81o)
-- [The Quiet Collapse of $ALTD AltitudeDeFi: A Cautionary Tale of Hype, Silence, and Vanished Hopes](https://dev.to/bitnet4ever/the-quiet-collapse-of-altd-altitudedefi-a-cautionary-tale-of-hype-silence-and-vanished-hopes-1e2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
