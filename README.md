@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Bilişim Sektöründe Uzmanlaşmanın İki Yüzü](https://dev.to/yuksektepe/bilisim-sektorunde-uzmanlasmanin-iki-yuzu-o4f)
+- [Smart Job Search System for Developers, Stop Randomly Applying](https://dev.to/rajondey/smart-job-search-system-for-developers-stop-randomly-applying-25e1)
 - [Deploy Your Web App in 1 Minute](https://dev.to/badass_tech-ae2025/deploy-your-web-app-in-1-minute-3idb)
 - [Getting Started With Queryable Encryption With the MongoDB EF Core Provider](https://dev.to/mongodb/getting-started-with-queryable-encryption-with-the-mongodb-ef-core-provider-5238)
 - [Scanner vs BufferedReader](https://dev.to/erickvasm/scanner-vs-bufferedreader-2m25)
-- [Understanding AI: From LLMs to MCP](https://dev.to/anurag112/understanding-ai-from-llms-to-mcp-3268)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
