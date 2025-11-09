@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Community Assistant with Google Cloud Platform,Vercel AI SDK, and Calendar API](https://dev.to/blackie360/building-an-ai-powered-community-assistant-with-google-cloud-platform-ai-sdk-and-calendar-api-3opb)
-- [Code Python: Kunci Menguasai Pemrograman Modern](https://dev.to/devrin_anggun_b4716d8f939/code-python-kunci-menguasai-pemrograman-modern-258n)
-- [The Illusion of Language: What Directives Really Are](https://dev.to/lazarv/the-illusion-of-language-what-directives-really-are-445)
-- [AWS SAA to Security Clearance: My Path to Federal Cloud Engineering](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-cloud-engineering-4p0p)
-- [Ring Based deployment](https://dev.to/vkassingh/ring-based-deployment-3g3h)
+- [How I Learned IaC Without Losing My Mind 🤯](https://dev.to/danlinx2004x/how-i-learned-iac-without-losing-my-mind-347c)
+- [How AI Can Help Households Reduce Food Waste and Save Money](https://dev.to/michaelihegazie/how-ai-can-help-households-reduce-food-waste-and-save-money-272n)
+- [Stop Coding in Chaos: Why You Need a Pro Dev Environment Now &lpar;And How to Set It Up&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/stop-coding-in-chaos-why-you-need-a-pro-dev-environment-now-and-how-to-set-it-up-1779)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c32)
+- [Leveraging Synthetic Data for Enhanced AI Agent Evaluation](https://dev.to/kuldeep_paul/leveraging-synthetic-data-for-enhanced-ai-agent-evaluation-56k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
