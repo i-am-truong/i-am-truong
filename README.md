@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Good Intentions Aren’t Enough — Measure!](https://dev.to/ijuren/good-intentions-arent-enough-measure-5co8)
-- [Building BearMinder: a tiny macOS menubar app connecting Bear to Beeminder in Swift](https://dev.to/brennan/building-bearminder-a-tiny-macos-menubar-app-connecting-bear-to-beeminder-in-swift-553k)
-- [From Frustration to Focus: How Taking Notes Changed the Way I Learn Code🧠](https://dev.to/tamerg96/from-frustration-to-focus-how-taking-notes-changed-the-way-i-learn-code-3m6e)
-- [Why Your CISO Should Be Fired](https://dev.to/jl03/why-your-ciso-should-be-fired-45j5)
-- [How to Export Cost Optimization Hub Report](https://dev.to/thukhakyawe_cloud/how-to-export-cost-optimization-hub-report-451o)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-441k)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-37n8)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4fhf)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-2h4n)
+- [Lexical scope in JavaScript](https://dev.to/beo_dan_4b44e99852f48ddb3/lexical-scope-in-javascript-5559)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
