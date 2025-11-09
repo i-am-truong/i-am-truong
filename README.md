@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Jupyter Notebook to Production: Complete Guide to ML Model Deployment](https://dev.to/aaravjoshi/from-jupyter-notebook-to-production-complete-guide-to-ml-model-deployment-ffd)
+- [Becoming a Full Stack Developer Day 2](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-2-cdf)
+- [ArtistAssistApp New Features and Improvements – November 2025](https://dev.to/eugene-khyst/artistassistapp-new-features-and-improvements-november-2025-19bj)
 - [Caching Strategy for RESTFUL API](https://dev.to/masteringbackend/caching-strategy-for-restful-api-2gkj)
-- [Devtool for running and benchmarking local AI](https://dev.to/elina_norling_embedl/devtool-for-running-and-benchmarking-local-ai-445e)
-- [What Is a Lua Module in Roblox in 2025?](https://dev.to/nigelsilonero/what-is-a-lua-module-in-roblox-in-2025-mkn)
-- [Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation inMixture-of-Expert models](https://dev.to/paperium/rewiring-experts-on-the-flycontinuous-rerouting-for-better-online-adaptation-inmixture-of-expert-4jc6)
-- [Ghostty + Zellij 👻 setup on Mac](https://dev.to/cristobal/ghostty-zellij-setup-on-mac-11la)
+- [Wait, Can We Automate Our Commit-Driven Social Media Updates?](https://dev.to/brilliantmakanju/wait-can-we-automate-our-commit-driven-social-media-updates-35a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
