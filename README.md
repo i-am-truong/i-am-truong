@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [yourcast! - personalized AI podcast app](https://dev.to/rohan140/yourcast-personalized-ai-podcast-app-3lp4)
+- [From Zero to AI Agent: My 6-Month Journey with LLMs](https://dev.to/lofcz/from-zero-to-ai-agent-my-6-month-journey-with-llms-41a2)
+- [What if 100 agents could optimize your code simultaneously in isolated production environments without copying data?](https://dev.to/vivekjami/what-if-100-agents-could-optimize-your-code-simultaneously-in-isolated-production-environments-4gb4)
+- [Rails 7.1 Framework Defaults 🚧](https://dev.to/hassanahmed/rails-71-framework-defaults-l2f)
 - [From 10 Millions Monthly Orders to Reality: Architecting a Production-Grade E-commerce Platform on Azure Kubernetes](https://dev.to/devaaai/from-30m-daily-orders-to-reality-architecting-a-production-grade-e-commerce-platform-on-azure-2d87)
-- [Enhancing ChatGPT Results by Removing the &#39;Nice&#39; Filter](https://dev.to/stelixx-insider/enhancing-chatgpt-results-by-removing-the-nice-filter-3h70)
-- [Mastering the Options Pattern in .NET — Strongly Typed Configuration Made Simple](https://dev.to/morteza-jangjoo/mastering-the-options-pattern-in-net-strongly-typed-configuration-made-simple-31o)
-- [Smart Template Revolution in WebForms Core 2](https://dev.to/elanatframework/smart-template-revolution-in-webforms-core-2-5fap)
-- [Becoming a Full Stack Developer Day 2](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-2-cdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
