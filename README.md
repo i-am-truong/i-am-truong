@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Phantom: The 6D Halloween Metaverse Experience](https://dev.to/aviral_srivastava_2c4e212/project-phantom-the-6d-halloween-metaverse-experience-5ckg)
 - [Weekly #45-2025: PHP Tricks, LLM Collaboration, SQL Speedups, and the Future of Web Payments](https://dev.to/weekly/weekly-45-2025-php-tricks-llm-collaboration-sql-speedups-and-the-future-of-web-payments-1pd2)
 - [From TCP Sockets to Thread Pools - Building a Production Grade C++ Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-c-web-framework-24db)
+- [Collaborative App Design Principles: Building Better Products Together](https://dev.to/mattwagner/collaborative-app-design-principles-building-better-products-together-2551)
 - [Understanding Dependency Injection with TypeScript, NestJS, and Angular](https://dev.to/shahjalalbu/understanding-dependency-injection-with-typescript-nestjs-and-angular-53n6)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1ldd)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
