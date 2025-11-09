@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How use Laravel Boost with Gemini CLI](https://dev.to/williammeier/how-use-laravel-boost-with-gemini-cli-4i4c)
+- [Stop Copy-Pasting Between Excel and Code: Automate Your Data Workflows with GridScript](https://dev.to/andrea_dattero_fd98e9566/stop-copy-pasting-between-excel-and-code-automate-your-data-workflows-with-gridscript-1mkb)
+- [From Ruby to Swift - Building a Maze Generation Framework](https://dev.to/dchakarov/from-ruby-to-swift-building-a-maze-generation-framework-4ccj)
 - [Trick or Treat: A Spooky CSS Diorama with a Few... Surprises](https://dev.to/rezapurnama/trick-or-treat-a-spooky-css-diorama-with-a-few-surprises-256k)
 - [Modern &amp; Responsive Pricing Card UI | Built with HTML, CSS, and JavaScript](https://dev.to/haripriya_shivakumar_b089/modern-responsive-pricing-card-ui-built-with-html-css-and-javascript-52po)
-- [[Boost]](https://dev.to/__00d77320f95/-o73)
-- [[Boost]](https://dev.to/cubent/-4f63)
-- [Virtual Threads - Comparative Analysis](https://dev.to/manojshr/virtual-threads-comparitive-analysis-46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
