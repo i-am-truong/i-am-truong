@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Project Phantom: The 6D Halloween Metaverse Experience](https://dev.to/aviral_srivastava_2c4e212/project-phantom-the-6d-halloween-metaverse-experience-5ckg)
-- [Weekly #45-2025: PHP Tricks, LLM Collaboration, SQL Speedups, and the Future of Web Payments](https://dev.to/weekly/weekly-45-2025-php-tricks-llm-collaboration-sql-speedups-and-the-future-of-web-payments-1pd2)
-- [From TCP Sockets to Thread Pools - Building a Production Grade C++ Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-c-web-framework-24db)
-- [Collaborative App Design Principles: Building Better Products Together](https://dev.to/mattwagner/collaborative-app-design-principles-building-better-products-together-2551)
-- [Understanding Dependency Injection with TypeScript, NestJS, and Angular](https://dev.to/shahjalalbu/understanding-dependency-injection-with-typescript-nestjs-and-angular-53n6)
+- [Building a Unique Developer Portfolio](https://dev.to/adrahi/building-a-unique-developer-portfolio-2b9a)
+- [Self-Healing Application Framework - Autonomous Issue Resolution with Agentic Postgres](https://dev.to/depapp/self-healing-application-framework-autonomous-issue-resolution-with-agentic-postgres-19o0)
+- [How to Force Application Termination on Microsoft Windows](https://dev.to/ziizium/how-to-force-application-termination-on-microsoft-windows-2nl2)
+- [WTF is Bare Metal Cloud?](https://dev.to/dailybugle33/wtf-is-bare-metal-cloud-1eo2)
+- [Google Play Approved: A Robust Compliance Solution for Android Devs](https://dev.to/mabualzait/google-play-approved-a-robust-compliance-solution-for-android-devs-lgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
