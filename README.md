@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Built a VS Code extension that flags misleading function names in Python &lpar;early access&rpar; - feedback welcome!](https://dev.to/cinesnips_e20f6c3cffabce1/built-a-vs-code-extension-that-flags-misleading-function-names-in-python-early-access--4022)
-- [Agent HQ: Integrating AI Agents Natively into the GitHub Workflow](https://dev.to/stelixx-insider/agent-hq-integrating-ai-agents-natively-into-the-github-workflow-257o)
-- [🧩 Part 1: The Ultimate 2025 SaaS Tech Stack — Build, Launch, and Monetize in Under 10 Minutes](https://dev.to/nish2005karsh/part-1-the-ultimate-2025-saas-tech-stack-build-launch-and-monetize-in-under-10-minutes-1m61)
-- [From Esolang to Numeric Script: Building Formin in Fortran](https://dev.to/capinoldev/from-esolang-to-numeric-script-building-formin-in-fortran-pc9)
-- [Create a Text Editor With Go - Welcome Screen](https://dev.to/alcb1310/create-a-text-editor-with-go-welcome-screen-4hkm)
+- [Good Intentions Aren’t Enough — Measure!](https://dev.to/ijuren/good-intentions-arent-enough-measure-5co8)
+- [Building BearMinder: a tiny macOS menubar app connecting Bear to Beeminder in Swift](https://dev.to/brennan/building-bearminder-a-tiny-macos-menubar-app-connecting-bear-to-beeminder-in-swift-553k)
+- [From Frustration to Focus: How Taking Notes Changed the Way I Learn Code🧠](https://dev.to/tamerg96/from-frustration-to-focus-how-taking-notes-changed-the-way-i-learn-code-3m6e)
+- [Why Your CISO Should Be Fired](https://dev.to/jl03/why-your-ciso-should-be-fired-45j5)
+- [How to Export Cost Optimization Hub Report](https://dev.to/thukhakyawe_cloud/how-to-export-cost-optimization-hub-report-451o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
