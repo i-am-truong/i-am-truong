@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Learned IaC Without Losing My Mind 🤯](https://dev.to/danlinx2004x/how-i-learned-iac-without-losing-my-mind-347c)
-- [How AI Can Help Households Reduce Food Waste and Save Money](https://dev.to/michaelihegazie/how-ai-can-help-households-reduce-food-waste-and-save-money-272n)
-- [Stop Coding in Chaos: Why You Need a Pro Dev Environment Now &lpar;And How to Set It Up&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/stop-coding-in-chaos-why-you-need-a-pro-dev-environment-now-and-how-to-set-it-up-1779)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c32)
-- [Leveraging Synthetic Data for Enhanced AI Agent Evaluation](https://dev.to/kuldeep_paul/leveraging-synthetic-data-for-enhanced-ai-agent-evaluation-56k7)
+- [Looking for feedback on something I built for creators](https://dev.to/pauloppereiraa/looking-for-feedback-on-something-i-built-for-creators-4364)
+- [Building Git from Scratch in Go: What I Learned About Version Control Internals](https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih)
+- [From TCP Sockets to Thread Pools - Building a Production Grade Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-web-framework-4hl1)
+- [LangGraph: Orchestrating Complex LLM Workflows with State Machines](https://dev.to/aun_aideveloper/langgraph-orchestrating-complex-llm-workflows-with-state-machines-3fo9)
+- [Extract Any Data from PDFs Using AI — Invoices, Tables &amp; More with AIxtract API](https://dev.to/karma_sen_fdfdbe6a5cda221/extract-any-data-from-pdfs-using-ai-invoices-tables-more-with-aixtract-api-7f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
