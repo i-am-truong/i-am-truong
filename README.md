@@ -120,10 +120,10 @@ Python                   1 repo              █░░░░░░░░░░�
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Unique Developer Portfolio](https://dev.to/adrahi/building-a-unique-developer-portfolio-2b9a)
+- [90-Day Proven Post-Quantum TLS Readiness Sprint](https://dev.to/pentest_testing_corp/90-day-proven-post-quantum-tls-readiness-sprint-575i)
 - [Self-Healing Application Framework - Autonomous Issue Resolution with Agentic Postgres](https://dev.to/depapp/self-healing-application-framework-autonomous-issue-resolution-with-agentic-postgres-19o0)
 - [How to Force Application Termination on Microsoft Windows](https://dev.to/ziizium/how-to-force-application-termination-on-microsoft-windows-2nl2)
 - [WTF is Bare Metal Cloud?](https://dev.to/dailybugle33/wtf-is-bare-metal-cloud-1eo2)
-- [Google Play Approved: A Robust Compliance Solution for Android Devs](https://dev.to/mabualzait/google-play-approved-a-robust-compliance-solution-for-android-devs-lgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
