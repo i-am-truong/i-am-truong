@@ -119,12 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Scalable Agent-to-Agent &lpar;A2A&rpar; Communication Protocol on AWS](https://dev.to/suraj_khaitan_f893c243958/building-a-scalable-agent-to-agent-a2a-communication-protocol-on-aws-1g0i)
+- [Scenario #2: Multi-container Pod &lpar;Sidecar pattern&rpar; for logging in Kubernetes](https://dev.to/latchudevops/scenario-2-multi-container-pod-sidecar-pattern-for-logging-in-kubernetes-3mj4)
+- [Interpolate a Video from the First and Last Frames with Veo 3.1 and Nano Banana](https://dev.to/railsstudent/interpolate-a-video-from-the-first-and-last-frames-with-veo-31-and-nano-banana-5121)
 - [Application of API Testing Frameworks in Java Introduction](https://dev.to/nicole_lucianarioscohai/application-of-api-testing-frameworks-in-java-introduction-40g6)
 - [Simplifying Prometheus Metrics in Go with prometric-go](https://dev.to/asraful_haque/simplifying-prometheus-metrics-in-go-with-prometric-go-22ef)
-- [I built Laravel AI Orchestrator a package that makes it easy to orchestrate AI calls across multiple providers, with automatic fallbacks, structured output, and now, contextual memory #laravel 
-https://github.com/sumeetghimire/Laravel-AI-Orchestrator](https://dev.to/sumeet_ghimire_949cb23b3e/i-built-laravel-ai-orchestrator-a-package-that-makes-it-easy-to-orchestrate-ai-calls-across-4i6a)
-- [Laboratorio IAM: Creación segura de cuenta Root y Usuario IAM Administrator en AWS](https://dev.to/figueroaeandres/laboratorio-iam-creacion-segura-de-cuenta-root-y-usuario-iam-administrator-en-aws-49a3)
-- [Day 38 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-38-of-100-days-dsa-coding-challenge-k44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
