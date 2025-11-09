@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✅ Scenario #3: Debugging a Running Container in Kubernetes](https://dev.to/latchudevops/scenario-3-debugging-a-running-container-in-kubernetes-2044)
-- [A Production-Ready Laravel Architecture with Traefik and FrankenPHP](https://dev.to/danielpetrica/a-production-ready-laravel-architecture-with-traefik-and-frankenphp-1led)
-- [Lucro Estratégico — Educação Financeira Que Transforma Conhecimento em Resultados?](https://dev.to/sulababa/lucro-estrategico-educacao-financeira-que-transforma-conhecimento-em-resultados-28p4)
-- [Day 29 - Add a Loader and Error State](https://dev.to/railsstudent/day-29-add-a-loader-and-error-state-46fl)
-- [Day 28 - Retrieve the Post Author](https://dev.to/railsstudent/day-28-retrieve-the-post-author-3i9j)
+- [✅ Scenario #4 — Debugging with Ephemeral Debug Containers in Kubernetes](https://dev.to/latchudevops/scenario-4-debugging-with-ephemeral-debug-containers-in-kubernetes-l76)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-52i2)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-59eg)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3iek)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-b95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
