@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building ClimateSage: An AI-Powered Climate Education Platform](https://dev.to/srikarmk/building-climatesage-an-ai-powered-climate-education-platform-2lcm)
-- [Princípios fundamentais do desenvolvimento de software](https://dev.to/jaksonxavier/principios-fundamentais-do-desenvolvimento-de-software-46a0)
-- [Setting Up a QGIS Plugin Development Environment with Conda and VS Code](https://dev.to/ronitjadhav/setting-up-a-qgis-plugin-development-environment-with-conda-and-vs-code-3fg1)
-- [Why CSS Is So Hard for Generative AIs to Understand?](https://dev.to/asafaeirad/why-css-is-so-hard-for-generative-ais-to-understand-17fo)
-- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-1g3b)
+- [Shifting Gears: What TDD Taught Me About Using AI Assistants](https://dev.to/trev_the_dev/shifting-gears-what-tdd-taught-me-about-using-ai-assistants-kcc)
+- [The Code of Life: What Python&#39;s Data Structures Teach Us About Growth](https://dev.to/sreeni5018/the-code-of-life-what-pythons-data-structures-teach-us-about-growth-2oaf)
+- [Easy Lua Scripts for Roblox Games in 2025?](https://dev.to/nigelsilonero/easy-lua-scripts-for-roblox-games-in-2025-1oo6)
+- [Predicting Fuel Efficiency with Tree-Based Models: A Hands-On Machine Learning Walkthrough](https://dev.to/techkene/predicting-fuel-efficiency-with-tree-based-models-a-hands-on-machine-learning-walkthrough-4ejg)
+- [Episode 1: Arrays — The Hidden Logic Behind How Your Code Remembers](https://dev.to/nedajahanfar/episode-1-arrays-the-hidden-logic-behind-how-your-code-remembers-55o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
