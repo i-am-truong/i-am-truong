@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From 10 Millions Monthly Orders to Reality: Architecting a Production-Grade E-commerce Platform on Azure Kubernetes](https://dev.to/devaaai/from-30m-daily-orders-to-reality-architecting-a-production-grade-e-commerce-platform-on-azure-2d87)
+- [Smart Template Revolution in WebForms Core 2](https://dev.to/elanatframework/smart-template-revolution-in-webforms-core-2-5fap)
 - [From Jupyter Notebook to Production: Complete Guide to ML Model Deployment](https://dev.to/aaravjoshi/from-jupyter-notebook-to-production-complete-guide-to-ml-model-deployment-ffd)
 - [Becoming a Full Stack Developer Day 2](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-2-cdf)
 - [ArtistAssistApp New Features and Improvements – November 2025](https://dev.to/eugene-khyst/artistassistapp-new-features-and-improvements-november-2025-19bj)
-- [Caching Strategy for RESTFUL API](https://dev.to/masteringbackend/caching-strategy-for-restful-api-2gkj)
-- [Wait, Can We Automate Our Commit-Driven Social Media Updates?](https://dev.to/brilliantmakanju/wait-can-we-automate-our-commit-driven-social-media-updates-35a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
