@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking PIM Potential: A Software-First Approach to Power Integrity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-pim-potential-a-software-first-approach-to-power-integrity-by-arvind-sundararajan-2pjo)
-- [Cointelegraph reports rise in AI trading bots as experts caution they are notfoolproof for investors](https://dev.to/ytosko/cointelegraph-reports-rise-in-ai-trading-bots-as-experts-caution-they-are-notfoolproof-for-investors-2aii)
-- [🌟](https://dev.to/thebitforge/-43jn)
-- [🧠 Circuit Breaker Patterns in Go Microservices](https://dev.to/serifcolakel/circuit-breaker-patterns-in-go-microservices-n3)
-- [&#39;이 언어&#39;로 코딩테스트 준비하는 취업준비생... 심장병 확률 44%⬆](https://dev.to/algoorgoal/i-eoneoro-kodingteseuteu-junbihaneun-cwieobjunbisaeng-simjangbyeong-hwagryul-44-4mmo)
+- [🐯 Tiger MCP Blew My Mind – Here&#39;s the Visual Layer I&#39;m Building to Complete It 😇](https://dev.to/jacksonkasi/tiger-mcp-blew-my-mind-heres-the-visual-layer-im-building-to-complete-it-30ak)
+- [How to ship apps faster with full-stack Claude Code setup &lpar;Skills, MCP, Plugins&rpar;](https://dev.to/composiodev/how-to-ship-apps-faster-with-full-stack-claude-code-setup-skills-mcp-plugins-516g)
+- [Why AWS Lightsail Container Service is the Secret Weapon for Your Micro-SaaS](https://dev.to/karaniph/why-aws-lightsail-container-service-is-the-secret-weapon-for-your-micro-saas-2g27)
+- [Como acompanhar a evolução da tecnologia sem se perder no caminho no mundo &quot;2x&quot;](https://dev.to/caramelo-ti/como-acompanhar-a-evolucao-da-tecnologia-sem-se-perder-no-caminho-no-mundo-2x-341p)
+- [The Job Market You’re Preparing For… Doesn’t Exist Anymore](https://dev.to/aniruddhaadak/the-job-market-youre-preparing-for-doesnt-exist-anymore-1c4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
