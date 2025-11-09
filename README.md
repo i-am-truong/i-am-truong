@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Illusion of Language: What Directives Really Are](https://dev.to/lazarv/the-illusion-of-language-what-directives-really-are-445)
 - [AWS SAA to Security Clearance: My Path to Federal Cloud Engineering](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-cloud-engineering-4p0p)
 - [Ring Based deployment](https://dev.to/vkassingh/ring-based-deployment-3g3h)
+- [From Response Time to User Impact: Modern Incident Metrics](https://dev.to/kapusto/from-response-time-to-user-impact-modern-incident-metrics-4lj)
 - [Copier Uptime Without the Drama: A Practical Playbook for Offices That Hate Fire Drills](https://dev.to/sonia_bobrik_1939cdddd79d/copier-uptime-without-the-drama-a-practical-playbook-for-offices-that-hate-fire-drills-jhd)
-- [What Survives After Media Pivots: A Hard-Nosed Playbook for 2025](https://dev.to/sonia_bobrik_1939cdddd79d/what-survives-after-media-pivots-a-hard-nosed-playbook-for-2025-2bgi)
-- [Preventing AI Project Failures Through Effective Prompt Engineering](https://dev.to/kapusto/preventing-ai-project-failures-through-effective-prompt-engineering-13lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
