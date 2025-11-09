@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hire Electron Developers to Build Modern Cross-Platform Desktop Apps](https://dev.to/capitalcompute/hire-electron-developers-to-build-modern-cross-platform-desktop-apps-1lp5)
-- [From Beginner to Pro: The Ultimate Docker Command Cheatsheet 🐳📘](https://dev.to/ritesh355/from-beginner-to-pro-the-ultimate-docker-command-cheatsheet-1gac)
-- [The Real Limits of n8n “Free” Automation: What You Need to Know Before Shipping to Production](https://dev.to/alifar/the-real-limits-of-n8n-free-automation-what-you-need-to-know-before-shipping-to-production-59o6)
-- [🎯 Scenario #9 — Create a Deployment, Roll Out an Updated Version and Rollback](https://dev.to/latchudevops/scenario-9-create-a-deployment-roll-out-an-updated-version-and-rollback-4ijd)
-- [Quantum-Resistant Federated Learning: Securing Distributed Model Training Against Post-Quantum Cryptography Threats](https://dev.to/rikinptl/quantum-resistant-federated-learning-securing-distributed-model-training-against-post-quantum-1lap)
+- [🎯 Scenario #10 — Use kubectl diff to Preview Changes Before Applying in Kubernetes](https://dev.to/latchudevops/scenario-10-use-kubectl-diff-to-preview-changes-before-applying-in-kubernetes-jh4)
+- [The Hidden Cost of Outdated Maps: Why Your Connected Car&#39;s Software is Only as Good as its Geospatial Data](https://dev.to/gpsnavigationmaps_eu/the-hidden-cost-of-outdated-maps-why-your-connected-cars-software-is-only-as-good-as-its-527n)
+- [Learning SQL: The Language Behind Your Data](https://dev.to/sareena_rahim/learning-sql-the-language-behind-your-data-cmg)
+- [The Last SVG Tool You’ll Ever Need: A Zero-Dependency Alternative to SVGR](https://dev.to/navid_rezadoost_33d170b80/the-last-svg-tool-youll-ever-need-a-zero-dependency-alternative-to-svgr-10nc)
+- [Audio Converter AI Review: Fast and Accurate AI Audio-to-Text Transcription](https://dev.to/cicisee666/audio-converter-ai-review-fast-and-accurate-ai-audio-to-text-transcription-44n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
