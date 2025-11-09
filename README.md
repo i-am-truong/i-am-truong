@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bilişim Sektöründe Uzmanlaşmanın İki Yüzü](https://dev.to/yuksektepe/bilisim-sektorunde-uzmanlasmanin-iki-yuzu-o4f)
-- [Smart Job Search System for Developers, Stop Randomly Applying](https://dev.to/rajondey/smart-job-search-system-for-developers-stop-randomly-applying-25e1)
-- [Deploy Your Web App in 1 Minute](https://dev.to/badass_tech-ae2025/deploy-your-web-app-in-1-minute-3idb)
-- [Getting Started With Queryable Encryption With the MongoDB EF Core Provider](https://dev.to/mongodb/getting-started-with-queryable-encryption-with-the-mongodb-ef-core-provider-5238)
-- [Scanner vs BufferedReader](https://dev.to/erickvasm/scanner-vs-bufferedreader-2m25)
+- [Caching Strategy for RESTFUL API](https://dev.to/masteringbackend/caching-strategy-for-restful-api-2gkj)
+- [Devtool for running and benchmarking local AI](https://dev.to/elina_norling_embedl/devtool-for-running-and-benchmarking-local-ai-445e)
+- [What Is a Lua Module in Roblox in 2025?](https://dev.to/nigelsilonero/what-is-a-lua-module-in-roblox-in-2025-mkn)
+- [Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation inMixture-of-Expert models](https://dev.to/paperium/rewiring-experts-on-the-flycontinuous-rerouting-for-better-online-adaptation-inmixture-of-expert-4jc6)
+- [Ghostty + Zellij 👻 setup on Mac](https://dev.to/cristobal/ghostty-zellij-setup-on-mac-11la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
