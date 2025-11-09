@@ -119,11 +119,17 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top Raspberry Pi Beginner Projects in Python for 2025](https://dev.to/jordankeurope/top-raspberry-pi-beginner-projects-in-python-for-2025-1pm6)
-- [How to Connect Raspberry Pi to a Monitor in 2025?](https://dev.to/nigelsilonero/how-to-connect-raspberry-pi-to-a-monitor-in-2025-44k7)
-- [The Future of Data Pipelines: How AI Is Redefining ETL Forever](https://dev.to/etloss/the-future-of-data-pipelines-how-ai-is-redefining-etl-forever-5d6h)
-- [Flood Alert: How Sparse Sensing and AI are Saving Cities by Arvind Sundararajan](https://dev.to/arvind_sundararajan/flood-alert-how-sparse-sensing-and-ai-are-saving-cities-by-arvind-sundararajan-380f)
-- [HyperMarkets: Fast, Fair, and Fun Prediction Markets on Hyperliquid Perps](https://dev.to/chrisk824/hypermarkets-fast-fair-and-fun-prediction-markets-on-hyperliquid-perps-2no2)
+- [Everyone is obsessed with “prompt tricks.”
+
+They collect templates, copy prompts from Twitter threads.
+
+But after all that, their results still feel… average. Why?
+
+It has everything to do with you and not with your prompts.](https://dev.to/jaideepparashar/everyone-is-obsessed-with-prompt-tricks-they-collect-templates-copy-prompts-from-twitter-5639)
+- [The Prompt Layer Most Beginners Miss](https://dev.to/jaideepparashar/the-prompt-layer-most-beginners-miss-2op1)
+- [How the 2WHAV-Iterative Cycle Turns Uncertainty into Production-Ready Code](https://dev.to/francesco_marconi_282058b/how-the-2whav-iterative-cycle-turns-uncertainty-into-production-ready-code-1dk4)
+- [Lesson 21: Freqtrade-Exchange API Configuration](https://dev.to/henry_lin_3ac6363747f45b4/lesson-21-freqtrade-exchange-api-configuration-246i)
+- [第 21 课：Freqtrade-交易所 API 配置](https://dev.to/henry_lin_3ac6363747f45b4/di-21-ke-freqtrade-jiao-yi-suo-api-pei-zhi-5dgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
