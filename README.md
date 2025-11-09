@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TOON vs JSON: The New Format Designed for AI](https://dev.to/akki907/toon-vs-json-the-new-format-designed-for-ai-nk5)
-- [My Open Source Journey with Kestra &lpar;via WeMakeDevs&rpar;](https://dev.to/archu270292/my-open-source-journey-with-kestra-via-wemakedevs-pk4)
-- [SQL: Summing categories](https://dev.to/david_kershaw_b6916404da6/sql-summing-categories-57pp)
-- [Taming Time-Delayed Chaos: Linearizing the Unpredictable](https://dev.to/arvind_sundararajan/taming-time-delayed-chaos-linearizing-the-unpredictable-4b7)
-- [🔥 JavaScript Interview Series&lpar;15&rpar;: Inside the JavaScript Engine: V8 &amp; SpiderMonkey Explained](https://dev.to/jackm_345442a09fb53b/javascript-interview-series15-inside-the-javascript-engine-v8-spidermonkey-explained-1f6c)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-5hnc)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-327b)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2nlo)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-57h4)
+- [Optimizing Adventure Games for Mobile and Cross-Device Play](https://dev.to/gamh5games/optimizing-adventure-games-for-mobile-and-cross-device-play-48n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
