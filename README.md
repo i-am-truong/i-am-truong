@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude vs ChatGPT vs Gemini: Why Anthropic’s AI Outcodes the Rest?](https://dev.to/grenishrai/claude-vs-chatgpt-vs-gemini-why-anthropics-ai-outcodes-the-rest-451i)
-- [How to Automate GitHub Workflows with Gemini CLI and the MCP Toolkit for Docker](https://dev.to/picoable/how-to-automate-github-workflows-with-gemini-cli-and-the-mcp-toolkit-for-docker-2p8l)
-- [Construyendo mi propio IPTV Player en C](https://dev.to/djsurgeon/construyendo-mi-propio-iptv-player-en-c-24jf)
-- [I achieved 0% ANR in my Android app. Spilling beans on how I did it - part 1](https://dev.to/nek12/i-achieved-0-anr-in-my-android-app-spilling-beans-on-how-i-did-it-part-1-2b38)
-- [Managing LLM Prompts With Snowflake Model Registry](https://dev.to/jhagerer/managing-llm-prompts-with-snowflake-model-registry-1f9d)
+- [Scanner vs BufferedReader](https://dev.to/erickvasm/scanner-vs-bufferedreader-2m25)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-158e)
+- [Understanding AI: From LLMs to MCP](https://dev.to/anurag112/understanding-ai-from-llms-to-mcp-3268)
+- [Symfony Station Communiqué - ✦ Stardate: 07 November 2025 ✦](https://dev.to/reubenwalker64/symfony-station-communique-stardate-07-november-2025-1ege)
+- [Check out this blog on all device compatible tableau dashboards](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-blog-on-all-device-compatible-tableau-dashboards-515m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
