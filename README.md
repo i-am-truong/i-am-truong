@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Synology DS925+: The Ultimate NAS for Families and Creators? - My Full Journey, Features, and Unmissable Insights](https://dev.to/shauvik_kumar_bf4e35c793b/synology-ds925-the-ultimate-nas-for-families-and-creators-my-full-journey-features-and-jo3)
-- [PostgreSQL Procedures &amp; Functions](https://dev.to/analystgatitu/postgresql-procedures-functions-2j4c)
-- [Tag your `TODO`s](https://dev.to/rndthts/tag-your-todos-15e4)
-- [The Production AI Agent Checklist](https://dev.to/hadywalied/the-production-ai-agent-checklist-30a2)
-- [DevOpsWay Mini #3 - It&#39;s not useless if it works!](https://dev.to/wbartlomiej/devopsway-mini-3-its-not-useless-if-it-works-4d3b)
+- [Your static documentation checker](https://dev.to/yarax/your-static-documentation-checker-3dio)
+- [Annotation-Efficient Universal Honesty Alignment](https://dev.to/paperium/annotation-efficient-universal-honesty-alignment-40ef)
+- [How to Quickly Test Your Blazor App on a Real Smartphone](https://dev.to/j_sakamoto/how-to-quickly-test-your-blazor-app-on-a-real-smartphone-24h1)
+- [DocumentDB goes cloud-native: Introducing the DocumentDB Kubernetes Operator](https://dev.to/abhirockzz/documentdb-goes-cloud-native-introducing-the-documentdb-kubernetes-operator-3ji9)
+- [6 Ways A Node Developer Can Drastically Boost Their Productivity in 2025](https://dev.to/robbiecahill/6-ways-a-node-developer-can-drastically-boost-their-productivity-in-2025-39ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
