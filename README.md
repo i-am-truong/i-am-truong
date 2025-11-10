@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Node Kubernetes Cluster with Vagrant](https://dev.to/aratax/building-a-multi-node-kubernetes-cluster-with-vagrant-o0h)
-- [dAttendance: An Agent-First Attendance Platform on Smart Postgres](https://dev.to/abidnoyon/dattendance-an-agent-first-attendance-platform-on-smart-postgres-2a39)
-- [Agentic Orchestrator with Tiger CLI](https://dev.to/lumskii_mike_ecedf2fa317a/agentic-orchestrator-with-tiger-cli-5hnj)
-- [Laptop/PC Device Anomaly Analyzer: Self-Healing System Powered by Agentic Postgres](https://dev.to/apoorv_dev07/laptoppc-device-anomaly-analyzer-self-healing-system-powered-by-agentic-postgres-2n7m)
-- [Real-Time Data Updates with .NET Core and Angular using SignalR](https://dev.to/morteza-jangjoo/real-time-data-updates-with-net-core-and-angular-using-signalr-1ipo)
+- [The Production AI Agent Checklist](https://dev.to/hadywalied/the-production-ai-agent-checklist-30a2)
+- [Go DI Libraries Comparison: go-infrastructure vs. Fx](https://dev.to/jack_apolo_beb30743942cf8/go-di-libraries-comparison-go-infrastructure-vs-fx-4jni)
+- [From Frustration to Protection: The Logic of Secure Coding](https://dev.to/quantum_techzone_2a101732/from-frustration-to-protection-the-logic-of-secure-coding-47ni)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-17c4)
+- [What Is SaaS? A Real-World Look at Software as a Service](https://dev.to/saaslyai/what-is-saas-a-real-world-look-at-software-as-a-service-5g7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
