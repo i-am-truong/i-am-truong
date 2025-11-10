@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cursor Composer 1 vs SWE 1.5 What Surprised Me Most After Testing Both](https://dev.to/composiodev/cursor-composer-1-vs-swe-15-what-surprised-me-most-after-testing-both-25gh)
-- [OpenTelemetry Docker Monitoring with Collector and Docker Stats](https://dev.to/uptrace/opentelemetry-docker-monitoring-with-collector-and-docker-stats-17b1)
-- [Django OpenTelemetry Instrumentation Guide](https://dev.to/uptrace/django-opentelemetry-instrumentation-guide-kgf)
-- [OpenTelemetry database sql [otelsql]](https://dev.to/uptrace/opentelemetry-database-sql-otelsql-4oke)
-- [OpenTelemetry Celery Instrumentation Guide](https://dev.to/uptrace/opentelemetry-celery-instrumentation-guide-1122)
+- [Azure Data Encryption Best Practices: How to Secure Data at Rest, In Transit &amp; In Use](https://dev.to/zarajohnson/azure-data-encryption-best-practices-2mp)
+- [How to Ingest 1 Billion Events Per Day Without Kafka: A Serverless Masterclass](https://dev.to/sivarampg/how-to-ingest-1-billion-events-per-day-without-kafka-a-serverless-masterclass-j2f)
+- [🐍 Using Python to Extend Go High Level’s Capabilities via API](https://dev.to/ambrosekol/using-python-to-extend-go-high-levels-capabilities-via-api-30k4)
+- [Understanding the FTSE AIM 100 Index: A Comprehensive Overview](https://dev.to/bella_stewart_1e038c004d3/understanding-the-ftse-aim-100-index-a-comprehensive-overview-1k30)
+- [The Best LLM and AI Orchestration Toolkits for Your Stack](https://dev.to/pathak_prakarsh/the-best-llm-and-ai-orchestration-toolkits-for-your-stack-5hlk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
