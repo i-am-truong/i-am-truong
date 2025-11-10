@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Great AWS Outage: The $11 Billion Argument for Kubernetes](https://dev.to/signadot/the-great-aws-outage-the-11-billion-argument-for-kubernetes-5dod)
+- [Is AI Coming for Your Dev Job? The Truth About Code, Creativity, and Career Survival](https://dev.to/blogai/is-ai-coming-for-your-dev-job-the-truth-about-code-creativity-and-career-survival-3l1f)
 - [Understanding Kafka Consumer Lag: Causes, Risks, and How to Fix It](https://dev.to/eric_kahindi_cfbfda3bd0f7/understanding-kafka-consumer-lag-causes-risks-and-how-to-fix-it-33e0)
+- [How Machines See: The Power of Computer Vision in AI &lpar;Explained for Developers&rpar;](https://dev.to/zestminds_technologies_c1/how-machines-see-the-power-of-computer-vision-in-ai-explained-for-developers-2jei)
 - [From COBOL to Cloud: How Kiro&#39;s Spec-Driven Development Transformed Legacy Modernization](https://dev.to/shaistaaman/from-cobol-to-cloud-how-kiros-spec-driven-development-transformed-legacy-modernization-39c5)
-- [How to create QR based 2fa system in Node.js &lpar;step-by-step&rpar;](https://dev.to/jahongir2007/how-to-create-qr-based-2fa-system-in-nodejs-step-by-step-14a6)
-- [Unlocking Revenue: How Monetzly Transforms AI App Monetization for Developers](https://dev.to/monetzly/unlocking-revenue-how-monetzly-transforms-ai-app-monetization-for-developers-2p8j)
-- [Effective Prompting for Generative Vision Models](https://dev.to/pruna-ai/effective-prompting-for-generative-vision-models-1bpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
