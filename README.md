@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Building VerveAI.co — How Kiro Made AI Productivity Simpler](https://dev.to/rds087/building-verveaico-how-kiro-made-ai-productivity-simpler-10hk)
+- [Understanding Classes and Objects in Dart](https://dev.to/kihiro/understanding-classes-and-objects-in-dart-3ml)
+- [SmartPair - An Agent first freelancing platform.](https://dev.to/itsmefminsaf/smartpair-an-agent-first-freelancing-platform-3mod)
+- [The default user in the Docker image](https://dev.to/u11d/the-default-user-in-the-docker-image-17gm)
 - [Perl 🐪 Weekly #746 - YAPC::Fukuoka 2025 🇯🇵](https://dev.to/szabgab/perl-weekly-746-yapcfukuoka-2025-2b83)
-- [User Reviews Synthesis: What Real Teams Say About Batch Background Tools](https://dev.to/freepixel11/user-reviews-synthesis-what-real-teams-say-about-batch-background-tools-4a8n)
-- [React PDF Libraries: Free &amp; Paid Tools Comparison &lpar;Developer Guide&rpar;](https://dev.to/tayyabcodes/react-pdf-libraries-free-paid-tools-comparison-developer-guide-hcp)
-- [Hashicorp Vault CLI Part 2: Operation Commands](https://dev.to/admantium/hashicorp-vault-cli-part-2-operation-commands-1p5p)
-- [I’m 13 and Just Made a Web Framework 3 Faster Than Express](https://dev.to/thelittleprince1218/im-13-and-just-made-a-web-framework-3x-faster-than-express-3bdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
