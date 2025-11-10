@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Stopped Manually Syncing My TypeScript Frontend with Spring Boot Backend](https://dev.to/thomas_d0e3e4bf88343c33a5/how-i-stopped-manually-syncing-my-typescript-frontend-with-spring-boot-backend-2me3)
+- [Building TouchSlides: A Real-Time Presentation Remote on Cloudflare&#39;s Edge](https://dev.to/kamil_uhryn/building-touchslides-a-real-time-presentation-remote-on-cloudflares-edge-1iee)
+- [Mastering Nest.js: From Core Concepts to a Real-World Project](https://dev.to/abanoubkerols/mastering-nestjs-from-core-concepts-to-a-real-world-project-2d2c)
+- [Project on how to create Resource group and Storage Account](https://dev.to/baris86/project-on-how-to-create-resource-group-and-storage-account-2ioe)
 - [FastAPI Template](https://dev.to/eslam5464/fastapi-template-p9m)
-- [Forem Project Weekly: Scheduled Automations, Image Generation &amp; UX Upgrades](https://dev.to/forem_project_bot/forem-project-weekly-scheduled-automations-image-generation-ux-upgrades-49g3)
-- [CVE-2025-21042: Samsung Mobile Devices Out-of-Bounds Write Vulnerability](https://dev.to/freedom-coder/cve-2025-21042-samsung-mobile-devices-out-of-bounds-write-vulnerability-3pel)
-- [&quot;The Fourth Day: 10 Inspiring Quotes to Reignite Your Faith and Finish the Week Strong&quot;](https://dev.to/godblessingyou/the-fourth-day-10-inspiring-quotes-to-reignite-your-faith-and-finish-the-week-strong-36km)
-- [How Otter.ai Helps You Focus Better During Meetings🧠💬](https://dev.to/stackmention/how-otterai-helps-you-focus-better-during-meetings-5ddh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
