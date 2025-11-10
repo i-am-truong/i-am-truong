@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Updating to Jest 30 is Frustrating &lpar;it&#39;s JSDOM&rpar;](https://dev.to/htho/updating-to-jest-30-is-frustrating-its-jsdom-2jn3)
-- [🦓 The Tale of the Humbled Process Engineer —  Episode I: The Pattern of the Chameleons 🦎](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-i-the-pattern-of-the-chameleons-24p4)
-- [Synthetic Data Generator](https://dev.to/oliver_samuel_028c6f65ad6/building-a-synthetic-data-generator-from-concept-to-reality-63m)
-- [Integrating Pagy with Hanami &lpar;2025 edition&rpar;](https://dev.to/katafrakt/integrating-pagy-with-hanami-2025-edition-20f2)
-- [Role-Based Authorization for Rails: How We Built Rabarber](https://dev.to/enjaku4/role-based-authorization-for-rails-how-we-built-rabarber-ahi)
+- [Why Rural Broadband Access Remains a Challenge in America](https://dev.to/sidra-jefferi/why-rural-broadband-access-remains-a-challenge-in-america-4h4o)
+- [Truth Over Hype: A Builder’s Playbook for Credible Storytelling](https://dev.to/sonia_bobrik_1939cdddd79d/truth-over-hype-a-builders-playbook-for-credible-storytelling-571f)
+- [From Notebook to Production: A Pragmatic Playbook for Developers Who Ship](https://dev.to/sonia_bobrik_1939cdddd79d/from-notebook-to-production-a-pragmatic-playbook-for-developers-who-ship-1j6)
+- [From One Photo to a Living Story: A Field Guide for Makers, Journalists, and Curious Humans](https://dev.to/sonia_bobrik_1939cdddd79d/from-one-photo-to-a-living-story-a-field-guide-for-makers-journalists-and-curious-humans-4fj5)
+- [ConsistEdit: Highly Consistent and Precise Training-free Visual Editing](https://dev.to/paperium/consistedit-highly-consistent-and-precise-training-free-visual-editing-3ejk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
