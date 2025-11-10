@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3bek)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2h35)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-333m)
-- [The Rise of Edge Computing in Modern IT](https://dev.to/wajeeha_zeeshan_fd0909b20/the-rise-of-edge-computing-in-modern-it-556m)
-- [30+ WordPress Security Best Practices in 2025](https://dev.to/medha_bhatt_21b7dc4cc53e7/30-wordpress-security-best-practices-in-2025-2134)
+- [I’m 13 and Just Made a Web Framework 3 Faster Than Express](https://dev.to/thelittleprince1218/im-13-and-just-made-a-web-framework-3x-faster-than-express-3bdk)
+- [Contributing to Ubuntu — Day 2.5: When I had to pause my journey ⏸️](https://dev.to/geniusmind9999/contributing-to-ubuntu-day-25-when-i-had-to-pause-my-journey-55b)
+- [The Security Logic Behind LLM Jailbreaking](https://dev.to/rs_xxx_de5a22d80a9b371aee/the-security-logic-behind-llm-jailbreaking-3hb5)
+- [Build Your First TCP Chat App Using Node.js 🚀💬](https://dev.to/avijitbera/build-your-first-tcp-chat-app-using-nodejs-2kb8)
+- [How I Approach Building Component Systems](https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
