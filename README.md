@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Crypto Data Pipeline with Debezium CDC](https://dev.to/aineahsimiyu/building-a-real-time-crypto-data-pipeline-with-debezium-cdc-1j41)
-- [Rewind AI Alternative to Windows You Can Trust](https://dev.to/nodminger/rewind-ai-alternative-to-windows-you-can-trust-51a)
-- [Modern License Metadata for Python Packages: An Introduction to PEP 639 and SPDX](https://dev.to/wagenrace/modern-license-metadata-for-python-packages-an-introduction-to-pep-639-and-spdx-2d11)
-- [We wanted Her, instead we got Tinder](https://dev.to/leon_lin_s/we-wanted-her-instead-we-got-tinder-2o8d)
-- [Accelerating AI Agent Development and Deployment Cycles](https://dev.to/kamya_shah_e69d5dd78f831c/accelerating-ai-agent-development-and-deployment-cycles-4n0j)
+- [Reducing Consumer Lag in Apache Kafka](https://dev.to/aineahsimiyu/reducing-consumer-lag-in-apache-kafka-2d50)
+- [What are your goals for the week? #152](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-152-134f)
+- [Your &quot;Best Practice&quot; is Someone Else&#39;s Tradeoff](https://dev.to/dchueri/your-best-practice-is-someone-elses-tradeoff-1k87)
+- [How to Add Custom Command Shortcuts in Cursor](https://dev.to/dev-tngsh/how-to-add-custom-command-shortcuts-in-cursor-1an)
+- [From the OR to the Medicine Cabinet: Medical Tools That Will Revolutionize Your Everyday Life](https://dev.to/vubu_medicalinstruments/from-the-or-to-the-medicine-cabinet-medical-tools-that-will-revolutionize-your-everyday-life-24dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
