@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [System Design Interviews Simplified: How Mectora Prepares You for FAANG Companies](https://dev.to/mectora-official/system-design-interviews-simplified-how-mectora-prepares-you-for-faang-companies-fme)
-- [Coding Challenge Practice - Question 51](https://dev.to/tomivan/coding-challenge-practice-question-51-469a)
-- [Why I Built the 🕍 Cathedral Roo Architect Mode](https://dev.to/bekalah/why-i-built-the-cathedral-roo-architect-mode-578j)
-- [A importância da Developer Experience &lpar;DX&rpar;](https://dev.to/andersoncontreira/a-importancia-da-developer-experience-dx-4ohj)
-- [Como Criar um App Web com Crow C++, MySQL e Tailwind CSS](https://dev.to/marcosplusplus/como-criar-um-app-web-com-crow-c-mysql-e-tailwind-css-4op1)
+- [Getting the Model Right](https://dev.to/restlessmike/getting-the-model-right-35dd)
+- [Different Ways to Count](https://dev.to/davidcanhelp/different-ways-to-count-12mk)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2128)
+- [Debug a NestJS application in WebStorm](https://dev.to/pantpapasavvas/debug-a-nestjs-application-in-webstorm-5990)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2abm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
