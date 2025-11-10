@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn forms – unstyled select element](https://dev.to/marcelinaredocindo/learn-forms-unstyled-select-element-2lp9)
-- [4 handy Cypress snippets](https://dev.to/ads-bne/4-handy-cypress-snippets-4ogj)
-- [NeuroBase: AI-Powered Conversational Database with Multi-Agent Intelligence](https://dev.to/4n0nn43x/neurobase-ai-powered-conversational-database-with-multi-agent-intelligence-510o)
-- [Η Επανάσταση της Τεχνητής Νοημοσύνης](https://dev.to/__b63657/e-epanastase-tes-tekhnetes-noemosunes-p01)
-- [MammoAI: Transform mammograms into clear diagnoses and actionable care.](https://dev.to/iamceejay/mammoai-transform-mammograms-into-clear-diagnoses-and-actionable-care-1nf2)
+- [PiHMP Stack &lpar;v2&rpar; - The Phoenix Protocol Build Log](https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f)
+- [HPSR Proxy Stack: Tu Propio Servidor Proxy HTTPS con Docker, Squid y Certificados SSL Válidos](https://dev.to/hopsersmerk/hpsr-proxy-stack-tu-propio-servidor-proxy-https-con-docker-squid-y-certificados-ssl-validos-47a8)
+- [ChatGPT Lied to Me: A Warning to Developers](https://dev.to/todd427/chatgpt-lied-to-me-a-warning-to-developers-2ddh)
+- [Intro to Clean Architecture in Android. Example with independent features.](https://dev.to/mardsoul/intro-to-clean-architecture-in-android-example-with-independent-features-bkg)
+- [Testing While Developing &lpar;Part 5&rpar;: Collecting Coverage](https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
