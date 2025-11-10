@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI](https://dev.to/paperium/beyond-pipelines-a-survey-of-the-paradigm-shift-toward-model-native-agentic-ai-3ko)
-- [🚀 Container Hardening: 12 Essential Rules for Secure and Optimized Docker Builds](https://dev.to/it-wibrc/container-hardening-12-essential-rules-for-secure-and-optimized-docker-builds-5b0)
-- [RESTful - Pílula 1 – URLs devem representar recursos e não ações](https://dev.to/andersoncontreira/restful-pilula-1-urls-devem-representar-recursos-nao-acoes-4lng)
-- [Exercise - Provide private storage for internal company documents](https://dev.to/adebayo_ganiyatoladunjoy/exercise-provide-private-storage-for-internal-company-documents-1850)
-- [Reducing Consumer Lag in Apache Kafka](https://dev.to/aineahsimiyu/reducing-consumer-lag-in-apache-kafka-2d50)
+- [My Ongoing Cloud Migration Journey 🚀](https://dev.to/jamiu_cloud/my-ongoing-cloud-migration-journey-3i1a)
+- [Build in Public &lpar;Data Engineering&rpar;: Day Zero](https://dev.to/terieyenike/build-in-public-data-engineering-day-zero-2c65)
+- [Music Monday](https://dev.to/musicforem/music-monday-36j1)
+- [Choosing Your First Smart Devices for Home Assistant](https://dev.to/picoable/choosing-your-first-smart-devices-for-home-assistant-3474)
+- [That one missing HTTP method that broke my whole setup](https://dev.to/techwithhari/that-one-missing-http-method-that-broke-my-whole-setup-14a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
