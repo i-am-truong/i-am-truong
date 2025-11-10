@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Create a Text Editor in Go - Moving the Cursor](https://dev.to/alcb1310/create-a-text-editor-in-go-moving-the-cursor-2bnk)
-- [11 AWS Security Best Practices You Must Implement Now](https://dev.to/kevinasutton/11-aws-security-best-practices-you-must-implement-now-iok)
-- [How to Configure NGINX, and Host Your Local Website on Ubuntu Installed on VMware](https://dev.to/jic/how-to-configure-nginx-and-host-your-local-website-on-ubuntu-installed-on-vmware-pi6)
-- [The Opportunity Card Germany - My First-Hand Experience and Complete Guide](https://dev.to/luca1iu/the-opportunity-card-germany-my-first-hand-experience-and-complete-guide-4i5l)
-- [Python + AI - The Essential Skill Combination for Modern Workers Without Coding Backgrounds](https://dev.to/luca1iu/python-ai-the-essential-skill-combination-for-modern-workers-without-coding-backgrounds-35m7)
+- [From Localhost to Global Scale: Deploying a Multi-Agent AI Interior Designer with Google Cloud Run](https://dev.to/hesham_ash/from-localhost-to-global-scale-deploying-a-multi-agent-ai-interior-designer-with-google-cloud-run-2mp4)
+- [How We Cut LLM Batch Inference Time in Half with Dynamic Prefix Bucketing](https://dev.to/yks/how-we-cut-llm-batch-inference-time-in-half-with-dynamic-prefix-bucketing-183e)
+- [Searching Algorithms Part 3: Exploring Trees and Graphs with BFS and DFS](https://dev.to/picciniuscodes/searching-algorithms-part-3-exploring-trees-and-graphs-with-bfs-and-dfs-1jc0)
+- [The Secret Life of Python: Generator Secrets - Functions That Remember](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-generator-secrets-functions-that-remember-3oc)
+- [Embody 3D: A Large-scale Multimodal Motion and Behavior Dataset](https://dev.to/paperium/embody-3d-a-large-scale-multimodal-motion-and-behavior-dataset-4no1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
