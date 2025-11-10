@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ZK Casino Refund Progress: A Glimmer of Hope Amidst Lingering Doubt for Victims](https://dev.to/nftsaz2025/zk-casino-refund-progress-a-glimmer-of-hope-amidst-lingering-doubt-for-victims-3i5l)
-- [Practical Guide to Imputing Missing Values in Data Science](https://dev.to/brains_behind_bots/practical-guide-to-imputing-missing-values-in-data-science-1lni)
-- [I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&amp;A + 185 coding problems + 600 flashcards](https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-14lk)
-- [Multimeter](https://dev.to/mehrdad_shobeyri_6c61065d/multimeter-2d3l)
-- [💻Your GitHub Speaks Louder Than Your Resume: A Tiger Cloud Story🐅](https://dev.to/divyasinghdev/your-github-speaks-louder-than-your-resume-a-tiger-cloud-story-3o3)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3bek)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2h35)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-333m)
+- [The Rise of Edge Computing in Modern IT](https://dev.to/wajeeha_zeeshan_fd0909b20/the-rise-of-edge-computing-in-modern-it-556m)
+- [30+ WordPress Security Best Practices in 2025](https://dev.to/medha_bhatt_21b7dc4cc53e7/30-wordpress-security-best-practices-in-2025-2134)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
