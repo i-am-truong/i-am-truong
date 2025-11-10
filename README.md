@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building VerveAI.co — How Kiro Made AI Productivity Simpler](https://dev.to/rds087/building-verveaico-how-kiro-made-ai-productivity-simpler-10hk)
-- [Understanding Classes and Objects in Dart](https://dev.to/kihiro/understanding-classes-and-objects-in-dart-3ml)
-- [SmartPair - An Agent first freelancing platform.](https://dev.to/itsmefminsaf/smartpair-an-agent-first-freelancing-platform-3mod)
-- [The default user in the Docker image](https://dev.to/u11d/the-default-user-in-the-docker-image-17gm)
-- [Perl 🐪 Weekly #746 - YAPC::Fukuoka 2025 🇯🇵](https://dev.to/szabgab/perl-weekly-746-yapcfukuoka-2025-2b83)
+- [Laptop/PC Device Anomaly Analyzer: Self-Healing System Powered by Agentic Postgres](https://dev.to/apoorv_dev07/laptoppc-device-anomaly-analyzer-self-healing-system-powered-by-agentic-postgres-2n7m)
+- [Real-Time Data Updates with .NET Core and Angular using SignalR](https://dev.to/morteza-jangjoo/real-time-data-updates-with-net-core-and-angular-using-signalr-1ipo)
+- [Agent Evaluation in Action: Tips, Pitfalls, and Best Practices](https://dev.to/balagmadhu/agent-evaluation-in-action-tips-pitfalls-and-best-practices-5cje)
+- [SeaweedFS: A High-Scalability Distributed File System for Billions of Files](https://dev.to/stelixx-insider/seaweedfs-a-high-scalability-distributed-file-system-for-billions-of-files-3g8j)
+- [A Beginner&#39;s Guide to Debugging Your Smart Home Appliances](https://dev.to/picoable/a-beginners-guide-to-debugging-your-smart-home-appliances-36ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
