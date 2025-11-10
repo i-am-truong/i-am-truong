@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Opportunity Card Germany - My First-Hand Experience and Complete Guide](https://dev.to/luca1iu/the-opportunity-card-germany-my-first-hand-experience-and-complete-guide-4i5l)
+- [Python + AI - The Essential Skill Combination for Modern Workers Without Coding Backgrounds](https://dev.to/luca1iu/python-ai-the-essential-skill-combination-for-modern-workers-without-coding-backgrounds-35m7)
+- [Revolutionizing Data Privacy: Breakthrough in Synthetic Data](https://dev.to/drcarlosruizviquez/revolutionizing-data-privacy-breakthrough-in-synthetic-data-1ank)
 - [Getting the Model Right](https://dev.to/restlessmike/getting-the-model-right-35dd)
 - [Different Ways to Count](https://dev.to/davidcanhelp/different-ways-to-count-12mk)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2128)
-- [Debug a NestJS application in WebStorm](https://dev.to/pantpapasavvas/debug-a-nestjs-application-in-webstorm-5990)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2abm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
