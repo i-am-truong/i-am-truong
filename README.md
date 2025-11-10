@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A importância da Developer Experience &lpar;DX&rpar;](https://dev.to/andersoncontreira/a-importancia-da-developer-experience-dx-4ohj)
 - [Como Criar um App Web com Crow C++, MySQL e Tailwind CSS](https://dev.to/marcosplusplus/como-criar-um-app-web-com-crow-c-mysql-e-tailwind-css-4op1)
 - [Build a Docusaurus-like Site with FastAPI: Step 5 - Handling Static Files](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-5-handling-static-files-o0e)
 - [🗓️ Docker Learning Journal](https://dev.to/tannababy/docker-learning-journal-37ka)
 - [I&#39;m Going All-In on AI for Developers.](https://dev.to/vevarunsharma/im-going-all-in-on-ai-for-developers-3i9p)
-- [Building the &#39;Dream Team Assembler&#39; with Serverless Power: Cloud Run and Gemini](https://dev.to/eyitayo_ayodeji_a26691b42/building-the-dream-team-assembler-with-serverless-power-cloud-run-and-gemini-3p6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
