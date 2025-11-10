@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [When the mv Command “Loses” Your File in Linux — What Really Happened🚀](https://dev.to/chaitanyarai3/when-the-mv-command-loses-your-file-in-linux-what-really-happened-1186)
-- [From Pandas in Python to TabularData in Swift for Data Exploration](https://dev.to/libar/from-pandas-in-python-to-tabulardata-in-swift-for-data-exploration-3cli)
-- [Cuidado com o que você consome &lpar;e com quem você anda&rpar;](https://dev.to/andersoncontreira/cuidado-com-o-que-voce-consome-e-com-quem-voce-anda-5gm2)
-- [How to generate a Dockerfile from the Docker Image](https://dev.to/purnima_upadhyaya/how-to-generate-a-dockerfile-from-the-docker-image-3k5d)
-- [We are Almost at the END of History: The Technological Singularity](https://dev.to/aniruddhaadak/we-are-almost-at-the-end-of-history-the-technological-singularity-5b8k)
+- [Influence Without Authority: The True Skill of Senior Engineers](https://dev.to/cdownard/influence-without-authority-the-true-skill-of-senior-engineers-3ga4)
+- [Fix Common Smart Fridge Issues: A Step-by-Step DIY Tutorial](https://dev.to/picoable/fix-common-smart-fridge-issues-a-step-by-step-diy-tutorial-80l)
+- [🚀 My Neovim Configuration](https://dev.to/mannu/my-neovim-configuration-360g)
+- [Becoming a Full stack developer Day 3](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-3-4jcb)
+- [All Data and AI Weekly #215: 10 November 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-215-10-november-2025-4c2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
