@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CraftscapeHK: Building an AI + AR Platform for Cultural Heritage on Google Cloud Run](https://dev.to/gracetyy/craftscapehk-building-an-ai-ar-platform-for-cultural-heritage-on-google-cloud-run-1kfp)
 - [Anybody else getting 500 errors on GitHub at all? Don&#39;t see anything on their status page.](https://dev.to/ben/anybody-else-getting-500-errors-on-github-at-all-dont-see-anything-on-their-status-page-165d)
 - [How I built a free AI Regex Generator using Hugging Face + Next.js &lpar;no API costs&rpar;](https://dev.to/rama_panducheti_26b87b58/how-i-built-a-free-ai-regex-generator-using-hugging-face-nextjs-no-api-costs-12ic)
 - [Binary Search in Java](https://dev.to/vidya_varshini/binary-search-in-java-2h90)
 - [Influence Without Authority: The True Skill of Senior Engineers](https://dev.to/cdownard/influence-without-authority-the-true-skill-of-senior-engineers-3ga4)
-- [Fix Common Smart Fridge Issues: A Step-by-Step DIY Tutorial](https://dev.to/picoable/fix-common-smart-fridge-issues-a-step-by-step-diy-tutorial-80l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
