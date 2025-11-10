@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is the Public Cloud Ready for Post-Quantum Cryptography?](https://dev.to/aws-builders/is-the-public-cloud-ready-for-post-quantum-cryptography-26on)
-- [AI-Powered Career Portfolios on Agentic Postgres where candidates have the power](https://dev.to/sbsmith86/ai-powered-career-portfolios-on-agentic-postgres-where-candidates-have-the-power-142c)
-- [How to run scalability testing in modern software teams](https://dev.to/gatling/how-to-run-scalability-testing-in-modern-software-teams-32ki)
-- [Use bwenv to Sync Your Bitwarden Secrets into Your Shell Environment](https://dev.to/s1ks1/use-bwenv-to-sync-your-bitwarden-secrets-into-your-shell-environment-23fh)
-- [We built an AI that does the tasks no human likes to repeat — meet Codedoc](https://dev.to/notadevbuthere/we-built-an-ai-that-does-the-tasks-no-human-likes-to-repeat-meet-codedoc-31p4)
+- [How I Reduced My Site’s Browser Memory Usage by 67% &lpar;450 MB 150 MB&rpar;](https://dev.to/chaugiang/how-i-reduced-my-sites-browser-memory-usage-by-67-450-mb-150-mb-2h00)
+- [Cómo Incorporar la IA a un ERP: De Asistencia Inteligente a Automatización Total](https://dev.to/pablo_mereles_570aa6fdef5/como-incorporar-la-ia-a-un-erp-de-asistencia-inteligente-a-automatizacion-total-3ncf)
+- [Big Changes Are Coming to AI Regulation in 2026](https://dev.to/alifar/big-changes-are-coming-to-ai-regulation-in-2026-3gah)
+- [I Built a PDF-to-JSON AI in Rust + Flutter – Here&#39;s How &lpar;Waitlist Open&rpar;](https://dev.to/asimwe_landry/i-built-a-pdf-to-json-ai-in-rust-flutter-heres-how-waitlist-open-2gdn)
+- [Git rerere - Reuse Conflict Resolutions Like a Pro](https://dev.to/louis7/git-rerere-reuse-conflict-resolutions-like-a-pro-1g88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
