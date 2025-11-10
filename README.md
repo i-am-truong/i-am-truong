@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como Criar um App Web com Crow C++, MySQL e Tailwind CSS](https://dev.to/marcosplusplus/como-criar-um-app-web-com-crow-c-mysql-e-tailwind-css-4op1)
+- [Build a Docusaurus-like Site with FastAPI: Step 5 - Handling Static Files](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-5-handling-static-files-o0e)
+- [🗓️ Docker Learning Journal](https://dev.to/tannababy/docker-learning-journal-37ka)
 - [I&#39;m Going All-In on AI for Developers.](https://dev.to/vevarunsharma/im-going-all-in-on-ai-for-developers-3i9p)
 - [Building the &#39;Dream Team Assembler&#39; with Serverless Power: Cloud Run and Gemini](https://dev.to/eyitayo_ayodeji_a26691b42/building-the-dream-team-assembler-with-serverless-power-cloud-run-and-gemini-3p6p)
-- [How to Install and Configure Home Assistant: A Quick Start](https://dev.to/picoable/how-to-install-and-configure-home-assistant-a-quick-start-1fk8)
-- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-59gp)
-- [Adaptive AI: Making Edge Inference Smart and Fast by Arvind Sundararajan](https://dev.to/arvind_sundararajan/adaptive-ai-making-edge-inference-smart-and-fast-by-arvind-sundararajan-266f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
