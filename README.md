@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gracetyy/-39f9)
-- [Best Free SQL Database Software — What to Know Before You Choose](https://dev.to/samantha_brauer/best-free-sql-database-software-what-to-know-before-you-choose-16ik)
-- [How I built a Stock Suggestion app using React + node.js + free APIs ?](https://dev.to/aashutosh_bairagi_31/how-i-built-a-stock-suggestion-app-using-react-nodejs-free-apis--2bn9)
-- [CraftscapeHK: Building an AI + AR Platform for Cultural Heritage on Google Cloud Run](https://dev.to/gracetyy/craftscapehk-building-an-ai-ar-platform-for-cultural-heritage-on-google-cloud-run-1kfp)
-- [Anybody else getting 500 errors on GitHub at all? Don&#39;t see anything on their status page.](https://dev.to/ben/anybody-else-getting-500-errors-on-github-at-all-dont-see-anything-on-their-status-page-165d)
+- [Effective Prompting for Generative Vision Models](https://dev.to/pruna-ai/effective-prompting-for-generative-vision-models-1bpc)
+- [You Can&#39;t Unbake a Cake &lpar;or Why Data Isolation in the Age of AI is BASICALLY Impossible&rpar;](https://dev.to/aronchick/you-cant-unbake-a-cake-or-why-data-isolation-in-the-age-of-ai-is-basically-impossible-4jmg)
+- [Building a Producer–Consumer Pipeline in Go Using Goroutines and Channels](https://dev.to/lovestaco/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels-5fdf)
+- [The 9 Best Web Hosting Deals for 2025: Black Friday Discounts Are Live](https://dev.to/sanu_kumar_377c4dc19b88a1/the-9-best-web-hosting-deals-for-2025-black-friday-discounts-are-live-188f)
+- [My Learnings from Day 1a &amp; 1b of the Google AI Agents Intensive](https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
