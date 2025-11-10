@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Synology DS925+: The Ultimate NAS for Families and Creators? - My Full Journey, Features, and Unmissable Insights](https://dev.to/shauvik_kumar_bf4e35c793b/synology-ds925-the-ultimate-nas-for-families-and-creators-my-full-journey-features-and-jo3)
+- [PostgreSQL Procedures &amp; Functions](https://dev.to/analystgatitu/postgresql-procedures-functions-2j4c)
+- [Tag your `TODO`s](https://dev.to/rndthts/tag-your-todos-15e4)
 - [The Production AI Agent Checklist](https://dev.to/hadywalied/the-production-ai-agent-checklist-30a2)
-- [Go DI Libraries Comparison: go-infrastructure vs. Fx](https://dev.to/jack_apolo_beb30743942cf8/go-di-libraries-comparison-go-infrastructure-vs-fx-4jni)
-- [From Frustration to Protection: The Logic of Secure Coding](https://dev.to/quantum_techzone_2a101732/from-frustration-to-protection-the-logic-of-secure-coding-47ni)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-17c4)
-- [What Is SaaS? A Real-World Look at Software as a Service](https://dev.to/saaslyai/what-is-saas-a-real-world-look-at-software-as-a-service-5g7m)
+- [DevOpsWay Mini #3 - It&#39;s not useless if it works!](https://dev.to/wbartlomiej/devopsway-mini-3-its-not-useless-if-it-works-4d3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
