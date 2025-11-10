@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on Life](https://dev.to/bibimbop123/reflections-on-life-157d)
-- [Personal Responsibility for Sustainability: Building a Greener Future through Individual Action](https://dev.to/bushra_23062_889499abfc6e/personal-responsibility-for-sustainability-building-a-greener-future-through-individual-action-2ca4)
-- [Searching Algorithms Part 1: Binary Search and the Art of Cutting the Search Space](https://dev.to/picciniuscodes/searching-algorithms-part-1-binary-search-and-the-art-of-cutting-the-search-space-2n08)
-- [Code Sharing: The Unsung Hero of Developer Communities and Web Innovation](https://dev.to/buysellshop/code-sharing-the-unsung-hero-of-developer-communities-and-web-innovation-dm)
-- [Como Eliminamos 4.041 Erros de TypeScript em 6 Meses](https://dev.to/monest/como-eliminamos-4041-erros-de-typescript-em-6-meses-320a)
+- [I&#39;m Going All-In on AI for Developers.](https://dev.to/vevarunsharma/im-going-all-in-on-ai-for-developers-3i9p)
+- [Building the &#39;Dream Team Assembler&#39; with Serverless Power: Cloud Run and Gemini](https://dev.to/eyitayo_ayodeji_a26691b42/building-the-dream-team-assembler-with-serverless-power-cloud-run-and-gemini-3p6p)
+- [How to Install and Configure Home Assistant: A Quick Start](https://dev.to/picoable/how-to-install-and-configure-home-assistant-a-quick-start-1fk8)
+- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-59gp)
+- [Adaptive AI: Making Edge Inference Smart and Fast by Arvind Sundararajan](https://dev.to/arvind_sundararajan/adaptive-ai-making-edge-inference-smart-and-fast-by-arvind-sundararajan-266f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
