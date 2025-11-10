@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kafka consumer lag—Measure and reduce](https://dev.to/aime-bangirahe/kafka-consumer-lag-measure-and-reduce-18df)
-- [How I Stopped Manually Syncing My TypeScript Frontend with Spring Boot Backend](https://dev.to/thomas_d0e3e4bf88343c33a5/how-i-stopped-manually-syncing-my-typescript-frontend-with-spring-boot-backend-2me3)
-- [Building TouchSlides: A Real-Time Presentation Remote on Cloudflare&#39;s Edge](https://dev.to/kamil_uhryn/building-touchslides-a-real-time-presentation-remote-on-cloudflares-edge-1iee)
-- [Mastering Nest.js: From Core Concepts to a Real-World Project](https://dev.to/abanoubkerols/mastering-nestjs-from-core-concepts-to-a-real-world-project-2d2c)
-- [Project on how to create Resource group and Storage Account](https://dev.to/baris86/project-on-how-to-create-resource-group-and-storage-account-2ioe)
+- [[Boost]](https://dev.to/ben/-581b)
+- [I am absolutely right!](https://dev.to/ben/i-am-absolutely-right-42da)
+- [Deno Vs Bun In 2025: Two Modern Approaches To JavaScript Runtime Development](https://dev.to/pullflow/deno-vs-bun-in-2025-two-modern-approaches-to-javascript-runtime-development-4dgo)
+- [Containerizing Mobile ML Models: Running On-Device Inference with Docker and TensorFlow Lite](https://dev.to/swap11/containerizing-mobile-ml-models-running-on-device-inference-with-docker-and-tensorflow-lite-28a4)
+- [Install and use the Microsoft Learn MCP server in VS Code](https://dev.to/omiossec/install-the-microsoft-learn-mcp-server-in-vs-code-265k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
