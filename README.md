@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kafka Lag: Causes and How to Reduce It](https://dev.to/augo_amos/understanding-kafka-lag-causes-and-how-to-reduce-it-26cc)
-- [LeetCode #141. Linked List Cycle](https://dev.to/desiato/leetcode-141-linked-list-cycle-1h47)
-- [Understanding JavaScript Scope and Closures: A Deep Dive into Lexical Environments](https://dev.to/samuel_ochaba_eb9c875fa89/understanding-javascript-scope-and-closures-a-deep-dive-into-lexical-environments-4io8)
-- [Solar-App Deployment: From Node.js to Multi-Cloud CI/CD](https://dev.to/nimesh_kulkarni_2f7a2057e/solar-app-deployment-from-nodejs-to-multi-cloud-cicd-4g9)
-- [I bet, AI will not be able to do this one thing for next 1000&#39;s of years.](https://dev.to/aditya_mali_648306b2e1b5d/i-bet-ai-will-not-be-able-to-do-this-one-thing-for-next-1000s-of-years-61i)
+- [Umbraco in the City - Community, Code, and Cuddles](https://dev.to/lssweatherhead/umbraco-in-the-city-community-code-and-cuddles-80c)
+- [Why AI Developers Are Transitioning from Centralized Cloud to Decentralized Compute Networks: A Technical Overview](https://dev.to/neurolov__ai/why-ai-developers-are-transitioning-from-centralized-cloud-to-decentralized-compute-networks-a-321l)
+- [AI Coding Assistants for Beginners: How to Use ChatGPT &amp; Copilot Without ‘Cheating’](https://dev.to/dhruvjoshi9/ai-coding-assistants-for-beginners-how-to-use-chatgpt-copilot-without-cheating-544)
+- [Building a Cloud-Native App to Match Founders with the Right Hackathon](https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae)
+- [A Practical Guide to AI Voice Agent Observability: Debugging Latency with VideoSDK Traces](https://dev.to/chaitrali_kakde/a-practical-guide-to-ai-voice-agent-observability-debugging-latency-with-videosdk-traces-4kmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
