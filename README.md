@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI](https://dev.to/paperium/beyond-pipelines-a-survey-of-the-paradigm-shift-toward-model-native-agentic-ai-3ko)
+- [🚀 Container Hardening: 12 Essential Rules for Secure and Optimized Docker Builds](https://dev.to/it-wibrc/container-hardening-12-essential-rules-for-secure-and-optimized-docker-builds-5b0)
+- [RESTful - Pílula 1 – URLs devem representar recursos e não ações](https://dev.to/andersoncontreira/restful-pilula-1-urls-devem-representar-recursos-nao-acoes-4lng)
+- [Exercise - Provide private storage for internal company documents](https://dev.to/adebayo_ganiyatoladunjoy/exercise-provide-private-storage-for-internal-company-documents-1850)
 - [Reducing Consumer Lag in Apache Kafka](https://dev.to/aineahsimiyu/reducing-consumer-lag-in-apache-kafka-2d50)
-- [What are your goals for the week? #152](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-152-134f)
-- [Your &quot;Best Practice&quot; is Someone Else&#39;s Tradeoff](https://dev.to/dchueri/your-best-practice-is-someone-elses-tradeoff-1k87)
-- [How to Add Custom Command Shortcuts in Cursor](https://dev.to/dev-tngsh/how-to-add-custom-command-shortcuts-in-cursor-1an)
-- [From the OR to the Medicine Cabinet: Medical Tools That Will Revolutionize Your Everyday Life](https://dev.to/vubu_medicalinstruments/from-the-or-to-the-medicine-cabinet-medical-tools-that-will-revolutionize-your-everyday-life-24dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
