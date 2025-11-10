@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Witch POTIONS](https://dev.to/neleh03/witch-potions-6n3)
-- [Sum of Digits: A Beginner&#39;s Guide to String Iteration in Python](https://dev.to/highcenburg/sum-of-digits-a-beginners-guide-to-string-iteration-in-python-46a)
-- [From whoami to &quot;Who Am I?&quot;: My Journey as a Renamed Linux User](https://dev.to/notrobot200/from-whoami-to-who-am-i-my-journey-as-a-renamed-linux-user-p4g)
-- [Learning AI in the world of fast-moving AI](https://dev.to/nicanor_korir/learning-ai-in-the-world-of-fast-moving-ai-2gpm)
-- [Building OperatorAILIVE: Architecting an AI-Powered 911 Triage System with Kiro](https://dev.to/honey_check_37c7bbb0241f6/building-operatorailive-architecting-an-ai-powered-911-triage-system-with-kiro-2od4)
+- [I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&amp;A + 185 coding problems + 600 flashcards](https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-14lk)
+- [Multimeter](https://dev.to/mehrdad_shobeyri_6c61065d/multimeter-2d3l)
+- [💻Your GitHub Speaks Louder Than Your Resume: A Tiger Cloud Story🐅](https://dev.to/divyasinghdev/your-github-speaks-louder-than-your-resume-a-tiger-cloud-story-3o3)
+- [Sloppy : Chrome Extension for AI Slop Detection with Agentic Postgres](https://dev.to/aamish_491ea6f03bb3294c06/sloppy-chrome-extension-for-ai-slop-detection-with-agentic-postgres-5fbo)
+- [QueST: Incentivizing LLMs to Generate Difficult Problems](https://dev.to/paperium/quest-incentivizing-llms-to-generate-difficult-problems-4gde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
