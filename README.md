@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Reduced My Site’s Browser Memory Usage by 67% &lpar;450 MB 150 MB&rpar;](https://dev.to/chaugiang/how-i-reduced-my-sites-browser-memory-usage-by-67-450-mb-150-mb-2h00)
-- [Cómo Incorporar la IA a un ERP: De Asistencia Inteligente a Automatización Total](https://dev.to/pablo_mereles_570aa6fdef5/como-incorporar-la-ia-a-un-erp-de-asistencia-inteligente-a-automatizacion-total-3ncf)
-- [Big Changes Are Coming to AI Regulation in 2026](https://dev.to/alifar/big-changes-are-coming-to-ai-regulation-in-2026-3gah)
-- [I Built a PDF-to-JSON AI in Rust + Flutter – Here&#39;s How &lpar;Waitlist Open&rpar;](https://dev.to/asimwe_landry/i-built-a-pdf-to-json-ai-in-rust-flutter-heres-how-waitlist-open-2gdn)
-- [Git rerere - Reuse Conflict Resolutions Like a Pro](https://dev.to/louis7/git-rerere-reuse-conflict-resolutions-like-a-pro-1g88)
+- [Building a Real-Time Crypto Data Pipeline with Debezium CDC](https://dev.to/aineahsimiyu/building-a-real-time-crypto-data-pipeline-with-debezium-cdc-1j41)
+- [Rewind AI Alternative to Windows You Can Trust](https://dev.to/nodminger/rewind-ai-alternative-to-windows-you-can-trust-51a)
+- [Modern License Metadata for Python Packages: An Introduction to PEP 639 and SPDX](https://dev.to/wagenrace/modern-license-metadata-for-python-packages-an-introduction-to-pep-639-and-spdx-2d11)
+- [We wanted Her, instead we got Tinder](https://dev.to/leon_lin_s/we-wanted-her-instead-we-got-tinder-2o8d)
+- [Accelerating AI Agent Development and Deployment Cycles](https://dev.to/kamya_shah_e69d5dd78f831c/accelerating-ai-agent-development-and-deployment-cycles-4n0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
