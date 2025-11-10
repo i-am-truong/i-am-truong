@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Umbraco in the City - Community, Code, and Cuddles](https://dev.to/lssweatherhead/umbraco-in-the-city-community-code-and-cuddles-80c)
-- [Why AI Developers Are Transitioning from Centralized Cloud to Decentralized Compute Networks: A Technical Overview](https://dev.to/neurolov__ai/why-ai-developers-are-transitioning-from-centralized-cloud-to-decentralized-compute-networks-a-321l)
-- [AI Coding Assistants for Beginners: How to Use ChatGPT &amp; Copilot Without ‘Cheating’](https://dev.to/dhruvjoshi9/ai-coding-assistants-for-beginners-how-to-use-chatgpt-copilot-without-cheating-544)
-- [Building a Cloud-Native App to Match Founders with the Right Hackathon](https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae)
-- [A Practical Guide to AI Voice Agent Observability: Debugging Latency with VideoSDK Traces](https://dev.to/chaitrali_kakde/a-practical-guide-to-ai-voice-agent-observability-debugging-latency-with-videosdk-traces-4kmj)
+- [Cursor Composer 1 vs SWE 1.5 What Surprised Me Most After Testing Both](https://dev.to/composiodev/cursor-composer-1-vs-swe-15-what-surprised-me-most-after-testing-both-25gh)
+- [OpenTelemetry Docker Monitoring with Collector and Docker Stats](https://dev.to/uptrace/opentelemetry-docker-monitoring-with-collector-and-docker-stats-17b1)
+- [Django OpenTelemetry Instrumentation Guide](https://dev.to/uptrace/django-opentelemetry-instrumentation-guide-kgf)
+- [OpenTelemetry database sql [otelsql]](https://dev.to/uptrace/opentelemetry-database-sql-otelsql-4oke)
+- [OpenTelemetry Celery Instrumentation Guide](https://dev.to/uptrace/opentelemetry-celery-instrumentation-guide-1122)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
