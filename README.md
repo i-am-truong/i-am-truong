@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-501i)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-46hh)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-41cd)
-- [Building Node.js CLI Tool.](https://dev.to/mehakb7/building-nodejs-cli-tool-l4k)
-- [💡 How to Design Better Architecture](https://dev.to/ivan-zaitsev/how-to-design-better-architecture-opn)
+- [Is the Public Cloud Ready for Post-Quantum Cryptography?](https://dev.to/aws-builders/is-the-public-cloud-ready-for-post-quantum-cryptography-26on)
+- [AI-Powered Career Portfolios on Agentic Postgres where candidates have the power](https://dev.to/sbsmith86/ai-powered-career-portfolios-on-agentic-postgres-where-candidates-have-the-power-142c)
+- [How to run scalability testing in modern software teams](https://dev.to/gatling/how-to-run-scalability-testing-in-modern-software-teams-32ki)
+- [Use bwenv to Sync Your Bitwarden Secrets into Your Shell Environment](https://dev.to/s1ks1/use-bwenv-to-sync-your-bitwarden-secrets-into-your-shell-environment-23fh)
+- [We built an AI that does the tasks no human likes to repeat — meet Codedoc](https://dev.to/notadevbuthere/we-built-an-ai-that-does-the-tasks-no-human-likes-to-repeat-meet-codedoc-31p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
