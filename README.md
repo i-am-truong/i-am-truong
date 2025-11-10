@@ -121,9 +121,9 @@ Python                   1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [Map a Kubernetes cluster with one command](https://dev.to/agardnerit/map-a-kubernetes-cluster-with-one-command-29g4)
 - [From Localhost to Global Scale: Deploying a Multi-Agent AI Interior Designer with Google Cloud Run](https://dev.to/hesham_ash/from-localhost-to-global-scale-deploying-a-multi-agent-ai-interior-designer-with-google-cloud-run-2mp4)
-- [How We Cut LLM Batch Inference Time in Half with Dynamic Prefix Bucketing](https://dev.to/yks/how-we-cut-llm-batch-inference-time-in-half-with-dynamic-prefix-bucketing-183e)
 - [Searching Algorithms Part 3: Exploring Trees and Graphs with BFS and DFS](https://dev.to/picciniuscodes/searching-algorithms-part-3-exploring-trees-and-graphs-with-bfs-and-dfs-1jc0)
 - [The Secret Life of Python: Generator Secrets - Functions That Remember](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-generator-secrets-functions-that-remember-3oc)
+- [Embody 3D: A Large-scale Multimodal Motion and Behavior Dataset](https://dev.to/paperium/embody-3d-a-large-scale-multimodal-motion-and-behavior-dataset-4no1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
