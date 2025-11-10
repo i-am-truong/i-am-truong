@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflections on Life](https://dev.to/bibimbop123/reflections-on-life-157d)
+- [Personal Responsibility for Sustainability: Building a Greener Future through Individual Action](https://dev.to/bushra_23062_889499abfc6e/personal-responsibility-for-sustainability-building-a-greener-future-through-individual-action-2ca4)
 - [Searching Algorithms Part 1: Binary Search and the Art of Cutting the Search Space](https://dev.to/picciniuscodes/searching-algorithms-part-1-binary-search-and-the-art-of-cutting-the-search-space-2n08)
 - [Code Sharing: The Unsung Hero of Developer Communities and Web Innovation](https://dev.to/buysellshop/code-sharing-the-unsung-hero-of-developer-communities-and-web-innovation-dm)
 - [Como Eliminamos 4.041 Erros de TypeScript em 6 Meses](https://dev.to/monest/como-eliminamos-4041-erros-de-typescript-em-6-meses-320a)
-- [El Futuro del Trabajo](https://dev.to/w4ls3n/el-futuro-del-trabajo-5ccg)
-- [How API-Driven Game Hubs Are Redefining Integration for Online Entertainment Platforms](https://dev.to/bob_packer_7c9018a4d1a1f1/how-api-driven-game-hubs-are-redefining-integration-for-online-entertainment-platforms-3h9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
