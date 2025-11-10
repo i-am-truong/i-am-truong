@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [System Design Interviews Simplified: How Mectora Prepares You for FAANG Companies](https://dev.to/mectora-official/system-design-interviews-simplified-how-mectora-prepares-you-for-faang-companies-fme)
+- [Coding Challenge Practice - Question 51](https://dev.to/tomivan/coding-challenge-practice-question-51-469a)
+- [Why I Built the 🕍 Cathedral Roo Architect Mode](https://dev.to/bekalah/why-i-built-the-cathedral-roo-architect-mode-578j)
 - [A importância da Developer Experience &lpar;DX&rpar;](https://dev.to/andersoncontreira/a-importancia-da-developer-experience-dx-4ohj)
 - [Como Criar um App Web com Crow C++, MySQL e Tailwind CSS](https://dev.to/marcosplusplus/como-criar-um-app-web-com-crow-c-mysql-e-tailwind-css-4op1)
-- [Build a Docusaurus-like Site with FastAPI: Step 5 - Handling Static Files](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-5-handling-static-files-o0e)
-- [🗓️ Docker Learning Journal](https://dev.to/tannababy/docker-learning-journal-37ka)
-- [I&#39;m Going All-In on AI for Developers.](https://dev.to/vevarunsharma/im-going-all-in-on-ai-for-developers-3i9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
