@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PiHMP Stack &lpar;v2&rpar; - The Phoenix Protocol Build Log](https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f)
-- [HPSR Proxy Stack: Tu Propio Servidor Proxy HTTPS con Docker, Squid y Certificados SSL Válidos](https://dev.to/hopsersmerk/hpsr-proxy-stack-tu-propio-servidor-proxy-https-con-docker-squid-y-certificados-ssl-validos-47a8)
-- [ChatGPT Lied to Me: A Warning to Developers](https://dev.to/todd427/chatgpt-lied-to-me-a-warning-to-developers-2ddh)
-- [Intro to Clean Architecture in Android. Example with independent features.](https://dev.to/mardsoul/intro-to-clean-architecture-in-android-example-with-independent-features-bkg)
-- [Testing While Developing &lpar;Part 5&rpar;: Collecting Coverage](https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom)
+- [Recommendations for handling spatial processing workflows on the web](https://dev.to/cloudnone/recommendations-for-handling-spatial-processing-workflows-on-the-web-59lf)
+- [⚡ Lightning-Fast Face Recognition with InsightFace + SORT + Qdrant](https://dev.to/tejaspatilblogs/lightning-fast-face-recognition-with-insightface-sort-qdrant-5a85)
+- [Boost Your Website’s Security with SafeLine WAF: The Powerful Open-Source Solution You Need](https://dev.to/arina_cholee/boost-your-websites-security-with-safeline-waf-the-powerful-open-source-solution-you-need-5fdc)
+- [How SafeLine’s Dynamic Protection Safeguards Your Website](https://dev.to/arina_cholee/how-safelines-dynamic-protection-safeguards-your-website-4891)
+- [I&#39;m learning python and english](https://dev.to/jesus_juarez_61f9c7adbfab/im-learning-python-and-english-5g0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
