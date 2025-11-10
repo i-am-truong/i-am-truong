@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Những điều trường đại học không dạy bạn – Phần 1](https://dev.to/kimhieuwork/nhung-dieu-truong-dai-hoc-khong-day-ban-phan-1-180i)
-- [🚀 How I Taught Myself Databases From Zero to Confidence &lpar;A Practical Roadmap&rpar;](https://dev.to/farhad_rahimi_klie/how-i-taught-myself-databases-from-zero-to-confidence-a-practical-roadmap-2fb8)
-- [There’s finally a tool that can bulk delete Vercel projects and deployments](https://dev.to/skandan_v_6e11a6f70426cb4/theres-finally-a-tool-that-can-bulk-delete-vercel-projects-and-deployments-1ch3)
-- [RK3588 SBC: Kiwi Pi 5 Pro](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-sbc-kiwi-pi-5-pro-4ofe)
-- [Right Approach to JSON Log Analysis: A Hands-on Guide to Efficient Practices with Alibaba Cloud SLS](https://dev.to/observabilityguy/right-approach-to-json-log-analysis-a-hands-on-guide-to-efficient-practices-with-alibaba-cloud-sls-58mf)
+- [🎯 Scenario #12 — To Mount a ConfigMap as a Volume and Update It Dynamically in Kubernetes](https://dev.to/latchudevops/scenario-12-to-mount-a-configmap-as-a-volume-and-update-it-dynamically-in-kubernetes-504d)
+- [✅ I Changed Just One Line and My AI Bot Suddenly Stopped Hallucinating](https://dev.to/christechnocom/i-changed-just-one-line-and-my-ai-bot-suddenly-stopped-hallucinating-ko0)
+- [Unlocking Dual Earnings: AI Monetization Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlocking-dual-earnings-ai-monetization-strategies-for-llm-apps-with-monetzly-44ne)
+- [🎯 Scenario #12 — Mount a ConfigMap as a Volume and Update It Dynamically in Kubernetes](https://dev.to/latchudevops/scenario-10-mount-a-configmap-as-a-volume-and-update-it-dynamically-in-kubernetes-4p9k)
+- [Critical AI Infrastructure Security Threat: Reproducing and Detecting the NVIDIA Triton Critical Vulnerability&lpar;CVE-2025-23316&rpar;](https://dev.to/rs_xxx_de5a22d80a9b371aee/critical-ai-infrastructure-security-threat-reproducing-and-detecting-the-nvidia-triton-critical-2dj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
