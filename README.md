@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&amp;A + 185 coding problems + 600 flashcards](https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7)
-- [Upload Files from Next.js to AWS S3 Using Presigned URLs](https://dev.to/ahadcommit/upload-files-from-nextjs-to-aws-s3-using-presigned-urls-50k9)
-- [My Ongoing Cloud Migration Journey 🚀](https://dev.to/jamiu_cloud/my-ongoing-cloud-migration-journey-3i1a)
-- [Build in Public &lpar;Data Engineering&rpar;: Day Zero](https://dev.to/terieyenike/build-in-public-data-engineering-day-zero-2c65)
-- [Errar faz parte, mas aprender rápido faz toda a diferença](https://dev.to/andersoncontreira/errar-faz-parte-mas-aprender-rapido-faz-toda-a-diferenca-29e0)
+- [When the mv Command “Loses” Your File in Linux — What Really Happened🚀](https://dev.to/chaitanyarai3/when-the-mv-command-loses-your-file-in-linux-what-really-happened-1186)
+- [From Pandas in Python to TabularData in Swift for Data Exploration](https://dev.to/libar/from-pandas-in-python-to-tabulardata-in-swift-for-data-exploration-3cli)
+- [Cuidado com o que você consome &lpar;e com quem você anda&rpar;](https://dev.to/andersoncontreira/cuidado-com-o-que-voce-consome-e-com-quem-voce-anda-5gm2)
+- [How to generate a Dockerfile from the Docker Image](https://dev.to/purnima_upadhyaya/how-to-generate-a-dockerfile-from-the-docker-image-3k5d)
+- [We are Almost at the END of History: The Technological Singularity](https://dev.to/aniruddhaadak/we-are-almost-at-the-end-of-history-the-technological-singularity-5b8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
