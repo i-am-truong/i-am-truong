@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Benefits of Selenium Automation Testing](https://dev.to/kevinwalker/the-benefits-of-selenium-automation-testing-1n)
-- [Truth Over Hype: A Builder’s Playbook for Credible Storytelling](https://dev.to/sonia_bobrik_1939cdddd79d/truth-over-hype-a-builders-playbook-for-credible-storytelling-571f)
-- [From Notebook to Production: A Pragmatic Playbook for Developers Who Ship](https://dev.to/sonia_bobrik_1939cdddd79d/from-notebook-to-production-a-pragmatic-playbook-for-developers-who-ship-1j6)
-- [From One Photo to a Living Story: A Field Guide for Makers, Journalists, and Curious Humans](https://dev.to/sonia_bobrik_1939cdddd79d/from-one-photo-to-a-living-story-a-field-guide-for-makers-journalists-and-curious-humans-4fj5)
-- [ConsistEdit: Highly Consistent and Precise Training-free Visual Editing](https://dev.to/paperium/consistedit-highly-consistent-and-precise-training-free-visual-editing-3ejk)
+- [Understanding Kafka Lag: Causes and How to Reduce It](https://dev.to/augo_amos/understanding-kafka-lag-causes-and-how-to-reduce-it-26cc)
+- [LeetCode #141. Linked List Cycle](https://dev.to/desiato/leetcode-141-linked-list-cycle-1h47)
+- [Understanding JavaScript Scope and Closures: A Deep Dive into Lexical Environments](https://dev.to/samuel_ochaba_eb9c875fa89/understanding-javascript-scope-and-closures-a-deep-dive-into-lexical-environments-4io8)
+- [Solar-App Deployment: From Node.js to Multi-Cloud CI/CD](https://dev.to/nimesh_kulkarni_2f7a2057e/solar-app-deployment-from-nodejs-to-multi-cloud-cicd-4g9)
+- [I bet, AI will not be able to do this one thing for next 1000&#39;s of years.](https://dev.to/aditya_mali_648306b2e1b5d/i-bet-ai-will-not-be-able-to-do-this-one-thing-for-next-1000s-of-years-61i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
