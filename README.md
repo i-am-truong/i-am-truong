@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&amp;A + 185 coding problems + 600 flashcards](https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7)
+- [Upload Files from Next.js to AWS S3 Using Presigned URLs](https://dev.to/ahadcommit/upload-files-from-nextjs-to-aws-s3-using-presigned-urls-50k9)
 - [My Ongoing Cloud Migration Journey 🚀](https://dev.to/jamiu_cloud/my-ongoing-cloud-migration-journey-3i1a)
 - [Build in Public &lpar;Data Engineering&rpar;: Day Zero](https://dev.to/terieyenike/build-in-public-data-engineering-day-zero-2c65)
-- [Music Monday](https://dev.to/musicforem/music-monday-36j1)
-- [Choosing Your First Smart Devices for Home Assistant](https://dev.to/picoable/choosing-your-first-smart-devices-for-home-assistant-3474)
-- [That one missing HTTP method that broke my whole setup](https://dev.to/techwithhari/that-one-missing-http-method-that-broke-my-whole-setup-14a6)
+- [Errar faz parte, mas aprender rápido faz toda a diferença](https://dev.to/andersoncontreira/errar-faz-parte-mas-aprender-rapido-faz-toda-a-diferenca-29e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
