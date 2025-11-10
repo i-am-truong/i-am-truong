@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Basics: 5 Advanced Prompting Strategies that Turn LLMs into Autonomous Agents &lpar;Prompt Engineering for Devs - Part 3&rpar;](https://dev.to/zeroshotanu/beyond-the-basics-5-advanced-prompting-strategies-that-turn-llms-into-autonomous-agents-prompt-4g94)
+- [Building an ML Language from Scratch: Introducing Charl](https://dev.to/mitchel_novoaq_4f356cf3/building-an-ml-language-from-scratch-introducing-charl-2c39)
 - [Azure Data Encryption Best Practices: How to Secure Data at Rest, In Transit &amp; In Use](https://dev.to/zarajohnson/azure-data-encryption-best-practices-2mp)
 - [How to Ingest 1 Billion Events Per Day Without Kafka: A Serverless Masterclass](https://dev.to/sivarampg/how-to-ingest-1-billion-events-per-day-without-kafka-a-serverless-masterclass-j2f)
 - [🐍 Using Python to Extend Go High Level’s Capabilities via API](https://dev.to/ambrosekol/using-python-to-extend-go-high-levels-capabilities-via-api-30k4)
-- [Understanding the FTSE AIM 100 Index: A Comprehensive Overview](https://dev.to/bella_stewart_1e038c004d3/understanding-the-ftse-aim-100-index-a-comprehensive-overview-1k30)
-- [The Best LLM and AI Orchestration Toolkits for Your Stack](https://dev.to/pathak_prakarsh/the-best-llm-and-ai-orchestration-toolkits-for-your-stack-5hlk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
