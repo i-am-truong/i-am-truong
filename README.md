@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Feistel Cipher: The Architectural Marvel Behind Modern Cryptography](https://dev.to/colkimi/feistel-cipher-the-architectural-marvel-behind-modern-cryptography-3chh)
-- [Analyzing Network Infrastructure Vulnerabilities with CXXGraph: A Practical Guide](https://dev.to/zigrazor/analyzing-network-infrastructure-vulnerabilities-with-cxxgraph-a-practical-guide-54f9)
-- [Speeding up all builds at Amazon by 40% with the help of Rust](https://dev.to/chrisdryden/speeding-up-all-builds-at-amazon-by-40-with-the-help-of-rust-4974)
-- [Monitoring Autonomous Systems Telemetry: Building an HFT-Grade Network Analysis Pipeline for UDP-based Protocols](https://dev.to/james-odukoya/monitoring-autonomous-systems-telemetry-building-an-hft-grade-network-analysis-pipeline-for-50c)
-- [Hire Full-Time React.js Developers: Build High-Performance Applications with Consistent Expertise](https://dev.to/michael_keller_9d83ef0ce5/hire-full-time-reactjs-developers-build-high-performance-applications-with-consistent-expertise-4bcl)
+- [Monitoring Hetzner Cloud resources with AWS CloudWatch using Terraform](https://dev.to/kamran_biglari_756d509684/monitoring-hetzner-cloud-resources-with-aws-cloudwatch-using-terraform-2m1n)
+- [What Are the Key Types of Compliance Reporting and How Can You Master Them?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-key-types-of-compliance-reporting-and-how-can-you-master-them-4mfb)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-5a0p)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3j22)
+- [Understanding Integer Caching in Java, The Hidden Optimization You Might’ve Missed](https://dev.to/marzuk16/understanding-integer-caching-in-java-the-hidden-optimization-you-mightve-missed-ggi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
