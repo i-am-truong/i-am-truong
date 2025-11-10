@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your static documentation checker](https://dev.to/yarax/your-static-documentation-checker-3dio)
-- [Annotation-Efficient Universal Honesty Alignment](https://dev.to/paperium/annotation-efficient-universal-honesty-alignment-40ef)
-- [How to Quickly Test Your Blazor App on a Real Smartphone](https://dev.to/j_sakamoto/how-to-quickly-test-your-blazor-app-on-a-real-smartphone-24h1)
-- [DocumentDB goes cloud-native: Introducing the DocumentDB Kubernetes Operator](https://dev.to/abhirockzz/documentdb-goes-cloud-native-introducing-the-documentdb-kubernetes-operator-3ji9)
-- [6 Ways A Node Developer Can Drastically Boost Their Productivity in 2025](https://dev.to/robbiecahill/6-ways-a-node-developer-can-drastically-boost-their-productivity-in-2025-39ma)
+- [From Localhost to Live: Sharing Django Projects Seamlessly](https://dev.to/lightningdev123/from-localhost-to-live-sharing-django-projects-seamlessly-164g)
+- [What Is Natural Environment Teaching &lpar;NET&rpar;? A Parent’s Guide to ABA &quot;Play Therapy&quot;](https://dev.to/mekaywillow/what-is-natural-environment-teaching-net-a-parents-guide-to-aba-play-therapy-4kkn)
+- [Why Baidu&#39;s AMIS Framework Is an Excellent Design](https://dev.to/canonical/why-baidus-amis-framework-is-an-excellent-design-5cch)
+- [Recursive CTEs: Because Writing Nested Loops for Trees is Psychopathic &lpar;and a Little Masochistic Too&rpar;](https://dev.to/pascal_cescato_692b7a8a20/recursive-ctes-because-writing-nested-loops-for-trees-is-psychopathic-and-a-little-masochistic-4ljb)
+- [How AI Agents in Customer Services Are Transforming Businesses?](https://dev.to/dev_seema/how-ai-agents-in-customer-services-are-transforming-businesses-3kg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
