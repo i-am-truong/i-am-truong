@@ -119,7 +119,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Rural Broadband Access Remains a Challenge in America](https://dev.to/sidra-jefferi/why-rural-broadband-access-remains-a-challenge-in-america-4h4o)
+- [The Benefits of Selenium Automation Testing](https://dev.to/kevinwalker/the-benefits-of-selenium-automation-testing-1n)
 - [Truth Over Hype: A Builder’s Playbook for Credible Storytelling](https://dev.to/sonia_bobrik_1939cdddd79d/truth-over-hype-a-builders-playbook-for-credible-storytelling-571f)
 - [From Notebook to Production: A Pragmatic Playbook for Developers Who Ship](https://dev.to/sonia_bobrik_1939cdddd79d/from-notebook-to-production-a-pragmatic-playbook-for-developers-who-ship-1j6)
 - [From One Photo to a Living Story: A Field Guide for Makers, Journalists, and Curious Humans](https://dev.to/sonia_bobrik_1939cdddd79d/from-one-photo-to-a-living-story-a-field-guide-for-makers-journalists-and-curious-humans-4fj5)
