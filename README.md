@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Two-Pointer Technique: From Naive Loops to Elegant O&lpar;N&rpar; Solutions](https://dev.to/picciniuscodes/the-two-pointer-technique-from-naive-loops-to-elegant-on-solutions-16h)
 - [[Boost]](https://dev.to/ben/-581b)
 - [I am absolutely right!](https://dev.to/ben/i-am-absolutely-right-42da)
 - [Deno Vs Bun In 2025: Two Modern Approaches To JavaScript Runtime Development](https://dev.to/pullflow/deno-vs-bun-in-2025-two-modern-approaches-to-javascript-runtime-development-4dgo)
 - [Containerizing Mobile ML Models: Running On-Device Inference with Docker and TensorFlow Lite](https://dev.to/swap11/containerizing-mobile-ml-models-running-on-device-inference-with-docker-and-tensorflow-lite-28a4)
-- [Install and use the Microsoft Learn MCP server in VS Code](https://dev.to/omiossec/install-the-microsoft-learn-mcp-server-in-vs-code-265k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
