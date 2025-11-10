@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kafka consumer lag—Measure and reduce](https://dev.to/aime-bangirahe/kafka-consumer-lag-measure-and-reduce-18df)
 - [How I Stopped Manually Syncing My TypeScript Frontend with Spring Boot Backend](https://dev.to/thomas_d0e3e4bf88343c33a5/how-i-stopped-manually-syncing-my-typescript-frontend-with-spring-boot-backend-2me3)
 - [Building TouchSlides: A Real-Time Presentation Remote on Cloudflare&#39;s Edge](https://dev.to/kamil_uhryn/building-touchslides-a-real-time-presentation-remote-on-cloudflares-edge-1iee)
 - [Mastering Nest.js: From Core Concepts to a Real-World Project](https://dev.to/abanoubkerols/mastering-nestjs-from-core-concepts-to-a-real-world-project-2d2c)
 - [Project on how to create Resource group and Storage Account](https://dev.to/baris86/project-on-how-to-create-resource-group-and-storage-account-2ioe)
-- [FastAPI Template](https://dev.to/eslam5464/fastapi-template-p9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
