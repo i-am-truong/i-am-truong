@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anybody else getting 500 errors on GitHub at all? Don&#39;t see anything on their status page.](https://dev.to/ben/anybody-else-getting-500-errors-on-github-at-all-dont-see-anything-on-their-status-page-165d)
+- [How I built a free AI Regex Generator using Hugging Face + Next.js &lpar;no API costs&rpar;](https://dev.to/rama_panducheti_26b87b58/how-i-built-a-free-ai-regex-generator-using-hugging-face-nextjs-no-api-costs-12ic)
+- [Binary Search in Java](https://dev.to/vidya_varshini/binary-search-in-java-2h90)
 - [Influence Without Authority: The True Skill of Senior Engineers](https://dev.to/cdownard/influence-without-authority-the-true-skill-of-senior-engineers-3ga4)
 - [Fix Common Smart Fridge Issues: A Step-by-Step DIY Tutorial](https://dev.to/picoable/fix-common-smart-fridge-issues-a-step-by-step-diy-tutorial-80l)
-- [🚀 My Neovim Configuration](https://dev.to/mannu/my-neovim-configuration-360g)
-- [Becoming a Full stack developer Day 3](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-3-4jcb)
-- [All Data and AI Weekly #215: 10 November 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-215-10-november-2025-4c2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
