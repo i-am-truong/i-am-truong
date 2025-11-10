@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Witch POTIONS](https://dev.to/neleh03/witch-potions-6n3)
+- [Sum of Digits: A Beginner&#39;s Guide to String Iteration in Python](https://dev.to/highcenburg/sum-of-digits-a-beginners-guide-to-string-iteration-in-python-46a)
+- [From whoami to &quot;Who Am I?&quot;: My Journey as a Renamed Linux User](https://dev.to/notrobot200/from-whoami-to-who-am-i-my-journey-as-a-renamed-linux-user-p4g)
 - [Learning AI in the world of fast-moving AI](https://dev.to/nicanor_korir/learning-ai-in-the-world-of-fast-moving-ai-2gpm)
 - [Building OperatorAILIVE: Architecting an AI-Powered 911 Triage System with Kiro](https://dev.to/honey_check_37c7bbb0241f6/building-operatorailive-architecting-an-ai-powered-911-triage-system-with-kiro-2od4)
-- [I Taught Postgres to Fight Hackers - And It Worked &lpar;Agent Auth&rpar;](https://dev.to/isah_alamin_93d4e4d2ab01f/i-taught-postgres-to-fight-hackers-and-it-worked-agent-auth-281i)
-- [Understanding Interfaces in Go — The Complete Beginner’s Guide](https://dev.to/hugohenrick/understanding-interfaces-in-go-the-complete-beginners-guide-3alf)
-- [Weekend Project- Building a Serverless Phishing Detector for Google&#39;s Cloud Run Hackathon](https://dev.to/mrmemory/weekend-project-building-a-serverless-phishing-detector-for-googles-cloud-run-hackathon-3b9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
