@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Recommendations for handling spatial processing workflows on the web](https://dev.to/cloudnone/recommendations-for-handling-spatial-processing-workflows-on-the-web-59lf)
-- [⚡ Lightning-Fast Face Recognition with InsightFace + SORT + Qdrant](https://dev.to/tejaspatilblogs/lightning-fast-face-recognition-with-insightface-sort-qdrant-5a85)
-- [Boost Your Website’s Security with SafeLine WAF: The Powerful Open-Source Solution You Need](https://dev.to/arina_cholee/boost-your-websites-security-with-safeline-waf-the-powerful-open-source-solution-you-need-5fdc)
-- [How SafeLine’s Dynamic Protection Safeguards Your Website](https://dev.to/arina_cholee/how-safelines-dynamic-protection-safeguards-your-website-4891)
-- [I&#39;m learning python and english](https://dev.to/jesus_juarez_61f9c7adbfab/im-learning-python-and-english-5g0j)
+- [Những điều trường đại học không dạy bạn – Phần 1](https://dev.to/kimhieuwork/nhung-dieu-truong-dai-hoc-khong-day-ban-phan-1-180i)
+- [🚀 How I Taught Myself Databases From Zero to Confidence &lpar;A Practical Roadmap&rpar;](https://dev.to/farhad_rahimi_klie/how-i-taught-myself-databases-from-zero-to-confidence-a-practical-roadmap-2fb8)
+- [There’s finally a tool that can bulk delete Vercel projects and deployments](https://dev.to/skandan_v_6e11a6f70426cb4/theres-finally-a-tool-that-can-bulk-delete-vercel-projects-and-deployments-1ch3)
+- [RK3588 SBC: Kiwi Pi 5 Pro](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-sbc-kiwi-pi-5-pro-4ofe)
+- [Right Approach to JSON Log Analysis: A Hands-on Guide to Efficient Practices with Alibaba Cloud SLS](https://dev.to/observabilityguy/right-approach-to-json-log-analysis-a-hands-on-guide-to-efficient-practices-with-alibaba-cloud-sls-58mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
