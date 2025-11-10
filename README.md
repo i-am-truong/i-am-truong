@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [dAttendance: An Agent-First Attendance Platform on Smart Postgres](https://dev.to/abidnoyon/dattendance-an-agent-first-attendance-platform-on-smart-postgres-2a39)
+- [Agentic Orchestrator with Tiger CLI](https://dev.to/lumskii_mike_ecedf2fa317a/agentic-orchestrator-with-tiger-cli-5hnj)
 - [Laptop/PC Device Anomaly Analyzer: Self-Healing System Powered by Agentic Postgres](https://dev.to/apoorv_dev07/laptoppc-device-anomaly-analyzer-self-healing-system-powered-by-agentic-postgres-2n7m)
 - [Real-Time Data Updates with .NET Core and Angular using SignalR](https://dev.to/morteza-jangjoo/real-time-data-updates-with-net-core-and-angular-using-signalr-1ipo)
 - [Agent Evaluation in Action: Tips, Pitfalls, and Best Practices](https://dev.to/balagmadhu/agent-evaluation-in-action-tips-pitfalls-and-best-practices-5cje)
-- [SeaweedFS: A High-Scalability Distributed File System for Billions of Files](https://dev.to/stelixx-insider/seaweedfs-a-high-scalability-distributed-file-system-for-billions-of-files-3g8j)
-- [A Beginner&#39;s Guide to Debugging Your Smart Home Appliances](https://dev.to/picoable/a-beginners-guide-to-debugging-your-smart-home-appliances-36ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
