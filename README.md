@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring Hetzner Cloud resources with AWS CloudWatch using Terraform](https://dev.to/kamran_biglari_756d509684/monitoring-hetzner-cloud-resources-with-aws-cloudwatch-using-terraform-2m1n)
-- [What Are the Key Types of Compliance Reporting and How Can You Master Them?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-key-types-of-compliance-reporting-and-how-can-you-master-them-4mfb)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-5a0p)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3j22)
-- [Understanding Integer Caching in Java, The Hidden Optimization You Might’ve Missed](https://dev.to/marzuk16/understanding-integer-caching-in-java-the-hidden-optimization-you-mightve-missed-ggi)
+- [Black Friday App Deals: 2025](https://dev.to/pandaextract/black-friday-app-sales-2025-1cch)
+- [check it out! would love some feedback!](https://dev.to/arjun_varma_fd5bac95e3b24/check-it-out-would-love-some-feedback-212k)
+- [I Got Tired of Copy-Pasting Git Commands From ChatGPT, So I Built This](https://dev.to/arjun_varma_fd5bac95e3b24/i-got-tired-of-copy-pasting-git-commands-from-chatgpt-so-i-built-this-1b5n)
+- [How to Automate Repetitive Business Tasks Using Microsoft Power Apps](https://dev.to/zarajohnson/automate-repetitive-tasks-with-power-apps-mm4)
+- [How HTML5 Powers Modern Animal Games You Can Play in the Browser](https://dev.to/gamh5games/how-html5-powers-modern-animal-games-you-can-play-in-the-browser-1ko9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
