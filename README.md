@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Great AWS Outage: The $11 Billion Argument for Kubernetes](https://dev.to/signadot/the-great-aws-outage-the-11-billion-argument-for-kubernetes-5dod)
-- [Is AI Coming for Your Dev Job? The Truth About Code, Creativity, and Career Survival](https://dev.to/blogai/is-ai-coming-for-your-dev-job-the-truth-about-code-creativity-and-career-survival-3l1f)
-- [Understanding Kafka Consumer Lag: Causes, Risks, and How to Fix It](https://dev.to/eric_kahindi_cfbfda3bd0f7/understanding-kafka-consumer-lag-causes-risks-and-how-to-fix-it-33e0)
-- [How Machines See: The Power of Computer Vision in AI &lpar;Explained for Developers&rpar;](https://dev.to/zestminds_technologies_c1/how-machines-see-the-power-of-computer-vision-in-ai-explained-for-developers-2jei)
-- [From COBOL to Cloud: How Kiro&#39;s Spec-Driven Development Transformed Legacy Modernization](https://dev.to/shaistaaman/from-cobol-to-cloud-how-kiros-spec-driven-development-transformed-legacy-modernization-39c5)
+- [FastAPI Template](https://dev.to/eslam5464/fastapi-template-p9m)
+- [Forem Project Weekly: Scheduled Automations, Image Generation &amp; UX Upgrades](https://dev.to/forem_project_bot/forem-project-weekly-scheduled-automations-image-generation-ux-upgrades-49g3)
+- [CVE-2025-21042: Samsung Mobile Devices Out-of-Bounds Write Vulnerability](https://dev.to/freedom-coder/cve-2025-21042-samsung-mobile-devices-out-of-bounds-write-vulnerability-3pel)
+- [&quot;The Fourth Day: 10 Inspiring Quotes to Reignite Your Faith and Finish the Week Strong&quot;](https://dev.to/godblessingyou/the-fourth-day-10-inspiring-quotes-to-reignite-your-faith-and-finish-the-week-strong-36km)
+- [How Otter.ai Helps You Focus Better During Meetings🧠💬](https://dev.to/stackmention/how-otterai-helps-you-focus-better-during-meetings-5ddh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
