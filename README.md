@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Kafka Consumer Lag: Causes, Risks, and How to Fix It](https://dev.to/eric_kahindi_cfbfda3bd0f7/understanding-kafka-consumer-lag-causes-risks-and-how-to-fix-it-33e0)
+- [From COBOL to Cloud: How Kiro&#39;s Spec-Driven Development Transformed Legacy Modernization](https://dev.to/shaistaaman/from-cobol-to-cloud-how-kiros-spec-driven-development-transformed-legacy-modernization-39c5)
+- [How to create QR based 2fa system in Node.js &lpar;step-by-step&rpar;](https://dev.to/jahongir2007/how-to-create-qr-based-2fa-system-in-nodejs-step-by-step-14a6)
+- [Unlocking Revenue: How Monetzly Transforms AI App Monetization for Developers](https://dev.to/monetzly/unlocking-revenue-how-monetzly-transforms-ai-app-monetization-for-developers-2p8j)
 - [Effective Prompting for Generative Vision Models](https://dev.to/pruna-ai/effective-prompting-for-generative-vision-models-1bpc)
-- [You Can&#39;t Unbake a Cake &lpar;or Why Data Isolation in the Age of AI is BASICALLY Impossible&rpar;](https://dev.to/aronchick/you-cant-unbake-a-cake-or-why-data-isolation-in-the-age-of-ai-is-basically-impossible-4jmg)
-- [Building a Producer–Consumer Pipeline in Go Using Goroutines and Channels](https://dev.to/lovestaco/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels-5fdf)
-- [The 9 Best Web Hosting Deals for 2025: Black Friday Discounts Are Live](https://dev.to/sanu_kumar_377c4dc19b88a1/the-9-best-web-hosting-deals-for-2025-black-friday-discounts-are-live-188f)
-- [My Learnings from Day 1a &amp; 1b of the Google AI Agents Intensive](https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
