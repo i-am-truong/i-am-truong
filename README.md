@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OAuth 2.0 authorization in PostgreSQL using Keycloak as an example](https://dev.to/tantorlabs/oauth-20-authorization-in-postgresql-using-keycloak-as-an-example-3pf3)
-- [Black Friday App Deals: 2025](https://dev.to/pandaextract/black-friday-app-sales-2025-1cch)
-- [How ESG-Linked Salary Is Changing Corporate Leadership](https://dev.to/esg_rating_/how-esg-linked-salary-is-changing-corporate-leadership-3a18)
-- [check it out! would love some feedback!](https://dev.to/arjun_varma_fd5bac95e3b24/check-it-out-would-love-some-feedback-212k)
-- [I Got Tired of Copy-Pasting Git Commands From ChatGPT, So I Built This](https://dev.to/arjun_varma_fd5bac95e3b24/i-got-tired-of-copy-pasting-git-commands-from-chatgpt-so-i-built-this-1b5n)
+- [Updating to Jest 30 is Frustrating &lpar;it&#39;s JSDOM&rpar;](https://dev.to/htho/updating-to-jest-30-is-frustrating-its-jsdom-2jn3)
+- [🦓 The Tale of the Humbled Process Engineer —  Episode I: The Pattern of the Chameleons 🦎](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-i-the-pattern-of-the-chameleons-24p4)
+- [Synthetic Data Generator](https://dev.to/oliver_samuel_028c6f65ad6/building-a-synthetic-data-generator-from-concept-to-reality-63m)
+- [Integrating Pagy with Hanami &lpar;2025 edition&rpar;](https://dev.to/katafrakt/integrating-pagy-with-hanami-2025-edition-20f2)
+- [Role-Based Authorization for Rails: How We Built Rabarber](https://dev.to/enjaku4/role-based-authorization-for-rails-how-we-built-rabarber-ahi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
