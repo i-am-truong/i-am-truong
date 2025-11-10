@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Perl 🐪 Weekly #746 - YAPC::Fukuoka 2025 🇯🇵](https://dev.to/szabgab/perl-weekly-746-yapcfukuoka-2025-2b83)
+- [User Reviews Synthesis: What Real Teams Say About Batch Background Tools](https://dev.to/freepixel11/user-reviews-synthesis-what-real-teams-say-about-batch-background-tools-4a8n)
+- [React PDF Libraries: Free &amp; Paid Tools Comparison &lpar;Developer Guide&rpar;](https://dev.to/tayyabcodes/react-pdf-libraries-free-paid-tools-comparison-developer-guide-hcp)
+- [Hashicorp Vault CLI Part 2: Operation Commands](https://dev.to/admantium/hashicorp-vault-cli-part-2-operation-commands-1p5p)
 - [I’m 13 and Just Made a Web Framework 3 Faster Than Express](https://dev.to/thelittleprince1218/im-13-and-just-made-a-web-framework-3x-faster-than-express-3bdk)
-- [Contributing to Ubuntu — Day 2.5: When I had to pause my journey ⏸️](https://dev.to/geniusmind9999/contributing-to-ubuntu-day-25-when-i-had-to-pause-my-journey-55b)
-- [The Security Logic Behind LLM Jailbreaking](https://dev.to/rs_xxx_de5a22d80a9b371aee/the-security-logic-behind-llm-jailbreaking-3hb5)
-- [Build Your First TCP Chat App Using Node.js 🚀💬](https://dev.to/avijitbera/build-your-first-tcp-chat-app-using-nodejs-2kb8)
-- [How I Approach Building Component Systems](https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
