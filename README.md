@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Splitting Strings the Wrong Way: Discover Intl.Segmenter](https://dev.to/josephciullo/stop-splitting-strings-the-wrong-way-discover-intlsegmenter-4667)
+- [🚀 From Idea to App: Tracking Open-Source Project Growth in Real-Time](https://dev.to/code-forge-temple/from-idea-to-app-tracking-open-source-project-growth-in-real-time-1i3n)
+- [JSON to TOON Converter](https://dev.to/alifar/json-to-toon-converter-3j0c)
 - [Maximize Element Size While Maintaining Aspect Ratio with CSS](https://dev.to/t4y3/maximize-element-size-while-maintaining-aspect-ratio-with-css-mh8)
 - [🔒 The `#[SensitiveParameter]` Attribute in PHP 8.2+](https://dev.to/jeandevbr/the-sensitiveparameter-attribute-in-php-82-152f)
-- [Showcasing three recent improvements to Anvil](https://dev.to/anvil/showcasing-three-recent-improvements-to-anvil-25e8)
-- [Añadir programáticamente un campo de tipo cshs a un formulario.](https://dev.to/oskar_calvo_1615a9b3b293f/anadir-programaticamente-un-campo-de-tipo-cshs-a-un-formulario-45o3)
-- [Master SDK Integration: Monetize Your AI Conversations Effortlessly](https://dev.to/monetzly/master-sdk-integration-monetize-your-ai-conversations-effortlessly-b01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
