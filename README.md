@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Wi-Fi SSID on Mac via bash using Shortcuts](https://dev.to/prudkohliad/getting-wi-fi-ssid-on-mac-via-bash-using-shortcuts-54ih)
+- [🗑️ Django Learning Journey – Day 8](https://dev.to/stackbento/django-learning-journey-day-8-115b)
+- [My first week Journey into Django](https://dev.to/stackbento/my-first-week-journey-into-django-16mb)
+- [Designing Data-Intensive Applications — Chapter 2: Data Models and Query Languages](https://dev.to/romario_dasilva_cbef4e6a/designing-data-intensive-applications-chapter-2-data-models-and-query-languages-4b2m)
 - [Imagine changing your app&#39;s behaviour... without changing the code. &lpar;Part 2&rpar;](https://dev.to/gpietro/imagine-changing-your-apps-behaviour-without-changing-the-code-part-2-6fo)
-- [RESTful - Pílula 2 – Estrutura e hierarquia de URLs](https://dev.to/andersoncontreira/restful-pilula-2-estrutura-e-hierarquia-de-urls-1112)
-- [Hands-On with Azure Files: Storage, Snapshots &amp; Network Security](https://dev.to/ojosamuel129/hands-on-with-azure-files-storage-snapshots-network-security-cj5)
-- [Git Basics: A Beginner&#39;s Guide to Branches](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-branches-3dnn)
-- [Did I just create the fastest BPMN engine in the world?](https://dev.to/taktx/did-i-just-create-the-fastest-bpmn-engine-in-the-world-1ddp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
