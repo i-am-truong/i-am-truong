@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Entendiendo las URLs: Conceptos Básicos Basados en el Estándar RFC](https://dev.to/untalsanders/entendiendo-las-urls-conceptos-basicos-basados-en-el-estandar-rfc-13mo)
-- [Real-World Applications of AI: How It Will Impact Industries in 2026](https://dev.to/alona_instandart/real-world-applications-of-ai-how-it-will-impact-industries-in-2026-4fnd)
-- [How I Built a System That Works While I Sleep](https://dev.to/koni_jang/how-i-built-a-system-that-works-while-i-sleep-4bcn)
-- [Angular Addicts #43: Vitest, Signal Forms, Animations &amp; more](https://dev.to/this-is-angular/angular-addicts-43-vitest-signal-forms-animations-more-3lcd)
-- [I Tried Thousands of ChatGPT Prompts, and These 4 Saved Me Hours &lpar;No BS&rpar;](https://dev.to/nitinfab/i-tried-thousands-of-chatgpt-prompts-and-these-4-saved-me-hours-no-bs-2d3d)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-56en)
+- [Hands-On with Kubernetes 1.33: My PoC on In-Place Vertical Scaling](https://dev.to/robert_r_7c237256b7614328/hands-on-with-kubernetes-133-my-poc-on-in-place-vertical-scaling-147)
+- [A User Broke My AI Chatbot With Unexpected Input — Here’s What Actually Happened](https://dev.to/christechnocom/a-user-broke-my-ai-chatbot-with-unexpected-input-heres-what-actually-happened-31nb)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2agj)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4jfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
