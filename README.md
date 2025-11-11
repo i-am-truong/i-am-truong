@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Edge Computing Is the Future of Data Processing](https://dev.to/itcs11/why-edge-computing-is-the-future-of-data-processing-4o4i)
-- [How to Fully Integrate CoppeliaSim in Ubuntu &lpar;Command Line &amp; Desktop&rpar;](https://dev.to/al-chris/how-to-fully-integrate-coppeliasim-in-ubuntu-command-line-desktop-mdl)
-- [Sea of Stars: Pixelated Compassion in an Age of Exhaustion](https://dev.to/junothreadborne/sea-of-stars-pixelated-compassion-in-an-age-of-exhaustion-4e4o)
-- [How To Install Cloudwatch Agent On Amazon Linux By Using CLI](https://dev.to/thukhakyawe_cloud/how-to-install-cloudwatch-agent-on-amazon-linux-by-using-cli-3i4f)
-- [Line by Line, Finding Walls for Rendering in a BSP Tree](https://dev.to/chigbeef_77/line-by-line-finding-walls-for-rendering-in-a-bsp-tree-5a9c)
+- [The Skill Gap Nobody Talks About: Communication in Tech Teams](https://dev.to/careerbytecode/the-skill-gap-nobody-talks-about-communication-in-tech-teams-53ae)
+- [The Future of Cloud Computing: Trends to Watch in 2025](https://dev.to/itcs11/the-future-of-cloud-computing-trends-to-watch-in-2025-17b9)
+- [Getting Started with Requestly Local Workspace for Local Development](https://dev.to/dharmendrasolanki/getting-started-with-requestly-local-workspace-for-local-development-5h0h)
+- [AI Wearables 2025: Smart Health Gadgets That Know You Better Than Ever](https://dev.to/creative_soul_1f7d988fcf9/ai-wearables-2025-smart-health-gadgets-that-know-you-better-than-ever-3kna)
+- [Understanding Word Embedding: Bridging Language and Numbers](https://dev.to/sujana_acharya_6a128bc2ba/understanding-word-embedding-bridging-language-and-numbers-7j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
