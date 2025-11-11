@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fixing YouTube Error 153 in iOS Capacitor Apps: A Simple Proxy Solution](https://dev.to/davidvesely/fixing-youtube-error-153-in-ios-capacitor-apps-a-simple-proxy-solution-607)
-- [Understanding the Internet: A Guide for Kids Under 10 Years Old.](https://dev.to/adeolaogunkola/understanding-the-internet-a-guide-for-kids-under-10-years-old-3j7m)
-- [Kickstart Your Dev Projects: Free Starter Kit with Portfolio Templates &amp; Frontend Dashboard](https://dev.to/lotfijb/kickstart-your-dev-projects-free-starter-kit-with-portfolio-templates-frontend-dashboard-4eh7)
-- [API Test Automation Best Practices for Scalable Products](https://dev.to/jignect-technologies/api-test-automation-best-practices-for-scalable-products-3ddi)
-- [Building Intelligent Game AI with CXXGraph: From Grid Pathfinding to Strategic Navigation](https://dev.to/zigrazor/building-intelligent-game-ai-with-cxxgraph-from-grid-pathfinding-to-strategic-navigation-1g3n)
+- [Monitor Falcon with OpenTelemetry](https://dev.to/uptrace/monitor-falcon-with-opentelemetry-36c0)
+- [How to Create a Responsive Portfolio Website with HTML and CSS Source Code](https://dev.to/uijunkie/responsive-portfolio-website-with-html-and-css-source-code-17li)
+- [DevOps team structures](https://dev.to/_steve_fenton_/devops-team-structures-510j)
+- [Creating and Styling Tables in PDF Documents with C#](https://dev.to/allen_yang_f905170c5a197b/creating-and-styling-tables-in-pdf-documents-with-c-4mn8)
+- [Day 26 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-26-of-my-ai-data-mastery-journey-from-python-to-generative-ai-4fim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
