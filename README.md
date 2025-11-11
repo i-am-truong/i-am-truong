@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kickstart Your Dev Projects: Free Starter Kit with Portfolio Templates &amp; Frontend Dashboard](https://dev.to/lotfijb/kickstart-your-dev-projects-free-starter-kit-with-portfolio-templates-frontend-dashboard-4eh7)
+- [Building Intelligent Game AI with CXXGraph: From Grid Pathfinding to Strategic Navigation](https://dev.to/zigrazor/building-intelligent-game-ai-with-cxxgraph-from-grid-pathfinding-to-strategic-navigation-1g3n)
+- [CBS teleCom](https://dev.to/haolin_chan_ff12e74ab6ae/cbs-telecom-1jk0)
 - [Scaling Is All You Need: Understanding sqrt&lpar;dₖ&rpar; in Self-Attention](https://dev.to/samyak112/scaling-is-all-you-need-understanding-sqrtd-in-self-attention-29pk)
 - [Chef who discovers recipes that don’t just feed the body, but awaken hidden talents in anyone who tastes them.](https://dev.to/ruqaiya/chef-who-discovers-recipes-that-dont-just-feed-the-body-but-awaken-hidden-talents-in-anyone-who-4fmk)
-- [Using Jest and LLM assistance to test your real-time chat](https://dev.to/zenika/using-jest-and-llm-assistance-to-test-your-real-time-chat-4mnm)
-- [Getting Started with Database Entity Relationship](https://dev.to/masteringbackend/getting-started-with-database-entity-relationship-1aik)
-- [Design System: Building the Foundations](https://dev.to/denis_bratchikov/design-system-building-the-foundations-1l75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
