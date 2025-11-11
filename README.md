@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcasing three recent improvements to Anvil](https://dev.to/anvil/showcasing-three-recent-improvements-to-anvil-25e8)
+- [Añadir programáticamente un campo de tipo cshs a un formulario.](https://dev.to/oskar_calvo_1615a9b3b293f/anadir-programaticamente-un-campo-de-tipo-cshs-a-un-formulario-45o3)
+- [Master SDK Integration: Monetize Your AI Conversations Effortlessly](https://dev.to/monetzly/master-sdk-integration-monetize-your-ai-conversations-effortlessly-b01)
+- [What you need to know about Extension Members in C#](https://dev.to/mariemoalla/what-you-need-to-know-about-extension-members-in-c-1oke)
 - [Methods in Java](https://dev.to/vidya_varshini/methods-in-java-5ejp)
-- [Unlocking Business Insights with AWS QuickSight](https://dev.to/smit-vaghasiya/unlocking-business-insights-with-aws-quicksight-2b9f)
-- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-18nl)
-- [Deploying ML Models to Production: AWS Lambda vs ECS vs EKS - A Data-Driven Comparison](https://dev.to/aws-builders/deploying-ml-models-to-production-aws-lambda-vs-ecs-vs-eks-a-data-driven-comparison-8ib)
-- [Official Statement on Fraudulent “SEEKSEM Token” Crypto Scam](https://dev.to/seeksem/official-statement-on-fraudulent-seeksem-token-crypto-scam-1956)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
