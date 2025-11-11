@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Educação financeira - aprenda a gerir a sua renda](https://dev.to/andersoncontreira/educacao-financeira-aprenda-a-gerir-a-sua-renda-eff)
+- [Projeto Sirios - Apache + Python para Acionar LEDs via Web na Banana Pi](https://dev.to/henriqueotogami/projeto-sirios-apache-python-para-acionar-leds-via-web-na-banana-pi-16p4)
 - [From Material 2 to Material You: Everything New in Material 3 for Android Developers](https://dev.to/mohitrajput987/from-material-2-to-material-you-everything-new-in-material-3-for-android-developers-4of2)
 - [How to use React with a VSCode webview.](https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58)
 - [A Senior Developer’s Guide to Python’s Data Toolkit](https://dev.to/onlineproxy/a-senior-developers-guide-to-pythons-data-toolkit-20c2)
-- [Search on steroids: Using regex in VS Code](https://dev.to/satejbidvai/search-on-steroids-using-regex-in-vs-code-1698)
-- [Static Website Deployment on AWS Amplify via GitHub &lpar;Entry-Level Guide&rpar;](https://dev.to/baguio_edianjay/static-website-deployment-on-aws-amplify-via-github-entry-level-guide-3ngj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
