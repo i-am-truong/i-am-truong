@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Built AgriPath: An AI-Powered Farming Platform That Increases Profits by 90% Using Google Cloud Run and ADK](https://dev.to/anil_kumarum/how-i-built-agripath-an-ai-powered-farming-platform-that-increases-profits-by-90-using-google-14k5)
-- [Inside Quantum Ball: Building a Playful Oracle with AI Studio + Cloud Run](https://dev.to/akifin_6f85bfd38e12738869/inside-quantum-ball-building-a-playful-oracle-with-ai-studio-cloud-run-5g9l)
-- [Building NetGenius Instructor Copilot: A Multi-Agent AI System on Google Cloud Run](https://dev.to/racampos/building-netgenius-instructor-copilot-a-multi-agent-ai-system-on-google-cloud-run-54if)
-- [Building Scalable, Fault-Tolerant, and Highly Available Cloud Architectures with AWS Best Practices.](https://dev.to/taiwoakinbolaji/building-scalable-fault-tolerant-and-highly-available-cloud-architectures-with-aws-best-practices-2a5f)
-- [Searching Algorithms Part 2: Pattern Matching in Strings with Z, KMP, and Rabin-Karp](https://dev.to/picciniuscodes/searching-algorithms-part-2-pattern-matching-in-strings-with-z-kmp-and-rabin-karp-178d)
+- [CSS Transitions and Animations Basics: Bringing Your UI to Life](https://dev.to/sharique_siddiqui_8242dad/css-transitions-and-animations-basics-bringing-your-ui-to-life-5b6m)
+- [Battery Cooling Plates: Does Inlet Position Really Matter? I Ran the Model.](https://dev.to/thermal/battery-cooling-plates-does-inlet-position-really-matter-i-ran-the-model-41kc)
+- [shadcn/ui Async Button with Loading and Error States](https://dev.to/jqueryscript/shadcnui-async-button-with-loading-and-error-states-1hdm)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-3kp5)
+- [From Product Manager to AI Builder: What It Takes to Go from Prompt to Production](https://dev.to/andreea_papillon_70429422/from-product-manager-to-ai-builder-what-it-takes-to-go-from-prompt-to-production-4ofb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
