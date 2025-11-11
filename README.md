@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a PHP QueryBuilder from scratch!](https://dev.to/l_iadicola/build-a-php-querybuilder-from-scratch-4891)
+- [Clean up in active AD accounts](https://dev.to/thiyagarajan_thangavel/clean-up-in-active-ad-accounts-13ki)
+- [Project Create a Storage Account for Public Use and Private Use](https://dev.to/baris86/project-create-a-storage-account-for-public-use-and-private-use-1hmj)
 - [Fault Tolerance](https://dev.to/igor_grieder/fault-tolerance-dgj)
 - [Optimize the Performance of the WebForms Class on the Server in WebForms Core 2](https://dev.to/elanatframework/optimize-the-performance-of-the-webforms-class-on-the-server-in-webforms-core-2-n34)
-- [Unit Tests: The Greatest Lie We Tell Ourselves?](https://dev.to/varshithvhegde/unit-tests-the-greatest-lie-we-tell-ourselves-2ehd)
-- [JS中的对象、var let const 在JS里的区别、JS中的作用域](https://dev.to/nikimunger/jszhong-de-dui-xiang-var-let-const-zai-jsli-de-qu-bie-jszhong-de-zuo-yong-yu-3ip0)
-- [# Understanding Network Layers: What Every Node.js Developer Should Know About OSI/TCP-IP](https://dev.to/sudiip__17/-understanding-network-layers-what-every-nodejs-developer-should-know-about-ositcp-ip-135f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
