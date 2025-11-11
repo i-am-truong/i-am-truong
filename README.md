@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Mini-SOC with LM Studio - Part 1: Agent Architecture](https://dev.to/chaimae_bouassab_aa411bf2/building-an-ai-powered-mini-soc-with-lm-studio-part-1-agent-architecture-366e)
+- [Servicios de AWS que un Cloud Security Engineer debe dominar, aunque NO sean &quot;servicios de seguridad&quot; per se](https://dev.to/pangoro24/servicios-de-aws-que-un-cloud-security-engineer-debe-dominar-aunque-no-sean-servicios-de-4bji)
+- [Como Baixar, Quantizar e Rodar um Modelo LLM Localmente no Ollama](https://dev.to/carineneris/como-baixar-quantizar-e-rodar-um-modelo-llm-localmente-no-ollama-1kpi)
+- [Docker](https://dev.to/jumptotech/docker-225l)
+- [Kubernetes](https://dev.to/jumptotech/kubernetes-g9p)
 - [How to Disable HTTP Request Logs in Medusa v1 and v2?](https://dev.to/u11d/how-to-disable-http-request-logs-in-medusa-v1-and-v2-4j05)
-- [Did I just join a Hackathon](https://dev.to/rlove/did-i-just-join-a-hackathon-2700)
-- [IT Asset Management-Vulnerabilities and Patches.](https://dev.to/kiran_vedagiri_ae39372758/it-asset-management-vulnerabilities-and-patches-3i99)
-- [L&#39;Injection de Dépendances &lpar;DI&rpar; : Comment le Service Container de Laravel Vous Rend Invincible](https://dev.to/jiordiviera/linjection-de-dependances-di-comment-le-service-container-de-laravel-vous-rend-invincible-eo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
