@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2iab)
-- [100 Days of Code — My GitHub Streak Journey &lpar;Aug 4 Nov 11&rpar;](https://dev.to/aman_kureshi_/100-days-of-code-my-github-streak-journey-aug-4-nov-11-3dpj)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-enc)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-1i98)
-- [Chem-R: Learning to Reason as a Chemist](https://dev.to/paperium/chem-r-learning-to-reason-as-a-chemist-71l)
+- [Fault Tolerance](https://dev.to/igor_grieder/fault-tolerance-dgj)
+- [Optimize the Performance of the WebForms Class on the Server in WebForms Core 2](https://dev.to/elanatframework/optimize-the-performance-of-the-webforms-class-on-the-server-in-webforms-core-2-n34)
+- [Unit Tests: The Greatest Lie We Tell Ourselves?](https://dev.to/varshithvhegde/unit-tests-the-greatest-lie-we-tell-ourselves-2ehd)
+- [JS中的对象、var let const 在JS里的区别、JS中的作用域](https://dev.to/nikimunger/jszhong-de-dui-xiang-var-let-const-zai-jsli-de-qu-bie-jszhong-de-zuo-yong-yu-3ip0)
+- [# Understanding Network Layers: What Every Node.js Developer Should Know About OSI/TCP-IP](https://dev.to/sudiip__17/-understanding-network-layers-what-every-nodejs-developer-should-know-about-ositcp-ip-135f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
