@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning from History: What Other Token Ecosystems Teach Us About Pump.fun&#39;s Future](https://dev.to/hamd_writer_8c77d9c88c188/learning-from-history-what-other-token-ecosystems-teach-us-about-pumpfuns-future-2l2p)
-- [As we delve into the intricacies of Prevención de Lavado de](https://dev.to/drcarlosruizviquez/as-we-delve-into-the-intricacies-of-prevencion-de-lavado-de-ib3)
-- [What I Learned About Trailing Slashes While Migrating to a Static Site](https://dev.to/lovestaco/what-i-learned-about-trailing-slashes-while-migrating-to-a-static-site-aki)
-- [Introducing Layrr - Framer for your Codebase!](https://dev.to/thetronjohnson/introducing-layrr-framer-for-your-codebase-1b3k)
-- [Building Smarter Real Estate Models: From Spreadsheets to Predictive Feasibility Tools](https://dev.to/abdul_shamim/building-smarter-real-estate-models-from-spreadsheets-to-predictive-feasibility-tools-2mo3)
+- [How Writing Prompts Taught Me to Think Like a Programmer](https://dev.to/hannahpiercewriter/how-writing-prompts-taught-me-to-think-like-a-programmer-376b)
+- [So… what is GitHub Copilot’s &quot;Raptor mini&quot;and why should devs care?](https://dev.to/vevarunsharma/so-what-is-github-copilots-raptor-miniand-why-should-devs-care-3n30)
+- [Offline Souls, Online Noise &lpar;Dead Internet&rpar; PART 2](https://dev.to/cir9akovic/offline-souls-online-noise-dead-internet-part-2-p24)
+- [Integrating OpenAI API with WordPress: Generate Content Automatically](https://dev.to/naimurrahmannahid/integrating-openai-api-with-wordpress-generate-content-automatically-2o95)
+- [How Should a Beginner Train for Soccer?](https://dev.to/rafaelnadal5511/how-should-a-beginner-train-for-soccer-4o4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
