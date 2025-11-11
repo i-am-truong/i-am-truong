@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Educação financeira - aprenda a gerir a sua renda](https://dev.to/andersoncontreira/educacao-financeira-aprenda-a-gerir-a-sua-renda-eff)
-- [Projeto Sirios - Apache + Python para Acionar LEDs via Web na Banana Pi](https://dev.to/henriqueotogami/projeto-sirios-apache-python-para-acionar-leds-via-web-na-banana-pi-16p4)
-- [From Material 2 to Material You: Everything New in Material 3 for Android Developers](https://dev.to/mohitrajput987/from-material-2-to-material-you-everything-new-in-material-3-for-android-developers-4of2)
-- [How to use React with a VSCode webview.](https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58)
-- [A Senior Developer’s Guide to Python’s Data Toolkit](https://dev.to/onlineproxy/a-senior-developers-guide-to-pythons-data-toolkit-20c2)
+- [Analysing European Soccer Data with Deepnote in Windsurf IDE](https://dev.to/envitab/analysing-european-soccer-data-with-deepnote-in-windsurf-ide-3275)
+- [Cloud App Journey: Ep. 5 — Cloud Security: Protecting APIs, Credentials, and Data on Azure](https://dev.to/osvaldofa/cloud-app-journey-ep-8-cloud-security-protecting-apis-credentials-and-data-on-azure-4oe8)
+- [Painless Vibe-Coding: A Complete Practical Guide from Real-Life Experience](https://dev.to/petrashka/painless-vibe-coding-a-complete-practical-guide-from-real-life-experience-16nc)
+- [Unlock Your Simulations: Automated Parameter Tuning for Complex Models by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-your-simulations-automated-parameter-tuning-for-complex-models-by-arvind-sundararajan-3372)
+- [I built a tool to find where React components come from — even in big Next.js projects](https://dev.to/olebogengmbedzi/i-built-a-tool-to-find-where-react-components-come-from-even-in-big-nextjs-projects-5he2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
