@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I built this website — I&#39;d love UI/UX feedback](https://dev.to/pixie-kitten/i-built-this-website-id-love-uiux-feedback-3f89)
+- [🌐 How I Built a Cloud VPC from Scratch Using Just Linux &lpar;No Cloud!&rpar;](https://dev.to/sehiconcept/how-i-built-a-cloud-vpc-from-scratch-using-just-linux-no-cloud-22pj)
+- [Building a Virtual Private Cloud &lpar;VPC&rpar; from Scratch with Linux Namespaces, Bridges, iptables, and Python](https://dev.to/shebang_f7a029a2700eb909c/building-a-virtual-private-cloud-vpc-from-scratch-with-linux-namespaces-bridges-iptables-and-8ai)
 - [Traffic Arbitrage Isn&#39;t Magic, It&#39;s Architecture.](https://dev.to/_5ccdd25ca4bcc9b0bf/traffic-arbitrage-isnt-magic-its-architecture-14mg)
 - [Your New Command Line Co-Pilot: Mastering the Clipboard with Rust](https://dev.to/surajfale/your-new-command-line-co-pilot-mastering-the-clipboard-with-rust-500k)
-- [What happens when your cluster runs out of CPU? — The unsolved DevOps paradox](https://dev.to/babjisheik/what-happens-when-your-cluster-runs-out-of-cpu-the-unsolved-devops-paradox-1jid)
-- [Debunking the Myth: Is JOIN Always Faster Than Correlated Subqueries?](https://dev.to/rozhnev/debunking-the-myth-is-join-always-faster-than-correlated-subqueries-1m05)
-- [Deploying a Node.js App on Kubernetes with Minikube](https://dev.to/babjisheik/deploying-a-nodejs-app-on-kubernetes-with-minikube-52f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
