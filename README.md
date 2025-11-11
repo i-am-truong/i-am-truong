@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Official Statement on Fraudulent “SEEKSEM Token” Crypto Scam](https://dev.to/seeksem/official-statement-on-fraudulent-seeksem-token-crypto-scam-1956)
+- [fastTinker: A Multi-Language Desktop Playground for Rapid Prototyping](https://dev.to/boadusamuel/fasttinker-a-multi-language-desktop-playground-for-rapid-prototyping-3icn)
+- [n8n Self-Hosted vs n8n Cloud: Which One Should You Choose in 2025?](https://dev.to/ciphernutz/n8n-self-hosted-vs-n8n-cloud-which-one-should-you-choose-in-2025-1653)
 - [Hello dev.to – Portfolio syncing &amp; curious builds ahead](https://dev.to/grauconejo13/hello-devto-portfolio-syncing-curious-builds-ahead-223e)
 - [The Skills That Actually Make You Senior &lpar;Hint: They&#39;re Not What You Think&rpar;](https://dev.to/tlorent/the-skills-that-actually-make-you-senior-hint-theyre-not-what-you-think-1615)
-- [Monitor Falcon with OpenTelemetry](https://dev.to/uptrace/monitor-falcon-with-opentelemetry-36c0)
-- [How to Create a Responsive Portfolio Website with HTML and CSS Source Code](https://dev.to/uijunkie/responsive-portfolio-website-with-html-and-css-source-code-17li)
-- [DevOps team structures](https://dev.to/_steve_fenton_/devops-team-structures-510j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
