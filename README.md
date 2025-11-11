@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Rust is Revolutionizing Game Development: Performance, Safety, and Future-Ready Code](https://dev.to/aaravjoshi/why-rust-is-revolutionizing-game-development-performance-safety-and-future-ready-code-522f)
+- [Coding Challenge Practice - Question 52](https://dev.to/tomivan/coding-challenge-practice-question-52-4jap)
 - [Guide pour l&#39;installation de GKE on-prem sur VMware](https://dev.to/laformulenuagique/guide-pour-linstallation-de-gke-on-prem-sur-vmware-57l)
 - [Getting Wi-Fi SSID on Mac via bash using Shortcuts](https://dev.to/prudkohliad/getting-wi-fi-ssid-on-mac-via-bash-using-shortcuts-54ih)
 - [🗑️ Django Learning Journey – Day 8](https://dev.to/stackbento/django-learning-journey-day-8-115b)
-- [My first week Journey into Django](https://dev.to/stackbento/my-first-week-journey-into-django-16mb)
-- [Designing Data-Intensive Applications — Chapter 2: Data Models and Query Languages](https://dev.to/romario_dasilva_cbef4e6a/designing-data-intensive-applications-chapter-2-data-models-and-query-languages-4b2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
