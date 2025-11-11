@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CSS Transitions and Animations Basics: Bringing Your UI to Life](https://dev.to/sharique_siddiqui_8242dad/css-transitions-and-animations-basics-bringing-your-ui-to-life-5b6m)
-- [Battery Cooling Plates: Does Inlet Position Really Matter? I Ran the Model.](https://dev.to/thermal/battery-cooling-plates-does-inlet-position-really-matter-i-ran-the-model-41kc)
-- [shadcn/ui Async Button with Loading and Error States](https://dev.to/jqueryscript/shadcnui-async-button-with-loading-and-error-states-1hdm)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-3kp5)
-- [From Product Manager to AI Builder: What It Takes to Go from Prompt to Production](https://dev.to/andreea_papillon_70429422/from-product-manager-to-ai-builder-what-it-takes-to-go-from-prompt-to-production-4ofb)
+- [🎯 Scenario #13 — Encrypt Secrets Using Sealed Secrets &lpar;Bitnami&rpar; in Kubernetes](https://dev.to/latchudevops/scenario-13-encrypt-secrets-using-sealed-secrets-bitnami-in-kubernetes-32fl)
+- [Black Friday WordPress Checklist: How Agencies Can Keep Client Stores Running Smoothly](https://dev.to/medha_bhatt_21b7dc4cc53e7/black-friday-wordpress-checklist-how-agencies-can-keep-client-stores-running-smoothly-4h1c)
+- [The DevOps Blindspot: Why Reliability and Security Are Two Sides of the Same Coin](https://dev.to/taiwoakinbolaji/why-reliability-and-security-are-two-sides-of-the-same-coin-lcn)
+- [How to Use Path Aliases &#39;@&#39; in React Native with Expo](https://dev.to/cathylai/how-to-use-path-aliases-in-react-native-with-expo-1fl2)
+- [Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive](https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
