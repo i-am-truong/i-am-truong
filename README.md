@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Analysing European Soccer Data with Deepnote in Windsurf IDE](https://dev.to/envitab/analysing-european-soccer-data-with-deepnote-in-windsurf-ide-3275)
-- [Cloud App Journey: Ep. 5 — Cloud Security: Protecting APIs, Credentials, and Data on Azure](https://dev.to/osvaldofa/cloud-app-journey-ep-8-cloud-security-protecting-apis-credentials-and-data-on-azure-4oe8)
-- [Painless Vibe-Coding: A Complete Practical Guide from Real-Life Experience](https://dev.to/petrashka/painless-vibe-coding-a-complete-practical-guide-from-real-life-experience-16nc)
-- [Unlock Your Simulations: Automated Parameter Tuning for Complex Models by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-your-simulations-automated-parameter-tuning-for-complex-models-by-arvind-sundararajan-3372)
-- [I built a tool to find where React components come from — even in big Next.js projects](https://dev.to/olebogengmbedzi/i-built-a-tool-to-find-where-react-components-come-from-even-in-big-nextjs-projects-5he2)
+- [Traffic Arbitrage Isn&#39;t Magic, It&#39;s Architecture.](https://dev.to/_5ccdd25ca4bcc9b0bf/traffic-arbitrage-isnt-magic-its-architecture-14mg)
+- [Your New Command Line Co-Pilot: Mastering the Clipboard with Rust](https://dev.to/surajfale/your-new-command-line-co-pilot-mastering-the-clipboard-with-rust-500k)
+- [What happens when your cluster runs out of CPU? — The unsolved DevOps paradox](https://dev.to/babjisheik/what-happens-when-your-cluster-runs-out-of-cpu-the-unsolved-devops-paradox-1jid)
+- [Debunking the Myth: Is JOIN Always Faster Than Correlated Subqueries?](https://dev.to/rozhnev/debunking-the-myth-is-join-always-faster-than-correlated-subqueries-1m05)
+- [Deploying a Node.js App on Kubernetes with Minikube](https://dev.to/babjisheik/deploying-a-nodejs-app-on-kubernetes-with-minikube-52f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
