@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Production LLMOps Architecture for Snowflake](https://dev.to/jhagerer/a-production-llmops-architecture-for-snowflake-136c)
-- [Project: Cloud Guardrails with OPA + Conftest + Config/SecurityHub + Auto-Remediation](https://dev.to/jumptotech/project-cloud-guardrails-with-opa-conftest-configsecurityhub-auto-remediation-lcl)
-- [Day 1264 : Runnin&#39; and Searchin&#39;](https://dev.to/dwane/day-1264-runnin-and-searchin-3h72)
-- [Servicios de AWS que un Cloud Security Engineer debe dominar, aunque NO sean &quot;servicios de seguridad&quot; per se](https://dev.to/pangoro24/servicios-de-aws-que-un-cloud-security-engineer-debe-dominar-aunque-no-sean-servicios-de-4bji)
-- [Como Baixar, Quantizar e Rodar um Modelo LLM Localmente no Ollama](https://dev.to/carineneris/como-baixar-quantizar-e-rodar-um-modelo-llm-localmente-no-ollama-1kpi)
+- [2025 Complete Guide: In-Depth Analysis of ERNIE-4.5-VL-28B-A3B-Thinking Multimodal AI Model](https://dev.to/czmilo/2025-complete-guide-in-depth-analysis-of-ernie-45-vl-28b-a3b-thinking-multimodal-ai-model-1mib)
+- [👓 Quality Experience: Easy Ways to Introduce Accessibility Testing](https://dev.to/jmosley/quality-experience-easy-ways-to-introduce-accessibility-testing-2pof)
+- [Mi forma sencilla de limpiar un cangrejo azul sin liarla](https://dev.to/tommyviruzz/mi-forma-sencilla-de-limpiar-un-cangrejo-azul-sin-liarla-1h12)
+- [Secure Service-to-Service Auth: Verifying Laravel JWTs in a NestJS Microservice](https://dev.to/sopnonill87/secure-service-to-service-auth-verifying-laravel-jwts-in-a-nestjs-microservice-4h20)
+- [dev diary 20251111](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251112-2p61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
