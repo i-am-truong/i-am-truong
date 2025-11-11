@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Production LLMOps Architecture for Snowflake](https://dev.to/jhagerer/a-production-llmops-architecture-for-snowflake-136c)
 - [Project: Cloud Guardrails with OPA + Conftest + Config/SecurityHub + Auto-Remediation](https://dev.to/jumptotech/project-cloud-guardrails-with-opa-conftest-configsecurityhub-auto-remediation-lcl)
+- [Day 1264 : Runnin&#39; and Searchin&#39;](https://dev.to/dwane/day-1264-runnin-and-searchin-3h72)
 - [Servicios de AWS que un Cloud Security Engineer debe dominar, aunque NO sean &quot;servicios de seguridad&quot; per se](https://dev.to/pangoro24/servicios-de-aws-que-un-cloud-security-engineer-debe-dominar-aunque-no-sean-servicios-de-4bji)
 - [Como Baixar, Quantizar e Rodar um Modelo LLM Localmente no Ollama](https://dev.to/carineneris/como-baixar-quantizar-e-rodar-um-modelo-llm-localmente-no-ollama-1kpi)
-- [Docker](https://dev.to/jumptotech/docker-225l)
-- [Kubernetes](https://dev.to/jumptotech/kubernetes-g9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
