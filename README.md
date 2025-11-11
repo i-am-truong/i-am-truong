@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Python basics - Day 25](https://dev.to/ian_b838138a27a917398d181/python-basics-day-25-2ih)
-- [Designing Blockchain #1: Introduction](https://dev.to/dmytro_svynarenko/designing-blockchain-1-introduction-401j)
-- [What’s New in React 19.2 – Activity API, useEffectEvent, cacheSignal &amp; More](https://dev.to/manikandan/whats-new-in-react-192-activity-api-useeffectevent-cachesignal-more-1e3e)
-- [AgriCredit Africa: Building Trust and Financial Access for African Farmers](https://dev.to/n3on/agricredit-africa-building-trust-and-financial-access-for-african-farmers-4175)
-- [Handling custom web security rules, how do you do it?](https://dev.to/thinkvalue/handling-custom-web-security-rules-how-do-you-do-it-lcl)
+- [Você criou uma API, mas não tem documentação? Eita... 😅](https://dev.to/andersoncontreira/voce-criou-uma-api-mas-nao-tem-documentacao-eita-53a3)
+- [Reinventar a roda: um erro que muitas empresas ainda cometem](https://dev.to/andersoncontreira/reinventar-a-roda-um-erro-que-muitas-empresas-ainda-cometem-2ojo)
+- [Common WordPress Errors &lpar;And How to Fix Them Like a Pro&rpar; ⚠️](https://dev.to/anemnavinrao/common-wordpress-errors-and-how-to-fix-them-like-a-pro-318l)
+- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-55m3)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-49kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
