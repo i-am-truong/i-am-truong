@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Material 2 to Material You: Everything New in Material 3 for Android Developers](https://dev.to/mohitrajput987/from-material-2-to-material-you-everything-new-in-material-3-for-android-developers-4of2)
+- [How to use React with a VSCode webview.](https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58)
+- [A Senior Developer’s Guide to Python’s Data Toolkit](https://dev.to/onlineproxy/a-senior-developers-guide-to-pythons-data-toolkit-20c2)
 - [Search on steroids: Using regex in VS Code](https://dev.to/satejbidvai/search-on-steroids-using-regex-in-vs-code-1698)
 - [Static Website Deployment on AWS Amplify via GitHub &lpar;Entry-Level Guide&rpar;](https://dev.to/baguio_edianjay/static-website-deployment-on-aws-amplify-via-github-entry-level-guide-3ngj)
-- [From Laravel Factories to Framework-Agnostic: Building the Data Factory Package](https://dev.to/fbarrento/from-laravel-factories-to-framework-agnostic-building-the-data-factory-package-4pib)
-- [WRITE-UP N1CTF 2025](https://dev.to/null001/write-up-n1ctf-2025-j7e)
-- [Making a Read-Only Signal Editable in Your Component](https://dev.to/kobi2294/making-a-read-only-signal-editable-in-your-component-22c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
