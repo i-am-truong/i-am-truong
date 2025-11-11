@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps Routes API: Passing the 25 Waypoint Limit](https://dev.to/dannyhodge/google-maps-routes-api-passing-the-25-waypoint-limit-3m0)
+- [Construindo um Operador Kubernetes com Go](https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld)
+- [Ability to Create Async Commands in WebForms Core 2](https://dev.to/elanatframework/ability-to-create-async-commands-in-webforms-core-2-2ghk)
 - [💻 Flutter V2Ray Client Desktop Plugin — V2Ray/Xray &amp; Sing-Box VPN for Windows, macOS, Linux](https://dev.to/amirzr/flutter-v2ray-client-desktop-plugin-v2rayxray-sing-box-vpn-for-windows-macos-linux-5h9d)
-- [Mastering Cryptography: A Senior&#39;s Guide to Design, Attack, and Defend](https://dev.to/tsaplina_elena/mastering-cryptography-a-seniors-guide-to-design-attack-and-defend-h9c)
-- [Djowda — Looking for a New Steward for an Open FoodTech Ecosystem](https://dev.to/mosescodedev/djowda-looking-for-a-new-steward-for-an-open-foodtech-ecosystem-30gc)
-- [Podcast: ConformIQ CEO &amp; LayerLens Co-Founder on the Reality of AI in Testing](https://dev.to/mj_creamer/podcast-conformiq-ceo-layerlens-co-founder-on-the-reality-of-ai-in-testing-4mbe)
-- [What Actually Happens When You Type a URL in the Browser?](https://dev.to/byte-sized-news/what-actually-happens-when-you-type-a-url-in-the-browser-5b08)
+- [How To Make A Custom Type Iterable In Rust.](https://dev.to/allwelldotdev/how-to-make-a-custom-type-iterable-in-rust-c0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
