@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Resume Challenge - Chunk 5 - The Final Write-Up](https://dev.to/tlklein/cloud-resume-challenge-chunk-5-the-final-write-up-4n06)
+- [How signals really work in JavaScript? Basic concept.](https://dev.to/thatsembarrassing/how-signals-really-work-in-javascript-basic-concept-2m4l)
+- [Why Not All AI Works the Same: A Quick Breakdown for Builders](https://dev.to/clickit_devops/why-not-all-ai-works-the-same-a-quick-breakdown-for-builders-106n)
 - [Build a PHP QueryBuilder from scratch!](https://dev.to/l_iadicola/build-a-php-querybuilder-from-scratch-4891)
 - [Clean up in active AD accounts](https://dev.to/thiyagarajan_thangavel/clean-up-in-active-ad-accounts-13ki)
-- [Project Create a Storage Account for Public Use and Private Use](https://dev.to/baris86/project-create-a-storage-account-for-public-use-and-private-use-1hmj)
-- [Fault Tolerance](https://dev.to/igor_grieder/fault-tolerance-dgj)
-- [Optimize the Performance of the WebForms Class on the Server in WebForms Core 2](https://dev.to/elanatframework/optimize-the-performance-of-the-webforms-class-on-the-server-in-webforms-core-2-n34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
