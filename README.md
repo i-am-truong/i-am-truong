@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I learned to “use AI” in 3 baby steps](https://dev.to/miffens/how-i-learned-to-use-ai-in-3-baby-steps-2216)
-- [Build Your Own ChatGPT Clone — Cheap and Fast](https://dev.to/criselda_gomez_1ea592dd24/build-your-own-chatgpt-clone-cheap-and-fast-47p4)
-- [Top Open-Source MCP Servers and SDKs to Explore: Your Gateway to AI Superpowers](https://dev.to/manonaga2188/top-open-source-mcp-servers-and-sdks-to-explore-your-gateway-to-ai-superpowers-38ab)
-- [The Skill Gap Nobody Talks About: Communication in Tech Teams](https://dev.to/careerbytecode/the-skill-gap-nobody-talks-about-communication-in-tech-teams-53ae)
-- [The Future of Cloud Computing: Trends to Watch in 2025](https://dev.to/itcs11/the-future-of-cloud-computing-trends-to-watch-in-2025-17b9)
+- [Differences Between CAN and Modbus](https://dev.to/jamesliu/differences-between-can-and-modbus-45i1)
+- [🗑️ Add Dynamic Delete Button and Add Row Feature in Joget Spreadsheet](https://dev.to/exploringmylifeworks/add-dynamic-delete-button-and-add-row-feature-in-joget-spreadsheet-3jio)
+- [Mastering Bash Scripting: A Comprehensive Guide for Developers](https://dev.to/farhad_rahimi_klie/mastering-bash-scripting-a-comprehensive-guide-for-developers-34)
+- [Can AI for founders outpace hiring in startups?](https://dev.to/jay_all_day/can-ai-for-founders-outpace-hiring-in-startups-4fp2)
+- [Check out the guide on - Mastering Reinforcement Learning with R: Building Smarter Decisions Through Data-Driven Experience](https://dev.to/thedatageek/check-out-the-guide-on-mastering-reinforcement-learning-with-r-building-smarter-decisions-27dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
