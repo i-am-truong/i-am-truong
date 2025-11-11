@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing YouTube Error 153 in iOS Capacitor Apps: A Simple Proxy Solution](https://dev.to/davidvesely/fixing-youtube-error-153-in-ios-capacitor-apps-a-simple-proxy-solution-607)
 - [Understanding the Internet: A Guide for Kids Under 10 Years Old.](https://dev.to/adeolaogunkola/understanding-the-internet-a-guide-for-kids-under-10-years-old-3j7m)
 - [Kickstart Your Dev Projects: Free Starter Kit with Portfolio Templates &amp; Frontend Dashboard](https://dev.to/lotfijb/kickstart-your-dev-projects-free-starter-kit-with-portfolio-templates-frontend-dashboard-4eh7)
+- [API Test Automation Best Practices for Scalable Products](https://dev.to/jignect-technologies/api-test-automation-best-practices-for-scalable-products-3ddi)
 - [Building Intelligent Game AI with CXXGraph: From Grid Pathfinding to Strategic Navigation](https://dev.to/zigrazor/building-intelligent-game-ai-with-cxxgraph-from-grid-pathfinding-to-strategic-navigation-1g3n)
-- [CBS teleCom](https://dev.to/haolin_chan_ff12e74ab6ae/cbs-telecom-1jk0)
-- [Implementing Predictive Scaling for ECS Services with Custom Metrics and Termination Policies](https://dev.to/ruween_iddagoda_641029d84/implementing-predictive-scaling-for-ecs-services-with-custom-metrics-and-termination-policies-4m2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
