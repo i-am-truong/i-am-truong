@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Designing Resilient APIs for Large-Scale Transport &amp; Warehouse Management Systems](https://dev.to/irshadpathan/designing-resilient-apis-for-large-scale-transport-warehouse-management-systems-10mi)
-- [Your Child, Your Guide: A Heart-to-Heart on Ethical Autism Therapy](https://dev.to/mekaywillow/your-child-your-guide-a-heart-to-heart-on-ethical-autism-therapy-22h2)
-- [Search on steroids: Using regex in VS Code](https://dev.to/satejbidvai/search-on-steroids-using-regex-in-vs-code-44fd)
-- [How I Accidentally Built My Own Mixpanel Alternative](https://dev.to/lindesvard/how-i-accidentally-built-my-own-mixpanel-alternative-45i6)
-- [🌐 Build Your Own MCP Server — and Connect It to *Any* MCP Client &lpar;Claude, VSCode, GitHub, and More&rpar;](https://dev.to/cesar_nikolascamacmelen/build-your-own-mcp-server-and-connect-it-to-any-mcp-client-claude-vscode-github-and-more-c55)
+- [Setting Up Solid Cache on Heroku with a Single Database](https://dev.to/mrispoli24/setting-up-solid-cache-on-heroku-with-a-single-database-49c5)
+- [I Built an API-First Document Workflow Engine &lpar;Looking for Feedback&rpar;](https://dev.to/juniorchar2025/i-built-an-api-first-document-workflow-engine-looking-for-feedback-1kdf)
+- [Trabalhar para empresas internacionais não é impossível](https://dev.to/andersoncontreira/trabalhar-para-empresas-internacionais-nao-e-impossivel-bj3)
+- [Talk Early, Fail Less: How Communication Builds Great Teams](https://dev.to/reenanms/talk-early-fail-less-how-communication-builds-great-teams-3l4b)
+- [🔥 Why Your Deep Neural Network Fails at Layer 50 &lpar;And How ResNet Fixes It&rpar;](https://dev.to/igornosatov_15/why-your-deep-neural-network-fails-at-layer-50-and-how-resnet-fixes-it-3c4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
