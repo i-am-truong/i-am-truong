@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Real-Time Chat App with WebSockets](https://dev.to/mikeodnis/building-a-real-time-chat-app-with-websockets-3k6f)
+- [Beyond DevOps: Reclaiming True Engineering in a Tool-Driven IT World](https://dev.to/srinivasamcjf/beyond-devops-reclaiming-true-engineering-in-a-tool-driven-it-world-jjj)
 - [Operator Overloading &lpar;Binary &amp; Unary&rpar; in C++](https://dev.to/jyoti_jingar/operator-overloading-binary-unary-in-c-19h9)
 - [Security for Bootstrapped Startups: The $0 Budget Checklist &lpar;2025&rpar;](https://dev.to/narnaiezzsshaa/security-for-bootstrapped-startups-the-0-budget-checklist-2025-2aib)
 - [The Complete Beginner&#39;s Guide to vpcctl: Building Virtual Networks on Linux](https://dev.to/destinyobs/the-complete-beginners-guide-to-vpcctl-building-virtual-networks-on-linux-36le)
-- [Managing User on Linux &lpar;Cheat Sheet&rpar;](https://dev.to/seno21/managing-user-on-linux-cheat-sheet-50d)
-- [Hands-On with Kubernetes 1.33: My PoC on In-Place Vertical Scaling](https://dev.to/robert_r_7c237256b7614328/hands-on-with-kubernetes-133-my-poc-on-in-place-vertical-scaling-147)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
