@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simulating a Virtual Private Cloud &lpar;VPC&rpar; with `vpcctl.py`](https://dev.to/shebang_f7a029a2700eb909c/simulating-a-virtual-private-cloud-vpc-with-vpcctlpy-52p4)
-- [I built this website — I&#39;d love UI/UX feedback](https://dev.to/pixie-kitten/i-built-this-website-id-love-uiux-feedback-3f89)
-- [🌐 How I Built a Cloud VPC from Scratch Using Just Linux &lpar;No Cloud!&rpar;](https://dev.to/sehiconcept/how-i-built-a-cloud-vpc-from-scratch-using-just-linux-no-cloud-22pj)
-- [Building a Virtual Private Cloud &lpar;VPC&rpar; from Scratch with Linux Namespaces, Bridges, iptables, and Python](https://dev.to/shebang_f7a029a2700eb909c/building-a-virtual-private-cloud-vpc-from-scratch-with-linux-namespaces-bridges-iptables-and-8ai)
-- [Traffic Arbitrage Isn&#39;t Magic, It&#39;s Architecture.](https://dev.to/_5ccdd25ca4bcc9b0bf/traffic-arbitrage-isnt-magic-its-architecture-14mg)
+- [Learning from History: What Other Token Ecosystems Teach Us About Pump.fun&#39;s Future](https://dev.to/hamd_writer_8c77d9c88c188/learning-from-history-what-other-token-ecosystems-teach-us-about-pumpfuns-future-2l2p)
+- [As we delve into the intricacies of Prevención de Lavado de](https://dev.to/drcarlosruizviquez/as-we-delve-into-the-intricacies-of-prevencion-de-lavado-de-ib3)
+- [What I Learned About Trailing Slashes While Migrating to a Static Site](https://dev.to/lovestaco/what-i-learned-about-trailing-slashes-while-migrating-to-a-static-site-aki)
+- [Introducing Layrr - Framer for your Codebase!](https://dev.to/thetronjohnson/introducing-layrr-framer-for-your-codebase-1b3k)
+- [Building Smarter Real Estate Models: From Spreadsheets to Predictive Feasibility Tools](https://dev.to/abdul_shamim/building-smarter-real-estate-models-from-spreadsheets-to-predictive-feasibility-tools-2mo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
