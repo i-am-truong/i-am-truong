@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Robotics](https://dev.to/nicanor_korir/getting-started-with-robotics-3f0g)
-- [Risk Management in the Age of AI Trading Tools](https://dev.to/globridge-tech/risk-management-in-the-age-of-ai-trading-tools-3lgo)
-- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-47g1)
-- [Skip the Cloud Setup: Expose Your Express.js App Securely from Localhost](https://dev.to/lightningdev123/skip-the-cloud-setup-expose-your-expressjs-app-securely-from-localhost-24p8)
-- [Enhancing App Security with OTP SMS APIs: A Developer’s Guide](https://dev.to/dbhatasana/enhancing-app-security-with-otp-sms-apis-a-developers-guide-1o4a)
+- [Tom Lee Loves Ethereum—but He’s Ignoring the Elephant in the Room](https://dev.to/bitnet4ever/tom-lee-loves-ethereum-but-hes-ignoring-the-elephant-in-the-room-3kf3)
+- [Why Recruiters Are Switching to AI Interviews for Talent Evaluation](https://dev.to/skillsauce/why-recruiters-are-switching-to-ai-interviews-for-talent-evaluation-4o3b)
+- [How to load test PostgreSQL database and not miss anything](https://dev.to/tantorlabs/how-to-load-test-postgresql-database-and-not-miss-anything-9jk)
+- [Every Sunday, I Refactor Old Code](https://dev.to/hadil/every-sunday-i-refactor-old-code-1g18)
+- [Framelink Figma MCP vs Kombai: Which is Best for Figma-to-Code Automation?](https://dev.to/aakash67/figma-mcp-vs-kombai-which-is-best-for-figma-to-code-automation-4c2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
