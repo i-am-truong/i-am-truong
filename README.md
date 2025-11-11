@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Internet: A Guide for Kids Under 10 Years Old.](https://dev.to/adeolaogunkola/understanding-the-internet-a-guide-for-kids-under-10-years-old-3j7m)
 - [Kickstart Your Dev Projects: Free Starter Kit with Portfolio Templates &amp; Frontend Dashboard](https://dev.to/lotfijb/kickstart-your-dev-projects-free-starter-kit-with-portfolio-templates-frontend-dashboard-4eh7)
 - [Building Intelligent Game AI with CXXGraph: From Grid Pathfinding to Strategic Navigation](https://dev.to/zigrazor/building-intelligent-game-ai-with-cxxgraph-from-grid-pathfinding-to-strategic-navigation-1g3n)
 - [CBS teleCom](https://dev.to/haolin_chan_ff12e74ab6ae/cbs-telecom-1jk0)
-- [Scaling Is All You Need: Understanding sqrt&lpar;dₖ&rpar; in Self-Attention](https://dev.to/samyak112/scaling-is-all-you-need-understanding-sqrtd-in-self-attention-29pk)
-- [Chef who discovers recipes that don’t just feed the body, but awaken hidden talents in anyone who tastes them.](https://dev.to/ruqaiya/chef-who-discovers-recipes-that-dont-just-feed-the-body-but-awaken-hidden-talents-in-anyone-who-4fmk)
+- [Implementing Predictive Scaling for ECS Services with Custom Metrics and Termination Policies](https://dev.to/ruween_iddagoda_641029d84/implementing-predictive-scaling-for-ecs-services-with-custom-metrics-and-termination-policies-4m2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
