@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Resume Challenge - Chunk 5 - The Final Write-Up](https://dev.to/tlklein/cloud-resume-challenge-chunk-5-the-final-write-up-4n06)
-- [How signals really work in JavaScript? Basic concept.](https://dev.to/thatsembarrassing/how-signals-really-work-in-javascript-basic-concept-2m4l)
-- [Why Not All AI Works the Same: A Quick Breakdown for Builders](https://dev.to/clickit_devops/why-not-all-ai-works-the-same-a-quick-breakdown-for-builders-106n)
-- [Build a PHP QueryBuilder from scratch!](https://dev.to/l_iadicola/build-a-php-querybuilder-from-scratch-4891)
-- [Clean up in active AD accounts](https://dev.to/thiyagarajan_thangavel/clean-up-in-active-ad-accounts-13ki)
+- [Transactions , Deadlocks &amp; Log Based Recovery in SQL](https://dev.to/raksh__e858eea76f8f29ed/transactions-deadlocks-log-based-recovery-in-sql-1pci)
+- [Deconstructing a Production-Ready AI Agent: A Beginner&#39;s Guide - Part 1](https://dev.to/ladam2000/deconstructing-a-production-ready-ai-agent-a-beginners-guide-part-1-3hpk)
+- [What the EU AI Act means for generative AI developers](https://dev.to/fahimulhaq/what-the-eu-ai-act-means-for-generative-ai-developers-1mjc)
+- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/raksh__e858eea76f8f29ed/indexing-hashing-query-optimization-in-sql-4fho)
+- [Running Out of Data: How Synthetic Data is Saving the Future of AI](https://dev.to/grenishrai/running-out-of-data-how-synthetic-data-is-saving-the-future-of-ai-1pn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
