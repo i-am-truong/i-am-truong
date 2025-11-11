@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Chat App with WebSockets](https://dev.to/mikeodnis/building-a-real-time-chat-app-with-websockets-3k6f)
-- [Beyond DevOps: Reclaiming True Engineering in a Tool-Driven IT World](https://dev.to/srinivasamcjf/beyond-devops-reclaiming-true-engineering-in-a-tool-driven-it-world-jjj)
-- [Operator Overloading &lpar;Binary &amp; Unary&rpar; in C++](https://dev.to/jyoti_jingar/operator-overloading-binary-unary-in-c-19h9)
-- [Security for Bootstrapped Startups: The $0 Budget Checklist &lpar;2025&rpar;](https://dev.to/narnaiezzsshaa/security-for-bootstrapped-startups-the-0-budget-checklist-2025-2aib)
-- [The Complete Beginner&#39;s Guide to vpcctl: Building Virtual Networks on Linux](https://dev.to/destinyobs/the-complete-beginners-guide-to-vpcctl-building-virtual-networks-on-linux-36le)
+- [Scaling Is All You Need: Understanding sqrt&lpar;dₖ&rpar; in Self-Attention](https://dev.to/samyak112/scaling-is-all-you-need-understanding-sqrtd-in-self-attention-29pk)
+- [Chef who discovers recipes that don’t just feed the body, but awaken hidden talents in anyone who tastes them.](https://dev.to/ruqaiya/chef-who-discovers-recipes-that-dont-just-feed-the-body-but-awaken-hidden-talents-in-anyone-who-4fmk)
+- [Using Jest and LLM assistance to test your real-time chat](https://dev.to/zenika/using-jest-and-llm-assistance-to-test-your-real-time-chat-4mnm)
+- [Getting Started with Database Entity Relationship](https://dev.to/masteringbackend/getting-started-with-database-entity-relationship-1aik)
+- [Design System: Building the Foundations](https://dev.to/denis_bratchikov/design-system-building-the-foundations-1l75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
