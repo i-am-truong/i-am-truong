@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🔥Inside Google Jobs Series &lpar;Part 5&rpar;: Search &amp; Core Product Engineering](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-5-search-core-product-engineering-4cjo)
+- [AWS SAA to Security Clearance: My Path to Federal Cloud Engineering](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-cloud-engineering-3dgk)
+- [Atomic commits and git bisect](https://dev.to/ajth-in/atomic-commits-and-git-bisect-10d0)
 - [Transactions , Deadlocks &amp; Log Based Recovery in SQL](https://dev.to/raksh__e858eea76f8f29ed/transactions-deadlocks-log-based-recovery-in-sql-1pci)
 - [Deconstructing a Production-Ready AI Agent: A Beginner&#39;s Guide - Part 1](https://dev.to/ladam2000/deconstructing-a-production-ready-ai-agent-a-beginners-guide-part-1-3hpk)
-- [What the EU AI Act means for generative AI developers](https://dev.to/fahimulhaq/what-the-eu-ai-act-means-for-generative-ai-developers-1mjc)
-- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/raksh__e858eea76f8f29ed/indexing-hashing-query-optimization-in-sql-4fho)
-- [Running Out of Data: How Synthetic Data is Saving the Future of AI](https://dev.to/grenishrai/running-out-of-data-how-synthetic-data-is-saving-the-future-of-ai-1pn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
