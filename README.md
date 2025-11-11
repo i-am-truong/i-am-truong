@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Power BI and REST APIs: A Fun Guide on how to Turn Web Data into Beautiful dashboards.](https://dev.to/evlyn_njagi_a32f3ab6c984/the-power-bi-and-rest-apis-a-fun-guide-on-how-to-turn-web-data-into-beautiful-dashboards-54o5)
-- [Stop Splitting Strings the Wrong Way: Discover Intl.Segmenter](https://dev.to/josephciullo/stop-splitting-strings-the-wrong-way-discover-intlsegmenter-4667)
-- [🚀 From Idea to App: Tracking Open-Source Project Growth in Real-Time](https://dev.to/code-forge-temple/from-idea-to-app-tracking-open-source-project-growth-in-real-time-1i3n)
-- [JSON to TOON Converter](https://dev.to/alifar/json-to-toon-converter-3j0c)
-- [Maximize Element Size While Maintaining Aspect Ratio with CSS](https://dev.to/t4y3/maximize-element-size-while-maintaining-aspect-ratio-with-css-mh8)
+- [Calendar API update for secondary calendars, create Workspace Flows custom steps, and more!](https://dev.to/googleworkspace/calendar-api-update-for-secondary-calendars-create-workspace-flows-custom-steps-and-more-915)
+- [Setup Dozzle with Auth on Coolify](https://dev.to/adamghill/setup-dozzle-with-auth-on-coolify-cof)
+- [Next.js 16: What&#39;s New? Turbopack, React Compiler &amp; Key Features](https://dev.to/vrushikvisavadiya/nextjs-16-whats-new-turbopack-react-compiler-key-features-kj4)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-1d70)
+- [Keycloak, WebSockets &amp; Symfony: Solving Real-Time Auth Without Sacrificing Performance](https://dev.to/mattleads/keycloak-websockets-symfony-solving-real-time-auth-without-sacrificing-performance-2ahm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
