@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sea of Stars: Pixelated Compassion in an Age of Exhaustion](https://dev.to/junothreadborne/sea-of-stars-pixelated-compassion-in-an-age-of-exhaustion-4e4o)
+- [How To Install Cloudwatch Agent On Amazon Linux By Using CLI](https://dev.to/thukhakyawe_cloud/how-to-install-cloudwatch-agent-on-amazon-linux-by-using-cli-3i4f)
+- [Get Hasura Ready in 1 hour — A copy-pasteable PROD Framework I wish I had on Hasura Day 1.](https://dev.to/michalelee0609/get-hasura-ready-in-1-hour-a-copy-pasteable-prod-framework-i-wish-i-had-on-hasura-day-1-1173)
+- [Host your first AI Agent on Agentcore](https://dev.to/joshyfruit/host-your-first-ai-agent-on-agentcore-2o06)
 - [Angular Directive that Elegantly Continues Truncated Text](https://dev.to/hosembafer/angular-directive-that-elegantly-continues-truncated-text-1f1h)
-- [🎯 Scenario #13 — Encrypt Secrets Using Sealed Secrets &lpar;Bitnami&rpar; in Kubernetes](https://dev.to/latchudevops/scenario-13-encrypt-secrets-using-sealed-secrets-bitnami-in-kubernetes-32fl)
-- [How To Migrate Load Balanced Application by Using a Blue Green and Canary Deployment Strategy](https://dev.to/thukhakyawe_cloud/how-to-migrate-load-balanced-application-by-using-a-blue-green-and-canary-deployment-strategy-543k)
-- [How to Reduce AWS Costs by 50% Without Sacrificing Performance: A Complete Guide](https://dev.to/instadevops/how-to-reduce-aws-costs-by-50-without-sacrificing-performance-a-complete-guide-40e0)
-- [I just coined &quot;AI drift&quot; – and built AI Driftmaster to kill it &lpar;open-source MCP server&rpar;](https://dev.to/joshua_girod_3de84618c813/i-just-coined-ai-drift-and-built-ai-driftmaster-to-kill-it-open-source-mcp-server-4lgf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
