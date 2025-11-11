@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Methods in Java](https://dev.to/vidya_varshini/methods-in-java-5ejp)
+- [Unlocking Business Insights with AWS QuickSight](https://dev.to/smit-vaghasiya/unlocking-business-insights-with-aws-quicksight-2b9f)
+- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-18nl)
+- [Deploying ML Models to Production: AWS Lambda vs ECS vs EKS - A Data-Driven Comparison](https://dev.to/aws-builders/deploying-ml-models-to-production-aws-lambda-vs-ecs-vs-eks-a-data-driven-comparison-8ib)
 - [Official Statement on Fraudulent “SEEKSEM Token” Crypto Scam](https://dev.to/seeksem/official-statement-on-fraudulent-seeksem-token-crypto-scam-1956)
-- [fastTinker: A Multi-Language Desktop Playground for Rapid Prototyping](https://dev.to/boadusamuel/fasttinker-a-multi-language-desktop-playground-for-rapid-prototyping-3icn)
-- [n8n Self-Hosted vs n8n Cloud: Which One Should You Choose in 2025?](https://dev.to/ciphernutz/n8n-self-hosted-vs-n8n-cloud-which-one-should-you-choose-in-2025-1653)
-- [Hello dev.to – Portfolio syncing &amp; curious builds ahead](https://dev.to/grauconejo13/hello-devto-portfolio-syncing-curious-builds-ahead-223e)
-- [The Skills That Actually Make You Senior &lpar;Hint: They&#39;re Not What You Think&rpar;](https://dev.to/tlorent/the-skills-that-actually-make-you-senior-hint-theyre-not-what-you-think-1615)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
