@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Command to Generate Console Message from Server in WebForms Core 2](https://dev.to/elanatframework/command-to-generate-console-message-from-server-in-webforms-core-2-4k5o)
 - [Google Maps Routes API: Passing the 25 Waypoint Limit](https://dev.to/dannyhodge/google-maps-routes-api-passing-the-25-waypoint-limit-3m0)
 - [Construindo um Operador Kubernetes com Go](https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld)
 - [Ability to Create Async Commands in WebForms Core 2](https://dev.to/elanatframework/ability-to-create-async-commands-in-webforms-core-2-2ghk)
-- [💻 Flutter V2Ray Client Desktop Plugin — V2Ray/Xray &amp; Sing-Box VPN for Windows, macOS, Linux](https://dev.to/amirzr/flutter-v2ray-client-desktop-plugin-v2rayxray-sing-box-vpn-for-windows-macos-linux-5h9d)
-- [How To Make A Custom Type Iterable In Rust.](https://dev.to/allwelldotdev/how-to-make-a-custom-type-iterable-in-rust-c0i)
+- [[Boost]](https://dev.to/gateremark/-1nin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
