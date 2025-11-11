@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simulating a Virtual Private Cloud &lpar;VPC&rpar; with `vpcctl.py`](https://dev.to/shebang_f7a029a2700eb909c/simulating-a-virtual-private-cloud-vpc-with-vpcctlpy-52p4)
 - [I built this website — I&#39;d love UI/UX feedback](https://dev.to/pixie-kitten/i-built-this-website-id-love-uiux-feedback-3f89)
 - [🌐 How I Built a Cloud VPC from Scratch Using Just Linux &lpar;No Cloud!&rpar;](https://dev.to/sehiconcept/how-i-built-a-cloud-vpc-from-scratch-using-just-linux-no-cloud-22pj)
 - [Building a Virtual Private Cloud &lpar;VPC&rpar; from Scratch with Linux Namespaces, Bridges, iptables, and Python](https://dev.to/shebang_f7a029a2700eb909c/building-a-virtual-private-cloud-vpc-from-scratch-with-linux-namespaces-bridges-iptables-and-8ai)
 - [Traffic Arbitrage Isn&#39;t Magic, It&#39;s Architecture.](https://dev.to/_5ccdd25ca4bcc9b0bf/traffic-arbitrage-isnt-magic-its-architecture-14mg)
-- [Your New Command Line Co-Pilot: Mastering the Clipboard with Rust](https://dev.to/surajfale/your-new-command-line-co-pilot-mastering-the-clipboard-with-rust-500k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
