@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Rust is Revolutionizing Game Development: Performance, Safety, and Future-Ready Code](https://dev.to/aaravjoshi/why-rust-is-revolutionizing-game-development-performance-safety-and-future-ready-code-522f)
-- [Coding Challenge Practice - Question 52](https://dev.to/tomivan/coding-challenge-practice-question-52-4jap)
-- [Guide pour l&#39;installation de GKE on-prem sur VMware](https://dev.to/laformulenuagique/guide-pour-linstallation-de-gke-on-prem-sur-vmware-57l)
-- [Getting Wi-Fi SSID on Mac via bash using Shortcuts](https://dev.to/prudkohliad/getting-wi-fi-ssid-on-mac-via-bash-using-shortcuts-54ih)
-- [🗑️ Django Learning Journey – Day 8](https://dev.to/stackbento/django-learning-journey-day-8-115b)
+- [Building an AI-Powered Mini-SOC with LM Studio - Part 1: Agent Architecture](https://dev.to/chaimae_bouassab_aa411bf2/building-an-ai-powered-mini-soc-with-lm-studio-part-1-agent-architecture-366e)
+- [How to Disable HTTP Request Logs in Medusa v1 and v2?](https://dev.to/u11d/how-to-disable-http-request-logs-in-medusa-v1-and-v2-4j05)
+- [Did I just join a Hackathon](https://dev.to/rlove/did-i-just-join-a-hackathon-2700)
+- [IT Asset Management-Vulnerabilities and Patches.](https://dev.to/kiran_vedagiri_ae39372758/it-asset-management-vulnerabilities-and-patches-3i99)
+- [L&#39;Injection de Dépendances &lpar;DI&rpar; : Comment le Service Container de Laravel Vous Rend Invincible](https://dev.to/jiordiviera/linjection-de-dependances-di-comment-le-service-container-de-laravel-vous-rend-invincible-eo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
