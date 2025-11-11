@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello dev.to – Portfolio syncing &amp; curious builds ahead](https://dev.to/grauconejo13/hello-devto-portfolio-syncing-curious-builds-ahead-223e)
+- [The Skills That Actually Make You Senior &lpar;Hint: They&#39;re Not What You Think&rpar;](https://dev.to/tlorent/the-skills-that-actually-make-you-senior-hint-theyre-not-what-you-think-1615)
 - [Monitor Falcon with OpenTelemetry](https://dev.to/uptrace/monitor-falcon-with-opentelemetry-36c0)
 - [How to Create a Responsive Portfolio Website with HTML and CSS Source Code](https://dev.to/uijunkie/responsive-portfolio-website-with-html-and-css-source-code-17li)
 - [DevOps team structures](https://dev.to/_steve_fenton_/devops-team-structures-510j)
-- [Creating and Styling Tables in PDF Documents with C#](https://dev.to/allen_yang_f905170c5a197b/creating-and-styling-tables-in-pdf-documents-with-c-4mn8)
-- [Day 26 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-26-of-my-ai-data-mastery-journey-from-python-to-generative-ai-4fim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
