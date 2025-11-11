@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Architectural decisions](https://dev.to/grzegorzgrzegorz/architectural-decisions-2nmh)
-- [Upgrading Expo to 54 - and making Cursor give the latest instructions](https://dev.to/cathylai/upgrading-expo-to-54-and-making-cursor-give-the-latest-instructions-3nj3)
-- [Acid Properties in SQL](https://dev.to/raksh__e858eea76f8f29ed/acid-properties-in-sql-3gn8)
-- [🔥Inside Google Jobs Series &lpar;Part 5&rpar;: Search &amp; Core Product Engineering](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-5-search-core-product-engineering-4cjo)
-- [AWS SAA to Security Clearance: My Path to Federal Cloud Engineering](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-cloud-engineering-3dgk)
+- [Search on steroids: Using regex in VS Code](https://dev.to/satejbidvai/search-on-steroids-using-regex-in-vs-code-1698)
+- [Static Website Deployment on AWS Amplify via GitHub &lpar;Entry-Level Guide&rpar;](https://dev.to/baguio_edianjay/static-website-deployment-on-aws-amplify-via-github-entry-level-guide-3ngj)
+- [From Laravel Factories to Framework-Agnostic: Building the Data Factory Package](https://dev.to/fbarrento/from-laravel-factories-to-framework-agnostic-building-the-data-factory-package-4pib)
+- [WRITE-UP N1CTF 2025](https://dev.to/null001/write-up-n1ctf-2025-j7e)
+- [Making a Read-Only Signal Editable in Your Component](https://dev.to/kobi2294/making-a-read-only-signal-editable-in-your-component-22c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
