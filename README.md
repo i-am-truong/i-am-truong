@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Controllers in Express.js](https://dev.to/msnmongare/understanding-controllers-in-expressjs-9h9)
+- [The Rise of Shoppable Content: Turning Blogs, Reels, and Posts Into Sales](https://dev.to/molly_scott_0605/the-rise-of-shoppable-content-turning-blogs-reels-and-posts-into-sales-2j18)
+- [Memory in AI Companions: Implementing Vector-Based Long-Term User State](https://dev.to/nsfwcoders/memory-in-ai-companions-implementing-vector-based-long-term-user-state-3d5f)
+- [Meta Returns to Open Source AI with Omnilingual ASR Models](https://dev.to/logicverse_2025/meta-returns-to-open-source-ai-with-omnilingual-asr-models-33cg)
 - [Networking Basics Guide for DevOps Engineers](https://dev.to/serveravatar/networking-basics-guide-for-devops-engineers-38lg)
-- [Subscribers in PKI: Who Actually Uses the Certificates](https://dev.to/dcs-soni/subscribers-in-pki-who-actually-uses-the-certificates-42od)
-- [Prometheus + K6 Fusion: Measure API Performance with Real-Time Metrics in Grafana](https://dev.to/asraful_haque/prometheus-k6-fusion-measure-api-performance-with-real-time-metrics-in-grafana-4nl7)
-- [Tom Lee Loves Ethereum—but He’s Ignoring the Elephant in the Room](https://dev.to/bitnet4ever/tom-lee-loves-ethereum-but-hes-ignoring-the-elephant-in-the-room-3kf3)
-- [Why Recruiters Are Switching to AI Interviews for Talent Evaluation](https://dev.to/skillsauce/why-recruiters-are-switching-to-ai-interviews-for-talent-evaluation-4o3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
