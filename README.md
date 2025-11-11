@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Controllers in Express.js](https://dev.to/msnmongare/understanding-controllers-in-expressjs-9h9)
-- [The Rise of Shoppable Content: Turning Blogs, Reels, and Posts Into Sales](https://dev.to/molly_scott_0605/the-rise-of-shoppable-content-turning-blogs-reels-and-posts-into-sales-2j18)
-- [Memory in AI Companions: Implementing Vector-Based Long-Term User State](https://dev.to/nsfwcoders/memory-in-ai-companions-implementing-vector-based-long-term-user-state-3d5f)
-- [Meta Returns to Open Source AI with Omnilingual ASR Models](https://dev.to/logicverse_2025/meta-returns-to-open-source-ai-with-omnilingual-asr-models-33cg)
-- [What Is an Asset Model in IT Asset Management?](https://dev.to/teresa_tran/what-is-an-asset-model-in-it-asset-management-9c4)
+- [Entendiendo las URLs: Conceptos Básicos Basados en el Estándar RFC](https://dev.to/untalsanders/entendiendo-las-urls-conceptos-basicos-basados-en-el-estandar-rfc-13mo)
+- [Real-World Applications of AI: How It Will Impact Industries in 2026](https://dev.to/alona_instandart/real-world-applications-of-ai-how-it-will-impact-industries-in-2026-4fnd)
+- [How I Built a System That Works While I Sleep](https://dev.to/koni_jang/how-i-built-a-system-that-works-while-i-sleep-4bcn)
+- [Angular Addicts #43: Vitest, Signal Forms, Animations &amp; more](https://dev.to/this-is-angular/angular-addicts-43-vitest-signal-forms-animations-more-3lcd)
+- [I Tried Thousands of ChatGPT Prompts, and These 4 Saved Me Hours &lpar;No BS&rpar;](https://dev.to/nitinfab/i-tried-thousands-of-chatgpt-prompts-and-these-4-saved-me-hours-no-bs-2d3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
