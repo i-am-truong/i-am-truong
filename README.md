@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Cut Your AI API Costs: Six Proven Strategies](https://dev.to/andrey_makarenko_a8d1130d/how-to-cut-your-ai-api-costs-six-proven-strategies-45nn)
-- [Running LangChain ReactAgent in browser](https://dev.to/ocleo1/running-langchain-reactagent-in-browser-24ik)
-- [Create and run Windows on Arm virtual machines on AWS Graviton processors using QEMU and KVM](https://dev.to/aws-builders/create-and-run-windows-on-arm-virtual-machines-on-aws-graviton-processors-using-qemu-and-kvm-310j)
-- [The Hidden Cost of Event-Driven Architecture: Why Decoupling Can Triple Your Debugging Time](https://dev.to/carlosinfantes/the-hidden-cost-of-event-driven-architecture-why-decoupling-can-triple-your-debugging-time-58m)
-- [How We Integrated Licensed Fleets into a Global Ride-Hailing Platform](https://dev.to/nualimov/how-we-integrated-licensed-fleets-into-a-global-ride-hailing-platform-30en)
+- [Entre Código e Pedagogia: o que aprendi ao ensinar IA a escrever tutoriais de Programação Funcional](https://dev.to/profsergiocosta/entre-codigo-e-pedagogia-o-que-aprendi-ao-ensinar-ia-a-escrever-tutoriais-de-programacao-funcional-4opk)
+- [NestJS Week 2: Exception Filters, Query Params, and Why You Should Stop Using Try-Catch Everywhere](https://dev.to/tochukwu_dev/nestjs-week-2-exception-filters-query-params-and-why-you-should-stop-using-try-catch-everywhere-40af)
+- [Building Lootboxes with Verifiable Randomness on Polkadot Parachains](https://dev.to/driemworks/building-lootboxes-with-verifiable-randomness-on-polkadot-parachains-f7o)
+- [How does it scale? The most basic benchmark on MongoDB](https://dev.to/franckpachot/how-does-it-scale-the-most-basic-benchmark-on-mongodb-p9b)
+- [✅Quick Tip: .wait&lpar;&rpar; a Second](https://dev.to/jmosley/quick-tip-wait-a-second-n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
