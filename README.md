@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Você criou uma API, mas não tem documentação? Eita... 😅](https://dev.to/andersoncontreira/voce-criou-uma-api-mas-nao-tem-documentacao-eita-53a3)
-- [Reinventar a roda: um erro que muitas empresas ainda cometem](https://dev.to/andersoncontreira/reinventar-a-roda-um-erro-que-muitas-empresas-ainda-cometem-2ojo)
-- [Common WordPress Errors &lpar;And How to Fix Them Like a Pro&rpar; ⚠️](https://dev.to/anemnavinrao/common-wordpress-errors-and-how-to-fix-them-like-a-pro-318l)
-- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-55m3)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-49kc)
+- [How I Accidentally Built My Own Mixpanel Alternative](https://dev.to/lindesvard/how-i-accidentally-built-my-own-mixpanel-alternative-45i6)
+- [🌐 Build Your Own MCP Server — and Connect It to *Any* MCP Client &lpar;Claude, VSCode, GitHub, and More&rpar;](https://dev.to/cesar_nikolascamacmelen/build-your-own-mcp-server-and-connect-it-to-any-mcp-client-claude-vscode-github-and-more-c55)
+- [Distributed RPC Framework in a Low-Code Platform &lpar;~3,000 LOC&rpar;](https://dev.to/canonical/distributed-rpc-framework-in-a-low-code-platform-3000-loc-1phh)
+- [The State of Apache Iceberg, Polaris, and Arrow: November 5-11](https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-polaris-and-arrow-november-5-11-a8o)
+- [JavaScript Decorators: Supercharge Your Functions Without Changing Them](https://dev.to/samuel_ochaba_eb9c875fa89/javascript-decorators-supercharge-your-functions-without-changing-them-nj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
