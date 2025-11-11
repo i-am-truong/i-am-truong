@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Designing Blockchain #1: Introduction](https://dev.to/dmytro_svynarenko/designing-blockchain-1-introduction-401j)
+- [What’s New in React 19.2 – Activity API, useEffectEvent, cacheSignal &amp; More](https://dev.to/manikandan/whats-new-in-react-192-activity-api-useeffectevent-cachesignal-more-1e3e)
 - [AgriCredit Africa: Building Trust and Financial Access for African Farmers](https://dev.to/n3on/agricredit-africa-building-trust-and-financial-access-for-african-farmers-4175)
 - [Handling custom web security rules, how do you do it?](https://dev.to/thinkvalue/handling-custom-web-security-rules-how-do-you-do-it-lcl)
 - [Smooth Page Transitions with Zero Libraries: The View Transitions API](https://dev.to/highflyer910/smooth-page-transitions-with-zero-libraries-the-view-transitions-api-3o0m)
-- [Non-Patent Literature Search for Invalidation: Expert Guide for IP Professionals](https://dev.to/patentscanai/non-patent-literature-search-for-invalidation-expert-guide-for-ip-professionals-28aj)
-- [How to Use AI Models Locally in VS Code with the Continue Plugin &lpar;with Multi-Model Switching Support&rpar;](https://dev.to/manikandan/how-to-use-ai-models-locally-in-vs-code-with-the-continue-plugin-with-multi-model-switching-3na0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
