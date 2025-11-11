@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Majestic Labs vs. the Memory Wall](https://dev.to/0xrelogic/majestic-labs-vs-the-memory-wall-35o6)
 - [Entre Código e Pedagogia: o que aprendi ao ensinar IA a escrever tutoriais de Programação Funcional](https://dev.to/profsergiocosta/entre-codigo-e-pedagogia-o-que-aprendi-ao-ensinar-ia-a-escrever-tutoriais-de-programacao-funcional-4opk)
 - [NestJS Week 2: Exception Filters, Query Params, and Why You Should Stop Using Try-Catch Everywhere](https://dev.to/tochukwu_dev/nestjs-week-2-exception-filters-query-params-and-why-you-should-stop-using-try-catch-everywhere-40af)
 - [Building Lootboxes with Verifiable Randomness on Polkadot Parachains](https://dev.to/driemworks/building-lootboxes-with-verifiable-randomness-on-polkadot-parachains-f7o)
 - [How does it scale? The most basic benchmark on MongoDB](https://dev.to/franckpachot/how-does-it-scale-the-most-basic-benchmark-on-mongodb-p9b)
-- [✅Quick Tip: .wait&lpar;&rpar; a Second](https://dev.to/jmosley/quick-tip-wait-a-second-n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
