@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project: Cloud Guardrails with OPA + Conftest + Config/SecurityHub + Auto-Remediation](https://dev.to/jumptotech/project-cloud-guardrails-with-opa-conftest-configsecurityhub-auto-remediation-lcl)
 - [Servicios de AWS que un Cloud Security Engineer debe dominar, aunque NO sean &quot;servicios de seguridad&quot; per se](https://dev.to/pangoro24/servicios-de-aws-que-un-cloud-security-engineer-debe-dominar-aunque-no-sean-servicios-de-4bji)
 - [Como Baixar, Quantizar e Rodar um Modelo LLM Localmente no Ollama](https://dev.to/carineneris/como-baixar-quantizar-e-rodar-um-modelo-llm-localmente-no-ollama-1kpi)
 - [Docker](https://dev.to/jumptotech/docker-225l)
 - [Kubernetes](https://dev.to/jumptotech/kubernetes-g9p)
-- [How to Disable HTTP Request Logs in Medusa v1 and v2?](https://dev.to/u11d/how-to-disable-http-request-logs-in-medusa-v1-and-v2-4j05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
