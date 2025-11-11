@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Networking Basics Guide for DevOps Engineers](https://dev.to/serveravatar/networking-basics-guide-for-devops-engineers-38lg)
+- [Subscribers in PKI: Who Actually Uses the Certificates](https://dev.to/dcs-soni/subscribers-in-pki-who-actually-uses-the-certificates-42od)
+- [Prometheus + K6 Fusion: Measure API Performance with Real-Time Metrics in Grafana](https://dev.to/asraful_haque/prometheus-k6-fusion-measure-api-performance-with-real-time-metrics-in-grafana-4nl7)
 - [Tom Lee Loves Ethereum—but He’s Ignoring the Elephant in the Room](https://dev.to/bitnet4ever/tom-lee-loves-ethereum-but-hes-ignoring-the-elephant-in-the-room-3kf3)
 - [Why Recruiters Are Switching to AI Interviews for Talent Evaluation](https://dev.to/skillsauce/why-recruiters-are-switching-to-ai-interviews-for-talent-evaluation-4o3b)
-- [How to load test PostgreSQL database and not miss anything](https://dev.to/tantorlabs/how-to-load-test-postgresql-database-and-not-miss-anything-9jk)
-- [Every Sunday, I Refactor Old Code](https://dev.to/hadil/every-sunday-i-refactor-old-code-1g18)
-- [Framelink Figma MCP vs Kombai: Which is Best for Figma-to-Code Automation?](https://dev.to/aakash67/figma-mcp-vs-kombai-which-is-best-for-figma-to-code-automation-4c2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
