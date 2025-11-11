@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular Directive that Elegantly Continues Truncated Text](https://dev.to/hosembafer/angular-directive-that-elegantly-continues-truncated-text-1f1h)
 - [🎯 Scenario #13 — Encrypt Secrets Using Sealed Secrets &lpar;Bitnami&rpar; in Kubernetes](https://dev.to/latchudevops/scenario-13-encrypt-secrets-using-sealed-secrets-bitnami-in-kubernetes-32fl)
-- [Black Friday WordPress Checklist: How Agencies Can Keep Client Stores Running Smoothly](https://dev.to/medha_bhatt_21b7dc4cc53e7/black-friday-wordpress-checklist-how-agencies-can-keep-client-stores-running-smoothly-4h1c)
-- [The DevOps Blindspot: Why Reliability and Security Are Two Sides of the Same Coin](https://dev.to/taiwoakinbolaji/why-reliability-and-security-are-two-sides-of-the-same-coin-lcn)
-- [How to Use Path Aliases &#39;@&#39; in React Native with Expo](https://dev.to/cathylai/how-to-use-path-aliases-in-react-native-with-expo-1fl2)
-- [Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive](https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433)
+- [How To Migrate Load Balanced Application by Using a Blue Green and Canary Deployment Strategy](https://dev.to/thukhakyawe_cloud/how-to-migrate-load-balanced-application-by-using-a-blue-green-and-canary-deployment-strategy-543k)
+- [How to Reduce AWS Costs by 50% Without Sacrificing Performance: A Complete Guide](https://dev.to/instadevops/how-to-reduce-aws-costs-by-50-without-sacrificing-performance-a-complete-guide-40e0)
+- [I just coined &quot;AI drift&quot; – and built AI Driftmaster to kill it &lpar;open-source MCP server&rpar;](https://dev.to/joshua_girod_3de84618c813/i-just-coined-ai-drift-and-built-ai-driftmaster-to-kill-it-open-source-mcp-server-4lgf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
