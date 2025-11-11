@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Majestic Labs vs. the Memory Wall](https://dev.to/0xrelogic/majestic-labs-vs-the-memory-wall-35o6)
-- [Entre Código e Pedagogia: o que aprendi ao ensinar IA a escrever tutoriais de Programação Funcional](https://dev.to/profsergiocosta/entre-codigo-e-pedagogia-o-que-aprendi-ao-ensinar-ia-a-escrever-tutoriais-de-programacao-funcional-4opk)
-- [NestJS Week 2: Exception Filters, Query Params, and Why You Should Stop Using Try-Catch Everywhere](https://dev.to/tochukwu_dev/nestjs-week-2-exception-filters-query-params-and-why-you-should-stop-using-try-catch-everywhere-40af)
-- [Building Lootboxes with Verifiable Randomness on Polkadot Parachains](https://dev.to/driemworks/building-lootboxes-with-verifiable-randomness-on-polkadot-parachains-f7o)
-- [How does it scale? The most basic benchmark on MongoDB](https://dev.to/franckpachot/how-does-it-scale-the-most-basic-benchmark-on-mongodb-p9b)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2iab)
+- [100 Days of Code — My GitHub Streak Journey &lpar;Aug 4 Nov 11&rpar;](https://dev.to/aman_kureshi_/100-days-of-code-my-github-streak-journey-aug-4-nov-11-3dpj)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-enc)
+- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-1i98)
+- [Chem-R: Learning to Reason as a Chemist](https://dev.to/paperium/chem-r-learning-to-reason-as-a-chemist-71l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
