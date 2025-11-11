@@ -123,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 - [The Rise of Shoppable Content: Turning Blogs, Reels, and Posts Into Sales](https://dev.to/molly_scott_0605/the-rise-of-shoppable-content-turning-blogs-reels-and-posts-into-sales-2j18)
 - [Memory in AI Companions: Implementing Vector-Based Long-Term User State](https://dev.to/nsfwcoders/memory-in-ai-companions-implementing-vector-based-long-term-user-state-3d5f)
 - [Meta Returns to Open Source AI with Omnilingual ASR Models](https://dev.to/logicverse_2025/meta-returns-to-open-source-ai-with-omnilingual-asr-models-33cg)
-- [Networking Basics Guide for DevOps Engineers](https://dev.to/serveravatar/networking-basics-guide-for-devops-engineers-38lg)
+- [What Is an Asset Model in IT Asset Management?](https://dev.to/teresa_tran/what-is-an-asset-model-in-it-asset-management-9c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
