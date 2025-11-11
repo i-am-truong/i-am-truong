@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [💻 Flutter V2Ray Client Desktop Plugin — V2Ray/Xray &amp; Sing-Box VPN for Windows, macOS, Linux](https://dev.to/amirzr/flutter-v2ray-client-desktop-plugin-v2rayxray-sing-box-vpn-for-windows-macos-linux-5h9d)
+- [Mastering Cryptography: A Senior&#39;s Guide to Design, Attack, and Defend](https://dev.to/tsaplina_elena/mastering-cryptography-a-seniors-guide-to-design-attack-and-defend-h9c)
 - [Djowda — Looking for a New Steward for an Open FoodTech Ecosystem](https://dev.to/mosescodedev/djowda-looking-for-a-new-steward-for-an-open-foodtech-ecosystem-30gc)
+- [Podcast: ConformIQ CEO &amp; LayerLens Co-Founder on the Reality of AI in Testing](https://dev.to/mj_creamer/podcast-conformiq-ceo-layerlens-co-founder-on-the-reality-of-ai-in-testing-4mbe)
 - [What Actually Happens When You Type a URL in the Browser?](https://dev.to/byte-sized-news/what-actually-happens-when-you-type-a-url-in-the-browser-5b08)
-- [Building a Neo4j NIF for Elixir: When the Ecosystem Doesn&#39;t Have What You Need](https://dev.to/chris_warner_f0238f9f0cb3/building-a-neo4j-nif-for-elixir-when-the-ecosystem-doesnt-have-what-you-need-1maa)
-- [How Writing Prompts Taught Me to Think Like a Programmer](https://dev.to/hannahpiercewriter/how-writing-prompts-taught-me-to-think-like-a-programmer-376b)
-- [So… what is GitHub Copilot’s &quot;Raptor mini&quot;and why should devs care?](https://dev.to/vevarunsharma/so-what-is-github-copilots-raptor-miniand-why-should-devs-care-3n30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
