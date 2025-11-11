@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Man gets drunk, vibe codes AI Only forum.](https://dev.to/scott_raisbeck_24ea5fbc1e/man-gets-drunk-vibe-codes-ai-only-forum-dmg)
-- [How AI Property Manager Streamlines Rental Management](https://dev.to/gerrit_cole/how-ai-property-manager-streamlines-rental-management-2p86)
-- [Map a Kubernetes cluster with one command](https://dev.to/agardnerit/map-a-kubernetes-cluster-with-one-command-29g4)
-- [From Localhost to Global Scale: Deploying a Multi-Agent AI Interior Designer with Google Cloud Run](https://dev.to/hesham_ash/from-localhost-to-global-scale-deploying-a-multi-agent-ai-interior-designer-with-google-cloud-run-2mp4)
-- [Day 1263 : The Package](https://dev.to/dwane/day-1263-the-package-23kg)
+- [How I Built AgriPath: An AI-Powered Farming Platform That Increases Profits by 90% Using Google Cloud Run and ADK](https://dev.to/anil_kumarum/how-i-built-agripath-an-ai-powered-farming-platform-that-increases-profits-by-90-using-google-14k5)
+- [Inside Quantum Ball: Building a Playful Oracle with AI Studio + Cloud Run](https://dev.to/akifin_6f85bfd38e12738869/inside-quantum-ball-building-a-playful-oracle-with-ai-studio-cloud-run-5g9l)
+- [Building NetGenius Instructor Copilot: A Multi-Agent AI System on Google Cloud Run](https://dev.to/racampos/building-netgenius-instructor-copilot-a-multi-agent-ai-system-on-google-cloud-run-54if)
+- [Building Scalable, Fault-Tolerant, and Highly Available Cloud Architectures with AWS Best Practices.](https://dev.to/taiwoakinbolaji/building-scalable-fault-tolerant-and-highly-available-cloud-architectures-with-aws-best-practices-2a5f)
+- [Searching Algorithms Part 2: Pattern Matching in Strings with Z, KMP, and Rabin-Karp](https://dev.to/picciniuscodes/searching-algorithms-part-2-pattern-matching-in-strings-with-z-kmp-and-rabin-karp-178d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
