@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Solid Cache on Heroku with a Single Database](https://dev.to/mrispoli24/setting-up-solid-cache-on-heroku-with-a-single-database-49c5)
-- [I Built an API-First Document Workflow Engine &lpar;Looking for Feedback&rpar;](https://dev.to/juniorchar2025/i-built-an-api-first-document-workflow-engine-looking-for-feedback-1kdf)
-- [Trabalhar para empresas internacionais não é impossível](https://dev.to/andersoncontreira/trabalhar-para-empresas-internacionais-nao-e-impossivel-bj3)
-- [Talk Early, Fail Less: How Communication Builds Great Teams](https://dev.to/reenanms/talk-early-fail-less-how-communication-builds-great-teams-3l4b)
-- [🔥 Why Your Deep Neural Network Fails at Layer 50 &lpar;And How ResNet Fixes It&rpar;](https://dev.to/igornosatov_15/why-your-deep-neural-network-fails-at-layer-50-and-how-resnet-fixes-it-3c4f)
+- [How to Cut Your AI API Costs: Six Proven Strategies](https://dev.to/andrey_makarenko_a8d1130d/how-to-cut-your-ai-api-costs-six-proven-strategies-45nn)
+- [Running LangChain ReactAgent in browser](https://dev.to/ocleo1/running-langchain-reactagent-in-browser-24ik)
+- [Create and run Windows on Arm virtual machines on AWS Graviton processors using QEMU and KVM](https://dev.to/aws-builders/create-and-run-windows-on-arm-virtual-machines-on-aws-graviton-processors-using-qemu-and-kvm-310j)
+- [The Hidden Cost of Event-Driven Architecture: Why Decoupling Can Triple Your Debugging Time](https://dev.to/carlosinfantes/the-hidden-cost-of-event-driven-architecture-why-decoupling-can-triple-your-debugging-time-58m)
+- [How We Integrated Licensed Fleets into a Global Ride-Hailing Platform](https://dev.to/nualimov/how-we-integrated-licensed-fleets-into-a-global-ride-hailing-platform-30en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
