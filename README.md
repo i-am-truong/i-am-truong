@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Basics: A Beginner&#39;s Guide to Branches](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-branches-3dnn)
+- [Calendario de Adviento IA 2025](https://dev.to/roberto_navarro_mate/calendario-de-adviento-ia-2025-ice)
+- [Анонимность onion-сервисов: почему нельзя определить IP-адрес и как устроена распределенная сеть Tor](https://dev.to/vlad_vlad_5d5d04b906e2b08/anonimnost-onion-siervisov-pochiemu-nielzia-opriedielit-ip-adries-i-kak-ustroiena-raspriedieliennaia-siet-tor-5gad)
 - [Streamlining IT Operations with AI-powered CMDB in ServiceNow](https://dev.to/kiran_vedagiri_ae39372758/streamlining-it-operations-with-ai-powered-cmdb-in-servicenow-1o45)
 - [Command to Generate Console Message from Server in WebForms Core 2](https://dev.to/elanatframework/command-to-generate-console-message-from-server-in-webforms-core-2-4k5o)
-- [Google Maps Routes API: Passing the 25 Waypoint Limit](https://dev.to/dannyhodge/google-maps-routes-api-passing-the-25-waypoint-limit-3m0)
-- [Construindo um Operador Kubernetes com Go](https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld)
-- [Ability to Create Async Commands in WebForms Core 2](https://dev.to/elanatframework/ability-to-create-async-commands-in-webforms-core-2-2ghk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
