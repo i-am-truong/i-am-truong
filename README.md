@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Differences Between CAN and Modbus](https://dev.to/jamesliu/differences-between-can-and-modbus-45i1)
-- [🗑️ Add Dynamic Delete Button and Add Row Feature in Joget Spreadsheet](https://dev.to/exploringmylifeworks/add-dynamic-delete-button-and-add-row-feature-in-joget-spreadsheet-3jio)
-- [Mastering Bash Scripting: A Comprehensive Guide for Developers](https://dev.to/farhad_rahimi_klie/mastering-bash-scripting-a-comprehensive-guide-for-developers-34)
-- [Can AI for founders outpace hiring in startups?](https://dev.to/jay_all_day/can-ai-for-founders-outpace-hiring-in-startups-4fp2)
-- [Check out the guide on - Mastering Reinforcement Learning with R: Building Smarter Decisions Through Data-Driven Experience](https://dev.to/thedatageek/check-out-the-guide-on-mastering-reinforcement-learning-with-r-building-smarter-decisions-27dd)
+- [Getting started with Robotics](https://dev.to/nicanor_korir/getting-started-with-robotics-3f0g)
+- [Risk Management in the Age of AI Trading Tools](https://dev.to/globridge-tech/risk-management-in-the-age-of-ai-trading-tools-3lgo)
+- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-47g1)
+- [Skip the Cloud Setup: Expose Your Express.js App Securely from Localhost](https://dev.to/lightningdev123/skip-the-cloud-setup-expose-your-expressjs-app-securely-from-localhost-24p8)
+- [Enhancing App Security with OTP SMS APIs: A Developer’s Guide](https://dev.to/dbhatasana/enhancing-app-security-with-otp-sms-apis-a-developers-guide-1o4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
