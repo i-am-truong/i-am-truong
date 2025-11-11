@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I learned to “use AI” in 3 baby steps](https://dev.to/miffens/how-i-learned-to-use-ai-in-3-baby-steps-2216)
+- [Build Your Own ChatGPT Clone — Cheap and Fast](https://dev.to/criselda_gomez_1ea592dd24/build-your-own-chatgpt-clone-cheap-and-fast-47p4)
+- [Top Open-Source MCP Servers and SDKs to Explore: Your Gateway to AI Superpowers](https://dev.to/manonaga2188/top-open-source-mcp-servers-and-sdks-to-explore-your-gateway-to-ai-superpowers-38ab)
 - [The Skill Gap Nobody Talks About: Communication in Tech Teams](https://dev.to/careerbytecode/the-skill-gap-nobody-talks-about-communication-in-tech-teams-53ae)
 - [The Future of Cloud Computing: Trends to Watch in 2025](https://dev.to/itcs11/the-future-of-cloud-computing-trends-to-watch-in-2025-17b9)
-- [Getting Started with Requestly Local Workspace for Local Development](https://dev.to/dharmendrasolanki/getting-started-with-requestly-local-workspace-for-local-development-5h0h)
-- [AI Wearables 2025: Smart Health Gadgets That Know You Better Than Ever](https://dev.to/creative_soul_1f7d988fcf9/ai-wearables-2025-smart-health-gadgets-that-know-you-better-than-ever-3kna)
-- [Understanding Word Embedding: Bridging Language and Numbers](https://dev.to/sujana_acharya_6a128bc2ba/understanding-word-embedding-bridging-language-and-numbers-7j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
