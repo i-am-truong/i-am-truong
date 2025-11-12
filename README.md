@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [✨ Two New Tools Are Live on QuickZap](https://dev.to/curry_lau_9674447236abfc0/two-new-tools-are-live-on-quickzap-5bdl)
-- [Battery-Powered LoRaWAN Temperature and Humidity Sensor: Balancing Power Efficiency and Real-Time Data](https://dev.to/manthink/battery-powered-lorawan-temperature-and-humidity-sensor-balancing-power-efficiency-and-real-time-59gh)
-- [Navigating the Future of IT: Trends, Challenges, and Opportunities](https://dev.to/itcs11/navigating-the-future-of-it-trends-challenges-and-opportunities-3g4a)
-- [What Is Elasticsearch and How to Set It Up in WordPress](https://dev.to/serveravatar/what-is-elasticsearch-and-how-to-set-it-up-in-wordpress-836)
-- [Master C# Programming: Complete Tutorial for Modern Developers](https://dev.to/tpointtechblog/master-c-programming-complete-tutorial-for-modern-developers-5fi)
+- [Super Memory AI: From Basics to Advanced Implementation](https://dev.to/techstuff/super-memory-ai-from-basics-to-advanced-implementation-1iil)
+- [localStorage - One of the simplest yet most powerful browser features every front-end developer should master](https://dev.to/richa-parekh/localstorage-one-of-the-simplest-yet-most-powerful-browser-features-every-front-end-developer-1bj)
+- [A Practical Guide to Using localStorage in JavaScript &lpar;With Mini Project&rpar;](https://dev.to/richa-parekh/a-practical-guide-to-using-localstorage-in-javascript-with-mini-project-5h7l)
+- [🚀 Building AI Agents with FastAPI + OpenAI](https://dev.to/jack_054f709f32eb58774029/building-ai-agents-with-fastapi-openai-4och)
+- [Rate-based vs. Window-based Throttling](https://dev.to/godofgeeks/rate-based-vs-window-based-throttling-2h96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
