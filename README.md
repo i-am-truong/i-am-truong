@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Family Sharing: The Retention Strategy That Turns Subscriptions into Shared Value](https://dev.to/paywallpro/family-sharing-the-retention-strategy-that-turns-subscriptions-into-shared-value-57p7)
-- [Mastering SQL — From Zero to Hero](https://dev.to/farhad_rahimi_klie/mastering-sql-from-zero-to-hero-3481)
-- [Fix Loading module from ... was blocked because of a disallowed MIME type](https://dev.to/chuongmep/fix-loading-module-from-was-blocked-because-of-a-disallowed-mime-type-543m)
-- [Sridhar Vembu: Redefining Leadership in the Age of Noise](https://dev.to/solegaonkar/sridhar-vembu-redefining-leadership-in-the-age-of-noise-42n6)
-- [The Psychology Behind Powerful Prompts](https://dev.to/jaideepparashar/the-psychology-behind-powerful-prompts-gof)
+- [It&#39;s 2025. You Should Probably Be Using Expo for React Native.](https://dev.to/devi_green_00f82b6d705/its-2025-you-should-probably-be-using-expo-for-react-native-407a)
+- [Understanding L1 DevOps: The First Line of Support in Modern Operations](https://dev.to/srinivasamcjf/understanding-l1-devops-the-first-line-of-support-in-modern-operations-5fff)
+- [AWS Automated Report Generator: SQS &amp; Lambda](https://dev.to/godinhojoao/aws-automated-report-generator-sqs-lambda-4fn9)
+- [RangeLink v0.3.0: One Keybinding to Rule Them All](https://dev.to/couimet/rangelink-v030-one-keybinding-to-rule-them-all-2h01)
+- [✅ Scenario #14 – Integrate Kubernetes with Vault to fetch Secrets](https://dev.to/latchudevops/scenario-14-integrate-kubernetes-with-vault-to-fetch-secrets-2jdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
