@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [full text](https://dev.to/query_filter_591122b53770/full-text-3emj)
+- [Building an ICO on Canton Network](https://dev.to/dennisonbertram/building-an-ico-on-canton-network-2a31)
+- [AI&#39;s Achilles Heel: Can We *Prove* Plans Before They Execute?](https://dev.to/arvind_sundararajan/ais-achilles-heel-can-we-prove-plans-before-they-execute-2ba6)
 - [Predicting the Unpredictable: Reproducible BiLSTM Forecasting of Incident Countsin the Global Terrorism Database &lpar;GTD&rpar;](https://dev.to/paperium/predicting-the-unpredictable-reproducible-bilstm-forecasting-of-incident-countsin-the-global-2hka)
-- [Ma première extension Chrome... Synonymes Maison](https://dev.to/maison/ma-premiere-extension-chrome-synonymes-maison-2bi2)
-- [New major HMPL version 3.2.0 🕶](https://dev.to/hmpljs/new-major-version-320-79e)
-- [The Architecture of Traffic Arbitrage: A Professional&#39;s Blueprint](https://dev.to/tsaplina_elena/the-architecture-of-traffic-arbitrage-a-professionals-blueprint-3kpm)
-- [Building Your Own VPC on Linux: A DevOps Love Story 💘🐧](https://dev.to/herdeybayor/building-your-own-vpc-on-linux-a-devops-love-story-4ca1)
+- [Day 1: Building SpeakSheet – An AI-Powered Excel Generator &lpar;NextJS + Gemini + Python&rpar;](https://dev.to/varun_krishnan_1339308c02/day-1-building-speaksheet-an-ai-powered-excel-generator-nextjs-gemini-python-ifh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
