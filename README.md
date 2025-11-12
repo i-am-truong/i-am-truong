@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🌀 Simulating Time Loops in a Shed: A Spin-Biased FDTD Journey](https://dev.to/freedeathtv/simulating-time-loops-in-a-shed-a-spin-biased-fdtd-journey-2l)
+- [Beyond apps: what comes after the app store and google play](https://dev.to/georgemz/beyond-apps-what-comes-after-the-app-store-and-google-play-1jh8)
+- [SOLIDWORKS: Blech-Eigenschaften zu Zeichnungen hinzufügen](https://dev.to/cadstore/solidworks-blech-eigenschaften-zu-zeichnungen-hinzufugen-392g)
 - [SuperClaude: Tu Agente de IA ya no es Junior, Ahora es Arquitecto y se Sube al Stack.](https://dev.to/barrilitodev/superclaude-tu-agente-de-ia-ya-no-es-junior-ahora-es-arquitecto-y-se-sube-al-stack-7ee)
-- [blob10](https://dev.to/query_filter_591122b53770/blob10-31bn)
-- [Linux Security Auditing: 5 Hands-On Labs for Rsync Anonymous Sync, SMB Guest Access, and SSH Key Enumeration](https://dev.to/labex/linux-security-auditing-5-hands-on-labs-for-rsync-anonymous-sync-smb-guest-access-and-ssh-key-1p5)
-- [How Git History Reveals Your Riskiest Code](https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m)
-- [Can Sora 2 generate NSFW content? How can we try it?](https://dev.to/_37bbf0c253c0b3edec531e/can-sora-2-generate-nsfw-content-how-can-we-try-it-40gm)
+- [Beyond Scheduling: How Kubernetes Uses QoS, Priority, and Scoring to Keep Your Cluster Balanced](https://dev.to/gteegela/beyond-scheduling-how-kubernetes-uses-qos-priority-and-scoring-to-keep-your-cluster-balanced-40jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
