@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Async/Await is finally back in Zig](https://dev.to/barddoo/asyncawait-is-finally-back-in-zig-23hi)
-- [Beyond Sprints: A Scalable Milestone-Based Planning Model for Midsize Companies](https://dev.to/denwerok/beyond-sprints-a-scalable-milestone-based-planning-model-for-midsize-companies-1f56)
-- [🚀 How to Build and Deploy ChatGPT Apps with MCP Servers](https://dev.to/hani__8725b7a/how-to-build-and-deploy-chatgpt-apps-with-mcp-servers-4dda)
-- [MongoDB Query Optimization: How I Reduced Response Time from 2 Seconds to 200ms](https://dev.to/viveklumbhani/mongodb-query-optimization-how-i-reduced-response-time-from-2-seconds-to-200ms-bh2)
-- [🌀 Simulating Time Loops in a Shed: A Spin-Biased FDTD Journey](https://dev.to/freedeathtv/simulating-time-loops-in-a-shed-a-spin-biased-fdtd-journey-2l)
+- [CNNs: from a beginner&#39;s point of view](https://dev.to/nicanor_korir/cnns-from-a-beginners-point-of-view-7ek)
+- [Introducing eventsourcing.dev: A Clear Guide to Event Sourcing](https://dev.to/patriceckhart/introducing-eventsourcingdev-a-clear-guide-to-event-sourcing-3hga)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-37me)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-33m1)
+- [Git Deep Dive: Mastering rerere](https://dev.to/louis7/git-deep-dive-mastering-rerere-12jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
