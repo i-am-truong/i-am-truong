@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SuperClaude: Tu Agente de IA ya no es Junior, Ahora es Arquitecto y se Sube al Stack.](https://dev.to/barrilitodev/superclaude-tu-agente-de-ia-ya-no-es-junior-ahora-es-arquitecto-y-se-sube-al-stack-7ee)
+- [blob10](https://dev.to/query_filter_591122b53770/blob10-31bn)
+- [Linux Security Auditing: 5 Hands-On Labs for Rsync Anonymous Sync, SMB Guest Access, and SSH Key Enumeration](https://dev.to/labex/linux-security-auditing-5-hands-on-labs-for-rsync-anonymous-sync-smb-guest-access-and-ssh-key-1p5)
 - [How Git History Reveals Your Riskiest Code](https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m)
-- [Deploy an Astro Blog with Cloudflare Pages and Porkbun](https://dev.to/picoable/deploy-an-astro-blog-with-cloudflare-pages-and-porkbun-m5o)
-- [In 2025, AI regulations were established in four major global regions.](https://dev.to/akari_iku/in-2025-ai-regulations-were-established-in-four-major-global-regions-1lbp)
-- [Managing GitHub Copilot &amp; VS Code Settings Across Teams](https://dev.to/pwd9000/managing-github-copilot-vs-code-settings-across-teams-1phj)
-- [How Buffer Pooling Doubled My HTTP Server&#39;s Throughput &lpar;4,000 7,721 RPS&rpar;](https://dev.to/uthman_dev/how-buffer-pooling-doubled-my-http-servers-throughput-4000-7721-rps-3i0g)
+- [Can Sora 2 generate NSFW content? How can we try it?](https://dev.to/_37bbf0c253c0b3edec531e/can-sora-2-generate-nsfw-content-how-can-we-try-it-40gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
