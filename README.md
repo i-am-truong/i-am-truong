@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Web Developers Should Embrace AI-Powered Code Assistants in 2025](https://dev.to/umaarahmed/why-web-developers-should-embrace-ai-powered-code-assistants-in-2025-26h9)
-- [🌿 SaijinOS Part 8 — Interface as Breath: Designing Calm Interaction](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-8-interface-as-breath-designing-calm-interaction-3pn2)
-- [Building a Social Network Analyzer with CXXGraph: From Friend Recommendations to Influence Detection](https://dev.to/zigrazor/building-a-social-network-analyzer-with-cxxgraph-from-friend-recommendations-to-influence-detection-5e8p)
-- [7 Projects to Master Frontend Development](https://dev.to/hashbyt/7-projects-to-master-frontend-development-ag0)
-- [The Rise of AI in Everyday Applications](https://dev.to/itcs11/the-rise-of-ai-in-everyday-applications-4i3b)
+- [Migrating 60+ Git Branches from Azure DevOps to GitHub Enterprise: A Practical Guide](https://dev.to/hamada147/migrating-60-git-branches-from-azure-devops-to-github-enterprise-a-practical-guide-27mm)
+- [Why Your Automation Keeps Getting Detected: A Developer’s Guide to Browser Fingerprinting](https://dev.to/vietnam/why-your-automation-keeps-getting-detected-a-developers-guide-to-browser-fingerprinting-4k08)
+- [The Magic Behind the Screen: When Bollywood Meets Hollywood](https://dev.to/ariz17blogs/the-magic-behind-the-screen-when-bollywood-meets-hollywood-4je9)
+- [How I Created Superior RAG Retrieval With 3 Files in Supabase](https://dev.to/anthony_lee_63e96408d7573/how-i-created-superior-rag-retrieval-with-3-files-in-supabase-4o25)
+- [Why Web Developers Must Embrace AI-Powered Code Assistants in 2025 &lpar;A Developer’s Awakening Story&rpar;](https://dev.to/umaarahmed/why-web-developers-should-embrace-ai-powered-code-assistants-in-2025-26h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
