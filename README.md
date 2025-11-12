@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Management Courses: Master the Skills to Lead Successful Projects](https://dev.to/ptp_8f8dfa1f68e86d92296b6/project-management-courses-master-the-skills-to-lead-successful-projects-3o00)
+- [Nx vs. Turborepo: Integrated Ecosystem or High-Speed Task Runner? The Key Decision for Your Monorepo](https://dev.to/thedavestack/nx-vs-turborepo-integrated-ecosystem-or-high-speed-task-runner-the-key-decision-for-your-monorepo-279)
+- [Progressive Web Apps: Building Offline-First UIs – Never Lose Your Users Again!](https://dev.to/karthik_n/progressive-web-apps-building-offline-first-uis-never-lose-your-users-again-2mip)
+- [Day 27 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-27-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3e45)
 - [Boost Developer productivity and DBOps efficiency with AWS Aurora Cloning](https://dev.to/aws-builders/boost-developer-productivity-and-dbops-efficiency-with-aws-aurora-cloning-5cc8)
-- [From Idea to Alpha in 30 Days — Building SkillHunt as a Solo Founder](https://dev.to/m_midas/from-idea-to-alpha-in-30-days-building-skillhunt-as-a-solo-founder-3ll9)
-- [Is Vibe Coding Creating a Digital Universe-25? The Hidden Risk of Losing Purpose in an AI-Assisted World](https://dev.to/yaseen_tech/is-vibe-coding-creating-a-digital-universe-25-the-hidden-risk-of-losing-purpose-in-an-ai-assisted-207l)
-- [🌩️ What Is Cloud Native? Key Features and Uses](https://dev.to/maahir19/what-is-cloud-native-key-features-and-uses-31m2)
-- [How to Set Up an Automated WordPress LEMP Server with SSL on AWS &lpar;Using Ansible&rpar;](https://dev.to/alanvarghese-dev/how-to-set-up-an-automated-wordpress-lemp-server-with-ssl-on-aws-using-ansible-4h74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
