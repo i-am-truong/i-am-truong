@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tines - SOAR Tool](https://dev.to/kuljotbiring/tines-soar-tool-37fh)
 - [GoREST is dead...](https://dev.to/nicolasbonnici/gorest-is-dead-1ap9)
+- [Developer onboarding is broken in most companies.](https://dev.to/whykislay/developer-onboarding-is-broken-in-most-companies-4hhn)
 - [full text](https://dev.to/query_filter_591122b53770/full-text-3emj)
 - [Receiving Webhooks in RestlessIDE](https://dev.to/restlessmike/receiving-webhooks-in-restlesside-932)
-- [[Boost]](https://dev.to/zecho/-5dfc)
-- [Building an ICO on Canton Network](https://dev.to/dennisonbertram/building-an-ico-on-canton-network-2a31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
