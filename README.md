@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Saving Game Data in Unity — Part 3: ScriptableObjects](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-3-scriptableobjects-2ob7)
+- [🧠 Cursor Composer 1 vs Claude 4.5 Agent Build Comparison ⚡](https://dev.to/composiodev/cursor-composer-1-vs-claude-45-agent-build-comparison-2big)
 - [7 JavaScript APIs You Probably Aren’t Using &lpar;But Should&rpar;](https://dev.to/tawe/7-javascript-apis-you-probably-arent-using-but-should-k78)
 - [9 Developer Productivity Tools You Wish You Knew Sooner 🔥🧑‍💻](https://dev.to/madza/9-developer-productivity-tools-you-wish-you-knew-sooner-4iee)
 - [Omarchy: A New Linux Distro for Pragmatic Users](https://dev.to/stelixx-insider/omarchy-a-new-linux-distro-for-pragmatic-users-55dp)
-- [&quot;Your Plans Aren&#39;t Realistic&quot;: The Brutal Honesty That Prevents Burnout](https://dev.to/tlorent/your-plans-arent-realistic-the-brutal-honesty-that-prevents-burnout-53lp)
-- [Transforming Manufacturing Intelligence with Snowflake Intelligence: A Complete Solution](https://dev.to/bharaths86/transforming-manufacturing-intelligence-with-snowflake-intelligence-a-complete-solution-3489)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
