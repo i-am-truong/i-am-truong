@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Pulse — a small language for deterministic concurrency in JavaScript](https://dev.to/osvfelices/building-pulse-a-small-language-for-deterministic-concurrency-in-javascript-4058)
-- [When Confidence Meets Production: Lessons from a Missing Slash](https://dev.to/akhilkishore/when-confidence-meets-production-lessons-from-a-missing-slash-3lnf)
-- [Information is not knowledge And Knowledge Is Not Wisdom](https://dev.to/thinking_healer/information-is-not-knowledge-and-knowledge-is-not-wisdom-4p8g)
-- [Build an AI Summarizer Agent in TypeScript Using Mastra &lpar;Part 2&rpar;: Connect to Frontend](https://dev.to/timmydee/build-an-ai-summarizer-agent-in-typescript-using-mastra-part-2-connect-to-frontend-9om)
-- [When You Should “Wet” Your Code: Why Blindly Following DRY Can Hurt Your Project](https://dev.to/petrtcoi/when-you-should-wet-your-code-why-blindly-following-dry-can-hurt-your-project-5hl2)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-12nk)
+- [How I Built a Tiny Tool That Makes Responsive Design Feel Effortless](https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-874)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5gh1)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-49c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
