@@ -119,17 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Self-Hosted Alternative to Cloudflare](https://dev.to/arina_cholee/a-self-hosted-alternative-to-cloudflare-fcd)
-- [Golang Step-by-Step: HTTP, Socket, WebSocket, and gRPC](https://dev.to/kingyou/golang-step-by-step-http-socket-websocket-and-grpc-5aoa)
-- [The Future of AI: Context Engineering in 2025 and Beyond](https://dev.to/lofcz/the-future-of-ai-context-engineering-in-2025-and-beyond-5n9)
-- [Hey folks, I&#39;ve written a new blog on &quot;Intro to Terraform&quot;
-
-I would love to hear your feedback about it.
-
-Here it is: https://dev.to/btejas/introduction-to-terraform-automating-your-cloud-infrastructure-136h
-
-Feel free to roast :&rpar;](https://dev.to/btejas/hey-folks-ive-written-a-new-blog-on-intro-to-terraform-i-would-love-to-hear-your-feedback-3b3f)
-- [The Python Structure Viewer: A Clear Window into Your Code](https://dev.to/aaron_rose_0787cc8b4775a0/the-python-structure-viewer-a-clear-window-into-your-code-1gi9)
+- [📐 Material 3 Adaptive: Implementing Window Size Classes in Kotlin Compose](https://dev.to/marlonlom/material-3-adaptive-implementing-window-size-classes-in-kotlin-compose-40po)
+- [Gerenciamento seguro e eficiente de tokens com Go e Redis](https://dev.to/cvilanova76/gerenciamento-seguro-e-eficiente-de-tokens-com-go-e-redis-432d)
+- [Unlocking the Power of Microservices: How to Build Scalable Apps and Earn Online](https://dev.to/softwaredeveloperhub01/unlocking-the-power-of-microservices-how-to-build-scalable-apps-and-earn-online-ong)
+- [Concorrência em Go: o uso de locks e channels para evitar deadlocks](https://dev.to/cvilanova76/concorrencia-em-go-o-uso-de-locks-e-channels-para-evitar-deadlocks-53p3)
+- [Pengalaman saya menggunakan FlyEnv selama 6 bulan](https://dev.to/sihar/pengalaman-saya-menggunakan-flyenv-selama-6-bulan-4m8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
