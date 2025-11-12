@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [O time ideal: equilíbrio entre experiência, potencial e colaboração](https://dev.to/andersoncontreira/o-time-ideal-equilibrio-entre-experiencia-potencial-e-colaboracao-1a7)
-- [Compartilhar conhecimento não te faz perder espaço, te faz crescer](https://dev.to/andersoncontreira/compartilhar-conhecimento-nao-te-faz-perder-espaco-te-faz-crescer-7h3)
-- [The Truth About Open Source: It&#39;s Intimidating &lpar;Until You Start&rpar;](https://dev.to/shalinibhavi525sudo/the-truth-about-open-source-its-intimidating-until-you-start-4c6a)
-- [The Rise of Neurolov: A Browser-Based Compute Network Enabling Real Utility for Decentralized AI and Content Workloads](https://dev.to/neurolov__ai/the-rise-of-neurolov-a-browser-based-compute-network-enabling-real-utility-for-decentralized-ai-47ef)
-- [🌍 web.dev — Build Better Websites](https://dev.to/ml318097/webdev-build-better-websites-41h6)
+- [The Poem That Taught Me to Listen](https://dev.to/sarahlinwrites/the-poem-that-taught-me-to-listen-3i72)
+- [💳 Building a Lightweight PayPal Payment Gateway Service in C#](https://dev.to/auyeungdavid_2847435260/building-a-reusable-paypal-payment-gateway-service-in-c-2o91)
+- [[Boost]](https://dev.to/incitopcuoglu/-3353)
+- [Unlocking AI Reasoning: The Power of Hierarchical Skipping](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-hierarchical-skipping-2384)
+- [Animated Gradient Generator App](https://dev.to/shreyvijayvargiya/animated-gradient-generator-app-1486)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
