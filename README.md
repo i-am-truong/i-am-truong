@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-12nk)
-- [How I Built a Tiny Tool That Makes Responsive Design Feel Effortless](https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-874)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5gh1)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-49c5)
+- [Boost Developer productivity and DBOps efficiency with AWS Aurora Cloning](https://dev.to/aws-builders/boost-developer-productivity-and-dbops-efficiency-with-aws-aurora-cloning-5cc8)
+- [From Idea to Alpha in 30 Days — Building SkillHunt as a Solo Founder](https://dev.to/m_midas/from-idea-to-alpha-in-30-days-building-skillhunt-as-a-solo-founder-3ll9)
+- [Is Vibe Coding Creating a Digital Universe-25? The Hidden Risk of Losing Purpose in an AI-Assisted World](https://dev.to/yaseen_tech/is-vibe-coding-creating-a-digital-universe-25-the-hidden-risk-of-losing-purpose-in-an-ai-assisted-207l)
+- [🌩️ What Is Cloud Native? Key Features and Uses](https://dev.to/maahir19/what-is-cloud-native-key-features-and-uses-31m2)
+- [How to Set Up an Automated WordPress LEMP Server with SSL on AWS &lpar;Using Ansible&rpar;](https://dev.to/alanvarghese-dev/how-to-set-up-an-automated-wordpress-lemp-server-with-ssl-on-aws-using-ansible-4h74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
