@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [This article is for those devs who don&#39;t value QA testing while developing mobile apps.](https://dev.to/devang18/this-article-is-for-those-devs-who-dont-value-qa-testing-while-developing-mobile-apps-44mk)
+- [[Free eBook] How We Built a Practical Framework for Evaluating AI Agents in Production](https://dev.to/karthikavinash/free-ebook-how-we-built-a-practical-framework-for-evaluating-ai-agents-in-production-22pf)
+- [8 Million Records in 156ms](https://dev.to/huynhnhanquoc/8-million-records-in-156ms-3m9f)
+- [ASTA Framework: Character Grid-Based UI Components for Developers](https://dev.to/jqueryscript/asta-framework-character-grid-based-ui-components-for-developers-4j24)
+- [What Really Happens When You Access AWS: Complete Data Flow Example](https://dev.to/aws-builders/what-really-happens-when-you-access-aws-complete-data-flow-example-3j4c)
 - [☁️ My First Wish for Myself](https://dev.to/huynhnhanquoc/my-first-wish-for-myself-ffk)
-- [Day 41 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-41-of-100-days-dsa-coding-challenge-5amd)
-- [Two Years for a Journey](https://dev.to/huynhnhanquoc/two-years-for-a-journey-130f)
-- [Do You Want to Code — or Become a Developer?](https://dev.to/huynhnhanquoc/do-you-want-to-code-or-become-a-developer-1apf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
