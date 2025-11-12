@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/gadget/-3fjb)
 - [My Project: pyquest](https://dev.to/rylan/my-project-pyquest-1d6a)
 - [Image Load Races in React Native - Fix It in One Line](https://dev.to/cathylai/image-load-races-in-react-native-fix-it-in-one-line-53ee)
+- [14 Best In-App Chat Features That Shape Better User Experiences](https://dev.to/getstreamhq/14-best-in-app-chat-features-that-shape-better-user-experiences-2gb8)
 - [I built something for busy parents who want to run](https://dev.to/lexingdailylife/i-built-something-for-busy-parents-who-want-to-run-187g)
-- [Pin It or Bin It Pt 3: The Agent Firewall](https://dev.to/jl03/pin-it-or-bin-it-pt-3-the-agent-firewall-3ml9)
-- [Pin It or Bin It](https://dev.to/jl03/pin-it-or-bin-it-3b4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
