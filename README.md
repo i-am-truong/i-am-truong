@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Legacy Windows to AI Agent: The Journey of MintBridge to REMI &lpar;Final PoC&rpar;](https://dev.to/jramone3/from-legacy-windows-to-ai-agent-the-journey-of-mintbridge-to-remi-final-poc-4mm1)
+- [The next machine learning startup is in your front yard](https://dev.to/leon_lin_s/the-next-machine-learning-startup-is-in-your-front-yard-hg9)
+- [Efficient Android Screen Recording Using MediaRecorder + MediaProjection](https://dev.to/cat_dogrunning_in_the_s/efficient-android-screen-recording-using-mediarecorder-mediaprojection-27ib)
+- [Enclave Games Monthly Report: October 2025](https://dev.to/end3r/enclave-games-monthly-report-october-2025-12k3)
 - [Yann LeCun to depart Meta and launch AI startup focused on &#39;world models&#39;](https://dev.to/technoblogger14o3/yann-lecun-to-depart-meta-and-launch-ai-startup-focused-on-world-models-1102)
-- [Pure Cascade — Week 4: Chrome Extension MVP](https://dev.to/__23aca6dca/pure-cascade-week-4-chrome-extension-mvp-4dd5)
-- [What’s New At Releem - October 2025](https://dev.to/drupaladmin/whats-new-at-releem-october-2025-4ei0)
-- [&#39;Tech Debt&#39; Is a Self-Fulfilling Prophecy](https://dev.to/stevenstuartm/tech-debt-is-a-self-fulfilling-prophecy-4a59)
-- [How We Catch UI Bugs Early with Visual Regression Testing](https://dev.to/subito/how-we-catch-ui-bugs-early-with-visual-regression-testing-and-playwright-5h2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
