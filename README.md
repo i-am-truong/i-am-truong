@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yann LeCun to depart Meta and launch AI startup focused on &#39;world models&#39;](https://dev.to/technoblogger14o3/yann-lecun-to-depart-meta-and-launch-ai-startup-focused-on-world-models-1102)
 - [Pure Cascade — Week 4: Chrome Extension MVP](https://dev.to/__23aca6dca/pure-cascade-week-4-chrome-extension-mvp-4dd5)
 - [What’s New At Releem - October 2025](https://dev.to/drupaladmin/whats-new-at-releem-october-2025-4ei0)
 - [&#39;Tech Debt&#39; Is a Self-Fulfilling Prophecy](https://dev.to/stevenstuartm/tech-debt-is-a-self-fulfilling-prophecy-4a59)
 - [How We Catch UI Bugs Early with Visual Regression Testing](https://dev.to/subito/how-we-catch-ui-bugs-early-with-visual-regression-testing-and-playwright-5h2a)
-- [GitHub Copilot: The Smart Way to Manage Issues, Bugs, and Tasks](https://dev.to/gioboa/github-copilot-the-smart-way-to-manage-issues-bugs-and-tasks-46gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
