@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gadget/-3fjb)
-- [My Project: pyquest](https://dev.to/rylan/my-project-pyquest-1d6a)
-- [Image Load Races in React Native - Fix It in One Line](https://dev.to/cathylai/image-load-races-in-react-native-fix-it-in-one-line-53ee)
-- [14 Best In-App Chat Features That Shape Better User Experiences](https://dev.to/getstreamhq/14-best-in-app-chat-features-that-shape-better-user-experiences-2gb8)
-- [I built something for busy parents who want to run](https://dev.to/lexingdailylife/i-built-something-for-busy-parents-who-want-to-run-187g)
+- [EnvSecOps: The Obviously Painful Path Forward](https://dev.to/jl03/envsecops-the-obviously-painful-path-forward-3gaa)
+- [Use Gadget&#39;s Preact hooks to build Shopify UI extensions](https://dev.to/gadget/use-gadgets-preact-hooks-to-build-shopify-ui-extensions-43o)
+- [PokeeResearch: Effective Deep Research via Reinforcement Learning from AIFeedback and Robust Reasoning Scaffold](https://dev.to/paperium/pokeeresearch-effective-deep-research-via-reinforcement-learning-from-aifeedback-and-robust-5a0)
+- [AI Content Marketing: 2025&#39;s Game-Changing Strategies](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025s-game-changing-strategies-4mm)
+- [Decoding the Daily Grind: AI That Understands Your Unspoken Routines](https://dev.to/arvind_sundararajan/decoding-the-daily-grind-ai-that-understands-your-unspoken-routines-1m4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
