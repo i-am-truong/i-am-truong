@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code legacy: Analyzing Erlang&#39;s C and C++ modules that have been running for decades](https://dev.to/pvsdev/code-legacy-analyzing-erlangs-c-and-c-modules-that-have-been-running-for-decades-3lng)
-- [How to Monetise Your API in Next.js using the x402 Protocol](https://dev.to/koha/how-to-monetise-your-api-in-nextjs-using-the-x402-protocol-2oci)
-- [🚀 Introducing ArkenoPlay: Let’s Build Together!](https://dev.to/arkeno-org/introducing-arkenoplay-lets-build-together-3d7a)
-- [The Complete Guide to Managing Bulk 35mm Film Rolls](https://dev.to/orwoshop/the-complete-guide-to-managing-bulk-35mm-film-rolls-pjo)
-- [try this app....](https://dev.to/dev_ops_python/try-this-app-4bhp)
+- [Localizing React re-renders: the magic of compositional boundaries](https://dev.to/unsleeping/localizing-react-re-renders-the-magic-of-compositional-boundaries-39og)
+- [🌀 The Circular Profile Showcase Protocol: Amplify Your Online Presence Across GitHub, LinkedIn, Dev.to, WordPress &amp; Hashnode](https://dev.to/akhilkishore/the-circular-profile-showcase-protocol-amplify-your-online-presence-across-github-linkedin-5dn5)
+- [The Prompt Engineer is Dead. Long Live the AI Systems Architect.](https://dev.to/tixu_ai/the-prompt-engineer-is-dead-long-live-the-ai-systems-architect-4oib)
+- [WTF is chaos engineering?](https://dev.to/dailybugle33/wtf-is-chaos-engineering-ca0)
+- [How to Design a Color Theory Palette using 3D CAD Software](https://dev.to/julia970/how-to-design-a-color-theory-palette-using-3d-cad-software-kkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
