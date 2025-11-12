@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top AI Test Case Generators in 2025: Automate Software Testing with Smarter AI Tools](https://dev.to/alexai/top-ai-test-case-generators-in-2025-automate-software-testing-with-smarter-ai-tools-beo)
+- [🚀 TCP vs UDP — What You Think You Know Is Already Outdated](https://dev.to/jamie_wang_5a76e661ad80fa/tcp-vs-udp-what-you-think-you-know-is-already-outdated-en2)
+- [SOLID and its relationship with OOP](https://dev.to/khafido/solid-and-its-relationship-with-oop-jmm)
 - [Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️](https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-j5p)
-- [Super Memory AI: From Basics to Advanced Implementation](https://dev.to/techstuff/super-memory-ai-from-basics-to-advanced-implementation-1iil)
-- [localStorage - One of the simplest yet most powerful browser features every front-end developer should master](https://dev.to/richa-parekh/localstorage-one-of-the-simplest-yet-most-powerful-browser-features-every-front-end-developer-1bj)
-- [A Practical Guide to Using localStorage in JavaScript &lpar;With Mini Project&rpar;](https://dev.to/richa-parekh/a-practical-guide-to-using-localstorage-in-javascript-with-mini-project-5h7l)
-- [🚀 Building AI Agents with FastAPI + OpenAI](https://dev.to/jack_054f709f32eb58774029/building-ai-agents-with-fastapi-openai-4och)
+- [Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️](https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-35cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
