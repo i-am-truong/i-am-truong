@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built My Own Windows Installer in C#](https://dev.to/iamsopotatoecoder/why-i-built-my-own-windows-installer-in-c-5ap9)
-- [Terraform, but Safer — How I Built tf-safe to Protect State Files Automatically](https://dev.to/birhrt/terraform-but-safer-how-i-built-tf-safe-to-protect-state-files-automatically-2ndd)
-- [blob14](https://dev.to/query_filter_591122b53770/blob14-3a0j)
-- [Integrate SDKs for Profitable AI Conversations with Monetzly](https://dev.to/monetzly/integrate-sdks-for-profitable-ai-conversations-with-monetzly-48c6)
-- [AI in Content Marketing: 2025&#39;s Biggest Shift](https://dev.to/synergistdigitalmedia/ai-in-content-marketing-2025s-biggest-shift-550e)
+- [How I Built a &quot;Community Prayer Quilt&quot; in 5 Minutes](https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk)
+- [Starting my MBA](https://dev.to/obiako/starting-my-mba-12bl)
+- [Scale Frontend Application: Journey from Zero to Millions of users.](https://dev.to/akashpal/scale-frontend-application-journey-from-zero-to-millions-of-users-1697)
+- [Evolving Minds: Building Adaptable AI Through Strategic Response Learning](https://dev.to/arvind_sundararajan/evolving-minds-building-adaptable-ai-through-strategic-response-learning-2j24)
+- [Recent research in AI Sports Coach has led to a groundbreaki](https://dev.to/drcarlosruizviquez/recent-research-in-ai-sports-coach-has-led-to-a-groundbreaki-2c3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
