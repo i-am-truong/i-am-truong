@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Just another November 11](https://dev.to/codemoron/just-another-november-11-1eag)
+- [How to Design a Scalable Architecture for Cloud Applications](https://dev.to/daya-shankar/how-to-design-a-scalable-architecture-for-cloud-applications-cb3)
+- [Create Your First MCP Tool: The readFile Tool Explained](https://dev.to/ndabene/create-your-first-mcp-tool-the-readfile-tool-explained-3e0h)
 - [🚀 Why Programming Knowledge Still Matters in the Age of AI Development Tools](https://dev.to/harukin399/why-programming-knowledge-still-matters-in-the-age-of-ai-development-tools-11b9)
 - [Sending Emails in Laravel with Mailtrap: A Beginner&#39;s Guide](https://dev.to/rohitdhiman/sending-emails-in-laravel-with-mailtrap-a-beginners-guide-1dfl)
-- [Deploying NestJS Microservices to Azure Container Apps](https://dev.to/ibraheembello/deploying-nestjs-microservices-to-azure-container-apps-1jh4)
-- [Introduction to FPGA and Verification of FPGA-based designs](https://dev.to/alpinumblogs/introduction-to-fpga-and-verification-of-fpga-based-designs-32ai)
-- [Build a Complete Data Pipeline from Scratch: CSV to Dashboard Using Python, MySQL, and Airflow”](https://dev.to/srinivasamcjf/build-a-complete-data-pipeline-from-scratch-csv-to-dashboard-using-python-mysql-and-airflow-558c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
