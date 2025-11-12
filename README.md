@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: My European Tour Recap!](https://dev.to/music_youtube/rick-beato-my-european-tour-recap-25ec)
-- [StackSpot AI: Transforme Seu Fluxo de Desenvolvimento com Agentes Inteligentes](https://dev.to/glaucia86/stackspot-ai-transforme-seu-fluxo-de-desenvolvimento-com-agentes-inteligentes-56lo)
-- [Pin It or Bin It &lpar;for the brewsters&rpar;](https://dev.to/jl03/pin-it-or-bin-it-for-the-brewsters-4aoe)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c9l)
-- [Python basics - Day 26](https://dev.to/ian_b838138a27a917398d181/python-basics-day-26-3664)
+- [Pure Cascade — Week 4: Chrome Extension MVP](https://dev.to/__23aca6dca/pure-cascade-week-4-chrome-extension-mvp-4dd5)
+- [What’s New At Releem - October 2025](https://dev.to/drupaladmin/whats-new-at-releem-october-2025-4ei0)
+- [&#39;Tech Debt&#39; Is a Self-Fulfilling Prophecy](https://dev.to/stevenstuartm/tech-debt-is-a-self-fulfilling-prophecy-4a59)
+- [How We Catch UI Bugs Early with Visual Regression Testing](https://dev.to/subito/how-we-catch-ui-bugs-early-with-visual-regression-testing-and-playwright-5h2a)
+- [GitHub Copilot: The Smart Way to Manage Issues, Bugs, and Tasks](https://dev.to/gioboa/github-copilot-the-smart-way-to-manage-issues-bugs-and-tasks-46gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
