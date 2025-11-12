@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [faster whisper从多媒体语音材料中抽取出文本-3](https://dev.to/dragon72463399/faster-whispercong-duo-mei-ti-yu-yin-cai-liao-zhong-chou-qu-chu-wen-ben-3-4li3)
+- [faster whisper从多媒体语音材料中抽取出文本-2](https://dev.to/dragon72463399/faster-whispercong-duo-mei-ti-yu-yin-cai-liao-zhong-chou-qu-chu-wen-ben-2-4hnd)
 - [Just another November 11](https://dev.to/codemoron/just-another-november-11-1eag)
 - [How to Design a Scalable Architecture for Cloud Applications](https://dev.to/daya-shankar/how-to-design-a-scalable-architecture-for-cloud-applications-cb3)
 - [Create Your First MCP Tool: The readFile Tool Explained](https://dev.to/ndabene/create-your-first-mcp-tool-the-readfile-tool-explained-3e0h)
-- [🚀 Why Programming Knowledge Still Matters in the Age of AI Development Tools](https://dev.to/harukin399/why-programming-knowledge-still-matters-in-the-age-of-ai-development-tools-11b9)
-- [Sending Emails in Laravel with Mailtrap: A Beginner&#39;s Guide](https://dev.to/rohitdhiman/sending-emails-in-laravel-with-mailtrap-a-beginners-guide-1dfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
