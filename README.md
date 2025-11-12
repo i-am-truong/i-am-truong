@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Localizing React re-renders: the magic of compositional boundaries](https://dev.to/unsleeping/localizing-react-re-renders-the-magic-of-compositional-boundaries-39og)
-- [🌀 The Circular Profile Showcase Protocol: Amplify Your Online Presence Across GitHub, LinkedIn, Dev.to, WordPress &amp; Hashnode](https://dev.to/akhilkishore/the-circular-profile-showcase-protocol-amplify-your-online-presence-across-github-linkedin-5dn5)
-- [The Prompt Engineer is Dead. Long Live the AI Systems Architect.](https://dev.to/tixu_ai/the-prompt-engineer-is-dead-long-live-the-ai-systems-architect-4oib)
-- [WTF is chaos engineering?](https://dev.to/dailybugle33/wtf-is-chaos-engineering-ca0)
-- [How to Design a Color Theory Palette using 3D CAD Software](https://dev.to/julia970/how-to-design-a-color-theory-palette-using-3d-cad-software-kkf)
+- [When Confidence Meets Production: Lessons from a Missing Slash](https://dev.to/akhilkishore/when-confidence-meets-production-lessons-from-a-missing-slash-3lnf)
+- [Information is not knowledge And Knowledge Is Not Wisdom](https://dev.to/thinking_healer/information-is-not-knowledge-and-knowledge-is-not-wisdom-4p8g)
+- [Build an AI Summarizer Agent in TypeScript Using Mastra &lpar;Part 2&rpar;: Connect to Frontend](https://dev.to/timmydee/build-an-ai-summarizer-agent-in-typescript-using-mastra-part-2-connect-to-frontend-9om)
+- [When You Should “Wet” Your Code: Why Blindly Following DRY Can Hurt Your Project](https://dev.to/petrtcoi/when-you-should-wet-your-code-why-blindly-following-dry-can-hurt-your-project-5hl2)
+- [Manual to Automation — the transformation every company needs!](https://dev.to/sumitha_s_1dc1e6e2eae468b/manual-to-automation-the-transformation-every-company-needs-5hgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
