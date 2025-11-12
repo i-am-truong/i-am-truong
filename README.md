@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database Indexing Explained Like You&#39;re 5 &lpar;Then Like You&#39;re a Senior Dev&rpar;](https://dev.to/adhikareeprayush/database-indexing-explained-like-youre-5-then-like-youre-a-senior-dev-57hc)
-- [Betting on Yourself: A Quick Guide for Young Tech Entrepreneurs](https://dev.to/n3on/betting-on-yourself-a-quick-guide-for-young-tech-entrepreneurs-4k4p)
-- [GPT 5.1 just dropped](https://dev.to/ben/gpt-51-just-dropped-52nb)
-- [Fixing Common Git Lock Errors: Understanding and Recovering from .git/index.lock](https://dev.to/rijultp/fixing-common-git-lock-errors-understanding-and-recovering-from-gitindexlock-47ej)
-- [Oracle AI Database 26ai: Bind Variable Support in Materialized View Query Rewrite](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-bind-variable-support-in-materialized-view-query-rewrite-8of)
+- [How OLSRT breaks languages barriers?](https://dev.to/javadinteger/how-olsrt-breaks-languages-barriers-40o3)
+- [blob19](https://dev.to/query_filter_591122b53770/blob19-gb3)
+- [Masonry Grid Goes CSS-Only: An Experimental Approach](https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c)
+- [Can I using OLSRT in my project?](https://dev.to/javadinteger/can-i-using-olsrt-to-my-project-129p)
+- [Building a Production-Ready VPC Implementation on Linux. HNG Internship Task 4: Complete VPC Control System with Networking](https://dev.to/masterpitan/building-a-production-ready-vpc-implementation-on-linux-hng-internship-task-4-complete-vpc-control-3h9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
