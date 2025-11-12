@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Poem That Taught Me to Listen](https://dev.to/sarahlinwrites/the-poem-that-taught-me-to-listen-3i72)
-- [💳 Building a Lightweight PayPal Payment Gateway Service in C#](https://dev.to/auyeungdavid_2847435260/building-a-reusable-paypal-payment-gateway-service-in-c-2o91)
-- [[Boost]](https://dev.to/incitopcuoglu/-3353)
-- [Unlocking AI Reasoning: The Power of Hierarchical Skipping](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-hierarchical-skipping-2384)
-- [Animated Gradient Generator App](https://dev.to/shreyvijayvargiya/animated-gradient-generator-app-1486)
+- [7 JavaScript APIs You Probably Aren’t Using &lpar;But Should&rpar;](https://dev.to/tawe/7-javascript-apis-you-probably-arent-using-but-should-k78)
+- [9 Developer Productivity Tools You Wish You Knew Sooner 🔥🧑‍💻](https://dev.to/madza/9-developer-productivity-tools-you-wish-you-knew-sooner-4iee)
+- [Omarchy: A New Linux Distro for Pragmatic Users](https://dev.to/stelixx-insider/omarchy-a-new-linux-distro-for-pragmatic-users-55dp)
+- [&quot;Your Plans Aren&#39;t Realistic&quot;: The Brutal Honesty That Prevents Burnout](https://dev.to/tlorent/your-plans-arent-realistic-the-brutal-honesty-that-prevents-burnout-53lp)
+- [Transforming Manufacturing Intelligence with Snowflake Intelligence: A Complete Solution](https://dev.to/bharaths86/transforming-manufacturing-intelligence-with-snowflake-intelligence-a-complete-solution-3489)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
