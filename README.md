@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Neuro-Symbolic Wednesdays: Can/Will LLMs Learn to Reason?](https://dev.to/centaurai/neuro-symbolic-wednesdays-canwill-llms-learn-to-reason-3did)
-- [Making Neovim Your Own: A Practical Guide for VSCode Users](https://dev.to/orue/making-neovim-your-own-a-practical-guide-for-vscode-users-3f6p)
-- [🧱 Part 1: Why Every Frontend Developer Should Learn NGINX](https://dev.to/vishwark/part-1-why-every-frontend-developer-should-learn-nginx-4g82)
-- [blob6](https://dev.to/query_filter_591122b53770/blob6-17lk)
-- [Any-Depth Alignment: Unlocking Innate Safety Alignment of LLMs to Any-Depth](https://dev.to/paperium/any-depth-alignment-unlocking-innate-safety-alignment-of-llms-to-any-depth-1ii0)
+- [How Git History Reveals Your Riskiest Code](https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m)
+- [Deploy an Astro Blog with Cloudflare Pages and Porkbun](https://dev.to/picoable/deploy-an-astro-blog-with-cloudflare-pages-and-porkbun-m5o)
+- [In 2025, AI regulations were established in four major global regions.](https://dev.to/akari_iku/in-2025-ai-regulations-were-established-in-four-major-global-regions-1lbp)
+- [Managing GitHub Copilot &amp; VS Code Settings Across Teams](https://dev.to/pwd9000/managing-github-copilot-vs-code-settings-across-teams-1phj)
+- [How Buffer Pooling Doubled My HTTP Server&#39;s Throughput &lpar;4,000 7,721 RPS&rpar;](https://dev.to/uthman_dev/how-buffer-pooling-doubled-my-http-servers-throughput-4000-7721-rps-3i0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
