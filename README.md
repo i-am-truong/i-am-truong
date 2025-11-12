@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code legacy: Analyzing Erlang&#39;s C and C++ modules that have been running for decades](https://dev.to/pvsdev/code-legacy-analyzing-erlangs-c-and-c-modules-that-have-been-running-for-decades-3lng)
+- [How to Monetise Your API in Next.js using the x402 Protocol](https://dev.to/koha/how-to-monetise-your-api-in-nextjs-using-the-x402-protocol-2oci)
 - [🚀 Introducing ArkenoPlay: Let’s Build Together!](https://dev.to/arkeno-org/introducing-arkenoplay-lets-build-together-3d7a)
-- [Building Software in the Age of AI: The Mindset Shift and the Playbook That Actually Works](https://dev.to/cleberdelima/building-software-in-the-age-of-ai-the-mindset-shift-and-the-playbook-that-actually-works-42jc)
-- [Top 9 Lightstep &lpar;ServiceNow&rpar; Alternatives in 2025 &lpar;And How to Migrate&rpar;](https://dev.to/signoz/top-9-lightstep-servicenow-alternatives-in-2025-and-how-to-migrate-5135)
-- [Chronosphere vs Datadog: Which Observability Platform is Right for You in 2025?](https://dev.to/signoz/chronosphere-vs-datadog-which-observability-platform-is-right-for-you-in-2025-546n)
-- [⚡ Real-Time Notifications: How Instant Updates Can Make or Break Your App](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-notifications-how-instant-updates-can-make-or-break-your-app-5hc2)
+- [The Complete Guide to Managing Bulk 35mm Film Rolls](https://dev.to/orwoshop/the-complete-guide-to-managing-bulk-35mm-film-rolls-pjo)
+- [try this app....](https://dev.to/dev_ops_python/try-this-app-4bhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
