@@ -119,11 +119,17 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2025 Complete Guide: In-Depth Analysis of ERNIE-4.5-VL-28B-A3B-Thinking Multimodal AI Model](https://dev.to/czmilo/2025-complete-guide-in-depth-analysis-of-ernie-45-vl-28b-a3b-thinking-multimodal-ai-model-1mib)
-- [👓 Quality Experience: Easy Ways to Introduce Accessibility Testing](https://dev.to/jmosley/quality-experience-easy-ways-to-introduce-accessibility-testing-2pof)
-- [Mi forma sencilla de limpiar un cangrejo azul sin liarla](https://dev.to/tommyviruzz/mi-forma-sencilla-de-limpiar-un-cangrejo-azul-sin-liarla-1h12)
-- [Secure Service-to-Service Auth: Verifying Laravel JWTs in a NestJS Microservice](https://dev.to/sopnonill87/secure-service-to-service-auth-verifying-laravel-jwts-in-a-nestjs-microservice-4h20)
-- [dev diary 20251111](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251112-2p61)
+- [A Self-Hosted Alternative to Cloudflare](https://dev.to/arina_cholee/a-self-hosted-alternative-to-cloudflare-fcd)
+- [Golang Step-by-Step: HTTP, Socket, WebSocket, and gRPC](https://dev.to/kingyou/golang-step-by-step-http-socket-websocket-and-grpc-5aoa)
+- [The Future of AI: Context Engineering in 2025 and Beyond](https://dev.to/lofcz/the-future-of-ai-context-engineering-in-2025-and-beyond-5n9)
+- [Hey folks, I&#39;ve written a new blog on &quot;Intro to Terraform&quot;
+
+I would love to hear your feedback about it.
+
+Here it is: https://dev.to/btejas/introduction-to-terraform-automating-your-cloud-infrastructure-136h
+
+Feel free to roast :&rpar;](https://dev.to/btejas/hey-folks-ive-written-a-new-blog-on-intro-to-terraform-i-would-love-to-hear-your-feedback-3b3f)
+- [The Python Structure Viewer: A Clear Window into Your Code](https://dev.to/aaron_rose_0787cc8b4775a0/the-python-structure-viewer-a-clear-window-into-your-code-1gi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
