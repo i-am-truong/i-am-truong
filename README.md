@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB for In-Repo Analytics: Warehouse-Grade Queries in Your Pull Requests](https://dev.to/pullflow/duckdb-for-in-repo-analytics-warehouse-grade-queries-in-your-pull-requests-4ha7)
-- [What Is a Controller in Kubernetes?](https://dev.to/jumptotech/what-is-a-controller-in-kubernetes-51jk)
-- [EnvSecOps: The Obviously Painful Path Forward](https://dev.to/jl03/envsecops-the-obviously-painful-path-forward-3gaa)
-- [Use Gadget&#39;s Preact hooks to build Shopify UI extensions](https://dev.to/gadget/use-gadgets-preact-hooks-to-build-shopify-ui-extensions-43o)
-- [AI Content Marketing: 2025&#39;s Game-Changing Strategies](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025s-game-changing-strategies-4mm)
+- [A controller in Kubernetes is a control loop that:](https://dev.to/jumptotech/a-controller-in-kubernetes-is-a-control-loop-that-23d3)
+- [He realizado un curso de 20 vídeos para aprender bases de datos](https://dev.to/luisjoselopezd/he-realizado-un-curso-de-20-videos-para-aprender-bases-de-datos-58id)
+- [Comprehensive Hands-on Walk Through of Dremio Cloud Next Gen &lpar;Hands-on with Free Trial&rpar;](https://dev.to/alexmercedcoder/comprehensive-hands-on-walk-through-of-dremio-cloud-next-gen-hands-on-with-free-trial-3b88)
+- [openai-whisper从多媒体抽取文本（windows GPU 版本）](https://dev.to/dragon72463399/openai-whispercong-duo-mei-ti-chou-qu-wen-ben-windows-gpu-ban-ben--5dc6)
+- [DSA Fundamentals: Binary Trees - Mastering Tree Traversal and Recursion](https://dev.to/jayk0001/dsa-fundamentals-binary-trees-mastering-tree-traversal-and-recursion-4gmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
