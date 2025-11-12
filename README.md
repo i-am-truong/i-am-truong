@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Project: pyquest](https://dev.to/rylan/my-project-pyquest-1d6a)
+- [Image Load Races in React Native - Fix It in One Line](https://dev.to/cathylai/image-load-races-in-react-native-fix-it-in-one-line-53ee)
+- [I built something for busy parents who want to run](https://dev.to/lexingdailylife/i-built-something-for-busy-parents-who-want-to-run-187g)
 - [Pin It or Bin It Pt 3: The Agent Firewall](https://dev.to/jl03/pin-it-or-bin-it-pt-3-the-agent-firewall-3ml9)
 - [Pin It or Bin It](https://dev.to/jl03/pin-it-or-bin-it-3b4l)
-- [Improving accessibility for popins: focus trap and keyboard handling](https://dev.to/yoriiis/improving-accessibility-for-popins-focus-trap-and-keyboard-handling-50k7)
-- [I built &lpar;another&rpar; Elm-style `useEffectReducer` hook for React ⚛️](https://dev.to/c4605/i-built-another-elm-style-useeffectreducer-hook-for-react-5fkd)
-- [Django learning Day 9 progress](https://dev.to/stackbento/django-learning-day-9-progress-1jbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
