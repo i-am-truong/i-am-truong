@@ -119,11 +119,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Built My Own Windows Installer in C#](https://dev.to/iamsopotatoecoder/why-i-built-my-own-windows-installer-in-c-5ap9)
 - [Terraform, but Safer — How I Built tf-safe to Protect State Files Automatically](https://dev.to/birhrt/terraform-but-safer-how-i-built-tf-safe-to-protect-state-files-automatically-2ndd)
 - [blob14](https://dev.to/query_filter_591122b53770/blob14-3a0j)
 - [Integrate SDKs for Profitable AI Conversations with Monetzly](https://dev.to/monetzly/integrate-sdks-for-profitable-ai-conversations-with-monetzly-48c6)
 - [AI in Content Marketing: 2025&#39;s Biggest Shift](https://dev.to/synergistdigitalmedia/ai-in-content-marketing-2025s-biggest-shift-550e)
-- [I Was Done Getting Answers — So I Built RAG That Asks Questions Too](https://dev.to/nishant_prakash_780f5d541/i-was-done-getting-answers-so-i-built-rag-that-asks-questions-too-1c2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START gadpp -->
